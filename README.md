@@ -1,6 +1,20 @@
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=ridelore&width=850)
 
 ### weekly statistics
+
+<!--
+for https://github.com/phixion/phixion/blob/main/.github/workflows/activity.yml
+-->
+<!--START_SECTION:activity-->
+
+
+
+
+
+
+<!--EB_SECTION:activity-->
+
+
 <!--
 for https://github.com/phixion/phixion/blob/main/.github/workflows/waka.yml
 -->
