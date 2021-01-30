@@ -15,4 +15,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          SHOW_TITLE: true
+          COMMIT_MESSAGE: updated the readme with wakatime graphs
           
