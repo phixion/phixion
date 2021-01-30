@@ -1,16 +1,16 @@
-name: github activity
-
-on:
-  schedule:
-    - cron: '*/30 * * * *'
-  workflow_dispatch:
-
 jobs:
-  build:
+  publish:
     runs-on: ubuntu-latest
-    name: recent gh activity
-
     steps:
+      - uses: actions/checkout@master
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+      - name: Create README.md
+        uses: actions-js/profile-readme@master
+        with:
+          username: phixion
+          github_token: ${{ secrets.GH_TOKEN }}
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
