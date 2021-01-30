@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+for https://github.com/phixion/phixion/blob/main/.github/workflows/waka.yml
+-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
