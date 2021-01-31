@@ -8,7 +8,6 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/activity.yml
 
 ```text
 <!--START_SECTION:activity-->
-```
 
 <!--
 for https://github.com/phixion/phixion/blob/main/.github/workflows/waka.yml
