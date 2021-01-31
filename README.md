@@ -16,7 +16,3 @@
 
 ---
 
-<p align="center">
-  Last refresh: 
-  <b>2021-01-30T02:56:57Z</b>
-</p>

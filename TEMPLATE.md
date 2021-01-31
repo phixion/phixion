@@ -1,4 +1,4 @@
-<!--GITHUB_ACTIVITY:{"rows": 15, "raw": true}-->
+<!--GITHUB_ACTIVITY:{"rows": 15}-->
 
 ---
 
