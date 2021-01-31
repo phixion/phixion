@@ -8,7 +8,7 @@ on:
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Update this repo's README with waka time
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
@@ -17,4 +17,3 @@ jobs:
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           SHOW_TITLE: true
           COMMIT_MESSAGE: updated the readme with wakatime graphs
-          
