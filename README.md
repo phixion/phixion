@@ -1,18 +1,21 @@
+
+#  
+
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=ridelore&width=850)
 
-### weekly statistics
-
 <!--
-for https://github.com/phixion/phixion/blob/main/.github/workflows/activity.yml
+for https://github.com/phixion/phixion/blob/main/.github/workflows/gh_activities.yml
 -->
+<code>
 
-```text
 <!--START_SECTION:activity-->
-```
+
+</code>
 
 <!--
 for https://github.com/phixion/phixion/blob/main/.github/workflows/waka.yml
 -->
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -25,3 +28,5 @@ reg        3 mins          ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
+
+![yhype](https://hit.yhype.me/github/profile?user_id=13013670)
