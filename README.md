@@ -22,11 +22,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/activity.yml
 -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#86](https://github.com/hassio-addons/addon-aircast/issues/86) in [hassio-addons/addon-aircast](https://github.com/hassio-addons/addon-aircast)
-2. 🗣 Commented on [#51739](https://github.com/home-assistant/core/issues/51739) in [home-assistant/core](https://github.com/home-assistant/core)
-3. 🗣 Commented on [#64](https://github.com/custom-components/authenticated/issues/64) in [custom-components/authenticated](https://github.com/custom-components/authenticated)
-4. 🗣 Commented on [#4017](https://github.com/keybase/keybase-issues/issues/4017) in [keybase/keybase-issues](https://github.com/keybase/keybase-issues)
-5. 🗣 Commented on [#318](https://github.com/Optware/Optware-ng/issues/318) in [Optware/Optware-ng](https://github.com/Optware/Optware-ng)
+1. 💪 Opened PR [#59](https://github.com/mampfes/hacs_waste_collection_schedule/pull/59) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
+2. 🗣 Commented on [#86](https://github.com/hassio-addons/addon-aircast/issues/86) in [hassio-addons/addon-aircast](https://github.com/hassio-addons/addon-aircast)
+3. 🗣 Commented on [#51739](https://github.com/home-assistant/core/issues/51739) in [home-assistant/core](https://github.com/home-assistant/core)
+4. 🗣 Commented on [#64](https://github.com/custom-components/authenticated/issues/64) in [custom-components/authenticated](https://github.com/custom-components/authenticated)
+5. 🗣 Commented on [#4017](https://github.com/keybase/keybase-issues/issues/4017) in [keybase/keybase-issues](https://github.com/keybase/keybase-issues)
 <!--END_SECTION:activity-->
 
 ### WakaTime
