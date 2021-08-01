@@ -1,0 +1,34 @@
+name: rss feeds
+on:
+  schedule:
+    # every 15th minute of the hour
+    - cron: "*/15 * * * *"
+jobs:
+  build:
+    name: Update this repo's README with selected feeds
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+      - name: haveibeenpwnd
+        uses: sarisia/actions-readme-feed@v1
+        with:
+          url: ${{ secrets.RSS_FEED_1 }}
+          file: "README.md"
+          start_flag: "<!--START_SECTION:haveibeenpwnd-->"
+          end_flag: "<!--END_SECTION:haveibeenpwnd-->"
+      - name: hackernews
+        uses: sarisia/actions-readme-feed@v1
+        with:
+          url: ${{ secrets.RSS_FEED_2 }}
+          file: "README.md"
+          start_flag: "<!--START_SECTION:hn-->"
+          end_flag: "<!--END_SECTION:hn-->"
+      - if: ${{ steps.feed.outputs.changed == true }}
+        run: |
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+          git add .
+          git commit -m "⚡ updated the README.md with data from feed" || true
+          git push
