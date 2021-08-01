@@ -32,9 +32,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 <!--END_SECTION:hn-->
 
-## Statistics
-
-### GitHub
+## GitHub activity
 
 <!--
 for https://github.com/phixion/phixion/blob/main/.github/workflows/activity.yml
@@ -42,7 +40,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/activity.yml
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-### WakaTime
+## Wakapi Statistics
 
 <!--
 for https://github.com/phixion/phixion/blob/main/.github/workflows/waka.yml

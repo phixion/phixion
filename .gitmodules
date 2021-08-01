@@ -1,2 +1,3 @@
 [submodule "phixion"]
-	url = https://github.com/phixion
+	path = phixion
+	url = git://github.com/phixion/phixion.git
