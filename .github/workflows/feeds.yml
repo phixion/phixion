@@ -27,9 +27,4 @@ jobs:
           start_flag: "<!--START_SECTION:hn-->"
           end_flag: "<!--END_SECTION:hn-->"
       - if: ${{ steps.feed.outputs.changed == true }}
-        run: |
-          git config --global user.name "${{ github.actor }}"
-          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
-          git add .
-          git commit -m "⚡ updated the README.md with data from feed" || true
-          git push
+        uses: sarisia/actions-commit@master
