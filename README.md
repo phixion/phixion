@@ -36,8 +36,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 01 - [Streak (YC S11) hiring a senior front end engineer (remote only)](https://www.streak.com/careers/product-engineer)
+- Aug 01 - [The Lost Cat Art of Ithaca, NY](https://www.lostcatithaca.com/map/)
 - Aug 01 - [L0phtcrack 7 will be released as open source](https://twitter.com/dildog/status/1421830165911556099)
-- Aug 01 - [On Veganism – and why it shouldn't be easily mocked and written off](https://www.aliciakennedy.news/p/on-veganism)
 - Aug 01 - [Google Cloud reported an operating loss of $5.6bn in 2020](https://www.theregister.com/2021/05/18/google_cloud_confirm_departure_of/)
 - Aug 01 - [Employers bow to tech workers in hottest job market since the dot-com era](https://www.latimes.com/business/story/2021-07-31/employers-bow-down-to-tech-workers-in-hottest-job-market)
 <!--END_SECTION:hn-->
