@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 01 - [Streak (YC S11) hiring a senior front end engineer (remote only)](https://www.streak.com/careers/product-engineer)
 - Aug 01 - [The Lost Cat Art of Ithaca, NY](https://www.lostcatithaca.com/map/)
 - Aug 01 - [L0phtcrack 7 will be released as open source](https://twitter.com/dildog/status/1421830165911556099)
-- Aug 01 - [Google Cloud reported an operating loss of $5.6B in 2020](https://www.theregister.com/2021/05/18/google_cloud_confirm_departure_of/)
+- Aug 01 - [Todo apps are meant for robots](https://blog.frantic.im/all/todo-apps-are-meant-for-robots/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
