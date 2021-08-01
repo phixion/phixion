@@ -27,7 +27,6 @@ jobs:
           start_flag: "<!--START_SECTION:hn-->"
           end_flag: "<!--END_SECTION:hn-->"
       - name: push to master
-        if: steps.feed.outputs.changed == true
         id: commit
         uses: sarisia/actions-commit@master
         with:
