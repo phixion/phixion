@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 01 - [Employers bow to tech workers in hottest job market since the dot-com era](https://www.latimes.com/business/story/2021-07-31/employers-bow-down-to-tech-workers-in-hottest-job-market)
+- Aug 01 - [What makes agile software development agile?](https://ieeexplore.ieee.org/abstract/document/9496156)
 - Aug 01 - [U.S. generates more plastic trash than any other nation, report finds](https://www.nationalgeographic.com/environment/article/us-plastic-pollution)
 - Aug 01 - [MacType: Better Font Rendering for Windows](https://github.com/snowie2000/mactype)
-- Aug 01 - [Intel Executive Posts Thunderbolt 5 Photo Then Deletes It: 80 Gbps and Pam-3](https://www.anandtech.com/show/16858/intel-executive-posts-thunderbolt-5-photo-80-gbps-and-pam3-then-deletes-it)
 - Aug 01 - [Synthetic Minds (YC S18) is hiring a compiler engineer for program synthesis](https://www.workatastartup.com/jobs/44386)
-- Aug 01 - [How Google quietly funds Europe’s leading tech policy institutes](https://www.newstatesman.com/business/sectors/2021/07/how-google-quietly-funds-europe-s-leading-tech-policy-institutes)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
