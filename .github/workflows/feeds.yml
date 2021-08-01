@@ -26,5 +26,9 @@ jobs:
           file: "README.md"
           start_flag: "<!--START_SECTION:hn-->"
           end_flag: "<!--END_SECTION:hn-->"
-      - if: ${{ steps.feed.outputs.changed == true }}
+      - name: push to master
+        if: steps.feed.outputs.changed == true
+        id: commit
         uses: sarisia/actions-commit@master
+        with:
+          message: "⚡ updated the README.md with data from feed"
