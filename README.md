@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 02 - [FB users buying Oculus VR headsets to get customer service prioritization](https://www.npr.org/2021/08/02/1023801277/your-facebook-account-was-hacked-getting-help-may-take-weeks-or-299)
 - Aug 02 - [Vue.js is Wikimedia Foundation's future JavaScript framework](https://lists.wikimedia.org/hyperkitty/list/wikitech-l@lists.wikimedia.org/thread/SOZREBYR36PUNFZXMIUBVAIOQI4N7PDU/)
 - Aug 02 - [AssemblyAI (YC S17) Is Hiring Python Developers and Account Execs](https://apply.workable.com/assemblyai/)
 - Aug 02 - [SpaceX installed 29 Raptor engines on a Super Heavy rocket last night](https://arstechnica.com/science/2021/08/spacex-installed-29-raptor-engines-on-a-super-heavy-rocket-last-night/)
 - Aug 02 - [Gpsd bug may create a 1024 week time warp on October 23](https://gitlab.com/gpsd/gpsd/-/issues/144)
-- Aug 02 - [Working around a case where the Postgres planner is “not very smart”](https://heap.io/blog/when-the-postgres-planner-is-not-very-smart)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
