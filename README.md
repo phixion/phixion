@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 02 - [“Pregnant Women”](http://harry-lewis.blogspot.com/2021/08/pregnant-women.html)
+- Aug 02 - [Xi Jinping’s Capitalist Smackdown Sparks a $1T Reckoning](https://www.bloomberg.com/news/features/2021-08-01/china-tech-crackdown-communist-party-policy-changes-behind-1-trillion-selloff)
 - Aug 02 - [Zoom settles US class action privacy lawsuit for $86m](https://www.bbc.com/news/business-58050391)
 - Aug 02 - [Thinking about “traceability” (Matthew Green)](https://blog.cryptographyengineering.com/2021/08/01/thinking-about-traceability/)
 - Aug 02 - [The rise of never-ending job interviews](https://www.bbc.com/worklife/article/20210727-the-rise-of-never-ending-job-interviews)
