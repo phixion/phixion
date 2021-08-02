@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Aug 01 - [Square to acquire Afterpay for $29B](https://squareup.com/us/en/press/square-announces-plans-to-acquire-afterpay)
 - Aug 01 - [Mysterious Wiper Paralyzes Iranian Trains with Epic Troll](https://labs.sentinelone.com/meteorexpress-mysterious-wiper-paralyzes-iranian-trains-with-epic-troll/)
+- Aug 01 - [Apple Is Now an Antifragile Company](https://tidbits.com/2021/07/30/apple-is-now-an-antifragile-company/)
 - Aug 01 - [Streak (YC S11) hiring a senior front end engineer (remote only)](https://www.streak.com/careers/product-engineer)
 - Aug 01 - [The Lost Cat Art of Ithaca, NY](https://www.lostcatithaca.com/map/)
-- Aug 01 - [L0phtcrack 7 will be released as open source](https://twitter.com/dildog/status/1421830165911556099)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
