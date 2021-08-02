@@ -35,10 +35,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 02 - [Israel Tries to Limit Fallout from the Pegasus Spyware Scandal](http://www.homelandsecuritynewswire.com/dr20210729-israel-tries-to-limit-fallout-from-the-pegasus-spyware-scandal)
 - Aug 02 - [OneSignal (YC S11) is hiring a full stack engineer to work on email, push, & SMS](https://onesignal.com/careers/b824ffc4-ac55-4744-b7d8-b5ace6272e96)
 - Aug 02 - [Technological Prudence: What the Amish Can Teach Us (2011) [pdf]](https://www.baylor.edu/content/services/document.php/130953.pdf)
 - Aug 02 - [Culture and Conduct Risk: The Normalization of Deviance](https://www.regulationasia.com/culture-conduct-risk-the-normalization-of-deviance/)
-- Aug 02 - [Xi Jinping’s Capitalist Smackdown Sparks a $1T Reckoning](https://www.bloomberg.com/news/features/2021-08-01/china-tech-crackdown-communist-party-policy-changes-behind-1-trillion-selloff)
 - Aug 02 - [The State of Python in 2021](https://deprogrammaticaipsum.com/the-state-of-python-in-2021/)
 <!--END_SECTION:hn-->
 
