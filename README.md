@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 02 - [Anti-Semitic social posts 'not taken down' in 80% of cases](https://www.bbc.com/news/technology-58058428)
-- Aug 02 - [Rep. Takano Introduces Legislation to Reduce the Standard Workweek to 32 Hours](https://takano.house.gov/newsroom/press-releases/rep-takano-introduces-legislation-to-reduce-the-standard-workweek-to-32-hours)
-- Aug 02 - [Launch HN: Heimdal (YC S21) – Carbon neutral cement](https://news.ycombinator.com/item?id=28036927)
-- Aug 02 - [Why is China smashing its tech industry?](https://noahpinion.substack.com/p/why-is-china-smashing-its-tech-industry)
-- Aug 02 - [Merge-sort with Transylvanian-saxon folk dance (2011) [video]](https://www.youtube.com/watch?v=XaqR3G_NVoo)
+- Aug 02 - [Ask HN: Who is hiring? (August 2021)](https://news.ycombinator.com/item?id=28037366)
+- Aug 02 - [Ask HN: Who wants to be hired? (August 2021)](https://news.ycombinator.com/item?id=28037364)
+- Aug 02 - [Launch HN: Tavus (YC S21) – AI-generated personalized videos for sales outreach](https://news.ycombinator.com/item?id=28037322)
+- Aug 02 - [Pegasus spyware found on journalists’ phones, French intelligence confirms](https://www.theguardian.com/news/2021/aug/02/pegasus-spyware-found-on-journalists-phones-french-intelligence-confirms)
+- Aug 02 - [Show HN: Open by Design](https://openby.design/?0)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
