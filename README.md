@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 02 - [Red Delicious Apples Weren’t Always Horrible](https://newengland.com/today/food/red-delicious-apple/)
-- Aug 02 - [Ask HN: How to Do Accent Reduction?](https://news.ycombinator.com/item?id=28032071)
 - Aug 01 - [An alternative to hiring and paying employees – the Qbix Compensation Model](https://qbix.com/blog/2016/11/17/properly-valuing-contributions/)
 - Aug 01 - [Square to acquire Afterpay for $29B](https://squareup.com/us/en/press/square-announces-plans-to-acquire-afterpay)
 - Aug 01 - [A wiper attack paralyzed the Iranian train system](https://labs.sentinelone.com/meteorexpress-mysterious-wiper-paralyzes-iranian-trains-with-epic-troll/)
+- Aug 01 - [Streak (YC S11) hiring a senior front end engineer (remote only)](https://www.streak.com/careers/product-engineer)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
