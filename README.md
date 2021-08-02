@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 02 - [The UK’s delta surge is collapsing](https://nymag.com/intelligencer/2021/08/the-u-k-s-delta-surge-is-collapsing-will-ours.html)
 - Aug 02 - [A Generation Lost in the Bazaar (2012)](https://queue.acm.org/detail.cfm?id=2349257)
 - Aug 02 - [Visit Y Combinator.com for jobs at 800 high-growth YC startups](https://www.ycombinator.com/jobs)
 - Aug 02 - [Home Depot is selling power tools that won’t work if they’re stolen](https://www.businessinsider.com/home-depot-fights-shoplifters-special-power-tools-2021-7)
 - Aug 02 - [Six Years of Professional Clojure](https://engineering.nanit.com/6-years-of-professional-clojure-2b61cb6c1983)
+- Aug 02 - [Show HN: Connecting Arduino and Android](https://github.com/targist/ardui)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
