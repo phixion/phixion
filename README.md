@@ -37,8 +37,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Aug 02 - [Merge-sort with Transylvanian-saxon folk dance (2011) [video]](https://www.youtube.com/watch?v=XaqR3G_NVoo)
 - Aug 02 - [A Generation Lost in the Bazaar (2012)](https://queue.acm.org/detail.cfm?id=2349257)
-- Aug 02 - [My rant about React](https://www.silvestar.codes/articles/you-don-t-need-react-for-building-websites/)
 - Aug 02 - [Visit Y Combinator.com for jobs at 800 high-growth YC startups](https://www.ycombinator.com/jobs)
+- Aug 02 - [Iceland may be the tip of a sunken continent](https://www.space.com/iceland-tip-of-lost-sunken-continent)
 - Aug 02 - [Home Depot is introducing power tools that won’t work if they’re stolen](https://www.businessinsider.com/home-depot-fights-shoplifters-special-power-tools-2021-7)
 <!--END_SECTION:hn-->
 
