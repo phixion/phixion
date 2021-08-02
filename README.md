@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 02 - [Culture and Conduct Risk: The Normalization of Deviance](https://www.regulationasia.com/culture-conduct-risk-the-normalization-of-deviance/)
 - Aug 02 - [Xi Jinping’s Capitalist Smackdown Sparks a $1T Reckoning](https://www.bloomberg.com/news/features/2021-08-01/china-tech-crackdown-communist-party-policy-changes-behind-1-trillion-selloff)
 - Aug 02 - [The State of Python in 2021](https://deprogrammaticaipsum.com/the-state-of-python-in-2021/)
-- Aug 02 - [Zoom settles US class action privacy lawsuit for $86m](https://www.bbc.com/news/business-58050391)
+- Aug 02 - [Show HN: Mathematics Chalkboard with LaTeX and Markdown Support](https://github.com/susam/muboard)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
