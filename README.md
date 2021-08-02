@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 02 - [Winnebiko](https://microship.com/winnebiko/)
 - Aug 02 - [OneSignal (YC S11) is hiring a full stack engineer to work on email, push, & SMS](https://onesignal.com/careers/b824ffc4-ac55-4744-b7d8-b5ace6272e96)
 - Aug 02 - [Technological Prudence: What the Amish Can Teach Us (2011) [pdf]](https://www.baylor.edu/content/services/document.php/130953.pdf)
-- Aug 02 - [Focus: Assign multiple engineers to the same task](https://dpc.pw/focus-assign-multiple-engineers-to-the-same-task)
+- Aug 02 - [Culture and Conduct Risk: The Normalization of Deviance](https://www.regulationasia.com/culture-conduct-risk-the-normalization-of-deviance/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
