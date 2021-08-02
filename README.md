@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 02 - [Sweden daily Covid deaths hit zero, with human liberty still intact](https://www.biznews.com/health/2021/07/26/sweden-covid)
 - Aug 02 - [Working Around a Case Where the Postgres Planner Is “Not Very Smart”](https://heap.io/blog/when-the-postgres-planner-is-not-very-smart)
 - Aug 02 - [AMD and Valve Working on New Linux CPU Performance Scaling Design](https://www.phoronix.com/scan.php?page=news_item&px=AMD-Valve-New-CPU-Freq)
 - Aug 02 - [WireGuardNT, a high-performance WireGuard implementation for the Windows kernel](https://lists.zx2c4.com/pipermail/wireguard/2021-August/006887.html)
 - Aug 02 - [How to boost your popularity on OkCupid using CSRF and a JSON type confusion](https://blog.azuki.vip/csrf/)
-- Aug 02 - [Stacker (YC S20) Is Hiring Customer Success Specialists](https://www.stackerhq.com/jobs)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
