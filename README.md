@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 02 - [Why Extraterrestrial Life May Not Seem Alien](https://www.quantamagazine.org/arik-kershenbaum-on-why-alien-life-may-be-like-life-on-earth-20210318/)
-- Aug 02 - [Ask HN: Who is hiring? (August 2021)](https://news.ycombinator.com/item?id=28037366)
-- Aug 02 - [Ask HN: Who wants to be hired? (August 2021)](https://news.ycombinator.com/item?id=28037364)
-- Aug 02 - [Launch HN: Tavus (YC S21) – AI-generated personalized videos for sales outreach](https://news.ycombinator.com/item?id=28037322)
-- Aug 02 - [Liquid Cooling Next-Gen Servers Getting Hands-On with 3 Options](https://www.servethehome.com/liquid-cooling-next-gen-servers-getting-hands-on-3-options-supermicro/)
+- Aug 02 - [The most unbelievable things about life before smartphones](https://mattruby.substack.com/p/the-most-unbelievable-things-about)
+- Aug 02 - [Google bookmarks won't be supported past September 31, 2021](https://news.ycombinator.com/item?id=28038560)
+- Aug 02 - [Old Android versions will no longer be able to log into Google account](https://support.google.com/android/thread/118703101/sign-in-on-android-devices-running-android-2-3-7-or-lower-will-not-be-allowed-starting-september-27?hl=en)
+- Aug 02 - [Why extraterrestrial life may not seem alien](https://www.quantamagazine.org/arik-kershenbaum-on-why-alien-life-may-be-like-life-on-earth-20210318/)
+- Aug 02 - [The Push for a “PBS for the Internet”](https://www.axios.com/pbs-internet-online-information-nonprofit-e9a78344-ae58-4214-9cb6-974ab9576cb1.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
