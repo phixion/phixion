@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 02 - [Pop Meals (YC S17) Is Hiring a COO](https://bookface.ycombinator.com/company/1639/jobs/45484)
-- Aug 02 - [Connecting Arduino and Android](https://github.com/targist/ardui)
+- Aug 02 - [Visit Y Combinator.com for jobs at 800 high-growth YC startups](https://www.ycombinator.com/jobs)
+- Aug 02 - [Home Depot plans to sell power tools that won’t work if they’re stolen](https://www.businessinsider.com/home-depot-fights-shoplifters-special-power-tools-2021-7)
+- Aug 02 - [Show HN: Connecting Arduino and Android](https://github.com/targist/ardui)
 - Aug 02 - [The Windows 96 Story](https://blog.racket.com/the-windows-96-story/)
-- Aug 02 - [Show HN: Nordigen Free banking data API (EU)](https://nordigen.com/en/products/account-information/)
-- Aug 02 - [Building a Django driver for Psycopg 3](https://www.psycopg.org/articles/2021/08/02/psycopg3-django-driver/)
+- Aug 02 - [Tesla big battery fire under control after burning more than three days](https://www.theguardian.com/australia-news/2021/aug/02/tesla-big-battery-fire-in-victoria-burns-into-day-three)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
