@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 02 - [Stacker (YC S20) Is Hiring Customer Success Specialists](https://www.stackerhq.com/jobs)
+- Aug 02 - [Multicore OCaml: July 2021](https://discuss.ocaml.org/t/multicore-ocaml-july-2021/8232)
 - Aug 02 - [Astronomy Photographer of the Year 2021 shortlist images](https://www.rmg.co.uk/national-maritime-museum/astronomy-photographer-year-2021-shortlist-images)
-- Aug 02 - [Economics in Brief: Dollar Stores Make Up Nearly Half of All New Store Openings](https://nextcity.org/daily/entry/dollar-stores-make-up-nearly-half-of-all-new-store-openings-this-year)
-- Aug 02 - [Life before smartphones](https://mattruby.substack.com/p/the-most-unbelievable-things-about)
-- Aug 02 - [Google bookmarks won't be supported past September 31, 2021](https://news.ycombinator.com/item?id=28038560)
+- Aug 02 - [Dollar stores make up nearly half of all new store openings](https://nextcity.org/daily/entry/dollar-stores-make-up-nearly-half-of-all-new-store-openings-this-year)
+- Aug 02 - [Google Tensor debuts on the new Pixel 6 this fall](https://blog.google/products/pixel/google-tensor-debuts-new-pixel-6-fall/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
