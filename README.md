@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 02 - [Why Extraterrestrial Life May Not Seem Alien](https://www.quantamagazine.org/arik-kershenbaum-on-why-alien-life-may-be-like-life-on-earth-20210318/)
 - Aug 02 - [Ask HN: Who is hiring? (August 2021)](https://news.ycombinator.com/item?id=28037366)
 - Aug 02 - [Ask HN: Who wants to be hired? (August 2021)](https://news.ycombinator.com/item?id=28037364)
 - Aug 02 - [Launch HN: Tavus (YC S21) – AI-generated personalized videos for sales outreach](https://news.ycombinator.com/item?id=28037322)
-- Aug 02 - [Pegasus spyware found on journalists’ phones, French intelligence confirms](https://www.theguardian.com/news/2021/aug/02/pegasus-spyware-found-on-journalists-phones-french-intelligence-confirms)
-- Aug 02 - [Show HN: Open by Design](https://openby.design/?0)
+- Aug 02 - [Liquid Cooling Next-Gen Servers Getting Hands-On with 3 Options](https://www.servethehome.com/liquid-cooling-next-gen-servers-getting-hands-on-3-options-supermicro/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
