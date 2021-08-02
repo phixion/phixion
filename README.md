@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 02 - [Anti-Semitic social posts 'not taken down' in 80% of cases](https://www.bbc.com/news/technology-58058428)
+- Aug 02 - [Rep. Takano Introduces Legislation to Reduce the Standard Workweek to 32 Hours](https://takano.house.gov/newsroom/press-releases/rep-takano-introduces-legislation-to-reduce-the-standard-workweek-to-32-hours)
+- Aug 02 - [Launch HN: Heimdal (YC S21) – Carbon neutral cement](https://news.ycombinator.com/item?id=28036927)
+- Aug 02 - [Why is China smashing its tech industry?](https://noahpinion.substack.com/p/why-is-china-smashing-its-tech-industry)
 - Aug 02 - [Merge-sort with Transylvanian-saxon folk dance (2011) [video]](https://www.youtube.com/watch?v=XaqR3G_NVoo)
-- Aug 02 - [A Generation Lost in the Bazaar (2012)](https://queue.acm.org/detail.cfm?id=2349257)
-- Aug 02 - [Visit Y Combinator.com for jobs at 800 high-growth YC startups](https://www.ycombinator.com/jobs)
-- Aug 02 - [Iceland may be the tip of a sunken continent](https://www.space.com/iceland-tip-of-lost-sunken-continent)
-- Aug 02 - [Home Depot is introducing power tools that won’t work if they’re stolen](https://www.businessinsider.com/home-depot-fights-shoplifters-special-power-tools-2021-7)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
