@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 02 - [The Windows 96 Story](https://blog.racket.com/the-windows-96-story/)
+- Aug 02 - [Show HN: Nordigen Free banking data API (EU)](https://nordigen.com/en/products/account-information/)
 - Aug 02 - [An Animal’s Place (2002)](https://michaelpollan.com/articles-archive/an-animals-place/)
 - Aug 02 - [Steam survey shows Linux marketshare hitting 1.0%](https://www.phoronix.com/scan.php?page=news_item&px=Steam-Linux-July-2021)
 - Aug 02 - [Israel tries to limit fallout from the Pegasus spyware scandal](http://www.homelandsecuritynewswire.com/dr20210729-israel-tries-to-limit-fallout-from-the-pegasus-spyware-scandal)
-- Aug 02 - [Winnebiko](https://microship.com/winnebiko/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
