@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 02 - [Steam survey shows Linux marketshare hitting 1.0%](https://www.phoronix.com/scan.php?page=news_item&px=Steam-Linux-July-2021)
+- Aug 02 - [Happiness Engineer](https://automattic.com/work-with-us/job/happiness-engineer/)
 - Aug 02 - [Israel tries to limit fallout from the Pegasus spyware scandal](http://www.homelandsecuritynewswire.com/dr20210729-israel-tries-to-limit-fallout-from-the-pegasus-spyware-scandal)
 - Aug 02 - [Winnebiko](https://microship.com/winnebiko/)
 - Aug 02 - [OneSignal (YC S11) is hiring a full stack engineer to work on email, push, & SMS](https://onesignal.com/careers/b824ffc4-ac55-4744-b7d8-b5ace6272e96)
-- Aug 02 - [Technological Prudence: What the Amish Can Teach Us (2011) [pdf]](https://www.baylor.edu/content/services/document.php/130953.pdf)
-- Aug 02 - [Culture and Conduct Risk: The Normalization of Deviance](https://www.regulationasia.com/culture-conduct-risk-the-normalization-of-deviance/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
