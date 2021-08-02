@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 02 - [WireGuardNT, a high-performance WireGuard implementation for the Windows kernel](https://lists.zx2c4.com/pipermail/wireguard/2021-August/006887.html)
 - Aug 02 - [How to boost your popularity on okcupid using CSRF and a JSON type confusion](https://blog.azuki.vip/csrf/)
 - Aug 02 - [Stacker (YC S20) Is Hiring Customer Success Specialists](https://www.stackerhq.com/jobs)
 - Aug 02 - [Multicore OCaml: July 2021](https://discuss.ocaml.org/t/multicore-ocaml-july-2021/8232)
 - Aug 02 - [Astronomy Photographer of the Year 2021 shortlist images](https://www.rmg.co.uk/national-maritime-museum/astronomy-photographer-year-2021-shortlist-images)
-- Aug 02 - [Dollar stores make up nearly half of all new store openings](https://nextcity.org/daily/entry/dollar-stores-make-up-nearly-half-of-all-new-store-openings-this-year)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
