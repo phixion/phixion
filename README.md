@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 02 - [AssemblyAI (YC S17) Is Hiring Python Developers and Account Execs](https://apply.workable.com/assemblyai/)
 - Aug 02 - [SpaceX installed 29 Raptor engines on a Super Heavy rocket last night](https://arstechnica.com/science/2021/08/spacex-installed-29-raptor-engines-on-a-super-heavy-rocket-last-night/)
+- Aug 02 - [Gpsd bug may create a 1024 week time warp on October 23](https://gitlab.com/gpsd/gpsd/-/issues/144)
 - Aug 02 - [Working Around a Case Where the Postgres Planner Is “Not Very Smart”](https://heap.io/blog/when-the-postgres-planner-is-not-very-smart)
 - Aug 02 - [AMD and Valve Working on New Linux CPU Performance Scaling Design](https://www.phoronix.com/scan.php?page=news_item&px=AMD-Valve-New-CPU-Freq)
-- Aug 02 - [WireGuardNT, a high-performance WireGuard implementation for the Windows kernel](https://lists.zx2c4.com/pipermail/wireguard/2021-August/006887.html)
-- Aug 02 - [How to boost your popularity on OkCupid using CSRF and a JSON type confusion](https://blog.azuki.vip/csrf/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
