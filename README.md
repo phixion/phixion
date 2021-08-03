@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Aug 03 - [How MDN's Autocomplete Search Works](https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/)
 - Aug 03 - [Treble.ai (YC S19) Is Hiring Engineers in Latam](https://www.notion.so/treble-ai-is-Hiring-fd735f309ce24a4085bc52daabd3f335)
+- Aug 03 - [Ray Ozzie's latest venture is a cheap IoT board with flat rate connectivity](https://blues.io/)
 - Aug 03 - [NSA Kubernetes Hardening Guidance [pdf]](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF)
 - Aug 03 - [Bombs vs. Bugs](https://edwardsnowden.substack.com/p/qa02)
-- Aug 03 - [Launch YC: 3D Web; Training; Child privacy; Pregnancy; Life science; Desk rental](https://news.ycombinator.com/item?id=28049500)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
