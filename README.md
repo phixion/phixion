@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 03 - [Launch YC: 3D Web; Training; Child Privacy; Pregnancy; Life Science; Desk Rental](https://news.ycombinator.com/item?id=28049500)
-- Aug 03 - [Use Spreadsheets Everywhere!](https://www.simplethread.com/use-spreadsheets-everywhere/)
+- Aug 03 - [Trusted platform module security defeated in 30 minutes, no soldering required](https://arstechnica.com/gadgets/2021/08/how-to-go-from-stolen-pc-to-network-intrusion-in-30-minutes/)
+- Aug 03 - [Use Spreadsheets Everywhere](https://www.simplethread.com/use-spreadsheets-everywhere/)
 - Aug 03 - [Alien Dreams: The Long History of Speculation About Extraterrestrials](https://thereader.mitpress.mit.edu/history-speculation-about-aliens/)
 - Aug 03 - [New Leadership at Blizzard](https://news.blizzard.com/en-us/blizzard/23706475/new-leadership-at-blizzard)
-- Aug 03 - [Uber requires nondisclosure agreement before compensating carjacked driver](https://themarkup.org/working-for-an-algorithm/2021/08/03/uber-requires-nondisclosure-agreement-before-helping-carjacked-driver)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
