@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Aug 03 - [VergeSense (YC S17) Is Hiring Multiple Roles (Full-Stack, Firmware, Product)](https://www.workatastartup.com/companies/vergesense)
 - Aug 03 - [Sparse Array Beamforming with a Phase Coherent 21-Channel RTL-SDR Array](https://www.rtl-sdr.com/sparse-array-beamforming-with-a-phase-coherent-21-channel-rtl-sdr-array/)
+- Aug 03 - [AlphaFold2: Are attention and symmetries all you need? [pdf]](https://journals.iucr.org/d/issues/2021/08/00/rr5212/rr5212.pdf)
 - Aug 03 - [Distributed consensus (blockchain) simulation and visualization](https://web3scout.github.io/forcecons-sim/)
 - Aug 03 - [Postmortem in finance: How Credit Suisse lost $6B [pdf]](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/investor-relations/financial-disclosures/results/csg-special-committee-bod-report-archegos.pdf)
-- Aug 03 - [Apple iPhone charger teardown: quality in a tiny expensive package](http://www.righto.com/2012/05/apple-iphone-charger-teardown-quality.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
