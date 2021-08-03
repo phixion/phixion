@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 03 - [Apple iPhone charger teardown: quality in a tiny expensive package](http://www.righto.com/2012/05/apple-iphone-charger-teardown-quality.html)
+- Aug 03 - [Tesla CEO berated employees, investors and tried to get rid of safety measures](https://www.gq.com/story/powerplay-tesla-musk-excerpt/)
 - Aug 03 - [The 5-Hour CDN](https://fly.io/blog/the-5-hour-content-delivery-network/)
 - Aug 03 - [Amazon Unlawfully Confiscated Union Literature, NLRB Finds](https://www.vice.com/en/article/bvz3kv/amazon-unlawfully-confiscated-union-literature-nlrb-finds)
 - Aug 03 - [LTTng 2.13 facilitates quick reaction to kernel/user-space instrumentation hit](https://lists.lttng.org/pipermail/lttng-dev/2021-August/030046.html)
-- Aug 03 - [Satan should chair your meetings – a literature lover’s guide to office politics](https://www.economist.com/1843/2021/08/03/why-satan-should-chair-your-meetings)
-- Aug 03 - [Show HN: Tomatotree.tv – Find your next series to watch using Rotten Tomatoes](https://tomatotree.tv/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
