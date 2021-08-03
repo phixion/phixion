@@ -37,7 +37,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Aug 03 - [Student IDs on iPhone and Apple Watch Expand to Canada and More US Universities](https://www.apple.com/newsroom/2021/08/student-ids-on-iphone-and-apple-watch-expand-to-canada-and-more-us-universities/)
 - Aug 03 - [Backblaze Drive Stats for Q2 2021](https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2021/)
-- Aug 03 - [Bombs vs. Bugs (By Edward Snowden)](https://edwardsnowden.substack.com/p/qa02)
+- Aug 03 - [Bombs vs. Bugs](https://edwardsnowden.substack.com/p/qa02)
 - Aug 03 - [Launching Rust Cloud Native](https://nickgerace.dev/post/launching-rust-cloud-native)
 - Aug 03 - [Launch YC: 3D Web; Training; Child Privacy; Pregnancy; Life Science; Desk Rental](https://news.ycombinator.com/item?id=28049500)
 <!--END_SECTION:hn-->
