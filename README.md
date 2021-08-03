@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 03 - [Fourth police officer who responded to Jan 6 attack dies by suicide](https://thehill.com/homenews/house/566040-fourth-police-officer-who-responded-to-jan-6-attack-dies-by-suicide-report)
 - Aug 03 - [Computational algebraic geometry for high school students](https://www.solidangl.es/post/varieties-the-spice-of-life)
 - Aug 03 - [Infrastructure Bill Cryptocurrency Surveillance Provision Is a Privacy Disaster](https://www.eff.org/deeplinks/2021/08/cryptocurrency-surveillance-provision-buried-infrastructure-bill-disaster-digital)
 - Aug 03 - [Image synthesis and editing with stochastic differential equations](https://arxiv.org/abs/2108.01073)
 - Aug 02 - [We Switched to Mattermost](https://netfoundry.io/why-we-switched-to-mattermost/)
-- Aug 02 - [Amazon should redo union election over improprieties, NLRB officer recommends](https://www.bloomberg.com/news/articles/2021-08-02/amazon-union-election-should-be-re-run-labor-official-says)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
