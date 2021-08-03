@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 03 - [Launch YC: 3D Web; Training; Child Privacy; Pregnancy; Life Science; Desk Rental](https://news.ycombinator.com/item?id=28049500)
+- Aug 03 - [Use Spreadsheets Everywhere!](https://www.simplethread.com/use-spreadsheets-everywhere/)
 - Aug 03 - [Alien Dreams: The Long History of Speculation About Extraterrestrials](https://thereader.mitpress.mit.edu/history-speculation-about-aliens/)
 - Aug 03 - [New Leadership at Blizzard](https://news.blizzard.com/en-us/blizzard/23706475/new-leadership-at-blizzard)
 - Aug 03 - [Uber requires nondisclosure agreement before compensating carjacked driver](https://themarkup.org/working-for-an-algorithm/2021/08/03/uber-requires-nondisclosure-agreement-before-helping-carjacked-driver)
-- Aug 03 - [China quietly sets new 'buy Chinese' targets for state companies](https://www.reuters.com/business/aerospace-defense/china-quietly-sets-new-buy-chinese-targets-state-companies-us-sources-2021-08-02/)
-- Aug 03 - [Companies claim there’s a labor shortage. Their solution? Prisoners](https://www.theguardian.com/us-news/2021/jul/20/companies-claim-theres-a-labor-shortage-their-solution-prisoners)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
