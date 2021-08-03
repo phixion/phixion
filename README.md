@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 03 - [CIA’s fake Hepatitis B vaccine program in Pakistan helped fuel vaccine distrust](https://www.vox.com/first-person/22256595/vaccine-covid-pakistan-cia-program)
 - Aug 03 - [Leap Seconds: Causing Bugs Even When They Don't Happen](https://berthub.eu/articles/posts/leapseconds-expose-bugs-even-when-they-dont-happen/)
 - Aug 03 - [GitHub Copilot is ‘unacceptable and unjust,’ says Free Software Foundation](https://www.infoworld.com/article/3627319/github-copilot-is-unacceptable-and-unjust-says-free-software-foundation.html)
 - Aug 03 - [‘It has to be known what was done to us’: couple harassed by eBay tells story](https://www.bostonglobe.com/2021/07/31/business/it-has-be-known-what-was-done-us-natick-couple-harassed-by-ebay-tell-their-story-first-time/?p1=Article_Feed_ContentQuery)
 - Aug 03 - [Axiom.ai (YC W21) Is Hiring – UX Designer and Developer](https://www.workatastartup.com/jobs/45008)
-- Aug 03 - [Cracking into the Sun Ray General Dynamics-Tadpole M1400](https://oldvcr.blogspot.com/2021/08/cracking-into-sun-ray-general-dynamics.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
