@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 03 - [Uber Requires Nondisclosure Agreement Before Helping Carjacked Driver](https://themarkup.org/working-for-an-algorithm/2021/08/03/uber-requires-nondisclosure-agreement-before-helping-carjacked-driver)
 - Aug 03 - [South Korea the Only Middle Power of Its Kind](https://nationalinterest.org/blog/korea-watch/south-korea-only-middle-power-its-kind-190911)
-- Aug 03 - [Leaving Well](https://avc.com/2021/08/leaving-well/)
-- Aug 03 - [Indie Hackers: Now Invite-Only](https://www.indiehackers.com/post/whats-new-indie-hackers-is-now-invite-only-cfed6a6a67)
-- Aug 03 - [Unfolding the Hippocampus](https://news.westernu.ca/2021/07/unfolding-the-hippocampus/)
-- Aug 03 - [Tesla battery burned for four days](https://news.cfa.vic.gov.au/firefighters-bring-large-battery-fire-near-geelong-under-control)
+- Aug 03 - [Show HN: A work in progress C compiler from scratch](https://github.com/riicchhaarrd/ocean)
+- Aug 03 - [Bitten by the 90 day exercise window](https://www.abar.tech/articles/10yr-excercise-window/)
+- Aug 03 - [Update 2-Entire German bond yield curve back in sub-zero territory](https://www.reuters.com/article/eurozone-bonds/update-2-entire-german-bond-yield-curve-back-in-sub-zero-territory-idUSL1N2P90H5)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
