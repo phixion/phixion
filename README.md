@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 03 - [Blizzard employee takes her own life after nude photos were distributed](https://us.forums.blizzard.com/en/wow/t/employee-takes-her-own-life/1043722)
+- Aug 03 - [Apple Makes Magic Keyboard with Touch ID Available for Purchase](https://www.apple.com/shop/product/MK293LL/A/magic-keyboard-with-touch-id-for-mac-models-with-apple-silicon-us-english)
+- Aug 03 - [Satan should chair your meetings – a literature lover’s guide to office politics](https://www.economist.com/1843/2021/08/03/why-satan-should-chair-your-meetings)
 - Aug 03 - [Show HN: Tomatotree.tv – Find your next series to watch using Rotten Tomatoes](https://tomatotree.tv/)
 - Aug 03 - [How MDN's Autocomplete Search Works](https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/)
 - Aug 03 - [Treble.ai (YC S19) Is Hiring Engineers in Latam](https://www.notion.so/treble-ai-is-Hiring-fd735f309ce24a4085bc52daabd3f335)
-- Aug 03 - [Show HN: OnionShare with Just Tor and Redbean](https://github.com/ndren/redbean-onionshare)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
