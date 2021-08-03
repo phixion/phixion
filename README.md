@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 03 - [Axiom.ai (YC W21) Is Hiring – UX Designer and Developer](https://www.workatastartup.com/jobs/45008)
 - Aug 03 - [Fourth police officer who responded to Jan 6 attack dies by suicide](https://thehill.com/homenews/house/566040-fourth-police-officer-who-responded-to-jan-6-attack-dies-by-suicide-report)
 - Aug 03 - [Computational algebraic geometry for high school students](https://www.solidangl.es/post/varieties-the-spice-of-life)
 - Aug 03 - [Infrastructure Bill Cryptocurrency Surveillance Provision Is a Privacy Disaster](https://www.eff.org/deeplinks/2021/08/cryptocurrency-surveillance-provision-buried-infrastructure-bill-disaster-digital)
 - Aug 03 - [Image synthesis and editing with stochastic differential equations](https://arxiv.org/abs/2108.01073)
-- Aug 02 - [We Switched to Mattermost](https://netfoundry.io/why-we-switched-to-mattermost/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
