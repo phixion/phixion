@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 03 - [Scrimba (YC S20) is hiring a full-stack dev to make CS education more accessible](https://jobs.scrimba.com)
 - Aug 03 - [Interview with BlackMatter- a ransomware group targeting firms exceeding $100m](https://therecord.media/an-interview-with-blackmatter-a-new-ransomware-group-thats-learning-from-the-mistakes-of-darkside-and-revil/)
-- Aug 03 - [Three billion people cannot afford a healthy diet](https://ourworldindata.org/diet-affordability)
-- Aug 03 - [Tokyo Olympics: [Online] Chinese nationalists turn on their athletes](https://www.bbc.com/news/world-asia-china-58024068)
 - Aug 03 - [Data exfiltration in Keepa Price Tracker](https://palant.info/2021/08/02/data-exfiltration-in-keepa-price-tracker/)
 - Aug 03 - [Official recommends rerun in Amazon union fight](https://www.bbc.com/news/technology-58065874)
+- Aug 03 - [The Fine Line Between Reality and Imaginary](https://nautil.us/issue/104/harmony/the-fine-line-between-reality-and-imaginary)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
