@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 03 - [South Korea the Only Middle Power of Its Kind](https://nationalinterest.org/blog/korea-watch/south-korea-only-middle-power-its-kind-190911)
 - Aug 03 - [Leaving Well](https://avc.com/2021/08/leaving-well/)
 - Aug 03 - [Indie Hackers: Now Invite-Only](https://www.indiehackers.com/post/whats-new-indie-hackers-is-now-invite-only-cfed6a6a67)
 - Aug 03 - [Unfolding the Hippocampus](https://news.westernu.ca/2021/07/unfolding-the-hippocampus/)
-- Aug 03 - [Tesla battery burned for 4 days](https://news.cfa.vic.gov.au/firefighters-bring-large-battery-fire-near-geelong-under-control)
-- Aug 03 - [JFrog Detects Malicious PyPI Packages Stealing Credit Cards and Injecting Code](https://jfrog.com/blog/malicious-pypi-packages-stealing-credit-cards-injecting-code/)
+- Aug 03 - [Tesla battery burned for four days](https://news.cfa.vic.gov.au/firefighters-bring-large-battery-fire-near-geelong-under-control)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
