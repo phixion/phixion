@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 03 - [Postmortem in finance: How Credit Suisse lost $6B [pdf]](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/investor-relations/financial-disclosures/results/csg-special-committee-bod-report-archegos.pdf)
 - Aug 03 - [Apple iPhone charger teardown: quality in a tiny expensive package](http://www.righto.com/2012/05/apple-iphone-charger-teardown-quality.html)
 - Aug 03 - [Tesla CEO berated employees, investors and tried to get rid of safety measures](https://www.gq.com/story/powerplay-tesla-musk-excerpt/)
 - Aug 03 - [The 5-Hour CDN](https://fly.io/blog/the-5-hour-content-delivery-network/)
 - Aug 03 - [Amazon Unlawfully Confiscated Union Literature, NLRB Finds](https://www.vice.com/en/article/bvz3kv/amazon-unlawfully-confiscated-union-literature-nlrb-finds)
-- Aug 03 - [LTTng 2.13 facilitates quick reaction to kernel/user-space instrumentation hit](https://lists.lttng.org/pipermail/lttng-dev/2021-August/030046.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
