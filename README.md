@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 03 - [Scrimba (YC S20) is hiring a full-stack dev to make CS education more accessible](https://jobs.scrimba.com)
-- Aug 03 - [Interview with BlackMatter- a ransomware group targeting firms exceeding $100m](https://therecord.media/an-interview-with-blackmatter-a-new-ransomware-group-thats-learning-from-the-mistakes-of-darkside-and-revil/)
-- Aug 03 - [Data exfiltration in Keepa Price Tracker](https://palant.info/2021/08/02/data-exfiltration-in-keepa-price-tracker/)
-- Aug 03 - [Official recommends rerun in Amazon union fight](https://www.bbc.com/news/technology-58065874)
-- Aug 03 - [The Fine Line Between Reality and Imaginary](https://nautil.us/issue/104/harmony/the-fine-line-between-reality-and-imaginary)
+- Aug 03 - [Leaving Well](https://avc.com/2021/08/leaving-well/)
+- Aug 03 - [Indie Hackers: Now Invite-Only](https://www.indiehackers.com/post/whats-new-indie-hackers-is-now-invite-only-cfed6a6a67)
+- Aug 03 - [Unfolding the Hippocampus](https://news.westernu.ca/2021/07/unfolding-the-hippocampus/)
+- Aug 03 - [Tesla battery burned for 4 days](https://news.cfa.vic.gov.au/firefighters-bring-large-battery-fire-near-geelong-under-control)
+- Aug 03 - [JFrog Detects Malicious PyPI Packages Stealing Credit Cards and Injecting Code](https://jfrog.com/blog/malicious-pypi-packages-stealing-credit-cards-injecting-code/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
