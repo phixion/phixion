@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 03 - [Data exfiltration in Keepa Price Tracker](https://palant.info/2021/08/02/data-exfiltration-in-keepa-price-tracker/)
+- Aug 03 - [The Fine Line Between Reality and Imaginary](https://nautil.us/issue/104/harmony/the-fine-line-between-reality-and-imaginary)
 - Aug 03 - [Beautiful Disasters: The 5,000 Fingers of Dr. T (2015)](https://mubi.com/notebook/posts/beautiful-disasters-the-5000-fingers-of-dr-t)
 - Aug 03 - [Cheap material converts heat to electricity](https://www.sciencemag.org/news/2021/08/cheap-material-converts-heat-electricity)
 - Aug 03 - [CIA’s fake Hepatitis B vaccine program in Pakistan helped fuel vaccine distrust](https://www.vox.com/first-person/22256595/vaccine-covid-pakistan-cia-program)
-- Aug 03 - [Leap Seconds: Causing Bugs Even When They Don't Happen](https://berthub.eu/articles/posts/leapseconds-expose-bugs-even-when-they-dont-happen/)
-- Aug 03 - [GitHub Copilot is ‘unacceptable and unjust,’ says Free Software Foundation](https://www.infoworld.com/article/3627319/github-copilot-is-unacceptable-and-unjust-says-free-software-foundation.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
