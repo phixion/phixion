@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 03 - [Computational algebraic geometry for high school students](https://www.solidangl.es/post/varieties-the-spice-of-life)
+- Aug 03 - [Empty NPM package '-' has over 700k downloads](https://www.bleepingcomputer.com/news/software/empty-npm-package-has-over-700-000-downloads-heres-why/)
 - Aug 03 - [Image synthesis and editing with stochastic differential equations](https://arxiv.org/abs/2108.01073)
 - Aug 02 - [We Switched to Mattermost](https://netfoundry.io/why-we-switched-to-mattermost/)
 - Aug 02 - [Amazon should redo union election over improprieties, NLRB officer recommends](https://www.bloomberg.com/news/articles/2021-08-02/amazon-union-election-should-be-re-run-labor-official-says)
-- Aug 02 - [FB users buying Oculus VR headsets to get customer service prioritization](https://www.npr.org/2021/08/02/1023801277/your-facebook-account-was-hacked-getting-help-may-take-weeks-or-299)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
