@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 03 - [Student IDs on iPhone and Apple Watch Expand to Canada and More US Universities](https://www.apple.com/newsroom/2021/08/student-ids-on-iphone-and-apple-watch-expand-to-canada-and-more-us-universities/)
+- Aug 03 - [Backblaze Drive Stats for Q2 2021](https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2021/)
+- Aug 03 - [Bombs vs. Bugs (By Edward Snowden)](https://edwardsnowden.substack.com/p/qa02)
+- Aug 03 - [Launching Rust Cloud Native](https://nickgerace.dev/post/launching-rust-cloud-native)
 - Aug 03 - [Launch YC: 3D Web; Training; Child Privacy; Pregnancy; Life Science; Desk Rental](https://news.ycombinator.com/item?id=28049500)
-- Aug 03 - [Trusted platform module security defeated in 30 minutes, no soldering required](https://arstechnica.com/gadgets/2021/08/how-to-go-from-stolen-pc-to-network-intrusion-in-30-minutes/)
-- Aug 03 - [Use Spreadsheets Everywhere](https://www.simplethread.com/use-spreadsheets-everywhere/)
-- Aug 03 - [Why don't tech companies pay their engineers to stay?](https://marker.medium.com/why-dont-tech-companies-pay-their-engineers-to-stay-b9c7e4b751e9)
-- Aug 03 - [Alien Dreams: The Long History of Speculation About Extraterrestrials](https://thereader.mitpress.mit.edu/history-speculation-about-aliens/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
