@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 03 - [GitHub Copilot is ‘unacceptable and unjust,’ says Free Software Foundation](https://www.infoworld.com/article/3627319/github-copilot-is-unacceptable-and-unjust-says-free-software-foundation.html)
 - Aug 03 - [Microsoft Teams wants Safari's “Prevent cross-site tracking” off to function](https://twitter.com/amirmasoudabdol/status/1422460508381327382)
 - Aug 03 - [‘It has to be known what was done to us’: couple harassed by eBay tells story](https://www.bostonglobe.com/2021/07/31/business/it-has-be-known-what-was-done-us-natick-couple-harassed-by-ebay-tell-their-story-first-time/?p1=Article_Feed_ContentQuery)
 - Aug 03 - [Axiom.ai (YC W21) Is Hiring – UX Designer and Developer](https://www.workatastartup.com/jobs/45008)
 - Aug 03 - [Cracking into the Sun Ray General Dynamics-Tadpole M1400](https://oldvcr.blogspot.com/2021/08/cracking-into-sun-ray-general-dynamics.html)
-- Aug 03 - [Fourth police officer who responded to Jan 6 attack dies by suicide](https://thehill.com/homenews/house/566040-fourth-police-officer-who-responded-to-jan-6-attack-dies-by-suicide-report)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
