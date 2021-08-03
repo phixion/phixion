@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 03 - [Interview with BlackMatter- a ransomware group targeting firms exceeding $100m](https://therecord.media/an-interview-with-blackmatter-a-new-ransomware-group-thats-learning-from-the-mistakes-of-darkside-and-revil/)
+- Aug 03 - [Three billion people cannot afford a healthy diet](https://ourworldindata.org/diet-affordability)
 - Aug 03 - [Data exfiltration in Keepa Price Tracker](https://palant.info/2021/08/02/data-exfiltration-in-keepa-price-tracker/)
+- Aug 03 - [Official recommends rerun in Amazon union fight](https://www.bbc.com/news/technology-58065874)
 - Aug 03 - [The Fine Line Between Reality and Imaginary](https://nautil.us/issue/104/harmony/the-fine-line-between-reality-and-imaginary)
-- Aug 03 - [Beautiful Disasters: The 5,000 Fingers of Dr. T (2015)](https://mubi.com/notebook/posts/beautiful-disasters-the-5000-fingers-of-dr-t)
-- Aug 03 - [Cheap material converts heat to electricity](https://www.sciencemag.org/news/2021/08/cheap-material-converts-heat-electricity)
-- Aug 03 - [CIA’s fake Hepatitis B vaccine program in Pakistan helped fuel vaccine distrust](https://www.vox.com/first-person/22256595/vaccine-covid-pakistan-cia-program)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
