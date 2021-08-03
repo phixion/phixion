@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 03 - [The Central Park Karen](https://bariweiss.substack.com/p/the-real-story-of-the-central-park)
+- Aug 03 - [Blizzard employee takes her own life after nude photos were distributed](https://us.forums.blizzard.com/en/wow/t/employee-takes-her-own-life/1043722)
+- Aug 03 - [Show HN: Tomatotree.tv – Find your next series to watch using Rotten Tomatoes](https://tomatotree.tv/)
 - Aug 03 - [How MDN's Autocomplete Search Works](https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/)
 - Aug 03 - [Treble.ai (YC S19) Is Hiring Engineers in Latam](https://www.notion.so/treble-ai-is-Hiring-fd735f309ce24a4085bc52daabd3f335)
-- Aug 03 - [Ray Ozzie's latest venture is a cheap IoT board with flat rate connectivity](https://blues.io/)
-- Aug 03 - [NSA Kubernetes Hardening Guidance [pdf]](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF)
+- Aug 03 - [Show HN: OnionShare with Just Tor and Redbean](https://github.com/ndren/redbean-onionshare)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
