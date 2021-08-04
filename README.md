@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 04 - [Normal People Are Beginning to Acknowledge Loss of Free Speech on the Internet](https://cheapskatesguide.org/articles/normals-free-speech.html)
-- Aug 04 - [Early Retirement (2006)](https://philip.greenspun.com/materialism/early-retirement/)
-- Aug 04 - [Leaked Document Says Google Fired Dozens of Employees for Data Misuse](https://www.vice.com/en/article/g5gk73/google-fired-dozens-for-data-misuse)
-- Aug 04 - [PhD student in Switzerland expelled after criticizing the CCP in Twitter](https://www.reddit.com/r/europe/comments/oxmgg2/phd_student_in_switzerland_expelled_from_his/)
-- Aug 04 - [How to Build Resilient JavaScript UIs](https://www.smashingmagazine.com/2021/08/build-resilient-javascript-ui/)
+- Aug 04 - [Launch HN: Turion Space (YC S21) – Space debris removal and satellite servicing](https://news.ycombinator.com/item?id=28061725)
+- Aug 04 - [Facebook reportedly researching ways to use encrypted WhatsApp messages for ads](https://www.macrumors.com/2021/08/03/facebook-researching-analyzing-encrypted-data/)
+- Aug 04 - [Mobile phones on aircraft](https://en.wikipedia.org/wiki/Mobile_phones_on_aircraft)
+- Aug 04 - [Is there any place for monoliths in 2021?](https://fjrevoredo.me/is-there-any-place-for-monoliths-in-2021/)
+- Aug 04 - [Use Phoenix Channels](https://info.codecast.io/blog/how-to-use-phoenix-channels)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
