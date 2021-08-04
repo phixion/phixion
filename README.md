@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 04 - [Parsing Excel XLSX Using Tcl Parser Tools (2011)](https://wiki.tcl-lang.org/page/Parsing+Excel+XLSX)
+- Aug 04 - [Tesla Model S garage fire follows pattern prompting warnings](https://www.washingtonpost.com/technology/2021/08/04/tesla-fire/)
 - Aug 04 - [Ray Tracing Gems II Available as Free Download](https://developer.nvidia.com/blog/ray-tracing-gems-ii-available-today-as-free-digital-download/)
 - Aug 04 - [The humble egg is an example of what’s wrong with nutrition studies (2019)](https://undark.org/2019/07/18/science-of-eggs/)
 - Aug 04 - [Facebook bans researchers who were investigating Facebook ads](https://www.dailydot.com/debug/facebook-bans-researchers-providing-transparency-on-sites-ads/)
-- Aug 04 - [Good Design is Imperfect Design, Part 1: Honest Names](https://www.domainlanguage.com/articles/good-design-is-imperfect-design-part-1-honest-names/)
-- Aug 04 - [Show HN: Hookdeck – an infrastructure to consume webhooks](https://hookdeck.com?ref=hn)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
