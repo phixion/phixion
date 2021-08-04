@@ -35,9 +35,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 04 - [My Small Revenge on Apple](https://javierantonsblog.blogspot.com/2021/08/my-small-revenge-on-apple.html)
 - Aug 04 - [Jupiter (YC S19) Is Hiring Senior Software Engineers, Mobile, QA (Remote/SF)](https://jupiter.co/careers)
 - Aug 04 - [Blush, illustrations for your product page](https://blush.design/)
-- Aug 04 - [Microsoft deletes all comments under heavily criticized Windows 11 upgrade video](https://www.notebookcheck.net/Damage-control-Microsoft-deletes-all-comments-under-heavily-criticized-Windows-11-upgrade-video.553279.0.html)
 - Aug 04 - [Elm-Pages 2.0](https://elm-pages.com/blog/introducing-v2)
 - Aug 04 - [Are dynamic languages going to replace static languages? (2003)](https://www.artima.com/weblogs/viewpost.jsp?thread=4639)
 <!--END_SECTION:hn-->
