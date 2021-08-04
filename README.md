@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 04 - [Jupiter (YC S19) Is Hiring Senior Software Engineers, Mobile, QA (Remote/SF)](https://jupiter.co/careers)
 - Aug 04 - [Microsoft deletes all comments under heavily criticized Windows 11 upgrade video](https://www.notebookcheck.net/Damage-control-Microsoft-deletes-all-comments-under-heavily-criticized-Windows-11-upgrade-video.553279.0.html)
+- Aug 04 - [Elm-Pages 2.0](https://elm-pages.com/blog/introducing-v2)
 - Aug 04 - [Why you should learn SQL](https://www.executeprogram.com/blog/why-you-should-learn-sql)
 - Aug 04 - [Where Do Models Go Wrong? Parameter-Space Saliency Maps for Explainability](https://arxiv.org/abs/2108.01335)
-- Aug 04 - [Almost-Billionaires (2014)](http://lackingambition.com/?p=1464)
-- Aug 04 - [SuperTokens (YC S20) Is hiring a senior Java developer](https://angel.co/l/2vDCh2)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
