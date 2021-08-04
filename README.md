@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 04 - [AtoB (YC S20) is hiring to build Stripe for Transportation](https://careers.atob.com/)
 - Aug 04 - [China Says It's Closing in on Thorium Nuclear Reactor](https://spectrum.ieee.org/china-closing-in-on-thorium-nuclear-reactor)
 - Aug 04 - [Parsing Excel XLSX Using Tcl Parser Tools (2011)](https://wiki.tcl-lang.org/page/Parsing+Excel+XLSX)
+- Aug 04 - [Mario Paint: A 1992 Masterpiece](https://www.charlieharrington.com/mario-paint-masterpiece)
 - Aug 04 - [Ray Tracing Gems II available as free download](https://developer.nvidia.com/blog/ray-tracing-gems-ii-available-today-as-free-digital-download/)
-- Aug 04 - [Verilog2Factorio: Web Demo](https://redcrafter.github.io/verilog2factorio/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
