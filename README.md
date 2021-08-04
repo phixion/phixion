@@ -35,10 +35,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 04 - [‘Master Faces’ That Can Bypass over 40% of Facial ID Authentication Systems](https://www.unite.ai/master-faces-that-can-bypass-over-40-of-facial-id-authentication-systems/)
+- Aug 04 - [‘Master faces’ that can bypass over 40% of facial ID authentication systems](https://www.unite.ai/master-faces-that-can-bypass-over-40-of-facial-id-authentication-systems/)
 - Aug 04 - [Simple Systems Have Less Downtime (2020)](https://www.gkogan.co/blog/simple-systems/)
 - Aug 04 - [The surreal experience of my first developer job](https://bennuttall.com/the-surreal-experience-of-my-first-developer-job/)
-- Aug 04 - [My Small Revenge on Apple](https://javierantonsblog.blogspot.com/2021/08/my-small-revenge-on-apple.html)
+- Aug 04 - [My small revenge on Apple](https://javierantonsblog.blogspot.com/2021/08/my-small-revenge-on-apple.html)
 - Aug 04 - [Pitfalls of Data Anonymization](https://palant.info/2020/02/18/insights-from-avast/jumpshot-data-pitfalls-of-data-anonymization/)
 <!--END_SECTION:hn-->
 
