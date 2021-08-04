@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 04 - [$28.50 Beer at LaGuardia Sparks Audit of New York Airport Concession Prices](https://eyeoftheflyer.com/2021/08/03/tweet-of-28-50-beer-at-la-guardia-sparks-audit-of-new-york-airport-concession-prices/)
 - Aug 04 - [Where Do Models Go Wrong? Parameter-Space Saliency Maps for Explainability](https://arxiv.org/abs/2108.01335)
 - Aug 04 - [Almost-Billionaires](http://lackingambition.com/?p=1464)
-- Aug 04 - [Report on Archegos Capital Management (How Credit Suisse Lost $6B)](https://www.sec.gov/Archives/edgar/data/0001159510/000137036821000064/a210729-ex992.htm)
 - Aug 04 - [SuperTokens (YC S20) Is hiring a senior Java developer](https://angel.co/l/2vDCh2)
+- Aug 04 - [Law school applicants surge 13%, biggest increase since dot-com bubble](https://www.reuters.com/legal/legalindustry/law-school-applicants-surge-13-biggest-increase-since-dot-com-bubble-2021-08-03/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
