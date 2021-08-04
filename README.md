@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 04 - [Democrats Seek $500B in Climate Damages from Big Polluting Companies](https://www.nytimes.com/2021/08/04/climate/tax-polluting-companies-climate.html)
+- Aug 04 - [Are our immune systems out of practice?](https://www.dw.com/en/covid-isolation-are-our-immune-systems-out-of-practice/a-58733783)
+- Aug 04 - [Show HN: Till – Unblock and scale your web scrapers, with minimal code changes](https://github.com/DataHenHQ/till)
 - Aug 04 - [Difference between DevOps, SecOps and DevSecOps](https://five9sclub.substack.com/p/how-to-explain-devops-to-non-tech)
 - Aug 04 - [‘Master faces’ that can bypass over 40% of facial ID authentication systems](https://www.unite.ai/master-faces-that-can-bypass-over-40-of-facial-id-authentication-systems/)
 - Aug 04 - [Simple Systems Have Less Downtime (2020)](https://www.gkogan.co/blog/simple-systems/)
-- Aug 04 - [The surreal experience of my first developer job](https://bennuttall.com/the-surreal-experience-of-my-first-developer-job/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
