@@ -35,8 +35,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 04 - [Interesting – Starbucks Paper Cups Not Recyclable](https://sealawards.com/upthecup/)
 - Aug 04 - [Nutrition Science Is Broken. This New Egg Study Shows Why. (2019)](https://undark.org/2019/07/18/science-of-eggs/)
-- Aug 04 - [Steam Is Down](https://steamstat.us/)
 - Aug 04 - [Facebook bans researchers who were investigating Facebook ads](https://www.dailydot.com/debug/facebook-bans-researchers-providing-transparency-on-sites-ads/)
 - Aug 04 - [Good Design is Imperfect Design, Part 1: Honest Names](https://www.domainlanguage.com/articles/good-design-is-imperfect-design-part-1-honest-names/)
 - Aug 04 - [Show HN: Hookdeck – an infrastructure to consume webhooks](https://hookdeck.com?ref=hn)
