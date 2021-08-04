@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 04 - [Tell HN: Protonmail is no longer private, sharing user info with US authorities](https://news.ycombinator.com/item?id=28057433)
 - Aug 04 - [Why you should learn SQL](https://www.executeprogram.com/blog/why-you-should-learn-sql)
 - Aug 04 - [Are Dynamic Languages Going to Replace Static Languages? (2003)](https://www.artima.com/weblogs/viewpost.jsp?thread=4639)
-- Aug 04 - [$28.50 Beer at LaGuardia Sparks Audit of New York Airport Concession Prices](https://eyeoftheflyer.com/2021/08/03/tweet-of-28-50-beer-at-la-guardia-sparks-audit-of-new-york-airport-concession-prices/)
+- Aug 04 - [Philosophers Should Care about Computational Complexity [pdf]](https://www.scottaaronson.com/papers/philos.pdf)
 - Aug 04 - [Where Do Models Go Wrong? Parameter-Space Saliency Maps for Explainability](https://arxiv.org/abs/2108.01335)
-- Aug 04 - [Almost-Billionaires (2014)](http://lackingambition.com/?p=1464)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
