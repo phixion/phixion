@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 04 - [Facebook bans researchers who were investigating Facebook ads](https://www.dailydot.com/debug/facebook-bans-researchers-providing-transparency-on-sites-ads/)
+- Aug 04 - [Good Design is Imperfect Design, Part 1: Honest Names](https://www.domainlanguage.com/articles/good-design-is-imperfect-design-part-1-honest-names/)
+- Aug 04 - [Show HN: Hookdeck – an infrastructure to consume webhooks](https://hookdeck.com?ref=hn)
 - Aug 04 - [Finary (YC W21) Is Hiring Full Stack Engineers and a Product Designer](https://about.finary.io/careers)
 - Aug 04 - [Launch HN: Keyri (YC S21) – Secure smartphone-based passwordless authentication](https://news.ycombinator.com/item?id=28063339)
-- Aug 04 - [Windows 365 paused due to high demand](https://www.theverge.com/2021/8/4/22609090/microsoft-365-free-trials-cloud-pcs-demand-trials)
-- Aug 04 - [The historical accuracy of medieval city-builder video games](https://www.leidenmedievalistsblog.nl/articles/why-medieval-city-builder-video-games-are-historically-inaccurate)
-- Aug 04 - [Julian Assange: peering through the murk](https://www.lawgazette.co.uk/commentary-and-opinion/julian-assange-peering-through-the-murk/5109400.article)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
