@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 03 - [Chrome removing alert, prompt from cross-origin iframes, panic ensues](https://bugs.chromium.org/p/chromium/issues/detail?id=1065085)
+- Aug 04 - [SuperTokens (YC S20) Is hiring a senior Java developer](https://angel.co/l/2vDCh2)
+- Aug 04 - [Test quantum mechanics in space – invest US$1B](https://www.nature.com/articles/d41586-021-02091-8)
+- Aug 03 - [Implement window.{alert, prompt, confirm} removal from cross-origin iframes](https://bugs.chromium.org/p/chromium/issues/detail?id=1065085)
 - Aug 03 - [Bye CUPS: Printing with Netcat](https://retrohacker.substack.com/p/bye-cups-printing-with-netcat)
 - Aug 03 - [Where are the robotic bricklayers?](https://constructionphysics.substack.com/p/where-are-the-robotic-bricklayers)
-- Aug 03 - [VergeSense (YC S17) Is Hiring Multiple Roles (Full-Stack, Firmware, Product)](https://www.workatastartup.com/companies/vergesense)
-- Aug 03 - [Sparse Array Beamforming with a Phase Coherent 21-Channel RTL-SDR Array](https://www.rtl-sdr.com/sparse-array-beamforming-with-a-phase-coherent-21-channel-rtl-sdr-array/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
