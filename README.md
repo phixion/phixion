@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 04 - [Woman sues L.A. after being struck by car on a street where tents block sidewalk](https://www.latimes.com/california/story/2021-08-04/woman-sues-after-being-hit-by-a-car-on-street-where-homeless-encampment-blocks-the-sidewalk)
 - Aug 04 - [Parsing Excel XLSX Using Tcl Parser Tools (2011)](https://wiki.tcl-lang.org/page/Parsing+Excel+XLSX)
 - Aug 04 - [Tesla Model S garage fire follows pattern prompting warnings](https://www.washingtonpost.com/technology/2021/08/04/tesla-fire/)
 - Aug 04 - [Ray Tracing Gems II Available as Free Download](https://developer.nvidia.com/blog/ray-tracing-gems-ii-available-today-as-free-digital-download/)
 - Aug 04 - [Verilog2Factorio: Web Demo](https://redcrafter.github.io/verilog2factorio/)
-- Aug 04 - [Facebook bans researchers who were investigating Facebook ads](https://www.dailydot.com/debug/facebook-bans-researchers-providing-transparency-on-sites-ads/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
