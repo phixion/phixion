@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 04 - [Lawmaker Says Facebook Move to Cut Off Researcher Access is 'Deeply Concerning'](https://www.reuters.com/technology/us-lawmaker-says-facebook-move-cut-off-researcher-access-is-deeply-concerning-2021-08-04/)
-- Aug 04 - [Spanish engineers extract drinking water from thin air](https://www.reuters.com/technology/spanish-engineers-extract-drinking-water-thin-air-2021-08-04/)
-- Aug 04 - [Kanye West’s Quest for Perfection](https://www.frieze.com/article/kanye-wests-Donda-Album-Quest-perfection)
+- Aug 04 - [Nutrition Science Is Broken. This New Egg Study Shows Why. (2019)](https://undark.org/2019/07/18/science-of-eggs/)
+- Aug 04 - [Steam Is Down](https://steamstat.us/)
 - Aug 04 - [Facebook bans researchers who were investigating Facebook ads](https://www.dailydot.com/debug/facebook-bans-researchers-providing-transparency-on-sites-ads/)
 - Aug 04 - [Good Design is Imperfect Design, Part 1: Honest Names](https://www.domainlanguage.com/articles/good-design-is-imperfect-design-part-1-honest-names/)
+- Aug 04 - [Show HN: Hookdeck – an infrastructure to consume webhooks](https://hookdeck.com?ref=hn)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
