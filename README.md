@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 04 - [Gitly: A light and fast GitHub/GitLab alternative written in V lang (pre-alpha)](http://gitly.org/)
 - Aug 04 - [Launch HN: Turion Space (YC S21) – Space debris removal and satellite servicing](https://news.ycombinator.com/item?id=28061725)
+- Aug 04 - [The STEM Crisis Is a Myth](https://spectrum.ieee.org/the-stem-crisis-is-a-myth)
 - Aug 04 - [Facebook reportedly researching ways to use encrypted WhatsApp messages for ads](https://www.macrumors.com/2021/08/03/facebook-researching-analyzing-encrypted-data/)
-- Aug 04 - [Mobile phones on aircraft](https://en.wikipedia.org/wiki/Mobile_phones_on_aircraft)
-- Aug 04 - [Is there any place for monoliths in 2021?](https://fjrevoredo.me/is-there-any-place-for-monoliths-in-2021/)
-- Aug 04 - [Use Phoenix Channels](https://info.codecast.io/blog/how-to-use-phoenix-channels)
+- Aug 04 - [Uptime Lab's CM4 Blade Adds NVMe, TPM 2.0 to Raspberry Pi](https://www.jeffgeerling.com/blog/2021/uptime-labs-cm4-blade-adds-nvme-tpm-20-raspberry-pi)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
