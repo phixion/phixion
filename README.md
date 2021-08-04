@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 04 - [Why medieval city-builder video games are historically inaccurate](https://www.leidenmedievalistsblog.nl/articles/why-medieval-city-builder-video-games-are-historically-inaccurate)
 - Aug 04 - [Julian Assange: peering through the murk](https://www.lawgazette.co.uk/commentary-and-opinion/julian-assange-peering-through-the-murk/5109400.article)
+- Aug 04 - [Australian mathematician discovers applied geometry on 3,700-year-old tablet](https://www.theguardian.com/science/2021/aug/05/australian-mathematician-discovers-applied-geometry-engraved-on-3700-year-old-tablet)
 - Aug 04 - [Gitly: A light and fast GitHub/GitLab alternative written in V lang (pre-alpha)](http://gitly.org/)
 - Aug 04 - [Launch HN: Turion Space (YC S21) – Space debris removal and satellite servicing](https://news.ycombinator.com/item?id=28061725)
-- Aug 04 - [The STEM Crisis Is a Myth](https://spectrum.ieee.org/the-stem-crisis-is-a-myth)
-- Aug 04 - [Facebook reportedly researching ways to use encrypted WhatsApp messages for ads](https://www.macrumors.com/2021/08/03/facebook-researching-analyzing-encrypted-data/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
