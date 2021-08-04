@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 04 - [Eight Sleep (YC S15) Is Hiring a Data Scientist](https://www.ycombinator.com/companies/eight-sleep/jobs/slZD7gD-full-stack-engineer-web-focus)
+- Aug 04 - [UK Politician wants AI 'nudifying' tool DeepSukebe banned](https://www.bbc.co.uk/news/technology-57996910)
 - Aug 04 - [Are our immune systems out of practice?](https://www.dw.com/en/covid-isolation-are-our-immune-systems-out-of-practice/a-58733783)
 - Aug 04 - [Show HN: Till – Unblock and scale your web scrapers, with minimal code changes](https://github.com/DataHenHQ/till)
 - Aug 04 - [Difference between DevOps, SecOps and DevSecOps](https://five9sclub.substack.com/p/how-to-explain-devops-to-non-tech)
-- Aug 04 - [GAN-generated facial images that are capable of impersonating multiple IDs](https://www.unite.ai/master-faces-that-can-bypass-over-40-of-facial-id-authentication-systems/)
-- Aug 04 - [Simple Systems Have Less Downtime (2020)](https://www.gkogan.co/blog/simple-systems/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
