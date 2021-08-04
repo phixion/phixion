@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 04 - [Where Do Models Go Wrong? Parameter-Space Saliency Maps for Explainability](https://arxiv.org/abs/2108.01335)
+- Aug 04 - [Report on Archegos Capital Management (How Credit Suisse Lost $6B)](https://www.sec.gov/Archives/edgar/data/0001159510/000137036821000064/a210729-ex992.htm)
 - Aug 04 - [SuperTokens (YC S20) Is hiring a senior Java developer](https://angel.co/l/2vDCh2)
+- Aug 04 - [Law school applicants surge 13%, biggest increase since dot-com bubble](https://www.reuters.com/legal/legalindustry/law-school-applicants-surge-13-biggest-increase-since-dot-com-bubble-2021-08-03/)
 - Aug 04 - [Test quantum mechanics in space – invest US$1B](https://www.nature.com/articles/d41586-021-02091-8)
-- Aug 03 - [Implement window.{alert, prompt, confirm} removal from cross-origin iframes](https://bugs.chromium.org/p/chromium/issues/detail?id=1065085)
-- Aug 03 - [Bye CUPS: Printing with Netcat](https://retrohacker.substack.com/p/bye-cups-printing-with-netcat)
-- Aug 03 - [Where are the robotic bricklayers?](https://constructionphysics.substack.com/p/where-are-the-robotic-bricklayers)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
