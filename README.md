@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 04 - [Simple Systems Have Less Downtime (2020)](https://www.gkogan.co/blog/simple-systems/)
+- Aug 04 - [The surreal experience of my first developer job](https://bennuttall.com/the-surreal-experience-of-my-first-developer-job/)
 - Aug 04 - [My Small Revenge on Apple](https://javierantonsblog.blogspot.com/2021/08/my-small-revenge-on-apple.html)
 - Aug 04 - [Pitfalls of Data Anonymization](https://palant.info/2020/02/18/insights-from-avast/jumpshot-data-pitfalls-of-data-anonymization/)
 - Aug 04 - [Nissan's Leaf S is now the cheapest EV in the US at $27,400](https://www.engadget.com/nissans-entry-level-leaf-is-now-the-cheapest-ev-in-the-us-at-27400-053932185.html)
-- Aug 04 - [Jupiter (YC S19) Is Hiring Senior Software Engineers, Mobile, QA (Remote/SF)](https://jupiter.co/careers)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
