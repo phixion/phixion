@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 04 - [PhD student in Switzerland expelled after criticizing the CCP in Twitter](https://www.reddit.com/r/europe/comments/oxmgg2/phd_student_in_switzerland_expelled_from_his/)
-- Aug 04 - [Coming soon: America’s own social credit system](https://thehill.com/opinion/finance/565860-coming-soon-americas-own-social-credit-system)
 - Aug 04 - [How to Build Resilient JavaScript UIs](https://www.smashingmagazine.com/2021/08/build-resilient-javascript-ui/)
 - Aug 04 - [Eight Sleep (YC S15) Is Hiring a Data Scientist](https://www.ycombinator.com/companies/eight-sleep/jobs/slZD7gD-full-stack-engineer-web-focus)
 - Aug 04 - [AdObserver Blocked by Facebook](https://twitter.com/LauraEdelson2/status/1422736706554433538)
+- Aug 04 - [Show HN: Till – Unblock and scale your web scrapers, with minimal code changes](https://github.com/DataHenHQ/till)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
