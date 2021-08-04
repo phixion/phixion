@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 04 - [AtoB (YC S20) is hiring to build Stripe for Transportation](https://careers.atob.com/)
-- Aug 04 - [Facebook Disables Accounts Tied to NYU Research Project Studying Misinformation](https://www.bloomberg.com/news/articles/2021-08-03/facebook-disables-accounts-tied-to-nyu-research-project)
 - Aug 04 - [Woman sues L.A. after being struck by car on a street where tents block sidewalk](https://www.latimes.com/california/story/2021-08-04/woman-sues-after-being-hit-by-a-car-on-street-where-homeless-encampment-blocks-the-sidewalk)
 - Aug 04 - [Parsing Excel XLSX Using Tcl Parser Tools (2011)](https://wiki.tcl-lang.org/page/Parsing+Excel+XLSX)
 - Aug 04 - [Ray Tracing Gems II Available as Free Download](https://developer.nvidia.com/blog/ray-tracing-gems-ii-available-today-as-free-digital-download/)
+- Aug 04 - [Verilog2Factorio: Web Demo](https://redcrafter.github.io/verilog2factorio/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
