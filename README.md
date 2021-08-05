@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 05 - [George Hotz Announcing Comma Three](https://www.youtube.com/watch?v=hbLiehrC2DQ)
+- Aug 05 - [Don't scan your face to buy glasses](https://ognjen.io/dont-scan-your-face-to-buy-glasses/)
+- Aug 04 - [Elizabeth Holmes fails to keep customer complaints, test results out of trial](https://www.yahoo.com/finance/news/elizabeth-holmes-fails-to-keep-customer-complaints-out-of-criminal-fraud-trial-210015777.html)
 - Aug 04 - [AtoB (YC S20) is hiring to build Stripe for Transportation](https://careers.atob.com/)
 - Aug 04 - [China Says It's Closing in on Thorium Nuclear Reactor](https://spectrum.ieee.org/china-closing-in-on-thorium-nuclear-reactor)
-- Aug 04 - [Parsing Excel XLSX Using Tcl Parser Tools (2011)](https://wiki.tcl-lang.org/page/Parsing+Excel+XLSX)
-- Aug 04 - [Mario Paint: A 1992 Masterpiece](https://www.charlieharrington.com/mario-paint-masterpiece)
-- Aug 04 - [Ray Tracing Gems II available as free download](https://developer.nvidia.com/blog/ray-tracing-gems-ii-available-today-as-free-digital-download/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
