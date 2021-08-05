@@ -38,7 +38,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 05 - [Golang Security Checker](https://github.com/securego/gosec)
 - Aug 05 - [Does the Tuskegee experiment explain black vaccination rates?](https://mattbruenig.com/2021/08/04/does-the-tuskegee-experiment-really-explain-black-vaccination-rates/)
 - Aug 05 - [Apple enabling client-side CSAM scanning on iPhone tomorrow](https://twitter.com/matthew_d_green/status/1423071186616000513)
-- Aug 05 - [The Six Dumbest Ideas in Computer Security (2005)](http://www.ranum.com/security/computer_security/editorials/dumb/)
+- Aug 05 - [2019 Global Health Security Index: Countries Ranked by Preparedness for Pandemic](https://www.ghsindex.org/)
 - Aug 05 - [Airyx OS](http://airyx.org/)
 <!--END_SECTION:hn-->
 
