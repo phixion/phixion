@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 05 - [George Hotz Announcing Comma Three](https://www.youtube.com/watch?v=hbLiehrC2DQ)
-- Aug 05 - [Don't scan your face to buy glasses](https://ognjen.io/dont-scan-your-face-to-buy-glasses/)
-- Aug 04 - [Elizabeth Holmes fails to keep customer complaints, test results out of trial](https://www.yahoo.com/finance/news/elizabeth-holmes-fails-to-keep-customer-complaints-out-of-criminal-fraud-trial-210015777.html)
-- Aug 04 - [AtoB (YC S20) is hiring to build Stripe for Transportation](https://careers.atob.com/)
-- Aug 04 - [China Says It's Closing in on Thorium Nuclear Reactor](https://spectrum.ieee.org/china-closing-in-on-thorium-nuclear-reactor)
+- Aug 05 - [2019 Global Health Security Index: Countries Ranked by Preparedness for Pandemic](https://www.ghsindex.org/)
+- Aug 05 - [Why Facebook’s claims about the Ad Observer are wrong](https://blog.mozilla.org/en/mozilla/news/why-facebooks-claims-about-the-ad-observer-are-wrong/)
+- Aug 05 - [Comma Three [video]](https://www.youtube.com/watch?v=hbLiehrC2DQ)
+- Aug 04 - [Slitter: A slab allocator that trusts, but verifies](https://engineering.backtrace.io/2021-08-04-slitter-a-slab-allocator-that-trusts-but-verifies/)
+- Aug 04 - [1.2M Tesla Cybertruck Pre-Orders](https://insideevs.com/news/524156/tesla-cybertruck-preorders-exceed-1250000/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
