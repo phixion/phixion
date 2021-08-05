@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 05 - [Declined invitations go over more graciously when lack of money is cited](https://theconversation.com/declined-invitations-go-over-more-graciously-when-lack-of-money-is-cited-instead-of-lack-of-time-new-research-164473)
+- Aug 05 - [Wealthy people are renouncing American citizenship](https://www.axios.com/wealthy-people-are-renouncing-american-citizenship-67fbada4-e2e4-4699-b106-c986839f209d.html)
 - Aug 05 - [Whatnot (YC W20) Is Hiring Engineers (Generalist, iOS, Android, DevOps)](https://www.whatnot.com/careers)
 - Aug 05 - [A Bit Overcomplicated](https://thedailywtf.com/articles/a-bit-overcomplicated)
 - Aug 05 - [Facebook executive helped Cuomo smear sex-harassment accuser: AG report](https://nypost.com/2021/08/04/facebook-exec-helped-cuomo-smear-sex-harassment-accuser-ag/)
-- Aug 05 - [Radio was the original overhyped technology](https://blog.racket.com/radio-and-the-technology-cycle/)
-- Aug 05 - [Show HN: Made an internal communication app with just SWIFTUI](https://apps.apple.com/us/app/kwayet/id1545093715)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
