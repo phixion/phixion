@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 05 - [Contemporary COBOL: Developers' Perspectives on Defects and Defect Location](https://arxiv.org/abs/2105.01830)
 - Aug 05 - [Google hits undo on Chrome browser alert change that broke websites, web apps](https://www.theregister.com/2021/08/05/google_chrome_iframe/)
 - Aug 05 - [The world of cats: what our feline friends do when we’re not looking](https://www.theguardian.com/lifeandstyle/2021/jul/22/hidden-world-cats-what-feline-friends-doing-when-were-not-looking)
 - Aug 05 - [Global Sourcebook for International Data Management](http://www.grcdi.nl/gsb/global%20sourcebook.html)
 - Aug 05 - [Lowkey (YC S18) is hiring a Senior Software Engineer who likes games](https://www.notion.so/lowkeygg/Lowkey-Job-Board-39a26c1b4a00493fadc26249185df748)
-- Aug 05 - [System on SO-DIMM](https://twitter.com/Foone/status/1423078973064441858)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
