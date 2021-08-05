@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 05 - [Apple enabling client-side CSAM scanning on iPhone tomorrow](https://twitter.com/matthew_d_green/status/1423071186616000513)
+- Aug 05 - [The Six Dumbest Ideas in Computer Security (2005)](http://www.ranum.com/security/computer_security/editorials/dumb/)
 - Aug 05 - [2019 Global Health Security Index: Countries Ranked by Preparedness for Pandemic](https://www.ghsindex.org/)
-- Aug 05 - [Why Facebook’s claims about the Ad Observer are wrong](https://blog.mozilla.org/en/mozilla/news/why-facebooks-claims-about-the-ad-observer-are-wrong/)
-- Aug 05 - [Comma Three [video]](https://www.youtube.com/watch?v=hbLiehrC2DQ)
-- Aug 04 - [Slitter: A slab allocator that trusts, but verifies](https://engineering.backtrace.io/2021-08-04-slitter-a-slab-allocator-that-trusts-but-verifies/)
-- Aug 04 - [1.2M Tesla Cybertruck Pre-Orders](https://insideevs.com/news/524156/tesla-cybertruck-preorders-exceed-1250000/)
+- Aug 05 - [Airyx OS](http://airyx.org/)
+- Aug 05 - [Facebook’s claims about the Ad Observer are wrong](https://blog.mozilla.org/en/mozilla/news/why-facebooks-claims-about-the-ad-observer-are-wrong/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
