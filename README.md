@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 05 - ['They couldn't take it anymore': Hospital exec says employees are walking off](https://www.cnn.com/videos/health/2021/08/05/arkansas-covid-burnout-savidge-dnt-ebof-vpx.cnn/video/playlists/coronavirus/)
+- Aug 05 - [Google Co-Founder Larry Page Allowed into New Zealand Despite Closed Border](https://www.ndtv.com/world-news/google-co-founder-larry-page-allowed-into-new-zealand-despite-closed-border-2503055)
 - Aug 05 - [Launch YC S21: Meet the Batch, Thread #4](https://news.ycombinator.com/item?id=28073548)
+- Aug 05 - [Kid Pix as a JavaScript App](https://kidpix.app/)
 - Aug 05 - [The insides of pro bowling balls will make your head spin](https://www.popsci.com/story/technology/bowling-ball-insides-photos/)
-- Aug 05 - [Mozilla Common Voice Adds 16 New Languages and 4,600 New Hours of Speech](https://foundation.mozilla.org/en/blog/mozilla-common-voice-adds-16-new-languages-and-4600-new-hours-of-speech/)
-- Aug 05 - [Personal Computing on an Amiga in 2021](https://thedorkweb.substack.com/p/personal-computing-on-an-amiga-in-2021)
-- Aug 05 - [Declined invitations go over more graciously when lack of money is cited](https://theconversation.com/declined-invitations-go-over-more-graciously-when-lack-of-money-is-cited-instead-of-lack-of-time-new-research-164473)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
