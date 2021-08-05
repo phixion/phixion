@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 05 - [Golang Security Checker](https://github.com/securego/gosec)
-- Aug 05 - [Does the Tuskegee Experiment Explain Black Vaccination Rates?](https://mattbruenig.com/2021/08/04/does-the-tuskegee-experiment-really-explain-black-vaccination-rates/)
+- Aug 05 - [Does the Tuskegee experiment explain black vaccination rates?](https://mattbruenig.com/2021/08/04/does-the-tuskegee-experiment-really-explain-black-vaccination-rates/)
 - Aug 05 - [Xsolla fires 150 employees using analysis of chat and email activity](https://gameworldobserver.com/2021/08/04/xsolla-fires-150-employees-using-big-data-and-ai-analysis-ceos-letter-causes-controversy)
 - Aug 05 - [Apple enabling client-side CSAM scanning on iPhone tomorrow](https://twitter.com/matthew_d_green/status/1423071186616000513)
-- Aug 05 - [Tech Companies with Four-Day Work Weeks](https://4dayweek.io/blog/10-tech-companies-with-4-day-work-weeks-2021)
+- Aug 05 - [Airyx OS](http://airyx.org/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
