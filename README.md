@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 05 - [Mathematicians Solve Decades-Old Classification Problem](https://www.quantamagazine.org/mathematicians-solve-decades-old-classification-problem-20210805/)
+- Aug 05 - [Senators move to exempt Bitcoin, crypto miners from proposed U.S. tax rules](https://www.marketwatch.com/story/senators-move-to-exempt-bitcoin-crypto-miners-from-proposed-u-s-tax-rules-11628102530)
+- Aug 05 - [Affinity 1.10: Performance update](https://affinity.serif.com/en-us/latest-update/)
+- Aug 05 - [Ignoring WHO call, major nations stick to vaccine booster plans](https://www.reuters.com/world/europe/french-president-macron-third-covid-vaccine-doses-likely-elderly-vulnerable-2021-08-05/)
 - Aug 05 - [Years of fighting every wildfire helped fuel the Western megafires of today](https://theconversation.com/how-years-of-fighting-every-wildfire-helped-fuel-the-western-megafires-of-today-163165)
-- Aug 05 - [Developers Complain as App Store Feature Promotes Rip-Off Apps](https://forums.macrumors.com/threads/developers-complain-as-app-store-feature-promotes-rip-off-apps.2306605/)
-- Aug 05 - [Senators propose exclusion of miners, software developers in infrastructure bill](https://www.theblockcrypto.com/linked/113562/us-senate-crypto-tax-amendment-congress)
-- Aug 05 - [Officials put the wrong man in a mental facility for 2 years](https://www.washingtonpost.com/nation/2021/08/05/hawaii-mistaken-identity-arrest/)
-- Aug 05 - ['They couldn't take it anymore': Hospital exec says employees are walking off](https://www.cnn.com/videos/health/2021/08/05/arkansas-covid-burnout-savidge-dnt-ebof-vpx.cnn/video/playlists/coronavirus/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
