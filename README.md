@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 05 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- Aug 05 - [Operating Systems: Timeline and Family Tree (includes over 830 OSs so far)](https://eylenburg.github.io/os_familytree.htm)
 - Aug 05 - [Parametric Programming – an equational approach to OO and beyond](https://billwadge.wordpress.com/2021/08/01/parametric-programming-an-equational-approach-to-oo-and-beyond/)
-- Aug 05 - [Apple's Plan to “Think Different” About Encryption Opens a Backdoor to Your Life](https://www.eff.org/deeplinks/2021/08/apples-plan-think-different-about-encryption-opens-backdoor-your-private-life)
-- Aug 05 - [Reverse Engineering the M1 [pdf]](https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Reverse-Engineering-The-M1.pdf)
-- Aug 05 - [Observation-based early-warning signals for a collapse of the Gulf Stream](https://doi.org/10.1038/s41558-021-01097-4)
+- Aug 05 - [TUG (TeX Users Group) 2021 online conference – Program](https://tug.org/tug2021/sched.html)
+- Aug 05 - [Who Is Your Audience?](https://leejo.github.io/2021/08/01/who-is-your-audience/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
