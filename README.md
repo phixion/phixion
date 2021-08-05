@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 05 - [Amazon postpones return to office until January 2022](https://www.cnbc.com/2021/08/05/amazon-postpones-return-to-office-until-january-2022-.html)
-- Aug 05 - [94% of English adults have Covid antibodies, ONS data shows](https://www.thetimes.co.uk/article/658b3bc4-f518-11eb-8f01-2c678acbb979)
 - Aug 05 - [Yann LeCun on his start in AI and recent self-supervised learning research](https://thegradientpub.substack.com/p/yann-lecun-on-his-start-in-research)
 - Aug 05 - [Kraftful (YC S19) is hiring to build the software layer for the physical world](https://www.kraftful.com/team)
 - Aug 05 - [How PostgreSQL aggregation works and how it inspired our hyperfunctions’ design](https://blog.timescale.com/blog/how-postgresql-aggregation-works-and-how-it-inspired-our-hyperfunctions-design-2/)
+- Aug 05 - [Going forward, Unity devs will need Unity Pro to publish on consoles](https://gamasutra.com/view/news/386242/Going_forward_Unity_devs_will_need_Unity_Pro_to_publish_on_consoles.php)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
