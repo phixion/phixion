@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 05 - [Lowkey (YC S18) is hiring a Senior Software Engineer who likes games](https://www.notion.so/lowkeygg/Lowkey-Job-Board-39a26c1b4a00493fadc26249185df748)
 - Aug 05 - [Facebook let fossil-fuel industry push climate misinformation, report finds](https://www.theguardian.com/environment/2021/aug/05/facebook-fossil-fuel-industry-environment-climate-change)
 - Aug 05 - [Google Chrome to remove alert() inside cross-origin iframes in a future version](https://twitter.com/estark37/status/1422694845076762629)
 - Aug 05 - [Golang Security Checker](https://github.com/securego/gosec)
 - Aug 05 - [Apple enabling client-side CSAM scanning on iPhone tomorrow](https://twitter.com/matthew_d_green/status/1423071186616000513)
-- Aug 05 - [Airyx OS](http://airyx.org/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
