@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 05 - [Facebook executive helped Cuomo smear sex-harassment accuser: AG report](https://nypost.com/2021/08/04/facebook-exec-helped-cuomo-smear-sex-harassment-accuser-ag/)
+- Aug 05 - [America is plummeting down the global vaccination league table](https://www.economist.com/graphic-detail/2021/08/04/america-is-plummeting-down-the-global-vaccination-league-table)
 - Aug 05 - [Radio was the original overhyped technology](https://blog.racket.com/radio-and-the-technology-cycle/)
 - Aug 05 - [Show HN: Made an internal communication app with just SWIFTUI](https://apps.apple.com/us/app/kwayet/id1545093715)
 - Aug 05 - [Falsehoods Programmers Believe About Phone Numbers (2016)](https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md)
-- Aug 05 - [Tesla Owner Billed over $14,000 for Accidental Full Self-Driving Purchase](https://www.thedrive.com/tech/41826/tesla-owner-billed-over-14000-for-accidental-full-self-driving-purchase)
-- Aug 05 - [Contemporary COBOL: Developers' Perspectives on Defects and Defect Location](https://arxiv.org/abs/2105.01830)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
