@@ -35,9 +35,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 05 - [Apple's Plan to “Think Different” About Encryption Opens a Backdoor to Your Life](https://www.eff.org/deeplinks/2021/08/apples-plan-think-different-about-encryption-opens-backdoor-your-private-life)
 - Aug 05 - [Reverse Engineering the M1 [pdf]](https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Reverse-Engineering-The-M1.pdf)
 - Aug 05 - [Observation-based early-warning signals for a collapse of the Gulf Stream](https://doi.org/10.1038/s41558-021-01097-4)
-- Aug 05 - [Expanded Protections for Children](https://www.apple.com/child-safety/)
 - Aug 05 - [Build your own SPARC workstation](https://learn.adafruit.com/build-your-own-sparc-with-qemu-and-solaris)
 - Aug 05 - [Practical? Common Lisp on the JVM: A quick intro to ABCL for modern web apps](https://notes.eatonphil.com/practical-common-lisp-on-the-jvm.html)
 <!--END_SECTION:hn-->
