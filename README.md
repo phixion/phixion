@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 05 - [How PostgreSQL aggregation works and how it inspired our hyperfunctions’ design](https://blog.timescale.com/blog/how-postgresql-aggregation-works-and-how-it-inspired-our-hyperfunctions-design-2/)
+- Aug 05 - [Alcohol linked to more cancers than thought, study finds](https://www.theguardian.com/society/2021/aug/04/alcohol-linked-more-cancers-previously-thought-study-coffee-liver)
+- Aug 05 - [EmacsConf 2021 Call for Proposals](https://emacsconf.org/2021/cfp/)
+- Aug 05 - [In Praise of PostgreSQL](https://drewdevault.com/2021/08/05/In-praise-of-Postgres.html)
 - Aug 05 - [Apple plans to scan US iPhones for child abuse imagery](https://www.ft.com/content/14440f81-d405-452f-97e2-a81458f5411f)
-- Aug 05 - [Mathematicians Solve Decades-Old Classification Problem](https://www.quantamagazine.org/mathematicians-solve-decades-old-classification-problem-20210805/)
-- Aug 05 - [Senators move to exempt Bitcoin, crypto miners from proposed U.S. tax rules](https://www.marketwatch.com/story/senators-move-to-exempt-bitcoin-crypto-miners-from-proposed-u-s-tax-rules-11628102530)
-- Aug 05 - [Why Amazon GDPR fine is a game changer for privacy tech startups](https://www.alias.dev/blog/why-the-amazon-gdpr-fine-will-be-a-game-changer)
-- Aug 05 - [Affinity 1.10: Performance update](https://affinity.serif.com/en-us/latest-update/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
