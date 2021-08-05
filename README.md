@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 05 - [Launch YC S21: Meet the Batch, Thread #4](https://news.ycombinator.com/item?id=28073548)
+- Aug 05 - [The insides of pro bowling balls will make your head spin](https://www.popsci.com/story/technology/bowling-ball-insides-photos/)
 - Aug 05 - [Mozilla Common Voice Adds 16 New Languages and 4,600 New Hours of Speech](https://foundation.mozilla.org/en/blog/mozilla-common-voice-adds-16-new-languages-and-4600-new-hours-of-speech/)
 - Aug 05 - [Personal Computing on an Amiga in 2021](https://thedorkweb.substack.com/p/personal-computing-on-an-amiga-in-2021)
 - Aug 05 - [Declined invitations go over more graciously when lack of money is cited](https://theconversation.com/declined-invitations-go-over-more-graciously-when-lack-of-money-is-cited-instead-of-lack-of-time-new-research-164473)
-- Aug 05 - [Wealthy people are renouncing American citizenship](https://www.axios.com/wealthy-people-are-renouncing-american-citizenship-67fbada4-e2e4-4699-b106-c986839f209d.html)
-- Aug 05 - [Whatnot (YC W20) Is Hiring Engineers (Generalist, iOS, Android, DevOps)](https://www.whatnot.com/careers)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
