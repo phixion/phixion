@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Aug 06 - [U.S. FTC says Facebook misused privacy decree to shut down ad research](https://www.reuters.com/article/us-tech-facebook-ftc/u-s-ftc-says-facebook-misused-privacy-decree-to-shut-down-ad-research-idUSKBN2F702X)
 - Aug 06 - [Scientist says cleaning indoor air could make us healthier–and smarter](https://www.sciencemag.org/news/2021/08/scientist-says-cleaning-indoor-air-could-make-us-healthier-and-smarter)
+- Aug 06 - [The WWW is 30 years old today](https://www.history.com/.amp/news/the-worlds-first-web-site)
 - Aug 06 - [NYU Researchers Studying Disinformation on Facebook Cut Off](https://www.npr.org/2021/08/04/1024791053/facebook-boots-nyu-disinformation-researchers-off-its-platform-and-critics-cry-f)
 - Aug 06 - [Haskell for the Elm Enthusiast](https://blog.noredink.com/post/658510851000713216/haskell-for-the-elm-enthusiast)
-- Aug 06 - [LÖVR – An open source framework for rapidly building immersive 3D experiences](https://lovr.org)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
