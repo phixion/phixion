@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 05 - [Vaccination Should Be Compulsory](https://www.japantimes.co.jp/opinion/2021/08/05/commentary/world-commentary/compulsory-vaccinations/)
+- Aug 06 - [Haskell for the Elm Enthusiast](https://blog.noredink.com/post/658510851000713216/haskell-for-the-elm-enthusiast)
+- Aug 06 - [LÖVR – An open source framework for rapidly building immersive 3D experiences](https://lovr.org)
+- Aug 05 - [Ivermectin Systematic Study: Inconclusive](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015017.pub2/full)
 - Aug 05 - [Stanford AIMI Releases Its Free Open-Source Repository of Medical Datasets](https://hai.stanford.edu/news/open-source-movement-comes-medical-datasets)
 - Aug 05 - [NIST’s Quantum Crystal Could Be a New Dark Matter Sensor](https://www.nist.gov/news-events/news/2021/08/nists-quantum-crystal-could-be-new-dark-matter-sensor)
-- Aug 05 - [A $100k Prize for a Decentralized Inflation Dashboard](https://1729.com/inflation/)
-- Aug 05 - [HTTP/2: The Sequel is Always Worse](https://portswigger.net/research/http2)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
