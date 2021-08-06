@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 06 - [Learning APL](https://xpqz.github.io/learnapl/intro.html)
+- Aug 06 - [The Problem with Perceptual Hashes](https://rentafounder.com/the-problem-with-perceptual-hashes/)
 - Aug 06 - [The Emacs Lock-In Effect or the Emacs Sunk Cost Fallacy](https://karl-voit.at/2021/07/23/emacs-lock-in/)
+- Aug 06 - [Defunctionalization: Everybody Does It, Nobody Talks About It (2019)](https://blog.sigplan.org/2019/12/30/defunctionalization-everybody-does-it-nobody-talks-about-it/)
 - Aug 06 - [Atlantic Ocean currents weaken, signalling big weather changes: study](https://www.reuters.com/business/environment/atlantic-ocean-currents-weaken-signalling-big-weather-changes-study-2021-08-05/)
-- Aug 06 - [Clubhouse Is a Cargo Cult](https://ianvanagas.com/2021/08/06/clubhouse-is-a-cargo-cult/)
-- Aug 06 - [The Other Invisible Hand](https://www.noemamag.com/the-other-invisible-hand/)
-- Aug 06 - [Dating in Delhi when you're poor](https://www.reuters.com/article/delhi-dating-idUSKBN1DU0NE)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
