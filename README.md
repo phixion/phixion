@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 06 - [Scientists have detected warning signs of the collapse of the Gulf Stream](https://www.washingtonpost.com/climate-environment/2021/08/05/change-ocean-collapse-atlantic-meridional/)
 - Aug 06 - [Beware of 'shrinkflation,' inflation's devious cousin](https://www.npr.org/sections/money/2021/07/06/1012409112/beware-of-shrinkflation-inflations-devious-cousin)
 - Aug 06 - [Object Wake-Up: 3-D Object Reconstruction, Animation from a Single Image](https://arxiv.org/abs/2108.02708)
 - Aug 06 - [U.S. FTC says Facebook misused privacy decree to shut down ad research](https://www.reuters.com/article/us-tech-facebook-ftc/u-s-ftc-says-facebook-misused-privacy-decree-to-shut-down-ad-research-idUSKBN2F702X)
 - Aug 06 - [Scientist says cleaning indoor air could make us healthier and smarter](https://www.sciencemag.org/news/2021/08/scientist-says-cleaning-indoor-air-could-make-us-healthier-and-smarter)
-- Aug 06 - [Haskell for the Elm Enthusiast](https://blog.noredink.com/post/658510851000713216/haskell-for-the-elm-enthusiast)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
