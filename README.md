@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 06 - [Launch HN: Arengu (YC S21) – Frictionless Signup Flows](https://news.ycombinator.com/item?id=28086676)
+- Aug 06 - [Supporting half-precision floats is annoying](https://futhark-lang.org/blog/2021-08-05-half-precision-floats.html)
 - Aug 06 - [Qventus (YC W15) Is Hiring a Data Platform Manager](https://jobs.lever.co/qventus/a808df16-798f-4eb3-ba4a-c4e04be1901f)
-- Aug 06 - [The smart home is flailing as a concept–because it sucks](https://www.fastcompany.com/90660570/the-smart-home-is-flailing-as-a-concept-because-it-sucks)
 - Aug 06 - [An Open Letter Against Apple's Privacy-Invasive Content Scanning Technology](https://appleprivacyletter.com/)
 - Aug 06 - [Show HN: Reddit clone built in no-code in 2 weeks](http://reggit.bubbleapps.io/)
-- Aug 06 - [Fooling Neural Networks [pdf]](https://slazebni.cs.illinois.edu/fall18/lec12_adversarial.pdf)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
