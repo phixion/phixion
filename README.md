@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 06 - [Homelessness Is about Housing](https://www.slowboring.com/p/homelessness-housing)
+- Aug 06 - [Apply conversion functions to data in SQLite columns with the SQLite-utils tool](https://simonwillison.net/2021/Aug/6/sqlite-utils-convert/)
 - Aug 06 - [Why Disney World doesn't have mosquitoes](https://www.greenmatters.com/p/why-no-mosquitoes-disney-world)
 - Aug 06 - [Surveys show Americans want more walkable cities](https://www.governing.com/community/vehicles-still-firmly-in-control-of-city-streets)
 - Aug 06 - [Humans could recolonize Earth after mass extinctions with ectogenesis](https://sciencex.com/news/2021-08-humans-recolonize-earth-mass-extinctions.html)
-- Aug 06 - [Bones hoarded by hyenas over thousands of years](https://www.smithsonianmag.com/smart-news/archaeologists-uncover-extensive-pile-animal-and-human-bones-saudi-arabia-cave-180978375/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
