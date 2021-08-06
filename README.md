@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 06 - [The Surprising Benefits of Talking to Strangers](https://www.theatlantic.com/family/archive/2021/08/why-we-should-talk-strangers-more/619642/)
 - Aug 06 - [Driving engineers to an arbitrary date is a value destroying mistake (2020)](https://iism.org/article/driving-engineers-to-an-arbitrary-date-is-a-value-destroying-mistake-49)
 - Aug 06 - [Postgres.app](https://postgresapp.com/)
 - Aug 06 - [On Apple's “Expanded Protections for Children” - A Personal Story](https://areoform.wordpress.com/2021/08/06/on-apples-expanded-protections-for-children/)
 - Aug 06 - [Raycast (YC W20) Is Hiring React / macOS Engineers to Make Devs More Productive](https://raycast.com/jobs)
-- Aug 06 - [Letter from Acting Director of the Bureau of Consumer Protection to Facebook](https://www.ftc.gov/news-events/blogs/consumer-blog/2021/08/letter-acting-director-bureau-consumer-protection-samuel)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
