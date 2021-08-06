@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 06 - [Hyenas Hoarded Thousands of Human, Animal Bones in Saudi Arabian Lava Tube](https://www.smithsonianmag.com/smart-news/archaeologists-uncover-extensive-pile-animal-and-human-bones-saudi-arabia-cave-180978375/)
 - Aug 06 - [Head of Growth Marketing at Bonsai (YC W16) – Remote Only](https://www.ycombinator.com/companies/bonsai/jobs/HY1P6AN-head-of-growth-marketing)
 - Aug 06 - [Whistleblowers Expose Corruption in EPA Chemical Safety Office](https://theintercept.com/2021/07/02/epa-chemical-safety-corruption-whistleblowers/)
 - Aug 06 - [Learning APL](https://xpqz.github.io/learnapl/intro.html)
 - Aug 06 - [“People have asked if we'll adopt this system for WhatsApp. The answer is no.”](https://twitter.com/wcathcart/status/1423701473624395784)
-- Aug 06 - [The Problem with Perceptual Hashes](https://rentafounder.com/the-problem-with-perceptual-hashes/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
