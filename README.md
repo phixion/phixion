@@ -36,7 +36,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 06 - [Starship has been fully stacked](https://twitter.com/elonmusk/status/1423659261452709893)
-- Aug 06 - [Ask HN: Why so many Americans believe the man moon landing was fake?](https://news.ycombinator.com/item?id=28088433)
+- Aug 06 - [New UUID Formats – IETF Draft](https://datatracker.ietf.org/doc/html/draft-peabody-dispatch-new-uuid-format)
 - Aug 06 - [Using Open Source Tools at Your Company](https://devinterrupted.com/podcast/using-open-source-tools-at-your-company/)
 - Aug 06 - [G20 states subsidised fossil fuels by $3tn since 2015, says report](https://www.theguardian.com/environment/2021/jul/20/g20-states-subsidised-fossil-fuels-2015-coal-oil-gas-cliamte-crisis)
 - Aug 06 - [Launch HN: BlackOakTV (YC S21) – Netflix for black people](https://news.ycombinator.com/item?id=28087309)
