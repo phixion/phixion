@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 06 - [Launch HN: BlackOakTV (YC S21) – Netflix for black people](https://news.ycombinator.com/item?id=28087309)
 - Aug 06 - [SEC Charges Decentralized Finance Lender for Raising $30M](https://www.sec.gov/news/press-release/2021-145)
-- Aug 06 - [The Moral Character of Cryptographic Work [pdf]](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf)
+- Aug 06 - [The Moral Character of Cryptographic Work (2015) [pdf]](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf)
+- Aug 06 - [Reflections on 10k Hours of Programming](https://matt-rickard.com/reflections-on-10-000-hours-of-programming/)
 - Aug 06 - [Launch HN: Arengu (YC S21) – Frictionless Signup Flows](https://news.ycombinator.com/item?id=28086676)
-- Aug 06 - [Supporting half-precision floats is annoying](https://futhark-lang.org/blog/2021-08-05-half-precision-floats.html)
-- Aug 06 - [Qventus (YC W15) Is Hiring a Data Platform Manager](https://jobs.lever.co/qventus/a808df16-798f-4eb3-ba4a-c4e04be1901f)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
