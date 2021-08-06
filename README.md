@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 05 - [Vaccination Should Be Compulsory](https://www.japantimes.co.jp/opinion/2021/08/05/commentary/world-commentary/compulsory-vaccinations/)
 - Aug 05 - [Stanford AIMI Releases Its Free Open-Source Repository of Medical Datasets](https://hai.stanford.edu/news/open-source-movement-comes-medical-datasets)
+- Aug 05 - [NIST’s Quantum Crystal Could Be a New Dark Matter Sensor](https://www.nist.gov/news-events/news/2021/08/nists-quantum-crystal-could-be-new-dark-matter-sensor)
 - Aug 05 - [A $100k Prize for a Decentralized Inflation Dashboard](https://1729.com/inflation/)
-- Aug 05 - [BuildZoom (better way to build custom homes) is hiring engineers](https://jobs.lever.co/buildzoom)
-- Aug 05 - [Operating Systems: Timeline and Family Tree (includes over 830 OSs so far)](https://eylenburg.github.io/os_familytree.htm)
-- Aug 05 - [Most security is based on the honor system](https://mhd-aboelez.medium.com/when-you-get-right-down-to-it-most-security-is-based-on-the-honor-system-517eec985e64)
+- Aug 05 - [HTTP/2: The Sequel is Always Worse](https://portswigger.net/research/http2)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
