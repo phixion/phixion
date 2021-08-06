@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 06 - [Starship has been fully stacked](https://twitter.com/elonmusk/status/1423659261452709893)
+- Aug 06 - [Semver doesn't mean MAJOR.MINOR.PATCH, it means FAILS.FEATURES.BUGS](https://twitter.com/willmcgugan/status/1423678688802058244)
+- Aug 06 - [Show HN: Open-source A/B Testing framework](https://github.com/growthbook/growthbook)
+- Aug 06 - [Robot police dog that scans homeless people sparks debate](https://www.euronews.com/next/2021/08/06/a-useful-tool-or-dehumanising-robot-police-dog-that-scans-homeless-people-sparks-debate)
+- Aug 06 - [Starlink is better than satellite and DSL but not as fast as fiber or cable](https://www.zdnet.com/article/starlink-is-better-than-its-satellite-competition-but-not-as-fast-as-landline-internet/)
 - Aug 06 - [New UUID Formats – IETF Draft](https://datatracker.ietf.org/doc/html/draft-peabody-dispatch-new-uuid-format)
-- Aug 06 - [Using Open Source Tools at Your Company](https://devinterrupted.com/podcast/using-open-source-tools-at-your-company/)
-- Aug 06 - [G20 states subsidised fossil fuels by $3tn since 2015, says report](https://www.theguardian.com/environment/2021/jul/20/g20-states-subsidised-fossil-fuels-2015-coal-oil-gas-cliamte-crisis)
-- Aug 06 - [Launch HN: BlackOakTV (YC S21) – Netflix for black people](https://news.ycombinator.com/item?id=28087309)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
