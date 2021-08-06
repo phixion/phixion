@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 06 - [Driving engineers to an arbitrary date is a value destroying mistake (2020)](https://iism.org/article/driving-engineers-to-an-arbitrary-date-is-a-value-destroying-mistake-49)
 - Aug 06 - [Postgres.app](https://postgresapp.com/)
 - Aug 06 - [On Apple's “Expanded Protections for Children” - A Personal Story](https://areoform.wordpress.com/2021/08/06/on-apples-expanded-protections-for-children/)
-- Aug 06 - [Raycast (YC W20) Is Hiring React / macOS Engineers to Make Devs More Productive](https://raycast.com/jobs)
+- Aug 06 - [Show HN: Visualizer for High Level System Design](https://honzaap.github.io/Systemizer)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
