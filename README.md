@@ -35,10 +35,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 06 - [What do many terrorists have in common? They abuse women](https://www.theguardian.com/commentisfree/2021/aug/05/many-terrorists-abuse-women-research-extremist-attackers-violent-misogyny)
+- Aug 06 - [Show HN: Reddit clone built in no-code in 2 weeks](http://reggit.bubbleapps.io/)
+- Aug 06 - [Warning Signals for Collapse of The Atlantic Meridional Overturning Circulation](https://www.nature.com/articles/s41558-021-01097-4.epdf)
 - Aug 06 - [Give to Thunderbird](https://give.thunderbird.net)
 - Aug 06 - [The Design of the NetBSD I/O Subsystems (2002)](https://arxiv.org/abs/1605.05810)
-- Aug 06 - [The Surprising Benefits of Talking to Strangers](https://www.theatlantic.com/family/archive/2021/08/why-we-should-talk-strangers-more/619642/)
 - Aug 06 - [Driving engineers to an arbitrary date is a value destroying mistake (2020)](https://iism.org/article/driving-engineers-to-an-arbitrary-date-is-a-value-destroying-mistake-49)
 <!--END_SECTION:hn-->
 
