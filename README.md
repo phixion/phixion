@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 06 - [Clubhouse Is a Cargo Cult](https://ianvanagas.com/2021/08/06/clubhouse-is-a-cargo-cult/)
 - Aug 06 - [The Other Invisible Hand](https://www.noemamag.com/the-other-invisible-hand/)
 - Aug 06 - [Dating in Delhi when you're poor](https://www.reuters.com/article/delhi-dating-idUSKBN1DU0NE)
 - Aug 06 - [CalyxOS – De-Googled Android Alternative](https://calyxos.org/)
 - Aug 06 - [ReadMe (YC W15) is hiring a Product Marketer who loves developers](https://readme.com/careers#product-marketing-manager)
-- Aug 06 - [Making Sierra Pay](https://www.filfre.net/2021/08/making-sierra-pay/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
