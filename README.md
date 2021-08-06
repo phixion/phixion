@@ -35,9 +35,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 06 - [G20 states subsidised fossil fuels by $3tn since 2015, says report](https://www.theguardian.com/environment/2021/jul/20/g20-states-subsidised-fossil-fuels-2015-coal-oil-gas-cliamte-crisis)
 - Aug 06 - [Launch HN: BlackOakTV (YC S21) – Netflix for black people](https://news.ycombinator.com/item?id=28087309)
 - Aug 06 - [Show HN: Physically-Based GPU Pathtracer with Mitsuba XML Support](https://github.com/jan-van-bergen/GPU-Pathtracer)
-- Aug 06 - [SEC Charges Decentralized Finance Lender for Raising $30M](https://www.sec.gov/news/press-release/2021-145)
 - Aug 06 - [The Moral Character of Cryptographic Work (2015) [pdf]](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf)
 - Aug 06 - [Reflections on 10k Hours of Programming](https://matt-rickard.com/reflections-on-10-000-hours-of-programming/)
 <!--END_SECTION:hn-->
