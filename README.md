@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 07 - [Lies, Damned Lies, and Vaccine Statistics](https://drrollergator.substack.com/p/damned-lies-and-vaccine-statistics)
+- Aug 07 - [Larry Page: Google co-founder granted New Zealand residency](https://www.bbc.com/news/world-asia-58128475)
 - Aug 07 - [NASA is looking for people who want to spend a year simulating a mission on Mars](https://www.theblaze.com/news/nasa-is-looking-for-people-who-want-to-spend-a-year-simulating-a-mission-on-mars)
 - Aug 07 - [Framework Patterns](https://blog.startifact.com/posts/framework-patterns.html#)
-- Aug 07 - [Internet and TV providers get away with jacking up your bill](https://www.seattletimes.com/business/technology/how-internet-and-tv-providers-get-away-with-jacking-up-your-bill/)
 - Aug 07 - [World’s Oldest Coin Mint Discovered in 2,800-Year-Old Chinese Foundry](https://www.artnews.com/art-news/news/oldest-mint-spade-coins-chinese-foundry-1234601047/)
-- Aug 07 - [UPchieve (YC W21) is hiring a mobile engineer to democratize free tutoring](https://upchieve.welcomekit.co/jobs/mobile-engineer_brooklyn)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
