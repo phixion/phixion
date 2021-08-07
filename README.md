@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 07 - [UPchieve (YC W21) is hiring a mobile engineer to democratize free tutoring](https://upchieve.welcomekit.co/jobs/mobile-engineer_brooklyn)
+- Aug 07 - [Capturing the Disappearing Sounds of the Workplace](https://www.bbc.co.uk/news/uk-scotland-tayside-central-58056235)
+- Aug 07 - [Mixed views on new DNS top level domains (TLDs)](https://utcc.utoronto.ca/~cks/space/blog/tech/NewTLDsMyMixedViews)
 - Aug 07 - [Crypto community slams ‘disastrous’ new amendment to big infrastructure bill](https://techcrunch.com/2021/08/06/crypto-biden-amendment-infrastructure-bill-proof-of-work/)
-- Aug 07 - [This Captcha Patent Is an All-American Nightmare](https://www.eff.org/deeplinks/2021/08/captcha-patent-all-american-nightmare)
-- Aug 07 - [Open-source intelligence challenges state monopolies on information](https://www.economist.com/briefing/2021/08/07/open-source-intelligence-challenges-state-monopolies-on-information)
-- Aug 07 - [An open letter against Apple's new privacy-invasive client-side content scanning](https://github.com/nadimkobeissi/appleprivacyletter)
+- Aug 07 - [Planning for Servers in 2022 and Beyond](https://www.servethehome.com/planning-for-servers-in-2022-and-beyond-series/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
