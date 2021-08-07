@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 07 - [‘Apocalyptic’ scenes hit Greece as Athens besieged by fire](https://www.theguardian.com/world/2021/aug/07/apocalyptic-scenes-hit-greece-as-athens-besieged-by-fire)
+- Aug 07 - [When Encryption Was a Crime: The 1990s Battle for Free Speech in Software](https://reason.com/video/2020/10/21/cryptowars-gilmore-zimmermann-cryptography/)
 - Aug 07 - [Great Question (YC W21) Is Hiring Founding Engineers (Rails, React, Remote)](https://news.ycombinator.com/item?id=28101776)
 - Aug 07 - [NPM silently suspends package adoption](https://twitter.com/Andrewmd5/status/1423915743410745346)
 - Aug 07 - [Very fast rocket](http://makc.github.io/misc/relativity-1.html)
-- Aug 07 - [Why Captcha Pictures Are So Unbearably Depressing](https://clivethompson.medium.com/why-captcha-pictures-are-so-unbearably-depressing-20679b8cf84a)
-- Aug 07 - [Python, OCaml, and Machine Learning (2020)](https://signalsandthreads.com/python-ocaml-and-machine-learning/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
