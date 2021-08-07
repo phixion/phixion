@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 06 - [Homelessness is about housing](https://www.slowboring.com/p/homelessness-housing)
+- Aug 07 - [In internal memo, Apple addresses concerns around new Photo scanning features](https://9to5mac.com/2021/08/06/apple-internal-memo-icloud-photo-scanning-concerns/)
+- Aug 06 - [Ulam Spiral](https://en.wikipedia.org/wiki/Ulam_spiral)
 - Aug 06 - [Apply conversion functions to data in SQLite columns with the SQLite-utils tool](https://simonwillison.net/2021/Aug/6/sqlite-utils-convert/)
+- Aug 06 - [Richard Stallman and the History of Free Software and Open Source](https://www.cmpod.net/all-transcripts/history-open-source-free-software-text/)
 - Aug 06 - [Why Disney World doesn't have mosquitoes](https://www.greenmatters.com/p/why-no-mosquitoes-disney-world)
-- Aug 06 - [Surveys show Americans want more walkable cities](https://www.governing.com/community/vehicles-still-firmly-in-control-of-city-streets)
-- Aug 06 - [Humans could recolonize Earth after mass extinctions with ectogenesis](https://sciencex.com/news/2021-08-humans-recolonize-earth-mass-extinctions.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
