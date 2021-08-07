@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 07 - [Community Phone (YC W19) Is hiring engineers to build modern landlines](https://www.ycombinator.com/companies/community-phone-company/jobs/ENwCu0g-full-stack-engineer)
 - Aug 07 - [Out of control and rising: why Bitcoin has Nigeria’s government in a panic](https://www.theguardian.com/technology/2021/jul/31/out-of-control-and-rising-why-bitcoin-has-nigerias-government-in-a-panic)
+- Aug 07 - [A woman who rifles through New York’s garbage – exposing the city’s excesses](https://www.theguardian.com/us-news/2021/aug/07/new-york-city-garbage-trash-walks-anna-sacks)
 - Aug 07 - [With a nudge from AI, ketamine emerges as a potential rare disease treatment](https://www.statnews.com/2021/08/05/artificial-intelligence-rare-disease-andp-medikanren/)
 - Aug 07 - [Bug in Lynx' SSL certificate validation – leaks password in clear text via SNI](https://www.openwall.com/lists/oss-security/2021/08/07/1)
-- Aug 07 - [Qatar Airways grounds 13 Airbus A350s as fuselage degrading](https://www.msn.com/en-us/money/news/qatar-airways-grounds-13-airbus-a350s-as-fuselage-degrading/ar-AAMYDOB)
-- Aug 07 - [Powering the Lunar Base](https://caseyhandmer.wordpress.com/2021/04/25/powering-the-lunar-base/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
