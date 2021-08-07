@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 07 - [I have trained StyleGAN2 from scratch with a dataset of female portraits](https://github.com/l4rz/practical-aspects-of-stylegan2-training)
 - Aug 07 - [World to hit temperature tipping point 10 years faster than forecast](https://www.afr.com/policy/energy-and-climate/world-to-hit-temperature-tipping-point-10-years-faster-than-forecast-20210805-p58g7u)
 - Aug 07 - [Open-source intelligence challenges state monopolies on information](https://www.economist.com/briefing/2021/08/07/open-source-intelligence-challenges-state-monopolies-on-information)
 - Aug 07 - [Terra (YC W21) Is Hiring in London (Full Stack)](https://www.workatastartup.com/jobs/45386)
 - Aug 07 - [An open letter against Apple's new privacy-invasive client-side content scanning](https://github.com/nadimkobeissi/appleprivacyletter)
-- Aug 07 - [The World’s Largest Astronomy Museum Opens Its Doors](https://www.architecturaldigest.com/story/worlds-largest-astronomy-museum-opens-doors)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
