@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 07 - [Imperfect Vaccination Can Enhance the Transmission of Highly Virulent Pathogens (2015)](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002198)
 - Aug 07 - [Website to observe how space is curved the closer you get to the speed of light](http://makc.github.io/misc/relativity-1.html)
 - Aug 07 - [Why Captcha Pictures Are So Unbearably Depressing](https://clivethompson.medium.com/why-captcha-pictures-are-so-unbearably-depressing-20679b8cf84a)
-- Aug 07 - [After DeepMind’s cofounder was placed on leave for bullying, Google promoted him](https://www.morningbrew.com/emerging-tech/stories/2021/08/04/deepminds-cofounder-placed-leave-bullying-google-promoted)
+- Aug 07 - [Python, OCaml, and Machine Learning (2020)](https://signalsandthreads.com/python-ocaml-and-machine-learning/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
