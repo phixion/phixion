@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 07 - [Crypto community slams ‘disastrous’ new amendment to big infrastructure bill](https://techcrunch.com/2021/08/06/crypto-biden-amendment-infrastructure-bill-proof-of-work/)
 - Aug 07 - [This Captcha Patent Is an All-American Nightmare](https://www.eff.org/deeplinks/2021/08/captcha-patent-all-american-nightmare)
 - Aug 07 - [Ultra Wide Monitors – A pain in the neck? (2020)](https://www.learnergo.com/lifestyle-ergo/2020/7/5/ultra-wide-monitors-a-pain-in-the-neck)
+- Aug 07 - [With Covid-19, World Health Organisation's Fall from Grace Is Complete](https://thewire.in/health/who-covid-19-pandemic-wealthy-countries)
 - Aug 07 - [World to hit temperature tipping point 10 years faster than forecast](https://www.afr.com/policy/energy-and-climate/world-to-hit-temperature-tipping-point-10-years-faster-than-forecast-20210805-p58g7u)
-- Aug 07 - [Open-source intelligence challenges state monopolies on information](https://www.economist.com/briefing/2021/08/07/open-source-intelligence-challenges-state-monopolies-on-information)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
