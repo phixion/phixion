@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 07 - [Apple’s New ‘Child Safety’ Initiatives, and the Slippery Slope](https://daringfireball.net/2021/08/apple_child_safety_initiatives_slippery_slope)
 - Aug 07 - [A USB adapter for a classic Depraz mouse](https://jfloren.net/b/2021/8/6/1)
 - Aug 07 - [NOAA Smoke Forecast Model Visualization](https://hwp-viz.gsd.esrl.noaa.gov/smoke/index.html)
+- Aug 07 - [In internal memo, Apple addresses concerns around new Photo scanning features](https://9to5mac.com/2021/08/06/apple-internal-memo-icloud-photo-scanning-concerns/)
 - Aug 07 - [My debloating experience with Poco F3](https://mete.dev/2021/08/07/my-debloating-experience-with-poco-f3/)
-- Aug 06 - [Ulam Spiral](https://en.wikipedia.org/wiki/Ulam_spiral)
-- Aug 06 - [Apply conversion functions to data in SQLite columns with the SQLite-utils tool](https://simonwillison.net/2021/Aug/6/sqlite-utils-convert/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
