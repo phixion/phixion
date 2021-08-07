@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 07 - [Open-source intelligence challenges state monopolies on information](https://www.economist.com/briefing/2021/08/07/open-source-intelligence-challenges-state-monopolies-on-information)
 - Aug 07 - [Terra (YC W21) Is Hiring in London (Full Stack)](https://www.workatastartup.com/jobs/45386)
 - Aug 07 - [An open letter against Apple's new privacy-invasive client-side content scanning](https://github.com/nadimkobeissi/appleprivacyletter)
 - Aug 07 - [The World’s Largest Astronomy Museum Opens Its Doors](https://www.architecturaldigest.com/story/worlds-largest-astronomy-museum-opens-doors)
 - Aug 07 - [Swiss Ph.D student’s dismissal spotlights China’s influence](https://www.nzz.ch/english/swiss-phd-students-dismissal-spotlights-chinas-influence-ld.1638771)
-- Aug 07 - [A USB adapter for a classic Depraz mouse](https://jfloren.net/b/2021/8/6/1)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
