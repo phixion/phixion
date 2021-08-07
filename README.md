@@ -35,10 +35,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 07 - [A tweet cost his doctorate: Extent of China’s influence on Swiss universities](https://www.nzz.ch/english/swiss-phd-students-dismissal-spotlights-chinas-influence-ld.1638771?mktcid=smsh&mktcval=Twitter)
-- Aug 07 - [Apple’s New ‘Child Safety’ Initiatives, and the Slippery Slope](https://daringfireball.net/2021/08/apple_child_safety_initiatives_slippery_slope)
+- Aug 07 - [Swiss Ph.D student’s dismissal spotlights China’s influence](https://www.nzz.ch/english/swiss-phd-students-dismissal-spotlights-chinas-influence-ld.1638771)
 - Aug 07 - [A USB adapter for a classic Depraz mouse](https://jfloren.net/b/2021/8/6/1)
 - Aug 07 - [NOAA Smoke Forecast Model Visualization](https://hwp-viz.gsd.esrl.noaa.gov/smoke/index.html)
+- Aug 07 - [Increased error rates for DynamoDB in the US-EAST-1 Region](https://status.aws.amazon.com/?test=1)
 - Aug 07 - [In internal memo, Apple addresses concerns around new Photo scanning features](https://9to5mac.com/2021/08/06/apple-internal-memo-icloud-photo-scanning-concerns/)
 <!--END_SECTION:hn-->
 
