@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 07 - [What We Are Not Teaching Boys About Being Human](https://www.nytimes.com/2021/08/06/opinion/boys-gender-books-culture.html)
 - Aug 07 - [UPchieve (YC W21) is hiring a mobile engineer to democratize free tutoring](https://upchieve.welcomekit.co/jobs/mobile-engineer_brooklyn)
 - Aug 07 - [Crypto community slams ‘disastrous’ new amendment to big infrastructure bill](https://techcrunch.com/2021/08/06/crypto-biden-amendment-infrastructure-bill-proof-of-work/)
 - Aug 07 - [This Captcha Patent Is an All-American Nightmare](https://www.eff.org/deeplinks/2021/08/captcha-patent-all-american-nightmare)
 - Aug 07 - [Open-source intelligence challenges state monopolies on information](https://www.economist.com/briefing/2021/08/07/open-source-intelligence-challenges-state-monopolies-on-information)
+- Aug 07 - [An open letter against Apple's new privacy-invasive client-side content scanning](https://github.com/nadimkobeissi/appleprivacyletter)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
