@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 07 - [World’s Oldest Coin Mint Discovered in 2,800-Year-Old Chinese Foundry](https://www.artnews.com/art-news/news/oldest-mint-spade-coins-chinese-foundry-1234601047/)
 - Aug 07 - [UPchieve (YC W21) is hiring a mobile engineer to democratize free tutoring](https://upchieve.welcomekit.co/jobs/mobile-engineer_brooklyn)
 - Aug 07 - [Capturing the Disappearing Sounds of the Workplace](https://www.bbc.co.uk/news/uk-scotland-tayside-central-58056235)
 - Aug 07 - [Mixed views on new DNS top level domains (TLDs)](https://utcc.utoronto.ca/~cks/space/blog/tech/NewTLDsMyMixedViews)
 - Aug 07 - [Crypto community slams ‘disastrous’ new amendment to big infrastructure bill](https://techcrunch.com/2021/08/06/crypto-biden-amendment-infrastructure-bill-proof-of-work/)
-- Aug 07 - [Planning for Servers in 2022 and Beyond](https://www.servethehome.com/planning-for-servers-in-2022-and-beyond-series/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
