@@ -35,9 +35,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 07 - [Bug in Lynx' SSL certificate validation – leaks password in clear text via SNI](https://www.openwall.com/lists/oss-security/2021/08/07/1)
 - Aug 07 - [Qatar Airways grounds 13 Airbus A350s as fuselage degrading](https://www.msn.com/en-us/money/news/qatar-airways-grounds-13-airbus-a350s-as-fuselage-degrading/ar-AAMYDOB)
 - Aug 07 - [Powering the Lunar Base](https://caseyhandmer.wordpress.com/2021/04/25/powering-the-lunar-base/)
-- Aug 07 - [Lies, Damned Lies, and Vaccine Statistics](https://drrollergator.substack.com/p/damned-lies-and-vaccine-statistics)
 - Aug 07 - [‘Massive melting event’ sinks billions of tons of Greenland ice amid heat wave](https://www.accuweather.com/en/weather-news/massive-melting-event-sinks-billions-of-tons-of-ice-amid-heat-wave/993907/)
 - Aug 07 - [The Era of Cheap Natural Gas Ends as Prices Surge by 1000%](https://www.bloomberg.com/news/articles/2021-08-06/the-era-of-cheap-natural-gas-ends-as-prices-surge-by-1-000)
 <!--END_SECTION:hn-->
