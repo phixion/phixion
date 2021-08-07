@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 07 - [Website to observe how space is curved the closer you get to the speed of light](http://makc.github.io/misc/relativity-1.html)
+- Aug 07 - [Why Captcha Pictures Are So Unbearably Depressing](https://clivethompson.medium.com/why-captcha-pictures-are-so-unbearably-depressing-20679b8cf84a)
+- Aug 07 - [After DeepMind’s cofounder was placed on leave for bullying, Google promoted him](https://www.morningbrew.com/emerging-tech/stories/2021/08/04/deepminds-cofounder-placed-leave-bullying-google-promoted)
 - Aug 07 - [What comes after open source? (2019)](https://denisnazarov.com/what-comes-after-open-source)
 - Aug 07 - [What it was like developing for NES back in 1990](https://twitter.com/KevEdwardsRetro/status/1423653418439254026)
-- Aug 07 - [Show HN: Object Detection in an Hour](https://www.strayrobots.io/blog/object-detection-in-an-hour)
-- Aug 07 - [WeWork Book: The $10T Mirage](https://www.axios.com/10-trillion-mirage-wework-book-0ee98f74-5370-419e-81ea-e0914bdc0f00.html)
-- Aug 07 - [Community Phone (YC W19) Is hiring engineers to build modern landlines](https://www.ycombinator.com/companies/community-phone-company/jobs/ENwCu0g-full-stack-engineer)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
