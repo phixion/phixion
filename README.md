@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Aug 08 - [Jerry (YC S17) Is Hiring Remote Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
 - Aug 08 - [Apple's New CSAM Protections May Make iCloud Photos Bruteforceable](https://crypto.stackexchange.com/questions/93423/how-unique-is-a-neuralhash)
-- Aug 08 - [V-Shaped Ride-in-the-Wings Jetliner Successfully Took Off – IE](https://interestingengineering.com/the-energy-efficient-v-shaped-ride-in-the-wings-jetliner-successfully-took-off)
 - Aug 08 - [SpaceX is buying communications smallsat operator Swarm Technologies](https://fcc.report/IBFS/SAT-T-C-20210806-00096)
 - Aug 08 - [What can you learn from an IP address? (2019)](https://blog.apnic.net/2019/08/23/what-can-you-learn-from-an-ip-address/)
+- Aug 08 - [Why I Wrote PGP (1999)](https://philzimmermann.com/EN/essays/WhyIWrotePGP.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
