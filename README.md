@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 08 - [Official Elasticsearch Python library no longer works with open-source forks](https://github.com/elastic/elasticsearch-py/pull/1623)
 - Aug 08 - [One Bad Apple](https://www.hackerfactor.com/blog/index.php?/archives/929-One-Bad-Apple.html)
 - Aug 08 - [Mux (YC W16) is hiring full-stack developers to focus on Elixir and TypeScript](https://mux.com/jobs?hnj=full-stack)
 - Aug 08 - [Apps Getting Worse](https://www.tbray.org/ongoing/When/202x/2021/08/07/Apps-Get-Worse)
 - Aug 08 - [Show HN: Yet another Homebrew Video Game Console, this time FPGA-based](https://internalregister.github.io/2021/08/08/Another-Homebrew-Console.html)
-- Aug 08 - [Put This In Your Pipe (2013)](https://julialang.org/blog/2013/04/put-this-in-your-pipe/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
