@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 08 - [Tell HN: Dont upload these images to iCloud as Apple will assume its Child Porn](https://drive.google.com/drive/folders/1c3-a8-XQ1X0CxXuFL0N3XVkglUD2OJS_?usp=sharing)
 - Aug 08 - [RunAsDate – Run a program with the specified date/time (2019)](https://www.nirsoft.net/utils/run_as_date.html)
 - Aug 08 - [FEC Asks Congress to Ban Prechecked Recurring Donation Boxes](https://www.nytimes.com/2021/05/06/us/politics/fec-trump-donations.html)
 - Aug 08 - [MusicXML and Percussion Notation](https://v5.chriskrycho.com/journal/musicxml-and-percussion-redux/)
 - Aug 08 - [Freshly disclosed vulnerability CVE-2021-20090 exploited in the wild](https://blogs.juniper.net/en-us/security/freshly-disclosed-vulnerability-cve-2021-20090-exploited-in-the-wild)
+- Aug 08 - [Evolution of Search Engines Architecture – Algolia Search Architecture Part 1](http://highscalability.com/blog/2021/8/2/evolution-of-search-engines-architecture-algolia-new-search.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
