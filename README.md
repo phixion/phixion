@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 08 - [Apps Getting Worse](https://www.tbray.org/ongoing/When/202x/2021/08/07/Apps-Get-Worse)
 - Aug 08 - [Attempt to make printed links clickable](https://trekhleb.dev/blog/2020/printed-links-detection/)
-- Aug 08 - [Put this in your pipe – Backticks in Julia](https://julialang.org/blog/2013/04/put-this-in-your-pipe/)
+- Aug 08 - [Put This In Your Pipe (2013)](https://julialang.org/blog/2013/04/put-this-in-your-pipe/)
 - Aug 08 - [Fairer Chess: A Reversal of Two Opening Moves in Chess Creates Balance](https://arxiv.org/abs/2108.02547)
 - Aug 08 - [BioNTech Plans to Address Infectious Diseases on the African Continent](https://investors.biontech.de/news-releases/news-release-details/biontech-provides-update-plans-develop-sustainable-solutions)
-- Aug 08 - [Imaging Cygnus a at 8.45 GHz with ATA](https://destevez.net/2021/08/imaging-cygnus-a-at-8-45-ghz-with-ata/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
