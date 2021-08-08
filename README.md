@@ -22,11 +22,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Aug 07 - [MMG Fusion - 2,660,295 breached accounts](https://haveibeenpwned.com/PwnedWebsites#MMGFusion)
 - Jul 23 - [Audi - 2,743,539 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Audi)
 - Jul 21 - [Guntrader - 112,031 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Guntrader)
 - Jul 19 - [Short Édition - 505,466 breached accounts](https://haveibeenpwned.com/PwnedWebsites#ShortEdition)
 - Jul 04 - [Raychat - 938,981 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Raychat)
-- Jun 25 - [Teespring - 8,234,193 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Teespring)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## News
@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 07 - [Unopened copy of Super Mario Bros. sells for a record $2M](https://www.theverge.com/2021/8/7/22614450/unopened-copy-super-mario-bros-sells-2-million-record)
 - Aug 07 - [‘Apocalyptic’ scenes hit Greece as Athens besieged by fire](https://www.theguardian.com/world/2021/aug/07/apocalyptic-scenes-hit-greece-as-athens-besieged-by-fire)
+- Aug 07 - [A plain text note-taking system for problem solving](https://calculist.io/)
 - Aug 07 - [When Encryption Was a Crime: The 1990s Battle for Free Speech in Software](https://reason.com/video/2020/10/21/cryptowars-gilmore-zimmermann-cryptography/)
 - Aug 07 - [Great Question (YC W21) Is Hiring Founding Engineers (Rails, React, Remote)](https://news.ycombinator.com/item?id=28101776)
-- Aug 07 - [NPM silently suspends package adoption](https://twitter.com/Andrewmd5/status/1423915743410745346)
-- Aug 07 - [Very fast rocket](http://makc.github.io/misc/relativity-1.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
