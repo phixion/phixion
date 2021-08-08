@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 08 - [Drunk-driver detectors for cars mandated in infrastructure bill](https://www.autoblog.com/2021/08/03/infrastructure-bill-cars-drunk-driving-detection-kids-in-back-seat/)
 - Aug 08 - [MusicXML and Percussion Notation](https://v5.chriskrycho.com/journal/musicxml-and-percussion-redux/)
 - Aug 08 - [Freshly disclosed vulnerability CVE-2021-20090 exploited in the wild](https://blogs.juniper.net/en-us/security/freshly-disclosed-vulnerability-cve-2021-20090-exploited-in-the-wild)
-- Aug 08 - [Ask HN: Is domain squatting still profitable? Is there a solution?](https://news.ycombinator.com/item?id=28106113)
+- Aug 08 - [Tesorio (YC S15) is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
