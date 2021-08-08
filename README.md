@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 08 - [Natural immunity to Covid-19 is durable and persistent – Cell Press Study](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00203-2)
+- Aug 08 - [Big Tech Silencing Physicians: A Dangerous Road for American Medicine [2020]](https://aapsonline.org/big-tech-silencing-physicians-a-very-dangerous-road-for-american-medicine/)
+- Aug 08 - [Natural immunity to Covid-19 is durable and persistent](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00203-2)
 - Aug 08 - [Viral Knots](https://blogs.sciencemag.org/pipeline/archives/2021/08/06/viral-knots)
 - Aug 08 - [RunAsDate – Run a program with the specified date/time (2019)](https://www.nirsoft.net/utils/run_as_date.html)
 - Aug 08 - [FEC Asks Congress to Ban Prechecked Recurring Donation Boxes](https://www.nytimes.com/2021/05/06/us/politics/fec-trump-donations.html)
-- Aug 08 - [MusicXML and Percussion Notation](https://v5.chriskrycho.com/journal/musicxml-and-percussion-redux/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
