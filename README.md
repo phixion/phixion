@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 08 - [Tell HN: Dont upload these images to iCloud as Apple will assume its Child Porn](https://drive.google.com/drive/folders/1c3-a8-XQ1X0CxXuFL0N3XVkglUD2OJS_?usp=sharing)
-- Aug 08 - [RunAsDate – Run a program with the specified date/time](https://www.nirsoft.net/utils/run_as_date.html)
-- Aug 08 - [Officer who responded to US Capitol attack is third to die by suicide](https://www.theguardian.com/us-news/2021/aug/02/gunther-hashida-officer-dies-us-capitol-attack)
+- Aug 08 - [RunAsDate – Run a program with the specified date/time (2019)](https://www.nirsoft.net/utils/run_as_date.html)
 - Aug 08 - [FEC Asks Congress to Ban Prechecked Recurring Donation Boxes](https://www.nytimes.com/2021/05/06/us/politics/fec-trump-donations.html)
-- Aug 08 - [Drunk-driver detectors for cars mandated in infrastructure bill](https://www.autoblog.com/2021/08/03/infrastructure-bill-cars-drunk-driving-detection-kids-in-back-seat/)
+- Aug 08 - [MusicXML and Percussion Notation](https://v5.chriskrycho.com/journal/musicxml-and-percussion-redux/)
+- Aug 08 - [Freshly disclosed vulnerability CVE-2021-20090 exploited in the wild](https://blogs.juniper.net/en-us/security/freshly-disclosed-vulnerability-cve-2021-20090-exploited-in-the-wild)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
