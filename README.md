@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 08 - [Once an Addict, Always an Addict?](https://www.deprocrastination.co/blog/once-an-addict-always-an-addict)
+- Aug 08 - [; Echo “Shell Injection”](https://matklad.github.io//2021/07/30/shell-injection.html)
+- Aug 08 - [When in Tokyo, forget everything you know about 7-Elevens and convenience stores](https://www.latimes.com/sports/olympics/story/2021-08-07/7-elevens-convenience-stores-tokyo-japan-olympics)
 - Aug 08 - [Ex-Tesla Employee Called Racial Slur Wins Rare $1M Award](https://www.bloomberg.com/news/articles/2021-08-05/ex-tesla-employee-called-racial-slur-wins-rare-1-million-award)
-- Aug 08 - [Testing in production: using JSON Schema for 3rd party API response validation](https://kristiandupont.medium.com/testing-3rd-party-api-access-b2808494ccd)
-- Aug 08 - [Bringing NetBSD to Zig's Continuous Integration](https://wf.lavatech.top/lun-4/bringing-netbsd-to-zigs-continuous-integration)
-- Aug 08 - [A look at a prototype of Apple’s cancelled AirPower mat](https://www.xda-developers.com/prototype-airpower-mat/)
-- Aug 08 - [Jerry (YC S17) Is Hiring Remote Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
+- Aug 08 - [Does Oil Come from Dinosaurs?](https://www.powells.com/post/original-essays/does-oil-come-from-dinosaurs)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
