@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 08 - [V-Shaped Ride-in-the-Wings Jetliner Successfully Took Off – IE](https://interestingengineering.com/the-energy-efficient-v-shaped-ride-in-the-wings-jetliner-successfully-took-off)
 - Aug 08 - [Why I Wrote PGP](https://philzimmermann.com/EN/essays/WhyIWrotePGP.html)
 - Aug 08 - [Space Station Incident Demands Independent Investigation](https://spectrum.ieee.org/space-station-accident-needs-independant-investigation)
 - Aug 08 - [The U.S. government's long and shameful history of intercepting people's letters](https://reason.com/2021/07/15/postal-censorship-and-surveillance-a-timeline/)
 - Aug 08 - [The Mysterious Street Snack That Has Baffled Botanists for Decades](https://www.atlasobscura.com/articles/indian-street-snack-root)
-- Aug 08 - [Performance Deficits in Apache Cassandra](http://literatejava.com/database/performance-deficits-in-apache-cassandra/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
