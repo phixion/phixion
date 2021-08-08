@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 08 - [Bringing NetBSD to Zig's Continuous Integration](https://wf.lavatech.top/lun-4/bringing-netbsd-to-zigs-continuous-integration)
 - Aug 08 - [A look at a prototype of Apple’s cancelled AirPower mat](https://www.xda-developers.com/prototype-airpower-mat/)
 - Aug 08 - [Jerry (YC S17) Is Hiring Remote Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
-- Aug 08 - [Apple's New CSAM Protections May Make iCloud Photos Bruteforceable](https://crypto.stackexchange.com/questions/93423/how-unique-is-a-neuralhash)
+- Aug 08 - [1password is considering a self-hosted option to store vaults](https://1password.community/discussion/115018/support-for-local-vaults/p3)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
