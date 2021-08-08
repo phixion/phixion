@@ -22,11 +22,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Aug 08 - [OrderSnapp - 1,304,447 breached accounts](https://haveibeenpwned.com/PwnedWebsites#OrderSnapp)
 - Aug 07 - [MMG Fusion - 2,660,295 breached accounts](https://haveibeenpwned.com/PwnedWebsites#MMGFusion)
 - Jul 23 - [Audi - 2,743,539 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Audi)
 - Jul 21 - [Guntrader - 112,031 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Guntrader)
 - Jul 19 - [Short Édition - 505,466 breached accounts](https://haveibeenpwned.com/PwnedWebsites#ShortEdition)
-- Jul 04 - [Raychat - 938,981 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Raychat)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## News
@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 08 - [Alex Stamos on Apple's new child safety protections](https://twitter.com/alexstamos/status/1424054542879006728)
+- Aug 08 - [The Mysterious Street Snack That Has Baffled Botanists for Decades](https://www.atlasobscura.com/articles/indian-street-snack-root)
+- Aug 08 - [The Elasticsearch Saga Continues](https://thenewstack.io/this-week-in-programming-the-elasticsearch-saga-continues/)
+- Aug 08 - [Trevor Moore, co-founder of Whitest Kids U Know, dies at 41](https://en.wikipedia.org/wiki/Trevor_Moore_(comedian))
 - Aug 07 - [Live the Dream, Make the Change, Move to Pitcairn Island (2018)](http://www.immigration.gov.pn/immigrate/index.html)
-- Aug 07 - [Young adult (20-49) mortality in Israel during time of Covid-19 crisis](https://poseidon01.ssrn.com/delivery.php?ID=749025071066118029029096087028078107054019017054089075023070113097070001028084096093009030098119110060047103106076118115103013016085069007012082007001122124017124023036065062089084096119126101028011071024099003017098070102071065088127097080117082001024&EXT=pdf&INDEX=TRUE)
 - Aug 07 - [A plain text note-taking system for problem solving](https://calculist.io/)
-- Aug 07 - [When Encryption Was a Crime: The 1990s Battle for Free Speech in Software](https://reason.com/video/2020/10/21/cryptowars-gilmore-zimmermann-cryptography/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
