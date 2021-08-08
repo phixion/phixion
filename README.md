@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 08 - [Space Station Incident Demands Independent Investigation](https://spectrum.ieee.org/space-station-accident-needs-independant-investigation)
 - Aug 08 - [The U.S. government's long and shameful history of intercepting people's letters](https://reason.com/2021/07/15/postal-censorship-and-surveillance-a-timeline/)
 - Aug 08 - [The Mysterious Street Snack That Has Baffled Botanists for Decades](https://www.atlasobscura.com/articles/indian-street-snack-root)
 - Aug 08 - [The Elasticsearch Saga Continues](https://thenewstack.io/this-week-in-programming-the-elasticsearch-saga-continues/)
-- Aug 08 - [Trevor Moore, co-founder of Whitest Kids U Know, dies at 41](https://en.wikipedia.org/wiki/Trevor_Moore_(comedian))
-- Aug 07 - [Live the Dream, Make the Change, Move to Pitcairn Island (2018)](http://www.immigration.gov.pn/immigrate/index.html)
+- Aug 08 - [Trevor Moore has died](https://en.wikipedia.org/wiki/Trevor_Moore_(comedian))
 <!--END_SECTION:hn-->
 
 ## GitHub activity
