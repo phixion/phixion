@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Aug 08 - [Launch HN: HyperLinq (YC S21) – Desktop trading terminal](https://news.ycombinator.com/item?id=28107989)
 - Aug 08 - [Today is the World Wide Web's 30th birthday](https://www.w3.org/blog/2021/08/30-years-on-from-introducing-the-web-to-the-world/)
+- Aug 08 - [Xsolla fires 150 employees based on big data analysis of their activity](https://www.mcvuk.com/business-news/xsolla-fires-150-employees-based-on-big-data-analysis-of-their-activity-many-of-you-might-be-shocked-but-i-truly-believe-that-xsolla-is-not-for-you/)
 - Aug 08 - [0 A.D. Alpha 25: Yaunā](https://play0ad.com/new-release-0-a-d-alpha-25-yauna/)
 - Aug 08 - [The Principles of Newspeak (1949)](https://www.berfrois.com/2021/07/1984-by-george-orwell/)
-- Aug 08 - [Understanding Heidegger on Technology (2014)](https://www.thenewatlantis.com/publications/understanding-heidegger-on-technology)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
