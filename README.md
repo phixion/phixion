@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 08 - [What Irony Is Not (2020)](https://thereader.mitpress.mit.edu/what-irony-is-not/)
 - Aug 08 - [Clock Synchronization (2020)](https://signalsandthreads.com/clock-synchronization/)
 - Aug 08 - [Glenfiddich uses its own whisky waste to fuel its trucks](https://eandt.theiet.org/content/articles/2021/07/glenfiddich-uses-own-whisky-waste-to-fuel-trucks/)
+- Aug 08 - [Xsolla CEO says firing using an algorithm-based solution protect minorities](https://gameworldobserver.com/2021/08/06/xsolla-founder-on-mass-layoffs-and-ai-based-employee-appraisal-system)
 - Aug 08 - [Ophelia (YC W20) Is Hiring Engineers to Help Combat Opioid Addiction](https://jobs.lever.co/ophelia/ea3e680d-659a-4478-a863-c2bf35177227)
-- Aug 08 - [‘Tortured phrases’ give away fabricated research papers](https://www.nature.com/articles/d41586-021-02134-0)
-- Aug 08 - [The Non-Radiating Antenna](https://physicsworld.com/a/introducing-the-non-radiating-antenna/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
