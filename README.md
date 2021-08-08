@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 08 - [Ask HN: Is domain squatting still profitable? Is there a solution?](https://news.ycombinator.com/item?id=28106113)
 - Aug 08 - [Tesorio (YC S15) is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
 - Aug 08 - [The PDP-11 Basic Analysis Project](https://www.learningpdp11.com/pdp-11-basic-analysis)
-- Aug 08 - [Where’s the Accelerator?](https://eclecticlight.co/2021/08/08/last-week-on-my-mac-wheres-the-accelerator/)
+- Aug 08 - [Tesseract.js – Pure JavaScript OCR for 100 Languages](https://tesseract.projectnaptha.com/)
 - Aug 08 - [Google “contemplated buying some or all of Epic” to stop “contagion”](https://www.rockpapershotgun.com/google-contemplated-buying-some-or-all-of-epic-to-stop-contagion-court-documents-say)
-- Aug 08 - [; Echo “Shell Injection”](https://matklad.github.io//2021/07/30/shell-injection.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
