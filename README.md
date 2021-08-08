@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 07 - [Unopened copy of Super Mario Bros. sells for a record $2M](https://www.theverge.com/2021/8/7/22614450/unopened-copy-super-mario-bros-sells-2-million-record)
-- Aug 07 - [‘Apocalyptic’ scenes hit Greece as Athens besieged by fire](https://www.theguardian.com/world/2021/aug/07/apocalyptic-scenes-hit-greece-as-athens-besieged-by-fire)
+- Aug 08 - [Alex Stamos on Apple's new child safety protections](https://twitter.com/alexstamos/status/1424054542879006728)
+- Aug 07 - [Live the Dream, Make the Change, Move to Pitcairn Island (2018)](http://www.immigration.gov.pn/immigrate/index.html)
+- Aug 07 - [Young adult (20-49) mortality in Israel during time of Covid-19 crisis](https://poseidon01.ssrn.com/delivery.php?ID=749025071066118029029096087028078107054019017054089075023070113097070001028084096093009030098119110060047103106076118115103013016085069007012082007001122124017124023036065062089084096119126101028011071024099003017098070102071065088127097080117082001024&EXT=pdf&INDEX=TRUE)
 - Aug 07 - [A plain text note-taking system for problem solving](https://calculist.io/)
 - Aug 07 - [When Encryption Was a Crime: The 1990s Battle for Free Speech in Software](https://reason.com/video/2020/10/21/cryptowars-gilmore-zimmermann-cryptography/)
-- Aug 07 - [Great Question (YC W21) Is Hiring Founding Engineers (Rails, React, Remote)](https://news.ycombinator.com/item?id=28101776)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
