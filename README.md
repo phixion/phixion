@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 08 - [Clock Synchronization (2020)](https://signalsandthreads.com/clock-synchronization/)
+- Aug 08 - [Glenfiddich uses its own whisky waste to fuel its trucks](https://eandt.theiet.org/content/articles/2021/07/glenfiddich-uses-own-whisky-waste-to-fuel-trucks/)
 - Aug 08 - [Ophelia (YC W20) Is Hiring Engineers to Help Combat Opioid Addiction](https://jobs.lever.co/ophelia/ea3e680d-659a-4478-a863-c2bf35177227)
 - Aug 08 - [‘Tortured phrases’ give away fabricated research papers](https://www.nature.com/articles/d41586-021-02134-0)
 - Aug 08 - [The Non-Radiating Antenna](https://physicsworld.com/a/introducing-the-non-radiating-antenna/)
-- Aug 08 - [Launch HN: HyperLinq (YC S21) – Desktop trading terminal](https://news.ycombinator.com/item?id=28107989)
-- Aug 08 - [The Kawa Scheme Language](http://www.gnu.org/software/kawa/index.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
