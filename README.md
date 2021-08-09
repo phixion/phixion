@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 09 - [Happy Birthday, OpenStreetMap](https://www.tomtom.com/blog/maps/tomtom-openstreetmaps-mapmetrics-map-editing/)
-- Aug 09 - [Why the McFlurry Machine Company Just Got Hit with a Restraining Order](https://www.vice.com/en/article/93ymbp/why-the-mcflurry-machine-company-just-got-hit-with-a-restraining-order)
-- Aug 09 - [The World of CSS Transforms](https://www.joshwcomeau.com/css/transforms/)
-- Aug 09 - [The Rocks and Minerals of Minecraft](https://www.mindat.org/a/minecraft)
-- Aug 09 - [Show HN: Ots – share a secret via one-time URL (a simple Go CLI)](https://github.com/sniptt-official/ots)
+- Aug 09 - [Apple wants to redefine what it means to violate your privacy. We mustn’t let it](https://ar.al/2021/08/08/apple-is-trying-to-redefine-what-it-means-to-violate-your-privacy-we-must-not-let-it/)
+- Aug 09 - [Supine Computing (2019)](https://mgsloan.com/posts/supine-computing/)
+- Aug 09 - [Apple’s Mistake](https://stratechery.com/2021/apples-mistake/)
+- Aug 09 - [Could More Progressive Taxes Increase Income Inequality?](https://www.stlouisfed.org/on-the-economy/2020/may/could-more-progressive-taxes-increase-income-inequality)
+- Aug 09 - [Phishing Sites Targeting Scammers and Thieves](https://krebsonsecurity.com/2021/08/phishing-sites-targeting-scammers-and-thieves/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
