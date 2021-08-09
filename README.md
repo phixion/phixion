@@ -35,10 +35,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 09 - [Apple wants to redefine what it means to violate your privacy. We mustn’t let it](https://ar.al/2021/08/08/apple-is-trying-to-redefine-what-it-means-to-violate-your-privacy-we-must-not-let-it/)
+- Aug 09 - [Show HN: This Idea Does Not Exist](https://thisideadoesnotexist.com)
+- Aug 09 - [Generate art from any text with deep learning](https://www.comet.ml/site/clipdraw-gallery-ai-art-powered-by-comet-and-gradio/)
 - Aug 09 - [Supine Computing (2019)](https://mgsloan.com/posts/supine-computing/)
 - Aug 09 - [Apple’s Mistake](https://stratechery.com/2021/apples-mistake/)
-- Aug 09 - [Could More Progressive Taxes Increase Income Inequality?](https://www.stlouisfed.org/on-the-economy/2020/may/could-more-progressive-taxes-increase-income-inequality)
 - Aug 09 - [Phishing Sites Targeting Scammers and Thieves](https://krebsonsecurity.com/2021/08/phishing-sites-targeting-scammers-and-thieves/)
 <!--END_SECTION:hn-->
 
