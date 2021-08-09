@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 09 - [VCs are financing an economy of servants](https://sifted.eu/articles/servant-economy/)
+- Aug 09 - [Bring back hydrogen lifting gas](https://www.thecgo.org/news/bring-back-hydrogen-lifting-gas/)
 - Aug 09 - [Flexport is hiring engineers to build the future of global trade](https://www.flexport.com/careers/department/engineering)
-- Aug 09 - [Why Valve Is Switching from Debian to Arch for Steam Deck's Linux OS](https://www.pcgamer.com/this-is-why-valve-is-switching-from-debian-to-arch-for-steam-decks-linux-os/)
 - Aug 09 - [Handful of cities driving urban greenhouse gas emissions](https://www.reuters.com/business/sustainable-business/handful-cities-driving-urban-greenhouse-gas-emissions-study-2021-07-12/)
 - Aug 09 - [Incident response: “The next 16 minutes are going to get intense”](https://bitfieldconsulting.com/blog/got-game-secrets-of-great-incident-management)
-- Aug 09 - [Generate art from any text with deep learning](https://www.comet.ml/site/clipdraw-gallery-ai-art-powered-by-comet-and-gradio/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
