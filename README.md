@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 09 - [Hello Yarn 2, Goodbye node_modules](https://freddixx.medium.com/hello-yarn-2-goodbye-node-modules-21d97afc1a75)
+- Aug 09 - [Machine Learning Won't Solve Natural Language Understanding](https://thegradient.pub/machine-learning-wont-solve-the-natural-language-understanding-challenge/)
 - Aug 09 - [Volley (YC W18) is hiring engineers to build voice games](https://jobs.lever.co/volleythat/5200aeb9-5c55-4490-a92f-1a663d0d8c49)
 - Aug 09 - [Difficult math is about recognizing patterns](https://get21stnight.com/2021/08/09/difficult-math-is-about-recognizing-patterns-lessons-from-jeff-bezos/)
-- Aug 09 - [New Carnivorous Plant Discovered in Pacific Northwest](https://www.npr.org/2021/08/09/1026091196/this-sweet-white-flower-is-actually-a-sneaky-carnivore-scientists-discovered)
-- Aug 09 - [2,500-Year-Old Ancient Olive Tree Burned Down in Evia Fires in Greece](https://greekreporter.com/2021/08/08/evia-fire-greece-ancient-olive-tree-burned/)
+- Aug 09 - [Show HN: Torrentinim – low memory-footprint, API-only torrent search engine](https://github.com/sergiotapia/torrentinim)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
