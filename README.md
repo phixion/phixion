@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 09 - [2,400-year-old baskets still filled with fruit found in submerged Egyptian city](https://www.smithsonianmag.com/smart-news/archaeologists-uncover-2400-year-old-fruit-baskets-underwater-egyptian-city-180978350/)
+- Aug 09 - [Facebook shuts out NYU academics’ research on political ads](https://apnews.com/article/technology-business-5d3021ed9f193bf249c3af158b128d18)
+- Aug 09 - [Stupidity is a specific cognitive failing](https://psyche.co/ideas/why-some-of-the-smartest-people-can-be-so-very-stupid)
 - Aug 09 - [Summer 2021 has changed our understanding of extreme weather](https://theconversation.com/how-summer-2021-has-changed-our-understanding-of-extreme-weather-165268)
 - Aug 09 - [AU gov asks big tech to introduce detection capabilities in encrypted comm](https://www.zdnet.com/article/canberra-asks-big-tech-to-introduce-detection-capabilities-in-encrypted-communication/)
-- Aug 09 - [Amazon Third-Party Sellers Reportedly Hound Customers Who Leave Bad Reviews](https://gizmodo.com/heres-how-amazon-third-party-sellers-reportedly-hound-c-1847446648)
-- Aug 09 - [About 90% of Animators Quit Their Jobs Within 3 Years](https://www.animenewsnetwork.com/interest/2021-08-06/animator-dorm-project-about-90-percent-of-animators-quit-their-jobs-within-3-years/.175908)
-- Aug 09 - [ST Sees AR Glasses Replacing Smartphones](https://www.eetimes.eu/st-sees-ar-glasses-replacing-smartphones/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
