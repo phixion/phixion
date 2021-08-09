@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 09 - [Beyond Coupling and Cohesion: Strategies for Un-Fucking Yourself](https://jesseduffield.com/Beyond-Coupling-And-Cohesion/)
+- Aug 09 - [Wildfires Restored a Yosemite Watershed](https://news.berkeley.edu/2021/08/09/how-wildfire-restored-a-yosemite-watershed/)
 - Aug 09 - [Pentagon will require all troops to get Covid vaccine by Sept. 15](https://www.axios.com/military-covid-vaccine-mandate-d98b8366-4b15-49b8-be70-49c54df08aad.html)
 - Aug 09 - [Show HN: Free, Accessible AI Art for Nonprogrammers](https://colab.research.google.com/drive/1n_xrgKDlGQcCF6O-eL3NOd_x4NSqAUjK)
 - Aug 09 - [VCs are financing an economy of servants](https://sifted.eu/articles/servant-economy/)
-- Aug 09 - [Bring back hydrogen lifting gas](https://www.thecgo.org/news/bring-back-hydrogen-lifting-gas/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
