@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 09 - [Amazon Third-Party Sellers Reportedly Hound Customers Who Leave Bad Reviews](https://gizmodo.com/heres-how-amazon-third-party-sellers-reportedly-hound-c-1847446648)
-- Aug 09 - [Climate change: UN to reveal landmark IPCC report findings](https://www.bbc.com/news/science-environment-58141129)
 - Aug 09 - [About 90% of Animators Quit Their Jobs Within 3 Years](https://www.animenewsnetwork.com/interest/2021-08-06/animator-dorm-project-about-90-percent-of-animators-quit-their-jobs-within-3-years/.175908)
 - Aug 09 - [The Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)
 - Aug 09 - [ST Sees AR Glasses Replacing Smartphones](https://www.eetimes.eu/st-sees-ar-glasses-replacing-smartphones/)
+- Aug 09 - [Localhost](https://transparencyreport.google.com/copyright/domains/localhost)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
