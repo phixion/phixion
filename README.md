@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 09 - [The Future Is a Landscape](https://www.ecosophia.net/the-future-is-a-landscape/)
 - Aug 09 - [Stages of Denial](https://beyondloom.com/blog/denial.html)
 - Aug 09 - [The Top-Shelf Principle](https://listed.to/@mo/4733/the-top-shelf-principle)
 - Aug 09 - [Anti-Lukashenka hackers seize senior Belarusian officials' personal data](https://en.currenttime.tv/a/seeking-change-anti-lukashenka-hackers-seize-senior-belarusian-officials-personal-data-/31392092.html)
 - Aug 09 - [Hello Yarn 2, Goodbye node_modules](https://freddixx.medium.com/hello-yarn-2-goodbye-node-modules-21d97afc1a75)
-- Aug 09 - [Machine learning won't solve natural language understanding](https://thegradient.pub/machine-learning-wont-solve-the-natural-language-understanding-challenge/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
