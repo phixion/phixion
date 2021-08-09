@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 09 - [Show HN: This Idea Does Not Exist](https://thisideadoesnotexist.com)
+- Aug 09 - [Flexport is hiring engineers to build the future of global trade](https://www.flexport.com/careers/department/engineering)
+- Aug 09 - [Handful of cities driving urban greenhouse gas emissions](https://www.reuters.com/business/sustainable-business/handful-cities-driving-urban-greenhouse-gas-emissions-study-2021-07-12/)
 - Aug 09 - [Generate art from any text with deep learning](https://www.comet.ml/site/clipdraw-gallery-ai-art-powered-by-comet-and-gradio/)
 - Aug 09 - [Supine Computing (2019)](https://mgsloan.com/posts/supine-computing/)
 - Aug 09 - [Apple’s Mistake](https://stratechery.com/2021/apples-mistake/)
-- Aug 09 - [Phishing Sites Targeting Scammers and Thieves](https://krebsonsecurity.com/2021/08/phishing-sites-targeting-scammers-and-thieves/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
