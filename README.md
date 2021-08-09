@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 09 - [Fuck Going Back to the Office](https://fuckgoingbacktotheoffice.com/)
-- Aug 09 - [SafeButler (YC S17) Is hiring remote marketing associate](https://www.safebutler.com/careers)
-- Aug 09 - [Watch Out, Beyond Burgers–The Fungi Renaissance Is Here](https://www.wired.com/story/fungi-renaissance-is-here/)
-- Aug 09 - [Big Tech call center workers face pressure to accept home surveillance](https://www.nbcnews.com/tech/tech-news/big-tech-call-center-workers-face-pressure-accept-home-surveillance-n1276227)
-- Aug 09 - [Ask HN: Is learning math useful to be a good computer scientist?](https://news.ycombinator.com/item?id=28113166)
+- Aug 09 - [IPCC climate report is 'code red for humanity'](https://www.bbc.co.uk/news/science-environment-58130705)
+- Aug 09 - [WhatsApp lead and other tech experts fire back at Apple’s Child Safety plan](https://www.theverge.com/2021/8/6/22613365/apple-icloud-csam-scanning-whatsapp-surveillance-reactions)
+- Aug 09 - [IPCC: Sixth Assessment Report](https://www.ipcc.ch/assessment-report/ar6/)
+- Aug 09 - [IPCC Press Conference (climate change related)](https://www.youtube.com/watch?v=z149vLKn9d8)
+- Aug 09 - [World's 1.5C climate goal on brink of slipping beyond reach, warns IPCC report](https://www.independent.co.uk/climate-change/news/ipcc-report-2021-climate-un-b1899193.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
