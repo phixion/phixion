@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 09 - [Why Valve Is Switching from Debian to Arch for Steam Deck's Linux OS](https://www.pcgamer.com/this-is-why-valve-is-switching-from-debian-to-arch-for-steam-decks-linux-os/)
 - Aug 09 - [Handful of cities driving urban greenhouse gas emissions](https://www.reuters.com/business/sustainable-business/handful-cities-driving-urban-greenhouse-gas-emissions-study-2021-07-12/)
 - Aug 09 - [Incident response: “The next 16 minutes are going to get intense”](https://bitfieldconsulting.com/blog/got-game-secrets-of-great-incident-management)
-- Aug 09 - [Show HN: This Idea Does Not Exist](https://thisideadoesnotexist.com)
+- Aug 09 - [Generate art from any text with deep learning](https://www.comet.ml/site/clipdraw-gallery-ai-art-powered-by-comet-and-gradio/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
