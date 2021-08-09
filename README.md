@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 09 - [SafeButler (YC S17) Is hiring remote marketing associate](https://www.safebutler.com/careers)
 - Aug 09 - [2,400-year-old baskets still filled with fruit found in submerged Egyptian city](https://www.smithsonianmag.com/smart-news/archaeologists-uncover-2400-year-old-fruit-baskets-underwater-egyptian-city-180978350/)
 - Aug 09 - [Facebook shuts out NYU academics’ research on political ads](https://apnews.com/article/technology-business-5d3021ed9f193bf249c3af158b128d18)
 - Aug 09 - [Stupidity is a specific cognitive failing](https://psyche.co/ideas/why-some-of-the-smartest-people-can-be-so-very-stupid)
 - Aug 09 - [Summer 2021 has changed our understanding of extreme weather](https://theconversation.com/how-summer-2021-has-changed-our-understanding-of-extreme-weather-165268)
-- Aug 09 - [AU gov asks big tech to introduce detection capabilities in encrypted comm](https://www.zdnet.com/article/canberra-asks-big-tech-to-introduce-detection-capabilities-in-encrypted-communication/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
