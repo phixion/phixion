@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 09 - [Crystal arrangement results in 1,000x more power from ferroelectric solar cells](https://www.pv-magazine.com/2021/08/04/crystal-arrangement-results-in-1000x-more-power-from-ferroelectric-solar-cells/)
 - Aug 09 - [What is sustainable web design?](https://sustainablewebdesign.org/)
 - Aug 09 - [Why is the US Green Party's site blocked?](https://github.com/blocklistproject/Lists/issues/453)
 - Aug 09 - [The Most Beautiful Program Ever Written – Lisp Interpreter Written in Lisp](https://www.lvguowei.me/post/the-most-beautiful-program-ever-written/)
 - Aug 09 - [Emu68: M68K Emulation for ARM](https://github.com/michalsc/Emu68)
-- Aug 09 - [Climate change: IPCC report is 'code red for humanity'](https://www.bbc.com/news/science-environment-58130705)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
