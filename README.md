@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 09 - [Masks Are Back, Maybe for the Long Term](https://www.theatlantic.com/health/archive/2021/08/remasking-vaccine-covid/619681/)
+- Aug 09 - [The World of CSS Transforms](https://www.joshwcomeau.com/css/transforms/)
+- Aug 09 - [The Rocks and Minerals of Minecraft](https://www.mindat.org/a/minecraft)
 - Aug 09 - [Show HN: Ots – share a secret via one-time URL (a simple Go CLI)](https://github.com/sniptt-official/ots)
 - Aug 09 - [Launch HN: Lightly (YC S21): Label only the data which improves your ML model](https://news.ycombinator.com/item?id=28116371)
-- Aug 09 - [Launch HN: Financial Choice (YC S21) – Checking accounts with market returns](https://news.ycombinator.com/item?id=28116288)
-- Aug 09 - [addons.thunderbird.net SSL certificate has expired](https://thunderbird.topicbox.com/groups/addons/T446f961afe6c556f/addons-thunderbird-net-ssl-certificate-is-expired)
-- Aug 09 - [U.S. Senate Vote in Favor of Amendment That Threatens Crypto Industry](https://decrypt.co/78038/senate-votes-for-amendment-that-threatens-crypto-industry)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
