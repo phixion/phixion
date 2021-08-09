@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 09 - [Masks Are Back, Maybe for the Long Term](https://www.theatlantic.com/health/archive/2021/08/remasking-vaccine-covid/619681/)
+- Aug 09 - [Why the McFlurry Machine Company Just Got Hit with a Restraining Order](https://www.vice.com/en/article/93ymbp/why-the-mcflurry-machine-company-just-got-hit-with-a-restraining-order)
 - Aug 09 - [The World of CSS Transforms](https://www.joshwcomeau.com/css/transforms/)
 - Aug 09 - [The Rocks and Minerals of Minecraft](https://www.mindat.org/a/minecraft)
 - Aug 09 - [Show HN: Ots – share a secret via one-time URL (a simple Go CLI)](https://github.com/sniptt-official/ots)
