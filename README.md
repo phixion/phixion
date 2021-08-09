@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 09 - [Fuck Going Back to the Office](https://fuckgoingbacktotheoffice.com/)
 - Aug 09 - [SafeButler (YC S17) Is hiring remote marketing associate](https://www.safebutler.com/careers)
 - Aug 09 - [Watch Out, Beyond Burgers–The Fungi Renaissance Is Here](https://www.wired.com/story/fungi-renaissance-is-here/)
+- Aug 09 - [Big Tech call center workers face pressure to accept home surveillance](https://www.nbcnews.com/tech/tech-news/big-tech-call-center-workers-face-pressure-accept-home-surveillance-n1276227)
 - Aug 09 - [Ask HN: Is learning math useful to be a good computer scientist?](https://news.ycombinator.com/item?id=28113166)
-- Aug 09 - [2,400-year-old baskets still filled with fruit found in submerged Egyptian city](https://www.smithsonianmag.com/smart-news/archaeologists-uncover-2400-year-old-fruit-baskets-underwater-egyptian-city-180978350/)
-- Aug 09 - [Facebook shuts out NYU academics’ research on political ads](https://apnews.com/article/technology-business-5d3021ed9f193bf249c3af158b128d18)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
