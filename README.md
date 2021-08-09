@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Aug 09 - [Launch HN: Lightly (YC S21): Label only the data which improves your ML model](https://news.ycombinator.com/item?id=28116371)
 - Aug 09 - [Launch HN: Financial Choice (YC S21) – Checking accounts with market returns](https://news.ycombinator.com/item?id=28116288)
-- Aug 09 - [AI has the worst superpower medical racism](https://lukeoakdenrayner.wordpress.com/2021/08/02/ai-has-the-worst-superpower-medical-racism/)
-- Aug 09 - [Addons.thunderbird.net SSL certificate has expired](https://thunderbird.topicbox.com/groups/addons/T446f961afe6c556f/addons-thunderbird-net-ssl-certificate-is-expired)
+- Aug 09 - [addons.thunderbird.net SSL certificate has expired](https://thunderbird.topicbox.com/groups/addons/T446f961afe6c556f/addons-thunderbird-net-ssl-certificate-is-expired)
 - Aug 09 - [U.S. Senate Vote in Favor of Amendment That Threatens Crypto Industry](https://decrypt.co/78038/senate-votes-for-amendment-that-threatens-crypto-industry)
+- Aug 09 - [Build Your Own NeXT](https://learn.adafruit.com/build-your-own-next-with-a-virtual-machine?view=all)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
