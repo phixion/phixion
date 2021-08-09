@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 09 - [The Most Beautiful Program Ever Written – Lisp Interpreter Written in Lisp](https://www.lvguowei.me/post/the-most-beautiful-program-ever-written/)
 - Aug 09 - [Emu68: M68K Emulation for ARM](https://github.com/michalsc/Emu68)
 - Aug 09 - [Climate change: IPCC report is 'code red for humanity'](https://www.bbc.com/news/science-environment-58130705)
 - Aug 09 - [WhatsApp lead and other tech experts fire back at Apple’s Child Safety plan](https://www.theverge.com/2021/8/6/22613365/apple-icloud-csam-scanning-whatsapp-surveillance-reactions)
-- Aug 09 - [Supercritical CO2 Tech Team](https://www.energy.gov/supercritical-co2-tech-team)
-- Aug 09 - [SafeButler (YC S17) Is hiring remote marketing associate](https://www.safebutler.com/careers)
+- Aug 09 - [IPCC: Sixth Assessment Report](https://www.ipcc.ch/assessment-report/ar6/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
