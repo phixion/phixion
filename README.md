@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 09 - [About 90% of Animators Quit Their Jobs Within 3 Years](https://www.animenewsnetwork.com/interest/2021-08-06/animator-dorm-project-about-90-percent-of-animators-quit-their-jobs-within-3-years/.175908)
-- Aug 09 - [California's Dixie Fire Is Now the 2nd Largest in State History](https://www.npr.org/2021/08/08/1025928690/californias-dixie-fire-is-now-the-2nd-largest-in-state-history)
 - Aug 09 - [Localhost](https://transparencyreport.google.com/copyright/domains/localhost)
 - Aug 08 - [Official Elasticsearch Python library no longer works with open-source forks](https://github.com/elastic/elasticsearch-py/pull/1623)
 - Aug 08 - [One Bad Apple](https://www.hackerfactor.com/blog/index.php?/archives/929-One-Bad-Apple.html)
+- Aug 08 - [Mux (YC W16) is hiring full-stack developers to focus on Elixir and TypeScript](https://mux.com/jobs?hnj=full-stack)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
