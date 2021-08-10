@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 10 - [Our vacation rental had surveillance cameras. The landlord used them a lot](https://www.sfgate.com/travel/article/California-vacation-rental-surveillance-camera-law-16346246.php)
-- Aug 10 - [BioNTech alone could lift German economy by 0.5% this year](https://www.reuters.com/article/us-germany-economy-biontech-idUSKBN2FB15A)
-- Aug 10 - [Better Than Free (2008)](http://kk.org/thetechnium/better-than-fre/)
-- Aug 10 - [Firefox 91 introduces enhanced cookie clearing](https://blog.mozilla.org/security/2021/08/10/firefox-91-introduces-enhanced-cookie-clearing/)
-- Aug 10 - [MapReduce is making a comeback](https://www.estuary.dev/blog/why-mapreduce-is-making-a-comeback)
+- Aug 10 - [Incident with GitHub Actions, API Requests, Git Operations, Issues and more](https://www.githubstatus.com/incidents/rmfrw9dfbtbp)
+- Aug 10 - [Animals Can Count and Use Zero. How Far Does Their Number Sense Go?](https://www.quantamagazine.org/animals-can-count-and-use-zero-how-far-does-their-number-sense-go-20210809/)
+- Aug 10 - [4th person in US mysteriously stricken with deadly bacteria from South Asia](https://arstechnica.com/science/2021/08/4th-person-in-us-mysteriously-stricken-with-deadly-bacteria-from-south-asia/)
+- Aug 10 - [Updated GNOME User Interface Guidelines are now official](https://developer.gnome.org/hig/)
+- Aug 10 - [Ask HN: Senior Software Engineer to Engineering Manager](https://news.ycombinator.com/item?id=28129546)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
