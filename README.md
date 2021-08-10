@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 10 - [OpenBSD on the Framework Laptop](https://jcs.org/2021/08/06/framework)
 - Aug 10 - [Fish with 'human' teeth caught in North Carolina](https://www.bbc.com/news/world-us-canada-58105044)
 - Aug 10 - [Pop Meals (YC S17) Is Hiring a Chief Marketing and Growth Officer (CMO)](https://www.ycombinator.com/companies/pop-meals/jobs/aLbeAmT-chief-marketing-growth-officer-cmo)
 - Aug 10 - [How far could a spaceship go if we never ran out of thrust? (2020)](https://www.forbes.com/sites/startswithabang/2021/12/30/how-far-could-a-spaceship-go-if-we-never-ran-out-of-thrust/)
 - Aug 10 - [Unsong, a fantasy novel where the universe is programmable with Hebrew (2015)](https://unsongbook.com/)
+- Aug 10 - [Turn your Android phone into SMS API gateway](https://github.com/traccar/traccar-sms-gateway)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
