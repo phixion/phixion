@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 10 - [How we built the Evervault Encryption Engine (E3)](https://evervault.com/blog/e3)
 - Aug 10 - [Cortex (YC W20) Is Hiring Founding Engineers](https://www.workatastartup.com/jobs/29595)
-- Aug 10 - [Pay cut: Google employees who work from home could lose money](https://www.reuters.com/world/the-great-reboot/pay-cut-google-employees-who-work-home-could-lose-money-2021-08-10/)
+- Aug 10 - [German pensioner given hefty fine for WW2 tank in house](https://www.bbc.com/news/world-europe-58077039)
 - Aug 10 - [How to Hack APIs in 2021](https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/)
 - Aug 10 - [The mystery of the lost Roman herb (2017)](https://www.bbc.com/future/article/20170907-the-mystery-of-the-lost-roman-herb)
-- Aug 10 - [Apple says photos in iCloud will be checked by child abuse detection system](https://www.reuters.com/technology/apple-says-photos-icloud-will-be-checked-by-child-abuse-detection-system-2021-08-09/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
