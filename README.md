@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 10 - [Signadot (YC W20) Is Hiring Founding Back End Engineers](https://www.workatastartup.com/jobs/42298)
+- Aug 10 - [YouTube suspends filmmaker Oliver Ressler’s account without warning](https://art-leaks.org/2021/08/10/youtube-suspends-filmmaker-oliver-ressler-account-without-warning/)
 - Aug 10 - [Elementary OS 6 Odin Available Now](https://blog.elementary.io/elementary-os-6-odin-released/)
+- Aug 10 - [2020 U.S. Migration Map](https://www.northamerican.com/migration-map)
 - Aug 10 - [The 'Great Resignation' Is Really the 'Great Discontent'](https://www.gallup.com/workplace/351545/great-resignation-really-great-discontent.aspx)
-- Aug 10 - [Incident with GitHub Actions, API Requests, Git Operations, Issues and more](https://www.githubstatus.com/incidents/rmfrw9dfbtbp)
-- Aug 10 - [Animals Can Count and Use Zero. How Far Does Their Number Sense Go?](https://www.quantamagazine.org/animals-can-count-and-use-zero-how-far-does-their-number-sense-go-20210809/)
-- Aug 10 - [4th person in US mysteriously stricken with deadly bacteria from South Asia](https://arstechnica.com/science/2021/08/4th-person-in-us-mysteriously-stricken-with-deadly-bacteria-from-south-asia/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
