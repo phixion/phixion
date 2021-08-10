@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 10 - [How to Hack APIs in 2021](https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/)
+- Aug 10 - [The mystery of the lost Roman herb](https://www.bbc.com/future/article/20170907-the-mystery-of-the-lost-roman-herb)
+- Aug 10 - [Apple says photos in iCloud will be checked by child abuse detection system](https://www.reuters.com/technology/apple-says-photos-icloud-will-be-checked-by-child-abuse-detection-system-2021-08-09/)
 - Aug 10 - [OpenAI Codex](https://openai.com/)
 - Aug 10 - [Pop Meals (YC S17) Is Hiring a Chief Marketing and Growth Officer (CMO)](https://www.ycombinator.com/companies/pop-meals/jobs/aLbeAmT-chief-marketing-growth-officer-cmo)
-- Aug 10 - [How far could a spaceship go if we never ran out of thrust? (2020)](https://www.forbes.com/sites/startswithabang/2021/12/30/how-far-could-a-spaceship-go-if-we-never-ran-out-of-thrust/)
-- Aug 10 - [Unsong, a fantasy novel where the universe is programmable with Hebrew (2015)](https://unsongbook.com/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
