@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 10 - [Why MapReduce is making a comeback](https://www.estuary.dev/blog/why-mapreduce-is-making-a-comeback)
-- Aug 10 - [Firefox 91.0, See All New Features, Updates and Fixes](https://www.mozilla.org/en-US/firefox/91.0/releasenotes/)
+- Aug 10 - [MapReduce is making a comeback](https://www.estuary.dev/blog/why-mapreduce-is-making-a-comeback)
+- Aug 10 - [Firefox 91](https://www.mozilla.org/en-US/firefox/91.0/releasenotes/)
 - Aug 10 - [How we built the Evervault Encryption Engine (E3)](https://evervault.com/blog/e3)
-- Aug 10 - ['Code red': UN scientists warn of worsening global warming](https://apnews.com/article/asia-pacific-latin-america-middle-east-africa-europe-1d89d5183583718ad4ad311fa2ee7d83)
 - Aug 10 - [Cortex (YC W20) Is Hiring Founding Engineers](https://www.workatastartup.com/jobs/29595)
+- Aug 10 - [Google employees who work from home could lose money](https://www.reuters.com/world/the-great-reboot/pay-cut-google-employees-who-work-home-could-lose-money-2021-08-10/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
