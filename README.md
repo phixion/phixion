@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 10 - [OpenAI Codex](https://openai.com/blog/openai-codex/)
+- Aug 10 - [LightGBM vs. XGBoost: Which distributed version is faster?](https://www.anyscale.com/blog/introducing-distributed-lightgbm-training-with-ray)
 - Aug 10 - [$600MM Taken in Largest DeFi Hack to Date](https://blockworks.co/hackers-steal-over-600m-biggest-in-defi-history/)
 - Aug 10 - [Deno 1.13 Release](https://deno.com/blog/v1.13)
 - Aug 10 - [Signadot (YC W20) Is Hiring Founding Back End Engineers](https://www.workatastartup.com/jobs/42298)
-- Aug 10 - [Elementary OS 6 Odin Available Now](https://blog.elementary.io/elementary-os-6-odin-released/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
