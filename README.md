@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 10 - [U.S. Kids Are Getting Nearly 70% of Their Calories from 'Ultra-Processed' Foods](https://gizmodo.com/u-s-kids-are-now-getting-nearly-70-of-their-calories-1847457103)
-- Aug 10 - [Cory Doctorow: Uber is a bezzle](https://twitter.com/doctorow/status/1425139419195998213)
-- Aug 10 - [JPL's Plan for the Next Mars Helicopter](https://spectrum.ieee.org/the-next-mars-helicopter)
-- Aug 10 - [OpenAI Codex](https://openai.com/blog/openai-codex/)
-- Aug 10 - [$600M taken in largest DeFi hack to date](https://blockworks.co/hackers-steal-over-600m-biggest-in-defi-history/)
+- Aug 10 - [Show HN: YouTube Musical Spectrum – visualizer for YouTube with musical notes](https://github.com/mfcc64/youtube-musical-spectrum)
+- Aug 10 - [Federal Court Orders BitMEX to Pay $100M over Illegal Crypto Trading](https://www.cftc.gov/PressRoom/PressReleases/8412-21)
+- Aug 10 - [Unity to acquire Parsec for $320m](https://investors.unity.com/news/news-details/2021/Unity-Enters-Into-Agreement-to-Acquire-Parsec/default.aspx)
+- Aug 10 - [Giuseppe 'Bepi' Colombo: Grandfather of the orbital fly-by](https://www.esa.int/About_Us/ESA_history/Giuseppe_Bepi_Colombo_Grandfather_of_the_fly-by)
+- Aug 10 - [Avenue (YC W21) Is Hiring Full-Stack Engineers in NYC (TypeScript, Node, React)](https://useavenue.notion.site/Software-Engineer-Avenue-d68ff1ec6b064380b3afa85d5d1b3276)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
