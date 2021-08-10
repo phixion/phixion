@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 10 - [Our vacation rental had surveillance cameras. The landlord used them a lot](https://www.sfgate.com/travel/article/California-vacation-rental-surveillance-camera-law-16346246.php)
+- Aug 10 - [BioNTech alone could lift German economy by 0.5% this year](https://www.reuters.com/article/us-germany-economy-biontech-idUSKBN2FB15A)
+- Aug 10 - [Better Than Free (2008)](http://kk.org/thetechnium/better-than-fre/)
+- Aug 10 - [Firefox 91 introduces enhanced cookie clearing](https://blog.mozilla.org/security/2021/08/10/firefox-91-introduces-enhanced-cookie-clearing/)
 - Aug 10 - [MapReduce is making a comeback](https://www.estuary.dev/blog/why-mapreduce-is-making-a-comeback)
-- Aug 10 - [Firefox 91](https://www.mozilla.org/en-US/firefox/91.0/releasenotes/)
-- Aug 10 - [How we built the Evervault Encryption Engine (E3)](https://evervault.com/blog/e3)
-- Aug 10 - [Cortex (YC W20) Is Hiring Founding Engineers](https://www.workatastartup.com/jobs/29595)
-- Aug 10 - [Google employees who work from home could lose money](https://www.reuters.com/world/the-great-reboot/pay-cut-google-employees-who-work-home-could-lose-money-2021-08-10/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
