@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 10 - [Pop Meals (YC S17) Is Hiring a Chief Marketing and Growth Officer (CMO)](https://www.ycombinator.com/companies/pop-meals/jobs/aLbeAmT-chief-marketing-growth-officer-cmo)
 - Aug 10 - [Unsong, a fantasy novel where the universe is programmable with Hebrew](https://unsongbook.com/)
 - Aug 10 - [What China Wants and Why](https://unchartedterritories.tomaspueyo.com/p/what-china-wants)
 - Aug 10 - [Turn your Android phone into SMS API gateway](https://github.com/traccar/traccar-sms-gateway)
 - Aug 10 - [Vue 3.2 Released](https://blog.vuejs.org/posts/vue-3.2.html)
-- Aug 10 - [Apple dropped plan for encrypting backups after FBI complained (2020)](https://www.reuters.com/article/us-apple-fbi-icloud-exclusive-idUSKBN1ZK1CT)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
