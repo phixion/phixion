@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 10 - [U.S. Kids Are Getting Nearly 70% of Their Calories from 'Ultra-Processed' Foods](https://gizmodo.com/u-s-kids-are-now-getting-nearly-70-of-their-calories-1847457103)
-- Aug 10 - [What to Expect After the Eviction Moratorium](https://www.strongtowns.org/journal/2021/8/6/what-to-expect-after-the-eviction-moratorium)
+- Aug 10 - [Cory Doctorow: Uber is a bezzle](https://twitter.com/doctorow/status/1425139419195998213)
 - Aug 10 - [JPL's Plan for the Next Mars Helicopter](https://spectrum.ieee.org/the-next-mars-helicopter)
-- Aug 10 - [Bevy's First Birthday: a year of open source Rust game engine development](https://bevyengine.org/news/bevys-first-birthday/)
-- Aug 10 - [Ask HN: How do I reliably prevent autoplay in Firefox 91?](https://news.ycombinator.com/item?id=28131896)
+- Aug 10 - [OpenAI Codex](https://openai.com/blog/openai-codex/)
+- Aug 10 - [$600M taken in largest DeFi hack to date](https://blockworks.co/hackers-steal-over-600m-biggest-in-defi-history/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
