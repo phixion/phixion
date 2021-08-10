@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 10 - [JPL's Plan for the Next Mars Helicopter](https://spectrum.ieee.org/the-next-mars-helicopter)
-- Aug 10 - [Proposed Coal Plants in the United_States](https://www.gem.wiki/Category:Proposed_coal_plants_in_the_United_States)
 - Aug 10 - [Ask HN: How do I reliably prevent autoplay in Firefox 91?](https://news.ycombinator.com/item?id=28131896)
 - Aug 10 - [OpenAI Codex](https://openai.com/blog/openai-codex/)
-- Aug 10 - [$600MM Taken in Largest DeFi Hack to Date](https://blockworks.co/hackers-steal-over-600m-biggest-in-defi-history/)
+- Aug 10 - [Hackers steal over $600M, biggest in DeFi history](https://blockworks.co/hackers-steal-over-600m-biggest-in-defi-history/)
+- Aug 10 - [Astronomical Engineering: A Strategy for Modifying Planetary Orbits (2001)](https://ui.adsabs.harvard.edu/abs/2001Ap%26SS.275..349K/abstract)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
