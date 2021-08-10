@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 10 - [CO2 Users Face Supply Issues, Higher Prices as Carbon Sequestration Grows](https://rbnenergy.com/knocked-out-co2-users-face-supply-issues-higher-prices-as-carbon-sequestration-grows)
+- Aug 10 - [Why MapReduce is making a comeback](https://www.estuary.dev/blog/why-mapreduce-is-making-a-comeback)
 - Aug 10 - [How we built the Evervault Encryption Engine (E3)](https://evervault.com/blog/e3)
 - Aug 10 - [Cortex (YC W20) Is Hiring Founding Engineers](https://www.workatastartup.com/jobs/29595)
 - Aug 10 - [Pay cut: Google employees who work from home could lose money](https://www.reuters.com/world/the-great-reboot/pay-cut-google-employees-who-work-home-could-lose-money-2021-08-10/)
-- Aug 10 - [How to Hack APIs in 2021](https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/)
-- Aug 10 - [The mystery of the lost Roman herb (2017)](https://www.bbc.com/future/article/20170907-the-mystery-of-the-lost-roman-herb)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
