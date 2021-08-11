@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 11 - [1Password 8 will be subscription only and won’t support local vaults](https://1password.community/discussion/comment/601917/#Comment_601917)
+- Aug 11 - [ANSI Escape Codes](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797)
 - Aug 11 - [Poll Everywhere (YC S08) Is Hiring Full Stack Engineers](https://www.workatastartup.com/jobs/45671)
 - Aug 11 - [Ruthless Prioritization](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9)
 - Aug 11 - [Facebook Announces Privacy-Enhancing Technologies](https://www.facebook.com/business/news/building-for-the-future)
-- Aug 11 - [GitHub’s Engineering Team has moved to Codespaces](https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
