@@ -35,9 +35,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 11 - [Ask HN: What the HN of Cryptocurrency?](https://news.ycombinator.com/item?id=28141799)
 - Aug 11 - [Coinbase removes ‘backed by US dollars’ claim for USDC stablecoin](https://nexteven.com/coinbase-removes-backed-by-us-dollars-claim-for-usdc-stablecoin/)
 - Aug 11 - [Instagram launches hate-speech 'limits' to hide abuse](https://www.bbc.co.uk/news/technology-58173921)
+- Aug 11 - [AllStar: Continuous Security Policy Enforcement for GitHub Projects](https://security.googleblog.com/2021/08/allstar-continuous-security-policy.html)
 - Aug 11 - [Launch HN: Slip (YC S21) – Build and sell interactive programming courses](https://news.ycombinator.com/item?id=28141462)
 - Aug 11 - [Kind: A Modern Proof Language](https://github.com/uwu-tech/kind)
 <!--END_SECTION:hn-->
