@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 11 - [Smarking (YC W15) Is Hiring a Head of Engineering to Digital $100B+ Parking](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
+- Aug 11 - [Smarking (YC W15) Is Hiring a Head of Engineering](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
 - Aug 11 - [DoD Awards $1B Contract to Peraton to Counter Misinformation](https://www.fedscoop.com/dod-awards-1b-contract-to-peraton-to-counter-misinformation/)
-- Aug 11 - [U.S. lawmakers introduce bill to rein in Apple, Google app stores](https://financialpost.com/technology/u-s-lawmakers-introduce-bill-to-rein-in-apple-google-app-stores)
 - Aug 11 - [Launch HN: Senpai.gg (YC S21) – Personal gaming coach for PC gamers](https://news.ycombinator.com/item?id=28145998)
 - Aug 11 - [Because I Am Bored](https://www.antipope.org/charlie/blog-static/2021/05/because-i-am-bored.html)
+- Aug 11 - [1Password 8 will be subscription only and won’t support local vaults](https://1password.community/discussion/comment/601917/#Comment_601917)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
