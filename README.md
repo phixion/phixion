@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Aug 11 - [Instagram launches hate-speech 'limits' to hide abuse](https://www.bbc.co.uk/news/technology-58173921)
 - Aug 11 - [Launch HN: Slip (YC S21) – Build and sell interactive programming courses](https://news.ycombinator.com/item?id=28141462)
+- Aug 11 - [Kind: A Modern Proof Language](https://github.com/uwu-tech/kind)
 - Aug 11 - [What if we could transpile COBOL into Elixir](https://dockyard.com/blog/2021/08/10/what-if-coboltoelixir)
 - Aug 11 - [An Old Hacker's Tips on Staying Employed](https://madned.substack.com/p/an-old-hackers-tips-on-staying-employed)
-- Aug 11 - [Copy-Protection for Vinyl in the 1970s](https://www.currybet.net/cbet_blog/2008/01/copy-protection-for-vinyl-in-t.php)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
