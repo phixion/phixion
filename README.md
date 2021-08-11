@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 11 - [Europe's all-time heat record set in Sicily at nearly 120 degrees](https://www.axios.com/europe-all-time-heat-record-set-sicily-065cef11-fdb7-4aaf-abd5-82b5b8d7a475.html)
 - Aug 11 - [DoD Awards $1B Contract to Peraton to Counter Misinformation](https://www.fedscoop.com/dod-awards-1b-contract-to-peraton-to-counter-misinformation/)
 - Aug 11 - [Launch HN: Senpai.gg (YC S21) – Personal gaming coach for PC gamers](https://news.ycombinator.com/item?id=28145998)
 - Aug 11 - [Because I Am Bored](https://www.antipope.org/charlie/blog-static/2021/05/because-i-am-bored.html)
 - Aug 11 - [1Password 8 will be subscription only and won’t support local vaults](https://1password.community/discussion/comment/601917/#Comment_601917)
-- Aug 11 - [ANSI Escape Codes](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
