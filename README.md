@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 11 - [U.S. prisons mull AI to analyze inmate phone calls](https://www.reuters.com/article/us-usa-tech-prison-idUSKBN2FA0OO)
 - Aug 11 - [FairyTailor: A Multimodal Generative Framework for Storytelling](https://github.com/EdenBD/MultiModalStory-demo)
+- Aug 11 - [The emergence of heat and humidity too severe for human tolerance](https://advances.sciencemag.org/content/6/19/eaaw1838)
 - Aug 11 - [Jewish Problems (2011)](https://arxiv.org/abs/1110.1556)
 - Aug 11 - [Apple call center workers fear AI-powered surveillance cameras in their homes](https://9to5mac.com/2021/08/09/apple-call-center-workers-surveillance/)
-- Aug 11 - [California Megafires Are Solvable](https://gabekleinman.medium.com/california-megafires-are-solvable-b3e01af873dd)
-- Aug 10 - [Siberia’s wildfires are bigger than all the world’s other blazes combined](https://www.washingtonpost.com/world/2021/08/11/siberia-fires-russia-climate/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
