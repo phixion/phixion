@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 11 - [Hackers steal $600m in major cryptocurrency heist](https://www.bbc.com/news/business-58163917)
 - Aug 11 - [Germany to Stop Free Covid-19 Tests in October](https://www.reuters.com/business/healthcare-pharmaceuticals/germany-stop-free-covid-19-tests-report-2021-08-09/)
 - Aug 11 - [State of netbooting Raspberry Pi in 2021](https://blog.alexellis.io/state-of-netbooting-raspberry-pi-in-2021/)
 - Aug 11 - [Australia is becoming a surveillance state](https://ia.acs.org.au/article/2021/australia-is-becoming-a-surveillance-state.html)
 - Aug 11 - [Scrimba (YC S20) is hiring a full-stack dev to make CS education more accessible](https://jobs.scrimba.com/)
-- Aug 11 - [The Ancient Persian way to keep cool](https://www.bbc.com/future/article/20210810-the-ancient-persian-way-to-keep-cool)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
