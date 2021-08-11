@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 11 - [Instagram launches hate-speech 'limits' to hide abuse](https://www.bbc.co.uk/news/technology-58173921)
+- Aug 11 - [Launch HN: Slip (YC S21) – Build and sell interactive programming courses](https://news.ycombinator.com/item?id=28141462)
+- Aug 11 - [What if we could transpile COBOL into Elixir](https://dockyard.com/blog/2021/08/10/what-if-coboltoelixir)
 - Aug 11 - [An Old Hacker's Tips on Staying Employed](https://madned.substack.com/p/an-old-hackers-tips-on-staying-employed)
 - Aug 11 - [Copy-Protection for Vinyl in the 1970s](https://www.currybet.net/cbet_blog/2008/01/copy-protection-for-vinyl-in-t.php)
-- Aug 11 - [MagicBell (YC W21) Is Hiring a Founding Front End Engineer (Remote)](https://magicbell.notion.site/Founding-Frontend-Engineer-Fully-Remote-5d6c0eceed334d6e95f71dec6167453c)
-- Aug 11 - [Open-sourcing a more precise time appliance](https://engineering.fb.com/2021/08/11/open-source/time-appliance/)
-- Aug 11 - [The British Library puts 1M newspaper pages online for free](https://www.ianvisits.co.uk/blog/2021/08/11/british-library-puts-1-million-newspaper-pages-online-for-free/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
