@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Aug 11 - [The Problem with Ethereum](https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95)
 - Aug 11 - [Console Desktop Guide (2018)](https://pspodcasting.net/dan/blog/2018/console_desktop.html)
+- Aug 11 - [A dubious writing style emerging in science](https://arxiv.org/abs/2107.06751)
 - Aug 11 - [DevOps, SRE, and Platform Engineering](https://iximiuz.com/en/posts/devops-sre-and-platform-engineering/)
 - Aug 11 - [Sony's new curved image sensors could shake up the whole camera industry](https://www.digitalcameraworld.com/news/sonys-new-curved-image-sensors-could-shake-up-the-whole-camera-industry)
-- Aug 11 - [U.S. prisons mull AI to analyze inmate phone calls](https://www.reuters.com/article/us-usa-tech-prison-idUSKBN2FA0OO)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
