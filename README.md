@@ -35,9 +35,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 11 - [1Password for Mac Moving to Electron](https://twitter.com/parrots/status/1425466671762972672)
 - Aug 11 - [Regulators should treat stablecoins like banks](https://www.economist.com/leaders/2021/08/07/why-regulators-should-treat-stablecoins-like-banks)
-- Aug 11 - [The Raspberry Pi as a Stratum-1 NTP Server](https://www.satsignal.eu/ntp/Raspberry-Pi-NTP.html)
-- Aug 11 - [Google may cut pay of staff who work from home](https://www.bbc.com/news/business-58171716)
+- Aug 11 - [The Raspberry Pi as a Stratum-1 NTP Server (2012)](https://www.satsignal.eu/ntp/Raspberry-Pi-NTP.html)
 - Aug 11 - [PG&E power line suspected in Dixie fire was set to be buried underground](https://www.latimes.com/california/story/2021-08-10/pge-power-line-dixie-fire-scheduled-to-be-buried-underground)
 - Aug 11 - [Mastering Web Scraping in Python: Crawling from Scratch](https://www.zenrows.com/blog/mastering-web-scraping-in-python-crawling-from-scratch)
 <!--END_SECTION:hn-->
