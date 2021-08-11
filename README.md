@@ -35,8 +35,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 11 - [Scale of Russian mercenary mission in Libya exposed](https://www.bbc.com/news/world-africa-58009514)
 - Aug 11 - [The death of the ‘Millionaire Next Door’ dream](https://www.latimes.com/business/hiltzik/la-fi-mh-the-death-of-the-millionaire-next-door-dream-20150310-column.html)
-- Aug 11 - [#TSLAQ](https://en.wikipedia.org/wiki/TSLAQ)
 - Aug 11 - [Plants, Heavy Metals, and the Lingering Scars of World War I](https://www.atlasobscura.com/articles/zone-rouge-plant-growth)
 - Aug 11 - [How Sweden became the Silicon Valley of Europe](https://www.reuters.com/business/finance/how-sweden-became-silicon-valley-europe-2021-08-11/)
 - Aug 11 - [State of netbooting Raspberry Pi in 2021](https://blog.alexellis.io/state-of-netbooting-raspberry-pi-in-2021/)
