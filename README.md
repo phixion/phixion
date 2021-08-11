@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 11 - [The Metaverse Is a Dystopian Nightmare. Let’s Build a Better Reality](https://nianticlabs.com/blog/real-world-metaverse/)
+- Aug 11 - [The metaverse is a dystopian nightmare – let’s build a better reality](https://nianticlabs.com/blog/real-world-metaverse/)
 - Aug 11 - [Former college professor accused of serial arson is denied bail in California](https://www.npr.org/2021/08/11/1026700103/former-college-professor-arson-charges-california-dixie-fire)
 - Aug 11 - [Smarking (YC W15) Is Hiring a Head of Engineering](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
 - Aug 11 - [DoD Awards $1B Contract to Peraton to Counter Misinformation](https://www.fedscoop.com/dod-awards-1b-contract-to-peraton-to-counter-misinformation/)
