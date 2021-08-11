@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 11 - [Google rolls out ‘pay calculator’ explaining work-from-home salary cuts](https://nypost.com/2021/08/10/google-slashing-pay-for-work-from-home-employees-by-up-to-25/)
+- Aug 11 - [DevOps, SRE, and Platform Engineering](https://iximiuz.com/en/posts/devops-sre-and-platform-engineering/)
+- Aug 11 - [Sony's new curved image sensors could shake up the whole camera industry](https://www.digitalcameraworld.com/news/sonys-new-curved-image-sensors-could-shake-up-the-whole-camera-industry)
 - Aug 11 - [U.S. prisons mull AI to analyze inmate phone calls](https://www.reuters.com/article/us-usa-tech-prison-idUSKBN2FA0OO)
 - Aug 11 - [FairyTailor: A Multimodal Generative Framework for Storytelling](https://github.com/EdenBD/MultiModalStory-demo)
 - Aug 11 - [The emergence of heat and humidity too severe for human tolerance](https://advances.sciencemag.org/content/6/19/eaaw1838)
-- Aug 11 - [Apple call center workers fear AI-powered surveillance cameras in their homes](https://9to5mac.com/2021/08/09/apple-call-center-workers-surveillance/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
