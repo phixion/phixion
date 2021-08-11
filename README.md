@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 11 - [Jewish Problems (2011)](https://arxiv.org/abs/1110.1556)
+- Aug 11 - [Apple call center workers fear AI-powered surveillance cameras in their homes](https://9to5mac.com/2021/08/09/apple-call-center-workers-surveillance/)
 - Aug 11 - [California Megafires Are Solvable](https://gabekleinman.medium.com/california-megafires-are-solvable-b3e01af873dd)
 - Aug 10 - [Siberia’s wildfires are bigger than all the world’s other blazes combined](https://www.washingtonpost.com/world/2021/08/11/siberia-fires-russia-climate/)
 - Aug 10 - [Show HN: YouTube Musical Spectrum – visualizer for YouTube with musical notes](https://github.com/mfcc64/youtube-musical-spectrum)
-- Aug 10 - [Federal Court Orders BitMEX to Pay $100M over Illegal Crypto Trading](https://www.cftc.gov/PressRoom/PressReleases/8412-21)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
