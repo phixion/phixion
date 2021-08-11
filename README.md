@@ -38,7 +38,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 11 - [Scrimba (YC S20) is hiring a full-stack dev to make CS education more accessible](https://jobs.scrimba.com/)
 - Aug 11 - [Apple drops Lawsuit against Corellium](https://9to5mac.com/2021/08/10/apple-drops-copyright-lawsuit-against-corellium-for-selling-virtual-ios-devices/)
 - Aug 11 - [Demand for air conditioning is set to surge by 2050](https://www.economist.com/graphic-detail/2021/08/10/demand-for-air-conditioning-is-set-to-surge-by-2050)
-- Aug 11 - [Signal – Embrace ephemerality with default disappearing messages](https://signal.org/blog/disappearing-by-default/)
+- Aug 11 - [Embrace ephemerality with default disappearing messages](https://signal.org/blog/disappearing-by-default/)
 - Aug 11 - [The Problem with Ethereum](https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95)
 <!--END_SECTION:hn-->
 
