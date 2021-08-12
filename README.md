@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Aug 12 - [Contract by Email](https://writing.kemitchell.com/2021/08/12/Contract-by-E-Mail.html)
 - Aug 12 - [CoinTracker (YC W18) is hiring to make cryptocurrency accessible](https://www.cointracker.io/about)
+- Aug 12 - [Google search led to arrest of cleared campaigner](https://www.bbc.co.uk/news/technology-58165478)
 - Aug 12 - [Pigiron, a MIDI Routing Utility with OSC](https://github.com/plewto/Pigiron)
-- Aug 12 - [Overthinking](https://kerkour.com/blog/overthinking/)
-- Aug 12 - [There’s a crack in the iPhone foundation and it could get a lot worse](https://www.macworld.com/article/353003/apples-new-csam-feature-is-a-crack-in-the-wall.html/)
+- Aug 12 - [What if a deadly heatwave hit India?](https://www.economist.com/what-if/2021/07/03/what-if-a-deadly-heat-wave-hit-india)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
