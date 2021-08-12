@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 12 - [Coursedog (YC W19) Is Hiring a VP of Engineering](https://news.ycombinator.com/item?id=28161397)
+- Aug 12 - [Touted as clean, ‘blue’ hydrogen may be worse than gas, coal](https://onlinelibrary.wiley.com/doi/10.1002/ese3.956)
+- Aug 12 - [The pain and aguish of using IndexedDB: problems, bugs and oddities](https://gist.github.com/pesterhazy/4de96193af89a6dd5ce682ce2adff49a)
 - Aug 12 - [GitHub: Git password authentication is shutting down](https://github.blog/changelog/2021-08-12-git-password-authentication-is-shutting-down/)
-- Aug 12 - [The American diversity meat grinder](https://www.thepullrequest.com/p/the-american-diversity-meat-grinder)
 - Aug 12 - [The future of long-haul trucking in Europe is electric](https://www.transportenvironment.org/newsroom/blog/why-future-long-haul-trucking-electric)
-- Aug 12 - [The Deceptive PR Behind Apple’s “Expanded Protections for Children”](https://piotr.is/2021/08/12/apple-csam/)
-- Aug 12 - [US real estate a safe haven for billions in dirty money, report says](https://www.icij.org/investigations/fincen-files/a-kleptocrats-dream-us-real-estate-a-safe-haven-for-billions-in-dirty-money-report-says)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
