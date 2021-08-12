@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 12 - [Strange domain names that developers bought](https://stackoverflow.blog/2021/08/11/the-strange-domain-names-that-developers-bought/)
 - Aug 12 - [Transmission of SARS-CoV-2 Delta Among Vaccinated Healthcare Workers, Vietnam](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3897733)
 - Aug 12 - [Ask HN: What are you using to replace shared iCloud Photos albums?](https://news.ycombinator.com/item?id=28150772)
-- Aug 12 - [I'm the guy who bought 259684 BTC for under $3000 yesterday (2011)](https://web.archive.org/web/20110716064544/https://forum.bitcoin.org/index.php?topic=20207.0)
+- Aug 12 - [Mosh: The Mobile Shell](https://mosh.org)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
