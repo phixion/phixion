@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 12 - [Fishdraw: Procedurally Generated Fish Drawings](https://fishdraw.glitch.me/)
 - Aug 12 - [Tether minted most USDT to just 2 firms – Alameda and Cumberland](https://protos.com/tether-minted-usdt-stablecoin-crypto-two-alameda-cumberland/)
 - Aug 12 - [Mike Lindell's “packet captures” are garbage data provided by serial con-man](https://www.washingtontimes.com/news/2021/aug/11/mike-lindells-lead-cyber-expert-says-they-cant-pro/)
-- Aug 12 - [A Future for SQL on the Web](https://jlongster.com/future-sql-web)
+- Aug 12 - [A future for SQL on the web](https://jlongster.com/future-sql-web)
 - Aug 12 - [“Your 4th annual reminder of Uber missing this goal.” – Emil Michael](https://twitter.com/emilmichael/status/1425122075161899011)
-- Aug 12 - [Facebook may be forced to sell Giphy one year after buying it](https://arstechnica.com/tech-policy/2021/08/facebook-may-be-forced-to-sell-giphy-one-year-after-buying-it/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
