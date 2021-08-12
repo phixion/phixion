@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 12 - [Ask HN: It's 2021 and QuickTime still doesn't export MP4. What is going on?](https://news.ycombinator.com/item?id=28156678)
 - Aug 12 - [Launch YC S21: Meet the Batch, Thread #6](https://news.ycombinator.com/item?id=28156460)
 - Aug 12 - [Twitter's new font, Chirp, is apparently giving some users headaches](https://www.cnet.com/news/twitters-new-font-chirp-is-apparently-giving-some-users-headaches/)
 - Aug 12 - [Who Is Being Monitored?](https://tutanota.com/blog/posts/wer-wird-belauscht/)
 - Aug 12 - [Darts: Non-Facebook alternative for timeseries forecasting](https://github.com/unit8co/darts)
-- Aug 12 - [Next.js 11.1](https://nextjs.org/blog/next-11-1)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
