@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 12 - [The Infrastructure Bill’s Targeting of Cryptocurrencies Makes Americans Poorer](https://medium.com/@willholley/the-infrastructure-bills-targeting-of-cryptocurrencies-makes-americans-poorer-fc503a220f35)
+- Aug 12 - [Poly Network hacker returns $258M after stealing $600M](https://www.forbes.com/sites/jonathanponciano/2021/08/11/crypto-hacker-returns-258-million-after-stealing-600-million-solicits-donations-for-hacking-for-good/)
+- Aug 12 - [Strange domain names that developers bought](https://stackoverflow.blog/2021/08/11/the-strange-domain-names-that-developers-bought/)
 - Aug 12 - [Transmission of SARS-CoV-2 Delta Among Vaccinated Healthcare Workers, Vietnam](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3897733)
-- Aug 12 - [Major Outage on Reddit](https://www.redditstatus.com/)
+- Aug 12 - [Ask HN: What are you using to replace shared iCloud Photos albums?](https://news.ycombinator.com/item?id=28150772)
 - Aug 12 - [I'm the guy who bought 259684 BTC for under $3000 yesterday (2011)](https://web.archive.org/web/20110716064544/https://forum.bitcoin.org/index.php?topic=20207.0)
-- Aug 12 - [Monday was my 46th birthday and likely my last (2013)](https://web.archive.org/web/20160304012020/http://aaronwinborn.com/blogs/aaron/monday-was-my-46th-birthday-and-likely-my-last-anything-awesome-i-should-try-after-i-die)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
