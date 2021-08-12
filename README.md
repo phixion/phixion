@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 12 - [Enso (YC S21) is hiring a senior Rust/WebGL developer](https://www.ycombinator.com/companies/enso/jobs/5AhkHFF-senior-rust-developer)
-- Aug 12 - [Node.js Security – OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/cheatsheets/Nodejs_Security_Cheat_Sheet.html)
+- Aug 12 - [Climate change: Curbing methane emissions will 'buy us time'](https://www.bbc.co.uk/news/science-environment-58174111)
+- Aug 12 - [NodeJS security cheat sheet](https://cheatsheetseries.owasp.org/cheatsheets/Nodejs_Security_Cheat_Sheet.html)
 - Aug 12 - [For programmers, remote working is becoming the norm](https://www.economist.com/graphic-detail/2021/08/11/for-programmers-remote-working-is-becoming-the-norm)
 - Aug 12 - [Thunderbird 91.0](https://www.thunderbird.net/en-US/thunderbird/91.0/releasenotes/)
-- Aug 12 - [Poly Network hacker returns $258M after stealing $600M](https://www.forbes.com/sites/jonathanponciano/2021/08/11/crypto-hacker-returns-258-million-after-stealing-600-million-solicits-donations-for-hacking-for-good/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
