@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 12 - [Typography in Alien (2014)](https://typesetinthefuture.com/2014/12/01/alien/)
 - Aug 12 - [Xsolla lays off 150 after an algorithm ruled staff 'unengaged and unproductive'](https://www.gamasutra.com/view/news/386534/Xsolla_lays_off_150_after_an_algorithm_ruled_staff_unengaged_and_unproductive.php)
 - Aug 12 - [MathML Progress](https://www.igalia.com/2021/08/09/MathML-Progress.html)
 - Aug 12 - [ZeroVer: 0-Based Versioning](https://0ver.org/)
-- Aug 12 - [The bug which lost more than $600m in various crypto currencies a few hours ago](https://twitter.com/simonw/status/1425333588610801667)
-- Aug 12 - [Single cortical neurons as  deep as (5-8 layer) artificial neural networks](https://www.sciencedirect.com/science/article/pii/S0896627321005018?dgcid=coauthor)
+- Aug 12 - [Mailchimp Is Exploring a Sale at $10B-Plus Valuation](https://www.bloomberg.com/news/articles/2021-08-11/mailchimp-is-said-to-explore-sale-at-10-billion-plus-valuation)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
