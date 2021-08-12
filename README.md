@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 11 - [Moderna Vaccine Significantly More Effective Against Delta Variant Than Pfizer](https://www.medrxiv.org/content/10.1101/2021.08.06.21261707v1)
 - Aug 11 - [The metaverse is a dystopian nightmare – let’s build a better reality](https://nianticlabs.com/blog/real-world-metaverse/)
 - Aug 11 - [Former college professor accused of serial arson is denied bail in California](https://www.npr.org/2021/08/11/1026700103/former-college-professor-arson-charges-california-dixie-fire)
 - Aug 11 - [Smarking (YC W15) Is Hiring a Head of Engineering](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
 - Aug 11 - [Launch HN: Senpai.gg (YC S21) – Personal gaming coach for PC gamers](https://news.ycombinator.com/item?id=28145998)
-- Aug 11 - [Because I Am Bored](https://www.antipope.org/charlie/blog-static/2021/05/because-i-am-bored.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
