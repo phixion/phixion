@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 12 - [Twitter's new font, Chirp, is apparently giving some users headaches](https://www.cnet.com/news/twitters-new-font-chirp-is-apparently-giving-some-users-headaches/)
 - Aug 12 - [Who Is Being Monitored?](https://tutanota.com/blog/posts/wer-wird-belauscht/)
 - Aug 12 - [Darts: Non-Facebook alternative for timeseries forecasting](https://github.com/unit8co/darts)
-- Aug 12 - [The Muse (YC W12) Is Hiring a Lead Site Reliability Engineer](https://www.themuse.com/jobs/themuse/senior-site-reliability-engineer)
+- Aug 12 - [Next.js 11.1](https://nextjs.org/blog/next-11-1)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
