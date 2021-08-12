@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 12 - [Touted as clean, ‘blue’ hydrogen may be worse than gas, coal](https://onlinelibrary.wiley.com/doi/10.1002/ese3.956)
 - Aug 12 - [The pain and aguish of using IndexedDB: problems, bugs and oddities](https://gist.github.com/pesterhazy/4de96193af89a6dd5ce682ce2adff49a)
 - Aug 12 - [GitHub: Git password authentication is shutting down](https://github.blog/changelog/2021-08-12-git-password-authentication-is-shutting-down/)
-- Aug 12 - [The future of long-haul trucking in Europe is electric](https://www.transportenvironment.org/newsroom/blog/why-future-long-haul-trucking-electric)
+- Aug 12 - [The Deceptive PR Behind Apple’s “Expanded Protections for Children”](https://piotr.is/2021/08/12/apple-csam/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
