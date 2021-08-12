@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 12 - [A Limitlessly Scalable Transaction System](https://arxiv.org/abs/2108.05236)
+- Aug 12 - [Original source code of various Commodore computers and peripherals](https://github.com/mist64/cbmsrc)
 - Aug 12 - [Commodore 64 BASIC and KERNAL on Atari 8-bit hardware](https://github.com/unbibium/atari64)
 - Aug 12 - [Internet of Snitches](https://puri.sm/posts/internet-of-snitches/)
 - Aug 12 - [Contract by Email](https://writing.kemitchell.com/2021/08/12/Contract-by-E-Mail.html)
-- Aug 12 - [CoinTracker (YC W18) is hiring to make cryptocurrency accessible](https://www.cointracker.io/about)
-- Aug 12 - [Activist raided by London police after downloading docs from Google](https://www.theregister.com/2021/08/10/police_raid_man_for_downloading_google_search_docs/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
