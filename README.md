@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 12 - [AMD's Secure Processor (AMD-SP) susceptible to voltage fault injection attacks](https://arxiv.org/abs/2108.04575)
-- Aug 12 - [Wireless Earbuds Charge Themselves](https://hackaday.com/2021/08/11/wireless-earbuds-charge-themselves/)
 - Aug 12 - [Enso (YC S21) is hiring a senior Rust/WebGL developer](https://www.ycombinator.com/companies/enso/jobs/5AhkHFF-senior-rust-developer)
 - Aug 12 - [Climate change: Curbing methane emissions will 'buy us time'](https://www.bbc.co.uk/news/science-environment-58174111)
 - Aug 12 - [NodeJS security cheat sheet](https://cheatsheetseries.owasp.org/cheatsheets/Nodejs_Security_Cheat_Sheet.html)
+- Aug 12 - [For programmers, remote working is becoming the norm](https://www.economist.com/graphic-detail/2021/08/11/for-programmers-remote-working-is-becoming-the-norm)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
