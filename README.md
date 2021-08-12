@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 12 - [Climate Change as a Biological Accelerator](https://statmodeling.stat.columbia.edu/2021/08/12/climate-change-as-a-biological-accelerator/)
+- Aug 12 - [Commodore 64 BASIC and KERNAL on Atari 8-bit hardware](https://github.com/unbibium/atari64)
+- Aug 12 - [Internet of Snitches](https://puri.sm/posts/internet-of-snitches/)
 - Aug 12 - [Contract by Email](https://writing.kemitchell.com/2021/08/12/Contract-by-E-Mail.html)
 - Aug 12 - [CoinTracker (YC W18) is hiring to make cryptocurrency accessible](https://www.cointracker.io/about)
-- Aug 12 - [Google search led to arrest of cleared campaigner](https://www.bbc.co.uk/news/technology-58165478)
-- Aug 12 - [Pigiron, a MIDI Routing Utility with OSC](https://github.com/plewto/Pigiron)
-- Aug 12 - [What if a deadly heatwave hit India?](https://www.economist.com/what-if/2021/07/03/what-if-a-deadly-heat-wave-hit-india)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
