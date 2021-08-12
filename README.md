@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 12 - [The most vaccine-hesitant group of all? PhDs](https://unherd.com/thepost/the-most-vaccine-hesitant-education-group-of-all-phds/)
 - Aug 12 - [The bug which lost more than $600m in various crypto currencies a few hours ago](https://twitter.com/simonw/status/1425333588610801667)
 - Aug 12 - [Fault Injection Attacks Against AMD's Secure Encrypted Virtualization](https://arxiv.org/abs/2108.04575)
 - Aug 12 - [Assembler CSS, a modern utility-first framework](https://asmcss.com/)
 - Aug 12 - [Enso (YC S21) is hiring a senior Rust/WebGL developer](https://www.ycombinator.com/companies/enso/jobs/5AhkHFF-senior-rust-developer)
-- Aug 12 - [NodeJS security cheat sheet](https://cheatsheetseries.owasp.org/cheatsheets/Nodejs_Security_Cheat_Sheet.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
