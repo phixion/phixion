@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 12 - [Apple's child protection features spark concern within its own ranks -sources](https://www.reuters.com/technology/exclusive-apples-child-protection-features-spark-concern-within-its-own-ranks-2021-08-12/)
+- Aug 12 - [EU looking into new possible side-effects of mRNA Covid-19 shots](https://www.reuters.com/business/healthcare-pharmaceuticals/eu-drugs-regulator-looking-new-possible-side-effects-mrna-vaccines-2021-08-11/)
 - Aug 12 - [Nvidia’s “Kitchen” Keynote was faked (rendered) and nobody noticed](https://blogs.nvidia.com/blog/2021/08/11/omniverse-making-of-gtc/)
 - Aug 12 - [C++ Exceptions: Under the Hood](https://monkeywritescode.blogspot.com/p/c-exceptions-under-hood.html)
 - Aug 12 - [Coursedog (YC W19) Is Hiring a VP of Engineering](https://news.ycombinator.com/item?id=28161397)
-- Aug 12 - [Touted as clean, ‘blue’ hydrogen may be worse than gas, coal](https://onlinelibrary.wiley.com/doi/10.1002/ese3.956)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
