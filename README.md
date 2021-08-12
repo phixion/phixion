@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 12 - [Reddit Is Valued at More Than $10B in Latest Funding Round](https://www.nytimes.com/2021/08/12/technology/reddit-new-funding.html)
+- Aug 12 - [Mike Lindell's “packet captures” are garbage data provided by serial con-man](https://www.washingtontimes.com/news/2021/aug/11/mike-lindells-lead-cyber-expert-says-they-cant-pro/)
 - Aug 12 - [A Future for SQL on the Web](https://jlongster.com/future-sql-web)
+- Aug 12 - [“Your 4th annual reminder of Uber missing this goal.” – Emil Michael](https://twitter.com/emilmichael/status/1425122075161899011)
 - Aug 12 - [Ask HN: It's 2021 and QuickTime still doesn't export MP4. What is going on?](https://news.ycombinator.com/item?id=28156678)
-- Aug 12 - [Tesla Valve](https://en.wikipedia.org/wiki/Tesla_valve)
-- Aug 12 - [Launch YC S21: Meet the Batch, Thread #6](https://news.ycombinator.com/item?id=28156460)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
