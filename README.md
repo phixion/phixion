@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 12 - [Quality and Effort – Seth's Blog](https://seths.blog/2018/11/quality-and-effort/)
-- Aug 12 - [We’re All Investors Now](http://lackingambition.com/?p=1451)
-- Aug 12 - [Germany arrests British diplomat suspected of spying for Russia](https://www.bbc.co.uk/news/world-europe-58170872)
+- Aug 12 - [I'm the guy who bought 259684 BTC for under $3000 yesterday](https://web.archive.org/web/20110716064544/https://forum.bitcoin.org/index.php?topic=20207.0)
+- Aug 12 - [Mosh: The Mobile Shell](https://mosh.org)
+- Aug 12 - [Quality and Effort (2018)](https://seths.blog/2018/11/quality-and-effort/)
+- Aug 12 - [We’re All Investors Now (2013)](http://lackingambition.com/?p=1451)
 - Aug 11 - [Open-source Dropbox client, with multi-account, no-device-limit and M1 support](https://github.com/SamSchott/maestral)
-- Aug 11 - [The metaverse is a dystopian nightmare – let’s build a better reality](https://nianticlabs.com/blog/real-world-metaverse/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
