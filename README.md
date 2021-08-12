@@ -35,9 +35,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 12 - [The American diversity meat grinder](https://www.thepullrequest.com/p/the-american-diversity-meat-grinder)
-- Aug 12 - [Why the future of long-haul trucking is electric](https://www.transportenvironment.org/newsroom/blog/why-future-long-haul-trucking-electric)
-- Aug 12 - [‘A Kleptocrat’s dream’: US real estate a safe haven for billions in dirty money](https://www.icij.org/investigations/fincen-files/a-kleptocrats-dream-us-real-estate-a-safe-haven-for-billions-in-dirty-money-report-says)
+- Aug 12 - [The future of long-haul trucking in Europe is electric](https://www.transportenvironment.org/newsroom/blog/why-future-long-haul-trucking-electric)
+- Aug 12 - [The Deceptive PR Behind Apple’s “Expanded Protections for Children”](https://piotr.is/2021/08/12/apple-csam/)
+- Aug 12 - [US real estate a safe haven for billions in dirty money, report says](https://www.icij.org/investigations/fincen-files/a-kleptocrats-dream-us-real-estate-a-safe-haven-for-billions-in-dirty-money-report-says)
 - Aug 12 - [Reebok Sold for $2.5B](https://www.reuters.com/business/adidas-sells-reebok-authentic-brands-25-bln-2021-08-12/)
 - Aug 12 - [A Limitlessly Scalable Transaction System](https://arxiv.org/abs/2108.05236)
 <!--END_SECTION:hn-->
