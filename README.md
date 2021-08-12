@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Aug 12 - [A Limitlessly Scalable Transaction System](https://arxiv.org/abs/2108.05236)
 - Aug 12 - [Original source code of various Commodore computers and peripherals](https://github.com/mist64/cbmsrc)
+- Aug 12 - [US Forces Being “Rushed” to Kabul Airport as Embassy Evacuation Underway](https://twitter.com/AdityaRajKaul/status/1425880902756757511)
+- Aug 12 - [Police Misuse of Facial Recognition – Three Wrongful Arrests and Counting](https://www.skynettoday.com/briefs/wrongful-arrests)
 - Aug 12 - [Commodore 64 BASIC and KERNAL on Atari 8-bit hardware](https://github.com/unbibium/atari64)
-- Aug 12 - [Internet of Snitches](https://puri.sm/posts/internet-of-snitches/)
-- Aug 12 - [Contract by Email](https://writing.kemitchell.com/2021/08/12/Contract-by-E-Mail.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
