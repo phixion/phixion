@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 12 - [Why the future of long-haul trucking is electric](https://www.transportenvironment.org/newsroom/blog/why-future-long-haul-trucking-electric)
+- Aug 12 - [‘A Kleptocrat’s dream’: US real estate a safe haven for billions in dirty money](https://www.icij.org/investigations/fincen-files/a-kleptocrats-dream-us-real-estate-a-safe-haven-for-billions-in-dirty-money-report-says)
+- Aug 12 - [Reebok Sold for $2.5B](https://www.reuters.com/business/adidas-sells-reebok-authentic-brands-25-bln-2021-08-12/)
 - Aug 12 - [A Limitlessly Scalable Transaction System](https://arxiv.org/abs/2108.05236)
 - Aug 12 - [Original source code of various Commodore computers and peripherals](https://github.com/mist64/cbmsrc)
-- Aug 12 - [US Forces Being “Rushed” to Kabul Airport as Embassy Evacuation Underway](https://twitter.com/AdityaRajKaul/status/1425880902756757511)
-- Aug 12 - [Police Misuse of Facial Recognition – Three Wrongful Arrests and Counting](https://www.skynettoday.com/briefs/wrongful-arrests)
-- Aug 12 - [Commodore 64 BASIC and KERNAL on Atari 8-bit hardware](https://github.com/unbibium/atari64)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
