@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 12 - [CoinTracker (YC W18) is hiring to make cryptocurrency accessible](https://www.cointracker.io/about)
+- Aug 12 - [Pigiron, a MIDI Routing Utility with OSC](https://github.com/plewto/Pigiron)
+- Aug 12 - [Overthinking](https://kerkour.com/blog/overthinking/)
+- Aug 12 - [There’s a crack in the iPhone foundation and it could get a lot worse](https://www.macworld.com/article/353003/apples-new-csam-feature-is-a-crack-in-the-wall.html/)
 - Aug 12 - [Balena Etcher Pro – Fast write to multiple cards or USB disks at once](https://www.balena.io/etcher/pro/)
-- Aug 12 - [Packaging Con 2021: a conference for package management devs and communities](https://packaging-con.org/)
-- Aug 12 - [China releases a five-year regulation blueprint for broader crackdown](https://www.bloombergquint.com/global-economics/china-signals-regulatory-crackdown-will-deepen-in-long-push)
-- Aug 12 - [Fishdraw: Procedurally Generated Fish Drawings](https://fishdraw.glitch.me/)
-- Aug 12 - [Tether minted most USDT to just 2 firms – Alameda and Cumberland](https://protos.com/tether-minted-usdt-stablecoin-crypto-two-alameda-cumberland/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
