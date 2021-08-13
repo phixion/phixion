@@ -48,7 +48,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/activity.yml
 -->
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#95](https://github.com/rithvikvibhu/GHLocalApi/issues/95) in [rithvikvibhu/GHLocalApi](https://github.com/rithvikvibhu/GHLocalApi)
+1. 🗣 Commented on [#95](https://github.com/rithvikvibhu/GHLocalApi/issues/95) in [rithvikvibhu/GHLocalApi](https://github.com/rithvikvibhu/GHLocalApi)
 2. 🗣 Commented on [#4027](https://github.com/keybase/keybase-issues/issues/4027) in [keybase/keybase-issues](https://github.com/keybase/keybase-issues)
 3. 🗣 Commented on [#155](https://github.com/hassio-addons/addon-tautulli/issues/155) in [hassio-addons/addon-tautulli](https://github.com/hassio-addons/addon-tautulli)
 4. 🗣 Commented on [#155](https://github.com/hassio-addons/addon-tautulli/issues/155) in [hassio-addons/addon-tautulli](https://github.com/hassio-addons/addon-tautulli)
