@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 13 - [Dover (YC S19) just raised $20m and is hiring for all roles](https://dover.com/careers)
-- Aug 13 - [July 2021 Was the Warmest July on Record for the Globe](https://www.ncei.noaa.gov/news/global-climate-202107)
+- Aug 13 - [July 2021 was the warmest July on record for the globe](https://www.ncei.noaa.gov/news/global-climate-202107)
+- Aug 13 - [Abandoned Motorola Headquarters (2020)](https://www.abandonedspaces.com/industry/motorola.html)
+- Aug 13 - [Masking Emotions: Face Masks Impair How We Read Emotions](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.669432/full)
 - Aug 13 - [Hackers detail vulnerabilities at agtech giants John Deere, Case New Holland](https://www.vice.com/en/article/z3xkdy/hackers-uncover-weaknesses-in-agriculture-giants-systems)
-- Aug 13 - [WinCompose – A Compose Key for Windows](https://github.com/samhocevar/wincompose)
-- Aug 13 - [Co-founder of Snopes was writing plagiarized articles under a fake name](https://www.buzzfeednews.com/article/deansterlingjones/snopes-cofounder-plagiarism-mikkelson)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
