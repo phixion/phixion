@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Aug 13 - [Tests Show All Driver Assist Systems Can Be Fooled, Not Just Tesla](https://jalopnik.com/tests-show-all-driver-assist-systems-can-be-fooled-not-1847474485)
 - Aug 13 - [Little kids burn so much energy, they’re like a different species, study finds](https://www.sciencemag.org/news/2021/08/little-kids-burn-so-much-energy-they-re-different-species-study-finds)
-- Aug 13 - [AstraZeneca Scientist Says Delta Variant Makes Herd Immunity Impossible](https://www.businessinsider.com/delta-variant-made-herd-immunity-not-possible-astrazeneca-developer-2021-8)
 - Aug 13 - [PlayCover: Run iOS apps and games on the M1 Mac](https://github.com/Letscoder/PlayCover)
 - Aug 13 - [Unfuck: A utility for deobfuscating Python 2.7 bytecode](https://github.com/landaire/unfuck)
+- Aug 12 - [2020 Census Statistics Highlight Local Population Changes](https://www.census.gov/newsroom/press-releases/2021/population-changes-nations-diversity.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
