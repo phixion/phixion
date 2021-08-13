@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 13 - [U.S. Asks Taliban to Spare Its Embassy in Coming Fight for Kabul](https://www.nytimes.com/2021/08/12/us/politics/taliban-afghanistan-us-embassy.html)
+- Aug 13 - [Launch HN: Iona Mind (YC S21) – App-based cognitive behavioural therapy](https://news.ycombinator.com/item?id=28168336)
+- Aug 13 - [Twitch Finally Gets Around to Letting Banned Streamers Know Why They Were Banned](https://www.techdirt.com/articles/20210811/11382447343/twitch-finally-gets-around-to-letting-banned-streamers-know-why-they-were-banned.shtml)
 - Aug 13 - [The Perl Foundation faces more departures](https://www.theregister.com/2021/08/13/perl_resignations/)
 - Aug 13 - [Big Tech Is Coming to Small-Town America, but at What Cost?](https://time.com/6085525/big-tech-data-centers/)
-- Aug 13 - [Illinois Is the First State to Have High Schools Teach News Literacy](https://www.npr.org/2021/08/12/1026993142/illinois-is-the-first-state-to-have-high-schools-teach-news-literacy)
-- Aug 13 - [GiveCampus (YC S15) hiring senior engineers (US) who care about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- Aug 13 - [A handy guide to cognitive biases](https://en.shortcogs.com/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
