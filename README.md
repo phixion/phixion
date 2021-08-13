@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 13 - [FOSS app removed from the Play Store for linking to the project's website](https://github.com/language-transfer/lt-app/pull/44)
+- Aug 13 - [Apple Regrets Confusion over 'iPhone Scanning'](https://www.bbc.com/news/technology-58206543)
 - Aug 13 - [It’s official: July was Earth’s hottest month on record](https://www.noaa.gov/news/its-official-july-2021-was-earths-hottest-month-on-record)
 - Aug 13 - [Dover (YC S19) just raised $20m and is hiring for all roles](https://dover.com/careers)
 - Aug 13 - [WHO inquiry chief 'had concerns' about lab close to first Covid cases](https://apnews.com/article/entertainment-joe-biden-business-health-coronavirus-pandemic-986f0ff0f97af020de3b4eb3d76b23cd)
-- Aug 13 - [July 2021 was the warmest July on record for the globe](https://www.ncei.noaa.gov/news/global-climate-202107)
-- Aug 13 - [Abandoned Motorola Headquarters (2020)](https://www.abandonedspaces.com/industry/motorola.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
