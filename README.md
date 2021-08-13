@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 13 - [Apple Regrets Confusion over 'iPhone Scanning'](https://www.bbc.com/news/technology-58206543)
 - Aug 13 - [Archaeologists discover 4k-year-old ancient city in Iraqi desert](https://www.theartnewspaper.com/news/archaeologists-discover-4-000-year-old-ancient-city-in-iraqi-desert)
 - Aug 13 - [First step in making programming easier is to be concious of what makes it hard](http://lighttable.com/2014/05/16/pain-we-forgot/)
-- Aug 13 - [Dover (YC S19) just raised $20m and is hiring for all roles](https://dover.com/careers)
+- Aug 13 - [New Anti Anti-Money Laundering Services for Crooks](https://krebsonsecurity.com/2021/08/new-anti-anti-money-laundering-services-for-crooks/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
