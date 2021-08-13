@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 13 - [Show HN: Judo - Build Native App Experiences with No Code](https://www.judo.app/)
+- Aug 13 - [Show HN: Nomad Visa – Working remotely? Explore your visa options](https://nomadvisa.io/)
 - Aug 13 - [AIX Running on Apple's M1](https://twitter.com/astr0baby/status/1425970552552964101)
 - Aug 13 - [Labour market reallocation in the wake of Covid-19](https://voxeu.org/article/labour-market-reallocation-wake-covid-19)
 - Aug 13 - [Dad makes teddies with health conditions to help children with medical disorders](https://inews.co.uk/news/real-life/this-leeds-dad-makes-teddies-with-health-conditions-to-help-children-living-with-medical-disorders-1148392)
-- Aug 13 - [The Secretive, Semi-Illicit World of WhatsApp Mango Importing](https://www.eater.com/22618349/pakistani-mangoes-chaunsa-anwar-ratol-buy-usa-whatsapp-shipping-supply-chain)
-- Aug 13 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
