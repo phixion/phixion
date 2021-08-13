@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 13 - [GiveCampus (YC S15) hiring senior engineers (US) who care about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 - Aug 13 - [A handy guide to cognitive biases](https://en.shortcogs.com/)
+- Aug 13 - [Do not do in code what can be done in infrastructure (2017)](https://rogerjohansson.blog/2017/05/19/do-not-do-in-code-what-can-be-done-in-infrastructure/)
 - Aug 13 - [Show HN: Judo - Build Native App Experiences with No Code](https://www.judo.app/)
 - Aug 13 - [Show HN: Nomad Visa – Working remotely? Explore your visa options](https://nomadvisa.io/)
-- Aug 13 - [Pythonic Monotonic](https://nedbatchelder.com/blog/202108/pythonic_monotonic.html)
-- Aug 13 - [AIX Running on Apple's M1](https://twitter.com/astr0baby/status/1425970552552964101)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
