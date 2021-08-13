@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 13 - [GNU nano is my editor of choice](https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/)
 - Aug 13 - [EasyPost is building the logistics platform for ecommerce](https://www.easypost.com/careers)
 - Aug 13 - [Mozilla tests if 'Firefox/100.0' user agent breaks websites](https://www.bleepingcomputer.com/news/software/mozilla-tests-if-firefox-1000-user-agent-breaks-websites/)
+- Aug 13 - [Nearly 200M in U.S. under heat advisories, warnings as two heat domes form](https://www.axios.com/nearly-200-million-heat-warnings-heat-domes-us-39292523-9387-4024-bd99-aa7499114a13.html)
 - Aug 13 - [FOSS app removed from the Play Store for linking to the project's website](https://github.com/language-transfer/lt-app/pull/44)
-- Aug 13 - [Apple Regrets Confusion over 'iPhone Scanning'](https://www.bbc.com/news/technology-58206543)
-- Aug 13 - [Archaeologists discover 4k-year-old ancient city in Iraqi desert](https://www.theartnewspaper.com/news/archaeologists-discover-4-000-year-old-ancient-city-in-iraqi-desert)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
