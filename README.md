@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 13 - [Show HN: Script to compare Postgres data between two points in time](https://news.ycombinator.com/item?id=28175845)
 - Aug 13 - [After criticism, Apple to only seek abuse images flagged in multiple nations](https://mobile.reuters.com/article/idUSKBN2FE21K)
 - Aug 13 - [GNU nano is my editor of choice](https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/)
 - Aug 13 - [‘Likes’ and ‘shares’ teach people to express more outrage online: study](https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online)
 - Aug 13 - [EasyPost is building the logistics platform for ecommerce](https://www.easypost.com/careers)
-- Aug 13 - [Is the atmosphere an upside down ocean? [pdf]](https://empslocal.ex.ac.uk/people/staff/gv219/talks/trop-therm13.pdf)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
