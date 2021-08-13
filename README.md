@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 13 - [America’s losing battle against diabetes](https://www.reuters.com/investigates/special-report/usa-diabetes-covid/)
+- Aug 13 - [Afghan women forced from banking jobs as Taliban take control](https://www.reuters.com/world/asia-pacific/afghan-women-bankers-forced-roles-taliban-takes-control-2021-08-13/)
 - Aug 13 - [WinCompose – A Compose Key for Windows](https://github.com/samhocevar/wincompose)
 - Aug 13 - [Co-founder of Snopes was writing plagiarized articles under a fake name](https://www.buzzfeednews.com/article/deansterlingjones/snopes-cofounder-plagiarism-mikkelson)
 - Aug 13 - [Trinidadian fishers film ‘half-hearted’ oil spill clean-up](https://www.theguardian.com/environment/2021/aug/13/its-outrageous-trinidadian-fishers-film-half-hearted-oil-spill-clean-up)
-- Aug 13 - [Media glosses over upsides and caveats in IPCC report](https://www.businesslive.co.za/bd/opinion/2021-08-11-bjorn-lomborg-climate-hysterical-media-glosses-over-upsides-and-caveats-in-ipcc-report/)
-- Aug 13 - [Adda as a Way of Life](https://www.bbc.com/travel/article/20210812-adda-the-secret-to-bengali-conviviality)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
