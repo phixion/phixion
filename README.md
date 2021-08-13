@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 13 - [After criticism, Apple to only seek abuse images flagged in multiple nations](https://mobile.reuters.com/article/idUSKBN2FE21K)
+- Aug 13 - [U.S. Embassy in Kabul Tells Staff to Destroy Sensitive Material and Evacuate](https://text.npr.org/1027390545)
+- Aug 13 - [Yale study finds social media ‘likes’ train users to act outraged](https://www.slashgear.com/yale-study-finds-social-media-likes-train-users-to-act-outraged-13686659/)
 - Aug 13 - [GNU nano is my editor of choice](https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/)
 - Aug 13 - [EasyPost is building the logistics platform for ecommerce](https://www.easypost.com/careers)
-- Aug 13 - [Mozilla tests if 'Firefox/100.0' user agent breaks websites](https://www.bleepingcomputer.com/news/software/mozilla-tests-if-firefox-1000-user-agent-breaks-websites/)
-- Aug 13 - [Nearly 200M in U.S. under heat advisories, warnings as two heat domes form](https://www.axios.com/nearly-200-million-heat-warnings-heat-domes-us-39292523-9387-4024-bd99-aa7499114a13.html)
-- Aug 13 - [FOSS app removed from the Play Store for linking to the project's website](https://github.com/language-transfer/lt-app/pull/44)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
