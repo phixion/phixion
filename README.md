@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 13 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
 - Aug 13 - [Cuba’s Bitcoin Revolution](https://bitcoinmagazine.com/culture/cubas-bitcoin-revolution)
 - Aug 13 - [How Private is my VPN?](https://themarkup.org/ask-the-markup/2021/08/12/how-private-is-my-vpn)
-- Aug 13 - [SARS-CoV-2 Lambda variant exhibits higher infectivity and immune resistance](https://www.biorxiv.org/content/10.1101/2021.07.28.454085v1.full)
 - Aug 13 - [The Myths of the Digital Native (2015)](https://www.geeklawblog.com/2015/10/the-myths-of-digital-native-part-1.html)
+- Aug 13 - [PonderNet: Annotated PyTorch Implementation](https://nn.labml.ai/adaptive_computation/ponder_net/index.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
