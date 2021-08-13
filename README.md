@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 13 - [Metabolism peaks at age one and tanks after 60, study finds](https://www.bbc.co.uk/news/health-58186710)
 - Aug 13 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
 - Aug 13 - [Nvidia Reveals Its CEO Was Computer Generated in Keynote Speech](https://www.vice.com/en/article/88nbpa/nvidia-reveals-its-ceo-was-computer-generated-in-keynote-speech)
 - Aug 13 - [Show HN: C programming language extension: Cedro pre-processor](https://sentido-labs.com/en/library/cedro/202106171400/)
 - Aug 13 - [Cuba’s Bitcoin Revolution](https://bitcoinmagazine.com/culture/cubas-bitcoin-revolution)
+- Aug 13 - [The Myths of the Digital Native (2015)](https://www.geeklawblog.com/2015/10/the-myths-of-digital-native-part-1.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
