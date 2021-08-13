@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 13 - [SARS-CoV-2 Lambda variant exhibits higher infectivity and immune resistance](https://www.biorxiv.org/content/10.1101/2021.07.28.454085v1)
 - Aug 13 - [‘It’s outrageous’: Trinidadian fishers film ‘half-hearted’ oil spill clean-up](https://www.theguardian.com/environment/2021/aug/13/its-outrageous-trinidadian-fishers-film-half-hearted-oil-spill-clean-up)
 - Aug 13 - [Adda as a Way of Life](https://www.bbc.com/travel/article/20210812-adda-the-secret-to-bengali-conviviality)
 - Aug 13 - [Launch HN: FirstIgnite (YC S21) – Matching scientists with relevant businesses](https://news.ycombinator.com/item?id=28168813)
 - Aug 13 - [AlgorithmWatch shuts down Instagram monitoring after threats from Facebook](https://algorithmwatch.org/en/instagram-research-shut-down-by-facebook/)
-- Aug 13 - [Innovative hand cranked washing machine ships](https://www.bbc.co.uk/news/uk-england-somerset-58083385)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
