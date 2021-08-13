@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 13 - [The Perl Foundation faces more departures](https://www.theregister.com/2021/08/13/perl_resignations/)
+- Aug 13 - [Big Tech Is Coming to Small-Town America, but at What Cost?](https://time.com/6085525/big-tech-data-centers/)
 - Aug 13 - [Illinois Is the First State to Have High Schools Teach News Literacy](https://www.npr.org/2021/08/12/1026993142/illinois-is-the-first-state-to-have-high-schools-teach-news-literacy)
 - Aug 13 - [GiveCampus (YC S15) hiring senior engineers (US) who care about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 - Aug 13 - [A handy guide to cognitive biases](https://en.shortcogs.com/)
-- Aug 13 - [Do not do in code what can be done in infrastructure (2017)](https://rogerjohansson.blog/2017/05/19/do-not-do-in-code-what-can-be-done-in-infrastructure/)
-- Aug 13 - [Show HN: Judo - Build Native App Experiences with No Code](https://www.judo.app/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
