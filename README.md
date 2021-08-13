@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 13 - [Afghan women forced from banking jobs as Taliban take control](https://www.reuters.com/world/asia-pacific/afghan-women-bankers-forced-roles-taliban-takes-control-2021-08-13/)
+- Aug 13 - [Dover (YC S19) just raised $20m and is hiring for all roles](https://dover.com/careers)
+- Aug 13 - [July 2021 Was the Warmest July on Record for the Globe](https://www.ncei.noaa.gov/news/global-climate-202107)
+- Aug 13 - [Hackers detail vulnerabilities at agtech giants John Deere, Case New Holland](https://www.vice.com/en/article/z3xkdy/hackers-uncover-weaknesses-in-agriculture-giants-systems)
 - Aug 13 - [WinCompose – A Compose Key for Windows](https://github.com/samhocevar/wincompose)
 - Aug 13 - [Co-founder of Snopes was writing plagiarized articles under a fake name](https://www.buzzfeednews.com/article/deansterlingjones/snopes-cofounder-plagiarism-mikkelson)
-- Aug 13 - [Trinidadian fishers film ‘half-hearted’ oil spill clean-up](https://www.theguardian.com/environment/2021/aug/13/its-outrageous-trinidadian-fishers-film-half-hearted-oil-spill-clean-up)
-- Aug 13 - [Adda as a Way of Life](https://www.bbc.com/travel/article/20210812-adda-the-secret-to-bengali-conviviality)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
