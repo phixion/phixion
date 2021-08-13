@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Aug 13 - [Adda as a Way of Life](https://www.bbc.com/travel/article/20210812-adda-the-secret-to-bengali-conviviality)
 - Aug 13 - [Launch HN: FirstIgnite (YC S21) – Matching scientists with relevant businesses](https://news.ycombinator.com/item?id=28168813)
-- Aug 13 - [Infection-enhancing SARS-CoV-2 antibodies recognize original strain and Delta](https://pubmed.ncbi.nlm.nih.gov/34384810/)
 - Aug 13 - [Facebook bullies AlgorithmWatch – Instagram monitoring project](https://algorithmwatch.org/en/instagram-research-shut-down-by-facebook/)
 - Aug 13 - [Innovative hand cranked washing machine ships](https://www.bbc.co.uk/news/uk-england-somerset-58083385)
+- Aug 13 - [Combatting online racist abuse: an update following the Euros](https://blog.twitter.com/en_gb/topics/company/2020/combatting-online-racist-abuse-an-update-following-the-euros)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
