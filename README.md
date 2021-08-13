@@ -36,9 +36,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 13 - [Facebook bullies AlgorithmWatch – Instagram monitoring project](https://algorithmwatch.org/en/instagram-research-shut-down-by-facebook/)
+- Aug 13 - [Innovative hand cranked washing machine ships](https://www.bbc.co.uk/news/uk-england-somerset-58083385)
 - Aug 13 - [Combatting online racist abuse: an update following the Euros](https://blog.twitter.com/en_gb/topics/company/2020/combatting-online-racist-abuse-an-update-following-the-euros)
-- Aug 13 - [U.S. Asks Taliban to Spare Its Embassy in Coming Fight for Kabul](https://www.nytimes.com/2021/08/12/us/politics/taliban-afghanistan-us-embassy.html)
-- Aug 13 - [Interactive Linear Algebra Text Book](http://textbooks.math.gatech.edu/ila/index.html)
+- Aug 13 - [Interactive Linear Algebra (2019)](http://textbooks.math.gatech.edu/ila/index.html)
 - Aug 13 - [Launch HN: Iona Mind (YC S21) – App-based cognitive behavioural therapy](https://news.ycombinator.com/item?id=28168336)
 <!--END_SECTION:hn-->
 
