@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 13 - [Mozilla tests if 'Firefox/100.0' user agent breaks websites](https://www.bleepingcomputer.com/news/software/mozilla-tests-if-firefox-1000-user-agent-breaks-websites/)
 - Aug 13 - [FOSS app removed from the Play Store for linking to the project's website](https://github.com/language-transfer/lt-app/pull/44)
 - Aug 13 - [Apple Regrets Confusion over 'iPhone Scanning'](https://www.bbc.com/news/technology-58206543)
 - Aug 13 - [Archaeologists discover 4k-year-old ancient city in Iraqi desert](https://www.theartnewspaper.com/news/archaeologists-discover-4-000-year-old-ancient-city-in-iraqi-desert)
 - Aug 13 - [First step in making programming easier is to be concious of what makes it hard](http://lighttable.com/2014/05/16/pain-we-forgot/)
-- Aug 13 - [New Anti Anti-Money Laundering Services for Crooks](https://krebsonsecurity.com/2021/08/new-anti-anti-money-laundering-services-for-crooks/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
