@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 13 - [Don’t Panic, but Breakthrough Cases May Be Bigger Problem Than You’ve Been Told](https://nymag.com/intelligencer/2021/08/breakthrough-covid-19-cases-may-be-a-bigger-problem.html)
+- Aug 13 - [PlayCover: Run iOS apps and games on the M1 Mac](https://github.com/Letscoder/PlayCover)
+- Aug 13 - [Unfuck: A utility for deobfuscating Python 2.7 bytecode](https://github.com/landaire/unfuck)
 - Aug 12 - [2020 Census Statistics Highlight Local Population Changes](https://www.census.gov/newsroom/press-releases/2021/population-changes-nations-diversity.html)
-- Aug 12 - [Nearly half of American workers don’t earn enough to afford a one-bedroom (cont)](https://www.theguardian.com/society/2021/aug/12/housing-renter-affordable-data-map)
-- Aug 12 - [Apple's child protection features spark concern within its own ranks -sources](https://www.reuters.com/technology/exclusive-apples-child-protection-features-spark-concern-within-its-own-ranks-2021-08-12/)
-- Aug 12 - [AWS recruiter doesn't want to show what's new out there](https://twitter.com/mistwire/status/1425470775524577282)
-- Aug 12 - [C++ Exceptions: Under the Hood](https://monkeywritescode.blogspot.com/p/c-exceptions-under-hood.html)
+- Aug 12 - [Apple's child protection features spark concern within its own ranks: sources](https://www.reuters.com/technology/exclusive-apples-child-protection-features-spark-concern-within-its-own-ranks-2021-08-12/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
