@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 13 - [July 2021 was the warmest July on record for the globe](https://www.ncei.noaa.gov/news/global-climate-202107)
 - Aug 13 - [Abandoned Motorola Headquarters (2020)](https://www.abandonedspaces.com/industry/motorola.html)
 - Aug 13 - [Masking Emotions: Face Masks Impair How We Read Emotions](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.669432/full)
-- Aug 13 - [Modern SQL](https://winand.at/sql-slides-for-developers)
+- Aug 13 - [Show HN: Instantly Listen to Any URL](https://per.quest/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
