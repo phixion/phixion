@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 13 - [Nvidia Reveals Its CEO Was Computer Generated in Keynote Speech](https://www.vice.com/en/article/88nbpa/nvidia-reveals-its-ceo-was-computer-generated-in-keynote-speech)
 - Aug 13 - [Show HN: C programming language extension: Cedro pre-processor](https://sentido-labs.com/en/library/cedro/202106171400/)
 - Aug 13 - [Cuba’s Bitcoin Revolution](https://bitcoinmagazine.com/culture/cubas-bitcoin-revolution)
-- Aug 13 - [The Myths of the Digital Native (2015)](https://www.geeklawblog.com/2015/10/the-myths-of-digital-native-part-1.html)
+- Aug 13 - [How private is my VPN?](https://themarkup.org/ask-the-markup/2021/08/12/how-private-is-my-vpn)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
