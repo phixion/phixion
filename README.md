@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 13 - [The Secretive, Semi-Illicit World of WhatsApp Mango Importing](https://www.eater.com/22618349/pakistani-mangoes-chaunsa-anwar-ratol-buy-usa-whatsapp-shipping-supply-chain)
 - Aug 13 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
 - Aug 13 - [Nvidia Reveals Its CEO Was Computer Generated in Keynote Speech](https://www.vice.com/en/article/88nbpa/nvidia-reveals-its-ceo-was-computer-generated-in-keynote-speech)
 - Aug 13 - [Show HN: C programming language extension: Cedro pre-processor](https://sentido-labs.com/en/library/cedro/202106171400/)
-- Aug 13 - [Cuba’s Bitcoin Revolution](https://bitcoinmagazine.com/culture/cubas-bitcoin-revolution)
-- Aug 13 - [How private is my VPN?](https://themarkup.org/ask-the-markup/2021/08/12/how-private-is-my-vpn)
+- Aug 13 - [The difference between a=a+b and a+=b in Python](https://pub.towardsai.net/the-difference-between-a-a-b-and-a-b-in-python-a7338d96e408)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
