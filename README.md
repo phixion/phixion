@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 14 - [Unauthorized Publications (New Jersey Department of Corrections) [pdf]](https://www.state.nj.us/corrections/pdf/OffenderPublications/NJDOC%20BANNED%20PUBLICATIONS%20JUNE%202021.pdf)
+- Aug 14 - [Aspartame and cancer – new evidence for causation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8042911/)
 - Aug 14 - [Amazon will monitor workers' keystrokes to 'combat data theft'](https://www.inputmag.com/tech/amazon-will-monitor-workers-keystrokes-to-combat-data-theft-privacy-spying-surveillance)
 - Aug 14 - [Black Hat USA 2021 Review](https://l3ouu4n9.github.io/post/learningnotes/2021-08-13-black-hat-usa-2021-english/)
 - Aug 14 - [Large-Scale Automated Source Code Refactoring with OpenRewrite](https://docs.openrewrite.org/)
-- Aug 14 - [Jury awards Optis $300M in second patent trial against Apple](https://www.reuters.com/technology/jury-awards-optis-300-million-second-patent-trial-against-apple-2021-08-13/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
