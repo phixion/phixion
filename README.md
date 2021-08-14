@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Aug 14 - [Amiga Music Preservation – biggest, most comprehensive Amiga music database](http://www.dascene.net/home.php)
 - Aug 14 - [Is water always the best choice on a hot day?](https://www.bbc.com/future/article/20210802-is-water-always-the-best-choice-on-a-hot-day)
+- Aug 14 - [The Light Phone: Minimal Smartphone](https://www.thelightphone.com/)
 - Aug 14 - [Path (YC S19) is hiring Engineers to automate Gen Z finance](https://www.notion.so/pathfinance/Fullstack-Engineer-Path-YC-S19-ff0fd31fa5d4410dafce77f83403ce0d)
 - Aug 14 - [Ask HN: Is it worth learning Elixir, from a jobs perspective?](https://news.ycombinator.com/item?id=28183901)
-- Aug 14 - [D2X-XL – an OpenGL modification of the classic video game Descent 2](https://www.descent2.de/index.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
