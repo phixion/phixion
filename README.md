@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 14 - [Release Notes for Debian 11](https://www.debian.org/releases/bullseye/amd64/release-notes/)
 - Aug 14 - [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 - Aug 14 - [Thoughts on Lisp and Racket](https://www.macadie.net/2019/08/11/thoughts-on-lisp-and-racket/)
 - Aug 14 - [BPF Isn't Just About Speed (2020)](https://pchaigno.github.io/ebpf/2020/09/29/bpf-isnt-just-about-speed.html)
 - Aug 14 - [Making 100 transistors silicon integrated circuit chips in your garage](https://www.youtube.com/watch?v=IS5ycm7VfXg)
-- Aug 14 - [I didn’t know how to write about my sister’s death–so I had AI do it for me](https://believermag.com/ghosts/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
