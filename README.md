@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 14 - [Making 100 transistors silicon integrated circuit chips in your garage](https://www.youtube.com/watch?v=IS5ycm7VfXg)
+- Aug 14 - [Thousands of Coinbase users now reporting they cannot access their funds](https://twitter.com/CryptoWhale/status/1426394158365921281)
 - Aug 14 - [Costa Rica signs law to attract digital nomads](https://ticotimes.net/2021/08/11/costa-rica-signs-law-to-attract-digital-nomads)
 - Aug 14 - [Not important enough: 1Password abandons its native Mac app](https://sixcolors.com/post/2021/08/not-important-enough-1password-abandons-its-native-mac-app/)
 - Aug 14 - [Scientists find an effective solution for the three-body problem](http://phys.technion.ac.il/en/about/research-bits/on-chaos-drunks-and-a-solution-to-the-chaotic-three-body-problem-the-research-of-yonadav-barry-ginat-and-hagai-perets)
-- Aug 14 - [Software Engineering's Greatest Hits [video]](https://www.youtube.com/watch?v=HrVtA-ue-x0)
-- Aug 14 - [macOS in Svelte](https://macos.vercel.app/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
