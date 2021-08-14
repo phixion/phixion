@@ -36,9 +36,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 14 - [The EU Wants a Universal Mobile Charger, but Apple Doesn’t](https://www.howtogeek.com/748444/the-eu-wants-a-universal-mobile-charger-but-apple-doesnt/)
+- Aug 14 - [AWS adds an extra 5.5M (~10%) IPv4 addresses](https://github.com/seligman/aws-ip-ranges)
 - Aug 14 - [Sydney Residents Will Now Have to Register Their Single Bubble Partner’s Name](https://www.pedestrian.tv/news/greater-sydney-tightenning-restrictions-single-bubbles/)
 - Aug 14 - [Facebook shut down German research on Instagram algorithm](https://www.theverge.com/2021/8/13/22623354/facebook-instagram-algorithm-watch-research-legal-threat)
-- Aug 14 - [Aspartame and cancer – new evidence for causation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8042911/)
 - Aug 14 - [Amazon will monitor workers' keystrokes to 'combat data theft'](https://www.inputmag.com/tech/amazon-will-monitor-workers-keystrokes-to-combat-data-theft-privacy-spying-surveillance)
 <!--END_SECTION:hn-->
 
