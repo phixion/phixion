@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 14 - [Ask HN: My friend made it big. How to handle?](https://news.ycombinator.com/item?id=28179542)
 - Aug 14 - [Thoughts on Lisp and Racket](https://www.macadie.net/2019/08/11/thoughts-on-lisp-and-racket/)
 - Aug 14 - [BPF Isn't Just About Speed (2020)](https://pchaigno.github.io/ebpf/2020/09/29/bpf-isnt-just-about-speed.html)
 - Aug 14 - [Making 100 transistors silicon integrated circuit chips in your garage](https://www.youtube.com/watch?v=IS5ycm7VfXg)
 - Aug 14 - [I didn’t know how to write about my sister’s death–so I had AI do it for me](https://believermag.com/ghosts/)
-- Aug 14 - [Costa Rica signs law to attract digital nomads](https://ticotimes.net/2021/08/11/costa-rica-signs-law-to-attract-digital-nomads)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
