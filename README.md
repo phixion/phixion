@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 14 - [Incels: A new terror threat to the UK?](https://www.bbc.co.uk/news/uk-58207064)
-- Aug 14 - [Show HN: C++ vector type up to 40% faster than std:vector for push_back](https://github.com/keur/virtual_vec)
+- Aug 14 - [Show HN: C++ virtual_vec vector implementation](https://github.com/keur/virtual_vec)
+- Aug 14 - [Make figures and presentations that are friendly to Colorblind people (2002)](https://jfly.uni-koeln.de/color/)
+- Aug 14 - [Templates to help startup founders grow the company after launch](https://www.CORL8.com)
 - Aug 13 - [Sam Zeloof's Upgraded Homemade Silicon IC Fab Process](http://sam.zeloof.xyz/second-ic/)
 - Aug 13 - [Show HN: Script to compare Postgres data between two points in time](https://news.ycombinator.com/item?id=28175845)
-- Aug 13 - [How Actors Work Internally in Swift](https://swiftrocks.com/how-actors-work-internally-in-swift)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
