@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 14 - [Amazon will monitor workers' keystrokes to 'combat data theft'](https://www.inputmag.com/tech/amazon-will-monitor-workers-keystrokes-to-combat-data-theft-privacy-spying-surveillance)
 - Aug 14 - [Black Hat USA 2021 Review](https://l3ouu4n9.github.io/post/learningnotes/2021-08-13-black-hat-usa-2021-english/)
 - Aug 14 - [Large-Scale Automated Source Code Refactoring with OpenRewrite](https://docs.openrewrite.org/)
+- Aug 14 - [Jury awards Optis $300M in second patent trial against Apple](https://www.reuters.com/technology/jury-awards-optis-300-million-second-patent-trial-against-apple-2021-08-13/)
 - Aug 14 - [Show HN: C++ virtual_vec vector implementation](https://github.com/keur/virtual_vec)
-- Aug 14 - [Make figures and presentations that are friendly to Colorblind people (2002)](https://jfly.uni-koeln.de/color/)
-- Aug 13 - [Pfizer, Moderna seen reaping billions from Covid-19 vaccine booster market](https://www.reuters.com/business/healthcare-pharmaceuticals/pfizer-moderna-seen-reaping-billions-covid-19-vaccine-booster-market-2021-08-13/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
