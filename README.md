@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 14 - [Ocean Plastic Emissions by Country](https://ourworldindata.org/ocean-plastics)
 - Aug 14 - [Let's write a compiler, part 1: Introduction, selecting a language, and planning](https://briancallahan.net/blog/20210814.html)
 - Aug 14 - [25 years ago Microsoft released Internet Explorer 3.0, developer talks about it](https://twitter.com/hadip/status/1426587396343099397)
 - Aug 14 - [Aleph (YC S21) Is Hiring a Founding Front End Engineer](https://www.ycombinator.com/companies/aleph/jobs/HshWFAE-founding-frontend-engineer)
 - Aug 14 - [Philippine ethnic group has most Denisovan DNA](https://www.uu.se/en/news/article/?id=17306&typ=artikel&lang=en)
-- Aug 14 - [Nail Your Startup Pitch: Use Pixar's Story Formula to Win over Investors](https://startuppitch.substack.com/p/nail-your-startup-pitch-use-pixars)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
