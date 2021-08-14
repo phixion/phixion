@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 14 - [Thoughts on Lisp and Racket](https://www.macadie.net/2019/08/11/thoughts-on-lisp-and-racket/)
+- Aug 14 - [BPF Isn't Just About Speed (2020)](https://pchaigno.github.io/ebpf/2020/09/29/bpf-isnt-just-about-speed.html)
 - Aug 14 - [Making 100 transistors silicon integrated circuit chips in your garage](https://www.youtube.com/watch?v=IS5ycm7VfXg)
 - Aug 14 - [I didn’t know how to write about my sister’s death–so I had AI do it for me](https://believermag.com/ghosts/)
 - Aug 14 - [Costa Rica signs law to attract digital nomads](https://ticotimes.net/2021/08/11/costa-rica-signs-law-to-attract-digital-nomads)
-- Aug 14 - [Scientists find an effective solution for the three-body problem](http://phys.technion.ac.il/en/about/research-bits/on-chaos-drunks-and-a-solution-to-the-chaotic-three-body-problem-the-research-of-yonadav-barry-ginat-and-hagai-perets)
-- Aug 14 - [Software Engineering's Greatest Hits [video]](https://www.youtube.com/watch?v=HrVtA-ue-x0)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
