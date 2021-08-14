@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 14 - [The Perl Foundation is fragmenting over Code of Conduct enforcement](https://arstechnica.com/gadgets/2021/08/the-perl-foundation-is-fragmenting-over-code-of-conduct-enforcement/)
+- Aug 14 - [Solving the double (quintuple) declaration Problem in GraphQL Applications](https://wundergraph.com/blog/solving_the_double_quintuple_declaration_problem_in_graphql_applications_how_to_not_repeat_yourself)
 - Aug 14 - [Volkswagen detects when tests run in a CI server, and makes them pass (2018)](https://github.com/auchenberg/volkswagen)
 - Aug 14 - [M 7.2 Earthquake 12 km NE of Saint-Louis du Sud, Haiti](https://earthquake.usgs.gov/earthquakes/eventpage/us6000f65h/executive)
-- Aug 14 - [Asahi Linux for Apple M1 progress report, August 2021](https://asahilinux.org/2021/08/progress-report-august-2021/)
-- Aug 14 - [Debian 11](https://www.debian.org/releases/bullseye/amd64/release-notes/)
+- Aug 14 - [Pitfalls of rolling your own E2EE protocol](https://pwn.recipes/posts/roll-your-own-e2ee-protocol/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
