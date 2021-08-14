@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 14 - [Scientists find an effective solution for the three-body problem](http://phys.technion.ac.il/en/about/research-bits/on-chaos-drunks-and-a-solution-to-the-chaotic-three-body-problem-the-research-of-yonadav-barry-ginat-and-hagai-perets)
+- Aug 14 - [Software Engineering's Greatest Hits [video]](https://www.youtube.com/watch?v=HrVtA-ue-x0)
 - Aug 14 - [macOS in Svelte](https://macos.vercel.app/)
 - Aug 14 - [AWS adds an extra 5.5M IPv4 addresses](https://github.com/seligman/aws-ip-ranges)
 - Aug 14 - [Facebook shut down German research on Instagram algorithm](https://www.theverge.com/2021/8/13/22623354/facebook-instagram-algorithm-watch-research-legal-threat)
-- Aug 14 - [Amazon will monitor workers' keystrokes to 'combat data theft'](https://www.inputmag.com/tech/amazon-will-monitor-workers-keystrokes-to-combat-data-theft-privacy-spying-surveillance)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
