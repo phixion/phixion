@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 14 - [Philippine ethnic group has most Denisovan DNA](https://www.uu.se/en/news/article/?id=17306&typ=artikel&lang=en)
 - Aug 14 - [Nail Your Startup Pitch: Use Pixar's Story Formula to Win over Investors](https://startuppitch.substack.com/p/nail-your-startup-pitch-use-pixars)
 - Aug 14 - [Closing 45% of the open Emacs bugs](https://lars.ingebrigtsen.no/2021/08/14/10x10/)
-- Aug 14 - [Computer Models of Civilization Offer Routes to Ending Global Warming](https://www.npr.org/2021/08/14/1027370891/climate-change-solutions-global-warming-computer-models-paris)
+- Aug 14 - [Solving the double (quintuple) declaration Problem in GraphQL Applications](https://wundergraph.com/blog/solving_the_double_quintuple_declaration_problem_in_graphql_applications_how_to_not_repeat_yourself)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
