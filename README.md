@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 14 - [Incels: A new terror threat to the UK?](https://www.bbc.co.uk/news/uk-58207064)
+- Aug 14 - [Show HN: C++ vector type up to 40% faster than std:vector for push_back](https://github.com/keur/virtual_vec)
+- Aug 13 - [Sam Zeloof's Upgraded Homemade Silicon IC Fab Process](http://sam.zeloof.xyz/second-ic/)
 - Aug 13 - [Show HN: Script to compare Postgres data between two points in time](https://news.ycombinator.com/item?id=28175845)
 - Aug 13 - [How Actors Work Internally in Swift](https://swiftrocks.com/how-actors-work-internally-in-swift)
-- Aug 13 - [After criticism, Apple to only seek abuse images flagged in multiple nations](https://mobile.reuters.com/article/idUSKBN2FE21K)
-- Aug 13 - [GNU nano is my editor of choice](https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/)
-- Aug 13 - [‘Likes’ and ‘shares’ teach people to express more outrage online: study](https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
