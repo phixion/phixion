@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 15 - [Sri Lankan teenager builds solar-powered tuk-tuk from scraps [video]](https://www.bbc.co.uk/news/av/world-asia-58192468)
+- Aug 15 - [Show HN: Burst – start a cloud server, run your code, turn it off](https://burstable.ai)
+- Aug 15 - [I tested Copilot in an existing open-source codebase with unit tests [video]](https://www.youtube.com/watch?v=jvJTpGedb9g)
+- Aug 15 - [OpenAI's Codex as a Chrome Extension (it has memorized HN's DOM structure)](https://twitter.com/tectonic/status/1426980192317177859)
 - Aug 15 - [Programming Idioms](https://programming-idioms.org/)
-- Aug 15 - [Why query planning for streaming systems is hard](https://scattered-thoughts.net/writing/why-query-planning-for-streaming-systems-is-hard)
-- Aug 15 - [Google infringed on five Sonos patents, according to preliminary ruling](https://techcrunch.com/2021/08/13/google-infringed-on-five-sonos-patents-according-to-preliminary-ruling/)
-- Aug 15 - [LinuxPhoneApps](https://alpha.linuxphoneapps.org/)
-- Aug 15 - [Firefox 91 – Revert back to old tab style](https://superuser.com/a/1669549/9067)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
