@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 15 - [India Is Leading IPv6 Migration with 61.67% Adoption](https://www.aelius.com/njh/google-ipv6/)
+- Aug 15 - [The success of Aubrey de Grey baffles me](https://freethoughtblogs.com/pharyngula/2021/08/14/the-success-of-aubrey-de-grey-baffles-me/)
 - Aug 15 - [California's dry season is turning into a permanent state of being](https://phys.org/news/2021-08-california-season-permanent-state.html)
 - Aug 15 - [How can I get this 8 year old VBA 64-bit compiler bug fixed?](https://stackoverflow.com/questions/68034271/how-can-i-get-this-8-year-old-vba-64-bit-compiler-bug-fixed)
 - Aug 15 - [Pachyderm (YC W15) Is Hiring a Senior Front End Engineer and DevOps](https://www.pachyderm.com/careers/)
-- Aug 15 - [Plasma Kinetics May Revolutionize Hydrogen Storage for EVs](https://www.autoevolution.com/news/plasma-kinetics-may-revolutionize-hydrogen-storage-for-evs-167256.html)
-- Aug 15 - [Porn Spam on Google Maps](https://shkspr.mobi/blog/2021/08/porn-spam-on-google-maps/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
