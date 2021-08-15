@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 15 - [Afghan president flees the country as Taliban move on Kabul](https://apnews.com/article/afghanistan-taliban-kabul-bagram-e1ed33fe0c665ee67ba132c51b8e32a5)
+- Aug 15 - [React Renderer for Three.js](https://github.com/pmndrs/react-three-fiber)
+- Aug 15 - [The Case for Optimism](https://www.warpnews.org/premium-content/kevin-kelly-the-case-for-optimism/)
+- Aug 15 - [Facebook shouldn't be allowed to buy Giphy, says UK regulator](https://www.theverge.com/2021/8/12/22621957/facebook-giphy-deal-blocked-uk-regulator)
 - Aug 15 - [Welcome to Nestflix](https://nestflix.fun/)
 - Aug 15 - [Asteroid Bennu now has a greater chance of hitting Earth through 2300](https://edition.cnn.com/2021/08/11/world/nasa-osiris-rex-impact-study-scn/index.html)
-- Aug 15 - [Why Economists Don’t Write More Papers on Political Finance](https://www.nakedcapitalism.com/2021/08/why-economists-dont-write-more-papers-on-political-finance.html)
-- Aug 15 - [Why Is Learning Functional Programming So Damned Hard? (2019)](https://cscalfani.medium.com/why-is-learning-functional-programming-so-damned-hard-bfd00202a7d1)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
