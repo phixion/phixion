@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 15 - [Sri Lankan teenager builds solar-powered tuk-tuk from scraps](https://www.bbc.com/news/av/world-asia-58192468)
+- Aug 15 - [US helicopters evacuate embassy as the Taliban advances on Kabul](https://www.smh.com.au/world/middle-east/taliban-approach-kabuls-outskirts-attack-north-afghan-city-20210814-p58isx.html)
+- Aug 15 - [Exploring JVS, the standard used by most arcade games since the late 90s](http://www.mistys-internet.website/blog/blog/2021/08/14/exploring-jvs/)
 - Aug 15 - [‘Ten years ago this was science fiction’: the rise of weedkilling robots](https://www.theguardian.com/environment/2021/aug/14/weedkilling-robots-farming-pesticide-use-sustainable)
-- Aug 15 - [Why Everything We Thought About Drugs Was Wrong](https://michaelshellenberger.substack.com/p/why-everything-we-thought-about-drugs)
 - Aug 15 - [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
-- Aug 15 - [Lenovo Selling Linux Laptops Directly in the US](https://www.lenovo.com/us/en/d/linux-laptops-desktops?sort=sortBy&currentResultsLayoutType=grid)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
