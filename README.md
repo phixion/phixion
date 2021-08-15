@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 15 - [Reining in the thundering herd: Getting to 80% CPU utilization with Django](https://blog.clubhouse.com/reining-in-the-thundering-herd-with-django-and-gunicorn/)
 - Aug 15 - [Amazon's Palm Print Recognition System Raises Concern Among US Senators](https://gadgets.ndtv.com/others/news/amazon-one-palm-print-recognition-biometric-system-whole-foods-seattle-us-senators-2510485)
 - Aug 15 - [Substack Is Hiring Eng Managers to Build a Better Business Model for Writing](https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7?utm_source=hn&utm_content=eng)
-- Aug 15 - [React Renderer for Three.js](https://github.com/pmndrs/react-three-fiber)
-- Aug 15 - [The Case for Optimism](https://www.warpnews.org/premium-content/kevin-kelly-the-case-for-optimism/)
+- Aug 15 - [Wigner Crystals](https://johncarlosbaez.wordpress.com/2017/12/07/wigner-crystals/)
+- Aug 15 - [Construction, Efficiency, and Production Systems](https://constructionphysics.substack.com/p/construction-efficiency-and-production)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
