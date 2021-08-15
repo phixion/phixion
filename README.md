@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 15 - [What can be learned from studying long gone development practices?](https://shape-of-code.coding-guidelines.com/2021/08/01/what-can-be-learned-from-studying-long-gone-development-practices/)
 - Aug 15 - [The Bullshit](https://walterkirn.substack.com/p/the-bullshit)
 - Aug 15 - [The best books on assassinations](https://fivebooks.com/best-books/assassination-michael-burleigh/)
 - Aug 15 - [Sri Lankan teenager builds solar-powered tuk-tuk from scraps [video]](https://www.bbc.co.uk/news/av/world-asia-58192468)
 - Aug 15 - [Sea snakes are washing up on New Zealand’s shores](https://www.theguardian.com/world/2021/aug/14/case-of-the-mystery-sea-snakes-why-are-reptiles-washing-up-on-new-zealands-shores)
-- Aug 15 - [Show HN: Burst – start a cloud server, run your code, turn it off](https://burstable.ai)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
