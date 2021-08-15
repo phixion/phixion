@@ -1,8 +1,7 @@
 name: github activity
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "*/1 * * * *"
+    - cron: "*/15 * * * *"
 jobs:
   build:
     runs-on: ubuntu-latest
