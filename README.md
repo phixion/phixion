@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Aug 15 - [Introducing the PineNote](https://www.pine64.org/2021/08/15/introducing-the-pinenote/)
 - Aug 15 - [CIA mocked from all sides over new ‘woke’ recruitment video](https://www.independent.co.uk/news/world/americas/cia-recruitment-video-backlash-wokeness-b1841656.html)
+- Aug 15 - [Official says Taliban to declare Islamic Emirate](https://apnews.com/article/afghanistan-kabul-taliban-1794266cda1492f4128363572bc2cff6)
+- Aug 15 - [How the Taliban Overran the Afghan Army, Built by the U.S. over 20 Years](https://www.wsj.com/articles/afghanistan-army-collapse-taliban-11628958253)
 - Aug 15 - [Afghan President Ghani relinquishes power, Taliban form interim gov't](https://www.dailysabah.com/world/asia-pacific/afghan-president-ghani-relinquishes-power-taliban-form-interim-govt)
-- Aug 15 - [Bottled water is 3,500 times worse for the environment than tap water](https://www.euronews.com/green/2021/08/05/bottled-water-is-3-500-times-worse-for-the-environment-than-tap-water-say-scientists)
-- Aug 15 - [Reining in the thundering herd: Getting to 80% CPU utilization with Django](https://blog.clubhouse.com/reining-in-the-thundering-herd-with-django-and-gunicorn/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
