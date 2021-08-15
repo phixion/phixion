@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 15 - [There's currently a British guy called Lord Miles in Kabul having a great time](https://twitter.com/Rimmy_Downunder/status/1426893151516512257)
+- Aug 15 - [Asteroid Bennu now has a greater chance of hitting Earth through 2300](https://edition.cnn.com/2021/08/11/world/nasa-osiris-rex-impact-study-scn/index.html)
+- Aug 15 - [Why Economists Don’t Write More Papers on Political Finance](https://www.nakedcapitalism.com/2021/08/why-economists-dont-write-more-papers-on-political-finance.html)
 - Aug 15 - [Why Is Learning Functional Programming So Damned Hard? (2019)](https://cscalfani.medium.com/why-is-learning-functional-programming-so-damned-hard-bfd00202a7d1)
 - Aug 15 - [Getting Started with QEMU (2018)](https://drewdevault.com/2018/09/10/Getting-started-with-qemu.html)
-- Aug 15 - [South Park creators say they’ve reached agreement to buy Casa Bonita](https://krdo.com/news/2021/08/13/south-park-creators-say-theyve-reached-agreement-to-buy-casa-bonita/)
-- Aug 15 - [India is leading IPv6 migration with 61.67% adoption](https://www.aelius.com/njh/google-ipv6/)
-- Aug 15 - [How smallpox claimed its final victim](https://www.bbc.com/news/uk-england-birmingham-45101091)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
