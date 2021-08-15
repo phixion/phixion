@@ -35,10 +35,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 15 - [Cornell University – Important updates for faculty and instructional staff](https://covid.cornell.edu/updates/20210811-start-of-semester.cfm)
 - Aug 15 - [Paperspace (YC W15) is hiring developers to build the future of MLOps](https://www.paperspace.com/careers)
 - Aug 15 - [T-Mobile investigating claims of 100M customer data breach](https://www.reuters.com/article/t-mobile-us-data/update-1-t-mobile-investigating-claims-of-customer-data-breach-idUSL1N2PM0K7)
 - Aug 15 - [How to prevent email spoofing, using an unholy combination of silly standards](https://simonandrews.ca/articles/how-to-set-up-spf-dkim-dmarc)
-- Aug 15 - [What domain name to use for your home network](https://www.ctrl.blog/entry/homenet-domain-name.html)
 - Aug 15 - [An anonymous hacker reverse engineered my E2EE](https://www.groupsapp.online/post/improved-e2e-encryption)
 <!--END_SECTION:hn-->
 
