@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 15 - [Pachyderm (YC W15) Is Hiring a Senior Front End Engineer and DevOps](https://www.pachyderm.com/careers/)
+- Aug 15 - [Porn Spam on Google Maps](https://shkspr.mobi/blog/2021/08/porn-spam-on-google-maps/)
+- Aug 15 - [NASA boosts impact risk from 'potentially hazardous' asteroid Bennui](https://news.yahoo.com/nasa-boosts-impact-risk-potentially-220546594.html)
 - Aug 15 - [Today I made one of the most important discoveries of my PhD](https://twitter.com/astro_katross/status/1425794227988877322)
-- Aug 15 - [This looks to be the first major confirmed orbital collision in a decade](https://twitter.com/planet4589/status/1426774988812587008)
-- Aug 15 - [MeiliSearch: A Minimalist Full-Text Search Engine](https://tech.marksblogg.com/meilisearch-full-text-search.html)
-- Aug 15 - [Debian 11 “Bullseye” Released](https://www.debian.org/News/2021/20210814)
-- Aug 15 - [The rise of the one-person unicorn](https://www.nothingventured.com/the-rise-of-the-one-person-unicorn/)
+- Aug 15 - [Afghanistan Meant Nothing: A Veteran Reflects on 20 Wasted Years](https://laurajedeed.medium.com/afghanistan-meant-nothing-9e3f099b00e5)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
