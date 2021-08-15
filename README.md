@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 15 - [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
+- Aug 15 - [Lenovo Selling Linux Laptops Directly in the US](https://www.lenovo.com/us/en/d/linux-laptops-desktops?sort=sortBy&currentResultsLayoutType=grid)
 - Aug 15 - [SoundStream: An End-to-End Neural Audio Codec](http://ai.googleblog.com/2021/08/soundstream-end-to-end-neural-audio.html)
 - Aug 15 - [Cap'n Proto 0.9](https://capnproto.org/news/2021-08-14-capnproto-0.9.html)
 - Aug 15 - [Boeing to ground Starliner indefinitely until valve issue solved](https://arstechnica.com/science/2021/08/boeing-to-ground-starliner-indefinitely-until-valve-issue-solved/)
-- Aug 14 - [MIT Researchers Make Hydrogen Fuel from Aluminum and Water](https://interestingengineering.com/mit-researchers-make-hydrogen-fuel-from-aluminum-and-water?_source=newsletter&_campaign=2e7LL8NyzpLK4&_uid=LDdwmgxga1&_h=ea90de89f1bceca46d02cad80716fb4006725c29&utm_source=newsletter&utm_medium=mailing&utm_campaign=Newsletter-14-08-2021)
-- Aug 14 - [Fermat's Library: software to help illuminate academic papers](https://fermatslibrary.com/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
