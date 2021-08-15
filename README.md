@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 15 - [SoundStream: An End-to-End Neural Audio Codec](http://ai.googleblog.com/2021/08/soundstream-end-to-end-neural-audio.html)
 - Aug 15 - [Cap'n Proto 0.9](https://capnproto.org/news/2021-08-14-capnproto-0.9.html)
 - Aug 15 - [Boeing to ground Starliner indefinitely until valve issue solved](https://arstechnica.com/science/2021/08/boeing-to-ground-starliner-indefinitely-until-valve-issue-solved/)
-- Aug 14 - [What’s it like living with a phenomenal memory and can it be learned?](https://www.theguardian.com/science/2021/aug/15/whats-it-like-living-with-a-phenomenal-memory-and-can-it-be-learned)
 - Aug 14 - [MIT Researchers Make Hydrogen Fuel from Aluminum and Water](https://interestingengineering.com/mit-researchers-make-hydrogen-fuel-from-aluminum-and-water?_source=newsletter&_campaign=2e7LL8NyzpLK4&_uid=LDdwmgxga1&_h=ea90de89f1bceca46d02cad80716fb4006725c29&utm_source=newsletter&utm_medium=mailing&utm_campaign=Newsletter-14-08-2021)
+- Aug 14 - [Fermat's Library: software to help illuminate academic papers](https://fermatslibrary.com/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
