@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 15 - [What can be learned from studying long gone development practices?](https://shape-of-code.coding-guidelines.com/2021/08/01/what-can-be-learned-from-studying-long-gone-development-practices/)
 - Aug 15 - [Tracing the Ephemeral (2018)](https://artpil.com/news/tracing-the-ephemeral-dennis-hlynsky/)
 - Aug 15 - [The Bullshit](https://walterkirn.substack.com/p/the-bullshit)
-- Aug 15 - [The best books on assassinations](https://fivebooks.com/best-books/assassination-michael-burleigh/)
+- Aug 15 - [You can list a directory containing 8M files, but not with ls](http://be-n.com/spw/you-can-list-a-million-files-in-a-directory-but-not-with-ls.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
