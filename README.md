@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 15 - [California's dry season is turning into a permanent state of being](https://phys.org/news/2021-08-california-season-permanent-state.html)
+- Aug 15 - [How can I get this 8 year old VBA 64-bit compiler bug fixed?](https://stackoverflow.com/questions/68034271/how-can-i-get-this-8-year-old-vba-64-bit-compiler-bug-fixed)
 - Aug 15 - [Pachyderm (YC W15) Is Hiring a Senior Front End Engineer and DevOps](https://www.pachyderm.com/careers/)
 - Aug 15 - [Porn Spam on Google Maps](https://shkspr.mobi/blog/2021/08/porn-spam-on-google-maps/)
 - Aug 15 - [NASA boosts impact risk from 'potentially hazardous' asteroid Bennui](https://news.yahoo.com/nasa-boosts-impact-risk-potentially-220546594.html)
-- Aug 15 - [Musk says Starship orbital stack to be ready for flight in few weeks](https://www.reuters.com/business/aerospace-defense/musk-says-starship-orbital-stack-be-ready-flight-few-weeks-2021-08-15/)
-- Aug 15 - [As cargo shipments boom, ship strikes imperil whales worldwide](https://www.latimes.com/environment/story/2021-08-05/how-cargo-cruise-ships-contribute-to-whale-deaths)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
