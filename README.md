@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 15 - [Reining in the thundering herd: Getting to 80% CPU utilization with Django](https://blog.clubhouse.com/reining-in-the-thundering-herd-with-django-and-gunicorn/)
+- Aug 15 - [Amazon's Palm Print Recognition System Raises Concern Among US Senators](https://gadgets.ndtv.com/others/news/amazon-one-palm-print-recognition-biometric-system-whole-foods-seattle-us-senators-2510485)
+- Aug 15 - [Substack Is Hiring Eng Managers to Build a Better Business Model for Writing](https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7?utm_source=hn&utm_content=eng)
 - Aug 15 - [React Renderer for Three.js](https://github.com/pmndrs/react-three-fiber)
 - Aug 15 - [The Case for Optimism](https://www.warpnews.org/premium-content/kevin-kelly-the-case-for-optimism/)
-- Aug 15 - [Facebook shouldn't be allowed to buy Giphy, says UK regulator](https://www.theverge.com/2021/8/12/22621957/facebook-giphy-deal-blocked-uk-regulator)
-- Aug 15 - [Welcome to Nestflix](https://nestflix.fun/)
-- Aug 15 - [Asteroid Bennu now has a greater chance of hitting Earth through 2300](https://edition.cnn.com/2021/08/11/world/nasa-osiris-rex-impact-study-scn/index.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
