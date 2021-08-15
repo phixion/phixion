@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 15 - [Programming Idioms](https://programming-idioms.org/)
+- Aug 15 - [Why query planning for streaming systems is hard](https://scattered-thoughts.net/writing/why-query-planning-for-streaming-systems-is-hard)
 - Aug 15 - [Google infringed on five Sonos patents, according to preliminary ruling](https://techcrunch.com/2021/08/13/google-infringed-on-five-sonos-patents-according-to-preliminary-ruling/)
-- Aug 15 - [Carvana’s Success Rides on Used-Car Loans](https://www.wsj.com/articles/carvanas-success-rides-on-used-car-loans-11629019801)
-- Aug 15 - [Introducing the PineNote](https://www.pine64.org/2021/08/15/introducing-the-pinenote/)
-- Aug 15 - [How the Taliban Overran the Afghan Army, Built by the U.S. over 20 Years](https://www.wsj.com/articles/afghanistan-army-collapse-taliban-11628958253)
+- Aug 15 - [LinuxPhoneApps](https://alpha.linuxphoneapps.org/)
+- Aug 15 - [Firefox 91 – Revert back to old tab style](https://superuser.com/a/1669549/9067)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
