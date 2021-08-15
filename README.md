@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 15 - [Pachyderm (YC W15) Is Hiring a Senior Front End Engineer and DevOps](https://www.pachyderm.com/careers/)
 - Aug 15 - [Porn Spam on Google Maps](https://shkspr.mobi/blog/2021/08/porn-spam-on-google-maps/)
 - Aug 15 - [NASA boosts impact risk from 'potentially hazardous' asteroid Bennui](https://news.yahoo.com/nasa-boosts-impact-risk-potentially-220546594.html)
-- Aug 15 - [Today I made one of the most important discoveries of my PhD](https://twitter.com/astro_katross/status/1425794227988877322)
-- Aug 15 - [Afghanistan Meant Nothing: A Veteran Reflects on 20 Wasted Years](https://laurajedeed.medium.com/afghanistan-meant-nothing-9e3f099b00e5)
+- Aug 15 - [Musk says Starship orbital stack to be ready for flight in few weeks](https://www.reuters.com/business/aerospace-defense/musk-says-starship-orbital-stack-be-ready-flight-few-weeks-2021-08-15/)
+- Aug 15 - [As cargo shipments boom, ship strikes imperil whales worldwide](https://www.latimes.com/environment/story/2021-08-05/how-cargo-cruise-ships-contribute-to-whale-deaths)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
