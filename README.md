@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 15 - [Only Kabul Left Standing as Jalalabad Falls](https://www.voanews.com/us-afghanistan-troop-withdrawal/only-kabul-left-standing-jalalabad-falls)
 - Aug 15 - [‘Ten years ago this was science fiction’: the rise of weedkilling robots](https://www.theguardian.com/environment/2021/aug/14/weedkilling-robots-farming-pesticide-use-sustainable)
 - Aug 15 - [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
 - Aug 15 - [Lenovo Selling Linux Laptops Directly in the US](https://www.lenovo.com/us/en/d/linux-laptops-desktops?sort=sortBy&currentResultsLayoutType=grid)
 - Aug 15 - [SoundStream: An End-to-End Neural Audio Codec](http://ai.googleblog.com/2021/08/soundstream-end-to-end-neural-audio.html)
-- Aug 15 - [Cap'n Proto 0.9](https://capnproto.org/news/2021-08-14-capnproto-0.9.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
