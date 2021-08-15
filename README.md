@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 15 - [The Respected Scientists Who Pushed for Alcohol Prohibition in 1920](https://brownstone.org/articles/the-respected-scientists-who-pushed-for-alcohol-prohibition-in-1920/)
+- Aug 15 - [SoundStream: An End-to-End Neural Audio Codec](http://ai.googleblog.com/2021/08/soundstream-end-to-end-neural-audio.html)
 - Aug 15 - [Boeing to ground Starliner indefinitely until valve issue solved](https://arstechnica.com/science/2021/08/boeing-to-ground-starliner-indefinitely-until-valve-issue-solved/)
 - Aug 14 - [What’s it like living with a phenomenal memory and can it be learned?](https://www.theguardian.com/science/2021/aug/15/whats-it-like-living-with-a-phenomenal-memory-and-can-it-be-learned)
 - Aug 14 - [MIT Researchers Make Hydrogen Fuel from Aluminum and Water](https://interestingengineering.com/mit-researchers-make-hydrogen-fuel-from-aluminum-and-water?_source=newsletter&_campaign=2e7LL8NyzpLK4&_uid=LDdwmgxga1&_h=ea90de89f1bceca46d02cad80716fb4006725c29&utm_source=newsletter&utm_medium=mailing&utm_campaign=Newsletter-14-08-2021)
