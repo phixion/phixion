@@ -1,9 +1,8 @@
 name: wakapi.dev statistics
 on:
-  workflow_dispatch:
   schedule:
     # Every Monday
-    - cron: "0 0 * * MON"
+    - cron: "*/15 * * * *"
 jobs:
   build:
     name: Update this repo's README with wakapi.dev statistics
