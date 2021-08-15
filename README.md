@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 15 - [Introducing the PineNote](https://www.pine64.org/2021/08/15/introducing-the-pinenote/)
+- Aug 15 - [CIA mocked from all sides over new ‘woke’ recruitment video](https://www.independent.co.uk/news/world/americas/cia-recruitment-video-backlash-wokeness-b1841656.html)
+- Aug 15 - [Afghan President Ghani relinquishes power, Taliban form interim gov't](https://www.dailysabah.com/world/asia-pacific/afghan-president-ghani-relinquishes-power-taliban-form-interim-govt)
+- Aug 15 - [Bottled water is 3,500 times worse for the environment than tap water](https://www.euronews.com/green/2021/08/05/bottled-water-is-3-500-times-worse-for-the-environment-than-tap-water-say-scientists)
 - Aug 15 - [Reining in the thundering herd: Getting to 80% CPU utilization with Django](https://blog.clubhouse.com/reining-in-the-thundering-herd-with-django-and-gunicorn/)
-- Aug 15 - [Amazon's Palm Print Recognition System Raises Concern Among US Senators](https://gadgets.ndtv.com/others/news/amazon-one-palm-print-recognition-biometric-system-whole-foods-seattle-us-senators-2510485)
-- Aug 15 - [Substack Is Hiring Eng Managers to Build a Better Business Model for Writing](https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7?utm_source=hn&utm_content=eng)
-- Aug 15 - [Wigner Crystals](https://johncarlosbaez.wordpress.com/2017/12/07/wigner-crystals/)
-- Aug 15 - [Construction, Efficiency, and Production Systems](https://constructionphysics.substack.com/p/construction-efficiency-and-production)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
