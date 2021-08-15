@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 15 - [Paperspace (YC W15) is hiring developers to build the future of MLOps](https://www.paperspace.com/careers)
-- Aug 15 - [I figured out how DMARC works, and it almost broke me](https://simonandrews.ca/articles/how-to-set-up-spf-dkim-dmarc)
+- Aug 15 - [T-Mobile investigating claims of 100M customer data breach](https://www.reuters.com/article/t-mobile-us-data/update-1-t-mobile-investigating-claims-of-customer-data-breach-idUSL1N2PM0K7)
+- Aug 15 - [How to prevent email spoofing, using an unholy combination of silly standards](https://simonandrews.ca/articles/how-to-set-up-spf-dkim-dmarc)
+- Aug 15 - [What domain name to use for your home network](https://www.ctrl.blog/entry/homenet-domain-name.html)
 - Aug 15 - [An anonymous hacker reverse engineered my E2EE](https://www.groupsapp.online/post/improved-e2e-encryption)
-- Aug 15 - [The Futurist Cookbook was the first lifestyle blog](https://lithub.com/why-the-futurist-cookbook-was-the-first-lifestyle-blog/)
-- Aug 15 - [What can be learned from studying long gone development practices?](https://shape-of-code.coding-guidelines.com/2021/08/01/what-can-be-learned-from-studying-long-gone-development-practices/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
