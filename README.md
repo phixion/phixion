@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 15 - [Today I made one of the most important discoveries of my PhD](https://twitter.com/astro_katross/status/1425794227988877322)
+- Aug 15 - [This looks to be the first major confirmed orbital collision in a decade](https://twitter.com/planet4589/status/1426774988812587008)
 - Aug 15 - [MeiliSearch: A Minimalist Full-Text Search Engine](https://tech.marksblogg.com/meilisearch-full-text-search.html)
 - Aug 15 - [Debian 11 “Bullseye” Released](https://www.debian.org/News/2021/20210814)
 - Aug 15 - [The rise of the one-person unicorn](https://www.nothingventured.com/the-rise-of-the-one-person-unicorn/)
-- Aug 15 - [Sri Lankan teenager builds solar-powered tuk-tuk from scraps [video]](https://www.bbc.com/news/av/world-asia-58192468)
-- Aug 15 - [A man growing lettuce for space station salads](https://www.bbc.com/future/article/20210810-the-man-growing-lettuce-for-space-station-salads)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
