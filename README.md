@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 15 - [Getting Started with QEMU (2018)](https://drewdevault.com/2018/09/10/Getting-started-with-qemu.html)
 - Aug 15 - [India Is Leading IPv6 Migration with 61.67% Adoption](https://www.aelius.com/njh/google-ipv6/)
 - Aug 15 - [The success of Aubrey de Grey baffles me](https://freethoughtblogs.com/pharyngula/2021/08/14/the-success-of-aubrey-de-grey-baffles-me/)
 - Aug 15 - [California's dry season is turning into a permanent state of being](https://phys.org/news/2021-08-california-season-permanent-state.html)
 - Aug 15 - [How can I get this 8 year old VBA 64-bit compiler bug fixed?](https://stackoverflow.com/questions/68034271/how-can-i-get-this-8-year-old-vba-64-bit-compiler-bug-fixed)
-- Aug 15 - [Pachyderm (YC W15) Is Hiring a Senior Front End Engineer and DevOps](https://www.pachyderm.com/careers/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
