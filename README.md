@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 15 - [Charles Eisenstein, Antisemite](https://charleseisenstein.substack.com/p/charles-eisenstein-antisemite)
+- Aug 15 - [Programming Idioms](https://programming-idioms.org/)
+- Aug 15 - [Google infringed on five Sonos patents, according to preliminary ruling](https://techcrunch.com/2021/08/13/google-infringed-on-five-sonos-patents-according-to-preliminary-ruling/)
+- Aug 15 - [Carvana’s Success Rides on Used-Car Loans](https://www.wsj.com/articles/carvanas-success-rides-on-used-car-loans-11629019801)
 - Aug 15 - [Introducing the PineNote](https://www.pine64.org/2021/08/15/introducing-the-pinenote/)
-- Aug 15 - [CIA mocked from all sides over new ‘woke’ recruitment video](https://www.independent.co.uk/news/world/americas/cia-recruitment-video-backlash-wokeness-b1841656.html)
 - Aug 15 - [How the Taliban Overran the Afghan Army, Built by the U.S. over 20 Years](https://www.wsj.com/articles/afghanistan-army-collapse-taliban-11628958253)
-- Aug 15 - [AWS Identity service handles 400M API calls every second](https://aws.amazon.com/blogs/aws/happy-10th-birthday-aws-identity-and-access-management/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
