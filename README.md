@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 16 - [Facebook bans publication of original historical documents](https://labas.livejournal.com/1238249.html)
+- Aug 16 - [Alda – Text-Based Programming Language for Music Composition](https://alda.io/tutorial/)
 - Aug 16 - [South Georgia and the South Sandwich Islands](https://en.wikipedia.org/wiki/South_Georgia_and_the_South_Sandwich_Islands)
 - Aug 16 - [Let's write a compiler, part 3: A parser](https://briancallahan.net/blog/20210816.html)
 - Aug 16 - [Launch HN: SigmaOS (YC S21) – A MacOS web browser designed for faster work](https://news.ycombinator.com/item?id=28197537)
-- Aug 16 - [Antigravity.py](https://github.com/python/cpython/blob/main/Lib/antigravity.py)
-- Aug 16 - [Why Is It So Hard to Be Rational?](https://www.newyorker.com/magazine/2021/08/23/why-is-it-so-hard-to-be-rational)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
