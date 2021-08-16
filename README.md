@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 16 - [Betrayal of Afghan Interpreters](https://www.theatlantic.com/ideas/archive/2021/08/bidens-betrayal-of-afghans-will-live-in-infamy/619764/)
+- Aug 16 - [How to avoid being hit by a laser in a room of mirrors [video]](https://www.youtube.com/watch?v=kDZzyi-EaLQ)
+- Aug 16 - [Carolyn Shoemaker has died](https://en.wikipedia.org/wiki/Carolyn_S._Shoemaker)
+- Aug 16 - [Indian inventor dies in homemade helicopter accident](https://www.thenationalnews.com/world/asia/2021/08/12/indian-inventor-dies-in-homemade-helicopter-accident/)
+- Aug 16 - [Email Authenticity 101: DKIM, Dmarc, and SPF](https://www.alexblackie.com/articles/email-authenticity-dkim-spf-dmarc/)
 - Aug 15 - [“San Jose Fire had an impossibly complex incident scene..” (2019)](https://www.facebook.com/groups/firebuffing/posts/715890382181744/)
-- Aug 15 - [Veterans push for medical marijuana in conservative South](https://www.stripes.com/veterans/2021-08-15/veterans-push-medical-marijuana-us-south-2563514.html)
-- Aug 15 - [Paperspace (YC W15) is hiring developers to build the future of MLOps](https://www.paperspace.com/careers)
-- Aug 15 - [T-Mobile investigating claims of 100M customer data breach](https://www.reuters.com/article/t-mobile-us-data/update-1-t-mobile-investigating-claims-of-customer-data-breach-idUSL1N2PM0K7)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
