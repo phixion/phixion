@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 16 - [End of the Line for Uber](https://marker.medium.com/end-of-the-line-for-uber-901e3077bbbc)
+- Aug 16 - [Launch HN: SigmaOS (YC S21) – A web browser designed for faster work](https://news.ycombinator.com/item?id=28197537)
+- Aug 16 - [Many Americans not aware of being tracked with facial recognition while shopping](https://www.techradar.com/news/many-americans-arent-aware-theyre-being-tracked-with-facial-recognition-while-shopping)
 - Aug 16 - [U.S. opens formal safety probe into some 765,000 Tesla vehicles](https://www.reuters.com/business/autos-transportation/us-opens-formal-safety-probe-into-tesla-autopilot-crashes-2021-08-16/)
-- Aug 16 - [Sirum (YC W15) Is Hiring a Lead Engineer to Improve Medicine Access](https://news.ycombinator.com/item?id=28197083)
-- Aug 16 - [Taxing the Rich Is Failing to Ease the Global Housing Crunch](https://www.bloomberg.com/news/features/2021-08-16/taxing-the-rich-do-housing-prices-fall-when-empty-second-homes-are-taxed)
-- Aug 16 - [Why Doesn't Software Show Up in Productivity?](https://austinvernon.eth.link/blog/softwareisprocess.html)
-- Aug 16 - [Some Ways that PyPy uses Graphviz](https://www.pypy.org/posts/2021/04/ways-pypy-graphviz.html)
+- Aug 16 - [The truth about lab-grown meat](https://www.bbc.com/reel/video/p09s518l/the-truth-about-lab-grown-meat)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
