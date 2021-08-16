@@ -38,7 +38,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 16 - [Farmers help create ‘Virtual safe space’ to save bumblebees](https://www.exeter.ac.uk/news/research/title_872443_en.html)
 - Aug 16 - [Beyond All Reason: Open-source RTS reimagining Total Annihilation](https://www.beyondallreason.info/)
 - Aug 16 - [Slackware 15.0 release candidate one](http://www.slackware.com/changelog/current.php?cpu=x86_64)
-- Aug 16 - [Show HN: dotmatrix – A dot matrix rendered using Braille characters.](https://github.com/timfi/dotmatrix)
+- Aug 16 - [Show HN: A dot matrix rendered using Braille characters](https://github.com/timfi/dotmatrix)
 - Aug 16 - [Ask HN: I feel trapped in my job and city](https://news.ycombinator.com/item?id=28200727)
 <!--END_SECTION:hn-->
 
