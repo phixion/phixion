@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 16 - [Dubai Is A Parody Of The 21st Century [video]](https://www.youtube.com/watch?v=SacQ2YdVOyk)
+- Aug 16 - [TikTok requests access to devices on local network](https://twitter.com/crobertsbmw/status/1427102606753550337)
 - Aug 16 - [Launch HN: Awesomic (YC S21) – Get design tasks done with 24h turnaround](https://news.ycombinator.com/item?id=28199089)
+- Aug 16 - [Intel’s Arc GPUs will compete with GeForce and Radeon in early 2022](https://arstechnica.com/gadgets/2021/08/intels-arc-gpus-will-compete-with-geforce-and-radeon-in-early-2022/)
 - Aug 16 - [Object-Oriented Entity-Component-System Design](https://voxely.net/blog/object-oriented-entity-component-system-design/)
 - Aug 16 - [Pico-1K Jam: Make Something Cool in Pico-8 in 1024 Characters](https://itch.io/jam/pico-1k)
-- Aug 16 - [Alda – Text-Based Programming Language for Music Composition](https://alda.io/tutorial/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
