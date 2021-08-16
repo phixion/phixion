@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 16 - [Taxing the Rich Is Failing to Ease the Global Housing Crunch](https://www.bloomberg.com/news/features/2021-08-16/taxing-the-rich-do-housing-prices-fall-when-empty-second-homes-are-taxed)
 - Aug 16 - [Afghan civilians cling to landing gear of USAF planes and fall to their death](https://twitter.com/babaktaghvaee/status/1427187756845965315)
+- Aug 16 - [Software is a Process and hidden driver of Productivity](https://austinvernon.eth.link/blog/softwareisprocess.html)
 - Aug 16 - [Some Ways that PyPy uses Graphviz](https://www.pypy.org/posts/2021/04/ways-pypy-graphviz.html)
 - Aug 16 - [South Atlantic Anomaly](https://en.wikipedia.org/wiki/South_Atlantic_Anomaly)
-- Aug 16 - [Nokia's smartphone: 25 years since it changed the world](https://www.dw.com/en/nokias-smartphone-25-years-since-it-changed-the-world/a-58841329)
-- Aug 16 - [Widelands is a free, open-source real-time strategy game](https://www.widelands.org/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
