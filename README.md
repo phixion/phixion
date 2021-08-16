@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 16 - [Beyond All Reason: Open-Source RTS Reimagining Cavedog's Total Annihilation](https://www.beyondallreason.info/)
+- Aug 16 - [Farmers help create ‘Virtual safe space’ to save bumblebees](https://www.exeter.ac.uk/news/research/title_872443_en.html)
+- Aug 16 - [Beyond All Reason: Open-source RTS reimagining Total Annihilation](https://www.beyondallreason.info/)
+- Aug 16 - [Slackware 15.0 release candidate one](http://www.slackware.com/changelog/current.php?cpu=x86_64)
 - Aug 16 - [Show HN: dotmatrix – A dot matrix rendered using Braille characters.](https://github.com/timfi/dotmatrix)
-- Aug 16 - [AXPbox 1.1.0 Released · (Dec Alpha Emulator for OpenVMS/NetBSD)](https://github.com/lenticularis39/axpbox/releases/tag/v1.1.0)
-- Aug 16 - [Transcranial Ultrasound to the Right PfC Improves Mood, Alters FC in Humans](https://www.frontiersin.org/articles/10.3389/fnhum.2020.00052/full)
-- Aug 16 - [Video Game Pricing [video]](https://www.youtube.com/watch?v=zvPkAYT6B1Q)
+- Aug 16 - [Ask HN: I feel trapped in my job and city](https://news.ycombinator.com/item?id=28200727)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
