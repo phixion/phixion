@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 16 - [Facebook bans publication of original historical documents](https://labas.livejournal.com/1238249.html)
+- Aug 16 - [Launch HN: Awesomic (YC S21) – Get design tasks done with 24h turnaround](https://news.ycombinator.com/item?id=28199089)
+- Aug 16 - [Object-Oriented Entity-Component-System Design](https://voxely.net/blog/object-oriented-entity-component-system-design/)
+- Aug 16 - [Magna Carta Messed Up the World, Here’s How to Fix It (Chomsky)](https://chomsky.info/20150323/)
+- Aug 16 - [Pico-1K Jam: Make Something Cool in Pico-8 in 1024 Characters](https://itch.io/jam/pico-1k)
 - Aug 16 - [Alda – Text-Based Programming Language for Music Composition](https://alda.io/tutorial/)
-- Aug 16 - [South Georgia and the South Sandwich Islands](https://en.wikipedia.org/wiki/South_Georgia_and_the_South_Sandwich_Islands)
-- Aug 16 - [Let's write a compiler, part 3: A parser](https://briancallahan.net/blog/20210816.html)
-- Aug 16 - [Launch HN: SigmaOS (YC S21) – A MacOS web browser designed for faster work](https://news.ycombinator.com/item?id=28197537)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
