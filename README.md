@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 16 - [Positively Critical: WebPositive and Haiku](https://www.haiku-os.org/blog/animortis/2021-08-10_positively_critical_webpositive_and_haiku/)
-- Aug 16 - [Farmers help create ‘Virtual safe space’ to save bumblebees](https://www.exeter.ac.uk/news/research/title_872443_en.html)
+- Aug 16 - [Spring is a free RTS game engine](https://springrts.com/)
+- Aug 16 - [MasterCard to start phasing out magnetic stripes in 2024](https://www.mastercard.com/news/perspectives/2021/magnetic-stripe/)
+- Aug 16 - [Improved C syntax highlighting for Vim](https://github.com/pulkomandy/c.vim)
+- Aug 16 - [Farmers help create ‘virtual safe space’ to save bumblebees](https://www.exeter.ac.uk/news/research/title_872443_en.html)
 - Aug 16 - [Beyond All Reason: Open-source RTS reimagining Total Annihilation](https://www.beyondallreason.info/)
-- Aug 16 - [Slackware 15.0 release candidate one](http://www.slackware.com/changelog/current.php?cpu=x86_64)
-- Aug 16 - [Show HN: A dot matrix rendered using Braille characters](https://github.com/timfi/dotmatrix)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
