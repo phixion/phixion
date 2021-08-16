@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 16 - [Some Ways that PyPy uses Graphviz](https://www.pypy.org/posts/2021/04/ways-pypy-graphviz.html)
+- Aug 16 - [South Atlantic Anomaly](https://en.wikipedia.org/wiki/South_Atlantic_Anomaly)
 - Aug 16 - [Nokia's smartphone: 25 years since it changed the world](https://www.dw.com/en/nokias-smartphone-25-years-since-it-changed-the-world/a-58841329)
 - Aug 16 - [Widelands is a free, open-source real-time strategy game](https://www.widelands.org/)
 - Aug 16 - [TSMC’s Speciality Technologies](https://techtaiwan.com/20210816/tsmc-speciality-technology/)
-- Aug 16 - [The US should be held accountable: Gitmo survivor on the war on terror’s failure](https://www.theguardian.com/us-news/2021/aug/16/guantanamo-detainee-mansoor-adayfi)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
