@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 16 - [Don't Throw Out Your Algorithms Book Just Yet](https://dawn.cs.stanford.edu//2018/01/11/index-baselines/)
 - Aug 16 - [Real milk, no cows needed: Lab-made dairy products are now a reality](https://www.newscientist.com/article/mg25133470-900-real-milk-no-cows-needed-lab-made-dairy-products-are-now-a-reality/)
 - Aug 16 - [How to avoid being hit by a laser in a room of mirrors [video]](https://www.youtube.com/watch?v=kDZzyi-EaLQ)
 - Aug 16 - [Carolyn Shoemaker has died](https://en.wikipedia.org/wiki/Carolyn_S._Shoemaker)
 - Aug 16 - [Indian inventor dies in homemade helicopter accident](https://www.thenationalnews.com/world/asia/2021/08/12/indian-inventor-dies-in-homemade-helicopter-accident/)
-- Aug 16 - [Email Authenticity 101: DKIM, Dmarc, and SPF](https://www.alexblackie.com/articles/email-authenticity-dkim-spf-dmarc/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
