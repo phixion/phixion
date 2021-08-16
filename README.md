@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 16 - [Pay Attention to TSMC’s Speciality Technologies](https://techtaiwan.com/20210816/tsmc-speciality-technology/)
+- Aug 16 - [TSMC’s Speciality Technologies](https://techtaiwan.com/20210816/tsmc-speciality-technology/)
 - Aug 16 - [The US should be held accountable: Gitmo survivor on the war on terror’s failure](https://www.theguardian.com/us-news/2021/aug/16/guantanamo-detainee-mansoor-adayfi)
 - Aug 16 - [Released Google/zx – tons of DX improvements and more](https://github.com/google/zx/releases/tag/3.0.0)
 - Aug 16 - [Classical Data Structures That Can Outperform Learned Indexes (2018)](https://dawn.cs.stanford.edu//2018/01/11/index-baselines/)
