@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 16 - [Transcranial Ultrasound to the Right PfC Improves Mood, Alters FC in Humans](https://www.frontiersin.org/articles/10.3389/fnhum.2020.00052/full)
+- Aug 16 - [Video Game Pricing [video]](https://www.youtube.com/watch?v=zvPkAYT6B1Q)
 - Aug 16 - [Inspectify (YC S20) Is Hiring Full Stack Engineer (Rails/React) in Seattle](https://www.ycombinator.com/companies/inspectify/jobs/fBs1vfc-full-stack-engineer)
 - Aug 16 - [Plaid settled $58M lawsuit over alleged consumer data sharing](https://finledger.com/2021/08/09/plaid-settled-58-million-lawsuit-over-alleged-consumer-data-sharing/)
 - Aug 16 - [TikTok requests access to devices on local network](https://twitter.com/crobertsbmw/status/1427102606753550337)
-- Aug 16 - [Launch HN: Awesomic (YC S21) – Get design tasks done with 24h turnaround](https://news.ycombinator.com/item?id=28199089)
-- Aug 16 - [Intel’s Arc GPUs will compete with GeForce and Radeon in early 2022](https://arstechnica.com/gadgets/2021/08/intels-arc-gpus-will-compete-with-geforce-and-radeon-in-early-2022/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
