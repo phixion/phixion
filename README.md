@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 16 - [Did America just lose Afghanistan because of WhatsApp?](https://prestonbyrne.com/2021/08/15/did-america-just-lose-afghanistan-because-of-whatsapp/)
+- Aug 16 - [Real milk, no cows needed: Lab-made dairy products are now a reality](https://www.newscientist.com/article/mg25133470-900-real-milk-no-cows-needed-lab-made-dairy-products-are-now-a-reality/)
 - Aug 16 - [How to avoid being hit by a laser in a room of mirrors [video]](https://www.youtube.com/watch?v=kDZzyi-EaLQ)
 - Aug 16 - [Carolyn Shoemaker has died](https://en.wikipedia.org/wiki/Carolyn_S._Shoemaker)
 - Aug 16 - [Indian inventor dies in homemade helicopter accident](https://www.thenationalnews.com/world/asia/2021/08/12/indian-inventor-dies-in-homemade-helicopter-accident/)
