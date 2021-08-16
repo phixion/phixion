@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 16 - [Inflation wiped out America's pay raises](https://edition.cnn.com/2021/08/10/business/raises-inflation-wages/index.html)
+- Aug 16 - [Betrayal of Afghan Interpreters](https://www.theatlantic.com/ideas/archive/2021/08/bidens-betrayal-of-afghans-will-live-in-infamy/619764/)
 - Aug 15 - [“San Jose Fire had an impossibly complex incident scene..” (2019)](https://www.facebook.com/groups/firebuffing/posts/715890382181744/)
 - Aug 15 - [Veterans push for medical marijuana in conservative South](https://www.stripes.com/veterans/2021-08-15/veterans-push-medical-marijuana-us-south-2563514.html)
 - Aug 15 - [Paperspace (YC W15) is hiring developers to build the future of MLOps](https://www.paperspace.com/careers)
