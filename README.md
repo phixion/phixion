@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 16 - [Go 1.17 Is Released](https://blog.golang.org/go1.17)
 - Aug 16 - [Rally (YC S20) Is Hiring a Product Designer Who Can Code](https://www.ycombinator.com/companies/rally/jobs/4ijjeMbu7-ui-ux-developer)
 - Aug 16 - [T-Mobile Confirms It Was Hacked](https://www.vice.com/en/article/y3d4dw/t-mobile-confirms-it-was-hacked)
 - Aug 16 - [Spring is a free RTS game engine](https://springrts.com/)
 - Aug 16 - [Farmers help create ‘virtual safe space’ to save bumblebees](https://www.exeter.ac.uk/news/research/title_872443_en.html)
-- Aug 16 - [Beyond All Reason: Open-source RTS reimagining Total Annihilation](https://www.beyondallreason.info/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
