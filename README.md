@@ -35,10 +35,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 16 - [U.S. opens formal safety probe into some 765,000 Tesla vehicles](https://www.reuters.com/business/autos-transportation/us-opens-formal-safety-probe-into-tesla-autopilot-crashes-2021-08-16/)
 - Aug 16 - [Sirum (YC W15) Is Hiring a Lead Engineer to Improve Medicine Access](https://news.ycombinator.com/item?id=28197083)
 - Aug 16 - [Taxing the Rich Is Failing to Ease the Global Housing Crunch](https://www.bloomberg.com/news/features/2021-08-16/taxing-the-rich-do-housing-prices-fall-when-empty-second-homes-are-taxed)
-- Aug 16 - [Afghan civilians cling to landing gear of USAF planes and fall to their death](https://twitter.com/babaktaghvaee/status/1427187756845965315)
-- Aug 16 - [Software is a Process and hidden driver of Productivity](https://austinvernon.eth.link/blog/softwareisprocess.html)
+- Aug 16 - [Why Doesn't Software Show Up in Productivity?](https://austinvernon.eth.link/blog/softwareisprocess.html)
 - Aug 16 - [Some Ways that PyPy uses Graphviz](https://www.pypy.org/posts/2021/04/ways-pypy-graphviz.html)
 <!--END_SECTION:hn-->
 
