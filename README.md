@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 17 - [Tinder will introduce voluntary ID verification to reduce catfishing incidents](https://www.neowin.net/news/tinder-will-introduce-voluntary-id-verification-to-reduce-catfishing-incidents/)
 - Aug 17 - [Monaru (YC S19) Is Hiring Mobile Engineers](https://www.ycombinator.com/companies/monaru/jobs/xY3DJ1O-mobile-engineer)
 - Aug 17 - [New York City adds 629,000 people, defying predictions of its decline](https://www.nytimes.com/2021/08/12/us/new-york-city-population-growth.html)
+- Aug 17 - [Moderna Is About to Begin Trials for HIV Vaccine](https://www.them.us/story/moderna-begins-hiv-vaccine-trials-covid-19-research)
 - Aug 17 - [Many of the clothes we donate to charity end up dumped in landfill](https://www.abc.net.au/news/2021-08-12/fast-fashion-turning-parts-ghana-into-toxic-landfill/100358702)
-- Aug 17 - [How elephants avoid cancer (2015)](https://www.nature.com/articles/nature.2015.18534)
-- Aug 17 - [Dallas police lose 8TB of data, impacting criminal cases](https://www.theregister.com/2021/08/16/dallas_data_migration_8tb_deletion/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
