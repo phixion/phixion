@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 17 - [Occlusion-Aware Video Object Inpainting](http://www.kelei.site/voin/)
 - Aug 17 - [How did so many Dungeon Crawl: Stone Soup players miss such an obvious bug?](https://desystemize.substack.com/p/desystemize-7)
 - Aug 17 - [SwiftSku (YC W21) Is Hiring Gujarati Account Executives](https://www.ycombinator.com/companies/swiftsku/jobs/YhllV1x-sales-account-executive)
 - Aug 17 - [Homa, a transport protocol to replace TCP for low-latency RPC in data centers](https://www.micahlerner.com/2021/08/15/a-linux-kernel-implementation-of-the-homa-transport-protocol.html)
 - Aug 17 - [Pompeii’s fast food joint unearthed in 2019 opens to public](https://www.theguardian.com/science/2021/aug/09/pompeis-fast-food-joint-unearthed-in-2019-opens-to-public)
-- Aug 16 - [Moving Avoids California Tax? Not So Fast](https://www.forbes.com/sites/robertwood/2021/07/12/moving-avoids-california-tax-not-so-fast)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
