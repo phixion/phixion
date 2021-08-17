@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 17 - [Git's new guidelines for gender-neutral documentation](https://github.com/git/git/commit/546adc4950185464c75158301c854b0f55dcf465)
+- Aug 17 - [Difference Between Dialogue, Discussion, & Debate](https://utlc.uncg.edu/teaching/diversity-equity-and-inclusion__trashed/dialoguediscussiondebate/)
 - Aug 17 - [Ultraprocessed Foods Now Comprise 2/3 of Calories in Children and Teen Diets](https://now.tufts.edu/news-releases/ultraprocessed-foods-now-comprise-23-calories-children-and-teen-diets?__s=mh97lz5rmmrv9zzlf0zp&utm_source=drip&utm_medium=email&utm_campaign=15+Podcasts+We+Love)
 - Aug 17 - [Burning Buried Sunshine (2003)](https://plus.maths.org/content/burning-buried-sunshine)
-- Aug 17 - [Ask HN: Why does Zoom Desktop examine all processes and arguments?](https://news.ycombinator.com/item?id=28213292)
-- Aug 17 - [Grain (YC W20) Is Hiring](https://bookface.ycombinator.com/company/13174/jobs/45783)
-- Aug 17 - [How Drawpile works](https://github.com/drawpile/Drawpile/wiki/How-Drawpile-works)
+- Aug 17 - [Zink (OpenGL over Vulkan) allocator improves performance in 1000% in some games](https://cgit.freedesktop.org/mesa/mesa/commit/?id=40fdb3212c3ded2150faf952dc2b669991bfbf94)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
