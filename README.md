@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Aug 17 - [UserGems (YC S14) Is Hiring a Full-Stack Engineer in Europe (Remote)](https://www.usergems.com/careers/full-stack-engineer)
 - Aug 17 - [SerenityOS: Graphical Unix-like operating system with classic 90s UI](http://serenityos.org/)
-- Aug 17 - [Afghans are racing to erase their online lives](https://www.wired.co.uk/article/afghanistan-social-media-delete)
-- Aug 17 - [The Math That Says Egalitarianism Is Possible](https://nautil.us/issue/104/harmony/the-math-that-says-egalitarianism-is-possible)
+- Aug 17 - [The math that says egalitarianism is possible](https://nautil.us/issue/104/harmony/the-math-that-says-egalitarianism-is-possible)
 - Aug 17 - [Why are so many knowledge workers quitting?](https://www.newyorker.com/culture/office-space/why-are-so-many-knowledge-workers-quitting)
+- Aug 17 - [Occlusion-Aware Video Object Inpainting](http://www.kelei.site/voin/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
