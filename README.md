@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 17 - [Grain (YC W20) Is Hiring](https://bookface.ycombinator.com/company/13174/jobs/45783)
 - Aug 17 - [Big Oil methane emissions: ‘significant gap’ between reality and reporting](https://www.reuters.com/article/emissions-methane-idUSMTZSPDEH8EU9J79K)
 - Aug 17 - [Autocorrect errors in Excel still creating genomics headache](https://www.nature.com/articles/d41586-021-02211-4)
+- Aug 17 - [People Now Spend More at Amazon Than at Walmart](https://www.nytimes.com/2021/08/17/technology/amazon-walmart.html)
 - Aug 17 - [Helvetica Now Variable](https://www.monotype.com/fonts/helvetica-now-variable)
-- Aug 17 - [Atlas robot does parkour](http://blog.bostondynamics.com/atlas-leaps-bounds-and-backflips)
-- Aug 17 - [Reversing LZ91 from Commander Keen](https://www.lodsb.com/reversing-lz91-from-commander-keen)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
