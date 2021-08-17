@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 17 - [Let's write a compiler, part 4: Testing](https://briancallahan.net/blog/20210817.html)
-- Aug 17 - [End of the Line for Uber](https://mostlysignssomeportents.tumblr.com/post/659150190242054144/end-of-the-line-for-uber)
-- Aug 17 - [Speeding Up `Atan2f` by 50x](https://mazzo.li/posts/vectorized-atan2.html)
+- Aug 17 - [Speeding up atan2f](https://mazzo.li/posts/vectorized-atan2.html)
 - Aug 17 - [Tinder will introduce voluntary ID verification to reduce catfishing incidents](https://www.neowin.net/news/tinder-will-introduce-voluntary-id-verification-to-reduce-catfishing-incidents/)
 - Aug 17 - [Monaru (YC S19) Is Hiring Mobile Engineers](https://www.ycombinator.com/companies/monaru/jobs/xY3DJ1O-mobile-engineer)
+- Aug 17 - [The DOJ’s Crypto Dragnet Is Bigger Than You Think](https://doomberg.substack.com/p/the-dojs-crypto-dragnet-is-bigger)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
