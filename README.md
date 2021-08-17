@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 17 - [SwiftSku (YC W21) Is Hiring Gujarati Account Executives](https://www.ycombinator.com/companies/swiftsku/jobs/YhllV1x-sales-account-executive)
+- Aug 17 - [Pompeii’s fast food joint unearthed in 2019 opens to public](https://www.theguardian.com/science/2021/aug/09/pompeis-fast-food-joint-unearthed-in-2019-opens-to-public)
+- Aug 16 - [Lumen – self-hosted Lisp for Lua and JavaScript](https://github.com/sctb/lumen)
 - Aug 16 - [Optical Adversarial Attack Can Change the Meaning of Road Signs](https://www.unite.ai/optical-adversarial-attack-can-change-the-meaning-of-road-signs/)
 - Aug 16 - [You are quite right, and my original response was wrong. I withdraw my claim](https://golem.ph.utexas.edu/category/2011/09/the_inconsistency_of_arithmeti.html)
-- Aug 16 - [Something is killing gray whales](https://www.latimes.com/projects/gray-whale-deaths-how-humans-climate-change-hurt-oceans/)
-- Aug 16 - [The US federal government has spent $6.4T dollars on the post-9/11 wars](https://watson.brown.edu/costsofwar/costs/economic)
-- Aug 16 - [Endless Sky: an open source space trading and combat game](https://endless-sky.github.io/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
