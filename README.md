@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 17 - [Palantir bought $50M in gold bars in August as cash pile grows](https://www.cnbc.com/2021/08/17/palantir-bought-50-million-in-gold-bars-in-august-as-cash-accumulates.html)
 - Aug 17 - [Zorin OS 16 is Released](https://blog.zorin.com/2021/08/17/2021-08-17-zorin-os-16-is-released/)
 - Aug 17 - [Colorado River drops to record low levels, slashing Arizona’s water supply](https://arstechnica.com/science/2021/08/colorado-river-drops-to-record-low-levels-slashing-arizonas-water-supply/)
 - Aug 17 - [Grain (YC W20) Is Hiring](https://bookface.ycombinator.com/company/13174/jobs/45783)
 - Aug 17 - [How Drawpile (free collaborative drawing program) works](https://github.com/drawpile/Drawpile/wiki/How-Drawpile-works)
+- Aug 17 - [Big Oil methane emissions: ‘significant gap’ between reality and reporting](https://www.reuters.com/article/emissions-methane-idUSMTZSPDEH8EU9J79K)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
