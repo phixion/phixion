@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 17 - [How mindfulness could make you selfish](https://www.bbc.com/worklife/article/20210813-how-mindfulness-could-make-you-selfish)
+- Aug 17 - [Git 2.33 released with new “merge-ort” merging with 500~9000x speed-up](https://github.blog/2021-08-16-highlights-from-git-2-33/)
+- Aug 17 - [5G and Beyond for Contact Tracing](https://zenodo.org/record/5157830#.YRtkc4gzaUk)
 - Aug 17 - [UserGems (YC S14) Is Hiring a Full-Stack Engineer in Europe (Remote)](https://www.usergems.com/careers/full-stack-engineer)
 - Aug 17 - [SerenityOS: Graphical Unix-like operating system with classic 90s UI](http://serenityos.org/)
-- Aug 17 - [The math that says egalitarianism is possible](https://nautil.us/issue/104/harmony/the-math-that-says-egalitarianism-is-possible)
-- Aug 17 - [Occlusion-Aware Video Object Inpainting](http://www.kelei.site/voin/)
-- Aug 17 - [How did so many Dungeon Crawl: Stone Soup players miss such an obvious bug?](https://desystemize.substack.com/p/desystemize-7)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
