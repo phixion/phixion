@@ -35,9 +35,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 17 - [Dead white man’s clothes: charity clothes fuel environmental disaster in Ghana](https://www.abc.net.au/news/2021-08-12/fast-fashion-turning-parts-ghana-into-toxic-landfill/100358702)
-- Aug 17 - [How Elephants Avoid Cancer ?](https://www.nature.com/articles/nature.2015.18534)
-- Aug 17 - [“Fixed Timeslices” by Fabien Sanglard (2012)](https://www.fabiensanglard.net/timer_and_framerate/index.php)
+- Aug 17 - [Many of the clothes we donate to charity end up dumped in landfill](https://www.abc.net.au/news/2021-08-12/fast-fashion-turning-parts-ghana-into-toxic-landfill/100358702)
+- Aug 17 - [How elephants avoid cancer (2015)](https://www.nature.com/articles/nature.2015.18534)
+- Aug 17 - [Game Timers: Issues and Solutions (2012)](https://www.fabiensanglard.net/timer_and_framerate/index.php)
 - Aug 17 - [A few useful Xcode debugging tricks](https://cornerbit.tech/a-few-useful-xcode-debugging-tricks/)
 - Aug 17 - [Show HN: Imba – I have spent 7 years creating a programming language for the web](https://news.ycombinator.com/item?id=28207662)
 <!--END_SECTION:hn-->
