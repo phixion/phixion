@@ -35,10 +35,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 17 - [Zorin OS 16 is Released](https://blog.zorin.com/2021/08/17/2021-08-17-zorin-os-16-is-released/)
-- Aug 17 - [Colorado River drops to record low levels, slashing Arizona’s water supply](https://arstechnica.com/science/2021/08/colorado-river-drops-to-record-low-levels-slashing-arizonas-water-supply/)
+- Aug 17 - [Burning Buried Sunshine (2003)](https://plus.maths.org/content/burning-buried-sunshine)
+- Aug 17 - [3dfx Voodoo – Retro Gaming PC Build](https://www.shogan.co.uk/builds/3dfx-voodoo-a-brief-history-and-a-retro-pc-build/)
 - Aug 17 - [Grain (YC W20) Is Hiring](https://bookface.ycombinator.com/company/13174/jobs/45783)
-- Aug 17 - [How Drawpile (free collaborative drawing program) works](https://github.com/drawpile/Drawpile/wiki/How-Drawpile-works)
+- Aug 17 - [How Drawpile works](https://github.com/drawpile/Drawpile/wiki/How-Drawpile-works)
 - Aug 17 - [Big Oil methane emissions: ‘significant gap’ between reality and reporting](https://www.reuters.com/article/emissions-methane-idUSMTZSPDEH8EU9J79K)
 <!--END_SECTION:hn-->
 
