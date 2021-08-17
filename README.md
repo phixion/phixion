@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 17 - [Launch YC S21: Meet the Batch, Thread #7](https://news.ycombinator.com/item?id=28209928)
+- Aug 17 - [A Simple Way to Build Collaborative Web Apps](https://zjy.cloud/posts/collaborative-web-apps)
+- Aug 17 - [Global deforestation peaked in the 1980s. Can we bring it to an end?](https://ourworldindata.org/global-deforestation-peak)
 - Aug 17 - [Let's write a compiler, part 4: Testing](https://briancallahan.net/blog/20210817.html)
-- Aug 17 - [Speeding up atan2f](https://mazzo.li/posts/vectorized-atan2.html)
-- Aug 17 - [Tinder will introduce voluntary ID verification to reduce catfishing incidents](https://www.neowin.net/news/tinder-will-introduce-voluntary-id-verification-to-reduce-catfishing-incidents/)
-- Aug 17 - [Monaru (YC S19) Is Hiring Mobile Engineers](https://www.ycombinator.com/companies/monaru/jobs/xY3DJ1O-mobile-engineer)
-- Aug 17 - [The DOJ’s Crypto Dragnet Is Bigger Than You Think](https://doomberg.substack.com/p/the-dojs-crypto-dragnet-is-bigger)
+- Aug 17 - [Bad News](https://harpers.org/archive/2021/09/bad-news-selling-the-story-of-disinformation/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
