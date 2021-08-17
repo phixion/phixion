@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 17 - [Alan Kay's answer to What was the last breakthrough in computer programming?](https://www.quora.com/What-was-the-last-breakthrough-in-computer-programming/answer/Alan-Kay-11?share=1)
+- Aug 17 - [What was the last breakthrough in computer programming? (2019)](https://www.quora.com/What-was-the-last-breakthrough-in-computer-programming/answer/Alan-Kay-11?share=1)
 - Aug 17 - [Launch YC S21: Meet the Batch, Thread #7](https://news.ycombinator.com/item?id=28209928)
 - Aug 17 - [A Simple Way to Build Collaborative Web Apps](https://zjy.cloud/posts/collaborative-web-apps)
 - Aug 17 - [Global deforestation peaked in the 1980s. Can we bring it to an end?](https://ourworldindata.org/global-deforestation-peak)
