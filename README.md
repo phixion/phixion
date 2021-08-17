@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 17 - [Atlas robot does parkour](http://blog.bostondynamics.com/atlas-leaps-bounds-and-backflips)
 - Aug 17 - [Mailable Live Animals](https://pe.usps.com/text/pub52/pub52c5_008.htm)
 - Aug 17 - [Evidence of Fraud in an Influential Field Experiment About Dishonesty](https://datacolada.org/98)
 - Aug 17 - [Google considers switching FLoC to a topic-based approach](https://digiday.com/marketing/google-switch-floc-cookie-replacement-fingerprinting-potential/)
 - Aug 17 - [What was the last breakthrough in computer programming? (2019)](https://www.quora.com/What-was-the-last-breakthrough-in-computer-programming/answer/Alan-Kay-11?share=1)
-- Aug 17 - [Stop using Zoom, Hamburg’s data protection agency warns state government](https://techcrunch.com/2021/08/17/stop-using-zoom-hamburgs-dpa-warns-state-government/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
