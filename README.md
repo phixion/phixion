@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 17 - [UserGems (YC S14) Is Hiring a Full-Stack Engineer in Europe (Remote)](https://www.usergems.com/careers/full-stack-engineer)
 - Aug 17 - [SerenityOS: Graphical Unix-like operating system with classic 90s UI](http://serenityos.org/)
 - Aug 17 - [The math that says egalitarianism is possible](https://nautil.us/issue/104/harmony/the-math-that-says-egalitarianism-is-possible)
-- Aug 17 - [Why are so many knowledge workers quitting?](https://www.newyorker.com/culture/office-space/why-are-so-many-knowledge-workers-quitting)
 - Aug 17 - [Occlusion-Aware Video Object Inpainting](http://www.kelei.site/voin/)
+- Aug 17 - [How did so many Dungeon Crawl: Stone Soup players miss such an obvious bug?](https://desystemize.substack.com/p/desystemize-7)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
