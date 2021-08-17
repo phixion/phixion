@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 17 - [Impact of the Covid-19 Pandemic on Early Child Cognitive Development](https://med.papers.bar/paper/2021.08.10.21261846)
+- Aug 17 - [How Elephants Avoid Cancer ?](https://www.nature.com/articles/nature.2015.18534)
 - Aug 17 - [A few useful Xcode debugging tricks](https://cornerbit.tech/a-few-useful-xcode-debugging-tricks/)
 - Aug 17 - [Show HN: Imba – I have spent 7 years creating a programming language for the web](https://news.ycombinator.com/item?id=28207662)
 - Aug 17 - [A shot to prevent Lyme disease  could be on its way](https://www.outsideonline.com/health/wellness/lyme-disease-prevention-antibody-shot/)
-- Aug 17 - [Mastodon now a non-profit organisation](https://blog.joinmastodon.org/2021/08/mastodon-now-a-non-profit-organisation/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
