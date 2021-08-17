@@ -37,7 +37,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Aug 17 - [Zorin OS 16 is Released](https://blog.zorin.com/2021/08/17/2021-08-17-zorin-os-16-is-released/)
 - Aug 17 - [Colorado River drops to record low levels, slashing Arizona’s water supply](https://arstechnica.com/science/2021/08/colorado-river-drops-to-record-low-levels-slashing-arizonas-water-supply/)
-- Aug 17 - [After Apple rejections, FlickType gives up on popular iPhone keyboard for blind](https://www.theverge.com/2021/8/16/22627515/flicktype-ios-keyboard-discontinued-blind-visually-impaired)
+- Aug 17 - [Why Covid-19 Is Here to Stay, and Why You Shouldn't Worry About It](https://cspicenter.org/blog/waronscience/why-covid-19-is-here-to-stay-and-why-you-shouldnt-worry-about-it/)
 - Aug 17 - [Grain (YC W20) Is Hiring](https://bookface.ycombinator.com/company/13174/jobs/45783)
 - Aug 17 - [How Drawpile (free collaborative drawing program) works](https://github.com/drawpile/Drawpile/wiki/How-Drawpile-works)
 <!--END_SECTION:hn-->
