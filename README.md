@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 17 - [Show HN: Imba – I have spent 7 years creating a programming language for the web](https://news.ycombinator.com/item?id=28207662)
 - Aug 17 - [A shot to prevent Lyme disease  could be on its way](https://www.outsideonline.com/health/wellness/lyme-disease-prevention-antibody-shot/)
 - Aug 17 - [Mastodon now a non-profit organisation](https://blog.joinmastodon.org/2021/08/mastodon-now-a-non-profit-organisation/)
 - Aug 17 - [Behind the scenes at South Kensington station's escalator replacement project](https://www.ianvisits.co.uk/blog/2021/08/17/behind-the-scenes-at-south-kensington-tube-stations-escalator-replacement-project/)
 - Aug 17 - [The Use of Formal Representations in Interfaces (1999) [pdf]](https://andymatuschak.org/files/papers/Shipman%20and%20Marshall%20-%201999%20-%20Formality%20Considered%20Harmful%20Experiences,%20Emergin.pdf)
-- Aug 17 - [How mindfulness could make you selfish](https://www.bbc.com/worklife/article/20210813-how-mindfulness-could-make-you-selfish)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
