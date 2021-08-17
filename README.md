@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 17 - [Tell Apple: Don’t Scan Our Phones](https://act.eff.org/action/tell-apple-don-t-scan-our-phones)
 - Aug 17 - [Upsolve (YC W19) is hiring a senior software engineer (React, Node, TypeScript)](https://upsolve.org/careers/software-engineer/)
 - Aug 17 - [The ATS Programming Language](http://www.ats-lang.org/)
 - Aug 17 - [Difference Between Dialogue, Discussion, & Debate](https://utlc.uncg.edu/teaching/diversity-equity-and-inclusion__trashed/dialoguediscussiondebate/)
 - Aug 17 - [Ultraprocessed Foods Now Comprise 2/3 of Calories in Children and Teen Diets](https://now.tufts.edu/news-releases/ultraprocessed-foods-now-comprise-23-calories-children-and-teen-diets?__s=mh97lz5rmmrv9zzlf0zp&utm_source=drip&utm_medium=email&utm_campaign=15+Podcasts+We+Love)
-- Aug 17 - [Burning Buried Sunshine (2003)](https://plus.maths.org/content/burning-buried-sunshine)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
