@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 17 - [After Apple rejections, FlickType gives up on popular iPhone keyboard for blind](https://www.theverge.com/2021/8/16/22627515/flicktype-ios-keyboard-discontinued-blind-visually-impaired)
+- Aug 17 - [Kubelet spends 20% time in GC in most environments where it runs](https://twitter.com/halvarflake/status/1427662489496526852)
 - Aug 17 - [Grain (YC W20) Is Hiring](https://bookface.ycombinator.com/company/13174/jobs/45783)
 - Aug 17 - [Big Oil methane emissions: ‘significant gap’ between reality and reporting](https://www.reuters.com/article/emissions-methane-idUSMTZSPDEH8EU9J79K)
 - Aug 17 - [Lawrence Livermore claims a milestone in laser fusion](https://physicstoday.scitation.org/do/10.1063/PT.6.2.20210817a/full/?af=R&)
-- Aug 17 - [Autocorrect errors in Excel still creating genomics headache](https://www.nature.com/articles/d41586-021-02211-4)
-- Aug 17 - [People Now Spend More at Amazon Than at Walmart](https://www.nytimes.com/2021/08/17/technology/amazon-walmart.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
