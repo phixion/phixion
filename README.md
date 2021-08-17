@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 17 - [The rich world’s worker deficit](https://www.economist.com/finance-and-economics/will-the-rich-worlds-worker-deficit-last/21803401)
+- Aug 17 - [German government wants Tim Cook to reconsider CSAM plans](https://appleinsider.com/articles/21/08/17/germany-writes-to-tim-cook-to-reconsider-csam-plans)
+- Aug 17 - [How do I manage an employee who doesn’t need the job?](https://www.askamanager.org/2021/08/how-do-i-manage-an-employee-who-doesnt-need-the-job.html)
 - Aug 17 - [Human algorithms are contagious but not genetic](https://www.adamjuliangoldstein.com/blog/algorithms-are-the-matter/)
 - Aug 17 - [A Gentle Introduction to Tensors (2014) [pdf]](https://www.ese.wustl.edu/~nehorai/Porat_A_Gentle_Introduction_to_Tensors_2014.pdf)
-- Aug 17 - [Upsolve (YC W19) is hiring a senior software engineer (React, Node, TypeScript)](https://upsolve.org/careers/software-engineer/)
-- Aug 17 - [The ATS Programming Language](http://www.ats-lang.org/)
-- Aug 17 - [Difference between dialogue, discussion, and debate](https://utlc.uncg.edu/teaching/diversity-equity-and-inclusion__trashed/dialoguediscussiondebate/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
