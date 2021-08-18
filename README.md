@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 18 - [NYC Emergency Executive Order 225](https://www1.nyc.gov/office-of-the-mayor/news/225-001/emergency-executive-order-225)
 - Aug 18 - [Apple censors engraving service, report claims](https://www.bbc.co.uk/news/technology-58258385)
 - Aug 18 - [ASK HN: Best RealSense Replacements?](https://github.com/IntelRealSense/librealsense/issues/9653)
+- Aug 18 - [Switching from Microsoft Edge gets more annoying in Windows 11](https://arstechnica.com/gadgets/2021/08/switching-from-microsoft-edge-gets-more-annoying-in-windows-11/)
 - Aug 18 - [Launch HN: Govly (YC S21) – Making it easier to sell to the U.S. government](https://news.ycombinator.com/item?id=28224792)
-- Aug 18 - [When did Neil Armstrong set foot on Mars?](https://www.google.com/search?q=when+did+neil+armstrong+set+foot+on+mars)
-- Aug 18 - [Reverse-engineering a vintage power supply chip from die photos](https://www.righto.com/2021/08/reverse-engineering-vintage-power.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
