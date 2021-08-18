@@ -35,8 +35,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 18 - [Tidying up the Go web experience](https://go.dev/blog/tidy-web)
 - Aug 18 - [First Beta for Krita 5.0 released](https://krita.org/en/item/first-beta-for-krita-5-0-released/)
+- Aug 18 - [Richard Bartle releases his classic “Designing Virtual Worlds” book for free](https://nwn.blogs.com/nwn/2021/08/richard-bartle-designing-virtual-worlds-free-book.html)
 - Aug 18 - [Apple defends anti-child abuse imagery tech after claims of ‘hash collisions’](https://www.vice.com/en/article/wx5yzq/apple-defends-its-anti-child-abuse-imagery-tech-after-claims-of-hash-collisions)
 - Aug 18 - [Scientific progress despite irreproducibility: A seeming paradox](https://www.pnas.org/content/115/11/2632)
 - Aug 18 - [Best RealSense replacements?](https://github.com/IntelRealSense/librealsense/issues/9653)
