@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 18 - [The controversial plan to rewild death](https://www.bbc.com/future/article/20210817-rewilding-death-germanys-plan-to-restore-the-necrobiome)
+- Aug 18 - [What Apple alternatives are you switching to?](https://news.ycombinator.com/item?id=28220968)
 - Aug 18 - [Who will win the self-driving race? Here are eight possibilities](https://arstechnica.com/cars/2021/04/who-will-win-the-self-driving-race-here-are-8-possibilities/)
 - Aug 18 - [Software Engineering Salaries in Europe vs. the United States](https://4dayweek.io/blog/software-engineering-salaries-in-europe-vs-the-united-states-2021)
 - Aug 18 - [Programmable Trap Can Kill All Viruses](https://cacm.acm.org/news/254865-programmable-trap-can-kill-viruses/fulltext)
-- Aug 18 - [Efficiently Donating Excess Covid Vaccine Supplies](https://www.kinetica.com/blog/covid-vaccines/)
-- Aug 18 - [Town is the first in America to ban new gas stations – is the tide turning?](https://www.theguardian.com/us-news/2021/aug/17/end-american-gas-station-ban)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
