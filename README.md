@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 18 - [Who will win the self-driving race? Here are eight possibilities](https://arstechnica.com/cars/2021/04/who-will-win-the-self-driving-race-here-are-8-possibilities/)
+- Aug 18 - [Software Engineering Salaries in Europe vs. the United States](https://4dayweek.io/blog/software-engineering-salaries-in-europe-vs-the-united-states-2021)
+- Aug 18 - [Programmable Trap Can Kill All Viruses](https://cacm.acm.org/news/254865-programmable-trap-can-kill-viruses/fulltext)
+- Aug 18 - [Efficiently Donating Excess Covid Vaccine Supplies](https://www.kinetica.com/blog/covid-vaccines/)
 - Aug 18 - [Town is the first in America to ban new gas stations – is the tide turning?](https://www.theguardian.com/us-news/2021/aug/17/end-american-gas-station-ban)
-- Aug 18 - [HireArt (YC W12) Is Hiring a Senior Full-Stack Software Engineer](https://www.ycombinator.com/companies/hireart/jobs/Nib7vcu-senior-full-stack-software-engineer)
-- Aug 18 - [Not-a-Linux distro review: SerenityOS is a Unix-y love letter to the ‘90s](https://arstechnica.com/gadgets/2021/08/not-a-linux-distro-review-serenityos-is-a-unix-y-love-letter-to-the-90s/)
-- Aug 18 - [Show HN: Simple Image encrypt/decrypt using Python](https://github.com/s3nh/img-cryptor)
-- Aug 18 - [Major nuclear fusion milestone reached as 'ignition' triggered in a lab](https://phys.org/news/2021-08-major-nuclear-fusion-milestone-ignition.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
