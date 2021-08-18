@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 18 - [It's Time to Retire the CSV](https://www.bitsondisk.com/writing/2021/retire-the-csv/)
-- Aug 18 - [U.S. Officials in Germany Hit by Havana Syndrome](https://www.wsj.com/articles/u-s-officials-in-germany-hit-by-havana-syndrome-11629279001)
-- Aug 18 - [What happens to your brain when you give up sugar](https://www.bbc.com/future/article/20210818-what-happens-when-you-quit-sugar)
-- Aug 18 - [United Asks Crews Not to Duct Tape Passengers to Seats](https://www.flyertalk.com/articles/united-asks-crews-not-to-duct-tape-passengers-to-seats.html)
-- Aug 18 - [Ask HN: What Apple alternatives are you switching to?](https://news.ycombinator.com/item?id=28220968)
+- Aug 18 - [Launch HN: Flow Club (YC S21) – Virtual co-working space for focused work](https://news.ycombinator.com/item?id=28222242)
+- Aug 18 - [Elm at Rakuten](https://engineering.rakuten.today/post/elm-at-rakuten/)
+- Aug 18 - [Show HN: I built an AI art installation at home generating new pieces on the fly](https://github.com/maxvfischer/DIY-ai-art)
+- Aug 18 - [Afghanistan: Taliban to reap $1T mineral wealth](https://www.dw.com/en/afghanistan-taliban-to-reap-1-trillion-mineral-wealth/a-58888765)
+- Aug 18 - [Leaky sewers are likely responsible for large amounts of medications in streams](https://www.acs.org/content/acs/en/pressroom/presspacs/2021/acs-presspac-august-18-2021/leaky-sewers-are-likely-responsible-for-large-amounts-of-medications-in-streams.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
