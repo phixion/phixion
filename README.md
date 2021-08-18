@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 18 - [DigitalOcean has the worst reviews I've ever seen](https://www.trustpilot.com/review/digitalocean.com)
 - Aug 18 - [Understanding Foreign Data Wrappers in Postgres and Postgres_fdw](https://blog.crunchydata.com/blog/understanding-postgres_fdw)
 - Aug 18 - [Canada calls screen scraping ‘unsecure,’ sets Open Banking target for 2023](https://finledger.com/2021/08/09/canada-sets-open-banking-target-for-2023/)
 - Aug 18 - [GoKart: A static analysis tool for securing Go code](https://github.com/praetorian-inc/gokart)
 - Aug 18 - [Wgpu-0.10 released: WebGPU implementation now in pure Rust](https://gfx-rs.github.io/2021/08/18/release-0.10.html)
-- Aug 18 - [SEC charges Netflix insider trading ring](https://www.sec.gov/news/press-release/2021-158)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
