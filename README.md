@@ -35,8 +35,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 18 - [Apple’s biggest problem is only getting bigger](https://www.macworld.com/article/353387/macalope-apple-app-store-monopoly-developers-congress.html)
 - Aug 18 - [Launch HN: Govly (YC S21) – Making it easier to sell to the U.S. government](https://news.ycombinator.com/item?id=28224792)
+- Aug 18 - [When did Neil Armstrong set foot on Mars?](https://www.google.com/search?q=when+did+neil+armstrong+set+foot+on+mars)
 - Aug 18 - [Reverse-engineering a vintage power supply chip from die photos](https://www.righto.com/2021/08/reverse-engineering-vintage-power.html)
 - Aug 18 - [Widely Viewed Content: What People See on Facebook](https://transparency.fb.com/data/widely-viewed-content-report/)
 - Aug 18 - [GitHub Discussions is out of beta](https://github.blog/2021-08-17-github-discussions-out-of-beta/)
