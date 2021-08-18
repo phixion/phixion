@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 18 - [NYC Emergency Executive Order 225](https://www1.nyc.gov/office-of-the-mayor/news/225-001/emergency-executive-order-225)
+- Aug 18 - [Apple Defends Anti-Child Abuse Imagery Tech After Claims of ‘Hash Collisions’](https://www.vice.com/en/article/wx5yzq/apple-defends-its-anti-child-abuse-imagery-tech-after-claims-of-hash-collisions)
 - Aug 18 - [Apple censors engraving service, report claims](https://www.bbc.co.uk/news/technology-58258385)
 - Aug 18 - [ASK HN: Best RealSense Replacements?](https://github.com/IntelRealSense/librealsense/issues/9653)
 - Aug 18 - [Switching from Microsoft Edge gets more annoying in Windows 11](https://arstechnica.com/gadgets/2021/08/switching-from-microsoft-edge-gets-more-annoying-in-windows-11/)
