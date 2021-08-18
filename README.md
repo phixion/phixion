@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Aug 17 - [Modern LZ Compression](https://glinscott.github.io/lz/index.html)
 - Aug 17 - [Complexity theory puts limits on performance of gradient descent](https://www.quantamagazine.org/computer-scientists-discover-limits-of-major-research-algorithm-20210817/)
-- Aug 17 - [Will the rich world’s worker deficit last?](https://www.economist.com/finance-and-economics/will-the-rich-worlds-worker-deficit-last/21803401)
 - Aug 17 - [Human algorithms are contagious but not genetic](https://www.adamjuliangoldstein.com/blog/algorithms-are-the-matter/)
 - Aug 17 - [A Gentle Introduction to Tensors (2014) [pdf]](https://www.ese.wustl.edu/~nehorai/Porat_A_Gentle_Introduction_to_Tensors_2014.pdf)
+- Aug 17 - [Asking nicely for root command execution and getting it](https://rachelbythebay.com/w/2021/08/17/pop/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
