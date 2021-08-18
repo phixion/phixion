@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 18 - [T-Mobile: Breach Exposed SSN/DOB of 40M+ People](https://krebsonsecurity.com/2021/08/t-mobile-breach-exposed-ssn-dob-of-40m-people/)
+- Aug 18 - [Rust API Guidelines Checklist](https://rust-lang.github.io/api-guidelines/checklist.html)
 - Aug 18 - [Building PlanetScale with PlanetScale](https://planetscale.com/blog/building-planetscale-with-planetscale)
+- Aug 18 - [Postman raises $225M Series D at $5.6B valuation](https://blog.postman.com/postman-announces-series-d/)
 - Aug 18 - [Live electricity production/consumption CO2 map](https://www.electricitymap.org/map)
-- Aug 18 - [Xerox Alto Emulator](https://archives.loomcom.com/contraltojs/)
-- Aug 18 - [Launch HN: Flow Club (YC S21) – Virtual co-working space for focused work](https://news.ycombinator.com/item?id=28222242)
-- Aug 18 - [Elm at Rakuten](https://engineering.rakuten.today/post/elm-at-rakuten/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
