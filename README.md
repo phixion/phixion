@@ -36,8 +36,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 18 - [Apple defends anti-child abuse imagery tech after claims of ‘hash collisions’](https://www.vice.com/en/article/wx5yzq/apple-defends-its-anti-child-abuse-imagery-tech-after-claims-of-hash-collisions)
+- Aug 18 - [Scientific progress despite irreproducibility: A seeming paradox](https://www.pnas.org/content/115/11/2632)
 - Aug 18 - [Best RealSense replacements?](https://github.com/IntelRealSense/librealsense/issues/9653)
-- Aug 18 - [Switching from Microsoft Edge gets more annoying in Windows 11](https://arstechnica.com/gadgets/2021/08/switching-from-microsoft-edge-gets-more-annoying-in-windows-11/)
 - Aug 18 - [Launch HN: Govly (YC S21) – Making it easier to sell to the U.S. government](https://news.ycombinator.com/item?id=28224792)
 - Aug 18 - [When did Neil Armstrong set foot on Mars?](https://www.google.com/search?q=when+did+neil+armstrong+set+foot+on+mars)
 <!--END_SECTION:hn-->
