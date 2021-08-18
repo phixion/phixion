@@ -35,10 +35,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 18 - [Sidney Powell’s 'Intelligence Contractor' Witness Sues Dominion for $3.4B](https://gizmodo.com/sidney-powell-s-secret-intelligence-contractor-witness-1847508906)
 - Aug 18 - [Launch HN: Flow Club (YC S21) – Virtual co-working space for focused work](https://news.ycombinator.com/item?id=28222242)
 - Aug 18 - [Elm at Rakuten](https://engineering.rakuten.today/post/elm-at-rakuten/)
 - Aug 18 - [Show HN: I built an AI art installation at home generating new pieces on the fly](https://github.com/maxvfischer/DIY-ai-art)
-- Aug 18 - [Afghanistan: Taliban to reap $1T mineral wealth](https://www.dw.com/en/afghanistan-taliban-to-reap-1-trillion-mineral-wealth/a-58888765)
 - Aug 18 - [Ask HN: I joined a FAANG and it is awful](https://news.ycombinator.com/item?id=28221821)
 <!--END_SECTION:hn-->
 
