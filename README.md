@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 18 - [Canada calls screen scraping ‘unsecure,’ sets Open Banking target for 2023](https://finledger.com/2021/08/09/canada-sets-open-banking-target-for-2023/)
 - Aug 18 - [GoKart: A static analysis tool for securing Go code](https://github.com/praetorian-inc/gokart)
 - Aug 18 - [Wgpu-0.10 released: WebGPU implementation now in pure Rust](https://gfx-rs.github.io/2021/08/18/release-0.10.html)
 - Aug 18 - [SEC charges Netflix insider trading ring](https://www.sec.gov/news/press-release/2021-158)
 - Aug 18 - [Modern Treasury (YC S18) is hiring engineers to build the future of money movement](https://jobs.ashbyhq.com/moderntreasury?departmentId=ee54bd63-1eab-4173-ae81-46e2b817fe57)
-- Aug 18 - [Can AI help design our logo?](https://www.labelf.ai/blog/can-ai-help-design-our-logo)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
