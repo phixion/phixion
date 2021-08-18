@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 18 - [Apple’s biggest problem is only getting bigger](https://www.macworld.com/article/353387/macalope-apple-app-store-monopoly-developers-congress.html)
+- Aug 18 - [Launch HN: Govly (YC S21) – Making it easier to sell to the U.S. government](https://news.ycombinator.com/item?id=28224792)
 - Aug 18 - [Reverse-engineering a vintage power supply chip from die photos](https://www.righto.com/2021/08/reverse-engineering-vintage-power.html)
 - Aug 18 - [Widely Viewed Content: What People See on Facebook](https://transparency.fb.com/data/widely-viewed-content-report/)
-- Aug 18 - [One Month (YC S13) Is Hiring a Copyeditor](https://news.ycombinator.com/item?id=28224060)
-- Aug 18 - [Secret FBI Watchlist Leaks Online](https://gizmodo.com/secret-fbi-watchlist-leaks-online-and-boy-do-the-feds-1847500747)
-- Aug 18 - [Guerrilla artist fakes downtown LA freeway sign](https://www.motorbiscuit.com/guerrilla-artist-fakes-downtown-la-freeway-sign-stays-up-for-years/)
+- Aug 18 - [GitHub Discussions is out of beta](https://github.blog/2021-08-17-github-discussions-out-of-beta/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
