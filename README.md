@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 18 - [Designing better batteries for electric vehicles](https://news.mit.edu/2021/designing-better-batteries-electric-vehicles-0816)
 - Aug 18 - [Program Synthesis with Large Language Models](https://arxiv.org/abs/2108.07732)
 - Aug 18 - [Slow Electricity: The Return of DC Power? (2016)](http://www.lowtechmagazine.com/2016/04/slow-electricity-the-return-of-low-voltage-dc-power.html)
-- Aug 18 - [I think I built a Liberal Arts college on the internet](https://www.otherlife.co/building-a-liberal-arts-college/)
+- Aug 18 - [Ask HN: Google is confusing me with others in a harmful way – what can I do?](https://news.ycombinator.com/item?id=28216733)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
