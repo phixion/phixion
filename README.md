@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 18 - [Modern Treasury (YC S18) is hiring engineers to build the future of money movement](https://jobs.ashbyhq.com/moderntreasury?departmentId=ee54bd63-1eab-4173-ae81-46e2b817fe57)
+- Aug 18 - [Apple’s device surveillance plan is a threat to user privacy – and press freedom](https://freedom.press/news/apples-device-surveillance-plan-is-a-threat-to-user-privacy-and-press-freedom/)
 - Aug 18 - [First Beta for Krita 5.0 released](https://krita.org/en/item/first-beta-for-krita-5-0-released/)
 - Aug 18 - [Richard Bartle releases his classic “Designing Virtual Worlds” book for free](https://nwn.blogs.com/nwn/2021/08/richard-bartle-designing-virtual-worlds-free-book.html)
 - Aug 18 - [Apple defends anti-child abuse imagery tech after claims of ‘hash collisions’](https://www.vice.com/en/article/wx5yzq/apple-defends-its-anti-child-abuse-imagery-tech-after-claims-of-hash-collisions)
-- Aug 18 - [Scientific progress despite irreproducibility: A seeming paradox](https://www.pnas.org/content/115/11/2632)
-- Aug 18 - [Best RealSense replacements?](https://github.com/IntelRealSense/librealsense/issues/9653)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
