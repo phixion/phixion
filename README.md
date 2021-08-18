@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 18 - [HireArt (YC W12) Is Hiring a Senior Full-Stack Software Engineer](https://www.ycombinator.com/companies/hireart/jobs/Nib7vcu-senior-full-stack-software-engineer)
 - Aug 18 - [Not-a-Linux distro review: SerenityOS is a Unix-y love letter to the ‘90s](https://arstechnica.com/gadgets/2021/08/not-a-linux-distro-review-serenityos-is-a-unix-y-love-letter-to-the-90s/)
 - Aug 18 - [Major nuclear fusion milestone reached as 'ignition' triggered in a lab](https://phys.org/news/2021-08-major-nuclear-fusion-milestone-ignition.html)
 - Aug 18 - [Apple says researchers can vet its CSAM tools, but is suing a startup that can.](https://www.technologyreview.com/2021/08/17/1032113/apple-says-researchers-can-vet-its-child-safety-features-its-suing-a-startup-that-does-just-that/)
 - Aug 18 - [Hash collision in Apple NeuralHash model](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX/issues/1)
-- Aug 18 - [Environmental awareness: Tackling waste management at CERN](https://home.cern/news/news/cern/environmental-awareness-tackling-waste-management-cern)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
