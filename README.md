@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 18 - [Widely Viewed Content: What People See on Facebook](https://transparency.fb.com/data/widely-viewed-content-report/)
+- Aug 18 - [One Month (YC S13) Is Hiring a Copyeditor](https://news.ycombinator.com/item?id=28224060)
+- Aug 18 - [Secret FBI Watchlist Leaks Online](https://gizmodo.com/secret-fbi-watchlist-leaks-online-and-boy-do-the-feds-1847500747)
+- Aug 18 - [Guerrilla artist fakes downtown LA freeway sign](https://www.motorbiscuit.com/guerrilla-artist-fakes-downtown-la-freeway-sign-stays-up-for-years/)
 - Aug 18 - [T-Mobile: Breach Exposed SSN/DOB of 40M+ People](https://krebsonsecurity.com/2021/08/t-mobile-breach-exposed-ssn-dob-of-40m-people/)
-- Aug 18 - [Rust API Guidelines Checklist](https://rust-lang.github.io/api-guidelines/checklist.html)
-- Aug 18 - [Building PlanetScale with PlanetScale](https://planetscale.com/blog/building-planetscale-with-planetscale)
-- Aug 18 - [Postman raises $225M Series D at $5.6B valuation](https://blog.postman.com/postman-announces-series-d/)
-- Aug 18 - [Live electricity production/consumption CO2 map](https://www.electricitymap.org/map)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
