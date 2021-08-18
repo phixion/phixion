@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 18 - [Slow Electricity: The Return of DC Power? (2016)](http://www.lowtechmagazine.com/2016/04/slow-electricity-the-return-of-low-voltage-dc-power.html)
 - Aug 18 - [Deleting no longer prompts on Android – Google Voice Community](https://support.google.com/voice/thread/121731933/deleting-no-longer-prompts-on-android-delete-icon-next-to-archive)
 - Aug 18 - [CA drought: Past dry periods have lasted more than 200 years, scientists say](https://www.mercurynews.com/2014/01/25/california-drought-past-dry-periods-have-lasted-more-than-200-years-scientists-say/)
-- Aug 18 - [As cities grow in size, the poor 'get nothing at all': study](https://santafe.edu/news-center/news/new-study-prosperity-cities-benefits-few)
+- Aug 17 - [Modern LZ Compression (2019)](https://glinscott.github.io/lz/index.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
