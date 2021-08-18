@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 18 - [The controversial plan to rewild death](https://www.bbc.com/future/article/20210817-rewilding-death-germanys-plan-to-restore-the-necrobiome)
-- Aug 18 - [What Apple alternatives are you switching to?](https://news.ycombinator.com/item?id=28220968)
-- Aug 18 - [Who will win the self-driving race? Here are eight possibilities](https://arstechnica.com/cars/2021/04/who-will-win-the-self-driving-race-here-are-8-possibilities/)
+- Aug 18 - [U.S. Officials in Germany Hit by Havana Syndrome](https://www.wsj.com/articles/u-s-officials-in-germany-hit-by-havana-syndrome-11629279001)
+- Aug 18 - [What happens to your brain when you give up sugar](https://www.bbc.com/future/article/20210818-what-happens-when-you-quit-sugar)
+- Aug 18 - [United Asks Crews Not to Duct Tape Passengers to Seats](https://www.flyertalk.com/articles/united-asks-crews-not-to-duct-tape-passengers-to-seats.html)
+- Aug 18 - [Ask HN: What Apple alternatives are you switching to?](https://news.ycombinator.com/item?id=28220968)
 - Aug 18 - [Software Engineering Salaries in Europe vs. the United States](https://4dayweek.io/blog/software-engineering-salaries-in-europe-vs-the-united-states-2021)
-- Aug 18 - [Programmable Trap Can Kill All Viruses](https://cacm.acm.org/news/254865-programmable-trap-can-kill-viruses/fulltext)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
