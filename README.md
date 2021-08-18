@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 18 - [German parliament pens letter to Apple with concerns over CSAM detection system](https://9to5mac.com/2021/08/17/german-parliament-pens-letter-to-tim-cook-with-concerns-over-csam-detection-system/)
 - Aug 18 - [1800s Astronomical Drawings vs. NASA Images (2016)](https://www.nypl.org/blog/2016/08/19/1800s-astronomical-drawings)
 - Aug 18 - [AppleNeuralHash2ONNX: Convert Apple NeuralHash Model for CSAM Detection to ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX)
 - Aug 18 - [Pilot (YC W17) Is Hiring for multiple engineering roles](https://news.ycombinator.com/item?id=28218374)
 - Aug 18 - [Designing better batteries for electric vehicles](https://news.mit.edu/2021/designing-better-batteries-electric-vehicles-0816)
-- Aug 18 - [Program Synthesis with Large Language Models](https://arxiv.org/abs/2108.07732)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
