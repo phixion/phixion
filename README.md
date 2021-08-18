@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 18 - [Program Synthesis with Large Language Models](https://arxiv.org/abs/2108.07732)
+- Aug 18 - [Slow Electricity: The Return of DC Power? (2016)](http://www.lowtechmagazine.com/2016/04/slow-electricity-the-return-of-low-voltage-dc-power.html)
+- Aug 18 - [Google Voice's terrible UI permanently deletes messages without prompting](https://support.google.com/voice/thread/121731933/deleting-no-longer-prompts-on-android-delete-icon-next-to-archive)
+- Aug 18 - [CA drought: Past dry periods have lasted more than 200 years, scientists say](https://www.mercurynews.com/2014/01/25/california-drought-past-dry-periods-have-lasted-more-than-200-years-scientists-say/)
 - Aug 18 - [As cities grow in size, the poor 'get nothing at all': study](https://santafe.edu/news-center/news/new-study-prosperity-cities-benefits-few)
-- Aug 17 - [Modern LZ Compression (2019)](https://glinscott.github.io/lz/index.html)
-- Aug 17 - [Complexity theory puts limits on performance of gradient descent](https://www.quantamagazine.org/computer-scientists-discover-limits-of-major-research-algorithm-20210817/)
-- Aug 17 - [Will the rich world’s worker deficit last?](https://www.economist.com/finance-and-economics/will-the-rich-worlds-worker-deficit-last/21803401)
-- Aug 17 - [Human algorithms are contagious but not genetic](https://www.adamjuliangoldstein.com/blog/algorithms-are-the-matter/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
