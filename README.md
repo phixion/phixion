@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 19 - [How AI-powered tech landed man in jail with scant evidence](https://apnews.com/article/artificial-intelligence-algorithm-technology-police-crime-7e3345485aa668c97606d4b54f9b6220)
 - Aug 19 - [CareRev (YC S16) Is Searching for Principle Ruby/Rails Product Eng (Remote USA)](https://grnh.se/33e93f4d3us)
 - Aug 19 - [‘Horizon Workrooms’: remote collaboration reimagined](https://www.oculus.com/blog/workrooms/)
 - Aug 19 - [Chip shortage: Toyota to cut global production by 40%](https://www.bbc.com/news/business-58266794)
 - Aug 19 - [The Quest to Recreate a Lost and ‘Terrifying’ Medieval Mead](https://www.atlasobscura.com/articles/how-to-make-medieval-mead-bochet)
-- Aug 19 - [Ask HN: What's the most life-changing blog post you've ever read?](https://news.ycombinator.com/item?id=28232165)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
