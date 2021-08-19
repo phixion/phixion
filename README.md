@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 19 - [Why Indigenous Wisdom Is an Antidote to the Climate Crisis](https://www.earthrise.studio/reads/why-indigenous-wisdom-is-an-antidote-to-the-climate-crisis)
 - Aug 19 - [Let's write a compiler, part 5: A code generator](https://briancallahan.net/blog/20210818.html)
 - Aug 19 - [The Polar Bear – Open-Source, Multipurpose CNC Machine with a Rotary Axis](https://www.kadirilkimen.com/thepolarbear/)
 - Aug 19 - [Deepnote (YC S19) is hiring to build a better data science notebook](https://deepnote.com/join-us)
 - Aug 19 - [National Center for Integrated Behavioral Health](https://www.mayo.edu/research/centers-programs/national-center-for-integrated-behavioral-health/overview)
-- Aug 19 - [Google Voice has stopped forwarding SMS](https://support.google.com/voice/answer/9182115?authuser=1)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
