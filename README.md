@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 19 - [Nftables 1.0.0 Released](https://marc.info/?l=netfilter&m=162939459210790&w=2)
 - Aug 19 - [Synthetic Minds (YC S18) is hiring a compiler engineer for program synthesis](https://www.workatastartup.com/jobs/44386)
 - Aug 19 - [Second largest US mortgage lender will accept crypto payments this year](https://www.fxstreet.com/cryptocurrencies/news/second-largest-us-mortgage-lender-will-accept-crypto-payments-this-year-202108190251)
 - Aug 19 - [Why it’s difficult to build teams in high growth organisations](https://jchyip.medium.com/why-its-difficult-to-build-teams-in-high-growth-organisations-e1aee8446337)
 - Aug 19 - [Rick and Morty’s Thanksploitation Deciduous Decision Tree](https://swagitda.com/blog/posts/rick-morty-thanksploitation-decision-tree/)
-- Aug 19 - [A 5x reduction in RAM usage with Zoekt memory optimizations](https://about.sourcegraph.com/blog/zoekt-memory-optimizations-for-sourcegraph-cloud)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
