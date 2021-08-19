@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 19 - [Google Voice has stopped forwarding SMS](https://support.google.com/voice/answer/9182115?authuser=1)
 - Aug 19 - [Why wild foxes led you to treasure in Skyrim](https://twitter.com/joelburgess/status/1428008043556622336)
 - Aug 19 - [Policy groups ask Apple to drop plans to inspect messages, scan for abuse images](https://www.reuters.com/article/uk-apple-privacy/exclusive-policy-groups-ask-apple-to-drop-plans-to-inspect-imessages-scan-for-abuse-images-idUSKBN2FK09P)
 - Aug 19 - [A Dyson sphere around a black hole](https://academic.oup.com/mnras/article-abstract/506/2/1723/6312510)
 - Aug 19 - [Show HN: Neural-hash-collider – make your own NeuralHash collisions](https://github.com/anishathalye/neural-hash-collider)
+- Aug 19 - [VisiCalc: Information from Its Creators, Dan Bricklin and Bob Frankston](http://danbricklin.com/visicalc.htm)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
