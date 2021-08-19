@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 19 - [OnlyFans to Block Sexually Explicit Videos Starting in October](https://twitter.com/business/status/1428422301536727043)
 - Aug 19 - [Sourcegraph: Why we're indexing the OSS universe](https://about.sourcegraph.com/blog/why-index-the-oss-universe/)
 - Aug 19 - [SafetyWing (YC W18) is hiring a remote executive director at Plumia](https://remoteOK.io/remote-jobs/105532-remote-executive-director-plumia)
 - Aug 19 - [History of PaaS: How Canon almost became a major cloud provider](https://blog.porter.run/history-of-paas-how-canon-almost-became-a-major-cloud-provider/)
 - Aug 19 - [ImageNet contains naturally occurring Apple NeuralHash collisions](https://blog.roboflow.com/nerualhash-collision/)
+- Aug 19 - [Wanted: Disgruntled Employees to Deploy Ransomware](https://krebsonsecurity.com/2021/08/wanted-disgruntled-employees-to-deploy-ransomware/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
