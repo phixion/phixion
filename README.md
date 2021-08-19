@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 19 - [FTC says Facebook has been a monopoly ‘since at least 2011’](https://www.theverge.com/2021/8/19/22627032/ftc-facebook-amended-antitrust-complaint-monopoly-instagram-whatsapp)
 - Aug 19 - [A Visual Guide to React Rendering](https://alexsidorenko.com/blog/react-render-always-rerenders/)
 - Aug 19 - [Nftables 1.0.0 Released](https://marc.info/?l=netfilter&m=162939459210790&w=2)
 - Aug 19 - [Synthetic Minds (YC S18) is hiring a compiler engineer for program synthesis](https://www.workatastartup.com/jobs/44386)
 - Aug 19 - [The Labor Shortage Is the Catalyst for Sustained Inflation](https://warrenbisch.medium.com/the-labor-shortage-is-the-catalyst-for-sustained-inflation-5f0d4dd38a6b)
-- Aug 19 - [Second largest US mortgage lender will accept crypto payments this year](https://www.fxstreet.com/cryptocurrencies/news/second-largest-us-mortgage-lender-will-accept-crypto-payments-this-year-202108190251)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
