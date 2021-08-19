@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 19 - [The purge of Asian American students at Thomas Jefferson High School has begun](https://www.washingtonpost.com/opinions/2021/07/02/purge-asian-american-students-thomas-jefferson-has-begun/)
-- Aug 19 - [Water Conflict Chronology (past 5k years)](http://www.worldwater.org/conflict/list/)
-- Aug 19 - [Don't Call Yourself A Programmer, And Other Career Advice (2011)](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
-- Aug 19 - [DecisionOps: Effective Engineering Management](https://decisionops.substack.com/p/decisionops)
-- Aug 19 - [Ritalin and similar medications cause brain to focus on benefits of work (2020)](https://www.sciencedaily.com/releases/2020/03/200319141044.htm)
+- Aug 19 - [FTC files new antitrust complaint against Facebook](https://www.ftc.gov/news-events/press-releases/2021/08/ftc-alleges-facebook-resorted-illegal-buy-or-bury-scheme-crush)
+- Aug 19 - [A Straightforward Way to Extend CSV with Metadata](https://gist.github.com/seece/97d02d6518db8b9e4c5b81fc686553e2)
+- Aug 19 - [The Thing Standing Between Procrastination and Daily Progress Is Ritual](https://forge.medium.com/the-thing-standing-between-procrastination-and-daily-progress-is-ritual-2823d97ffa47)
+- Aug 19 - [MIT's “Small ITS” Logo timesharing system](https://gunkies.org/wiki/SITS)
+- Aug 19 - [Nobel scientist's deletion from Wikipedia points to wider bias](https://www.cbc.ca/news/science/wikipedia-bias-1.6129073)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
