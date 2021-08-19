@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 19 - [The Arc of History Bends Toward Emotional Support Peacocks](https://wesleyyang.substack.com/p/on-the-origins-of-the-emotional-support)
+- Aug 19 - [Gmail is opening and caching URLs within emails without user intervention?](https://support.google.com/mail/thread/16878288/gmail-is-opening-and-caching-urls-within-emails-without-user-intervention-how-and-why?hl=en)
 - Aug 19 - [A Visual Guide to React Rendering](https://alexsidorenko.com/blog/react-render-always-rerenders/)
-- Aug 19 - [Nftables 1.0.0 Released](https://marc.info/?l=netfilter&m=162939459210790&w=2)
 - Aug 19 - [Synthetic Minds (YC S18) is hiring a compiler engineer for program synthesis](https://www.workatastartup.com/jobs/44386)
-- Aug 19 - [The Labor Shortage Is the Catalyst for Sustained Inflation](https://warrenbisch.medium.com/the-labor-shortage-is-the-catalyst-for-sustained-inflation-5f0d4dd38a6b)
+- Aug 19 - [The labor shortage is the catalyst for sustained inflation](https://warrenbisch.medium.com/the-labor-shortage-is-the-catalyst-for-sustained-inflation-5f0d4dd38a6b)
+- Aug 19 - [Why it’s difficult to build teams in high growth organisations](https://jchyip.medium.com/why-its-difficult-to-build-teams-in-high-growth-organisations-e1aee8446337)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
