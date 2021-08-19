@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Aug 19 - [Data-Mining Wikipedia for Fun and Profit](https://billpg.com/data-mining-wikipedia/)
 - Aug 19 - [Automating a Software Company with GitHub Actions](https://posthog.com/blog/automating-a-software-company-with-github-actions/)
+- Aug 19 - [Lex Fridman at the Joe Rogan Experience](https://open.spotify.com/episode/0DsunsN5MGI0CWwvuaxZdt)
 - Aug 19 - [Launch YC S21: Meet the Batch, Thread #8](https://news.ycombinator.com/item?id=28233916)
 - Aug 19 - [Tensions rise as Iranian dams cut off Iraqi water supplies](https://www.dw.com/en/tensions-rise-as-iranian-dams-cut-off-iraqi-water-supplies/a-58764729)
-- Aug 19 - [61% of Americans paid no income taxes in 2020](https://www.cnbc.com/2021/08/18/61percent-of-americans-paid-no-federal-income-taxes-in-2020-tax-policy-center-says.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
