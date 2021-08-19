@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Aug 19 - [SafetyWing (YC W18) Is Hiring Remote Executive Director at Plumia](https://remoteOK.io/remote-jobs/105532-remote-executive-director-plumia)
 - Aug 19 - [ImageNet contains naturally occurring Apple NeuralHash collisions](https://blog.roboflow.com/nerualhash-collision/)
+- Aug 19 - [Wanted: Disgruntled Employees to Deploy Ransomware](https://krebsonsecurity.com/2021/08/wanted-disgruntled-employees-to-deploy-ransomware/)
 - Aug 19 - [FTC files new antitrust complaint against Facebook](https://www.ftc.gov/news-events/press-releases/2021/08/ftc-alleges-facebook-resorted-illegal-buy-or-bury-scheme-crush)
 - Aug 19 - [A Straightforward Way to Extend CSV with Metadata](https://gist.github.com/seece/97d02d6518db8b9e4c5b81fc686553e2)
-- Aug 19 - [The Thing Standing Between Procrastination and Daily Progress Is Ritual](https://forge.medium.com/the-thing-standing-between-procrastination-and-daily-progress-is-ritual-2823d97ffa47)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
