@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 19 - [The purge of Asian American students at Thomas Jefferson High School has begun](https://www.washingtonpost.com/opinions/2021/07/02/purge-asian-american-students-thomas-jefferson-has-begun/)
 - Aug 19 - [Water Conflict Chronology (past 5k years)](http://www.worldwater.org/conflict/list/)
 - Aug 19 - [Don't Call Yourself A Programmer, And Other Career Advice (2011)](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
 - Aug 19 - [DecisionOps: Effective Engineering Management](https://decisionops.substack.com/p/decisionops)
 - Aug 19 - [Ritalin and similar medications cause brain to focus on benefits of work (2020)](https://www.sciencedaily.com/releases/2020/03/200319141044.htm)
-- Aug 19 - [Google introducing tool for under-18s to remove images of them from search](https://blog.google/technology/families/giving-kids-and-teens-safer-experience-online/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
