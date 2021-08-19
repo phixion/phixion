@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 19 - [Launch YC S21: Meet the Batch, Thread #8](https://news.ycombinator.com/item?id=28233916)
+- Aug 19 - [286 vs. 386SX](https://dfarq.homeip.net/286-vs-386sx/)
 - Aug 19 - [“Pack it in, mathematicians, someone owes LLVM a million bucks”](https://twitter.com/jckarter/status/1428093469755527168)
 - Aug 19 - [A Circumplanetary Disk Around PDS70 C [pdf]](https://www.eso.org/public/archives/releases/sciencepapers/eso2111/eso2111a.pdf)
-- Aug 19 - [CareRev (YC S16) Is Searching for Principle Ruby/Rails Product Eng (Remote USA)](https://grnh.se/33e93f4d3us)
-- Aug 19 - [‘Horizon Workrooms’: remote collaboration reimagined](https://www.oculus.com/blog/workrooms/)
-- Aug 19 - [Chip shortage: Toyota to cut global production by 40%](https://www.bbc.com/news/business-58266794)
+- Aug 19 - [Apple urged to drop plans to scan iMessages, images for sex abuse](https://www.aljazeera.com/news/2021/8/19/apple-privacy-rights-groups-child-sex-abuse-imessage)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
