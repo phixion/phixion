@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 19 - [CareRev (YC S16) Is Searching for Principle Ruby/Rails Product Eng (Remote USA)](https://grnh.se/33e93f4d3us)
+- Aug 19 - [The Quest to Recreate a Lost and ‘Terrifying’ Medieval Mead](https://www.atlasobscura.com/articles/how-to-make-medieval-mead-bochet)
+- Aug 19 - [Ask HN: What's the most life-changing blog post you've ever read?](https://news.ycombinator.com/item?id=28232165)
 - Aug 19 - [Harbormaster: The anti-Kubernetes for your personal server](https://gitlab.com/stavros/harbormaster)
 - Aug 19 - [The world must cooperate to avoid a catastrophic space collision](https://www.nature.com/articles/d41586-021-02167-5)
-- Aug 19 - [Let's write a compiler, part 5: A code generator](https://briancallahan.net/blog/20210818.html)
-- Aug 19 - [The Polar Bear – Open-Source, Multipurpose CNC Machine with a Rotary Axis](https://www.kadirilkimen.com/thepolarbear/)
-- Aug 19 - [Deepnote (YC S19) is hiring to build a better data science notebook](https://deepnote.com/join-us)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
