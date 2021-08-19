@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 19 - [Launch YC S21: Meet the Batch, Thread #8](https://news.ycombinator.com/item?id=28233916)
+- Aug 19 - [Tensions rise as Iranian dams cut off Iraqi water supplies](https://www.dw.com/en/tensions-rise-as-iranian-dams-cut-off-iraqi-water-supplies/a-58764729)
+- Aug 19 - [61% of Americans paid no income taxes in 2020](https://www.cnbc.com/2021/08/18/61percent-of-americans-paid-no-federal-income-taxes-in-2020-tax-policy-center-says.html)
+- Aug 19 - [LLVM Internals: The Bitcode Format](https://blog.yossarian.net/2021/07/19/LLVM-internals-part-1-bitcode-format)
 - Aug 19 - [286 vs. 386SX](https://dfarq.homeip.net/286-vs-386sx/)
-- Aug 19 - [“Pack it in, mathematicians, someone owes LLVM a million bucks”](https://twitter.com/jckarter/status/1428093469755527168)
-- Aug 19 - [A Circumplanetary Disk Around PDS70 C [pdf]](https://www.eso.org/public/archives/releases/sciencepapers/eso2111/eso2111a.pdf)
-- Aug 19 - [Apple urged to drop plans to scan iMessages, images for sex abuse](https://www.aljazeera.com/news/2021/8/19/apple-privacy-rights-groups-child-sex-abuse-imessage)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
