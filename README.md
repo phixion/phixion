@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 19 - [Palantir CEO Alex Karp gives $180k to ousted hermit River Dave](https://www.concordmonitor.com/Billionaire-Palantir-CEO-donates-180k-River-Dave-42046438)
 - Aug 19 - [A Visual Guide to React Rendering](https://alexsidorenko.com/blog/react-render-always-rerenders/)
 - Aug 19 - [Synthetic Minds (YC S18) is hiring a compiler engineer for program synthesis](https://www.workatastartup.com/jobs/44386)
-- Aug 19 - [Why it’s difficult to build teams in high growth organisations](https://jchyip.medium.com/why-its-difficult-to-build-teams-in-high-growth-organisations-e1aee8446337)
+- Aug 19 - [Fructose in diet expands the surface of the gut and promotes nutrient absorption](https://www.nature.com/articles/d41586-021-02195-1)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
