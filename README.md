@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 19 - [Water Conflict Chronology (past 5k years)](http://www.worldwater.org/conflict/list/)
+- Aug 19 - [Don't Call Yourself A Programmer, And Other Career Advice (2011)](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
+- Aug 19 - [DecisionOps: Effective Engineering Management](https://decisionops.substack.com/p/decisionops)
 - Aug 19 - [Ritalin and similar medications cause brain to focus on benefits of work (2020)](https://www.sciencedaily.com/releases/2020/03/200319141044.htm)
 - Aug 19 - [Google introducing tool for under-18s to remove images of them from search](https://blog.google/technology/families/giving-kids-and-teens-safer-experience-online/)
-- Aug 19 - [The Best Science Fiction and Fantasy Books of the Past Decade](https://www.npr.org/2021/08/18/1027159166/best-books-science-fiction-fantasy-past-decade)
-- Aug 19 - [Data-Mining Wikipedia for Fun and Profit](https://billpg.com/data-mining-wikipedia/)
-- Aug 19 - [Automating a Software Company with GitHub Actions](https://posthog.com/blog/automating-a-software-company-with-github-actions/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
