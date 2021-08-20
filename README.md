@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 20 - [Infracost (YC W21) is hiring a software engineer: love your cloud bills](https://www.ycombinator.com/companies/infracost/jobs/Epvol5L-principal-software-engineer)
 - Aug 20 - [Sad, lonely people more likely to be ‘natural’ social psychologists](https://news.yale.edu/2018/03/15/study-sad-lonely-people-more-likely-be-natural-social-psychologists)
 - Aug 20 - [Horton Hears a Whostyle](https://jacobhall.net/2021/08/horton-hears-a-whostyle/)
 - Aug 20 - [Cproc C Compiler](https://github.com/michaelforney/cproc)
 - Aug 20 - [Tesla Announces a Humanoid Robot “Tesla Bot”](https://electrek.co/2021/08/19/tesla-bot-humanoid-robot/)
-- Aug 20 - [Quantum Mechanics of Gravitational Waves](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.081602)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
