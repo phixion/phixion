@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 20 - [Who gets to define what’s ‘racist?’ (2020)](https://contexts.org/blog/who-gets-to-define-whats-racist/)
 - Aug 20 - [Point-to-point Wi-Fi bridging between buildings–the cheap and easy way](https://arstechnica.com/gadgets/2021/08/point-to-point-wi-fi-bridging-between-buildings-the-cheap-and-easy-way/)
-- Aug 20 - [Which processed foods are better than natural?](https://www.bbc.com/future/article/20210521-which-processed-foods-are-better-than-natural)
 - Aug 20 - [Facebook hacker beat my 2FA, bricked my Oculus, and hit the company credit card](https://codewriteplay.com/2021/08/20/a-facebook-hacker-beat-my-2fa-bricked-my-oculus-quest-and-hit-the-company-credit-card/)
 - Aug 20 - [Google is dismantling its health division](https://www.businessinsider.com/google-health-shutting-down-david-feinberg-leaves-2021-8)
-- Aug 20 - [Devices and Your Employer](https://rachelbythebay.com/w/2021/08/20/phones/)
+- Aug 20 - [Your devices and your employer](https://rachelbythebay.com/w/2021/08/20/phones/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
