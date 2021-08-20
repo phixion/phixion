@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 20 - [Apple forced an employee to handover “pics of my boobs”](https://twitter.com/ashleygjovik/status/1428495420917837826)
 - Aug 20 - [Tesla Announces a Humanoid Robot “Tesla Bot”](https://electrek.co/2021/08/19/tesla-bot-humanoid-robot/)
 - Aug 20 - [New SARS-CoV-2 variants have changed the pandemic. What will the virus do next?](https://www.sciencemag.org/news/2021/08/new-sars-cov-2-variants-have-changed-pandemic-what-will-virus-do-next)
 - Aug 20 - [Quantum Mechanics of Gravitational Waves](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.081602)
 - Aug 20 - [Apple explicitly asks employees to merge their personal and work accounts](https://twitter.com/oilyraincloud/status/1428497203253833731)
+- Aug 20 - [The lost tablet and secret documents: Clues pointing to a shadowy Russian army](https://www.bbc.co.uk/news/extra/8iaz6xit26/the-lost-tablet-and-the-secret-documents)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
