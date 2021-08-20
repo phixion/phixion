@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 20 - [Google is dismantling its health division](https://www.businessinsider.com/google-health-shutting-down-david-feinberg-leaves-2021-8)
 - Aug 20 - [SpaceX’s Starlink near-misses with other spacecraft are getting ‘out of control’](https://www.independent.co.uk/space/elon-musk-spacex-starlink-satellite-near-misses-b1905969.html)
 - Aug 20 - [Devices and Your Employer](https://rachelbythebay.com/w/2021/08/20/phones/)
-- Aug 20 - [The mutation that helps Delta spread like wildfire](https://www.nature.com/articles/d41586-021-02275-2)
+- Aug 20 - [The mutation that helps Delta spread](https://www.nature.com/articles/d41586-021-02275-2)
 - Aug 20 - [Chronically lonely flies overeat and lose sleep](https://www.nature.com/articles/d41586-021-02194-2)
-- Aug 20 - [CS/A65. A 6502 computer with USB, Ethernet and co-processors](http://www.6502.org/users/andre/csa/index.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
