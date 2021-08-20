@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 20 - [Sometimes it is just a bad battery](https://rachelbythebay.com/w/2021/08/19/batt/)
+- Aug 20 - [The animals changed by proximity to humans](https://www.bbc.com/future/article/20210805-the-animals-changed-by-proximity-to-humans)
 - Aug 20 - [Princeton Researchers Who Built a CSAM Scanning System Urge Apple to Not Use It](https://www.macrumors.com/2021/08/20/university-researchers-csam-dangerous/)
 - Aug 20 - [Uber allegedly more than doubles prices when battery is low](https://twitter.com/NerdyAndNatural/status/1427614996738068485)
 - Aug 20 - [The End of Social Media](https://miikavonbell.com/posts/end-of-social-media/)
-- Aug 20 - [Rain falls on peak of Greenland ice cap for first time on record](https://www.theguardian.com/world/2021/aug/20/rain-falls-peak-greenland-ice-cap-first-time-on-record-climate-crisis)
-- Aug 20 - [Rain falls at the summit of Greenland Ice Sheet for first time on record](https://www.washingtonpost.com/weather/2021/08/19/greenland-melt-august-summit-rain/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
