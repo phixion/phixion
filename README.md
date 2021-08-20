@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 20 - [Dendron (YC W21) Is Hiring Founding Engineer to Build a Better Tool for Thought](https://wiki.dendron.so/notes/MMrQN7haAkDZIJJs.html)
+- Aug 20 - [Home Prices Are Now Higher Than the Peak of the 2000s Housing Bubble](https://www.npr.org/sections/money/2021/08/17/1028083046/home-prices-are-now-higher-than-the-peak-of-the-2000s-housing-bubble-what-gives)
+- Aug 20 - [I won over $55M in the lottery, but didn’t tell my friends or family](https://www.marketwatch.com/story/i-won-over-55-million-in-the-california-lottery-but-didnt-tell-my-friends-or-family-did-i-do-the-right-thing-11625001363)
 - Aug 20 - [The Ruin of War](https://acoup.blog/2021/08/20/collections-teaching-paradox-victoria-ii-part-ii-the-ruin-of-war/)
-- Aug 20 - [Launch HN: Ancana (YC S21) – Fractional ownership of vacation homes](https://news.ycombinator.com/item?id=28247379)
-- Aug 20 - [What happens when all of your co-workers quit?](https://www.thecut.com/2021/08/workers-left-behind-by-the-great-resignation.html)
-- Aug 20 - [Open source Pocket code](https://bugzilla.mozilla.org/show_bug.cgi?id=1343006#c10)
+- Aug 20 - [Apple's Past Sideloading Plans](https://www.macrumors.com/2021/08/20/apple-sideloading-plans-ecosystem-lock-in-revealed/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
