@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 20 - [Rain falls on peak of Greenland ice cap for first time on record](https://www.theguardian.com/world/2021/aug/20/rain-falls-peak-greenland-ice-cap-first-time-on-record-climate-crisis)
+- Aug 20 - [Rain falls at the summit of Greenland Ice Sheet for first time on record](https://www.washingtonpost.com/weather/2021/08/19/greenland-melt-august-summit-rain/)
+- Aug 20 - [Tesla AI Day Live Stream](https://www.youtube.com/watch?v=j0z4FweCy4M&)
+- Aug 20 - [Apple's bright idea for CSAM scanning could start persecution on a global basis](https://www.theregister.com/2021/08/19/apple_csam_condemned/)
 - Aug 20 - [Manim: An animation engine for explanatory math videos](https://github.com/ManimCommunity/manim)
-- Aug 20 - [Why Peru is reviving a pre-Incan technology for water](https://www.bbc.com/future/article/20210510-perus-urgent-search-for-slow-water)
-- Aug 20 - [Streak (YC S11) hiring TypeScript/React expert to ship to 1M users (remote)](https://www.streak.com/careers/product-engineer)
-- Aug 20 - [Google is shutting down its Android Auto mobile app in favor of Google Assistant](https://www.theverge.com/2021/8/20/22633755/google-android-auto-for-phone-screens-shutting-down-android-12-google-assistant-driving-mode)
-- Aug 20 - [Bats Love to Babble – Just Like Humans](https://www.npr.org/2021/08/19/1029343443/bats-love-to-babble-just-like-humans)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
