@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 20 - [Memfd_secret() in 5.14](https://lwn.net/Articles/865256/)
+- Aug 20 - [Tesla AI Day Live Stream [video]](https://livestream.tesla.com)
+- Aug 19 - [Building Container Images with Nix](https://thewagner.net/blog/2021/02/25/building-container-images-with-nix/)
 - Aug 19 - [What Is ‘Elite Overproduction’?](https://www.overcomingbias.com/2021/08/what-is-elite-overproduction.html)
-- Aug 19 - [Palantir CEO Alex Karp gives $180k to ousted hermit River Dave](https://www.concordmonitor.com/Billionaire-Palantir-CEO-donates-180k-River-Dave-42046438)
 - Aug 19 - [A Visual Guide to React Rendering](https://alexsidorenko.com/blog/react-render-always-rerenders/)
-- Aug 19 - [Synthetic Minds (YC S18) is hiring a compiler engineer for program synthesis](https://www.workatastartup.com/jobs/44386)
-- Aug 19 - [Fructose in diet expands the surface of the gut and promotes nutrient absorption](https://www.nature.com/articles/d41586-021-02195-1)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
