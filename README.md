@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 20 - [Launch HN: Ancana (YC S21) – Fractional ownership of vacation homes](https://news.ycombinator.com/item?id=28247379)
-- Aug 20 - [After 3 years mozilla still did not open source pocket](https://bugzilla.mozilla.org/show_bug.cgi?id=1343006#c10)
+- Aug 20 - [What happens when all of your co-workers quit?](https://www.thecut.com/2021/08/workers-left-behind-by-the-great-resignation.html)
+- Aug 20 - [Open source Pocket code](https://bugzilla.mozilla.org/show_bug.cgi?id=1343006#c10)
+- Aug 20 - [Roblox faces criticism for 'exploiting' young game developers](https://www.gamasutra.com/view/news/387113/Roblox_faces_criticism_for_exploiting_young_game_developers.php)
 - Aug 20 - [Thought-Terminating Cliché](https://en.wikipedia.org/wiki/Thought-terminating_clich%C3%A9)
-- Aug 20 - [Claimed AT&T hack of 70M customer records including SSN, name, address](https://9to5mac.com/2021/08/20/claimed-att-hack/)
-- Aug 20 - [Dumb Phone](https://joindiaspora.com/posts/6ce99700e3090139df2b002590d8e506)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
