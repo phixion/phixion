@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 20 - [Google's payments team is seeing an exodus of executives and employees](https://www.businessinsider.com/google-pay-payments-team-seeing-executive-exodus-turnover-caesar-sengupta-2021-8)
 - Aug 20 - [Human in Robot Costume Good Metaphor for How Close Tesla Is to A.I](https://www.thedrive.com/tech/42078/person-in-robot-costume-actually-good-metaphor-for-how-close-tesla-is-to-a-i)
 - Aug 20 - [OneSignal (YC S11) Is Hiring a Head of Product Engineering](https://onesignal.com/careers/5accd5c2-4a81-45ca-9813-701cae3cbec4)
 - Aug 20 - [DevTools Leverage](https://explog.in/notes/devtools/leverage.html)
 - Aug 20 - [macOS 11’s hidden security improvements](https://blog.malwarebytes.com/mac/2021/08/macos-11s-hidden-security-improvements/)
-- Aug 20 - [Point-to-point Wi-Fi bridging between buildings–the cheap and easy way](https://arstechnica.com/gadgets/2021/08/point-to-point-wi-fi-bridging-between-buildings-the-cheap-and-easy-way/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
