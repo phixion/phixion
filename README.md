@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 20 - [Chatroullete – Collaborative filtering doesn't work for us](https://about.chatroulette.com/posts/better-match-making-part-1/)
 - Aug 20 - [FFmpeg for browser and node, powered by WebAssembly](https://ffmpegwasm.netlify.app/)
+- Aug 20 - [We Will Do Anything to Get You to Work for Us Except Pay You Enough [McSweeneys]](https://www.mcsweeneys.net/articles/we-will-do-anything-to-get-you-to-work-for-us-except-pay-you-enough)
 - Aug 20 - [View your browser's TLS fingerprint](https://tlsfingerprint.io/)
 - Aug 20 - [Google's payments team is seeing an exodus of executives and employees](https://www.businessinsider.com/google-pay-payments-team-seeing-executive-exodus-turnover-caesar-sengupta-2021-8)
-- Aug 20 - [OneSignal (YC S11) Is Hiring a Head of Product Engineering](https://onesignal.com/careers/5accd5c2-4a81-45ca-9813-701cae3cbec4)
-- Aug 20 - [DevTools Leverage](https://explog.in/notes/devtools/leverage.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
