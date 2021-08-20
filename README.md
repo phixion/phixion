@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 20 - [The looming disaster of immunity passports and digital identity (2020)](https://privacyinternational.org/long-read/4074/looming-disaster-immunity-passports-and-digital-identity)
 - Aug 20 - [FFmpeg for browser and node, powered by WebAssembly](https://ffmpegwasm.netlify.app/)
 - Aug 20 - [View the Browser's TLS Fingerprint](https://tlsfingerprint.io/)
 - Aug 20 - [Google's payments team is seeing an exodus of executives and employees](https://www.businessinsider.com/google-pay-payments-team-seeing-executive-exodus-turnover-caesar-sengupta-2021-8)
 - Aug 20 - [Human in Robot Costume Good Metaphor for How Close Tesla Is to A.I](https://www.thedrive.com/tech/42078/person-in-robot-costume-actually-good-metaphor-for-how-close-tesla-is-to-a-i)
+- Aug 20 - [OneSignal (YC S11) Is Hiring a Head of Product Engineering](https://onesignal.com/careers/5accd5c2-4a81-45ca-9813-701cae3cbec4)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
