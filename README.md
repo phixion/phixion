@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 20 - [The lost tablet and secret documents: Clues pointing to a shadowy Russian army](https://www.bbc.co.uk/news/extra/8iaz6xit26/the-lost-tablet-and-the-secret-documents)
 - Aug 20 - [Memfd_secret() in 5.14](https://lwn.net/Articles/865256/)
 - Aug 20 - [Tesla AI Day Live Stream [video]](https://livestream.tesla.com)
 - Aug 19 - [Building Container Images with Nix](https://thewagner.net/blog/2021/02/25/building-container-images-with-nix/)
 - Aug 19 - [What Is ‘Elite Overproduction’?](https://www.overcomingbias.com/2021/08/what-is-elite-overproduction.html)
-- Aug 19 - [A Visual Guide to React Rendering](https://alexsidorenko.com/blog/react-render-always-rerenders/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
