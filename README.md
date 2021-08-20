@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 20 - [Manim: An animation engine for explanatory math videos](https://github.com/ManimCommunity/manim)
+- Aug 20 - [Why Peru is reviving a pre-Incan technology for water](https://www.bbc.com/future/article/20210510-perus-urgent-search-for-slow-water)
 - Aug 20 - [Streak (YC S11) hiring TypeScript/React expert to ship to 1M users (remote)](https://www.streak.com/careers/product-engineer)
-- Aug 20 - [Archaeologists Discover 'Lost Golden City of Luxor'](https://www.dw.com/en/archaeologists-discover-lost-golden-city-of-luxor/g-57141238)
-- Aug 20 - [Another free CA as an alternative to Let's Encrypt](https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt/)
-- Aug 20 - [The plant that cannot die](https://www.independent.co.uk/news/science/welwitschia-plant-namib-desert-namibia-angola-b1895173.html)
-- Aug 20 - [Ask HN: What LinkedIn alternatives don't suck?](https://news.ycombinator.com/item?id=28244064)
+- Aug 20 - [Google is shutting down its Android Auto mobile app in favor of Google Assistant](https://www.theverge.com/2021/8/20/22633755/google-android-auto-for-phone-screens-shutting-down-android-12-google-assistant-driving-mode)
+- Aug 20 - [Bats Love to Babble – Just Like Humans](https://www.npr.org/2021/08/19/1029343443/bats-love-to-babble-just-like-humans)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
