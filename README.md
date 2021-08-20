@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 20 - [Thought-Terminating Cliché](https://en.wikipedia.org/wiki/Thought-terminating_clich%C3%A9)
+- Aug 20 - [Claimed AT&T hack of 70M customer records including SSN, name, address](https://9to5mac.com/2021/08/20/claimed-att-hack/)
+- Aug 20 - [Ask HN: Should it be legal to switch privacy policies after purchase?](https://news.ycombinator.com/item?id=28246603)
 - Aug 20 - [Sometimes it is just a bad battery](https://rachelbythebay.com/w/2021/08/19/batt/)
 - Aug 20 - [Animals changed by proximity to humans](https://www.bbc.com/future/article/20210805-the-animals-changed-by-proximity-to-humans)
-- Aug 20 - [Free Software NOT as in “free speech,” NOR as in “free beer”](https://ahmadhaghighi.com/blog/2021/us-restricted-free-software/)
-- Aug 20 - [Princeton Researchers Who Built a CSAM Scanning System Urge Apple to Not Use It](https://www.macrumors.com/2021/08/20/university-researchers-csam-dangerous/)
-- Aug 20 - [Uber allegedly more than doubles prices when battery is low](https://twitter.com/NerdyAndNatural/status/1427614996738068485)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
