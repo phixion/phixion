@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 20 - [Streak (YC S11) hiring TypeScript/React expert to ship to 1M users (remote)](https://www.streak.com/careers/product-engineer)
 - Aug 20 - [Archaeologists Discover 'Lost Golden City of Luxor'](https://www.dw.com/en/archaeologists-discover-lost-golden-city-of-luxor/g-57141238)
 - Aug 20 - [Another free CA as an alternative to Let's Encrypt](https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt/)
 - Aug 20 - [The plant that cannot die](https://www.independent.co.uk/news/science/welwitschia-plant-namib-desert-namibia-angola-b1895173.html)
 - Aug 20 - [Ask HN: What LinkedIn alternatives don't suck?](https://news.ycombinator.com/item?id=28244064)
-- Aug 20 - [CFC ban bought us time to fight climate change, say scientists](https://www.bbc.co.uk/news/science-environment-58248725)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
