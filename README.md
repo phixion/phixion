@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 20 - [CS/A65. A 6502 computer with USB, Ethernet and co-processors](http://www.6502.org/users/andre/csa/index.html)
 - Aug 20 - [Dendron (YC W21) Is Hiring Founding Engineer to Build a Better Tool for Thought](https://wiki.dendron.so/notes/MMrQN7haAkDZIJJs.html)
 - Aug 20 - [Home Prices Are Now Higher Than the Peak of the 2000s Housing Bubble](https://www.npr.org/sections/money/2021/08/17/1028083046/home-prices-are-now-higher-than-the-peak-of-the-2000s-housing-bubble-what-gives)
 - Aug 20 - [I won over $55M in the lottery, but didn’t tell my friends or family](https://www.marketwatch.com/story/i-won-over-55-million-in-the-california-lottery-but-didnt-tell-my-friends-or-family-did-i-do-the-right-thing-11625001363)
 - Aug 20 - [Merchants can keep charging your card even if it's cancelled/expired](https://developer.visa.com/capabilities/vau)
-- Aug 20 - [The Ruin of War](https://acoup.blog/2021/08/20/collections-teaching-paradox-victoria-ii-part-ii-the-ruin-of-war/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
