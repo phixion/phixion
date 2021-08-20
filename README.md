@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 19 - [Danny DeVito was unverified on Twitter after supporting union strike](https://twitter.com/moreperfectus/status/1428469929288871946)
+- Aug 19 - [What Is ‘Elite Overproduction’?](https://www.overcomingbias.com/2021/08/what-is-elite-overproduction.html)
 - Aug 19 - [Palantir CEO Alex Karp gives $180k to ousted hermit River Dave](https://www.concordmonitor.com/Billionaire-Palantir-CEO-donates-180k-River-Dave-42046438)
 - Aug 19 - [A Visual Guide to React Rendering](https://alexsidorenko.com/blog/react-render-always-rerenders/)
 - Aug 19 - [Synthetic Minds (YC S18) is hiring a compiler engineer for program synthesis](https://www.workatastartup.com/jobs/44386)
