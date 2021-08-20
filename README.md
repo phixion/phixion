@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 20 - [Archaeologists Discover 'Lost Golden City of Luxor'](https://www.dw.com/en/archaeologists-discover-lost-golden-city-of-luxor/g-57141238)
 - Aug 20 - [Another free CA as an alternative to Let's Encrypt](https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt/)
 - Aug 20 - [The plant that cannot die](https://www.independent.co.uk/news/science/welwitschia-plant-namib-desert-namibia-angola-b1895173.html)
+- Aug 20 - [Ask HN: What LinkedIn alternatives don't suck?](https://news.ycombinator.com/item?id=28244064)
 - Aug 20 - [CFC ban bought us time to fight climate change, say scientists](https://www.bbc.co.uk/news/science-environment-58248725)
-- Aug 20 - [Fun with regular expressions: part I](https://yurichev.com/news/20210819_RE1/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
