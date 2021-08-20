@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 20 - [The plant that cannot die](https://www.independent.co.uk/news/science/welwitschia-plant-namib-desert-namibia-angola-b1895173.html)
+- Aug 20 - [Have problems with PostgreSQL? Try using Hive (2015)](http://peter.eisentraut.org/blog/2015/08/14/have-problems-with-postgresql-try-using-hive/)
 - Aug 20 - [The gas 300 times more potent than CO2](https://www.bbc.com/future/article/20210603-nitrous-oxide-the-worlds-forgotten-greenhouse-gas)
 - Aug 20 - [Feeding cows seaweed cuts 99% of greenhouse gas emissions from their burps](https://www.independent.co.uk/environment/cows-seaweed-methane-burps-cut-greenhouse-gas-emissions-climate-change-research-a8368911.html)
 - Aug 20 - [Infracost (YC W21) is hiring a software engineer: love your cloud bills](https://www.ycombinator.com/companies/infracost/jobs/Epvol5L-principal-software-engineer)
-- Aug 20 - [Experience: I spent 29 years in solitary confinement (2010)](http://www.theguardian.com/lifeandstyle/2010/aug/28/29-years-solitary-confinement-robert-king/print)
-- Aug 20 - [Horton Hears a Whostyle](https://jacobhall.net/2021/08/horton-hears-a-whostyle/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
