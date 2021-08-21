@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 21 - [Launch HN: Fella (YC W20) – Tackling men's obesity using medication and coaching](https://news.ycombinator.com/item?id=28257352)
 - Aug 21 - [IceFireDB: Distributed disk storage database based on Raft and Redis protocol](https://github.com/gitsrc/IceFireDB)
 - Aug 21 - [Thoughts of work invaded my life–until I learned how to unplug](https://www.sciencemag.org/careers/2021/08/thoughts-work-invaded-my-life-until-i-learned-how-unplug)
 - Aug 21 - [Benefits of Not Using an IDE](https://alexander-hansen.dev/blog/benefits-of-not-using-an-ide)
 - Aug 21 - [Snap: A microkernel approach to host networking](https://research.google/pubs/pub48630/)
-- Aug 21 - [The Taliban Have Seized U.S. Military Biometrics Devices](https://theintercept.com/2021/08/17/afghanistan-taliban-military-biometrics/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
