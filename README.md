@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Aug 21 - [Orlando urges residents to conserve water because of surge in hospitalizations](https://www.washingtonpost.com/health/2021/08/20/covid-surge-orlando-water-conservation/)
 - Aug 21 - [Elon Musk Has No Idea What He’s Doing with Tesla Bot](https://spectrum.ieee.org/elon-musk-robot)
+- Aug 21 - [Can ‘smart thinking’ books give you the edge?](https://www.theguardian.com/books/2021/aug/21/can-smart-thinking-books-really-give-you-the-edge)
 - Aug 21 - [India approves first DNA Covid vaccine](https://www.bbc.co.uk/news/world-asia-india-57774294)
 - Aug 21 - [Engineers put Leonardo da Vinci's bridge design to the test (2019)](https://techxplore.com/news/2019-10-leonardo-da-vinci-bridge.html)
-- Aug 21 - [Janet Programming Language](https://janet-lang.org/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
