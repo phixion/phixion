@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 21 - [Generics enabled by default in Go tip](https://go-review.googlesource.com/c/go/+/343732/)
+- Aug 21 - [Moderna’s mRNA Vaccine for HIV Is Starting Human Trials](https://singularityhub.com/2021/08/20/modernas-mrna-vaccine-for-hiv-is-starting-human-trials-this-week/)
+- Aug 21 - [Airliner Number 4](https://en.wikipedia.org/wiki/Airliner_Number_4)
 - Aug 21 - [Enhanced Support for Citations on GitHub](https://github.blog/2021-08-19-enhanced-support-citations-github/)
 - Aug 21 - [Golang.org will be merged into go.dev](https://go.dev/blog/tidy-web)
-- Aug 21 - [CA Superior Court judge finds Prop 22 Unconstitutional](https://www.sacbee.com/news/politics-government/capitol-alert/article253647838.html)
-- Aug 21 - [Prop 22 found unconstitutional by California Superior Court](https://twitter.com/veenadubal/status/1428873686212173826)
-- Aug 21 - [The Secret Lives of Mosquitoes, the World’s Most Hated Insects](https://www.smithsonianmag.com/blogs/national-museum-of-natural-history/2021/08/19/secret-life-worlds-most-hated-insect/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
