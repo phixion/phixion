@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Aug 21 - [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://careers.atob.com/)
 - Aug 21 - [Schema on write is better to live by](https://hrishioa.github.io/schema-on-write-is-better-to-live-by/)
+- Aug 21 - [Cyber Attack, Possible Serious Breach, at U.S. State Department](https://twitter.com/JacquiHeinrich/status/1429173367643516936)
 - Aug 21 - [A Game Art Trick: Don’t Starve, Diablo – Parallax 7](http://simonschreibt.de/gat/dont-starve-diablo-parallax-7/)
 - Aug 21 - [Project Jupyter Celebrates 20 Years, Fernando Pérez Reflects on How It Started](https://data.berkeley.edu/news/project-jupyter-celebrates-20-years-fernando-perez-reflects-how-it-started-open-sciences)
-- Aug 21 - [EFF Joins Global Coalition Asking Apple CEO Tim Cook to Stop Phone-Scanning](https://www.eff.org/deeplinks/2021/08/eff-joins-global-coalition-asking-apple-ceo-tim-cook-stop-phone-scanning)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
