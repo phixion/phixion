@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 21 - [Genius Checklist](https://supermemo.guru/wiki/Genius_checklist)
+- Aug 21 - [Pixel 4a 5G and Pixel 5 are discontinued, says Google](https://technokilo.com/pixel-4a-5g-pixel-5-discontinued-google/)
+- Aug 21 - [Ask HN: Is Twitter Dead for Interesting Discussion?](https://news.ycombinator.com/item?id=28257794)
 - Aug 21 - [Launch HN: Fella (YC W20) – Tackling men's obesity using medication and coaching](https://news.ycombinator.com/item?id=28257352)
 - Aug 21 - [IceFireDB: Distributed disk storage database based on Raft and Redis protocol](https://github.com/gitsrc/IceFireDB)
-- Aug 21 - [Tesla aims to launch Full Self-Driving Computer 2 with Cybertruck next year](https://electrek.co/2021/08/20/tesla-aims-launch-full-self-driving-computer-2-cybertruck-next-year/)
-- Aug 21 - [Thoughts of work invaded my life until I learned how to unplug](https://www.sciencemag.org/careers/2021/08/thoughts-work-invaded-my-life-until-i-learned-how-unplug)
-- Aug 21 - [Benefits of Not Using an IDE](https://alexander-hansen.dev/blog/benefits-of-not-using-an-ide)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
