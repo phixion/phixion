@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 21 - [Avis “Stole” Back Car from Customer and Denied It](https://twitter.com/tarikhcampbell/status/1428707006412640271)
-- Aug 21 - [New NTSB chief warns against false claims on automated driving](https://www.autonews.com/regulation-safety/new-ntsb-chief-warns-against-false-claims-automated-driving)
+- Aug 21 - [Patterns in Confusing Explanations](https://jvns.ca/blog/confusing-explanations/)
 - Aug 21 - [Amazon Genomics CLI](https://aws.amazon.com/blogs/industries/announcing-amazon-genomics-cli-preview/)
 - Aug 21 - [Generics enabled by default in Go tip](https://go-review.googlesource.com/c/go/+/343732/)
 - Aug 21 - [Enhanced Support for Citations on GitHub](https://github.blog/2021-08-19-enhanced-support-citations-github/)
+- Aug 21 - [Golang.org will be merged into go.dev](https://go.dev/blog/tidy-web)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
