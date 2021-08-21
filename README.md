@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 21 - [Urban Dictionary on Hacker News](https://www.urbandictionary.com/define.php?term=hacker%20news)
 - Aug 21 - [Strict Tables – Column type constraints in SQLite - Draft](https://www.sqlite.org/draft/stricttables.html)
 - Aug 21 - [Parser generators vs. handwritten parsers: surveying major languages in 2021](https://notes.eatonphil.com/parser-generators-vs-handwritten-parsers-survey-2021.html)
-- Aug 21 - [Find eng roles at 800 high-growth YC startups on ycombinator.com](https://www.ycombinator.com/jobs)
+- Aug 21 - [Beware state surveillance of your lives – governments can change for the worse](https://www.theguardian.com/commentisfree/2021/aug/21/beware-state-surveillance-of-your-lives-governments-can-change-afghanistan)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
