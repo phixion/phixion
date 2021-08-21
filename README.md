@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 21 - [Google's Secret Initiative – “Project Hug”](https://twitter.com/jowens510/status/1428415192480698371)
+- Aug 21 - [Germany’s hidden hunger: On the breadline in Europe’s richest country (2017)](http://edition.cnn.com/interactive/2017/09/world/germany-food-bank-cnnphotos/)
+- Aug 21 - [‘I Don’t Want to Be Like a Family with My Co-Workers’](https://www.thecut.com/article/i-dont-want-to-be-like-a-family-with-my-co-workers.html)
+- Aug 21 - [The World’s Largest Computer Chip](https://www.newyorker.com/tech/annals-of-technology/the-worlds-largest-computer-chip)
 - Aug 21 - [Orlando urges residents to conserve water because of surge in hospitalizations](https://www.washingtonpost.com/health/2021/08/20/covid-surge-orlando-water-conservation/)
-- Aug 21 - [Elon Musk Has No Idea What He’s Doing with Tesla Bot](https://spectrum.ieee.org/elon-musk-robot)
-- Aug 21 - [Can ‘smart thinking’ books give you the edge?](https://www.theguardian.com/books/2021/aug/21/can-smart-thinking-books-really-give-you-the-edge)
-- Aug 21 - [India approves first DNA Covid vaccine](https://www.bbc.co.uk/news/world-asia-india-57774294)
-- Aug 21 - [Engineers put Leonardo da Vinci's bridge design to the test (2019)](https://techxplore.com/news/2019-10-leonardo-da-vinci-bridge.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
