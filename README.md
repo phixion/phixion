@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 21 - [Is Internet Addiction Real?](https://www.deprocrastination.co/blog/is-internet-addiction-real)
 - Aug 21 - [Jiga (YC W21) Is Hiring a FS Developer (100% remote, flexible, parent friendly)](https://www.workatastartup.com/jobs/44310)
 - Aug 21 - [Patterns in Confusing Explanations](https://jvns.ca/blog/confusing-explanations/)
 - Aug 21 - [Obstructive Sleep Apnea Is Associated with Low Testosterone Levels](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8350060/)
 - Aug 21 - [Amazon Genomics CLI](https://aws.amazon.com/blogs/industries/announcing-amazon-genomics-cli-preview/)
-- Aug 21 - [Generics enabled by default in Go tip](https://go-review.googlesource.com/c/go/+/343732/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
