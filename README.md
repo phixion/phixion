@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 21 - [Tikz.net – Graphics with TikZ in LaTeX](https://tikz.net/)
-- Aug 21 - [DeepfakeHTTP – Your 100% static dynamic back end](https://github.com/xnbox/DeepfakeHTTP)
 - Aug 21 - [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://careers.atob.com/)
 - Aug 21 - [Schema on write is better to live by](https://hrishioa.github.io/schema-on-write-is-better-to-live-by/)
 - Aug 21 - [Cyber Attack, Possible Serious Breach, at U.S. State Department](https://twitter.com/JacquiHeinrich/status/1429173367643516936)
+- Aug 21 - [Don’t starve, Diablo – Parallax 7 (2016)](http://simonschreibt.de/gat/dont-starve-diablo-parallax-7/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
