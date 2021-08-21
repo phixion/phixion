@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 21 - [Patterns in Confusing Explanations](https://jvns.ca/blog/confusing-explanations/)
+- Aug 21 - [Obstructive Sleep Apnea Is Associated with Low Testosterone Levels](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8350060/)
 - Aug 21 - [Amazon Genomics CLI](https://aws.amazon.com/blogs/industries/announcing-amazon-genomics-cli-preview/)
 - Aug 21 - [Generics enabled by default in Go tip](https://go-review.googlesource.com/c/go/+/343732/)
 - Aug 21 - [Enhanced Support for Citations on GitHub](https://github.blog/2021-08-19-enhanced-support-citations-github/)
-- Aug 21 - [Golang.org will be merged into go.dev](https://go.dev/blog/tidy-web)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
