@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Aug 21 - [Engineers put Leonardo da Vinci's bridge design to the test (2019)](https://techxplore.com/news/2019-10-leonardo-da-vinci-bridge.html)
 - Aug 21 - [Is Internet Addiction Real?](https://www.deprocrastination.co/blog/is-internet-addiction-real)
+- Aug 21 - [Janet Programming Language](https://janet-lang.org/)
 - Aug 21 - [Jiga (YC W21) Is Hiring a FS Developer (100% remote, flexible, parent friendly)](https://www.workatastartup.com/jobs/44310)
 - Aug 21 - [Patterns in Confusing Explanations](https://jvns.ca/blog/confusing-explanations/)
-- Aug 21 - [Obstructive Sleep Apnea Is Associated with Low Testosterone Levels](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8350060/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
