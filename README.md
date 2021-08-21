@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 21 - [Is Covid-19 making us irrational?](https://simoncarne.substack.com/p/covid-making-us-irrational)
 - Aug 21 - [EFF Joins Global Coalition Asking Apple CEO Tim Cook to Stop Phone-Scanning](https://www.eff.org/deeplinks/2021/08/eff-joins-global-coalition-asking-apple-ceo-tim-cook-stop-phone-scanning)
 - Aug 21 - [Urban Dictionary on Hacker News](https://www.urbandictionary.com/define.php?term=hacker%20news)
 - Aug 21 - [Strict Tables – Column type constraints in SQLite - Draft](https://www.sqlite.org/draft/stricttables.html)
 - Aug 21 - [Parser generators vs. handwritten parsers: surveying major languages in 2021](https://notes.eatonphil.com/parser-generators-vs-handwritten-parsers-survey-2021.html)
-- Aug 21 - [Beware state surveillance of your lives – governments can change for the worse](https://www.theguardian.com/commentisfree/2021/aug/21/beware-state-surveillance-of-your-lives-governments-can-change-afghanistan)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
