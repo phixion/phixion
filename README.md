@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 21 - [EFF Joins Global Coalition Asking Apple CEO Tim Cook to Stop Phone-Scanning](https://www.eff.org/deeplinks/2021/08/eff-joins-global-coalition-asking-apple-ceo-tim-cook-stop-phone-scanning)
+- Aug 21 - [Urban Dictionary on Hacker News](https://www.urbandictionary.com/define.php?term=hacker%20news)
+- Aug 21 - [Strict Tables – Column type constraints in SQLite - Draft](https://www.sqlite.org/draft/stricttables.html)
 - Aug 21 - [Parser generators vs. handwritten parsers: surveying major languages in 2021](https://notes.eatonphil.com/parser-generators-vs-handwritten-parsers-survey-2021.html)
-- Aug 21 - [Find eng roles at 800 high-growth YC startups on Y Combinator.com](https://www.ycombinator.com/jobs)
-- Aug 21 - [RG3D (Rust game engine) feature highlights](https://rg3d.rs/general/2021/08/21/0.22-feature-highlights.html)
-- Aug 21 - [GitHub Issues-only project management](https://blog.placemark.io/2021/07/19/issues-only-management.html)
-- Aug 21 - [Show HN: Facata – Connect to SQL Databases from Python](https://github.com/tlocke/facata/)
+- Aug 21 - [Find eng roles at 800 high-growth YC startups on ycombinator.com](https://www.ycombinator.com/jobs)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
