@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 21 - [IceFireDB: Distributed disk storage database based on Raft and Redis protocol](https://github.com/gitsrc/IceFireDB)
 - Aug 21 - [Benefits of Not Using an IDE](https://alexander-hansen.dev/blog/benefits-of-not-using-an-ide)
 - Aug 21 - [The Taliban Have Seized U.S. Military Biometrics Devices](https://theintercept.com/2021/08/17/afghanistan-taliban-military-biometrics/)
 - Aug 21 - [The Apollo Affair](https://en.wikipedia.org/wiki/The_Apollo_Affair)
 - Aug 21 - [The reason you’re not more productive at work? It’s not boredom–it’s bad UX](https://www.fastcompany.com/90667790/the-real-reason-youre-not-more-productive-at-work-its-not-boredom-its-bad-ux)
-- Aug 21 - [The Extraordinary Power of Japan's Sixth-Gen F-X Fighter Jet](https://interestingengineering.com/the-extraordinary-power-of-japans-sixth-gen-f-x-fighter-jet?_source=newsletter&_campaign=1E1pdYlXkkx04&_uid=LDdwmgxga1&_h=ea90de89f1bceca46d02cad80716fb4006725c29&utm_source=newsletter&utm_medium=mailing&utm_campaign=Newsletter-20-08-2021)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
