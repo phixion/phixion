@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 21 - [Golang.org will be merged into go.dev](https://go.dev/blog/tidy-web)
 - Aug 21 - [CA Superior Court judge finds Prop 22 Unconstitutional](https://www.sacbee.com/news/politics-government/capitol-alert/article253647838.html)
+- Aug 21 - [Prop 22 found unconstitutional by California Superior Court](https://twitter.com/veenadubal/status/1428873686212173826)
 - Aug 20 - [14M ton of carbon offset forest is burning in California](https://twitter.com/BodieCabiyo/status/1427683107788845056)
-- Aug 20 - [GM expands recall to ALL 2017-2022 Chevy Bolt EVs including EUV, blames LG](https://electrek.co/2021/08/20/gm-expands-bolt-recall-to-all-chevy-bolts-blames-supplier-lg/)
 - Aug 20 - [Collaborative filtering doesn't work for us](https://about.chatroulette.com/posts/better-match-making-part-1/)
-- Aug 20 - [Full-body tracking in VR using AprilTag markers](https://github.com/ju1ce/April-Tag-VR-FullBody-Tracker)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
