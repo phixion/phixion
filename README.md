@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 21 - [Niall Ferguson on why the end of America’s empire won’t be peaceful](https://www.economist.com/by-invitation/2021/08/20/niall-ferguson-on-why-the-end-of-americas-empire-wont-be-peaceful)
 - Aug 21 - [Amazon Genomics CLI](https://aws.amazon.com/blogs/industries/announcing-amazon-genomics-cli-preview/)
 - Aug 21 - [Generics enabled by default in Go tip](https://go-review.googlesource.com/c/go/+/343732/)
 - Aug 21 - [Enhanced Support for Citations on GitHub](https://github.blog/2021-08-19-enhanced-support-citations-github/)
 - Aug 21 - [Golang.org will be merged into go.dev](https://go.dev/blog/tidy-web)
-- Aug 21 - [Court rules California's Prop. 22 on Uber, Lyft drivers unconstitutional](https://www.sacbee.com/news/politics-government/capitol-alert/article253647838.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
