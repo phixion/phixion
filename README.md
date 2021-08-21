@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 21 - [Balaji: The collapse in state capacity has not been priced in](https://twitter.com/balajis/status/1429109239436308482)
+- Aug 21 - [An Opinionated Guide to Xargs](https://www.oilshell.org/blog/2021/08/xargs.html)
 - Aug 21 - [The Normalization of Violence in Commercial Kitchens Through Food Media](https://journals.sagepub.com/doi/10.1177/08862605211005138)
-- Aug 21 - [The Transcendence of Tantric Sex](https://nautil.us/issue/104/harmony/the-transcendence-of-tantric-sex)
+- Aug 21 - [Prop. 22, the gig worker exemption for Uber and Lyft, is ruled unconstitutional](https://www.sfchronicle.com/tech/article/Prop-22-the-gig-worker-exemption-for-Uber-and-16401915.php)
 - Aug 21 - [Why Facebook Shelved an Earlier Report on Popular Posts](https://www.nytimes.com/2021/08/20/technology/facebook-popular-posts.html)
-- Aug 21 - [Genius Checklist](https://supermemo.guru/wiki/Genius_checklist)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
