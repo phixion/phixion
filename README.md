@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 21 - [A Game Art Trick: Don’t Starve, Diablo – Parallax 7](http://simonschreibt.de/gat/dont-starve-diablo-parallax-7/)
 - Aug 21 - [Project Jupyter Celebrates 20 Years, Fernando Pérez Reflects on How It Started](https://data.berkeley.edu/news/project-jupyter-celebrates-20-years-fernando-perez-reflects-how-it-started-open-sciences)
 - Aug 21 - [EFF Joins Global Coalition Asking Apple CEO Tim Cook to Stop Phone-Scanning](https://www.eff.org/deeplinks/2021/08/eff-joins-global-coalition-asking-apple-ceo-tim-cook-stop-phone-scanning)
 - Aug 21 - [Urban Dictionary on Hacker News](https://www.urbandictionary.com/define.php?term=hacker%20news)
 - Aug 21 - [Strict Tables – Column type constraints in SQLite - Draft](https://www.sqlite.org/draft/stricttables.html)
-- Aug 21 - [Parser generators vs. handwritten parsers: surveying major languages in 2021](https://notes.eatonphil.com/parser-generators-vs-handwritten-parsers-survey-2021.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
