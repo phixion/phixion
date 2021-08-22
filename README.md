@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 22 - [Apple Just Gave Millions of Users a Reason to Quit Their iPhones](https://www.forbes.com/sites/gordonkelly/2021/08/21/apple-iphone-warning-ios-15-csam-privacy-upggrade-ios-macos-ipados-security/)
 - Aug 22 - [AWS Doesn’t Know Who I Am. Here’s Why That’s a Problem](https://ben11kehoe.medium.com/aws-doesnt-know-who-i-am-here-s-why-that-s-a-problem-4aeca591b0a6)
 - Aug 22 - [Why Japan Is Holding Back as the World Rushes Toward Electric Cars](https://www.nytimes.com/2021/03/09/business/electric-cars-japan.html)
 - Aug 22 - [Homemade computer chips / integrated circuits](http://sam.zeloof.xyz/first-ic/)
 - Aug 22 - [New research shows some mental abilities improve as we get older](https://www.sciencealert.com/aging-isn-t-all-bad-some-key-mental-abilities-improve-as-we-get-older)
-- Aug 22 - [Signadot (YC W20) Is Hiring Golang Engineers](https://www.workatastartup.com/jobs/42298/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
