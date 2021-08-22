@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 22 - [Landlords from Florida to California Are Jacking Up Rents at Record Speeds](https://www.bloomberg.com/news/articles/2021-08-18/housing-hunt-turns-to-desperation-with-record-rise-in-u-s-rents)
+- Aug 22 - [Landlords from Florida to California are jacking up rents at record speeds](https://www.bloomberg.com/news/articles/2021-08-18/housing-hunt-turns-to-desperation-with-record-rise-in-u-s-rents)
 - Aug 22 - [Skio is hiring founding engineers (launched recently/just raised $3.3m)](https://skio.com/careers/)
-- Aug 22 - ['World’s Worst Invasive Weed' Sold at Many U.S. Garden Centers](https://www.smithsonianmag.com/smart-news/worlds-worst-invasive-weed-sold-us-garden-centers-180978481/)
+- Aug 22 - [Many invasive plants are still being sold at garden centers](https://www.smithsonianmag.com/smart-news/worlds-worst-invasive-weed-sold-us-garden-centers-180978481/)
 - Aug 22 - [Evolution is now accepted by a majority of Americans](https://phys.org/news/2021-08-evolution-majority-americans.html)
-- Aug 22 - [Doing ‘data science’ with bad data](https://doctorow.medium.com/machine-learnings-crumbling-foundations-bd11efa22b0)
+- Aug 22 - [What *exactly* does ASML sell? (Contains bonus flow in 17th tweet)](https://twitter.com/TrungTPhan/status/1429464904176607241)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
