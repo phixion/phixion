@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 22 - [Ask HN: Whats you're ideal PhD workflow](https://news.ycombinator.com/item?id=28262180)
+- Aug 22 - [Pyret Programming Language](http://pyret.org/index.html)
 - Aug 21 - [Police helicopter's 100mph chase with 'super sophisticated' drone near Tucson](https://www.dailymail.co.uk/news/article-9912999/FAA-audio-reveals-police-helicopters-100mph-chase-sophisticated-drone.html)
 - Aug 21 - [Tikz.net – Graphics with TikZ in LaTeX](https://tikz.net/)
 - Aug 21 - [Expert help needed to decode rare piece of space history: Lunokhod data tapes](https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece.html)
-- Aug 21 - [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://careers.atob.com/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
