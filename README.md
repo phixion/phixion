@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 22 - [Gnome Shell on the Apple M1, bare metal](https://twitter.com/alyssarzg/status/1429579145827127296)
+- Aug 22 - [PlsExplain: A small dynamic programming language where every value is explained](https://github.com/langjam/jam0001/tree/main/hope)
 - Aug 22 - [How can we make air conditioners 33% more efficient? A revolutionary solution](https://youtube.com/watch?v=2TFiL5BM3ss)
+- Aug 22 - [Show HN: GLAuth 2.0 out, only a year late](https://glauth.github.io/)
 - Aug 22 - [Countering climate change with cool pavements](https://news.mit.edu/2021/countering-climate-change-cool-pavements-0822)
-- Aug 22 - [Kraftful (YC S19) hiring SDRs to build the software layer for the physical world](https://www.kraftful.com/team)
-- Aug 22 - [A DIY E-bike Conversion on the Cheap](https://spectrum.ieee.org/a-diy-e-bike-conversion-on-the-cheap)
-- Aug 22 - [Bigger vehicles are directly resulting in more deaths of people walking](https://smartgrowthamerica.org/bigger-vehicles-are-directly-resulting-in-more-deaths-of-people-walking/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
