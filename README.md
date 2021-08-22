@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 22 - [Signadot (YC W20) Is Hiring Golang Engineers](https://www.workatastartup.com/jobs/42298/)
 - Aug 22 - [I Was There: When the DC-8 Went Supersonic](https://www.airspacemag.com/history-of-flight/i-was-there-when-the-dc-8-went-supersonic-27846699/)
 - Aug 22 - [Peer recognition works better than bonuses](https://lancengym.medium.com/why-peer-recognition-works-better-than-bonuses-731e63b652e0)
+- Aug 22 - [Just how far can you travel by bus from London in 24 hours?](https://twitter.com/politic_animal/status/1428438081871433731)
 - Aug 22 - [Pyret Programming Language](http://pyret.org/index.html)
-- Aug 22 - [Amiga 1200 PiStorm Development](https://linuxjedi.co.uk/2021/08/15/this-week-in-pistorm-2021-08-15/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
