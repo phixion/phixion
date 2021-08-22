@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 22 - [Even my bigoted critics deserve free speech](https://www.spiked-online.com/2021/08/18/even-my-bigoted-critics-deserve-free-speech/)
 - Aug 22 - [Pam Duress – Alternate passwords for panic situations](https://github.com/nuvious/pam-duress)
 - Aug 22 - [One does not simply calculate the absolute value](https://habr.com/en/post/574082/)
-- Aug 22 - [I recommend CGI instead of web frameworks](https://halestrom.net/darksleep/blog/046_cgi/)
+- Aug 22 - [Skio (YC S20) is hiring founding engineers](https://skio.com/careers/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
