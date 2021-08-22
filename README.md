@@ -37,7 +37,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Aug 22 - [CEO of Saygus smartphone company that never released a phone charged with fraud](https://www.theverge.com/2021/8/21/22635779/ceo-saygus-smartphone-company-fraud)
 - Aug 22 - [Volkswagen ID.3 Bursts into Flames in the Netherlands](https://insideevs.com/news/527874/volkswagen-id3-netherlands-fire-charging/)
-- Aug 22 - [Hospitals and Insurers Didn’t Want You to See These Prices. Here’s Why](https://www.nytimes.com/interactive/2021/08/22/upshot/hospital-prices.html)
+- Aug 22 - [The prices hospitals negotiate with private insurers for patient services](https://www.nytimes.com/interactive/2021/08/22/upshot/hospital-prices.html)
 - Aug 22 - [Lowkey (YC S18) is hiring a Senior Software Engineer who likes games](https://lowkeygg.notion.site/Lowkey-Job-Board-39a26c1b4a00493fadc26249185df748)
 - Aug 22 - [Hydrogen lobbyist quits, slams oil companies’ “false claims” about blue hydrogen](https://arstechnica.com/tech-policy/2021/08/ex-lobbyist-slams-blue-hydrogen-says-it-would-lock-in-fossil-fuel-dependence/)
 <!--END_SECTION:hn-->
