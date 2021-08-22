@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 22 - [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
 - Aug 22 - [Long-haul symptoms affect majority of Covid-19 patients, UA study finds](https://tucson.com/news/local/subscriber/long-haul-symptoms-affect-majority-of-covid-19-patients-ua-study-finds/article_a6ae8c24-f9fe-11eb-b677-fb1f1eb2abfc.html)
 - Aug 22 - [Why Peer Recognition Works Better Than Bonuses](https://lancengym.medium.com/why-peer-recognition-works-better-than-bonuses-731e63b652e0)
 - Aug 22 - [Ask HN: Whats you're ideal PhD workflow](https://news.ycombinator.com/item?id=28262180)
 - Aug 22 - [Pyret Programming Language](http://pyret.org/index.html)
-- Aug 21 - [Police helicopter's 100mph chase with 'super sophisticated' drone near Tucson](https://www.thedrive.com/the-war-zone/42021/radio-transmissions-from-police-helicopters-chase-of-bizarre-craft-over-tucson-add-to-mystery)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
