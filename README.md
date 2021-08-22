@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 22 - [Gmail locked me out of my own account](https://mailchi.mp/shwood/bamboozlers-514882?e=4be3990d97)
 - Aug 22 - [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
+- Aug 22 - [George Mason professor wins Covid antibody lawsuit as vaccine exemption](https://nclalegal.org/2021/08/george-mason-univ-caves-to-nclas-lawsuit-over-vaccine-mandate-grants-prof-medical-exemption/)
 - Aug 22 - [I Was There: When the DC-8 Went Supersonic](https://www.airspacemag.com/history-of-flight/i-was-there-when-the-dc-8-went-supersonic-27846699/)
 - Aug 22 - [Peer recognition works better than bonuses](https://lancengym.medium.com/why-peer-recognition-works-better-than-bonuses-731e63b652e0)
-- Aug 22 - [Pyret Programming Language](http://pyret.org/index.html)
-- Aug 22 - [Amiga 1200 PiStorm Development](https://linuxjedi.co.uk/2021/08/15/this-week-in-pistorm-2021-08-15/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
