@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 22 - [Apocalypse Never Slide Deck](https://environmentalprogress.org/apocalypse-never-slide-deck)
+- Aug 22 - [C++20 Concepts: The Definitive Guide](https://thecodepad.com/cpp/c20-concepts-the-definitive-guide/)
+- Aug 22 - [Cognitive deficits in people who have recovered from Covid-19](https://www.researchhub.com/paper/1266004/cognitive-deficits-in-people-who-have-recovered-from-covid-19)
 - Aug 22 - [Buy an Empty House in Japan for Less Than a Month's Rent](https://www.travelpirates.com/others/buy-an-empty-house-in-japan-for-less-than-a-months-rent)
-- Aug 22 - [Tesla's Dojo Supercomputer Breaks All Established Industry Standards](https://cleantechnica.com/2021/08/22/teslas-dojo-supercomputer-breaks-all-established-industry-standards-cleantechnica-deep-dive-part-1/)
-- Aug 22 - [Rescue dogs shot dead by NSW council due to Covid-19 restrictions](https://www.smh.com.au/national/nsw/rescue-dogs-shot-dead-by-nsw-council-due-to-covid-19-restrictions-20210821-p58ksh.html)
-- Aug 22 - [Clickbait Is Unreasonably Effective](https://www.youtube.com/watch?v=S2xHZPH5Sng)
-- Aug 22 - [Volkswagen ID.3 Bursts into Flames in the Netherlands](https://insideevs.com/news/527874/volkswagen-id3-netherlands-fire-charging/)
+- Aug 22 - [Bringing the Unix Philosophy to the 21st Century](https://blog.kellybrazil.com/2019/11/26/bringing-the-unix-philosophy-to-the-21st-century/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
