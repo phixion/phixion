@@ -35,9 +35,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 22 - [What If Afghanistan Is More Than Just a Failed War?](https://tomluongo.me/2021/08/16/what-if-afghanistan-is-more-than-just-a-failed-war/)
+- Aug 22 - [Rescue dogs shot dead by NSW council due to Covid-19 restrictions](https://www.smh.com.au/national/nsw/rescue-dogs-shot-dead-by-nsw-council-due-to-covid-19-restrictions-20210821-p58ksh.html)
+- Aug 22 - [Clickbait Is Unreasonably Effective](https://www.youtube.com/watch?v=S2xHZPH5Sng)
 - Aug 22 - [Volkswagen ID.3 Bursts into Flames in the Netherlands](https://insideevs.com/news/527874/volkswagen-id3-netherlands-fire-charging/)
-- Aug 22 - [The prices hospitals negotiate with private insurers for patient services](https://www.nytimes.com/interactive/2021/08/22/upshot/hospital-prices.html)
 - Aug 22 - [Lowkey (YC S18) is hiring a Senior Software Engineer who likes games](https://lowkeygg.notion.site/Lowkey-Job-Board-39a26c1b4a00493fadc26249185df748)
 - Aug 22 - [Hydrogen lobbyist quits, slams oil companies’ “false claims” about blue hydrogen](https://arstechnica.com/tech-policy/2021/08/ex-lobbyist-slams-blue-hydrogen-says-it-would-lock-in-fossil-fuel-dependence/)
 <!--END_SECTION:hn-->
