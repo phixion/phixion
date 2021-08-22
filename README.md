@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 22 - [The $300B+ Dutch firm that makes the machines that make semiconductors](https://twitter.com/trungtphan/status/1429464889307762688)
-- Aug 22 - [Google says geofence warrants make up one-quarter of all US demands](https://techcrunch.com/2021/08/19/google-geofence-warrants/)
-- Aug 22 - [Are there contemporary notebooks up for tinkerers?](https://news.ycombinator.com/item?id=28266459)
-- Aug 22 - [C++20 Concepts: The Definitive Guide](https://thecodepad.com/cpp/c20-concepts-the-definitive-guide/)
-- Aug 22 - [Houses in Japan Are Going for as Little as $500](https://www.travelpirates.com/others/buy-an-empty-house-in-japan-for-less-than-a-months-rent)
+- Aug 22 - [Machine learning’s crumbling foundations – by Cory Doctorow](https://doctorow.medium.com/machine-learnings-crumbling-foundations-bd11efa22b0)
+- Aug 22 - [Waymo is 99% of the way to self-driving cars. The last 1% is the hardest](https://www.bloomberg.com/news/articles/2021-08-17/waymo-s-self-driving-cars-are-99-of-the-way-there-the-last-1-is-the-hardest)
+- Aug 22 - [FSNotes v5: Notes manager for macOS and iOS – native, open source](https://fsnot.es/)
+- Aug 22 - [Seattle Ferries maintains a clean and refreshing PDA version of their schedule](https://wsdot.com/Ferries/Schedule/Small/pda.aspx)
+- Aug 22 - [SWE interviews should be paid](https://blog.algora.io/post/2021-08-pay-when-hiring/index.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
