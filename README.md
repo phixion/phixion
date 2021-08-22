@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 22 - [Machine learning’s crumbling foundations – by Cory Doctorow](https://doctorow.medium.com/machine-learnings-crumbling-foundations-bd11efa22b0)
-- Aug 22 - [Waymo is 99% of the way to self-driving cars. The last 1% is the hardest](https://www.bloomberg.com/news/articles/2021-08-17/waymo-s-self-driving-cars-are-99-of-the-way-there-the-last-1-is-the-hardest)
-- Aug 22 - [FSNotes v5: Notes manager for macOS and iOS – native, open source](https://fsnot.es/)
-- Aug 22 - [Seattle Ferries maintains a clean and refreshing PDA version of their schedule](https://wsdot.com/Ferries/Schedule/Small/pda.aspx)
-- Aug 22 - [SWE interviews should be paid](https://blog.algora.io/post/2021-08-pay-when-hiring/index.html)
+- Aug 22 - [Landlords from Florida to California Are Jacking Up Rents at Record Speeds](https://www.bloomberg.com/news/articles/2021-08-18/housing-hunt-turns-to-desperation-with-record-rise-in-u-s-rents)
+- Aug 22 - [Skio is hiring founding engineers (launched recently/just raised $3.3m)](https://skio.com/careers/)
+- Aug 22 - ['World’s Worst Invasive Weed' Sold at Many U.S. Garden Centers](https://www.smithsonianmag.com/smart-news/worlds-worst-invasive-weed-sold-us-garden-centers-180978481/)
+- Aug 22 - [Evolution is now accepted by a majority of Americans](https://phys.org/news/2021-08-evolution-majority-americans.html)
+- Aug 22 - [Doing ‘data science’ with bad data](https://doctorow.medium.com/machine-learnings-crumbling-foundations-bd11efa22b0)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
