@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 22 - [Apocalypse Never Slide Deck](https://environmentalprogress.org/apocalypse-never-slide-deck)
+- Aug 22 - [The $300B+ Dutch firm that makes the machines that make semiconductors](https://twitter.com/trungtphan/status/1429464889307762688)
+- Aug 22 - [Google says geofence warrants make up one-quarter of all US demands](https://techcrunch.com/2021/08/19/google-geofence-warrants/)
+- Aug 22 - [Are there contemporary notebooks up for tinkerers?](https://news.ycombinator.com/item?id=28266459)
 - Aug 22 - [C++20 Concepts: The Definitive Guide](https://thecodepad.com/cpp/c20-concepts-the-definitive-guide/)
-- Aug 22 - [Cognitive deficits in people who have recovered from Covid-19](https://www.researchhub.com/paper/1266004/cognitive-deficits-in-people-who-have-recovered-from-covid-19)
-- Aug 22 - [Buy an Empty House in Japan for Less Than a Month's Rent](https://www.travelpirates.com/others/buy-an-empty-house-in-japan-for-less-than-a-months-rent)
-- Aug 22 - [Bringing the Unix Philosophy to the 21st Century](https://blog.kellybrazil.com/2019/11/26/bringing-the-unix-philosophy-to-the-21st-century/)
+- Aug 22 - [Houses in Japan Are Going for as Little as $500](https://www.travelpirates.com/others/buy-an-empty-house-in-japan-for-less-than-a-months-rent)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
