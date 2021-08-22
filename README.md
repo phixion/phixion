@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 22 - [On the link between great thinking and obsessive walking](https://lithub.com/on-the-link-between-great-thinking-and-obsessive-walking/)
+- Aug 22 - [Even my bigoted critics deserve free speech](https://www.spiked-online.com/2021/08/18/even-my-bigoted-critics-deserve-free-speech/)
 - Aug 22 - [Pam Duress – Alternate passwords for panic situations](https://github.com/nuvious/pam-duress)
 - Aug 22 - [One does not simply calculate the absolute value](https://habr.com/en/post/574082/)
 - Aug 22 - [I recommend CGI instead of web frameworks](https://halestrom.net/darksleep/blog/046_cgi/)
-- Aug 22 - [Record rise in U.S. rents](https://www.bloomberg.com/news/articles/2021-08-18/housing-hunt-turns-to-desperation-with-record-rise-in-u-s-rents)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
