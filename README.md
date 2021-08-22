@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 22 - [Hospitals and Insurers Didn’t Want You to See These Prices. Here’s Why](https://www.nytimes.com/interactive/2021/08/22/upshot/hospital-prices.html)
 - Aug 22 - [Lowkey (YC S18) is hiring a Senior Software Engineer who likes games](https://lowkeygg.notion.site/Lowkey-Job-Board-39a26c1b4a00493fadc26249185df748)
 - Aug 22 - [Hydrogen lobbyist quits, slams oil companies’ “false claims” about blue hydrogen](https://arstechnica.com/tech-policy/2021/08/ex-lobbyist-slams-blue-hydrogen-says-it-would-lock-in-fossil-fuel-dependence/)
-- Aug 22 - [OnlyFans banning sexually explicit content b/C of MasterCard rules starting Oct](https://twitter.com/PostCultRev/status/1428584133555482630)
+- Aug 22 - [A man spent a year in jail on murder charge that hinged on disputed AI evidence](https://www.theregister.com/2021/08/22/in_brief_ai/)
 - Aug 22 - [WinFsp – Windows File System Proxy](https://github.com/billziss-gh/winfsp)
-- Aug 22 - [Astronomers have just found more than half a million new asteroids](https://www.newscientist.com/article/2287725-astronomers-have-just-found-more-than-half-a-million-new-asteroids/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
