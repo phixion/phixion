@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 22 - [Why Japan Is Holding Back as the World Rushes Toward Electric Cars](https://www.nytimes.com/2021/03/09/business/electric-cars-japan.html)
 - Aug 22 - [New research shows some mental abilities improve as we get older](https://www.sciencealert.com/aging-isn-t-all-bad-some-key-mental-abilities-improve-as-we-get-older)
 - Aug 22 - [Signadot (YC W20) Is Hiring Golang Engineers](https://www.workatastartup.com/jobs/42298/)
 - Aug 22 - [Getting my personal Dogsheep up and running again](https://simonwillison.net/2021/Aug/22/weeknotes-dogsheep/)
 - Aug 22 - [The world needs a proper investigation into how Covid-19 started](https://www.economist.com/international/2021/08/21/the-world-needs-a-proper-investigation-into-how-covid-19-started)
-- Aug 22 - [Gitfs: Version Controlled File System](https://www.presslabs.com/docs/code/gitfs/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
