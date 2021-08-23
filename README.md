@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 23 - [Tech Interview Handbook](https://techinterviewhandbook.org/)
 - Aug 23 - [Notes on Living in Los Angeles](https://sashachapin.substack.com/p/notes-on-living-in-los-angeles)
 - Aug 23 - [RustPython: A Python interpreter written in Rust](https://github.com/RustPython/RustPython)
+- Aug 23 - [How we paid for the War on Terror](https://adamtooze.substack.com/p/chartbook-34-how-we-paid-for-the)
 - Aug 23 - [Plane damaged after being hit by York police drone at Buttonville Airport](https://toronto.ctvnews.ca/plane-damaged-after-being-hit-by-york-police-drone-at-buttonville-airport-1.5554617)
-- Aug 23 - [High-accuracy thrust measurements of the EMDrive, elimination of false-positives](https://link.springer.com/article/10.1007/s12567-021-00385-1)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
