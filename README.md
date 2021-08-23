@@ -35,9 +35,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 23 - [Modern XMPP](https://docs.modernxmpp.org/)
 - Aug 23 - [LudoTune, a 3D music sequencer in the browser](https://ludotune.com/)
 - Aug 23 - [FDA Pfizer-BioNTech: Covid vaccine wins full approval, clearing path to mandates](https://www.cnbc.com/2021/08/23/fda-pfizer-biontech-covid-vaccine-wins-full-approval-clearing-path-to-mandates.html)
-- Aug 23 - [England's Crop Circle Controversy](https://www.bbc.com/travel/article/20210822-englands-crop-circle-controversy)
 - Aug 23 - [FDA Approves First Covid-19 Vaccine](https://www.fda.gov/news-events/press-announcements/fda-approves-first-covid-19-vaccine)
 - Aug 23 - [Fighting Like Taliban](https://scholars-stage.org/fighting-like-taliban/)
 <!--END_SECTION:hn-->
