@@ -35,8 +35,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 23 - [Why Is SQLite Coded in C](https://www.sqlite.org/whyc.html)
 - Aug 23 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- Aug 23 - [Twitter adds warning label to tweet from Liberal candidate Chrystia Freeland](https://www.cbc.ca/news/politics/twitter-labels-freeland-tweet-manipulated-media-1.6149734)
 - Aug 23 - [Firefox follows Chrome and prepares to block insecure downloads](https://therecord.media/firefox-follows-chrome-and-prepares-to-block-insecure-downloads/)
 - Aug 23 - [Launch HN: Zen (YC S21) – Posture-correcting software via webcam](https://news.ycombinator.com/item?id=28278618)
 - Aug 23 - [Launch HN: Buoyant (YC S21) – Blimp drones for air freight](https://news.ycombinator.com/item?id=28278515)
