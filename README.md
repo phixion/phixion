@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 23 - [John Carmack on SpaceX Starbase](https://twitter.com/ID_AA_Carmack/status/1429907886159941638)
+- Aug 23 - [Science Saturday: How disease, diet, and genomics interact with gut virome](https://newsnetwork.mayoclinic.org/discussion/science-saturday-how-disease-diet-and-genomics-interact-with-gut-virome/)
 - Aug 23 - [Tesorio (YC S15) is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
 - Aug 23 - [darktable: An open source photography workflow application](https://darktable.org)
 - Aug 23 - [Tech Interview Handbook](https://techinterviewhandbook.org/)
-- Aug 23 - [How we paid for the War on Terror](https://adamtooze.substack.com/p/chartbook-34-how-we-paid-for-the)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
