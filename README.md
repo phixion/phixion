@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 23 - [Plane damaged after being hit by York police drone at Buttonville Airport](https://toronto.ctvnews.ca/plane-damaged-after-being-hit-by-york-police-drone-at-buttonville-airport-1.5554617)
+- Aug 23 - [How I Experience Web Today](https://how-i-experience-web-today.com/)
+- Aug 23 - [Apple Workers Collecting Stories of Abuse, Injustice in Workplace](https://www.vice.com/en/article/g5gn4b/apple-workers-collecting-stories-of-abuse-injustice-in-workplace)
 - Aug 23 - [An empirical cybersecurity evaluation of GitHub Copilot's code contributions](https://arxiv.org/abs/2108.09293)
 - Aug 23 - [On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258)
-- Aug 23 - [Modern IRC Client Protocol](https://modern.ircdocs.horse/)
-- Aug 23 - [Mosquito saliva alone has profound effects on the human immune system (2018)](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0006439)
-- Aug 23 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
