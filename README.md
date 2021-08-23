@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 23 - [Why Is SQLite Coded in C](https://www.sqlite.org/whyc.html)
-- Aug 23 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- Aug 23 - [Firefox follows Chrome and prepares to block insecure downloads](https://therecord.media/firefox-follows-chrome-and-prepares-to-block-insecure-downloads/)
-- Aug 23 - [Launch HN: Zen (YC S21) – Posture-correcting software via webcam](https://news.ycombinator.com/item?id=28278618)
-- Aug 23 - [Launch HN: Buoyant (YC S21) – Blimp drones for air freight](https://news.ycombinator.com/item?id=28278515)
+- Aug 23 - [An empirical cybersecurity evaluation of GitHub Copilot's code contributions](https://arxiv.org/abs/2108.09293)
+- Aug 23 - [What is this new AI term, foundation models](https://arxiv.org/abs/2108.07258)
+- Aug 23 - [Modern IRC Client Protocol](https://modern.ircdocs.horse/)
+- Aug 23 - [Mosquito saliva alone has profound effects on the human immune system](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0006439)
+- Aug 23 - [Why Is SQLite Coded in C (2017)](https://www.sqlite.org/whyc.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
