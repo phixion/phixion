@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 23 - [Perfect Recall (YC W20) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/perfect-recall/jobs/kcrysro-founding-engineer)
 - Aug 23 - [Visa Buys CryptoPunk #7610](https://twitter.com/VisaNews/status/1429745230023208969)
+- Aug 23 - [Ah yes, my mouse driver is asking for a firewall exemption (2019)](https://twitter.com/Foone/status/1146135405793669121)
 - Aug 23 - [Life Saving Therapy Inhibition by Phones Containing Magnets](https://bhrs.com/important-life-saving-therapy-inhibition-by-phones-containing-magnets/)
-- Aug 23 - [Sonic Pi – Code based live music creation tool](https://github.com/sonic-pi-net/sonic-pi)
-- Aug 23 - [Platforms Want to Be Utilities, Self-Govern Like Empires](https://www.eff.org/deeplinks/2021/08/utilities-governed-empires)
-- Aug 23 - [Coinbase plans to add $500M worth of crypto to its balance sheet](https://www.forbes.com/sites/billybambrough/2021/08/20/coinbase-ceo-reveals-500-million-bitcoin-ethereum-and-crypto-bombshell-as-the-market-price-breaks-2-trillion/)
+- Aug 23 - [Ask HN: How do you handle user-generated content in your apps?](https://news.ycombinator.com/item?id=28274241)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
