@@ -38,7 +38,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 23 - [An empirical cybersecurity evaluation of GitHub Copilot's code contributions](https://arxiv.org/abs/2108.09293)
 - Aug 23 - [On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258)
 - Aug 23 - [Modern IRC Client Protocol](https://modern.ircdocs.horse/)
-- Aug 23 - [Mosquito saliva alone has profound effects on the human immune system](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0006439)
+- Aug 23 - [Mosquito saliva alone has profound effects on the human immune system (2018)](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0006439)
 - Aug 23 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 <!--END_SECTION:hn-->
 
