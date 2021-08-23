@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 23 - [Pfizer Shot Just 39% Effective Against Delta Infection, Israel Study Suggests](https://www.forbes.com/sites/roberthart/2021/07/23/pfizer-shot-just-39-effective-against-delta-infection-but-largely-prevents-severe-illness-israel-study-suggests/)
+- Aug 23 - [Launch HN: Buoyant (YC S21) – Blimp drones for air freight](https://news.ycombinator.com/item?id=28278515)
+- Aug 23 - [Wikidata or Scraping Wikipedia](http://simia.net/wiki/Wikidata_or_scraping_Wikipedia)
+- Aug 23 - [Nailgun: A Rust DNS performance testing client](https://leshow.github.io/post/nailgun/)
 - Aug 23 - [Physicist Discovered an Escape from Hawking’s Black Hole Paradox](https://www.quantamagazine.org/this-physicist-discovered-an-escape-from-hawkings-black-hole-paradox-20210823/)
-- Aug 23 - [Self-powered Diaper Sensors that Monitor Urine Sugar Levels](https://www.tus.ac.jp/en/mediarelations/archive/20210811_6384.html)
-- Aug 23 - [Cloudflare: Warp for Linux and Proxy Mode](https://blog.cloudflare.com/announcing-warp-for-linux-and-proxy-mode/)
-- Aug 23 - [Modern XMPP](https://docs.modernxmpp.org/)
+- Aug 23 - [The role of high-skilled foreign labor in startup performance](https://www.sciencedirect.com/science/article/abs/pii/S0304405X2100235X)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
