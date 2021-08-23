@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 23 - [Modern XMPP](https://docs.modernxmpp.org/)
+- Aug 23 - [Apple already scans iCloud Mail for CSAM since 2019, but not iCloud Photos](https://9to5mac.com/2021/08/23/apple-scans-icloud-mail-for-csam/)
 - Aug 23 - [LudoTune, a 3D music sequencer in the browser](https://ludotune.com/)
 - Aug 23 - [FDA Pfizer-BioNTech: Covid vaccine wins full approval, clearing path to mandates](https://www.cnbc.com/2021/08/23/fda-pfizer-biontech-covid-vaccine-wins-full-approval-clearing-path-to-mandates.html)
 - Aug 23 - [FDA Approves First Covid-19 Vaccine](https://www.fda.gov/news-events/press-announcements/fda-approves-first-covid-19-vaccine)
-- Aug 23 - [Fighting Like Taliban](https://scholars-stage.org/fighting-like-taliban/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
