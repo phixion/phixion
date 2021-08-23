@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 23 - [Scrimba (YC S20) is hiring Imba developers to make CS education more accessible](https://jobs.scrimba.com)
 - Aug 23 - [dns_deep_state – Find all secrets about DNS governing a domain](https://github.com/lelutin/dns_deep_state)
 - Aug 23 - [Afghans Delete Social Media as Taliban Seizes US Surveillance Equipment](https://www.theepochtimes.com/stranded-afghans-delete-social-media-as-taliban-seizes-us-surveillance-equipment_3958444.html)
 - Aug 23 - [Tesla Project Dojo Overview](https://perspectives.mvdirona.com/2021/08/tesla-project-dojo-overview/)
 - Aug 23 - [Nvidia's takeover of Arm raises serious concerns, says watchdog](https://www.bbc.com/news/business-58284204.html)
-- Aug 23 - [Aquaplus P/ECE (Vs Panic Playdate)](https://blog.gingerbeardman.com/2021/08/19/aquaplus-piece-vs-panic-playdate/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
