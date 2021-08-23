@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 23 - [Fighting Like Taliban](https://scholars-stage.org/fighting-like-taliban/)
 - Aug 23 - [When America Had an Atomic Mecha Warrior Robot](https://orangebeanindiana.com/2021/04/09/once-upon-a-time-america-had-an-atomic-mecha-warrior-robot/)
 - Aug 23 - [Electric Cars and Batteries: How Will the World Produce Enough?](https://www.nature.com/articles/d41586-021-02222-1)
 - Aug 23 - [The Coronavirus Is Here Forever](https://www.theatlantic.com/science/archive/2021/08/how-we-live-coronavirus-forever/619783/)
-- Aug 23 - [Perfect Recall (YC W20) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/perfect-recall/jobs/kcrysro-founding-engineer)
-- Aug 23 - [ISA-95 and IIoT](https://blog.isa.org/isa-95-and-iiot-power-is-nothing-without-control)
+- Aug 23 - [Picking Co-Founders the Army Officer Way](https://sorryspeakup.substack.com/p/the-army-officers-guide-to-picking)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
