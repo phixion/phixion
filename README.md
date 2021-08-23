@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 23 - [Sonic Pi – Code based live music creation tool](https://github.com/sonic-pi-net/sonic-pi)
+- Aug 23 - [Platforms Want to Be Utilities, Self-Govern Like Empires](https://www.eff.org/deeplinks/2021/08/utilities-governed-empires)
 - Aug 23 - [Coinbase plans to add $500M worth of crypto to its balance sheet](https://www.forbes.com/sites/billybambrough/2021/08/20/coinbase-ceo-reveals-500-million-bitcoin-ethereum-and-crypto-bombshell-as-the-market-price-breaks-2-trillion/)
 - Aug 23 - [Online Publisher Dependent Upon Facebook Shuts Down, Blaming Algorithm Change (2018)](https://daringfireball.net/linked/2018/02/28/littlethings)
 - Aug 23 - [Solar power in Australia outstrips coal-fired electricity for first time](https://www.theguardian.com/australia-news/2021/aug/23/solar-power-in-australia-outstrips-coal-fired-electricity-for-first-time)
-- Aug 23 - [Hand gestures that last longer than spoken languages](https://www.bbc.com/future/article/20210818-the-hand-gestures-that-last-longer-than-spoken-languages)
-- Aug 23 - [Image2Lego: Customized Lego Set Generation from Images](https://arxiv.org/abs/2108.08477)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
