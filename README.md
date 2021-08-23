@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 23 - [Palantir Buys Gold Bars as Hedge Against ‘Black Swan Event’](https://finance.yahoo.com/news/palantir-buys-gold-bars-hedge-175654233.html)
 - Aug 23 - [Perfect Recall (YC W20) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/perfect-recall/jobs/kcrysro-founding-engineer)
+- Aug 23 - [ISA-95 and IIoT](https://blog.isa.org/isa-95-and-iiot-power-is-nothing-without-control)
 - Aug 23 - [Visa Buys CryptoPunk #7610](https://twitter.com/VisaNews/status/1429745230023208969)
-- Aug 23 - [Ah yes, my mouse driver is asking for a firewall exemption (2019)](https://twitter.com/Foone/status/1146135405793669121)
-- Aug 23 - [Life Saving Therapy Inhibition by Phones Containing Magnets](https://bhrs.com/important-life-saving-therapy-inhibition-by-phones-containing-magnets/)
-- Aug 23 - [Ask HN: How do you handle user-generated content in your apps?](https://news.ycombinator.com/item?id=28274241)
+- Aug 23 - [Competitive Programming Is Useless](https://kislayverma.com/organizations/competitive-programming-is-useless/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
