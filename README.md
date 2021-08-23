@@ -38,7 +38,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 23 - [Online Publisher Dependent Upon Facebook Shuts Down, Blaming Algorithm Change](https://daringfireball.net/linked/2018/02/28/littlethings)
 - Aug 23 - [Razer bug lets you become a Windows 10 admin by plugging in a mouse](https://www.bleepingcomputer.com/news/security/razer-bug-lets-you-become-a-windows-10-admin-by-plugging-in-a-mouse/)
 - Aug 23 - [Russian Spy Ship Yantar Loitering Near Trans-Atlantic Internet Cables](https://www.navalnews.com/naval-news/2021/08/russian-spy-ship-yantar-loitering-near-trans-atlantic-internet-cables/)
-- Aug 23 - [Google found guilty of infringing 5 of Sonos' patents](https://www.phonearena.com/news/sonos-lawsuit-against-google-winning-could-get-google-home-smart-speakers-banned_id134397)
+- Aug 23 - [Google found guilty of infringing Sonos patents](https://www.phonearena.com/news/sonos-lawsuit-against-google-winning-could-get-google-home-smart-speakers-banned_id134397)
 - Aug 23 - [Hand gestures that last longer than spoken languages](https://www.bbc.com/future/article/20210818-the-hand-gestures-that-last-longer-than-spoken-languages)
 <!--END_SECTION:hn-->
 
