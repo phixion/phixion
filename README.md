@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 23 - [Google found guilty of infringing 5 of Sonos' patents](https://www.phonearena.com/news/sonos-lawsuit-against-google-winning-could-get-google-home-smart-speakers-banned_id134397)
 - Aug 23 - [Hand gestures that last longer than spoken languages](https://www.bbc.com/future/article/20210818-the-hand-gestures-that-last-longer-than-spoken-languages)
 - Aug 23 - [Image2Lego: Customized Lego Set Generation from Images](https://arxiv.org/abs/2108.08477)
 - Aug 23 - [Scrimba (YC S20) is hiring Imba developers to make CS education more accessible](https://jobs.scrimba.com)
 - Aug 23 - [Monkeys' cosy alliance with wolves looks like domestication (2015)](https://www.newscientist.com/article/dn27675-monkeys-cosy-alliance-with-wolves-looks-like-domestication/)
-- Aug 23 - [Afghans Delete Social Media as Taliban Seizes US Surveillance Equipment](https://www.theepochtimes.com/stranded-afghans-delete-social-media-as-taliban-seizes-us-surveillance-equipment_3958444.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
