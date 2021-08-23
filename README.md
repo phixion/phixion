@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 23 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- Aug 23 - [Twitter adds warning label to tweet from Liberal candidate Chrystia Freeland](https://www.cbc.ca/news/politics/twitter-labels-freeland-tweet-manipulated-media-1.6149734)
+- Aug 23 - [Firefox follows Chrome and prepares to block insecure downloads](https://therecord.media/firefox-follows-chrome-and-prepares-to-block-insecure-downloads/)
+- Aug 23 - [Launch HN: Zen (YC S21) – Posture-correcting software via webcam](https://news.ycombinator.com/item?id=28278618)
 - Aug 23 - [Launch HN: Buoyant (YC S21) – Blimp drones for air freight](https://news.ycombinator.com/item?id=28278515)
-- Aug 23 - [Wikidata or Scraping Wikipedia](http://simia.net/wiki/Wikidata_or_scraping_Wikipedia)
-- Aug 23 - [Nailgun: A Rust DNS performance testing client](https://leshow.github.io/post/nailgun/)
-- Aug 23 - [Physicist Discovered an Escape from Hawking’s Black Hole Paradox](https://www.quantamagazine.org/this-physicist-discovered-an-escape-from-hawkings-black-hole-paradox-20210823/)
-- Aug 23 - [The role of high-skilled foreign labor in startup performance](https://www.sciencedirect.com/science/article/abs/pii/S0304405X2100235X)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
