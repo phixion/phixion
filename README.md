@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 23 - [Anti-aging foundation sacks CSO Aubrey de Grey for disrupting harassment probe](https://endpts.com/anti-aging-research-foundation-sacks-cso-aubrey-de-grey-for-disrupting-sexual-harassment-probe/)
 - Aug 23 - [Tech Interview Handbook](https://techinterviewhandbook.org/)
 - Aug 23 - [Notes on Living in Los Angeles](https://sashachapin.substack.com/p/notes-on-living-in-los-angeles)
 - Aug 23 - [RustPython: A Python interpreter written in Rust](https://github.com/RustPython/RustPython)
 - Aug 23 - [How we paid for the War on Terror](https://adamtooze.substack.com/p/chartbook-34-how-we-paid-for-the)
-- Aug 23 - [Plane damaged after being hit by York police drone at Buttonville Airport](https://toronto.ctvnews.ca/plane-damaged-after-being-hit-by-york-police-drone-at-buttonville-airport-1.5554617)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
