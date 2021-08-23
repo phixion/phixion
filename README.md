@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 23 - [Error stack traces in Go with x/xerror](https://brandur.org/fragments/go-xerror)
 - Aug 23 - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
 - Aug 23 - [John Carmack visits Starbase](https://twitter.com/ID_AA_Carmack/status/1429907886159941638)
 - Aug 23 - [Science Saturday: How disease, diet, and genomics interact with gut virome](https://newsnetwork.mayoclinic.org/discussion/science-saturday-how-disease-diet-and-genomics-interact-with-gut-virome/)
 - Aug 23 - [Tesorio (YC S15) is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
-- Aug 23 - [One man's immunity to ticks (2015)](https://www.caryinstitute.org/news-insights/media-coverage/how-one-local-mans-immunity-ticks-could-save-us-all)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
