@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 23 - [Covid-19 Vaccination-Associated Myocarditis in Adolescents (PDF; Aug 22)](https://pediatrics.aappublications.org/content/pediatrics/early/2021/08/12/peds.2021-053427.full.pdf)
+- Aug 23 - [The study on dishonesty was based on fraudulent data](https://www.economist.com/graphic-detail/2021/08/20/a-study-on-dishonesty-was-based-on-fraudulent-data)
+- Aug 23 - [Tesla Project Dojo Overview](https://perspectives.mvdirona.com/2021/08/tesla-project-dojo-overview/)
+- Aug 23 - [Aquaplus P/ECE (Vs Panic Playdate)](https://blog.gingerbeardman.com/2021/08/19/aquaplus-piece-vs-panic-playdate/)
 - Aug 22 - [Moldable Emacs: Vega-Lite, Nyxt and Emacs Towards Sustainable Development](https://ag91.github.io/blog/2021/08/22/moldable-emacs-vega-lite-nyxt-and-emacs-towards-sustainable-development/)
 - Aug 22 - [Gnome Shell on the Apple M1, bare metal](https://twitter.com/alyssarzg/status/1429579145827127296)
-- Aug 22 - [Why protecting privacy is a losing game today (2018)](https://www.brookings.edu/research/why-protecting-privacy-is-a-losing-game-today-and-how-to-change-the-game/)
-- Aug 22 - [PlsExplain: A small dynamic programming language where every value is explained](https://github.com/langjam/jam0001/tree/main/hope)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
