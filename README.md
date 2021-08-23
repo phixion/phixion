@@ -35,9 +35,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 23 - [Anti-aging foundation sacks CSO Aubrey de Grey for disrupting harassment probe](https://endpts.com/anti-aging-research-foundation-sacks-cso-aubrey-de-grey-for-disrupting-sexual-harassment-probe/)
+- Aug 23 - [Tesorio (YC S15) is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
+- Aug 23 - [darktable: An open source photography workflow application](https://darktable.org)
 - Aug 23 - [Tech Interview Handbook](https://techinterviewhandbook.org/)
-- Aug 23 - [Notes on Living in Los Angeles](https://sashachapin.substack.com/p/notes-on-living-in-los-angeles)
 - Aug 23 - [RustPython: A Python interpreter written in Rust](https://github.com/RustPython/RustPython)
 - Aug 23 - [How we paid for the War on Terror](https://adamtooze.substack.com/p/chartbook-34-how-we-paid-for-the)
 <!--END_SECTION:hn-->
