@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 22 - [Amazon Staffer Says She Was Fired over Bathroom Breaks for Bowel Issue](https://www.businessinsider.com/amazon-staffer-bathroom-breaks-irritable-bowel-syndrome-lawsuit-2021-8)
 - Aug 22 - [Gnome Shell on the Apple M1, bare metal](https://twitter.com/alyssarzg/status/1429579145827127296)
 - Aug 22 - [Why protecting privacy is a losing game today (2018)](https://www.brookings.edu/research/why-protecting-privacy-is-a-losing-game-today-and-how-to-change-the-game/)
 - Aug 22 - [PlsExplain: A small dynamic programming language where every value is explained](https://github.com/langjam/jam0001/tree/main/hope)
 - Aug 22 - [How can we make air conditioners 33% more efficient? A revolutionary solution](https://youtube.com/watch?v=2TFiL5BM3ss)
-- Aug 22 - [Show HN: GLAuth 2.0 out, only a year late](https://glauth.github.io/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
