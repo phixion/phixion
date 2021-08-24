@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 24 - [Eight Sleep (YC S15) Is Hiring a Full Stack Engineer](https://www.ycombinator.com/companies/eight-sleep/jobs/slZD7gD-full-stack-engineer-web-focus)
 - Aug 24 - [Ploopy: open hardware trackballs and mouse](https://ploopy.co/)
 - Aug 24 - [Reversing ocean acidification with aggressive CO2 removal will take 700+ years (2015)](https://www.ibtimes.co.uk/reversing-ocean-acidification-aggressive-co2-removal-will-take-more-700-years-1513897)
 - Aug 24 - [Sweden must repay $1.6M in Bitcoin to convicted drug dealer](https://nypost.com/2021/08/23/sweden-must-repay-1-6m-in-bitcoin-to-convicted-drug-dealer/)
 - Aug 24 - [Gail.com](https://gail.com)
-- Aug 24 - [Science hobbyist website since 1994](http://amasci.com/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
