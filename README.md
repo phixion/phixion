@@ -35,9 +35,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 24 - [Nelua Programming Language](https://nelua.io/)
 - Aug 24 - [Why didn’t any Wall Street CEOs go to jail after the financial crisis? (2019)](https://features.marketplace.org/why-no-ceo-went-jail-after-financial-crisis/)
 - Aug 24 - [Golang vs. C# (.NET 5.0) at Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/go-csharpcore.html)
-- Aug 24 - [Apple employees organizing for 'systemic change' in workplace](https://thehill.com/policy/technology/569137-apple-employees-organizing-for-systemic-change-in-workplace)
 - Aug 24 - [I kept honking at a sleeping Tesla driver on the freeway, but she didn’t wake up](https://www.mercurynews.com/2021/08/23/some-tesla-drivers-relying-far-too-much-on-self-driving-technology-roadshow/)
 - Aug 24 - [How Discord Stores Billions of Messages (2017)](https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7)
 <!--END_SECTION:hn-->
