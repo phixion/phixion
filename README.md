@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 24 - [Twitter now requiring login to view tweets](https://www.reddit.com/r/DataHoarder/comments/pa6dra/twitter_starts_to_require_login_to_view_tweets/)
 - Aug 24 - [Is Hacker News a Good Predictor of Future Tech Trends?](https://jamespotter.dev/hacker-news-tech-trends/)
 - Aug 24 - [Pacaso is turning houses into corporations](https://www.npr.org/sections/money/2021/08/24/1030151330/a-unicorn-startup-is-turning-houses-into-corporations)
 - Aug 24 - [Samsung Reveals DDR5-7200 512GB RAM](https://www.tomshardware.com/news/samsung-reveals-ddr5-7200-512gb-ram)
 - Aug 24 - [The Growing Market of Not Cutting Down Trees](https://www.wsj.com/podcasts/the-journal/the-growing-market-of-not-cutting-down-trees/5e0b4e3d-f26e-42cf-94e8-acaab805a65a)
-- Aug 24 - [More than eighty cultures still speak in whistles](https://www.smithsonianmag.com/science-nature/studying-whistled-languages-180978484/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
