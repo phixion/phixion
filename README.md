@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 24 - [Is Hacker News a Good Predictor of Future Tech Trends?](https://jamespotter.dev/hacker-news-tech-trends/)
+- Aug 24 - [More than eighty cultures still speak in whistles](https://www.smithsonianmag.com/science-nature/studying-whistled-languages-180978484/)
 - Aug 24 - [Show HN: MergeFeed – Paste a bunch of links to create a multifeed](https://mergefeed.net/)
 - Aug 24 - [Mux (YC W16) is hiring devs to contribute to open source players](https://mux.com/jobs?hnj=oss-players)
 - Aug 24 - [Ask HN: Managing career progression for those with no interest in progressing?](https://news.ycombinator.com/item?id=28287617)
-- Aug 24 - [The First Step Toward Protecting Everyone Else from Teslas](https://slate.com/technology/2021/08/tesla-autopilot-nhtsa-clever.html)
-- Aug 24 - [Should Your Web History Impact Your Credit Score? The IMF Thinks So](https://www.extremetech.com/internet/326088-should-your-web-history-impact-your-credit-score-the-imf-thinks-so)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
