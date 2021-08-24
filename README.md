@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 24 - [Welcoming our first riders in San Francisco](https://blog.waymo.com/2021/08/welcoming-our-first-riders-in-san.html)
+- Aug 24 - [The NPM registry is deprecating TLS 1.0 and TLS 1.1](https://github.blog/2021-08-23-npm-registry-deprecating-tls-1-0-tls-1-1/)
 - Aug 24 - [SM2 Decryption Buffer Overflow](https://www.openssl.org/news/secadv/20210824.txt)
 - Aug 24 - [Reuters photographer was killed after being left behind in retreat](https://www.reuters.com/investigates/special-report/afghanistan-conflict-reuters-siddiqui/)
 - Aug 24 - [404PageFound – Active Vintage Websites, Old Webpages, and Web 1.0](https://www.404pagefound.com/)
-- Aug 24 - [Black barbers have become mental health advocates for African American men](https://edition.cnn.com/2021/01/23/us/black-barbers-mental-health-wellness-trnd/index.html)
-- Aug 24 - [Youtube-dl is possibly dead](https://old.reddit.com/r/DataHoarder/comments/p9riey/youtubedl_is_possibly_dead/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
