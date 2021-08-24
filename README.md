@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 24 - [Aggregate streaming data in real-time with WebAssembly](https://infinyon.com/blog/2021/08/smartstream-aggregates)
 - Aug 24 - [Launch HN: SafeBeat Rx (YC S21)- At-home ECG software to replace hospitalization](https://news.ycombinator.com/item?id=28292206)
 - Aug 24 - [Launch HN: Level (YC S21) – Flexible financing for early-stage lending startups](https://news.ycombinator.com/item?id=28292078)
 - Aug 24 - [Ramp raises $300M to keep saving time and money for businesses](https://ramp.com/blog/ramp-finance-automation-platform)
 - Aug 24 - [Keeper Tax (YC W19) Hiring Performance Mktg Lead](https://www.notion.so/keepertax/Come-work-with-us-98a6be20e7e44922be6291f5513af40d?p=751015f797c64917944d0c491aa81ecd)
-- Aug 24 - [Show HN: Kryptor – A simple, modern, and secure encryption tool](https://www.kryptor.co.uk/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
