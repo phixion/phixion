@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 24 - [They thought they were going to rehab. They ended up in chicken plants](https://revealnews.org/article/they-thought-they-were-going-to-rehab-they-ended-up-in-chicken-plants/)
 - Aug 24 - [Apple's Bizarre Crackdown on Multicast](https://thomask.sdf.org/blog/2021/08/24/apples-bizarre-crackdown-on-multicast.html)
 - Aug 24 - [Show HN: AI-Generated Illustrations of Plants](https://www.easyzoom.com/imageaccess/2128f27845ed4921b3143004dc550c3e)
 - Aug 24 - [Y Combinator’s European founder intake continues to grow to record levels](https://sifted.eu/articles/y-combinator-founder-intake/)
 - Aug 24 - [Observability: A New Theory Based on the Group of Invariance](https://www.maa.org/press/maa-reviews/observability-a-new-theory-based-on-the-group-of-invariance)
-- Aug 24 - [How the transparency collective DDoSecrets eclipsed WikiLeaks](https://newrepublic.com/article/163106/ddossecrets-new-wikileaks-julian-assange)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
