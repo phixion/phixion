@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 24 - [Reversing ocean acidification with aggressive CO2 removal will take 700+ years](https://www.ibtimes.co.uk/reversing-ocean-acidification-aggressive-co2-removal-will-take-more-700-years-1513897)
 - Aug 24 - [Sweden must repay $1.6M in Bitcoin to convicted drug dealer](https://nypost.com/2021/08/23/sweden-must-repay-1-6m-in-bitcoin-to-convicted-drug-dealer/)
 - Aug 24 - [Gail.com](https://gail.com)
 - Aug 24 - [Science hobbyist website since 1994](http://amasci.com/)
 - Aug 24 - [Convergent patterns between grizzly bear genetics and Indigenous language groups](https://www.ecologyandsociety.org/vol26/iss3/art7/)
-- Aug 23 - [Error stack traces in Go with x/xerror](https://brandur.org/fragments/go-xerror)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
