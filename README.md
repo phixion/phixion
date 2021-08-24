@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 24 - [SQLModel – SQL Databases in FastAPI](https://github.com/tiangolo/sqlmodel)
+- Aug 24 - [Scylla – Real-Time Big Data Database](https://www.scylladb.com/)
 - Aug 24 - [Googlespeak – How Google Limits Thought About Antitrust](https://zyppy.com/googlespeak/)
 - Aug 24 - [Nitter: Alternative Twitter Front-End](https://github.com/zedeus/nitter)
 - Aug 24 - [Nelua Programming Language](https://nelua.io/)
-- Aug 24 - [How Discord Stores Billions of Messages (2017)](https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7)
-- Aug 24 - [Aggregate streaming data in real-time with WebAssembly](https://infinyon.com/blog/2021/08/smartstream-aggregates)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
