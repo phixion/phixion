@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 24 - [What to Make of Isaac Asimov, Sci-Fi Giant and Dirty Old Man?](https://lithub.com/what-to-make-of-isaac-asimov-sci-fi-giant-and-dirty-old-man/)
 - Aug 24 - [Mux (YC W16) is hiring devs to contribute to open source players](https://mux.com/jobs?hnj=oss-players)
 - Aug 24 - [Should Your Web History Impact Your Credit Score? The IMF Thinks So](https://www.extremetech.com/internet/326088-should-your-web-history-impact-your-credit-score-the-imf-thinks-so)
-- Aug 24 - [If you could change one thing about Emacs what would it be?](https://www.reddit.com/r/emacs/comments/padv22/if_you_could_change_one_thing_about_emacs_what/)
+- Aug 24 - [Samsung kills the cameras on the Galaxy Z Fold 3 if you unlock the bootloader](https://www.xda-developers.com/samsung-galaxy-z-fold-3-unlock-bootloader-broken-camera/)
 - Aug 24 - [Bahraini Government Hacks Activists with NSO Group Zero-Click iPhone Exploits](https://citizenlab.ca/2021/08/bahrain-hacks-activists-with-nso-group-zero-click-iphone-exploits/)
-- Aug 24 - [Pinterest Required to Spend $3B on AWS](https://twitter.com/bensign/status/1429942858669244422)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
