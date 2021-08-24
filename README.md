@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 24 - [Hire for the Ability to Get Shit Done (2011)](http://blog.eladgil.com/2011/09/hire-for-ability-to-get-shit-done.html)
+- Aug 24 - [QEMU Version 6.1.0 Released](https://www.qemu.org/2021/08/24/qemu-6-1-0/)
 - Aug 24 - [SPA hexagon: Robust app architecture for mobile and web](https://evilmartians.com/chronicles/spa-hexagon-robust-app-architecture-for-mobile-and-web)
 - Aug 24 - [Two perspectives on the designer who Steve Jobs could not hire](https://www.arun.is/blog/richard-sapper/)
 - Aug 24 - [The Case for a Shorter Workweek](https://www.bbc.com/worklife/article/20210819-the-case-for-a-shorter-workweek)
