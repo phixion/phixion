@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 24 - [OpenSSL security advisory (2021-08-24)](https://www.openssl.org/news/secadv/20210824.txt)
+- Aug 24 - [Reuters photographer was killed after being left behind in retreat](https://www.reuters.com/investigates/special-report/afghanistan-conflict-reuters-siddiqui/)
+- Aug 24 - [404PageFound – Active Vintage Websites, Old Webpages, and Web 1.0](https://www.404pagefound.com/)
 - Aug 24 - [Youtube-dl is possibly dead](https://old.reddit.com/r/DataHoarder/comments/p9riey/youtubedl_is_possibly_dead/)
-- Aug 24 - [Twitter starts to require login to view tweets](https://www.reddit.com/r/DataHoarder/comments/pa6dra/twitter_starts_to_require_login_to_view_tweets/)
-- Aug 24 - [Is Hacker News a good predictor of future tech trends?](https://jamespotter.dev/hacker-news-tech-trends/)
-- Aug 24 - [Pacaso is turning houses into corporations](https://www.npr.org/sections/money/2021/08/24/1030151330/a-unicorn-startup-is-turning-houses-into-corporations)
-- Aug 24 - [Samsung Reveals DDR5-7200 512GB RAM](https://www.tomshardware.com/news/samsung-reveals-ddr5-7200-512gb-ram)
+- Aug 24 - [The Brain Doesn’t Think the Way You Think It Does](https://www.quantamagazine.org/mental-phenomena-dont-map-into-the-brain-as-expected-20210824/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
