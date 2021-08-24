@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 24 - [Y Combinator’s European founder intake continues to grow to record levels](https://sifted.eu/articles/y-combinator-founder-intake/)
 - Aug 24 - [Observability: A New Theory Based on the Group of Invariance](https://www.maa.org/press/maa-reviews/observability-a-new-theory-based-on-the-group-of-invariance)
+- Aug 24 - [How the transparency collective DDoSecrets eclipsed WikiLeaks](https://newrepublic.com/article/163106/ddossecrets-new-wikileaks-julian-assange)
 - Aug 24 - [Eight Sleep (YC S15) Is Hiring a Full Stack Engineer](https://www.ycombinator.com/companies/eight-sleep/jobs/slZD7gD-full-stack-engineer-web-focus)
 - Aug 24 - [Life Before Unicode](https://baturin.org/blog/life-before-unicode/)
-- Aug 24 - [Show HN: SlashApi – a web platform to build REST APIs without code](https://slashapi.com/)
-- Aug 24 - [I used to love Bootstrap. God, now I just hate it](https://ruky.me/2021/08/24/i-used-to-love-bootstrap-god-now-i-just-hate-it/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
