@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 24 - [Mux (YC W16) is hiring devs to contribute to open source players](https://mux.com/jobs?hnj=oss-players)
 - Aug 24 - [Should Your Web History Impact Your Credit Score? The IMF Thinks So](https://www.extremetech.com/internet/326088-should-your-web-history-impact-your-credit-score-the-imf-thinks-so)
 - Aug 24 - [If you could change one thing about Emacs what would it be?](https://www.reddit.com/r/emacs/comments/padv22/if_you_could_change_one_thing_about_emacs_what/)
+- Aug 24 - [Bahraini Government Hacks Activists with NSO Group Zero-Click iPhone Exploits](https://citizenlab.ca/2021/08/bahrain-hacks-activists-with-nso-group-zero-click-iphone-exploits/)
 - Aug 24 - [Pinterest Required to Spend $3B on AWS](https://twitter.com/bensign/status/1429942858669244422)
-- Aug 24 - [SpaceX ships 100k Starlink terminals to customers](https://techcrunch.com/2021/08/23/spacex-ships-100000-starlink-terminals-to-customers-eyes-future-launches-using-starship/)
-- Aug 24 - [They thought they were going to rehab. They ended up in chicken plants](https://revealnews.org/article/they-thought-they-were-going-to-rehab-they-ended-up-in-chicken-plants/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
