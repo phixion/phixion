@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 24 - [Apple's Bizarre Crackdown on Multicast](https://thomask.sdf.org/blog/2021/08/24/apples-bizarre-crackdown-on-multicast.html)
 - Aug 24 - [Show HN: AI-Generated Illustrations of Plants](https://www.easyzoom.com/imageaccess/2128f27845ed4921b3143004dc550c3e)
 - Aug 24 - [Y Combinator’s European founder intake continues to grow to record levels](https://sifted.eu/articles/y-combinator-founder-intake/)
-- Aug 24 - [Observability: A New Theory Based on the Group of Invariance](https://www.maa.org/press/maa-reviews/observability-a-new-theory-based-on-the-group-of-invariance)
+- Aug 24 - [Using Emacs in an IDE World](https://andrewjudson.com/emacs/2021/08/23/emacs.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
