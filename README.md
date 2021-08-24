@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 24 - [If you could change one thing about Emacs what would it be?](https://www.reddit.com/r/emacs/comments/padv22/if_you_could_change_one_thing_about_emacs_what/)
+- Aug 24 - [Pinterest Required to Spend $3B on AWS](https://twitter.com/bensign/status/1429942858669244422)
 - Aug 24 - [SpaceX ships 100k Starlink terminals to customers](https://techcrunch.com/2021/08/23/spacex-ships-100000-starlink-terminals-to-customers-eyes-future-launches-using-starship/)
 - Aug 24 - [They thought they were going to rehab. They ended up in chicken plants](https://revealnews.org/article/they-thought-they-were-going-to-rehab-they-ended-up-in-chicken-plants/)
-- Aug 24 - [Apple's Bizarre Crackdown on Multicast](https://thomask.sdf.org/blog/2021/08/24/apples-bizarre-crackdown-on-multicast.html)
-- Aug 24 - [Show HN: AI-Generated Illustrations of Plants](https://www.easyzoom.com/imageaccess/2128f27845ed4921b3143004dc550c3e)
-- Aug 24 - [Y Combinator’s European founder intake continues to grow to record levels](https://sifted.eu/articles/y-combinator-founder-intake/)
+- Aug 24 - [Europe has now created more $1bn ‘unicorn’ companies than China](https://sifted.eu/articles/europe-china-unicorn/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
