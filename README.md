@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 24 - [API Tokens: A Tedious Survey](https://fly.io/blog/api-tokens-a-tedious-survey/)
 - Aug 24 - [Volley (YC W18) is the fast growing “Netflix of Voice” / Hiring 12 roles in SF](https://jobs.lever.co/volleythat)
 - Aug 24 - [Man steals 620k photos from iCloud accounts from home without Apple noticing](https://www.latimes.com/california/story/2021-08-23/icloud-photo-theft-nude-women)
 - Aug 24 - [SQLModel – SQL Databases in FastAPI](https://github.com/tiangolo/sqlmodel)
 - Aug 24 - [Scylla – Real-Time Big Data Database](https://www.scylladb.com/)
-- Aug 24 - [Googlespeak – How Google Limits Thought About Antitrust](https://zyppy.com/googlespeak/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
