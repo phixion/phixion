@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 24 - [Tell HN: Signing out and in to Apple device forcefully activates iCloud sync](https://news.ycombinator.com/item?id=28285567)
 - Aug 24 - [Ploopy: open hardware trackballs and mouse](https://ploopy.co/)
 - Aug 24 - [Reversing ocean acidification with aggressive CO2 removal will take 700+ years (2015)](https://www.ibtimes.co.uk/reversing-ocean-acidification-aggressive-co2-removal-will-take-more-700-years-1513897)
-- Aug 24 - [Gail.com](https://gail.com)
+- Aug 24 - [Sweden must repay $1.6M in Bitcoin to convicted drug dealer](https://nypost.com/2021/08/23/sweden-must-repay-1-6m-in-bitcoin-to-convicted-drug-dealer/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
