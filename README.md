@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 25 - [Mind-Bending Perceptual Illusions (2018)](https://nautil.us/blog/12-mind_bending-perceptual-illusions)
+- Aug 25 - [Bashly – Create beautiful bash scripts from simple YAML configuration](https://github.com/DannyBen/bashly)
 - Aug 25 - [Show HN: 59a34eabe31910abfb06f308 NeuralHash Collision Demo](https://thishashcollisionisnotporn.com)
+- Aug 25 - [Surveillance of the Internet Backbone](https://www.schneier.com/blog/archives/2021/08/surveillance-of-the-internet-backbone.html)
 - Aug 25 - [Launch HN: Evidence (YC S21) – Web framework for data analysts](https://news.ycombinator.com/item?id=28304781)
-- Aug 25 - [BoldVoice (YC S21) – Accent Coaching App – Is Hiring Full Stack Engineer](https://www.ycombinator.com/companies/boldvoice/jobs/BSms6T6-full-stack-engineer-react-native-node-js)
-- Aug 25 - [Vulnerability in Bumble dating app reveals any user's exact location](https://robertheaton.com/bumble-vulnerability/)
-- Aug 25 - [Do vision transformers see like convolutional neural networks?](https://arxiv.org/abs/2108.08810)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
