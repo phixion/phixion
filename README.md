@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 25 - [Comparing SARS-CoV-2 natural immunity to vaccine-induced immunity [pdf]](https://www.medrxiv.org/content/10.1101/2021.08.24.21262415v1.full.pdf)
 - Aug 25 - [Smarking (YC W15) Is Hiring a Head of Engineering to Digitize $131B Parking](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
 - Aug 25 - [Burning Out and Quitting](https://mayakaczorowski.com/blogs/burnout)
 - Aug 25 - [Responsibly recycle your used Dell and non-Dell equipment for free](https://recycling.dell.com/)
-- Aug 25 - [An analysis of Amazon Echo's network behavior](https://arxiv.org/abs/2105.13500)
-- Aug 25 - [Jsc: My New Best Friend](https://furbo.org/2021/08/25/jsc-my-new-best-friend/)
+- Aug 25 - [K/V Benchmark: PostgreSQL vs. Redis vs. Memcached](https://www.cybertec-postgresql.com/en/postgresql-vs-redis-vs-memcached-performance/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
