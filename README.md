@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 25 - [Do Vision Transformers See Like Convolutional Neural Networks?](https://arxiv.org/abs/2108.08810)
 - Aug 25 - [A Cartrivision Player TV](https://twitter.com/Foone/status/1423369057181454339)
 - Aug 25 - [The Begum's Fortune](https://en.wikipedia.org/wiki/The_Begum%27s_Fortune)
 - Aug 25 - [T. rex’s jaw had sensors to make it an even more fearsome predator](https://www.newswise.com/articles/t-rex-s-jaw-had-sensors-to-make-it-an-even-more-fearsome-predator-new-digital-study-finds?sc=dwhn)
 - Aug 25 - [Show HN: Exatorrent – Self-hostable Torrent client written in Go](https://github.com/varbhat/exatorrent)
-- Aug 25 - [Show HN: WebCrate – an open source, social and self-hosted bookmarking tool](https://webcrate.app)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
