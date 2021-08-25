@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 25 - [Stacker (YC S20) is hiring all roles (Remote in European timezones)](https://stackerhq.com/careers)
 - Aug 25 - [U.S. drone pilot leaks footage reveals accidental killing of children and adults](https://eminetra.co.uk/u-s-drone-pilot-leaks-footage-reveals-accidental-killing-of-two-children-and-two-adults-in-afghanistan/663346/)
 - Aug 25 - [Kobol Team Is Pulling the Plug from “Helios64 Open Source NAS”](https://blog.kobol.io/2021/08/25/we-are-pulling-the-plug/)
 - Aug 25 - [S.Korea parliament committee votes to curb Google, Apple commission dominance](https://www.reuters.com/technology/skorea-parliament-committee-votes-curb-google-apple-commission-dominance-2021-08-25/)
 - Aug 25 - [Turing Pi V2 is here](https://turingpi.com/turing-pi-v2-is-here/)
-- Aug 25 - [A catalog of naturally occurring images whose Apple NeuralHash is identical](https://github.com/roboflow-ai/neuralhash-collisions)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
