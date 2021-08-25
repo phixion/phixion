@@ -35,9 +35,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 25 - [Launch HN: Evidence (YC S21) – Web framework for data analysts](https://news.ycombinator.com/item?id=28304781)
 - Aug 25 - [We Hire Old People](https://relevantdb.com/careers.html)
 - Aug 25 - [BoldVoice (YC S21) – Accent Coaching App – Is Hiring Full Stack Engineer](https://www.ycombinator.com/companies/boldvoice/jobs/BSms6T6-full-stack-engineer-react-native-node-js)
-- Aug 25 - [‘Building back badly’: Global power sector emissions soar](https://ember-climate.org/project/global-electricity-review-h1-2021/)
 - Aug 25 - [Vulnerability in Bumble dating app reveals any user's exact location](https://robertheaton.com/bumble-vulnerability/)
 - Aug 25 - [Do vision transformers see like convolutional neural networks?](https://arxiv.org/abs/2108.08810)
 <!--END_SECTION:hn-->
