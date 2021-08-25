@@ -35,8 +35,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 25 - [Gaslighting, a Covid Love Story](https://alexberenson.substack.com/p/gaslighting-a-covid-love-story)
 - Aug 25 - [OnlyFans suspends plan to ban “sexually explicit” content](https://www.axios.com/onlyfans-cancels-sexually-explicit-content-ban-172203d1-e505-4089-9b56-d2b225aef82e.html)
+- Aug 25 - [Prettymaps: Small Python library to draw customized maps from OpenStreetMap data](https://github.com/marceloprates/prettymaps)
 - Aug 25 - [OnlyFans Drops Planned Porn Ban](https://variety.com/2021/digital/news/onlyfans-drops-porn-ban-sexually-explicit-policy-1235048705/)
 - Aug 25 - [Launch HN: Litnerd (YC S21) – Sesame Street Inspired Reading Program for Schools](https://news.ycombinator.com/item?id=28300640)
 - Aug 25 - [The Science of Underground Kingdoms](https://www.caltech.edu/about/news/the-science-of-underground-kingdoms)
