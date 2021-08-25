@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 25 - [The Search for a Free/Open Source Mobile Operating System](https://blog.emacsen.net/blog/2021/08/23/floss-mobile-os-aug-2021/)
+- Aug 25 - [Sputnik V: fraudulent clinical trial data](https://forbetterscience.com/2021/08/24/sputnik-v-fraudulent-халтура/)
 - Aug 24 - [Jeff Varasano's NY Pizza Recipe (2008)](http://www.varasanos.com/pizzarecipe.htm)
 - Aug 24 - [QEMU Version 6.1.0 Released](https://www.qemu.org/2021/08/24/qemu-6-1-0/)
-- Aug 24 - [Two perspectives on a designer who Steve Jobs could not hire](https://www.arun.is/blog/richard-sapper/)
-- Aug 24 - [The Case for a Shorter Workweek](https://www.bbc.com/worklife/article/20210819-the-case-for-a-shorter-workweek)
-- Aug 24 - [API Tokens: A Tedious Survey](https://fly.io/blog/api-tokens-a-tedious-survey/)
+- Aug 24 - [Hire for the Ability to Get Shit Done (2011)](http://blog.eladgil.com/2011/09/hire-for-ability-to-get-shit-done.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
