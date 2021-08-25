@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Aug 25 - [BoldVoice (YC S21) – Accent Coaching App – Is Hiring Full Stack Engineer](https://www.ycombinator.com/companies/boldvoice/jobs/BSms6T6-full-stack-engineer-react-native-node-js)
 - Aug 25 - [‘Building back badly’: Global power sector emissions soar](https://ember-climate.org/project/global-electricity-review-h1-2021/)
-- Aug 25 - [Do Vision Transformers See Like Convolutional Neural Networks?](https://arxiv.org/abs/2108.08810)
-- Aug 25 - [A Cartrivision Player TV](https://twitter.com/Foone/status/1423369057181454339)
-- Aug 25 - [The Begum's Fortune](https://en.wikipedia.org/wiki/The_Begum%27s_Fortune)
+- Aug 25 - [Vulnerability in Bumble dating app reveals any user's exact location](https://robertheaton.com/bumble-vulnerability/)
+- Aug 25 - [Do vision transformers see like convolutional neural networks?](https://arxiv.org/abs/2108.08810)
+- Aug 25 - [Stop that It’s not Tourette’s but a new type of mass sociogenic illness](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awab316/6356504)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
