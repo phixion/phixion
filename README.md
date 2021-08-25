@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 25 - [An analysis of Amazon Echo's network behavior](https://arxiv.org/abs/2105.13500)
 - Aug 25 - [Happy birthday – 30 years of Linux – Ubuntu](https://ubuntu.com/blog/happy-birthday-30-years-of-linux)
 - Aug 25 - [Mind-Bending Perceptual Illusions (2018)](https://nautil.us/blog/12-mind_bending-perceptual-illusions)
 - Aug 25 - [Bashly – Create beautiful bash scripts from simple YAML configuration](https://github.com/DannyBen/bashly)
 - Aug 25 - [Show HN: 59a34eabe31910abfb06f308 – NeuralHash Collision Demo](https://thishashcollisionisnotporn.com)
-- Aug 25 - [Surveillance of the Internet Backbone](https://www.schneier.com/blog/archives/2021/08/surveillance-of-the-internet-backbone.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
