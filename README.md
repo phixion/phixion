@@ -35,9 +35,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 24 - [Jeff Varasano's NY Pizza Recipe (2008)](http://www.varasanos.com/pizzarecipe.htm)
 - Aug 24 - [QEMU Version 6.1.0 Released](https://www.qemu.org/2021/08/24/qemu-6-1-0/)
-- Aug 24 - [SPA hexagon: Robust app architecture for mobile and web](https://evilmartians.com/chronicles/spa-hexagon-robust-app-architecture-for-mobile-and-web)
-- Aug 24 - [Two perspectives on the designer who Steve Jobs could not hire](https://www.arun.is/blog/richard-sapper/)
+- Aug 24 - [Two perspectives on a designer who Steve Jobs could not hire](https://www.arun.is/blog/richard-sapper/)
 - Aug 24 - [The Case for a Shorter Workweek](https://www.bbc.com/worklife/article/20210819-the-case-for-a-shorter-workweek)
 - Aug 24 - [API Tokens: A Tedious Survey](https://fly.io/blog/api-tokens-a-tedious-survey/)
 <!--END_SECTION:hn-->
