@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 25 - [FCC proposes fining conspiracists $5.1M for voter suppression robocalls](https://www.politico.com/news/2021/08/24/fcc-jacob-wohl-voter-robocalls-506813)
+- Aug 25 - [A Cartrivision Player TV](https://twitter.com/Foone/status/1423369057181454339)
+- Aug 25 - [The Begum's Fortune](https://en.wikipedia.org/wiki/The_Begum%27s_Fortune)
+- Aug 25 - [T. rex’s jaw had sensors to make it an even more fearsome predator](https://www.newswise.com/articles/t-rex-s-jaw-had-sensors-to-make-it-an-even-more-fearsome-predator-new-digital-study-finds?sc=dwhn)
 - Aug 25 - [Show HN: Exatorrent – Self-hostable Torrent client written in Go](https://github.com/varbhat/exatorrent)
 - Aug 25 - [Show HN: WebCrate – an open source, social and self-hosted bookmarking tool](https://webcrate.app)
-- Aug 25 - [OnlyFans suspends plan to ban "sexually explicit" content after outcry](https://www.axios.com/onlyfans-cancels-sexually-explicit-content-ban-172203d1-e505-4089-9b56-d2b225aef82e.html)
-- Aug 25 - [Prettymaps: Small Python library to draw customized maps from OpenStreetMap data](https://github.com/marceloprates/prettymaps)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
