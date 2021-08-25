@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 25 - [Turing Pi V2 is here](https://turingpi.com/turing-pi-v2-is-here/)
 - Aug 25 - [A catalog of naturally occurring images whose Apple NeuralHash is identical](https://github.com/roboflow-ai/neuralhash-collisions)
 - Aug 25 - [Ask HN: Companies of one, what is your tech stack?](https://news.ycombinator.com/item?id=28299053)
-- Aug 25 - [What’s ugliest about M1 Macs and needs improvement](https://eclecticlight.co/2021/08/25/whats-ugliest-about-m1-macs-and-needs-improvement/)
 - Aug 25 - [Enso (YC S21) Is Hiring senior interpreter developer](https://www.ycombinator.com/companies/enso/jobs/5AhkHFF-senior-rust-developer)
+- Aug 25 - [Miller CLI – Like Awk, sed, cut, join, and sort for CSV, TSV and JSON](https://github.com/johnkerl/miller)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
