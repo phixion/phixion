@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 25 - [Google is committing $10B to advance cybersecurity](https://blog.google/technology/safety-security/why-were-committing-10-billion-to-advance-cybersecurity/)
+- Aug 25 - [Mass extinction pulses driven by major marine carbon cycle perturbations (2020)](https://www.nature.com/articles/s41561-020-00646-4)
+- Aug 25 - [Man Robbed of 16 Bitcoin Sues Young Thieves’ Parents](https://krebsonsecurity.com/2021/08/man-robbed-of-16-bitcoin-sues-young-thieves-parents/)
 - Aug 25 - [Smarking (YC W15) Is Hiring a Head of Engineering to Digitize $131B Parking](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
 - Aug 25 - [Burning Out and Quitting](https://mayakaczorowski.com/blogs/burnout)
 - Aug 25 - [Responsibly recycle your used Dell and non-Dell equipment for free](https://recycling.dell.com/)
-- Aug 25 - [K/V Benchmark: PostgreSQL vs. Redis vs. Memcached](https://www.cybertec-postgresql.com/en/postgresql-vs-redis-vs-memcached-performance/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
