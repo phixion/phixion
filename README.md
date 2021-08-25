@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 25 - [The leak that brought the H-bomb debate out of the cold](http://blog.nuclearsecrecy.com/2021/06/14/the-leak-that-brought-the-h-bomb-debate-out-of-the-cold/)
 - Aug 25 - [The Principles Underlying Radio Communication](https://archive.org/details/principlesunderl00unitrich)
 - Aug 25 - [Noam Chomsky – Startup Culture](https://www.youtube.com/watch?v=6jhwA1vLEpU)
 - Aug 25 - [An Introduction to JQ](https://earthly.dev/blog/jq-select/)
 - Aug 25 - [SQL vs. NoSQL Is the Wrong Distinction](https://www.softwareatscale.dev/p/sql-vs-nosql-is-the-wrong-distinction)
-- Aug 25 - [The Search for a Free/Open Source Mobile Operating System](https://blog.emacsen.net/blog/2021/08/23/floss-mobile-os-aug-2021/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
