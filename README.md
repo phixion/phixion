@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 26 - [The All-Seeing “I”: Apple Just Declared War on Your Privacy](https://edwardsnowden.substack.com/p/all-seeing-i)
+- Aug 26 - [Inverted Totalitarianism](https://en.wikipedia.org/wiki/Inverted_totalitarianism)
 - Aug 26 - [The Chief People Officer as PM: Rethinking Systems and Tools](https://review.firstround.com/the-chief-people-officer-as-pm:-rethinking-the-systems-and-tools-that-run-the-company)
 - Aug 26 - [The Dream of Carbon Air Capture Edges Toward Reality](https://e360.yale.edu/features/the-dream-of-co2-air-capture-edges-toward-reality)
 - Aug 25 - [Thousands of Debian packages updated from their upstream Git repository](https://www.jelmer.uk/fresh-builds.html)
-- Aug 25 - [Comparing SARS-CoV-2 natural immunity to vaccine-induced immunity [pdf]](https://www.medrxiv.org/content/10.1101/2021.08.24.21262415v1.full.pdf)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
