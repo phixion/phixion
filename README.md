@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 26 - [Great Question (YC W21) Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=28317509)
+- Aug 26 - [Google has killed Discord's best music bot](https://www.pcgamer.com/google-has-killed-discords-best-music-bot/)
+- Aug 26 - [Portal Windows for Electron](https://blog.tandem.chat/portal-windows/)
 - Aug 26 - [FBI Palantir glitch allowed unauthorized access to private data](https://nypost.com/2021/08/25/fbi-palantir-glitch-allowed-unauthorized-access-to-private-data/)
 - Aug 26 - [An Illustrated Guide to Post-Orwellian Censorship](https://thereader.mitpress.mit.edu/an-illustrated-guide-to-post-orwellian-censorship/)
-- Aug 26 - [LimeSDR](https://limemicro.com/products/boards/limesdr/)
-- Aug 26 - [Why Are Hyperlinks Blue?](https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/)
-- Aug 26 - [Cloud pricing comparison: AWS vs. Azure vs. Google Cloud in 2021](https://cast.ai/blog/ultimate-cloud-pricing-comparison-aws-vs-azure-vs-google-cloud-in-2021/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
