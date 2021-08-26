@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 26 - [The Mathematics of 2048: Optimal Play with Markov Decision Processes](https://jdlm.info/articles/2018/03/18/markov-decision-process-2048.html)
+- Aug 26 - [Concrete: The most destructive material on Earth](https://www.theguardian.com/cities/2019/feb/25/concrete-the-most-destructive-material-on-earth)
 - Aug 26 - [Canistilluse.com](https://blog.jim-nielsen.com/2021/canistilluse.com/)
 - Aug 26 - [The All-Seeing “i”: Apple Just Declared War on Your Privacy](https://edwardsnowden.substack.com/p/all-seeing-i)
 - Aug 26 - [The Chief People Officer as PM: Rethinking Systems and Tools](https://review.firstround.com/the-chief-people-officer-as-pm:-rethinking-the-systems-and-tools-that-run-the-company)
-- Aug 25 - [Thousands of Debian packages updated from their upstream Git repository](https://www.jelmer.uk/fresh-builds.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
