@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 26 - [Almost all of the top subreddits are moderated by the same people](https://www.reddit.com/r/ThatsInsane/comments/pbloje/almost_all_of_the_top_subreddits_are_moderated_by/)
+- Aug 26 - [A simple string handling library for Microsoft Fortran-80](https://github.com/ratboy666/string)
 - Aug 26 - [Toshiba reports milestone in quantum cryptography](https://www3.nhk.or.jp/nhkworld/en/news/20210826_10/)
 - Aug 26 - [There is no such thing as a “glibc based alpine image”](https://ariadne.space/2021/08/26/there-is-no-such-thing-as-a-glibc-based-alpine-image/)
 - Aug 26 - [Google to pay Apple $15B to remain default Safari search engine in 2021](https://9to5mac.com/2021/08/25/analysts-google-to-pay-apple-15-billion-to-remain-default-safari-search-engine-in-2021/)
-- Aug 26 - [‘Extraordinary’ hacking powers pass Australian Parliament](https://www.innovationaus.com/extraordinary-new-hacking-powers-pass-parliament/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
