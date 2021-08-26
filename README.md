@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 26 - [Immunity Generated from Covid-19 Vaccines Differs from an Infection](https://directorsblog.nih.gov/2021/06/22/how-immunity-generated-from-covid-19-vaccines-differs-from-an-infection/)
 - Aug 26 - [Fixing under-engineered code vs. fixing over-engineered code](https://github.com/Dobiasd/articles/blob/master/fixing_underengineered_code_vs_fixing_overengineered_code.md)
 - Aug 26 - [CCP publication calls Tibet policy a template for other ethnic minority regions](https://www.tibetanreview.net/70th-party-anniversary-publication-calls-chinas-tibet-policy-a-template-for-other-ethnic-minority-regions/)
 - Aug 26 - [Great Question (YC W21) Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=28317509)
 - Aug 26 - [Google has killed Discord's best music bot](https://www.pcgamer.com/google-has-killed-discords-best-music-bot/)
-- Aug 26 - [Portal Windows for Electron](https://blog.tandem.chat/portal-windows/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
