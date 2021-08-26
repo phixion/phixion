@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 26 - [Heroic Labs (YC S15) Is Hiring a Lead Web Engineer](https://www.ycombinator.com/companies/heroic-labs/jobs/cCzMNxe-lead-web-engineer)
+- Aug 26 - [Sailfish 4](https://sailfishos.org/)
 - Aug 26 - [TSMC hikes chip prices up to 20% amid supply shortage](https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-hikes-chip-prices-up-to-20-amid-supply-shortage)
 - Aug 26 - [UK to overhaul privacy rules in post-Brexit departure from GDPR](https://www.theguardian.com/technology/2021/aug/26/uk-to-overhaul-privacy-rules-in-post-brexit-departure-from-gdpr)
 - Aug 26 - [Federal government to expand use of facial recognition despite growing concerns](https://www.washingtonpost.com/technology/2021/08/25/federal-facial-recognition-expansion/)
-- Aug 26 - [mRNA vaccine trial for Lyme disease](https://www.pfizer.com/news/press-release/press-release-detail/valneva-and-pfizer-announce-initiation-phase-2-study-lyme)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
