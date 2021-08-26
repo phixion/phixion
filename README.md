@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 26 - [Fixing under-engineered code vs. fixing over-engineered code](https://github.com/Dobiasd/articles/blob/master/fixing_underengineered_code_vs_fixing_overengineered_code.md)
+- Aug 26 - [CCP publication calls Tibet policy a template for other ethnic minority regions](https://www.tibetanreview.net/70th-party-anniversary-publication-calls-chinas-tibet-policy-a-template-for-other-ethnic-minority-regions/)
 - Aug 26 - [Great Question (YC W21) Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=28317509)
 - Aug 26 - [Google has killed Discord's best music bot](https://www.pcgamer.com/google-has-killed-discords-best-music-bot/)
 - Aug 26 - [Portal Windows for Electron](https://blog.tandem.chat/portal-windows/)
-- Aug 26 - [FBI Palantir glitch allowed unauthorized access to private data](https://nypost.com/2021/08/25/fbi-palantir-glitch-allowed-unauthorized-access-to-private-data/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
