@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 26 - [FBI Palantir glitch allowed unauthorized access to private data](https://nypost.com/2021/08/25/fbi-palantir-glitch-allowed-unauthorized-access-to-private-data/)
+- Aug 26 - [An Illustrated Guide to Post-Orwellian Censorship](https://thereader.mitpress.mit.edu/an-illustrated-guide-to-post-orwellian-censorship/)
 - Aug 26 - [LimeSDR](https://limemicro.com/products/boards/limesdr/)
 - Aug 26 - [Why Are Hyperlinks Blue?](https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/)
 - Aug 26 - [Cloud pricing comparison: AWS vs. Azure vs. Google Cloud in 2021](https://cast.ai/blog/ultimate-cloud-pricing-comparison-aws-vs-azure-vs-google-cloud-in-2021/)
-- Aug 26 - [Launch YC S21: Meet the Batch, Thread #9](https://news.ycombinator.com/item?id=28315042)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
