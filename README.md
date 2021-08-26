@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 26 - [The All-Seeing “i”: Apple Just Declared War on Your Privacy](https://edwardsnowden.substack.com/p/all-seeing-i)
 - Aug 26 - [The Chief People Officer as PM: Rethinking Systems and Tools](https://review.firstround.com/the-chief-people-officer-as-pm:-rethinking-the-systems-and-tools-that-run-the-company)
 - Aug 26 - [The dream of carbon air capture edges toward reality](https://e360.yale.edu/features/the-dream-of-co2-air-capture-edges-toward-reality)
+- Aug 25 - [To save California, sacrifice single-family zoning](https://www.latimes.com/opinion/story/2021-08-22/editorial-sb9-sb10-california-housing)
 - Aug 25 - [Thousands of Debian packages updated from their upstream Git repository](https://www.jelmer.uk/fresh-builds.html)
-- Aug 25 - [Comparing SARS-CoV-2 natural immunity to vaccine-induced immunity [pdf]](https://www.medrxiv.org/content/10.1101/2021.08.24.21262415v1.full.pdf)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
