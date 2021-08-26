@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 26 - [FBI Palantir glitch allowed unauthorized access to private data](https://nypost.com/2021/08/25/fbi-palantir-glitch-allowed-unauthorized-access-to-private-data/)
 - Aug 26 - [LimeSDR](https://limemicro.com/products/boards/limesdr/)
 - Aug 26 - [Why Are Hyperlinks Blue?](https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/)
+- Aug 26 - [Cloud pricing comparison: AWS vs. Azure vs. Google Cloud in 2021](https://cast.ai/blog/ultimate-cloud-pricing-comparison-aws-vs-azure-vs-google-cloud-in-2021/)
 - Aug 26 - [Launch YC S21: Meet the Batch, Thread #9](https://news.ycombinator.com/item?id=28315042)
-- Aug 26 - [T-Mobile Hacker Who Stole Data on 50M Customers: ‘Their Security Is Awful’](https://www.wsj.com/articles/t-mobile-hacker-who-stole-data-on-50-million-customers-their-security-is-awful-11629985105)
-- Aug 26 - [Adding Optimistic Locking to an API](https://www.moderntreasury.com/journal/designing-ledgers-with-optimistic-locking)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
