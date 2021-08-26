@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 26 - [Toshiba reports milestone in quantum cryptography](https://www3.nhk.or.jp/nhkworld/en/news/20210826_10/)
 - Aug 26 - [Google to pay Apple $15B to remain default Safari search engine in 2021](https://9to5mac.com/2021/08/25/analysts-google-to-pay-apple-15-billion-to-remain-default-safari-search-engine-in-2021/)
 - Aug 26 - [‘Extraordinary’ hacking powers pass Australian Parliament](https://www.innovationaus.com/extraordinary-new-hacking-powers-pass-parliament/)
-- Aug 26 - [Goodbye climate deniers, hello climate bullshitters](https://www.theguardian.com/commentisfree/2021/may/06/difference-real-climate-policy-greenwashing-emissions)
 - Aug 26 - [Raycast (YC W20) Is Hiring macOS and React Engineers to Make Teams More Productive](https://www.raycast.com/jobs)
+- Aug 26 - [The Mathematics of 2048: Optimal Play with Markov Decision Processes (2018)](https://jdlm.info/articles/2018/03/18/markov-decision-process-2048.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
