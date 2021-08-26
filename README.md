@@ -35,8 +35,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 26 - [Co-Founder and Former CEO of Headspin Charged with Fraud](https://www.justice.gov/usao-ndca/pr/co-founder-and-former-ceo-palo-alto-based-start-technology-company-headspin-charged)
 - Aug 26 - [The Mathematics of 2048: Optimal Play with Markov Decision Processes](https://jdlm.info/articles/2018/03/18/markov-decision-process-2048.html)
-- Aug 26 - [Concrete: The most destructive material on Earth](https://www.theguardian.com/cities/2019/feb/25/concrete-the-most-destructive-material-on-earth)
 - Aug 26 - [ONE MILLION! (2011)](https://blog.whatsapp.com/on-e-millio-n)
 - Aug 26 - [Free Machine Learning crash course from Google](https://developers.google.com/machine-learning/crash-course/)
 - Aug 26 - [Canistilluse.com](https://blog.jim-nielsen.com/2021/canistilluse.com/)
