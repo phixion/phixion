@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 26 - [Work Hard (By Terence Tao)](https://terrytao.wordpress.com/career-advice/work-hard/)
-- Aug 26 - [My Tungsten Cube](https://thume.ca/2019/03/03/my-tungsten-cube/)
+- Aug 26 - [More and More Humans Are Growing an Extra Artery, Showing We're Still Evolving](https://www.sciencealert.com/more-humans-are-growing-an-extra-artery-in-our-arms-because-we-re-still-evolving)
+- Aug 26 - [Work Hard](https://terrytao.wordpress.com/career-advice/work-hard/)
+- Aug 26 - [My Tungsten Cube (2019)](https://thume.ca/2019/03/03/my-tungsten-cube/)
 - Aug 26 - [Seeking Early Signals of Dementia in Driving and Credit Scores](https://www.nytimes.com/2021/08/23/health/dementia-behavior-alzheimers.html)
 - Aug 26 - [High Performance Correctly Rounded Math Libraries for 32-Bit Floating Point](https://blog.sigplan.org/2021/08/26/high-performance-correctly-rounded-math-libraries-for-32-bit-floating-point-representations/)
-- Aug 26 - [Simple Tips for Overcoming Procrastination](https://meetmaya.world/4-simple-tips-of-overcoming-procrastination/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
