@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 26 - [Rent control isn’t working in Sweden](https://www.bbc.com/news/business-58317555)
 - Aug 26 - [Silent changes to Western Digital’s budget SSD may lower speeds by up to 50%](https://arstechnica.com/gadgets/2021/08/silent-changes-to-western-digitals-budget-ssd-may-lower-speeds-by-up-to-50/)
 - Aug 26 - [Heroic Labs (YC S15) Is Hiring a Lead Web Engineer](https://www.ycombinator.com/companies/heroic-labs/jobs/cCzMNxe-lead-web-engineer)
 - Aug 26 - [Sailfish 4](https://sailfishos.org/)
 - Aug 26 - [TSMC hikes chip prices up to 20% amid supply shortage](https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-hikes-chip-prices-up-to-20-amid-supply-shortage)
-- Aug 26 - [UK to overhaul privacy rules in post-Brexit departure from GDPR](https://www.theguardian.com/technology/2021/aug/26/uk-to-overhaul-privacy-rules-in-post-brexit-departure-from-gdpr)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
