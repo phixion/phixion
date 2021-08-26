@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 26 - ['Profound abuse': Judge disciplines pro-Trump lawyers over election lawsuit](https://www.reuters.com/world/us/judge-sanctions-sidney-powell-other-pro-trump-lawyers-who-claimed-voter-fraud-2021-08-25)
 - Aug 26 - [Canistilluse.com](https://blog.jim-nielsen.com/2021/canistilluse.com/)
 - Aug 26 - [The All-Seeing “i”: Apple Just Declared War on Your Privacy](https://edwardsnowden.substack.com/p/all-seeing-i)
 - Aug 26 - [The Chief People Officer as PM: Rethinking Systems and Tools](https://review.firstround.com/the-chief-people-officer-as-pm:-rethinking-the-systems-and-tools-that-run-the-company)
 - Aug 26 - [The dream of carbon air capture edges toward reality](https://e360.yale.edu/features/the-dream-of-co2-air-capture-edges-toward-reality)
+- Aug 25 - [Thousands of Debian packages updated from their upstream Git repository](https://www.jelmer.uk/fresh-builds.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
