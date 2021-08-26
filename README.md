@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 26 - [mRNA Vaccine Badge](https://github.com/PaulKlinger/mrna_vaccine_badge)
 - Aug 26 - [Writing a simple JSON library from scratch: a tour through modern C++](https://notes.eatonphil.com/writing-a-simple-json-library-in-modern-cpp.html)
 - Aug 26 - [The Muse (YC W12) Is Hiring a Senior Growth/Front End Engineer](https://www.themuse.com/jobs/themuse/senior-frontend-engineer)
 - Aug 26 - [I switched from macOS to Linux after 15 years of Apple](https://markosaric.com/linux/)
 - Aug 26 - [Show HN: With a 9-5 job and 2 kids I have finally finished my first MVP](https://news.ycombinator.com/item?id=28320346)
-- Aug 26 - [Nauka's Troubled Flight–Before It Tumbled the ISS](https://spectrum.ieee.org/naukas-troubled-flight-t)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
