@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 26 - [My Tungsten Cube](https://thume.ca/2019/03/03/my-tungsten-cube/)
 - Aug 26 - [High Performance Correctly Rounded Math Libraries for 32-Bit Floating Point](https://blog.sigplan.org/2021/08/26/high-performance-correctly-rounded-math-libraries-for-32-bit-floating-point-representations/)
 - Aug 26 - [Simple Tips for Overcoming Procrastination](https://meetmaya.world/4-simple-tips-of-overcoming-procrastination/)
 - Aug 26 - [PureOS – a pure Linux phone experience](https://puri.sm/products/librem-5/pureos-mobile/)
 - Aug 26 - [Immunity Generated from Covid-19 Vaccines Differs from an Infection](https://directorsblog.nih.gov/2021/06/22/how-immunity-generated-from-covid-19-vaccines-differs-from-an-infection/)
-- Aug 26 - [CCP publication calls Tibet policy a template for other ethnic minority regions](https://www.tibetanreview.net/70th-party-anniversary-publication-calls-chinas-tibet-policy-a-template-for-other-ethnic-minority-regions/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
