@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 26 - [Launch YC S21: Meet the Batch, Thread #9](https://news.ycombinator.com/item?id=28315042)
+- Aug 26 - [T-Mobile Hacker Who Stole Data on 50M Customers: ‘Their Security Is Awful’](https://www.wsj.com/articles/t-mobile-hacker-who-stole-data-on-50-million-customers-their-security-is-awful-11629985105)
 - Aug 26 - [Adding Optimistic Locking to an API](https://www.moderntreasury.com/journal/designing-ledgers-with-optimistic-locking)
 - Aug 26 - [Rent control isn’t working in Sweden](https://www.bbc.com/news/business-58317555)
 - Aug 26 - [Silent changes to Western Digital’s budget SSD may lower speeds by up to 50%](https://arstechnica.com/gadgets/2021/08/silent-changes-to-western-digitals-budget-ssd-may-lower-speeds-by-up-to-50/)
-- Aug 26 - [Heroic Labs (YC S15) Is Hiring a Lead Web Engineer](https://www.ycombinator.com/companies/heroic-labs/jobs/cCzMNxe-lead-web-engineer)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
