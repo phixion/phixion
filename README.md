@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 27 - [Police Shared Intelligence on Protesters with Pipeline Company](https://theintercept.com/2021/08/27/enbridge-line-3-pipeline-police-training-intelligence/)
-- Aug 27 - [App Store Payments Will Have Increased Competition](https://www.kalzumeus.com/2021/08/27/app-store-payment-competition/)
-- Aug 27 - [Launch HN: Lemonade Finance (YC S21) – Digital Bank for the African Diaspora](https://news.ycombinator.com/item?id=28329211)
-- Aug 27 - [Google’s new ad goes full Jony Ive on the Pixel 5A headphone jack](https://www.theverge.com/2021/8/27/22644368/google-pixel-5a-headphone-jack-ad)
-- Aug 27 - [Notes on the Perfidy of Dashboards](https://charity.wtf/2021/08/09/notes-on-the-perfidy-of-dashboards/)
+- Aug 27 - [The Semiconductor Heist of the Century – Arm China Has Gone Completely Rogue](https://semianalysis.substack.com/p/the-semiconductor-heist-of-the-century)
+- Aug 27 - [nimforum: Lightweight alternative to Discourse written in Nim](https://github.com/nim-lang/nimforum)
+- Aug 27 - [US adults are 42.4% obese – Related conditions are leading causes of death](https://www.cdc.gov/obesity/data/adult.html)
+- Aug 27 - [Hurricane Ida could be close to Cat 4, dump up to 20“ of rain in S.E. Louisiana](https://www.nola.com/news/hurricane/article_a708d202-073b-11ec-9caa-0f909fa26fd7.html)
+- Aug 27 - [Show HN: I made a meme creator that makes around $4k a month](https://metameme.app/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
