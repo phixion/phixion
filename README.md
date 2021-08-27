@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 27 - [Police Shared Intelligence on Protesters with Pipeline Company](https://theintercept.com/2021/08/27/enbridge-line-3-pipeline-police-training-intelligence/)
 - Aug 27 - [App Store Payments Will Have Increased Competition](https://www.kalzumeus.com/2021/08/27/app-store-payment-competition/)
 - Aug 27 - [Launch HN: Lemonade Finance (YC S21) – Digital Bank for the African Diaspora](https://news.ycombinator.com/item?id=28329211)
+- Aug 27 - [Google’s new ad goes full Jony Ive on the Pixel 5A headphone jack](https://www.theverge.com/2021/8/27/22644368/google-pixel-5a-headphone-jack-ad)
 - Aug 27 - [Notes on the Perfidy of Dashboards](https://charity.wtf/2021/08/09/notes-on-the-perfidy-of-dashboards/)
-- Aug 27 - [Fastest table sort in the West – Redesigning DuckDB's sort](https://duckdb.org/2021/08/27/external-sorting.html)
-- Aug 27 - [Five Ansible Techniques I Wish I’d Known Earlier](https://zwischenzugs.com/2021/08/27/five-ansible-techniques-i-wish-id-known-earlier/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
