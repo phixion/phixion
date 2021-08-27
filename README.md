@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 27 - [CookUnity fabricated an order with random items and charged my credit card](https://sillycross.github.io/assets/cookunity-rants.html)
 - Aug 27 - [Apple will let developers accept payment outside App Store](https://www.washingtonpost.com/technology/2021/08/26/apple-app-store-payment-settlement/)
 - Aug 27 - [SnakeOS: Bootable x86 snake game in Rust](https://github.com/trusch/snakeos)
 - Aug 27 - [100 Salesforce employees work in its 61-story HQ](https://www.sfexaminer.com/news/how-sf-tech-giants-are-navigating-a-successful-return-to-the-office/)
 - Aug 27 - [Apple agrees to settle potential class action suit by U.S. developers](https://www.axios.com/apple-settles-developer-class-action-c13bb308-daf3-4231-a399-ffd48b6b2c52.html)
-- Aug 27 - [The QSBS Tax Exemption: A Valuable Benefit for Startup Founders and Builders](https://www.brownadvisory.com/us/theadvisory/qsbs-tax-exemption-valuable-benefit-startup-founders-and-builders)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
