@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 27 - [Who Would Kidnap a Space Telescope?](https://www.theatlantic.com/science/archive/2021/03/nasa-james-webb-space-telescope-pirates/618268/)
 - Aug 27 - [Twelve-year-old boy makes £290k from whale NFTs](https://www.bbc.com/news/technology-58343062)
 - Aug 27 - [Apple chief executive Tim Cook gets $750m payout](https://www.bbc.com/news/business-58352098)
 - Aug 27 - [Conversations on Quantum Gravity](https://www.math.columbia.edu/~woit/wordpress/?p=12458)
 - Aug 27 - [Chinese authorities say overtime '996' policy is illegal](https://www.reuters.com/world/china/chinese-authorities-say-overtime-996-policy-is-illegal-2021-08-27/)
-- Aug 27 - [Facebook “transparency report” turns out to be anything but](https://www.cjr.org/the_media_today/facebook-transparency-report-turns-out-to-be-anything-but.php)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
