@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 27 - [UK loses 83% of department stores since BHS collapsed](https://www.bbc.com/news/business-58331168)
+- Aug 27 - [Five Ansible Techniques I Wish I’d Known Earlier](https://zwischenzugs.com/2021/08/27/five-ansible-techniques-i-wish-id-known-earlier/)
+- Aug 27 - [Apple’s $100M settlement agreement changes a key App Store rule for devs](https://www.theverge.com/2021/8/26/22643807/apple-developer-class-action-lawsuit-collect-information-ios-apps-anti-steering)
 - Aug 27 - [Launch HN: Hotswap (YC S21) – Easily migrate customers away from competitors](https://news.ycombinator.com/item?id=28327660)
 - Aug 27 - [Having SARS-CoV-2 once confers much greater immunity than a vaccine](https://www.sciencemag.org/news/2021/08/having-sars-cov-2-once-confers-much-greater-immunity-vaccine-no-infection-parties)
 - Aug 27 - [Power users mourn features lost in Windows 11 'simplification'](https://www.theregister.com/2021/08/26/windows_11_user_feedback/)
-- Aug 27 - [Latency Sneaks Up on You](https://brooker.co.za/blog/2021/08/05/utilization.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
