@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 27 - [U.S. Supreme Court ends CDC's pandemic residential eviction moratorium](https://www.reuters.com/world/us/us-supreme-court-ends-federal-residential-eviction-moratorium-2021-08-27/)
 - Aug 27 - [Where did this interaction come from? – a brief history of interaction design](https://uxdesign.cc/where-did-this-interaction-come-from-a-brief-history-of-interaction-design-ebcc8c278ae7)
 - Aug 27 - [Bash Hacker's Illustrated File Redirection Tutorial](https://wiki.bash-hackers.org/howto/redirection_tutorial)
+- Aug 27 - [My love-hate affair with technology](https://nolanlawson.com/2021/08/26/my-love-hate-affair-with-technology/)
 - Aug 27 - [Apple will let developers accept payment outside App Store](https://www.washingtonpost.com/technology/2021/08/26/apple-app-store-payment-settlement/)
-- Aug 27 - [SnakeOS: Bootable x86 snake game in Rust](https://github.com/trusch/snakeos)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
