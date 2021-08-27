@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 27 - [Flexport is hiring employees all over the world](https://www.flexport.com/careers)
+- Aug 27 - [Some Vermonters Turn to Ayahuasca as Last Resort to Heal Their Bodies and Minds](https://www.sevendaysvt.com/vermont/some-vermonters-turn-to-ayahuasca-as-a-last-resort-to-heal-their-bodies-and-minds/Content?oid=32812290)
+- Aug 27 - [The Dresden Job](https://www.gq.com/story/the-dresden-job)
+- Aug 27 - [One Week of Bugs](https://danluu.com/everything-is-broken/)
 - Aug 27 - [The Semiconductor Heist of the Century – Arm China Has Gone Completely Rogue](https://semianalysis.substack.com/p/the-semiconductor-heist-of-the-century)
-- Aug 27 - [nimforum: Lightweight alternative to Discourse written in Nim](https://github.com/nim-lang/nimforum)
-- Aug 27 - [US adults are 42.4% obese – Related conditions are leading causes of death](https://www.cdc.gov/obesity/data/adult.html)
-- Aug 27 - [Hurricane Ida could be close to Cat 4, dump up to 20“ of rain in S.E. Louisiana](https://www.nola.com/news/hurricane/article_a708d202-073b-11ec-9caa-0f909fa26fd7.html)
-- Aug 27 - [Show HN: I made a meme creator that makes around $4k a month](https://metameme.app/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
