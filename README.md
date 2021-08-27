@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 27 - [U.S. Supreme Court ends CDC's pandemic residential eviction moratorium](https://www.reuters.com/world/us/us-supreme-court-ends-federal-residential-eviction-moratorium-2021-08-27/)
+- Aug 27 - [Quit Genius (YC) is hiring software engineers to help people overcome addiction](https://jobs.lever.co/quitgenius/c0ecc630-9899-4249-99a2-8a2e23a336c6)
 - Aug 27 - [Where did this interaction come from? – a brief history of interaction design](https://uxdesign.cc/where-did-this-interaction-come-from-a-brief-history-of-interaction-design-ebcc8c278ae7)
 - Aug 27 - [Bash Hacker's Illustrated File Redirection Tutorial](https://wiki.bash-hackers.org/howto/redirection_tutorial)
 - Aug 27 - [My love-hate affair with technology](https://nolanlawson.com/2021/08/26/my-love-hate-affair-with-technology/)
