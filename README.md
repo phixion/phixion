@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 27 - [Apple will let developers accept payment outside App Store](https://www.washingtonpost.com/technology/2021/08/26/apple-app-store-payment-settlement/)
 - Aug 27 - [SnakeOS: Bootable x86 snake game in Rust](https://github.com/trusch/snakeos)
 - Aug 27 - [Apple agrees to settle potential class action suit by U.S. developers](https://www.axios.com/apple-settles-developer-class-action-c13bb308-daf3-4231-a399-ffd48b6b2c52.html)
 - Aug 27 - [The QSBS Tax Exemption: A Valuable Benefit for Startup Founders and Builders](https://www.brownadvisory.com/us/theadvisory/qsbs-tax-exemption-valuable-benefit-startup-founders-and-builders)
 - Aug 27 - [Using Computer Vision to Win at Duck Hunt](https://blog.roboflow.com/computer-vision-win-games-duck-hunt/)
-- Aug 26 - [Microsoft warns thousands of cloud customers of exposed databases](https://www.reuters.com/technology/exclusive-microsoft-warns-thousands-cloud-customers-exposed-databases-emails-2021-08-26/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
