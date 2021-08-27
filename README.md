@@ -22,11 +22,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Aug 27 - [IndiaMART - 20,154,583 breached accounts](https://haveibeenpwned.com/PwnedWebsites#IndiaMART)
 - Aug 26 - [Imavex - 878,209 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Imavex)
 - Aug 25 - [SubaGames - 6,137,666 breached accounts](https://haveibeenpwned.com/PwnedWebsites#SubaGames)
 - Aug 25 - [Eatigo - 2,789,609 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Eatigo)
 - Aug 08 - [OrderSnapp - 1,304,447 breached accounts](https://haveibeenpwned.com/PwnedWebsites#OrderSnapp)
-- Aug 07 - [MMG Fusion - 2,660,295 breached accounts](https://haveibeenpwned.com/PwnedWebsites#MMGFusion)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## News
@@ -35,10 +35,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 27 - [Where did this interaction come from? – a brief history of interaction design](https://uxdesign.cc/where-did-this-interaction-come-from-a-brief-history-of-interaction-design-ebcc8c278ae7)
 - Aug 27 - [Bash Hacker's Illustrated File Redirection Tutorial](https://wiki.bash-hackers.org/howto/redirection_tutorial)
 - Aug 27 - [Apple will let developers accept payment outside App Store](https://www.washingtonpost.com/technology/2021/08/26/apple-app-store-payment-settlement/)
 - Aug 27 - [SnakeOS: Bootable x86 snake game in Rust](https://github.com/trusch/snakeos)
-- Aug 27 - [100 Salesforce employees work in its 61-story HQ](https://www.sfexaminer.com/news/how-sf-tech-giants-are-navigating-a-successful-return-to-the-office/)
 - Aug 27 - [Apple agrees to settle potential class action suit by U.S. developers](https://www.axios.com/apple-settles-developer-class-action-c13bb308-daf3-4231-a399-ffd48b6b2c52.html)
 <!--END_SECTION:hn-->
 
