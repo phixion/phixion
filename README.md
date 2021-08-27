@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 27 - [Launch HN: Hotswap (YC S21) – Easily migrate customers away from competitors](https://news.ycombinator.com/item?id=28327660)
+- Aug 27 - [We’re told to ‘follow the science’ – yet some of it is just plain wrong](https://nypost.com/2021/08/26/were-told-to-follow-the-science-yet-some-of-it-is-just-plain-wrong/)
 - Aug 27 - [Fundamental physics is humanity’s most extraordinary achievement](https://www.economist.com/leaders/2021/08/28/fundamental-physics-is-humanitys-most-extraordinary-achievement)
 - Aug 27 - [Researchers Ready Lab-Grown Delta for Human Trials](https://www.wsj.com/articles/researchers-ready-lab-grown-covid-19-delta-variant-for-human-trials-11630053797)
 - Aug 27 - [Latency Sneaks Up on You](https://brooker.co.za/blog/2021/08/05/utilization.html)
-- Aug 27 - [IPv4 vs. IPv6 FAQ](https://tailscale.com/kb/1134/ipv6-faq/)
-- Aug 27 - [Slapdash (YC W19) is hiring engineers to build a Command Bar for work](https://slapdash.com/about)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
