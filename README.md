@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 27 - [Launch HN: Hotswap (YC S21) – Easily migrate customers away from competitors](https://news.ycombinator.com/item?id=28327660)
 - Aug 27 - [Having SARS-CoV-2 once confers much greater immunity than a vaccine](https://www.sciencemag.org/news/2021/08/having-sars-cov-2-once-confers-much-greater-immunity-vaccine-no-infection-parties)
 - Aug 27 - [Power users mourn features lost in Windows 11 'simplification'](https://www.theregister.com/2021/08/26/windows_11_user_feedback/)
-- Aug 27 - [Fundamental physics sees worlds in grains of sand and infinities in hours](https://www.economist.com/leaders/2021/08/28/fundamental-physics-is-humanitys-most-extraordinary-achievement)
+- Aug 27 - [Latency Sneaks Up on You](https://brooker.co.za/blog/2021/08/05/utilization.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
