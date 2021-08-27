@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 27 - [Brussels battles old prejudices as it frees unloved river from its vault](https://www.theguardian.com/world/2021/aug/27/brussels-battles-old-prejudices-as-it-frees-unloved-river-senne-from-its-vault)
 - Aug 27 - [40M People Rely on the Colorado River. It’s Drying Up Fast](https://www.nytimes.com/2021/08/27/sunday-review/colorado-river-drying-up.html)
 - Aug 27 - [Database internals are becoming less important than developer experience](https://planetscale.com/blog/nonesql-all-the-devex)
 - Aug 27 - [Flexport is hiring employees all over the world](https://www.flexport.com/careers)
 - Aug 27 - [The Dresden Job](https://www.gq.com/story/the-dresden-job)
-- Aug 27 - [One Week of Bugs (2014)](https://danluu.com/everything-is-broken/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
