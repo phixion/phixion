@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 27 - [Main sci-hub.do domain was banned](https://twitter.com/ringo_ring/status/1431373870544609283)
+- Aug 27 - [Proxmox VE 7.0 Released](https://forum.proxmox.com/threads/proxmox-ve-7-0-released.92006/)
 - Aug 27 - [Why San Francisco’s city government is so dysfunctional](https://www.economist.com/united-states/2021/08/28/why-san-franciscos-city-government-is-so-dysfunctional)
 - Aug 27 - [An error message if you put more than 2^24 items in a JS Map object](https://searchvoidstar.tumblr.com/post/659634228574715904/an-amazing-error-message-if-you-put-more-than-2-24)
 - Aug 27 - [Human Dx is hiring part-time community/growth team members](https://www.humandx.org/team?gh_jid=4859261002)
-- Aug 27 - [The Evolution of Smalltalk from Smalltalk-72 to Squeak [video]](https://www.pldi21.org/prerecorded_hopl.17.html)
-- Aug 27 - [Buoyant wants to solve middle-mile delivery with cargo airships](https://techcrunch.com/2021/08/27/yc-grad-buoyant-wants-to-solve-middle-mile-delivery-with-cargo-airships/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
