@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 27 - [UK loses 83% of department stores since BHS collapsed](https://www.bbc.com/news/business-58331168)
 - Aug 27 - [Launch HN: Hotswap (YC S21) – Easily migrate customers away from competitors](https://news.ycombinator.com/item?id=28327660)
 - Aug 27 - [Having SARS-CoV-2 once confers much greater immunity than a vaccine](https://www.sciencemag.org/news/2021/08/having-sars-cov-2-once-confers-much-greater-immunity-vaccine-no-infection-parties)
 - Aug 27 - [Fundamental physics sees worlds in grains of sand and infinities in hours](https://www.economist.com/leaders/2021/08/28/fundamental-physics-is-humanitys-most-extraordinary-achievement)
 - Aug 27 - [Researchers Ready Lab-Grown Delta for Human Trials](https://www.wsj.com/articles/researchers-ready-lab-grown-covid-19-delta-variant-for-human-trials-11630053797)
-- Aug 27 - [Latency Sneaks Up on You](https://brooker.co.za/blog/2021/08/05/utilization.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
