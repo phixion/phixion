@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 27 - [Visually impaired Paralympian hit by self-driving bus – France 24](https://www.france24.com/en/live-news/20210827-visually-impaired-paralympian-hit-by-self-driving-bus)
+- Aug 27 - [Fundamental physics is humanity’s most extraordinary achievement](https://www.economist.com/leaders/2021/08/28/fundamental-physics-is-humanitys-most-extraordinary-achievement)
+- Aug 27 - [Researchers Ready Lab-Grown Delta for Human Trials](https://www.wsj.com/articles/researchers-ready-lab-grown-covid-19-delta-variant-for-human-trials-11630053797)
+- Aug 27 - [Visually impaired Paralympian hit by self-driving bus](https://www.france24.com/en/live-news/20210827-visually-impaired-paralympian-hit-by-self-driving-bus)
 - Aug 27 - [IPv4 vs. IPv6 FAQ](https://tailscale.com/kb/1134/ipv6-faq/)
-- Aug 27 - [Slapdash (YC W19) is hiring engineers to build a Command Bar for work](https://slapdash.com/about)
-- Aug 27 - [IEEE 754 round-off errors](https://yurichev.com/news/20210131_IEEE_754/)
-- Aug 27 - [Who Would Kidnap a Space Telescope?](https://www.theatlantic.com/science/archive/2021/03/nasa-james-webb-space-telescope-pirates/618268/)
+- Aug 27 - [Delta Air Lines doesn’t want to call delta variant the ‘delta variant’](https://www.washingtonpost.com/travel/2021/08/26/delta-air-lines-delta-variant-covid/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
