@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 27 - [An error message if you put more than 2^24 items in a JS Map object](https://searchvoidstar.tumblr.com/post/659634228574715904/an-amazing-error-message-if-you-put-more-than-2-24)
 - Aug 27 - [Human Dx is hiring part-time community/growth team members](https://www.humandx.org/team?gh_jid=4859261002)
 - Aug 27 - [Sad Little Men: Assessing the impact of an elite education](https://www.economist.com/books-and-arts/2021/08/28/britains-private-schools-are-lambasted-in-richard-beards-book)
 - Aug 27 - [The Evolution of Smalltalk from Smalltalk-72 to Squeak [video]](https://www.pldi21.org/prerecorded_hopl.17.html)
 - Aug 27 - [LED Light Spectrum Enhancement with Transparent Pigmented Glazes (2016)](https://www.led-professional.com/resources-1/articles/led-light-spectrum-enhancement-with-transparent-pigmented-glazes-by-light-spectrum-glazes)
-- Aug 27 - [Buoyant wants to solve middle-mile delivery with cargo airships](https://techcrunch.com/2021/08/27/yc-grad-buoyant-wants-to-solve-middle-mile-delivery-with-cargo-airships/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
