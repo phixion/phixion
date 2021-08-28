@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Aug 28 - [Apple can read your iMessages (even though they’re E2E encrypted)](https://old.reddit.com/r/privacy/comments/pcb3ej/a_timely_reminder_that_apple_can_read_your/)
 - Aug 28 - [Microsoft is threatening to withhold Windows 11 updates if your CPU is old](https://www.theverge.com/2021/8/28/22646035/microsoft-windows-11-iso-workaround-no-update-guarantee)
-- Aug 28 - [Do You Need a Blockchain?](http://doyouneedablockchain.com/)
+- Aug 28 - [Life After White Collar Crime](https://www.newyorker.com/magazine/2021/08/30/life-after-white-collar-crime)
+- Aug 28 - [Inductive Reasoning Aptitude](https://en.wikipedia.org/wiki/Inductive_reasoning_aptitude)
 - Aug 28 - [LucidVR open source force feedback VR gloves](https://github.com/LucidVR/lucidgloves/releases/tag/Proto4)
-- Aug 28 - [Watch Windows 95 crash live as it exceeds 49.7 days uptime [livestream]](https://www.youtube.com/watch?v=tdrRoSdBM5M)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
