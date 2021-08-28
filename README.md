@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 28 - [After 18 years, SCO's IBM litigation may be settled for $14.5M](https://news.slashdot.org/story/21/08/28/0237243/after-18-years-scos-ibm-litigation-may-be-settled-for-145-million)
-- Aug 28 - [Ask HN: Who else sick of “Rich” people teaching moral/life philosophy?](https://news.ycombinator.com/item?id=28338787)
 - Aug 28 - [NetBSD Booting on the Apple M1](https://twitter.com/jmcwhatever/status/1431575270436319235)
-- Aug 28 - [Pocuter – The coin sized 12-in-one WiFi and BLE micro computer](https://www.kickstarter.com/projects/zepsch/pocuter)
+- Aug 28 - [Pocuter – A coin-sized micro computer with WiFi and BLE](https://www.kickstarter.com/projects/zepsch/pocuter)
 - Aug 28 - [Tesla Packs 50B Transistors onto D1 Dojo Chip](https://www.tomshardware.com/news/tesla-d1-ai-chip)
+- Aug 28 - [I Just Lost 1,400 BTC (2020)](https://github.com/spesmilo/electrum/issues/5072)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
