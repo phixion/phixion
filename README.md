@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 28 - [Infracost (YC W21) Is Hiring a Sr Software Engineer: Love Your Cloud Bills](https://www.ycombinator.com/companies/infracost/jobs/9fGDG72-senior-software-engineer)
 - Aug 28 - [Climate change will alter where many crops are grown](https://www.economist.com/international/2021/08/28/climate-change-will-alter-where-many-crops-are-grown)
 - Aug 28 - [Google: 'Reverse Warrants' Becoming Law Enforcement's Go-To Investigative Tool](https://www.techdirt.com/articles/20210821/10494847401/google-report-shows-reverse-warrants-are-swiftly-becoming-law-enforcements-go-to-investigative-tool.shtml)
+- Aug 28 - [What’s it like to work at Big Tech](https://oilyraincloud.com/2021/08/13/whats-it-like-to-work-at-big-tech/)
 - Aug 28 - [Chicago sues Grubhub and DoorDash for allegedly deceptive practices](https://chicago.eater.com/2021/8/27/22644787/chicago-grubhub-doordash-lawsuit-third-party-delivery)
-- Aug 28 - [I believe California is the dumping ground for America's homeless problem](https://streetlifesolutions.blogspot.com/2021/08/i-believe-california-is-dumping-ground.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
