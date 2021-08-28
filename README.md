@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 28 - [Tesla Packs 50B Transistors onto D1 Dojo Chip](https://www.tomshardware.com/news/tesla-d1-ai-chip)
 - Aug 28 - [Repairs of San Francisco Skyscraper on Hold; Engineering Expert Blasts Plan](https://sanfrancisco.cbslocal.com/2021/08/27/repairs-sinking-san-francisco-skyscraper-on-hold-engineering-expert-blasts-plan/)
 - Aug 28 - [Next-Gen Chips Will Be Powered from Below](https://spectrum.ieee.org/next-gen-chips-will-be-powered-from-below)
 - Aug 28 - [In a patch of Arizona, everyone knows Waymo. But few use it](https://www.morningbrew.com/emerging-tech/stories/2021/08/23/patch-arizona-everyone-knows-waymo-use)
-- Aug 28 - [The real OnlyFans scandal is the unaccountable power of platforms and banks](https://www.theguardian.com/commentisfree/2021/aug/28/onlyfans-scandal-platforms-banks-ban-sexual-content-sex-workers)
-- Aug 28 - [Porter (YC S20) Is Hiring Kubernetes Engineers](https://www.ycombinator.com/companies/porter/jobs/8Z7ZVWb-kubernetes-engineer)
+- Aug 28 - [EU agency advises against using search and browsing history for credit scores](https://therecord.media/eu-agency-advises-against-using-search-browsing-history-for-credit-scores/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
