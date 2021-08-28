@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 28 - [Porter (YC S20) Is Hiring Kubernetes Engineers](https://www.ycombinator.com/companies/porter/jobs/8Z7ZVWb-kubernetes-engineer)
 - Aug 28 - [Does feeding garden birds do more harm than good?](https://www.bbc.co.uk/news/science-environment-58346043)
 - Aug 28 - [Weird Languages](http://paulgraham.com/weird.html)
 - Aug 28 - [Building a Better Search Engine for Semantic Scholar](https://medium.com/ai2-blog/building-a-better-search-engine-for-semantic-scholar-ea23a0b661e7)
 - Aug 28 - [Ask HN: Is there a recruiter email blocklist somewhere?](https://news.ycombinator.com/item?id=28336742)
-- Aug 28 - [Emacs Modernization: Simple Changes Emacs Should Adopt](http://ergoemacs.org/emacs/modernization.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
