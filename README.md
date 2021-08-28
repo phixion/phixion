@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 28 - [U.S. to work with Big Tech, finance sector on new cybersecurity guidelines](https://www.reuters.com/world/us/cyber-threats-top-agenda-white-house-meeting-with-big-tech-finance-executives-2021-08-25/)
 - Aug 28 - [The Semiconductor Heist of the Century](https://semianalysis.substack.com/p/the-semiconductor-heist-of-the-century/comments)
 - Aug 28 - [I believe California is the dumping ground for America's homeless problem](https://streetlifesolutions.blogspot.com/2021/08/i-believe-california-is-dumping-ground.html)
 - Aug 28 - [Online Trolls Just Assholes All the Time, Study Finds](https://gizmodo.com/online-trolls-actually-just-assholes-all-the-time-stud-1847575210)
 - Aug 28 - [The Future of discord.py](https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1)
-- Aug 27 - [Viral dynamics of SARS-CoV-2 variants in vaccinated and unvaccinated individuals](https://www.medrxiv.org/content/10.1101/2021.02.16.21251535v3)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
