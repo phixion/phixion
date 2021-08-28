@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Aug 28 - [U.S. to work with Big Tech, finance sector on new cybersecurity guidelines](https://www.reuters.com/world/us/cyber-threats-top-agenda-white-house-meeting-with-big-tech-finance-executives-2021-08-25/)
 - Aug 28 - [Developers aren’t impressed with Apple’s App Store changes](https://www.macworld.com/article/354291/developers-arent-impressed-with-apples-app-store-changes.html)
-- Aug 28 - [Online Trolls Just Assholes All the Time, Study Finds](https://gizmodo.com/online-trolls-actually-just-assholes-all-the-time-stud-1847575210)
 - Aug 28 - [The Future of discord.py](https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1)
 - Aug 27 - [Viral dynamics of SARS-CoV-2 variants in vaccinated and unvaccinated individuals](https://www.medrxiv.org/content/10.1101/2021.02.16.21251535v3)
+- Aug 27 - [Recent and not so recent changes in OpenBSD](https://bsdly.blogspot.com/2021/08/recent-and-not-so-recent-changes-in.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
