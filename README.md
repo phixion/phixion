@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 28 - [Infracost (YC W21) Is Hiring a Senior Software Engineer](https://www.ycombinator.com/companies/infracost/jobs/9fGDG72-senior-software-engineer)
+- Aug 28 - [Tupolev Tu-144: The Soviets' doomed rival to Concorde (2017)](https://edition.cnn.com/style/article/tupolev-tu-144-concordski/index.html)
 - Aug 28 - [Climate change will alter where many crops are grown](https://www.economist.com/international/2021/08/28/climate-change-will-alter-where-many-crops-are-grown)
 - Aug 28 - [Google: 'Reverse Warrants' Becoming Law Enforcement's Go-To Investigative Tool](https://www.techdirt.com/articles/20210821/10494847401/google-report-shows-reverse-warrants-are-swiftly-becoming-law-enforcements-go-to-investigative-tool.shtml)
 - Aug 28 - [Chicago sues Grubhub and DoorDash for allegedly deceptive practices](https://chicago.eater.com/2021/8/27/22644787/chicago-grubhub-doordash-lawsuit-third-party-delivery)
-- Aug 28 - [The Future of discord.py](https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
