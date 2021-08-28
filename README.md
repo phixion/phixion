@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 28 - [Only good characters use iPhones in movies](https://twitter.com/lordbeef/status/1431406983366660100)
+- Aug 28 - [US police shoot dogs so often that a Justice Department says it's an “epidemic”](https://qz.com/870601/police-killing-dogs-is-an-epidemic-according-to-the-justice-department/)
+- Aug 28 - [Dover (YC S19) just raised $20m and is hiring for all roles](https://www.dover.com/careers)
+- Aug 28 - [Nuclear scientists as assassination targets (2012)](https://journals.sagepub.com/doi/full/10.1177/0096340211433019)
 - Aug 28 - [Apple’s new Private Relay is leaking your original address through WebRTC](https://www.reddit.com/r/privacy/comments/pd4y5m/apples_new_private_relay_is_leaking_your_original/)
 - Aug 28 - [Sprint ICBM Missile Site price reduced](http://mobile.missilebaseforsale.com/)
-- Aug 28 - [After 18 years, SCO's IBM litigation may be settled for $14.5M](https://news.slashdot.org/story/21/08/28/0237243/after-18-years-scos-ibm-litigation-may-be-settled-for-145-million)
-- Aug 28 - [NetBSD Booting on the Apple M1](https://twitter.com/jmcwhatever/status/1431575270436319235)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
