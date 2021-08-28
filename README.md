@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 28 - [Mortuaries fill, hospitals clog in rural California towns](https://www.latimes.com/california/story/2021-08-28/la-me-rural-california-covid-surge-vaccinations-lag)
 - Aug 28 - [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 - Aug 28 - [FB messenger silently censoring links, claims they were sent](https://twitter.com/kylejohnmorris/status/1431714982782066688)
 - Aug 28 - [Rivian Files for IPO, Seeking About $80B Valuation](https://www.bloomberg.com/news/articles/2021-08-27/rivian-is-said-to-file-for-ipo-seek-about-80-billion-valuation)
 - Aug 28 - [Apple can read your iMessages (even though they’re E2E encrypted)](https://old.reddit.com/r/privacy/comments/pcb3ej/a_timely_reminder_that_apple_can_read_your/)
-- Aug 28 - [Life After White Collar Crime](https://www.newyorker.com/magazine/2021/08/30/life-after-white-collar-crime)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
