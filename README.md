@@ -36,7 +36,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 28 - [Watch Windows 95 crash live as it exceeds 49.7 days uptime [livestream]](https://www.youtube.com/watch?v=tdrRoSdBM5M)
-- Aug 28 - [Launch HN: Kalam Labs (YC S21) – Science Games and live game streaming for kids](https://news.ycombinator.com/item?id=28339991)
+- Aug 28 - [Launch HN: Kalam Labs (YC S21) – Science games and live game streaming for kids](https://news.ycombinator.com/item?id=28339991)
 - Aug 28 - [“He who pays the piper calls the tune”: Funders suppress health trial findings](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255704)
 - Aug 28 - [Dover (YC S19) is hiring for all roles](https://www.dover.com/careers)
 - Aug 28 - [Show HN: Simple tool for creating commandline bar charts](https://github.com/TurkeyMcMac/barchart)
