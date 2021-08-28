@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 28 - [EasyPost (YC S13) is building the logistics platform for ecommerce](https://www.easypost.com/careers)
+- Aug 28 - [AMD Ryzen Pro 5000 Series Mobile Processor Security Features [pdf]](https://www.amd.com/system/files/documents/amd-security-white-paper.pdf)
 - Aug 28 - [Apple can read your iMessages (even though they’re E2E encrypted)](https://old.reddit.com/r/privacy/comments/pcb3ej/a_timely_reminder_that_apple_can_read_your/)
 - Aug 28 - [Life After White Collar Crime](https://www.newyorker.com/magazine/2021/08/30/life-after-white-collar-crime)
 - Aug 28 - [Inductive Reasoning Aptitude](https://en.wikipedia.org/wiki/Inductive_reasoning_aptitude)
-- Aug 28 - [LucidVR open source force feedback VR gloves](https://github.com/LucidVR/lucidgloves/releases/tag/Proto4)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
