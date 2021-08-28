@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 28 - [Every euro invested in nuclear power makes the climate crisis worse](https://www.dw.com/en/nuclear-climate-mycle-schneider-renewables-fukushima/a-56712368)
+- Aug 28 - [Samsung seemingly caught swapping components in its 970 Evo Plus SSDs](https://arstechnica.com/gadgets/2021/08/samsung-seemingly-caught-swapping-components-in-its-970-evo-plus-ssds/)
+- Aug 28 - [AT&T Archives: The Unix Operating System [video] (1982)](https://www.youtube.com/watch?v=tc4ROCJYbm0)
 - Aug 28 - [Infracost (YC W21) Is Hiring a Senior Software Engineer](https://www.ycombinator.com/companies/infracost/jobs/9fGDG72-senior-software-engineer)
 - Aug 28 - [Tupolev Tu-144: The Soviets' doomed rival to Concorde (2017)](https://edition.cnn.com/style/article/tupolev-tu-144-concordski/index.html)
-- Aug 28 - [Climate change will alter where many crops are grown](https://www.economist.com/international/2021/08/28/climate-change-will-alter-where-many-crops-are-grown)
-- Aug 28 - [Google: 'Reverse Warrants' Becoming Law Enforcement's Go-To Investigative Tool](https://www.techdirt.com/articles/20210821/10494847401/google-report-shows-reverse-warrants-are-swiftly-becoming-law-enforcements-go-to-investigative-tool.shtml)
-- Aug 28 - [Chicago sues Grubhub and DoorDash for allegedly deceptive practices](https://chicago.eater.com/2021/8/27/22644787/chicago-grubhub-doordash-lawsuit-third-party-delivery)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
