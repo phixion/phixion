@@ -35,8 +35,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 28 - [Astra Test Launch 6 suffers anomalies [video]](https://www.youtube.com/watch?v=O8Tdm797BzM&t=5612s)
-- Aug 28 - [Mortuaries fill, hospitals clog in rural California towns](https://www.latimes.com/california/story/2021-08-28/la-me-rural-california-covid-surge-vaccinations-lag)
+- Aug 28 - [Canada: Under-65 excess mortality exceeds Covid-19 deaths](https://www150.statcan.gc.ca/n1/daily-quotidien/210712/dq210712b-eng.htm)
+- Aug 28 - [TekSavvy Takes Pirate Site Blocking Battle to Canada’s Supreme Court](https://torrentfreak.com/teksavvy-takes-pirate-site-blocking-battle-to-canadas-supreme-court-210826/)
 - Aug 28 - [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 - Aug 28 - [FB messenger silently censoring links, claims they were sent](https://twitter.com/kylejohnmorris/status/1431714982782066688)
 - Aug 28 - [Rivian Files for IPO, Seeking About $80B Valuation](https://www.bloomberg.com/news/articles/2021-08-27/rivian-is-said-to-file-for-ipo-seek-about-80-billion-valuation)
