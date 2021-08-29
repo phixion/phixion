@@ -38,7 +38,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 29 - [Sony’s new PS5 model weighs less because it has a smaller heatsink](https://www.theverge.com/2021/8/29/22646963/sony-new-ps5-model-lighter-smaller-heatsink-teardown)
 - Aug 29 - [To catch a paedophile, you only need to look at their hands](https://www.wired.co.uk/article/sue-black-forensics-hand-markings-paedophiles-rapists)
 - Aug 29 - [Show HN: Bhagavad Gita Android App for searching verses by topics like anxiety](https://play.google.com/store/apps/details?id=com.grewon.searchgita)
-- Aug 29 - [Project Horizon [pdf]](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB479/docs/EBB-Moon01A_sm.pdf)
+- Aug 29 - [Project Horizon – Technical Considerations and Plans (1959) [pdf]](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB479/docs/EBB-Moon01A_sm.pdf)
 - Aug 29 - [An Afghan minister who became a bicycle courier in Germany](https://www.reuters.com/world/afghan-minister-who-became-bicycle-courier-germany-2021-08-26/)
 <!--END_SECTION:hn-->
 
