@@ -36,7 +36,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 29 - [Show HN: We built an end-to-end encrypted alternative to Google Photos](https://news.ycombinator.com/item?id=28347439)
-- Aug 29 - [All Personal Finance Experts Are Liars](https://larryludwig.com/all-personal-finance-experts-are-liars/)
+- Aug 29 - [Personal finance experts don’t get wealthy by following their own advice](https://larryludwig.com/all-personal-finance-experts-are-liars/)
 - Aug 29 - [iPhone 13 to support LEO satellite communication](https://9to5mac.com/2021/08/29/kuo-iphone-13-to-support-leo-satellite-communication-allowing-users-to-make-phone-calls-and-send-texts-without-cell-signal/)
 - Aug 29 - [“Worst cloud vulnerability you can imagine” discovered in Microsoft Azure](https://arstechnica.com/information-technology/2021/08/worst-cloud-vulnerability-you-can-imagine-discovered-in-microsoft-azure/)
 - Aug 29 - [A new path: vm86-based venix emulator](http://bsdimp.blogspot.com/2021/08/a-new-path-vm86-based-venix-emulator.html)
