@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 29 - [Seems like everyone is getting rich](https://news.ycombinator.com/item?id=28350228)
+- Aug 29 - [Fake animal rescue videos have become a new frontier for animal abuse](https://www.nationalgeographic.com/animals/article/how-fake-animal-rescue-videos-have-become-a-new-frontier-for-animal-abuse)
+- Aug 29 - [Boys in Custody and the Women Who Abuse Them](https://www.propublica.org/article/boys-in-custody-and-the-women-who-abuse-them)
 - Aug 29 - [Overwriting Hard Drive Data: The Great Wiping Controversy (2008) [pdf]](http://www.vidarholen.net/~vidar/overwriting_hard_drive_data.pdf)
 - Aug 29 - [Open Source Illustrations Kit](https://illlustrations.co)
-- Aug 29 - [Air Independent Propulsion Could Create Silent Killer Submarines](https://nationalinterest.org/blog/reboot/air-independent-propulsion-could-create-silent-killer-submarines-192514)
-- Aug 29 - [Programming, Math, Science: A list with links to useful resources](https://github.com/bobeff/programming-math-science)
-- Aug 29 - [Spherical Panoramas](https://stuvel.eu/articles/spherical-panoramas/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
