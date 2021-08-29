@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 29 - [The Queer Past Gets Deleted on eBay](https://www.newyorker.com/culture/cultural-comment/the-queer-past-gets-deleted-on-ebay)
-- Aug 29 - [Why the Covid Vaccines Aren’t Dangerous](https://www.newyorker.com/science/medical-dispatch/why-the-covid-vaccines-arent-dangerous)
 - Aug 29 - [Helm is a personal server that lives where you do](https://thehelm.com/)
 - Aug 29 - [Inspectify (YC S20) Is Hiring a Project Manager – Home Insights in Seattle](https://www.ycombinator.com/companies/inspectify/jobs/GhiNAqq-project-manager-home-insights)
 - Aug 29 - [Clustering Algorithms with Python](https://machinelearningmastery.com/clustering-algorithms-with-python/)
+- Aug 29 - [Boys in Custody and the Women Who Abuse Them](https://www.propublica.org/article/boys-in-custody-and-the-women-who-abuse-them)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
