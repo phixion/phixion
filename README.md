@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 29 - [The intriguing world of medieval Chinese ceramic pillows](https://www.medievalists.net/2021/08/medieval-chinese-ceramic-pillows/)
+- Aug 29 - [Breakthrough: Quantum computers will soon fit in your phone – Sifted](https://sifted.eu/articles/diamond-quantum-computer)
 - Aug 29 - [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
 - Aug 29 - [Oil firms slash U.S. Gulf of Mexico output by 91% ahead of Hurricane Ida](https://www.cnbc.com/2021/08/28/oil-firms-cut-us-gulf-of-mexico-output-by-91percent-ahead-of-hurricane-ida.html)
 - Aug 29 - [Starbucks workers in New York are organizing to form first US union](https://www.theguardian.com/us-news/2021/aug/28/starbucks-workers-buffalo-ny-organizing-union-first-us)
-- Aug 29 - [An Open Source Multi-Player Starship Bridge Simulator for Linux](https://smcameron.github.io/space-nerds-in-space/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
