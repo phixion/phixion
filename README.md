@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 29 - [Programming, Math, Science: A list with links to useful resources](https://github.com/bobeff/programming-math-science)
 - Aug 29 - [Patera – Dynamic Documents](https://patera.io/)
 - Aug 29 - [Spherical Panoramas](https://stuvel.eu/articles/spherical-panoramas/)
 - Aug 29 - [The Orbit of Planet Nine](https://findplanetnine.blogspot.com/2021/08/the-orbit-of-planet-nine.html)
 - Aug 29 - [Backblaze: “Why does the private key still need to be sent to your datacenter?”](https://help.backblaze.com/hc/en-us/articles/217664798-Security-Question-Round-up-)
-- Aug 29 - [To China's chagrin, Japan-Taiwan talks could pave the way for closer ties](https://www.japantimes.co.jp/news/2021/08/29/national/politics-diplomacy/japan-taiwan-relations-ldp/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
