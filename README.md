@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Aug 29 - [Toyota halts all self-driving e-Palette vehicles after Olympic village accident](https://www.reuters.com/business/autos-transportation/toyota-halts-all-self-driving-e-pallete-vehicles-after-olympic-village-accident-2021-08-27/)
 - Aug 29 - [Substack Is Hiring Eng Managers to Build a Better Business Model for Writing](https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7?utm_source=hn&utm_content=eng)
+- Aug 29 - [Traintrackr – Live LED transit maps](https://www.traintrackr.co.uk)
 - Aug 29 - [Show HN: We built an end-to-end encrypted alternative to Google Photos](https://news.ycombinator.com/item?id=28347439)
 - Aug 29 - [Personal finance experts don’t get wealthy by following their own advice](https://larryludwig.com/all-personal-finance-experts-are-liars/)
-- Aug 29 - [iPhone 13 to support LEO satellite communication](https://9to5mac.com/2021/08/29/kuo-iphone-13-to-support-leo-satellite-communication-allowing-users-to-make-phone-calls-and-send-texts-without-cell-signal/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
