@@ -35,10 +35,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 29 - [The Respected Scientists Who Pushed for Alcohol Prohibition in 1920](https://brownstone.org/articles/the-respected-scientists-who-pushed-for-alcohol-prohibition-in-1920/)
-- Aug 29 - [Tesla on part-automated drive system slams into police car](https://apnews.com/article/technology-business-florida-001915f68f2327a42eb5b6f5c4ccd2b7)
+- Aug 29 - [A majority of young adults in the U.S. live with their parents](https://www.pewresearch.org/fact-tank/2020/09/04/a-majority-of-young-adults-in-the-u-s-live-with-their-parents-for-the-first-time-since-the-great-depression/)
+- Aug 29 - [NP Complete 3rd Grade Math Problems (2018)](https://leosstemhacks.wordpress.com/2018/03/27/np-complete-3rd-grade-math-problems/)
 - Aug 28 - [Mean World Syndrome](https://en.wikipedia.org/wiki/Mean_world_syndrome)
-- Aug 28 - [US special operations vets carry out daring mission to save Afghan allies](https://abcnews.go.com/Politics/us-special-operations-vets-carry-daring-mission-save/story?id=79670236)
+- Aug 28 - [Cancer treatment breakthrough: Scientists discover disease's 'Achilles' Heel'](https://www.walesonline.co.uk/news/uk-news/cancer-treatment-breakthrough-scientists-discover-21427402)
 - Aug 28 - [Ether Rock – Pet Rocks on the Blockchain](https://etherrock.com/)
 <!--END_SECTION:hn-->
 
