@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 29 - [Summary After Four Months with Ada](https://pyjarrett.github.io/programming-with-ada/four-months-summary.html)
+- Aug 29 - [Three Super-Massive Black Holes Merging Together in Our Nearby Universe](https://pib.gov.in/PressReleasePage.aspx?PRID=1749437)
+- Aug 29 - [Big company tale: six months for a list and a button](https://rachelbythebay.com/w/2021/08/28/big/)
 - Aug 29 - [Caches, Modes, and Unstable Systems](https://brooker.co.za/blog/2021/08/27/caches.html)
-- Aug 29 - [Ask HN: To what extent does “shadow suppression” occur on social media?](https://news.ycombinator.com/item?id=28344492)
 - Aug 29 - [Show HN: Get lists of files in a directory that contains a large number of files](https://github.com/catatsuy/lls)
-- Aug 29 - [The intriguing world of medieval Chinese ceramic pillows](https://www.medievalists.net/2021/08/medieval-chinese-ceramic-pillows/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
