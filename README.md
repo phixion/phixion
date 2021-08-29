@@ -35,10 +35,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 29 - [How Computer Science Became a Boys’ Club](https://daily.jstor.org/how-computer-science-became-a-boys-club/)
+- Aug 29 - [A new path: vm86-based venix emulator](http://bsdimp.blogspot.com/2021/08/a-new-path-vm86-based-venix-emulator.html)
 - Aug 29 - [Launch HN: KaiPod Learning (YC S21) – A physical place for online schoolers](https://news.ycombinator.com/item?id=28346873)
+- Aug 29 - [Show HN: Voicera – Add life-like AI voice dictation to your blogs and articles](https://www.voicera.co)
 - Aug 29 - [Sony’s new PS5 model weighs less because it has a smaller heatsink](https://www.theverge.com/2021/8/29/22646963/sony-new-ps5-model-lighter-smaller-heatsink-teardown)
-- Aug 29 - [To catch a paedophile, you only need to look at their hands](https://www.wired.co.uk/article/sue-black-forensics-hand-markings-paedophiles-rapists)
 - Aug 29 - [Show HN: Bhagavad Gita Android App for searching verses by topics like anxiety](https://play.google.com/store/apps/details?id=com.grewon.searchgita)
 <!--END_SECTION:hn-->
 
