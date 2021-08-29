@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 29 - [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
+- Aug 29 - [NumWorks Calculator Changes Licensing (June 2021)](https://tiplanet.org/forum/viewtopic.php?t=24968&p=261770&lang=en#p261770)
+- Aug 29 - [An Open Source Multi-Player Starship Bridge Simulator for Linux](https://smcameron.github.io/space-nerds-in-space/)
 - Aug 29 - [A CSS framework to recreate Windows 7 GUI. Accessible, semantic](https://github.com/khang-nd/7.css)
 - Aug 29 - [JScript](https://en.wikipedia.org/wiki/JScript)
-- Aug 29 - [When Police Lie, the Innocent Pay. Some Are Fighting Back](https://www.nytimes.com/2021/08/28/us/false-police-statements.html)
-- Aug 29 - [Reducing sugar in packaged foods can prevent disease in millions](https://www.eurekalert.org/news-releases/926613)
-- Aug 29 - [Why AM and Eurisko Appear to Work (1983) [pdf]](https://www.aaai.org/Papers/AAAI/1983/AAAI83-059.pdf)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
