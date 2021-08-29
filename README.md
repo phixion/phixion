@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 29 - [5G from Space: An Overview of 3GPP Non-Terrestrial Networks](https://arxiv.org/abs/2103.09156)
+- Aug 29 - [No copyrights on any content (NSFW)](https://github.com/wearebeautiful/wearebeautiful-models)
 - Aug 29 - [Study: Challenges students face when learning SQL](https://www.growkudos.com/publications/10.1145%25252F3446871.3469759/reader)
 - Aug 29 - [Toyota halts all self-driving e-Palette vehicles after Olympic village accident](https://www.reuters.com/business/autos-transportation/toyota-halts-all-self-driving-e-pallete-vehicles-after-olympic-village-accident-2021-08-27/)
 - Aug 29 - [Substack Is Hiring Eng Managers to Build a Better Business Model for Writing](https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7?utm_source=hn&utm_content=eng)
-- Aug 29 - [Traintrackr – Live LED transit maps](https://www.traintrackr.co.uk)
-- Aug 29 - [Show HN: We built an end-to-end encrypted alternative to Google Photos](https://news.ycombinator.com/item?id=28347439)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
