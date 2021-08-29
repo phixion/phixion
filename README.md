@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Aug 29 - [Road safety: Europe’s roads are getting safer but progress remains too slow](https://ec.europa.eu/transport/media/news/2020-06-11-road-safety-statistics-2019_en)
 - Aug 29 - [High blood pressure cases double in 30 years](https://taipeitimes.com/News/world/archives/2021/08/26/2003763267)
+- Aug 29 - [Hell Is Other REPLs](https://hyperthings.garden/posts/2021-06-20/hell-is-other-repls.html)
 - Aug 29 - [Summary After Four Months with Ada](https://pyjarrett.github.io/programming-with-ada/four-months-summary.html)
 - Aug 29 - [Why do bats have such bizarrely long lifespans?](https://arstechnica.com/science/2019/06/why-do-bats-have-such-bizarrely-long-lifespans)
-- Aug 29 - [Three Super-Massive Black Holes Merging Together in Our Nearby Universe](https://pib.gov.in/PressReleasePage.aspx?PRID=1749437)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
