@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 29 - [Our most dazzling self-taught students may find college admission difficult](https://www.washingtonpost.com/local/education/unconventional-path-to-college/2021/08/29/a8b2c1d6-05b9-11ec-a654-900a78538242_story.html)
 - Aug 29 - [Colorado county's voting machines banned after security breach](https://www.npr.org/2021/08/12/1027225157/after-data-is-posted-on-conspiracy-website-colo-countys-voting-machines-are-bann)
 - Aug 29 - [The New Chief Chaplain at Harvard? An Atheist](https://www.nytimes.com/2021/08/26/us/harvard-chaplain-greg-epstein.html)
-- Aug 29 - [Sirum (YC W15) needs engineers to automate a pharmacy](https://boards.greenhouse.io/sirum)
+- Aug 29 - [Work-life balance: A perspective from one of the finest sportsmen](https://wyounas.com/2021/08/work-life-balance-a-perspective-from-one-of-the-finest-sportsmen/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
