@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 29 - [Buy a luxury building, then lower the rent: A housing fix for CA’s middle class?](https://www.latimes.com/business/story/2021-08-23/luxury-apartment-lower-rent-affordable-housing-california-middle-class)
 - Aug 29 - [Air Independent Propulsion Could Create Silent Killer Submarines](https://nationalinterest.org/blog/reboot/air-independent-propulsion-could-create-silent-killer-submarines-192514)
 - Aug 29 - [Programming, Math, Science: A list with links to useful resources](https://github.com/bobeff/programming-math-science)
 - Aug 29 - [Patera – Dynamic Documents](https://patera.io/)
 - Aug 29 - [Spherical Panoramas](https://stuvel.eu/articles/spherical-panoramas/)
+- Aug 29 - [The Orbit of Planet Nine](https://findplanetnine.blogspot.com/2021/08/the-orbit-of-planet-nine.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
