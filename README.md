@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 29 - [Esperanto Champions the Efficiency of Its 1,092-Core RISC-V Chip](https://www.hpcwire.com/2021/08/27/esperanto-silicon-in-hand-champions-the-efficiency-of-its-1092-core-risc-v-chip/)
+- Aug 29 - [Train Wheels Are Cones](http://awesci.com/train-wheels-are-amazing/)
+- Aug 29 - [8Gb USB Flash Drive Endurance Test (2017)](https://goughlui.com/2017/05/30/experiment-8gb-usb-flash-drive-endurance-test/)
 - Aug 29 - [5G from Space: An Overview of 3GPP Non-Terrestrial Networks](https://arxiv.org/abs/2103.09156)
-- Aug 29 - [No copyrights on any content (NSFW)](https://github.com/wearebeautiful/wearebeautiful-models)
 - Aug 29 - [Study: Challenges students face when learning SQL](https://www.growkudos.com/publications/10.1145%25252F3446871.3469759/reader)
-- Aug 29 - [Toyota halts all self-driving e-Palette vehicles after Olympic village accident](https://www.reuters.com/business/autos-transportation/toyota-halts-all-self-driving-e-pallete-vehicles-after-olympic-village-accident-2021-08-27/)
-- Aug 29 - [Substack Is Hiring Eng Managers to Build a Better Business Model for Writing](https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7?utm_source=hn&utm_content=eng)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
