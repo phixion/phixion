@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 29 - [A majority of young adults in the U.S. live with their parents](https://www.pewresearch.org/fact-tank/2020/09/04/a-majority-of-young-adults-in-the-u-s-live-with-their-parents-for-the-first-time-since-the-great-depression/)
+- Aug 29 - [Reducing sugar in packaged foods can prevent disease in millions](https://www.eurekalert.org/news-releases/926613)
 - Aug 29 - [Why Am and Eurisko Appear to Work (1983, PDF)](https://www.aaai.org/Papers/AAAI/1983/AAAI83-059.pdf)
 - Aug 29 - [NP Complete 3rd Grade Math Problems (2018)](https://leosstemhacks.wordpress.com/2018/03/27/np-complete-3rd-grade-math-problems/)
 - Aug 28 - [New study examines ‘Achilles heel’ of cancer tumours](https://www.med.ubc.ca/news/new-study-examines-achilles-heel-of-cancer-tumours-paving-the-way-for-new-treatment-strategies/)
-- Aug 28 - [Ether Rock – Pet Rocks on the Blockchain](https://etherrock.com/)
+- Aug 28 - [Canada, April: Under-65 excess mortality exceeds under-65 Covid-19 deaths](https://www150.statcan.gc.ca/n1/daily-quotidien/210712/dq210712b-eng.htm)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
