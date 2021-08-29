@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 29 - [Patera – Dynamic Documents](https://patera.io/)
+- Aug 29 - [Spherical Panoramas](https://stuvel.eu/articles/spherical-panoramas/)
+- Aug 29 - [The Orbit of Planet Nine](https://findplanetnine.blogspot.com/2021/08/the-orbit-of-planet-nine.html)
 - Aug 29 - [Esperanto Champions the Efficiency of Its 1,092-Core RISC-V Chip](https://www.hpcwire.com/2021/08/27/esperanto-silicon-in-hand-champions-the-efficiency-of-its-1092-core-risc-v-chip/)
 - Aug 29 - [Train Wheels Are Cones](http://awesci.com/train-wheels-are-amazing/)
-- Aug 29 - [8Gb USB Flash Drive Endurance Test (2017)](https://goughlui.com/2017/05/30/experiment-8gb-usb-flash-drive-endurance-test/)
-- Aug 29 - [5G from Space: An Overview of 3GPP Non-Terrestrial Networks](https://arxiv.org/abs/2103.09156)
-- Aug 29 - [No copyrights on any content (NSFW)](https://github.com/wearebeautiful/wearebeautiful-models)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
