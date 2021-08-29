@@ -36,9 +36,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 29 - [A majority of young adults in the U.S. live with their parents](https://www.pewresearch.org/fact-tank/2020/09/04/a-majority-of-young-adults-in-the-u-s-live-with-their-parents-for-the-first-time-since-the-great-depression/)
+- Aug 29 - [Why Am and Eurisko Appear to Work (1983, PDF)](https://www.aaai.org/Papers/AAAI/1983/AAAI83-059.pdf)
 - Aug 29 - [NP Complete 3rd Grade Math Problems (2018)](https://leosstemhacks.wordpress.com/2018/03/27/np-complete-3rd-grade-math-problems/)
-- Aug 28 - [Mean World Syndrome](https://en.wikipedia.org/wiki/Mean_world_syndrome)
-- Aug 28 - [Cancer treatment breakthrough: Scientists discover disease's 'Achilles' Heel'](https://www.walesonline.co.uk/news/uk-news/cancer-treatment-breakthrough-scientists-discover-21427402)
+- Aug 28 - [New study examines ‘Achilles heel’ of cancer tumours](https://www.med.ubc.ca/news/new-study-examines-achilles-heel-of-cancer-tumours-paving-the-way-for-new-treatment-strategies/)
 - Aug 28 - [Ether Rock – Pet Rocks on the Blockchain](https://etherrock.com/)
 <!--END_SECTION:hn-->
 
