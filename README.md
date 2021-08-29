@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 29 - [Seems like everyone is getting rich](https://news.ycombinator.com/item?id=28350228)
+- Aug 29 - [Helm is a personal server that lives where you do](https://thehelm.com/)
+- Aug 29 - [Inspectify (YC S20) Is Hiring a Project Manager – Home Insights in Seattle](https://www.ycombinator.com/companies/inspectify/jobs/GhiNAqq-project-manager-home-insights)
+- Aug 29 - [Clustering Algorithms with Python](https://machinelearningmastery.com/clustering-algorithms-with-python/)
+- Aug 29 - [HashiCorp State of Cloud Strategy Survey](https://www.hashicorp.com/state-of-the-cloud)
 - Aug 29 - [Fake animal rescue videos have become a new frontier for animal abuse](https://www.nationalgeographic.com/animals/article/how-fake-animal-rescue-videos-have-become-a-new-frontier-for-animal-abuse)
-- Aug 29 - [Boys in Custody and the Women Who Abuse Them](https://www.propublica.org/article/boys-in-custody-and-the-women-who-abuse-them)
-- Aug 29 - [Overwriting Hard Drive Data: The Great Wiping Controversy (2008) [pdf]](http://www.vidarholen.net/~vidar/overwriting_hard_drive_data.pdf)
-- Aug 29 - [Open Source Illustrations Kit](https://illlustrations.co)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
