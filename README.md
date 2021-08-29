@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 29 - [The Death of Behavioral Economics](https://www.thebehavioralscientist.com/articles/the-death-of-behavioral-economics)
+- Aug 29 - [A bad solar storm could cause an “Internet apocalypse”](https://arstechnica.com/science/2021/08/a-bad-solar-storm-could-cause-an-internet-apocalypse/)
+- Aug 29 - [Why You Suddenly Need To Delete Google Chrome](https://www.forbes.com/sites/zakdoffman/2021/08/28/stop-using-google-chrome-on-windows-10-android-and-apple-iphones-ipads-and-macs)
 - Aug 29 - [Road safety: Europe’s roads are getting safer but progress remains too slow](https://ec.europa.eu/transport/media/news/2020-06-11-road-safety-statistics-2019_en)
 - Aug 29 - [High blood pressure cases double in 30 years](https://taipeitimes.com/News/world/archives/2021/08/26/2003763267)
-- Aug 29 - [Hell Is Other REPLs](https://hyperthings.garden/posts/2021-06-20/hell-is-other-repls.html)
-- Aug 29 - [Summary After Four Months with Ada](https://pyjarrett.github.io/programming-with-ada/four-months-summary.html)
-- Aug 29 - [Why do bats have such bizarrely long lifespans?](https://arstechnica.com/science/2019/06/why-do-bats-have-such-bizarrely-long-lifespans)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
