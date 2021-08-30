@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 30 - [Just over 100 days of Libera Chat](https://libera.chat/news/just-over-100-days-of-libera-chat)
-- Aug 29 - [Internet and Blockchain Will Kill Nation-States](https://unchartedterritories.tomaspueyo.com/p/internet-blockchain-kill-nation-states)
-- Aug 29 - [MarkMonitor left 60k domains for the taking](https://ian.sh/markmonitor)
-- Aug 29 - [Linux Kernel 5.14](https://lwn.net/Articles/867706/)
-- Aug 29 - [For security reasons, the following information is not to be shared with enduser](https://community.flexera.com/t5/FlexNet-Publisher-Knowledge-Base/Receiving-FLEXlm-Error-88-309-System-Clock-Has-Been-Set-Back/ta-p/5825)
+- Aug 30 - [8 Bits of history: My first game is still available on the internet](https://smackeyacky.blogspot.com/2021/08/8-bits-of-history-my-first-game-is.html)
+- Aug 30 - [The Life-Changing Magic of High-Speed Career Sampling](https://www.nateliason.com/blog/career-sampling)
+- Aug 30 - [Nvui: A NeoVim GUI written in C++ and Qt](https://github.com/rohit-px2/nvui)
+- Aug 30 - [The Fatiguing Effects of Camera Use in Virtual Meetings [pdf]](https://psycnet.apa.org/fulltext/2021-77825-003.pdf)
+- Aug 30 - [Darktile – GPU rendered terminal emulator designed for tiling window managers](https://github.com/liamg/darktile)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
