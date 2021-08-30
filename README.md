@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 30 - [If software engineering is in demand, why is it so hard to get a job?](https://betterprogramming.pub/if-software-engineering-is-in-demand-why-is-it-so-hard-to-get-a-software-engineering-job-c043a964e463)
+- Aug 30 - [Breaking the software licensing of early-2000s abandonware: reverse engin (cont)](https://yingtongli.me/blog/2021/08/29/drm5-1.html)
 - Aug 30 - [Most Dangerous Software Weaknesses](https://cwe.mitre.org/top25/archive/2021/2021_cwe_top25.html)
 - Aug 30 - [The PineNote is an e-ink notebook that runs Linux](https://tuxphones.com/pinenote-eink-linux-tablet-remarkable-alternative/)
 - Aug 30 - [Walking increases spontaneous fluctuations in the brain](https://www.salon.com/2021/08/28/walking-and-spontaneous-fluctuations-brain/)
