@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 30 - [How do I turn off the “Try the new Safari” notification?](https://discussions.apple.com/thread/252412228)
 - Aug 30 - [Async Overloading](https://blog.yoshuawuyts.com/async-overloading/)
 - Aug 30 - [What Is the Most Free TLD?](https://slc.is/#The%20Best%20TLD%20is%20Not%20.com)
+- Aug 30 - [Rob Pike Essentials](http://genius.cat-v.org/rob-pike/)
 - Aug 30 - [Implementing a class with void*](http://web.eecs.utk.edu/~jplank/plank/classes/cs140/Notes/Running_Times/voidstar.html)
-- Aug 30 - [NYC major crime complaints fell when cops took a break from ‘proactive policing’](https://www.latimes.com/science/sciencenow/la-sci-sn-proactive-policing-crime-20170925-story.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
