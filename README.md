@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 30 - [2021 CWE Top Most Dangerous Software Weaknesses](https://cwe.mitre.org/top25/archive/2021/2021_cwe_top25.html)
+- Aug 30 - [The PineNote is an e-ink notebook that runs Linux](https://tuxphones.com/pinenote-eink-linux-tablet-remarkable-alternative/)
+- Aug 30 - [Why is walking so good for the brain? Blame it on the Spontaneous Fluctuations](https://www.salon.com/2021/08/28/walking-and-spontaneous-fluctuations-brain/)
 - Aug 30 - [Monaru (YC S19) Is Hiring an iOS Engineer](https://www.ycombinator.com/companies/monaru/jobs/xY3DJ1O-ios-engineer)
 - Aug 30 - [Writing Programs with Ncurses](https://invisible-island.net/ncurses/ncurses-intro.html)
-- Aug 30 - [Three Clocks Are Better Than One](https://www.tigerbeetle.com/post/three-clocks-are-better-than-one)
-- Aug 30 - [Gap Inc. acquires 3D fitting room startup Drapr](https://www.retaildive.com/news/gap-inc-acquires-3d-fitting-room-startup-drapr/605691/)
-- Aug 30 - [Guide to Firefox Containers](https://www.thechiefmeat.com/guides/containers.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
