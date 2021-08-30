@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 30 - [Breaking the software licensing of early-2000s abandonware: reverse engin (cont)](https://yingtongli.me/blog/2021/08/29/drm5-1.html)
+- Aug 30 - [Reverse engineering software licensing from early-2000s abandonware](https://yingtongli.me/blog/2021/08/29/drm5-1.html)
 - Aug 30 - [Most Dangerous Software Weaknesses](https://cwe.mitre.org/top25/archive/2021/2021_cwe_top25.html)
-- Aug 30 - [The PineNote is an e-ink notebook that runs Linux](https://tuxphones.com/pinenote-eink-linux-tablet-remarkable-alternative/)
-- Aug 30 - [Walking increases spontaneous fluctuations in the brain](https://www.salon.com/2021/08/28/walking-and-spontaneous-fluctuations-brain/)
-- Aug 30 - [Monaru (YC S19) Is Hiring an iOS Engineer](https://www.ycombinator.com/companies/monaru/jobs/xY3DJ1O-ios-engineer)
+- Aug 30 - [Replay-based attack on Honda and Acura vehicles](https://github.com/HackingIntoYourHeart/Unoriginal-Rice-Patty)
+- Aug 30 - [How to Paint 50k Miles of Lines](https://www.nytimes.com/interactive/2021/08/26/arts/design/road-lines.html)
+- Aug 30 - [Scientists discover how high-energy electrons strengthen magnetic fields](https://www6.slac.stanford.edu/news/2021-07-19-scientists-discover-how-high-energy-electrons-strengthen-magnetic-fields.aspx)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
