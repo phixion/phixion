@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 30 - [Ex-Caldera dev describes lost “WinBolt” Win9x-capable version of DR-DOS (2007)](https://msfn.org/board/topic/109018-windows-98-in-dr-dos/?tab=comments#comment-721209)
+- Aug 30 - [Publication of Hiroshima in the New Yorker (1997)](http://www.herseyhiroshima.com/hiro.php)
+- Aug 30 - [The open calendar, task and note space is a mess](https://stevenvanbael.com/open-calendar-task-space-is-a-mess)
 - Aug 30 - [How Bad Photography Has Changed Our Definition of Good Pictures](https://www.collectorsweekly.com/articles/bad-photography-and-good-pictures/)
 - Aug 30 - [How you play Spades is how you play life](https://pudding.cool/2021/08/spades)
-- Aug 30 - [Upsolve (YC W19) Is Hiring for the Breyer Labs Social Impact Fellowship](https://upsolve.org/careers/breyer-labs-social-impact-fellow/)
-- Aug 30 - [European Union recommends halting non-essential travel from the U.S.](https://www.axios.com/eu-travel-restrictions-us-6f8f73f7-af1e-4614-a73e-46404ee0b085.html)
-- Aug 30 - [Apple acquires classical music streaming service Primephonic](https://www.apple.com/newsroom/2021/08/apple-acquires-classical-music-streaming-service-primephonic/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
