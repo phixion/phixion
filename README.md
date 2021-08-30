@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 30 - [Connectionstrings.com – Forgot that connection string? Get it here](https://www.connectionstrings.com/)
+- Aug 30 - [Stop Waiting for Godot](https://itch.io/jam/stop-waiting-for-godot)
 - Aug 30 - [Why pigeons mean peril for satellite broadband](https://www.bbc.com/news/technology-58061230)
 - Aug 30 - [Show HN: A C# library to help you enforce a Given-When-Then structured Unit test](https://news.ycombinator.com/item?id=28352300)
 - Aug 30 - [How to fight microplastic pollution with magnets](https://www.bbc.com/future/article/20210825-how-to-fight-microplastic-pollution-with-magnets)
-- Aug 30 - [Software Development Waste](https://neverworkintheory.org/2021/08/29/software-development-waste.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
