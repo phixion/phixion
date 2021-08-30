@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 30 - [How Bad Photography Has Changed Our Definition of Good Pictures](https://www.collectorsweekly.com/articles/bad-photography-and-good-pictures/)
+- Aug 30 - [How you play Spades is how you play life](https://pudding.cool/2021/08/spades)
 - Aug 30 - [Upsolve (YC W19) Is Hiring for the Breyer Labs Social Impact Fellowship](https://upsolve.org/careers/breyer-labs-social-impact-fellow/)
 - Aug 30 - [European Union recommends halting non-essential travel from the U.S.](https://www.axios.com/eu-travel-restrictions-us-6f8f73f7-af1e-4614-a73e-46404ee0b085.html)
 - Aug 30 - [Apple acquires classical music streaming service Primephonic](https://www.apple.com/newsroom/2021/08/apple-acquires-classical-music-streaming-service-primephonic/)
-- Aug 30 - [A Compass for the Politics of Collapse: A Short Straightforward Introduction](https://write.as/conjure-utopia/a-compass-for-the-politics-of-collapse-a-short-straightforward-introduction)
-- Aug 30 - [The Unsolved Mystery of the D-Day Puzzles](https://www.history.co.uk/articles/the-unsolved-mystery-of-the-d-day-puzzles)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
