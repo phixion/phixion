@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 30 - [FCC Temporary Waiver Permits Higher Symbol Rate Data for Hurricane Ida Traffic](http://www.arrl.org/news/view/fcc-grants-temporary-waiver-to-permit-higher-symbol-rate-data-transmissions-for-hurricane-ida-traffi)
+- Aug 30 - [China has forbidden under-18s from playing games for more than three hours/week](https://www.reuters.com/world/china/china-rolls-out-new-rules-minors-online-gaming-xinhua-2021-08-30/)
+- Aug 30 - [Alternative Milks](https://blog.bramp.net/post/2021/04/03/alternative-milks/)
 - Aug 30 - [A new wave of Hacktivists is turning the surveillance state against itself](https://therecord.media/a-new-wave-of-hacktivists-is-turning-the-surveillance-state-against-itself/)
-- Aug 30 - [Ask HN: What is the highest consulting rate that you have come across, in tech?](https://news.ycombinator.com/item?id=28356047)
 - Aug 30 - [New smb3 kernel server (ksmbd)](http://lkml.iu.edu/hypermail/linux/kernel/2108.3/05470.html)
-- Aug 30 - [Reverse engineering software licensing from early-2000s abandonware](https://yingtongli.me/blog/2021/08/29/drm5-1.html)
-- Aug 30 - [In 2009, Two Nuclear Submarines Collided Under the Sea](https://nationalinterest.org/blog/the-buzz/2009-two-nuclear-submarines-collided-under-the-sea-they-were-18690)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
