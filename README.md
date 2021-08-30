@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 30 - [How to fight microplastic pollution with magnets](https://www.bbc.com/future/article/20210825-how-to-fight-microplastic-pollution-with-magnets)
+- Aug 30 - [Software Development Waste](https://neverworkintheory.org/2021/08/29/software-development-waste.html)
 - Aug 30 - [A Screeching Voice of the Minority](https://meta.ath0.com/2021/08/apple-csam-scanning/)
 - Aug 30 - [When AWS, Azure, or GCP Becomes the Competition (2019)](https://www.gkogan.co/blog/big-cloud/)
 - Aug 30 - [8 Bits of history: My first game is still available on the internet](https://smackeyacky.blogspot.com/2021/08/8-bits-of-history-my-first-game-is.html)
-- Aug 30 - [Nvui: A NeoVim GUI written in C++ and Qt](https://github.com/rohit-px2/nvui)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
