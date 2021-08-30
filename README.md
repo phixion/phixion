@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 30 - [Building a Desktop Application for Datasette](https://simonwillison.net/2021/Aug/30/datasette-app/)
 - Aug 30 - [Pico8Lisp: A toy Lisp interpreter for PICO-8](https://www.lexaloffle.com/bbs/?tid=44438)
-- Aug 30 - [Burning Out and Finding Stability](https://destroytoday.com/blog/burning-out-and-finding-stability)
+- Aug 30 - [Burning Out and Finding Stability (2019)](https://destroytoday.com/blog/burning-out-and-finding-stability)
 - Aug 30 - [The Oasis of Palmyra](https://www.laphamsquarterly.org/home/oasis-palmyra)
 - Aug 30 - [Show HN: A strongly-typed document DB that runs on any transactional KV store](https://github.com/losfair/RefineDB)
-- Aug 30 - [Zambia: Social media blocked amid 2021 general elections](https://ooni.org/post/2021-zambia-social-media-blocks-amid-elections/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
