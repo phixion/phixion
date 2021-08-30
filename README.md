@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 30 - [Linux distro creator tries to enforce a trademark he doesn't own](https://github.com/krisives/elementary-os-extras/issues/1)
+- Aug 30 - [What are some products and services in the US that are not in Nigeria?](https://news.ycombinator.com/item?id=28360081)
+- Aug 30 - [Struggling to learn a new language? Blame it on your stable brain](https://www.ucsf.edu/news/2021/08/421316/struggling-learn-new-language-blame-it-your-stable-brain)
 - Aug 30 - [Freeing Your Goats](https://hyperthings.garden/posts/2021-08-30/freeing-your-goats.html)
+- Aug 30 - [The end of phone calls: why young people have silenced their ringtones](https://www.theguardian.com/technology/2021/aug/30/the-end-of-phone-calls-why-young-people-have-silenced-their-ringtones)
 - Aug 30 - [Facebook Is the AOL of 2021](https://www.zdnet.com/article/facebook-is-the-aol-of-2021/)
-- Aug 30 - [Ex-Caldera dev describes lost “WinBolt” Win9x-capable version of DR-DOS (2007)](https://msfn.org/board/topic/109018-windows-98-in-dr-dos/?tab=comments#comment-721209)
-- Aug 30 - [Publication of Hiroshima in the New Yorker (1997)](http://www.herseyhiroshima.com/hiro.php)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
