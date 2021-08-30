@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Aug 30 - [Three Clocks Are Better Than One](https://www.tigerbeetle.com/post/three-clocks-are-better-than-one)
+- Aug 30 - [Gap Inc. acquires 3D fitting room startup Drapr](https://www.retaildive.com/news/gap-inc-acquires-3d-fitting-room-startup-drapr/605691/)
 - Aug 30 - [Guide to Firefox Containers](https://www.thechiefmeat.com/guides/containers.html)
 - Aug 30 - [Music Composition with Deep Learning: A Review](https://arxiv.org/abs/2108.12290)
 - Aug 30 - [Scrimba (YC S20) Is Hiring a Web Dev Instructor (Remote)](https://www.ycombinator.com/companies/scrimba/jobs/hncPa2P-web-development-instructor)
-- Aug 30 - [Stanford researchers make rechargeable batteries that store 6x more charge](https://news.stanford.edu/2021/08/25/researchers-make-alkali-metal-chlorine-batteries-rechargeable/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
