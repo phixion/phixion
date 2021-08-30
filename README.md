@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Aug 30 - [Three Clocks Are Better Than One](https://www.tigerbeetle.com/post/three-clocks-are-better-than-one)
 - Aug 30 - [Guide to Firefox Containers](https://www.thechiefmeat.com/guides/containers.html)
-- Aug 30 - [We Can’t Trust the Market with Scientific Knowledge](https://tribunemag.co.uk/2021/08/we-cant-trust-the-market-with-scientific-knowledge)
 - Aug 30 - [Music Composition with Deep Learning: A Review](https://arxiv.org/abs/2108.12290)
 - Aug 30 - [Scrimba (YC S20) Is Hiring a Web Dev Instructor (Remote)](https://www.ycombinator.com/companies/scrimba/jobs/hncPa2P-web-development-instructor)
+- Aug 30 - [Stanford researchers make rechargeable batteries that store 6x more charge](https://news.stanford.edu/2021/08/25/researchers-make-alkali-metal-chlorine-batteries-rechargeable/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
