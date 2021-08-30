@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 30 - [Just over 100 days of Libera Chat](https://libera.chat/news/just-over-100-days-of-libera-chat)
+- Aug 29 - [Internet and Blockchain Will Kill Nation-States](https://unchartedterritories.tomaspueyo.com/p/internet-blockchain-kill-nation-states)
 - Aug 29 - [MarkMonitor left 60k domains for the taking](https://ian.sh/markmonitor)
-- Aug 29 - [Linux Kernel 5.14 Released](https://lwn.net/Articles/867706/)
+- Aug 29 - [Linux Kernel 5.14](https://lwn.net/Articles/867706/)
 - Aug 29 - [For security reasons, the following information is not to be shared with enduser](https://community.flexera.com/t5/FlexNet-Publisher-Knowledge-Base/Receiving-FLEXlm-Error-88-309-System-Clock-Has-Been-Set-Back/ta-p/5825)
-- Aug 29 - [Almost 600 Louisiana sites with toxic chemicals lie in Hurricane Ida's path](https://www.nola.com/news/environment/article_85d4a426-0835-11ec-80b5-0b11ebddb24b.html)
-- Aug 29 - [Helm is a personal server that lives where you do](https://thehelm.com/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
