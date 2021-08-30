@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 30 - [Show HN: A strongly-typed document DB that runs on any transactional KV store](https://github.com/losfair/RefineDB)
 - Aug 30 - [Connectionstrings.com – Forgot that connection string? Get it here](https://www.connectionstrings.com/)
 - Aug 30 - [Stop Waiting for Godot](https://itch.io/jam/stop-waiting-for-godot)
 - Aug 30 - [Why pigeons mean peril for satellite broadband](https://www.bbc.com/news/technology-58061230)
 - Aug 30 - [Show HN: Pylectronics – Reproduce digital electronics in Python](https://github.com/fgarci03/pylectronics)
-- Aug 30 - [Show HN: A C# library to help you enforce a Given-When-Then structured Unit test](https://news.ycombinator.com/item?id=28352300)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
