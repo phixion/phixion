@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Aug 30 - [The quick and simple editor for cron schedule expressions](https://crontab.guru/)
 - Aug 30 - [eBPF: A curated list of projects related to eBPF](https://github.com/zoidbergwill/awesome-ebpf)
+- Aug 30 - [What are some products and services in the US that are not in Nigeria?](https://news.ycombinator.com/item?id=28360081)
 - Aug 30 - [Struggling to learn a new language? Blame it on your stable brain](https://www.ucsf.edu/news/2021/08/421316/struggling-learn-new-language-blame-it-your-stable-brain)
 - Aug 30 - [Playdate Pulp: Zero to video game in 60 Seconds](https://www.gamedeveloper.com/console/playdate-pulp-zero-to-video-game-in-60-seconds)
-- Aug 30 - [How the Airline Industry Got Wise to Seat Belts](https://www.airspacemag.com/history-of-flight/how-airline-industry-got-wise-seat-belts-180978271/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
