@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 31 - [Shelf Engine (YC S18) is hiring a Data Scientist Manager to stop food waste](https://www.shelfengine.com/careers/?gh_jid=4099404004)
+- Aug 31 - [Ask HN: Why don’t you use Linux as your daily driver OS?](https://news.ycombinator.com/item?id=28366644)
+- Aug 31 - [Extreme Ironing](https://en.wikipedia.org/wiki/Extreme_ironing)
 - Aug 31 - [At the world's oldest social housing, rent hasn't changed since 1521](https://www.cbc.ca/radio/day6/hazaras-at-risk-in-afghanistan-the-meaning-of-comirnaty-a-brief-history-of-poppers-nancy-drew-at-91-more-1.6155032/at-the-world-s-oldest-social-housing-rent-hasn-t-changed-since-1521-1.6155041)
 - Aug 31 - [Non-Commercial Licenses Are Non-Free Licenses](https://susam.in/cafe/non-commercial-licenses-are-non-free-licenses.html)
-- Aug 31 - [South Korea will require Apple, Google to allow competing payment systems](https://www.wsj.com/articles/google-apple-hit-in-south-korea-by-worlds-first-law-ending-their-dominance-over-app-store-payments-11630403335)
-- Aug 31 - [Stripe: Thinking Like a Civilization](https://www.readthegeneralist.com/briefing/stripe)
-- Aug 31 - [Ursula K. Le Guin – 33. Clinging Desperately to a Metaphor (2011)](https://www.ursulakleguin.com/blog/33-clinging-desperately-to-a-metaphor)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
