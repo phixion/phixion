@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 31 - [Apollo 68080 – Motorola 680x0 High Performance Processor in FPGA](http://www.apollo-core.com/features.html)
 - Aug 31 - [1910 intro to Astronomy textbook, with the right amount of math [pdf]](http://gron.ca/math/dupuis_1910/dupuis.pdf)
 - Aug 31 - [Docker is updating and extending our product subscriptions](https://www.docker.com/blog/updating-product-subscriptions/)
 - Aug 31 - [Shipwreck reveals ancient market for knock-off consumer goods (2019)](https://arstechnica.com/science/2019/02/shipwreck-reveals-ancient-market-for-knock-off-consumer-goods/)
 - Aug 31 - [One Remote Island's Battle Against Acid-Spewing Ants](https://www.audubon.org/magazine/july-august-2015/one-remote-islands-battle-against-acid)
-- Aug 31 - [Minsky Circle algorithm hidden complexity](https://www.onirom.fr/ica.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
