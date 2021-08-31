@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 31 - [Adapting the OCaml Ecosystem for Multicore OCaml](https://watch.ocaml.org/videos/watch/playlist/7a4ad26a-b8c5-4588-bf2a-4b981fed87f2?playlistPosition=2)
 - Aug 31 - [System76 Pangolin “Linux-first” laptop with AMD internals now in stock](https://system76.com/laptops/pangolin#specs)
-- Aug 31 - [Apple just banned a pay equity Slack channel but lets fun dogs channel lie](https://www.theverge.com/2021/8/31/22650751/apple-bans-pay-equity-slack-channel)
+- Aug 31 - [Apple banned a pay equity Slack channel](https://www.theverge.com/2021/8/31/22650751/apple-bans-pay-equity-slack-channel)
 - Aug 31 - [Surveilance bill rushed through Australian parliament in 24 hours](https://tutanota.com/blog/posts/australia-surveillance-bill/)
 - Aug 31 - [LiveCode drops its Open Source Support](https://livecode.org/)
-- Aug 31 - [Perfect pitch study: Why can’t we identify music notes as well as colors?](https://news.uchicago.edu/story/why-cant-we-identify-music-notes-well-colors-perfect-pitch-study-offers-clues)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
