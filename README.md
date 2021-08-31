@@ -35,9 +35,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 31 - [Windows 11 available on October 5](https://blogs.windows.com/windowsexperience/2021/08/31/windows-11-available-on-october-5/)
+- Aug 31 - [Allbirds S-1 IPO](https://www.sec.gov/Archives/edgar/data/1653909/000162828021017824/0001628280-21-017824-index.htm)
+- Aug 31 - [The Gafam Poster Campaign](https://gafam.info/)
 - Aug 31 - [Toxic ‘forever chemicals’ contaminate indoor air at worrying levels](https://www.theguardian.com/society/2021/aug/31/pfas-toxic-forever-chemicals-air-breathing)
-- Aug 31 - [In the US, wind power is getting bigger and better, report says](https://arstechnica.com/science/2021/08/in-the-us-wind-power-is-getting-bigger-and-better-report-says/)
 - Aug 31 - [A visual introduction to Gaussian Belief Propagation](https://gaussianbp.github.io/)
 - Aug 31 - [Getting the maximum of your C compiler, for security](https://airbus-seclab.github.io/c-compiler-security/)
 <!--END_SECTION:hn-->
