@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 31 - [The rich get richer and rates get lower](https://www.ft.com/content/256acf1b-5bbb-475b-9df3-6d0b3a59389a)
+- Aug 31 - [Zoho Catalyst – Serverless Platform Launched](https://catalyst.zoho.com/)
+- Aug 31 - [A visual introduction to Gaussian Belief Propagation](https://gaussianbp.github.io/)
+- Aug 31 - [Getting the maximum of your C compiler, for security](https://airbus-seclab.github.io/c-compiler-security/)
+- Aug 31 - [Mob Justice Is Trampling Democratic Discourse](https://www.theatlantic.com/magazine/archive/2021/10/new-puritans-mob-justice-canceled/619818/)
 - Aug 31 - [Shelf Engine (YC S18) is hiring a Data Scientist Manager to stop food waste](https://www.shelfengine.com/careers/?gh_jid=4099404004)
-- Aug 31 - [Staying Visual in a CLIP World](http://liipetti.net/visual/staying-visual-in-a-clip-world/)
-- Aug 31 - [Extreme Ironing](https://en.wikipedia.org/wiki/Extreme_ironing)
-- Aug 31 - [At the world's oldest social housing, rent hasn't changed since 1521](https://www.cbc.ca/radio/day6/hazaras-at-risk-in-afghanistan-the-meaning-of-comirnaty-a-brief-history-of-poppers-nancy-drew-at-91-more-1.6155032/at-the-world-s-oldest-social-housing-rent-hasn-t-changed-since-1521-1.6155041)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
