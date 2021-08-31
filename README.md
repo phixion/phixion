@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 31 - [PostgreSQL Subtransactions Considered Harmful](https://postgres.ai/blog/20210831-postgresql-subtransactions-considered-harmful)
+- Aug 31 - [Rolling your own minimal embedded Linux for the Raspberry Pi](https://kevinboone.me/pi_minimal.html)
+- Aug 31 - [The U.S. Army Tried Portable Nuclear Power at Remote Bases 60 Years Ago](https://www.atlasobscura.com/articles/camp-century-portable-nuclear-reactor)
 - Aug 31 - [You want enabling CSS selectors, not disabling ones](https://css-tricks.com/you-want-enabling-css-selectors-not-disabling-ones/)
 - Aug 31 - [Retool (YC W17) is hiring engineers](https://news.ycombinator.com/item?id=28373610)
-- Aug 31 - [Adapting the OCaml Ecosystem for Multicore OCaml](https://watch.ocaml.org/videos/watch/playlist/7a4ad26a-b8c5-4588-bf2a-4b981fed87f2?playlistPosition=2)
-- Aug 31 - [System76 Pangolin Linux-first laptop with AMD internals now in stock](https://system76.com/laptops/pangolin)
-- Aug 31 - [Apple banned a pay equity Slack channel](https://www.theverge.com/2021/8/31/22650751/apple-bans-pay-equity-slack-channel)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
