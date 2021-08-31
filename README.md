@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 30 - [How do I turn off the “Try the new Safari” notification?](https://discussions.apple.com/thread/252412228)
+- Aug 31 - [DockerHub Pushing Issues](https://status.io/pages/incident/533c6539221ae15e3f000031/612d722c063764061e25aa70)
+- Aug 31 - [Remind HN: .com prices increase Sep 1, 2021](https://news.ycombinator.com/item?id=28362488)
 - Aug 30 - [Async Overloading](https://blog.yoshuawuyts.com/async-overloading/)
 - Aug 30 - [What Is the Most Free TLD?](https://slc.is/#The%20Best%20TLD%20is%20Not%20.com)
 - Aug 30 - [Implementing a class with void*](http://web.eecs.utk.edu/~jplank/plank/classes/cs140/Notes/Running_Times/voidstar.html)
-- Aug 30 - [OneSignal (YC S11) Is Hiring Senior Product Engineers](https://onesignal.com/careers/b824ffc4-ac55-4744-b7d8-b5ace6272e96)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
