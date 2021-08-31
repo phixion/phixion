@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Aug 31 - [At the world's oldest social housing, rent hasn't changed since 1521](https://www.cbc.ca/radio/day6/hazaras-at-risk-in-afghanistan-the-meaning-of-comirnaty-a-brief-history-of-poppers-nancy-drew-at-91-more-1.6155032/at-the-world-s-oldest-social-housing-rent-hasn-t-changed-since-1521-1.6155041)
 - Aug 31 - [Non-Commercial Licenses Are Non-Free Licenses](https://susam.in/cafe/non-commercial-licenses-are-non-free-licenses.html)
+- Aug 31 - [Ursula K. Le Guin – 33. Clinging Desperately to a Metaphor (2011)](https://www.ursulakleguin.com/blog/33-clinging-desperately-to-a-metaphor)
 - Aug 31 - [Apple and Google must allow other payment systems, new Korean law declares](https://www.theverge.com/2021/8/31/22643800/apple-google-south-korea-app-store-payment-legislation-passes)
 - Aug 31 - [Judge in Nokia and Apple lawsuit owned Apple stock during proceedings](https://appleinsider.com/articles/21/08/31/judge-in-nokia-and-apple-lawsuit-owned-apple-stock-during-proceedings)
-- Aug 31 - [Facebook open sources Glean: a scalable code search and query engine](https://glean.software/?open)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
