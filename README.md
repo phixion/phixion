@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 31 - [Tor is a great sysadmin tool](https://www.jamieweb.net/blog/tor-is-a-great-sysadmin-tool/)
 - Aug 31 - [Avenue (YC W21) Is Hiring Full-Stack Engineers in NYC (TypeScript, Node, React)](https://useavenue.notion.site/Software-Engineer-Avenue-d68ff1ec6b064380b3afa85d5d1b3276)
+- Aug 31 - [Roman Priest’s Exceptionally Well-Preserved Remains Found in Pompeii](https://www.smithsonianmag.com/smart-news/archaeologists-uncover-most-well-preserved-human-remains-pompeii-date-180978455/)
 - Aug 31 - [Intel's Lidar, face recognition, and tracking cameras will be discontinued](https://spectrum.ieee.org/intel-realsense)
 - Aug 31 - [Zoom court hearing postponed after accused found in same location as witness](https://www.sturgisjournal.com/story/news/crime/2021/03/05/court-hearing-postponed-after-accused-found-same-house-witness/4587600001/)
-- Aug 31 - [Amplitude (YC W12) IPO S1](https://www.sec.gov/Archives/edgar/data/1866692/000119312521260696/d143868ds1.htm)
-- Aug 31 - [Apollo 68080 – Motorola 680x0 High Performance Processor in FPGA](http://www.apollo-core.com/features.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
