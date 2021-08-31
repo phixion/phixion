@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Aug 31 - [Apple and Google must allow other payment systems, new Korean law declares](https://www.theverge.com/2021/8/31/22643800/apple-google-south-korea-app-store-payment-legislation-passes)
 - Aug 31 - [Judge in Nokia and Apple lawsuit owned Apple stock during proceedings](https://appleinsider.com/articles/21/08/31/judge-in-nokia-and-apple-lawsuit-owned-apple-stock-during-proceedings)
+- Aug 31 - [Facebook open sources Glean: a scalable code search and query engine](https://glean.software/?open)
 - Aug 31 - [I got multiple FAANG offers in Europe](https://blog.goncharov.page/how-i-got-multiple-faang-offers-in-europe)
 - Aug 31 - [Wild claims about K performance](https://mlochbaum.github.io/BQN/implementation/kclaims.html)
-- Aug 31 - [58% of Hacker News, Reddit and tech-savvy audiences block Google Analytics](https://plausible.io/blog/google-analytics-adblockers-missing-data)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
