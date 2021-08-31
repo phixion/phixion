@@ -35,9 +35,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 31 - [System76 Pangolin “Linux-first” laptop with AMD internals now in stock](https://system76.com/laptops/pangolin#specs)
+- Aug 31 - [Apple just banned a pay equity Slack channel but lets fun dogs channel lie](https://www.theverge.com/2021/8/31/22650751/apple-bans-pay-equity-slack-channel)
 - Aug 31 - [Surveilance bill rushed through Australian parliament in 24 hours](https://tutanota.com/blog/posts/australia-surveillance-bill/)
-- Aug 31 - [79 Bay Area startups from Y Combinator's biggest Demo Day batch yet](https://www.bizjournals.com/sanjose/news/2021/08/30/79-bay-area-startups-from-ycs-biggest-batch-yet.html)
-- Aug 31 - [RSA/SHA1 signature type disabled by default in OpenSSH](https://undeadly.org/cgi?action=article;sid=20210830113413)
 - Aug 31 - [Perfect pitch study: Why can’t we identify music notes as well as colors?](https://news.uchicago.edu/story/why-cant-we-identify-music-notes-well-colors-perfect-pitch-study-offers-clues)
 - Aug 31 - [Tor is a great sysadmin tool (2020)](https://www.jamieweb.net/blog/tor-is-a-great-sysadmin-tool/)
 <!--END_SECTION:hn-->
