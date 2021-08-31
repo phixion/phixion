@@ -35,9 +35,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 31 - [Remind – a sophisticated calendar and alarm program](https://dianne.skoll.ca/projects/remind/)
 - Aug 31 - [Navajo Water Project](http://uswateralliance.org/organization/navajo-water-project)
 - Aug 31 - [Forest Service officials close all California national forests](https://www.latimes.com/california/story/2021-08-30/officials-to-close-all-california-national-forests-a)
-- Aug 31 - [DockerHub Pushing Issues](https://status.io/pages/incident/533c6539221ae15e3f000031/612d722c063764061e25aa70)
 - Aug 31 - [Remind HN: .com prices increase Sep 1, 2021](https://news.ycombinator.com/item?id=28362488)
 - Aug 30 - [Show HN: Blur Webcam Background on Linux](https://github.com/jashandeep-sohi/webcam-filters)
 <!--END_SECTION:hn-->
