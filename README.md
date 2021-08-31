@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 31 - [Turns Jupyter notebooks into standalone web applications and dashboards](https://voila.readthedocs.io/en/stable/)
 - Aug 31 - [Reasonable Person Principle](http://www.cs.cmu.edu/~weigand/staff/)
 - Aug 31 - [GCC Rust Monthly Report #9 August 2021](https://thephilbert.io/2021/08/30/gcc-rust-monthly-report-9-august-2021/)
 - Aug 31 - [RFC-0082: Runnning unmodified Linux programs on Fuchsia](https://fuchsia.dev/fuchsia-src/contribute/governance/rfcs/0082_starnix?hl=en)
 - Aug 31 - [MDcat – Simple Markdown to GitHub styled HTML converter](https://github.com/calganaygun/MDcat)
-- Aug 31 - [Australian Police get online account takeover, data disruption powers](https://www.itnews.com.au/news/police-get-online-account-takeover-data-disruption-powers-569062)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
