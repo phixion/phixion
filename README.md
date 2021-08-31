@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 31 - [36% of Covid patients never make antibodies](https://wwwnc.cdc.gov/eid/article/27/9/21-1042_article)
+- Aug 31 - [GCC Rust Monthly Report #9 August 2021](https://thephilbert.io/2021/08/30/gcc-rust-monthly-report-9-august-2021/)
+- Aug 31 - [Predictors of Nonseroconversion after SARS-CoV-2 Infection](https://wwwnc.cdc.gov/eid/article/27/9/21-1042_article)
 - Aug 31 - [Australian Police get online account takeover, data disruption powers](https://www.itnews.com.au/news/police-get-online-account-takeover-data-disruption-powers-569062)
+- Aug 31 - [The Anatomy of Assholes](https://scottbarrykaufman.com/the-anatomy-of-assholes/)
 - Aug 31 - [More wind energy was installed in 2020 than any other energy source](https://www.energy.gov/eere/wind/articles/land-based-wind-market-report-2021-edition-released)
-- Aug 31 - [SnapEDA (YC S15) is hiring devs to improve electronic component sourcing](https://careers.snapeda.com/)
-- Aug 31 - [White House Launches US Digital Corps](https://www.fedscoop.com/white-house-launches-us-digital-corps/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
