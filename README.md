@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 31 - [Reasonable Person Principle](http://www.cs.cmu.edu/~weigand/staff/)
 - Aug 31 - [GCC Rust Monthly Report #9 August 2021](https://thephilbert.io/2021/08/30/gcc-rust-monthly-report-9-august-2021/)
+- Aug 31 - [RFC-0082: Runnning unmodified Linux programs on Fuchsia](https://fuchsia.dev/fuchsia-src/contribute/governance/rfcs/0082_starnix?hl=en)
+- Aug 31 - [MDcat – Simple Markdown to GitHub styled HTML converter](https://github.com/calganaygun/MDcat)
 - Aug 31 - [Predictors of Nonseroconversion after SARS-CoV-2 Infection](https://wwwnc.cdc.gov/eid/article/27/9/21-1042_article)
-- Aug 31 - [Australian Police get online account takeover, data disruption powers](https://www.itnews.com.au/news/police-get-online-account-takeover-data-disruption-powers-569062)
-- Aug 31 - [The Anatomy of Assholes](https://scottbarrykaufman.com/the-anatomy-of-assholes/)
-- Aug 31 - [More wind energy was installed in 2020 than any other energy source](https://www.energy.gov/eere/wind/articles/land-based-wind-market-report-2021-edition-released)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
