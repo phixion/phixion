@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 01 - [Amazon CEO unveils 55k tech jobs in his first hiring push](https://www.reuters.com/technology/exclusive-amazon-ceo-unveils-55000-tech-jobs-first-hiring-push-under-his-watch-2021-09-01/)
 - Sep 01 - [AmberBox Gunshot Detection (YC W16) Is Hiring a Remote Full-Stack Engineer](https://www.ycombinator.com/companies/amberbox-gunshot-detection/jobs/oAfXcHq-full-stack-engineer-gunshot-detection-fully-remote)
 - Sep 01 - [ES2022 feature: class static initialization blocks](https://2ality.com/2021/09/class-static-block.html)
-- Sep 01 - [I Have Decided to Stop Supporting My Family's Non-Linux Devices](http://misc-stuff.terraaeon.com/articles/support-only-linux.html/)
+- Sep 01 - [Dutch Entrepreneurs avoiding negative interest by opening multiple bank accounts](https://nltimes.nl/2021/09/01/entrepreneurs-avoiding-negative-interest-opening-multiple-bank-accounts)
 - Sep 01 - [Man can change his pupil size on command, once thought an impossible feat](https://www.livescience.com/man-can-control-pupil-dilation.html)
-- Sep 01 - [Bare metal Apple M1 Debian at 4K 60](https://twitter.com/alyssarzg/status/1432927311058194436)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
