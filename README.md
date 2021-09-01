@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 01 - [Helio Project: libre music composition software](https://helio.fm/)
 - Sep 01 - [How to Study Effectively](https://psyche.co/guides/how-research-from-psychology-can-help-you-study-effectively)
 - Sep 01 - [Writing, Technically](https://signalsandthreads.com/writing-technically/)
 - Sep 01 - [Mozilla VPN Completes Independent Security Audit by Cure53](https://blog.mozilla.org/en/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53/)
 - Sep 01 - [Improving Git protocol security on GitHub](https://github.blog/2021-09-01-improving-git-protocol-security-github/)
-- Sep 01 - [Mednet (YC W17) Is Hiring](https://www.workatastartup.com/jobs/15406)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
