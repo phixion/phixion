@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 01 - [The Feds Want to Know What the McFuck Is Going on with the McFlurry Machines](https://gizmodo.com/the-feds-want-to-know-what-the-mcfuck-is-going-on-with-1847601805)
 - Sep 01 - [About Super Follows](https://help.twitter.com/en/using-twitter/super-follows)
 - Sep 01 - [FAA Releases Data Showing Trends in Dangerous Laser Strikes](https://www.faa.gov/newsroom/faa-releases-data-showing-trends-dangerous-laser-strikes)
 - Sep 01 - [The Sackler Family Wins Immunity from Future Opioid Lawsuits](https://www.npr.org/2021/09/01/1031053251/sackler-family-immunity-purdue-pharma-oxcyontin-opioid-epidemic)
 - Sep 01 - [Your Standards Are Too High](https://www.neelnanda.io/blog/35-standards)
-- Sep 01 - [Bonsai (YC W16) Hiring Head of Growth Marketing](https://www.ycombinator.com/companies/bonsai/jobs/HY1P6AN-head-of-growth-marketing)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
