@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 01 - [Ask HN: Who is hiring? (September 2021)](https://news.ycombinator.com/item?id=28380661)
+- Sep 01 - [Ask HN: Who wants to be hired? (September 2021)](https://news.ycombinator.com/item?id=28380659)
+- Sep 01 - [Rogue antibodies involved in almost one-fifth of Covid deaths](https://www.nature.com/articles/d41586-021-02337-5)
 - Sep 01 - [Forward and Reverse Proxies Explained](https://www.haskellforall.com/2021/09/forward-and-reverse-proxies-explained.html)
-- Sep 01 - [Tardigrades Walk, and We Were Not Ready for the Footage](https://www.sciencealert.com/scientists-take-videos-of-tardigrades-lumbering-to-work-out-why-they-walk-funny)
-- Sep 01 - [AAS Journals Will Switch to Open Access](https://aas.org/press/aas-journals-open-access)
-- Sep 01 - [The Internet ‘Died’ Five Years Ago](https://www.theatlantic.com/technology/archive/2021/08/dead-internet-theory-wrong-but-feels-true/619937/)
-- Sep 01 - [Show HN: Open-Source multi-dashboarding platform for teams and client reporting](https://github.com/chartbrew/chartbrew)
+- Sep 01 - [Tardigrades Walk](https://www.sciencealert.com/scientists-take-videos-of-tardigrades-lumbering-to-work-out-why-they-walk-funny)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
