@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 01 - [Ask HN: Why Bother with All This?](https://news.ycombinator.com/item?id=28376976)
+- Sep 01 - [C# for Systems Programming](https://github.com/MichalStrehovsky/zerosharp)
 - Sep 01 - [Stanford's Sapolsky on Depression (2009)](https://www.robertsapolskyrocks.com/depression.html)
 - Sep 01 - [Cooperative Package Management for Python](https://lwn.net/SubscriberLink/867657/0efafb319ce20e3e/)
 - Sep 01 - [Automatic Extraction of Secrets from the Transistor Jungle Using Laser-Assisted [pdf]](https://www.usenix.org/system/files/sec21-krachenfels.pdf)
