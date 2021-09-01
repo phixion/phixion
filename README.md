@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 01 - [Deno Deploy Beta 2](https://deno.com/blog/deploy-beta2)
+- Sep 01 - [The Complex Truth About ‘Junk DNA’](https://www.quantamagazine.org/the-complex-truth-about-junk-dna-20210901/)
+- Sep 01 - [Tyler Cowen is the best curator of talent in the world](https://kulesa.substack.com/p/tyler-cowen-is-the-best-curator-of)
 - Sep 01 - [Israel’s Covid-19 boosters are preventing infections, new studies suggest](https://www.science.org/content/article/israel-s-covid-19-boosters-are-preventing-infections-new-studies-suggest)
-- Sep 01 - [Ask HN: Who is hiring? (September 2021)](https://news.ycombinator.com/item?id=28380661)
-- Sep 01 - [Ask HN: Who wants to be hired? (September 2021)](https://news.ycombinator.com/item?id=28380659)
-- Sep 01 - [Ask HN: Freelancer? Seeking freelancer? (September 2021)](https://news.ycombinator.com/item?id=28380660)
-- Sep 01 - [Rogue antibodies involved in almost one-fifth of Covid deaths](https://www.nature.com/articles/d41586-021-02337-5)
+- Sep 01 - [Linux on the Framework Laptop](https://frame.work/blog/linux-on-the-framework-laptop)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
