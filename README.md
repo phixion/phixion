@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 01 - [Mozilla VPN Completes Independent Security Audit by Cure53](https://blog.mozilla.org/en/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53/)
+- Sep 01 - [Improving Git protocol security on GitHub](https://github.blog/2021-09-01-improving-git-protocol-security-github/)
 - Sep 01 - [Mednet (YC W17) Is Hiring](https://www.workatastartup.com/jobs/15406)
 - Sep 01 - [65,000 fake students applied for financial aid in wide community college scam](https://www.latimes.com/california/story/2021-09-01/california-college-financial-aid-scam-fake-students)
 - Sep 01 - [Lenovo tablet forced update shows un-dismissable, un-mutable, ad notifications](https://twitter.com/benkrasnow/status/1433096367992295427)
-- Sep 01 - [Deno Deploy Beta 2](https://deno.com/blog/deploy-beta2)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
