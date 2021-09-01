@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 01 - [BuildZoom (remote project management for construction) is hiring](https://jobs.lever.co/buildzoom)
+- Sep 01 - [Metaphor: Searching the Web with Language Models](https://metaphor.so/)
 - Sep 01 - [Multiplying Matrices Without Multiplying](https://arxiv.org/abs/2106.10860)
-- Aug 31 - [An small key-value database](http://docs.beryl.dev/)
+- Aug 31 - [A guide to fun mathematics YouTube channels](https://samenright.com/2021/08/31/a-laymans-guide-to-recreational-mathematics-videos/)
 - Aug 31 - [It's Time for Operating Systems to Rediscover Hardware](https://www.usenix.org/conference/osdi21/presentation/fri-keynote)
-- Aug 31 - [PostgreSQL Subtransactions Considered Harmful](https://postgres.ai/blog/20210831-postgresql-subtransactions-considered-harmful)
-- Aug 31 - [Rolling your own minimal embedded Linux for the Raspberry Pi](https://kevinboone.me/pi_minimal.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
