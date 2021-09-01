@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 01 - [Automatic Extraction of Secrets from the Transistor Jungle Using Laser-Assisted [pdf]](https://www.usenix.org/system/files/sec21-krachenfels.pdf)
+- Sep 01 - [Show HN: Compile for Arm at native speeds in an emulated system](https://github.com/valkmit/aws-graviton2-on-intel)
 - Sep 01 - [Vintage Computer Festival Midwest 16](http://vcfmw.org/)
 - Sep 01 - [Google's New AI Photo Upscaling Tech Is Jaw-Dropping](https://petapixel.com/2021/08/30/googles-new-ai-photo-upscaling-tech-is-jaw-dropping/)
 - Sep 01 - [CSS Nesting Module (First Public Working Draft)](https://www.w3.org/blog/news/archives/9236)
-- Sep 01 - [BuildZoom (remote project management for construction) is hiring](https://jobs.lever.co/buildzoom)
-- Sep 01 - [Multiplying Matrices Without Multiplying](https://arxiv.org/abs/2106.10860)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
