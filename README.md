@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 01 - [Your Standards Are Too High](https://www.neelnanda.io/blog/35-standards)
 - Sep 01 - [Bonsai (YC W16) Hiring Head of Growth Marketing](https://www.ycombinator.com/companies/bonsai/jobs/HY1P6AN-head-of-growth-marketing)
 - Sep 01 - [The Red Warning Light on Richard Branson’s Space Flight](https://www.newyorker.com/news/news-desk/the-red-warning-light-on-richard-bransons-space-flight)
 - Sep 01 - [Amazon asked FCC to reject Starlink plan because it can’t compete, SpaceX says](https://arstechnica.com/tech-policy/2021/09/spacex-slams-amazons-obstructionist-ploy-to-block-starlink-upgrade-plan/)
-- Sep 01 - [The Thoughts the Civilized Keep](https://www.noemamag.com/the-thoughts-the-civilized-keep/)
-- Sep 01 - [The Guide to Kubernetes Labels](https://blog.kubecost.com/blog/kubernetes-labels/)
+- Sep 01 - [UK national extradited to US for film/TV piracy](https://www.justice.gov/usao-sdny/pr/manhattan-us-attorney-announces-extradition-british-national-participation-online-film)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
