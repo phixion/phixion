@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 01 - [Vintage Computer Festival Midwest 16](http://vcfmw.org/)
 - Sep 01 - [CSS Nesting Module (First Public Working Draft)](https://www.w3.org/blog/news/archives/9236)
 - Sep 01 - [BuildZoom (remote project management for construction) is hiring](https://jobs.lever.co/buildzoom)
 - Sep 01 - [Multiplying Matrices Without Multiplying](https://arxiv.org/abs/2106.10860)
 - Aug 31 - [A guide to fun mathematics YouTube channels](https://samenright.com/2021/08/31/a-laymans-guide-to-recreational-mathematics-videos/)
-- Aug 31 - [It's Time for Operating Systems to Rediscover Hardware](https://www.usenix.org/conference/osdi21/presentation/fri-keynote)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
