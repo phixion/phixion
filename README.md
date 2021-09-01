@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 01 - [Post-Brexit immigration: mission accomplished?](https://sifted.eu/articles/uk-tech-immigration/)
 - Sep 01 - [M1 Icestorm cores can still perform well](https://eclecticlight.co/2021/09/01/m1-icestorm-cores-can-still-perform-very-well/)
 - Sep 01 - [C# for Systems Programming](https://github.com/MichalStrehovsky/zerosharp)
 - Sep 01 - [OpenBSD: Hibernate Time Reduced](https://www.undeadly.org/cgi?action=article;sid=20210831050932)
 - Sep 01 - [Robert Sapolsky on Depression (2009)](https://www.robertsapolskyrocks.com/depression.html)
+- Sep 01 - [Cooperative Package Management for Python](https://lwn.net/SubscriberLink/867657/0efafb319ce20e3e/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
