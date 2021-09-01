@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 01 - [Multiplying Matrices Without Multiplying](https://arxiv.org/abs/2106.10860)
+- Aug 31 - [An small key-value database](http://docs.beryl.dev/)
+- Aug 31 - [It's Time for Operating Systems to Rediscover Hardware](https://www.usenix.org/conference/osdi21/presentation/fri-keynote)
 - Aug 31 - [PostgreSQL Subtransactions Considered Harmful](https://postgres.ai/blog/20210831-postgresql-subtransactions-considered-harmful)
 - Aug 31 - [Rolling your own minimal embedded Linux for the Raspberry Pi](https://kevinboone.me/pi_minimal.html)
-- Aug 31 - [The U.S. Army Tried Portable Nuclear Power at Remote Bases 60 Years Ago](https://www.atlasobscura.com/articles/camp-century-portable-nuclear-reactor)
-- Aug 31 - [You want enabling CSS selectors, not disabling ones](https://css-tricks.com/you-want-enabling-css-selectors-not-disabling-ones/)
-- Aug 31 - [Retool (YC W17) is hiring engineers](https://news.ycombinator.com/item?id=28373610)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
