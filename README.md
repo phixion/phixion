@@ -35,10 +35,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 01 - [Exercism v3](http://exercism.io)
-- Sep 01 - [YouTube starts to require a credit card or ID to verify the age in EU](https://blog.youtube/news-and-events/using-technology-more-consistently-apply-age-restrictions/)
+- Sep 01 - [Show HN: Open-Source multi-dashboarding platform for teams and client reporting](https://github.com/chartbrew/chartbrew)
+- Sep 01 - [Regulators and Reality](https://stratechery.com/2021/regulators-and-reality/)
+- Sep 01 - [YouTube starts to require a credit card or ID to verify the age in EU (2020)](https://blog.youtube/news-and-events/using-technology-more-consistently-apply-age-restrictions/)
 - Sep 01 - [Streak (YC S11) is hiring a TypeScript/React expert who likes shipping (remote)](https://www.streak.com/careers/product-engineer)
-- Sep 01 - [Apple announces first states to adopt driver’s licenses and IDs in Apple Wallet](https://www.apple.com/newsroom/2021/09/apple-announces-first-states-to-adopt-drivers-licenses-and-state-ids-in-wallet/)
 - Sep 01 - [Inequality, Interest Rates, Aging, and the Role of Central Banks](https://theovershoot.co/p/inequality-interest-rates-aging-and)
 <!--END_SECTION:hn-->
 
