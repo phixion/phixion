@@ -37,7 +37,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Sep 01 - [ES2022 feature: class static initialization blocks](https://2ality.com/2021/09/class-static-block.html)
 - Sep 01 - [Dutch Entrepreneurs avoiding negative interest by opening multiple bank accounts](https://nltimes.nl/2021/09/01/entrepreneurs-avoiding-negative-interest-opening-multiple-bank-accounts)
-- Sep 01 - [Project Aquiline – 1970s CIA UAV [pdf]](https://www.cia.gov/readingroom/docs/PROJECT%20AQUILINE%5B15784065%5D.pdf)
+- Sep 01 - [I Have Decided to Stop Supporting My Family's Non-Linux Devices](http://misc-stuff.terraaeon.com/articles/support-only-linux.html/)
 - Sep 01 - [Bare metal Apple M1 Debian at 4K 60](https://twitter.com/alyssarzg/status/1432927311058194436)
 - Sep 01 - [North Korea produces new vanity vlogs in social media propaganda comeback](https://www.nknews.org/2021/08/north-korea-produces-new-vanity-vlogs-in-social-media-propaganda-comeback/)
 <!--END_SECTION:hn-->
