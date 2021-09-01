@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 01 - [The Thoughts the Civilized Keep](https://www.noemamag.com/the-thoughts-the-civilized-keep/)
 - Sep 01 - [The Guide to Kubernetes Labels](https://blog.kubecost.com/blog/kubernetes-labels/)
 - Sep 01 - [Multiplayer Prototyping: If your tools aren’t fun, you’re not doing it right](https://www.felt.com/blog/multiplayer-prototyping-tools)
 - Sep 01 - [Helio Project: libre music composition software](https://helio.fm/)
 - Sep 01 - [How to Study Effectively](https://psyche.co/guides/how-research-from-psychology-can-help-you-study-effectively)
-- Sep 01 - [Writing, Technically](https://signalsandthreads.com/writing-technically/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
