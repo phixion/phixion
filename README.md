@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 02 - [Skio (YC S20) is hiring founding engineers](https://skio.com/careers)
+- Sep 02 - [The Complete GraphQL Security Guide](https://wundergraph.com/blog/the_complete_graphql_security_guide_fixing_the_13_most_common_graphql_vulnerabilities_to_make_your_api_production_ready)
 - Sep 02 - [The iPhone 13 Does Not Have Satellite Internet, Band N53 and Globalstar](https://semianalysis.com/no-the-iphone-13-does-not-have-satellite-internet-band-n53-globalstar-gsat-explained/)
 - Sep 02 - [New Tesla Roadster delayed again, now shooting for 2023](https://uk.motor1.com/news/530472/tesla-roadster-delayed-2023/)
 - Sep 02 - [Reddit seeks to hire advisers for U.S. IPO – sources](https://www.reuters.com/article/reddit-ipo/exclusive-reddit-seeks-to-hire-advisers-for-u-s-ipo-sources-idUSL4N2Q434Y)
-- Sep 02 - [GateBoy – a gate-level Game Boy simulator](https://github.com/aappleby/MetroBoy)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
