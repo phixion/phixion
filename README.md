@@ -35,8 +35,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 02 - [China on the Cusp of a 'Profound Transformation'](https://asiatimes.com/2021/08/china-on-the-cusp-of-a-profound-transformation/)
 - Sep 02 - [Spring tears down math t-shirt listing because it dared to mention 'zeta'](https://www.theregister.com/2021/09/01/data_scientists_riemann_zeta_function/)
-- Sep 02 - [Alibaba to invest $15.5B for “common prosperity”](https://www.reuters.com/world/china/chinas-alibaba-invest-155-bln-towards-common-prosperity-2021-09-02/)
 - Sep 02 - [A Founder’s Exponential Toolset: Wright’s Law, Moore’s Law, & More](https://www.nfx.com/post/exponential-age/)
 - Sep 02 - [Picturing Git: Conceptions and Misconceptions](https://www.biteinteractive.com/picturing-git-conceptions-and-misconceptions/)
 - Sep 02 - [European Payments Initiative (EPI)](https://www.epicompany.eu/)
