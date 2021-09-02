@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 02 - [Tesla Model Y takes over Norway, pushes electric car sales to 72% market share](https://electrek.co/2021/09/02/tesla-model-y-takes-over-norway-electric-car-sales-market-share/)
 - Sep 02 - [Gab.com’s Response to Congress](https://news.gab.com/2021/09/01/gab-coms-response-to-congress/)
 - Sep 02 - [The Australian federal government is planning to de-anonymize the internet](https://twitter.com/Alpha_Mind7/status/1433385841179643910)
 - Sep 02 - [Fuzzing 100 open source projects with OSS-Fuzz: lessons learned](https://adalogics.com/blog/fuzzing-100-open-source-projects-with-oss-fuzz)
 - Sep 02 - [Ruby Is Still a Diamond](https://medium.com/retention-science/ruby-is-still-a-diamond-b789d2661266)
-- Sep 02 - [Tesla is ordered to turn over Autopilot data to a federal safety agency](https://www.nytimes.com/2021/09/01/business/tesla-autopilot-investigation.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
