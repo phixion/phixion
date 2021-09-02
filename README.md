@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 02 - [Experiments on a $50 DIY air purifier you can make in 30s](https://dynomight.net/2020/12/15/some-real-data-on-a-DIY-box-fan-air-purifier/)
 - Sep 02 - [RISC-V Scalar Cryptography Extension reaches public review](https://github.com/riscv/riscv-crypto/releases/tag/v1.0.0-rc2-scalar)
 - Sep 02 - [ReadMe (YC W15) is hiring a Product Marketer who loves developers](https://readme.com/careers#product-marketing-manager)
+- Sep 02 - [Who should your computer take its orders from? (2002)](https://www.gnu.org/philosophy/can-you-trust.en.html)
 - Sep 02 - [How ksqlDB Works: Internal Architecture and Advanced Features](https://www.confluent.io/blog/ksqldb-architecture-and-advanced-features/)
-- Sep 02 - [Gift Card Gang Extracts Cash from 100k Inboxes Daily](https://krebsonsecurity.com/2021/09/gift-card-gang-extracts-cash-from-100k-inboxes-daily/)
-- Sep 02 - [Compressing high-dimensional vectors by 97%](https://www.pinecone.io/learn/product-quantization/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
