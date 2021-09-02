@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 02 - [Security Analysis of Satisfyer Sex Toys](https://bananamafia.dev/post/satisfyer/)
+- Sep 02 - [Chicken Scheme](https://call-cc.org/)
 - Sep 02 - [Show HN: A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
 - Sep 02 - [Hoover (Seal)](https://en.wikipedia.org/wiki/Hoover_(seal))
 - Sep 02 - [Skio (YC S20) is hiring founding engineers](https://skio.com/careers)
-- Sep 02 - [The Complete GraphQL Security Guide](https://wundergraph.com/blog/the_complete_graphql_security_guide_fixing_the_13_most_common_graphql_vulnerabilities_to_make_your_api_production_ready)
-- Sep 02 - [The iPhone 13 Does Not Have Satellite Internet, Band N53 and Globalstar](https://semianalysis.com/no-the-iphone-13-does-not-have-satellite-internet-band-n53-globalstar-gsat-explained/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
