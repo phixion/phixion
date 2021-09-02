@@ -35,9 +35,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 02 - [NitroPhone – “Most Secure Android on the Planet”](https://www.nitrokey.com/news/2021/nitrophone-most-secure-android-planet)
 - Sep 02 - [Show HN: HN Badges – Displays game-like badges for your HN profile](https://hnbadges.netlify.app/)
 - Sep 02 - [UK ISP Sky feeds realtime customer bandwidth data to litigous anti-piracy firm](https://torrentfreak.com/sky-subscribers-piracy-habits-directly-help-premier-league-block-illegal-streams-210828/)
-- Sep 02 - [M1 MacBook Screen Crack Investigation](https://classlawdc.com/2021/08/04/m1-macbook-screen-crack-investigation/)
 - Sep 02 - [Stacker (YC S20) Is Hiring a Growth Engineer](https://apply.workable.com/stackerhq/j/ED8D9D7580/)
 - Sep 02 - [ListMonk – High performance, self-hosted newsletter and mailing list manager](https://github.com/knadh/listmonk)
 <!--END_SECTION:hn-->
