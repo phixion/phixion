@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 02 - [Gab.com’s Response to Congress](https://news.gab.com/2021/09/01/gab-coms-response-to-congress/)
+- Sep 02 - [The Australian federal government is planning to de-anonymize the internet](https://twitter.com/Alpha_Mind7/status/1433385841179643910)
 - Sep 02 - [Fuzzing 100 open source projects with OSS-Fuzz: lessons learned](https://adalogics.com/blog/fuzzing-100-open-source-projects-with-oss-fuzz)
 - Sep 02 - [Ruby Is Still a Diamond](https://medium.com/retention-science/ruby-is-still-a-diamond-b789d2661266)
 - Sep 02 - [Tesla is ordered to turn over Autopilot data to a federal safety agency](https://www.nytimes.com/2021/09/01/business/tesla-autopilot-investigation.html)
-- Sep 02 - [Mayor suggests Helsinki declare itself an English-language city](https://www.theguardian.com/world/2021/sep/02/mayor-suggests-helsinki-declare-english-language-city-finnish)
-- Sep 02 - [NuCypher (YC S16) Is Hiring Engineers](https://docs.google.com/document/d/1Ghcx8K78iwpWQ77mRUhtlWuVgpAsBz-iYUyNDdV2EBE/edit?usp=sharing)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
