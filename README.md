@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 02 - [YouTube Bans Sky News Australia for One Week over Misinformation[link mangled]](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ci)
 - Sep 02 - [Apple Watch production delayed as engineers wrestle with quality issues](https://asia.nikkei.com/Business/Technology/Apple-Watch-production-delayed-as-engineers-wrestle-with-quality-issues)
 - Sep 02 - [MadeWithML – A practical approach to learning production machine learning](https://github.com/GokuMohandas/MadeWithML)
 - Sep 02 - [Opendesktop.org – Libre Cloud Services](https://www.opendesktop.org/)
 - Sep 02 - [Apple to Allow Media Apps to Link to Own Websites for Payment Options](https://www.wsj.com/articles/apple-to-allow-spotify-other-media-apps-to-link-to-websites-for-payment-options-11630544101)
+- Sep 02 - [The World After Capital (2018)](https://worldaftercapital.org/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
