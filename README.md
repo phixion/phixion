@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 02 - [Ampro “Little Board” PC](https://www.retrotechnology.com/restore/ampro_lb.html)
+- Sep 02 - [Japan needs a lot more tech workers. Can it find a place for women?](https://www.japantimes.co.jp/news/2021/09/02/business/japan-tech-workers-women/)
 - Sep 02 - [You Need a Novelty Budget (2018)](https://shimweasel.com/2018/08/25/novelty-budgets)
 - Sep 02 - [Tomu – An ARM microprocessor which fits in your USB port](https://tomu.im/tomu.html)
 - Sep 02 - [94% of 36 AI systems evaluated were less accurate than a single radiologist](https://www.bmj.com/content/374/bmj.n1872)
-- Sep 02 - [How do modern zero-knowledge proofs, and PLONK specifically, work? (videos)](https://www.cryptologie.net/article/529/how-does-the-general-purpose-zero-knowledge-proof-system-plonk-work/)
-- Sep 02 - [Experiments on a $50 DIY air purifier you can make in 30s](https://dynomight.net/2020/12/15/some-real-data-on-a-DIY-box-fan-air-purifier/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
