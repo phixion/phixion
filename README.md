@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 02 - [Apple to Allow Spotify, Other Media Apps to Link to Websites for Payment Options](https://www.wsj.com/articles/apple-to-allow-spotify-other-media-apps-to-link-to-websites-for-payment-options-11630544101)
 - Sep 02 - [The World After Capital](https://worldaftercapital.org/)
-- Sep 02 - [The evolution of WebRTC 1.0. – Advancing WebRTC](https://blog.mozilla.org/webrtc/the-evolution-of-webrtc/)
+- Sep 02 - [The evolution of WebRTC 1.0 (2017)](https://blog.mozilla.org/webrtc/the-evolution-of-webrtc/)
 - Sep 02 - [Finley (YC W21) is hiring full-stack engineers to reimagine the capital markets](https://www.finleycms.com/careers/)
-- Sep 02 - [My co-founder was a worthless chump but I survived](https://smackeyacky.blogspot.com/2021/09/my-co-founder-was-worthless-chump-but-i.html)
-- Sep 02 - [Japan Fair Trade Commission Closes App Store Investigation](https://www.apple.com/newsroom/2021/09/japan-fair-trade-commission-closes-app-store-investigation/)
+- Sep 02 - [Old and photos of Bedouin nomads, 1898](https://rarehistoricalphotos.com/old-spectacular-photos-of-bedouin-nomads-1898/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
