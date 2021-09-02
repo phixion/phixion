@@ -35,9 +35,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 02 - [DPC hits WhatsApp Ireland with biggest fine of €225m](http://www.rte.ie/news/business/2021/0902/1244293-whatsapp-gdpr-ruling/)
+- Sep 02 - [Record €225m fine for WhatsApp Ireland over data protection breaches](http://www.rte.ie/news/business/2021/0902/1244293-whatsapp-gdpr-ruling/)
 - Sep 02 - [NitroPhone – Pixel 4a phone with GrapheneOS](https://www.nitrokey.com/news/2021/nitrophone-most-secure-android-planet)
-- Sep 02 - [California to open 5 natural gas plants to avoid blackouts](https://kmph.com/news/local/california-to-open-5-natural-gas-plants-to-avoid-blackouts)
+- Sep 02 - [California to open five natural gas plants to avoid blackouts](https://kmph.com/news/local/california-to-open-5-natural-gas-plants-to-avoid-blackouts)
 - Sep 02 - [Show HN: HN Badges – Displays game-like badges for your HN profile](https://hnbadges.netlify.app/)
 - Sep 02 - [UK ISP Sky feeds realtime customer bandwidth data to litigous anti-piracy firm](https://torrentfreak.com/sky-subscribers-piracy-habits-directly-help-premier-league-block-illegal-streams-210828/)
 <!--END_SECTION:hn-->
