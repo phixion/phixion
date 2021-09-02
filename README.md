@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 02 - [Weird Languages](http://www.paulgraham.com/weird.html)
+- Sep 02 - [Picturing Git: Conceptions and Misconceptions](https://www.biteinteractive.com/picturing-git-conceptions-and-misconceptions/)
 - Sep 02 - [European Payments Initiative (EPI)](https://www.epicompany.eu/)
 - Sep 02 - [NEC’s Forgotten FPUs](https://www.cpushack.com/2021/09/01/necs-forgotten-fpus/)
+- Sep 02 - [Locast’s free TV service shuts down after losing copyright ruling](https://arstechnica.com/tech-policy/2021/09/locasts-free-tv-service-is-in-peril-as-big-4-networks-win-copyright-ruling/)
 - Sep 02 - [The Universe Has Already Made Almost All the Stars It Will Ever Make](https://nautil.us/issue/104/harmony/the-universe-already-made-almost-all-the-stars-it-will-ever-make)
-- Sep 02 - [Tesla Model Y takes over Norway, pushes electric car sales to 72% market share](https://electrek.co/2021/09/02/tesla-model-y-takes-over-norway-electric-car-sales-market-share/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
