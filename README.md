@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Sep 02 - [Mayor suggests Helsinki declare itself an English-language city](https://www.theguardian.com/world/2021/sep/02/mayor-suggests-helsinki-declare-english-language-city-finnish)
 - Sep 02 - [NuCypher (YC S16) Is Hiring Engineers](https://docs.google.com/document/d/1Ghcx8K78iwpWQ77mRUhtlWuVgpAsBz-iYUyNDdV2EBE/edit?usp=sharing)
-- Sep 02 - [Irish data privacy watchdog fines WhatsApp 225 mln euros](https://www.reuters.com/technology/irish-data-privacy-watchdog-fines-whatsapp-225-mln-euros-2021-09-02/)
 - Sep 02 - [Record €225m fine for WhatsApp Ireland over data protection breaches](http://www.rte.ie/news/business/2021/0902/1244293-whatsapp-gdpr-ruling/)
 - Sep 02 - [NitroPhone – Pixel 4a phone with GrapheneOS](https://www.nitrokey.com/news/2021/nitrophone-most-secure-android-planet)
+- Sep 02 - [Show HN: HN Badges – Displays game-like badges for your HN profile](https://hnbadges.netlify.app/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
