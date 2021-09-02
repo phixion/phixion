@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 02 - [Ask HN: Aren't you terrified of Plaid account verification approach?](https://news.ycombinator.com/item?id=28389576)
 - Sep 02 - [M1 MacBook Screen Crack Investigation](https://classlawdc.com/2021/08/04/m1-macbook-screen-crack-investigation/)
 - Sep 02 - [Stacker (YC S20) Is Hiring a Growth Engineer](https://apply.workable.com/stackerhq/j/ED8D9D7580/)
 - Sep 02 - [ListMonk – High performance, self-hosted newsletter and mailing list manager](https://github.com/knadh/listmonk)
 - Sep 02 - [RFC 791: Internet Protocol (1981)](https://datatracker.ietf.org/doc/html/rfc791)
+- Sep 02 - [Show HN: A simple recording program with the ability to record the screen](https://github.com/akon47/ScreenRecorder)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
