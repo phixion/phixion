@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Sep 02 - [Security Analysis of Satisfyer Sex Toys](https://bananamafia.dev/post/satisfyer/)
 - Sep 02 - [The bias that makes innocent emails seem offensive](https://www.bbc.com/worklife/article/20210830-why-emails-often-read-more-negative-than-they-actually-are)
+- Sep 02 - [FAA Investigates If It's Safer to Leave Cellphones On](https://spectrum.ieee.org/cellphones-turned-on-for-flight)
 - Sep 02 - [Chicken Scheme](https://call-cc.org/)
 - Sep 02 - [Show HN: A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
-- Sep 02 - [Hoover (Seal)](https://en.wikipedia.org/wiki/Hoover_(seal))
 <!--END_SECTION:hn-->
 
 ## GitHub activity
