@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 02 - [Stacker (YC S20) Is Hiring a Growth Engineer](https://apply.workable.com/stackerhq/j/ED8D9D7580/)
+- Sep 02 - [ListMonk – High performance, self-hosted newsletter and mailing list manager](https://github.com/knadh/listmonk)
+- Sep 02 - [Happy 40th IPv4, a.k.a. RFC 791](https://datatracker.ietf.org/doc/html/rfc791)
 - Sep 02 - [Show HN: It is a simple recording program with the ability to record the screen](https://github.com/akon47/ScreenRecorder)
 - Sep 02 - [Pong Circuit-Level Simulation](https://www.falstad.com/pong/vonly.html)
-- Sep 02 - [Apple Watch production delayed as engineers wrestle with quality issues](https://asia.nikkei.com/Business/Technology/Apple-Watch-production-delayed-as-engineers-wrestle-with-quality-issues)
-- Sep 02 - [MadeWithML – A practical approach to learning production machine learning](https://github.com/GokuMohandas/MadeWithML)
-- Sep 02 - [Opendesktop.org – Libre Cloud Services](https://www.opendesktop.org/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
