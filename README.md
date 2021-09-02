@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 02 - [Startup Cities and the Housing Crisis: The Only Way Out Is Up](https://profectusmag.com/startup-cities/)
+- Sep 02 - [An optimal algorithm for bounded random integers](https://github.com/apple/swift/pull/39143)
+- Sep 02 - [A grim warning from Israel: Vaccination blunts, but does not defeat Delta](https://www.science.org/news/2021/08/grim-warning-israel-vaccination-blunts-does-not-defeat-delta)
 - Sep 02 - [Ampro “Little Board” PC](https://www.retrotechnology.com/restore/ampro_lb.html)
 - Sep 02 - [Japan needs a lot more tech workers. Can it find a place for women?](https://www.japantimes.co.jp/news/2021/09/02/business/japan-tech-workers-women/)
-- Sep 02 - [You Need a Novelty Budget (2018)](https://shimweasel.com/2018/08/25/novelty-budgets)
-- Sep 02 - [Tomu – An ARM microprocessor which fits in your USB port](https://tomu.im/tomu.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
