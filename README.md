@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 02 - [Weird Languages](http://www.paulgraham.com/weird.html)
+- Sep 02 - [European Payments Initiative (EPI)](https://www.epicompany.eu/)
 - Sep 02 - [NEC’s Forgotten FPUs](https://www.cpushack.com/2021/09/01/necs-forgotten-fpus/)
+- Sep 02 - [The Universe Has Already Made Almost All the Stars It Will Ever Make](https://nautil.us/issue/104/harmony/the-universe-already-made-almost-all-the-stars-it-will-ever-make)
 - Sep 02 - [Tesla Model Y takes over Norway, pushes electric car sales to 72% market share](https://electrek.co/2021/09/02/tesla-model-y-takes-over-norway-electric-car-sales-market-share/)
-- Sep 02 - [Someone could be tracking you through your headphones](https://nrkbeta.no/2021/09/02/someone-could-be-tracking-you-through-your-headphones/)
-- Sep 02 - [The Australian federal government is planning to de-anonymize the internet](https://twitter.com/Alpha_Mind7/status/1433385841179643910)
-- Sep 02 - [Fuzzing open source projects with OSS-Fuzz](https://adalogics.com/blog/fuzzing-100-open-source-projects-with-oss-fuzz)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
