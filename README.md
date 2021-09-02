@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 02 - [Skio (YC S20, just raised $3.3m) is hiring founding engineers](https://skio.com/careers)
+- Sep 02 - [The iPhone 13 Does Not Have Satellite Internet, Band N53 and Globalstar](https://semianalysis.com/no-the-iphone-13-does-not-have-satellite-internet-band-n53-globalstar-gsat-explained/)
 - Sep 02 - [Exclusive-Reddit seeks to hire advisers for U.S. IPO](https://www.reuters.com/article/reddit-ipo/exclusive-reddit-seeks-to-hire-advisers-for-u-s-ipo-sources-idUSL4N2Q434Y)
 - Sep 02 - [GateBoy – a gate-level Game Boy simulator](https://github.com/aappleby/MetroBoy)
-- Sep 02 - [Startup Cities and the Housing Crisis: The Only Way Out Is Up](https://profectusmag.com/startup-cities/)
-- Sep 02 - [An optimal algorithm for bounded random integers](https://github.com/apple/swift/pull/39143)
-- Sep 02 - [Ampro “Little Board” PC](https://www.retrotechnology.com/restore/ampro_lb.html)
+- Sep 02 - [Amazon to remove more content that violates rules from cloud service – sources](https://www.reuters.com/technology/exclusive-amazon-proactively-remove-more-content-that-violates-rules-cloud-2021-09-02/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
