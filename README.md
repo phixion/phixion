@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 02 - [Exclusive-Reddit seeks to hire advisers for U.S. IPO](https://www.reuters.com/article/reddit-ipo/exclusive-reddit-seeks-to-hire-advisers-for-u-s-ipo-sources-idUSL4N2Q434Y)
+- Sep 02 - [GateBoy – a gate-level Game Boy simulator](https://github.com/aappleby/MetroBoy)
 - Sep 02 - [Startup Cities and the Housing Crisis: The Only Way Out Is Up](https://profectusmag.com/startup-cities/)
 - Sep 02 - [An optimal algorithm for bounded random integers](https://github.com/apple/swift/pull/39143)
-- Sep 02 - [A grim warning from Israel: Vaccination blunts, but does not defeat Delta](https://www.science.org/news/2021/08/grim-warning-israel-vaccination-blunts-does-not-defeat-delta)
 - Sep 02 - [Ampro “Little Board” PC](https://www.retrotechnology.com/restore/ampro_lb.html)
-- Sep 02 - [Japan needs a lot more tech workers. Can it find a place for women?](https://www.japantimes.co.jp/news/2021/09/02/business/japan-tech-workers-women/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
