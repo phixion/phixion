@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 02 - [How long can a democracy maintain emergency limits and still call itself free?](https://www.theatlantic.com/ideas/archive/2021/09/pandemic-australia-still-liberal-democracy/619940/)
-- Sep 02 - [Crew completes spaceship fit check ahead of all-private mission to orbit](https://spaceflightnow.com/2021/09/01/crew-completes-spaceship-fit-check-ahead-of-all-private-mission-to-orbit/)
-- Sep 02 - [I interviewed Brian J. Fox, the creator of Bash](https://podcast.curiefense.io/22)
-- Sep 02 - [Xiaomi Camera censoring German postal voting documents](https://www.reddit.com/r/Xiaomi/comments/pgk8y3/xiaomi_camera_censoring_german_postal_voting/)
-- Sep 02 - [How Computationally Complex Is a Single Neuron?](https://www.quantamagazine.org/how-computationally-complex-is-a-single-neuron-20210902/)
+- Sep 02 - [ReadMe (YC W15) is hiring a Product Marketer who loves developers](https://readme.com/careers#product-marketing-manager)
+- Sep 02 - [Who should your computer take its orders from? (2002)](https://www.gnu.org/philosophy/can-you-trust.en.html)
+- Sep 02 - [Ask HN: Do any discussion boards that aren't Facebook/Reddit still exist?](https://news.ycombinator.com/item?id=28394321)
+- Sep 02 - [Gift Card Gang Extracts Cash from 100k Inboxes Daily](https://krebsonsecurity.com/2021/09/gift-card-gang-extracts-cash-from-100k-inboxes-daily/)
+- Sep 02 - [Compressing high-dimensional vectors by 97%](https://www.pinecone.io/learn/product-quantization/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
