@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 02 - [China on the Cusp of a 'Profound Transformation'](https://asiatimes.com/2021/08/china-on-the-cusp-of-a-profound-transformation/)
-- Sep 02 - [Spring tears down math t-shirt listing because it dared to mention 'zeta'](https://www.theregister.com/2021/09/01/data_scientists_riemann_zeta_function/)
-- Sep 02 - [A Founder’s Exponential Toolset: Wright’s Law, Moore’s Law, & More](https://www.nfx.com/post/exponential-age/)
-- Sep 02 - [Picturing Git: Conceptions and Misconceptions](https://www.biteinteractive.com/picturing-git-conceptions-and-misconceptions/)
-- Sep 02 - [European Payments Initiative (EPI)](https://www.epicompany.eu/)
+- Sep 02 - [How long can a democracy maintain emergency limits and still call itself free?](https://www.theatlantic.com/ideas/archive/2021/09/pandemic-australia-still-liberal-democracy/619940/)
+- Sep 02 - [Crew completes spaceship fit check ahead of all-private mission to orbit](https://spaceflightnow.com/2021/09/01/crew-completes-spaceship-fit-check-ahead-of-all-private-mission-to-orbit/)
+- Sep 02 - [I interviewed Brian J. Fox, the creator of Bash](https://podcast.curiefense.io/22)
+- Sep 02 - [Xiaomi Camera censoring German postal voting documents](https://www.reddit.com/r/Xiaomi/comments/pgk8y3/xiaomi_camera_censoring_german_postal_voting/)
+- Sep 02 - [How Computationally Complex Is a Single Neuron?](https://www.quantamagazine.org/how-computationally-complex-is-a-single-neuron-20210902/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
