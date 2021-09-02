@@ -2,7 +2,7 @@ name: wakapi.dev statistics
 on:
   schedule:
     # Every Monday
-    - cron: "*/15 * * * *"
+    - cron: "0 0 * * MON"
 jobs:
   build:
     name: Update this repo's README with wakapi.dev statistics
