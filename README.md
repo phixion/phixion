@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 03 - [Tesorio (YC S15) is hiring – join our fully distributed fintech team](https://www.tesorio.com/careers#job-openings)
 - Sep 03 - [Vacation isn’t the answer to employee burnout](https://technical.ly/2021/08/30/vacation-employee-burnout/)
 - Sep 03 - [Stanford researchers develop an engineered 'mini' CRISPR genome editing system](https://news.stanford.edu/2021/09/03/researchers-develop-hypercompact-crispr/)
-- Sep 03 - [US Air Force chief software officer quits](https://www.theregister.com/2021/09/03/usaf_chief_software_officer_quits_angry_post/)
+- Sep 03 - [The Unsuccessful Treatment of a Case of “Writer's Block” (1974) [pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1311997/pdf/jaba00061-0143a.pdf)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
