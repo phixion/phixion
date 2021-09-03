@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 03 - [In 2017, I interviewed with Elizabeth Holmes to be Head of Finance at Theranos](https://twitter.com/jonwu_/status/1433595857304055814)
 - Sep 03 - [Please don’t theme our apps](https://stopthemingmy.app/)
 - Sep 03 - [Renaissance executives agree to pay around $7B to settle dispute with IRS](https://www.reuters.com/article/renaissance-technologies-llc-irs/update-3-renaissance-executives-agree-to-pay-around-7-bln-to-settle-tax-dispute-with-irs-source-idUSL4N2Q43IN)
 - Sep 03 - [Keyboard Latency](https://danluu.com/keyboard-latency/)
 - Sep 03 - [U.S. labor agency investigating two complaints from Apple workers](https://www.reuters.com/technology/us-national-labor-relations-board-investigating-two-complaints-apple-workers-2021-09-02/)
-- Sep 03 - [Show HN: EvalRSS – A Social RSS Aggregator](https://www.evalrss.com/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
