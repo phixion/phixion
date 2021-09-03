@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 03 - [When the policeman becomes the criminal – how Cloudflare attacks my machines](https://kmitov.com/posts/when-the-policeman-becomes-the-criminal-how-cloudflare-attacks-my-machines/)
 - Sep 03 - [Google Chrome to remove detailed cookie and site data controls](https://lapcatsoftware.com/articles/chrome-cookie.html)
 - Sep 03 - [The Reactive Manifesto](https://www.reactivemanifesto.org/)
+- Sep 03 - [McDonald’s unreliable ice cream machines reportedly under FTC investigation](https://www.ktvu.com/news/mcdonalds-unreliable-ice-cream-machines-reportedly-under-ftc-investigation)
 - Sep 03 - [Hardest amorphous material can scratch even diamond](https://www.chemistryworld.com/news/hardest-amorphous-material-can-scratch-even-diamond/4014257.article)
-- Sep 03 - [Surgical masks reduce Covid-19 spread, large-scale Stanford study shows](https://med.stanford.edu/news/all-news/2021/09/surgical-masks-covid-19.html)
-- Sep 03 - [India’s DNA Covid vaccine is a world first – more are coming](https://www.nature.com/articles/d41586-021-02385-x)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
