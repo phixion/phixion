@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 03 - [GitHub Copilot Generated Insecure Code in 40% of Circumstances During Experiment](https://www.theinsaneapp.com/2021/09/github-copilot-generated-40-percent-insecure-code.html)
 - Sep 03 - [Operations is not Developer IT](https://matduggan.com/operations-is-not-developer-it/)
 - Sep 03 - [Apple Exploring RISC-V, Hiring RISC-V 'High Performance' Programmers](https://www.tomshardware.com/news/apple-looking-for-risc-v-programmers)
 - Sep 03 - [Designing Aero Snap (2009)](https://web.archive.org/web/20200211122709/https://docs.microsoft.com/en-us/archive/blogs/e7/designing-aero-snap)
 - Sep 03 - [A new way to detect ‘deepfake’ picture editing](https://www.lightbluetouchpaper.org/2021/06/07/a-new-way-to-detect-deepfake-picture-editing/)
-- Sep 03 - [Raycast (YC W20) Is Hiring macOS Engineers to Make Dev Teams More Productive](https://www.raycast.com/jobs/software-engineer-macos/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
