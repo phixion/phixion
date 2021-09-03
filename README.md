@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 03 - [Hardest amorphous material can scratch even diamond](https://www.chemistryworld.com/news/hardest-amorphous-material-can-scratch-even-diamond/4014257.article)
 - Sep 03 - [Surgical masks reduce Covid-19 spread, large-scale Stanford study shows](https://med.stanford.edu/news/all-news/2021/09/surgical-masks-covid-19.html)
+- Sep 03 - [Controlled Digital Lending](https://controlleddigitallending.org)
+- Sep 03 - [Traceroute(8) Gets Speed Boost](http://undeadly.org/cgi?action=article;sid=20210903094704)
 - Sep 03 - [The fungal mind: on the evidence for mushroom intelligence](https://psyche.co/ideas/the-fungal-mind-on-the-evidence-for-mushroom-intelligence)
-- Sep 03 - [Bionic Hand Provides Strength and Haptic Feedback](https://www.machinedesign.com/medical-design/video/21174228/bionic-hand-provides-strength-and-haptic-feedback)
-- Sep 03 - [Housing First [pdf]](https://www.hcd.ca.gov/grants-funding/active-funding/docs/housing-first-fact-sheet.pdf)
-- Sep 03 - [Runops (YC W21) Is Hiring a Developer That Enjoys Content Creation](https://news.ycombinator.com/item?id=28406679)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
