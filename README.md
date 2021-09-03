@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 03 - [Rust 2021 Celebration and Thanks](https://github.com/rust-lang/rust/issues/88623)
 - Sep 03 - [US Air Force chief software officer quits](https://www.theregister.com/2021/09/03/usaf_chief_software_officer_quits_angry_post/)
 - Sep 03 - [Pirating GPL Software](https://krisives.github.io/posts/pirating-gpl-software/)
 - Sep 03 - [The Unsuccessful Treatment of a Case of “Writer's Block” (1974) [pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1311997/pdf/jaba00061-0143a.pdf)
 - Sep 03 - [Mushroom Time-Lapses Are Filmed [video]](https://www.youtube.com/watch?v=5yq0_mqN97s)
-- Sep 03 - [Google Chrome to remove detailed cookie and site data controls](https://lapcatsoftware.com/articles/chrome-cookie.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
