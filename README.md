@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 03 - [RNA breakthrough creates crops that can grow 50 percent more potatoes, rice](https://www.sciencedaily.com/releases/2021/07/210722112953.htm)
+- Sep 03 - [Apple delays rollout of CSAM detection system and child safety features](https://9to5mac.com/2021/09/03/apple-delays-csam-detection-feature/)
+- Sep 03 - [Apple delays controversial plan to scan iPhones for child exploitation images](https://www.cnbc.com/2021/09/03/apple-delays-controversial-plan-to-scan-iphones-for-child-exploitation-images.html)
 - Sep 03 - [Amazon “may be the largest unregulated pawnshop on the face of the planet”](https://www.wsj.com/articles/cvs-home-depot-theft-organized-crime-11630505851)
 - Sep 03 - [Apple Delaying Rollout of Controversial Child Safety Features](https://www.macrumors.com/2021/09/03/apple-delaying-rollout-of-child-safety-features/)
-- Sep 03 - [OpenMoji: Open-source emojis for designers, developers and everyone else](https://openmoji.org)
-- Sep 03 - [Poll Everywhere (YC S08) Is Hiring Product Designers](https://bookface.ycombinator.com/company/282/jobs/46181)
-- Sep 03 - [Windows 11: a survey of text boxes](https://sjmulder.nl/2021/textboxes/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
