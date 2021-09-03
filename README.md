@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 03 - [Amazon “may be the largest unregulated pawnshop on the face of the planet”](https://www.wsj.com/articles/cvs-home-depot-theft-organized-crime-11630505851)
+- Sep 03 - [Apple Delaying Rollout of Controversial Child Safety Features](https://www.macrumors.com/2021/09/03/apple-delaying-rollout-of-child-safety-features/)
+- Sep 03 - [OpenMoji: Open-source emojis for designers, developers and everyone else](https://openmoji.org)
 - Sep 03 - [Poll Everywhere (YC S08) Is Hiring Product Designers](https://bookface.ycombinator.com/company/282/jobs/46181)
 - Sep 03 - [Windows 11: a survey of text boxes](https://sjmulder.nl/2021/textboxes/)
-- Sep 03 - [Take-Two Sues Enthusiasts Behind GTA Fan Projects Re3 and ReVC](https://torrentfreak.com/take-two-sues-enthusiasts-behind-gta-fan-projects-re3-revc-210903/)
-- Sep 03 - [GitHub Copilot Generated Insecure Code in 40% of Circumstances During Experiment](https://www.theinsaneapp.com/2021/09/github-copilot-generated-40-percent-insecure-code.html)
-- Sep 03 - [Operations is not Developer IT](https://matduggan.com/operations-is-not-developer-it/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
