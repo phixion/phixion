@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 03 - [Mushroom Cultivation Automation, Full DIY from Foraging to Fruiting](https://www.youtube.com/watch?v=z41Wy5ZF4O8)
+- Sep 03 - [Mushroom Cultivation Automation [video]](https://www.youtube.com/watch?v=z41Wy5ZF4O8)
 - Sep 03 - [Why can an ad break the Windows 11 desktop and taskbar?](https://www.ctrl.blog/entry/windows11-empty-taskbar.html)
 - Sep 03 - [The NSA's Backdoor in Dual EC](https://twitter.com/matthew_d_green/status/1433470109742518273)
 - Sep 03 - [RNA breakthrough creates crops that can grow 50 percent more potatoes, rice](https://www.sciencedaily.com/releases/2021/07/210722112953.htm)
