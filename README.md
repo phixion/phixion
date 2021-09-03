@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 03 - [Runops (YC W21) Is Hiring a Developer That Enjoys Content Creation](https://news.ycombinator.com/item?id=28406679)
 - Sep 03 - [Mass exploitation of Atlassian Confluence CVE-2021-26084](https://twitter.com/CNMF_CyberAlert/status/1433787671785185283)
 - Sep 03 - [US Patent Office Report concludes software piracy increases innovation](https://www.uspto.gov/ip-policy/economic-research/publications/working-papers)
 - Sep 03 - [MIT Mathlets](https://mathlets.org/mathlets/)
 - Sep 03 - [You’ve Never Seen the Opioid Crisis Like This Before: A Review of Empire of Pain](https://nursingclio.org/2021/08/12/youve-never-seen-the-opioid-crisis-like-this-before-a-review-of-empire-of-pain/)
-- Sep 03 - [Gitpod shipped GitHub a launch cake for Codespaces](https://www.gitpod.io/blog/cake)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
