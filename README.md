@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 03 - [Show HN: EvalRSS – A Social RSS Aggregator](https://www.evalrss.com/)
 - Sep 03 - [Pavel Durov: Most studies show humanity is now less free than several years ago](https://t.me/durov/165)
 - Sep 03 - [Awesome Lattice FPGA Boards](https://github.com/kelu124/awesome-latticeFPGAs)
 - Sep 03 - [DARPA Developed Nonsurgical Brain Interfaces to Control Drones Using Thoughts](https://idstch.com/technology/biosciences/darpa-n3-developing-nonsurgical-brain-machine-interfaces-for-soldiers-to-use-his-thoughts-alone-to-control-multiple-unmanned-vehicles-or-a-bomb-disposal-robot-on-battlefield/)
 - Sep 02 - [Security Analysis of Satisfyer Sex Toys](https://bananamafia.dev/post/satisfyer/)
-- Sep 02 - [Chicken Scheme](https://call-cc.org/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
