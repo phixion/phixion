@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 03 - [Keyboard Latency](https://danluu.com/keyboard-latency/)
 - Sep 03 - [U.S. labor agency investigating two complaints from Apple workers](https://www.reuters.com/technology/us-national-labor-relations-board-investigating-two-complaints-apple-workers-2021-09-02/)
 - Sep 03 - [Show HN: EvalRSS – A Social RSS Aggregator](https://www.evalrss.com/)
-- Sep 03 - [DARPA Developed Nonsurgical Brain Interfaces to Control Drones Using Thoughts](https://idstch.com/technology/biosciences/darpa-n3-developing-nonsurgical-brain-machine-interfaces-for-soldiers-to-use-his-thoughts-alone-to-control-multiple-unmanned-vehicles-or-a-bomb-disposal-robot-on-battlefield/)
+- Sep 03 - [Wildfire in the Western United States: Past, Present, and Future](https://storymaps.arcgis.com/stories/bb7fe74c1f9f4fec8910a1b39e1c42ff)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
