@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 03 - [Mass exploitation of Atlassian Confluence CVE-2021-26084](https://twitter.com/CNMF_CyberAlert/status/1433787671785185283)
+- Sep 03 - [US Patent Office Report concludes software piracy increases innovation](https://www.uspto.gov/ip-policy/economic-research/publications/working-papers)
+- Sep 03 - [MIT Mathlets](https://mathlets.org/mathlets/)
+- Sep 03 - [You’ve Never Seen the Opioid Crisis Like This Before: A Review of Empire of Pain](https://nursingclio.org/2021/08/12/youve-never-seen-the-opioid-crisis-like-this-before-a-review-of-empire-of-pain/)
 - Sep 03 - [Gitpod shipped GitHub a launch cake for Codespaces](https://www.gitpod.io/blog/cake)
-- Sep 03 - [Rejected Internal Job Applicants Are Twice as Likely to Quit](https://news.cornell.edu/stories/2021/08/rejected-internal-applicants-twice-likely-quit)
-- Sep 03 - [Aspect 128 AVR-based ZX Spectrum Personal computer](http://radio-hobby.org/modules/news/article.php?storyid=1247)
-- Sep 03 - [Mushroom Cultivation Automation [video]](https://www.youtube.com/watch?v=z41Wy5ZF4O8)
-- Sep 03 - [Why can an ad break the Windows 11 desktop and taskbar?](https://www.ctrl.blog/entry/windows11-empty-taskbar.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
