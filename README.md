@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 03 - [Amazon’s answer to delivery driver shortage: Pot smokers](https://www.latimes.com/business/technology/story/2021-09-01/amazons-answer-to-delivery-driver-shortage-recruit-pot-smokers)
+- Sep 03 - [UBS CEO: Those who don’t want the vaccine can work from home](https://remoteclan.com/s/vdktrc/ubs_ceo_s_new_remote_work_policy_those_who)
 - Sep 03 - [Poll Everywhere (YC S08) Is Hiring Product Designers](https://bookface.ycombinator.com/company/282/jobs/46181)
 - Sep 03 - [Take-Two Sues Enthusiasts Behind GTA Fan Projects Re3 and ReVC](https://torrentfreak.com/take-two-sues-enthusiasts-behind-gta-fan-projects-re3-revc-210903/)
 - Sep 03 - [GitHub Copilot Generated Insecure Code in 40% of Circumstances During Experiment](https://www.theinsaneapp.com/2021/09/github-copilot-generated-40-percent-insecure-code.html)
-- Sep 03 - [Operations is not Developer IT](https://matduggan.com/operations-is-not-developer-it/)
-- Sep 03 - [Visual Studio Code now available as Web based editor for GitHub repos](https://docs.github.com/en/codespaces/developing-in-codespaces/web-based-editor)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
