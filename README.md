@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 03 - [Staggering US wealth inequality heaps long-term harm on to minority children](https://www.theguardian.com/inequality/2021/sep/02/us-wealth-inequality-black-hispanic-children)
+- Sep 03 - [Rejected Internal Job Applicants Are Twice as Likely to Quit](https://news.cornell.edu/stories/2021/08/rejected-internal-applicants-twice-likely-quit)
+- Sep 03 - [Aspect 128 AVR-based ZX Spectrum Personal computer](http://radio-hobby.org/modules/news/article.php?storyid=1247)
 - Sep 03 - [Mushroom Cultivation Automation [video]](https://www.youtube.com/watch?v=z41Wy5ZF4O8)
 - Sep 03 - [Why can an ad break the Windows 11 desktop and taskbar?](https://www.ctrl.blog/entry/windows11-empty-taskbar.html)
-- Sep 03 - [The NSA's Backdoor in Dual EC](https://twitter.com/matthew_d_green/status/1433470109742518273)
-- Sep 03 - [RNA breakthrough creates crops that can grow 50 percent more potatoes, rice](https://www.sciencedaily.com/releases/2021/07/210722112953.htm)
-- Sep 03 - [Retailers are spending millions to combat organized theft from stores](https://www.wsj.com/articles/cvs-home-depot-theft-organized-crime-11630505851)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
