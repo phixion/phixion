@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 03 - [Renaissance executives agree to pay around $7B to settle dispute with IRS](https://www.reuters.com/article/renaissance-technologies-llc-irs/update-3-renaissance-executives-agree-to-pay-around-7-bln-to-settle-tax-dispute-with-irs-source-idUSL4N2Q43IN)
+- Sep 03 - [Keyboard Latency](https://danluu.com/keyboard-latency/)
 - Sep 03 - [U.S. labor agency investigating two complaints from Apple workers](https://www.reuters.com/technology/us-national-labor-relations-board-investigating-two-complaints-apple-workers-2021-09-02/)
 - Sep 03 - [Show HN: EvalRSS – A Social RSS Aggregator](https://www.evalrss.com/)
-- Sep 03 - [Pavel Durov: Most studies show humanity is now less free than several years ago](https://t.me/durov/165)
-- Sep 03 - [Awesome Lattice FPGA Boards](https://github.com/kelu124/awesome-latticeFPGAs)
+- Sep 03 - [DARPA Developed Nonsurgical Brain Interfaces to Control Drones Using Thoughts](https://idstch.com/technology/biosciences/darpa-n3-developing-nonsurgical-brain-machine-interfaces-for-soldiers-to-use-his-thoughts-alone-to-control-multiple-unmanned-vehicles-or-a-bomb-disposal-robot-on-battlefield/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
