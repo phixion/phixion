@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 03 - [Designing Aero Snap (2009)](https://web.archive.org/web/20200211122709/https://docs.microsoft.com/en-us/archive/blogs/e7/designing-aero-snap)
 - Sep 03 - [A new way to detect ‘deepfake’ picture editing](https://www.lightbluetouchpaper.org/2021/06/07/a-new-way-to-detect-deepfake-picture-editing/)
 - Sep 03 - [Raycast (YC W20) Is Hiring macOS Engineers to Make Dev Teams More Productive](https://www.raycast.com/jobs/software-engineer-macos/)
 - Sep 03 - [Show HN: A tool for your learning, like Anki and Notion in one](https://notegarden.web.app/)
 - Sep 03 - [Show HN: AI powered meme search, open-source](http://examples.jina.ai:8501/)
-- Sep 03 - [Keyboard Latency (2017)](https://danluu.com/keyboard-latency/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
