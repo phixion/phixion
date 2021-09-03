@@ -35,8 +35,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 03 - [The NSA's Backdoor in Dual EC](https://twitter.com/matthew_d_green/status/1433470109742518273)
 - Sep 03 - [Apple to Delay iPhone Update That Could Scan Device for Illegal Content](https://www.wsj.com/articles/apple-to-delay-iphone-update-that-could-scan-device-for-illegal-content-11630676309)
-- Sep 03 - [Perusing the People’s Computing Company](https://hackaday.com/2021/09/02/perusing-the-peoples-computing-company/)
 - Sep 03 - [RNA breakthrough creates crops that can grow 50 percent more potatoes, rice](https://www.sciencedaily.com/releases/2021/07/210722112953.htm)
 - Sep 03 - [Retailers are spending millions to combat organized theft from stores](https://www.wsj.com/articles/cvs-home-depot-theft-organized-crime-11630505851)
 - Sep 03 - [Apple Delays Rollout of Child Safety Features](https://www.macrumors.com/2021/09/03/apple-delaying-rollout-of-child-safety-features/)
