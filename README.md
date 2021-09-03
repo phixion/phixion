@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 03 - [Surgical masks reduce Covid-19 spread, large-scale Stanford study shows](https://med.stanford.edu/news/all-news/2021/09/surgical-masks-covid-19.html)
+- Sep 03 - [Bionic Hand Provides Strength and Haptic Feedback](https://www.machinedesign.com/medical-design/video/21174228/bionic-hand-provides-strength-and-haptic-feedback)
+- Sep 03 - [Housing First [pdf]](https://www.hcd.ca.gov/grants-funding/active-funding/docs/housing-first-fact-sheet.pdf)
 - Sep 03 - [Runops (YC W21) Is Hiring a Developer That Enjoys Content Creation](https://news.ycombinator.com/item?id=28406679)
 - Sep 03 - [PC-86-DOS](https://www.os2museum.com/wp/pc-86-dos/)
-- Sep 03 - [Mass exploitation of Atlassian Confluence CVE-2021-26084](https://twitter.com/CNMF_CyberAlert/status/1433787671785185283)
-- Sep 03 - [Software Piracy and IP Management: Strategic Responses to Imitation](https://www.uspto.gov/ip-policy/economic-research/publications/working-papers)
-- Sep 03 - [Ask HN: What type of personal NAS would you recommend?](https://news.ycombinator.com/item?id=28405695)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
