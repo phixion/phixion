@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 03 - [Piracy Is Progressive Taxation](https://www.oreilly.com/content/piracy-is-progressive-taxation-and-other-thoughts-on-the-evolution-of-online-distribution/)
 - Sep 03 - [When the policeman becomes the criminal – how Cloudflare attacks my machines](https://kmitov.com/posts/when-the-policeman-becomes-the-criminal-how-cloudflare-attacks-my-machines/)
-- Sep 03 - [Google Chrome to remove detailed cookie and site data controls](https://lapcatsoftware.com/articles/chrome-cookie.html)
-- Sep 03 - [The Reactive Manifesto](https://www.reactivemanifesto.org/)
-- Sep 03 - [McDonald’s unreliable ice cream machines reportedly under FTC investigation](https://www.ktvu.com/news/mcdonalds-unreliable-ice-cream-machines-reportedly-under-ftc-investigation)
-- Sep 03 - [Hardest amorphous material can scratch even diamond](https://www.chemistryworld.com/news/hardest-amorphous-material-can-scratch-even-diamond/4014257.article)
+- Sep 03 - [Pirating GPL Software](https://krisives.github.io/posts/pirating-gpl-software/)
+- Sep 03 - [The Unsuccessful Treatment of a Case of “Writer's Block” (1974) [pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1311997/pdf/jaba00061-0143a.pdf)
+- Sep 03 - [Mushroom Time-Lapses Are Filmed [video]](https://www.youtube.com/watch?v=5yq0_mqN97s)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
