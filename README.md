@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 03 - [A wake-up call for iPhone users – it's time to go](https://www.fsf.org/news/a-wake-up-call-for-iphone-users-its-time-to-go)
+- Sep 03 - [U.S. labor agency investigating two complaints from Apple workers](https://www.reuters.com/technology/us-national-labor-relations-board-investigating-two-complaints-apple-workers-2021-09-02/)
 - Sep 03 - [Show HN: EvalRSS – A Social RSS Aggregator](https://www.evalrss.com/)
 - Sep 03 - [Pavel Durov: Most studies show humanity is now less free than several years ago](https://t.me/durov/165)
 - Sep 03 - [Awesome Lattice FPGA Boards](https://github.com/kelu124/awesome-latticeFPGAs)
