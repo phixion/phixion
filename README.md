@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 04 - [Smarking (YC W15) Is Hiring Head of Eng to digitize $655B parking industry](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
+- Sep 04 - [Fish eyes grown in a petri dish from embryonic stem cells](https://phys.org/news/2021-09-fish-eyes-grown-petri-dish.html)
 - Sep 04 - [WaterBear – Watch hundreds of award-winning documentaries for free](https://www.waterbear.com/)
 - Sep 04 - [A Brief, Fascinating History of Ambergris](https://www.smithsonianmag.com/science-nature/brief-fascinating-history-ambergris-180978517/)
 - Sep 04 - [Exploring fff part 1 – main](https://qmacro.org/autodidactics/2021/09/03/exploring-fff-part-1-main/)
-- Sep 04 - [Pint – A Python package to define, operate and manipulate physical quantities](https://pint.readthedocs.io/en/stable/)
-- Sep 04 - [Generally Intelligent (YC S17) Looking for Machine Learning Research Engineers](https://www.ycombinator.com/companies/generally-intelligent/jobs/x7wiRgJfa-machine-learning-research-engineer-full-time-sf)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
