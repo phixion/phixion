@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 04 - [Dover (YC S19) just raised $20m and is hiring for all roles](https://dover.com/careers)
+- Sep 04 - [Kubescape](https://github.com/armosec/kubescape)
+- Sep 04 - [Say No to Smoke Detectors](https://www.saynotosmokedetectors.com/)
 - Sep 04 - [Before Rosa Parks, There Was Claudette Colvin (2009)](https://www.npr.org/2009/03/15/101719889/before-rosa-parks-there-was-claudette-colvin)
-- Sep 04 - [Italy Seeks to Shield Supercars from Combustion Engine Ban](https://www.bloombergquint.com/politics/italy-seeks-to-shield-supercar-maker-from-combustion-engine-ban)
-- Sep 04 - [Pollen – A library of CSS variables inspired by TailwindCSS](https://www.pollen.style/)
-- Sep 04 - [AMD Patent Proposes Teleportation to Make Quantum Computing More Efficient](https://www.tomshardware.com/news/amd-teleportation-quantum-computing-patent)
-- Sep 04 - [Zorin OS 16 is what a Linux desktop distribution should be](https://www.techrepublic.com/article/zorinos-16-is-exactly-what-a-linux-desktop-distribution-should-be/)
+- Sep 04 - [New NTFS Read-Write Driver from Paragon Merged to Linux Kernel](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=f7464060f7ab9a2424428008f0ee9f1e267e410f)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
