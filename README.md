@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 04 - [An Epidemic of Wage Theft Is Costing Workers Hundreds of Millions a Year](https://www.epi.org/publication/epidemic-wage-theft-costing-workers-hundreds/)
 - Sep 04 - [New Texas Abortion Law Likely to Unleash a Torrent of Lawsuits Against Education](https://www.eff.org/deeplinks/2021/09/new-texas-abortion-law-likely-unleash-torrent-lawsuits-against-online-education)
 - Sep 04 - [Bitwarden is now in Arch Linux community repository](https://archlinux.org/packages/community/x86_64/bitwarden)
+- Sep 04 - [OpenAI Sold its Soul for $1B](https://onezero.medium.com/openai-sold-its-soul-for-1-billion-cf35ff9e8cd4)
 - Sep 04 - [Dime (YC S21) is hiring a full time software engineer](https://www.ycombinator.com/companies/dime/jobs/Syx4e1Y-full-time-engineer-3-employee-at-dime)
-- Sep 04 - [The Age of the Essay (2004)](http://paulgraham.com/essay.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
