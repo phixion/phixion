@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 04 - [They saw a YouTube video. Then they got Tourette’s](https://www.wired.co.uk/article/tourettes-youtube-jan-zimmermann)
+- Sep 04 - [Y Combinator's Demo Day loses luster](https://www.axios.com/y-combinators-demo-day-loses-luster-fe34966b-062c-4591-af9a-3eabb4237571.html)
+- Sep 04 - [Many young people diagnosed with Tourette’s after watching a YouTube channel](https://www.wired.co.uk/article/tourettes-youtube-jan-zimmermann)
+- Sep 04 - [The Invisible Rulebooks](https://rolltop-indigo.blogspot.com/2018/05/the-invisible-rulebooks.html?)
 - Sep 04 - [Kei Car](https://en.wikipedia.org/wiki/Kei_car)
 - Sep 04 - [GoDaddy Is Giving Texas Abortion Snitching Site the Boot](https://gizmodo.com/godaddy-is-giving-texas-abortion-snitching-site-the-boo-1847616447)
-- Sep 04 - [Smarking (YC W15) Is Hiring Head of Eng to digitize $655B parking industry](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
-- Sep 04 - [The Golden Age of Quantum Physics (1927)](https://www.privatdozent.co/p/the-golden-age-of-quantum-physics-ff7)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
