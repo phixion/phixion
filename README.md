@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 04 - [Ask HN: How much is Google collecting and keeping on Android if not signed in?](https://news.ycombinator.com/item?id=28419727)
+- Sep 04 - [Ask HN: What do you think of System76?](https://news.ycombinator.com/item?id=28419456)
 - Sep 04 - [Dover (YC S19) is hiring for all roles](https://dover.com/careers)
 - Sep 04 - [Kubescape - first open-source tool to test K8s according to NSA and CISA](https://github.com/armosec/kubescape)
 - Sep 04 - [How you can track your personal finances using Python](https://sgoel.dev/posts/how-you-can-track-your-personal-finances-using-python/)
-- Sep 04 - [Lyft, Uber lash out at legal threat from strict Texas abortion law](https://www.cbc.ca/news/world/texas-abortion-ban-lyft-uber-fight-back-1.6165045)
-- Sep 04 - [New NTFS Read-Write Driver from Paragon Merged to Linux Kernel](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=f7464060f7ab9a2424428008f0ee9f1e267e410f)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
