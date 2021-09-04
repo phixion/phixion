@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 04 - [MIT CSAIL network design principles](https://tig.csail.mit.edu/network-wireless/wireless-design/)
 - Sep 04 - [How to build silos and decrease collaboration (on purpose)](https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/)
 - Sep 04 - [Migrating to Next.js from React.js](https://nextjs.org/docs/migrating/from-create-react-app)
 - Sep 04 - [Shlinkedin – Satirical Social Network](https://www.shlinkedin.com/)
 - Sep 04 - [Neurocracy](https://neurocracy.site/)
-- Sep 04 - [A nasty bit of undefined timezone behavior in Golang](https://www.dolthub.com/blog/2021-09-03-golang-time-bugs/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
