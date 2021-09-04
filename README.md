@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 04 - [ERs are backed up with ivermectin overdoses while gunshot victims wait: Oklahoma](https://www.insider.com/oklahomas-emergency-rooms-are-clogged-with-people-overdosing-on-ivermectin-2021-9)
+- Sep 04 - [ER backed up with ivermectin overdosers while gunshot victims wait: Oklahoma Dr.](https://www.insider.com/oklahomas-emergency-rooms-are-clogged-with-people-overdosing-on-ivermectin-2021-9)
 - Sep 04 - [uBlock Wiki](https://github.com/gorhill/uBlock/wiki)
 - Sep 04 - [MIT CSAIL network design principles](https://tig.csail.mit.edu/network-wireless/wireless-design/)
 - Sep 04 - [Delays Aren't Good Enough–Apple Must Abandon Its Surveillance Plans](https://www.eff.org/deeplinks/2021/09/delays-arent-good-enough-apple-must-abandon-its-surveillance-plans)
