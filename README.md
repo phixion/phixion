@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 04 - [Kei Car](https://en.wikipedia.org/wiki/Kei_car)
 - Sep 04 - [GoDaddy Is Giving Texas Abortion Snitching Site the Boot](https://gizmodo.com/godaddy-is-giving-texas-abortion-snitching-site-the-boo-1847616447)
 - Sep 04 - [Smarking (YC W15) Is Hiring Head of Eng to digitize $655B parking industry](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
-- Sep 04 - [Back Orifice (1998)](https://web.archive.org/web/20180715070715/http://www.cultdeadcow.com/tools/bo.html)
+- Sep 04 - [The Golden Age of Quantum Physics (1927)](https://www.privatdozent.co/p/the-golden-age-of-quantum-physics-ff7)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
