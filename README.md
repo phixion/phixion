@@ -35,9 +35,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 04 - [Bitwarden is now in Arch Linux community repository](https://archlinux.org/packages/community/x86_64/bitwarden)
 - Sep 04 - [Dime (YC S21) is hiring a full time software engineer](https://www.ycombinator.com/companies/dime/jobs/Syx4e1Y-full-time-engineer-3-employee-at-dime)
 - Sep 04 - [The Age of the Essay (2004)](http://paulgraham.com/essay.html)
-- Sep 04 - [Doctors and pharmacists ramp up calls for Americans to stop using ivermectin](https://www.adn.com/nation-world/2021/09/03/doctors-and-pharmacists-ramp-up-calls-for-americans-to-stop-using-ivermectin-to-treat-covid-19/)
 - Sep 04 - [Sweden Delivered the World’s First Fossil Fuel-Free Steel](https://www.forbes.com/sites/davidrvetter/2021/08/19/how-sweden-delivered-the-worlds-first-fossil-fuel-free-steel/)
 - Sep 04 - [Scotland Joins the Growing Global Movement Towards a Four-Day Workweek](https://www.forbes.com/sites/jackkelly/2021/09/03/scotland-joins-the-growing-global-movement-towards-a-four-day-workweek/)
 <!--END_SECTION:hn-->
