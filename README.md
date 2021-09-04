@@ -35,10 +35,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 04 - [Developer returns to game after 4 decades, discovers and fixes typo so it works](https://www.pcgamer.com/developer-returns-to-game-after-four-decades-discovers-and-fixes-typo-so-it-works/)
+- Sep 04 - [Writing Well-Documented Code – Learn from Examples](https://codecatalog.org/2021/09/04/well-documented-code.html)
 - Sep 04 - [Facebook Apologizes After A.I. Puts “Primates” Label on Video of Black Men](https://www.nytimes.com/2021/09/03/technology/facebook-ai-race-primates.html)
 - Sep 04 - [PayPal Mafia](https://en.wikipedia.org/wiki/PayPal_Mafia)
-- Sep 04 - [Y Combinator's Demo Day loses luster](https://www.axios.com/y-combinators-demo-day-loses-luster-fe34966b-062c-4591-af9a-3eabb4237571.html)
-- Sep 04 - [Many young people diagnosed with Tourette’s after watching a YouTube channel](https://www.wired.co.uk/article/tourettes-youtube-jan-zimmermann)
 - Sep 04 - [The Invisible Rulebooks](https://rolltop-indigo.blogspot.com/2018/05/the-invisible-rulebooks.html?)
 <!--END_SECTION:hn-->
 
