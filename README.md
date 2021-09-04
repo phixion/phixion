@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 04 - [How did American “wokeness” jump from elite schools to everyday life?](https://www.economist.com/briefing/2021/09/04/how-did-american-wokeness-jump-from-elite-schools-to-everyday-life)
+- Sep 04 - [A nasty bit of undefined timezone behavior in Golang](https://www.dolthub.com/blog/2021-09-03-golang-time-bugs/)
+- Sep 04 - [Forgetting My First Language](https://www.newyorker.com/culture/personal-history/forgetting-my-first-language)
 - Sep 04 - [uBlock Origin–everything you need to know about the ad blocker](https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/)
 - Sep 03 - [NoProto: Flexible, Fast and Compact Serialization with RPC](https://github.com/only-cliches/NoProto)
-- Sep 03 - [Tesorio (YC S15) is hiring – join our fully distributed fintech team](https://www.tesorio.com/careers#job-openings)
-- Sep 03 - [Vacation isn’t the answer to employee burnout](https://technical.ly/2021/08/30/vacation-employee-burnout/)
-- Sep 03 - [Stanford researchers develop an engineered 'mini' CRISPR genome editing system](https://news.stanford.edu/2021/09/03/researchers-develop-hypercompact-crispr/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
