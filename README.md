@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 04 - [Many young people diagnosed with Tourette’s after watching a YouTube channel](https://www.wired.co.uk/article/tourettes-youtube-jan-zimmermann)
 - Sep 04 - [The Invisible Rulebooks](https://rolltop-indigo.blogspot.com/2018/05/the-invisible-rulebooks.html?)
 - Sep 04 - [Kei Car](https://en.wikipedia.org/wiki/Kei_car)
-- Sep 04 - [GoDaddy Is Giving Texas Abortion Snitching Site the Boot](https://gizmodo.com/godaddy-is-giving-texas-abortion-snitching-site-the-boo-1847616447)
+- Sep 04 - [GoDaddy is booting a Texas anti-abortion site](https://gizmodo.com/godaddy-is-giving-texas-abortion-snitching-site-the-boo-1847616447)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
