@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 04 - [Shlinkedin – Satirical Social Network](https://www.shlinkedin.com/)
+- Sep 04 - [Neurocracy](https://neurocracy.site/)
 - Sep 04 - [A nasty bit of undefined timezone behavior in Golang](https://www.dolthub.com/blog/2021-09-03-golang-time-bugs/)
 - Sep 04 - [Forgetting My First Language](https://www.newyorker.com/culture/personal-history/forgetting-my-first-language)
 - Sep 04 - [uBlock Origin review](https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/)
-- Sep 03 - [NoProto: Flexible, Fast and Compact Serialization with RPC](https://github.com/only-cliches/NoProto)
-- Sep 03 - [Tesorio (YC S15) is hiring – join our fully distributed fintech team](https://www.tesorio.com/careers#job-openings)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
