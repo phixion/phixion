@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 04 - [uBlock Wiki](https://github.com/gorhill/uBlock/wiki)
 - Sep 04 - [MIT CSAIL network design principles](https://tig.csail.mit.edu/network-wireless/wireless-design/)
 - Sep 04 - [Delays aren't good enough–Apple must abandon its surveillance plans](https://www.eff.org/deeplinks/2021/09/delays-arent-good-enough-apple-must-abandon-its-surveillance-plans)
 - Sep 04 - [Faust: Functional programming language for sound synthesis and audio processing](https://faust.grame.fr/)
 - Sep 04 - [How to build silos and decrease collaboration (on purpose)](https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/)
+- Sep 04 - [Shlinkedin – Satirical Social Network](https://www.shlinkedin.com/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
