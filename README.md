@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 04 - [Italy Seeks to Shield Supercars from Combustion Engine Ban](https://www.bloombergquint.com/politics/italy-seeks-to-shield-supercar-maker-from-combustion-engine-ban)
 - Sep 04 - [AMD Patent Proposes Teleportation to Make Quantum Computing More Efficient](https://www.tomshardware.com/news/amd-teleportation-quantum-computing-patent)
 - Sep 04 - [Zorin OS 16 is what a Linux desktop distribution should be](https://www.techrepublic.com/article/zorinos-16-is-exactly-what-a-linux-desktop-distribution-should-be/)
 - Sep 04 - [Amtrak might add more than 50 new routes. But they won't be faster than a car](https://edition.cnn.com/2021/09/01/tech/amtrak-speed-trains/index.html)
 - Sep 04 - [Flowers Make a Nice Gift](https://www.echevarria.io/blog/flowers-make-a-nice-gift/index.html)
-- Sep 04 - [An Epidemic of Wage Theft Is Costing Workers Hundreds of Millions a Year](https://www.epi.org/publication/epidemic-wage-theft-costing-workers-hundreds/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
