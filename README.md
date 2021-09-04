@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 04 - [GoDaddy Is Giving Texas Abortion Snitching Site the Boot](https://gizmodo.com/godaddy-is-giving-texas-abortion-snitching-site-the-boo-1847616447)
 - Sep 04 - [Smarking (YC W15) Is Hiring Head of Eng to digitize $655B parking industry](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
 - Sep 04 - [Fish eyes grown in a petri dish from embryonic stem cells](https://phys.org/news/2021-09-fish-eyes-grown-petri-dish.html)
-- Sep 04 - [WaterBear – Watch hundreds of award-winning documentaries for free](https://www.waterbear.com/)
-- Sep 04 - [A Brief, Fascinating History of Ambergris](https://www.smithsonianmag.com/science-nature/brief-fascinating-history-ambergris-180978517/)
-- Sep 04 - [Exploring fff part 1 – main](https://qmacro.org/autodidactics/2021/09/03/exploring-fff-part-1-main/)
+- Sep 04 - [Back Orifice (1998)](https://web.archive.org/web/20180715070715/http://www.cultdeadcow.com/tools/bo.html)
+- Sep 04 - [WaterBear – A free library of documentaries and shorts](https://www.waterbear.com/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
