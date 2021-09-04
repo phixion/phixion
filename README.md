@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 04 - [PayPal Mafia](https://en.wikipedia.org/wiki/PayPal_Mafia)
 - Sep 04 - [Y Combinator's Demo Day loses luster](https://www.axios.com/y-combinators-demo-day-loses-luster-fe34966b-062c-4591-af9a-3eabb4237571.html)
 - Sep 04 - [Many young people diagnosed with Tourette’s after watching a YouTube channel](https://www.wired.co.uk/article/tourettes-youtube-jan-zimmermann)
 - Sep 04 - [The Invisible Rulebooks](https://rolltop-indigo.blogspot.com/2018/05/the-invisible-rulebooks.html?)
 - Sep 04 - [Kei Car](https://en.wikipedia.org/wiki/Kei_car)
-- Sep 04 - [GoDaddy is booting a Texas anti-abortion site](https://gizmodo.com/godaddy-is-giving-texas-abortion-snitching-site-the-boo-1847616447)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
