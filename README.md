@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 05 - [This measurement is more than 2,200 years old, and its accuracy is remarkable](https://www.abc.net.au/news/2021-09-05/eratosthenes-measured-circumference-of-the-earth-2200-years-ago/100434560)
+- Sep 05 - [Dutch cities want to ban property investors in all neighborhoods](https://nltimes.nl/2021/09/02/dutch-cities-want-ban-property-investors-neighborhoods)
+- Sep 05 - [Chekhov's Gun](https://en.wikipedia.org/wiki/Chekhov%27s_gun)
+- Sep 05 - [Is a self-driving car smarter than a seven-month-old?](https://www.economist.com/science-and-technology/is-it-smarter-than-a-seven-month-old/21804141)
 - Sep 05 - [Infracost (YC W21) Is Hiring a Software Engineer: Love Your Cloud Bills](https://www.ycombinator.com/companies/infracost/jobs/DGIz1Uv-software-engineer)
 - Sep 05 - [Analysis unlocks secret of the Vinland Map – it’s a fake](https://news.yale.edu/2021/09/01/analysis-unlocks-secret-vinland-map-its-fake)
-- Sep 05 - [Send Email Directly from JavaScript](https://www.emailjs.com/)
-- Sep 05 - [Your Phone Is Your Private Space](https://www.theatlantic.com/ideas/archive/2021/09/spyware-your-iphone-step-too-far-privacy/619987/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
