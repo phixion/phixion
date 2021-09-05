@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 05 - [Git-cliff: generate changelog files from the Git history](https://github.com/orhun/git-cliff)
 - Sep 05 - [Porter (YC S20) Is Hiring Front End Engineers](https://www.ycombinator.com/companies/porter/jobs/V5kia33-frontend-engineer)
 - Sep 05 - [Dogs distinguish human intentional and unintentional action](https://www.nature.com/articles/s41598-021-94374-3)
 - Sep 05 - [COVID-19 vaccine wastage data from the CDC](https://anonymousdata.medium.com/the-cdc-reported-11-3-million-wasted-covid-19-vaccine-doses-in-8-months-5bdff71a850a)
 - Sep 05 - [Arc – A P2P CDN that runs in the browser](https://arc.io)
-- Sep 05 - [JavaScript Anti Debugging – Some Next Level Shit](https://medium.com/@weizmangal/javascript-anti-debugging-some-next-level-sh-t-part-2-abusing-chromium-devtools-scope-pane-b2796c00331d)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
