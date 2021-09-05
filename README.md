@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 05 - [Today Sci-Hub is 10 years old. I'll publish 2,337,229 new articles to celebrate](https://twitter.com/ringo_ring/status/1434356217208623106)
 - Sep 05 - [Show HN: Relativity: A Modern Primer](http://ramp-book.com/)
 - Sep 05 - [SafeButler (YC S17) Is Hiring Content Marketing Associate](https://www.safebutler.com/careers)
-- Sep 05 - [Run GUI applications and desktops in Docker](https://github.com/mviereck/x11docker)
-- Sep 05 - [Plain Text Accounting Apps](https://plaintextaccounting.org/#plain-text-accounting-apps)
-- Sep 05 - [OpenWrt 21.02.0 Released](https://openwrt.org/releases/21.02/notes-21.02.0)
+- Sep 05 - [NETworkManager 2021.9.5.0 Released](https://github.com/BornToBeRoot/NETworkManager/releases/tag/2021.9.5.0)
+- Sep 05 - [Why is a Dollar like a Neanderthal](https://www.etymonline.com/columns/post/why-is-a-dollar-like-a-neanderthal)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
