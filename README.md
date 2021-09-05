@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 05 - [Dendron (YC W21) Is Hiring React/TS Expert to Build a Better Tool for Thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI.html)
+- Sep 05 - [It's not a labor shortage – it's a wage and workers rights shortage](https://thehill.com/opinion/finance/570441-its-not-a-labor-shortage-its-a-wage-and-worker-rights-shortage)
 - Sep 05 - [Ask HN: What could a modern database do that PostgreSQL and MySQL can't](https://news.ycombinator.com/item?id=28425379)
 - Sep 05 - [Juniper breach mystery starts to clear with new details on hackers and U.S. role](https://www.bloomberg.com/news/features/2021-09-02/juniper-mystery-attacks-traced-to-pentagon-role-and-chinese-hackers)
 - Sep 05 - [Fast Rust Builds](https://matklad.github.io/2021/09/04/fast-rust-builds.html)
-- Sep 05 - [Mikrocodesimulator MikroSim 2010 – The Ultimate CPU-Simulation Program](http://www.mikrocodesimulator.de/index_eng.php)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
