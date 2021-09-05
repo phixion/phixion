@@ -35,8 +35,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 05 - [Juniper breach mystery starts to clear with new details on hackers and U.S. role](https://www.bloomberg.com/news/features/2021-09-02/juniper-mystery-attacks-traced-to-pentagon-role-and-chinese-hackers)
 - Sep 05 - [Fast Rust Builds](https://matklad.github.io/2021/09/04/fast-rust-builds.html)
-- Sep 05 - [Edinburgh’s computer scientists banned from using Alice and Bob as too Western](https://www.telegraph.co.uk/news/2021/09/04/woke-wars-edinburghs-computer-scientists-banned-using-alice/)
 - Sep 05 - [Mikrocodesimulator MikroSim 2010 – The Ultimate CPU-Simulation Program](http://www.mikrocodesimulator.de/index_eng.php)
 - Sep 05 - [New Orleans levees passed their first major test](https://www.nationalgeographic.com/environment/article/new-orleans-levees-passed-their-first-major-test)
 - Sep 05 - [Incident: Airbus A330 at Taipei, primary computers failed on touchdown (2020)](https://avherald.com/h?article=4d97ca46&opt=0)
