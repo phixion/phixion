@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 05 - [Porter (YC S20) Is Hiring Front End Engineers](https://www.ycombinator.com/companies/porter/jobs/V5kia33-frontend-engineer)
 - Sep 05 - [Dogs distinguish human intentional and unintentional action](https://www.nature.com/articles/s41598-021-94374-3)
 - Sep 05 - [COVID-19 vaccine wastage data from the CDC](https://anonymousdata.medium.com/the-cdc-reported-11-3-million-wasted-covid-19-vaccine-doses-in-8-months-5bdff71a850a)
 - Sep 05 - [JavaScript Anti Debugging – Some Next Level Shit](https://medium.com/@weizmangal/javascript-anti-debugging-some-next-level-sh-t-part-2-abusing-chromium-devtools-scope-pane-b2796c00331d)
 - Sep 05 - [Dutch cities want to ban property investors in all neighborhoods](https://nltimes.nl/2021/09/02/dutch-cities-want-ban-property-investors-neighborhoods)
-- Sep 05 - [Who's downloading pirated papers? Everyone [2016]](https://www.science.org/lookup/doi/10.1126/science.352.6285.508)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
