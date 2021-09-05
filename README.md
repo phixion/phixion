@@ -36,7 +36,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 05 - [EasyPost (YC S13) is profitable and hiring](https://www.easypost.com/careers)
-- Sep 05 - [Ivermectin shows clinical benefits in mild to moderate COVID19: RCT double-blind](https://academic.oup.com/qjmed/advance-article/doi/10.1093/qjmed/hcab035/6143037)
+- Sep 05 - [Application of automotive alternators in small wind turbines](https://repository.tudelft.nl/islandora/object/uuid%3A60a3ca0e-25f0-4892-ae52-300dcb4443ab)
 - Sep 05 - [Climate activist arrested after ProtonMail provided his IP address](https://twitter.com/tenacioustek/status/1434604102676271106)
 - Sep 05 - [The moments that could have accidentally ended humanity](https://www.bbc.com/future/article/20210217-the-moments-that-we-could-have-destroyed-humanity)
 - Sep 05 - [Art student’s 407-piece hand-carved wooden clock (2016)](https://www.ablogtowatch.com/suzuki-kango-plock-wooden-automaton-time-writing-clock/)
