@@ -35,8 +35,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 04 - [200 Years Ago, Faraday Invented the Electric Motor](https://spectrum.ieee.org/200-years-ago-faraday-invented-the-electric-motor)
 - Sep 04 - [ANA, JAL plan drone services to boost remote areas, own bottom lines](https://mainichi.jp/english/articles/20210903/p2g/00m/0bu/040000c)
-- Sep 04 - [New San Francisco Initiative to Pay Individuals Not to Shoot Others](https://www.newsweek.com/new-san-francisco-initiative-pay-individuals-not-shoot-others-1624676)
 - Sep 04 - [Unearthing the City Grid That Would Have Been in Central Park (2016)](https://www.newyorker.com/news/news-desk/unearthing-the-city-grid-that-would-have-been-in-central-park)
 - Sep 04 - [Morse Code Palindromes](https://www.johndcook.com/blog/2021/09/04/morse-code-palindromes/)
 - Sep 04 - [Ask HN: How much is Google collecting and keeping on Android if not signed in?](https://news.ycombinator.com/item?id=28419727)
