@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Sep 05 - [Show HN: Relativity: A Modern Primer](http://ramp-book.com/)
 - Sep 05 - [SafeButler (YC S17) Is Hiring Content Marketing Associate](https://www.safebutler.com/careers)
+- Sep 05 - [NETworkManager 2021.9.5.0 Released](https://github.com/BornToBeRoot/NETworkManager/releases/tag/2021.9.5.0)
 - Sep 05 - [Plain Text Accounting Apps](https://plaintextaccounting.org/#plain-text-accounting-apps)
 - Sep 05 - [OpenWrt 21.02.0 Released](https://openwrt.org/releases/21.02/notes-21.02.0)
-- Sep 05 - [The Browser Interviews Applied Divinity Studies on Cultural Writing](https://thebrowser.com/notes/applied-divinity-studies/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
