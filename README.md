@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 05 - [Mikrocodesimulator MikroSim 2010 – The Ultimate CPU-Simulation Program](http://www.mikrocodesimulator.de/index_eng.php)
+- Sep 05 - [Regular exercisers drink more but are less likely to be problem drinkers – study](https://www.outsideonline.com/health/running/exercise-alcohol-research/)
 - Sep 05 - [Larry Page: “I think we should look into acquiring YouTube” (2005)](https://twitter.com/TechEmails/status/1433837480449613839)
 - Sep 05 - [Suture: A Ruby gem that helps you refactor your legacy code](https://github.com/testdouble/suture)
 - Sep 05 - [Increased risk of traffic accidents in subjects with latent toxoplasmosis (2002)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC117239/)
-- Sep 05 - [Make a Joule Thief](http://bigclive.com/joule.htm)
-- Sep 05 - [Git-cliff: generate changelog files from the Git history](https://github.com/orhun/git-cliff)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
