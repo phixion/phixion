@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 05 - [Show HN: Relativity: A Modern Primer](http://ramp-book.com/)
 - Sep 05 - [SafeButler (YC S17) Is Hiring Content Marketing Associate](https://www.safebutler.com/careers)
 - Sep 05 - [NETworkManager 2021.9.5.0 Released](https://github.com/BornToBeRoot/NETworkManager/releases/tag/2021.9.5.0)
-- Sep 05 - [Run GUI applications and desktops in Docker](https://github.com/mviereck/x11docker)
 - Sep 05 - [Plain Text Accounting Apps](https://plaintextaccounting.org/#plain-text-accounting-apps)
+- Sep 05 - [OpenWrt 21.02.0 Released](https://openwrt.org/releases/21.02/notes-21.02.0)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
