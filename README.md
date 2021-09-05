@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 05 - [Art Student’s 407-Piece Hand-Carved Wooden Clock Literally Writes the Time, 2016](https://www.ablogtowatch.com/suzuki-kango-plock-wooden-automaton-time-writing-clock/)
+- Sep 05 - [Climate activist arrested after ProtonMail provided his IP address](https://twitter.com/tenacioustek/status/1434604102676271106)
+- Sep 05 - [The moments that could have accidentally ended humanity](https://www.bbc.com/future/article/20210217-the-moments-that-we-could-have-destroyed-humanity)
+- Sep 05 - [Art student’s 407-piece hand-carved wooden clock (2016)](https://www.ablogtowatch.com/suzuki-kango-plock-wooden-automaton-time-writing-clock/)
 - Sep 05 - [German government wants to support Tesla battery cell plant with 1.14B euros](https://news.in-24.com/business/151911.html)
 - Sep 05 - [On beaming solar power from low earth orbit](https://innovationfrontier.org/space-solar-power-an-extraterrestrial-energy-resource-for-the-u-s/)
-- Sep 05 - [Dendron (YC W21) Is Hiring React/TS Expert to Build a Better Tool for Thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI.html)
-- Sep 05 - [Juniper breach mystery starts to clear with new details on hackers and U.S. role](https://www.bloomberg.com/news/features/2021-09-02/juniper-mystery-attacks-traced-to-pentagon-role-and-chinese-hackers)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
