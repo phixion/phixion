@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 05 - [Analysis unlocks secret of the Vinland Map – it’s a fake](https://news.yale.edu/2021/09/01/analysis-unlocks-secret-vinland-map-its-fake)
+- Sep 05 - [Send Email Directly from JavaScript](https://www.emailjs.com/)
 - Sep 05 - [Your Phone Is Your Private Space](https://www.theatlantic.com/ideas/archive/2021/09/spyware-your-iphone-step-too-far-privacy/619987/)
 - Sep 05 - [Today Sci-Hub is 10 years old. I'll publish 2M new articles to celebrate](https://twitter.com/ringo_ring/status/1434356217208623106)
 - Sep 05 - [Show HN: Relativity: A Modern Primer](http://ramp-book.com/)
-- Sep 05 - [SafeButler (YC S17) Is Hiring Content Marketing Associate](https://www.safebutler.com/careers)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
