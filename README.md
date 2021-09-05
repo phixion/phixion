@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 05 - [Suture: A Ruby gem that helps you refactor your legacy code](https://github.com/testdouble/suture)
+- Sep 05 - [Increased risk of traffic accidents in subjects with latent toxoplasmosis (2002)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC117239/)
 - Sep 05 - [Make a Joule Thief](http://bigclive.com/joule.htm)
 - Sep 05 - [Git-cliff: generate changelog files from the Git history](https://github.com/orhun/git-cliff)
 - Sep 05 - [Progress on C23](https://thephd.dev/c-the-improvements-june-september-virtual-c-meeting)
-- Sep 05 - [Google introduces $50 4G smartphone to enable billions of people](https://www.globalvillagespace.com/google-introduces-50-4g-smartphone-to-enable-billions-of-people/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
