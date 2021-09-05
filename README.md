@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 05 - [Plain Text Accounting Apps](https://plaintextaccounting.org/#plain-text-accounting-apps)
+- Sep 05 - [OpenWrt 21.02.0 Released](https://openwrt.org/releases/21.02/notes-21.02.0)
+- Sep 05 - [The Browser Interviews Applied Divinity Studies on Cultural Writing](https://thebrowser.com/notes/applied-divinity-studies/)
+- Sep 05 - [BookWyrm Is the Federated Goodreads Replacement I Didn’t Know I Needed](https://wedistribute.org/2021/08/bookwyrm-is-the-federated-goodreads-replacement-i-didnt-know-i-needed/)
 - Sep 04 - [200 Years Ago, Faraday Invented the Electric Motor](https://spectrum.ieee.org/200-years-ago-faraday-invented-the-electric-motor)
-- Sep 04 - [ANA, JAL plan drone services to boost remote areas, own bottom lines](https://mainichi.jp/english/articles/20210903/p2g/00m/0bu/040000c)
-- Sep 04 - [Unearthing the City Grid That Would Have Been in Central Park (2016)](https://www.newyorker.com/news/news-desk/unearthing-the-city-grid-that-would-have-been-in-central-park)
-- Sep 04 - [Morse Code Palindromes](https://www.johndcook.com/blog/2021/09/04/morse-code-palindromes/)
-- Sep 04 - [Ask HN: How much is Google collecting and keeping on Android if not signed in?](https://news.ycombinator.com/item?id=28419727)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
