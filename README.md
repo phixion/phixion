@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 06 - [The mystery of Truman Capote's final novel](https://www.townandcountrymag.com/society/money-and-power/a36740693/truman-capote-la-cote-basque-scandal-answered-prayers-mystery/)
 - Sep 06 - [Keeper Tax (YC W19) is hiring an engineer in San Francisco](https://angel.co/l/2vLWVu)
 - Sep 06 - [Who Owns the US National Debt?](https://www.thebalance.com/who-owns-the-u-s-national-debt-3306124)
 - Sep 06 - [Greedy AI agents learn to cooperate](https://spectrum.ieee.org/reinforcement-learning)
 - Sep 06 - [The gloves are off, the pants are on](https://www.cold-takes.com/the-gloves-are-off-the-pants-are-on/)
-- Sep 06 - [Plans are useless, but planning is indispensable (2005)](https://www.pmi.org/learning/library/planning-process-indispensable-software-projects-7487)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
