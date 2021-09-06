@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 06 - [Keeper Tax (YC W19) is hiring an engineer in San Francisco](https://angel.co/l/2vLWVu)
 - Sep 06 - [Who Owns the US National Debt?](https://www.thebalance.com/who-owns-the-u-s-national-debt-3306124)
 - Sep 06 - [Greedy AI agents learn to cooperate](https://spectrum.ieee.org/reinforcement-learning)
+- Sep 06 - [The gloves are off, the pants are on](https://www.cold-takes.com/the-gloves-are-off-the-pants-are-on/)
 - Sep 06 - [Plans are useless, but planning is indispensable (2005)](https://www.pmi.org/learning/library/planning-process-indispensable-software-projects-7487)
-- Sep 06 - [Ode to the Clamshell iBook G3 – a.k.a. “The Toiletseat”](https://lunduke.substack.com/p/ode-to-the-clamshell-ibook-g3-aka)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
