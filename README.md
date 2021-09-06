@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 06 - [GitHub Codespaces vs. Gitpod: Choosing the Best Online Code Editor](https://hackernoon.com/github-codespaces-vs-gitpod-choosing-the-best-online-code-editor)
 - Sep 06 - [Show HN: Postgres Docker image with common extensions](https://github.com/supabase/postgres)
 - Sep 06 - [Code Runs on People](https://rachelbythebay.com/w/2021/09/05/clever/)
-- Sep 06 - [Roadrunner Blocked by U.S. Border Wall Wins Best Bird Photo of 2021](https://petapixel.com/2021/09/01/roadrunner-blocked-by-u-s-border-wall-wins-best-bird-photo-of-2021/)
-- Sep 06 - [Media trust hits new low](https://axios.com/media-trust-crisis-2bf0ec1c-00c0-4901-9069-e26b21c283a9.html)
 - Sep 06 - [Todo-or-die – Provides procedural macros that act as checked reminders](https://github.com/davidpdrsn/todo-or-die)
+- Sep 06 - [Podman, the open source Docker alternative ported to M1 (Apple Silicon) machines](https://github.com/simnalamburt/homebrew-x/blob/main/Formula/podman-apple-silicon.rb)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
