@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Sep 06 - [Greedy AI agents learn to cooperate](https://spectrum.ieee.org/reinforcement-learning)
 - Sep 06 - [Linus Torvalds: “GitHub creates useless garbage merges”](https://lore.kernel.org/lkml/CAHk-=wjbtip559HcMG9VQLGPmkurh5Kc50y5BceL8Q8=aL0H3Q@mail.gmail.com/)
+- Sep 06 - [The gloves are off, the pants are on](https://www.cold-takes.com/the-gloves-are-off-the-pants-are-on/)
+- Sep 06 - [Plans are useless, but planning is indispensable (2005)](https://www.pmi.org/learning/library/planning-process-indispensable-software-projects-7487)
 - Sep 06 - [Ode to the Clamshell iBook G3 – a.k.a. “The Toiletseat”](https://lunduke.substack.com/p/ode-to-the-clamshell-ibook-g3-aka)
-- Sep 06 - [Jean-Paul Belmondo has died](https://www.nytimes.com/2021/09/06/movies/jean-paul-belmondo-dead.html)
-- Sep 06 - [Apple iMessage Zero-Click Hacks](https://www.wired.com/story/apple-imessage-zero-click-hacks/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
