@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 06 - [todo-or-die – TODOs you cannot forget!](https://github.com/davidpdrsn/todo-or-die)
 - Sep 06 - [Podman, the open source Docker alternative ported to M1 (Apple Silicon) machines](https://github.com/simnalamburt/homebrew-x/blob/main/Formula/podman-apple-silicon.rb)
+- Sep 06 - [ZFS is mysteriously eating my CPU](https://www.brendangregg.com/blog/2021-09-06/zfs-is-mysteriously-eating-my-cpu.html)
 - Sep 06 - [Researchers studying Facebook misinformation say they were deplatformed](https://www.cnn.com/2021/09/05/media/reliable-sources-facebook-researchers-deplatform/index.html)
 - Sep 06 - [Are we on the road to civilisation collapse?](https://www.bbc.com/future/article/20190218-are-we-on-the-road-to-civilisation-collapse)
-- Sep 06 - [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
-- Sep 06 - [Russia asks Google to clamp down on Navalny′s ′Smart Voting′](https://m.dw.com/en/russia-google-told-to-clamp-down-on-navalnys-smart-voting/a-59092740)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
