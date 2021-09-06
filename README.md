@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 06 - [ProtonMail: Important clarifications regarding arrest of climate activist](https://protonmail.com/blog/climate-activist-arrest/)
 - Sep 06 - [TikTok overtakes YouTube for average watch time in US and UK](https://www.bbc.co.uk/news/technology-58464745)
 - Sep 06 - [Germany wants smartphone makers to offer 7 years of software updates](https://www.xda-developers.com/germany-smartphone-makers-7-years-software-updates/)
 - Sep 06 - [The Turn (1993)](https://web.archive.org/web/20210226192444/https://www.theatlantic.com/past/docs/unbound/langew/turn.htm)
 - Sep 06 - [Show HN: Auto-generate vanilla JavaScript alternatives for jQuery methods](https://github.com/sachinchoolur/replace-jquery)
-- Sep 06 - [ProtonMail logged IP address of French activist after order by Swiss authorities](https://techcrunch.com/2021/09/06/protonmail-logged-ip-address-of-french-activist-after-order-by-swiss-authorities/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
