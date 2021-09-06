@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 05 - [For scientists, path to Covid-19 endgame remains uncertain](https://www.adn.com/nation-world/2021/09/04/for-scientists-path-to-covid-19-endgame-remains-uncertain/)
+- Sep 06 - [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
+- Sep 05 - [American Environmentalism Failed](https://thereader.mitpress.mit.edu/how-american-environmentalism-failed/)
 - Sep 05 - [Towards a taxonomy of cliches in Space Opera](http://www.antipope.org/charlie/blog-static/2016/03/towards-a-taxonomy-of-cliches-.html)
-- Sep 05 - [EasyPost (YC S13) is profitable and hiring](https://www.easypost.com/careers)
+- Sep 05 - [4k Free Movies Online](https://www.openculture.com/freemoviesonline)
 - Sep 05 - [Application of automotive alternators in small wind turbines (2012)](https://repository.tudelft.nl/islandora/object/uuid%3A60a3ca0e-25f0-4892-ae52-300dcb4443ab)
-- Sep 05 - [Climate activist arrested after ProtonMail provided his IP address](https://twitter.com/tenacioustek/status/1434604102676271106)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
