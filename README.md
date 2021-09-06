@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 06 - [What Apple mouses and Braun shavers share](https://rubenerd.com/what-apple-magic-mouses-and-braun-shavers-share/)
 - Sep 06 - [Led by Tesla, EVs drive chip industry's shift beyond silicon](https://asia.nikkei.com/Business/Tech/Semiconductors/Led-by-Tesla-EVs-drive-chip-industry-s-shift-beyond-silicon)
 - Sep 06 - [People are realizing that degrowth is bad](https://noahpinion.substack.com/p/people-are-realizing-that-degrowth)
-- Sep 06 - [SpaceX cleared for historic civilian launch next week](https://nypost.com/2021/09/05/spacex-cleared-for-historic-civilian-launch-next-week/)
-- Sep 06 - [Switching to the I3 Window Manager](https://vincent.bernat.ch/en/blog/2021-i3-window-manager)
-- Sep 06 - [GitHub Codespaces vs. Gitpod: Choosing the Best Online Code Editor](https://hackernoon.com/github-codespaces-vs-gitpod-choosing-the-best-online-code-editor)
+- Sep 06 - [US Cybercom says mass exploitation of Atlassian Confluence vulnerability ongoing](https://www.zdnet.com/article/us-cybercom-says-mass-exploitation-of-atlassian-confluence-vulnerability-ongoing-and-expected-to-accelerate/)
+- Sep 06 - [Spaceflight Before 1951](https://en.wikipedia.org/wiki/Spaceflight_before_1951)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
