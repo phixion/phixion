@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 06 - [Show HN: Auto-generate vanilla JavaScript alternatives for jQuery methods](https://github.com/sachinchoolur/replace-jquery)
+- Sep 06 - [IRS Poses as Bitcoin Trader ‘Mr Coins’ in $180k Sting](https://decrypt.co/80040/irs-poses-bitcoin-trader-mr-coins-180000-sting)
 - Sep 06 - [We don’t need nearly as much protein as we consume](https://www.bbc.com/future/article/20180522-we-dont-need-nearly-as-much-protein-as-we-consume)
 - Sep 06 - [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- Sep 06 - [UK Online Safety Bill proposes age verification for all user-interactive sites](https://www.openrightsgroup.org/blog/age-verification-in-the-online-safety-bill/)
 - Sep 06 - [Comedy Wildlife Photography Awards](https://www.comedywildlifephoto.com/gallery/finalists/2021_finalists.php)
-- Sep 06 - [Signs that can reveal a fake photo](https://www.bbc.com/future/article/20170629-the-hidden-signs-that-can-reveal-if-a-photo-is-fake)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
