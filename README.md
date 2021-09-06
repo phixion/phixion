@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 06 - [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
-- Sep 05 - [American Environmentalism Failed](https://thereader.mitpress.mit.edu/how-american-environmentalism-failed/)
+- Sep 06 - [Russia asks Google to clamp down on Navalny′s ′Smart Voting′](https://m.dw.com/en/russia-google-told-to-clamp-down-on-navalnys-smart-voting/a-59092740)
+- Sep 05 - [New PR ploy](https://www.axios.com/new-pr-ploy-d363d945-f3d8-4b7a-b25c-73170549a5b7.html)
 - Sep 05 - [Towards a taxonomy of cliches in Space Opera](http://www.antipope.org/charlie/blog-static/2016/03/towards-a-taxonomy-of-cliches-.html)
 - Sep 05 - [4k Free Movies Online](https://www.openculture.com/freemoviesonline)
-- Sep 05 - [Application of automotive alternators in small wind turbines (2012)](https://repository.tudelft.nl/islandora/object/uuid%3A60a3ca0e-25f0-4892-ae52-300dcb4443ab)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
