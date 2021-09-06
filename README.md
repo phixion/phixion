@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 06 - [Substack (YC W18) Is Hiring Engineering Managers to Build the Future of Writing](https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7?utm_source=hn&utm_content=eng)
 - Sep 06 - [Code Interviews](https://alaiacano.github.io/interviews/2021/08/11/interviews.html)
+- Sep 06 - [Kanye West AI in JavaScript (React and TFJS)](https://autoyeai.com/)
 - Sep 06 - [Quad9 Files Official Objection Opposing Sony Music’s German Court Ruling](https://quad9.net/news/blog/quad9-files-official-objection-opposing-sony-music-s-german-court-ruling/)
 - Sep 06 - [Five Fallacies About 100% Renewable Energy](https://danieldwilliam.dreamwidth.org/216421.html)
-- Sep 06 - [The Strange Tale of the Freedom Phone, a Smartphone for Conservatives](https://www.nytimes.com/2021/09/06/technology/freedom-phone-smartphone-conservatives.html)
-- Sep 06 - [Revolt: Open-source alternative to Discord written in Rust](https://revolt.chat/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
