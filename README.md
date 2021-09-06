@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 06 - [Intel SGX Protects German Electronic Patient Records](https://www.intel.com/content/www/us/en/newsroom/news/intel-sgx-protects-german-electronic-patient-records.html#gs.a6d2md)
-- Sep 06 - [The signs that can reveal a fake photo](https://www.bbc.com/future/article/20170629-the-hidden-signs-that-can-reveal-if-a-photo-is-fake)
+- Sep 06 - [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- Sep 06 - [UK Online Safety Bill proposes age verification for all user-interactive sites](https://www.openrightsgroup.org/blog/age-verification-in-the-online-safety-bill/)
+- Sep 06 - [Comedy Wildlife Photography Awards](https://www.boredpanda.com/comedy-wildlife-photography-contest-2021/)
+- Sep 06 - [Signs that can reveal a fake photo](https://www.bbc.com/future/article/20170629-the-hidden-signs-that-can-reveal-if-a-photo-is-fake)
 - Sep 06 - [Led by Tesla, EVs drive chip industry's shift beyond silicon](https://asia.nikkei.com/Business/Tech/Semiconductors/Led-by-Tesla-EVs-drive-chip-industry-s-shift-beyond-silicon)
-- Sep 06 - [US Cybercom says mass exploitation of Atlassian Confluence vulnerability ongoing](https://www.zdnet.com/article/us-cybercom-says-mass-exploitation-of-atlassian-confluence-vulnerability-ongoing-and-expected-to-accelerate/)
-- Sep 06 - [Spaceflight Before 1951](https://en.wikipedia.org/wiki/Spaceflight_before_1951)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
