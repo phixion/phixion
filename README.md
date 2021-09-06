@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 06 - [Chia Coin Miners Are Reselling Used SSDs as New](https://www.tomshardware.com/news/used-chia-ssds-resold)
+- Sep 06 - [A $10k poker win changed how I think](https://www.bbc.com/future/article/20210517-how-a-10k-poker-win-changed-how-i-think)
 - Sep 06 - [Minus](https://minus.social/)
 - Sep 06 - [Predictions for September 2031](https://www.museum-on-the-coast.com/predictions-for-september-2031.html)
 - Sep 06 - [V8 Release v9.4](https://v8.dev/blog/v8-release-94)
-- Sep 06 - [An Introduction to Polkadot [pdf]](https://polkadot.network/Polkadot-lightpaper.pdf)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
