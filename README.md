@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 06 - [Can Progressives Be Convinced That Genetics Matters?](https://www.newyorker.com/magazine/2021/09/13/can-progressives-be-convinced-that-genetics-matters)
 - Sep 06 - [Jean-Paul Belmondo, Magnetic Star of the French New Wave, Dies at 88](https://www.nytimes.com/2021/09/06/movies/jean-paul-belmondo-dead.html)
 - Sep 06 - [Apple iMessage Zero-Click Hacks](https://www.wired.com/story/apple-imessage-zero-click-hacks/)
 - Sep 06 - [An interactive 19-lesson course to master VSCode's keyboard shortcuts](https://keycombiner.com/courses/master-vscode/)
 - Sep 06 - [Chia Coin Miners Are Reselling Used SSDs as New](https://www.tomshardware.com/news/used-chia-ssds-resold)
+- Sep 06 - [A $10k poker win changed how I think](https://www.bbc.com/future/article/20210517-how-a-10k-poker-win-changed-how-i-think)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
