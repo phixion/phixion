@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 06 - [Plans for $400B new city in the American desert unveiled](https://www.cnn.com/style/article/telosa-marc-lore-blake-ingels-new-city/index.html)
+- Sep 06 - [Code Interviews](https://alaiacano.github.io/interviews/2021/08/11/interviews.html)
+- Sep 06 - [Quad9 Files Official Objection Opposing Sony Music’s German Court Ruling](https://quad9.net/news/blog/quad9-files-official-objection-opposing-sony-music-s-german-court-ruling/)
 - Sep 06 - [Five Fallacies About 100% Renewable Energy](https://danieldwilliam.dreamwidth.org/216421.html)
+- Sep 06 - [The Strange Tale of the Freedom Phone, a Smartphone for Conservatives](https://www.nytimes.com/2021/09/06/technology/freedom-phone-smartphone-conservatives.html)
 - Sep 06 - [Revolt: Open-source alternative to Discord written in Rust](https://revolt.chat/)
-- Sep 06 - [ProtonMail: Important clarifications regarding arrest of climate activist](https://protonmail.com/blog/climate-activist-arrest/)
-- Sep 06 - [Germany wants smartphone makers to offer 7 years of software updates](https://www.xda-developers.com/germany-smartphone-makers-7-years-software-updates/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
