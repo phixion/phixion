@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 06 - [Chia Coin Miners Are Reselling Used SSDs as New](https://www.tomshardware.com/news/used-chia-ssds-resold)
 - Sep 06 - [Minus](https://minus.social/)
+- Sep 06 - [V8 Release v9.4](https://v8.dev/blog/v8-release-94)
 - Sep 06 - [Substack (YC W18) Is Hiring Engineering Managers to Build the Future of Writing](https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7?utm_source=hn&utm_content=eng)
 - Sep 06 - [age v1.0.0 – simple, modern and secure file encryption](https://github.com/FiloSottile/age/releases/tag/v1.0.0)
-- Sep 06 - [Code Interviews](https://alaiacano.github.io/interviews/2021/08/11/interviews.html)
-- Sep 06 - [Kanye West AI in JavaScript (React and TFJS)](https://autoyeai.com/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
