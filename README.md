@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 06 - [Protonmail turns over data for climate activists to French law enforcement](https://twitter.com/awinston/status/1434646480959287300)
 - Sep 06 - [Show HN: Auto-generate vanilla JavaScript alternatives for jQuery methods](https://github.com/sachinchoolur/replace-jquery)
+- Sep 06 - [ProtonMail logged IP address of French activist after order by Swiss authorities](https://techcrunch.com/2021/09/06/protonmail-logged-ip-address-of-french-activist-after-order-by-swiss-authorities/)
 - Sep 06 - [IRS Poses as Bitcoin Trader ‘Mr Coins’ in $180k Sting](https://decrypt.co/80040/irs-poses-bitcoin-trader-mr-coins-180000-sting)
 - Sep 06 - [We don’t need nearly as much protein as we consume](https://www.bbc.com/future/article/20180522-we-dont-need-nearly-as-much-protein-as-we-consume)
-- Sep 06 - [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- Sep 06 - [Comedy Wildlife Photography Awards](https://www.comedywildlifephoto.com/gallery/finalists/2021_finalists.php)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
