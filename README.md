@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 06 - [Plans for $400B new city in the American desert unveiled](https://www.cnn.com/style/article/telosa-marc-lore-blake-ingels-new-city/index.html)
 - Sep 06 - [Five Fallacies About 100% Renewable Energy](https://danieldwilliam.dreamwidth.org/216421.html)
 - Sep 06 - [Revolt: Open-source alternative to Discord written in Rust](https://revolt.chat/)
 - Sep 06 - [ProtonMail: Important clarifications regarding arrest of climate activist](https://protonmail.com/blog/climate-activist-arrest/)
 - Sep 06 - [Germany wants smartphone makers to offer 7 years of software updates](https://www.xda-developers.com/germany-smartphone-makers-7-years-software-updates/)
-- Sep 06 - [The Turn (1993)](https://web.archive.org/web/20210226192444/https://www.theatlantic.com/past/docs/unbound/langew/turn.htm)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
