@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 06 - [Led by Tesla, EVs drive chip industry's shift beyond silicon](https://asia.nikkei.com/Business/Tech/Semiconductors/Led-by-Tesla-EVs-drive-chip-industry-s-shift-beyond-silicon)
+- Sep 06 - [People are realizing that degrowth is bad](https://noahpinion.substack.com/p/people-are-realizing-that-degrowth)
 - Sep 06 - [SpaceX cleared for historic civilian launch next week](https://nypost.com/2021/09/05/spacex-cleared-for-historic-civilian-launch-next-week/)
 - Sep 06 - [Switching to the I3 Window Manager](https://vincent.bernat.ch/en/blog/2021-i3-window-manager)
 - Sep 06 - [GitHub Codespaces vs. Gitpod: Choosing the Best Online Code Editor](https://hackernoon.com/github-codespaces-vs-gitpod-choosing-the-best-online-code-editor)
-- Sep 06 - [A curated list of actions to use on GitHub](https://github.com/sdras/awesome-actions)
-- Sep 06 - [Show HN: Postgres Docker image with common extensions](https://github.com/supabase/postgres)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
