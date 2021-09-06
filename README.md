@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Sep 06 - [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
 - Sep 06 - [Russia asks Google to clamp down on Navalny′s ′Smart Voting′](https://m.dw.com/en/russia-google-told-to-clamp-down-on-navalnys-smart-voting/a-59092740)
-- Sep 05 - [New PR ploy](https://www.axios.com/new-pr-ploy-d363d945-f3d8-4b7a-b25c-73170549a5b7.html)
+- Sep 06 - [Materials to get lights on are getting scarce](https://www.reddit.com/r/PrepperIntel/comments/piddj6/electric_distribution_utility_employee_here_in/)
+- Sep 05 - [Docker compatible open source: Containerd nerdctl](https://github.com/containerd/nerdctl)
 - Sep 05 - [Towards a taxonomy of cliches in Space Opera](http://www.antipope.org/charlie/blog-static/2016/03/towards-a-taxonomy-of-cliches-.html)
-- Sep 05 - [4k Free Movies Online](https://www.openculture.com/freemoviesonline)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
