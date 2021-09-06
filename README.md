@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 06 - [SpaceX cleared for historic civilian launch next week](https://nypost.com/2021/09/05/spacex-cleared-for-historic-civilian-launch-next-week/)
 - Sep 06 - [GitHub Codespaces vs. Gitpod: Choosing the Best Online Code Editor](https://hackernoon.com/github-codespaces-vs-gitpod-choosing-the-best-online-code-editor)
 - Sep 06 - [A curated list of awesome things related to GitHub Actions](https://github.com/sdras/awesome-actions)
 - Sep 06 - [Show HN: Postgres Docker image with common extensions](https://github.com/supabase/postgres)
 - Sep 06 - [Code Runs on People](https://rachelbythebay.com/w/2021/09/05/clever/)
-- Sep 06 - [Media trust hits new low](https://axios.com/media-trust-crisis-2bf0ec1c-00c0-4901-9069-e26b21c283a9.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
