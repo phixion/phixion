@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 06 - [Roadrunner Blocked by U.S. Border Wall Wins Best Bird Photo of 2021](https://petapixel.com/2021/09/01/roadrunner-blocked-by-u-s-border-wall-wins-best-bird-photo-of-2021/)
+- Sep 06 - [Media trust hits new low](https://axios.com/media-trust-crisis-2bf0ec1c-00c0-4901-9069-e26b21c283a9.html)
 - Sep 06 - [todo-or-die – TODOs you cannot forget!](https://github.com/davidpdrsn/todo-or-die)
 - Sep 06 - [Podman, the open source Docker alternative ported to M1 (Apple Silicon) machines](https://github.com/simnalamburt/homebrew-x/blob/main/Formula/podman-apple-silicon.rb)
 - Sep 06 - [ZFS is mysteriously eating my CPU](https://www.brendangregg.com/blog/2021-09-06/zfs-is-mysteriously-eating-my-cpu.html)
-- Sep 06 - [Researchers studying Facebook misinformation say they were deplatformed](https://www.cnn.com/2021/09/05/media/reliable-sources-facebook-researchers-deplatform/index.html)
-- Sep 06 - [Are we on the road to civilisation collapse?](https://www.bbc.com/future/article/20190218-are-we-on-the-road-to-civilisation-collapse)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
