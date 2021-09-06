@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 06 - [The signs that can reveal a fake photo](https://www.bbc.com/future/article/20170629-the-hidden-signs-that-can-reveal-if-a-photo-is-fake)
 - Sep 06 - [What Apple mouses and Braun shavers share](https://rubenerd.com/what-apple-magic-mouses-and-braun-shavers-share/)
 - Sep 06 - [Led by Tesla, EVs drive chip industry's shift beyond silicon](https://asia.nikkei.com/Business/Tech/Semiconductors/Led-by-Tesla-EVs-drive-chip-industry-s-shift-beyond-silicon)
 - Sep 06 - [People are realizing that degrowth is bad](https://noahpinion.substack.com/p/people-are-realizing-that-degrowth)
 - Sep 06 - [US Cybercom says mass exploitation of Atlassian Confluence vulnerability ongoing](https://www.zdnet.com/article/us-cybercom-says-mass-exploitation-of-atlassian-confluence-vulnerability-ongoing-and-expected-to-accelerate/)
-- Sep 06 - [Spaceflight Before 1951](https://en.wikipedia.org/wiki/Spaceflight_before_1951)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
