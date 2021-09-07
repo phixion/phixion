@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 07 - [Electrons May Well Be Conscious](https://nautil.us/blog/-electrons-may-very-well-be-conscious)
+- Sep 07 - [Building Fizzbuzz in Fractran from the Bottom Up](https://malisper.me/building-fizzbuzz-fractran-bottom/)
+- Sep 07 - [“It's open source! We’ll let our customers fix it.”](https://miles.land/posts/corporate-open-source/)
 - Sep 07 - [A soft, wearable brain–machine interface](https://spectrum.ieee.org/a-soft-wearable-brain-machine-interface)
 - Sep 07 - [QuickBooks Desktop moves to subscription model](https://www.askwoody.com/2021/quickbooks-desktop-moves-to-subscription-model/)
 - Sep 07 - [Unity patents ECS](https://pdfpiw.uspto.gov/.piw?PageNum=0&docid=10599560)
-- Sep 07 - [Legend](https://legendapp.com/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
