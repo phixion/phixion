@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 07 - [El Salvador adopts Bitcoin as official currency, first country to do so](https://www.nbcnews.com/news/latino/el-salvador-adopts-bitcoin-official-currency-first-country-rcna1910)
+- Sep 07 - [Cannabis use linked to higher risk of myocardial infarction in adults 18-44yr](https://www.cmaj.ca/content/193/35/E1377)
+- Sep 07 - [Netflix is not a tech company](https://www.ben-evans.com/benedictevans/2019/7/31/Netflix)
 - Sep 07 - [Writing software that's reliable enough for production](https://pythonspeed.com/fil/docs/fil4prod/reliable.html)
 - Sep 07 - [Crafting “Crafting Interpreters” (2020)](http://journal.stuffwithstuff.com/2020/04/05/crafting-crafting-interpreters/)
-- Sep 07 - [Three near-identical Boris Vishnevskys on St Petersburg election ballot](https://www.theguardian.com/world/2021/sep/06/three-near-identical-boris-vishnevskys-on-st-petersburg-election-ballot)
-- Sep 07 - [Sri Lanka’s overnight flip to organic farming has led to an economic disaster](https://theprint.in/world/how-sri-lankas-overnight-flip-to-total-organic-farming-has-led-to-an-economic-disaster/728414/)
-- Sep 07 - [OpenSSL 3.0](https://www.openssl.org/news/cl30.txt)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
