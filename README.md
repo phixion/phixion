@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 07 - [Legend](https://legendapp.com/)
+- Sep 07 - [Apple Event Sep 14, 2021](https://www.apple.com/apple-events/?20210914)
 - Sep 07 - [Apple Event Announced: 'California Streaming' on September 14](https://www.macrumors.com/2021/09/07/apple-september-14-event/?scrolla=5eb6d68b7fedc32c19ef33b4)
 - Sep 07 - [Centaur Labs (YC W19) just raised $15M and is hiring back end engineers](https://www.centaurlabs.com/open-positions)
 - Sep 07 - [Consistent Fitness – Get Six Pack Abs in 16 Weeks](https://beta.consistent.fit)
-- Sep 07 - [Bin Laden's Bookshelf](https://www.dni.gov/index.php/features/bin-laden-s-bookshelf)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
