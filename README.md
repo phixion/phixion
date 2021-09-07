@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 07 - [How India Surveils Its Citizens](https://telegra.ph/How-India-surveils-its-citizens-09-07)
 - Sep 07 - [Replit (YC W18) Is Hiring Engineers/Designers to Invent the Future of Programming](https://replit.com/site/careers)
 - Sep 07 - [Anatomy of a Catastrophic Boiler Accident (1997)](https://www.nationalboard.org/Index.aspx?pageID=164&ID=226)
 - Sep 07 - [Spice.ai – open-source, time series AI for developers](https://blog.spiceai.org/posts/2021/09/07/introducing-spice.ai-open-source-time-series-ai-for-developers/)
 - Sep 07 - [My £4 a month server can handle 4.2M requests a day](https://mark.mcnally.je/blog/post/My%20%C2%A34%20a%20month%20server%20can%20handle%204.2%20million%20requests%20a%20day)
+- Sep 07 - [Ford Hires Away Executive Leading Apple’s Car Project](https://www.bloomberg.com/news/articles/2021-09-07/ford-is-said-to-hire-away-executive-leading-apple-s-car-project)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
