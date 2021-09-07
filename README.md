@@ -36,7 +36,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 07 - [James Webb Space Telescope launch media kit [pdf]](https://esamultimedia.esa.int/docs/science/Webb-LaunchKit_EN.pdf)
-- Sep 07 - [SBCL: The Assembly Code Breadboard](https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/)
+- Sep 07 - [SBCL: The Assembly Code Breadboard (2014)](https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/)
 - Sep 07 - [ProtonMail removed “we do not keep any IP logs” from its privacy policy](https://arstechnica.com/information-technology/2021/09/privacy-focused-protonmail-provided-a-users-ip-address-to-authorities/)
 - Sep 07 - [Replit (YC W18) Is Hiring Engineers/Designers to Invent the Future of Programming](https://replit.com/site/careers)
 - Sep 07 - [Misbehaving Microsoft Teams ad brings down the entire Windows 11 desktop](https://arstechnica.com/gadgets/2021/09/misbehaving-microsoft-teams-ad-brings-down-the-entire-windows-11-desktop)
