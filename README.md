@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 07 - [Elizabeth Holmes staying at $135M estate during Theranos trial](https://www.cnbc.com/2021/09/07/elizabeth-holmes-staying-at-135-million-silicon-valley-estate-during-theranos-trial.html)
 - Sep 07 - [Building Fizzbuzz in Fractran from the Bottom Up](https://malisper.me/building-fizzbuzz-fractran-bottom/)
+- Sep 07 - [John Carmack on Hiring](https://twitter.com/id_aa_carmack/status/1435307747470454787)
 - Sep 07 - [“It's open source! We’ll let our customers fix it.”](https://miles.land/posts/corporate-open-source/)
 - Sep 07 - [NRO Manned Orbiting Laboratory](https://archive.org/details/nro-dorian-mol/01-MOL-MISC-PHOTOS/mode/2up)
-- Sep 07 - [A soft, wearable brain–machine interface](https://spectrum.ieee.org/a-soft-wearable-brain-machine-interface)
-- Sep 07 - [QuickBooks Desktop moves to subscription model](https://www.askwoody.com/2021/quickbooks-desktop-moves-to-subscription-model/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
