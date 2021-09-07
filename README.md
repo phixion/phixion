@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 07 - [Upsolve (YC W19) is hiring a senior software engineer (React, Node, TypeScript)](https://upsolve.org/careers/software-engineer/)
+- Sep 07 - [ProtonMail deletes 'we don't log your IP' from website after activist arrested](https://www.theregister.com/2021/09/07/protonmail_hands_user_ip_address_police/)
+- Sep 07 - [The Linux Experiments YouTube channel has been terminated](https://twitter.com/thelinuxEXP/status/1434952628337795072)
 - Sep 07 - [Swap on HDD: Does placement matter?](https://www.vidarholen.net/contents/blog/?p=1110)
 - Sep 07 - [Show HN: Arxiv.org on IPFS](https://www.xirva.org)
-- Sep 07 - [Htmlq: like jq, but for html](https://github.com/mgdm/htmlq)
-- Sep 07 - [Manara (YC W21) is hiring a head of marketing](https://www.ycombinator.com/companies/manara/jobs/ITiuktF-director-head-of-marketing)
-- Sep 07 - [“You don't need this overengineered goo for your project.”](https://twitter.com/FransBouma/status/1434903696048070659)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
