@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 07 - [Firefox 92](https://www.mozilla.org/en-US/firefox/92.0/releasenotes/)
 - Sep 07 - [SpaceX rolls Inspiration4 Falcon 9 rocket to the pad for historic launch](https://www.teslarati.com/spacex-inspiration4-falcon-9-rocket-launch-pad/)
 - Sep 07 - [Sri Lanka’s overnight flip to organic farming has led to an economic disaster](https://theprint.in/world/how-sri-lankas-overnight-flip-to-total-organic-farming-has-led-to-an-economic-disaster/728414/)
 - Sep 07 - [OpenSSL 3.0](https://www.openssl.org/news/cl30.txt)
 - Sep 07 - [Fans of a 2013 Japanese soccer game tracked down a bizarre floating point bug](https://dolphin-emu.org/blog/2021/09/07/dolphin-progress-report-august-2021/)
-- Sep 07 - [Upsolve (YC W19) is hiring a senior software engineer (React, Node, TypeScript)](https://upsolve.org/careers/software-engineer/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
