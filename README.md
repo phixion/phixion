@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 07 - [Microsoft Joins Open Infrastructure Foundation](https://www.zdnet.com/article/microsoft-joins-open-infrastructure-foundation/)
+- Sep 07 - [Apple Event Announced: 'California Streaming' on September 14](https://www.macrumors.com/2021/09/07/apple-september-14-event/?scrolla=5eb6d68b7fedc32c19ef33b4)
 - Sep 07 - [Centaur Labs (YC W19) just raised $15M and is hiring back end engineers](https://www.centaurlabs.com/open-positions)
+- Sep 07 - [Bin Laden's Bookshelf](https://www.dni.gov/index.php/features/bin-laden-s-bookshelf)
 - Sep 07 - [El Salvador adopts Bitcoin as official currency, first country to do so](https://www.nbcnews.com/news/latino/el-salvador-adopts-bitcoin-official-currency-first-country-rcna1910)
-- Sep 07 - [Cannabis use linked to higher risk of myocardial infarction in adults 18-44yr](https://www.cmaj.ca/content/193/35/E1377)
-- Sep 07 - [Show HN: Web-browser to help programmers think clearly](https://bonsaibrowser.com)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
