@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 07 - [Serving 2000 requests/s on a ~US$1500/month budget](https://mangadex.dev/mangadex-v5-infrastructure-overview/)
+- Sep 07 - [Low Cost Banana Pi BPI-R2 Pro 5-Port Gigabit Ethernet Router Board](https://www.cnx-software.com/2021/08/30/banana-pi-bpi-r2-pro-5-port-gigabit-ethernet-router-board-rockchip-rk3568/)
 - Sep 07 - [Looking into Odin and Zig](https://ayende.com/blog/194466-A/looking-into-odin-and-zig-my-notes)
 - Sep 07 - [Linux implementation of Homa, a protocol to replace TCP for low-latency RPC](https://www.micahlerner.com/2021/08/29/a-linux-kernel-implementation-of-the-homa-transport-protocol.html)
 - Sep 07 - [The operating system: should there be one?](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.715.9197&rep=rep1&type=pdf)
-- Sep 07 - [Jeff Bezos and the New Pharoahs](https://joebot.substack.com/p/jeff-bezos-and-the-new-pharoahs)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
