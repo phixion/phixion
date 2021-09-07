@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 07 - [WhatsApp Moderators Can Read Your Messages](https://gizmodo.com/whatsapp-moderators-can-read-your-messages-1847629241)
+- Sep 07 - [Ford Hires Away Executive Leading Apple’s Car Project](https://www.bloomberg.com/news/articles/2021-09-07/ford-is-said-to-hire-away-executive-leading-apple-s-car-project)
 - Sep 07 - [Building Fizzbuzz in Fractran from the Bottom Up](https://malisper.me/building-fizzbuzz-fractran-bottom/)
 - Sep 07 - [John Carmack on Hiring](https://twitter.com/id_aa_carmack/status/1435307747470454787)
 - Sep 07 - [“It's open source! We’ll let our customers fix it.”](https://miles.land/posts/corporate-open-source/)
-- Sep 07 - [NRO Manned Orbiting Laboratory](https://archive.org/details/nro-dorian-mol/01-MOL-MISC-PHOTOS/mode/2up)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
