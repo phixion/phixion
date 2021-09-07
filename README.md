@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 07 - [The operating system: should there be one?](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.715.9197&rep=rep1&type=pdf)
 - Sep 07 - [The Unraveling of the Real 3D Mandelbulb (2009)](https://www.skytopia.com/project/fractal/mandelbulb.html)
 - Sep 07 - [Facebook apology as AI labels black men 'primates'](https://www.bbc.com/news/technology-58462511)
+- Sep 07 - [Commodore 64 Ads from the 1980s](https://lunduke.substack.com/p/commodore-64-ads-from-the-1980s-still)
 - Sep 07 - [Who is Monica Main, and where is ex-NYT bestselling author Judith McNaught?](https://accrispin.blogspot.com/2021/09/very-weird-solicitation-alert-monica.html)
-- Sep 07 - [Sirum (YC Nonprofit) needs engineers to automate medicine delivery](https://news.ycombinator.com/item?id=28439730)
-- Sep 07 - [Intel’s Turnaround and the Future of Chipmaking](https://www.economist.com/business/intels-turnaround-and-the-future-of-chipmaking/21804288)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
