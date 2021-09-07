@@ -37,7 +37,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Sep 07 - [Morashon](http://www.morashon.com/)
 - Sep 07 - [Zero-Trust RDP and SSH Access to VMs on Google Cloud](https://github.com/GoogleCloudPlatform/iap-desktop)
-- Sep 07 - [Serving 2000 requests/s on a ~US$1500/month budget](https://mangadex.dev/mangadex-v5-infrastructure-overview/)
+- Sep 07 - [MangaDex infrastructure overview](https://mangadex.dev/mangadex-v5-infrastructure-overview/)
 - Sep 07 - [Low Cost Banana Pi BPI-R2 Pro 5-Port Gigabit Ethernet Router Board](https://www.cnx-software.com/2021/08/30/banana-pi-bpi-r2-pro-5-port-gigabit-ethernet-router-board-rockchip-rk3568/)
 - Sep 07 - [Looking into Odin and Zig](https://ayende.com/blog/194466-A/looking-into-odin-and-zig-my-notes)
 <!--END_SECTION:hn-->
