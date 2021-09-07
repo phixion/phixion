@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 07 - [James Webb Space Telescope launch media kit [pdf]](https://esamultimedia.esa.int/docs/science/Webb-LaunchKit_EN.pdf)
 - Sep 07 - [ProtonMail removed “we do not keep any IP logs” from its privacy policy](https://arstechnica.com/information-technology/2021/09/privacy-focused-protonmail-provided-a-users-ip-address-to-authorities/)
 - Sep 07 - [Replit (YC W18) Is Hiring Engineers/Designers to Invent the Future of Programming](https://replit.com/site/careers)
+- Sep 07 - [Misbehaving Microsoft Teams ad brings down the entire Windows 11 desktop](https://arstechnica.com/gadgets/2021/09/misbehaving-microsoft-teams-ad-brings-down-the-entire-windows-11-desktop)
 - Sep 07 - [Anatomy of a Catastrophic Boiler Accident (1997)](https://www.nationalboard.org/Index.aspx?pageID=164&ID=226)
-- Sep 07 - [Spice.ai – open-source, time series AI for developers](https://blog.spiceai.org/posts/2021/09/07/introducing-spice.ai-open-source-time-series-ai-for-developers/)
-- Sep 07 - [My £4 a month server can handle 4.2M requests a day](https://mark.mcnally.je/blog/post/My%20%C2%A34%20a%20month%20server%20can%20handle%204.2%20million%20requests%20a%20day)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
