@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 07 - [OnlyFans Is Not a Safe Platform for ‘Sex Work.’ It’s a Pimp](https://www.nytimes.com/2021/09/06/opinion/onlyfans-sex-work-safety.html)
 - Sep 07 - [Facebook apology as AI labels black men 'primates'](https://www.bbc.com/news/technology-58462511)
 - Sep 07 - [Who is Monica Main, and where is ex-NYT bestselling author Judith McNaught?](https://accrispin.blogspot.com/2021/09/very-weird-solicitation-alert-monica.html)
 - Sep 07 - [Sirum (YC Nonprofit) needs engineers to automate medicine delivery](https://news.ycombinator.com/item?id=28439730)
 - Sep 07 - [Intel’s Turnaround and the Future of Chipmaking](https://www.economist.com/business/intels-turnaround-and-the-future-of-chipmaking/21804288)
-- Sep 07 - [Missing businesswoman urges ex-husband not to publish book critical of China](https://www.npr.org/2021/09/06/1034556269/red-roulette-reveals-the-inside-of-chinas-wealth-making-machine)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
