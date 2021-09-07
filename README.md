@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 07 - [Facebook apology as AI labels black men 'primates'](https://www.bbc.com/news/technology-58462511)
+- Sep 07 - [Japanese researchers have created an effective vaccine for Alzheimer's disease](https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2050101/)
+- Sep 07 - [Who is Monica Main, and where is ex-NYT bestselling author Judith McNaught?](https://accrispin.blogspot.com/2021/09/very-weird-solicitation-alert-monica.html)
 - Sep 07 - [Sirum (YC Nonprofit) needs engineers to automate medicine delivery](https://news.ycombinator.com/item?id=28439730)
 - Sep 07 - [Intel’s Turnaround and the Future of Chipmaking](https://www.economist.com/business/intels-turnaround-and-the-future-of-chipmaking/21804288)
-- Sep 07 - [Missing businesswoman urges ex-husband not to publish book critical of China](https://www.npr.org/2021/09/06/1034556269/red-roulette-reveals-the-inside-of-chinas-wealth-making-machine)
-- Sep 07 - [Libwebsockets a powerful and lightweight pure C library](https://libwebsockets.org/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
