@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 07 - [SpaceX rolls Inspiration4 Falcon 9 rocket to the pad for historic launch](https://www.teslarati.com/spacex-inspiration4-falcon-9-rocket-launch-pad/)
+- Sep 07 - [Sri Lanka’s overnight flip to organic farming has led to an economic disaster](https://theprint.in/world/how-sri-lankas-overnight-flip-to-total-organic-farming-has-led-to-an-economic-disaster/728414/)
+- Sep 07 - [OpenSSL 3.0](https://www.openssl.org/news/cl30.txt)
 - Sep 07 - [Fans of a 2013 Japanese soccer game tracked down a bizarre floating point bug](https://dolphin-emu.org/blog/2021/09/07/dolphin-progress-report-august-2021/)
 - Sep 07 - [Upsolve (YC W19) is hiring a senior software engineer (React, Node, TypeScript)](https://upsolve.org/careers/software-engineer/)
-- Sep 07 - [Over 1k migrant children are missing in the U.S.](https://www.axios.com/1475-migrant-children-missing-f046e010-7a5b-44cf-864a-7bf2e535d327.html)
-- Sep 07 - [ProtonMail deletes 'we don't log your IP' from website after activist arrested](https://www.theregister.com/2021/09/07/protonmail_hands_user_ip_address_police/)
-- Sep 07 - [The Linux Experiments YouTube channel has been terminated](https://twitter.com/thelinuxEXP/status/1434952628337795072)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
