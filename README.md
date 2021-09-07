@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 07 - [Workers are 'rage quitting' their jobs as a tightening labor market](https://www.businessinsider.com/workers-rage-quitting-jobs-in-a-tightening-labor-market-2021-5)
 - Sep 07 - [Three near-identical Boris Vishnevskys on St Petersburg election ballot](https://www.theguardian.com/world/2021/sep/06/three-near-identical-boris-vishnevskys-on-st-petersburg-election-ballot)
-- Sep 07 - [Duck says ‘You bloody fool’ and can imitate other sound, scientists fascinated](https://www.zmescience.com/ecology/animals-ecology/this-australian-duck-says-you-bloody-fool-and-can-imitate-other-sounds-and-scientists-couldnt-be-more-fascinated/)
 - Sep 07 - [Kenyan social media campaign designed to undermine the country’s judiciary](https://restofworld.org/2021/kenya-disinformation-bbi-judiciary/)
 - Sep 07 - [Firefox 92](https://www.mozilla.org/en-US/firefox/92.0/releasenotes/)
+- Sep 07 - [SpaceX rolls Inspiration4 Falcon 9 rocket to the pad for historic launch](https://www.teslarati.com/spacex-inspiration4-falcon-9-rocket-launch-pad/)
+- Sep 07 - [Sri Lanka’s overnight flip to organic farming has led to an economic disaster](https://theprint.in/world/how-sri-lankas-overnight-flip-to-total-organic-farming-has-led-to-an-economic-disaster/728414/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
