@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 06 - [Updating an App to Use Swift Concurrency](https://developer.apple.com/documentation/swift/swift_standard_library/concurrency/updating_an_app_to_use_swift_concurrency)
-- Sep 06 - [SystemE – lightweight systemd replacement written in Emacs Lisp](https://github.com/a-schaefers/systemE)
-- Sep 06 - [Intermediate Algebra](https://saylordotorg.github.io/text_intermediate-algebra/index.html)
-- Sep 06 - [Micro-GPS: High-Precision Localization Using Ground Texture (2018)](https://microgps.cs.princeton.edu/)
-- Sep 06 - [Hummingbirds can smell their way out of danger](https://news.ucr.edu/articles/2021/09/06/hummingbirds-can-smell-their-way-out-danger)
+- Sep 07 - [Sirum (YC Nonprofit) needs engineers to automate medicine delivery](https://news.ycombinator.com/item?id=28439730)
+- Sep 07 - [Intel’s Turnaround and the Future of Chipmaking](https://www.economist.com/business/intels-turnaround-and-the-future-of-chipmaking/21804288)
+- Sep 07 - [Missing businesswoman urges ex-husband not to publish book critical of China](https://www.npr.org/2021/09/06/1034556269/red-roulette-reveals-the-inside-of-chinas-wealth-making-machine)
+- Sep 07 - [Libwebsockets a powerful and lightweight pure C library](https://libwebsockets.org/)
+- Sep 06 - [SystemE – A lightweight systemd replacement written in Emacs Lisp](https://github.com/a-schaefers/systemE)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
