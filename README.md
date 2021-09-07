@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 07 - [OnlyFans Is Not a Safe Platform for ‘Sex Work.’ It’s a Pimp](https://www.nytimes.com/2021/09/06/opinion/onlyfans-sex-work-safety.html)
+- Sep 07 - [The Unraveling of the Real 3D Mandelbulb (2009)](https://www.skytopia.com/project/fractal/mandelbulb.html)
 - Sep 07 - [Facebook apology as AI labels black men 'primates'](https://www.bbc.com/news/technology-58462511)
 - Sep 07 - [Who is Monica Main, and where is ex-NYT bestselling author Judith McNaught?](https://accrispin.blogspot.com/2021/09/very-weird-solicitation-alert-monica.html)
 - Sep 07 - [Sirum (YC Nonprofit) needs engineers to automate medicine delivery](https://news.ycombinator.com/item?id=28439730)
