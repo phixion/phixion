@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 07 - [Show HN: Arxiv.org on IPFS](https://www.xirva.org)
 - Sep 07 - [Htmlq: like jq, but for html](https://github.com/mgdm/htmlq)
 - Sep 07 - [Manara (YC W21) Seeking Head of Marketing (Backed by Stripe, Reid Hoffman)](https://www.ycombinator.com/companies/manara/jobs/ITiuktF-director-head-of-marketing)
-- Sep 07 - [“You don't need this overengineered goo for your project.”](https://twitter.com/FransBouma/status/1434903696048070659)
 - Sep 07 - [Morashon](http://www.morashon.com/)
+- Sep 07 - [Zero-Trust RDP and SSH Access to VMs on Google Cloud](https://github.com/GoogleCloudPlatform/iap-desktop)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
