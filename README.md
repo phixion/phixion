@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 06 - [Updating an App to Use Swift Concurrency](https://developer.apple.com/documentation/swift/swift_standard_library/concurrency/updating_an_app_to_use_swift_concurrency)
+- Sep 06 - [SystemE – lightweight systemd replacement written in Emacs Lisp](https://github.com/a-schaefers/systemE)
 - Sep 06 - [Intermediate Algebra](https://saylordotorg.github.io/text_intermediate-algebra/index.html)
 - Sep 06 - [Micro-GPS: High-Precision Localization Using Ground Texture (2018)](https://microgps.cs.princeton.edu/)
 - Sep 06 - [Hummingbirds can smell their way out of danger](https://news.ucr.edu/articles/2021/09/06/hummingbirds-can-smell-their-way-out-danger)
-- Sep 06 - [The mystery of Truman Capote's final novel](https://www.townandcountrymag.com/society/money-and-power/a36740693/truman-capote-la-cote-basque-scandal-answered-prayers-mystery/)
-- Sep 06 - [Keeper Tax (YC W19) is hiring an engineer in San Francisco](https://angel.co/l/2vLWVu)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
