@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 08 - [The ADE 651 is a fake bomb detector, sold for up to US$60k each](https://en.wikipedia.org/wiki/ADE_651)
+- Sep 08 - [Archive.is owner on “continuity of his project”](https://blog.archive.today/post/660719734341386240/is-there-any-structure-in-place-to-assure-the)
 - Sep 08 - [Ask HN: How did you become a software engineer?](https://news.ycombinator.com/item?id=28457499)
 - Sep 08 - [20 years after 9/11: Will we ever stop taking our shoes off at airports?](https://www.ocregister.com/2021/09/07/20-years-after-9-11-will-we-ever-stop-taking-our-shoes-off-at-airports/)
 - Sep 08 - [IBM mainframe beats other platforms for cost and performance](https://www.planetmainframe.com/2021/09/the-ibm-mainframe-the-most-powerful-and-cost-effective-computing-platform-for-business/)
-- Sep 08 - [Miegakure Update September 2021](https://marctenbosch.com/news/2021/09/miegakure-update-september-2021/)
-- Sep 08 - [Notion Acquires Automate.io](https://www.notion.so/blog/taking-building-blocks-beyond-the-workspace-welcome-automate-io)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
