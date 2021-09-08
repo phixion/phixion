@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 08 - [Silanano launches the first new commercial battery chemistry since 1991](https://silanano.com/news/one-small-new-battery-one-giant-leap-for-our-energy-future/?referrer)
+- Sep 08 - [Massive animal species discovered in half-billion-year-old Burgess Shale](https://www.rom.on.ca/en/about-us/newsroom/press-releases/massive-new-animal-species-discovered-in-half-billion-year-old)
+- Sep 08 - [How We Went All In on sqlc/pgx for Postgres and Go](https://brandur.org/sqlc)
+- Sep 08 - [MIT-designed project achieves major advance toward fusion energy](https://news.mit.edu/2021/MIT-CFS-major-advance-toward-fusion-energy-0908)
 - Sep 08 - [FD 100](https://susam.in/maze/fd-100.html)
-- Sep 08 - [LAPD officers told to collect social media data on every civilian they stop](https://www.theguardian.com/us-news/2021/sep/08/revealed-los-angeles-police-officers-gathering-social-media)
-- Sep 08 - [After chiding Apple on privacy, Germany says it uses Pegasus spyware](https://appleinsider.com/articles/21/09/08/after-chiding-apple-on-privacy-germany-says-it-uses-pegasus-spyware)
-- Sep 08 - [The dark patterns of Network Solutions](https://www.coywolf.news/webmaster/network-solutions-dark-patterns-domain-registration-transfers/)
-- Sep 08 - [GitHub Actions Limitations and Gotchas](https://www.cbui.dev/github-actions-limitations-and-gotchas/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
