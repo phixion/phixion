@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 08 - [SwiftSku (YC W21) Is Hiring Gujarati Account Executives](https://www.ycombinator.com/companies/swiftsku/jobs/YhllV1x-sales-account-executive)
-- Sep 08 - [Hustle culture is not toxic](https://bugragunduz.com/blog/hustle-culture/)
+- Sep 08 - [We Could Brighten Clouds to Cool the Earth](https://spectrum.ieee.org/climate-change-2654802125)
 - Sep 07 - [Rust Programs Written in Rust](https://blog.sunfishcode.online/rust-programs-entirely-in-rust/)
+- Sep 07 - [Big Brothers Has Privatized](https://javani.substack.com/p/big-brothers-has-privatized)
 - Sep 07 - [Show HN: An infinite record playlist of out-of-copyright works](https://www.locserendipity.com/PushPlay.html)
-- Sep 07 - [Australia’s new mass surveillance mandate](https://digitalrightswatch.org.au/2021/09/02/australias-new-mass-surveillance-mandate/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
