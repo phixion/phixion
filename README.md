@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 08 - [SwiftSku (YC W21) Is Hiring Gujarati Account Executives](https://www.ycombinator.com/companies/swiftsku/jobs/YhllV1x-sales-account-executive)
+- Sep 08 - [Hustle culture is not toxic](https://bugragunduz.com/blog/hustle-culture/)
+- Sep 07 - [Rust Programs Written in Rust](https://blog.sunfishcode.online/rust-programs-entirely-in-rust/)
 - Sep 07 - [Show HN: An infinite record playlist of out-of-copyright works](https://www.locserendipity.com/PushPlay.html)
 - Sep 07 - [Australia’s new mass surveillance mandate](https://digitalrightswatch.org.au/2021/09/02/australias-new-mass-surveillance-mandate/)
-- Sep 07 - [Epic Iran: Some Zoroastrian Treasures](https://blogs.bl.uk/asian-and-african/2021/08/epic-iran-some-zoroastrian-treasures.html)
-- Sep 07 - [James Webb Space Telescope launch media kit [pdf]](https://esamultimedia.esa.int/docs/science/Webb-LaunchKit_EN.pdf)
-- Sep 07 - [Private Information and the Missing Markets for Financing Human Capital](https://www.nber.org/papers/w29214#fromrss)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
