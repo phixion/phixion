@@ -36,8 +36,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 08 - [Chinese activist Ai Weiwei says Credit Suisse closing foundation's bank account](https://www.reuters.com/world/china/chinese-activist-ai-weiwei-says-credit-suisse-closing-his-foundations-bank-2021-09-07/)
-- Sep 08 - [Lemmy a federated open-source alternative to Reddit](https://join-lemmy.org/)
-- Sep 08 - [The SEC has told us it wants to sue us over Lend. We don’t know why](https://medium.com/@coinbaseblog?p=a3a1b6507009)
+- Sep 08 - [Lemmy – A link aggregator for the fediverse](https://join-lemmy.org/)
+- Sep 08 - [The SEC has told us it wants to sue us over Lend. We don’t know why](https://blog.coinbase.com/the-sec-has-told-us-it-wants-to-sue-us-over-lend-we-have-no-idea-why-a3a1b6507009)
 - Sep 08 - [Sir Tim Berners-Lee joins Proton’s advisory board](https://protonmail.com/blog/sir-tim-berners-lee-advisory-board/)
 - Sep 08 - [The Problems with Deliberate Practice (2020)](https://commoncog.com/blog/the-problems-with-deliberate-practice/)
 <!--END_SECTION:hn-->
