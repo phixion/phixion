@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 08 - [LAPD officers told to collect social media data on every civilian they stop](https://www.theguardian.com/us-news/2021/sep/08/revealed-los-angeles-police-officers-gathering-social-media)
+- Sep 08 - [The dark patterns of Network Solutions](https://www.coywolf.news/webmaster/network-solutions-dark-patterns-domain-registration-transfers/)
 - Sep 08 - [The bargain at the heart of the BBC is fraying](https://jamesomalley.substack.com/p/the-bbc-faces-a-death-spiral-and)
 - Sep 08 - [GitHub Actions Limitations and Gotchas](https://www.cbui.dev/github-actions-limitations-and-gotchas/)
 - Sep 08 - [Quadrant Eye (YC W21) Is Hiring a Head of Research, Engineering, Design](https://www.notion.so/quadranteye/Welcome-to-the-Quadrant-Eye-jobs-page-daca8963683b4435bd871032224343c0)
-- Sep 08 - [Toyota to spend 1.5T yen on EV battery development](https://www.asahi.com/ajw/articles/14436029)
-- Sep 08 - [The Creative World’s Bullshit Industrial Complex](https://99u.adobe.com/articles/55974/the-creative-worlds-bullshit-industrial-complex)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
