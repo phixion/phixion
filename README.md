@@ -35,8 +35,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 08 - [Sir Tim Berners-Lee joins Proton’s advisory board](https://protonmail.com/blog/sir-tim-berners-lee-advisory-board/)
 - Sep 08 - [Thread: Some sketchy behavior coming out of the SEC recently](https://twitter.com/brian_armstrong/status/1435439291715358721)
-- Sep 08 - [Let Your Top Performers Move Around the Company](https://hbr.org/2021/08/let-your-top-performers-move-around-the-company)
 - Sep 08 - [In the 1980s, James Dallas Egbert and the Media Blamed Dungeons and Dragons](https://quidplura.com/2021/09/07/but-down-in-the-underground-youll-find-someone-true-2/)
 - Sep 08 - [SwiftSku (YC W21) Is Hiring Gujarati Account Executives](https://www.ycombinator.com/companies/swiftsku/jobs/YhllV1x-sales-account-executive)
 - Sep 07 - [Rust Programs Written in Rust](https://blog.sunfishcode.online/rust-programs-entirely-in-rust/)
