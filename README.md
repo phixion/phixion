@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 08 - [Generating Random Numbers Is a Lot Harder Than You Think](https://betterprogramming.pub/generating-random-numbers-is-a-lot-harder-than-you-think-b121c3e75d08)
+- Sep 08 - [Ask HN: Remote Work for Refugees and Asylum Seekers?](https://news.ycombinator.com/item?id=28458266)
 - Sep 08 - [The ADE 651 is a fake bomb detector, sold for up to US$60k each](https://en.wikipedia.org/wiki/ADE_651)
 - Sep 08 - [Archive.is owner on “continuity of his project”](https://blog.archive.today/post/660719734341386240/is-there-any-structure-in-place-to-assure-the)
-- Sep 08 - [Ask HN: How did you become a software engineer?](https://news.ycombinator.com/item?id=28457499)
-- Sep 08 - [20 years after 9/11: Will we ever stop taking our shoes off at airports?](https://www.ocregister.com/2021/09/07/20-years-after-9-11-will-we-ever-stop-taking-our-shoes-off-at-airports/)
-- Sep 08 - [IBM mainframe beats other platforms for cost and performance](https://www.planetmainframe.com/2021/09/the-ibm-mainframe-the-most-powerful-and-cost-effective-computing-platform-for-business/)
+- Sep 08 - [Monitoring my home's air quality with AirGradient's DIY sensor](https://www.jeffgeerling.com/blog/2021/airgradient-diy-air-quality-monitor-co2-pm25)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
