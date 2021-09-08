@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 08 - [The bargain at the heart of the BBC is fraying](https://jamesomalley.substack.com/p/the-bbc-faces-a-death-spiral-and)
 - Sep 08 - [GitHub Actions Limitations and Gotchas](https://www.cbui.dev/github-actions-limitations-and-gotchas/)
 - Sep 08 - [Quadrant Eye (YC W21) Is Hiring a Head of Research, Engineering, Design](https://www.notion.so/quadranteye/Welcome-to-the-Quadrant-Eye-jobs-page-daca8963683b4435bd871032224343c0)
 - Sep 08 - [Toyota to spend 1.5T yen on EV battery development](https://www.asahi.com/ajw/articles/14436029)
 - Sep 08 - [The Creative World’s Bullshit Industrial Complex](https://99u.adobe.com/articles/55974/the-creative-worlds-bullshit-industrial-complex)
-- Sep 08 - [If You’re So Successful, Why Are You Still Working 70 Hours a Week?](https://hbr.org/2018/02/if-youre-so-successful-why-are-you-still-working-70-hours-a-week)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
