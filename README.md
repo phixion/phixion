@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 08 - [Almost free serverless on-demand Minecraft server in AWS](https://github.com/doctorray117/minecraft-ondemand)
 - Sep 08 - [First Edition Unix Manual 'Miscellaneous' Section (1971) [pdf]](http://web.archive.org/web/20000829224359/http://cm.bell-labs.com/cm/cs/who/dmr/man71.pdf)
 - Sep 08 - [Chinese activist Ai Weiwei says Credit Suisse closing foundation's bank account](https://www.reuters.com/world/china/chinese-activist-ai-weiwei-says-credit-suisse-closing-his-foundations-bank-2021-09-07/)
 - Sep 08 - [Lemmy – A link aggregator for the fediverse](https://join-lemmy.org/)
 - Sep 08 - [The SEC has told us it wants to sue us over Lend. We don’t know why](https://blog.coinbase.com/the-sec-has-told-us-it-wants-to-sue-us-over-lend-we-have-no-idea-why-a3a1b6507009)
-- Sep 08 - [The Problems with Deliberate Practice (2020)](https://commoncog.com/blog/the-problems-with-deliberate-practice/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
