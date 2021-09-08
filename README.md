@@ -35,9 +35,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 08 - [The IBM Mainframe: The most powerful and cost-effective computing platform](https://www.planetmainframe.com/2021/09/the-ibm-mainframe-the-most-powerful-and-cost-effective-computing-platform-for-business/)
 - Sep 08 - [Space station astronaut captures breathtaking view of the edge of the Earth](https://www.cnet.com/news/space-station-astronaut-captures-breathtaking-view-of-the-edge-of-the-earth/)
 - Sep 08 - [MagicBell (YC W21), a 5 people team, is hiring a Ruby engineer (async remote)](https://magicbell.notion.site/Senior-Backend-Engineer-Fully-Remote-d70c9500f10548c29729a4998a556822)
-- Sep 08 - [Solarpunk Is Not About Pretty Aesthetics. It's About the End of Capitalism](https://www.vice.com/en/article/wx5aym/solarpunk-is-not-about-pretty-aesthetics-its-about-the-end-of-capitalism)
 - Sep 08 - [ByteDance in talks with banks to borrow over $3B](https://www.reuters.com/technology/bytedance-talks-borrow-up-5-bln-information-2021-09-08/)
 - Sep 08 - [Disinformation-for-hire in Kenya](https://foundation.mozilla.org/en/blog/fellow-research-inside-the-shadowy-world-of-disinformation-for-hire-in-kenya/)
 <!--END_SECTION:hn-->
