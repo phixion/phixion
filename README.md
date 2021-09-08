@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 08 - [The 'megacomet' Bernardinelli-Bernstein is the find of a decade](https://www.space.com/giant-comet-bernardinelli-bernstein-discovery-size-activity)
-- Sep 08 - [Generating Random Numbers Is a Lot Harder Than You Think](https://betterprogramming.pub/generating-random-numbers-is-a-lot-harder-than-you-think-b121c3e75d08)
-- Sep 08 - [As a virologist I’m shocked my work has been hijacked by anti-vaxxers](https://www.theguardian.com/commentisfree/2021/sep/07/virologist-work-anti-vaxxers-covid)
-- Sep 08 - [Built to Last – RSS, HTTP (2015)](https://blog.theoldreader.com/post/111572910019/standard)
-- Sep 08 - [Web3 Is a Stupid Idea](https://timdaub.github.io/2020/09/08/web3/)
+- Sep 08 - [The Creative World’s Bullshit Industrial Complex](https://99u.adobe.com/articles/55974/the-creative-worlds-bullshit-industrial-complex)
+- Sep 08 - [The US could default on its debt by October](https://www.nytimes.com/2021/09/08/business/economy/united-states-debt-default.html)
+- Sep 08 - [If You’re So Successful, Why Are You Still Working 70 Hours a Week?](https://hbr.org/2018/02/if-youre-so-successful-why-are-you-still-working-70-hours-a-week)
+- Sep 08 - [Docker Broke in Half](https://www.infoworld.com/article/3632142/how-docker-broke-in-half.html)
+- Sep 08 - [Pedalboard: Spotify’s Audio Effects Library for Python](https://engineering.atspotify.com/2021/09/07/introducing-pedalboard-spotifys-audio-effects-library-for-python/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
