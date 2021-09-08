@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Sep 08 - [The 'megacomet' Bernardinelli-Bernstein is the find of a decade](https://www.space.com/giant-comet-bernardinelli-bernstein-discovery-size-activity)
 - Sep 08 - [Generating Random Numbers Is a Lot Harder Than You Think](https://betterprogramming.pub/generating-random-numbers-is-a-lot-harder-than-you-think-b121c3e75d08)
-- Sep 08 - [Ask HN: Remote Work for Refugees and Asylum Seekers?](https://news.ycombinator.com/item?id=28458266)
 - Sep 08 - [As a virologist I’m shocked my work has been hijacked by anti-vaxxers](https://www.theguardian.com/commentisfree/2021/sep/07/virologist-work-anti-vaxxers-covid)
 - Sep 08 - [Built to Last – RSS, HTTP (2015)](https://blog.theoldreader.com/post/111572910019/standard)
+- Sep 08 - [Web3 Is a Stupid Idea](https://timdaub.github.io/2020/09/08/web3/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
