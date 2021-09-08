@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 08 - [Quadrant Eye (YC W21) Is Hiring a Head of Research, Engineering, Design](https://www.notion.so/quadranteye/Welcome-to-the-Quadrant-Eye-jobs-page-daca8963683b4435bd871032224343c0)
 - Sep 08 - [The Creative World’s Bullshit Industrial Complex](https://99u.adobe.com/articles/55974/the-creative-worlds-bullshit-industrial-complex)
 - Sep 08 - [The US could default on its debt by October](https://www.nytimes.com/2021/09/08/business/economy/united-states-debt-default.html)
 - Sep 08 - [If You’re So Successful, Why Are You Still Working 70 Hours a Week?](https://hbr.org/2018/02/if-youre-so-successful-why-are-you-still-working-70-hours-a-week)
 - Sep 08 - [Docker Broke in Half](https://www.infoworld.com/article/3632142/how-docker-broke-in-half.html)
-- Sep 08 - [Pedalboard: Spotify’s Audio Effects Library for Python](https://engineering.atspotify.com/2021/09/07/introducing-pedalboard-spotifys-audio-effects-library-for-python/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
