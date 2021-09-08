@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 08 - [‘No point in anything else’: Gen Z members flock to climate careers](https://www.theguardian.com/environment/2021/sep/06/gen-z-climate-change-careers-jobs)
 - Sep 08 - [20 years after 9/11: Will we ever stop taking our shoes off at airports?](https://www.ocregister.com/2021/09/07/20-years-after-9-11-will-we-ever-stop-taking-our-shoes-off-at-airports/)
 - Sep 08 - [The IBM Mainframe: The most powerful and cost-effective computing platform](https://www.planetmainframe.com/2021/09/the-ibm-mainframe-the-most-powerful-and-cost-effective-computing-platform-for-business/)
 - Sep 08 - [Miegakure Update September 2021](https://marctenbosch.com/news/2021/09/miegakure-update-september-2021/)
-- Sep 08 - [Space station astronaut captures breathtaking view of the edge of the Earth](https://www.cnet.com/news/space-station-astronaut-captures-breathtaking-view-of-the-edge-of-the-earth/)
-- Sep 08 - [MagicBell (YC W21), a 5 people team, is hiring a Ruby engineer (async remote)](https://magicbell.notion.site/Senior-Backend-Engineer-Fully-Remote-d70c9500f10548c29729a4998a556822)
+- Sep 08 - [Notion Acquires Automate.io](https://www.notion.so/blog/taking-building-blocks-beyond-the-workspace-welcome-automate-io)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
