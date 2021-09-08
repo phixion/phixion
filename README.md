@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 08 - [Opal Camera](https://opalcamera.com/)
+- Sep 08 - [Show HN: PeeYork, Bathroom finder app for NY](https://peeyork.webflow.io/)
 - Sep 08 - [Soar Cognitive Architecture](https://soar.eecs.umich.edu/)
 - Sep 08 - [Public Comment on Inflation Measurement](http://www.shadowstats.com/article/no-438-public-comment-on-inflation-measurement)
 - Sep 08 - [NASA's James Webb Space Telescope Launch Delayed to December](https://www.space.com/james-webb-space-telescope-launch-december-2021)
-- Sep 08 - [Triplebyte Hiring Head of Engineering](https://news.ycombinator.com/item?id=28462991)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
