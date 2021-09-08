@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 08 - [Soar Cognitive Architecture](https://soar.eecs.umich.edu/)
+- Sep 08 - [NASA's James Webb Space Telescope Launch Delayed to December](https://www.space.com/james-webb-space-telescope-launch-december-2021)
 - Sep 08 - [Triplebyte Hiring Head of Engineering](https://news.ycombinator.com/item?id=28462991)
 - Sep 08 - [How to Replace Docker with Podman on a Mac](https://www.redhat.com/sysadmin/replace-docker-podman-macos)
 - Sep 08 - [Silanano launches the first new commercial battery chemistry since 1991](https://silanano.com/news/one-small-new-battery-one-giant-leap-for-our-energy-future/?referrer)
-- Sep 08 - [Massive animal species discovered in half-billion-year-old Burgess Shale](https://www.rom.on.ca/en/about-us/newsroom/press-releases/massive-new-animal-species-discovered-in-half-billion-year-old)
-- Sep 08 - [How We Went All In on sqlc/pgx for Postgres and Go](https://brandur.org/sqlc)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
