@@ -35,10 +35,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 08 - [Amazon Elasticsearch Service Is Now Amazon OpenSearch Service](https://aws.amazon.com/blogs/aws/amazon-elasticsearch-service-is-now-amazon-opensearch-service-and-supports-opensearch-10/)
 - Sep 08 - [Turning the Labor Shortage Up to 11](https://alhambrapartners.com/2021/09/08/turning-the-labor-shortage-up-to-11/)
 - Sep 08 - [How strong would a magnetic field have to be to kill you?](https://gravityandlevity.wordpress.com/2015/01/12/how-strong-would-a-magnetic-field-have-to-be-to-kill-you/#comment-3929)
 - Sep 08 - [How Doctors die. It’s not like the rest of us (2016)](https://archive.cancerworld.net/featured/how-doctors-die/)
-- Sep 08 - [Show HN: PeeYork, Bathroom finder app for NY](https://peeyork.webflow.io/)
 - Sep 08 - [Soar Cognitive Architecture](https://soar.eecs.umich.edu/)
 <!--END_SECTION:hn-->
 
