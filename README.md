@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 09 - [What would happen if your body suddenly lost 1% of its electrons?](https://gravityandlevity.wordpress.com/2013/05/22/what-if-i-were-1-charged/)
 - Sep 09 - [Apple’s effort to court ‘ethical’ hackers draws poor reviews](https://www.washingtonpost.com/technology/2021/09/09/apple-bug-bounty/)
 - Sep 09 - [Native Rust Support on Cloudflare Workers](https://blog.cloudflare.com/workers-rust-sdk/)
 - Sep 09 - [El Salvador’s new Bitcoin wallets could cost Western Union $400M a year](https://www.cnbc.com/2021/09/09/el-salvador-bitcoin-move-could-cost-western-union-400-million-a-year.html)
 - Sep 09 - [Show HN: FractalCrypt 2.0 – free deniable encryption cryptoarchiver](http://github.com/zorggish/FractalCryptGUI)
-- Sep 09 - [60x speed-up of Linux “perf”](https://eighty-twenty.org/2021/09/09/perf-addr2line-speed-improvement)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
