@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 09 - [Amazon to Pay Full College Tuition for Its Front-Line Employees](https://www.aboutamazon.com/news/workplace/amazon-to-pay-full-college-tuition-for-front-line-employees)
+- Sep 09 - [Work in progress 3D renderer using SDL2(just for learning, only shows wireframe)](https://github.com/threadException/renderer)
+- Sep 09 - [New Math Book Rescues Landmark Topology Proof](https://www.quantamagazine.org/new-math-book-rescues-landmark-topology-proof-20210909/)
+- Sep 09 - [MasterCard Acquires CipherTrace to Enhance Crypto Capabilities](https://www.mastercard.com/news/press/2021/september/mastercard-acquires-ciphertrace-to-enhance-crypto-capabilities/)
+- Sep 09 - [Amazon to pay full college tuition for its front-line employees](https://www.aboutamazon.com/news/workplace/amazon-to-pay-full-college-tuition-for-front-line-employees)
 - Sep 09 - [Artificial Cells That Mimic Living Cells’ Ability to Capture, Process and Expel](https://www.nyu.edu/about/news-publications/news/2021/september/artificial-cells.html)
-- Sep 09 - [Rust 1.55.0](https://blog.rust-lang.org/2021/09/09/Rust-1.55.0.html)
-- Sep 09 - [The Matrix Resurrections – Official Trailer](https://www.youtube.com/watch?v=9ix7TUGVYIo&ab_channel=WarnerBros.Pictures)
-- Sep 09 - [Ministry of Freedom – GNU+Linux laptops with Libreboot preinstalled](https://minifree.org)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
