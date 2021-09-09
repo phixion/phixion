@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 09 - [Navattic (YC W21) is hiring](https://news.ycombinator.com/item?id=28471878)
-- Sep 09 - [Facebook, Ray-Ban debut picture-taking smart glasses](https://www.axios.com/facebook-ray-ban-wayfarer-stories-5f113bfa-797f-4e2d-b99c-7d65a8726607.html)
-- Sep 09 - [Matrix? No, Thanks](https://hackea.org/notas/matrix.html)
+- Sep 09 - [Facebook, Ray-Ban launch smart glasses](https://apnews.com/article/technology-business-7108e4104b31e349a64de6bf96b970a0)
 - Sep 09 - [California Bill Passes, Giving Amazon Warehouse Workers Power to Fight Quotas](https://www.npr.org/2021/09/08/1034776936/amazon-warehouse-workers-speed-quotas-california-bill)
 - Sep 09 - [New Math Book Rescues Landmark Topology Proof](https://www.quantamagazine.org/new-math-book-rescues-landmark-topology-proof-20210909/)
+- Sep 09 - [HAProxy vulnerability enables HTTP request smuggling attacks](https://portswigger.net/daily-swig/haproxy-vulnerability-enables-http-request-smuggling-attacks)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
