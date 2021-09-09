@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 09 - [Apple’s effort to court ‘ethical’ hackers draws poor reviews](https://www.washingtonpost.com/technology/2021/09/09/apple-bug-bounty/)
+- Sep 09 - [Native Rust Support on Cloudflare Workers](https://blog.cloudflare.com/workers-rust-sdk/)
 - Sep 09 - [El Salvador’s new Bitcoin wallets could cost Western Union $400M a year](https://www.cnbc.com/2021/09/09/el-salvador-bitcoin-move-could-cost-western-union-400-million-a-year.html)
 - Sep 09 - [Show HN: FractalCrypt 2.0 – free deniable encryption cryptoarchiver](http://github.com/zorggish/FractalCryptGUI)
-- Sep 09 - [California aims to ban recycling symbols on things that aren’t recyclable](https://www.nytimes.com/2021/09/08/climate/arrows-recycling-symbol-california.html)
-- Sep 09 - [Pachyderm Is Hiring Senior DevOps, Golang Engs, and Product Managers](https://www.pachyderm.com/careers/#positions)
-- Sep 09 - [Show HN: Heroku Alternative for Python/Django apps](https://appliku.com/)
+- Sep 09 - [60x speed-up of Linux “perf”](https://eighty-twenty.org/2021/09/09/perf-addr2line-speed-improvement)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
