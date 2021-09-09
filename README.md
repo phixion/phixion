@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 09 - [Climate Disaster Is the New Normal. Can We Save Ourselves?](https://www.nytimes.com/2021/09/07/opinion/climate-change-disaster-adaptation.html)
 - Sep 09 - [In the Memory Ward: Britain's most eccentric and original library (2015)](https://www.newyorker.com/magazine/2015/03/16/in-the-memory-ward)
 - Sep 09 - [Unpacking Observability: The Observability Stack](https://adri-v.medium.com/unpacking-observability-the-observability-stack-93d4733e2a72)
 - Sep 09 - [Event Horizon Telescope Traces Magnetic Fields Around a Black Hole](https://aasnova.org/2021/03/24/event-horizon-telescope-traces-magnetic-fields-around-a-black-hole/)
 - Sep 09 - [mRNA cancer therapy now in human trials after shrinking mouse tumours](https://www.newscientist.com/article/2289334-mrna-cancer-therapy-now-in-human-trials-after-shrinking-mouse-tumours/)
-- Sep 09 - [Amazon EKS Anywhere](https://github.com/aws/eks-anywhere)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
