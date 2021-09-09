@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 09 - [MDMA Reopens Child-Like “Critical Periods” in the Brain](https://www.analyticalcannabis.com/articles/mdma-reopens-child-like-critical-periods-in-the-brain-to-promote-mental-healing-313357)
+- Sep 09 - [MDMA reopens child-like “critical periods” in the brain](https://www.analyticalcannabis.com/articles/mdma-reopens-child-like-critical-periods-in-the-brain-to-promote-mental-healing-313357)
 - Sep 09 - [Everybody makes mistakes when writing comparison functions](https://karpov2007.medium.com/everybody-makes-mistakes-when-writing-comparison-functions-9cd49ea35088)
 - Sep 09 - [Introduction to OWASP Top 10 2021](https://owasp.org/Top10/)
 - Sep 09 - [GitHub Actions checkspelling community workflow GitHub_TOKEN leakage via symlink](https://github.com/justinsteven/advisories/blob/master/2021_github_actions_checkspelling_token_leak_via_advice_symlink.md)
