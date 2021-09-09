@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 09 - [Amazon to Pay Full College Tuition for Its Front-Line Employees](https://www.aboutamazon.com/news/workplace/amazon-to-pay-full-college-tuition-for-front-line-employees)
 - Sep 09 - [Artificial Cells That Mimic Living Cells’ Ability to Capture, Process and Expel](https://www.nyu.edu/about/news-publications/news/2021/september/artificial-cells.html)
 - Sep 09 - [Rust 1.55.0](https://blog.rust-lang.org/2021/09/09/Rust-1.55.0.html)
+- Sep 09 - [The Matrix Resurrections – Official Trailer](https://www.youtube.com/watch?v=9ix7TUGVYIo&ab_channel=WarnerBros.Pictures)
 - Sep 09 - [Ministry of Freedom – GNU+Linux laptops with Libreboot preinstalled](https://minifree.org)
-- Sep 09 - [What if I were 1% charged? (2013)](https://gravityandlevity.wordpress.com/2013/05/22/what-if-i-were-1-charged/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
