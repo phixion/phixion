@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 09 - [In the Memory Ward: Britain's most eccentric and original library (2015)](https://www.newyorker.com/magazine/2015/03/16/in-the-memory-ward)
+- Sep 09 - [Facebook Undermines Privacy Protections for Its 2B WhatsApp Users](https://thewire.in/tech/facebook-undermines-privacy-protections-whatsapp-users)
+- Sep 09 - [Introduction to OWASP Top](https://owasp.org/Top10/)
+- Sep 09 - [GitHub Actions checkspelling community workflow GitHub_TOKEN leakage via symlink](https://github.com/justinsteven/advisories/blob/master/2021_github_actions_checkspelling_token_leak_via_advice_symlink.md)
+- Sep 09 - [Panama unveils bill to make Bitcoin legal tender](https://www.cnet.com/personal-finance/panama-unveils-bill-to-make-bitcoin-legal-tender/)
 - Sep 09 - [Unpacking Observability: The Observability Stack](https://adri-v.medium.com/unpacking-observability-the-observability-stack-93d4733e2a72)
-- Sep 09 - [Event Horizon Telescope Traces Magnetic Fields Around a Black Hole](https://aasnova.org/2021/03/24/event-horizon-telescope-traces-magnetic-fields-around-a-black-hole/)
-- Sep 09 - [mRNA cancer therapy now in human trials after shrinking mouse tumours](https://www.newscientist.com/article/2289334-mrna-cancer-therapy-now-in-human-trials-after-shrinking-mouse-tumours/)
-- Sep 09 - [Amazon EKS Anywhere](https://github.com/aws/eks-anywhere)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
