@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 09 - [Silicon Valley finds remote work is easier to begin than end](https://www.mercurynews.com/2021/09/08/silicon-valley-finds-remote-work-is-easier-to-begin-than-end/)
+- Sep 09 - [Microsoft launches a personalized news service, Microsoft Start](https://techcrunch.com/2021/09/07/microsoft-launches-a-personalized-news-service-microsoft-start/)
 - Sep 09 - [Three Stanford professors on the sensible regulation of Big Tech](https://thebrowser.com/notes/system-error-rob-reich-jeremy-weinstein-mehran-sahami/)
 - Sep 09 - [Mad Max Fury Road vehicle auction](https://www.lloydsonline.com.au/LotDetails.aspx?lid=3091593)
 - Sep 09 - [Tell HN: Thanks to thehodge and littlewarden.com, this site is up today](https://news.ycombinator.com/item?id=28472350)
