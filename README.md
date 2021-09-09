@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 09 - [US’s wealthiest 1% are failing to pay $160bn a year in taxes, report finds](https://www.theguardian.com/us-news/2021/sep/08/us-wealthiest-responsible-yearly-160bn-lost-tax-revenue)
 - Sep 09 - [TrueVault (YC W14) Is Hiring a VP of Eng to Help SMBs with Data Privacy Laws](https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-vp-engineering)
 - Sep 09 - [NIST research reveals new details about a possible fifth force of nature](https://www.nist.gov/news-events/news/2021/09/groundbreaking-technique-yields-important-new-details-silicon-subatomic)
 - Sep 09 - [Hong Kong: Police Raid Tiananmen Square Museum](https://www.bbc.co.uk/news/world-asia-china-58506598)
 - Sep 09 - [Shipping Clubhouse on Android in 10 Weeks](https://blog.clubhouse.com/shipping-clubhouse-on-android-in-10-weeks/)
-- Sep 09 - [Money creation in the modern economy (2014) [pdf]](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
