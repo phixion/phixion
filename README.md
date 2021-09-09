@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 09 - [Canada aims to block Chelsea Manning from entering country](https://www.theglobeandmail.com/canada/article-canada-aims-to-block-chelsea-manning-from-entering-country/)
 - Sep 09 - [Digital Minimalism: What are the alternative to screen time?](https://news.ycombinator.com/item?id=28465181)
-- Sep 09 - [Most physicians would forgo aggressive treatment for themselves at EOL (2014)](https://med.stanford.edu/news/all-news/2014/05/most-physicians-would-forgo-aggressive-treatment-for-themselves-.html)
+- Sep 09 - [Amid a Pandemic, a Health Care Algorithm Shows Promise and Peril](https://undark.org/2021/05/27/health-care-algorithm-promise-peril/)
 - Sep 08 - [Australia media can be sued for social media comments, court rules](https://www.bbc.com/news/world-australia-58484205)
 - Sep 08 - [How strong would a magnetic field have to be to kill you?](https://gravityandlevity.wordpress.com/2015/01/12/how-strong-would-a-magnetic-field-have-to-be-to-kill-you/#comment-3929)
-- Sep 08 - [How Doctors die. It’s not like the rest of us (2016)](https://archive.cancerworld.net/featured/how-doctors-die/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
