@@ -35,8 +35,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 09 - [“Nihilism is OK” is not OK](https://meaningness.com/nihilism-considered-harmful)
 - Sep 09 - [Event Horizon Telescope Traces Magnetic Fields Around a Black Hole](https://aasnova.org/2021/03/24/event-horizon-telescope-traces-magnetic-fields-around-a-black-hole/)
+- Sep 09 - [mRNA cancer therapy now in human trials after shrinking mouse tumours](https://www.newscientist.com/article/2289334-mrna-cancer-therapy-now-in-human-trials-after-shrinking-mouse-tumours/)
 - Sep 09 - [Amazon EKS Anywhere](https://github.com/aws/eks-anywhere)
 - Sep 09 - [Absorption of 5G Radiation in Brain Tissue](https://ieeexplore.ieee.org/abstract/document/9115853)
 - Sep 09 - [The web is swallowing the desktop whole and nobody noticed (2017)](https://char.gd/blog/2017/the-web-is-swallowing-the-desktop-whole-and-nobody-noticed)
