@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 09 - [Sayings of Spartan Women](https://penelope.uchicago.edu/Thayer/e/roman/texts/plutarch/moralia/sayings_of_spartan_women*.html)
-- Sep 09 - [Climate: Majority of fossil fuels need to stay underground, study says](https://www.cnbc.com/2021/09/09/climate-majority-of-fossil-fuels-need-to-stay-underground-study-says.html)
-- Sep 09 - [GNU+Linux Laptops with Libreboot. Secure, Private. Free as in Freedom](https://minifree.org)
+- Sep 09 - [Ministry of Freedom – GNU+Linux laptops with Libreboot preinstalled](https://minifree.org)
 - Sep 09 - [What if I were 1% charged? (2013)](https://gravityandlevity.wordpress.com/2013/05/22/what-if-i-were-1-charged/)
 - Sep 09 - [Apple’s effort to court ‘ethical’ hackers draws poor reviews](https://www.washingtonpost.com/technology/2021/09/09/apple-bug-bounty/)
+- Sep 09 - [Native Rust Support on Cloudflare Workers](https://blog.cloudflare.com/workers-rust-sdk/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
