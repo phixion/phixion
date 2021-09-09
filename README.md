@@ -35,10 +35,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 09 - [US Gov`t Employees Required to Take Vaccine](https://text.npr.org/1035149651)
+- Sep 09 - [Biden to mandate coronavirus vaccine for federal workers](https://www.npr.org/2021/09/09/1035149651/biden-will-require-vaccines-for-federal-workers-as-part-of-a-new-covid-strategy)
 - Sep 09 - [Mad Max Fury Road vehicle auction](https://www.lloydsonline.com.au/LotDetails.aspx?lid=3091593)
 - Sep 09 - [Tell HN: Thanks to thehodge and littlewarden.com, this site is up today](https://news.ycombinator.com/item?id=28472350)
-- Sep 09 - [Twenty Percent of a Picture of a Dog](https://www.bloomberg.com/opinion/articles/2021-09-09/twenty-percent-of-a-picture-of-a-dog)
+- Sep 09 - [Twenty percent of a picture of a dog](https://www.bloomberg.com/opinion/articles/2021-09-09/twenty-percent-of-a-picture-of-a-dog)
 - Sep 09 - [Navattic (YC W21) is hiring](https://news.ycombinator.com/item?id=28471878)
 <!--END_SECTION:hn-->
 
