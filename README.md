@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 09 - [“Nihilism is OK” is not OK](https://meaningness.com/nihilism-considered-harmful)
+- Sep 09 - [Event Horizon Telescope Traces Magnetic Fields Around a Black Hole](https://aasnova.org/2021/03/24/event-horizon-telescope-traces-magnetic-fields-around-a-black-hole/)
 - Sep 09 - [Amazon EKS Anywhere](https://github.com/aws/eks-anywhere)
+- Sep 09 - [Absorption of 5G Radiation in Brain Tissue as a Function of Freq, Power and Time](https://ieeexplore.ieee.org/abstract/document/9115853)
 - Sep 09 - [The web is swallowing the desktop whole and nobody noticed (2017)](https://char.gd/blog/2017/the-web-is-swallowing-the-desktop-whole-and-nobody-noticed)
-- Sep 09 - [Exploring the Amiga – Part 1 (2018)](https://www.thedigitalcatonline.com/blog/2018/05/28/exploring-the-amiga-1/)
-- Sep 09 - [Canada aims to block Chelsea Manning from entering country](https://www.theglobeandmail.com/canada/article-canada-aims-to-block-chelsea-manning-from-entering-country/)
-- Sep 09 - [Digital Minimalism: What are the alternative to screen time?](https://news.ycombinator.com/item?id=28465181)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
