@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 09 - [Mad Max Fury Road vehicle auction](https://www.lloydsonline.com.au/LotDetails.aspx?lid=3091593)
 - Sep 09 - [Tell HN: Thanks to thehodge and littlewarden.com, this site is up today](https://news.ycombinator.com/item?id=28472350)
 - Sep 09 - [The most cited neural networks all build on work done in my labs](https://people.idsia.ch/~juergen/most-cited-neural-nets.html)
+- Sep 09 - [Twenty Percent of a Picture of a Dog](https://www.bloomberg.com/opinion/articles/2021-09-09/twenty-percent-of-a-picture-of-a-dog)
 - Sep 09 - [Navattic (YC W21) is hiring](https://news.ycombinator.com/item?id=28471878)
-- Sep 09 - [Facebook, Ray-Ban debut picture-taking smart glasses](https://www.axios.com/facebook-ray-ban-wayfarer-stories-5f113bfa-797f-4e2d-b99c-7d65a8726607.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
