@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 09 - [AsyncAPI vs. OpenAPI: Answers to Your Burning Questions](https://www.asyncapi.com/blog/openapi-vs-asyncapi-burning-questions)
-- Sep 09 - [MDMA reopens child-like “critical periods” in the brain](https://www.analyticalcannabis.com/articles/mdma-reopens-child-like-critical-periods-in-the-brain-to-promote-mental-healing-313357)
-- Sep 09 - [Everybody makes mistakes when writing comparison functions](https://karpov2007.medium.com/everybody-makes-mistakes-when-writing-comparison-functions-9cd49ea35088)
-- Sep 09 - [Introduction to OWASP Top 10 2021](https://owasp.org/Top10/)
-- Sep 09 - [GitHub Actions checkspelling community workflow GitHub_TOKEN leakage via symlink](https://github.com/justinsteven/advisories/blob/master/2021_github_actions_checkspelling_token_leak_via_advice_symlink.md)
+- Sep 09 - [Pachyderm Is Hiring Senior DevOps, Golang Engs, and Product Managers](https://www.pachyderm.com/careers/#positions)
+- Sep 09 - [Black People Who Oppose Critical Race Theory Are Being Erased](https://www.msn.com/en-us/news/opinion/black-people-who-oppose-critical-race-theory-are-being-erased-opinion/ar-AAObxb0)
+- Sep 09 - [Smoke alarms go off at the International Space Station](https://www.euronews.com/2021/09/09/smoke-alarms-go-off-at-the-international-space-station)
+- Sep 09 - [‘You bloody fool’: Australian talking duck proves birds can imitate speech](https://www.theguardian.com/australia-news/2021/sep/07/you-bloody-fool-australian-talking-duck-proves-birds-can-imitate-speech)
+- Sep 09 - [The Suez Canal Was Blocked (Again)](https://twitter.com/Attaqa2/status/1435922354027307009)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
