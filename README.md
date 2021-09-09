@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 09 - [Fossil fuels must remain in the ground to keep warming below 1.5°C, study says](https://www.euronews.com/2021/09/09/fossil-fuels-must-remain-in-the-ground-to-keep-warming-below-1-5-c-study-says)
 - Sep 09 - [Introduction to OWASP Top 10 2021](https://owasp.org/Top10/)
 - Sep 09 - [GitHub Actions checkspelling community workflow GitHub_TOKEN leakage via symlink](https://github.com/justinsteven/advisories/blob/master/2021_github_actions_checkspelling_token_leak_via_advice_symlink.md)
-- Sep 09 - [Panama unveils bill to make Bitcoin legal tender](https://www.cnet.com/personal-finance/panama-unveils-bill-to-make-bitcoin-legal-tender/)
+- Sep 09 - [Pumpkin OS: x64 port/re-implementation of PalmOS](https://pmig96.wordpress.com/2021/09/08/pumpkin-os/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
