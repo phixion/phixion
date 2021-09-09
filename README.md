@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 09 - [New Horizons for SPJ (Simon Peyton Jones Is Leaving Microsoft Research)](https://discourse.haskell.org/t/new-horizons-for-spj/3099)
 - Sep 09 - [Microsoft launches a personalized news service, Microsoft Start](https://techcrunch.com/2021/09/07/microsoft-launches-a-personalized-news-service-microsoft-start/)
 - Sep 09 - [Three Stanford professors on the sensible regulation of Big Tech](https://thebrowser.com/notes/system-error-rob-reich-jeremy-weinstein-mehran-sahami/)
 - Sep 09 - [Mad Max Fury Road vehicle auction](https://www.lloydsonline.com.au/LotDetails.aspx?lid=3091593)
 - Sep 09 - [Tell HN: Thanks to thehodge and littlewarden.com, this site is up today](https://news.ycombinator.com/item?id=28472350)
-- Sep 09 - [Twenty percent of a picture of a dog](https://www.bloomberg.com/opinion/articles/2021-09-09/twenty-percent-of-a-picture-of-a-dog)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
