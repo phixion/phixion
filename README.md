@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 09 - [Show HN: FractalCrypt 2.0 – free deniable encryption cryptoarchiver](http://github.com/zorggish/FractalCryptGUI)
+- Sep 09 - [California aims to ban recycling symbols on things that aren’t recyclable](https://www.nytimes.com/2021/09/08/climate/arrows-recycling-symbol-california.html)
 - Sep 09 - [Pachyderm Is Hiring Senior DevOps, Golang Engs, and Product Managers](https://www.pachyderm.com/careers/#positions)
-- Sep 09 - [Black People Who Oppose Critical Race Theory Are Being Erased](https://www.msn.com/en-us/news/opinion/black-people-who-oppose-critical-race-theory-are-being-erased-opinion/ar-AAObxb0)
+- Sep 09 - [Show HN: Heroku Alternative for Python/Django apps](https://appliku.com/)
 - Sep 09 - [Smoke alarms go off at the International Space Station](https://www.euronews.com/2021/09/09/smoke-alarms-go-off-at-the-international-space-station)
-- Sep 09 - [‘You bloody fool’: Australian talking duck proves birds can imitate speech](https://www.theguardian.com/australia-news/2021/sep/07/you-bloody-fool-australian-talking-duck-proves-birds-can-imitate-speech)
-- Sep 09 - [The Suez Canal Was Blocked (Again)](https://twitter.com/Attaqa2/status/1435922354027307009)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
