@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 10 - [Squats can boost your brain [video]](https://www.bbc.com/reel/video/p09v8wyh/how-squats-can-boost-your-brain)
 - Sep 10 - [A Twitter user insulted a German politician. Police then raided his house](https://www.washingtonpost.com/world/2021/09/09/pimmelgate-german-politician-police-raid/)
+- Sep 10 - [“Front end” or “Back end” is the wrong way to name Engineering you like](https://www.michellelim.org/writing/stop-using-frontend-backend/)
 - Sep 10 - [Why Don’t the French Celebrate Lafayette?](https://www.newyorker.com/magazine/2021/08/23/why-dont-the-french-celebrate-lafayette)
 - Sep 09 - [Epic tests Apple with new request: let us relaunch Fortnite in Korea](https://www.theverge.com/2021/9/9/22665826/epic-games-apple-reinstate-fortnite-ios-korea-app-store-payment)
-- Sep 09 - [The KIMplement 0.2b: a KIM-1 emulator for the Commodore 64](https://oldvcr.blogspot.com/2021/09/the-incredible-kimplement-02b-kim-1.html)
-- Sep 09 - [Jay Leiderman Has Died](https://gizmodo.com/hacker-lawyer-jay-leiderman-is-dead-at-50-1847646284)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
