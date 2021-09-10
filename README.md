@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 10 - [Squats can boost your brain [video]](https://www.bbc.com/reel/video/p09v8wyh/how-squats-can-boost-your-brain)
+- Sep 10 - [Squats can boost brain activity [video]](https://www.bbc.com/reel/video/p09v8wyh/how-squats-can-boost-your-brain)
 - Sep 10 - [A Twitter user insulted a German politician. Police then raided his house](https://www.washingtonpost.com/world/2021/09/09/pimmelgate-german-politician-police-raid/)
 - Sep 10 - [“Front end” or “Back end” is the wrong way to name Engineering you like](https://www.michellelim.org/writing/stop-using-frontend-backend/)
 - Sep 10 - [Why Don’t the French Celebrate Lafayette?](https://www.newyorker.com/magazine/2021/08/23/why-dont-the-french-celebrate-lafayette)
