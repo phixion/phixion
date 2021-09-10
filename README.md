@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 10 - [A Tight-Knit Circle of Internet Troublemakers Convinced Professional Journalists](https://tracingwoodgrains.medium.com/how-one-tight-knit-circle-of-internet-troublemakers-convinced-professional-journalists-they-were-ac05459aa4c5)
 - Sep 10 - [Wait, Did AS8003 just disappear?](https://www.kentik.com/blog/wait-did-as8003-just-disappear/)
 - Sep 10 - [POW Captcha: a lightweight, self-hosted proof-of-work captcha](https://git.sequentialread.com/forest/pow-captcha)
 - Sep 10 - [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://careers.atob.com/)
 - Sep 10 - [A second hexagon in the stratosphere of Saturn](https://mesonstars.com/inteteresting/they-find-a-second-hexagon-in-the-stratosphere-of-saturn/)
-- Sep 10 - [Windy.com](https://windy.com)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
