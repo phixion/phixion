@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 10 - [A Twitter user insulted a German politician. Police then raided his house](https://www.washingtonpost.com/world/2021/09/09/pimmelgate-german-politician-police-raid/)
+- Sep 10 - [Why Don’t the French Celebrate Lafayette?](https://www.newyorker.com/magazine/2021/08/23/why-dont-the-french-celebrate-lafayette)
 - Sep 09 - [Epic tests Apple with new request: let us relaunch Fortnite in Korea](https://www.theverge.com/2021/9/9/22665826/epic-games-apple-reinstate-fortnite-ios-korea-app-store-payment)
-- Sep 09 - [Andrew Yang to launch a third party](https://www.politico.com/news/2021/09/09/andrew-yang-third-party-511033)
-- Sep 09 - [TrueVault (YC W14) Is Hiring a VP of Eng to Help SMBs with Data Privacy Laws](https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-vp-engineering)
-- Sep 09 - [NIST research reveals new details about a possible fifth force of nature](https://www.nist.gov/news-events/news/2021/09/groundbreaking-technique-yields-important-new-details-silicon-subatomic)
-- Sep 09 - [Hong Kong: Police Raid Tiananmen Square Museum](https://www.bbc.co.uk/news/world-asia-china-58506598)
+- Sep 09 - [The KIMplement 0.2b: a KIM-1 emulator for the Commodore 64](https://oldvcr.blogspot.com/2021/09/the-incredible-kimplement-02b-kim-1.html)
+- Sep 09 - [Jay Leiderman Has Died](https://gizmodo.com/hacker-lawyer-jay-leiderman-is-dead-at-50-1847646284)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
