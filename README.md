@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 10 - [YOLOv5 on CPUs: Sparsifying to Achieve GPU-Level Performance](https://neuralmagic.com/blog/benchmark-yolov5-on-cpus-with-deepsparse/)
 - Sep 10 - [Modern Treasury (YC S18) is hiring new grad engineers for Jan. 2022](https://jobs.ashbyhq.com/moderntreasury/a14a33e3-c262-425a-830c-d86965d2a864?utm_source=yYPEbOqnBd)
 - Sep 10 - [Postgres: Boundless `Text` and Back Again](https://brandur.org/text)
+- Sep 10 - [Rustacean Principles](https://smallcultfollowing.com/babysteps//blog/2021/09/08/rustacean-principles/)
 - Sep 10 - [Apple Trial Ends in Mixed Verdict After Epic’s Monopoly Allegations](https://www.wsj.com/articles/apple-trial-ends-in-mixed-verdict-after-fortnite-makers-monopoly-allegations-11631289792)
-- Sep 10 - [Write More, but Shorter](https://blog.kewah.com/2021/write-more-but-shorter/)
-- Sep 10 - [Containers Don't Solve Everything](https://blog.deref.io/containers-dont-solve-everything/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
