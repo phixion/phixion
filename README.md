@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 10 - [Inai (YC S21) Is Hiring](https://www.ycombinator.com/companies/inai/jobs/fRqdcKA-business-development-representative)
+- Sep 10 - [Our fridge just emailed us to say we opened its door too many times](https://twitter.com/hondanhon/status/1436027395115393024)
 - Sep 10 - [TrackerControl](https://trackercontrol.org/)
 - Sep 10 - [Clearing up Myths about Ada](https://pyjarrett.github.io/programming-with-ada/clearing-the-air.html)
 - Sep 10 - [Protein and Transpacific Power](https://fortisanalysis.substack.com/p/protein-and-transpacific-power)
-- Sep 10 - [Squats can boost brain activity [video]](https://www.bbc.com/reel/video/p09v8wyh/how-squats-can-boost-your-brain)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
