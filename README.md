@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 10 - [Ask HN: Books that teach you programming languages via systems projects?](https://news.ycombinator.com/item?id=28478751)
 - Sep 10 - [A cross-platform GUI for YouTube-dl](https://github.com/jely2002/youtube-dl-gui)
 - Sep 10 - [Inai (YC S21) Is Hiring](https://www.ycombinator.com/companies/inai/jobs/fRqdcKA-business-development-representative)
-- Sep 10 - [Twitter to label 'good' bot accounts](https://www.bbc.com/news/technology-58510594)
+- Sep 10 - [Our fridge just emailed us to say we opened its door too many times](https://twitter.com/hondanhon/status/1436027395115393024)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
