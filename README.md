@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 10 - [JSON Schema bundling finally formalised](https://json-schema.org/blog/posts/bundling-json-schema-compound-documents)
 - Sep 10 - [Ask HN: Books that teach you programming languages via systems projects?](https://news.ycombinator.com/item?id=28478751)
+- Sep 10 - [A cross-platform GUI for YouTube-dl](https://github.com/jely2002/youtube-dl-gui)
 - Sep 10 - [Inai (YC S21) Is Hiring](https://www.ycombinator.com/companies/inai/jobs/fRqdcKA-business-development-representative)
 - Sep 10 - [Twitter to label 'good' bot accounts](https://www.bbc.com/news/technology-58510594)
-- Sep 10 - [TrackerControl](https://trackercontrol.org/)
-- Sep 10 - [Clearing up Myths about Ada](https://pyjarrett.github.io/programming-with-ada/clearing-the-air.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
