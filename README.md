@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 10 - [Is Word Error Rate a Good Metric for Speech Recognition Models?](https://www.assemblyai.com/blog/word-error-rate)
+- Sep 10 - [We (Still) Believe in Private Offices (2015)](https://stackoverflow.blog/2015/01/16/why-we-still-believe-in-private-offices/)
 - Sep 10 - [Meticulous (YC S21) Is Hiring #1 Founding Engineer](https://news.ycombinator.com/item?id=28480327)
 - Sep 10 - [JSON Schema bundling finally formalised](https://json-schema.org/blog/posts/bundling-json-schema-compound-documents)
 - Sep 10 - [Libreboot: Freedom-Respecting Boot Firmware](https://libreboot.org/)
-- Sep 10 - [Ask HN: Books that teach you programming languages via systems projects?](https://news.ycombinator.com/item?id=28478751)
-- Sep 10 - [A cross-platform GUI for YouTube-dl](https://github.com/jely2002/youtube-dl-gui)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
