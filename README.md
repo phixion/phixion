@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 10 - [Nuclear War Survival Skills](https://www.oism.org/nwss/)
 - Sep 10 - [CISA Zero Trust Maturity Model](https://www.cisa.gov/publication/zero-trust-maturity-model)
 - Sep 10 - [KrebsOnSecurity hit by same IoT botnet that hit a record DDoS on Cloudflare](https://twitter.com/briankrebs/status/1436309299131789326)
+- Sep 10 - [SE aeronautics claims tri-wing aircraft could revolutionize commercial aviation](https://www.designboom.com/technology/tri-wing-aircraft-concept-se-aeronautics-revolutionize-commercial-aviation-07-29-2021/)
 - Sep 10 - [A Better Shell (2019)](https://matklad.github.io/2019/11/16/a-better-shell.html)
-- Sep 10 - [Vivaldi Replaces Firefox as the Default Browser on Manjaro Linux Cinnamon](https://news.itsfoss.com/vivaldi-replaces-firefox-manjaro/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
