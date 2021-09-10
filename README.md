@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Sep 10 - [Inai (YC S21) Is Hiring](https://www.ycombinator.com/companies/inai/jobs/fRqdcKA-business-development-representative)
 - Sep 10 - [Our fridge just emailed us to say we opened its door too many times](https://twitter.com/hondanhon/status/1436027395115393024)
-- Sep 10 - [Ask HN: What’s the server architecture of Hacker News?](https://news.ycombinator.com/item?id=28478379)
 - Sep 10 - [Twitter to label 'good' bot accounts](https://www.bbc.com/news/technology-58510594)
 - Sep 10 - [TrackerControl](https://trackercontrol.org/)
+- Sep 10 - [Clearing up Myths about Ada](https://pyjarrett.github.io/programming-with-ada/clearing-the-air.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
