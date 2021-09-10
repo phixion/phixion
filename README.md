@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 10 - [Windows Subsystem for Linux GUI](https://github.com/microsoft/wslg)
+- Sep 10 - [London's Oyster card: Are its days numbered?](https://www.bbc.co.uk/news/uk-england-london-58197631)
 - Sep 10 - [Google illegally underpaid thousands of workers](https://www.theguardian.com/technology/2021/sep/10/google-underpaid-workers-illegal-pay-disparity-documents)
 - Sep 10 - [KrebsOnSecurity Hit by Huge New IoT Botnet “Meris”](https://krebsonsecurity.com/2021/09/krebsonsecurity-hit-by-huge-new-iot-botnet-meris/)
 - Sep 10 - [Atomic Gardening](https://www.atlasobscura.com/articles/radioactive-atomic-gardening)
-- Sep 10 - [Coalton: How to Have Our (Typed) Cake and (Safely) Eat It Too, in Common Lisp](https://coalton-lang.github.io/20211010-introducing-coalton/)
-- Sep 10 - [WhatsApp – Security of End-to-End Encrypted Backups [pdf]](https://www.whatsapp.com/security/WhatsApp_Security_Encrypted_Backups_Whitepaper.pdf)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
