@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 10 - [PC DOS 1.1 from Scratch](https://www.os2museum.com/wp/pc-dos-1-1-from-scratch/)
-- Sep 10 - [Court issues permanent injunction in Epic vs. Apple case](https://www.theverge.com/2021/9/10/22662320/epic-apple-ruling-injunction-judge-court-app-store)
-- Sep 10 - [Ask HN: How Do You Learn?](https://news.ycombinator.com/item?id=28482726)
-- Sep 10 - [Government audit of AI finds no AI](https://venturebeat.com/2021/04/05/government-audit-of-ai-with-ties-to-white-supremacy-finds-no-ai/)
-- Sep 10 - [Eyeway's Retina-Tracking Foveated Display](https://kguttag.com/2021/09/07/eyeway-vision-part-3-analysis/)
+- Sep 10 - [Apple Trial Ends in Mixed Verdict After Epic’s Monopoly Allegations](https://www.wsj.com/articles/apple-trial-ends-in-mixed-verdict-after-fortnite-makers-monopoly-allegations-11631289792)
+- Sep 10 - [Write More, but Shorter](https://blog.kewah.com/2021/write-more-but-shorter/)
+- Sep 10 - [Containers Don't Solve Everything](https://blog.deref.io/containers-dont-solve-everything/)
+- Sep 10 - [U.S. judge in 'Fortnite' case strikes down Apple's in-app payment restrictions](https://www.reuters.com/legal/litigation/judge-epic-suit-says-apple-restrictions-anti-competitive-2021-09-10/)
+- Sep 10 - [Oracle SQL Is the Devil](https://codingtofreedom.com/oracle-sql-is-the-devil/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
