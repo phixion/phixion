@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 10 - [Wide-ranging SolarWinds probe sparks fear in Corporate America](https://www.reuters.com/technology/exclusive-wide-ranging-solarwinds-probe-sparks-fear-corporate-america-2021-09-10/)
 - Sep 10 - [Nuclear War Survival Skills](https://www.oism.org/nwss/)
 - Sep 10 - [CISA Zero Trust Maturity Model](https://www.cisa.gov/publication/zero-trust-maturity-model)
 - Sep 10 - [KrebsOnSecurity hit by same IoT botnet that hit a record DDoS on Cloudflare](https://twitter.com/briankrebs/status/1436309299131789326)
 - Sep 10 - [SE aeronautics claims tri-wing aircraft could revolutionize commercial aviation](https://www.designboom.com/technology/tri-wing-aircraft-concept-se-aeronautics-revolutionize-commercial-aviation-07-29-2021/)
-- Sep 10 - [A Better Shell (2019)](https://matklad.github.io/2019/11/16/a-better-shell.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
