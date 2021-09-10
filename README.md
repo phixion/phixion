@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 09 - [US’s wealthiest 1% are failing to pay $160bn a year in taxes, report finds](https://www.theguardian.com/us-news/2021/sep/08/us-wealthiest-responsible-yearly-160bn-lost-tax-revenue)
+- Sep 09 - [Epic tests Apple with new request: let us relaunch Fortnite in Korea](https://www.theverge.com/2021/9/9/22665826/epic-games-apple-reinstate-fortnite-ios-korea-app-store-payment)
 - Sep 09 - [Andrew Yang to launch a third party](https://www.politico.com/news/2021/09/09/andrew-yang-third-party-511033)
 - Sep 09 - [TrueVault (YC W14) Is Hiring a VP of Eng to Help SMBs with Data Privacy Laws](https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-vp-engineering)
 - Sep 09 - [NIST research reveals new details about a possible fifth force of nature](https://www.nist.gov/news-events/news/2021/09/groundbreaking-technique-yields-important-new-details-silicon-subatomic)
