@@ -35,8 +35,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 10 - [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://careers.atob.com/)
 - Sep 10 - [Windy.com](https://windy.com)
-- Sep 10 - [USB-C Hubs and Ethernet Warning](https://lucumr.pocoo.org/2020/7/6/usb-c-network-hubs/)
 - Sep 10 - [Windows Subsystem for Linux GUI](https://github.com/microsoft/wslg)
 - Sep 10 - [London's Oyster card: Are its days numbered?](https://www.bbc.co.uk/news/uk-england-london-58197631)
 - Sep 10 - [Google illegally underpaid thousands of workers](https://www.theguardian.com/technology/2021/sep/10/google-underpaid-workers-illegal-pay-disparity-documents)
