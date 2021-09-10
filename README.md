@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 10 - [Atomic Gardening](https://www.atlasobscura.com/articles/radioactive-atomic-gardening)
+- Sep 10 - [Coalton: How to Have Our (Typed) Cake and (Safely) Eat It Too, in Common Lisp](https://coalton-lang.github.io/20211010-introducing-coalton/)
 - Sep 10 - [WhatsApp – Security of End-to-End Encrypted Backups [pdf]](https://www.whatsapp.com/security/WhatsApp_Security_Encrypted_Backups_Whitepaper.pdf)
-- Sep 10 - [How do you create a cross-platform GUI without using Electron?](https://news.ycombinator.com/item?id=28484658)
 - Sep 10 - [YOLOv5 on CPUs: Sparsifying to Achieve GPU-Level Performance](https://neuralmagic.com/blog/benchmark-yolov5-on-cpus-with-deepsparse/)
 - Sep 10 - [Modern Treasury (YC S18) is hiring new grad engineers for Jan. 2022](https://jobs.ashbyhq.com/moderntreasury/a14a33e3-c262-425a-830c-d86965d2a864?utm_source=yYPEbOqnBd)
-- Sep 10 - [Postgres: Boundless `Text` and Back Again](https://brandur.org/text)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
