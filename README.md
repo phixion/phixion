@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 10 - [L-arginine in severe Covid-19 decreases the length of hospitalization](https://www.sciencedirect.com/science/article/pii/S2589537021004053)
 - Sep 10 - [POW Captcha: a lightweight, self-hosted proof-of-work captcha](https://git.sequentialread.com/forest/pow-captcha)
 - Sep 10 - [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://careers.atob.com/)
 - Sep 10 - [A second hexagon in the stratosphere of Saturn](https://mesonstars.com/inteteresting/they-find-a-second-hexagon-in-the-stratosphere-of-saturn/)
 - Sep 10 - [Ruby Type Conversion](https://kddnewton.com/2021/09/09/ruby-type-conversion.html)
-- Sep 10 - [Windy.com](https://windy.com)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
