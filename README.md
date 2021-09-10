@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 10 - [Court issues permanent injunction in Epic vs. Apple case](https://www.theverge.com/2021/9/10/22662320/epic-apple-ruling-injunction-judge-court-app-store)
 - Sep 10 - [Ask HN: How Do You Learn?](https://news.ycombinator.com/item?id=28482726)
 - Sep 10 - [Government audit of AI finds no AI](https://venturebeat.com/2021/04/05/government-audit-of-ai-with-ties-to-white-supremacy-finds-no-ai/)
 - Sep 10 - [Eyeway's Retina-Tracking Foveated Display](https://kguttag.com/2021/09/07/eyeway-vision-part-3-analysis/)
 - Sep 10 - [Wide-ranging SolarWinds probe sparks fear in Corporate America](https://www.reuters.com/technology/exclusive-wide-ranging-solarwinds-probe-sparks-fear-corporate-america-2021-09-10/)
-- Sep 10 - [Nuclear War Survival Skills (1987)](https://www.oism.org/nwss/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
