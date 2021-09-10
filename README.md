@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 10 - [Inai (YC S21) Is Hiring](https://www.ycombinator.com/companies/inai/jobs/fRqdcKA-business-development-representative)
 - Sep 10 - [TrackerControl](https://trackercontrol.org/)
 - Sep 10 - [Clearing up Myths about Ada](https://pyjarrett.github.io/programming-with-ada/clearing-the-air.html)
 - Sep 10 - [Protein and Transpacific Power](https://fortisanalysis.substack.com/p/protein-and-transpacific-power)
 - Sep 10 - [Squats can boost brain activity [video]](https://www.bbc.com/reel/video/p09v8wyh/how-squats-can-boost-your-brain)
-- Sep 10 - [The Future Shape of Ruby Objects](https://chrisseaton.com/truffleruby/rubykaigi21/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
