@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 10 - [NFT(s) are just money laundering](https://news.ycombinator.com/item?id=28485433)
+- Sep 10 - [Google illegally underpaid thousands of workers](https://www.theguardian.com/technology/2021/sep/10/google-underpaid-workers-illegal-pay-disparity-documents)
 - Sep 10 - [KrebsOnSecurity Hit by Huge New IoT Botnet “Meris”](https://krebsonsecurity.com/2021/09/krebsonsecurity-hit-by-huge-new-iot-botnet-meris/)
 - Sep 10 - [Atomic Gardening](https://www.atlasobscura.com/articles/radioactive-atomic-gardening)
 - Sep 10 - [Coalton: How to Have Our (Typed) Cake and (Safely) Eat It Too, in Common Lisp](https://coalton-lang.github.io/20211010-introducing-coalton/)
