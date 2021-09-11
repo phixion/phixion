@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 11 - [Global warming: is weight loss a solution?](https://www.nature.com/articles/ijo2011151)
 - Sep 11 - [Does Cloudflare's 1.1.1.1 DNS Block Archive.is? (2019)](https://jarv.is/notes/cloudflare-dns-archive-is-blocked/)
 - Sep 11 - [Become a Copenhagen Suborbitals Supporter](https://copenhagensuborbitals.com/support-us/)
-- Sep 11 - [Microsoft study on the effects of remote work](https://www.nature.com/articles/s41562-021-01196-4)
+- Sep 11 - [The effects of remote work on collaboration among information workers](https://www.nature.com/articles/s41562-021-01196-4)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
