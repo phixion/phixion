@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 11 - [The effects of a warmer world are visible in animals’ bodies](https://www.economist.com/science-and-technology/2021/09/11/the-effects-of-a-warmer-world-are-visible-in-animals-bodies)
+- Sep 11 - [Facebook Censored Me for Mentioning Open-Source Social Network Mastodon](https://changelog.complete.org/archives/10285-facebook-censored-me-for-mentioning-open-source-social-network-mastodon)
 - Sep 11 - [Simple, opinionated and automated contract testing for your JSON API's](https://github.com/hellgrenj/Rumpel)
 - Sep 11 - [Flexport is hiring employees all over the world](https://www.flexport.com/careers)
-- Sep 11 - [K Programming Language](https://kparc.com/)
-- Sep 11 - [A case against syntax highlighting](http://www.linusakesson.net/programming/syntaxhighlighting/)
-- Sep 11 - [A cheat-sheet for mathematical notation in code form](https://github.com/Jam3/math-as-code)
+- Sep 11 - [Medium Is Bad. Stop Using It](https://nomedium.dev/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
