@@ -35,10 +35,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 11 - [Global warming: is weight loss a solution?](https://www.nature.com/articles/ijo2011151)
 - Sep 11 - [Does Cloudflare's 1.1.1.1 DNS Block Archive.is?](https://jarv.is/notes/cloudflare-dns-archive-is-blocked/)
 - Sep 11 - [Become a Copenhagen Suborbitals Supporter](https://copenhagensuborbitals.com/support-us/)
 - Sep 11 - [Microsoft study on the effects of remote work](https://www.nature.com/articles/s41562-021-01196-4)
-- Sep 11 - [$1T flowed into stocks in 2021, greater than last 20 years combined](https://www.marketwatch.com/story/the-1-trillion-that-has-flowed-to-global-stocks-in-2021-is-bigger-than-the-last-20-years-combined-11631273525)
 - Sep 11 - [Stop Using Encrypted Email (2020)](https://latacora.micro.blog/2020/02/19/stop-using-encrypted.html)
 <!--END_SECTION:hn-->
 
