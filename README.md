@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 11 - [September 11, 2001 media synced in real-time](https://911realtime.org/)
+- Sep 11 - [The Privacy Lesson of 9/11: Mass Surveillance Is Not the Way Forward](https://www.aclu.org/news/national-security/the-privacy-lesson-of-9-11-mass-surveillance-is-not-the-way-forward/)
 - Sep 11 - [Pentagon retakes control of IP addresses it moved in last minutes of presidency](https://www.washingtonpost.com/technology/2021/09/10/pentagon-internet-protocol-addresses-trump/)
 - Sep 11 - [Sauna use as a lifestyle practice to extend healthspan](https://www.sciencedirect.com/science/article/pii/S0531556521002916?via%3Dihub)
-- Sep 11 - [Steam Top Games: 72% Work on Linux in September 2021](https://boilingsteam.com/steam-top-50-games-72-work-on-linux-in-sept-2021/)
-- Sep 11 - [An Implementation of J – Incunabulum](https://www.jsoftware.com/ioj/iojATW.htm)
+- Sep 11 - [Steam Top 50 Games: Over 70% now work on Linux](https://boilingsteam.com/steam-top-50-games-72-work-on-linux-in-sept-2021/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
