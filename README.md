@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 11 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 - Sep 11 - [Global warming: is weight loss a solution?](https://www.nature.com/articles/ijo2011151)
-- Sep 11 - [Does Cloudflare's 1.1.1.1 DNS Block Archive.is?](https://jarv.is/notes/cloudflare-dns-archive-is-blocked/)
+- Sep 11 - [Does Cloudflare's 1.1.1.1 DNS Block Archive.is? (2019)](https://jarv.is/notes/cloudflare-dns-archive-is-blocked/)
 - Sep 11 - [Become a Copenhagen Suborbitals Supporter](https://copenhagensuborbitals.com/support-us/)
 - Sep 11 - [Microsoft study on the effects of remote work](https://www.nature.com/articles/s41562-021-01196-4)
-- Sep 11 - [Stop Using Encrypted Email (2020)](https://latacora.micro.blog/2020/02/19/stop-using-encrypted.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
