@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 11 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- Sep 11 - [Social Networks: It's worse than you think](https://meta.ath0.com/2020/12/social-notwork/)
 - Sep 11 - [Global warming: is weight loss a solution?](https://www.nature.com/articles/ijo2011151)
 - Sep 11 - [Does Cloudflare's 1.1.1.1 DNS Block Archive.is? (2019)](https://jarv.is/notes/cloudflare-dns-archive-is-blocked/)
 - Sep 11 - [Become a Copenhagen Suborbitals Supporter](https://copenhagensuborbitals.com/support-us/)
-- Sep 11 - [The effects of remote work on collaboration among information workers](https://www.nature.com/articles/s41562-021-01196-4)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
