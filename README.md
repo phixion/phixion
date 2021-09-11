@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 11 - [Stacker (YC S20) Is Hiring Across Engineering](https://www.stackerhq.com/careers#job-listing)
+- Sep 11 - [If-then-else had to be invented](https://github.com/e-n-f/if-then-else/blob/master/if-then-else.md)
 - Sep 11 - [Visually stunning math concepts which are easy to explain](https://math.stackexchange.com/questions/733754/visually-stunning-math-concepts-which-are-easy-to-explain)
 - Sep 11 - [Why did the web take over desktop and not mobile?](https://subconscious.substack.com/p/why-did-the-web-take-over-desktop)
 - Sep 11 - [RAD Studio 11 Alexandria](https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-11-alexandria/)
-- Sep 11 - [Court rules for Florida governor, reinstates ban on mask mandates in FL schools](https://www.reuters.com/world/us/appeals-court-rules-favor-florida-governor-reinstates-ban-mask-mandates-florida-2021-09-10/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
