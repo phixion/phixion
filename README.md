@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 11 - [Become a Copenhagen Suborbitals Supporter](https://copenhagensuborbitals.com/support-us/)
-- Sep 11 - [Salesforce Will Help Relocate Employees from Texas After Abortion Law](https://www.businessinsider.com/salesforce-will-help-relocate-employees-from-texas-after-abortion-law-2021-9)
 - Sep 11 - [Stop Using Encrypted Email](https://latacora.micro.blog/2020/02/19/stop-using-encrypted.html)
 - Sep 11 - [The effects of a warmer world are visible in animals’ bodies](https://www.economist.com/science-and-technology/2021/09/11/the-effects-of-a-warmer-world-are-visible-in-animals-bodies)
 - Sep 11 - [Facebook Censored Me for Mentioning Open-Source Social Network Mastodon](https://changelog.complete.org/archives/10285-facebook-censored-me-for-mentioning-open-source-social-network-mastodon)
+- Sep 11 - [Simple, opinionated and automated contract testing for your JSON API's](https://github.com/hellgrenj/Rumpel)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
