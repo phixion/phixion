@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 11 - [OneSignal (YC S11) Is Hiring a Head of Product Engineering](https://onesignal.com/careers/5accd5c2-4a81-45ca-9813-701cae3cbec4)
 - Sep 11 - [Why Firefox Is Seeing a Continuous Decline for Last 12 Years](https://news.itsfoss.com/firefox-continuous-decline/)
-- Sep 11 - [Ask HN: Why is skype for business such a shit show?](https://news.ycombinator.com/item?id=28490778)
 - Sep 11 - [To Don't – The reverse to-do list](https://crazymarvin.com/to-dont/)
+- Sep 11 - [Ask HN: Why Did Pascal Fail?](https://news.ycombinator.com/item?id=28490736)
 - Sep 11 - [Geizhals (Tech Product Price Comparison and Tracking)](https://geizhals.eu)
-- Sep 11 - [Facial Recognition Technology: How to Opt Out at the Airport](https://www.cntraveler.com/story/how-to-opt-out-of-facial-recognition-at-the-airport)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
