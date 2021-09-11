@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 11 - [High-powered motorcycle vibrations might impact iPhone camera](https://support.apple.com/en-us/HT212803)
+- Sep 11 - [World’s Top Beef Supplier Approves Methane-Busting Cow Feed](https://www.bloomberg.com/news/articles/2021-09-09/world-s-top-beef-supplier-approves-methane-busting-cow-feed)
 - Sep 11 - [OneSignal (YC S11) Is Hiring a Head of Product Engineering](https://onesignal.com/careers/5accd5c2-4a81-45ca-9813-701cae3cbec4)
-- Sep 11 - [Why Firefox Is Seeing a Continuous Decline for Last 12 Years](https://news.itsfoss.com/firefox-continuous-decline/)
+- Sep 11 - [Rouille](https://github.com/bnjbvr/rouille)
 - Sep 11 - [To Don't – The reverse to-do list](https://crazymarvin.com/to-dont/)
-- Sep 11 - [Ask HN: Why Did Pascal Fail?](https://news.ycombinator.com/item?id=28490736)
-- Sep 11 - [Geizhals (Tech Product Price Comparison and Tracking)](https://geizhals.eu)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
