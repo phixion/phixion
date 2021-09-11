@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 11 - [September 11, 2001 media synced in real-time](https://911realtime.org/)
 - Sep 11 - [Pentagon retakes control of IP addresses it moved in last minutes of presidency](https://www.washingtonpost.com/technology/2021/09/10/pentagon-internet-protocol-addresses-trump/)
-- Sep 11 - [In the End, Bin Laden Won](https://www.michaelmoore.com/p/bin-laden-won)
+- Sep 11 - [Sauna use as a lifestyle practice to extend healthspan](https://www.sciencedirect.com/science/article/pii/S0531556521002916?via%3Dihub)
 - Sep 11 - [Steam Top Games: 72% Work on Linux in September 2021](https://boilingsteam.com/steam-top-50-games-72-work-on-linux-in-sept-2021/)
 - Sep 11 - [An Implementation of J – Incunabulum](https://www.jsoftware.com/ioj/iojATW.htm)
-- Sep 11 - [Do rainbows have ultraviolet bands and infrared bands? (2015)](https://physics.stackexchange.com/questions/185231/do-rainbows-have-ultraviolet-bands-and-infrared-bands)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
