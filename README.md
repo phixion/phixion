@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 11 - [Salesforce offer to relocate employees after Texas abortion law goes into effect](https://www.cnbc.com/2021/09/10/salesforce-offers-to-relocate-employees-from-texas-after-abortion-bill.html)
-- Sep 11 - [September 11, 2001 media synced in real-time](https://911realtime.org/)
-- Sep 11 - [Interpretable Model-Based Hierarchical RL Using Inductive Logic Programming](https://arxiv.org/abs/2106.11417)
-- Sep 11 - [The Privacy Lesson of 9/11: Mass Surveillance Is Not the Way Forward](https://www.aclu.org/news/national-security/the-privacy-lesson-of-9-11-mass-surveillance-is-not-the-way-forward/)
-- Sep 11 - [Pentagon retakes control of IP addresses it moved in last minutes of presidency](https://www.washingtonpost.com/technology/2021/09/10/pentagon-internet-protocol-addresses-trump/)
+- Sep 11 - [Simple, opinionated and automated contract testing for your JSON API's](https://github.com/hellgrenj/Rumpel)
+- Sep 11 - [Flexport is hiring employees all over the world](https://www.flexport.com/careers)
+- Sep 11 - ['The world 9/11 created: What if the U.S. had not invaded Iraq?'](https://www.washingtonpost.com/world/2021/09/09/911-us-invasion-iraq-counterfactual/)
+- Sep 11 - [K Programming Language](https://kparc.com/)
+- Sep 11 - [A case against syntax highlighting](http://www.linusakesson.net/programming/syntaxhighlighting/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
