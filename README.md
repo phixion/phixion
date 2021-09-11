@@ -35,10 +35,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 11 - [LibreELEC 10.0.0](http://libreelec.tv/2021/08/26/libreelec-matrix-10-0/)
 - Sep 10 - [PalmOS on Raspberry Pi](https://pmig96.wordpress.com/2021/04/29/palmos-on-raspberry-pi/)
 - Sep 10 - [Andreessen Pulls a Bezos](https://www.drorpoleg.com/pulling-a-bezos/)
 - Sep 10 - [Indra – Hackers Behind Recent Attacks on Iran](https://research.checkpoint.com/2021/indra-hackers-behind-recent-attacks-on-iran/)
-- Sep 10 - [Trolls convinced journalists they were “abortion bounty hunters”](https://tracingwoodgrains.medium.com/how-one-tight-knit-circle-of-internet-troublemakers-convinced-professional-journalists-they-were-ac05459aa4c5)
 - Sep 10 - [Show HN: LunarVim – An opinionated, extensible, and fast IDE layer for Neovim](https://www.lunarvim.org)
 <!--END_SECTION:hn-->
 
