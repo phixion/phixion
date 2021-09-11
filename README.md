@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 11 - [My Room in 3D](https://my-room-in-3d.vercel.app/)
 - Sep 11 - [AlphaGo: The Documentary](https://www.youtube.com/watch?v=WXuK6gekU1Y)
 - Sep 11 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 - Sep 11 - [Phony Diagnoses Hide High Rates of Drugging at Nursing Homes](https://www.nytimes.com/2021/09/11/health/nursing-homes-schizophrenia-antipsychotics.html)
 - Sep 11 - [Social Networks: It's worse than you think (2020)](https://meta.ath0.com/2020/12/social-notwork/)
-- Sep 11 - [Does Cloudflare's 1.1.1.1 DNS Block Archive.is? (2019)](https://jarv.is/notes/cloudflare-dns-archive-is-blocked/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
