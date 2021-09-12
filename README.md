@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 11 - [Samantha considering the prospect of being monitored for violations by OpenAI](https://twitter.com/jasonrohrer/status/1419795724217331716)
+- Sep 11 - [Welcome to Cloudintosh](https://cloudintosh.sharedigm.com)
+- Sep 11 - [Code Coverage for Zig with Callgrind](https://www.ryanliptak.com/blog/code-coverage-zig-callgrind/)
 - Sep 11 - [My Room in 3D](https://my-room-in-3d.vercel.app/)
-- Sep 11 - [Epic vs. Apple injunction doesn't allow for alternative IN-APP payment mechanism](http://www.fosspatents.com/2021/09/no-epic-v-apple-injunction-absolutely.html)
-- Sep 11 - [AlphaGo: The Documentary](https://www.youtube.com/watch?v=WXuK6gekU1Y)
-- Sep 11 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- Sep 11 - [Phony Diagnoses Hide High Rates of Drugging at Nursing Homes](https://www.nytimes.com/2021/09/11/health/nursing-homes-schizophrenia-antipsychotics.html)
+- Sep 11 - [Epic vs. Apple injunction doesn't allow for alternative in-app payment mechanism](http://www.fosspatents.com/2021/09/no-epic-v-apple-injunction-absolutely.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
