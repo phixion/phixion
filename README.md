@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 12 - [AMule 2.3.3 – The “delayed too many times, but still not too late” version](https://github.com/amule-project/amule/releases/tag/2.3.3)
 - Sep 12 - [Ergo IRC Server](https://ergo.chat)
+- Sep 12 - [The Buffett Indicator](https://www.currentmarketvaluation.com/models/buffett-indicator.php)
 - Sep 12 - [Cleaning up header bars in GNOME 41](https://blogs.gnome.org/alexm/2021/09/10/cleaning-up-header-bars/)
-- Sep 12 - [The Met commissioner: Tech giants make it impossible to stop terrorists](https://www.bbc.com/news/business-58537599)
-- Sep 12 - [Let's Encrypt API v2 Service Disruption (12 Sep 2021)](https://letsencrypt.status.io/?hn)
-- Sep 12 - [17Bn life years could be saved if air pollution was reduced to WHO standards](https://tribunemag.co.uk/2021/09/fossil-fuel-capitalism-is-cutting-our-lives-short)
+- Sep 12 - [Researchers Reconstruct Major Branches in the Tree of Language](https://www.santafe.edu/news-center/news/researchers-reconstruct-major-branches-tree-language)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
