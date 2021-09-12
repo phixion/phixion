@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 12 - [25% of students age 16-32 take Adderall 1-7X week](https://twitter.com/hubermanlab/status/1436822606116622336)
+- Sep 12 - [25% of students age 16-32 take Adderall 1-7 times per week, not prescribed](https://twitter.com/hubermanlab/status/1436822606116622336)
 - Sep 12 - [Infracost (YC W21) Is Hiring Principal Software Engineer: Love Your Cloud Bills](https://www.ycombinator.com/companies/infracost/jobs/Epvol5L-principal-software-engineer)
 - Sep 12 - [Is this proof of lab leak lies?](https://unherd.com/2021/09/is-this-proof-of-a-lab-leak-cover-up/)
 - Sep 12 - [Starbucks and TrustArc add fake cookie processing delay if you don't click agree](https://twitter.com/pixelscript/status/1436664488913215490)
