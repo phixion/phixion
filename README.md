@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 12 - [More examples of FB marking Mastodon related links as spam](https://floss.social/@jgoerzen/106916230772511960)
+- Sep 12 - [New alternatives to HSL and HSV that better match color perception](https://bottosson.github.io/posts/colorpicker/)
 - Sep 12 - [The Future Is Big Graphs: A Community View on Graph Processing Systems](https://cacm.acm.org/magazines/2021/9/255040-the-future-is-big-graphs/fulltext)
 - Sep 12 - [We found a phone with pre-installed malware via the Lifeline Assistance program](https://blog.malwarebytes.com/android/2020/07/we-found-yet-another-phone-with-pre-installed-malware-via-the-lifeline-assistance-program/)
 - Sep 12 - [England vaccine passport plans ditched](https://www.bbc.co.uk/news/uk-58535258)
-- Sep 12 - [Transport noise linked to increased risk of dementia, study finds](https://www.theguardian.com/society/2021/sep/09/transport-noise-linked-to-increased-risk-of-dementia-study-finds)
-- Sep 12 - [Disable Google Drive drive letter](https://support.google.com/drive/thread/121013958/disable-google-drive-drive-letter)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
