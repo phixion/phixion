@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 12 - [2MW Electric Aircraft Engine](https://www.weflywright.com/technology#motors)
 - Sep 12 - [NASA Awards $152.5M GOES-U Launch Contract to SpaceX](https://www.nasa.gov/press-release/nasa-awards-launch-services-contract-for-goes-u-mission/)
 - Sep 12 - [The Forever Trial at Guantanamo](https://www.newyorker.com/magazine/2021/09/20/the-forever-trial-at-guantanamo)
-- Sep 12 - [Why most gas stations don’t make money from selling gas](https://thehustle.co/why-most-gas-stations-dont-make-money-from-selling-gas/)
+- Sep 12 - [We Are All Scutoids: A Brand-New Shape, Explained (2018)](https://www.newyorker.com/elements/lab-notes/we-are-all-scutoids-a-brand-new-shape-explained)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
