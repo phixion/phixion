@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 12 - [Explaining how the MASM 2-pass assembler works](https://www.os2museum.com/wp/learn-something-old-every-day-part-iii/)
 - Sep 12 - [Germany's federal police agency purchased and used 'Pegasus' spyware](https://www.techspot.com/news/91174-germany-federal-police-agency-secretly-purchased-used-controversial.html)
 - Sep 12 - [Comp.lang.c Frequently Asked Questions](http://c-faq.com/)
 - Sep 12 - [How Many People Can Someone Lead?](https://www.patkua.com/blog/how-many-people-can-someone-lead/)
 - Sep 12 - [Adults with history of recreational cannabis use have altered speech production](https://www.sciencedirect.com/science/article/abs/pii/S0376871621004580)
-- Sep 12 - [Experts vs elites](https://overcomingbias.com/2021/02/experts-versus-elites.html/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
