@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 12 - [17Bn life years could be saved if air pollution was reduced to WHO standards](https://tribunemag.co.uk/2021/09/fossil-fuel-capitalism-is-cutting-our-lives-short)
 - Sep 12 - [Transmission torrent client ported to C++](https://github.com/transmission/transmission/pull/1787)
 - Sep 12 - [I got the J language working on OpenBSD](https://briancallahan.net/blog/20210911.html)
 - Sep 12 - [Explaining how the MASM 2-pass assembler works](https://www.os2museum.com/wp/learn-something-old-every-day-part-iii/)
 - Sep 12 - [Germany's federal police agency purchased and used 'Pegasus' spyware](https://www.techspot.com/news/91174-germany-federal-police-agency-secretly-purchased-used-controversial.html)
-- Sep 12 - [Comp.lang.c Frequently Asked Questions](http://c-faq.com/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
