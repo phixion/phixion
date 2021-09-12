@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 12 - [Infracost (YC W21) Is Hiring Principal Software Engineer: Love Your Cloud Bills](https://www.ycombinator.com/companies/infracost/jobs/Epvol5L-principal-software-engineer)
+- Sep 12 - [Is this proof of lab leak lies?](https://unherd.com/2021/09/is-this-proof-of-a-lab-leak-cover-up/)
+- Sep 12 - [Why is IRC distributed across multiple servers?](https://gist.github.com/rain-1/c4be54e6506116c7b99e8f474a3b1ca8)
 - Sep 12 - [New alternatives to HSL and HSV that better match color perception](https://bottosson.github.io/posts/colorpicker/)
 - Sep 12 - [Ask HN: How to bypass learning CSS?](https://news.ycombinator.com/item?id=28500008)
-- Sep 12 - [The Future Is Big Graphs: A Community View on Graph Processing Systems](https://cacm.acm.org/magazines/2021/9/255040-the-future-is-big-graphs/fulltext)
-- Sep 12 - [We found a phone with pre-installed malware via the Lifeline Assistance program](https://blog.malwarebytes.com/android/2020/07/we-found-yet-another-phone-with-pre-installed-malware-via-the-lifeline-assistance-program/)
-- Sep 12 - [England vaccine passport plans ditched](https://www.bbc.co.uk/news/uk-58535258)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
