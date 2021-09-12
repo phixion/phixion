@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 12 - [Ray-Ban Stories: hands-on with Facebook’s first smart glasses](https://www.theverge.com/2021/9/9/22662809/facebook-ray-ban-stories-camera-smart-glasses-hands-on)
 - Sep 12 - [FBI releases 9/11 investigation document that scrutinized Saudis](https://www.washingtonpost.com/national-security/fbi-911-document-declassified/2021/09/12/fa37b584-13c9-11ec-9589-31ac3173c2e5_story.html)
 - Sep 12 - [Beam/Erlang/Elixir Concept Explanations](http://beam-wisdoms.clau.se/en/latest/index.html)
 - Sep 12 - [Ask HN: Books that teach you logic building skills](https://news.ycombinator.com/item?id=28500951)
 - Sep 12 - [2MW Electric Aircraft Engine](https://www.weflywright.com/technology#motors)
-- Sep 12 - [NASA has selected SpaceX for GOES-U mission](https://www.nasa.gov/press-release/nasa-awards-launch-services-contract-for-goes-u-mission/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
