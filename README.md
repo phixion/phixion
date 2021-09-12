@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 12 - [Linux Phones [are less secure than mainstream Android]](https://madaidans-insecurities.github.io/linux-phones.html)
 - Sep 12 - [2MW Electric Aircraft Engine](https://www.weflywright.com/technology#motors)
-- Sep 12 - [NASA Awards $152.5M GOES-U Launch Contract to SpaceX](https://www.nasa.gov/press-release/nasa-awards-launch-services-contract-for-goes-u-mission/)
+- Sep 12 - [NASA Awards Launch Services Contract for GOES-U Mission](https://www.nasa.gov/press-release/nasa-awards-launch-services-contract-for-goes-u-mission/)
 - Sep 12 - [The Forever Trial at Guantanamo](https://www.newyorker.com/magazine/2021/09/20/the-forever-trial-at-guantanamo)
 - Sep 12 - [We Are All Scutoids: A Brand-New Shape, Explained (2018)](https://www.newyorker.com/elements/lab-notes/we-are-all-scutoids-a-brand-new-shape-explained)
+- Sep 12 - [Physics-Based Deep Learning Book](https://physicsbaseddeeplearning.org/intro.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
