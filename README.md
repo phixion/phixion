@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 12 - [Reverse-Engineering Apple Dictionary](https://fmentzer.github.io/posts/2020/dictionary/)
 - Sep 12 - [AMule 2.3.3 – The “delayed too many times, but still not too late” version](https://github.com/amule-project/amule/releases/tag/2.3.3)
+- Sep 12 - [Adam Smith didn't accept inequality as a necessary trade-off for a rich economy](https://blogs.lse.ac.uk/politicsandpolicy/adam-smith-and-inequality/)
 - Sep 12 - [Ergo IRC Server](https://ergo.chat)
 - Sep 12 - [The Buffett Indicator](https://www.currentmarketvaluation.com/models/buffett-indicator.php)
-- Sep 12 - [Cleaning up header bars in GNOME 41](https://blogs.gnome.org/alexm/2021/09/10/cleaning-up-header-bars/)
-- Sep 12 - [Researchers Reconstruct Major Branches in the Tree of Language](https://www.santafe.edu/news-center/news/researchers-reconstruct-major-branches-tree-language)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
