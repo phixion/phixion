@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 12 - [The Truth About a&W's Third-Pound Burger and the Major Math Mix-Up](https://awrestaurants.com/blog/aw-third-pound-burger-fractions)
+- Sep 12 - [Australian gov to use facial recognition and GPS tracking to enforce quarantine](https://www.geospatialworld.net/news/australian-government-to-develop-a-smartphone-app-for-facial-recognition-and-gps-tracking-for-covid-19/)
+- Sep 12 - [Jupyter Book](https://jupyterbook.org/intro.html)
 - Sep 12 - [Reverse-Engineering Apple Dictionary](https://fmentzer.github.io/posts/2020/dictionary/)
 - Sep 12 - [AMule 2.3.3 – The “delayed too many times, but still not too late” version](https://github.com/amule-project/amule/releases/tag/2.3.3)
-- Sep 12 - [Adam Smith didn't accept inequality as a necessary trade-off for a rich economy](https://blogs.lse.ac.uk/politicsandpolicy/adam-smith-and-inequality/)
-- Sep 12 - [Ergo IRC Server](https://ergo.chat)
-- Sep 12 - [The Buffett Indicator](https://www.currentmarketvaluation.com/models/buffett-indicator.php)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
