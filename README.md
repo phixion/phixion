@@ -36,7 +36,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 12 - [Raycast (YC W20) Is Hiring macOS Engineers (Remote)](https://www.raycast.com/jobs/software-engineer-macos/)
-- Sep 12 - [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps)
+- Sep 12 - [Open source applications for macOS](https://github.com/serhii-londar/open-source-mac-os-apps)
 - Sep 12 - [Xiaomi is disabling some phones devices imported to certain regions](https://www.androidauthority.com/import-xiaomi-phone-problem-3019867/)
 - Sep 12 - [Ask HN: Graduating CS soon, how do I find a job?](https://news.ycombinator.com/item?id=28498305)
 - Sep 12 - [macOS persistence – Beyond the good ol' LaunchAgents](https://theevilbit.github.io/beyond/)
