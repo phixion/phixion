@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 12 - [Comp.lang.c Frequently Asked Questions](http://c-faq.com/)
+- Sep 12 - [How Many People Can Someone Lead?](https://www.patkua.com/blog/how-many-people-can-someone-lead/)
 - Sep 12 - [Adults with history of recreational cannabis use have altered speech production](https://www.sciencedirect.com/science/article/abs/pii/S0376871621004580)
 - Sep 12 - [Experts vs elites](https://overcomingbias.com/2021/02/experts-versus-elites.html/)
 - Sep 12 - [Why can’t I go faster than the speed of light?](https://gravityandlevity.wordpress.com/2009/04/08/why-cant-i-go-faster-than-the-speed-of-light-hints-from-electrodynamics/)
-- Sep 12 - [FBI releases 9/11 investigation document that scrutinized Saudis](https://www.washingtonpost.com/national-security/fbi-911-document-declassified/2021/09/12/fa37b584-13c9-11ec-9589-31ac3173c2e5_story.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
