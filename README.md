@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 12 - [We found a phone with pre-installed malware via the Lifeline Assistance program](https://blog.malwarebytes.com/android/2020/07/we-found-yet-another-phone-with-pre-installed-malware-via-the-lifeline-assistance-program/)
+- Sep 12 - [England vaccine passport plans ditched](https://www.bbc.co.uk/news/uk-58535258)
 - Sep 12 - [Transport noise linked to increased risk of dementia, study finds](https://www.theguardian.com/society/2021/sep/09/transport-noise-linked-to-increased-risk-of-dementia-study-finds)
-- Sep 12 - [Google Drive forced upgrade on Windows](https://support.google.com/drive/thread/121013958/disable-google-drive-drive-letter)
+- Sep 12 - [Disable Google Drive drive letter](https://support.google.com/drive/thread/121013958/disable-google-drive-drive-letter)
 - Sep 12 - [Peermaps – distributed, offline-friendly alternative to commercial map providers](https://peermaps.org/)
-- Sep 12 - [Raycast (YC W20) Is Hiring macOS Engineers (Remote)](https://www.raycast.com/jobs/software-engineer-macos/)
-- Sep 12 - [Open source applications for macOS](https://github.com/serhii-londar/open-source-mac-os-apps)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
