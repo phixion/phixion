@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 12 - [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28497623)
 - Sep 11 - [Samantha considering the prospect of being monitored for violations by OpenAI](https://twitter.com/jasonrohrer/status/1419795724217331716)
+- Sep 11 - [Honk: “An ActivityPub server with minimal setup and support costs”](https://humungus.tedunangst.com/r/honk)
 - Sep 11 - [Welcome to Cloudintosh](https://cloudintosh.sharedigm.com)
 - Sep 11 - [Code Coverage for Zig with Callgrind](https://www.ryanliptak.com/blog/code-coverage-zig-callgrind/)
-- Sep 11 - [My Room in 3D](https://my-room-in-3d.vercel.app/)
-- Sep 11 - [Epic vs. Apple injunction doesn't allow for alternative in-app payment mechanism](http://www.fosspatents.com/2021/09/no-epic-v-apple-injunction-absolutely.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
