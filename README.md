@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 12 - [The Met commissioner: Tech giants make it impossible to stop terrorists](https://www.bbc.com/news/business-58537599)
 - Sep 12 - [Let's Encrypt API v2 Service Disruption (12 Sep 2021)](https://letsencrypt.status.io/?hn)
 - Sep 12 - [17Bn life years could be saved if air pollution was reduced to WHO standards](https://tribunemag.co.uk/2021/09/fossil-fuel-capitalism-is-cutting-our-lives-short)
 - Sep 12 - [I Got a 'Mild' Breakthrough Case](https://www.npr.org/sections/health-shots/2021/09/12/1036356773/i-got-a-mild-breakthrough-case-heres-what-i-wish-id-known)
 - Sep 12 - [Transmission torrent client ported to C++](https://github.com/transmission/transmission/pull/1787)
-- Sep 12 - [I got the J language working on OpenBSD](https://briancallahan.net/blog/20210911.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
