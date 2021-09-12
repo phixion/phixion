@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 12 - [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps)
 - Sep 12 - [Xiaomi is disabling some phones devices imported to certain regions](https://www.androidauthority.com/import-xiaomi-phone-problem-3019867/)
 - Sep 12 - [Ask HN: Graduating CS soon, how do I find a job?](https://news.ycombinator.com/item?id=28498305)
 - Sep 12 - [macOS persistence – Beyond the good ol' LaunchAgents](https://theevilbit.github.io/beyond/)
 - Sep 12 - [Much less than, Much greater than symbols](https://www.johndcook.com/blog/2021/09/11/much-less-than-much-greater-than/)
-- Sep 12 - [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28497623)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
