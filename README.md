@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 12 - [25% of students age 16-32 take Adderall 1-7 times per week, not prescribed](https://twitter.com/hubermanlab/status/1436822606116622336)
-- Sep 12 - [Infracost (YC W21) Is Hiring Principal Software Engineer: Love Your Cloud Bills](https://www.ycombinator.com/companies/infracost/jobs/Epvol5L-principal-software-engineer)
-- Sep 12 - [Is this proof of lab leak lies?](https://unherd.com/2021/09/is-this-proof-of-a-lab-leak-cover-up/)
-- Sep 12 - [Starbucks and TrustArc add fake cookie processing delay if you don't click agree](https://twitter.com/pixelscript/status/1436664488913215490)
-- Sep 12 - [Why is IRC distributed across multiple servers?](https://gist.github.com/rain-1/c4be54e6506116c7b99e8f474a3b1ca8)
+- Sep 12 - [Linux Phones [are less secure than mainstream Android]](https://madaidans-insecurities.github.io/linux-phones.html)
+- Sep 12 - [2MW Electric Aircraft Engine](https://www.weflywright.com/technology#motors)
+- Sep 12 - [NASA Awards $152.5M GOES-U Launch Contract to SpaceX](https://www.nasa.gov/press-release/nasa-awards-launch-services-contract-for-goes-u-mission/)
+- Sep 12 - [The Forever Trial at Guantanamo](https://www.newyorker.com/magazine/2021/09/20/the-forever-trial-at-guantanamo)
+- Sep 12 - [Why most gas stations don’t make money from selling gas](https://thehustle.co/why-most-gas-stations-dont-make-money-from-selling-gas/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
