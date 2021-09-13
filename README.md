@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 13 - [The Man Behind Critical Race Theory](https://www.newyorker.com/magazine/2021/09/20/the-man-behind-critical-race-theory)
+- Sep 13 - [Facebook Says Its Rules Apply to All. Documents Reveal an Elite That’s Exempt](https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-11631541353)
 - Sep 13 - [Energy Prices in Europe Hit Records After Wind Stops Blowing](https://www.wsj.com/articles/energy-prices-in-europe-hit-records-after-wind-stops-blowing-11631528258)
+- Sep 13 - [My Life After Quitting Social Media](https://durmonski.com/life-advice/life-after-quitting-social-media/)
 - Sep 13 - [Length-Limited Prefix Codes](https://create.stephan-brumme.com/length-limited-prefix-codes/)
 - Sep 13 - [France grants citizenship to 12,000 Covid frontline workers](https://www.axios.com/covid-france-frontline-workers-citizenship-df86d46d-d488-4009-b2f7-e166be464cd4.html)
-- Sep 13 - [Usage statistics of server-side programming languages for websites](https://w3techs.com/technologies/history_overview/programming_language/ms/y)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
