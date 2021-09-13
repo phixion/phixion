@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Sep 13 - [Hrmpf rescue system, built on Void Linux](https://github.com/leahneukirchen/hrmpf)
 - Sep 13 - [Technology prediction for the 2020s](https://twitter.com/sama/status/1436028666887086104)
+- Sep 13 - [Hyperbaric oxygen therapy reverses hallmarks of Alzheimer’s disease and dementia](https://www.technology.org/2021/09/10/hyperbaric-oxygen-therapy-reverses-hallmarks-of-alzheimers-disease-and-dementia/)
+- Sep 13 - [Apple Won a Battle to Lose the War](https://500ish.com/apple-won-a-battle-to-lose-the-war-3ce6c3701918)
 - Sep 13 - [Has AI found a new foundation?](https://thegradient.pub/has-ai-found-a-new-foundation/)
-- Sep 13 - [Epiousios](https://en.wikipedia.org/wiki/Epiousios)
-- Sep 13 - [HashiCorp Terraform and Community Contributions](https://www.hashicorp.com/blog/terraform-community-contributions)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
