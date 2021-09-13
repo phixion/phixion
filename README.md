@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Sep 13 - [Hrmpf rescue system, built on Void Linux](https://github.com/leahneukirchen/hrmpf)
 - Sep 13 - [Parachute use to prevent death and major trauma: systematic review of RCTs](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC300808/)
-- Sep 13 - [Developer's Porn Stash Gets Banned from Steam](https://steamcommunity.com/groups/Sentinels_of_the_Store/announcements/detail/2990942216950569314)
 - Sep 13 - [Has AI found a new foundation?](https://thegradient.pub/has-ai-found-a-new-foundation/)
 - Sep 13 - [Epiousios](https://en.wikipedia.org/wiki/Epiousios)
+- Sep 13 - [HashiCorp Terraform and Community Contributions](https://www.hashicorp.com/blog/terraform-community-contributions)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
