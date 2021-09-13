@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 13 - [Trademark Actions Against the PostgreSQL Community](https://www.postgresql.org/about/news/trademark-actions-against-the-postgresql-community-2302/)
+- Sep 13 - [Ask HN: Does privacy and data protection law apply to the inside of your home?](https://news.ycombinator.com/item?id=28512242)
+- Sep 13 - [Use your own WiFi connection test server in Windows](https://www.nu42.com/2021/09/use-your-own-wifi-connection-test.html)
 - Sep 13 - [Facebook Says Its Rules Apply to All. Documents Reveal an Elite That’s Exempt](https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-11631541353)
-- Sep 13 - [Energy Prices in Europe Hit Records After Wind Stops Blowing](https://www.wsj.com/articles/energy-prices-in-europe-hit-records-after-wind-stops-blowing-11631528258)
 - Sep 13 - [My Life After Quitting Social Media](https://durmonski.com/life-advice/life-after-quitting-social-media/)
-- Sep 13 - [Length-Limited Prefix Codes](https://create.stephan-brumme.com/length-limited-prefix-codes/)
-- Sep 13 - [France grants citizenship to 12,000 Covid frontline workers](https://www.axios.com/covid-france-frontline-workers-citizenship-df86d46d-d488-4009-b2f7-e166be464cd4.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
