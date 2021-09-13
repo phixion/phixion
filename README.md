@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 13 - [Custom Search Engine Built on Searx](https://jpreston.xyz/custom-search-engine.html)
+- Sep 13 - [Britain tamed Big Tech and nobody noticed](https://www.wired.co.uk/article/age-appropriate-design-code-big-tech)
 - Sep 13 - [Uber Loses Battle over Drivers’ Rights in the Netherlands](https://www.bloomberg.com/news/articles/2021-09-13/uber-loses-battle-over-drivers-rights-in-the-netherlands)
 - Sep 13 - [Uber must employ its drivers, Dutch court rules](https://nltimes.nl/2021/09/13/uber-must-employ-its-drivers-dutch-court-rules)
 - Sep 13 - [Fortran Web Framework](https://fortran.io/)
-- Sep 13 - [Record number of environmental activists murdered](https://www.bbc.co.uk/news/science-environment-58508001)
-- Sep 13 - [Lock-free, allocation-free, efficient thread pool](https://zig.news/kprotty/resource-efficient-thread-pools-with-zig-3291)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
