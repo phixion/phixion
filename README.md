@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 13 - [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
+- Sep 13 - [Laion-400M: open-source dataset of 400M image-text pairs](https://laion.ai/laion-400-open-dataset/)
+- Sep 13 - [Show HN: Chat with your contacts on different platforms without an app](https://fiotron.com/?b)
+- Sep 12 - [Pixie – A full-featured 2D graphics library for Nim](https://github.com/treeform/pixie)
 - Sep 12 - [9/11 Material Released in Response to Executive Order 14040](https://vault.fbi.gov/9-11-attacks-investigation-and-related-materials/9-11-material-released-in-response-to-executive-order-14040)
-- Sep 12 - [Jupyter Book](https://jupyterbook.org/intro.html)
-- Sep 12 - [Reverse-Engineering Apple Dictionary](https://fmentzer.github.io/posts/2020/dictionary/)
-- Sep 12 - [Man wins $65K after being fired for refusing to be fingerprinted](https://www.startribune.com/mound-man-wins-65k-after-being-fired-for-refusing-to-be-fingerprinted-due-to-christian-faith/600095353/)
-- Sep 12 - [I Had Removed Google Analytics and Google Services from My Website Why I Did It?](https://donislawdev.com/i-had-removed-google-analytics-google-services-from-my-website-why-i-did-it/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
