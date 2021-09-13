@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 13 - [Fortran Web Framework](https://fortran.io/)
-- Sep 13 - [What do Germans fear the most?](https://www.dw.com/en/what-do-germans-fear-the-most/a-59129913)
 - Sep 13 - [Record number of environmental activists murdered](https://www.bbc.co.uk/news/science-environment-58508001)
 - Sep 13 - [Lock-free, allocation-free, efficient thread pool](https://zig.news/kprotty/resource-efficient-thread-pools-with-zig-3291)
 - Sep 13 - [Minimal APIs at a glance in .NET 6](https://www.hanselman.com/blog/minimal-apis-at-a-glance-in-net-6)
+- Sep 13 - [Hrmpf rescue system, built on Void Linux](https://github.com/leahneukirchen/hrmpf)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
