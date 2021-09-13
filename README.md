@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 13 - [Tesla opens a center on Native American land, selling cars straight to consumers](https://www.businessinsider.com/tesla-new-mexico-nambe-pueblo-tribal-land-direct-sales-ban-2021-9)
 - Sep 13 - [YouTube takes down the Ig Nobel show because of a 1914 recording](https://www.improbable.com/2021/09/13/youtube-the-ig-nobel-prizes-and-the-year-1914/)
 - Sep 13 - [Show HN: Video2WebP – convert videos to animated WebP in the browser](https://video2webp.mattj.io)
 - Sep 13 - [X Windows on a Floppy](http://pupngo.dk/xwinflpy/xwoaf_rebuild.html)
 - Sep 13 - [How to Crawl the Web with Scrapy](https://www.babbling.fish/scraping-for-a-job/)
-- Sep 13 - [Barnyard breakthrough: Researchers successfully potty train cows](https://www.science.org/content/article/barnyard-breakthrough-researchers-successfully-potty-train-cows)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
