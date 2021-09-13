@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 13 - [Smart Kids Should Skip High School (2015)](https://www.sonyaellenmann.com/2015/09/why-skip-high-school.html)
 - Sep 13 - [Meat accounts for nearly 60% of all greenhouse gases from food production](https://www.theguardian.com/environment/2021/sep/13/meat-greenhouses-gases-food-production-study)
 - Sep 13 - [EasyPost (YC S13) is profitable and hiring](https://www.easypost.com/careers)
-- Sep 13 - [Intuit to Buy Mailchimp for $12B](https://www.axios.com/intuit-buy-mailchimp-12-billion-85feba65-e142-4756-8fa6-b8af63988902.html)
+- Sep 13 - [Engineers grow pancreatic organoids that mimic the real thing](https://news.mit.edu/2021/pancreatic-organoids-cancer-0913)
 - Sep 13 - [Intuit to Acquire Mailchimp for $12b](https://www.investors.intuit.com/news/news-details/2021/Intuit-to-Acquire-Mailchimp/default.aspx)
-- Sep 13 - [NSO Group iMessage Zero-Click Exploit Captured in the Wild](https://citizenlab.ca/2021/09/forcedentry-nso-group-imessage-zero-click-exploit-captured-in-the-wild/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
