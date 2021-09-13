@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 13 - [Eleven proofs of the Gaussian integral [pdf]](https://kconrad.math.uconn.edu/blurbs/analysis/gaussianintegral.pdf)
 - Sep 13 - [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
 - Sep 13 - [Laion-400M: open-source dataset of 400M image-text pairs](https://laion.ai/laion-400-open-dataset/)
 - Sep 13 - [Show HN: Chat with your contacts on different platforms without an app](https://fiotron.com/?b)
 - Sep 13 - [Genny – Generate Nim library bindings for many languages](https://github.com/treeform/genny)
-- Sep 12 - [Pixie – A full-featured 2D graphics library for Nim](https://github.com/treeform/pixie)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
