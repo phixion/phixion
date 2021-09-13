@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 13 - [Alabama man dies after being turned away from 43 hospitals as Covid packs ICUs](https://www.washingtonpost.com/health/2021/09/12/alabama-ray-demonia-hospitals-icu/)
+- Sep 13 - [Tesorio (YC S15) is hiring – join our fully distributed fintech team](https://www.tesorio.com/careers#job-openings)
 - Sep 13 - [Intel issues end-of-life notice for RealSense Lidar](https://www.therobotreport.com/intel-issues-end-of-life-notice-realsense-lidar/)
 - Sep 13 - [I refuse to let Amazon define Rust](https://twitter.com/steveklabnik/status/1437441118745071617)
 - Sep 13 - [Disclosing E2EE vulnerability in multiple Matrix clients](https://matrix.org/blog/2021/09/13/vulnerability-disclosure-key-sharing)
