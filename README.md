@@ -37,7 +37,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Sep 13 - [Hrmpf rescue system, built on Void Linux](https://github.com/leahneukirchen/hrmpf)
 - Sep 13 - [Hyperbaric oxygen therapy reverses hallmarks of Alzheimer’s disease and dementia](https://www.technology.org/2021/09/10/hyperbaric-oxygen-therapy-reverses-hallmarks-of-alzheimers-disease-and-dementia/)
-- Sep 13 - [Roblox Exploits Young Game Developers](https://www.youtube.com/watch?v=_gXlauRB1EQ&t=662s)
+- Sep 13 - [Roblox Exploits Young Game Developers [video]](https://www.youtube.com/watch?v=_gXlauRB1EQ)
 - Sep 13 - [Apple Won a Battle to Lose the War](https://500ish.com/apple-won-a-battle-to-lose-the-war-3ce6c3701918)
 - Sep 13 - [Has AI found a new foundation?](https://thegradient.pub/has-ai-found-a-new-foundation/)
 <!--END_SECTION:hn-->
