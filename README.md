@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 13 - [Hacker News Disease](https://01.media/hacker-news-disease//)
 - Sep 13 - [Fortran Web Framework](https://fortran.io/)
 - Sep 13 - [What do Germans fear the most?](https://www.dw.com/en/what-do-germans-fear-the-most/a-59129913)
-- Sep 13 - ['I made a mistake. NFTs are going to be much bigger than I anticipated.'](https://pomp.substack.com/p/i-made-a-mistake-nfts-are-going-to)
 - Sep 13 - [Record number of environmental activists murdered](https://www.bbc.co.uk/news/science-environment-58508001)
+- Sep 13 - [Lock-free, allocation-free, efficient thread pool](https://zig.news/kprotty/resource-efficient-thread-pools-with-zig-3291)
+- Sep 13 - [Minimal APIs at a glance in .NET 6](https://www.hanselman.com/blog/minimal-apis-at-a-glance-in-net-6)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
