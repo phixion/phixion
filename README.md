@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 13 - [How to Crawl the Web with Scrapy](https://www.babbling.fish/scraping-for-a-job/)
 - Sep 13 - [Barnyard breakthrough: Researchers successfully potty train cows](https://www.science.org/content/article/barnyard-breakthrough-researchers-successfully-potty-train-cows)
 - Sep 13 - [Tesla Wanted $22,500 to Replace a Battery. An Independent Shop Fixed It for $5k](https://www.vice.com/en/article/wx535y/tesla-wanted-dollar22500-to-replace-a-battery-an-independent-repair-shop-fixed-it-for-dollar5000)
 - Sep 13 - [Census Bureau’s Survey Shows Significant Increase in Homeschooling Rates](https://www.census.gov/library/stories/2021/03/homeschooling-on-the-rise-during-covid-19-pandemic.html)
 - Sep 13 - [Show HN: TweeView – A Tree Visualisation of Twitter Conversations](https://tweeview.ml/)
-- Sep 13 - [RaveDJ – AI Music Mashup Maker](https://rave.dj/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
