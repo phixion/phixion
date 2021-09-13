@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 13 - [Meat accounts for nearly 60% of all greenhouse gases from food production](https://www.theguardian.com/environment/2021/sep/13/meat-greenhouses-gases-food-production-study)
+- Sep 13 - [EasyPost (YC S13) is profitable and hiring](https://www.easypost.com/careers)
 - Sep 13 - [Intuit to Acquire Mailchimp for $12b](https://www.investors.intuit.com/news/news-details/2021/Intuit-to-Acquire-Mailchimp/default.aspx)
 - Sep 13 - [NSO Group iMessage Zero-Click Exploit Captured in the Wild](https://citizenlab.ca/2021/09/forcedentry-nso-group-imessage-zero-click-exploit-captured-in-the-wild/)
 - Sep 13 - [Kite: An interactive visualization tool for graph theory](https://erkal.github.io/kite/)
-- Sep 13 - [Apple Issues Emergency Security Updates to Close a Spyware Flaw](https://www.nytimes.com/2021/09/13/technology/apple-software-update-spyware-nso-group.html)
-- Sep 13 - [Tesla opens a center on Native American land, selling cars straight to consumers](https://www.businessinsider.com/tesla-new-mexico-nambe-pueblo-tribal-land-direct-sales-ban-2021-9)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
