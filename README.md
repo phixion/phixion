@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 13 - [Has AI found a new foundation?](https://thegradient.pub/has-ai-found-a-new-foundation/)
+- Sep 13 - [Epiousios](https://en.wikipedia.org/wiki/Epiousios)
 - Sep 13 - [A new book looks behind Xi Jinping’s anti-corruption campaign](https://www.economist.com/china/2021/09/11/a-new-book-looks-behind-xi-jinpings-anti-corruption-campaign)
+- Sep 13 - [HashiCorp Terraform and Community Contributions](https://www.hashicorp.com/blog/terraform-community-contributions)
 - Sep 13 - [Eleven proofs of the Gaussian integral [pdf]](https://kconrad.math.uconn.edu/blurbs/analysis/gaussianintegral.pdf)
-- Sep 13 - [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
-- Sep 13 - [Laion-400M: open-source dataset of 400M image-text pairs](https://laion.ai/laion-400-open-dataset/)
-- Sep 13 - [Show HN: Chat with your contacts on different platforms without an app](https://fiotron.com/?b)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
