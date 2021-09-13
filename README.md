@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 13 - [PHP is still by far the most used server-side language with 78.9% market share](https://w3techs.com/technologies/history_overview/programming_language/ms/y)
+- Sep 13 - [Mozilla has defeated Microsoft’s default browser protections in Windows](https://www.theverge.com/2021/9/13/22671182/mozilla-default-browser-windows-protections-firefox)
 - Sep 13 - [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 - Sep 13 - [Ship / Show / Ask: A modern branching strategy](https://martinfowler.com/articles/ship-show-ask.html)
 - Sep 13 - [Custom Search Engine Built on Searx](https://jpreston.xyz/custom-search-engine.html)
-- Sep 13 - [Britain tamed Big Tech and nobody noticed](https://www.wired.co.uk/article/age-appropriate-design-code-big-tech)
-- Sep 13 - [Uber must employ its drivers, Dutch court rules](https://nltimes.nl/2021/09/13/uber-must-employ-its-drivers-dutch-court-rules)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
