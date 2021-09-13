@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 13 - [What do Germans fear the most?](https://www.dw.com/en/what-do-germans-fear-the-most/a-59129913)
 - Sep 13 - [Record number of environmental activists murdered](https://www.bbc.co.uk/news/science-environment-58508001)
 - Sep 13 - [Lock-free, allocation-free, efficient thread pool](https://zig.news/kprotty/resource-efficient-thread-pools-with-zig-3291)
 - Sep 13 - [Hrmpf rescue system, built on Void Linux](https://github.com/leahneukirchen/hrmpf)
 - Sep 13 - [Hyperbaric oxygen therapy reverses hallmarks of Alzheimer’s disease and dementia](https://www.technology.org/2021/09/10/hyperbaric-oxygen-therapy-reverses-hallmarks-of-alzheimers-disease-and-dementia/)
-- Sep 13 - [Apple Won a Battle to Lose the War](https://500ish.com/apple-won-a-battle-to-lose-the-war-3ce6c3701918)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
