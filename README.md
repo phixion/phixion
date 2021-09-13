@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 13 - [UK hotels adding service charge to room rate](https://www.headforpoints.com/2021/09/13/uk-hotels-adding-service-charges-to-room-rate/)
-- Sep 13 - [Firefox Browser: best for a free web](https://www.mozilla.org/en-GB/firefox/new/)
 - Sep 13 - [Adam Curtis’ “Bitter Lake”: A Review](https://im1776.com/2021/09/10/graveyard-empire/)
 - Sep 13 - [Smart kids should skip high school (2015)](https://www.sonyaellenmann.com/2015/09/why-skip-high-school.html)
 - Sep 13 - [EasyPost (YC S13) is profitable and hiring](https://www.easypost.com/careers)
+- Sep 13 - [Engineers grow pancreatic organoids that mimic the real thing](https://news.mit.edu/2021/pancreatic-organoids-cancer-0913)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
