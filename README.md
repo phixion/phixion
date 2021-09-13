@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 13 - [Intuit to Acquire Mailchimp for $12b](https://www.investors.intuit.com/news/news-details/2021/Intuit-to-Acquire-Mailchimp/default.aspx)
 - Sep 13 - [NSO Group iMessage Zero-Click Exploit Captured in the Wild](https://citizenlab.ca/2021/09/forcedentry-nso-group-imessage-zero-click-exploit-captured-in-the-wild/)
 - Sep 13 - [Kite: An interactive visualization tool for graph theory](https://erkal.github.io/kite/)
+- Sep 13 - [Apple Issues Emergency Security Updates to Close a Spyware Flaw](https://www.nytimes.com/2021/09/13/technology/apple-software-update-spyware-nso-group.html)
 - Sep 13 - [Tesla opens a center on Native American land, selling cars straight to consumers](https://www.businessinsider.com/tesla-new-mexico-nambe-pueblo-tribal-land-direct-sales-ban-2021-9)
-- Sep 13 - [High Performance Organizations Reading List](https://github.com/pdfernhout/High-Performance-Organizations-Reading-List)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
