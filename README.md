@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 13 - [Energy Prices in Europe Hit Records After Wind Stops Blowing](https://www.wsj.com/articles/energy-prices-in-europe-hit-records-after-wind-stops-blowing-11631528258)
-- Sep 13 - [Scorned wife raids ex-husband’s cryogenics lab, stealing frozen brains](https://www.thesun.co.uk/news/16105464/scorned-wife-raids-ex-husbands-lab/)
 - Sep 13 - [Length-Limited Prefix Codes](https://create.stephan-brumme.com/length-limited-prefix-codes/)
 - Sep 13 - [Usage statistics of server-side programming languages for websites](https://w3techs.com/technologies/history_overview/programming_language/ms/y)
 - Sep 13 - [Mozilla has defeated Microsoft’s default browser protections in Windows](https://www.theverge.com/2021/9/13/22671182/mozilla-default-browser-windows-protections-firefox)
+- Sep 13 - [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
