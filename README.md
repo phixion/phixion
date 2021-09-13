@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 13 - [Developer's Porn Stash Gets Banned from Steam](https://steamcommunity.com/groups/Sentinels_of_the_Store/announcements/detail/2990942216950569314)
 - Sep 13 - [Has AI found a new foundation?](https://thegradient.pub/has-ai-found-a-new-foundation/)
 - Sep 13 - [Epiousios](https://en.wikipedia.org/wiki/Epiousios)
 - Sep 13 - [HashiCorp Terraform and Community Contributions](https://www.hashicorp.com/blog/terraform-community-contributions)
 - Sep 13 - [Eleven proofs of the Gaussian integral [pdf]](https://kconrad.math.uconn.edu/blurbs/analysis/gaussianintegral.pdf)
-- Sep 13 - [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
