@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 13 - [Disclosing E2EE vulnerability in multiple Matrix clients](https://matrix.org/blog/2021/09/13/vulnerability-disclosure-key-sharing)
 - Sep 13 - [Welcome to Speed Week and a Waitless Internet](https://blog.cloudflare.com/fastest-internet/)
 - Sep 13 - [Trademark Actions Against the PostgreSQL Community](https://www.postgresql.org/about/news/trademark-actions-against-the-postgresql-community-2302/)
-- Sep 13 - [Ask HN: Does privacy and data protection law apply to the inside of your home?](https://news.ycombinator.com/item?id=28512242)
 - Sep 13 - [Use your own WiFi connection test server in Windows](https://www.nu42.com/2021/09/use-your-own-wifi-connection-test.html)
-- Sep 13 - [Facebook says its rules apply to all – documents reveal an elite that’s exempt](https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-11631541353)
+- Sep 13 - [Facebook has exempted high-profile users from some or all of its rules](https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-11631541353)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
