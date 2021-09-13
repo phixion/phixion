@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 13 - [Intuit to Acquire Mailchimp for $12b](https://www.investors.intuit.com/news/news-details/2021/Intuit-to-Acquire-Mailchimp/default.aspx)
+- Sep 13 - [NSO Group iMessage Zero-Click Exploit Captured in the Wild](https://citizenlab.ca/2021/09/forcedentry-nso-group-imessage-zero-click-exploit-captured-in-the-wild/)
+- Sep 13 - [Kite: An interactive visualization tool for graph theory](https://erkal.github.io/kite/)
 - Sep 13 - [Tesla opens a center on Native American land, selling cars straight to consumers](https://www.businessinsider.com/tesla-new-mexico-nambe-pueblo-tribal-land-direct-sales-ban-2021-9)
-- Sep 13 - [YouTube takes down the Ig Nobel show because of a 1914 recording](https://www.improbable.com/2021/09/13/youtube-the-ig-nobel-prizes-and-the-year-1914/)
-- Sep 13 - [Show HN: Video2WebP – convert videos to animated WebP in the browser](https://video2webp.mattj.io)
-- Sep 13 - [X Windows on a Floppy](http://pupngo.dk/xwinflpy/xwoaf_rebuild.html)
-- Sep 13 - [How to Crawl the Web with Scrapy](https://www.babbling.fish/scraping-for-a-job/)
+- Sep 13 - [High Performance Organizations Reading List](https://github.com/pdfernhout/High-Performance-Organizations-Reading-List)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
