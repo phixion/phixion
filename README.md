@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 14 - [Intel Is Reducing Server Chip Pricing in Attempt to Stem the AMD Tide](https://www.tomshardware.com/news/intel-reduces-server-pricing-to-fight-amd)
+- Sep 14 - [MIT: Measuring media bias in major news outlets with machine learning](https://www.unite.ai/mit-measuring-media-bias-in-major-news-outlets-with-machine-learning/)
+- Sep 14 - [Job vacancies surge past one million in new record](https://www.bbc.co.uk/news/business-58543554)
 - Sep 14 - [Go’ing Insane: Endless Error Handling](https://jesseduffield.com/Gos-Shortcomings-1/)
 - Sep 14 - [Vaccine experts: Covid-19 booster shots aren't needed now](https://www.axios.com/covid-19-vaccine-booster-not-needed-experts-fda-lancet-44bc8a25-c640-4268-8841-e652e285d8fe.html)
-- Sep 14 - [Things Fall Apart](https://magazine.atavist.com/things-fall-apart-makoko-floating-school/)
-- Sep 14 - [(L)Awful Interception](https://mullvad.net/en/blog/2021/4/22/lawful-interception/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
