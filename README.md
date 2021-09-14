@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 14 - [Steven Pinker Thinks Your Sense of Imminent Doom Is Wrong](https://www.nytimes.com/interactive/2021/09/06/magazine/steven-pinker-interview.html)
+- Sep 14 - [Simple Mathematical Law Predicts Movement in Cities Around the World](https://www.scientificamerican.com/article/simple-mathematical-law-predicts-movement-in-cities-around-the-world/)
 - Sep 14 - [How percentile approximation works and why it's more useful than averages](https://blog.timescale.com/blog/how-percentile-approximation-works-and-why-its-more-useful-than-averages/)
 - Sep 14 - [Efficient service isolation on Alpine with VRFs](https://ariadne.space/2021/09/13/efficient-service-isolation-on-alpine-with-vrfs/)
 - Sep 14 - [Donations make up a quarter of my income](https://method.ac/writing/work_journal/donations.html)
-- Sep 14 - [Rainbow Six Vegas, SWAT 4 unplayable due to disabled ad server](https://twitter.com/_eezstreet_/status/1437652748179234819)
-- Sep 14 - [Java 17 / JDK 17: General Availability](https://mail.openjdk.java.net/pipermail/jdk-dev/2021-September/006037.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
