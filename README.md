@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 14 - [Norm Macdonald Dead: ‘Saturday Night Live’ Alum and Veteran Comic Was 61](https://deadline.com/2021/09/norm-macdonald-dead-obituary-comedian-saturday-night-live-weekend-update-anchor-was-61-1234833212/)
 - Sep 14 - [Apple Watch Series 7](https://www.apple.com/apple-watch-series-7/)
 - Sep 14 - [Ask HN: Where can you apply for a programming job when you are a Class A asshole](https://news.ycombinator.com/item?id=28528143)
 - Sep 14 - [Apple unveils new iPad mini with breakthrough performance in new design](https://www.apple.com/newsroom/2021/09/apple-unveils-new-ipad-mini-with-breakthrough-performance-in-stunning-new-design/)
 - Sep 14 - [Reflect (YC S20) is hiring an engineer to automate web testing](https://bookface.ycombinator.com/company/22252/jobs/46431)
-- Sep 14 - [Online coding school Treehouse lays off most of its staff](https://www.oregonlive.com/silicon-forest/2021/09/online-coding-school-treehouse-formerly-based-in-portland-lays-off-most-of-its-staff.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
