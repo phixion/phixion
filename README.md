@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 14 - [Skio (YC S20) is hiring founding engineers](https://skio.com/careers)
-- Sep 14 - [Ex-NSA cyberspies reveal how they helped hack foes of UAE](https://www.reuters.com/investigates/special-report/usa-spying-raven/)
+- Sep 14 - [What Is the Data Lakehouse Pattern?](https://timeflow.systems/what-is-the-data-lakehouse-pattern/)
+- Sep 14 - [Ex-NSA cyberspies reveal how they helped hack foes of UAE (2019)](https://www.reuters.com/investigates/special-report/usa-spying-raven/)
+- Sep 14 - [Spectrum OS: a declarative, reproducible, compartmentalized Linux](https://spectrum-os.org/)
 - Sep 14 - [Sprout: P2P Routing with Social Networks (2004) [pdf]](http://ilpubs.stanford.edu:8090/763/1/2004-10.pdf)
-- Sep 14 - [Indian researchers create a Raspberry-Pi-based device to monitor health](https://spectrum.ieee.org/rural-blood-test-analyser)
-- Sep 14 - [The Frustration with Productivity Culture](https://www.newyorker.com/culture/office-space/the-frustration-with-productivity-culture/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
