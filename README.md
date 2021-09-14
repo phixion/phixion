@@ -35,9 +35,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 13 - [Ask HN: Can you be openly politically right-leaning in tech in North America?](https://news.ycombinator.com/item?id=28518422)
+- Sep 13 - [A ‘fatally, tragically flawed’ paradigm has derailed the science of obesity](https://www.statnews.com/2021/09/13/how-a-fatally-tragically-flawed-paradigm-has-derailed-the-science-of-obesity/)
 - Sep 13 - [Why Monero](https://benkaiser.dev/why-monero/)
-- Sep 13 - [UK hotels adding service charge to room rate](https://www.headforpoints.com/2021/09/13/uk-hotels-adding-service-charges-to-room-rate/)
+- Sep 13 - [Firefox Browser: best for a free web](https://www.mozilla.org/en-GB/firefox/new/)
 - Sep 13 - [Adam Curtis’ “Bitter Lake”: A Review](https://im1776.com/2021/09/10/graveyard-empire/)
 - Sep 13 - [Smart kids should skip high school (2015)](https://www.sonyaellenmann.com/2015/09/why-skip-high-school.html)
 <!--END_SECTION:hn-->
