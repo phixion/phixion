@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 14 - [Stripe banned us for payment disputes but we never had a single dispute](https://justuseapp.com/page/stripe-ban)
+- Sep 14 - [Australian Govt to revoke citizenship based on “confidential information”](https://www.sbs.com.au/news/legal-experts-have-criticised-the-government-s-proposed-amendments-to-visa-and-citizenship-laws/0287a0ce-229d-44f6-b3bb-4e86bcc46d5f)
 - Sep 14 - [Intel Is Reducing Server Chip Pricing in Attempt to Stem the AMD Tide](https://www.tomshardware.com/news/intel-reduces-server-pricing-to-fight-amd)
-- Sep 14 - [MIT: Measuring media bias in major news outlets with machine learning](https://www.unite.ai/mit-measuring-media-bias-in-major-news-outlets-with-machine-learning/)
+- Sep 14 - [Machine-Learning media bias](https://www.unite.ai/mit-measuring-media-bias-in-major-news-outlets-with-machine-learning/)
 - Sep 14 - [Job vacancies surge past one million in new record](https://www.bbc.co.uk/news/business-58543554)
-- Sep 14 - [Go’ing Insane: Endless Error Handling](https://jesseduffield.com/Gos-Shortcomings-1/)
-- Sep 14 - [Vaccine experts: Covid-19 booster shots aren't needed now](https://www.axios.com/covid-19-vaccine-booster-not-needed-experts-fda-lancet-44bc8a25-c640-4268-8841-e652e285d8fe.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
