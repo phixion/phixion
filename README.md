@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Sep 14 - [Sprout: P2P Routing with Social Networks (2004) [pdf]](http://ilpubs.stanford.edu:8090/763/1/2004-10.pdf)
 - Sep 14 - [US housing price higher than housing bubble 2008](https://fred.stlouisfed.org/graph/?g=kYEb)
+- Sep 14 - [Millennials Control Just 4.6 Percent of US Wealth](https://journal.media/millennials-control-just-4-6-percent-of-us-wealth)
 - Sep 14 - [Indian researchers create a Raspberry-Pi-based device to monitor health](https://spectrum.ieee.org/rural-blood-test-analyser)
 - Sep 14 - [The Frustration with Productivity Culture](https://www.newyorker.com/culture/office-space/the-frustration-with-productivity-culture/)
-- Sep 14 - [Five Minute Journal – Daily Journal Techniques and Tips](https://briansunter.com/blog/five-minute-journal/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
