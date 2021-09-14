@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 14 - [Xiaomi Unveils Xiaomi Smart Glasses](https://blog.mi.com/en/2021/09/14/xiaomi-unveils-xiaomi-smart-glasses/)
 - Sep 14 - [China’s dodgy-debt double act](https://www.economist.com/leaders/2021/09/04/chinas-dodgy-debt-double-act)
 - Sep 14 - [Things Fall Apart](https://magazine.atavist.com/things-fall-apart-makoko-floating-school/)
 - Sep 14 - [(L)Awful Interception](https://mullvad.net/en/blog/2021/4/22/lawful-interception/)
 - Sep 14 - [A Look at Barbara Kruger and Jenny Holzer’s Use of Typography](https://catnormoyle.com/2011/02/02/a-look-at-barbara-kruger-and-jenny-holzers-use-of-typographic-art/)
-- Sep 14 - [FreshTomato](https://freshtomato.org)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
