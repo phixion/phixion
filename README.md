@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 14 - [Apple Watch Series 7](https://www.apple.com/newsroom/2021/09/apple-reveals-apple-watch-series-7-featuring-the-largest-most-advanced-display/)
+- Sep 14 - [Apple unveils iPhone 13 Pro and iPhone 13 Pro Max – more pro than ever before](https://www.apple.com/newsroom/2021/09/apple-unveils-iphone-13-pro-and-iphone-13-pro-max-more-pro-than-ever-before/)
+- Sep 14 - [iPhone 13 Pro and iPhone 13 Pro Max](https://www.apple.com/iphone-13-pro/)
 - Sep 14 - [Apple unveils new iPad mini with breakthrough performance in new design](https://www.apple.com/newsroom/2021/09/apple-unveils-new-ipad-mini-with-breakthrough-performance-in-stunning-new-design/)
 - Sep 14 - [Reflect (YC S20) is hiring an engineer to automate web testing](https://bookface.ycombinator.com/company/22252/jobs/46431)
-- Sep 14 - [Online coding school Treehouse lays off most of its staff](https://www.oregonlive.com/silicon-forest/2021/09/online-coding-school-treehouse-formerly-based-in-portland-lays-off-most-of-its-staff.html)
-- Sep 14 - [Simple Mathematical Law Predicts Movement in Cities Around the World](https://www.scientificamerican.com/article/simple-mathematical-law-predicts-movement-in-cities-around-the-world/)
-- Sep 14 - [How percentile approximation works and why it's more useful than averages](https://blog.timescale.com/blog/how-percentile-approximation-works-and-why-its-more-useful-than-averages/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
