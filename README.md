@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 14 - [Linux kernel VP9 codec V4L2 control interface](http://lkml.iu.edu/hypermail/linux/kernel/2109.1/07229.html)
 - Sep 14 - [Steve Wozniak announces private space company to clean up space debris in orbit](https://www.independent.co.uk/life-style/gadgets-and-tech/apple-founder-wozniak-space-debris-company-b1919747.html)
 - Sep 14 - [AI Recognises Race in Medical Images](https://explainthispaper.com/ai-recognises-race-in-medical-images/)
 - Sep 14 - [China uses anti-fraud app to track access to overseas financial news sites](https://www.ft.com/content/84b6b889-ae03-47f7-9cd0-bd604b21d5de)
 - Sep 14 - [14kb WASM game written in D](https://skoppe.github.io/spasm/examples/underrun/)
-- Sep 14 - [Facebook Knows Instagram Is Toxic for Teen Girls, Company Documents Show](https://www.wsj.com/articles/facebook-knows-instagram-is-toxic-for-teen-girls-company-documents-show-11631620739)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
