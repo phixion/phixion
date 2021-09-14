@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 14 - [Minimum wage would be $26 an hour if it had grown in line with productivity](https://www.cbsnews.com/news/minimum-wage-26-dollars-economy-productivity/)
 - Sep 14 - [Bespoke Synth 1.0 – open-source software modular synthesizer](http://www.bespokesynth.com/)
 - Sep 14 - [SEC Charges App Annie and Its Founder with Securities Fraud](https://www.sec.gov/news/press-release/2021-176)
 - Sep 14 - [Norm Macdonald Dead: ‘Saturday Night Live’ Alum and Veteran Comic Was 61](https://deadline.com/2021/09/norm-macdonald-dead-obituary-comedian-saturday-night-live-weekend-update-anchor-was-61-1234833212/)
-- Sep 14 - [Apple Watch Series 7](https://www.apple.com/apple-watch-series-7/)
-- Sep 14 - [Reflect (YC S20) is hiring an engineer to automate web testing](https://bookface.ycombinator.com/company/22252/jobs/46431)
+- Sep 14 - [iPad mini](https://www.apple.com/ipad-mini/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
