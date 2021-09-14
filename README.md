@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 14 - [Anonymous Hacks Epik](https://4chan.partyvan.epikfail.win:55899/)
+- Sep 14 - [Billions of Code Name Permutations in 32 bits](https://nullprogram.com/blog/2021/09/14/)
 - Sep 14 - [Tianwen-1 attitude in Mars orbit](https://destevez.net/2021/09/tianwen-1-attitude-in-mars-orbit/)
 - Sep 14 - [Climate change risk assessment 2021 [pdf]](https://www.chathamhouse.org/sites/default/files/2021-09/2021-09-14-climate-change-risk-assessment-quiggin-et-al.pdf)
 - Sep 14 - [Skio (YC S20) is hiring founding engineers](https://skio.com/careers)
-- Sep 14 - [What Is the Data Lakehouse Pattern?](https://timeflow.systems/what-is-the-data-lakehouse-pattern/)
+- Sep 14 - [The Housing Theory of Everything](https://www.worksinprogress.co/issue/the-housing-theory-of-everything/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
