@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 14 - [Facebook denies having '2 systems of justice' for users after WSJ report](https://www.foxbusiness.com/technology/facebook-denies-two-systems-of-justice-wall-street-journal)
+- Sep 14 - [AI generated girl becomes influencer and lands 100 sponsorships](https://www.allkpop.com/article/2021/09/social-media-influencer-model-created-from-artificial-intelligence-lands-100-sponsorships)
 - Sep 13 - [Why Monero](https://benkaiser.dev/why-monero/)
 - Sep 13 - [Ask HN: Do you still miss your RIM BlackBerry?](https://news.ycombinator.com/item?id=28517447)
 - Sep 13 - [Firefox Browser: best for a free web](https://www.mozilla.org/en-GB/firefox/new/)
