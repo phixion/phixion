@@ -35,9 +35,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 14 - [Intel Is Reducing Server Chip Pricing in Attempt to Stem the AMD Tide](https://www.tomshardware.com/news/intel-reduces-server-pricing-to-fight-amd)
+- Sep 14 - [Go’ing Insane: Endless Error Handling](https://jesseduffield.com/Gos-Shortcomings-1/)
 - Sep 14 - [Vaccine experts: Covid-19 booster shots aren't needed now](https://www.axios.com/covid-19-vaccine-booster-not-needed-experts-fda-lancet-44bc8a25-c640-4268-8841-e652e285d8fe.html)
-- Sep 14 - [Coal replaces wind as most important energy source in Germany in H1](https://renewablesnow.com/news/coal-replaces-wind-as-most-important-energy-source-in-germany-in-h1-753756/)
-- Sep 14 - [China’s dodgy-debt double act](https://www.economist.com/leaders/2021/09/04/chinas-dodgy-debt-double-act)
 - Sep 14 - [Things Fall Apart](https://magazine.atavist.com/things-fall-apart-makoko-floating-school/)
 - Sep 14 - [(L)Awful Interception](https://mullvad.net/en/blog/2021/4/22/lawful-interception/)
 <!--END_SECTION:hn-->
