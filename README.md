@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Sep 14 - [Gordian Software (YC W19) Is Hiring Software Engineers](https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22)
 - Sep 14 - [Stripe banned us for payment disputes but we never had a single dispute](https://justuseapp.com/page/stripe-ban)
+- Sep 14 - [Common cold combats Covid-19](https://news.yale.edu/2021/06/15/common-cold-combats-covid-19)
 - Sep 14 - [Australian Govt to revoke citizenship based on “confidential information”](https://www.sbs.com.au/news/legal-experts-have-criticised-the-government-s-proposed-amendments-to-visa-and-citizenship-laws/0287a0ce-229d-44f6-b3bb-4e86bcc46d5f)
 - Sep 14 - [Intel Is Reducing Server Chip Pricing in Attempt to Stem the AMD Tide](https://www.tomshardware.com/news/intel-reduces-server-pricing-to-fight-amd)
-- Sep 14 - [Machine-Learning media bias](https://www.unite.ai/mit-measuring-media-bias-in-major-news-outlets-with-machine-learning/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
