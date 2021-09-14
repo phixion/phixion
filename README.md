@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 14 - [AI recognises race in x-rays, even in heavily redacted or pixelated images](https://explainthispaper.com/ai-recognises-race-in-medical-images/)
+- Sep 14 - [China uses anti-fraud app to track access to overseas financial news sites](https://www.ft.com/content/84b6b889-ae03-47f7-9cd0-bd604b21d5de)
+- Sep 14 - [Facebook Knows Instagram Is Toxic for Teen Girls, Company Documents Show](https://www.wsj.com/articles/facebook-knows-instagram-is-toxic-for-teen-girls-company-documents-show-11631620739)
+- Sep 14 - [Entrepreneur plans to resurrect woolly mammoths](https://www.nhm.ac.uk/discover/news/2021/september/entrepreneur-plans-to-resurrect-woolly-mammoths.html)
 - Sep 14 - [Gordian Software (YC W19) Is Hiring Software Engineers](https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22)
-- Sep 14 - [Stripe banned us for payment disputes but we never had a single dispute](https://justuseapp.com/page/stripe-ban)
-- Sep 14 - [Common cold combats Covid-19](https://news.yale.edu/2021/06/15/common-cold-combats-covid-19)
-- Sep 14 - [Australian Govt to revoke citizenship based on “confidential information”](https://www.sbs.com.au/news/legal-experts-have-criticised-the-government-s-proposed-amendments-to-visa-and-citizenship-laws/0287a0ce-229d-44f6-b3bb-4e86bcc46d5f)
-- Sep 14 - [Intel Is Reducing Server Chip Pricing in Attempt to Stem the AMD Tide](https://www.tomshardware.com/news/intel-reduces-server-pricing-to-fight-amd)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
