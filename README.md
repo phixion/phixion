@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 14 - [China’s dodgy-debt double act](https://www.economist.com/leaders/2021/09/04/chinas-dodgy-debt-double-act)
+- Sep 14 - [Things Fall Apart](https://magazine.atavist.com/things-fall-apart-makoko-floating-school/)
+- Sep 14 - [(L)Awful Interception](https://mullvad.net/en/blog/2021/4/22/lawful-interception/)
 - Sep 14 - [A Look at Barbara Kruger and Jenny Holzer’s Use of Typography](https://catnormoyle.com/2011/02/02/a-look-at-barbara-kruger-and-jenny-holzers-use-of-typographic-art/)
 - Sep 14 - [Q1K3 - An homage to Quake in 13kb of JavaScript](https://js13kgames.com/entries/q1k3)
 - Sep 14 - [AI generated girl becomes influencer and lands 100 sponsorships](https://www.allkpop.com/article/2021/09/social-media-influencer-model-created-from-artificial-intelligence-lands-100-sponsorships)
-- Sep 14 - [Faster Quantized Neural Network Inference with XNNPack](https://blog.tensorflow.org/2021/09/faster-quantized-inference-with-xnnpack.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
