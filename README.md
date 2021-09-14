@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 14 - [AI generated girl becomes influencer and lands 100 sponsorships](https://www.allkpop.com/article/2021/09/social-media-influencer-model-created-from-artificial-intelligence-lands-100-sponsorships)
+- Sep 14 - [Faster Quantized Neural Network Inference with XNNPack](https://blog.tensorflow.org/2021/09/faster-quantized-inference-with-xnnpack.html)
 - Sep 13 - [Why Monero](https://benkaiser.dev/why-monero/)
 - Sep 13 - [Ask HN: Do you still miss your RIM BlackBerry?](https://news.ycombinator.com/item?id=28517447)
 - Sep 13 - [Firefox Browser: best for a free web](https://www.mozilla.org/en-GB/firefox/new/)
-- Sep 13 - [Adam Curtis’ “Bitter Lake”: A Review](https://im1776.com/2021/09/10/graveyard-empire/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
