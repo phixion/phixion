@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 14 - [Indian researchers create a Raspberry-Pi-based device to monitor health](https://spectrum.ieee.org/rural-blood-test-analyser)
+- Sep 14 - [The Frustration with Productivity Culture](https://www.newyorker.com/culture/office-space/the-frustration-with-productivity-culture/)
+- Sep 14 - [Five Minute Journal – Daily Journal Techniques and Tips](https://briansunter.com/blog/five-minute-journal/)
 - Sep 14 - [Minimum wage would be $26 an hour if it had grown in line with productivity](https://www.cbsnews.com/news/minimum-wage-26-dollars-economy-productivity/)
-- Sep 14 - [Bespoke Synth 1.0 – open-source software modular synthesizer](http://www.bespokesynth.com/)
-- Sep 14 - [SEC Charges App Annie and Its Founder with Securities Fraud](https://www.sec.gov/news/press-release/2021-176)
-- Sep 14 - [Norm Macdonald Dead: ‘Saturday Night Live’ Alum and Veteran Comic Was 61](https://deadline.com/2021/09/norm-macdonald-dead-obituary-comedian-saturday-night-live-weekend-update-anchor-was-61-1234833212/)
-- Sep 14 - [iPad mini](https://www.apple.com/ipad-mini/)
+- Sep 14 - [Norm Macdonald Dead: Comedian and 'SNL' Star Was 61](https://variety.com/2021/tv/news/norm-macdonald-dead-dies-snl-1235064570/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
