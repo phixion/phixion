@@ -35,10 +35,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 14 - [Q1K3 - An homage to Quake in 13kb of JavaScript](https://js13kgames.com/entries/q1k3)
 - Sep 14 - [AI generated girl becomes influencer and lands 100 sponsorships](https://www.allkpop.com/article/2021/09/social-media-influencer-model-created-from-artificial-intelligence-lands-100-sponsorships)
 - Sep 13 - [Why Monero](https://benkaiser.dev/why-monero/)
 - Sep 13 - [Ask HN: Do you still miss your RIM BlackBerry?](https://news.ycombinator.com/item?id=28517447)
-- Sep 13 - [Firefox Browser: best for a free web](https://www.mozilla.org/en-GB/firefox/new/)
 - Sep 13 - [Adam Curtis’ “Bitter Lake”: A Review](https://im1776.com/2021/09/10/graveyard-empire/)
 <!--END_SECTION:hn-->
 
