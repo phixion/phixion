@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 15 - [HSBC exits US mass market retail banking](https://www.about.us.hsbc.com/news-and-media/hsbc-exits-us-mass-market-retail-banking)
-- Sep 15 - [Scientists Say They Could Bring Back Woolly Mammoths. But Maybe They Shouldn't](https://www.npr.org/2021/09/14/1036884561/dna-resurrection-jurassic-park-woolly-mammoth)
 - Sep 15 - [Baraka (YC S21) Is Hiring](https://www.ycombinator.com/companies/baraka/jobs/8RulLko-ios-mobile-engineer)
 - Sep 15 - [Designing Beautiful Shadows in CSS](https://www.joshwcomeau.com/css/designing-shadows/)
 - Sep 15 - [Vex – open-source visual editor for XML](https://www.eclipse.org/vex/)
+- Sep 14 - [Remembering When Only Barbarians Drank Milk (2018)](https://www.atlasobscura.com/articles/history-of-milk)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
