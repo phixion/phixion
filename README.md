@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 15 - [Nikon's 2021 Photomicrography Competition Winners](https://www.nikonsmallworld.com/galleries/2021-photomicrography-competition)
 - Sep 15 - [Find engineering roles at over 800 YC-funded startups](https://ycombinator.com/jobs)
 - Sep 15 - [The First Webcam Was Invented to Keep an Eye on a Coffee Pot](https://www.openculture.com/2021/09/the-very-first-webcam-was-invented-to-keep-an-eye-on-a-coffee-pot-at-cambridge-university.html)
+- Sep 15 - [Show HN: NFC Passport/ID for remote user registration](https://passportreader.app)
 - Sep 15 - [HTTP Status 418 – I'm a teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
-- Sep 15 - [Driving payment card adoption with deeplinks, applinks, long cards, and autofill](https://kunle.app/september-2021-card-tactics.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
