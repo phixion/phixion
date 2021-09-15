@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 15 - [GM tells Bolt owners to park 50 feet away from other cars](https://www.autonews.com/manufacturing/gm-tells-some-bolt-owners-park-50-feet-away-other-cars)
 - Sep 15 - [A Tour of the Oil Language](https://www.oilshell.org/release/latest/doc/oil-language-tour.html)
 - Sep 15 - [Will Xi Move on Taiwan?](https://asia.nikkei.com/Spotlight/20-years-after-9-11/Will-Xi-move-on-Taiwan-History-warns-he-might-Niall-Ferguson)
+- Sep 15 - [Home Assistant – open-source home automation](https://www.home-assistant.io/)
 - Sep 15 - [Facebook under fire over secret teen research](https://www.bbc.co.uk/news/technology-58570353)
-- Sep 15 - [“But I can just look at a JPEG online.”](https://pizzaparty.substack.com/p/but-i-can-just-look-at-a-jpeg-online)
-- Sep 15 - [Substack (YC W18) Is Hiring Engineering Managers to Build the Future of Writing](https://substack.com/jobs?utm_source=hn&utm_content=engmanager)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
