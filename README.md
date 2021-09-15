@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 15 - [Dynamic Queries in Ecto (Elixir Lang)](https://bartoszgorka.com/dynamic-queries-in-ecto)
 - Sep 15 - [Pay Transparency Is Coming, and Employers Are Terrified](https://www.businessinsider.com/pay-transparency-salary-range-disclosure-laws-colorado-employers-terrified)
 - Sep 15 - [Modern snakes evolved from few survivors of dino-killing asteroid](https://www.miragenews.com/modern-snakes-evolved-from-few-survivors-of-631873/)
 - Sep 15 - [Username ending with MIME type format is not allowed](https://gitlab.com/gitlab-org/gitlab/-/issues/335278)
 - Sep 15 - [OpenBSD's Pledge and Unveil from Python](https://nullprogram.com/blog/2021/09/15/)
-- Sep 15 - [AWS federation comes to GitHub Actions](https://awsteele.com/blog/2021/09/15/aws-federation-comes-to-github-actions.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
