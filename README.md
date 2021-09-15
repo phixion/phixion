@@ -35,8 +35,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 15 - [In Search for Wealth Irrelevance](https://sandwichbop.substack.com/p/in-search-for-wealth-irrelevance)
 - Sep 15 - [Baraka (YC S21) Is Hiring](https://www.ycombinator.com/companies/baraka/jobs/8RulLko-ios-mobile-engineer)
+- Sep 15 - [Three Former U.S. Intelligence Operatives Admit Hacking for United Arab Emirates](https://www.npr.org/2021/09/14/1037132503/us-charges-former-intelligence-operatives-hacking-for-uae)
 - Sep 15 - [Young People Are Anxious About Climate Change, Say Governments Are Failing Them](https://text.npr.org/1037023551)
 - Sep 15 - [Vex – open-source visual editor for XML](https://www.eclipse.org/vex/)
 - Sep 14 - [Remembering When Only Barbarians Drank Milk (2018)](https://www.atlasobscura.com/articles/history-of-milk)
