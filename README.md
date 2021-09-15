@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 15 - [CA Recall Ballots Easily Seen Through Envelopes](https://twitter.com/bgmasters/status/1437914048239071236)
+- Sep 15 - [In Search for Wealth Irrelevance](https://sandwichbop.substack.com/p/in-search-for-wealth-irrelevance)
+- Sep 15 - [Baraka (YC S21) Is Hiring](https://www.ycombinator.com/companies/baraka/jobs/8RulLko-ios-mobile-engineer)
+- Sep 15 - [Young People Are Anxious About Climate Change, Say Governments Are Failing Them](https://text.npr.org/1037023551)
+- Sep 15 - [Vex – open-source visual editor for XML](https://www.eclipse.org/vex/)
 - Sep 14 - [Remembering When Only Barbarians Drank Milk (2018)](https://www.atlasobscura.com/articles/history-of-milk)
-- Sep 14 - [Silicon Valley stirs over proposal to end popular QSBS tax break](https://www.axios.com/silicon-valley-house-democrats-small-business-tax-ca3e106f-a95d-47ad-95c9-60552d048e89.html)
-- Sep 14 - ["Secret" Agent Exposes Azure Customers to Unauthorized Code Execution](https://www.wiz.io/blog/secret-agent-exposes-azure-customers-to-unauthorized-code-execution)
-- Sep 14 - [Anonymous Hacks Epik](https://4chan.partyvan.epikfail.win:55899/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
