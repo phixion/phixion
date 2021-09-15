@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 15 - [QuestDB (time-series database) is hiring engineers and dev rel](https://questdb.io/careers/)
 - Sep 15 - [Tasket/wyng-backup: Fast Time Machine-like backups for logical volumes](https://github.com/tasket/wyng-backup)
 - Sep 15 - [Apple blocked the FlickType Watch keyboard then announced a clone of it](https://www.inputmag.com/tech/apple-blocked-the-flicktype-watch-keyboard-then-announced-a-clone-of-it)
+- Sep 15 - [Unplanned Freefall? Some Survival Tips](http://www.greenharbor.com/fffolder/carkeet.html)
 - Sep 15 - [Michelin's Airless Tires Hit the Streets for the First Time](https://interestingengineering.com/michelin-airless-tires-hit-public-streets-for-first-time?_source=newsletter&_campaign=4yVo2pDYZvnrN&_uid=LDdwmgxga1&_h=ea90de89f1bceca46d02cad80716fb4006725c29&utm_source=newsletter&utm_medium=mailing&utm_campaign=Newsletter-14-09-2021)
-- Sep 15 - [Seq: A programming language for high-performance computational genomics](https://github.com/seq-lang/seq)
-- Sep 15 - [FreeBSD SSH Hardening](https://gist.github.com/koobs/e01cf8869484a095605404cd0051eb11)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
