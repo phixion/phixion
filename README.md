@@ -35,10 +35,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 15 - [A dive into the world of MS-DOS viruses](https://blog.benjojo.co.uk/post/dive-into-the-world-of-dos-viruses)
 - Sep 15 - [Launching Replay: The Time Travel Debugger for the Web](https://medium.com/replay-io/launching-replay-the-time-travel-debugger-for-the-web-f886f0897d38)
-- Sep 15 - [New York passes law that will ban all gas-powered car sales by 2035](https://www.engadget.com/new-york-law-ban-gas-powered-car-sales-2035-053554406.html)
 - Sep 15 - [Show HN: Your Time Travel Debugger](https://www.replay.io/)
-- Sep 15 - [State of the Software Supply Chain 2021](https://www.sonatype.com/resources/state-of-the-software-supply-chain-2021)
+- Sep 15 - [Facebook tried to make its platform a healthier place, but it got angrier](https://www.wsj.com/articles/facebook-algorithm-change-zuckerberg-11631654215)
 - Sep 15 - [Outdated Answers: accepted answer is now unpinned on Stack Overflow](https://meta.stackoverflow.com/questions/411352/outdated-answers-accepted-answer-is-now-unpinned-on-stack-overflow)
 <!--END_SECTION:hn-->
 
