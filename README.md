@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 15 - [North Korean missiles land in Japan EEZ as nuclear threat grows](https://www.japantimes.co.jp/news/2021/09/15/asia-pacific/north-korea-fires-apparent-ballistic-missile-days-testing-new-weapon/)
+- Sep 15 - [Oracle Free Java License](https://blogs.oracle.com/java/post/free-java-license)
+- Sep 15 - [I ruin developers’ lives with my code reviews and I'm sorry](https://habr.com/en/post/440736/)
 - Sep 15 - [Fauci-Email](https://github.com/nveldt/fauci-email)
 - Sep 15 - [Considerations in boosting Covid-19 vaccine immune responses](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02046-8/fulltext)
-- Sep 15 - [Steve Jobs: Let's force Amazon to use our payment system (2010)](https://twitter.com/TechEmails/status/1438188756738191362/photo/1)
-- Sep 15 - [Nikon's 2021 Photomicrography Competition Winners](https://www.nikonsmallworld.com/galleries/2021-photomicrography-competition)
-- Sep 15 - [Find engineering roles at over 800 YC-funded startups](https://ycombinator.com/jobs)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
