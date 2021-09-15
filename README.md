@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 15 - [QuestDB (time-series database) is hiring engineers and dev rel](https://questdb.io/careers/)
 - Sep 15 - [PostgreSQL 15: default permissions for everyone is now restricted to db owner](https://www.depesz.com/2021/09/10/waiting-for-postgresql-15-revoke-public-create-from-public-schema-now-owned-by-pg_database_owner/)
 - Sep 15 - [EU Funding for Developer Tools for the Decentralized Web](https://httptoolkit.tech/blog/developer-tools-decentralized-web/)
+- Sep 15 - [California May Be the First State to Legislate Amazon Warehouse Conditions](https://themarkup.org/news/2021/09/13/california-may-be-the-first-state-to-legislate-amazon-warehouse-conditions)
 - Sep 15 - [What's cooking on Sourcehut? September 2021](https://sourcehut.org/blog/2021-09-15-whats-cooking-september-2021/)
-- Sep 15 - [Tasket/wyng-backup: Fast Time Machine-like backups for logical volumes](https://github.com/tasket/wyng-backup)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
