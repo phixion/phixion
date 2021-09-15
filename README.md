@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 15 - [Facebook under fire over secret teen research](https://www.bbc.co.uk/news/technology-58570353)
 - Sep 15 - [Substack (YC W18) Is Hiring Engineering Managers to Build the Future of Writing](https://substack.com/jobs?utm_source=hn&utm_content=engmanager)
 - Sep 15 - [Crypto Fund Manager/Scammer Sentenced to 7yrs](https://www.justice.gov/usao-sdny/pr/founder-90-million-cryptocurrency-hedge-fund-sentenced-more-seven-years-prison)
-- Sep 15 - [Bitcoin consumes 2nd highest electricity per capita](https://twitter.com/chinmayshah899/status/1436077836155056134)
+- Sep 15 - [OpenSea product chief accused of flipping NFTs with insider information](https://www.theverge.com/2021/9/15/22676075/opensea-insider-information-nft-trading-nate-chastain)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
