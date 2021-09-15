@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 15 - [Intensifying Seismic Crisis at La Palma Volcano: Mega-Tsunami Potential](https://electroverse.net/intensifying-seismic-crisis-at-la-palma-volcano-mega-tsunami-potential/)
 - Sep 15 - [Why Not Signal?](https://dessalines.github.io/essays/why_not_signal.html)
 - Sep 15 - [Facebook under fire over secret teen research](https://www.bbc.co.uk/news/technology-58570353)
 - Sep 15 - [Substack (YC W18) Is Hiring Engineering Managers to Build the Future of Writing](https://substack.com/jobs?utm_source=hn&utm_content=engmanager)
 - Sep 15 - [Crypto Fund Manager/Scammer Sentenced to 7yrs](https://www.justice.gov/usao-sdny/pr/founder-90-million-cryptocurrency-hedge-fund-sentenced-more-seven-years-prison)
+- Sep 15 - [Bitcoin consumes 2nd highest electricity per capita](https://twitter.com/chinmayshah899/status/1436077836155056134)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
