@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 15 - [Pleasure of Writing Go](https://fakturo.io/blog/the-pleasure-writing-go/?hn)
+- Sep 15 - [Substack (YC W18) Is Hiring Engineering Managers to Build the Future of Writing](https://substack.com/jobs?utm_source=hn&utm_content=engmanager)
+- Sep 15 - [The pleasure of writing Go](https://fakturo.io/blog/the-pleasure-writing-go/?hn)
 - Sep 15 - [Bitcoin consumes 2nd highest electricity per capita](https://twitter.com/chinmayshah899/status/1436077836155056134)
 - Sep 15 - [OpenSea product chief accused of flipping NFTs with insider information](https://www.theverge.com/2021/9/15/22676075/opensea-insider-information-nft-trading-nate-chastain)
-- Sep 15 - [Linux Sucks 2021 – The End of Linux Is Nigh](https://lunduke.locals.com/post/437549/linux-sucks-2021-the-end-of-linux-is-nigh)
-- Sep 15 - [Why Authorization Is Hard](https://www.osohq.com/post/why-authorization-is-hard)
+- Sep 15 - [Linux Sucks 2021 – The End of Linux Is Nigh [video]](https://lunduke.locals.com/post/437549/linux-sucks-2021-the-end-of-linux-is-nigh)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
