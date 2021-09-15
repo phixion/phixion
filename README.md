@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 15 - [QuestDB (time-series database) is hiring engineers and dev rel](https://questdb.io/careers/)
+- Sep 15 - [PostgreSQL 15: default permissions for everyone is now restricted to db owner](https://www.depesz.com/2021/09/10/waiting-for-postgresql-15-revoke-public-create-from-public-schema-now-owned-by-pg_database_owner/)
+- Sep 15 - [EU Funding for Developer Tools for the Decentralized Web](https://httptoolkit.tech/blog/developer-tools-decentralized-web/)
+- Sep 15 - [California May Be the First State to Legislate Amazon Warehouse Conditions](https://themarkup.org/news/2021/09/13/california-may-be-the-first-state-to-legislate-amazon-warehouse-conditions)
 - Sep 15 - [Tasket/wyng-backup: Fast Time Machine-like backups for logical volumes](https://github.com/tasket/wyng-backup)
-- Sep 15 - [Apple blocked the FlickType Watch keyboard then announced a clone of it](https://www.inputmag.com/tech/apple-blocked-the-flicktype-watch-keyboard-then-announced-a-clone-of-it)
-- Sep 15 - [Unplanned Freefall? Some Survival Tips](http://www.greenharbor.com/fffolder/carkeet.html)
-- Sep 15 - [Michelin's Airless Tires Hit the Streets for the First Time](https://interestingengineering.com/michelin-airless-tires-hit-public-streets-for-first-time?_source=newsletter&_campaign=4yVo2pDYZvnrN&_uid=LDdwmgxga1&_h=ea90de89f1bceca46d02cad80716fb4006725c29&utm_source=newsletter&utm_medium=mailing&utm_campaign=Newsletter-14-09-2021)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
