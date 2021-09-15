@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 15 - [H3: Hexagonal hierarchical geospatial indexing system](https://h3geo.org/)
 - Sep 15 - [How much faster is Java 17?](https://www.optaplanner.org/blog/2021/09/15/HowMuchFasterIsJava17.html)
 - Sep 15 - [A dive into the world of MS-DOS viruses (2019)](https://blog.benjojo.co.uk/post/dive-into-the-world-of-dos-viruses)
 - Sep 15 - [Show HN: Time Travel Debugger](https://www.replay.io/)
 - Sep 15 - [Facebook tried to make its platform a healthier place, but it got angrier](https://www.wsj.com/articles/facebook-algorithm-change-zuckerberg-11631654215)
-- Sep 15 - [Outdated Answers: accepted answer is now unpinned on Stack Overflow](https://meta.stackoverflow.com/questions/411352/outdated-answers-accepted-answer-is-now-unpinned-on-stack-overflow)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
