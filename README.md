@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 15 - [CA Recall Ballots Easily Seen Through Envelopes](https://twitter.com/bgmasters/status/1437914048239071236)
+- Sep 14 - [Remembering When Only Barbarians Drank Milk (2018)](https://www.atlasobscura.com/articles/history-of-milk)
 - Sep 14 - [Silicon Valley stirs over proposal to end popular QSBS tax break](https://www.axios.com/silicon-valley-house-democrats-small-business-tax-ca3e106f-a95d-47ad-95c9-60552d048e89.html)
 - Sep 14 - ["Secret" Agent Exposes Azure Customers to Unauthorized Code Execution](https://www.wiz.io/blog/secret-agent-exposes-azure-customers-to-unauthorized-code-execution)
 - Sep 14 - [Anonymous Hacks Epik](https://4chan.partyvan.epikfail.win:55899/)
-- Sep 14 - [Billions of Code Name Permutations in 32 bits](https://nullprogram.com/blog/2021/09/14/)
-- Sep 14 - [Tianwen-1 attitude in Mars orbit](https://destevez.net/2021/09/tianwen-1-attitude-in-mars-orbit/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
