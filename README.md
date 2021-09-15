@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 15 - [Username ending with MIME type format is not allowed](https://gitlab.com/gitlab-org/gitlab/-/issues/335278)
 - Sep 15 - [OpenBSD's Pledge and Unveil from Python](https://nullprogram.com/blog/2021/09/15/)
 - Sep 15 - [HSBC exits US mass market retail banking](https://www.about.us.hsbc.com/news-and-media/hsbc-exits-us-mass-market-retail-banking)
 - Sep 15 - [Baraka (YC S21) Is Hiring](https://www.ycombinator.com/companies/baraka/jobs/8RulLko-ios-mobile-engineer)
-- Sep 15 - [Designing Beautiful Shadows in CSS](https://www.joshwcomeau.com/css/designing-shadows/)
-- Sep 15 - [Vex – open-source visual editor for XML](https://www.eclipse.org/vex/)
+- Sep 15 - [Three Former U.S. Intelligence Operatives Admit Hacking for United Arab Emirates](https://www.npr.org/2021/09/14/1037132503/us-charges-former-intelligence-operatives-hacking-for-uae)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
