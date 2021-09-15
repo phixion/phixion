@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 15 - [A Tour of the Oil Language](https://www.oilshell.org/release/latest/doc/oil-language-tour.html)
 - Sep 15 - [Tesla FSD Beta 10 veers into pedestrians with illegal right turn](https://twitter.com/TaylorOgan/status/1438141148816609285)
 - Sep 15 - [Facebook under fire over secret teen research](https://www.bbc.co.uk/news/technology-58570353)
 - Sep 15 - [Substack (YC W18) Is Hiring Engineering Managers to Build the Future of Writing](https://substack.com/jobs?utm_source=hn&utm_content=engmanager)
 - Sep 15 - [Crypto Fund Manager/Scammer Sentenced to 7yrs](https://www.justice.gov/usao-sdny/pr/founder-90-million-cryptocurrency-hedge-fund-sentenced-more-seven-years-prison)
-- Sep 15 - [Australia, the US and UK to announce landmark new defence pact](https://www.smh.com.au/politics/federal/ministers-granted-border-exemptions-to-attend-urgent-meeting-in-canberra-20210915-p58rzn.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
