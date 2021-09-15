@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 15 - [Tell HN: Are you sure you understand 'indemnity'](https://news.ycombinator.com/item?id=28538879)
+- Sep 15 - [New York passes law that will ban all gas-powered car sales by 2035](https://www.engadget.com/new-york-law-ban-gas-powered-car-sales-2035-053554406.html)
+- Sep 15 - [State of the Software Supply Chain 2021](https://www.sonatype.com/resources/state-of-the-software-supply-chain-2021)
+- Sep 15 - [Outdated Answers: accepted answer is now unpinned on Stack Overflow](https://meta.stackoverflow.com/questions/411352/outdated-answers-accepted-answer-is-now-unpinned-on-stack-overflow)
 - Sep 15 - [Why Are So Many Young Men Giving Up on College?](https://www.theatlantic.com/ideas/archive/2021/09/young-men-college-decline-gender-gap-higher-education/620066/)
 - Sep 15 - [Show HN: Display a bell emoji on HN comments you haven't read yet](https://gist.github.com/linkdd/76fd57d02480c3e36a4e3f8ce39322b1)
-- Sep 15 - [Futarchy: Robin Hanson on How Prediction Markets Can Take over the World](https://richardhanania.substack.com/p/futarchy-robin-hanson-on-how-prediction)
-- Sep 15 - [QuestDB (time-series database) is hiring engineers and dev rel](https://questdb.io/careers/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
