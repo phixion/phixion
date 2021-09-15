@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 15 - [Millennials accuse Baby Boomers of ruining the economy](https://humans.media/millennials-accuse-baby-boomers-of-ruining-the-economy)
+- Sep 15 - [Tell HN: Are you sure you understand 'indemnity'](https://news.ycombinator.com/item?id=28538879)
+- Sep 15 - [Why Are So Many Young Men Giving Up on College?](https://www.theatlantic.com/ideas/archive/2021/09/young-men-college-decline-gender-gap-higher-education/620066/)
+- Sep 15 - [Show HN: Display a bell emoji on HN comments you haven't read yet](https://gist.github.com/linkdd/76fd57d02480c3e36a4e3f8ce39322b1)
 - Sep 15 - [Futarchy: Robin Hanson on How Prediction Markets Can Take over the World](https://richardhanania.substack.com/p/futarchy-robin-hanson-on-how-prediction)
-- Sep 15 - [QuestDB (time-series database) is hiring engineers and dev rel](https://questdb.io/careers/)
-- Sep 15 - [PostgreSQL 15: default permissions for everyone is now restricted to db owner](https://www.depesz.com/2021/09/10/waiting-for-postgresql-15-revoke-public-create-from-public-schema-now-owned-by-pg_database_owner/)
-- Sep 15 - [EU Funding for Developer Tools for the Decentralized Web](https://httptoolkit.tech/blog/developer-tools-decentralized-web/)
-- Sep 15 - [California May Be the First State to Legislate Amazon Warehouse Conditions](https://themarkup.org/news/2021/09/13/california-may-be-the-first-state-to-legislate-amazon-warehouse-conditions)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
