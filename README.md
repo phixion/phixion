@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 15 - [Apple CPU Gains Grind to a Halt and the Future Looks Dim](https://semianalysis.com/apple-cpu-gains-grind-to-a-halt-and-the-future-looks-dim-as-the-cpu-engineer-exodus-to-nuvia-and-rivos-impact-starts-to-bleed-in/)
 - Sep 15 - [Prefer the British Style of Quotation Mark Punctuation over the American](https://www.erichgrunewald.com/posts/the-american-style-of-quotation-mark-punctuation-makes-no-sense/)
 - Sep 15 - [Microsoft Azure silently install management agents with vulns on your Linux VMs](https://twitter.com/gossithedog/status/1437896101756030982)
 - Sep 15 - [Dynamic Queries in Ecto (Elixir Lang)](https://bartoszgorka.com/dynamic-queries-in-ecto)
 - Sep 15 - [Modern snakes evolved from few survivors of dino-killing asteroid](https://www.miragenews.com/modern-snakes-evolved-from-few-survivors-of-631873/)
-- Sep 15 - [Username ending with MIME type format is not allowed](https://gitlab.com/gitlab-org/gitlab/-/issues/335278)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
