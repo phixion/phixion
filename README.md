@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 15 - [Dan Price Says Raising Min Wage to $70K Led to Baby Boom, Revenue Rise](https://www.businessinsider.com/gravity-payments-dan-price-ceo-raise-minimum-wage-revenue-2021-8)
 - Sep 15 - [Nikon's 2021 Photomicrography Competition Winners](https://www.nikonsmallworld.com/galleries/2021-photomicrography-competition)
 - Sep 15 - [Find engineering roles at over 800 YC-funded startups](https://ycombinator.com/jobs)
 - Sep 15 - [The First Webcam Was Invented to Keep an Eye on a Coffee Pot](https://www.openculture.com/2021/09/the-very-first-webcam-was-invented-to-keep-an-eye-on-a-coffee-pot-at-cambridge-university.html)
 - Sep 15 - [Show HN: NFC Passport/ID for remote user registration](https://passportreader.app)
-- Sep 15 - [HTTP Status 418 – I'm a teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
