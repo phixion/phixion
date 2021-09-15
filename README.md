@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 15 - [HTTP Status 418 – I'm a teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
+- Sep 15 - [Automatic cipher suite ordering in Go’s crypto/tls](https://go.dev/blog/tls-cipher-suites)
 - Sep 15 - [Deaths involving Covid-19 by vaccination status, England](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/deathsinvolvingcovid19byvaccinationstatusengland/deathsoccurringbetween2januaryand2july2021)
 - Sep 15 - [H3: Hexagonal hierarchical geospatial indexing system](https://h3geo.org/)
 - Sep 15 - [How much faster is Java 17?](https://www.optaplanner.org/blog/2021/09/15/HowMuchFasterIsJava17.html)
-- Sep 15 - [A dive into the world of MS-DOS viruses (2019)](https://blog.benjojo.co.uk/post/dive-into-the-world-of-dos-viruses)
-- Sep 15 - [COBOL- still standing the test of time](https://blog.microfocus.com/cobol-still-standing-the-test-of-time/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
