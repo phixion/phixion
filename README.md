@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 15 - [A Tour of the Oil Language](https://www.oilshell.org/release/latest/doc/oil-language-tour.html)
-- Sep 15 - [Tesla FSD Beta 10 veers into pedestrians with illegal right turn](https://twitter.com/TaylorOgan/status/1438141148816609285)
+- Sep 15 - [Will Xi Move on Taiwan?](https://asia.nikkei.com/Spotlight/20-years-after-9-11/Will-Xi-move-on-Taiwan-History-warns-he-might-Niall-Ferguson)
 - Sep 15 - [Facebook under fire over secret teen research](https://www.bbc.co.uk/news/technology-58570353)
+- Sep 15 - [“But I can just look at a JPEG online.”](https://pizzaparty.substack.com/p/but-i-can-just-look-at-a-jpeg-online)
 - Sep 15 - [Substack (YC W18) Is Hiring Engineering Managers to Build the Future of Writing](https://substack.com/jobs?utm_source=hn&utm_content=engmanager)
-- Sep 15 - [Crypto Fund Manager/Scammer Sentenced to 7yrs](https://www.justice.gov/usao-sdny/pr/founder-90-million-cryptocurrency-hedge-fund-sentenced-more-seven-years-prison)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
