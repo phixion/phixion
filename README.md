@@ -35,10 +35,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 15 - [OpenSea product chief accused of flipping NFTs with insider information](https://www.theverge.com/2021/9/15/22676075/opensea-insider-information-nft-trading-nate-chastain)
 - Sep 15 - [Why Authorization Is Hard](https://www.osohq.com/post/why-authorization-is-hard)
 - Sep 15 - [North Korean missiles land in Japan EEZ as nuclear threat grows](https://www.japantimes.co.jp/news/2021/09/15/asia-pacific/north-korea-fires-apparent-ballistic-missile-days-testing-new-weapon/)
 - Sep 15 - [I ruin developers’ lives with my code reviews and I'm sorry](https://habr.com/en/post/440736/)
-- Sep 15 - [Fauci-Email](https://github.com/nveldt/fauci-email)
 - Sep 15 - [Show HN: Paper to HTML Converter](https://papertohtml.org)
 <!--END_SECTION:hn-->
 
