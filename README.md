@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 15 - [Faroe Islands: Anger over killing of 1,400 dolphins in one day](https://www.bbc.com/news/world-europe-58555694)
+- Sep 15 - [How much faster is Java 17?](https://www.optaplanner.org/blog/2021/09/15/HowMuchFasterIsJava17.html)
 - Sep 15 - [A dive into the world of MS-DOS viruses (2019)](https://blog.benjojo.co.uk/post/dive-into-the-world-of-dos-viruses)
 - Sep 15 - [Show HN: Time Travel Debugger](https://www.replay.io/)
 - Sep 15 - [Facebook tried to make its platform a healthier place, but it got angrier](https://www.wsj.com/articles/facebook-algorithm-change-zuckerberg-11631654215)
