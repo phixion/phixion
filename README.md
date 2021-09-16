@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 16 - ['Dieselgate' trial opens in Germany without ex-VW boss](https://www.rfi.fr/en/business-and-tech/20210916-dieselgate-trial-opens-in-germany-without-ex-vw-boss)
 - Sep 16 - [Provenance: iOS and tvOS multi-emulator front end](https://github.com/Provenance-Emu/Provenance)
 - Sep 16 - [Using the FreeBSD Rack TCP Stack](https://klarasystems.com/articles/using-the-freebsd-rack-tcp-stack/)
 - Sep 16 - [Amazon reaches agreement with trade unions in Italy](https://www.reuters.com/business/amazon-reaches-agreement-with-trade-unions-italy-2021-09-15/)
 - Sep 16 - [Ledger of Harms](https://ledger.humanetech.com/)
-- Sep 16 - [Opvia (YC S20) Is Hiring in London](https://www.notion.so/opvia/Opvia-Jobs-151305ed30a140f29ec9eb7df00deadc)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
