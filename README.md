@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 16 - [Lumber crash leads to 'blowout' sales as prices crater](https://www.cbc.ca/news/business/lumber-prices-1.6177016)
 - Sep 16 - [Lawmakers Ask Zuck to Drop 'Instagram for Kids' Since App Made Kids Suicidal](https://gizmodo.com/lawmakers-ask-zuckerberg-to-drop-instagram-for-kids-aft-1847683217)
 - Sep 16 - [Every engineer should do a stint in consulting](https://cloudirregular.substack.com/p/every-engineer-should-do-a-stint)
 - Sep 16 - [Backpage founders get mistrial because US overplayed child sex trafficking claim](https://arstechnica.com/tech-policy/2021/09/backpage-founders-get-mistrial-because-us-overplayed-child-sex-trafficking-claims/)
 - Sep 16 - [Donate to the Internet Achieve](https://archive.org/donate)
-- Sep 16 - [DeepSource (YC W20) Is Looking for a Talent Acquisition Lead (Bangalore)](https://careers.deepsource.io/o/lead-talent-acquisition)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
