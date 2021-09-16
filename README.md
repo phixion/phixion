@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 16 - [Algofi (YC S21) Is Hiring](https://www.workatastartup.com/jobs/46396)
+- Sep 16 - [Instagram Ruined Photography for Me](https://alvar.dev/blog/instagram-ruined-photography)
 - Sep 16 - [Show HN: Dieter Rams' design principles applied to software engineering](https://github.com/zedr/dieter-rams-10-applied-to-software)
 - Sep 16 - [Countries that have accepted the World Passport](https://worldservice.org/visas.html)
-- Sep 16 - [Please stop closing forums and moving people to Discord](https://kotaku.com/please-stop-closing-forums-and-moving-people-to-discord-1847684851)
-- Sep 16 - ['Dieselgate' trial opens in Germany without ex-VW boss](https://www.rfi.fr/en/business-and-tech/20210916-dieselgate-trial-opens-in-germany-without-ex-vw-boss)
-- Sep 16 - [Provenance: iOS and tvOS multi-emulator front end](https://github.com/Provenance-Emu/Provenance)
+- Sep 16 - [ssceng: Golang Front End Components](https://ssceng.codes)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
