@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 16 - [AP Computer Science Tips](https://www.albert.io/blog/ap-computer-science-tips/)
 - Sep 16 - [Use of eBPF in CPU Scheduler](https://linuxplumbersconf.org/event/11/contributions/954/)
 - Sep 16 - [iOS on QEMU](https://github.com/alephsecurity/xnu-qemu-arm64)
 - Sep 16 - [Show HN: Qsh – improved database querying from your terminal](https://github.com/muhmud/qsh)
 - Sep 16 - [A search engine that favors text-heavy sites and punishes modern web design](https://search.marginalia.nu/)
-- Sep 16 - [ChowJS: An AOT JavaScript engine for game consoles](https://mp2.dk/techblog/chowjs)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
