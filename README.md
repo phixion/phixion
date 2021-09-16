@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 16 - [iOS on QEMU](https://github.com/alephsecurity/xnu-qemu-arm64)
+- Sep 16 - [Women Are Nearly Half of New Gun Buyers, Study Finds](https://www.wsj.com/articles/women-are-nearly-half-of-new-gun-buyers-study-finds-11631792761)
 - Sep 16 - [Show HN: Qsh – improved database querying from your terminal](https://github.com/muhmud/qsh)
 - Sep 16 - [A search engine that favors text-heavy sites and punishes modern web design](https://search.marginalia.nu/)
 - Sep 16 - [ChowJS: An AOT JavaScript engine for game consoles](https://mp2.dk/techblog/chowjs)
-- Sep 16 - [Algofi (YC S21) Is Hiring](https://www.workatastartup.com/jobs/46396)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
