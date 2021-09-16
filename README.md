@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 16 - [Free markets are creating a major free speech problem](https://www.slowboring.com/p/china-speech)
+- Sep 16 - [The Ultimate Commodore 1541 Disk Drive Talk [video]](https://www.pagetable.com/?p=1595)
+- Sep 16 - [Facebook to target harmful coordination by real accounts](https://www.reuters.com/technology/exclusive-facebook-target-harmful-coordination-by-real-accounts-using-playbook-2021-09-16/)
+- Sep 16 - [NIH-funded research to address rising male infertility](https://news.cornell.edu/stories/2021/09/nih-funded-research-address-rising-male-infertility)
 - Sep 16 - [Biologists Rethink the Logic Behind Cells’ Molecular Signals](https://www.quantamagazine.org/biologists-rethink-the-logic-behind-cells-molecular-signals-20210916/)
-- Sep 16 - [US-based Kape Technologies buys ExpressVPN for 936 million dollars](https://alternativeto.net/news/2021/9/kape-technologies-buys-expressvpn-for-936-million/)
-- Sep 16 - [Glass – Photography Community. No ads, no algorithms](https://glass.photo/)
-- Sep 16 - [Show HN: Embeddinghub: A vector database built for Machine Learning embeddings](https://github.com/featureform/embeddinghub)
+- Sep 16 - [Kape Technologies buys ExpressVPN for $936M](https://alternativeto.net/news/2021/9/kape-technologies-buys-expressvpn-for-936-million/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
