@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 16 - [The Justice Department Moves to Block the Purdue Pharma Sackler Bankruptcy Deal](https://www.npr.org/2021/09/16/1037806819/opioids-purdue-pharma-sackler-settlement-bankruptcy-deal)
 - Sep 16 - [The Perils of an .xyz Domain](https://www.spotvirtual.com/blog/the-perils-of-an-xyz-domain/)
 - Sep 16 - [Ambition (YC W14) Is Hiring Head of Revenue Enablement](https://ambition.com/career/opportunity/head-revenue-enablement/)
+- Sep 16 - [Toward Modern Fortran Tooling and a Thriving Developer Community](https://arxiv.org/abs/2109.07382)
 - Sep 16 - [Cloud Infrastructure as SQL](https://www.iasql.com)
-- Sep 16 - [The new warrant: how US police mine Google for your location and search history](https://www.theguardian.com/us-news/2021/sep/16/geofence-warrants-reverse-search-warrants-police-google)
-- Sep 16 - [Developer, You May Need a Co-Founder in Marketing](https://microfounder.com/blog/cofounder-in-marketing)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
