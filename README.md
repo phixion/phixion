@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 16 - [Do adults need tetanus booster shots?](https://www.health.harvard.edu/blog/do-adults-really-need-tetanus-booster-shots-2020051219786)
 - Sep 16 - [AP Computer Science Tips](https://www.albert.io/blog/ap-computer-science-tips/)
+- Sep 16 - [Show HN: Embeddinghub: A vector database built for Machine Learning embeddings](https://github.com/featureform/embeddinghub)
+- Sep 16 - [The ownership and future of Mullvad VPN](https://mullvad.net/en/blog/2021/9/16/ownership-and-future-mullvad-vpn/)
 - Sep 16 - [Use of eBPF in CPU Scheduler](https://linuxplumbersconf.org/event/11/contributions/954/)
-- Sep 16 - [iOS on QEMU](https://github.com/alephsecurity/xnu-qemu-arm64)
-- Sep 16 - [Show HN: Qsh – Improved database querying from your terminal](https://github.com/muhmud/qsh)
-- Sep 16 - [A search engine that favors text-heavy sites and punishes modern web design](https://search.marginalia.nu/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
