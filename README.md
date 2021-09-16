@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 16 - [Amazon reaches agreement with trade unions in Italy](https://www.reuters.com/business/amazon-reaches-agreement-with-trade-unions-italy-2021-09-15/)
 - Sep 16 - [Ledger of Harms](https://ledger.humanetech.com/)
+- Sep 16 - [Peter Thiel Gamed Silicon Valley,Trump, and Democracy to Make Billions, Tax-Free](https://www.bloomberg.com/news/features/2021-09-15/peter-thiel-gamed-silicon-valley-tech-trump-taxes-and-politics)
 - Sep 16 - [Opvia (YC S20) Is Hiring in London](https://www.notion.so/opvia/Opvia-Jobs-151305ed30a140f29ec9eb7df00deadc)
 - Sep 16 - [Ship code when it is ready and valuable (2020)](https://iism.org/article/is-management-pressuring-you-to-deliver-unfinished-code-59)
-- Sep 16 - [New Eco-Friendly and Sustainable Algae-Based Way to Fight Water Pollution](https://shooliniuniversity.com/blog/green-and-clean-new-eco-friendly-and-sustainable-algae-based-way-to-fight-water-pollution/)
-- Sep 16 - [Adopting the OpenAPI schema to generate Plaid’s SDKs](https://plaid.com/blog/adopting-the-openapi-schema-to-generate-plaids-sdks/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
