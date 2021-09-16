@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 15 - [Drum Juggling](https://thekidshouldseethis.com/post/drum-juggling-with-kateryna-nikiforova)
-- Sep 15 - [GM tells Bolt owners to park 50 feet away from other cars](https://www.autonews.com/manufacturing/gm-tells-some-bolt-owners-park-50-feet-away-other-cars)
-- Sep 15 - [A Tour of the Oil Language](https://www.oilshell.org/release/latest/doc/oil-language-tour.html)
-- Sep 15 - [Will Xi Move on Taiwan?](https://asia.nikkei.com/Spotlight/20-years-after-9-11/Will-Xi-move-on-Taiwan-History-warns-he-might-Niall-Ferguson)
-- Sep 15 - [Home Assistant – open-source home automation](https://www.home-assistant.io/)
+- Sep 16 - [Backpage founders get mistrial because US overplayed child sex trafficking claim](https://arstechnica.com/tech-policy/2021/09/backpage-founders-get-mistrial-because-us-overplayed-child-sex-trafficking-claims/)
+- Sep 16 - [DeepSource (YC W20) Is Looking for a Talent Acquisition Lead (Bangalore)](https://careers.deepsource.io/o/lead-talent-acquisition)
+- Sep 16 - [SpaceX Live Updates: The Inspiration4 Crew Embarks on a 3-Day Mission to Orbit](https://www.nytimes.com/live/2021/09/15/science/spacex-launch-inspiration4)
+- Sep 16 - [Sheriff's Office Told Officer to Play Copyrighted Music to Shut Down Recordings](https://www.techdirt.com/articles/20210911/21360647545/officer-claims-sheriffs-office-told-him-to-play-copyrighted-music-to-shut-down-citizens-recordings.shtml)
+- Sep 16 - [Weaponizing Middleboxes for TCP Reflected Amplification](https://geneva.cs.umd.edu/posts/usenix21-weaponizing-censors/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
