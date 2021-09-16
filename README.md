@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 16 - [The Justice Department Moves to Block the Purdue Pharma Sackler Bankruptcy Deal](https://www.npr.org/2021/09/16/1037806819/opioids-purdue-pharma-sackler-settlement-bankruptcy-deal)
+- Sep 16 - [Home computing pioneer Sir Clive Sinclair dies aged 81](https://www.theguardian.com/technology/2021/sep/16/home-computing-pioneer-sir-clive-sinclair-dies-aged-81)
 - Sep 16 - [The Perils of an .xyz Domain](https://www.spotvirtual.com/blog/the-perils-of-an-xyz-domain/)
 - Sep 16 - [Ambition (YC W14) Is Hiring Head of Revenue Enablement](https://ambition.com/career/opportunity/head-revenue-enablement/)
 - Sep 16 - [Toward Modern Fortran Tooling and a Thriving Developer Community](https://arxiv.org/abs/2109.07382)
-- Sep 16 - [Cloud Infrastructure as SQL](https://www.iasql.com)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
