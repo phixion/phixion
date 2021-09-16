@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 16 - [Smarking (YC W15) Is Hiring a Head of Eng to digitize $655B parking industry](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
 - Sep 16 - [Tracking space debris is a growing business](https://www.economist.com/science-and-technology/tracking-space-debris-is-a-growing-business/21804756)
 - Sep 16 - [U.S. court upholds dismissal of lawsuit against NSA on 'state secrets' grounds](https://www.reuters.com/world/us/us-court-upholds-dismissal-suit-against-nsa-state-secrets-grounds-2021-09-16/)
 - Sep 16 - [Atlassian fired me while I was taking care of my wife who is fighting cancer](https://shitlassian.com/)
 - Sep 16 - [Windows 11: Just say no](https://www.computerworld.com/article/3633630/windows-11-just-say-no.html)
-- Sep 16 - [Video streaming battery life improved from 12h (12 Pro Max) to 25h (13 Pro Max)](https://www.apple.com/iphone/compare/?modelList=iphone13promax,iphone13pro,iphone12promax)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
