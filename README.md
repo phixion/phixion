@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 16 - [Free markets are creating a major free speech problem](https://www.slowboring.com/p/china-speech)
+- Sep 16 - [Biologists Rethink the Logic Behind Cells’ Molecular Signals](https://www.quantamagazine.org/biologists-rethink-the-logic-behind-cells-molecular-signals-20210916/)
 - Sep 16 - [US-based Kape Technologies buys ExpressVPN for 936 million dollars](https://alternativeto.net/news/2021/9/kape-technologies-buys-expressvpn-for-936-million/)
 - Sep 16 - [Glass – Photography Community. No ads, no algorithms](https://glass.photo/)
 - Sep 16 - [Show HN: Embeddinghub: A vector database built for Machine Learning embeddings](https://github.com/featureform/embeddinghub)
-- Sep 16 - [The ownership and future of Mullvad VPN](https://mullvad.net/en/blog/2021/9/16/ownership-and-future-mullvad-vpn/)
-- Sep 16 - [Use of eBPF in CPU Scheduler](https://linuxplumbersconf.org/event/11/contributions/954/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
