@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 16 - [The new warrant: how US police mine Google for your location and search history](https://www.theguardian.com/us-news/2021/sep/16/geofence-warrants-reverse-search-warrants-police-google)
+- Sep 16 - [Developer, You May Need a Co-Founder in Marketing](https://microfounder.com/blog/cofounder-in-marketing)
 - Sep 16 - [The Ultimate Commodore 1541 Disk Drive Talk [video]](https://www.pagetable.com/?p=1595)
 - Sep 16 - [Facebook to target harmful coordination by real accounts](https://www.reuters.com/technology/exclusive-facebook-target-harmful-coordination-by-real-accounts-using-playbook-2021-09-16/)
 - Sep 16 - [NIH-funded research to address rising male infertility](https://news.cornell.edu/stories/2021/09/nih-funded-research-address-rising-male-infertility)
-- Sep 16 - [Biologists Rethink the Logic Behind Cells’ Molecular Signals](https://www.quantamagazine.org/biologists-rethink-the-logic-behind-cells-molecular-signals-20210916/)
-- Sep 16 - [Kape Technologies buys ExpressVPN for $936M](https://alternativeto.net/news/2021/9/kape-technologies-buys-expressvpn-for-936-million/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
