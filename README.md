@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 16 - [Black Radicalism’s Complex Relationship with Japanese Empire (2018)](https://daily.jstor.org/black-radicalisms-complex-relationship-with-japanese-empire/)
+- Sep 16 - [Losing Covid-19 immunity after six months after Pfizer vaccine](https://thedaily.case.edu/new-study-nursing-home-residents-health-care-workers-lose-more-than-80-of-their-covid-19-immunity-six-months-after-pfizer-vaccine/)
 - Sep 16 - [Is America Inc getting less dynamic, less global and more monopolistic?](https://www.economist.com/business/is-america-inc-getting-less-dynamic-less-global-and-more-monopolistic/21804757)
 - Sep 16 - [Lumber crash leads to 'blowout' sales as prices crater](https://www.cbc.ca/news/business/lumber-prices-1.6177016)
-- Sep 16 - [Lawmakers Ask Zuck to Drop 'Instagram for Kids' Since App Made Kids Suicidal](https://gizmodo.com/lawmakers-ask-zuckerberg-to-drop-instagram-for-kids-aft-1847683217)
-- Sep 16 - [Every engineer should do a stint in consulting](https://cloudirregular.substack.com/p/every-engineer-should-do-a-stint)
+- Sep 16 - [Useful Spy Books](https://berthub.eu/articles/posts/useful-spy-books/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
