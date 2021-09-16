@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 16 - [Simone Biles condemns U.S. Olympic Committee, FBI for sex-abuse crisis](https://www.reuters.com/lifestyle/sports/gymnasts-simone-biles-aly-raisman-testify-us-senate-sex-abuse-probe-2021-09-15/)
+- Sep 16 - [Show HN: Qsh – improved database querying from your terminal](https://github.com/muhmud/qsh)
 - Sep 16 - [A search engine that favors text-heavy sites and punishes modern web design](https://search.marginalia.nu/)
 - Sep 16 - [ChowJS: An AOT JavaScript engine for game consoles](https://mp2.dk/techblog/chowjs)
 - Sep 16 - [Algofi (YC S21) Is Hiring](https://www.workatastartup.com/jobs/46396)
-- Sep 16 - [Genius Sells Assets for 80M](https://www.bloombergquint.com/markets/former-startup-darling-genius-sells-assets-for-80-million)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
