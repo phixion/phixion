@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 17 - [SafeButler (YC S17) Is Hiring Software Engineer (Remote)](https://www.safebutler.com/careers)
 - Sep 17 - [Tailscale free for open source projects](https://tailscale.com/blog/community-github-pricing/)
 - Sep 17 - [OECD Releases “Education at a Glance 2021”](https://www.oecd-ilibrary.org/education/education-at-a-glance-2021_b35a14e5-en)
 - Sep 17 - [FDA panel rejects plan to administer Pfizer’s booster doses to general public](https://www.cnbc.com/2021/09/17/fda-panel-begins-voting-on-pfizers-covid-booster-doses-rejecting-shots-for-general-public.html)
 - Sep 17 - [Bricks and the Industrial Revolution](https://constructionphysics.substack.com/p/bricks-and-the-industrial-revolution)
-- Sep 17 - [Foreman 3.0](https://theforeman.org/2021/09/foreman-30-is-here.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
