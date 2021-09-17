@@ -35,8 +35,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 17 - [Google, Apple remove Navalny app from stores as Russian elections begin](https://www.reuters.com/world/europe/google-apple-remove-navalny-app-stores-russian-elections-begin-2021-09-17/)
 - Sep 17 - [Show HN: Flowbite – Tailwind CSS Components Library [MIT License]](https://flowbite.com/docs/getting-started/introduction/)
-- Sep 17 - [An old programmer loses his job](https://medium.com/writers-blokke/an-old-programmer-loses-his-job-caa4670f34dc)
 - Sep 17 - [Treasury Dept. Seeks to Track Transactions of Personal Bank Accounts over $600](https://fee.org/articles/treasury-department-seeks-to-track-financial-transactions-of-personal-bank-accounts-over-600/)
 - Sep 17 - [Mailchimp founders promised to never sell, withheld equity, then sold for $12B](https://www.businessinsider.com/mailchimp-insiders-react-to-employees-getting-no-equity-2021-9)
 - Sep 17 - [Walkman Archive](http://walkman-archive.com/gadgets/index.html)
