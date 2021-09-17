@@ -37,7 +37,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Sep 17 - [Experimenting with a new OpenBSD development lab](https://dataswamp.org/~solene/2021-09-16-experiments-openbsd-building.html)
 - Sep 17 - [A Single Fire Killed at Least 10% of the World's Giant Sequoias, Study Says](https://text.npr.org/1002894521)
-- Sep 17 - [18/19 September 2021 – Online EuroBSDCon Schedule](https://2021.eurobsdcon.org/about/program/)
+- Sep 17 - [EuroBSDCon 2021](https://2021.eurobsdcon.org/about/program/)
 - Sep 17 - [Playable Quotes for Game Boy](https://tenmile.quote.games/)
 - Sep 17 - [Google, Apple remove Navalny app from stores as Russian elections begin](https://www.reuters.com/world/europe/google-apple-remove-navalny-app-stores-russian-elections-begin-2021-09-17/)
 <!--END_SECTION:hn-->
