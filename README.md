@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 17 - [Subscribe to RSS Feeds over Email](https://rssby.email/)
+- Sep 17 - [France Recalls Its Ambassadors to the U.S. and Australia over a Submarine Deal](https://www.npr.org/2021/09/17/1038395237/france-recalls-ambassadors-us-australia-nuclear-submarine-deal)
 - Sep 17 - [SafeButler (YC S17) Is Hiring Software Engineer (Remote)](https://www.safebutler.com/careers)
 - Sep 17 - [Tailscale free for open source projects](https://tailscale.com/blog/community-github-pricing/)
 - Sep 17 - [OECD Releases “Education at a Glance 2021”](https://www.oecd-ilibrary.org/education/education-at-a-glance-2021_b35a14e5-en)
-- Sep 17 - [Bricks and the Industrial Revolution](https://constructionphysics.substack.com/p/bricks-and-the-industrial-revolution)
-- Sep 17 - [Gitlab S-1](https://www.sec.gov/Archives/edgar/data/1653482/000162828021018818/gitlab-sx1.htm)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
