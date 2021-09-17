@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 17 - [Newsom Signs SB 9 and SB 10, ending single family zoning in California](https://www.gov.ca.gov/2021/09/16/governor-newsom-signs-historic-legislation-to-boost-californias-housing-supply-and-fight-the-housing-crisis/)
+- Sep 17 - [AMD ready to flex its ARMs – AMDNow](https://amd-now.com/amd-ready-to-flex-its-arms/)
 - Sep 17 - [Reversing Sinclair's 1974 calculator hack (2013)](http://files.righto.com/calculator/sinclair_scientific_simulator.html)
-- Sep 16 - [Facebook bans German anti-lockdown accounts under new ‘social harm’ policy](https://www.marketwatch.com/story/facebook-bans-german-anti-lockdown-accounts-under-new-social-harm-policy-01631832325)
 - Sep 16 - [How to build a search engine with Ruby on Rails](https://blog.testdouble.com/posts/2021-09-09-how-to-build-a-search-engine-with-ruby-on-rails/)
 - Sep 16 - [Ask HN: Advice on bringing community broadband to Los Alamos?](https://news.ycombinator.com/item?id=28558854)
+- Sep 16 - [Smarking (YC W15) Is Hiring a Head of Eng to digitize $655B parking industry](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
