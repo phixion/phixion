@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 17 - [Lowkey (YC S18) Is Hiring a Senior Full-Stack Engineer](https://www.notion.so/lowkeygg/Lowkey-Job-Board-39a26c1b4a00493fadc26249185df748)
+- Sep 17 - [Linux Executables Deployed as Stealth Windows (WSL) Loaders](https://blog.lumen.com/no-longer-just-theory-black-lotus-labs-uncovers-linux-executables-deployed-as-stealth-windows-loaders/)
+- Sep 17 - [go-app: A package to mint PWAs with Golang and WASM](https://github.com/maxence-charriere/go-app)
+- Sep 17 - [A Go Package for Building Progressive Web Apps](https://go-app.dev/)
 - Sep 17 - [Life-Size Camel Sculptures in Saudi Arabia Are Older Than Stonehenge, Pyramids](https://www.smithsonianmag.com/smart-news/life-size-camel-sculptures-in-saudi-arabia-are-older-than-stonehenge-pyramids-of-giza-180978693/)
-- Sep 17 - [Cloudflare Images Now Available to Everyone](https://blog.cloudflare.com/announcing-cloudflare-images/)
-- Sep 17 - [Hobbling computer vision datasets against unauthorized use](https://www.unite.ai/hobbling-computer-vision-datasets-against-unauthorized-use/)
-- Sep 17 - [Shenandoah in OpenJDK 17: Sub-millisecond GC pauses](https://developers.redhat.com/articles/2021/09/16/shenandoah-openjdk-17-sub-millisecond-gc-pauses)
-- Sep 17 - [Experimenting with a new OpenBSD development lab](https://dataswamp.org/~solene/2021-09-16-experiments-openbsd-building.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
