@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 17 - [Tailscale free for open source projects](https://tailscale.com/blog/community-github-pricing/)
 - Sep 17 - [OECD Releases “Education at a Glance 2021”](https://www.oecd-ilibrary.org/education/education-at-a-glance-2021_b35a14e5-en)
 - Sep 17 - [Bricks and the Industrial Revolution](https://constructionphysics.substack.com/p/bricks-and-the-industrial-revolution)
-- Sep 17 - [How ‘Trainable’ Is VO2 Max Really? – A Case Study (2019)](https://simplifaster.com/articles/how-trainable-is-vo2-max/)
+- Sep 17 - [Gitlab S-1](https://www.sec.gov/Archives/edgar/data/1653482/000162828021018818/gitlab-sx1.htm)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
