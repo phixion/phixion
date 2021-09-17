@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 17 - [Life-Size Camel Sculptures in Saudi Arabia Are Older Than Stonehenge, Pyramids](https://www.smithsonianmag.com/smart-news/life-size-camel-sculptures-in-saudi-arabia-are-older-than-stonehenge-pyramids-of-giza-180978693/)
 - Sep 17 - [Researchers bake malware protection directly into SSDs](https://www.tomshardware.com/news/researchers-bake-malware-protection-directly-into-ssds)
 - Sep 17 - [Cloudflare Images Now Available to Everyone](https://blog.cloudflare.com/announcing-cloudflare-images/)
+- Sep 17 - [Hobbling computer vision datasets against unauthorized use](https://www.unite.ai/hobbling-computer-vision-datasets-against-unauthorized-use/)
 - Sep 17 - [Shenandoah in OpenJDK 17: Sub-millisecond GC pauses](https://developers.redhat.com/articles/2021/09/16/shenandoah-openjdk-17-sub-millisecond-gc-pauses)
-- Sep 17 - [For the first time in history, St Andrews outranks Oxbridge](https://www.thetimes.co.uk/article/uk-university-rankings-revealed-the-times-league-table-dbxtwgm70)
-- Sep 17 - [Experimenting with a new OpenBSD development lab](https://dataswamp.org/~solene/2021-09-16-experiments-openbsd-building.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
