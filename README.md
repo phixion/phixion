@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Sep 17 - [Walkman Archive](http://walkman-archive.com/gadgets/index.html)
 - Sep 17 - [“The infringer is my alt account”](https://github.com/github/dmca/blob/master/2021/09/2021-09-02-zmessenger.md)
+- Sep 17 - [China prepares to test thorium-fuelled nuclear reactor](https://www.nature.com/articles/d41586-021-02459-w)
 - Sep 17 - [Moderna's Financials](https://littlebitofeverything.substack.com/p/moderna-financials)
 - Sep 17 - [Monotype acquires Hoefler&Co](https://www.typography.com/blog/monotype-acquires-hoeflerco)
-- Sep 17 - [Reversing Sinclair's 1974 calculator hack (2013)](http://files.righto.com/calculator/sinclair_scientific_simulator.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
