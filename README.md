@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 17 - [Video of Tesla FSD almost hitting pedestrian receives DMCA takedown](https://twitter.com/russ1mitchell/status/1438609715026530326)
+- Sep 17 - [United States Broadband speed ranks 12th according to SpeedTest Global Index](https://www.speedtest.net/global-index)
 - Sep 17 - [Surveillance capitalism will transform the domain name system](https://www.zdnet.com/article/how-surveillance-capitalism-will-totally-transform-the-domain-name-system/)
 - Sep 17 - [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law)
 - Sep 17 - [A $795M analogy: Locast, broadcast copyright, and the fall of big antenna](https://ravik.substack.com/p/a-795m-analogy)
-- Sep 17 - [My FOSS Story (2020)](https://blog.burntsushi.net/foss/)
-- Sep 17 - [Lowkey (YC S18) Is Hiring a Senior Full-Stack Engineer](https://www.notion.so/lowkeygg/Lowkey-Job-Board-39a26c1b4a00493fadc26249185df748)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
