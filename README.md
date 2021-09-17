@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 17 - [The Big Escape: How the Ultra-Wealthy Avoid Paying Taxes and How to Fix It [pdf]](https://www.warren.senate.gov/imo/media/doc/The%20Big%20Escape%20Report%20Sept%202021%20-%20Final.pdf)
 - Sep 17 - [Video of Tesla FSD almost hitting pedestrian receives DMCA takedown](https://twitter.com/russ1mitchell/status/1438609715026530326)
 - Sep 17 - [United States Broadband speed ranks 12th according to SpeedTest Global Index](https://www.speedtest.net/global-index)
+- Sep 17 - [Run code samples directly in the Google Cloud documentation](https://cloud.google.com/blog/topics/developers-practitioners/run-code-samples-directly-google-cloud-documentation)
 - Sep 17 - [Surveillance capitalism will transform the domain name system](https://www.zdnet.com/article/how-surveillance-capitalism-will-totally-transform-the-domain-name-system/)
-- Sep 17 - [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law)
-- Sep 17 - [A $795M analogy: Locast, broadcast copyright, and the fall of big antenna](https://ravik.substack.com/p/a-795m-analogy)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
