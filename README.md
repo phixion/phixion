@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 17 - [Ownership of Chemicals That Exploded at Beirut Port](https://www.occrp.org/en/investigations/ownership-of-chemicals-that-exploded-at-beirut-port-traces-back-to-ukraine)
 - Sep 17 - [Surveillance capitalism will transform the domain name system](https://www.zdnet.com/article/how-surveillance-capitalism-will-totally-transform-the-domain-name-system/)
-- Sep 17 - [Declassified FBI Report Reveals Saudi Ties to 9/11 Hijackers](https://www.businessinsider.com/declassified-fbi-report-reveals-saudi-ties-to-911-hijackers-2021-9)
 - Sep 17 - [My FOSS Story (2020)](https://blog.burntsushi.net/foss/)
 - Sep 17 - [Lowkey (YC S18) Is Hiring a Senior Full-Stack Engineer](https://www.notion.so/lowkeygg/Lowkey-Job-Board-39a26c1b4a00493fadc26249185df748)
+- Sep 17 - [Taking part in Y Combinator from Europe: is it worth it?](https://sifted.eu/articles/yc-combinator-alum-tips/)
+- Sep 17 - [NEWScan – Front pages of today’s newspapers in customizable carousel view](https://files.rayogram.com/news/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
