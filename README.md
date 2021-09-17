@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 17 - [Inspectify (YC S20) Is Hiring a Product Manager in Seattle](https://www.ycombinator.com/companies/inspectify/jobs/NDcfaSX-product-manager)
 - Sep 17 - [Seed – A Rust front-end framework for creating fast and reliable web apps](https://github.com/seed-rs/seed)
 - Sep 17 - [“The world is on a catastrophic pathway to 2.7C-degrees of heating”](https://www.france24.com/en/science/20210917-world-on-catastrophic-path-to-2-7c-warming-warns-un-chief)
-- Sep 17 - [Ginkgo Bioworks (YC S14) is going public today](https://blog.ycombinator.com/ginkgo-bioworks-s14-is-going-public-today/)
-- Sep 17 - [Building apps in minutes, not months](https://alexanderobenauer.com/labnotes/001/)
+- Sep 17 - [YouTube: On YouTube’s Recommendation System](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/)
+- Sep 17 - [Renting a car will be a pain until at least 2022](https://www.latimes.com/business/story/2021-09-13/car-rental-problems-persist-until-at-least-2022)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
