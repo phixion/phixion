@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 17 - [Show HN: Flowbite – Tailwind CSS Components Library [MIT License]](https://flowbite.com/docs/getting-started/introduction/)
-- Sep 17 - [Ask HN: How do I get fit and healthy as a software engineer?](https://news.ycombinator.com/item?id=28561238)
+- Sep 17 - [An old programmer loses his job](https://medium.com/writers-blokke/an-old-programmer-loses-his-job-caa4670f34dc)
+- Sep 17 - [Treasury Dept. Seeks to Track Transactions of Personal Bank Accounts over $600](https://fee.org/articles/treasury-department-seeks-to-track-financial-transactions-of-personal-bank-accounts-over-600/)
 - Sep 17 - [Mailchimp founders promised to never sell, withheld equity, then sold for $12B](https://www.businessinsider.com/mailchimp-insiders-react-to-employees-getting-no-equity-2021-9)
 - Sep 17 - [Walkman Archive](http://walkman-archive.com/gadgets/index.html)
-- Sep 17 - [China prepares to test thorium-fuelled nuclear reactor](https://www.nature.com/articles/d41586-021-02459-w)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
