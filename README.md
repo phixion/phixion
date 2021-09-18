@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 18 - [Why the American Shoe Disappeared and Why It's So Hard to Bring It Back (2019)](https://www.npr.org/2019/06/19/731268823/why-the-american-shoe-disappeared-and-why-its-so-hard-to-bring-it-back)
+- Sep 18 - [Tired of dating apps, Vancouver man launches social experiment to find companion](https://www.cbc.ca/news/canada/british-columbia/dating-social-experiment-dawn-hawkins-1.6180147)
 - Sep 18 - [Alpine Linux: Proposal to move Rust to main](https://gitlab.alpinelinux.org/alpine/tsc/-/issues/21)
 - Sep 18 - [Good Design vs. Great Design](https://www.andy.works/words/good-vs-great-design)
-- Sep 18 - [Visual Git Cheat Sheet](http://www.ndpsoftware.com/git-cheatsheet.html#loc=workspace;)
-- Sep 18 - [A live pictionary using WebSockets and p5.js](https://ahmadhamze.github.io/posts/pictionary/)
-- Sep 18 - [Write in JavaScript, Render in Flutter](https://openkraken.com/en-US)
+- Sep 18 - [Mossad assassinated Iran’s chief nuke scientist with remote AI gun – report](https://www.jpost.com/middle-east/mossad-assassinated-irans-chief-nuke-scientist-with-remote-ai-gun-report-679751)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
