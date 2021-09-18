@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 18 - [Alpine Linux: Proposal to move Rust to main](https://gitlab.alpinelinux.org/alpine/tsc/-/issues/21)
+- Sep 18 - [Visual Git Cheat Sheet](http://www.ndpsoftware.com/git-cheatsheet.html#loc=workspace;)
 - Sep 18 - [A live pictionary using WebSockets and p5.js](https://ahmadhamze.github.io/posts/pictionary/)
 - Sep 18 - [Write in JavaScript, Render in Flutter](https://openkraken.com/en-US)
-- Sep 18 - [Excision's CRISPR HIV therapy is heading into human testing after FDA clearance](https://www.fiercebiotech.com/biotech/excision-hiv-crispr-gene-editing-therapy-cleared-for-human-studies-by-fda)
-- Sep 18 - [Belgian ISP under 250 Gbps DDoS for days on end](https://issues.edpnet.be/)
-- Sep 18 - [You don't (may not) need Moment.js](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
+- Sep 18 - [Benchmarking compilation time with ccache/mfs on OpenBSD](https://dataswamp.org/~solene/2021-09-18-openbsd-ccache-mfs.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
