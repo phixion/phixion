@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 18 - [A live pictionary using WebSockets and p5.js](https://ahmadhamze.github.io/posts/pictionary/)
+- Sep 18 - [Write in JavaScript, Render in Flutter](https://openkraken.com/en-US)
+- Sep 18 - [Excision's CRISPR HIV therapy is heading into human testing after FDA clearance](https://www.fiercebiotech.com/biotech/excision-hiv-crispr-gene-editing-therapy-cleared-for-human-studies-by-fda)
 - Sep 18 - [Belgian ISP under 250 Gbps DDoS for days on end](https://issues.edpnet.be/)
-- Sep 18 - [Cinepaint: The long forgotten GIMP fork that once powered the cinema industry](https://cinepaint.bigasterisk.com/TheHistoryOfCinePaint/)
-- Sep 18 - [GNU/Linux Open Hardware PowerPC Notebook Project](https://www.powerpc-notebook.org)
-- Sep 18 - [AirGuard: Protect yourself from being tracked by AirTags and Find My accessories](https://github.com/seemoo-lab/AirGuard)
-- Sep 18 - [Building Less Flawed Metrics: Dodging Goodhart and Campbell's Laws](https://mpra.ub.uni-muenchen.de/98288/)
+- Sep 18 - [You don't (may not) need Moment.js](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
