@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 18 - [TrackerZapper Mac app silently removes tracking parameters from links you copy](https://github.com/rknightuk/TrackerZapper)
 - Sep 18 - [WAGI: WebAssembly Gateway Interface](https://github.com/deislabs/wagi)
 - Sep 18 - [Alexa leaks your private wishlists](https://shkspr.mobi/blog/2021/09/alexa-leaks-your-private-wishlists/)
 - Sep 18 - [Anatomy of a Cloud Infrastructure Attack via a Pull Request](https://goteleport.com/blog/hack-via-pull-request/)
 - Sep 18 - [Learning Mathematical Properties of Integers](https://arxiv.org/abs/2109.07230)
-- Sep 18 - [Shortcomings of Amazon Mechanical Turk May Threaten Natural Language Generation](https://www.unite.ai/the-shortcomings-of-amazon-mechanical-turk-may-threaten-natural-language-generation-systems/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
