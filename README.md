@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 18 - [Scientists created the whitest paint. It could eliminate aircons](https://news.yahoo.com/scientists-created-worlds-whitest-paint-163538024.html)
+- Sep 18 - [There won’t be a Goddamn creator economy if we don’t invest directly in creators](https://pizzaparty.substack.com/p/there-wont-be-a-goddamn-creator-economy)
 - Sep 18 - [DOS Subsystem for Linux](https://github.com/haileys/doslinux)
 - Sep 18 - [Tim Cook Faces Surprising Employee Unrest at Apple](https://www.nytimes.com/2021/09/17/technology/apple-employee-unrest.html)
 - Sep 18 - [1960s Mouse Utopias Led to Grim Predictions for Future of Humanity](https://www.smithsonianmag.com/smart-news/how-mouse-utopias-1960s-led-grim-predictions-humans-180954423/)
-- Sep 17 - [Headscale: Open-source implementation of the Tailscale control server](https://github.com/juanfont/headscale)
-- Sep 17 - [A Review of “Kill It with Fire: Manage Aging Computer Systems”](https://www.usenix.org/publications/loginonline/kill-it-fire)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
