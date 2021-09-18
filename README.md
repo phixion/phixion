@@ -36,9 +36,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 18 - [Report Details Abuse and Trauma of Immigrant Women in ICE Detention in Georgia](https://projectsouth.org/new-report-details-abuse-and-trauma-of-immigrant-women-in-ice-detention-in-georgia/)
+- Sep 18 - [Project 4K77](https://www.thestarwarstrilogy.com/project-4k77/)
 - Sep 18 - [6th Generation Stealth Fighter: Joint Effort by UK, Japan, Italy and Sweden?](https://www.19fortyfive.com/2021/09/6th-generation-stealth-fighter-joint-effort-by-uk-japan-italy-and-sweden/)
 - Sep 18 - [Greek Delivery Giant Efood Faces Major Backlash over Worker’s Rights](https://greekreporter.com/2021/09/17/greek-delivery-giant-efood-faces-major-backlash-over-workers-rights/)
-- Sep 18 - [The whitest paint could eliminate the need for air conditioning](https://news.yahoo.com/scientists-created-worlds-whitest-paint-163538024.html)
 - Sep 18 - [ChucK: Strongly-Timed, Concurrent, and On-the-Fly Music Programming Language](https://chuck.cs.princeton.edu/)
 <!--END_SECTION:hn-->
 
