@@ -37,8 +37,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Sep 18 - [Wasp-Lang (YC W21) Is Hiring Founding Engineer](https://news.ycombinator.com/item?id=28574293)
 - Sep 18 - [Miniaturization and Integration of 3D Printed Microfluidics](https://rdcu.be/cxWVY)
-- Sep 18 - [Report Details Abuse and Trauma of Immigrant Women in ICE Detention in Georgia](https://projectsouth.org/new-report-details-abuse-and-trauma-of-immigrant-women-in-ice-detention-in-georgia/)
 - Sep 18 - [What I Learnt Becoming a Tech Lead](https://tomgamon.com/posts/things-i-have-learned-new-tech-lead/)
+- Sep 18 - [No-bullshit tenets for faster decision-making](https://www.rubick.com/tenets-for-faster-decisionmaking)
 - Sep 18 - [Project 4K77](https://www.thestarwarstrilogy.com/project-4k77/)
 <!--END_SECTION:hn-->
 
