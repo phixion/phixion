@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 18 - [Twitter locked my account (again) for an obvious joke](http://lapcatsoftware.com/articles/twitter4.html)
+- Sep 18 - [Tim Cook Faces Surprising Employee Unrest at Apple](https://www.nytimes.com/2021/09/17/technology/apple-employee-unrest.html)
 - Sep 18 - [1960s Mouse Utopias Led to Grim Predictions for Future of Humanity](https://www.smithsonianmag.com/smart-news/how-mouse-utopias-1960s-led-grim-predictions-humans-180954423/)
 - Sep 17 - [Headscale: Open-source implementation of the Tailscale control server](https://github.com/juanfont/headscale)
 - Sep 17 - [A Review of “Kill It with Fire: Manage Aging Computer Systems”](https://www.usenix.org/publications/loginonline/kill-it-fire)
-- Sep 17 - [Subscribe to RSS Feeds over Email](https://rssby.email/)
-- Sep 17 - [SafeButler (YC S17) Is Hiring Software Engineer (Remote)](https://www.safebutler.com/careers)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
