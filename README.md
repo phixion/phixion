@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 18 - [Modifying the Linux Kernel – New Syscalls](https://codingkaiser.blog/2021/07/17/create-your-own-system-calls%e2%80%8a-%e2%80%8aprocess-weights/)
 - Sep 18 - [Renting 'is unaffordable to minimum wage workers in every state,' study finds](https://money.yahoo.com/renting-unaffordable-minimum-wage-workers-200709826.html)
+- Sep 18 - [Read, write, and edit PDF files with borb, a pure Python library](https://borbpdf.com/)
 - Sep 18 - [Wasp-Lang (YC W21) Is Hiring Founding Engineer](https://news.ycombinator.com/item?id=28574293)
 - Sep 18 - [Miniaturization and Integration of 3D Printed Microfluidics](https://rdcu.be/cxWVY)
-- Sep 18 - [What I Learnt Becoming a Tech Lead](https://tomgamon.com/posts/things-i-have-learned-new-tech-lead/)
-- Sep 18 - [No-bullshit tenets for faster decision-making](https://www.rubick.com/tenets-for-faster-decisionmaking)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
