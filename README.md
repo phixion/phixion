@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 18 - [Renting 'is unaffordable to minimum wage workers in every state,' study finds](https://money.yahoo.com/renting-unaffordable-minimum-wage-workers-200709826.html)
 - Sep 18 - [Wasp-Lang (YC W21) Is Hiring Founding Engineer](https://news.ycombinator.com/item?id=28574293)
 - Sep 18 - [Miniaturization and Integration of 3D Printed Microfluidics](https://rdcu.be/cxWVY)
 - Sep 18 - [What I Learnt Becoming a Tech Lead](https://tomgamon.com/posts/things-i-have-learned-new-tech-lead/)
 - Sep 18 - [No-bullshit tenets for faster decision-making](https://www.rubick.com/tenets-for-faster-decisionmaking)
-- Sep 18 - [Project 4K77](https://www.thestarwarstrilogy.com/project-4k77/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
