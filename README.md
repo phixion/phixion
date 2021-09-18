@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 18 - [Alpine Linux: Proposal to move Rust to main](https://gitlab.alpinelinux.org/alpine/tsc/-/issues/21)
+- Sep 18 - [Good Design vs. Great Design](https://www.andy.works/words/good-vs-great-design)
 - Sep 18 - [Visual Git Cheat Sheet](http://www.ndpsoftware.com/git-cheatsheet.html#loc=workspace;)
 - Sep 18 - [A live pictionary using WebSockets and p5.js](https://ahmadhamze.github.io/posts/pictionary/)
 - Sep 18 - [Write in JavaScript, Render in Flutter](https://openkraken.com/en-US)
-- Sep 18 - [Benchmarking compilation time with ccache/mfs on OpenBSD](https://dataswamp.org/~solene/2021-09-18-openbsd-ccache-mfs.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
