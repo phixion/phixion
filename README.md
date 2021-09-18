@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 18 - [Amazon says it’s permanently banned 600 Chinese brands for review fraud](https://fintechzoom.com/fintech_news_amazon-nasdaq-amzn/amazon-says-its-permanently-banned-600-chinese-brands-for-review-fraud/)
 - Sep 18 - [Color Map Advice for Scientific Visualization](https://www.kennethmoreland.com/color-advice/)
 - Sep 18 - [Can You See the Republic of Ireland from England? – Menu](https://www.anglezarke.net/can-you-see-the-republic-of-ireland-from-england/)
 - Sep 18 - [Modern Treasury (YC S18) is hiring senior software engineers](https://www.moderntreasury.com/careers?utm_source=yYPEbOqnBd)
 - Sep 18 - [Alpine Linux: Proposal to move Rust to main](https://gitlab.alpinelinux.org/alpine/tsc/-/issues/21)
-- Sep 18 - [Visual Git Cheat Sheet](http://www.ndpsoftware.com/git-cheatsheet.html#loc=workspace;)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
