@@ -35,10 +35,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 18 - [Replit (YC W18) is hiring Designers who Code to invent the future of programming](https://replit.com/careers)
 - Sep 18 - [How to Rapidly Improve at Any Programming Language](https://www.cbui.dev/how-to-rapidly-improve-at-any-programming-language/)
 - Sep 18 - [Raspberry Pi config for all things Internet](https://github.com/geerlingguy/internet-pi)
 - Sep 18 - [Show HN: Pytest-watcher – A working alternative to Pytest-watch](https://github.com/olzhasar/pytest-watcher)
-- Sep 18 - [Library Genesis](https://libgen.is/)
 - Sep 18 - [Sysz – An fzf terminal UI for systemctl](https://github.com/joehillen/sysz)
 <!--END_SECTION:hn-->
 
