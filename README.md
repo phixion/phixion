@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Sep 18 - [Acoup: The Trench Stalemate](https://acoup.blog/2021/09/17/collections-no-mans-land-part-i-the-trench-stalemate/)
 - Sep 18 - [Modifying the Linux Kernel – New Syscalls](https://codingkaiser.blog/2021/07/17/create-your-own-system-calls%e2%80%8a-%e2%80%8aprocess-weights/)
-- Sep 18 - [Renting 'is unaffordable to minimum wage workers in every state,' study finds](https://money.yahoo.com/renting-unaffordable-minimum-wage-workers-200709826.html)
 - Sep 18 - [Read, write, and edit PDF files with borb, a pure Python library](https://borbpdf.com/)
 - Sep 18 - [Wasp-Lang (YC W21) Is Hiring Founding Engineer](https://news.ycombinator.com/item?id=28574293)
+- Sep 18 - [Miniaturization and Integration of 3D Printed Microfluidics](https://rdcu.be/cxWVY)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
