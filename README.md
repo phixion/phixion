@@ -36,7 +36,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 18 - [6th Generation Stealth Fighter: Joint Effort by UK, Japan, Italy and Sweden?](https://www.19fortyfive.com/2021/09/6th-generation-stealth-fighter-joint-effort-by-uk-japan-italy-and-sweden/)
-- Sep 18 - [Scientists created the whitest paint. It could eliminate aircons](https://news.yahoo.com/scientists-created-worlds-whitest-paint-163538024.html)
+- Sep 18 - [The whitest paint could eliminate the need for air conditioning](https://news.yahoo.com/scientists-created-worlds-whitest-paint-163538024.html)
 - Sep 18 - [DOS Subsystem for Linux](https://github.com/haileys/doslinux)
 - Sep 18 - [1960s Mouse Utopias Led to Grim Predictions for Future of Humanity](https://www.smithsonianmag.com/smart-news/how-mouse-utopias-1960s-led-grim-predictions-humans-180954423/)
 - Sep 17 - [Headscale: Open-source implementation of the Tailscale control server](https://github.com/juanfont/headscale)
