@@ -35,10 +35,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 18 - [Old Irish goats return to County Dublin to protect hills from wildfires](https://www.theguardian.com/world/2021/sep/18/old-irish-goats-return-to-county-dublin-to-protect-hills-from-wildfires)
-- Sep 18 - [sysz: fzf-based TUI for systemctl](https://github.com/joehillen/sysz)
+- Sep 18 - [Show HN: pytest-watcher – a working alternative to pytest-watch](https://github.com/olzhasar/pytest-watcher)
+- Sep 18 - [Sysz – An fzf terminal UI for systemctl](https://github.com/joehillen/sysz)
 - Sep 18 - [Some Rich People Are Counting Their Antibodies ‘Like Calories’](https://www.nytimes.com/2021/09/18/style/some-rich-people-are-counting-their-antibodies-like-calories.html)
-- Sep 18 - [‘I can still feel it’: Groundbreaking surgery makes a ‘phantom’ hand seem real](https://www.statnews.com/2021/09/14/i-can-still-feel-it-new-arm-amputation-surgery-makes-a-phantom-hand-seem-real/)
+- Sep 18 - [Groundbreaking arm amputation surgery makes a ‘phantom’ hand seem real](https://www.statnews.com/2021/09/14/i-can-still-feel-it-new-arm-amputation-surgery-makes-a-phantom-hand-seem-real/)
 - Sep 18 - [The pitfalls of using SSH-agent, or how to use an agent safely](https://rabexc.org/posts/pitfalls-of-ssh-agents)
 <!--END_SECTION:hn-->
 
