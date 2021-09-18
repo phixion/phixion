@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 18 - [Color Map Advice for Scientific Visualization](https://www.kennethmoreland.com/color-advice/)
 - Sep 18 - [Can You See the Republic of Ireland from England? – Menu](https://www.anglezarke.net/can-you-see-the-republic-of-ireland-from-england/)
 - Sep 18 - [Modern Treasury (YC S18) is hiring senior software engineers](https://www.moderntreasury.com/careers?utm_source=yYPEbOqnBd)
-- Sep 18 - [Tired of dating apps, Vancouver man launches social experiment to find companion](https://www.cbc.ca/news/canada/british-columbia/dating-social-experiment-dawn-hawkins-1.6180147)
 - Sep 18 - [Alpine Linux: Proposal to move Rust to main](https://gitlab.alpinelinux.org/alpine/tsc/-/issues/21)
-- Sep 18 - [Good Design vs. Great Design](https://www.andy.works/words/good-vs-great-design)
+- Sep 18 - [Visual Git Cheat Sheet](http://www.ndpsoftware.com/git-cheatsheet.html#loc=workspace;)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
