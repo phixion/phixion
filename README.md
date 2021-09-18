@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 18 - [Leaks just exposed how toxic Facebook and Instagram are to teens, and everyone](https://www.theguardian.com/commentisfree/2021/sep/18/facebook-instagram-zuckerberg-teenagers)
+- Sep 18 - [How to Rapidly Improve at Any Programming Language](https://www.cbui.dev/how-to-rapidly-improve-at-any-programming-language/)
+- Sep 18 - [Raspberry Pi config for all things Internet](https://github.com/geerlingguy/internet-pi)
 - Sep 18 - [Show HN: Pytest-watcher – A working alternative to Pytest-watch](https://github.com/olzhasar/pytest-watcher)
+- Sep 18 - [Library Genesis](https://libgen.is/)
 - Sep 18 - [Sysz – An fzf terminal UI for systemctl](https://github.com/joehillen/sysz)
-- Sep 18 - [Groundbreaking arm amputation surgery makes a ‘phantom’ hand seem real](https://www.statnews.com/2021/09/14/i-can-still-feel-it-new-arm-amputation-surgery-makes-a-phantom-hand-seem-real/)
-- Sep 18 - [The pitfalls of using SSH-agent, or how to use an agent safely](https://rabexc.org/posts/pitfalls-of-ssh-agents)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
