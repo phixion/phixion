@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 18 - [sysz: fzf-based TUI for systemctl](https://github.com/joehillen/sysz)
+- Sep 18 - [Some Rich People Are Counting Their Antibodies ‘Like Calories’](https://www.nytimes.com/2021/09/18/style/some-rich-people-are-counting-their-antibodies-like-calories.html)
 - Sep 18 - [The pitfalls of using SSH-agent, or how to use an agent safely](https://rabexc.org/posts/pitfalls-of-ssh-agents)
 - Sep 18 - [Norway is wealthy because of oil. Can it give up fossil fuels?](https://www.csmonitor.com/World/Europe/2021/0913/Norway-is-wealthy-because-of-oil.-Can-it-give-up-fossil-fuels)
 - Sep 18 - [A collection of modern games for the TI-99/4A](http://tigameshelf.net/asm.htm)
-- Sep 18 - [Gimp 2.10.28 Released](https://www.gimp.org/news/2021/09/18/gimp-2-10-28-released/)
-- Sep 18 - [Ireland raises privacy question over Facebook smart glasses](https://www.reuters.com/technology/ireland-raises-privacy-question-over-facebook-smart-glasses-2021-09-17/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
