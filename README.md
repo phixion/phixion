@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 18 - [Porter (YC W22) Is Hiring a UX/Product Engineer](https://docs.google.com/spreadsheets/d/1EX95XOnOKJdantxM9VCO68KEE8Tbltvedlzji9KoQhY/edit?usp=sharing)
+- Sep 18 - [How I made $50K in 3 days with NFTs](https://paulstamatiou.com/how-i-made-50k-in-3-days-with-nfts/)
 - Sep 18 - [Python Programming Puzzles](https://github.com/microsoft/PythonProgrammingPuzzles)
 - Sep 18 - [Acoup: The Trench Stalemate](https://acoup.blog/2021/09/17/collections-no-mans-land-part-i-the-trench-stalemate/)
 - Sep 18 - [Modifying the Linux Kernel – New Syscalls](https://codingkaiser.blog/2021/07/17/create-your-own-system-calls%e2%80%8a-%e2%80%8aprocess-weights/)
-- Sep 18 - [Doing a Job – The Management Philosophy of Adm. Hyman G. Rickover](https://govleaders.org/rickover.htm)
-- Sep 18 - [Renting 'is unaffordable to minimum wage workers in every state,' study finds](https://money.yahoo.com/renting-unaffordable-minimum-wage-workers-200709826.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
