@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 18 - [Belgian ISP under 250 Gbps DDoS for days on end](https://issues.edpnet.be/)
 - Sep 18 - [GNU/Linux Open Hardware PowerPC Notebook Project](https://www.powerpc-notebook.org)
 - Sep 18 - [AirGuard: Protect yourself from being tracked by AirTags and Find My accessories](https://github.com/seemoo-lab/AirGuard)
 - Sep 18 - [Building Less Flawed Metrics: Dodging Goodhart and Campbell's Laws](https://mpra.ub.uni-muenchen.de/98288/)
 - Sep 18 - [Consolidation of the VPN industry spells trouble for the consumer](https://blog.windscribe.com/consolidation-of-the-vpn-industry-spells-trouble-for-the-consumer-57e638634cf0)
-- Sep 18 - [Replit (YC W18) is hiring Designers who Code to invent the future of programming](https://replit.com/careers)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
