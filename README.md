@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 19 - [71% of small and medium businesses survived the pandemic by going digital](https://www.salesforce.com/news/stories/growing-smbs-survived-the-pandemic-by-going-digital/)
 - Sep 19 - [The Form and Function of Science Fiction](https://franklloydwright.org/the-form-and-function-of-science-fiction/)
 - Sep 19 - [SmackTLS: State Machine Attacks](https://www.smacktls.com/)
 - Sep 19 - [Project Deluge: Xbox and Dreamcast](https://hiddenpalace.org/News/Project_Deluge:_Xbox_and_Dreamcast)
 - Sep 19 - [Why the University of Florida gets a ~1% cut of Gatorade profits](https://thehustle.co/why-the-university-of-florida-gets-a-20m-cut-of-gatorade-profits-every-year/)
-- Sep 19 - [Sirum (YC Nonprofit) needs engineers to automate medicine delivery](https://news.ycombinator.com/item?id=28583652)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
