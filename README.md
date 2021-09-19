@@ -36,7 +36,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 19 - [KySync: A complete, modern C++ rewrite of Zsync with 3x-10x+ performance boost](https://kyall.notion.site/KySync-v1-0-29eaad446308449a8c9a2373850eed62)
-- Sep 19 - [Single Family Zoning is now banned in California](https://www.timesheraldonline.com/2021/09/17/gov-newsom-abolishes-single-family-zoning-in-california-2/)
+- Sep 19 - [Want to save the earth then don’t buy that shiny new iPhone](https://www.theguardian.com/commentisfree/2021/sep/18/want-to-save-the-earth-then-dont-buy-that-shiny-new-iphone)
 - Sep 19 - [mRNA cancer therapy enters human trials after success in mice](https://www.futuretimeline.net/blog/2021/09/13-mrna-future-cancer.htm)
 - Sep 19 - [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28580769)
 - Sep 19 - [Big gap between Pfizer, Moderna vaccines for preventing Covid hospitalizations](https://www.post-gazette.com/news/health/2021/09/18/Big-gap-between-Pfizer-Moderna-vaccines-seen-for-preventing-COVID-19-hospitalizations/stories/202109180045)
