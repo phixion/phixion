@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 19 - [Shifting into a true democracy: 10 Steps to Take](https://arielky.substack.com/p/shifting-into-a-true-democracy-10)
 - Sep 19 - [71% of small and medium businesses survived the pandemic by going digital](https://www.salesforce.com/news/stories/growing-smbs-survived-the-pandemic-by-going-digital/)
 - Sep 19 - [The Form and Function of Science Fiction](https://franklloydwright.org/the-form-and-function-of-science-fiction/)
 - Sep 19 - [SmackTLS: State Machine Attacks](https://www.smacktls.com/)
 - Sep 19 - [Project Deluge: Xbox and Dreamcast](https://hiddenpalace.org/News/Project_Deluge:_Xbox_and_Dreamcast)
-- Sep 19 - [Why the University of Florida gets a ~1% cut of Gatorade profits](https://thehustle.co/why-the-university-of-florida-gets-a-20m-cut-of-gatorade-profits-every-year/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
