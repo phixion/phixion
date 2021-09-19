@@ -36,8 +36,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 19 - [KySync: A complete, modern C++ rewrite of Zsync with 3x-10x+ performance boost](https://kyall.notion.site/KySync-v1-0-29eaad446308449a8c9a2373850eed62)
-- Sep 19 - [Rock against anything: how metal became so fucking reactionary](https://toiletovhell.com/rock-against-anything-how-metal-became-so-fucking-reactionary-and-what-to-do-about-it/)
 - Sep 19 - [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28580769)
+- Sep 19 - [Pantagruel: An Extremely Lightweight Specification Language](https://pantagruel-language.com/)
 - Sep 18 - [Amazon says it’s permanently banned 600 Chinese brands for review fraud](https://www.theverge.com/2021/9/17/22680269/amazon-ban-chinese-brands-review-abuse-fraud-policy)
 - Sep 18 - [Can You See the Republic of Ireland from England?](https://www.anglezarke.net/can-you-see-the-republic-of-ireland-from-england/)
 <!--END_SECTION:hn-->
