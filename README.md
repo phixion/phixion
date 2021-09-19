@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 19 - [Volcano erupts on Spanish island of La Palma](https://p.dw.com/p/40X7R)
 - Sep 19 - [Serving Netflix Video at 400Gb/s [pdf]](https://people.freebsd.org/~gallatin/talks/euro2021.pdf)
 - Sep 19 - [Dot Browser – privacy-conscious web browser](https://github.com/dothq/browser)
 - Sep 19 - [Analog – An analogous, indented syntax for the Rust programming language](https://github.com/asvln/analog)
 - Sep 19 - [Ask HN: Is anyone monitoring popular apps to check if they're listening?](https://news.ycombinator.com/item?id=28584564)
-- Sep 19 - [Revisiting Java in 2021 – Part II](https://www.avanwyk.com/revisiting-java-in-2021-ii/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
