@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 19 - [Serving Netflix Video at 400Gb/s [pdf]](https://people.freebsd.org/~gallatin/talks/euro2021.pdf)
+- Sep 19 - [Dot Browser – privacy-conscious web browser](https://github.com/dothq/browser)
+- Sep 19 - [Analog – An analogous, indented syntax for the Rust programming language](https://github.com/asvln/analog)
 - Sep 19 - [Ask HN: Is anyone monitoring popular apps to check if they're listening?](https://news.ycombinator.com/item?id=28584564)
 - Sep 19 - [Revisiting Java in 2021 – Part II](https://www.avanwyk.com/revisiting-java-in-2021-ii/)
-- Sep 19 - [Patient Advocacy Groups, Industry Funding, and Conflicts of Interest (2017)](https://www.propublica.org/article/pharma-money-reaches-guideline-writers-patient-groups-doctors-on-twitter)
-- Sep 19 - [The Elements of Git](https://cuddly-octo-palm-tree.com/posts/2021-09-19-git-elements/)
-- Sep 19 - [Modifying the Linux Kernel – New Syscalls](http://codingkaiser.blog/2021/07/17/create-your-own-system-calls%E2%80%8A-%E2%80%8Aprocess-weights/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
