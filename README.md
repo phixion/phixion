@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 19 - [Percept.ai (YC S17) Is Hiring a Back End Engineer](https://apply.workable.com/percept-ai/j/0FA1CF8FF9/)
 - Sep 19 - [Ask HN: How did Google botch messaging/video/hangouts so badly?](https://news.ycombinator.com/item?id=28585379)
 - Sep 19 - [Forget oil or water. In Iceland, well diggers seek to tap a volcano’s magma](https://www.science.org/content/article/forget-oil-or-water-iceland-well-diggers-seek-tap-volcano-s-magma)
 - Sep 19 - [Show HN: Fully-searchable Library Genesis on IPFS](https://libgen.fun/dweb.html)
-- Sep 19 - [Volcano erupts on Spanish island of La Palma](https://p.dw.com/p/40X7R)
-- Sep 19 - [Serving Netflix Video at 400Gb/s [pdf]](https://people.freebsd.org/~gallatin/talks/euro2021.pdf)
+- Sep 19 - [Things To Do Before And After You Write Code](https://somehowmanage.com/2021/09/05/things-to-do-before-and-after-you-write-code/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
