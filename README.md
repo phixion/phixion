@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 19 - [PCB Metro Map](https://chaijiaxun.com/pcb-metro-map-build-log/)
 - Sep 19 - [OneSignal (YC S11) Is Hiring a Product Manager](https://onesignal.com/careers/3e185556-91ea-4d65-82ca-dd1520b2e8cb)
 - Sep 19 - [Show HN: I Built Four Eight-Foot-Long Handwriting Robots](https://twitter.com/aarondfrancis/status/1438888219471491074)
 - Sep 19 - [Private companies will launch a new fleet of moon landers](https://www.science.org/content/article/new-fleet-moon-landers-will-set-sail-next-year-backed-private-companies)
 - Sep 19 - [Freenet is a peer-to-peer platform for censorship-resistant communication](https://freenetproject.org/index.html)
-- Sep 19 - [PenPot 1.8.0 Alpha](https://penpot.app/dev-diaries.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
