@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 19 - [Private companies will launch a new fleet of moon landers](https://www.science.org/content/article/new-fleet-moon-landers-will-set-sail-next-year-backed-private-companies)
+- Sep 19 - [Freenet is a peer-to-peer platform for censorship-resistant communication](https://freenetproject.org/index.html)
+- Sep 19 - [PenPot 1.8.0 Alpha](https://penpot.app/dev-diaries.html)
+- Sep 19 - [What Is Property Based Testing?](https://hypothesis.works/articles/what-is-property-based-testing/)
 - Sep 19 - [The Combinatorial Object Server](http://combos.org/)
-- Sep 19 - [The Spy Tech That Followed Kids Home for Remote Learning – and Now Won’t Leave](https://www.the74million.org/article/gaggle-spy-tech-minneapolis-students-remote-learning/)
-- Sep 19 - [How to land a Gulfstream jet smoothly (hack)](https://www.ericbutton.co/blog/the-unofficial-way-to-land-a-gulfstream-g280)
-- Sep 19 - [Percept.ai (YC S17) Is Hiring a Back End Engineer](https://apply.workable.com/percept-ai/j/0FA1CF8FF9/)
-- Sep 19 - [Games That Emphasize Emergent Narrative](https://www.emergentmage.com/articles/guide-to-games-that-emphasize-emergent-narrative)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
