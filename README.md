@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 19 - [The Combinatorial Object Server](http://combos.org/)
+- Sep 19 - [Pakistani guy frauds $200M to AT&T with illegal unlock phones. Sentenced to 12Y](https://www.justice.gov/opa/pr/fraudster-sentenced-prison-long-running-phone-unlocking-scheme-defrauded-att)
 - Sep 19 - [Percept.ai (YC S17) Is Hiring a Back End Engineer](https://apply.workable.com/percept-ai/j/0FA1CF8FF9/)
 - Sep 19 - [Games That Emphasize Emergent Narrative](https://www.emergentmage.com/articles/guide-to-games-that-emphasize-emergent-narrative)
 - Sep 19 - [Big Tech is replacing human artists](https://erikhoel.substack.com/p/big-tech-is-replacing-human-artists)
-- Sep 19 - [3D Pipes Screensaver](https://1j01.github.io/pipes/)
-- Sep 19 - [Bye YouTube, Hello PeerTube (video)](https://diode.zone/w/ooKHgZQnFkGjzbjZjRkZf7?autoplay=1&auto_play=true&start=4m19s)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
