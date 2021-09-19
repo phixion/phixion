@@ -35,10 +35,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 19 - ['They' are controlling you. 'They' are silencing you. – Washington Times](https://m.washingtontimes.com/news/2021/sep/12/they-are-controlling-you-they-are-silencing-you/)
+- Sep 19 - [Pharma Money Reaches Guideline Writers, Patient Groups, Even Doctors on Twitter](https://www.propublica.org/article/pharma-money-reaches-guideline-writers-patient-groups-doctors-on-twitter)
 - Sep 19 - [71% of small and medium businesses survived the pandemic by going digital](https://www.salesforce.com/news/stories/growing-smbs-survived-the-pandemic-by-going-digital/)
-- Sep 19 - [The reason employees aren't returning to work in America](https://www.youtube.com/watch?v=52HpzZ4HT4g)
 - Sep 19 - [The Form and Function of Science Fiction](https://franklloydwright.org/the-form-and-function-of-science-fiction/)
+- Sep 19 - [Why We Picture Bombs as Round Black Balls with a Burning Wick](https://www.atlasobscura.com/articles/why-we-picture-bombs-as-round-black-balls-with-a-burning-wick)
 - Sep 19 - [SmackTLS: State Machine Attacks](https://www.smacktls.com/)
 <!--END_SECTION:hn-->
 
