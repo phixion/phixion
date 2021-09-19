@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 19 - [Show HN: Fully-searchable Library Genesis on IPFS](https://libgen.fun/dweb.html)
 - Sep 19 - [Volcano erupts on Spanish island of La Palma](https://p.dw.com/p/40X7R)
 - Sep 19 - [Serving Netflix Video at 400Gb/s [pdf]](https://people.freebsd.org/~gallatin/talks/euro2021.pdf)
+- Sep 19 - [Elite Biases Make Policy Biases](https://www.overcomingbias.com/2021/09/elite-biases-make-policy-biases.html)
 - Sep 19 - [Dot Browser – privacy-conscious web browser](https://github.com/dothq/browser)
-- Sep 19 - [Analog – An analogous, indented syntax for the Rust programming language](https://github.com/asvln/analog)
-- Sep 19 - [Ask HN: Is anyone monitoring popular apps to check if they're listening?](https://news.ycombinator.com/item?id=28584564)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
