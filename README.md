@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 19 - [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28580769)
+- Sep 19 - [Big gap between Pfizer, Moderna vaccines for preventing Covid hospitalizations](https://www.post-gazette.com/news/health/2021/09/18/Big-gap-between-Pfizer-Moderna-vaccines-seen-for-preventing-COVID-19-hospitalizations/stories/202109180045)
 - Sep 19 - [Pantagruel: An Extremely Lightweight Specification Language](https://pantagruel-language.com/)
 - Sep 18 - [Amazon says it’s permanently banned 600 Chinese brands for review fraud](https://www.theverge.com/2021/9/17/22680269/amazon-ban-chinese-brands-review-abuse-fraud-policy)
 - Sep 18 - [Can You See the Republic of Ireland from England?](https://www.anglezarke.net/can-you-see-the-republic-of-ireland-from-england/)
-- Sep 18 - [Why the American shoe disappeared and why it's so hard to bring it back (2019)](https://www.npr.org/2019/06/19/731268823/why-the-american-shoe-disappeared-and-why-its-so-hard-to-bring-it-back)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
