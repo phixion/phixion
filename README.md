@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 19 - [Is 2021 the Year of the Linux Desktop?](https://linux.slashdot.org/story/21/09/18/0050255/is-2021-the-year-of-the-linux-desktop)
 - Sep 19 - [Currying in JavaScript](https://javascript.info/currying-partials)
 - Sep 19 - [FreeBSD 11.4 End-of-Life](https://lists.freebsd.org/pipermail/freebsd-announce/2021-September/002060.html)
 - Sep 19 - [Show HN: Aquila.network – a search first hub for bookmarks](https://aquila.network)
 - Sep 19 - [Russia restricts opposition election voting app](https://netblocks.org/reports/russia-restricts-opposition-election-voting-app-from-apple-app-store-and-google-play-store-JBZrPaB6)
-- Sep 19 - [The Reemergent 1977 H1N1 Strain and the Gain-of-Function Debate (2015)](https://journals.asm.org/doi/10.1128/mbio.01013-15?permanently=true&)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
