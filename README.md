@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 18 - [Mice don’t get Alzheimer’s, so why test Alzheimer's drugs on them?](https://massivesci.com/articles/mice-alzheimers-lab-grown-human-cells/)
-- Sep 18 - [Amazon says it’s permanently banned 600 Chinese brands for review fraud](https://fintechzoom.com/fintech_news_amazon-nasdaq-amzn/amazon-says-its-permanently-banned-600-chinese-brands-for-review-fraud/)
-- Sep 18 - [Color Map Advice for Scientific Visualization](https://www.kennethmoreland.com/color-advice/)
-- Sep 18 - [Can You See the Republic of Ireland from England? – Menu](https://www.anglezarke.net/can-you-see-the-republic-of-ireland-from-england/)
-- Sep 18 - [Modern Treasury (YC S18) is hiring senior software engineers](https://www.moderntreasury.com/careers?utm_source=yYPEbOqnBd)
+- Sep 19 - [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28580769)
+- Sep 19 - [Pantagruel: An Extremely Lightweight Specification Language](https://pantagruel-language.com/)
+- Sep 18 - [Amazon says it’s permanently banned 600 Chinese brands for review fraud](https://www.theverge.com/2021/9/17/22680269/amazon-ban-chinese-brands-review-abuse-fraud-policy)
+- Sep 18 - [Can You See the Republic of Ireland from England?](https://www.anglezarke.net/can-you-see-the-republic-of-ireland-from-england/)
+- Sep 18 - [Why the American shoe disappeared and why it's so hard to bring it back (2019)](https://www.npr.org/2019/06/19/731268823/why-the-american-shoe-disappeared-and-why-its-so-hard-to-bring-it-back)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
