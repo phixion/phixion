@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 19 - [Sirum (YC Nonprofit) needs engineers to automate medicine delivery](https://news.ycombinator.com/item?id=28583652)
 - Sep 19 - [Paradise lost: The rise and ruin of Couchsurfing.com](https://www.inputmag.com/features/rise-and-ruin-of-couchsurfing)
 - Sep 19 - [Show HN: Optimule, a free vehicle routing platform built with Open Route Service](https://optimule.com/)
-- Sep 19 - [Is 2021 the Year of the Linux Desktop?](https://linux.slashdot.org/story/21/09/18/0050255/is-2021-the-year-of-the-linux-desktop)
+- Sep 19 - [Terraform Is Not the Golden Hammer](https://hub.qovery.com/guides/engineering/terraform-not-the-golden-hammer/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
