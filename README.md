@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 19 - [The Form and Function of Science Fiction](https://franklloydwright.org/the-form-and-function-of-science-fiction/)
+- Sep 19 - [SmackTLS: State Machine Attacks](https://www.smacktls.com/)
 - Sep 19 - [Project Deluge: Xbox and Dreamcast](https://hiddenpalace.org/News/Project_Deluge:_Xbox_and_Dreamcast)
+- Sep 19 - [Why the University of Florida gets a ~1% cut of Gatorade profits](https://thehustle.co/why-the-university-of-florida-gets-a-20m-cut-of-gatorade-profits-every-year/)
 - Sep 19 - [Sirum (YC Nonprofit) needs engineers to automate medicine delivery](https://news.ycombinator.com/item?id=28583652)
-- Sep 19 - [Paradise lost: The rise and ruin of Couchsurfing.com](https://www.inputmag.com/features/rise-and-ruin-of-couchsurfing)
-- Sep 19 - [Show HN: Optimule, a free vehicle routing platform built with Open Route Service](https://optimule.com/)
-- Sep 19 - [Terraform Is Not the Golden Hammer](https://hub.qovery.com/guides/engineering/terraform-not-the-golden-hammer/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
