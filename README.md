@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 19 - [Russia restricts opposition election voting app](https://netblocks.org/reports/russia-restricts-opposition-election-voting-app-from-apple-app-store-and-google-play-store-JBZrPaB6)
+- Sep 19 - [The Reemergent 1977 H1N1 Strain and the Gain-of-Function Debate (2015)](https://journals.asm.org/doi/10.1128/mbio.01013-15?permanently=true&)
 - Sep 19 - [Google classroom and Google docs can not be used when YouTube is blocked](https://support.google.com/edu/classroom/thread/43538350/how-can-i-block-youtube-without-blocking-google-classroom?hl=en)
 - Sep 19 - [An appeal for an objective, open, transparent debate re: the origin of Covid-19](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02019-5/fulltext)
 - Sep 19 - [OCW MIT: 6.006 Intro to Algorithms 2020](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2020/)
-- Sep 19 - [KySync: A complete, modern C++ rewrite of Zsync with 3x-10x+ performance boost](https://kyall.notion.site/KySync-v1-0-29eaad446308449a8c9a2373850eed62)
-- Sep 19 - [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28580769)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
