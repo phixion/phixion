@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 20 - [Full function emergency phone powered by a single AA with a 15 year shelf life](https://www.core77.com/posts/110069/Emergency-Phone-With-a-Surprising-Screen)
 - Sep 20 - [Pen: The programming language for scalable development](https://github.com/pen-lang/pen)
+- Sep 20 - [Father-Son Hacker Duo Is Helping People Crack into Their Lost Bitcoin](https://hypebeast.com/2021/9/bitcoin-wallet-hacker-chris-charlie-crypto-asset-recovery)
 - Sep 20 - [Marketron Hit by Cyber Attack](https://radioinsight.com/headlines/213080/marketron-hit-by-cyber-attack/)
 - Sep 20 - [Show HN: Errorpush – Minimalist Sentry alternative using PostgreSQL](https://github.com/hauxir/errorpush)
-- Sep 20 - [New engine design could muffle roar of fighter jets](https://www.uc.edu/news/articles/2021/09/uc-engineers-quieter-jet-engines-for-fighter-planes.html)
-- Sep 19 - [Tribler:  Search and download torrents with less worries or censorship](https://www.tribler.org/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
