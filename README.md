@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 20 - [Inspecting coredumps like it's 2021](https://nixos.mayflower.consulting/blog/2021/09/06/coredumpctl/)
+- Sep 20 - [Wcap: Simple and efficient screen recording utility for Windows](https://github.com/mmozeiko/wcap)
 - Sep 20 - [iOS 15 Is Available](https://www.apple.com/ios/ios-15/)
 - Sep 20 - [Supabase (YC S20) Is Hiring SRE and DevOps Engineers](https://bookface.ycombinator.com/company/22091/jobs/43570)
 - Sep 20 - [Show HN: 40k Book Recommendations on HN Extracted Using Deep Learning](https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0)
-- Sep 20 - [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/)
-- Sep 20 - [The Truth, by Stanisław Lem](https://thereader.mitpress.mit.edu/the-truth-by-stanislaw-lem/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
