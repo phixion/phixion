@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 20 - [Cortex (YC W20) Is Hiring Senior Engineers to Solve Microservice Complexity](https://jobs.ashbyhq.com/cortex/c26bd57b-97d3-41fc-accd-fbf24c4e917a)
 - Sep 20 - [Microsoft Ruined Passwords, Now Aims for a Passwordless Future](https://puri.sm/posts/microsoft-ruined-passwords-now-aims-for-a-passwordless-future/)
 - Sep 20 - [Reading Code Is a Skill](https://trishagee.com/2020/09/07/reading-code-is-a-skill/)
+- Sep 20 - [Text entered into Windows' Run dialogue gets sent to Microsoft's telemetry](https://twitter.com/netresec/status/1440036446291693574)
 - Sep 20 - [The Death Generator](https://deathgenerator.com)
-- Sep 20 - [Adguard Letter of Support to Quad9](https://adguard.com/en/blog/adguard-quad9-statement.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
