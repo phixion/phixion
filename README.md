@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 20 - [Healthcare in America Is Simply Extortion](https://gettingcanned.com/2019/05/01/healthcare-in-america-is-simply-extortion/)
+- Sep 20 - [“A calorie is a calorie” violates the second law of thermodynamics (2004)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC506782/)
+- Sep 20 - [A Mathematician's Guided Tour Through Higher Dimensions](https://www.quantamagazine.org/a-mathematicians-guided-tour-through-high-dimensions-20210913/)
+- Sep 20 - [Why is Confluence Wiki Search so bad?](https://news.ycombinator.com/item?id=28597895)
 - Sep 20 - [Inspecting coredumps like it's 2021](https://nixos.mayflower.consulting/blog/2021/09/06/coredumpctl/)
 - Sep 20 - [Wcap: Simple and efficient screen recording utility for Windows](https://github.com/mmozeiko/wcap)
-- Sep 20 - [iOS 15](https://www.apple.com/ios/ios-15/)
-- Sep 20 - [Supabase (YC S20) Is Hiring SRE and DevOps Engineers](https://bookface.ycombinator.com/company/22091/jobs/43570)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
