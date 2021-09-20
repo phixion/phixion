@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 20 - [Why Figma Wins](https://kwokchain.com/2020/06/19/why-figma-wins/)
 - Sep 20 - [Uncontrolled Spread: Science, Policy, Institutions, Infrastructure](https://future.a16z.com/podcasts/uncontrolled-spread-gottlieb-book-science-policy-institutions-technology-infrastructure-public-private-pandemic-emergency-beyond)
 - Sep 20 - [Pen: A programming language for scalable development](https://github.com/pen-lang/pen)
+- Sep 20 - [Revolt of the Delivery Workers](https://www.curbed.com/article/nyc-delivery-workers.html)
 - Sep 20 - [Father-Son Hacker Duo Is Helping People Crack into Their Lost Bitcoin](https://hypebeast.com/2021/9/bitcoin-wallet-hacker-chris-charlie-crypto-asset-recovery)
-- Sep 20 - [Show HN: Errorpush – Minimalist Sentry alternative using PostgreSQL](https://github.com/hauxir/errorpush)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
