@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 20 - [Quran API – Free and simple access to the holy Quran](https://m3o.com/quran)
 - Sep 20 - [Mozilla HTTP Observatory](https://observatory.mozilla.org/)
 - Sep 20 - [If I could bring one thing back to the internet it would be blogs](http://tttthis.com/blog/if-i-could-bring-one-thing-back-to-the-internet-it-would-be-blogs)
 - Sep 20 - [Nano98: Windows 98 that boots and runs under 5MB (2003)](http://web.archive.org/web/20090209050149/http://www.etek.chalmers.se/~e8gus/nano98/)
-- Sep 20 - [Get rid of those boolean function parameters (2015)](https://mortoray.com/2015/06/15/get-rid-of-those-boolean-function-parameters/)
-- Sep 20 - [Linux Networking: MAC VLANs and Virtual Ethernets](http://www.pocketnix.org/posts/Linux%20Networking:%20MAC%20VLANs%20and%20Virtual%20Ethernets)
+- Sep 20 - [Why has the price of electricity in Europe reached record highs?](https://www.economist.com/the-economist-explains/2021/09/15/why-has-the-price-of-electricity-in-europe-reached-record-highs)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
