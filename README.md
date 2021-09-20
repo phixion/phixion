@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 20 - [Nano98: Windows 98 that boots and runs under 5MB](http://web.archive.org/web/20090209050149/http://www.etek.chalmers.se/~e8gus/nano98/)
+- Sep 20 - [Get rid of those boolean function parameters (2015)](https://mortoray.com/2015/06/15/get-rid-of-those-boolean-function-parameters/)
 - Sep 20 - [Linux Networking: MAC VLANs and Virtual Ethernets](http://www.pocketnix.org/posts/Linux%20Networking:%20MAC%20VLANs%20and%20Virtual%20Ethernets)
 - Sep 20 - [Footage of Australian Raven Attacking a Wing Drone in Canberra, Australia](https://www.linkedin.com/posts/robertsforwriting_i-am-in-the-wing-delivery-area-in-canberra-activity-6845498818092498944-A8sh)
 - Sep 20 - [Rendezvous Hashing Explained](https://randorithms.com/2020/12/26/rendezvous-hashing.html)
-- Sep 20 - [Xata – Database service for serverless apps](https://www.xata.io/)
-- Sep 20 - [Germany’s no-emotion voting guide surges despite campaign of personalities](https://www.politico.eu/article/germany-election-2021-rational-voting-wahl-o-mat-survey/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
