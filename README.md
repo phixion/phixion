@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 20 - [Adguard Letter of Support to Quad9](https://adguard.com/en/blog/adguard-quad9-statement.html)
+- Sep 20 - [High genetic barrier to SARS-CoV-2 polyclonal neutralizing antibody escape](https://www.nature.com/articles/s41586-021-04005-0?error=cookies_not_supported&code=fea21ae7-088a-4c14-ae48-45adad4ef0e9)
 - Sep 20 - [“A calorie is a calorie” violates the second law of thermodynamics (2004)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC506782/)
 - Sep 20 - [A Mathematician's Guided Tour Through Higher Dimensions](https://www.quantamagazine.org/a-mathematicians-guided-tour-through-high-dimensions-20210913/)
 - Sep 20 - [Why is Confluence Wiki Search so bad?](https://news.ycombinator.com/item?id=28597895)
-- Sep 20 - [Inspecting coredumps like it's 2021](https://nixos.mayflower.consulting/blog/2021/09/06/coredumpctl/)
-- Sep 20 - [Wcap: Simple and efficient screen recording utility for Windows](https://github.com/mmozeiko/wcap)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
