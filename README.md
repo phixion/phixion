@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 20 - [Free Decision Making Under Uncertainty Course with Julia](https://juliaacademy.com/p/decision-making-under-uncertainty-with-pomdps-jl)
-- Sep 20 - [Subscribing to RSS Feeds on your E-Reader using your own WordPress blog](https://wpfriends.at/2021/09/20/subscribing-to-rss-feeds-on-your-e-reader/)
+- Sep 20 - [La Palma Volcano Live [video]](https://www.youtube.com/watch?v=4h67mS5teg8)
+- Sep 20 - [Decision Making Under Uncertainty with POMDPs.jl](https://juliaacademy.com/p/decision-making-under-uncertainty-with-pomdps-jl)
+- Sep 20 - [Subscribing to RSS Feeds on your E-Reader](https://wpfriends.at/2021/09/20/subscribing-to-rss-feeds-on-your-e-reader/)
 - Sep 20 - [RocketLit (YC S16) Is Hiring](https://www.ycombinator.com/companies/rocketlit/jobs/63r2CMn-full-stack-mid-level-php-developer-for-ed-tech-remote-full-time-or-contract)
-- Sep 20 - [Something big Just hit Jupiter](https://www.universetoday.com/152583/something-big-just-hit-jupiter/)
-- Sep 20 - [Advice to New Managers: Don't Joke About Firing People](https://staysaasy.com/engineering/2020/06/09/Don%27t-Joke.html)
+- Sep 20 - [Something big just hit Jupiter](https://www.universetoday.com/152583/something-big-just-hit-jupiter/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
