@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 20 - [Evergrande troubles punish China property as contagion concern spreads](https://www.reuters.com/world/china/china-evergrande-shares-plummet-default-risks-2021-09-20/)
+- Sep 20 - [As a solo developer, I decided to offer phone support](http://plumshell.com/2017/11/30/as-a-solo-app-developer-i-decided-to-offer-phone-support-and-this-is-what-happened/)
 - Sep 20 - [Home Price to Income Ratio](https://www.longtermtrends.net/home-price-median-annual-income-ratio/)
 - Sep 20 - [There are six internet links on my office on wheels. Seven when Starlink arrives](https://ghuntley.com/internet/)
 - Sep 20 - [So what is the deal with A/UX anyways?](https://virtuallyfun.com/wordpress/2021/09/19/so-what-is-the-deal-with-a-ux-anyways/)
-- Sep 20 - [How Indian lawyers, scientists gave Sci-Hub its first legal defence team](https://news.careers360.com/sci-hub-scihub-libgen-alexandra-elbakyan-lawsuit-india-delhi-high-court-du-sol-delhi-university-iiser-jnu-mit-iit-science-research-elsevier)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
