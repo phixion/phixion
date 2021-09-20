@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 20 - [What is this Gemini thing, and why am I excited about it? (2020)](https://drewdevault.com/2020/11/01/What-is-Gemini-anyway.html)
 - Sep 20 - [OpenSSL 3.0 released; relicensed to Apache-2.0](https://lwn.net/Articles/868536/)
 - Sep 20 - [Cortex (YC W20) Is Hiring Senior Engineers to Solve Microservice Complexity](https://jobs.ashbyhq.com/cortex/c26bd57b-97d3-41fc-accd-fbf24c4e917a)
 - Sep 20 - [Reading code is a skill (2020)](https://trishagee.com/2020/09/07/reading-code-is-a-skill/)
 - Sep 20 - [Text entered into Windows' Run dialogue gets sent to Microsoft's telemetry](https://twitter.com/netresec/status/1440036446291693574)
-- Sep 20 - [Adguard Letter of Support to Quad9](https://adguard.com/en/blog/adguard-quad9-statement.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
