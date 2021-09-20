@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 20 - [Cortex (YC W20) Is Hiring Senior Engineers to Solve Microservice Complexity](https://jobs.ashbyhq.com/cortex/c26bd57b-97d3-41fc-accd-fbf24c4e917a)
+- Sep 20 - [Microsoft Ruined Passwords, Now Aims for a Passwordless Future](https://puri.sm/posts/microsoft-ruined-passwords-now-aims-for-a-passwordless-future/)
 - Sep 20 - [Reading Code Is a Skill](https://trishagee.com/2020/09/07/reading-code-is-a-skill/)
+- Sep 20 - [The Death Generator](https://deathgenerator.com)
 - Sep 20 - [Adguard Letter of Support to Quad9](https://adguard.com/en/blog/adguard-quad9-statement.html)
-- Sep 20 - [High genetic barrier to SARS-CoV-2 polyclonal neutralizing antibody escape](https://www.nature.com/articles/s41586-021-04005-0?error=cookies_not_supported&code=fea21ae7-088a-4c14-ae48-45adad4ef0e9)
-- Sep 20 - [“A calorie is a calorie” violates the second law of thermodynamics (2004)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC506782/)
-- Sep 20 - [A Mathematician's Guided Tour Through Higher Dimensions](https://www.quantamagazine.org/a-mathematicians-guided-tour-through-high-dimensions-20210913/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
