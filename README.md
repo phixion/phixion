@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 20 - [FBI: Fortune seized in LA was criminals’ loot. Owners: Where’s the proof?](https://www.latimes.com/california/story/2021-09-19/fbi-seizure-cash-beverly-hills-vault-spawns-epic-court-battle)
+- Sep 20 - [Excel as Code](https://github.com/GavinMendelGleason/excel_as_code)
 - Sep 20 - [Show HN: A microservice framework, listed in CNCF Landscape, 1 year 10k+ stars](https://github.com/zeromicro/go-zero)
 - Sep 20 - [Unmatched: Repairing the U.S. Medical Residency Pipeline](https://www.niskanencenter.org/unmatched-repairing-the-u-s-medical-residency-pipeline/)
 - Sep 20 - [Ruby for eBook Publishing](https://nts.strzibny.name/ruby-for-ebook-publishing/)
-- Sep 20 - [As a solo developer, I decided to offer phone support](http://plumshell.com/2017/11/30/as-a-solo-app-developer-i-decided-to-offer-phone-support-and-this-is-what-happened/)
-- Sep 20 - [There are six internet links on my office on wheels. Seven when Starlink arrives](https://ghuntley.com/internet/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
