@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 20 - [Big tech’s pro-climate rhetoric is not matched by policy action, report finds](https://www.theguardian.com/environment/2021/sep/20/big-tech-climate-change)
 - Sep 20 - [So what is the deal with A/UX anyways?](https://virtuallyfun.com/wordpress/2021/09/19/so-what-is-the-deal-with-a-ux-anyways/)
 - Sep 20 - [Watch an election being stolen in realtime](https://twitter.com/jsrailton/status/1439545705765408771)
-- Sep 20 - [A Python-based programming language for high-performance computational genomics](https://www.nature.com/articles/s41587-021-00985-6?error=cookies_not_supported&code=d0023f79-5c37-42c7-8cb8-561c6ed8a409)
+- Sep 20 - [How Indian lawyers, scientists gave Sci-Hub its first legal defence team](https://news.careers360.com/sci-hub-scihub-libgen-alexandra-elbakyan-lawsuit-india-delhi-high-court-du-sol-delhi-university-iiser-jnu-mit-iit-science-research-elsevier)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
