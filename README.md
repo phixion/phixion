@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 20 - [There are six internet links on my office on wheels. Seven when Starlink arrives](https://ghuntley.com/internet/)
+- Sep 20 - [Big tech’s pro-climate rhetoric is not matched by policy action, report finds](https://www.theguardian.com/environment/2021/sep/20/big-tech-climate-change)
 - Sep 20 - [So what is the deal with A/UX anyways?](https://virtuallyfun.com/wordpress/2021/09/19/so-what-is-the-deal-with-a-ux-anyways/)
 - Sep 20 - [Watch an election being stolen in realtime](https://twitter.com/jsrailton/status/1439545705765408771)
 - Sep 20 - [A Python-based programming language for high-performance computational genomics](https://www.nature.com/articles/s41587-021-00985-6?error=cookies_not_supported&code=d0023f79-5c37-42c7-8cb8-561c6ed8a409)
-- Sep 20 - [La Palma Volcano Live [video]](https://www.youtube.com/watch?v=4h67mS5teg8)
-- Sep 20 - [Decision Making Under Uncertainty with POMDPs.jl](https://juliaacademy.com/p/decision-making-under-uncertainty-with-pomdps-jl)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
