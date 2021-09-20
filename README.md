@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 20 - [Supabase (YC S20) Is Hiring SRE and DevOps Engineers](https://bookface.ycombinator.com/company/22091/jobs/43570)
 - Sep 20 - [Show HN: 40k Book Recommendations on HN Extracted Using Deep Learning](https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0)
 - Sep 20 - [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/)
-- Sep 20 - [ClickHouse, Inc](https://github.com/ClickHouse/ClickHouse/blob/master/website/blog/en/2021/clickhouse-inc.md)
+- Sep 20 - [The Truth, by Stanisław Lem](https://thereader.mitpress.mit.edu/the-truth-by-stanislaw-lem/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
