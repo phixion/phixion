@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 20 - [How this startup used partnerships to raise $1M and gain thousands of followers](https://www.intribe.co/blog/how-mosea-utilized-partnerships##)
+- Sep 20 - [What the Wall Street Journal Got Wrong (by FB VP of Global Affairs)](https://about.fb.com/news/2021/09/what-the-wall-street-journal-got-wrong/)
 - Sep 19 - [YouTube has a spam problem, and it's getting worse](https://news.ycombinator.com/item?id=28588896)
-- Sep 19 - [“600-500 BC Etruscan” Ceramic Boar Vessel exposed as probable fake](https://twitter.com/diffendale/status/1439204731403055114)
+- Sep 19 - [Tribler:  Search and download torrents with less worries or censorship](https://www.tribler.org/)
 - Sep 19 - [PCB Metro Map](https://chaijiaxun.com/pcb-metro-map-build-log/)
-- Sep 19 - [OneSignal (YC S11) Is Hiring a Product Manager](https://onesignal.com/careers/3e185556-91ea-4d65-82ca-dd1520b2e8cb)
-- Sep 19 - [Show HN: I built four eight-foot-long handwriting robots](https://twitter.com/aarondfrancis/status/1438888219471491074)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
