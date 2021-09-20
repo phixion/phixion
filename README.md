@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 20 - [Xata – Database service for serverless apps](https://www.xata.io/)
+- Sep 20 - [Germany’s no-emotion voting guide surges despite campaign of personalities](https://www.politico.eu/article/germany-election-2021-rational-voting-wahl-o-mat-survey/)
 - Sep 20 - [Zerotier – multiple vulnerabilities lead to private network access](https://pulsesecurity.co.nz/advisories/Zerotier-Private-Network-Access.html)
 - Sep 20 - [Why Figma Wins (2020)](https://kwokchain.com/2020/06/19/why-figma-wins/)
 - Sep 20 - [Uncontrolled Spread: Science, Policy, Institutions, Infrastructure](https://future.a16z.com/podcasts/uncontrolled-spread-gottlieb-book-science-policy-institutions-technology-infrastructure-public-private-pandemic-emergency-beyond)
-- Sep 20 - [Pen: A programming language for scalable development](https://github.com/pen-lang/pen)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
