@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 20 - [RocketLit (YC S16) Is Hiring](https://www.ycombinator.com/companies/rocketlit/jobs/63r2CMn-full-stack-mid-level-php-developer-for-ed-tech-remote-full-time-or-contract)
+- Sep 20 - [Something big Just hit Jupiter](https://www.universetoday.com/152583/something-big-just-hit-jupiter/)
 - Sep 20 - [Advice to New Managers: Don't Joke About Firing People](https://staysaasy.com/engineering/2020/06/09/Don%27t-Joke.html)
+- Sep 20 - [VPN users unmasked by zero-day vulnerability in Virgin Media routers](https://portswigger.net/daily-swig/vpn-users-unmasked-by-zero-day-vulnerability-in-virgin-media-routers)
 - Sep 20 - [Mozilla HTTP Observatory](https://observatory.mozilla.org/)
-- Sep 20 - [If I could bring one thing back to the internet it would be blogs](http://tttthis.com/blog/if-i-could-bring-one-thing-back-to-the-internet-it-would-be-blogs)
-- Sep 20 - [Nano98: Windows 98 that boots and runs under 5MB (2003)](http://web.archive.org/web/20090209050149/http://www.etek.chalmers.se/~e8gus/nano98/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
