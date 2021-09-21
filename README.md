@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 21 - [Are You Playing to Play, or Playing to Win?](https://commoncog.com/blog/playing-to-play-playing-to-win/)
 - Sep 21 - [Taming Go’s Memory Usage, or How We Avoided Rewriting Our Client in Rust](https://www.akitasoftware.com/blog-posts/taming-gos-memory-usage-or-how-we-avoided-rewriting-our-client-in-rust)
 - Sep 21 - [Manyverse – A social network off the grid](https://www.manyver.se/)
 - Sep 21 - [Rome will be written in Rust](https://rome.tools/blog/2021/09/21/rome-will-be-rewritten-in-rust)
 - Sep 21 - [U.S. sanctions virtual currency exchange after spike in ransomware attacks](https://www.cbsnews.com/news/cryptocurrency-exchange-sanctions-name-biden-administration/)
-- Sep 21 - [Compound (YC S19) is hiring designers to build products for startup employees](https://withcompound.com/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
