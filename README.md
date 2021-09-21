@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 21 - [Amazon’s AI cameras are punishing drivers for mistakes they didn’t make](https://www.vice.com/en/article/88npjv/amazons-ai-cameras-are-punishing-drivers-for-mistakes-they-didnt-make)
 - Sep 21 - [GitHub Actions: Ephemeral self-hosted runners and new webhooks for auto-scaling](https://github.blog/changelog/2021-09-20-github-actions-ephemeral-self-hosted-runners-new-webhooks-for-auto-scaling/)
 - Sep 21 - [Arm AArch64 Adds Memcpy() Instructions](https://community.arm.com/developer/ip-products/processors/b/processors-ip-blog/posts/arm-a-profile-architecture-developments-2021)
-- Sep 21 - [Ipv6excuses.com](https://ipv6excuses.com/)
+- Sep 21 - [Theatre.js: Animation motion design editor / library for high-fidelity graphics](https://github.com/AriaMinaei/theatre)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
