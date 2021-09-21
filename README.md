@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 21 - [Bitmovin (YC S15) Is Hiring a Developer Advocate (Remote)](https://bitmovin.com/careers/5520683002)
 - Sep 21 - [Ask HN: I hate vertical scrolling. How can I paginate the web?](https://news.ycombinator.com/item?id=28603915)
 - Sep 21 - [Autumn Lisp Game Jam 2021](https://itch.io/jam/autumn-lisp-game-jam-2021)
 - Sep 21 - [Show HN: Qodebeam - platform for data sharing between users and services](https://qodebeam.com)
 - Sep 21 - [Build Deeper Connections with Friends](https://www.hmsklt.app)
-- Sep 21 - [Trailerduck is a smart e-bike trailer](https://www.autoevolution.com/news/trailerduck-is-a-smart-e-bike-trailer-thats-bound-to-make-city-life-easier-168072.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
