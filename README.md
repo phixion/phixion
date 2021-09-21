@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 21 - [Ways to Think about Water](https://alexdanco.com/2015/11/23/ways-to-think-about-water/)
 - Sep 21 - [Actuarial Notation](https://en.wikipedia.org/wiki/Actuarial_notation)
 - Sep 21 - [More Casio Watch Mods (2017)](https://n-o-d-e.net/watch_mods.html)
 - Sep 21 - [J&J Says Its Booster Shot Provides Increased Protection from Covid](https://www.npr.org/2021/09/21/1039168781/johnson-johnson-booster-shot-provides-increased-protection-from-covid)
 - Sep 21 - [Bitmovin (YC S15) Is Hiring a Developer Advocate (Remote)](https://bitmovin.com/careers/5520683002)
-- Sep 21 - [Show HN: Qodebeam - platform for data sharing between users and services](https://qodebeam.com)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
