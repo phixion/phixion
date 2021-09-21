@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 21 - [Ask HN: What can I do to actively fight climate change?](https://news.ycombinator.com/item?id=28601257)
+- Sep 21 - [Ruby Packer: distribute your Ruby code as a compiled binary](https://github.com/pmq20/ruby-packer)
+- Sep 21 - [I started SaaS companies in 2013 and 2021. Here's how things have changed](https://blog.airplane.dev/i-started-a-saas-company-in-2013-and-2021-heres-how-its-changed/)
 - Sep 21 - [Jerry (YC S17) Is Hiring](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
 - Sep 21 - [Python GUIs for Humans – Transforms UI into People-Friendly Pythonic Interfaces](https://github.com/PySimpleGUI/PySimpleGUI)
-- Sep 21 - [Show HN: 7GUIs in Vanilla HTML, CSS, JavaScript](https://7guis.bradwoods.io/)
-- Sep 21 - [A function decorator that rewrites the bytecode to enable goto in Python](https://github.com/snoack/python-goto)
-- Sep 21 - [What's the deal with tab size (8 spaces) in the GitHub UI?](https://github.community/t/whats-the-deal-with-tab-sizes-on-github-gists/954)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
