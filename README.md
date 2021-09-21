@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 21 - [A Tunguska size burst destroyed Tall el-Hammam, Bronze Age city in Jordan Valley](https://www.nature.com/articles/s41598-021-97778-3)
 - Sep 21 - [Former NSA Hacker Describes Being Recruited for UAE Spy Program](https://zetter.substack.com/p/former-nsa-hacker-describes-being)
 - Sep 21 - [Amazon’s AI cameras are punishing drivers for mistakes they didn’t make](https://www.vice.com/en/article/88npjv/amazons-ai-cameras-are-punishing-drivers-for-mistakes-they-didnt-make)
 - Sep 21 - [GitHub Actions: Ephemeral self-hosted runners and new webhooks for auto-scaling](https://github.blog/changelog/2021-09-20-github-actions-ephemeral-self-hosted-runners-new-webhooks-for-auto-scaling/)
 - Sep 21 - [Arm AArch64 Adds Memcpy() Instructions](https://community.arm.com/developer/ip-products/processors/b/processors-ip-blog/posts/arm-a-profile-architecture-developments-2021)
-- Sep 21 - [Theatre.js: Animation motion design editor / library for high-fidelity graphics](https://github.com/AriaMinaei/theatre)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
