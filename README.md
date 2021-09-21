@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 21 - [No More Apologies: Inside Facebook’s Push to Defend Its Image](https://www.nytimes.com/2021/09/21/technology/zuckerberg-facebook-project-amplify.html)
 - Sep 21 - [Mux is looking for engineers with experience building WebRTC infrastructure](https://mux.com/jobs?hnj=real-time-video)
 - Sep 21 - [The Hitchhiker's Guide to Kotlin](https://nathan-contino.github.io/site,/name,/colors,/web/2020/12/11/hitchhikersGuideToKotlin.html)
 - Sep 21 - [Introduction to Hippo: The WebAssembly PaaS](https://deislabs.io/posts/introducing-hippo/)
 - Sep 21 - [Goats Became the Unconventional Weapon Against Wildfires](https://www.nytimes.com/2021/09/18/business/wildfires-goats-prevention.html)
-- Sep 21 - [What Happened to Safe: Valuation Cap and Discount?](https://www.ycombinator.com/documents/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
