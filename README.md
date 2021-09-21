@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 21 - [Internet Freedom Around the World Declines for 11th Consecutive Year](https://freedomhouse.org/report/freedom-net/2021/global-drive-control-big-tech)
+- Sep 21 - [FBI held back ransomware decryption key to run operation targeting hackers](https://www.washingtonpost.com/national-security/ransomware-fbi-revil-decryption-key/2021/09/21/4a9417d0-f15f-11eb-a452-4da5fe48582d_story.html)
+- Sep 21 - [Ubuntu 14.04 and 16.04 lifecycle extended to ten years](https://ubuntu.com/blog/ubuntu-14-04-and-16-04-lifecycle-extended-to-ten-years)
 - Sep 21 - [Ask HN: How do I easily catalog a couple thousand physical books?](https://news.ycombinator.com/item?id=28605777)
 - Sep 21 - [Robots Must Be Ephemeralized](https://blog.evjang.com/2021/09/ephemeralization.html)
-- Sep 21 - [Amazon’s new Kindle Paperwhite](https://www.theverge.com/2021/9/21/22684801/amazon-kindle-paperwhite-features-price-release-date)
-- Sep 21 - [BlackRock and HSBC funds boosted Evergrande holdings as crisis loomed](https://www.ft.com/content/87fddf09-ef69-49b3-87bc-1a2d84fffd91)
-- Sep 21 - [Mathematician Answers Chess Problem About Attacking Queens](https://www.quantamagazine.org/mathematician-answers-chess-problem-about-attacking-queens-20210921/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
