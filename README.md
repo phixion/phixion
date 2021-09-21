@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 21 - [TikTokers Are Trading Stocks by Copying What Members of Congress Do](https://text.npr.org/1039313011)
 - Sep 21 - [No More Apologies: Inside Facebook’s Push to Defend Its Image](https://www.nytimes.com/2021/09/21/technology/zuckerberg-facebook-project-amplify.html)
 - Sep 21 - [DOJ Sues to Block Domestic Alliance Between American Airlines and JetBlue](https://www.justice.gov/opa/pr/justice-department-sues-block-unprecedented-domestic-alliance-between-american-airlines-and)
+- Sep 21 - [Confessions of a Michelin Star Inspector](https://www.luxeat.com/blog/confessions-of-a-michelin-inspector/)
 - Sep 21 - [Mux is looking for engineers with experience building WebRTC infrastructure](https://mux.com/jobs?hnj=real-time-video)
-- Sep 21 - [The Hitchhiker's Guide to Kotlin](https://nathan-contino.github.io/site,/name,/colors,/web/2020/12/11/hitchhikersGuideToKotlin.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
