@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 21 - [America Is Being Held for Ransom. It Needs to Fight Back](https://www.nytimes.com/2021/09/20/opinion/ransomware-biden-russia.html)
+- Sep 21 - [Taming Go’s Memory Usage, or How We Avoided Rewriting Our Client in Rust](https://www.akitasoftware.com/blog-posts/taming-gos-memory-usage-or-how-we-avoided-rewriting-our-client-in-rust)
+- Sep 21 - [Manyverse – A social network off the grid](https://www.manyver.se/)
+- Sep 21 - [Rome will be written in Rust](https://rome.tools/blog/2021/09/21/rome-will-be-rewritten-in-rust)
 - Sep 21 - [U.S. sanctions virtual currency exchange after spike in ransomware attacks](https://www.cbsnews.com/news/cryptocurrency-exchange-sanctions-name-biden-administration/)
 - Sep 21 - [Compound (YC S19) is hiring designers to build products for startup employees](https://withcompound.com/)
-- Sep 21 - [The truly epic BYTE magazine covers by Robert Tinney](https://lunduke.substack.com/p/the-truly-epic-byte-magazine-covers)
-- Sep 21 - [The Framework is the most exciting laptop I've ever used](https://pluralistic.net/2021/09/21/monica-byrne/#think-different)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
