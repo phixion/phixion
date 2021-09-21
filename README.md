@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 21 - [Compound (YC S19) is hiring designers to build products for startup employees](https://withcompound.com/)
+- Sep 21 - [The truly epic BYTE magazine covers by Robert Tinney](https://lunduke.substack.com/p/the-truly-epic-byte-magazine-covers)
+- Sep 21 - [The Framework is the most exciting laptop I've ever used](https://pluralistic.net/2021/09/21/monica-byrne/#think-different)
 - Sep 21 - [ZeroTier – Incident Response to September 20th 2021](https://www.zerotier.com/2021/09/21/incident-response-to-september-20th-2021/)
 - Sep 21 - [Internet Freedom Around the World Declines for 11th Consecutive Year](https://freedomhouse.org/report/freedom-net/2021/global-drive-control-big-tech)
-- Sep 21 - [FBI held back ransomware decryption key to run operation targeting hackers](https://www.washingtonpost.com/national-security/ransomware-fbi-revil-decryption-key/2021/09/21/4a9417d0-f15f-11eb-a452-4da5fe48582d_story.html)
-- Sep 21 - [Ubuntu 14.04 and 16.04 lifecycle extended to ten years](https://ubuntu.com/blog/ubuntu-14-04-and-16-04-lifecycle-extended-to-ten-years)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
