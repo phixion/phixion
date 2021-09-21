@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 21 - [Amazon’s AI Cameras Are Punishing Drivers for Mistakes They Didn’t Make](https://www.vice.com/en/article/88npjv/amazons-ai-cameras-are-punishing-drivers-for-mistakes-they-didnt-make)
+- Sep 21 - [Amazon’s AI cameras are punishing drivers for mistakes they didn’t make](https://www.vice.com/en/article/88npjv/amazons-ai-cameras-are-punishing-drivers-for-mistakes-they-didnt-make)
 - Sep 21 - [GitHub Actions: Ephemeral self-hosted runners and new webhooks for auto-scaling](https://github.blog/changelog/2021-09-20-github-actions-ephemeral-self-hosted-runners-new-webhooks-for-auto-scaling/)
 - Sep 21 - [Arm AArch64 Adds Memcpy() Instructions](https://community.arm.com/developer/ip-products/processors/b/processors-ip-blog/posts/arm-a-profile-architecture-developments-2021)
+- Sep 21 - [Ipv6excuses.com](https://ipv6excuses.com/)
 - Sep 21 - [Ruby Packer: distribute your Ruby code as a compiled binary](https://github.com/pmq20/ruby-packer)
-- Sep 21 - [I started SaaS companies in 2013 and 2021. Here's how things have changed](https://blog.airplane.dev/i-started-a-saas-company-in-2013-and-2021-heres-how-its-changed/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
