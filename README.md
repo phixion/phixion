@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 21 - [Robots Must Be Ephemeralized](https://blog.evjang.com/2021/09/ephemeralization.html)
 - Sep 21 - [Amazon’s new Kindle Paperwhite](https://www.theverge.com/2021/9/21/22684801/amazon-kindle-paperwhite-features-price-release-date)
 - Sep 21 - [BlackRock and HSBC funds boosted Evergrande holdings as crisis loomed](https://www.ft.com/content/87fddf09-ef69-49b3-87bc-1a2d84fffd91)
-- Sep 21 - [NYT Confirms Israel Killed an Iranian Nuclear Scientist with a Robot Sniper](https://futurism.com/the-byte/nyt-israel-robot-sniper)
+- Sep 21 - [Mathematician Answers Chess Problem About Attacking Queens](https://www.quantamagazine.org/mathematician-answers-chess-problem-about-attacking-queens-20210921/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
