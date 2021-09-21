@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 21 - [Mux is looking for engineers with experience building WebRTC infrastructure](https://mux.com/jobs?hnj=real-time-video)
+- Sep 21 - [Goats Became the Unconventional Weapon Against Wildfires](https://www.nytimes.com/2021/09/18/business/wildfires-goats-prevention.html)
 - Sep 21 - [What Happened to Safe: Valuation Cap and Discount?](https://www.ycombinator.com/documents/)
 - Sep 21 - [Roblox Introducing Age Verification System, Includes Government ID Scan](https://blog.roblox.com/2021/09/introducing-age-verification/)
 - Sep 21 - [Django 4.0 alpha 1 released](https://www.djangoproject.com/weblog/2021/sep/21/django-40-alpha-1-released/)
-- Sep 21 - [MIT study finds Tesla drivers become inattentive when Autopilot is activated](https://techcrunch.com/2021/09/20/mit-study-finds-tesla-drivers-become-inattentive-when-autopilot-is-activated/)
-- Sep 21 - [Are you playing to play, or playing to win?](https://commoncog.com/blog/playing-to-play-playing-to-win/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
