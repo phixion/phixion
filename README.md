@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 21 - [Autumn Lisp Game Jam 2021](https://itch.io/jam/autumn-lisp-game-jam-2021)
 - Sep 21 - [Build Deeper Connections with Friends](https://www.hmsklt.app)
 - Sep 21 - [Trailerduck is a smart e-bike trailer](https://www.autoevolution.com/news/trailerduck-is-a-smart-e-bike-trailer-thats-bound-to-make-city-life-easier-168072.html)
-- Sep 21 - [Royal Holloway music professor quits over cancel culture](https://www.thetimes.co.uk/article/royal-holloway-music-professor-quits-cancel-culture-spd08wkfj)
+- Sep 21 - [Epolevne by Kultisti](https://kultisti.itch.io/epolevne)
 - Sep 21 - [Byte Magazine Volume 07 Number 08 – Logo (1982)](https://archive.org/details/byte-magazine-1982-08)
-- Sep 21 - [Database containing personal info of 106M visitors to Thailand exposed online](https://www.comparitech.com/blog/information-security/thai-traveler-data-leak/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
