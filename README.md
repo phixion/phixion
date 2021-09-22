@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 22 - [Waydroid – run Android containers on Ubuntu](https://waydro.id/)
+- Sep 22 - [Improve Your Life with Long Error Messages](https://blog.appsignal.com/2021/09/22/improve-your-life-with-long-error-messages.html)
 - Sep 22 - [Xiaomi Phones can detect terms such as “Free Tibet”. Lithuania discovered](https://twitter.com/anneapplebaum/status/1440601477706178560)
-- Sep 22 - [Leaving the Apple ecosystem behind](https://h2x.sh/apple/)
-- Sep 22 - [Lesson of ivermectin: meta-analyses based on summary data alone are unreliable](https://www.nature.com/articles/s41591-021-01535-y?error=cookies_not_supported&code=812c9165-4140-416f-aaf8-f0b91736a86c)
-- Sep 22 - [Stop Reading News (2013)](https://fs.blog/2013/12/stop-reading-news/)
-- Sep 22 - [Show HN: Motion One, the Web Animations API for Everyone](https://motion.dev/)
+- Sep 22 - [Startup aims to make piloting a jetpack as easy as flying a drone](https://spectrum.ieee.org/will-this-jetpack-fly-itself)
+- Sep 22 - [Andrew Left banned from trading in HK for saying China Evergrande was insolvent](https://www.institutionalinvestor.com/article/b1sz8v1gt3f5rh/Andrew-Left-Was-Banned-From-Trading-in-Hong-Kong-for-Saying-China-Evergrande-Group-Was-Insolvent-Was-He-Right-All-Along)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
