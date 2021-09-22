@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 22 - [Leaving the Apple ecosystem behind](https://h2x.sh/apple/)
+- Sep 22 - [Lesson of ivermectin: meta-analyses based on summary data alone are unreliable](https://www.nature.com/articles/s41591-021-01535-y?error=cookies_not_supported&code=812c9165-4140-416f-aaf8-f0b91736a86c)
 - Sep 22 - [Stop Reading News (2013)](https://fs.blog/2013/12/stop-reading-news/)
 - Sep 22 - [ROT8000](http://rot8000.com/info)
-- Sep 22 - [List of Lists of Lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists)
-- Sep 22 - [Amazon Is Lobbying the US Government to Make Pot Legal](https://www.businessinsider.com/amazon-lobbying-us-government-to-make-pot-legal-2021-9)
-- Sep 22 - [Meticulous (YC S21) Is Hiring First Engineer (London and Remote)](https://news.ycombinator.com/item?id=28615351)
+- Sep 22 - [Some Netgear Routers Need to Be Patched Immediately](https://www.pcmag.com/news/thanks-to-disney-11-netgear-routers-need-to-be-patched-immediately)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
