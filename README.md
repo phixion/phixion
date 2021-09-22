@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 22 - [Xiaomi Phones can detect terms such as “Free Tibet”. Lithuania discovered](https://twitter.com/anneapplebaum/status/1440601477706178560)
 - Sep 22 - [Leaving the Apple ecosystem behind](https://h2x.sh/apple/)
 - Sep 22 - [Lesson of ivermectin: meta-analyses based on summary data alone are unreliable](https://www.nature.com/articles/s41591-021-01535-y?error=cookies_not_supported&code=812c9165-4140-416f-aaf8-f0b91736a86c)
 - Sep 22 - [Stop Reading News (2013)](https://fs.blog/2013/12/stop-reading-news/)
-- Sep 22 - [World War 3 to Be Fought over Semiconductors?](https://goldsilver.com/blog/world-war-3-to-be-fought-oversemiconductors-wealthion/)
-- Sep 22 - [ROT8000](http://rot8000.com/info)
+- Sep 22 - [Show HN: Motion One, the Web Animations API for Everyone](https://motion.dev/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
