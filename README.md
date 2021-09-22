@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 22 - [Below: A time travelling resource monitoring tool](https://developers.facebook.com/blog/post/2021/09/21/below-time-travelling-resource-monitoring-tool/)
-- Sep 22 - [Germany is not as stable as we think. Just ask its preppers](https://www.economist.com/1843/2021/09/17/germany-is-not-as-stable-as-we-think-just-ask-its-preppers)
 - Sep 22 - [The First Rule of Machine Learning: Start Without Machine Learning](https://eugeneyan.com/writing/first-rule-of-ml/)
 - Sep 22 - [The first and last time AIM was hacked](https://g.livejournal.com/8390.html)
 - Sep 21 - [The Open Book Project: open-hardware e-ink eBook reader](https://github.com/joeycastillo/The-Open-Book)
+- Sep 21 - [TikTokers Are Trading Stocks by Copying What Members of Congress Do](https://text.npr.org/1039313011)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
