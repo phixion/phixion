@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 22 - [Amazon Is Lobbying the US Government to Make Pot Legal](https://www.businessinsider.com/amazon-lobbying-us-government-to-make-pot-legal-2021-9)
 - Sep 22 - [Meticulous (YC S21) Is Hiring First Engineer (London and Remote)](https://news.ycombinator.com/item?id=28615351)
 - Sep 22 - [Principles of Green Software Engineering](https://principles.green/)
 - Sep 22 - [2,400 LED Icosahedron](https://gregdavill.com/blog/d20)
-- Sep 22 - [How WhatsApp enables multi-device capability](https://engineering.fb.com/2021/07/14/security/whatsapp-multi-device/)
-- Sep 22 - [FFmpeg to WebRTC](https://github.com/ashellunts/ffmpeg-to-webrtc)
+- Sep 22 - [Rediscovered Medieval Manuscript Offers New Twist on Arthurian Legend](https://www.smithsonianmag.com/smart-news/rediscovered-medieval-manuscript-offers-new-twist-on-arthurian-legend-180978705/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
