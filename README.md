@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 22 - [Norwegian Data Protection Authority choose not to use Facebook](https://www.datatilsynet.no/en/news/2021/norwegian-data-protection-authority-choose-not-to-use-facebook/)
 - Sep 22 - [How WhatsApp enables multi-device capability](https://engineering.fb.com/2021/07/14/security/whatsapp-multi-device/)
-- Sep 22 - [Share video feed (camera, screen, file, etc.) from ffmpeg to web(rtc)](https://github.com/ashellunts/ffmpeg-to-webrtc)
+- Sep 22 - [FFmpeg to WebRTC](https://github.com/ashellunts/ffmpeg-to-webrtc)
 - Sep 22 - [Agile Is Dead, McKinsey Just Killed It](https://terem.tech/agile-is-dead/)
 - Sep 22 - [Mother of all lawsuits quietly filed last month vs. Facebook in Delaware](https://twitter.com/jason_kint/status/1440304941428473857)
+- Sep 22 - [Busting the 10x software engineer myth](https://www.swarmia.com/blog/busting-the-10x-software-engineer-myth/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
