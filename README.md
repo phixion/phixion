@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 22 - [Their Baby Died in the Hospital. Then Came the $257,000 Bill](https://www.nytimes.com/2021/09/21/upshot/hospital-bills.html)
+- Sep 22 - [Alabama Had More Deaths Than Births in 2020](https://www.npr.org/2021/09/20/1038950564/alabama-deaths-births-2020-coronavirus-surge-vaccination-rate)
 - Sep 22 - [Cosmic Rays Flipping Bits](https://www.johndcook.com/blog/2019/05/20/cosmic-rays-flipping-bits/)
 - Sep 21 - [Earthquake in Melbourne, Australia (9.15 AM 22nd Sep 21, AEST)](https://earthquakes.ga.gov.au/)
 - Sep 21 - [The Open Book Project: open-hardware e-ink eBook reader](https://github.com/joeycastillo/The-Open-Book)
