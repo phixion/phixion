@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 22 - [VergeSense (YC S17) Is Hiring Machine Learning Engineers](https://www.ycombinator.com/companies/vergesense/jobs/0moZx0r-machine-learning-engineer)
+- Sep 22 - [Fortnite will be blacklisted by Apple until all appeals exhausted](https://twitter.com/timsweeneyepic/status/1440711467888615431)
 - Sep 22 - [Brave Launches Brave Talk for Privacy-Preserving Video Conferencing](https://brave.com/brave-talk-launch/)
 - Sep 22 - [Hospitals lift curtain on prices, revealing swings in pricing by procedure](https://www.healthcaredive.com/news/hospitals-price-transparency-spotty-compliance-swings-price/596183/)
 - Sep 22 - [Spook: Side channel attack which could read the memory from Password Managers](https://www.spookjs.com/)
-- Sep 22 - [Mitigating Lunar Dust: Masten Completes Fast Landing Pad Study](https://masten.aero/blog/mitigating-lunar-dust-masten-completes-fast-landing-pad-study/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
