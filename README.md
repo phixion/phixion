@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 22 - [Walking Trees, Parasitic Flowers, and Other Remarkable Plants](https://thereader.mitpress.mit.edu/walking-trees-parasitic-flowers-remarkable-plants-illustrated-guide/)
 - Sep 22 - [Cow Dung Capitalism (2016)](https://openthemagazine.com/cover-stories/cow-dung-capitalism-milking-the-holy-cow/)
 - Sep 22 - [Asteroid Spotting](https://www.worksinprogress.co/issue/asteroid-spotting/)
 - Sep 22 - [Understanding Pakistan through the story of Karachi](https://lithub.com/understanding-pakistan-through-the-story-of-karachi/)
 - Sep 22 - [‘Every message was copied to the police’](https://www.theguardian.com/australia-news/2021/sep/11/inside-story-most-daring-surveillance-sting-in-history)
-- Sep 22 - [HOList: An Environment for Machine Learning of Higher-Order Theorem Proving](https://arxiv.org/abs/1904.03241)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
