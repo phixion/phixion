@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 22 - [CoinTracker (YC W18) is hiring first PM to make cryptocurrency accessible](https://www.cointracker.io/careers)
+- Sep 22 - [JupyterLab Desktop App now available](https://blog.jupyter.org/jupyterlab-desktop-app-now-available-b8b661b17e9a)
 - Sep 22 - [Google Drive of Historical Footage Locked and Flagged as Terrorist Activity](https://support.google.com/drive/thread/127021326/google-has-locked-my-account-for-sharing-a-historical-archive-they-labeled-as-terrorist-activity?hl=en)
 - Sep 22 - [Lab-grown meat companies may be on a billion-dollar crash course with reality](https://thecounter.org/lab-grown-cultivated-meat-cost-at-scale/)
 - Sep 22 - [Micro-Max, a 133-line Chess Source](https://home.hccnet.nl/h.g.muller/max-src2.html)
-- Sep 22 - [How We Got to LiveView](https://fly.io/blog/how-we-got-to-liveview/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
