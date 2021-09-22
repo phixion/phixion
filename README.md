@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 22 - [Germany is not as stable as we think. Just ask its preppers](https://www.economist.com/1843/2021/09/17/germany-is-not-as-stable-as-we-think-just-ask-its-preppers)
 - Sep 22 - [The First Rule of Machine Learning: Start Without Machine Learning](https://eugeneyan.com/writing/first-rule-of-ml/)
 - Sep 22 - [The first and last time AIM was hacked](https://g.livejournal.com/8390.html)
+- Sep 22 - [Cosmic Rays Flipping Bits](https://www.johndcook.com/blog/2019/05/20/cosmic-rays-flipping-bits/)
 - Sep 21 - [Earthquake in Melbourne, Australia (9.15 AM 22nd Sep 21, AEST)](https://earthquakes.ga.gov.au/event/ga2021sqogij)
-- Sep 21 - [The Open Book Project: open-hardware e-ink eBook reader](https://github.com/joeycastillo/The-Open-Book)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
