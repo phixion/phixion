@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 22 - [Brave Launches Brave Talk for Privacy-Preserving Video Conferencing](https://brave.com/brave-talk-launch/)
+- Sep 22 - [Hospitals lift curtain on prices, revealing swings in pricing by procedure](https://www.healthcaredive.com/news/hospitals-price-transparency-spotty-compliance-swings-price/596183/)
+- Sep 22 - [Spook: Side channel attack which could read the memory from Password Managers](https://www.spookjs.com/)
+- Sep 22 - [Mitigating Lunar Dust: Masten Completes Fast Landing Pad Study](https://masten.aero/blog/mitigating-lunar-dust-masten-completes-fast-landing-pad-study/)
 - Sep 22 - [Decentralizing the Internet's Root](https://blog.ipfs.io/decentralizing-the-internet-s-root/)
-- Sep 22 - [Workers are often told not to talk about pay. That's not legal](https://www.usatoday.com/story/money/2021/09/21/north-carolina-workers-discuss-wages-despite-workplace-rule/5796705001/)
-- Sep 22 - [Senet and Helium Announce LoRaWAN Network Integration Partnership](https://www.senetco.com/about/news/senet-and-helium-announce-lorawan-network-integration-partnership/)
-- Sep 22 - [Waydroid – Run Android containers on Ubuntu](https://waydro.id/)
-- Sep 22 - [Improve Your Life with Long Error Messages](https://blog.appsignal.com/2021/09/22/improve-your-life-with-long-error-messages.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
