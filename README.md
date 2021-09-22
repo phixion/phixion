@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 22 - [DuckDuckGo Is Now Carbon Negative](https://spreadprivacy.com/duckduckgo-goes-carbon-negative/)
+- Sep 22 - [Sweden’s Cultural Revolution](https://unherd.com/2021/09/swedens-cultural-revolution/)
 - Sep 22 - [Mother of all lawsuits quietly filed last month vs. Facebook in Delaware](https://twitter.com/jason_kint/status/1440304941428473857)
-- Sep 22 - [Busting the 10x software engineer myth](https://www.swarmia.com/blog/busting-the-10x-software-engineer-myth/)
 - Sep 22 - [Taloflow (YC W21) Is Hiring a Front-End Developer (Contract / Project)](https://www.ycombinator.com/companies/taloflow/jobs/kG3E8h1-contract-front-end-developer-for-2-4-week-project)
 - Sep 22 - [Enumerating and analyzing 40 non-V8 JavaScript implementations](https://notes.eatonphil.com/javascript-implementations.html)
-- Sep 22 - [Below: A time travelling resource monitoring tool](https://developers.facebook.com/blog/post/2021/09/21/below-time-travelling-resource-monitoring-tool/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
