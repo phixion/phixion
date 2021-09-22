@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 22 - [The first and last time AIM was hacked](https://g.livejournal.com/8390.html)
 - Sep 22 - [Cosmic Rays Flipping Bits](https://www.johndcook.com/blog/2019/05/20/cosmic-rays-flipping-bits/)
-- Sep 21 - [Earthquake in Melbourne, Australia (9.15 AM 22nd Sep 21, AEST)](https://earthquakes.ga.gov.au/)
+- Sep 21 - [Earthquake in Melbourne, Australia (9.15 AM 22nd Sep 21, AEST)](https://earthquakes.ga.gov.au/event/ga2021sqogij)
 - Sep 21 - [The Open Book Project: open-hardware e-ink eBook reader](https://github.com/joeycastillo/The-Open-Book)
 - Sep 21 - [TikTokers Are Trading Stocks by Copying What Members of Congress Do](https://text.npr.org/1039313011)
-- Sep 21 - [DOJ sues to block domestic alliance between American Airlines and JetBlue](https://www.justice.gov/opa/pr/justice-department-sues-block-unprecedented-domestic-alliance-between-american-airlines-and)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
