@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 22 - [LoRaWAN provider Senet announces agreement with Helium Blockchain project](https://www.senetco.com/about/news/senet-and-helium-announce-lorawan-network-integration-partnership/)
+- Sep 22 - [Workers are often told not to talk about pay. That's not legal](https://www.usatoday.com/story/money/2021/09/21/north-carolina-workers-discuss-wages-despite-workplace-rule/5796705001/)
+- Sep 22 - [Senet and Helium Announce LoRaWAN Network Integration Partnership](https://www.senetco.com/about/news/senet-and-helium-announce-lorawan-network-integration-partnership/)
 - Sep 22 - [Waydroid – Run Android containers on Ubuntu](https://waydro.id/)
 - Sep 22 - [Improve Your Life with Long Error Messages](https://blog.appsignal.com/2021/09/22/improve-your-life-with-long-error-messages.html)
-- Sep 22 - [Xiaomi Phones can detect terms such as “Free Tibet”. Lithuania discovered](https://twitter.com/anneapplebaum/status/1440601477706178560)
-- Sep 22 - [Startup aims to make piloting a jetpack as easy as flying a drone](https://spectrum.ieee.org/will-this-jetpack-fly-itself)
+- Sep 22 - [Lithuania says throw away Chinese phones due to censorship concerns](https://www.reuters.com/business/media-telecom/lithuania-says-throw-away-chinese-phones-due-censorship-concerns-2021-09-21/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
