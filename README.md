@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 22 - [CoinTracker (YC W18) is hiring first PM to make cryptocurrency accessible](https://www.cointracker.io/careers)
+- Sep 22 - [Google Drive of Historical Footage Locked and Flagged as Terrorist Activity](https://support.google.com/drive/thread/127021326/google-has-locked-my-account-for-sharing-a-historical-archive-they-labeled-as-terrorist-activity?hl=en)
+- Sep 22 - [Lab-grown meat companies may be on a billion-dollar crash course with reality](https://thecounter.org/lab-grown-cultivated-meat-cost-at-scale/)
 - Sep 22 - [Micro-Max, a 133-line Chess Source](https://home.hccnet.nl/h.g.muller/max-src2.html)
 - Sep 22 - [How We Got to LiveView](https://fly.io/blog/how-we-got-to-liveview/)
-- Sep 22 - [Walking Trees, Parasitic Flowers, and Other Remarkable Plants](https://thereader.mitpress.mit.edu/walking-trees-parasitic-flowers-remarkable-plants-illustrated-guide/)
-- Sep 22 - [Raspberry Pi KVMs Compared: TinyPilot and Pi-KVM v3](http://www.jeffgeerling.com/blog/2021/raspberry-pi-kvms-compared-tinypilot-and-pi-kvm-v3)
-- Sep 22 - [Understanding Pakistan through the story of Karachi](https://lithub.com/understanding-pakistan-through-the-story-of-karachi/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
