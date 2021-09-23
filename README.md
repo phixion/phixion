@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 23 - [Give Notion the Superpowers of Google Sheets](https://notion2sheets.com/)
+- Sep 23 - [Native-Land.ca – Our home on native land](https://native-land.ca/)
+- Sep 23 - [Mozilla Says Chrome’s Latest Feature Enables Surveillance](https://www.howtogeek.com/756338/mozilla-says-chromes-latest-feature-enables-surveillance/)
 - Sep 23 - [Fourier Series Visualisation with D3](https://bl.ocks.org/jinroh/7524988)
 - Sep 23 - [RedBalloon – The Free Speech Job Board](https://redballoon.work/)
-- Sep 23 - [Facebook paid billions extra to the FTC to spare Zuckerberg in data suit](https://www.politico.com/news/2021/09/21/facebook-paid-billions-extra-to-the-ftc-to-spare-zuckerberg-in-data-suit-shareholders-allege-513456)
-- Sep 23 - [Twitter enables tipping with Bitcoin, plans to let users authenticate NFTs](https://www.theverge.com/2021/9/23/22689806/twitter-bitcoin-lightning-tipping-nft-authentication)
-- Sep 23 - [Tesla pushes U.S. to boost fuel economy penalties](https://www.autonews.com/regulation-safety/tesla-pushes-us-boost-fuel-economy-penalties)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
