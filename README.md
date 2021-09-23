@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 23 - [It costs $436 to deploy a smartcontract on Ethereum](https://twitter.com/eric_khun/status/1440899940453060608)
+- Sep 23 - [EU plans to force OEMs to use a common charger for all phones](https://www.xda-developers.com/eu-plans-common-phone-charger/)
+- Sep 23 - [Delphi 11 Alexandria Has Been Released](https://blog.marcocantu.com/blog/2021-september-delphi-11-released.html)
 - Sep 23 - [Sid Meier and the meaning of ‘Civilization’](https://www.newyorker.com/books/under-review/sid-meier-and-the-meaning-of-civilization)
 - Sep 23 - [Updated WHO global air quality guidelines](https://apps.who.int/iris/handle/10665/345329)
 - Sep 23 - [Haku: A toy functional programming language based on literary Japanese](https://codeberg.org/wimvanderbauwhede/haku)
-- Sep 23 - [New search for MH370 greatly enhanced by breakthrough flight tracking results](https://www.airlineratings.com/news/new-search-for-mh370-greatly-enhanced-by-breakthrough-flight-tracking-results/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
