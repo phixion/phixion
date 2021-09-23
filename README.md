@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 23 - [Binary Banshees and Digital Demons](https://thephd.dev/binary-banshees-digital-demons-abi-c-c++-help-me-god-please)
+- Sep 23 - [Reactive Clojure: You don't need a web framework, you need a web language](https://hyperfiddle.notion.site/hyperfiddle/Reactive-Clojure-You-don-t-need-a-web-framework-you-need-a-web-language-44b5bfa526be4af282863f34fa1cfffc)
 - Sep 23 - [Facebook to testify on kids' safety as lawmakers probe whistleblower revelations](https://www.washingtonpost.com/politics/2021/09/23/facebook-testify-kids-safety-lawmakers-probe-whistleblowers-revelations/)
 - Sep 23 - [Spain will ban selling fruit and vegetables in plastic containers starting 2023](https://www.hortidaily.com/article/9357439/spain-will-ban-selling-fruit-and-vegetables-in-plastic-containers-starting-2023/)
 - Sep 23 - [What Does Evergrande Meltdown Mean for China?](https://carnegieendowment.org/chinafinancialmarkets/85391)
-- Sep 23 - [I Built My New Linux Gaming Desktop in 2021 with AMD (CPU+GPU) and GNU Guix](https://boilingsteam.com/how-i-built-my-new-linux-gaming-desktop-in-2021-with-amd-cpugpu-and-gnu-guix/)
-- Sep 23 - [Apple threatened Facebook ban over slavery posts on Instagram](https://www.bbc.co.uk/news/technology-58645547)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
