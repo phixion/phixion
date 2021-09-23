@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 23 - [Hit Me with a Wrench All You Want, I Can’t Tell You My Password](https://cyounkins.medium.com/hit-me-with-a-wrench-all-you-want-i-cant-tell-you-my-password-7093f516b1f7)
+- Sep 23 - [Fun with Redirection](https://christine.website/blog/fun-with-redirection-2021-09-22)
+- Sep 23 - [Easy-ISLisp](https://github.com/sasagawa888/eisl)
 - Sep 23 - [Skia Shaders in Compose Desktop](https://www.pushing-pixels.org/2021/09/22/skia-shaders-in-compose-desktop.html)
 - Sep 23 - [“A Tour of Grant Imahara's Shop” left untouched since his passing](https://www.youtube.com/watch?v=hsCSTO8SaQU)
 - Sep 23 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- Sep 23 - [Ask HN: Are you also getting extremely obvious spam bypassing Gmail's filters?](https://news.ycombinator.com/item?id=28635313)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
