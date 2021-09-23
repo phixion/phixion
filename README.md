@@ -36,7 +36,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 23 - [Japan’s deep connection to childish relationships (2019)](https://www.bbc.com/future/article/20191212-japans-deep-connection-to-childish-relationships)
-- Sep 23 - [The Ultimate SaaS Template](https://github.com/gmpetrov/utlimate-saas-js)
+- Sep 23 - [The ultimate SaaS template](https://github.com/gmpetrov/utlimate-saas-js)
 - Sep 23 - [I Built My New Linux Gaming Desktop in 2021 with AMD (CPU+GPU) and GNU Guix](https://boilingsteam.com/how-i-built-my-new-linux-gaming-desktop-in-2021-with-amd-cpugpu-and-gnu-guix/)
 - Sep 23 - [EU proposes mandatory USB-C on all devices, including iPhones](https://www.theverge.com/2021/9/23/22626723/eu-commission-universal-charger-usb-c-micro-lightning-connector-smartphones)
 - Sep 23 - [Apple threatened Facebook ban over slavery posts on Instagram](https://www.bbc.co.uk/news/technology-58645547)
