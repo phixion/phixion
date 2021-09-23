@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Sep 22 - [Winged microchip is smallest-ever human-made flying structure](https://news.northwestern.edu/stories/2021/september/microflier-winged-microchip-is-smallest-ever-human-made-flying-structure/)
 - Sep 22 - [Lives of the Most Excellent Painters, Sculptors, and Architects](https://fantasticanachronism.com/2021/09/17/book-review-the-lives-of-the-most-excellent-painters-sculptors-and-architects/)
-- Sep 22 - [Firefox for Android is a mess, and something needs to change](https://blog.nori.moe/firefox-for-android-is-a-mess/)
 - Sep 22 - [CoinTracker (YC W18) is hiring first PM to make cryptocurrency accessible](https://www.cointracker.io/careers)
 - Sep 22 - [JupyterLab Desktop App now available](https://blog.jupyter.org/jupyterlab-desktop-app-now-available-b8b661b17e9a)
+- Sep 22 - [Spotify Box](https://evanhailey.com/2021/09/20/spot-box/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
