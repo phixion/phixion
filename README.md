@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 23 - [Tesla Fans Troll Repair Pro for Fixing Model S for $15,000 Less Than Tesla](https://www.vice.com/en/article/3aqgzn/tesla-fans-troll-repair-pro-for-fixing-model-s-for-dollar15000-less-than-tesla)
 - Sep 23 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 - Sep 23 - [Ask HN: Are you also getting extremely obvious spam bypassing Gmail's filters?](https://news.ycombinator.com/item?id=28635313)
 - Sep 23 - [Slacktyping: I'm typing when you're typing (2018)](https://github.com/will/slacktyping)
 - Sep 23 - [TSA’s “See cash, seize cash” policy](https://twitter.com/jodybarr/status/1440856486280785922)
-- Sep 23 - [AWS SIGv4 and SIGv4A – How AWS signs and verifies API requests](https://shufflesharding.com/posts/aws-sigv4-and-sigv4a)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
