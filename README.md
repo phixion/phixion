@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 23 - [Updated WHO global air quality guidelines](https://apps.who.int/iris/handle/10665/345329)
+- Sep 23 - [New Surface products, built for Windows 11](https://blogs.windows.com/devices/2021/09/22/introducing-new-surface-products-built-for-windows-11/)
 - Sep 23 - [Haku: A toy functional programming language based on literary Japanese](https://codeberg.org/wimvanderbauwhede/haku)
 - Sep 23 - [AWS Region Coming to New Zealand](https://aws.amazon.com/blogs/aws/in-the-works-aws-region-in-new-zealand/)
 - Sep 23 - [Nyxt 2.2.0](https://nyxt.atlas.engineer/article/release-2.2.0.org)
-- Sep 22 - [Show HN: A pattern generator with 1300 shapes and 300 dpi](https://tool.graphics/geometric)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
