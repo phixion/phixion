@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 23 - [Twitter enables tipping with Bitcoin, plans to let users authenticate NFTs](https://www.theverge.com/2021/9/23/22689806/twitter-bitcoin-lightning-tipping-nft-authentication)
+- Sep 23 - [Tesla pushes U.S. to boost fuel economy penalties](https://www.autonews.com/regulation-safety/tesla-pushes-us-boost-fuel-economy-penalties)
+- Sep 23 - [Ask HN: What are some other general link aggregators aside from HN?](https://news.ycombinator.com/item?id=28632002)
 - Sep 23 - [Zendar (YC S17) Is Hiring a Platform Engineer](https://jobs.ashbyhq.com/zendar/ca3dde1b-ad32-43e2-bcde-7bb3c404017c)
 - Sep 23 - [Flying Microchips the Size of a Sand Could Be Used for Population Surveilance](https://www.npr.org/2021/09/23/1040035430/flying-microchip-sand-grain-northwestern-winged)
-- Sep 23 - [Google keeps records of everything you buy, even if you delete the email receipt](https://mastodon.social/@gerowen/106978308085702358)
-- Sep 23 - [Use Two Keyboards at Once for Pain Relief](https://symboliclogic.io/years-of-pain-solved-by-really-obvious-keyboard-tweak/)
-- Sep 23 - [Oliver Burkeman on the flaw with productivity geek thinking](https://thebrowser.com/notes/oliver-burkeman/#geek%2F%2F%2F%2F/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
