@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Sep 23 - [Easy Anti Cheat on Linux, Mac, and Steam Deck](https://dev.epicgames.com/en-US/news/epic-online-services-launches-anti-cheat-support-for-linux-mac-and-steam-deck)
 - Sep 23 - [Give Notion the Superpowers of Google Sheets](https://notion2sheets.com/)
+- Sep 23 - [Catala Lang: DSL designed for deriving implementations from legislative texts](https://catala-lang.org/)
 - Sep 23 - [What the Tibetan Book of the Dead Teaches Us About Life](https://catapult.co/stories/darjeeling-journal-what-the-tibetan-book-of-the-dead-teaches-us-about-life-ann-tashi-slater)
 - Sep 23 - [Native-Land.ca – Our home on native land](https://native-land.ca/)
-- Sep 23 - [Mozilla Says Chrome’s Latest Feature Enables Surveillance](https://www.howtogeek.com/756338/mozilla-says-chromes-latest-feature-enables-surveillance/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
