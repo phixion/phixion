@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 23 - [Sid Meier and the meaning of ‘Civilization’](https://www.newyorker.com/books/under-review/sid-meier-and-the-meaning-of-civilization)
 - Sep 23 - [Updated WHO global air quality guidelines](https://apps.who.int/iris/handle/10665/345329)
 - Sep 23 - [Haku: A toy functional programming language based on literary Japanese](https://codeberg.org/wimvanderbauwhede/haku)
-- Sep 23 - [AWS Region Coming to New Zealand](https://aws.amazon.com/blogs/aws/in-the-works-aws-region-in-new-zealand/)
+- Sep 23 - [New search for MH370 greatly enhanced by breakthrough flight tracking results](https://www.airlineratings.com/news/new-search-for-mh370-greatly-enhanced-by-breakthrough-flight-tracking-results/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
