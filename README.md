@@ -35,9 +35,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 23 - [TSA’s “See cash, seize cash” policy](https://twitter.com/jodybarr/status/1440856486280785922)
 - Sep 23 - [AWS SIGv4 and SIGv4A – How AWS Signs and Verifies API Requests](https://shufflesharding.com/posts/aws-sigv4-and-sigv4a)
 - Sep 23 - [Apple's Texas-Sized Problem](https://daringfireball.net/linked/2021/09/23/apple-texas-sized-problem)
-- Sep 23 - [Epic Games Announce Full Easy Anti-Cheat Support for Linux Incl. Wine and Proton](https://www.gamingonlinux.com/2021/09/epic-games-announce-full-easy-anti-cheat-for-linux-including-wine-a-proton)
 - Sep 23 - [Easy Anti Cheat on Linux, Mac, and Steam Deck](https://dev.epicgames.com/en-US/news/epic-online-services-launches-anti-cheat-support-for-linux-mac-and-steam-deck)
 - Sep 23 - [Give Notion the Superpowers of Google Sheets](https://notion2sheets.com/)
 <!--END_SECTION:hn-->
