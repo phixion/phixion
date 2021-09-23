@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Sep 23 - [Facebook to testify on kids' safety as lawmakers probe whistleblower revelations](https://www.washingtonpost.com/politics/2021/09/23/facebook-testify-kids-safety-lawmakers-probe-whistleblowers-revelations/)
 - Sep 23 - [Spain will ban selling fruit and vegetables in plastic containers starting 2023](https://www.hortidaily.com/article/9357439/spain-will-ban-selling-fruit-and-vegetables-in-plastic-containers-starting-2023/)
-- Sep 23 - [Norway bans gas cars in 2025 but trends point toward 100%EV sales as early April](https://electrek.co/2021/09/23/norway-bans-gas-cars-in-2025-but-trends-point-toward-100-ev-sales-as-early-as-april/)
 - Sep 23 - [What Does Evergrande Meltdown Mean for China?](https://carnegieendowment.org/chinafinancialmarkets/85391)
 - Sep 23 - [I Built My New Linux Gaming Desktop in 2021 with AMD (CPU+GPU) and GNU Guix](https://boilingsteam.com/how-i-built-my-new-linux-gaming-desktop-in-2021-with-amd-cpugpu-and-gnu-guix/)
+- Sep 23 - [Apple threatened Facebook ban over slavery posts on Instagram](https://www.bbc.co.uk/news/technology-58645547)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
