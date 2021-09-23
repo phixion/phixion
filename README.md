@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 23 - [It costs $436 to deploy a smartcontract on Ethereum](https://twitter.com/eric_khun/status/1440899940453060608)
+- Sep 23 - [We Need Software Updates Forever](https://spectrum.ieee.org/we-need-software-updates-forever)
 - Sep 23 - [How people reason their way through echo chambers and what might guide them out](https://www.niemanlab.org/2021/09/this-study-shows-how-people-reason-their-way-through-echo-chambers-and-what-might-guide-them-out/)
 - Sep 23 - [Sid Meier and the meaning of ‘Civilization’](https://www.newyorker.com/books/under-review/sid-meier-and-the-meaning-of-civilization)
 - Sep 23 - [Updated WHO global air quality guidelines](https://apps.who.int/iris/handle/10665/345329)
-- Sep 23 - [Haku: A toy functional programming language based on literary Japanese](https://codeberg.org/wimvanderbauwhede/haku)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
