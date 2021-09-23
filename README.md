@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 23 - [Google keeps records of everything you buy, even if you delete the email receipt](https://mastodon.social/@gerowen/106978308085702358)
 - Sep 23 - [Prometheus Fuels (YC W19) Closes Series B with 1.5B Valuation](https://prometheusfuels.com)
 - Sep 23 - [The NSA and CIA Use Ad Blockers Because Online Advertising is So Dangerous](https://www.vice.com/en/article/93ypke/the-nsa-and-cia-use-ad-blockers-because-online-advertising-is-so-dangerous)
 - Sep 23 - [Binary Banshees and Digital Demons](https://thephd.dev/binary-banshees-digital-demons-abi-c-c++-help-me-god-please)
-- Sep 23 - [Reactive Clojure: You don't need a web framework, you need a web language](https://hyperfiddle.notion.site/hyperfiddle/Reactive-Clojure-You-don-t-need-a-web-framework-you-need-a-web-language-44b5bfa526be4af282863f34fa1cfffc)
-- Sep 23 - [Facebook to testify on kids' safety as lawmakers probe whistleblower revelations](https://www.washingtonpost.com/politics/2021/09/23/facebook-testify-kids-safety-lawmakers-probe-whistleblowers-revelations/)
+- Sep 23 - [Avoiding the audience paradox when writing job descriptions](https://blog.interviewing.io/how-to-write-good-job-descriptions/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
