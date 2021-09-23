@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 23 - [Biomarkers of dairy fat intake, cardiovascular disease, and all-cause mortality](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003763)
 - Sep 23 - [AWS Region Coming to New Zealand](https://aws.amazon.com/blogs/aws/in-the-works-aws-region-in-new-zealand/)
 - Sep 23 - [Nyxt 2.2.0](https://nyxt.atlas.engineer/article/release-2.2.0.org)
+- Sep 22 - [Show HN: A pattern generator with 1300 shapes and 300 dpi](https://tool.graphics/geometric)
 - Sep 22 - [Lives of the Most Excellent Painters, Sculptors, and Architects](https://fantasticanachronism.com/2021/09/17/book-review-the-lives-of-the-most-excellent-painters-sculptors-and-architects/)
-- Sep 22 - [CoinTracker (YC W18) is hiring first PM to make cryptocurrency accessible](https://www.cointracker.io/careers)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
