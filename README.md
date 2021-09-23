@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 23 - [Apple threatened Facebook ban over slavery posts on Instagram](https://www.bbc.co.uk/news/technology-58645547)
+- Sep 23 - [Show HN: Logparser – Alternative to GoAccess Written in Python](https://github.com/lucianmarin/logparser)
 - Sep 23 - [Infracost (YC W21) Is Hiring a Sr Software Engineer: Love Your Cloud Bills](https://www.ycombinator.com/companies/infracost/jobs/9fGDG72-senior-software-engineer)
-- Sep 23 - [Authenticated Boot and Disk Encryption on Linux](http://0pointer.net/blog/authenticated-boot-and-disk-encryption-on-linux.html)
-- Sep 23 - [SR-72 ‘Son of Blackbird’: USAF’s Mach 6 Monster](https://www.19fortyfive.com/2021/09/sr-72-son-of-blackbird-the-air-forces-mach-6-monster/)
-- Sep 23 - [Apple Will Not Reinstate Epic’s Fortnite Developer Account](https://daringfireball.net/2021/09/epic_apple_developer_accounts)
-- Sep 23 - [Google Finally Shifting to “Upstream First” Linux Kernel Approach for Android](https://www.phoronix.com/scan.php?page=news_item&px=Android-Linux-Upstream-First)
+- Sep 23 - [2006: Dwarf Fortress](https://if50.substack.com/p/2006-dwarf-fortress)
+- Sep 23 - [Show HN: Make a job-winning resume in minutes – no sign-up, no subscription](https://luckyresumemaker.com)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
