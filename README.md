@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 23 - [Fourier Series Visualisation with D3](https://bl.ocks.org/jinroh/7524988)
+- Sep 23 - [RedBalloon – The Free Speech Job Board](https://redballoon.work/)
 - Sep 23 - [Facebook paid billions extra to the FTC to spare Zuckerberg in data suit](https://www.politico.com/news/2021/09/21/facebook-paid-billions-extra-to-the-ftc-to-spare-zuckerberg-in-data-suit-shareholders-allege-513456)
 - Sep 23 - [Twitter enables tipping with Bitcoin, plans to let users authenticate NFTs](https://www.theverge.com/2021/9/23/22689806/twitter-bitcoin-lightning-tipping-nft-authentication)
 - Sep 23 - [Tesla pushes U.S. to boost fuel economy penalties](https://www.autonews.com/regulation-safety/tesla-pushes-us-boost-fuel-economy-penalties)
-- Sep 23 - [Zendar (YC S17) Is Hiring a Platform Engineer](https://jobs.ashbyhq.com/zendar/ca3dde1b-ad32-43e2-bcde-7bb3c404017c)
-- Sep 23 - [Flying Microchips Size of a Sand GRAIN Could Be Used for Population Surveilance](https://www.npr.org/2021/09/23/1040035430/flying-microchip-sand-grain-northwestern-winged)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
