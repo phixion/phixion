@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 23 - [Tesla Fans Troll Repair Pro for Fixing Model S for $15,000 Less Than Tesla](https://www.vice.com/en/article/3aqgzn/tesla-fans-troll-repair-pro-for-fixing-model-s-for-dollar15000-less-than-tesla)
+- Sep 23 - [Skia Shaders in Compose Desktop](https://www.pushing-pixels.org/2021/09/22/skia-shaders-in-compose-desktop.html)
 - Sep 23 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 - Sep 23 - [Ask HN: Are you also getting extremely obvious spam bypassing Gmail's filters?](https://news.ycombinator.com/item?id=28635313)
 - Sep 23 - [Slacktyping: I'm typing when you're typing (2018)](https://github.com/will/slacktyping)
