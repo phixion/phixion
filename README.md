@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 23 - [Covid-19 overtakes 1918 Spanish flu as deadliest disease in American history](https://www.statnews.com/2021/09/20/covid-19-set-to-overtake-1918-spanish-flu-as-deadliest-disease-in-american-history/)
 - Sep 23 - [Apple threatened Facebook ban over slavery posts on Instagram](https://www.bbc.co.uk/news/technology-58645547)
 - Sep 23 - [Show HN: Logparser – Alternative to GoAccess Written in Python](https://github.com/lucianmarin/logparser)
 - Sep 23 - [Infracost (YC W21) Is Hiring a Sr Software Engineer: Love Your Cloud Bills](https://www.ycombinator.com/companies/infracost/jobs/9fGDG72-senior-software-engineer)
-- Sep 23 - [2006: Dwarf Fortress](https://if50.substack.com/p/2006-dwarf-fortress)
-- Sep 23 - [Show HN: Make a job-winning resume in minutes – no sign-up, no subscription](https://luckyresumemaker.com)
+- Sep 23 - [He Escaped the Dark Web's Biggest Bust. Now He's Back](https://www.wired.com/story/alphabay-desnake-dark-web-interview/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
