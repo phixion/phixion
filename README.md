@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 23 - [Norway bans gas cars in 2025 but trends point toward 100%EV sales as early April](https://electrek.co/2021/09/23/norway-bans-gas-cars-in-2025-but-trends-point-toward-100-ev-sales-as-early-as-april/)
 - Sep 23 - [What Does Evergrande Meltdown Mean for China?](https://carnegieendowment.org/chinafinancialmarkets/85391)
 - Sep 23 - [Japan’s deep connection to childish relationships (2019)](https://www.bbc.com/future/article/20191212-japans-deep-connection-to-childish-relationships)
-- Sep 23 - [The ultimate SaaS template](https://github.com/gmpetrov/utlimate-saas-js)
+- Sep 23 - [I Built My New Linux Gaming Desktop in 2021 with AMD (CPU+GPU) and GNU Guix](https://boilingsteam.com/how-i-built-my-new-linux-gaming-desktop-in-2021-with-amd-cpugpu-and-gnu-guix/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
