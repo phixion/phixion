@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Sep 23 - [Apple Will Not Reinstate Epic’s Fortnite Developer Account](https://daringfireball.net/2021/09/epic_apple_developer_accounts)
 - Sep 23 - [Google Finally Shifting to “Upstream First” Linux Kernel Approach for Android](https://www.phoronix.com/scan.php?page=news_item&px=Android-Linux-Upstream-First)
+- Sep 23 - [Samoa Scraps Daylight Saving Time (DST)](https://www.timeanddate.com/news/time/samoa-removes-dst.html)
 - Sep 23 - [EU plans to force OEMs to use a common charger for all phones](https://www.xda-developers.com/eu-plans-common-phone-charger/)
 - Sep 23 - [Delphi 11 Alexandria Has Been Released](https://blog.marcocantu.com/blog/2021-september-delphi-11-released.html)
-- Sep 23 - [Sid Meier and the meaning of ‘Civilization’](https://www.newyorker.com/books/under-review/sid-meier-and-the-meaning-of-civilization)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
