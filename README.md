@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 24 - [Neuro (YC W21) Is Hiring Engineers to Build APIs for ML Compute, £40-100k Bath,UK](https://jobs.lever.co/Neuro/20602492-eaf6-4e42-936a-1e2928e851b8)
+- Sep 24 - [Why EFF Flew a Plane over Apple's Headquarters – Electronic Frontier Foundation](https://www.eff.org/deeplinks/2021/09/why-eff-flew-plane-over-apples-headquarters)
 - Sep 24 - [RBoy: A Gameboy Emulator in Rust](https://github.com/mvdnes/rboy)
 - Sep 24 - [Total surveillance law proposed in Serbia](https://www.sharefoundation.info/en/total-surveillance-law-proposed-in-serbia/)
 - Sep 24 - [The world's worst Linux kernel module](https://github.com/davidmalcolm/antipatterns.ko)
-- Sep 24 - [If AT&T Had Managed the Phone Business Like Google](https://tedgioia.substack.com/p/if-at-and-t-had-managed-the-phone)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
