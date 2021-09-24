@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 24 - [Sunlight-driven photocatalytic water splitting for hydrogen production at scale](https://phys.org/news/2021-09-sunlight-driven-photocatalytic-hydrogen-production-scale.html)
+- Sep 24 - [Six reasons the EU should force the iPhone to use USB-C](https://thenextweb.com/news/usb-c-on-iphone)
 - Sep 24 - [Luxury Linux Smartphones](https://tuxphones.com/luxury-linux-phones/)
 - Sep 24 - [Putting a DELL XPS laptop in a bag voids its warranty](https://www.dell.com/community/XPS/FAQ-Modern-Standby/td-p/7514448)
 - Sep 24 - [A note on recent content takedowns](https://www.researchgate.net/blog/post/a-note-on-recent-content-takedowns)
-- Sep 24 - [Opening http://../foo on Android Chrome crashes the browser](https://bugs.chromium.org/p/chromium/issues/detail?id=1252624)
-- Sep 24 - [Neuro (YC W21) Is Hiring Engineers to Build APIs for ML Compute, £40-100k Bath,UK](https://jobs.lever.co/Neuro/20602492-eaf6-4e42-936a-1e2928e851b8)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
