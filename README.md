@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 24 - [San Francisco’s bizarre, costly quest for the perfect trash can](https://missionlocal.org/2021/09/san-francisco-garbage-can-designer/)
 - Sep 24 - [Disclosure of three 0-day iOS vulnerabilities](https://habr.com/en/post/579714/)
 - Sep 24 - [Discontinue Sourcetrail](https://sourcetrail.com/blog/discontinue_sourcetrail/)
 - Sep 23 - [Apple's Power Move to Kneecap Facebook Advertising Is Working](https://bigtechnology.substack.com/p/completely-running-blind-apples-power)
 - Sep 23 - [Know Labs unveils glucose monitor that swaps fingersticks for RF sensors](https://www.fiercebiotech.com/medtech/know-labs-unveils-pocket-sized-glucose-monitor-swaps-fingersticks-for-radiofrequency)
-- Sep 23 - [Show HN: Go playground powered by WASM that runs in the browser](https://go-playground-wasm.vercel.app/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
