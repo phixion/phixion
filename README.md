@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 24 - [John Stossel Sues Facebook for Allegedly Defaming Him with Fact-Check](https://www.hollywoodreporter.com/business/digital/john-stossel-sues-facebook-1235019248/)
 - Sep 24 - [Developers fix multitude of vulnerabilities in Apache HTTP Server](https://portswigger.net/daily-swig/developers-fix-multitude-of-vulnerabilities-in-apache-http-server)
 - Sep 24 - [Pachyderm Is Hiring Senior DevOps, Golang, and Automation and Testing Engineers](https://www.pachyderm.com/careers/#positions)
+- Sep 24 - [10 Year Smartphone](https://10yearphone.com/)
 - Sep 24 - [UC reactor converts carbon dioxide to fuel](https://www.uc.edu/news/articles/2021/09/uc-reactor-converts-carbon-dioxide-to-fuel-to-address-climate-change.html)
-- Sep 24 - [Understanding Startup Offers](https://withcompound.com/manual-company-equity/understanding-startup-offers)
-- Sep 24 - [L.A. County sheriff’s unit accused of targeting political enemies, vocal critics](https://www.latimes.com/california/story/2021-09-23/sheriff-alex-villanueva-secret-police)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
