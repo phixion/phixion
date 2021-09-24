@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 23 - [Deep Learning Helps Researchers Remove Clouds from Satellite Images](https://blogs.nvidia.com/blog/2021/09/23/gans-satellite-images/)
+- Sep 24 - [Discontinue Sourcetrail](https://sourcetrail.com/blog/discontinue_sourcetrail/)
+- Sep 23 - [Know Labs unveils glucose monitor that swaps fingersticks for RF sensors](https://www.fiercebiotech.com/medtech/know-labs-unveils-pocket-sized-glucose-monitor-swaps-fingersticks-for-radiofrequency)
 - Sep 23 - [Show HN: Go playground powered by WASM that runs in the browser](https://go-playground-wasm.vercel.app/)
-- Sep 23 - [Skia Shaders in Compose Desktop](https://www.pushing-pixels.org/2021/09/22/skia-shaders-in-compose-desktop.html)
-- Sep 23 - [“A Tour of Grant Imahara's Shop” left untouched since his passing](https://www.youtube.com/watch?v=hsCSTO8SaQU)
 - Sep 23 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- Sep 23 - [Ask HN: Are you also getting extremely obvious spam bypassing Gmail's filters?](https://news.ycombinator.com/item?id=28635313)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
