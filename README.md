@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 24 - [New Release Grain v0.4 – Cereal](https://grain-lang.org/blog/2021/09/08/new-release-grain-v0.4-cereal/)
 - Sep 24 - [Sunlight-driven photocatalytic water splitting for hydrogen production at scale](https://phys.org/news/2021-09-sunlight-driven-photocatalytic-hydrogen-production-scale.html)
 - Sep 24 - [Six reasons the EU should force the iPhone to use USB-C](https://thenextweb.com/news/usb-c-on-iphone)
 - Sep 24 - [Luxury Linux Smartphones](https://tuxphones.com/luxury-linux-phones/)
 - Sep 24 - [Putting a DELL XPS laptop in a bag voids its warranty](https://www.dell.com/community/XPS/FAQ-Modern-Standby/td-p/7514448)
-- Sep 24 - [A note on recent content takedowns](https://www.researchgate.net/blog/post/a-note-on-recent-content-takedowns)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
