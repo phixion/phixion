@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 24 - [Teenager on TikTok Disrupted Thousands of Scientific Studies with a Single Video](https://www.theverge.com/2021/9/24/22688278/tiktok-science-study-survey-prolific)
+- Sep 24 - [A single person answered 76,229 questions about SQL on StackOverflow](https://stackoverflow.com/nocaptcha?s=f29968b0-76eb-45d9-8d63-95c38f69a4a4)
+- Sep 24 - [Many Believe It's Time to Do Away with Lawmakers Making Stock Trades](https://www.npr.org/2021/09/22/1039565467/many-believe-its-time-to-do-away-with-lawmakers-making-stock-trades)
+- Sep 24 - [Are NFTs Status Symbols?](https://dirt.substack.com/p/dirt-are-nfts-status-symbols)
 - Sep 24 - [Asynchronous Programming in C#](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
-- Sep 24 - [Submarine cable map rendered onto a globe](https://globe.gl/example/submarine-cables/)
-- Sep 24 - [Ruin Marble](https://en.wikipedia.org/wiki/Ruin_marble)
-- Sep 24 - [Qventus (YC W15) Is Hiring a Senior Full Stack Engineer](https://jobs.lever.co/qventus/3f29db7c-a1c6-4c67-abf6-fb0d5b965bba)
+- Sep 24 - [The Endangered Internet Archive Is Full of Treasures](https://gizmodo.com/the-endangered-internet-archive-is-full-of-treasures-1844145442)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
