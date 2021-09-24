@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 24 - [The Ten Commandments of Salary Negotiation](https://www.lennysnewsletter.com/p/negotiating-comp)
+- Sep 24 - [Wyoming natural gas flared for cryptocurrency mining exempt from taxation](https://oilcity.news/wyoming/legislature/2021/04/15/gordon-signs-bill-exempting-wyoming-natural-gas-flared-for-cryptocurrency-mining-from-taxation/)
 - Sep 24 - [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 - Sep 24 - [Unlocked OS Build for the Oculus Go](https://twitter.com/id_aa_carmack/status/1441496416463904768)
 - Sep 24 - [America is substantially reducing poverty among children](https://www.economist.com/united-states/america-is-substantially-reducing-poverty-among-children/21804765)
-- Sep 24 - [Deep Learning's Diminishing Returns](https://spectrum.ieee.org/deep-learning-computational-cost)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
