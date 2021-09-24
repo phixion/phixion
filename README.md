@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 24 - [Putting a DELL XPS laptop in a bag voids its warranty](https://www.dell.com/community/XPS/FAQ-Modern-Standby/td-p/7514448)
 - Sep 24 - [Opening http://../foo on Android Chrome crashes the browser](https://bugs.chromium.org/p/chromium/issues/detail?id=1252624)
 - Sep 24 - [Neuro (YC W21) Is Hiring Engineers to Build APIs for ML Compute, £40-100k Bath,UK](https://jobs.lever.co/Neuro/20602492-eaf6-4e42-936a-1e2928e851b8)
 - Sep 24 - [Why EFF Flew a Plane over Apple's Headquarters – Electronic Frontier Foundation](https://www.eff.org/deeplinks/2021/09/why-eff-flew-plane-over-apples-headquarters)
 - Sep 24 - [RBoy: A Gameboy Emulator in Rust](https://github.com/mvdnes/rboy)
-- Sep 24 - [Total surveillance law proposed in Serbia](https://www.sharefoundation.info/en/total-surveillance-law-proposed-in-serbia/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
