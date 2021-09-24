@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 24 - [Ask HN: Why doesn't HN scrub this train emoji?](https://news.ycombinator.com/item?id=28639075)
+- Sep 24 - [Neuro (YC W21) Is Hiring Engineers to Build APIs for ML Compute, £40-100k Bath,UK](https://jobs.lever.co/Neuro/20602492-eaf6-4e42-936a-1e2928e851b8)
 - Sep 24 - [RBoy: A Gameboy Emulator in Rust](https://github.com/mvdnes/rboy)
 - Sep 24 - [The world's worst Linux kernel module](https://github.com/davidmalcolm/antipatterns.ko)
 - Sep 24 - [Tesla Model S locks up in the middle of a highway](https://twitter.com/repkord/status/1440908464625106946)
