@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 24 - [UC reactor converts carbon dioxide to fuel to address climate change](https://www.uc.edu/news/articles/2021/09/uc-reactor-converts-carbon-dioxide-to-fuel-to-address-climate-change.html)
-- Sep 24 - [History of The Atlantic Cable and Undersea Communications](https://atlantic-cable.com/)
-- Sep 24 - [New Leaked Documents Point to Engineered Lab Origin for SARS‑CoV‑2](https://theintercept.com/2021/09/23/coronavirus-research-grant-darpa/)
+- Sep 24 - [L.A. County sheriff’s unit accused of targeting political enemies, vocal critics](https://www.latimes.com/california/story/2021-09-23/sheriff-alex-villanueva-secret-police)
 - Sep 24 - [Collections: No Man’s Land, Part II: Breaking the Stalemate](https://acoup.blog/2021/09/24/collections-no-mans-land-part-ii-breaking-the-stalemate/)
 - Sep 24 - [Disappearing Bicyclist Puzzle – Sam Loyd](https://www.geogebra.org/m/hypuahfc)
+- Sep 24 - [We Killed Our End-to-End Test Suite](https://building.nubank.com.br/why-we-killed-our-end-to-end-test-suite/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
