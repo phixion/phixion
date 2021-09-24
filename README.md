@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 24 - [One-size-fits-all chargers? What a great idea Of course Apple would hate it](https://www.theregister.com/2021/09/23/eu_one_charger_plan/)
+- Sep 24 - [Asynchronous Programming in C#](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
 - Sep 24 - [Ruin Marble](https://en.wikipedia.org/wiki/Ruin_marble)
 - Sep 24 - [Qventus (YC W15) Is Hiring a Senior Full Stack Engineer](https://jobs.lever.co/qventus/3f29db7c-a1c6-4c67-abf6-fb0d5b965bba)
 - Sep 24 - [‘The Contrarian’ Goes Searching for Peter Thiel’s Elusive Core](https://www.nytimes.com/2021/09/13/books/review-contrarian-peter-thiel-silicon-valley-max-chafkin.html)
-- Sep 24 - [Bitcoin falls as China declares crypto ‘illegal’](https://dailybusinessgroup.co.uk/2021/09/bitcoin-falls-as-china-declares-crypto-illegal/)
-- Sep 24 - [Show HN: Bomberland – An AI competition to build the best Bomberman bot](https://www.gocoder.one/bomberland)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
