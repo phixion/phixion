@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 24 - [Ask HN: Why doesn't HN scrub this train emoji?](https://news.ycombinator.com/item?id=28639075)
 - Sep 24 - [RBoy: A Gameboy Emulator in Rust](https://github.com/mvdnes/rboy)
 - Sep 24 - [The world's worst Linux kernel module](https://github.com/davidmalcolm/antipatterns.ko)
 - Sep 24 - [Tesla Model S locks up in the middle of a highway](https://twitter.com/repkord/status/1440908464625106946)
 - Sep 24 - [If AT&T Had Managed the Phone Business Like Google](https://tedgioia.substack.com/p/if-at-and-t-had-managed-the-phone)
-- Sep 24 - [San Francisco’s bizarre, costly quest for the perfect trash can](https://missionlocal.org/2021/09/san-francisco-garbage-can-designer/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
