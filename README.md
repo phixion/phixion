@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 24 - [Qventus (YC W15) Is Hiring a Senior Full Stack Engineer](https://jobs.lever.co/qventus/3f29db7c-a1c6-4c67-abf6-fb0d5b965bba)
 - Sep 24 - [Bitcoin falls as China declares crypto ‘illegal’](https://dailybusinessgroup.co.uk/2021/09/bitcoin-falls-as-china-declares-crypto-illegal/)
 - Sep 24 - [Show HN: Bomberland – An AI competition to build the best Bomberman bot](https://www.gocoder.one/bomberland)
+- Sep 24 - [Cryptocurrency Bad and Weird – This Is All What It Looks Like](https://defector.com/cryptocurrency-bad-and-weird/)
 - Sep 24 - [New Release Grain v0.4 – Cereal](https://grain-lang.org/blog/2021/09/08/new-release-grain-v0.4-cereal/)
-- Sep 24 - [Sunlight-driven photocatalytic water splitting for hydrogen production at scale](https://phys.org/news/2021-09-sunlight-driven-photocatalytic-hydrogen-production-scale.html)
-- Sep 24 - [Luxury Linux Smartphones](https://tuxphones.com/luxury-linux-phones/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
