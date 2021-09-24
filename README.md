@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 24 - [Show HN: Machine Learning for Google Sheets](https://www.magicsheets.io/)
-- Sep 24 - [Apple is researching ways to identify signs of childhood autism through iPhones](https://startuptoenterprise.com/after-suspending-child-photo-abuse-feature-iphone-to-scan-autism/)
-- Sep 24 - [Gennady Korotkevich – “tourist”](https://codeforces.com/profile/tourist)
-- Sep 24 - [Food fraud and counterfeit cotton: Detectives untangling the global supply chain](https://www.theguardian.com/news/2021/sep/16/food-fraud-counterfeit-cotton-detectives-untangling-global-supply-chain)
-- Sep 24 - [Summarizing Books with Human Feedback](https://openai.com/blog/summarizing-books/)
+- Sep 24 - [UC reactor converts carbon dioxide to fuel to address climate change](https://www.uc.edu/news/articles/2021/09/uc-reactor-converts-carbon-dioxide-to-fuel-to-address-climate-change.html)
+- Sep 24 - [History of The Atlantic Cable and Undersea Communications](https://atlantic-cable.com/)
+- Sep 24 - [New Leaked Documents Point to Engineered Lab Origin for SARS‑CoV‑2](https://theintercept.com/2021/09/23/coronavirus-research-grant-darpa/)
+- Sep 24 - [Collections: No Man’s Land, Part II: Breaking the Stalemate](https://acoup.blog/2021/09/24/collections-no-mans-land-part-ii-breaking-the-stalemate/)
+- Sep 24 - [Disappearing Bicyclist Puzzle – Sam Loyd](https://www.geogebra.org/m/hypuahfc)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
