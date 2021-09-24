@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 24 - [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- Sep 24 - [Corporations Paid $0 in Federal Taxes on 2020 Profits](https://itep.org/55-profitable-corporations-zero-corporate-tax/)
 - Sep 24 - [America is substantially reducing poverty among children](https://www.economist.com/united-states/america-is-substantially-reducing-poverty-among-children/21804765)
 - Sep 24 - [Deep Learning's Diminishing Returns](https://spectrum.ieee.org/deep-learning-computational-cost)
 - Sep 24 - [200k-year-old hand art found near a Tibetan hot spring](https://gizmodo.com/200-000-year-old-hand-art-found-near-a-tibetan-hot-spri-1847682046)
+- Sep 24 - [John Stossel sues Facebook for allegedly defaming him with fact-check](https://www.hollywoodreporter.com/business/digital/john-stossel-sues-facebook-1235019248/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
