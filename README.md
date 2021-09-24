@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 24 - [Teenager on TikTok Disrupted Thousands of Scientific Studies with a Single Video](https://www.theverge.com/2021/9/24/22688278/tiktok-science-study-survey-prolific)
 - Sep 24 - [Asynchronous Programming in C#](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
 - Sep 24 - [Submarine cable map rendered onto a globe](https://globe.gl/example/submarine-cables/)
 - Sep 24 - [Ruin Marble](https://en.wikipedia.org/wiki/Ruin_marble)
 - Sep 24 - [Qventus (YC W15) Is Hiring a Senior Full Stack Engineer](https://jobs.lever.co/qventus/3f29db7c-a1c6-4c67-abf6-fb0d5b965bba)
-- Sep 24 - [Examining Btrfs, Linux's perpetually half finished file system](https://arstechnica.com/gadgets/2021/09/examining-btrfs-linuxs-perpetually-half-finished-filesystem/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
