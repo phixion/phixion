@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 24 - [Sexy Cyncism and Nihilist Elitism](https://meaningness.com/nihilist-elitism)
+- Sep 24 - [Researchers Add a Twist of Light for Optical Quantum Computing Approach](https://thequantumdaily.com/2021/09/22/researchers-add-a-twist-of-light-for-optical-quantum-computing-approach/)
 - Sep 24 - [John Stossel Sues Facebook for Allegedly Defaming Him with Fact-Check](https://www.hollywoodreporter.com/business/digital/john-stossel-sues-facebook-1235019248/)
 - Sep 24 - [Developers fix multitude of vulnerabilities in Apache HTTP Server](https://portswigger.net/daily-swig/developers-fix-multitude-of-vulnerabilities-in-apache-http-server)
 - Sep 24 - [Pachyderm Is Hiring Senior DevOps, Golang, and Automation and Testing Engineers](https://www.pachyderm.com/careers/#positions)
-- Sep 24 - [10 Year Smartphone](https://10yearphone.com/)
-- Sep 24 - [UC reactor converts carbon dioxide to fuel](https://www.uc.edu/news/articles/2021/09/uc-reactor-converts-carbon-dioxide-to-fuel-to-address-climate-change.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
