@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 24 - [tourist (Gennady Korotkevich)](https://codeforces.com/profile/tourist)
-- Sep 24 - [The detectives untangling the global supply chain](https://www.theguardian.com/news/2021/sep/16/food-fraud-counterfeit-cotton-detectives-untangling-global-supply-chain)
+- Sep 24 - [Show HN: Machine Learning for Google Sheets](https://www.magicsheets.io/)
+- Sep 24 - [Apple is researching ways to identify signs of childhood autism through iPhones](https://startuptoenterprise.com/after-suspending-child-photo-abuse-feature-iphone-to-scan-autism/)
+- Sep 24 - [Gennady Korotkevich – “tourist”](https://codeforces.com/profile/tourist)
+- Sep 24 - [Food fraud and counterfeit cotton: Detectives untangling the global supply chain](https://www.theguardian.com/news/2021/sep/16/food-fraud-counterfeit-cotton-detectives-untangling-global-supply-chain)
 - Sep 24 - [Summarizing Books with Human Feedback](https://openai.com/blog/summarizing-books/)
-- Sep 24 - [Energy Compensation and Adiposity in Humans](https://www.sciencedirect.com/science/article/pii/S0960982221011209)
-- Sep 24 - [ExpressVPN employees complain about ex-spy's top role at company](https://www.reuters.com/technology/expressvpn-employees-complain-about-ex-spys-top-role-company-2021-09-23/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
