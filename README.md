@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 24 - [ExpressVPN employees complain about ex-spy's top role at company](https://www.reuters.com/technology/expressvpn-employees-complain-about-ex-spys-top-role-company-2021-09-23/)
+- Sep 24 - [iPhone 13 Pro camera review: Tanzania](https://austinmann.com/trek/iphone-13-pro-camera-review-tanzania)
 - Sep 24 - [China Bans Crypto Mining: Chinese Crypto Traders at Loss](https://startuptoenterprise.com/china-bans-crypto-mining-chinese-crypto-traders-at-loss/)
 - Sep 24 - [A single person answered 76k questions about SQL on StackOverflow](https://stackoverflow.com/nocaptcha?s=f29968b0-76eb-45d9-8d63-95c38f69a4a4)
 - Sep 24 - [Many Believe It's Time to Do Away with Lawmakers Making Stock Trades](https://www.npr.org/2021/09/22/1039565467/many-believe-its-time-to-do-away-with-lawmakers-making-stock-trades)
-- Sep 24 - [Are NFTs Status Symbols?](https://dirt.substack.com/p/dirt-are-nfts-status-symbols)
-- Sep 24 - [Show HN: Building an Airtable Front End Using Low-Code](https://www.dronahq.com/build-airtable-frontend/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
