@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 25 - [In search of the perfect URL validation regex (2010)](https://mathiasbynens.be/demo/url-regex)
 - Sep 25 - [Flexport is hiring people who want to help uncork global supply chains](https://www.flexport.com/careers)
 - Sep 25 - [Apple Is Working on iPhone Features to Help Detect Depression, Cognitive Decline](https://www.wsj.com/articles/apple-wants-iphones-to-help-detect-depression-cognitive-decline-sources-say-11632216601)
+- Sep 25 - [All 16,777,216 RGB colours](http://davidnaylor.org/blog/2005/02/all-16777216-rgb-colours/)
 - Sep 25 - [Arctic World Archive Adds Latest Data Deposit in Svalbard Facility](https://www.datacenterdynamics.com/en/news/arctic-world-archive-adds-latest-data-deposit-in-svalbard-facility/)
-- Sep 25 - [Firefox Addons Unable to Update, Undisclosed AMO Issues](https://discourse.mozilla.org/t/can-anyone-release-extensions-right-now-to-me-it-looks-like-addons-mozilla-org-is-critically-broken/84830)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
