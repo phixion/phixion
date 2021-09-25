@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 25 - [Bandwidth is experiencing a major outage](https://status.bandwidth.com)
+- Sep 25 - [Why Telegram had to follow Apple and Google when they suspended a voting app](https://telegra.ph/Why-Telegram-had-to-follow-Apple-and-Google-when-they-suspended-a-voting-app-09-25)
 - Sep 25 - [Fedora Workstation: Our Vision for Linux Desktop](https://blogs.gnome.org/uraeus/2021/09/24/fedora-workstation-our-vision-for-linux-desktop/)
 - Sep 25 - [Thermal Grill Illusion](https://en.wikipedia.org/wiki/Thermal_grill_illusion)
 - Sep 25 - [Code Review from the Command Line](https://blog.jez.io/cli-code-review/)
-- Sep 25 - [Maybe the Spaghetti Code Conjecture Is False](https://nickdrozd.github.io/2021/09/25/spaghetti-code-conjecture-false.html)
-- Sep 25 - [The Case for ‘Developer Experience’](https://future.a16z.com/the-case-for-developer-experience/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
