@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 25 - [“The most scarily/stunningly impressive linguistic feat I’ve ever seen“](https://twitter.com/mattgemmell/status/1441497498573545478)
+- Sep 25 - [New insights into the existing image encryption algorithms based on DNA coding](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7584250/)
 - Sep 25 - [All businesses will eventually turn into subscriptions](https://blog.viveksrinivasan.com/p/subscriptions-learning-by-proxy)
 - Sep 25 - [Grommunio an open source Exchange replacement](https://grommunio.com/)
 - Sep 25 - [The Missions of Astronomy (2009)](https://nybooks.com/articles/2009/10/22/the-missions-of-astronomy/)
-- Sep 25 - [A Guide to the Georgian Coaching Inn](https://about1816.wordpress.com/2021/09/23/a-guide-to-the-georgian-coaching-inn/)
-- Sep 25 - [The grandfather of modern self-help](https://3quarksdaily.com/3quarksdaily/2021/09/the-grandfather-of-modern-self-help.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
