@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 25 - [“The most scarily/stunningly impressive linguistic feat I’ve ever seen“](https://twitter.com/mattgemmell/status/1441497498573545478)
 - Sep 25 - [New insights into the existing image encryption algorithms based on DNA coding](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7584250/)
 - Sep 25 - [Grommunio an open source Exchange replacement](https://grommunio.com/)
-- Sep 25 - [The Missions of Astronomy (2009)](https://nybooks.com/articles/2009/10/22/the-missions-of-astronomy/)
 - Sep 25 - [A Guide to the Georgian Coaching Inn](https://about1816.wordpress.com/2021/09/23/a-guide-to-the-georgian-coaching-inn/)
+- Sep 25 - [Lessons learned from running GraphQL at scale](https://blog.dream11engineering.com/lessons-learned-from-running-graphql-at-scale-2ad60b3cefeb)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
