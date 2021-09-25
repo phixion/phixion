@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 25 - [Copyright claims on YouTube Bach videos](https://www.youtube.com/watch?v=YfF4D5x_UTE)
-- Sep 25 - [Did a Chinese hack kill Canada's greatest tech company? (2020)](http://www.bnnbloomberg.ca/did-a-chinese-hack-kill-canada-s-greatest-tech-company-1.1459269)
+- Sep 25 - [When the FBI seizes your messages from Big Tech, you may not know it for years](https://www.washingtonpost.com/technology/2021/09/25/tech-subpoena-secrecy-fight/)
+- Sep 25 - [Did a Chinese hack kill Nortel? (2020)](http://www.bnnbloomberg.ca/did-a-chinese-hack-kill-canada-s-greatest-tech-company-1.1459269)
 - Sep 25 - [The Perfect Voxel Engine](https://voxely.net/blog/the-perfect-voxel-engine/)
 - Sep 25 - [Modern Communication: Sockets](https://ocaml.github.io/ocamlunix/sockets.html)
-- Sep 25 - [Closest known relatives of virus behind Covid-19 found in Laos](https://www.nature.com/articles/d41586-021-02596-2?error=cookies_not_supported&code=99d71081-fa4f-4589-aa71-68669d32302f)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
