@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 25 - [The Implications of Low Cholesterol in Depression and Suicide](https://www.greatplainslaboratory.com/articles-1/2015/11/13/the-implications-of-low-cholesterol-in-depression-and-suicide)
+- Sep 25 - [The Implications Of Low Cholesterol In Depression And Suicide (2015)](https://www.greatplainslaboratory.com/articles-1/2015/11/13/the-implications-of-low-cholesterol-in-depression-and-suicide)
 - Sep 25 - [Visualize 3D hyperbolic honeycombs and sphere packings](https://github.com/neozhaoliang/Hyperbolic-Honeycombs)
 - Sep 25 - [Open Source Jobs Report](https://www.linuxfoundation.org/resources/publications/open-source-jobs-report-2021/)
 - Sep 25 - [Heimdal (YC S21) Is Hiring an Electrical Engineer](https://www.ycombinator.com/companies/heimdal/jobs/MnF3GwV-electrical-engineer-carbon-capture)
