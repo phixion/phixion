@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 24 - [Lockdown Insanity: Broken Records, Broken Lives](https://billmuehlenberg.com/2021/09/23/lockdown-insanity-broken-records-broken-lives/)
 - Sep 24 - [A monk in 14th-century Italy wrote about the Americas](https://www.economist.com/the-americas/2021/09/25/a-monk-in-14th-century-italy-wrote-about-the-americas)
-- Sep 24 - [New Site Tracking Reported Tesla Fires](https://www.tesla-fire.com/)
-- Sep 24 - [As More Workers Go Solo, the Software Stack Is the New Firm – Future](https://future.a16z.com/solo-workers-software-stack/)
 - Sep 24 - [Ten Commandments of Salary Negotiation](https://www.lennysnewsletter.com/p/negotiating-comp)
 - Sep 24 - [Wyoming natural gas flared for cryptocurrency mining exempt from taxation](https://oilcity.news/wyoming/legislature/2021/04/15/gordon-signs-bill-exempting-wyoming-natural-gas-flared-for-cryptocurrency-mining-from-taxation/)
+- Sep 24 - [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
