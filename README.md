@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 25 - [Apple Is Working on iPhone Features to Help Detect Depression, Cognitive Decline](https://www.wsj.com/articles/apple-wants-iphones-to-help-detect-depression-cognitive-decline-sources-say-11632216601)
 - Sep 25 - [Firefox Addons Unable to Update, Undisclosed AMO Issues](https://discourse.mozilla.org/t/can-anyone-release-extensions-right-now-to-me-it-looks-like-addons-mozilla-org-is-critically-broken/84830)
 - Sep 25 - [Paint.NET 4.3 is now available](https://blog.getpaint.net/2021/09/22/paint-net-4-3-is-now-available/)
 - Sep 25 - [TheseToonsDoNotExist: StyleGAN2-ADA trained on CG cartoon faces](http://www.thesetoonsdonotexist.com/)
 - Sep 25 - [Google CEO allegedly sought to keep Incognito mode issues out of spotlight](https://www.reuters.com/technology/google-ceo-sought-keep-incognito-mode-issues-out-spotlight-lawsuit-alleges-2021-09-24/)
-- Sep 25 - [Create, train and run Scikit-learn and TensorFlow models in Excel](https://predictionlaboratory.com)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
