@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 25 - [Thermal Grill Illusion](https://en.wikipedia.org/wiki/Thermal_grill_illusion)
+- Sep 25 - [Code Review from the Command Line](https://blog.jez.io/cli-code-review/)
 - Sep 25 - [Maybe the Spaghetti Code Conjecture Is False](https://nickdrozd.github.io/2021/09/25/spaghetti-code-conjecture-false.html)
 - Sep 25 - [The Case for ‘Developer Experience’](https://future.a16z.com/the-case-for-developer-experience/)
 - Sep 25 - [In search of the perfect URL validation regex (2010)](https://mathiasbynens.be/demo/url-regex)
-- Sep 25 - [OpenTTD 12.0-RC1](https://www.openttd.org/news/2021/09/25/openttd-12-0-rc1.html)
-- Sep 25 - [Fast PCIe 5.0 SSD prototype hits sequential read speeds of 14,000 MB/s](https://www.notebookcheck.net/Blazing-fast-PCIe-5-0-SSD-prototype-hits-sequential-read-speeds-of-14-000-MB-s.564595.0.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
