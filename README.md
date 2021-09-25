@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 25 - [Did a Chinese hack kill Canada's greatest tech company? (2020)](http://www.bnnbloomberg.ca/did-a-chinese-hack-kill-canada-s-greatest-tech-company-1.1459269)
 - Sep 25 - [Modern Communication: Sockets](https://ocaml.github.io/ocamlunix/sockets.html)
 - Sep 25 - [Closest known relatives of virus behind Covid-19 found in Laos](https://www.nature.com/articles/d41586-021-02596-2?error=cookies_not_supported&code=99d71081-fa4f-4589-aa71-68669d32302f)
 - Sep 25 - [What will programming look like in 2020? （from lambda-the-untimate)](http://lambda-the-ultimate.org/node/4655)
 - Sep 25 - [Tesorio (YC S15) is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
-- Sep 25 - [Bandwidth is experiencing a major outage](https://status.bandwidth.com)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
