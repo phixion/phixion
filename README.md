@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 25 - [Demonopolizing the Internet with Interoperability](https://pluralistic.net/2021/09/24/comcom-acm/)
+- Sep 25 - [AS13335 doing SSH scanning](https://encryp.ch/blog/cloudflare-abuses-22-tcp/)
 - Sep 25 - [Speech Synthesis on Linux (2020)](https://darkshadow.io/2020/08/01/speech-synthesis-on-linux.html)
 - Sep 25 - [“The most scarily/stunningly impressive linguistic feat I’ve ever seen“](https://twitter.com/mattgemmell/status/1441497498573545478)
 - Sep 25 - [New insights into the existing image encryption algorithms based on DNA coding](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7584250/)
-- Sep 25 - [Is the touch sensitive iPod going to be a reality? (2006)](https://web.archive.org/web/20060220062810/http://hrmpf.com/wordpress/54/touch-sensitive-ipod/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
