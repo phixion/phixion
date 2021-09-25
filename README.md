@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 25 - [How to Make Housing More Affordable](https://www.hoover.org/research/how-make-housing-more-affordable)
 - Sep 25 - [In search of the perfect URL validation regex (2010)](https://mathiasbynens.be/demo/url-regex)
 - Sep 25 - [Fast PCIe 5.0 SSD prototype hits sequential read speeds of 14,000 MB/s](https://www.notebookcheck.net/Blazing-fast-PCIe-5-0-SSD-prototype-hits-sequential-read-speeds-of-14-000-MB-s.564595.0.html)
 - Sep 25 - [Flexport is hiring people who want to help uncork global supply chains](https://www.flexport.com/careers)
 - Sep 25 - [Apple Is Working on iPhone Features to Help Detect Depression, Cognitive Decline](https://www.wsj.com/articles/apple-wants-iphones-to-help-detect-depression-cognitive-decline-sources-say-11632216601)
-- Sep 25 - [All 16,777,216 RGB colours](http://davidnaylor.org/blog/2005/02/all-16777216-rgb-colours/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
