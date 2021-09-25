@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 25 - [EU Is Warned Green Label for Gas Would Be ‘Disastrous’ Mistake](https://www.bloomberg.com/news/articles/2021-09-22/eu-is-warned-green-label-for-gas-would-be-disastrous-mistake)
+- Sep 25 - [Pope Francis and Other Christian Leaders Are Calling for Bold Climate Action](https://text.npr.org/2021/09/10/1035653392/pope-francis-and-other-christian-leaders-are-calling-for-bold-climate-action)
 - Sep 25 - [Italy wants an exception to Europe's gas-engine ban for Ferrari, Lamborghini](https://driving.ca/auto-news/industry/italy-wants-an-exception-to-europes-combustion-engine-ban-for-ferrari-lamborghini)
 - Sep 25 - [Demonopolizing the Internet with Interoperability](https://pluralistic.net/2021/09/24/comcom-acm/)
 - Sep 25 - [AS13335 doing SSH scanning](https://encryp.ch/blog/cloudflare-abuses-22-tcp/)
-- Sep 25 - [Speech Synthesis on Linux (2020)](https://darkshadow.io/2020/08/01/speech-synthesis-on-linux.html)
-- Sep 25 - [“The most scarily/stunningly impressive linguistic feat I’ve ever seen“](https://twitter.com/mattgemmell/status/1441497498573545478)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
