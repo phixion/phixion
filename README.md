@@ -35,9 +35,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 25 - [How to Make Housing More Affordable](https://www.hoover.org/research/how-make-housing-more-affordable)
 - Sep 25 - [The Case for ‘Developer Experience’](https://future.a16z.com/the-case-for-developer-experience/)
 - Sep 25 - [In search of the perfect URL validation regex (2010)](https://mathiasbynens.be/demo/url-regex)
+- Sep 25 - [OpenTTD 12.0-RC1](https://www.openttd.org/news/2021/09/25/openttd-12-0-rc1.html)
 - Sep 25 - [Fast PCIe 5.0 SSD prototype hits sequential read speeds of 14,000 MB/s](https://www.notebookcheck.net/Blazing-fast-PCIe-5-0-SSD-prototype-hits-sequential-read-speeds-of-14-000-MB-s.564595.0.html)
 - Sep 25 - [Flexport is hiring people who want to help uncork global supply chains](https://www.flexport.com/careers)
 <!--END_SECTION:hn-->
