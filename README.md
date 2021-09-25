@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 25 - [Firefox Addons Unable to Update, Undisclosed AMO Issues](https://discourse.mozilla.org/t/can-anyone-release-extensions-right-now-to-me-it-looks-like-addons-mozilla-org-is-critically-broken/84830)
+- Sep 25 - [TheseToonsDoNotExist: StyleGAN2-ADA trained on CG cartoon faces](http://www.thesetoonsdonotexist.com/)
+- Sep 25 - [A hamster has been trading cryptocurrencies in a cage](https://markets.businessinsider.com/news/currencies/hamster-trading-cryptocurrencies-rigged-cage-goxx-bitcoin-price-ether-doge-2021-9)
 - Sep 25 - [Google CEO allegedly sought to keep Incognito mode issues out of spotlight](https://www.reuters.com/technology/google-ceo-sought-keep-incognito-mode-issues-out-spotlight-lawsuit-alleges-2021-09-24/)
-- Sep 25 - [The Implications Of Low Cholesterol In Depression And Suicide (2015)](https://www.greatplainslaboratory.com/articles-1/2015/11/13/the-implications-of-low-cholesterol-in-depression-and-suicide)
-- Sep 25 - [Visualize 3D hyperbolic honeycombs and sphere packings](https://github.com/neozhaoliang/Hyperbolic-Honeycombs)
-- Sep 25 - [Open Source Jobs Report](https://www.linuxfoundation.org/resources/publications/open-source-jobs-report-2021/)
+- Sep 25 - [Create, train and run Scikit-learn and TensorFlow models in Excel](https://predictionlaboratory.com)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
