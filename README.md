@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 26 - [Clearview AI hits watchdog groups with subpoenas](https://www.politico.com/news/2021/09/24/clearview-ai-subpoena-watchdog-groups-514273)
+- Sep 26 - [How great is the great firewall? Measuring China’s DNS censorship [pdf]](https://www.usenix.org/system/files/sec21-hoang.pdf)
 - Sep 26 - [The Problem of Marital Loneliness](https://www.newyorker.com/culture/cultural-comment/the-problem-of-marital-loneliness)
 - Sep 26 - [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28657485)
 - Sep 26 - [JSFuck (2012)](http://www.jsfuck.com/)
-- Sep 26 - [Napster.com banned at some universities for clogging networks (2000)](https://www.iowastatedaily.com/napster-com-banned-at-some-universities-for-clogging-networks/article_23a8a315-cccc-5e15-9fdc-19145e034d3b.html)
-- Sep 25 - [Found a program I wrote in 1981 and decided to bring it back to life](https://madned.substack.com/p/the-dead-code-diaries)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
