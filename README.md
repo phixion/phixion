@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Sep 26 - [“Death” one of 5 ways to lose at Chess, according to PGN standard](http://www.saremba.de/chessgml/standards/pgn/pgn-complete.htm#c9.8.1)
 - Sep 26 - [Getting Started with GitHub Actions with Python](https://ghapi.fast.ai/tutorial_actions.html)
+- Sep 26 - [Ask HN: How do you do estimates in 2021?](https://news.ycombinator.com/item?id=28662856)
 - Sep 26 - [Are There More Surviving Ancient Writings in Greek or Latin?](https://talesoftimesforgotten.com/2021/09/25/are-there-more-surviving-ancient-writings-in-greek-or-latin/)
 - Sep 26 - [Show HN: Best UI Online Design Resources](https://uionline.io/)
-- Sep 26 - [EasyPost (YC S13) Is Hiring (Remote)](https://www.easypost.com/careers)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
