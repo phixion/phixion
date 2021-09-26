@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 26 - [A notable JavaScript developer shamelessly copied one of my most downloaded nod](https://twitter.com/jorgebucaran/status/1441713235980275718)
 - Sep 26 - [Facebook's Journey to the Metaverse](https://www.theguardian.com/technology/2021/sep/26/is-facebook-leading-us-on-a-journey-to-the-metaverse)
 - Sep 26 - [Sustainable coffee grown in Finland with cellular agriculture](https://www.vttresearch.com/en/news-and-ideas/sustainable-coffee-grown-finland-land-drinks-most-coffee-capita-produces-its-first)
 - Sep 26 - [Noam Chomsky on the cruelty of American imperialism](https://www.economist.com/by-invitation/2021/09/24/noam-chomsky-on-the-cruelty-of-american-imperialism)
 - Sep 26 - [Paul Osman thinks about longterm strategies,open telemetry and boring systems](https://www.opslevel.com/blog/opslevel-convos-paul-osman/)
-- Sep 26 - [How to Live in Airbnbs for the Price of an Apartment Lease](https://esimoney.com/how-to-live-in-airbnbs-for-the-price-of-an-apartment-lease/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
