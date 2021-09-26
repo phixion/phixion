@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 26 - [Reflect (YC S20) is hiring a software engineer to revolutionize web testing](https://www.workatastartup.com/jobs/46431)
+- Sep 26 - [Shader School - An introduction to GLSL shaders that runs in your web browser](https://github.com/stackgl/shader-school)
 - Sep 26 - [A notable JavaScript developer shamelessly copied one of my most downloaded nod](https://twitter.com/jorgebucaran/status/1441713235980275718)
 - Sep 26 - [Facebook's Journey to the Metaverse](https://www.theguardian.com/technology/2021/sep/26/is-facebook-leading-us-on-a-journey-to-the-metaverse)
 - Sep 26 - [Sustainable coffee grown in Finland with cellular agriculture](https://www.vttresearch.com/en/news-and-ideas/sustainable-coffee-grown-finland-land-drinks-most-coffee-capita-produces-its-first)
-- Sep 26 - [Paul Osman thinks about longterm strategies,open telemetry and boring systems](https://www.opslevel.com/blog/opslevel-convos-paul-osman/)
-- Sep 26 - [Death](https://ghuntley.com/death/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
