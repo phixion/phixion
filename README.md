@@ -35,10 +35,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 25 - [The Secular Therapy Project](https://www.seculartherapy.org/)
-- Sep 25 - [UK fuel shortage worsens as industry chief warns ‘people will go without’](https://www.thenationalnews.com/world/uk-news/2021/09/25/panic-buying-blamed-for-uks-fuel-shortage/)
-- Sep 25 - [Tesla offers ‘Full Self-Driving’ option, prompting criticism from regulators](https://www.washingtonpost.com/technology/2021/09/24/tesla-full-self-driving/)
-- Sep 25 - [Copyright claims on YouTube Bach videos](https://www.youtube.com/watch?v=YfF4D5x_UTE)
+- Sep 26 - [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28657485)
+- Sep 26 - [JSFuck](http://www.jsfuck.com/)
+- Sep 26 - [Napster.com banned at some universities for clogging networks (2000)](https://www.iowastatedaily.com/napster-com-banned-at-some-universities-for-clogging-networks/article_23a8a315-cccc-5e15-9fdc-19145e034d3b.html)
+- Sep 25 - [Show HN: LIV is a webmail front-end for your personal email server](https://github.com/derek-zhou/liv)
 - Sep 25 - [When the FBI seizes your messages from Big Tech, you may not know it for years](https://www.washingtonpost.com/technology/2021/09/25/tech-subpoena-secrecy-fight/)
 <!--END_SECTION:hn-->
 
