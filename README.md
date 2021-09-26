@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 26 - [New CA law allows to pull identifying info of gun owners from state registry](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220AB173)
 - Sep 26 - [Clearview AI hits watchdog groups with subpoenas](https://www.politico.com/news/2021/09/24/clearview-ai-subpoena-watchdog-groups-514273)
 - Sep 26 - [How great is the great firewall? Measuring China’s DNS censorship [pdf]](https://www.usenix.org/system/files/sec21-hoang.pdf)
 - Sep 26 - [The Problem of Marital Loneliness](https://www.newyorker.com/culture/cultural-comment/the-problem-of-marital-loneliness)
 - Sep 26 - [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28657485)
-- Sep 26 - [What color is your function? (2015)](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
