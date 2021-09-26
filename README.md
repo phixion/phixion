@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 26 - [Kidnapping, assassination and a London shoot-out: secret plans against WikiLeaks](https://news.yahoo.com/kidnapping-assassination-and-a-london-shoot-out-inside-the-ci-as-secret-war-plans-against-wiki-leaks-090057786.html)
+- Sep 26 - [Nitter and other Internet reclamation projects](https://drewdevault.com/2021/09/23/Nitter-and-other-internet-reclamation-projects.html)
 - Sep 26 - [Reflect (YC S20) is hiring a software engineer to revolutionize web testing](https://www.workatastartup.com/jobs/46431)
 - Sep 26 - [Category Theory Illustrated – Logic](https://boris-marinov.github.io/category-theory-illustrated/05_logic/)
 - Sep 26 - [Fukushima studies show wildlife is doing nicely without humans](https://www.theregister.com/2021/09/24/fukushima_wildlife_diversity/)
-- Sep 26 - [Shader School - An introduction to GLSL shaders that runs in your web browser](https://github.com/stackgl/shader-school)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
