@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 26 - [Congratulations, Mini, You Made the Stupidest Turn Signals Ever](https://jalopnik.com/congratulations-mini-you-made-the-stupidest-turn-sign-1847727385)
+- Sep 26 - [Everyone Wants to Be an Influencer](https://www.axios.com/everyone-wants-to-be-an-influencer-458459d1-09f3-4396-a66c-fe03c9f38a7d.html)
+- Sep 26 - [Iceland elects its first female-majority parliament](https://apnews.com/article/business-europe-elections-environment-and-nature-iceland-f9e66907b6e25560a508de0f4b118ddd)
 - Sep 26 - [Show HN: Computer Engineering for Babies Book](https://www.kickstarter.com/projects/babyengineering/computer-engineering-for-babies)
 - Sep 26 - [Designing Low Upkeep Software](https://www.jefftk.com/p/designing-low-upkeep-software)
-- Sep 26 - [Swift Syntax and Structured Editing Library](https://github.com/apple/swift/tree/main/lib/Syntax)
-- Sep 26 - [Twitter seeking input as it explores Filter and Limit controls on tweets](https://www.theverge.com/2021/9/24/22692264/twitter-filter-limit-tweet-replies-automatic)
-- Sep 26 - [How Does Progress Happen?](https://www.vox.com/future-perfect/22652782/roots-of-progress-jason-crawford)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
