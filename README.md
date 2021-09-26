@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 26 - [In older adults alcohol abstinence is associated with increased dementia risk](https://psyarxiv.com/7835k/)
+- Sep 26 - [“Death” one of 5 ways to lose at Chess, according to PGN standard](http://www.saremba.de/chessgml/standards/pgn/pgn-complete.htm#c9.8.1)
+- Sep 26 - [Getting Started with GitHub Actions with Python](https://ghapi.fast.ai/tutorial_actions.html)
+- Sep 26 - [Are There More Surviving Ancient Writings in Greek or Latin?](https://talesoftimesforgotten.com/2021/09/25/are-there-more-surviving-ancient-writings-in-greek-or-latin/)
+- Sep 26 - [Show HN: Best UI Online Design Resources](https://uionline.io/)
 - Sep 26 - [EasyPost (YC S13) Is Hiring (Remote)](https://www.easypost.com/careers)
-- Sep 26 - [California makes zero-emission autonomous vehicles mandatory by 2030](https://www.engadget.com/california-zero-emissions-autonomous-vehicles-2030-162009922.html)
-- Sep 26 - [Scientists complete starch synthesis from CO2, revolutionary for agricultural](https://www.globaltimes.cn/page/202109/1235013.shtml)
-- Sep 26 - [The Universe Is a Machine That Keeps Learning, Scientists Say](https://www.popularmechanics.com/science/a36112655/universe-is-self-learning-algorithm/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
