@@ -35,9 +35,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 26 - [DuckDuckGo said no. But when I reapplied as a black lesbian they wanted me](https://lulz.com/community/thread/social-experiment-duckduckgo-hiring-racial-discrimination/)
-- Sep 26 - [Twitter seeking input as it explores Filter and Limit controls on tweets](https://www.theverge.com/2021/9/24/22692264/twitter-filter-limit-tweet-replies-automatic)
-- Sep 26 - [Inaccuracies, irresponsible coverage, & conflicts of interest in The New Yorker](https://www.fast.ai/2021/09/25/new-yorker/)
+- Sep 26 - [Show HN: Computer Engineering for Babies Book](https://www.kickstarter.com/projects/babyengineering/computer-engineering-for-babies)
+- Sep 26 - [Designing Low Upkeep Software](https://www.jefftk.com/p/designing-low-upkeep-software)
+- Sep 26 - [Swift Syntax and Structured Editing Library](https://github.com/apple/swift/tree/main/lib/Syntax)
 - Sep 26 - [Kidnapping, assassination and a London shoot-out: secret plans against WikiLeaks](https://news.yahoo.com/kidnapping-assassination-and-a-london-shoot-out-inside-the-ci-as-secret-war-plans-against-wiki-leaks-090057786.html)
 - Sep 26 - [Nitter and other Internet reclamation projects](https://drewdevault.com/2021/09/23/Nitter-and-other-internet-reclamation-projects.html)
 <!--END_SECTION:hn-->
