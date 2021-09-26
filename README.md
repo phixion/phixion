@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 26 - [Trusting science leaves people vulnerable to believing pseudoscience](https://journalistsresource.org/health/trust-science-pseudoscience-misinformation/)
 - Sep 26 - [Thousands of student files lost in error](https://www.taipeitimes.com/News/taiwan/archives/2021/09/26/2003765032)
 - Sep 26 - [Free Parking Is Killing Cities](https://www.bloomberg.com/news/features/2021-08-31/why-free-parking-is-bad-according-to-one-ucla-professor)
 - Sep 26 - [A Brief History of Markov Chains](https://mewo2.com/notes/markov-history/)
 - Sep 26 - [San Francisco raises Tesla 'self-driving' safety concerns as public test nears](https://www.reuters.com/business/autos-transportation/san-francisco-raises-tesla-self-driving-safety-concerns-public-test-nears-2021-09-23/)
-- Sep 26 - [“Logic Alone, All Love Laid By”: Arthur Koestler’s “Darkness at Noon” (2019)](https://lareviewofbooks.org/article/logic-alone-all-love-laid-by-returning-to-arthur-koestlers-darkness-at-noon/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
