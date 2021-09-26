@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 25 - [The Secular Therapy Project](https://www.seculartherapy.org/)
+- Sep 25 - [UK fuel shortage worsens as industry chief warns ‘people will go without’](https://www.thenationalnews.com/world/uk-news/2021/09/25/panic-buying-blamed-for-uks-fuel-shortage/)
+- Sep 25 - [Tesla offers ‘Full Self-Driving’ option, prompting criticism from regulators](https://www.washingtonpost.com/technology/2021/09/24/tesla-full-self-driving/)
 - Sep 25 - [Copyright claims on YouTube Bach videos](https://www.youtube.com/watch?v=YfF4D5x_UTE)
 - Sep 25 - [When the FBI seizes your messages from Big Tech, you may not know it for years](https://www.washingtonpost.com/technology/2021/09/25/tech-subpoena-secrecy-fight/)
-- Sep 25 - [Did a Chinese hack kill Nortel? (2020)](http://www.bnnbloomberg.ca/did-a-chinese-hack-kill-canada-s-greatest-tech-company-1.1459269)
-- Sep 25 - [How to Deal with Complexity Like a Pilot (Part 1)](https://www.franklinfaraday.com/how-to-deal-with-complexity-like-a-pilot-part-1/)
-- Sep 25 - [The Perfect Voxel Engine](https://voxely.net/blog/the-perfect-voxel-engine/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
