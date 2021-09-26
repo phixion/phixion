@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 26 - [EasyPost (YC S13) Is Hiring (Remote)](https://www.easypost.com/careers)
 - Sep 26 - [California makes zero-emission autonomous vehicles mandatory by 2030](https://www.engadget.com/california-zero-emissions-autonomous-vehicles-2030-162009922.html)
 - Sep 26 - [Scientists complete starch synthesis from CO2, revolutionary for agricultural](https://www.globaltimes.cn/page/202109/1235013.shtml)
+- Sep 26 - [Ask HN: Did you buy Etheria tiles in 2015? You are likely rich](https://news.ycombinator.com/item?id=28661909)
 - Sep 26 - [The Universe Is a Machine That Keeps Learning, Scientists Say](https://www.popularmechanics.com/science/a36112655/universe-is-self-learning-algorithm/)
-- Sep 26 - [Congratulations, Mini, You Made the Stupidest Turn Signals Ever](https://jalopnik.com/congratulations-mini-you-made-the-stupidest-turn-sign-1847727385)
-- Sep 26 - [Bitcoin Miners Eye Nuclear Power as Environmental Criticism Mounts](https://www.wsj.com/articles/bitcoin-miners-eye-nuclear-power-as-environmental-criticism-mounts-11632654002)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
