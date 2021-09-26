@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 26 - [Lofi beats with nice bass to listen while you code, study or work](https://open.spotify.com/playlist/03XGVdYSFum8T6McmcU998)
 - Sep 26 - [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28657485)
 - Sep 26 - [JSFuck](http://www.jsfuck.com/)
 - Sep 26 - [Napster.com banned at some universities for clogging networks (2000)](https://www.iowastatedaily.com/napster-com-banned-at-some-universities-for-clogging-networks/article_23a8a315-cccc-5e15-9fdc-19145e034d3b.html)
 - Sep 25 - [Found a program I wrote in 1981 and decided to bring it back to life](https://madned.substack.com/p/the-dead-code-diaries)
-- Sep 25 - [Show HN: LIV is a webmail front-end for your personal email server](https://github.com/derek-zhou/liv)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
