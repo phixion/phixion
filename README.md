@@ -22,11 +22,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Sep 26 - [Ajarn - 266,399 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Ajarn)
 - Sep 19 - [Epik - 15,003,961 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Epik)
 - Aug 27 - [IndiaMART - 20,154,583 breached accounts](https://haveibeenpwned.com/PwnedWebsites#IndiaMART)
 - Aug 26 - [Imavex - 878,209 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Imavex)
 - Aug 25 - [SubaGames - 6,137,666 breached accounts](https://haveibeenpwned.com/PwnedWebsites#SubaGames)
-- Aug 25 - [Eatigo - 2,789,609 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Eatigo)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## News
@@ -35,9 +35,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 26 - [Lofi beats with nice bass to listen while you code, study or work](https://open.spotify.com/playlist/03XGVdYSFum8T6McmcU998)
+- Sep 26 - [The Problem of Marital Loneliness](https://www.newyorker.com/culture/cultural-comment/the-problem-of-marital-loneliness)
 - Sep 26 - [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28657485)
-- Sep 26 - [JSFuck](http://www.jsfuck.com/)
+- Sep 26 - [JSFuck (2012)](http://www.jsfuck.com/)
 - Sep 26 - [Napster.com banned at some universities for clogging networks (2000)](https://www.iowastatedaily.com/napster-com-banned-at-some-universities-for-clogging-networks/article_23a8a315-cccc-5e15-9fdc-19145e034d3b.html)
 - Sep 25 - [Found a program I wrote in 1981 and decided to bring it back to life](https://madned.substack.com/p/the-dead-code-diaries)
 <!--END_SECTION:hn-->
