@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 26 - [EasyPost (YC S13) Is Hiring (Remote)](https://www.easypost.com/careers)
+- Sep 26 - [Food myths busted: dairy, salt and steak may be good for you after all](https://www.theguardian.com/food/2021/sep/26/food-myths-busted-dairy-salt-steak-swedish-study-science-health-advice)
 - Sep 26 - [California makes zero-emission autonomous vehicles mandatory by 2030](https://www.engadget.com/california-zero-emissions-autonomous-vehicles-2030-162009922.html)
 - Sep 26 - [Scientists complete starch synthesis from CO2, revolutionary for agricultural](https://www.globaltimes.cn/page/202109/1235013.shtml)
 - Sep 26 - [Ask HN: Did you buy Etheria tiles in 2015? You are likely rich](https://news.ycombinator.com/item?id=28661909)
-- Sep 26 - [The Universe Is a Machine That Keeps Learning, Scientists Say](https://www.popularmechanics.com/science/a36112655/universe-is-self-learning-algorithm/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
