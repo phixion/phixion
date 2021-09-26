@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 26 - [Jellyfin: The Free Software Media System](https://jellyfin.org/)
 - Sep 26 - [Skio (YC S20) is hiring founding engineers](https://skio.com/careers)
 - Sep 26 - [Show HN: Generate shared 2FA codes for your entire team](https://tfa.one)
 - Sep 26 - [Show HN: MPLG – Matplotlib GUI, design plots visually and export as Python code](https://everydayanchovies.github.io/mplg/mplg)
 - Sep 26 - [Frustrated dev drops three zero-day vulns affecting Apple iOS 15](https://www.theregister.com/2021/09/24/apple_zeroday/)
-- Sep 26 - [COVIDSafe: Australia’s digital contact tracing failure](https://ghuntley.com/covidsafe/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
