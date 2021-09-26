@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 26 - [Skio (YC S20) is hiring founding engineers](https://skio.com/careers)
+- Sep 26 - [Show HN: Generate shared 2FA codes for your entire team](https://tfa.one)
+- Sep 26 - [Show HN: MPLG – Matplotlib GUI, design plots visually and export as Python code](https://everydayanchovies.github.io/mplg/mplg)
 - Sep 26 - [Frustrated dev drops three zero-day vulns affecting Apple iOS 15](https://www.theregister.com/2021/09/24/apple_zeroday/)
 - Sep 26 - [COVIDSafe: Australia’s digital contact tracing failure](https://ghuntley.com/covidsafe/)
-- Sep 26 - [Moiré No More](https://www.getrevue.co/profile/shift-happens/issues/moire-no-more-688319)
-- Sep 26 - [Apple’s app review prevents developer from submitting fix to game for the blind](https://www.applevis.com/forum/accessibility-advocacy/apples-app-review-team-accessible-hangman)
-- Sep 26 - [Tech firms' nightmare: Vanishing green cards](https://www.axios.com/tech-firms-nightmare-vanishing-green-cards-587ef9a5-8152-465f-ac9a-3f1c913ead48.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
