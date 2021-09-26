@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 26 - [Stop making employees turn on webcams during meetings](https://www.cnn.com/2021/09/24/tech/webcams-workplace-meetings/index.html)
+- Sep 26 - [Frustrated dev drops three zero-day vulns affecting Apple iOS 15](https://www.theregister.com/2021/09/24/apple_zeroday/)
 - Sep 26 - [Moiré No More](https://www.getrevue.co/profile/shift-happens/issues/moire-no-more-688319)
 - Sep 26 - [Apple’s app review prevents developer from submitting fix to game for the blind](https://www.applevis.com/forum/accessibility-advocacy/apples-app-review-team-accessible-hangman)
-- Sep 26 - [“Death” one of 5 ways to lose at Chess, according to PGN standard](http://www.saremba.de/chessgml/standards/pgn/pgn-complete.htm#c9.8.1)
-- Sep 26 - [Getting Started with GitHub Actions with Python](https://ghapi.fast.ai/tutorial_actions.html)
-- Sep 26 - [Ask HN: How do you do estimates in 2021?](https://news.ycombinator.com/item?id=28662856)
+- Sep 26 - [Tech firms' nightmare: Vanishing green cards](https://www.axios.com/tech-firms-nightmare-vanishing-green-cards-587ef9a5-8152-465f-ac9a-3f1c913ead48.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
