@@ -36,8 +36,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 27 - [‘Impossible’ Particle Discovery Adds Key Piece to the Strong Force Puzzle](https://www.quantamagazine.org/impossible-particle-discovery-adds-key-piece-to-the-strong-force-puzzle-20210927/)
-- Sep 27 - [YouTube prohibits very specific election-related claims](https://support.google.com/youtube/answer/10835034?hl=en)
-- Sep 27 - [Teaching a cheap ethernet switch new tricks](https://blog.benjojo.co.uk/post/dell-switch-hacking)
+- Sep 27 - [Why Lockdown, Distance Learning Likely to Increase Social Class Achievement Gap](https://www.nature.com/articles/s41562-021-01212-7)
+- Sep 27 - [Teaching a cheap ethernet switch new tricks (2019)](https://blog.benjojo.co.uk/post/dell-switch-hacking)
 - Sep 27 - [We deserve better than Confluence and Notion](https://blog.luap.info/we-deserve-better-than-confluence-and-notion.html)
 - Sep 27 - [Is Competition for Losers?](https://rugpullindex.com/blog#IsCompetitionForLosers)
 <!--END_SECTION:hn-->
