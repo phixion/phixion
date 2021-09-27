@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 27 - [What John von Neumann Did at Los Alamos](https://3quarksdaily.com/3quarksdaily/2020/10/what-john-von-neumann-really-did-at-los-alamos.html)
 - Sep 27 - [Daily (YC W16) Is Hiring Product Managers](https://dailyco.notion.site/Product-Manager-1ddece309c8c4e6ea20eb1c11299a972)
 - Sep 27 - [Prevent Google from mangling search result links when click/copying on Firefox](https://gist.github.com/radiantly/e1c7319214c77fa007f323fc56cd0239)
 - Sep 27 - [Benchmark results: Cassandra 4.0, 3.11, Scylla 4.4 [video]](https://www.youtube.com/watch?v=hrA-Exd_qI4)
 - Sep 27 - [Bitfinex just spent $23.7M in fees to make a single Ethereum transaction](https://www.theblockcrypto.com/post/118753/bitfinex-just-spent-23-7-million-in-fees-to-make-one-ethereum-transaction)
-- Sep 27 - [Wonk is a tool for combining a set of AWS policy files into smaller sets](https://github.com/aminohealth/wonk)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
