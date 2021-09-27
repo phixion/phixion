@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 27 - [Benchmark results: Cassandra 4.0, 3.11, Scylla 4.4](https://www.youtube.com/watch?v=hrA-Exd_qI4)
+- Sep 27 - [Benchmark results: Cassandra 4.0, 3.11, Scylla 4.4 [video]](https://www.youtube.com/watch?v=hrA-Exd_qI4)
+- Sep 27 - [Bitfinex just spent $23.7M in fees to make a single Ethereum transaction](https://www.theblockcrypto.com/post/118753/bitfinex-just-spent-23-7-million-in-fees-to-make-one-ethereum-transaction)
 - Sep 27 - [Wonk is a tool for combining a set of AWS policy files into smaller sets](https://github.com/aminohealth/wonk)
 - Sep 27 - [On the Internet, We’re Always Famous](https://www.newyorker.com/news/essay/on-the-internet-were-always-famous)
-- Sep 27 - [India bans all form of Recurring Card Charges](https://qz.com/india/229295/the-rbis-stringent-rules-on-recurring-payments-are-driving-away-indias-software-companies/)
-- Sep 27 - [Neuromorphic electronics based on copying and pasting the brain](https://www.nature.com/articles/s41928-021-00646-1)
+- Sep 27 - [I bricked then recovered my reMarkable 2](https://operand.ca/2021/09/27/how_i_bricked_then_recovered_my_remarkable_2.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
