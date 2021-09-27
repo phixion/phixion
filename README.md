@@ -37,8 +37,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Sep 27 - [Something weird is happening on Facebook](https://www.politicalorphans.com/something-weird-is-happening-on-facebook/)
 - Sep 27 - [Laboratory Notebook Skills [pdf]](https://www.dur.ac.uk/resources/physics/students/labs/skills/notebookskills.pdf)
-- Sep 27 - [Google Is Appealing a $5B Antitrust Fine in the EU](https://www.npr.org/2021/09/27/1040889789/google-eu-android-appeal-antitrust)
 - Sep 27 - [Japan breaks world record for fastest internet speed](https://www.freethink.com/technology/fastest-internet-speed)
+- Sep 27 - [What if there were no ad blockers?](https://www.rlvision.com/blog/what-if-there-were-no-ad-blockers/)
 - Sep 27 - [What John von Neumann Did at Los Alamos](https://3quarksdaily.com/3quarksdaily/2020/10/what-john-von-neumann-really-did-at-los-alamos.html)
 <!--END_SECTION:hn-->
 
