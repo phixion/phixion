@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 27 - [What does my engineering manager do all day?](https://parkjoon.medium.com/what-does-my-engineering-manager-do-all-day-ebdc37c45d8)
-- Sep 27 - [Image Sharing. No Bullshit](https://imgz.org)
+- Sep 27 - [Procedurally generating a rounded box mesh](https://wwwtyro.net/2021/09/24/rounded-box.html)
+- Sep 27 - [IMGZ – Paid image sharing](https://imgz.org)
 - Sep 27 - [Cloud Run Quietly Swaps Home Env Var in Docker](https://chanind.github.io/2021/09/27/cloud-run-home-env-change.html)
 - Sep 27 - [Relationship Hero (YC S17) Is Hiring Sales Associates – Full Time Remote](https://relationshiphero.com/careers?role=salesAssociate)
-- Sep 27 - [U.S. to open program to replace Huawei equipment in U.S. networks](https://www.reuters.com/business/media-telecom/us-open-program-replace-huawei-equipment-us-networks-2021-09-27/)
+- Sep 27 - [Facebook invests $50 mln to build the 'metaverse' in responsible manner](https://www.reuters.com/technology/facebook-invests-50-mln-build-metaverse-responsible-manner-2021-09-27/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
