@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 27 - [Something weird is happening on Facebook](https://www.politicalorphans.com/something-weird-is-happening-on-facebook/)
 - Sep 27 - [Laboratory Notebook Skills [pdf]](https://www.dur.ac.uk/resources/physics/students/labs/skills/notebookskills.pdf)
+- Sep 27 - [Retail jobs are treated as a temporary bridge to something better.  But why?](https://www.npr.org/2021/09/27/1039706916/retail-jobs-are-treated-as-a-temporary-bridge-to-something-better-but-why)
+- Sep 27 - [Renters Now Rule the Suburbs in DC, Miami and Los Angeles](https://commercialobserver.com/2021/09/renters-now-rule-the-suburbs-in-dc-miami-and-los-angeles/)
 - Sep 27 - [Google Is Appealing a $5B Antitrust Fine in the EU](https://www.npr.org/2021/09/27/1040889789/google-eu-android-appeal-antitrust)
-- Sep 27 - [Japan breaks world record for fastest internet speed](https://www.freethink.com/technology/fastest-internet-speed)
-- Sep 27 - [RFC 3: Documentation conventions (1969)](https://datatracker.ietf.org/doc/html/rfc3)
-- Sep 27 - [What if there were no ad blockers?](https://www.rlvision.com/blog/what-if-there-were-no-ad-blockers/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
