@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 27 - [Ask HN: Software design patterns for projects without a scope?](https://news.ycombinator.com/item?id=28667078)
 - Sep 27 - [US military eyes prototype mobile nuclear reactor in Idaho](https://apnews.com/article/joe-biden-science-technology-business-us-department-of-defense-8e719afd9538b14cb8aa0c4031deb31b)
 - Sep 27 - [Apple Disables FaceID if you change the screen yourself – even with OEM screen](https://www.youtube.com/watch?v=c7P7Ytl7DGM)
-- Sep 27 - [Optromloader: 8086 floppy-loading of option ROMs](https://github.com/rvalles/optromloader)
+- Sep 27 - [Does low cholesterol cause cognitive impairment? Part II](https://peterattiamd.com/does-low-cholesterol-cause-cognitive-impairment-part-ii/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
