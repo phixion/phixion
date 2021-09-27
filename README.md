@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 27 - [Cloud Run Quietly Swaps Home Env Var in Docker](https://chanind.github.io/2021/09/27/cloud-run-home-env-change.html)
 - Sep 27 - [Relationship Hero (YC S17) Is Hiring Sales Associates – Full Time Remote](https://relationshiphero.com/careers?role=salesAssociate)
 - Sep 27 - [ETH: $23M transaction fee sent to a miner](https://etherscan.io/tx/0x2c9931793876db33b1a9aad123ad4921dfb9cd5e59dbb78ce78f277759587115)
 - Sep 27 - [U.S. to open program to replace Huawei equipment in U.S. networks](https://www.reuters.com/business/media-telecom/us-open-program-replace-huawei-equipment-us-networks-2021-09-27/)
 - Sep 27 - [DoS Attacks against my Online Game](https://hookrace.net/blog/dos-attacks-against-online-game/)
-- Sep 27 - [Imgur Acquired by Medialab](https://imgur.com/gallery/We6yCM2)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
