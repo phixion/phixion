@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 27 - [Spellbrush (YC W18) is hiring an Anime Games marketer](https://www.workatastartup.com/jobs/46307)
 - Sep 27 - [3D Printing – High Security Key](https://github.com/feelsong/3d-printing-high-security-key)
 - Sep 27 - [Serious privacy/security concerns raised about Portpass vaccine verification app](https://www.cbc.ca/news/canada/calgary/portpass-security-concerns-1.6190403)
 - Sep 27 - [Intergalactic jump inspired by science-fiction movies](https://starrior.com)
 - Sep 27 - [We Put a Blockchain on Google Sheets](https://github.com/nalinbhardwaj/shiit-coin)
-- Sep 27 - [AT&T says it has big problems. A T-Mobile salesman showed me how big](https://www.zdnet.com/article/at-t-says-it-has-big-problems-a-t-mobile-salesman-showed-me-how-big/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
