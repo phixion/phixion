@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 27 - [What does my engineering manager do all day?](https://parkjoon.medium.com/what-does-my-engineering-manager-do-all-day-ebdc37c45d8)
+- Sep 27 - [Image Sharing. No Bullshit](https://imgz.org)
 - Sep 27 - [Cloud Run Quietly Swaps Home Env Var in Docker](https://chanind.github.io/2021/09/27/cloud-run-home-env-change.html)
 - Sep 27 - [Relationship Hero (YC S17) Is Hiring Sales Associates – Full Time Remote](https://relationshiphero.com/careers?role=salesAssociate)
-- Sep 27 - [ETH: $23M transaction fee sent to a miner](https://etherscan.io/tx/0x2c9931793876db33b1a9aad123ad4921dfb9cd5e59dbb78ce78f277759587115)
-- Sep 27 - [U.S. to open program to replace Huawei equipment in U.S. networks](https://www.reuters.com/business/media-telecom/us-open-program-replace-huawei-equipment-us-networks-2021-09-27/)
-- Sep 27 - [DoS Attacks against my Online Game](https://hookrace.net/blog/dos-attacks-against-online-game/)
+- Sep 27 - [Raspberry Pi 4 model Bs arriving with newer 'C0' stepping](http://www.jeffgeerling.com/blog/2021/raspberry-pi-4-model-bs-arriving-newer-c0-stepping)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
