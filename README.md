@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 27 - [ETH: $23m transaction fee sent to a miner](https://etherscan.io/tx/0x2c9931793876db33b1a9aad123ad4921dfb9cd5e59dbb78ce78f277759587115)
 - Sep 27 - [DoS Attacks against my Online Game](https://hookrace.net/blog/dos-attacks-against-online-game/)
 - Sep 27 - [Imgur Acquired by Medialab](https://imgur.com/gallery/We6yCM2)
 - Sep 27 - [Something weird is happening on Facebook](https://www.politicalorphans.com/something-weird-is-happening-on-facebook/)
 - Sep 27 - [Laboratory Notebook Skills [pdf]](https://www.dur.ac.uk/resources/physics/students/labs/skills/notebookskills.pdf)
-- Sep 27 - [Japan breaks world record for fastest internet speed](https://www.freethink.com/technology/fastest-internet-speed)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
