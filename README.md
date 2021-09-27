@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 27 - [Teaching a cheap ethernet switch new tricks](https://blog.benjojo.co.uk/post/dell-switch-hacking)
+- Sep 27 - [We deserve better than Confluence and Notion](https://blog.luap.info/we-deserve-better-than-confluence-and-notion.html)
 - Sep 27 - [Is Competition for Losers?](https://rugpullindex.com/blog#IsCompetitionForLosers)
 - Sep 27 - [Pumps run dry at gas stations in Britain](https://www.reuters.com/world/uk/uk-gas-stations-are-running-dry-english-cities-retailers-association-says-2021-09-27/)
 - Sep 27 - [The Cybernetics Scare and the Origins of the Internet](https://balticworlds.com/the-cybernetics-scare-and-the-origins-of-the-internet/)
-- Sep 27 - [What if Git worked with Programming Languages?](https://github.com/GavinMendelGleason/syntactic_versioning)
-- Sep 27 - [TV is a cross-platform CSV pretty printer made to maximize viewer enjoyment](https://github.com/alexhallam/tv)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
