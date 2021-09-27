@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 27 - [Porter (YC W22) Is Hiring a UX/Product Engineer](https://www.ycombinator.com/companies/porter/jobs/V5kia33-ux-product-engineer)
+- Sep 27 - [How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://newsletter.pragmaticengineer.com/p/project-management-in-tech)
+- Sep 27 - [This is going to keep happening, isn't it? On distraction and FOMO](https://lyle.substack.com/p/this-is-going-to-keep-happening-isnt)
+- Sep 27 - [Show HN: Tape It, iOS recording app for musicians](https://news.ycombinator.com/item?id=28669373)
 - Sep 27 - [Socialist Cyborgs](https://logicmag.io/kids/socialist-cyborgs/)
-- Sep 27 - [The Missing ”WHERE” Clause for Vector Search](https://www.pinecone.io/learn/vector-search-filtering/)
-- Sep 27 - [Fallout begins for far-right trolls who trusted Epik to keep identities secret](https://www.seattletimes.com/business/fallout-begins-for-far-right-trolls-who-trusted-epik-to-keep-their-identities-secret/)
-- Sep 27 - [Amazon Has to Disclose How Its Algorithms Judge Workers Per a New California Law](https://interestingengineering.com/amazon-has-to-disclose-how-its-algorithms-judge-workers-per-a-new-california-law)
-- Sep 27 - [The Mom Test – How to talk to customers](https://sandro.volpee.de/the-mom-test-summary-validate-ideas)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
