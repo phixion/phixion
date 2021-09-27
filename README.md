@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 27 - [JSON5 Data Interchange Format](https://json5.org/)
 - Sep 27 - [The Mom Test – How to talk to customers](https://sandro.volpee.de/the-mom-test-summary-validate-ideas)
-- Sep 27 - [What Is Domain-Driven Design (DDD)](https://verraes.net/2021/09/what-is-domain-driven-design-ddd/)
+- Sep 27 - [Domain-Driven Design (DDD)](https://verraes.net/2021/09/what-is-domain-driven-design-ddd/)
 - Sep 27 - [Heroku's Managed DB's have been down for 2+ hours](https://status.heroku.com/incidents/2361)
 - Sep 27 - [Always Multiply Your Estimates by π](https://web.archive.org/web/20170603123809/http://www.tuicool.com:80/articles/7niyym)
-- Sep 27 - [US military eyes prototype mobile nuclear reactor in Idaho](https://apnews.com/article/joe-biden-science-technology-business-us-department-of-defense-8e719afd9538b14cb8aa0c4031deb31b)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
