@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 27 - [TV is a cross-platform CSV pretty printer made to maximize viewer enjoyment](https://github.com/alexhallam/tv)
 - Sep 27 - [Time to Ban Surveillance-Based Advertising [pdf]](https://www.forbrukerradet.no/wp-content/uploads/2021/06/20210622-final-report-time-to-ban-surveillance-based-advertising.pdf)
 - Sep 27 - [Twitter launches Bitcoin tips, NFTs, recorded Spaces, creator fund and more](https://techcrunch.com/2021/09/23/twitter-accelerates-again-with-bitcoin-tips-nfts-recorded-spaces-creator-fund-and-more/)
 - Sep 27 - [Pausing “Instagram Kids” and Building Parental Supervision Tools](https://about.instagram.com/blog/announcements/pausing-instagram-kids)
-- Sep 27 - [Porter (YC W22) Is Hiring a UX/Product Engineer](https://www.ycombinator.com/companies/porter/jobs/V5kia33-ux-product-engineer)
-- Sep 27 - [How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://newsletter.pragmaticengineer.com/p/project-management-in-tech)
+- Sep 27 - [Porter (YC S20) Is Hiring a UX/Product Engineer](https://www.ycombinator.com/companies/porter/jobs/V5kia33-ux-product-engineer)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
