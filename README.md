@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 27 - [Amazon Has to Disclose How Algorithms Judge Workers per New Law](https://interestingengineering.com/amazon-has-to-disclose-how-its-algorithms-judge-workers-per-a-new-california-law)
+- Sep 27 - [Amazon Has to Disclose How Its Algorithms Judge Workers Per a New California Law](https://interestingengineering.com/amazon-has-to-disclose-how-its-algorithms-judge-workers-per-a-new-california-law)
 - Sep 27 - [JSON5 Data Interchange Format](https://json5.org/)
 - Sep 27 - [The Mom Test – How to talk to customers](https://sandro.volpee.de/the-mom-test-summary-validate-ideas)
 - Sep 27 - [Domain-Driven Design (DDD)](https://verraes.net/2021/09/what-is-domain-driven-design-ddd/)
