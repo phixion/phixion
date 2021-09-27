@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 27 - [Pausing “Instagram Kids” and Building Parental Supervision Tools](https://about.instagram.com/blog/announcements/pausing-instagram-kids)
 - Sep 27 - [Porter (YC W22) Is Hiring a UX/Product Engineer](https://www.ycombinator.com/companies/porter/jobs/V5kia33-ux-product-engineer)
 - Sep 27 - [How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://newsletter.pragmaticengineer.com/p/project-management-in-tech)
-- Sep 27 - [This is going to keep happening, isn't it? On distraction and FOMO](https://lyle.substack.com/p/this-is-going-to-keep-happening-isnt)
+- Sep 27 - [Lite XL: A lightweight text editor written in Lua](https://github.com/lite-xl/lite-xl)
 - Sep 27 - [Show HN: Tape It, iOS recording app for musicians](https://news.ycombinator.com/item?id=28669373)
-- Sep 27 - [Socialist Cyborgs](https://logicmag.io/kids/socialist-cyborgs/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
