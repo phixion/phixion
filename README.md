@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 27 - [TikTok has reached 1B MAUs](https://newsroom.tiktok.com/en-gb/1-billion-people-on-tiktok-uk)
+- Sep 27 - [Benchmark results: Cassandra 4.0, 3.11, Scylla 4.4](https://www.youtube.com/watch?v=hrA-Exd_qI4)
+- Sep 27 - [Wonk is a tool for combining a set of AWS policy files into smaller sets](https://github.com/aminohealth/wonk)
+- Sep 27 - [On the Internet, We’re Always Famous](https://www.newyorker.com/news/essay/on-the-internet-were-always-famous)
 - Sep 27 - [India bans all form of Recurring Card Charges](https://qz.com/india/229295/the-rbis-stringent-rules-on-recurring-payments-are-driving-away-indias-software-companies/)
-- Sep 27 - [Samsung proposes copying brains to neuromorphic chips](https://www.nature.com/articles/s41928-021-00646-1)
-- Sep 27 - [‘Impossible’ Particle Discovery Adds Key Piece to the Strong Force Puzzle](https://www.quantamagazine.org/impossible-particle-discovery-adds-key-piece-to-the-strong-force-puzzle-20210927/)
-- Sep 27 - [Why Lockdown, Distance Learning Likely to Increase Social Class Achievement Gap](https://www.nature.com/articles/s41562-021-01212-7)
+- Sep 27 - [Neuromorphic electronics based on copying and pasting the brain](https://www.nature.com/articles/s41928-021-00646-1)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
