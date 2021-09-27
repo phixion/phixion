@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 26 - [Explained: Knightian Uncertainty](https://news.mit.edu/2010/explained-knightian-0602)
+- Sep 26 - [Why America has a school bus driver shortage](https://thehustle.co/why-america-has-a-school-bus-driver-shortage/)
 - Sep 26 - [What Our Research Says About Teen Well-Being and Instagram](https://about.fb.com/news/2021/09/research-teen-well-being-and-instagram/)
 - Sep 26 - [Stanislav Petrov, Officer Who Helped Avert Nuclear War on Sept. 26, 1983 (2017)](https://www.nytimes.com/2017/09/18/world/europe/stanislav-petrov-nuclear-war-dead.html)
 - Sep 26 - [Shodan Search Engine: Search Engine for the Internet of Everything](https://www.shodan.io/)
-- Sep 26 - [My boss discovered my secret blog](https://www.theguardian.com/lifeandstyle/2021/aug/18/a-moment-that-changed-me-my-boss-discovered-my-secret-blog)
-- Sep 26 - [I just don’t want to be busy anymore](https://elenasalaks.medium.com/i-just-dont-want-to-be-busy-anymore-ac4dd37c8119)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
