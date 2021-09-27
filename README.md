@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 27 - [Intergalactic jump inspired by science-fiction movies](https://starrior.com)
+- Sep 27 - [AT&T says it has big problems. A T-Mobile salesman showed me how big](https://www.zdnet.com/article/at-t-says-it-has-big-problems-a-t-mobile-salesman-showed-me-how-big/)
+- Sep 26 - [Show HN: Find Reddit discussion threads for your TV shows](https://www.redditdiscuss.com/)
 - Sep 26 - [Explained: Knightian Uncertainty](https://news.mit.edu/2010/explained-knightian-0602)
-- Sep 26 - [Why America has a school bus driver shortage](https://thehustle.co/why-america-has-a-school-bus-driver-shortage/)
-- Sep 26 - [What Our Research Says About Teen Well-Being and Instagram](https://about.fb.com/news/2021/09/research-teen-well-being-and-instagram/)
-- Sep 26 - [Stanislav Petrov, Officer Who Helped Avert Nuclear War on Sept. 26, 1983 (2017)](https://www.nytimes.com/2017/09/18/world/europe/stanislav-petrov-nuclear-war-dead.html)
-- Sep 26 - [Shodan Search Engine: Search Engine for the Internet of Everything](https://www.shodan.io/)
+- Sep 26 - [Sometimes Mindlessness Is Better Than Mindfulness](https://www.scientificamerican.com/article/sometimes-mindlessness-is-better-than-mindfulness/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
