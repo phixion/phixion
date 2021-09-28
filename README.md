@@ -35,9 +35,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 28 - [You either die an MVP or live long enough to build content moderation](https://mux.com/blog/you-either-die-an-mvp-or-live-long-enough-to-build-content-moderation)
 - Sep 28 - [Show HN: Evolution Simulator](https://trekhleb.dev/self-parking-car-evolution/)
 - Sep 28 - [Launch HN: RescueTime (YC W08) – Redesigned for wellness, balance, remote work](https://news.ycombinator.com/item?id=28683597)
-- Sep 28 - [Most Efficient Lambda Language](https://towardsaws.com/most-efficient-lambda-language-c540870843e4)
 - Sep 28 - [Masscan: Scan the entire Internet in under 5 minutes](https://github.com/robertdavidgraham/masscan)
 - Sep 28 - [Stack size is invisible in C and the effects on “portability”](https://utcc.utoronto.ca/~cks/space/blog/programming/CStackSizeInvisible)
 <!--END_SECTION:hn-->
