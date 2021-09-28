@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 28 - [Revenge Bedtime Procrastination](https://annehelen.substack.com/p/revenge-bedtime-procrastination)
+- Sep 28 - [Half of American Kids Have Lead in Their Blood, Doctors Say](https://futurism.com/neoscope/half-american-kids-lead-blood-doctors-say)
+- Sep 28 - [Cloudflare R2 Storage: Rapid and Reliable Object Storage, Minus the Egress Fees](https://blog.cloudflare.com/introducing-r2-object-storage/)
+- Sep 28 - [Ask HN: Where are all the Show HNs?](https://news.ycombinator.com/item?id=28682173)
 - Sep 28 - [Masked Email from Fastmail and 1Password](https://www.fastmail.com/1password/)
-- Sep 28 - [Valley Fever Is Spreading Through a Hotter, Drier Western US](https://www.wired.com/story/valley-fever-is-spreading-through-a-hotter-drier-western-us/)
-- Sep 28 - [Dover (YC S19) just raised $20m and is hiring eng leadership](https://www.dover.com/open-roles/engineering-manager)
-- Sep 28 - [Inkscape 1.1.1 Is Released](https://inkscape.org/release/inkscape-1.1.1/)
-- Sep 28 - [Google’s dominance in ad tech supply chain harms businesses and consumers](https://www.accc.gov.au/media-release/google%E2%80%99s-dominance-in-ad-tech-supply-chain-harms-businesses-and-consumers)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
