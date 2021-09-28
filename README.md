@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 28 - [People who ‘can’t fit into jeans they wore aged 21’ risk developing diabetes](https://www.theguardian.com/society/2021/sep/27/people-who-cant-fit-into-jeans-they-wore-aged-21-risk-developing-diabetes)
+- Sep 28 - [Masscan: Scan the entire Internet in under 5 minutes](https://github.com/robertdavidgraham/masscan)
+- Sep 28 - [Stack size is invisible in C and the effects on “portability”](https://utcc.utoronto.ca/~cks/space/blog/programming/CStackSizeInvisible)
+- Sep 28 - [Australia has lost one-third of its koalas in the past three years](https://www.reuters.com/world/asia-pacific/australia-has-lost-one-third-its-koalas-past-three-years-2021-09-21/)
 - Sep 28 - [Tesla Sues for Defamation over Social Media Posts](https://jalopnik.com/tesla-sues-for-defamation-over-social-media-posts-1847750963)
-- Sep 28 - [Revenge Bedtime Procrastination](https://annehelen.substack.com/p/revenge-bedtime-procrastination)
-- Sep 28 - [Half of American Kids Have Lead in Their Blood, Doctors Say](https://futurism.com/neoscope/half-american-kids-lead-blood-doctors-say)
-- Sep 28 - [Cloudflare R2 Storage: Rapid and Reliable Object Storage, Minus the Egress Fees](https://blog.cloudflare.com/introducing-r2-object-storage/)
+- Sep 28 - [Show HN: Pixeldrain – File sharing service optimized for speed and ease of use](https://pixeldrain.com/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
