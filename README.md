@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 28 - [Masked Email from Fastmail and 1Password](https://www.fastmail.com/1password/)
+- Sep 28 - [Valley Fever Is Spreading Through a Hotter, Drier Western US](https://www.wired.com/story/valley-fever-is-spreading-through-a-hotter-drier-western-us/)
 - Sep 28 - [Dover (YC S19) just raised $20m and is hiring eng leadership](https://www.dover.com/open-roles/engineering-manager)
 - Sep 28 - [Inkscape 1.1.1 Is Released](https://inkscape.org/release/inkscape-1.1.1/)
 - Sep 28 - [Google’s dominance in ad tech supply chain harms businesses and consumers](https://www.accc.gov.au/media-release/google%E2%80%99s-dominance-in-ad-tech-supply-chain-harms-businesses-and-consumers)
-- Sep 28 - [Google and Facebook, I am facilitating packet filtering to block your tracking](https://peguero.xyz/blog/google_and_facebook_i_am_facilitating_packet_filtering_to_block_your_tracking.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
