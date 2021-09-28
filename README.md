@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Sep 28 - [Welcome (YC W20) is hiring junior engineers](https://jobs.lever.co/welcome/afc63c2f-f6f9-461d-b05f-9d06ab6efe03?lever-origin=applied&lever-source%5B%5D=Hackernews)
 - Sep 28 - [A visual C4 model tool for your team](https://icepanel.io/c4-model/?utm_source=hacker_news&utm_medium=post&utm_campaign=version_15_launch)
-- Sep 28 - [Dropbox Capture](https://www.dropbox.com/capture)
 - Sep 28 - [Vintage Byte Magazine Library](https://vintageapple.org/byte/)
 - Sep 28 - [You either die an MVP or live long enough to build content moderation](https://mux.com/blog/you-either-die-an-mvp-or-live-long-enough-to-build-content-moderation)
+- Sep 28 - [FOIA requests show Apple’s emails pitching state agencies on IDs and Wallet app](https://www.muckrock.com/news/archives/2021/aug/25/apple-wants-your-new-drivers-license-to-be-an-ipho/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
