@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 28 - [FCC just rolled out its updated broadband and LTE maps](https://www.fcc.gov/BroadbandData/MobileMaps/mobile-map)
 - Sep 28 - [Hypersonic HAWC Missile Flies, but Details Are Kept Hidden](https://www.airforcemag.com/hypersonic-hawc-missile-flies-details-kept-hidden/)
 - Sep 28 - [OBS Studio 27.1.1](https://github.com/obsproject/obs-studio/releases/tag/27.1.1)
-- Sep 28 - [Oculus will allow sideloading and rooting to avoid e-waste](https://twitter.com/id_aa_carmack/status/1441496418368294914)
 - Sep 28 - [Refined Hacker News](https://github.com/plibither8/refined-hacker-news)
+- Sep 28 - [The iPhone of Robotics: The killer product of robotics is hidden in plain sight](https://lorenzopieri.com/cobot/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
