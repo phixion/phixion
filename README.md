@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 28 - [Jerry (YC S17) Is Hiring](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
 - Sep 28 - [Google sets burial date for legacy Chrome Extensions, fears for ad-blockers grow](https://www.theregister.com/2021/09/27/google_chrome_manifest_v2_extensions/)
 - Sep 28 - [Listmonk – Free and open source self-hosted newsletter and mailing list manager](https://listmonk.app/)
-- Sep 28 - [How to Write a Killer Remote Developer Job Description (+ Checklist)](https://arc.dev/blog/remote-developer-job-description-cxe1psag4y)
-- Sep 28 - [Round rectangles are everywhere (1981)](https://www.folklore.org/StoryView.py?story=Round_Rects_Are_Everywhere.txt)
+- Sep 28 - [Product Design Basics – A toolkit of concepts and frameworks](https://modelthinkers.com/playbook/product-design-basics)
+- Sep 28 - [Project IceStorm: open-source toolchain for Lattice iCE40 FPGAs](http://www.clifford.at/icestorm/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
