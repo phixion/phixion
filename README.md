@@ -38,7 +38,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 28 - [Synth (YC S21) Is Hiring](https://www.workatastartup.com/companies/synth-2)
 - Sep 28 - [Ford to invest $11.4B in EV and battery plants in TN and KY, Create 11k Jobs [pdf]](https://s23.q4cdn.com/799033206/files/doc_news/2021/09/27/Press-Release_Ford-Multi-State-Investment_9-27-21.pdf)
 - Sep 28 - [Beware survivorship bias in advice on science careers](https://www.nature.com/articles/d41586-021-02634-z)
-- Sep 28 - [What It's Like to Spend 40-50 Hours in VR Every Week](https://blog.immersed.team/working-from-orbit-39bf95a6d385)
+- Sep 28 - [What it's like to spend 40-50 hours in VR every week](https://blog.immersed.team/working-from-orbit-39bf95a6d385)
 - Sep 28 - [Canadian military saw pandemic as opportunity to test propaganda techniques](https://ottawacitizen.com/news/national/defence-watch/military-leaders-saw-pandemic-as-unique-opportunity-to-test-propaganda-techniques-on-canadians-forces-report-says)
 <!--END_SECTION:hn-->
 
