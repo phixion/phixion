@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 28 - [Welcome (YC W20) is hiring junior engineers](https://jobs.lever.co/welcome/afc63c2f-f6f9-461d-b05f-9d06ab6efe03?lever-origin=applied&lever-source%5B%5D=Hackernews)
+- Sep 28 - [A visual C4 model tool for your team](https://icepanel.io/c4-model/?utm_source=hacker_news&utm_medium=post&utm_campaign=version_15_launch)
+- Sep 28 - [Dropbox Capture](https://www.dropbox.com/capture)
 - Sep 28 - [23 years of Byte Magazine scans (Sept 1975 to July 1998)](https://vintageapple.org/byte/)
 - Sep 28 - [You either die an MVP or live long enough to build content moderation](https://mux.com/blog/you-either-die-an-mvp-or-live-long-enough-to-build-content-moderation)
-- Sep 28 - [Show HN: Self-Parking Car Evolution](https://trekhleb.dev/self-parking-car-evolution/)
-- Sep 28 - [Launch HN: RescueTime (YC W08) – Redesigned for wellness, balance, remote work](https://news.ycombinator.com/item?id=28683597)
-- Sep 28 - [Masscan: Scan the entire Internet in under 5 minutes](https://github.com/robertdavidgraham/masscan)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
