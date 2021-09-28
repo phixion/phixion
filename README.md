@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 28 - [Vaccine passport app exposed hundreds of thousands of users' personal data](https://www.cbc.ca/news/canada/calgary/portpass-privacy-breach-1.6191749)
 - Sep 28 - [Angellist: Stack](https://www.angellist.com/stack)
 - Sep 28 - [Welcome (YC W20) is hiring junior engineers](https://jobs.lever.co/welcome/afc63c2f-f6f9-461d-b05f-9d06ab6efe03?lever-origin=applied&lever-source%5B%5D=Hackernews)
 - Sep 28 - [A visual C4 model tool for your team](https://icepanel.io/c4-model/?utm_source=hacker_news&utm_medium=post&utm_campaign=version_15_launch)
 - Sep 28 - [Vintage Byte Magazine Library](https://vintageapple.org/byte/)
-- Sep 28 - [You either die an MVP or live long enough to build content moderation](https://mux.com/blog/you-either-die-an-mvp-or-live-long-enough-to-build-content-moderation)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
