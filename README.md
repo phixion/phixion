@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 28 - [Oculus will allow sideloading and rooting to avoid e-waste](https://twitter.com/id_aa_carmack/status/1441496418368294914)
+- Sep 28 - [Refined Hacker News](https://github.com/plibither8/refined-hacker-news)
+- Sep 28 - [Show HN: Instant Preview for Static Websites](https://www.instantpreview.dev/)
 - Sep 28 - [Join the waitlist for the fastest flowchart editor](https://www.knotend.com/waitlist)
 - Sep 28 - [The iPhone of Robotics: The killer product of robotics is hidden in plain sight](https://lorenzopieri.com/cobot/)
-- Sep 28 - [Technical deep dive into how OpenVSCode Server turns VS Code into a web IDE](https://sourcegraph.com/github.com/gitpod-io/openvscode-server/-/blob/docs/sourcedive.snb.md)
-- Sep 28 - [Vaccine passport app exposed hundreds of thousands of users' personal data](https://www.cbc.ca/news/canada/calgary/portpass-privacy-breach-1.6191749)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
