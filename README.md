@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 28 - [Britain begs drivers: Don't fill old water bottles with fuel at gas stations](https://www.reuters.com/world/uk/uk-puts-military-standby-panic-buying-hits-fuel-supplies-2021-09-27/)
 - Sep 28 - [Masscan: Scan the entire Internet in under 5 minutes](https://github.com/robertdavidgraham/masscan)
 - Sep 28 - [Stack size is invisible in C and the effects on “portability”](https://utcc.utoronto.ca/~cks/space/blog/programming/CStackSizeInvisible)
-- Sep 28 - [Oil Spills](https://ourworldindata.org/oil-spills)
 - Sep 28 - [Australia has lost one-third of its koalas in the past three years](https://www.reuters.com/world/asia-pacific/australia-has-lost-one-third-its-koalas-past-three-years-2021-09-21/)
+- Sep 28 - [Tesla Sues for Defamation over Social Media Posts](https://jalopnik.com/tesla-sues-for-defamation-over-social-media-posts-1847750963)
+- Sep 28 - [Show HN: Pixeldrain – File sharing service optimized for speed and ease of use](https://pixeldrain.com/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
