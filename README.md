@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 28 - [False Pro-China Accounts Invade Twitter in the UK](https://bitterwinter.org/pro-ccp-false-pro-china-accounts-invade-twitter-in-the-uk/)
+- Sep 28 - [WhatsApp – About multi-device beta](https://faq.whatsapp.com/general/download-and-installation/about-multi-device-beta/?lang=en)
 - Sep 28 - [Matrix client Element's Spaces is out of beta](https://element.io/blog/spaces-blast-out-of-beta/)
 - Sep 28 - [The train that shrunk France and Western Europe](https://arstechnica.com/cars/2021/09/the-train-that-shrunk-france-and-europe/)
 - Sep 28 - [Jerry (YC S17) Is Hiring](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
-- Sep 28 - [Google sets burial date for legacy Chrome Extensions, fears for ad-blockers grow](https://www.theregister.com/2021/09/27/google_chrome_manifest_v2_extensions/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
