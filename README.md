@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Sep 28 - [Jerry (YC S17) Is Hiring](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
 - Sep 28 - [Google sets burial date for legacy Chrome Extensions, fears for ad-blockers grow](https://www.theregister.com/2021/09/27/google_chrome_manifest_v2_extensions/)
-- Sep 28 - [Listmonk – Free and open source self-hosted newsletter and mailing list manager](https://listmonk.app/)
-- Sep 28 - [Product Design Basics – A toolkit of concepts and frameworks](https://modelthinkers.com/playbook/product-design-basics)
+- Sep 28 - [I don't think Elasticsearch is a good logging system](https://blog.sinkingpoint.com/posts/elasticsearch-logging/)
 - Sep 28 - [Project IceStorm: open-source toolchain for Lattice iCE40 FPGAs](http://www.clifford.at/icestorm/)
+- Sep 28 - [Generate Elixir/Phoenix Boilerplate](https://fullstackphoenix.com/boilerplates)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
