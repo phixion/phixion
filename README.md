@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Sep 28 - [How to Interview Engineers (2020)](https://www.spakhm.com/p/how-to-interview-engineers)
 - Sep 28 - [Amplosion: US$ 3 for never seeing an AMP link again (iOS)](https://apps.apple.com/br/app/amplosion-redirect-amp-links/id1585734696?l=en)
+- Sep 28 - [Partitioning GitHub's databases to handle scale](https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/)
 - Sep 28 - [Synth (YC S21) Is Hiring](https://www.workatastartup.com/companies/synth-2)
 - Sep 28 - [Ford to invest in EV and battery plants in Tennessee and Kentucky [pdf]](https://s23.q4cdn.com/799033206/files/doc_news/2021/09/27/Press-Release_Ford-Multi-State-Investment_9-27-21.pdf)
-- Sep 28 - [Beware survivorship bias in advice on science careers](https://www.nature.com/articles/d41586-021-02634-z)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
