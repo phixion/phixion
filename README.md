@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 28 - [Jerry (YC S17) Is Hiring](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
 - Sep 28 - [How to Write a Killer Remote Developer Job Description (+ Checklist)](https://arc.dev/blog/remote-developer-job-description-cxe1psag4y)
 - Sep 28 - [Round rectangles are everywhere (1981)](https://www.folklore.org/StoryView.py?story=Round_Rects_Are_Everywhere.txt)
 - Sep 28 - [Product Design Basics – A toolkit of concepts and frameworks](https://modelthinkers.com/playbook/product-design-basics)
 - Sep 28 - [Project IceStorm: open-source toolchain for Lattice iCE40 FPGAs](http://www.clifford.at/icestorm/)
-- Sep 28 - [Generate a Elixir/Phoenix Boilerplate and save hours on your next project](https://fullstackphoenix.com/boilerplates)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
