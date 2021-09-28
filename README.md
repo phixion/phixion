@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 28 - [Project IceStorm: open-source toolchain for Lattice iCE40 FPGAs](http://www.clifford.at/icestorm/)
+- Sep 28 - [Worldwide energy shortage shows up in surging coal, gas and oil prices](https://www.reuters.com/business/energy/worldwide-energy-shortage-shows-up-surging-coal-gas-oil-prices-kemp-2021-09-24/)
 - Sep 28 - [How to Interview Engineers (2020)](https://www.spakhm.com/p/how-to-interview-engineers)
+- Sep 28 - [Generate a Elixir/Phoenix Boilerplate and save hours on your next project](https://fullstackphoenix.com/boilerplates)
 - Sep 28 - [‎Amplosion: Redirect AMP Links on the App Store](https://apps.apple.com/br/app/amplosion-redirect-amp-links/id1585734696?l=en)
-- Sep 28 - [Partitioning GitHub's databases to handle scale](https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/)
-- Sep 28 - [Synth (YC S21) Is Hiring](https://www.workatastartup.com/companies/synth-2)
-- Sep 28 - [Ford to invest in EV and battery plants in Tennessee and Kentucky [pdf]](https://s23.q4cdn.com/799033206/files/doc_news/2021/09/27/Press-Release_Ford-Multi-State-Investment_9-27-21.pdf)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
