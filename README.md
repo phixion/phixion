@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 29 - [Unhook: Hide YouTube Recommendations](https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid)
+- Sep 29 - [GPUs open the potential to forecast urban weather for drones and air taxis](https://news.ucar.edu/132811/gpus-open-potential-forecast-urban-weather-drones-and-air-taxis)
 - Sep 29 - [Stripe launched 10 years ago today](https://twitter.com/patrickc/status/1443289393695911938)
 - Sep 29 - [Can You See Me Now? A measurement study of Zoom, Webex, and Meet](https://arxiv.org/abs/2109.13113)
 - Sep 29 - [How to fit any dataset with a single parameter](https://arxiv.org/abs/1904.12320)
-- Sep 29 - [Show HN: See HN, Twitter discussions and posts mentioning the page you are on](https://ampie.app)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
