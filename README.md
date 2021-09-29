@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 29 - [Unhook: Hide YouTube Recommendations](https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid)
 - Sep 29 - [Stripe launched 10 years ago today](https://twitter.com/patrickc/status/1443289393695911938)
+- Sep 29 - [Can You See Me Now? A measurement study of Zoom, Webex, and Meet](https://arxiv.org/abs/2109.13113)
 - Sep 29 - [How to fit any dataset with a single parameter](https://arxiv.org/abs/1904.12320)
-- Sep 29 - [The High Cost of Surviving Rabies](https://www.webmd.com/a-to-z-guides/news/20180220/the-high-cost-of-surviving-rabies)
 - Sep 29 - [Show HN: See HN, Twitter discussions and posts mentioning the page you are on](https://ampie.app)
-- Sep 29 - [Facebook's Mariana Trench Java static code analyzer](https://mariana-tren.ch/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
