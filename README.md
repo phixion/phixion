@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 29 - [Apple didn't revolutionize power supplies; new transistors did](http://www.righto.com/2012/02/apple-didnt-revolutionize-power.html)
+- Sep 29 - [Apple didn't revolutionize power supplies; new transistors did (2012)](http://www.righto.com/2012/02/apple-didnt-revolutionize-power.html)
 - Sep 29 - [AWS launches ARM-powered Lambdas](https://aws.amazon.com/about-aws/whats-new/2021/09/better-price-performance-aws-lambda-functions-aws-graviton2-processor/)
 - Sep 29 - [Chums (YC W21) Is Hiring a Lead Designer and a Back End Engineer](https://chumsco.notion.site/chumsco/Come-Work-Chums-d4788a53d8ee4820891e2ae7fa156120)
 - Sep 29 - [Steve Jobs emails Eric Schmidt (2007)](https://twitter.com/TechEmails/status/1443263744906305543/photo/1)
