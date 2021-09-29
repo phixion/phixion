@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 29 - [Viral video “I Can't Believe You've Done This” (from 2007) removed by YouTube](https://twitter.com/twotafkap/status/1442952265552187394)
-- Sep 29 - [YouTube is banning anti-vaccine activists and blocking all anti-vaccine content](https://www.washingtonpost.com/technology/2021/09/29/youtube-ban-joseph-mercola/)
+- Sep 29 - [YouTube removes “I Can't Believe You've Done This” video from 2007](https://twitter.com/twotafkap/status/1442952265552187394)
 - Sep 29 - [iPhone Remains Findable After Power Off](https://twitter.com/matthew_d_green/status/1442870352799879174)
 - Sep 29 - [Work at YC and write software that helps YC startups start their companies](https://www.ycombinator.com/companies/y-combinator/jobs/7D3drHl-product-engineer)
 - Sep 29 - [How We Made Bracket Pair Colorization 10,000x Faster](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization)
+- Sep 29 - [I'm working on open source full time](https://www.willmcgugan.com/blog/tech/post/doing-open-source-full-time/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
