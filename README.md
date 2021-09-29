@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 29 - [Chums (YC W21) Is Hiring a Lead Designer and a Back End Engineer](https://chumsco.notion.site/chumsco/Come-Work-Chums-d4788a53d8ee4820891e2ae7fa156120)
 - Sep 29 - [When users never use the features they asked for](https://web.eecs.utk.edu/~azh/blog/featurestheywanted.html)
 - Sep 29 - [πfs - the data-free filesystem](https://github.com/philipl/pifs)
-- Sep 29 - [Pitch: Control Flow Negation Statements (2019)](https://forums.swift.org/t/pitch-control-flow-negation-statements/22447)
 - Sep 29 - [Unhook: Hide YouTube Recommendations](https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid)
+- Sep 29 - [GPUs open the potential to forecast urban weather for drones and air taxis](https://news.ucar.edu/132811/gpus-open-potential-forecast-urban-weather-drones-and-air-taxis)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
