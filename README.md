@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 29 - [YouTube blocks all anti-vaccine content](https://www.reuters.com/technology/youtube-blocks-all-anti-vaccine-content-washington-post-2021-09-29/)
 - Sep 29 - [Elizabeth Holmes urged employees to hide Theranos’ lab equipment from inspectors](https://arstechnica.com/tech-policy/2021/09/elizabeth-holmes-urged-employees-to-hide-theranos-lab-equipment-from-inspectors/)
+- Sep 29 - [Vive Liberapay (2018)](https://gratipay.news/vive-la-liberapay-14057a25eacb)
 - Sep 29 - [Workers who keep global supply chains moving warn of 'system collapse'](https://www.cnn.com/2021/09/29/business/supply-chain-workers/index.html)
+- Sep 29 - [Private Censorship Is Not the Best Way to Fight Hate or Defend Democracy(2018)](https://www.eff.org/deeplinks/2018/01/private-censorship-not-best-way-fight-hate-or-defend-democracy-here-are-some)
 - Sep 29 - [Why Science Can't Settle Political Disputes](https://thereader.mitpress.mit.edu/why-science-cant-fix-politics/)
-- Sep 29 - [YouTube removes “I Can't Believe You've Done This” video from 2007](https://twitter.com/twotafkap/status/1442952265552187394)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
