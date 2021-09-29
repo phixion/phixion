@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 29 - [AWS launches ARM-powered Lambdas](https://aws.amazon.com/about-aws/whats-new/2021/09/better-price-performance-aws-lambda-functions-aws-graviton2-processor/)
 - Sep 29 - [Chums (YC W21) Is Hiring a Lead Designer and a Back End Engineer](https://chumsco.notion.site/chumsco/Come-Work-Chums-d4788a53d8ee4820891e2ae7fa156120)
+- Sep 29 - [Steve Jobs emails Eric Schmidt (2007)](https://twitter.com/TechEmails/status/1443263744906305543/photo/1)
 - Sep 29 - [When users never use the features they asked for](https://web.eecs.utk.edu/~azh/blog/featurestheywanted.html)
-- Sep 29 - [πfs - the data-free filesystem](https://github.com/philipl/pifs)
-- Sep 29 - [Unhook: Hide YouTube Recommendations](https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid)
-- Sep 29 - [GPUs open the potential to forecast urban weather for drones and air taxis](https://news.ucar.edu/132811/gpus-open-potential-forecast-urban-weather-drones-and-air-taxis)
+- Sep 29 - [πfs – A data-free filesystem](https://github.com/philipl/pifs)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
