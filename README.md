@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 29 - [Simula One: an office-focused, standalone VR headset built on top of Linux](https://simulavr.com/)
+- Sep 29 - [Pass: An ImageNet replacement for self-supervised pretraining without humans](https://www.robots.ox.ac.uk/~vgg/research/pass/)
 - Sep 29 - [Proposal to Merge YJIT into Ruby](https://bugs.ruby-lang.org/issues/18229)
 - Sep 29 - [Bitmovin (YC S15) Is Hiring a Head of Demand Generation](https://bitmovin.com/careers/5524567002?gh_jid=5524567002)
 - Sep 29 - [Apple AirTag Bug Enables ‘Good Samaritan’ Attack](https://krebsonsecurity.com/2021/09/apple-airtag-bug-enables-good-samaritan-attack/)
-- Sep 29 - [Python behind the scenes #13: the GIL and its effects on Python multithreading](https://tenthousandmeters.com/blog/python-behind-the-scenes-13-the-gil-and-its-effects-on-python-multithreading/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
