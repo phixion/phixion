@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 29 - [Cambly (YC W14) is hiring product managers to break down language barriers](https://jobs.lever.co/cambly/ccdf38c1-b07b-466b-8b1b-51be11166a78)
 - Sep 29 - [Why Your Website Should Use Dithered Images (2020)](https://endtimes.dev/why-you-should-dither-images/)
 - Sep 29 - [Mosquitto: An open-source MQTT broker](https://github.com/eclipse/mosquitto)
+- Sep 29 - [DEA Still Insists Marijuana Has No ‘Accepted Medical Use'](https://reason.com/2021/09/28/dea-still-insists-marijuana-has-no-accepted-medical-use/)
 - Sep 29 - [Kraken Security Labs Identifies Vulnerabilities in Commonly Used Bitcoin ATM](https://blog.kraken.com/post/11263/kraken-security-labs-identifies-vulnerabilities-in-commonly-used-bitcoin-atm/)
-- Sep 29 - [Elizabeth Holmes urged employees to hide Theranos’ lab equipment from inspectors](https://arstechnica.com/tech-policy/2021/09/elizabeth-holmes-urged-employees-to-hide-theranos-lab-equipment-from-inspectors/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
