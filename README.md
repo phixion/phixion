@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 29 - [Statistics as algorithmic summarization](http://benjamin-recht.github.io/2021/09/28/summarization/)
 - Sep 29 - [Rivian R1T: First Drive in the Electric Pickup](https://www.businessinsider.com/rivian-r1t-ev-electric-pickup-first-drive-impressions-photos-2021-9)
 - Sep 29 - [Selecting and Hardening Remote Access VPN Solutions [pdf]](https://media.defense.gov/2021/Sep/28/2002863184/-1/-1/0/CSI_SELECTING-HARDENING-REMOTE-ACCESS-VPNS-20210928.PDF)
+- Sep 29 - [Publishers unite to tackle doctored images in research papers](https://www.nature.com/articles/d41586-021-02610-7)
 - Sep 29 - [Karbon Card (YC S21) Is Hiring](https://www.ycombinator.com/companies/karbon-card/jobs/R0EDqNY-chief-risk-officer)
-- Sep 29 - [New tool reveals ultimate owners of companies](https://www.skoltech.ru/en/2021/09/new-tool-reveals-ultimate-owners-of-companies/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
