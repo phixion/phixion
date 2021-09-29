@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 29 - [My Job Offer Was Rescinded After I’d Given Notice](https://www.thecut.com/article/ask-a-boss-my-job-offer-was-rescinded-after-i-gave-notice.html)
 - Sep 29 - [Work at YC and write software that helps YC startups start their companies](https://www.ycombinator.com/companies/y-combinator/jobs/7D3drHl-product-engineer)
 - Sep 29 - [How We Made Bracket Pair Colorization 10,000x Faster](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization)
+- Sep 29 - [Why I'm working on Open Source full time](https://www.willmcgugan.com/blog/tech/post/doing-open-source-full-time/)
 - Sep 29 - [The Value of In-House Expertise](https://danluu.com/in-house/)
-- Sep 29 - [Almost All of Facebook’s Top Christian Page Run by Foreign Troll Farms](https://www.relevantmagazine.com/culture/tech-gaming/almost-all-of-facebooks-top-christian-pages-are-run-by-foreign-troll-farms/)
-- Sep 29 - [Response to 'Call for Review: Decentralized Identifiers (DIDs) v1.0'](https://lists.w3.org/Archives/Public/public-new-work/2021Sep/0000.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
