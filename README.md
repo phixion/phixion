@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 29 - [How to fit any dataset with a single parameter](https://arxiv.org/abs/1904.12320)
+- Sep 29 - [Show HN: See HN, Twitter discussions and posts mentioning the page you are on](https://ampie.app)
 - Sep 29 - [Questions as pot comes to work](https://www.wsj.com/articles/is-it-ever-ok-to-get-stoned-with-a-client-and-other-questions-as-pot-comes-to-work-11632907802)
 - Sep 29 - [Art or Heist? A Danish Artist Took $84,000 and Sent a Museum 2 Blank Canvases](https://www.npr.org/2021/09/29/1041492941/jens-haaning-kunsten-take-the-money-and-run-art-denmark-blank)
 - Sep 29 - [Raspberry Pi as a Router Using a Single Network Interface](https://louwrentius.com/raspberry-pi-as-a-router-using-a-single-network-interface.html)
-- Sep 29 - [Explore your JavaScript dependencies with Lighthouse Treemap](https://sia.codes/posts/lighthouse-treemap/)
-- Sep 29 - [What's New in React 18?](https://yagmurcetintas.com/journal/whats-new-in-react-18/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
