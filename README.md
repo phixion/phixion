@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 29 - [Cloud-native App on AWS to contact trace passengers in Victoria during Covid](https://towardsaws.com/how-i-developed-a-cloud-native-web-app-on-aws-to-contact-trace-public-transport-passengers-in-vic-266342664f)
+- Sep 29 - [Simula One: an office-focused, standalone VR headset built on top of Linux](https://simulavr.com/)
 - Sep 29 - [Proposal to Merge YJIT into Ruby](https://bugs.ruby-lang.org/issues/18229)
 - Sep 29 - [Bitmovin (YC S15) Is Hiring a Head of Demand Generation](https://bitmovin.com/careers/5524567002?gh_jid=5524567002)
 - Sep 29 - [Apple AirTag Bug Enables ‘Good Samaritan’ Attack](https://krebsonsecurity.com/2021/09/apple-airtag-bug-enables-good-samaritan-attack/)
