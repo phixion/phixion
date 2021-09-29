@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 29 - [Work at YC and write software that helps YC startups start their companies](https://www.ycombinator.com/companies/y-combinator/jobs/7D3drHl-product-engineer)
+- Sep 29 - [How We Made Bracket Pair Colorization 10,000x Faster](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization)
 - Sep 29 - [The Value of In-House Expertise](https://danluu.com/in-house/)
 - Sep 29 - [Almost All of Facebook’s Top Christian Page Run by Foreign Troll Farms](https://www.relevantmagazine.com/culture/tech-gaming/almost-all-of-facebooks-top-christian-pages-are-run-by-foreign-troll-farms/)
 - Sep 29 - [Eyeglasses for school kids boost academic performance, study finds](https://hub.jhu.edu/2021/09/09/glasses-boost-student-performance-vision-for-baltimore/)
-- Sep 29 - [Response to 'Call for Review: Decentralized Identifiers (DIDs) v1.0'](https://lists.w3.org/Archives/Public/public-new-work/2021Sep/0000.html)
-- Sep 29 - [Simula One: an office-focused, standalone VR headset built on top of Linux](https://simulavr.com/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
