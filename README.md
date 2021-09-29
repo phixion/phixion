@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 29 - [I got to drive the Rivian R1T. It redefines what a truck can be](https://www.businessinsider.com/rivian-r1t-ev-electric-pickup-first-drive-impressions-photos-2021-9)
 - Sep 29 - [Karbon Card (YC S21) Is Hiring](https://bookface.ycombinator.com/company/24006/jobs/46737)
 - Sep 29 - [New tool reveals ultimate owners of companies](https://www.skoltech.ru/en/2021/09/new-tool-reveals-ultimate-owners-of-companies/)
 - Sep 28 - [The Legality of Web Scraping](https://www.crawlnow.com/blog/is-web-scraping-legal)
 - Sep 28 - [Secret military aircraft possibly exposed on TikTok](https://warisboring.com/secret-military-aircraft-possibly-exposed-on-tiktok/)
-- Sep 28 - [Gemini: The Misaligned Incentives](https://gerikson.com/blog/comm/Gemini-misaligned-incentives.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
