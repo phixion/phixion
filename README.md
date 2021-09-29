@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 29 - [Raspberry Pi as a Router Using a Single Network Interface](https://louwrentius.com/raspberry-pi-as-a-router-using-a-single-network-interface.html)
+- Sep 29 - [Explore your JavaScript dependencies with Lighthouse Treemap](https://sia.codes/posts/lighthouse-treemap/)
 - Sep 29 - [What's New in React 18?](https://yagmurcetintas.com/journal/whats-new-in-react-18/)
 - Sep 29 - [Cambly (YC W14) is hiring product managers to break down language barriers](https://jobs.lever.co/cambly/ccdf38c1-b07b-466b-8b1b-51be11166a78)
-- Sep 29 - [Artificial Intelligence Completed Beethoven's Unfinished Tenth Symphony](https://www.smithsonianmag.com/innovation/how-artificial-intelligence-completed-beethovens-unfinished-10th-symphony-180978753/)
-- Sep 29 - [Why Your Website Should Use Dithered Images (2020)](https://endtimes.dev/why-you-should-dither-images/)
+- Sep 29 - [Are Random Trading Strategies More Successful Than Technical Ones?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0068344)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
