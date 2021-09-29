@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 29 - [Vive Liberapay (2018)](https://gratipay.news/vive-la-liberapay-14057a25eacb)
 - Sep 29 - [Workers who keep global supply chains moving warn of 'system collapse'](https://www.cnn.com/2021/09/29/business/supply-chain-workers/index.html)
 - Sep 29 - [Private Censorship Is Not the Best Way to Fight Hate or Defend Democracy(2018)](https://www.eff.org/deeplinks/2018/01/private-censorship-not-best-way-fight-hate-or-defend-democracy-here-are-some)
-- Sep 29 - [Why Science Can't Settle Political Disputes](https://thereader.mitpress.mit.edu/why-science-cant-fix-politics/)
+- Sep 29 - [Ask HN: Best Tip for Landing Pages?](https://news.ycombinator.com/item?id=28693542)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
