@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Sep 29 - [Karbon Card (YC S21) Is Hiring](https://bookface.ycombinator.com/company/24006/jobs/46737)
-- Sep 28 - [A professor’s resignation highlights pressures within academia to conform](https://www.economist.com/united-states/2021/09/25/a-professors-resignation-highlights-pressures-within-academia-to-conform)
 - Sep 28 - [The Legality of Web Scraping](https://www.crawlnow.com/blog/is-web-scraping-legal)
 - Sep 28 - [Secret military aircraft possibly exposed on TikTok](https://warisboring.com/secret-military-aircraft-possibly-exposed-on-tiktok/)
 - Sep 28 - [Gemini: The Misaligned Incentives](https://gerikson.com/blog/comm/Gemini-misaligned-incentives.html)
+- Sep 28 - [Squirrel stores thousands of nuts inside man's parked truck](https://local12.com/news/offbeat/squirrel-stores-thousands-of-nuts-inside-mans-parked-truck-north-dakota-storage-bill-fischer-engine-compartment-black-walnuts-cleanup-gallons-chevy-avalanche)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
