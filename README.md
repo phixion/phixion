@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 29 - [YouTube blocks all anti-vaccine content](https://www.reuters.com/technology/youtube-blocks-all-anti-vaccine-content-washington-post-2021-09-29/)
+- Sep 29 - [Elizabeth Holmes urged employees to hide Theranos’ lab equipment from inspectors](https://arstechnica.com/tech-policy/2021/09/elizabeth-holmes-urged-employees-to-hide-theranos-lab-equipment-from-inspectors/)
+- Sep 29 - [Workers who keep global supply chains moving warn of 'system collapse'](https://www.cnn.com/2021/09/29/business/supply-chain-workers/index.html)
+- Sep 29 - [Why Science Can't Settle Political Disputes](https://thereader.mitpress.mit.edu/why-science-cant-fix-politics/)
 - Sep 29 - [YouTube removes “I Can't Believe You've Done This” video from 2007](https://twitter.com/twotafkap/status/1442952265552187394)
-- Sep 29 - [iPhone Remains Findable After Power Off](https://twitter.com/matthew_d_green/status/1442870352799879174)
-- Sep 29 - [Work at YC and write software that helps YC startups start their companies](https://www.ycombinator.com/companies/y-combinator/jobs/7D3drHl-product-engineer)
-- Sep 29 - [How We Made Bracket Pair Colorization 10,000x Faster](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization)
-- Sep 29 - [I'm working on open source full time](https://www.willmcgugan.com/blog/tech/post/doing-open-source-full-time/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
