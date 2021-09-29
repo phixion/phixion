@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Sep 29 - [Stripe launched 10 years ago today](https://twitter.com/patrickc/status/1443289393695911938)
 - Sep 29 - [How to fit any dataset with a single parameter](https://arxiv.org/abs/1904.12320)
+- Sep 29 - [The High Cost of Surviving Rabies](https://www.webmd.com/a-to-z-guides/news/20180220/the-high-cost-of-surviving-rabies)
 - Sep 29 - [Show HN: See HN, Twitter discussions and posts mentioning the page you are on](https://ampie.app)
-- Sep 29 - [The not-so-hidden cost of AWS](https://render.com/blog/why-render)
-- Sep 29 - [Art or Heist? A Danish Artist Took $84,000 and Sent a Museum 2 Blank Canvases](https://www.npr.org/2021/09/29/1041492941/jens-haaning-kunsten-take-the-money-and-run-art-denmark-blank)
+- Sep 29 - [Facebook's Mariana Trench Java static code analyzer](https://mariana-tren.ch/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
