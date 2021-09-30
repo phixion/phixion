@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 30 - [Sensei's Library](https://senseis.xmp.net/)
 - Sep 30 - [New leak of Epik data exposes company’s entire server](https://www.dailydot.com/debug/anonymous-new-epik-leak/)
 - Sep 30 - [Fusion News Ignites Optimism](https://www.nature.com/articles/s41566-021-00890-z)
 - Sep 30 - [What a crossword AI reveals about humans' way with words](https://www.wired.com/story/crossword-ai-humans-way-with-words/)
 - Sep 30 - [The Art of Linear Algebra [pdf]](https://raw.githubusercontent.com/kenjihiranabe/The-Art-of-Linear-Algebra/main/The-Art-of-Linear-Algebra.pdf)
-- Sep 30 - [Emacs org-mode version 9.5, a major release, is out](https://orgmode.org/Changes.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
