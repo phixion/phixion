@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 30 - [Slack is experiencing a service disruption](https://status.slack.com/2021-09/06c1e17de93e7dc2)
+- Sep 30 - [US Published National Debt: $28T. The Truth: $146T. Each Taxpayer's Share: $951k](https://www.truthinaccounting.org/about/our_national_debt)
+- Sep 30 - [U.S. declares more than 20 species extinct after exhaustive searches](https://www.axios.com/us-23-extinct-species-endangered-species-list-0555df01-b298-4df0-bc24-466d79530f2d.html)
+- Sep 30 - [The Vanishing Climate Archives](https://graphics.reuters.com/CLIMATE-CHANGE/ICE-CORES/zjvqkjkjlvx/)
 - Sep 30 - [Chip shortage leads carmaker Opel to shut German plant until 2022](https://www.reuters.com/business/autos-transportation/chip-shortage-leads-carmaker-opel-shut-german-plant-until-2022-2021-09-30/)
-- Sep 30 - [Learning to Superoptimize real-world programs](https://arxiv.org/abs/2109.13498)
-- Sep 30 - [The Ticket Fairy (YC S15) Is Hiring a Senior UI Designer](https://angel.co/l/2vRXdr)
-- Sep 30 - [Things Unlearned](https://scattered-thoughts.net/writing/things-unlearned/)
-- Sep 30 - [Minecraft to add telemetry](https://www.minecraft.net/en-us/article/minecraft-snapshot-21w38a)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
