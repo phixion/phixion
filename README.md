@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 30 - [Gopher Is Still Worth Checking Out](https://hackaday.com/2021/09/28/gopher-the-competing-standard-to-www-in-the-90s-is-still-worth-checking-out/)
+- Sep 30 - [A bit of math around Cloudflare's R2 pricing model](https://twitter.com/QuinnyPig/status/1443028078196711426)
+- Sep 30 - [Discipline by King Crimson: why you should definitely own it – Louder](https://www.loudersound.com/features/why-you-should-definitely-own-discipline-by-king-crimson)
 - Sep 30 - [Questbook is hiring a Golang Back end Engineer](https://www.ycombinator.com/companies/creatoros-questbook/jobs/3DHDEnz-golang-backend-engineer)
 - Sep 29 - [Apple didn't revolutionize power supplies; new transistors did (2012)](http://www.righto.com/2012/02/apple-didnt-revolutionize-power.html)
 - Sep 29 - [AWS launches ARM-powered Lambdas](https://aws.amazon.com/about-aws/whats-new/2021/09/better-price-performance-aws-lambda-functions-aws-graviton2-processor/)
-- Sep 29 - [When users never use the features they asked for](https://web.eecs.utk.edu/~azh/blog/featurestheywanted.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
