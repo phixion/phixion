@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 30 - [Fusion News Ignites Optimism](https://www.nature.com/articles/s41566-021-00890-z)
 - Sep 30 - [What a crossword AI reveals about humans' way with words](https://www.wired.com/story/crossword-ai-humans-way-with-words/)
 - Sep 30 - [The Art of Linear Algebra [pdf]](https://raw.githubusercontent.com/kenjihiranabe/The-Art-of-Linear-Algebra/main/The-Art-of-Linear-Algebra.pdf)
-- Sep 30 - [Israeli Diplomat Pressured UNC to Remove Teacher Who Criticized Israel](https://theintercept.com/2021/09/28/israel-palestine-unc-academic-freedom/)
 - Sep 30 - [Emacs org-mode version 9.5, a major release, is out](https://orgmode.org/Changes.html)
+- Sep 30 - [On Logic, and How Not to Do It (1913)](https://landondcelkind.com/2021/03/31/wittgensteins-1913-on-logic-and-how-not-to-do-it/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
