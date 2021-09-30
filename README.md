@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 30 - [What a crossword AI reveals about humans' way with words](https://www.wired.com/story/crossword-ai-humans-way-with-words/)
 - Sep 30 - [Emacs org-mode version 9.5, a major release, is out](https://orgmode.org/Changes.html)
 - Sep 30 - [On Logic, and How Not to Do It (1913)](https://landondcelkind.com/2021/03/31/wittgensteins-1913-on-logic-and-how-not-to-do-it/)
 - Sep 30 - [The biggest churches in the world: Anglo-Norman eleventh-century cathedrals](https://stainedglassattitudes.wordpress.com/2021/05/07/the-biggest-churches-in-the-world-anglo-norman-eleventh-century-cathedrals/)
 - Sep 30 - [A bit of math around Cloudflare's R2 pricing model](https://twitter.com/QuinnyPig/status/1443028078196711426)
-- Sep 30 - [Low-cost brain computer interface for everyday use](https://www.researchgate.net/publication/354935534_Low-cost_brain_computer_interface_for_everyday_use)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
