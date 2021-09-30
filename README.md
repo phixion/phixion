@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 30 - [People are spending $3 for an app to get rid of Google AMP](https://twitter.com/benedictevans/status/1442574243045253122)
-- Sep 30 - [Wikipedia Co-Founder Larry Sanger is now working on a decentralized encyclopedia](https://www.theepochtimes.com/wikipedia-co-founder-criticizes-site-says-it-has-slid-into-leftist-propaganda_4022565.html)
+- Sep 30 - [Gopher Is Still Worth Checking Out](https://hackaday.com/2021/09/28/gopher-the-competing-standard-to-www-in-the-90s-is-still-worth-checking-out/)
 - Sep 30 - [Questbook is hiring a Golang Back end Engineer](https://www.ycombinator.com/companies/creatoros-questbook/jobs/3DHDEnz-golang-backend-engineer)
 - Sep 29 - [Apple didn't revolutionize power supplies; new transistors did (2012)](http://www.righto.com/2012/02/apple-didnt-revolutionize-power.html)
 - Sep 29 - [AWS launches ARM-powered Lambdas](https://aws.amazon.com/about-aws/whats-new/2021/09/better-price-performance-aws-lambda-functions-aws-graviton2-processor/)
+- Sep 29 - [Face detection for my leaf blower](http://www.jeffgeerling.com/blog/2021/face-detection-my-leaf-blower)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
