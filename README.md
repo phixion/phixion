@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 30 - [Learning to Superoptimize real-world programs](https://arxiv.org/abs/2109.13498)
 - Sep 30 - [The Ticket Fairy (YC S15) Is Hiring a Senior UI Designer](https://angel.co/l/2vRXdr)
 - Sep 30 - [Things Unlearned](https://scattered-thoughts.net/writing/things-unlearned/)
 - Sep 30 - [Minecraft to add telemetry](https://www.minecraft.net/en-us/article/minecraft-snapshot-21w38a)
 - Sep 30 - [MEGA65 – highly advanced C64 and C65 compatible 8-bit computer](https://shop.trenz-electronic.de/en/TE0765-03-S001-MEGA65-highly-advanced-C64-and-C65-compatible-8-bit-computer)
-- Sep 30 - [Understanding Awk](https://earthly.dev/blog/awk-examples/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
