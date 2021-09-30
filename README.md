@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 30 - [How Masten Space Systems Is Using Ada and Spark to Land on the Moon's South Pole [pdf]](https://www.adacore.com/uploads/techPapers/Masten-case-study.pdf)
+- Sep 30 - [Sparta Was Much More Than an Army of Super Warriors](https://www.smithsonianmag.com/history/sparta-much-more-army-warriors-180978583/)
+- Sep 30 - [Coping with the Clutter of Houseplants](https://dirtwise.substack.com/p/navigating-the-urban-jungle)
 - Sep 30 - [Enabling IPv6 Support for GitHub Pages](https://github.blog/changelog/2021-09-30-enabling-ipv6-support-for-github-pages/)
-- Sep 30 - [During Banned Books Week, Readers Explore What It Means to Challenge Texts](https://www.npr.org/2021/09/30/1041610286/during-banned-books-week-readers-explore-what-it-means-to-challenge-texts)
-- Sep 30 - [AWS Cloud Control API, a Uniform API to Access AWS and Third-Party Services](https://aws.amazon.com/blogs/aws/announcing-aws-cloud-control-api/)
-- Sep 30 - [The Bulky Bears of Fat Bear Week 2021](https://www.smithsonianmag.com/smart-news/get-to-known-the-bodacious-bulky-bears-of-fat-bear-week-2021-180978778/)
-- Sep 30 - [DMV Approves Cruise and Waymo to Operate Commercial Service in Parts of Bay Area](https://www.dmv.ca.gov/portal/news-and-media/117199-2/)
+- Sep 30 - [Blue Origin has a toxic culture, former and current employees say](https://arstechnica.com/science/2021/09/former-blue-origin-employees-decry-safety-and-sexist-culture-at-the-company/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
