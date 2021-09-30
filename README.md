@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 30 - [No Difference in Viral Load Between Un/Vaxed/a/Symptomatic Covid Delta Infected](https://med.papers.bar/paper/2021.09.28.21264262)
+- Sep 30 - [Things Unlearned](https://scattered-thoughts.net/writing/things-unlearned/)
+- Sep 30 - [MEGA65 – highly advanced C64 and C65 compatible 8-bit computer](https://shop.trenz-electronic.de/en/TE0765-03-S001-MEGA65-highly-advanced-C64-and-C65-compatible-8-bit-computer)
 - Sep 30 - [Understanding Awk](https://earthly.dev/blog/awk-examples/)
 - Sep 30 - [The Great AI Reckoning](https://spectrum.ieee.org/special-reports/the-great-ai-reckoning/)
-- Sep 30 - [Akamai and Micro Segmentation](https://procella.tech/2021/09/29/akamai-and-microsegmentation.html)
-- Sep 30 - [Major Quantum Computing Strategy Suffers Serious Setbacks](https://www.quantamagazine.org/major-quantum-computing-strategy-suffers-serious-setbacks-20210929/)
-- Sep 30 - [New Microscope Technique Provides Real-Time 3D Views](https://directorsblog.nih.gov/2021/09/30/new-microscope-technique-provides-real-time-3d-views/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
