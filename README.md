@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 30 - [Major Quantum Computing Strategy Suffers Serious Setbacks](https://www.quantamagazine.org/major-quantum-computing-strategy-suffers-serious-setbacks-20210929/)
 - Sep 30 - [First Human Case of Rabies in Illinois Since 1954](https://www.dph.illinois.gov/news/illinois-department-public-health-reporting-first-human-case-rabies-illinois-1954)
+- Sep 30 - [Linux Achieves 5.1M IOPS Per-Core with AMD Zen 3 and Intel Optane](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.1M-IOPS-Per-Core)
 - Sep 30 - [TaskJuggler – A Free and Open Source Project Management Software](https://taskjuggler.org/)
 - Sep 30 - [Klimaticket: All public transport in Austria with a single ticket for 1095 EUR/y](https://www.klimaticket.at/en/)
-- Sep 30 - [Are Software Engineering “best practices” just developer preferences?](https://floverfelt.org/posts/software-best-practices.html)
-- Sep 30 - [Ampere Altra Max 128-Core CPU Is Priced Lower Than Flagship Xeon, EPYC CPUs](https://www.phoronix.com/scan.php?page=news_item&px=Ampere-Altra-Max-Pricing&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Phoronix+%28Phoronix%29)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
