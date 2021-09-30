@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 30 - [Major Quantum Computing Strategy Suffers Serious Setbacks](https://www.quantamagazine.org/major-quantum-computing-strategy-suffers-serious-setbacks-20210929/)
 - Sep 30 - [First Human Case of Rabies in Illinois Since 1954](https://www.dph.illinois.gov/news/illinois-department-public-health-reporting-first-human-case-rabies-illinois-1954)
 - Sep 30 - [Linux Achieves 5.1M IOPS Per-Core with AMD Zen 3 and Intel Optane](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.1M-IOPS-Per-Core)
+- Sep 30 - [Show HN: Boring SEO guide for the non-lazy](https://boringseo.org/)
 - Sep 30 - [TaskJuggler – A Free and Open Source Project Management Software](https://taskjuggler.org/)
-- Sep 30 - [Klimaticket: All public transport in Austria with a single ticket for 1095 EUR/y](https://www.klimaticket.at/en/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
