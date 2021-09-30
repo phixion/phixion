@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 30 - [Understanding Awk](https://earthly.dev/blog/awk-examples/)
+- Sep 30 - [The Great AI Reckoning](https://spectrum.ieee.org/special-reports/the-great-ai-reckoning/)
+- Sep 30 - [Akamai and Micro Segmentation](https://procella.tech/2021/09/29/akamai-and-microsegmentation.html)
 - Sep 30 - [Major Quantum Computing Strategy Suffers Serious Setbacks](https://www.quantamagazine.org/major-quantum-computing-strategy-suffers-serious-setbacks-20210929/)
-- Sep 30 - [First Human Case of Rabies in Illinois Since 1954](https://www.dph.illinois.gov/news/illinois-department-public-health-reporting-first-human-case-rabies-illinois-1954)
-- Sep 30 - [Linux Achieves 5.1M IOPS Per-Core with AMD Zen 3 and Intel Optane](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.1M-IOPS-Per-Core)
-- Sep 30 - [Show HN: Boring SEO guide for the non-lazy](https://boringseo.org/)
-- Sep 30 - [TaskJuggler – A Free and Open Source Project Management Software](https://taskjuggler.org/)
+- Sep 30 - [New Microscope Technique Provides Real-Time 3D Views](https://directorsblog.nih.gov/2021/09/30/new-microscope-technique-provides-real-time-3d-views/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
