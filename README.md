@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 30 - [TaskJuggler – A Free and Open Source Project Management Software](https://taskjuggler.org/)
+- Sep 30 - [Klimaticket: All public transport in Austria with a single ticket for 1095 EUR/y](https://www.klimaticket.at/en/)
+- Sep 30 - [Are Software Engineering “best practices” just developer preferences?](https://floverfelt.org/posts/software-best-practices.html)
+- Sep 30 - [Ampere Altra Max 128-Core CPU Is Priced Lower Than Flagship Xeon, EPYC CPUs](https://www.phoronix.com/scan.php?page=news_item&px=Ampere-Altra-Max-Pricing&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Phoronix+%28Phoronix%29)
 - Sep 30 - [The greatest resume I've ever seen](https://cloudirregular.substack.com/p/the-greatest-resume-ive-ever-seen)
-- Sep 30 - [PostgreSQL 14](https://www.postgresql.org/about/news/postgresql-14-released-2318/)
-- Sep 30 - [Path (YC S19) is hiring Engineers to automate Gen Z finance](https://pathfinance.notion.site/Fullstack-Engineer-Path-YC-S19-ff0fd31fa5d4410dafce77f83403ce0d)
-- Sep 30 - [Fairphone 4 has a five-year warranty and aims for six years of updates](https://arstechnica.com/gadgets/2021/09/fairphone-4-has-an-incredible-5-year-warranty-aims-for-6-years-of-updates/)
-- Sep 30 - [Show HN: Hacker News with a twist](https://haxplore.pabue.co)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
