@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 30 - [What happened to construction productivity? Part 1: Measurement](https://noahpinion.substack.com/p/what-happened-to-construction-productivity)
 - Sep 30 - [Show HN: Hacker News with a twist](https://haxplore.pabue.co)
 - Sep 30 - [Sensei's Library](https://senseis.xmp.net/)
 - Sep 30 - [Mailgun Acquired by Sinch](https://www.mailgun.com/blog/sinch-to-acquire-pathwire/)
 - Sep 30 - [What a crossword AI reveals about humans' way with words](https://www.wired.com/story/crossword-ai-humans-way-with-words/)
-- Sep 30 - [The Art of Linear Algebra [pdf]](https://raw.githubusercontent.com/kenjihiranabe/The-Art-of-Linear-Algebra/main/The-Art-of-Linear-Algebra.pdf)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
