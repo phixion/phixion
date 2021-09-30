@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Sep 30 - [The biggest churches in the world: Anglo-Norman eleventh-century cathedrals](https://stainedglassattitudes.wordpress.com/2021/05/07/the-biggest-churches-in-the-world-anglo-norman-eleventh-century-cathedrals/)
 - Sep 30 - [A bit of math around Cloudflare's R2 pricing model](https://twitter.com/QuinnyPig/status/1443028078196711426)
+- Sep 30 - [Writing Python Extensions in Assembly](https://tonybaloney.github.io/posts/extending-python-with-assembly.html)
 - Sep 30 - [Discipline by King Crimson](https://www.loudersound.com/features/why-you-should-definitely-own-discipline-by-king-crimson)
 - Sep 30 - [Questbook is hiring a Golang Back end Engineer](https://www.ycombinator.com/companies/creatoros-questbook/jobs/3DHDEnz-golang-backend-engineer)
-- Sep 29 - [Apple didn't revolutionize power supplies; new transistors did (2012)](http://www.righto.com/2012/02/apple-didnt-revolutionize-power.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
