@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Sep 30 - [The OpenBSD Webzine](https://webzine.puffy.cafe/)
 - Sep 30 - [Always-on Processor magic: How Find My works while iPhone is powered off](https://naehrdine.blogspot.com/2021/09/always-on-processor-magic-how-find-my.html)
 - Sep 30 - [Avenue (YC W21) is hiring across engineering, design, and bizops](https://jobs.ashbyhq.com/avenue)
-- Sep 30 - [Senators Blast Facebook for Concealing Instagram's Risks to Kids](https://www.npr.org/2021/09/30/1041864356/instagram-kids-safety-congress-hearing)
 - Sep 30 - [How Masten Space Systems Is Using Ada and Spark to Land on the Moon's South Pole [pdf]](https://www.adacore.com/uploads/techPapers/Masten-case-study.pdf)
+- Sep 30 - [Sparta was much more than an army of super warriors](https://www.smithsonianmag.com/history/sparta-much-more-army-warriors-180978583/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
