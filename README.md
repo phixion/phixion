@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 30 - [During Banned Books Week, Readers Explore What It Means to Challenge Texts](https://www.npr.org/2021/09/30/1041610286/during-banned-books-week-readers-explore-what-it-means-to-challenge-texts)
 - Sep 30 - [AWS Cloud Control API, a Uniform API to Access AWS and Third-Party Services](https://aws.amazon.com/blogs/aws/announcing-aws-cloud-control-api/)
+- Sep 30 - [The Bulky Bears of Fat Bear Week 2021](https://www.smithsonianmag.com/smart-news/get-to-known-the-bodacious-bulky-bears-of-fat-bear-week-2021-180978778/)
+- Sep 30 - [DMV Approves Cruise and Waymo to Operate Commercial Service in Parts of Bay Area](https://www.dmv.ca.gov/portal/news-and-media/117199-2/)
 - Sep 30 - [Cruise gets permit to give driverless rides to passengers in San Francisco](https://www.marketscreener.com/quote/stock/SOFTBANK-GROUP-CORP-6492452/news/GM-s-Cruise-gets-permit-to-give-driverless-rides-to-passengers-in-San-Francisco-36563635/)
-- Sep 30 - [Silicon Lottery Closing Down](https://siliconlottery.com/)
-- Sep 30 - [Slack is experiencing a service disruption](https://status.slack.com/2021-09/06c1e17de93e7dc2)
-- Sep 30 - [U.S. declares more than 20 species extinct after exhaustive searches](https://www.axios.com/us-23-extinct-species-endangered-species-list-0555df01-b298-4df0-bc24-466d79530f2d.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
