@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 30 - [AWS Cloud Control API, a Uniform API to Access AWS and Third-Party Services](https://aws.amazon.com/blogs/aws/announcing-aws-cloud-control-api/)
 - Sep 30 - [Cruise gets permit to give driverless rides to passengers in San Francisco](https://www.marketscreener.com/quote/stock/SOFTBANK-GROUP-CORP-6492452/news/GM-s-Cruise-gets-permit-to-give-driverless-rides-to-passengers-in-San-Francisco-36563635/)
 - Sep 30 - [Silicon Lottery Closing Down](https://siliconlottery.com/)
 - Sep 30 - [Slack is experiencing a service disruption](https://status.slack.com/2021-09/06c1e17de93e7dc2)
 - Sep 30 - [U.S. declares more than 20 species extinct after exhaustive searches](https://www.axios.com/us-23-extinct-species-endangered-species-list-0555df01-b298-4df0-bc24-466d79530f2d.html)
-- Sep 30 - [The Vanishing Climate Archives](https://graphics.reuters.com/CLIMATE-CHANGE/ICE-CORES/zjvqkjkjlvx/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
