@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 01 - [“My faith unbreakable, My blood is pure”](https://www.google.com/)
+- Oct 01 - [Ask HN: Who is hiring? (October 2021)](https://news.ycombinator.com/item?id=28719320)
 - Oct 01 - [Banking-Crisis Interventions, 1257-2019 [pdf]](https://som.yale.edu/sites/default/files/files/II__metrick-schmelzing%2C%20body%20-%209-7.pdf)
 - Oct 01 - [Show HN: UI for Apache Kafka](https://github.com/provectus/kafka-ui)
 - Oct 01 - [The Rise of One-Time Password Interception Bots](https://krebsonsecurity.com/2021/09/the-rise-of-one-time-password-interception-bots/)
