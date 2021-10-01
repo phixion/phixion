@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 01 - [FundersClub (YC S12) Is Hiring Sr Engineers – 4 Day Work Week, Remote](https://careers.fundersclub.com/senior-software-engineer)
 - Oct 01 - [Google Drops Plan to Offer Bank Accounts](https://seekingalpha.com/news/3747066-google-drops-plan-to-offer-bank-accounts)
 - Oct 01 - [Demo of a WAM Prolog Implementation in Python](https://github.com/brunokim/prol)
+- Oct 01 - [Antiviral Molnupiravir Reduces Risk of Hospitalization/Death by ~50 Percent](https://www.merck.com/news/merck-and-ridgebacks-investigational-oral-antiviral-molnupiravir-reduced-the-risk-of-hospitalization-or-death-by-approximately-50-percent-compared-to-placebo-for-patients-with-mild-or-moderat/)
 - Oct 01 - [Coinbase Breach Notification](https://oag.ca.gov/ecrime/databreach/reports/sb24-545815)
-- Oct 01 - [Ask HN: Who is hiring? (October 2021)](https://news.ycombinator.com/item?id=28719320)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
