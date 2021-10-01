@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 01 - [Gold Fig Labs (YC S19) is hiring our founding full-stack engineer](https://www.goldfiglabs.com/team/)
 - Oct 01 - [Government asks German residents to drive lorries even if they never have before](https://www.independent.co.uk/news/uk/politics/hgv-lorry-driver-shortage-germans-b1930558.html)
-- Oct 01 - [Less known macOS apps you will legitimately want to use every day](https://medium.com/macoclock/10-less-known-macos-apps-you-will-legitimately-want-to-use-every-day-816bf6dde603)
+- Oct 01 - [Replace std:find_if in 80% of the cases](https://www.sandordargo.com/blog/2021/09/29/replace-find-if-with-any_of-none_of-all_of)
 - Oct 01 - [Freqfs: In-memory filesystem cache for Rust](https://docs.rs/freqfs/0.4.3/freqfs/)
 - Oct 01 - [Learning Common Lisp to beat Java and Rust on a phone encoding problem](https://renato.athaydes.com/posts/revenge_of_lisp.html)
-- Oct 01 - [Pocket P.C. – Ships first dev units](https://www.cnx-software.com/2021/10/01/pocket-p-c-devkits-ship-u-blox-gnss-module-replaced-by-simcom-sim33ela-due-to-import-ban/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
