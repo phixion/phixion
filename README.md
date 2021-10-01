@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 01 - [I Am Suing UCLA](https://bariweiss.substack.com/p/why-i-am-suing-ucla)
 - Oct 01 - [Treating beef like coal would make a big dent in greenhouse-gas emissions](https://www.economist.com/graphic-detail/2021/10/02/treating-beef-like-coal-would-make-a-big-dent-in-greenhouse-gas-emissions)
 - Oct 01 - [Facebook Thrives on Criticism of “Disinformation”](https://doctorow.medium.com/facebook-thrives-on-criticism-of-disinformation-64b141d7b6c8)
 - Oct 01 - [NFT Projects Are Just MLMs for Tech Elites](https://every.to/napkin-math/nft-projects-are-just-mlms-for-tech-elites)
 - Sep 30 - [The OpenBSD Webzine](https://webzine.puffy.cafe/)
-- Sep 30 - [Always-on Processor magic: How Find My works while iPhone is powered off](https://naehrdine.blogspot.com/2021/09/always-on-processor-magic-how-find-my.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
