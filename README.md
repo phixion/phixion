@@ -36,9 +36,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 01 - [Government asks German residents to drive lorries even if they never have before](https://www.independent.co.uk/news/uk/politics/hgv-lorry-driver-shortage-germans-b1930558.html)
-- Oct 01 - [Twitter disallows liking, commenting, or retweeting “Misleading” tweets](https://twitter.com/MichaelPSenger/status/1443238759944785922)
 - Oct 01 - [Freqfs: In-memory filesystem cache for Rust](https://docs.rs/freqfs/0.4.3/freqfs/)
 - Oct 01 - [Learning Common Lisp to beat Java and Rust on a phone encoding problem](https://renato.athaydes.com/posts/revenge_of_lisp.html)
+- Oct 01 - [Pocket P.C. – Ships first dev units](https://www.cnx-software.com/2021/10/01/pocket-p-c-devkits-ship-u-blox-gnss-module-replaced-by-simcom-sim33ela-due-to-import-ban/)
 - Oct 01 - [FundersClub (YC S12) Is Hiring Sr Engineers – 4 Day Work Week, Remote](https://careers.fundersclub.com/senior-software-engineer)
 <!--END_SECTION:hn-->
 
