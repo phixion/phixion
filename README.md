@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 01 - [Ruby removed “Participants will be tolerant of opposing views.” from its CoC](https://github.com/ruby/www.ruby-lang.org/pull/2690)
+- Sep 30 - [Deaf Man Who Couldn't Hear Police Commands Was Tased and Spent 4 Months in Jail](https://www.npr.org/2021/09/29/1041562502/deaf-man-tased-police-colorado-lawsuit)
 - Sep 30 - [The OpenBSD Webzine](https://webzine.puffy.cafe/)
 - Sep 30 - [Always-on Processor magic: How Find My works while iPhone is powered off](https://naehrdine.blogspot.com/2021/09/always-on-processor-magic-how-find-my.html)
 - Sep 30 - [Avenue (YC W21) is hiring across engineering, design, and bizops](https://jobs.ashbyhq.com/avenue)
-- Sep 30 - [How Masten Space Systems Is Using Ada and Spark to Land on the Moon's South Pole [pdf]](https://www.adacore.com/uploads/techPapers/Masten-case-study.pdf)
-- Sep 30 - [Sparta was much more than an army of super warriors](https://www.smithsonianmag.com/history/sparta-much-more-army-warriors-180978583/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
