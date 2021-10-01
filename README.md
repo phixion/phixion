@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Oct 01 - [Ashby (YC W19) Is Hiring Engineers and EMs (US and Europe)](https://jobs.ashbyhq.com/Ashby?utm_source=hn)
 - Oct 01 - [A world first: Ocean drone captures video from inside a hurricane](http://www.noaa.gov/news-release/world-first-ocean-drone-captures-video-from-inside-hurricane)
+- Oct 01 - ['Google' is most searched word on Bing](https://www.bbc.com/news/technology-58749525)
 - Oct 01 - [So You Want to Compete with Roblox](https://www.fortressofdoors.com/so-you-want-to-compete-with-roblox/)
 - Oct 01 - [DNS Record Types](https://www.nslookup.io/learning/dns-record-types/)
-- Oct 01 - [Reverse-engineering an unusual IBM modem board from 1965](https://www.righto.com/2021/09/reverse-engineering-unusual-ibm-modem.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
