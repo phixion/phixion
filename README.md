@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 01 - [Replit (YC W18) is hiring Designers Who Code to invent the future of programming](https://jobs.lever.co/replit/4ef495be-6ced-42d9-bcc1-3c6f57a346bd)
+- Oct 01 - [Redditors Are Right About the Unfairness of the Market](https://www.bloomberg.com/opinion/articles/2021-10-01/ordinary-investors-don-t-get-a-fair-shot-when-the-powerful-flout-the-rules)
+- Oct 01 - [Sham, a Linux shell (SQL blew my mind)](http://orion.feralhosting.com:8888/blew-my-mind.html)
+- Oct 01 - [DeFi bug accidentally gives $90M to users, founder begs them to return it](https://www.cnbc.com/2021/10/01/defi-protocol-compound-mistakenly-gives-away-millions-to-users.html)
 - Oct 01 - [S.Korea broadband firm sues Netflix after traffic surge from 'Squid Game'](https://www.reuters.com/business/media-telecom/skorea-broadband-firm-sues-netflix-after-traffic-surge-squid-game-2021-10-01/)
-- Oct 01 - [What’s Destroying My Yard? Pest Detection with Raspberry Pi](https://www.hackster.io/tjvantoll/what-s-destroying-my-yard-pest-detection-with-raspberry-pi-890c3a)
-- Oct 01 - [Facebook’s Documents About Instagram and Teens, Published](https://www.wsj.com/articles/facebook-documents-instagram-teens-11632953840)
-- Oct 01 - [Cryptocurrency mining using integrated photonics](http://phe.tue.nl/news/)
-- Oct 01 - [Ashby (YC W19) Is Hiring Engineers and EMs (US and Europe)](https://jobs.ashbyhq.com/Ashby?utm_source=hn)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
