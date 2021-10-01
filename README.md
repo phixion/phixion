@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 01 - [Cryptocurrency mining using integrated photonics](http://phe.tue.nl/news/)
 - Oct 01 - [Session Encrypted Messenger](https://getsession.org/)
 - Oct 01 - [Ashby (YC W19) Is Hiring Engineers and EMs (US and Europe)](https://jobs.ashbyhq.com/Ashby?utm_source=hn)
+- Oct 01 - [Why Senior Developers Are Leading the Great Resignation Movement](https://tipsnguts.medium.com/why-senior-developers-are-leading-the-great-resignation-movement-37b93ab9a634)
 - Oct 01 - [Ocean drone captures video from inside a hurricane](http://www.noaa.gov/news-release/world-first-ocean-drone-captures-video-from-inside-hurricane)
-- Oct 01 - ['Google' is most searched word on Bing](https://www.bbc.com/news/technology-58749525)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
