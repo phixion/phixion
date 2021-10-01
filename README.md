@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 01 - [New Microsoft Study of 60k Employees: Remote Work Threatens Innovation](https://www.inc.com/jessica-stillman/remote-hybrid-work-paradox-microsoft-satya-nadella.html)
+- Oct 01 - [Demo of a WAM Prolog Implementation in Python](https://github.com/brunokim/prol)
 - Oct 01 - [Coinbase Breach Notification](https://oag.ca.gov/ecrime/databreach/reports/sb24-545815)
+- Oct 01 - [Ask HN: Do you donate money to open source?](https://news.ycombinator.com/item?id=28719643)
 - Oct 01 - [Ask HN: Who is hiring? (October 2021)](https://news.ycombinator.com/item?id=28719320)
-- Oct 01 - [Ask HN: Who wants to be hired? (October 2021)](https://news.ycombinator.com/item?id=28719317)
-- Oct 01 - [The Secure Open Source Pilot Program](https://security.googleblog.com/2021/10/introducing-secure-open-source-pilot.html)
-- Oct 01 - [Banking-Crisis Interventions, 1257-2019 [pdf]](https://som.yale.edu/sites/default/files/files/II__metrick-schmelzing%2C%20body%20-%209-7.pdf)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
