@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 01 - [Learning Common Lisp to beat Java and Rust on a phone encoding problem](https://renato.athaydes.com/posts/revenge_of_lisp.html)
+- Oct 01 - [The scramble to make climate change in Alaska feel real](https://contrapost.substack.com/p/i-knew-i-had-the-story-when-i-smelled)
 - Oct 01 - [FundersClub (YC S12) Is Hiring Sr Engineers – 4 Day Work Week, Remote](https://careers.fundersclub.com/senior-software-engineer)
 - Oct 01 - [What a solid made of electrons looks like](https://www.nature.com/articles/d41586-021-02657-6)
 - Oct 01 - [Google Drops Plan to Offer Bank Accounts](https://seekingalpha.com/news/3747066-google-drops-plan-to-offer-bank-accounts)
-- Oct 01 - [Demo of a WAM Prolog Implementation in Python](https://github.com/brunokim/prol)
-- Oct 01 - [Antiviral Molnupiravir Reduces Risk of Hospitalization/Death by ~50 Percent](https://www.merck.com/news/merck-and-ridgebacks-investigational-oral-antiviral-molnupiravir-reduced-the-risk-of-hospitalization-or-death-by-approximately-50-percent-compared-to-placebo-for-patients-with-mild-or-moderat/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
