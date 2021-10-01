@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 01 - [Freqfs: In-memory filesystem cache for Rust](https://docs.rs/freqfs/0.4.3/freqfs/)
-- Oct 01 - [Internal emails show Zuckerberg and Facebook execs discuss cloning competitors](https://twitter.com/TechEmails/status/1398702289007828992)
 - Oct 01 - [Learning Common Lisp to beat Java and Rust on a phone encoding problem](https://renato.athaydes.com/posts/revenge_of_lisp.html)
 - Oct 01 - [The scramble to make climate change in Alaska feel real](https://contrapost.substack.com/p/i-knew-i-had-the-story-when-i-smelled)
 - Oct 01 - [FundersClub (YC S12) Is Hiring Sr Engineers – 4 Day Work Week, Remote](https://careers.fundersclub.com/senior-software-engineer)
+- Oct 01 - [What a solid made of electrons looks like](https://www.nature.com/articles/d41586-021-02657-6)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
