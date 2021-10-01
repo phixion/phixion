@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 01 - [What’s Destroying My Yard? Pest Detection with Raspberry Pi](https://www.hackster.io/tjvantoll/what-s-destroying-my-yard-pest-detection-with-raspberry-pi-890c3a)
 - Oct 01 - [Cryptocurrency mining using integrated photonics](http://phe.tue.nl/news/)
 - Oct 01 - [Session Encrypted Messenger](https://getsession.org/)
 - Oct 01 - [Ashby (YC W19) Is Hiring Engineers and EMs (US and Europe)](https://jobs.ashbyhq.com/Ashby?utm_source=hn)
 - Oct 01 - [Why Senior Developers Are Leading the Great Resignation Movement](https://tipsnguts.medium.com/why-senior-developers-are-leading-the-great-resignation-movement-37b93ab9a634)
-- Oct 01 - [Ocean drone captures video from inside a hurricane](http://www.noaa.gov/news-release/world-first-ocean-drone-captures-video-from-inside-hurricane)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
