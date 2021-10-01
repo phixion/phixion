@@ -35,10 +35,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 01 - [New Microsoft Study of 60k Employees: Remote Work Threatens Innovation](https://www.inc.com/jessica-stillman/remote-hybrid-work-paradox-microsoft-satya-nadella.html)
+- Oct 01 - [FundersClub (YC S12) Is Hiring Sr Engineers – 4 Day Work Week, Remote](https://careers.fundersclub.com/senior-software-engineer)
+- Oct 01 - [Google Drops Plan to Offer Bank Accounts](https://seekingalpha.com/news/3747066-google-drops-plan-to-offer-bank-accounts)
 - Oct 01 - [Demo of a WAM Prolog Implementation in Python](https://github.com/brunokim/prol)
 - Oct 01 - [Coinbase Breach Notification](https://oag.ca.gov/ecrime/databreach/reports/sb24-545815)
-- Oct 01 - [Ask HN: Do you donate money to open source?](https://news.ycombinator.com/item?id=28719643)
 - Oct 01 - [Ask HN: Who is hiring? (October 2021)](https://news.ycombinator.com/item?id=28719320)
 <!--END_SECTION:hn-->
 
