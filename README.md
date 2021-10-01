@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 01 - [Show HN: UI for Apache Kafka](https://github.com/provectus/kafka-ui)
 - Oct 01 - [Cloudflare Distributed Web Gateways: Unlocking the Web3 Metaverse](https://blog.cloudflare.com/announcing-web3-gateways/)
 - Oct 01 - [Web3 – A Vision for a Decentralized Web](https://blog.cloudflare.com/what-is-web3/)
 - Oct 01 - [Downsides of Offline First](https://rxdb.info/downsides-of-offline-first.html)
-- Oct 01 - [The Emacs-28 release branch has been created](https://mail.gnu.org/archive/html/emacs-devel/2021-09/msg02290.html)
-- Oct 01 - [Replit (YC W18) is hiring Designers Who Code to invent the future of programming](https://jobs.lever.co/replit/4ef495be-6ced-42d9-bcc1-3c6f57a346bd)
+- Oct 01 - [Criticism engulfs paper claiming an asteroid destroyed Biblical Sodom Gomorrah](https://retractionwatch.com/2021/10/01/criticism-engulfs-paper-claiming-an-asteroid-destroyed-biblical-sodom-and-gomorrah/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
