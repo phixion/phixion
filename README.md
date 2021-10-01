@@ -35,8 +35,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 01 - [Fide Picks Breast Implants as a Sponsor for Women's Chess](https://lichess.org/blog/YVWlhhIAACUAp9eF/fide-picks-breast-implants-as-a-sponsor-for-womens-chess)
 - Sep 30 - [PwC Tells U.S. Employees They Need Never Return to the Office](https://www.reuters.com/business/exclusive-pwc-tells-us-employees-they-need-never-return-office-2021-09-30/)
-- Sep 30 - [Deaf Man Who Couldn't Hear Police Commands Was Tased and Spent 4 Months in Jail](https://www.npr.org/2021/09/29/1041562502/deaf-man-tased-police-colorado-lawsuit)
 - Sep 30 - [The OpenBSD Webzine](https://webzine.puffy.cafe/)
 - Sep 30 - [Always-on Processor magic: How Find My works while iPhone is powered off](https://naehrdine.blogspot.com/2021/09/always-on-processor-magic-how-find-my.html)
 - Sep 30 - [Avenue (YC W21) is hiring across engineering, design, and bizops](https://jobs.ashbyhq.com/avenue)
