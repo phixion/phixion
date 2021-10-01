@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 01 - [Anil Seth Finds Consciousness in Life’s Push Against Entropy](https://www.quantamagazine.org/anil-seth-finds-consciousness-in-lifes-push-against-entropy-20210930/)
 - Oct 01 - [Rivian S-1](https://www.sec.gov/Archives/edgar/data/1874178/000119312521289903/d157488ds1.htm)
 - Oct 01 - [Ozy Media Says It Is Shutting Down](https://www.nytimes.com/2021/10/01/business/media/ozy-media.html)
 - Oct 01 - [Ludum Dare 49 (Game jam)](https://ldjam.com/events/ludum-dare/49)
 - Oct 01 - [Gold Fig Labs (YC S19) is hiring our founding full-stack engineer](https://www.goldfiglabs.com/team/)
-- Oct 01 - [This influenza lineage may have become extinct](https://www.nature.com/articles/s41579-021-00642-4)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
