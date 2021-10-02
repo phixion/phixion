@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 02 - [Stanford students are more likely to wear masks on bicycles than helmets](https://stanfordreview.org/stanford-bicycles-helmets-masks/)
 - Oct 02 - [Why Carmakers Can’t Transition to Newer Chips](https://jalopnik.com/i-asked-experts-why-carmakers-cant-just-transition-to-n-1847739665)
 - Oct 02 - [DroneSploit – A pentesting console framework dedicated to drones](https://github.com/dhondta/dronesploit)
 - Oct 02 - [As a whistleblower prepares to speak out, what can be done to rein in Facebook?](https://www.theguardian.com/technology/2021/oct/02/facebook-whistleblower-tech-firms-social-media-instagram-children-mental-health-us-senators)
 - Oct 02 - [Gentle introduction to GPUs inner workings](https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/)
+- Oct 02 - [The Wayforward Machine](https://wayforward.archive.org)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
