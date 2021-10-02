@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 02 - [Paperspace (YC W15) is hiring Engineers to build a modern MLOps platform](https://www.paperspace.com/careers#open-positions)
+- Oct 02 - [Is Hacking the Next Struggle for Agriculture?](https://www.agweek.com/opinion/columns/7205478-Is-hacking-the-next-struggle-for-agriculture)
 - Oct 02 - [Traces of 122 different pesticides in 12 most polluted fruit and veg products](https://www.theguardian.com/environment/2021/sep/29/cocktail-pesticides-almost-all-oranges-grapes-uk-study)
 - Oct 02 - [Honda prepping AI robots electric air travel and lunar technology for 2030](https://www.zdnet.com/article/honda-prepping-ai-robots-inter-city-electric-air-travel-and-lunar-technology-for-2030/)
 - Oct 02 - [The curious DNA circles that make treating cancer so hard](https://cen.acs.org/pharmaceuticals/oncology/curious-DNA-circles-make-treating/98/i40)
-- Oct 02 - [Why does iPhone 13 screen replacement disable Face ID](https://icorrect.co.uk/blog/iphone-13-screen-replacement-disables-face-id-why)
-- Oct 02 - [Google developing own CPUs for Chromebook laptops](https://asia.nikkei.com/Business/Tech/Semiconductors/Google-developing-own-CPUs-for-Chromebook-laptops)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
