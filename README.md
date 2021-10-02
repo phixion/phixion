@@ -22,11 +22,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Oct 02 - [LinkedIn Scraped Data - 125,698,496 breached accounts](https://haveibeenpwned.com/PwnedWebsites#LinkedInScrape)
 - Sep 26 - [Ajarn - 266,399 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Ajarn)
 - Sep 19 - [Epik - 15,003,961 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Epik)
 - Aug 27 - [IndiaMART - 20,154,583 breached accounts](https://haveibeenpwned.com/PwnedWebsites#IndiaMART)
 - Aug 26 - [Imavex - 878,209 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Imavex)
-- Aug 25 - [SubaGames - 6,137,666 breached accounts](https://haveibeenpwned.com/PwnedWebsites#SubaGames)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## News
@@ -36,7 +36,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 02 - [Met Police: Run away, call 999 if you feel danger when stopped by lone officer](https://www.lbc.co.uk/radio/presenters/james-obrien/sarah-everard-wayne-couzens-undercover-police-warrant/)
-- Oct 02 - [Nestle-Backed Child Slavery Continues in the Ivory Coast](https://themountain.news/commentary/nestle-backed-child-slavery-continues-in-the-ivory-coast)
+- Oct 02 - [Stock Sale Day Before Fed Emergency](https://www.zerohedge.com/markets/fed-vice-chair-clarida-traded-millions-one-day-powell-emergency-pandemic-statement)
 - Oct 02 - [Paperspace (YC W15) is hiring Engineers to build a modern MLOps platform](https://www.paperspace.com/careers#open-positions)
 - Oct 02 - [Is Hacking the Next Struggle for Agriculture?](https://www.agweek.com/opinion/columns/7205478-Is-hacking-the-next-struggle-for-agriculture)
 - Oct 02 - [Traces of 122 different pesticides in 12 most polluted fruit and veg products](https://www.theguardian.com/environment/2021/sep/29/cocktail-pesticides-almost-all-oranges-grapes-uk-study)
