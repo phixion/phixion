@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 02 - [Merck Created “Hit List” to Discredit Dissenting Doctors on Vioxx (2009)](https://www.cbsnews.com/news/merck-created-hit-list-to-destroy-neutralize-or-discredit-dissenting-doctors/)
 - Oct 02 - [Biggest Bitcoin Hacks in History](https://coinful.net/biggest-bitcoin-hacks-in-history/)
 - Oct 02 - [As a whistleblower prepares to speak out, what can be done to rein in Facebook?](https://www.theguardian.com/technology/2021/oct/02/facebook-whistleblower-tech-firms-social-media-instagram-children-mental-health-us-senators)
 - Oct 02 - [Can Geoengineering Fix Climate Change?](https://www.nytimes.com/2021/10/01/opinion/climate-change-geoengineering.html)
 - Oct 02 - [Gentle introduction to GPUs inner workings](https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/)
-- Oct 02 - [The Wayforward Machine](https://wayforward.archive.org)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
