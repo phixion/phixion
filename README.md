@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 02 - [Details of some 100M visitors to Thailand exposed online](https://www.scmp.com/news/asia/southeast-asia/article/3149475/details-some-100-million-visitors-thailand-exposed-online)
+- Oct 02 - [How Japan’s Thomas Edison Built the Nation’s Most Complicated Clock](https://watchesbysjx.com/2016/09/how-japans-thomas-edison-built-the-nations-most-complicated-clock.html)
 - Oct 02 - [Coinbase Cloud](https://www.coinbase.com/cloud)
 - Oct 01 - [Why do we tune in 5ths?](https://www.violinist.com/discussion/archive/17290/)
 - Oct 01 - [Anil Seth Finds Consciousness in Life’s Push Against Entropy](https://www.quantamagazine.org/anil-seth-finds-consciousness-in-lifes-push-against-entropy-20210930/)
-- Oct 01 - [Ozy Media Says It Is Shutting Down](https://www.nytimes.com/2021/10/01/business/media/ozy-media.html)
-- Oct 01 - [Ludum Dare 49 (Game jam)](https://ldjam.com/events/ludum-dare/49)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
