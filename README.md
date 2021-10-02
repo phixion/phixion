@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 02 - [Biggest Bitcoin Hacks in History](https://coinful.net/biggest-bitcoin-hacks-in-history/)
+- Oct 02 - [Coast Guard's first Black woman pilot helped give the next one her wings](https://www.npr.org/2021/10/02/1042336503/storycorps-military-coast-guard-history-first-black-woman-pilots)
+- Oct 02 - [Can Geoengineering Fix Climate Change?](https://www.nytimes.com/2021/10/01/opinion/climate-change-geoengineering.html)
 - Oct 02 - [Gentle introduction to GPUs inner workings](https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/)
 - Oct 02 - [The Wayforward Machine](https://wayforward.archive.org)
-- Oct 02 - [New Story (YC S15) Is Hiring a CFO](https://newstorycharity.org/careers/)
-- Oct 02 - [Black mamba venom is 'better painkiller' than morphine (2012)](https://www.bbc.com/news/health-19812064)
-- Oct 02 - [Archivematica: Open-source digital preservation system](https://www.archivematica.org/en/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
