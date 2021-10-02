@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 02 - [Show HN: The Billboard, a fully decentralised billboard stored in Ethereum](https://thebillboard.vercel.app/)
 - Oct 02 - [Archivematica: Open-source digital preservation system](https://www.archivematica.org/en/)
 - Oct 02 - [Maker of ATM bombing tutorials blew himself up – Euro cops](https://www.theregister.com/2021/10/02/europol_atm_bombing/)
-- Oct 02 - [Babies are full of microplastics, new research shows](https://www.euronews.com/green/2021/10/01/babies-are-full-of-microplastics-new-research-shows)
 - Oct 02 - [Fly.io (YC W20) Is Hiring](https://fly.io/blog/fly-io-is-hiring-technical-writers/)
+- Oct 02 - [The Martians of Budapest](https://www.privatdozent.co/p/the-martians-of-budapest-03b)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
