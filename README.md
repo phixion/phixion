@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 02 - [Why does iPhone 13 screen replacement disable Face ID](https://icorrect.co.uk/blog/iphone-13-screen-replacement-disables-face-id-why)
 - Oct 02 - [Google developing own CPUs for Chromebook laptops](https://asia.nikkei.com/Business/Tech/Semiconductors/Google-developing-own-CPUs-for-Chromebook-laptops)
 - Oct 02 - [Amazon-backed EV maker Rivian discloses nearly $1B losses in IPO filing](https://finance.yahoo.com/news/ev-maker-rivian-makes-ipo-213740672.html)
 - Oct 02 - [Windows 11 review: An unnecessary replacement for Windows 10](https://www.pcworld.com/article/539183/windows-11-review-an-unnecessary-replacement-for-windows-10.html)
 - Oct 02 - [Gollum – A simple, Git-powered wiki with a sweet API and local frontend](https://github.com/gollum/gollum)
-- Oct 02 - [Show HN: AirSS is a web-based feed reader that put your privacy first](https://airss.roastidio.us/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
