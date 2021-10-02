@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 02 - [Google developing own CPUs for Chromebook laptops](https://asia.nikkei.com/Business/Tech/Semiconductors/Google-developing-own-CPUs-for-Chromebook-laptops)
+- Oct 02 - [Amazon-backed EV maker Rivian discloses nearly $1B losses in IPO filing](https://finance.yahoo.com/news/ev-maker-rivian-makes-ipo-213740672.html)
+- Oct 02 - [Gollum – A simple, Git-powered wiki with a sweet API and local frontend](https://github.com/gollum/gollum)
 - Oct 02 - [Show HN: AirSS is a web-based feed reader that put your privacy first](https://airss.roastidio.us/)
-- Oct 02 - [There’s a Multibillion-Dollar Market for Your Phone’s Location Data](https://themarkup.org/privacy/2021/09/30/theres-a-multibillion-dollar-market-for-your-phones-location-data?via=biztoc.com)
-- Oct 02 - [Alexa, Ring, and Astro: Where's My Privacy, Amazon?](https://www.zdnet.com/article/alexa-ring-and-astro-wheres-my-privacy-amazon/)
-- Oct 02 - [Brain-cleaning sleeping cap gets US Army funding](https://newatlas.com/science/brain-cleaning-skullcap-sleep-glymphatic-system-us-army/)
+- Oct 02 - [Completely different languages tend to group colors in roughly the same way](https://www.hearingreview.com/inside-hearing/research/color)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
