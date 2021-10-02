@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 02 - [Google Is Scrapping Its Plan to Offer Bank Accounts to Users](https://www.wsj.com/articles/google-is-scrapping-its-plan-to-offer-bank-accounts-to-users-11633104001)
+- Oct 02 - [CEOs are at their wits’ end – they don’t know how to get their employees back in](https://www.cnbc.com/2021/10/01/ceos-are-at-their-wits-ends-dont-know-how-to-get-employees-back-in.html)
+- Oct 02 - [73 Beautiful Books from the MIT Press Essential Knowledge Series](https://abakcus.com/seventy-three-beautiful-books-from-the-mit-press-essential-knowledge-series/)
 - Oct 02 - [Why Carmakers Can’t Transition to Newer Chips](https://jalopnik.com/i-asked-experts-why-carmakers-cant-just-transition-to-n-1847739665)
 - Oct 02 - [DroneSploit – A pentesting console framework dedicated to drones](https://github.com/dhondta/dronesploit)
-- Oct 02 - [As a whistleblower prepares to speak out, what can be done to rein in Facebook?](https://www.theguardian.com/technology/2021/oct/02/facebook-whistleblower-tech-firms-social-media-instagram-children-mental-health-us-senators)
-- Oct 02 - [Gentle introduction to GPUs inner workings](https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/)
-- Oct 02 - [The Wayforward Machine](https://wayforward.archive.org)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
