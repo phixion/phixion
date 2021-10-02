@@ -35,9 +35,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 02 - [In America’s Next War, Machines Will Do the Thinking](https://www.bloombergquint.com/gadfly/ai-machines-will-do-the-thinking-in-the-next-u-s-war)
 - Oct 02 - [Mac SE/30 Odyssey](https://axio.ms/blog/2021/10/02/MacSE30.html)
 - Oct 02 - [Is Stock Market Rigged? Insider Trading by Executives Is Pervasive, Critics Say](https://www.bloomberg.com/news/features/2021-09-29/is-stock-market-rigged-insider-trading-by-executives-is-pervasive-critics-say)
-- Oct 02 - [Stock Sale Day Before Fed Emergency](https://www.zerohedge.com/markets/fed-vice-chair-clarida-traded-millions-one-day-powell-emergency-pandemic-statement)
 - Oct 02 - [Paperspace (YC W15) is hiring Engineers to build a modern MLOps platform](https://www.paperspace.com/careers#open-positions)
 - Oct 02 - [Is Hacking the Next Struggle for Agriculture?](https://www.agweek.com/opinion/columns/7205478-Is-hacking-the-next-struggle-for-agriculture)
 <!--END_SECTION:hn-->
