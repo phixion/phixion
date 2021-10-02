@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Oct 02 - [There’s a Multibillion-Dollar Market for Your Phone’s Location Data](https://themarkup.org/privacy/2021/09/30/theres-a-multibillion-dollar-market-for-your-phones-location-data?via=biztoc.com)
 - Oct 02 - [Alexa, Ring, and Astro: Where's My Privacy, Amazon?](https://www.zdnet.com/article/alexa-ring-and-astro-wheres-my-privacy-amazon/)
-- Oct 02 - [Trump asks U.S. judge to force Twitter to restart his account](https://www.reuters.com/technology/trump-asks-florida-judge-force-twitter-restart-his-account-bloomberg-news-2021-10-02/)
 - Oct 02 - [Brain-cleaning sleeping cap gets US Army funding](https://newatlas.com/science/brain-cleaning-skullcap-sleep-glymphatic-system-us-army/)
 - Oct 02 - [Google destroyed our startup by terminating our Play Developer Account](https://medium.com/@sixacegames/how-google-destroyed-our-startup-by-terminating-our-google-play-developer-account-6a8cca09ea88)
+- Oct 02 - [An eccentric engineer at the Beatles’ record company invented the CT scan](https://www.fastcompany.com/90682224/beatles-engineer-ct-scan-invention-50-anniversary)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
