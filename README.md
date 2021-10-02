@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 02 - [Wave of US labor unrest could see tens of thousands on strike within weeks](https://www.theguardian.com/us-news/2021/oct/01/us-labor-unrest-unions-strikes)
 - Oct 02 - [Details of some 100M visitors to Thailand exposed online](https://www.scmp.com/news/asia/southeast-asia/article/3149475/details-some-100-million-visitors-thailand-exposed-online)
 - Oct 02 - [A Conspiracy to Kill IE6 (2019)](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
 - Oct 02 - [How Japan’s Thomas Edison Built the Nation’s Most Complicated Clock](https://watchesbysjx.com/2016/09/how-japans-thomas-edison-built-the-nations-most-complicated-clock.html)
 - Oct 02 - [The new dot com bubble is here: It's called online advertising](https://thecorrespondent.com/100/the-new-dot-com-bubble-is-here-its-called-online-advertising)
-- Oct 02 - [Coinbase Cloud](https://www.coinbase.com/cloud)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
