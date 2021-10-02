@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 02 - [An eccentric engineer at the Beatles’ record company invented the CT scan](https://www.fastcompany.com/90682224/beatles-engineer-ct-scan-invention-50-anniversary)
+- Oct 02 - [What Happened to Treehouse?](https://medium.com/@treehouse.insider/what-happened-to-treehouse-9af5c4901518)
+- Oct 02 - [Fuzzbuzz (YC W19) Is Hiring Full Stack Engineers (Reacty/Go) in SF Bay Area](https://angel.co/l/2vStjg)
 - Oct 02 - [Google Is Scrapping Its Plan to Offer Bank Accounts to Users](https://www.wsj.com/articles/google-is-scrapping-its-plan-to-offer-bank-accounts-to-users-11633104001)
 - Oct 02 - [Tesla produces 238k; delivers 241k vehicles in Q3 2021](https://ir.tesla.com/press-release/tesla-q3-2021-vehicle-production-deliveries)
-- Oct 02 - [73 Beautiful Books from the MIT Press Essential Knowledge Series](https://abakcus.com/seventy-three-beautiful-books-from-the-mit-press-essential-knowledge-series/)
-- Oct 02 - [Why Carmakers Can’t Transition to Newer Chips](https://jalopnik.com/i-asked-experts-why-carmakers-cant-just-transition-to-n-1847739665)
-- Oct 02 - [DroneSploit – A pentesting console framework dedicated to drones](https://github.com/dhondta/dronesploit)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
