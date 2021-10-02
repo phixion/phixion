@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 02 - [Six more zeros are to be removed from Venezuelan currency](https://en.mercopress.com/2021/10/01/fear-reigns-among-venezuelans-as-six-more-zeros-are-to-be-removed-from-local-currency)
 - Oct 02 - [A dependently typed language for proofs that you can implement in one day](https://github.com/caotic123/PomPom-Language)
 - Oct 02 - [USPS suspends mail deliveries to New Zealand](https://www.rnz.co.nz/news/national/452764/united-states-postal-service-suspends-mail-deliveries-to-new-zealand)
 - Oct 02 - [Factorio's Belt Bug](http://pubby.games/factorio.html)
-- Oct 02 - [Details of some 100M visitors to Thailand exposed online](https://www.scmp.com/news/asia/southeast-asia/article/3149475/details-some-100-million-visitors-thailand-exposed-online)
-- Oct 02 - [A Conspiracy to Kill IE6 (2019)](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
+- Oct 02 - [So You Want to Go to Grad School (In the Academic Humanities)?](https://acoup.blog/2021/10/01/collections-so-you-want-to-go-to-grad-school-in-the-academic-humanities/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
