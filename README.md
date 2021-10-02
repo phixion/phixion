@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 02 - [New Story (YC S15) Is Hiring a CFO](https://newstorycharity.org/careers/)
+- Oct 02 - [Black mamba venom is 'better painkiller' than morphine](https://www.bbc.com/news/health-19812064)
+- Oct 02 - [The Software Industry Is Still the Problem](https://queue.acm.org/detail.cfm?id=3489045)
+- Oct 02 - [As Bikers Throng the Streets, ‘It’s Like Paris Is in Anarchy’](https://www.nytimes.com/2021/10/02/world/europe/paris-bicyles-france.html)
 - Oct 02 - [Show HN: The Billboard, a fully decentralised billboard stored in Ethereum](https://thebillboard.vercel.app/)
-- Oct 02 - [Archivematica: Open-source digital preservation system](https://www.archivematica.org/en/)
-- Oct 02 - [Maker of ATM bombing tutorials blew himself up – Euro cops](https://www.theregister.com/2021/10/02/europol_atm_bombing/)
-- Oct 02 - [Fly.io (YC W20) Is Hiring](https://fly.io/blog/fly-io-is-hiring-technical-writers/)
-- Oct 02 - [The Martians of Budapest](https://www.privatdozent.co/p/the-martians-of-budapest-03b)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
