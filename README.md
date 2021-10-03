@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 03 - [Stacker (YC S20) Is Hiring Across Engineering](https://www.stackerhq.com/careers#job-listing)
 - Oct 03 - [R, OpenMP, MKL, Disaster](https://www.jyotirmoy.net/posts/2021-10-03-r-mkl-openmp.html)
 - Oct 03 - [The Fastest Path to the CEO Job, According to a 10-Year Study (2018)](https://hbr.org/2018/01/the-fastest-path-to-the-ceo-job-according-to-a-10-year-study)
-- Oct 03 - [Paracetamol use during pregnancy – a call for precautionary action](https://www.nature.com/articles/s41574-021-00553-7)
+- Oct 03 - [Americans Have No Idea What the Supply Chain Is](https://www.theatlantic.com/technology/archive/2021/09/pandemic-supply-chain-nightmare-slow-shipping/620147/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
