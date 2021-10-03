@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Oct 03 - [Is Crypto Banking the Unbanked?](https://blog.prologe.press/blog/crypto-and-the-unbanked)
 - Oct 03 - [Effective Go](https://golang.org/doc/effective_go)
+- Oct 03 - [Game where you build a CPU and assembly language from circuits](https://store.steampowered.com/app/1444480/Turing_Complete/)
 - Oct 03 - [Can Boom Supersonic Succeed Where the Concorde Failed?](https://www.johncoogan.com/boom-supersonic/)
 - Oct 03 - [Git Internals – Learn by Building Your Own Git](https://www.leshenko.net/p/ugit/#)
-- Oct 03 - [Choice Architecture [pdf]](https://www.sas.upenn.edu/~baron/475/choice.architecture.pdf)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
