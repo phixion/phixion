@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Oct 02 - [Two Weeks Later: Finding and Eliminating Long Tail Latencies](https://blog.cloudflare.com/two-weeks-later-finding-and-eliminating-long-tail-latencies/)
 - Oct 02 - [Farmer Born in 1842 Talks About Life and Change: Filmed in 1929](https://youtu.be/mD9ctCudvlw)
-- Oct 02 - [Whistle-Blower to Accuse Facebook of Contributing to Jan. 6 Riot, Memo Says](https://www.nytimes.com/2021/10/02/technology/whistle-blower-facebook-memo.html)
 - Oct 02 - [In America’s Next War, Machines Will Do the Thinking](https://www.bloombergquint.com/gadfly/ai-machines-will-do-the-thinking-in-the-next-u-s-war)
 - Oct 02 - [Mac SE/30 Odyssey](https://axio.ms/blog/2021/10/02/MacSE30.html)
+- Oct 02 - [Is Stock Market Rigged? Insider Trading by Executives Is Pervasive, Critics Say](https://www.bloomberg.com/news/features/2021-09-29/is-stock-market-rigged-insider-trading-by-executives-is-pervasive-critics-say)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
