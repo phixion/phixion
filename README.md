@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 03 - [Havana Syndrome most likely just crickets: declassified Dept of State report](https://www.buzzfeednews.com/article/danvergano/havana-syndrome-jason-crickets)
+- Oct 03 - [Ask HN: Are people only smart til they talk about something you are specialized?](https://news.ycombinator.com/item?id=28737192)
+- Oct 03 - [Generate ASCII graphic for code or mail signatures](http://www.network-science.de/ascii/)
+- Oct 03 - [Double-Odd Elliptic Curves](https://doubleodd.group/front.html)
 - Oct 03 - [Paradoxical Compression with VDF](https://github.com/pornin/paradox-compress)
-- Oct 03 - [‘Seinfeld’ Fans Upset That Netflix’s Aspect Ratio Cuts Out Jokes, Literally](https://www.rollingstone.com/tv/tv-news/seinfeld-netflix-aspect-ratio-1236110/)
-- Oct 03 - [Modern Treasury (YC S18) is hiring engineers (SF, NYC, remote)](https://www.moderntreasury.com/careers?utm_source=yYPEbOqnBd)
-- Oct 03 - [“Static Linking Considered Harmful” Considered Harmful](https://gavinhoward.com/2021/10/static-linking-considered-harmful-considered-harmful/)
-- Oct 03 - [Nobody Really Knows How the Economy Works. A Fed Paper Is the Latest Sign](https://www.nytimes.com/2021/10/01/upshot/inflation-economy-analysis.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
