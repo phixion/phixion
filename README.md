@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 03 - [The Concept of “Cultural Appropriation”](https://stallman.org/articles/cultural-appropriation.html)
+- Oct 03 - [Unified Shader Programming in C++](https://arxiv.org/abs/2109.14682)
 - Oct 03 - [Ambition (YC W14) Is Hiring VP – Marketing and Head of Enablement](https://ambition.com/careers/)
 - Oct 03 - [Offshore havens and hidden riches of world leaders and billionaires exposed](https://www.icij.org/investigations/pandora-papers/global-investigation-tax-havens-offshore/)
 - Oct 03 - [Pandora Papers](https://www.icij.org/investigations/pandora-papers)
-- Oct 03 - [Pandora papers: biggest leak of offshore data exposes financial secrets of rich](https://www.theguardian.com/news/2021/oct/03/pandora-papers-biggest-ever-leak-of-offshore-data-exposes-financial-secrets-of-rich-and-powerful)
-- Oct 03 - [Finally, on CBS, the football matches the business cards](https://www.ological.net/finally-on-cbs-the-football-matches-the-business-cards/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
