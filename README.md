@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 03 - [Modern Treasury (YC S18) is hiring engineers (SF, NYC, remote)](https://www.moderntreasury.com/careers?utm_source=yYPEbOqnBd)
-- Oct 03 - [“Static Linking Considered Harmful” Considered Harmful](https://gavinhoward.com/2021/10/static-linking-considered-harmful-considered-harmful/)
+- Oct 03 - [Ask HN: Why are relational DBs are the standard instead of graph-based DBs?](https://news.ycombinator.com/item?id=28736405)
 - Oct 03 - [Nobody Really Knows How the Economy Works. A Fed Paper Is the Latest Sign](https://www.nytimes.com/2021/10/01/upshot/inflation-economy-analysis.html)
+- Oct 03 - [Vernor Vinge, a Fire Upon the Deep (Space Opera Novel)](https://archive.org/details/fireupondeep00ving)
 - Oct 03 - [Effective Go](https://golang.org/doc/effective_go)
-- Oct 03 - [Game where you build a CPU and assembly language from circuits](https://store.steampowered.com/app/1444480/Turing_Complete/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
