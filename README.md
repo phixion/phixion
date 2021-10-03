@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 03 - [Word-Aligned Bloom Filters](https://lemire.me/blog/2021/10/03/word-aligned-bloom-filters/)
-- Oct 03 - [Ready-to-eat spices and food additives exposed to widespread rodent infestation](https://lite.cnn.com/en/article/h_ed45a8d1417bc5cf238b5303665c51fb)
 - Oct 03 - [Havana Syndrome most likely just crickets: declassified Dept of State report](https://www.buzzfeednews.com/article/danvergano/havana-syndrome-jason-crickets)
 - Oct 03 - [Ask HN: Are people only smart until they talk about things you know more about?](https://news.ycombinator.com/item?id=28737192)
 - Oct 03 - [Generate ASCII graphic for code or mail signatures](http://www.network-science.de/ascii/)
+- Oct 03 - [Double-Odd Elliptic Curves](https://doubleodd.group/front.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
