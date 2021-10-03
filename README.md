@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 03 - [Pandora papers: biggest leak of offshore data exposes financial secrets of rich](https://www.theguardian.com/news/2021/oct/03/pandora-papers-biggest-ever-leak-of-offshore-data-exposes-financial-secrets-of-rich-and-powerful)
+- Oct 03 - [Everything Is Difficult. So What?](https://youtopianjourney.substack.com/p/everything-is-difficult-so-what)
+- Oct 03 - [Evidence that overnight fasting could extend healthy lifespan [pdf]](https://media.nature.com/original/magazine-assets/d41586-021-01578-8/d41586-021-01578-8.pdf)
+- Oct 03 - [Show HN: SpotML – Managed ML Training on Cheap AWS/GCP Spot Instances](https://spotml.io/)
 - Oct 03 - [Skunk Works Boss Says He Can't Comment on TikTok Video of Stealth Shape](https://www.thedrive.com/the-war-zone/42568/skunk-works-boss-says-he-cant-comment-on-video-of-mysterious-stealth-shape-at-radar-test-range)
-- Oct 03 - [Word-Aligned Bloom Filters](https://lemire.me/blog/2021/10/03/word-aligned-bloom-filters/)
-- Oct 03 - [DARPA's hypersonic scramjet achieves successful flight](https://www.darpa.mil/news-events/2021-09-27)
-- Oct 03 - [Havana Syndrome most likely just crickets: declassified Dept of State report](https://www.buzzfeednews.com/article/danvergano/havana-syndrome-jason-crickets)
-- Oct 03 - [Generate ASCII graphic for code or mail signatures](http://www.network-science.de/ascii/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
