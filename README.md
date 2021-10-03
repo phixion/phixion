@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 03 - [Sirum (YC Nonprofit) Is Hiring Mission-Driven Founding Engineers](https://news.ycombinator.com/item?id=28740459)
 - Oct 03 - [A Macintosh History 85.10](https://systemtalk.org/post/macintosh-history-8510/)
 - Oct 03 - [Show HN: Research AI – Your 24/7 AI Writing Assistant](https://researchai.co)
 - Oct 03 - [Austria to introduce new carbon tax next year](https://apnews.com/article/climate-change-business-europe-austria-1b30ccdced4371bc5c7b306fca5e7c6e)
 - Oct 03 - [The Nernst Lamp](https://edisontechcenter.org/NernstLamps.html)
-- Oct 03 - [A massive oil spill in the Pacific Ocean reached the Southern California coast](https://www.npr.org/2021/10/03/1042846846/a-massive-oil-spill-in-the-pacific-ocean-has-reached-the-southern-california-coa)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
