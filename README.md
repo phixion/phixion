@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 03 - [Can Boom Supersonic Succeed Where the Concorde Failed?](https://www.johncoogan.com/boom-supersonic/)
+- Oct 03 - [Git Internals – Learn by Building Your Own Git](https://www.leshenko.net/p/ugit/#)
 - Oct 03 - [Choice Architecture [pdf]](https://www.sas.upenn.edu/~baron/475/choice.architecture.pdf)
 - Oct 03 - [Acetaminophen use during pregnancy and offspring ADHD](https://acamh.onlinelibrary.wiley.com/doi/10.1002/jcv2.12020)
 - Oct 03 - [Stacker (YC S20) Is Hiring Across Engineering](https://www.stackerhq.com/careers#job-listing)
-- Oct 03 - [R, OpenMP, MKL, Disaster](https://www.jyotirmoy.net/posts/2021-10-03-r-mkl-openmp.html)
-- Oct 03 - [The Fastest Path to the CEO Job, According to a 10-Year Study (2018)](https://hbr.org/2018/01/the-fastest-path-to-the-ceo-job-according-to-a-10-year-study)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
