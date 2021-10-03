@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 03 - [Paradoxical Compression with VDF](https://github.com/pornin/paradox-compress)
+- Oct 03 - [Where Have All the Sex Scenes Gone?](https://freebeacon.com/culture/where-have-all-sex-scenes-gone/)
 - Oct 03 - [‘Seinfeld’ Fans Upset That Netflix’s Aspect Ratio Cuts Out Jokes, Literally](https://www.rollingstone.com/tv/tv-news/seinfeld-netflix-aspect-ratio-1236110/)
 - Oct 03 - [Modern Treasury (YC S18) is hiring engineers (SF, NYC, remote)](https://www.moderntreasury.com/careers?utm_source=yYPEbOqnBd)
 - Oct 03 - [Ask HN: Why are relational DBs are the standard instead of graph-based DBs?](https://news.ycombinator.com/item?id=28736405)
-- Oct 03 - [“Static Linking Considered Harmful” Considered Harmful](https://gavinhoward.com/2021/10/static-linking-considered-harmful-considered-harmful/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
