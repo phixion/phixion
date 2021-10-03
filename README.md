@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Oct 03 - [Sirum (YC Nonprofit) Is Hiring Mission-Driven Founding Engineers](https://news.ycombinator.com/item?id=28740459)
 - Oct 03 - [E-Ink Magic Calendar that runs off a battery powered Raspberry Pi](https://github.com/speedyg0nz/MagInkCal)
+- Oct 03 - [Supply Chain and Network Security for Military 5G Networks [pdf]](https://ccdcoe.org/uploads/2021/10/Report_Supply_Chain_and_Network_Security_for_Military_5G_Networks.pdf)
 - Oct 03 - [Turmoil at Bezos' Blue Origin: Talent exodus after CEO push for return to office](https://www.cnbc.com/2021/10/01/jeff-bezos-blue-origin-talent-exodus-ceo-pushed-return-to-office.html)
 - Oct 03 - [A Macintosh History 85.10](https://systemtalk.org/post/macintosh-history-8510/)
-- Oct 03 - [Show HN: Research AI – AI Writing Assistant](https://researchai.co)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
