@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 03 - [The Fastest Path to the CEO Job, According to a 10-Year Study](https://hbr.org/2018/01/the-fastest-path-to-the-ceo-job-according-to-a-10-year-study)
+- Oct 03 - [Americans Have No Idea What the Supply Chain Is](https://www.theatlantic.com/technology/archive/2021/09/pandemic-supply-chain-nightmare-slow-shipping/620147/)
 - Oct 03 - [Paracetamol use during pregnancy – a call for precautionary action](https://www.nature.com/articles/s41574-021-00553-7)
 - Oct 03 - [HelloSystem 0.6.0](https://github.com/helloSystem/ISO/releases/tag/r0.6.0)
 - Oct 03 - [Beware Centralization](https://www.overcomingbias.com/2021/10/beware-centralization.html)
-- Oct 03 - [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28733646)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
