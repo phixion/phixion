@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 03 - [Effective Go](https://golang.org/doc/effective_go)
 - Oct 03 - [Can Boom Supersonic Succeed Where the Concorde Failed?](https://www.johncoogan.com/boom-supersonic/)
 - Oct 03 - [Git Internals – Learn by Building Your Own Git](https://www.leshenko.net/p/ugit/#)
 - Oct 03 - [Choice Architecture [pdf]](https://www.sas.upenn.edu/~baron/475/choice.architecture.pdf)
 - Oct 03 - [Acetaminophen use during pregnancy and offspring ADHD](https://acamh.onlinelibrary.wiley.com/doi/10.1002/jcv2.12020)
-- Oct 03 - [Stacker (YC S20) Is Hiring Across Engineering](https://www.stackerhq.com/careers#job-listing)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
