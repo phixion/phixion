@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 03 - [Sirum (YC Nonprofit) Is Hiring Mission-Driven Founding Engineers](https://news.ycombinator.com/item?id=28740459)
 - Oct 03 - [E-Ink Magic Calendar that runs off a battery powered Raspberry Pi](https://github.com/speedyg0nz/MagInkCal)
 - Oct 03 - [Turmoil at Bezos' Blue Origin: Talent exodus after CEO push for return to office](https://www.cnbc.com/2021/10/01/jeff-bezos-blue-origin-talent-exodus-ceo-pushed-return-to-office.html)
-- Oct 03 - [Facebook whistleblower to claim company contributed to Capitol attack](https://www.theguardian.com/us-news/2021/oct/03/facebook-whistleblower-capitol-attack)
 - Oct 03 - [A Macintosh History 85.10](https://systemtalk.org/post/macintosh-history-8510/)
+- Oct 03 - [The median voter is a 50-something white person who didn't go to college](https://www.slowboring.com/p/the-median-voter-is-a-50-something)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
