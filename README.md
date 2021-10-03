@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 03 - [Crypto CEO threatens customers after mistakenly sending them millions](https://mashable.com/article/compound-ceo-asks-for-money-back-defi-bug)
 - Oct 03 - [HelloSystem 0.6.0](https://github.com/helloSystem/ISO/releases/tag/r0.6.0)
 - Oct 03 - [Beware Centralization](https://www.overcomingbias.com/2021/10/beware-centralization.html)
 - Oct 03 - [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28733646)
 - Oct 03 - [If your MacBook Pro shows high % CPU, try charging on the right and not the left (2019)](https://apple.stackexchange.com/a/363933)
+- Oct 02 - [Building with Nix on Replit](https://docs.replit.com/tutorials/30-build-with-nix)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
