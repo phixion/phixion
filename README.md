@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 03 - [Austria to introduce new carbon tax next year](https://apnews.com/article/climate-change-business-europe-austria-1b30ccdced4371bc5c7b306fca5e7c6e)
 - Oct 03 - [Removing my site from Google search](https://www.btao.org/2021/10/03/removing-from-google/)
 - Oct 03 - [Unified Shader Programming in C++](https://arxiv.org/abs/2109.14682)
 - Oct 03 - [Ambition (YC W14) Is Hiring VP – Marketing and Head of Enablement](https://ambition.com/careers/)
 - Oct 03 - [Offshore havens and hidden riches of world leaders and billionaires exposed](https://www.icij.org/investigations/pandora-papers/global-investigation-tax-havens-offshore/)
-- Oct 03 - [Pandora Papers](https://www.icij.org/investigations/pandora-papers)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
