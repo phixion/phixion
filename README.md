@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 04 - [Hermit Programmers Are Dead](https://www.cesarsotovalero.net/blog/hermit-programmers-are-dead.html)
+- Oct 04 - [Autonomous vehicles create new problems and solve none](https://news.ycombinator.com/item?id=28744724)
 - Oct 04 - [How store anti-theft alarms work: Magnetostriction (2015)](https://hackaday.com/2015/12/03/how-store-anti-theft-alarms-work-magnetostriction/)
 - Oct 04 - [DeepMind AI predicts incoming rainfall with high accuracy](https://newatlas.com/computers/deepmind-ai-predicts-incoming-rainfall-high-accuracy/)
 - Oct 04 - [Raycast (YC W20) Is Hiring Product Designers](https://www.raycast.com/jobs/product-designer)
