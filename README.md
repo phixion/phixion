@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 04 - [Facebook Is Down](https://facebook.com)
+- Oct 04 - [Facebook-owned sites are down](https://facebook.com)
+- Oct 04 - [Captain Kirk: Bezos' Blue Origin to Send William Shatner into Space](https://www.bbc.co.uk/news/world-us-canada-58792761)
+- Oct 04 - [The big alcohol study that didn't happen: My primal scream of rage](https://dynomight.net/alcohol-trial/)
 - Oct 04 - [Brave and Firefox to intercept links that force-open in Microsoft Edge](https://www.ctrl.blog/entry/anti-competitive-browser-edges.html)
 - Oct 04 - [Hyper – Sell Memberships to Discord and Telegram](https://yetanotherstartup.com/p/hyper)
-- Oct 04 - [Government Orders Google to Identify Anyone Who Searched Name, Address & Phone N](https://www.forbes.com/sites/thomasbrewster/2021/10/04/google-keyword-warrants-give-us-government-data-on-search-users/)
-- Oct 04 - [Ask HN: How to get compeitors to use our open source interop-prototcol?](https://news.ycombinator.com/item?id=28747428)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
