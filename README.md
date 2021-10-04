@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 04 - [Python 3.11](https://docs.python.org/3.11/whatsnew/changelog.html#changelog)
+- Oct 04 - [Firefighters say they’re swamped by calls for routine care from senior homes](https://www.oregonlive.com/business/2021/10/firefighters-say-theyre-swamped-by-calls-for-routine-care-from-senior-homes-setting-off-one-sided-political-battle.html)
 - Oct 04 - [Whistleblower: FB misleading pub on progress vs. hate speech, violence, misinfo](https://www.cbsnews.com/news/facebook-whistleblower-misinformation-public-60-minutes-2021-10-03/)
 - Oct 03 - [The FB Whistleblower, Frances Haugen, Says She Wants to Fix Company, Not Harm It](https://www.wsj.com/articles/facebook-whistleblower-frances-haugen-says-she-wants-to-fix-the-company-not-harm-it-11633304122)
 - Oct 03 - [New study reveals iPhones aren't as private as you think](https://www.tomsguide.com/news/android-ios-data-collection)
-- Oct 03 - [Characterization of bacteria and fungi associated with the ISS' surfaces](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0666-x)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
