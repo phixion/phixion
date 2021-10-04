@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 04 - [facebook.com is up](https://facebook.com/?)
-- Oct 04 - [Understanding How Facebook Disappeared from the Internet](https://blog.cloudflare.com/october-2021-facebook-outage/)
-- Oct 04 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- Oct 04 - [What is BGP? – BGP routing explained](https://www.cloudflare.com/learning/security/glossary/what-is-bgp/)
-- Oct 04 - [Every device with FB app is now DDoSing recursive DNS resolvers](https://twitter.com/blazejkrajnak/status/1445063232486531099)
+- Oct 04 - [New York's largest healthcare provider fires 1,400 unvaccinated workers](https://www.reuters.com/business/healthcare-pharmaceuticals/new-yorks-largest-healthcare-provider-fires-1400-unvaccinated-workers-2021-10-04/)
+- Oct 04 - [Facebook is back up](https://facebook.com/)
+- Oct 04 - [Facebook Downtime Counter](https://www.fbdowntime.com/)
+- Oct 04 - [A Tale of DNS and BGP: The Facebook Outage, October 2021](https://riskledger.com/blog/facebook-outage)
+- Oct 04 - [The Facebook Status Page is up again](https://status.fb.com/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
