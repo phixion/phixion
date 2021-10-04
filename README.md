@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 04 - [Imaginary Personal Manager](https://pmswap.medium.com/imaginary-pm-b4b818625498)
+- Oct 04 - [Ask HN: What do engineers never talk to their bosses about, but should?](https://news.ycombinator.com/item?id=28746023)
 - Oct 04 - [Zero-Knowledge Proofs for Private Web Attestation with Multi-Vendor Hardware](https://blog.cloudflare.com/introducing-zero-knowledge-proofs-for-private-web-attestation-with-cross-multi-vendor-hardware/)
 - Oct 04 - [Not -Werror considered harmful](https://rsalsamendi.github.io/salsablog/#not--werror-considered-harmful)
 - Oct 04 - [OneSignal (YC S11) is hiring engineers to work on messaging: Push, SMS, & Email](https://onesignal.com/careers)
-- Oct 04 - [Facebook Is Weaker Than We Knew](https://www.nytimes.com/2021/10/04/technology/facebook-files.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
