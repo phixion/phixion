@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 04 - [Apple execs describe a “unique arrangement” with Netflix](https://twitter.com/TechEmails/status/1444367219509637123)
+- Oct 04 - [Personal Information of More Than 1.5B Facebook Users Sold on Hacker Forum](https://www.privacyaffairs.com/facebook-data-sold-on-hacker-forum/)
+- Oct 04 - [Shaded Relief Maps in Blender](https://github.com/joewdavies/geoblender)
+- Oct 04 - [Why Obsessively Following Successful People Online Is Dangerous](https://durmonski.com/life-advice/following-people-online-is-dangerous/)
 - Oct 04 - [Facebook-owned sites are down](https://facebook.com)
-- Oct 04 - [Captain Kirk: Bezos' Blue Origin to Send William Shatner into Space](https://www.bbc.co.uk/news/world-us-canada-58792761)
-- Oct 04 - [The big alcohol study that didn't happen: My primal scream of rage](https://dynomight.net/alcohol-trial/)
-- Oct 04 - [Brave and Firefox to intercept links that force-open in Microsoft Edge](https://www.ctrl.blog/entry/anti-competitive-browser-edges.html)
-- Oct 04 - [Hyper – Sell Memberships to Discord and Telegram](https://yetanotherstartup.com/p/hyper)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
