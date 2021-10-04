@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 04 - [Raycast (YC W20) Is Hiring Product Designers](https://www.raycast.com/jobs/product-designer)
+- Oct 04 - [It takes a PhD to develop that](https://blog.royalsloth.eu/posts/it-takes-a-phd-to-develop-that/)
 - Oct 04 - [I Was a Facebook Fact-Checker. It Was Like Playing a Doomed Game of Whack-a-Mole (2019)](https://www.buzzfeednews.com/article/brookebinkowski/fact-checking-facebook-doomed)
 - Oct 04 - [BepiColombo’s First Views of Mercury](https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/BepiColombo_s_first_views_of_Mercury)
 - Oct 04 - [An Honest Look at Urbit](https://jayriverlong.substack.com/p/36-an-honest-look-at-urbit)
-- Oct 04 - [Things Go Needs More Than Generics](https://ryanc118.medium.com/three-things-go-needs-right-now-more-than-generics-a6225d62f76b)
-- Oct 04 - [Python 3.11](https://docs.python.org/3.11/whatsnew/changelog.html#changelog)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
