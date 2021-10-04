@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 03 - [The FB Whistleblower, Frances Haugen, Says She Wants to Fix Company, Not Harm It](https://www.wsj.com/articles/facebook-whistleblower-frances-haugen-says-she-wants-to-fix-the-company-not-harm-it-11633304122)
+- Oct 03 - [Housing supply and demand in one screenshot](https://www.eclogiselle.com/2021/10/housing-supply-and-demand-in-one.html)
 - Oct 03 - [New study reveals iPhones aren't as private as you think](https://www.tomsguide.com/news/android-ios-data-collection)
+- Oct 03 - [Show HN: A curated list of PaaS and tools to emulate PaaS on cloud](https://github.com/debarshibasak/awesome-paas)
 - Oct 03 - [FoundationDB: A Distributed Unbundled Transactional Key Value Store](https://www.micahlerner.com/2021/06/12/foundationdb-a-distributed-unbundled-transactional-key-value-store.html)
-- Oct 03 - [Sirum (YC Nonprofit) Is Hiring Mission-Driven Founding Engineers](https://news.ycombinator.com/item?id=28740459)
-- Oct 03 - [E-Ink Magic Calendar that runs off a battery powered Raspberry Pi](https://github.com/speedyg0nz/MagInkCal)
-- Oct 03 - [Supply Chain and Network Security for Military 5G Networks [pdf]](https://ccdcoe.org/uploads/2021/10/Report_Supply_Chain_and_Network_Security_for_Military_5G_Networks.pdf)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
