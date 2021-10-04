@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 04 - [Ask HN: How to get compeitors to use our open source interop-prototcol?](https://news.ycombinator.com/item?id=28747428)
+- Oct 04 - [Credibility Requires Accountability: Monitoring Priests’ Cellphones](https://www.thepublicdiscourse.com/2021/08/77598/)
+- Oct 04 - [The Apple A15 SoC Performance Review: Faster and More Efficient](https://www.anandtech.com/show/16983/the-apple-a15-soc-performance-review-faster-more-efficient/)
 - Oct 04 - [Cloudflare just disrupted 3 industries in 1 week](https://www.indiehackers.com/post/cloudflare-just-disrupted-3-industries-in-1-week-907e44a8f5)
 - Oct 04 - [AI Is No Match for the Quirks of Human Intelligence](https://thereader.mitpress.mit.edu/ai-insight-problems-quirks-human-intelligence/)
-- Oct 04 - [Implicit Overflow Considered Harmful (and how to fix it)](https://blog.polybdenum.com/2021/10/03/implicit-overflow-considered-harmful-and-how-to-fix-it.html)
-- Oct 04 - [McKinsey never told the FDA it was working for both the FDA and opioid makers](https://www.propublica.org/article/mckinsey-never-told-the-fda-it-was-working-for-opioid-makers-while-also-working-for-the-agency)
-- Oct 04 - [Imaginary Personal Manager](https://pmswap.medium.com/imaginary-pm-b4b818625498)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
