@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 04 - [Texas Company Offers Truckers $14K/Wk During Tough Times for the Industry](https://altdriver.com/country/texas-company-offers-drivers-14k-a-week-during-truck-driver-shortage/)
+- Oct 04 - [Ask HN: How many lives have been negatively affected by WhatsApp going down?](https://news.ycombinator.com/item?id=28753055)
 - Oct 04 - [Facebook going down meant more than just a social network being unavailable](https://twitter.com/abgutman/status/1445124247005933573)
 - Oct 04 - [Facebook is back up](https://facebook.com/)
 - Oct 04 - [A Tale of DNS and BGP: The Facebook Outage, October 2021](https://riskledger.com/blog/facebook-outage)
-- Oct 04 - [Rent The Runway S-1 IPO](https://www.sec.gov/Archives/edgar/data/1468327/000119312521291103/d194411ds1.htm)
-- Oct 04 - [Understanding how Facebook disappeared from the internet](https://blog.cloudflare.com/october-2021-facebook-outage/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
