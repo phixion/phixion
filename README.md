@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 04 - [Three Things Go Needs More Than Generics](https://ryanc118.medium.com/three-things-go-needs-right-now-more-than-generics-a6225d62f76b)
+- Oct 04 - [Things Go Needs More Than Generics](https://ryanc118.medium.com/three-things-go-needs-right-now-more-than-generics-a6225d62f76b)
 - Oct 04 - [Python 3.11](https://docs.python.org/3.11/whatsnew/changelog.html#changelog)
 - Oct 04 - [The delights and the dangers of deplatforming extremists](https://conversationalist.org/2021/10/01/the-delights-and-the-dangers-of-deplatforming-extremists/)
 - Oct 04 - [Firefighters say they’re swamped by calls for routine care from senior homes](https://www.oregonlive.com/business/2021/10/firefighters-say-theyre-swamped-by-calls-for-routine-care-from-senior-homes-setting-off-one-sided-political-battle.html)
