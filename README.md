@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 04 - [The Facebook Status Page is up again](https://status.fb.com/)
+- Oct 04 - [facebook.com is up](https://facebook.com/?)
 - Oct 04 - [Understanding How Facebook Disappeared from the Internet](https://blog.cloudflare.com/october-2021-facebook-outage/)
 - Oct 04 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 - Oct 04 - [What is BGP? – BGP routing explained](https://www.cloudflare.com/learning/security/glossary/what-is-bgp/)
