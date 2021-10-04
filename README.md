@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 04 - [New York's largest healthcare provider fires 1,400 unvaccinated workers](https://www.reuters.com/business/healthcare-pharmaceuticals/new-yorks-largest-healthcare-provider-fires-1400-unvaccinated-workers-2021-10-04/)
+- Oct 04 - [Facebook going down meant more than just a social network being unavailable](https://twitter.com/abgutman/status/1445124247005933573)
 - Oct 04 - [Facebook is back up](https://facebook.com/)
-- Oct 04 - [Facebook Downtime Counter](https://www.fbdowntime.com/)
 - Oct 04 - [A Tale of DNS and BGP: The Facebook Outage, October 2021](https://riskledger.com/blog/facebook-outage)
 - Oct 04 - [Rent The Runway S-1 IPO](https://www.sec.gov/Archives/edgar/data/1468327/000119312521291103/d194411ds1.htm)
+- Oct 04 - [Understanding how Facebook disappeared from the internet](https://blog.cloudflare.com/october-2021-facebook-outage/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
