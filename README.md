@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 04 - [Revealed: The secret notes of Blue Origin leaders trying to catch SpaceX](https://arstechnica.com/science/2021/10/revealed-the-secret-notes-of-blue-origin-leaders-trying-to-catch-spacex/)
 - Oct 04 - [Ask HN: Is HN having problem keeping up today?](https://news.ycombinator.com/item?id=28750538)
 - Oct 04 - [Metastable Failures in Distributed Systems [pdf]](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s11-bronson.pdf)
 - Oct 04 - [Android 12 is live in AOSP](https://android-developers.googleblog.com/2021/10/android-12-is-live-in-aosp.html)
 - Oct 04 - [Thread.com (YC S12) | Lead iOS Engineer – London, England – Full-Time](https://news.ycombinator.com/item?id=28749424)
-- Oct 04 - [Apple execs describe a “unique arrangement” with Netflix](https://twitter.com/TechEmails/status/1444367219509637123)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
