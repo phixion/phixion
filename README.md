@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 04 - [For Tesla, Facebook and Others, AI’s Flaws Are Getting Harder to Ignore](https://www.bloomberg.com/opinion/articles/2021-10-04/artificial-intelligence-ain-t-that-smart-look-at-tesla-facebook-healthcare)
+- Oct 04 - [Discoveres of receptors for temperature and touch awarded Medicine Nobel Prize](https://www.nobelprize.org/prizes/medicine/2021/press-release/)
+- Oct 04 - [Map of PFAS(Forever Chemicals) Contamination in the United States](https://www.ewg.org/interactive-maps/pfas_contamination/map/)
+- Oct 04 - [Constipation drug 'could boost memory after just six days'](https://www.telegraph.co.uk/news/2021/10/04/constipation-drug-could-boost-memory-just-six-days/)
 - Oct 04 - [Policing of foreign tech investment in the US is broken](https://www.protocol.com/cfius-tech-investment-oversight)
-- Oct 04 - [Autonomous vehicles create new problems and solve none](https://news.ycombinator.com/item?id=28744724)
-- Oct 04 - [How store anti-theft alarms work: Magnetostriction (2015)](https://hackaday.com/2015/12/03/how-store-anti-theft-alarms-work-magnetostriction/)
-- Oct 04 - [DeepMind AI predicts incoming rainfall with high accuracy](https://newatlas.com/computers/deepmind-ai-predicts-incoming-rainfall-high-accuracy/)
-- Oct 04 - [Raycast (YC W20) Is Hiring Product Designers](https://www.raycast.com/jobs/product-designer)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
