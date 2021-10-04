@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Oct 04 - [Understanding How Facebook Disappeared from the Internet](https://blog.cloudflare.com/october-2021-facebook-outage/)
 - Oct 04 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- Oct 04 - [Google’s New Spyware in Chrome 94](https://fossforce.com/2021/10/googles-new-spyware-in-chrome-94/)
 - Oct 04 - [What is BGP? – BGP routing explained](https://www.cloudflare.com/learning/security/glossary/what-is-bgp/)
 - Oct 04 - [Every device with FB app is now DDoSing recursive DNS resolvers](https://twitter.com/blazejkrajnak/status/1445063232486531099)
-- Oct 04 - [What Happened to Facebook, Instagram, and WhatsApp?](https://krebsonsecurity.com/2021/10/what-happened-to-facebook-instagram-whatsapp/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
