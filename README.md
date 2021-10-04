@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 04 - [OneSignal (YC S11) is hiring engineers to work on messaging: Push, SMS, & Email](https://onesignal.com/careers)
+- Oct 04 - [Facebook Is Weaker Than We Knew](https://www.nytimes.com/2021/10/04/technology/facebook-files.html)
 - Oct 04 - [AI can predict if it will rain in two hours' time](https://www.bbc.com/news/technology-58748934)
 - Oct 04 - [VMware Fusion for Apple Silicon Public Tech Preview Now Available](https://blogs.vmware.com/teamfusion/2021/09/fusion-for-m1-public-tech-preview-now-available.html)
 - Oct 04 - [Self-driving Citroën Skate carries swappable pods for inner-city travel](https://newatlas.com/automotive/citroen-skate-autonomous-interchangeable-pods/)
-- Oct 04 - [Show HN: Open-source UK fuel availability tracker](https://fuelfinder.uk/)
-- Oct 04 - [For Tesla, Facebook and Others, AI’s Flaws Are Getting Harder to Ignore](https://www.bloomberg.com/opinion/articles/2021-10-04/artificial-intelligence-ain-t-that-smart-look-at-tesla-facebook-healthcare)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
