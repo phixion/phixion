@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 04 - [AI Is No Match for the Quirks of Human Intelligence](https://thereader.mitpress.mit.edu/ai-insight-problems-quirks-human-intelligence/)
+- Oct 04 - [Implicit Overflow Considered Harmful (and how to fix it)](https://blog.polybdenum.com/2021/10/03/implicit-overflow-considered-harmful-and-how-to-fix-it.html)
+- Oct 04 - [McKinsey never told the FDA it was working for both the FDA and opioid makers](https://www.propublica.org/article/mckinsey-never-told-the-fda-it-was-working-for-opioid-makers-while-also-working-for-the-agency)
 - Oct 04 - [Imaginary Personal Manager](https://pmswap.medium.com/imaginary-pm-b4b818625498)
 - Oct 04 - [Ask HN: What do engineers never talk to their bosses about, but should?](https://news.ycombinator.com/item?id=28746023)
-- Oct 04 - [Zero-Knowledge Proofs for Private Web Attestation with Multi-Vendor Hardware](https://blog.cloudflare.com/introducing-zero-knowledge-proofs-for-private-web-attestation-with-cross-multi-vendor-hardware/)
-- Oct 04 - [Not -Werror considered harmful](https://rsalsamendi.github.io/salsablog/#not--werror-considered-harmful)
-- Oct 04 - [OneSignal (YC S11) is hiring engineers to work on messaging: Push, SMS, & Email](https://onesignal.com/careers)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
