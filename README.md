@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 05 - [78 minutes of advice from YC founders and partners](https://quest.audio/t/8nzavsX7VY/inside-y-combinator)
+- Oct 05 - [Stripe Press](https://press.stripe.com)
 - Oct 05 - [Tools to Explore BGP](https://jvns.ca/blog/2021/10/05/tools-to-look-at-bgp-routes/)
 - Oct 05 - [LLVM 13.0.0 Released](https://lwn.net/Articles/871960/)
 - Oct 05 - [Comparing AWS's RDS and PlanetScale](https://planetscale.com/blog/planetscale-vs-aws-rds)
-- Oct 05 - [Open Tax Solver](http://opentaxsolver.sourceforge.net/)
-- Oct 05 - [Facebook whistleblower hearing: Frances Haugen testifies in Washington – live](https://www.theguardian.com/technology/live/2021/oct/05/facebook-hearing-whistleblower-frances-haugen-testifies-us-senate-latest-news)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
