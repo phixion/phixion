@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 05 - [Under the Hood of Macros in Elixir](https://blog.appsignal.com/2021/10/05/under-the-hood-of-macros-in-elixir.html)
-- Oct 05 - [Rowy: Open-source Airtable alternative on Google Cloud](https://www.rowy.io)
-- Oct 05 - [Facebook misled investors about its reach, whistleblower tells SEC](https://on.ft.com/2YldSxc)
-- Oct 05 - [Phrack Issue 70](http://phrack.org/issues/70/1.html)
-- Oct 05 - [Ask HN: How should I back up data on devices if I'm not smart?](https://news.ycombinator.com/item?id=28758415)
+- Oct 05 - [Microsoft's .NET Foundation under fire as resigning board member questions role](https://www.theregister.com/AMP/2021/10/05/microsoft_net_foundation_under_fire/)
+- Oct 05 - [GitHub Having Issues](https://www.githubstatus.com/incidents/bdbzpz7qxmbx)
+- Oct 05 - [My Logging Best Practices](https://tuhrig.de/my-logging-best-practices/)
+- Oct 05 - [Firefox 93](https://www.mozilla.org/en-US/firefox/93.0/releasenotes/)
+- Oct 05 - [A quick note on airships: Rebuild the Hindenburg. But better](https://caseyhandmer.wordpress.com/2020/05/20/a-quick-note-on-airships/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
