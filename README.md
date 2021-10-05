@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 05 - [Microsoft's .NET Foundation under fire as resigning board member questions role](https://www.theregister.com/AMP/2021/10/05/microsoft_net_foundation_under_fire/)
+- Oct 05 - [Facebook whistleblower hearing: Frances Haugen testifies in Washington – live](https://www.theguardian.com/technology/live/2021/oct/05/facebook-hearing-whistleblower-frances-haugen-testifies-us-senate-latest-news)
+- Oct 05 - [Whistleblower to Congress: Facebook products harm kids and democracy](https://www.npr.org/2021/10/05/1043207218/whistleblower-to-congress-facebook-products-harm-children-and-weaken-democracy)
+- Oct 05 - [.NET Foundation under fire as resigning board member questions its role](https://www.theregister.com/AMP/2021/10/05/microsoft_net_foundation_under_fire/)
 - Oct 05 - [GitHub Having Issues](https://www.githubstatus.com/incidents/bdbzpz7qxmbx)
-- Oct 05 - [My Logging Best Practices](https://tuhrig.de/my-logging-best-practices/)
-- Oct 05 - [Firefox 93](https://www.mozilla.org/en-US/firefox/93.0/releasenotes/)
-- Oct 05 - [A quick note on airships: Rebuild the Hindenburg. But better](https://caseyhandmer.wordpress.com/2020/05/20/a-quick-note-on-airships/)
+- Oct 05 - [My Logging Best Practices (2020)](https://tuhrig.de/my-logging-best-practices/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
