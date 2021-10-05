@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 05 - [Angle grinder required to get access to the Facebook server cage](https://twitter.com/cullend/status/1445156376934862848)
+- Oct 05 - [Akudo (YC S21) Is Hiring Software Developer – Front End Mobile](https://www.ycombinator.com/companies/akudo/jobs/rf2FbFj-software-developer-frontend-mobile)
 - Oct 04 - [FCC plans to rein in “gateway” carriers that bring foreign robocalls to US](https://arstechnica.com/tech-policy/2021/10/fcc-plans-to-rein-in-gateway-carriers-that-bring-foreign-robocalls-to-us/)
 - Oct 04 - [Why curiosity is better than being smart?](https://durmonski.com/life-advice/curiosity-is-better-than-being-smart/)
-- Oct 04 - [Ask HN: How many lives have been negatively affected by WhatsApp going down?](https://news.ycombinator.com/item?id=28753055)
-- Oct 04 - [Facebook going down meant more than just a social network being unavailable](https://twitter.com/abgutman/status/1445124247005933573)
-- Oct 04 - [Facebook is back up](https://facebook.com/)
+- Oct 04 - [Windows 11 has started rolling out worldwide](https://blogs.windows.com/windowsexperience/2021/10/04/windows-11-a-new-era-for-the-pc-begins-today/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
