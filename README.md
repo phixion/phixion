@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 05 - [Seattle Votes to Decriminalize Psilocybin and Similar Substances](https://www.bloomberg.com/news/articles/2021-10-04/seattle-votes-to-decriminalize-psylocybin-and-similar-substances)
 - Oct 05 - [A new public beta of GitHub Releases](https://github.blog/2021-10-04-beta-github-releases-improving-release-experience/)
 - Oct 05 - [Flexport is hiring engineers to build the future of global trade](https://www.flexport.com/careers)
 - Oct 05 - [PayPal Raises Fees for Most Domestic Transaction Types to 3.49% + $0.49](https://www.paypal.com/us/webapps/mpp/merchant-fees)
 - Oct 05 - [Hackers drain cryptocurrency accounts of thousands of Coinbase users](https://www.pcgamer.com/hackers-drain-cryptocurrency-accounts-of-thousands-of-coinbase-users/)
-- Oct 05 - [Tesla must pay $137M to ex-worker over hostile work environment, racism](https://www.cnbc.com/2021/10/05/tesla-must-pay-137-million-to-ex-worker-over-hostile-work-environment-racism.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
