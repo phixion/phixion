@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 05 - [What can be the next big thing after the internet?](https://graphtech.substack.com/p/vol-6-stages-of-ai-distinguishing)
 - Oct 05 - [Qventus (YC W15) Is Hiring a Senior Full Stack Engineer](https://jobs.lever.co/qventus/3f29db7c-a1c6-4c67-abf6-fb0d5b965bba)
-- Oct 05 - [Telegram founder says over 70M new users joined during Facebook outage](https://www.reuters.com/technology/telegram-founder-says-over-70-mln-new-users-joined-during-facebook-outage-2021-10-05/)
+- Oct 05 - [Show HN: ChessCoach – A neural chess engine that comments on each player's moves](https://chrisbutner.github.io/ChessCoach/)
+- Oct 05 - [A USB Fan Controller that now works under Linux](https://blog.ktz.me/a-usb-fan-controller-that-now-works-under-linux/)
 - Oct 05 - [Facebook’s attempt to smear the whistleblower](https://www.theverge.com/2021/10/5/22711182/facebook-whistleblower-smear-pr-response)
-- Oct 05 - [Cryptocurrencies’ Carbon Footprint Underestimated](https://blog.dshr.org/2021/10/cryptocurrencys-carbon-footprint.html)
-- Oct 05 - [Asahi Linux for M1 Macs: progress report for September 2021](https://asahilinux.org/2021/10/progress-report-september-2021/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
