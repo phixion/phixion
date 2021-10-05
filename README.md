@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 05 - [Phrack Magazine Issue 70](http://phrack.org/issues/70/1.html)
+- Oct 05 - [Udemy S-1 IPO](https://www.sec.gov/Archives/edgar/data/1607939/000119312521291460/d163445ds1.htm)
+- Oct 05 - [Show HN: Hurl – Run and test HTTP requests with plain text, curl and Rust](https://hurl.dev/index.html)
+- Oct 05 - [Startup guide: How to build a big brand on a small budget](https://docs.google.com/presentation/d/1zd8ZyqO1Jlo1A_Javgsl8ytWu-cMGLL7NYe5ps5mx9Y/edit#slide=id.gea743b29fd_6_132)
 - Oct 05 - [Centaur Labs (YC W19) Is Hiring a Head of Information Security](https://www.centaurlabs.com/open-positions)
-- Oct 05 - [Is 40 the New 60?](https://neverworkintheory.org/2021/10/03/is-40-the-new-60.html)
-- Oct 05 - [Break into this CEO’s laptop to steal company secrets and plant malware](https://twitter.com/SecurityJon/status/1445020885472235524)
-- Oct 05 - [Playing Battleships over BGP (2018)](https://blog.benjojo.co.uk/post/bgp-battleships)
-- Oct 05 - [The Nobel Prize in Physics 2021](https://www.nobelprize.org/prizes/physics/2021/press-release/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
