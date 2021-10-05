@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 05 - [Flexport is hiring engineers to build the future of global trade](https://www.flexport.com/careers)
 - Oct 05 - [PayPal Raises Fees for Most Domestic Transaction Types to 3.49% + $0.49](https://www.paypal.com/us/webapps/mpp/merchant-fees)
 - Oct 05 - [Hackers drain cryptocurrency accounts of thousands of Coinbase users](https://www.pcgamer.com/hackers-drain-cryptocurrency-accounts-of-thousands-of-coinbase-users/)
-- Oct 05 - [My own personal AWS S3 bucket](https://blog.jonudell.net/2021/10/04/my-own-personal-aws-s3-bucket/)
 - Oct 05 - [Tesla must pay $137M to ex-worker over hostile work environment, racism](https://www.cnbc.com/2021/10/05/tesla-must-pay-137-million-to-ex-worker-over-hostile-work-environment-racism.html)
+- Oct 05 - [Direct detection of dark energy: the XENON1T excess and future prospects](https://arxiv.org/abs/2103.15834)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
