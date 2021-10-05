@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 05 - [Tools to Explore BGP](https://jvns.ca/blog/2021/10/05/tools-to-look-at-bgp-routes/)
+- Oct 05 - [LLVM 13.0.0 Released](https://lwn.net/Articles/871960/)
+- Oct 05 - [Comparing AWS's RDS and PlanetScale](https://planetscale.com/blog/planetscale-vs-aws-rds)
+- Oct 05 - [Open Tax Solver](http://opentaxsolver.sourceforge.net/)
 - Oct 05 - [Facebook whistleblower hearing: Frances Haugen testifies in Washington – live](https://www.theguardian.com/technology/live/2021/oct/05/facebook-hearing-whistleblower-frances-haugen-testifies-us-senate-latest-news)
-- Oct 05 - [Whistleblower to Congress: Facebook products harm kids and democracy](https://www.npr.org/2021/10/05/1043207218/whistleblower-to-congress-facebook-products-harm-children-and-weaken-democracy)
-- Oct 05 - [.NET Foundation under fire as resigning board member questions its role](https://www.theregister.com/AMP/2021/10/05/microsoft_net_foundation_under_fire/)
-- Oct 05 - [GitHub Having Issues](https://www.githubstatus.com/incidents/bdbzpz7qxmbx)
-- Oct 05 - [My Logging Best Practices (2020)](https://tuhrig.de/my-logging-best-practices/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
