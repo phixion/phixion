@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 05 - [PayPal Raises Fees for Most Domestic Transaction Types to 3.49% + $0.49](https://www.paypal.com/us/webapps/mpp/merchant-fees)
 - Oct 05 - [Hackers drain cryptocurrency accounts of thousands of Coinbase users](https://www.pcgamer.com/hackers-drain-cryptocurrency-accounts-of-thousands-of-coinbase-users/)
 - Oct 05 - [My own personal AWS S3 bucket](https://blog.jonudell.net/2021/10/04/my-own-personal-aws-s3-bucket/)
 - Oct 05 - [Direct detection of dark energy: the XENON1T excess and future prospects](https://arxiv.org/abs/2103.15834)
 - Oct 05 - [Running BGP in large-scale data centers](https://engineering.fb.com/2021/05/13/data-center-engineering/bgp/)
-- Oct 05 - [Open Source Tax Software](http://ctskennerton.github.io/2021/08/30/open-source-tax-software/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
