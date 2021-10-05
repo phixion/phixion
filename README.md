@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 05 - [Tab Unloading in Firefox 93](https://hacks.mozilla.org/2021/10/tab-unloading-in-firefox-93/)
 - Oct 05 - [Debrief (YC W21) Is Hiring a founding growth and a founding product engineer](https://www.getdebrief.com/careers)
+- Oct 05 - [Celebrating Steve](https://www.apple.com/celebrating-steve)
 - Oct 05 - [JavaScript Restrictor](https://polcak.github.io/jsrestrictor/)
-- Oct 05 - [The New Timescale Cloud](https://blog.timescale.com/blog/announcing-the-new-timescale-cloud-and-a-new-vision-for-the-future-of-database-services-in-the-cloud/amp/)
-- Oct 05 - [Timescale Announces New Database Cloud](https://blog.timescale.com/blog/announcing-the-new-timescale-cloud-and-a-new-vision-for-the-future-of-database-services-in-the-cloud/)
-- Oct 05 - [78 minutes of advice from YC founders and partners](https://quest.audio/t/8nzavsX7VY/inside-y-combinator)
+- Oct 05 - [Mewe.com](https://mewe.com/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
