@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 05 - [Obscure challenges supporting Kubernetes 1.22 in Pixie](https://blog.px.dev/k8s-122-challenge/)
+- Oct 05 - [Cryptocurrencies’ Carbon Footprint Underestimated](https://blog.dshr.org/2021/10/cryptocurrencys-carbon-footprint.html)
 - Oct 05 - [Asahi Linux for M1 Macs: progress report for September 2021](https://asahilinux.org/2021/10/progress-report-september-2021/)
 - Oct 05 - [Complex Systems: A Physicist's Viewpoint (G. Parisi)](https://arxiv.org/abs/0205297)
 - Oct 05 - [More details about the October 4 outage](https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/)
-- Oct 05 - [OpenBGPD: The OpenBSD BGP internet routing daemon](https://www.openbgpd.org/)
-- Oct 05 - [Tab Unloading in Firefox 93](https://hacks.mozilla.org/2021/10/tab-unloading-in-firefox-93/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
