@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 05 - [More details about the October 4 outage](https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/)
+- Oct 05 - [OpenBGPD: The OpenBSD BGP internet routing daemon](https://www.openbgpd.org/)
 - Oct 05 - [Tab Unloading in Firefox 93](https://hacks.mozilla.org/2021/10/tab-unloading-in-firefox-93/)
 - Oct 05 - [Debrief (YC W21) Is Hiring a founding growth and a founding product engineer](https://www.getdebrief.com/careers)
 - Oct 05 - [Celebrating Steve](https://www.apple.com/celebrating-steve)
-- Oct 05 - [JavaScript Restrictor](https://polcak.github.io/jsrestrictor/)
-- Oct 05 - [Mewe.com](https://mewe.com/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
