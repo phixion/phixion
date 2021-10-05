@@ -36,9 +36,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 05 - [Phrack Magazine Issue 70](http://phrack.org/issues/70/1.html)
+- Oct 05 - [Ask HN: How should I back up data on devices if I'm not smart?](https://news.ycombinator.com/item?id=28758415)
 - Oct 05 - [Udemy S-1 IPO](https://www.sec.gov/Archives/edgar/data/1607939/000119312521291460/d163445ds1.htm)
 - Oct 05 - [Show HN: Hurl – Run and test HTTP requests with plain text, curl and Rust](https://hurl.dev/index.html)
-- Oct 05 - [Startup guide: How to build a big brand on a small budget](https://docs.google.com/presentation/d/1zd8ZyqO1Jlo1A_Javgsl8ytWu-cMGLL7NYe5ps5mx9Y/edit#slide=id.gea743b29fd_6_132)
 - Oct 05 - [Centaur Labs (YC W19) Is Hiring a Head of Information Security](https://www.centaurlabs.com/open-positions)
 <!--END_SECTION:hn-->
 
