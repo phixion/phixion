@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 05 - [What can be the next big thing after the internet?](https://graphtech.substack.com/p/vol-6-stages-of-ai-distinguishing)
+- Oct 05 - [We Need to Take CO2 Out of the Sky](https://www.orbuch.com/carbon-removal/)
 - Oct 05 - [Qventus (YC W15) Is Hiring a Senior Full Stack Engineer](https://jobs.lever.co/qventus/3f29db7c-a1c6-4c67-abf6-fb0d5b965bba)
 - Oct 05 - [New York Public Library ends all late fees](https://www.npr.org/2021/10/05/1043412502/library-fees-eliminated-new-york)
 - Oct 05 - [Show HN: ChessCoach – A neural chess engine that comments on each player's moves](https://chrisbutner.github.io/ChessCoach/)
