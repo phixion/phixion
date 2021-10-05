@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Oct 05 - [Telegram founder says over 70 mln new users joined during Facebook outage](https://www.reuters.com/technology/telegram-founder-says-over-70-mln-new-users-joined-during-facebook-outage-2021-10-05/)
 - Oct 05 - [Facebook’s cowardly attempt to smear the whistleblower](https://www.theverge.com/2021/10/5/22711182/facebook-whistleblower-smear-pr-response)
-- Oct 05 - [Obscure challenges supporting Kubernetes 1.22 in Pixie](https://blog.px.dev/k8s-122-challenge/)
 - Oct 05 - [Cryptocurrencies’ Carbon Footprint Underestimated](https://blog.dshr.org/2021/10/cryptocurrencys-carbon-footprint.html)
 - Oct 05 - [Asahi Linux for M1 Macs: progress report for September 2021](https://asahilinux.org/2021/10/progress-report-september-2021/)
+- Oct 05 - [Complex Systems: A Physicist's Viewpoint (G. Parisi)](https://arxiv.org/abs/0205297)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
