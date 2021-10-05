@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 05 - [Break into this CEO’s laptop to steal company secrets and plant malware](https://twitter.com/SecurityJon/status/1445020885472235524)
+- Oct 05 - [Playing Battleships over BGP (2018)](https://blog.benjojo.co.uk/post/bgp-battleships)
 - Oct 05 - [The Nobel Prize in Physics 2021- Physics for climate and other complex phenomena](https://www.nobelprize.org/prizes/physics/2021/press-release/)
+- Oct 05 - [Bravo Studio 3.0 just launched Build beautiful yet complex native apps. No code](https://www.bravostudio.app/)
 - Oct 05 - [After a decade as Apple’s assistant, Siri still hasn’t figured out the job](https://www.theverge.com/22704233/siri-apple-digital-assistant-10-years-development-problems-why)
-- Oct 05 - [The NAND gate. One gate to rule them all](https://sebastiancarlos.medium.com/the-nand-gate-one-gate-to-rule-them-all-ee1a5dbc83dd)
-- Oct 05 - [Show HN: Sixel-tmux displays graphics even if your terminal has no Sixel support](https://github.com/csdvrx/sixel-tmux)
-- Oct 05 - [Seattle Votes to Decriminalize Psilocybin and Similar Substances](https://www.bloomberg.com/news/articles/2021-10-04/seattle-votes-to-decriminalize-psylocybin-and-similar-substances)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
