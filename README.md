@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 05 - [Debrief (YC W21) Is Hiring a founding growth and a founding product engineer](https://www.getdebrief.com/careers)
+- Oct 05 - [JavaScript Restrictor](https://polcak.github.io/jsrestrictor/)
+- Oct 05 - [The New Timescale Cloud](https://blog.timescale.com/blog/announcing-the-new-timescale-cloud-and-a-new-vision-for-the-future-of-database-services-in-the-cloud/amp/)
+- Oct 05 - [Timescale Announces New Database Cloud](https://blog.timescale.com/blog/announcing-the-new-timescale-cloud-and-a-new-vision-for-the-future-of-database-services-in-the-cloud/)
 - Oct 05 - [78 minutes of advice from YC founders and partners](https://quest.audio/t/8nzavsX7VY/inside-y-combinator)
-- Oct 05 - [Stripe Press](https://press.stripe.com)
-- Oct 05 - [Tools to Explore BGP](https://jvns.ca/blog/2021/10/05/tools-to-look-at-bgp-routes/)
-- Oct 05 - [LLVM 13.0.0 Released](https://lwn.net/Articles/871960/)
-- Oct 05 - [Comparing AWS's RDS and PlanetScale](https://planetscale.com/blog/planetscale-vs-aws-rds)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
