@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 05 - [We Need to Take CO2 Out of the Sky](https://www.orbuch.com/carbon-removal/)
+- Oct 05 - [Detecting Photoshopped Faces by Scripting Photoshop (2019)](https://arxiv.org/abs/1906.05856)
 - Oct 05 - [Qventus (YC W15) Is Hiring a Senior Full Stack Engineer](https://jobs.lever.co/qventus/3f29db7c-a1c6-4c67-abf6-fb0d5b965bba)
 - Oct 05 - [New York Public Library ends all late fees](https://www.npr.org/2021/10/05/1043412502/library-fees-eliminated-new-york)
-- Oct 05 - [Show HN: ChessCoach – A neural chess engine that comments on each player's moves](https://chrisbutner.github.io/ChessCoach/)
-- Oct 05 - [A USB Fan Controller that now works under Linux](https://blog.ktz.me/a-usb-fan-controller-that-now-works-under-linux/)
+- Oct 05 - [Towards Learning to Play Piano with Dexterous Hands and Touch](https://arxiv.org/abs/2106.02040)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
