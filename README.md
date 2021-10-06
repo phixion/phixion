@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 06 - [Jerry (YC S17) Is Hiring Product Managers (All Levels)](https://jobs.lever.co/getjerry/ca3e605d-d309-4a9b-8df6-cd982cc6c71c)
+- Oct 06 - [Statement from Mark Zuckerberg](https://www.facebook.com/4/posts/10113961365418581/?d=n)
 - Oct 05 - [Nios V – Intel's RISC-V Processor](https://www.intel.com/content/www/us/en/products/details/fpga/nios-processor/v.html)
 - Oct 05 - [We need to take CO2 out of the sky](https://www.orbuch.com/carbon-removal/)
-- Oct 05 - [Qventus (YC W15) Is Hiring a Senior Full Stack Engineer](https://jobs.lever.co/qventus/3f29db7c-a1c6-4c67-abf6-fb0d5b965bba)
 - Oct 05 - [New York Public Library ends all late fees](https://www.npr.org/2021/10/05/1043412502/library-fees-eliminated-new-york)
-- Oct 05 - [Towards Learning to Play Piano with Dexterous Hands and Touch](https://arxiv.org/abs/2106.02040)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
