@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 06 - [Responsible Tech Playbook by Thoughtworks](https://www.thoughtworks.com/about-us/social-change/responsible-tech-playbook)
+- Oct 06 - [Scifi author QNTM on anti-memes, collaborative fiction wikis and software dev](https://thebrowser.com/notes/qntm/)
+- Oct 06 - [Did iOS 15 kill Google AMP](https://lapcatsoftware.com/articles/amp.html)
 - Oct 06 - [Show HN: Work for Performance – Open performance issues on open-source](https://www.workforperformance.com/)
 - Oct 06 - [European Parliament Calls for a Ban on Facial Recognition](https://www.politico.eu/article/european-parliament-ban-facial-recognition-brussels/)
 - Oct 06 - [Introducing raspberrypi.com](https://www.raspberrypi.org/blog/introducing-raspberrypicom/)
-- Oct 06 - [Rigetti Computing to go public](https://www.rigetti.com/merger-announcement)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
