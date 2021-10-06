@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 06 - [Investigators say they've finally identified the Zodiac Killer](https://www.fox13now.com/news/national-news/investigators-say-theyve-finally-identified-the-zodiac-killer)
+- Oct 06 - [Dubai ruler hacked ex-wife using NSO Pegasus spyware, high court judge finds](https://www.theguardian.com/world/2021/oct/06/dubai-ruler-hacked-ex-wife-using-nso-pegasus-spyware-high-court-judge-finds-sheikh-mohammed-princess-haya)
 - Oct 06 - [Abusing Terraform to Upload Static Websites to S3](https://www.tangramvision.com/blog/abusing-terraform-to-upload-static-websites-to-s3)
 - Oct 06 - [Pipeline company paid Minnesota police for arresting and surveilling protesters](https://www.theguardian.com/uk-news/2021/oct/05/line-3-pipeline-enbridge-paid-police-arrest-protesters)
 - Oct 06 - [The Truth About Nuclear Fusion Q Factors](http://backreaction.blogspot.com/2021/10/how-close-is-nuclear-fusion-power.html)
-- Oct 06 - [Facebook Is an Addiction Treadmill Most May Never Be Able to Quit](https://petapixel.com/2021/10/06/facebook-is-an-addiction-treadmill-most-may-never-be-able-to-quit/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
