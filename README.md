@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 06 - [Mythia (YC W21) Is Hiring](https://www.ycombinator.com/companies/mythia/jobs/wA4lTrr-founding-android-developer-fintech)
+- Oct 06 - [The Skill of Org Design](https://commoncog.com/blog/org-design-skill/)
 - Oct 06 - [Clean environment could become U.N. human right. Not so fast, say U.S., Britain](https://www.reuters.com/business/environment/clean-environment-could-become-un-human-right-not-so-fast-say-us-britain-2021-10-05/)
+- Oct 06 - [Alleged Twitch Data Breach](https://twitter.com/troyhunt/status/1445706515323637767)
 - Oct 06 - [Sqlfluff the SQL Linter for Humans](https://www.sqlfluff.com/)
-- Oct 06 - [The Nobel Prize in Chemistry 2021](https://www.nobelprize.org/prizes/chemistry/2021/press-release/)
-- Oct 06 - [How to permanently delete your Facebook account](https://www.facebook.com/help/224562897555674/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
