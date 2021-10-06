@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 06 - [Climate change is a big problem for farmers in Hawaii](https://thecounter.org/climate-change-big-problem-farmers-hawaii/)
+- Oct 06 - [How to replace estimations and guesses with a Monte Carlo simulation](https://lucasfcosta.com/2021/09/20/monte-carlo-forecasts.html)
+- Oct 06 - [Facebook harms children and weakens democracy: ex-employee](https://www.bbc.com/news/world-us-canada-58805965)
 - Oct 06 - [Don't Write Bugs](https://www.teamten.com/lawrence/programming/dont-write-bugs.html)
 - Oct 06 - [Singapore population sees biggest percentage drop since 1950](https://www.reuters.com/world/asia-pacific/singapore-population-sees-biggest-percentage-drop-since-1950-2021-09-28/)
 - Oct 06 - [Brain implant provided immediate relief to a severely depressed patient](https://www.statnews.com/2021/10/04/deep-brain-stimulation-depression-relief-research/)
-- Oct 06 - [Intermittent fasting in mice improves long-term memory retention](https://www.kcl.ac.uk/news/intermittent-fasting-in-mice-demonstrably-more-effective-at-promoting-long-term-memory-retention)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
