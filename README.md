@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 06 - [Evergrande Is Only the Beginning](https://www.brookfieldbrief.com/posts/evergrande-is-only-the-beginning)
 - Oct 06 - [Scifi author QNTM on anti-memes, collaborative fiction wikis and software dev](https://thebrowser.com/notes/qntm/)
+- Oct 06 - [Tutorial: Writing a “bare metal” operating system for Raspberry Pi 4](https://github.com/isometimes/rpi4-osdev)
 - Oct 06 - [Did iOS 15 kill Google AMP](https://lapcatsoftware.com/articles/amp.html)
-- Oct 06 - [Show HN: Work for Performance – Open performance issues on open-source](https://www.workforperformance.com/)
-- Oct 06 - [European Parliament Calls for a Ban on Facial Recognition](https://www.politico.eu/article/european-parliament-ban-facial-recognition-brussels/)
-- Oct 06 - [Introducing raspberrypi.com](https://www.raspberrypi.org/blog/introducing-raspberrypicom/)
+- Oct 06 - [Apple to face EU antitrust charge over NFC chip](https://www.reuters.com/technology/exclusive-eu-antitrust-regulators-charge-apple-over-its-nfc-chip-tech-sources-2021-10-06/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
