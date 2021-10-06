@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 06 - [Rigetti Computing to go public through SPAC at $1.5b valuation](https://www.rigetti.com/merger-announcement)
 - Oct 06 - [Mythia (YC W21) Is Hiring](https://www.ycombinator.com/companies/mythia/jobs/wA4lTrr-founding-android-developer-fintech)
 - Oct 06 - [The Skill of Org Design](https://commoncog.com/blog/org-design-skill/)
+- Oct 06 - [Python 3.11: “Zero cost” exception handling](https://bugs.python.org/issue40222)
 - Oct 06 - [Clean environment could become U.N. human right. Not so fast, say U.S., Britain](https://www.reuters.com/business/environment/clean-environment-could-become-un-human-right-not-so-fast-say-us-britain-2021-10-05/)
-- Oct 06 - [Alleged Twitch Data Breach](https://twitter.com/troyhunt/status/1445706515323637767)
-- Oct 06 - [Sqlfluff the SQL Linter for Humans](https://www.sqlfluff.com/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
