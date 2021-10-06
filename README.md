@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 06 - [The entirety of Twitch has reportedly been leaked](https://www.videogameschronicle.com/news/the-entirety-of-twitch-has-reportedly-been-leaked/amp/)
+- Oct 06 - [The Nobel Prize in Chemistry 2021](https://www.nobelprize.org/prizes/chemistry/2021/press-release/)
 - Oct 06 - [How to permanently delete your Facebook account](https://www.facebook.com/help/224562897555674/)
 - Oct 06 - [Clinical trial shows that the use of Vitamin D supplement improves sleep quality](https://pubmed.ncbi.nlm.nih.gov/28475473/)
 - Oct 06 - [Twitch source code and customer data has reportedly been leaked](https://www.videogameschronicle.com/news/the-entirety-of-twitch-has-reportedly-been-leaked/)
