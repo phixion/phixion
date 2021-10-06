@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 06 - [Emerge Tools (YC W21) Is Hiring](https://www.workatastartup.com/jobs/46779)
+- Oct 06 - [Do not use AWS CloudFormation](https://gswallow.medium.com/do-not-use-aws-cloudformation-7cf61f58bd5f)
 - Oct 06 - [Apple announces “Report a scam or fraud” App Store option](https://developer.apple.com/news/?id=j5uyprul)
+- Oct 06 - [U.S. Tech Salaries Grow, but Not for Everyone (IEEE-USA's 2021 Salary Survey)](https://spectrum.ieee.org/engineer-salary)
 - Oct 06 - [Norway to hit 100% electric vehicle sales by early next year](https://www.drive.com.au/news/norway-to-hit-100-per-cent-electric-vehicle-sales-by-next-year/)
-- Oct 06 - [The ultimate SMD marking codes database](https://smd.yooneed.one/)
-- Oct 06 - [The Tech Worker Handbook](https://techworkerhandbook.org/)
-- Oct 06 - [We (Wallaroo) Moved from Pony to Rust](https://www.wallaroo.ai/blog-posts/wallaroo-move-to-rust)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
