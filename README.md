@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 06 - [Apple announces “Report a scam or fraud” App Store option](https://developer.apple.com/news/?id=j5uyprul)
 - Oct 06 - [The ultimate SMD marking codes database](https://smd.yooneed.one/)
 - Oct 06 - [The Tech Worker Handbook](https://techworkerhandbook.org/)
 - Oct 06 - [We (Wallaroo) Moved from Pony to Rust](https://www.wallaroo.ai/blog-posts/wallaroo-move-to-rust)
-- Oct 06 - [Apple requires account deletion within apps in AppStore starting January 31](https://developer.apple.com/news/?id=mdkbobfo)
-- Oct 06 - [Lessons learned from sharding Postgres at Notion](https://www.notion.so/blog/sharding-postgres-at-notion)
+- Oct 06 - [A Controversial Autism Treatment Is About to Become a Big Business](https://www.vice.com/en/article/qj87xm/a-controversial-autism-treatment-is-about-to-become-a-very-big-business)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
