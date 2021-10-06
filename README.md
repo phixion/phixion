@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 06 - [You can't tell people anything (2004)](http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/)
 - Oct 06 - [Smarking (YC W15) Is Hiring Head of Eng to Digitize $655B Parking Industry](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
 - Oct 06 - [Twitch is hacked, and its source code leaked](https://kotaku.com/report-twitch-is-hacked-and-its-source-code-is-in-the-1847808252)
 - Oct 06 - [Will Cloudflare R2 Win Customers from Amazon S3?](https://www.taloflow.ai/blog/will-cloudflare-r2-win-customers-from-amazon-s3)
 - Oct 06 - [Ask HN: How to teach young kids about money?](https://news.ycombinator.com/item?id=28774683)
-- Oct 06 - [Nearly half of toys from third-party online sellers found to be dangerous](https://www.theguardian.com/money/2021/oct/05/nearly-half-toys-from-third-party-online-sellers-found-dangerous)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
