@@ -22,11 +22,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Oct 06 - [Republican Party of Texas - 72,596 breached accounts](https://haveibeenpwned.com/PwnedWebsites#RepublicanPartyOfTexas)
 - Oct 02 - [LinkedIn Scraped Data - 125,698,496 breached accounts](https://haveibeenpwned.com/PwnedWebsites#LinkedInScrape)
 - Sep 26 - [Ajarn - 266,399 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Ajarn)
 - Sep 19 - [Epik - 15,003,961 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Epik)
 - Aug 27 - [IndiaMART - 20,154,583 breached accounts](https://haveibeenpwned.com/PwnedWebsites#IndiaMART)
-- Aug 26 - [Imavex - 878,209 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Imavex)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## News
