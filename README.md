@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 06 - [Apple announces “Report a scam or fraud” App Store option](https://developer.apple.com/news/?id=j5uyprul)
+- Oct 06 - [Norway to hit 100% electric vehicle sales by early next year](https://www.drive.com.au/news/norway-to-hit-100-per-cent-electric-vehicle-sales-by-next-year/)
 - Oct 06 - [The ultimate SMD marking codes database](https://smd.yooneed.one/)
 - Oct 06 - [The Tech Worker Handbook](https://techworkerhandbook.org/)
 - Oct 06 - [We (Wallaroo) Moved from Pony to Rust](https://www.wallaroo.ai/blog-posts/wallaroo-move-to-rust)
-- Oct 06 - [A Controversial Autism Treatment Is About to Become a Big Business](https://www.vice.com/en/article/qj87xm/a-controversial-autism-treatment-is-about-to-become-a-very-big-business)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
