@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 06 - [Jupiter (YC S19) Is Hiring Front End Engineers](https://jupiter.co/careers)
 - Oct 06 - [How to replace estimations and guesses with a Monte Carlo simulation](https://lucasfcosta.com/2021/09/20/monte-carlo-forecasts.html)
 - Oct 06 - [Show HN: PeerSend – Social Payments powered by crypto](https://www.peersend.com/)
 - Oct 06 - [Facebook harms children and weakens democracy: ex-employee](https://www.bbc.com/news/world-us-canada-58805965)
 - Oct 06 - [Choosing the Right Wall Anchors](https://www.finewoodworking.com/2021/07/19/choosing-the-right-wall-anchors)
-- Oct 06 - [Don't write bugs](https://www.teamten.com/lawrence/programming/dont-write-bugs.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
