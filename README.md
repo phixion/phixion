@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 06 - [The entirety of Twitch has reportedly been leaked](https://www.videogameschronicle.com/news/the-entirety-of-twitch-has-reportedly-been-leaked/)
 - Oct 06 - [Jupiter (YC S19) Is Hiring Front End Engineers](https://jupiter.co/careers)
 - Oct 06 - [Hackers leaked her photos then she was charged for breaking anti-porn laws](https://restofworld.org/2021/women-east-africa-cybercrime-laws/)
 - Oct 06 - [How to replace estimations and guesses with a Monte Carlo simulation](https://lucasfcosta.com/2021/09/20/monte-carlo-forecasts.html)
 - Oct 06 - [Show HN: PeerSend – Social Payments powered by crypto](https://www.peersend.com/)
-- Oct 06 - [Choosing the Right Wall Anchors](https://www.finewoodworking.com/2021/07/19/choosing-the-right-wall-anchors)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
