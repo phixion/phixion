@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 06 - [Ancient Tardigrade from 16m Years Ago Is Like a Ghost Across Time](https://www.sciencealert.com/an-extraordinarily-rare-tardigrade-fossil-has-been-found-in-16-million-year-old-amber)
+- Oct 06 - [A trillion-dollar coin could be minted within hours of an emergency decision](https://news.yahoo.com/trillion-dollar-coin-could-minted-190109548.html)
+- Oct 06 - [Show HN: Work for Performance – Open performance issues on open-source](https://www.workforperformance.com/)
 - Oct 06 - [European Parliament Calls for a Ban on Facial Recognition](https://www.politico.eu/article/european-parliament-ban-facial-recognition-brussels/)
 - Oct 06 - [Introducing raspberrypi.com](https://www.raspberrypi.org/blog/introducing-raspberrypicom/)
 - Oct 06 - [Rigetti Computing to go public](https://www.rigetti.com/merger-announcement)
-- Oct 06 - [Mythia (YC W21) Is Hiring](https://www.ycombinator.com/companies/mythia/jobs/wA4lTrr-founding-android-developer-fintech)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
