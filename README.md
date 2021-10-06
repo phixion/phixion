@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Oct 06 - [Don't Write Bugs](https://www.teamten.com/lawrence/programming/dont-write-bugs.html)
 - Oct 06 - [Singapore population sees biggest percentage drop since 1950](https://www.reuters.com/world/asia-pacific/singapore-population-sees-biggest-percentage-drop-since-1950-2021-09-28/)
-- Oct 06 - [Why Isn't Google Fiber Peered with Google](https://bgp.he.net/AS16591#_peers)
 - Oct 06 - [Brain implant provided immediate relief to a severely depressed patient](https://www.statnews.com/2021/10/04/deep-brain-stimulation-depression-relief-research/)
 - Oct 06 - [Intermittent fasting in mice improves long-term memory retention](https://www.kcl.ac.uk/news/intermittent-fasting-in-mice-demonstrably-more-effective-at-promoting-long-term-memory-retention)
+- Oct 06 - [Why it has to be NoSQL](https://rxdb.info/why-nosql.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
