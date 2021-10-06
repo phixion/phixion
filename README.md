@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 06 - [Brain implant provided immediate relief to a severely depressed patient](https://www.statnews.com/2021/10/04/deep-brain-stimulation-depression-relief-research/)
 - Oct 06 - [Intermittent fasting in mice improves long-term memory retention](https://www.kcl.ac.uk/news/intermittent-fasting-in-mice-demonstrably-more-effective-at-promoting-long-term-memory-retention)
 - Oct 06 - [Why it has to be NoSQL](https://rxdb.info/why-nosql.html)
 - Oct 06 - [Moving Google Toward the Mainline](https://lwn.net/SubscriberLink/871195/d7e9acf5894446e6/)
 - Oct 06 - [Jerry (YC S17) Is Hiring Product Managers (All Levels)](https://jobs.lever.co/getjerry/ca3e605d-d309-4a9b-8df6-cd982cc6c71c)
-- Oct 06 - [Statement from Mark Zuckerberg](https://www.facebook.com/4/posts/10113961365418581/?d=n)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
