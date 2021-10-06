@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 06 - [Twitch is hacked, and its source code leaked](https://kotaku.com/report-twitch-is-hacked-and-its-source-code-is-in-the-1847808252)
 - Oct 06 - [Will Cloudflare R2 Win Customers from Amazon S3?](https://www.taloflow.ai/blog/will-cloudflare-r2-win-customers-from-amazon-s3)
 - Oct 06 - [What's the best SaaS starter kit?](https://news.ycombinator.com/item?id=28774647)
 - Oct 06 - [Evergrande Is Only the Beginning](https://www.brookfieldbrief.com/posts/evergrande-is-only-the-beginning)
 - Oct 06 - [QNTM on memes, anti-memes, and knowledge that doesn't want to be shared](https://thebrowser.com/notes/qntm/)
-- Oct 06 - [Tutorial: Writing a “bare metal” operating system for Raspberry Pi 4](https://github.com/isometimes/rpi4-osdev)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
