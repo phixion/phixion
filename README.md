@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 06 - [Will Cloudflare R2 Win Customers from Amazon S3?](https://www.taloflow.ai/blog/will-cloudflare-r2-win-customers-from-amazon-s3)
+- Oct 06 - [What's the best SaaS starter kit?](https://news.ycombinator.com/item?id=28774647)
 - Oct 06 - [Evergrande Is Only the Beginning](https://www.brookfieldbrief.com/posts/evergrande-is-only-the-beginning)
-- Oct 06 - [Scifi author QNTM on anti-memes, collaborative fiction wikis and software dev](https://thebrowser.com/notes/qntm/)
+- Oct 06 - [QNTM on memes, anti-memes, and knowledge that doesn't want to be shared](https://thebrowser.com/notes/qntm/)
 - Oct 06 - [Tutorial: Writing a “bare metal” operating system for Raspberry Pi 4](https://github.com/isometimes/rpi4-osdev)
-- Oct 06 - [Did iOS 15 kill Google AMP](https://lapcatsoftware.com/articles/amp.html)
-- Oct 06 - [Apple to face EU antitrust charge over NFC chip](https://www.reuters.com/technology/exclusive-eu-antitrust-regulators-charge-apple-over-its-nfc-chip-tech-sources-2021-10-06/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
