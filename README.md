@@ -36,7 +36,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 06 - [Introducing raspberrypi.com](https://www.raspberrypi.org/blog/introducing-raspberrypicom/)
-- Oct 06 - [Rigetti Computing to go public through SPAC at $1.5b valuation](https://www.rigetti.com/merger-announcement)
+- Oct 06 - [Rigetti Computing to go public](https://www.rigetti.com/merger-announcement)
 - Oct 06 - [Mythia (YC W21) Is Hiring](https://www.ycombinator.com/companies/mythia/jobs/wA4lTrr-founding-android-developer-fintech)
 - Oct 06 - [The Skill of Org Design](https://commoncog.com/blog/org-design-skill/)
 - Oct 06 - [Python 3.11: “Zero cost” exception handling](https://bugs.python.org/issue40222)
