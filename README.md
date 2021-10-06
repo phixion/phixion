@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 06 - [The ultimate SMD marking codes database](https://smd.yooneed.one/)
+- Oct 06 - [The Tech Worker Handbook](https://techworkerhandbook.org/)
+- Oct 06 - [We (Wallaroo) Moved from Pony to Rust](https://www.wallaroo.ai/blog-posts/wallaroo-move-to-rust)
 - Oct 06 - [Apple requires account deletion within apps in AppStore starting January 31](https://developer.apple.com/news/?id=mdkbobfo)
 - Oct 06 - [Lessons learned from sharding Postgres at Notion](https://www.notion.so/blog/sharding-postgres-at-notion)
-- Oct 06 - [Investigators say they've finally identified the Zodiac Killer](https://www.fox13now.com/news/national-news/investigators-say-theyve-finally-identified-the-zodiac-killer)
-- Oct 06 - [Dubai ruler hacked ex-wife using NSO Pegasus spyware, high court judge finds](https://www.theguardian.com/world/2021/oct/06/dubai-ruler-hacked-ex-wife-using-nso-pegasus-spyware-high-court-judge-finds-sheikh-mohammed-princess-haya)
-- Oct 06 - [Abusing Terraform to Upload Static Websites to S3](https://www.tangramvision.com/blog/abusing-terraform-to-upload-static-websites-to-s3)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
