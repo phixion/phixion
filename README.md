@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 06 - [Canyon.mid](https://canyonmid.com/)
 - Oct 06 - [I'm Sorry](https://github.com/dotnet-foundation/Home/discussions/39)
 - Oct 06 - [PLOS2021: ISO-C became unusable for operating systems](https://www.yodaiken.com/2021/10/06/plos-2021-paper-how-iso-c-became-unusable-for-operating-system-development/)
 - Oct 06 - [Emerge Tools (YC W21) Is Hiring](https://www.workatastartup.com/jobs/46779)
 - Oct 06 - [Terraform vs. AWS CloudFormation](https://gswallow.medium.com/do-not-use-aws-cloudformation-7cf61f58bd5f)
-- Oct 06 - [New “Report a Problem” link on product pages](https://developer.apple.com/news/?id=j5uyprul)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
