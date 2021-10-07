@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 07 - [El Salvador's Bitcoin use grows but headaches persist](https://www.reuters.com/technology/one-month-el-salvadors-bitcoin-use-grows-headaches-persist-2021-10-07/)
+- Oct 07 - [Cloudflare doesn’t have to cut off copyright-infringing websites, judge rules](https://arstechnica.com/tech-policy/2021/10/cloudflare-doesnt-have-to-cut-off-copyright-infringing-websites-judge-rules/)
 - Oct 07 - [Android Wallpaper Images Can Threaten Your Privacy](https://fingerprintjs.com/blog/how-android-wallpaper-images-threaten-privacy/)
 - Oct 07 - [Why didn’t auto-braking stop these crashes?](https://www.latimes.com/business/story/2021-10-07/why-arent-automatic-braking-systems-stopping-deadly-tesla-crashes)
 - Oct 07 - [Finland joins Sweden and Denmark in limiting Moderna Covid-19 vaccine](https://www.reuters.com/world/europe/finland-pauses-use-moderna-covid-19-vaccine-young-men-2021-10-07/)
-- Oct 07 - [Yorkshire gang's Game Boy device could unlock car in seconds](https://www.bbc.com/news/uk-england-leeds-58788627)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
