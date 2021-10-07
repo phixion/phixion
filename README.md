@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 07 - [A partially-automated medium-throughput homemade cider press with lasers](https://biotinker.dev/posts/cider.html)
 - Oct 07 - [Bringing Objective-C to the Amiga](https://blog.nil.im/?76)
-- Oct 07 - [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- Oct 07 - [Underdog Devs: supporting formerly incarcerated and disadvantaged aspiring devs](https://www.underdogdevs.org)
+- Oct 07 - [Rescale (YC W12) is hiring software engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 - Oct 07 - [Why masterclass isn't about mastery](https://every.to/napkin-math/why-masterclass-isnt-really-about-610214)
-- Oct 07 - [El Salvador's Bitcoin use grows but headaches persist](https://www.reuters.com/technology/one-month-el-salvadors-bitcoin-use-grows-headaches-persist-2021-10-07/)
-- Oct 07 - [Show HN: Shadergarden: Create reloadable graphical pipelines with Lisp and GLSL](https://blog.tonari.no/shadergarden)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
