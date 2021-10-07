@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 07 - [The Facebook Whistleblower Is Heroic and Terribly Wrong](https://mattstoller.substack.com/p/the-facebook-whistleblower-is-heroic)
+- Oct 07 - [America is running out of everything](https://www.theatlantic.com/ideas/archive/2021/10/america-is-choking-under-an-everything-shortage/620322/)
+- Oct 07 - [Show HN: Graphsignal – Production Model Monitoring: Anomalies, Drift, Exceptions](https://github.com/graphsignal/graphsignal)
 - Oct 07 - [Thoughts on chess improvement, after gaining 600 points in 6 months](https://mbuffett.com/posts/chess_improvement_thoughts/)
 - Oct 07 - [Faster Python with Guido van Rossum](https://www.softwareatscale.dev/p/software-at-scale-34-faster-python)
 - Oct 07 - [How to train large deep learning models as a startup](https://www.assemblyai.com/blog/how-to-train-large-deep-learning-models-as-a-startup/)
-- Oct 07 - [NUMA Siloing in the FreeBSD Network Stack [pdf]](https://2019.eurobsdcon.org/slides/NUMA%20Optimizations%20in%20the%20FreeBSD%20Network%20Stack%20-%20Drew%20Gallatin.pdf)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
