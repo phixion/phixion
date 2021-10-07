@@ -38,7 +38,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 07 - [Faster Python with Guido van Rossum](https://www.softwareatscale.dev/p/software-at-scale-34-faster-python)
 - Oct 07 - [How to train large deep learning models as a startup](https://www.assemblyai.com/blog/how-to-train-large-deep-learning-models-as-a-startup/)
 - Oct 07 - [NUMA Siloing in the FreeBSD Network Stack [pdf]](https://2019.eurobsdcon.org/slides/NUMA%20Optimizations%20in%20the%20FreeBSD%20Network%20Stack%20-%20Drew%20Gallatin.pdf)
-- Oct 07 - [Why California is shutting down its last nuclear plant](https://www.cnbc.com/2021/10/02/why-is-california-closing-diablo-canyon-nuclear-plant.html)
+- Oct 07 - [California is shutting down its last nuclear plant](https://www.cnbc.com/2021/10/02/why-is-california-closing-diablo-canyon-nuclear-plant.html)
 - Oct 07 - [Self directed IRAs under attack in proposed tax bill](https://www.advantaira.com/blog/urgent-action-needed-to-protect-your-self-directed-ira/)
 <!--END_SECTION:hn-->
 
