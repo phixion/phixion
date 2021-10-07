@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Oct 07 - [Help Us Find the Apps That Sell Your Location](https://themarkup.org/privacy/2021/10/07/help-us-find-the-apps-that-sell-your-location)
 - Oct 07 - [Sorted 3: Tasks and calendar events in a unified timeline](https://www.sortedapp.com)
-- Oct 07 - [Going from $110k to $24k for more skin in the game](https://interdimensional-television.com/post/2021/10/06/skin-in-the-game/)
-- Oct 07 - [First-ever atomic resolution video of salt crystals forming in real time](https://phys.org/news/2021-01-first-ever-atomic-resolution-video-salt.html)
-- Oct 07 - [Gannett and the Death of Local Newspapers](https://www.theatlantic.com/politics/archive/2021/10/gannett-local-newspaper-hawk-eye-iowa/619847/)
+- Oct 07 - [Robservable: Use of Observable notebooks (or parts of them) as htmlwidgets in R](https://juba.github.io/robservable/)
+- Oct 07 - [Apache OpenOffice 4.1.11](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces79)
+- Oct 07 - [Atomic resolution video of salt crystals forming in real time](https://phys.org/news/2021-01-first-ever-atomic-resolution-video-salt.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
