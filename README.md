@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 07 - [Sexist and offensive vintage ads. 1940 – 1980](https://rarehistoricalphotos.com/offensive-sexist-vintage-ads/)
 - Oct 07 - [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 - Oct 07 - [Why masterclass isn't about mastery](https://every.to/napkin-math/why-masterclass-isnt-really-about-610214)
 - Oct 07 - [El Salvador's Bitcoin use grows but headaches persist](https://www.reuters.com/technology/one-month-el-salvadors-bitcoin-use-grows-headaches-persist-2021-10-07/)
-- Oct 07 - [Cloudflare doesn’t have to cut off copyright-infringing websites, judge rules](https://arstechnica.com/tech-policy/2021/10/cloudflare-doesnt-have-to-cut-off-copyright-infringing-websites-judge-rules/)
-- Oct 07 - [Android Wallpaper Images Can Threaten Your Privacy](https://fingerprintjs.com/blog/how-android-wallpaper-images-threaten-privacy/)
+- Oct 07 - [Show HN: Shadergarden: Create reloadable graphical pipelines with Lisp and GLSL](https://blog.tonari.no/shadergarden)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
