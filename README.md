@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Oct 07 - [USS Connecticut (SSN 22) struck an object while submerged on Oct. 2](https://www.cpf.navy.mil/News/Article/2797630/statement-regarding-uss-connecticut-ssn-22/)
 - Oct 07 - [A partially-automated medium-throughput homemade cider press with lasers](https://biotinker.dev/posts/cider.html)
+- Oct 07 - [Autonomous drone navigates independently through the forest at 40 km/h](https://www.media.uzh.ch/en/Press-Releases/2021/Drone-in-the-wild.html)
 - Oct 07 - [Bringing Objective-C to the Amiga](https://blog.nil.im/?76)
 - Oct 07 - [Underdog Devs: supporting formerly incarcerated and disadvantaged aspiring devs](https://www.underdogdevs.org)
-- Oct 07 - [Rescale (YC W12) is hiring software engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
