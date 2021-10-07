@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 07 - [Study about the impact of open source on technological independence](https://digital-strategy.ec.europa.eu/en/library/study-about-impact-open-source-software-and-hardware-technological-independence-competitiveness-and)
+- Oct 07 - [Gordian Software (YC W19) Is Hiring Software Engineers](https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22)
 - Oct 07 - [Paddle announces iOS IAP alternative that avoids Apple's 30% fees](https://paddle.com/platform/in-app-purchase/)
-- Oct 07 - [Intel CEO Cites Brexit as Reason for Chip Fab Plans in UK Not an Option](https://www.techpowerup.com/287574/intel-ceo-cites-brexit-as-reason-for-chip-fab-plans-in-uk-not-an-option)
+- Oct 07 - [Facebook trying to recover its money during the outage (by screwing advertisers)](https://www.indiehackers.com/post/how-facebook-is-trying-to-recover-the-money-it-lost-during-the-outage-03a6ec6218)
 - Oct 07 - [Mozilla to put ads in Firefox address bar suggestions](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest#w_contextual-suggestions)
-- Oct 07 - [Shopscribe (YC S21) Is Hiring a Full Stack Hacker](https://www.ycombinator.com/companies/shopscribe/jobs/Ym3v6k1-full-stack-software-engineer)
+- Oct 07 - [RenderingNG: An architecture that makes and keeps Chrome fast for the long term](https://blog.chromium.org/2021/10/renderingng.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
