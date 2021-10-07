@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 07 - [DiveHealth (YC S21) Is Hiring – Chief Marketing Officer](https://divehealth.com/careers/chief-marketing-officer)
 - Oct 07 - [Facebook banned me for life because I help people use it less](https://slate.com/technology/2021/10/facebook-unfollow-everything-cease-desist.html)
 - Oct 07 - [A lesser known mechanism for alcohol tolerance](https://trevorklee.com/a-lesser-known-mechanism-for-alcohol-tolerance/)
+- Oct 07 - [No-code in manufacturing: automation without programming](https://www.smartindustry.com/blog/smart-industry-connect/no-code-in-manufacturing-automation-without-programming/)
 - Oct 07 - [.club domains are not resolving](https://www.reddit.com/r/sysadmin/comments/q38p8x)
-- Oct 07 - [AWS S3? Cloudflare R2? We think we know what's coming next](https://object-storage-name-generator.com/)
-- Oct 07 - [GitHub Advisory Database now powers NPM audit](https://github.blog/2021-10-07-github-advisory-database-now-powers-npm-audit/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
