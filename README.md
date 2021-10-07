@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 07 - [Steve Klabnik is no longer involved with The Rust Programming Language](https://twitter.com/steveklabnik/status/1445924875420332033)
 - Oct 07 - [How to redirect back to previous page in Elixir and Phoenix?](https://curiosum.com/til/how-to-redirect-user-back-in-elixir-phoenix)
 - Oct 07 - [Mozilla to put ads in Firefox address bar suggestions](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest#w_contextual-suggestions)
 - Oct 07 - [Shopscribe (YC S21) Is Hiring a Full Stack Hacker](https://www.ycombinator.com/companies/shopscribe/jobs/Ym3v6k1-full-stack-software-engineer)
 - Oct 07 - [RenderingNG: An architecture that makes and keeps Chrome fast for the long term](https://blog.chromium.org/2021/10/renderingng.html)
+- Oct 07 - [Effective Code Browsing](https://noahan.me/posts/effective-code-browsing-part1/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
