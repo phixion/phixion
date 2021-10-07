@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 07 - [A Bitcoin Mining Operation Started a Secret Power Plant, It Did Not Go as Plannd](https://gizmodo.com/a-bitcoin-mining-operation-started-a-secret-power-plant-1847811718)
 - Oct 07 - [Hyperbaric Oxygen Treatment for Alzheimer's](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7293997/)
 - Oct 07 - [Facebook Political Problems](https://stratechery.com/2021/facebook-political-problems/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJlbnQiOnsidXJpIjpbImh0dHBzOi8vc3RyYXRlY2hlcnkuY29tLzIwMjEvZmFjZWJvb2stcG9saXRpY2FsLXByb2JsZW1zLyJdfSwiZXhwIjoxNjM2MTMwMDQ1LCJpYXQiOjE2MzM1MzgwNDUsImlzcyI6Imh0dHBzOi8vc3RyYXRlY2hlcnkucGFzc3BvcnQub25saW5lL29hdXRoIiwic2NvcGUiOiJhcnRpY2xlOnJlYWQgY2F0ZWdvcnk6cmVhZCIsInN1YiI6IkxHQUNiVVRGS1dtVWMxRFRkNXFtMW0iLCJ1c2UiOiJhY2Nlc3MifQ.PMr73FtoayLlKQVtITLPhzQLkDzDZBwfc1DMGGVupIsDlq_cQ5HdYx6NFyKFvknnyubEP4W1IpRSFQ4cLsg2-F8OGWBjmjXKVVx-VZq5Bw4wrBdwFtaFVL9ZAR419j3PbocuVmyXaEjahuDvyO8FPb9xmWIn0nOBCxSjjaioSFfNtPYJkrNaEjlplO6tShfh610j29o-nfQZ8qF_fOL87__CGrZzqf0COsGaq850ozNViqf4LWf9POcCRMt74MHwcfdoI4JPJg84KbvE2FeWrzGgeW3guTTQZn59cQFXlLulPrlqIyPugmw2wcpm2bHXY-VqSMECcTOc2TKMx4oLDw)
 - Oct 07 - [The History of OS/2 (2001)](http://www.landley.net/history/mirror/os2/history/)
 - Oct 07 - [Gentle Introduction to Realtime Fluid Simulation for Programmers and Artists](https://shahriyarshahrabi.medium.com/gentle-introduction-to-fluid-simulation-for-programmers-and-technical-artists-7c0045c40bac)
-- Oct 07 - [An Iraqi who saved Norway from oil (2009)](https://web.archive.org/web/20100123225932/http://www.ft.com/cms/s/2/99680a04-92a0-11de-b63b-00144feabdc0.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
