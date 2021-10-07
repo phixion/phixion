@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 07 - [Gordian Software (YC W19) Is Hiring Software Engineers](https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22)
-- Oct 07 - [Paddle announces iOS IAP alternative that avoids Apple's 30% fees](https://paddle.com/platform/in-app-purchase/)
-- Oct 07 - [Facebook trying to recover its money during the outage (by screwing advertisers)](https://www.indiehackers.com/post/how-facebook-is-trying-to-recover-the-money-it-lost-during-the-outage-03a6ec6218)
-- Oct 07 - [Mozilla to put ads in Firefox address bar suggestions](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest#w_contextual-suggestions)
-- Oct 07 - [RenderingNG: An architecture that makes and keeps Chrome fast for the long term](https://blog.chromium.org/2021/10/renderingng.html)
+- Oct 07 - [First-ever atomic resolution video of salt crystals forming in real time](https://phys.org/news/2021-01-first-ever-atomic-resolution-video-salt.html)
+- Oct 07 - [Gannett and the Death of Local Newspapers](https://www.theatlantic.com/politics/archive/2021/10/gannett-local-newspaper-hawk-eye-iowa/619847/)
+- Oct 07 - [Dutch watchdog finds Apple App Store payment rules anti-competitive](https://www.reuters.com/technology/exclusive-dutch-watchdog-finds-apple-app-store-payment-rules-anti-competitive-2021-10-07/)
+- Oct 07 - [OCaml is getting multicore support in the next major version (v5)](https://discuss.ocaml.org/t/the-road-to-ocaml-5-0/8584)
+- Oct 07 - [Retired Husband Syndrome](https://en.wikipedia.org/wiki/Retired_husband_syndrome)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
