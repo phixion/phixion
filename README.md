@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 07 - [El Salvador's Bitcoin use grows but headaches persist](https://www.reuters.com/technology/one-month-el-salvadors-bitcoin-use-grows-headaches-persist-2021-10-07/)
 - Oct 07 - [Android Wallpaper Images Can Threaten Your Privacy](https://fingerprintjs.com/blog/how-android-wallpaper-images-threaten-privacy/)
 - Oct 07 - [Why didn’t auto-braking stop these crashes?](https://www.latimes.com/business/story/2021-10-07/why-arent-automatic-braking-systems-stopping-deadly-tesla-crashes)
 - Oct 07 - [Finland joins Sweden and Denmark in limiting Moderna Covid-19 vaccine](https://www.reuters.com/world/europe/finland-pauses-use-moderna-covid-19-vaccine-young-men-2021-10-07/)
 - Oct 07 - [Yorkshire gang's Game Boy device could unlock car in seconds](https://www.bbc.com/news/uk-england-leeds-58788627)
-- Oct 07 - [Diet soda may prompt food cravings, especially in women and people with obesity](https://www.npr.org/sections/health-shots/2021/10/07/1044010141/diet-soda-may-prompt-food-cravings-especially-in-women-and-people-with-obesity)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
