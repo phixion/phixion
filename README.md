@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 07 - [C++ is faster and safer than Rust](https://pvs-studio.com/en/blog/posts/0733/)
 - Oct 07 - [Yes, Bitcoin Is a Ponzi](https://ic.unicamp.br/~stolfi/bitcoin/2020-12-31-bitcoin-ponzi.html)
 - Oct 07 - [Effective Code Browsing](https://noahan.me/posts/effective-code-browsing-part1/)
 - Oct 07 - [Protein complex prediction with AlphaFold-Multimer](https://deepmind.com/research/publications/2021/protein-complex-prediction-with-alphafold-multimer)
 - Oct 07 - [A Bitcoin Mining Operation Started a Secret Power Plant, It Did Not Go as Plannd](https://gizmodo.com/a-bitcoin-mining-operation-started-a-secret-power-plant-1847811718)
-- Oct 07 - [Hyperbaric Oxygen Treatment for Alzheimer's](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7293997/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
