@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 07 - [Paddle announces iOS IAP alternative that avoids Apple's 30% fees](https://paddle.com/platform/in-app-purchase/)
+- Oct 07 - [Intel CEO Cites Brexit as Reason for Chip Fab Plans in UK Not an Option](https://www.techpowerup.com/287574/intel-ceo-cites-brexit-as-reason-for-chip-fab-plans-in-uk-not-an-option)
 - Oct 07 - [Mozilla to put ads in Firefox address bar suggestions](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest#w_contextual-suggestions)
 - Oct 07 - [Shopscribe (YC S21) Is Hiring a Full Stack Hacker](https://www.ycombinator.com/companies/shopscribe/jobs/Ym3v6k1-full-stack-software-engineer)
 - Oct 07 - [RenderingNG: An architecture that makes and keeps Chrome fast for the long term](https://blog.chromium.org/2021/10/renderingng.html)
-- Oct 07 - [Effective Code Browsing](https://noahan.me/posts/effective-code-browsing-part1/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
