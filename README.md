@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 07 - [Academia’s ableist culture laid bare](https://www.nature.com/articles/d41586-021-02695-0)
+- Oct 07 - [Hyperbaric Oxygen Treatment for Alzheimer's](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7293997/)
 - Oct 07 - [The History of OS/2 (2001)](http://www.landley.net/history/mirror/os2/history/)
-- Oct 07 - [“looks like Firefox quietly added ads into the address bar”](https://twitter.com/ladyaeva/status/1445834339917320194)
-- Oct 07 - [The Iraqi who saved Norway from oil](https://web.archive.org/web/20100123225932/http://www.ft.com/cms/s/2/99680a04-92a0-11de-b63b-00144feabdc0.html)
-- Oct 06 - [Canyon.mid](https://canyonmid.com/)
-- Oct 06 - [The Insane Innovation of TI Calculator Hobbyists](https://www.thirtythreeforty.net/posts/2021/10/ti-calculator-innovation/)
+- Oct 07 - [Gentle Introduction to Realtime Fluid Simulation for Programmers and Artists](https://shahriyarshahrabi.medium.com/gentle-introduction-to-fluid-simulation-for-programmers-and-technical-artists-7c0045c40bac)
+- Oct 07 - [Medical Ethicist at UC Irvine on leave for challenging Vaccine mandate](https://aaronkheriaty.substack.com/p/legal-update-10521)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
