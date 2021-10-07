@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 07 - [NUMA Siloing in the FreeBSD Network Stack [pdf]](https://2019.eurobsdcon.org/slides/NUMA%20Optimizations%20in%20the%20FreeBSD%20Network%20Stack%20-%20Drew%20Gallatin.pdf)
+- Oct 07 - [Why California is shutting down its last nuclear plant](https://www.cnbc.com/2021/10/02/why-is-california-closing-diablo-canyon-nuclear-plant.html)
 - Oct 07 - [Self directed IRAs under attack in proposed tax bill](https://www.advantaira.com/blog/urgent-action-needed-to-protect-your-self-directed-ira/)
 - Oct 07 - [Facebook is nearing a reputational point of no return](https://www.economist.com/leaders/2021/10/09/facebook-is-nearing-a-reputational-point-of-no-return)
 - Oct 07 - [Help Us Find the Apps That Sell Your Location](https://themarkup.org/privacy/2021/10/07/help-us-find-the-apps-that-sell-your-location)
-- Oct 07 - [Sorted 3: Tasks and calendar events in a unified timeline](https://www.sortedapp.com)
-- Oct 07 - [Robservable: Use of Observable notebooks (or parts of them) as htmlwidgets in R](https://juba.github.io/robservable/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
