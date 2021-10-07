@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 07 - [“Kids who grew up on smartphones do not know how to do anything on a computer”](https://www.reddit.com/r/apple/comments/o3k5rt/safari_15_on_mac_os_a_user_interface_mess/h2dxpla/)
+- Oct 07 - [Is Ford about to reinvent the bicycle derailleur?](https://www.cyclingweekly.com/products/are-ford-about-to-reinvent-the-bicycle-derailleur)
 - Oct 07 - [DiveHealth (YC S21) Is Hiring – Chief Marketing Officer](https://divehealth.com/careers/chief-marketing-officer)
 - Oct 07 - [Facebook banned me for life because I help people use it less](https://slate.com/technology/2021/10/facebook-unfollow-everything-cease-desist.html)
 - Oct 07 - [A lesser known mechanism for alcohol tolerance](https://trevorklee.com/a-lesser-known-mechanism-for-alcohol-tolerance/)
