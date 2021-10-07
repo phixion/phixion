@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 07 - [Why I'm donating $150/month (10% of my income) to the musl Libc project (2019)](https://andrewkelley.me/post/why-donating-to-musl-libc-project.html)
 - Oct 07 - [Is Ford about to reinvent the bicycle derailleur?](https://www.cyclingweekly.com/products/are-ford-about-to-reinvent-the-bicycle-derailleur)
 - Oct 07 - [DiveHealth (YC S21) Is Hiring – Chief Marketing Officer](https://divehealth.com/careers/chief-marketing-officer)
 - Oct 07 - [Facebook banned me for life because I help people use it less](https://slate.com/technology/2021/10/facebook-unfollow-everything-cease-desist.html)
 - Oct 07 - [A lesser known mechanism for alcohol tolerance](https://trevorklee.com/a-lesser-known-mechanism-for-alcohol-tolerance/)
-- Oct 07 - [No-code in manufacturing: automation without programming](https://www.smartindustry.com/blog/smart-industry-connect/no-code-in-manufacturing-automation-without-programming/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
