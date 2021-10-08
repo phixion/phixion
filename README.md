@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 08 - [100-year-old former Nazi guard has gone on trial, facing charges for 3518 deaths](https://www.npr.org/2021/10/07/1043971890/100-year-old-nazi-guard-on-trial-germany)
 - Oct 08 - [Explaining explaining: a quick guide on explanatory writing](https://lucasfcosta.com/2021/09/30/explaining-in-writing.html)
 - Oct 08 - [Quickemu: Quickly create and run optimised Win-10,11/macOS/Linux on Linux](https://github.com/wimpysworld/quickemu)
-- Oct 08 - [We set up an offshore company in a tax haven](https://www.npr.org/2021/10/06/1043746410/we-set-up-an-offshore-company-in-a-tax-haven-classic)
+- Oct 08 - [USPS Begins Postal Banking Pilot Program](https://prospect.org/economy/usps-begins-postal-banking-pilot-program/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
