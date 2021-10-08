@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 08 - [Ask HN: Practically accepting cryptocurrency for businesses without middlemen?](https://news.ycombinator.com/item?id=28795005)
+- Oct 08 - [When Facebook went down this week, traffic to news sites went up](https://www.niemanlab.org/2021/10/when-facebook-went-down-this-week-traffic-to-news-sites-went-up/)
 - Oct 08 - [How the .NET Foundation kerfuffle became a brouhaha](https://robmensching.com/blog/posts/2021/10/6/how-the-.net-foundation-kerfuffle-became-a-brouhaha/)
 - Oct 08 - [XMonad – The Automated Tiling WM](https://xmonad.org/)
-- Oct 07 - [Samsung Outlines 3nm Plans](https://news.samsung.com/global/samsung-foundry-innovations-power-the-future-of-big-data-ai-ml-and-smart-connected-devices)
-- Oct 07 - [Laser for control of mosquitos, weeds and pests](https://github.com/Ildaron/Laser_control)
+- Oct 08 - [Vim Anti-Patterns That Cause Beginners To:Quit](https://paweldu.dev/posts/vim-anti-patterns-that-cause-beginners-to-quit/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
