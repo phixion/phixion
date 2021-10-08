@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 08 - [The American Aristotle](https://aeon.co/essays/charles-sanders-peirce-was-americas-greatest-thinker)
 - Oct 08 - [NYC Scrapping Gifted and Talented Program Is a Triumph of Redefining Language](https://reason.com/2021/10/08/nyc-scrapping-gifted-and-talented-program-is-a-triumph-of-redefining-language/)
 - Oct 08 - [US Justice Department Launches a National Cryptocurrency Enforcement Team](https://therecord.media/justice-department-launches-a-national-cryptocurrency-enforcement-team/)
-- Oct 08 - [Firefox: Dark pattern consent dialog invites users to share their location](https://www.theregister.com/2021/10/08/mozilla_adding_sponsored_search_results/)
+- Oct 08 - [Firefox Now Sends Your Address Bar Keystrokes to Mozilla](https://www.howtogeek.com/760425/firefox-now-sends-your-address-bar-keystrokes-to-mozilla/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
