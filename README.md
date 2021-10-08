@@ -35,10 +35,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 08 - [Facebook bans, sends C&D letter to developer of Unfollow Everything extension](https://www.techspot.com/news/91650-facebook-bans-sends-cease-desist-letter-developer-unfollow.html)
 - Oct 08 - [Ophelia (YC W20) is hiring software engineers to help solve the opioid crisis](https://jobs.lever.co/ophelia/ea3e680d-659a-4478-a863-c2bf35177227)
 - Oct 08 - [136 Countries agree to minimum corporate tax rate](https://lite.cnn.com/en/article/h_ae2e1cd7c5997036404936c0eacc8356)
 - Oct 08 - [136 Countries agree to minimum corporate tax rate](https://www.cnn.com/2021/10/08/business/ireland-global-tax-deal-oecd/index.html)
-- Oct 08 - [California is the first state to ban 'stealthing,' nonconsensual condom removal](https://www.npr.org/2021/10/07/1040160313/california-stealthing-nonconsensual-condom-removal)
 - Oct 08 - [Crews Are Abandoned on Ships in Record Numbers Without Pay, Food or a Way Home](https://www.wsj.com/articles/crews-are-abandoned-on-ships-in-record-numbers-without-pay-food-or-a-way-home-11633699978)
 <!--END_SECTION:hn-->
 
