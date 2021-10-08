@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 08 - [A visit from a social robot improves hospitalized children’s outlook](https://newsroom.ucla.edu/releases/social-robot-improves-hospitalized-children-outlook)
 - Oct 08 - [Smoothness and performance of Qt based systems compared to native apps and OS](https://news.ycombinator.com/item?id=28798868)
 - Oct 08 - [State of Digital Nomads](https://nomadlist.com/digital-nomad-statistics?ref=83333)
 - Oct 08 - [Roapi: An API Server for Static Datasets](https://tech.marksblogg.com/roapi-rust-data-api.html)
 - Oct 08 - [When did we start signing our names to authenticate documents? (2011)](https://slate.com/news-and-politics/2011/03/when-did-we-start-signing-our-names-to-authenticate-documents.html)
-- Oct 08 - [Xkit (YC S18) Is Hiring a Senior UX Engineer](https://github.com/xkit-co/jobs/blob/main/senior-ux-engineer.md)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
