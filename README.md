@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 08 - [Computer Game Play Reduces Intrusive Memories of Experimental Trauma (2015)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4526368/)
+- Oct 08 - [SpaceX hits $100B valuation after secondary share sale](https://www.cnbc.com/2021/10/08/elon-musks-spacex-valuation-100-billion.html)
 - Oct 08 - [A visit from a social robot improves hospitalized children’s outlook](https://newsroom.ucla.edu/releases/social-robot-improves-hospitalized-children-outlook)
 - Oct 08 - [Orion is the new WebKit-based browser for Mac](https://browser.kagi.com/)
 - Oct 08 - [Smoothness and performance of Qt based systems compared to native apps and OS](https://news.ycombinator.com/item?id=28798868)
-- Oct 08 - [Why Multitasking Doesn't Work](https://health.clevelandclinic.org/science-clear-multitasking-doesnt-work/)
-- Oct 08 - [Elite MBAs are no Longer Relevant](https://news.ycombinator.com/item?id=28798440)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
