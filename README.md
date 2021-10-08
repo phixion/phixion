@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 08 - [Hugo Themes ranked by GitHub Stars (with preview)](https://hugoranked.com/)
+- Oct 08 - [Hugo Themes ranked by GitHub Stars](https://hugoranked.com/)
 - Oct 08 - [When Facebook went down this week, traffic to news sites went up](https://www.niemanlab.org/2021/10/when-facebook-went-down-this-week-traffic-to-news-sites-went-up/)
 - Oct 08 - [How the .NET Foundation kerfuffle became a brouhaha](https://robmensching.com/blog/posts/2021/10/6/how-the-.net-foundation-kerfuffle-became-a-brouhaha/)
 - Oct 08 - [XMonad – The Automated Tiling WM](https://xmonad.org/)
