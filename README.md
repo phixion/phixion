@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 08 - [Rust: Enums to Wrap Multiple Errors](https://fettblog.eu/rust-enums-wrapping-errors/)
 - Oct 08 - [AutoEQ: Automatic headphone equalization from frequency responses](https://github.com/jaakkopasanen/AutoEq)
 - Oct 08 - [Computer Game Play Reduces Intrusive Memories of Experimental Trauma (2015)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4526368/)
 - Oct 08 - [ETL Pipelines with Airflow: The Good, the Bad and the Ugly](https://airbyte.io/blog/airflow-etl-pipelines)
 - Oct 08 - [SpaceX hits $100B valuation after secondary share sale](https://www.cnbc.com/2021/10/08/elon-musks-spacex-valuation-100-billion.html)
-- Oct 08 - [CEO doesn't care about your CSS strategy, as long as you use Tailwind](https://ideas.krishnan.ca/your-ceo-doesnt-care-about-your-css-strategy-as-long-as-you-use-tailwind)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
