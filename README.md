@@ -36,9 +36,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 08 - [The Uncertain Future of Ham Radio](https://spectrum.ieee.org/ham-radio)
+- Oct 08 - [Facebook apologises as services including Instagram hit again](https://www.bbc.com/news/technology-58850041)
 - Oct 08 - [Facebook apologises as services including Instagram hit again](https://www.bbc.co.uk/news/technology-58850041)
 - Oct 08 - [Lots to See in Firefox 93](https://hacks.mozilla.org/2021/10/lots-to-see-in-firefox-93/)
-- Oct 08 - [Show HN: Conzept – an integrated encyclopedia for the 21st century](https://conze.pt)
 - Oct 08 - [1 Year of Coinbase as a mission focused company – Brian Armstrong](https://twitter.com/brian_armstrong/status/1443727729476530178)
 <!--END_SECTION:hn-->
 
