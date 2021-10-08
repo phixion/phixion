@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 08 - [The Nobel Peace Prize 2021](https://www.nobelprize.org/prizes/peace/2021/press-release/)
+- Oct 08 - [Explaining explaining: a quick guide on explanatory writing](https://lucasfcosta.com/2021/09/30/explaining-in-writing.html)
 - Oct 08 - [Quickemu: Quickly create and run optimised Win-10,11/macOS/Linux on Linux](https://github.com/wimpysworld/quickemu)
 - Oct 08 - [We set up an offshore company in a tax haven](https://www.npr.org/2021/10/06/1043746410/we-set-up-an-offshore-company-in-a-tax-haven-classic)
 - Oct 08 - [USPS Begins Postal Banking Pilot Program](https://prospect.org/economy/usps-begins-postal-banking-pilot-program/)
-- Oct 08 - [Opvia (YC S20) Is Hiring a Senior Product Engineer in London](https://www.notion.so/opvia/Senior-Product-Engineer-160ee0167887461cabc7acfc468a5b8d)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
