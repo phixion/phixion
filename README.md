@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 08 - [1 Year of Coinbase as a mission focused company – Brian Armstrong](https://twitter.com/brian_armstrong/status/1443727729476530178)
 - Oct 08 - [Google’s recruiting system is famously brutal. Many workers think it’s failing](https://www.protocol.com/workplace/google-recruiting-process-jobs)
 - Oct 08 - [Facebook bans, sends C&D letter to developer of Unfollow Everything extension](https://www.techspot.com/news/91650-facebook-bans-sends-cease-desist-letter-developer-unfollow.html)
 - Oct 08 - [Ophelia (YC W20) is hiring software engineers to help solve the opioid crisis](https://jobs.lever.co/ophelia/ea3e680d-659a-4478-a863-c2bf35177227)
 - Oct 08 - [136 Countries agree to minimum corporate tax rate](https://lite.cnn.com/en/article/h_ae2e1cd7c5997036404936c0eacc8356)
-- Oct 08 - [136 Countries agree to minimum corporate tax rate](https://www.cnn.com/2021/10/08/business/ireland-global-tax-deal-oecd/index.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
