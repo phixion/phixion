@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 08 - [Ophelia (YC W20) is hiring software engineers to help solve the opioid crisis](https://jobs.lever.co/ophelia/ea3e680d-659a-4478-a863-c2bf35177227)
 - Oct 08 - [136 Countries agree to minimum corporate tax rate](https://lite.cnn.com/en/article/h_ae2e1cd7c5997036404936c0eacc8356)
-- Oct 08 - [Mighty (YC S19) is hiring engineers to make a faster browser](https://www.notion.so/mightyapp/Mighty-is-hiring-945d3168d3e34a37883ca4d823ed734f)
+- Oct 08 - [136 Countries agree to minimum corporate tax rate](https://www.cnn.com/2021/10/08/business/ireland-global-tax-deal-oecd/index.html)
+- Oct 08 - [California is the first state to ban 'stealthing,' nonconsensual condom removal](https://www.npr.org/2021/10/07/1040160313/california-stealthing-nonconsensual-condom-removal)
 - Oct 08 - [Crews Are Abandoned on Ships in Record Numbers Without Pay, Food or a Way Home](https://www.wsj.com/articles/crews-are-abandoned-on-ships-in-record-numbers-without-pay-food-or-a-way-home-11633699978)
-- Oct 08 - [Ask HN: Unplugging](https://news.ycombinator.com/item?id=28801221)
-- Oct 08 - [What happened on the Internet during the Facebook outage](https://blog.cloudflare.com/during-the-facebook-outage/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
