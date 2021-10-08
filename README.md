@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Oct 08 - [Tesorio (YC S15) is Hiring a Head of Talent to help us grow 2x next year](https://jobs.lever.co/tesorio/cb6976de-e744-4f68-b10a-a9c2c62b3911)
 - Oct 08 - [Byzantine warrior with gold-threaded jaw unearthed in Greece](https://www.livescience.com/byzantine-warrior-fractured-jaw)
+- Oct 08 - [Promises Are Made to Be Broken: Migrating R to Strict Semantics [pdf]](http://aviral.io/static/pdfs/promises-are-made-to-be-broken.pdf)
 - Oct 08 - [Dos-like: Engine for making things with a MS-DOS feel, but for modern platforms](https://github.com/mattiasgustavsson/dos-like)
-- Oct 08 - [The Uncertain Future of Ham Radio](https://spectrum.ieee.org/ham-radio)
-- Oct 08 - [A Modest Apology for the Man in the Bottle (1749)](https://publicdomainreview.org/collection/bottleman/)
+- Oct 08 - [Black Kids Jailed for Crime Doesn’t Exist. Nothing Happened to Adults in Charge](https://www.propublica.org/article/black-children-were-jailed-for-a-crime-that-doesnt-exist)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
