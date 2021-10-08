@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 08 - [The Nobel Peace Prize 2021](https://www.nobelprize.org/prizes/peace/2021/press-release/)
+- Oct 08 - [We set up an offshore company in a tax haven](https://www.npr.org/2021/10/06/1043746410/we-set-up-an-offshore-company-in-a-tax-haven-classic)
 - Oct 08 - [USPS Begins Postal Banking Pilot Program](https://prospect.org/economy/usps-begins-postal-banking-pilot-program/)
 - Oct 08 - [Opvia (YC S20) Is Hiring a Senior Product Engineer in London](https://www.notion.so/opvia/Senior-Product-Engineer-160ee0167887461cabc7acfc468a5b8d)
 - Oct 08 - [An Engineer's Guide to Building a Database for Data-Intensive Applications](https://www.singlestore.com/blog/engineers-guide-building-database-for-data-intensive-applications/)
-- Oct 08 - [Hugo Themes ranked by GitHub Stars](https://hugoranked.com/)
-- Oct 08 - [When Facebook went down this week, traffic to news sites went up](https://www.niemanlab.org/2021/10/when-facebook-went-down-this-week-traffic-to-news-sites-went-up/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
