@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 08 - [Tesla moving headquarters to Texas from California](https://www.reuters.com/business/autos-transportation/tesla-moving-headquarters-austin-texas-says-ceo-musk-2021-10-07/)
+- Oct 08 - [How the .NET Foundation kerfuffle became a brouhaha](https://robmensching.com/blog/posts/2021/10/6/how-the-.net-foundation-kerfuffle-became-a-brouhaha/)
+- Oct 08 - [XMonad – The Automated Tiling WM](https://xmonad.org/)
 - Oct 07 - [Samsung Outlines 3nm Plans](https://news.samsung.com/global/samsung-foundry-innovations-power-the-future-of-big-data-ai-ml-and-smart-connected-devices)
 - Oct 07 - [Laser to Kill Mosquitoes](https://github.com/Ildaron/Laser_control)
-- Oct 07 - [Tesla Moves HQ from California to Austin](https://www.kxan.com/news/business/elon-musk-announces-teslas-headquarters-will-move-to-austin/)
-- Oct 07 - [USS Connecticut (SSN 22) struck an object while submerged on Oct. 2](https://www.cpf.navy.mil/News/Article/2797630/statement-regarding-uss-connecticut-ssn-22/)
-- Oct 07 - [A partially-automated medium-throughput homemade cider press with lasers](https://biotinker.dev/posts/cider.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
