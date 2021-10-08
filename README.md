@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 08 - [Roapi: An API Server for Static Datasets](https://tech.marksblogg.com/roapi-rust-data-api.html)
+- Oct 08 - [New York City to Phase Out Its Gifted and Talented Program](https://www.nytimes.com/2021/10/08/nyregion/gifted-talented-nyc-schools.html)
+- Oct 08 - [When did we start signing our names to authenticate documents? (2011)](https://slate.com/news-and-politics/2011/03/when-did-we-start-signing-our-names-to-authenticate-documents.html)
 - Oct 08 - [Xkit (YC S18) Is Hiring a Senior UX Engineer](https://github.com/xkit-co/jobs/blob/main/senior-ux-engineer.md)
 - Oct 08 - [Ask HN: People who cashed out early and stopped working. what is your life like?](https://news.ycombinator.com/item?id=28798089)
-- Oct 08 - [What’s the Point of 15-Minute Grocery Delivery?](https://www.vice.com/en/article/k78mkv/whats-the-point-of-15-minute-grocery-delivery)
-- Oct 08 - [Xterm.js](https://xtermjs.org/)
-- Oct 08 - [Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
