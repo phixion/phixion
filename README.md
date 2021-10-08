@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 08 - [J.G.Levitt believes future of storytelling is video games and not movies (2020)](https://www.gamesradar.com/joseph-gordon-levitt-believes-the-future-of-storytelling-is-video-games-and-not-movies/)
 - Oct 08 - [Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
 - Oct 08 - [100-year-old former Nazi guard has gone on trial, facing charges for 3518 deaths](https://www.npr.org/2021/10/07/1043971890/100-year-old-nazi-guard-on-trial-germany)
 - Oct 08 - [Explaining explaining: a quick guide on explanatory writing](https://lucasfcosta.com/2021/09/30/explaining-in-writing.html)
 - Oct 08 - [Quickemu: Quickly create and run optimised Win-10,11/macOS/Linux on Linux](https://github.com/wimpysworld/quickemu)
-- Oct 08 - [USPS Begins Postal Banking Pilot Program](https://prospect.org/economy/usps-begins-postal-banking-pilot-program/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
