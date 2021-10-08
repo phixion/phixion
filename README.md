@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 08 - [A visit from a social robot improves hospitalized children’s outlook](https://newsroom.ucla.edu/releases/social-robot-improves-hospitalized-children-outlook)
+- Oct 08 - [Orion is the new WebKit-based browser for Mac](https://browser.kagi.com/)
 - Oct 08 - [Smoothness and performance of Qt based systems compared to native apps and OS](https://news.ycombinator.com/item?id=28798868)
+- Oct 08 - [Why Multitasking Doesn't Work](https://health.clevelandclinic.org/science-clear-multitasking-doesnt-work/)
 - Oct 08 - [State of Digital Nomads](https://nomadlist.com/digital-nomad-statistics?ref=83333)
-- Oct 08 - [Elite MBAs are no Longer Relevant](https://news.ycombinator.com/item?id=28798440)
-- Oct 08 - [Roapi: An API Server for Static Datasets](https://tech.marksblogg.com/roapi-rust-data-api.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
