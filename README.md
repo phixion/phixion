@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Oct 08 - [Ireland joins OECD International Tax agreement](https://www.gov.ie/en/press-release/59812-ireland-joins-oecd-international-tax-agreement/)
 - Oct 08 - [The American Aristotle](https://aeon.co/essays/charles-sanders-peirce-was-americas-greatest-thinker)
+- Oct 08 - [NYC Scrapping Gifted and Talented Program Is a Triumph of Redefining Language](https://reason.com/2021/10/08/nyc-scrapping-gifted-and-talented-program-is-a-triumph-of-redefining-language/)
 - Oct 08 - [US Justice Department Launches a National Cryptocurrency Enforcement Team](https://therecord.media/justice-department-launches-a-national-cryptocurrency-enforcement-team/)
 - Oct 08 - [Firefox: Dark pattern consent dialog invites users to share their location](https://www.theregister.com/2021/10/08/mozilla_adding_sponsored_search_results/)
-- Oct 08 - [Iceland stops using Moderna Covid-19 vaccine](https://www-visir-is.translate.goog/g/20212167101d/stodva-notkun-boluefnis-moderna-her-a-landi-i-ljosi-nyrra-gagna?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-GB&_x_tr_pto=nui)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
