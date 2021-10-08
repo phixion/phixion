@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 07 - [Samsung Outlines 3nm Plans](https://news.samsung.com/global/samsung-foundry-innovations-power-the-future-of-big-data-ai-ml-and-smart-connected-devices)
+- Oct 07 - [Laser to Kill Mosquitoes](https://github.com/Ildaron/Laser_control)
+- Oct 07 - [Tesla Moves HQ from California to Austin](https://www.kxan.com/news/business/elon-musk-announces-teslas-headquarters-will-move-to-austin/)
 - Oct 07 - [USS Connecticut (SSN 22) struck an object while submerged on Oct. 2](https://www.cpf.navy.mil/News/Article/2797630/statement-regarding-uss-connecticut-ssn-22/)
 - Oct 07 - [A partially-automated medium-throughput homemade cider press with lasers](https://biotinker.dev/posts/cider.html)
-- Oct 07 - [Autonomous drone navigates independently through the forest at 40 km/h](https://www.media.uzh.ch/en/Press-Releases/2021/Drone-in-the-wild.html)
-- Oct 07 - [Bringing Objective-C to the Amiga](https://blog.nil.im/?76)
-- Oct 07 - [Underdog Devs: supporting formerly incarcerated and disadvantaged aspiring devs](https://www.underdogdevs.org)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
