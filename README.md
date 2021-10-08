@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 08 - [136 Countries agree to minimum corporate tax rate](https://lite.cnn.com/en/article/h_ae2e1cd7c5997036404936c0eacc8356)
 - Oct 08 - [Mighty (YC S19) is hiring engineers to make a faster browser](https://www.notion.so/mightyapp/Mighty-is-hiring-945d3168d3e34a37883ca4d823ed734f)
+- Oct 08 - [Crews Are Abandoned on Ships in Record Numbers Without Pay, Food or a Way Home](https://www.wsj.com/articles/crews-are-abandoned-on-ships-in-record-numbers-without-pay-food-or-a-way-home-11633699978)
 - Oct 08 - [Ask HN: Unplugging](https://news.ycombinator.com/item?id=28801221)
 - Oct 08 - [What happened on the Internet during the Facebook outage](https://blog.cloudflare.com/during-the-facebook-outage/)
-- Oct 08 - [Git as a Storage](https://bronevichok.ru/posts/git-as-a-storage.html)
-- Oct 08 - [Rust, Wright's Law, and the Future of Low-Latency Systems](https://www.youtube.com/watch?v=cuvp-e4ztC0)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
