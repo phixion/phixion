@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 09 - [Phillip Cross: The Mystery Wikipedia Editor Targeting Anti-War Sites](https://www.mintpressnews.com/phillip-cross-the-mystery-wikipedia-editor-targeting-anti-war-sites/250824/)
+- Oct 09 - [Ask HN: What is your story of immigrating to another country?](https://news.ycombinator.com/item?id=28808468)
 - Oct 09 - [Gmail password first character is case insensitive on mobile device](https://support.google.com/mail/thread/55577729/gmail-password-first-character-is-case-insensitive-on-mobile-device?hl=en)
 - Oct 09 - [Usenix ATC '21/OSDI '21: It's Time for Operating Systems to Rediscover Hardware](https://www.youtube.com/watch?v=36myc8wQhLo)
 - Oct 09 - [Google Dropping Material Design for iOS Apps](https://sixcolors.com/link/2021/10/googles-apps-to-embrace-ios-on-ios/)
-- Oct 09 - [Mirror Links for "Unfollow Everything"](https://www.reddit.com/r/programming/comments/q3smfr/unfollow_everything_developer_banned_for_life/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
