@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 09 - [Soupault (soup-oh) is a tool that helps you create and manage static websites](https://soupault.app/)
+- Oct 09 - [SpaceX becomes the second-ever unicorn company to reach a $100B valuation](https://www.teslaoracle.com/2021/10/09/spacex-100-billion-elon-musk-30b-lead-jeff-bezos/)
 - Oct 09 - [The American Bumblebee Has Vanished from Eight States](https://www.smithsonianmag.com/smart-news/american-bumblebee-has-vanished-from-eight-us-states-180978817/)
 - Oct 09 - [VSCode deprecates Enable Telemetry, auto-enrolls you in Telemetry](https://news.ycombinator.com/item?id=28812486)
 - Oct 09 - [ScummVM 2.5.0 “Twenty years ago today ” brings tons of new games to play](https://www.scummvm.org/news/20211009/)
-- Oct 09 - [For Teen Girls, Instagram Is a Cesspool](https://www.nytimes.com/2021/10/08/opinion/instagram-teen-girls-mental-health.html)
-- Oct 09 - [OSv Unikernel – Optimizing Guest OS to Run Stateless and Serverless Apps](https://www.p99conf.io/session/osv-unikernel-optimizing-guest-os-to-run-stateless-and-serverless-apps-in-the-cloud/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
