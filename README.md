@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 09 - [North Korean (DPRK) Textbooks](https://archive.org/details/DPRKTexts)
 - Oct 09 - [The Acme User Interface for Programmers](http://acme.cat-v.org/)
-- Oct 09 - [The Mind Has No Firewall](https://press.armywarcollege.edu/cgi/viewcontent.cgi?article=1871&context=parameters)
+- Oct 09 - [The Mind Has No Firewall [PDF]](https://press.armywarcollege.edu/cgi/viewcontent.cgi?article=1871&context=parameters)
 - Oct 09 - [Why Did Satoshi Decide to Use Secp256k1 Instead of Secp256r1?](https://dappworks.com/why-did-satoshi-decide-to-use-secp256k1-instead-of-secp256r1/)
 - Oct 09 - [EasyPost (YC S13) Is Hiring Remote (Or SLC and Austin)](https://www.easypost.com/careers)
-- Oct 09 - [Automating My Air Conditioner](https://www.dannyguo.com/blog/automating-my-air-conditioner/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
