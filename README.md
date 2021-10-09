@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 09 - [Nuclear waste is a solved problem](https://marginalrevolution.com/marginalrevolution/2021/10/from-the-comments-on-nuclear-waste-storage.html)
 - Oct 09 - [Philippine 2021 Nobel winner Ressa calls Facebook “biased against facts”](https://www.reuters.com/world/philippine-nobel-winner-ressa-calls-facebook-biased-against-facts-2021-10-09/)
 - Oct 09 - [OurBoard – free and open source online whiteboard](https://www.ourboard.io/)
 - Oct 09 - [Phillip Cross: The Mystery Wikipedia Editor Targeting Anti-War Sites](https://www.mintpressnews.com/phillip-cross-the-mystery-wikipedia-editor-targeting-anti-war-sites/250824/)
 - Oct 09 - [Ask HN: What is your story of immigrating to another country?](https://news.ycombinator.com/item?id=28808468)
-- Oct 09 - [Gmail password first character is case insensitive on mobile device](https://support.google.com/mail/thread/55577729/gmail-password-first-character-is-case-insensitive-on-mobile-device?hl=en)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
