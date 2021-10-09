@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 09 - [Bitmovin (YC S15) Is Hiring to build the future of video infrastructure](https://bitmovin.com/careers/)
+- Oct 09 - [Spread the word about your next cool project](https://github.com/trekhleb/promote-your-next-startup)
 - Oct 09 - [Your Money and Your Life (Edward Snowden)](https://edwardsnowden.substack.com/p/cbdcs)
 - Oct 09 - [Pandora Papers: is the world’s biggest leak the world’s biggest cover-up?](https://www.michaelwest.com.au/pandora-papers-is-the-worlds-biggest-leak-the-worlds-biggest-cover-up/)
 - Oct 09 - [The Berkshire Hathaway of the Internet](https://awilkinson.medium.com/the-berkshire-hathaway-of-the-internet-391a8ee83db)
-- Oct 09 - [The Off-Grid Laws of Every State in America](https://www.primalsurvivor.net/living-off-grid-legal/)
-- Oct 09 - [Private Networks and Industrial IoT](https://www.privatelteand5g.com/private-networks-and-industrial-iot-remote-monitoring-and-control-of-industry-4-0-for-dynamic-decision-making/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
