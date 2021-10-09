@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 09 - [China proposes prohibiting private investment in news service sector](https://www.bloombergquint.com/global-economics/china-s-negative-list-adds-entry-limits-to-news-service-sector)
+- Oct 09 - [Delta does not appear to make children sicker](https://www.reuters.com/business/healthcare-pharmaceuticals/delta-does-not-appear-make-children-sicker-secondary-immune-response-stronger-2021-10-08/)
 - Oct 09 - [EU court rules no EULA can forbid decompilation, if you want to fix a bug](https://curia.europa.eu/juris/document/document.jsf?text=&docid=247056&pageIndex=0&doclang=en&mode=req&dir=&occ=first&part=1&cid=6413406)
+- Oct 09 - [Libre Endowment Fund: Sustainable Development of Free Software](https://www.fdl-lef.org/)
 - Oct 09 - [Tesla’s Texas Move Is Latest Sign of California Losing Tech Grip](https://www.bloomberg.com/news/articles/2021-10-08/tesla-s-texas-move-is-latest-sign-of-california-losing-tech-grip)
-- Oct 09 - [O&O ShutUp10++ – Free anti-spy tool for Windows 10, 11](https://www.oo-software.com/en/shutup10)
-- Oct 09 - [GiveCampus (YC S15) Is Hiring Software Engineers who care about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- Oct 09 - [Show HN: ChokokuCAD – A breakthrough CAD application on the browser](https://github.com/itta611/ChokokuCAD/blob/main/README.md)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
