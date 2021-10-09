@@ -35,9 +35,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 09 - [The Off-Grid Laws of Every State in America](https://www.primalsurvivor.net/living-off-grid-legal/)
 - Oct 09 - [Private Networks and Industrial IoT](https://www.privatelteand5g.com/private-networks-and-industrial-iot-remote-monitoring-and-control-of-industry-4-0-for-dynamic-decision-making/)
 - Oct 09 - [Ć Programming Language](https://github.com/pfusik/cito)
-- Oct 08 - [Under A HEX: deep dive into Richard Heart's hex token](https://medium.com/@TooWumboToFail/under-a-hex-396847b86e57)
 - Oct 08 - [Ireland joins OECD International Tax agreement](https://www.gov.ie/en/press-release/59812-ireland-joins-oecd-international-tax-agreement/)
 - Oct 08 - [The American Aristotle](https://aeon.co/essays/charles-sanders-peirce-was-americas-greatest-thinker)
 <!--END_SECTION:hn-->
