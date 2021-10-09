@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 09 - [ScummVM 2.5.0 “Twenty years ago today ” brings tons of new games to play](https://www.scummvm.org/news/20211009/)
 - Oct 09 - [America’s unemployed are sending a message: Safety and compensation matter](https://www.washingtonpost.com/business/2021/10/08/september-jobs-report-takeaway/)
 - Oct 09 - [Microsoft Introduces EdgelessDB: A Database Designed for Confidential Computing](https://techcommunity.microsoft.com/t5/azure-confidential-computing/introducing-edgelessdb-a-database-designed-for-confidential/ba-p/2813631)
+- Oct 09 - [Design and Implementation of a 256-Core BrainFuck Computer [pdf]](https://people.csail.mit.edu/wjun/papers/sigtbd16.pdf)
 - Oct 09 - [Self-parking Car in 500 Lines of Code](https://trekhleb.dev/blog/2021/self-parking-car-evolution/)
-- Oct 09 - [Meticulous (YC S21) Is Hiring First Engineer (London and Remote)](https://news.ycombinator.com/item?id=28811444)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
