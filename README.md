@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 09 - [Gallery 3.1](https://github.com/bwdutton/gallery3)
+- Oct 09 - [Tech Jobs Are Everywhere Now](https://www.nytimes.com/2021/10/08/opinion/tech-jobs-tesla.html)
+- Oct 09 - [Lifehacks Stacks Exchange](https://lifehacks.stackexchange.com/)
+- Oct 09 - [Real-world data show that filters clean Covid-causing virus from air](https://www.nature.com/articles/d41586-021-02669-2)
+- Oct 09 - [Reddit uses “reddit.com” itself as the endpoint for logging usage data](https://twitter.com/wongmjane/status/1446556836497264641)
 - Oct 09 - [“If You Are Not Drowning in Demand, You Don’t Have Product-Market Fit” (2017)](https://capitalandgrowth.org/michael-seibel/)
-- Oct 09 - [AT&T’s Abandoned Microwave Tower Network (2017)](https://99percentinvisible.org/article/vintage-skynet-atts-abandoned-long-lines-microwave-tower-network/)
-- Oct 09 - [Key witness in Assange case jailed after admitting to lies and crime spree](https://stundin.is/grein/14117/)
-- Oct 09 - [China proposes prohibiting private investment in news service sector](https://www.bloombergquint.com/global-economics/china-s-negative-list-adds-entry-limits-to-news-service-sector)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
