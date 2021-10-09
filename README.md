@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 09 - [EU court rules no EULA can forbid decompilation, if you want to fix a bug](https://curia.europa.eu/juris/document/document.jsf?text=&docid=247056&pageIndex=0&doclang=en&mode=req&dir=&occ=first&part=1&cid=6413406)
+- Oct 09 - [O&O ShutUp 10 (now supporting Windows 11)](https://www.oo-software.com/en/shutup10)
 - Oct 09 - [GiveCampus (YC S15) Is Hiring Software Engineers who care about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- Oct 09 - [Nuclear waste is a solved problem](https://marginalrevolution.com/marginalrevolution/2021/10/from-the-comments-on-nuclear-waste-storage.html)
+- Oct 09 - [Show HN: ChokokuCAD – A breakthrough CAD application on the browser](https://github.com/itta611/ChokokuCAD/blob/main/README.md)
 - Oct 09 - [The Xterm Window Manager Homepage](https://xtermwm.sourceforge.io/)
-- Oct 09 - [A new biography explains the genius of John von Neumann](https://www.economist.com/books-and-arts/a-new-biography-explains-the-genius-of-john-von-neumann/21805346)
-- Oct 09 - [Show HN: OurBoard – free and open source online whiteboard](https://www.ourboard.io/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
