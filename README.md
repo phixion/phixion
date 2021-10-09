@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 09 - [AT&T’s Abandoned Microwave Tower Network (2017)](https://99percentinvisible.org/article/vintage-skynet-atts-abandoned-long-lines-microwave-tower-network/)
 - Oct 09 - [China proposes prohibiting private investment in news service sector](https://www.bloombergquint.com/global-economics/china-s-negative-list-adds-entry-limits-to-news-service-sector)
-- Oct 09 - [SheetJS](https://sheetjs.com/)
 - Oct 09 - [EU court rules no EULA can forbid decompilation, if you want to fix a bug](https://curia.europa.eu/juris/document/document.jsf?text=&docid=247056&pageIndex=0&doclang=en&mode=req&dir=&occ=first&part=1&cid=6413406)
 - Oct 09 - [Libre Endowment Fund: Sustainable Development of Free Software](https://www.fdl-lef.org/)
-- Oct 09 - [Tesla’s Texas Move Is Latest Sign of California Losing Tech Grip](https://www.bloomberg.com/news/articles/2021-10-08/tesla-s-texas-move-is-latest-sign-of-california-losing-tech-grip)
+- Oct 09 - [A Population-Level Decline in Serum Testosterone Levels in American Men (2007)](https://academic.oup.com/jcem/article/92/1/196/2598434)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
