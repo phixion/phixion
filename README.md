@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 09 - [Mirror Links for "Unfollow Everything"](https://www.reddit.com/r/programming/comments/q3smfr/unfollow_everything_developer_banned_for_life/)
 - Oct 09 - [Bitmovin (YC S15) Is Hiring to build the future of video infrastructure](https://bitmovin.com/careers/)
 - Oct 09 - [Spread the word about your next cool project](https://github.com/trekhleb/promote-your-next-startup)
 - Oct 09 - [Black Children Were Jailed for a Crime That Doesn’t Exist](https://www.propublica.org/article/black-children-were-jailed-for-a-crime-that-doesnt-exist)
 - Oct 09 - [Telephone Central Office Building Pictures](http://www.co-buildings.com/)
-- Oct 09 - [Your Money and Your Life (Edward Snowden)](https://edwardsnowden.substack.com/p/cbdcs)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
