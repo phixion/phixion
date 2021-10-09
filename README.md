@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 09 - [Gallery 3.1](https://github.com/bwdutton/gallery3)
 - Oct 09 - [“If You Are Not Drowning in Demand, You Don’t Have Product-Market Fit” (2017)](https://capitalandgrowth.org/michael-seibel/)
 - Oct 09 - [AT&T’s Abandoned Microwave Tower Network (2017)](https://99percentinvisible.org/article/vintage-skynet-atts-abandoned-long-lines-microwave-tower-network/)
+- Oct 09 - [Key witness in Assange case jailed after admitting to lies and crime spree](https://stundin.is/grein/14117/)
 - Oct 09 - [China proposes prohibiting private investment in news service sector](https://www.bloombergquint.com/global-economics/china-s-negative-list-adds-entry-limits-to-news-service-sector)
-- Oct 09 - [EU court rules no EULA can forbid decompilation, if you want to fix a bug](https://curia.europa.eu/juris/document/document.jsf?text=&docid=247056&pageIndex=0&doclang=en&mode=req&dir=&occ=first&part=1&cid=6413406)
-- Oct 09 - [Libre Endowment Fund: Sustainable Development of Free Software](https://www.fdl-lef.org/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
