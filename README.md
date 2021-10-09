@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 09 - [Usenix ATC '21/OSDI '21: It's Time for Operating Systems to Rediscover Hardware](https://www.youtube.com/watch?v=36myc8wQhLo)
 - Oct 09 - [Google Dropping Material Design for iOS Apps](https://sixcolors.com/link/2021/10/googles-apps-to-embrace-ios-on-ios/)
 - Oct 09 - [Mirror Links for "Unfollow Everything"](https://www.reddit.com/r/programming/comments/q3smfr/unfollow_everything_developer_banned_for_life/)
 - Oct 09 - [How to Evaluate Startup Offers](https://faingezicht.com/articles/2021/09/20/evaluating-startup-offers/)
 - Oct 09 - [Bitmovin (YC S15) Is Hiring to build the future of video infrastructure](https://bitmovin.com/careers/)
-- Oct 09 - [Free resources to promote your next startup](https://github.com/trekhleb/promote-your-next-startup)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
