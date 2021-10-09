@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 09 - [Apple rejects developer's horoscope app, says App Store has enough](https://www.imore.com/apple-rejects-developers-horoscope-app-says-app-store-has-enough)
+- Oct 09 - [The Berkshire Hathaway of the Internet](https://awilkinson.medium.com/the-berkshire-hathaway-of-the-internet-391a8ee83db)
 - Oct 09 - [The Off-Grid Laws of Every State in America](https://www.primalsurvivor.net/living-off-grid-legal/)
 - Oct 09 - [Private Networks and Industrial IoT](https://www.privatelteand5g.com/private-networks-and-industrial-iot-remote-monitoring-and-control-of-industry-4-0-for-dynamic-decision-making/)
 - Oct 09 - [Ć Programming Language](https://github.com/pfusik/cito)
-- Oct 08 - [Ireland joins OECD International Tax agreement](https://www.gov.ie/en/press-release/59812-ireland-joins-oecd-international-tax-agreement/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
