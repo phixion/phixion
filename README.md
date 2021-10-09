@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 09 - [Ć Programming Language](https://github.com/pfusik/cito)
+- Oct 09 - [Hydrogen’s moment is here at last](https://www.economist.com/leaders/2021/10/09/hydrogens-moment-is-here-at-last)
+- Oct 08 - [Under A HEX: deep dive into Richard Heart's hex token](https://medium.com/@TooWumboToFail/under-a-hex-396847b86e57)
 - Oct 08 - [Ireland joins OECD International Tax agreement](https://www.gov.ie/en/press-release/59812-ireland-joins-oecd-international-tax-agreement/)
 - Oct 08 - [The American Aristotle](https://aeon.co/essays/charles-sanders-peirce-was-americas-greatest-thinker)
-- Oct 08 - [NYC Scrapping Gifted and Talented Program Is a Triumph of Redefining Language](https://reason.com/2021/10/08/nyc-scrapping-gifted-and-talented-program-is-a-triumph-of-redefining-language/)
-- Oct 08 - [US Justice Department Launches a National Cryptocurrency Enforcement Team](https://therecord.media/justice-department-launches-a-national-cryptocurrency-enforcement-team/)
-- Oct 08 - [Firefox: Dark pattern consent dialog invites users to share their location](https://www.theregister.com/2021/10/08/mozilla_adding_sponsored_search_results/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
