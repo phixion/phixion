@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Oct 09 - [Why Did Satoshi Decide to Use Secp256k1 Instead of Secp256r1?](https://dappworks.com/why-did-satoshi-decide-to-use-secp256k1-instead-of-secp256r1/)
 - Oct 09 - [EasyPost (YC S13) Is Hiring Remote (Or SLC and Austin)](https://www.easypost.com/careers)
+- Oct 09 - [Automating My Air Conditioner](https://www.dannyguo.com/blog/automating-my-air-conditioner/)
 - Oct 09 - [Facebook's own data is not as conclusive about teens and mental health](https://www.npr.org/2021/10/06/1043138622/facebook-instagram-teens-mental-health)
 - Oct 09 - [Soupault (soup-oh) is a tool that helps you create and manage static websites](https://soupault.app/)
-- Oct 09 - [SpaceX becomes the second-ever unicorn company to reach a $100B valuation](https://www.teslaoracle.com/2021/10/09/spacex-100-billion-elon-musk-30b-lead-jeff-bezos/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
