@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 09 - [30 days ago I was an Apple employee](https://twitter.com/ashleygjovik/status/1446882093305319424)
 - Oct 09 - [Self-parking Car in 500 Lines of Code](https://trekhleb.dev/blog/2021/self-parking-car-evolution/)
 - Oct 09 - [Meticulous (YC S21) Is Hiring First Engineer (London and Remote)](https://news.ycombinator.com/item?id=28811444)
 - Oct 09 - [Tech Jobs Are Everywhere Now](https://www.nytimes.com/2021/10/08/opinion/tech-jobs-tesla.html)
 - Oct 09 - [Lifehacks Stacks Exchange](https://lifehacks.stackexchange.com/)
-- Oct 09 - [Real-world data show that filters clean Covid-causing virus from air](https://www.nature.com/articles/d41586-021-02669-2)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
