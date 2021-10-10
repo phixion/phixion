@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 10 - [Foreign money floods U.S. tax havens. Some of it is tainted](https://www.washingtonpost.com/business/interactive/2021/booming-us-tax-haven-industry/)
 - Oct 10 - [Using load shedding to avoid overload](https://aws.amazon.com/builders-library/using-load-shedding-to-avoid-overload/)
 - Oct 10 - [How South Dakota has become a global tax haven](https://www.cnbc.com/2021/10/05/heres-how-states-like-south-dakota-have-become-global-tax-havens.html)
+- Oct 10 - [DOJ launches a plan to go after contractors that hide data breaches](https://www.protocol.com/bulletins/doj-cyber-fraud-initiative)
 - Oct 10 - [Taming the BPF Superpowers](https://lwn.net/Articles/870269/)
-- Oct 10 - [Supabase (YC S20) Is Hiring SREs to Manage a Fleet of Postgres Databases](https://about.supabase.com/careers/sre)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
