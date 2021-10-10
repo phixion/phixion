@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 10 - [California moves toward ban on gas lawnmowers and leaf blowers](https://www.latimes.com/california/story/2021-10-09/california-moves-toward-ban-on-gas-lawnmowers-and-leaf-blowers)
+- Oct 10 - [Localstack – Local AWS Emulator](https://github.com/localstack/localstack)
+- Oct 10 - [Porter (YC W22) Is Hiring](https://www.ycombinator.com/companies/porter/jobs/V5kia33-ux-product-engineer)
+- Oct 10 - [3D Printing Sex Toys: A Quick, Easy and Safe Method](https://www.billieruben.info/post/3d-printing-sex-toys-a-quick-easy-and-safe-method)
 - Oct 10 - [Crunchy Bridge: In-place Upgrades, Postgres 14, more](https://blog.crunchydata.com/blog/crunchy-bridge-in-place-upgrades-postgres-14)
 - Oct 10 - [How the biggest consumer apps got their first 1k users](https://www.lennysnewsletter.com/p/how-the-biggest-consumer-apps-got)
-- Oct 10 - [Scaling Large Production Clusters at Alibaba with Partitioned Synchronization](https://www.micahlerner.com/2021/10/10/scaling-large-production-clusters-with-partitioned-synchronization.html)
-- Oct 10 - [Bashcrawl: Learn Linux commands by playing a simple text adventure](https://gitlab.com/slackermedia/bashcrawl)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
