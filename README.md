@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 10 - [Which Version of JDK Should I Use?](http://whichjdk.com/)
 - Oct 10 - [Photos from NASA's Perseverance rover indicate ancient flash floods on Mars](https://www.science.org/doi/10.1126/science.abl4051)
 - Oct 10 - [A web app that can play musical scales according to mathematical equations](https://alexcrist.github.io/scaler/)
-- Oct 10 - [Localstack – Local AWS Emulator](https://github.com/localstack/localstack)
+- Oct 10 - [Ask HN: What can you do to help the grieving?](https://news.ycombinator.com/item?id=28820090)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
