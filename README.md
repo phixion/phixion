@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 10 - [Suicides among Swedish men decreased after Viagra became more affordable](https://sapienjournal.org/suicides-among-swedish-men-decreased-after-viagra-became-more-affordable/)
 - Oct 10 - [The Trouble with Checked Exceptions (2003)](https://www.artima.com/articles/the-trouble-with-checked-exceptions)
+- Oct 10 - [Linux from Scratch with Training Wheels](https://philsyme.github.io/lfs-tw/)
 - Oct 10 - [Which Version of JDK Should I Use?](http://whichjdk.com/)
 - Oct 10 - [Photos from NASA's Perseverance rover indicate ancient flash floods on Mars](https://www.science.org/doi/10.1126/science.abl4051)
-- Oct 10 - [A web app that can play musical scales according to mathematical equations](https://alexcrist.github.io/scaler/)
-- Oct 10 - [Ask HN: What can you do to help the grieving?](https://news.ycombinator.com/item?id=28820090)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
