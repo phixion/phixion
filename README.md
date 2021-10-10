@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 10 - [California moves toward ban on gas lawnmowers and leaf blowers](https://www.latimes.com/california/story/2021-10-09/california-moves-toward-ban-on-gas-lawnmowers-and-leaf-blowers)
+- Oct 10 - [Crunchy Bridge: In-place Upgrades, Postgres 14, more](https://blog.crunchydata.com/blog/crunchy-bridge-in-place-upgrades-postgres-14)
+- Oct 10 - [How the biggest consumer apps got their first 1k users](https://www.lennysnewsletter.com/p/how-the-biggest-consumer-apps-got)
 - Oct 10 - [Scaling Large Production Clusters at Alibaba with Partitioned Synchronization](https://www.micahlerner.com/2021/10/10/scaling-large-production-clusters-with-partitioned-synchronization.html)
 - Oct 10 - [Bashcrawl: Learn Linux commands by playing a simple text adventure](https://gitlab.com/slackermedia/bashcrawl)
-- Oct 10 - [The Future Is Getting Farther Away](https://marginalrevolution.com/marginalrevolution/2021/10/the-future-is-getting-farther-away.html)
-- Oct 10 - [Understanding all of Python, through its builtins](https://sadh.life/post/builtins/)
-- Oct 10 - [Keybase Browser Extension Insecure](https://www.grepular.com/Keybase_Browser_Extension_Insecure)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
