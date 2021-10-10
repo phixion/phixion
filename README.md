@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 09 - [HN 15 Years ago](https://news.ycombinator.com/front?day=2006-10-09)
 - Oct 09 - [Graph of Keybase commits pre and post Zoom acquisition](https://github.com/keybase/client/graphs/contributors)
+- Oct 09 - [Python and Lua (2019)](https://brmmm3.github.io/posts/2019/07/28/python_and_lua/)
 - Oct 09 - [North Korean (DPRK) Textbooks](https://archive.org/details/DPRKTexts)
 - Oct 09 - [The Acme User Interface for Programmers](http://acme.cat-v.org/)
-- Oct 09 - [The Mind Has No Firewall [PDF]](https://press.armywarcollege.edu/cgi/viewcontent.cgi?article=1871&context=parameters)
-- Oct 09 - [Why Did Satoshi Decide to Use Secp256k1 Instead of Secp256r1?](https://dappworks.com/why-did-satoshi-decide-to-use-secp256k1-instead-of-secp256r1/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
