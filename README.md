@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 10 - [A web app that can play musical scales according to mathematical equations](https://alexcrist.github.io/scaler/)
 - Oct 10 - [Localstack – Local AWS Emulator](https://github.com/localstack/localstack)
 - Oct 10 - [Porter (YC W22) Is Hiring](https://www.ycombinator.com/companies/porter/jobs/V5kia33-ux-product-engineer)
 - Oct 10 - [3D Printing Sex Toys: A Quick, Easy and Safe Method](https://www.billieruben.info/post/3d-printing-sex-toys-a-quick-easy-and-safe-method)
 - Oct 10 - [Crunchy Bridge: In-place Upgrades, Postgres 14, more](https://blog.crunchydata.com/blog/crunchy-bridge-in-place-upgrades-postgres-14)
-- Oct 10 - [How the biggest consumer apps got their first 1k users](https://www.lennysnewsletter.com/p/how-the-biggest-consumer-apps-got)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
