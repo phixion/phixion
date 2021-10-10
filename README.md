@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 10 - [Taming the BPF Superpowers](https://lwn.net/Articles/870269/)
 - Oct 10 - [Supabase (YC S20) Is Hiring SREs to Manage a Fleet of Postgres Databases](https://about.supabase.com/careers/sre)
+- Oct 10 - [The latest campus cancellation is different](https://www.theatlantic.com/ideas/archive/2021/10/why-latest-campus-cancellation-different/620352/)
+- Oct 10 - [SerenityOS: Year 3 in Review](https://serenityos.org/happy/3rd/)
 - Oct 10 - [Kairos](https://en.wikipedia.org/wiki/Kairos)
-- Oct 10 - [Nix-GUI: Make NixOS usable for non-technical users through settings / GUI](https://github.com/nix-gui/nix-gui)
-- Oct 10 - [The Plague of the Poor](https://www.tabletmag.com/sections/news/articles/plague-poor-gutentag)
-- Oct 10 - [Attacked from Within](https://atdt.freeshell.org/k5/story_2009_3_12_33338_3000.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
