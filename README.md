@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 10 - [Facebook Harms Its Users Because That’s Where Its Profits Are](https://jacobinmag.com/2021/10/facebook-whistleblower-haugen-profits-addiction-public-utility-regulation-censorship-moderation-zuckerberg)
 - Oct 10 - [The Shocking Immaturity of JavaScript](https://dev.to/jaredcwhite/the-shocking-immaturity-of-javascript-c70)
+- Oct 10 - [First USB-C iPhone](https://www.youtube.com/watch?v=SAekbJf4Gsw)
 - Oct 10 - [Poincaré, Heisenberg, Gödel and the limits of scientific knowledge](https://arxiv.org/abs/1301.7036)
 - Oct 10 - [Happiness in early adulthood may protect against dementia](https://www.ucsf.edu/news/2021/09/421506/happiness-early-adulthood-may-protect-against-dementia)
-- Oct 10 - [Mathematics, morally (2017) [pdf]](http://eugeniacheng.com/wp-content/uploads/2017/02/cheng-morality.pdf)
-- Oct 10 - [Waterfox](https://www.waterfox.net/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
