@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 10 - [Poincaré, Heisenberg, Gödel and the limits of scientific knowledge](https://arxiv.org/abs/1301.7036)
 - Oct 10 - [Happiness in early adulthood may protect against dementia](https://www.ucsf.edu/news/2021/09/421506/happiness-early-adulthood-may-protect-against-dementia)
 - Oct 10 - [Waterfox](https://www.waterfox.net/)
 - Oct 10 - [Lisp in a Weekend](https://github.com/fragglet/yoctolisp/blob/master/yoctolisp.md)
 - Oct 10 - [Canada's 'gamble' on delaying, mixing and matching Covid-19 vaccines paid off](https://www.cbc.ca/news/health/canada-vaccine-effectiveness-data-delayed-doses-mixing-matching-covid-19-vaccines-1.6205993)
-- Oct 10 - [Incenser, or how NSA and GCHQ are tapping internet cables (2014)](https://www.electrospaces.net/2014/11/incenser-or-how-nsa-and-gchq-are.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
