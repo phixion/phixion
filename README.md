@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 10 - [Nix-GUI: Make NixOS usable for non-technical users through settings / GUI](https://github.com/nix-gui/nix-gui)
 - Oct 10 - [Attacked from Within](https://atdt.freeshell.org/k5/story_2009_3_12_33338_3000.html)
 - Oct 10 - [GraphSCAD – A User Friendly Nodal Editor for OpenSCAD](http://graphscad.blogspot.com/)
 - Oct 10 - [Show HN: OpenDeck – platform for building MIDI controllers](https://github.com/shanteacontrols/OpenDeck)
 - Oct 10 - [Facebook Harms Its Users Because That’s Where Its Profits Are](https://jacobinmag.com/2021/10/facebook-whistleblower-haugen-profits-addiction-public-utility-regulation-censorship-moderation-zuckerberg)
-- Oct 10 - [M(57885161) verified as 48th Mersenne Prime](https://www.mersenne.org/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
