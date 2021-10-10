@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 10 - [The Trouble with Checked Exceptions (2003)](https://www.artima.com/articles/the-trouble-with-checked-exceptions)
 - Oct 10 - [Which Version of JDK Should I Use?](http://whichjdk.com/)
 - Oct 10 - [Photos from NASA's Perseverance rover indicate ancient flash floods on Mars](https://www.science.org/doi/10.1126/science.abl4051)
 - Oct 10 - [A web app that can play musical scales according to mathematical equations](https://alexcrist.github.io/scaler/)
 - Oct 10 - [Localstack – Local AWS Emulator](https://github.com/localstack/localstack)
-- Oct 10 - [Porter (YC W22) Is Hiring](https://www.ycombinator.com/companies/porter/jobs/V5kia33-ux-product-engineer)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
