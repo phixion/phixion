@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 10 - [Classified tank specs leaked on War Thunder game forums – again](https://ukdefencejournal.org.uk/classified-tank-specs-leaked-on-war-thunder-game-forums-again/)
 - Oct 10 - [Skio is hiring founding engineers](https://skio.com/careers)
 - Oct 10 - [Senegal Programming Language](https://github.com/SenegalLang/Senegal)
-- Oct 10 - [Slowed canonical progress in large fields of science](https://www.pnas.org/content/118/41/e2021636118)
+- Oct 10 - [Attacking GitHub Organizations](https://github.com/ovotech/gitoops/blob/main/docs/blog.md)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
