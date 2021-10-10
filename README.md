@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 10 - [Senegal Programming Language](https://github.com/SenegalLang/Senegal)
 - Oct 10 - [Slowed canonical progress in large fields of science](https://www.pnas.org/content/118/41/e2021636118)
 - Oct 10 - [Norm Macdonald's story about the first time he met Bob Dylan](https://twitter.com/smalwigwamlight/status/1446881138895568899)
+- Oct 10 - [What we learn from twitch source code leak](https://everlastingbits.com/2021/10/10/twitch-banned-user-names/)
 - Oct 10 - [Suicides among Swedish men decreased after Viagra became more affordable](https://sapienjournal.org/suicides-among-swedish-men-decreased-after-viagra-became-more-affordable/)
-- Oct 10 - [The Trouble with Checked Exceptions (2003)](https://www.artima.com/articles/the-trouble-with-checked-exceptions)
-- Oct 10 - [Linux from Scratch with Training Wheels](https://philsyme.github.io/lfs-tw/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
