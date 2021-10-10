@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 10 - [Programming PIC32 Microcontroller with Rust](https://gill.net.in/posts/pic32-blink-led-rust/)
+- Oct 10 - [I built a modern website in 2021](https://kentcdodds.com/blog/how-i-built-a-modern-website-in-2021)
 - Oct 10 - [Foreign money floods U.S. tax havens. Some of it is tainted](https://www.washingtonpost.com/business/interactive/2021/booming-us-tax-haven-industry/)
 - Oct 10 - [Using load shedding to avoid overload](https://aws.amazon.com/builders-library/using-load-shedding-to-avoid-overload/)
-- Oct 10 - [How South Dakota has become a global tax haven](https://www.cnbc.com/2021/10/05/heres-how-states-like-south-dakota-have-become-global-tax-havens.html)
-- Oct 10 - [DOJ launches a plan to go after contractors that hide data breaches](https://www.protocol.com/bulletins/doj-cyber-fraud-initiative)
+- Oct 10 - [40% of US dollars in existence were printed in the last 12 months](https://twitter.com/oliviercantin/status/1446812693134983172)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
