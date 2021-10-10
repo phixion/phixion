@@ -35,10 +35,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 10 - [Pump up the charge: Getting -5V from a 5V power supply](https://nicole.express/2021/dont-be-so-negative.html)
 - Oct 10 - [Classified tank specs leaked on War Thunder game forums – again](https://ukdefencejournal.org.uk/classified-tank-specs-leaked-on-war-thunder-game-forums-again/)
 - Oct 10 - [Skio is hiring founding engineers](https://skio.com/careers)
 - Oct 10 - [Senegal Programming Language](https://github.com/SenegalLang/Senegal)
-- Oct 10 - [Attacking GitHub Organizations](https://github.com/ovotech/gitoops/blob/main/docs/blog.md)
 - Oct 10 - [Slowed canonical progress in large fields of science](https://www.pnas.org/content/118/41/e2021636118)
 <!--END_SECTION:hn-->
 
