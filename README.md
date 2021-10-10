@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 10 - [Scaling Large Production Clusters at Alibaba with Partitioned Synchronization](https://www.micahlerner.com/2021/10/10/scaling-large-production-clusters-with-partitioned-synchronization.html)
+- Oct 10 - [Bashcrawl: Learn Linux commands by playing a simple text adventure](https://gitlab.com/slackermedia/bashcrawl)
+- Oct 10 - [The Future Is Getting Farther Away](https://marginalrevolution.com/marginalrevolution/2021/10/the-future-is-getting-farther-away.html)
 - Oct 10 - [Understanding all of Python, through its builtins](https://sadh.life/post/builtins/)
 - Oct 10 - [Keybase Browser Extension Insecure](https://www.grepular.com/Keybase_Browser_Extension_Insecure)
-- Oct 10 - [Programming PIC32 Microcontroller with Rust](https://gill.net.in/posts/pic32-blink-led-rust/)
-- Oct 10 - [Yet another try for fs-verity](https://lwn.net/Articles/790185/)
-- Oct 10 - [Foreign money floods U.S. tax havens. Some of it is tainted](https://www.washingtonpost.com/business/interactive/2021/booming-us-tax-haven-industry/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
