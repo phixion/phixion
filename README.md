@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 10 - [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28814844)
+- Oct 10 - [V-USB – A Firmware-Only USB Driver for Atmel AVR Microcontrollers](https://www.obdev.at/products/vusb/index.html)
+- Oct 10 - [Satoshi Nakamoto : Len Sassaman](https://evanhatch.medium.com/len-sassaman-and-satoshi-e483c85c2b10)
+- Oct 09 - [Blue light from monitors no danger to eyes or sleep](https://www.aerzteblatt.de/nachrichten/127272/Blaues-Licht-von-Monitoren-laut-Fachgesellschaft-keine-Gefahr-fuer-Augen-oder-Schlaf)
 - Oct 09 - [HN 15 Years ago](https://news.ycombinator.com/front?day=2006-10-09)
-- Oct 09 - [Graph of Keybase commits pre and post Zoom acquisition](https://github.com/keybase/client/graphs/contributors)
-- Oct 09 - [Python and Lua (2019)](https://brmmm3.github.io/posts/2019/07/28/python_and_lua/)
-- Oct 09 - [North Korean (DPRK) Textbooks](https://archive.org/details/DPRKTexts)
-- Oct 09 - [The Acme User Interface for Programmers](http://acme.cat-v.org/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
