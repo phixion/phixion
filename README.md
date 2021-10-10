@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 10 - [Tinyprinter.club](https://tinyprinter.club/)
 - Oct 10 - [Facebook Recruiter Correspondence](https://george.mand.is/2021/10/facebook-recruiter-correspondence/)
 - Oct 10 - [Lebanon's central electricity grid shuts down as fuel shortages continue](https://www.npr.org/2021/10/09/1044766802/lebanon-power-grid-shutdown-fuel-shortage)
 - Oct 10 - [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28814844)
 - Oct 10 - [V-USB – A Firmware-Only USB Driver for Atmel AVR Microcontrollers](https://www.obdev.at/products/vusb/index.html)
-- Oct 10 - [Satoshi Nakamoto : Len Sassaman](https://evanhatch.medium.com/len-sassaman-and-satoshi-e483c85c2b10)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
