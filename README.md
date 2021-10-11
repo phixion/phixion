@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 11 - [‘Give away your Legos’ and other commandments for scaling startups](https://review.firstround.com/give-away-your-legos-and-other-commandments-for-scaling-startups)
 - Oct 11 - [2,050-year-old Roman tomb offers insights on ancient concrete resilience](https://news.mit.edu/2021/roman-tomb-offers-insights-ancient-concrete-resilience-1008)
 - Oct 11 - [A Multi-Billion Dollar Real Estate Project Is Rising on Native Land in Vancouver](https://www.architecturaldigest.com/story/vancouver-real-estate-native-reserve-land)
 - Oct 11 - [Nvidia releases Alias-Free GAN code and pre-trained models, naming it StyleGAN3](https://github.com/NVlabs/stylegan3)
 - Oct 11 - [AtoB (YC S20) is building Stripe for Transportation. We are hiring](https://careers.atob.com/)
-- Oct 11 - [FAA Fumbled Its Response to a Surge in GPS Jamming](https://spectrum.ieee.org/gps-jamming)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
