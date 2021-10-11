@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 11 - [Blue Origin: Toxic, dysfunctional ‘bro culture’, low morale and delays](https://www.washingtonpost.com/technology/2021/10/11/blue-origin-jeff-bezos-delays-toxic-workplace/)
+- Oct 11 - [Web SQL Database: In Memoriam (2014)](https://nolanlawson.com/2014/04/26/web-sql-database-in-memoriam/)
+- Oct 11 - [European Parliament Voted to Ban Remote Biometric Surveillance](https://www.schneier.com/blog/archives/2021/10/the-european-parliament-voted-to-ban-remote-biometric-surveillance.html)
+- Oct 11 - [England's Data Guardian warns of plans to grant police access to patient data](https://www.theregister.com/2021/10/11/data_guardian_police_bill/)
 - Oct 11 - [The Shadow Penal System for Struggling Kids](https://www.newyorker.com/magazine/2021/10/18/the-shadow-penal-system-for-struggling-kids)
-- Oct 11 - [Large percentage fear having children because of climate crisis](https://thehill.com/changing-america/sustainability/climate-change/572140-poll-finds-huge-percentage-fear-having)
 - Oct 11 - [Open Source Tractor](https://opensourceecology.dozuki.com/c/LifeTrac)
-- Oct 11 - [New cancer treatment destroys tumours in terminally ill, finds trial](https://www.theguardian.com/society/2021/oct/11/new-cancer-treatment-destroys-tumours-in-terminally-ill-finds-trial)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
