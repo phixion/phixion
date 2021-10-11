@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 11 - [The Shadow Penal System for Struggling Kids](https://www.newyorker.com/magazine/2021/10/18/the-shadow-penal-system-for-struggling-kids)
 - Oct 11 - [Large percentage fear having children because of climate crisis](https://thehill.com/changing-america/sustainability/climate-change/572140-poll-finds-huge-percentage-fear-having)
+- Oct 11 - [Open Source Tractor](https://opensourceecology.dozuki.com/c/LifeTrac)
 - Oct 11 - [New cancer treatment destroys tumours in terminally ill, finds trial](https://www.theguardian.com/society/2021/oct/11/new-cancer-treatment-destroys-tumours-in-terminally-ill-finds-trial)
 - Oct 11 - [The State of Web Scraping in 2021](https://mihaisplace.blog/2021/10/03/the-state-of-web-scraping-in-2021/)
-- Oct 11 - [Jörg Schilling has died](https://minnie.tuhs.org/pipermail/tuhs/2021-October/024523.html)
-- Oct 11 - [Pachyderm Is Hiring for Go and DevOps to Build the Data Foundation for ML](https://www.pachyderm.com/careers/#positions)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
