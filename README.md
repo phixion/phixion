@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 11 - [This Real Estate Bubble Won't Pop](https://jaredabrock.substack.com/p/real-estate-bubble)
 - Oct 11 - [Southwest operational meltdown as hundreds of flights canceled or delayed](https://thepointsguy.com/news/southwest-meldown/)
 - Oct 11 - [V7 Unix had no stack size limit, and when Unix acquired one](https://utcc.utoronto.ca/~cks/space/blog/unix/StackSizeLimitWhen)
-- Oct 10 - [Maryland nuclear engineer and spouse arrested on espionage-related charges](https://www.justice.gov/opa/pr/maryland-nuclear-engineer-and-spouse-arrested-espionage-related-charges)
+- Oct 11 - [We've been lied to: JavaScript is fast](https://jyelewis.com/blog/2021-09-28-javascript-is-fast/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
