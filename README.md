@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 11 - [Coal Prices Rising Exponentially](https://tradingeconomics.com/commodity/coal)
 - Oct 11 - [Worst Case](https://www.tbray.org/ongoing/When/202x/2021/10/08/The-WOrst-Case)
 - Oct 11 - [Credit-card firms are becoming reluctant regulators of the web](https://www.economist.com/finance-and-economics/2021/10/10/credit-card-firms-are-becoming-reluctant-regulators-of-the-web)
 - Oct 11 - [A supertanker has a million barrels of oil aboard. What if it explodes?](https://www.newyorker.com/magazine/2021/10/11/the-ship-that-became-a-bomb)
 - Oct 11 - [TLS Certificate Transparency logs let us assess Certificate Authorities](https://utcc.utoronto.ca/~cks/space/blog/tech/TLSCTLetsUsMeasureCAUsage)
-- Oct 11 - [World food prices hit 10-year peak – FAO](https://www.reuters.com/business/world-food-prices-hit-10-year-peak-fao-2021-10-07/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
