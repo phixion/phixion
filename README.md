@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 11 - [Windows Package Manager 1.1](https://devblogs.microsoft.com/commandline/windows-package-manager-1-1/)
+- Oct 11 - [My First Industry Job: Lies, Deceptions, and Layoffs](https://jeremyaboyd.com/post/my-first-industry-job)
+- Oct 11 - [Ask HN: Any Decent Firefox Alternatives?](https://news.ycombinator.com/item?id=28829488)
+- Oct 11 - [The first Arab mission to Mars is delivering some interesting science](https://arstechnica.com/science/2021/10/the-first-arab-mission-to-mars-is-delivering-some-interesting-science/)
 - Oct 11 - [Web SQL Database: In Memoriam (2014)](https://nolanlawson.com/2014/04/26/web-sql-database-in-memoriam/)
-- Oct 11 - [After Whistle-Blower Goes Public, Facebook Tries Calming Employees](https://www.nytimes.com/2021/10/10/technology/facebook-whistleblower-employees.html)
-- Oct 11 - [European Parliament Voted to Ban Remote Biometric Surveillance](https://www.schneier.com/blog/archives/2021/10/the-european-parliament-voted-to-ban-remote-biometric-surveillance.html)
-- Oct 11 - [England's Data Guardian warns of plans to grant police access to patient data](https://www.theregister.com/2021/10/11/data_guardian_police_bill/)
-- Oct 11 - [Show HN: Strange Attractor on an Etch a Sketch with Raspberry Pi Pico](https://www.youtube.com/watch?v=_2FIVBfSSDg)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
