@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 11 - [Amazon will allow many employees to work remotely indefinitely](https://www.seattletimes.com/business/amazon/amazon-will-allow-many-employees-to-work-remotely-indefinitely/)
+- Oct 11 - [Sony to join TSMC on new $7bn chip plant in Japan](https://asia.nikkei.com/Business/Tech/Semiconductors/Sony-to-join-TSMC-on-new-7bn-chip-plant-in-Japan)
 - Oct 11 - [Companies that use Lisp extensively](https://github.com/azzamsa/awesome-lisp-companies)
 - Oct 11 - [Show HN: Caribou – a GitHub app to help you manage technical debt](https://www.hellocaribou.com)
 - Oct 11 - [The CodeRibbon code editor plugin](https://utk-se.github.io/CodeRibbon/)
-- Oct 11 - [Apple 'Surprised' by Developer Frustration with Its App Review Process](https://www.macrumors.com/2021/03/22/apple-surprised-developer-concerns-app-review/)
-- Oct 11 - [Daily (YC W16) Is Hiring iOS and Android Engineers](https://www.notion.so/dailyco/Mobile-Frameworks-Engineer-f24179000f2d47cda1eba1ef4b4a46a8)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
