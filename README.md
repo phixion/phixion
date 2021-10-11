@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 11 - [Nvidia Scientists Take Top Spots in 2021 Brain Tumor Segmentation Challenge](https://developer.nvidia.com/blog/nvidia-data-scientists-take-top-spots-in-miccai-2021-brain-tumor-segmentation-challenge/)
 - Oct 11 - [Southwest operational meltdown as hundreds of flights canceled or delayed](https://thepointsguy.com/news/southwest-meldown/)
 - Oct 11 - [V7 Unix had no stack size limit, and when Unix acquired one](https://utcc.utoronto.ca/~cks/space/blog/unix/StackSizeLimitWhen)
-- Oct 11 - [We've been lied to: JavaScript is fast](https://jyelewis.com/blog/2021-09-28-javascript-is-fast/)
+- Oct 10 - [Maryland nuclear engineer and spouse arrested on espionage-related charges](https://www.justice.gov/opa/pr/maryland-nuclear-engineer-and-spouse-arrested-espionage-related-charges)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
