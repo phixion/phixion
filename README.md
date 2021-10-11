@@ -35,9 +35,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 11 - [How to fuck one year of work in 10 minutes](https://github.com/austinhuang0131/austinhuang0131/issues/2)
+- Oct 11 - [Worst Case](https://www.tbray.org/ongoing/When/202x/2021/10/08/The-WOrst-Case)
 - Oct 11 - [A supertanker has a million barrels of oil aboard. What if it explodes?](https://www.newyorker.com/magazine/2021/10/11/the-ship-that-became-a-bomb)
-- Oct 11 - [World food prices hit 10-year peak -FAO](https://www.reuters.com/business/world-food-prices-hit-10-year-peak-fao-2021-10-07/)
+- Oct 11 - [World food prices hit 10-year peak – FAO](https://www.reuters.com/business/world-food-prices-hit-10-year-peak-fao-2021-10-07/)
 - Oct 11 - [Nvidia Scientists Take Top Spots in 2021 Brain Tumor Segmentation Challenge](https://developer.nvidia.com/blog/nvidia-data-scientists-take-top-spots-in-miccai-2021-brain-tumor-segmentation-challenge/)
 - Oct 11 - [Southwest operational meltdown as hundreds of flights canceled or delayed](https://thepointsguy.com/news/southwest-meldown/)
 <!--END_SECTION:hn-->
