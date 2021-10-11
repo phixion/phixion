@@ -35,8 +35,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 11 - [Is Going to the Office a Broken Way of Working?](https://www.newyorker.com/culture/office-space/is-going-to-the-office-a-broken-way-of-working)
 - Oct 11 - [Farm equipment security at DEF CON 29](https://www.kaspersky.com/blog/hacking-agriculture-defcon29/42402/)
-- Oct 11 - [Loop_tool: A toolkit for loop-based computation](https://github.com/facebookresearch/loop_tool)
 - Oct 11 - [Full WireGuard Support in ProtonVPN for Android](https://github.com/ProtonVPN/android-app/releases/tag/2.9.0.28)
 - Oct 11 - [Hacking YouTube with a MP4](https://realkeyboardwarrior.github.io/security/2021/10/11/hacking-youtube.html)
 - Oct 11 - [Amazon will allow many employees to work remotely indefinitely](https://www.seattletimes.com/business/amazon/amazon-will-allow-many-employees-to-work-remotely-indefinitely/)
