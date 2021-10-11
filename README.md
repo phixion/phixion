@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 11 - [The US Is a Banana Republic: The 1% Own More Wealth Than the Entire Middle Class](https://www.zerohedge.com/markets/us-officially-banana-republic-top-1-now-own-more-wealth-entire-middle-class)
+- Oct 11 - [Malwarebytes' privacy VPN is Mullvad in a shady trenchcoat](https://dustri.org/b/malwarebytes-privacy-vpn-is-mullvad-in-a-shady-trenchcoat.html)
+- Oct 11 - [Parsing JSON Is a Minefield](http://seriot.ch/projects/parsing_json.html)
+- Oct 11 - [One painful meeting with Steve Jobs](https://twitter.com/apartovi/status/1447251334814523392)
 - Oct 11 - [A cryptography game-changer for biomedical research at scale](https://www.nature.com/articles/s41467-021-25972-y)
 - Oct 11 - [So You Want to Rust the Linux Kernel?](https://paulmck.livejournal.com/62436.html)
-- Oct 11 - [I keep making things out of checkboxes](https://www.bryanbraun.com/2021/09/21/i-keep-making-things-out-of-checkboxes/)
-- Oct 11 - [Sneaker Does Not Exist](https://thissneakerdoesnotexist.com/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
