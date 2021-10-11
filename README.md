@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 10 - [Go is a terrible language (2020)](https://debugged.it/blog/go-is-terrible/)
+- Oct 10 - [Maryland nuclear engineer and spouse arrested on espionage-related charges](https://www.justice.gov/opa/pr/maryland-nuclear-engineer-and-spouse-arrested-espionage-related-charges)
+- Oct 10 - [Software for Math Research](https://amathr.org/software/)
 - Oct 10 - [Pump up the charge: Getting -5V from a 5V power supply](https://nicole.express/2021/dont-be-so-negative.html)
 - Oct 10 - [Classified tank specs leaked on War Thunder game forums again](https://ukdefencejournal.org.uk/classified-tank-specs-leaked-on-war-thunder-game-forums-again/)
 - Oct 10 - [Skio is hiring founding engineers](https://skio.com/careers)
-- Oct 10 - [Senegal Programming Language](https://github.com/SenegalLang/Senegal)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
