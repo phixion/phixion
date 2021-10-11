@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 11 - [So You Want to Rust the Linux Kernel?](https://paulmck.livejournal.com/62436.html)
+- Oct 11 - [I keep making things out of checkboxes](https://www.bryanbraun.com/2021/09/21/i-keep-making-things-out-of-checkboxes/)
 - Oct 11 - [Sneaker Does Not Exist](https://thissneakerdoesnotexist.com/)
 - Oct 11 - [Benchmarking the oksh shell, or, let's look at a lot of C compilers](https://briancallahan.net/blog/20211010.html)
 - Oct 11 - [Coal Prices Rising Exponentially](https://tradingeconomics.com/commodity/coal)
-- Oct 11 - [Worst Case](https://www.tbray.org/ongoing/When/202x/2021/10/08/The-WOrst-Case)
-- Oct 11 - [Credit-card firms are becoming reluctant regulators of the web](https://www.economist.com/finance-and-economics/2021/10/10/credit-card-firms-are-becoming-reluctant-regulators-of-the-web)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
