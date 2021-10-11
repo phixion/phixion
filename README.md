@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 11 - [Large percentage fear having children because of climate crisis](https://thehill.com/changing-america/sustainability/climate-change/572140-poll-finds-huge-percentage-fear-having)
 - Oct 11 - [RIP Jörg Schilling](https://minnie.tuhs.org/pipermail/tuhs/2021-October/024523.html)
 - Oct 11 - [Pachyderm Is Hiring for Go and DevOps to Build the Data Foundation for ML](https://www.pachyderm.com/careers/#positions)
 - Oct 11 - [The City of London Is Hiding the World’s Stolen Money](https://www.nytimes.com/2021/10/11/opinion/pandora-papers-britain-london.html)
 - Oct 11 - [Malwarebytes' privacy VPN is Mullvad in a shady trenchcoat](https://dustri.org/b/malwarebytes-privacy-vpn-is-mullvad-in-a-shady-trenchcoat.html)
-- Oct 11 - [Parsing JSON Is a Minefield (2016)](http://seriot.ch/projects/parsing_json.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
