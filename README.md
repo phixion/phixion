@@ -35,10 +35,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 11 - [And You Will Know Us by the Company We Keep](https://www.eugenewei.com/blog/2021/9/29/and-you-will-know-us-by-the-company-we-keep)
 - Oct 11 - [Windows Package Manager 1.1](https://devblogs.microsoft.com/commandline/windows-package-manager-1-1/)
 - Oct 11 - [My First Industry Job: Lies, Deceptions, and Layoffs](https://jeremyaboyd.com/post/my-first-industry-job)
 - Oct 11 - [Ask HN: Any Decent Firefox Alternatives?](https://news.ycombinator.com/item?id=28829488)
-- Oct 11 - [The first Arab mission to Mars is delivering some interesting science](https://arstechnica.com/science/2021/10/the-first-arab-mission-to-mars-is-delivering-some-interesting-science/)
 - Oct 11 - [Web SQL Database: In Memoriam (2014)](https://nolanlawson.com/2014/04/26/web-sql-database-in-memoriam/)
 <!--END_SECTION:hn-->
 
