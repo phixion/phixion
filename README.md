@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 11 - [Farm equipment security at DEF CON 29](https://www.kaspersky.com/blog/hacking-agriculture-defcon29/42402/)
 - Oct 11 - [Loop_tool: A toolkit for loop-based computation](https://github.com/facebookresearch/loop_tool)
+- Oct 11 - [Full WireGuard Support in ProtonVPN for Android](https://github.com/ProtonVPN/android-app/releases/tag/2.9.0.28)
 - Oct 11 - [Hacking YouTube with a MP4](https://realkeyboardwarrior.github.io/security/2021/10/11/hacking-youtube.html)
 - Oct 11 - [Amazon will allow many employees to work remotely indefinitely](https://www.seattletimes.com/business/amazon/amazon-will-allow-many-employees-to-work-remotely-indefinitely/)
-- Oct 11 - [Sony to join TSMC on new $7B chip plant in Japan](https://asia.nikkei.com/Business/Tech/Semiconductors/Sony-to-join-TSMC-on-new-7bn-chip-plant-in-Japan)
-- Oct 11 - [Led by France, 10 EU countries call on Brussels to label nuclear energy as green](https://www.euronews.com/2021/10/11/led-by-france-10-eu-countries-call-on-brussels-to-label-nuclear-energy-as-green-source)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
