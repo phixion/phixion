@@ -22,11 +22,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Oct 11 - [Playbook - 50,538 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Playbook)
 - Oct 07 - [Fantasy Football Hub - 66,479 breached accounts](https://haveibeenpwned.com/PwnedWebsites#FantasyFootballHub)
 - Oct 06 - [Republican Party of Texas - 72,596 breached accounts](https://haveibeenpwned.com/PwnedWebsites#RepublicanPartyOfTexas)
 - Oct 02 - [LinkedIn Scraped Data - 125,698,496 breached accounts](https://haveibeenpwned.com/PwnedWebsites#LinkedInScrape)
 - Sep 26 - [Ajarn - 266,399 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Ajarn)
-- Sep 19 - [Epik - 15,003,961 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Epik)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## News
