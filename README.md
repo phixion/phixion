@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 11 - [‘Exhausted and underpaid’: teachers across the US are leaving their jobs](https://www.theguardian.com/world/2021/oct/04/teachers-quitting-jobs-covid-record-numbers)
+- Oct 11 - [Southwest operational meltdown as hundreds of flights canceled or delayed](https://thepointsguy.com/news/southwest-meldown/)
+- Oct 11 - [V7 Unix had no stack size limit, and when Unix acquired one](https://utcc.utoronto.ca/~cks/space/blog/unix/StackSizeLimitWhen)
 - Oct 10 - [Maryland nuclear engineer and spouse arrested on espionage-related charges](https://www.justice.gov/opa/pr/maryland-nuclear-engineer-and-spouse-arrested-espionage-related-charges)
 - Oct 10 - [Software for Math Research](https://amathr.org/software/)
 - Oct 10 - [Pump up the charge: Getting -5V from a 5V power supply](https://nicole.express/2021/dont-be-so-negative.html)
-- Oct 10 - [Classified tank specs leaked on War Thunder game forums again](https://ukdefencejournal.org.uk/classified-tank-specs-leaked-on-war-thunder-game-forums-again/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
