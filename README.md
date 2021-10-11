@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 11 - [FAA Fumbled Its Response to a Surge in GPS Jamming](https://spectrum.ieee.org/gps-jamming)
 - Oct 11 - [Nestlé to Debut Plant-Based Eggs, Shrimp](https://www.foodprocessing.com/industrynews/2021/nestle-to-debut-plant-based-eggs-shrimp/)
 - Oct 11 - [Is Going to the Office a Broken Way of Working?](https://www.newyorker.com/culture/office-space/is-going-to-the-office-a-broken-way-of-working)
 - Oct 11 - [Farm equipment security at DEF CON 29](https://www.kaspersky.com/blog/hacking-agriculture-defcon29/42402/)
 - Oct 11 - [Full WireGuard Support in ProtonVPN for Android](https://github.com/ProtonVPN/android-app/releases/tag/2.9.0.28)
-- Oct 11 - [Hacking YouTube with a MP4](https://realkeyboardwarrior.github.io/security/2021/10/11/hacking-youtube.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
