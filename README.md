@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 11 - [Australians ‘complacent’ to rapid growth in digital surveillance](https://www.innovationaus.com/australians-complacent-to-rapid-growth-in-digital-surveillance/)
 - Oct 11 - [World’s deadliest bird was raised by people 18,000 years ago](https://www.nytimes.com/2021/09/28/science/most-dangerous-bird-cassowary.html)
 - Oct 11 - [The Microsoft MFA system almost brought me to a nervous breakdown](https://kgizdov.medium.com/the-efficiency-of-microsoft-e50ea81f69f5)
 - Oct 11 - [Peter Norvig Joins Stanford HAI](https://hai.stanford.edu/news/peter-norvig-todays-most-pressing-questions-ai-are-human-centered)
 - Oct 11 - [Instagram has largely replaced TikTok in India](https://restofworld.org/2021/instagram-and-class-in-india/)
+- Oct 11 - [‘Give away your Legos’ and other commandments for scaling startups](https://review.firstround.com/give-away-your-legos-and-other-commandments-for-scaling-startups)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
