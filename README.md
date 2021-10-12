@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 12 - [On Slow Writing](https://lithub.com/a-revolution-in-creativity-on-slow-writing/)
+- Oct 12 - [History of Mathematics Project](https://history-of-mathematics.org/)
 - Oct 12 - [Ten Years of Rows and Columns (1989)](https://aresluna.org/attached/computerhistory/articles/spreadsheets/tenyearsofrowsandcolumns)
 - Oct 12 - [The Problem with Macros](https://ianthehenry.com/posts/janet-game/the-problem-with-macros/)
 - Oct 12 - [An Organocatalysis Nobel](https://www.science.org/content/blog-post/organocatalysis-nobel)
