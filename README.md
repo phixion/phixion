@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 12 - [Adobe Uses DMCA to Nuke Project That Keeps Flash Alive, Secure and Adware Free](https://torrentfreak.com/adobe-uses-dmca-to-nuke-project-that-keeps-flash-alive-secure-adware-free-211012/)
 - Oct 12 - [Group effort to study the mathematical sciences for “saving the planet.”](https://www.azimuthproject.org/azimuth/show/HomePage)
 - Oct 12 - [Facebook Dangerous Individuals and Organizations List (Reproduced Snapshot)](https://theintercept.com/document/2021/10/12/facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot/)
 - Oct 12 - [Self Destructing Plastics via Embedded Enzymes](https://contest.techbriefs.com/2021/entries/sustainable-technologies-future-energy/11344)
 - Oct 12 - [Profiling Newlib-Nano's Memcpy](https://interrupt.memfault.com/blog/memcpy-newlib-nano)
-- Oct 12 - [An imminent Red Sea oil spill](https://www.nature.com/articles/s41893-021-00774-8)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
