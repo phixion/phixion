@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 12 - [Magic Leap 2 announced for 2022](https://www.magicleap.com/en-us/news/op-ed/my-first-year-at-magic-leap-and-the-opportunity-ahead)
 - Oct 12 - [Effective Concurrency with Algebraic Effects in Multicore OCaml](https://kcsrk.info/ocaml/multicore/2015/05/20/effects-multicore/)
 - Oct 12 - [Scribe – An alternative front-end to Medium](https://scribe.rip/)
-- Oct 12 - [Computer Scientist Wins $1 Million Artificial Intelligence Prize, a New Nobel](https://pratt.duke.edu/about/news/rudin-squirrel-award)
+- Oct 12 - [Cynthia Rudin wins the 2021 AAAI Squirrel AI Award](https://pratt.duke.edu/about/news/rudin-squirrel-award)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
