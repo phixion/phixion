@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 12 - [Motion (YC W20) Is Hiring Software Engineers](https://www.workatastartup.com/jobs/47069)
+- Oct 12 - [Stripe Is Hiring a Crypto Team 3 Years After Ending Bitcoin Support](https://www.coindesk.com/business/2021/10/12/stripe-is-hiring-a-crypto-team-3-years-after-ending-its-bitcoin-support/)
+- Oct 12 - [Finland lobbied EU to declare nuclear power sustainable](https://yle.fi/uutiset/osasto/news/finland_lobbied_eu_to_declare_nuclear_power_sustainable_after_unpublished_cabinet_decision_supported_by_greens/12135621)
 - Oct 12 - [Nuclear Power in France](https://www.world-nuclear.org/information-library/country-profiles/countries-a-f/france.aspx)
 - Oct 12 - [Covid lesson: trust the public with hard truths](https://www.nature.com/articles/d41586-021-02758-2)
-- Oct 12 - [Getting to the bottom of web map performance](https://bdon.org/blog/web-map-performance/)
-- Oct 12 - [Show HN: Identify car crash editorial anti-patterns using NLP](https://visionzeroreporting.com/)
-- Oct 12 - [A variable signal at heart of the Milky Way](https://www.sciencedaily.com/releases/2021/10/211012080039.htm)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
