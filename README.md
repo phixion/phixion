@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 11 - [Australians ‘complacent’ to rapid growth in digital surveillance](https://www.innovationaus.com/australians-complacent-to-rapid-growth-in-digital-surveillance/)
+- Oct 11 - [MS MFA system almost brought me to a complete nervous breakdown in under 24h](https://kgizdov.medium.com/the-efficiency-of-microsoft-e50ea81f69f5)
 - Oct 11 - [Peter Norvig Leaves Google to Join Stanford HAI](https://hai.stanford.edu/news/peter-norvig-todays-most-pressing-questions-ai-are-human-centered)
-- Oct 11 - [Instagram has largely replaced TikTok in India and erased working-class creators](https://restofworld.org/2021/instagram-and-class-in-india/)
+- Oct 11 - [Instagram has largely replaced TikTok in India](https://restofworld.org/2021/instagram-and-class-in-india/)
 - Oct 11 - [‘Give away your Legos’ and other commandments for scaling startups](https://review.firstround.com/give-away-your-legos-and-other-commandments-for-scaling-startups)
-- Oct 11 - [2,050-year-old Roman tomb offers insights on ancient concrete resilience](https://news.mit.edu/2021/roman-tomb-offers-insights-ancient-concrete-resilience-1008)
-- Oct 11 - [A Multi-Billion Dollar Real Estate Project Is Rising on Native Land in Vancouver](https://www.architecturaldigest.com/story/vancouver-real-estate-native-reserve-land)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
