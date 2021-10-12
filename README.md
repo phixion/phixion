@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 12 - [React Internals (2017)](https://mattgreer.dev/articles/react-internals-part-one-basic-rendering/)
 - Oct 12 - [Use Raspberry Pi as Airplay server to screen mirror on TVs, monitors, projectors](https://github.com/rahul-thakoor/air-pi-play)
 - Oct 12 - [Structured Identifiers](https://pernos.co/blog/structured-identifiers/)
-- Oct 12 - [Apple Maps' Acceleration (2020)](https://www.justinobeirne.com/apple-maps-acceleration)
+- Oct 12 - [Rancher Desktop, a Docker Desktop Replacement](https://rancherdesktop.io/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
