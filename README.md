@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 12 - [Show HN: A world map of 24x365 average temperature “fingerprints”](https://weatherspark.com/map)
 - Oct 12 - [Deepnote (YC S19) is hiring engineers to build a better data science notebook](https://deepnote.com/join-us)
 - Oct 12 - [Why birds can fly over Mount Everest](https://nautil.us/issue/86/energy/why-birds-can-fly-over-mount-everest)
-- Oct 12 - [Remote Ham Radio](https://www.remotehamradio.com/)
-- Oct 12 - [SHA-1 'Fully and Practically Broken' by New Collision (2020)](https://duo.com/decipher/sha-1-fully-and-practically-broken-by-new-collision)
-- Oct 12 - [Highschool student hacks entire districts IoT network for Rickroll senior prank](https://whitehoodhacker.net/posts/2021-10-04-the-big-rick)
+- Oct 12 - [MHonarc: A mail to HTML converter. 90s style](https://www.mhonarc.org/)
+- Oct 12 - [New PostgreSQL Interface for Cloud Spanner](https://cloud.google.com/blog/topics/developers-practitioners/postgresql-interface-adds-familiarity-and-portability-cloud-spanner)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
