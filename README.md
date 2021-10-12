@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 12 - [Ask HN: Solo-preneurs, how do you DevOps to save time?](https://news.ycombinator.com/item?id=28838132)
+- Oct 12 - [Magic Leap 2 announced for 2022](https://www.magicleap.com/en-us/news/op-ed/my-first-year-at-magic-leap-and-the-opportunity-ahead)
+- Oct 12 - [Effective Concurrency with Algebraic Effects in Multicore OCaml](https://kcsrk.info/ocaml/multicore/2015/05/20/effects-multicore/)
+- Oct 12 - [Scribe – An alternative front-end to Medium](https://scribe.rip/)
 - Oct 12 - [Computer Scientist Wins $1 Million Artificial Intelligence Prize, a New Nobel](https://pratt.duke.edu/about/news/rudin-squirrel-award)
-- Oct 12 - [Tricks I wish I knew when I learned TypeScript](https://www.cstrnt.dev/blog/three-typescript-tricks)
-- Oct 12 - [React Internals (2017)](https://mattgreer.dev/articles/react-internals-part-one-basic-rendering/)
-- Oct 12 - [Use Raspberry Pi as Airplay server to screen mirror on TVs, monitors, projectors](https://github.com/rahul-thakoor/air-pi-play)
-- Oct 12 - [Structured Identifiers](https://pernos.co/blog/structured-identifiers/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
