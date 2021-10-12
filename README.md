@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 12 - [React Internals](https://mattgreer.dev/articles/react-internals-part-one-basic-rendering/)
+- Oct 12 - [Do Dev Careers Die at 35?](https://www.dottedsquirrel.com/dev-careers/)
 - Oct 12 - [Use Raspberry Pi as Airplay server to screen mirror on TVs, monitors, projectors](https://github.com/rahul-thakoor/air-pi-play)
+- Oct 12 - [Brazil could adopt Bitcoin as legal tender](https://thepaypers.com/cryptocurrencies/brazil-could-adopt-bitcoin-as-legal-tender--1251973)
 - Oct 12 - [Structured Identifiers](https://pernos.co/blog/structured-identifiers/)
-- Oct 12 - [Apple Maps' Acceleration](https://www.justinobeirne.com/apple-maps-acceleration)
-- Oct 12 - [Rancher Desktop, a Docker Desktop Replacement](https://rancherdesktop.io/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
