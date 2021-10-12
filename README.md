@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 12 - [Plant-based meat deceleration signals niche future](https://foodinstitute.com/focus/plant-based-meat-deceleration-signals-niche-future/)
+- Oct 12 - [How do you memorize things you read?](https://news.ycombinator.com/item?id=28839573)
+- Oct 12 - [Impact of circulating SARS-CoV-2 variants on mRNA vaccine-induced immunity](https://www.nature.com/articles/s41586-021-04085-y)
 - Oct 12 - [Is This Peak Gas?](https://consciousnessofsheep.co.uk/2021/10/11/is-this-peak-gas/)
-- Oct 12 - [The planet survived six hours without Facebook. Let's make it longer next time](https://www.theregister.com/2021/10/11/facebook_opinion_column/)
 - Oct 12 - [A New Link to an Old Model Could Crack the Mystery of Deep Learning](https://www.quantamagazine.org/a-new-link-to-an-old-model-could-crack-the-mystery-of-deep-learning-20211011/)
-- Oct 12 - [AWS Lambda Cold Start Times](https://filia-aleks.medium.com/aws-lambda-battle-2021-performance-comparison-for-all-languages-c1b441005fd1)
-- Oct 12 - [Bright (YC W15) Is Hiring an Impact Driven Product Management Lead](https://www.ycombinator.com/companies/bright/jobs/Cqjidjw-impact-driven-product-management-lead)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
