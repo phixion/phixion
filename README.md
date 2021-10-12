@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 12 - [Is This Peak Gas?](https://consciousnessofsheep.co.uk/2021/10/11/is-this-peak-gas/)
 - Oct 12 - [The planet survived six hours without Facebook. Let's make it longer next time](https://www.theregister.com/2021/10/11/facebook_opinion_column/)
 - Oct 12 - [A New Link to an Old Model Could Crack the Mystery of Deep Learning](https://www.quantamagazine.org/a-new-link-to-an-old-model-could-crack-the-mystery-of-deep-learning-20211011/)
 - Oct 12 - [AWS Lambda Cold Start Times](https://filia-aleks.medium.com/aws-lambda-battle-2021-performance-comparison-for-all-languages-c1b441005fd1)
 - Oct 12 - [Bright (YC W15) Is Hiring an Impact Driven Product Management Lead](https://www.ycombinator.com/companies/bright/jobs/Cqjidjw-impact-driven-product-management-lead)
-- Oct 12 - [Study reveals scale of data-sharing from Android mobile phones](https://www.tcd.ie/news_events/articles/study-reveals-scale-of-data-sharing-from-android-mobile-phones/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
