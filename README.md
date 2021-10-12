@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 12 - [React Internals](https://mattgreer.dev/articles/react-internals-part-one-basic-rendering/)
 - Oct 12 - [Use Raspberry Pi as Airplay server to screen mirror on TVs, monitors, projectors](https://github.com/rahul-thakoor/air-pi-play)
 - Oct 12 - [Structured Identifiers](https://pernos.co/blog/structured-identifiers/)
 - Oct 12 - [Apple Maps' Acceleration](https://www.justinobeirne.com/apple-maps-acceleration)
 - Oct 12 - [Rancher Desktop, a Docker Desktop Replacement](https://rancherdesktop.io/)
-- Oct 12 - [The Home Depot Teams Up with Walmart to Expand Same-Day and Next-Day Delivery](https://corporate.homedepot.com/newsroom/expands-same-day-next-day-delivery-with-walmart)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
