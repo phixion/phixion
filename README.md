@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 12 - [Computer Scientist Wins $1 Million Artificial Intelligence Prize, a New Nobel](https://pratt.duke.edu/about/news/rudin-squirrel-award)
-- Oct 12 - [Ask HN: Thoughts on Working for Huawei?](https://news.ycombinator.com/item?id=28837783)
 - Oct 12 - [Tricks I wish I knew when I learned TypeScript](https://www.cstrnt.dev/blog/three-typescript-tricks)
 - Oct 12 - [React Internals (2017)](https://mattgreer.dev/articles/react-internals-part-one-basic-rendering/)
 - Oct 12 - [Use Raspberry Pi as Airplay server to screen mirror on TVs, monitors, projectors](https://github.com/rahul-thakoor/air-pi-play)
+- Oct 12 - [Structured Identifiers](https://pernos.co/blog/structured-identifiers/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
