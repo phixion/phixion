@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 12 - [AWS Console Unavailable](https://news.ycombinator.com/item?id=28840769)
 - Oct 12 - [Show HN: Identify car crash editorial anti-patterns using NLP](https://visionzeroreporting.com/)
 - Oct 12 - [A variable signal at heart of the Milky Way](https://www.sciencedaily.com/releases/2021/10/211012080039.htm)
 - Oct 12 - [Major nuclear fusion milestone reached as ‘ignition’ triggered in a lab](https://www.imperial.ac.uk/news/228373/major-nuclear-fusion-milestone-reached-ignition/)
 - Oct 12 - [Quantum Annealing opens a new door to Simulation Hypothesis](https://www.vesselproject.io/life-through-quantum-annealing)
-- Oct 12 - [Study reveals Android phones constantly snoop on their users](https://www.bleepingcomputer.com/news/security/study-reveals-android-phones-constantly-snoop-on-their-users/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
