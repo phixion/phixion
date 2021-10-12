@@ -36,8 +36,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 12 - [France bets on more nuclear power in face of Europe energy crisis](https://www.ft.com/content/d06500e2-7fd2-4753-a54b-bc16f1faadd8)
+- Oct 12 - [Nobel Prize: We will not have gender or ethnicity quotas – top scientist](https://www.bbc.co.uk/news/world-europe-58875152)
 - Oct 12 - [React Internals (2017)](https://mattgreer.dev/articles/react-internals-part-one-basic-rendering/)
-- Oct 12 - [Do Dev Careers Die at 35?](https://www.dottedsquirrel.com/dev-careers/)
 - Oct 12 - [Use Raspberry Pi as Airplay server to screen mirror on TVs, monitors, projectors](https://github.com/rahul-thakoor/air-pi-play)
 - Oct 12 - [Structured Identifiers](https://pernos.co/blog/structured-identifiers/)
 <!--END_SECTION:hn-->
