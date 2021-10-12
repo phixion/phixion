@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 12 - [Deepnote (YC S19) is hiring engineers to build a better data science notebook](https://deepnote.com/join-us)
+- Oct 12 - [Remote Ham Radio](https://www.remotehamradio.com/)
 - Oct 12 - [SHA-1 'Fully and Practically Broken' by New Collision (2020)](https://duo.com/decipher/sha-1-fully-and-practically-broken-by-new-collision)
 - Oct 12 - [Highschool student hacks entire districts IoT network for Rickroll senior prank](https://whitehoodhacker.net/posts/2021-10-04-the-big-rick)
 - Oct 12 - [Ethereum Services Are Centralized](https://michaelgummelt.medium.com)
-- Oct 12 - [Adobe Uses DMCA to Nuke Project That Keeps Flash Alive, Secure and Adware Free](https://torrentfreak.com/adobe-uses-dmca-to-nuke-project-that-keeps-flash-alive-secure-adware-free-211012/)
-- Oct 12 - [Group effort to study the mathematical sciences for “saving the planet.”](https://www.azimuthproject.org/azimuth/show/HomePage)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
