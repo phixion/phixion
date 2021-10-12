@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 12 - [Monorepos and Forced Migrations](https://buttondown.email/j2kun/archive/monorepos-and-forced-migrations/)
-- Oct 12 - [Meterorite chunk crashes into house, bedroom, pillow](https://www.cbc.ca/news/canada/british-columbia/meteorite-crashes-into-womans-bedroom-golden-bc-1.6207904)
-- Oct 12 - [Mechanical sympathy for QR codes: making NSW check-in better](https://huonw.github.io/blog/2021/10/nsw-covid-qr/)
-- Oct 12 - [Show HN: A world map of 24x365 average temperature “fingerprints”](https://weatherspark.com/map)
-- Oct 12 - [Deepnote (YC S19) is hiring engineers to build a better data science notebook](https://deepnote.com/join-us)
+- Oct 12 - [On Slow Writing](https://lithub.com/a-revolution-in-creativity-on-slow-writing/)
+- Oct 12 - [Ten Years of Rows and Columns (1989)](https://aresluna.org/attached/computerhistory/articles/spreadsheets/tenyearsofrowsandcolumns)
+- Oct 12 - [The Problem with Macros](https://ianthehenry.com/posts/janet-game/the-problem-with-macros/)
+- Oct 12 - [An Organocatalysis Nobel](https://www.science.org/content/blog-post/organocatalysis-nobel)
+- Oct 12 - [Reversal of cognitive decline: A novel therapeutic program](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4221920/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
