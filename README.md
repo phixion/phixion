@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 12 - [Hi, I'm benny. How can I help?](https://almalinux.org/blog/hi-im-benny-how-can-i-help/)
+- Oct 12 - [Self Destructing Plastics via Embedded Enzymes](https://contest.techbriefs.com/2021/entries/sustainable-technologies-future-energy/11344)
+- Oct 12 - [Profiling Newlib-Nano's Memcpy](https://interrupt.memfault.com/blog/memcpy-newlib-nano)
+- Oct 12 - [An imminent Red Sea oil spill](https://www.nature.com/articles/s41893-021-00774-8)
 - Oct 12 - [Motion (YC W20) Is Hiring Software Engineers](https://www.workatastartup.com/jobs/47069)
 - Oct 12 - [There will soon be no more ads denying climate change on Google](https://arstechnica.com/tech-policy/2021/10/there-will-soon-be-no-more-ads-denying-climate-change-on-google/)
-- Oct 12 - [Stripe Is Hiring a Crypto Team 3 Years After Ending Bitcoin Support](https://www.coindesk.com/business/2021/10/12/stripe-is-hiring-a-crypto-team-3-years-after-ending-its-bitcoin-support/)
-- Oct 12 - [Finland lobbied EU to declare nuclear power sustainable](https://yle.fi/uutiset/osasto/news/finland_lobbied_eu_to_declare_nuclear_power_sustainable_after_unpublished_cabinet_decision_supported_by_greens/12135621)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
