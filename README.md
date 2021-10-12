@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 12 - [Monorepos and Forced Migrations](https://buttondown.email/j2kun/archive/monorepos-and-forced-migrations/)
+- Oct 12 - [Meterorite chunk crashes into house, bedroom, pillow](https://www.cbc.ca/news/canada/british-columbia/meteorite-crashes-into-womans-bedroom-golden-bc-1.6207904)
+- Oct 12 - [Mechanical sympathy for QR codes: making NSW check-in better](https://huonw.github.io/blog/2021/10/nsw-covid-qr/)
+- Oct 12 - [Coinbase NFT: Create. Collect. Connect. Launching This Year](https://www.coinbase.com/nft/announce/1PN6H2)
 - Oct 12 - [Show HN: A world map of 24x365 average temperature “fingerprints”](https://weatherspark.com/map)
-- Oct 12 - [Deepnote (YC S19) is hiring engineers to build a better data science notebook](https://deepnote.com/join-us)
-- Oct 12 - [Why birds can fly over Mount Everest](https://nautil.us/issue/86/energy/why-birds-can-fly-over-mount-everest)
-- Oct 12 - [MHonarc: A mail to HTML converter. 90s style](https://www.mhonarc.org/)
-- Oct 12 - [A Response to “The Origins of SARS-CoV-2: A Critical Review”](https://ayjchan.medium.com/a-response-to-the-origins-of-sars-cov-2-a-critical-review-5d4a644d9777)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
