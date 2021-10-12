@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 12 - [Group effort to study the mathematical sciences for “saving the planet.”](https://www.azimuthproject.org/azimuth/show/HomePage)
+- Oct 12 - [Facebook Dangerous Individuals and Organizations List (Reproduced Snapshot)](https://theintercept.com/document/2021/10/12/facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot/)
 - Oct 12 - [Self Destructing Plastics via Embedded Enzymes](https://contest.techbriefs.com/2021/entries/sustainable-technologies-future-energy/11344)
 - Oct 12 - [Profiling Newlib-Nano's Memcpy](https://interrupt.memfault.com/blog/memcpy-newlib-nano)
 - Oct 12 - [An imminent Red Sea oil spill](https://www.nature.com/articles/s41893-021-00774-8)
-- Oct 12 - [Motion (YC W20) Is Hiring Software Engineers](https://www.workatastartup.com/jobs/47069)
-- Oct 12 - [There will soon be no more ads denying climate change on Google](https://arstechnica.com/tech-policy/2021/10/there-will-soon-be-no-more-ads-denying-climate-change-on-google/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
