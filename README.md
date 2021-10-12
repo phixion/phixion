@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 12 - [Nuclear Power in France](https://www.world-nuclear.org/information-library/country-profiles/countries-a-f/france.aspx)
 - Oct 12 - [Covid lesson: trust the public with hard truths](https://www.nature.com/articles/d41586-021-02758-2)
 - Oct 12 - [Getting to the bottom of web map performance](https://bdon.org/blog/web-map-performance/)
 - Oct 12 - [Show HN: Identify car crash editorial anti-patterns using NLP](https://visionzeroreporting.com/)
 - Oct 12 - [A variable signal at heart of the Milky Way](https://www.sciencedaily.com/releases/2021/10/211012080039.htm)
-- Oct 12 - [Major nuclear fusion milestone reached as ‘ignition’ triggered in a lab](https://www.imperial.ac.uk/news/228373/major-nuclear-fusion-milestone-reached-ignition/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
