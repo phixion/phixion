@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 12 - [Plant-based meat deceleration signals niche future](https://foodinstitute.com/focus/plant-based-meat-deceleration-signals-niche-future/)
 - Oct 12 - [How do you memorize things you read?](https://news.ycombinator.com/item?id=28839573)
 - Oct 12 - [Impact of circulating SARS-CoV-2 variants on mRNA vaccine-induced immunity](https://www.nature.com/articles/s41586-021-04085-y)
 - Oct 12 - [The Death and Birth of Technological Revolutions](https://stratechery.com/2021/the-death-and-birth-of-technological-revolutions/)
 - Oct 12 - [Is This Peak Gas?](https://consciousnessofsheep.co.uk/2021/10/11/is-this-peak-gas/)
+- Oct 12 - [A New Link to an Old Model Could Crack the Mystery of Deep Learning](https://www.quantamagazine.org/a-new-link-to-an-old-model-could-crack-the-mystery-of-deep-learning-20211011/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
