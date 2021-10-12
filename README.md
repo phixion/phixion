@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 12 - [Bright (YC W15) Is Hiring an Impact Driven Product Management Lead](https://www.ycombinator.com/companies/bright/jobs/Cqjidjw-impact-driven-product-management-lead)
 - Oct 12 - [Why Japan Looks the Way It Does: Zoning](https://www.youtube.com/watch?v=wfm2xCKOCNk)
 - Oct 12 - [Ask HN: Solo-preneurs, how do you DevOps to save time?](https://news.ycombinator.com/item?id=28838132)
 - Oct 12 - [Magic Leap 2 announced for 2022](https://www.magicleap.com/en-us/news/op-ed/my-first-year-at-magic-leap-and-the-opportunity-ahead)
 - Oct 12 - [Effective Concurrency with Algebraic Effects in Multicore OCaml](https://kcsrk.info/ocaml/multicore/2015/05/20/effects-multicore/)
-- Oct 12 - [Scribe – An alternative front-end to Medium](https://scribe.rip/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
