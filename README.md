@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 12 - [Netflix Won’t Take Down Dave Chappelle Special, Ted Sarandos Says](https://www.hollywoodreporter.com/business/digital/netflix-dave-chappelle-ted-sarandos-memo-trans-employee-1235029671/)
+- Oct 12 - [How do you get a job as a software engineer if you've been cancelled?](https://news.ycombinator.com/item?id=28835775)
 - Oct 12 - [Rancher Desktop, a Docker Desktop Replacement](https://rancherdesktop.io/)
 - Oct 12 - [The Home Depot Teams Up with Walmart to Expand Same-Day and Next-Day Delivery](https://corporate.homedepot.com/newsroom/expands-same-day-next-day-delivery-with-walmart)
 - Oct 11 - [World’s deadliest bird was raised by people 18,000 years ago](https://www.nytimes.com/2021/09/28/science/most-dangerous-bird-cassowary.html)
