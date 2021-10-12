@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 12 - [3 TypeScript Tricks I wish I knew when I learned TypeScript](https://www.cstrnt.dev/blog/three-typescript-tricks)
-- Oct 12 - [Nobel Prize: We will not have gender or ethnicity quotas – top scientist](https://www.bbc.co.uk/news/world-europe-58875152)
 - Oct 12 - [React Internals (2017)](https://mattgreer.dev/articles/react-internals-part-one-basic-rendering/)
 - Oct 12 - [Use Raspberry Pi as Airplay server to screen mirror on TVs, monitors, projectors](https://github.com/rahul-thakoor/air-pi-play)
 - Oct 12 - [Structured Identifiers](https://pernos.co/blog/structured-identifiers/)
+- Oct 12 - [Apple Maps' Acceleration (2020)](https://www.justinobeirne.com/apple-maps-acceleration)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
