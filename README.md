@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 12 - [A variable signal at heart of the Milky Way](https://www.sciencedaily.com/releases/2021/10/211012080039.htm)
-- Oct 12 - [How do you memorize things you read?](https://news.ycombinator.com/item?id=28839573)
-- Oct 12 - [Impact of circulating SARS-CoV-2 variants on mRNA vaccine-induced immunity](https://www.nature.com/articles/s41586-021-04085-y)
+- Oct 12 - [Major nuclear fusion milestone reached as ‘ignition’ triggered in a lab](https://www.imperial.ac.uk/news/228373/major-nuclear-fusion-milestone-reached-ignition/)
+- Oct 12 - [Quantum Annealing opens a new door to Simulation Hypothesis](https://www.vesselproject.io/life-through-quantum-annealing)
+- Oct 12 - [Study reveals Android phones constantly snoop on their users](https://www.bleepingcomputer.com/news/security/study-reveals-android-phones-constantly-snoop-on-their-users/)
 - Oct 12 - [The Death and Birth of Technological Revolutions](https://stratechery.com/2021/the-death-and-birth-of-technological-revolutions/)
-- Oct 12 - [Is This Peak Gas?](https://consciousnessofsheep.co.uk/2021/10/11/is-this-peak-gas/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
