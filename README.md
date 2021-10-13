@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 13 - [Showing GUIs from Shell Scripts](https://sixtyfps.io/blog/showing-guis-from-shell-scripts.html)
+- Oct 13 - [Microsoft is ditching Electron for Teams](https://blog.devgenius.io/microsoft-is-finally-ditching-electron-9e081757f9db?gi=bd4952a2226a)
 - Oct 13 - [SUVs Are Off Setting the EV Car Gains](https://the-ken.com/greenmargins/when-the-suv-craze-goes-up-what-comes-down/)
 - Oct 13 - [Riot Games is disabling all chat in League of Legends](https://www.leagueoflegends.com/en-us/news/game-updates/disabling-all-chat/)
 - Oct 13 - [Tiny ELF Files: Revisited in 2021](https://nathanotterness.com/2021/10/tiny_elf_modernized.html)
-- Oct 13 - [GCP releases Spot VMs, the next generation of Pre-emptible VMs](https://cloud.google.com/kubernetes-engine/docs/concepts/spot-vms)
-- Oct 13 - [The great executive-employee disconnect](https://futureforum.com/2021/10/05/the-great-executive-employee-disconnect/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
