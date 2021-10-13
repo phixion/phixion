@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Oct 13 - [Call of Duty Adds Kernel Level Driver for Anti-Cheat](https://www.callofduty.com/blog/2021/10/ricochet-anti-cheat-initiative-for-call-of-duty)
 - Oct 13 - [Fast character case conversion (or how to compress sparse arrays)](https://github.com/apankrat/notes/tree/master/fast-case-conversion)
+- Oct 13 - [Generate Unicode Calendars for Markdown](https://qwerty.dev/calendar-generator/)
 - Oct 13 - [Okay (YC W20) Is Hiring a Fullstack Senior Engineer](https://www.ycombinator.com/companies/okay/jobs/0O0s8usap-fullstack-senior-engineer)
-- Oct 13 - [State of Open Source: The UK in 2021](https://openuk.uk/stateofopen/)
-- Oct 13 - [What If Performance Advertising Is Just an Analytics Scam?](https://sparktoro.com/blog/what-if-performance-advertising-is-just-an-analytics-scam/)
+- Oct 13 - [Container security best practices: Ultimate guide](https://sysdig.com/blog/container-security-best-practices/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
