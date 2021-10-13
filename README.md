@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 13 - [Okay (YC W20) Is Hiring a Fullstack Senior Engineer](https://www.ycombinator.com/companies/okay/jobs/0O0s8usap-fullstack-senior-engineer)
+- Oct 13 - [State of Open Source: The UK in 2021](https://openuk.uk/stateofopen/)
 - Oct 13 - [Software Sweatshop – Inside Billionaire Joe Liemandt's Empire](https://colinkeeley.com/blog/joe-liemandt-esw-capital-operating-manual)
 - Oct 13 - [The 100 MHz 6502](http://www.e-basteln.de/computing/65f02/65f02/)
 - Oct 13 - [Please stop calling dopamine an addictive rewarding neurochemical (2017)](https://www.psychologytoday.com/intl/blog/women-who-stray/201701/no-dopamine-is-not-addictive)
-- Oct 13 - [Find images from movies based on what you draw](https://huggingface.co/spaces/osanseviero/draw_to_search)
-- Oct 13 - [Windows 11’s first update makes AMD CPU performance even worse](https://www.theverge.com/2021/10/13/22723998/windows-11-update-amd-ryzen-cpu-performance-worse)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
