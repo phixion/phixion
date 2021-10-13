@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 13 - [Substack (YC W18) is hiring engineering managers to build the future of writing](https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7)
+- Oct 13 - [Adventuron – Text Adventure Authoring in the Browser](https://adventuron.io/)
+- Oct 13 - [Extreme heat is broiling people in developing cities – Science – AAAS](https://www.science.org/content/article/extreme-heat-broiling-people-developing-cities)
 - Oct 13 - [Typography of “2001: A Space Odyssey”](https://typesetinthefuture.com/2014/01/31/2001-a-space-odyssey/)
 - Oct 13 - [Always Do Extra](http://www.bennorthrop.com/Essays/2021/always-do-extra.php)
-- Oct 13 - [Kape Now Owns ExpressVPN, CyberGhost, PIA, Zenmate, and VPN “Review” Sites](https://restoreprivacy.com/kape-technologies-owns-expressvpn-cyberghost-pia-zenmate-vpn-review-sites/)
-- Oct 13 - [Apple silently fixes iOS zero-day, asks bug reporter to keep quiet](https://www.bleepingcomputer.com/news/apple/apple-silently-fixes-ios-zero-day-asks-bug-reporter-to-keep-quiet/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
