@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 13 - [A Guide to Designing Effective NFT Launches](https://www.paradigm.xyz/2021/10/a-guide-to-designing-effective-nft-launches/)
+- Oct 13 - [Intellectuals urge Germany to keep nuclear plants online](https://www.euractiv.com/section/electricity/news/german-intellectuals-urge-state-to-keep-nuclear-plants-online/)
 - Oct 13 - [Show HN: GPX replay map that shows terrain shadows during activities](https://shademap.app/gpxreplay/)
 - Oct 13 - [Fast character case conversion (or how to compress sparse arrays)](https://github.com/apankrat/notes/tree/master/fast-case-conversion)
 - Oct 13 - [Generate Unicode Calendars for Markdown](https://qwerty.dev/calendar-generator/)
