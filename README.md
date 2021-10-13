@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 13 - [Please stop calling dopamine an addictive rewarding neurochemical](https://www.psychologytoday.com/intl/blog/women-who-stray/201701/no-dopamine-is-not-addictive)
 - Oct 13 - [Find images from movies based on what you draw](https://huggingface.co/spaces/osanseviero/draw_to_search)
 - Oct 13 - [The Venus Project](https://www.thevenusproject.com/)
 - Oct 13 - [Why “Trusting the Science” Is Complicated](https://www.lareviewofbooks.org/article/why-trusting-the-science-is-complicated/)
 - Oct 13 - [U.S. inflation rate rises to 13-year high of 5.4%](https://www.cbc.ca/news/business/us-inflation-1.6208981)
-- Oct 13 - [Cosmic inflation preceded the Big Bang](https://bigthink.com/starts-with-a-bang/big-bang-beginning-universe/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
