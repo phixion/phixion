@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 13 - [Why HN is the way it is, and why we hope it will stay that way](https://news.ycombinator.com/item?id=27161491)
 - Oct 13 - [Software Sweatshop – Inside Billionaire Joe Liemandt's Empire](https://colinkeeley.com/blog/joe-liemandt-esw-capital-operating-manual)
 - Oct 13 - [The 100 MHz 6502](http://www.e-basteln.de/computing/65f02/65f02/)
 - Oct 13 - [Please stop calling dopamine an addictive rewarding neurochemical (2017)](https://www.psychologytoday.com/intl/blog/women-who-stray/201701/no-dopamine-is-not-addictive)
 - Oct 13 - [Depressed People See the World More Realistically](https://www.vice.com/en/article/8x9j3k/depressed-people-see-the-world-more-realistically)
+- Oct 13 - [Find images from movies based on what you draw](https://huggingface.co/spaces/osanseviero/draw_to_search)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
