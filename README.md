@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 13 - [U.S. inflation rate rises to 13-year high of 5.4%](https://www.cbc.ca/news/business/us-inflation-1.6208981)
+- Oct 13 - [Cosmic inflation preceded the Big Bang](https://bigthink.com/starts-with-a-bang/big-bang-beginning-universe/)
 - Oct 13 - [Windows 11’s first update makes AMD CPU performance even worse](https://www.theverge.com/2021/10/13/22723998/windows-11-update-amd-ryzen-cpu-performance-worse)
 - Oct 13 - [Amazon copied products and rigged search results to promote its own brands](https://www.reuters.com/investigates/special-report/amazon-india-rigging/)
-- Oct 13 - [Culture Biosciences (YC W18) Is Hiring Product Managers to Make AWS for Biotech](https://www.culturebiosciences.com/careers?gh_jid=4712856003)
-- Oct 13 - [How to Get over Fear of Disappointing Others (FODO)](https://nickwignall.com/fear-of-disappointing-others/)
+- Oct 13 - [Sketch Machine](https://sketchmachine.net/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
