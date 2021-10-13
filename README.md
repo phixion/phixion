@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 13 - [Recent deaths in young people in England and Wales](https://www.hartgroup.org/recent-deaths-in-young-people-in-england-and-wales/)
 - Oct 13 - [Dopamine, Smartphones and You: A battle for your time](https://sitn.hms.harvard.edu/flash/2018/dopamine-smartphones-battle-time/)
 - Oct 13 - [How apt renders its fancy progress bar?](https://mdk.fr/blog/how-apt-does-its-fancy-progress-bar.html)
 - Oct 13 - [Time Millionaires](https://www.theguardian.com/lifeandstyle/2021/oct/12/time-millionaires-meet-the-people-pursuing-the-pleasure-of-leisure)
 - Oct 13 - [Who's taking over PCem development?](https://www.pcem-emulator.co.uk/)
-- Oct 13 - [Bitcoin Addiction Hospital](https://castlecraig.co.uk/treatment/behavioral-addictions/bitcoin-addiction-treatment)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
