@@ -35,9 +35,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 13 - [Windows 11’s first update makes AMD CPU performance even worse](https://www.theverge.com/2021/10/13/22723998/windows-11-update-amd-ryzen-cpu-performance-worse)
 - Oct 13 - [Amazon copied products and rigged search results, documents show](https://www.reuters.com/investigates/special-report/amazon-india-rigging/)
 - Oct 13 - [Back to EU](https://adambird.com/posts/back-to-eu/)
-- Oct 13 - [M3O – An open source AWS alternative](https://github.com/m3o/m3o)
 - Oct 13 - [Culture Biosciences (YC W18) Is Hiring Product Managers to Make AWS for Biotech](https://www.culturebiosciences.com/careers?gh_jid=4712856003)
 - Oct 13 - [How to Get over Fear of Disappointing Others (FODO)](https://nickwignall.com/fear-of-disappointing-others/)
 <!--END_SECTION:hn-->
