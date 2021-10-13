@@ -35,10 +35,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 13 - [.NET Foundation — Use of GitHub Enterprise #59](https://github.com/dotnet-foundation/Home/discussions/59)
+- Oct 13 - [Use of GitHub Enterprise](https://github.com/dotnet-foundation/Home/discussions/59)
 - Oct 13 - [Remarkable starts implementing subscription plans for its cloud features](https://remarkable.com/store/connect)
 - Oct 13 - [Replit (YC W18) Is Hiring to Make Programming More Accessible](https://replit.com/careers)
-- Oct 13 - [Visualization of Sea Level Rise for American and Other Landmarks](https://picturing.climatecentral.org/)
+- Oct 13 - [Walgreens closing 5 San Francisco stores due to 'organized retail crime'](https://www.sfgate.com/bayarea/article/Walgreens-closing-5-Sf-stores-crime-shoplifting-16527801.php)
 - Oct 12 - [History of Mathematics Project](https://history-of-mathematics.org/)
 <!--END_SECTION:hn-->
 
