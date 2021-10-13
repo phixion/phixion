@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 13 - [Download Best Creative Agency Website Templates](https://htmltemplate.org/downloads/creative-agency-website-templates/)
 - Oct 13 - [44% of executives want to return to work, 17% of employees do](https://futureforum.com/2021/10/05/the-great-executive-employee-disconnect/)
 - Oct 13 - [US attorney details illegal acts, sealing the fate of the “nuclear Renaissance”](https://thebulletin.org/2021/08/us-attorney-details-illegal-acts-at-construction-projects-sealing-the-fate-of-the-nuclear-renaissance/)
 - Oct 13 - [Use of GitHub Enterprise](https://github.com/dotnet-foundation/Home/discussions/59)
 - Oct 13 - [Remarkable starts implementing subscription plans for its cloud features](https://remarkable.com/store/connect)
-- Oct 13 - [Replit (YC W18) Is Hiring to Make Programming More Accessible](https://replit.com/careers)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
