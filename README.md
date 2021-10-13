@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Oct 13 - [Using ASCII waveforms to test real-time audio code](https://goq2q.net/blog/tech/using-ascii-waveforms-to-test-real-time-audio-code)
 - Oct 13 - [Intellectuals urge Germany to keep nuclear plants online](https://www.euractiv.com/section/electricity/news/german-intellectuals-urge-state-to-keep-nuclear-plants-online/)
+- Oct 13 - [Southwest new CEO denies walk-off rumors, defends pilots amid schedule meltdown](https://thepointsguy.com/news/southwest-airlines-new-ceo-pilots-cancellations/)
 - Oct 13 - [Problems with relying on billionaires to save us](https://www.vox.com/recode/2020/4/7/21203179/coronavirus-billionaires-philanthropy-bill-gates-larry-ellison-mark-zuckerberg-jack-dorsey)
 - Oct 13 - [Show HN: GPX replay map that shows terrain shadows during activities](https://shademap.app/gpxreplay/)
-- Oct 13 - [Fast character case conversion (or how to compress sparse arrays)](https://github.com/apankrat/notes/tree/master/fast-case-conversion)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
