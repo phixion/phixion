@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 13 - [Back to EU](https://adambird.com/posts/back-to-eu/)
+- Oct 13 - [M3O – An open source AWS alternative](https://github.com/m3o/m3o)
 - Oct 13 - [Culture Biosciences (YC W18) Is Hiring Product Managers to Make AWS for Biotech](https://www.culturebiosciences.com/careers?gh_jid=4712856003)
+- Oct 13 - [How to Get over Fear of Disappointing Others (FODO)](https://nickwignall.com/fear-of-disappointing-others/)
 - Oct 13 - [Janet – a Lisp-like functional, imperative programming language](https://github.com/janet-lang/janet)
-- Oct 13 - [AI predicts accident hot-spots from satellite imagery and GPS data](https://www.unite.ai/ai-predicts-accident-hot-spots-from-satellite-imagery-and-gps-data/)
-- Oct 13 - [Dopamine, Smartphones and You: A battle for your time](https://sitn.hms.harvard.edu/flash/2018/dopamine-smartphones-battle-time/)
-- Oct 13 - [How does apt render its fancy progress bar?](https://mdk.fr/blog/how-apt-does-its-fancy-progress-bar.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
