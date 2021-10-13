@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 13 - [Call of Duty Adds Kernel Level Driver for Anti-Cheat](https://www.callofduty.com/blog/2021/10/ricochet-anti-cheat-initiative-for-call-of-duty)
+- Oct 13 - [Fast character case conversion (or how to compress sparse arrays)](https://github.com/apankrat/notes/tree/master/fast-case-conversion)
 - Oct 13 - [Okay (YC W20) Is Hiring a Fullstack Senior Engineer](https://www.ycombinator.com/companies/okay/jobs/0O0s8usap-fullstack-senior-engineer)
 - Oct 13 - [State of Open Source: The UK in 2021](https://openuk.uk/stateofopen/)
-- Oct 13 - [Software Sweatshop – Inside Billionaire Joe Liemandt's Empire](https://colinkeeley.com/blog/joe-liemandt-esw-capital-operating-manual)
-- Oct 13 - [The 100 MHz 6502](http://www.e-basteln.de/computing/65f02/65f02/)
-- Oct 13 - [Please stop calling dopamine an addictive rewarding neurochemical (2017)](https://www.psychologytoday.com/intl/blog/women-who-stray/201701/no-dopamine-is-not-addictive)
+- Oct 13 - [What If Performance Advertising Is Just an Analytics Scam?](https://sparktoro.com/blog/what-if-performance-advertising-is-just-an-analytics-scam/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
