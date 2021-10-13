@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 13 - [Software Sweatshop – Inside Billionaire Joe Liemandt's Empire](https://colinkeeley.com/blog/joe-liemandt-esw-capital-operating-manual)
 - Oct 13 - [The 100 MHz 6502](http://www.e-basteln.de/computing/65f02/65f02/)
-- Oct 13 - [Please stop calling dopamine an addictive rewarding neurochemical](https://www.psychologytoday.com/intl/blog/women-who-stray/201701/no-dopamine-is-not-addictive)
-- Oct 13 - [You Are Jeff Bezos](https://direkris.itch.io/you-are-jeff-bezos)
+- Oct 13 - [Please stop calling dopamine an addictive rewarding neurochemical (2017)](https://www.psychologytoday.com/intl/blog/women-who-stray/201701/no-dopamine-is-not-addictive)
+- Oct 13 - [Depressed People See the World More Realistically](https://www.vice.com/en/article/8x9j3k/depressed-people-see-the-world-more-realistically)
 - Oct 13 - [Find images from movies based on what you draw](https://huggingface.co/spaces/osanseviero/draw_to_search)
-- Oct 13 - [The Venus Project](https://www.thevenusproject.com/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
