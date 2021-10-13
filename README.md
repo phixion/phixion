@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 13 - [Who's taking over PCem development?](https://www.pcem-emulator.co.uk/)
-- Oct 13 - [Chernobyl’s Blown Up Reactor 4 Just Woke Up](https://historyofyesterday.com/chernobyls-blown-up-reactor-4-just-woke-up-74bedd5fc92d?gi=404e39cf92f1)
 - Oct 13 - [Bitcoin Addiction Hospital](https://castlecraig.co.uk/treatment/behavioral-addictions/bitcoin-addiction-treatment)
 - Oct 13 - [Apple Set to Cut iPhone Production Goals Due to Chip Crunch](https://www.bloomberg.com/news/articles/2021-10-12/apple-poised-to-slash-iphone-production-goals-due-to-chip-crunch)
 - Oct 13 - [OVH is down along with its status page](https://status.ovh.com)
+- Oct 13 - [A QEMU case study in grappling with software complexity](https://lwn.net/SubscriberLink/872321/2e4d8002f40ae38d/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
