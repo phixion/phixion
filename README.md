@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 13 - [Wolf pups 'adopted' by Idaho high schoolers killed by federal agents](https://www.bbc.com/news/world-us-canada-58887928)
 - Oct 13 - [Tiny ELF Files: Revisited in 2021](https://nathanotterness.com/2021/10/tiny_elf_modernized.html)
 - Oct 13 - [GCP releases Spot VMs, the next generation of Pre-emptible VMs](https://cloud.google.com/kubernetes-engine/docs/concepts/spot-vms)
 - Oct 13 - [The great executive-employee disconnect](https://futureforum.com/2021/10/05/the-great-executive-employee-disconnect/)
 - Oct 13 - [Use of GitHub Enterprise](https://github.com/dotnet-foundation/Home/discussions/59)
+- Oct 13 - [Remarkable starts implementing subscription plans for its cloud features](https://remarkable.com/store/connect)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
