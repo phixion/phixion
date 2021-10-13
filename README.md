@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 13 - [Call of Duty Adds Kernel Level Driver for Anti-Cheat](https://www.callofduty.com/blog/2021/10/ricochet-anti-cheat-initiative-for-call-of-duty)
+- Oct 13 - [A Guide to Designing Effective NFT Launches](https://www.paradigm.xyz/2021/10/a-guide-to-designing-effective-nft-launches/)
+- Oct 13 - [Show HN: GPX replay map that shows terrain shadows during activities](https://shademap.app/gpxreplay/)
 - Oct 13 - [Fast character case conversion (or how to compress sparse arrays)](https://github.com/apankrat/notes/tree/master/fast-case-conversion)
 - Oct 13 - [Generate Unicode Calendars for Markdown](https://qwerty.dev/calendar-generator/)
 - Oct 13 - [Okay (YC W20) Is Hiring a Fullstack Senior Engineer](https://www.ycombinator.com/companies/okay/jobs/0O0s8usap-fullstack-senior-engineer)
-- Oct 13 - [Container security best practices: Ultimate guide](https://sysdig.com/blog/container-security-best-practices/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
