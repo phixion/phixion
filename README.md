@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 13 - [US attorney details illegal acts, sealing the fate of the “nuclear Renaissance”](https://thebulletin.org/2021/08/us-attorney-details-illegal-acts-at-construction-projects-sealing-the-fate-of-the-nuclear-renaissance/)
 - Oct 13 - [Use of GitHub Enterprise](https://github.com/dotnet-foundation/Home/discussions/59)
 - Oct 13 - [Remarkable starts implementing subscription plans for its cloud features](https://remarkable.com/store/connect)
 - Oct 13 - [Replit (YC W18) Is Hiring to Make Programming More Accessible](https://replit.com/careers)
 - Oct 12 - [History of Mathematics Project](https://history-of-mathematics.org/)
-- Oct 12 - [Facebook's Novi wallet hits trouble as two top engineers depart](https://financefeeds.com/facebooks-novi-wallet-hits-trouble-as-two-top-engineers-depart/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
