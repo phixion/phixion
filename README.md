@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 13 - [I will not exercise my Gitlab stock options](https://web.archive.org/web/20170405000833/https://medium.com/@patocano/why-i-will-not-exercise-my-gitlab-stock-options-bf6f3dda62e)
+- Oct 13 - [Typography of “2001: A Space Odyssey”](https://typesetinthefuture.com/2014/01/31/2001-a-space-odyssey/)
+- Oct 13 - [I will not exercise my Gitlab stock options (2017)](https://web.archive.org/web/20170405000833/https://medium.com/@patocano/why-i-will-not-exercise-my-gitlab-stock-options-bf6f3dda62e)
 - Oct 13 - [Always Do Extra](http://www.bennorthrop.com/Essays/2021/always-do-extra.php)
 - Oct 13 - [Kape Now Owns ExpressVPN, CyberGhost, PIA, Zenmate, and VPN “Review” Sites](https://restoreprivacy.com/kape-technologies-owns-expressvpn-cyberghost-pia-zenmate-vpn-review-sites/)
 - Oct 13 - [Apple silently fixes iOS zero-day, asks bug reporter to keep quiet](https://www.bleepingcomputer.com/news/apple/apple-silently-fixes-ios-zero-day-asks-bug-reporter-to-keep-quiet/)
-- Oct 13 - [Using ASCII waveforms to test real-time audio code](https://goq2q.net/blog/tech/using-ascii-waveforms-to-test-real-time-audio-code)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
