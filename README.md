@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 13 - [Find images from movies based on what you draw](https://huggingface.co/spaces/osanseviero/draw_to_search)
+- Oct 13 - [The Venus Project](https://www.thevenusproject.com/)
+- Oct 13 - [Why “Trusting the Science” Is Complicated](https://www.lareviewofbooks.org/article/why-trusting-the-science-is-complicated/)
 - Oct 13 - [U.S. inflation rate rises to 13-year high of 5.4%](https://www.cbc.ca/news/business/us-inflation-1.6208981)
 - Oct 13 - [Cosmic inflation preceded the Big Bang](https://bigthink.com/starts-with-a-bang/big-bang-beginning-universe/)
-- Oct 13 - [Windows 11’s first update makes AMD CPU performance even worse](https://www.theverge.com/2021/10/13/22723998/windows-11-update-amd-ryzen-cpu-performance-worse)
-- Oct 13 - [Amazon copied products and rigged search results to promote its own brands](https://www.reuters.com/investigates/special-report/amazon-india-rigging/)
-- Oct 13 - [Sketch Machine](https://sketchmachine.net/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
