@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 13 - [Andrew Kobin’s Lecture Notes](https://www.andrewkobin.com/research)
-- Oct 13 - [Lite-weight Embedding API for Mozilla based applications with native UI](https://wiki.mozilla.org/Embedding/IPCLiteAPI#Lite-weight_Embedding_API_for_Mozilla_based_applications_with_native_UI.)
 - Oct 13 - [Patrick Stewart on the teacher who spotted his talent – and saved him](https://www.theguardian.com/lifeandstyle/2021/oct/13/a-moment-that-changed-me-patrick-stewart-on-the-teacher-who-spotted-his-talent-and-saved-him)
 - Oct 13 - [WebAuthn – The Passwordless Future](https://webauthn.io/)
 - Oct 13 - [Substack (YC W18) is hiring engineering managers to build the future of writing](https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7)
+- Oct 13 - [Adventuron – Text Adventure Authoring in the Browser](https://adventuron.io/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
