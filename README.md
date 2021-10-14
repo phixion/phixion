@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 14 - [Chemicals used in packaging may play role in 100k US deaths a year – study](https://www.theguardian.com/us-news/2021/oct/14/phthalates-deaths-older-americans-study-chemicals)
 - Oct 14 - [In Britain, childlessness seems likely to return to 1920s levels](https://www.economist.com/britain/2021/10/14/in-britain-childlessness-seems-likely-to-return-to-1920s-levels)
 - Oct 14 - [Tech compensation in 2021](https://jacobian.org/2021/oct/13/tech-salaries-2021/)
 - Oct 14 - [UpCodes is hiring our first recruiter to help automate compliance for architects](https://up.codes/careers#recruiter)
 - Oct 14 - [The Serde Rust Framework](https://serde.rs/)
-- Oct 14 - [First Ever Image of a Multi-Planet System Around a Sun-Like Star (2020)](https://www.eso.org/public/news/eso2011/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
