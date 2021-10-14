@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 14 - [Amazon Puts Its Own “Brands” First Above Better-Rated Products](https://themarkup.org/amazons-advantage/2021/10/14/amazon-puts-its-own-brands-first-above-better-rated-products)
+- Oct 14 - [Tenured Professors Can Be Fired Without Faculty Input in Georgia](https://www.nytimes.com/2021/10/13/us/georgia-university-system-tenure.html)
 - Oct 14 - [What I wish I knew when learning F#](https://danielbachler.de/2020/12/23/what-i-wish-i-knew-when-learning-fsharp.html)
-- Oct 14 - [Bitcoin could trigger financial meltdown, warns Bank of England](https://www.theguardian.com/technology/2021/oct/13/bitcoin-could-trigger-financial-meltdown-warns-bank-of-england-deputy)
 - Oct 14 - [Links for October](https://astralcodexten.substack.com/p/links-for-october)
 - Oct 14 - [QuestDB Is Hiring Customer Success Engineers](https://questdb.io/careers/customer-success-engineer/)
-- Oct 14 - [‘Nanotargeting’ Facebook users based on their perceived interests](https://www.unite.ai/facebook-nanotargeting-users-based-solely-on-their-perceived-interests/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
