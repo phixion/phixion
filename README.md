@@ -35,8 +35,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 14 - [Apple to make ten million fewer iPhones due to micro chip shortage](https://www.cbc.ca/news/business/apple-iphones-semiconductors-1.6208996)
 - Oct 14 - [FTC Puts Hundreds of Businesses on Notice about Fake Reviews](https://www.ftc.gov/news-events/press-releases/2021/10/ftc-puts-hundreds-businesses-notice-about-fake-reviews-other)
-- Oct 14 - [Open Letter of Solidarity with the University of Sussex from UK Philosophers](https://openlettertosussexfromukphilosophers.wordpress.com/)
 - Oct 14 - [Decompilation of 3D Pinball for Windows – Space Cadet](https://github.com/k4zmu2a/SpaceCadetPinball)
 - Oct 14 - [Seven Deadly Sins of Introductory Programming Language Design (1996) [pdf]](https://users.monash.edu/~damian/papers/PDF/SevenDeadlySins.pdf)
 - Oct 14 - [Parcel v2](https://parceljs.org/blog/v2/)
