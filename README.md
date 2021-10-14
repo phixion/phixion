@@ -22,11 +22,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Oct 14 - [Thingiverse - 228,102 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Thingiverse)
 - Oct 11 - [Playbook - 50,538 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Playbook)
 - Oct 07 - [Fantasy Football Hub - 66,479 breached accounts](https://haveibeenpwned.com/PwnedWebsites#FantasyFootballHub)
 - Oct 06 - [Republican Party of Texas - 72,596 breached accounts](https://haveibeenpwned.com/PwnedWebsites#RepublicanPartyOfTexas)
 - Oct 02 - [LinkedIn Scraped Data - 125,698,496 breached accounts](https://haveibeenpwned.com/PwnedWebsites#LinkedInScrape)
-- Sep 26 - [Ajarn - 266,399 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Ajarn)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## News
@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 14 - [YouTube censors David Davis MP’s speech against vaccine passports](https://bigbrotherwatch.org.uk/2021/10/youtube-censors-david-davis-mps-speech-against-vaccine-passports/)
+- Oct 14 - [Welcome to Britain, the bank scam capital of the world](https://www.reuters.com/world/uk/welcome-britain-bank-scam-capital-world-2021-10-14/)
 - Oct 14 - [UK MP speech about freedoms censored by YouTube](https://twitter.com/BigBrotherWatch/status/1448544035799552004)
-- Oct 14 - [Ask HN: Why is there no Django/Rails equivalent in JavaScript world?](https://news.ycombinator.com/item?id=28861970)
 - Oct 14 - [Ask HN: What does one look for in a laptop these days?](https://news.ycombinator.com/item?id=28861949)
 - Oct 14 - [Anti-Café](https://en.wikipedia.org/wiki/Anti-caf%C3%A9)
+- Oct 14 - [Hands-On Rust: Effective Learning Through 2D Game Development and Play](https://pragprog.com/titles/hwrust/hands-on-rust/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
