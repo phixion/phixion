@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 14 - [Ask HN: What does one look for in a laptop these days?](https://news.ycombinator.com/item?id=28861949)
 - Oct 14 - [Anti-Café](https://en.wikipedia.org/wiki/Anti-caf%C3%A9)
 - Oct 14 - [Stacker (YC S20) Is Hiring Across Engineering](https://www.stackerhq.com/careers#job-listing)
 - Oct 14 - [Design patterns let you apply existing solutions to your code](https://stackoverflow.blog/2021/10/13/why-solve-a-problem-twice-design-patterns-let-you-apply-existing-solutions-to-your-code/)
 - Oct 14 - [esbuild – An extremely fast JavaScript bundler](https://esbuild.github.io/)
-- Oct 14 - [Practice Problems for Hardware Engineers](https://arxiv.org/abs/2110.06526)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
