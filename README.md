@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 14 - [After 2hrs sunscreen that includes zinc oxide loses effectiveness, becomes toxic](https://phys.org/news/2021-10-hours-sunscreen-zinc-oxide-effectiveness.html)
 - Oct 14 - [Apple Captures 75% of Global Handset Market Operating Profit in Q2 2021](https://www.counterpointresearch.com/global-handset-market-operating-profit-q2-2021/)
-- Oct 14 - [The Most Important Global Meeting You’ve Probably Never Heard of Is Now](https://www.nytimes.com/2021/10/14/climate/un-biodiversity-conference-climate-change.html)
+- Oct 14 - [Harnessing the benefits of UVA light treatment in Covid-19 patients](https://www.healtheuropa.eu/harnessing-benefits-uva-light-treatment-covid-19-patients/111044/)
+- Oct 14 - [Countries are gathering in an effort to stop a biodiversity collapse](https://www.nytimes.com/2021/10/14/climate/un-biodiversity-conference-climate-change.html)
 - Oct 14 - [Gitlab from YC to IPO](https://blog.ycombinator.com/gitlab-from-yc-to-ipo/)
-- Oct 14 - [Every search bar looks like a URL bar to users](https://shkspr.mobi/blog/2021/10/every-search-bar-looks-like-a-url-bar-to-users/)
-- Oct 14 - [Boeing says certain 787 parts improperly manufactured](https://www.reuters.com/business/aerospace-defense/boeing-deals-with-new-defect-787-dreamliner-wsj-2021-10-14/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
