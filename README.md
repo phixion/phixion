@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 14 - [YouTube censors David Davis MP’s speech against vaccine passports](https://bigbrotherwatch.org.uk/2021/10/youtube-censors-david-davis-mps-speech-against-vaccine-passports/)
 - Oct 14 - [UK MP speech about freedoms censored by YouTube](https://twitter.com/BigBrotherWatch/status/1448544035799552004)
+- Oct 14 - [Ask HN: Why is there no Django/Rails equivalent in JavaScript world?](https://news.ycombinator.com/item?id=28861970)
 - Oct 14 - [Ask HN: What does one look for in a laptop these days?](https://news.ycombinator.com/item?id=28861949)
 - Oct 14 - [Anti-Café](https://en.wikipedia.org/wiki/Anti-caf%C3%A9)
-- Oct 14 - [Stacker (YC S20) Is Hiring Across Engineering](https://www.stackerhq.com/careers#job-listing)
-- Oct 14 - [Design patterns let you apply existing solutions to your code](https://stackoverflow.blog/2021/10/13/why-solve-a-problem-twice-design-patterns-let-you-apply-existing-solutions-to-your-code/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
