@@ -35,8 +35,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 14 - [Alden Global Capital, the secretive hedge fund gutting newsrooms](https://www.theatlantic.com/magazine/archive/2021/11/alden-global-capital-killing-americas-newspapers/620171/)
 - Oct 14 - [SkipTheInterview launches then promptly shuts down](https://www.protocol.com/site-allowing-you-to-skip-the-interview-launches-promptly-shuts-down)
-- Oct 14 - [Waymo's Self-Driving Cars Are Flocking to a Dead-End Street in San Francisco](https://gizmodo.com/waymos-self-driving-cars-are-mysteriously-flocking-to-a-1847862042)
 - Oct 14 - [Michelin Airless](https://www.michelin.com/en/innovation/vision-concept/airless/)
 - Oct 14 - [Sunset Geometry (2016)](https://www.shapeoperator.com/2016/12/12/sunset-geometry/)
 - Oct 14 - [After 2hrs sunscreen that includes zinc oxide loses effectiveness, becomes toxic](https://phys.org/news/2021-10-hours-sunscreen-zinc-oxide-effectiveness.html)
