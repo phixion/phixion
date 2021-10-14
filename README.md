@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 14 - [FIFA seeks $1B+ (per 4 years) from EA for name usage](https://www.nytimes.com/2021/10/13/sports/soccer/ea-sports-fifa.html)
+- Oct 14 - [OpenBSD 7.0 Released](https://www.openbsd.org/70.html)
 - Oct 14 - [An unprecedented wave of online bank fraud is hitting Britain](https://www.reuters.com/world/uk/welcome-britain-bank-scam-capital-world-2021-10-14/)
 - Oct 14 - [UK MP speech about freedoms censored by YouTube](https://twitter.com/BigBrotherWatch/status/1448544035799552004)
 - Oct 14 - [Hands-On Rust: Effective Learning Through 2D Game Development and Play](https://pragprog.com/titles/hwrust/hands-on-rust/)
-- Oct 14 - [Jony Ive's design agency launches website](https://www.lovefrom.com/)
-- Oct 14 - [Stacker (YC S20) Is Hiring Across Engineering](https://www.stackerhq.com/careers#job-listing)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
