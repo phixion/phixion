@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 14 - [SkipTheInterview launches then promptly shuts down](https://www.protocol.com/site-allowing-you-to-skip-the-interview-launches-promptly-shuts-down)
 - Oct 14 - [Michelin Airless](https://www.michelin.com/en/innovation/vision-concept/airless/)
 - Oct 14 - [Sunset Geometry (2016)](https://www.shapeoperator.com/2016/12/12/sunset-geometry/)
-- Oct 14 - [After 2hrs sunscreen that includes zinc oxide loses effectiveness, becomes toxic](https://phys.org/news/2021-10-hours-sunscreen-zinc-oxide-effectiveness.html)
+- Oct 14 - [Countries are gathering in an effort to stop a biodiversity collapse](https://www.nytimes.com/2021/10/14/climate/un-biodiversity-conference-climate-change.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
