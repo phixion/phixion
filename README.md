@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Oct 14 - [FTC Puts Hundreds of Businesses on Notice about Fake Reviews](https://www.ftc.gov/news-events/press-releases/2021/10/ftc-puts-hundreds-businesses-notice-about-fake-reviews-other)
 - Oct 14 - [Decompilation of 3D Pinball for Windows – Space Cadet](https://github.com/k4zmu2a/SpaceCadetPinball)
+- Oct 14 - [Syncthing – a continuous file synchronization program](https://syncthing.net/)
 - Oct 14 - [Seven Deadly Sins of Introductory Programming Language Design (1996) [pdf]](https://users.monash.edu/~damian/papers/PDF/SevenDeadlySins.pdf)
 - Oct 14 - [You Already Know Formal Methods](https://galois.com/blog/2021/10/you-already-know-formal-methods/)
-- Oct 14 - [Parcel v2](https://parceljs.org/blog/v2/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
