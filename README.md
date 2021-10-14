@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 14 - [App Store chief to Tim Cook: “we should not use these download figures publicly”](https://twitter.com/TechEmails/status/1448706515590946817)
+- Oct 14 - [Strict Id Laws Don’t Stop Voters: Evidence from a U.S. Nationwide Panel](https://academic.oup.com/qje/article-abstract/136/4/2615/6281042)
 - Oct 14 - [Ubuntu 21.10](https://ubuntu.com/blog/ubuntu-21-10-has-landed)
-- Oct 14 - [Coinbase Digital Asset Policy Proposal](https://github.com/coinbase/digital-asset-policy-proposal)
-- Oct 14 - [Missouri Governor Vows to Prosecute St. Louis Post-Dispatch for Reporting](https://krebsonsecurity.com/2021/10/missouri-governor-vows-to-prosecute-st-louis-post-dispatch-for-reporting-security-vulnerability/)
-- Oct 14 - [On Receiving My Certificate of Loss of (US) Nationality (2016)](https://rachelsruminations.com/certificate-loss-nationality/)
-- Oct 14 - [Release (YC W20) Is Hiring – Product Marketing Manager](https://releasehub.com/company#hire)
+- Oct 14 - [Weir-A System for Making Generative Art (Common-Lisp))](https://github.com/inconvergent/weir)
+- Oct 14 - [Show HN: OtterTune – Automated Database Tuning Service for RDS MySQL/Postgres](https://news.ycombinator.com/item?id=28868382)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
