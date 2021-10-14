@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 14 - [Stacker (YC S20) Is Hiring Across Engineering](https://www.stackerhq.com/careers#job-listing)
-- Oct 14 - [Discovery may give solar cells 1,000% more power](https://www.mining.com/recent-discovery-may-give-solar-cells-a-thousand-times-more-power/)
 - Oct 14 - [Design patterns let you apply existing solutions to your code](https://stackoverflow.blog/2021/10/13/why-solve-a-problem-twice-design-patterns-let-you-apply-existing-solutions-to-your-code/)
 - Oct 14 - [G7 finance officials endorse principles for central bank digital currencies](https://www.reuters.com/business/g7-finance-officials-endorse-principles-central-bank-digital-currencies-2021-10-14/)
 - Oct 14 - [esbuild – An extremely fast JavaScript bundler](https://esbuild.github.io/)
+- Oct 14 - [Practice Problems for Hardware Engineers](https://arxiv.org/abs/2110.06526)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
