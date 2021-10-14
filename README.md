@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 14 - [Apple Captures 75% of Global Handset Market Operating Profit in Q2 2021](https://www.counterpointresearch.com/global-handset-market-operating-profit-q2-2021/)
 - Oct 14 - [The Most Important Global Meeting You’ve Probably Never Heard of Is Now](https://www.nytimes.com/2021/10/14/climate/un-biodiversity-conference-climate-change.html)
-- Oct 14 - [Amazon Puts Its Own “Brands” First Above Better-Rated Products](https://themarkup.org/amazons-advantage/2021/10/14/amazon-puts-its-own-brands-first-above-better-rated-products)
-- Oct 14 - [Why you're paying Bitcoin's energy bill](https://review.chicagobooth.edu/finance/2021/article/why-you-re-paying-bitcoin-s-energy-bill)
-- Oct 14 - [Tenured Professors Can Be Fired Without Faculty Input in Georgia](https://www.nytimes.com/2021/10/13/us/georgia-university-system-tenure.html)
-- Oct 14 - [Grading for Equity](https://www.gse.harvard.edu/news/19/12/harvard-edcast-grading-equity)
+- Oct 14 - [Gitlab from YC to IPO](https://blog.ycombinator.com/gitlab-from-yc-to-ipo/)
+- Oct 14 - [Every search bar looks like a URL bar to users](https://shkspr.mobi/blog/2021/10/every-search-bar-looks-like-a-url-bar-to-users/)
+- Oct 14 - [Boeing says certain 787 parts improperly manufactured](https://www.reuters.com/business/aerospace-defense/boeing-deals-with-new-defect-787-dreamliner-wsj-2021-10-14/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
