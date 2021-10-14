@@ -35,10 +35,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 14 - [Seven Deadly Sins of Introductory Programming Language Design [pdf] [1996]](https://users.monash.edu/~damian/papers/PDF/SevenDeadlySins.pdf)
-- Oct 14 - [Swoole forked to Open Swoole, due to disagreement about hot-loading files](https://news-web.php.net/php.pecl.dev/17446)
+- Oct 14 - [Decompilation of 3D Pinball for Windows – Space Cadet](https://github.com/k4zmu2a/SpaceCadetPinball)
+- Oct 14 - [For poor countries, lockdowns cost more lives than they save](https://www.prospectmagazine.co.uk/world/for-poor-countries-lockdowns-cost-more-lives-than-they-save)
+- Oct 14 - [Seven Deadly Sins of Introductory Programming Language Design (1996) [pdf]](https://users.monash.edu/~damian/papers/PDF/SevenDeadlySins.pdf)
 - Oct 14 - [Parcel v2](https://parceljs.org/blog/v2/)
-- Oct 13 - [So you want to live-reload Rust](https://fasterthanli.me/articles/so-you-want-to-live-reload-rust)
 - Oct 13 - [TX Bans Local Nurses from Quitting to Work FEMA Crisis Contracts in State](https://nurse.org/articles/texas-bans-nurses-from-in-state-crisis-contracts/)
 <!--END_SECTION:hn-->
 
