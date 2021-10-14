@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 14 - [OpenBSD 7.0 Released](https://www.openbsd.org/70.html)
 - Oct 14 - [An unprecedented wave of online bank fraud is hitting Britain](https://www.reuters.com/world/uk/welcome-britain-bank-scam-capital-world-2021-10-14/)
 - Oct 14 - [UK MP speech about freedoms censored by YouTube](https://twitter.com/BigBrotherWatch/status/1448544035799552004)
-- Oct 14 - [Hands-On Rust: Effective Learning Through 2D Game Development and Play](https://pragprog.com/titles/hwrust/hands-on-rust/)
+- Oct 14 - [Child suicides in Japan hit record high](https://www3.nhk.or.jp/nhkworld/en/news/20211013_19/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
