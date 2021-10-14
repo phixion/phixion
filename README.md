@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 14 - [Welcome to Britain, the bank scam capital of the world](https://www.reuters.com/world/uk/welcome-britain-bank-scam-capital-world-2021-10-14/)
+- Oct 14 - [An unprecedented wave of online bank fraud is hitting Britain](https://www.reuters.com/world/uk/welcome-britain-bank-scam-capital-world-2021-10-14/)
 - Oct 14 - [UK MP speech about freedoms censored by YouTube](https://twitter.com/BigBrotherWatch/status/1448544035799552004)
-- Oct 14 - [Ask HN: What does one look for in a laptop these days?](https://news.ycombinator.com/item?id=28861949)
 - Oct 14 - [Anti-Café](https://en.wikipedia.org/wiki/Anti-caf%C3%A9)
 - Oct 14 - [Hands-On Rust: Effective Learning Through 2D Game Development and Play](https://pragprog.com/titles/hwrust/hands-on-rust/)
+- Oct 14 - [Jony Ive's design agency launches website](https://www.lovefrom.com/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
