@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 14 - [Reddit 504 Gateway Timeout](https://old.reddit.com/r/programming/)
 - Oct 14 - [UpCodes is hiring our first recruiter to help automate compliance for architects](https://up.codes/careers#recruiter)
 - Oct 14 - [The Serde Rust Framework](https://serde.rs/)
 - Oct 14 - [Cloud-to-butt plugin used in Amazon Job Posting?](https://web.archive.org/web/20211014200658/https://www.amazon.jobs/en/jobs/1773420/software-development-engineer)
 - Oct 14 - [First Ever Image of a Multi-Planet System Around a Sun-Like Star (2020)](https://www.eso.org/public/news/eso2011/)
+- Oct 14 - [Strict Id Laws Don’t Stop Voters: Evidence from a U.S. Nationwide Panel](https://academic.oup.com/qje/article-abstract/136/4/2615/6281042)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
