@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 14 - [Amazon Puts Its Own “Brands” First Above Better-Rated Products](https://themarkup.org/amazons-advantage/2021/10/14/amazon-puts-its-own-brands-first-above-better-rated-products)
+- Oct 14 - [Why you're paying Bitcoin's energy bill](https://review.chicagobooth.edu/finance/2021/article/why-you-re-paying-bitcoin-s-energy-bill)
 - Oct 14 - [Tenured Professors Can Be Fired Without Faculty Input in Georgia](https://www.nytimes.com/2021/10/13/us/georgia-university-system-tenure.html)
+- Oct 14 - [Grading for Equity](https://www.gse.harvard.edu/news/19/12/harvard-edcast-grading-equity)
 - Oct 14 - [What I wish I knew when learning F#](https://danielbachler.de/2020/12/23/what-i-wish-i-knew-when-learning-fsharp.html)
-- Oct 14 - [Links for October](https://astralcodexten.substack.com/p/links-for-october)
-- Oct 14 - [QuestDB Is Hiring Customer Success Engineers](https://questdb.io/careers/customer-success-engineer/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
