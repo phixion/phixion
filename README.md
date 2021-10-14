@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 14 - [Coinbase Digital Asset Policy Proposal](https://github.com/coinbase/digital-asset-policy-proposal)
 - Oct 14 - [Missouri Governor Vows to Prosecute St. Louis Post-Dispatch for Reporting](https://krebsonsecurity.com/2021/10/missouri-governor-vows-to-prosecute-st-louis-post-dispatch-for-reporting-security-vulnerability/)
-- Oct 14 - [On Receiving My Certificate of Loss of (US) Nationality](https://rachelsruminations.com/certificate-loss-nationality/)
+- Oct 14 - [On Receiving My Certificate of Loss of (US) Nationality (2016)](https://rachelsruminations.com/certificate-loss-nationality/)
 - Oct 14 - [Release (YC W20) Is Hiring – Product Marketing Manager](https://releasehub.com/company#hire)
-- Oct 14 - [Governor vows criminal prosecution of reporter who found flaw in state website](https://missouriindependent.com/2021/10/14/missouri-governor-vows-criminal-prosecution-of-reporter-who-found-flaw-in-state-website/)
-- Oct 14 - [Alden Global Capital, the secretive hedge fund gutting newsrooms](https://www.theatlantic.com/magazine/archive/2021/11/alden-global-capital-killing-americas-newspapers/620171/)
+- Oct 14 - [There Is No Shortage of Reasons for the Broken Supply Chain](https://www.bloomberg.com/opinion/articles/2021-10-11/supply-chain-disruptions-almost-too-many-reasons-to-count)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
