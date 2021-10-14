@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 14 - [Release (YC W20) Is Hiring – Product Marketing Manager](https://releasehub.com/company#hire)
-- Oct 14 - [Ask HN: What's the Point of Life?](https://news.ycombinator.com/item?id=28866558)
-- Oct 14 - [Instagram took down post with figure from paper showing male advantage in sports](https://twitter.com/SwipeWright/status/1448064426670583814)
+- Oct 14 - [Governor vows criminal prosecution of reporter who found flaw in state website](https://missouriindependent.com/2021/10/14/missouri-governor-vows-criminal-prosecution-of-reporter-who-found-flaw-in-state-website/)
 - Oct 14 - [Alden Global Capital, the secretive hedge fund gutting newsrooms](https://www.theatlantic.com/magazine/archive/2021/11/alden-global-capital-killing-americas-newspapers/620171/)
 - Oct 14 - [Global Climate Report – September 2021](https://www.ncdc.noaa.gov/sotc/global/202109)
+- Oct 14 - [Apple Joins Blender Development Fund](https://www.blender.org/press/apple-joins-blender-development-fund/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
