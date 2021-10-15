@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Oct 15 - [Rutter (YC S19) is hiring engineers to build the data layer for ecommerce](https://rutterapi.notion.site/Software-Engineer-539dcb012094497794fd087e93d7929e)
 - Oct 15 - [More Than Half a Million Health Care Workers Quit Their Jobs in August](https://www.newsweek.com/more-half-million-health-care-workers-quit-jobs-august-1638407)
-- Oct 15 - [Netflix fires organizer of trans employee walkout](https://www.theverge.com/2021/10/15/22728337/netflix-fires-organizer-trans-employee-walkout-dave-chappelle)
 - Oct 15 - [Productivity and Velocity](https://danluu.com/productivity-velocity/)
 - Oct 15 - [How not to blow up the production database](https://blog.battlefy.com/how-not-to-blow-up-the-production-database-424c162dccc6?gi=8ec446ad5e47)
+- Oct 15 - [Implementing form filling and accessibility in the Firefox PDF viewer](https://hacks.mozilla.org/2021/10/implementing-form-filling-and-accessibility-in-the-firefox-pdf-viewer/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
