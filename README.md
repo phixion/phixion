@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 15 - [Poll Everywhere (YC S08) Is Hiring a Front End Engineer](https://jobs.lever.co/polleverywhere/c2fe868d-a814-475d-bc20-b3a088f2f66c)
 - Oct 15 - [Senators aim to block tech giants from prioritizing own products over rivals’](https://www.washingtonpost.com/technology/2021/10/14/klobuchar-grassley-antitrust-bill/)
 - Oct 15 - [Munchy, a search engine to discover recipes](https://joinmunchy.com/)
 - Oct 15 - [Cloudflare Uses HashiCorp Nomad](https://blog.cloudflare.com/how-we-use-hashicorp-nomad/)
 - Oct 15 - [Speed Matters](https://scattered-thoughts.net/writing/speed-matters/)
-- Oct 15 - [Army Delays $22B Augmented Reality Goggle Program](https://federalnewsnetwork.com/army/2021/10/army-delays-22-billion-augmented-reality-goggle-program/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
