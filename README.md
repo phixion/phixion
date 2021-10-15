@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 15 - [The Single-Page-App Morality Play](https://www.baldurbjarnason.com/2021/single-page-app-morality-play/)
+- Oct 15 - [How do browsers Make Money – Vivaldi](https://vivaldi.com/blog/vivaldi-business-model/)
 - Oct 15 - [A study of data collection by Android devices](https://lwn.net/Articles/872639/)
 - Oct 15 - [Nomad vs. Kubernetes](https://www.nomadproject.io/docs/nomad-vs-kubernetes)
 - Oct 15 - [V8 Release v9.6](https://v8.dev/blog/v8-release-96)
-- Oct 15 - [New Zealand council ends contract with wizard after 23 years of service](https://www.theguardian.com/world/2021/oct/15/new-zealand-council-ends-contract-with-wizard-after-two-decades-of-service)
-- Oct 15 - [OpenBSD Webzine Issue #2](https://webzine.puffy.cafe/issue-2.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
