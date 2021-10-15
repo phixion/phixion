@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 15 - [Multiple vulnerabilities in WP Fastest Cache plugin](https://jetpack.com/2021/10/14/multiple-vulnerabilities-in-wp-fastest-cache-plugin/)
-- Oct 15 - [Tesla officially launches its insurance using ‘real-time driving behavior’](https://electrek.co/2021/10/14/tesla-officially-launches-insurance-using-real-time-driving-behavior-texas/)
 - Oct 15 - [Twitter is being sued for letting Saudi spies inside the company](https://www.protocol.com/bulletins/saudi-dissident-twitter-lawsuit-spies)
 - Oct 15 - [Crystal 1.2.0 Is Released](https://crystal-lang.org/2021/10/14/1.2.0-released.html)
 - Oct 14 - [Chemicals used in packaging may play role in 100k US deaths a year – study](https://www.theguardian.com/us-news/2021/oct/14/phthalates-deaths-older-americans-study-chemicals)
+- Oct 14 - [Former Boeing 737 Max Chief Technical Pilot Indicted for Fraud](https://www.justice.gov/usao-ndtx/pr/former-boeing-737-max-chief-technical-pilot-indicted-fraud)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
