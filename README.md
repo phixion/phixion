@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 15 - [Senators aim to block tech giants from prioritizing own products over rivals’](https://www.washingtonpost.com/technology/2021/10/14/klobuchar-grassley-antitrust-bill/)
+- Oct 15 - [Munchy, a search engine to discover recipes](https://joinmunchy.com/)
+- Oct 15 - [Cloudflare Uses HashiCorp Nomad](https://blog.cloudflare.com/how-we-use-hashicorp-nomad/)
+- Oct 15 - [Speed Matters](https://scattered-thoughts.net/writing/speed-matters/)
 - Oct 15 - [Army Delays $22B Augmented Reality Goggle Program](https://federalnewsnetwork.com/army/2021/10/army-delays-22-billion-augmented-reality-goggle-program/)
-- Oct 15 - [M3O – An open source AWS alternative](https://github.com/m3o/m3o)
-- Oct 15 - [7-Eleven breached customer privacy by collecting facial imagery without consent](https://www.zdnet.com/article/7-eleven-collected-customer-facial-imagery-during-in-store-surveys-without-consent/)
-- Oct 15 - [PinePhone Pro Announced](https://www.pine64.org/pinephonepro/)
-- Oct 15 - [Antiviral compound blocks SARS-CoV-2 from entering cells](https://medicine.wustl.edu/news/antiviral-compound-blocks-sars-cov-2-from-entering-cells/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
