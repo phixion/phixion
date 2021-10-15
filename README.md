@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 15 - [‘I hope you die’: how the Covid pandemic unleashed attacks on scientists](https://www.nature.com/articles/d41586-021-02741-x)
 - Oct 15 - [Antiviral compound blocks SARS-CoV-2 from entering cells](https://medicine.wustl.edu/news/antiviral-compound-blocks-sars-cov-2-from-entering-cells/)
 - Oct 15 - [Diffusion Normalizing Flow](https://arxiv.org/abs/2110.07579)
+- Oct 15 - [Trust-Busting as the Unsexy Answer to Google and Facebook](https://www.lareviewofbooks.org/article/trust-busting-as-the-unsexy-answer-to-google-and-facebook/)
 - Oct 15 - [Launch HN: Inflow (YC S21) – Self-help app for people with ADHD](https://news.ycombinator.com/item?id=28877003)
-- Oct 15 - [StudyStream (YC S21) Is Hiring a Mobile App Developer iOS (Remote)](https://www.ycombinator.com/companies/studystream/jobs/On2eXOU-mobile-app-developer-ios)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
