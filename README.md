@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 15 - [Why Can't AI Detect Sepsis?](https://explainthispaper.com/external-validation-of-a-widely-implemented-proprietary-sepsis-prediction-model-in-hospitalized-patients/)
+- Oct 15 - [Antiviral compound blocks SARS-CoV-2 from entering cells](https://medicine.wustl.edu/news/antiviral-compound-blocks-sars-cov-2-from-entering-cells/)
 - Oct 15 - [Launch HN: Inflow (YC S21) – Self-help app for people with ADHD](https://news.ycombinator.com/item?id=28877003)
 - Oct 15 - [StudyStream (YC S21) Is Hiring a Mobile App Developer iOS (Remote)](https://www.ycombinator.com/companies/studystream/jobs/On2eXOU-mobile-app-developer-ios)
 - Oct 15 - [Privacy fears as Moscow metro rolls out facial recognition pay system](https://www.theguardian.com/world/2021/oct/15/privacy-fears-moscow-metro-rolls-out-facial-recognition-pay-system)
-- Oct 15 - [Students’ solar-powered camper van turns heads on 1,800-mile road trip](https://www.theguardian.com/environment/2021/oct/15/students-solar-powered-camper-van-turns-heads-on-1800-mile-road-trip)
-- Oct 15 - [The Single-Page-App Morality Play](https://www.baldurbjarnason.com/2021/single-page-app-morality-play/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
