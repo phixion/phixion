@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 15 - [StudyStream (YC S21) Is Hiring a Mobile App Developer iOS (Remote)](https://www.ycombinator.com/companies/studystream/jobs/On2eXOU-mobile-app-developer-ios)
+- Oct 15 - [Privacy fears as Moscow metro rolls out facial recognition pay system](https://www.theguardian.com/world/2021/oct/15/privacy-fears-moscow-metro-rolls-out-facial-recognition-pay-system)
 - Oct 15 - [The Single-Page-App Morality Play](https://www.baldurbjarnason.com/2021/single-page-app-morality-play/)
 - Oct 15 - [How do browsers Make Money – Vivaldi](https://vivaldi.com/blog/vivaldi-business-model/)
 - Oct 15 - [A study of data collection by Android devices](https://lwn.net/Articles/872639/)
-- Oct 15 - [Nomad vs. Kubernetes](https://www.nomadproject.io/docs/nomad-vs-kubernetes)
-- Oct 15 - [V8 Release v9.6](https://v8.dev/blog/v8-release-96)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
