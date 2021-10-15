@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Oct 15 - [PinePhone Pro Announced](https://www.pine64.org/pinephonepro/)
 - Oct 15 - [Antiviral compound blocks SARS-CoV-2 from entering cells](https://medicine.wustl.edu/news/antiviral-compound-blocks-sars-cov-2-from-entering-cells/)
+- Oct 15 - [Economists to Cattle Ranchers: Stop Being So Emotional About the Monopolies](https://mattstoller.substack.com/p/economists-to-cattle-ranchers-stop)
 - Oct 15 - [Diffusion Normalizing Flow](https://arxiv.org/abs/2110.07579)
-- Oct 15 - [Trust-Busting as the Unsexy Answer to Google and Facebook](https://www.lareviewofbooks.org/article/trust-busting-as-the-unsexy-answer-to-google-and-facebook/)
-- Oct 15 - [Launch HN: Inflow (YC S21) – Self-help app for people with ADHD](https://news.ycombinator.com/item?id=28877003)
+- Oct 15 - [Bugs in Our Pockets?](https://www.lightbluetouchpaper.org/2021/10/15/bugs-in-our-pockets/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
