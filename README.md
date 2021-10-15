@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 15 - [Rutter (YC S19) is hiring engineers to build the data layer for ecommerce](https://rutterapi.notion.site/Software-Engineer-539dcb012094497794fd087e93d7929e)
 - Oct 15 - [Productivity and Velocity](https://danluu.com/productivity-velocity/)
 - Oct 15 - [How not to blow up the production database](https://blog.battlefy.com/how-not-to-blow-up-the-production-database-424c162dccc6?gi=8ec446ad5e47)
 - Oct 15 - [Implementing form filling and accessibility in the Firefox PDF viewer](https://hacks.mozilla.org/2021/10/implementing-form-filling-and-accessibility-in-the-firefox-pdf-viewer/)
 - Oct 15 - [The Lisp OS “Mezzano” Running Native on Librebooted ThinkPads](https://www.fitzsim.org/blog/?p=445)
-- Oct 15 - [A viable solution for Python concurrency](https://lwn.net/SubscriberLink/872869/0e62bba2db51ec7a/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
