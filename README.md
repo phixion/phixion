@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 15 - [Launch HN: Inflow (YC S21) – Self-help app for ADHD people](https://news.ycombinator.com/item?id=28877003)
+- Oct 15 - [Lockdowns Coincided with Record-Breaking Drug Overdose Fatalities](https://fee.org/articles/lockdowns-coincided-with-record-breaking-drug-overdose-fatalities-new-cdc-data-show/)
 - Oct 15 - [StudyStream (YC S21) Is Hiring a Mobile App Developer iOS (Remote)](https://www.ycombinator.com/companies/studystream/jobs/On2eXOU-mobile-app-developer-ios)
 - Oct 15 - [Privacy fears as Moscow metro rolls out facial recognition pay system](https://www.theguardian.com/world/2021/oct/15/privacy-fears-moscow-metro-rolls-out-facial-recognition-pay-system)
 - Oct 15 - [Students’ solar-powered camper van turns heads on 1,800-mile road trip](https://www.theguardian.com/environment/2021/oct/15/students-solar-powered-camper-van-turns-heads-on-1800-mile-road-trip)
-- Oct 15 - [The Single-Page-App Morality Play](https://www.baldurbjarnason.com/2021/single-page-app-morality-play/)
-- Oct 15 - [How Animals Map 3D Spaces Surprises Brain Researchers](https://www.quantamagazine.org/how-animals-map-3d-spaces-surprises-brain-researchers-20211014/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
