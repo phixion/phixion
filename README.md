@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 15 - [Meat and mental health: Meat eaters suffer less depression, anxiety](https://www.tandfonline.com/doi/full/10.1080/10408398.2021.1974336)
+- Oct 14 - [Canada imposes Covid-19 vaccine mandate on federal workers, transportation](https://www.reuters.com/world/americas/unvaccinated-federal-workers-canada-will-be-put-unpaid-leave-globe-mail-2021-10-06/)
 - Oct 14 - [Y Combinator company “skip the interview” reaches top ten of r/recruitinghell](https://old.reddit.com/r/SubredditDrama/comments/q80h7h/tech_bro_invents_a_skip_the_interview_tool_where/)
 - Oct 14 - [By 2500 earth could be alien to humans](https://www.mcgill.ca/channels/channels/news/2500-earth-could-be-alien-humans-334080)
-- Oct 14 - [Chemicals used in packaging may play role in 100k US deaths a year – study](https://www.theguardian.com/us-news/2021/oct/14/phthalates-deaths-older-americans-study-chemicals)
-- Oct 14 - [Former Boeing 737 Max Chief Technical Pilot Indicted for Fraud](https://www.justice.gov/usao-ndtx/pr/former-boeing-737-max-chief-technical-pilot-indicted-fraud)
-- Oct 14 - [Tech compensation in 2021](https://jacobian.org/2021/oct/13/tech-salaries-2021/)
+- Oct 14 - [Covid super-immunity: one of the pandemic’s great puzzles](https://www.nature.com/articles/d41586-021-02795-x)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
