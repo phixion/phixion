@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 15 - [YJIT: Building a New JIT Compiler for CRuby](https://shopify.engineering/yjit-just-in-time-compiler-cruby)
 - Oct 15 - [Create and share beautiful images of your source code](https://carbon.now.sh/)
 - Oct 15 - [Remote OK Open Startup](https://remoteok.io/open)
 - Oct 15 - [The void in Calgary: How office towers emptied in a once bustling downtown](https://www.theglobeandmail.com/canada/alberta/article-the-void-in-calgary-how-office-towers-emptied-in-a-once-bustling/)
 - Oct 15 - [Postgres text search: balancing query time and relevancy](https://about.sourcegraph.com/blog/postgres-text-search-balancing-query-time-and-relevancy/)
-- Oct 15 - [Multiple vulnerabilities in WP Fastest Cache plugin](https://jetpack.com/2021/10/14/multiple-vulnerabilities-in-wp-fastest-cache-plugin/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
