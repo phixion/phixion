@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 15 - [How not to blow up the production database](https://blog.battlefy.com/how-not-to-blow-up-the-production-database-424c162dccc6?gi=8ec446ad5e47)
 - Oct 15 - [Steam bans all blockchain and NFT games on its platform](https://www.theverge.com/2021/10/15/22728425/valve-steam-blockchain-nft-crypto-ban-games-age-of-rust)
+- Oct 15 - [Implementing form filling and accessibility in the Firefox PDF viewer](https://hacks.mozilla.org/2021/10/implementing-form-filling-and-accessibility-in-the-firefox-pdf-viewer/)
 - Oct 15 - [The Lisp OS “Mezzano” Running Native on Librebooted ThinkPads](https://www.fitzsim.org/blog/?p=445)
 - Oct 15 - [A viable solution for Python concurrency](https://lwn.net/SubscriberLink/872869/0e62bba2db51ec7a/)
-- Oct 15 - [Missouri website that leaked SSN](https://web.archive.org/web/20210814172757/https://apps.dese.mo.gov/HQT/CredentialListerChecker.aspx)
-- Oct 15 - [Poll Everywhere (YC S08) Is Hiring a Front End Engineer](https://jobs.lever.co/polleverywhere/c2fe868d-a814-475d-bc20-b3a088f2f66c)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
