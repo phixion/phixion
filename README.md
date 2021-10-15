@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 15 - [M3O – An open source AWS alternative](https://github.com/m3o/m3o)
+- Oct 15 - [How my ivermectin research led to Twitter death threats](https://www.theguardian.com/world/2021/oct/13/how-my-ivermectin-research-led-to-twitter-death-threats)
 - Oct 15 - [PinePhone Pro Announced](https://www.pine64.org/pinephonepro/)
 - Oct 15 - [Antiviral compound blocks SARS-CoV-2 from entering cells](https://medicine.wustl.edu/news/antiviral-compound-blocks-sars-cov-2-from-entering-cells/)
-- Oct 15 - [Economists to Cattle Ranchers: Stop Being So Emotional About the Monopolies](https://mattstoller.substack.com/p/economists-to-cattle-ranchers-stop)
 - Oct 15 - [Diffusion Normalizing Flow](https://arxiv.org/abs/2110.07579)
-- Oct 15 - [Bugs in Our Pockets?](https://www.lightbluetouchpaper.org/2021/10/15/bugs-in-our-pockets/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
