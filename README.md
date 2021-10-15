@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 15 - [OpenBSD Webzine Issue #2](https://webzine.puffy.cafe/issue-2.html)
 - Oct 15 - [Carp – A statically typed Lisp, without a GC, for real-time applications](https://github.com/carp-lang/Carp)
 - Oct 15 - [Habitable Software](http://akkartik.name/post/habitability)
 - Oct 15 - [YJIT: Building a New JIT Compiler for CRuby](https://shopify.engineering/yjit-just-in-time-compiler-cruby)
 - Oct 15 - [Create and share beautiful images of your source code](https://carbon.now.sh/)
-- Oct 15 - [Remote OK Open Startup](https://remoteok.io/open)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
