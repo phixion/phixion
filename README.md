@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 16 - [Roguelike Celebration 2021](https://roguelike.club/event2021.html)
+- Oct 16 - [Great Movies Each Written and Directed by the Same Person](https://moviewise.substack.com/p/fifteen-great-movies-each-written)
 - Oct 16 - [Genode – Sculpt Operating System 21.10](https://genode.org/documentation/articles/sculpt-21-10)
 - Oct 16 - [Implementing Hash Tables in C](https://www.andreinc.net/2021/10/02/implementing-hash-tables-in-c-part-1)
 - Oct 16 - [Dendron (YC W21) Is Hiring React/TS Expert to Build Better Tools for Thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI.html)
-- Oct 16 - [UK to put nuclear power at heart of net zero emissions strategy](https://www.ft.com/content/e6426194-21e6-49c4-9520-97c337b350fd)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
