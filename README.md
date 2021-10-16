@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 16 - [YC Founders at YC's Startup Career Expo on November 18th](https://www.workatastartup.com/events/startup-tech-expo-winter-2021)
+- Oct 16 - [Mao Quotes on the Professional Managerial Class](https://twitter.com/Logo_Daedalus/status/1449204409850683394)
+- Oct 16 - [Vienna museums open adult-only OnlyFans account to display nudes](https://www.theguardian.com/artanddesign/2021/oct/16/vienna-museums-open-adult-only-onlyfans-account-to-display-nudes)
 - Oct 16 - [Ask HN: Is Anyone Here a Professional Baker?](https://news.ycombinator.com/item?id=28886933)
 - Oct 16 - [Cracking Random Number Generators Using Machine Learning](https://research.nccgroup.com/2021/10/15/cracking-random-number-generators-using-machine-learning-part-1-xorshift128/)
-- Oct 16 - [Kanidm: A simple, secure and fast identity management platform](https://github.com/kanidm/kanidm)
-- Oct 16 - [How to Safely Think in Systems](https://lethain.com/how-to-safely-think-in-systems/)
-- Oct 16 - [Show HN: Add a command-line interface to any C++ program](https://github.com/empirical-soft/command-interface)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
