@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 16 - [Apple fires leader of AppleToo movement](https://appleinsider.com/articles/21/10/15/apple-fires-leader-of-appletoo-movement)
+- Oct 16 - [1500 Archers on a 28.8: Network Programming in Age of Empires and Beyond](https://www.gamedeveloper.com/programming/1500-archers-on-a-28-8-network-programming-in-age-of-empires-and-beyond)
 - Oct 16 - [Minias – A mini x86-64 assembler for fun and learning](https://github.com/andrewchambers/minias)
 - Oct 16 - [Circle Medical (YC S15) is hiring fullstack engineers to reimagine primary care](https://www.ycombinator.com/companies/circle-medical/jobs/ZpIlsd7-fullstack-engineer-react-js-ruby-rails)
-- Oct 16 - [Is my Facebook activity fucking my finances?](https://foundation.mozilla.org/en/blog/is-my-facebook-activity-fcking-my-finances-mozilla-explains-data-brokers/)
 - Oct 15 - [Functional Algorithms, Verified](https://functional-algorithms-verified.org)
-- Oct 15 - [Explore the most detailed map of the universe – EPFL Longread](https://longread.epfl.ch/en/dossier/virup/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
