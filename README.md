@@ -37,7 +37,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Oct 16 - [Writesonic (YC S21) Is Looking for Founding Fullstack Engineer](https://www.ycombinator.com/companies/writesonic/jobs/x3TOSI1-founding-fullstack-engineer)
 - Oct 16 - [Deeper Than Pixels: A Reading List on Video Games](https://longreads.com/2021/10/07/deeper-than-pixels-a-reading-list-on-video-games/)
-- Oct 16 - [LAPD declares ‘ghost guns’ an ‘epidemic,’ citing 400% increase in seizures](https://www.latimes.com/california/story/2021-10-15/lapd-says-ghost-guns-an-epidemic-with-seizures-up-400-since-2017)
+- Oct 16 - [The Reemergence of Style in Software](https://future.a16z.com/software-style-over-branding/)
 - Oct 16 - [Wearable Microphone Jamming](http://sandlab.cs.uchicago.edu/jammer/)
 - Oct 16 - [Redis Cluster Re-Implemented in Rust: Scaling Redis Easily in Kubernetes](https://github.com/doyoubi/undermoon)
 <!--END_SECTION:hn-->
