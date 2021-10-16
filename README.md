@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 16 - [Drug made of car exhaust filters alarms Congo's capital](https://www.spiegel.de/international/world/new-drug-in-the-democratic-republic-of-congo-the-zombies-of-kinshasa-a-b6c69627-922b-42c7-bb6f-25b939f5d2ac)
+- Oct 16 - [Canon sued for disabling scanner when printers run out of ink](https://www.bleepingcomputer.com/news/legal/canon-sued-for-disabling-scanner-when-printers-run-out-of-ink/)
 - Oct 16 - [California Scrambles to Find Electricity to Offset Plant Closures](https://www.wsj.com/articles/california-scrambles-to-find-electricity-to-offset-plant-closures-11634376600)
 - Oct 16 - [Study Warns Android Phones from Samsung, Xiaomi and Others Are Spying on Users](https://hothardware.com/news/samsung-xiaomi-other-android-phones-spying-on-users)
 - Oct 16 - [YC Founders at YC's Startup Career Expo on November 18th](https://www.workatastartup.com/events/startup-tech-expo-winter-2021)
-- Oct 16 - [Ask HN: Best way to organize 100-200 emails/day in outlook](https://news.ycombinator.com/item?id=28887234)
-- Oct 16 - [Gotify/server: A simple server for sending and receiving messages in real-time](https://github.com/gotify/server)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
