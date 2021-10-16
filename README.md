@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 16 - [Theory of Computation ocw course (Sipser)](https://ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2020/)
+- Oct 16 - [Deepdive on USDT fraud: The GrantWilliams Podcast: BennettTomlin and GeorgeNoble](https://www.grant-williams.com/podcast/the-grant-williams-podcast-bennett-tomlin-george-noble/)
+- Oct 16 - [The Complete Technical Guide for Adhesive Tape](https://www.echotape.com/blog/complete-technical-guide-adhesive-tape/)
 - Oct 16 - [Apple fires leader of AppleToo movement](https://appleinsider.com/articles/21/10/15/apple-fires-leader-of-appletoo-movement)
 - Oct 16 - [Louisville sawmill challenges perception about wages](https://cdispatch.com/opinions/2021-10-13/slimantics-louisville-sawmill-challenges-perception-about-wages/)
-- Oct 16 - [1500 Archers on a 28.8: Network Programming in Age of Empires and Beyond](https://www.gamedeveloper.com/programming/1500-archers-on-a-28-8-network-programming-in-age-of-empires-and-beyond)
-- Oct 16 - [Minias – A mini x86-64 assembler for fun and learning](https://github.com/andrewchambers/minias)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
