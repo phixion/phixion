@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 16 - [Doomsday Prep for the Super-Rich (2017)](https://www.newyorker.com/magazine/2017/01/30/doomsday-prep-for-the-super-rich)
 - Oct 16 - [YC Founders at YC's Startup Career Expo on November 18th](https://www.workatastartup.com/events/startup-tech-expo-winter-2021)
 - Oct 16 - [Ask HN: Best way to organize 100-200 emails/day in outlook](https://news.ycombinator.com/item?id=28887234)
+- Oct 16 - [Gotify/server: A simple server for sending and receiving messages in real-time](https://github.com/gotify/server)
 - Oct 16 - [Vienna museums open adult-only OnlyFans account to display nudes](https://www.theguardian.com/artanddesign/2021/oct/16/vienna-museums-open-adult-only-onlyfans-account-to-display-nudes)
-- Oct 16 - [Ask HN: Is Anyone Here a Professional Baker?](https://news.ycombinator.com/item?id=28886933)
+- Oct 16 - [Status Page for monitoring your websites and applications with beautiful graphs](https://github.com/statping/statping)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
