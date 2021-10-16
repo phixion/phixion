@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 15 - [Explore the most detailed map of the universe – EPFL Longread](https://longread.epfl.ch/en/dossier/virup/)
+- Oct 15 - [Cortical Column Networks](https://thesmartrobot.github.io/2021/08/26/thousand-brains.html)
 - Oct 15 - [“as_strided” and “sum” are all you need](https://jott.live/markdown/as_strided)
 - Oct 15 - [Rutter (YC S19) is hiring engineers to build the data layer for ecommerce](https://rutterapi.notion.site/Software-Engineer-539dcb012094497794fd087e93d7929e)
 - Oct 15 - [Productivity and Velocity](https://danluu.com/productivity-velocity/)
-- Oct 15 - [How not to blow up the production database](https://blog.battlefy.com/how-not-to-blow-up-the-production-database-424c162dccc6?gi=8ec446ad5e47)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
