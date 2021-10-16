@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 16 - [Amazon Corretto JDK](https://docs.aws.amazon.com/corretto/)
+- Oct 16 - [Pirate Party member: GDPR-compliant Whois will lead to 'doxxing and death lists'](https://www.theregister.com/2021/10/15/eu_nis_directive_article_23_death_lists/)
 - Oct 16 - [USC to apologize for WWII actions that derailed Japanese American students](https://www.latimes.com/california/story/2021-10-14/usc-apologizes-wwii-action-against-japanese-americans-offer-honorary-degrees)
 - Oct 16 - [Ghost CEO lectures locked out customer about empathy](https://twitter.com/amyhoy/status/1449093879546843137)
 - Oct 16 - [Path (YC S19) Is Hiring Founding Engineers to Automate Gen-Z Finance](https://www.notion.so/pathfinance/Fullstack-Engineer-Path-YC-S19-ff0fd31fa5d4410dafce77f83403ce0d)
-- Oct 16 - [VirtualMEC – a free 3D CAD for MECCANO](http://www.virtualmec.com)
-- Oct 16 - [Why nobody hires junior developers and what happens next](https://www.notonlycode.org/nobody-hires-juniors/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
