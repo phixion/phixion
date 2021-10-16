@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 16 - [Francis Fukuyama’s Defense of Liberalism](https://www.persuasion.community/p/fukuyama)
 - Oct 16 - [Dendron (YC W21) Is Hiring React/TS Expert to Build Better Tools for Thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI.html)
 - Oct 16 - [UK to put nuclear power at heart of net zero emissions strategy](https://www.ft.com/content/e6426194-21e6-49c4-9520-97c337b350fd)
-- Oct 16 - [Git Command Explorer](https://gitexplorer.com/)
+- Oct 16 - [Engineer demos how SpaceX is building fracked well gas plant](https://esghound.substack.com/p/spacex-16-elon-musk-is-still-building)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
