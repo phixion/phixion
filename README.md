@@ -35,10 +35,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 16 - [Show HN: Stormah, cloud notes stored in your own Git repo](https://stormah.com/)
 - Oct 16 - [Drug made of car exhaust filters alarms Congo's capital](https://www.spiegel.de/international/world/new-drug-in-the-democratic-republic-of-congo-the-zombies-of-kinshasa-a-b6c69627-922b-42c7-bb6f-25b939f5d2ac)
 - Oct 16 - [Researchers show Facebook’s ad tools can target a single user](https://techcrunch.com/2021/10/15/researchers-show-facebooks-ad-tools-can-target-a-single-user/)
 - Oct 16 - [Canon sued for disabling scanner when printers run out of ink](https://www.bleepingcomputer.com/news/legal/canon-sued-for-disabling-scanner-when-printers-run-out-of-ink/)
-- Oct 16 - [California Scrambles to Find Electricity to Offset Plant Closures](https://www.wsj.com/articles/california-scrambles-to-find-electricity-to-offset-plant-closures-11634376600)
 - Oct 16 - [Study Warns Android Phones from Samsung, Xiaomi and Others Are Spying on Users](https://hothardware.com/news/samsung-xiaomi-other-android-phones-spying-on-users)
 <!--END_SECTION:hn-->
 
