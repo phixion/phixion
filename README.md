@@ -35,8 +35,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 16 - [Covid is the #1 killer of LEOs in 2020 and 2021](https://www.odmp.org/search/year?year=2021)
 - Oct 16 - [Implementing Hash Tables in C](https://www.andreinc.net/2021/10/02/implementing-hash-tables-in-c-part-1)
-- Oct 16 - [Francis Fukuyama’s Defense of Liberalism](https://www.persuasion.community/p/fukuyama)
 - Oct 16 - [Dendron (YC W21) Is Hiring React/TS Expert to Build Better Tools for Thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI.html)
 - Oct 16 - [UK to put nuclear power at heart of net zero emissions strategy](https://www.ft.com/content/e6426194-21e6-49c4-9520-97c337b350fd)
 - Oct 16 - [Engineer demos how SpaceX is building fracked well gas plant](https://esghound.substack.com/p/spacex-16-elon-musk-is-still-building)
