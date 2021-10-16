@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 16 - [Sotheby’s Metaverse curated NFT marketplace](https://metaverse.sothebys.com/)
 - Oct 16 - [Git Command Explorer](https://gitexplorer.com/)
 - Oct 16 - [Teen Girls Are Developing Tics. Doctors Say TikTok Could Be a Factor](https://www.wsj.com/articles/teen-girls-are-developing-tics-doctors-say-tiktok-could-be-a-factor-11634389201)
 - Oct 16 - [Show HN: Stormah, cloud notes stored in your own Git repo](https://stormah.com/)
 - Oct 16 - [Researchers show Facebook’s ad tools can target a single user](https://techcrunch.com/2021/10/15/researchers-show-facebooks-ad-tools-can-target-a-single-user/)
+- Oct 16 - [Canon sued for disabling scanner when printers run out of ink](https://www.bleepingcomputer.com/news/legal/canon-sued-for-disabling-scanner-when-printers-run-out-of-ink/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
