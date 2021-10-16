@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 16 - [Apple fires leader of AppleToo movement](https://appleinsider.com/articles/21/10/15/apple-fires-leader-of-appletoo-movement)
+- Oct 16 - [Louisville sawmill challenges perception about wages](https://cdispatch.com/opinions/2021-10-13/slimantics-louisville-sawmill-challenges-perception-about-wages/)
 - Oct 16 - [1500 Archers on a 28.8: Network Programming in Age of Empires and Beyond](https://www.gamedeveloper.com/programming/1500-archers-on-a-28-8-network-programming-in-age-of-empires-and-beyond)
 - Oct 16 - [Minias – A mini x86-64 assembler for fun and learning](https://github.com/andrewchambers/minias)
 - Oct 16 - [Circle Medical (YC S15) is hiring fullstack engineers to reimagine primary care](https://www.ycombinator.com/companies/circle-medical/jobs/ZpIlsd7-fullstack-engineer-react-js-ruby-rails)
-- Oct 16 - [NixOS and the Art of OS Configuration](https://www.rousette.org.uk/archives/nixos-and-the-art-of-os-configuration/)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
