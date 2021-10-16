@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 16 - [California Scrambles to Find Electricity to Offset Plant Closures](https://www.wsj.com/articles/california-scrambles-to-find-electricity-to-offset-plant-closures-11634376600)
+- Oct 16 - [Study Warns Android Phones from Samsung, Xiaomi and Others Are Spying on Users](https://hothardware.com/news/samsung-xiaomi-other-android-phones-spying-on-users)
 - Oct 16 - [YC Founders at YC's Startup Career Expo on November 18th](https://www.workatastartup.com/events/startup-tech-expo-winter-2021)
 - Oct 16 - [Ask HN: Best way to organize 100-200 emails/day in outlook](https://news.ycombinator.com/item?id=28887234)
 - Oct 16 - [Gotify/server: A simple server for sending and receiving messages in real-time](https://github.com/gotify/server)
-- Oct 16 - [Vienna museums open adult-only OnlyFans account to display nudes](https://www.theguardian.com/artanddesign/2021/oct/16/vienna-museums-open-adult-only-onlyfans-account-to-display-nudes)
-- Oct 16 - [Status Page for monitoring your websites and applications with beautiful graphs](https://github.com/statping/statping)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
