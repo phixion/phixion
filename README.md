@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 16 - [Path (YC S19) Is Hiring Founding Engineers to Automate Gen-Z Finance](https://www.notion.so/pathfinance/Fullstack-Engineer-Path-YC-S19-ff0fd31fa5d4410dafce77f83403ce0d)
 - Oct 16 - [VirtualMEC – a free 3D CAD for MECCANO](http://www.virtualmec.com)
 - Oct 16 - [Why nobody hires junior developers and what happens next](https://www.notonlycode.org/nobody-hires-juniors/)
-- Oct 16 - [Manipulation versus Communication](http://charltonteaching.blogspot.com/2021/09/what-is-meaning-of-establishment.html)
 - Oct 16 - [Dislike button would improve Spotify's recommendations](https://news.cornell.edu/stories/2021/09/dislike-button-would-improve-spotifys-recommendations)
+- Oct 16 - [Roguelike Celebration 2021](https://roguelike.club/event2021.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
