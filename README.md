@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 16 - [VirtualMEC – a free 3D CAD for MECCANO](http://www.virtualmec.com)
+- Oct 16 - [Manipulation versus Communication](http://charltonteaching.blogspot.com/2021/09/what-is-meaning-of-establishment.html)
 - Oct 16 - [Dislike button would improve Spotify's recommendations](https://news.cornell.edu/stories/2021/09/dislike-button-would-improve-spotifys-recommendations)
 - Oct 16 - [Roguelike Celebration 2021](https://roguelike.club/event2021.html)
 - Oct 16 - [Great Movies Each Written and Directed by the Same Person](https://moviewise.substack.com/p/fifteen-great-movies-each-written)
-- Oct 16 - [Genode – Sculpt Operating System 21.10](https://genode.org/documentation/articles/sculpt-21-10)
-- Oct 16 - [Implementing Hash Tables in C](https://www.andreinc.net/2021/10/02/implementing-hash-tables-in-c-part-1)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
