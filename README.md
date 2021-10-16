@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 16 - [Neutralizing antibodies from the B cells of 1918 influenza pandemic survivors](https://europepmc.org/article/PMC/PMC2848880)
 - Oct 16 - [Theory of Computation ocw course (Sipser)](https://ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2020/)
 - Oct 16 - [Deepdive on USDT fraud: The GrantWilliams Podcast: BennettTomlin and GeorgeNoble](https://www.grant-williams.com/podcast/the-grant-williams-podcast-bennett-tomlin-george-noble/)
-- Oct 16 - [Apple fires leader of AppleToo movement](https://appleinsider.com/articles/21/10/15/apple-fires-leader-of-appletoo-movement)
 - Oct 16 - [Louisville sawmill challenges perception about wages](https://cdispatch.com/opinions/2021-10-13/slimantics-louisville-sawmill-challenges-perception-about-wages/)
+- Oct 16 - [1500 Archers on a 28.8: Network Programming in Age of Empires and Beyond (2001)](https://www.gamedeveloper.com/programming/1500-archers-on-a-28-8-network-programming-in-age-of-empires-and-beyond)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
