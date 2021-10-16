@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 16 - [How to Safely Think in Systems](https://lethain.com/how-to-safely-think-in-systems/)
+- Oct 16 - [Show HN: Add a command-line interface to any C++ program](https://github.com/empirical-soft/command-interface)
+- Oct 16 - [ADOP: Approximate Differentiable One-Pixel Point Rendering](https://arxiv.org/abs/2110.06635)
 - Oct 16 - [Writesonic (YC S21) Is Looking for Founding Fullstack Engineer](https://www.ycombinator.com/companies/writesonic/jobs/x3TOSI1-founding-fullstack-engineer)
 - Oct 16 - [Slowing Down, Yes, but to What?](https://alhambrapartners.com/2021/10/15/slowing-down-yes-but-to-what/)
-- Oct 16 - [Deeper Than Pixels: A Reading List on Video Games](https://longreads.com/2021/10/07/deeper-than-pixels-a-reading-list-on-video-games/)
-- Oct 16 - [Wearable Microphone Jamming](http://sandlab.cs.uchicago.edu/jammer/)
-- Oct 16 - [Redis Cluster Re-Implemented in Rust: Scaling Redis Easily in Kubernetes](https://github.com/doyoubi/undermoon)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
