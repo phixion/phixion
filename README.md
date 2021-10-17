@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 16 - [The Fugate Family of Kentucky Has Had Blue Skin for Centuries – Here’s Why](https://allthatsinteresting.com/fugate-family-blue-people-of-kentucky)
-- Oct 16 - [Show HN: Think Like a Bot – Guess labels applied by AI to random images](https://www.thinklikeabot.com/)
-- Oct 16 - [Amazon Corretto JDK](https://docs.aws.amazon.com/corretto/)
-- Oct 16 - [Pirate Party member: GDPR-compliant Whois will lead to 'doxxing and death lists'](https://www.theregister.com/2021/10/15/eu_nis_directive_article_23_death_lists/)
-- Oct 16 - [Declassified docs reveal truth about FBI’s contribution to Hemingway’s demise](https://www.history101.com/hemingway-fbi-declassified/)
+- Oct 17 - [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28893073)
+- Oct 17 - [The JavaScript ecosystem is a hot mess and so is software development in general](https://nadh.in/blog/javascript-ecosystem-software-development-are-a-hot-mess/)
+- Oct 17 - [New wave of strikes will test worker power](https://www.axios.com/new-wave-of-strikes-worker-power-07f5df47-8825-4e76-a951-c8812d686d94.html)
+- Oct 16 - [More Americans are considering retirement](https://www.bloomberg.com/news/articles/2021-04-30/more-americans-are-considering-retirement-because-of-covid)
+- Oct 16 - [What Richard Feynman’s PhD Thesis Looks Like: A Video Introduction (2020)](https://www.openculture.com/2020/04/this-is-what-richard-feynmans-phd-thesis-looks-like-a-video-introduction.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
