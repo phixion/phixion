@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 16 - [The Fugate Family of Kentucky Has Had Blue Skin for Centuries – Here’s Why](https://allthatsinteresting.com/fugate-family-blue-people-of-kentucky)
+- Oct 16 - [Show HN: Think Like a Bot – Guess labels applied by AI to random images](https://www.thinklikeabot.com/)
 - Oct 16 - [Amazon Corretto JDK](https://docs.aws.amazon.com/corretto/)
 - Oct 16 - [Pirate Party member: GDPR-compliant Whois will lead to 'doxxing and death lists'](https://www.theregister.com/2021/10/15/eu_nis_directive_article_23_death_lists/)
 - Oct 16 - [Declassified docs reveal truth about FBI’s contribution to Hemingway’s demise](https://www.history101.com/hemingway-fbi-declassified/)
-- Oct 16 - [What the Irish Ate Before Potatoes](https://www.bonappetit.com/trends/article/what-the-irish-ate-before-potatoes)
-- Oct 16 - [USC to apologize for WWII actions that derailed Japanese American students](https://www.latimes.com/california/story/2021-10-14/usc-apologizes-wwii-action-against-japanese-americans-offer-honorary-degrees)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
