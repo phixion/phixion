@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 17 - [Tesla's Musk invited to a video call into Volkswagen executive conference](https://www.reuters.com/article/volkswagen-tesla-video-call-idUSKBN2H60CF)
-- Oct 17 - [Facebook is researching AI systems that see, hear, remember everything you do](https://www.theverge.com/2021/10/14/22725894/facebook-augmented-reality-ar-glasses-ai-systems-ego4d-research)
-- Oct 17 - [Ask a Librarian](https://ask.loc.gov/)
-- Oct 17 - [Chums (YC W21) Is Hiring a Lead Designer and a Back End Engineer](https://chumsco.notion.site/chumsco/Come-Work-Chums-d4788a53d8ee4820891e2ae7fa156120)
-- Oct 17 - [Apparently, it's the next big thing. What is the metaverse?](https://www.bbc.co.uk/news/technology-58749529)
+- Oct 17 - [Fly.io (YC W20) is hiring technical writers](https://fly.io/blog/fly-io-is-hiring-technical-writers/)
+- Oct 17 - [New Startup to find Companies using Technologies you Love](https://techmap.io/)
+- Oct 17 - [“With HTTP, you search for locations. With IPFS, you search for content.” (2015)](https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html)
+- Oct 17 - [Remote sensing shows Antarctic green snow algae is important terran carbon sink](https://www.nature.com/articles/s41467-020-16018-w)
+- Oct 17 - [The booming business of knitting together the world’s electricity grids](https://www.economist.com/business/2021/10/16/the-booming-business-of-knitting-together-the-worlds-electricity-grids)
 <!--END_SECTION:hn-->
 
 ## activity
@@ -47,8 +47,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--
 for https://github.com/phixion/phixion/blob/main/.github/workflows/github_activity.yml
 -->
-<!--RECENT_ACTIVITY:last_update-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+1. Starred [chrism2671/netlify-purge-cloudflare-on-deploy](https://github.com/chrism2671/netlify-purge-cloudflare-on-deploy)
+<!--RECENT_ACTIVITY:end-->
 
 ## wakapi
 
