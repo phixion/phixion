@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 17 - [Software developers have stopped caring about reliability](https://drewdevault.com/2021/10/17/Reliability.html)
+- Oct 17 - [How a massacre of Algerians in Paris was covered up](https://www.bbc.co.uk/news/world-africa-58927939)
+- Oct 17 - [The Ideal Economy](https://habr.com/en/post/583884/)
+- Oct 17 - [UK spies incited mass murder of Indonesia’s communists](https://www.theguardian.com/world/2021/oct/17/revealed-how-uk-spies-incited-mass-of-indonesias-communists)
 - Oct 17 - [Notion interview with Alan Kay: On context and catalysts of personal computing](https://www.notion.so/blog/alan-kay)
-- Oct 17 - [Automatic CPU speed and power optimizer for Linux](https://github.com/AdnanHodzic/auto-cpufreq)
-- Oct 17 - [Joybubbles](https://en.wikipedia.org/wiki/Joybubbles)
-- Oct 17 - [AnalogueOS, the “Library of Alexandria of video games.”](https://www.analogue.co/os)
+- Oct 17 - [A second brain, for you, forever](https://obsidian.md/)
 <!--END_SECTION:hn-->
 
 ## activity
