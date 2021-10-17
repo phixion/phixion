@@ -48,7 +48,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/github_activity.yml
 -->
 <!--RECENT_ACTIVITY:start-->
-1. Starred [github/roadmap](https://github.com/github/roadmap)
+1. Starred [jvalen/pixel-art-react](https://github.com/jvalen/pixel-art-react)
 <!--RECENT_ACTIVITY:end-->
 
 ## wakapi
