@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Oct 17 - [Go: Don't Change the Libraries in 1.18](https://github.com/golang/go/issues/48918)
 - Oct 17 - [The Ideal Economy](https://habr.com/en/post/583884/)
-- Oct 17 - [UK spies incited mass murder of Indonesia’s communists](https://www.theguardian.com/world/2021/oct/17/revealed-how-uk-spies-incited-mass-of-indonesias-communists)
 - Oct 17 - [Notion interview with Alan Kay: On context and catalysts of personal computing](https://www.notion.so/blog/alan-kay)
 - Oct 17 - [A second brain, for you, forever](https://obsidian.md/)
+- Oct 17 - [Automatic CPU speed and power optimizer for Linux](https://github.com/AdnanHodzic/auto-cpufreq)
 <!--END_SECTION:hn-->
 
 ## activity
