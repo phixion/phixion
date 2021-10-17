@@ -35,24 +35,14 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 17 - [Joe Manchin's Dirty Empire](https://theintercept.com/2021/09/03/joe-manchin-coal-fossil-fuels-pollution/)
-- Oct 17 - [Joybubbles](https://en.wikipedia.org/wiki/Joybubbles)
-- Oct 17 - [AnalogueOS, the “Library of Alexandria of video games.”](https://www.analogue.co/os)
-- Oct 17 - [An underwater mystery on Canada's coast](https://www.bbc.com/travel/article/20211013-an-underwater-mystery-on-canadas-coast)
-- Oct 17 - [Bisqwit: YouTube Deletes Your Comment](https://www.youtube.com/watch?v=PVlobDyTqeY)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
 
 <!--
-for https://github.com/phixion/phixion/blob/main/.github/workflows/activity.yml
+for https://github.com/phixion/phixion/blob/main/.github/workflows/github_activity.yml
 -->
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#95](https://github.com/rithvikvibhu/GHLocalApi/issues/95) in [rithvikvibhu/GHLocalApi](https://github.com/rithvikvibhu/GHLocalApi)
-2. 🗣 Commented on [#4027](https://github.com/keybase/keybase-issues/issues/4027) in [keybase/keybase-issues](https://github.com/keybase/keybase-issues)
-3. 🗣 Commented on [#155](https://github.com/hassio-addons/addon-tautulli/issues/155) in [hassio-addons/addon-tautulli](https://github.com/hassio-addons/addon-tautulli)
-4. 🗣 Commented on [#155](https://github.com/hassio-addons/addon-tautulli/issues/155) in [hassio-addons/addon-tautulli](https://github.com/hassio-addons/addon-tautulli)
-5. 💪 Opened PR [#59](https://github.com/mampfes/hacs_waste_collection_schedule/pull/59) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
+<!--RECENT_ACTIVITY:last_update-->
 <!--END_SECTION:activity-->
 
 ## Wakapi Statistics
@@ -61,9 +51,6 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/activity.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/waka.yml
 -->
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
 <!--
