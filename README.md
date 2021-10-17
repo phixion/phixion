@@ -48,7 +48,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/github_activity.yml
 -->
 <!--RECENT_ACTIVITY:start-->
-1. Starred [jasonlong/isometric-contributions](https://github.com/jasonlong/isometric-contributions)
+1. Starred [berkmancenter/internet_monitor](https://github.com/berkmancenter/internet_monitor)
 <!--RECENT_ACTIVITY:end-->
 
 ## wakapi
