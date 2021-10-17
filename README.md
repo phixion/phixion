@@ -37,7 +37,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Oct 17 - [UK Home Secretary considering removing right to anonymity on social media](https://www.independent.co.uk/news/uk/politics/priti-patel-david-amess-social-media-b1939775.html)
 - Oct 17 - [Roger Hui has passed away](http://jsoftware.com/pipermail/programming/2021-October/059091.html)
-- Oct 17 - [Why not “Why not WireGuard?”](https://tailscale.com/blog/why-not-why-not-wireguard/)
+- Oct 17 - [Why not “Why not WireGuard?” (2020)](https://tailscale.com/blog/why-not-why-not-wireguard/)
 - Oct 17 - [Fly.io (YC W20) is hiring technical writers](https://fly.io/blog/fly-io-is-hiring-technical-writers/)
 - Oct 17 - [New Startup to find Companies using Technologies you Love](https://techmap.io/)
 <!--END_SECTION:hn-->
