@@ -35,8 +35,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 17 - [Fixed Point Arithmetic](https://vha3.github.io/FixedPoint/FixedPoint.html)
 - Oct 17 - [The Billion Dollar Code on Netflix, Developers Who Sued over Google Earth's Algo](https://decider.com/2021/10/07/the-billion-dollar-code-netflix-review/)
-- Oct 17 - [Startups are betting on a psychedelic gold rush](https://www.vox.com/recode/22716491/psychedelics-ketamine-mental-health-research-fda)
 - Oct 17 - [Gold Fig Labs (YC S19) is hiring founding engineers to make devsecops easy](https://www.goldfiglabs.com/team/)
 - Oct 17 - [Fast rebases with git-move](https://blog.waleedkhan.name/in-memory-rebases/)
 - Oct 17 - [NixOS on Framework Laptop](http://kvark.github.io/linux/framework/2021/10/17/framework-nixos.html)
