@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 17 - [New Startup to find Companies using Technologies you Love](https://techmap.io/)
+- Oct 17 - [“With HTTP, you search for locations. With IPFS, you search for content.”](https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html)
 - Oct 17 - [Remote sensing shows Antarctic green snow algae is important terran carbon sink](https://www.nature.com/articles/s41467-020-16018-w)
 - Oct 17 - [The booming business of knitting together the world’s electricity grids](https://www.economist.com/business/2021/10/16/the-booming-business-of-knitting-together-the-worlds-electricity-grids)
 - Oct 17 - [Netflix's new player breaks the ability to modify the seeking of a playing video](https://plopdown.video/blog/netflix-open-web-failure)
-- Oct 17 - [It's been 42 years since 'The Hitchhiker's Guide' answered the ultimate question](https://www.npr.org/2021/10/17/1046593657/its-been-42-years-since-the-hitchhikers-guide-answered-the-ultimate-question)
-- Oct 17 - [Python stands to lose its GIL, and gain a lot of speed](https://www.infoworld.com/article/3637073/python-stands-to-lose-its-gil-and-gain-a-lot-of-speed.html)
 <!--END_SECTION:hn-->
 
 ## activity
