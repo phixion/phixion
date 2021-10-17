@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 17 - [The booming business of knitting together the world’s electricity grids](https://www.economist.com/business/2021/10/16/the-booming-business-of-knitting-together-the-worlds-electricity-grids)
 - Oct 17 - [Netflix's new player breaks the ability to modify the seeking of a playing video](https://plopdown.video/blog/netflix-open-web-failure)
 - Oct 17 - [It's been 42 years since 'The Hitchhiker's Guide' answered the ultimate question](https://www.npr.org/2021/10/17/1046593657/its-been-42-years-since-the-hitchhikers-guide-answered-the-ultimate-question)
-- Oct 17 - [Why Not WireGuard (2020)](https://blog.ipfire.org/post/why-not-wireguard)
+- Oct 17 - [Python stands to lose its GIL, and gain a lot of speed](https://www.infoworld.com/article/3637073/python-stands-to-lose-its-gil-and-gain-a-lot-of-speed.html)
 <!--END_SECTION:hn-->
 
 ## activity
