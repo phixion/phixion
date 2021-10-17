@@ -1,6 +1,6 @@
 # Hi there 🖖
 
-## Social
+## social
 
 ![Keybase](https://img.shields.io/keybase/pgp/phixion_?color=blue&label=keybase&logo=keybase&logoColor=white&style=flat-square)
 ![Twitter](https://img.shields.io/twitter/follow/ridelore?&label=twitter%20%40ridelore&color=blue&logo=twitter&logoColor=white&style=flat-square)
@@ -16,58 +16,39 @@
 
 ---
 
-## Latest Breaches
+## hibp
 
 <!--
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
-- Oct 14 - [Thingiverse - 228,102 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Thingiverse)
-- Oct 11 - [Playbook - 50,538 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Playbook)
-- Oct 07 - [Fantasy Football Hub - 66,479 breached accounts](https://haveibeenpwned.com/PwnedWebsites#FantasyFootballHub)
-- Oct 06 - [Republican Party of Texas - 72,596 breached accounts](https://haveibeenpwned.com/PwnedWebsites#RepublicanPartyOfTexas)
-- Oct 02 - [LinkedIn Scraped Data - 125,698,496 breached accounts](https://haveibeenpwned.com/PwnedWebsites#LinkedInScrape)
 <!--END_SECTION:haveibeenpwnd-->
 
-## News
+## hn
 
 <!--
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 17 - [Joe Manchin's Dirty Empire](https://theintercept.com/2021/09/03/joe-manchin-coal-fossil-fuels-pollution/)
-- Oct 17 - [Joybubbles](https://en.wikipedia.org/wiki/Joybubbles)
-- Oct 17 - [AnalogueOS, the “Library of Alexandria of video games.”](https://www.analogue.co/os)
-- Oct 17 - [An underwater mystery on Canada's coast](https://www.bbc.com/travel/article/20211013-an-underwater-mystery-on-canadas-coast)
-- Oct 17 - [Bisqwit: YouTube Deletes Your Comment](https://www.youtube.com/watch?v=PVlobDyTqeY)
 <!--END_SECTION:hn-->
 
-## GitHub activity
+## activity
 
 <!--
 for https://github.com/phixion/phixion/blob/main/.github/workflows/activity.yml
 -->
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#95](https://github.com/rithvikvibhu/GHLocalApi/issues/95) in [rithvikvibhu/GHLocalApi](https://github.com/rithvikvibhu/GHLocalApi)
-2. 🗣 Commented on [#4027](https://github.com/keybase/keybase-issues/issues/4027) in [keybase/keybase-issues](https://github.com/keybase/keybase-issues)
-3. 🗣 Commented on [#155](https://github.com/hassio-addons/addon-tautulli/issues/155) in [hassio-addons/addon-tautulli](https://github.com/hassio-addons/addon-tautulli)
-4. 🗣 Commented on [#155](https://github.com/hassio-addons/addon-tautulli/issues/155) in [hassio-addons/addon-tautulli](https://github.com/hassio-addons/addon-tautulli)
-5. 💪 Opened PR [#59](https://github.com/mampfes/hacs_waste_collection_schedule/pull/59) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
+<!--RECENT_ACTIVITY:last_update-->
 <!--END_SECTION:activity-->
 
-## Wakapi Statistics
+## wakapi
 
 <!--
 for https://github.com/phixion/phixion/blob/main/.github/workflows/waka.yml
 -->
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
 <!--
 for https://yhype.me
 -->
 ![](https://hit.yhype.me/github/profile?user_id=13013670)
-
