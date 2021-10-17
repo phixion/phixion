@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Oct 17 - [Tesla's Musk invited to a video call into Volkswagen executive conference](https://www.reuters.com/article/volkswagen-tesla-video-call-idUSKBN2H60CF)
 - Oct 17 - [Facebook is researching AI systems that see, hear, remember everything you do](https://www.theverge.com/2021/10/14/22725894/facebook-augmented-reality-ar-glasses-ai-systems-ego4d-research)
-- Oct 17 - [The Great Re-Evaluation – Robert Reich](https://robertreich.substack.com/p/the-great-re-evaluation)
 - Oct 17 - [Ask a Librarian](https://ask.loc.gov/)
 - Oct 17 - [Chums (YC W21) Is Hiring a Lead Designer and a Back End Engineer](https://chumsco.notion.site/chumsco/Come-Work-Chums-d4788a53d8ee4820891e2ae7fa156120)
+- Oct 17 - [Apparently, it's the next big thing. What is the metaverse?](https://www.bbc.co.uk/news/technology-58749529)
 <!--END_SECTION:hn-->
 
 ## activity
