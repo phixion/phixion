@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 17 - [The unsolved mystery of the Earth blobs](https://eos.org/features/the-unsolved-mystery-of-the-earth-blobs)
+- Oct 17 - [The unsolved mystery of the Earth blobs (2019)](https://eos.org/features/the-unsolved-mystery-of-the-earth-blobs)
 - Oct 17 - [On Democracy as a Necessary Anarchist Value](https://c4ss.org/content/49295)
 - Oct 17 - [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28893073)
 - Oct 17 - [New wave of strikes will test worker power](https://www.axios.com/new-wave-of-strikes-worker-power-07f5df47-8825-4e76-a951-c8812d686d94.html)
