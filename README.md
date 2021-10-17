@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 17 - [Why not “Why not WireGuard?”](https://tailscale.com/blog/why-not-why-not-wireguard/)
 - Oct 17 - [Fly.io (YC W20) is hiring technical writers](https://fly.io/blog/fly-io-is-hiring-technical-writers/)
 - Oct 17 - [New Startup to find Companies using Technologies you Love](https://techmap.io/)
 - Oct 17 - [“With HTTP, you search for locations. With IPFS, you search for content.” (2015)](https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html)
 - Oct 17 - [Remote sensing shows Antarctic green snow algae is important terran carbon sink](https://www.nature.com/articles/s41467-020-16018-w)
-- Oct 17 - [The booming business of knitting together the world’s electricity grids](https://www.economist.com/business/2021/10/16/the-booming-business-of-knitting-together-the-worlds-electricity-grids)
 <!--END_SECTION:hn-->
 
 ## activity
