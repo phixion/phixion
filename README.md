@@ -35,9 +35,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 17 - [Tesla's Musk invited to a video call into Volkswagen executive conference](https://www.reuters.com/article/volkswagen-tesla-video-call-idUSKBN2H60CF)
 - Oct 17 - [Physicists take a key step in correcting quantum computer errors](https://www.science.org/content/article/physicists-take-key-step-correcting-quantum-computer-errors)
 - Oct 17 - [Facebook is researching AI systems that see, hear, remember everything you do](https://www.theverge.com/2021/10/14/22725894/facebook-augmented-reality-ar-glasses-ai-systems-ego4d-research)
+- Oct 17 - [Show HN: Vizzu – Open-source charting library focused on animating charts](https://lib.vizzuhq.com/)
 - Oct 17 - [Ask a Librarian](https://ask.loc.gov/)
 - Oct 17 - [Chums (YC W21) Is Hiring a Lead Designer and a Back End Engineer](https://chumsco.notion.site/chumsco/Come-Work-Chums-d4788a53d8ee4820891e2ae7fa156120)
 <!--END_SECTION:hn-->
