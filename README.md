@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 17 - [Automatic CPU speed and power optimizer for Linux](https://github.com/AdnanHodzic/auto-cpufreq)
+- Oct 17 - [Joe Manchin's Dirty Empire](https://theintercept.com/2021/09/03/joe-manchin-coal-fossil-fuels-pollution/)
 - Oct 17 - [Joybubbles](https://en.wikipedia.org/wiki/Joybubbles)
 - Oct 17 - [AnalogueOS, the “Library of Alexandria of video games.”](https://www.analogue.co/os)
 - Oct 17 - [An underwater mystery on Canada's coast](https://www.bbc.com/travel/article/20211013-an-underwater-mystery-on-canadas-coast)
-- Oct 17 - [Bisqwit: YouTube Deletes Your Comment](https://www.youtube.com/watch?v=PVlobDyTqeY)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
