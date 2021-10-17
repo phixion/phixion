@@ -39,7 +39,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 17 - [On Democracy as a Necessary Anarchist Value](https://c4ss.org/content/49295)
 - Oct 17 - [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28893073)
 - Oct 17 - [New wave of strikes will test worker power](https://www.axios.com/new-wave-of-strikes-worker-power-07f5df47-8825-4e76-a951-c8812d686d94.html)
-- Oct 17 - [Hacking around on the telephone, the internet before the internet](https://madned.substack.com/p/wardialing-and-other-phoney-stuff)
+- Oct 16 - [What Richard Feynman’s PhD Thesis Looks Like: A Video Introduction (2020)](https://www.openculture.com/2020/04/this-is-what-richard-feynmans-phd-thesis-looks-like-a-video-introduction.html)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
