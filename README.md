@@ -37,8 +37,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Oct 17 - [Startups are betting on a psychedelic gold rush](https://www.vox.com/recode/22716491/psychedelics-ketamine-mental-health-research-fda)
 - Oct 17 - [Gold Fig Labs (YC S19) is hiring our founding engineering to make devsecops easy](https://www.goldfiglabs.com/team/)
+- Oct 17 - [Lightning-fast rebases with Git-move](https://blog.waleedkhan.name/in-memory-rebases/)
 - Oct 17 - [NixOS on Framework Laptop](http://kvark.github.io/linux/framework/2021/10/17/framework-nixos.html)
-- Oct 17 - [A New Search Engine That Doesn’t Rank Sites Based on Their Authority](https://ortingo.com)
 - Oct 17 - [Roger Hui has died](http://jsoftware.com/pipermail/programming/2021-October/059091.html)
 <!--END_SECTION:hn-->
 
