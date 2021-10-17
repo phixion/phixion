@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 17 - [The unsolved mystery of the Earth blobs](https://eos.org/features/the-unsolved-mystery-of-the-earth-blobs)
+- Oct 17 - [On Democracy as a Necessary Anarchist Value](https://c4ss.org/content/49295)
 - Oct 17 - [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28893073)
 - Oct 17 - [New wave of strikes will test worker power](https://www.axios.com/new-wave-of-strikes-worker-power-07f5df47-8825-4e76-a951-c8812d686d94.html)
 - Oct 16 - [More Americans are considering retirement](https://www.bloomberg.com/news/articles/2021-04-30/more-americans-are-considering-retirement-because-of-covid)
-- Oct 16 - [What Richard Feynman’s PhD Thesis Looks Like: A Video Introduction (2020)](https://www.openculture.com/2020/04/this-is-what-richard-feynmans-phd-thesis-looks-like-a-video-introduction.html)
-- Oct 16 - [The Fugate family of Kentucky has had blue skin for centuries (2017)](https://allthatsinteresting.com/fugate-family-blue-people-of-kentucky)
 <!--END_SECTION:hn-->
 
 ## GitHub activity
