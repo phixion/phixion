@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 17 - [Remote sensing shows Antarctic green snow algae is important terran carbon sink](https://www.nature.com/articles/s41467-020-16018-w)
 - Oct 17 - [The booming business of knitting together the world’s electricity grids](https://www.economist.com/business/2021/10/16/the-booming-business-of-knitting-together-the-worlds-electricity-grids)
 - Oct 17 - [Netflix's new player breaks the ability to modify the seeking of a playing video](https://plopdown.video/blog/netflix-open-web-failure)
 - Oct 17 - [It's been 42 years since 'The Hitchhiker's Guide' answered the ultimate question](https://www.npr.org/2021/10/17/1046593657/its-been-42-years-since-the-hitchhikers-guide-answered-the-ultimate-question)
-- Oct 17 - [Bitcoin and the U.S. Fiscal Reckoning](https://nationalaffairs.com/publications/detail/bitcoin-and-the-us-fiscal-reckoning)
-- Oct 17 - [No more painkillers A side-effect free, and drug-free method to relieve pain](https://www.universal-sci.com/article/relieving-chronic-pain-with-microelectrodes)
+- Oct 17 - [Why Not WireGuard (2020)](https://blog.ipfire.org/post/why-not-wireguard)
 <!--END_SECTION:hn-->
 
 ## activity
