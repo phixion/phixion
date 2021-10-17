@@ -35,9 +35,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 17 - [AnalogueOS, the “Library of Alexandria of video games.”](https://www.analogue.co/os)
 - Oct 17 - [An underwater mystery on Canada's coast](https://www.bbc.com/travel/article/20211013-an-underwater-mystery-on-canadas-coast)
-- Oct 17 - [Noam Chomsky: Ireland robbed poor working people of tens of trillions of dollars](https://www.irishtimes.com/culture/noam-chomsky-ireland-has-robbed-poor-working-people-of-tens-of-trillions-of-dollars-1.4697373)
-- Oct 17 - [Quickly and Easily Install Nextcloud](https://www.vimarsh.info/notes/quickly-and-easily-install-nextcloud)
+- Oct 17 - [Tesla FSD Beta Barely Avoids Crashing into Pole](https://twitter.com/BS__Exposed/status/1449158254081290242)
 - Oct 17 - [The unsolved mystery of the Earth blobs (2019)](https://eos.org/features/the-unsolved-mystery-of-the-earth-blobs)
 - Oct 17 - [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28893073)
 <!--END_SECTION:hn-->
