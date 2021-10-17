@@ -10,6 +10,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2.3.4
       - uses: Readme-Workflows/recent-activity@v2.3.1
+        with:
+          CONFIG_FILE: './.github/github_activity.config.yml'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CONFIG_FILE: './.github/github_activity.config.yml'
