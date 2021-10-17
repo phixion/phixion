@@ -48,7 +48,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/github_activity.yml
 -->
 <!--RECENT_ACTIVITY:start-->
-1. Starred [chrism2671/netlify-purge-cloudflare-on-deploy](https://github.com/chrism2671/netlify-purge-cloudflare-on-deploy)
+1. Forked [phixion/lowlighter](https://github.com/phixion/lowlighter) from [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
 <!--RECENT_ACTIVITY:end-->
 
 ## wakapi
