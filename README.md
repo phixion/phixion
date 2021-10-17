@@ -16,41 +16,31 @@
 
 ---
 
-## Latest Breaches
+## hibp
 
 <!--
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
-- Oct 14 - [Thingiverse - 228,102 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Thingiverse)
-- Oct 11 - [Playbook - 50,538 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Playbook)
-- Oct 07 - [Fantasy Football Hub - 66,479 breached accounts](https://haveibeenpwned.com/PwnedWebsites#FantasyFootballHub)
-- Oct 06 - [Republican Party of Texas - 72,596 breached accounts](https://haveibeenpwned.com/PwnedWebsites#RepublicanPartyOfTexas)
-- Oct 02 - [LinkedIn Scraped Data - 125,698,496 breached accounts](https://haveibeenpwned.com/PwnedWebsites#LinkedInScrape)
 <!--END_SECTION:haveibeenpwnd-->
 
-## News
+## hn
 
 <!--
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 17 - [Automatic CPU speed and power optimizer for Linux](https://github.com/AdnanHodzic/auto-cpufreq)
-- Oct 17 - [Joe Manchin's Dirty Empire](https://theintercept.com/2021/09/03/joe-manchin-coal-fossil-fuels-pollution/)
-- Oct 17 - [Joybubbles](https://en.wikipedia.org/wiki/Joybubbles)
-- Oct 17 - [AnalogueOS, the “Library of Alexandria of video games.”](https://www.analogue.co/os)
-- Oct 17 - [An underwater mystery on Canada's coast](https://www.bbc.com/travel/article/20211013-an-underwater-mystery-on-canadas-coast)
 <!--END_SECTION:hn-->
 
-## GitHub activity
+## activity
 
 <!--
 for https://github.com/phixion/phixion/blob/main/.github/workflows/github_activity.yml
 -->
+<!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:last_update-->
-<!--END_SECTION:activity-->
 
-## Wakapi Statistics
+## wakapi
 
 <!--
 for https://github.com/phixion/phixion/blob/main/.github/workflows/waka.yml
