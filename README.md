@@ -48,7 +48,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/github_activity.yml
 -->
 <!--RECENT_ACTIVITY:start-->
-1. Created new repository [phixion/cms](https://github.com/phixion/cms)
+1. Starred [chrism2671/netlify-purge-cloudflare-on-deploy](https://github.com/chrism2671/netlify-purge-cloudflare-on-deploy)
 <!--RECENT_ACTIVITY:end-->
 
 ## wakapi
