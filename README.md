@@ -47,8 +47,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--
 for https://github.com/phixion/phixion/blob/main/.github/workflows/github_activity.yml
 -->
+<!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:last_update-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:end-->
 
 ## wakapi
 
