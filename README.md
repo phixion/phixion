@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 17 - [Chums (YC W21) Is Hiring a Lead Designer and a Back End Engineer](https://chumsco.notion.site/chumsco/Come-Work-Chums-d4788a53d8ee4820891e2ae7fa156120)
+- Oct 17 - [Apparently, it's the next big thing. What is the metaverse?](https://www.bbc.co.uk/news/technology-58749529)
 - Oct 17 - [Go: Don't Change the Libraries in 1.18](https://github.com/golang/go/issues/48918)
-- Oct 17 - [The Ideal Economy](https://habr.com/en/post/583884/)
 - Oct 17 - [Notion interview with Alan Kay: On context and catalysts of personal computing](https://www.notion.so/blog/alan-kay)
 - Oct 17 - [A second brain, for you, forever](https://obsidian.md/)
-- Oct 17 - [Automatic CPU speed and power optimizer for Linux](https://github.com/AdnanHodzic/auto-cpufreq)
 <!--END_SECTION:hn-->
 
 ## activity
