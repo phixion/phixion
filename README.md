@@ -1,6 +1,6 @@
 # Hi there 🖖
 
-## Social
+## social
 
 ![Keybase](https://img.shields.io/keybase/pgp/phixion_?color=blue&label=keybase&logo=keybase&logoColor=white&style=flat-square)
 ![Twitter](https://img.shields.io/twitter/follow/ridelore?&label=twitter%20%40ridelore&color=blue&logo=twitter&logoColor=white&style=flat-square)
@@ -47,8 +47,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--
 for https://github.com/phixion/phixion/blob/main/.github/workflows/github_activity.yml
 -->
-<!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:last_update-->
+<!--END_SECTION:activity-->
 
 ## wakapi
 
