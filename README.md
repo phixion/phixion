@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 18 - [I get abuse and threats online – why can't it be stopped?](https://www.bbc.co.uk/news/uk-58924168)
+- Oct 18 - [Facial recognition cameras installed in UK school canteens](https://www.independent.co.uk/news/education/education-news/facial-recognition-uk-school-canteens-b1940109.html)
+- Oct 18 - [A difficult case: Diagnosis made by hallucinatory voices](https://www.bmj.com/content/315/7123/1685)
 - Oct 18 - [Is it time to rewrite the Operating System in Rust? – Bryan Cantrill (2018)](https://www.youtube.com/watch?v=HgtRAbE1nBM)
 - Oct 18 - [Issues we've encountered while building a Kafka based data processing pipeline](https://sixfold.medium.com/bringing-kafka-based-architecture-to-the-next-level-using-simple-postgresql-tables-415f1ff6076d)
 - Oct 18 - [Airbnb removes 80% of advertisements in Amsterdam after registration obligation](https://www.ruetir.com/2021/10/18/airbnb-removes-more-than-three-quarters-of-advertisements-in-amsterdam-after-registration-obligation/)
-- Oct 18 - [OpenMW: Open-source reimplementation of TES3 Morrowind](https://github.com/OpenMW/openmw)
 <!--END_SECTION:hn-->
 
 ## activity
