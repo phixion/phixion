@@ -35,7 +35,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 18 - [Increases in Covid-19 are unrelated to levels of vaccination](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8481107/)
+- Oct 18 - [Is it time to rewrite the Operating System in Rust? – Bryan Cantrill (2018)](https://www.youtube.com/watch?v=HgtRAbE1nBM)
 - Oct 18 - [Airbnb removes 80 percent of ads in Amsterdam after registration obligation](https://www.ruetir.com/2021/10/18/airbnb-removes-more-than-three-quarters-of-advertisements-in-amsterdam-after-registration-obligation/)
 - Oct 18 - [OpenMW: Open-source reimplementation of TES3 Morrowind](https://github.com/OpenMW/openmw)
 - Oct 18 - [Privacy Redirect: Redirects browser requests to privacy-friendly alternatives](https://github.com/SimonBrazell/privacy-redirect)
