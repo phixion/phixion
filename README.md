@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 18 - [Awesome-loginless: internet services that don't require registrations](https://github.com/fiatjaf/awesome-loginless)
+- Oct 18 - [Show HN: I built a sonar into my surfboard](https://foobarbecue.github.io/surfsonar/)
+- Oct 18 - [Self-driving Waymo cars clog up dead-end San Francisco street](https://www.bbc.com/news/technology-58928706)
+- Oct 17 - [Sinclair TV stations disrupted across the US in apparent ransomware attack](https://therecord.media/sinclair-tv-stations-disrupted-across-the-us-in-apparent-ransomware-attack/)
 - Oct 17 - [L0phtCrack Is Now Open Source](https://l0phtcrack.gitlab.io/)
-- Oct 17 - [Of Scarface and the Nobel – The Double Life of Mariel](https://adamtooze.com/2021/10/12/chartbook-45-of-scarface-the-nobel-the-double-life-of-mariel/)
-- Oct 17 - [Fixed Point Arithmetic](https://vha3.github.io/FixedPoint/FixedPoint.html)
-- Oct 17 - [Travel on Airless Worlds (2014)](http://hopsblog-hop.blogspot.com/2014/06/travel-on-airless-worlds.html)
-- Oct 17 - [‘The Billion Dollar Code’: Developers Who Sued Over Google Earth Algorithm](https://decider.com/2021/10/07/the-billion-dollar-code-netflix-review/)
 <!--END_SECTION:hn-->
 
 ## activity
