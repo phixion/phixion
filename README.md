@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 18 - [MacBook Pro 14-inch and MacBook Pro 16-inch](https://www.apple.com/macbook-pro-14-and-16/)
 - Oct 18 - [Apple’s new M1 Pro and M1 Max processors](https://www.apple.com/newsroom/2021/10/introducing-m1-pro-and-m1-max-the-most-powerful-chips-apple-has-ever-built/)
 - Oct 18 - [YouTube: filmmakers presumed guilty until maybe proven innocent](https://larryjordan.com/articles/youtube-filmmakers-presumed-guilty-until-maybe-proven-innocent/)
-- Oct 18 - [The next generation of AirPods](https://www.apple.com/newsroom/2021/10/introducing-the-next-generation-of-airpods/)
 - Oct 18 - [Apple October Event [video]](https://www.youtube.com/watch?v=exM1uajp--A)
+- Oct 18 - [MindsDB (YC W20) Is Hiring](https://www.ycombinator.com/companies/mindsdb/jobs/moM5HiX-technical-writer-sales-engineer)
 <!--END_SECTION:hn-->
 
 ## activity
