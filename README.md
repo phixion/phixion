@@ -35,9 +35,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 18 - [Motorist fined after CCTV confuses his number plate with woman’s T-shirt](https://www.theguardian.com/uk-news/2021/oct/18/motorist-fined-number-plate-t-shirt)
 - Oct 18 - [Colin Powell has died](https://www.cnn.com/2021/10/18/politics/colin-powell-dies/index.html)
 - Oct 18 - [Unflow (YC S19) Is Hiring iOS Engineer to Join Early Monzo and Intercom Team](https://www.ycombinator.com/companies/unflow/jobs/xY3DJ1O-ios-engineer)
+- Oct 18 - [The race to grab all the UK’s lithium before it’s too late](https://www.wired.co.uk/article/cornwall-lithium)
 - Oct 18 - [Facial recognition cameras installed in UK school canteens](https://www.independent.co.uk/news/education/education-news/facial-recognition-uk-school-canteens-b1940109.html)
 - Oct 18 - [What to Learn](https://danluu.com/learn-what/)
 <!--END_SECTION:hn-->
