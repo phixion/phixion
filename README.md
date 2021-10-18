@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 18 - [Expensify S-1](https://www.sec.gov/Archives/edgar/data/1476840/000162828021020115/expensifys-1.htm)
+- Oct 18 - [Stop Equating “Science” with Truth (2017)](https://slate.com/technology/2017/08/evolutionary-psychology-is-the-most-obvious-example-of-how-science-is-flawed.html)
 - Oct 18 - [MacBook Pro 14-inch and MacBook Pro 16-inch](https://www.apple.com/macbook-pro-14-and-16/)
 - Oct 18 - [Apple’s new M1 Pro and M1 Max processors](https://www.apple.com/newsroom/2021/10/introducing-m1-pro-and-m1-max-the-most-powerful-chips-apple-has-ever-built/)
 - Oct 18 - [YouTube: filmmakers presumed guilty until maybe proven innocent](https://larryjordan.com/articles/youtube-filmmakers-presumed-guilty-until-maybe-proven-innocent/)
-- Oct 18 - [Apple October Event [video]](https://www.youtube.com/watch?v=exM1uajp--A)
 <!--END_SECTION:hn-->
 
 ## activity
