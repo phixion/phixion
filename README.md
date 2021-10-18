@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 18 - [Litnerd (YC S21) Is Hiring Senior Full Stack Developer](https://bookface.ycombinator.com/company/24558/jobs/44838/edit)
 - Oct 18 - [Building on soil in Big Sandy: Regenerative organic farming in rural Montana](https://montanafreepress.org/2021/10/14/building-on-soil-in-big-sandy-regenerative-organic-agriculture/)
 - Oct 18 - [Show HN: Simple access to your music from the web](https://github.com/DusteDdk/dstream)
-- Oct 18 - [No ink, no scan: Canon USA printers hit with class-action suit](https://www.zdnet.com/article/untrustworthy-canon-printer-lawsuit/)
+- Oct 18 - [Mach Engine: The Future of Graphics (With Zig)](https://devlog.hexops.com/2021/mach-engine-the-future-of-graphics-with-zig)
 - Oct 18 - [Expensify S-1](https://www.sec.gov/Archives/edgar/data/1476840/000162828021020115/expensifys-1.htm)
-- Oct 18 - [MacBook Pro 14-inch and MacBook Pro 16-inch](https://www.apple.com/macbook-pro-14-and-16/)
 <!--END_SECTION:hn-->
 
 ## activity
