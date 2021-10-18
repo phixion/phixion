@@ -51,7 +51,7 @@ jobs:
           plugin_activity: yes
           plugin_activity_limit: 10
           plugin_activity_timestamps: yes
-          plugin_support: yes
+          plugin_support: no
           plugin_repositories: yes
           plugin_music: yes
           plugin_music_provider: "spotify"
