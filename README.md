@@ -37,9 +37,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Oct 18 - [Awesome-loginless: internet services that don't require registrations](https://github.com/fiatjaf/awesome-loginless)
 - Oct 18 - [Show HN: I built a sonar into my surfboard](https://foobarbecue.github.io/surfsonar/)
-- Oct 18 - [Wrongfully Accused: The Swastika Is Not Hitler's Hakenkreuz](https://cohna.org/swastika-is-not-hakenkreuz/)
 - Oct 18 - [How Time Series Databases Work–and Where They Don't](https://www.honeycomb.io/blog/time-series-database/)
 - Oct 18 - [Self-driving Waymo cars clog up dead-end San Francisco street](https://www.bbc.com/news/technology-58928706)
+- Oct 17 - [Sinclair TV stations disrupted across the US in apparent ransomware attack](https://therecord.media/sinclair-tv-stations-disrupted-across-the-us-in-apparent-ransomware-attack/)
 <!--END_SECTION:hn-->
 
 ## activity
