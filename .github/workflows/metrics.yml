@@ -3,7 +3,6 @@ name: Metrics
 on:
   # Schedule updates (each hour)
   schedule: [{ cron: "0 * * * *" }]
-  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: { branches: ["main"] }
 jobs:
@@ -12,9 +11,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-
           # Options
           user: phixion
           template: classic
@@ -32,7 +29,7 @@ jobs:
           plugin_languages_recent.load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          committer_gist: "41ed0d052c58b674dc77cc4dfdd10651"
+          committer_gist: ${{ secrets.METRICS_GIST }}
           output_action: "gist"
           optimize: yes
           config_gemoji: yes
@@ -45,8 +42,8 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 10
           plugin_reactions: yes
-          plugin_people: yes
-          plugin_people_identicons: yes
+          plugin_people: no
+          plugin_people_identicons: no
           plugin_gists: yes
           plugin_followup: yes
           plugin_lines: yes
@@ -55,7 +52,6 @@ jobs:
           plugin_activity_limit: 10
           plugin_activity_timestamps: yes
           plugin_support: yes
-          plugin_notable: yes
           plugin_repositories: yes
           plugin_music: yes
           plugin_music_provider: "spotify"
@@ -66,6 +62,5 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.METRICS_WAKATIME_TOKEN }}
           plugin_wakatime_user: ${{ secrets.METRICS_WAKATIME_USER }}
-          plugin_wakatime_sections: time, projects-graphs, languages-graphs, editors, os
+          plugin_wakatime_sections: time, languages-graphs, editors, os
           plugin_wakatime_url: https://wakapi.dev
-          plugin_screenshot_background: no
