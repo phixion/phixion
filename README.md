@@ -38,8 +38,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 18 - [Before Pong, There Was Computer Space](https://thereader.mitpress.mit.edu/before-pong-there-was-computer-space/)
 - Oct 18 - [What every software engineer should know about search](https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d)
 - Oct 18 - [Thank HN: 7 years and $7M later, it all started right here](https://news.ycombinator.com/item?id=28902215)
+- Oct 18 - [The Go+ language for engineering, STEM education, and data science](https://github.com/goplus/gop)
 - Oct 18 - [Seashells: Pipe output from command-line programs to the web in real-time](https://seashells.io/)
-- Oct 18 - [Manifold: Java typesafe metaprogramming with IDE support by abusing the compiler](http://manifold.systems/)
 <!--END_SECTION:hn-->
 
 ## activity
