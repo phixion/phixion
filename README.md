@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 18 - [Canon sued for $5M for disabling scanner when printers run out of ink](https://www.techspot.com/news/91790-canon-sued-5-million-disabling-scanner-when-printers.html)
 - Oct 18 - [The wealthiest 10% of Americans own a record 89% of all U.S. stocks](https://www.cnbc.com/2021/10/18/the-wealthiest-10percent-of-americans-own-a-record-89percent-of-all-us-stocks.html)
 - Oct 18 - [Binance just transferred 6B Tethers to an unknown address](https://twitter.com/whale_alert/status/1450005292599726083)
 - Oct 18 - [Lake Tahoe hits a critically low water threshold](https://www.sfgate.com/renotahoe/article/Lake-Tahoe-drought-water-rim-algae-16533020.php)
-- Oct 18 - [First model released by BigScience outperforms GPT-3 while being 16x smaller](https://huggingface.co/bigscience/T0pp)
+- Oct 18 - [T0* – Series of encoder-decoder models trained on a large set of different tasks](https://huggingface.co/bigscience/T0pp)
+- Oct 18 - [Arthritis drug that cost $198 in 2008 is now more than $10k](https://www.axios.com/indocin-suppository-drug-prices-assertio-zyla-egalet-3278e307-d900-475c-92c9-8e5ff828a7da.html)
 <!--END_SECTION:hn-->
 
 ## activity
