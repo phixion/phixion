@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 18 - [The $10k Suppository](https://www.axios.com/indocin-suppository-drug-prices-assertio-zyla-egalet-3278e307-d900-475c-92c9-8e5ff828a7da.html)
 - Oct 18 - [What =delete means](https://quuxplusone.github.io/blog/2021/10/17/equals-delete-means/)
 - Oct 18 - [Unflow (YC S19) Is Hiring iOS Engineer to Join Early Monzo and Intercom Team](https://www.ycombinator.com/companies/unflow/jobs/xY3DJ1O-ios-engineer)
 - Oct 18 - [Show HN: Dev's Full Stack Nightmare (an accurate representation)](https://sleepy-meadow-72878.herokuapp.com/)
 - Oct 18 - [The race to grab all the UK’s lithium before it’s too late](https://www.wired.co.uk/article/cornwall-lithium)
-- Oct 18 - [Usbimager – A non-electron based alternative to Balena Etcher](https://gitlab.com/bztsrc)
 <!--END_SECTION:hn-->
 
 ## activity
