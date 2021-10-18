@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 18 - [Unflow (YC S19) Is Hiring iOS Engineer to Join Early Monzo and Intercom Team](https://www.ycombinator.com/companies/unflow/jobs/xY3DJ1O-ios-engineer)
 - Oct 18 - [Facial recognition cameras installed in UK school canteens](https://www.independent.co.uk/news/education/education-news/facial-recognition-uk-school-canteens-b1940109.html)
 - Oct 18 - [A difficult case: Diagnosis made by hallucinatory voices](https://www.bmj.com/content/315/7123/1685)
+- Oct 18 - [AWS is playing chess, Cloudflare is playing Go](https://www.swyx.io/cloudflare-go/)
 - Oct 18 - [Is it time to rewrite the Operating System in Rust? – Bryan Cantrill (2018)](https://www.youtube.com/watch?v=HgtRAbE1nBM)
-- Oct 18 - [Issues we've encountered while building a Kafka based data processing pipeline](https://sixfold.medium.com/bringing-kafka-based-architecture-to-the-next-level-using-simple-postgresql-tables-415f1ff6076d)
-- Oct 18 - [Airbnb removes 80% of advertisements in Amsterdam after registration obligation](https://www.ruetir.com/2021/10/18/airbnb-removes-more-than-three-quarters-of-advertisements-in-amsterdam-after-registration-obligation/)
 <!--END_SECTION:hn-->
 
 ## activity
