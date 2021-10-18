@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 18 - [Apple’s new M1 Pro and M1 Max processors](https://www.theverge.com/2021/10/18/22726444/apple-m1-pro-max-chip-processor-arm-macbook-fastest)
+- Oct 18 - [Apple new airpods with Spatial Audio](https://www.apple.com/newsroom/2021/10/introducing-the-next-generation-of-airpods/)
 - Oct 18 - [Apple October Event](https://www.youtube.com/watch?v=exM1uajp--A)
 - Oct 18 - [MindsDB (YC W20) Is Hiring](https://www.ycombinator.com/companies/mindsdb/jobs/moM5HiX-technical-writer-sales-engineer)
 - Oct 18 - [Attorney General Orders Unregistered Crypto Lending Platforms to Exit NY](https://ag.ny.gov/press-release/2021/attorney-general-james-directs-unregistered-crypto-lending-platforms-cease)
-- Oct 18 - [AMD Laptops finally reach the 4k screen barrier](https://amd-now.com/amd-laptops-finally-reach-the-4k-screen-barrier-with-the-lenovo-thinkpad-t14s-gen-2-and-thinkpad-p14-gen-2/)
 <!--END_SECTION:hn-->
 
 ## activity
