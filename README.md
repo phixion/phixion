@@ -48,7 +48,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/github_activity.yml
 -->
 <!--RECENT_ACTIVITY:start-->
-1. Forked [phixion/lowlighter](https://github.com/phixion/lowlighter) from [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
+1. Starred [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat)
 <!--RECENT_ACTIVITY:end-->
 
 ## wakapi
