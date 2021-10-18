@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 18 - [Lake Tahoe hits a critically low water threshold](https://www.sfgate.com/renotahoe/article/Lake-Tahoe-drought-water-rim-algae-16533020.php)
-- Oct 18 - [The $10k Suppository](https://www.axios.com/indocin-suppository-drug-prices-assertio-zyla-egalet-3278e307-d900-475c-92c9-8e5ff828a7da.html)
-- Oct 18 - [What =delete means](https://quuxplusone.github.io/blog/2021/10/17/equals-delete-means/)
+- Oct 18 - [First model released by BigScience outperforms GPT-3 while being 16x smaller](https://huggingface.co/bigscience/T0pp)
+- Oct 18 - [New model proposes a filament-like magnetic tunnel encompassing the solar system](https://www.vice.com/en/article/93yex5/the-earth-is-inside-an-enormous-cosmic-tunnel-new-research-proposes)
+- Oct 18 - [Arthritis drug that cost $198 in 2008 is now more than $10k](https://www.axios.com/indocin-suppository-drug-prices-assertio-zyla-egalet-3278e307-d900-475c-92c9-8e5ff828a7da.html)
 - Oct 18 - [Unflow (YC S19) Is Hiring iOS Engineer to Join Early Monzo and Intercom Team](https://www.ycombinator.com/companies/unflow/jobs/xY3DJ1O-ios-engineer)
-- Oct 18 - [Show HN: Dev's Full Stack Nightmare (an accurate representation)](https://sleepy-meadow-72878.herokuapp.com/)
 <!--END_SECTION:hn-->
 
 ## activity
