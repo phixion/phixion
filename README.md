@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 18 - [MindsDB (YC W20) Is Hiring](https://www.ycombinator.com/companies/mindsdb/jobs/moM5HiX-technical-writer-sales-engineer)
+- Oct 18 - [Attorney General Orders Unregistered Crypto Lending Platforms to Exit NY](https://ag.ny.gov/press-release/2021/attorney-general-james-directs-unregistered-crypto-lending-platforms-cease)
+- Oct 18 - [AMD Laptops finally reach the 4k screen barrier](https://amd-now.com/amd-laptops-finally-reach-the-4k-screen-barrier-with-the-lenovo-thinkpad-t14s-gen-2-and-thinkpad-p14-gen-2/)
 - Oct 18 - [Tests aren’t enough: Case study after adding type hints to urllib3](https://sethmlarson.dev/blog/2021-10-18/tests-arent-enough-case-study-after-adding-types-to-urllib3)
 - Oct 18 - [Facebook will count one person as two on its platform](https://www.indiehackers.com/post/facebook-will-count-one-person-as-two-on-its-platform-03784c81f6)
-- Oct 18 - [Code CAD – Use code to create CAD models](https://cadhub.xyz/u/caterpillar/moving_fish/ide)
-- Oct 18 - [My Framework for Building Side Projects as a Solo Developer](https://raumet.com/framework)
-- Oct 18 - [DuckDuckGo has had 0 search warrants (of any kind) since founding in 2008](https://twitter.com/DuckDuckGo/status/1447559362906447874)
 <!--END_SECTION:hn-->
 
 ## activity
