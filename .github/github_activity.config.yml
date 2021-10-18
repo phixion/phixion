@@ -1,11 +1,8 @@
 settings:
   username: "phixion"
   commit_msg: "⚡update this repo's README.md with github statistics"
-  max_lines: 15
+  max_lines: 5
   readme_file: "./README.md"
-  disabled_events:
-    - "star"
-    - "comments"
   url_text: "{REPO}{ID}"
   date:
     timezone: "GMT+00:00"
