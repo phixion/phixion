@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 17 - [L0phtCrack Is Now Open Source](https://l0phtcrack.gitlab.io/)
 - Oct 17 - [Of Scarface and the Nobel – The Double Life of Mariel](https://adamtooze.com/2021/10/12/chartbook-45-of-scarface-the-nobel-the-double-life-of-mariel/)
 - Oct 17 - [Fixed Point Arithmetic](https://vha3.github.io/FixedPoint/FixedPoint.html)
 - Oct 17 - [Travel on Airless Worlds (2014)](http://hopsblog-hop.blogspot.com/2014/06/travel-on-airless-worlds.html)
 - Oct 17 - [‘The Billion Dollar Code’: Developers Who Sued Over Google Earth Algorithm](https://decider.com/2021/10/07/the-billion-dollar-code-netflix-review/)
-- Oct 17 - [Show HN: Qvm-Create-Windows-Qube: The most secure and private way to run Windows](https://github.com/elliotkillick/qvm-create-windows-qube)
 <!--END_SECTION:hn-->
 
 ## activity
