@@ -16,6 +16,7 @@ jobs:
           user: phixion
           template: classic
           config_display: large
+          filename: metrics.svg
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Berlin
           plugin_achievements: yes
@@ -30,8 +31,7 @@ jobs:
           plugin_languages_recent.load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          committer_gist: ${{ secrets.METRICS_GIST }}
-          output_action: "gist"
+          output_action: commit
           optimize: yes
           config_gemoji: yes
           config_animations: yes
