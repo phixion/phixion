@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 18 - [Thank HN: 7 years and $7M later, it all started right here](https://news.ycombinator.com/item?id=28902215)
-- Oct 18 - [Why the ‘Big Short’ Guys Think Bitcoin Is a Bubble](https://nymag.com/intelligencer/2021/10/why-the-big-short-guys-think-bitcoin-is-a-bubble.html)
 - Oct 18 - [Seashells: Pipe output from command-line programs to the web in real-time](https://seashells.io/)
 - Oct 18 - [Pop OS – System76](https://pop.system76.com/)
 - Oct 18 - [Awesome-loginless: internet services that don't require registrations](https://github.com/fiatjaf/awesome-loginless)
+- Oct 18 - [Show HN: I built a sonar into my surfboard](https://foobarbecue.github.io/surfsonar/)
 <!--END_SECTION:hn-->
 
 ## activity
