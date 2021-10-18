@@ -35,11 +35,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 18 - [Tests aren’t enough: Case study after adding type hints to urllib3](https://sethmlarson.dev/blog/2021-10-18/tests-arent-enough-case-study-after-adding-types-to-urllib3)
+- Oct 18 - [Facebook will count one person as two on its platform](https://www.indiehackers.com/post/facebook-will-count-one-person-as-two-on-its-platform-03784c81f6)
+- Oct 18 - [Code CAD – Use code to create CAD models](https://cadhub.xyz/u/caterpillar/moving_fish/ide)
 - Oct 18 - [My Framework for Building Side Projects as a Solo Developer](https://raumet.com/framework)
-- Oct 18 - [DeepMind open-sourcing MuJoCo simulator](https://deepmind.com/blog/announcements/mujoco)
-- Oct 18 - [The wealthiest 10% of Americans own a record 89% of all U.S. stocks](https://www.cnbc.com/2021/10/18/the-wealthiest-10percent-of-americans-own-a-record-89percent-of-all-us-stocks.html)
-- Oct 18 - [Binance just transferred 6B Tethers to an unknown address](https://twitter.com/whale_alert/status/1450005292599726083)
-- Oct 18 - [Sequoia PGP is now LGPL 2.0](https://sequoia-pgp.org/blog/2021/10/18/202110-sequoia-pgp-is-now-lgpl-2.0/)
+- Oct 18 - [DuckDuckGo has had 0 search warrants (of any kind) since founding in 2008](https://twitter.com/DuckDuckGo/status/1447559362906447874)
 <!--END_SECTION:hn-->
 
 ## activity
