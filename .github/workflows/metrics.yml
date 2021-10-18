@@ -15,7 +15,7 @@ jobs:
           # Options
           user: phixion
           template: classic
-          display: large
+          config_display: large
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Berlin
           plugin_achievements: yes
