@@ -36,10 +36,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 18 - [Ambition (YC W14) Is Hiring Python Engineers and a QA Analyst](https://ambition.com/careers/)
-- Oct 18 - [Tesla Shares Are Roaring Back](https://www.bloombergquint.com/business/tesla-shares-roaring-back-set-for-50-gain-from-march-lows)
 - Oct 18 - [Physicists make most precise measurement ever of neutron’s lifetime](https://www.nature.com/articles/d41586-021-02812-z)
 - Oct 18 - [My indoor rowing tips after 15M meters](https://onlyrss.org/posts/my-rowing-tips-after-15-million-meters.html)
 - Oct 18 - [Conspiracy Theories and Religion: Reframing Conspiracy Theories as Bliks](https://www.cambridge.org/core/journals/episteme/article/abs/conspiracy-theories-and-religion-reframing-conspiracy-theories-as-bliks/5C6A020BDEEC2BFB3189120A15CFCB73)
+- Oct 18 - [Building on soil in Big Sandy: Regenerative organic farming in rural Montana](https://montanafreepress.org/2021/10/14/building-on-soil-in-big-sandy-regenerative-organic-agriculture/)
 <!--END_SECTION:hn-->
 
 ## activity
