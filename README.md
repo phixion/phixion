@@ -36,7 +36,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 18 - [Show HN: Simple access to your music from the web](https://github.com/DusteDdk/dstream)
-- Oct 18 - [Apple’s New iPad Mini](https://www.apple.com/ipad-mini/specs/)
+- Oct 18 - [No ink, no scan: Canon USA printers hit with class-action suit](https://www.zdnet.com/article/untrustworthy-canon-printer-lawsuit/)
 - Oct 18 - [Expensify S-1](https://www.sec.gov/Archives/edgar/data/1476840/000162828021020115/expensifys-1.htm)
 - Oct 18 - [Stop Equating “Science” with Truth (2017)](https://slate.com/technology/2017/08/evolutionary-psychology-is-the-most-obvious-example-of-how-science-is-flawed.html)
 - Oct 18 - [MacBook Pro 14-inch and MacBook Pro 16-inch](https://www.apple.com/macbook-pro-14-and-16/)
