@@ -1,17 +1,14 @@
-# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
-  # Schedule updates (each hour)
-  schedule: [{ cron: "0 * * * *" }]
-  workflow_dispatch:
-  push: { branches: ["main"] }
+  schedule:
+    - cron: "*/30 * * * *"
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           # Options
           user: phixion
           template: classic
