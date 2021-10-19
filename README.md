@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 19 - [A Graduate Course in Applied Cryptography [pdf]](https://toc.cryptobook.us/book.pdf)
+- Oct 19 - [Apple’s Gaming Revenue Reportedly Exceeds Sony, Microsoft and Nintendo Combined](https://hypebeast.com/2021/10/apple-gaming-revenue-report-wall-street-journal)
+- Oct 19 - [A Graduate Course in Applied Cryptography [pdf] (2020)](https://toc.cryptobook.us/book.pdf)
+- Oct 19 - [You shouldn't invoke setup.py directly](https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html)
 - Oct 19 - [Recovering locked Facebook accounts is a nightmare. That’s on purpose](https://www.washingtonpost.com/technology/2021/09/29/hacked-social-media-account/)
 - Oct 19 - [AWS Communism: How we cut our Load Balancing cost by more than 96%](https://www.setops.co/blog/aws-communism-part-1-how-we-cut-our-load-balancing-cost)
-- Oct 19 - [The Day My Script Killed 10k Phones in South America](https://new.pythonforengineers.com/blog/the-day-i/)
-- Oct 19 - [How to Create a SaaS and Compete with the Big Players as a Solo Founder](https://www.mikealche.com/product-development/an-underdog-guide-to-creating-alternative-in-markets)
 <!--END_SECTION:hn-->
 
 <!--
