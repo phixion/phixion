@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 19 - [Spork: Peer-to-peer socket magic in the air](https://spork.sh/)
 - Oct 19 - [Big Ball of Mud](http://laputan.org/mud/mud.html)
 - Oct 19 - [Cue: A new language for data validation](https://cuelang.org/)
 - Oct 19 - [Printf(“%s %s”, dependency, injection)](https://www.fredrikholmqvist.com/posts/print-dependency-injection/)
 - Oct 19 - [Raspberry Pi Build HAT – Controls Lego Technic motors and sensors](https://www.raspberrypi.com/news/raspberry-pi-build-hat-lego-education/)
-- Oct 19 - [Star's strange path around black hole proves Einstein right – again](https://www.science.org/content/article/star-s-strange-path-around-black-hole-proves-einstein-right-again)
 <!--END_SECTION:hn-->
 
 <!--
