@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 19 - [New Algorithm Searches Historic Documents to Identify Noteworthy People](http://www.buffalo.edu/ubnow/campus.host.html/content/shared/university/news/ub-reporter-articles/stories/2021/10/algorithm-historical-documents.detail.html)
+- Oct 19 - [Version Control for Structure Editing](https://alarmingdevelopment.org/?p=1570)
+- Oct 19 - [Michael Tomczyk: Commodore Vic-20 Developer, Computer Pioneer](https://talesfromthecollection.com/2021/10/19/michael-tomczyk-commodore/)
 - Oct 19 - [Benjamin Button Reviews the New MacBook Pro 2022 (2016)](https://blog.pinboard.in/2016/10/benjamin_button_reviews_the_new_macbook_pro/)
 - Oct 19 - [Five Things We Still Don’t Know About Water](https://nautil.us/issue/25/water/five-things-we-still-dont-know-about-water)
-- Oct 19 - [Aspirin About-Face](https://davidepstein.bulletin.com/563262208234593/)
-- Oct 19 - [Google Pixel 6 and Pixel 6 Pro](https://store.google.com/category/phones?hl=en-US)
-- Oct 19 - [The FDA wants you to be able to buy a hearing aid without a prescription](https://text.npr.org/1047303559)
 <!--END_SECTION:hn-->
 
 <!--
