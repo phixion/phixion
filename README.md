@@ -19,7 +19,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 19 - [Polishing Cloth](https://www.apple.com/shop/product/MM6F3AM/A/polishing-cloth)
+- Oct 19 - [First Geekbench for MacBook Pro M1 Max with 2x Faster Multi-Core Performance](https://www.macrumors.com/2021/10/18/first-m1-max-geekbench-score-surfaces/)
 - Oct 19 - [Redis Anti-Patterns Every Developer Should Avoid](https://developer.redis.com/howtos/antipatterns/)
 - Oct 19 - [The SaaS Metrics That Matter](https://sacks.substack.com/p/the-saas-metrics-that-matter)
 - Oct 19 - [David Zucker reflects on "Airplane!" in 2021](https://www.commentary.org/articles/david-zucker/wokeness_destroys-comedy/)
