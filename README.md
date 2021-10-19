@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 19 - [Becoming a Whorelord: The Overly Analytical Guide to Escorting](https://knowingless.com/2021/10/19/becoming-a-whorelord-the-overly-analytical-guide-to-escorting/)
 - Oct 19 - [Single sign-on and identity for government services: What we've learned so far](https://gds.blog.gov.uk/2021/10/19/single-sign-on-what-we-learned-during-our-identity-alpha/)
 - Oct 19 - [Gell-Mann amnesia and its opposite](https://www.johndcook.com/blog/2021/01/18/gell-mann-amnesia/)
 - Oct 19 - [SFC files lawsuit against Vizio Inc. for GPL violations](https://sfconservancy.org/copyleft-compliance/vizio.html?s=03)
 - Oct 19 - [OneSignal (YC S11) is hiring for sales, product management, and engineering](https://onesignal.com/careers)
-- Oct 19 - [You probably shouldn’t add a CLA to your open source project (2018)](https://ben.balter.com/2018/01/02/why-you-probably-shouldnt-add-a-cla-to-your-open-source-project/)
 <!--END_SECTION:hn-->
 
 <!--
