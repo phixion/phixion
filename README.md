@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 19 - [Cue: A new language for data validation](https://cuelang.org/)
+- Oct 19 - [Printf(“%s %s”, dependency, injection)](https://www.fredrikholmqvist.com/posts/print-dependency-injection/)
 - Oct 19 - [Raspberry Pi Build HAT – Controls Lego Technic motors and sensors](https://www.raspberrypi.com/news/raspberry-pi-build-hat-lego-education/)
 - Oct 19 - [Star's strange path around black hole proves Einstein right – again](https://www.science.org/content/article/star-s-strange-path-around-black-hole-proves-einstein-right-again)
-- Oct 19 - [First Geekbench for MacBook Pro M1 Max with 2x Faster Multi-Core Performance](https://www.macrumors.com/2021/10/18/first-m1-max-geekbench-score-surfaces/)
-- Oct 19 - [Redis Anti-Patterns Every Developer Should Avoid](https://developer.redis.com/howtos/antipatterns/)
-- Oct 19 - [The SaaS Metrics That Matter](https://sacks.substack.com/p/the-saas-metrics-that-matter)
+- Oct 19 - [Vector-based pedestrian navigation in cities](https://www.nature.com/articles/s43588-021-00130-y)
 <!--END_SECTION:hn-->
 
 <!--
