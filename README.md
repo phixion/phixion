@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 19 - [David Zucker reflects on "Airplane!" in 2021](https://www.commentary.org/articles/david-zucker/wokeness_destroys-comedy/)
 - Oct 19 - [DIY Airless Bicycle Tire](https://www.core77.com/posts/110314/DIY-Airless-Bicycle-Tires)
 - Oct 19 - [Transplanting the Mac’s Central Processor: Gary Davidian and His 68000 Emulator](https://computerhistory.org/blog/transplanting-the-macs-central-processor-gary-davidian-and-his-68000-emulator/)
 - Oct 19 - [94% of the universe’s galaxies are permanently beyond our reach](https://bigthink.com/starts-with-a-bang/universes-galaxies-unreachable/)
 - Oct 19 - [SigNoz (YC W21) Is Hiring a senior back-end engineer](https://www.ycombinator.com/companies/signoz/jobs/uCt5BQw-founding-sr-backend-engineer)
-- Oct 19 - [Victorian gas lamps that sold cups of hot coffee (2012)](https://www.ianvisits.co.uk/blog/2012/10/01/the-victorian-gas-lamps-that-sold-cups-of-hot-coffee/)
 <!--END_SECTION:hn-->
 
 <!--
