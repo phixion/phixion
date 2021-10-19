@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 19 - [AWS Communism: How we cut our Load Balancing cost by more than 96%](https://www.setops.co/blog/aws-communism-part-1-how-we-cut-our-load-balancing-cost)
 - Oct 19 - [The Day My Script Killed 10k Phones in South America](https://new.pythonforengineers.com/blog/the-day-i/)
 - Oct 19 - [How to Create a SaaS and Compete with the Big Players as a Solo Founder](https://www.mikealche.com/product-development/an-underdog-guide-to-creating-alternative-in-markets)
 - Oct 19 - [Reflect (YC S20) is hiring a software engineer to modernize web testing](https://www.workatastartup.com/jobs/46431)
 - Oct 19 - [Deleting an S3 Bucket Costs Money](https://cloudcasts.io/article/deleting-an-s3-bucket-costs-money)
-- Oct 19 - [How the brain navigates cities](https://news.mit.edu/2021/how-brain-navigates-cities-1018)
 <!--END_SECTION:hn-->
 
 <!--
