@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 19 - [How Facebook Hides How Terrible It Is with Hate Speech](https://www.wired.com/story/facebooks-deceptive-math-when-it-comes-to-hate-speech/)
 - Oct 19 - [Hacker steals government ID database for Argentina's entire population](https://therecord.media/hacker-steals-government-id-database-for-argentinas-entire-population/)
 - Oct 19 - [Heron Data (YC S20) Is Hiring a Full-Stack Engineer (London)](https://www.ycombinator.com/companies/heron-data/jobs/kN46lMk-software-engineer)
 - Oct 19 - [Three hours to save Integral spacecraft](https://www.esa.int/Enabling_Support/Operations/Three_hours_to_save_Integral)
 - Oct 19 - [Nim 1.6](https://nim-lang.org/blog/2021/10/19/version-160-released.html)
+- Oct 19 - [Israeli diver finds 900-year-old sword, said to be Crusader knight’s weapon](https://www.washingtonpost.com/world/2021/10/19/900-year-old-crusader-sword-israel/)
 <!--END_SECTION:hn-->
 
 <!--
