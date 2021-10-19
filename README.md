@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 19 - [Jitx (YC S18) is hiring software engineers to automate circuit board design](https://www.jitx.com/careers)
+- Oct 19 - [More than 99.9% of studies agree: Humans caused climate change](https://news.cornell.edu/stories/2021/10/more-999-studies-agree-humans-caused-climate-change)
 - Oct 19 - [Function pipelines: Building functional programming into PostgreSQL](https://blog.timescale.com/blog/function-pipelines-building-functional-programming-into-postgresql-using-custom-operators/)
 - Oct 19 - [Show HN: Datree (YC W20): Prevent K8s misconfigurations from reaching production](https://news.ycombinator.com/item?id=28918850)
-- Oct 19 - [Former Netflix exec facing 7 years in prison is a cautionary tale for startups](https://www.businessofbusiness.com/articles/why-a-former-netflix-exec-facing-7-years-in-prison-for-bribery-is-a-cautionary-tale-for-startups/)
-- Oct 19 - [A Graduate Course in Applied Cryptography [pdf] (2020)](https://toc.cryptobook.us/book.pdf)
-- Oct 19 - [Working Multiple Jobs](https://avc.com/2021/10/working-multiple-jobs/)
+- Oct 19 - [Former Netflix executive convicted of receiving bribes from contractors](https://www.justice.gov/usao-ndca/pr/former-netflix-executive-convicted-receiving-bribes-and-kickbacks-companies-contracting)
 <!--END_SECTION:hn-->
 
 <!--
