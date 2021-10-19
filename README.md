@@ -21,9 +21,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Oct 19 - [Heron Data (YC S20) Is Hiring a Full-Stack Engineer (London)](https://www.ycombinator.com/companies/heron-data/jobs/kN46lMk-software-engineer)
 - Oct 19 - [Nim 1.6](https://nim-lang.org/blog/2021/10/19/version-160-released.html)
+- Oct 19 - [Israeli diver finds 900-year-old sword, said to be Crusader knight’s weapon](https://www.washingtonpost.com/world/2021/10/19/900-year-old-crusader-sword-israel/)
 - Oct 19 - [Spork: Peer-to-peer socket magic in the air](https://spork.sh/)
 - Oct 19 - [Big Ball of Mud](http://laputan.org/mud/mud.html)
-- Oct 19 - [Cue: A new language for data validation](https://cuelang.org/)
 <!--END_SECTION:hn-->
 
 <!--
