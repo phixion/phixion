@@ -21,9 +21,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Oct 19 - [The SaaS Metrics That Matter](https://sacks.substack.com/p/the-saas-metrics-that-matter)
 - Oct 19 - [David Zucker reflects on "Airplane!" in 2021](https://www.commentary.org/articles/david-zucker/wokeness_destroys-comedy/)
-- Oct 19 - [DIY Airless Bicycle Tire](https://www.core77.com/posts/110314/DIY-Airless-Bicycle-Tires)
 - Oct 19 - [Dense Vectors: Capturing Meaning with Code](https://www.pinecone.io/learn/dense-vector-embeddings-nlp/)
 - Oct 19 - [Transplanting the Mac’s Central Processor: Gary Davidian and His 68000 Emulator](https://computerhistory.org/blog/transplanting-the-macs-central-processor-gary-davidian-and-his-68000-emulator/)
+- Oct 19 - [94% of the universe’s galaxies are permanently beyond our reach](https://bigthink.com/starts-with-a-bang/universes-galaxies-unreachable/)
 <!--END_SECTION:hn-->
 
 <!--
