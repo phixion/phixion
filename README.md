@@ -21,9 +21,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Oct 20 - [10 ways to get the best out of OpenSCAD](https://calbryant.uk/blog/10-ways-to-get-the-best-out-of-openscad/)
 - Oct 20 - [Tech Salaries Fall in Bay Area, New York City, Rise in Austin, San Diego](https://www.bloomberg.com/news/articles/2021-10-19/new-york-san-francisco-see-tech-salaries-slip-amid-remote-work)
+- Oct 20 - [Multics PL/I](https://multicians.org/pl1.html)
 - Oct 20 - [Head of California's largest union arrested for theft, fraud](https://www.mercurynews.com/2021/10/15/head-of-californias-largest-union-arrested-on-theft-fraud-charges/)
 - Oct 20 - [Tesla earned $1.6B in the third quarter as car sales surged](https://www.nytimes.com/2021/10/20/business/tesla-earnings.html)
-- Oct 20 - [Theranos devices ran “null protocol” to skip actual demo for investors](https://arstechnica.com/tech-policy/2021/10/theranos-devices-ran-demo-apps-that-blocked-error-messages-during-investor-pitches/)
 <!--END_SECTION:hn-->
 
 <!--
