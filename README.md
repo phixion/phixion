@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 20 - [Peter Thiel: Bitcoin at $60k a sure sign political system is about to implode](https://markets.businessinsider.com/news/currencies/peter-thiel-bitcoin-60000-report-us-political-system-unsustainable-cryptocurrencies-2021-10)
+- Oct 20 - [Flow Club (YC S21) is hiring across engineering, design, and ops](https://flowclub.notion.site/Work-at-Flow-Club-1e6cc84bfc0d4463ab333ee9bc02c46a)
 - Oct 20 - [Vscode.dev](https://code.visualstudio.com/blogs/2021/10/20/vscode-dev)
+- Oct 20 - [Museum Starts OnlyFans Account After Its TikTok Is Banned for Posting Nudes](https://www.vice.com/en/article/93b995/museum-starts-onlyfans-account-after-its-tiktok-is-banned-for-posting-nudes)
 - Oct 20 - [All Atari Games](https://voxodyssey.com/atari-2600)
 - Oct 20 - [Lavish wealth tolerated more for individuals than groups](https://news.cornell.edu/stories/2021/10/lavish-wealth-tolerated-more-individuals-groups)
-- Oct 20 - [Conservation should be allowed to pay its own way on public lands](https://legal-planet.org/2021/08/27/science-article-argues-that-conservation-should-be-allowed-to-pay-its-own-way-on-public-lands/)
 <!--END_SECTION:hn-->
 
 <!--
