@@ -25,7 +25,8 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: year
           plugin_languages: yes
-          plugin_languages_colors: github
+          plugin_languages_indepth: yes
+          plugin_languages_colors: complementary
           plugin_languages_limit: 8
           plugin_languages_recent.days: 14
           plugin_languages_recent.load: 300
@@ -63,5 +64,7 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.METRICS_WAKATIME_TOKEN }}
           plugin_wakatime_user: ${{ secrets.METRICS_WAKATIME_USER }}
-          plugin_wakatime_sections: time, languages-graphs, editors, os
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakapi.dev
+          plugin_wakatime_days: 365
+          plugin_wakatime_limit: 5
