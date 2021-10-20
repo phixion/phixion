@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 20 - [Valorant's anti-cheat system requires TPM 2.0 and secure boot on Windows 11](https://www.techspot.com/news/91138-valorant-anti-cheat-system-requires-tpm-20-secure.html)
+- Oct 20 - [California ports among world’s least efficient, ranking shows](https://www.reuters.com/world/us/california-ports-key-us-supply-chain-among-worlds-least-efficient-2021-10-20/)
+- Oct 20 - [Bioelektryczność – Polish Robotics (1968) [video]](https://www.youtube.com/watch?v=NjrYk546uBA)
 - Oct 20 - [Eliminating Gifted Programs Won’t Make Education Fair](https://americasfuture.org/eliminating-gifted-programs-wont-make-education-fair/)
 - Oct 20 - [The determined math tutor teaching calculus on Pornhub](https://melmagazine.com/en-us/story/math-lessons-on-pornhub)
-- Oct 20 - [Playstation 3 Architecture](https://www.copetti.org/writings/consoles/playstation-3/)
-- Oct 20 - [Vikings were in North America in 1021, latest research shows](https://www.nature.com/articles/s41586-021-03972-8)
-- Oct 20 - [U.S. Tightens Export Controls on Items Used in Surveillance of Private Citizens](https://www.commerce.gov/news/press-releases/2021/10/commerce-tightens-export-controls-items-used-surveillance-private)
 <!--END_SECTION:hn-->
 
 <!--
