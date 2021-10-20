@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 20 - [Tracking the White House YouTube channel](https://81m.org/)
+- Oct 20 - [Vikings were in North America in 1021, latest research shows](https://www.nature.com/articles/s41586-021-03972-8)
 - Oct 20 - [U.S. Tightens Export Controls on Items Used in Surveillance of Private Citizens](https://www.commerce.gov/news/press-releases/2021/10/commerce-tightens-export-controls-items-used-surveillance-private)
 - Oct 20 - [Apple M1 Max Geekbench Score](https://browser.geekbench.com/v5/cpu/10496766)
+- Oct 20 - [We Analyzed 425,909 Favicons](https://iconmap.io/blog)
 - Oct 20 - [WHO asks South African startup to replicate Moderna's mRNA vaccine](https://www.npr.org/sections/goatsandsoda/2021/10/19/1047411856/the-great-vaccine-bake-off-has-begun)
-- Oct 20 - [Flow Club (YC S21) is hiring across engineering, design, and ops](https://flowclub.notion.site/Work-at-Flow-Club-1e6cc84bfc0d4463ab333ee9bc02c46a)
 <!--END_SECTION:hn-->
 
 <!--
