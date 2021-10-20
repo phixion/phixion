@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 20 - [Optimizations Enabled by -ffast-Math](https://kristerw.github.io/2021/10/19/fast-math/)
 - Oct 20 - [Code quality: a concern for businesses, bottom lines, and empathetic programmers](https://stackoverflow.blog/2021/10/18/code-quality-a-concern-for-businesses-bottom-lines-and-empathetic-programmers/)
+- Oct 20 - [WARNING: Avoid all links to kicad-pcb.org – Use kicad.org](https://forum.kicad.info/t/warning-avoid-all-links-to-kicad-pcb-org-use-kicad-org/31521)
 - Oct 20 - [Brave Search replaces Google as default search engine in the Brave browser](https://brave.com/search-and-web-discovery/)
-- Oct 20 - [A drone company is working to airlift dogs stranded by the volcano in La Palma](https://www.npr.org/2021/10/19/1047360268/drone-rescue-dogs-volcano-la-palma-spain)
-- Oct 20 - [Simple Linux kernel memory corruption bug can lead to complete system compromise](https://googleprojectzero.blogspot.com/2021/10/how-simple-linux-kernel-memory.html)
-- Oct 20 - [Five U.S. lawmakers accuse Amazon of possibly lying to Congress](https://www.reuters.com/technology/five-us-lawmakers-accuse-amazon-possibly-lying-congress-following-reuters-report-2021-10-18/)
+- Oct 20 - [UserTesting S-1](https://sec.report/Document/0001628280-21-020026/usertestingincs-1.htm)
 <!--END_SECTION:hn-->
 
 <!--
