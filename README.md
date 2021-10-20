@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 20 - [Netflix braces for staff walkout and LGBTQ rally over Chappelle special](https://news.yahoo.com/netflix-braces-staff-walkout-lgbtq-093600008.html)
+- Oct 20 - [Worn-out nurses hit the road for better pay, stressing hospital budgets, morale](https://text.npr.org/1046131313)
+- Oct 20 - [Is APL Dead?](https://www.sacrideo.us/is-apl-dead/)
+- Oct 20 - [About that time I had an outburst during the Y Combinator Interview](https://owlpal.substack.com/p/about-that-time-i-had-an-outburst)
 - Oct 20 - [One Month (YC S13) Is Hiring a Teacher's Assistant (HTML, JavaScript, Python)](https://forms.gle/Vy5qAi9AmujxjFJB6)
-- Oct 20 - [List of IEEE Milestones](https://ethw.org/Milestones:List_of_IEEE_Milestones)
-- Oct 20 - [Trustworthy Computing in 2021](https://ariadne.space/2021/10/19/trustworthy-computing-in-2021/)
-- Oct 20 - [Facebook fined £50.5m for breaching order in Giphy takeover investigation](https://www.theguardian.com/technology/2021/oct/20/facebook-fined-for-breaching-order-in-giphy-takeover-investigation)
-- Oct 20 - [Carbon-neutrality is a tale: the race for renewables is burning Europe's forests](https://www.theguardian.com/world/2021/jan/14/carbon-neutrality-is-a-fairy-tale-how-the-race-for-renewables-is-burning-europes-forests)
 <!--END_SECTION:hn-->
 
 <!--
