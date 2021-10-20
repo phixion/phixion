@@ -23,7 +23,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 20 - [AI can see through you: CEOs' language under machine microscope](https://www.reuters.com/technology/ai-can-see-through-you-ceos-language-under-machine-microscope-2021-10-20/)
 - Oct 20 - [I found an Amazon folder with thousands of audio recordings from my home gadgets](https://nypost.com/2021/10/19/i-found-an-amazon-folder-with-thousands-of-audio-recordings-from-my-home-gadgets/)
 - Oct 20 - [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
-- Oct 20 - [Collection of real world database schemas from open-source packages](https://drawsql.app/templates)
+- Oct 20 - [Google, Mozilla Close to Finalizing Sanitizer API for Chrome and Firefox Browse](https://portswigger.net/daily-swig/google-mozilla-close-to-finalizing-sanitizer-api-for-chrome-and-firefox-browsers)
 <!--END_SECTION:hn-->
 
 <!--
