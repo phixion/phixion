@@ -22,8 +22,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 20 - [All Atari Games](https://voxodyssey.com/atari-2600)
 - Oct 20 - [Lavish wealth tolerated more for individuals than groups](https://news.cornell.edu/stories/2021/10/lavish-wealth-tolerated-more-individuals-groups)
 - Oct 20 - [Conservation should be allowed to pay its own way on public lands](https://legal-planet.org/2021/08/27/science-article-argues-that-conservation-should-be-allowed-to-pay-its-own-way-on-public-lands/)
-- Oct 20 - [Is Nim a Transpiler?](https://peterme.net/is-nim-a-transpiler.html)
 - Oct 20 - [Leaded fuel reduced IQ of children born before 1990](https://twitter.com/emollick/status/1450591638796087296)
+- Oct 20 - [Facebook plans to change its name as part of company rebrand](https://www.theguardian.com/technology/2021/oct/20/facebook-plans-to-change-its-name-as-part-of-company-rebrand-report)
 <!--END_SECTION:hn-->
 
 <!--
