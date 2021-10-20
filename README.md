@@ -22,8 +22,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 20 - [Flow Club (YC S21) is hiring across engineering, design, and ops](https://flowclub.notion.site/Work-at-Flow-Club-1e6cc84bfc0d4463ab333ee9bc02c46a)
 - Oct 20 - [Vscode.dev](https://code.visualstudio.com/blogs/2021/10/20/vscode-dev)
 - Oct 20 - [Museum Starts OnlyFans Account After Its TikTok Is Banned for Posting Nudes](https://www.vice.com/en/article/93b995/museum-starts-onlyfans-account-after-its-tiktok-is-banned-for-posting-nudes)
+- Oct 20 - [Android Apps on Windows 11 to Windows Insiders](https://blogs.windows.com/windows-insider/2021/10/20/introducing-android-apps-on-windows-11-to-windows-insiders/)
 - Oct 20 - [All Atari Games](https://voxodyssey.com/atari-2600)
-- Oct 20 - [Lavish wealth tolerated more for individuals than groups](https://news.cornell.edu/stories/2021/10/lavish-wealth-tolerated-more-individuals-groups)
 <!--END_SECTION:hn-->
 
 <!--
