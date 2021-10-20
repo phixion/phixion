@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 20 - [Facebook plans to change its name as part of company rebrand](https://www.theguardian.com/technology/2021/oct/20/facebook-plans-to-change-its-name-as-part-of-company-rebrand-report)
+- Oct 20 - [Conservation should be allowed to pay its own way on public lands](https://legal-planet.org/2021/08/27/science-article-argues-that-conservation-should-be-allowed-to-pay-its-own-way-on-public-lands/)
+- Oct 20 - [Is Nim a Transpiler?](https://peterme.net/is-nim-a-transpiler.html)
+- Oct 20 - [Leaded fuel reduced IQ of children born before 1990](https://twitter.com/emollick/status/1450591638796087296)
+- Oct 20 - [Builder Pattern in Rust](https://www.greyblake.com/blog/2021-10-19-builder-pattern-in-rust/)
 - Oct 20 - [Verilog Simulation with Verilator and SDL](https://projectf.io/posts/verilog-sim-verilator-sdl/)
-- Oct 20 - [Facebook settles federal lawsuit over allegations it favored foreign applicants](https://www.npr.org/2021/10/19/1047354380/facebook-settles-a-federal-lawsuit-over-allegations-it-favored-foreign-job-appli)
-- Oct 20 - [A Talk with Computer Gaming Pioneer Walter Bright About Empire](https://madned.substack.com/p/a-talk-with-computer-gaming-pioneer)
-- Oct 20 - [Is APL Dead?](https://www.sacrideo.us/is-apl-dead/)
 <!--END_SECTION:hn-->
 
 <!--
