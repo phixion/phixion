@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 20 - [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
 - Oct 20 - [Optimizations Enabled by -ffast-Math](https://kristerw.github.io/2021/10/19/fast-math/)
 - Oct 20 - [Code quality: a concern for businesses, bottom lines, and empathetic programmers](https://stackoverflow.blog/2021/10/18/code-quality-a-concern-for-businesses-bottom-lines-and-empathetic-programmers/)
 - Oct 20 - [WARNING: Avoid all links to kicad-pcb.org – Use kicad.org](https://forum.kicad.info/t/warning-avoid-all-links-to-kicad-pcb-org-use-kicad-org/31521)
 - Oct 20 - [Brave Search replaces Google as default search engine in the Brave browser](https://brave.com/search-and-web-discovery/)
-- Oct 20 - [UserTesting S-1](https://sec.report/Document/0001628280-21-020026/usertestingincs-1.htm)
 <!--END_SECTION:hn-->
 
 <!--
