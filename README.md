@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 20 - [Tracking the White House YouTube channel](https://81m.org/)
+- Oct 20 - [U.S. Tightens Export Controls on Items Used in Surveillance of Private Citizens](https://www.commerce.gov/news/press-releases/2021/10/commerce-tightens-export-controls-items-used-surveillance-private)
 - Oct 20 - [Apple M1 Max Geekbench Score](https://browser.geekbench.com/v5/cpu/10496766)
-- Oct 20 - [Moderna won't share vaccine recipe. WHO has hired African startup to crack it](https://www.npr.org/sections/goatsandsoda/2021/10/19/1047411856/the-great-vaccine-bake-off-has-begun)
+- Oct 20 - [WHO asks South African startup to replicate Moderna's mRNA vaccine](https://www.npr.org/sections/goatsandsoda/2021/10/19/1047411856/the-great-vaccine-bake-off-has-begun)
 - Oct 20 - [Flow Club (YC S21) is hiring across engineering, design, and ops](https://flowclub.notion.site/Work-at-Flow-Club-1e6cc84bfc0d4463ab333ee9bc02c46a)
-- Oct 20 - [Vscode.dev](https://code.visualstudio.com/blogs/2021/10/20/vscode-dev)
-- Oct 20 - [Museum Starts OnlyFans Account After Its TikTok Is Banned for Posting Nudes](https://www.vice.com/en/article/93b995/museum-starts-onlyfans-account-after-its-tiktok-is-banned-for-posting-nudes)
 <!--END_SECTION:hn-->
 
 <!--
