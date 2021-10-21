@@ -19,7 +19,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 21 - [Facebook Can't Hide Its Problems Behind a New Name](https://www.wired.com/story/facebook-name-change-wont-fix-anything/)
+- Oct 21 - [TeamOut (YC W22) Is Hiring](https://news.ycombinator.com/item?id=28943172)
 - Oct 21 - [People Who Jump to Conclusions Show Other Kinds of Thinking Errors](https://www.scientificamerican.com/article/people-who-jump-to-conclusions-show-other-kinds-of-thinking-errors/)
 - Oct 21 - [78% of the Web Powered by PHP](https://haydenjames.io/78-of-the-web-powered-by-php-1-on-php-8/)
 - Oct 21 - [Explaining top(1) on FreeBSD](https://klarasystems.com/articles/explaining-top1-on-freebsd/)
