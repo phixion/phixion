@@ -20,10 +20,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 21 - [Yamaha DX7 Technical Analysis](https://ajxs.me/blog/Yamaha_DX7_Technical_Analysis.html)
-- Oct 21 - [Covid-19 Vaccines and the Menstrual Cycle](https://covid19.nih.gov/news-and-stories/covid-19-vaccines-and-menstrual-cycle)
 - Oct 21 - [Goggles: Democracy dies in darkness, and so does the Web [pdf]](https://brave.com/wp-content/uploads/2021/03/goggles.pdf)
 - Oct 21 - [Cosmopolitan Identiﬁers](https://obua.com/publications/cosmo-id/3/)
 - Oct 21 - [The History of Surveying](https://www.alifewithoutlimits.com.au/the-history-of-surveying/)
+- Oct 21 - [Mihalyi Csikszentmihalyi who recognised the psychological concept of flow died](https://twitter.com/sbkaufman/status/1450946151352471553)
 <!--END_SECTION:hn-->
 
 <!--
