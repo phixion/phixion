@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 21 - [Yamaha DX7 Technical Analysis](https://ajxs.me/blog/Yamaha_DX7_Technical_Analysis.html)
 - Oct 21 - [Goggles: Democracy dies in darkness, and so does the Web [pdf]](https://brave.com/wp-content/uploads/2021/03/goggles.pdf)
 - Oct 21 - [Cosmopolitan Identiﬁers](https://obua.com/publications/cosmo-id/3/)
 - Oct 21 - [The History of Surveying](https://www.alifewithoutlimits.com.au/the-history-of-surveying/)
 - Oct 21 - [Mihalyi Csikszentmihalyi who recognised the psychological concept of flow died](https://twitter.com/sbkaufman/status/1450946151352471553)
-- Oct 21 - [Greater than 99% consensus on human caused climate change in the literature](https://iopscience.iop.org/article/10.1088/1748-9326/ac2966)
 <!--END_SECTION:hn-->
 
 <!--
