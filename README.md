@@ -21,9 +21,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Oct 21 - [Cloudflare’s Pace of Innovation](https://blog.cloudflare.com/the-secret-to-cloudflare-pace-of-innovation/)
 - Oct 21 - [Banning anonymous social media accounts is not the answer to online abuse](https://phys.org/news/2021-10-anonymous-social-media-accounts-online.html)
+- Oct 21 - [WeWork is trying to go public – again](https://www.wsj.com/articles/wework-set-to-go-public-via-spac-deal-two-years-after-failed-ipo-11634808600)
 - Oct 21 - [All standard-range Teslas will now use cheaper LFP battery chemistry](https://arstechnica.com/cars/2021/10/tesla-made-1-6-billion-in-q3-is-switching-to-lfp-batteries-globally/)
-- Oct 21 - [TeamOut (YC W22) Is Hiring](https://news.ycombinator.com/item?id=28943172)
-- Oct 21 - [When to Use Goto](https://beej.us/guide/bgc/html/split/goto.html)
+- Oct 21 - [Ask HN: Do you tell your salary to people/family/friends outside your industry?](https://news.ycombinator.com/item?id=28943177)
 <!--END_SECTION:hn-->
 
 <!--
