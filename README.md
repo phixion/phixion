@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 21 - [iNotch for Gnome Shell](https://github.com/AlynxZhou/gnome-shell-extension-inotch)
 - Oct 21 - [Gtk4 Tutorial](https://github.com/ToshioCP/Gtk4-tutorial/blob/main/Readme.md)
 - Oct 21 - [Cannabis and Male Fertility: A Systematic Review](https://pubmed.ncbi.nlm.nih.gov/30916627/)
 - Oct 21 - [Alibaba Open Source XuanTie RISC-V Cores, Introduces In-House Armv9 Server Chip](https://fuse.wikichip.org/news/6413/alibaba-open-source-xuantie-risc-v-cores-introduces-in-house-armv9-server-chip/)
 - Oct 21 - [SwiftSku (YC W21) Is Hiring Account Executives](https://www.ycombinator.com/companies/swiftsku/jobs/YhllV1x-sales-account-executive)
-- Oct 21 - [Apple sends DMCA takedown for IP address](https://twitter.com/RayRedacted/status/1450712865552412675)
 <!--END_SECTION:hn-->
 
 <!--
