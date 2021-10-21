@@ -20,8 +20,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 21 - [The Methods of Moral Panic Journalism](https://michaelhobbes.substack.com/p/moral-panic-journalism)
+- Oct 21 - [Mihály CSíkszentmihályi – Flow Theory Architect – Dies Aged 88](https://hungarytoday.hu/mihaly-csikszentmihalyi-flow-theory-architect-dies/)
 - Oct 21 - [Docs for Developers: An Engineer’s Field Guide to Technical Writing](https://www.apress.com/gp/book/9781484272169)
-- Oct 21 - [Western Maryland asks West Virginia to 'consider adding us' to their state](https://www.baltimoresun.com/politics/bs-md-pol-western-md-wv-20211021-iyugtyt72rfzjlkzt4jigs2wky-story.html)
 - Oct 21 - [Building the Brex API](https://building.brex.com/building-the-brex-api-52dcb26cacc8?gi=a8b7e7a3a9bc)
 - Oct 21 - [How to get useful answers to your questions](https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/)
 <!--END_SECTION:hn-->
