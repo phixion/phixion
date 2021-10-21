@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 21 - [Explaining top(1) on FreeBSD](https://klarasystems.com/articles/explaining-top1-on-freebsd/)
+- Oct 21 - [Willingness to Look Stupid](https://danluu.com/look-stupid/)
 - Oct 21 - [FlixMobility Acquires Greyhound to Expand U.S. Intercity Bus Services](https://corporate.flixbus.com/flixmobility-acquires-greyhound-to-expand-us-intercity-bus-services/)
 - Oct 21 - [Raycast (YC W20) Is Hiring Developers and Designers (Remote)](https://www.raycast.com/jobs)
 - Oct 21 - [Yamaha DX7 Technical Analysis](https://ajxs.me/blog/Yamaha_DX7_Technical_Analysis.html)
-- Oct 21 - [Goggles: Democracy dies in darkness, and so does the Web [pdf]](https://brave.com/wp-content/uploads/2021/03/goggles.pdf)
-- Oct 21 - [The History of Surveying](https://www.alifewithoutlimits.com.au/the-history-of-surveying/)
 <!--END_SECTION:hn-->
 
 <!--
