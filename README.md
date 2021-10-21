@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 21 - [Compose.ai (YC W21) Is Hiring a Senior Front End Engineer](https://www.ycombinator.com/companies/compose-ai/jobs/vUQpBfl-senior-frontend-engineer)
+- Oct 21 - [Show HN: I built a website builder on top of Notion](https://www.potion.so/)
+- Oct 21 - [How can we break our addiction to contempt](https://freakonomics.com/podcast/arthur-brooks/)
+- Oct 21 - [Unconventional Sorting Algorithms](https://codingkaiser.blog/2021/10/20/most-bizzare-sorting-algorithms-you-will-ever-see/)
 - Oct 21 - [Gov Parson pushes to prosecute reporter who found security flaw in state site](https://missouriindependent.com/2021/10/21/parson-doubles-down-on-push-to-prosecute-reporter-who-found-security-flaw-in-state-site/)
-- Oct 21 - [We Just Gave $154,999.89 to Open Source Maintainers](https://blog.sentry.io/2021/10/21/we-just-gave-154-999-dollars-and-89-cents-to-open-source-maintainers/)
-- Oct 21 - [GitHub is returning 500 for all requests](https://github.com)
-- Oct 21 - [What is ClickHouse how it compares to PostgreSQL and TimescaleDB for time series](https://blog.timescale.com/blog/what-is-clickhouse-how-does-it-compare-to-postgresql-and-timescaledb-and-how-does-it-perform-for-time-series-data/)
-- Oct 21 - [Does “skipping meals make you live longer”?](https://twitter.com/healthmisinfo/status/1449973547485384704)
 <!--END_SECTION:hn-->
 
 <!--
