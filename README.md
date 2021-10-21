@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 21 - [Cosmopolitan Identiﬁers](https://obua.com/publications/cosmo-id/3/)
+- Oct 21 - [The History of Surveying](https://www.alifewithoutlimits.com.au/the-history-of-surveying/)
 - Oct 21 - [Mihalyi Csikszentmihalyi who recognised the psychological concept of flow died](https://twitter.com/sbkaufman/status/1450946151352471553)
 - Oct 21 - [Greater than 99% consensus on human caused climate change in the literature](https://iopscience.iop.org/article/10.1088/1748-9326/ac2966)
 - Oct 21 - [Cannabis and Male Fertility: A Systematic Review](https://pubmed.ncbi.nlm.nih.gov/30916627/)
-- Oct 21 - [Alibaba Open Source XuanTie RISC-V Cores, Introduces In-House Armv9 Server Chip](https://fuse.wikichip.org/news/6413/alibaba-open-source-xuantie-risc-v-cores-introduces-in-house-armv9-server-chip/)
-- Oct 21 - [SwiftSku (YC W21) Is Hiring Account Executives](https://www.ycombinator.com/companies/swiftsku/jobs/YhllV1x-sales-account-executive)
 <!--END_SECTION:hn-->
 
 <!--
