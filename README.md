@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 21 - [Facebook Can't Hide Its Problems Behind a New Name](https://www.wired.com/story/facebook-name-change-wont-fix-anything/)
+- Oct 21 - [People Who Jump to Conclusions Show Other Kinds of Thinking Errors](https://www.scientificamerican.com/article/people-who-jump-to-conclusions-show-other-kinds-of-thinking-errors/)
 - Oct 21 - [78% of the Web Powered by PHP](https://haydenjames.io/78-of-the-web-powered-by-php-1-on-php-8/)
 - Oct 21 - [Explaining top(1) on FreeBSD](https://klarasystems.com/articles/explaining-top1-on-freebsd/)
-- Oct 21 - [Willingness to Look Stupid](https://danluu.com/look-stupid/)
-- Oct 21 - [FlixMobility Acquires Greyhound to Expand U.S. Intercity Bus Services](https://corporate.flixbus.com/flixmobility-acquires-greyhound-to-expand-us-intercity-bus-services/)
-- Oct 21 - [Raycast (YC W20) Is Hiring Developers and Designers (Remote)](https://www.raycast.com/jobs)
+- Oct 21 - [A pig kidney has been successfully transplanted into a human for the first time](https://www.economist.com/science-and-technology/2021/10/20/a-pig-kidney-has-been-successfully-transplanted-into-a-human-for-the-first-time)
 <!--END_SECTION:hn-->
 
 <!--
