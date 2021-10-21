@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 21 - [Why do we still need Daylight Saving Time?](http://theory.stanford.edu/~amitp/rants/daylight-savings-time/)
-- Oct 21 - [Show HN: vGPU and SR-IOV on Consumer GPUs](https://arccompute.com/blog/libvfio-commodity-gpu-multiplexing/)
-- Oct 21 - [California tried to save the nation from tax filing, then Intuit stepped in](https://www.latimes.com/politics/story/2021-10-21/california-tried-to-save-the-nation-from-the-misery-of-tax-filing-then-intuit-stepped-in)
-- Oct 21 - [Cloudflare’s Pace of Innovation](https://blog.cloudflare.com/the-secret-to-cloudflare-pace-of-innovation/)
-- Oct 21 - [Roku tells customers it is unable to strike a deal with YouTube](https://www.axios.com/roku-youtube-tv-google-unable-to-strike-deal-de879a12-079b-4329-a27f-5692c19bea2c.html)
+- Oct 21 - [GitHub is returning 500 for all requests](https://github.com)
+- Oct 21 - [What is ClickHouse how it compares to PostgreSQL and TimescaleDB for time series](https://blog.timescale.com/blog/what-is-clickhouse-how-does-it-compare-to-postgresql-and-timescaledb-and-how-does-it-perform-for-time-series-data/)
+- Oct 21 - [I am getting out of software development after 10 years of coding](https://jamesrainbows.medium.com/why-i-am-getting-out-of-software-development-after-10-years-of-coding-839d5196de1c)
+- Oct 21 - [Incident with GitHub Actions, Issues, Pull Requests, and Webhooks](https://www.githubstatus.com/incidents/m78sypncxsdw)
+- Oct 21 - [Rust 1.56.0 and Rust 2021](https://blog.rust-lang.org/2021/10/21/Rust-1.56.0.html)
 <!--END_SECTION:hn-->
 
 <!--
