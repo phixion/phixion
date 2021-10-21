@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 21 - [Gov Parson pushes to prosecute reporter who found security flaw in state site](https://missouriindependent.com/2021/10/21/parson-doubles-down-on-push-to-prosecute-reporter-who-found-security-flaw-in-state-site/)
+- Oct 21 - [We Just Gave $154,999.89 to Open Source Maintainers](https://blog.sentry.io/2021/10/21/we-just-gave-154-999-dollars-and-89-cents-to-open-source-maintainers/)
 - Oct 21 - [GitHub is returning 500 for all requests](https://github.com)
 - Oct 21 - [What is ClickHouse how it compares to PostgreSQL and TimescaleDB for time series](https://blog.timescale.com/blog/what-is-clickhouse-how-does-it-compare-to-postgresql-and-timescaledb-and-how-does-it-perform-for-time-series-data/)
-- Oct 21 - [I am getting out of software development after 10 years of coding](https://jamesrainbows.medium.com/why-i-am-getting-out-of-software-development-after-10-years-of-coding-839d5196de1c)
-- Oct 21 - [Incident with GitHub Actions, Issues, Pull Requests, and Webhooks](https://www.githubstatus.com/incidents/m78sypncxsdw)
-- Oct 21 - [Rust 1.56.0 and Rust 2021](https://blog.rust-lang.org/2021/10/21/Rust-1.56.0.html)
+- Oct 21 - [Does “skipping meals make you live longer”?](https://twitter.com/healthmisinfo/status/1449973547485384704)
 <!--END_SECTION:hn-->
 
 <!--
