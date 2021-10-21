@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 21 - [Former U.S. president Donald Trump launches 'TRUTH' social media platform](https://www.reuters.com/world/us/former-us-president-donald-trump-launches-new-social-media-platform-2021-10-21/)
 - Oct 21 - [Explaining top(1) on FreeBSD](https://klarasystems.com/articles/explaining-top1-on-freebsd/)
 - Oct 21 - [Willingness to Look Stupid](https://danluu.com/look-stupid/)
 - Oct 21 - [FlixMobility Acquires Greyhound to Expand U.S. Intercity Bus Services](https://corporate.flixbus.com/flixmobility-acquires-greyhound-to-expand-us-intercity-bus-services/)
 - Oct 21 - [Raycast (YC W20) Is Hiring Developers and Designers (Remote)](https://www.raycast.com/jobs)
-- Oct 21 - [Yamaha DX7 Technical Analysis](https://ajxs.me/blog/Yamaha_DX7_Technical_Analysis.html)
 <!--END_SECTION:hn-->
 
 <!--
