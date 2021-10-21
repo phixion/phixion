@@ -21,9 +21,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Oct 21 - [ContainIQ (YC S21) Is Hiring eBPF and Kernel Engineer (Remote)](https://news.ycombinator.com/item?id=28950789)
 - Oct 21 - ['High Power Mode' Coming to 16-Inch MacBook Pro with M1 Max, Apple Confirms](https://appleinsider.com/articles/21/10/21/high-power-mode-coming-to-16-inch-macbook-pro-with-m1-max-apple-confirms)
+- Oct 21 - [Mastodon: A GPLv3 FOSS social network server](https://github.com/mastodon/mastodon)
 - Oct 21 - [BYD has reportedly received 10 GWh of orders from Tesla for LFP batteries](https://pushevs.com/2021/10/21/byd-has-reportedly-received-10-gwh-of-orders-from-tesla-for-lfp-batteries/)
 - Oct 21 - [YouTube will be removed from Roku as of December 9th existing users unaffected](https://9to5google.com/2021/10/21/youtube-will-be-removed-from-roku-as-of-december-9-existing-users-unaffected/)
-- Oct 21 - [Let’s Talk about PAKE](https://blog.cryptographyengineering.com/2018/10/19/lets-talk-about-pake/)
 <!--END_SECTION:hn-->
 
 <!--
