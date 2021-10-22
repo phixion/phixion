@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 22 - [Vinyl records are now outselling CDs](https://twitter.com/robwalling/status/1451570246935003140)
 - Oct 22 - [Trump's new platform and the Affero General Public License of Mastodon](https://sfconservancy.org/blog/2021/oct/21/trump-groups-violates-affero-gpl/)
 - Oct 22 - [Theorem demonstrates that CNNs can always be trained on quantum computers](https://discover.lanl.gov/news/releases/1015-quantum-ai/)
-- Oct 22 - [Predicting Daily Stock Market Returns from Just 10 Photos](https://www.sciencedirect.com/science/article/abs/pii/S0304405X21002683)
-- Oct 22 - [The Age of Machine Learning as Code Has Arrived](https://huggingface.co/blog/the-age-of-ml-as-code)
+- Oct 22 - [The age of machine learning as code has arrived](https://huggingface.co/blog/the-age-of-ml-as-code)
 - Oct 22 - [Predicting stock market returns from news photos](https://www.rmit.edu.au/news/media-releases-and-expert-comments/2021/oct/investor-mood-stock-photos)
 <!--END_SECTION:hn-->
 
