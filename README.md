@@ -20,10 +20,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 22 - [Eleven reasons to switch from Windows to Linux](https://www.lpi.org/blog/2021/10/05/eleven-reasons-switch-windows-linux)
-- Oct 22 - [Eaton 5P 1U Lithium Ion Rack Battery Unit Review](https://www.servethehome.com/eaton-5p-1u-lithium-ion-rack-battery-unit-review-5p1500r-l/)
+- Oct 22 - [Wall of Sound](https://en.wikipedia.org/wiki/Wall_of_Sound)
 - Oct 22 - [Acho (YC W20) Is Hiring](https://jobs.acho.io/22429)
 - Oct 22 - [Police Can’t Demand You Reveal Your Phone Passcode Then Tell a Jury You Refused](https://www.eff.org/deeplinks/2021/10/police-cant-demand-you-reveal-your-phone-passcode-and-then-tell-jury-you-refused)
-- Oct 22 - [After the Pandemic, We Can’t Go Back to Sleep](https://theanarchistlibrary.org/library/david-graeber-after-the-pandemic-we-can-t-go-back-to-sleep)
+- Oct 22 - [New Kubernetes high severity vulnerability alert: CVE-2021-25742](https://www.armosec.io/blog/new-kubernetes-high-severity-vulnerability-alert-cve-2021-25742)
 <!--END_SECTION:hn-->
 
 <!--
