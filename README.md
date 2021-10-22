@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 21 - [Billions of banknotes are missing. Why does nobody care?](https://www.economist.com/1843/2021/10/18/billions-of-banknotes-are-missing-why-does-nobody-care)
+- Oct 21 - [Propositional logic exercises with the lean theorem prover](https://github.com/ImperialCollegeLondon/M40001_lean/blob/master/src/2021/logic/README.md)
 - Oct 21 - [The communications systems at the US Central Command headquarters](https://www.electrospaces.net/2021/04/the-communications-equipment-at-us.html)
 - Oct 21 - [ContainIQ (YC S21) Is Hiring eBPF and Kernel Engineer (Remote)](https://news.ycombinator.com/item?id=28950789)
-- Oct 21 - ['High Power Mode' Coming to 16-Inch MacBook Pro with M1 Max, Apple Confirms](https://appleinsider.com/articles/21/10/21/high-power-mode-coming-to-16-inch-macbook-pro-with-m1-max-apple-confirms)
 - Oct 21 - [Mastodon: AGPLv3 FOSS social network server](https://github.com/mastodon/mastodon)
-- Oct 21 - [BYD has reportedly received 10 GWh of orders from Tesla for LFP batteries](https://pushevs.com/2021/10/21/byd-has-reportedly-received-10-gwh-of-orders-from-tesla-for-lfp-batteries/)
 <!--END_SECTION:hn-->
 
 <!--
