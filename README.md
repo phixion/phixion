@@ -22,8 +22,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 21 - [Billions of banknotes are missing. Why does nobody care?](https://www.economist.com/1843/2021/10/18/billions-of-banknotes-are-missing-why-does-nobody-care)
 - Oct 21 - [Propositional logic exercises with the lean theorem prover](https://github.com/ImperialCollegeLondon/M40001_lean/blob/master/src/2021/logic/README.md)
 - Oct 21 - [The communications systems at the US Central Command headquarters](https://www.electrospaces.net/2021/04/the-communications-equipment-at-us.html)
+- Oct 21 - [Recoll: A desktop full-text search tool](https://www.lesbonscomptes.com/recoll/)
 - Oct 21 - [ContainIQ (YC S21) Is Hiring eBPF and Kernel Engineer (Remote)](https://news.ycombinator.com/item?id=28950789)
-- Oct 21 - [Mastodon: AGPLv3 FOSS social network server](https://github.com/mastodon/mastodon)
 <!--END_SECTION:hn-->
 
 <!--
