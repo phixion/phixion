@@ -20,10 +20,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 22 - [Fastmail is having problems again](https://www.fastmailstatus.com/services/general)
-- Oct 22 - [Blockchain voting is overrated among uninformed but underrated among informed](https://vitalik.ca/general/2021/05/25/voting2.html)
 - Oct 22 - [Qventus (YC W15) Is Hiring a Senior Full Stack Engineer](https://jobs.lever.co/qventus/3f29db7c-a1c6-4c67-abf6-fb0d5b965bba)
 - Oct 22 - [Fake shutters make me angry](https://thecraftsmanblog.com/why-fake-shutters-make-me-angry/)
 - Oct 22 - [NPM package ‘ua-parser-JS’ with more than 7M weekly download is compromised](https://old.reddit.com/r/programming/comments/qdlela/breaking_npm_package_uaparserjs_with_more_than_7m/)
+- Oct 22 - [The Hidden Costs of Living Alone](https://www.theatlantic.com/family/archive/2021/10/living-alone-couple-partner-single/620434/)
 <!--END_SECTION:hn-->
 
 <!--
