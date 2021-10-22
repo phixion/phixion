@@ -22,8 +22,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 22 - [Qventus (YC W15) Is Hiring a Senior Full Stack Engineer](https://jobs.lever.co/qventus/3f29db7c-a1c6-4c67-abf6-fb0d5b965bba)
 - Oct 22 - [NPM package ‘ua-parser-JS’ with more than 7M weekly download is compromised](https://old.reddit.com/r/programming/comments/qdlela/breaking_npm_package_uaparserjs_with_more_than_7m/)
 - Oct 22 - [Kina Knowledge, using Common Lisp extensively in their document processing stack](https://lisp-journey.gitlab.io/blog/lisp-interview-kina/)
-- Oct 22 - [UK Supermarkets using cardboard cutouts to hide gaps left by supply issues](https://www.theguardian.com/business/2021/oct/22/supermarkets-using-cardboard-cutouts-to-hide-gaps-left-by-supply-issues)
 - Oct 22 - [Theorem demonstrates that CNNs can always be trained on quantum computers](https://discover.lanl.gov/news/releases/1015-quantum-ai/)
+- Oct 22 - [The age of machine learning as code has arrived](https://huggingface.co/blog/the-age-of-ml-as-code)
 <!--END_SECTION:hn-->
 
 <!--
