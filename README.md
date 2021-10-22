@@ -20,10 +20,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 22 - [Qventus (YC W15) Is Hiring a Senior Full Stack Engineer](https://jobs.lever.co/qventus/3f29db7c-a1c6-4c67-abf6-fb0d5b965bba)
+- Oct 22 - [Fake shutters make me angry](https://thecraftsmanblog.com/why-fake-shutters-make-me-angry/)
 - Oct 22 - [NPM package ‘ua-parser-JS’ with more than 7M weekly download is compromised](https://old.reddit.com/r/programming/comments/qdlela/breaking_npm_package_uaparserjs_with_more_than_7m/)
+- Oct 22 - [Living Alone in the U.S. Is Harder Than It Should Be](https://www.theatlantic.com/family/archive/2021/10/living-alone-couple-partner-single/620434/)
 - Oct 22 - [Kina Knowledge, using Common Lisp extensively in their document processing stack](https://lisp-journey.gitlab.io/blog/lisp-interview-kina/)
-- Oct 22 - [Theorem demonstrates that CNNs can always be trained on quantum computers](https://discover.lanl.gov/news/releases/1015-quantum-ai/)
-- Oct 22 - [The age of machine learning as code has arrived](https://huggingface.co/blog/the-age-of-ml-as-code)
 <!--END_SECTION:hn-->
 
 <!--
