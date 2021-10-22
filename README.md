@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 22 - [Major Linux Problems on the Desktop, 2021 edition](https://itvision.altervista.org/why.linux.is.not.ready.for.the.desktop.current.html)
 - Oct 22 - [YouTube is about to pull its apps from Roku](https://www.cnbc.com/2021/10/22/google-to-remove-youtube-apps-from-roku.html)
 - Oct 22 - [Prometheus (YC W19) Is Hiring](https://www.ycombinator.com/companies/prometheus/jobs/j5qH6A6-mechanical-engineer)
 - Oct 22 - [Truth Social broke software rules, says copyleft group](https://www.theverge.com/2021/10/22/22740354/trump-truth-social-network-spac-mastodon-license-software-freedom-conservancy)
 - Oct 22 - [Show HN: Semgrep App](https://news.ycombinator.com/item?id=28959174)
-- Oct 22 - [Hackernews.com](https://hackernews.com/)
 <!--END_SECTION:hn-->
 
 <!--
