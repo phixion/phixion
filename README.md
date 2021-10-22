@@ -22,7 +22,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 22 - [How is bamboo- lumber made](https://www.bambooimport.com/en/how-is-bamboo-lumber-made)
 - Oct 22 - [ConcernedApe's Haunted Chocolatier](https://www.hauntedchocolatier.net/)
 - Oct 22 - [The 'impossible' crane shot from Soy Cuba (1964) [video]](https://twitter.com/nickdale/status/1450617359375343617)
-- Oct 22 - [State Plates Project](https://stateplatesproject.com/)
+- Oct 22 - [Knowledge Graphs](https://arxiv.org/abs/2003.02320)
 - Oct 22 - [We're seeing an ongoing attack against our primary network provider](https://www.fastmailstatus.com/)
 <!--END_SECTION:hn-->
 
