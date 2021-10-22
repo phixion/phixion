@@ -23,7 +23,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 22 - [Science of Slow Cooking](https://www.scienceofcooking.com/meat/slow_cooking1.htm)
 - Oct 22 - [The Next Big Thing: Introducing IPU-POD128 and IPU-POD256](https://www.graphcore.ai/posts/the-next-big-thing-introducing-ipu-pod128-and-ipu-pod256)
 - Oct 22 - [The monopoly strategy behind the Google/Microsoft mobile patent wars](https://pluralistic.net/2021/10/20/vizio-vs-the-world/)
-- Oct 22 - [TCL: The Tool Command Language – Lisp for the Masses [video]](https://www.youtube.com/watch?v=3YwFHPFL20c)
+- Oct 22 - [Ask HN: Best way to host a website for 500 years?](https://news.ycombinator.com/item?id=28957573)
 <!--END_SECTION:hn-->
 
 <!--
