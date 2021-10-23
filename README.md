@@ -23,7 +23,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 23 - [IBM PS/2 Keyboard Modification](https://ardent-tool.com/keyboard/mods/Model_M_Modifications.html)
 - Oct 23 - [Stayflexi (YC W21) Is Hiring](https://www.ycombinator.com/companies/stayflexi/jobs/XOgPJYp-software-developer)
 - Oct 23 - [Feasibility of a Dune Ornithopter](http://pages.erau.edu/~andrewsa/sci_fi_projects_spring_2015/Project_2/Eilts_Mitchell/Dune%20Eilts/Dune%20Eilts/index_Eilts.html)
-- Oct 22 - [GPT Code Clippy, the Open Source Version of GitHub Copilot](https://github.com/CodedotAl/gpt-code-clippy)
+- Oct 22 - [The IBM 4020 Military Computer – Tracking Missiles with 6-Bit Bytes](https://www.cpushack.com/2021/10/22/the-ibm-4020-military-computer-tracking-missiles-with-6-bit-bytes/)
 <!--END_SECTION:hn-->
 
 <!--
