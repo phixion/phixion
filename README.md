@@ -19,7 +19,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 23 - [Long Beach removed container stacking rule after Flexport CEO's tweet](https://twitter.com/typesfast/status/1451673736877428742)
+- Oct 23 - [Long Beach has temporarily suspended container stacking limitations](https://twitter.com/typesfast/status/1451673736877428742)
 - Oct 23 - [20Y study finds little evidence religiosity leads to greater life satisfaction](https://www.psypost.org/2021/10/a-20-year-longitudinal-study-finds-little-evidence-that-religiosity-leads-to-greater-life-satisfaction-61991)
 - Oct 23 - [ProjectM – The most advanced open-source music visualizer](https://github.com/projectM-visualizer/projectm)
 - Oct 23 - [Something special is happening in Barcelona](https://twitter.com/zachklein/status/1450113164775870468)
