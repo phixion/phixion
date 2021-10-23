@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 23 - [Long Beach removed container stacking rule after Flexport CEO's tweet](https://twitter.com/typesfast/status/1451673736877428742)
 - Oct 23 - [Something special is happening in Barcelona](https://twitter.com/zachklein/status/1450113164775870468)
 - Oct 23 - [N.I.N.A. – Nighttime Imaging 'N' Astronomy](https://nighttime-imaging.eu/)
 - Oct 23 - [Flexport is hiring engineers to help uncork global supply chains](https://www.flexport.com/careers)
 - Oct 23 - [Framework: Solving for Silicon Shortages](https://frame.work/blog/solving-for-silicon-shortages)
-- Oct 23 - [Raspberry Pi 3 Fastboot – Less Than 2 Seconds](https://www.furkantokac.com/rpi3-fast-boot-less-than-2-seconds/)
 <!--END_SECTION:hn-->
 
 <!--
