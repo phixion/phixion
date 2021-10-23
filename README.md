@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 23 - [When People Carved Turnips Instead of Pumpkins for Halloween](https://www.smithsonianmag.com/smart-news/when-people-carved-turnips-instead-of-pumpkins-for-halloween-180978922/)
+- Oct 23 - [What's more important, being passionate or being curious?](https://tinkeredthinking.com/index.php?id=22)
 - Oct 23 - [How Americans Became So Sensitive to Harm (2016)](https://www.theatlantic.com/politics/archive/2016/04/concept-creep/477939/)
 - Oct 23 - [Scryer-Prolog: modern Prolog implementation written mostly in Rust](https://github.com/mthom/scryer-prolog)
 - Oct 23 - [Federal Judges or Their Brokers Traded Stocks of Litigants During Cases](https://www.wsj.com/articles/federal-judges-brokers-traded-stocks-of-litigants-during-cases-walmart-pfizer-11634306192)
-- Oct 23 - [Facebook crisis grows as new whistleblower and leaked documents emerge](https://www.theguardian.com/technology/2021/oct/22/facebook-whistleblower-hate-speech-illegal-report)
-- Oct 23 - [An enormous thread on alleged Google Facebook collusion](https://twitter.com/PatrickMcGee_/status/1451619916994396164)
 <!--END_SECTION:hn-->
 
 <!--
