@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 23 - [Google said it had successfully ‘slowed down’ European privacy rules](https://www.nytimes.com/2021/10/22/technology/google-privacy-lawsuit.html)
 - Oct 23 - [Sirum (YC W15) is hiring to help automate safety-net pharmacies](https://news.ycombinator.com/item?id=28967604)
+- Oct 23 - [Google 'colluded' with Facebook to bypass Apple privacy](https://www.theregister.com/2021/10/22/google_facebook_antitrust_complaint/)
+- Oct 23 - [Plea: Help us get home from Afghanistan](https://drive.google.com/file/d/1yk56BqGH-tjsErcWaiLlGEaHoB3Y1sie/view)
 - Oct 23 - [Gallium helps convert CO2 into Carbon and Oxygen](https://www.mining.com/liquid-metal-helps-convert-co2-into-useful-resources/)
-- Oct 23 - [Nsh: A fish/bash-like Posix shell in Rust](https://github.com/nuta/nsh)
-- Oct 23 - [Let's discuss the source code for the GPLed parts of Tesla cars (2019)](https://sfconservancy.org/blog/2019/oct/30/calling-all-tesla-owners/)
-- Oct 23 - [European Parliament: UK and US are global hubs for money laundering, tax evasion](https://www.brusselstimes.com/news/eu-affairs/190352/pandora-papers-european-parliament-describes-uk-and-us-as-global-hubs-for-money-laundering-and-tax-evasion/)
 <!--END_SECTION:hn-->
 
 <!--
