@@ -19,7 +19,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 23 - [Leaving Google (Golang Team)](https://jayconrod.com/posts/122/leaving-google)
+- Oct 23 - [Leaving Google](https://jayconrod.com/posts/122/leaving-google)
 - Oct 23 - [IBM PS/2 Keyboard Modification](https://ardent-tool.com/keyboard/mods/Model_M_Modifications.html)
 - Oct 23 - [Stayflexi (YC W21) Is Hiring](https://www.ycombinator.com/companies/stayflexi/jobs/XOgPJYp-software-developer)
 - Oct 23 - [Feasibility of a Dune Ornithopter](http://pages.erau.edu/~andrewsa/sci_fi_projects_spring_2015/Project_2/Eilts_Mitchell/Dune%20Eilts/Dune%20Eilts/index_Eilts.html)
