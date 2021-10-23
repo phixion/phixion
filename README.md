@@ -19,7 +19,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 23 - [Microsoft reverses controversial .NET change after open source community outcry](https://www.theverge.com/2021/10/23/22742282/microsoft-dotnet-hot-reload-u-turn-response)
+- Oct 23 - [Phone Is Listening and It's Not Paranoia (2018)](https://www.vice.com/en/article/wjbzzy/your-phone-is-listening-and-its-not-paranoia)
 - Oct 23 - [Philip K. Dick: How to Build a Universe That Doesn’t Fall Apart Two Days Later](https://urbigenous.net/library/how_to_build.html)
 - Oct 23 - [No time to die: An indepth analysis of James Bonds exposure to infectious agents](https://www.sciencedirect.com/science/article/pii/S1477893921002167)
 - Oct 23 - [.NET Hot Reload Support via CLI](https://devblogs.microsoft.com/dotnet/net-hot-reload-support-via-cli/)
