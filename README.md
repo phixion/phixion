@@ -23,7 +23,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 23 - [Federal Judges or Their Brokers Traded Stocks of Litigants During Cases](https://www.wsj.com/articles/federal-judges-brokers-traded-stocks-of-litigants-during-cases-walmart-pfizer-11634306192)
 - Oct 23 - [Facebook crisis grows as new whistleblower and leaked documents emerge](https://www.theguardian.com/technology/2021/oct/22/facebook-whistleblower-hate-speech-illegal-report)
 - Oct 23 - [The Ultimate Student: Best Practices for 100 Mental Models](https://app.telepathylab.com/ultimate-student)
-- Oct 23 - [BioBlock nasal spray protects against all major variants of coronaviruses](https://www.icosagen.com/news/new-laboratory-studies-suggest-that-bioblock-r-nasal-spray-provides-protection-against-all-major-variants-of-coronaviruses)
+- Oct 23 - [An enormous thread on alleged Google Facebook collusion](https://twitter.com/PatrickMcGee_/status/1451619916994396164)
 <!--END_SECTION:hn-->
 
 <!--
