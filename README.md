@@ -23,7 +23,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 23 - [Framework: Solving for Silicon Shortages](https://frame.work/blog/solving-for-silicon-shortages)
 - Oct 23 - [Raspberry Pi 3 Fastboot – Less Than 2 Seconds](https://www.furkantokac.com/rpi3-fast-boot-less-than-2-seconds/)
 - Oct 23 - [React Docs Beta – rewritten with hooks and interactive examples](https://beta.reactjs.org/)
-- Oct 23 - [AMD Short Interest Has Grown by 234% in Nine Months Reveals Data](https://wccftech.com/amd-short-interest-has-grown-by-234-in-nine-months-reveals-data/)
+- Oct 23 - [The Air Force Has a Plan to Make Jet Fuel Out of Thin Air](https://www.thedrive.com/the-war-zone/42852/the-air-force-has-a-plan-to-make-jet-fuel-out-of-thin-air)
 <!--END_SECTION:hn-->
 
 <!--
