@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 23 - [N.I.N.A. – Nighttime Imaging 'N' Astronomy](https://nighttime-imaging.eu/)
 - Oct 23 - [Flexport is hiring engineers to help uncork global supply chains](https://www.flexport.com/careers)
 - Oct 23 - [Framework: Solving for Silicon Shortages](https://frame.work/blog/solving-for-silicon-shortages)
 - Oct 23 - [Raspberry Pi 3 Fastboot – Less Than 2 Seconds](https://www.furkantokac.com/rpi3-fast-boot-less-than-2-seconds/)
 - Oct 23 - [React Docs Beta – rewritten with hooks and interactive examples](https://beta.reactjs.org/)
-- Oct 23 - [The Air Force Has a Plan to Make Jet Fuel Out of Thin Air](https://www.thedrive.com/the-war-zone/42852/the-air-force-has-a-plan-to-make-jet-fuel-out-of-thin-air)
 <!--END_SECTION:hn-->
 
 <!--
