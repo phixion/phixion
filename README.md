@@ -20,10 +20,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 23 - [AMD Short Interest Has Grown by 234% in Nine Months Reveals Data](https://wccftech.com/amd-short-interest-has-grown-by-234-in-nine-months-reveals-data/)
-- Oct 23 - [Ask HN: I'm making like 0 friends at college, how to fix it?](https://news.ycombinator.com/item?id=28968506)
+- Oct 23 - [The Air Force Has a Plan to Make Jet Fuel Out of Thin Air](https://www.thedrive.com/the-war-zone/42852/the-air-force-has-a-plan-to-make-jet-fuel-out-of-thin-air)
+- Oct 23 - [Can we trust Microsoft with Open Source?](https://dusted.codes/can-we-trust-microsoft-with-open-source)
 - Oct 23 - [Show HN: Super low-latency jamming over the internet](https://sub.live)
 - Oct 23 - [What do I need to read to be a great at CSS?](https://www.baldurbjarnason.com/2021/what-do-i-need-to-read-to-be-a-css-dev/)
-- Oct 23 - [Fastmail, Runbox, and Posteo under DDoS extortion attack](https://blog.runbox.com/2021/10/runbox-is-under-attack-by-extortionists/)
 <!--END_SECTION:hn-->
 
 <!--
