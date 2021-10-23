@@ -20,9 +20,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 23 - [Gallium helps convert CO2 into Carbon and Oxygen](https://www.mining.com/liquid-metal-helps-convert-co2-into-useful-resources/)
-- Oct 23 - [Florida man accused of breaking Mastodon's open-source license](https://www.theregister.com/2021/10/23/software_freedom_conservancy_mastodon/)
 - Oct 23 - [Nsh: A fish/bash-like Posix shell in Rust](https://github.com/nuta/nsh)
 - Oct 23 - [Let's discuss the source code for the GPLed parts of Tesla cars (2019)](https://sfconservancy.org/blog/2019/oct/30/calling-all-tesla-owners/)
+- Oct 23 - [Trump's social media platform and the Affero General Public License of Mastodon](https://sfconservancy.org/blog/2021/oct/21/trump-group-agplv3/)
 - Oct 23 - [European Parliament: UK and US are global hubs for money laundering, tax evasion](https://www.brusselstimes.com/news/eu-affairs/190352/pandora-papers-european-parliament-describes-uk-and-us-as-global-hubs-for-money-laundering-and-tax-evasion/)
 <!--END_SECTION:hn-->
 
