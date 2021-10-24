@@ -19,8 +19,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 24 - [It's Time for Programming Puzzles](https://offbeat.cc/blog/time-for-programming-puzzles.html)
-- Oct 24 - [Low-Background Steel](https://en.wikipedia.org/wiki/Low-background_steel)
+- Oct 24 - [Signal for Help](https://en.wikipedia.org/wiki/Signal_for_Help)
+- Oct 24 - [The Real Scandal About Ivermectin](https://www.theatlantic.com/science/archive/2021/10/ivermectin-research-problems/620473/)
 - Oct 24 - [Tesco say website and app down after hack attempt](https://www.bbc.com/news/business-59027423)
 - Oct 24 - [Internet Object – A JSON alternative data serialization format](https://internetobject.org/)
 - Oct 24 - [NSA's Key Role in Major Developments in Computer Science [pdf]](https://media.defense.gov/2021/Jul/01/2002754533/-1/-1/0/6586785-NSA-KEY-ROLE-IN-MAJOR-DEVELOPMENTS-IN-COMPUTER-SCIENCE.PDF)
