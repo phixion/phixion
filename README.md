@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 24 - [Percentage of Hacker News job postings that mention a remote option 2017-2021](https://rinzewind.org/blog-en/2021/percentage-of-hacker-news-job-postings-that-mention-a-remote-option.html)
+- Oct 24 - [US west coast braces for ‘atmospheric river’ as storm brews](https://www.theguardian.com/us-news/2021/oct/23/california-storm-atmospheric-river-flooding)
 - Oct 24 - [Despite having just 5.8% sales, over 38% of bug reports come from Linux](https://old.reddit.com/r/gamedev/comments/qeqn3b/despite_having_just_58_sales_over_38_of_bug/)
 - Oct 24 - [Signal for Help](https://en.wikipedia.org/wiki/Signal_for_Help)
-- Oct 24 - [Shoddy Ivermectin research is unremarkable in its shoddiness](https://www.theatlantic.com/science/archive/2021/10/ivermectin-research-problems/620473/)
 - Oct 24 - [Tens of millions of filthy, used medical gloves imported into the US](https://lite.cnn.com/en/article/h_d40465d82e17ebe6c44736dc91cfb6fe)
-- Oct 24 - [Internet Object – A JSON alternative data serialization format](https://internetobject.org/)
 <!--END_SECTION:hn-->
 
 <!--
