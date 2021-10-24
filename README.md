@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 24 - [RFC 3339 vs. ISO 8601](https://ijmacd.github.io/rfc3339-iso8601/)
 - Oct 24 - [An analysis of 7,020,950 NFT transactions on the Ethereum blockchain](https://old.reddit.com/r/MachineLearning/comments/qcychj/p_an_analysis_of_7020950_nft_transactions_on_the/)
 - Oct 24 - [230 people living communally on 175 acre eco village](https://www.youtube.com/watch?v=n-uH36w9xg8)
 - Oct 24 - [Microsoft no longer signs Windows drivers for Process Hacker](https://borncity.com/win/2021/10/23/microsoft-signiert-windows-treiber-fr-process-hacker-nicht-mehr/)
 - Oct 24 - [Habits I've Developed for Fast and Efficient Programming](https://cprimozic.net/blog/programming-speed-strategies/)
-- Oct 24 - [The falsehoods of anti-AGPL propaganda (2020)](https://drewdevault.com/2020/07/27/Anti-AGPL-propaganda.html)
 <!--END_SECTION:hn-->
 
 <!--
