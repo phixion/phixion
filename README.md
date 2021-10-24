@@ -22,8 +22,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 24 - [The FT 404 page ... someone put some thought into this ...](https://www.ft.com/3lJQa6w)
 - Oct 24 - [Bullets: Sizes, Calibers, and Types (2020)](https://www.pewpewtactical.com/bullet-sizes-calibers-and-types/)
 - Oct 24 - [NYT Ben Hubbard Hacked with Pegasus After Reporting on Previous Hacking Attempts](https://citizenlab.ca/2021/10/breaking-news-new-york-times-journalist-ben-hubbard-pegasus/)
+- Oct 24 - [A few of the best math explainers from this summer](https://www.youtube.com/watch?v=F3Qixy-r_rQ)
 - Oct 24 - [Self Studying the MIT Applied Math Curriculum](https://www.smallstepcap.com/)
-- Oct 24 - [Emerge Tools (YC W21) Is Hiring a Senior Software Engineer (Remote)](https://www.ycombinator.com/companies/emerge-tools/jobs/S8b1ojf-senior-software-engineer)
 <!--END_SECTION:hn-->
 
 <!--
