@@ -20,10 +20,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 24 - [Google digital advertising antitrust litigation [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.nysd.564903/gov.uscourts.nysd.564903.152.0_1.pdf)
+- Oct 24 - [Air Force proves it’s possible to make jet fuel out of thin air](https://www.afmc.af.mil/News/Article-Display/Article/2820003/air-force-partners-with-twelve-proves-its-possible-to-make-jet-fuel-out-of-thin/)
 - Oct 24 - [Pong using browser windows as the paddles and ball (2009)](http://stewd.io/pong/)
 - Oct 24 - [Gunship “Tech Noir” Breakdown](https://synthctrl.com/blogs/blog/gunship-tech-noir-breakdown)
 - Oct 24 - [Google had a plan called “Project NERA” to turn the web into a walled garden](https://twitter.com/fasterthanlime/status/1452053941504684036)
-- Oct 24 - [Proton wins appeal in Swiss court over surveillance laws](https://www.swissinfo.ch/eng/business/proton-wins-appeal-in-swiss-court-over-surveillance-laws/47052196)
 <!--END_SECTION:hn-->
 
 <!--
