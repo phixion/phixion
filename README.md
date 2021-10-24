@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 24 - [Ask HN: What’s your favorite tool for planning your day?](https://news.ycombinator.com/item?id=28979602)
+- Oct 24 - [Controlling the Terminal with Common Lisp](https://turtleware.eu/posts/Controlling-the-terminal.html)
 - Oct 24 - [Ask HN: Switch from Development to Security?](https://news.ycombinator.com/item?id=28979231)
 - Oct 24 - [New language features since Java 8 to 17](https://advancedweb.hu/new-language-features-since-java-8-to-17/)
-- Oct 24 - [Scientists have found a way to harden wood to make a knife that rivals steel](https://www.cbc.ca/radio/quirks/oct-23-vikings-in-newfoundland-new-rocks-from-the-moon-making-wood-better-and-more-1.6219865/scientists-have-found-a-way-to-harden-wood-to-make-a-knife-that-rivals-steel-1.6219874)
-- Oct 24 - [Two conspiracy theories about cola](https://dynomight.net/cola/)
-- Oct 24 - [Percentage of Hacker News job postings that mention a remote option 2017-2021](https://rinzewind.org/blog-en/2021/percentage-of-hacker-news-job-postings-that-mention-a-remote-option.html)
+- Oct 24 - [Just read through all 173 pages of the unredacted Google antitrust filing and](https://twitter.com/fasterthanlime/status/1452053938195341314)
 <!--END_SECTION:hn-->
 
 <!--
