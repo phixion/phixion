@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 24 - [Facebook, Apple, Microsoft, and Google discussed stopping privacy efforts](https://twitter.com/PatrickMcGee_/status/1451634739014627328)
+- Oct 24 - [NYT Ben Hubbard Hacked with Pegasus After Reporting on Previous Hacking Attempts](https://citizenlab.ca/2021/10/breaking-news-new-york-times-journalist-ben-hubbard-pegasus/)
 - Oct 24 - [Self Studying the MIT Applied Math Curriculum](https://www.smallstepcap.com/)
 - Oct 24 - [Emerge Tools (YC W21) Is Hiring a Senior Software Engineer (Remote)](https://www.ycombinator.com/companies/emerge-tools/jobs/S8b1ojf-senior-software-engineer)
 - Oct 24 - [Show HN: Pimp My Readme](https://pimp-my-readme.webapp.io/)
-- Oct 24 - [Setting up a static HTTPS website on your Raspberry Pi using Docker and Nginx](https://gist.github.com/rain-1/2d6033ee2b63c0a3ab802b5572df3ba9)
+- Oct 24 - [New Brunswick’s Mystery Disease](https://thewalrus.ca/new-brunswicks-medical-mystery/)
 <!--END_SECTION:hn-->
 
 <!--
