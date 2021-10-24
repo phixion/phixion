@@ -22,8 +22,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 24 - [Google digital advertising antitrust litigation [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.nysd.564903/gov.uscourts.nysd.564903.152.0_1.pdf)
 - Oct 24 - [Pong using browser windows as the paddles and ball (2009)](http://stewd.io/pong/)
 - Oct 24 - [Gunship “Tech Noir” Breakdown](https://synthctrl.com/blogs/blog/gunship-tech-noir-breakdown)
+- Oct 24 - [Google had a plan called “Project NERA” to turn the web into a walled garden](https://twitter.com/fasterthanlime/status/1452053941504684036)
 - Oct 24 - [Proton wins appeal in Swiss court over surveillance laws](https://www.swissinfo.ch/eng/business/proton-wins-appeal-in-swiss-court-over-surveillance-laws/47052196)
-- Oct 24 - [Ask HN: Is the Great Resignation in tech real? If so, why?](https://news.ycombinator.com/item?id=28973942)
 <!--END_SECTION:hn-->
 
 <!--
