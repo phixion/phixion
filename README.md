@@ -20,10 +20,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 24 - [Emerge Tools (YC W21) Is Hiring a Senior Software Engineer (Remote)](https://www.ycombinator.com/companies/emerge-tools/jobs/S8b1ojf-senior-software-engineer)
+- Oct 24 - [Show HN: Pimp My Readme](https://pimp-my-readme.webapp.io/)
 - Oct 24 - [Raspberry Pi, Static HTTPS Site with Docker and Nginx](https://gist.github.com/rain-1/2d6033ee2b63c0a3ab802b5572df3ba9)
 - Oct 24 - [Ask HN: What’s your favorite tool for planning your day?](https://news.ycombinator.com/item?id=28979602)
-- Oct 24 - [Controlling the Terminal with Common Lisp](https://turtleware.eu/posts/Controlling-the-terminal.html)
-- Oct 24 - [Ask HN: Switch from Development to Security?](https://news.ycombinator.com/item?id=28979231)
+- Oct 24 - [New Brunswick’s Mystery Disease: Why Did the Province Shut Out Federal Experts?](https://thewalrus.ca/new-brunswicks-medical-mystery/)
 <!--END_SECTION:hn-->
 
 <!--
