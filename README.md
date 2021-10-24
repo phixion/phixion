@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 24 - [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- Oct 24 - [RFC 3339 vs. ISO 8601](https://ijmacd.github.io/rfc3339-iso8601/)
-- Oct 24 - [Google has a secret deal with FB called “Jedi Blue” that they knew was illegal](https://twitter.com/fasterthanlime/status/1452053940024057857)
-- Oct 24 - [Barcelona’s Bicibús: hundreds of families biking to school together](https://www.npr.org/2021/10/22/1047341052/barcelona-bicibus-kids-parents-bike-ride-to-school)
-- Oct 24 - [230 people living communally on 175 acre eco village](https://www.youtube.com/watch?v=n-uH36w9xg8)
+- Oct 24 - [Low-Background Steel](https://en.wikipedia.org/wiki/Low-background_steel)
+- Oct 24 - [Tesco say website and app down after hack attempt](https://www.bbc.com/news/business-59027423)
+- Oct 24 - [Internet Object – A JSON alternative data serialization format](https://internetobject.org/)
+- Oct 24 - [TagSpaces: Organize Your Files with Tags](https://www.tagspaces.org/)
+- Oct 24 - [Polyhedra Viewer: Visualize relationships between convex regular-faced polyhedra](https://polyhedra.tessera.li/)
 <!--END_SECTION:hn-->
 
 <!--
