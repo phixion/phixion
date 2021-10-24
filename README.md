@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 24 - [Tesla pulled its latest ‘Full Self Driving’ beta due to bugs](https://www.theverge.com/2021/10/24/22743628/elon-musk-tesla-fsd-beta-10-3-rollback-issues-phantom-fcw)
 - Oct 24 - [Let’s Put an End to Prosecutorial Immunity (2018)](https://www.themarshallproject.org/2018/03/13/let-s-put-an-end-to-prosecutorial-immunity)
 - Oct 24 - [Tesorio (YC S15) is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
 - Oct 24 - [Deadly infection linked to contaminated room spray sold at Walmart](https://www.statnews.com/2021/10/22/melioidosis-outbreak-georgia-walmart/)
-- Oct 24 - [Richard Feynman and the Connection Machine (1989)](https://longnow.org/essays/richard-feynman-connection-machine/)
-- Oct 24 - [The Financial Times’ 404 page](https://www.ft.com/3lJQa6w)
+- Oct 24 - [We are recreating the entire planet in Minecraft](https://buildtheearth.net/)
 <!--END_SECTION:hn-->
 
 <!--
