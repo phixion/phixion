@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 24 - [Pong using browser windows as the paddles and ball (2009)](http://stewd.io/pong/)
 - Oct 24 - [Ask HN: Is the Great Resignation in tech real? If so, why?](https://news.ycombinator.com/item?id=28973942)
 - Oct 24 - [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28973926)
 - Oct 24 - [Prosecutors uncover money-laundering operation between US and Dubai](https://samsung.tribunecontentagency.com/2021/10/23/prosecutors-in-detroit-uncover-massive-money-laundering-operation-between-us-and-dubai/)
 - Oct 24 - [A cautionary tale from the streets of San Francisco](https://www.economist.com/books-and-arts/2021/10/23/a-cautionary-tale-from-the-streets-of-san-francisco)
-- Oct 24 - [Goodnight Dune (2011)](https://goodnightdune.com/)
 <!--END_SECTION:hn-->
 
 <!--
