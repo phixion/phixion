@@ -21,9 +21,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Oct 24 - [The FT 404 page ... someone put some thought into this ...](https://www.ft.com/3lJQa6w)
 - Oct 24 - [Bullets: Sizes, Calibers, and Types (2020)](https://www.pewpewtactical.com/bullet-sizes-calibers-and-types/)
+- Oct 24 - [How I failed 5 side projects in 6 years, earning $0](https://kwcodes.com/how-i-failed-5-side-projects-in-6-years-earning-0/)
 - Oct 24 - [NYT Ben Hubbard Hacked with Pegasus After Reporting on Previous Hacking Attempts](https://citizenlab.ca/2021/10/breaking-news-new-york-times-journalist-ben-hubbard-pegasus/)
-- Oct 24 - [A few of the best math explainers from this summer](https://www.youtube.com/watch?v=F3Qixy-r_rQ)
-- Oct 24 - [Self Studying the MIT Applied Math Curriculum](https://www.smallstepcap.com/)
+- Oct 24 - [Alaskan Air Base Will Host an Experimental Mini Nuclear Reactor](https://www.thedrive.com/the-war-zone/42818/this-alaskan-air-base-will-host-an-experimental-mini-nuclear-reactor)
 <!--END_SECTION:hn-->
 
 <!--
