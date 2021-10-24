@@ -19,7 +19,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 24 - [Twitter admits bias in algorithm for rightwing politicians and news outlets](https://www.theguardian.com/technology/2021/oct/22/twitter-admits-bias-in-algorithm-for-rightwing-politicians-and-news-outlets)
+- Oct 24 - [Microsoft no longer signs Windows drivers for Process Hacker](https://borncity.com/win/2021/10/23/microsoft-signiert-windows-treiber-fr-process-hacker-nicht-mehr/)
 - Oct 24 - [Google digital advertising antitrust litigation [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.nysd.564903/gov.uscourts.nysd.564903.152.0_1.pdf)
 - Oct 24 - [Pong using browser windows as the paddles and ball (2009)](http://stewd.io/pong/)
 - Oct 24 - [Gunship “Tech Noir” Breakdown](https://synthctrl.com/blogs/blog/gunship-tech-noir-breakdown)
