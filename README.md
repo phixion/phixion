@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 24 - [Facebook, Apple, Microsoft, and Google discussed stopping privacy efforts](https://twitter.com/PatrickMcGee_/status/1451634739014627328)
+- Oct 24 - [Self Studying the MIT Applied Math Curriculum](https://www.smallstepcap.com/)
 - Oct 24 - [Emerge Tools (YC W21) Is Hiring a Senior Software Engineer (Remote)](https://www.ycombinator.com/companies/emerge-tools/jobs/S8b1ojf-senior-software-engineer)
 - Oct 24 - [Show HN: Pimp My Readme](https://pimp-my-readme.webapp.io/)
-- Oct 24 - [Raspberry Pi, Static HTTPS Site with Docker and Nginx](https://gist.github.com/rain-1/2d6033ee2b63c0a3ab802b5572df3ba9)
-- Oct 24 - [Ask HN: What’s your favorite tool for planning your day?](https://news.ycombinator.com/item?id=28979602)
-- Oct 24 - [New Brunswick’s Mystery Disease: Why Did the Province Shut Out Federal Experts?](https://thewalrus.ca/new-brunswicks-medical-mystery/)
+- Oct 24 - [Setting up a static HTTPS website on your Raspberry Pi using Docker and Nginx](https://gist.github.com/rain-1/2d6033ee2b63c0a3ab802b5572df3ba9)
 <!--END_SECTION:hn-->
 
 <!--
