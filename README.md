@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 24 - [Emerge Tools (YC W21) Is Hiring a Senior Software Engineer (Remote)](https://www.ycombinator.com/companies/emerge-tools/jobs/S8b1ojf-senior-software-engineer)
+- Oct 24 - [Raspberry Pi, Static HTTPS Site with Docker and Nginx](https://gist.github.com/rain-1/2d6033ee2b63c0a3ab802b5572df3ba9)
 - Oct 24 - [Ask HN: What’s your favorite tool for planning your day?](https://news.ycombinator.com/item?id=28979602)
 - Oct 24 - [Controlling the Terminal with Common Lisp](https://turtleware.eu/posts/Controlling-the-terminal.html)
 - Oct 24 - [Ask HN: Switch from Development to Security?](https://news.ycombinator.com/item?id=28979231)
-- Oct 24 - [New language features since Java 8 to 17](https://advancedweb.hu/new-language-features-since-java-8-to-17/)
-- Oct 24 - [Just read through all 173 pages of the unredacted Google antitrust filing and](https://twitter.com/fasterthanlime/status/1452053938195341314)
 <!--END_SECTION:hn-->
 
 <!--
