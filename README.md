@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 25 - [Anakin (YC S21) is Hiring web/app scraping engineers (Remote)](https://www.ycombinator.com/companies/anakin/jobs/9GpOWPi-senior-software-engineer)
+- Oct 25 - [When the USSR tried to change the computer](https://www.inexhibit.com/case-studies/project-sphinx-when-the-ussr-tried-to-change-the-computer/)
+- Oct 25 - [Employees pleaded with Facebook to stop letting politicians bend rules](https://www.ft.com/content/67ad6eda-eb1c-4c97-bb3e-464c65bd63e7)
 - Oct 25 - [Luxe: Cross platform, rapid development game engine](https://luxeengine.com/about/)
 - Oct 25 - [Kerla: Monolithic kernel in Rust, aiming for Linux ABI compatibility](https://github.com/nuta/kerla)
-- Oct 25 - [Internet disrupted in Sudan amid reports of coup attempt](https://netblocks.org/reports/internet-disrupted-in-sudan-amid-reports-of-coup-attempt-Q8ov93yn)
-- Oct 25 - [WWII ships raised from watery graves by volcanic activity](https://taiwanenglishnews.com/volcanic-activity-seismic-shifts-wwii-ships-from-battle-of-iwo-jima-raised-from-watery-graves/)
-- Oct 25 - [Show HN: I built a fake VS Code to browse live cricket score in office](https://cric-code.pankajtanwar.in/)
 <!--END_SECTION:hn-->
 
 <!--
