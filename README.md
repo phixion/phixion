@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 25 - [Kerla: Monolithic kernel in Rust, aiming for Linux ABI compatibility](https://github.com/nuta/kerla)
+- Oct 25 - [Internet disrupted in Sudan amid reports of coup attempt](https://netblocks.org/reports/internet-disrupted-in-sudan-amid-reports-of-coup-attempt-Q8ov93yn)
 - Oct 25 - [WWII ships raised from watery graves by volcanic activity](https://taiwanenglishnews.com/volcanic-activity-seismic-shifts-wwii-ships-from-battle-of-iwo-jima-raised-from-watery-graves/)
 - Oct 25 - [Show HN: I built a fake VS Code to browse live cricket score in office](https://cric-code.pankajtanwar.in/)
 - Oct 25 - [Microservices and the layers to watch for when architecting your system](https://www.infoq.com/articles/consistency-coupling-complexity/)
-- Oct 25 - [Node-RED: Low-code programming for event-driven applications](https://nodered.org/)
-- Oct 25 - [WhatsApp scaled to 1B users with only 50 engineers](https://www.quastor.org/p/how-whatsapp-scaled-to-1-billion)
 <!--END_SECTION:hn-->
 
 <!--
