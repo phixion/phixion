@@ -21,9 +21,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Oct 25 - [Running SSH-MitM on Android Devices](https://github.com/ssh-mitm/ssh-mitm/discussions/83)
 - Oct 25 - [Anakin (YC S21) is Hiring web/app scraping engineers (Remote)](https://www.ycombinator.com/companies/anakin/jobs/9GpOWPi-senior-software-engineer)
+- Oct 25 - [Nine Raspberry Pis power this entire office](https://www.raspberrypi.com/news/nine-raspberry-pis-power-this-entire-office/)
 - Oct 25 - [Star Labs StarLite Mk IV 11" Linux Laptop with Coreboot](https://starlabs.systems/pages/starlite)
 - Oct 25 - [Ebcdic Is Incompatible with GDPR](https://shkspr.mobi/blog/2021/10/ebcdic-is-incompatible-with-gdpr/)
-- Oct 25 - [Project SPHINX – When the USSR tried to change the computer (2019)](https://www.inexhibit.com/case-studies/project-sphinx-when-the-ussr-tried-to-change-the-computer/)
 <!--END_SECTION:hn-->
 
 <!--
