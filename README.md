@@ -21,9 +21,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Oct 25 - [BillionToOne (YC S17) is hiring a senior data scientist](https://apply.workable.com/billiontoone/j/13515313DF/)
 - Oct 25 - [PiBox Mini – Modular Raspberry Pi Storage Server](https://pibox.io)
-- Oct 25 - [The Big Facebook Leak](https://www.nytimes.com/2021/10/24/business/media/facebook-leak-frances-haugen.html)
 - Oct 25 - [Facebook Reports Third Quarter 2021 Results](https://investor.fb.com/investor-news/press-release-details/2021/Facebook-Reports-Third-Quarter-2021-Results/)
 - Oct 25 - [EFF co-founder John Gilmore removed from org's Board](https://www.theregister.com/2021/10/25/john_gilmore_removed_from_eff_board/)
+- Oct 25 - [I’ve been reading a whole lot about tomatoes](https://buttondown.email/hardwarethings/archive/hardware-things-im-betting-that-you-need-a-break/)
 <!--END_SECTION:hn-->
 
 <!--
