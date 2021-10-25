@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 25 - [Fun with Nano Server](https://virtuallyfun.com/wordpress/2021/10/17/fun-with-nano-server/)
 - Oct 25 - [Art Vote](https://artvote.net/)
 - Oct 25 - [MTA tests new subway map that evokes jettisoned 1972 version](https://www.wsj.com/articles/mta-tests-new-subway-map-that-evokes-jettisoned-1972-version-11634119201)
 - Oct 25 - [Rewriting Reddit (2005)](http://www.aaronsw.com/weblog/rewritingreddit)
 - Oct 25 - [The fatiguing effects of camera use in virtual meetings](https://doi.apa.org/fulltext/2021-77825-003.html)
-- Oct 25 - [Fork Freshness: Project lifespans in the Ruby ecosystem](https://gilesbowkett.com/blog/2021/08/15/fork-freshness-project-lifespans-in-the-ruby-ecosystem/)
 <!--END_SECTION:hn-->
 
 <!--
