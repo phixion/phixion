@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 25 - [Strings, arrays, recursion, and parsing JSON: Exploring PL/pgSQL](https://notes.eatonphil.com/exploring-plpgsql.html)
+- Oct 25 - [Ask HN: Which NoCode platforms are fine?](https://news.ycombinator.com/item?id=28984955)
 - Oct 25 - [A Big Little Country](https://www.afar.com/magazine/westarctica-antarctica-a-micronation-with-a-mission)
 - Oct 25 - [Fun with Nano Server](https://virtuallyfun.com/wordpress/2021/10/17/fun-with-nano-server/)
 - Oct 25 - [Art Vote](https://artvote.net/)
-- Oct 25 - [MTA tests new subway map that evokes jettisoned 1972 version](https://www.wsj.com/articles/mta-tests-new-subway-map-that-evokes-jettisoned-1972-version-11634119201)
-- Oct 25 - [Rewriting Reddit (2005)](http://www.aaronsw.com/weblog/rewritingreddit)
 <!--END_SECTION:hn-->
 
 <!--
