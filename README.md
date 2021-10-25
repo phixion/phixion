@@ -23,7 +23,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 25 - [Rewriting Reddit (2005)](http://www.aaronsw.com/weblog/rewritingreddit)
 - Oct 25 - [The fatiguing effects of camera use in virtual meetings](https://doi.apa.org/fulltext/2021-77825-003.html)
 - Oct 25 - [Fork Freshness: Project lifespans in the Ruby ecosystem](https://gilesbowkett.com/blog/2021/08/15/fork-freshness-project-lifespans-in-the-ruby-ecosystem/)
-- Oct 24 - [Jetson One – Personal Electric Aerial Vehicle](https://www.jetsonaero.com/)
+- Oct 25 - [Show HN: Online editor to create animated SVG](https://bestsnip.com/svg_animation/)
 <!--END_SECTION:hn-->
 
 <!--
