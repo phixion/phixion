@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 25 - [An Ultra-Precise Clock Shows How to Link the Quantum World with Gravity](https://www.quantamagazine.org/an-atomic-clock-promises-link-between-quantum-world-and-gravity-20211025/)
+- Oct 25 - [Blamer.el: A Git blame plugin for Emacs inspired by VS Code’s GitLens plugin](https://github.com/Artawower/blamer.el)
 - Oct 25 - [Ask HN: Senior Devs, what career have you moved on to avoid impeding doom?](https://news.ycombinator.com/item?id=28987808)
 - Oct 25 - [Being spied on by the makers of Pegasus, then lured them into a trap](https://darknetdiaries.com/episode/100/)
-- Oct 25 - [The Facebook Papers: dozens of stories based on whistleblower docs dropped](https://www.businessinsider.com/facebook-papers-mark-zuckerberg-frances-haugen-leaked-docs-2021-10)
-- Oct 25 - [We Memo All the Things (2020)](https://attardi.org/why-we-memo-all-the-things/)
-- Oct 25 - [Apple's M1 Pro, M1 Max SoCs Investigated](https://www.anandtech.com/show/17024/apple-m1-max-performance-review)
+- Oct 25 - [Photos Are Too Flattering Now](https://www.theatlantic.com/culture/archive/2021/10/internet-lost-bad-photos/620463/)
 <!--END_SECTION:hn-->
 
 <!--
