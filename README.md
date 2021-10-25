@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 25 - [Hertz Orders 100k Teslas](https://www.wsj.com/articles/hertz-orders-100-000-teslas-11635167670)
+- Oct 25 - [Being spied on by the makers of Pegasus, then lured them into a trap](https://darknetdiaries.com/episode/100/)
+- Oct 25 - [The Facebook Papers: dozens of stories based on whistleblower docs dropped](https://www.businessinsider.com/facebook-papers-mark-zuckerberg-frances-haugen-leaked-docs-2021-10)
 - Oct 25 - [We Memo All the Things](https://attardi.org/why-we-memo-all-the-things/)
+- Oct 25 - [MacBook Pro 14-inch and 16-inch review (2021): Apple’s mighty Macs](https://www.engadget.com/mac-book-pro-14-16-inch-review-2021-apple-mighty-macs-130011975.html)
 - Oct 25 - [Running SSH-MitM on Android Devices](https://github.com/ssh-mitm/ssh-mitm/discussions/83)
-- Oct 25 - [Anakin (YC S21) is Hiring web/app scraping engineers (Remote)](https://www.ycombinator.com/companies/anakin/jobs/9GpOWPi-senior-software-engineer)
-- Oct 25 - [Nine Raspberry Pis power this entire office](https://www.raspberrypi.com/news/nine-raspberry-pis-power-this-entire-office/)
 <!--END_SECTION:hn-->
 
 <!--
