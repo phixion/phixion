@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 25 - [Car accidents cause death, injury and trauma. Why do we shrug them off?](https://www.nbcnews.com/think/opinion/car-accidents-cause-death-injury-trauma-why-do-we-shrug-ncna1282193)
+- Oct 25 - [50 years ago, The Electric Company used comedy to boost kids' reading skills](https://text.npr.org/1048365940)
 - Oct 25 - [14-inch MacBook Pro review: A Mac Pro in your backpack](https://sixcolors.com/post/2021/10/review-14-inch-macbook-pro-2021/)
+- Oct 25 - [Arrow and the Impossibility Theorem (2012) [pdf]](https://econweb.ucsd.edu/~rstarr/113Winter2012/Sen%27s%20ARRO-COL%2009A.pdf)
 - Oct 25 - [An Ultra-Precise Clock Shows How to Link the Quantum World with Gravity](https://www.quantamagazine.org/an-atomic-clock-promises-link-between-quantum-world-and-gravity-20211025/)
-- Oct 25 - [Blamer.el: A Git blame plugin for Emacs inspired by VS Code’s GitLens plugin](https://github.com/Artawower/blamer.el)
-- Oct 25 - [Nim receives $100k in Bitcoin donations](https://nim-lang.org/blog/2021/10/25/nim-receives-100k-usd-bitcoin.html)
-- Oct 25 - [Being spied on by the makers of Pegasus, then lured them into a trap](https://darknetdiaries.com/episode/100/)
 <!--END_SECTION:hn-->
 
 <!--
