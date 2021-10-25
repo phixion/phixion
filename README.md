@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 25 - [Why are niche hobbies and interests a turn off to many women?](https://www.city-data.com/forum/relationships/949369-why-niche-hobbies-interests-turn-off.html)
+- Oct 25 - [Neo-Amish Drop Outs](https://kk.org/)
 - Oct 25 - [Car accidents cause death, injury and trauma. Why do we shrug them off?](https://www.nbcnews.com/think/opinion/car-accidents-cause-death-injury-trauma-why-do-we-shrug-ncna1282193)
 - Oct 25 - [50 years ago, The Electric Company used comedy to boost kids' reading skills](https://text.npr.org/1048365940)
 - Oct 25 - [14-inch MacBook Pro review: A Mac Pro in your backpack](https://sixcolors.com/post/2021/10/review-14-inch-macbook-pro-2021/)
-- Oct 25 - [Arrow and the Impossibility Theorem (2012) [pdf]](https://econweb.ucsd.edu/~rstarr/113Winter2012/Sen%27s%20ARRO-COL%2009A.pdf)
-- Oct 25 - [An Ultra-Precise Clock Shows How to Link the Quantum World with Gravity](https://www.quantamagazine.org/an-atomic-clock-promises-link-between-quantum-world-and-gravity-20211025/)
 <!--END_SECTION:hn-->
 
 <!--
