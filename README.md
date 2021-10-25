@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 25 - [Mastodon Is Dead, Long Live Misskey](https://www.paritybit.ca/blog/mastodon-is-dead-long-live-misskey)
 - Oct 25 - [Jury Hands Victory to Facebook and Oculus VR Founder in Rift Ownership Trial](https://lawstreetmedia.com/news/tech/jury-hands-victory-to-facebook-and-oculus-vr-founder-in-rift-ownership-trial/)
 - Oct 25 - [My experience of losing a friend to heroin (2020)](https://mattlakeman.org/2020/01/22/the-new-epidemic-my-experience-of-losing-a-friend-to-heroin/)
 - Oct 25 - [BillionToOne (YC S17) is hiring a senior data scientist](https://apply.workable.com/billiontoone/j/13515313DF/)
 - Oct 25 - [PiBox Mini – Modular Raspberry Pi Storage Server](https://pibox.io)
-- Oct 25 - [Facebook Reports Third Quarter 2021 Results](https://investor.fb.com/investor-news/press-release-details/2021/Facebook-Reports-Third-Quarter-2021-Results/)
 <!--END_SECTION:hn-->
 
 <!--
