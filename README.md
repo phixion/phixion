@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 25 - [Malware Discovered in Popular NPM Package, ua-parser-JS](https://us-cert.cisa.gov/ncas/current-activity/2021/10/22/malware-discovered-popular-npm-package-ua-parser-js)
 - Oct 25 - [Astro Anarchy: Grand Mosaic of the Milky Way is now large than ever](https://astroanarchy.blogspot.com/2021/10/grand-mosaic-of-milky-way-is-now-large.html)
 - Oct 25 - [Ephemeralization](https://en.wikipedia.org/wiki/Ephemeralization)
 - Oct 25 - [History of Lisp (1979) [pdf]](http://jmc.stanford.edu/articles/lisp/lisp.pdf)
 - Oct 25 - [Metadrop is hiring front end devs interested in cryptocurrency, NFTs](https://jobs.metadrop.com/22815)
-- Oct 25 - [Orbital Reef: Commercial space station by BlueOrigin, Sierra Space, Boeing](https://www.orbitalreef.com)
 <!--END_SECTION:hn-->
 
 <!--
