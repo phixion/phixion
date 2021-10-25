@@ -23,7 +23,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 25 - [My experience of losing a friend to heroin (2020)](https://mattlakeman.org/2020/01/22/the-new-epidemic-my-experience-of-losing-a-friend-to-heroin/)
 - Oct 25 - [BillionToOne (YC S17) is hiring a senior data scientist](https://apply.workable.com/billiontoone/j/13515313DF/)
 - Oct 25 - [PiBox Mini – Modular Raspberry Pi Storage Server](https://pibox.io)
-- Oct 25 - [EFF co-founder John Gilmore removed from org's Board](https://www.theregister.com/2021/10/25/john_gilmore_removed_from_eff_board/)
+- Oct 25 - [Facebook Reports Third Quarter 2021 Results](https://investor.fb.com/investor-news/press-release-details/2021/Facebook-Reports-Third-Quarter-2021-Results/)
 <!--END_SECTION:hn-->
 
 <!--
