@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 25 - [14-inch MacBook Pro review: A Mac Pro in your backpack](https://sixcolors.com/post/2021/10/review-14-inch-macbook-pro-2021/)
 - Oct 25 - [An Ultra-Precise Clock Shows How to Link the Quantum World with Gravity](https://www.quantamagazine.org/an-atomic-clock-promises-link-between-quantum-world-and-gravity-20211025/)
 - Oct 25 - [Blamer.el: A Git blame plugin for Emacs inspired by VS Code’s GitLens plugin](https://github.com/Artawower/blamer.el)
-- Oct 25 - [Ask HN: Senior Devs, what career have you moved on to avoid impeding doom?](https://news.ycombinator.com/item?id=28987808)
+- Oct 25 - [Nim receives $100k in Bitcoin donations](https://nim-lang.org/blog/2021/10/25/nim-receives-100k-usd-bitcoin.html)
 - Oct 25 - [Being spied on by the makers of Pegasus, then lured them into a trap](https://darknetdiaries.com/episode/100/)
-- Oct 25 - [Photos Are Too Flattering Now](https://www.theatlantic.com/culture/archive/2021/10/internet-lost-bad-photos/620463/)
 <!--END_SECTION:hn-->
 
 <!--
