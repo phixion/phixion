@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 25 - [Running SSH-MitM on Android Devices](https://github.com/ssh-mitm/ssh-mitm/discussions/83)
+- Oct 25 - [Facebook Papers paint damning picture of company's role in insurrection](https://www.cnn.com/2021/10/22/business/january-6-insurrection-facebook-papers/index.html)
 - Oct 25 - [Anakin (YC S21) is Hiring web/app scraping engineers (Remote)](https://www.ycombinator.com/companies/anakin/jobs/9GpOWPi-senior-software-engineer)
-- Oct 25 - [When the USSR tried to change the computer](https://www.inexhibit.com/case-studies/project-sphinx-when-the-ussr-tried-to-change-the-computer/)
-- Oct 25 - [Employees pleaded with Facebook to stop letting politicians bend rules](https://www.ft.com/content/67ad6eda-eb1c-4c97-bb3e-464c65bd63e7)
-- Oct 25 - [Luxe: Cross platform, rapid development game engine](https://luxeengine.com/about/)
-- Oct 25 - [Kerla: Monolithic kernel in Rust, aiming for Linux ABI compatibility](https://github.com/nuta/kerla)
+- Oct 25 - [Facebook Failed the People Who Tried to Improve It](https://www.wired.com/story/facebook-papers-badge-posts-former-employees/)
+- Oct 25 - [Star Labs StarLite Mk IV 11" Linux Laptop with Coreboot](https://starlabs.systems/pages/starlite)
 <!--END_SECTION:hn-->
 
 <!--
