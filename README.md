@@ -22,8 +22,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 25 - [Grand mosaic of the Milky Way is now larger than ever](https://astroanarchy.blogspot.com/2021/10/grand-mosaic-of-milky-way-is-now-large.html)
 - Oct 25 - [Ephemeralization](https://en.wikipedia.org/wiki/Ephemeralization)
 - Oct 25 - [History of Lisp (1979) [pdf]](http://jmc.stanford.edu/articles/lisp/lisp.pdf)
+- Oct 25 - [macOS Monterey](https://www.apple.com/macos/monterey/)
 - Oct 25 - [Metadrop is hiring front end devs interested in cryptocurrency, NFTs](https://jobs.metadrop.com/22815)
-- Oct 25 - [The FBI's internal guide for getting data from AT&T, T-Mobile, Verizon](https://www.vice.com/en/article/m7vqkv/how-fbi-gets-phone-data-att-tmobile-verizon)
 <!--END_SECTION:hn-->
 
 <!--
