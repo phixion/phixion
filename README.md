@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 25 - [Why are niche hobbies and interests a turn off to many women?](https://www.city-data.com/forum/relationships/949369-why-niche-hobbies-interests-turn-off.html)
+- Oct 25 - [Metadrop is hiring front end devs interested in crypto / nfts](https://jobs.metadrop.com/22815)
+- Oct 25 - [Orbital Reef – 'Commercial' Space Station by Boeing, BlueOrigin and Co](https://www.orbitalreef.com)
+- Oct 25 - [FBI Releases Updated 2020 Hate Crime Statistics](https://www.fbi.gov/news/pressrel/press-releases/fbi-releases-updated-2020-hate-crime-statistics)
 - Oct 25 - [Neo-Amish Drop Outs](https://kk.org/)
-- Oct 25 - [Car accidents cause death, injury and trauma. Why do we shrug them off?](https://www.nbcnews.com/think/opinion/car-accidents-cause-death-injury-trauma-why-do-we-shrug-ncna1282193)
-- Oct 25 - [50 years ago, The Electric Company used comedy to boost kids' reading skills](https://text.npr.org/1048365940)
-- Oct 25 - [14-inch MacBook Pro review: A Mac Pro in your backpack](https://sixcolors.com/post/2021/10/review-14-inch-macbook-pro-2021/)
+- Oct 25 - [Microsoft .NET Devs Anonymously Responds to Microsoft .NET Leadership](https://pastebin.com/RF6015kv)
 <!--END_SECTION:hn-->
 
 <!--
