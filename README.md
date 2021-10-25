@@ -21,9 +21,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Oct 25 - [Metadrop is hiring front end devs interested in crypto / nfts](https://jobs.metadrop.com/22815)
 - Oct 25 - [Orbital Reef – 'Commercial' Space Station by Boeing, BlueOrigin and Co](https://www.orbitalreef.com)
-- Oct 25 - [FBI Releases Updated 2020 Hate Crime Statistics](https://www.fbi.gov/news/pressrel/press-releases/fbi-releases-updated-2020-hate-crime-statistics)
 - Oct 25 - [Neo-Amish Drop Outs](https://kk.org/)
 - Oct 25 - [Microsoft .NET Devs Anonymously Responds to Microsoft .NET Leadership](https://pastebin.com/RF6015kv)
+- Oct 25 - [50 years ago, The Electric Company used comedy to boost kids' reading skills](https://www.npr.org/2021/10/25/1048365940/50-years-ago-the-electric-company-used-comedy-to-boost-kids-reading-skills)
 <!--END_SECTION:hn-->
 
 <!--
