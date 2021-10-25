@@ -56,6 +56,7 @@ jobs:
           plugin_activity_timestamps: yes
           plugin_support: no
           plugin_repositories: yes
+          plugin_repositories_featured: phixion/Home-AssistantConfig
           plugin_music: yes
           plugin_music_provider: "spotify"
           plugin_music_token: ${{ secrets.METRICS_SPOTIFY_TOKEN }}
