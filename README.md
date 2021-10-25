@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 25 - [Jury Hands Victory to Facebook and Oculus VR Founder in Rift Ownership Trial](https://lawstreetmedia.com/news/tech/jury-hands-victory-to-facebook-and-oculus-vr-founder-in-rift-ownership-trial/)
+- Oct 25 - [My experience of losing a friend to heroin (2020)](https://mattlakeman.org/2020/01/22/the-new-epidemic-my-experience-of-losing-a-friend-to-heroin/)
 - Oct 25 - [BillionToOne (YC S17) is hiring a senior data scientist](https://apply.workable.com/billiontoone/j/13515313DF/)
 - Oct 25 - [PiBox Mini – Modular Raspberry Pi Storage Server](https://pibox.io)
-- Oct 25 - [Facebook Reports Third Quarter 2021 Results](https://investor.fb.com/investor-news/press-release-details/2021/Facebook-Reports-Third-Quarter-2021-Results/)
 - Oct 25 - [EFF co-founder John Gilmore removed from org's Board](https://www.theregister.com/2021/10/25/john_gilmore_removed_from_eff_board/)
-- Oct 25 - [I’ve been reading a whole lot about tomatoes](https://buttondown.email/hardwarethings/archive/hardware-things-im-betting-that-you-need-a-break/)
 <!--END_SECTION:hn-->
 
 <!--
