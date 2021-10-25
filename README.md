@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 25 - [Tesla pulls its new Full Self-Driving beta due to software 'issues'](https://www.reuters.com/business/autos-transportation/tesla-pulls-its-new-full-self-driving-beta-due-software-issues-2021-10-24/)
 - Oct 25 - [Servicing and repairing electric cars requires new skills](https://www.economist.com/science-and-technology/servicing-and-repairing-electric-cars-requires-new-skills/21805752)
 - Oct 25 - [Fork Freshness: Discover Active Forks of Abandoned GitHub Repositories](https://gilesbowkett.com/blog/2021/08/15/fork-freshness-project-lifespans-in-the-ruby-ecosystem/)
 - Oct 25 - [Show HN: Online editor to create animated SVG](https://bestsnip.com/svg_animation/)
 - Oct 24 - [Tesorio (YC S15) is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
-- Oct 24 - [Deadly infection linked to contaminated room spray sold at Walmart](https://www.statnews.com/2021/10/22/melioidosis-outbreak-georgia-walmart/)
 <!--END_SECTION:hn-->
 
 <!--
