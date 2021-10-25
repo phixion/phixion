@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 25 - [MTA tests new subway map that evokes jettisoned 1972 version](https://www.wsj.com/articles/mta-tests-new-subway-map-that-evokes-jettisoned-1972-version-11634119201)
 - Oct 25 - [Rewriting Reddit (2005)](http://www.aaronsw.com/weblog/rewritingreddit)
 - Oct 25 - [Servicing and repairing electric cars requires new skills](https://www.economist.com/science-and-technology/servicing-and-repairing-electric-cars-requires-new-skills/21805752)
 - Oct 25 - [Fork Freshness: Project lifespans in the Ruby ecosystem](https://gilesbowkett.com/blog/2021/08/15/fork-freshness-project-lifespans-in-the-ruby-ecosystem/)
 - Oct 24 - [Jetson One – Personal Electric Aerial Vehicle](https://www.jetsonaero.com/)
-- Oct 24 - [Tesorio (YC S15) is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
 <!--END_SECTION:hn-->
 
 <!--
