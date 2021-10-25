@@ -22,8 +22,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Oct 25 - [Servicing and repairing electric cars requires new skills](https://www.economist.com/science-and-technology/servicing-and-repairing-electric-cars-requires-new-skills/21805752)
 - Oct 25 - [Fork Freshness: Discover Active Forks of Abandoned GitHub Repositories](https://gilesbowkett.com/blog/2021/08/15/fork-freshness-project-lifespans-in-the-ruby-ecosystem/)
 - Oct 25 - [Show HN: Online editor to create animated SVG](https://bestsnip.com/svg_animation/)
-- Oct 24 - [Jetson One – Personal Electric Aerial Vehicle](https://www.jetsonaero.com/)
 - Oct 24 - [Tesorio (YC S15) is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
+- Oct 24 - [Deadly infection linked to contaminated room spray sold at Walmart](https://www.statnews.com/2021/10/22/melioidosis-outbreak-georgia-walmart/)
 <!--END_SECTION:hn-->
 
 <!--
