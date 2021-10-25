@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 25 - [Tesla shares surpass $1T in value](https://www.nytimes.com/2021/10/25/business/tesla-trillion-stock-price.html)
+- Oct 25 - [We Built a Cross-Platform Library with Rust](https://www.osohq.com/post/cross-platform-rust-libraries)
 - Oct 25 - [I’ve been reading a whole lot about tomatoes](https://buttondown.email/hardwarethings/archive/hardware-things-im-betting-that-you-need-a-break/)
 - Oct 25 - [Ask HN: Can you please add transcription to vocal messages in messaging apps?](https://news.ycombinator.com/item?id=28992195)
 - Oct 25 - [Grand mosaic of the Milky Way is now larger than ever](https://astroanarchy.blogspot.com/2021/10/grand-mosaic-of-milky-way-is-now-large.html)
-- Oct 25 - [Ephemeralization](https://en.wikipedia.org/wiki/Ephemeralization)
-- Oct 25 - [History of Lisp (1979) [pdf]](http://jmc.stanford.edu/articles/lisp/lisp.pdf)
 <!--END_SECTION:hn-->
 
 <!--
