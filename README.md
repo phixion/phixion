@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 26 - [MagicBell (YC W21) Is Hiring a Senior Ruby on Rails Engineer [Remote]](https://boards.eu.greenhouse.io/magicbell/jobs/4002168101?gh_src=0d086342teu)
+- Oct 26 - [Apple Privacy Rules to Blame for Facebook's Lower Than Expected Quarterly Growth](https://www.macrumors.com/2021/10/26/apple-privacy-rules-blame-facebook-earnings/)
+- Oct 26 - [CRDT resources](https://wiki.nikitavoloboev.xyz/distributed-systems/crdt)
 - Oct 26 - [GitHub stale bot considered harmful](https://drewdevault.com/2021/10/26/stalebot.html)
 - Oct 26 - [Apple Is Normalising Surveillance](https://www.wired.co.uk/article/apple-surveillance-technology)
-- Oct 26 - [Edward Snowden Slams Sam Altman's Worldcoin: 'Don't Catalogue Eyeballs'](https://decrypt.co/84277/snowden-slams-sam-altman-worldcoin-eyeball-scan-for-crypto)
-- Oct 26 - [Facing sky-high connection fees, rural Ontarians go off the grid](https://www.cbc.ca/news/canada/toronto/wind-solar-power-rural-ontario-1.6224159)
-- Oct 26 - [Sudan woke up without Internet](https://blog.cloudflare.com/sudan-woke-up-without-internet/)
 <!--END_SECTION:hn-->
 
 <!--
