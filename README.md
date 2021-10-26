@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 26 - [Is College Worth It? A Comprehensive Return on Investment Analysis](https://freopp.org/is-college-worth-it-a-comprehensive-return-on-investment-analysis-1b2ad17f84c8?gi=eb96088eb650)
+- Oct 26 - [Is College Worth It? A Return on Investment Analysis](https://freopp.org/is-college-worth-it-a-comprehensive-return-on-investment-analysis-1b2ad17f84c8?gi=eb96088eb650)
+- Oct 26 - [Alibaba has lost $344B market cap in the past year](https://economictimes.indiatimes.com/news/international/business/alibaba-has-lost-344-billion-in-worlds-biggest-wipeout/articleshow/87268271.cms)
 - Oct 26 - [Photoshop’s journey to the web](https://web.dev/ps-on-the-web/)
 - Oct 26 - [The Sequoia Fund: Patient Capital for Building Enduring Companies](https://medium.com/sequoia-capital/the-sequoia-fund-patient-capital-for-building-enduring-companies-9ed7bcd6c7da)
 - Oct 26 - [Rust on Espressif chips](https://mabez.dev/blog/posts/esp-rust-18-10-2021/)
-- Oct 26 - [Europol investigation busts 150 'high value' darknet vendors](https://www.dw.com/en/europol-investigation-busts-150-high-value-darknet-vendors/a-59625287)
 <!--END_SECTION:hn-->
 
 <!--
