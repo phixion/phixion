@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 26 - [A Librarian and a Food Historian Rediscovered the Recipes of Moorish Spain](https://www.atlasobscura.com/articles/moorish-cuisine)
 - Oct 26 - [A bug that doesn’t exist on x86: Exploiting an ARM-only race condition](https://github.com/stong/how-to-exploit-a-double-free)
 - Oct 26 - [A Love Letter to Ruby and Rails](https://jmarchello.com/a-love-letter-to-ruby-and-rails)
 - Oct 26 - [FBI raids researcher who discovered private patient data on public server (2016)](https://www.dailydot.com/debug/justin-shafer-fbi-raid/)
 - Oct 26 - [Right-to-disconnect legislation being introduced by Ontario Government](https://www.cbc.ca/news/canada/toronto/ontario-to-introduce-legislation-to-help-protect-workers-1.6223719)
-- Oct 26 - [Slow Down, Finish Faster](https://briandicroce.com/slow-down-finish-faster/)
 <!--END_SECTION:hn-->
 
 <!--
