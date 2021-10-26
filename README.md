@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 26 - [Edward Snowden Slams Sam Altman's Worldcoin: 'Don't Catalogue Eyeballs'](https://decrypt.co/84277/snowden-slams-sam-altman-worldcoin-eyeball-scan-for-crypto)
 - Oct 26 - [Sudan woke up without Internet](https://blog.cloudflare.com/sudan-woke-up-without-internet/)
 - Oct 26 - [Writing a Linux-compatible kernel in Rust](https://seiya.me/writing-linux-clone-in-rust)
 - Oct 26 - [Privacy Is a Human Right](https://blog.torproject.org/privacy-is-a-human-right)
 - Oct 26 - [Missing hiker ignores calls from rescuers as they didn’t recognise the number](https://www.theguardian.com/us-news/2021/oct/26/hiker-lost-on-us-mountain-ignored-calls-from-rescuers-because-he-didnt-recognise-the-number)
-- Oct 26 - [Show HN: CookLang – Recipe Markup Language](https://cooklang.org/)
 <!--END_SECTION:hn-->
 
 <!--
