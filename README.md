@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 26 - [Rust on Espressif chips – 18-10-2021](https://mabez.dev/blog/posts/esp-rust-18-10-2021/)
+- Oct 26 - [Rust on Espressif chips](https://mabez.dev/blog/posts/esp-rust-18-10-2021/)
+- Oct 26 - [Europol investigation busts 150 'high value' darknet vendors](https://www.dw.com/en/europol-investigation-busts-150-high-value-darknet-vendors/a-59625287)
 - Oct 26 - [The ‘Dune’ Screenplay Was Written in MS-DOS](https://www.vice.com/en/article/wxdeay/the-dune-screenplay-was-written-in-ms-dos)
+- Oct 26 - [They left Facebooks integrity team. Now they want the world to know how it works](https://www.protocol.com/policy/integrity-institute)
 - Oct 26 - [MagicBell (YC W21) Is Hiring a Senior Ruby on Rails Engineer – Remote](https://boards.eu.greenhouse.io/magicbell/jobs/4002168101?gh_src=0d086342teu)
-- Oct 26 - [Iran says cyberattack closes gas stations across country](https://apnews.com/article/business-middle-east-iran-dubai-united-arab-emirates-0342c10733bc89379e00d99152fe7a1f)
-- Oct 26 - [My interview with Steven Levy re. leaking of my Facebook Goodbye post](https://alecmuffett.com/article/14994)
 <!--END_SECTION:hn-->
 
 <!--
