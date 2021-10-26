@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 26 - [A Love Letter to Ruby and Rails](https://jmarchello.com/a-love-letter-to-ruby-and-rails)
+- Oct 26 - [FBI raids researcher who discovered private patient data on public server](https://www.dailydot.com/debug/justin-shafer-fbi-raid/)
 - Oct 26 - [Right-to-disconnect legislation being introduced by Ontario Government](https://www.cbc.ca/news/canada/toronto/ontario-to-introduce-legislation-to-help-protect-workers-1.6223719)
 - Oct 26 - [Slow Down, Finish Faster](https://briandicroce.com/slow-down-finish-faster/)
 - Oct 26 - [Offline-First Database Comparison](https://github.com/pubkey/client-side-databases)
-- Oct 26 - [Etleap (YC W13) Is Hiring an Integrations Engineer](https://news.ycombinator.com/item?id=28995191)
-- Oct 25 - [Rendering on the Apple M1 Max Chip](https://blog.yiningkarlli.com/2021/10/takua-on-m1-max.html)
 <!--END_SECTION:hn-->
 
 <!--
