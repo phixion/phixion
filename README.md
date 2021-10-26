@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 26 - [Privacy Is a Human Right](https://blog.torproject.org/privacy-is-a-human-right)
 - Oct 26 - [Missing hiker ignores calls from rescuers as they didn’t recognise the number](https://www.theguardian.com/us-news/2021/oct/26/hiker-lost-on-us-mountain-ignored-calls-from-rescuers-because-he-didnt-recognise-the-number)
 - Oct 26 - [Humanloop (YC S20) is hiring designers, front end and machine learning engineers](https://careers.humanloop.com/)
 - Oct 26 - [A Librarian and a Food Historian Rediscovered the Recipes of Moorish Spain](https://www.atlasobscura.com/articles/moorish-cuisine)
-- Oct 26 - [I wish Microsoft had been brave enough not to release Windows 11](https://www.pcgamer.com/wish-microsoft-had-been-brave-enough-not-to-release-windows-11/)
 - Oct 26 - [A bug that doesn’t exist on x86: Exploiting an ARM-only race condition](https://github.com/stong/how-to-exploit-a-double-free)
 <!--END_SECTION:hn-->
 
