@@ -20,10 +20,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 26 - [CareRev (YC S16) Is Hiring Data Eng and Data Architect](https://news.ycombinator.com/item?id=29002941)
+- Oct 26 - [10% of households pay more than 80% of taxes on alcohol and cigarettes](https://www2.nber.org/papers/w29393%23fromrss)
+- Oct 26 - [Geothermal's Path to Relevance: Cheap Drilling](https://austinvernon.site/blog/drillingplan.html)
 - Oct 26 - [Hacking Hacker News for Fun and Profit – Part 1](https://blog.arnica.io/hacking-hacker-news-for-fun-and-profit-part-1-41bd6a48a2c2?gi=60c4e82c053c)
 - Oct 26 - [Where Have All the Insects Gone?](https://www.newyorker.com/magazine/2021/11/01/where-have-all-the-insects-gone-e-o-wilson-silent-earth)
-- Oct 26 - [Next.js 12](https://nextjs.org/blog/next-12)
-- Oct 26 - [MobaXterm free Xserver and tabbed SSH client for Windows](https://mobaxterm.mobatek.net/)
 <!--END_SECTION:hn-->
 
 <!--
