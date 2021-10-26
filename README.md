@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 26 - [I Made the Exact Same App with Firebase,AWS Amplify,RxDB,PouchDB,WatermelonDB](https://github.com/pubkey/client-side-databases)
+- Oct 26 - [Etleap (YC W13) Is Hiring an Integrations Engineer](https://news.ycombinator.com/item?id=28995191)
+- Oct 26 - [I’m not a pilot, but I just flew a helicopter over California](https://www.nytimes.com/2021/10/25/technology/automated-flight-helicopter-skyryse.html)
+- Oct 25 - [Rendering on the Apple M1 Max Chip](https://blog.yiningkarlli.com/2021/10/takua-on-m1-max.html)
 - Oct 25 - [Misskey: Alternative Fediverse software that also uses ActivityPub](https://www.paritybit.ca/blog/mastodon-is-dead-long-live-misskey)
-- Oct 25 - [Jury hands victory to Facebook and Oculus VR founder in Rift ownership trial](https://lawstreetmedia.com/news/tech/jury-hands-victory-to-facebook-and-oculus-vr-founder-in-rift-ownership-trial/)
-- Oct 25 - [BillionToOne (YC S17) is hiring a senior data scientist](https://apply.workable.com/billiontoone/j/13515313DF/)
-- Oct 25 - [PiBox Mini – Modular Raspberry Pi Storage Server](https://pibox.io)
-- Oct 25 - [Facebook Reports Third Quarter 2021 Results](https://investor.fb.com/investor-news/press-release-details/2021/Facebook-Reports-Third-Quarter-2021-Results/)
 <!--END_SECTION:hn-->
 
 <!--
