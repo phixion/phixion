@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 26 - [Julian Assange’s High Court fight against extradition](https://www.crowdjustice.com/case/assangeappeal/)
+- Oct 26 - [Next.js 12](https://nextjs.org/blog/next-12)
+- Oct 26 - [MobaXterm free Xserver and tabbed SSH client for Windows](https://mobaxterm.mobatek.net/)
+- Oct 26 - [Trump Social Media Platform and the Affero General Public License (Of Mastodon)](https://sfconservancy.org/blog/2021/oct/21/trump-group-agplv3/)
 - Oct 26 - [Short Week: The Main Thing with Kids Is to Keep Them Alive](https://freddiedeboer.substack.com/p/short-week-the-main-thing-with-kids)
-- Oct 26 - [Is college worth it? A return-on-investment analysis](https://freopp.org/is-college-worth-it-a-comprehensive-return-on-investment-analysis-1b2ad17f84c8?gi=eb96088eb650)
-- Oct 26 - [Alibaba has lost $344B market cap in the past year](https://economictimes.indiatimes.com/news/international/business/alibaba-has-lost-344-billion-in-worlds-biggest-wipeout/articleshow/87268271.cms)
-- Oct 26 - [Photoshop’s journey to the web](https://web.dev/ps-on-the-web/)
-- Oct 26 - [The Sequoia Fund: Patient Capital for Building Enduring Companies](https://medium.com/sequoia-capital/the-sequoia-fund-patient-capital-for-building-enduring-companies-9ed7bcd6c7da)
 <!--END_SECTION:hn-->
 
 <!--
