@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 26 - [Slow Down, Finish Faster](https://briandicroce.com/slow-down-finish-faster/)
 - Oct 26 - [I Made the Exact Same App with Firebase,AWS Amplify,RxDB,PouchDB,WatermelonDB](https://github.com/pubkey/client-side-databases)
 - Oct 26 - [Etleap (YC W13) Is Hiring an Integrations Engineer](https://news.ycombinator.com/item?id=28995191)
 - Oct 26 - [I’m not a pilot, but I just flew a helicopter over California](https://www.nytimes.com/2021/10/25/technology/automated-flight-helicopter-skyryse.html)
 - Oct 25 - [Rendering on the Apple M1 Max Chip](https://blog.yiningkarlli.com/2021/10/takua-on-m1-max.html)
-- Oct 25 - [Misskey: Alternative Fediverse software that also uses ActivityPub](https://www.paritybit.ca/blog/mastodon-is-dead-long-live-misskey)
 <!--END_SECTION:hn-->
 
 <!--
