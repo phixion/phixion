@@ -2,7 +2,7 @@ name: rss feeds
 on:
   schedule:
     # every 15th minute of the hour
-    - cron: "*/15 * * * *"
+    - cron: "*/60 */4 * * *"
 jobs:
   build:
     name: Update this repo's README with selected feeds
