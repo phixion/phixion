@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 26 - [The Gold Standard and the Great Depression](https://www.nber.org/papers/w6060)
+- Oct 26 - [The Gold Standard and the Great Depression (1997)](https://www.nber.org/papers/w6060)
 - Oct 26 - [CareRev (YC S16) Is Hiring Data Eng and Data Architect](https://news.ycombinator.com/item?id=29002941)
 - Oct 26 - [10% of households pay more than 80% of taxes on alcohol and cigarettes](https://www2.nber.org/papers/w29393%23fromrss)
-- Oct 26 - [Geothermal's Path to Relevance: Cheap Drilling](https://austinvernon.site/blog/drillingplan.html)
-- Oct 26 - [Hacking Hacker News for Fun and Profit – Part 1](https://blog.arnica.io/hacking-hacker-news-for-fun-and-profit-part-1-41bd6a48a2c2?gi=60c4e82c053c)
+- Oct 26 - [Geothermal's path to relevance: cheap drilling](https://austinvernon.site/blog/drillingplan.html)
+- Oct 26 - [Show HN: QuickServ • Dangerously user-friendly web server](https://github.com/jstrieb/quickserv)
 <!--END_SECTION:hn-->
 
 <!--
