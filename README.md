@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 26 - [SARS-CoV-2 variant A.30 is heavily mutated and evades vaccine-induced antibodies](https://www.nature.com/articles/s41423-021-00779-5)
+- Oct 26 - [FBI Raids Chinese Point-of-Sale Giant Pax Technology](https://krebsonsecurity.com/2021/10/fbi-raids-chinese-point-of-sale-giant-pax-technology/)
 - Oct 26 - [The Gold Standard and the Great Depression (1997)](https://www.nber.org/papers/w6060)
-- Oct 26 - [CareRev (YC S16) Is Hiring Data Eng and Data Architect](https://news.ycombinator.com/item?id=29002941)
-- Oct 26 - [10% of households pay more than 80% of taxes on alcohol and cigarettes](https://www2.nber.org/papers/w29393%23fromrss)
+- Oct 26 - [CareRev (YC S16) is hiring data engineers and data architects](https://news.ycombinator.com/item?id=29002941)
 - Oct 26 - [Geothermal's path to relevance: cheap drilling](https://austinvernon.site/blog/drillingplan.html)
-- Oct 26 - [Show HN: QuickServ • Dangerously user-friendly web server](https://github.com/jstrieb/quickserv)
 <!--END_SECTION:hn-->
 
 <!--
