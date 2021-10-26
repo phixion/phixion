@@ -20,10 +20,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 26 - [MagicBell (YC W21) Is Hiring a Senior Ruby on Rails Engineer – Remote](https://boards.eu.greenhouse.io/magicbell/jobs/4002168101?gh_src=0d086342teu)
+- Oct 26 - [Iran says cyberattack closes gas stations across country](https://apnews.com/article/business-middle-east-iran-dubai-united-arab-emirates-0342c10733bc89379e00d99152fe7a1f)
+- Oct 26 - [Frances Haugen Leaking My Facebook Engineering “Goodbye Post”](https://alecmuffett.com/article/14994)
 - Oct 26 - [Apple Privacy Rules to Blame for Facebook's Lower Than Expected Quarterly Growth](https://www.macrumors.com/2021/10/26/apple-privacy-rules-blame-facebook-earnings/)
 - Oct 26 - [CRDT resources](https://wiki.nikitavoloboev.xyz/distributed-systems/crdt)
-- Oct 26 - [GitHub stale bot considered harmful](https://drewdevault.com/2021/10/26/stalebot.html)
-- Oct 26 - [Apple Is Normalising Surveillance](https://www.wired.co.uk/article/apple-surveillance-technology)
 <!--END_SECTION:hn-->
 
 <!--
