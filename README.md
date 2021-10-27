@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 27 - [Ashby (YC W19) Is Hiring Engineers Who Can Design (+ EMs)](https://jobs.ashbyhq.com/ashby)
-- Oct 27 - [Comparing SQLite, DuckDB and Arrow](https://pacha.dev/blog/2021/08/27/comparing-sqlite-duckdb-and-arrow-with-un-trade-data/)
-- Oct 27 - [Roy Fielding's Misappropriated REST Dissertation (2020)](https://twobithistory.org/2020/06/28/rest.html)
-- Oct 27 - [Sci-Fi Icon Neal Stephenson Finally Takes on Global Warming](https://www.wired.com/story/sci-fi-icon-neal-stephenson-global-warming/)
-- Oct 27 - [Models of Programming](https://lambdaland.org/posts/2021-09-25_models_of_programming_draft2/)
+- Oct 27 - [$1.5B lithium deposit discovered in Maine; excavating it poses a legal challenge](https://www.themainemonitor.org/staggering-1-5-billion-lithium-deposit-discovered-near-newry-excavating-it-poses-a-challenge/)
+- Oct 27 - [GiveCampus (YC S15) Is Hiring Our First Senior QA Engineer](https://jobs.lever.co/givecampus/9f90a193-53be-48e3-8d0e-533b89a097a6)
+- Oct 27 - [34% of white college students lied about their race to improve admission chance](https://www.intelligent.com/34-of-white-college-students-lied-about-their-race-to-improve-chances-of-admission-financial-aid-benefits/)
+- Oct 27 - [Launch HN: Eduflow (YC S17) – Async Social Learning](https://news.ycombinator.com/item?id=29011896)
+- Oct 27 - [Sequoia Productive Capital](https://stratechery.com/2021/sequoia-productive-capital/)
 <!--END_SECTION:hn-->
 
 <!--
