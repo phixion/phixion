@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 27 - [Bitcoin is largely controlled by a small group of investors and miners](https://www.techspot.com/news/91937-bitcoin-largely-controlled-small-group-investors-miners-study.html)
-- Oct 27 - [Giant, free index to world's research papers released online](https://www.nature.com/articles/d41586-021-02895-8)
-- Oct 27 - [Make Your Own ColecoVision at Home (Part 4 – Quadrature Controllers)](https://www.leadedsolder.com/2021/10/26/colecovision-diy-part-4.html)
-- Oct 26 - [Howard University’s removal of classics is a spiritual catastrophe](https://www.washingtonpost.com/opinions/2021/04/19/cornel-west-howard-classics/)
-- Oct 26 - [Wikivoyage has disappeared from DuckDuckGo](https://gaganpreet.in/posts/duckduckgo-wikivoyage/)
+- Oct 27 - [Ashby (YC W19) Is Hiring Engineers Who Can Design (+ EMs)](https://jobs.ashbyhq.com/ashby)
+- Oct 27 - [Comparing SQLite, DuckDB and Arrow](https://pacha.dev/blog/2021/08/27/comparing-sqlite-duckdb-and-arrow-with-un-trade-data/)
+- Oct 27 - [Roy Fielding's Misappropriated REST Dissertation (2020)](https://twobithistory.org/2020/06/28/rest.html)
+- Oct 27 - [Sci-Fi Icon Neal Stephenson Finally Takes on Global Warming](https://www.wired.com/story/sci-fi-icon-neal-stephenson-global-warming/)
+- Oct 27 - [Models of Programming](https://lambdaland.org/posts/2021-09-25_models_of_programming_draft2/)
 <!--END_SECTION:hn-->
 
 <!--
