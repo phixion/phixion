@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 27 - [Bitcoin is largely controlled by a small group of investors and miners](https://www.techspot.com/news/91937-bitcoin-largely-controlled-small-group-investors-miners-study.html)
+- Oct 27 - [Giant, free index to world's research papers released online](https://www.nature.com/articles/d41586-021-02895-8)
 - Oct 27 - [Make Your Own ColecoVision at Home (Part 4 – Quadrature Controllers)](https://www.leadedsolder.com/2021/10/26/colecovision-diy-part-4.html)
 - Oct 26 - [Howard University’s removal of classics is a spiritual catastrophe](https://www.washingtonpost.com/opinions/2021/04/19/cornel-west-howard-classics/)
-- Oct 26 - [Retrieve a random Wikipedia page](https://en.wikipedia.org/wiki/Special:Random)
 - Oct 26 - [Wikivoyage has disappeared from DuckDuckGo](https://gaganpreet.in/posts/duckduckgo-wikivoyage/)
-- Oct 26 - [France moves to shield its book industry from Amazon](https://www.reuters.com/business/retail-consumer/france-moves-shield-its-book-industry-amazon-2021-10-25/)
 <!--END_SECTION:hn-->
 
 <!--
