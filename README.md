@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 27 - [Some Were Meant for C (2017) [pdf]](https://www.humprog.org/~stephen/research/papers/kell17some-preprint.pdf)
-- Oct 27 - [Ask HN: State of PHP at Facebook](https://news.ycombinator.com/item?id=29015130)
-- Oct 27 - [2021 MacBook Pro has a replaceable battery](https://www.ifixit.com/News/54122/macbook-pro-2021-teardown)
-- Oct 27 - [In-Demand Tech Skills Are the Last Thing to Look for in IT Hires](https://www.netsuite.com/portal/business-benchmark-brainyard/industries/articles/cfo-central/in-demand-tech-skills.shtml)
-- Oct 27 - [DIY Acoustic Camera](https://navat.substack.com/p/diy-acoustic-camera-using-uma-16)
+- Oct 27 - [Subsidizing costs while restricting supply drives America’s fiscal imbalance](https://www.niskanencenter.org/cost-disease-socialism-how-subsidizing-costs-while-restricting-supply-drives-americas-fiscal-imbalance/)
+- Oct 27 - [Riding the Writing Wave](https://perell.com/essay/writing/)
+- Oct 27 - [Decades of disinformation by fossil fuels halted US climate policy](https://www.npr.org/2021/10/27/1047583610/once-again-the-u-s-has-failed-to-take-sweeping-climate-action-heres-why)
+- Oct 27 - [Why Turtl switched from Common Lisp to JavaScript (2019)](https://lisp-journey.gitlab.io/blog/why-turtl-switched-from-lisp-to-js/)
+- Oct 27 - [How Debian cron handles DST transitions](https://blog.healthchecks.io/2021/10/how-debian-cron-handles-dst-transitions/)
 <!--END_SECTION:hn-->
 
 <!--
