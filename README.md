@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 27 - [$1.5B lithium deposit discovered in Maine; excavating it poses a legal challenge](https://www.themainemonitor.org/staggering-1-5-billion-lithium-deposit-discovered-near-newry-excavating-it-poses-a-challenge/)
-- Oct 27 - [GiveCampus (YC S15) Is Hiring Our First Senior QA Engineer](https://jobs.lever.co/givecampus/9f90a193-53be-48e3-8d0e-533b89a097a6)
-- Oct 27 - [34% of white college students lied about their race to improve admission chance](https://www.intelligent.com/34-of-white-college-students-lied-about-their-race-to-improve-chances-of-admission-financial-aid-benefits/)
-- Oct 27 - [Launch HN: Eduflow (YC S17) – Async Social Learning](https://news.ycombinator.com/item?id=29011896)
-- Oct 27 - [Sequoia Productive Capital](https://stratechery.com/2021/sequoia-productive-capital/)
+- Oct 27 - [Some Were Meant for C (2017) [pdf]](https://www.humprog.org/~stephen/research/papers/kell17some-preprint.pdf)
+- Oct 27 - [Ask HN: State of PHP at Facebook](https://news.ycombinator.com/item?id=29015130)
+- Oct 27 - [2021 MacBook Pro has a replaceable battery](https://www.ifixit.com/News/54122/macbook-pro-2021-teardown)
+- Oct 27 - [In-Demand Tech Skills Are the Last Thing to Look for in IT Hires](https://www.netsuite.com/portal/business-benchmark-brainyard/industries/articles/cfo-central/in-demand-tech-skills.shtml)
+- Oct 27 - [DIY Acoustic Camera](https://navat.substack.com/p/diy-acoustic-camera-using-uma-16)
 <!--END_SECTION:hn-->
 
 <!--
