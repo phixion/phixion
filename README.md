@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 28 - [Open IP over VHF/UHF Part 5](https://www.rowetel.com/?p=7898)
-- Oct 28 - [A tutorial on the principles of fault tolerance (1987) [pdf]](https://www.ias.ac.in/article/fulltext/sadh/011/01-02/0007-0022)
-- Oct 28 - [The 50-year-old P-NP problem that eludes theoretical computer science](https://www.technologyreview.com/2021/10/27/1037123/p-np-theoretical-computer-science/)
-- Oct 28 - [Flexible device could treat hearing loss without batteries](https://www.acs.org/content/acs/en/pressroom/presspacs/2021/acs-presspac-october-27-2021/flexible-device-could-treat-hearing-loss-without-batteries.html)
-- Oct 28 - [Ancient Xinjiang Mummies Are Not of Indo-European Origin](https://www.nature.com/articles/s41586-021-04052-7)
+- Oct 28 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://www.raycast.com/jobs)
+- Oct 28 - [Your Code Displays Japanese Wrong](https://heistak.github.io/your-code-displays-japanese-wrong/)
+- Oct 28 - [Raspberry Pi Zero 2 W](https://www.raspberrypi.com/news/new-raspberry-pi-zero-2-w-2/)
+- Oct 28 - [How Microsoft reduced Windows 11 update size by 40%](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/how-microsoft-reduced-windows-11-update-size-by-40/ba-p/2839794)
+- Oct 28 - [So you want to write a technical book](http://terathon.com/blog/so-you-want-to-write-a-technical-book/)
 <!--END_SECTION:hn-->
 
 <!--
