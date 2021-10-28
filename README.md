@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 27 - [The Robot and the Baby (2004)](http://www-formal.stanford.edu/jmc/robotandbaby/robotandbaby.html)
-- Oct 27 - [Online GIF Tools – Simple, free and easy to use GIF utilities](https://onlinegiftools.com)
-- Oct 27 - [Radio Station WWV](https://www.nist.gov/time-distribution/radio-station-wwv)
-- Oct 27 - [Tim Sweeney: Tax bill would likely end founder control of independent companies](https://twitter.com/TimSweeneyEpic/status/1453484672827240457)
-- Oct 27 - [No YAML](https://noyaml.com/)
+- Oct 28 - [Open IP over VHF/UHF Part 5](https://www.rowetel.com/?p=7898)
+- Oct 28 - [A tutorial on the principles of fault tolerance (1987) [pdf]](https://www.ias.ac.in/article/fulltext/sadh/011/01-02/0007-0022)
+- Oct 28 - [The 50-year-old P-NP problem that eludes theoretical computer science](https://www.technologyreview.com/2021/10/27/1037123/p-np-theoretical-computer-science/)
+- Oct 28 - [Flexible device could treat hearing loss without batteries](https://www.acs.org/content/acs/en/pressroom/presspacs/2021/acs-presspac-october-27-2021/flexible-device-could-treat-hearing-loss-without-batteries.html)
+- Oct 28 - [Ancient Xinjiang Mummies Are Not of Indo-European Origin](https://www.nature.com/articles/s41586-021-04052-7)
 <!--END_SECTION:hn-->
 
 <!--
