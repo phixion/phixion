@@ -1,16 +1,17 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
-  # Schedule updates
   schedule:
-    - cron: "*/20 * * * *"
+    - cron: "0 */4 * * *"
   workflow_dispatch:
   push: { branches: ["main"] }
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Metrics
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
@@ -20,11 +21,13 @@ jobs:
           filename: metrics.svg
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Berlin
+          
           plugin_achievements: yes
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: B
           plugin_isocalendar: yes
           plugin_isocalendar_duration: year
+          
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_colors: complementary
@@ -33,36 +36,50 @@ jobs:
           plugin_languages_recent.load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
+          
           output_action: commit
           optimize: yes
           config_gemoji: yes
           config_animations: yes
+          
           plugin_introduction: yes
           plugin_introduction_title: no
+          
           plugin_habits: yes
           plugin_habits_from: 1000
+          
           plugin_contributors: yes
+          
           plugin_stars: yes
           plugin_stars_limit: 10
+          
           plugin_reactions: yes
+          
           plugin_people: no
           plugin_people_identicons: no
+          
           plugin_gists: yes
           plugin_followup: yes
           plugin_lines: yes
           plugin_traffic: yes
+         
           plugin_activity: yes
           plugin_activity_limit: 10
           plugin_activity_timestamps: yes
+          
           plugin_support: no
+          
           plugin_repositories: yes
           plugin_repositories_featured: phixion/Home-AssistantConfig
+          
           plugin_music: yes
           plugin_music_provider: "spotify"
           plugin_music_token: ${{ secrets.METRICS_SPOTIFY_TOKEN }}
+
 #          plugin_tweets: yes
 #          plugin_tweets_token: ${{ secrets.METRICS_TWITTER_TOKEN }}
 #          plugin_tweets_limit: 5
+
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.METRICS_WAKATIME_TOKEN }}
           plugin_wakatime_user: ${{ secrets.METRICS_WAKATIME_USER }}
