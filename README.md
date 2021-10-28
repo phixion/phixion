@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 28 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://www.raycast.com/jobs)
-- Oct 28 - [Your Code Displays Japanese Wrong](https://heistak.github.io/your-code-displays-japanese-wrong/)
-- Oct 28 - [Raspberry Pi Zero 2 W](https://www.raspberrypi.com/news/new-raspberry-pi-zero-2-w-2/)
-- Oct 28 - [How Microsoft reduced Windows 11 update size by 40%](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/how-microsoft-reduced-windows-11-update-size-by-40/ba-p/2839794)
-- Oct 28 - [So you want to write a technical book](http://terathon.com/blog/so-you-want-to-write-a-technical-book/)
+- Oct 28 - [Zentail (YC S12) Is Hiring Full Stack Engineers in Columbia, MD](https://jobs.lever.co/zentail/342133ef-1fbd-4a49-b346-bc4710250e7c)
+- Oct 28 - [Intel Alder Lake Mobility CPU Faster Than Apple M1 Max](https://wccftech.com/intel-alder-lake-mobility-cpu-benchmarks-leaked-faster-than-the-apple-m1-max-smokes-amd-5980hx-11980hk/)
+- Oct 28 - [The HTML video element needs to go back on the drawing board](https://www.ctrl.blog/entry/html-responsive-video.html)
+- Oct 28 - [Reflections on Software Development from Anywhere on an iPad](https://ghuntley.com/anywhere/)
+- Oct 28 - [Post-SSRI Sexual Dysfunction](https://rxisk.org/post-ssri-sexual-dysfunction-pssd/)
 <!--END_SECTION:hn-->
 
 <!--
