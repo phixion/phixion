@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 28 - [Zentail (YC S12) Is Hiring Full Stack Engineers in Columbia, MD](https://jobs.lever.co/zentail/342133ef-1fbd-4a49-b346-bc4710250e7c)
-- Oct 28 - [Intel Alder Lake Mobility CPU Faster Than Apple M1 Max](https://wccftech.com/intel-alder-lake-mobility-cpu-benchmarks-leaked-faster-than-the-apple-m1-max-smokes-amd-5980hx-11980hk/)
-- Oct 28 - [The HTML video element needs to go back on the drawing board](https://www.ctrl.blog/entry/html-responsive-video.html)
-- Oct 28 - [Reflections on Software Development from Anywhere on an iPad](https://ghuntley.com/anywhere/)
-- Oct 28 - [Post-SSRI Sexual Dysfunction](https://rxisk.org/post-ssri-sexual-dysfunction-pssd/)
+- Oct 28 - [The Unceasing Cessna Hacienda](https://www.damninteresting.com/the-unceasing-cessna-hacienda/)
+- Oct 28 - [Teenage Engineering Computer-1 mini-ITX Chassis](https://teenage.engineering/products/computer-1)
+- Oct 28 - [The main thing about P2P meth is that there's so much of it](https://dynomight.net/p2p-meth/)
+- Oct 28 - [Europe’s First Hydrogen Fuel Cell Sea-Going Ferry Is Powered by Renewable Energy](https://www.autoevolution.com/news/europes-first-hydrogen-fuel-cell-sea-going-ferry-is-powered-purely-by-renewable-energy-172235.html)
+- Oct 28 - [An Unexpected Victory: Container Stacking at the Port of Los Angeles](https://thezvi.wordpress.com/2021/10/28/an-unexpected-victory-container-stacking-at-the-port-of-los-angeles/)
 <!--END_SECTION:hn-->
 
 <!--
