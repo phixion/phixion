@@ -29,7 +29,8 @@ jobs:
           plugin_isocalendar_duration: year
           
           plugin_languages: yes
-          plugin_languages_indepth: yes
+          # https://github.com/lowlighter/metrics/issues/557
+          plugin_languages_indepth: no
           plugin_languages_colors: complementary
           plugin_languages_limit: 8
           plugin_languages_recent.days: 14
