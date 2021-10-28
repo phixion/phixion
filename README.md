@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 28 - [The Unceasing Cessna Hacienda](https://www.damninteresting.com/the-unceasing-cessna-hacienda/)
-- Oct 28 - [Teenage Engineering Computer-1 mini-ITX Chassis](https://teenage.engineering/products/computer-1)
-- Oct 28 - [The main thing about P2P meth is that there's so much of it](https://dynomight.net/p2p-meth/)
-- Oct 28 - [Europe’s First Hydrogen Fuel Cell Sea-Going Ferry Is Powered by Renewable Energy](https://www.autoevolution.com/news/europes-first-hydrogen-fuel-cell-sea-going-ferry-is-powered-purely-by-renewable-energy-172235.html)
-- Oct 28 - [An Unexpected Victory: Container Stacking at the Port of Los Angeles](https://thezvi.wordpress.com/2021/10/28/an-unexpected-victory-container-stacking-at-the-port-of-los-angeles/)
+- Oct 28 - [Merriam Webster adds 455 new words to the dictionary in Oct 2021](https://www.merriam-webster.com/words-at-play/new-words-in-the-dictionary)
+- Oct 28 - [Meta: A Social Technology Company](https://about.fb.com/news/2021/10/facebook-company-is-now-meta/)
+- Oct 28 - [What caused all the supply chain bottlenecks?](https://twitter.com/typesfast/status/1453753924960219145)
+- Oct 28 - [IPv6 Progress Top Sites 2021](https://www.6connect.com/ipv6/ipv6-progress-report-top-sites-2019/)
+- Oct 28 - [The Fluoride Wars Rage On](https://www.nature.com/articles/d41586-021-02924-6)
 <!--END_SECTION:hn-->
 
 <!--
