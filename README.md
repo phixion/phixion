@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 27 - [Subsidizing costs while restricting supply drives America’s fiscal imbalance](https://www.niskanencenter.org/cost-disease-socialism-how-subsidizing-costs-while-restricting-supply-drives-americas-fiscal-imbalance/)
-- Oct 27 - [Riding the Writing Wave](https://perell.com/essay/writing/)
-- Oct 27 - [Decades of disinformation by fossil fuels halted US climate policy](https://www.npr.org/2021/10/27/1047583610/once-again-the-u-s-has-failed-to-take-sweeping-climate-action-heres-why)
-- Oct 27 - [Why Turtl switched from Common Lisp to JavaScript (2019)](https://lisp-journey.gitlab.io/blog/why-turtl-switched-from-lisp-to-js/)
-- Oct 27 - [How Debian cron handles DST transitions](https://blog.healthchecks.io/2021/10/how-debian-cron-handles-dst-transitions/)
+- Oct 27 - [The Robot and the Baby (2004)](http://www-formal.stanford.edu/jmc/robotandbaby/robotandbaby.html)
+- Oct 27 - [Online GIF Tools – Simple, free and easy to use GIF utilities](https://onlinegiftools.com)
+- Oct 27 - [Radio Station WWV](https://www.nist.gov/time-distribution/radio-station-wwv)
+- Oct 27 - [Tim Sweeney: Tax bill would likely end founder control of independent companies](https://twitter.com/TimSweeneyEpic/status/1453484672827240457)
+- Oct 27 - [No YAML](https://noyaml.com/)
 <!--END_SECTION:hn-->
 
 <!--
