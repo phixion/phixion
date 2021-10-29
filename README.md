@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 29 - [Reasons Truck Drivers Walk Out the Door [video]](https://www.youtube.com/watch?v=S7xqbZk8GCU)
-- Oct 29 - [Why do dogs tilt their heads? New study offers clues](https://www.science.org/content/article/why-do-dogs-tilt-their-heads-new-study-offers-clues)
-- Oct 29 - [The M1 Max is the fastest GPU we have ever measured in Affinity Photo benchmark](https://twitter.com/andysomerfield/status/1451859111843356676)
-- Oct 29 - [Swift Distributed Actors](https://swift.org/blog/distributed-actors/)
-- Oct 29 - [Remote-first work is taking over the rich world](https://www.economist.com/finance-and-economics/2021/10/30/remote-first-work-is-taking-over-the-rich-world)
+- Oct 29 - [PhotoRoom (YC S20) Is Hiring a Computer Vision Lead (Paris/Remote)](https://jobs.lever.co/photoroom/bdb26827-1c9b-404a-8c3a-d2abd744dc0a)
+- Oct 29 - [Scientists recreated classic origin-of-life experiment and made a new discovery](https://arstechnica.com/science/2021/10/scientists-recreated-classic-origin-of-life-experiment-and-made-a-new-discovery/)
+- Oct 29 - [Open Steno Project – freeing stenography](http://www.openstenoproject.org/)
+- Oct 29 - [Revisiting “The 4-Hour Workweek”](https://www.newyorker.com/culture/office-space/revisiting-the-4-hour-workweek)
+- Oct 29 - [First Flight of Kestrel, the FPGA OpenPOWER-Based BMC, and Arctic Tern](https://www.talospace.com/2021/10/first-flight-of-kestrel-fpga-openpower.html)
 <!--END_SECTION:hn-->
 
 <!--
