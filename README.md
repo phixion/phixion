@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 29 - [PhotoRoom (YC S20) Is Hiring a Computer Vision Lead (Paris/Remote)](https://jobs.lever.co/photoroom/bdb26827-1c9b-404a-8c3a-d2abd744dc0a)
-- Oct 29 - [Scientists recreated classic origin-of-life experiment and made a new discovery](https://arstechnica.com/science/2021/10/scientists-recreated-classic-origin-of-life-experiment-and-made-a-new-discovery/)
-- Oct 29 - [Open Steno Project – freeing stenography](http://www.openstenoproject.org/)
-- Oct 29 - [Revisiting “The 4-Hour Workweek”](https://www.newyorker.com/culture/office-space/revisiting-the-4-hour-workweek)
-- Oct 29 - [First Flight of Kestrel, the FPGA OpenPOWER-Based BMC, and Arctic Tern](https://www.talospace.com/2021/10/first-flight-of-kestrel-fpga-openpower.html)
+- Oct 29 - [Optery (YC W22) Hiring First Product Manager, Growth Marketer, Back End Engineer](https://optery.breezy.hr)
+- Oct 29 - [Julian Assange Extradition Appeal: Day 2](https://assangedefense.org/hearing-coverage/julian-assange-extradition-appeal-day-2/)
+- Oct 29 - [For a legally blind player, Far Cry 6’s accessibility options are empowering](https://www.polygon.com/22748526/far-cry-6-accessibility-pc-xbox-one-series-x-ps5-ps4)
+- Oct 29 - [OpenBSD: How it all started](https://blog.apnic.net/2021/10/28/openbsd-part-1-how-it-all-started/)
+- Oct 29 - [Firefox on Unix is moving away from X11-based remote control](https://utcc.utoronto.ca/~cks/space/blog/unix/FirefoxNoX11RemoteControl)
 <!--END_SECTION:hn-->
 
 <!--
