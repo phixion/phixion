@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 29 - [Microsoft passes Apple to become the most valuable company](https://www.cnbc.com/2021/10/29/microsoft-passes-apple-to-become-the-worlds-most-valuable-company-.html)
-- Oct 29 - [Apple MacBook Pro 14 and 16 Review: Return to Form](https://www.theverge.com/22751921/apple-macbook-pro-14-16-inch-2021-m1-pro-max-review)
-- Oct 29 - [New Orleans shoeshine man wins legal battle over $30k seized by DEA agents](https://www.nbcnews.com/news/investigations/new-orleans-shoeshine-man-wins-legal-battle-over-30-000-n1282629)
-- Oct 29 - [DuckDB-Wasm: Efficient Analytical SQL in the Browser](https://duckdb.org/2021/10/29/duckdb-wasm.html)
-- Oct 29 - [G-20 Climate Talks Threatened by Clash over Coal Ahead of COP26](https://www.wsj.com/articles/g-20-climate-talks-threatened-by-clash-over-coal-ahead-of-cop26-11635491696)
+- Oct 29 - [An Interview with the Old Man of Floating-Point (1998)](https://people.eecs.berkeley.edu/~wkahan/ieee754status/754story.html)
+- Oct 29 - [Medieval scholars of English commenting on the drift from Anglo Saxon](https://www.etymonline.com/columns/post/out-of-time)
+- Oct 29 - [Browser Fingerprinting Without JavaScript](https://fingerprintjs.com/blog/disabling-javascript-wont-stop-fingerprinting/)
+- Oct 29 - [MethaneSAT](https://www.methanesat.org//)
+- Oct 29 - [Grand jury subpoena for Signal user data, Central District of California](https://signal.org/bigbrother/cd-california-grand-jury/)
 <!--END_SECTION:hn-->
 
 <!--
