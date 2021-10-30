@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 29 - [An Interview with the Old Man of Floating-Point (1998)](https://people.eecs.berkeley.edu/~wkahan/ieee754status/754story.html)
-- Oct 29 - [Medieval scholars of English commenting on the drift from Anglo Saxon](https://www.etymonline.com/columns/post/out-of-time)
-- Oct 29 - [Browser Fingerprinting Without JavaScript](https://fingerprintjs.com/blog/disabling-javascript-wont-stop-fingerprinting/)
-- Oct 29 - [MethaneSAT](https://www.methanesat.org//)
-- Oct 29 - [Grand jury subpoena for Signal user data, Central District of California](https://signal.org/bigbrother/cd-california-grand-jury/)
+- Oct 30 - [Vimconf 2021 – Oct 29, 30](https://www.vimconf.live/)
+- Oct 29 - [Roblox has been down for over 24 hours](https://status.roblox.com/)
+- Oct 29 - [Circular Harmonics](https://valdes.cc/articles/ch.html)
+- Oct 29 - [Better Operator Precedence](https://scattered-thoughts.net/writing/better-operator-precedence/)
+- Oct 29 - [FAA approves hundreds more engines to use unleaded avgas](https://www.aopa.org/news-and-media/all-news/2021/october/28/faa-approves-hundreds-more-engines-to-use-unleaded-avgas)
 <!--END_SECTION:hn-->
 
 <!--
