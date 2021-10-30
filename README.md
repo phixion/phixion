@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 30 - [Beyond inductive datatypes: exploring Self types](https://github.com/kind-lang/Kind/blob/master/blog/1-beyond-inductive-datatypes.md)
-- Oct 30 - [An Ode to the 10k RPM Western Digital (Veloci)Raptor](https://louwrentius.com/an-ode-to-the-10000-rpm-western-digital-velociraptor.html)
-- Oct 30 - [Raspberry Pi 4 achieves Vulkan 1.1 conformance, gets 60% GPU performance boost](https://www.cnx-software.com/2021/10/27/raspberry-pi-4-achieves-vulkan-1-1-conformance-gets-up-to-60-gpu-performance-boost/)
-- Oct 30 - [Meta buys Within, the studio behind VR fitness app Supernatural](https://www.roadtovr.com/meta-facebook-within-supernatural-acquisition-vr-studio/)
-- Oct 30 - [How to help a programming student get unstuck](https://offbyone.us/posts/how-to-help-a-student-get-unstuck/)
+- Oct 30 - [Dangerous Logging in Swift](https://indiestack.com/2021/10/dangerous-logging-in-swift/)
+- Oct 30 - [Niagara Falls Schoellkopf Power Station Disaster of 1956](https://www.niagarafrontier.com/schoellkopf.html)
+- Oct 30 - [Biometric and behavioural mass surveillance in EU Member States](https://www.greens-efa.eu/biometricsurveillance/)
+- Oct 30 - [Young people are leaving their jobs in record numbers and not going back](https://time.com/6111245/young-workers-quitting/)
+- Oct 30 - [The first report of asexual reproduction in California condors](https://apnews.com/article/science-lifestyle-environment-and-nature-california-san-diego-681720b1602ab1a93792c7c1f68a9c54)
 <!--END_SECTION:hn-->
 
 <!--
