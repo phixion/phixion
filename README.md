@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 30 - [Meticulous (YC S21) Is Hiring Founding Engineer (London)](https://news.ycombinator.com/item?id=29048110)
-- Oct 30 - [Programmer's emotions](https://blog.sidebits.tech/programmers-emotions/)
-- Oct 30 - [Ceefax from an old Raspberry Pi](http://www.suppertime.co.uk/blogmywiki/2021/10/ceefax-from-an-old-raspberry-pi/)
-- Oct 30 - [Show HN: SectorLISP Now Fits in One Sector](https://justine.lol/sectorlisp/)
-- Oct 30 - [Firefox 94 To Start Using EGL On Linux](https://mozillagfx.wordpress.com/2021/10/30/switching-the-linux-graphics-stack-from-glx-to-egl/)
+- Oct 30 - [Beyond inductive datatypes: exploring Self types](https://github.com/kind-lang/Kind/blob/master/blog/1-beyond-inductive-datatypes.md)
+- Oct 30 - [An Ode to the 10k RPM Western Digital (Veloci)Raptor](https://louwrentius.com/an-ode-to-the-10000-rpm-western-digital-velociraptor.html)
+- Oct 30 - [Raspberry Pi 4 achieves Vulkan 1.1 conformance, gets 60% GPU performance boost](https://www.cnx-software.com/2021/10/27/raspberry-pi-4-achieves-vulkan-1-1-conformance-gets-up-to-60-gpu-performance-boost/)
+- Oct 30 - [Meta buys Within, the studio behind VR fitness app Supernatural](https://www.roadtovr.com/meta-facebook-within-supernatural-acquisition-vr-studio/)
+- Oct 30 - [How to help a programming student get unstuck](https://offbyone.us/posts/how-to-help-a-student-get-unstuck/)
 <!--END_SECTION:hn-->
 
 <!--
