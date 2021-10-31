@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 30 - [Dangerous Logging in Swift](https://indiestack.com/2021/10/dangerous-logging-in-swift/)
-- Oct 30 - [Niagara Falls Schoellkopf Power Station Disaster of 1956](https://www.niagarafrontier.com/schoellkopf.html)
-- Oct 30 - [Biometric and behavioural mass surveillance in EU Member States](https://www.greens-efa.eu/biometricsurveillance/)
-- Oct 30 - [Young people are leaving their jobs in record numbers and not going back](https://time.com/6111245/young-workers-quitting/)
-- Oct 30 - [The first report of asexual reproduction in California condors](https://apnews.com/article/science-lifestyle-environment-and-nature-california-san-diego-681720b1602ab1a93792c7c1f68a9c54)
+- Oct 30 - [Edward Snowden on corporate media hiring surveillance state operatives and liars](https://twitter.com/Snowden/status/1454542964470996999)
+- Oct 30 - [Fundamentals of Piano Practice](https://fundamentals-of-piano-practice.readthedocs.io/)
+- Oct 30 - [Path (YC S19) Is Hiring Founding Engineers](https://www.notion.so/pathfinance/Fullstack-Engineer-Path-YC-S19-ff0fd31fa5d4410dafce77f83403ce0d)
+- Oct 30 - [Considerate Book Pricing](https://sive.rs/bp)
+- Oct 30 - [macOS has become more reliable](https://eclecticlight.co/2021/10/29/how-macos-is-more-reliable-and-doesnt-need-reinstalling/)
 <!--END_SECTION:hn-->
 
 <!--
