@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 31 - [Substantially more monarch butterflies have arrived in California to overwinter](https://www.goodnewsnetwork.org/far-more-monarch-butterflies-in-ca-this-year/)
-- Oct 31 - [Death by Bureaucracy](https://www.wethecitizens.net/death-by-bureaucracy/)
-- Oct 31 - [Seeding oceans with volcanic ash could be new tool to tackle climate change](https://www.chemistryworld.com/news/seeding-oceans-with-volcanic-ash-could-be-new-tool-to-tackle-climate-change/4012523.article)
-- Oct 31 - [I Miss the Old Internet (2019)](http://misc-stuff.terraaeon.com/articles/miss-old-internet.html/)
-- Oct 31 - [The Viking obsession with werewolves](https://www.atlasobscura.com/articles/hidden-history-viking-wolf-warrior-werewolf)
+- Oct 31 - [Six Truths About Video Game Stories](https://bottomfeeder.substack.com/p/six-truths-about-video-game-stories)
+- Oct 31 - [SigNoz (YC W21) Is Hiring Golang Engineers](https://www.ycombinator.com/companies/signoz/jobs/uCt5BQw-founding-sr-backend-engineer)
+- Oct 31 - [Chan Zuckerberg Initiative sunsetting science research platform meta.org](https://cziscience.medium.com/meta-transition-5f66b1fae475)
+- Oct 31 - [Awesome Userscripts](https://project-awesome.org/brunocvcunha/awesome-userscripts)
+- Oct 31 - [RFC1606 – A Historical Perspective on the Usage of IP Version 9](https://datatracker.ietf.org/doc/html/rfc1606)
 <!--END_SECTION:hn-->
 
 <!--
