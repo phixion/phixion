@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 30 - [Edward Snowden on corporate media hiring surveillance state operatives and liars](https://twitter.com/Snowden/status/1454542964470996999)
-- Oct 30 - [Fundamentals of Piano Practice](https://fundamentals-of-piano-practice.readthedocs.io/)
-- Oct 30 - [Path (YC S19) Is Hiring Founding Engineers](https://www.notion.so/pathfinance/Fullstack-Engineer-Path-YC-S19-ff0fd31fa5d4410dafce77f83403ce0d)
-- Oct 30 - [Considerate Book Pricing](https://sive.rs/bp)
-- Oct 30 - [macOS has become more reliable](https://eclecticlight.co/2021/10/29/how-macos-is-more-reliable-and-doesnt-need-reinstalling/)
+- Oct 31 - [Substantially more monarch butterflies have arrived in California to overwinter](https://www.goodnewsnetwork.org/far-more-monarch-butterflies-in-ca-this-year/)
+- Oct 31 - [Death by Bureaucracy](https://www.wethecitizens.net/death-by-bureaucracy/)
+- Oct 31 - [Seeding oceans with volcanic ash could be new tool to tackle climate change](https://www.chemistryworld.com/news/seeding-oceans-with-volcanic-ash-could-be-new-tool-to-tackle-climate-change/4012523.article)
+- Oct 31 - [I Miss the Old Internet (2019)](http://misc-stuff.terraaeon.com/articles/miss-old-internet.html/)
+- Oct 31 - [The Viking obsession with werewolves](https://www.atlasobscura.com/articles/hidden-history-viking-wolf-warrior-werewolf)
 <!--END_SECTION:hn-->
 
 <!--
