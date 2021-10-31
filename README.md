@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 31 - [Encrypting Postgres Data at Rest in Kubernetes](https://blog.crunchydata.com/blog/encrypting-postgres-data-at-rest-in-kubernetes)
-- Oct 31 - [CT Scan of a Pumpkin](http://randomfootage.homestead.com/pumpkinctscan.html)
-- Oct 31 - [Are We on the Verge of Chatting with Whales?](https://www.hakaimagazine.com/features/are-we-on-the-verge-of-chatting-with-whales/)
-- Oct 31 - [A completely-from-scratch hobby operating system](https://github.com/klange/toaruos)
-- Oct 31 - [Wacom drawing tablets track the name of every application that you open](https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/)
+- Oct 31 - [Watermelons Are a Technology](https://seasonal.substack.com/p/watermelons)
+- Oct 31 - [An Introduction to the Legal Implications of Cloud-Based Video Games](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949611)
+- Oct 31 - [Show HN: Use your iPhone's camera to see any photo on your wall](https://apps.apple.com/us/app/canvify/id1591755222)
+- Oct 31 - [How to send a real number using a single bit (and some shared randomness)](http://mybiasedcoin.blogspot.com/2021/10/how-to-send-real-number-using-single.html)
+- Oct 31 - [Mind Grenade (2019)](http://www.fourmilab.ch/webtools/MindGrenade/)
 <!--END_SECTION:hn-->
 
 <!--
