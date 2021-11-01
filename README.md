@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 01 - [When Will the New MacBook Pro Be Refurbished?](https://www.refurb.me/blog/when-will-the-new-macbook-pro-be-refurbished)
-- Nov 01 - [Man left shocked as his house is 'stolen'](https://www.bbc.co.uk/news/uk-england-essex-59069662)
-- Nov 01 - [SizeBench: A new tool for analyzing Windows binary size](https://devblogs.microsoft.com/performance-diagnostics/sizebench-a-new-tool-for-analyzing-windows-binary-size/)
-- Nov 01 - [Livermore's Centennial Light, the World's Longest Burning Light Bulb](https://www.centennialbulb.org/)
-- Nov 01 - [Ask HN: Who is hiring? (November 2021)](https://news.ycombinator.com/item?id=29067493)
+- Nov 01 - [Report on Stablecoins [pdf]](https://home.treasury.gov/system/files/136/StableCoinReport_Nov1_508.pdf)
+- Nov 01 - [A truly open-source MongoDB alternative](https://www.mangodb.io/)
+- Nov 01 - [Launch HN: Promoted (YC W21) - Search and feed ranking for marketplaces](https://news.ycombinator.com/item?id=29071609)
+- Nov 01 - [Engelbart's Violin (2012)](http://www.loper-os.org/?p=861)
+- Nov 01 - [As teens left Facebook, it planned to target 6-year-olds, documents show](https://arstechnica.com/tech-policy/2021/11/facebook-wanted-to-hook-6-year-olds-with-new-apps-documents-show/)
 <!--END_SECTION:hn-->
 
 <!--
