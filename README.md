@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 01 - [Most Covid-19 hospitalizations due to four conditions](https://www.nih.gov/news-events/nih-research-matters/most-covid-19-hospitalizations-due-four-conditions)
-- Nov 01 - [The Patriot Act Has Threatened Freedom for 20 Years](https://www.cato.org/commentary/patriot-act-has-threatened-freedom-20-years)
-- Nov 01 - [Skimpflation: A reason inflation is worse than the government says it is](https://www.npr.org/sections/money/2021/10/26/1048892388/meet-skimpflation-a-reason-inflation-is-worse-than-the-government-says-it-is?ft=nprml&amp;f=1048892388)
-- Nov 01 - [An Update on Our Outage](https://blog.roblox.com/2021/10/update-recent-service-outage/)
-- Nov 01 - [OmniDB – Open-Source Collaborative Environment for Database Management](https://omnidb.org/)
+- Nov 01 - [A cross platform front-end GUI of the popular YouTube-dl written in wxPython](https://github.com/MrS0m30n3/youtube-dl-gui)
+- Nov 01 - [3Blue1Brown – SoME1 (Summer of Math Expositions) Results](https://www.3blue1brown.com/blog/some1-results)
+- Nov 01 - [Stephen Wolfram: The Personal Analytics of My Life (2012)](https://www.wired.com/2012/03/opinion-wolfram-life-analytics/)
+- Nov 01 - [Crypto Cities](https://vitalik.ca/general/2021/10/31/cities.html)
+- Nov 01 - [Apache Drill: the reports of my death have been greatly exaggerated](https://drill.apache.org/blog/2021/10/30/reports-of-my-death/)
 <!--END_SECTION:hn-->
 
 <!--
