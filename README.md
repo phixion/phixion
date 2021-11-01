@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 31 - [Watermelons Are a Technology](https://seasonal.substack.com/p/watermelons)
-- Oct 31 - [An Introduction to the Legal Implications of Cloud-Based Video Games](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949611)
-- Oct 31 - [Show HN: Use your iPhone's camera to see any photo on your wall](https://apps.apple.com/us/app/canvify/id1591755222)
-- Oct 31 - [How to send a real number using a single bit (and some shared randomness)](http://mybiasedcoin.blogspot.com/2021/10/how-to-send-real-number-using-single.html)
-- Oct 31 - [Mind Grenade (2019)](http://www.fourmilab.ch/webtools/MindGrenade/)
+- Nov 01 - [Trojan Source: Invisible Vulnerabilities](https://www.lightbluetouchpaper.org/2021/11/01/trojan-source-invisible-vulnerabilities/)
+- Oct 31 - [The most powerful MRI scanner in the world delivers its first images](https://www.cea.fr/english/Pages/News/premieres-images-irm-iseult-2021.aspx)
+- Oct 31 - [Xt_sslpin: TLS Cert Pinning with Netfilter](https://github.com/fredburger/xt_sslpin)
+- Oct 31 - [It's hard to overstate what a scam academic and scientific publishing is](https://twitter.com/doctorow/status/1453753539726094341)
+- Oct 31 - [Live Not by Lies (1974)](https://www.solzhenitsyncenter.org/live-not-by-lies)
 <!--END_SECTION:hn-->
 
 <!--
