@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 01 - [Trojan Source: Invisible Vulnerabilities](https://www.lightbluetouchpaper.org/2021/11/01/trojan-source-invisible-vulnerabilities/)
-- Oct 31 - [The most powerful MRI scanner in the world delivers its first images](https://www.cea.fr/english/Pages/News/premieres-images-irm-iseult-2021.aspx)
-- Oct 31 - [Xt_sslpin: TLS Cert Pinning with Netfilter](https://github.com/fredburger/xt_sslpin)
-- Oct 31 - [It's hard to overstate what a scam academic and scientific publishing is](https://twitter.com/doctorow/status/1453753539726094341)
-- Oct 31 - [Live Not by Lies (1974)](https://www.solzhenitsyncenter.org/live-not-by-lies)
+- Nov 01 - [Most Covid-19 hospitalizations due to four conditions](https://www.nih.gov/news-events/nih-research-matters/most-covid-19-hospitalizations-due-four-conditions)
+- Nov 01 - [The Patriot Act Has Threatened Freedom for 20 Years](https://www.cato.org/commentary/patriot-act-has-threatened-freedom-20-years)
+- Nov 01 - [Skimpflation: A reason inflation is worse than the government says it is](https://www.npr.org/sections/money/2021/10/26/1048892388/meet-skimpflation-a-reason-inflation-is-worse-than-the-government-says-it-is?ft=nprml&amp;f=1048892388)
+- Nov 01 - [An Update on Our Outage](https://blog.roblox.com/2021/10/update-recent-service-outage/)
+- Nov 01 - [OmniDB – Open-Source Collaborative Environment for Database Management](https://omnidb.org/)
 <!--END_SECTION:hn-->
 
 <!--
