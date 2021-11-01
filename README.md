@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 01 - [Poll Everywhere (YC S08) Is Hiring a Front End Engineer](https://jobs.lever.co/polleverywhere/c2fe868d-a814-475d-bc20-b3a088f2f66c)
-- Nov 01 - [GCC Rust Monthly Report #11 October 2021](https://thephilbert.io/2021/11/01/gcc-rust-monthly-report-11-october-2021/)
-- Nov 01 - [Using a VPN could become a criminal offence under new CFAA interpretation](https://news.ycombinator.com/item?id=29065443)
-- Nov 01 - [Terminal boredom, or how to go on with life when less is indeed less](https://applied-langua.ge/posts/terminal-boredom.html)
-- Nov 01 - [They don't even know the fundamentals](https://blog.royalsloth.eu/posts/they-dont-even-know-the-fundamentals/)
+- Nov 01 - [When Will the New MacBook Pro Be Refurbished?](https://www.refurb.me/blog/when-will-the-new-macbook-pro-be-refurbished)
+- Nov 01 - [Man left shocked as his house is 'stolen'](https://www.bbc.co.uk/news/uk-england-essex-59069662)
+- Nov 01 - [SizeBench: A new tool for analyzing Windows binary size](https://devblogs.microsoft.com/performance-diagnostics/sizebench-a-new-tool-for-analyzing-windows-binary-size/)
+- Nov 01 - [Livermore's Centennial Light, the World's Longest Burning Light Bulb](https://www.centennialbulb.org/)
+- Nov 01 - [Ask HN: Who is hiring? (November 2021)](https://news.ycombinator.com/item?id=29067493)
 <!--END_SECTION:hn-->
 
 <!--
