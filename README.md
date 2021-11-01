@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 01 - [A cross platform front-end GUI of the popular YouTube-dl written in wxPython](https://github.com/MrS0m30n3/youtube-dl-gui)
-- Nov 01 - [3Blue1Brown – SoME1 (Summer of Math Expositions) Results](https://www.3blue1brown.com/blog/some1-results)
-- Nov 01 - [Stephen Wolfram: The Personal Analytics of My Life (2012)](https://www.wired.com/2012/03/opinion-wolfram-life-analytics/)
-- Nov 01 - [Crypto Cities](https://vitalik.ca/general/2021/10/31/cities.html)
-- Nov 01 - [Apache Drill: the reports of my death have been greatly exaggerated](https://drill.apache.org/blog/2021/10/30/reports-of-my-death/)
+- Nov 01 - [Poll Everywhere (YC S08) Is Hiring a Front End Engineer](https://jobs.lever.co/polleverywhere/c2fe868d-a814-475d-bc20-b3a088f2f66c)
+- Nov 01 - [GCC Rust Monthly Report #11 October 2021](https://thephilbert.io/2021/11/01/gcc-rust-monthly-report-11-october-2021/)
+- Nov 01 - [Using a VPN could become a criminal offence under new CFAA interpretation](https://news.ycombinator.com/item?id=29065443)
+- Nov 01 - [Terminal boredom, or how to go on with life when less is indeed less](https://applied-langua.ge/posts/terminal-boredom.html)
+- Nov 01 - [They don't even know the fundamentals](https://blog.royalsloth.eu/posts/they-dont-even-know-the-fundamentals/)
 <!--END_SECTION:hn-->
 
 <!--
