@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 02 - [ProPhone (YC W21) Is Hiring – VP of Engineering](https://www.ycombinator.com/companies/prophone/jobs/g0jaPbJ-vp-of-engineering)
-- Nov 02 - [Zoom Video adding advertisements to the free tier of its service](https://blog.zoom.us/zoom-continued-access-for-basic-users-with-advertising-program/)
-- Nov 02 - [Silicon Valley wants to power the U.S. war machine](https://www.fastcompany.com/90686262/silicon-valley-wants-to-power-the-u-s-war-machine)
-- Nov 02 - [Trump's new social media platform violates Mastodon's licence](https://blog.joinmastodon.org/2021/10/trumps-new-social-media-platform-found-using-mastodon-code/)
-- Nov 02 - [Ask HN: Best Alternative to Homebrew in 2021?](https://news.ycombinator.com/item?id=29079096)
+- Nov 02 - [Ammonia Sparks Unexpected Exotic Lightning on Jupiter](https://news.cornell.edu/stories/2020/08/ammonia-sparks-unexpected-exotic-lightning-jupiter)
+- Nov 02 - [Fedora 35](https://getfedora.org/en/workstation/download/)
+- Nov 02 - [How to Read “Gilgamesh”](https://www.newyorker.com/magazine/2019/10/14/how-to-read-gilgamesh)
+- Nov 02 - [Meadowlark, fully-featured DAW written in Rust](https://github.com/MeadowlarkDAW/Meadowlark)
+- Nov 02 - [People prefer friendliness, trustworthiness in teammates over skill competency](https://www.binghamton.edu/news/story/3318/research-people-prefer-friendliness-trustworthiness-in-teammates-over-skill-competency)
 <!--END_SECTION:hn-->
 
 <!--
