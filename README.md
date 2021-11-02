@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 01 - [Report on Stablecoins [pdf]](https://home.treasury.gov/system/files/136/StableCoinReport_Nov1_508.pdf)
-- Nov 01 - [A truly open-source MongoDB alternative](https://www.mangodb.io/)
-- Nov 01 - [Launch HN: Promoted (YC W21) - Search and feed ranking for marketplaces](https://news.ycombinator.com/item?id=29071609)
-- Nov 01 - [Engelbart's Violin (2012)](http://www.loper-os.org/?p=861)
-- Nov 01 - [As teens left Facebook, it planned to target 6-year-olds, documents show](https://arstechnica.com/tech-policy/2021/11/facebook-wanted-to-hook-6-year-olds-with-new-apps-documents-show/)
+- Nov 01 - [Townscaper’s Rendering Style in WebGL](https://reindernijhoff.net/2021/11/townscapers-rendering-style-in-webgl/)
+- Nov 01 - [Ask HN: What you up to? (Who doesn't want to be hired?)](https://news.ycombinator.com/item?id=29073996)
+- Nov 01 - [The high cost of software in the 1980s (2019)](https://robservatory.com/the-high-cost-of-software-in-the-1980s/)
+- Nov 01 - [Modern Treasury (YC S18) is hiring engineers to build a universal banking API](https://www.moderntreasury.com/careers?utm_source=yYPEbOqnBd)
+- Nov 01 - [C³: A "cool" route to the Higgs boson and beyond](https://arxiv.org/abs/2110.15800)
 <!--END_SECTION:hn-->
 
 <!--
