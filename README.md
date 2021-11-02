@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 01 - [Townscaper’s Rendering Style in WebGL](https://reindernijhoff.net/2021/11/townscapers-rendering-style-in-webgl/)
-- Nov 01 - [Ask HN: What you up to? (Who doesn't want to be hired?)](https://news.ycombinator.com/item?id=29073996)
-- Nov 01 - [The high cost of software in the 1980s (2019)](https://robservatory.com/the-high-cost-of-software-in-the-1980s/)
-- Nov 01 - [Modern Treasury (YC S18) is hiring engineers to build a universal banking API](https://www.moderntreasury.com/careers?utm_source=yYPEbOqnBd)
-- Nov 01 - [C³: A "cool" route to the Higgs boson and beyond](https://arxiv.org/abs/2110.15800)
+- Nov 02 - [Brown Physics Student Manfred Steiner Earns PhD at Age 89](https://www.brown.edu/academics/physics/news/2021/11/brown-physics-student-manfred-steiner-earns-phd-age-89)
+- Nov 02 - [When “Foundation” Gets the Blockbuster Treatment, Asimov’s Vision Gets Lost](https://www.newyorker.com/magazine/2021/11/08/when-foundation-gets-the-blockbuster-treatment-isaac-asimovs-vision-gets-lost-sci-fi)
+- Nov 02 - [Show HN: Privacy-first, minimal, fast blogging/newsletter platform](https://papyrus.so/)
+- Nov 02 - [Finley (YC W21) is hiring engineers to build fintech infrastructure](https://www.finleycms.com/careers/)
+- Nov 02 - [Core scheduling lands in [Linux] 5.14](https://lwn.net/Articles/861251/)
 <!--END_SECTION:hn-->
 
 <!--
