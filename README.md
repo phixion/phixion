@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 02 - [Ammonia Sparks Unexpected Exotic Lightning on Jupiter](https://news.cornell.edu/stories/2020/08/ammonia-sparks-unexpected-exotic-lightning-jupiter)
-- Nov 02 - [Fedora 35](https://getfedora.org/en/workstation/download/)
-- Nov 02 - [How to Read “Gilgamesh”](https://www.newyorker.com/magazine/2019/10/14/how-to-read-gilgamesh)
-- Nov 02 - [Meadowlark, fully-featured DAW written in Rust](https://github.com/MeadowlarkDAW/Meadowlark)
-- Nov 02 - [People prefer friendliness, trustworthiness in teammates over skill competency](https://www.binghamton.edu/news/story/3318/research-people-prefer-friendliness-trustworthiness-in-teammates-over-skill-competency)
+- Nov 02 - [Justice sues to block Penguin Random House’s acquisition of Simon and Schuster](https://www.justice.gov/opa/pr/justice-department-sues-block-penguin-random-house-s-acquisition-rival-publisher-simon)
+- Nov 02 - [Zepto (YC W21), a grocery delivery app in India, raises $60M](https://techcrunch.com/2021/10/31/indias-zepto-a-10-minute-grocery-delivery-app-founded-by-two-19-year-old-stanford-dropouts-raises-60-million/)
+- Nov 02 - [Use YouTube to improve your English pronunciation](https://youglish.com/)
+- Nov 02 - [Launch HN: Typedream (YC W20) – WYSIWYG website builder](https://news.ycombinator.com/item?id=29084309)
+- Nov 02 - [Toxiproxy is a framework for simulating network conditions](https://github.com/Shopify/toxiproxy)
 <!--END_SECTION:hn-->
 
 <!--
