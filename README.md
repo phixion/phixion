@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 02 - [Brown Physics Student Manfred Steiner Earns PhD at Age 89](https://www.brown.edu/academics/physics/news/2021/11/brown-physics-student-manfred-steiner-earns-phd-age-89)
-- Nov 02 - [When “Foundation” Gets the Blockbuster Treatment, Asimov’s Vision Gets Lost](https://www.newyorker.com/magazine/2021/11/08/when-foundation-gets-the-blockbuster-treatment-isaac-asimovs-vision-gets-lost-sci-fi)
+- Nov 02 - [Webiny (YC W21) Is Hiring – Technical Content Writer](https://www.ycombinator.com/companies/webiny/jobs/njOiniP-technical-content-writer)
+- Nov 02 - [Ada implementation of an X Window System Server (1989)](https://sci-hub.se/10.1145/74261.74264)
+- Nov 02 - [Mysorean Rockets](https://en.wikipedia.org/wiki/Mysorean_rockets)
+- Nov 02 - [Physics Student Earns PhD at Age 89](https://www.brown.edu/academics/physics/news/2021/11/brown-physics-student-manfred-steiner-earns-phd-age-89)
 - Nov 02 - [Show HN: Privacy-first, minimal, fast blogging/newsletter platform](https://papyrus.so/)
-- Nov 02 - [Finley (YC W21) is hiring engineers to build fintech infrastructure](https://www.finleycms.com/careers/)
-- Nov 02 - [Core scheduling lands in [Linux] 5.14](https://lwn.net/Articles/861251/)
 <!--END_SECTION:hn-->
 
 <!--
