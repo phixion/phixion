@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 03 - [Nazca – New GUI for the Web](https://github.com/Qinti/nazca)
-- Nov 03 - [CoinTracker (YC W18) is hiring second recruiter to build a formidable team](https://jobs.ashbyhq.com/cointracker/b236a2ed-620f-4ccf-a1b6-a281da36ace0)
-- Nov 03 - [Beyond Whiteboarding: Creating Expert System Architecture Diagrams](https://blog.ilograph.com/posts/beyond-whiteboarding-creating-expert-system-architecture-diagrams/)
-- Nov 03 - [Ask HN: Salary discussions – numbers are before or after taxes?](https://news.ycombinator.com/item?id=29093338)
-- Nov 03 - [Microcentury (2020)](https://susam.in/blog/microcentury.html)
+- Nov 03 - [Trying to Get a Job in a Labor Shortage Is Harder Than You Think](https://goodjobsinstitute.medium.com/4a53978980f4)
+- Nov 03 - [Thank You, GitHub](https://github.blog/2021-11-03-thank-you-github/)
+- Nov 03 - [Israeli spyware company NSO Group placed on US blacklist](https://www.theguardian.com/us-news/2021/nov/03/nso-group-pegasus-spyware-us-blacklist)
+- Nov 03 - [Organ transplant patients (maybe) don't get dementia. Here's why](https://trevorklee.com/organ-transplant-patients-maybe-dont-get-dementia-heres-why/)
+- Nov 03 - [US puts Israeli spyware firm NSO Group on trade blacklist](https://www.ft.com/content/e381b556-c859-4a3b-8f7c-5fe80d3272d2)
 <!--END_SECTION:hn-->
 
 <!--
