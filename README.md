@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 03 - [Standard (YC S17) Is Hiring SREs and MLEs, US and Europe (Remote)](https://careers.standard.ai/)
-- Nov 03 - [How X Window Managers Work, and How to Write One (2014)](https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/)
-- Nov 03 - [Pyheatmagic: Profile and view your Python code as a heat map](https://github.com/csurfer/pyheatmagic)
-- Nov 03 - [Show HN: AWS credentials management CLI tool](https://github.com/iamarkadyt/aws-auth)
-- Nov 03 - [TLSNotary – Prove you received a webpage from a server with TLS signatures](https://tlsnotary.org)
+- Nov 03 - [Nazca – New GUI for the Web](https://github.com/Qinti/nazca)
+- Nov 03 - [CoinTracker (YC W18) is hiring second recruiter to build a formidable team](https://jobs.ashbyhq.com/cointracker/b236a2ed-620f-4ccf-a1b6-a281da36ace0)
+- Nov 03 - [Beyond Whiteboarding: Creating Expert System Architecture Diagrams](https://blog.ilograph.com/posts/beyond-whiteboarding-creating-expert-system-architecture-diagrams/)
+- Nov 03 - [Ask HN: Salary discussions – numbers are before or after taxes?](https://news.ycombinator.com/item?id=29093338)
+- Nov 03 - [Microcentury (2020)](https://susam.in/blog/microcentury.html)
 <!--END_SECTION:hn-->
 
 <!--
