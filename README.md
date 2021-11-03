@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 02 - [Modernizing the Wolfenstein 3D Fizzlefade Algorithm (2017)](https://jacopretorius.net/2017/09/wolfeinstein-3d-fizzlefade-algorithm.html)
+- Nov 03 - [Show HN: AWS credentials management CLI tool](https://github.com/iamarkadyt/aws-auth)
+- Nov 03 - [What I learned from a year on Substack](https://www.niemanlab.org/2021/09/what-i-learned-from-a-year-on-substack/)
+- Nov 03 - [Elements may have been forged on Earth, as well as in space](https://physicsworld.com/a/elements-may-have-been-forged-on-earth-as-well-as-in-space/)
+- Nov 03 - [Corrily (YC W21) Is Hiring a Senior Data Engineer](https://corrily.crew.work/jobs/61816dd0b896270d9e61c812)
 - Nov 02 - [Stop spending so much time being trolled by billionaire corps](https://lemire.me/blog/2021/11/02/stop-spending-so-much-time-being-trolled-by-billionaire-corporations/)
-- Nov 02 - [Nginx – The Architecture of Open Source Applications](https://aosabook.org/en/nginx.html)
-- Nov 02 - [ct.css – Take a look inside your &lt;head&gt;](https://github.com/csswizardry/ct)
-- Nov 02 - [Zillow to stop flipping homes, loses more than $550M, lays off 25% of staff](https://www.marketwatch.com/story/zillow-to-stop-flipping-homes-for-good-as-it-stands-to-lose-more-than-550-million-will-lay-off-a-quarter-of-staff-11635885027)
 <!--END_SECTION:hn-->
 
 <!--
