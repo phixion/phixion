@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 03 - [Trying to Get a Job in a Labor Shortage Is Harder Than You Think](https://goodjobsinstitute.medium.com/4a53978980f4)
-- Nov 03 - [Thank You, GitHub](https://github.blog/2021-11-03-thank-you-github/)
-- Nov 03 - [Israeli spyware company NSO Group placed on US blacklist](https://www.theguardian.com/us-news/2021/nov/03/nso-group-pegasus-spyware-us-blacklist)
-- Nov 03 - [Organ transplant patients (maybe) don't get dementia. Here's why](https://trevorklee.com/organ-transplant-patients-maybe-dont-get-dementia-heres-why/)
-- Nov 03 - [US puts Israeli spyware firm NSO Group on trade blacklist](https://www.ft.com/content/e381b556-c859-4a3b-8f7c-5fe80d3272d2)
+- Nov 03 - [Fortification, Part I: The Besieger’s Playbook](https://acoup.blog/2021/10/29/collections-fortification-part-i-the-besiegers-playbook/)
+- Nov 03 - [San Francisco's homelessness is a humanitarian crisis](https://www.sfchronicle.com/opinion/editorials/article/Editorial-San-Francisco-s-homelessness-is-a-16586799.php)
+- Nov 03 - [TypeScript: Control flow analysis for destructured discriminated unions](https://github.com/microsoft/TypeScript/pull/46266)
+- Nov 03 - [New Colorways for Firefox 94](https://blog.mozilla.org/en/products/firefox/introducing-new-colorways-for-firefox-94/)
+- Nov 03 - [Reporter who told Missouri officials of website flaw did 'nothing out of line'](https://statescoop.com/missouri-parson-reporter-did-nothing-wrong/)
 <!--END_SECTION:hn-->
 
 <!--
