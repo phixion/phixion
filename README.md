@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 04 - [I introduced my 5-year-old and 2-year-old to startx and xmonad](https://changelog.complete.org/archives/7562-i-introduced-my-5-year-old-and-2-year-old-to-startx-and-xmonad-theyre-delighted)
-- Nov 04 - [StudyStream (YC S21) Is Hiring a DevOps Engineer](https://www.ycombinator.com/companies/studystream/jobs/JyXg96W-community-manager)
-- Nov 04 - [Baking bread using 4,500 year old yeast from Ancient Egyptian pottery (2019)](https://twitter.com/SeamusBlackley/status/1158264819503419392)
-- Nov 03 - [Podcasts are my new Wikipedia](https://www.listennotes.com/blog/why-podcasts-are-my-new-wikipedia-the-perfect-41/)
-- Nov 03 - [Some Whales Can Eat Upwards of 16 Tons of Tiny Shrimp a Day](https://www.smithsonianmag.com/science-nature/some-whales-can-eat-upwards-of-16-tons-of-tiny-shrimp-a-day-180978987/)
+- Nov 04 - [Our self imposed scarcity of nice places](https://www.strongtowns.org/journal/2021/11/3/our-self-imposed-scarcity-of-nice-places)
+- Nov 04 - [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
+- Nov 04 - [An oral history of Bank Python](https://calpaterson.com/bank-python.html)
+- Nov 04 - [Angular v13 Released](https://blog.angular.io/angular-v13-is-now-available-cce66f7bc296?gi=978215207a39)
+- Nov 04 - [I introduced my 5-year-old and 2-year-old to startx and xmonad (2012)](https://changelog.complete.org/archives/7562-i-introduced-my-5-year-old-and-2-year-old-to-startx-and-xmonad-theyre-delighted)
 <!--END_SECTION:hn-->
 
 <!--
