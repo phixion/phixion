@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 03 - [Fortification, Part I: The Besieger’s Playbook](https://acoup.blog/2021/10/29/collections-fortification-part-i-the-besiegers-playbook/)
-- Nov 03 - [San Francisco's homelessness is a humanitarian crisis](https://www.sfchronicle.com/opinion/editorials/article/Editorial-San-Francisco-s-homelessness-is-a-16586799.php)
-- Nov 03 - [TypeScript: Control flow analysis for destructured discriminated unions](https://github.com/microsoft/TypeScript/pull/46266)
-- Nov 03 - [New Colorways for Firefox 94](https://blog.mozilla.org/en/products/firefox/introducing-new-colorways-for-firefox-94/)
-- Nov 03 - [Reporter who told Missouri officials of website flaw did 'nothing out of line'](https://statescoop.com/missouri-parson-reporter-did-nothing-wrong/)
+- Nov 03 - [Why Podcasts Are My New Wikipedia](https://www.listennotes.com/blog/why-podcasts-are-my-new-wikipedia-the-perfect-41/)
+- Nov 03 - [Some Whales Can Eat Upwards of 16 Tons of Tiny Shrimp a Day](https://www.smithsonianmag.com/science-nature/some-whales-can-eat-upwards-of-16-tons-of-tiny-shrimp-a-day-180978987/)
+- Nov 03 - [Knapsack algorithm in PostgreSQL source code](https://github.com/postgres/postgres/blob/master/src/backend/lib/knapsack.c)
+- Nov 03 - [NASA Shows the First 3D Imagery Captured of Jupiter's Atmosphere](https://petapixel.com/2021/11/01/nasa-shows-the-first-3d-imagery-captured-of-jupiters-atmosphere/)
+- Nov 03 - [Notice of Stolen EVGA GeForce RTX 30-Series Graphics Cards](https://forums.evga.com/Notice-of-Stolen-EVGA-GeForce-RTX-30Series-Graphics-Cards-m3490851.aspx)
 <!--END_SECTION:hn-->
 
 <!--
