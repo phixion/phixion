@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 05 - [Factored Quality (YC W20) Is Hiring a Front End Engineer (4 Years Experience)](https://news.ycombinator.com/item?id=29118003)
-- Nov 05 - [Japanese death row inmates sue over same-day executions](https://www.bbc.com/news/world-asia-59173259)
-- Nov 05 - [Smart sunglasses with lenses displaying real-time data for cyclers](https://road.cc/content/tech-news/engo-eyewears-new-smart-sunnies-real-time-data-lenses-287531)
-- Nov 05 - [WhatsApp: My Security code changed for all contacts (No login or logout)](https://old.reddit.com/r/whatsapp/comments/qmwtyn/my_security_code_changed_no_login_or_logout/)
-- Nov 05 - [Peeking Through Logs](https://asylum.madhouse-project.org/blog/2021/10/23/peeking-through-logs/)
+- Nov 05 - [“Losses caused by or resulting from a Cyber Incident are not covered”](https://www.chubb.com/us-en/cyberlimitation.html)
+- Nov 05 - [Facebook is backing away from facial recognition. Meta isn’t](https://www.vox.com/recode/22761598/facebook-facial-recognition-meta)
+- Nov 05 - [Halo and more: exploring incremental verification and SNARKs without pairings](https://vitalik.ca/general/2021/11/05/halo.html)
+- Nov 05 - [Selective Unit Testing – Costs and Benefits (2009)](https://blog.stevensanderson.com/2009/11/04/selective-unit-testing-costs-and-benefits/)
+- Nov 05 - [Ask HN: Coping with Cancer in the Family](https://news.ycombinator.com/item?id=29120388)
 <!--END_SECTION:hn-->
 
 <!--
