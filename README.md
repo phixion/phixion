@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 05 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
-- Nov 05 - [Calm Technology](https://calmtech.com/)
-- Nov 05 - [Moving Apollo Federation 2 to the Elastic License v2](https://www.apollographql.com/blog/announcement/moving-apollo-federation-2-to-the-elastic-license-v2/)
-- Nov 05 - [DJI Mavic 3 Drone](https://www.dji.com/mavic-3)
-- Nov 05 - [Health-care cyberattack is worst in Canadian history, says expert](https://www.cbc.ca/news/canada/newfoundland-labrador/nl-cyber-attack-worst-canada-1.6236210)
+- Nov 05 - [Factored Quality (YC W20) Is Hiring a Front End Engineer (4 Years Experience)](https://news.ycombinator.com/item?id=29118003)
+- Nov 05 - [Japanese death row inmates sue over same-day executions](https://www.bbc.com/news/world-asia-59173259)
+- Nov 05 - [Smart sunglasses with lenses displaying real-time data for cyclers](https://road.cc/content/tech-news/engo-eyewears-new-smart-sunnies-real-time-data-lenses-287531)
+- Nov 05 - [WhatsApp: My Security code changed for all contacts (No login or logout)](https://old.reddit.com/r/whatsapp/comments/qmwtyn/my_security_code_changed_no_login_or_logout/)
+- Nov 05 - [Peeking Through Logs](https://asylum.madhouse-project.org/blog/2021/10/23/peeking-through-logs/)
 <!--END_SECTION:hn-->
 
 <!--
