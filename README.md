@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 05 - [The Soviet 1801VM2 LSI-11 Processor](https://www.cpushack.com/2021/11/04/the-soviet-1801vm2-lsi-11-processor/)
-- Nov 05 - [Web fonts, boy, I don't know](https://meowni.ca/posts/web-fonts/)
-- Nov 04 - [World Food Prices Reach New Peak Since July 2011](https://www.fao.org/worldfoodsituation/foodpricesindex/en/)
-- Nov 04 - [Vim Turned 30 Today – Happy Birthday Vim](https://groups.google.com/g/vim_announce/c/bQtQSHTK1sg)
-- Nov 04 - [Space Companies at Y Combinator](https://spacedotbiz.substack.com/p/y-combinator)
+- Nov 05 - [Moving Apollo Federation 2 to the Elastic License v2](https://www.apollographql.com/blog/announcement/moving-apollo-federation-2-to-the-elastic-license-v2/)
+- Nov 05 - [Crypto cash markets are “beyond our expertise”, says CFTC Commissioner Stump](https://financefeeds.com/crypto-cash-markets-beyond-expertise-says-cftc-commissioner-stump/)
+- Nov 05 - [DJI Mavic 3 Drone](https://www.dji.com/mavic-3)
+- Nov 05 - [Red Hat forced to hire cheaper, less senior engineers after IBM freezes budget](https://www.theregister.com/2021/11/05/red_hat_jobs/)
+- Nov 05 - [Health-care cyberattack is worst in Canadian history, says expert](https://www.cbc.ca/news/canada/newfoundland-labrador/nl-cyber-attack-worst-canada-1.6236210)
 <!--END_SECTION:hn-->
 
 <!--
