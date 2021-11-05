@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 05 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
+- Nov 05 - [Calm Technology](https://calmtech.com/)
 - Nov 05 - [Moving Apollo Federation 2 to the Elastic License v2](https://www.apollographql.com/blog/announcement/moving-apollo-federation-2-to-the-elastic-license-v2/)
-- Nov 05 - [Crypto cash markets are “beyond our expertise”, says CFTC Commissioner Stump](https://financefeeds.com/crypto-cash-markets-beyond-expertise-says-cftc-commissioner-stump/)
 - Nov 05 - [DJI Mavic 3 Drone](https://www.dji.com/mavic-3)
-- Nov 05 - [Red Hat forced to hire cheaper, less senior engineers after IBM freezes budget](https://www.theregister.com/2021/11/05/red_hat_jobs/)
 - Nov 05 - [Health-care cyberattack is worst in Canadian history, says expert](https://www.cbc.ca/news/canada/newfoundland-labrador/nl-cyber-attack-worst-canada-1.6236210)
 <!--END_SECTION:hn-->
 
