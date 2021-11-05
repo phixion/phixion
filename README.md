@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 05 - [“Losses caused by or resulting from a Cyber Incident are not covered”](https://www.chubb.com/us-en/cyberlimitation.html)
-- Nov 05 - [Facebook is backing away from facial recognition. Meta isn’t](https://www.vox.com/recode/22761598/facebook-facial-recognition-meta)
-- Nov 05 - [Halo and more: exploring incremental verification and SNARKs without pairings](https://vitalik.ca/general/2021/11/05/halo.html)
-- Nov 05 - [Selective Unit Testing – Costs and Benefits (2009)](https://blog.stevensanderson.com/2009/11/04/selective-unit-testing-costs-and-benefits/)
-- Nov 05 - [Ask HN: Coping with Cancer in the Family](https://news.ycombinator.com/item?id=29120388)
+- Nov 05 - [An Incremental Approach to Compiler Construction (2006) [pdf]](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
+- Nov 05 - [In C, how do you know if the dynamic allocation succeeded?](https://lemire.me/blog/2021/10/27/in-c-how-do-you-know-if-the-dynamic-allocation-succeeded/)
+- Nov 05 - [University of Florida reverses course, allows professors to testify](https://www.wuft.org/news/2021/11/05/university-of-florida-reverses-course-allows-professors-to-testify-regardless-of-compensation/)
+- Nov 05 - [RFC: Make NPM install scripts opt-in](https://github.com/npm/rfcs/pull/488)
+- Nov 05 - [Orca – esoteric programming language, designed to create procedural sequencers](http://100r.co/site/orca.html)
 <!--END_SECTION:hn-->
 
 <!--
