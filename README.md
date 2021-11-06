@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 06 - [What Collective Narcissism Does to Society](https://www.theatlantic.com/family/archive/2021/11/group-narcissism/620632/)
-- Nov 06 - [American trains need more than railfan nostalgia](https://www.slowboring.com/p/amtrak-review)
-- Nov 06 - [Guide of CPython’s Parser](https://devguide.python.org/parser/)
-- Nov 06 - [The Dangerous Power of Crowds](https://www.newyorker.com/magazine/2011/02/07/crush-point)
-- Nov 06 - [The fastest object diff library in JavaScript](https://github.com/AsyncBanana/microdiff)
+- Nov 06 - [ASCII Paint](http://ascii.alienmelon.com/)
+- Nov 06 - [Cellular Automata in F#](https://isthisit.nz/posts/2020/cellular-automata-in-fsharp/)
+- Nov 06 - [Setting Up Gmail in Doom Emacs using mbsync and mu4e](https://www.erichgrunewald.com/posts/setting-up-gmail-in-doom-emacs-using-mbsync-and-mu4e/)
+- Nov 06 - [How profitable was/is tobacco?](https://genehoots.substack.com/p/how-profitable-wasis-tobacco)
+- Nov 06 - [Spending $5k to learn how database indexes work](https://briananglin.me/posts/spending-5k-to-learn-how-database-indexes-work/)
 <!--END_SECTION:hn-->
 
 <!--
