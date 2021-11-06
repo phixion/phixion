@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 05 - [An Incremental Approach to Compiler Construction (2006) [pdf]](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
-- Nov 05 - [In C, how do you know if the dynamic allocation succeeded?](https://lemire.me/blog/2021/10/27/in-c-how-do-you-know-if-the-dynamic-allocation-succeeded/)
-- Nov 05 - [University of Florida reverses course, allows professors to testify](https://www.wuft.org/news/2021/11/05/university-of-florida-reverses-course-allows-professors-to-testify-regardless-of-compensation/)
-- Nov 05 - [RFC: Make NPM install scripts opt-in](https://github.com/npm/rfcs/pull/488)
-- Nov 05 - [Orca – esoteric programming language, designed to create procedural sequencers](http://100r.co/site/orca.html)
+- Nov 05 - [Why SQLite Does Not Use Git](https://sqlite.org/whynotgit.html)
+- Nov 05 - [Nuclear Power Is the Best Climate-Change Solution by Far](https://www.wsj.com/articles/nuclear-power-best-climate-change-solution-by-far-global-warming-emissions-cop26-11636056581)
+- Nov 05 - [Pdfsandwich](http://www.tobias-elze.de/pdfsandwich/)
+- Nov 05 - [The Biodegradable Battery](https://www.empa.ch/web/s604/papierbatterie)
+- Nov 05 - [ZeroCater (YC W11) Is Hiring Python Engineers](https://news.ycombinator.com/item?id=29124696)
 <!--END_SECTION:hn-->
 
 <!--
