@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 05 - [Why SQLite Does Not Use Git](https://sqlite.org/whynotgit.html)
-- Nov 05 - [Nuclear Power Is the Best Climate-Change Solution by Far](https://www.wsj.com/articles/nuclear-power-best-climate-change-solution-by-far-global-warming-emissions-cop26-11636056581)
-- Nov 05 - [Pdfsandwich](http://www.tobias-elze.de/pdfsandwich/)
-- Nov 05 - [The Biodegradable Battery](https://www.empa.ch/web/s604/papierbatterie)
-- Nov 05 - [ZeroCater (YC W11) Is Hiring Python Engineers](https://news.ycombinator.com/item?id=29124696)
+- Nov 06 - [Ask HN: How were video games from the 90s so efficient?](https://news.ycombinator.com/item?id=29127098)
+- Nov 06 - [Sirum (YC W15) is hiring a Chief of Staff to help make medicine affordable](https://boards.greenhouse.io/sirum?iframe=true&nonce=2021-11-01T17:50:53.991Z)
+- Nov 06 - [Barbados’s long-drawn-out promise of a republic](https://constitutionnet.org/news/barbadoss-long-drawn-out-promise-republic)
+- Nov 05 - [Why SQLite does not use Git (2018)](https://sqlite.org/whynotgit.html)
+- Nov 05 - [Nuclear power is the best climate-change solution](https://www.wsj.com/articles/nuclear-power-best-climate-change-solution-by-far-global-warming-emissions-cop26-11636056581)
 <!--END_SECTION:hn-->
 
 <!--
