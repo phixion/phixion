@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 06 - [Ask HN: How were video games from the 90s so efficient?](https://news.ycombinator.com/item?id=29127098)
-- Nov 06 - [Sirum (YC W15) is hiring a Chief of Staff to help make medicine affordable](https://boards.greenhouse.io/sirum?iframe=true&nonce=2021-11-01T17:50:53.991Z)
-- Nov 06 - [Barbados’s long-drawn-out promise of a republic](https://constitutionnet.org/news/barbadoss-long-drawn-out-promise-republic)
-- Nov 05 - [Why SQLite does not use Git (2018)](https://sqlite.org/whynotgit.html)
-- Nov 05 - [Nuclear power is the best climate-change solution](https://www.wsj.com/articles/nuclear-power-best-climate-change-solution-by-far-global-warming-emissions-cop26-11636056581)
+- Nov 06 - [Hundreds of ancient Maya sites hidden under Mexico reveal a mysterious blueprint](https://www.sciencealert.com/hundreds-of-ancient-maya-sites-hidden-under-mexico-reveal-a-mysterious-blueprint)
+- Nov 06 - [Swedish government agencies say energy-intensive mining should be banned](https://www.fi.se/en/published/presentations/2021/crypto-assets-are-a-threat-to-the-climate-transition--energy-intensive-mining-should-be-banned/)
+- Nov 06 - [PhotoRoom (YC S20) Is Hiring a Head of Computer Vision (Paris, Remote ± 1h)](https://jobs.lever.co/photoroom/bdb26827-1c9b-404a-8c3a-d2abd744dc0a)
+- Nov 06 - [Microcontroller VGA Interface Projects](http://tinyvga.com/)
+- Nov 06 - [Why can DRM crash some games on 12th gen Intel core processors?](https://www.intel.com/content/www/us/en/support/articles/000088259/processors/intel-core-processors.html)
 <!--END_SECTION:hn-->
 
 <!--
