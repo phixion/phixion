@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 06 - [Ruth Health (YC S21) Is Hiring](https://news.ycombinator.com/item?id=29129477)
-- Nov 06 - [Some new BMWs won't have touchscreens thanks to chip shortage](https://www.theverge.com/2021/11/5/22765709/bmw-chip-shortage-touchscreen-car-suv-manufacturing)
-- Nov 06 - [Ask HN: Where would you start looking for development clients?](https://news.ycombinator.com/item?id=29129148)
-- Nov 06 - [Ask HN: Connect to the Internet the old way during next Ethiopian lockdown](https://news.ycombinator.com/item?id=29129133)
-- Nov 06 - [“Thread: How NFTs will change hiring forever”](https://twitter.com/gregisenberg/status/1456588823287275528)
+- Nov 06 - [What Collective Narcissism Does to Society](https://www.theatlantic.com/family/archive/2021/11/group-narcissism/620632/)
+- Nov 06 - [American trains need more than railfan nostalgia](https://www.slowboring.com/p/amtrak-review)
+- Nov 06 - [Guide of CPython’s Parser](https://devguide.python.org/parser/)
+- Nov 06 - [The Dangerous Power of Crowds](https://www.newyorker.com/magazine/2011/02/07/crush-point)
+- Nov 06 - [The fastest object diff library in JavaScript](https://github.com/AsyncBanana/microdiff)
 <!--END_SECTION:hn-->
 
 <!--
