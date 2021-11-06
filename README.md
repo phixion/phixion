@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 06 - [Hundreds of ancient Maya sites hidden under Mexico reveal a mysterious blueprint](https://www.sciencealert.com/hundreds-of-ancient-maya-sites-hidden-under-mexico-reveal-a-mysterious-blueprint)
-- Nov 06 - [Swedish government agencies say energy-intensive mining should be banned](https://www.fi.se/en/published/presentations/2021/crypto-assets-are-a-threat-to-the-climate-transition--energy-intensive-mining-should-be-banned/)
-- Nov 06 - [PhotoRoom (YC S20) Is Hiring a Head of Computer Vision (Paris, Remote ± 1h)](https://jobs.lever.co/photoroom/bdb26827-1c9b-404a-8c3a-d2abd744dc0a)
-- Nov 06 - [Microcontroller VGA Interface Projects](http://tinyvga.com/)
-- Nov 06 - [Why can DRM crash some games on 12th gen Intel core processors?](https://www.intel.com/content/www/us/en/support/articles/000088259/processors/intel-core-processors.html)
+- Nov 06 - [Ruth Health (YC S21) Is Hiring](https://news.ycombinator.com/item?id=29129477)
+- Nov 06 - [Some new BMWs won't have touchscreens thanks to chip shortage](https://www.theverge.com/2021/11/5/22765709/bmw-chip-shortage-touchscreen-car-suv-manufacturing)
+- Nov 06 - [Ask HN: Where would you start looking for development clients?](https://news.ycombinator.com/item?id=29129148)
+- Nov 06 - [Ask HN: Connect to the Internet the old way during next Ethiopian lockdown](https://news.ycombinator.com/item?id=29129133)
+- Nov 06 - [“Thread: How NFTs will change hiring forever”](https://twitter.com/gregisenberg/status/1456588823287275528)
 <!--END_SECTION:hn-->
 
 <!--
