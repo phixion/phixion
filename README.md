@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 06 - [SpaceX shutdown part of Dishys API because of me (and others)](https://tysonpower.de/blog/spacex-shutdown-part-of-dishys-api-because-of-me-and-others)
-- Nov 06 - [Racket v8.3](https://blog.racket-lang.org/2021/11/racket-v8-3.html)
-- Nov 06 - [Why Tokyo Works](https://metropolisjapan.com/why-tokyo-works/)
-- Nov 06 - [Replit (YC W18) Is Hiring IDE Hackers and Designers](https://replit.com/careers)
-- Nov 06 - [DirectX 12 applications no longer working on 4th gen Intel processor graphics](https://www.intel.com/content/www/us/en/support/articles/000057520/graphics/graphics-for-4th-generation-intel-processors.html)
+- Nov 07 - [The fast-food workers’ season of rebellion](https://www.washingtonpost.com/nation/interactive/2021/rebellion-mcdonalds-bradford-pa/)
+- Nov 07 - [What is AT&T doing at 1111340002?](https://scribe.rip/telecom-expert/what-is-at-t-doing-at-1111340002-c418876c212c)
+- Nov 07 - [Flexport is hiring engineers to help us uncork global supply chains](https://www.flexport.com/careers)
+- Nov 07 - [“Illegal” Moscow state university network built by students (2002-2013)](https://medium.com/@pv.safronov/moscow-state-university-network-built-by-students-211539855cf9)
+- Nov 06 - [SpaceX shut down part of Dishy's API](https://tysonpower.de/blog/spacex-shutdown-part-of-dishys-api-because-of-me-and-others)
 <!--END_SECTION:hn-->
 
 <!--
