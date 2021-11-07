@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 06 - [ASCII Paint](http://ascii.alienmelon.com/)
-- Nov 06 - [Cellular Automata in F#](https://isthisit.nz/posts/2020/cellular-automata-in-fsharp/)
-- Nov 06 - [Setting Up Gmail in Doom Emacs using mbsync and mu4e](https://www.erichgrunewald.com/posts/setting-up-gmail-in-doom-emacs-using-mbsync-and-mu4e/)
-- Nov 06 - [How profitable was/is tobacco?](https://genehoots.substack.com/p/how-profitable-wasis-tobacco)
-- Nov 06 - [Spending $5k to learn how database indexes work](https://briananglin.me/posts/spending-5k-to-learn-how-database-indexes-work/)
+- Nov 06 - [SpaceX shutdown part of Dishys API because of me (and others)](https://tysonpower.de/blog/spacex-shutdown-part-of-dishys-api-because-of-me-and-others)
+- Nov 06 - [Racket v8.3](https://blog.racket-lang.org/2021/11/racket-v8-3.html)
+- Nov 06 - [Why Tokyo Works](https://metropolisjapan.com/why-tokyo-works/)
+- Nov 06 - [Replit (YC W18) Is Hiring IDE Hackers and Designers](https://replit.com/careers)
+- Nov 06 - [DirectX 12 applications no longer working on 4th gen Intel processor graphics](https://www.intel.com/content/www/us/en/support/articles/000057520/graphics/graphics-for-4th-generation-intel-processors.html)
 <!--END_SECTION:hn-->
 
 <!--
