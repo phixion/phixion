@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 07 - [ContentFly (YC W21) Is Hiring a Director, Marketplace Support](https://apply.workable.com/contentfly/j/8C4ECBB360/)
-- Nov 07 - [Annotated code for a demo of WebSocket chat in Deno Deploy](https://til.simonwillison.net/deno/annotated-deno-deploy-demo)
-- Nov 07 - [Lightweight Cryptography](https://csrc.nist.gov/Projects/Lightweight-Cryptography)
-- Nov 07 - [Spiders are much smarter than you think](https://knowablemagazine.org/article/mind/2021/are-spiders-intelligent)
-- Nov 07 - [ES Modules Are Terrible](https://gist.github.com/joepie91/bca2fda868c1e8b2c2caf76af7dfcad3)
+- Nov 07 - [Alibaba open sources four RISC-V cores: XuanTie E902, E906, C906 and C910](https://www.cnx-software.com/2021/10/20/alibaba-open-source-risc-v-cores-xuantie-e902-e906-c906-and-c910/)
+- Nov 07 - [Ask HN: What was it like to use BBS in the good old times?](https://news.ycombinator.com/item?id=29140217)
+- Nov 07 - [Ask HN: Is it worth to invest in learning TypeScript?](https://news.ycombinator.com/item?id=29140062)
+- Nov 07 - [Ancient Rome’s party town, now buried by the sea](https://www.theguardian.com/world/2021/oct/30/baiae-naples-ancient-rome-party-town-)
+- Nov 07 - [A terrible schema from a clueless programmer](http://rachelbythebay.com/w/2021/11/06/sql/)
 <!--END_SECTION:hn-->
 
 <!--
