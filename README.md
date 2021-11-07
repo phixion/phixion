@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 07 - [Bitmovin (YC S15) Is Hiring Various Engineering Jobs in Video](https://bitmovin.com/careers/)
+- Nov 07 - [Stop Making Students Use Eclipse (2020)](https://nora.codes/post/stop-making-students-use-eclipse/)
+- Nov 07 - [How does a Game Engine work? An Overview](https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine)
 - Nov 07 - [The fast-food workers’ season of rebellion](https://www.washingtonpost.com/nation/interactive/2021/rebellion-mcdonalds-bradford-pa/)
 - Nov 07 - [What is AT&T doing at 1111340002?](https://scribe.rip/telecom-expert/what-is-at-t-doing-at-1111340002-c418876c212c)
-- Nov 07 - [Flexport is hiring engineers to help us uncork global supply chains](https://www.flexport.com/careers)
-- Nov 07 - [“Illegal” Moscow state university network built by students (2002-2013)](https://medium.com/@pv.safronov/moscow-state-university-network-built-by-students-211539855cf9)
-- Nov 06 - [SpaceX shut down part of Dishy's API](https://tysonpower.de/blog/spacex-shutdown-part-of-dishys-api-because-of-me-and-others)
 <!--END_SECTION:hn-->
 
 <!--
