@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 08 - [Litnerd (YC S21) Is Hiring for Children's Book Editor](https://www.ycombinator.com/companies/litnerd/jobs/tGFTEph-editor-media-manager)
-- Nov 08 - [Aaron Swartz Rememberance Day This Monday](https://news.ycombinator.com/item?id=29147888)
-- Nov 08 - [The LZ4 introduced in PostgreSQL 14 provides faster compression](https://www.postgresql.fastware.com/blog/what-is-the-new-lz4-toast-compression-in-postgresql-14)
-- Nov 08 - [iPhone apps can tell many things about you through the accelerometer](https://www.mysk.blog/2021/10/24/accelerometer-ios/)
-- Nov 08 - [Six Palestinian human rights defenders hacked with NSO Group’s Pegasus Spyware](https://www.frontlinedefenders.org/en/statement-report/statement-targeting-palestinian-hrds-pegasus)
+- Nov 08 - [Visual Studio 2022 now available](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-now-available/)
+- Nov 08 - [Photographing a Raspberry Pi 2 with Xenon flash makes it power down](https://www.raspberrypi.com/news/xenon-death-flash-a-free-physics-lesson/)
+- Nov 08 - [Superintelligence Cannot Be Contained: Lessons from Computability Theory](https://jair.org/index.php/jair/article/view/12202)
+- Nov 08 - [Ask HN: Any indications Copilot scans your local files?](https://news.ycombinator.com/item?id=29150011)
+- Nov 08 - [The benefits of staying off social media](https://durmonski.com/life-advice/benefits-of-staying-off-social-media/)
 <!--END_SECTION:hn-->
 
 <!--
