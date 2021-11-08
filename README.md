@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 08 - [Beeper (YC S21) is hiring a senior Android engineer](https://beeper.notion.site/Senior-Android-Engineer-Beeper-ef7007ef879942e2a4c0492ec52021f0)
-- Nov 08 - [Playstation 5 root keys obtained](https://twitter.com/fail0verflow/status/1457526453105569793)
-- Nov 08 - [Telegram Ad Platform](https://promote.telegram.org/)
-- Nov 08 - [Pilot Says Too Many Jumpers Outside Led to King Air Spin](https://www.avweb.com/aviation-news/pilot-says-skydive-king-air-spun-after-c-of-g-exceeded/)
-- Nov 07 - [Porting Pinnacle Station forward 11 years](https://www.me3tweaks.com/blog/modding/porting-pinnacle-station-forward-11-years/)
+- Nov 08 - [Litnerd (YC S21) Is Hiring for Children's Book Editor](https://www.ycombinator.com/companies/litnerd/jobs/tGFTEph-editor-media-manager)
+- Nov 08 - [Aaron Swartz Rememberance Day This Monday](https://news.ycombinator.com/item?id=29147888)
+- Nov 08 - [The LZ4 introduced in PostgreSQL 14 provides faster compression](https://www.postgresql.fastware.com/blog/what-is-the-new-lz4-toast-compression-in-postgresql-14)
+- Nov 08 - [iPhone apps can tell many things about you through the accelerometer](https://www.mysk.blog/2021/10/24/accelerometer-ios/)
+- Nov 08 - [Six Palestinian human rights defenders hacked with NSO Group’s Pegasus Spyware](https://www.frontlinedefenders.org/en/statement-report/statement-targeting-palestinian-hrds-pegasus)
 <!--END_SECTION:hn-->
 
 <!--
