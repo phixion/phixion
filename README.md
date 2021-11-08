@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 08 - [Visual Studio 2022 now available](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-now-available/)
-- Nov 08 - [Photographing a Raspberry Pi 2 with Xenon flash makes it power down](https://www.raspberrypi.com/news/xenon-death-flash-a-free-physics-lesson/)
-- Nov 08 - [Superintelligence Cannot Be Contained: Lessons from Computability Theory](https://jair.org/index.php/jair/article/view/12202)
-- Nov 08 - [Ask HN: Any indications Copilot scans your local files?](https://news.ycombinator.com/item?id=29150011)
-- Nov 08 - [The benefits of staying off social media](https://durmonski.com/life-advice/benefits-of-staying-off-social-media/)
+- Nov 08 - [The Billion Dollar Airline Routes](https://www.travelstatsman.com/05112018/the-billion-dollar-airline-routes/)
+- Nov 08 - [E-bike popularity of isn’t slowing: e-bikes outsell electric cars](https://www.nytimes.com/2021/11/08/business/e-bikes-urban-transit.html)
+- Nov 08 - [Show HN: Document and automate your operations playbooks and business processes](https://www.workflow86.com/)
+- Nov 08 - [China to supercharge uranium race with 150 new nuclear reactors](https://smallcaps.com.au/china-supercharge-uranium-race-150-new-nuclear-reactors/)
+- Nov 08 - [Welcome to C# 10](https://devblogs.microsoft.com/dotnet/welcome-to-csharp-10/)
 <!--END_SECTION:hn-->
 
 <!--
