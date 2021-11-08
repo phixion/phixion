@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 08 - [Generally Intelligent (YC S17) Is Hiring ML Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=29145171)
 - Nov 07 - [Porting Pinnacle Station forward 11 years](https://www.me3tweaks.com/blog/modding/porting-pinnacle-station-forward-11-years/)
 - Nov 07 - [Writing a Clojure highlighter from scratch](https://blog.michielborkent.nl/writing-clojure-highlighter.html)
-- Nov 07 - [Supreme Court Declines to Hear Challenge to Secrecy of U.S. Surveillance Court](https://knightcolumbia.org/content/supreme-court-declines-to-hear-first-amendment-challenge-to-secrecy-of-us-surveillance-court)
+- Nov 07 - [Show HN: Hewell, a travel app powered by WikiData](https://hewellapp.com/)
 - Nov 07 - [Taking notes in mathematics lectures using LaTeX and Vim (2019)](https://castel.dev/post/lecture-notes-1/)
-- Nov 07 - [Fly.io (YC W20) Is Hiring Rust Developers](https://fly.io/blog/fly-io-is-hiring-rust-developers/)
 <!--END_SECTION:hn-->
 
 <!--
