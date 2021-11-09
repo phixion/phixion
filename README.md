@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 09 - [Rollercoaster: Communicating Efficiently and Anonymously in Large Groups](https://www.lightbluetouchpaper.org/2021/11/09/rollercoaster-communicating-efficiently-and-anonymously-in-large-groups/)
-- Nov 09 - [Lesser Known PostgreSQL Features](https://hakibenita.com/postgresql-unknown-features)
-- Nov 09 - [ProctorU is dystopian spyware](https://shkspr.mobi/blog/2021/11/proctoru-is-dystopian-spyware/)
-- Nov 09 - [The Ancient Secrets of Computer Vision](https://pjreddie.com/courses/computer-vision/)
-- Nov 09 - [Robinhood says millions of customer names, email addresses taken in data breach](https://techcrunch.com/2021/11/09/robinhood-data-breach/)
+- Nov 09 - [Intel Hardware allows activation of test or debug logic at runtime](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00528.html)
+- Nov 09 - [Tor Browser 11.0](https://blog.torproject.org/new-release-tor-browser-11-0)
+- Nov 09 - [The U.S. Treasury is buying private app data to target and investigate people](https://theintercept.com/2021/11/04/treasury-surveillance-location-data-babel-street/)
+- Nov 09 - [Jimmy Wales’ Final Email](https://cyounkins.medium.com/jimmy-wales-final-email-de36f39bfbbd)
+- Nov 09 - [Concurrency in Julia](https://lwn.net/SubscriberLink/875367/bd24fc983affbed4/)
 <!--END_SECTION:hn-->
 
 <!--
