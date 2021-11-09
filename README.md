@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 09 - [Europa.eu domain name contacted through Signal Helper](https://community.signalusers.org/t/europa-eu-domain-name-contacted-through-signal-helper/38748)
-- Nov 09 - [AWS Global Accelerator is really fast and good](https://www.lifeofguenter.de/2021/11/fasters-dereferer-service-with-aws-global-accelerator.html)
-- Nov 09 - [liblinux: Architecture-independent access to Linux system calls](https://github.com/matheusmoreira/liblinux)
-- Nov 09 - [Show HN: Hamilton, a Microframework for Creating Dataframes](https://github.com/stitchfix/hamilton)
-- Nov 09 - [My Emacs Lisp book is finished](http://mbork.pl/2021-11-06_The_Emacs_Lisp_book_is_finished)
+- Nov 09 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- Nov 09 - [Google’s New Business Profile: When Search Becomes a Political Tool](https://www.nearmedia.co/does-the-gmb-rebranding-mean-more-or-less-than-google-say/)
+- Nov 09 - [The machine that saved Moore's Law](https://web.archive.org/web/20211102230038/https://www.technologyreview.com/2021/10/27/1037118/moores-law-computer-chips/)
+- Nov 09 - [WSL2 can now mount Linux ext4 disks directly](https://www.hanselman.com/blog/wsl2-can-now-mount-linux-ext4-disks-directly)
+- Nov 09 - [Ruby 3.1.0 Preview 1](https://www.ruby-lang.org/en/news/2021/11/09/ruby-3-1-0-preview1-released/)
 <!--END_SECTION:hn-->
 
 <!--
