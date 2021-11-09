@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 08 - [The Billion Dollar Airline Routes](https://www.travelstatsman.com/05112018/the-billion-dollar-airline-routes/)
-- Nov 08 - [E-bike popularity of isn’t slowing: e-bikes outsell electric cars](https://www.nytimes.com/2021/11/08/business/e-bikes-urban-transit.html)
-- Nov 08 - [Show HN: Document and automate your operations playbooks and business processes](https://www.workflow86.com/)
-- Nov 08 - [China to supercharge uranium race with 150 new nuclear reactors](https://smallcaps.com.au/china-supercharge-uranium-race-150-new-nuclear-reactors/)
-- Nov 08 - [Welcome to C# 10](https://devblogs.microsoft.com/dotnet/welcome-to-csharp-10/)
+- Nov 09 - [Unix Mouse Shootout](https://vermaden.wordpress.com/2021/11/09/unix-mouse-shootout/)
+- Nov 08 - [Culturally Transmitted Skills and Values](https://danluu.com/culture/)
+- Nov 08 - [An unofficial and free mod for FS2020 to load Google Maps textures](https://old.reddit.com/r/flightsim/comments/qpdf5a/ms_fs2020_can_now_load_google_maps_textures/)
+- Nov 08 - [Jog: Print the last 10 commands you ran in the current directory](https://github.com/natethinks/jog)
+- Nov 08 - [Show HN: Escape Team](https://www.escape-team.com)
 <!--END_SECTION:hn-->
 
 <!--
