@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 09 - [Unix Mouse Shootout](https://vermaden.wordpress.com/2021/11/09/unix-mouse-shootout/)
-- Nov 08 - [Culturally Transmitted Skills and Values](https://danluu.com/culture/)
-- Nov 08 - [An unofficial and free mod for FS2020 to load Google Maps textures](https://old.reddit.com/r/flightsim/comments/qpdf5a/ms_fs2020_can_now_load_google_maps_textures/)
-- Nov 08 - [Jog: Print the last 10 commands you ran in the current directory](https://github.com/natethinks/jog)
-- Nov 08 - [Show HN: Escape Team](https://www.escape-team.com)
+- Nov 09 - [Melbourne Train Control System is still running on a hardware “emulated” PDP11](https://mastodon.sdf.org/@dervishe/107242749336390295)
+- Nov 09 - [REvil Ransom Arrest, $6M Seizure, and $10M Reward](https://krebsonsecurity.com/2021/11/revil-ransom-arrest-6m-seizure-and-10m-reward/)
+- Nov 09 - [It’s mostly a demand shock, not a supply shock, and it’s everywhere](https://www.bridgewater.com/its-mostly-a-demand-shock-not-a-supply-shock-and-its-everywhere)
+- Nov 09 - [Making an old USB printer support Apple AirPrint using a Raspberry Pi](https://blog.jgc.org/2021/11/making-old-usb-printer-support-apple.html)
+- Nov 09 - [Etleap (YC W13) Is Hiring](https://www.ycombinator.com/companies/etleap/jobs/UQuf3oX-etleap-is-hiring-software-engineer-integrations)
 <!--END_SECTION:hn-->
 
 <!--
