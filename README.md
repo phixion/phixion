@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 09 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- Nov 09 - [Google’s New Business Profile: When Search Becomes a Political Tool](https://www.nearmedia.co/does-the-gmb-rebranding-mean-more-or-less-than-google-say/)
-- Nov 09 - [The machine that saved Moore's Law](https://web.archive.org/web/20211102230038/https://www.technologyreview.com/2021/10/27/1037118/moores-law-computer-chips/)
-- Nov 09 - [WSL2 can now mount Linux ext4 disks directly](https://www.hanselman.com/blog/wsl2-can-now-mount-linux-ext4-disks-directly)
-- Nov 09 - [Ruby 3.1.0 Preview 1](https://www.ruby-lang.org/en/news/2021/11/09/ruby-3-1-0-preview1-released/)
+- Nov 09 - [Rollercoaster: Communicating Efficiently and Anonymously in Large Groups](https://www.lightbluetouchpaper.org/2021/11/09/rollercoaster-communicating-efficiently-and-anonymously-in-large-groups/)
+- Nov 09 - [Lesser Known PostgreSQL Features](https://hakibenita.com/postgresql-unknown-features)
+- Nov 09 - [ProctorU is dystopian spyware](https://shkspr.mobi/blog/2021/11/proctoru-is-dystopian-spyware/)
+- Nov 09 - [The Ancient Secrets of Computer Vision](https://pjreddie.com/courses/computer-vision/)
+- Nov 09 - [Robinhood says millions of customer names, email addresses taken in data breach](https://techcrunch.com/2021/11/09/robinhood-data-breach/)
 <!--END_SECTION:hn-->
 
 <!--
