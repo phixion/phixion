@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 10 - [Chromium: Permit blocking of view-source: with URLBlocklist](https://chromium-review.googlesource.com/c/chromium/src/+/3260807)
-- Nov 10 - [AirCover by Airbnb](https://www.airbnb.com/aircover)
-- Nov 10 - [raylib v4.0.0 Released](https://github.com/raysan5/raylib/releases/tag/4.0.0)
-- Nov 10 - [Judge orders Apple to allow external payment options for App Store](https://www.theverge.com/2021/11/9/22773082/epic-apple-fortnite-lawsuit-ruling-injunction-stay-app-store-anti-steering-rules)
-- Nov 10 - [Safari Ruined My Tuesday](https://fly.io/blog/how-safari-ruined-my-tuesday/)
+- Nov 10 - [Thousands of vital phone boxes around the UK will be protected from closure](https://www.ofcom.org.uk/news-centre/2021/thousands-of-call-boxes-set-for-protection)
+- Nov 10 - [Google sends anti-regulation propaganda to small businesses using Google Maps](https://arstechnica.com/gadgets/2021/11/google-sends-anti-regulation-propaganda-to-small-businesses-using-google-maps/)
+- Nov 10 - [Atacama Desert: The Ancient, Alien Landscape of Northern Chile](https://allthatsinteresting.com/atacama-desert)
+- Nov 10 - [Standard (YC S17) Is Hiring SREs and Rust Infra Engineers, US and Europe](https://careers.standard.ai/)
+- Nov 10 - [How to make Penalty Free Retirement Withdrawals](https://www.askthesavingsguy.com/2021/11/10/how-to-make-penalty-free-early-withdrawals-from-your-retirement-accounts/)
 <!--END_SECTION:hn-->
 
 <!--
