@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 09 - [Intel Hardware allows activation of test or debug logic at runtime](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00528.html)
-- Nov 09 - [Tor Browser 11.0](https://blog.torproject.org/new-release-tor-browser-11-0)
-- Nov 09 - [The U.S. Treasury is buying private app data to target and investigate people](https://theintercept.com/2021/11/04/treasury-surveillance-location-data-babel-street/)
-- Nov 09 - [Jimmy Wales’ Final Email](https://cyounkins.medium.com/jimmy-wales-final-email-de36f39bfbbd)
-- Nov 09 - [Concurrency in Julia](https://lwn.net/SubscriberLink/875367/bd24fc983affbed4/)
+- Nov 10 - [Covid vaxx efficacy after 8 months](https://www.science.org/doi/10.1126/science.abm0620)
+- Nov 09 - [Compass Pathways' Phase IIb psilocybin trial shows reduced depression symptoms](https://endpts.com/compass-pathways-phase-iib-psilocybin-trial-shows-reduced-depression-symptoms/)
+- Nov 09 - [Unity is buying Peter Jackson’s Weta Digital for $1.6B](https://techcrunch.com/2021/11/09/unity-is-buying-peter-jacksons-weta-digital-for-over-1-6b/)
+- Nov 09 - [Show HN: I'm 48 and finally learning how to be a game developer](https://apps.apple.com/us/app/slingshot-effect/id1537916631)
+- Nov 09 - [The Surreal Horror of Pam](https://christine.website/talks/surreal-horror-pam-2021-11-09)
 <!--END_SECTION:hn-->
 
 <!--
