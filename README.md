@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 10 - [Launch HN: Dendron (YC W21) – Structured note-taking for developers and teams](https://news.ycombinator.com/item?id=29176158)
-- Nov 10 - [Image File Formats That Didn’t Make It](https://tedium.co/2021/11/10/10-forgotten-image-formats/)
-- Nov 10 - [Uber, DoorDash and similar firms can’t defy the laws of capitalism after all](https://www.economist.com/business/uber-doordash-and-similar-firms-cant-defy-the-laws-of-capitalism-after-all/21806198)
-- Nov 10 - [Google loses challenge against EU antitrust ruling, $2.8-bln fine](https://www.reuters.com/technology/eu-court-upholds-eu-antitrust-ruling-against-google-2021-11-10/)
-- Nov 10 - [Tuvalu looking at legal ways to be a state if it is submerged](https://www.reuters.com/business/cop/tuvalu-looking-legal-ways-be-state-if-it-is-submerged-2021-11-09/)
+- Nov 10 - [KalidoKit – Face, Pose, and Hand Tracking Kinematics](https://github.com/yeemachine/kalidokit)
+- Nov 10 - [Show HN: Cedille, the largest French language model, released in open source](https://news.ycombinator.com/item?id=29179429)
+- Nov 10 - [Google's new related search box optimizes for the wrong metric](https://smitop.com/post/google-related/)
+- Nov 10 - [Justice Department sues Uber for overcharging people with disabilities](https://www.justice.gov/opa/pr/justice-department-sues-uber-overcharging-people-disabilities)
+- Nov 10 - [Fatty acid found in palm oil linked to spread of cancer](https://www.theguardian.com/society/2021/nov/10/fatty-acid-found-in-palm-oil-linked-to-spread-of-cancer)
 <!--END_SECTION:hn-->
 
 <!--
