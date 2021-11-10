@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 10 - [Covid vaxx efficacy after 8 months](https://www.science.org/doi/10.1126/science.abm0620)
-- Nov 09 - [Compass Pathways' Phase IIb psilocybin trial shows reduced depression symptoms](https://endpts.com/compass-pathways-phase-iib-psilocybin-trial-shows-reduced-depression-symptoms/)
-- Nov 09 - [Unity is buying Peter Jackson’s Weta Digital for $1.6B](https://techcrunch.com/2021/11/09/unity-is-buying-peter-jacksons-weta-digital-for-over-1-6b/)
-- Nov 09 - [Show HN: I'm 48 and finally learning how to be a game developer](https://apps.apple.com/us/app/slingshot-effect/id1537916631)
-- Nov 09 - [The Surreal Horror of Pam](https://christine.website/talks/surreal-horror-pam-2021-11-09)
+- Nov 10 - [Chromium: Permit blocking of view-source: with URLBlocklist](https://chromium-review.googlesource.com/c/chromium/src/+/3260807)
+- Nov 10 - [AirCover by Airbnb](https://www.airbnb.com/aircover)
+- Nov 10 - [raylib v4.0.0 Released](https://github.com/raysan5/raylib/releases/tag/4.0.0)
+- Nov 10 - [Judge orders Apple to allow external payment options for App Store](https://www.theverge.com/2021/11/9/22773082/epic-apple-fortnite-lawsuit-ruling-injunction-stay-app-store-anti-steering-rules)
+- Nov 10 - [Safari Ruined My Tuesday](https://fly.io/blog/how-safari-ruined-my-tuesday/)
 <!--END_SECTION:hn-->
 
 <!--
