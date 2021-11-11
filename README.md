@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 11 - [SARS-CoV-2 in American deer could alter the course of the global pandemic](https://www.npr.org/sections/goatsandsoda/2021/11/10/1054224204/how-sars-cov-2-in-american-deer-could-alter-the-course-of-the-global-pandemic)
+- Nov 11 - [MagicBell (YC W21) Is Hiring a Founding Product Designer](https://boards.eu.greenhouse.io/magicbell/jobs/4005576101?gh_src=c51757b2teu)
+- Nov 11 - [Moon’s top layer has enough oxygen to sustain 8B people for 100k years](https://theconversation.com/the-moons-top-layer-alone-has-enough-oxygen-to-sustain-8-billion-people-for-100-000-years-170013)
+- Nov 11 - [Hardening ELF Binaries Using Relocation Read-Only (Relro)](https://www.redhat.com/en/blog/hardening-elf-binaries-using-relocation-read-only-relro)
+- Nov 11 - [What Norwegians are learning as they pioneer autonomous ships](https://www.computerweekly.com/feature/What-Norwegians-are-learning-as-they-pioneer-autonomous-ships)
 - Nov 11 - [American spy hacked Booking.com, company stayed silent](https://www.nrc.nl/nieuws/2021/11/10/american-spy-hacked-bookingcom-company-stayed-silent-a4065086)
-- Nov 11 - [Our World in Data (YC W19) Is Hiring Engineers (Data and Full-Stack)](https://ourworldindata.org/jobs)
-- Nov 11 - [Richard “Lowtax” Kyanka, creator of Somethingawful dies](https://forums.somethingawful.com/showthread.php?threadid=3984488)
-- Nov 11 - [Chu Spaces: A Visual Introduction](http://adelelopez.com/chu-are-you)
 <!--END_SECTION:hn-->
 
 <!--
