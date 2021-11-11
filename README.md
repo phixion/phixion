@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 11 - [Firefox is the 45th result when searching for “Firefox” on Windows Store](https://old.reddit.com/r/firefox/comments/qq94ah/firefox_is_the_45_result_when_searching_for/)
+- Nov 11 - [Reflections on E-Bikes](https://ebikes.neighbor-ryan.org/reflections)
+- Nov 11 - [Chu Spaces: A Visual Introduction](http://adelelopez.com/chu-are-you)
+- Nov 11 - [ASCII Video Player](https://pessimistress.github.io/ascii/)
+- Nov 11 - [Crystal 1.2.2 Is Released](https://crystal-lang.org/2021/11/10/1.2.2-released.html)
 - Nov 10 - [Types and Programming Languages (2002)](https://mitpress.mit.edu/books/types-and-programming-languages)
-- Nov 10 - [People exposed to lead in Flint, Mich., water will get a $626M settlement](https://www.npr.org/2021/11/10/1054487544/judge-oks-flint-water-settlement-lead)
-- Nov 10 - [Final test for Lexus craftsmen: fold origami cat in 90s with non-dominant hand](https://mag.lexus.co.uk/how-to-fold-origami-cat/)
-- Nov 10 - [Right-to-Repair causes Subaru to disable telematics in Massachusetts](https://www.thetruthaboutcars.com/2021/11/right-to-repair-victory-forces-subaru-to-tweak-things-in-massachusetts/)
 <!--END_SECTION:hn-->
 
 <!--
