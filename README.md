@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 11 - [MagicBell (YC W21) Is Hiring a Founding Product Designer](https://boards.eu.greenhouse.io/magicbell/jobs/4005576101?gh_src=c51757b2teu)
-- Nov 11 - [Moon’s top layer has enough oxygen to sustain 8B people for 100k years](https://theconversation.com/the-moons-top-layer-alone-has-enough-oxygen-to-sustain-8-billion-people-for-100-000-years-170013)
-- Nov 11 - [Hardening ELF Binaries Using Relocation Read-Only (Relro)](https://www.redhat.com/en/blog/hardening-elf-binaries-using-relocation-read-only-relro)
-- Nov 11 - [What Norwegians are learning as they pioneer autonomous ships](https://www.computerweekly.com/feature/What-Norwegians-are-learning-as-they-pioneer-autonomous-ships)
-- Nov 11 - [American spy hacked Booking.com, company stayed silent](https://www.nrc.nl/nieuws/2021/11/10/american-spy-hacked-bookingcom-company-stayed-silent-a4065086)
+- Nov 11 - [Godot Engine receives $100k donation from OP Games](https://godotengine.org/article/godot-engine-donation-opgames)
+- Nov 11 - [A Death-Aware Career Plan](https://medium.com/@kentbeck_7670/death-a-career-plan-475d78491d8a)
+- Nov 11 - [An anti-inflammatory diet may be your best bet for cognitive health](https://www.aan.com/PressRoom/Home/PressRelease/4935)
+- Nov 11 - [Practical HTTP Header Smuggling: Sneaking Past Reverse Proxies to Attack AWS](https://www.intruder.io/research/practical-http-header-smuggling)
+- Nov 11 - [Rich Harris joins Vercel to work on Svelte full time](https://twitter.com/Rich_Harris/status/1458822051263823875)
 <!--END_SECTION:hn-->
 
 <!--
