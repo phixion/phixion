@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 11 - [Godot Engine receives $100k donation from OP Games](https://godotengine.org/article/godot-engine-donation-opgames)
-- Nov 11 - [A Death-Aware Career Plan](https://medium.com/@kentbeck_7670/death-a-career-plan-475d78491d8a)
-- Nov 11 - [An anti-inflammatory diet may be your best bet for cognitive health](https://www.aan.com/PressRoom/Home/PressRelease/4935)
-- Nov 11 - [Practical HTTP Header Smuggling: Sneaking Past Reverse Proxies to Attack AWS](https://www.intruder.io/research/practical-http-header-smuggling)
-- Nov 11 - [Rich Harris joins Vercel to work on Svelte full time](https://twitter.com/Rich_Harris/status/1458822051263823875)
+- Nov 11 - [Rust Is the Future of JavaScript Infrastructure](https://leerob.io/blog/rust)
+- Nov 11 - [Open Source Brain Computer Interface](https://github.com/Ildaron/ironbci)
+- Nov 11 - [“We can’t get any more of our current CPU for 730 days.”](https://arstechnica.com/gaming/2021/11/playdate-delays-to-2022-amid-scramble-to-revise-the-entire-handheld-console/)
+- Nov 11 - [3D-printable mirror array capable of reflecting light into arbitrary patterns](https://github.com/bencbartlett/3D-printed-mirror-array)
+- Nov 11 - [New method shows today’s warming ‘unprecedented’ over past 24,000 years](https://www.washington.edu/news/2021/11/10/new-method-shows-todays-warming-unprecedented-over-past-24000-years/)
 <!--END_SECTION:hn-->
 
 <!--
