@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 10 - [KalidoKit – Face, Pose, and Hand Tracking Kinematics](https://github.com/yeemachine/kalidokit)
-- Nov 10 - [Show HN: Cedille, the largest French language model, released in open source](https://news.ycombinator.com/item?id=29179429)
-- Nov 10 - [Google's new related search box optimizes for the wrong metric](https://smitop.com/post/google-related/)
-- Nov 10 - [Justice Department sues Uber for overcharging people with disabilities](https://www.justice.gov/opa/pr/justice-department-sues-uber-overcharging-people-disabilities)
-- Nov 10 - [Fatty acid found in palm oil linked to spread of cancer](https://www.theguardian.com/society/2021/nov/10/fatty-acid-found-in-palm-oil-linked-to-spread-of-cancer)
+- Nov 11 - [Firefox is the 45th result when searching for “Firefox” on Windows Store](https://old.reddit.com/r/firefox/comments/qq94ah/firefox_is_the_45_result_when_searching_for/)
+- Nov 10 - [Types and Programming Languages (2002)](https://mitpress.mit.edu/books/types-and-programming-languages)
+- Nov 10 - [People exposed to lead in Flint, Mich., water will get a $626M settlement](https://www.npr.org/2021/11/10/1054487544/judge-oks-flint-water-settlement-lead)
+- Nov 10 - [Final test for Lexus craftsmen: fold origami cat in 90s with non-dominant hand](https://mag.lexus.co.uk/how-to-fold-origami-cat/)
+- Nov 10 - [Right-to-Repair causes Subaru to disable telematics in Massachusetts](https://www.thetruthaboutcars.com/2021/11/right-to-repair-victory-forces-subaru-to-tweak-things-in-massachusetts/)
 <!--END_SECTION:hn-->
 
 <!--
