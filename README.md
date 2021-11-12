@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 11 - [Rust Is the Future of JavaScript Infrastructure](https://leerob.io/blog/rust)
-- Nov 11 - [Open Source Brain Computer Interface](https://github.com/Ildaron/ironbci)
-- Nov 11 - [“We can’t get any more of our current CPU for 730 days.”](https://arstechnica.com/gaming/2021/11/playdate-delays-to-2022-amid-scramble-to-revise-the-entire-handheld-console/)
-- Nov 11 - [3D-printable mirror array capable of reflecting light into arbitrary patterns](https://github.com/bencbartlett/3D-printed-mirror-array)
-- Nov 11 - [New method shows today’s warming ‘unprecedented’ over past 24,000 years](https://www.washington.edu/news/2021/11/10/new-method-shows-todays-warming-unprecedented-over-past-24000-years/)
+- Nov 11 - [Lightsail Containers: An Easy Way to Run Your Containers in the Cloud (2020)](https://aws.amazon.com/blogs/aws/lightsail-containers-an-easy-way-to-run-your-containers-in-the-cloud/)
+- Nov 11 - [Art Bell Back in Time](https://podcasts.apple.com/us/podcast/art-bell-back-in-time/id1496623191)
+- Nov 11 - [CareRev (YC S16) hiring engineers to transform the future of work in healthcare](https://grnh.se/072b12f63us)
+- Nov 11 - [Breakdown of data on homeless populations across the U.S.](https://dynomight.net/homeless-crisis/)
+- Nov 11 - [Ironbci: Open-Source Brain Computer Interface](https://github.com/Ildaron/ironbci)
 <!--END_SECTION:hn-->
 
 <!--
