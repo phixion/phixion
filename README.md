@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 12 - [There’s a Queue Coming for Tesla Charging, and That’s OK](https://spectrum.ieee.org/universal-tesla-supercharger-network)
-- Nov 12 - [Programming with Something](https://tomstu.art/programming-with-something)
-- Nov 12 - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=29200687)
-- Nov 12 - [What Is the Metaverse?](https://www.kanaandkatana.com/blog/what-is-the-metaverse)
-- Nov 12 - [How do people resist Covid infections? Hospital workers offer a hint](https://www.nature.com/articles/d41586-021-03110-4)
+- Nov 12 - [SDL gets an Epic MegaGrant to work on next-gen Vulkan API](https://www.patreon.com/posts/new-project-top-58563886)
+- Nov 12 - [Show HN: Lifeee – Conway’s Game of Life with an infinite zoomable grid](https://lifeee.netlify.app/)
+- Nov 12 - [It's probably time to stop recommending Clean Code](https://qntm.org/clean)
+- Nov 12 - [Nuclear Radiation Used To Transmit Digital Data Wirelessly With Californium-252](https://www.lancaster.ac.uk/news/nuclear-radiation-used-to-transmit-digital-data-wirelessly)
+- Nov 12 - [tex.web – Version 3.141592653](https://ctan.math.utah.edu/ctan/tex-archive/systems/knuth/dist/tex/tex.web)
 <!--END_SECTION:hn-->
 
 <!--
