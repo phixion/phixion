@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 12 - [Searx: Moving Away from DuckDuckGo](https://sagrista.info/../../../blog/2021/searx-or-duckduckgo/)
-- Nov 12 - [Pachyderm is hiring a DevRel Lead to be the voice of our OSS community](https://www.pachyderm.com/careers/#positions)
-- Nov 12 - [A complete guide to organizing settings in Django](https://apibakery.com/blog/django-settings-howto/)
-- Nov 12 - [Fifty percent of Facebook Messenger’s total voice traffic comes from Cambodia](https://restofworld.org/2021/facebook-didnt-know-why-half-of-messengers-voice-traffic-comes-from-cambodia-heres-why/)
-- Nov 12 - [Lithium Metal Batteries with High Concentration Electrolytes to Power the Future](https://dgist.ac.kr/en/html/sub06/060202.html?mode=V&no=11dec1121064f9774052689be821e96d&GotoPage=1)
+- Nov 12 - [There’s a Queue Coming for Tesla Charging, and That’s OK](https://spectrum.ieee.org/universal-tesla-supercharger-network)
+- Nov 12 - [Programming with Something](https://tomstu.art/programming-with-something)
+- Nov 12 - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=29200687)
+- Nov 12 - [What Is the Metaverse?](https://www.kanaandkatana.com/blog/what-is-the-metaverse)
+- Nov 12 - [How do people resist Covid infections? Hospital workers offer a hint](https://www.nature.com/articles/d41586-021-03110-4)
 <!--END_SECTION:hn-->
 
 <!--
