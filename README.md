@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 11 - [Lightsail Containers: An Easy Way to Run Your Containers in the Cloud (2020)](https://aws.amazon.com/blogs/aws/lightsail-containers-an-easy-way-to-run-your-containers-in-the-cloud/)
-- Nov 11 - [Art Bell Back in Time](https://podcasts.apple.com/us/podcast/art-bell-back-in-time/id1496623191)
-- Nov 11 - [CareRev (YC S16) hiring engineers to transform the future of work in healthcare](https://grnh.se/072b12f63us)
-- Nov 11 - [Breakdown of data on homeless populations across the U.S.](https://dynomight.net/homeless-crisis/)
-- Nov 11 - [Ironbci: Open-Source Brain Computer Interface](https://github.com/Ildaron/ironbci)
+- Nov 12 - [Useful sed scripts and patterns for day to day usage](https://github.com/adrianscheff/useful-sed)
+- Nov 12 - [New – EC2 Instances (G5) with Nvidia A10G Tensor Core GPUs](https://aws.amazon.com/blogs/aws/new-ec2-instances-g5-with-nvidia-a10g-tensor-core-gpus/)
+- Nov 12 - [Async Cancellation](https://blog.yoshuawuyts.com/async-cancellation-1/)
+- Nov 12 - [Talyn Air (YC W20) Is Hiring](https://www.ycombinator.com/companies/talyn-air/jobs/DuvnNrk-flight-software-engineer)
+- Nov 12 - [The Rust compiler has gotten faster again](https://nnethercote.github.io/2021/11/12/the-rust-compiler-has-gotten-faster-again.html)
 <!--END_SECTION:hn-->
 
 <!--
