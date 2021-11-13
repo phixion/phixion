@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 12 - [TQQQ Is Up 7,298% in 10 Years. You Don’t Want It](https://www.wsj.com/articles/this-fund-is-up-7-298-in-10-years-you-dont-want-it-11597417224)
-- Nov 12 - [Fantasy Map Generator (2018)](https://azgaar.github.io/Fantasy-Map-Generator/)
-- Nov 12 - [Open Source Vibrotactile Haptics Platform for On-Body Applications](https://ai.googleblog.com/2021/11/an-open-source-vibrotactile-haptics.html)
-- Nov 12 - [Skio (YC S20) is hiring founding engineers](https://skio.com/careers)
-- Nov 12 - [The Greatest Unsolved Heist in Irish History](https://www.atlasobscura.com/articles/irish-crown-jewels-theft)
+- Nov 13 - [Higher Math for Beginners (Mostly Physicists and Engineers)](https://archive.org/details/HigherMathForBeginners)
+- Nov 13 - [Confused Xerox copiers rewrite scanned documents, expert finds](https://www.bbc.com/news/technology-23588202)
+- Nov 13 - [Where *Isn't* Planet 9?](https://www.syfy.com/syfy-wire/bad-astronomy-search-for-planet-nine-still-continues)
+- Nov 13 - [Chinese embassy lobbies U.S. business to oppose China bills](https://www.reuters.com/business/exclusive-chinese-embassy-lobbies-us-business-oppose-china-bills-sources-2021-11-12/)
+- Nov 13 - [Debit cards are hidden financial infrastructure](https://bam.kalzumeus.com/archive/debit-cards-are-hidden-financial-infrastructure/)
 <!--END_SECTION:hn-->
 
 <!--
