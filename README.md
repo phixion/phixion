@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 13 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://www.raycast.com/jobs)
+- Nov 13 - [Release (YC W20) Is Hiring a Director of Product Management](https://www.ycombinator.com/companies/release/jobs/84ycogd-director-of-product-management)
+- Nov 13 - [It's Now Possible to Sign Arbitrary Data with Your SSH Keys](https://www.agwa.name/blog/post/ssh_signatures)
+- Nov 13 - [Email from FBI Looks Odd](https://old.reddit.com/r/sysadmin/comments/qsun7o/email_from_fbi_looks_odd/)
+- Nov 13 - [Why asynchronous Rust doesn't work](https://eta.st/2021/03/08/async-rust-2.html)
 - Nov 13 - [Deldo is a sex toy control and teledildonics mode for Emacs](https://github.com/qdot/deldo)
-- Nov 13 - [Have you considered hiring a head of growth?](https://draft.dev/learn/what-is-a-head-of-growth)
-- Nov 13 - [Higher Math for Beginners (1987)](https://archive.org/details/ZeldovichYaglomHigherMathematics)
-- Nov 13 - [Snowflake’s response to Databricks’ TPC-DS post](https://www.snowflake.com/blog/industry-benchmarks-and-competing-with-integrity/)
 <!--END_SECTION:hn-->
 
 <!--
