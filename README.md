@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 13 - [Higher Math for Beginners (Mostly Physicists and Engineers)](https://archive.org/details/HigherMathForBeginners)
-- Nov 13 - [Confused Xerox copiers rewrite scanned documents, expert finds](https://www.bbc.com/news/technology-23588202)
-- Nov 13 - [Where *Isn't* Planet 9?](https://www.syfy.com/syfy-wire/bad-astronomy-search-for-planet-nine-still-continues)
-- Nov 13 - [Chinese embassy lobbies U.S. business to oppose China bills](https://www.reuters.com/business/exclusive-chinese-embassy-lobbies-us-business-oppose-china-bills-sources-2021-11-12/)
-- Nov 13 - [Debit cards are hidden financial infrastructure](https://bam.kalzumeus.com/archive/debit-cards-are-hidden-financial-infrastructure/)
+- Nov 13 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://www.raycast.com/jobs)
+- Nov 13 - [Deldo is a sex toy control and teledildonics mode for Emacs](https://github.com/qdot/deldo)
+- Nov 13 - [Have you considered hiring a head of growth?](https://draft.dev/learn/what-is-a-head-of-growth)
+- Nov 13 - [Higher Math for Beginners (1987)](https://archive.org/details/ZeldovichYaglomHigherMathematics)
+- Nov 13 - [Snowflake’s response to Databricks’ TPC-DS post](https://www.snowflake.com/blog/industry-benchmarks-and-competing-with-integrity/)
 <!--END_SECTION:hn-->
 
 <!--
