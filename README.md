@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 12 - [SDL gets an Epic MegaGrant to work on next-gen Vulkan API](https://www.patreon.com/posts/new-project-top-58563886)
-- Nov 12 - [Show HN: Lifeee – Conway’s Game of Life with an infinite zoomable grid](https://lifeee.netlify.app/)
-- Nov 12 - [It's probably time to stop recommending Clean Code](https://qntm.org/clean)
-- Nov 12 - [Nuclear Radiation Used To Transmit Digital Data Wirelessly With Californium-252](https://www.lancaster.ac.uk/news/nuclear-radiation-used-to-transmit-digital-data-wirelessly)
-- Nov 12 - [tex.web – Version 3.141592653](https://ctan.math.utah.edu/ctan/tex-archive/systems/knuth/dist/tex/tex.web)
+- Nov 12 - [TQQQ Is Up 7,298% in 10 Years. You Don’t Want It](https://www.wsj.com/articles/this-fund-is-up-7-298-in-10-years-you-dont-want-it-11597417224)
+- Nov 12 - [Fantasy Map Generator (2018)](https://azgaar.github.io/Fantasy-Map-Generator/)
+- Nov 12 - [Open Source Vibrotactile Haptics Platform for On-Body Applications](https://ai.googleblog.com/2021/11/an-open-source-vibrotactile-haptics.html)
+- Nov 12 - [Skio (YC S20) is hiring founding engineers](https://skio.com/careers)
+- Nov 12 - [The Greatest Unsolved Heist in Irish History](https://www.atlasobscura.com/articles/irish-crown-jewels-theft)
 <!--END_SECTION:hn-->
 
 <!--
