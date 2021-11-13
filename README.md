@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 13 - [Release (YC W20) Is Hiring a Director of Product Management](https://www.ycombinator.com/companies/release/jobs/84ycogd-director-of-product-management)
-- Nov 13 - [It's Now Possible to Sign Arbitrary Data with Your SSH Keys](https://www.agwa.name/blog/post/ssh_signatures)
-- Nov 13 - [Email from FBI Looks Odd](https://old.reddit.com/r/sysadmin/comments/qsun7o/email_from_fbi_looks_odd/)
-- Nov 13 - [Why asynchronous Rust doesn't work](https://eta.st/2021/03/08/async-rust-2.html)
-- Nov 13 - [Deldo is a sex toy control and teledildonics mode for Emacs](https://github.com/qdot/deldo)
+- Nov 13 - [“Proof-of-Work” Proves Not to Work (2004) [pdf]](https://www.cl.cam.ac.uk/~rnc1/proofwork.pdf)
+- Nov 13 - [How Agriculture Gave Rise to One of World’s Most Mysterious Language Families](https://www.science.org/content/article/how-agriculture-gave-rise-one-world-s-most-mysterious-language-families)
+- Nov 13 - [Mailgun doesn't validate the email headers of email sent through their system](https://twitter.com/RadioToolbox/status/1459542957275717633)
+- Nov 13 - [Intermittent fasting prompts anti-inflammatory response](https://academic.oup.com/ehjopen/article/1/2/oeab026/6363797)
+- Nov 13 - [What Does It Take to Build a Disaster-Proof House?](https://www.nytimes.com/2021/11/12/realestate/disaster-proof-housing.html)
 <!--END_SECTION:hn-->
 
 <!--
