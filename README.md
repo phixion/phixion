@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 14 - [Nasally-Injected Brain Drug Can Help Treat Depression in 20 Minutes](https://interestingengineering.com/nasally-injected-brain-drug-can-help-treat-depression-in-20-minutes)
-- Nov 14 - [PhotoRoom (YC S20) Is Hiring a Head of Computer Vision (Paris, Remote ± 1h)](https://jobs.lever.co/photoroom/bdb26827-1c9b-404a-8c3a-d2abd744dc0a)
-- Nov 14 - [Who the hell writes “2” into my stack? (2016)](https://blog.unity.com/technology/debugging-memory-corruption-who-the-hell-writes-2-into-my-stack-2)
-- Nov 14 - [3-D printing new houses in a Mexican village](https://www.nytimes.com/2021/09/28/business/3D-printing-homes.html)
-- Nov 14 - [0xA000 Font Family – A tile mastered font-family](https://pippin.gimp.org/0xA000/)
+- Nov 14 - [OneSignal (YC S11) is hiring engineers to work on messaging: Push, SMS, & Email](https://onesignal.com/careers)
+- Nov 14 - [Accretion disk images guide theories on planet formation](https://www.quantamagazine.org/scientists-debate-if-cosmic-pebbles-create-rocky-planets-like-earth-20211103/)
+- Nov 14 - [Apple isn’t patching all the security holes in older versions of macOS](https://arstechnica.com/gadgets/2021/11/psa-apple-isnt-actually-patching-all-the-security-holes-in-older-versions-of-macos/)
+- Nov 14 - [The Concept of the Ruliad](https://writings.stephenwolfram.com/2021/11/the-concept-of-the-ruliad/)
+- Nov 14 - [Debugging memory corruption: who the hell writes “2” into my stack? (2016)](https://blog.unity.com/technology/debugging-memory-corruption-who-the-hell-writes-2-into-my-stack-2)
 <!--END_SECTION:hn-->
 
 <!--
