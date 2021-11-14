@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 14 - [The US is making its biggest investment in broadband internet ever](https://www.popsci.com/technology/infrastructure-bill-broadband-access-us/)
-- Nov 14 - [U.S. sets goal to drive down cost of removing CO2 from atmosphere](https://www.reuters.com/business/cop/us-sets-goal-drive-down-cost-removing-co2-atmosphere-2021-11-05/)
-- Nov 14 - [Apple is sticking taxpayers with part of the bill for rollout of digital ID card](https://www.cnbc.com/2021/11/14/apple-sticking-taxpayers-with-part-of-the-bill-for-digital-id-rollout.html)
-- Nov 14 - [Show HN: Windows 2000 on Docker](https://github.com/hectorm/docker-qemu-win2000)
-- Nov 14 - [Show HN: Monte Carlo Methods or Why It's a Bad Idea to Go to the Casino](https://easylang.online/apps/tutorial_monte_carlo_methods.html)
+- Nov 14 - [There may be a steep privacy cost if you park at this Trader Joe’s](https://www.latimes.com/business/story/2021-11-09/column-trader-joes-parking-app)
+- Nov 14 - [How the U.S. Hid an Airstrike That Killed Dozens of Civilians in Syria](https://www.nytimes.com/2021/11/13/us/us-airstrikes-civilian-deaths.html)
+- Nov 14 - [Yann LeCun’s 2021 Deep Learning Course at CDS free and fully online](https://cds.nyu.edu/deep-learning/)
+- Nov 14 - [Optery (YC W22) Hiring First Product Manager, Growth Marketer, Back End Engineer](https://optery.breezy.hr/)
+- Nov 14 - [Show HN: I built a jigsaw puzzle website](https://puzzlepanda.com)
 <!--END_SECTION:hn-->
 
 <!--
