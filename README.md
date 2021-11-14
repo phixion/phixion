@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 14 - [Shadershop – Photoshop like interface for programming GPU shaders](https://github.com/cdglabs/Shadershop)
-- Nov 14 - [0xA000 Font Family – a tile mastered font-family](https://pippin.gimp.org/0xA000/)
-- Nov 14 - [Yann LeCun’s Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/)
-- Nov 14 - [U.S. states file updated antitrust complaint against Google](https://www.reuters.com/world/us/us-states-file-updated-antitrust-complaint-against-alphabets-google-2021-11-13/)
-- Nov 13 - [Richard ‘Lowtax’ Kyanka, founder of Something Awful, has died](https://www.vice.com/en/article/v7dmqb/richard-lowtax-kyanka-founder-of-something-awful-is-dead-at-45)
+- Nov 14 - [Nasally-Injected Brain Drug Can Help Treat Depression in 20 Minutes](https://interestingengineering.com/nasally-injected-brain-drug-can-help-treat-depression-in-20-minutes)
+- Nov 14 - [PhotoRoom (YC S20) Is Hiring a Head of Computer Vision (Paris, Remote ± 1h)](https://jobs.lever.co/photoroom/bdb26827-1c9b-404a-8c3a-d2abd744dc0a)
+- Nov 14 - [Who the hell writes “2” into my stack? (2016)](https://blog.unity.com/technology/debugging-memory-corruption-who-the-hell-writes-2-into-my-stack-2)
+- Nov 14 - [3-D printing new houses in a Mexican village](https://www.nytimes.com/2021/09/28/business/3D-printing-homes.html)
+- Nov 14 - [0xA000 Font Family – A tile mastered font-family](https://pippin.gimp.org/0xA000/)
 <!--END_SECTION:hn-->
 
 <!--
