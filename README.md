@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 15 - [Try, try and try again: why did modern humans take so long to settle in Europe?](https://www.theguardian.com/science/2021/nov/14/try-try-and-try-again-why-did-modern-humans-take-so-long-to-settle-in-europe)
-- Nov 15 - [Kodak Shirley Cards](https://99percentinvisible.org/episode/shirley-cards/)
-- Nov 15 - [Are AirPods Out? Why Cool Kids Are Wearing Wired Headphones](https://www.wsj.com/articles/are-airpods-out-why-cool-kids-are-wearing-wired-headphones-11636753407)
-- Nov 15 - [I Write a Parenting Advice Column (Or How I Became Famous in My Neighborhood)](https://tedgioia.substack.com/p/i-write-a-parenting-advice-column)
-- Nov 15 - [How to Create a Hex Tile Grid Map in Excel](https://simplexct.com/how-to-create-a-hex-tile-grid-map-in-excel)
+- Nov 15 - [Terra (YC W21) Is Hiring a Sales Engineer in London](https://www.ycombinator.com/companies/terra/jobs/CoiffSb-sales-engineer)
+- Nov 15 - [Direct file transfer via browser with no server involvement](http://cend.me/)
+- Nov 15 - [JP Morgan Chase Bank, or Why Not to Whitelist Operating System User Agents](https://www.neelc.org/posts/chase-how-not-to-design-a-website/)
+- Nov 15 - [The Rise and Fall of Commercial Smalltalk](http://www.wirfs-brock.com/allen/posts/914)
+- Nov 15 - [Xerox scanners/photocopiers randomly alter numbers in scanned documents (2013)](https://www.dkriesel.com/en/blog/2013/0802_xerox-workcentres_are_switching_written_numbers_when_scanning)
 <!--END_SECTION:hn-->
 
 <!--
