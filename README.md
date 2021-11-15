@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 14 - [Modern JavaScript has made the web worse (2020)](https://www.chaseaucoin.com/posts/why-npm-has-made-the-web-worse/?=ver=8e60f8174786794b7efe72ef69ff9ac2)
-- Nov 14 - [Show HN: PickBetterPack – Discover similar pkgs from package.json dependencies](https://pickbetterpack.com/)
-- Nov 14 - [Avenue (YC W21) is hiring full-stack engineers in NYC (TypeScript, Node, React)](http://jobs.ashbyhq.com/avenue)
-- Nov 14 - [Why disaster happens at the edges: An introduction to queue theory](https://thenewstack.io/an-introduction-to-queue-theory-why-disaster-happens-at-the-edges/)
-- Nov 14 - [YAML: It's Time to Move On](https://nestedtext.org/en/latest/alternatives.html#yaml)
+- Nov 15 - [Try, try and try again: why did modern humans take so long to settle in Europe?](https://www.theguardian.com/science/2021/nov/14/try-try-and-try-again-why-did-modern-humans-take-so-long-to-settle-in-europe)
+- Nov 15 - [Kodak Shirley Cards](https://99percentinvisible.org/episode/shirley-cards/)
+- Nov 15 - [Are AirPods Out? Why Cool Kids Are Wearing Wired Headphones](https://www.wsj.com/articles/are-airpods-out-why-cool-kids-are-wearing-wired-headphones-11636753407)
+- Nov 15 - [I Write a Parenting Advice Column (Or How I Became Famous in My Neighborhood)](https://tedgioia.substack.com/p/i-write-a-parenting-advice-column)
+- Nov 15 - [How to Create a Hex Tile Grid Map in Excel](https://simplexct.com/how-to-create-a-hex-tile-grid-map-in-excel)
 <!--END_SECTION:hn-->
 
 <!--
