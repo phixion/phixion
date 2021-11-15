@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 15 - [Poll Everywhere (YC S08) Is Hiring QA Automation Engineer](https://jobs.lever.co/polleverywhere/427ac844-2c55-4c70-9513-4b8c9ce56bb0?ref=hackernews&utm_source=hackernews)
-- Nov 15 - [Assume Everyone Is Stupid, Lazy and Possibly Insane (Including You)](https://lifehacker.com/why-you-should-assume-everyone-is-stupid-lazy-and-pos-1847997212)
-- Nov 15 - [OAuth with Cloudflare Workers on a Statically Generated Site](https://abyteofcoding.com/blog/oauth-with-cloudflare-workers-on-a-statically-generated-site/)
-- Nov 15 - [Bird flew from Alaska to Australia non-stop, 8,100 miles in 239 hours](https://www.audubon.org/news/these-mighty-shorebirds-keep-breaking-flight-records-and-you-can-follow-along)
-- Nov 15 - [Fun with PostGIS: Mandelbrot set, game of life, and more](https://blog.jooq.org/fun-with-postgis-mandelbrot-set-game-of-life-and-more/)
+- Nov 15 - [Underdog No More, a Deaf Football Team Takes California by Storm](https://www.nytimes.com/2021/11/15/us/riverside-california-deaf-football-team.html)
+- Nov 15 - [Briar 1.4 – Offline sharing, message transfer via SD cards and USB sticks](https://briarproject.org/news/2021-briar-1.4-released/)
+- Nov 15 - [Durable Objects now Generally Available](https://blog.cloudflare.com/durable-objects-ga/)
+- Nov 15 - [Why Your Website Should Not Use Dithered Images](https://www.simplethread.com/why-your-website-should-not-use-dithered-images/)
+- Nov 15 - [Why Maharashtra's villages flood every year](https://www.newslaundry.com/2021/11/15/neglect-apathy-and-a-destructive-train-route-why-maharashtras-villages-flood-every-year)
 <!--END_SECTION:hn-->
 
 <!--
