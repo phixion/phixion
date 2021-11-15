@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 15 - [Underdog No More, a Deaf Football Team Takes California by Storm](https://www.nytimes.com/2021/11/15/us/riverside-california-deaf-football-team.html)
-- Nov 15 - [Briar 1.4 – Offline sharing, message transfer via SD cards and USB sticks](https://briarproject.org/news/2021-briar-1.4-released/)
-- Nov 15 - [Durable Objects now Generally Available](https://blog.cloudflare.com/durable-objects-ga/)
-- Nov 15 - [Why Your Website Should Not Use Dithered Images](https://www.simplethread.com/why-your-website-should-not-use-dithered-images/)
-- Nov 15 - [Why Maharashtra's villages flood every year](https://www.newslaundry.com/2021/11/15/neglect-apathy-and-a-destructive-train-route-why-maharashtras-villages-flood-every-year)
+- Nov 15 - [YouTube Takes Down Independent Court Livestreams](https://twitter.com/ReturnOfTheFleX/status/1460295030187438088)
+- Nov 15 - [Teliva – an environment for end-user programming](https://github.com/akkartik/teliva)
+- Nov 15 - [How to Scrape and Extract Hyperlink Networks with BeautifulSoup and NetworkX](https://connectingfigures.com/2021/11/15/how-to-scrape-and-extract-hyperlink-networks-with-beautifulsoup-and-networkx/)
+- Nov 15 - [Updates to the Twitter developer platform](https://blog.twitter.com/developer/en_us/topics/tools/2021/build-whats-next-with-the-new-twitter-developer-platform)
+- Nov 15 - [Dubious $56,000 Alzheimer’s drug spurs largest Medicare price hike ever](https://arstechnica.com/science/2021/11/dubious-56000-alzheimers-drug-spurs-largest-medicare-price-hike-ever/)
 <!--END_SECTION:hn-->
 
 <!--
