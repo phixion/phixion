@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 15 - [Terra (YC W21) Is Hiring a Sales Engineer in London](https://www.ycombinator.com/companies/terra/jobs/CoiffSb-sales-engineer)
-- Nov 15 - [Direct file transfer via browser with no server involvement](http://cend.me/)
-- Nov 15 - [JP Morgan Chase Bank, or Why Not to Whitelist Operating System User Agents](https://www.neelc.org/posts/chase-how-not-to-design-a-website/)
-- Nov 15 - [The Rise and Fall of Commercial Smalltalk](http://www.wirfs-brock.com/allen/posts/914)
-- Nov 15 - [Xerox scanners/photocopiers randomly alter numbers in scanned documents (2013)](https://www.dkriesel.com/en/blog/2013/0802_xerox-workcentres_are_switching_written_numbers_when_scanning)
+- Nov 15 - [Poll Everywhere (YC S08) Is Hiring QA Automation Engineer](https://jobs.lever.co/polleverywhere/427ac844-2c55-4c70-9513-4b8c9ce56bb0?ref=hackernews&utm_source=hackernews)
+- Nov 15 - [Assume Everyone Is Stupid, Lazy and Possibly Insane (Including You)](https://lifehacker.com/why-you-should-assume-everyone-is-stupid-lazy-and-pos-1847997212)
+- Nov 15 - [OAuth with Cloudflare Workers on a Statically Generated Site](https://abyteofcoding.com/blog/oauth-with-cloudflare-workers-on-a-statically-generated-site/)
+- Nov 15 - [Bird flew from Alaska to Australia non-stop, 8,100 miles in 239 hours](https://www.audubon.org/news/these-mighty-shorebirds-keep-breaking-flight-records-and-you-can-follow-along)
+- Nov 15 - [Fun with PostGIS: Mandelbrot set, game of life, and more](https://blog.jooq.org/fun-with-postgis-mandelbrot-set-game-of-life-and-more/)
 <!--END_SECTION:hn-->
 
 <!--
