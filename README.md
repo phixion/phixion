@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 16 - [About the Urgency of Building Web3](https://timdaub.github.io/2021/11/16/the-urgency-of-building-web3/)
-- Nov 16 - [NPM – "is-even", 160k weekly downloads](https://www.npmjs.com/package/is-even)
-- Nov 16 - [Cloudflare launches a low-cost domain registrar](https://techcrunch.com/2018/09/27/cloudflare-launches-a-low-cost-domain-registrar/)
-- Nov 16 - [Scrcpy v1.20](https://github.com/Genymobile/scrcpy/releases/tag/v1.20)
-- Nov 16 - [Teapot: Type-Safe 3D Spreadsheet](https://www.syntax-k.de/projekte/teapot/)
+- Nov 16 - [Security issues related to the NPM registry](https://github.blog/2021-11-15-githubs-commitment-to-npm-ecosystem-security/#security-issues-related-to-the-npm-registry)
+- Nov 16 - [Cache of documents declassified by the NRO for its 60th anniversary](https://www.nro.gov/FOIA/Major-NRO-Programs-and-Projects/EOI-Documents/)
+- Nov 16 - [IBM unveils 127-qubit quantum processor](https://newsroom.ibm.com/2021-11-16-IBM-Unveils-Breakthrough-127-Qubit-Quantum-Processor)
+- Nov 16 - [List of 8000 security vulnerabilities in 1200 Wi-Fi routers](https://modemly.com/m1/pulse)
+- Nov 16 - [Show HN: Outage Bingo](https://outage.bingo)
 <!--END_SECTION:hn-->
 
 <!--
