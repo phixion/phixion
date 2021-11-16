@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 15 - [YouTube Takes Down Independent Court Livestreams](https://twitter.com/ReturnOfTheFleX/status/1460295030187438088)
-- Nov 15 - [Teliva – an environment for end-user programming](https://github.com/akkartik/teliva)
-- Nov 15 - [How to Scrape and Extract Hyperlink Networks with BeautifulSoup and NetworkX](https://connectingfigures.com/2021/11/15/how-to-scrape-and-extract-hyperlink-networks-with-beautifulsoup-and-networkx/)
-- Nov 15 - [Updates to the Twitter developer platform](https://blog.twitter.com/developer/en_us/topics/tools/2021/build-whats-next-with-the-new-twitter-developer-platform)
-- Nov 15 - [Dubious $56,000 Alzheimer’s drug spurs largest Medicare price hike ever](https://arstechnica.com/science/2021/11/dubious-56000-alzheimers-drug-spurs-largest-medicare-price-hike-ever/)
+- Nov 16 - [Firefox 94 has No Visible Border on unfocused tabs](https://octodon.social/@joeyh/107283148035893045)
+- Nov 15 - [Blender 3.0 takes support for AMD GPUs to the next level](https://gpuopen.com/blender-cycles-amd-gpu/)
+- Nov 15 - [Prevent Zoom from consuming all your CPU on Linux](https://gist.github.com/abraithwaite/1d78a946f90be478faedb5ca4db6d62e)
+- Nov 15 - [Ergonomics of the Symbolics Lisp Machine – Reflections on Developer Productivity](http://lispm.de/symbolics-lisp-machine-ergonomics)
+- Nov 15 - [Air cargo is suddenly affordable relative to ocean shipping](https://www.freightwaves.com/news/why-is-air-cargo-suddenly-more-affordable-compared-to-ocean-shipping)
 <!--END_SECTION:hn-->
 
 <!--
