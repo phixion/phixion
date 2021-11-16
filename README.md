@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 16 - [Some Notes on Using Esbuild](https://jvns.ca/blog/2021/11/15/esbuild-vue/)
-- Nov 16 - [Alloy 6 First Impressions](https://buttondown.email/hillelwayne/archive/alloy-6-first-impressions/)
-- Nov 16 - [To set new tab as blank in MS Edge you need to enroll device in MDM](https://den.dev/blog/edge-blank-new-tab/)
-- Nov 16 - [Chrome may start restricting requests to private networks](https://utcc.utoronto.ca/~cks/space/blog/web/ChromePrivateNetBlocks)
-- Nov 16 - [Rainforest Rebellion: Mass Clear-Cutting in Congo](https://www.spiegel.de/international/rainforest-rebellion-mass-clear-cutting-in-congo-a-634618e3-2d65-4d99-b70b-9298302af6dd)
+- Nov 16 - [Hera (YC S21) is hiring a front-end engineer – $60K-$90K andequity – Remote UTC+-3](https://www.ycombinator.com/companies/hera/jobs/tyUzKGd-frontend-engineer)
+- Nov 16 - [ZX Spectrum developer Bernie Drummond has died](https://www.gamedeveloper.com/design/obituary-zx-spectrum-developer-Bernie-Drummond-has-died)
+- Nov 16 - [Multicore OCaml: October 2021](https://discuss.ocaml.org/t/multicore-ocaml-october-2021/8822)
+- Nov 16 - [1632 by Eric Flint](http://www.baen.com/chapters/0671578499/0671578499.htm)
+- Nov 16 - [Python: Please stop screwing over Linux distros](https://drewdevault.com/2021/11/16/Python-stop-screwing-distros-over.html)
 <!--END_SECTION:hn-->
 
 <!--
