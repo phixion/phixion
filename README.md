@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 16 - [Hera (YC S21) is hiring a front-end engineer – $60K-$90K andequity – Remote UTC+-3](https://www.ycombinator.com/companies/hera/jobs/tyUzKGd-frontend-engineer)
-- Nov 16 - [ZX Spectrum developer Bernie Drummond has died](https://www.gamedeveloper.com/design/obituary-zx-spectrum-developer-Bernie-Drummond-has-died)
-- Nov 16 - [Multicore OCaml: October 2021](https://discuss.ocaml.org/t/multicore-ocaml-october-2021/8822)
-- Nov 16 - [1632 by Eric Flint](http://www.baen.com/chapters/0671578499/0671578499.htm)
-- Nov 16 - [Python: Please stop screwing over Linux distros](https://drewdevault.com/2021/11/16/Python-stop-screwing-distros-over.html)
+- Nov 16 - [About the Urgency of Building Web3](https://timdaub.github.io/2021/11/16/the-urgency-of-building-web3/)
+- Nov 16 - [NPM – "is-even", 160k weekly downloads](https://www.npmjs.com/package/is-even)
+- Nov 16 - [Cloudflare launches a low-cost domain registrar](https://techcrunch.com/2018/09/27/cloudflare-launches-a-low-cost-domain-registrar/)
+- Nov 16 - [Scrcpy v1.20](https://github.com/Genymobile/scrcpy/releases/tag/v1.20)
+- Nov 16 - [Teapot: Type-Safe 3D Spreadsheet](https://www.syntax-k.de/projekte/teapot/)
 <!--END_SECTION:hn-->
 
 <!--
