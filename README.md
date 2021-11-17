@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 17 - [The Perfect Configuration Format? Try TypeScript](https://reflect.run/articles/typescript-the-perfect-file-format/)
-- Nov 17 - [To Be Energy-Efficient, Brains Predict Their Perceptions](https://www.quantamagazine.org/to-be-energy-efficient-brains-predict-their-perceptions-20211115/)
-- Nov 17 - [Layout patterns – Collection of layout patterns built using CSS](https://web.dev/patterns/layout/)
-- Nov 17 - [Mozilla publishes position paper on the EU Digital Identity Framework](https://blog.mozilla.org/netpolicy/2021/11/04/mozilla-publishes-position-paper-on-the-eu-digital-identity-framework/)
-- Nov 17 - [I built a $5k Raspberry Pi server (yes, it's ridiculous)](https://www.jeffgeerling.com/blog/2021/i-built-5000-raspberry-pi-server-yes-its-ridiculous)
+- Nov 17 - [The features that more cameras should have](https://photographylife.com/features-more-cameras-need)
+- Nov 17 - [Three Sins of Authors in Computer Science and Math](https://www.cs.cmu.edu/~jrs/sins.html)
+- Nov 17 - [XMPP, a Comeback Story: A Protocol for Robust, Private and Decentralized Comms](https://takebackourtech.org/xmpp-comeback/)
+- Nov 17 - [SSH – Spoofing FIDO2 Tokens](https://github.com/ssh-mitm/ssh-mitm)
+- Nov 17 - [Hacking Ham Radio for Texting](https://spectrum.ieee.org/ham-radio-text-hacking)
 <!--END_SECTION:hn-->
 
 <!--
