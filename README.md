@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 17 - [The Burnout Society by Byung-Chul Han](https://apposition.substack.com/p/the-burnout-society)
-- Nov 17 - [The OBS project has accused Streamlabs of copying their name and trademark](https://twitter.com/OBSProject/status/1460782968633499651)
-- Nov 17 - [Ivermectin: Much More Than You Wanted to Know](https://astralcodexten.substack.com/p/ivermectin-much-more-than-you-wanted)
-- Nov 17 - [Consumption of coffee and tea and risk of developing stroke and dementia](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003830)
-- Nov 17 - [The Truth Shall Make You Free: Catholicism and the CIA](https://lareviewofbooks.org/article/the-truth-shall-make-you-free-catholicism-and-the-cia/)
+- Nov 17 - [Reflect (YC S20) Is Hiring a Full-Stack Software Engineer](https://www.ycombinator.com/companies/reflect/jobs/Bdo0cAY-software-engineer)
+- Nov 17 - [Firefox Relay](https://relay.firefox.com/)
+- Nov 17 - [Learn RegEx step by step, from zero to advanced](https://regexlearn.com/)
+- Nov 17 - [Ask HN: What is the fastest way to ramp up on DevOps, k8 and GCP?](https://news.ycombinator.com/item?id=29251343)
+- Nov 17 - [Microsoft Calls Firefox’s Browser Workaround “Improper,” Will Block It](https://www.howtogeek.com/768727/microsoft-calls-firefoxs-browser-workaround-improper-will-block-it/)
 <!--END_SECTION:hn-->
 
 <!--
