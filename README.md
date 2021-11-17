@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 16 - [Security issues related to the NPM registry](https://github.blog/2021-11-15-githubs-commitment-to-npm-ecosystem-security/#security-issues-related-to-the-npm-registry)
-- Nov 16 - [Cache of documents declassified by the NRO for its 60th anniversary](https://www.nro.gov/FOIA/Major-NRO-Programs-and-Projects/EOI-Documents/)
-- Nov 16 - [IBM unveils 127-qubit quantum processor](https://newsroom.ibm.com/2021-11-16-IBM-Unveils-Breakthrough-127-Qubit-Quantum-Processor)
-- Nov 16 - [List of 8000 security vulnerabilities in 1200 Wi-Fi routers](https://modemly.com/m1/pulse)
-- Nov 16 - [Show HN: Outage Bingo](https://outage.bingo)
+- Nov 16 - [Scott Aaronson, when reached for comment, said](https://scottaaronson.blog/?p=6111)
+- Nov 16 - [Considering a Sphere](https://www.solipsys.co.uk/new/ConsideringASphere.html?UK16HN)
+- Nov 16 - [The California Life of Czesław Miłosz](https://lareviewofbooks.org/article/a-home-in-the-neon-heat-of-nature-a-new-biography-of-czeslaw-milosz/)
+- Nov 16 - [Netflix now sharing worldwide top10 viewing data with export options](https://top10.netflix.com/?)
+- Nov 16 - [Modern Treasury (YC S18) is hiring designers to build a universal banking API](https://www.moderntreasury.com/careers?utm_source=yYPEbOqnBd)
 <!--END_SECTION:hn-->
 
 <!--
