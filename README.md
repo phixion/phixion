@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 16 - [Scott Aaronson, when reached for comment, said](https://scottaaronson.blog/?p=6111)
-- Nov 16 - [Considering a Sphere](https://www.solipsys.co.uk/new/ConsideringASphere.html?UK16HN)
+- Nov 17 - [The Truth Shall Make You Free: Catholicism and the CIA](https://lareviewofbooks.org/article/the-truth-shall-make-you-free-catholicism-and-the-cia/)
+- Nov 17 - [Expectations data indicate the US is entering recession about now](https://voxeu.org/article/expectations-data-indicate-us-entering-recession-about-now)
+- Nov 17 - [Protective effects on acute hypoxic-ischemic brain damage in mfat-1 transgenic](https://www.pubcard.net/paper/63f0c6db3c1a4a4989ecae1b5bd57b17)
+- Nov 17 - [.plan](https://plan.cat)
 - Nov 16 - [The California Life of Czesław Miłosz](https://lareviewofbooks.org/article/a-home-in-the-neon-heat-of-nature-a-new-biography-of-czeslaw-milosz/)
-- Nov 16 - [Netflix now sharing worldwide top10 viewing data with export options](https://top10.netflix.com/?)
-- Nov 16 - [Modern Treasury (YC S18) is hiring designers to build a universal banking API](https://www.moderntreasury.com/careers?utm_source=yYPEbOqnBd)
 <!--END_SECTION:hn-->
 
 <!--
