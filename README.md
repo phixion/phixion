@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 17 - [Reflect (YC S20) Is Hiring a Full-Stack Software Engineer](https://www.ycombinator.com/companies/reflect/jobs/Bdo0cAY-software-engineer)
-- Nov 17 - [Firefox Relay](https://relay.firefox.com/)
-- Nov 17 - [Learn RegEx step by step, from zero to advanced](https://regexlearn.com/)
-- Nov 17 - [Ask HN: What is the fastest way to ramp up on DevOps, k8 and GCP?](https://news.ycombinator.com/item?id=29251343)
-- Nov 17 - [Microsoft Calls Firefox’s Browser Workaround “Improper,” Will Block It](https://www.howtogeek.com/768727/microsoft-calls-firefoxs-browser-workaround-improper-will-block-it/)
+- Nov 17 - [The Perfect Configuration Format? Try TypeScript](https://reflect.run/articles/typescript-the-perfect-file-format/)
+- Nov 17 - [To Be Energy-Efficient, Brains Predict Their Perceptions](https://www.quantamagazine.org/to-be-energy-efficient-brains-predict-their-perceptions-20211115/)
+- Nov 17 - [Layout patterns – Collection of layout patterns built using CSS](https://web.dev/patterns/layout/)
+- Nov 17 - [Mozilla publishes position paper on the EU Digital Identity Framework](https://blog.mozilla.org/netpolicy/2021/11/04/mozilla-publishes-position-paper-on-the-eu-digital-identity-framework/)
+- Nov 17 - [I built a $5k Raspberry Pi server (yes, it's ridiculous)](https://www.jeffgeerling.com/blog/2021/i-built-5000-raspberry-pi-server-yes-its-ridiculous)
 <!--END_SECTION:hn-->
 
 <!--
