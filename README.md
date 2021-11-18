@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 18 - [How I got wealthy without working too hard](https://amaca.substack.com/p/how-i-got-wealthy-without-working)
-- Nov 18 - [Ask HN: Career progression vs. meaningful/appealing products?](https://news.ycombinator.com/item?id=29266094)
-- Nov 18 - [Lemmy Release v0.14.0: Federation with Mastodon and Pleroma](https://lemmy.ml/post/89740)
-- Nov 18 - [Alpine Linux: Considering LibreSSL as default OpenSSL provider again](https://gitlab.alpinelinux.org/alpine/tsc/-/issues/28)
-- Nov 18 - [Facebook is bad at moderating in English. In Arabic, it’s a disaster](https://restofworld.org/2021/facebook-is-bad-at-moderating-in-english-in-arabic-its-a-disaster/)
+- Nov 18 - [Solar-Driven Water Splitting at 13.8% Solar-to-Hydrogen Efficiency](https://pubs.acs.org/doi/10.1021/acssuschemeng.1c03565)
+- Nov 18 - [ECB sees rising risk that housing bubble will burst](https://www.reuters.com/article/ecb-economy-stability-idUSKBN2I20Q3)
+- Nov 18 - [Learning Rust for Embedded Systems](https://www.EmbeddedRelated.com/showarticle/1432.php)
+- Nov 18 - [Chess Grandmaster Kasparov on Mob Mentality and Groupthink](https://www.wsj.com/articles/woke-is-a-bad-word-for-a-real-threat-to-american-democracy-cancel-culture-freedom-11637184284)
+- Nov 18 - [I would like closure, but I'll take honesty](https://freddiedeboer.substack.com/p/i-would-like-closure-but-ill-take)
 <!--END_SECTION:hn-->
 
 <!--
