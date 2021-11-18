@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 18 - [Memfault (YC W19) Is Hiring Software Engineers in Germany](https://jobs.lever.co/memfault/f2ee407e-80b3-44c5-a01a-b6fd21a19e78)
-- Nov 18 - [The DOI System](https://www.doi.org/)
-- Nov 18 - [Tldraw – a tiny little drawing app](https://www.tldraw.com/)
-- Nov 18 - [Renesas enters FPGA market with the first ultra-low-power, low-cost family](https://www.renesas.com/us/en/about/press-room/renesas-enters-fpga-market-first-ultra-low-power-low-cost-family-addressing-low-density-high-volume)
-- Nov 18 - [Dangerous bug in Chrome’s ‘New Tab’ page bypassed security features](https://portswigger.net/daily-swig/dangerous-xss-bug-in-google-chromes-new-tab-page-bypassed-security-features)
+- Nov 18 - [AtoB (YC S20) is building Stripe for Transportation and hiring eng managers](https://careers.atob.com/8655cd0666f64b10bef05ca7d5d34e09)
+- Nov 18 - [Various ways to include comments on your static site](https://darekkay.com/blog/static-site-comments/)
+- Nov 18 - [Ask HN: What are you using for public documentation these days?](https://news.ycombinator.com/item?id=29264374)
+- Nov 18 - [IRCv3 spec round-up 2021](https://ircv3.net/2021/11/17/spec-round-up)
+- Nov 18 - [Five mysteries the Standard Model can’t explain](https://www.symmetrymagazine.org/article/five-mysteries-the-standard-model-cant-explain)
 <!--END_SECTION:hn-->
 
 <!--
