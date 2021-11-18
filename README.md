@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 18 - [AtoB (YC S20) is building Stripe for Transportation and hiring eng managers](https://careers.atob.com/8655cd0666f64b10bef05ca7d5d34e09)
-- Nov 18 - [Various ways to include comments on your static site](https://darekkay.com/blog/static-site-comments/)
-- Nov 18 - [Ask HN: What are you using for public documentation these days?](https://news.ycombinator.com/item?id=29264374)
-- Nov 18 - [IRCv3 spec round-up 2021](https://ircv3.net/2021/11/17/spec-round-up)
-- Nov 18 - [Five mysteries the Standard Model can’t explain](https://www.symmetrymagazine.org/article/five-mysteries-the-standard-model-cant-explain)
+- Nov 18 - [How I got wealthy without working too hard](https://amaca.substack.com/p/how-i-got-wealthy-without-working)
+- Nov 18 - [Ask HN: Career progression vs. meaningful/appealing products?](https://news.ycombinator.com/item?id=29266094)
+- Nov 18 - [Lemmy Release v0.14.0: Federation with Mastodon and Pleroma](https://lemmy.ml/post/89740)
+- Nov 18 - [Alpine Linux: Considering LibreSSL as default OpenSSL provider again](https://gitlab.alpinelinux.org/alpine/tsc/-/issues/28)
+- Nov 18 - [Facebook is bad at moderating in English. In Arabic, it’s a disaster](https://restofworld.org/2021/facebook-is-bad-at-moderating-in-english-in-arabic-its-a-disaster/)
 <!--END_SECTION:hn-->
 
 <!--
