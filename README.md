@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 19 - [Addressing Common Concerns with a World Without Timezones](https://www.connorcallahan.info/timezones.html)
-- Nov 18 - [Acquisition of chess knowledge in AlphaZero](https://en.chessbase.com/post/acquisition-of-chess-knowledge-in-alphazero)
-- Nov 18 - [Futurists have their heads in the clouds](https://erikhoel.substack.com/p/futurists-have-their-heads-in-the)
-- Nov 18 - [Show HN: I made a drag and drop website builder that works on mobile](https://straw.page)
-- Nov 18 - [SerenityOS demo at Handmade Seattle 2021 [video]](https://media.handmade-seattle.com/serenityos/)
+- Nov 19 - [Google SAPI: Generate sandboxes for C/C++ libraries automatically](https://github.com/google/sandboxed-api)
+- Nov 19 - [A Xiaomi phone might’ve shipped with a censorship list in Europe](https://bigtechnology.substack.com/p/a-xiaomi-phone-mightve-shipped-with)
+- Nov 19 - [FDA wants 55 years to process FOIA request over vaccine data](https://www.reuters.com/legal/government/wait-what-fda-wants-55-years-process-foia-request-over-vaccine-data-2021-11-18/)
+- Nov 19 - [Duff’s Device in 2021](https://belaycpp.com/2021/11/18/duffs-device-in-2021/)
+- Nov 19 - [Xeact 0.0.69: A Revolutionary Femtoframework for High Efficiency JavaScript Dev](https://christine.website/blog/xeact-0.0.69-2021-11-18)
 <!--END_SECTION:hn-->
 
 <!--
