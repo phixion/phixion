@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 18 - [Solar-Driven Water Splitting at 13.8% Solar-to-Hydrogen Efficiency](https://pubs.acs.org/doi/10.1021/acssuschemeng.1c03565)
-- Nov 18 - [ECB sees rising risk that housing bubble will burst](https://www.reuters.com/article/ecb-economy-stability-idUSKBN2I20Q3)
-- Nov 18 - [Learning Rust for Embedded Systems](https://www.EmbeddedRelated.com/showarticle/1432.php)
-- Nov 18 - [Chess Grandmaster Kasparov on Mob Mentality and Groupthink](https://www.wsj.com/articles/woke-is-a-bad-word-for-a-real-threat-to-american-democracy-cancel-culture-freedom-11637184284)
-- Nov 18 - [I would like closure, but I'll take honesty](https://freddiedeboer.substack.com/p/i-would-like-closure-but-ill-take)
+- Nov 19 - [Addressing Common Concerns with a World Without Timezones](https://www.connorcallahan.info/timezones.html)
+- Nov 18 - [Acquisition of chess knowledge in AlphaZero](https://en.chessbase.com/post/acquisition-of-chess-knowledge-in-alphazero)
+- Nov 18 - [Futurists have their heads in the clouds](https://erikhoel.substack.com/p/futurists-have-their-heads-in-the)
+- Nov 18 - [Show HN: I made a drag and drop website builder that works on mobile](https://straw.page)
+- Nov 18 - [SerenityOS demo at Handmade Seattle 2021 [video]](https://media.handmade-seattle.com/serenityos/)
 <!--END_SECTION:hn-->
 
 <!--
