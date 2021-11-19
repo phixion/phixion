@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 19 - [Scamspotter.org – Google and Cybercrime Support Network Partnership](https://scamspotter.org/)
-- Nov 19 - [Ask HN: What extensions/packs of VS Code are must for web/developers to install?](https://news.ycombinator.com/item?id=29278370)
-- Nov 19 - [Adults who microdose psychedelics report lower levels of depression and anxiety [pdf]](https://www.nature.com/articles/s41598-021-01811-4.pdf)
-- Nov 19 - [Show HN: Pony is a messenger for mindful correspondence. It delivers once a day](https://www.ponymessenger.com)
-- Nov 19 - [Tech journalism is less diverse than tech (2020)](https://oonwoye.com/2020/07/31/tech-journalism-is-less-diverse-than-tech/)
+- Nov 19 - [Ask HN: I purchased a domain and now the registry wants to take it back](https://news.ycombinator.com/item?id=29281532)
+- Nov 19 - [Zstandard RFC 8878](https://datatracker.ietf.org/doc/html/rfc8878)
+- Nov 19 - [The WeeCee – Tiny Vortex86-Based DOS Gaming PC](https://www.vogons.org/viewtopic.php?t=80651)
+- Nov 19 - [Ask HN: Best cars without too much digitalization?](https://news.ycombinator.com/item?id=29281034)
+- Nov 19 - [China's Foreign Ministry 'not aware' of situation of tennis player Peng Shuai](https://www.espn.com/tennis/story/_/id/32665214/china-foreign-ministry-not-aware-situation-surrounding-tennis-player-peng-shuai)
 <!--END_SECTION:hn-->
 
 <!--
