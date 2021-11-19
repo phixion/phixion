@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 19 - [Jitx (YC S18) is hiring senior developers to automate circuit board design](https://jobs.lever.co/jitxinc/6241d90f-03a1-40d0-8703-63c92fac5846)
-- Nov 19 - [Tasking developers with creating detailed estimates is a waste of time](https://iism.org/article/is-tasking-developers-with-creating-detailed-estimates-a-waste-of-company-money-42)
-- Nov 19 - [UK to ban all in-hand mobile phone use while driving in 2022](https://www.theguardian.com/world/2021/nov/19/uk-drivers-face-200-fines-in-mobile-phone-clampdown)
-- Nov 19 - [Ask HN: Why is there no good open-source LMS?](https://news.ycombinator.com/item?id=29275470)
-- Nov 19 - [New Ransomware Reporting Rules for US Financial Institutions](https://www.cpomagazine.com/cyber-security/new-ransomware-reporting-rules-for-us-financial-institutions-proposed-bill-would-require-government-permission-for-payments-over-100000/)
+- Nov 19 - [Scamspotter.org – Google and Cybercrime Support Network Partnership](https://scamspotter.org/)
+- Nov 19 - [Ask HN: What extensions/packs of VS Code are must for web/developers to install?](https://news.ycombinator.com/item?id=29278370)
+- Nov 19 - [Adults who microdose psychedelics report lower levels of depression and anxiety [pdf]](https://www.nature.com/articles/s41598-021-01811-4.pdf)
+- Nov 19 - [Show HN: Pony is a messenger for mindful correspondence. It delivers once a day](https://www.ponymessenger.com)
+- Nov 19 - [Tech journalism is less diverse than tech (2020)](https://oonwoye.com/2020/07/31/tech-journalism-is-less-diverse-than-tech/)
 <!--END_SECTION:hn-->
 
 <!--
