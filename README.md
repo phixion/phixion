@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 19 - [Google SAPI: Generate sandboxes for C/C++ libraries automatically](https://github.com/google/sandboxed-api)
-- Nov 19 - [A Xiaomi phone might’ve shipped with a censorship list in Europe](https://bigtechnology.substack.com/p/a-xiaomi-phone-mightve-shipped-with)
-- Nov 19 - [FDA wants 55 years to process FOIA request over vaccine data](https://www.reuters.com/legal/government/wait-what-fda-wants-55-years-process-foia-request-over-vaccine-data-2021-11-18/)
-- Nov 19 - [Duff’s Device in 2021](https://belaycpp.com/2021/11/18/duffs-device-in-2021/)
-- Nov 19 - [Xeact 0.0.69: A Revolutionary Femtoframework for High Efficiency JavaScript Dev](https://christine.website/blog/xeact-0.0.69-2021-11-18)
+- Nov 19 - [The Spiral Staircase Myth (2020)](https://triskeleheritage.triskelepublishing.com/mediaeval-mythbusting-blog-2-the-man-who-invented-the-spiral-staircase-myth/)
+- Nov 19 - [Stacker (YC S20) Is Hiring Across Engineering](https://www.stackerhq.com/careers#job-listing)
+- Nov 19 - [Fragment of lost 12th-century epic poem found in another book’s binding](https://www.theguardian.com/books/2021/nov/18/fragment-of-lost-12th-century-epic-poem-found-in-another-books-binding)
+- Nov 19 - [IPv4 unicast extensions project – adding 419M new IPs to the world](https://github.com/schoen/unicast-extensions)
+- Nov 19 - [80386DX ISA single board microcomputer](https://alexandrugroza.ro/microelectronics/system-design/isa-80386dx-sbmc/index.html)
 <!--END_SECTION:hn-->
 
 <!--
