@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 20 - [Gay men earn undergraduate and graduate degrees at the highest rate in the US](https://phys.org/news/2021-11-gay-men-undergraduate-degrees-highest.html)
-- Nov 20 - [Experts from a world that no longer exists](https://www.collaborativefund.com/blog/experts/)
-- Nov 20 - [Installing Windows and Linux into the same partition](https://gist.github.com/motorailgun/cc2c573f253d0893f429a165b5f851ee)
-- Nov 20 - [Show HN: Cleanvoice – Automated Podcast Editing](https://cleanvoice.ai)
-- Nov 20 - [Autism affects the microbiome, not the other way around](https://arstechnica.com/science/2021/11/autism-affects-the-microbiome-not-the-other-way-around/)
+- Nov 20 - [JEdit – Programmer's Text Editor](http://www.jedit.org/)
+- Nov 20 - [How to programmatically find out if computer is on](https://www.haiku-os.org/legacy-docs/bebook/TheKernelKit_SystemInfo.html#is_computer_on)
+- Nov 20 - [What every IT person needs to know about OpenBSD Part 3: That packet filter](https://blog.apnic.net/2021/11/11/openbsd-part-3-that-packet-filter/)
+- Nov 20 - [Facebook tells LA police to stop spying on users with fake accounts](https://www.bbc.com/news/business-59341750)
+- Nov 20 - [Tools I use: PyCharm / Idea plugins](https://blog.rfox.eu/en/Programming/Tools_I_use/Tools_I_use_PyCharm_-_Idea_plugins.html)
 <!--END_SECTION:hn-->
 
 <!--
