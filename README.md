@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 20 - [Taloflow (YC W21) is hiring a Game Designer to make selecting dev tools engaging](https://www.ycombinator.com/companies/taloflow/jobs/ix5ffnH-game-designer-contract-to-make-selecting-dev-tools-engaging)
+- Nov 20 - [The ER charged him $6,589.77 for 6 stitches, cost that led his wife to avoid ER](https://www.npr.org/sections/health-shots/2021/11/19/1056866145/expensive-er-stitches-skip-care-bill-of-the-month)
 - Nov 20 - [Analog Devices AD1139](https://www.richis-lab.de/DAC07.htm)
-- Nov 20 - [Supabase (YC S20) Is Hiring Developer Support and QA (Remote)](https://www.ycombinator.com/companies/supabase/jobs/8lEuz0r-developer-support-and-qa-engineers)
 - Nov 20 - [“The NFT Bay” Shares Multi-Terabyte Archive of ‘Pirated’ NFTs](https://torrentfreak.com/the-nft-bay-shares-multi-terabyte-archive-of-pirated-nfts-211118/)
-- Nov 20 - [Graphical Small Internet Client (2020) [HTTP,HTTPS,gemini,gopher,finger]](https://github.com/MasterQ32/kristall)
-- Nov 20 - [Foundations of Dawn: The Untyped Concatenative Calculus](https://www.dawn-lang.org/posts/foundations-ucc/)
+- Nov 20 - [Kristall – Visual cross-platform browser for gemini, http, https, gopher, finger](https://github.com/MasterQ32/kristall)
 <!--END_SECTION:hn-->
 
 <!--
