@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 20 - [Will World Government Rot?](https://www.overcomingbias.com/2021/11/will-world-government-rot.html)
-- Nov 20 - [Decentralised finance is booming, but it has yet to find its purpose](https://www.economist.com/the-world-ahead/2021/11/08/decentralised-finance-is-booming-but-it-has-yet-to-find-its-purpose)
-- Nov 20 - [Vertiwalk Vertical Walking](https://www.vertiwalk.com/)
-- Nov 20 - [Box64 lets you run x86_64 programs on non-x86_64 systems](https://github.com/ptitSeb/box64)
-- Nov 20 - [Hiking America’s three longest trails in less than a year. What could go wrong?](https://www.latimes.com/california/story/2021-11-19/how-2-stanford-students-conquered-the-triple-crown-of-hiking)
+- Nov 20 - [Analog Devices AD1139](https://www.richis-lab.de/DAC07.htm)
+- Nov 20 - [Supabase (YC S20) Is Hiring Developer Support and QA (Remote)](https://www.ycombinator.com/companies/supabase/jobs/8lEuz0r-developer-support-and-qa-engineers)
+- Nov 20 - [“The NFT Bay” Shares Multi-Terabyte Archive of ‘Pirated’ NFTs](https://torrentfreak.com/the-nft-bay-shares-multi-terabyte-archive-of-pirated-nfts-211118/)
+- Nov 20 - [Graphical Small Internet Client (2020) [HTTP,HTTPS,gemini,gopher,finger]](https://github.com/MasterQ32/kristall)
+- Nov 20 - [Foundations of Dawn: The Untyped Concatenative Calculus](https://www.dawn-lang.org/posts/foundations-ucc/)
 <!--END_SECTION:hn-->
 
 <!--
