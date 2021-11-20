@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 19 - [Ask HN: I purchased a domain and now the registry wants to take it back](https://news.ycombinator.com/item?id=29281532)
-- Nov 19 - [Zstandard RFC 8878](https://datatracker.ietf.org/doc/html/rfc8878)
-- Nov 19 - [The WeeCee – Tiny Vortex86-Based DOS Gaming PC](https://www.vogons.org/viewtopic.php?t=80651)
-- Nov 19 - [Ask HN: Best cars without too much digitalization?](https://news.ycombinator.com/item?id=29281034)
-- Nov 19 - [China's Foreign Ministry 'not aware' of situation of tennis player Peng Shuai](https://www.espn.com/tennis/story/_/id/32665214/china-foreign-ministry-not-aware-situation-surrounding-tennis-player-peng-shuai)
+- Nov 20 - [The Origins of Raoul Duke](https://themillions.com/2021/11/the-origins-of-raoul-duke.html)
+- Nov 19 - [A smart collar for cows](https://thehustle.co/11192021-cow-smart-collar/)
+- Nov 19 - [The ‘Zelle Fraud’ Scam: How It Works, How to Fight Back](https://krebsonsecurity.com/2021/11/the-zelle-fraud-scam-how-it-works-how-to-fight-back/)
+- Nov 19 - [Pabio (YC S21) Is Hiring a Senior Full Stack JavaScript/TS Engineer](https://careers.pabio.com/Senior-Full-Stack-JS-TS-Engineer-ba04ed2641b64499b57e91786d2c7bc6)
+- Nov 19 - [Why Are Topre Keyboards So Expensive?](https://switchandclick.com/why-are-topre-keyboards-so-expensive/)
 <!--END_SECTION:hn-->
 
 <!--
