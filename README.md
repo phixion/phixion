@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 20 - [Taloflow (YC W21) is hiring a Game Designer to make selecting dev tools engaging](https://www.ycombinator.com/companies/taloflow/jobs/ix5ffnH-game-designer-contract-to-make-selecting-dev-tools-engaging)
-- Nov 20 - [The ER charged him $6,589.77 for 6 stitches, cost that led his wife to avoid ER](https://www.npr.org/sections/health-shots/2021/11/19/1056866145/expensive-er-stitches-skip-care-bill-of-the-month)
-- Nov 20 - [Analog Devices AD1139](https://www.richis-lab.de/DAC07.htm)
-- Nov 20 - [“The NFT Bay” Shares Multi-Terabyte Archive of ‘Pirated’ NFTs](https://torrentfreak.com/the-nft-bay-shares-multi-terabyte-archive-of-pirated-nfts-211118/)
-- Nov 20 - [Kristall – Visual cross-platform browser for gemini, http, https, gopher, finger](https://github.com/MasterQ32/kristall)
+- Nov 20 - [Gay men earn undergraduate and graduate degrees at the highest rate in the US](https://phys.org/news/2021-11-gay-men-undergraduate-degrees-highest.html)
+- Nov 20 - [Experts from a world that no longer exists](https://www.collaborativefund.com/blog/experts/)
+- Nov 20 - [Installing Windows and Linux into the same partition](https://gist.github.com/motorailgun/cc2c573f253d0893f429a165b5f851ee)
+- Nov 20 - [Show HN: Cleanvoice – Automated Podcast Editing](https://cleanvoice.ai)
+- Nov 20 - [Autism affects the microbiome, not the other way around](https://arstechnica.com/science/2021/11/autism-affects-the-microbiome-not-the-other-way-around/)
 <!--END_SECTION:hn-->
 
 <!--
