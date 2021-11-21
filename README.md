@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 21 - [Tiger Global: How to Win](https://www.readthegeneralist.com/briefing/tiger-global)
-- Nov 21 - [Native-like Navigation of Web apps](https://hezedu.github.io/history-navigation-vue/)
-- Nov 21 - [Dopamine Fasting: A Maladaptive Fad](https://www.health.harvard.edu/blog/dopamine-fasting-misunderstanding-science-spawns-a-maladaptive-fad-2020022618917)
-- Nov 21 - [Alan Kay at UCLA (2016) [video]](https://www.youtube.com/watch?v=m5L3EEWBJQw)
-- Nov 21 - [Why lifeless AI is not intelligent](https://bdtechtalks.com/2021/11/15/birth-of-intelligence-book-review/)
+- Nov 21 - [Trial of Mary Wade](https://www.oldbaileyonline.org/browse.jsp?div=t17890114-58)
+- Nov 21 - [Git ls-files is Faster Than Fd and Find](https://cj.rs//blog/git-ls-files-is-faster-than-fd-and-find/)
+- Nov 21 - [Northrop Grumman Announces Team for NASA’s Next-Generation Lunar Terrain Vehicle](https://news.northropgrumman.com/news/releases/northrop-grumman-announces-team-for-nasas-next-generation-lunar-terrain-vehicle)
+- Nov 21 - [Meticulous (YC S21) Is Hiring Founding Engineer in London](https://news.ycombinator.com/item?id=29297755)
+- Nov 21 - [Ask HN: What mental models do you use everyday?](https://news.ycombinator.com/item?id=29297594)
 <!--END_SECTION:hn-->
 
 <!--
