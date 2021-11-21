@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 21 - [Raycast (YC W20) Is Hiring macOS Engineers to Geek Out on UI (Remote in Europe)](https://raycast.com/jobs/software-engineer-macos/)
-- Nov 21 - [PDP-11/40 (a.k.a. 11/35) emulator for various microcontrollers](https://gitlab.com/ChloeLunn/sam11)
-- Nov 21 - [Analysis of the Cosmos 1408 Breakup](https://leolabs-space.medium.com/analysis-of-the-cosmos-1408-breakup-71b32de5641f)
-- Nov 21 - [Discover Slitaz, a 50MB Lightweight Desktop Operating System](https://www.ubuntubuzz.com/2021/11/discover-slitaz-50mb-lightweight-desktop-operating-system.html)
-- Nov 21 - [Upgrading the soldered-on RAM of a Dell XPS13 7390 laptop](https://gregdavill.github.io/posts/dell-xps13-ram-upgrade/)
+- Nov 21 - [Factored Quality (YC W20) Is Hiring a Back End Engineer (4 Years Experience)](https://www.ycombinator.com/companies/factored-quality/jobs/MVUlgYh-backend-engineer-4-years-experience)
+- Nov 21 - [.NET 6 vs. .NET 5: up to 40% speedup](https://alexyakunin.medium.com/net-6-vs-net-5-up-to-40-speedup-ceca9112d298)
+- Nov 21 - [Tracking Crucial Metrics of Earth's Global Warming](https://www.climatechangetracker.org/)
+- Nov 21 - [Preventing Timing Attacks on String Comparison with Double HMAC Strategy (2015)](https://paragonie.com/blog/2015/11/preventing-timing-attacks-on-string-comparison-with-double-hmac-strategy)
+- Nov 21 - [Campbell's Law: The dark side of metric fixation](https://www.nngroup.com/articles/campbells-law/)
 <!--END_SECTION:hn-->
 
 <!--
