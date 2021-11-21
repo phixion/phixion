@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 20 - [JEdit – Programmer's Text Editor](http://www.jedit.org/)
-- Nov 20 - [How to programmatically find out if computer is on](https://www.haiku-os.org/legacy-docs/bebook/TheKernelKit_SystemInfo.html#is_computer_on)
-- Nov 20 - [What every IT person needs to know about OpenBSD Part 3: That packet filter](https://blog.apnic.net/2021/11/11/openbsd-part-3-that-packet-filter/)
-- Nov 20 - [Facebook tells LA police to stop spying on users with fake accounts](https://www.bbc.com/news/business-59341750)
-- Nov 20 - [Tools I use: PyCharm / Idea plugins](https://blog.rfox.eu/en/Programming/Tools_I_use/Tools_I_use_PyCharm_-_Idea_plugins.html)
+- Nov 20 - [Cocoa Text System](http://www.hcs.harvard.edu/~jrus/Site/Cocoa%20Text%20System.html)
+- Nov 20 - [Advent of Code 2021](https://adventofcode.com/2021)
+- Nov 20 - [Algorand – Fast, low fees and sustainable blockchain](https://www.algorand.com/)
+- Nov 20 - [Yara Birkeland, the World’s First Autonomous and Emission-Free Containership](https://gcaptain.com/yara-birkeland-worlds-first-autonomous-zero-emission-ship/)
+- Nov 20 - [An Introduction to Lagrange Multipliers](http://www.slimy.com/~steuard/teaching/tutorials/Lagrange.html)
 <!--END_SECTION:hn-->
 
 <!--
