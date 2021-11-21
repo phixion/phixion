@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 21 - [Factored Quality (YC W20) Is Hiring a Back End Engineer (4 Years Experience)](https://www.ycombinator.com/companies/factored-quality/jobs/MVUlgYh-backend-engineer-4-years-experience)
-- Nov 21 - [.NET 6 vs. .NET 5: up to 40% speedup](https://alexyakunin.medium.com/net-6-vs-net-5-up-to-40-speedup-ceca9112d298)
-- Nov 21 - [Tracking Crucial Metrics of Earth's Global Warming](https://www.climatechangetracker.org/)
-- Nov 21 - [Preventing Timing Attacks on String Comparison with Double HMAC Strategy (2015)](https://paragonie.com/blog/2015/11/preventing-timing-attacks-on-string-comparison-with-double-hmac-strategy)
-- Nov 21 - [Campbell's Law: The dark side of metric fixation](https://www.nngroup.com/articles/campbells-law/)
+- Nov 21 - [Tiger Global: How to Win](https://www.readthegeneralist.com/briefing/tiger-global)
+- Nov 21 - [Native-like Navigation of Web apps](https://hezedu.github.io/history-navigation-vue/)
+- Nov 21 - [Dopamine Fasting: A Maladaptive Fad](https://www.health.harvard.edu/blog/dopamine-fasting-misunderstanding-science-spawns-a-maladaptive-fad-2020022618917)
+- Nov 21 - [Alan Kay at UCLA (2016) [video]](https://www.youtube.com/watch?v=m5L3EEWBJQw)
+- Nov 21 - [Why lifeless AI is not intelligent](https://bdtechtalks.com/2021/11/15/birth-of-intelligence-book-review/)
 <!--END_SECTION:hn-->
 
 <!--
