@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 22 - [The Scranton Iron Furnaces](https://abandonedonline.net/location/scranton-iron-furnaces/)
-- Nov 22 - [Volta vs. Nvm for JavaScript Tooling](https://sirre.al/2021/02/12/volta-vs-nvm-for-managing-javascript-tooling/)
-- Nov 22 - [True Convergence is Here: PureOS 10 is Released for all Librem Products](https://puri.sm/posts/true-convergence-is-here-pureos-10-is-released-for-all-librem-products/)
-- Nov 22 - [Rust Moderation Team Resigns](https://github.com/rust-lang/team/pull/671)
-- Nov 22 - [Cryptographers are not happy with how you’re using the word ‘crypto’](https://www.theguardian.com/technology/2021/nov/18/crypto-cryptocurrency-cryptographers)
+- Nov 22 - [Benchmarking the Apple M1 Max](https://tlkh.dev/benchmarking-the-apple-m1-max)
+- Nov 22 - [Svelte Cubed](https://svelte-cubed.vercel.app/)
+- Nov 22 - [Tutanota is now free for open source projects](https://tutanota.com/blog/posts/tutanota-for-open-source-teams/)
+- Nov 22 - [Books I loved reading this year](https://www.gatesnotes.com/About-Bill-Gates/Holiday-Books-2021)
+- Nov 22 - [Unmasking the Most Viral Page on Facebook](https://www.garbageday.email/p/when-the-traffic-firehose-is-pointed)
 <!--END_SECTION:hn-->
 
 <!--
