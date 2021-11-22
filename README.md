@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 21 - [Trial of Mary Wade](https://www.oldbaileyonline.org/browse.jsp?div=t17890114-58)
-- Nov 21 - [Git ls-files is Faster Than Fd and Find](https://cj.rs//blog/git-ls-files-is-faster-than-fd-and-find/)
-- Nov 21 - [Northrop Grumman Announces Team for NASA’s Next-Generation Lunar Terrain Vehicle](https://news.northropgrumman.com/news/releases/northrop-grumman-announces-team-for-nasas-next-generation-lunar-terrain-vehicle)
-- Nov 21 - [Meticulous (YC S21) Is Hiring Founding Engineer in London](https://news.ycombinator.com/item?id=29297755)
-- Nov 21 - [Ask HN: What mental models do you use everyday?](https://news.ycombinator.com/item?id=29297594)
+- Nov 22 - [Octopuses, crabs and lobsters to be recognised as sentient beings under UK law](https://www.lse.ac.uk/News/Latest-news-from-LSE/2021/k-November-21/Octopuses-crabs-and-lobsters-welfare-protection)
+- Nov 21 - [The many gifts of awkward SILENCE](https://jessicahagy.substack.com/p/the-many-gifts-of-awkward-silence)
+- Nov 21 - [I got nerd sniped into benchmarking legacy x86 instructions (2019)](https://www.acepace.net/2019-07-27-xlatb/)
+- Nov 21 - [Smart Artificial Pancreas Could Conquer Diabetes](https://spectrum.ieee.org/artificial-pancreas-could-conquer-diabetes/particle-2)
+- Nov 21 - [The Race to Make Better Qubits](https://semiengineering.com/the-race-to-make-better-qubits/)
 <!--END_SECTION:hn-->
 
 <!--
