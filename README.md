@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 22 - [The Muse (YC W12) Is Hiring a Senior Site Reliability Engineer](https://www.themuse.com/jobs/themuse/senior-site-reliability-engineer-d0ced3)
-- Nov 22 - [‘Dancing molecules’ successfully repair severe spinal cord injuries](https://news.northwestern.edu/stories/2021/11/dancing-molecules-successfully-repair-severe-spinal-cord-injuries/)
-- Nov 22 - [The Toit language is now open source](https://blog.toit.io/the-toit-language-is-now-open-source-14bdcb1604d9?gi=328077e6316)
-- Nov 22 - [Readme in Static Site (RISS)](https://cj.rs//readme-in-static-site/)
-- Nov 22 - [No notebook is perfect, but the reMarkable comes close](https://cfenollosa.com/blog/no-notebook-is-perfect-but-the-remarkable-comes-really-close.html)
+- Nov 22 - [The Scranton Iron Furnaces](https://abandonedonline.net/location/scranton-iron-furnaces/)
+- Nov 22 - [Volta vs. Nvm for JavaScript Tooling](https://sirre.al/2021/02/12/volta-vs-nvm-for-managing-javascript-tooling/)
+- Nov 22 - [True Convergence is Here: PureOS 10 is Released for all Librem Products](https://puri.sm/posts/true-convergence-is-here-pureos-10-is-released-for-all-librem-products/)
+- Nov 22 - [Rust Moderation Team Resigns](https://github.com/rust-lang/team/pull/671)
+- Nov 22 - [Cryptographers are not happy with how you’re using the word ‘crypto’](https://www.theguardian.com/technology/2021/nov/18/crypto-cryptocurrency-cryptographers)
 <!--END_SECTION:hn-->
 
 <!--
