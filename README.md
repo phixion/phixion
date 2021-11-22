@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 22 - [An Imagined History of Agile Software Development](https://www.sicpers.info/2021/11/an-imagined-history-of-agile-software-development/)
-- Nov 22 - [PhotoRoom (YC S20) Is Hiring a Head of Computer Vision (Paris, Remote ± 1h)](https://jobs.lever.co/photoroom/bdb26827-1c9b-404a-8c3a-d2abd744dc0a)
-- Nov 22 - [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/)
-- Nov 22 - [Django 4.0 release candidate 1 released](https://www.djangoproject.com/weblog/2021/nov/22/django-40-rc1/)
-- Nov 22 - [Apple Monterey reserves port 5000, a common web development port](https://developer.apple.com/forums/thread/682332)
+- Nov 22 - [The Muse (YC W12) Is Hiring a Senior Site Reliability Engineer](https://www.themuse.com/jobs/themuse/senior-site-reliability-engineer-d0ced3)
+- Nov 22 - [‘Dancing molecules’ successfully repair severe spinal cord injuries](https://news.northwestern.edu/stories/2021/11/dancing-molecules-successfully-repair-severe-spinal-cord-injuries/)
+- Nov 22 - [The Toit language is now open source](https://blog.toit.io/the-toit-language-is-now-open-source-14bdcb1604d9?gi=328077e6316)
+- Nov 22 - [Readme in Static Site (RISS)](https://cj.rs//readme-in-static-site/)
+- Nov 22 - [No notebook is perfect, but the reMarkable comes close](https://cfenollosa.com/blog/no-notebook-is-perfect-but-the-remarkable-comes-really-close.html)
 <!--END_SECTION:hn-->
 
 <!--
