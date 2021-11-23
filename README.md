@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 23 - [Full key extraction of Nvidia TSEC](https://gist.githubusercontent.com/plutooo/733318dbb57166d203c10d12f6c24e06/raw/15c5b2612ab62998243ce5e7877496466cabb77f/tsec.txt)
-- Nov 23 - [Deepnote (YC S19) Is Hiring to Build a Better Data Science Notebook](https://deepnote.com/join-us)
-- Nov 23 - [How does the wind generate waves?](https://physicstoday.scitation.org/doi/full/10.1063/PT.3.4880)
-- Nov 23 - [First partial skull of Homo Naledi child sheds light on enigmatic hominids](https://archaeologynewsnetwork.blogspot.com/2021/11/first-partial-skull-of-homo-naledi.html)
-- Nov 23 - [Why IndexedDB is slow and what to use instead](https://rxdb.info/slow-indexeddb.html)
+- Nov 23 - [Crypto Is Not Cryptocurrency ಠ_ಠ](http://www.cryptoisnotcryptocurrency.com/)
+- Nov 23 - [Ophelia (YC W20) is hiring software engineers to help solve the opioid crisis](https://jobs.lever.co/ophelia/ea3e680d-659a-4478-a863-c2bf35177227)
+- Nov 23 - [I’m leaving London for NYC and taking my tech startup](https://sifted.eu/articles/brexit-london-new-york-leaving/)
+- Nov 23 - [Earthquakes with Exaggerated Depth](https://glowy-earthquakes.glitch.me/)
+- Nov 23 - [Cocaine Paraphernalia Ads in the 70s](https://rarehistoricalphotos.com/cocaine-paraphernalia-ads-1970s/)
 <!--END_SECTION:hn-->
 
 <!--
