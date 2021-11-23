@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 23 - [Show HN: Retrocomputing with Clash: Haskell for FPGA Hardware Design](https://unsafeperform.io/retroclash/)
-- Nov 23 - [Examples of the Importance of Context-Sensitivity in Data-Centric AI](https://www.surgehq.ai/blog/why-context-aware-datasets-are-crucial-for-data-centric-ai)
-- Nov 23 - [Renesas introduces sub 50 cents FPGA family with Yosys-based development tools](https://www.cnx-software.com/2021/11/22/renesas-50-cents-fpga-forgefpga-yosys-development-tools/)
-- Nov 22 - [SugarCoat: Private browsing without breaking the web](https://ucsdnews.ucsd.edu/pressrelease/SugarCoat)
-- Nov 22 - [The 2 Sigma Problem [pdf]](https://web.mit.edu/5.95/readings/bloom-two-sigma.pdf)
+- Nov 23 - [The black hole of software engineering research (2015)](https://blogs.uw.edu/ajko/2015/10/05/the-black-hole-of-software-engineering-research/)
+- Nov 23 - [How to Set Up Your Own Mastodon Instance with Replit](https://blog.replit.com/setting%20up%20a%20mastodon)
+- Nov 23 - [Slow Money Movement](https://beetcoin.org/movement)
+- Nov 23 - [Nov 16 GCP Load Balancing Incident Report](https://status.cloud.google.com/incidents/6PM5mNd43NbMqjCZ5REh)
+- Nov 23 - [Herbert Hoover in the USSR: The Greatest Humanitarian Campaign in History](https://nationalinterest.org/feature/herbert-hoover-ussr-greatest-humanitarian-campaign-history-196718)
 <!--END_SECTION:hn-->
 
 <!--
