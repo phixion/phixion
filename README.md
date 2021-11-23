@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 23 - [The black hole of software engineering research (2015)](https://blogs.uw.edu/ajko/2015/10/05/the-black-hole-of-software-engineering-research/)
-- Nov 23 - [How to Set Up Your Own Mastodon Instance with Replit](https://blog.replit.com/setting%20up%20a%20mastodon)
-- Nov 23 - [Slow Money Movement](https://beetcoin.org/movement)
-- Nov 23 - [Nov 16 GCP Load Balancing Incident Report](https://status.cloud.google.com/incidents/6PM5mNd43NbMqjCZ5REh)
-- Nov 23 - [Herbert Hoover in the USSR: The Greatest Humanitarian Campaign in History](https://nationalinterest.org/feature/herbert-hoover-ussr-greatest-humanitarian-campaign-history-196718)
+- Nov 23 - [Full key extraction of Nvidia TSEC](https://gist.githubusercontent.com/plutooo/733318dbb57166d203c10d12f6c24e06/raw/15c5b2612ab62998243ce5e7877496466cabb77f/tsec.txt)
+- Nov 23 - [Deepnote (YC S19) Is Hiring to Build a Better Data Science Notebook](https://deepnote.com/join-us)
+- Nov 23 - [How does the wind generate waves?](https://physicstoday.scitation.org/doi/full/10.1063/PT.3.4880)
+- Nov 23 - [First partial skull of Homo Naledi child sheds light on enigmatic hominids](https://archaeologynewsnetwork.blogspot.com/2021/11/first-partial-skull-of-homo-naledi.html)
+- Nov 23 - [Why IndexedDB is slow and what to use instead](https://rxdb.info/slow-indexeddb.html)
 <!--END_SECTION:hn-->
 
 <!--
