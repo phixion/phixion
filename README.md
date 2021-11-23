@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 23 - [Crypto Is Not Cryptocurrency ಠ_ಠ](http://www.cryptoisnotcryptocurrency.com/)
-- Nov 23 - [Ophelia (YC W20) is hiring software engineers to help solve the opioid crisis](https://jobs.lever.co/ophelia/ea3e680d-659a-4478-a863-c2bf35177227)
-- Nov 23 - [I’m leaving London for NYC and taking my tech startup](https://sifted.eu/articles/brexit-london-new-york-leaving/)
-- Nov 23 - [Earthquakes with Exaggerated Depth](https://glowy-earthquakes.glitch.me/)
-- Nov 23 - [Cocaine Paraphernalia Ads in the 70s](https://rarehistoricalphotos.com/cocaine-paraphernalia-ads-1970s/)
+- Nov 23 - [Is Crypto Bullshit?](https://modelcitizen.substack.com/p/is-crypto-bullshit)
+- Nov 23 - [A Tale of Java Hash Tables](https://www.andreinc.net/2021/11/08/a-tale-of-java-hash-tables)
+- Nov 23 - [Django, HTMX and Alpine.js: Modern Websites, JavaScript Optional](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/htmx-alpine/)
+- Nov 23 - [Bash Patterns I Use Weekly](https://will-keleher.com/posts/5-Useful-Bash-Patterns.html)
+- Nov 23 - [Tech investors can’t get enough of Europe’s fizzing startup scene](https://www.economist.com/business/tech-investors-cant-get-enough-of-europes-fizzing-startup-scene/21806435)
 <!--END_SECTION:hn-->
 
 <!--
