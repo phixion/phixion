@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 23 - [Is Crypto Bullshit?](https://modelcitizen.substack.com/p/is-crypto-bullshit)
-- Nov 23 - [A Tale of Java Hash Tables](https://www.andreinc.net/2021/11/08/a-tale-of-java-hash-tables)
-- Nov 23 - [Django, HTMX and Alpine.js: Modern Websites, JavaScript Optional](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/htmx-alpine/)
-- Nov 23 - [Bash Patterns I Use Weekly](https://will-keleher.com/posts/5-Useful-Bash-Patterns.html)
-- Nov 23 - [Tech investors can’t get enough of Europe’s fizzing startup scene](https://www.economist.com/business/tech-investors-cant-get-enough-of-europes-fizzing-startup-scene/21806435)
+- Nov 23 - [India seeks to block most cryptocurrencies in new bill, government says](https://www.reuters.com/world/india/new-indian-law-will-allow-only-few-cryptocurrencies-government-says-2021-11-23/)
+- Nov 23 - [An Engineer's Hype-Free Observations on Web3 (and Its Possibilities)](https://www.psl.com/feed-posts/web3-engineer-take)
+- Nov 23 - [End of Support for Firefox Lockwise](https://support.mozilla.org/en-US/kb/end-of-support-firefox-lockwise)
+- Nov 23 - [C64](https://replit.com/@mattiselin/C64?v=1)
+- Nov 23 - [German car that was super-aerodynamic but impractical](https://rarehistoricalphotos.com/schlorwagen-photographs-1939/)
 <!--END_SECTION:hn-->
 
 <!--
