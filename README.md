@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 24 - [UPchieve (YC W21) Is Hiring a Content Marketing Manager](https://upchieve.welcomekit.co/jobs/content-marketing-manager_brooklyn)
-- Nov 24 - [Parrots Will Share Currency to Help Their Pals Purchase Food](https://www.smithsonianmag.com/science-nature/parrots-share-currency-help-their-pals-purchase-food-180973917/)
-- Nov 24 - [Please Stop “Fixing” Font Smoothing](https://usabilitypost.com/2012/11/05/stop-fixing-font-smoothing/)
-- Nov 24 - [Overengineering can kill your product](https://www.mindtheproduct.com/overengineering-can-kill-your-product/)
-- Nov 24 - [QOI: Lossless Image Compression in O(n) Time](https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression)
+- Nov 24 - [The Sticky Issue of Consent in Street Photography](https://dinalitovsky.bulletin.com/312411763768865/)
+- Nov 24 - [Robots in Europe Vote for the Radical Right](https://www.knowledge.unibocconi.eu/notizia.php?idArt=23580)
+- Nov 24 - [Teen caught in $46M dollar Bitcoin theft via buying a username](https://www.thespec.com/news/crime/2021/11/23/hamilton-cryptocurrency-bitcoin-theft.html)
+- Nov 24 - [The Handwavy Technobabble Nothingburger of Crypto](https://www.stephendiehl.com/blog/nothing-burger.html)
+- Nov 24 - [Import Substitution Is a Harsh Mistress](http://bactra.org/weblog/import-substitution-is-a-harsh-mistress.html)
 <!--END_SECTION:hn-->
 
 <!--
