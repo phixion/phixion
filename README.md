@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 24 - [Standard (YC S17) Is Hiring Rust/Go Engineers, SREs, and MLEs](https://careers.standard.ai/)
-- Nov 24 - [DBS Bank outage well into its second day with no meaningful update from DBD](https://www.nasdaq.com/articles/singapore-bank-dbs-says-services-disrupted-for-second-day)
-- Nov 24 - [Tree Sitter and the Complications of Parsing Languages](https://www.masteringemacs.org/article/tree-sitter-complications-of-parsing-languages)
-- Nov 24 - [I wish systemd logged information about the source of “transactions”](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdTransactionSourceWish)
-- Nov 24 - [IPv6-only subnets and EC2 instances](https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-ipv6-only-subnets-and-ec2-instances/)
+- Nov 24 - [UPchieve (YC W21) Is Hiring a Content Marketing Manager](https://upchieve.welcomekit.co/jobs/content-marketing-manager_brooklyn)
+- Nov 24 - [Parrots Will Share Currency to Help Their Pals Purchase Food](https://www.smithsonianmag.com/science-nature/parrots-share-currency-help-their-pals-purchase-food-180973917/)
+- Nov 24 - [Please Stop “Fixing” Font Smoothing](https://usabilitypost.com/2012/11/05/stop-fixing-font-smoothing/)
+- Nov 24 - [Overengineering can kill your product](https://www.mindtheproduct.com/overengineering-can-kill-your-product/)
+- Nov 24 - [QOI: Lossless Image Compression in O(n) Time](https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression)
 <!--END_SECTION:hn-->
 
 <!--
