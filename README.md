@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 23 - [India seeks to block most cryptocurrencies in new bill, government says](https://www.reuters.com/world/india/new-indian-law-will-allow-only-few-cryptocurrencies-government-says-2021-11-23/)
-- Nov 23 - [An Engineer's Hype-Free Observations on Web3 (and Its Possibilities)](https://www.psl.com/feed-posts/web3-engineer-take)
-- Nov 23 - [End of Support for Firefox Lockwise](https://support.mozilla.org/en-US/kb/end-of-support-firefox-lockwise)
-- Nov 23 - [C64](https://replit.com/@mattiselin/C64?v=1)
-- Nov 23 - [German car that was super-aerodynamic but impractical](https://rarehistoricalphotos.com/schlorwagen-photographs-1939/)
+- Nov 23 - [California moves to recommend delaying algebra to 9th grade statewide](https://sfstandard.com/controversy-rages-as-california-follows-sfs-lead-with-new-approach-to-teaching-math/)
+- Nov 23 - [GoDaddy Breach Widens to TsoHost, Media Temple, 123Reg, Domain Factory and More](https://www.wordfence.com/blog/2021/11/godaddy-tsohost-mediatemple-123reg-domain-factory-heart-internet-host-europe/)
+- Nov 23 - [Dover (YC S19) is hiring](https://dover.com/careers)
+- Nov 23 - [Our fundraising learning post-YC](https://wasp-lang.dev/blog/2021/11/22/fundraising-learnings)
+- Nov 23 - [The Catherine Project: A new experiment in liberal education](https://hedgehogreview.com/web-features/thr/posts/where-the-humanities-arent-in-crisis)
 <!--END_SECTION:hn-->
 
 <!--
