@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 24 - [The Sticky Issue of Consent in Street Photography](https://dinalitovsky.bulletin.com/312411763768865/)
-- Nov 24 - [Robots in Europe Vote for the Radical Right](https://www.knowledge.unibocconi.eu/notizia.php?idArt=23580)
-- Nov 24 - [Teen caught in $46M dollar Bitcoin theft via buying a username](https://www.thespec.com/news/crime/2021/11/23/hamilton-cryptocurrency-bitcoin-theft.html)
-- Nov 24 - [The Handwavy Technobabble Nothingburger of Crypto](https://www.stephendiehl.com/blog/nothing-burger.html)
-- Nov 24 - [Import Substitution Is a Harsh Mistress](http://bactra.org/weblog/import-substitution-is-a-harsh-mistress.html)
+- Nov 24 - [Virtual Log-Structured Storage for High-Performance Streaming [pdf]](https://hal.inria.fr/hal-03300796/file/virtual_log_KerA30072021.pdf)
+- Nov 24 - [Apple will notify users about state-sponsored cybersecurity threats](https://support.apple.com/en-us/HT212960)
+- Nov 24 - [The 3-2-1 Backup Rule – Why Your Data Will Always Survive (2019)](https://www.vmwareblog.org/3-2-1-backup-rule-data-will-always-survive/)
+- Nov 24 - [Thinking in OODA Loops [slides]](https://www.slideshare.net/vgururao/thinking-in-ooda-loops)
+- Nov 24 - [The Secret History of ATAPI](https://www.os2museum.com/wp/the-secret-history-of-atapi/)
 <!--END_SECTION:hn-->
 
 <!--
