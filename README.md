@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 23 - [California moves to recommend delaying algebra to 9th grade statewide](https://sfstandard.com/controversy-rages-as-california-follows-sfs-lead-with-new-approach-to-teaching-math/)
-- Nov 23 - [GoDaddy Breach Widens to TsoHost, Media Temple, 123Reg, Domain Factory and More](https://www.wordfence.com/blog/2021/11/godaddy-tsohost-mediatemple-123reg-domain-factory-heart-internet-host-europe/)
-- Nov 23 - [Dover (YC S19) is hiring](https://dover.com/careers)
-- Nov 23 - [Our fundraising learning post-YC](https://wasp-lang.dev/blog/2021/11/22/fundraising-learnings)
-- Nov 23 - [The Catherine Project: A new experiment in liberal education](https://hedgehogreview.com/web-features/thr/posts/where-the-humanities-arent-in-crisis)
+- Nov 24 - [RustBelt: Logical Foundations for the Future of Safe Systems Programming (2019)](https://www.janestreet.com/tech-talks/rustbelt/)
+- Nov 24 - [How the Rosetta Stone Yielded Its Secrets](https://www.newyorker.com/magazine/2021/11/29/how-the-rosetta-stone-yielded-up-its-secrets-edward-dolnick-the-writing-of-the-gods)
+- Nov 24 - [Processing and P5 Got Newbies into Coding](https://clivethompson.medium.com/how-processing-and-p5-got-newbies-into-coding-dd3853a7adb)
+- Nov 24 - [Relationship Hero (YC S17) Is Hiring Sales Representatives – Full Time Remote](https://relationshiphero.com/careers?role=salesAssociate)
+- Nov 24 - [New emails released in the McDonald’s ice cream machine lawsuit](https://www.wired.com/story/mcdonalds-ice-cream-machine-hacking-kytch-taylor-internal-emails/)
 <!--END_SECTION:hn-->
 
 <!--
