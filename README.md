@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 25 - [LetsEncrypt Certificate Issuance Halted](https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/619d84960c2793053b57117e)
-- Nov 25 - [A Brief Scientific History of Glass](https://www.smithsonianmag.com/science-nature/a-brief-scientific-history-of-glass-180979117/)
-- Nov 25 - [OneSignal (YC S11) Is Hiring Engineers in California, Texas, New York, & London](http://onesignal.com/careers)
-- Nov 25 - [Take action to protect Open Source today](https://opensource.org/blog/2021-11-membership-drive)
-- Nov 25 - [In Praise of Idleness, by Bertrand Russell (1932)](https://harpers.org/archive/1932/10/in-praise-of-idleness/)
+- Nov 25 - [Sirum Is Hiring Staff Engineers with Experience in Warehouse Automation](https://news.ycombinator.com/item?id=29340599)
+- Nov 25 - [Euro Modules](https://www.bgelectrical.uk/wiring-devices/euro-module)
+- Nov 25 - [Polypane: A browser for responsive and accessible development](https://polypane.app/)
+- Nov 25 - [Ask HN: Tips on Sysadmin Job](https://news.ycombinator.com/item?id=29340015)
+- Nov 25 - [BibTeX Tidy](https://flamingtempura.github.io/bibtex-tidy/)
 <!--END_SECTION:hn-->
 
 <!--
