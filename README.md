@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 24 - [Virtual Log-Structured Storage for High-Performance Streaming [pdf]](https://hal.inria.fr/hal-03300796/file/virtual_log_KerA30072021.pdf)
-- Nov 24 - [Apple will notify users about state-sponsored cybersecurity threats](https://support.apple.com/en-us/HT212960)
-- Nov 24 - [The 3-2-1 Backup Rule – Why Your Data Will Always Survive (2019)](https://www.vmwareblog.org/3-2-1-backup-rule-data-will-always-survive/)
-- Nov 24 - [Thinking in OODA Loops [slides]](https://www.slideshare.net/vgururao/thinking-in-ooda-loops)
-- Nov 24 - [The Secret History of ATAPI](https://www.os2museum.com/wp/the-secret-history-of-atapi/)
+- Nov 24 - [Show HN: My plugin system/package manager for Git](https://github.com/joshburnsxyz/git-plugins)
+- Nov 24 - [Ask HN: I’d like to hire a personal/executive assistant – any tips or advice?](https://news.ycombinator.com/item?id=29336234)
+- Nov 24 - [Getting Started with Reverb Design, Part 1: Dev Environments](https://valhalladsp.com/2021/09/20/getting-started-with-reverb-design-part-1-dev-environments/)
+- Nov 24 - [Greening of the Earth mitigates surface warming](https://www.nasa.gov/feature/greening-of-the-earth-mitigates-surface-warming/)
+- Nov 24 - [YC Founders Online at YC's Winter Job Expo on Thurs Dec 2nd](https://www.workatastartup.com/events/startup-tech-expo-winter-2021)
 <!--END_SECTION:hn-->
 
 <!--
