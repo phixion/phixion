@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 25 - [New German government calls for European ban on biometric mass surveillance](https://reclaimyourface.eu/new-german-government-calls-for-european-ban-on-biometric-mass-surveillance/)
-- Nov 25 - [Batteries Included with Emacs](https://karthinks.com/software/batteries-included-with-emacs/)
-- Nov 25 - [Abstract Clojure](https://www.juxt.pro/blog/abstract-clojure)
-- Nov 25 - [The fish shell is amazing](https://rmpr.xyz/the-fish-shell-is-amazing/)
-- Nov 25 - [Ask HN: How did you learn math notation?](https://news.ycombinator.com/item?id=29341152)
+- Nov 25 - [PHP 8.1.0 Release Announcement](https://www.php.net/releases/8.1/en.php)
+- Nov 25 - [The New Luxury Vacation: Being Dumped in the Middle of Nowhere](https://www.newyorker.com/magazine/2021/11/29/the-new-luxury-vacation-being-dumped-in-the-middle-of-nowhere)
+- Nov 25 - [Check Point discover vulnerabilities in chips embedded in 37% of smartphones](https://blog.checkpoint.com/2021/11/24/check-point-research-discover-vulnerabilities-in-smartphones-chips-embedded-in-37-of-smartphones-around-the-world/)
+- Nov 25 - [Amazon Linux 2022](https://aws.amazon.com/linux/amazon-linux-2022/)
+- Nov 25 - [A Gov.uk site dedicated to porn?](https://thecrow.uk/A-Gov.uk-site-dedicated-to-porn-Absolutely/)
 <!--END_SECTION:hn-->
 
 <!--
