@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 24 - [Show HN: My plugin system/package manager for Git](https://github.com/joshburnsxyz/git-plugins)
-- Nov 24 - [Ask HN: I’d like to hire a personal/executive assistant – any tips or advice?](https://news.ycombinator.com/item?id=29336234)
-- Nov 24 - [Getting Started with Reverb Design, Part 1: Dev Environments](https://valhalladsp.com/2021/09/20/getting-started-with-reverb-design-part-1-dev-environments/)
-- Nov 24 - [Greening of the Earth mitigates surface warming](https://www.nasa.gov/feature/greening-of-the-earth-mitigates-surface-warming/)
-- Nov 24 - [YC Founders Online at YC's Winter Job Expo on Thurs Dec 2nd](https://www.workatastartup.com/events/startup-tech-expo-winter-2021)
+- Nov 25 - [Nvidia releases Paint me Picture – A web app for GauGAN2](https://blogs.nvidia.com/blog/2021/11/22/gaugan2-ai-art-demo/)
+- Nov 25 - [The Chase for Fusion Energy](https://www.nature.com/immersive/d41586-021-03401-w/index.html)
+- Nov 25 - [SafeButler (YC S17) Is Hiring Marketing Manager](https://www.safebutler.com/careers)
+- Nov 25 - [FarPlay: Low-Latency Audio over the Internet](https://farplay.io/)
+- Nov 24 - [Decompressing a Gzip File by Hand](https://ttay.me/blog/gzip_investigations/)
 <!--END_SECTION:hn-->
 
 <!--
