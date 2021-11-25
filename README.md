@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 25 - [Sirum Is Hiring Staff Engineers with Experience in Warehouse Automation](https://news.ycombinator.com/item?id=29340599)
-- Nov 25 - [Euro Modules](https://www.bgelectrical.uk/wiring-devices/euro-module)
-- Nov 25 - [Polypane: A browser for responsive and accessible development](https://polypane.app/)
-- Nov 25 - [Ask HN: Tips on Sysadmin Job](https://news.ycombinator.com/item?id=29340015)
-- Nov 25 - [BibTeX Tidy](https://flamingtempura.github.io/bibtex-tidy/)
+- Nov 25 - [New German government calls for European ban on biometric mass surveillance](https://reclaimyourface.eu/new-german-government-calls-for-european-ban-on-biometric-mass-surveillance/)
+- Nov 25 - [Batteries Included with Emacs](https://karthinks.com/software/batteries-included-with-emacs/)
+- Nov 25 - [Abstract Clojure](https://www.juxt.pro/blog/abstract-clojure)
+- Nov 25 - [The fish shell is amazing](https://rmpr.xyz/the-fish-shell-is-amazing/)
+- Nov 25 - [Ask HN: How did you learn math notation?](https://news.ycombinator.com/item?id=29341152)
 <!--END_SECTION:hn-->
 
 <!--
