@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 26 - [GetElementById vs. QuerySelector](https://blog.wesleyac.com/posts/getelementbyid-vs-queryselector)
-- Nov 26 - [A Live Look at Black Friday/Cyber Monday Sales on Shopify](https://datastories.shopify.com/)
-- Nov 26 - [Canada tells Boeing its bid for fighter jet contract falls short](https://www.reuters.com/business/aerospace-defense/canada-rules-boeing-out-c19-bln-fighter-jet-contract-canadian-press-2021-11-25/)
-- Nov 26 - [An Odd Card Trick](https://chalkdustmagazine.com/features/an-odd-card-trick/)
-- Nov 25 - [Umarell](https://en.wikipedia.org/wiki/Umarell)
+- Nov 26 - [QuickNode (YC W21) Is Hiring for 45 Roles](https://jobs.lever.co/quicknode)
+- Nov 26 - [Theoretical Computer Science Cheat Sheet [pdf]](https://www.tug.org/texshowcase/cheat.pdf)
+- Nov 26 - [The Underhanded C Contest](http://www.underhanded-c.org/_page_id_2.html)
+- Nov 26 - [The Humble Brilliance of Italy's Moka Coffee Pot](https://www.atlasobscura.com/articles/make-coffee-moka-pot)
+- Nov 26 - [A comprehensive guide to 50 years of evolution of strict C programming](https://github.com/agavrel/42_CheatSheet)
 <!--END_SECTION:hn-->
 
 <!--
