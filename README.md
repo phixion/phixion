@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 26 - [QuickNode (YC W21) Is Hiring for 45 Roles](https://jobs.lever.co/quicknode)
-- Nov 26 - [Theoretical Computer Science Cheat Sheet [pdf]](https://www.tug.org/texshowcase/cheat.pdf)
-- Nov 26 - [The Underhanded C Contest](http://www.underhanded-c.org/_page_id_2.html)
-- Nov 26 - [The Humble Brilliance of Italy's Moka Coffee Pot](https://www.atlasobscura.com/articles/make-coffee-moka-pot)
-- Nov 26 - [A comprehensive guide to 50 years of evolution of strict C programming](https://github.com/agavrel/42_CheatSheet)
+- Nov 26 - [Tesorio (YC S15) is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
+- Nov 26 - [Rust maintainer perfectionism, or, the tragedy of Alacritty](https://gist.github.com/ctrlcctrlv/978b3ee4f55d4b4ec415a985e01cb1c9)
+- Nov 26 - [Why Carbon Taxes Work](https://timharford.com/2021/11/why-carbon-taxes-really-work/)
+- Nov 26 - [The Sick History of Public Education](https://aproposofnothing.substack.com/p/beyond-conspiracy-theory-the-sick)
+- Nov 26 - [Security service that protects from SQLi had critical SQLi vulnerability](https://portswigger.net/daily-swig/wordpress-security-plugin-hide-my-wp-addresses-sql-injection-deactivation-flaws)
 <!--END_SECTION:hn-->
 
 <!--
