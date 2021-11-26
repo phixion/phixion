@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 26 - [Film industry solved unauthorised downloads; now it is “unsolving” it](https://walledculture.org/the-film-industry-effectively-solved-the-problem-of-unauthorised-downloads-now-it-is-unsolving-it/)
-- Nov 26 - [Ask HN: What steps do you take to protect yourself and your family online?](https://news.ycombinator.com/item?id=29350826)
-- Nov 26 - [WWWBrowser – a Haskell web browser (1994)](https://cth.altocumulus.org/~hallgren/wwwbrowser.html)
-- Nov 26 - [The Impact of Vitamin D Level on Covid-19: Systematic Review Meta-Analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7973108/)
-- Nov 26 - [PostmarketOS Revolutionizes Smartphone Hacking](https://drewdevault.com/2021/11/26/postmarketos.html)
+- Nov 26 - [Games for IBM as/400](http://www.jcrcmds.com/jcrgames2.html)
+- Nov 26 - [The internet is held together with spit and baling wire](https://krebsonsecurity.com/2021/11/the-internet-is-held-together-with-spit-baling-wire/)
+- Nov 26 - [Samsara S-1](https://www.sec.gov/Archives/edgar/data/0001642896/000119312521334578/d261594ds1.htm)
+- Nov 26 - [Classification of Omicron (B.1.1.529): SARS-CoV-2 Variant of Concern](https://www.who.int/news/item/26-11-2021-classification-of-omicron-(b.1.1.529)-sars-cov-2-variant-of-concern)
+- Nov 26 - [$200 ARM based Linux Laptop is Here](https://collabnix.com/a-first-look-at-pinebook-pro-a-14-arm-linux-laptop-for-just-200/)
 <!--END_SECTION:hn-->
 
 <!--
