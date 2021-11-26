@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 26 - [GetElementById vs. QuerySelector](https://blog.wesleyac.com/posts/getelementbyid-vs-queryselector)
+- Nov 26 - [A Live Look at Black Friday/Cyber Monday Sales on Shopify](https://datastories.shopify.com/)
+- Nov 26 - [Canada tells Boeing its bid for fighter jet contract falls short](https://www.reuters.com/business/aerospace-defense/canada-rules-boeing-out-c19-bln-fighter-jet-contract-canadian-press-2021-11-25/)
 - Nov 26 - [An Odd Card Trick](https://chalkdustmagazine.com/features/an-odd-card-trick/)
-- Nov 25 - [Dead Ends of IT](https://github.com/guettli/deadends-of-it)
-- Nov 25 - [Umarell, men of retirement age who spend their time watching construction sites](https://en.wikipedia.org/wiki/Umarell)
-- Nov 25 - [Heavily mutated coronavirus variant puts scientists on alert](https://www.nature.com/articles/d41586-021-03552-w)
-- Nov 25 - [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- Nov 25 - [Umarell](https://en.wikipedia.org/wiki/Umarell)
 <!--END_SECTION:hn-->
 
 <!--
