@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 26 - [Tesorio (YC S15) is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
-- Nov 26 - [Rust maintainer perfectionism, or, the tragedy of Alacritty](https://gist.github.com/ctrlcctrlv/978b3ee4f55d4b4ec415a985e01cb1c9)
-- Nov 26 - [Why Carbon Taxes Work](https://timharford.com/2021/11/why-carbon-taxes-really-work/)
-- Nov 26 - [The Sick History of Public Education](https://aproposofnothing.substack.com/p/beyond-conspiracy-theory-the-sick)
-- Nov 26 - [Security service that protects from SQLi had critical SQLi vulnerability](https://portswigger.net/daily-swig/wordpress-security-plugin-hide-my-wp-addresses-sql-injection-deactivation-flaws)
+- Nov 26 - [Film industry solved unauthorised downloads; now it is “unsolving” it](https://walledculture.org/the-film-industry-effectively-solved-the-problem-of-unauthorised-downloads-now-it-is-unsolving-it/)
+- Nov 26 - [Ask HN: What steps do you take to protect yourself and your family online?](https://news.ycombinator.com/item?id=29350826)
+- Nov 26 - [WWWBrowser – a Haskell web browser (1994)](https://cth.altocumulus.org/~hallgren/wwwbrowser.html)
+- Nov 26 - [The Impact of Vitamin D Level on Covid-19: Systematic Review Meta-Analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7973108/)
+- Nov 26 - [PostmarketOS Revolutionizes Smartphone Hacking](https://drewdevault.com/2021/11/26/postmarketos.html)
 <!--END_SECTION:hn-->
 
 <!--
