@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 25 - [PHP 8.1.0 Release Announcement](https://www.php.net/releases/8.1/en.php)
-- Nov 25 - [The New Luxury Vacation: Being Dumped in the Middle of Nowhere](https://www.newyorker.com/magazine/2021/11/29/the-new-luxury-vacation-being-dumped-in-the-middle-of-nowhere)
-- Nov 25 - [Check Point discover vulnerabilities in chips embedded in 37% of smartphones](https://blog.checkpoint.com/2021/11/24/check-point-research-discover-vulnerabilities-in-smartphones-chips-embedded-in-37-of-smartphones-around-the-world/)
-- Nov 25 - [Amazon Linux 2022](https://aws.amazon.com/linux/amazon-linux-2022/)
-- Nov 25 - [A Gov.uk site dedicated to porn?](https://thecrow.uk/A-Gov.uk-site-dedicated-to-porn-Absolutely/)
+- Nov 26 - [An Odd Card Trick](https://chalkdustmagazine.com/features/an-odd-card-trick/)
+- Nov 25 - [Dead Ends of IT](https://github.com/guettli/deadends-of-it)
+- Nov 25 - [Umarell, men of retirement age who spend their time watching construction sites](https://en.wikipedia.org/wiki/Umarell)
+- Nov 25 - [Heavily mutated coronavirus variant puts scientists on alert](https://www.nature.com/articles/d41586-021-03552-w)
+- Nov 25 - [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 <!--END_SECTION:hn-->
 
 <!--
