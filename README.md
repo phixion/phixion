@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 27 - [The Brickyard Summer of 1957](https://brickcollecting.com/merwin.htm)
-- Nov 27 - [The Token Disconnect](https://www.stephendiehl.com/blog/disconnect.html)
-- Nov 27 - [The fabulous Flamingo, a motorhome made from an abandoned aircraft](https://uk.motor1.com/news/549053/motorhome-made-from-abandoned-aircraft/)
-- Nov 27 - [Typora 1.0 needs a license code to use](https://support.typora.io/What%27s-New-1.0/)
-- Nov 27 - [EmacsConf 2021 – Live Now](https://live.emacsconf.org/main.html)
+- Nov 27 - [Comparison of Operating System Complexity (2020) [pdf]](https://pspodcasting.net/dan/blog/2020/complexity.pdf)
+- Nov 27 - [Smoking a turkey with Prometheus, Home Assistant, and Grafana](https://www.blockloop.io/smoking-a-turkey-with-prometheus-home-assistant-and-grafana/)
+- Nov 27 - [India tells public to shun Starlink until it gets licence](https://www.reuters.com/technology/india-tells-public-shun-musk-backed-starlink-until-it-gets-licence-2021-11-27/)
+- Nov 27 - [Path (YC S19) is hiring engineers to help gen z pay for college](https://usepath.com)
+- Nov 27 - [Zelda 64 has been fully decompiled](https://www.videogameschronicle.com/news/zelda-64-has-been-fully-decompiled-potentially-opening-the-door-for-mods-and-ports/)
 <!--END_SECTION:hn-->
 
 <!--
