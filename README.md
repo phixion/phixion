@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 27 - [Epstein Victims' Compensation Program](https://www.epsteinvcp.com/)
-- Nov 26 - [AWS price reduction for data transfers out to the internet](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-price-reduction-data-transfers-internet/)
-- Nov 26 - [California port truckers ‘drowning’ in supply chain inefficiencies](https://www.freightwaves.com/news/california-port-truckers-drowning-in-supply-chain-inefficiencies)
-- Nov 26 - [Procrastination and the Extended Will [pdf]](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.188.9521&rep=rep1&type=pdf)
-- Nov 26 - [PyTorch: Where we are headed and why it looks a lot like Julia (but not exactly)](https://dev-discuss.pytorch.org/t/where-we-are-headed-and-why-it-looks-a-lot-like-julia-but-not-exactly-like-julia/276)
+- Nov 27 - [Google: An Update on Our Privacy Sandbox Commitments](https://blog.google/around-the-globe/google-europe/update-our-privacy-sandbox-commitments/)
+- Nov 27 - [Novel mind-body program outperforms other treatments for chronic back pain](https://www.bidmc.org/about-bidmc/news/2021/09/researchers-mind-body-program-outperforms-other-chronic-back-pain-treatment)
+- Nov 27 - [No U PNP](https://computer.rip/2021-11-26-no-u-pnp.html)
+- Nov 27 - [The Paywalled Garden: iOS is Adware (2020)](https://stevestreza.com/2020/02/17/ios-adware/)
+- Nov 27 - [What Happened to All the Diamonds in the Rough?](https://www.thediff.co/p/what-happened-to-all-the-diamonds)
 <!--END_SECTION:hn-->
 
 <!--
