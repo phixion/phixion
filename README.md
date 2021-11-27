@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 26 - [Games for IBM as/400](http://www.jcrcmds.com/jcrgames2.html)
-- Nov 26 - [The internet is held together with spit and baling wire](https://krebsonsecurity.com/2021/11/the-internet-is-held-together-with-spit-baling-wire/)
-- Nov 26 - [Samsara S-1](https://www.sec.gov/Archives/edgar/data/0001642896/000119312521334578/d261594ds1.htm)
-- Nov 26 - [Classification of Omicron (B.1.1.529): SARS-CoV-2 Variant of Concern](https://www.who.int/news/item/26-11-2021-classification-of-omicron-(b.1.1.529)-sars-cov-2-variant-of-concern)
-- Nov 26 - [$200 ARM based Linux Laptop is Here](https://collabnix.com/a-first-look-at-pinebook-pro-a-14-arm-linux-laptop-for-just-200/)
+- Nov 27 - [Epstein Victims' Compensation Program](https://www.epsteinvcp.com/)
+- Nov 26 - [AWS price reduction for data transfers out to the internet](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-price-reduction-data-transfers-internet/)
+- Nov 26 - [California port truckers ‘drowning’ in supply chain inefficiencies](https://www.freightwaves.com/news/california-port-truckers-drowning-in-supply-chain-inefficiencies)
+- Nov 26 - [Procrastination and the Extended Will [pdf]](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.188.9521&rep=rep1&type=pdf)
+- Nov 26 - [PyTorch: Where we are headed and why it looks a lot like Julia (but not exactly)](https://dev-discuss.pytorch.org/t/where-we-are-headed-and-why-it-looks-a-lot-like-julia-but-not-exactly-like-julia/276)
 <!--END_SECTION:hn-->
 
 <!--
