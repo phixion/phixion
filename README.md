@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 27 - [Google: An Update on Our Privacy Sandbox Commitments](https://blog.google/around-the-globe/google-europe/update-our-privacy-sandbox-commitments/)
-- Nov 27 - [Novel mind-body program outperforms other treatments for chronic back pain](https://www.bidmc.org/about-bidmc/news/2021/09/researchers-mind-body-program-outperforms-other-chronic-back-pain-treatment)
-- Nov 27 - [No U PNP](https://computer.rip/2021-11-26-no-u-pnp.html)
-- Nov 27 - [The Paywalled Garden: iOS is Adware (2020)](https://stevestreza.com/2020/02/17/ios-adware/)
-- Nov 27 - [What Happened to All the Diamonds in the Rough?](https://www.thediff.co/p/what-happened-to-all-the-diamonds)
+- Nov 27 - [MindsDB (YC W20) Is Hiring for an Executive Assistant/Chief of Staff](https://www.ycombinator.com/companies/mindsdb/jobs/wAlBPWv-executive-assistant)
+- Nov 27 - [‘Super jelly’ can survive being run over by a car](https://www.cam.ac.uk/research/news/super-jelly-can-survive-being-run-over-by-a-car)
+- Nov 27 - [NodeOS – A Node.js Operating System](https://node-os.com/)
+- Nov 27 - [City View Center – A Shopping Center That Sunk into Landfill It Was Built On](https://architecturalafterlife.com/2020/07/city-view-center/)
+- Nov 27 - [How did this PayPal spoof email pass SPF, DKIM and DMARC](https://security.stackexchange.com/questions/257417/how-did-this-paypal-spoof-email-pass-spf-dkim-and-dmarc)
 <!--END_SECTION:hn-->
 
 <!--
