@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 28 - [South Africa punished for scientific Discovery](https://www.bbc.com/news/world-59442129)
+- Nov 28 - [Measuring Software Complexity: What Metrics to Use?](https://thevaluable.dev/complexity-metrics-software/)
+- Nov 28 - [Why are German numbers backwards?](https://german.stackexchange.com/questions/5009/why-are-german-numbers-backwards)
 - Nov 28 - [Venus on QEMU: Enabling the new virtual Vulkan driver](https://www.collabora.com/news-and-blog/blog/2021/11/26/venus-on-qemu-enabling-new-virtual-vulkan-driver/)
 - Nov 28 - [Terra (YC W21) Is Hiring for Graduate Software Engineers in London](https://www.ycombinator.com/companies/terra/jobs/EWMMj0v-full-stack-developer-graduate)
-- Nov 28 - [Indian academics throw weight behind Sci-Hub and LibGen in landmark case](https://www.trtworld.com/magazine/indian-academics-throw-weight-behind-sci-hub-and-libgen-in-landmark-case-51780)
-- Nov 28 - [A Case for Asynchronous Computer Architecture](http://avlsi.csl.yale.edu/~rajit/abstracts/async-case.html)
-- Nov 28 - [Proof of stake is a scam and the people promoting it are scammers](https://yanmaani.github.io/proof-of-stake-is-a-scam-and-the-people-promoting-it-are-scammers/)
 <!--END_SECTION:hn-->
 
 <!--
