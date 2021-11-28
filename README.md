@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 28 - [Z Library](https://z-lib.org/)
-- Nov 28 - [How to parse EVE Online chat logs (in Common Lisp)](https://blog.michaeldresser.io/posts/2021-11-27_how-to-parse-eve-chat-log.html)
-- Nov 28 - [Australia to introduce new laws to force media platforms to unmask online trolls](https://www.reuters.com/world/asia-pacific/australia-introduce-new-laws-force-media-platforms-unmask-online-trolls-2021-11-28/)
-- Nov 28 - [Aphantasia](https://en.wikipedia.org/wiki/Aphantasia)
-- Nov 28 - [Books that changed my career as a software engineer](https://julianogtz.github.io/my-personal-blog/posts/five-books-that-changed-my-career-as-a-software-engineer/)
+- Nov 28 - [Venus on QEMU: Enabling the new virtual Vulkan driver](https://www.collabora.com/news-and-blog/blog/2021/11/26/venus-on-qemu-enabling-new-virtual-vulkan-driver/)
+- Nov 28 - [Terra (YC W21) Is Hiring for Graduate Software Engineers in London](https://www.ycombinator.com/companies/terra/jobs/EWMMj0v-full-stack-developer-graduate)
+- Nov 28 - [Indian academics throw weight behind Sci-Hub and LibGen in landmark case](https://www.trtworld.com/magazine/indian-academics-throw-weight-behind-sci-hub-and-libgen-in-landmark-case-51780)
+- Nov 28 - [A Case for Asynchronous Computer Architecture](http://avlsi.csl.yale.edu/~rajit/abstracts/async-case.html)
+- Nov 28 - [Proof of stake is a scam and the people promoting it are scammers](https://yanmaani.github.io/proof-of-stake-is-a-scam-and-the-people-promoting-it-are-scammers/)
 <!--END_SECTION:hn-->
 
 <!--
