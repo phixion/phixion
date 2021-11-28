@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 28 - [South Africa punished for scientific Discovery](https://www.bbc.com/news/world-59442129)
-- Nov 28 - [Measuring Software Complexity: What Metrics to Use?](https://thevaluable.dev/complexity-metrics-software/)
-- Nov 28 - [Why are German numbers backwards?](https://german.stackexchange.com/questions/5009/why-are-german-numbers-backwards)
-- Nov 28 - [Venus on QEMU: Enabling the new virtual Vulkan driver](https://www.collabora.com/news-and-blog/blog/2021/11/26/venus-on-qemu-enabling-new-virtual-vulkan-driver/)
-- Nov 28 - [Terra (YC W21) Is Hiring for Graduate Software Engineers in London](https://www.ycombinator.com/companies/terra/jobs/EWMMj0v-full-stack-developer-graduate)
+- Nov 28 - [Is watching the 1984 Ghostbusters movie killing people?](https://www.covid-datascience.com/post/is-watching-the-1984-ghostbusters-movie-killing-people-a-statistician-s-perspective)
+- Nov 28 - [Show HN: 4K Desktop Wallpaper Generator](https://tanck.nl/wallpaper/)
+- Nov 28 - [Generate Musical Accompaniment with R](https://flujoo.github.io/en/generate-accompaniment-progression/)
+- Nov 28 - [Calling Rust from Python using PyO3](http://saidvandeklundert.net/learn/2021-11-18-calling-rust-from-python-using-pyo3/)
+- Nov 28 - [Floating point visually explained (2017)](https://fabiensanglard.net/floating_point_visually_explained/)
 <!--END_SECTION:hn-->
 
 <!--
