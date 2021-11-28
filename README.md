@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 28 - [Five Books That Changed My Career as a Software Engineer](https://julianogtz.github.io/my-personal-blog/posts/five-books-that-changed-my-career-as-a-software-engineer/)
-- Nov 27 - [More Cash Invested in Stock in 2021 Than Two Decades Combined](https://www.bloomberg.com/news/articles/2021-11-25/stock-funds-took-in-more-cash-in-2021-than-two-decades-combined)
-- Nov 27 - [My friends Instagram was hacked and deep-fake videos posted in less than 6 hours](https://news.ycombinator.com/item?id=29364427)
-- Nov 27 - [Ask HN: Why is Docusign a $50B company?](https://news.ycombinator.com/item?id=29363897)
-- Nov 27 - [Tell HN: GitHub is down again](https://news.ycombinator.com/item?id=29363169)
+- Nov 28 - [Z Library](https://z-lib.org/)
+- Nov 28 - [How to parse EVE Online chat logs (in Common Lisp)](https://blog.michaeldresser.io/posts/2021-11-27_how-to-parse-eve-chat-log.html)
+- Nov 28 - [Australia to introduce new laws to force media platforms to unmask online trolls](https://www.reuters.com/world/asia-pacific/australia-introduce-new-laws-force-media-platforms-unmask-online-trolls-2021-11-28/)
+- Nov 28 - [Aphantasia](https://en.wikipedia.org/wiki/Aphantasia)
+- Nov 28 - [Books that changed my career as a software engineer](https://julianogtz.github.io/my-personal-blog/posts/five-books-that-changed-my-career-as-a-software-engineer/)
 <!--END_SECTION:hn-->
 
 <!--
