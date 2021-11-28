@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 27 - [Comparison of Operating System Complexity (2020) [pdf]](https://pspodcasting.net/dan/blog/2020/complexity.pdf)
-- Nov 27 - [Smoking a turkey with Prometheus, Home Assistant, and Grafana](https://www.blockloop.io/smoking-a-turkey-with-prometheus-home-assistant-and-grafana/)
-- Nov 27 - [India tells public to shun Starlink until it gets licence](https://www.reuters.com/technology/india-tells-public-shun-musk-backed-starlink-until-it-gets-licence-2021-11-27/)
-- Nov 27 - [Path (YC S19) is hiring engineers to help gen z pay for college](https://usepath.com)
-- Nov 27 - [Zelda 64 has been fully decompiled](https://www.videogameschronicle.com/news/zelda-64-has-been-fully-decompiled-potentially-opening-the-door-for-mods-and-ports/)
+- Nov 28 - [Five Books That Changed My Career as a Software Engineer](https://julianogtz.github.io/my-personal-blog/posts/five-books-that-changed-my-career-as-a-software-engineer/)
+- Nov 27 - [More Cash Invested in Stock in 2021 Than Two Decades Combined](https://www.bloomberg.com/news/articles/2021-11-25/stock-funds-took-in-more-cash-in-2021-than-two-decades-combined)
+- Nov 27 - [My friends Instagram was hacked and deep-fake videos posted in less than 6 hours](https://news.ycombinator.com/item?id=29364427)
+- Nov 27 - [Ask HN: Why is Docusign a $50B company?](https://news.ycombinator.com/item?id=29363897)
+- Nov 27 - [Tell HN: GitHub is down again](https://news.ycombinator.com/item?id=29363169)
 <!--END_SECTION:hn-->
 
 <!--
