@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 29 - [The Muse (YC W12) Is Hiring a Senior Front End Engineer](https://www.themuse.com/jobs/themuse/senior-frontend-engineer-34f9e1)
-- Nov 29 - [Disney’s Influence on U.S. Copyright Law](https://online.yu.edu/cardozo/blog/disney-influence-copyright-law)
-- Nov 29 - [A $5B hoard of metal the world wants but can’t have](https://www.mining.com/web/the-5-billion-hoard-of-metal-the-world-wants-but-cant-have/)
-- Nov 29 - [Flow-field.js – A library for generating flow fields](https://github.com/romellogoodman/flow-field.js)
-- Nov 29 - [Firefox is the alternative to a complete Chrome hegemony](https://batsov.com/articles/2021/11/28/firefox-is-the-only-alternative/)
+- Nov 29 - [I resigned from Twitter](https://twitter.com/jack/status/1465347002426867720)
+- Nov 29 - [Show HN: Security Camera Lens Calculator ( www.jvsg.com/online/ )](https://news.ycombinator.com/item?id=29381055)
+- Nov 29 - [Modeling suggests friendships may lead to lopsided elections](https://news.cornell.edu/stories/2021/11/modeling-suggests-friendships-may-lead-lopsided-elections)
+- Nov 29 - [Vitalik Buterin Proposes New EIP to Tackle Ethereum’s Sky-High Gas Fees](https://cryptonews.com/news/vitalik-buterin-proposes-new-eip-to-tackle-ethereums-sky-high-gas-fees.htm)
+- Nov 29 - [Why Adversarial Image Attacks Are No Joke](https://www.unite.ai/why-adversarial-image-attacks-are-no-joke/)
 <!--END_SECTION:hn-->
 
 <!--
