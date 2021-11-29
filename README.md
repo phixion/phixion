@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 28 - [BMW removing touchscreen from a bunch of models due to chip shortage](https://www.autoblog.com/2021/11/05/bmws-losing-touchscreen-functionality/)
-- Nov 28 - [A small Scheme implementation with AOT and incremental compilers that fits in 4K](https://github.com/udem-dlteam/ribbit)
-- Nov 28 - [The Fuel of Philosophers](https://www.illustratedphilosopher.com/episodes/the-fuel-of-philosophers)
-- Nov 28 - [Today’s Disneyland is a price gouge, not a magical experience](https://www.sfgate.com/travel-column/article/Disneyland-is-a-price-gouge-16616134.php)
-- Nov 28 - [The slowest SR-71 Blackbird fly-by](https://theaviationgeekclub.com/story-behind-famed-sr-71-blackbird-super-low-knife-edge-pass/)
+- Nov 29 - [Anthocyanins](https://johncarlosbaez.wordpress.com/2021/11/28/anthocyanins/)
+- Nov 28 - [How to Save a Ski Town](https://www.outsideonline.com/culture/essays-culture/how-to-save-a-ski-town-west-tourism-economy/)
+- Nov 28 - [Command Palettes: How Typing Commands Became the Norm Again](https://capiche.com/e/consumer-dev-tools-command-palette)
+- Nov 28 - [Ask HN: Have you noticed difficulty tapping links on HN on iOS lately?](https://news.ycombinator.com/item?id=29373440)
+- Nov 28 - [Colobot, an RTS game where you program your units in C++ like language](https://colobot.info/)
 <!--END_SECTION:hn-->
 
 <!--
