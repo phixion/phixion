@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 29 - [CPython's main branch running in the browser with WebAssembly](https://twitter.com/ethanhs/status/1464308141105967104)
-- Nov 29 - [Facebook Messenger – end-to-end encryption delayed to end of 2023](https://www.forbes.com/sites/zakdoffman/2021/11/27/apple-iphone-google-android-and-windows-10-11-users-given-reason-to-quit-facebook-messenger/)
-- Nov 29 - [T-Mobile CDMA network shutting down soon](https://www.tmonews.com/2021/10/t-mobile-postpones-cdma-shutdown-date-another-three-months/)
-- Nov 29 - [8880 Super Car (2010)](http://www.technicopedia.com/8880.html)
-- Nov 29 - [The WHO is seeking a new treaty on handling future pandemics](https://text.npr.org/1059025751)
+- Nov 29 - [Bitmovin (YC S15) Is Hiring Software Engineers in Austria, Germany and Remote](https://bitmovin.com/careers/)
+- Nov 29 - [Free SVG Image and Icon. All Contents Are Released Under Creative Commons CC0](https://svgsilh.com/)
+- Nov 29 - [Tiny](https://www.tinycapital.com/)
+- Nov 29 - [The Whole Earth Catalog, Where Counterculture Met Cyberculture](https://daily.jstor.org/the-whole-earth-catalog-where-counterculture-met-cyberculture/)
+- Nov 29 - [A Handy Little System for Animated Entrances in CSS](https://css-tricks.com/a-handy-little-system-for-animated-entrances-in-css/)
 <!--END_SECTION:hn-->
 
 <!--
