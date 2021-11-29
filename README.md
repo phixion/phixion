@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 29 - [Bitmovin (YC S15) Is Hiring Software Engineers in Austria, Germany and Remote](https://bitmovin.com/careers/)
-- Nov 29 - [Free SVG Image and Icon. All Contents Are Released Under Creative Commons CC0](https://svgsilh.com/)
-- Nov 29 - [Tiny](https://www.tinycapital.com/)
-- Nov 29 - [The Whole Earth Catalog, Where Counterculture Met Cyberculture](https://daily.jstor.org/the-whole-earth-catalog-where-counterculture-met-cyberculture/)
-- Nov 29 - [A Handy Little System for Animated Entrances in CSS](https://css-tricks.com/a-handy-little-system-for-animated-entrances-in-css/)
+- Nov 29 - [The Muse (YC W12) Is Hiring a Senior Front End Engineer](https://www.themuse.com/jobs/themuse/senior-frontend-engineer-34f9e1)
+- Nov 29 - [Disney’s Influence on U.S. Copyright Law](https://online.yu.edu/cardozo/blog/disney-influence-copyright-law)
+- Nov 29 - [A $5B hoard of metal the world wants but can’t have](https://www.mining.com/web/the-5-billion-hoard-of-metal-the-world-wants-but-cant-have/)
+- Nov 29 - [Flow-field.js – A library for generating flow fields](https://github.com/romellogoodman/flow-field.js)
+- Nov 29 - [Firefox is the alternative to a complete Chrome hegemony](https://batsov.com/articles/2021/11/28/firefox-is-the-only-alternative/)
 <!--END_SECTION:hn-->
 
 <!--
