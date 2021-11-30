@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 30 - [The Unknown Story of Phil Zimmermann](https://www.michaelrinderle.com/2020/05/27/the-unknown-story-of-phil-zimmermann/)
-- Nov 30 - [K|Lens – The third dimension in image acquisition](https://www.k-lens-one.com/en/home)
-- Nov 30 - [The Prince symbol has been salvaged from a 1993 floppy disk](https://cdm.link/2021/11/the-prince-symbol-has-been-salvaged-from-a-1992-floppy-disk/)
-- Nov 30 - [Ask HN: Has Google search become quantitatively worse?](https://news.ycombinator.com/item?id=29392702)
-- Nov 30 - [Raspberry Pi Trading plans £370m+ stock market IPO](https://www.club386.com/raspberry-pi-trading-plans-370m-stock-market-ipo/)
+- Nov 30 - [FBI access levels to different messengers](https://propertyofthepeople.org/document-detail/)
+- Nov 30 - [DESQview/X: The forgotten mid-1990s OS from the future](https://lunduke.substack.com/p/desqviewx-the-forgotten-mid-1990s)
+- Nov 30 - [The US C-Band Spectrum Saga, Explained](https://payloadspace.com/the-us-c-band-spectrum-saga-explained/)
+- Nov 30 - [Scaling Kafka at Honeycomb](https://www.honeycomb.io/blog/scaling-kafka-observability-pipelines/)
+- Nov 30 - [AWS Nitro SSD – High Performance Storage for Your I/O-Intensive Applications](https://aws.amazon.com/blogs/aws/aws-nitro-ssd-high-performance-storage-for-your-i-o-intensive-applications/)
 <!--END_SECTION:hn-->
 
 <!--
