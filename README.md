@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 30 - [Curri (YC S19) is hiring Senior Engineers to help reimagine construction delivery](https://www.ycombinator.com/companies/curri/jobs/LmFeCm9-senior-engineer)
-- Nov 30 - [Hubris – An OS from Oxide Computer](https://hubris.oxide.computer/)
-- Nov 30 - [Haiku Now Has Experimental 3D Acceleration](https://discuss.haiku-os.org/t/vulkan-lavapipe-software-rendering-is-working-on-haiku/11363?page=13)
-- Nov 30 - [Sorry, but you're already living in the “Squid Game”](https://www.welcometothejungle.com/en/articles/why-squid-games-is-not-just-dystopian-fiction)
-- Nov 30 - [Why Decentralization Matters](https://cdixon.org/2018/02/18/why-decentralization-matters/)
+- Nov 30 - [The Unknown Story of Phil Zimmermann](https://www.michaelrinderle.com/2020/05/27/the-unknown-story-of-phil-zimmermann/)
+- Nov 30 - [K|Lens – The third dimension in image acquisition](https://www.k-lens-one.com/en/home)
+- Nov 30 - [The Prince symbol has been salvaged from a 1993 floppy disk](https://cdm.link/2021/11/the-prince-symbol-has-been-salvaged-from-a-1992-floppy-disk/)
+- Nov 30 - [Ask HN: Has Google search become quantitatively worse?](https://news.ycombinator.com/item?id=29392702)
+- Nov 30 - [Raspberry Pi Trading plans £370m+ stock market IPO](https://www.club386.com/raspberry-pi-trading-plans-370m-stock-market-ipo/)
 <!--END_SECTION:hn-->
 
 <!--
