@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 29 - [AppFlowy: an open-source alternative to Notion](https://github.com/AppFlowy-IO/appflowy)
-- Nov 29 - [The poetry and brief life of a Foxconn worker: Xu Lizhi (2014)](https://libcom.org/blog/xulizhi-foxconn-suicide-poetry)
-- Nov 29 - [Breakthrough, PhD student creates a simple, cost-effective laser on silicon](https://brighterworld.mcmaster.ca/articles/laser-on-silicon-khadijeh-miarabbas-kiani/)
-- Nov 29 - [Setting Up Cloudflare Argo and Access on a Raspberry Pi](https://erdaltoprak.com/setting-up-cloudflare-argo-and-access-on-a-raspberry-pi/)
-- Nov 29 - [The Inherent Limitations of GPT-3](https://lastweekin.ai/p/the-inherent-limitations-of-gpt-3)
+- Nov 30 - [Workers Quit Jobs in Droves to Become Their Own Bosses](https://www.wsj.com/articles/workers-quit-jobs-in-droves-to-become-their-own-bosses-11638199199)
+- Nov 29 - [The Essence operating system at Handmade Seattle 2021 [video]](https://media.handmade-seattle.com/essence/)
+- Nov 29 - [Ex-Google workers sue company, saying it betrayed 'Don't Be Evil' motto](https://www.npr.org/2021/11/29/1059821677/google-dont-be-evil-lawsuit)
+- Nov 29 - [Satellites Reveal Arctic Rivers are Changing Faster Than We Thought](https://www.umass.edu/news/article/satellites-reveal-arctic-rivers-are-changing-faster-we-thought)
+- Nov 29 - [Researchers find xenobots can give rise to offspring](https://www.theguardian.com/science/2021/nov/29/amazing-science-researchers-find-xenobots-can-give-rise-to-offspring)
 <!--END_SECTION:hn-->
 
 <!--
