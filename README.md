@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 30 - [Xenobots: replicating living robots made from frog cells](https://www.uvm.edu/news/story/team-builds-first-living-robots-can-reproduce)
-- Nov 30 - [Stacker (YC S20) Is Hiring](https://news.ycombinator.com/item?id=29389687)
-- Nov 30 - [PostgREST v9.0.0](https://postgrest.org/en/v9.0/releases/v9.0.0.html)
-- Nov 30 - [Architecture in Music: looking inside musical instruments](https://www.charlesbrooks.info/architecture-in-music)
-- Nov 30 - [Design Issues for Foreign Function Interfaces (2004)](http://web.archive.org/web/20170315194527/http://autocad.xarch.at/lisp/ffis.html)
+- Nov 30 - [Curri (YC S19) is hiring Senior Engineers to help reimagine construction delivery](https://www.ycombinator.com/companies/curri/jobs/LmFeCm9-senior-engineer)
+- Nov 30 - [Hubris – An OS from Oxide Computer](https://hubris.oxide.computer/)
+- Nov 30 - [Haiku Now Has Experimental 3D Acceleration](https://discuss.haiku-os.org/t/vulkan-lavapipe-software-rendering-is-working-on-haiku/11363?page=13)
+- Nov 30 - [Sorry, but you're already living in the “Squid Game”](https://www.welcometothejungle.com/en/articles/why-squid-games-is-not-just-dystopian-fiction)
+- Nov 30 - [Why Decentralization Matters](https://cdixon.org/2018/02/18/why-decentralization-matters/)
 <!--END_SECTION:hn-->
 
 <!--
