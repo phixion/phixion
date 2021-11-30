@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 30 - [Workers Quit Jobs in Droves to Become Their Own Bosses](https://www.wsj.com/articles/workers-quit-jobs-in-droves-to-become-their-own-bosses-11638199199)
-- Nov 29 - [The Essence operating system at Handmade Seattle 2021 [video]](https://media.handmade-seattle.com/essence/)
-- Nov 29 - [Ex-Google workers sue company, saying it betrayed 'Don't Be Evil' motto](https://www.npr.org/2021/11/29/1059821677/google-dont-be-evil-lawsuit)
-- Nov 29 - [Satellites Reveal Arctic Rivers are Changing Faster Than We Thought](https://www.umass.edu/news/article/satellites-reveal-arctic-rivers-are-changing-faster-we-thought)
-- Nov 29 - [Researchers find xenobots can give rise to offspring](https://www.theguardian.com/science/2021/nov/29/amazing-science-researchers-find-xenobots-can-give-rise-to-offspring)
+- Nov 30 - [Communist Party cancel culture targets internet celebrities – The Economist](https://www.economist.com/business/communist-party-cancel-culture-targets-internet-celebrities/21806541)
+- Nov 30 - [Cache warming at Netflix: Leveraging EBS for moving petabytes of data](https://netflixtechblog.medium.com/cache-warming-leveraging-ebs-for-moving-petabytes-of-data-adcf7a4a78c3)
+- Nov 30 - [Solidjs – JavaScript UI Library](https://www.solidjs.com/)
+- Nov 30 - [Open source RISC-V GPGPU](https://github.com/vortexgpgpu/vortex)
+- Nov 30 - [CD box sets are wonderful](https://smackeyacky.blogspot.com/2021/11/cd-box-sets-are-wonderful.html)
 <!--END_SECTION:hn-->
 
 <!--
