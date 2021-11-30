@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 30 - [Communist Party cancel culture targets internet celebrities – The Economist](https://www.economist.com/business/communist-party-cancel-culture-targets-internet-celebrities/21806541)
-- Nov 30 - [Cache warming at Netflix: Leveraging EBS for moving petabytes of data](https://netflixtechblog.medium.com/cache-warming-leveraging-ebs-for-moving-petabytes-of-data-adcf7a4a78c3)
-- Nov 30 - [Solidjs – JavaScript UI Library](https://www.solidjs.com/)
-- Nov 30 - [Open source RISC-V GPGPU](https://github.com/vortexgpgpu/vortex)
-- Nov 30 - [CD box sets are wonderful](https://smackeyacky.blogspot.com/2021/11/cd-box-sets-are-wonderful.html)
+- Nov 30 - [Xenobots: replicating living robots made from frog cells](https://www.uvm.edu/news/story/team-builds-first-living-robots-can-reproduce)
+- Nov 30 - [Stacker (YC S20) Is Hiring](https://news.ycombinator.com/item?id=29389687)
+- Nov 30 - [PostgREST v9.0.0](https://postgrest.org/en/v9.0/releases/v9.0.0.html)
+- Nov 30 - [Architecture in Music: looking inside musical instruments](https://www.charlesbrooks.info/architecture-in-music)
+- Nov 30 - [Design Issues for Foreign Function Interfaces (2004)](http://web.archive.org/web/20170315194527/http://autocad.xarch.at/lisp/ffis.html)
 <!--END_SECTION:hn-->
 
 <!--
