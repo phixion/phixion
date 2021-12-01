@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 01 - [Ask HN: Who wants to be hired? (December 2021)](https://news.ycombinator.com/item?id=29405054)
-- Dec 01 - [Pixel sent to Google for replacement. They used it to post wife's nudes online](https://old.reddit.com/r/legaladvice/comments/r632w5/sent_my_phone_to_google_for_replacement_they/)
-- Dec 01 - [Townscaper Running in the Browser](http://oskarstalberg.com/Townscaper/)
-- Dec 01 - [Realtime Postgres Row Level Security](https://supabase.com/blog/2021/12/01/realtime-row-level-security-in-postgresql)
-- Dec 01 - [Stripe applicants say that the company is rescinding offers after it makes them](https://www.protocol.com/workplace/stripe-hiring-issues-rescinded-jobs)
+- Dec 01 - [ImageMagick: CLI for Image Editing](https://imagemagick.org/script/index.php)
+- Dec 01 - [Supersonic Projectile Exceeds Engineers Dreams: The Supersonic Trebuchet](https://hackaday.com/2021/12/01/supersonic-projectile-exceeds-engineers-dreams-the-supersonic-trebuchet/)
+- Dec 01 - [A homebrew 16-bit CPU with a homebrew Unix-like-ish operating system](https://github.com/jes/scamp-cpu)
+- Dec 01 - [Moth Minds: Fund individuals doing work you believe in](https://www.mothminds.com)
+- Dec 01 - [This shouldn't have happened: A vulnerability postmortem](https://googleprojectzero.blogspot.com/2021/12/this-shouldnt-have-happened.html)
 <!--END_SECTION:hn-->
 
 <!--
