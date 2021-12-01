@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 01 - [Synthetic tissue can repair hearts, muscles, and vocal cords](https://www.mcgill.ca/newsroom/channels/news/synthetic-tissue-can-repair-hearts-muscles-and-vocal-cords-335206)
-- Nov 30 - [The American Prison System’s War on Reading](https://proteanmag.com/2021/11/29/the-american-prison-systems-war-on-reading/)
-- Nov 30 - [German Court Rules Against Internet Security Non-Profit Quad9](https://www.quad9.net/news/press/german-court-rules-against/)
-- Nov 30 - [New cancer therapy holds potential to switch off major cancer types](https://www.princeton.edu/news/2021/11/29/new-cancer-therapy-yibin-kangs-lab-holds-potential-switch-major-cancer-types)
-- Nov 30 - [UI/UX Designer at Nimble (YC S17) – P/T with F/T option](https://news.ycombinator.com/item?id=29397383)
+- Dec 01 - [Two Triple Vaccinated Israeli Doctors Infected with Omicron](https://www.reuters.com/business/healthcare-pharmaceuticals/two-israeli-doctors-infected-with-omicron-hospital-says-2021-11-30/)
+- Dec 01 - [Excel-Virtual-Machine: C Compiler which targets Excel](https://github.com/mrthefakeperson/Excel-Virtual-Machine)
+- Dec 01 - [Julia 1.7 Highlights](https://julialang.org/blog/2021/11/julia-1.7-highlights/)
+- Dec 01 - [Researchers shrink camera to the size of a salt grain](https://engineering.princeton.edu/news/2021/11/29/researchers-shrink-camera-size-salt-grain)
+- Dec 01 - [Alien hunters have spent 60 years finding new solutions for the Drake Equation](https://www.nationalgeographic.com/science/article/why-alien-hunters-have-spent-60-years-finding-new-solutions-for-the-drake-equation)
 <!--END_SECTION:hn-->
 
 <!--
