@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 01 - [Two Triple Vaccinated Israeli Doctors Infected with Omicron](https://www.reuters.com/business/healthcare-pharmaceuticals/two-israeli-doctors-infected-with-omicron-hospital-says-2021-11-30/)
-- Dec 01 - [Excel-Virtual-Machine: C Compiler which targets Excel](https://github.com/mrthefakeperson/Excel-Virtual-Machine)
-- Dec 01 - [Julia 1.7 Highlights](https://julialang.org/blog/2021/11/julia-1.7-highlights/)
-- Dec 01 - [Researchers shrink camera to the size of a salt grain](https://engineering.princeton.edu/news/2021/11/29/researchers-shrink-camera-size-salt-grain)
-- Dec 01 - [Alien hunters have spent 60 years finding new solutions for the Drake Equation](https://www.nationalgeographic.com/science/article/why-alien-hunters-have-spent-60-years-finding-new-solutions-for-the-drake-equation)
+- Dec 01 - [Supabase open sourced their dashboard](https://github.com/supabase/supabase/tree/master/studio)
+- Dec 01 - [HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing](https://yuval-alaluf.github.io/hyperstyle/)
+- Dec 01 - [Fisher Price Chatter Telephone with Bluetooth](https://www.fisher-price.com/en-us/product/chatter-telephone-hgj69)
+- Dec 01 - [The one-more-re-nightmare compiler – A fast regex compiler in Common Lisp](https://applied-langua.ge/posts/omrn-compiler.html)
+- Dec 01 - [Father-son duo helped techies ‘hack exams’, earn top scores for big payday](https://theprint.in/india/how-father-son-duo-helped-techies-hack-exams-earn-top-scores-for-big-payday/774001/)
 <!--END_SECTION:hn-->
 
 <!--
