@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 01 - [Pachyderm Is Hiring Go Engineers to Build the Data Management Platform for ML](https://www.pachyderm.com/careers/#positions)
-- Dec 01 - [Wikipedia is loaded, so why’s it asking for donations?](https://thenextweb.com/news/why-is-wikipedia-asking-for-donations-when-it-has-vast-cash-reserves)
-- Dec 01 - [Supabase open sourced their dashboard](https://github.com/supabase/supabase/tree/master/studio)
-- Dec 01 - [HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing](https://yuval-alaluf.github.io/hyperstyle/)
-- Dec 01 - [Fisher Price Chatter Telephone with Bluetooth](https://www.fisher-price.com/en-us/product/chatter-telephone-hgj69)
+- Dec 01 - [Ask HN: Who wants to be hired? (December 2021)](https://news.ycombinator.com/item?id=29405054)
+- Dec 01 - [Pixel sent to Google for replacement. They used it to post wife's nudes online](https://old.reddit.com/r/legaladvice/comments/r632w5/sent_my_phone_to_google_for_replacement_they/)
+- Dec 01 - [Townscaper Running in the Browser](http://oskarstalberg.com/Townscaper/)
+- Dec 01 - [Realtime Postgres Row Level Security](https://supabase.com/blog/2021/12/01/realtime-row-level-security-in-postgresql)
+- Dec 01 - [Stripe applicants say that the company is rescinding offers after it makes them](https://www.protocol.com/workplace/stripe-hiring-issues-rescinded-jobs)
 <!--END_SECTION:hn-->
 
 <!--
