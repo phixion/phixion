@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 01 - [Pachyderm Is Hiring Go Engineers to Build the Data Management Platform for ML](https://www.pachyderm.com/careers/#positions)
+- Dec 01 - [Wikipedia is loaded, so why’s it asking for donations?](https://thenextweb.com/news/why-is-wikipedia-asking-for-donations-when-it-has-vast-cash-reserves)
 - Dec 01 - [Supabase open sourced their dashboard](https://github.com/supabase/supabase/tree/master/studio)
 - Dec 01 - [HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing](https://yuval-alaluf.github.io/hyperstyle/)
 - Dec 01 - [Fisher Price Chatter Telephone with Bluetooth](https://www.fisher-price.com/en-us/product/chatter-telephone-hgj69)
-- Dec 01 - [The one-more-re-nightmare compiler – A fast regex compiler in Common Lisp](https://applied-langua.ge/posts/omrn-compiler.html)
-- Dec 01 - [Father-son duo helped techies ‘hack exams’, earn top scores for big payday](https://theprint.in/india/how-father-son-duo-helped-techies-hack-exams-earn-top-scores-for-big-payday/774001/)
 <!--END_SECTION:hn-->
 
 <!--
