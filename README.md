@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 02 - [What Makes SRGB a Special Color Space? – PhotoSauce Blog](https://photosauce.net/blog/post/what-makes-srgb-a-special-color-space)
-- Dec 02 - [Former Ubiquiti employee charged with stealing data and extorting company](https://www.justice.gov/usao-sdny/pr/former-employee-technology-company-charged-stealing-confidential-data-and-extorting)
-- Dec 02 - [Solving Advent of Code Puzzles with GitHub Copilot: Day 1](https://freddiev4.xyz/solving-advent-of-code-puzzles-with-github-copilot/)
-- Dec 02 - [The Impending Cloud Reshuffle](https://erikbern.com/2021/11/30/storm-in-the-stratosphere-how-the-cloud-will-be-reshuffled.html)
-- Dec 02 - [NIST is broadcasting a test signal on minute 8 of the hour on WWV and 48 on WWVH](https://wwvarc.org/wwvmodannouncement)
+- Dec 02 - [The Fastest FizzBuzz Implementation](https://tech.marksblogg.com/fastest-fizz-buzz.html)
+- Dec 02 - [Google voluntarily de-lists The Pirate Bay](https://torrentfreak.com/google-removes-pirate-bay-domains-from-search-results-citing-dutch-court-order-211130/)
+- Dec 02 - [Catholic church's proposed redesign of Notre Dame interior provokes outrage](https://www.theartnewspaper.com/2021/12/01/interior-redesign-notre-dame-cathedral)
+- Dec 02 - [Tvix: We Are Rewriting Nix](https://tvl.fyi/blog/rewriting-nix)
+- Dec 02 - [Glitch effect on text in pure CSS](https://dustri.org/b/glitch-effect-on-text-in-pure-css.html)
 <!--END_SECTION:hn-->
 
 <!--
