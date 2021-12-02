@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 01 - [ImageMagick: CLI for Image Editing](https://imagemagick.org/script/index.php)
-- Dec 01 - [Supersonic Projectile Exceeds Engineers Dreams: The Supersonic Trebuchet](https://hackaday.com/2021/12/01/supersonic-projectile-exceeds-engineers-dreams-the-supersonic-trebuchet/)
-- Dec 01 - [A homebrew 16-bit CPU with a homebrew Unix-like-ish operating system](https://github.com/jes/scamp-cpu)
-- Dec 01 - [Moth Minds: Fund individuals doing work you believe in](https://www.mothminds.com)
-- Dec 01 - [This shouldn't have happened: A vulnerability postmortem](https://googleprojectzero.blogspot.com/2021/12/this-shouldnt-have-happened.html)
+- Dec 01 - [Firefox's Optimized Zip Format: Reading Zip Files Quickly](https://taras.glek.net/post/optimized-zip-format/)
+- Dec 01 - [Instagram Is Facebook Now](https://embedded.substack.com/p/instagram-is-facebook-now)
+- Dec 01 - [My worst tech interview experience](https://www.jessesquires.com/blog/2021/12/01/my-worst-tech-interview-experience/)
+- Dec 01 - [Block (aka Square, Tidal, CashApp etc)](https://block.xyz/)
+- Dec 01 - [Recurrency (YC S20) is hiring senior engineers to fix supply chain software](https://news.ycombinator.com/item?id=29409079)
 <!--END_SECTION:hn-->
 
 <!--
