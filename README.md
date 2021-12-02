@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 02 - [Hamilton: A Microframework for Dataframe Generation](https://multithreaded.stitchfix.com/blog/2021/10/14/functions-dags-hamilton/)
-- Dec 02 - [Why It’s So Difficult – and Costly – To Secure Chips](https://semiengineering.com/why-its-so-difficult-and-costly-to-secure-chips/)
-- Dec 02 - [Ideal Monitor Rotation for Programmers](https://sprocketfox.io/xssfox/2021/12/02/xrandr/)
-- Dec 02 - [Here's Why Movie Dialogue Has Gotten More Difficult to Understand](https://www.slashfilm.com/673162/heres-why-movie-dialogue-has-gotten-more-difficult-to-understand-and-three-ways-to-fix-it/)
-- Dec 02 - [Vivaldi Browser 5.0](https://vivaldi.com/changelog-vivaldi-browser-5-0/)
+- Dec 02 - [What Will Enter the Public Domain in 2022?](https://publicdomainreview.org/features/entering-the-public-domain/2022/)
+- Dec 02 - [“RISC V is a terrible architecture”](https://gmplib.org/list-archives/gmp-devel/2021-September/006013.html)
+- Dec 02 - [Scraper for Y Combinator Directory](https://github.com/akshaybhalotia/yc_company_scraper)
+- Dec 02 - [An Inconsistent Truth: Next.js and Typesafety](https://t3.gg/blog/posts/types-and-nextjs)
+- Dec 02 - [Release of AWS CDKv2 and Construct Hub](https://aws.amazon.com/blogs/aws/announcing-general-availability-of-construct-hub-and-aws-cloud-development-kit-version-2/)
 <!--END_SECTION:hn-->
 
 <!--
