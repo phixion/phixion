@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 01 - [Firefox's Optimized Zip Format: Reading Zip Files Quickly](https://taras.glek.net/post/optimized-zip-format/)
-- Dec 01 - [Instagram Is Facebook Now](https://embedded.substack.com/p/instagram-is-facebook-now)
-- Dec 01 - [My worst tech interview experience](https://www.jessesquires.com/blog/2021/12/01/my-worst-tech-interview-experience/)
-- Dec 01 - [Block (aka Square, Tidal, CashApp etc)](https://block.xyz/)
-- Dec 01 - [Recurrency (YC S20) is hiring senior engineers to fix supply chain software](https://news.ycombinator.com/item?id=29409079)
+- Dec 02 - [What Makes SRGB a Special Color Space? – PhotoSauce Blog](https://photosauce.net/blog/post/what-makes-srgb-a-special-color-space)
+- Dec 02 - [Former Ubiquiti employee charged with stealing data and extorting company](https://www.justice.gov/usao-sdny/pr/former-employee-technology-company-charged-stealing-confidential-data-and-extorting)
+- Dec 02 - [Solving Advent of Code Puzzles with GitHub Copilot: Day 1](https://freddiev4.xyz/solving-advent-of-code-puzzles-with-github-copilot/)
+- Dec 02 - [The Impending Cloud Reshuffle](https://erikbern.com/2021/11/30/storm-in-the-stratosphere-how-the-cloud-will-be-reshuffled.html)
+- Dec 02 - [NIST is broadcasting a test signal on minute 8 of the hour on WWV and 48 on WWVH](https://wwvarc.org/wwvmodannouncement)
 <!--END_SECTION:hn-->
 
 <!--
