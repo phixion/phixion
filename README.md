@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 02 - [The Fastest FizzBuzz Implementation](https://tech.marksblogg.com/fastest-fizz-buzz.html)
-- Dec 02 - [Google voluntarily de-lists The Pirate Bay](https://torrentfreak.com/google-removes-pirate-bay-domains-from-search-results-citing-dutch-court-order-211130/)
-- Dec 02 - [Catholic church's proposed redesign of Notre Dame interior provokes outrage](https://www.theartnewspaper.com/2021/12/01/interior-redesign-notre-dame-cathedral)
-- Dec 02 - [Tvix: We Are Rewriting Nix](https://tvl.fyi/blog/rewriting-nix)
-- Dec 02 - [Glitch effect on text in pure CSS](https://dustri.org/b/glitch-effect-on-text-in-pure-css.html)
+- Dec 02 - [CoinTracker (YC W18) is hiring a Growth Engineer to help people build wealth](https://jobs.ashbyhq.com/cointracker/200dde3e-e295-40ab-a17f-4c2b636fb217)
+- Dec 02 - [Disclosing state-linked information operations we've removed](https://blog.twitter.com/en_us/topics/company/2021/disclosing-state-linked-information-operations-we-ve-removed)
+- Dec 02 - [Ask HN: How do you build your personal start page?](https://news.ycombinator.com/item?id=29414763)
+- Dec 02 - [DeFi protocol BadgerDAO exploited for $120M in front-end attack](https://www.theblockcrypto.com/post/126072/defi-protocol-badgerdao-exploited-for-120-million-in-front-end-attack)
+- Dec 02 - [Twitter photo-removal policy aimed at improving privacy goes into effect](https://text.npr.org/1060600043)
 <!--END_SECTION:hn-->
 
 <!--
