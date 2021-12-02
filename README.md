@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 02 - [CoinTracker (YC W18) is hiring a Growth Engineer to help people build wealth](https://jobs.ashbyhq.com/cointracker/200dde3e-e295-40ab-a17f-4c2b636fb217)
-- Dec 02 - [Disclosing state-linked information operations we've removed](https://blog.twitter.com/en_us/topics/company/2021/disclosing-state-linked-information-operations-we-ve-removed)
-- Dec 02 - [Ask HN: How do you build your personal start page?](https://news.ycombinator.com/item?id=29414763)
-- Dec 02 - [DeFi protocol BadgerDAO exploited for $120M in front-end attack](https://www.theblockcrypto.com/post/126072/defi-protocol-badgerdao-exploited-for-120-million-in-front-end-attack)
-- Dec 02 - [Twitter photo-removal policy aimed at improving privacy goes into effect](https://text.npr.org/1060600043)
+- Dec 02 - [Hamilton: A Microframework for Dataframe Generation](https://multithreaded.stitchfix.com/blog/2021/10/14/functions-dags-hamilton/)
+- Dec 02 - [Why It’s So Difficult – and Costly – To Secure Chips](https://semiengineering.com/why-its-so-difficult-and-costly-to-secure-chips/)
+- Dec 02 - [Ideal Monitor Rotation for Programmers](https://sprocketfox.io/xssfox/2021/12/02/xrandr/)
+- Dec 02 - [Here's Why Movie Dialogue Has Gotten More Difficult to Understand](https://www.slashfilm.com/673162/heres-why-movie-dialogue-has-gotten-more-difficult-to-understand-and-three-ways-to-fix-it/)
+- Dec 02 - [Vivaldi Browser 5.0](https://vivaldi.com/changelog-vivaldi-browser-5-0/)
 <!--END_SECTION:hn-->
 
 <!--
