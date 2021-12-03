@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 03 - [Metaphor (YC S21): Hiring Self-Supervised Learning Researchers](https://www.ycombinator.com/companies/metaphor/jobs/z9af6mz-research-scientist-or-research-engineer)
-- Dec 03 - [Tell HN: Lost access to my Google account even with the correct credentials](https://news.ycombinator.com/item?id=29428922)
-- Dec 03 - [Show HN: I had some time yesterday so I made a GPT3 podcast to help you sleep](https://anchor.fm/deepdreams)
-- Dec 03 - [Windows urges users to use Bing same way as urgent security warnings](https://twitter.com/GossiTheDog/status/1428457677261246465)
-- Dec 03 - [The Jami conferencing system](https://jami.net/the-jami-conferencing-system/)
+- Dec 03 - [How to Lose Stars on GitHub?](https://www.qovery.com/blog/we-lost-3800-stars-on-github-in-1-click/)
+- Dec 03 - [Launch HN: Demigod (YC S19) – Build compounding habits with a dedicated coach](https://news.ycombinator.com/item?id=29431044)
+- Dec 03 - [Using Entropy to Identify Obfuscated Malicious Code](http://blog.phylum.io/detecting-obfuscated-malicious-code)
+- Dec 03 - [Pg_GraphQL: A GraphQL Extension for PostgreSQL](https://supabase.com/blog/2021/12/03/pg-graphql)
+- Dec 03 - [Blender 3.0 binaries](https://download.blender.org/release/Blender3.0/)
 <!--END_SECTION:hn-->
 
 <!--
