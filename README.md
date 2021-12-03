@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 03 - [How to Lose Stars on GitHub?](https://www.qovery.com/blog/we-lost-3800-stars-on-github-in-1-click/)
-- Dec 03 - [Launch HN: Demigod (YC S19) – Build compounding habits with a dedicated coach](https://news.ycombinator.com/item?id=29431044)
-- Dec 03 - [Using Entropy to Identify Obfuscated Malicious Code](http://blog.phylum.io/detecting-obfuscated-malicious-code)
-- Dec 03 - [Pg_GraphQL: A GraphQL Extension for PostgreSQL](https://supabase.com/blog/2021/12/03/pg-graphql)
-- Dec 03 - [Blender 3.0 binaries](https://download.blender.org/release/Blender3.0/)
+- Dec 03 - [Where is the CRDT for syntax trees](https://writer.zohopublic.com/writer/published/grcwy5c699d67b9c444219b60cdb90ccbabc7)
+- Dec 03 - [William Cook has died](https://mjtsai.com/blog/2021/12/02/william-cook-rip/)
+- Dec 03 - [Game “While true: learn()” for free in Epic Store](https://www.epicgames.com/store/en-US/p/while-true-learn)
+- Dec 03 - [See brands' supply chain linkages that are contributing to Amazon deforestation](https://www.stand.earth/publication/forest-conservation/amazon-forest-protection/amazon-leather-supply-chain)
+- Dec 03 - [Germany: New government plans 'right to encryption'](https://tutanota.com/blog/posts/germany-right-to-encryption/)
 <!--END_SECTION:hn-->
 
 <!--
