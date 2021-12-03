@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 03 - [The big idea around unikernels](https://changelog.com/posts/the-big-idea-around-unikernels)
-- Dec 03 - [The Rise of the Decentralized Startup](https://elizabethyin.com/2021/09/19/the-rise-of-the-decentralized-startup/)
-- Dec 03 - [Buried in Infrastructure Bill Is a Mandatory Backdoor Kill Switch for Your Car](https://hothardware.com/news/bidens-infrastructure-bill-mandatory-backdoor-car-kill-switch)
-- Dec 03 - [Kholia/OS X-KVM: Run macOS on QEMU/KVM](https://github.com/kholia/OSX-KVM)
-- Dec 03 - [On Pegasus – NSO, Israel, and the World](https://www.lrb.co.uk/the-paper/v43/n21/edan-ring/on-pegasus)
+- Dec 03 - [Metaphor (YC S21): Hiring Self-Supervised Learning Researchers](https://www.ycombinator.com/companies/metaphor/jobs/z9af6mz-research-scientist-or-research-engineer)
+- Dec 03 - [Tell HN: Lost access to my Google account even with the correct credentials](https://news.ycombinator.com/item?id=29428922)
+- Dec 03 - [Show HN: I had some time yesterday so I made a GPT3 podcast to help you sleep](https://anchor.fm/deepdreams)
+- Dec 03 - [Windows urges users to use Bing same way as urgent security warnings](https://twitter.com/GossiTheDog/status/1428457677261246465)
+- Dec 03 - [The Jami conferencing system](https://jami.net/the-jami-conferencing-system/)
 <!--END_SECTION:hn-->
 
 <!--
