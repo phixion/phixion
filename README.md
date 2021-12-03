@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 02 - [Podcast: Google's 'DeepMind' Does Mathematics](https://www.numberphile.com/videos/deep-mind-podcast)
+- Dec 03 - [One way a builder culture can fail](http://rachelbythebay.com/w/2021/12/02/build/)
+- Dec 03 - [Artificial intelligence that understands object relationships](https://news.mit.edu/2021/ai-object-relationships-image-generation-1129)
+- Dec 03 - [Show HN: Emoji to Scale](https://javier.xyz/emoji-to-scale/)
+- Dec 02 - [Can deep learning help mathematicians build intuition?](https://theconversation.com/mathematical-discoveries-take-intuition-and-creativity-and-now-a-little-help-from-ai-172900)
 - Dec 02 - [What Is Dbt and Why Are Companies Using It?](https://seattledataguy.substack.com/p/what-is-dbt-and-why-are-companies)
-- Dec 02 - [I Rewrote WinUI to WPF](https://github.com/lepoco/wpfui)
-- Dec 02 - [EasyPost (YC S13) Is Hiring Remote](https://www.easypost.com/careers)
-- Dec 02 - [Microsoft Windows RCE Vulnerability Gives an Attacker Complete Control](https://www.synack.com/blog/this-microsoft-windows-rce-vulnerability-gives-an-attacker-complete-control/)
 <!--END_SECTION:hn-->
 
 <!--
