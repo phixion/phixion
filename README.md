@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 02 - [What Will Enter the Public Domain in 2022?](https://publicdomainreview.org/features/entering-the-public-domain/2022/)
-- Dec 02 - [“RISC V is a terrible architecture”](https://gmplib.org/list-archives/gmp-devel/2021-September/006013.html)
-- Dec 02 - [Scraper for Y Combinator Directory](https://github.com/akshaybhalotia/yc_company_scraper)
-- Dec 02 - [An Inconsistent Truth: Next.js and Typesafety](https://t3.gg/blog/posts/types-and-nextjs)
-- Dec 02 - [Release of AWS CDKv2 and Construct Hub](https://aws.amazon.com/blogs/aws/announcing-general-availability-of-construct-hub-and-aws-cloud-development-kit-version-2/)
+- Dec 02 - [Podcast: Google's 'DeepMind' Does Mathematics](https://www.numberphile.com/videos/deep-mind-podcast)
+- Dec 02 - [What Is Dbt and Why Are Companies Using It?](https://seattledataguy.substack.com/p/what-is-dbt-and-why-are-companies)
+- Dec 02 - [I Rewrote WinUI to WPF](https://github.com/lepoco/wpfui)
+- Dec 02 - [EasyPost (YC S13) Is Hiring Remote](https://www.easypost.com/careers)
+- Dec 02 - [Microsoft Windows RCE Vulnerability Gives an Attacker Complete Control](https://www.synack.com/blog/this-microsoft-windows-rce-vulnerability-gives-an-attacker-complete-control/)
 <!--END_SECTION:hn-->
 
 <!--
