@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 03 - [One way a builder culture can fail](http://rachelbythebay.com/w/2021/12/02/build/)
-- Dec 03 - [Artificial intelligence that understands object relationships](https://news.mit.edu/2021/ai-object-relationships-image-generation-1129)
-- Dec 03 - [Show HN: Emoji to Scale](https://javier.xyz/emoji-to-scale/)
-- Dec 02 - [Can deep learning help mathematicians build intuition?](https://theconversation.com/mathematical-discoveries-take-intuition-and-creativity-and-now-a-little-help-from-ai-172900)
-- Dec 02 - [What Is Dbt and Why Are Companies Using It?](https://seattledataguy.substack.com/p/what-is-dbt-and-why-are-companies)
+- Dec 03 - [The big idea around unikernels](https://changelog.com/posts/the-big-idea-around-unikernels)
+- Dec 03 - [The Rise of the Decentralized Startup](https://elizabethyin.com/2021/09/19/the-rise-of-the-decentralized-startup/)
+- Dec 03 - [Buried in Infrastructure Bill Is a Mandatory Backdoor Kill Switch for Your Car](https://hothardware.com/news/bidens-infrastructure-bill-mandatory-backdoor-car-kill-switch)
+- Dec 03 - [Kholia/OS X-KVM: Run macOS on QEMU/KVM](https://github.com/kholia/OSX-KVM)
+- Dec 03 - [On Pegasus – NSO, Israel, and the World](https://www.lrb.co.uk/the-paper/v43/n21/edan-ring/on-pegasus)
 <!--END_SECTION:hn-->
 
 <!--
