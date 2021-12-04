@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 04 - [Sequin (YC S21) Is Hiring a Founding Engineer to Get Women Credit](https://www.ycombinator.com/companies/sequin/jobs/xxzJxtY-founding-engineer)
-- Dec 04 - [FirefoxPWA: Progressive Web Apps for Firefox](https://github.com/filips123/FirefoxPWA)
-- Dec 04 - [Estonian winter 1, delivery robots 0](https://twitter.com/UrbanFoxxxx/status/1466782775244111872)
-- Dec 04 - [MH370: Could missing Malaysian Airlines plane finally be found?](https://www.bbc.com/news/business-59517821)
-- Dec 04 - [Fast CSV Processing with SIMD](https://nullprogram.com/blog/2021/12/04/)
+- Dec 04 - [Three Ways to Debug Code in Elixir](https://blog.appsignal.com/2021/11/30/three-ways-to-debug-code-in-elixir.html)
+- Dec 04 - [Why Bitcoin is not a socialist’s ally (2020)](https://diem25.org/why-bitcoin-not-socialists-ally-reply-ben-arc/)
+- Dec 04 - [DocuSign Shares Plunge 42%](https://www.cnbc.com/2021/12/03/docusign-stock-plunges-after-the-company-gave-weak-q4-guidance.html)
+- Dec 04 - [LLVM internals, part 4: attributes and attribute groups](https://blog.yossarian.net/2021/11/29/LLVM-internals-part-4-attributes-and-attribute-groups)
+- Dec 04 - [How to Use Dig](https://jvns.ca/blog/2021/12/04/how-to-use-dig/)
 <!--END_SECTION:hn-->
 
 <!--
