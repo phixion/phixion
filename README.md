@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 03 - [Keep a Knowledge Log](https://bruno-oliveira.github.io/techblog/Keep-a-log/)
-- Dec 03 - [Rclone: Rsync for cloud storage – CLI to sync between cloud storage providers](https://github.com/rclone/rclone)
-- Dec 03 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- Dec 03 - [Your eBay account has been suspended](https://news.ycombinator.com/item?id=29435091)
-- Dec 03 - [Common Infrastructure Errors I've Made](https://matduggan.com/mistakes/)
+- Dec 04 - [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
+- Dec 04 - [To regrow forests the U.S. needs billions of seeds–and many more 'seed hunters'](https://www.nationalgeographic.com/environment/article/to-regrow-forests-us-needs-billions-of-seeds-many-more-seed-hunters)
+- Dec 04 - [The Fraud Supply Chain](https://bam.kalzumeus.com/archive/the-fraud-supply-chain/)
+- Dec 04 - [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
+- Dec 04 - [Show HN: I made a book with a hundred UI/UX tips](https://news.ycombinator.com/item?id=29437527)
 <!--END_SECTION:hn-->
 
 <!--
