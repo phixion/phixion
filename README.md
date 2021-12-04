@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 04 - [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
-- Dec 04 - [To regrow forests the U.S. needs billions of seeds–and many more 'seed hunters'](https://www.nationalgeographic.com/environment/article/to-regrow-forests-us-needs-billions-of-seeds-many-more-seed-hunters)
-- Dec 04 - [The Fraud Supply Chain](https://bam.kalzumeus.com/archive/the-fraud-supply-chain/)
-- Dec 04 - [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
-- Dec 04 - [Show HN: I made a book with a hundred UI/UX tips](https://news.ycombinator.com/item?id=29437527)
+- Dec 04 - [Fast CSV Processing with SIMD](https://nullprogram.com/blog/2021/12/04/)
+- Dec 04 - [Mister FPGA: The Future of Game and Computer Emulation](https://www.racketboy.com/retro/mister-fpga-the-future-of-retro-game-emulation-and-preservation)
+- Dec 04 - [PhotoRoom (YC S20) Is Hiring a Head of Computer Vision (Paris, Remote ± 1h)](https://jobs.lever.co/photoroom/bdb26827-1c9b-404a-8c3a-d2abd744dc0a)
+- Dec 04 - [Rule-Based Expert Systems: MYCIN Experiments of Stanford Heuristic Programming](https://people.dbmi.columbia.edu/~ehs7001/Buchanan-Shortliffe-1984/MYCIN%20Book.htm)
+- Dec 04 - [Getting a Computer Science PhD in the USA](https://parentheticallyspeaking.org/articles/us-cs-phd-faq/)
 <!--END_SECTION:hn-->
 
 <!--
