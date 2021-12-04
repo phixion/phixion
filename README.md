@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 04 - [Three Ways to Debug Code in Elixir](https://blog.appsignal.com/2021/11/30/three-ways-to-debug-code-in-elixir.html)
-- Dec 04 - [Why Bitcoin is not a socialist’s ally (2020)](https://diem25.org/why-bitcoin-not-socialists-ally-reply-ben-arc/)
-- Dec 04 - [DocuSign Shares Plunge 42%](https://www.cnbc.com/2021/12/03/docusign-stock-plunges-after-the-company-gave-weak-q4-guidance.html)
-- Dec 04 - [LLVM internals, part 4: attributes and attribute groups](https://blog.yossarian.net/2021/11/29/LLVM-internals-part-4-attributes-and-attribute-groups)
-- Dec 04 - [How to Use Dig](https://jvns.ca/blog/2021/12/04/how-to-use-dig/)
+- Dec 04 - [Super Pyxelate converts images to 8-bit pixel art](https://github.com/sedthh/pyxelate)
+- Dec 04 - [Black couple ‘erases themselves’ from their home, its value goes up by $500k](https://www.sfchronicle.com/bayarea/article/Black-Marin-City-couple-sues-appraiser-for-16672840.php)
+- Dec 04 - [ZSH Completions How To](https://github.com/zsh-users/zsh-completions/blob/master/zsh-completions-howto.org)
+- Dec 04 - [Ask HN: Dependency Graphs for Cloud Services?](https://news.ycombinator.com/item?id=29443137)
+- Dec 04 - [It's December and it hasn't snowed in Denver yet. That's never been recorded](https://lite.cnn.com/en/article/h_7f69495d740ab8ce6728ce5646752faa)
 <!--END_SECTION:hn-->
 
 <!--
