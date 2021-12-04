@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 03 - [Where is the CRDT for syntax trees](https://writer.zohopublic.com/writer/published/grcwy5c699d67b9c444219b60cdb90ccbabc7)
-- Dec 03 - [William Cook has died](https://mjtsai.com/blog/2021/12/02/william-cook-rip/)
-- Dec 03 - [Game “While true: learn()” for free in Epic Store](https://www.epicgames.com/store/en-US/p/while-true-learn)
-- Dec 03 - [See brands' supply chain linkages that are contributing to Amazon deforestation](https://www.stand.earth/publication/forest-conservation/amazon-forest-protection/amazon-leather-supply-chain)
-- Dec 03 - [Germany: New government plans 'right to encryption'](https://tutanota.com/blog/posts/germany-right-to-encryption/)
+- Dec 03 - [Keep a Knowledge Log](https://bruno-oliveira.github.io/techblog/Keep-a-log/)
+- Dec 03 - [Rclone: Rsync for cloud storage – CLI to sync between cloud storage providers](https://github.com/rclone/rclone)
+- Dec 03 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- Dec 03 - [Your eBay account has been suspended](https://news.ycombinator.com/item?id=29435091)
+- Dec 03 - [Common Infrastructure Errors I've Made](https://matduggan.com/mistakes/)
 <!--END_SECTION:hn-->
 
 <!--
