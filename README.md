@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 05 - [Apple Broke Up with Me](https://merecivilian.com/apple-broke-up-with-me/)
-- Dec 05 - [Exodus – relocation of Linux binaries–and all of their deps–without containers](https://github.com/intoli/exodus)
-- Dec 05 - [Show HN: Collaborative RSS Reader](https://linklonk.com/)
-- Dec 04 - [USBefuddled: Untangling the Rat’s Nest of USB-C Standards and Cables](https://tidbits.com/2021/12/03/usbefuddled-untangling-the-rats-nest-of-usb-c-standards-and-cables/)
-- Dec 04 - [Show HN: MiroTalk – an alternative to Zoom / Teams](https://github.com/miroslavpejic85/mirotalksfu)
+- Dec 05 - [Show HN: Dfeed – a feed reader you can use without an account](https://dfeed.net/)
+- Dec 05 - [Terra (YC W21) Is Hiring Sales Engineers in London](https://www.ycombinator.com/companies/terra/jobs/CoiffSb-sales-engineer)
+- Dec 05 - [Singapore: Sovereign City](https://devonzuegel.com/post/singapore-sovereign-city)
+- Dec 05 - [Monitoring 27kw Generac Generator with Raspberry Pi and Multimode Fiber](https://blog.networkprofile.org/monitoring-generac-generator-with-raspberry-pi-and-om3-fiber/)
+- Dec 05 - [One decade later: Minecraft world generation is finally interesting again](https://dither8.xyz/blog/minecraft-cliffs-terrain/)
 <!--END_SECTION:hn-->
 
 <!--
