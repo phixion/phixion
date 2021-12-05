@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 05 - [Convictional (YC W19) hiring engineers to build the future of B2B trade (Remote)](https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3)
-- Dec 05 - [Re-Thinking Electronic Mail](https://liw.fi/rethinking-email/)
-- Dec 05 - [Bumble claims IP rights on employee's open-source libs](https://twitter.com/arkann1985/status/1467202744947822594)
-- Dec 05 - [Kubernetes at Home with K3s](https://blog.nootch.net/post/kubernetes-at-home-with-k3s/)
-- Dec 05 - [Show HN: Dfeed – a feed reader you can use without an account](https://dfeed.net/)
+- Dec 05 - [Zrythm: A highly automated and intuitive digital audio workstation](https://www.zrythm.org/en/index.html)
+- Dec 05 - [Simple Raspberry Pi Powered SMS Gateway](https://blog.haschek.at/2021/raspberry-pi-sms-gateway.html)
+- Dec 05 - [Ask HN: Are paradigm shifting breakthroughs rarer or is it a bias in my eyes?](https://news.ycombinator.com/item?id=29449706)
+- Dec 05 - [Widdler is a single binary that serves up TiddlyWikis](https://github.com/qbit/widdler)
+- Dec 05 - [The Sea People: Alexander the Great Tread in the Footsteps of Forgotten Greeks](https://nemets.substack.com/p/the-sea-people)
 <!--END_SECTION:hn-->
 
 <!--
