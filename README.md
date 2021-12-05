@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 05 - [Nothing of what makes science work is published as text on the web](https://markusstrasser.org/p/bcd8bded-7136-4bb4-8f97-e8a3a7b6d926/)
+- Dec 05 - [Apple Broke Up with Me](https://merecivilian.com/apple-broke-up-with-me/)
+- Dec 05 - [Exodus – relocation of Linux binaries–and all of their deps–without containers](https://github.com/intoli/exodus)
+- Dec 05 - [Show HN: Collaborative RSS Reader](https://linklonk.com/)
 - Dec 04 - [USBefuddled: Untangling the Rat’s Nest of USB-C Standards and Cables](https://tidbits.com/2021/12/03/usbefuddled-untangling-the-rats-nest-of-usb-c-standards-and-cables/)
-- Dec 04 - [How can a ski lift allow turns to the left and the right on its route? [video]](https://www.youtube.com/watch?v=x4Av3jGKee8)
-- Dec 04 - [Threepp: A C++17 Port of Three.js](https://github.com/markaren/threepp)
-- Dec 04 - [All Horses Are the Same Color](https://jeremykun.com/2011/07/16/false-proof-all-horses-are-the-same-color/)
+- Dec 04 - [Show HN: MiroTalk – an alternative to Zoom / Teams](https://github.com/miroslavpejic85/mirotalksfu)
 <!--END_SECTION:hn-->
 
 <!--
