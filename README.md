@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 04 - [Super Pyxelate converts images to 8-bit pixel art](https://github.com/sedthh/pyxelate)
-- Dec 04 - [Black couple ‘erases themselves’ from their home, its value goes up by $500k](https://www.sfchronicle.com/bayarea/article/Black-Marin-City-couple-sues-appraiser-for-16672840.php)
-- Dec 04 - [ZSH Completions How To](https://github.com/zsh-users/zsh-completions/blob/master/zsh-completions-howto.org)
-- Dec 04 - [Ask HN: Dependency Graphs for Cloud Services?](https://news.ycombinator.com/item?id=29443137)
-- Dec 04 - [It's December and it hasn't snowed in Denver yet. That's never been recorded](https://lite.cnn.com/en/article/h_7f69495d740ab8ce6728ce5646752faa)
+- Dec 05 - [Nothing of what makes science work is published as text on the web](https://markusstrasser.org/p/bcd8bded-7136-4bb4-8f97-e8a3a7b6d926/)
+- Dec 04 - [USBefuddled: Untangling the Rat’s Nest of USB-C Standards and Cables](https://tidbits.com/2021/12/03/usbefuddled-untangling-the-rats-nest-of-usb-c-standards-and-cables/)
+- Dec 04 - [How can a ski lift allow turns to the left and the right on its route? [video]](https://www.youtube.com/watch?v=x4Av3jGKee8)
+- Dec 04 - [Threepp: A C++17 Port of Three.js](https://github.com/markaren/threepp)
+- Dec 04 - [All Horses Are the Same Color](https://jeremykun.com/2011/07/16/false-proof-all-horses-are-the-same-color/)
 <!--END_SECTION:hn-->
 
 <!--
