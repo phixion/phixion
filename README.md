@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 06 - [WhatsApp has removed answer to “how do I choose not to share data with FB”](https://faq.whatsapp.com/general/26000016)
-- Dec 05 - [C++ Compile Time Parser Generator](https://github.com/peter-winter/ctpg)
-- Dec 05 - [You click a link to a news site, to read an article that seems interesting](https://mastodon.technology/@rysiek/107390725207653910)
-- Dec 05 - [Analog Devices Expands over 1000 Linux Device Drivers to Support Development](https://www.analog.com/en/about-adi/news-room/press-releases/2021/11-30-2021-analog-devices-expands-linux-distribution.html)
-- Dec 05 - [All Placebos are not created equal](https://atis.substack.com/p/all-placebos-are-not-created-equal)
+- Dec 06 - [Leaving MySQL](https://blog.sesse.net/blog/tech/2021-12-05-16-41_leaving_mysql.html)
+- Dec 06 - [Ubiquiti Developer Charged with Extortion, Causing 2020 “Breach”](https://krebsonsecurity.com/2021/12/ubiquiti-developer-charged-with-extortion-causing-2020-breach/)
+- Dec 06 - [Podcast about the best podcasting tools (record, edit, master, and transcribe)](https://tooltip.com/podcast)
+- Dec 06 - [Color Vision Simulation](https://developer.mozilla.org/en-US/docs/Tools/Accessibility_inspector/Simulation)
+- Dec 06 - [The Principia Rewrite: Whitehead and Russell’s Principia Rewritten in Coq](https://www.principiarewrite.com/)
 <!--END_SECTION:hn-->
 
 <!--
