@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 06 - [My challenge to the web performance community](https://philipwalton.com/articles/my-challenge-to-the-web-performance-community/)
-- Dec 06 - [Goodbye Brave](https://arunmozhi.in/2021/12/06/goodbye-brave/)
-- Dec 06 - [CFTC Orders JPMorgan to Pay Record $920M for Spoofing and Manipulation](https://www.cftc.gov/PressRoom/PressReleases/8260-20)
-- Dec 06 - [Show HN: PlanckForth – Bootstrapping an interpreter from handwritten 1kb binary](https://github.com/nineties/planckforth)
-- Dec 06 - [Bob Dole and Jack Kemp (1996)](http://www.dolekemp96.org/main.htm)
+- Dec 06 - [The Amazon Empire Strikes Back](https://stratechery.com/2021/the-amazon-empire-strikes-back/)
+- Dec 06 - [QuestDB Is Hiring a Python Back End Engineer](https://questdb.io/careers/senior-backend-engineer-python/)
+- Dec 06 - [Half a Billion in Bitcoin, Lost in the Dump](https://www.newyorker.com/magazine/2021/12/13/half-a-billion-in-bitcoin-lost-in-the-dump)
+- Dec 06 - [YouTube suspended my account for posting DeFi hackathon video](https://news.ycombinator.com/item?id=29458246)
+- Dec 06 - [The utilization of 44/8: the reason I mapped IPv4 and IPv6](https://blog.daknob.net/mapping-44net/)
 <!--END_SECTION:hn-->
 
 <!--
