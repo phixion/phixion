@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 06 - [Leaving MySQL](https://blog.sesse.net/blog/tech/2021-12-05-16-41_leaving_mysql.html)
-- Dec 06 - [Ubiquiti Developer Charged with Extortion, Causing 2020 “Breach”](https://krebsonsecurity.com/2021/12/ubiquiti-developer-charged-with-extortion-causing-2020-breach/)
-- Dec 06 - [Podcast about the best podcasting tools (record, edit, master, and transcribe)](https://tooltip.com/podcast)
-- Dec 06 - [Color Vision Simulation](https://developer.mozilla.org/en-US/docs/Tools/Accessibility_inspector/Simulation)
-- Dec 06 - [The Principia Rewrite: Whitehead and Russell’s Principia Rewritten in Coq](https://www.principiarewrite.com/)
+- Dec 06 - [My challenge to the web performance community](https://philipwalton.com/articles/my-challenge-to-the-web-performance-community/)
+- Dec 06 - [Goodbye Brave](https://arunmozhi.in/2021/12/06/goodbye-brave/)
+- Dec 06 - [CFTC Orders JPMorgan to Pay Record $920M for Spoofing and Manipulation](https://www.cftc.gov/PressRoom/PressReleases/8260-20)
+- Dec 06 - [Show HN: PlanckForth – Bootstrapping an interpreter from handwritten 1kb binary](https://github.com/nineties/planckforth)
+- Dec 06 - [Bob Dole and Jack Kemp (1996)](http://www.dolekemp96.org/main.htm)
 <!--END_SECTION:hn-->
 
 <!--
