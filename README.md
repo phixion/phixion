@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 06 - [The Amazon Empire Strikes Back](https://stratechery.com/2021/the-amazon-empire-strikes-back/)
-- Dec 06 - [QuestDB Is Hiring a Python Back End Engineer](https://questdb.io/careers/senior-backend-engineer-python/)
-- Dec 06 - [Half a Billion in Bitcoin, Lost in the Dump](https://www.newyorker.com/magazine/2021/12/13/half-a-billion-in-bitcoin-lost-in-the-dump)
-- Dec 06 - [YouTube suspended my account for posting DeFi hackathon video](https://news.ycombinator.com/item?id=29458246)
-- Dec 06 - [The utilization of 44/8: the reason I mapped IPv4 and IPv6](https://blog.daknob.net/mapping-44net/)
+- Dec 06 - [Testing Firefox more efficiently with machine learning](https://hacks.mozilla.org/2020/07/testing-firefox-more-efficiently-with-machine-learning/)
+- Dec 06 - [There are over one trillion SQLite databases in active use](https://www.sqlite.org/mostdeployed.html)
+- Dec 06 - [Better.com CEO fires 900 employees on Zoom call](https://maggrand.com/new-york-ceo-fires-900-employees-on-zoom-call-video/)
+- Dec 06 - [Should Windows Transition to Linux?](https://www.lifeintech.com/2021/12/02/windows-linux/)
+- Dec 06 - [No Easter Eggs in Curl](https://daniel.haxx.se/blog/2021/12/06/no-easter-eggs-in-curl/)
 <!--END_SECTION:hn-->
 
 <!--
