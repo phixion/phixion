@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 07 - [FAQs: Why we don’t have them (2013)](https://gds.blog.gov.uk/2013/07/25/faqs-why-we-dont-have-them/)
-- Dec 07 - [Why your external monitor looks awful on an M1 Mac](https://www.theregister.com/2021/12/03/apple_m1_drivers/)
-- Dec 07 - [Ask HN: Does anyone have a backup of Aaron Swartz' site: theinfo.org?](https://news.ycombinator.com/item?id=29469671)
-- Dec 07 - [Dishonest and Contradictory: Fact-Checking CSIRO’s Communications about the Tru](https://microkerneldude.org/2021/11/17/dishonest-and-contradictory-fact-checking-csiros-communications-about-the-trustworthy-systems-group/)
-- Dec 07 - [Sayonara, C++, and Hello to Rust](https://www.thecodedmessage.com/posts/hello-rust/)
+- Dec 07 - [Flexport Is Hiring Operations Research Leaders to Design Global Trade Networks](https://www.flexport.com/careers)
+- Dec 07 - [I thought I was a free man: the engineer fighting Texas’s ban on Israel boycotts](https://www.theguardian.com/us-news/2021/dec/07/texas-ban-boycotting-israel)
+- Dec 07 - [The Case Against Crypto](https://www.watershed.co.uk/studio/news/2021/12/03/case-against-crypto)
+- Dec 07 - [Unbundling Work from Employment (2020)](https://www.atelierventures.co/content/unbundling-work-from-employment)
+- Dec 07 - [Common shell script mistakes (2008)](http://www.pixelbeat.org/programming/shell_script_mistakes.html)
 <!--END_SECTION:hn-->
 
 <!--
