@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 06 - [Show HN: I redesigned my landing page to be as unprofessional as possible](https://straw.page?ref=hn)
-- Dec 06 - [DAO votes to join Blender Development Fund as Patron member](https://www.blender.org/press/new-patron-member-decentraland/)
-- Dec 06 - [In 2019 40% of San Francisco traffic fatalities are from left turns](https://www.saferleftturns.org)
-- Dec 06 - [U.S. says it will not send officials to Beijing Winter Olympics](https://www.reuters.com/lifestyle/sports/us-officials-boycott-beijing-olympics-cnn-2021-12-06/)
-- Dec 06 - [The Evolution of AI in the USA, 1956-1996](http://www.technologystories.org/ai-evolution/)
+- Dec 07 - [Advent of Code 2021 using SQL (PostgreSQL-flavored)](https://github.com/mitchellh/advent-2021-sql)
+- Dec 07 - [Millennials Killed the Mayonnaise Industry (2018)](https://www.phillymag.com/news/2018/08/11/mayonnaise-industry-millennials/)
+- Dec 06 - [Amount of Covid found in the wastewater in Boston](https://www.mwra.com/biobot/biobotdata.htm)
+- Dec 06 - [Web3? I have my DAOts](https://networked.substack.com/p/web3-i-have-my-daots)
+- Dec 06 - [Debunking Cloudflare’s recent performance tests](https://www.fastly.com/blog/debunking-cloudflares-recent-performance-tests)
 <!--END_SECTION:hn-->
 
 <!--
