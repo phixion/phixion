@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 07 - [Self-proclaimed Bitcoin inventor largely prevails in $54B Bitcoin trial](https://www.reuters.com/article/us-crypto-currency-lawsuit-idUSKBN2IL25A)
-- Dec 07 - [AWS Console is returning HTTP 500 errors](https://console.aws.amazon.com/console/home)
-- Dec 07 - [A Submarine's Weakness: Its Software?](https://fixvms.com/)
-- Dec 07 - [MikroTik RouterOS v7 stable released](https://mikrotik.com/download/changelogs#show-tab-tree_2-id-7cd31cf6820896d838535a73cafb15ca)
-- Dec 07 - [AWS us-east-1 outage](https://us-east-1.console.aws.amazon.com/console/home)
+- Dec 07 - [Redesigned Notepad for Windows 11](https://blogs.windows.com/windows-insider/2021/12/07/redesigned-notepad-for-windows-11-begins-rolling-out-to-windows-insiders/)
+- Dec 07 - [Rockstar: A programming language for hard rock metal fans](https://codewithrockstar.com/)
+- Dec 07 - [Disrupting the Glupteba Operation](https://blog.google/threat-analysis-group/disrupting-glupteba-operation/)
+- Dec 07 - [Vectorizing Ragged Arrays](https://vladfeinberg.com/2021/01/07/vectorizing-ragged-arrays.html)
+- Dec 07 - [Over 200 newspapers now involved in lawsuits vs. Google, Facebook](https://www.axios.com/1-local-newspapers-lawsuits-facebook-google-3c3dee3a-cce3-49ef-b0a2-7a98c2e15c91.html)
 <!--END_SECTION:hn-->
 
 <!--
