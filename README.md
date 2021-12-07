@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 07 - [Advent of Code 2021 using SQL (PostgreSQL-flavored)](https://github.com/mitchellh/advent-2021-sql)
-- Dec 07 - [Millennials Killed the Mayonnaise Industry (2018)](https://www.phillymag.com/news/2018/08/11/mayonnaise-industry-millennials/)
-- Dec 06 - [Amount of Covid found in the wastewater in Boston](https://www.mwra.com/biobot/biobotdata.htm)
-- Dec 06 - [Web3? I have my DAOts](https://networked.substack.com/p/web3-i-have-my-daots)
-- Dec 06 - [Debunking Cloudflare’s recent performance tests](https://www.fastly.com/blog/debunking-cloudflares-recent-performance-tests)
+- Dec 07 - [Miniature 3456 LED Cube](https://willempennings.nl/miniature-3456-led-cube/)
+- Dec 07 - [Numerics applied to Casimir geometry generates intersection with Alcubierre warp](https://epjc.epj.org/articles/epjc/abs/2021/07/10052_2021_Article_9484/10052_2021_Article_9484.html)
+- Dec 07 - [C++ in the Linux Kernel](https://www.threatstack.com/blog/c-in-the-linux-kernel)
+- Dec 07 - [Runc/libcontainer: insecure handling of bind mount sources](https://bugs.chromium.org/p/project-zero/issues/detail?id=2241)
+- Dec 07 - [SpotifyWrapped: Spotify Turned User Listening Stats to a Free Ad Campaign](https://www.businessbrief.xyz/p/spotifywrapped-how-spotify-turned)
 <!--END_SECTION:hn-->
 
 <!--
