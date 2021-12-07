@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 07 - [Miniature 3456 LED Cube](https://willempennings.nl/miniature-3456-led-cube/)
-- Dec 07 - [Numerics applied to Casimir geometry generates intersection with Alcubierre warp](https://epjc.epj.org/articles/epjc/abs/2021/07/10052_2021_Article_9484/10052_2021_Article_9484.html)
-- Dec 07 - [C++ in the Linux Kernel](https://www.threatstack.com/blog/c-in-the-linux-kernel)
-- Dec 07 - [Runc/libcontainer: insecure handling of bind mount sources](https://bugs.chromium.org/p/project-zero/issues/detail?id=2241)
-- Dec 07 - [SpotifyWrapped: Spotify Turned User Listening Stats to a Free Ad Campaign](https://www.businessbrief.xyz/p/spotifywrapped-how-spotify-turned)
+- Dec 07 - [FAQs: Why we don’t have them (2013)](https://gds.blog.gov.uk/2013/07/25/faqs-why-we-dont-have-them/)
+- Dec 07 - [Why your external monitor looks awful on an M1 Mac](https://www.theregister.com/2021/12/03/apple_m1_drivers/)
+- Dec 07 - [Ask HN: Does anyone have a backup of Aaron Swartz' site: theinfo.org?](https://news.ycombinator.com/item?id=29469671)
+- Dec 07 - [Dishonest and Contradictory: Fact-Checking CSIRO’s Communications about the Tru](https://microkerneldude.org/2021/11/17/dishonest-and-contradictory-fact-checking-csiros-communications-about-the-trustworthy-systems-group/)
+- Dec 07 - [Sayonara, C++, and Hello to Rust](https://www.thecodedmessage.com/posts/hello-rust/)
 <!--END_SECTION:hn-->
 
 <!--
