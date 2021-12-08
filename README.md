@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 08 - [Programming War Stories in Microsoft](https://aarongiles.com/programming/war-microsoft/)
-- Dec 08 - [Psychedelics Alter Metaphysical Beliefs](https://www.nature.com/articles/s41598-021-01209-2)
-- Dec 08 - [Open letter to Mark Zuckerberg: act now on child and adolescent mental health](https://www.oii.ox.ac.uk/an-open-letter-to-mark-zuckerberg/)
-- Dec 08 - [The RNA World Hypothesis](https://www.ncbi.nlm.nih.gov/books/NBK26876/)
-- Dec 08 - [Amazon packages pile up after AWS outage spawns delivery havoc](https://www.detroitnews.com/story/business/2021/12/07/amazon-aws-cloud-users-report-issues-accessing-websites/6419088001/)
+- Dec 08 - [Beginner's Guide to the Flow Notes Method](https://www.routine.co/post/flow-notes)
+- Dec 08 - [DeepMind's Player of Games, a general-purpose game algorithm](https://arxiv.org/abs/2112.03178)
+- Dec 08 - [Portable and Interoperable Async Rust](https://www.ncameron.org/blog/portable-and-interoperable-async-rust/)
+- Dec 08 - [My First 5 Minutes on a Server; Or, Essential Security for Linux Servers (2013)](https://sollove.com/2013/03/03/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers/)
+- Dec 08 - [Psychedelics alter metaphysical beliefs](https://www.nature.com/articles/s41598-021-01209-2)
 <!--END_SECTION:hn-->
 
 <!--
