@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 08 - [The Microsoft paradox: Contributing to cyber threats and monetizing the cure](https://fortune.com/2021/12/06/microsoft-paradox-cybersecurity-solarwinds-exchange-national/)
-- Dec 08 - [Renault Zoe NCAP crash rating: zero stars [pdf]](https://cdn.euroncap.com/media/66976/euroncap-2021-renault-zoe-datasheet.pdf)
-- Dec 08 - [Do you ever avoid submitting something on HN so devs won't ruin it?](https://news.ycombinator.com/item?id=29485904)
-- Dec 08 - [Mu: A Human-Scale Computer](https://github.com/akkartik/mu)
-- Dec 08 - [Detailed Report on Local Privilege Escalation in Ubuntu Desktop (Pwn2Own 2021)](https://flatt.tech/reports/210401_pwn2own/)
+- Dec 08 - [Type Stability in Julia: Avoiding Performance Pathologies in JIT Compilation](https://arxiv.org/abs/2109.01950)
+- Dec 08 - [Web Push Notifications in WebKit](https://bugs.webkit.org/show_bug.cgi?id=182566)
+- Dec 08 - [Why Do Antibiotics Exist](https://journals.asm.org/doi/10.1128/mBio.01966-21)
+- Dec 08 - [Dyson loses fight for $198M compensation over EU energy labelling rules](https://www.reuters.com/business/dyson-loses-fight-198-mln-compensation-over-eu-energy-labelling-rules-2021-12-08/)
+- Dec 08 - [Groups Never Admit Failure](https://nav.al/failure)
 <!--END_SECTION:hn-->
 
 <!--
