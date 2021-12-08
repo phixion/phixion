@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 08 - [Release (YC W20) Is Hiring – Senior Back End Engineer](https://www.ycombinator.com/companies/release/jobs/Co0LgYqSQ-senior-fullstack-engineer-backend-focus-rails-react-aws-k8s)
-- Dec 08 - [20 year study of global wealth demolishes the myth of ‘trickle-down’](https://www.businessinsider.com/how-bad-is-inequality-trickle-down-economics-thomas-piketty-economists-2021-12)
-- Dec 08 - [Telegram Introduces DRM](https://telegram.org/blog/protected-content-delete-by-date-and-more)
-- Dec 08 - [The Serverless Shell](https://github.com/crucial-project/serverless-shell)
-- Dec 08 - [Ask HN: Anyone else getting a 500 on their Google Calendars?](https://news.ycombinator.com/item?id=29482573)
+- Dec 08 - [The Microsoft paradox: Contributing to cyber threats and monetizing the cure](https://fortune.com/2021/12/06/microsoft-paradox-cybersecurity-solarwinds-exchange-national/)
+- Dec 08 - [Renault Zoe NCAP crash rating: zero stars [pdf]](https://cdn.euroncap.com/media/66976/euroncap-2021-renault-zoe-datasheet.pdf)
+- Dec 08 - [Do you ever avoid submitting something on HN so devs won't ruin it?](https://news.ycombinator.com/item?id=29485904)
+- Dec 08 - [Mu: A Human-Scale Computer](https://github.com/akkartik/mu)
+- Dec 08 - [Detailed Report on Local Privilege Escalation in Ubuntu Desktop (Pwn2Own 2021)](https://flatt.tech/reports/210401_pwn2own/)
 <!--END_SECTION:hn-->
 
 <!--
