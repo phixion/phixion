@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 07 - [Redesigned Notepad for Windows 11](https://blogs.windows.com/windows-insider/2021/12/07/redesigned-notepad-for-windows-11-begins-rolling-out-to-windows-insiders/)
-- Dec 07 - [Rockstar: A programming language for hard rock metal fans](https://codewithrockstar.com/)
-- Dec 07 - [Disrupting the Glupteba Operation](https://blog.google/threat-analysis-group/disrupting-glupteba-operation/)
-- Dec 07 - [Vectorizing Ragged Arrays](https://vladfeinberg.com/2021/01/07/vectorizing-ragged-arrays.html)
-- Dec 07 - [Over 200 newspapers now involved in lawsuits vs. Google, Facebook](https://www.axios.com/1-local-newspapers-lawsuits-facebook-google-3c3dee3a-cce3-49ef-b0a2-7a98c2e15c91.html)
+- Dec 07 - [Show HN: P2P remote desktop – an alternative to TeamViewer / AnyDesk](https://github.com/miroslavpejic85/p2p)
+- Dec 07 - [Show HN: git-history, for analyzing scraped data collected using Git and SQLite](https://simonwillison.net/2021/Dec/7/git-history/)
+- Dec 07 - [Open Dynamic Robot Initiative (2020)](https://open-dynamic-robot-initiative.github.io/)
+- Dec 07 - [New data: What developers look for in future job opportunities](https://stackoverflow.blog/2021/12/07/new-data-what-developers-look-for-in-future-job-opportunities/)
+- Dec 07 - [You Can't Buy Integration](https://martinfowler.com/articles/cant-buy-integration.html)
 <!--END_SECTION:hn-->
 
 <!--
