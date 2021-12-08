@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 08 - [Beginner's Guide to the Flow Notes Method](https://www.routine.co/post/flow-notes)
-- Dec 08 - [DeepMind's Player of Games, a general-purpose game algorithm](https://arxiv.org/abs/2112.03178)
-- Dec 08 - [Portable and Interoperable Async Rust](https://www.ncameron.org/blog/portable-and-interoperable-async-rust/)
-- Dec 08 - [My First 5 Minutes on a Server; Or, Essential Security for Linux Servers (2013)](https://sollove.com/2013/03/03/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers/)
-- Dec 08 - [Psychedelics alter metaphysical beliefs](https://www.nature.com/articles/s41598-021-01209-2)
+- Dec 08 - [Release (YC W20) Is Hiring – Senior Back End Engineer](https://www.ycombinator.com/companies/release/jobs/Co0LgYqSQ-senior-fullstack-engineer-backend-focus-rails-react-aws-k8s)
+- Dec 08 - [20 year study of global wealth demolishes the myth of ‘trickle-down’](https://www.businessinsider.com/how-bad-is-inequality-trickle-down-economics-thomas-piketty-economists-2021-12)
+- Dec 08 - [Telegram Introduces DRM](https://telegram.org/blog/protected-content-delete-by-date-and-more)
+- Dec 08 - [The Serverless Shell](https://github.com/crucial-project/serverless-shell)
+- Dec 08 - [Ask HN: Anyone else getting a 500 on their Google Calendars?](https://news.ycombinator.com/item?id=29482573)
 <!--END_SECTION:hn-->
 
 <!--
