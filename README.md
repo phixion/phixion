@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 09 - [Parallel Logic Programming: A Sequel](https://arxiv.org/abs/2111.11218)
-- Dec 09 - [New Zealand plans to make it illegal for kids to buy cigarettes – for life](https://www.cbc.ca/news/world/new-zealand-smoking-illegal-for-kids-1.6279023)
-- Dec 09 - [The final, anguished years of a warrior-scholar who exposed torture by US troops](https://www.npr.org/2021/12/02/1060884859/the-final-anguished-years-of-a-warrior-scholar-who-exposed-torture-by-u-s-troops)
-- Dec 09 - [FBI may shut down police use-of-force database due to lack of police involvement](https://www.washingtonpost.com/crime-law/2021/12/09/fbi-police-shooting-data/)
-- Dec 09 - [Mathematicians Transcend Geometric Theory of Motion](https://www.quantamagazine.org/mathematicians-transcend-geometric-theory-of-motion-20211209/)
+- Dec 09 - [IPv4 Waiting List](https://www.ripe.net/manage-ips-and-asns/ipv4/ipv4-waiting-list)
+- Dec 09 - [A molten salt storage solution using sodium hydroxide](https://sifted.eu/articles/salt-energy-storage-seaborg-hyme/)
+- Dec 09 - [Toxicity Dataset](https://github.com/surge-ai/toxicity)
+- Dec 09 - [Using deep learning to predict the olfactory properties of molecules (2019)](https://ai.googleblog.com/2019/10/learning-to-smell-using-deep-learning.html)
+- Dec 09 - [Tailwind CSS v3.0](https://tailwindcss.com/blog/tailwindcss-v3)
 <!--END_SECTION:hn-->
 
 <!--
