@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 09 - [The Muse (YC W12) Is Hiring Senior Engineers](https://www.themuse.com/jobs/themuse/senior-site-reliability-engineer-d0ced3)
-- Dec 09 - [Evergrande has defaulted on its debt](https://www.cnn.com/2021/12/09/investing/evergrande-default-fitch-intl-hnk/index.html)
-- Dec 09 - [Artificial Intelligence in the Cockpit](https://daedalean.ai/tpost/edft5l2a31-artificial-intelligence-in-the-cockpit-s)
-- Dec 09 - [Italy fines Amazon record $1.3B for abuse of market dominance](https://www.reuters.com/technology/italys-antitrust-fines-amazon-113-bln-euros-alleged-abuse-market-dominance-2021-12-09/)
-- Dec 09 - [Number of journalists in jail reaches global high](https://cpj.org/reports/2021/12/number-of-journalists-behind-bars-reaches-global-high/)
+- Dec 09 - [Parallel Logic Programming: A Sequel](https://arxiv.org/abs/2111.11218)
+- Dec 09 - [New Zealand plans to make it illegal for kids to buy cigarettes – for life](https://www.cbc.ca/news/world/new-zealand-smoking-illegal-for-kids-1.6279023)
+- Dec 09 - [The final, anguished years of a warrior-scholar who exposed torture by US troops](https://www.npr.org/2021/12/02/1060884859/the-final-anguished-years-of-a-warrior-scholar-who-exposed-torture-by-u-s-troops)
+- Dec 09 - [FBI may shut down police use-of-force database due to lack of police involvement](https://www.washingtonpost.com/crime-law/2021/12/09/fbi-police-shooting-data/)
+- Dec 09 - [Mathematicians Transcend Geometric Theory of Motion](https://www.quantamagazine.org/mathematicians-transcend-geometric-theory-of-motion-20211209/)
 <!--END_SECTION:hn-->
 
 <!--
