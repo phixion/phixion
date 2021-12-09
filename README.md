@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 08 - [Writing a register based VM in less than 125 lines of C code](https://www.andreinc.net/2021/12/01/writing-a-simple-vm-in-less-than-125-lines-of-c)
-- Dec 08 - [An update on 0day CVE-2021-43798: Grafana directory traversal](https://grafana.com/blog/2021/12/08/an-update-on-0day-cve-2021-43798-grafana-directory-traversal/)
-- Dec 08 - [Why I stopped releasing EasyOS as an ISO file](https://bkhome.org/news/202112/why-iso-was-retired.html)
-- Dec 08 - [Apple Open Source](https://opensource.apple.com/)
-- Dec 08 - [CareRev (YC S16) is hiring iOS developers to unite people in healthcare](https://grnh.se/ad461ea33us)
+- Dec 09 - [Monoio – A thread-per-core Rust async runtime with io_uring](https://github.com/bytedance/monoio)
+- Dec 09 - [Does Georgism work? Is land a big deal?](https://astralcodexten.substack.com/p/does-georgism-work-is-land-really)
+- Dec 09 - [Pixel prevented me from calling 911](https://old.reddit.com/r/GooglePixel/comments/r4xz1f/pixel_prevented_me_from_calling_911/)
+- Dec 09 - [Web3 Is Not Decentralization](https://invisibleup.com/articles/38/)
+- Dec 09 - [Ask HN: Does the Easel programming language still exist?](https://news.ycombinator.com/item?id=29492255)
 <!--END_SECTION:hn-->
 
 <!--
