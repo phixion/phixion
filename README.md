@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 09 - [Taktile (YC S20) Is Hiring Senior Front End Engineer (Remote in Europe)](https://www.ycombinator.com/companies/taktile/jobs/3zSNBYP-senior-frontend-developer-f-m-d)
-- Dec 09 - [Two lines of CSS that will improve HN on mobile (IMO)](https://tdinh.notion.site/The-2-lines-of-CSS-that-will-improve-HN-on-mobile-cc7521e476ae487180e94e8dd4275c80)
-- Dec 09 - [Dracula Theme: a dark theme for 227 different apps](https://draculatheme.com)
-- Dec 09 - [Jam – Self-Hosted Clubhouse](https://github.com/jam-systems/jam)
-- Dec 09 - [Monoio – A thread-per-core Rust async runtime with io_uring](https://github.com/bytedance/monoio)
+- Dec 09 - [The Muse (YC W12) Is Hiring Senior Engineers](https://www.themuse.com/jobs/themuse/senior-site-reliability-engineer-d0ced3)
+- Dec 09 - [Evergrande has defaulted on its debt](https://www.cnn.com/2021/12/09/investing/evergrande-default-fitch-intl-hnk/index.html)
+- Dec 09 - [Artificial Intelligence in the Cockpit](https://daedalean.ai/tpost/edft5l2a31-artificial-intelligence-in-the-cockpit-s)
+- Dec 09 - [Italy fines Amazon record $1.3B for abuse of market dominance](https://www.reuters.com/technology/italys-antitrust-fines-amazon-113-bln-euros-alleged-abuse-market-dominance-2021-12-09/)
+- Dec 09 - [Number of journalists in jail reaches global high](https://cpj.org/reports/2021/12/number-of-journalists-behind-bars-reaches-global-high/)
 <!--END_SECTION:hn-->
 
 <!--
