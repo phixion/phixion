@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 09 - [Taktile (YC S20) Is Hiring Senior Front End Engineer (Remote in Europe)](https://www.ycombinator.com/companies/taktile/jobs/3zSNBYP-senior-frontend-developer-f-m-d)
+- Dec 09 - [Two lines of CSS that will improve HN on mobile (IMO)](https://tdinh.notion.site/The-2-lines-of-CSS-that-will-improve-HN-on-mobile-cc7521e476ae487180e94e8dd4275c80)
+- Dec 09 - [Dracula Theme: a dark theme for 227 different apps](https://draculatheme.com)
+- Dec 09 - [Jam – Self-Hosted Clubhouse](https://github.com/jam-systems/jam)
 - Dec 09 - [Monoio – A thread-per-core Rust async runtime with io_uring](https://github.com/bytedance/monoio)
-- Dec 09 - [Does Georgism work? Is land a big deal?](https://astralcodexten.substack.com/p/does-georgism-work-is-land-really)
-- Dec 09 - [Pixel prevented me from calling 911](https://old.reddit.com/r/GooglePixel/comments/r4xz1f/pixel_prevented_me_from_calling_911/)
-- Dec 09 - [Web3 Is Not Decentralization](https://invisibleup.com/articles/38/)
-- Dec 09 - [Ask HN: Does the Easel programming language still exist?](https://news.ycombinator.com/item?id=29492255)
 <!--END_SECTION:hn-->
 
 <!--
