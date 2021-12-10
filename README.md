@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 10 - [Jupiter (YC S19) Is Hiring a Senior Front End Engineer](https://www.notion.so/jupiterhome/Welcome-to-Jupiter-bebe2a3a69e348f995dbd1e7b89bcba8?p=694792097eb843d096a5aee95a67bb18)
-- Dec 10 - [Julian Assange can be extradited to the US, court rules](https://www.bbc.com/news/uk-59608641)
-- Dec 10 - [The Matrix Awakens: Unreal Engine 5 Techdemo [video]](https://www.youtube.com/watch?v=WU0gvPcc3jQ)
-- Dec 10 - [Turning a MacBook into a Touchscreen with $1 of Hardware (2018)](https://www.anishathalye.com/2018/04/03/macbook-touchscreen/)
-- Dec 10 - [With Stuart Russell, UCBerkeley Kavli Centers on Ethics, Engagement in Science](https://news.berkeley.edu/2021/12/09/new-kavli-center-at-uc-berkeley-to-foster-ethics-engagement-in-science/)
+- Dec 10 - [Advanced NLP with SpaCy v3](https://course.spacy.io/en/)
+- Dec 10 - [Code to flood Kellogg with bogus job applications after strikers sacked](https://www.businessinsider.com/tiktoker-wrote-code-spam-kellogg-strike-busting-job-ad-site-2021-12)
+- Dec 10 - [NCC Group’s Cryptopals Guided Tour](https://research.nccgroup.com/2021/12/10/announcing-ncc-groups-cryptopals-guided-tour/)
+- Dec 10 - [Mount Athos, the “Autonomous Monastic State” of Greece (2016)](https://www.cntraveler.com/stories/2016-04-18/on-greece-mount-athos-no-women-allowed)
+- Dec 10 - [Quaternions](https://liorsinai.github.io/mathematics/2021/11/05/quaternion-1-intro.html)
 <!--END_SECTION:hn-->
 
 <!--
