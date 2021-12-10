@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 10 - [Advanced NLP with SpaCy v3](https://course.spacy.io/en/)
-- Dec 10 - [Code to flood Kellogg with bogus job applications after strikers sacked](https://www.businessinsider.com/tiktoker-wrote-code-spam-kellogg-strike-busting-job-ad-site-2021-12)
-- Dec 10 - [NCC Group’s Cryptopals Guided Tour](https://research.nccgroup.com/2021/12/10/announcing-ncc-groups-cryptopals-guided-tour/)
-- Dec 10 - [Mount Athos, the “Autonomous Monastic State” of Greece (2016)](https://www.cntraveler.com/stories/2016-04-18/on-greece-mount-athos-no-women-allowed)
-- Dec 10 - [Quaternions](https://liorsinai.github.io/mathematics/2021/11/05/quaternion-1-intro.html)
+- Dec 10 - [DeepMind’s AI helps untangle the mathematics of knots](https://www.nature.com/articles/d41586-021-03593-1)
+- Dec 10 - [Imagor is a fast, Docker-ready image processing server written in Go](https://github.com/cshum/imagor)
+- Dec 10 - [Oracle Giving Away 4-Core 24 GB Memory Ampere Instances](https://www.servethehome.com/oracle-cloud-giving-away-ampere-arm-a1-instances-always-free/)
+- Dec 10 - [Interview with Anders Hejlsberg on Delphi (1995)](https://www.theopenforce.com/2020/02/anders-hejlsberg-delphi-1995.html)
+- Dec 10 - [Show HN: Decentralized, Mutable, Serverless Torrent Swarm Websites](https://github.com/publiusfederalist/federalist)
 <!--END_SECTION:hn-->
 
 <!--
