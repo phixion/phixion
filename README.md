@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 09 - [IPv4 Waiting List](https://www.ripe.net/manage-ips-and-asns/ipv4/ipv4-waiting-list)
-- Dec 09 - [A molten salt storage solution using sodium hydroxide](https://sifted.eu/articles/salt-energy-storage-seaborg-hyme/)
-- Dec 09 - [Toxicity Dataset](https://github.com/surge-ai/toxicity)
-- Dec 09 - [Using deep learning to predict the olfactory properties of molecules (2019)](https://ai.googleblog.com/2019/10/learning-to-smell-using-deep-learning.html)
-- Dec 09 - [Tailwind CSS v3.0](https://tailwindcss.com/blog/tailwindcss-v3)
+- Dec 09 - [Log4j RCE Found](https://github.com/apache/logging-log4j2/pull/608)
+- Dec 09 - [How Do You Fix a Stroad](https://www.strongtowns.org/journal/2021/12/2/how-do-you-actually-fix-a-stroad)
+- Dec 09 - [Faster Gitlab CI/CD pipelines](https://blog.nimbleways.com/let-s-make-faster-gitlab-ci-cd-pipelines/)
+- Dec 09 - [Replit (YC W18) Is Hiring](https://replit.com/site/careers)
+- Dec 09 - [PDM: A Modern Python Package Manager](https://pdm.fming.dev/)
 <!--END_SECTION:hn-->
 
 <!--
