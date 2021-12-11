@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 11 - [Ask HN: Own .com for 7 years, a new company trademarked my name registered .NET](https://news.ycombinator.com/item?id=29521714)
-- Dec 11 - [I didn't say that. In fact, no one seems to have, according to Google](https://twitter.com/paulg/status/1469256270150520836)
-- Dec 11 - [PDP-11 Booting](https://trmm.net/PDP-11/Booting/)
-- Dec 11 - [Blizzard executive asks employees to “consider the consequences” of union card](https://twitter.com/charlieintel/status/1469361004056387584)
-- Dec 11 - [Excel World Championship Finals](https://www.youtube.com/watch?v=NSU11kxxJvc)
+- Dec 11 - [Crows are self-aware just like us, says new study (2020)](https://bigthink.com/neuropsych/crows-higher-intelligence/)
+- Dec 11 - [Log4j: Between a Rock and a Hard Place](https://crawshaw.io/blog/log4j)
+- Dec 11 - [Professional maintainers: a wake-up call](https://blog.filippo.io/professional-maintainers/)
+- Dec 11 - [Advent of Code 2021 in pure TensorFlow – day 1](https://pgaleone.eu/tensorflow/2021/12/11/advent-of-code-tensorflow/)
+- Dec 11 - [“Open Source” Is Broken](https://christine.website/blog/open-source-broken-2021-12-11)
 <!--END_SECTION:hn-->
 
 <!--
