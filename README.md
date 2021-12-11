@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 11 - [E-Shotgun](https://e-shotgun.com/)
-- Dec 11 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
-- Dec 11 - [Jndi: An irresponsibly bad logging library](https://github.com/bradfitz/jndi)
-- Dec 11 - [Magnus Carlsen retains title after winning lopsided match](https://en.chessbase.com/post/world-championship-2021-g11)
-- Dec 11 - [Mercedes-Benz wins approval for Level 3 autonomous driving on the Autobahn](https://www.ttnews.com/articles/mercedes-beats-tesla-hands-free-driving-autobahn)
+- Dec 11 - [BuildZoom (better way to build/remodel) is hiring a head of marketing](https://jobs.lever.co/buildzoom)
+- Dec 11 - [To secure the supply chain, you must properly fund it](https://ariadne.space/2021/12/11/to-secure-the-supply-chain-you-must-properly-fund-it/)
+- Dec 11 - [Ask HN: Best way to prepare a codebase for open-source?](https://news.ycombinator.com/item?id=29519754)
+- Dec 11 - [What happens to developers who never go into management?](https://www.wbscodingschool.com/what-happens-devs-never-management/)
+- Dec 11 - [Show HN: Randomize HTML content to test your defensive CSS](https://cleartax.github.io/html-mocker/)
 <!--END_SECTION:hn-->
 
 <!--
