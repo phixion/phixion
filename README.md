@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 10 - [DeepMind’s AI helps untangle the mathematics of knots](https://www.nature.com/articles/d41586-021-03593-1)
-- Dec 10 - [Imagor is a fast, Docker-ready image processing server written in Go](https://github.com/cshum/imagor)
-- Dec 10 - [Oracle Giving Away 4-Core 24 GB Memory Ampere Instances](https://www.servethehome.com/oracle-cloud-giving-away-ampere-arm-a1-instances-always-free/)
-- Dec 10 - [Interview with Anders Hejlsberg on Delphi (1995)](https://www.theopenforce.com/2020/02/anders-hejlsberg-delphi-1995.html)
-- Dec 10 - [Show HN: Decentralized, Mutable, Serverless Torrent Swarm Websites](https://github.com/publiusfederalist/federalist)
+- Dec 11 - [The Strange, Unfinished Saga of Cyberpunk 2077](https://www.newyorker.com/tech/annals-of-technology/the-strange-unfinished-saga-of-cyberpunk-2077)
+- Dec 10 - [Summary of the AWS Service Event in the Northern Virginia (US-East-1) Region](https://aws.amazon.com/message/12721/)
+- Dec 10 - [Kropotkin escapes from prison](https://crimethinc.com/2021/12/09/june-30-1876-peter-kropotkin-escapes-from-prison-a-tale-of-derring-do-on-the-occasion-of-his-birthday)
+- Dec 10 - [An 8-bit minicomputer with a fully custom architecture](https://github.com/jdah/jdh-8)
+- Dec 10 - [Sleep technique used by Salvador Dalí works](https://www.livescience.com/little-known-sleep-stage-may-be-creative-sweet-spot)
 <!--END_SECTION:hn-->
 
 <!--
