@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 11 - [The Strange, Unfinished Saga of Cyberpunk 2077](https://www.newyorker.com/tech/annals-of-technology/the-strange-unfinished-saga-of-cyberpunk-2077)
-- Dec 10 - [Summary of the AWS Service Event in the Northern Virginia (US-East-1) Region](https://aws.amazon.com/message/12721/)
-- Dec 10 - [Kropotkin escapes from prison](https://crimethinc.com/2021/12/09/june-30-1876-peter-kropotkin-escapes-from-prison-a-tale-of-derring-do-on-the-occasion-of-his-birthday)
-- Dec 10 - [An 8-bit minicomputer with a fully custom architecture](https://github.com/jdah/jdh-8)
-- Dec 10 - [Sleep technique used by Salvador Dalí works](https://www.livescience.com/little-known-sleep-stage-may-be-creative-sweet-spot)
+- Dec 11 - [DangerousThings Biohacking Forum](https://forum.dangerousthings.com/)
+- Dec 11 - [Magnus Carlsen retains title after winning lopsided match](https://en.chessbase.com/post/world-championship-2021-g11)
+- Dec 11 - [Mercedes-Benz wins approval for Level 3 autonomous driving on the Autobahn](https://www.ttnews.com/articles/mercedes-beats-tesla-hands-free-driving-autobahn)
+- Dec 11 - [Ten years of experience, still failing phone screens](https://kevin.burke.dev/kevin/phone-screens-broken/)
+- Dec 11 - [Why does Minnesota sometimes get colder than the North Pole?](https://www.startribune.com/minnesota-winter-weather-temperature-cold-north-pole/600114153/)
 <!--END_SECTION:hn-->
 
 <!--
