@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 11 - [DangerousThings Biohacking Forum](https://forum.dangerousthings.com/)
+- Dec 11 - [E-Shotgun](https://e-shotgun.com/)
+- Dec 11 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
+- Dec 11 - [Jndi: An irresponsibly bad logging library](https://github.com/bradfitz/jndi)
 - Dec 11 - [Magnus Carlsen retains title after winning lopsided match](https://en.chessbase.com/post/world-championship-2021-g11)
 - Dec 11 - [Mercedes-Benz wins approval for Level 3 autonomous driving on the Autobahn](https://www.ttnews.com/articles/mercedes-beats-tesla-hands-free-driving-autobahn)
-- Dec 11 - [Ten years of experience, still failing phone screens](https://kevin.burke.dev/kevin/phone-screens-broken/)
-- Dec 11 - [Why does Minnesota sometimes get colder than the North Pole?](https://www.startribune.com/minnesota-winter-weather-temperature-cold-north-pole/600114153/)
 <!--END_SECTION:hn-->
 
 <!--
