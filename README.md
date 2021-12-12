@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 12 - [CISA Director on Log4j Vulnerability](https://www.cisa.gov/news/2021/12/11/statement-cisa-director-easterly-log4j-vulnerability)
-- Dec 12 - [Building the atomic clock I’ve always wanted](https://www.dzombak.com/blog/2021/12/Building-the-atomic-clock-I-ve-always-wanted.html)
-- Dec 12 - [More Efficient In-Context Learning with GLaM](https://ai.googleblog.com/2021/12/more-efficient-in-context-learning-with.html)
-- Dec 12 - [Apple’s Newest OLED Supplier](https://asianometry.substack.com/p/boe-technology-apples-next-oled-supplier)
-- Dec 11 - [We check our node_modules folder into source control](https://www.jackfranklin.co.uk/blog/check-in-your-node-dependencies/)
+- Dec 12 - [Indian Prime Minister Narendra Modi’s Twitter Account Gets Hacked](https://www.bloombergquint.com/technology/indian-prime-minister-narendra-modis-twitter-account-gets-hacked)
+- Dec 12 - [In 2021, 4.9B people (63% of the world’s population) were using the Internet](https://www.itu.int/itu-d/reports/statistics/2021/11/15/internet-use/)
+- Dec 12 - [The Great British Reading List](https://longreads.com/2021/11/11/the-great-british-reading-list/)
+- Dec 12 - [The Internet Has a Rat Poison Problem](https://www.audubon.org/magazine/winter-2021/the-internet-has-rat-poison-problem)
+- Dec 12 - [Arkham Quixote (2020)](https://sherief.fyi/post/arkham-quixote/)
 <!--END_SECTION:hn-->
 
 <!--
