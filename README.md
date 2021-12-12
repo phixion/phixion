@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 12 - [CISA Director on Log4j Vulnerability](https://www.cisa.gov/news/2021/12/11/statement-cisa-director-easterly-log4j-vulnerability)
+- Dec 12 - [Building the atomic clock I’ve always wanted](https://www.dzombak.com/blog/2021/12/Building-the-atomic-clock-I-ve-always-wanted.html)
+- Dec 12 - [More Efficient In-Context Learning with GLaM](https://ai.googleblog.com/2021/12/more-efficient-in-context-learning-with.html)
 - Dec 12 - [Apple’s Newest OLED Supplier](https://asianometry.substack.com/p/boe-technology-apples-next-oled-supplier)
-- Dec 11 - [Why you should check-in your node dependencies](https://www.jackfranklin.co.uk/blog/check-in-your-node-dependencies/)
-- Dec 11 - [Six Amazon workers killed after tornadoes reduce warehouse near St. Louis](https://www.reuters.com/world/us/injuries-reported-after-roof-collapse-amazon-warehouse-illinois-ap-2021-12-11/)
-- Dec 11 - [A Future Without Manipulation](https://afuturewithoutmanipulation.eu/)
-- Dec 11 - [San Francisco’s vaunted tolerance dims amid brazen crimes](https://apnews.com/article/coronavirus-pandemic-sports-business-health-lifestyle-538efc664e9da0d2f0831f3f3ed9a4d7)
+- Dec 11 - [We check our node_modules folder into source control](https://www.jackfranklin.co.uk/blog/check-in-your-node-dependencies/)
 <!--END_SECTION:hn-->
 
 <!--
