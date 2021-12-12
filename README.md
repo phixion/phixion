@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 11 - [Crows are self-aware just like us, says new study (2020)](https://bigthink.com/neuropsych/crows-higher-intelligence/)
-- Dec 11 - [Log4j: Between a Rock and a Hard Place](https://crawshaw.io/blog/log4j)
-- Dec 11 - [Professional maintainers: a wake-up call](https://blog.filippo.io/professional-maintainers/)
-- Dec 11 - [Advent of Code 2021 in pure TensorFlow – day 1](https://pgaleone.eu/tensorflow/2021/12/11/advent-of-code-tensorflow/)
-- Dec 11 - [“Open Source” Is Broken](https://christine.website/blog/open-source-broken-2021-12-11)
+- Dec 12 - [Apple’s Newest OLED Supplier](https://asianometry.substack.com/p/boe-technology-apples-next-oled-supplier)
+- Dec 11 - [Why you should check-in your node dependencies](https://www.jackfranklin.co.uk/blog/check-in-your-node-dependencies/)
+- Dec 11 - [Six Amazon workers killed after tornadoes reduce warehouse near St. Louis](https://www.reuters.com/world/us/injuries-reported-after-roof-collapse-amazon-warehouse-illinois-ap-2021-12-11/)
+- Dec 11 - [A Future Without Manipulation](https://afuturewithoutmanipulation.eu/)
+- Dec 11 - [San Francisco’s vaunted tolerance dims amid brazen crimes](https://apnews.com/article/coronavirus-pandemic-sports-business-health-lifestyle-538efc664e9da0d2f0831f3f3ed9a4d7)
 <!--END_SECTION:hn-->
 
 <!--
