@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 12 - [Indian Prime Minister Narendra Modi’s Twitter Account Gets Hacked](https://www.bloombergquint.com/technology/indian-prime-minister-narendra-modis-twitter-account-gets-hacked)
-- Dec 12 - [In 2021, 4.9B people (63% of the world’s population) were using the Internet](https://www.itu.int/itu-d/reports/statistics/2021/11/15/internet-use/)
-- Dec 12 - [The Great British Reading List](https://longreads.com/2021/11/11/the-great-british-reading-list/)
-- Dec 12 - [The Internet Has a Rat Poison Problem](https://www.audubon.org/magazine/winter-2021/the-internet-has-rat-poison-problem)
-- Dec 12 - [Arkham Quixote (2020)](https://sherief.fyi/post/arkham-quixote/)
+- Dec 12 - [AtoB (YC S20) is building Stripe for Transportation and hiring early team members](https://careers.atob.com/)
+- Dec 12 - [Coinbase founder co-founds longevity company](https://blog.newlimit.com/p/announcing-newlimit-a-company-built)
+- Dec 12 - [Why the demographic transition is speeding up](https://www.economist.com/finance-and-economics/2021/12/11/why-the-demographic-transition-is-speeding-up)
+- Dec 12 - [As an investor, why is crypto so hard to value?](https://fundamentalinvestor.substack.com/p/as-an-investor-why-is-crypto-so-hard)
+- Dec 12 - [NASA Ogma: generate hard-realtime C runtime monitoring applications](https://github.com/nasa/ogma)
 <!--END_SECTION:hn-->
 
 <!--
