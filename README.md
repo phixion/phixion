@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 12 - [Dive into Ethereum signatures with Raku language](https://raku-advent.blog/2021/12/12/a-long-journey-to-ethereum-signatures/)
-- Dec 12 - [Sending SMS Messages Through the ISS](https://www.kj7nzl.net/blog/sending-sms-messages-through-iss/)
-- Dec 12 - [What would be your choice for setting up a new SaaS project for 2022?](https://news.ycombinator.com/item?id=29530391)
-- Dec 12 - [For Americans Shocked by Inflation, Argentines Have Some Advice](https://www.bloomberg.com/news/articles/2021-12-11/the-inflation-pros-from-argentina-offer-tips-for-rattled-americans)
-- Dec 12 - [Decred proposal: Change PoW/PoS Subsidy Split From 60/30 to 10/80](https://proposals.decred.org/record/427e1d4)
+- Dec 12 - [Show HN: Yearly Faves – showcase your fave books and support indie bookshops](https://www.yearly-faves.com/)
+- Dec 12 - [Ask HN: Is there a place on HN for interesting yet flame-war inducing topics?](https://news.ycombinator.com/item?id=29532676)
+- Dec 12 - [Drop-In Replacement for Memcached](https://www.memc.rs)
+- Dec 12 - [Riot may run programs in the background on your PC when not using the service](https://www.riotgames.com/en/terms-of-service)
+- Dec 12 - [Tacit knowledge is more important than deliberate practice](https://commoncog.com/blog/tacit-knowledge-is-a-real-thing/)
 <!--END_SECTION:hn-->
 
 <!--
