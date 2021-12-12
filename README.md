@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 12 - [AtoB (YC S20) is building Stripe for Transportation and hiring early team members](https://careers.atob.com/)
-- Dec 12 - [Coinbase founder co-founds longevity company](https://blog.newlimit.com/p/announcing-newlimit-a-company-built)
-- Dec 12 - [Why the demographic transition is speeding up](https://www.economist.com/finance-and-economics/2021/12/11/why-the-demographic-transition-is-speeding-up)
-- Dec 12 - [As an investor, why is crypto so hard to value?](https://fundamentalinvestor.substack.com/p/as-an-investor-why-is-crypto-so-hard)
-- Dec 12 - [NASA Ogma: generate hard-realtime C runtime monitoring applications](https://github.com/nasa/ogma)
+- Dec 12 - [Dive into Ethereum signatures with Raku language](https://raku-advent.blog/2021/12/12/a-long-journey-to-ethereum-signatures/)
+- Dec 12 - [Sending SMS Messages Through the ISS](https://www.kj7nzl.net/blog/sending-sms-messages-through-iss/)
+- Dec 12 - [What would be your choice for setting up a new SaaS project for 2022?](https://news.ycombinator.com/item?id=29530391)
+- Dec 12 - [For Americans Shocked by Inflation, Argentines Have Some Advice](https://www.bloomberg.com/news/articles/2021-12-11/the-inflation-pros-from-argentina-offer-tips-for-rattled-americans)
+- Dec 12 - [Decred proposal: Change PoW/PoS Subsidy Split From 60/30 to 10/80](https://proposals.decred.org/record/427e1d4)
 <!--END_SECTION:hn-->
 
 <!--
