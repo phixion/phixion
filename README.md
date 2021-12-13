@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 12 - [Show HN: Yearly Faves – showcase your fave books and support indie bookshops](https://www.yearly-faves.com/)
-- Dec 12 - [Ask HN: Is there a place on HN for interesting yet flame-war inducing topics?](https://news.ycombinator.com/item?id=29532676)
-- Dec 12 - [Drop-In Replacement for Memcached](https://www.memc.rs)
-- Dec 12 - [Riot may run programs in the background on your PC when not using the service](https://www.riotgames.com/en/terms-of-service)
-- Dec 12 - [Tacit knowledge is more important than deliberate practice](https://commoncog.com/blog/tacit-knowledge-is-a-real-thing/)
+- Dec 12 - [Former BuzzFeed Employees Missed Their Big Payday](https://www.newyorker.com/news/annals-of-communications/how-former-buzzfeed-employees-missed-their-big-payday)
+- Dec 12 - [Directory Opus is a complete replacement for Explorer](https://www.gpsoft.com.au/)
+- Dec 12 - [Predict civilization collapse with Python and World3 model](https://github.com/cvanwynsberghe/pyworld3)
+- Dec 12 - [Chemical emitted by babies could make men more docile, women more aggressive](https://www.science.org/content/article/chemical-emitted-babies-could-make-men-more-docile-women-more-aggressive)
+- Dec 12 - [Show HN: FileFlows – file processing Docker application](https://fileflows.com)
 <!--END_SECTION:hn-->
 
 <!--
