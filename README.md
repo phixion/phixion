@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 13 - [Étoilé on Gnustep](http://etoileos.com/etoile/)
-- Dec 13 - [GitHub taking down tools allowing defenders to reproduce the Log4j vulnerability](https://twitter.com/christophetd/status/1470287687265529861)
-- Dec 13 - [GNUstep: Open-source, Object-oriented, Cross-platform Development Environment](http://gnustep.org)
-- Dec 13 - [Enhance your dev detective powers with Sourcegraph](https://esteetey.dev/be-a-dev-detective-with-sourcegraph)
-- Dec 13 - [Weird: Generative Art in Common Lisp](https://github.com/inconvergent/weird)
+- Dec 13 - [Convictional (YC W19) is hiring engineers to build the future of B2B trade-Remote](https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3)
+- Dec 13 - [Vivaldi: Violating CoC on forum may close your email account](https://vivaldi.com/privacy/code-of-conduct/)
+- Dec 13 - [Deno Joins TC39](https://deno.com/blog/deno-joins-tc39)
+- Dec 13 - [Borderless Media Consumption: Geoblocking Reform](https://www.fuen.org/en/article/Borderless-Media-Consumption-Geoblocking-reform-FUEN-sits-at-the-table-with-film-and-TV-industry)
+- Dec 13 - [Marketing is scary for a solo developer](https://raumet.com/marketing)
 <!--END_SECTION:hn-->
 
 <!--
