@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 13 - [Kentucky candle factory: questions arise over why staff worked during tornadoes](https://www.theguardian.com/us-news/2021/dec/13/kentucky-tornadoes-candle-factory-search-survivors)
-- Dec 13 - [Hydrogen Is Not a Fuel, It’s a Cult](https://www.forbes.com/sites/jamesmorris/2021/12/11/hydrogen-is-not-a-fuel-its-a-cult/)
-- Dec 13 - [Reimagining projections for the interactive maps era](https://www.mapbox.com/blog/adaptive-projections)
-- Dec 13 - [Researchers find a treatable indicator of blood clotting in Covid patients](https://engineering.virginia.edu/news/2021/12/new-technology-could-help-doctors-improve-covid-19-patient-outcomes)
-- Dec 13 - [Framer Motion 3D](https://www.framer.com/docs/three-introduction/)
+- Dec 13 - [Kintsugi – The art of repair to make broken things better than before](https://traditionalkyoto.com/culture/kintsugi/)
+- Dec 13 - [SQLite – The Session Extension](https://www.sqlite.org/sessionintro.html)
+- Dec 13 - [Toyota owners have to pay $8/mo to keep using their key fob for remote start](https://arstechnica.com/cars/2021/12/toyota-owners-have-to-pay-8-mo-to-keep-using-their-key-fob-for-remote-start/)
+- Dec 13 - [Optimizing the kernel to saturate a 100Gbps link (2017)](https://netflixtechblog.com/serving-100-gbps-from-an-open-connect-appliance-cdb51dda3b99?gi=7c9e72ecd546)
+- Dec 13 - [NeXTSpirit, high-res NeXTSTEP Icons for macOS](http://galgot.free.fr/wordpress/?p=1380)
 <!--END_SECTION:hn-->
 
 <!--
