@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 12 - [Former BuzzFeed Employees Missed Their Big Payday](https://www.newyorker.com/news/annals-of-communications/how-former-buzzfeed-employees-missed-their-big-payday)
-- Dec 12 - [Directory Opus is a complete replacement for Explorer](https://www.gpsoft.com.au/)
-- Dec 12 - [Predict civilization collapse with Python and World3 model](https://github.com/cvanwynsberghe/pyworld3)
-- Dec 12 - [Chemical emitted by babies could make men more docile, women more aggressive](https://www.science.org/content/article/chemical-emitted-babies-could-make-men-more-docile-women-more-aggressive)
-- Dec 12 - [Show HN: FileFlows – file processing Docker application](https://fileflows.com)
+- Dec 13 - [Adventures of putting 16 GB RAM in a motherboard that doesn’t support it (2019)](https://www.downtowndougbrown.com/2019/04/adventures-of-putting-16-gb-of-ram-in-a-motherboard-that-doesnt-support-it/)
+- Dec 13 - [CEPL: A lispy and REPL-friendly Common Lisp library for working with OpenGL](https://github.com/cbaggers/cepl)
+- Dec 13 - [Show HN: We open sourced our new Mac developer setup script](https://github.com/vendasta/setup-new-computer-script)
+- Dec 13 - [Generally Intelligent (YC S17) is hiring ML research engineers (remote, SF)](https://news.ycombinator.com/item?id=29535427)
+- Dec 13 - [Hertz customers arrested, jailed and held at gunpoint after false theft reports](https://www.cbsnews.com/news/hertz-claims-false-arrests/)
 <!--END_SECTION:hn-->
 
 <!--
