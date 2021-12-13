@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 13 - [Adventures of putting 16 GB RAM in a motherboard that doesn’t support it (2019)](https://www.downtowndougbrown.com/2019/04/adventures-of-putting-16-gb-of-ram-in-a-motherboard-that-doesnt-support-it/)
-- Dec 13 - [CEPL: A lispy and REPL-friendly Common Lisp library for working with OpenGL](https://github.com/cbaggers/cepl)
-- Dec 13 - [Show HN: We open sourced our new Mac developer setup script](https://github.com/vendasta/setup-new-computer-script)
-- Dec 13 - [Generally Intelligent (YC S17) is hiring ML research engineers (remote, SF)](https://news.ycombinator.com/item?id=29535427)
-- Dec 13 - [Hertz customers arrested, jailed and held at gunpoint after false theft reports](https://www.cbsnews.com/news/hertz-claims-false-arrests/)
+- Dec 13 - [Étoilé on Gnustep](http://etoileos.com/etoile/)
+- Dec 13 - [GitHub taking down tools allowing defenders to reproduce the Log4j vulnerability](https://twitter.com/christophetd/status/1470287687265529861)
+- Dec 13 - [GNUstep: Open-source, Object-oriented, Cross-platform Development Environment](http://gnustep.org)
+- Dec 13 - [Enhance your dev detective powers with Sourcegraph](https://esteetey.dev/be-a-dev-detective-with-sourcegraph)
+- Dec 13 - [Weird: Generative Art in Common Lisp](https://github.com/inconvergent/weird)
 <!--END_SECTION:hn-->
 
 <!--
