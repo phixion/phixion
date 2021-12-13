@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 13 - [Convictional (YC W19) is hiring engineers to build the future of B2B trade-Remote](https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3)
-- Dec 13 - [Vivaldi: Violating CoC on forum may close your email account](https://vivaldi.com/privacy/code-of-conduct/)
-- Dec 13 - [Deno Joins TC39](https://deno.com/blog/deno-joins-tc39)
-- Dec 13 - [Borderless Media Consumption: Geoblocking Reform](https://www.fuen.org/en/article/Borderless-Media-Consumption-Geoblocking-reform-FUEN-sits-at-the-table-with-film-and-TV-industry)
-- Dec 13 - [Marketing is scary for a solo developer](https://raumet.com/marketing)
+- Dec 13 - [Kentucky candle factory: questions arise over why staff worked during tornadoes](https://www.theguardian.com/us-news/2021/dec/13/kentucky-tornadoes-candle-factory-search-survivors)
+- Dec 13 - [Hydrogen Is Not a Fuel, It’s a Cult](https://www.forbes.com/sites/jamesmorris/2021/12/11/hydrogen-is-not-a-fuel-its-a-cult/)
+- Dec 13 - [Reimagining projections for the interactive maps era](https://www.mapbox.com/blog/adaptive-projections)
+- Dec 13 - [Researchers find a treatable indicator of blood clotting in Covid patients](https://engineering.virginia.edu/news/2021/12/new-technology-could-help-doctors-improve-covid-19-patient-outcomes)
+- Dec 13 - [Framer Motion 3D](https://www.framer.com/docs/three-introduction/)
 <!--END_SECTION:hn-->
 
 <!--
