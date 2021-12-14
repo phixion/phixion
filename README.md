@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 14 - [Analogue Pocket Hate Story](https://endrift.com/2021/12/13/analogue-pocket-hate-story/)
-- Dec 14 - [PyTorch vs. TensorFlow in 2022](https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/)
-- Dec 14 - [Wolfram Cloud](https://www.wolframcloud.com/)
-- Dec 14 - [The Web Is Fucked](https://thewebisfucked.com/)
-- Dec 14 - [Omicron variant more resistant to vaccine but causes less severe Covid](https://www.washingtonpost.com/world/2021/12/14/south-africa-omicron-coronavirus/)
+- Dec 14 - [SpaceX turned Apple employee speaks out about sexual harassment at space company](https://spaceexplored.com/2021/12/14/spacex-sexual-harassment/)
+- Dec 14 - [Web3 is going just great](https://web3isgoinggreat.com/)
+- Dec 14 - [Linux Touchpad Like MacBook Update: Touchpad Gestures Now Shipping](https://www.gitclear.com/blog/linux_touchpad_update_december_2021)
+- Dec 14 - [Faiss: Facebook's open source vector search library](https://github.com/facebookresearch/faiss)
+- Dec 14 - [Dell and HPE switches come with 'American Megatrands' stickers](https://www.servethehome.com/dude-dell-hpe-ami-american-megatrands/)
 <!--END_SECTION:hn-->
 
 <!--
