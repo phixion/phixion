@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 14 - [Mux (YC W16) Is Hiring an Engineering Manager for the Video Delivery Team](https://mux.com/jobs?hnj=video-delivery)
-- Dec 14 - [IHP v0.17.0 has been released](https://github.com/digitallyinduced/ihp/releases/tag/v0.17.0)
-- Dec 14 - [Former Harvard chemistry chair to stand trial for allegedly hiding ties to China](https://www.wgbh.org/news/education/2021/12/13/former-harvard-chemistry-chair-to-stand-trial-for-allegedly-hiding-ties-to-china)
-- Dec 14 - [Rijksmuseum to Stage the Largest Vermeer Exhibition Ever (2023)](https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-to-stage-the-largest-vermeer-exhibition-ever)
-- Dec 14 - [Lapce – Fast and Powerful Code Editor written in Rust](https://github.com/lapce/lapce)
+- Dec 14 - [Analogue Pocket Hate Story](https://endrift.com/2021/12/13/analogue-pocket-hate-story/)
+- Dec 14 - [PyTorch vs. TensorFlow in 2022](https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/)
+- Dec 14 - [Wolfram Cloud](https://www.wolframcloud.com/)
+- Dec 14 - [The Web Is Fucked](https://thewebisfucked.com/)
+- Dec 14 - [Omicron variant more resistant to vaccine but causes less severe Covid](https://www.washingtonpost.com/world/2021/12/14/south-africa-omicron-coronavirus/)
 <!--END_SECTION:hn-->
 
 <!--
