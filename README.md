@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 14 - [Digital Painting with Real Brushes: Light Strokes for iPad](https://www.instructables.com/Digital-Painting-With-Real-Brushes-Light-Strokes-f/)
-- Dec 14 - [California halts Pony.ai's driverless testing permit after accident](https://www.reuters.com/article/ponyai-autonomous-test-idCNL4N2SY4KG)
-- Dec 14 - [uBlacklist: Blocks specific sites from appearing in Google search results](https://github.com/iorate/uBlacklist)
-- Dec 13 - [Some thoughts on writing](https://danluu.com/writing-non-advice/)
-- Dec 13 - [Kryptology: Coinbase’s Open Source Cryptography Library](https://blog.coinbase.com/meet-kryptology-coinbases-open-source-cryptography-library-b5f22854f3f7)
+- Dec 14 - [Lightning-Fast and Powerful Code Editor Written in Rust](https://github.com/lapce/lapce)
+- Dec 14 - [Can This DIY Rocket Program Send an Astronaut to Space](https://spectrum.ieee.org/diy-rocket-program)
+- Dec 14 - [Standard (YC S17) Is Hiring Rust/Go Engineers, SREs, and MLEs](https://careers.standard.ai/)
+- Dec 14 - [Argus: Debugging Performance Issues with Annotated Causal Tracing](https://www.usenix.org/conference/atc21/presentation/weng)
+- Dec 14 - [Fixing a Tiny Corner of the Supply Chain](https://www.bunniestudios.com/blog/?p=6274)
 <!--END_SECTION:hn-->
 
 <!--
