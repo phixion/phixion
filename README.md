@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 14 - [Using WebScript](https://developer.apple.com/library/archive/documentation/LegacyTechnologies/WebObjects/WebObjects_3.1/DevGuide/WebScript/WebScript.mif.book.html)
-- Dec 14 - [Ublacklist – the missing button on Google search, IMO](https://github.com/iorate/uBlacklist)
-- Dec 13 - [I Think about Writing](https://danluu.com/writing-non-advice/)
+- Dec 14 - [Digital Painting with Real Brushes: Light Strokes for iPad](https://www.instructables.com/Digital-Painting-With-Real-Brushes-Light-Strokes-f/)
+- Dec 14 - [California halts Pony.ai's driverless testing permit after accident](https://www.reuters.com/article/ponyai-autonomous-test-idCNL4N2SY4KG)
+- Dec 14 - [uBlacklist: Blocks specific sites from appearing in Google search results](https://github.com/iorate/uBlacklist)
+- Dec 13 - [Some thoughts on writing](https://danluu.com/writing-non-advice/)
 - Dec 13 - [Kryptology: Coinbase’s Open Source Cryptography Library](https://blog.coinbase.com/meet-kryptology-coinbases-open-source-cryptography-library-b5f22854f3f7)
-- Dec 13 - [Bird populations declining fast across North America](https://emagazine.com/bird-population-declines/)
 <!--END_SECTION:hn-->
 
 <!--
