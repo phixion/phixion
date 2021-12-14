@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 13 - [Kintsugi – The art of repair to make broken things better than before](https://traditionalkyoto.com/culture/kintsugi/)
-- Dec 13 - [SQLite – The Session Extension](https://www.sqlite.org/sessionintro.html)
-- Dec 13 - [Toyota owners have to pay $8/mo to keep using their key fob for remote start](https://arstechnica.com/cars/2021/12/toyota-owners-have-to-pay-8-mo-to-keep-using-their-key-fob-for-remote-start/)
-- Dec 13 - [Optimizing the kernel to saturate a 100Gbps link (2017)](https://netflixtechblog.com/serving-100-gbps-from-an-open-connect-appliance-cdb51dda3b99?gi=7c9e72ecd546)
-- Dec 13 - [NeXTSpirit, high-res NeXTSTEP Icons for macOS](http://galgot.free.fr/wordpress/?p=1380)
+- Dec 14 - [Using WebScript](https://developer.apple.com/library/archive/documentation/LegacyTechnologies/WebObjects/WebObjects_3.1/DevGuide/WebScript/WebScript.mif.book.html)
+- Dec 14 - [Ublacklist – the missing button on Google search, IMO](https://github.com/iorate/uBlacklist)
+- Dec 13 - [I Think about Writing](https://danluu.com/writing-non-advice/)
+- Dec 13 - [Kryptology: Coinbase’s Open Source Cryptography Library](https://blog.coinbase.com/meet-kryptology-coinbases-open-source-cryptography-library-b5f22854f3f7)
+- Dec 13 - [Bird populations declining fast across North America](https://emagazine.com/bird-population-declines/)
 <!--END_SECTION:hn-->
 
 <!--
