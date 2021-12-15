@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 15 - [A Safer San Francisco](https://londonbreed.medium.com/a-safer-san-francisco-eb40d9d502e4)
-- Dec 15 - [Pico CSS Framework](https://picocss.com/)
-- Dec 14 - [About Three-in-Ten U.S. Adults Are Now Religiously Unaffiliated](https://www.pewforum.org/2021/12/14/about-three-in-ten-u-s-adults-are-now-religiously-unaffiliated/)
-- Dec 14 - [When the government hides spy cameras on your land, fight back in court](https://www.tennessean.com/story/opinion/2021/12/13/when-government-hides-spy-cameras-your-land-fight-back-court/6500524001/)
-- Dec 14 - [Gaming on Wayland](https://zamundaaa.github.io/wayland/2021/12/14/about-gaming-on-wayland.html)
+- Dec 15 - [Google Chrome Zero Day CVE-2021-4102, Use after free in V8](https://chromereleases.googleblog.com/2021/12/stable-channel-update-for-desktop_13.html)
+- Dec 15 - [Analysis of the 2nd Log4j CVE published earlier (CVE-2021-45046 / Log4Shell2)](https://www.lunasec.io/docs/blog/log4j-zero-day-update-on-cve-2021-45046/)
+- Dec 15 - [Ask HN: Private Alternatives to Alexa?](https://news.ycombinator.com/item?id=29561452)
+- Dec 15 - [Aviation Safety Whistleblower Report on 737 Max [pdf]](https://www.commerce.senate.gov/services/files/48E3E2DE-6DFC-4602-BADF-8926F551B670)
+- Dec 15 - [Busy Simulator: Feign importance with repeating app sounds](https://busysimulator.com/)
 <!--END_SECTION:hn-->
 
 <!--
