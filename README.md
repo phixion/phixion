@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 15 - [Ask HN: I've lost faith in myself as a developer, how do I get it back?](https://news.ycombinator.com/item?id=29567743)
-- Dec 15 - [Mayo Clinic research finds immune system responds to mRNA treatment for cancer](https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-research-finds-immune-system-responds-to-mrna-treatment-for-cancer/)
-- Dec 15 - [AWS appears to be down again](https://news.ycombinator.com/item?id=29567170)
-- Dec 15 - [Zed: lightning-fast, collaborative code editor written in Rust (Atom team)](https://zed.dev)
-- Dec 15 - [Pine64 and Radxa's new Pi CM4-compatible boards](https://www.jeffgeerling.com/blog/2021/pine64-and-radxas-new-pi-cm4-compatible-boards)
+- Dec 15 - [How to build large-scale end-to-end encrypted group video calls](https://signal.org/blog/how-to-build-encrypted-group-calls/)
+- Dec 15 - [Inventing the Atari 2600](https://spectrum.ieee.org/atari-2600)
+- Dec 15 - [How to Stand Out with Your Job Application as a Junior Software Developer](https://akoskm.com/how-to-stand-out-with-your-job-application)
+- Dec 15 - [Apple revoked developer account for 2.5 years and counting, unfair treatment](https://news.ycombinator.com/item?id=29569561)
+- Dec 15 - [ATX-80 – ZX-80 computer clone with ATmega8 processor](http://www.breatharian.eu/hw/atx80/index_en.html)
 <!--END_SECTION:hn-->
 
 <!--
