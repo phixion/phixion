@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 15 - [Caterwaul: A JavaScript-to-JavaScript Compiler](https://github.com/spencertipping/caterwaul)
-- Dec 15 - [Writing a self-modifying x86 factorial program](https://brianstadnicki.github.io/posts/asm-self-modifying-factorial/)
-- Dec 15 - [Chef Jamie Oliver Wins Against McDonald’s](https://www.newyorknationalreview.com/life-style/jamie-oliver-wins-against-mcdonalds/)
-- Dec 15 - [Raycast (YC W20) Is Hiring to Make Work Frictionless (Remote in Europe)](https://raycast.com/jobs)
-- Dec 15 - ['It Saved My Life': Depression Treatment Is Turning Lives Around in Five Days](https://www.kqed.org/news/11898991/it-saved-my-life-depression-treatment-turns-lives-around-in-five-days)
+- Dec 15 - [COVID: Suspension of the 15-minute wait after vaccination with mRNA vaccine](https://www.gov.uk/government/publications/suspension-of-the-15-minute-wait-for-vaccination-with-mrna-vaccine-for-covid-19-uk-cmos-opinion/suspension-of-the-15-minute-wait-for-vaccination-with-mrna-vaccine-for-covid-19-uk-cmos-opinion)
+- Dec 15 - [Doola (Formerly StartPack) (YC S20) Is Hiring a Marketing Lead](https://bookface.ycombinator.com/company/21903/jobs/48594)
+- Dec 15 - [BusKill – USB dead-man-switch triggered if someone yanks your laptop away](https://www.buskill.in/)
+- Dec 15 - [Asahi Linux for M1 Macs Progress October-November 2021](https://asahilinux.org/2021/12/progress-report-oct-nov-2021/)
+- Dec 15 - [Apple Removes All References to Controversial CSAM Scanning Feature from Its…](https://www.macrumors.com/2021/12/15/apple-nixes-csam-references-website/)
 <!--END_SECTION:hn-->
 
 <!--
