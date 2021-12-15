@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 14 - [SpaceX turned Apple employee speaks out about sexual harassment at space company](https://spaceexplored.com/2021/12/14/spacex-sexual-harassment/)
-- Dec 14 - [Web3 is going just great](https://web3isgoinggreat.com/)
-- Dec 14 - [Linux Touchpad Like MacBook Update: Touchpad Gestures Now Shipping](https://www.gitclear.com/blog/linux_touchpad_update_december_2021)
-- Dec 14 - [Faiss: Facebook's open source vector search library](https://github.com/facebookresearch/faiss)
-- Dec 14 - [Dell and HPE switches come with 'American Megatrands' stickers](https://www.servethehome.com/dude-dell-hpe-ami-american-megatrands/)
+- Dec 15 - [A Safer San Francisco](https://londonbreed.medium.com/a-safer-san-francisco-eb40d9d502e4)
+- Dec 15 - [Pico CSS Framework](https://picocss.com/)
+- Dec 14 - [About Three-in-Ten U.S. Adults Are Now Religiously Unaffiliated](https://www.pewforum.org/2021/12/14/about-three-in-ten-u-s-adults-are-now-religiously-unaffiliated/)
+- Dec 14 - [When the government hides spy cameras on your land, fight back in court](https://www.tennessean.com/story/opinion/2021/12/13/when-government-hides-spy-cameras-your-land-fight-back-court/6500524001/)
+- Dec 14 - [Gaming on Wayland](https://zamundaaa.github.io/wayland/2021/12/14/about-gaming-on-wayland.html)
 <!--END_SECTION:hn-->
 
 <!--
