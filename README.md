@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 15 - [Google Chrome Zero Day CVE-2021-4102, Use after free in V8](https://chromereleases.googleblog.com/2021/12/stable-channel-update-for-desktop_13.html)
-- Dec 15 - [Analysis of the 2nd Log4j CVE published earlier (CVE-2021-45046 / Log4Shell2)](https://www.lunasec.io/docs/blog/log4j-zero-day-update-on-cve-2021-45046/)
-- Dec 15 - [Ask HN: Private Alternatives to Alexa?](https://news.ycombinator.com/item?id=29561452)
-- Dec 15 - [Aviation Safety Whistleblower Report on 737 Max [pdf]](https://www.commerce.senate.gov/services/files/48E3E2DE-6DFC-4602-BADF-8926F551B670)
-- Dec 15 - [Busy Simulator: Feign importance with repeating app sounds](https://busysimulator.com/)
+- Dec 15 - [Caterwaul: A JavaScript-to-JavaScript Compiler](https://github.com/spencertipping/caterwaul)
+- Dec 15 - [Writing a self-modifying x86 factorial program](https://brianstadnicki.github.io/posts/asm-self-modifying-factorial/)
+- Dec 15 - [Chef Jamie Oliver Wins Against McDonald’s](https://www.newyorknationalreview.com/life-style/jamie-oliver-wins-against-mcdonalds/)
+- Dec 15 - [Raycast (YC W20) Is Hiring to Make Work Frictionless (Remote in Europe)](https://raycast.com/jobs)
+- Dec 15 - ['It Saved My Life': Depression Treatment Is Turning Lives Around in Five Days](https://www.kqed.org/news/11898991/it-saved-my-life-depression-treatment-turns-lives-around-in-five-days)
 <!--END_SECTION:hn-->
 
 <!--
