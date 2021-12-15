@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 15 - [COVID: Suspension of the 15-minute wait after vaccination with mRNA vaccine](https://www.gov.uk/government/publications/suspension-of-the-15-minute-wait-for-vaccination-with-mrna-vaccine-for-covid-19-uk-cmos-opinion/suspension-of-the-15-minute-wait-for-vaccination-with-mrna-vaccine-for-covid-19-uk-cmos-opinion)
-- Dec 15 - [Doola (Formerly StartPack) (YC S20) Is Hiring a Marketing Lead](https://bookface.ycombinator.com/company/21903/jobs/48594)
-- Dec 15 - [BusKill – USB dead-man-switch triggered if someone yanks your laptop away](https://www.buskill.in/)
-- Dec 15 - [Asahi Linux for M1 Macs Progress October-November 2021](https://asahilinux.org/2021/12/progress-report-oct-nov-2021/)
-- Dec 15 - [Apple Removes All References to Controversial CSAM Scanning Feature from Its…](https://www.macrumors.com/2021/12/15/apple-nixes-csam-references-website/)
+- Dec 15 - [Ask HN: I've lost faith in myself as a developer, how do I get it back?](https://news.ycombinator.com/item?id=29567743)
+- Dec 15 - [Mayo Clinic research finds immune system responds to mRNA treatment for cancer](https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-research-finds-immune-system-responds-to-mrna-treatment-for-cancer/)
+- Dec 15 - [AWS appears to be down again](https://news.ycombinator.com/item?id=29567170)
+- Dec 15 - [Zed: lightning-fast, collaborative code editor written in Rust (Atom team)](https://zed.dev)
+- Dec 15 - [Pine64 and Radxa's new Pi CM4-compatible boards](https://www.jeffgeerling.com/blog/2021/pine64-and-radxas-new-pi-cm4-compatible-boards)
 <!--END_SECTION:hn-->
 
 <!--
