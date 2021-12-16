@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 16 - [HitPay (YC S21) Is Hiring](https://www.ycombinator.com/companies/hitpay/jobs/nJUX35c-product-manager)
-- Dec 16 - [Google Sues dont.farm [pdf]](https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/1_Complaint.pdf)
-- Dec 16 - [MovForth: Compiler for the Forth language using LLVM](https://github.com/Reschivon/movForth)
-- Dec 16 - [Reddit Files IPO](https://www.reuters.com/markets/us/reddit-files-us-ipo-2021-12-16/)
-- Dec 16 - [Yamaha RA-100 Rotating Speaker Organ Amp](http://www.lydian.ca/yamaha-ra-100-rotating-speaker-organ-amp/)
+- Dec 16 - [Log4j 2.15.0 – Previously suggested mitigations may not be enough](https://isc.sans.edu/diary/Log4j+2.15.0+and+previously+suggested+mitigations+may+not+be+enough/28134)
+- Dec 16 - [Sturdy (YC W21) is hiring founding engineers in Stockholm, Sweden](https://news.ycombinator.com/item?id=29575782)
+- Dec 16 - [To reduce student suicides by hanging to fans, institute in India removes fans](https://www.deccanherald.com/city/students-say-iisc-removing-fans-to-prevent-suicides-1061221.html)
+- Dec 16 - [Kobayashi’s Maid Dragon Translation Notes](https://tlnotes.com/)
+- Dec 16 - [Isn't she just Misunderstood? The Casio Loopy](https://nicole.express/2021/going-loopy-for-a-casio.html)
 <!--END_SECTION:hn-->
 
 <!--
