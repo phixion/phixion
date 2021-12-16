@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 15 - [How to build large-scale end-to-end encrypted group video calls](https://signal.org/blog/how-to-build-encrypted-group-calls/)
-- Dec 15 - [Inventing the Atari 2600](https://spectrum.ieee.org/atari-2600)
-- Dec 15 - [How to Stand Out with Your Job Application as a Junior Software Developer](https://akoskm.com/how-to-stand-out-with-your-job-application)
-- Dec 15 - [Apple revoked developer account for 2.5 years and counting, unfair treatment](https://news.ycombinator.com/item?id=29569561)
-- Dec 15 - [ATX-80 – ZX-80 computer clone with ATmega8 processor](http://www.breatharian.eu/hw/atx80/index_en.html)
+- Dec 16 - [The U.S. military men spreading Trum's baseless fraud claims](https://www.reuters.com/investigates/special-report/usa-election-military/)
+- Dec 15 - [IBM and Samsung Unveil Semiconductor Breakthrough](https://newsroom.ibm.com/2021-12-14-IBM-and-Samsung-Unveil-Semiconductor-Breakthrough-That-Defies-Conventional-Design)
+- Dec 15 - [Chiselstore: an embeddable, distributed SQLite for Rust](https://github.com/chiselstrike/chiselstore)
+- Dec 15 - [Geoff Foster on the art of sound engineering](https://composer.spitfireaudio.com/en/articles/geoff-foster-on-the-art-of-engineering)
+- Dec 15 - [Crypto wallet security as seen by security engineers](https://www.cossacklabs.com/blog/crypto-wallets-security/)
 <!--END_SECTION:hn-->
 
 <!--
