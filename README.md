@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 16 - [The U.S. military men spreading Trum's baseless fraud claims](https://www.reuters.com/investigates/special-report/usa-election-military/)
-- Dec 15 - [IBM and Samsung Unveil Semiconductor Breakthrough](https://newsroom.ibm.com/2021-12-14-IBM-and-Samsung-Unveil-Semiconductor-Breakthrough-That-Defies-Conventional-Design)
-- Dec 15 - [Chiselstore: an embeddable, distributed SQLite for Rust](https://github.com/chiselstrike/chiselstore)
-- Dec 15 - [Geoff Foster on the art of sound engineering](https://composer.spitfireaudio.com/en/articles/geoff-foster-on-the-art-of-engineering)
-- Dec 15 - [Crypto wallet security as seen by security engineers](https://www.cossacklabs.com/blog/crypto-wallets-security/)
+- Dec 16 - [HitPay (YC S21) Is Hiring](https://www.ycombinator.com/companies/hitpay/jobs/nJUX35c-product-manager)
+- Dec 16 - [Google Sues dont.farm [pdf]](https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/1_Complaint.pdf)
+- Dec 16 - [MovForth: Compiler for the Forth language using LLVM](https://github.com/Reschivon/movForth)
+- Dec 16 - [Reddit Files IPO](https://www.reuters.com/markets/us/reddit-files-us-ipo-2021-12-16/)
+- Dec 16 - [Yamaha RA-100 Rotating Speaker Organ Amp](http://www.lydian.ca/yamaha-ra-100-rotating-speaker-organ-amp/)
 <!--END_SECTION:hn-->
 
 <!--
