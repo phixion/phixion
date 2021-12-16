@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 16 - [Promoted.ai (YC W21) Is Hiring an Apache Flink Expert](https://www.ycombinator.com/companies/promoted/jobs/i92St29-apache-flink-expert)
-- Dec 16 - [Clever uses of pass, the Unix password manager](https://vitalyparnas.com/guides/pass/)
-- Dec 16 - [Russian court accidentally confirmed Russian military presence in Ukraine](https://www.znak.com/2021-12-16/rostovskiy_sud_opublikoval_prigovor_s_podtverzhdeniem_prisutstviya_voennyh_rf_v_donbasse)
-- Dec 16 - [Launching Version 13.0 of Wolfram Language and Mathematica](https://writings.stephenwolfram.com/2021/12/launching-version-13-0-of-wolfram-language-mathematica/)
-- Dec 16 - [Leveraging SIMD: Splitting CSV Files at 3Gb/S](https://blog.tinybird.co/2021/12/14/simd/)
+- Dec 16 - [India defuses its population bomb: Fertility falls to two children per woman](https://www.science.org/content/article/india-defuses-its-population-bomb-fertility-falls-two-children-woman)
+- Dec 16 - [Cryptocurrency scams cost owners $7.7B in 2021, driven by DeFi-based “rug pulls”](https://blog.chainalysis.com/reports/2021-crypto-scam-revenues/)
+- Dec 16 - [Why Level-3 Autonomy is a major milestone in self-driving cars](https://www.robotsinplainenglish.com/e/2021-12-12-level-3-autonomous.html)
+- Dec 16 - [Nature does not use propellers. So why do people?](https://www.economist.com/science-and-technology/nature-does-not-use-propellers-so-why-do-people/21806832)
+- Dec 16 - [What Does It Mean for AI to Understand?](https://www.quantamagazine.org/what-does-it-mean-for-ai-to-understand-20211216/)
 <!--END_SECTION:hn-->
 
 <!--
