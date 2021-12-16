@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 16 - [Log4j 2.15.0 – Previously suggested mitigations may not be enough](https://isc.sans.edu/diary/Log4j+2.15.0+and+previously+suggested+mitigations+may+not+be+enough/28134)
-- Dec 16 - [Sturdy (YC W21) is hiring founding engineers in Stockholm, Sweden](https://news.ycombinator.com/item?id=29575782)
-- Dec 16 - [To reduce student suicides by hanging to fans, institute in India removes fans](https://www.deccanherald.com/city/students-say-iisc-removing-fans-to-prevent-suicides-1061221.html)
-- Dec 16 - [Kobayashi’s Maid Dragon Translation Notes](https://tlnotes.com/)
-- Dec 16 - [Isn't she just Misunderstood? The Casio Loopy](https://nicole.express/2021/going-loopy-for-a-casio.html)
+- Dec 16 - [Promoted.ai (YC W21) Is Hiring an Apache Flink Expert](https://www.ycombinator.com/companies/promoted/jobs/i92St29-apache-flink-expert)
+- Dec 16 - [Clever uses of pass, the Unix password manager](https://vitalyparnas.com/guides/pass/)
+- Dec 16 - [Russian court accidentally confirmed Russian military presence in Ukraine](https://www.znak.com/2021-12-16/rostovskiy_sud_opublikoval_prigovor_s_podtverzhdeniem_prisutstviya_voennyh_rf_v_donbasse)
+- Dec 16 - [Launching Version 13.0 of Wolfram Language and Mathematica](https://writings.stephenwolfram.com/2021/12/launching-version-13-0-of-wolfram-language-mathematica/)
+- Dec 16 - [Leveraging SIMD: Splitting CSV Files at 3Gb/S](https://blog.tinybird.co/2021/12/14/simd/)
 <!--END_SECTION:hn-->
 
 <!--
