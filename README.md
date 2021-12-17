@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 17 - [Lofty AI (YC S19) hiring Blockchain Eng. to build real estate token DEX and DAOs](https://www.ycombinator.com/companies/lofty-ai/jobs/qnmc6yE-senior-react-fullstack-engineer)
-- Dec 17 - [Ask HN: How would prog. language look like if that was designed by no-programmer](https://news.ycombinator.com/item?id=29590681)
-- Dec 17 - [The Bastard Operator from Hell Complete](http://bofh.bjash.com/)
-- Dec 17 - [Authoring a SIMD enhanced WASM library with Rust](https://nickb.dev/blog/authoring-a-simd-enhanced-wasm-library-with-rust)
-- Dec 17 - [Loumavox, the Forgotten, Mysterious Synthesizer from Louise and Marc Voksinski](https://www.synthanatomy.com/2021/12/loumavox-the-forgotten-mysterious-synthesizer-from-louise-and-marc-voksinski.html)
+- Dec 17 - [The Joule-Thomson Effect and Models We Know](https://mattferraro.dev/posts/joule-thomson)
+- Dec 17 - [Fuite: a tool for finding memory leaks in web apps](https://nolanlawson.com/2021/12/17/introducing-fuite-a-tool-for-finding-memory-leaks-in-web-apps/)
+- Dec 17 - [Google Drive could soon start locking your files](https://www.techradar.com/news/google-drive-could-soon-start-locking-your-personal-files)
+- Dec 17 - [Forth BBS 2, 1985 Bulletin Board software written in Forth](https://github.com/RickCarlino/fbbs2)
+- Dec 17 - [Harvard removes SAT/ACT scores as admission requirement](https://www.washingtonpost.com/education/2021/12/16/harvard-test-optional-college-admissions/)
 <!--END_SECTION:hn-->
 
 <!--
