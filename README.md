@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 17 - [Etleap (YC W13) Is Hiring a Software Engineer – SF or London](https://etleap.com/jobs/#software-engineer)
-- Dec 16 - [Defrag Like It's 1993](https://defrag.shiplift.dev/)
-- Dec 16 - [FDA says abortion pills can be sent by mail](https://www.cnn.com/2021/12/16/politics/medication-abortion-fda-supreme-court/index.html)
-- Dec 16 - [Ask HN: What's the easiest way to make a living with $600k in cash?](https://news.ycombinator.com/item?id=29585360)
-- Dec 16 - [The empathy gap, or why good-seeming ideas fail](https://nathanieltravis.com/2021/12/16/why-good-research-ideas-fail/)
+- Dec 17 - [The Web3 Fraud](https://www.usenix.org/publications/loginonline/web3-fraud)
+- Dec 17 - [From blood clots to infected neurons, how Covid threatens the brain](https://www.npr.org/sections/health-shots/2021/12/16/1064594686/how-covid-threatens-the-brain)
+- Dec 17 - [There's been a big rise in monitoring workers at home](https://www.zdnet.com/article/employee-surveillance-is-on-the-rise-privacy-campaigners-are-worried-for-us-all/)
+- Dec 17 - [Light Field Lab's SolidLight offers a true holographic video display](https://www.techhive.com/article/3644451/light-field-labs-solidlight-offers-a-true-holographic-video-display.html)
+- Dec 17 - [Battle of the Bulge: How American Grit Halted Hitler's Last-Ditch Strike](https://www.history.com/news/battle-bulge-american-defeat-hitler)
 <!--END_SECTION:hn-->
 
 <!--
