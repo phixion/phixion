@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 17 - [The Joule-Thomson Effect and Models We Know](https://mattferraro.dev/posts/joule-thomson)
-- Dec 17 - [Fuite: a tool for finding memory leaks in web apps](https://nolanlawson.com/2021/12/17/introducing-fuite-a-tool-for-finding-memory-leaks-in-web-apps/)
-- Dec 17 - [Google Drive could soon start locking your files](https://www.techradar.com/news/google-drive-could-soon-start-locking-your-personal-files)
-- Dec 17 - [Forth BBS 2, 1985 Bulletin Board software written in Forth](https://github.com/RickCarlino/fbbs2)
-- Dec 17 - [Harvard removes SAT/ACT scores as admission requirement](https://www.washingtonpost.com/education/2021/12/16/harvard-test-optional-college-admissions/)
+- Dec 17 - [Why start a new database conference?](https://www.scattered-thoughts.net/writing/why-start-a-new-database-conference/)
+- Dec 17 - [Notches Gone Wild – MacBook Pro related](https://blog.iconfactory.com/2021/12/notches-gone-wild/)
+- Dec 17 - [Why Zulip will stand the test of time](https://blog.zulip.com/2021/12/17/why-zulip-will-stand-the-test-of-time/)
+- Dec 17 - [California’s AV testing rules apply to Tesla’s “FSD”](https://cyberlaw.stanford.edu/blog/2021/12/californias-av-testing-rules-apply-teslas-fsd)
+- Dec 17 - [JPMorgan Admits to Widespread Recordkeeping Failures, Agrees to Pay $125M](https://www.sec.gov/news/press-release/2021-262)
 <!--END_SECTION:hn-->
 
 <!--
