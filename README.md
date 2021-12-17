@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 17 - [The Web3 Fraud](https://www.usenix.org/publications/loginonline/web3-fraud)
-- Dec 17 - [From blood clots to infected neurons, how Covid threatens the brain](https://www.npr.org/sections/health-shots/2021/12/16/1064594686/how-covid-threatens-the-brain)
-- Dec 17 - [There's been a big rise in monitoring workers at home](https://www.zdnet.com/article/employee-surveillance-is-on-the-rise-privacy-campaigners-are-worried-for-us-all/)
-- Dec 17 - [Light Field Lab's SolidLight offers a true holographic video display](https://www.techhive.com/article/3644451/light-field-labs-solidlight-offers-a-true-holographic-video-display.html)
-- Dec 17 - [Battle of the Bulge: How American Grit Halted Hitler's Last-Ditch Strike](https://www.history.com/news/battle-bulge-american-defeat-hitler)
+- Dec 17 - [Judge rejects Purdue Pharma's $4.5B opioid settlement](https://www.axios.com/purdue-pharma-opioids-settlement-ruling-5d56f27b-eebe-4d6e-a1ac-7915d45f8795.html)
+- Dec 17 - [“Imagine If Doctors Relied on Google as Much as Programmers Do”](https://codelab.farai.xyz/posts/pros-use-google/)
+- Dec 17 - [Pegasus vs. Predator: Dissident's Phone Reveals Cytrox Mercenary Spyware](https://citizenlab.ca/2021/12/pegasus-vs-predator-dissidents-doubly-infected-iphone-reveals-cytrox-mercenary-spyware/)
+- Dec 17 - [Worker pay isn’t keeping up with inflation](https://www.axios.com/wages-inflation-economic-data-c912afdb-b950-4183-8283-50afff593576.html)
+- Dec 17 - [Refugees lack Covid shots because drugmakers fear lawsuits, documents show](https://www.reuters.com/world/refugees-lack-covid-shots-because-drugmakers-fear-lawsuits-documents-2021-12-16/)
 <!--END_SECTION:hn-->
 
 <!--
