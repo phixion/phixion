@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 16 - [tqdm (Python)](https://tqdm.github.io/)
-- Dec 16 - [A Discussion of Oberon](http://www.edm2.com/0608/oberon.html)
-- Dec 16 - [Hugging Face Acquires Gradio](https://gradio.app/joining-huggingface/)
-- Dec 16 - [NY Man Pleads Guilty in $20M SIM Swap Theft](https://krebsonsecurity.com/2021/12/ny-man-pleads-guilty-in-20-million-sim-swap-theft/)
-- Dec 16 - [Expired web domains help criminal hackers unlock enterprise defenses](https://portswigger.net/daily-swig/how-expired-web-domains-help-criminal-hackers-unlock-enterprise-defenses)
+- Dec 17 - [Etleap (YC W13) Is Hiring a Software Engineer – SF or London](https://etleap.com/jobs/#software-engineer)
+- Dec 16 - [Defrag Like It's 1993](https://defrag.shiplift.dev/)
+- Dec 16 - [FDA says abortion pills can be sent by mail](https://www.cnn.com/2021/12/16/politics/medication-abortion-fda-supreme-court/index.html)
+- Dec 16 - [Ask HN: What's the easiest way to make a living with $600k in cash?](https://news.ycombinator.com/item?id=29585360)
+- Dec 16 - [The empathy gap, or why good-seeming ideas fail](https://nathanieltravis.com/2021/12/16/why-good-research-ideas-fail/)
 <!--END_SECTION:hn-->
 
 <!--
