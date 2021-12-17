@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 17 - [Judge rejects Purdue Pharma's $4.5B opioid settlement](https://www.axios.com/purdue-pharma-opioids-settlement-ruling-5d56f27b-eebe-4d6e-a1ac-7915d45f8795.html)
-- Dec 17 - [“Imagine If Doctors Relied on Google as Much as Programmers Do”](https://codelab.farai.xyz/posts/pros-use-google/)
-- Dec 17 - [Pegasus vs. Predator: Dissident's Phone Reveals Cytrox Mercenary Spyware](https://citizenlab.ca/2021/12/pegasus-vs-predator-dissidents-doubly-infected-iphone-reveals-cytrox-mercenary-spyware/)
-- Dec 17 - [Worker pay isn’t keeping up with inflation](https://www.axios.com/wages-inflation-economic-data-c912afdb-b950-4183-8283-50afff593576.html)
-- Dec 17 - [Refugees lack Covid shots because drugmakers fear lawsuits, documents show](https://www.reuters.com/world/refugees-lack-covid-shots-because-drugmakers-fear-lawsuits-documents-2021-12-16/)
+- Dec 17 - [Lofty AI (YC S19) hiring Blockchain Eng. to build real estate token DEX and DAOs](https://www.ycombinator.com/companies/lofty-ai/jobs/qnmc6yE-senior-react-fullstack-engineer)
+- Dec 17 - [Ask HN: How would prog. language look like if that was designed by no-programmer](https://news.ycombinator.com/item?id=29590681)
+- Dec 17 - [The Bastard Operator from Hell Complete](http://bofh.bjash.com/)
+- Dec 17 - [Authoring a SIMD enhanced WASM library with Rust](https://nickb.dev/blog/authoring-a-simd-enhanced-wasm-library-with-rust)
+- Dec 17 - [Loumavox, the Forgotten, Mysterious Synthesizer from Louise and Marc Voksinski](https://www.synthanatomy.com/2021/12/loumavox-the-forgotten-mysterious-synthesizer-from-louise-and-marc-voksinski.html)
 <!--END_SECTION:hn-->
 
 <!--
