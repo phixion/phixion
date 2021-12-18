@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 18 - [Y Combinator is hiring for a programs/ops person to grow Work at a Startup](https://news.ycombinator.com/item?id=29603844)
+- Dec 18 - [On commercial forks FOSS projects](https://drewdevault.com/2021/12/18/Commercial-forks-of-FOSS-projects.html)
+- Dec 18 - [Log4j 2.16: Certain strings can cause infinite recursion](https://issues.apache.org/jira/browse/LOG4J2-3230)
+- Dec 18 - [Perl Turns 34 Today](https://github.com/Perl/perl5/commit/8d063cd8450e59ea1c611a2f4f5a21059a2804f1)
 - Dec 18 - [The Universe Is Expanding Faster Than It Should Be](https://www.nationalgeographic.com/science/article/the-universe-is-expanding-faster-than-it-should-be)
-- Dec 18 - [Protonmail was identified as spam in Gmail](https://i.imgur.com/rpJDQX2.png)
-- Dec 18 - [Libmobi: C library for handling eBook formats](https://github.com/bfabiszewski/libmobi)
-- Dec 18 - [My Bose QC-35 II headphones burst into flames and left me with chemical burns](https://recursive-public-rants.blogspot.com/2021/12/my-bose-qc-35-ii-headphones-suddenly.html)
-- Dec 18 - [Internet addiction and the habit of book reading](https://benwajdi.com/2021/12/18/is-internet-addiction-eradicating-the-habit-of-reading/)
 <!--END_SECTION:hn-->
 
 <!--
