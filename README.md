@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 18 - [To Understand Language Is to Understand Generalization](https://evjang.com/2021/12/17/lang-generalization.html)
-- Dec 18 - [Gene discoveries give new hope to people who stutter](https://news.vumc.org/2021/12/02/gene-discoveries-give-new-hope-to-people-who-stutter/)
-- Dec 17 - [Melting glaciers may produce thousands of kilometers of new salmon habitat](https://www.science.org/content/article/melting-glaciers-may-produce-thousands-kilometers-new-salmon-habitat)
-- Dec 17 - [CCPA Scam – human subject research study conducted by Princeton University](https://blog.freeradical.zone/post/ccpa-scam-2021-12/)
-- Dec 17 - [Postgres is a great pub/sub and job server (2019)](https://webapp.io/blog/postgres-is-the-answer/)
+- Dec 18 - [The Universe Is Expanding Faster Than It Should Be](https://www.nationalgeographic.com/science/article/the-universe-is-expanding-faster-than-it-should-be)
+- Dec 18 - [Protonmail was identified as spam in Gmail](https://i.imgur.com/rpJDQX2.png)
+- Dec 18 - [Libmobi: C library for handling eBook formats](https://github.com/bfabiszewski/libmobi)
+- Dec 18 - [My Bose QC-35 II headphones burst into flames and left me with chemical burns](https://recursive-public-rants.blogspot.com/2021/12/my-bose-qc-35-ii-headphones-suddenly.html)
+- Dec 18 - [Internet addiction and the habit of book reading](https://benwajdi.com/2021/12/18/is-internet-addiction-eradicating-the-habit-of-reading/)
 <!--END_SECTION:hn-->
 
 <!--
