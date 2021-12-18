@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 18 - [Life Changing Books](https://news.ycombinator.com/item?id=29605394)
-- Dec 18 - [To opt out of Google Analytics you have to install a browser extension](https://tools.google.com/dlpage/gaoptout/eula.html?hl=en)
-- Dec 18 - [Boston Police Bought Spy Tech with a Pot of Money Hidden from the Public](https://www.propublica.org/article/boston-police-bought-spy-tech-with-a-pot-of-money-hidden-from-the-public#1203986)
-- Dec 18 - [Man Dies After He Is Shot by the Police with a Stun Gun and Catches Fire](https://www.nytimes.com/2021/12/16/nyregion/man-catskill-police-stun-gun-dies.html)
-- Dec 18 - [JPMorgan hit with $200M in fines for letting employees use WhatsApp](https://www.cnbc.com/2021/12/17/jpmorgan-agrees-to-125-million-fine-for-letting-employees-use-whatsapp-to-evade-regulators.html)
+- Dec 18 - [Omniscient Mozart: library for automatic transcription of every aspect of music](https://github.com/Music-and-Culture-Technology-Lab/omnizart)
+- Dec 18 - [A deep dive on a Facebook reseller of bikes stolen in Colorado](https://bikeindex.org/news/closing-the-loop-a-deep-dive-on-a-facebook-reseller-of-bikes-stolen-in)
+- Dec 18 - [UberEats took unauthorized amount (and not willing to pay it back)](https://twitter.com/TamasNo1/status/1472271668898893834)
+- Dec 18 - [Lead exposure from routine consumption of coffee and tea from ceramic mugs](https://foodcontaminationjournal.biomedcentral.com/articles/10.1186/s40550-017-0049-7)
+- Dec 18 - [U.N. talks adjourn without deal to regulate 'killer robots'](https://www.reuters.com/world/un-talks-adjourn-without-deal-regulate-killer-robots-2021-12-17/)
 <!--END_SECTION:hn-->
 
 <!--
