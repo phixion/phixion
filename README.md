@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 18 - [Y Combinator is hiring for a programs/ops person to grow Work at a Startup](https://news.ycombinator.com/item?id=29603844)
-- Dec 18 - [On commercial forks FOSS projects](https://drewdevault.com/2021/12/18/Commercial-forks-of-FOSS-projects.html)
-- Dec 18 - [Log4j 2.16: Certain strings can cause infinite recursion](https://issues.apache.org/jira/browse/LOG4J2-3230)
-- Dec 18 - [Perl Turns 34 Today](https://github.com/Perl/perl5/commit/8d063cd8450e59ea1c611a2f4f5a21059a2804f1)
-- Dec 18 - [The Universe Is Expanding Faster Than It Should Be](https://www.nationalgeographic.com/science/article/the-universe-is-expanding-faster-than-it-should-be)
+- Dec 18 - [Life Changing Books](https://news.ycombinator.com/item?id=29605394)
+- Dec 18 - [To opt out of Google Analytics you have to install a browser extension](https://tools.google.com/dlpage/gaoptout/eula.html?hl=en)
+- Dec 18 - [Boston Police Bought Spy Tech with a Pot of Money Hidden from the Public](https://www.propublica.org/article/boston-police-bought-spy-tech-with-a-pot-of-money-hidden-from-the-public#1203986)
+- Dec 18 - [Man Dies After He Is Shot by the Police with a Stun Gun and Catches Fire](https://www.nytimes.com/2021/12/16/nyregion/man-catskill-police-stun-gun-dies.html)
+- Dec 18 - [JPMorgan hit with $200M in fines for letting employees use WhatsApp](https://www.cnbc.com/2021/12/17/jpmorgan-agrees-to-125-million-fine-for-letting-employees-use-whatsapp-to-evade-regulators.html)
 <!--END_SECTION:hn-->
 
 <!--
