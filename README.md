@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 17 - [Why start a new database conference?](https://www.scattered-thoughts.net/writing/why-start-a-new-database-conference/)
-- Dec 17 - [Notches Gone Wild – MacBook Pro related](https://blog.iconfactory.com/2021/12/notches-gone-wild/)
-- Dec 17 - [Why Zulip will stand the test of time](https://blog.zulip.com/2021/12/17/why-zulip-will-stand-the-test-of-time/)
-- Dec 17 - [California’s AV testing rules apply to Tesla’s “FSD”](https://cyberlaw.stanford.edu/blog/2021/12/californias-av-testing-rules-apply-teslas-fsd)
-- Dec 17 - [JPMorgan Admits to Widespread Recordkeeping Failures, Agrees to Pay $125M](https://www.sec.gov/news/press-release/2021-262)
+- Dec 17 - [Melting glaciers may produce thousands of kilometers of new salmon habitat](https://www.science.org/content/article/melting-glaciers-may-produce-thousands-kilometers-new-salmon-habitat)
+- Dec 17 - [CCPA Scam – human subject research study conducted by Princeton University](https://blog.freeradical.zone/post/ccpa-scam-2021-12/)
+- Dec 17 - [Postgres is a great pub/sub and job server (2019)](https://webapp.io/blog/postgres-is-the-answer/)
+- Dec 17 - [I bought 1000 meters of wire to settle a physics debate [video]](https://www.youtube.com/watch?v=2Vrhk5OjBP8)
+- Dec 17 - [EDF shares plunge after faults found at French nuclear power reactor](https://www.reuters.com/world/europe/edf-shares-plunge-after-faults-found-french-nuclear-power-station-2021-12-16/)
 <!--END_SECTION:hn-->
 
 <!--
