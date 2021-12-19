@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 19 - [What Children Lose When Their Brains Develop Too Fast](https://www.wsj.com/articles/what-children-lose-when-their-brains-develop-too-fast-11639071752)
-- Dec 19 - [Show HN: IR stove thermometer, firmware in Rust](https://www.anyleaf.org)
-- Dec 18 - [Manifesto for Ubiquitous Linking](https://linkingmanifesto.org/)
-- Dec 18 - [Display-switch: Turn a $30 USB switch into a full-featured multi-monitor KVM](https://github.com/haimgel/display-switch)
-- Dec 18 - [Hidden Pentagon Records Reveal Patterns of Failure in Deadly Airstrikes](https://www.nytimes.com/interactive/2021/12/18/us/airstrikes-pentagon-records-civilian-deaths.html)
+- Dec 19 - [I Was Part of a Human Subject Research Study Without My Consent](https://christine.website/blog/princeton-study-2021-12-17)
+- Dec 19 - [Unix Shell Programming: The Next 50 Years](https://www.micahlerner.com/2021/07/14/unix-shell-programming-the-next-50-years.html)
+- Dec 19 - [Test Your Product on a Crappy Laptop](https://css-tricks.com/test-your-product-on-a-crappy-laptop/)
+- Dec 19 - [YouTube-DL core maintainer moves self to inactive list](https://github.com/ytdl-org/youtube-dl/commit/21b759057502c6e70d51011cfb3fb86d84055182)
+- Dec 19 - [The Dead Sea of West Texas](https://www.texasmonthly.com/news-politics/lake-boehmer-dead-sea-west-texas/)
 <!--END_SECTION:hn-->
 
 <!--
