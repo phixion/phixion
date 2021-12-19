@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 19 - [An iframe from googlesyndication.com tries to access the Camera and Microphone](https://techsparx.com/software-development/security/csp-camera-microphone.html)
-- Dec 19 - [Ask HN: How to optimize your career for happiness?](https://news.ycombinator.com/item?id=29614095)
-- Dec 19 - [Lithuania evacuates its embassy in China](https://www.economist.com/china/lithuania-evacuates-its-embassy-in-china/21806843)
-- Dec 19 - [FPGA Advent Calendar](https://twitter.com/willflux/status/1465268154733637633)
-- Dec 19 - [Apple macOS Monterey 12 Performance Is Surprisingly Competitive with Linux](https://www.phoronix.com/scan.php?page=article&item=macos-12-linux)
+- Dec 19 - [Fish sausages: Ugandan CEO taps into demand](https://www.howwemadeitinafrica.com/fish-sausages-ugandan-ceo-taps-into-demand-for-fish-products/134985/)
+- Dec 19 - [Against Translation](https://libertiesjournal.com/articles/against-translation/)
+- Dec 19 - [Comparing the Librem 5 USA and PinePhone Beta](https://amosbbatto.wordpress.com/2021/12/10/comparing-l5-and-pp/)
+- Dec 19 - [Yo mama's mama's mama's mama: our understanding of human origins](https://razib.substack.com/p/yo-mamas-mamas-mamas-mama-etc)
+- Dec 19 - [Derek Lowe: Omicron Update (Dec 17)](https://www.science.org/content/blog-post/omicron-update)
 <!--END_SECTION:hn-->
 
 <!--
