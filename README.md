@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 18 - [Omniscient Mozart: library for automatic transcription of every aspect of music](https://github.com/Music-and-Culture-Technology-Lab/omnizart)
-- Dec 18 - [A deep dive on a Facebook reseller of bikes stolen in Colorado](https://bikeindex.org/news/closing-the-loop-a-deep-dive-on-a-facebook-reseller-of-bikes-stolen-in)
-- Dec 18 - [UberEats took unauthorized amount (and not willing to pay it back)](https://twitter.com/TamasNo1/status/1472271668898893834)
-- Dec 18 - [Lead exposure from routine consumption of coffee and tea from ceramic mugs](https://foodcontaminationjournal.biomedcentral.com/articles/10.1186/s40550-017-0049-7)
-- Dec 18 - [U.N. talks adjourn without deal to regulate 'killer robots'](https://www.reuters.com/world/un-talks-adjourn-without-deal-regulate-killer-robots-2021-12-17/)
+- Dec 19 - [What Children Lose When Their Brains Develop Too Fast](https://www.wsj.com/articles/what-children-lose-when-their-brains-develop-too-fast-11639071752)
+- Dec 19 - [Show HN: IR stove thermometer, firmware in Rust](https://www.anyleaf.org)
+- Dec 18 - [Manifesto for Ubiquitous Linking](https://linkingmanifesto.org/)
+- Dec 18 - [Display-switch: Turn a $30 USB switch into a full-featured multi-monitor KVM](https://github.com/haimgel/display-switch)
+- Dec 18 - [Hidden Pentagon Records Reveal Patterns of Failure in Deadly Airstrikes](https://www.nytimes.com/interactive/2021/12/18/us/airstrikes-pentagon-records-civilian-deaths.html)
 <!--END_SECTION:hn-->
 
 <!--
