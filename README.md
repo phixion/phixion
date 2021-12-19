@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 19 - [Ohio Gov deploys National Guard to hospitals as Covid deaths surpass 2020 levels](https://ohiocapitaljournal.com/2021/12/17/gov-dewine-deploys-national-guard-to-hospitals-as-covid-deaths-surpass-2020/)
-- Dec 19 - [Sirum Is Hiring Experienced Developers in Atlanta](https://www.sirum.org/about/#careers)
-- Dec 19 - [Bottles: GUI front end to run Windows software on Linux](https://usebottles.com/)
-- Dec 19 - [Ask HN: Have you accepted the TOS that give FB access to your WhatsApp data?](https://news.ycombinator.com/item?id=29612778)
-- Dec 19 - [Decap of a tiny chip that plays Christmas songs](https://twitter.com/kenshirriff/status/1472297415201869831)
+- Dec 19 - [An iframe from googlesyndication.com tries to access the Camera and Microphone](https://techsparx.com/software-development/security/csp-camera-microphone.html)
+- Dec 19 - [Ask HN: How to optimize your career for happiness?](https://news.ycombinator.com/item?id=29614095)
+- Dec 19 - [Lithuania evacuates its embassy in China](https://www.economist.com/china/lithuania-evacuates-its-embassy-in-china/21806843)
+- Dec 19 - [FPGA Advent Calendar](https://twitter.com/willflux/status/1465268154733637633)
+- Dec 19 - [Apple macOS Monterey 12 Performance Is Surprisingly Competitive with Linux](https://www.phoronix.com/scan.php?page=article&item=macos-12-linux)
 <!--END_SECTION:hn-->
 
 <!--
