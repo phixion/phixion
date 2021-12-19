@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 19 - [A Search for Analogs of Boyajian's Star: A Second List of Candidates](https://arxiv.org/abs/2111.01208)
-- Dec 19 - [SciRate: An open source website to browse, save, and comment ArXiv articles](https://scirate.com/)
-- Dec 19 - [I was part of a human subject research study without my consent](https://christine.website/blog/princeton-study-2021-12-17)
-- Dec 19 - [Unix Shell Programming: The Next 50 Years](https://www.micahlerner.com/2021/07/14/unix-shell-programming-the-next-50-years.html)
-- Dec 19 - [Xcode 13.2 contains Log4j vulnerability](https://developer.apple.com/forums/thread/696785)
+- Dec 19 - [Ohio Gov deploys National Guard to hospitals as Covid deaths surpass 2020 levels](https://ohiocapitaljournal.com/2021/12/17/gov-dewine-deploys-national-guard-to-hospitals-as-covid-deaths-surpass-2020/)
+- Dec 19 - [Sirum Is Hiring Experienced Developers in Atlanta](https://www.sirum.org/about/#careers)
+- Dec 19 - [Bottles: GUI front end to run Windows software on Linux](https://usebottles.com/)
+- Dec 19 - [Ask HN: Have you accepted the TOS that give FB access to your WhatsApp data?](https://news.ycombinator.com/item?id=29612778)
+- Dec 19 - [Decap of a tiny chip that plays Christmas songs](https://twitter.com/kenshirriff/status/1472297415201869831)
 <!--END_SECTION:hn-->
 
 <!--
