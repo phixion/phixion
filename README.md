@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 19 - [Fish sausages: Ugandan CEO taps into demand](https://www.howwemadeitinafrica.com/fish-sausages-ugandan-ceo-taps-into-demand-for-fish-products/134985/)
-- Dec 19 - [Against Translation](https://libertiesjournal.com/articles/against-translation/)
-- Dec 19 - [Comparing the Librem 5 USA and PinePhone Beta](https://amosbbatto.wordpress.com/2021/12/10/comparing-l5-and-pp/)
-- Dec 19 - [Yo mama's mama's mama's mama: our understanding of human origins](https://razib.substack.com/p/yo-mamas-mamas-mamas-mama-etc)
-- Dec 19 - [Derek Lowe: Omicron Update (Dec 17)](https://www.science.org/content/blog-post/omicron-update)
+- Dec 19 - [The AlohaNet: Surfing for Wireless Data (2009) [pdf]](https://www.eng.hawaii.edu/wp-content/uploads/2020/06/THE-ALOHANET-%E2%80%94-SURFING-FOR-WIRELESS-DATA.pdf)
+- Dec 19 - [Apple’s use of Swift and SwiftUI in iOS 15](https://blog.timac.org/2021/1219-state-of-swift-and-swiftui-ios15/)
+- Dec 19 - [Forest data for 236 countries and territories in the period 1990-2020](https://www.fao.org/forest-resources-assessment/2020/en/)
+- Dec 19 - [The timing of evolutionary transitions suggests intelligent life is rare](https://www.liebertpub.com/doi/10.1089/ast.2019.2149)
+- Dec 19 - [Show HN: Turn a Raspberry Pi into a Bluetooth MIDI Device](https://github.com/Mylab6/PiBluetoothMidSetup)
 <!--END_SECTION:hn-->
 
 <!--
