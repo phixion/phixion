@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 20 - [Ask HN: What tech stack would you use to build a new web app today?](https://news.ycombinator.com/item?id=29626371)
-- Dec 20 - [Bugs are evolving to eat plastic](https://www.nationalobserver.com/2021/12/17/news/bugs-are-evolving-eat-plastic)
-- Dec 20 - [The bulldozer vs. vetocracy political axis](https://vitalik.ca/general/2021/12/19/bullveto.html)
-- Dec 20 - [Learn Accounting for Free](https://www.accountingcoach.com/)
-- Dec 20 - [The QOI File Format Specification](https://phoboslab.org/log/2021/12/qoi-specification)
+- Dec 20 - [UK’s largest flow battery energised at Energy Superhub Oxford](https://energysuperhuboxford.org/uks-largest-flow-battery-energised-at-energy-superhub-oxford/)
+- Dec 20 - [DARPA Selects Performers to Build, Test Manta Ray Unmanned Underwater Vehicles](https://www.darpa.mil/news-events/2021-12-20)
+- Dec 20 - [Ubisoft's Unprecedented “Exodus” of Developers](https://www.axios.com/ubisoft-assassins-creed-great-resignation-aef86e61-75a8-4446-8ad6-f2c58bd0b730.html)
+- Dec 20 - [Show HN: Python decorator that enables arbitrarily-deep tail/non-tail recursion](https://github.com/tylerhou/fiber)
+- Dec 20 - [Launch HN: FlutterFlow (YC W21) – Build Apps Visually](https://news.ycombinator.com/item?id=29628716)
 <!--END_SECTION:hn-->
 
 <!--
