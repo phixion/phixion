@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 20 - [Honey bees, Varroa mites and unintended consequences](https://www.economist.com/science-and-technology/2021/12/15/honey-bees-varroa-mites-and-unintended-consequences/21806830)
-- Dec 20 - [Amputated fingertips sometimes grow back (2013)](https://www.npr.org/sections/health-shots/2013/06/10/190385484/chopped-how-amputated-fingertips-sometimes-grow-back)
-- Dec 20 - [Generally Intelligent (YC S17) Is Hiring Systems Engineers (Remote, SF)](https://news.ycombinator.com/item?id=29620454)
-- Dec 20 - [Overview: Alternate open-source front-ends for (YouTube, Twitter, etc.)](https://github.com/mendel5/alternative-front-ends)
-- Dec 20 - [Show HN: Mum's 80th birthday present- a rotary phone from the 1970's](http://fourlightyears.blogspot.com/2021/12/this-is-my-mums-80th-birthday-present.html)
+- Dec 20 - [The Scholarly Pursuit of Shrek](https://www.pastemagazine.com/comedy/shrek-irony-jamie-loftus/)
+- Dec 20 - [OneSignal (YC S11) Is Hiring Engineers in California, Texas, New York, & London](https://onesignal.com/careers)
+- Dec 20 - [Simon Willison's Annotated Explanation of David Beazley's Dataklasses](https://til.simonwillison.net/python/annotated-dataklasses)
+- Dec 20 - [Fixing Memory Leaks in Popular Python Libraries](https://www.paulsprogrammingnotes.com/2021/12/python-memory-leaks.html)
+- Dec 20 - [Against 3x Speed](https://perell.com/essay/against-3x-speed/)
 <!--END_SECTION:hn-->
 
 <!--
