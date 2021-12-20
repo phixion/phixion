@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 20 - [Meticulous (YC S21) Is Hiring #2 Founding Engineer in London](https://news.ycombinator.com/item?id=29623881)
-- Dec 20 - [Tesla remotely unlocks Model 3 car, uses smart summon to help repo agent](https://tiremeetsroad.com/2021/03/18/tesla-allegedly-remotely-unlocks-model-3-owners-car-uses-smart-summon-to-help-repo-agent/)
-- Dec 20 - [The Stick of Jan Sloot (2004)](http://www.spronck.net/sloot.html)
-- Dec 20 - [Code Review as a Service](https://www.pullrequest.com/)
-- Dec 20 - [ReactOS 0.4.14](https://reactos.org/project-news/reactos-0414-released/)
+- Dec 20 - [Ask HN: What tech stack would you use to build a new web app today?](https://news.ycombinator.com/item?id=29626371)
+- Dec 20 - [Bugs are evolving to eat plastic](https://www.nationalobserver.com/2021/12/17/news/bugs-are-evolving-eat-plastic)
+- Dec 20 - [The bulldozer vs. vetocracy political axis](https://vitalik.ca/general/2021/12/19/bullveto.html)
+- Dec 20 - [Learn Accounting for Free](https://www.accountingcoach.com/)
+- Dec 20 - [The QOI File Format Specification](https://phoboslab.org/log/2021/12/qoi-specification)
 <!--END_SECTION:hn-->
 
 <!--
