@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 20 - [UK’s largest flow battery energised at Energy Superhub Oxford](https://energysuperhuboxford.org/uks-largest-flow-battery-energised-at-energy-superhub-oxford/)
-- Dec 20 - [DARPA Selects Performers to Build, Test Manta Ray Unmanned Underwater Vehicles](https://www.darpa.mil/news-events/2021-12-20)
-- Dec 20 - [Ubisoft's Unprecedented “Exodus” of Developers](https://www.axios.com/ubisoft-assassins-creed-great-resignation-aef86e61-75a8-4446-8ad6-f2c58bd0b730.html)
-- Dec 20 - [Show HN: Python decorator that enables arbitrarily-deep tail/non-tail recursion](https://github.com/tylerhou/fiber)
-- Dec 20 - [Launch HN: FlutterFlow (YC W21) – Build Apps Visually](https://news.ycombinator.com/item?id=29628716)
+- Dec 21 - [Finley (YC W21) is hiring early engineers to build fintech SaaS (Remote)](https://www.finleycms.com/careers/)
+- Dec 21 - [Unloved by generations of soldiers, the MRE finds a fan base](https://www.nytimes.com/2021/06/08/dining/mre-meals-ready-to-eat.html)
+- Dec 20 - [Detailed Footage Finally Reveals What Triggers Lightning](https://www.quantamagazine.org/radio-telescope-reveals-how-lightning-begins-20211220/)
+- Dec 20 - [Femtolisp – a lightweight, robust, scheme-like Lisp implementation](https://github.com/JeffBezanson/femtolisp)
+- Dec 20 - [A simple proposal to humankind. Global Peace Dividend](https://peace-dividend.org/)
 <!--END_SECTION:hn-->
 
 <!--
