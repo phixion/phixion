@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 21 - [Deepnote (YC S19) is hiring to build a better data science notebook](https://deepnote.com/join-us)
-- Dec 21 - [Tor Snowflake Proxy](https://snowflake.torproject.org/)
-- Dec 21 - [The Olkiluoto 3 EPR plant unit started up](https://www.tvo.fi/en/index/news/pressreleasesstockexchangereleases/2021/theolkiluoto3eprplantunitstartedup.html)
-- Dec 21 - [Lottie – use After Effects animations in web and native apps](https://airbnb.io/lottie/)
-- Dec 21 - [“It Started as a Joke”: On the Design of Idle Games (2019)](https://dl.acm.org/doi/10.1145/3311350.3347180)
+- Dec 21 - [Pachyderm is hiring DevRel and Go Engineers to build world-class Data Versioning](https://www.pachyderm.com/careers/#positions)
+- Dec 21 - [All Bitcoin private keys are on this website](https://playxo.com)
+- Dec 21 - [How to Develop BW Film at Home with Coffee](https://www.fieldmag.com/articles/how-to-develop-film-with-coffee-caffenol-guide)
+- Dec 21 - [Animated Drawings](https://sketch.metademolab.com/)
+- Dec 21 - [RCE in Visual Studio Code's Remote WSL for Fun and Negative Profit](https://parsiya.net/blog/2021-12-20-rce-in-visual-studio-codes-remote-wsl-for-fun-and-negative-profit/)
 <!--END_SECTION:hn-->
 
 <!--
