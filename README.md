@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 21 - [Pachyderm is hiring DevRel and Go Engineers to build world-class Data Versioning](https://www.pachyderm.com/careers/#positions)
-- Dec 21 - [All Bitcoin private keys are on this website](https://playxo.com)
-- Dec 21 - [How to Develop BW Film at Home with Coffee](https://www.fieldmag.com/articles/how-to-develop-film-with-coffee-caffenol-guide)
-- Dec 21 - [Animated Drawings](https://sketch.metademolab.com/)
-- Dec 21 - [RCE in Visual Studio Code's Remote WSL for Fun and Negative Profit](https://parsiya.net/blog/2021-12-20-rce-in-visual-studio-codes-remote-wsl-for-fun-and-negative-profit/)
+- Dec 21 - [The Fishback (Bussard) ramjet revisited](https://www.sciencedirect.com/science/article/pii/S0094576521005804)
+- Dec 21 - [Unix Admin. Horror Story Summary, Version 1.0](https://www-uxsup.csx.cam.ac.uk/misc/horror.txt)
+- Dec 21 - [PR to Merge Multicore OCaml](https://github.com/ocaml/ocaml/pull/10831)
+- Dec 21 - [Show HN: "crzy64", base64 mod aimed for fastest decoding](https://github.com/ilyakurdyukov/crzy64)
+- Dec 21 - [Ligatures in Programming Fonts: Hell No](https://practicaltypography.com/ligatures-in-programming-fonts-hell-no.html)
 <!--END_SECTION:hn-->
 
 <!--
