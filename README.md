@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 21 - [Finley (YC W21) is hiring early engineers to build fintech SaaS (Remote)](https://www.finleycms.com/careers/)
-- Dec 21 - [Unloved by generations of soldiers, the MRE finds a fan base](https://www.nytimes.com/2021/06/08/dining/mre-meals-ready-to-eat.html)
-- Dec 20 - [Detailed Footage Finally Reveals What Triggers Lightning](https://www.quantamagazine.org/radio-telescope-reveals-how-lightning-begins-20211220/)
-- Dec 20 - [Femtolisp – a lightweight, robust, scheme-like Lisp implementation](https://github.com/JeffBezanson/femtolisp)
-- Dec 20 - [A simple proposal to humankind. Global Peace Dividend](https://peace-dividend.org/)
+- Dec 21 - [“It Started as a Joke”: On the Design of Idle Games (2019)](https://dl.acm.org/doi/10.1145/3311350.3347180)
+- Dec 21 - [My career of treating patients has ended](https://old.reddit.com/r/QAnonCasualties/comments/rakxun/my_career_of_treating_patients_has_ended/)
+- Dec 21 - [Kodi: An Open Source Home Theater System](https://kodi.tv/)
+- Dec 21 - [CDC: Omicron 73% of US Covid Cases Last Week](https://covid.cdc.gov/covid-data-tracker/#variant-proportions)
+- Dec 21 - [An extinct millipede the length of a car once roamed northern England](https://www.npr.org/2021/12/20/1065759563/extinct-millipede-car-northern-england-arthropleura)
 <!--END_SECTION:hn-->
 
 <!--
