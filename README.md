@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 22 - [Convictional (YC W19) is hiring engineers to build the future of B2B trade-Remote](https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3)
-- Dec 22 - [James Webb Space Telescope Launch Postponed](https://scitechdaily.com/james-webb-space-telescope-launch-postponed-heres-why-and-the-new-launch-date/)
-- Dec 22 - [Pure Bash lightweight web server](https://github.com/remileduc/sherver)
-- Dec 22 - [Now DuckDuckGo is building its own desktop browser](https://www.zdnet.com/article/now-duckduckgo-is-building-its-own-desktop-browser/)
-- Dec 22 - [Polish opposition duo hacked with NSO spyware](https://apnews.com/article/technology-business-poland-hacking-warsaw-8b52e16d1af60f9c324cf9f5099b687e)
+- Dec 22 - [Ontario Court Declares the Ontario Math Proficiency Test Unconstitutional](https://www.otffeo.on.ca/en/news/ontario-court-declares-that-the-ontario-math-proficiency-test-is-unconstitutional/)
+- Dec 22 - [Princeton Researcher Apologizes for Threatening GDPR/CCPA Email Study](https://privacystudy.cs.princeton.edu/?update)
+- Dec 22 - [Google Drive may restrict files identified as violating ToS](https://workspaceupdates.googleblog.com/2021/12/abuse-notification-emails-google-drive.html)
+- Dec 22 - [The Dreamcast Legacy](https://hackaday.com/2021/12/22/the-dreamcast-legacy/)
+- Dec 22 - [Raspberry Pi holds its own against low-cost ARM NAS](https://www.jeffgeerling.com/blog/2021/raspberry-pi-holds-its-own-against-low-cost-arm-nas)
 <!--END_SECTION:hn-->
 
 <!--
