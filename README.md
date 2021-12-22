@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 22 - [(Mac)OStalgia. How Spotify, Slack, Chrome, Figma Could Look Like on Mac OS 9](http://swallowmygraphicdesign.com/project/macostalgia)
-- Dec 22 - [The Prisoner-Run Radio Station That’s Reaching Men on Death Row](https://www.themarshallproject.org/2021/12/20/the-prison-radio-station-that-s-reaching-men-on-death-row)
-- Dec 22 - [BuildZoom (better way to build custom homes) is hiring a head of marketing](https://jobs.lever.co/buildzoom)
-- Dec 22 - [Intuitive Advanced Cryptography [pdf]](https://github.com/cryptosubtlety/intuitive-advanced-cryptography/blob/master/advancedcrypto.pdf)
-- Dec 22 - [Quantum theory based on real numbers can be experimentally falsified](https://www.nature.com/articles/s41586-021-04160-4)
+- Dec 22 - [“Zero fucks given” in other languages](https://nitter.net/AdamCSharp/status/1473035981511180291)
+- Dec 22 - [Stacker (YC S20) Is Hiring Across Engineering](https://www.stackerhq.com/careers#job-listing)
+- Dec 22 - [English has been my pain for 15 years (2013)](http://antirez.com/news/61)
+- Dec 22 - [Earth’s magnetic field illuminates Biblical history](https://www.economist.com/science-and-technology/earths-magnetic-field-illuminates-biblical-history/21806831)
+- Dec 22 - [Improving Language Models by Retrieving from Trillions of Tokens](https://deepmind.com/research/publications/2021/improving-language-models-by-retrieving-from-trillions-of-tokens)
 <!--END_SECTION:hn-->
 
 <!--
