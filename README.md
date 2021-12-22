@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 22 - [“Zero fucks given” in other languages](https://nitter.net/AdamCSharp/status/1473035981511180291)
-- Dec 22 - [Stacker (YC S20) Is Hiring Across Engineering](https://www.stackerhq.com/careers#job-listing)
-- Dec 22 - [English has been my pain for 15 years (2013)](http://antirez.com/news/61)
-- Dec 22 - [Earth’s magnetic field illuminates Biblical history](https://www.economist.com/science-and-technology/earths-magnetic-field-illuminates-biblical-history/21806831)
-- Dec 22 - [Improving Language Models by Retrieving from Trillions of Tokens](https://deepmind.com/research/publications/2021/improving-language-models-by-retrieving-from-trillions-of-tokens)
+- Dec 22 - [Convictional (YC W19) is hiring engineers to build the future of B2B trade-Remote](https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3)
+- Dec 22 - [James Webb Space Telescope Launch Postponed](https://scitechdaily.com/james-webb-space-telescope-launch-postponed-heres-why-and-the-new-launch-date/)
+- Dec 22 - [Pure Bash lightweight web server](https://github.com/remileduc/sherver)
+- Dec 22 - [Now DuckDuckGo is building its own desktop browser](https://www.zdnet.com/article/now-duckduckgo-is-building-its-own-desktop-browser/)
+- Dec 22 - [Polish opposition duo hacked with NSO spyware](https://apnews.com/article/technology-business-poland-hacking-warsaw-8b52e16d1af60f9c324cf9f5099b687e)
 <!--END_SECTION:hn-->
 
 <!--
