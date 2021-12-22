@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 22 - [Ontario Court Declares the Ontario Math Proficiency Test Unconstitutional](https://www.otffeo.on.ca/en/news/ontario-court-declares-that-the-ontario-math-proficiency-test-is-unconstitutional/)
-- Dec 22 - [Princeton Researcher Apologizes for Threatening GDPR/CCPA Email Study](https://privacystudy.cs.princeton.edu/?update)
-- Dec 22 - [Google Drive may restrict files identified as violating ToS](https://workspaceupdates.googleblog.com/2021/12/abuse-notification-emails-google-drive.html)
-- Dec 22 - [The Dreamcast Legacy](https://hackaday.com/2021/12/22/the-dreamcast-legacy/)
-- Dec 22 - [Raspberry Pi holds its own against low-cost ARM NAS](https://www.jeffgeerling.com/blog/2021/raspberry-pi-holds-its-own-against-low-cost-arm-nas)
+- Dec 22 - [Buying Influence: How China manipulates Facebook and Twitter](https://www.nytimes.com/interactive/2021/12/20/technology/china-facebook-twitter-influence-manipulation.html)
+- Dec 22 - [South Africa’s omicron coronavirus outbreak subsides as fast as it grew](https://www.washingtonpost.com/world/2021/12/22/south-africa-omicron-coronavirus-cases/)
+- Dec 22 - [Our recent server issues](https://lichess.org/@/Lichess/blog/our-recent-server-issues/FdKHVehW)
+- Dec 22 - [Germany is closing half of its reactors before the end of the year](https://www.bnnbloomberg.ca/germany-is-closing-half-of-its-reactors-at-worst-possible-time-1.1698757)
+- Dec 22 - [Three Minor Features in Go 1.18](https://blog.carlmjohnson.net/post/2021/golang-118-minor-features/)
 <!--END_SECTION:hn-->
 
 <!--
