@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 23 - [Ask HN: Best alternatives to Google Analytics in 2021?](https://news.ycombinator.com/item?id=29662859)
-- Dec 23 - [Bitwarden compatible server written in Rust](https://github.com/dani-garcia/vaultwarden)
-- Dec 23 - [Alternative privacy-respecting front ends for popular services](https://github.com/digitalblossom/alternative-frontends)
-- Dec 23 - [How to automatically close those annoying “Launch Meeting” tabs from Zoom](https://zapier.com/blog/automatically-close-the-launch-meeting-zoom-tab/)
-- Dec 23 - [PineNote Developer Edition – E-Paper Tablet from Pine64](https://pine64.com/product/pinenote-developer-edition/)
+- Dec 23 - [A Farewell to LWN](https://lwn.net/SubscriberLink/879072/24151294abe770de/)
+- Dec 23 - [Redirector – Browser extension to redirect to privacy respecting front-ends](https://github.com/einaregilsson/Redirector)
+- Dec 23 - [AWS power failure in US-EAST-1 region killed some hardware and instances](https://www.theregister.com/2021/12/22/aws_outage/)
+- Dec 23 - [Twitter’s founder admits that shutting down the API was “Worst thing we did”](https://www.revyuh.com/news/software/developers/twitters-founder-admits-that-shutting-down-the-api-was-worst-thing-we-did-it-affected-users-and-developers/)
+- Dec 23 - [That's My Ape - A blockchain-free chain of custody tool](https://thatsmyape.com/)
 <!--END_SECTION:hn-->
 
 <!--
