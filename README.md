@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 22 - [Buying Influence: How China manipulates Facebook and Twitter](https://www.nytimes.com/interactive/2021/12/20/technology/china-facebook-twitter-influence-manipulation.html)
-- Dec 22 - [South Africa’s omicron coronavirus outbreak subsides as fast as it grew](https://www.washingtonpost.com/world/2021/12/22/south-africa-omicron-coronavirus-cases/)
-- Dec 22 - [Our recent server issues](https://lichess.org/@/Lichess/blog/our-recent-server-issues/FdKHVehW)
-- Dec 22 - [Germany is closing half of its reactors before the end of the year](https://www.bnnbloomberg.ca/germany-is-closing-half-of-its-reactors-at-worst-possible-time-1.1698757)
-- Dec 22 - [Three Minor Features in Go 1.18](https://blog.carlmjohnson.net/post/2021/golang-118-minor-features/)
+- Dec 23 - [Cache Poisoning at Scale](https://youst.in/posts/cache-poisoning-at-scale/)
+- Dec 23 - [Show HN: Embed your source code in PNG files](https://github.com/Fusion/pngsource)
+- Dec 22 - [Jean Gebser: The Ever Present Origin (1949)](https://archive.org/details/the-ever-present-origin-by-jean-gebser)
+- Dec 22 - [Data leak of all Albanians 600k+ profiles](https://exit.al/en/2021/12/22/tirana-prosecution-to-investigate-alleged-data-leak-of-more-than-630000-albanian-citizens/)
+- Dec 22 - [Show HN: Jig – a tool to define, compute and monitor metrics](https://www.jigdev.com)
 <!--END_SECTION:hn-->
 
 <!--
