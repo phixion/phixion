@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 23 - [CCP pulls support from Alibaba Cloud for not reporting Log4j flaw to gov first](https://www.scmp.com/tech/big-tech/article/3160670/apache-log4j-bug-chinas-industry-ministry-pulls-support-alibaba-cloud)
-- Dec 23 - [PortableApps.com Hits 1 Billion App Downloads](https://portableapps.com/news/2021-12-22--portableapps.com-hits-1-billion-portable-apps-downloaded)
-- Dec 23 - [Saying goodbye to an old friend](https://ar.al/2021/12/16/saying-goodbye-to-an-old-friend/)
-- Dec 23 - [Street Fighter II paper trails – allocating sprite space by hand](https://fabiensanglard.net/sf2_sheets/index.html)
-- Dec 23 - [Cache Poisoning at Scale](https://youst.in/posts/cache-poisoning-at-scale/)
+- Dec 23 - [Does the Bronze Garbage Collector Make Rust Easier to Use?](https://arxiv.org/abs/2110.01098)
+- Dec 23 - [The Clean Language](https://clean.cs.ru.nl/Clean)
+- Dec 23 - [Unmaking a Murderer](https://www.chicagomag.com/chicago-magazine/march-2022/unmaking-a-murderer/)
+- Dec 23 - [AWS Support able to access any S3 object due to permission change](https://twitter.com/QuinnyPig/status/1473705669517791253)
+- Dec 23 - [Apache Log4j bug: China’s industry ministry pulls support from Alibaba Cloud](https://www.scmp.com/tech/big-tech/article/3160670/apache-log4j-bug-chinas-industry-ministry-pulls-support-alibaba-cloud)
 <!--END_SECTION:hn-->
 
 <!--
