@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 23 - [Does the Bronze Garbage Collector Make Rust Easier to Use?](https://arxiv.org/abs/2110.01098)
-- Dec 23 - [The Clean Language](https://clean.cs.ru.nl/Clean)
-- Dec 23 - [Unmaking a Murderer](https://www.chicagomag.com/chicago-magazine/march-2022/unmaking-a-murderer/)
-- Dec 23 - [AWS Support able to access any S3 object due to permission change](https://twitter.com/QuinnyPig/status/1473705669517791253)
-- Dec 23 - [Apache Log4j bug: China’s industry ministry pulls support from Alibaba Cloud](https://www.scmp.com/tech/big-tech/article/3160670/apache-log4j-bug-chinas-industry-ministry-pulls-support-alibaba-cloud)
+- Dec 23 - [DevCycle (YC W14) – Feature Flags for Remote Teams – Hiring Growth Engineer #1](https://devcycle.com/company/careers)
+- Dec 23 - [Water drinking acutely improves orthostatic tolerance in healthy subjects (2002)](https://pubmed.ncbi.nlm.nih.gov/12451007/)
+- Dec 23 - [Krita 5.0 Released](https://krita.org/en/item/krita-5-0-released/)
+- Dec 23 - [Graph of the “no smell” complaints for the top three Yankee Candles on Amazon](https://twitter.com/nick_beauchamp/status/1473509106187223043)
+- Dec 23 - [Democratic Domestic Product](https://ergodicityeconomics.com/2020/02/26/democratic-domestic-product/)
 <!--END_SECTION:hn-->
 
 <!--
