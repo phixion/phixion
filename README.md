@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 23 - [DevCycle (YC W14) – Feature Flags for Remote Teams – Hiring Growth Engineer #1](https://devcycle.com/company/careers)
-- Dec 23 - [Water drinking acutely improves orthostatic tolerance in healthy subjects (2002)](https://pubmed.ncbi.nlm.nih.gov/12451007/)
-- Dec 23 - [Krita 5.0 Released](https://krita.org/en/item/krita-5-0-released/)
-- Dec 23 - [Graph of the “no smell” complaints for the top three Yankee Candles on Amazon](https://twitter.com/nick_beauchamp/status/1473509106187223043)
-- Dec 23 - [Democratic Domestic Product](https://ergodicityeconomics.com/2020/02/26/democratic-domestic-product/)
+- Dec 23 - [Ask HN: Best alternatives to Google Analytics in 2021?](https://news.ycombinator.com/item?id=29662859)
+- Dec 23 - [Bitwarden compatible server written in Rust](https://github.com/dani-garcia/vaultwarden)
+- Dec 23 - [Alternative privacy-respecting front ends for popular services](https://github.com/digitalblossom/alternative-frontends)
+- Dec 23 - [How to automatically close those annoying “Launch Meeting” tabs from Zoom](https://zapier.com/blog/automatically-close-the-launch-meeting-zoom-tab/)
+- Dec 23 - [PineNote Developer Edition – E-Paper Tablet from Pine64](https://pine64.com/product/pinenote-developer-edition/)
 <!--END_SECTION:hn-->
 
 <!--
