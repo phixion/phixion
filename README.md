@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 23 - [CCP pulls support from Alibaba Cloud for not reporting Log4j flaw to gov first](https://www.scmp.com/tech/big-tech/article/3160670/apache-log4j-bug-chinas-industry-ministry-pulls-support-alibaba-cloud)
+- Dec 23 - [PortableApps.com Hits 1 Billion App Downloads](https://portableapps.com/news/2021-12-22--portableapps.com-hits-1-billion-portable-apps-downloaded)
+- Dec 23 - [Saying goodbye to an old friend](https://ar.al/2021/12/16/saying-goodbye-to-an-old-friend/)
+- Dec 23 - [Street Fighter II paper trails – allocating sprite space by hand](https://fabiensanglard.net/sf2_sheets/index.html)
 - Dec 23 - [Cache Poisoning at Scale](https://youst.in/posts/cache-poisoning-at-scale/)
-- Dec 23 - [Show HN: Embed your source code in PNG files](https://github.com/Fusion/pngsource)
-- Dec 22 - [Jean Gebser: The Ever Present Origin (1949)](https://archive.org/details/the-ever-present-origin-by-jean-gebser)
-- Dec 22 - [Data leak of all Albanians 600k+ profiles](https://exit.al/en/2021/12/22/tirana-prosecution-to-investigate-alleged-data-leak-of-more-than-630000-albanian-citizens/)
-- Dec 22 - [Show HN: Jig – a tool to define, compute and monitor metrics](https://www.jigdev.com)
 <!--END_SECTION:hn-->
 
 <!--
