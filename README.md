@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 24 - [Russian court fines Alphabet's Google 7.2 bln roubles](https://www.reuters.com/technology/russian-court-fines-alphabets-google-72-bln-roubles-2021-12-24/)
-- Dec 24 - [List of 4,248 open source programming languages](https://codelani.com/lists/languages.html)
-- Dec 24 - [Unbuffered I/O Can Make Your Rust Programs Much Slower](https://era.co/blog/unbuffered-io-slows-rust-programs)
-- Dec 24 - [Trisquel GNU/Linux](https://trisquel.info/)
-- Dec 24 - [YouTube is testing people now?](https://old.reddit.com/r/youtube/comments/rioyyj/youtube_is_testing_people_now_what_is_the_point/)
+- Dec 24 - [Quanta of the Third Kind](https://inference-review.com/article/quanta-of-the-third-kind)
+- Dec 24 - [When do people learn languages? (2002)](https://www.zompist.com/whylang.html)
+- Dec 24 - [Running IntelliJ Idea with JDK 17 for Better Render Performance with Metal](https://mustafaakin.dev/posts/2021-12-08-running-intellij-idea-with-jdk17-for-better-render-performance/)
+- Dec 24 - [Crisp: Critical Path Analysis for Microservice Architectures](https://eng.uber.com/crisp-critical-path-analysis-for-microservice-architectures/)
+- Dec 24 - [Walking the World: Bucharest](https://intellectualinting.substack.com/p/walking-the-world-bucharest)
 <!--END_SECTION:hn-->
 
 <!--
