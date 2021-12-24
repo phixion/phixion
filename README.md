@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 24 - [To Craunch the Marmoset (2016)](https://sesquiotic.com/2016/05/02/to-craunch-the-marmoset/)
-- Dec 24 - [Tesla bows to pressure, stops allowing drivers to play video games while driving](https://www.theguardian.com/technology/2021/dec/23/tesla-vehicles-video-games-driving)
-- Dec 24 - [The Google home page is 500K](https://pagespeed.web.dev/report)
-- Dec 24 - [CSS Zen Garden: A demonstration of what can be achieved through CSS-based design](http://www.csszengarden.com/)
-- Dec 24 - [Entire website in a single HTML file](https://css-tricks.com/a-whole-website-in-a-single-html-file/)
+- Dec 24 - [Is It Even Worth Working on FOSS Anymore?](https://gavinhoward.com/2021/12/is-it-even-worth-working-on-foss-anymore/)
+- Dec 24 - [The Sucker Complex](https://itsjoeco.substack.com/p/the-sucker-complex)
+- Dec 24 - [Systemd 250 Released](https://lwn.net/Articles/879739/)
+- Dec 24 - [Apple to Apple Comparison: M1 Max vs. Intel](https://unum.cloud/post/2021-12-21-macbook/)
+- Dec 24 - [Advent of Code Surveys: Results](https://jeroenheijmans.github.io/advent-of-code-surveys/)
 <!--END_SECTION:hn-->
 
 <!--
