@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 24 - [Is It Even Worth Working on FOSS Anymore?](https://gavinhoward.com/2021/12/is-it-even-worth-working-on-foss-anymore/)
-- Dec 24 - [The Sucker Complex](https://itsjoeco.substack.com/p/the-sucker-complex)
-- Dec 24 - [Systemd 250 Released](https://lwn.net/Articles/879739/)
-- Dec 24 - [Apple to Apple Comparison: M1 Max vs. Intel](https://unum.cloud/post/2021-12-21-macbook/)
-- Dec 24 - [Advent of Code Surveys: Results](https://jeroenheijmans.github.io/advent-of-code-surveys/)
+- Dec 24 - [Smarking (YC W15) Is Hiring Head of Eng to digitize $655B parking industry](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
+- Dec 24 - [Building Remote Teams for Startups](https://vadimkravcenko.com/en/how-to-build-remote-teams-properly/)
+- Dec 24 - [On subversion and dissolution of opposition movements](https://inspiratron.org/blog/2021/12/24/on-subversion-and-dissolution-of-opposition-movements/)
+- Dec 24 - [Scuttlebutt Protocol Guide](https://ssbc.github.io/scuttlebutt-protocol-guide/)
+- Dec 24 - [Japanese university finds Alzheimer's drug effective in treating ALS](https://english.kyodonews.net/news/2021/12/f4b3d06d9d0a-breaking-news-japans-yamagata-univ-says-it-has-found-drug-effective-in-treating-als.html)
 <!--END_SECTION:hn-->
 
 <!--
