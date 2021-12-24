@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 24 - [Did Fentanyl Overdose Become Top Cause of Death for Adults Aged 18-45 in the US?](https://www.snopes.com/fact-check/fentanyl-overdose-death/)
-- Dec 23 - [Google's removed all mentions of an Intercept investigation from Search](https://twitter.com/theintercept/status/1474135677419859981)
-- Dec 23 - [Show HN: Jupyter kernel using Poetry for reproducible Python package management](https://github.com/pathbird/poetry-kernel)
-- Dec 23 - [The satirical Non-Fungible Olive Gardens sold more than $130k in volume](https://opensea.io/collection/non-fungible-olive-gardens?tab=activity)
-- Dec 23 - [Toyota 'Reviewing' Key Fob Remote Start Subscription Plan After Blowback](https://www.thedrive.com/news/43636/toyota-reviewing-key-fob-remote-start-subscription-plan-after-massive-blowback)
+- Dec 24 - [To Craunch the Marmoset (2016)](https://sesquiotic.com/2016/05/02/to-craunch-the-marmoset/)
+- Dec 24 - [Tesla bows to pressure, stops allowing drivers to play video games while driving](https://www.theguardian.com/technology/2021/dec/23/tesla-vehicles-video-games-driving)
+- Dec 24 - [The Google home page is 500K](https://pagespeed.web.dev/report)
+- Dec 24 - [CSS Zen Garden: A demonstration of what can be achieved through CSS-based design](http://www.csszengarden.com/)
+- Dec 24 - [Entire website in a single HTML file](https://css-tricks.com/a-whole-website-in-a-single-html-file/)
 <!--END_SECTION:hn-->
 
 <!--
