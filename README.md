@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 24 - [Smarking (YC W15) Is Hiring Head of Eng to digitize $655B parking industry](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
-- Dec 24 - [Building Remote Teams for Startups](https://vadimkravcenko.com/en/how-to-build-remote-teams-properly/)
-- Dec 24 - [On subversion and dissolution of opposition movements](https://inspiratron.org/blog/2021/12/24/on-subversion-and-dissolution-of-opposition-movements/)
-- Dec 24 - [Scuttlebutt Protocol Guide](https://ssbc.github.io/scuttlebutt-protocol-guide/)
-- Dec 24 - [Japanese university finds Alzheimer's drug effective in treating ALS](https://english.kyodonews.net/news/2021/12/f4b3d06d9d0a-breaking-news-japans-yamagata-univ-says-it-has-found-drug-effective-in-treating-als.html)
+- Dec 24 - [Russian court fines Alphabet's Google 7.2 bln roubles](https://www.reuters.com/technology/russian-court-fines-alphabets-google-72-bln-roubles-2021-12-24/)
+- Dec 24 - [List of 4,248 open source programming languages](https://codelani.com/lists/languages.html)
+- Dec 24 - [Unbuffered I/O Can Make Your Rust Programs Much Slower](https://era.co/blog/unbuffered-io-slows-rust-programs)
+- Dec 24 - [Trisquel GNU/Linux](https://trisquel.info/)
+- Dec 24 - [YouTube is testing people now?](https://old.reddit.com/r/youtube/comments/rioyyj/youtube_is_testing_people_now_what_is_the_point/)
 <!--END_SECTION:hn-->
 
 <!--
