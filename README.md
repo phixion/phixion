@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 23 - [A Farewell to LWN](https://lwn.net/SubscriberLink/879072/24151294abe770de/)
-- Dec 23 - [Redirector – Browser extension to redirect to privacy respecting front-ends](https://github.com/einaregilsson/Redirector)
-- Dec 23 - [AWS power failure in US-EAST-1 region killed some hardware and instances](https://www.theregister.com/2021/12/22/aws_outage/)
-- Dec 23 - [Twitter’s founder admits that shutting down the API was “Worst thing we did”](https://www.revyuh.com/news/software/developers/twitters-founder-admits-that-shutting-down-the-api-was-worst-thing-we-did-it-affected-users-and-developers/)
-- Dec 23 - [That's My Ape - A blockchain-free chain of custody tool](https://thatsmyape.com/)
+- Dec 24 - [Did Fentanyl Overdose Become Top Cause of Death for Adults Aged 18-45 in the US?](https://www.snopes.com/fact-check/fentanyl-overdose-death/)
+- Dec 23 - [Google's removed all mentions of an Intercept investigation from Search](https://twitter.com/theintercept/status/1474135677419859981)
+- Dec 23 - [Show HN: Jupyter kernel using Poetry for reproducible Python package management](https://github.com/pathbird/poetry-kernel)
+- Dec 23 - [The satirical Non-Fungible Olive Gardens sold more than $130k in volume](https://opensea.io/collection/non-fungible-olive-gardens?tab=activity)
+- Dec 23 - [Toyota 'Reviewing' Key Fob Remote Start Subscription Plan After Blowback](https://www.thedrive.com/news/43636/toyota-reviewing-key-fob-remote-start-subscription-plan-after-massive-blowback)
 <!--END_SECTION:hn-->
 
 <!--
