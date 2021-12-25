@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 25 - [25-Dec. Shout-out to everyone else at work](https://news.ycombinator.com/item?id=29683936)
-- Dec 25 - [Tell HN: Microsoft forks MIT licensed repo, and changes the copyright to them](https://github.com/microsoft/grpc_bench/commit/04c7143a39a0bb243369e31f3b3b797449468fdb)
-- Dec 25 - [We Fund Public Interest Tech](https://prototypefund.de/en/)
-- Dec 25 - [Ruby 3.1](https://www.ruby-lang.org/en/news/2021/12/25/ruby-3-1-0-released/)
-- Dec 25 - [“Autism Is a Spectrum” Doesn’t Mean What You Think (2019)](https://neuroclastic.com/its-a-spectrum-doesnt-mean-what-you-think/)
+- Dec 25 - [Buy a coal mine, drive a gas guzzler, and other uses of reverse logic](https://timharford.com/2021/12/buy-a-coal-mine-drive-a-gas-guzzler-and-other-uses-of-reverse-logic/)
+- Dec 25 - [Reverse-engineering a tiny 1980s chip that plays Christmas tunes](https://www.righto.com/2021/12/reverse-engineering-tiny-1980s-chip.html)
+- Dec 25 - [Ask HN: Remotely Helping Elderly Parents](https://news.ycombinator.com/item?id=29685115)
+- Dec 25 - [Ask HN: Have you found something you love to do? If yes how?](https://news.ycombinator.com/item?id=29685021)
+- Dec 25 - [After years of doubts, hopes grow that nuclear fusion is near](https://www.bostonglobe.com/2021/12/22/science/after-years-doubts-hopes-grow-that-nuclear-fusion-is-finally-real-could-help-address-climate-change/)
 <!--END_SECTION:hn-->
 
 <!--
