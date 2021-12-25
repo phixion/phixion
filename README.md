@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 25 - [Terra (YC W21) Is Hiring for a Founder Associate in London](https://www.ycombinator.com/companies/terra/jobs/NGbGJeN-founder-associate)
-- Dec 25 - [Gigantism is a never-ending temptation](https://spectrum.ieee.org/jumbo-airplane)
-- Dec 25 - [I Lost My Past](http://glineq.blogspot.com/2017/09/how-i-lost-my-past.html)
-- Dec 25 - [Canada's public health agency admits it tracked mobile devices during lockdown](https://nationalpost.com/news/canada/canadas-public-health-agency-admits-it-tracked-33-million-mobile-devices-during-lockdown)
-- Dec 25 - [The Last Soviet Generation](https://www.aljazeera.com/features/2021/12/24/the-last-soviet-generation)
+- Dec 25 - [Paperspace (YC W15) is hiring engineers to build a next-gen cloud](https://www.paperspace.com/careers)
+- Dec 25 - [Zoom In: An Introduction to Circuits (2020)](https://distill.pub/2020/circuits/zoom-in/)
+- Dec 25 - [Steam has been banned in China](https://www.thegamer.com/steam-banned-china-christmas-day/)
+- Dec 25 - [The USS William D. Porter: The Unluckiest Ship in WWII](https://www.usna63.org/tradition/sea_stories/Destroyer.html)
+- Dec 25 - [We Are Go for Launch](https://blogs.nasa.gov/webb/2021/12/25/we-are-go-for-launch/)
 <!--END_SECTION:hn-->
 
 <!--
