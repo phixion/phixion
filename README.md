@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 25 - [Terra (YC W21) Is Hiring for a Founder Associate in London](https://www.ycombinator.com/companies/terra/jobs/NGbGJeN-founder-associate)
+- Dec 25 - [Gigantism is a never-ending temptation](https://spectrum.ieee.org/jumbo-airplane)
+- Dec 25 - [I Lost My Past](http://glineq.blogspot.com/2017/09/how-i-lost-my-past.html)
 - Dec 25 - [Canada's public health agency admits it tracked mobile devices during lockdown](https://nationalpost.com/news/canada/canadas-public-health-agency-admits-it-tracked-33-million-mobile-devices-during-lockdown)
 - Dec 25 - [The Last Soviet Generation](https://www.aljazeera.com/features/2021/12/24/the-last-soviet-generation)
-- Dec 25 - [Why don't governments mind that companies are explicitly trying to make AGIs?](https://forum.effectivealtruism.org/posts/wdk3LCg6iFxknCYG4/why-don-t-governments-seem-to-mind-that-companies-are)
-- Dec 25 - [A Python Guide for the Ages](https://gto76.github.io/python-cheatsheet/)
-- Dec 25 - [Show me a 10ft paywall, I’ll show you a 12ft ladder](https://12ft.io/)
 <!--END_SECTION:hn-->
 
 <!--
