@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 25 - [Paperspace (YC W15) is hiring engineers to build a next-gen cloud](https://www.paperspace.com/careers)
-- Dec 25 - [Zoom In: An Introduction to Circuits (2020)](https://distill.pub/2020/circuits/zoom-in/)
-- Dec 25 - [Steam has been banned in China](https://www.thegamer.com/steam-banned-china-christmas-day/)
-- Dec 25 - [The USS William D. Porter: The Unluckiest Ship in WWII](https://www.usna63.org/tradition/sea_stories/Destroyer.html)
-- Dec 25 - [We Are Go for Launch](https://blogs.nasa.gov/webb/2021/12/25/we-are-go-for-launch/)
+- Dec 25 - [25-Dec. Shout-out to everyone else at work](https://news.ycombinator.com/item?id=29683936)
+- Dec 25 - [Tell HN: Microsoft forks MIT licensed repo, and changes the copyright to them](https://github.com/microsoft/grpc_bench/commit/04c7143a39a0bb243369e31f3b3b797449468fdb)
+- Dec 25 - [We Fund Public Interest Tech](https://prototypefund.de/en/)
+- Dec 25 - [Ruby 3.1](https://www.ruby-lang.org/en/news/2021/12/25/ruby-3-1-0-released/)
+- Dec 25 - [“Autism Is a Spectrum” Doesn’t Mean What You Think (2019)](https://neuroclastic.com/its-a-spectrum-doesnt-mean-what-you-think/)
 <!--END_SECTION:hn-->
 
 <!--
