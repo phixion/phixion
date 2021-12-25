@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 24 - [Quanta of the Third Kind](https://inference-review.com/article/quanta-of-the-third-kind)
-- Dec 24 - [When do people learn languages? (2002)](https://www.zompist.com/whylang.html)
-- Dec 24 - [Running IntelliJ Idea with JDK 17 for Better Render Performance with Metal](https://mustafaakin.dev/posts/2021-12-08-running-intellij-idea-with-jdk17-for-better-render-performance/)
-- Dec 24 - [Crisp: Critical Path Analysis for Microservice Architectures](https://eng.uber.com/crisp-critical-path-analysis-for-microservice-architectures/)
-- Dec 24 - [Walking the World: Bucharest](https://intellectualinting.substack.com/p/walking-the-world-bucharest)
+- Dec 24 - [ADHD Accommodations Guide](https://adhdatwork.add.org/adhd-accommodation-guide/)
+- Dec 24 - [Could we stop building so many damn staircases?](https://slate.com/business/2021/12/staircases-floor-plan-twitter-housing-apartments.html)
+- Dec 24 - [Great engineering teams focus on milestones instead of projects](https://www.rubick.com/milestones-not-projects/)
+- Dec 24 - [Motion (YC W20) is hiring engineers to build the future of time management](https://jobs.ashbyhq.com/motion)
+- Dec 24 - [Corrugated-paper-making machine patent (1918)](https://patents.google.com/patent/US1264506A/en)
 <!--END_SECTION:hn-->
 
 <!--
