@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 26 - [Heroes of Might and Magic](https://www.filfre.net/2021/12/heroes-of-might-and-magic/)
-- Dec 26 - [Anti-mimetic tactics for living a counter-cultural life](https://www.epsilontheory.com/25-anti-mimetic-tactics-for-living-a-counter-cultural-life/)
-- Dec 26 - [100s of El Salvadorans Report Bitcoins Disappearing from Their Chivo Wallets](https://thecryptobasic.com/2021/12/25/hundreds-of-el-salvador-citizens-report-their-bitcoins-are-disappearing-from-stated-owned-chivo-wallet/)
-- Dec 26 - [An Efficiency Comparison of Latex vs. Word](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0115069)
-- Dec 26 - [I found (and fixed) a vulnerability in Python](https://tldr.engineering/how-i-found-and-fixed-a-vulnerability-in-python/)
+- Dec 26 - [Intimate portraits of a hospital Covid unit from a photojournalist-turned-nurse](https://www.npr.org/sections/health-shots/2021/12/26/1066395049/intimate-portraits-of-a-hospital-covid-unit-from-a-photojournalist-turned-nurse)
+- Dec 26 - [Raytracing Diamonds](https://11011110.github.io/blog/2021/12/23/raytracing-diamonds.html)
+- Dec 26 - [37% of the world’s population have still never used the internet](https://www.itu.int/hub/2021/11/facts-and-figures-2021-2-9-billion-people-still-offline/)
+- Dec 26 - [A Lunar Farside Low Radio Frequency Array for Dark Ages](https://arxiv.org/abs/2103.08623)
+- Dec 26 - [Sequencing your DNA with a USB dongle and open source code](https://stackoverflow.blog/2021/12/24/sequencing-your-dna-with-a-usb-dongle-and-open-source-code/)
 <!--END_SECTION:hn-->
 
 <!--
