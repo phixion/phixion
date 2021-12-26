@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 25 - [Buy a coal mine, drive a gas guzzler, and other uses of reverse logic](https://timharford.com/2021/12/buy-a-coal-mine-drive-a-gas-guzzler-and-other-uses-of-reverse-logic/)
-- Dec 25 - [Reverse-engineering a tiny 1980s chip that plays Christmas tunes](https://www.righto.com/2021/12/reverse-engineering-tiny-1980s-chip.html)
-- Dec 25 - [Ask HN: Remotely Helping Elderly Parents](https://news.ycombinator.com/item?id=29685115)
-- Dec 25 - [Ask HN: Have you found something you love to do? If yes how?](https://news.ycombinator.com/item?id=29685021)
-- Dec 25 - [After years of doubts, hopes grow that nuclear fusion is near](https://www.bostonglobe.com/2021/12/22/science/after-years-doubts-hopes-grow-that-nuclear-fusion-is-finally-real-could-help-address-climate-change/)
+- Dec 26 - [U.S. Corporations' Repatriation of Offshore Profits: Evidence from 2018](https://www.federalreserve.gov/econres/notes/feds-notes/us-corporations-repatriation-of-offshore-profits-20190806.htm)
+- Dec 26 - [The Sound of Silence: A Noise Map of the U.S.](https://www.nps.gov/subjects/sound/soundmap.htm)
+- Dec 25 - [Pixor: Real-Time 3D Object Detection from Point Clouds](https://github.com/philip-huang/PIXOR)
+- Dec 25 - [Use deep fake tech to say stuff with your favorite characters](https://fakeyou.com)
+- Dec 25 - [The Cost of Cloud](https://ptribble.blogspot.com/2021/12/the-cost-of-cloud.html)
 <!--END_SECTION:hn-->
 
 <!--
