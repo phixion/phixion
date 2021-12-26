@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 26 - [U.S. Corporations' Repatriation of Offshore Profits: Evidence from 2018](https://www.federalreserve.gov/econres/notes/feds-notes/us-corporations-repatriation-of-offshore-profits-20190806.htm)
+- Dec 26 - [Show HN: PiTheremin](https://github.com/Mylab6/PiTheremin)
+- Dec 26 - [DIY Off-Grid Solar Power](https://www.mobile-solarpower.com/)
+- Dec 26 - [The Carpetbagger’s Guide to Home Ownership](https://www.granolashotgun.com/granolashotguncom/investors-and-affordable-housing)
 - Dec 26 - [The Sound of Silence: A Noise Map of the U.S.](https://www.nps.gov/subjects/sound/soundmap.htm)
-- Dec 25 - [Pixor: Real-Time 3D Object Detection from Point Clouds](https://github.com/philip-huang/PIXOR)
-- Dec 25 - [Use deep fake tech to say stuff with your favorite characters](https://fakeyou.com)
-- Dec 25 - [The Cost of Cloud](https://ptribble.blogspot.com/2021/12/the-cost-of-cloud.html)
+- Dec 25 - [Papers with Code](https://paperswithcode.com/)
 <!--END_SECTION:hn-->
 
 <!--
