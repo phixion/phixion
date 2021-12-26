@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 26 - [Bingo – The missing package manager for Go binaries (Homebrew for “go install”)](https://github.com/TekWizely/bingo)
+- Dec 26 - [This year, Oculus has sold more headsets than Microsoft did Xboxes](https://twitter.com/cdixon/status/1471555718746558466)
 - Dec 26 - [Show HN: PiTheremin](https://github.com/Mylab6/PiTheremin)
+- Dec 26 - [Love that lays the swale in rows (2020)](https://www.roughtype.com/?p=8783)
 - Dec 26 - [DIY Off-Grid Solar Power](https://www.mobile-solarpower.com/)
-- Dec 26 - [The Carpetbagger’s Guide to Home Ownership](https://www.granolashotgun.com/granolashotguncom/investors-and-affordable-housing)
-- Dec 26 - [The Sound of Silence: A Noise Map of the U.S.](https://www.nps.gov/subjects/sound/soundmap.htm)
-- Dec 25 - [Papers with Code](https://paperswithcode.com/)
 <!--END_SECTION:hn-->
 
 <!--
