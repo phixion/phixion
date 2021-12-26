@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 26 - [Streak (YC) is hiring remote (North America) Infrastructure engineers](https://www.streak.com/careers/backend-engineer)
-- Dec 26 - [You block ads in your browser, why not in your city?](https://bearbin.net/blog/2021/adblock-your-city)
-- Dec 26 - [My Path to Financial Independence as a Software Engineer](https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/)
-- Dec 26 - [How can I learn to work with clients well?](https://news.ycombinator.com/item?id=29690950)
-- Dec 26 - [Show HN: I'm building a non-profit search engine](https://github.com/mwmbl/mwmbl)
+- Dec 26 - [Heroes of Might and Magic](https://www.filfre.net/2021/12/heroes-of-might-and-magic/)
+- Dec 26 - [Anti-mimetic tactics for living a counter-cultural life](https://www.epsilontheory.com/25-anti-mimetic-tactics-for-living-a-counter-cultural-life/)
+- Dec 26 - [100s of El Salvadorans Report Bitcoins Disappearing from Their Chivo Wallets](https://thecryptobasic.com/2021/12/25/hundreds-of-el-salvador-citizens-report-their-bitcoins-are-disappearing-from-stated-owned-chivo-wallet/)
+- Dec 26 - [An Efficiency Comparison of Latex vs. Word](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0115069)
+- Dec 26 - [I found (and fixed) a vulnerability in Python](https://tldr.engineering/how-i-found-and-fixed-a-vulnerability-in-python/)
 <!--END_SECTION:hn-->
 
 <!--
