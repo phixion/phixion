@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 26 - [Bingo – The missing package manager for Go binaries (Homebrew for “go install”)](https://github.com/TekWizely/bingo)
-- Dec 26 - [This year, Oculus has sold more headsets than Microsoft did Xboxes](https://twitter.com/cdixon/status/1471555718746558466)
-- Dec 26 - [Show HN: PiTheremin](https://github.com/Mylab6/PiTheremin)
-- Dec 26 - [Love that lays the swale in rows (2020)](https://www.roughtype.com/?p=8783)
-- Dec 26 - [DIY Off-Grid Solar Power](https://www.mobile-solarpower.com/)
+- Dec 26 - [Streak (YC) is hiring remote (North America) Infrastructure engineers](https://www.streak.com/careers/backend-engineer)
+- Dec 26 - [You block ads in your browser, why not in your city?](https://bearbin.net/blog/2021/adblock-your-city)
+- Dec 26 - [My Path to Financial Independence as a Software Engineer](https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/)
+- Dec 26 - [How can I learn to work with clients well?](https://news.ycombinator.com/item?id=29690950)
+- Dec 26 - [Show HN: I'm building a non-profit search engine](https://github.com/mwmbl/mwmbl)
 <!--END_SECTION:hn-->
 
 <!--
