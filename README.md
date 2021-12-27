@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 27 - [OneSignal (YC S11) is hiring engineers to work on messaging: Push, SMS, & Email](https://onesignal.com/careers)
-- Dec 27 - [Denmark experimented on orphan children on behalf of the CIA](https://www.dr.dk/nyheder/indland/danske-boernehjemsboern-brugt-i-hemmelig-undersoegelse-stoettet-af-cia)
-- Dec 27 - [A stochastic method to generate the Sierpinski triangle](https://github.com/ajnirp/stochastic_sierpinski)
-- Dec 27 - [E.O. Wilson has died](https://www.reuters.com/lifestyle/science/obituary-modern-day-darwin-eo-wilson-dies-92-2021-12-27/)
-- Dec 27 - [Ask HN: What is your spiritual practice?](https://news.ycombinator.com/item?id=29700445)
+- Dec 27 - [Supermassive Black Hole Eruption Near Earth Spanning 16 Times Full Moon](https://scitechdaily.com/astronomers-capture-supermassive-black-hole-eruption-near-earth-spanning-16-times-the-full-moon-in-the-sky/)
+- Dec 27 - [Italian Courts Find Open Source Software Terms Enforceable](http://ifthisbetreason.com/2021/12/italian-courts-find-open-source-software-terms-enforceable/)
+- Dec 27 - [Rack 2 (Virtual Eurorack)](https://github.com/VCVRack/Rack)
+- Dec 27 - [Ask HN: Please recommend a router without need for a cloud account](https://news.ycombinator.com/item?id=29702844)
+- Dec 27 - [The Best Things and Stuff of 2021](http://blog.fogus.me/2021/12/27/the-best-things-and-stuff-of-2021/)
 <!--END_SECTION:hn-->
 
 <!--
