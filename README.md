@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 27 - [Simula One vs. Quest 2 vs. Valve Index](https://simulavr.com/blog/vr-comparison/)
-- Dec 27 - [Pytudes: Python programs for perfecting particular programming skills](https://github.com/norvig/pytudes)
-- Dec 27 - [Ubisoft deleted account with hundreds of dollars’ worth of games for inactivity](https://mmos.com/news/ubisoft-deleted-account-with-hundreds-of-dollars-worth-of-games-for-inactivity)
-- Dec 27 - [There's an ARM Cortex-M4 with Bluetooth inside a Covid test kit](https://twitter.com/Foone/status/1475231857851527169)
-- Dec 27 - [HyperNeRF](https://hypernerf.github.io/)
+- Dec 27 - [OneSignal (YC S11) is hiring engineers to work on messaging: Push, SMS, & Email](https://onesignal.com/careers)
+- Dec 27 - [Denmark experimented on orphan children on behalf of the CIA](https://www.dr.dk/nyheder/indland/danske-boernehjemsboern-brugt-i-hemmelig-undersoegelse-stoettet-af-cia)
+- Dec 27 - [A stochastic method to generate the Sierpinski triangle](https://github.com/ajnirp/stochastic_sierpinski)
+- Dec 27 - [E.O. Wilson has died](https://www.reuters.com/lifestyle/science/obituary-modern-day-darwin-eo-wilson-dies-92-2021-12-27/)
+- Dec 27 - [Ask HN: What is your spiritual practice?](https://news.ycombinator.com/item?id=29700445)
 <!--END_SECTION:hn-->
 
 <!--
