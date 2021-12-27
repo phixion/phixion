@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 26 - [Ask HN: How do you use HN?](https://news.ycombinator.com/item?id=29697572)
-- Dec 26 - [Privacy-focused search engine DuckDuckGo grew by 46% in 2021](https://www.bleepingcomputer.com/news/technology/privacy-focused-search-engine-duckduckgo-grew-by-46-percent-in-2021/)
-- Dec 26 - [Mux (YC W16) is hiring across the board to build the future of online video](https://mux.com/jobs)
-- Dec 26 - [Preventing Log4j with Capabilities](https://justinpombrio.net/2021/12/26/preventing-log4j-with-capabilities.html)
-- Dec 26 - [CPM MagnaCut – The Next Breakthrough in Knife Steel](https://knifesteelnerds.com/2021/03/25/cpm-magnacut/)
+- Dec 27 - [There's an ARM Cortex-M4 inside a $3.85 Covid test kit](https://twitter.com/Foone/status/1475231857851527169)
+- Dec 27 - [HyperNeRF](https://hypernerf.github.io/)
+- Dec 27 - [Ask HN: Good Python projects to read for modern Python?](https://news.ycombinator.com/item?id=29698198)
+- Dec 27 - [Once poor, always poor?](https://www.stearsng.com/article/once-poor-always-poor)
+- Dec 27 - [Omicron extensively but incompletely escapes Pfizer vaccine neutralization](https://www.nature.com/articles/d41586-021-03824-5)
 <!--END_SECTION:hn-->
 
 <!--
