@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 27 - [There's an ARM Cortex-M4 inside a $3.85 Covid test kit](https://twitter.com/Foone/status/1475231857851527169)
+- Dec 27 - [Simula One vs. Quest 2 vs. Valve Index](https://simulavr.com/blog/vr-comparison/)
+- Dec 27 - [Pytudes: Python programs for perfecting particular programming skills](https://github.com/norvig/pytudes)
+- Dec 27 - [Ubisoft deleted account with hundreds of dollars’ worth of games for inactivity](https://mmos.com/news/ubisoft-deleted-account-with-hundreds-of-dollars-worth-of-games-for-inactivity)
+- Dec 27 - [There's an ARM Cortex-M4 with Bluetooth inside a Covid test kit](https://twitter.com/Foone/status/1475231857851527169)
 - Dec 27 - [HyperNeRF](https://hypernerf.github.io/)
-- Dec 27 - [Ask HN: Good Python projects to read for modern Python?](https://news.ycombinator.com/item?id=29698198)
-- Dec 27 - [Once poor, always poor?](https://www.stearsng.com/article/once-poor-always-poor)
-- Dec 27 - [Omicron extensively but incompletely escapes Pfizer vaccine neutralization](https://www.nature.com/articles/d41586-021-03824-5)
 <!--END_SECTION:hn-->
 
 <!--
