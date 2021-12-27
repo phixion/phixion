@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 26 - [Intimate portraits of a hospital Covid unit from a photojournalist-turned-nurse](https://www.npr.org/sections/health-shots/2021/12/26/1066395049/intimate-portraits-of-a-hospital-covid-unit-from-a-photojournalist-turned-nurse)
-- Dec 26 - [Raytracing Diamonds](https://11011110.github.io/blog/2021/12/23/raytracing-diamonds.html)
-- Dec 26 - [37% of the world’s population have still never used the internet](https://www.itu.int/hub/2021/11/facts-and-figures-2021-2-9-billion-people-still-offline/)
-- Dec 26 - [A Lunar Farside Low Radio Frequency Array for Dark Ages](https://arxiv.org/abs/2103.08623)
-- Dec 26 - [Sequencing your DNA with a USB dongle and open source code](https://stackoverflow.blog/2021/12/24/sequencing-your-dna-with-a-usb-dongle-and-open-source-code/)
+- Dec 26 - [Ask HN: How do you use HN?](https://news.ycombinator.com/item?id=29697572)
+- Dec 26 - [Privacy-focused search engine DuckDuckGo grew by 46% in 2021](https://www.bleepingcomputer.com/news/technology/privacy-focused-search-engine-duckduckgo-grew-by-46-percent-in-2021/)
+- Dec 26 - [Mux (YC W16) is hiring across the board to build the future of online video](https://mux.com/jobs)
+- Dec 26 - [Preventing Log4j with Capabilities](https://justinpombrio.net/2021/12/26/preventing-log4j-with-capabilities.html)
+- Dec 26 - [CPM MagnaCut – The Next Breakthrough in Knife Steel](https://knifesteelnerds.com/2021/03/25/cpm-magnacut/)
 <!--END_SECTION:hn-->
 
 <!--
