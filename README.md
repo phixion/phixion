@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 27 - [Supermassive Black Hole Eruption Near Earth Spanning 16 Times Full Moon](https://scitechdaily.com/astronomers-capture-supermassive-black-hole-eruption-near-earth-spanning-16-times-the-full-moon-in-the-sky/)
-- Dec 27 - [Italian Courts Find Open Source Software Terms Enforceable](http://ifthisbetreason.com/2021/12/italian-courts-find-open-source-software-terms-enforceable/)
-- Dec 27 - [Rack 2 (Virtual Eurorack)](https://github.com/VCVRack/Rack)
-- Dec 27 - [Ask HN: Please recommend a router without need for a cloud account](https://news.ycombinator.com/item?id=29702844)
-- Dec 27 - [The Best Things and Stuff of 2021](http://blog.fogus.me/2021/12/27/the-best-things-and-stuff-of-2021/)
+- Dec 27 - [Show HN: Give the disappointment of an NFT-gift without having to buy one](http://nftgift.info)
+- Dec 27 - [Ask HN: How did my LastPass master password get leaked?](https://news.ycombinator.com/item?id=29705957)
+- Dec 27 - [New muscle layer discovered on the jaw](https://www.unibas.ch/en/News-Events/News/Uni-Research/New-muscle-layer-discovered-on-the-jaw.html)
+- Dec 27 - [Speedcabling](http://schkolne.com/speedcabling/rules.html)
+- Dec 27 - [Quick and dirty way to rip an eBook from Android](https://shkspr.mobi/blog/2021/12/quick-and-dirty-way-to-rip-an-ebook-from-android/)
 <!--END_SECTION:hn-->
 
 <!--
