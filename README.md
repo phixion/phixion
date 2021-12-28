@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 28 - [Show HN: Distributed Tracing Using OpenTelemetry and ClickHouse](https://github.com/uptrace/uptrace)
-- Dec 28 - [Is there life after death? John Cleese discusses with panel of scientists](https://www.openculture.com/2021/12/is-there-life-after-death-john-cleese-and-a-panel-of-scientists-discuss-that-eternal-question.html)
-- Dec 28 - [Clone a voice in 5 seconds to generate arbitrary speech in real-time](https://github.com/babysor/MockingBird)
-- Dec 28 - [GitHub – hackerkid/Mind-Expanding-Books: Books everyone should read](https://github.com/hackerkid/Mind-Expanding-Books)
-- Dec 28 - [Lua's Development Style (2008)](http://lua-users.org/lists/lua-l/2008-06/msg00407.html)
+- Dec 28 - [Mezli (YC W21) – hiring a full-stack SWE to build robot restaurant software](https://www.mezli.com/careers)
+- Dec 28 - [Please don't use Discord for FOSS projects](https://drewdevault.com/2021/12/28/Dont-use-Discord-for-FOSS.html)
+- Dec 28 - [Help HN: Stripe shutting us down with 48 hours notice on a holiday skeleton crew](https://news.ycombinator.com/item?id=29712023)
+- Dec 28 - [Ask HN: How to find a job in 2021 if I dislike remote?](https://news.ycombinator.com/item?id=29711622)
+- Dec 28 - [Rust: Experimental real-time global illumination renderer](https://github.com/EmbarkStudios/kajiya)
 <!--END_SECTION:hn-->
 
 <!--
