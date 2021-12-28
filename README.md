@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 27 - [Show HN: Give the disappointment of an NFT-gift without having to buy one](http://nftgift.info)
-- Dec 27 - [Ask HN: How did my LastPass master password get leaked?](https://news.ycombinator.com/item?id=29705957)
-- Dec 27 - [New muscle layer discovered on the jaw](https://www.unibas.ch/en/News-Events/News/Uni-Research/New-muscle-layer-discovered-on-the-jaw.html)
-- Dec 27 - [Speedcabling](http://schkolne.com/speedcabling/rules.html)
-- Dec 27 - [Quick and dirty way to rip an eBook from Android](https://shkspr.mobi/blog/2021/12/quick-and-dirty-way-to-rip-an-ebook-from-android/)
+- Dec 28 - [Shared e-bikes and e-scooters are worse for the environment than owned ones](https://www.sciencedirect.com/science/article/pii/S1361920921004296)
+- Dec 27 - [I made my first web0 website today. It's so cool it just works](https://elliott.computer/pages/web0.html)
+- Dec 27 - [AWS Ground Station](https://aws.amazon.com/ground-station/)
+- Dec 27 - [The State of External Retina Displays](https://www.caseyliss.com/2021/12/7/monitor-liss)
+- Dec 27 - [Compose.ai (YC W21) Is Hiring Engineers and Designers](https://composeai.notion.site/Work-at-Compose-AI-f9259f8867b74b0ea8431e872ee9908f)
 <!--END_SECTION:hn-->
 
 <!--
