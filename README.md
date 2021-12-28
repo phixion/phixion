@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 28 - [Unearthing the truth (about Great Zimbabwe)](https://www.economist.com/interactives/christmas-specials/2021/12/18/great-zimbabwe-archaeology)
-- Dec 28 - [The Mirrortable](https://balajis.com/mirrortable/)
-- Dec 28 - [Systems Software Research is Irrelevant [pdf]](http://herpolhode.com/rob/utah2000.pdf)
-- Dec 28 - [Ask HN: Is This Parenting or Scrum?](https://news.ycombinator.com/item?id=29709736)
-- Dec 28 - [Japan's Paper Culture](https://www.jetpens.com/blog/Japan-s-Paper-Culture/pt/998)
+- Dec 28 - [Show HN: Distributed Tracing Using OpenTelemetry and ClickHouse](https://github.com/uptrace/uptrace)
+- Dec 28 - [Is there life after death? John Cleese discusses with panel of scientists](https://www.openculture.com/2021/12/is-there-life-after-death-john-cleese-and-a-panel-of-scientists-discuss-that-eternal-question.html)
+- Dec 28 - [Clone a voice in 5 seconds to generate arbitrary speech in real-time](https://github.com/babysor/MockingBird)
+- Dec 28 - [GitHub – hackerkid/Mind-Expanding-Books: Books everyone should read](https://github.com/hackerkid/Mind-Expanding-Books)
+- Dec 28 - [Lua's Development Style (2008)](http://lua-users.org/lists/lua-l/2008-06/msg00407.html)
 <!--END_SECTION:hn-->
 
 <!--
