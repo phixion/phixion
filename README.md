@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 28 - [Gobolinux : Redefining Linux filesystem hierarchy](https://gobolinux.org/)
-- Dec 28 - [Lead-Cooled Fast Reactor Proliferation Resistance White Paper 2021](https://www.gen-4.org/gif/jcms/c_196726/lfr-prpp-white-paper-2021-final-22102021-clean2?details=true)
-- Dec 28 - [GnuPG used to ask for your support to help protect online privacy](https://gnupg.org/donate/index.html)
-- Dec 28 - [Godot CLI and libs to accelerate your dev (MIT repo)](https://github.com/uralys/fox)
-- Dec 28 - [FBI document shows what data can be obtained from encrypted messaging apps](https://therecord.media/fbi-document-shows-what-data-can-be-obtained-from-encrypted-messaging-apps/)
+- Dec 28 - [The Quest to Trap Carbon in Stone–and Beat Climate Change](https://www.wired.com/story/the-quest-to-trap-carbon-in-stone-and-beat-climate-change/)
+- Dec 28 - [Down the Rabbit Hole: The world of estranged parents' forums](http://www.issendai.com/psychology/estrangement/index.html)
+- Dec 28 - [Personal data should be auto-delete after a few months by default (2018)](https://www.ctrl.blog/entry/delete-old-data-gdpr.html)
+- Dec 28 - [Redo: A recursive, general-purpose build system](https://redo.readthedocs.io/en/latest/)
+- Dec 28 - [“Play-to-Earn” and Bullshit Jobs](https://paulbutler.org/2021/play-to-earn-and-bullshit-jobs/)
 <!--END_SECTION:hn-->
 
 <!--
