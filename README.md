@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 28 - [Shared e-bikes and e-scooters are worse for the environment than owned ones](https://www.sciencedirect.com/science/article/pii/S1361920921004296)
-- Dec 27 - [I made my first web0 website today. It's so cool it just works](https://elliott.computer/pages/web0.html)
-- Dec 27 - [AWS Ground Station](https://aws.amazon.com/ground-station/)
-- Dec 27 - [The State of External Retina Displays](https://www.caseyliss.com/2021/12/7/monitor-liss)
-- Dec 27 - [Compose.ai (YC W21) Is Hiring Engineers and Designers](https://composeai.notion.site/Work-at-Compose-AI-f9259f8867b74b0ea8431e872ee9908f)
+- Dec 28 - [Unearthing the truth (about Great Zimbabwe)](https://www.economist.com/interactives/christmas-specials/2021/12/18/great-zimbabwe-archaeology)
+- Dec 28 - [The Mirrortable](https://balajis.com/mirrortable/)
+- Dec 28 - [Systems Software Research is Irrelevant [pdf]](http://herpolhode.com/rob/utah2000.pdf)
+- Dec 28 - [Ask HN: Is This Parenting or Scrum?](https://news.ycombinator.com/item?id=29709736)
+- Dec 28 - [Japan's Paper Culture](https://www.jetpens.com/blog/Japan-s-Paper-Culture/pt/998)
 <!--END_SECTION:hn-->
 
 <!--
