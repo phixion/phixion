@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 28 - [Mezli (YC W21) – hiring a full-stack SWE to build robot restaurant software](https://www.mezli.com/careers)
-- Dec 28 - [Please don't use Discord for FOSS projects](https://drewdevault.com/2021/12/28/Dont-use-Discord-for-FOSS.html)
-- Dec 28 - [Help HN: Stripe shutting us down with 48 hours notice on a holiday skeleton crew](https://news.ycombinator.com/item?id=29712023)
-- Dec 28 - [Ask HN: How to find a job in 2021 if I dislike remote?](https://news.ycombinator.com/item?id=29711622)
-- Dec 28 - [Rust: Experimental real-time global illumination renderer](https://github.com/EmbarkStudios/kajiya)
+- Dec 28 - [Gobolinux : Redefining Linux filesystem hierarchy](https://gobolinux.org/)
+- Dec 28 - [Lead-Cooled Fast Reactor Proliferation Resistance White Paper 2021](https://www.gen-4.org/gif/jcms/c_196726/lfr-prpp-white-paper-2021-final-22102021-clean2?details=true)
+- Dec 28 - [GnuPG used to ask for your support to help protect online privacy](https://gnupg.org/donate/index.html)
+- Dec 28 - [Godot CLI and libs to accelerate your dev (MIT repo)](https://github.com/uralys/fox)
+- Dec 28 - [FBI document shows what data can be obtained from encrypted messaging apps](https://therecord.media/fbi-document-shows-what-data-can-be-obtained-from-encrypted-messaging-apps/)
 <!--END_SECTION:hn-->
 
 <!--
