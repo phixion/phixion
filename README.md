@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 29 - [Ask HN: Has remote work made you move to a new location or consider it?](https://news.ycombinator.com/item?id=29724108)
-- Dec 29 - [Clerky is hiring senior full-stack software engineers (Ruby on Rails)](https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64)
-- Dec 29 - [Hong Kong pro-democracy Stand News shuts down after police raid, arrests](https://www.reuters.com/business/media-telecom/hong-kong-police-arrest-6-current-or-former-staff-online-media-outlet-2021-12-28/)
-- Dec 29 - [Ask HN: What are some good rust code to read to learn the language?](https://news.ycombinator.com/item?id=29723455)
-- Dec 29 - [When WikiLeaks bumped into the CIA: Operation Kudo exposed [0:19:27]](https://streaming.media.ccc.de/rc3/relive/409)
+- Dec 29 - [NASA Says Webb’s Excess Fuel Likely to Extend Its Lifetime Expectations](https://blogs.nasa.gov/webb/2021/12/29/nasa-says-webbs-excess-fuel-likely-to-extend-its-lifetime-expectations/)
+- Dec 29 - [Using GroupBy on an array of objects in JavaScript](https://www.wisdomgeek.com/development/web-development/javascript/using-groupby-on-an-array-of-objects-in-javascript/)
+- Dec 29 - [Amazon’s Alexa assistant told a child to do a potentially lethal challenge](https://www.cnbc.com/2021/12/29/amazons-alexa-told-a-child-to-do-a-potentially-lethal-challenge.html)
+- Dec 29 - [Facebook Said My Article Was False. Now the Fact-Checkers Admit They Were Wrong](https://reason.com/2021/12/29/facebook-masks-false-information-science-feedback-wrong-covid/)
+- Dec 29 - [Ketamine Therapy Is Going Mainstream. Are We Ready?](https://www.newyorker.com/culture/annals-of-inquiry/ketamine-therapy-is-going-mainstream-are-we-ready)
 <!--END_SECTION:hn-->
 
 <!--
