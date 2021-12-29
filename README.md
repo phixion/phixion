@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 28 - [The Quest to Trap Carbon in Stone–and Beat Climate Change](https://www.wired.com/story/the-quest-to-trap-carbon-in-stone-and-beat-climate-change/)
-- Dec 28 - [Down the Rabbit Hole: The world of estranged parents' forums](http://www.issendai.com/psychology/estrangement/index.html)
-- Dec 28 - [Personal data should be auto-delete after a few months by default (2018)](https://www.ctrl.blog/entry/delete-old-data-gdpr.html)
-- Dec 28 - [Redo: A recursive, general-purpose build system](https://redo.readthedocs.io/en/latest/)
-- Dec 28 - [“Play-to-Earn” and Bullshit Jobs](https://paulbutler.org/2021/play-to-earn-and-bullshit-jobs/)
+- Dec 29 - [John Madden, football legend, dies at 85](https://profootballtalk.nbcsports.com/2021/12/28/john-madden-football-legend-dies-at-85/)
+- Dec 29 - [Engineers Should Invest in Decision-Making Skills Early](https://www.reforge.com/blog/technical-decision-making)
+- Dec 28 - [CenturyLink Claims Tor Relays Voilates the AUP-Forgets Big Customers Have It Too](https://www.neelc.org/posts/centurylink-hates-tor-net-neutrality/)
+- Dec 28 - [Cyberattack on one of Norway’s largest media companies shuts down presses](https://therecord.media/cyberattack-on-one-of-norways-largest-media-companies-shuts-down-presses/)
+- Dec 28 - [Tools to Download Netflix / Disney / Apple TV Content](https://github.com/widevinedump)
 <!--END_SECTION:hn-->
 
 <!--
