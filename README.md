@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 29 - [NASA Says Webb’s Excess Fuel Likely to Extend Its Lifetime Expectations](https://blogs.nasa.gov/webb/2021/12/29/nasa-says-webbs-excess-fuel-likely-to-extend-its-lifetime-expectations/)
-- Dec 29 - [Using GroupBy on an array of objects in JavaScript](https://www.wisdomgeek.com/development/web-development/javascript/using-groupby-on-an-array-of-objects-in-javascript/)
-- Dec 29 - [Amazon’s Alexa assistant told a child to do a potentially lethal challenge](https://www.cnbc.com/2021/12/29/amazons-alexa-told-a-child-to-do-a-potentially-lethal-challenge.html)
-- Dec 29 - [Facebook Said My Article Was False. Now the Fact-Checkers Admit They Were Wrong](https://reason.com/2021/12/29/facebook-masks-false-information-science-feedback-wrong-covid/)
-- Dec 29 - [Ketamine Therapy Is Going Mainstream. Are We Ready?](https://www.newyorker.com/culture/annals-of-inquiry/ketamine-therapy-is-going-mainstream-are-we-ready)
+- Dec 29 - [Tetr.io](https://tetr.io/)
+- Dec 29 - [VLISP: A Verified Implementation of Scheme [pdf]](http://mirror.informatimago.com/scheme/repository.readscheme.org/ftp/papers/vlisp-lasc/vlisp.pdf)
+- Dec 29 - [The bizarre Monowheel seen through vintage photographs](https://rarehistoricalphotos.com/monowheel-historical-photos/)
+- Dec 29 - [Satoshi Leaked His Los Angeles IP Address (2016)](https://whoissatoshi.wordpress.com/2016/02/20/satoshi-in-california/)
+- Dec 29 - [Public Domain Day 2022](https://web.law.duke.edu/cspd/publicdomainday/2022/)
 <!--END_SECTION:hn-->
 
 <!--
