@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 29 - [Miso (YC S16) Is Hiring in Seoul, Korea](https://www.workatastartup.com/companies/miso)
-- Dec 29 - [The Year in Math and Computer Science](https://www.quantamagazine.org/the-year-in-math-and-computer-science-20211223/)
-- Dec 29 - [Ask HN: Why doesn't YC list compensation for their own open positions?](https://news.ycombinator.com/item?id=29720803)
-- Dec 29 - [Tech Won’t Save Us. Shrinking Consumption Will](https://thetyee.ca/Analysis/2021/11/03/Tech-Will-Not-Save-Us-Shrinking-Consumption-Will/)
-- Dec 29 - [Oven Stoves and Heat Walls (2008)](https://www.lowtechmagazine.com/2008/12/tile-stoves.html)
+- Dec 29 - [SigNoz (YC W21) Is Hiring Senior Go Engineers to Build Open Source APM](https://www.ycombinator.com/companies/signoz/jobs/uCt5BQw-sr-software-engineer-go)
+- Dec 29 - [Bass – Lisp dialect for scripting the infrastructure beneath your project](https://bass-lang.org/index.html)
+- Dec 29 - [glibc is still not Y2038 compliant by default](https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/)
+- Dec 29 - [LaTeX Finite Automata and State Diagrams with Tikz](https://hayesall.com/blog/latex-automata/)
+- Dec 29 - [The year in math and computer science](https://www.quantamagazine.org/the-year-in-math-and-computer-science-20211223/)
 <!--END_SECTION:hn-->
 
 <!--
