@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 29 - [SigNoz (YC W21) Is Hiring Senior Go Engineers to Build Open Source APM](https://www.ycombinator.com/companies/signoz/jobs/uCt5BQw-sr-software-engineer-go)
-- Dec 29 - [Bass – Lisp dialect for scripting the infrastructure beneath your project](https://bass-lang.org/index.html)
-- Dec 29 - [glibc is still not Y2038 compliant by default](https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/)
-- Dec 29 - [LaTeX Finite Automata and State Diagrams with Tikz](https://hayesall.com/blog/latex-automata/)
-- Dec 29 - [The year in math and computer science](https://www.quantamagazine.org/the-year-in-math-and-computer-science-20211223/)
+- Dec 29 - [Ask HN: Has remote work made you move to a new location or consider it?](https://news.ycombinator.com/item?id=29724108)
+- Dec 29 - [Clerky is hiring senior full-stack software engineers (Ruby on Rails)](https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64)
+- Dec 29 - [Hong Kong pro-democracy Stand News shuts down after police raid, arrests](https://www.reuters.com/business/media-telecom/hong-kong-police-arrest-6-current-or-former-staff-online-media-outlet-2021-12-28/)
+- Dec 29 - [Ask HN: What are some good rust code to read to learn the language?](https://news.ycombinator.com/item?id=29723455)
+- Dec 29 - [When WikiLeaks bumped into the CIA: Operation Kudo exposed [0:19:27]](https://streaming.media.ccc.de/rc3/relive/409)
 <!--END_SECTION:hn-->
 
 <!--
