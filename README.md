@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 29 - [John Madden, football legend, dies at 85](https://profootballtalk.nbcsports.com/2021/12/28/john-madden-football-legend-dies-at-85/)
-- Dec 29 - [Engineers Should Invest in Decision-Making Skills Early](https://www.reforge.com/blog/technical-decision-making)
-- Dec 28 - [CenturyLink Claims Tor Relays Voilates the AUP-Forgets Big Customers Have It Too](https://www.neelc.org/posts/centurylink-hates-tor-net-neutrality/)
-- Dec 28 - [Cyberattack on one of Norway’s largest media companies shuts down presses](https://therecord.media/cyberattack-on-one-of-norways-largest-media-companies-shuts-down-presses/)
-- Dec 28 - [Tools to Download Netflix / Disney / Apple TV Content](https://github.com/widevinedump)
+- Dec 29 - [Miso (YC S16) Is Hiring in Seoul, Korea](https://www.workatastartup.com/companies/miso)
+- Dec 29 - [The Year in Math and Computer Science](https://www.quantamagazine.org/the-year-in-math-and-computer-science-20211223/)
+- Dec 29 - [Ask HN: Why doesn't YC list compensation for their own open positions?](https://news.ycombinator.com/item?id=29720803)
+- Dec 29 - [Tech Won’t Save Us. Shrinking Consumption Will](https://thetyee.ca/Analysis/2021/11/03/Tech-Will-Not-Save-Us-Shrinking-Consumption-Will/)
+- Dec 29 - [Oven Stoves and Heat Walls (2008)](https://www.lowtechmagazine.com/2008/12/tile-stoves.html)
 <!--END_SECTION:hn-->
 
 <!--
