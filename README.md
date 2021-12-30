@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 30 - [Taloflow (YC W21) Is Hiring a Dev Tools Research Manager](https://www.ycombinator.com/companies/taloflow/jobs/vgV6Yzv-dev-tools-research-manager)
-- Dec 30 - [A fast SQLite PWA notebook for CSV files](https://dirtylittlesql.com)
-- Dec 30 - [Table Oriented Programming (2002)](https://web.archive.org/web/20121024051826/http://www.geocities.com/tablizer/top.htm)
-- Dec 30 - [Northvolt assembles first lithium-ion battery cell at Swedish gigafactory](https://northvolt.com/articles/first-cell/)
-- Dec 30 - [What’s entering the public domain on January 1](https://www.smithsonianmag.com/smart-news/whats-entering-the-public-domain-on-january-1-winnie-pooh-ernest-hemingway-180979299/)
+- Dec 30 - [Idiocracy: A disturbingly prophetic look at the future](https://www.theguardian.com/culture/2021/jul/19/idiocracy-a-disturbingly-prophetic-look-at-the-future-of-america-and-our-era-of-stupidity)
+- Dec 30 - [The Darker Side of Aaron Swartz (2013)](https://www.newyorker.com/magazine/2013/03/11/requiem-for-a-dream)
+- Dec 30 - [A Minimal GUI WEB browser – Financed through donations – Actively developed](https://textbrowser.github.io/dooble/)
+- Dec 30 - [DeepCreamPy- Decensoring Hentai with Deep Neural Networks (2018)](https://github.com/liaoxiong3x/DeepCreamPy)
+- Dec 30 - [Long Now Years: Five-Digit Dates and Y10K-Compliance at Home (02013)](https://longnow.org/ideas/02013/12/31/long-now-years-five-digit-dates-and-10k-compliance-at-home/)
 <!--END_SECTION:hn-->
 
 <!--
