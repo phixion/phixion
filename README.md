@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 30 - [Playable English Localizations of Slovak Digital Games from the Late 80s Period](https://scd.sk/clanky/playable-english-localizations-of-slovak-digital-games-from-the-late-80s-period/)
-- Dec 30 - [Bad characters: imperceptible Natural Language Processing attacks [pdf]](https://arxiv.org/abs/2106.09898)
-- Dec 30 - [Browse the web like its 1999](https://oldweb.today/)
-- Dec 30 - [You’re probably using the wrong dictionary (2014)](https://jsomers.net/blog/dictionary)
-- Dec 30 - [Exposure to plastics during pregnancy can raise blood pressure](http://www.publichealth.columbia.edu/public-health-now/news/exposure-plastics-during-pregnancy-can-raise-blood-pressure)
+- Dec 30 - [Taloflow (YC W21) Is Hiring a Dev Tools Research Manager](https://www.ycombinator.com/companies/taloflow/jobs/vgV6Yzv-dev-tools-research-manager)
+- Dec 30 - [A fast SQLite PWA notebook for CSV files](https://dirtylittlesql.com)
+- Dec 30 - [Table Oriented Programming (2002)](https://web.archive.org/web/20121024051826/http://www.geocities.com/tablizer/top.htm)
+- Dec 30 - [Northvolt assembles first lithium-ion battery cell at Swedish gigafactory](https://northvolt.com/articles/first-cell/)
+- Dec 30 - [What’s entering the public domain on January 1](https://www.smithsonianmag.com/smart-news/whats-entering-the-public-domain-on-january-1-winnie-pooh-ernest-hemingway-180979299/)
 <!--END_SECTION:hn-->
 
 <!--
