@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 30 - [Idiocracy: A disturbingly prophetic look at the future](https://www.theguardian.com/culture/2021/jul/19/idiocracy-a-disturbingly-prophetic-look-at-the-future-of-america-and-our-era-of-stupidity)
-- Dec 30 - [The Darker Side of Aaron Swartz (2013)](https://www.newyorker.com/magazine/2013/03/11/requiem-for-a-dream)
-- Dec 30 - [A Minimal GUI WEB browser – Financed through donations – Actively developed](https://textbrowser.github.io/dooble/)
-- Dec 30 - [DeepCreamPy- Decensoring Hentai with Deep Neural Networks (2018)](https://github.com/liaoxiong3x/DeepCreamPy)
-- Dec 30 - [Long Now Years: Five-Digit Dates and Y10K-Compliance at Home (02013)](https://longnow.org/ideas/02013/12/31/long-now-years-five-digit-dates-and-10k-compliance-at-home/)
+- Dec 30 - [China hoards over half the world's grain](https://asia.nikkei.com/Spotlight/Datawatch/China-hoards-over-half-the-world-s-grain-pushing-up-global-prices)
+- Dec 30 - [Deepfake detection by human crowds, machines, and machine-informed crowds](https://www.pnas.org/content/119/1/e2110013119)
+- Dec 30 - [Women force change at Indian iPhone plant](https://www.reuters.com/world/india/women-force-change-indian-iphone-plant-sick-bad-food-crowded-dorms-2021-12-30/)
+- Dec 30 - [Gas tanker hit by super-yacht sinks off New Providence](http://www.tribune242.com/news/2021/dec/27/tanker-hit-super-yacht-sinks-new-providence/)
+- Dec 30 - [An mRNA-based anti-tick vaccine](https://www.science.org/doi/10.1126/scitranslmed.abm2504)
 <!--END_SECTION:hn-->
 
 <!--
