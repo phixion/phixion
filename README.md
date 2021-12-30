@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 30 - [The Black Sky Event](https://theblackskyevent.com/)
+- Dec 30 - [Experimental depression treatment is nearly 80% effective in controlled study](https://med.stanford.edu/news/all-news/2021/10/depression-treatment.html)
 - Dec 30 - [Databases in 2021: A Year in Review](https://ottertune.com/blog/2021-databases-retrospective/)
 - Dec 29 - [Implant.ARM.iLOBleed.a](https://threats.amnpardaz.com/en/2021/12/28/implant-arm-ilobleed-a/)
-- Dec 29 - [How to Talk About Autism Respectfully](https://coda.io/@mykola-bilokonsky/public-neurodiversity-support-center/how-to-talk-about-autism-respectfully-84)
 - Dec 29 - [Underground Cellar (YC W15) Is Hiring a Mobile Engineer (React Native)](https://jobs.lever.co/undergroundcellar/562bd3f4-2b93-44d2-ac57-764cf5a614c5)
-- Dec 29 - [54% of adults in the United States have prose literacy below the 6th-grade level](https://en.wikipedia.org/wiki/Literacy_in_the_United_States)
 <!--END_SECTION:hn-->
 
 <!--
