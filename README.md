@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 29 - [Tetr.io](https://tetr.io/)
-- Dec 29 - [VLISP: A Verified Implementation of Scheme [pdf]](http://mirror.informatimago.com/scheme/repository.readscheme.org/ftp/papers/vlisp-lasc/vlisp.pdf)
-- Dec 29 - [The bizarre Monowheel seen through vintage photographs](https://rarehistoricalphotos.com/monowheel-historical-photos/)
-- Dec 29 - [Satoshi Leaked His Los Angeles IP Address (2016)](https://whoissatoshi.wordpress.com/2016/02/20/satoshi-in-california/)
-- Dec 29 - [Public Domain Day 2022](https://web.law.duke.edu/cspd/publicdomainday/2022/)
+- Dec 30 - [Databases in 2021: A Year in Review](https://ottertune.com/blog/2021-databases-retrospective/)
+- Dec 29 - [Implant.ARM.iLOBleed.a](https://threats.amnpardaz.com/en/2021/12/28/implant-arm-ilobleed-a/)
+- Dec 29 - [How to Talk About Autism Respectfully](https://coda.io/@mykola-bilokonsky/public-neurodiversity-support-center/how-to-talk-about-autism-respectfully-84)
+- Dec 29 - [Underground Cellar (YC W15) Is Hiring a Mobile Engineer (React Native)](https://jobs.lever.co/undergroundcellar/562bd3f4-2b93-44d2-ac57-764cf5a614c5)
+- Dec 29 - [54% of adults in the United States have prose literacy below the 6th-grade level](https://en.wikipedia.org/wiki/Literacy_in_the_United_States)
 <!--END_SECTION:hn-->
 
 <!--
