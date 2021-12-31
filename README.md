@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 31 - [T-Mobile Actively Censoring Certain URLs](https://www.youtube.com/watch?v=U-HE6_F3tMg)
+- Dec 31 - [Hospitals Still Not Complying with Price Transparency](https://www.wsj.com/articles/hospital-price-public-biden-11640882507)
 - Dec 30 - [“Let's stop using NPS”](https://cranberryblog.substack.com/p/lets-stop-using-nps)
-- Dec 30 - [Problematic Employers in Tech](https://www.beginningwithi.com/2021/12/30/problematic-employers-in-tech/)
 - Dec 30 - [Linux Kernel RNG is now Blake2 instead of SHA1 and 3x faster](https://twitter.com/FiloSottile/status/1476698207413493766)
 - Dec 30 - [Improving the quality of publicly trusted intermediate CA certificates](https://blog.mozilla.org/security/2021/12/09/improved-quality-of-intermediate-certificates-with-enhanced-oversight-and-automation/)
-- Dec 30 - [Peter Thiel hires disgraced ex-Austrian chancellor Sebastian Kurz](https://nypost.com/2021/12/30/peter-thiel-hires-disgraced-ex-austrian-chancellor-sebastian-kurz/)
 <!--END_SECTION:hn-->
 
 <!--
