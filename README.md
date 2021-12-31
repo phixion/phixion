@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 30 - [China hoards over half the world's grain](https://asia.nikkei.com/Spotlight/Datawatch/China-hoards-over-half-the-world-s-grain-pushing-up-global-prices)
-- Dec 30 - [Deepfake detection by human crowds, machines, and machine-informed crowds](https://www.pnas.org/content/119/1/e2110013119)
-- Dec 30 - [Women force change at Indian iPhone plant](https://www.reuters.com/world/india/women-force-change-indian-iphone-plant-sick-bad-food-crowded-dorms-2021-12-30/)
-- Dec 30 - [Gas tanker hit by super-yacht sinks off New Providence](http://www.tribune242.com/news/2021/dec/27/tanker-hit-super-yacht-sinks-new-providence/)
-- Dec 30 - [An mRNA-based anti-tick vaccine](https://www.science.org/doi/10.1126/scitranslmed.abm2504)
+- Dec 30 - [“Let's stop using NPS”](https://cranberryblog.substack.com/p/lets-stop-using-nps)
+- Dec 30 - [Problematic Employers in Tech](https://www.beginningwithi.com/2021/12/30/problematic-employers-in-tech/)
+- Dec 30 - [Linux Kernel RNG is now Blake2 instead of SHA1 and 3x faster](https://twitter.com/FiloSottile/status/1476698207413493766)
+- Dec 30 - [Improving the quality of publicly trusted intermediate CA certificates](https://blog.mozilla.org/security/2021/12/09/improved-quality-of-intermediate-certificates-with-enhanced-oversight-and-automation/)
+- Dec 30 - [Peter Thiel hires disgraced ex-Austrian chancellor Sebastian Kurz](https://nypost.com/2021/12/30/peter-thiel-hires-disgraced-ex-austrian-chancellor-sebastian-kurz/)
 <!--END_SECTION:hn-->
 
 <!--
