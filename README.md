@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 31 - [C++ Modules Might Be Dead-on-Arrival (2019)](https://vector-of-bool.github.io/2019/01/27/modules-doa.html)
-- Dec 31 - [PortableGL: An implementation of OpenGL 3.x-ish in clean C](https://github.com/rswinkle/PortableGL)
-- Dec 31 - [Recovering a PostgreSQL database after a hard drive failure](https://sambhav.saggis.com/en/blog/recovering-postgresql-hard-drive-fail)
-- Dec 31 - [Counterfactual Theory of Value](https://perell.com/note/the-counterfactual-theory-of-value/)
-- Dec 31 - [MicroWeb DOS web browser – for 8088 systems](https://github.com/jhhoward/MicroWeb)
+- Dec 31 - [Sirum Is Hiring Experienced Developers in Atlanta](https://news.ycombinator.com/item?id=29747232)
+- Dec 31 - [You shouldn't parse the output of ls(1)](https://mywiki.wooledge.org/ParsingLs)
+- Dec 31 - [How Telegram Messenger circumvents Google Translate's API](https://danpetrov.xyz/programming/2021/12/30/telegram-google-translate.html)
+- Dec 31 - [The Price of Discipline](https://perell.com/essay/the-price-of-discipline/)
+- Dec 31 - [Is Bluetooth holding back Apple's AirPods? We asked the man who made them](https://www.whathifi.com/features/is-bluetooth-holding-back-apples-airpods-we-asked-the-man-who-made-them)
 <!--END_SECTION:hn-->
 
 <!--
