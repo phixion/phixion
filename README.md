@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 31 - [Sirum Is Hiring Experienced Developers in Atlanta](https://news.ycombinator.com/item?id=29747232)
-- Dec 31 - [You shouldn't parse the output of ls(1)](https://mywiki.wooledge.org/ParsingLs)
-- Dec 31 - [How Telegram Messenger circumvents Google Translate's API](https://danpetrov.xyz/programming/2021/12/30/telegram-google-translate.html)
-- Dec 31 - [The Price of Discipline](https://perell.com/essay/the-price-of-discipline/)
-- Dec 31 - [Is Bluetooth holding back Apple's AirPods? We asked the man who made them](https://www.whathifi.com/features/is-bluetooth-holding-back-apples-airpods-we-asked-the-man-who-made-them)
+- Dec 31 - [Ask HN: Selling framed physical art online](https://news.ycombinator.com/item?id=29749090)
+- Dec 31 - [Two NFT copycats are fighting over which is the real fake Bored Ape Yacht Club](https://www.theverge.com/2021/12/30/22860010/bored-ape-yacht-club-payc-phayc-copycat-nft)
+- Dec 31 - [How to Help a Friend Who Lost Their Home in a Fire (2020)](https://www.sonomamag.com/how-to-help-a-friend-who-lost-their-home-in-a-fire/)
+- Dec 31 - [Fiatjaf/nostr – a truly censorship-resistant alternative to Twitter](https://github.com/fiatjaf/nostr)
+- Dec 31 - [Smartbolts](http://www.smartbolts.com/)
 <!--END_SECTION:hn-->
 
 <!--
