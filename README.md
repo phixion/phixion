@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 31 - [T-Mobile Actively Censoring Certain URLs](https://www.youtube.com/watch?v=U-HE6_F3tMg)
-- Dec 31 - [Hospitals Still Not Complying with Price Transparency](https://www.wsj.com/articles/hospital-price-public-biden-11640882507)
-- Dec 30 - [“Let's stop using NPS”](https://cranberryblog.substack.com/p/lets-stop-using-nps)
-- Dec 30 - [Linux Kernel RNG is now Blake2 instead of SHA1 and 3x faster](https://twitter.com/FiloSottile/status/1476698207413493766)
-- Dec 30 - [Improving the quality of publicly trusted intermediate CA certificates](https://blog.mozilla.org/security/2021/12/09/improved-quality-of-intermediate-certificates-with-enhanced-oversight-and-automation/)
+- Dec 31 - [C++ Modules Might Be Dead-on-Arrival (2019)](https://vector-of-bool.github.io/2019/01/27/modules-doa.html)
+- Dec 31 - [PortableGL: An implementation of OpenGL 3.x-ish in clean C](https://github.com/rswinkle/PortableGL)
+- Dec 31 - [Recovering a PostgreSQL database after a hard drive failure](https://sambhav.saggis.com/en/blog/recovering-postgresql-hard-drive-fail)
+- Dec 31 - [Counterfactual Theory of Value](https://perell.com/note/the-counterfactual-theory-of-value/)
+- Dec 31 - [MicroWeb DOS web browser – for 8088 systems](https://github.com/jhhoward/MicroWeb)
 <!--END_SECTION:hn-->
 
 <!--
