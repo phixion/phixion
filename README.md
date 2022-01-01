@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 01 - [Tokyo: The big city that is also pleasant to live in](https://www.economist.com/special-report/2021/12/07/the-big-city-that-is-also-pleasant-to-live-in)
-- Jan 01 - [Poll: Did you know that HN allows you to make polls?](https://news.ycombinator.com/item?id=29755614)
-- Jan 01 - [Winnie the Pooh to Enter the Public Domain in 2022](https://comicbook.com/movies/news/winnie-the-pooh-enter-public-domain-2022/)
-- Jan 01 - [Finding your home in game graphics programming](http://alextardif.com/LearningGraphics.html)
-- Jan 01 - [Turboencabulator](https://en.wikipedia.org/wiki/Turboencabulator)
+- Jan 01 - [Giving Haiku Beta 3 a try](https://www.friendlyskies.net/notebook/giving-haiku-os-beta-3-a-try)
+- Jan 01 - [The FIP-FS “Microsoft” Scan Engine Failed. Can’t Convert “2201010001” to Long](https://twitter.com/miketheitguy/status/1477097527593734144)
+- Jan 01 - [The IPv6 Mess (2002)](https://cr.yp.to/djbdns/ipv6mess.html)
+- Jan 01 - [Speeding up Dijkstra by a factor of 2700](https://blog.siraben.dev/2021/12/28/aoc-speedup.html)
+- Jan 01 - [Microsoft Exchange stops passing mail due to bug on 1/1/22](https://old.reddit.com/r/sysadmin/comments/rt91z6/exchange_2019_antimalware_bad_update/)
 <!--END_SECTION:hn-->
 
 <!--
