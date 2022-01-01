@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 01 - [Finding Your Home in Game Graphics Programming](http://alextardif.com/LearningGraphics.html)
+- Jan 01 - [Tokyo: The big city that is also pleasant to live in](https://www.economist.com/special-report/2021/12/07/the-big-city-that-is-also-pleasant-to-live-in)
+- Jan 01 - [Poll: Did you know that HN allows you to make polls?](https://news.ycombinator.com/item?id=29755614)
+- Jan 01 - [Winnie the Pooh to Enter the Public Domain in 2022](https://comicbook.com/movies/news/winnie-the-pooh-enter-public-domain-2022/)
+- Jan 01 - [Finding your home in game graphics programming](http://alextardif.com/LearningGraphics.html)
 - Jan 01 - [Turboencabulator](https://en.wikipedia.org/wiki/Turboencabulator)
-- Jan 01 - [TikTok trend that makes teens believe they have serious mental disorders](https://www.goodmorningamerica.com/wellness/story/experts-troubled-tiktok-trend-teens-believing-mental-disorders-81964649)
-- Jan 01 - [Ask HN: How do you take care of yourself?](https://news.ycombinator.com/item?id=29754211)
-- Jan 01 - [Don't Waste the Good Days](https://seths.blog/2021/12/dont-waste-the-good-days/)
 <!--END_SECTION:hn-->
 
 <!--
