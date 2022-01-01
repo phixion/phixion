@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 31 - [Unicode Normalization Forms: When ö ≠ ö](https://blog.opencore.ch/posts/unicode-normalization-forms/)
-- Dec 31 - [Betty White Dies at 99](https://www.nydailynews.com/news/national/ny-betty-white-dead-age-99-tv-icon-20211231-o2zcyf56yrdvvhvwrceinqqwgi-story.html)
-- Dec 31 - [Spirit Airlines to triple flight attendant pay through Jan. 4](https://www.reuters.com/business/aerospace-defense/spirit-airlines-triple-flight-attendant-pay-through-jan-4-union-2021-12-31/)
-- Dec 31 - [Yesterday the FBI signed its first public contract with Clearview AI](https://twitter.com/_jack_poulson/status/1476936000454680576)
-- Dec 31 - [Update: iPhone Camera app did not replace person's head with a leaf](https://twitter.com/mitchcohen/status/1476951534160257026)
+- Dec 31 - [Truly Headless Draw.io Exports](https://fasterthanli.me/series/dont-shell-out/part-1)
+- Dec 31 - [HD floppies, RLL encoding, disk density auto-detection and other fun](https://c65gs.blogspot.com/2022/01/more-work-on-hd-floppies-rll-encoding.html)
+- Dec 31 - [If – A Poem by Rudyard Kipling](https://poets.org/poem/if)
+- Dec 31 - [Python module for parsing Apple Numbers .numbers files](https://github.com/masaccio/numbers-parser)
+- Dec 31 - [A new protocol and tool for PNG file attachments](https://nullprogram.com/blog/2021/12/31/)
 <!--END_SECTION:hn-->
 
 <!--
