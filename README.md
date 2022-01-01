@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 01 - [Doom](https://hn.algolia.com/?q=doom)
-- Jan 01 - [2021 Letter](https://danwang.co/2021-letter/)
-- Jan 01 - [Haxor News](https://github.com/donnemartin/haxor-news)
-- Jan 01 - [Ask HN: Who Wants to Collaborate?](https://news.ycombinator.com/item?id=29759115)
-- Jan 01 - [Update on Linux hibernation support when lockdown is enabled](https://mjg59.dreamwidth.org/58077.html)
+- Jan 01 - [Portmaster – Open-source network monitor and firewall](https://safing.io/portmaster/)
+- Jan 01 - [Log4jscanner](https://github.com/google/log4jscanner)
+- Jan 01 - [Why I'm Using HTTP Basic Auth in 2022](https://joeldare.com/why-im-using-http-basic-auth-in-2022.html)
+- Jan 01 - [Depression alters the circadian pattern of online activity](https://www.nature.com/articles/s41598-020-74314-3)
+- Jan 01 - [Silicon Valley (and Montana) radiation levels](https://lcamtuf.coredump.cx/naer/)
 <!--END_SECTION:hn-->
 
 <!--
