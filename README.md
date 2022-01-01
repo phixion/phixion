@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 01 - [Giving Haiku Beta 3 a try](https://www.friendlyskies.net/notebook/giving-haiku-os-beta-3-a-try)
-- Jan 01 - [The FIP-FS “Microsoft” Scan Engine Failed. Can’t Convert “2201010001” to Long](https://twitter.com/miketheitguy/status/1477097527593734144)
-- Jan 01 - [The IPv6 Mess (2002)](https://cr.yp.to/djbdns/ipv6mess.html)
-- Jan 01 - [Speeding up Dijkstra by a factor of 2700](https://blog.siraben.dev/2021/12/28/aoc-speedup.html)
-- Jan 01 - [Microsoft Exchange stops passing mail due to bug on 1/1/22](https://old.reddit.com/r/sysadmin/comments/rt91z6/exchange_2019_antimalware_bad_update/)
+- Jan 01 - [Doom](https://hn.algolia.com/?q=doom)
+- Jan 01 - [2021 Letter](https://danwang.co/2021-letter/)
+- Jan 01 - [Haxor News](https://github.com/donnemartin/haxor-news)
+- Jan 01 - [Ask HN: Who Wants to Collaborate?](https://news.ycombinator.com/item?id=29759115)
+- Jan 01 - [Update on Linux hibernation support when lockdown is enabled](https://mjg59.dreamwidth.org/58077.html)
 <!--END_SECTION:hn-->
 
 <!--
