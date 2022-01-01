@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 31 - [Truly Headless Draw.io Exports](https://fasterthanli.me/series/dont-shell-out/part-1)
-- Dec 31 - [HD floppies, RLL encoding, disk density auto-detection and other fun](https://c65gs.blogspot.com/2022/01/more-work-on-hd-floppies-rll-encoding.html)
-- Dec 31 - [If – A Poem by Rudyard Kipling](https://poets.org/poem/if)
-- Dec 31 - [Python module for parsing Apple Numbers .numbers files](https://github.com/masaccio/numbers-parser)
-- Dec 31 - [A new protocol and tool for PNG file attachments](https://nullprogram.com/blog/2021/12/31/)
+- Jan 01 - [Finding Your Home in Game Graphics Programming](http://alextardif.com/LearningGraphics.html)
+- Jan 01 - [Turboencabulator](https://en.wikipedia.org/wiki/Turboencabulator)
+- Jan 01 - [TikTok trend that makes teens believe they have serious mental disorders](https://www.goodmorningamerica.com/wellness/story/experts-troubled-tiktok-trend-teens-believing-mental-disorders-81964649)
+- Jan 01 - [Ask HN: How do you take care of yourself?](https://news.ycombinator.com/item?id=29754211)
+- Jan 01 - [Don't Waste the Good Days](https://seths.blog/2021/12/dont-waste-the-good-days/)
 <!--END_SECTION:hn-->
 
 <!--
