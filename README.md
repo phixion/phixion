@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 02 - [Web3 Is More Centralized](https://blog.wesleyac.com/posts/web3-centralized)
+- Jan 02 - [Secret Military Telephone Buttons](https://computer.rip/2022-01-01-secret-military-telephone-buttons.html)
+- Jan 02 - [Many surprise medical bills are now illegal](https://www.axios.com/surprise-medical-bills-illegal-doctors-insurers-faac35a7-a2db-4555-a172-7de5f4c3cc54.html)
 - Jan 02 - [Real-Time Tokyo Subway Map](https://minitokyo3d.com)
-- Jan 02 - [The Coverage of Theranos Is Utter Bullshit (2015)](https://thehustle.co/the-coverage-of-theranos-is-utter-bullshit/)
-- Jan 02 - [Tepco slow to respond to growing crisis at Fukushima plant](https://www.asahi.com/ajw/articles/14503708)
-- Jan 02 - [In 2022 a Moonrush will begin in earnest](https://www.economist.com/science-and-technology/2022/01/01/in-2022-a-moonrush-will-begin-in-earnest)
-- Jan 02 - [The argument against clearing the database between tests (2020)](https://calpaterson.com/against-database-teardown.html)
+- Jan 02 - [HN Predictions for 2021 (2020)](https://news.ycombinator.com/item?id=25594068)
 <!--END_SECTION:hn-->
 
 <!--
