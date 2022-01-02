@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 02 - [Baffling neurological illness affects growing number of young adults](https://www.theguardian.com/world/2022/jan/02/neurological-illness-affecting-young-adults-canada)
-- Jan 02 - [Fixing Stutters in Papers Please on Linux](https://blog.jhm.dev/posts/papers-please/)
-- Jan 02 - [Ask HN: Why does a busy man build a shed?](https://news.ycombinator.com/item?id=29767682)
-- Jan 02 - [Assembly Nights](https://ratfactor.com/assembly-nights)
-- Jan 02 - [Viewstamped Replication Revisited](http://charap.co/reading-group-viewstamped-replication-revisited/)
+- Jan 02 - [Indiana life insurance CEO says deaths are up 40% among people ages 18-64](https://www.thecentersquare.com/indiana/indiana-life-insurance-ceo-says-deaths-are-up-40-among-people-ages-18-64/article_71473b12-6b1e-11ec-8641-5b2c06725e2c.html)
+- Jan 02 - [Google owns TLDs: .web .meme and .lol](https://icannwiki.org/.meme)
+- Jan 02 - [Nebulosity is now open-source and free](http://www.stark-labs.com)
+- Jan 02 - [Your attention didn't collapse. It was stolen](https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media)
+- Jan 02 - [OpenDrop: An open Apple AirDrop implementation written in Python](https://github.com/seemoo-lab/opendrop)
 <!--END_SECTION:hn-->
 
 <!--
