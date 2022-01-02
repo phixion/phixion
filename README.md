@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 01 - [Portmaster – Open-source network monitor and firewall](https://safing.io/portmaster/)
-- Jan 01 - [Log4jscanner](https://github.com/google/log4jscanner)
-- Jan 01 - [Why I'm Using HTTP Basic Auth in 2022](https://joeldare.com/why-im-using-http-basic-auth-in-2022.html)
-- Jan 01 - [Depression alters the circadian pattern of online activity](https://www.nature.com/articles/s41598-020-74314-3)
-- Jan 01 - [Silicon Valley (and Montana) radiation levels](https://lcamtuf.coredump.cx/naer/)
+- Jan 02 - [Book Review: “Viral” by Alina Chan and Matt Ridley](https://scottaaronson.blog/?p=6183)
+- Jan 01 - [EU drafts plan to label gas and nuclear investments as green](https://www.reuters.com/markets/commodities/eu-drafts-plan-label-gas-nuclear-investments-green-2022-01-01/)
+- Jan 01 - [The Dissolution of the Nutrition Science Initiative](http://garytaubes.com/the-dissolution-of-the-nutrition-science-initiative/)
+- Jan 01 - [Dicio: Free and open source voice assistant for Android](https://github.com/Stypox/dicio-android)
+- Jan 01 - [A persistent denial of service vulnerability affecting iOS](https://trevorspiniolas.com/doorlock/doorlock.html)
 <!--END_SECTION:hn-->
 
 <!--
