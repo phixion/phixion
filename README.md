@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 03 - [Ask HN: How do I manage the profit of a successful website?](https://news.ycombinator.com/item?id=29779944)
-- Jan 03 - [Declarative memory management (2019)](https://fasterthanli.me/articles/declarative-memory-management)
-- Jan 03 - [DaedalOS: Desktop Environment in the Browser](https://dustinbrett.com)
-- Jan 03 - [Genuary 2022: Generative Code Art Prompts for a Month](https://genuary.art/)
-- Jan 03 - [Using a mild Twitter addiction to get things done](https://nick.comer.io/post/ios-shortcuts)
+- Jan 03 - [Paul Graham's Twitter thread on Search engines and SEO spam](https://twitter.com/paulg/status/1477760548787920901)
+- Jan 03 - [Elena Ceausescu: Greatest Scientist Ever – except she was a fraud](https://paperpile.com/blog/elena-ceausescu-scientist-fraud/)
+- Jan 03 - [Ask HN: Who is hiring? (January 2022)](https://news.ycombinator.com/item?id=29782099)
+- Jan 03 - [Ask HN: Freelancer? Seeking freelancer? (January 2022)](https://news.ycombinator.com/item?id=29782097)
+- Jan 03 - [A deployable, annular, 30m telescope, space-based observatory [pdf]](https://www.northropgrumman.com/wp-content/uploads/Astro-SPIE-Ring-Telescope-Manuscript.pdf)
 <!--END_SECTION:hn-->
 
 <!--
