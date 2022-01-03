@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 03 - [The American polity is cracked, and might collapse. Canada must prepare](https://www.theglobeandmail.com/opinion/article-the-american-polity-is-cracked-and-might-collapse-canada-must-prepare/)
-- Jan 03 - [The Demise of Scientific American](https://scottaaronson.blog/?p=6202)
-- Jan 03 - [Write Like You Code](https://www.chrisbehan.ca/posts/write-like-you-code)
-- Jan 03 - [Evidence for a mouse origin of the SARS-CoV-2 Omicron variant](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8702434/)
-- Jan 03 - [You don't need that CORS request](https://nickolinger.com/blog/2021-08-04-you-dont-need-that-cors-request/)
+- Jan 03 - [Ask HN: How do I manage the profit of a successful website?](https://news.ycombinator.com/item?id=29779944)
+- Jan 03 - [Declarative memory management (2019)](https://fasterthanli.me/articles/declarative-memory-management)
+- Jan 03 - [DaedalOS: Desktop Environment in the Browser](https://dustinbrett.com)
+- Jan 03 - [Genuary 2022: Generative Code Art Prompts for a Month](https://genuary.art/)
+- Jan 03 - [Using a mild Twitter addiction to get things done](https://nick.comer.io/post/ios-shortcuts)
 <!--END_SECTION:hn-->
 
 <!--
