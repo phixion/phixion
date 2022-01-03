@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 03 - [Paul Graham's Twitter thread on Search engines and SEO spam](https://twitter.com/paulg/status/1477760548787920901)
-- Jan 03 - [Elena Ceausescu: Greatest Scientist Ever – except she was a fraud](https://paperpile.com/blog/elena-ceausescu-scientist-fraud/)
-- Jan 03 - [Ask HN: Who is hiring? (January 2022)](https://news.ycombinator.com/item?id=29782099)
-- Jan 03 - [Ask HN: Freelancer? Seeking freelancer? (January 2022)](https://news.ycombinator.com/item?id=29782097)
-- Jan 03 - [A deployable, annular, 30m telescope, space-based observatory [pdf]](https://www.northropgrumman.com/wp-content/uploads/Astro-SPIE-Ring-Telescope-Manuscript.pdf)
+- Jan 03 - [Why I've stopped submitting to ArXiv](http://www.astro.multivax.de:8000/helbig/research/publications/arxiv/why_no_arxiv.html)
+- Jan 03 - [Poll: Which FAANG is the most likely to decline in the years ahead?](https://news.ycombinator.com/item?id=29785046)
+- Jan 03 - [High beef prices and the destruction of independent cattle ranching](https://mattstoller.substack.com/p/economists-to-cattle-ranchers-stop)
+- Jan 03 - [NASM Assembly Language Tutorials](https://asmtutor.com/)
+- Jan 03 - [The Matrix looks dramatically different on Hulu versus on HBO Max](https://www.echevarria.io/blog/the-matrix-looks-different-hulu-hbo-max/index.html)
 <!--END_SECTION:hn-->
 
 <!--
