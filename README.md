@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 03 - [A unified theory of VC suckage (2005)](http://www.paulgraham.com/venturecapital.html)
+- Jan 03 - [DOSEMU2 Pre9](https://github.com/dosemu2/dosemu2/blob/0b8b53995b016d7c32b8b4f853e5fca77b461479/NEWS.md)
 - Jan 03 - [Things I Won't Work With: Dioxygen Difluoride (2010)](https://www.science.org/content/blog-post/things-i-won-t-work-dioxygen-difluoride)
 - Jan 03 - [Unsupervised Brain Models](https://xcorr.net/2021/12/31/2021-in-review-unsupervised-brain-models/)
 - Jan 02 - [Automated Code Optimization with E-Graphs](https://arxiv.org/abs/2112.14714)
-- Jan 02 - [Slicer: Auto-Sharding for Datacenter Applications](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/adya)
-- Jan 02 - [2.3k Patch Would Improve Linux Build Times 50~80% & Fix “Dependency Hell”](https://www.phoronix.com/scan.php?page=news_item&px=Linux-Fast-Kernel-Headers)
 <!--END_SECTION:hn-->
 
 <!--
