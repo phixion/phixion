@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 03 - [A unified theory of VC suckage (2005)](http://www.paulgraham.com/venturecapital.html)
-- Jan 03 - [DOSEMU2 Pre9](https://github.com/dosemu2/dosemu2/blob/0b8b53995b016d7c32b8b4f853e5fca77b461479/NEWS.md)
-- Jan 03 - [Things I Won't Work With: Dioxygen Difluoride (2010)](https://www.science.org/content/blog-post/things-i-won-t-work-dioxygen-difluoride)
-- Jan 03 - [Unsupervised Brain Models](https://xcorr.net/2021/12/31/2021-in-review-unsupervised-brain-models/)
-- Jan 02 - [Automated Code Optimization with E-Graphs](https://arxiv.org/abs/2112.14714)
+- Jan 03 - [The American polity is cracked, and might collapse. Canada must prepare](https://www.theglobeandmail.com/opinion/article-the-american-polity-is-cracked-and-might-collapse-canada-must-prepare/)
+- Jan 03 - [The Demise of Scientific American](https://scottaaronson.blog/?p=6202)
+- Jan 03 - [Write Like You Code](https://www.chrisbehan.ca/posts/write-like-you-code)
+- Jan 03 - [Evidence for a mouse origin of the SARS-CoV-2 Omicron variant](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8702434/)
+- Jan 03 - [You don't need that CORS request](https://nickolinger.com/blog/2021-08-04-you-dont-need-that-cors-request/)
 <!--END_SECTION:hn-->
 
 <!--
