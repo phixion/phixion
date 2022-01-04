@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 04 - [How Video Streaming Processing Works](https://howvideo.works/#processing)
-- Jan 04 - [Porting Rust's Std to Rustix](https://blog.sunfishcode.online/port-std-to-rustix/)
-- Jan 04 - [Android in Docker without QEMU/emulator](https://github.com/remote-android/redroid-doc)
-- Jan 04 - [Pg_cron](https://github.com/citusdata/pg_cron)
-- Jan 04 - [OpenBSD Based Challenge Day 3](https://write.as/adventures-in-bsd/openbsd-based-challenge-day-3)
+- Jan 04 - [Iceraven – Firefox for Android fork with more add-ons and configuration options](https://github.com/fork-maintainers/iceraven-browser)
+- Jan 04 - [Burn My Windows](https://github.com/Schneegans/Burn-My-Windows)
+- Jan 04 - [Show HN: OnlyRecipe.app – Remove clutter from recipe sites. No story, no popups](https://showcase.onlyrecipe.app/)
+- Jan 04 - [Code Optimizations When Using Async/Await](https://wolfoliver.medium.com/the-fallacy-of-async-await-c0df0f9dd59d)
+- Jan 04 - [How to Mentor Software Engineers](https://xdg.me/mentor-engineers/)
 <!--END_SECTION:hn-->
 
 <!--
