@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 04 - [Tell HN: Rise in AWS accounts getting hacked and owner being stuck with the bill](https://news.ycombinator.com/item?id=29789417)
-- Jan 04 - [Theranos founder Elizabeth Holmes found guilty of conspiracy](https://www.axios.com/theranos-elizabeth-holmes-verdict-df20ad3f-95bd-400c-bf42-a379ade65c2c.html)
-- Jan 03 - [High-sucrose diets contribute to brain angiopathy and higher brain dysfunctions](https://www.science.org/doi/10.1126/sciadv.abl6077)
-- Jan 03 - [Reverie Labs (YC W18) Is Hiring Senior Software Engineers to Cure Cancer](https://jobs.lever.co/reverielabs/3215ba2d-a3be-412b-954d-10e1e75eb078)
-- Jan 03 - [Copyright doesn't need 95 years to get the job done](https://fullstackeconomics.com/winnie-the-pooh-should-have-been-free-decades-ago/)
+- Jan 04 - [Show HN: My Microstartups make $500/day while I'm sleeping](https://news.ycombinator.com/item?id=29790964)
+- Jan 04 - [Generally Intelligent (YC S17) Is Hiring Systems Engineers (Remote, SF)](https://news.ycombinator.com/item?id=29790870)
+- Jan 04 - [Mathematicians Outwit Hidden Number Conspiracy](https://www.quantamagazine.org/mathematicians-outwit-hidden-number-conspiracy-20220103/)
+- Jan 04 - [ASML reports fire at its Berlin factory](https://www.reuters.com/technology/asml-reports-fire-its-berlin-factory-2022-01-03/)
+- Jan 04 - [Elizabeth Holmes found guilty](https://www.axios.com/theranos-elizabeth-holmes-verdict-df20ad3f-95bd-400c-bf42-a379ade65c2c.html)
 <!--END_SECTION:hn-->
 
 <!--
