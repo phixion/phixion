@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 04 - [Iceraven – Firefox for Android fork with more add-ons and configuration options](https://github.com/fork-maintainers/iceraven-browser)
-- Jan 04 - [Burn My Windows](https://github.com/Schneegans/Burn-My-Windows)
-- Jan 04 - [Show HN: OnlyRecipe.app – Remove clutter from recipe sites. No story, no popups](https://showcase.onlyrecipe.app/)
-- Jan 04 - [Code Optimizations When Using Async/Await](https://wolfoliver.medium.com/the-fallacy-of-async-await-c0df0f9dd59d)
-- Jan 04 - [How to Mentor Software Engineers](https://xdg.me/mentor-engineers/)
+- Jan 04 - [Why Restaurants Are So Fucked – Part Duex](https://joelleparenteau.medium.com/why-restaurants-are-so-fucked-part-ii-d4549485fb6e)
+- Jan 04 - [Sources: OpenSea Eyes $13B Valuation](https://www.newcomer.co/p/sources-opensea-eyes-13-billion-valuation)
+- Jan 04 - [Leave Scrum to Rugby, I Like Getting Stuff Done](https://wagslane.dev/posts/leave-scrum-to-rugby/)
+- Jan 04 - [Psilocybin has no short- or long-term detrimental effects in healthy people](https://www.kcl.ac.uk/news/psilocybin-in-10mg-or-25mg-doses-has-no-short-or-long-term-detrimental-effects-in-healthy-people)
+- Jan 04 - [Show HN: I Launched a “Fun” Web App for Developers](https://news.ycombinator.com/item?id=29798077)
 <!--END_SECTION:hn-->
 
 <!--
