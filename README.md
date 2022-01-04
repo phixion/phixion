@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 03 - [Why I've stopped submitting to ArXiv](http://www.astro.multivax.de:8000/helbig/research/publications/arxiv/why_no_arxiv.html)
-- Jan 03 - [Poll: Which FAANG is the most likely to decline in the years ahead?](https://news.ycombinator.com/item?id=29785046)
-- Jan 03 - [High beef prices and the destruction of independent cattle ranching](https://mattstoller.substack.com/p/economists-to-cattle-ranchers-stop)
-- Jan 03 - [NASM Assembly Language Tutorials](https://asmtutor.com/)
-- Jan 03 - [The Matrix looks dramatically different on Hulu versus on HBO Max](https://www.echevarria.io/blog/the-matrix-looks-different-hulu-hbo-max/index.html)
+- Jan 04 - [Tell HN: Rise in AWS accounts getting hacked and owner being stuck with the bill](https://news.ycombinator.com/item?id=29789417)
+- Jan 04 - [Theranos founder Elizabeth Holmes found guilty of conspiracy](https://www.axios.com/theranos-elizabeth-holmes-verdict-df20ad3f-95bd-400c-bf42-a379ade65c2c.html)
+- Jan 03 - [High-sucrose diets contribute to brain angiopathy and higher brain dysfunctions](https://www.science.org/doi/10.1126/sciadv.abl6077)
+- Jan 03 - [Reverie Labs (YC W18) Is Hiring Senior Software Engineers to Cure Cancer](https://jobs.lever.co/reverielabs/3215ba2d-a3be-412b-954d-10e1e75eb078)
+- Jan 03 - [Copyright doesn't need 95 years to get the job done](https://fullstackeconomics.com/winnie-the-pooh-should-have-been-free-decades-ago/)
 <!--END_SECTION:hn-->
 
 <!--
