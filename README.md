@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 04 - [Ban CSS Margins](https://mxstbr.com/thoughts/margin/)
-- Jan 04 - [Tarot for Techies](https://witchcraft.computer)
-- Jan 04 - [Ledger – the first peer-reviewed journal on blockchains and cryptocurrencies](https://ledger.pitt.edu/ojs/ledger)
-- Jan 04 - [The joy of building a ray tracer, for fun, in Rust](https://blog.singleton.io/posts/2022-01-02-raytracing-with-rust/)
-- Jan 04 - [A New Future for GnuPG](https://gnupg.org/blog/20220102-a-new-future-for-gnupg.html)
+- Jan 04 - [How Video Streaming Processing Works](https://howvideo.works/#processing)
+- Jan 04 - [Porting Rust's Std to Rustix](https://blog.sunfishcode.online/port-std-to-rustix/)
+- Jan 04 - [Android in Docker without QEMU/emulator](https://github.com/remote-android/redroid-doc)
+- Jan 04 - [Pg_cron](https://github.com/citusdata/pg_cron)
+- Jan 04 - [OpenBSD Based Challenge Day 3](https://write.as/adventures-in-bsd/openbsd-based-challenge-day-3)
 <!--END_SECTION:hn-->
 
 <!--
