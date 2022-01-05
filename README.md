@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 04 - [Why Restaurants Are So Fucked – Part Duex](https://joelleparenteau.medium.com/why-restaurants-are-so-fucked-part-ii-d4549485fb6e)
-- Jan 04 - [Sources: OpenSea Eyes $13B Valuation](https://www.newcomer.co/p/sources-opensea-eyes-13-billion-valuation)
-- Jan 04 - [Leave Scrum to Rugby, I Like Getting Stuff Done](https://wagslane.dev/posts/leave-scrum-to-rugby/)
-- Jan 04 - [Psilocybin has no short- or long-term detrimental effects in healthy people](https://www.kcl.ac.uk/news/psilocybin-in-10mg-or-25mg-doses-has-no-short-or-long-term-detrimental-effects-in-healthy-people)
-- Jan 04 - [Show HN: I Launched a “Fun” Web App for Developers](https://news.ycombinator.com/item?id=29798077)
+- Jan 04 - [Intel claims new i9 is faster than M1 Max](https://www.intc.com/news-events/press-releases/detail/1517/intel-engineers-fastest-mobile-processor-ever-with-12th-gen)
+- Jan 04 - [Where have you gone, Peter Norton? (2014)](https://www.technologizer.com/2014/06/05/where-have-you-gone-peter-norton/)
+- Jan 04 - [Updated MinIO NVMe Benchmarks: 2.6Tpbs on Get and 1.6 on Put](https://blog.min.io/nvme_benchmark/)
+- Jan 04 - [No Way to Grow Up](https://www.nytimes.com/2022/01/04/briefing/american-children-crisis-pandemic.html)
+- Jan 04 - [Archaeological dig reignites debate over the Old Testament’s historical accuracy](https://www.smithsonianmag.com/history/archaeological-dig-reignites-debate-old-testament-historical-accuracy-180979011/)
 <!--END_SECTION:hn-->
 
 <!--
