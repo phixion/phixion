@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 05 - [My Evaluation of SvelteKit for Full-Stack Web App Development](https://cprimozic.net/blog/trying-out-sveltekit/)
-- Jan 05 - [Lawsuit filed alleging Google is paying Apple to stay out of the search business](https://www.prnewswire.com/news-releases/class-action-lawsuit-filed-in-california-alleging-google-is-paying-apple-to-stay-out-of-the-search-engine-business-301453098.html)
-- Jan 05 - [What Would Feynman Do? (2011)](https://ericlippert.com/2011/02/14/what-would-feynman-do/)
-- Jan 05 - [TSMC’s Arizona Culture Clash](https://www.eetimes.com/tsmcs-arizona-culture-clash/)
-- Jan 05 - [The redacted lawsuit: Solarwinds board of directors sued by shareholders](https://github.com/jaybobo/jaybobo/blob/main/docs/solarwinds-complaint/summary-solarwinds.md)
+- Jan 05 - [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- Jan 05 - [Google deploying planes over cities for 3D maps (2012)](https://www.reuters.com/article/us-google-maps-idUSBRE85516020120606)
+- Jan 05 - [Tauri – Electron alternative written in Rust](https://tauri.studio/en/)
+- Jan 05 - [Wave Function Collapse library in pure C](https://github.com/krychu/wfc)
+- Jan 05 - [Framework Laptop with Ubuntu Review](https://luisartola.com/framework-laptop-with-ubuntu-review/)
 <!--END_SECTION:hn-->
 
 <!--
