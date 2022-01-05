@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 04 - [Intel claims new i9 is faster than M1 Max](https://www.intc.com/news-events/press-releases/detail/1517/intel-engineers-fastest-mobile-processor-ever-with-12th-gen)
+- Jan 05 - [Leetcode has taught me that I'm a bad engineer](https://news.ycombinator.com/item?id=29804607)
+- Jan 05 - [Ruby's Email Address Regexp](https://github.com/ruby/ruby/blob/master/lib/uri/mailto.rb)
+- Jan 05 - [Python Type Hints – How to Handle Optional Imports](https://adamj.eu/tech/2021/12/29/python-type-hints-optional-imports/)
+- Jan 05 - [Japanese Game Developer Hasn't Left the House in 10 Years](https://www.thegamer.com/japanese-game-developer-stay-home-10-years/)
 - Jan 04 - [Where have you gone, Peter Norton? (2014)](https://www.technologizer.com/2014/06/05/where-have-you-gone-peter-norton/)
-- Jan 04 - [Updated MinIO NVMe Benchmarks: 2.6Tpbs on Get and 1.6 on Put](https://blog.min.io/nvme_benchmark/)
-- Jan 04 - [No Way to Grow Up](https://www.nytimes.com/2022/01/04/briefing/american-children-crisis-pandemic.html)
-- Jan 04 - [Archaeological dig reignites debate over the Old Testament’s historical accuracy](https://www.smithsonianmag.com/history/archaeological-dig-reignites-debate-old-testament-historical-accuracy-180979011/)
 <!--END_SECTION:hn-->
 
 <!--
