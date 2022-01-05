@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 05 - [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- Jan 05 - [Google deploying planes over cities for 3D maps (2012)](https://www.reuters.com/article/us-google-maps-idUSBRE85516020120606)
-- Jan 05 - [Tauri – Electron alternative written in Rust](https://tauri.studio/en/)
-- Jan 05 - [Wave Function Collapse library in pure C](https://github.com/krychu/wfc)
-- Jan 05 - [Framework Laptop with Ubuntu Review](https://luisartola.com/framework-laptop-with-ubuntu-review/)
+- Jan 05 - [Do Not Log](https://sobolevn.me/2020/03/do-not-log)
+- Jan 05 - [How to Design a House to Last 1000 Years](https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-for)
+- Jan 05 - [Browser-Vite – Vite in the Browser](https://divriots.com/blog/vite-in-the-browser)
+- Jan 05 - [Flatten Arrays in Vanilla JavaScript with Flat() and FlatMap()](https://www.wisdomgeek.com/development/flatten-arrays-in-vanilla-javascript-with-flat-and-flatmap/)
+- Jan 05 - [Launch HN: Gravitl (YC W22) – VPN Platform Based on WireGuard](https://news.ycombinator.com/item?id=29809830)
 <!--END_SECTION:hn-->
 
 <!--
