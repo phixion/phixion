@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 05 - [Do Not Log](https://sobolevn.me/2020/03/do-not-log)
-- Jan 05 - [How to Design a House to Last 1000 Years](https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-for)
-- Jan 05 - [Browser-Vite – Vite in the Browser](https://divriots.com/blog/vite-in-the-browser)
-- Jan 05 - [Flatten Arrays in Vanilla JavaScript with Flat() and FlatMap()](https://www.wisdomgeek.com/development/flatten-arrays-in-vanilla-javascript-with-flat-and-flatmap/)
-- Jan 05 - [Launch HN: Gravitl (YC W22) – VPN Platform Based on WireGuard](https://news.ycombinator.com/item?id=29809830)
+- Jan 05 - [Darling – run Mac apps on Linux](https://www.darlinghq.org/)
+- Jan 05 - [I took a job at Amazon, only to leave after 10 months](https://benadam.me/thoughts/my-experience-at-amazon/)
+- Jan 05 - [Julia frameworks to create desktop GUIs and web apps](https://logankilpatrick.medium.com/6-julia-frameworks-to-create-desktop-guis-and-web-apps-9ae1a941f115)
+- Jan 05 - [Why might you run your own DNS server?](https://jvns.ca/blog/2022/01/05/why-might-you-run-your-own-dns-server-/)
+- Jan 05 - [Simple Dungeon Map Generation](https://smoldungeon.com/maps)
 <!--END_SECTION:hn-->
 
 <!--
