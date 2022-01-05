@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 05 - [Leetcode has taught me that I'm a bad engineer](https://news.ycombinator.com/item?id=29804607)
-- Jan 05 - [Ruby's Email Address Regexp](https://github.com/ruby/ruby/blob/master/lib/uri/mailto.rb)
-- Jan 05 - [Python Type Hints – How to Handle Optional Imports](https://adamj.eu/tech/2021/12/29/python-type-hints-optional-imports/)
-- Jan 05 - [Japanese Game Developer Hasn't Left the House in 10 Years](https://www.thegamer.com/japanese-game-developer-stay-home-10-years/)
-- Jan 04 - [Where have you gone, Peter Norton? (2014)](https://www.technologizer.com/2014/06/05/where-have-you-gone-peter-norton/)
+- Jan 05 - [My Evaluation of SvelteKit for Full-Stack Web App Development](https://cprimozic.net/blog/trying-out-sveltekit/)
+- Jan 05 - [Lawsuit filed alleging Google is paying Apple to stay out of the search business](https://www.prnewswire.com/news-releases/class-action-lawsuit-filed-in-california-alleging-google-is-paying-apple-to-stay-out-of-the-search-engine-business-301453098.html)
+- Jan 05 - [What Would Feynman Do? (2011)](https://ericlippert.com/2011/02/14/what-would-feynman-do/)
+- Jan 05 - [TSMC’s Arizona Culture Clash](https://www.eetimes.com/tsmcs-arizona-culture-clash/)
+- Jan 05 - [The redacted lawsuit: Solarwinds board of directors sued by shareholders](https://github.com/jaybobo/jaybobo/blob/main/docs/solarwinds-complaint/summary-solarwinds.md)
 <!--END_SECTION:hn-->
 
 <!--
