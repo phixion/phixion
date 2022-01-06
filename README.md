@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 06 - [Facebook collecting people's data even when accounts are deactivated](https://digiday.com/media/why-facebook-keeps-collecting-peoples-data-and-building-their-profiles-even-when-their-accounts-are-deactivated/)
-- Jan 05 - [Minecraft as a Kubernetes Admin Tool](https://eric-jadi.medium.com/minecraft-as-a-k8s-admin-tool-cf16f890de42)
-- Jan 05 - [You Don't Need a Mentor–Find a Nemesis Instead](https://tedgioia.substack.com/p/you-dont-need-a-mentorfind-a-nemesis)
-- Jan 05 - [Restricting SSH Agent Keys](https://lwn.net/SubscriberLink/880458/5c4147ec8a7ca8df/)
-- Jan 05 - [We handle 80TB and 5M page views a month for under $400](https://blog.polyhaven.com/how-we-handle-80tb-and-5m-page-views-a-month-for-under-400/)
+- Jan 06 - [The cruel, ridiculous reality of 'virtual learning'](https://www.macleans.ca/society/the-cruel-ridiculous-reality-of-virtual-learning/)
+- Jan 06 - [IPv6-ghost-ship: using TOTP as part of an AWS EC2 IPv6 address](https://github.com/aidansteele/ipv6-ghost-ship)
+- Jan 06 - [Brussels Airlines makes 3,000 unnecessary flights to maintain airport slots](https://www.thebulletin.be/brussels-airlines-makes-3000-unnecessary-flights-maintain-airport-slots)
+- Jan 06 - [Drug ring hid $1B worth of coke on a single ship](https://www.freightwaves.com/news/case-closed-how-drug-ring-hid-20-tons-of-coke-on-a-single-ship)
+- Jan 06 - [Inviting another GitHub user to be your successor](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/maintaining-ownership-continuity-of-your-user-accounts-repositories)
 <!--END_SECTION:hn-->
 
 <!--
