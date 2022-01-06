@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 05 - [Darling – run Mac apps on Linux](https://www.darlinghq.org/)
-- Jan 05 - [I took a job at Amazon, only to leave after 10 months](https://benadam.me/thoughts/my-experience-at-amazon/)
-- Jan 05 - [Julia frameworks to create desktop GUIs and web apps](https://logankilpatrick.medium.com/6-julia-frameworks-to-create-desktop-guis-and-web-apps-9ae1a941f115)
-- Jan 05 - [Why might you run your own DNS server?](https://jvns.ca/blog/2022/01/05/why-might-you-run-your-own-dns-server-/)
-- Jan 05 - [Simple Dungeon Map Generation](https://smoldungeon.com/maps)
+- Jan 06 - [Facebook collecting people's data even when accounts are deactivated](https://digiday.com/media/why-facebook-keeps-collecting-peoples-data-and-building-their-profiles-even-when-their-accounts-are-deactivated/)
+- Jan 05 - [Minecraft as a Kubernetes Admin Tool](https://eric-jadi.medium.com/minecraft-as-a-k8s-admin-tool-cf16f890de42)
+- Jan 05 - [You Don't Need a Mentor–Find a Nemesis Instead](https://tedgioia.substack.com/p/you-dont-need-a-mentorfind-a-nemesis)
+- Jan 05 - [Restricting SSH Agent Keys](https://lwn.net/SubscriberLink/880458/5c4147ec8a7ca8df/)
+- Jan 05 - [We handle 80TB and 5M page views a month for under $400](https://blog.polyhaven.com/how-we-handle-80tb-and-5m-page-views-a-month-for-under-400/)
 <!--END_SECTION:hn-->
 
 <!--
