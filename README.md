@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 06 - [DuckDB Time Zones: Supporting Calendar Extensions](https://duckdb.org/2022/01/06/time-zones.html)
-- Jan 06 - [Ask HN: Would you pass an interview for your current position?](https://news.ycombinator.com/item?id=29825080)
-- Jan 06 - [Raspberry Pi Boot to Basic](https://popey.com/blog/2021/01/raspberry-pi-boot-to-basic/)
-- Jan 06 - [Show HN: Possimpible: A Kernel Running on the Browser](https://github.com/intigos/possimpible)
-- Jan 06 - [Roguelike Tutorial – Written in Python 3 and TCOD](http://rogueliketutorials.com/tutorials/tcod/v2/)
+- Jan 06 - [Paxos](https://martinfowler.com/articles/patterns-of-distributed-systems/paxos.html)
+- Jan 06 - [Optimizing Docker image size and why it matters](https://contains.dev/blog/optimizing-docker-image-size)
+- Jan 06 - [Show HN: 3D map of shade around the world](https://shademap.app/#37.74392,-119.56306,11.42013z,1641492931979t,-132.33425b,45p)
+- Jan 06 - [Tips to grow your North Korean Startup](https://mrsteinberg.com/grow-your-north-korean-start-up/)
+- Jan 06 - [Keyboard lets people type so fast it’s banned from typing competitions](https://www.vice.com/en/article/3abavv/this-keyboard-lets-people-type-so-fast-its-banned-from-typing-competitions)
 <!--END_SECTION:hn-->
 
 <!--
