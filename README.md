@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 06 - [CoinTracker (YC W18) is hiring a Head of Talent to scale from 35 → 185 in 2022](https://www.cointracker.io/about)
-- Jan 06 - [OpenBSD Webzine Issue #6](https://webzine.puffy.cafe/issue-6.html)
-- Jan 06 - [What the World Will Be Like in a Hundred Years (1922)](https://www.loc.gov/resource/sn83045774/1922-05-07/ed-1?sp=87)
-- Jan 06 - [Google fined 150M€, Facebook 60M€ for assymetric cookie dialogs](https://www.cnil.fr/en/cookies-cnil-fines-google-total-150-million-euros-and-facebook-60-million-euros-non-compliance)
-- Jan 06 - [Russia sends paratroopers to Kazakhstan to quell deadly unrest](https://www.reuters.com/world/asia-pacific/troops-protesters-clash-almaty-main-square-kazakhstan-shots-heard-2022-01-06/)
+- Jan 06 - [DuckDB Time Zones: Supporting Calendar Extensions](https://duckdb.org/2022/01/06/time-zones.html)
+- Jan 06 - [Ask HN: Would you pass an interview for your current position?](https://news.ycombinator.com/item?id=29825080)
+- Jan 06 - [Raspberry Pi Boot to Basic](https://popey.com/blog/2021/01/raspberry-pi-boot-to-basic/)
+- Jan 06 - [Show HN: Possimpible: A Kernel Running on the Browser](https://github.com/intigos/possimpible)
+- Jan 06 - [Roguelike Tutorial – Written in Python 3 and TCOD](http://rogueliketutorials.com/tutorials/tcod/v2/)
 <!--END_SECTION:hn-->
 
 <!--
