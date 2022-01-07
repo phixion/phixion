@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 07 - [GiveCampus (YC S15) Is Hiring Senior Engineers who care about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- Jan 07 - [Commodore 900: The Unix-like workstation/server that was eclipsed by Amiga](https://vintagecomputer.ca/commodore-900/)
-- Jan 07 - [Bound to Fail: The Rise and Fall of the Liberal International Order](https://direct.mit.edu/isec/article/43/4/7/12221/Bound-to-Fail-The-Rise-and-Fall-of-the-Liberal)
-- Jan 07 - [A/B test improved your website's conversion rate? Not so fast](https://blog.alexandervolkmann.com/2022/01/05/conversion-rate-A-B-testing.html)
-- Jan 07 - [Intel completely disables AVX-512 on Alder Lake after all](https://www.igorslab.de/en/intel-deactivated-avx-512-on-alder-lake-but-fully-questionable-interpretation-of-efficiency-news-editorial/)
+- Jan 07 - [Look How Big Is My Startup Team](https://nicolasbustamante.substack.com/p/look-how-big-is-my-team)
+- Jan 07 - [Random number generator updates for 5.17](https://lore.kernel.org/lkml/20220106235920.995517-1-Jason@zx2c4.com/)
+- Jan 07 - [Urea prices increase 270% in 1 year](https://www.indexmundi.com/commodities/?commodity=urea&months=60)
+- Jan 07 - [Sidney Poitier, African American acting pioneer, dies aged 94](https://www.theguardian.com/film/2022/jan/07/sidney-poitier-in-the-heat-of-the-night-acting-pioneer-dies)
+- Jan 07 - [Hello Cloudflare – A public letter to Cloudflare to fix their snoopy vendor](https://github.com/captn3m0/hello-cloudflare/blob/main/README.md)
 <!--END_SECTION:hn-->
 
 <!--
