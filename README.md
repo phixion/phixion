@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 07 - [Pentagon and CIA shaped thousands of Hollywood movies into effective propaganda](https://worldbeyondwar.org/the-pentagon-and-cia-have-shaped-thousands-of-hollywood-movies-into-super-effective-propaganda/)
+- Jan 07 - [Kagi: A Premium Search Engine](https://kagi.com/)
+- Jan 07 - [Tell HN: Salary data is for sale](https://news.ycombinator.com/item?id=29834753)
+- Jan 07 - [It's not what programming languages do, it's what they shepherd you to](https://nibblestew.blogspot.com/2020/03/its-not-what-programming-languages-do.html)
 - Jan 07 - [Open-sourcing the Sorbet VS Code Extension](https://sorbet.org/blog/2022/01/06/open-sourcing-sorbet-vscode)
-- Jan 06 - [GitHub Projects – Customizable, flexible tool for planning and tracking work](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects)
-- Jan 06 - [The ITC declares Google infringed on audio tech patents held by Sonos [pdf]](https://www.usitc.gov/system/files/secretary/fed_reg_notices/337/337_1191_notice01062022sgl.pdf)
-- Jan 06 - [Ask HN: My boss doesn't think I'm doing good work, how to proceed?](https://news.ycombinator.com/item?id=29830770)
-- Jan 06 - [Quit Your Job](https://palladiummag.com/2022/01/06/quit-your-job/)
 <!--END_SECTION:hn-->
 
 <!--
