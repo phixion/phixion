@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 06 - [Paxos](https://martinfowler.com/articles/patterns-of-distributed-systems/paxos.html)
-- Jan 06 - [Optimizing Docker image size and why it matters](https://contains.dev/blog/optimizing-docker-image-size)
-- Jan 06 - [Show HN: 3D map of shade around the world](https://shademap.app/#37.74392,-119.56306,11.42013z,1641492931979t,-132.33425b,45p)
-- Jan 06 - [Tips to grow your North Korean Startup](https://mrsteinberg.com/grow-your-north-korean-start-up/)
-- Jan 06 - [Keyboard lets people type so fast it’s banned from typing competitions](https://www.vice.com/en/article/3abavv/this-keyboard-lets-people-type-so-fast-its-banned-from-typing-competitions)
+- Jan 07 - [Stripe is open-sourcing the Sorbet (Ruby) VS Code Extension](https://sorbet.org/blog/2022/01/06/open-sourcing-sorbet-vscode)
+- Jan 06 - [GitHub Projects – Customizable, flexible tool for planning and tracking work](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects)
+- Jan 06 - [The ITC declares Google infringed on audio tech patents held by Sonos [pdf]](https://www.usitc.gov/system/files/secretary/fed_reg_notices/337/337_1191_notice01062022sgl.pdf)
+- Jan 06 - [Deep learning can’t be trusted, brain modelling pioneer says](https://spectrum.ieee.org/deep-learning-cant-be-trusted)
+- Jan 06 - [Ask HN: My boss doesn't think I'm doing good work, how to proceed?](https://news.ycombinator.com/item?id=29830770)
 <!--END_SECTION:hn-->
 
 <!--
