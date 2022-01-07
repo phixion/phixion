@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 07 - [Look How Big Is My Startup Team](https://nicolasbustamante.substack.com/p/look-how-big-is-my-team)
-- Jan 07 - [Random number generator updates for 5.17](https://lore.kernel.org/lkml/20220106235920.995517-1-Jason@zx2c4.com/)
-- Jan 07 - [Urea prices increase 270% in 1 year](https://www.indexmundi.com/commodities/?commodity=urea&months=60)
-- Jan 07 - [Sidney Poitier, African American acting pioneer, dies aged 94](https://www.theguardian.com/film/2022/jan/07/sidney-poitier-in-the-heat-of-the-night-acting-pioneer-dies)
-- Jan 07 - [Hello Cloudflare – A public letter to Cloudflare to fix their snoopy vendor](https://github.com/captn3m0/hello-cloudflare/blob/main/README.md)
+- Jan 07 - [Launch HN: Homestead (YC W20) – Lot-splitting to build new housing supply](https://news.ycombinator.com/item?id=29844098)
+- Jan 07 - [California Considers Doubling Its Taxes](https://taxfoundation.org/california-health-care-tax-proposal/)
+- Jan 07 - [A K8s-based game where you seek out and destroy pods in a shootem' up style](https://github.com/Shogan/kube-chaos)
+- Jan 07 - [Loopy Pro – the future of live looping](https://loopypro.com/)
+- Jan 07 - [Unidentified PC DOS 1.1 Boot Sector Junk Identified](https://www.os2museum.com/wp/unidentified-pc-dos-1-1-boot-sector-junk-identified/)
 <!--END_SECTION:hn-->
 
 <!--
