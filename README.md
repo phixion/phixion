@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 08 - [Web 3 Doesn't Exist](https://cobie.substack.com/p/wtf-is-web3)
+- Jan 08 - [On the Y Combinator Summer 2021 batch](https://jaredheyman.medium.com/on-the-y-combinator-summer-2021-batch-927cb556a373)
+- Jan 08 - [The Hacker's Diet](https://www.fourmilab.ch/hackdiet/)
 - Jan 08 - [My 70 year old mother has been using Linux on the desktop for the past 21 years](https://www.unixsheikh.com/articles/my-70-year-old-mother-has-been-using-linux-on-the-desktop-for-the-past-21-years.html)
-- Jan 07 - [Venmo, PayPal, Cash App must report payments of $600 or more to IRS](https://www.wftv.com/news/trending/venmo-paypal-cash-app-must-report-payments-600-or-more-irs/23M5KZQXHNAJFBKKYI6FFGSSXI/)
-- Jan 07 - [Salt-die/nurses_2: A widget and async-centric terminal graphics library](https://github.com/salt-die/nurses_2)
-- Jan 07 - [A routine gem update ended up creating $73k worth of subscriptions](https://serpapi.com/blog/how-a-routine-gem-update-ended-up-charging/)
-- Jan 07 - [Nvidia tool generates full 3D models from a single still image](https://blogs.nvidia.com/blog/2021/04/16/gan-research-knight-rider-ai-omniverse/)
+- Jan 08 - [Fixing the Unfixable: Story of a Google Cloud SSRF](https://bugs.xdavidhu.me/google/2021/12/31/fixing-the-unfixable-story-of-a-google-cloud-ssrf/)
 <!--END_SECTION:hn-->
 
 <!--
