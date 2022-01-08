@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 08 - [Edible Plants That Grow in the Shade](https://www.onegreenplanet.org/lifestyle/10-edible-plants-that-grow-in-the-shade/)
-- Jan 08 - [DuckDuckGo Traffic](https://duckduckgo.com/traffic)
-- Jan 08 - [Ask HN: Is anyone working on “downloading” knowledge to the brain?](https://news.ycombinator.com/item?id=29852426)
-- Jan 08 - [A reminder that life is short, go live it](https://thedeathclock.co/)
-- Jan 08 - [Why do 70% of families lose their wealth in the 2nd generation? (2018)](https://www.nasdaq.com/articles/generational-wealth%3A-why-do-70-of-families-lose-their-wealth-in-the-2nd-generation-2018-10)
+- Jan 08 - [The Pirate Bay Token](https://thepiratebay.org/token.html)
+- Jan 08 - [Systemd, 10 years later: a historical and technical retrospective](https://blog.darknedgy.net/technology/2020/05/02/0/)
+- Jan 08 - [Unpacking CVE-2021-40444: A Deep Technical Analysis of an Office RCE Exploit](https://billdemirkapi.me/unpacking-cve-2021-40444-microsoft-office-rce/)
+- Jan 08 - [Xiaomi cellphones can censor searches: NCC – Taipei Times](https://taipeitimes.com/News/front/archives/2022/01/08/2003770963)
+- Jan 08 - [Ask HN: Are We in a Bubble?](https://news.ycombinator.com/item?id=29854832)
 <!--END_SECTION:hn-->
 
 <!--
