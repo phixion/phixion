@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 08 - [School closures led to more sleep and better quality of life for adolescents](https://www.media.uzh.ch/en/Press-Releases/2022/Adolescent-Sleep.html)
-- Jan 08 - [Show HN: Email encoder – protect your public emails from bots and crawlers](https://freetools.dev/email-encoder)
-- Jan 08 - [Where is every IP Address?](https://tech.marksblogg.com/where-are-ip-addresses-ipinfo.html)
-- Jan 08 - [My Experience as a SWE Intern at Goldman Sachs](https://www.lremes.com/posts/goldman-sachs/)
-- Jan 08 - [On the Y Combinator Summer 2021 batch](https://jaredheyman.medium.com/on-the-y-combinator-summer-2021-batch-927cb556a373)
+- Jan 08 - [Tell HN: Full macOS reinstall because Apple ID](https://news.ycombinator.com/item?id=29850665)
+- Jan 08 - [40% of shipping is fossil fuels](https://billmckibben.substack.com/p/the-happiest-number-ive-heard-in)
+- Jan 08 - [MiniVM: A zero-dependency cross-language runtime on par with C, LuaJIT, & Node](https://github.com/FastVM/minivm)
+- Jan 08 - [I Am a New York City Public High School Student. The Situation Is Beyond Control](https://old.reddit.com/r/nyc/comments/rxwnbl/i_am_a_new_york_city_public_high_school_student/)
+- Jan 08 - [Log4Shell Vulnerabilities in VMware Horizon Targeted to Install Web Shells](https://digital.nhs.uk/cyber-alerts/2022/cc-4002)
 <!--END_SECTION:hn-->
 
 <!--
