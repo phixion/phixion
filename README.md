@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 08 - [Tell HN: Full macOS reinstall because Apple ID](https://news.ycombinator.com/item?id=29850665)
-- Jan 08 - [40% of shipping is fossil fuels](https://billmckibben.substack.com/p/the-happiest-number-ive-heard-in)
-- Jan 08 - [MiniVM: A zero-dependency cross-language runtime on par with C, LuaJIT, & Node](https://github.com/FastVM/minivm)
-- Jan 08 - [I Am a New York City Public High School Student. The Situation Is Beyond Control](https://old.reddit.com/r/nyc/comments/rxwnbl/i_am_a_new_york_city_public_high_school_student/)
-- Jan 08 - [Log4Shell Vulnerabilities in VMware Horizon Targeted to Install Web Shells](https://digital.nhs.uk/cyber-alerts/2022/cc-4002)
+- Jan 08 - [Edible Plants That Grow in the Shade](https://www.onegreenplanet.org/lifestyle/10-edible-plants-that-grow-in-the-shade/)
+- Jan 08 - [DuckDuckGo Traffic](https://duckduckgo.com/traffic)
+- Jan 08 - [Ask HN: Is anyone working on “downloading” knowledge to the brain?](https://news.ycombinator.com/item?id=29852426)
+- Jan 08 - [A reminder that life is short, go live it](https://thedeathclock.co/)
+- Jan 08 - [Why do 70% of families lose their wealth in the 2nd generation? (2018)](https://www.nasdaq.com/articles/generational-wealth%3A-why-do-70-of-families-lose-their-wealth-in-the-2nd-generation-2018-10)
 <!--END_SECTION:hn-->
 
 <!--
