@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 09 - [The James Webb Space Telescope – making 300 points of failure reliable](https://flyingbarron.medium.com/the-james-webb-space-telescope-making-300-points-of-failure-reliable-db669810a9d8)
-- Jan 09 - [The Largest Suite of Cosmic Simulations for AI Training Is Now Free to Download](https://today.uconn.edu/2022/01/the-largest-suite-of-cosmic-simulations-for-ai-training-is-now-free-to-download-already-spurring-discoveries/)
-- Jan 09 - [Forced to sell chipless ink cartridges, Canon tells customers how to bypass DRM](https://boingboing.net/2022/01/08/forced-by-shortages-to-sell-chipless-cartridges-canon-tells-customers-how-to-bypass-drm-warnings.html)
-- Jan 09 - [Donald Knuth – The Patron Saint of Yak Shaves (2017)](https://yakshav.es/the-patron-saint-of-yakshaves/)
-- Jan 09 - [Bulgaria Freelance Taxes: Detailed Breakdown](https://dmitryfrank.com/articles/bulgaria_freelance_taxes)
+- Jan 09 - [FD 100](https://susam.net/blog/fd-100.html)
+- Jan 09 - [Ask HN: Is ProductHunt Worth It?](https://news.ycombinator.com/item?id=29864157)
+- Jan 09 - [Far-UVC light: A tool to control the spread of airborne-mediated microbial](https://www.nature.com/articles/s41598-018-21058-w)
+- Jan 09 - [Ask HN: How do you start contracting?](https://news.ycombinator.com/item?id=29864014)
+- Jan 09 - [Ask HN: How do I get over constant failure?](https://news.ycombinator.com/item?id=29863974)
 <!--END_SECTION:hn-->
 
 <!--
