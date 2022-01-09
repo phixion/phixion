@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 09 - [FX: An interactive alternative to jq to process JSON](https://github.com/antonmedv/fx)
-- Jan 09 - [Literate programming: Knuth is doing it wrong (2014)](http://akkartik.name/post/literate-programming)
-- Jan 09 - [Re: Moxie on Web3. On decentralization, servers, and cryptography](https://blog.plan99.net/re-moxie-on-web3-b0cfccd68067?gi=c5c13129e817)
-- Jan 09 - [On Web3 Infrastructure](https://mirror.xyz/suzuha.eth/vb5E5lhzmPTcpxOJcz6Q211TDgSvoFwDLA6JSM1V37Q)
-- Jan 09 - [MBO – Garmin Watch Apps for Mountain Bike Orienteering](https://github.com/rjmccann101/MBO)
+- Jan 09 - [The James Webb Space Telescope – making 300 points of failure reliable](https://flyingbarron.medium.com/the-james-webb-space-telescope-making-300-points-of-failure-reliable-db669810a9d8)
+- Jan 09 - [The Largest Suite of Cosmic Simulations for AI Training Is Now Free to Download](https://today.uconn.edu/2022/01/the-largest-suite-of-cosmic-simulations-for-ai-training-is-now-free-to-download-already-spurring-discoveries/)
+- Jan 09 - [Forced to sell chipless ink cartridges, Canon tells customers how to bypass DRM](https://boingboing.net/2022/01/08/forced-by-shortages-to-sell-chipless-cartridges-canon-tells-customers-how-to-bypass-drm-warnings.html)
+- Jan 09 - [Donald Knuth – The Patron Saint of Yak Shaves (2017)](https://yakshav.es/the-patron-saint-of-yakshaves/)
+- Jan 09 - [Bulgaria Freelance Taxes: Detailed Breakdown](https://dmitryfrank.com/articles/bulgaria_freelance_taxes)
 <!--END_SECTION:hn-->
 
 <!--
