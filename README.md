@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 09 - [Tips for a Healthier Postgres Database](https://blog.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year)
-- Jan 08 - [Do Climate Models Predict Extreme Weather?](http://backreaction.blogspot.com/2022/01/do-climate-models-predict-extreme.html)
-- Jan 08 - [Thiel Foundation announces next Thiel Fellow class: 23 entrepreneurs](https://www.businesswire.com/news/home/20220106005089/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class)
-- Jan 08 - [Elasticlunr, a full-text search library for Elixir](https://atandarash.me/blog/introduction-to-elasticlunr)
-- Jan 08 - [Johann Hari’s Stolen Ideas](https://unherd.com/2022/01/johann-haris-stolen-ideas/)
+- Jan 09 - [Explaining to My Parents What I Do: Intro to Power Pricing](https://www.neelsomani.com/blog/explaining-to-my-parents-what-i-do.php)
+- Jan 09 - [In practice, Debian and Ubuntu have fixed minimum system UIDs and GIDs](https://utcc.utoronto.ca/~cks/space/blog/linux/DebianFixedMinimumUIDsGIDs)
+- Jan 09 - [Youth suicide attempts soared during pandemic](https://www.nbcnews.com/news/us-news/youth-suicide-attempts-soared-during-pandemic-cdc-report-says-n1270463)
+- Jan 09 - [Pluton is not currently a threat to software freedom](https://mjg59.dreamwidth.org/58125.html)
+- Jan 09 - [Drones used by farmers could be spying](https://taipeitimes.com/News/taiwan/archives/2022/01/09/2003771022)
 <!--END_SECTION:hn-->
 
 <!--
