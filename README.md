@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 09 - [FD 100](https://susam.net/blog/fd-100.html)
-- Jan 09 - [Ask HN: Is ProductHunt Worth It?](https://news.ycombinator.com/item?id=29864157)
-- Jan 09 - [Far-UVC light: A tool to control the spread of airborne-mediated microbial](https://www.nature.com/articles/s41598-018-21058-w)
-- Jan 09 - [Ask HN: How do you start contracting?](https://news.ycombinator.com/item?id=29864014)
-- Jan 09 - [Ask HN: How do I get over constant failure?](https://news.ycombinator.com/item?id=29863974)
+- Jan 09 - [RSS Feeds about what the Government is doing](https://www.govinfo.gov/feeds)
+- Jan 09 - [awkcc: awk-to-C transcompiler (1988, 2011)](https://github.com/nokia/awkcc)
+- Jan 09 - [Astronomers Witness a Dying Star Reach Its Explosive End](https://keckobservatory.org/dying-star/)
+- Jan 09 - [Charles Stross: Oh, 2022](http://www.antipope.org/charlie/blog-static/2022/01/oh-2022.html)
+- Jan 09 - [Procedural Worlds from Simple Tiles](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html)
 <!--END_SECTION:hn-->
 
 <!--
