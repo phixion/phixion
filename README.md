@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 08 - [The Pirate Bay Token](https://thepiratebay.org/token.html)
-- Jan 08 - [Systemd, 10 years later: a historical and technical retrospective](https://blog.darknedgy.net/technology/2020/05/02/0/)
-- Jan 08 - [Unpacking CVE-2021-40444: A Deep Technical Analysis of an Office RCE Exploit](https://billdemirkapi.me/unpacking-cve-2021-40444-microsoft-office-rce/)
-- Jan 08 - [Xiaomi cellphones can censor searches: NCC – Taipei Times](https://taipeitimes.com/News/front/archives/2022/01/08/2003770963)
-- Jan 08 - [Ask HN: Are We in a Bubble?](https://news.ycombinator.com/item?id=29854832)
+- Jan 09 - [Tips for a Healthier Postgres Database](https://blog.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year)
+- Jan 08 - [Do Climate Models Predict Extreme Weather?](http://backreaction.blogspot.com/2022/01/do-climate-models-predict-extreme.html)
+- Jan 08 - [Thiel Foundation announces next Thiel Fellow class: 23 entrepreneurs](https://www.businesswire.com/news/home/20220106005089/en/Thiel-Foundation-Announces-Next-Thiel-Fellow-Class)
+- Jan 08 - [Elasticlunr, a full-text search library for Elixir](https://atandarash.me/blog/introduction-to-elasticlunr)
+- Jan 08 - [Johann Hari’s Stolen Ideas](https://unherd.com/2022/01/johann-haris-stolen-ideas/)
 <!--END_SECTION:hn-->
 
 <!--
