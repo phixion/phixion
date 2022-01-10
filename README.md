@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 10 - [Why I went back to using a ThinkPad from 2012](https://ounapuu.ee/posts/2022/01/09/why-i-went-back-to-using-a-thinkpad-from-2012/)
-- Jan 10 - [Bitmovin (YC S15) Is Hiring Software Engineers in Video Compression and Players](https://bitmovin.com/careers/)
-- Jan 10 - [XMPP: The secure communication protocol that respects privacy](https://notes.nicfab.it/post/xmpp/xmpp/)
-- Jan 10 - [UCLA Study Finds Laughter in 65 Species, from Rats to Cows](https://www.openculture.com/2022/01/animals-laugh-too-ucla-study-finds-laughter-in-65-species-from-rats-to-cows.html)
-- Jan 10 - [How health care is turning into a consumer product](https://www.economist.com/business/how-health-care-is-turning-into-a-consumer-product/21807114)
+- Jan 10 - [OneSignal (YC S11) Is Hiring Engineers to Power the World's Messages](https://onesignal.com/careers/47cfa966-9689-400b-8d86-fd2707a6f045)
+- Jan 10 - [Covid-19 may have killed nearly 3M in India, far more than official counts show](https://www.science.org/content/article/covid-19-may-have-killed-nearly-3-million-india-far-more-official-counts-show)
+- Jan 10 - [Blockchain-based systems are not what they say they are](https://blog.mollywhite.net/blockchains-are-not-what-they-say/)
+- Jan 10 - [BitTorrent v2 (2020)](https://blog.libtorrent.org/2020/09/bittorrent-v2/)
+- Jan 10 - [Britain's largest 'Sea Dragon' discovered in UK's smallest county](https://www.lrwt.org.uk/seadragon)
 <!--END_SECTION:hn-->
 
 <!--
