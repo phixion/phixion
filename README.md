@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 09 - [RSS Feeds about what the Government is doing](https://www.govinfo.gov/feeds)
-- Jan 09 - [awkcc: awk-to-C transcompiler (1988, 2011)](https://github.com/nokia/awkcc)
-- Jan 09 - [Astronomers Witness a Dying Star Reach Its Explosive End](https://keckobservatory.org/dying-star/)
-- Jan 09 - [Charles Stross: Oh, 2022](http://www.antipope.org/charlie/blog-static/2022/01/oh-2022.html)
-- Jan 09 - [Procedural Worlds from Simple Tiles](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html)
+- Jan 09 - [The vicious cycle of food and sleep](https://knowablemagazine.org/article/mind/2021/vicious-cycle-food-sleep)
+- Jan 09 - [Command Line Video Player](https://github.com/mpv-player/mpv)
+- Jan 09 - [CalyxOS now supports Pixel 6 and Pixel 6 Pro](https://calyxos.org/news/2022/01/08/android-12-pixel-6/)
+- Jan 09 - [EasyPost (YC S13) Is Hiring Remote](https://www.easypost.com/careers)
+- Jan 09 - [Show HN: Keyboard Drill – Minimalist Typing Drill to fix common mistakes](https://keyboard-drill.com)
 <!--END_SECTION:hn-->
 
 <!--
