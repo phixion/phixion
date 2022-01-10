@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 10 - [OneSignal (YC S11) Is Hiring Engineers to Power the World's Messages](https://onesignal.com/careers/47cfa966-9689-400b-8d86-fd2707a6f045)
-- Jan 10 - [Covid-19 may have killed nearly 3M in India, far more than official counts show](https://www.science.org/content/article/covid-19-may-have-killed-nearly-3-million-india-far-more-official-counts-show)
-- Jan 10 - [Blockchain-based systems are not what they say they are](https://blog.mollywhite.net/blockchains-are-not-what-they-say/)
-- Jan 10 - [BitTorrent v2 (2020)](https://blog.libtorrent.org/2020/09/bittorrent-v2/)
-- Jan 10 - [Britain's largest 'Sea Dragon' discovered in UK's smallest county](https://www.lrwt.org.uk/seadragon)
+- Jan 10 - [Deep Learning Interviews book: Hundreds of fully solved job interview questions](https://github.com/BoltzmannEntropy/interviews.ai)
+- Jan 10 - [I centralize and distribute my bookmarks](https://robinglen.medium.com/how-i-centralize-and-distribute-my-bookmarks-cc8b11bb7475)
+- Jan 10 - [Danish intelligence chief held over suspected info leaks, local media report](https://www.reuters.com/world/europe/danish-intelligence-chief-held-over-suspected-information-leaks-local-media-2022-01-10/)
+- Jan 10 - [The burden of an Open Source maintainer](https://www.jeffgeerling.com/blog/2022/burden-open-source-maintainer)
+- Jan 10 - [Google Had Secret Project to ‘Convince’ Employees ‘That Unions Suck’](https://www.vice.com/en/article/v7d7j9/google-had-secret-project-to-convince-employees-that-unions-suck)
 <!--END_SECTION:hn-->
 
 <!--
