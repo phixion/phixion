@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 11 - [The WebSocket Handbook](https://ably.com/blog/introducing-the-websocket-handbook)
-- Jan 11 - [NASA believes the James Webb Space Telescope has enough fuel to last 20 years](https://www.npr.org/live-updates/morning-edition-2022-01-11)
-- Jan 11 - [Djokovic's PCR test was manipulated (OSINT by Zerforschung, in German)](https://twitter.com/zerforschung/status/1480919124117274625)
-- Jan 11 - [Ask HN: Why isn't there a backlash around charging for security features?](https://news.ycombinator.com/item?id=29892472)
-- Jan 11 - [Dsq: Commandline tool for running SQL queries against JSON, CSV, Parquet, etc.](https://datastation.multiprocess.io/blog/2022-01-11-dsq.html)
+- Jan 11 - [Citadel (Groupware) Code of Conduct](https://www.citadel.org/code_of_conduct.html)
+- Jan 11 - [What Defcon Sounds Like: Skyking Emergency Action Messages (2016)](https://specialcollections.radio/This-Is-What-DEFCON-Sounds-Like-Skyking-Emergency-Action-Messages)
+- Jan 11 - [New SysJoker Backdoor Targets Windows, Linux, and macOS](https://www.intezer.com/blog/malware-analysis/new-backdoor-sysjoker/)
+- Jan 11 - [Yesterday, US grounded ALL planes on the west coast for ten minutes](https://kion546.com/money/cnn-business-consumer/2022/01/11/us-grounded-planes-after-norad-alerted-a-north-korean-missile-launch-official-says-2/)
+- Jan 11 - [W3C Privacy Interest Group (PING) 2021 year in review and thank yous](https://www.w3.org/blog/2022/01/privacy-interest-group-ping-2021-year-in-review-and-thank-yous/)
 <!--END_SECTION:hn-->
 
 <!--
