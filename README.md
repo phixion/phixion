@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 11 - [Crev – Socially scalable Code REView and recommendation system](https://github.com/crev-dev/)
+- Jan 11 - [Is Google Search Deteriorating? Measuring Google's Search Quality in 2022](https://www.surgehq.ai/blog/is-google-search-deteriorating-measuring-search-quality-in-2022)
+- Jan 11 - [A Holocaust Survivor's Hardboiled Science Fiction](https://www.newyorker.com/magazine/2022/01/17/a-holocaust-survivors-hardboiled-science-fiction)
+- Jan 11 - [Lufthansa confirmed that 18k flights had been flown empty to keep slots](https://www.airlive.net/lufthansa-group-confirmed-that-18000-flights-had-been-flown-empty-to-keep-airport-slots/)
 - Jan 11 - [Relationship Hero (YC S17) Is Hiring Customer Support – Full Time Remote](https://relationshiphero.com/careers?role=customerSupport)
-- Jan 11 - [Strengthening Our Efforts Against the Spread of Non-Consensual Intimate Images](https://about.fb.com/news/2021/12/strengthening-efforts-against-spread-of-non-consensual-intimate-images/)
-- Jan 11 - [You Win, Broken Database Schemas](https://christine.website/blog/broken-database-schemas-2022-01-10)
-- Jan 10 - [Plastic Liberated and Entombed Us](https://commonreader.wustl.edu/c/how-plastic-liberated-and-entombed-us/)
-- Jan 10 - [A few things I’ve learned about livestreaming](https://dantepfer.com/blog/?p=1005)
 <!--END_SECTION:hn-->
 
 <!--
