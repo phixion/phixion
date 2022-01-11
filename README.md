@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 11 - [Remora (YC W21) is hiring – carbon capture for semi-trucks](https://news.ycombinator.com/item?id=29890462)
-- Jan 11 - [On Learning Smalltalk](https://blog.robsayers.com/on-learning-smalltalk)
-- Jan 11 - [The Art of Lisp and Writing](https://dreamsongs.com/ArtOfLisp.html)
-- Jan 11 - [CFU Playground: Full-Stack Open-Source Framework for TinyML Acceleration on FPGA](https://github.com/google/CFU-Playground)
-- Jan 11 - [PHP in 2022](https://stitcher.io/blog/php-in-2022)
+- Jan 11 - [The WebSocket Handbook](https://ably.com/blog/introducing-the-websocket-handbook)
+- Jan 11 - [NASA believes the James Webb Space Telescope has enough fuel to last 20 years](https://www.npr.org/live-updates/morning-edition-2022-01-11)
+- Jan 11 - [Djokovic's PCR test was manipulated (OSINT by Zerforschung, in German)](https://twitter.com/zerforschung/status/1480919124117274625)
+- Jan 11 - [Ask HN: Why isn't there a backlash around charging for security features?](https://news.ycombinator.com/item?id=29892472)
+- Jan 11 - [Dsq: Commandline tool for running SQL queries against JSON, CSV, Parquet, etc.](https://datastation.multiprocess.io/blog/2022-01-11-dsq.html)
 <!--END_SECTION:hn-->
 
 <!--
