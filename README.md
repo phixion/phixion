@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 11 - [How we built a VS Code Extension with Rust, WebAssembly, and TypeScript](https://www.osohq.com/post/building-vs-code-extension-with-rust-wasm-typescript)
-- Jan 11 - [Monumental Record: the lives of the workers building the Great Pyramid of Giza](https://www.historytoday.com/archive/history-matters/monumental-record)
-- Jan 11 - [Euler’s 243-Year-Old ‘Impossible’ Puzzle Gets a Quantum Solution](https://www.quantamagazine.org/eulers-243-year-old-impossible-puzzle-gets-a-quantum-solution-20220110/)
-- Jan 11 - [Indian threat actor Patchwork APT caught in its own web](https://blog.malwarebytes.com/threat-intelligence/2022/01/patchwork-apt-caught-in-its-own-web/)
-- Jan 11 - [Edina Minnesota latest suburb to roll out homeowner surveillance camera program](https://www.startribune.com/edina-latest-suburb-to-roll-out-homeowner-surveillance-camera-program/600132122/)
+- Jan 11 - [Remora (YC W21) is hiring – carbon capture for semi-trucks](https://news.ycombinator.com/item?id=29890462)
+- Jan 11 - [On Learning Smalltalk](https://blog.robsayers.com/on-learning-smalltalk)
+- Jan 11 - [The Art of Lisp and Writing](https://dreamsongs.com/ArtOfLisp.html)
+- Jan 11 - [CFU Playground: Full-Stack Open-Source Framework for TinyML Acceleration on FPGA](https://github.com/google/CFU-Playground)
+- Jan 11 - [PHP in 2022](https://stitcher.io/blog/php-in-2022)
 <!--END_SECTION:hn-->
 
 <!--
