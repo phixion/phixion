@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 12 - [State of Machine Learning in Julia](https://discourse.julialang.org/t/state-of-machine-learning-in-julia/74385)
+- Jan 12 - [Large-scale, semi-automated Go GC tuning](https://eng.uber.com/how-we-saved-70k-cores-across-30-mission-critical-services/)
+- Jan 12 - [DMV ‘revisiting’ its approach to regulating Tesla’s public self-driving test](https://www.latimes.com/business/story/2022-01-11/dmv-message-to-legislatures-ontesla-full-self-driving-safety-its-not-our-job)
+- Jan 12 - [SAGE jumpstarted today’s technology and built IBM into a powerhouse](https://arstechnica.com/science/2022/01/the-most-important-computer-youve-never-heard-of/)
 - Jan 12 - [Scientists believed Covid leaked from Wuhan lab, but feared debate could hurt](https://www.telegraph.co.uk/news/2022/01/11/scientists-believed-covid-leaked-wuhan-lab-feared-debate-could/)
-- Jan 12 - [802.11bf: The next big Wi-Fi standard is for sensing, not communication](https://staceyoniot.com/the-next-big-wi-fi-standard-is-for-sensing-not-communication/)
-- Jan 12 - [Welcome to Waifu Labs v2: How Do AIs Create?](https://waifulabs.com/blog/ai-creativity)
-- Jan 12 - [Ask HN: Why new browsers use Chromium instead of Firefox as their base?](https://news.ycombinator.com/item?id=29900496)
-- Jan 12 - [The Great Siberian Thaw](https://www.newyorker.com/magazine/2022/01/17/the-great-siberian-thaw)
 <!--END_SECTION:hn-->
 
 <!--
