@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 12 - [Germany doesn't rule out closing Telegram – interior minister](https://www.reuters.com/technology/germany-doesnt-rule-out-closing-telegram-interior-minister-2022-01-12/)
-- Jan 12 - [Amish Hackers (2009)](https://kk.org/thetechnium/amish-hackers-a/)
-- Jan 12 - [Convictional (YC W19) -hiring engineers to build the future of B2B trade (Remote)](https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3)
-- Jan 12 - [Ask HN: Career change for elderly UK ex-convict?](https://news.ycombinator.com/item?id=29904654)
-- Jan 12 - [Writing a Game Boy Emulator in OCaml](https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/)
+- Jan 12 - [In MySQL, never use “utf8”. Use “utf8mb4”](https://adamhooper.medium.com/in-mysql-never-use-utf8-use-utf8mb4-11761243e434)
+- Jan 12 - [Autofocus on a Pi – ArduCam's new 16MP camera](https://www.jeffgeerling.com/blog/2022/autofocus-on-pi-arducams-new-16mp-camera)
+- Jan 12 - [Goldman Sachs invests $250m in compressed air energy storage](https://www.canarymedia.com/articles/long-duration-energy-storage/goldman-sachs-just-made-a-record-setting-investment-in-long-duration-energy-storage)
+- Jan 12 - [Ask HN: Where Is the Cola?](https://news.ycombinator.com/item?id=29907013)
+- Jan 12 - [Lawsuit aiming to break up Facebook group Meta can go ahead, US court rules](https://www.theguardian.com/technology/2022/jan/12/lawsuit-aiming-to-break-up-facebook-group-meta-can-go-ahead-us-court-rules)
 <!--END_SECTION:hn-->
 
 <!--
