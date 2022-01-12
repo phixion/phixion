@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 12 - [State of Machine Learning in Julia](https://discourse.julialang.org/t/state-of-machine-learning-in-julia/74385)
-- Jan 12 - [Large-scale, semi-automated Go GC tuning](https://eng.uber.com/how-we-saved-70k-cores-across-30-mission-critical-services/)
-- Jan 12 - [DMV ‘revisiting’ its approach to regulating Tesla’s public self-driving test](https://www.latimes.com/business/story/2022-01-11/dmv-message-to-legislatures-ontesla-full-self-driving-safety-its-not-our-job)
-- Jan 12 - [SAGE jumpstarted today’s technology and built IBM into a powerhouse](https://arstechnica.com/science/2022/01/the-most-important-computer-youve-never-heard-of/)
-- Jan 12 - [Scientists believed Covid leaked from Wuhan lab, but feared debate could hurt](https://www.telegraph.co.uk/news/2022/01/11/scientists-believed-covid-leaked-wuhan-lab-feared-debate-could/)
+- Jan 12 - [Germany doesn't rule out closing Telegram – interior minister](https://www.reuters.com/technology/germany-doesnt-rule-out-closing-telegram-interior-minister-2022-01-12/)
+- Jan 12 - [Amish Hackers (2009)](https://kk.org/thetechnium/amish-hackers-a/)
+- Jan 12 - [Convictional (YC W19) -hiring engineers to build the future of B2B trade (Remote)](https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3)
+- Jan 12 - [Ask HN: Career change for elderly UK ex-convict?](https://news.ycombinator.com/item?id=29904654)
+- Jan 12 - [Writing a Game Boy Emulator in OCaml](https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/)
 <!--END_SECTION:hn-->
 
 <!--
