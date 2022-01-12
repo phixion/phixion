@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 12 - [In MySQL, never use “utf8”. Use “utf8mb4”](https://adamhooper.medium.com/in-mysql-never-use-utf8-use-utf8mb4-11761243e434)
-- Jan 12 - [Autofocus on a Pi – ArduCam's new 16MP camera](https://www.jeffgeerling.com/blog/2022/autofocus-on-pi-arducams-new-16mp-camera)
-- Jan 12 - [Goldman Sachs invests $250m in compressed air energy storage](https://www.canarymedia.com/articles/long-duration-energy-storage/goldman-sachs-just-made-a-record-setting-investment-in-long-duration-energy-storage)
-- Jan 12 - [Ask HN: Where Is the Cola?](https://news.ycombinator.com/item?id=29907013)
-- Jan 12 - [Lawsuit aiming to break up Facebook group Meta can go ahead, US court rules](https://www.theguardian.com/technology/2022/jan/12/lawsuit-aiming-to-break-up-facebook-group-meta-can-go-ahead-us-court-rules)
+- Jan 12 - [About the security content of iOS 15.2.1 and iPadOS 15.2.1](https://support.apple.com/en-us/HT213043)
+- Jan 12 - [Async Rust in Practice: Performance, Pitfalls, Profiling](https://www.scylladb.com/2022/01/12/async-rust-in-practice-performance-pitfalls-profiling/)
+- Jan 12 - [Vector Search with SQL](https://neuml.github.io/txtai/embeddings/)
+- Jan 12 - [Show HN: I built a gravity simulator in pure CSS](https://www.multiplanetary.website/rocketscience)
+- Jan 12 - [RDS vs. PlanetScale: Pricing Considerations](https://www.vantage.sh/blog/2022-01-12-rds-vs-planetscale-pricing-considerations)
 <!--END_SECTION:hn-->
 
 <!--
