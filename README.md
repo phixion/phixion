@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 13 - [Raising Capital as a Pseudonymous Founder](https://soona.mirror.xyz/Or4pMNQKOgmDIrHkbbP0NF5lxXqOh-RNpCRtqeWupGA)
-- Jan 13 - [Josh Hawley introducing his own stock ban bill](https://www.axios.com/josh-hawley-stock-ban-bill-c1f17548-286c-4244-8798-ce465efffc1f.html)
-- Jan 12 - [Grocery store shortages are back](https://www.npr.org/2022/01/12/1072462477/grocery-shortage-shelves-reasons)
-- Jan 12 - [Lab-Made Coronavirus Triggers Debate (2015)](https://web.archive.org/web/20200123174440/https://www.the-scientist.com/news-opinion/lab-made-coronavirus-triggers-debate-34502)
-- Jan 12 - [Apple execs: Let's take a 30% cut of Uber and Lyft's membership programs (2018)](https://twitter.com/TechEmails/status/1481339345822879745)
+- Jan 13 - [Show HN: Bang Bookmarks – replicate DuckDuckGo bangs in Firefox using Keymarks](https://github.com/jameshealyio/bang-bookmarks)
+- Jan 13 - [The Memories of Z80 Past: Zaxxon and Future Spy](https://nicole.express/2022/future-spy-but-its-now-the-future.html)
+- Jan 13 - [5.16 Kernel Development Statistics](https://lwn.net/SubscriberLink/880699/63ad00ea7113bb26/)
+- Jan 13 - [Send text messages for free using Python](https://www.alfredosequeida.com/blog/how-to-send-text-messages-for-free-using-python-use-python-to-send-text-messages-via-email/)
+- Jan 12 - [New info about cellular death process previously thought to be irreversible](https://today.uic.edu/scientists-uncover-new-information-about-cellular-death-process-previously-thought-to-be-irreversible)
 <!--END_SECTION:hn-->
 
 <!--
