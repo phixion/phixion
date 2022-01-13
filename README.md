@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 13 - [Ghost in the Ethernet Optic](https://blog.benjojo.co.uk/post/smart-sfp-linux-inside)
-- Jan 13 - [Smarking (YC W15) Is Hiring Head of Eng to empower and grow eng team](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
-- Jan 13 - [Adhole.org Is Shutting Down](https://adhole.org/)
-- Jan 13 - [How to Set Up a Router's Port Forwarding for a Nintendo Switch Console](https://en-americas-support.nintendo.com/app/answers/detail/a_id/22272/~/how-to-set-up-a-routers-port-forwarding-for-a-nintendo-switch-console)
-- Jan 13 - [Austrian DSB: EU-US Data Transfers to Google Analytics Illegal](https://noyb.eu/en/austrian-dsb-eu-us-data-transfers-google-analytics-illegal)
+- Jan 13 - [Cannabinoids Block Cellular Entry of SARS-CoV-2 and the Emerging Variants](https://pubs.acs.org/doi/10.1021/acs.jnatprod.1c00946)
+- Jan 13 - [German company's use of Google Analytics breached GDPR](https://www.theregister.com/2022/01/13/google_analytics_gdpr/)
+- Jan 13 - [Ask HN: Mistakes working with small local clients?](https://news.ycombinator.com/item?id=29921554)
+- Jan 13 - [Why Google Treats SQL Like Code and You Should Too](https://blog.devgenius.io/why-google-treats-sql-like-code-and-you-should-too-53f97925037e)
+- Jan 13 - [Looptap – A minimal game to waste your time](https://looptap.vasanthv.com/)
 <!--END_SECTION:hn-->
 
 <!--
