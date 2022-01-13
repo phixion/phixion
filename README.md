@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 13 - [Anyone else having problems with Firefox?](https://news.ycombinator.com/item?id=29918052)
-- Jan 13 - [Toxic Culture Is Driving the Great Resignation](https://sloanreview.mit.edu/article/toxic-culture-is-driving-the-great-resignation/)
-- Jan 13 - [QuestDB (YC S20) Is Hiring a Developer in Test (Java)](https://questdb.io/careers/developer-in-test)
-- Jan 13 - [Ask HN: What does everyone here think of the Wordle guy not monetizing it?](https://news.ycombinator.com/item?id=29916899)
-- Jan 13 - [Show HN: Bang Bookmarks – replicate DuckDuckGo bangs in Firefox using Keymarks](https://github.com/jameshealyio/bang-bookmarks)
+- Jan 13 - [Ghost in the Ethernet Optic](https://blog.benjojo.co.uk/post/smart-sfp-linux-inside)
+- Jan 13 - [Smarking (YC W15) Is Hiring Head of Eng to empower and grow eng team](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
+- Jan 13 - [Adhole.org Is Shutting Down](https://adhole.org/)
+- Jan 13 - [How to Set Up a Router's Port Forwarding for a Nintendo Switch Console](https://en-americas-support.nintendo.com/app/answers/detail/a_id/22272/~/how-to-set-up-a-routers-port-forwarding-for-a-nintendo-switch-console)
+- Jan 13 - [Austrian DSB: EU-US Data Transfers to Google Analytics Illegal](https://noyb.eu/en/austrian-dsb-eu-us-data-transfers-google-analytics-illegal)
 <!--END_SECTION:hn-->
 
 <!--
