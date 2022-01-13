@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 12 - [About the security content of iOS 15.2.1 and iPadOS 15.2.1](https://support.apple.com/en-us/HT213043)
-- Jan 12 - [Async Rust in Practice: Performance, Pitfalls, Profiling](https://www.scylladb.com/2022/01/12/async-rust-in-practice-performance-pitfalls-profiling/)
-- Jan 12 - [Vector Search with SQL](https://neuml.github.io/txtai/embeddings/)
-- Jan 12 - [Show HN: I built a gravity simulator in pure CSS](https://www.multiplanetary.website/rocketscience)
-- Jan 12 - [RDS vs. PlanetScale: Pricing Considerations](https://www.vantage.sh/blog/2022-01-12-rds-vs-planetscale-pricing-considerations)
+- Jan 13 - [Raising Capital as a Pseudonymous Founder](https://soona.mirror.xyz/Or4pMNQKOgmDIrHkbbP0NF5lxXqOh-RNpCRtqeWupGA)
+- Jan 13 - [Josh Hawley introducing his own stock ban bill](https://www.axios.com/josh-hawley-stock-ban-bill-c1f17548-286c-4244-8798-ce465efffc1f.html)
+- Jan 12 - [Grocery store shortages are back](https://www.npr.org/2022/01/12/1072462477/grocery-shortage-shelves-reasons)
+- Jan 12 - [Lab-Made Coronavirus Triggers Debate (2015)](https://web.archive.org/web/20200123174440/https://www.the-scientist.com/news-opinion/lab-made-coronavirus-triggers-debate-34502)
+- Jan 12 - [Apple execs: Let's take a 30% cut of Uber and Lyft's membership programs (2018)](https://twitter.com/TechEmails/status/1481339345822879745)
 <!--END_SECTION:hn-->
 
 <!--
