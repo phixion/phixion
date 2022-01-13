@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 13 - [Cannabinoids Block Cellular Entry of SARS-CoV-2 and the Emerging Variants](https://pubs.acs.org/doi/10.1021/acs.jnatprod.1c00946)
-- Jan 13 - [German company's use of Google Analytics breached GDPR](https://www.theregister.com/2022/01/13/google_analytics_gdpr/)
-- Jan 13 - [Ask HN: Mistakes working with small local clients?](https://news.ycombinator.com/item?id=29921554)
-- Jan 13 - [Why Google Treats SQL Like Code and You Should Too](https://blog.devgenius.io/why-google-treats-sql-like-code-and-you-should-too-53f97925037e)
-- Jan 13 - [Looptap – A minimal game to waste your time](https://looptap.vasanthv.com/)
+- Jan 13 - [Scaling Vision with Sparse Mixture of Experts](https://ai.googleblog.com/2022/01/scaling-vision-with-sparse-mixture-of.html)
+- Jan 13 - [Exploring System76's New Rust Based Desktop Environment](https://blog.edfloreshz.dev/articles/linux/system76/rust-based-desktop-environment/)
+- Jan 13 - [Show HN: Create animations by dragging an element with your mouse](https://animatize.com/)
+- Jan 13 - [Big Time Public License](https://writing.kemitchell.com/2021/06/15/Big-Time-1.0.0.html)
+- Jan 13 - [Music industry is suing youtube-dl hosters](https://news.i-n24.com/lifestyle/news/253970.html)
 <!--END_SECTION:hn-->
 
 <!--
