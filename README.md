@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 14 - [Show HN: Record Your Accomplishments](https://accomplishments.app/)
+- Jan 14 - [Project Cybersyn and the Origins of the Big Data Nation](https://www.newyorker.com/magazine/2014/10/13/planning-machine)
+- Jan 14 - [Counterfeit KN95 respirators](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/types-of-masks.html)
+- Jan 14 - [Mathematicians clear hurdle in quest to decode primes](https://www.quantamagazine.org/mathematicians-clear-hurdle-in-quest-to-decode-prime-numbers-20220113/)
 - Jan 14 - [Interlock/Apozy (YC W17) Is Hiring](https://interlock.breezy.hr/p/9ebe62d7d2cb)
-- Jan 14 - [Congress Needs to Stop Day Trading, Says Sen. Mark Warner](https://bigtechnology.substack.com/p/congress-needs-to-stop-day-trading)
-- Jan 13 - [Slackware Linux 15.0 RC3](http://www.slackware.com/changelog/current.php?cpu=i386)
-- Jan 13 - [Best Wordle Guessing Strategy](https://slc.is/#Best%20Wordle%20Strategy%20%E2%80%94%20Explore%20or%20Exploit)
-- Jan 13 - [Nominative determinism in hospital medicine, by Limb, Limb, Limb and Limb](https://publishing.rcseng.ac.uk/doi/full/10.1308/147363515X14134529299420#/doi/full/10.1308/147363515X14134529299420)
 <!--END_SECTION:hn-->
 
 <!--
