@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 14 - [Etleap (YC W13) Is Hiring Software Engineer – London](https://etleap.com/jobs/#software-engineer)
-- Jan 14 - [Humble subscription service is dumping Mac, Linux access in 18 days](https://arstechnica.com/gaming/2022/01/humble-subscription-service-is-dumping-mac-linux-access-in-18-days/)
-- Jan 14 - [Meta sued for £2.3bn over claim Facebook users in UK were exploited](https://www.theguardian.com/technology/2022/jan/14/meta-sued-for-23bn-over-claim-facebook-users-in-uk-were-exploited)
-- Jan 14 - [Why can’t I play Ultra HD Blu-ray movies on my new Intel CPU platform?](https://www.cyberlink.com:443/support/faq-content.do?id=26690)
-- Jan 14 - [India's richest man pouring $80B into green energy, including new ventures](https://www.cnn.com/2022/01/14/business/india-reliance-gujarat-green-energy-investment-intl-hnk/index.html)
+- Jan 14 - [Cloud Native Interactive Landscape](https://landscape.cncf.io/)
+- Jan 14 - [Jan 6 committee subpoenas Meta, Google, Reddit etc. after 'inadequate responses'](https://www.nbcnews.com/politics/congress/jan-6-committee-subpoenas-tech-giants-after-inadequate-response-n1287442)
+- Jan 14 - [Browse the web like reading email? What is the name of that app?](https://news.ycombinator.com/item?id=29934745)
+- Jan 14 - [FSB arrests REvil ransomware gang members](https://therecord.media/fsb-raids-revil-ransomware-gang-members/)
+- Jan 14 - [Chatbots: Still Dumb After All These Years](https://statmodeling.stat.columbia.edu/2022/01/13/chatbots-still-dumb-after-all-these-years/)
 <!--END_SECTION:hn-->
 
 <!--
