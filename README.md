@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 13 - [Scaling Vision with Sparse Mixture of Experts](https://ai.googleblog.com/2022/01/scaling-vision-with-sparse-mixture-of.html)
-- Jan 13 - [Exploring System76's New Rust Based Desktop Environment](https://blog.edfloreshz.dev/articles/linux/system76/rust-based-desktop-environment/)
-- Jan 13 - [Show HN: Create animations by dragging an element with your mouse](https://animatize.com/)
-- Jan 13 - [Big Time Public License](https://writing.kemitchell.com/2021/06/15/Big-Time-1.0.0.html)
-- Jan 13 - [Music industry is suing youtube-dl hosters](https://news.i-n24.com/lifestyle/news/253970.html)
+- Jan 14 - [Interlock/Apozy (YC W17) Is Hiring](https://interlock.breezy.hr/p/9ebe62d7d2cb)
+- Jan 14 - [Congress Needs to Stop Day Trading, Says Sen. Mark Warner](https://bigtechnology.substack.com/p/congress-needs-to-stop-day-trading)
+- Jan 13 - [Slackware Linux 15.0 RC3](http://www.slackware.com/changelog/current.php?cpu=i386)
+- Jan 13 - [Best Wordle Guessing Strategy](https://slc.is/#Best%20Wordle%20Strategy%20%E2%80%94%20Explore%20or%20Exploit)
+- Jan 13 - [Nominative determinism in hospital medicine, by Limb, Limb, Limb and Limb](https://publishing.rcseng.ac.uk/doi/full/10.1308/147363515X14134529299420#/doi/full/10.1308/147363515X14134529299420)
 <!--END_SECTION:hn-->
 
 <!--
