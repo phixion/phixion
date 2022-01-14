@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 14 - [Show HN: Record Your Accomplishments](https://accomplishments.app/)
-- Jan 14 - [Project Cybersyn and the Origins of the Big Data Nation](https://www.newyorker.com/magazine/2014/10/13/planning-machine)
-- Jan 14 - [Counterfeit KN95 respirators](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/types-of-masks.html)
+- Jan 14 - [Novak Djokovic's Visa Cancelled by Australian Minister for Immigration](https://twitter.com/BenRothenberg/status/1481882690140131328)
+- Jan 14 - [Kanda (YC W21) Is Hiring](https://www.ycombinator.com/companies/kanda/jobs/VEoVEkN-vp-of-engineering-at-kanda)
+- Jan 14 - [Keep hearing of train burglaries in LA on the scanner so went to LincolnHeights](https://twitter.com/johnschreiber/status/1481770722271760384)
+- Jan 14 - [Project Cybersyn and the Origins of the Big Data Nation (2014)](https://www.newyorker.com/magazine/2014/10/13/planning-machine)
 - Jan 14 - [Mathematicians clear hurdle in quest to decode primes](https://www.quantamagazine.org/mathematicians-clear-hurdle-in-quest-to-decode-prime-numbers-20220113/)
-- Jan 14 - [Interlock/Apozy (YC W17) Is Hiring](https://interlock.breezy.hr/p/9ebe62d7d2cb)
 <!--END_SECTION:hn-->
 
 <!--
