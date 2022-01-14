@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 14 - [Cloud Native Interactive Landscape](https://landscape.cncf.io/)
-- Jan 14 - [Jan 6 committee subpoenas Meta, Google, Reddit etc. after 'inadequate responses'](https://www.nbcnews.com/politics/congress/jan-6-committee-subpoenas-tech-giants-after-inadequate-response-n1287442)
-- Jan 14 - [Browse the web like reading email? What is the name of that app?](https://news.ycombinator.com/item?id=29934745)
-- Jan 14 - [FSB arrests REvil ransomware gang members](https://therecord.media/fsb-raids-revil-ransomware-gang-members/)
-- Jan 14 - [Chatbots: Still Dumb After All These Years](https://statmodeling.stat.columbia.edu/2022/01/13/chatbots-still-dumb-after-all-these-years/)
+- Jan 14 - [Poll: Why are you staying at your job?](https://news.ycombinator.com/item?id=29939432)
+- Jan 14 - [History of Pepper](https://www.ipcnet.org/history-of-pepper/)
+- Jan 14 - [Ctcctcggcgggcacgtag is unique to both SARS-CoV-2 and Moderna's 2015/2016 patents](https://arkmedic.substack.com/p/how-to-blast-your-way-to-the-truth)
+- Jan 14 - [FedEx: equip aircraft with countermeasure against heat-seeking missiles [pdf]](https://public-inspection.federalregister.gov/2022-00505.pdf)
+- Jan 14 - [Nuclear startup Oklo gets thumbs-down from regulators](https://www.canarymedia.com/articles/nuclear/nuclear-startup-oklo-gets-thumbs-down-from-regulators-what-does-this-mean-for-next-gen-nuclear)
 <!--END_SECTION:hn-->
 
 <!--
