@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 14 - [Novak Djokovic's Visa Cancelled by Australian Minister for Immigration](https://twitter.com/BenRothenberg/status/1481882690140131328)
-- Jan 14 - [Kanda (YC W21) Is Hiring](https://www.ycombinator.com/companies/kanda/jobs/VEoVEkN-vp-of-engineering-at-kanda)
-- Jan 14 - [Keep hearing of train burglaries in LA on the scanner so went to LincolnHeights](https://twitter.com/johnschreiber/status/1481770722271760384)
-- Jan 14 - [Project Cybersyn and the Origins of the Big Data Nation (2014)](https://www.newyorker.com/magazine/2014/10/13/planning-machine)
-- Jan 14 - [Mathematicians clear hurdle in quest to decode primes](https://www.quantamagazine.org/mathematicians-clear-hurdle-in-quest-to-decode-prime-numbers-20220113/)
+- Jan 14 - [Etleap (YC W13) Is Hiring Software Engineer – London](https://etleap.com/jobs/#software-engineer)
+- Jan 14 - [Humble subscription service is dumping Mac, Linux access in 18 days](https://arstechnica.com/gaming/2022/01/humble-subscription-service-is-dumping-mac-linux-access-in-18-days/)
+- Jan 14 - [Meta sued for £2.3bn over claim Facebook users in UK were exploited](https://www.theguardian.com/technology/2022/jan/14/meta-sued-for-23bn-over-claim-facebook-users-in-uk-were-exploited)
+- Jan 14 - [Why can’t I play Ultra HD Blu-ray movies on my new Intel CPU platform?](https://www.cyberlink.com:443/support/faq-content.do?id=26690)
+- Jan 14 - [India's richest man pouring $80B into green energy, including new ventures](https://www.cnn.com/2022/01/14/business/india-reliance-gujarat-green-energy-investment-intl-hnk/index.html)
 <!--END_SECTION:hn-->
 
 <!--
