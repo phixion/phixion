@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 14 - [Poll: Why are you staying at your job?](https://news.ycombinator.com/item?id=29939432)
-- Jan 14 - [History of Pepper](https://www.ipcnet.org/history-of-pepper/)
-- Jan 14 - [Ctcctcggcgggcacgtag is unique to both SARS-CoV-2 and Moderna's 2015/2016 patents](https://arkmedic.substack.com/p/how-to-blast-your-way-to-the-truth)
-- Jan 14 - [FedEx: equip aircraft with countermeasure against heat-seeking missiles [pdf]](https://public-inspection.federalregister.gov/2022-00505.pdf)
-- Jan 14 - [Nuclear startup Oklo gets thumbs-down from regulators](https://www.canarymedia.com/articles/nuclear/nuclear-startup-oklo-gets-thumbs-down-from-regulators-what-does-this-mean-for-next-gen-nuclear)
+- Jan 14 - [Show HN: My New Personal Website](https://www.verse.sh/)
+- Jan 14 - [Piano Reference to Major and Minor Scales](https://muted.io/major-minor-scales/)
+- Jan 14 - [Zendesk pretends to be open source?](https://www.zendesk.co.uk/help-desk-software/open-source-ticket-system/#tools)
+- Jan 14 - [Does Not Translate](https://doesnottranslate.com/)
+- Jan 14 - [New theory proposes ‘forgetting’ is a form of learning](https://www.tcd.ie/news_events/articles/why-do-we-forget-new-theory-proposes-forgetting-is-actually-a-form-of-learning/)
 <!--END_SECTION:hn-->
 
 <!--
