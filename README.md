@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 15 - [Outdoor Cats Are Using $500 Starlink Satellite Dishes as Self-Heating Beds](https://www.smithsonianmag.com/smart-news/outdoor-cats-are-using-500-starlink-satellite-dishes-as-self-heating-beds-180979401/)
+- Jan 15 - [Large Eruption Near Tonga, Heard in NZ. Tsunami at Tonga and Fiji](https://earthquake.usgs.gov/earthquakes/eventpage/pt22015050/executive)
+- Jan 15 - [It’s not still the early days of blockchain](https://blog.mollywhite.net/its-not-still-the-early-days/)
+- Jan 15 - [Safety in numbers: crowdsourcing data on nefarious IP addresses](https://stackoverflow.blog/2022/01/14/crowdsec-security-ips-ip-blocking/)
+- Jan 15 - [United States Pirate Party](https://uspirates.org/faq/)
 - Jan 15 - [Cog Resurgence](https://nedbatchelder.com/blog/202201/cog_resurgence.html)
-- Jan 15 - [Python Communist Revolution](https://github.com/jokteur/python_communism)
-- Jan 15 - [Health Canada authorizes psychedelic drugs for therapies](https://www.gazette.gc.ca/rp-pr/p2/2022/2022-01-05/html/sor-dors271-eng.html)
-- Jan 15 - [5G is for sensing, not communication [pdf]](https://acris.aalto.fi/ws/portalfiles/portal/20768974/sigg_et_al_VT_conf.pdf)
 <!--END_SECTION:hn-->
 
 <!--
