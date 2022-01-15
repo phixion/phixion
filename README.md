@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 15 - [Meticulous (YC S21) Is Hiring #2 founding engineer in London (£100k-£150k)](https://news.ycombinator.com/item?id=29945729)
-- Jan 15 - [Smart sutures to monitor deep surgical wounds](https://news.nus.edu.sg/smart-sutures-to-monitor-deep-surgical-wounds/)
-- Jan 15 - [Twitter Home made me miserable](https://stitcher.io/blog/twitter-home-made-me-miserable)
-- Jan 15 - [GNU Radio](https://github.com/gnuradio/gnuradio)
-- Jan 15 - [Large Eruption Near Tonga, Heard in NZ. Tsunami at Tonga and Fiji](https://earthquake.usgs.gov/earthquakes/eventpage/pt22015050/executive)
+- Jan 15 - [IndexedDB in Safari 15 leaks your browsing activity in real time](https://fingerprintjs.com/blog/indexeddb-api-browser-vulnerability-safari-15/)
+- Jan 15 - [HelloFresh Open Salary Initiative 2022](https://hfsalary.org/)
+- Jan 15 - [DSLRs Are Dead, and Lenses Are Never Going to Be the Same (Again)](https://nofilmschool.com/canon-kills-dslr)
+- Jan 15 - [Show HN: SPADE, A simple programming language with a TUI IDE](https://hackage.haskell.org/package/spade)
+- Jan 15 - [Francis Fukuyama – Against Identity Politics](https://amc.sas.upenn.edu/francis-fukuyama-against-identity-politics)
 <!--END_SECTION:hn-->
 
 <!--
