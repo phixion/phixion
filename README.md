@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 15 - [IndexedDB in Safari 15 leaks your browsing activity in real time](https://fingerprintjs.com/blog/indexeddb-api-browser-vulnerability-safari-15/)
-- Jan 15 - [HelloFresh Open Salary Initiative 2022](https://hfsalary.org/)
-- Jan 15 - [DSLRs Are Dead, and Lenses Are Never Going to Be the Same (Again)](https://nofilmschool.com/canon-kills-dslr)
-- Jan 15 - [Show HN: SPADE, A simple programming language with a TUI IDE](https://hackage.haskell.org/package/spade)
-- Jan 15 - [Francis Fukuyama – Against Identity Politics](https://amc.sas.upenn.edu/francis-fukuyama-against-identity-politics)
+- Jan 15 - [Google Maps No Longer Top App for Navigation and Offline Maps](https://www.autoevolution.com/news/google-maps-is-no-longer-the-top-app-for-navigation-and-offline-maps-179196.html)
+- Jan 15 - [Ontario woman 30yo Stage 4 colon cancer surgery postponed indefinitely](https://toronto.ctvnews.ca/ontario-woman-with-stage-4-colon-cancer-has-life-saving-surgery-postponed-indefinitely-1.5739117)
+- Jan 15 - [UX low-code, performant, and open source](https://thescottkrause.com/emerging_tech/neodigm55_ux_library/)
+- Jan 15 - [Hiccupfx.js – Client side render feel](https://hiccupfx.telnet.asia/)
+- Jan 15 - [The λ-Cube](https://en.wikiversity.org/wiki/Foundations_of_Functional_Programming/The_%CE%BB-cube)
 <!--END_SECTION:hn-->
 
 <!--
