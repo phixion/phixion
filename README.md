@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 16 - [Sirum is hiring developers to help uninsured people afford medicine](https://news.ycombinator.com/item?id=29955269)
-- Jan 16 - [No Way to Be Human: We now occupy a nearly natureless world](https://www.theatlantic.com/technology/archive/2022/01/machine-garden-natureless-world/621268/)
-- Jan 16 - [BBC licence fee to be abolished in 2027 and funding frozen](https://www.theguardian.com/media/2022/jan/16/bbc-licence-fee-to-be-abolished-in-2027-and-funding-frozen)
-- Jan 16 - [Kosovo pulls plug on energy-guzzling Bitcoin miners](https://www.theguardian.com/technology/2022/jan/16/panic-as-kosovo-pulls-the-plug-on-its-energy-guzzling-bitcoin-miners)
-- Jan 16 - [You shouldn't have your crypto designed by a CEO](https://mailarchive.ietf.org/arch/msg/cose/8ywbcUy-YQZUh0JF4W5Tto1dCvg/)
+- Jan 16 - [Covid-19 breakthrough data](https://coronavirus.health.ny.gov/covid-19-breakthrough-data)
+- Jan 16 - [Statistical Rethinking (2022 Edition)](https://github.com/rmcelreath/stat_rethinking_2022)
+- Jan 16 - [Hunga Tonga-Hunga Ha’apai has almost disappeared](https://medium.com/@fguerraz/hunga-tonga-hunga-haapai-has-almost-disappeared-f0826609d353)
+- Jan 16 - [Hackers disrupt payroll for thousands of employers – including hospitals](https://www.npr.org/2022/01/15/1072846933/kronos-hack-lawsuits)
+- Jan 16 - [UK government plans publicity blitz to undermine privacy of chats](https://www.rollingstone.com/culture/culture-news/revealed-uk-government-publicity-blitz-to-undermine-privacy-encryption-1285453/)
 <!--END_SECTION:hn-->
 
 <!--
