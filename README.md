@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 15 - [The Shameful Decline of Scientific American](https://medium.com/lessons-from-history/the-shameful-decline-of-scientific-american-a028b90d0bdd)
-- Jan 15 - [The Gates of Hell](https://www.atlasobscura.com/places/the-gates-of-hell-turkmenistan)
-- Jan 15 - [Essence: Desktop operating system built from scratch](https://nakst.gitlab.io/essence)
-- Jan 15 - [The Zen of Drinking Alone](https://drunkard.com/the-zen-of-drinking-alone/)
-- Jan 15 - [Switching from macOS to Pop_OS](https://support.system76.com/articles/switch-from-macos-to-popos/)
+- Jan 16 - [$200k stolen in 12 hours, YouTube crypto giveaway scams are out of control](https://scaminvestigations.substack.com/p/the-youtube-crypto-giveaway-scams)
+- Jan 16 - [Ready for an N95? Here's how to find a high-quality one that fits you well](https://www.npr.org/sections/health-shots/2022/01/15/1073273768/n95-mask-respirator-cdc)
+- Jan 16 - [Show HN: Brew.fm – An alliance of artists who remix and edit each other's tracks](https://www.brew.fm/)
+- Jan 16 - [A computer from 1948 in ICMP packets](https://github.com/hrvach/babyping)
+- Jan 16 - [Are warp drives science now?](http://backreaction.blogspot.com/2022/01/are-warp-drives-science-now.html)
 <!--END_SECTION:hn-->
 
 <!--
