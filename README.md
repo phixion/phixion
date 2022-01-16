@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 16 - [Covid-19 breakthrough data](https://coronavirus.health.ny.gov/covid-19-breakthrough-data)
-- Jan 16 - [Statistical Rethinking (2022 Edition)](https://github.com/rmcelreath/stat_rethinking_2022)
-- Jan 16 - [Hunga Tonga-Hunga Ha’apai has almost disappeared](https://medium.com/@fguerraz/hunga-tonga-hunga-haapai-has-almost-disappeared-f0826609d353)
-- Jan 16 - [Hackers disrupt payroll for thousands of employers – including hospitals](https://www.npr.org/2022/01/15/1072846933/kronos-hack-lawsuits)
-- Jan 16 - [UK government plans publicity blitz to undermine privacy of chats](https://www.rollingstone.com/culture/culture-news/revealed-uk-government-publicity-blitz-to-undermine-privacy-encryption-1285453/)
+- Jan 16 - [US Fed – Employee Religious Exception Request Information System](https://www.federalregister.gov/documents/2022/01/11/2021-28135/privacy-act-of-1974-system-of-records)
+- Jan 16 - [My 486 Server](http://486servu.dy.fi/)
+- Jan 16 - [Mozilla's Firefox Relay to be added to disposable-email-domains blacklist](https://github.com/disposable-email-domains/disposable-email-domains/pull/298)
+- Jan 16 - [IETF should keep XMPP as IM standard, instead of Matrix](https://mailarchive.ietf.org/arch/msg/tools-discuss/Cj7n-7HwsN8xBzXCjD1pjD1j9Cg/)
+- Jan 16 - [A connectomic study of a petascale fragment of human cerebral cortex](https://vcg.seas.harvard.edu/publications/a-connectomic-study-of-a-petascale-fragment-of-human-cerebral-cortex)
 <!--END_SECTION:hn-->
 
 <!--
