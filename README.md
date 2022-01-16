@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 15 - [Google Maps No Longer Top App for Navigation and Offline Maps](https://www.autoevolution.com/news/google-maps-is-no-longer-the-top-app-for-navigation-and-offline-maps-179196.html)
-- Jan 15 - [Ontario woman 30yo Stage 4 colon cancer surgery postponed indefinitely](https://toronto.ctvnews.ca/ontario-woman-with-stage-4-colon-cancer-has-life-saving-surgery-postponed-indefinitely-1.5739117)
-- Jan 15 - [UX low-code, performant, and open source](https://thescottkrause.com/emerging_tech/neodigm55_ux_library/)
-- Jan 15 - [Hiccupfx.js – Client side render feel](https://hiccupfx.telnet.asia/)
-- Jan 15 - [The λ-Cube](https://en.wikiversity.org/wiki/Foundations_of_Functional_Programming/The_%CE%BB-cube)
+- Jan 15 - [The Shameful Decline of Scientific American](https://medium.com/lessons-from-history/the-shameful-decline-of-scientific-american-a028b90d0bdd)
+- Jan 15 - [The Gates of Hell](https://www.atlasobscura.com/places/the-gates-of-hell-turkmenistan)
+- Jan 15 - [Essence: Desktop operating system built from scratch](https://nakst.gitlab.io/essence)
+- Jan 15 - [The Zen of Drinking Alone](https://drunkard.com/the-zen-of-drinking-alone/)
+- Jan 15 - [Switching from macOS to Pop_OS](https://support.system76.com/articles/switch-from-macos-to-popos/)
 <!--END_SECTION:hn-->
 
 <!--
