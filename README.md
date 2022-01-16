@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 16 - [$200k stolen in 12 hours, YouTube crypto giveaway scams are out of control](https://scaminvestigations.substack.com/p/the-youtube-crypto-giveaway-scams)
-- Jan 16 - [Ready for an N95? Here's how to find a high-quality one that fits you well](https://www.npr.org/sections/health-shots/2022/01/15/1073273768/n95-mask-respirator-cdc)
+- Jan 16 - [Do Success Stories Cause False Beliefs About Success?](https://www.asc.upenn.edu/news-events/news/do-success-stories-cause-false-beliefs-about-success)
+- Jan 16 - [The Heaven’s Gate website is still live 25 years after all the members perished](https://thebodyintl.com/cults/left-alive-and-unchanged-the-heavens-gate-website)
+- Jan 16 - [Carbon dating is getting a major reboot (2020)](https://www.nature.com/articles/d41586-020-01499-y)
 - Jan 16 - [Show HN: Brew.fm – An alliance of artists who remix and edit each other's tracks](https://www.brew.fm/)
-- Jan 16 - [A computer from 1948 in ICMP packets](https://github.com/hrvach/babyping)
 - Jan 16 - [Are warp drives science now?](http://backreaction.blogspot.com/2022/01/are-warp-drives-science-now.html)
 <!--END_SECTION:hn-->
 
