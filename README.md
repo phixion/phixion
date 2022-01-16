@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 16 - [Do Success Stories Cause False Beliefs About Success?](https://www.asc.upenn.edu/news-events/news/do-success-stories-cause-false-beliefs-about-success)
-- Jan 16 - [The Heaven’s Gate website is still live 25 years after all the members perished](https://thebodyintl.com/cults/left-alive-and-unchanged-the-heavens-gate-website)
-- Jan 16 - [Carbon dating is getting a major reboot (2020)](https://www.nature.com/articles/d41586-020-01499-y)
-- Jan 16 - [Show HN: Brew.fm – An alliance of artists who remix and edit each other's tracks](https://www.brew.fm/)
-- Jan 16 - [Are warp drives science now?](http://backreaction.blogspot.com/2022/01/are-warp-drives-science-now.html)
+- Jan 16 - [Sirum is hiring developers to help uninsured people afford medicine](https://news.ycombinator.com/item?id=29955269)
+- Jan 16 - [No Way to Be Human: We now occupy a nearly natureless world](https://www.theatlantic.com/technology/archive/2022/01/machine-garden-natureless-world/621268/)
+- Jan 16 - [BBC licence fee to be abolished in 2027 and funding frozen](https://www.theguardian.com/media/2022/jan/16/bbc-licence-fee-to-be-abolished-in-2027-and-funding-frozen)
+- Jan 16 - [Kosovo pulls plug on energy-guzzling Bitcoin miners](https://www.theguardian.com/technology/2022/jan/16/panic-as-kosovo-pulls-the-plug-on-its-energy-guzzling-bitcoin-miners)
+- Jan 16 - [You shouldn't have your crypto designed by a CEO](https://mailarchive.ietf.org/arch/msg/cose/8ywbcUy-YQZUh0JF4W5Tto1dCvg/)
 <!--END_SECTION:hn-->
 
 <!--
