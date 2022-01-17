@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 17 - [Don't fully trust AI in dev work /yet](https://blog.akom.me/dont-fully-trust-ai-in-dev-work-yet)
-- Jan 17 - [AWS Lambda now supports IPv6 endpoints for inbound connections](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-lambda-ipv6-endpoints-inbound-connections/)
-- Jan 17 - [Some ways DNS can break](https://jvns.ca/blog/2022/01/15/some-ways-dns-can-break/)
-- Jan 17 - [Debut of X (1984)](https://www.talisman.org/x-debut.shtml)
-- Jan 17 - [How and why the Relational Model works for databases](https://blog.the-pans.com/relational/)
+- Jan 17 - [Why wokeness is more like Gorbachev's glasnost than the Cultural Revolution](https://defeat.art/glasnost-goes-west.html)
+- Jan 17 - [Deepnote (YC S19) is hiring to build a better data science notebook (Europe)](https://deepnote.com/join-us)
+- Jan 17 - [Why are air combat kills so rare? (2017)](https://www.bbc.com/news/world-40327934)
+- Jan 17 - [UK schools receive 300k CO2 monitors in gov initiative to reduce COVID19 spread](https://www.imperial.ac.uk/news/233154/curbing-covid-19-schools-imperial-scientists-support/)
+- Jan 17 - [Real-world stories of how we’ve compromised CI/CD pipelines](https://research.nccgroup.com/2022/01/13/10-real-world-stories-of-how-weve-compromised-ci-cd-pipelines/)
 <!--END_SECTION:hn-->
 
 <!--
