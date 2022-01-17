@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 17 - [Why wokeness is more like Gorbachev's glasnost than the Cultural Revolution](https://defeat.art/glasnost-goes-west.html)
-- Jan 17 - [Deepnote (YC S19) is hiring to build a better data science notebook (Europe)](https://deepnote.com/join-us)
-- Jan 17 - [Why are air combat kills so rare? (2017)](https://www.bbc.com/news/world-40327934)
-- Jan 17 - [UK schools receive 300k CO2 monitors in gov initiative to reduce COVID19 spread](https://www.imperial.ac.uk/news/233154/curbing-covid-19-schools-imperial-scientists-support/)
-- Jan 17 - [Real-world stories of how we’ve compromised CI/CD pipelines](https://research.nccgroup.com/2022/01/13/10-real-world-stories-of-how-weve-compromised-ci-cd-pipelines/)
+- Jan 17 - [Work Somewhere Dysfunctional](https://bellmar.medium.com/work-somewhere-dysfunctional-54fe5793b7a5)
+- Jan 17 - [I Have a Dream](https://www.americanrhetoric.com/speeches/mlkihaveadream.htm)
+- Jan 17 - [Your app is not compliant with Google Play Policies: A story from hell](https://sylviavanos.nl/blog/2021/12/24/google_play_hell.html)
+- Jan 17 - [Aduhelm and Medicare](https://www.science.org/content/blog-post/aduhelm-and-medicare)
+- Jan 17 - [The Most Popular Online Textbook Platform](https://libretexts.org/)
 <!--END_SECTION:hn-->
 
 <!--
