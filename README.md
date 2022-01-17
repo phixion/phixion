@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 16 - [US Fed – Employee Religious Exception Request Information System](https://www.federalregister.gov/documents/2022/01/11/2021-28135/privacy-act-of-1974-system-of-records)
-- Jan 16 - [My 486 Server](http://486servu.dy.fi/)
-- Jan 16 - [Mozilla's Firefox Relay to be added to disposable-email-domains blacklist](https://github.com/disposable-email-domains/disposable-email-domains/pull/298)
-- Jan 16 - [IETF should keep XMPP as IM standard, instead of Matrix](https://mailarchive.ietf.org/arch/msg/tools-discuss/Cj7n-7HwsN8xBzXCjD1pjD1j9Cg/)
-- Jan 16 - [A connectomic study of a petascale fragment of human cerebral cortex](https://vcg.seas.harvard.edu/publications/a-connectomic-study-of-a-petascale-fragment-of-human-cerebral-cortex)
+- Jan 16 - [Faker.js is now a community controlled project](https://fakerjs.dev/update.html)
+- Jan 16 - [Detic - Detecting Twenty-thousand Classes using Image-level Supervision](https://github.com/facebookresearch/Detic)
+- Jan 16 - [Show HN: Hatchet – Extracts unique unsubscribe links from mailing lists in Gmail](https://github.com/AnalogJ/hatchet)
+- Jan 16 - [Rat Tickling](https://www.nc3rs.org.uk/rat-tickling)
+- Jan 16 - [Altair BASIC 3.2 (4K) – Annotated Disassembly (2001)](http://altairbasic.org/)
 <!--END_SECTION:hn-->
 
 <!--
