@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 17 - [The Graphical User Interface History](https://kartsci.org/kocomu/computer-history/graphical-user-interface-history/)
-- Jan 17 - [Ask HN: New YouTube hover feature? Annoying as frig?](https://news.ycombinator.com/item?id=29962846)
-- Jan 17 - [A Fossilized Blood-Engorged Mosquito Is Found for the First Time Ever (2013)](https://www.smithsonianmag.com/science-nature/a-fossilized-blood-engorged-mosquito-is-found-for-the-first-time-ever-1749788/)
-- Jan 17 - [DOS on Dope](https://secretgeek.net/dod_intro)
-- Jan 17 - [The Color of Infinite Temperature](https://johncarlosbaez.wordpress.com/2022/01/16/the-color-of-infinite-temperature/)
+- Jan 17 - [Don't fully trust AI in dev work /yet](https://blog.akom.me/dont-fully-trust-ai-in-dev-work-yet)
+- Jan 17 - [AWS Lambda now supports IPv6 endpoints for inbound connections](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-lambda-ipv6-endpoints-inbound-connections/)
+- Jan 17 - [Some ways DNS can break](https://jvns.ca/blog/2022/01/15/some-ways-dns-can-break/)
+- Jan 17 - [Debut of X (1984)](https://www.talisman.org/x-debut.shtml)
+- Jan 17 - [How and why the Relational Model works for databases](https://blog.the-pans.com/relational/)
 <!--END_SECTION:hn-->
 
 <!--
