@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 17 - [Work Somewhere Dysfunctional](https://bellmar.medium.com/work-somewhere-dysfunctional-54fe5793b7a5)
-- Jan 17 - [I Have a Dream](https://www.americanrhetoric.com/speeches/mlkihaveadream.htm)
-- Jan 17 - [Your app is not compliant with Google Play Policies: A story from hell](https://sylviavanos.nl/blog/2021/12/24/google_play_hell.html)
-- Jan 17 - [Aduhelm and Medicare](https://www.science.org/content/blog-post/aduhelm-and-medicare)
-- Jan 17 - [The Most Popular Online Textbook Platform](https://libretexts.org/)
+- Jan 17 - [WLED Arduino WiFi LED Controller](https://github.com/Aircoookie/WLED)
+- Jan 17 - [uLisp on the Raspberry Pi Pico](http://www.ulisp.com/show?3KN3)
+- Jan 17 - [Show HN: MdSilo – A knowledge silo runs in your web browser](https://mdsilo.com/)
+- Jan 17 - [A quick history of digital communication before the internet (2017)](https://eager.io/blog/communication-pre-internet/)
+- Jan 17 - [A high-dimensional sphere spilling out of a high-dimensional cube](https://stanislavfort.github.io/blog/sphere-spilling-out/)
 <!--END_SECTION:hn-->
 
 <!--
