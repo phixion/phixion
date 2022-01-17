@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 16 - [Faker.js is now a community controlled project](https://fakerjs.dev/update.html)
-- Jan 16 - [Detic - Detecting Twenty-thousand Classes using Image-level Supervision](https://github.com/facebookresearch/Detic)
-- Jan 16 - [Show HN: Hatchet – Extracts unique unsubscribe links from mailing lists in Gmail](https://github.com/AnalogJ/hatchet)
-- Jan 16 - [Rat Tickling](https://www.nc3rs.org.uk/rat-tickling)
-- Jan 16 - [Altair BASIC 3.2 (4K) – Annotated Disassembly (2001)](http://altairbasic.org/)
+- Jan 17 - [The Graphical User Interface History](https://kartsci.org/kocomu/computer-history/graphical-user-interface-history/)
+- Jan 17 - [Ask HN: New YouTube hover feature? Annoying as frig?](https://news.ycombinator.com/item?id=29962846)
+- Jan 17 - [A Fossilized Blood-Engorged Mosquito Is Found for the First Time Ever (2013)](https://www.smithsonianmag.com/science-nature/a-fossilized-blood-engorged-mosquito-is-found-for-the-first-time-ever-1749788/)
+- Jan 17 - [DOS on Dope](https://secretgeek.net/dod_intro)
+- Jan 17 - [The Color of Infinite Temperature](https://johncarlosbaez.wordpress.com/2022/01/16/the-color-of-infinite-temperature/)
 <!--END_SECTION:hn-->
 
 <!--
