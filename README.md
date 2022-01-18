@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 18 - [Around 1860, Britain was gripped with a craze for “cartes de visite”](https://www.bbc.com/culture/article/20220114-the-surprising-ways-that-victorians-flirted)
-- Jan 18 - [How to build homes with virtually no heating (2020)](https://archipro.co.nz/articles/architecture/building-without-heating-how-to-build-warm-comfortable-homes-with-virtually-no-heating-archipro)
-- Jan 18 - [Kakoune Code Editor](https://kakoune.org/)
-- Jan 18 - [Generally Intelligent (YC S17) Is Hiring Systems Engineers (Remote, SF)](https://news.ycombinator.com/item?id=29974622)
-- Jan 18 - [U.S. FAA clears 45% of commercial plane fleet after 5G deployed](https://www.reuters.com/business/aerospace-defense/us-faa-oks-45-commercial-airplane-fleet-operations-after-5g-deployment-2022-01-16/)
+- Jan 18 - [Why It’s Great to Be a Consultant](https://zwischenzugs.com/2022/01/17/why-its-great-to-be-a-consultant/)
+- Jan 18 - [Mux (YC W16) is hiring across the board to build the future of video infra](https://mux.com/jobs?hnj=future)
+- Jan 18 - [The Silent, Vacinated, Impatient Majority](https://web.archive.org/web/20220118094431/https://www.theatlantic.com/international/archive/2022/01/politicians-against-unvaccinated-djokovic/621242/)
+- Jan 18 - [You cannot play Diablo 2 resurrected after 30 days of being offline](https://twitter.com/DoesItPlay1/status/1483126058325090304)
+- Jan 18 - [Where Aliens Could Be Watching Us](https://nautil.us/issue/111/spotlight/where-aliens-could-be-watching-us)
 <!--END_SECTION:hn-->
 
 <!--
