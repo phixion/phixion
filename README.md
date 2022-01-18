@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 18 - [Why It’s Great to Be a Consultant](https://zwischenzugs.com/2022/01/17/why-its-great-to-be-a-consultant/)
-- Jan 18 - [Mux (YC W16) is hiring across the board to build the future of video infra](https://mux.com/jobs?hnj=future)
-- Jan 18 - [The Silent, Vacinated, Impatient Majority](https://web.archive.org/web/20220118094431/https://www.theatlantic.com/international/archive/2022/01/politicians-against-unvaccinated-djokovic/621242/)
-- Jan 18 - [You cannot play Diablo 2 resurrected after 30 days of being offline](https://twitter.com/DoesItPlay1/status/1483126058325090304)
-- Jan 18 - [Where Aliens Could Be Watching Us](https://nautil.us/issue/111/spotlight/where-aliens-could-be-watching-us)
+- Jan 18 - [GPS](https://ciechanow.ski/gps/)
+- Jan 18 - [Eyeo wins copyright court decision, sets legal precedent for who ‘owns’ HTML](https://eyeo.com/eyeo-wins-copyright-court-case/)
+- Jan 18 - [The PinePhone Pro brings upgraded hardware to the Linux phone](https://arstechnica.com/gadgets/2022/01/the-pinephone-pro-brings-upgraded-hardware-to-the-linux-phone/)
+- Jan 18 - [A pure C Mjpeg-over-HTTP server](https://github.com/nola-a/mjpeg2http)
+- Jan 18 - [The Intel Split](https://stratechery.com/2022/the-intel-split/)
 <!--END_SECTION:hn-->
 
 <!--
