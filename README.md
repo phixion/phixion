@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 17 - [WLED Arduino WiFi LED Controller](https://github.com/Aircoookie/WLED)
-- Jan 17 - [uLisp on the Raspberry Pi Pico](http://www.ulisp.com/show?3KN3)
-- Jan 17 - [Show HN: MdSilo – A knowledge silo runs in your web browser](https://mdsilo.com/)
-- Jan 17 - [A quick history of digital communication before the internet (2017)](https://eager.io/blog/communication-pre-internet/)
-- Jan 17 - [A high-dimensional sphere spilling out of a high-dimensional cube](https://stanislavfort.github.io/blog/sphere-spilling-out/)
+- Jan 18 - [US claims jurisdiction over all .com/.net sites even if outside the US (2011)](https://web.archive.org/web/20111102045835/http://www.theinquirer.net/inquirer/news/2083906/claims-com-net-websites-jurisdiction)
+- Jan 17 - [Israel Finds Fourth Covid Booster Is Ineffective](https://healthpolicy-watch.news/israel-fourth-covid-booster-ineffective/)
+- Jan 17 - [In defense of flat earthers (2020)](http://danboykis.com/posts/flat-earth/)
+- Jan 17 - [Containerize Go and SQLite with Docker](https://awstip.com/containerize-go-sqlite-with-docker-6d7fbecd14f0)
+- Jan 17 - [Nerd-dictation, hackable speech to text on Linux](https://github.com/ideasman42/nerd-dictation)
 <!--END_SECTION:hn-->
 
 <!--
