@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 18 - [GPS](https://ciechanow.ski/gps/)
-- Jan 18 - [Eyeo wins copyright court decision, sets legal precedent for who ‘owns’ HTML](https://eyeo.com/eyeo-wins-copyright-court-case/)
-- Jan 18 - [The PinePhone Pro brings upgraded hardware to the Linux phone](https://arstechnica.com/gadgets/2022/01/the-pinephone-pro-brings-upgraded-hardware-to-the-linux-phone/)
-- Jan 18 - [A pure C Mjpeg-over-HTTP server](https://github.com/nola-a/mjpeg2http)
-- Jan 18 - [The Intel Split](https://stratechery.com/2022/the-intel-split/)
+- Jan 18 - [Now You Can Rent a Robot Worker–For Less Than Paying a Human](https://www.wired.com/story/rent-robot-worker-less-paying-human/)
+- Jan 18 - [GNU Emacs Telegram Client](https://github.com/zevlg/telega.el)
+- Jan 18 - [Locked out of 'God Mode', Runners are hacking their treadmills](https://www.wired.com/story/nordictrack-ifit-treadmill-privilege-mode/)
+- Jan 18 - [The Autism Phenome Project: Toward Identifying Meaningful Subgroups of Autism](https://www.frontiersin.org/articles/10.3389/fnins.2021.786220/full)
+- Jan 18 - [Ask HN: Why the $200 Overhead on Dell XPS Laptops with Linux?](https://news.ycombinator.com/item?id=29983812)
 <!--END_SECTION:hn-->
 
 <!--
