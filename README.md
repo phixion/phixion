@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 19 - [How to Prevent the Next Heartbleed](https://dwheeler.com/essays/heartbleed.html)
-- Jan 19 - [An open letter on E.O. Wilson's legacy](https://razib.substack.com/p/setting-the-record-straight-open)
-- Jan 19 - [Arm Predicts Stagnation If Nvidia Deal Fails](https://www.eetimes.com/arm-predicts-stagnation-if-nvidia-deal-fails/)
-- Jan 19 - [Add 10 GbE to your system with an M.2 2280 module](https://www.cnx-software.com/2022/01/19/10-gbe-m-2-module-innodisk-egpl-t101/)
-- Jan 19 - [Opensubtitles.org breached – Email addresses, IP addresses, Passwords, Usernames](https://forum.opensubtitles.org/viewtopic.php?t=17685)
+- Jan 19 - [Underground Cellar (YC W15) Is Hiring a Senior Product Manager](https://jobs.lever.co/undergroundcellar/24adbf67-5ea8-4bff-9a50-8f7714985f4b)
+- Jan 19 - [Craig Wright suing developers to forcibly give him access to internet coins](https://www.theregister.com/2022/01/19/craig_wright_bitcoin_sv_high_court_sueball/)
+- Jan 19 - [Show HN: A simple tool to help filter recruiter spam](https://filteredreduced.dev/)
+- Jan 19 - [Mid air collision of two aircrafts taking off simultaneously averted in India](https://www.thehindu.com/news/national/mid-air-collision-between-two-aircraft-averted-at-kempegowda-international-airport-on-january-7/article38290778.ece)
+- Jan 19 - [Discovering a security vulnerability in a major grocery delivery platform](https://zerforschung.org/posts/gorillas-en/)
 <!--END_SECTION:hn-->
 
 <!--
