@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 19 - [Google Kills YouTube Originals](https://arstechnica.com/gadgets/2022/01/google-kills-youtube-originals-its-original-video-content-group/)
-- Jan 19 - [Nine-year-old kids are launching DDoS attacks against schools](https://www.bitdefender.com/blog/hotforsecurity/nine-year-old-kids-are-launching-ddos-attacks-against-schools/)
-- Jan 19 - [I automated my job over a year ago and haven't told anyone](https://old.reddit.com/r/antiwork/comments/s2igq9/i_automated_my_job_over_a_year_ago_and_havent/)
-- Jan 19 - [Meta 'most reluctant' to work with government: Home Affairs](https://www.innovationaus.com/meta-most-reluctant-to-work-with-government-home-affairs/)
-- Jan 19 - [Launch HN: Joon (YC W22) – A mobile game that teaches kids to build good habits](https://www.joonapp.io/)
+- Jan 19 - [Is Old Music Killing New Music?](https://tedgioia.substack.com/p/is-old-music-killing-new-music)
+- Jan 19 - [No-code workflows for vector search](https://neuml.github.io/txtai/workflow/)
+- Jan 19 - [Hotcaml: An OCaml interpreter with watching and reloading](https://github.com/let-def/hotcaml)
+- Jan 19 - [Dendron: A personal knowledge management (PKM) solution built on VS Code](https://www.dendron.so//)
+- Jan 19 - [A Simple Math Equation Can Transform Your Productivity](https://nextbigideaclub.com/magazine/simple-math-equation-can-transform-productivity/31950/)
 <!--END_SECTION:hn-->
 
 <!--
