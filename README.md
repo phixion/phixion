@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 19 - [Underground Cellar (YC W15) Is Hiring a Senior Product Manager](https://jobs.lever.co/undergroundcellar/24adbf67-5ea8-4bff-9a50-8f7714985f4b)
-- Jan 19 - [Craig Wright suing developers to forcibly give him access to internet coins](https://www.theregister.com/2022/01/19/craig_wright_bitcoin_sv_high_court_sueball/)
-- Jan 19 - [Show HN: A simple tool to help filter recruiter spam](https://filteredreduced.dev/)
-- Jan 19 - [Mid air collision of two aircrafts taking off simultaneously averted in India](https://www.thehindu.com/news/national/mid-air-collision-between-two-aircraft-averted-at-kempegowda-international-airport-on-january-7/article38290778.ece)
-- Jan 19 - [Discovering a security vulnerability in a major grocery delivery platform](https://zerforschung.org/posts/gorillas-en/)
+- Jan 19 - [Google Kills YouTube Originals](https://arstechnica.com/gadgets/2022/01/google-kills-youtube-originals-its-original-video-content-group/)
+- Jan 19 - [Nine-year-old kids are launching DDoS attacks against schools](https://www.bitdefender.com/blog/hotforsecurity/nine-year-old-kids-are-launching-ddos-attacks-against-schools/)
+- Jan 19 - [I automated my job over a year ago and haven't told anyone](https://old.reddit.com/r/antiwork/comments/s2igq9/i_automated_my_job_over_a_year_ago_and_havent/)
+- Jan 19 - [Meta 'most reluctant' to work with government: Home Affairs](https://www.innovationaus.com/meta-most-reluctant-to-work-with-government-home-affairs/)
+- Jan 19 - [Launch HN: Joon (YC W22) – A mobile game that teaches kids to build good habits](https://www.joonapp.io/)
 <!--END_SECTION:hn-->
 
 <!--
