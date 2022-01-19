@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 18 - [Now You Can Rent a Robot Worker–For Less Than Paying a Human](https://www.wired.com/story/rent-robot-worker-less-paying-human/)
-- Jan 18 - [GNU Emacs Telegram Client](https://github.com/zevlg/telega.el)
-- Jan 18 - [Locked out of 'God Mode', Runners are hacking their treadmills](https://www.wired.com/story/nordictrack-ifit-treadmill-privilege-mode/)
-- Jan 18 - [The Autism Phenome Project: Toward Identifying Meaningful Subgroups of Autism](https://www.frontiersin.org/articles/10.3389/fnins.2021.786220/full)
-- Jan 18 - [Ask HN: Why the $200 Overhead on Dell XPS Laptops with Linux?](https://news.ycombinator.com/item?id=29983812)
+- Jan 18 - [Direct conversion of CO2 to solid carbon by Gallium-based liquid metals](https://pubs.rsc.org/en/content/articlelanding/2022/ee/d1ee03283f)
+- Jan 18 - [Port of Jak and Daxter. 99% written in GOAL, custom Lisp language by Naughty Dog](https://github.com/water111/jak-project)
+- Jan 18 - [Myths about Social Media](https://twitter.com/M_B_Petersen/status/1483457679800651787)
+- Jan 18 - [Wine 7.0](https://www.winehq.org/announce/7.0)
+- Jan 18 - [Show HN: SlateJS(rich text editor) Svelte view layer](https://nathanfaucett.github.io/svelte-slate/)
 <!--END_SECTION:hn-->
 
 <!--
