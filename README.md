@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Jan 19 - [Upstox - 111,002 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Upstox)
 - Jan 15 - [Aditya Birla Fashion and Retail - 5,470,063 breached accounts](https://haveibeenpwned.com/PwnedWebsites#ABFRL)
 - Jan 06 - [FlexBooker - 3,756,794 breached accounts](https://haveibeenpwned.com/PwnedWebsites#FlexBooker)
 - Jan 04 - [DatPiff - 7,476,940 breached accounts](https://haveibeenpwned.com/PwnedWebsites#DatPiff)
 - Dec 30 - [RedLine Stealer - 441,657 breached accounts](https://haveibeenpwned.com/PwnedWebsites#RedLineStealer)
-- Dec 20 - [Protemps - 49,591 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Protemps)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 18 - [Direct conversion of CO2 to solid carbon by Gallium-based liquid metals](https://pubs.rsc.org/en/content/articlelanding/2022/ee/d1ee03283f)
-- Jan 18 - [Port of Jak and Daxter. 99% written in GOAL, custom Lisp language by Naughty Dog](https://github.com/water111/jak-project)
-- Jan 18 - [Myths about Social Media](https://twitter.com/M_B_Petersen/status/1483457679800651787)
-- Jan 18 - [Wine 7.0](https://www.winehq.org/announce/7.0)
-- Jan 18 - [Show HN: SlateJS(rich text editor) Svelte view layer](https://nathanfaucett.github.io/svelte-slate/)
+- Jan 19 - [How to put bad habits to good use](https://www.theguardian.com/lifeandstyle/2022/jan/01/be-bad-better-from-anger-to-laziness-how-to-put-your-worst-habits-to-good-use)
+- Jan 19 - [The Native American population more than doubled since 2000](https://usafacts.org/articles/how-the-native-american-population-changed-since-the-last-census/)
+- Jan 19 - [BCHS: OpenBSD, C, httpd and SQLite web stack](https://learnbchs.org/index.html)
+- Jan 19 - [Dinosaur food: 100M year old foods we still eat today](https://borischerny.com/food/2022/01/17/Dinosaur-food.html)
+- Jan 19 - [In place of a legal notice, here is a blessing](https://github.com/sqlite/sqlite/blob/master/src/main.c)
 <!--END_SECTION:hn-->
 
 <!--
