@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 19 - [Is Old Music Killing New Music?](https://tedgioia.substack.com/p/is-old-music-killing-new-music)
-- Jan 19 - [No-code workflows for vector search](https://neuml.github.io/txtai/workflow/)
-- Jan 19 - [Hotcaml: An OCaml interpreter with watching and reloading](https://github.com/let-def/hotcaml)
-- Jan 19 - [Dendron: A personal knowledge management (PKM) solution built on VS Code](https://www.dendron.so//)
-- Jan 19 - [A Simple Math Equation Can Transform Your Productivity](https://nextbigideaclub.com/magazine/simple-math-equation-can-transform-productivity/31950/)
+- Jan 20 - [Google is wrong. Apple’s iMessage is a failure](https://www.macworld.com/article/606152/imessage-google-green-bubbles-sms-rcs.html)
+- Jan 20 - [Before wave of train thefts, Union Pacific laid off some of its police force](https://www.lataco.com/union-pacific-theft-police-laid-off/)
+- Jan 19 - [What it means to teach gifted learners well](http://www.nagc.org/resources-publications/gifted-education-practices/what-it-means-teach-gifted-learners-well)
+- Jan 19 - [Postgres Indexes for Newbies](https://blog.crunchydata.com/blog/postgres-indexes-for-newbies)
+- Jan 19 - [AI could end foreign-language subtitles](https://www.axios.com/artificial-intelligence-voice-dubbing-synthetic-14bfb3c6-99db-4406-920d-91b37d00a99a.html)
 <!--END_SECTION:hn-->
 
 <!--
