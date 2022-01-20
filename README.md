@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 20 - [Google is wrong. Apple’s iMessage is a failure](https://www.macworld.com/article/606152/imessage-google-green-bubbles-sms-rcs.html)
-- Jan 20 - [Before wave of train thefts, Union Pacific laid off some of its police force](https://www.lataco.com/union-pacific-theft-police-laid-off/)
-- Jan 19 - [What it means to teach gifted learners well](http://www.nagc.org/resources-publications/gifted-education-practices/what-it-means-teach-gifted-learners-well)
-- Jan 19 - [Postgres Indexes for Newbies](https://blog.crunchydata.com/blog/postgres-indexes-for-newbies)
-- Jan 19 - [AI could end foreign-language subtitles](https://www.axios.com/artificial-intelligence-voice-dubbing-synthetic-14bfb3c6-99db-4406-920d-91b37d00a99a.html)
+- Jan 20 - [“The Eyes Have It” by Phillip K. Dick](https://www.gutenberg.org/files/31516/31516-h/31516-h.htm)
+- Jan 20 - [Putin’s Challenge to Western Hegemony](https://adamtooze.com/2022/01/12/chartbook-68-putins-challenge-to-western-hegemony-the-2022-edition/)
+- Jan 20 - [Can the cheapest long term data storage be gold?](https://www.totenpass.com/)
+- Jan 20 - [Dominant languages can spread even without coercion](https://www.economist.com/books-and-arts/2022/01/15/dominant-languages-can-spread-even-without-coercion)
+- Jan 20 - [Dietary self-monitoring (Calorie Counting) doesn't increase eating disorder risk](https://pubmed.ncbi.nlm.nih.gov/34427188/)
 <!--END_SECTION:hn-->
 
 <!--
