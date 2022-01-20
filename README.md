@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 20 - [“The Eyes Have It” by Phillip K. Dick](https://www.gutenberg.org/files/31516/31516-h/31516-h.htm)
-- Jan 20 - [Putin’s Challenge to Western Hegemony](https://adamtooze.com/2022/01/12/chartbook-68-putins-challenge-to-western-hegemony-the-2022-edition/)
-- Jan 20 - [Can the cheapest long term data storage be gold?](https://www.totenpass.com/)
-- Jan 20 - [Dominant languages can spread even without coercion](https://www.economist.com/books-and-arts/2022/01/15/dominant-languages-can-spread-even-without-coercion)
-- Jan 20 - [Dietary self-monitoring (Calorie Counting) doesn't increase eating disorder risk](https://pubmed.ncbi.nlm.nih.gov/34427188/)
+- Jan 20 - [Computer Scientists Eliminate Pesky Quantum Computations](https://www.quantamagazine.org/computer-scientists-eliminate-pesky-quantum-computations-20220119/)
+- Jan 20 - [Make Front End Shit Again](https://makefrontendshitagain.party/)
+- Jan 20 - [Tackling the crisis of care for older people: lessons from India and Japan](https://www.nature.com/articles/d41586-022-00074-x)
+- Jan 20 - [Daily Step Count and All-Cause Mortality: A Dose-Response Meta-analysis](https://pubmed.ncbi.nlm.nih.gov/34417979/)
+- Jan 20 - [Invisible Hierarchies](https://www.drorpoleg.com/invisible-hierarchies/)
 <!--END_SECTION:hn-->
 
 <!--
