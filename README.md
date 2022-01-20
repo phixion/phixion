@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 20 - [Computer Scientists Eliminate Pesky Quantum Computations](https://www.quantamagazine.org/computer-scientists-eliminate-pesky-quantum-computations-20220119/)
-- Jan 20 - [Make Front End Shit Again](https://makefrontendshitagain.party/)
-- Jan 20 - [Tackling the crisis of care for older people: lessons from India and Japan](https://www.nature.com/articles/d41586-022-00074-x)
-- Jan 20 - [Daily Step Count and All-Cause Mortality: A Dose-Response Meta-analysis](https://pubmed.ncbi.nlm.nih.gov/34417979/)
-- Jan 20 - [Invisible Hierarchies](https://www.drorpoleg.com/invisible-hierarchies/)
+- Jan 20 - [Ask HN: What is your home networking setup?](https://news.ycombinator.com/item?id=30007856)
+- Jan 20 - [Streak (YC W22) is hiring front end engineering roles](https://www.streak.com/careers/product-engineer)
+- Jan 20 - [Morello research program hits milestone with hardware now available for testing](https://www.arm.com/company/news/2022/01/morello-research-program-hits-major-milestone-with-hardware-now-available-for-testing)
+- Jan 20 - [Amazon’s DynamoDB – 10 years later](https://www.amazon.science/latest-news/amazons-dynamodb-10-years-later)
+- Jan 20 - [More people died of superbacteria in 2019 than HIV or malaria, study suggests](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02724-0/fulltext)
 <!--END_SECTION:hn-->
 
 <!--
