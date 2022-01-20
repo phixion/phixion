@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 20 - [Ask HN: What is your home networking setup?](https://news.ycombinator.com/item?id=30007856)
-- Jan 20 - [Streak (YC W22) is hiring front end engineering roles](https://www.streak.com/careers/product-engineer)
-- Jan 20 - [Morello research program hits milestone with hardware now available for testing](https://www.arm.com/company/news/2022/01/morello-research-program-hits-major-milestone-with-hardware-now-available-for-testing)
-- Jan 20 - [Amazon’s DynamoDB – 10 years later](https://www.amazon.science/latest-news/amazons-dynamodb-10-years-later)
-- Jan 20 - [More people died of superbacteria in 2019 than HIV or malaria, study suggests](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02724-0/fulltext)
+- Jan 20 - [No Amount of Alcohol Is Good for the Heart, Says World Heart Federation](https://world-heart-federation.org/news/no-amount-of-alcohol-is-good-for-the-heart-says-world-heart-federation/)
+- Jan 20 - [NBA Metaverse Partner Terminates Relationship, Threatens Reporters Covering Deal](https://defector.com/metaverse-company-blames-unlikely-third-party-for-recent-misfortunes-following-termination-of-76ers-partnership/)
+- Jan 20 - [Crypto.com accounts had unauthorized withdrawals](https://crypto.com/product-news/crypto-com-security-report-next-steps)
+- Jan 20 - [Pine64 should re-evaluate their community priorities](https://drewdevault.com/2022/01/18/Pine64s-weird-priorities.html)
+- Jan 20 - [Profound CTO Learnings of 2021](https://theventury.com/blog/leadership-learnings-of-2021/)
 <!--END_SECTION:hn-->
 
 <!--
