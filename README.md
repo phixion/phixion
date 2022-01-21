@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 21 - [Starlink satellites hindering detection of near-Earth asteroids, study finds](https://web.archive.org/web/20220120172234/https://www.dailystar.co.uk/news/latest-news/elon-musks-starlink-satellites-hindering-26001740)
-- Jan 21 - [Muse (YC S21) Is Hiring a Head of Web Graphics](https://jobs.ashbyhq.com/muse/1e73e735-3c63-4131-a04d-ff3c73f3567e?utm_source=w05n35VEGp)
-- Jan 21 - [Notepad++ v8.2 Released](https://community.notepad-plus-plus.org/topic/22330/notepad-v8-2-release)
-- Jan 21 - [Yemen has lost internet after Saudi-led airstrikes](https://www.npr.org/2022/01/21/1074659054/yemen-has-lost-internet-after-saudi-led-airstrikes)
-- Jan 21 - [I Cannot Begin to Tell You How Proficient I Am in Microsoft Word](https://www.newyorker.com/humor/daily-shouts/i-cannot-begin-to-tell-you-how-proficient-i-am-in-microsoft-word)
+- Jan 21 - [Rnote – A simple note taking application written in Rust and GTK4](https://github.com/flxzt/rnote)
+- Jan 21 - [Roosevelt Statue Removed from Natural-History Museum for Glorifying Colonialism](https://www.wsj.com/articles/theodore-roosevelt-statue-is-removed-from-new-yorks-natural-history-museum-11642699379)
+- Jan 21 - [Google Creates Blockchain Unit, Hires New ‘Founding Leader’](https://blockworks.co/google-creates-blockchain-unit-hires-new-founding-leader/)
+- Jan 21 - [LambdaMART in Depth](https://softwaredoug.com/blog/2022/01/17/lambdamart-in-depth.html)
+- Jan 21 - [A $3bn bet on finding the fountain of youth](https://www.economist.com/science-and-technology/a-3bn-bet-on-finding-the-fountain-of-youth/21807244)
 <!--END_SECTION:hn-->
 
 <!--
