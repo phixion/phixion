@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 20 - [Apple Music is second worldwide with 15% market share with Spotify first at 31%](https://www.midiaresearch.com/blog/music-subscriber-market-shares-q2-2021)
-- Jan 20 - [G Suite legacy free edition is finally over](https://support.google.com/a/answer/60217?hl=en)
-- Jan 20 - [The Most Backdoor-Looking Bug I’ve Ever Seen](https://words.filippo.io/dispatches/telegram-ecdh/)
-- Jan 20 - [Is screen scraping illegal? AmericanAirlines suing TPG (The Points Guy) over app](https://viewfromthewing.com/american-airlines-and-the-points-guy-are-suing-each-other/)
-- Jan 20 - [Tiny Alabama Town of 1,200 Has Been Overrun by Out Out of Control Police](https://jalopnik.com/this-tiny-alabama-town-of-1-200-has-been-overrun-by-pol-1848389331)
+- Jan 21 - [Sir David Cox, 1924-2022](https://rss.org.uk/news-publication/news-publications/2022/general-news/sir-david-cox-1924-2022/)
+- Jan 20 - [Make Your Python CLI Tools Pop with Rich](https://hackaday.com/2022/01/19/make-your-python-cli-tools-pop-with-rich/)
+- Jan 20 - [70% of startups offer remote work options as hiring heats up, YC data shows](https://news.crunchbase.com/news/remote-work-y-combinator/)
+- Jan 20 - [UK is spending £500k on a PR campaign demonising end-to-end encryption](https://www.theregister.com/2022/01/20/no_place_hide_campaign_anti_e2ee_ukgov/)
+- Jan 20 - [FlyZolo – Youngest Woman Solo](https://flyzolo.com/)
 <!--END_SECTION:hn-->
 
 <!--
