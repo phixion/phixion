@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 21 - [Sir David Cox, 1924-2022](https://rss.org.uk/news-publication/news-publications/2022/general-news/sir-david-cox-1924-2022/)
-- Jan 20 - [Make Your Python CLI Tools Pop with Rich](https://hackaday.com/2022/01/19/make-your-python-cli-tools-pop-with-rich/)
-- Jan 20 - [70% of startups offer remote work options as hiring heats up, YC data shows](https://news.crunchbase.com/news/remote-work-y-combinator/)
-- Jan 20 - [UK is spending £500k on a PR campaign demonising end-to-end encryption](https://www.theregister.com/2022/01/20/no_place_hide_campaign_anti_e2ee_ukgov/)
-- Jan 20 - [FlyZolo – Youngest Woman Solo](https://flyzolo.com/)
+- Jan 21 - [The Windows 11 taskbar is an annoying step backward](https://www.pcworld.com/article/549576/the-windows-11-taskbar-is-an-annoying-step-backward.html)
+- Jan 21 - [Jack Dorsey and Marc Andreessen's Crypto Feud Puts Web3 at Risk](https://www.nytimes.com/2022/01/18/business/dealbook/web3-venture-capital-andreessen.html)
+- Jan 21 - [Fly.io – Free Postgres Databases (and free storage volumes, up to 3GB total)](https://fly.io/blog/free-postgres/)
+- Jan 21 - [Common Lisp ASDF maintainer considers resignation](https://mailman.common-lisp.net/pipermail/asdf-devel/2022-January/006680.html)
+- Jan 21 - [Great Question (YC W21) Is Hiring BDR #1](https://careers.greatquestion.co/business-development-representative/en?)
 <!--END_SECTION:hn-->
 
 <!--
