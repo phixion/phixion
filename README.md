@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 21 - [The Windows 11 taskbar is an annoying step backward](https://www.pcworld.com/article/549576/the-windows-11-taskbar-is-an-annoying-step-backward.html)
-- Jan 21 - [Jack Dorsey and Marc Andreessen's Crypto Feud Puts Web3 at Risk](https://www.nytimes.com/2022/01/18/business/dealbook/web3-venture-capital-andreessen.html)
-- Jan 21 - [Fly.io – Free Postgres Databases (and free storage volumes, up to 3GB total)](https://fly.io/blog/free-postgres/)
-- Jan 21 - [Common Lisp ASDF maintainer considers resignation](https://mailman.common-lisp.net/pipermail/asdf-devel/2022-January/006680.html)
-- Jan 21 - [Great Question (YC W21) Is Hiring BDR #1](https://careers.greatquestion.co/business-development-representative/en?)
+- Jan 21 - [Ello (YC W20) Is Hiring a Lead Unity Engineer](https://www.ycombinator.com/companies/ello/jobs/26qbW2p-lead-unity-engineer)
+- Jan 21 - [WebAssembly: The New Kubernetes?](https://wingolog.org/archives/2021/12/13/webassembly-the-new-kubernetes)
+- Jan 21 - [Cannabis use produces persistent cognitive impairments](https://www.addictionjournal.org/posts/cannabis-use-produces-persistent-cognitive-impairments)
+- Jan 21 - [Crystal Installs OpenBSD on the PinePhone](https://www.exoticsilicon.com/crystal/pinephone_openbsd)
+- Jan 21 - [Focalboard open source, self-hosted alternative to Trello, Notion, and Asana](https://github.com/mattermost/focalboard)
 <!--END_SECTION:hn-->
 
 <!--
