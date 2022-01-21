@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 21 - [Rnote – A simple note taking application written in Rust and GTK4](https://github.com/flxzt/rnote)
-- Jan 21 - [Roosevelt Statue Removed from Natural-History Museum for Glorifying Colonialism](https://www.wsj.com/articles/theodore-roosevelt-statue-is-removed-from-new-yorks-natural-history-museum-11642699379)
-- Jan 21 - [Google Creates Blockchain Unit, Hires New ‘Founding Leader’](https://blockworks.co/google-creates-blockchain-unit-hires-new-founding-leader/)
-- Jan 21 - [LambdaMART in Depth](https://softwaredoug.com/blog/2022/01/17/lambdamart-in-depth.html)
-- Jan 21 - [A $3bn bet on finding the fountain of youth](https://www.economist.com/science-and-technology/a-3bn-bet-on-finding-the-fountain-of-youth/21807244)
+- Jan 21 - [Ask HN: Anyone making a living building desktop applications?](https://news.ycombinator.com/item?id=30027925)
+- Jan 21 - [DIY Raspberry Pi Spectrometer Guide](https://github.com/leswright1977/PySpectrometer)
+- Jan 21 - [Alphabet's Calico has begun trials on a molecule for neurovegetative diseases](https://aspenbraininstitute.org/blog-posts/the-miracle-molecule-that-could-treat-brain-injuries-and-boost-your-fading-memory)
+- Jan 21 - [How to make it easier to build semiconductor factories](https://semiliterate.substack.com/p/no-permits-no-fabs)
+- Jan 21 - [Hubble captures a black hole that is forming stars, not absorbing them](https://petapixel.com/2022/01/19/hubble-captures-a-black-hole-that-is-forming-stars-not-absorbing-them/)
 <!--END_SECTION:hn-->
 
 <!--
