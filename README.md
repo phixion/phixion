@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 21 - [Off the Grid – Hundred Rabbits](http://100r.co/site/off_the_grid.html)
-- Jan 21 - [My self-hosting infrastructure, fully automated](https://github.com/khuedoan/homelab)
-- Jan 21 - [How bad is QWERTY, really? A review of the literature, such as it is](https://www.erichgrunewald.com/posts/how-bad-is-qwerty-really-a-review-of-the-literature-such-as-it-is/)
-- Jan 21 - [Google could face class action lawsuit over free G Suite legacy account shutdown](https://www.androidpolice.com/google-gsuite-free-legacy-class-action-investigation/)
-- Jan 21 - [Thich Nhat Hanh has died](https://tricycle.org/trikedaily/thich-nhat-hanh-dies/)
+- Jan 22 - [‘Farms Are Failing’ as Fertilizer Prices Drive Up Cost of Food](https://www.wsj.com/articles/farms-are-failing-as-fertilizer-prices-drive-up-cost-of-food-11642770182)
+- Jan 22 - [Everyone Is Bummed Out over Pixar’s Third Straight-to-Streaming Film](https://www.hollywoodreporter.com/movies/movie-features/pixar-animation-studio-turning-red-streaming-1235076701/)
+- Jan 22 - [On Leaving Facebook](https://frantic.im/leaving-facebook/)
+- Jan 22 - [Is programmable overhead worth the cost?](https://semiengineering.com/is-programmable-overhead-worth-the-cost/)
+- Jan 22 - [Ask HN: What's Up with Google?](https://news.ycombinator.com/item?id=30031672)
 <!--END_SECTION:hn-->
 
 <!--
