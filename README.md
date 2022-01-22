@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 21 - [Ask HN: Anyone making a living building desktop applications?](https://news.ycombinator.com/item?id=30027925)
-- Jan 21 - [DIY Raspberry Pi Spectrometer Guide](https://github.com/leswright1977/PySpectrometer)
-- Jan 21 - [Alphabet's Calico has begun trials on a molecule for neurovegetative diseases](https://aspenbraininstitute.org/blog-posts/the-miracle-molecule-that-could-treat-brain-injuries-and-boost-your-fading-memory)
-- Jan 21 - [How to make it easier to build semiconductor factories](https://semiliterate.substack.com/p/no-permits-no-fabs)
-- Jan 21 - [Hubble captures a black hole that is forming stars, not absorbing them](https://petapixel.com/2022/01/19/hubble-captures-a-black-hole-that-is-forming-stars-not-absorbing-them/)
+- Jan 21 - [Off the Grid – Hundred Rabbits](http://100r.co/site/off_the_grid.html)
+- Jan 21 - [My self-hosting infrastructure, fully automated](https://github.com/khuedoan/homelab)
+- Jan 21 - [How bad is QWERTY, really? A review of the literature, such as it is](https://www.erichgrunewald.com/posts/how-bad-is-qwerty-really-a-review-of-the-literature-such-as-it-is/)
+- Jan 21 - [Google could face class action lawsuit over free G Suite legacy account shutdown](https://www.androidpolice.com/google-gsuite-free-legacy-class-action-investigation/)
+- Jan 21 - [Thich Nhat Hanh has died](https://tricycle.org/trikedaily/thich-nhat-hanh-dies/)
 <!--END_SECTION:hn-->
 
 <!--
