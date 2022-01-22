@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 22 - [Procoto (YC W21) Is Hiring Front End Engineers](https://www.ycombinator.com/companies/procoto/jobs/SGo548h-front-end-engineer)
-- Jan 22 - [Keeping POWER relevant in the open source world](https://peter.czanik.hu/posts/saving-power/)
-- Jan 22 - [You're not dumb, the prerequisites are bullshit](https://markozivanovic.com/youre-not-dumb-the-prerequisites-are-bullshit/)
-- Jan 22 - [LineageOS](https://lineageos.org/)
-- Jan 22 - [Lego Spectrometer (2017)](https://publiclab.org/notes/warren/12-13-2017/assembling-the-public-lab-lego-spectrometer)
+- Jan 22 - [Kedro – Creating reproducible, maintainable and modular data science code](https://github.com/kedro-org/kedro)
+- Jan 22 - [Popular image viewer ImageGlass quietly added malware with this commit](https://github.com/d2phap/ImageGlass/commit/97c716cf1ad23535b7b6840ba189270e440e742e)
+- Jan 22 - [Kobo unveils Sideload Mode to their e-readers](https://goodereader.com/blog/electronic-readers/kobo-unveils-sideload-mode-to-their-e-readers)
+- Jan 22 - [Linux on a 486SX](https://ocawesome101.github.io/486-linux.html)
+- Jan 22 - [Why Ireland's housing bubble burst](https://www.worksinprogress.co/issue/why-irelands-housing-bubble-burst/)
 <!--END_SECTION:hn-->
 
 <!--
