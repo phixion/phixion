@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 22 - [Strange DNA Structures Linked to Cancer](https://www.the-scientist.com/news-opinion/strange-dna-structures-linked-to-cancer-69624)
-- Jan 22 - [Industrial ammonia prod’n emits more CO2 than anyother chemical-making reaction](https://cen.acs.org/environment/green-chemistry/Industrial-ammonia-production-emits-CO2/97/i24)
-- Jan 22 - [The case for a modern language (part 1)](https://jeang3nie.codeberg.page/case-for-modern-language-pt1/)
-- Jan 22 - [New genetic study confirms that alcohol is a direct cause of cancer](https://www.ndph.ox.ac.uk/news/new-genetic-study-confirms-that-alcohol-is-a-direct-cause-of-cancer)
-- Jan 22 - [Practical Pigment Mixing for Digital Painting](https://scrtwpns.com/mixbox/)
+- Jan 22 - [Procoto (YC W21) Is Hiring Front End Engineers](https://www.ycombinator.com/companies/procoto/jobs/SGo548h-front-end-engineer)
+- Jan 22 - [Keeping POWER relevant in the open source world](https://peter.czanik.hu/posts/saving-power/)
+- Jan 22 - [You're not dumb, the prerequisites are bullshit](https://markozivanovic.com/youre-not-dumb-the-prerequisites-are-bullshit/)
+- Jan 22 - [LineageOS](https://lineageos.org/)
+- Jan 22 - [Lego Spectrometer (2017)](https://publiclab.org/notes/warren/12-13-2017/assembling-the-public-lab-lego-spectrometer)
 <!--END_SECTION:hn-->
 
 <!--
