@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 22 - [Kedro – Creating reproducible, maintainable and modular data science code](https://github.com/kedro-org/kedro)
-- Jan 22 - [Popular image viewer ImageGlass quietly added malware with this commit](https://github.com/d2phap/ImageGlass/commit/97c716cf1ad23535b7b6840ba189270e440e742e)
-- Jan 22 - [Kobo unveils Sideload Mode to their e-readers](https://goodereader.com/blog/electronic-readers/kobo-unveils-sideload-mode-to-their-e-readers)
-- Jan 22 - [Linux on a 486SX](https://ocawesome101.github.io/486-linux.html)
-- Jan 22 - [Why Ireland's housing bubble burst](https://www.worksinprogress.co/issue/why-irelands-housing-bubble-burst/)
+- Jan 22 - [Shell’s Carbon Capture Plant Is Emitting More Than It’s Capturing](https://www.vice.com/en/article/7kb43x/shell-quest-carbon-capture-plant-alberta)
+- Jan 22 - [Bitcoin pyramid schemes wreak havoc on Brazil's 'New Egypt'](https://apnews.com/article/cryptocurrency-technology-business-brazil-bitcoin-2dc801e5e3aa477ce7983d84dc8a64bb)
+- Jan 22 - [Show HN: Hacker XP – Hacker News styled as a Windows XP Outlook email client](https://hackerxp.com/)
+- Jan 22 - [More on housing (price) inflation (2021)](https://recoveringtradfichad.substack.com/p/more-on-that-lack-of-housing-inflation)
+- Jan 22 - [Amazon activist’s firing deemed illegal by labor board officials](https://www.bloomberg.com/news/articles/2022-01-21/amazon-activist-s-firing-deemed-illegal-by-labor-board-officials)
 <!--END_SECTION:hn-->
 
 <!--
