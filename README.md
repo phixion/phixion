@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 22 - [Bell Labs Org Chart](https://neil.computer/notes/bell-labs-org-chart/)
-- Jan 22 - [Over 90 WordPress themes, plugins backdoored in supply chain attack](https://www.bleepingcomputer.com/news/security/over-90-wordpress-themes-plugins-backdoored-in-supply-chain-attack/)
-- Jan 22 - [Why skyscrapers are so short](https://www.worksinprogress.co/issue/why-skyscrapers-are-so-short/)
-- Jan 22 - [Diamond hauled from deep inside Earth holds never-before-seen mineral](https://www.livescience.com/new-mantle-mineral-found-in-diamond)
-- Jan 22 - [Show HN: Perspec – Scriptable desktop app to correct the perspective of images](https://github.com/feramhq/Perspec)
+- Jan 23 - [Yuzu-emu/yuzu: Nintendo Switch Emulator](https://github.com/yuzu-emu/yuzu)
+- Jan 23 - [The FSF’s relationship with firmware is harmful to free software users](https://ariadne.space/2022/01/22/the-fsfs-relationship-with-firmware-is-harmful-to-free-software-users/)
+- Jan 22 - [Bell Labs Org Chart (1980)](https://neil.computer/notes/bell-labs-org-chart/)
+- Jan 22 - [WordPress themes, plugins backdoored in supply chain attack](https://www.bleepingcomputer.com/news/security/over-90-wordpress-themes-plugins-backdoored-in-supply-chain-attack/)
+- Jan 22 - [Golang’s most important feature is invisible](https://blog.devgenius.io/golangs-most-important-feature-is-invisible-6be9c1e7249b?gi=21e47786496b)
 <!--END_SECTION:hn-->
 
 <!--
