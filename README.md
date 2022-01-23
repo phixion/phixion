@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 23 - [Replit (YC W18) is hiring engineers to make delightful programming environments](https://replit.com/careers)
-- Jan 23 - [Optimal coverage for Wordle with Monte Carlo methods – Part III](https://bytepawn.com/optimal-coverage-for-wordle-with-monte-carlo-methods-part-iii.html)
-- Jan 23 - [The implementation of the UK Covid-19 dashboard](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/uk-covid-19-dashboard-built-using-postgres-and-citus-for/ba-p/3036276)
-- Jan 23 - [The clock does not measure time; it produces it](https://www.noemamag.com/the-tyranny-of-time/)
-- Jan 23 - [Go is about to get faster](https://dominictobias.medium.com/go-is-about-to-get-a-whole-lot-faster-a50c1e7d60b9)
+- Jan 23 - [A field fixes itself: the applied turn in economics](https://www.newthingsunderthesun.com/pub/0f51xsb5/release/7)
+- Jan 23 - [Age and High-Growth Entrepreneurship](https://www.aeaweb.org/articles?id=10.1257/aeri.20180582)
+- Jan 23 - [Ask HN: Recommendations for an SMTP Sending Service](https://news.ycombinator.com/item?id=30046840)
+- Jan 23 - [Blue verification checkmark vs. hexagonal PFPs on Twitter](https://perspectiveix.substack.com/p/twitter-nft-profile-pictures)
+- Jan 23 - [The Rise and Fall of 'Social Bot' Research (2021)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3814191)
 <!--END_SECTION:hn-->
 
 <!--
