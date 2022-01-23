@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 23 - [A field fixes itself: the applied turn in economics](https://www.newthingsunderthesun.com/pub/0f51xsb5/release/7)
-- Jan 23 - [Age and High-Growth Entrepreneurship](https://www.aeaweb.org/articles?id=10.1257/aeri.20180582)
-- Jan 23 - [Ask HN: Recommendations for an SMTP Sending Service](https://news.ycombinator.com/item?id=30046840)
-- Jan 23 - [Blue verification checkmark vs. hexagonal PFPs on Twitter](https://perspectiveix.substack.com/p/twitter-nft-profile-pictures)
-- Jan 23 - [The Rise and Fall of 'Social Bot' Research (2021)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3814191)
+- Jan 23 - [PlacesAPI](https://www.placesapi.co.uk)
+- Jan 23 - [Alabama farmer sues John Deere for ‘right to repair’](https://www.al.com/news/2022/01/alabama-farmer-sues-john-deere-for-right-to-repair.html)
+- Jan 23 - [Avoiding Fallback in Distributed Systems (2020)](https://aws.amazon.com/builders-library/avoiding-fallback-in-distributed-systems/)
+- Jan 23 - [OneDNA – We've Standardised the NDA](https://onenda.org)
+- Jan 23 - [A history and defence of venture capital in “The Power Law”](https://www.economist.com/culture/2022/01/22/a-history-and-defence-of-venture-capital-in-the-power-law)
 <!--END_SECTION:hn-->
 
 <!--
