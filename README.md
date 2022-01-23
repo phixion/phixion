@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 23 - [Yuzu-emu/yuzu: Nintendo Switch Emulator](https://github.com/yuzu-emu/yuzu)
-- Jan 23 - [The FSF’s relationship with firmware is harmful to free software users](https://ariadne.space/2022/01/22/the-fsfs-relationship-with-firmware-is-harmful-to-free-software-users/)
-- Jan 22 - [Bell Labs Org Chart (1980)](https://neil.computer/notes/bell-labs-org-chart/)
-- Jan 22 - [WordPress themes, plugins backdoored in supply chain attack](https://www.bleepingcomputer.com/news/security/over-90-wordpress-themes-plugins-backdoored-in-supply-chain-attack/)
-- Jan 22 - [Golang’s most important feature is invisible](https://blog.devgenius.io/golangs-most-important-feature-is-invisible-6be9c1e7249b?gi=21e47786496b)
+- Jan 23 - [Safari and iOS users: Your browsing activity is being leaked in real time](https://arstechnica.com/information-technology/2022/01/safari-and-ios-bug-reveals-your-browsing-activity-and-id-in-real-time/)
+- Jan 23 - [The Future of E-Bikes](https://austinvernon.site/blog/ebikes.html)
+- Jan 23 - [Why I am not a utilitarian](https://fakenous.net/?p=2757)
+- Jan 23 - [Pimiga - Raspberry Pi Powered Amiga](https://cubiclenate.com/pimiga/)
+- Jan 23 - [Ask HN: How to make my macOS less distracting?](https://news.ycombinator.com/item?id=30043764)
 <!--END_SECTION:hn-->
 
 <!--
