@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 23 - [Safari and iOS users: Your browsing activity is being leaked in real time](https://arstechnica.com/information-technology/2022/01/safari-and-ios-bug-reveals-your-browsing-activity-and-id-in-real-time/)
-- Jan 23 - [The Future of E-Bikes](https://austinvernon.site/blog/ebikes.html)
-- Jan 23 - [Why I am not a utilitarian](https://fakenous.net/?p=2757)
-- Jan 23 - [Pimiga - Raspberry Pi Powered Amiga](https://cubiclenate.com/pimiga/)
-- Jan 23 - [Ask HN: How to make my macOS less distracting?](https://news.ycombinator.com/item?id=30043764)
+- Jan 23 - [Replit (YC W18) is hiring engineers to make delightful programming environments](https://replit.com/careers)
+- Jan 23 - [Optimal coverage for Wordle with Monte Carlo methods – Part III](https://bytepawn.com/optimal-coverage-for-wordle-with-monte-carlo-methods-part-iii.html)
+- Jan 23 - [The implementation of the UK Covid-19 dashboard](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/uk-covid-19-dashboard-built-using-postgres-and-citus-for/ba-p/3036276)
+- Jan 23 - [The clock does not measure time; it produces it](https://www.noemamag.com/the-tyranny-of-time/)
+- Jan 23 - [Go is about to get faster](https://dominictobias.medium.com/go-is-about-to-get-a-whole-lot-faster-a50c1e7d60b9)
 <!--END_SECTION:hn-->
 
 <!--
