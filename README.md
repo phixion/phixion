@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 24 - [How to add comments to Jekyll blog](https://joelchrono12.netlify.app/blog/how-to-add-mastodon-comments-to-jekyll-blog/)
-- Jan 24 - [Wordle-Solver – solves 99.7% of common five-letter English words](https://github.com/jason-chao/wordle-solver)
-- Jan 24 - [Aerotime (YC W21) Is Hiring](https://www.ycombinator.com/companies/aerotime/jobs/HxfTJyw-founding-engineer-front-end)
-- Jan 24 - [Scientists find there are 70% fewer pollinators, due to air pollution](https://www.openaccessgovernment.org/pollination-air-pollution/127964/)
-- Jan 24 - [I accidentally used YAML.parse instead of JSON.parse, and it worked?](https://rohitpaulk.com/articles/accidentally-used-yaml-instead-of-json)
+- Jan 24 - [I Got Pwned by My Cloud Costs](https://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/)
+- Jan 24 - [Bitmovin (YC S15) Is Hiring Software Engineers in Support in EMEA](https://bitmovin.com/careers/5617278002?gh_jid=5617278002)
+- Jan 24 - [Winamp Skin Museum (Interactive)](https://skins.webamp.org)
+- Jan 24 - [Const All the Things?](https://quuxplusone.github.io/blog/2022/01/23/dont-const-all-the-things/)
+- Jan 24 - [In praise of the vertically sliced St. Louis bagel](https://www.seriouseats.com/in-praise-of-st-louis-bagels)
 <!--END_SECTION:hn-->
 
 <!--
