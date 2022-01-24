@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 23 - [PlacesAPI](https://www.placesapi.co.uk)
-- Jan 23 - [Alabama farmer sues John Deere for ‘right to repair’](https://www.al.com/news/2022/01/alabama-farmer-sues-john-deere-for-right-to-repair.html)
-- Jan 23 - [Avoiding Fallback in Distributed Systems (2020)](https://aws.amazon.com/builders-library/avoiding-fallback-in-distributed-systems/)
-- Jan 23 - [OneDNA – We've Standardised the NDA](https://onenda.org)
-- Jan 23 - [A history and defence of venture capital in “The Power Law”](https://www.economist.com/culture/2022/01/22/a-history-and-defence-of-venture-capital-in-the-power-law)
+- Jan 23 - [Show HN: Shoot the neural network before it shoots you](https://github.com/victorqribeiro/bangBang)
+- Jan 23 - [Ask HN: Where are you going to find long-form content online these days?](https://news.ycombinator.com/item?id=30051782)
+- Jan 23 - [Huginn: System for building agents that perform automated tasks online](https://github.com/huginn/huginn)
+- Jan 23 - [Brain of a White-Collar Worker (2007)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(07)61127-1/fulltext)
+- Jan 23 - [Gmail account security is insane](https://news.ycombinator.com/item?id=30051054)
 <!--END_SECTION:hn-->
 
 <!--
