@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 24 - [I Got Pwned by My Cloud Costs](https://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/)
-- Jan 24 - [Bitmovin (YC S15) Is Hiring Software Engineers in Support in EMEA](https://bitmovin.com/careers/5617278002?gh_jid=5617278002)
-- Jan 24 - [Winamp Skin Museum (Interactive)](https://skins.webamp.org)
-- Jan 24 - [Const All the Things?](https://quuxplusone.github.io/blog/2022/01/23/dont-const-all-the-things/)
-- Jan 24 - [In praise of the vertically sliced St. Louis bagel](https://www.seriouseats.com/in-praise-of-st-louis-bagels)
+- Jan 24 - [GiveCampus (YC S15) hiring Sr engineers to increase accessibility to education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+- Jan 24 - [Webb’s Journey to L2 Is Nearly Complete](https://blogs.nasa.gov/webb/2022/01/21/webbs-journey-to-l2-is-nearly-complete/)
+- Jan 24 - [Ask HN: How to begin learning assembler for university course?](https://news.ycombinator.com/item?id=30056451)
+- Jan 24 - [Kazushige Goto, a patent clerk who became one of the best assembly optimisers](https://twitter.com/tef_ebooks/status/1484083444627947522)
+- Jan 24 - [XSuspender Auto-suspend inactive X11 applications](https://kernc.github.io/xsuspender/)
 <!--END_SECTION:hn-->
 
 <!--
