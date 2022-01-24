@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 23 - [Show HN: Shoot the neural network before it shoots you](https://github.com/victorqribeiro/bangBang)
-- Jan 23 - [Ask HN: Where are you going to find long-form content online these days?](https://news.ycombinator.com/item?id=30051782)
-- Jan 23 - [Huginn: System for building agents that perform automated tasks online](https://github.com/huginn/huginn)
-- Jan 23 - [Brain of a White-Collar Worker (2007)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(07)61127-1/fulltext)
-- Jan 23 - [Gmail account security is insane](https://news.ycombinator.com/item?id=30051054)
+- Jan 24 - [How to add comments to Jekyll blog](https://joelchrono12.netlify.app/blog/how-to-add-mastodon-comments-to-jekyll-blog/)
+- Jan 24 - [Wordle-Solver – solves 99.7% of common five-letter English words](https://github.com/jason-chao/wordle-solver)
+- Jan 24 - [Aerotime (YC W21) Is Hiring](https://www.ycombinator.com/companies/aerotime/jobs/HxfTJyw-founding-engineer-front-end)
+- Jan 24 - [Scientists find there are 70% fewer pollinators, due to air pollution](https://www.openaccessgovernment.org/pollination-air-pollution/127964/)
+- Jan 24 - [I accidentally used YAML.parse instead of JSON.parse, and it worked?](https://rohitpaulk.com/articles/accidentally-used-yaml-instead-of-json)
 <!--END_SECTION:hn-->
 
 <!--
