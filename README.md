@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 25 - [Highlights from Git 2.35](https://github.blog/2022-01-24-highlights-from-git-2-35/)
-- Jan 25 - [Harvard mathematician answers 150-year-old chess problem](https://news.harvard.edu/gazette/story/2022/01/harvard-mathematician-answers-150-year-old-chess-problem/)
-- Jan 25 - [Thin PostgreSQL Clones](https://github.com/postgres-ai/database-lab-engine)
-- Jan 25 - [Request your personal information](https://www.amazon.com/gp/help/customer/display.html?nodeId=GXPU3YPMBZQRWZK2)
-- Jan 25 - [Ascension’s response to Thedacare’s motion for restraining order [pdf]](https://www.wpr.org/sites/default/files/ascensionbriefjan24.pdf)
+- Jan 25 - [Around one-in-three children globally suffer from lead poisoning](https://ourworldindata.org/reducing-lead-poisoning)
+- Jan 25 - [Hypercontext (YC S21) is hiring a SwiftUI developer](https://www.ycombinator.com/companies/hypercontext/jobs/kVsnSnv-software-engineer-swift-ui-macos)
+- Jan 25 - [Chesterton’s Fence](https://fs.blog/chestertons-fence/)
+- Jan 25 - [What's New in Ruby 3.1?](https://nithinbekal.com/posts/ruby-3-1/)
+- Jan 25 - [Nvidia prepares to abandon takeover of Arm](https://www.bloomberg.com/news/articles/2022-01-25/nvidia-is-said-to-quietly-prepare-to-abandon-takeover-of-arm)
 <!--END_SECTION:hn-->
 
 <!--
