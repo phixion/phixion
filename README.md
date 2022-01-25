@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 24 - [Reverse engineering the 1988 NeXT keyboard protocol](https://journal.spencerwnelson.com/entries/nextkb.html)
-- Jan 24 - [Web Accessibility Guidelines: Would They Provide Benefits to Nondisabled Users?](https://journals.sagepub.com/doi/full/10.1177/0018720816640962)
-- Jan 24 - [Meta Unveils New AI Supercomputer](https://www.wsj.com/articles/meta-unveils-new-ai-supercomputer-11643043601)
-- Jan 24 - [The AI Research SuperCluster](https://ai.facebook.com/blog/ai-rsc/)
-- Jan 24 - [Scam Alert: Fake DMCA Takedown for Link Insertion](https://blog.fosketts.net/2022/01/24/scam-alert-fake-dmca-takedown-for-link-insertion/)
+- Jan 25 - [Show HN: Social network that looks and works more like a forum](https://hey.cafe)
+- Jan 25 - [717 Gigapixel Image of Rembrandt's Nightwatch](https://hyper-resolution.org/view.html?pointer=0.111,0.001&i=Rijksmuseum/SK-C-5/SK-C-5_VIS_5-um_2020-09-08)
+- Jan 25 - [Lighthouse Map](https://geodienst.github.io/lighthousemap/)
+- Jan 25 - [Image that contains the code that generated it](https://allrgb.com/recursive)
+- Jan 24 - [Saving on egress switching from AWS to Hetzner](https://blog.fleetdm.com/saving-over-100x-on-egress-switching-from-aws-to-hetzner-169888bd6650?gi=c7e9ad0d5001)
 <!--END_SECTION:hn-->
 
 <!--
