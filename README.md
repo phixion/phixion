@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 25 - [Around one-in-three children globally suffer from lead poisoning](https://ourworldindata.org/reducing-lead-poisoning)
-- Jan 25 - [Hypercontext (YC S21) is hiring a SwiftUI developer](https://www.ycombinator.com/companies/hypercontext/jobs/kVsnSnv-software-engineer-swift-ui-macos)
-- Jan 25 - [Chesterton’s Fence](https://fs.blog/chestertons-fence/)
-- Jan 25 - [What's New in Ruby 3.1?](https://nithinbekal.com/posts/ruby-3-1/)
-- Jan 25 - [Nvidia prepares to abandon takeover of Arm](https://www.bloomberg.com/news/articles/2022-01-25/nvidia-is-said-to-quietly-prepare-to-abandon-takeover-of-arm)
+- Jan 25 - [WebAssembly Techniques to Speed Up Matrix Multiplication by 120x](https://jott.live/markdown/mm_wasm)
+- Jan 25 - [Ask HN: Who has moved from the U.S. to Europe?](https://news.ycombinator.com/item?id=30073066)
+- Jan 25 - [Store SQLite in Cloudflare Durable Objects](https://ma.rkusa.st/store-sqlite-in-cloudflare-durable-objects)
+- Jan 25 - [The Writing on the Wall: Sci-Fi’s Empty Techno-Optimism](https://bloodknife.com/inadequacy-of-inspirational-scifi/)
+- Jan 25 - [Lessons for a Young Scientist](https://nautil.us/lessons-for-a-young-scientist-2-13423/)
 <!--END_SECTION:hn-->
 
 <!--
