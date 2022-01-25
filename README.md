@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 25 - [Gemini is Solutionism at its Worst](https://xn--gckvb8fzb.com/gemini-is-solutionism-at-its-worst/)
-- Jan 25 - [Paul Giamatti broke the California wine industry](https://thewhyaxis.substack.com/p/how-paul-giamatti-broke-the-california)
-- Jan 25 - [Caffeine's Smarter Sibling: An Experience with Modafinil (2013)](https://erowid.org/experiences/exp.php?ID=100310)
-- Jan 25 - [Bolt founder on Stripe/YC](https://twitter.com/theryanking/status/1485784823641755648)
-- Jan 25 - [Are popular toxicity models simply profanity detectors?](https://www.surgehq.ai/blog/are-popular-toxicity-models-simply-profanity-detectors)
+- Jan 25 - [Highlights from Git 2.35](https://github.blog/2022-01-24-highlights-from-git-2-35/)
+- Jan 25 - [Harvard mathematician answers 150-year-old chess problem](https://news.harvard.edu/gazette/story/2022/01/harvard-mathematician-answers-150-year-old-chess-problem/)
+- Jan 25 - [Thin PostgreSQL Clones](https://github.com/postgres-ai/database-lab-engine)
+- Jan 25 - [Request your personal information](https://www.amazon.com/gp/help/customer/display.html?nodeId=GXPU3YPMBZQRWZK2)
+- Jan 25 - [Ascension’s response to Thedacare’s motion for restraining order [pdf]](https://www.wpr.org/sites/default/files/ascensionbriefjan24.pdf)
 <!--END_SECTION:hn-->
 
 <!--
