@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 25 - [WebAssembly Techniques to Speed Up Matrix Multiplication by 120x](https://jott.live/markdown/mm_wasm)
-- Jan 25 - [Ask HN: Who has moved from the U.S. to Europe?](https://news.ycombinator.com/item?id=30073066)
-- Jan 25 - [Store SQLite in Cloudflare Durable Objects](https://ma.rkusa.st/store-sqlite-in-cloudflare-durable-objects)
-- Jan 25 - [The Writing on the Wall: Sci-Fi’s Empty Techno-Optimism](https://bloodknife.com/inadequacy-of-inspirational-scifi/)
-- Jan 25 - [Lessons for a Young Scientist](https://nautil.us/lessons-for-a-young-scientist-2-13423/)
+- Jan 25 - [Nintendo Switch game cartridges taste offensively bad (2017)](https://www.polygon.com/2017/3/1/14784140/nintendo-switch-cartridges-taste-awful-psa)
+- Jan 25 - [Why does the chart increasing emoji show in red?](https://blog.emojipedia.org/why-does-the-chart-increasing-emoji-show-in-red/)
+- Jan 25 - [Doing too much work on one's own before looping in others](https://thezbook.com/the-biggest-mistake-i-see-engineers-make/)
+- Jan 25 - [I’m Porting the TypeScript Type Checker Tsc to Go](https://kdy1.dev/posts/2022/1/tsc-go)
+- Jan 25 - [Researchers Build AI That Builds AI](https://www.quantamagazine.org/researchers-build-ai-that-builds-ai-20220125/)
 <!--END_SECTION:hn-->
 
 <!--
