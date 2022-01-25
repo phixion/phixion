@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 25 - [Show HN: Social network that looks and works more like a forum](https://hey.cafe)
-- Jan 25 - [717 Gigapixel Image of Rembrandt's Nightwatch](https://hyper-resolution.org/view.html?pointer=0.111,0.001&i=Rijksmuseum/SK-C-5/SK-C-5_VIS_5-um_2020-09-08)
-- Jan 25 - [Lighthouse Map](https://geodienst.github.io/lighthousemap/)
-- Jan 25 - [Image that contains the code that generated it](https://allrgb.com/recursive)
-- Jan 24 - [Saving on egress switching from AWS to Hetzner](https://blog.fleetdm.com/saving-over-100x-on-egress-switching-from-aws-to-hetzner-169888bd6650?gi=c7e9ad0d5001)
+- Jan 25 - [Gemini is Solutionism at its Worst](https://xn--gckvb8fzb.com/gemini-is-solutionism-at-its-worst/)
+- Jan 25 - [Paul Giamatti broke the California wine industry](https://thewhyaxis.substack.com/p/how-paul-giamatti-broke-the-california)
+- Jan 25 - [Caffeine's Smarter Sibling: An Experience with Modafinil (2013)](https://erowid.org/experiences/exp.php?ID=100310)
+- Jan 25 - [Bolt founder on Stripe/YC](https://twitter.com/theryanking/status/1485784823641755648)
+- Jan 25 - [Are popular toxicity models simply profanity detectors?](https://www.surgehq.ai/blog/are-popular-toxicity-models-simply-profanity-detectors)
 <!--END_SECTION:hn-->
 
 <!--
