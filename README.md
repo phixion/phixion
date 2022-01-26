@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 26 - [A Minimum Viable Computer, or Linux for $15](https://bbenchoff.github.io/pages/LinuxDevice.html)
-- Jan 26 - [Show HN: Infracost (YC W21) – Open-source cloud cost policies](https://github.com/infracost/infracost)
-- Jan 26 - [North Korean internet downed by suspected cyber attacks](https://www.reuters.com/world/asia-pacific/nkorean-internet-downed-by-suspected-cyber-attacks-researchers-2022-01-26/)
-- Jan 26 - [Snowden: This is not a drill](https://twitter.com/Snowden/status/1486049822847250433)
-- Jan 26 - [Windows Subsystem for Android](https://docs.microsoft.com/en-us/windows/android/wsa/)
+- Jan 26 - [Quebec bans unvaccinated from buying groceries at Walmart, Costco](https://tnc.news/2022/01/24/quebec-bans-unvaccinated-from-buying-groceries-at-walmart-costco/)
+- Jan 26 - [Electric Tables – an experiment in personal databases](https://tomcritchlow.com/2022/01/26/electric-tables/)
+- Jan 26 - [Creating a Postgres Foreign Data Wrapper](https://www.dolthub.com/blog/2022-01-26-creating-a-postgres-foreign-data-wrapper/)
+- Jan 26 - [Will charging for posts lead to higher social media content quality?](https://1life.cc/)
+- Jan 26 - [Zim – A Desktop Wiki](https://zim-wiki.org/)
 <!--END_SECTION:hn-->
 
 <!--
