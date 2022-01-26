@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 25 - [Silicon fluorescence from microcracks in cement, revealing signs of damage](https://www.nature.com/articles/s41598-022-05113-1)
-- Jan 25 - [The old internet shows signs of quietly coming back](https://cheapskatesguide.org/articles/old-internet-coming-back.html)
-- Jan 25 - [Economists are revising their views on robots and jobs](https://www.economist.com/finance-and-economics/2022/01/22/economists-are-revising-their-views-on-robots-and-jobs)
-- Jan 25 - [Why our team cancelled our move to microservices](https://steven-lemon182.medium.com/why-our-team-cancelled-our-move-to-microservices-8fd87898d952)
-- Jan 25 - [Motion (YC W20) is hiring full stack and back end engineers](https://jobs.ashbyhq.com/motion)
+- Jan 26 - [Guide to Using YubiKey for GPG and SSH](https://github.com/drduh/YubiKey-Guide)
+- Jan 26 - [Nature Neuroscience offers open access publishing for 11,390 USD per article](https://www.nature.com/articles/s41593-021-00995-2)
+- Jan 26 - [Agatha Christie could afford a maid and a nanny but not a car](https://fullstackeconomics.com/why-agatha-christie-could-afford-a-maid-and-a-nanny-but-not-a-car/)
+- Jan 26 - [Two weeks later David Bennett is alive, his pig’s heart beating soundly](https://www.irishtimes.com/life-and-style/health-family/two-weeks-after-his-operation-david-bennett-is-alive-his-pig-s-heart-beating-soundly-1.4783776)
+- Jan 26 - [The Polygons of Éric's Chahi Another World](https://fabiensanglard.net/another_world_polygons/index.html)
 <!--END_SECTION:hn-->
 
 <!--
