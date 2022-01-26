@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 26 - [YC's software team is looking for a full stack engineer](https://www.ycombinator.com/companies/y-combinator/jobs/7D3drHl-product-engineer)
-- Jan 26 - [Information Hazards: A Typology of Potential Harms from Knowledge [pdf]](https://www.nickbostrom.com/information-hazards.pdf)
-- Jan 26 - [How Claude Shannon Helped Kick-Start Machine Learning](https://spectrum.ieee.org/claude-shannon-information-theory)
-- Jan 26 - [Sleep quality and consistency is associated with better academic performance](https://www.grelin.net/post/Urruj7Id8snp96DQRdPP)
-- Jan 26 - [Machine Readable Specifications at Scale](https://alastairreid.github.io/mrs-at-scale/)
+- Jan 26 - [A Minimum Viable Computer, or Linux for $15](https://bbenchoff.github.io/pages/LinuxDevice.html)
+- Jan 26 - [Show HN: Infracost (YC W21) – Open-source cloud cost policies](https://github.com/infracost/infracost)
+- Jan 26 - [North Korean internet downed by suspected cyber attacks](https://www.reuters.com/world/asia-pacific/nkorean-internet-downed-by-suspected-cyber-attacks-researchers-2022-01-26/)
+- Jan 26 - [Snowden: This is not a drill](https://twitter.com/Snowden/status/1486049822847250433)
+- Jan 26 - [Windows Subsystem for Android](https://docs.microsoft.com/en-us/windows/android/wsa/)
 <!--END_SECTION:hn-->
 
 <!--
