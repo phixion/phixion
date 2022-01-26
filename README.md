@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 26 - [Ashby (YC W19) hiring engineers who want to own product](https://jobs.ashbyhq.com/Ashby?utm_source=hn)
-- Jan 26 - [Let's Encrypt: Issue with TLS-ALPN-01 Validation Method](https://community.letsencrypt.org/t/2022-01-25-issue-with-tls-alpn-01-validation-method/170450)
-- Jan 26 - [Ask HN: How do you get out of a rut?](https://news.ycombinator.com/item?id=30082234)
-- Jan 26 - [Elsevier embeds a hash in the PDF metadata that is unique for each download](https://twitter.com/json_dirs/status/1486120144141123584)
-- Jan 26 - [Surprises in the Bitcoin blockchain and how they are stored (2014)](https://www.righto.com/2014/02/ascii-bernanke-wikileaks-photographs.html)
+- Jan 26 - [YC's software team is looking for a full stack engineer](https://www.ycombinator.com/companies/y-combinator/jobs/7D3drHl-product-engineer)
+- Jan 26 - [Information Hazards: A Typology of Potential Harms from Knowledge [pdf]](https://www.nickbostrom.com/information-hazards.pdf)
+- Jan 26 - [How Claude Shannon Helped Kick-Start Machine Learning](https://spectrum.ieee.org/claude-shannon-information-theory)
+- Jan 26 - [Sleep quality and consistency is associated with better academic performance](https://www.grelin.net/post/Urruj7Id8snp96DQRdPP)
+- Jan 26 - [Machine Readable Specifications at Scale](https://alastairreid.github.io/mrs-at-scale/)
 <!--END_SECTION:hn-->
 
 <!--
