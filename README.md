@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 25 - [Nintendo Switch game cartridges taste offensively bad (2017)](https://www.polygon.com/2017/3/1/14784140/nintendo-switch-cartridges-taste-awful-psa)
-- Jan 25 - [Why does the chart increasing emoji show in red?](https://blog.emojipedia.org/why-does-the-chart-increasing-emoji-show-in-red/)
-- Jan 25 - [Doing too much work on one's own before looping in others](https://thezbook.com/the-biggest-mistake-i-see-engineers-make/)
-- Jan 25 - [I’m Porting the TypeScript Type Checker Tsc to Go](https://kdy1.dev/posts/2022/1/tsc-go)
-- Jan 25 - [Researchers Build AI That Builds AI](https://www.quantamagazine.org/researchers-build-ai-that-builds-ai-20220125/)
+- Jan 25 - [Silicon fluorescence from microcracks in cement, revealing signs of damage](https://www.nature.com/articles/s41598-022-05113-1)
+- Jan 25 - [The old internet shows signs of quietly coming back](https://cheapskatesguide.org/articles/old-internet-coming-back.html)
+- Jan 25 - [Economists are revising their views on robots and jobs](https://www.economist.com/finance-and-economics/2022/01/22/economists-are-revising-their-views-on-robots-and-jobs)
+- Jan 25 - [Why our team cancelled our move to microservices](https://steven-lemon182.medium.com/why-our-team-cancelled-our-move-to-microservices-8fd87898d952)
+- Jan 25 - [Motion (YC W20) is hiring full stack and back end engineers](https://jobs.ashbyhq.com/motion)
 <!--END_SECTION:hn-->
 
 <!--
