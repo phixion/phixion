@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 27 - [Alder Lake Core i9 processor is faster than the M1 Max](https://www.macworld.com/article/608396/intel-alder-lake-m1-pro-max-benchmarks-power-efficiency.html)
-- Jan 27 - [Supabase (YC S20) Is Hiring Senior Auth Engineers](https://about.supabase.com/careers/auth-engineers)
-- Jan 27 - [Guidance on Software Development and Open Source Software [pdf]](https://dodcio.defense.gov/Portals/0/Documents/Library/SoftwareDev-OpenSource.pdf)
-- Jan 27 - [Hellekson's Law](https://risacher.org/jfdi/2013/12/helleksons-law-how-did-i-do/)
-- Jan 27 - [Moral Machine](https://www.moralmachine.net/)
+- Jan 27 - [Reasons Kubernetes is so complex](https://buttondown.email/nelhage/archive/two-reasons-kubernetes-is-so-complex/)
+- Jan 27 - [She was a notorious hacker in the ’80s – then she disappeared](https://www.theverge.com/c/22889425/susy-thunder-headley-hackers-phone-phreakers-claire-evans)
+- Jan 27 - [An old photo of a large BBS](http://rachelbythebay.com/w/2022/01/26/swcbbs/)
+- Jan 27 - [The computer built to last 50 years (2021)](https://web.archive.org/web/20220108013041/https://ploum.net/the-computer-built-to-last-50-years/)
+- Jan 27 - [Naomi Wu Demonetized on YouTube](https://twitter.com/RealSexyCyborg/status/1486526916433641472)
 <!--END_SECTION:hn-->
 
 <!--
