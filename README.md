@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 27 - [LTO Tape data storage for Linux nerds](https://blog.benjojo.co.uk/post/lto-tape-backups-for-linux-nerds)
-- Jan 27 - [DeepSource is looking for a developer advocate (Remote within US)](https://boards.greenhouse.io/deepsource/jobs/4289079004)
-- Jan 27 - [University of Michigan- Robotics 501: Mathematics for Robotics](https://github.com/michiganrobotics/rob501)
-- Jan 27 - [Poll: Is the leetcode grind necessary to land a high paying remote job?](https://news.ycombinator.com/item?id=30098671)
-- Jan 27 - [Ask HN: How do small companies do recruitment?](https://news.ycombinator.com/item?id=30098607)
+- Jan 27 - [Ask HN: Hacker claimed ownership and then deleted my Facebook Page of 50k users](https://news.ycombinator.com/item?id=30102240)
+- Jan 27 - [Guess the daily Wordle in one try using the tweet distribution](https://www.kaggle.com/benhamner/wordle-1-6)
+- Jan 27 - [How much did a tunic cost in the Roman Empire? (2021)](https://www.bookandsword.com/2021/05/08/how-much-did-a-tunic-cost-in-the-roman-empire/)
+- Jan 27 - [CVE-2021-4122 decryption through LUKS2 reencryption crash recovery](https://seclists.org/oss-sec/2022/q1/34)
+- Jan 27 - [Parsing Decimals four times faster](https://cantortrading.fi/rust_decimal_str/)
 <!--END_SECTION:hn-->
 
 <!--
