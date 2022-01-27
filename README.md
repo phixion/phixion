@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 27 - [Alder Lake Core i9 processor is faster than the M1 Max](https://www.macworld.com/article/608396/intel-alder-lake-m1-pro-max-benchmarks-power-efficiency.html)
+- Jan 27 - [Supabase (YC S20) Is Hiring Senior Auth Engineers](https://about.supabase.com/careers/auth-engineers)
+- Jan 27 - [Guidance on Software Development and Open Source Software [pdf]](https://dodcio.defense.gov/Portals/0/Documents/Library/SoftwareDev-OpenSource.pdf)
+- Jan 27 - [Hellekson's Law](https://risacher.org/jfdi/2013/12/helleksons-law-how-did-i-do/)
 - Jan 27 - [Moral Machine](https://www.moralmachine.net/)
-- Jan 27 - [McMinn County Bans “Maus”, Pulitzer Prize Winning Holocaust Book](http://tnholler.com/2022/01/mcminn-county-bans-maus-pulitzer-prize-winning-holocaust-book/)
-- Jan 26 - [Here We Go Again](https://seths.blog/2022/01/here-we-go-again-2/)
-- Jan 26 - [Wordle-solving state of the art: all optimality results so far](https://www.poirrier.ca/notes/wordle-optimal/)
-- Jan 26 - [Rancher Desktop 1.0.0 Has Arrived](https://www.suse.com/c/rancher_blog/rancher-desktop-1-0-0-has-arrived/)
 <!--END_SECTION:hn-->
 
 <!--
