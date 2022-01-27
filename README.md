@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 26 - [Quebec bans unvaccinated from buying groceries at Walmart, Costco](https://tnc.news/2022/01/24/quebec-bans-unvaccinated-from-buying-groceries-at-walmart-costco/)
-- Jan 26 - [Electric Tables – an experiment in personal databases](https://tomcritchlow.com/2022/01/26/electric-tables/)
-- Jan 26 - [Creating a Postgres Foreign Data Wrapper](https://www.dolthub.com/blog/2022-01-26-creating-a-postgres-foreign-data-wrapper/)
-- Jan 26 - [Will charging for posts lead to higher social media content quality?](https://1life.cc/)
-- Jan 26 - [Zim – A Desktop Wiki](https://zim-wiki.org/)
+- Jan 27 - [Moral Machine](https://www.moralmachine.net/)
+- Jan 27 - [McMinn County Bans “Maus”, Pulitzer Prize Winning Holocaust Book](http://tnholler.com/2022/01/mcminn-county-bans-maus-pulitzer-prize-winning-holocaust-book/)
+- Jan 26 - [Here We Go Again](https://seths.blog/2022/01/here-we-go-again-2/)
+- Jan 26 - [Wordle-solving state of the art: all optimality results so far](https://www.poirrier.ca/notes/wordle-optimal/)
+- Jan 26 - [Rancher Desktop 1.0.0 Has Arrived](https://www.suse.com/c/rancher_blog/rancher-desktop-1-0-0-has-arrived/)
 <!--END_SECTION:hn-->
 
 <!--
