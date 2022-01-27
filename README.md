@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 27 - [Ask HN: Hacker claimed ownership and then deleted my Facebook Page of 50k users](https://news.ycombinator.com/item?id=30102240)
-- Jan 27 - [Guess the daily Wordle in one try using the tweet distribution](https://www.kaggle.com/benhamner/wordle-1-6)
-- Jan 27 - [How much did a tunic cost in the Roman Empire? (2021)](https://www.bookandsword.com/2021/05/08/how-much-did-a-tunic-cost-in-the-roman-empire/)
-- Jan 27 - [CVE-2021-4122 decryption through LUKS2 reencryption crash recovery](https://seclists.org/oss-sec/2022/q1/34)
-- Jan 27 - [Parsing Decimals four times faster](https://cantortrading.fi/rust_decimal_str/)
+- Jan 27 - [Ransomware-resistant backups with duplicity and AWS S3](https://www.franzoni.eu/ransomware-resistant-backups/)
+- Jan 27 - [Spotify Removing Neil Young's Music](https://www.reuters.com/lifestyle/spotify-removing-neil-youngs-music-after-his-joe-rogan-ultimatum-2022-01-27/)
+- Jan 27 - [Percent of Avocado oil is rancid/mixed with other oils](https://www.ucdavis.edu/food/news/study-finds-82-percent-avocado-oil-rancid-or-mixed-other-oils)
+- Jan 27 - [Sweden approves plan to bury spent nuclear fuel for 100k years](https://www.nasdaq.com/articles/sweden-approves-plan-to-bury-spent-nuclear-fuel-for-100000-years)
+- Jan 27 - [Why can't you reverse a string with a flag emoji?](https://davidamos.dev/why-cant-you-reverse-a-flag-emoji/)
 <!--END_SECTION:hn-->
 
 <!--
