@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 27 - [Reasons Kubernetes is so complex](https://buttondown.email/nelhage/archive/two-reasons-kubernetes-is-so-complex/)
-- Jan 27 - [She was a notorious hacker in the ’80s – then she disappeared](https://www.theverge.com/c/22889425/susy-thunder-headley-hackers-phone-phreakers-claire-evans)
-- Jan 27 - [An old photo of a large BBS](http://rachelbythebay.com/w/2022/01/26/swcbbs/)
-- Jan 27 - [The computer built to last 50 years (2021)](https://web.archive.org/web/20220108013041/https://ploum.net/the-computer-built-to-last-50-years/)
-- Jan 27 - [Naomi Wu Demonetized on YouTube](https://twitter.com/RealSexyCyborg/status/1486526916433641472)
+- Jan 27 - [LTO Tape data storage for Linux nerds](https://blog.benjojo.co.uk/post/lto-tape-backups-for-linux-nerds)
+- Jan 27 - [DeepSource is looking for a developer advocate (Remote within US)](https://boards.greenhouse.io/deepsource/jobs/4289079004)
+- Jan 27 - [University of Michigan- Robotics 501: Mathematics for Robotics](https://github.com/michiganrobotics/rob501)
+- Jan 27 - [Poll: Is the leetcode grind necessary to land a high paying remote job?](https://news.ycombinator.com/item?id=30098671)
+- Jan 27 - [Ask HN: How do small companies do recruitment?](https://news.ycombinator.com/item?id=30098607)
 <!--END_SECTION:hn-->
 
 <!--
