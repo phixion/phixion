@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 28 - [Jiga (YC W21) Is Hiring Their 3rd Full Stack Engineer](https://news.ycombinator.com/item?id=30113576)
-- Jan 28 - [Stop contacing me, I paid $$ for perpetual license to use your software](https://twitter.com/linusgsebastian/status/1445974503771672581)
-- Jan 28 - [Private Network Access web standard](https://wicg.github.io/private-network-access/)
-- Jan 28 - [Atari System V Unix – Unofficial Website](http://www.atariunix.com/)
-- Jan 28 - [Apple contributes to OBS to support screen capture using ScreenCaptureKit](https://github.com/obsproject/obs-studio/pull/5875/commits/551c54ba8440fcdf4cdc221f5d50a30a68b87a7e)
+- Jan 28 - [Waymo sues state DMV to keep robotaxi safety details secret](https://www.latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice)
+- Jan 28 - [Why is there no theory of the just riot? (2021)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/british-academy-brian-barry-prize-essay-why-is-there-no-just-riot-theory/0FB53D483E24A115BB336DB95A8AC79A)
+- Jan 28 - [Hive: A Globally-Distributed Key/Value Store [pdf]](https://papers.s3.fr-par.scw.cloud/hive.pdf)
+- Jan 28 - [Apple removes Python 2.7 in macOS 12.3](https://developer.apple.com/documentation/macos-release-notes/macos-12_3-release-notes#Python)
+- Jan 28 - [‘Fix My Computer’ Cry Echos on Social Media; Air Force CIO Responds](https://www.airforcemag.com/fix-my-computer-cry-echos-on-social-media-air-force-cio-responds/)
 <!--END_SECTION:hn-->
 
 <!--
