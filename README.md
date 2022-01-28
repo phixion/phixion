@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 28 - [There’s No Such Thing as Clean Code](https://www.steveonstuff.com/2022/01/27/no-such-thing-as-clean-code)
-- Jan 28 - [Rebank (YC W19) Is Hiring a Software Engineer (Back End)](https://www.ycombinator.com/companies/rebank/jobs/J9gH1P4-software-engineer-backend)
-- Jan 28 - [The Long Road to Today’s Cochlear Implant](https://spectrum.ieee.org/cochlear-implant-history)
-- Jan 28 - [Dozens of U.S. states say Apple stifles competition, back Epic](https://www.reuters.com/technology/dozens-us-states-say-apple-stifles-competition-back-fortnite-maker-2022-01-28/)
-- Jan 28 - [Brian Kernighan on the Origins of Unix](https://lwn.net/Articles/881431/)
+- Jan 28 - [Jiga (YC W21) Is Hiring Their 3rd Full Stack Engineer](https://news.ycombinator.com/item?id=30113576)
+- Jan 28 - [Stop contacing me, I paid $$ for perpetual license to use your software](https://twitter.com/linusgsebastian/status/1445974503771672581)
+- Jan 28 - [Private Network Access web standard](https://wicg.github.io/private-network-access/)
+- Jan 28 - [Atari System V Unix – Unofficial Website](http://www.atariunix.com/)
+- Jan 28 - [Apple contributes to OBS to support screen capture using ScreenCaptureKit](https://github.com/obsproject/obs-studio/pull/5875/commits/551c54ba8440fcdf4cdc221f5d50a30a68b87a7e)
 <!--END_SECTION:hn-->
 
 <!--
