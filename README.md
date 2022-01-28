@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 28 - [Waymo sues state DMV to keep robotaxi safety details secret](https://www.latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice)
-- Jan 28 - [Why is there no theory of the just riot? (2021)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/british-academy-brian-barry-prize-essay-why-is-there-no-just-riot-theory/0FB53D483E24A115BB336DB95A8AC79A)
-- Jan 28 - [Hive: A Globally-Distributed Key/Value Store [pdf]](https://papers.s3.fr-par.scw.cloud/hive.pdf)
-- Jan 28 - [Apple removes Python 2.7 in macOS 12.3](https://developer.apple.com/documentation/macos-release-notes/macos-12_3-release-notes#Python)
-- Jan 28 - [‘Fix My Computer’ Cry Echos on Social Media; Air Force CIO Responds](https://www.airforcemag.com/fix-my-computer-cry-echos-on-social-media-air-force-cio-responds/)
+- Jan 28 - [Arizona Introduces a bill to make Bitcoin Legal Tender [pdf]](https://www.azleg.gov/legtext/55leg/2R/bills/SB1341P.pdf)
+- Jan 28 - [Universe BIOS for NeoGeo](http://unibios.free.fr/index.html)
+- Jan 28 - [Vitamin D supplementation reduces autoimmune disease risk in trial findings](https://www.bmj.com/content/376/bmj-2021-066452)
+- Jan 28 - [Quitting Dgraph Labs](https://discuss.dgraph.io/t/quitting-dgraph-labs/16702)
+- Jan 28 - [The Sun Was Dimmer When Earth Formed. How Did Life Emerge?](https://www.quantamagazine.org/the-sun-was-dimmer-when-earth-formed-how-did-life-emerge-20220127/)
 <!--END_SECTION:hn-->
 
 <!--
