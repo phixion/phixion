@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Jan 28 - [RedDoorz - 5,890,277 breached accounts](https://haveibeenpwned.com/PwnedWebsites#RedDoorz)
 - Jan 27 - [BTC-Alpha - 362,426 breached accounts](https://haveibeenpwned.com/PwnedWebsites#BTCAlpha)
 - Jan 19 - [Open Subtitles - 6,783,158 breached accounts](https://haveibeenpwned.com/PwnedWebsites#OpenSubtitles)
 - Jan 19 - [Upstox - 111,002 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Upstox)
 - Jan 15 - [Aditya Birla Fashion and Retail - 5,470,063 breached accounts](https://haveibeenpwned.com/PwnedWebsites#ABFRL)
-- Jan 06 - [FlexBooker - 3,756,794 breached accounts](https://haveibeenpwned.com/PwnedWebsites#FlexBooker)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 28 - [Brian Kernighan on the Origins of Unix](https://lwn.net/Articles/881431/)
+- Jan 28 - [United Airlines completes flight using 100% sustainable aviation fuel (SAF)](https://www.ge.com/news/reports/united-flies-worlds-first-passenger-flight-on-100-sustainable-aviation-fuel-supplying-one)
+- Jan 28 - [Regression and Other Stories by Andrew Gelman, Jennifer Hill, Aki Vehtari](https://avehtari.github.io/ROS-Examples/)
 - Jan 28 - [If Looks Could Kill](https://vintagecomputerstories.blogspot.com/2022/01/if-looks-could-kill.html)
-- Jan 27 - [Magic-trace: Diagnose tricky performance issues with Intel Processor Trace](https://blog.janestreet.com/magic-trace/)
-- Jan 27 - [Masterclass on mathematical thinking](https://terrytao.wordpress.com/2022/01/27/masterclass-on-mathematical-thinking/)
-- Jan 27 - [Prime Video Uses WebAssembly](https://www.amazon.science/blog/how-prime-video-updates-its-app-for-more-than-8-000-device-types)
-- Jan 27 - [Writing an open source GPU driver – without the hardware](https://www.collabora.com/news-and-blog/blog/2022/01/27/writing-an-open-source-gpu-driver-without-the-hardware/)
+- Jan 28 - [I won the local election, but my township ignored the results and state law](https://twitter.com/gaughen/status/1486834885964832770)
 <!--END_SECTION:hn-->
 
 <!--
