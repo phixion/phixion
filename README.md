@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Jan 27 - [BTC-Alpha - 362,426 breached accounts](https://haveibeenpwned.com/PwnedWebsites#BTCAlpha)
 - Jan 19 - [Open Subtitles - 6,783,158 breached accounts](https://haveibeenpwned.com/PwnedWebsites#OpenSubtitles)
 - Jan 19 - [Upstox - 111,002 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Upstox)
 - Jan 15 - [Aditya Birla Fashion and Retail - 5,470,063 breached accounts](https://haveibeenpwned.com/PwnedWebsites#ABFRL)
 - Jan 06 - [FlexBooker - 3,756,794 breached accounts](https://haveibeenpwned.com/PwnedWebsites#FlexBooker)
-- Jan 04 - [DatPiff - 7,476,940 breached accounts](https://haveibeenpwned.com/PwnedWebsites#DatPiff)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 27 - [Ransomware-resistant backups with duplicity and AWS S3](https://www.franzoni.eu/ransomware-resistant-backups/)
-- Jan 27 - [Spotify Removing Neil Young's Music](https://www.reuters.com/lifestyle/spotify-removing-neil-youngs-music-after-his-joe-rogan-ultimatum-2022-01-27/)
-- Jan 27 - [Percent of Avocado oil is rancid/mixed with other oils](https://www.ucdavis.edu/food/news/study-finds-82-percent-avocado-oil-rancid-or-mixed-other-oils)
-- Jan 27 - [Sweden approves plan to bury spent nuclear fuel for 100k years](https://www.nasdaq.com/articles/sweden-approves-plan-to-bury-spent-nuclear-fuel-for-100000-years)
-- Jan 27 - [Why can't you reverse a string with a flag emoji?](https://davidamos.dev/why-cant-you-reverse-a-flag-emoji/)
+- Jan 28 - [If Looks Could Kill](https://vintagecomputerstories.blogspot.com/2022/01/if-looks-could-kill.html)
+- Jan 27 - [Magic-trace: Diagnose tricky performance issues with Intel Processor Trace](https://blog.janestreet.com/magic-trace/)
+- Jan 27 - [Masterclass on mathematical thinking](https://terrytao.wordpress.com/2022/01/27/masterclass-on-mathematical-thinking/)
+- Jan 27 - [Prime Video Uses WebAssembly](https://www.amazon.science/blog/how-prime-video-updates-its-app-for-more-than-8-000-device-types)
+- Jan 27 - [Writing an open source GPU driver – without the hardware](https://www.collabora.com/news-and-blog/blog/2022/01/27/writing-an-open-source-gpu-driver-without-the-hardware/)
 <!--END_SECTION:hn-->
 
 <!--
