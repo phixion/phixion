@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 28 - [Suicide hotline shares data with for-profit spinoff, raising ethical questions](https://www.politico.com/news/2022/01/28/suicide-hotline-silicon-valley-privacy-debates-00002617)
+- Jan 29 - [Heartbreaking: 6509 PSUs Fail After a Brief 22 Years of Service](https://www.jumboframeinternet.com/post/1/)
+- Jan 29 - [Citizen developers are rapidly becoming the vanguard of corporate digitisation](https://www.economist.com/business/2022/01/29/what-if-all-workers-wrote-software-not-just-the-geek-elite)
+- Jan 29 - [Nimble (YC S17) Is Hiring a QA Engineer (F/T and Remote)](https://news.ycombinator.com/item?id=30122645)
+- Jan 29 - [Facebook page unpublished with no warning](https://news.ycombinator.com/item?id=30122572)
 - Jan 28 - [Right to Repair Fight](https://www.checkbook.org/national/right-to-repair/)
-- Jan 28 - [On self-modifying executables in Rust](https://blog.dend.ro/self-modifying-rust/)
-- Jan 28 - [The Manga Guide Series](https://www.ohmsha.co.jp/english/manga.htm)
-- Jan 28 - [Rebranding FLoC Without Addressing Key Privacy Issues](https://brave.com/web-standards-at-brave/7-googles-topics-api/)
 <!--END_SECTION:hn-->
 
 <!--
