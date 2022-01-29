@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 29 - [Etleap (YC W13) Is Hiring a Software Engineer – San Francisco/London](https://etleap.com/jobs/#software-engineer)
-- Jan 29 - [The Disappearance of Japan’s “Third Gender”](https://daily.jstor.org/the-disappearance-of-japans-third-gender/)
-- Jan 29 - [Latin as She Is Spoke: How Classicists Tricked Themselves (2019)](http://blogicarian.blogspot.com/2019/03/argumentum-ad-ignorantiam.html)
-- Jan 29 - [What to do if you get a question you've already seen in a coding interview](https://news.ycombinator.com/item?id=30124062)
-- Jan 29 - [The Hidden Engineering Protecting Getty Art from Earthquakes](https://www.getty.edu/news/the-hidden-engineering-protecting-getty-art-from-earthquakes/)
+- Jan 29 - [Corrily (YC W21) Is Hiring a Senior Account Executive](https://corrily.crew.work/jobs/61f1b43a8ba64f35b1550241)
+- Jan 29 - [How can you tell if the company youre interviewing with is rotten on the inside?](https://charity.wtf/2022/01/29/how-can-you-tell-if-the-company-youre-interviewing-with-is-rotten-on-the-inside/)
+- Jan 29 - [Dutch-Japanese Relations](https://www.netherlandsandyou.nl/your-country-and-the-netherlands/japan/and-the-netherlands/dutch-japanese-relations)
+- Jan 29 - [The Battle of Helm’s Deep, Part I: Bargaining for Goods at Helm’s Gate](https://acoup.blog/2020/05/01/collections-the-battle-of-helms-deep-part-i-bargaining-for-goods-at-helms-gate/)
+- Jan 29 - [A pipe operator for JavaScript: introduction and use cases](https://2ality.com/2022/01/pipe-operator.html)
 <!--END_SECTION:hn-->
 
 <!--
