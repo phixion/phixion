@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 28 - [Arizona Introduces a bill to make Bitcoin Legal Tender [pdf]](https://www.azleg.gov/legtext/55leg/2R/bills/SB1341P.pdf)
-- Jan 28 - [Universe BIOS for NeoGeo](http://unibios.free.fr/index.html)
-- Jan 28 - [Vitamin D supplementation reduces autoimmune disease risk in trial findings](https://www.bmj.com/content/376/bmj-2021-066452)
-- Jan 28 - [Quitting Dgraph Labs](https://discuss.dgraph.io/t/quitting-dgraph-labs/16702)
-- Jan 28 - [The Sun Was Dimmer When Earth Formed. How Did Life Emerge?](https://www.quantamagazine.org/the-sun-was-dimmer-when-earth-formed-how-did-life-emerge-20220127/)
+- Jan 28 - [Suicide hotline shares data with for-profit spinoff, raising ethical questions](https://www.politico.com/news/2022/01/28/suicide-hotline-silicon-valley-privacy-debates-00002617)
+- Jan 28 - [Right to Repair Fight](https://www.checkbook.org/national/right-to-repair/)
+- Jan 28 - [On self-modifying executables in Rust](https://blog.dend.ro/self-modifying-rust/)
+- Jan 28 - [The Manga Guide Series](https://www.ohmsha.co.jp/english/manga.htm)
+- Jan 28 - [Rebranding FLoC Without Addressing Key Privacy Issues](https://brave.com/web-standards-at-brave/7-googles-topics-api/)
 <!--END_SECTION:hn-->
 
 <!--
