@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 29 - [Corrily (YC W21) Is Hiring a Senior Account Executive](https://corrily.crew.work/jobs/61f1b43a8ba64f35b1550241)
-- Jan 29 - [How can you tell if the company youre interviewing with is rotten on the inside?](https://charity.wtf/2022/01/29/how-can-you-tell-if-the-company-youre-interviewing-with-is-rotten-on-the-inside/)
-- Jan 29 - [Dutch-Japanese Relations](https://www.netherlandsandyou.nl/your-country-and-the-netherlands/japan/and-the-netherlands/dutch-japanese-relations)
-- Jan 29 - [The Battle of Helm’s Deep, Part I: Bargaining for Goods at Helm’s Gate](https://acoup.blog/2020/05/01/collections-the-battle-of-helms-deep-part-i-bargaining-for-goods-at-helms-gate/)
-- Jan 29 - [A pipe operator for JavaScript: introduction and use cases](https://2ality.com/2022/01/pipe-operator.html)
+- Jan 29 - [Deep physical neural networks trained with backpropagation](https://www.nature.com/articles/s41586-021-04223-6)
+- Jan 29 - [One Gemini Battery Nearly Doubles Tesla Model S Range](https://www.motortrend.com/news/one-gemini-battery-tesla-model-s-range-test/)
+- Jan 29 - [Rust extension traits, greppability and IDEs](https://eli.thegreenplace.net/2022/rust-extension-traits-greppability-and-ides/)
+- Jan 29 - [Show HN: Wordle Image Maker](https://wordle.gary.mcad.am)
+- Jan 29 - [Recreating the Shortest Math Paper with Rust and WASM](https://carlkcarlk.github.io/shortestpaper/)
 <!--END_SECTION:hn-->
 
 <!--
