@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 29 - [Heartbreaking: 6509 PSUs Fail After a Brief 22 Years of Service](https://www.jumboframeinternet.com/post/1/)
-- Jan 29 - [Citizen developers are rapidly becoming the vanguard of corporate digitisation](https://www.economist.com/business/2022/01/29/what-if-all-workers-wrote-software-not-just-the-geek-elite)
-- Jan 29 - [Nimble (YC S17) Is Hiring a QA Engineer (F/T and Remote)](https://news.ycombinator.com/item?id=30122645)
-- Jan 29 - [Facebook page unpublished with no warning](https://news.ycombinator.com/item?id=30122572)
-- Jan 28 - [Right to Repair Fight](https://www.checkbook.org/national/right-to-repair/)
+- Jan 29 - [Etleap (YC W13) Is Hiring a Software Engineer – San Francisco/London](https://etleap.com/jobs/#software-engineer)
+- Jan 29 - [The Disappearance of Japan’s “Third Gender”](https://daily.jstor.org/the-disappearance-of-japans-third-gender/)
+- Jan 29 - [Latin as She Is Spoke: How Classicists Tricked Themselves (2019)](http://blogicarian.blogspot.com/2019/03/argumentum-ad-ignorantiam.html)
+- Jan 29 - [What to do if you get a question you've already seen in a coding interview](https://news.ycombinator.com/item?id=30124062)
+- Jan 29 - [The Hidden Engineering Protecting Getty Art from Earthquakes](https://www.getty.edu/news/the-hidden-engineering-protecting-getty-art-from-earthquakes/)
 <!--END_SECTION:hn-->
 
 <!--
