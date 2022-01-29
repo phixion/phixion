@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 29 - [Deep physical neural networks trained with backpropagation](https://www.nature.com/articles/s41586-021-04223-6)
-- Jan 29 - [One Gemini Battery Nearly Doubles Tesla Model S Range](https://www.motortrend.com/news/one-gemini-battery-tesla-model-s-range-test/)
-- Jan 29 - [Rust extension traits, greppability and IDEs](https://eli.thegreenplace.net/2022/rust-extension-traits-greppability-and-ides/)
-- Jan 29 - [Show HN: Wordle Image Maker](https://wordle.gary.mcad.am)
-- Jan 29 - [Recreating the Shortest Math Paper with Rust and WASM](https://carlkcarlk.github.io/shortestpaper/)
+- Jan 29 - [Wow Writing Literate API Documentation in Emacs Org Mode](https://joseph8th.github.io/posts/wow-writing-literate-api-documentation-in-emacs-org-mode/)
+- Jan 29 - [Former NRC Chair Argues Nuclear Power Isn't a Climate Solution](https://www.powermag.com/blog/former-nuclear-leaders-say-no-to-new-reactors/)
+- Jan 29 - [The 'Hidden Resignation': Employees are checked out](https://tidymails.com/business-insider/the-hidden-resignation-employees-are-checked-out-full-article/235949/)
+- Jan 29 - [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html)
+- Jan 29 - [Ask HN: Which VM orchestrator do you use?](https://news.ycombinator.com/item?id=30128865)
 <!--END_SECTION:hn-->
 
 <!--
