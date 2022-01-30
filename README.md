@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 30 - [One More Small Step Toward the Right to Software Repair](https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/)
-- Jan 30 - [Blueberry Earth or “what if the entire Earth was replaced with blueberries?“](https://arxiv.org/abs/1807.10553)
-- Jan 30 - [tofuproxy – web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser](http://www.tofuproxy.stargrave.org/)
-- Jan 30 - [Building single-page-apps with PostgREST](https://blog.polyglot.network/backend.sql-+-frontend.js-love)
-- Jan 30 - [John Locke’s recipe for Pancakes (2021)](https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/)
+- Jan 30 - [Taloflow (YC W21) Is Hiring a QA Engineer and Project Manager](https://www.ycombinator.com/companies/taloflow/jobs/bcdMpjv-qa-engineer-and-project-manager)
+- Jan 30 - [If It Were My Home](http://www.ifitweremyhome.com/compare/DE/US)
+- Jan 30 - [Munich district court: embedding Google fonts violates GDPR, compensation 100 €](https://rewis.io/urteile/urteil/lhm-20-01-2022-3-o-1749320/)
+- Jan 30 - [Applying Offensive Reverse Engineering to Facebook Gameroom (2021)](https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom)
+- Jan 30 - [One more small step toward the right to software repair](https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/)
 <!--END_SECTION:hn-->
 
 <!--
