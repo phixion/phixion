@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 30 - [Ask HN: Getting film developed cheap in the US](https://news.ycombinator.com/item?id=30138117)
-- Jan 30 - [Show HN: Web page that parses and explains the label on a bike tire](https://fahrrad-tools.de/tire.html)
-- Jan 30 - [Midnight Commander Tips and Tricks](http://www.softpanorama.org/OFM/MC/mc_tips.shtml)
-- Jan 30 - [GoSTL: Algorithm and datastructure library for Go similar to C++ STL](https://github.com/liyue201/gostl)
-- Jan 30 - [Taloflow (YC W21) Is Hiring a QA Engineer and Project Manager](https://www.ycombinator.com/companies/taloflow/jobs/bcdMpjv-qa-engineer-and-project-manager)
+- Jan 30 - [When the algorithm is your boss](https://tribunemag.co.uk/2022/01/amazon-algorithm-human-resource-management-tech-worker-surveillance)
+- Jan 30 - [Why is Harvard astrophysicist Avi Loeb working with ardent UFO believers?](https://www.science.org/content/article/why-is-harvard-astrophysicist-working-with-ufo-buffs)
+- Jan 30 - [Reducing inequality can reverse political polarisation: study](https://www.thesaint.scot/post/university-study-finds-reducing-inequality-can-reverse-political-polarisation)
+- Jan 30 - [Show the case against](https://www.shubhro.com/2022/01/03/show-the-case-against/)
+- Jan 30 - [SBCL: New in Version 2.2.1](http://www.sbcl.org/all-news.html?2.2.1#2.2.1)
 <!--END_SECTION:hn-->
 
 <!--
