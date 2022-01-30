@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 29 - [Wow Writing Literate API Documentation in Emacs Org Mode](https://joseph8th.github.io/posts/wow-writing-literate-api-documentation-in-emacs-org-mode/)
-- Jan 29 - [Former NRC Chair Argues Nuclear Power Isn't a Climate Solution](https://www.powermag.com/blog/former-nuclear-leaders-say-no-to-new-reactors/)
-- Jan 29 - [The 'Hidden Resignation': Employees are checked out](https://tidymails.com/business-insider/the-hidden-resignation-employees-are-checked-out-full-article/235949/)
-- Jan 29 - [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html)
-- Jan 29 - [Ask HN: Which VM orchestrator do you use?](https://news.ycombinator.com/item?id=30128865)
+- Jan 29 - [My 15 days old app help more than 1000 people to find testing appointment](https://lavpatel.com/testing-appointment-app/)
+- Jan 29 - [Mix and Match Mental Models](https://lethain.com/mental-models-mix-match/)
+- Jan 29 - [The Web3 Fraud](https://www.usenix.org/publications/loginonline/web3-fraudhttps://www.usenix.org/publications/loginonline/web3-fraud)
+- Jan 29 - [Joni Mitchell joins Neil Young in protest against Spotify](https://www.npr.org/2022/01/29/1076670679/joni-mitchell-neil-young-protest-spotify-rogan-misinformation)
+- Jan 29 - [Magic Mouse 2 – A Terrible Design (2017)](https://fyngyrz.com/?p=3183)
 <!--END_SECTION:hn-->
 
 <!--
