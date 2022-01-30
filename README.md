@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 29 - [My 15 days old app help more than 1000 people to find testing appointment](https://lavpatel.com/testing-appointment-app/)
-- Jan 29 - [Mix and Match Mental Models](https://lethain.com/mental-models-mix-match/)
-- Jan 29 - [The Web3 Fraud](https://www.usenix.org/publications/loginonline/web3-fraudhttps://www.usenix.org/publications/loginonline/web3-fraud)
-- Jan 29 - [Joni Mitchell joins Neil Young in protest against Spotify](https://www.npr.org/2022/01/29/1076670679/joni-mitchell-neil-young-protest-spotify-rogan-misinformation)
-- Jan 29 - [Magic Mouse 2 – A Terrible Design (2017)](https://fyngyrz.com/?p=3183)
+- Jan 30 - [Building single-page-apps with PostgREST](https://blog.polyglot.network/backend.sql-+-frontend.js-love)
+- Jan 30 - [John Locke’s recipe for Pancakes (2021)](https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/)
+- Jan 30 - [Ask HN: At a peak of my dev career, I hate my life](https://news.ycombinator.com/item?id=30132560)
+- Jan 29 - [Phone is still the best way to order pizza](https://dan.bulwinkle.net/blog/phone-is-still-the-best-way-to-order-pizza/)
+- Jan 29 - [PostgreSQL used fsync incorrectly for 20 years (2019) [video]](https://archive.fosdem.org/2019/schedule/event/postgresql_fsync/)
 <!--END_SECTION:hn-->
 
 <!--
