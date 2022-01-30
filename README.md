@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 30 - [One More Small Step Toward the Right to Software Repair](https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/)
+- Jan 30 - [Blueberry Earth or “what if the entire Earth was replaced with blueberries?“](https://arxiv.org/abs/1807.10553)
+- Jan 30 - [tofuproxy – web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser](http://www.tofuproxy.stargrave.org/)
 - Jan 30 - [Building single-page-apps with PostgREST](https://blog.polyglot.network/backend.sql-+-frontend.js-love)
 - Jan 30 - [John Locke’s recipe for Pancakes (2021)](https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/)
-- Jan 30 - [Ask HN: At a peak of my dev career, I hate my life](https://news.ycombinator.com/item?id=30132560)
-- Jan 29 - [Phone is still the best way to order pizza](https://dan.bulwinkle.net/blog/phone-is-still-the-best-way-to-order-pizza/)
-- Jan 29 - [PostgreSQL used fsync incorrectly for 20 years (2019) [video]](https://archive.fosdem.org/2019/schedule/event/postgresql_fsync/)
 <!--END_SECTION:hn-->
 
 <!--
