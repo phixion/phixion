@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 31 - [Show HN: Magistrate – Plaintext Legal Contracts for Developers](https://magistrate.khanna.law/)
-- Jan 31 - [Learn Elisp the Hard Way (2011)](https://github.com/hypernumbers/learn_elisp_the_hard_way)
-- Jan 31 - [Xorg update adds touchpad gestures and variable refresh support (2021)](https://lists.x.org/archives/xorg/2021-September/060773.html)
-- Jan 31 - [The Boring Technology Checklist](https://blog.staging.begin.com/posts/2022-01-27-the-boring-technology-checklist)
-- Jan 31 - [Google critiqued the practice of displaying ads above search results](https://twitter.com/krebs_adrian/status/1488173888068542466)
+- Jan 31 - [The unreasonable effectiveness of one-on-ones](https://www.benkuhn.net/11/)
+- Jan 31 - [What is VWRAP? (Linden's ten year old open Virtual World protocol)](https://meadhbh.hamrick.rocks/v2/technical/vwrap/index.html)
+- Jan 31 - [Gains I'm Seeing from My Second Brain Tool](https://joeldare.com/gains-im-seeing-from-my-second-brain-tool.html)
+- Jan 31 - [Sony is buying Bungie, the developer of Destiny and original creator of Halo](https://www.theverge.com/22910846/sony-bungie-acquisition-playstation-destiny-halo)
+- Jan 31 - [Sony to buy video game maker Bungie in $3.6B deal](https://www.cnbc.com/2022/01/31/sony-to-buy-video-game-maker-bungie-in-3point6-billion-deal.html)
 <!--END_SECTION:hn-->
 
 <!--
