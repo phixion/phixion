@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 31 - [Unconscious R&D (2021)](https://subconscious.substack.com/p/unconscious-r-and-d)
-- Jan 30 - [Basic Cryptography – The Vigenere Cipher](https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/)
-- Jan 30 - [America's Favorite Pickup Truck Goes Electric](https://www.newyorker.com/magazine/2022/01/31/americas-favorite-pickup-truck-goes-electric)
-- Jan 30 - [Seattle Telecommunications History Museum](https://www.telcomhistory.org/connections-museum-seattle/)
-- Jan 30 - [Royal Society cautions against censorship of scientific misinformation online](https://royalsociety.org/news/2022/01/scientific-misinformation-report/)
+- Jan 31 - [“This property is home to a decommissioned Atlas F missile silo complex”](https://www.zillow.com/homedetails/2432-Fair-Rd-Abilene-KS-67410/113177058_zpid/)
+- Jan 31 - [Reimagining Chess with AlphaZero](https://cacm.acm.org/magazines/2022/2/258230-reimagining-chess-with-alphazero/fulltext)
+- Jan 31 - [How I Discovered Thousands of Open Databases on AWS](https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32?gi=ba781482d685)
+- Jan 31 - [Mesmerizing Labor](https://daily.jstor.org/mesmerizing-labor/)
+- Jan 31 - [Ylang: Universal Language for eBPF, Stap+, GDB, and More (2021)](https://blog.openresty.com/en/ylang-intro-part4/)
 <!--END_SECTION:hn-->
 
 <!--
