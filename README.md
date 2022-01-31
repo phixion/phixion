@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 30 - [When the algorithm is your boss](https://tribunemag.co.uk/2022/01/amazon-algorithm-human-resource-management-tech-worker-surveillance)
-- Jan 30 - [Why is Harvard astrophysicist Avi Loeb working with ardent UFO believers?](https://www.science.org/content/article/why-is-harvard-astrophysicist-working-with-ufo-buffs)
-- Jan 30 - [Reducing inequality can reverse political polarisation: study](https://www.thesaint.scot/post/university-study-finds-reducing-inequality-can-reverse-political-polarisation)
-- Jan 30 - [Show the case against](https://www.shubhro.com/2022/01/03/show-the-case-against/)
-- Jan 30 - [SBCL: New in Version 2.2.1](http://www.sbcl.org/all-news.html?2.2.1#2.2.1)
+- Jan 31 - [Unconscious R&D (2021)](https://subconscious.substack.com/p/unconscious-r-and-d)
+- Jan 30 - [Basic Cryptography – The Vigenere Cipher](https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/)
+- Jan 30 - [America's Favorite Pickup Truck Goes Electric](https://www.newyorker.com/magazine/2022/01/31/americas-favorite-pickup-truck-goes-electric)
+- Jan 30 - [Seattle Telecommunications History Museum](https://www.telcomhistory.org/connections-museum-seattle/)
+- Jan 30 - [Royal Society cautions against censorship of scientific misinformation online](https://royalsociety.org/news/2022/01/scientific-misinformation-report/)
 <!--END_SECTION:hn-->
 
 <!--
