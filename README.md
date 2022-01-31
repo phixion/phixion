@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 31 - [Generate Static Sites from Markdown Files with Caddy](https://blog.thomaspuppe.de/static-sites-from-markdown-with-caddy-server)
-- Jan 31 - [Examples of common false beliefs in mathematics](https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics)
-- Jan 31 - [Zero-copy network transmission with io_uring (2021)](https://lwn.net/Articles/879724/)
-- Jan 31 - [Decommissioned Atlas F missile silo complex for sale](https://www.zillow.com/homedetails/2432-Fair-Rd-Abilene-KS-67410/113177058_zpid/)
-- Jan 31 - [Reimagining Chess with AlphaZero](https://cacm.acm.org/magazines/2022/2/258230-reimagining-chess-with-alphazero/fulltext)
+- Jan 31 - [Convictional (YC W19) is hiring engineers to build the future of B2B trade Remote](https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3)
+- Jan 31 - [1k-cycle lithium-sulfur battery could quintuple electric vehicle ranges](https://news.umich.edu/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges/)
+- Jan 31 - [The Awk State Machine Parser Pattern (2018)](https://two-wrongs.com/awk-state-machine-parser-pattern.html)
+- Jan 31 - [Finnish diplomats’ phones infected with NSO Group Pegasus spyware](https://www.bleepingcomputer.com/news/security/finnish-diplomats-phones-infected-with-nso-group-pegasus-spyware/)
+- Jan 31 - [Boyfriend Alert](https://github.com/jscd/Boyfriend-Alert)
 <!--END_SECTION:hn-->
 
 <!--
