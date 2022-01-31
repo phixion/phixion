@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 31 - [“This property is home to a decommissioned Atlas F missile silo complex”](https://www.zillow.com/homedetails/2432-Fair-Rd-Abilene-KS-67410/113177058_zpid/)
+- Jan 31 - [Generate Static Sites from Markdown Files with Caddy](https://blog.thomaspuppe.de/static-sites-from-markdown-with-caddy-server)
+- Jan 31 - [Examples of common false beliefs in mathematics](https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics)
+- Jan 31 - [Zero-copy network transmission with io_uring (2021)](https://lwn.net/Articles/879724/)
+- Jan 31 - [Decommissioned Atlas F missile silo complex for sale](https://www.zillow.com/homedetails/2432-Fair-Rd-Abilene-KS-67410/113177058_zpid/)
 - Jan 31 - [Reimagining Chess with AlphaZero](https://cacm.acm.org/magazines/2022/2/258230-reimagining-chess-with-alphazero/fulltext)
-- Jan 31 - [How I Discovered Thousands of Open Databases on AWS](https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32?gi=ba781482d685)
-- Jan 31 - [Mesmerizing Labor](https://daily.jstor.org/mesmerizing-labor/)
-- Jan 31 - [Ylang: Universal Language for eBPF, Stap+, GDB, and More (2021)](https://blog.openresty.com/en/ylang-intro-part4/)
 <!--END_SECTION:hn-->
 
 <!--
