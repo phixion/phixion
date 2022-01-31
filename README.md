@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 31 - [Convictional (YC W19) is hiring engineers to build the future of B2B trade Remote](https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3)
-- Jan 31 - [1k-cycle lithium-sulfur battery could quintuple electric vehicle ranges](https://news.umich.edu/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges/)
-- Jan 31 - [The Awk State Machine Parser Pattern (2018)](https://two-wrongs.com/awk-state-machine-parser-pattern.html)
-- Jan 31 - [Finnish diplomats’ phones infected with NSO Group Pegasus spyware](https://www.bleepingcomputer.com/news/security/finnish-diplomats-phones-infected-with-nso-group-pegasus-spyware/)
-- Jan 31 - [Boyfriend Alert](https://github.com/jscd/Boyfriend-Alert)
+- Jan 31 - [Show HN: Magistrate – Plaintext Legal Contracts for Developers](https://magistrate.khanna.law/)
+- Jan 31 - [Learn Elisp the Hard Way (2011)](https://github.com/hypernumbers/learn_elisp_the_hard_way)
+- Jan 31 - [Xorg update adds touchpad gestures and variable refresh support (2021)](https://lists.x.org/archives/xorg/2021-September/060773.html)
+- Jan 31 - [The Boring Technology Checklist](https://blog.staging.begin.com/posts/2022-01-27-the-boring-technology-checklist)
+- Jan 31 - [Google critiqued the practice of displaying ads above search results](https://twitter.com/krebs_adrian/status/1488173888068542466)
 <!--END_SECTION:hn-->
 
 <!--
