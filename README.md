@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 01 - [Free Wordle](https://wordle.nyc/)
-- Feb 01 - [You can now send replies from your Duck Addresses](https://duckduckgo.com/email/faq)
-- Feb 01 - [Generally Intelligent (YC S17) Is Hiring Systems Engineers (Remote, SF)](https://news.ycombinator.com/item?id=30158223)
-- Feb 01 - [Why does my diet soda taste off? Aspartame hydrolysis](https://foodscienceinstitute.com/2022/01/31/why-does-my-diet-soda-taste-off/)
-- Feb 01 - [Koenigsegg's Tiny Electric Motor Makes 335 HP and 443 LB-FT of Torque](https://www.roadandtrack.com/news/a38940998/koenigsegg-quark-electric-motor/)
+- Feb 01 - [Nearly 1k mysterious strands revealed in Milky Way’s center](https://news.northwestern.edu/stories/2022/01/nearly-1000-mysterious-strands-revealed-in-milky-ways-center/)
+- Feb 01 - [Ask HN: Should HN users be incentivized to use/visit newest submissions?](https://news.ycombinator.com/item?id=30159462)
+- Feb 01 - [The Problem with C](https://cor3ntin.github.io/posts/c/)
+- Feb 01 - [Fourth journalist killed in Mexico this year](https://www.axios.com/fourth-journalist-killed-mexico-january-2022-f71e872d-ddee-452e-9ed4-e7ba5c13a86e.html)
+- Feb 01 - [Most websites are implicitly designed with a short lifetime](https://utcc.utoronto.ca/~cks/space/blog/web/WebsiteShortDesignLifetime?showcomments)
 <!--END_SECTION:hn-->
 
 <!--
