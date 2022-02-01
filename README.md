@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 01 - [Tesla to recall nearly 54,000 vehicles that may disobey stop signs](https://www.reuters.com/business/autos-transportation/tesla-recalls-nearly-54000-us-vehicles-rolling-stop-software-feature-2022-02-01/)
-- Feb 01 - [Ask HN: Who is hiring? (February 2022)](https://news.ycombinator.com/item?id=30164271)
-- Feb 01 - [Ask HN: Who wants to be hired? (February 2022)](https://news.ycombinator.com/item?id=30164269)
-- Feb 01 - [MariaDB to go public at $672M valuation](https://mariadb.com/newsroom/press-releases/mariadb-corporation-ab-to-become-a-publicly-traded-company-via-combination-with-angel-pond-holdings-corporation/)
-- Feb 01 - [Career Advice Nobody Gave Me: Never Ignore a Recruiter](https://alexchesser.medium.com/career-advice-nobody-gave-me-never-ignore-a-recruiter-4474eac9556)
+- Feb 01 - [Mozilla is bringing popular privacy features to its desktop and mobile VPN](https://blog.mozilla.org/en/products/mozilla-vpn/multi-account-containers-add-on-on-mozilla-vpn/)
+- Feb 01 - [Furiosa's Cat Feeder](https://blondihacks.com/furiosas-cat-feeder/)
+- Feb 01 - [WebVM: Server-less x86 virtual machines in the browser](https://leaningtech.com/webvm-server-less-x86-virtual-machines-in-the-browser/)
+- Feb 01 - [Israel Rolls Out Laser Defense System](https://www.reuters.com/world/middle-east/israel-speeds-roll-out-laser-based-defence-systems-bennett-says-2022-02-01/)
+- Feb 01 - [Critical Samba flaw presents code execution threat](https://portswigger.net/daily-swig/critical-samba-flaw-presents-code-execution-threat)
 <!--END_SECTION:hn-->
 
 <!--
