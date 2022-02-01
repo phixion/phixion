@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 31 - [The unreasonable effectiveness of one-on-ones](https://www.benkuhn.net/11/)
-- Jan 31 - [What is VWRAP? (Linden's ten year old open Virtual World protocol)](https://meadhbh.hamrick.rocks/v2/technical/vwrap/index.html)
-- Jan 31 - [Gains I'm Seeing from My Second Brain Tool](https://joeldare.com/gains-im-seeing-from-my-second-brain-tool.html)
-- Jan 31 - [Sony is buying Bungie, the developer of Destiny and original creator of Halo](https://www.theverge.com/22910846/sony-bungie-acquisition-playstation-destiny-halo)
-- Jan 31 - [Sony to buy video game maker Bungie in $3.6B deal](https://www.cnbc.com/2022/01/31/sony-to-buy-video-game-maker-bungie-in-3point6-billion-deal.html)
+- Feb 01 - [Show HN: Colab-xterm – Open a terminal in colab, including the free tier](https://github.com/InfuseAI/colab-xterm)
+- Feb 01 - [Man found guilty of ‘grossly offensive’ tweet](https://news.stv.tv/west-central/man-found-guilty-of-grossly-offensive-captain-tom-tweet)
+- Feb 01 - [Bottles – Run Windows software and games on Linux](https://github.com/bottlesdevs/Bottles)
+- Jan 31 - [A short introduction to the undeciphered Aegean writing systems](https://itsallgreektoanna.wordpress.com/2019/01/29/a-very-short-introduction-to-the-undeciphered-aegean-writing-systems/)
+- Jan 31 - [Yggdrasil P2P mesh E2EE IPv6 network](https://yggdrasil-network.github.io/)
 <!--END_SECTION:hn-->
 
 <!--
