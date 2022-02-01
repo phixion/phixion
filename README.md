@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 01 - [The Muse (YC W12) Is Hiring a Senior React Engineer](https://www.themuse.com/jobs/themuse/senior-react-engineer)
-- Feb 01 - [Austrian DPA Ruling Against Google Paves the Way to EU-Based Cloud Services](https://www.infoq.com/news/2022/01/austrian-privacy-gdpr-google/)
-- Feb 01 - [Ask HN: How do you explain the sloppiness of modern software?](https://news.ycombinator.com/item?id=30160282)
-- Feb 01 - [Installing Every Arch Package](https://ta180m.exozy.me/posts/installing-every-arch-package/)
-- Feb 01 - [How to Explain an Idea](https://www.markpollard.net/how-to-explain-an-idea/)
+- Feb 01 - [Tesla to recall nearly 54,000 vehicles that may disobey stop signs](https://www.reuters.com/business/autos-transportation/tesla-recalls-nearly-54000-us-vehicles-rolling-stop-software-feature-2022-02-01/)
+- Feb 01 - [Ask HN: Who is hiring? (February 2022)](https://news.ycombinator.com/item?id=30164271)
+- Feb 01 - [Ask HN: Who wants to be hired? (February 2022)](https://news.ycombinator.com/item?id=30164269)
+- Feb 01 - [MariaDB to go public at $672M valuation](https://mariadb.com/newsroom/press-releases/mariadb-corporation-ab-to-become-a-publicly-traded-company-via-combination-with-angel-pond-holdings-corporation/)
+- Feb 01 - [Career Advice Nobody Gave Me: Never Ignore a Recruiter](https://alexchesser.medium.com/career-advice-nobody-gave-me-never-ignore-a-recruiter-4474eac9556)
 <!--END_SECTION:hn-->
 
 <!--
