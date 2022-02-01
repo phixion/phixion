@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 01 - [Nearly 1k mysterious strands revealed in Milky Way’s center](https://news.northwestern.edu/stories/2022/01/nearly-1000-mysterious-strands-revealed-in-milky-ways-center/)
-- Feb 01 - [Ask HN: Should HN users be incentivized to use/visit newest submissions?](https://news.ycombinator.com/item?id=30159462)
-- Feb 01 - [The Problem with C](https://cor3ntin.github.io/posts/c/)
-- Feb 01 - [Fourth journalist killed in Mexico this year](https://www.axios.com/fourth-journalist-killed-mexico-january-2022-f71e872d-ddee-452e-9ed4-e7ba5c13a86e.html)
-- Feb 01 - [Most websites are implicitly designed with a short lifetime](https://utcc.utoronto.ca/~cks/space/blog/web/WebsiteShortDesignLifetime?showcomments)
+- Feb 01 - [The Muse (YC W12) Is Hiring a Senior React Engineer](https://www.themuse.com/jobs/themuse/senior-react-engineer)
+- Feb 01 - [Austrian DPA Ruling Against Google Paves the Way to EU-Based Cloud Services](https://www.infoq.com/news/2022/01/austrian-privacy-gdpr-google/)
+- Feb 01 - [Ask HN: How do you explain the sloppiness of modern software?](https://news.ycombinator.com/item?id=30160282)
+- Feb 01 - [Installing Every Arch Package](https://ta180m.exozy.me/posts/installing-every-arch-package/)
+- Feb 01 - [How to Explain an Idea](https://www.markpollard.net/how-to-explain-an-idea/)
 <!--END_SECTION:hn-->
 
 <!--
