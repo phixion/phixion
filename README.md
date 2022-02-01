@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 01 - [Show HN: Colab-xterm – Open a terminal in colab, including the free tier](https://github.com/InfuseAI/colab-xterm)
-- Feb 01 - [Man found guilty of ‘grossly offensive’ tweet](https://news.stv.tv/west-central/man-found-guilty-of-grossly-offensive-captain-tom-tweet)
-- Feb 01 - [Bottles – Run Windows software and games on Linux](https://github.com/bottlesdevs/Bottles)
-- Jan 31 - [A short introduction to the undeciphered Aegean writing systems](https://itsallgreektoanna.wordpress.com/2019/01/29/a-very-short-introduction-to-the-undeciphered-aegean-writing-systems/)
-- Jan 31 - [Yggdrasil P2P mesh E2EE IPv6 network](https://yggdrasil-network.github.io/)
+- Feb 01 - [Free Wordle](https://wordle.nyc/)
+- Feb 01 - [You can now send replies from your Duck Addresses](https://duckduckgo.com/email/faq)
+- Feb 01 - [Generally Intelligent (YC S17) Is Hiring Systems Engineers (Remote, SF)](https://news.ycombinator.com/item?id=30158223)
+- Feb 01 - [Why does my diet soda taste off? Aspartame hydrolysis](https://foodscienceinstitute.com/2022/01/31/why-does-my-diet-soda-taste-off/)
+- Feb 01 - [Koenigsegg's Tiny Electric Motor Makes 335 HP and 443 LB-FT of Torque](https://www.roadandtrack.com/news/a38940998/koenigsegg-quark-electric-motor/)
 <!--END_SECTION:hn-->
 
 <!--
