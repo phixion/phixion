@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 02 - [MagicBell (YC W21) Is Hiring a Founding Ruby on Rails Engineer [Remote]](https://www.magicbell.com/careers/Founding-Backend-Engineer-Async-Remote)
-- Feb 02 - [LibreOffice 7.3](https://blog.documentfoundation.org/blog/2022/02/02/libreoffice-73-community/)
-- Feb 02 - [Show HN: A daily math puzzle inspired by wordle](https://www.mathler.com/)
-- Feb 02 - [Show HN: What do you think of my new social app?](https://news.ycombinator.com/item?id=30175863)
-- Feb 02 - [Retrospective and Technical Details on the Recent Firefox Outage](https://hacks.mozilla.org/2022/02/retrospective-and-technical-details-on-the-recent-firefox-outage/)
+- Feb 02 - [Competitive Programming with AlphaCode](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode)
+- Feb 02 - [Failing to Reach 204 GB/S DDR4 Bandwidth](https://unum.cloud/post/2022-01-29-ddr4/)
+- Feb 02 - [Why and How I Got My Own ASN](https://chown.me/blog/getting-my-own-asn)
+- Feb 02 - [Show HN: Just Launched an App for Dads](https://news.ycombinator.com/item?id=30178571)
+- Feb 02 - [Heroku Is Down](https://status.heroku.com/)
 <!--END_SECTION:hn-->
 
 <!--
