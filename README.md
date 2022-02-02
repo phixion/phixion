@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 02 - [An introduction to type programming in TypeScript – zhenghao](https://www.zhenghao.io/posts/type-programming)
-- Feb 02 - [OCaml Labs Joins Tarides](https://tarides.com/blog/2022-01-27-ocaml-labs-joins-tarides/)
+- Feb 02 - [AdaCore and Ferrous Systems Joining Forces to Support Rust](https://blog.adacore.com/adacore-and-ferrous-systems-joining-forces-to-support-rust)
+- Feb 02 - [A Wordle clone in 50 lines of Bash](https://gist.github.com/huytd/6a1a6a7b34a0d0abcac00b47e3d01513)
+- Feb 02 - [An introduction to type programming in TypeScript](https://www.zhenghao.io/posts/type-programming)
 - Feb 02 - [mmWave radar, you won't see it coming](https://www.joshhorne.com/mmwave-radar-and-ambient-computing/)
-- Feb 02 - [Running Lisp in Production – Grammarly Engineering Blog](https://www.grammarly.com/blog/engineering/running-lisp-in-production/)
-- Feb 02 - [The complicated futility of WordPress](https://coderjerk.com/the-complicated-futility-of-wordpress/)
+- Feb 02 - [Running Lisp in Production (2020)](https://www.grammarly.com/blog/engineering/running-lisp-in-production/)
 <!--END_SECTION:hn-->
 
 <!--
