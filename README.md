@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 01 - [Mozilla is bringing popular privacy features to its desktop and mobile VPN](https://blog.mozilla.org/en/products/mozilla-vpn/multi-account-containers-add-on-on-mozilla-vpn/)
-- Feb 01 - [Furiosa's Cat Feeder](https://blondihacks.com/furiosas-cat-feeder/)
-- Feb 01 - [WebVM: Server-less x86 virtual machines in the browser](https://leaningtech.com/webvm-server-less-x86-virtual-machines-in-the-browser/)
-- Feb 01 - [Israel Rolls Out Laser Defense System](https://www.reuters.com/world/middle-east/israel-speeds-roll-out-laser-based-defence-systems-bennett-says-2022-02-01/)
-- Feb 01 - [Critical Samba flaw presents code execution threat](https://portswigger.net/daily-swig/critical-samba-flaw-presents-code-execution-threat)
+- Feb 01 - [Analysis of Magic Leap 2 at SPIE AR/VR/Mr 2022](https://kguttag.com/2022/01/31/magic-leap-2-at-spie-ar-vr-mr-2022/)
+- Feb 01 - [America’s Covid job-saving programme gave most of its cash to the rich](https://www.economist.com/graphic-detail/2022/01/31/americas-covid-job-saving-programme-gave-most-of-its-cash-to-the-rich)
+- Feb 01 - [Twitter stores original account names, dox vulnerability via Twitter Spaces](https://twitter.com/tszzl/status/1488466979799265281)
+- Feb 01 - [A DNS resolver in 80 lines of Go](https://jvns.ca/blog/2022/02/01/a-dns-resolver-in-80-lines-of-go/)
+- Feb 01 - [Alphabet Announces Fourth Quarter and Fiscal Year 2021 Results](https://abc.xyz/investor/static/pdf/2021Q4_alphabet_earnings_release.pdf?cache=d72fc76)
 <!--END_SECTION:hn-->
 
 <!--
