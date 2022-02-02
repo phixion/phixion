@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 02 - [AdaCore and Ferrous Systems Joining Forces to Support Rust](https://blog.adacore.com/adacore-and-ferrous-systems-joining-forces-to-support-rust)
-- Feb 02 - [A Wordle clone in 50 lines of Bash](https://gist.github.com/huytd/6a1a6a7b34a0d0abcac00b47e3d01513)
-- Feb 02 - [An introduction to type programming in TypeScript](https://www.zhenghao.io/posts/type-programming)
-- Feb 02 - [mmWave radar, you won't see it coming](https://www.joshhorne.com/mmwave-radar-and-ambient-computing/)
-- Feb 02 - [Running Lisp in Production (2020)](https://www.grammarly.com/blog/engineering/running-lisp-in-production/)
+- Feb 02 - [MagicBell (YC W21) Is Hiring a Founding Ruby on Rails Engineer [Remote]](https://www.magicbell.com/careers/Founding-Backend-Engineer-Async-Remote)
+- Feb 02 - [LibreOffice 7.3](https://blog.documentfoundation.org/blog/2022/02/02/libreoffice-73-community/)
+- Feb 02 - [Show HN: A daily math puzzle inspired by wordle](https://www.mathler.com/)
+- Feb 02 - [Show HN: What do you think of my new social app?](https://news.ycombinator.com/item?id=30175863)
+- Feb 02 - [Retrospective and Technical Details on the Recent Firefox Outage](https://hacks.mozilla.org/2022/02/retrospective-and-technical-details-on-the-recent-firefox-outage/)
 <!--END_SECTION:hn-->
 
 <!--
