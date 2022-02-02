@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 02 - [Competitive Programming with AlphaCode](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode)
-- Feb 02 - [Failing to Reach 204 GB/S DDR4 Bandwidth](https://unum.cloud/post/2022-01-29-ddr4/)
-- Feb 02 - [Why and How I Got My Own ASN](https://chown.me/blog/getting-my-own-asn)
-- Feb 02 - [Show HN: Just Launched an App for Dads](https://news.ycombinator.com/item?id=30178571)
-- Feb 02 - [Heroku Is Down](https://status.heroku.com/)
+- Feb 02 - [Rustenstein 3D: Game programming like it's 1992](https://tech.nextroll.com/blog/dev/2022/02/02/rustenstein.html)
+- Feb 02 - [New material that can absorb and release enormous amounts of energy](https://phys.org/news/2022-02-scientists-material-absorb-enormous-amounts.html)
+- Feb 02 - [Normalized crash data shows Autopilot is much less safe than Tesla claims](https://twitter.com/Tweetermeyer/status/1488673180403191808)
+- Feb 02 - [Launch HN: Sieve (YC W22) – Pluggable APIs for Video Search](https://sievedata.com/)
+- Feb 02 - [Solving some formal math olympiad problems](https://openai.com/blog/formal-math/)
 <!--END_SECTION:hn-->
 
 <!--
