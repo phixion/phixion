@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 03 - [Show HN: I made a little digital circuit simulator that operates on PNGs](https://github.com/lynnpepin/reso)
-- Feb 03 - [Ask HN: General Mood of the Community](https://news.ycombinator.com/item?id=30193946)
-- Feb 03 - [Building a Modern Home in the woods](https://johnnyrodgers.is/building-a-modern-home)
-- Feb 03 - [Electricity Prices Are a Lie](https://climateer.substack.com/p/price-lies)
-- Feb 03 - [Why semi-trucks in US and Europe are so different?](https://nodum.org/why-semi-trucks-in-us-and-europe-are-so-different/)
+- Feb 03 - [Systemd by example – Part 1: Minimization](https://seb.jambor.dev/posts/systemd-by-example-part-1-minimization/)
+- Feb 03 - [Silenced AirTags with disabled speakers are popping up for sale online](https://gizmodo.com/silenced-airtags-with-disabled-speakers-for-sale-online-1848473673)
+- Feb 03 - [Wormhole confirms all $320M in funds have been restored](https://finbold.com/wormhole-confirms-all-300-million-in-funds-have-been-restored/)
+- Feb 03 - [I hacked SONOS and YouTube the same day](https://www.deadf00d.com/post/how-i-hacked-sonos-and-youtube-the-same-day.html)
+- Feb 03 - [Launch HN: Ploomber (YC W22) – Quickly deploy data pipelines from Jupyter/VSCode](https://github.com/ploomber/ploomber)
 <!--END_SECTION:hn-->
 
 <!--
