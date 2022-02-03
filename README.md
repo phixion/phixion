@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 03 - [Mississippi is 37th state to legalize medical marijuana](https://www.npr.org/2022/02/02/1077784525/mississippi-becomes-the-37th-state-to-legalize-medical-marijuana)
-- Feb 03 - [Iowa man convicted of lottery rigging scheme granted parole](https://www.pahomepage.com/news/national/iowa-man-convicted-of-lottery-rigging-scheme-granted-parole/)
-- Feb 03 - [Rebelle: Experimental online paint software](https://www.escapemotions.com/products/rebelle/try/)
-- Feb 03 - [Flexport is hiring engineers to uncork global supply chains](https://Flexport.com/careers)
-- Feb 03 - [In second largest DeFi hack, Blockchain Bridge loses $320M Ether](https://blockworks.co/in-second-largest-defi-hack-ever-blockchain-bridge-loses-320m-ether/)
+- Feb 03 - [Top Chess Engine Championship](https://tcec-chess.com/)
+- Feb 03 - [A home made PCB stepper motor](https://kevinlynagh.com/pcb-stepper/)
+- Feb 03 - [Gee, I wonder how Apple Podcasts suddenly became a five-star app](https://www.theverge.com/2022/2/2/22914612/apple-podcasts-app-rating-user-reviews-problem)
+- Feb 03 - [Try Turris Omnia, the open source router](https://opensource.com/article/22/1/turris-omnia-open-source-router)
+- Feb 03 - [Optimizing GoAWK with a bytecode compiler and virtual machine](https://benhoyt.com/writings/goawk-compiler-vm/)
 <!--END_SECTION:hn-->
 
 <!--
