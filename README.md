@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 02 - [Rustenstein 3D: Game programming like it's 1992](https://tech.nextroll.com/blog/dev/2022/02/02/rustenstein.html)
-- Feb 02 - [New material that can absorb and release enormous amounts of energy](https://phys.org/news/2022-02-scientists-material-absorb-enormous-amounts.html)
-- Feb 02 - [Normalized crash data shows Autopilot is much less safe than Tesla claims](https://twitter.com/Tweetermeyer/status/1488673180403191808)
-- Feb 02 - [Launch HN: Sieve (YC W22) – Pluggable APIs for Video Search](https://sievedata.com/)
-- Feb 02 - [Solving some formal math olympiad problems](https://openai.com/blog/formal-math/)
+- Feb 03 - [The Sumerian Game](https://en.wikipedia.org/wiki/The_Sumerian_Game)
+- Feb 02 - [Show HN: Find alternatives to almost any popular GitHub repo](https://news.ycombinator.com/item?id=30185599)
+- Feb 02 - [Cocktail party ideas](https://danluu.com/cocktail-ideas/)
+- Feb 02 - [Meta shares drop 20% on Q4 earnings miss, weak outlook](https://www.nasdaq.com/articles/facebook-parent-meta-platforms-shares-tank-20-on-q4-earnings-miss-weak-outlook)
+- Feb 02 - [Impacts Of Lack Of Sleep](https://belkarx.github.io/posts/finished/Impacts%20Of%20Lack%20Of%20Sleep.html)
 <!--END_SECTION:hn-->
 
 <!--
