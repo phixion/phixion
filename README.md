@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 03 - [Ask HN: What do you do and what's your consulting rate?](https://news.ycombinator.com/item?id=30188101)
-- Feb 03 - [Iowa man convicted of defrauding lottery with predictive code granted parole](https://www.pahomepage.com/news/national/iowa-man-convicted-of-lottery-rigging-scheme-granted-parole/)
-- Feb 03 - [Flexport Is Hiring Engineers to Uncork Global Supply Chains](https://Flexport.com/careers)
-- Feb 03 - [In Second Largest DeFi Hack Ever, Blockchain Bridge Loses $320M Ether](https://blockworks.co/in-second-largest-defi-hack-ever-blockchain-bridge-loses-320m-ether/)
-- Feb 03 - [Starlink adds another 100Gbps connection to the SeattleIX](https://www.seattleix.net/participant-updates)
+- Feb 03 - [Mississippi is 37th state to legalize medical marijuana](https://www.npr.org/2022/02/02/1077784525/mississippi-becomes-the-37th-state-to-legalize-medical-marijuana)
+- Feb 03 - [Iowa man convicted of lottery rigging scheme granted parole](https://www.pahomepage.com/news/national/iowa-man-convicted-of-lottery-rigging-scheme-granted-parole/)
+- Feb 03 - [Rebelle: Experimental online paint software](https://www.escapemotions.com/products/rebelle/try/)
+- Feb 03 - [Flexport is hiring engineers to uncork global supply chains](https://Flexport.com/careers)
+- Feb 03 - [In second largest DeFi hack, Blockchain Bridge loses $320M Ether](https://blockworks.co/in-second-largest-defi-hack-ever-blockchain-bridge-loses-320m-ether/)
 <!--END_SECTION:hn-->
 
 <!--
