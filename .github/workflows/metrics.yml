@@ -3,8 +3,6 @@ name: Metrics
 on:
   schedule:
     - cron: "0 */4 * * *"
-  workflow_dispatch:
-  push: { branches: ["main"] }
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
