@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 03 - [Systemd by example – Part 1: Minimization](https://seb.jambor.dev/posts/systemd-by-example-part-1-minimization/)
-- Feb 03 - [Silenced AirTags with disabled speakers are popping up for sale online](https://gizmodo.com/silenced-airtags-with-disabled-speakers-for-sale-online-1848473673)
-- Feb 03 - [Wormhole confirms all $320M in funds have been restored](https://finbold.com/wormhole-confirms-all-300-million-in-funds-have-been-restored/)
-- Feb 03 - [I hacked SONOS and YouTube the same day](https://www.deadf00d.com/post/how-i-hacked-sonos-and-youtube-the-same-day.html)
-- Feb 03 - [Launch HN: Ploomber (YC W22) – Quickly deploy data pipelines from Jupyter/VSCode](https://github.com/ploomber/ploomber)
+- Feb 03 - [Compensation Data and Trends in the USA](https://dataforest.sequoia.com/reports/compensation/)
+- Feb 03 - [Slackware 15.0](http://www.slackware.com/releasenotes/15.0.php)
+- Feb 03 - [Openbase (YC S20) Is Hiring](https://www.ycombinator.com/companies/openbase/jobs/G21nU8U-community-manager)
+- Feb 03 - [Dip Switch USB Stick](https://twitter.com/bikerglen/status/1482516332432162820)
+- Feb 03 - [The Karikó problem: Lessons for funding basic research](https://www.statnews.com/2022/02/01/kariko-problem-lessons-funding-basic-research/)
 <!--END_SECTION:hn-->
 
 <!--
