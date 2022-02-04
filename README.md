@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 04 - [Uyghur kids detail abuse at China's boarding schools in Xinjiang](https://www.npr.org/2022/02/03/1073793823/china-uyghur-children-xinjiang-boarding-school)
+- Feb 04 - [Software correctness is a lot like flossing](https://www.hillelwayne.com/post/flossing/)
+- Feb 04 - [Go performance from version 1.2 to 1.18](https://benhoyt.com/writings/go-version-performance/)
+- Feb 04 - [Gameboy Emulator in ARM Assembly](https://github.com/cottsay/arm_asm_emu)
 - Feb 03 - [Compensation Data and Trends in the USA](https://dataforest.sequoia.com/reports/compensation/)
-- Feb 03 - [Slackware 15.0](http://www.slackware.com/releasenotes/15.0.php)
-- Feb 03 - [Openbase (YC S20) Is Hiring](https://www.ycombinator.com/companies/openbase/jobs/G21nU8U-community-manager)
-- Feb 03 - [Dip Switch USB Stick](https://twitter.com/bikerglen/status/1482516332432162820)
-- Feb 03 - [The Karikó problem: Lessons for funding basic research](https://www.statnews.com/2022/02/01/kariko-problem-lessons-funding-basic-research/)
 <!--END_SECTION:hn-->
 
 <!--
