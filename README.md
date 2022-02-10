@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 04 - [Uyghur kids detail abuse at China's boarding schools in Xinjiang](https://www.npr.org/2022/02/03/1073793823/china-uyghur-children-xinjiang-boarding-school)
-- Feb 04 - [Software correctness is a lot like flossing](https://www.hillelwayne.com/post/flossing/)
-- Feb 04 - [Go performance from version 1.2 to 1.18](https://benhoyt.com/writings/go-version-performance/)
-- Feb 04 - [Gameboy Emulator in ARM Assembly](https://github.com/cottsay/arm_asm_emu)
-- Feb 03 - [Compensation Data and Trends in the USA](https://dataforest.sequoia.com/reports/compensation/)
+- Feb 10 - [Twitter is down 10.4% since IPO in 2013](https://www.google.com/finance/quote/TWTR:NYSE)
+- Feb 10 - [Twitter misses ad revenue and user growth estimates](https://www.reuters.com/technology/twitter-misses-ad-revenue-user-growth-estimates-revenue-forecast-light-2022-02-10/)
+- Feb 10 - [Show HN: EdgeDB 1.0](https://www.edgedb.com/blog/edgedb-1-0)
+- Feb 10 - [Have we been thinking about inflation all wrong?](https://thewalrus.ca/have-we-been-thinking-about-inflation-all-wrong/)
+- Feb 10 - [A look inside the chips that powered the landmark Polaroid SX-70 instant camera](https://www.righto.com/2022/02/a-look-inside-chips-that-powered.html)
 <!--END_SECTION:hn-->
 
 <!--
