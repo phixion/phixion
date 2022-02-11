@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 10 - [Twitter is down 10.4% since IPO in 2013](https://www.google.com/finance/quote/TWTR:NYSE)
-- Feb 10 - [Twitter misses ad revenue and user growth estimates](https://www.reuters.com/technology/twitter-misses-ad-revenue-user-growth-estimates-revenue-forecast-light-2022-02-10/)
-- Feb 10 - [Show HN: EdgeDB 1.0](https://www.edgedb.com/blog/edgedb-1-0)
-- Feb 10 - [Have we been thinking about inflation all wrong?](https://thewalrus.ca/have-we-been-thinking-about-inflation-all-wrong/)
-- Feb 10 - [A look inside the chips that powered the landmark Polaroid SX-70 instant camera](https://www.righto.com/2022/02/a-look-inside-chips-that-powered.html)
+- Feb 11 - [Atlas (YC W22) Is Hiring – UIUX Designer](https://www.ycombinator.com/companies/atlas/jobs/jYQdJWU-uiux-designer)
+- Feb 10 - [Case against OOP is understated, not overstated (2020)](https://boxbase.org/entries/2020/aug/3/case-against-oop/)
+- Feb 10 - [Australian spy agency disrupts foreign election interference](https://mainichi.jp/english/articles/20220210/p2g/00m/0in/042000c)
+- Feb 10 - [Wordle Now Redirects to NYT](https://news.ycombinator.com/item?id=30293297)
+- Feb 10 - [Cloudflare announces fourth quarter and fiscal year 2021 financial results](https://cloudflare.net/news/news-details/2022/Cloudflare-Announces-Fourth-Quarter-and-Fiscal-Year-2021-Financial-Results/default.aspx)
 <!--END_SECTION:hn-->
 
 <!--
