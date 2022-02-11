@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 11 - [Atlas (YC W22) Is Hiring – UIUX Designer](https://www.ycombinator.com/companies/atlas/jobs/jYQdJWU-uiux-designer)
-- Feb 10 - [Case against OOP is understated, not overstated (2020)](https://boxbase.org/entries/2020/aug/3/case-against-oop/)
-- Feb 10 - [Australian spy agency disrupts foreign election interference](https://mainichi.jp/english/articles/20220210/p2g/00m/0in/042000c)
-- Feb 10 - [Wordle Now Redirects to NYT](https://news.ycombinator.com/item?id=30293297)
-- Feb 10 - [Cloudflare announces fourth quarter and fiscal year 2021 financial results](https://cloudflare.net/news/news-details/2022/Cloudflare-Announces-Fourth-Quarter-and-Fiscal-Year-2021-Financial-Results/default.aspx)
+- Feb 11 - [Troubleshooting a Hairy PostgreSQL Incident - War Story](https://ardentperf.com/2022/02/10/a-hairy-postgresql-incident/)
+- Feb 11 - [Key senators have voted for the anti-encryption EARN IT act](https://www.eff.org/deeplinks/2022/02/key-senators-have-voted-anti-encryption-earn-it-act)
+- Feb 11 - [Starship Update](https://www.youtube.com/watch?v=3N7L8Xhkzqo)
+- Feb 11 - [Chess Minigames for Enjoyable Learning [pdf]](https://andytrattner.com/img/pdf/enjoy-chess.pdf)
+- Feb 11 - [The Invention of Battlezone (1982)](https://spectrum.ieee.org/battlezone)
 <!--END_SECTION:hn-->
 
 <!--
