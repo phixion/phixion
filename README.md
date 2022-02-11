@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 11 - [Show HN: Windi – knowledge management and sharing platform based on short notes](https://windi.app/)
-- Feb 11 - [IBM Plex Typeface](https://www.ibm.com/plex/)
-- Feb 11 - [Two Sparsities Are Better Than One:Performance Benefits of Sparse-Sparse Network](https://arxiv.org/abs/2112.13896)
-- Feb 11 - [An Infinitely Large Napkin [pdf]](https://venhance.github.io/napkin/Napkin.pdf)
-- Feb 11 - [Long-standing literary magazines are struggling to stay afloat](https://www.cnn.com/style/article/the-believer-literary-magazines-closing-down-struggling-cec/index.html)
+- Feb 11 - [Launch HN: Anja Health (YC W22) – Freezing stem cells at birth for future health](https://anjahealth.com)
+- Feb 11 - [Mozilla Partners with Meta on Privacy Preserving Attribution for Advertising](https://blog.mozilla.org/en/mozilla/privacy-preserving-attribution-for-advertising/)
+- Feb 11 - [Show HN: MemSafeCrypto, Java cryptography primitives using DirectByteBuffer](https://github.com/andy-goryachev/MemSafeCrypto)
+- Feb 11 - [CVE-2022-0435: A Remote Stack Overflow in the Linux Kernel](https://www.openwall.com/lists/oss-security/2022/02/10/1)
+- Feb 11 - [Lasershark: Fast, bidirectional communication into air-gapped systems](https://intellisec.de/research/lasershark/)
 <!--END_SECTION:hn-->
 
 <!--
