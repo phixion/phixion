@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 11 - [Replit (YC W18) Is Hiring Engineers to Make Delightful Programming Environments](https://replit.com/careers)
-- Feb 11 - [YSFlight – The only free flight simulator where anything is possible](https://ysflight.org/)
-- Feb 11 - [Switching Rich Text Editors, Part 1: Picking Tiptap](https://www.ashbyhq.com/blog/company/tiptap-part-1)
-- Feb 11 - [Migrating from Netlify to Cloudflare Workers Sites for 2x Performance (2020)](https://brianli.com/migrating-from-netlify-to-cloudflare-workers-sites-for-2x-performance/)
-- Feb 11 - [Nike.com's robots.txt](https://www.nike.com/robots.txt)
+- Feb 11 - [Show HN: Windi – knowledge management and sharing platform based on short notes](https://windi.app/)
+- Feb 11 - [IBM Plex Typeface](https://www.ibm.com/plex/)
+- Feb 11 - [Two Sparsities Are Better Than One:Performance Benefits of Sparse-Sparse Network](https://arxiv.org/abs/2112.13896)
+- Feb 11 - [An Infinitely Large Napkin [pdf]](https://venhance.github.io/napkin/Napkin.pdf)
+- Feb 11 - [Long-standing literary magazines are struggling to stay afloat](https://www.cnn.com/style/article/the-believer-literary-magazines-closing-down-struggling-cec/index.html)
 <!--END_SECTION:hn-->
 
 <!--
