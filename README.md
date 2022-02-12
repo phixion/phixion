@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 12 - [The complete idiot's guide to OpenBSD on the Pinebook Pro](https://tomscii.sig7.se/2022/02/Guide-to-OpenBSD-on-the-PinebookPro)
-- Feb 12 - [Etleap (YC W13) Is Hiring a Software Engineer (San Francisco / London)](https://etleap.com/jobs/#software-engineer)
-- Feb 12 - [The Unreasonableness of Math Is Context Independence](https://bellmar.medium.com/the-unreasonableness-of-math-is-context-independence-6826fd5f3515)
-- Feb 12 - [Nearly a third of TV ads play to empty rooms](https://news.cornell.edu/stories/2022/02/nearly-third-tv-ads-play-empty-rooms)
-- Feb 12 - [Adobe XD, where did it go wrong?](https://www.goodlookingdesign.co.uk/blog/adobe-xd-where-did-it-go-wrong/)
+- Feb 12 - [Bloom Institute of Technology (YC S17) Is Hiring a Senior Salesforce Engineer](https://jobs.lever.co/BloomTech/b6130b48-dabf-4c8d-bf07-0b6614c6ae94)
+- Feb 12 - [Discord is a black hole for information](https://knockout.chat/thread/33251/1#post-1176126)
+- Feb 12 - [Git in one image](https://raw.githubusercontent.com/JannikArndt/git-in-one-image/master/git-in-one-image.svg)
+- Feb 12 - [NFT marketplace shuts, citing 'rampant' fakes, plagiarism problem](https://www.reuters.com/business/finance/nft-marketplace-shuts-citing-rampant-fakes-plagiarism-problem-2022-02-11/)
+- Feb 12 - [All you should know about Flutter development](https://github.com/nepaul/awesome-flutter)
 <!--END_SECTION:hn-->
 
 <!--
