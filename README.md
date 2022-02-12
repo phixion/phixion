@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 12 - [Incident: Air Asia A320 near Kuching on Feb 10th 2022, snake on the plane](https://avherald.com/h?article=4f47cac0)
-- Feb 12 - [Lingua-Go, the most accurate language detection for Go](https://github.com/pemistahl/lingua-go)
-- Feb 12 - [DoltLab v0.2.0](https://www.dolthub.com/blog/2022-02-11-announcing-doltlab-v0.2.0/)
-- Feb 12 - [AWS Announces the General Availability of AWS CloudFormation Hooks](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-announces-general-availability-aws-cloudformation-hooks/)
-- Feb 12 - [CAD files for the external shell (surface topology) of Steam Deck](https://gitlab.steamos.cloud/SteamDeck/hardware)
+- Feb 12 - [The complete idiot's guide to OpenBSD on the Pinebook Pro](https://tomscii.sig7.se/2022/02/Guide-to-OpenBSD-on-the-PinebookPro)
+- Feb 12 - [Etleap (YC W13) Is Hiring a Software Engineer (San Francisco / London)](https://etleap.com/jobs/#software-engineer)
+- Feb 12 - [The Unreasonableness of Math Is Context Independence](https://bellmar.medium.com/the-unreasonableness-of-math-is-context-independence-6826fd5f3515)
+- Feb 12 - [Nearly a third of TV ads play to empty rooms](https://news.cornell.edu/stories/2022/02/nearly-third-tv-ads-play-empty-rooms)
+- Feb 12 - [Adobe XD, where did it go wrong?](https://www.goodlookingdesign.co.uk/blog/adobe-xd-where-did-it-go-wrong/)
 <!--END_SECTION:hn-->
 
 <!--
