@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 12 - [Nimble (YC S17) Seeks Product Designer (PT or FT, Remote)](https://news.ycombinator.com/item?id=30308933)
-- Feb 11 - [Language Homogenization at Harvard](https://inteoryx.com/htmls/LanguageHomog.html)
-- Feb 11 - [Building an Intelligent Emacs](https://ianyepan.github.io/posts/emacs-ide/)
-- Feb 11 - [Lock the doors: Remembering Columbia's final homecoming (2020)](https://www.americaspace.com/2020/02/01/lock-the-doors-remembering-columbias-final-homecoming-otd-in-2003/)
-- Feb 11 - [A new programming language for high-performance computers](https://news.mit.edu/2022/new-programming-language-high-performance-computers-0207)
+- Feb 12 - [Incident: Air Asia A320 near Kuching on Feb 10th 2022, snake on the plane](https://avherald.com/h?article=4f47cac0)
+- Feb 12 - [Lingua-Go, the most accurate language detection for Go](https://github.com/pemistahl/lingua-go)
+- Feb 12 - [DoltLab v0.2.0](https://www.dolthub.com/blog/2022-02-11-announcing-doltlab-v0.2.0/)
+- Feb 12 - [AWS Announces the General Availability of AWS CloudFormation Hooks](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-announces-general-availability-aws-cloudformation-hooks/)
+- Feb 12 - [CAD files for the external shell (surface topology) of Steam Deck](https://gitlab.steamos.cloud/SteamDeck/hardware)
 <!--END_SECTION:hn-->
 
 <!--
