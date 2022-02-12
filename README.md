@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 12 - [Bloom Institute of Technology (YC S17) Is Hiring a Senior Salesforce Engineer](https://jobs.lever.co/BloomTech/b6130b48-dabf-4c8d-bf07-0b6614c6ae94)
-- Feb 12 - [Discord is a black hole for information](https://knockout.chat/thread/33251/1#post-1176126)
-- Feb 12 - [Git in one image](https://raw.githubusercontent.com/JannikArndt/git-in-one-image/master/git-in-one-image.svg)
-- Feb 12 - [NFT marketplace shuts, citing 'rampant' fakes, plagiarism problem](https://www.reuters.com/business/finance/nft-marketplace-shuts-citing-rampant-fakes-plagiarism-problem-2022-02-11/)
-- Feb 12 - [All you should know about Flutter development](https://github.com/nepaul/awesome-flutter)
+- Feb 12 - [Putting Ideas into Words](http://paulgraham.com/words.html)
+- Feb 12 - [Ask HN: After great HN feedback on my web page Amazon closed my account](https://news.ycombinator.com/item?id=30313169)
+- Feb 12 - [Sustainability with Rust](https://aws.amazon.com/blogs/opensource/sustainability-with-rust/)
+- Feb 12 - [Server-Sent Events: the alternative to WebSockets you should be using](https://germano.dev/sse-websockets/)
+- Feb 12 - [Why Peter Thiel Searches for Reality-Bending ‘Secrets’](https://perell.com/essay/why-peter-thiel-searches-for-reality-bending-secrets/)
 <!--END_SECTION:hn-->
 
 <!--
