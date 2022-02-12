@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 11 - [Launch HN: Anja Health (YC W22) – Freezing stem cells at birth for future health](https://anjahealth.com)
-- Feb 11 - [Mozilla Partners with Meta on Privacy Preserving Attribution for Advertising](https://blog.mozilla.org/en/mozilla/privacy-preserving-attribution-for-advertising/)
-- Feb 11 - [Show HN: MemSafeCrypto, Java cryptography primitives using DirectByteBuffer](https://github.com/andy-goryachev/MemSafeCrypto)
-- Feb 11 - [CVE-2022-0435: A Remote Stack Overflow in the Linux Kernel](https://www.openwall.com/lists/oss-security/2022/02/10/1)
-- Feb 11 - [Lasershark: Fast, bidirectional communication into air-gapped systems](https://intellisec.de/research/lasershark/)
+- Feb 12 - [Nimble (YC S17) Seeks Product Designer (PT or FT, Remote)](https://news.ycombinator.com/item?id=30308933)
+- Feb 11 - [Language Homogenization at Harvard](https://inteoryx.com/htmls/LanguageHomog.html)
+- Feb 11 - [Building an Intelligent Emacs](https://ianyepan.github.io/posts/emacs-ide/)
+- Feb 11 - [Lock the doors: Remembering Columbia's final homecoming (2020)](https://www.americaspace.com/2020/02/01/lock-the-doors-remembering-columbias-final-homecoming-otd-in-2003/)
+- Feb 11 - [A new programming language for high-performance computers](https://news.mit.edu/2022/new-programming-language-high-performance-computers-0207)
 <!--END_SECTION:hn-->
 
 <!--
