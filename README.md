@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 13 - [Design and Long-Term Use of a Personal Electronic Notebook: Reflective Analysis](https://web.archive.org/web/20090831073107/http://www.visi.com/~snowfall/notebook.html)
-- Feb 13 - [Facebook Pay](https://pay.facebook.com/)
-- Feb 13 - [I have never read a business plan or balance sheet](https://twitter.com/paulg/status/1492682253612113921)
-- Feb 13 - [Single Pair Ethernet (SPE) – a leap forward in technology](https://www.digikey.com/en/blog/single-pair-ethernet-spe)
-- Feb 13 - [How to Drop Out](https://ranprieur.com/essays/dropout.html)
+- Feb 13 - [GiveCampus (YC S15) is hiring senior engineers to help make education accessible](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+- Feb 13 - [Ask HN: Easiest way to build a CRUD app](https://news.ycombinator.com/item?id=30320837)
+- Feb 13 - [SPARKNaCl: A verified, fast re-implementation of TweetNaCl](https://fosdem.org/2022/schedule/event/ada_sparknacl/)
+- Feb 13 - [Object about to hit moon is from Chang'e 5, not SpaceX](https://www.projectpluto.com/temp/correct.htm)
+- Feb 13 - [Simple XMPP command line client](https://holmeinbuch.de/repo/txmppc/file?name=txmppc.c&ci=tip)
 <!--END_SECTION:hn-->
 
 <!--
