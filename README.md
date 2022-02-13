@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 12 - [Still-active phreak numbers, all safe and free](https://stormrider.io/odd-numbers.html)
-- Feb 12 - [Webapp for comparing weather forcast providers](https://weather.simonton.app/)
-- Feb 12 - [Pocket migration to Firefox accounts](https://support.mozilla.org/en-US/kb/pocket-firefox-account-migration)
-- Feb 12 - [The housing market needs more condos](https://www.urban.org/urban-wire/housing-market-needs-more-condos-why-are-so-few-being-built)
-- Feb 12 - [On Dumpster Diving (1991) [pdf]](https://www.laprogram.org/docs/EighnerOnDumpsterDiving.pdf)
+- Feb 13 - [More Than Half of Bitcoin Investors Are in the Red, Study Says](https://money.com/bitcoin-crypto-losses-2022/)
+- Feb 12 - [Compile-Time Sort in D](https://dlang.org/blog/2017/06/05/compile-time-sort-in-d/)
+- Feb 12 - [FPGA Interchange format to enable interoperable FPGA tooling](https://opensource.googleblog.com/2022/02/FPGA%20Interchange%20format%20to%20enable%20interoperable%20FPGA%20tooling.html)
+- Feb 12 - [SikuliX – Automate what you see on a computer monitor](http://sikulix.com)
+- Feb 12 - [Running macOS in a Virtual Machine on Apple Silicon Macs](https://developer.apple.com/documentation/virtualization/running_macos_in_a_virtual_machine_on_apple_silicon_macs#overview)
 <!--END_SECTION:hn-->
 
 <!--
