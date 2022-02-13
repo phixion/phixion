@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 13 - [Ask HN: Account has been permanently suspended from Reddit](https://news.ycombinator.com/item?id=30322513)
-- Feb 13 - [Cryptocurrency off-ramps, and the shift towards centralization](https://blog.mollywhite.net/off-ramps/)
-- Feb 13 - [Virtual machines with KVM on Pixel 6 and Android 13 DP1](https://twitter.com/kdrag0n/status/1492712401262710784)
-- Feb 13 - [Show HN: Visualization tools for bicycle wheelbuilding](https://www.islandix.com/)
-- Feb 13 - [Rust started as a personal project in 2006](https://twitter.com/graydon_pub/status/1492634815748739077)
+- Feb 13 - [Tibia (1997) is one of the earliest and longest-running MMORPGs](https://en.wikipedia.org/wiki/Tibia_(video_game))
+- Feb 13 - [An Open Letter to Pixsy CEO Kain Jones, Who Keeps Sending Me Legal Threats](https://doctorow.medium.com/an-open-letter-to-pixsy-ceo-kain-jones-who-keeps-sending-me-legal-threats-5dfc54558f2c)
+- Feb 13 - [Resurrecting the Old Wordle for Procrastinators](https://leancrew.com/all-this/2022/02/resurrecting-the-old-wordle-for-procrastinators/)
+- Feb 13 - [Consent, GDPR and Google Analytics](https://cunderwood.dev/2022/02/13/consent-gdpr-and-google-analytics/)
+- Feb 13 - [What does it mean to listen on a port?](https://paulbutler.org/2022/what-does-it-mean-to-listen-on-a-port/)
 <!--END_SECTION:hn-->
 
 <!--
