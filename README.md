@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 13 - [GiveCampus (YC S15) is hiring senior engineers to help make education accessible](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- Feb 13 - [Ask HN: Easiest way to build a CRUD app](https://news.ycombinator.com/item?id=30320837)
-- Feb 13 - [SPARKNaCl: A verified, fast re-implementation of TweetNaCl](https://fosdem.org/2022/schedule/event/ada_sparknacl/)
-- Feb 13 - [Object about to hit moon is from Chang'e 5, not SpaceX](https://www.projectpluto.com/temp/correct.htm)
-- Feb 13 - [Simple XMPP command line client](https://holmeinbuch.de/repo/txmppc/file?name=txmppc.c&ci=tip)
+- Feb 13 - [Ask HN: Account has been permanently suspended from Reddit](https://news.ycombinator.com/item?id=30322513)
+- Feb 13 - [Cryptocurrency off-ramps, and the shift towards centralization](https://blog.mollywhite.net/off-ramps/)
+- Feb 13 - [Virtual machines with KVM on Pixel 6 and Android 13 DP1](https://twitter.com/kdrag0n/status/1492712401262710784)
+- Feb 13 - [Show HN: Visualization tools for bicycle wheelbuilding](https://www.islandix.com/)
+- Feb 13 - [Rust started as a personal project in 2006](https://twitter.com/graydon_pub/status/1492634815748739077)
 <!--END_SECTION:hn-->
 
 <!--
