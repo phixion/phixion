@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 13 - [Design and Long-Term Use of a Personal Electronic Notebook: Reflective Analysis](https://web.archive.org/web/20090831073107/http://www.visi.com/~snowfall/notebook.html)
 - Feb 13 - [Facebook Pay](https://pay.facebook.com/)
 - Feb 13 - [I have never read a business plan or balance sheet](https://twitter.com/paulg/status/1492682253612113921)
 - Feb 13 - [Single Pair Ethernet (SPE) – a leap forward in technology](https://www.digikey.com/en/blog/single-pair-ethernet-spe)
-- Feb 13 - [Prosecutor won't charge reporter who uncovered database flaw](https://www.kshb.com/news/local-news/prosecutor-wont-charge-reporter-who-uncovered-database-flaw)
-- Feb 13 - [What we lost](https://randsinrepose.com/archives/what-we-lost/)
+- Feb 13 - [How to Drop Out](https://ranprieur.com/essays/dropout.html)
 <!--END_SECTION:hn-->
 
 <!--
