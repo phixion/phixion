@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 13 - [Tibia (1997) is one of the earliest and longest-running MMORPGs](https://en.wikipedia.org/wiki/Tibia_(video_game))
-- Feb 13 - [An Open Letter to Pixsy CEO Kain Jones, Who Keeps Sending Me Legal Threats](https://doctorow.medium.com/an-open-letter-to-pixsy-ceo-kain-jones-who-keeps-sending-me-legal-threats-5dfc54558f2c)
-- Feb 13 - [Resurrecting the Old Wordle for Procrastinators](https://leancrew.com/all-this/2022/02/resurrecting-the-old-wordle-for-procrastinators/)
-- Feb 13 - [Consent, GDPR and Google Analytics](https://cunderwood.dev/2022/02/13/consent-gdpr-and-google-analytics/)
-- Feb 13 - [What does it mean to listen on a port?](https://paulbutler.org/2022/what-does-it-mean-to-listen-on-a-port/)
+- Feb 14 - [Those writing extensively on note-writing rarely have a serious context of use](https://notes.andymatuschak.org/z6cFzJWgj9vZpnrQsjrZ8yCNREzCTgyFeVZTb?stackedNotes=z7kEFe6NfUSgtaDuUjST1oczKKzQQeQWk4Dbc&stackedNotes=zUMFE66dxeweppDvgbNAb5hukXzXQu8ErVNv)
+- Feb 13 - [Mark Cuban's pharmacy started with a cold email](https://www.beckershospitalreview.com/pharmacy/mark-cuban-s-pharmacy-started-with-a-cold-email.html)
+- Feb 13 - [Is YC a Monopoly?](https://every.to/napkin-math/is-yc-the-monopoly-it-thinks-it-is)
+- Feb 13 - [The once-extinct auroch may soon roam Europe again](https://www.atlasobscura.com/articles/aurochs-rewilding)
+- Feb 13 - [Learn Rust with Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html)
 <!--END_SECTION:hn-->
 
 <!--
