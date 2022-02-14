@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 14 - [The Stacks 2.0 blockchain implementation in Rust](https://github.com/stacks-network/stacks-blockchain)
-- Feb 14 - [Show HN: DIY Freud. Automated therapist on the cheap](https://jeremiewenger.com/diy-freud/)
-- Feb 14 - [Happy 27th Birthday, Delphi](https://blogs.remobjects.com/2022/02/14/delphi27th/)
-- Feb 14 - [Show HN: Free and open-source illustrations for your projects](https://iradesign.io/)
-- Feb 14 - [Ask HN: Recent computer hacking convictions and employability](https://news.ycombinator.com/item?id=30332534)
+- Feb 14 - [Decoding radio-controlled bus stop displays (2013)](https://www.windytan.com/2013/11/decoding-radio-controlled-bus-stop.html)
+- Feb 14 - [MonoLisa – A font designed for developers](https://www.monolisa.dev)
+- Feb 14 - [Ask HN: Why is Firefox losing marketshare and how would you save it?](https://news.ycombinator.com/item?id=30335455)
+- Feb 14 - [A database of broken things to identify common failure modes and how to fix them](https://www.failscout.co)
+- Feb 14 - [Hwatch: A modern alternative to the watch command](https://github.com/blacknon/hwatch)
 <!--END_SECTION:hn-->
 
 <!--
