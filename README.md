@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 14 - [Pedestrian Deaths Spike in U.S. as Reckless Driving Surges](https://www.nytimes.com/2022/02/14/us/pedestrian-deaths-pandemic.html)
-- Feb 14 - [Supabase (YC S20) Is Hiring Support Engineers](https://about.supabase.com/careers/support-and-qa)
-- Feb 14 - [UK launches “No Place To Hide” propaganda campaign to ban E2EE](https://www.noplacetohide.org.uk/)
-- Feb 14 - [20 Years of .NET](https://dotnet.microsoft.com/en-us/)
-- Feb 14 - [Text Rendering Hates You](https://gankra.github.io/blah/text-hates-you/)
+- Feb 14 - [The Stacks 2.0 blockchain implementation in Rust](https://github.com/stacks-network/stacks-blockchain)
+- Feb 14 - [Show HN: DIY Freud. Automated therapist on the cheap](https://jeremiewenger.com/diy-freud/)
+- Feb 14 - [Happy 27th Birthday, Delphi](https://blogs.remobjects.com/2022/02/14/delphi27th/)
+- Feb 14 - [Show HN: Free and open-source illustrations for your projects](https://iradesign.io/)
+- Feb 14 - [Ask HN: Recent computer hacking convictions and employability](https://news.ycombinator.com/item?id=30332534)
 <!--END_SECTION:hn-->
 
 <!--
