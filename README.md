@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 14 - [Don't Contribute Anything Relevant in Web Forums Like Reddit](https://karl-voit.at/2020/10/23/avoid-web-forums/)
+- Feb 14 - [TclTutor 3: Computer aided instruction package for learning the Tcl language](http://www.msen.com/~clif/TclTutor.html)
+- Feb 14 - [Perl Saved the Human Genome Project (1996)](https://www.foo.be/docs/tpj/issues/vol1_2/tpj0102-0001.html)
+- Feb 14 - [The Future of 12ft Ladder](https://12ft.io/the-future)
 - Feb 14 - [Those writing extensively on note-writing rarely have a serious context of use](https://notes.andymatuschak.org/z6cFzJWgj9vZpnrQsjrZ8yCNREzCTgyFeVZTb?stackedNotes=z7kEFe6NfUSgtaDuUjST1oczKKzQQeQWk4Dbc&stackedNotes=zUMFE66dxeweppDvgbNAb5hukXzXQu8ErVNv)
-- Feb 13 - [Mark Cuban's pharmacy started with a cold email](https://www.beckershospitalreview.com/pharmacy/mark-cuban-s-pharmacy-started-with-a-cold-email.html)
-- Feb 13 - [Is YC a Monopoly?](https://every.to/napkin-math/is-yc-the-monopoly-it-thinks-it-is)
-- Feb 13 - [The once-extinct auroch may soon roam Europe again](https://www.atlasobscura.com/articles/aurochs-rewilding)
-- Feb 13 - [Learn Rust with Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html)
 <!--END_SECTION:hn-->
 
 <!--
