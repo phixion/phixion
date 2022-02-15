@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 15 - [Generally Intelligent (YC S17) Is Hiring Systems Engineers (Remote, SF)](https://news.ycombinator.com/item?id=30342319)
+- Feb 15 - [Getting Started with the File System Access API](https://css-tricks.com/getting-started-with-the-file-system-access-api/)
+- Feb 15 - [How SoftBank’s costly bet on the ‘internet of things’ backfired at Arm](https://www.ft.com/content/29cbb67e-5e06-4eef-a9dd-a46379b9f8da)
 - Feb 15 - [A Review of Shader Languages](https://alain.xyz/blog/a-review-of-shader-languages)
 - Feb 15 - [That Wild Ask a Manager Story](https://jacobian.org/2022/feb/14/that-wild-aam-story/)
-- Feb 15 - [San Francisco police linked a woman to a crime using DNA from her rape exam](https://www.sfchronicle.com/sf/article/San-Francisco-police-linked-a-woman-to-a-crime-16918673.php)
-- Feb 14 - [Why do we round corners?](https://uxdesign.cc/why-do-we-round-corners-5145a90da6ed)
-- Feb 14 - [Trudeau Invokes Emergencies Act](https://ottawacitizen.com/news/local-news/truck-convoy-day-18-in-ottawa-noon-deadline-in-mayors-deal-with-convoy-pm-talking-to-premiers)
 <!--END_SECTION:hn-->
 
 <!--
