@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 16 - [All Google Cloud product in this periodic table](https://googlecloudcheatsheet.withgoogle.com/)
-- Feb 16 - [Finley (YC W21) Is Hiring for Fintech Engineering, Sales, and CS (Remote)](https://www.finleycms.com/careers/)
-- Feb 16 - [Show HN: The open-source icon sets that took me 12 years to create](https://app.streamlinehq.com/icons)
-- Feb 16 - [A non-hallucinogenic psychedelic analog with therapeutic potential](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7874389/)
-- Feb 16 - [How can you be fooled by the U+202E trick? (2013)](https://galogetlatorre.blogspot.com/2013/07/how-can-you-be-fooled-by-u202e-trick.html)
+- Feb 16 - [Veryfi (YC W17) Is Hiring Account Executives (AE)](https://www.ycombinator.com/companies/veryfi-inc/jobs/aWDu3no-account-executive-ae)
+- Feb 16 - [3 percent of Python codebases we checked had silently failing unit tests](https://richardtier.com/2022/02/16/3-of-666-python-codebases-we-checked-had-silently-failing-unit-tests-and-we-fixed-them-all%ef%bf%bc/)
+- Feb 16 - [Ask HN: What's the best way to monetize actual programming?](https://news.ycombinator.com/item?id=30358555)
+- Feb 16 - [Love Is Biological Bribery](https://nautil.us/love-is-biological-bribery-14058/)
+- Feb 16 - [Music Tuned to 440 Hz versus 432 Hz and Health Effects (2019)](https://pubmed.ncbi.nlm.nih.gov/31031095/)
 <!--END_SECTION:hn-->
 
 <!--
