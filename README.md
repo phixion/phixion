@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 16 - [Dozens of small rovers are heading to the Moon](https://orbitalindex.com/archive/2022-02-16-Issue-156/)
-- Feb 16 - [Launch HN: Realize (YC W22) – Integrate brokerage accounts into your site or app](https://www.realizefi.com/)
-- Feb 16 - [Aserto, the developer API for permissions and RBAC, is open to all](https://www.aserto.com/blog/aserto-the-developer-api-for-permissions-and-rbac-is-open-to-all)
-- Feb 16 - [The Privacy Sandbox on Android](https://blog.google/products/android/introducing-privacy-sandbox-android/)
-- Feb 16 - [Ask HN: Why is there so little debate about the attack on Vodafone Portugal?](https://news.ycombinator.com/item?id=30360532)
+- Feb 16 - [ClusterSSH for iTerm2](https://github.com/ilikejam/csshi)
+- Feb 16 - [A new wave of Linux applications](https://tuxphones.com/convergent-linux-phone-apps/)
+- Feb 16 - [How much do construction costs matter to the price of housing?](https://constructionphysics.substack.com/p/how-much-do-construction-costs-matter)
+- Feb 16 - [Small File Archives in MinIO](https://blog.min.io/small-file-archives/)
+- Feb 16 - [Current MFA fatigue attack campaign targeting Microsoft Office 365 users](https://www.gosecure.net/blog/2022/02/14/current-mfa-fatigue-attack-campaign-targeting-microsoft-office-365-users/)
 <!--END_SECTION:hn-->
 
 <!--
