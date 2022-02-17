@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 17 - [Brrr.money](https://brrr.money)
+- Feb 17 - [Nerdle](https://nerdlegame.com/)
+- Feb 17 - [The Fourth Dimension: Toward a Geometry of Higher Reality](https://www.rudyrucker.com/thefourthdimension/)
+- Feb 17 - [Flexport is hiring senior software engineers who have built logistics tech](https://Flexport.com/careers)
 - Feb 17 - [Worldle](https://worldle.teuteuf.fr/)
-- Feb 16 - [Elastic and Amazon reach agreement on trademark infringement lawsuit](https://www.elastic.co/blog/elastic-and-amazon-reach-agreement-on-trademark-infringement-lawsuit)
-- Feb 16 - [I collect and read old computer manuals](https://passo.uno/why-collect-read-old-computer-manuals/)
-- Feb 16 - [ClusterSSH for iTerm2](https://github.com/ilikejam/csshi)
-- Feb 16 - [A new wave of Linux applications](https://tuxphones.com/convergent-linux-phone-apps/)
 <!--END_SECTION:hn-->
 
 <!--
