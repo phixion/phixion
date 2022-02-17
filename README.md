@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 17 - [Worldle](https://worldle.teuteuf.fr/)
+- Feb 16 - [Elastic and Amazon reach agreement on trademark infringement lawsuit](https://www.elastic.co/blog/elastic-and-amazon-reach-agreement-on-trademark-infringement-lawsuit)
+- Feb 16 - [I collect and read old computer manuals](https://passo.uno/why-collect-read-old-computer-manuals/)
 - Feb 16 - [ClusterSSH for iTerm2](https://github.com/ilikejam/csshi)
 - Feb 16 - [A new wave of Linux applications](https://tuxphones.com/convergent-linux-phone-apps/)
-- Feb 16 - [How much do construction costs matter to the price of housing?](https://constructionphysics.substack.com/p/how-much-do-construction-costs-matter)
-- Feb 16 - [Small File Archives in MinIO](https://blog.min.io/small-file-archives/)
-- Feb 16 - [Current MFA fatigue attack campaign targeting Microsoft Office 365 users](https://www.gosecure.net/blog/2022/02/14/current-mfa-fatigue-attack-campaign-targeting-microsoft-office-365-users/)
 <!--END_SECTION:hn-->
 
 <!--
