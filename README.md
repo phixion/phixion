@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 17 - [Ribbon Health (YC S17) Is Hiring a Director of Engineering for Our API Platform](https://www.ribbonhealth.com/careers/job-description/?gh_jid=4153956004)
-- Feb 17 - [Debugging an Ioctl Problem on OpenBSD](https://jcs.org/2022/02/16/ioctl)
-- Feb 17 - [Show HN: Reversle – Find the words given Wordle pattern and the solution word](https://reversle.net/)
-- Feb 17 - [Ask HN: How do you manage your companies knowledge base?](https://news.ycombinator.com/item?id=30371723)
-- Feb 17 - [WebGL 2.0 Achieves Pervasive Support from All Major Web Browsers](https://www.khronos.org/blog/webgl-2-achieves-pervasive-support-from-all-major-web-browsers)
+- Feb 17 - [Investors bought a record share of U.S. homes in 2021](https://www.washingtonpost.com/business/interactive/2022/housing-market-investors/)
+- Feb 17 - [The Lonely Work of Moderating Hacker News (2019)](https://www.newyorker.com/news/letter-from-silicon-valley/the-lonely-work-of-moderating-hacker-news)
+- Feb 17 - [Hacker News Clone Using Remix and React](https://github.com/clintonwoo/hackernews-remix-react)
+- Feb 17 - [Deploy to DigitalOcean from Glitch](https://glitch.com/digitalocean)
+- Feb 17 - [Design of a rapid transit to Mars mission using laser-thermal propulsion](https://arxiv.org/abs/2201.00244)
 <!--END_SECTION:hn-->
 
 <!--
