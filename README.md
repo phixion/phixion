@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 17 - [Brrr.money](https://brrr.money)
-- Feb 17 - [Nerdle](https://nerdlegame.com/)
-- Feb 17 - [The Fourth Dimension: Toward a Geometry of Higher Reality](https://www.rudyrucker.com/thefourthdimension/)
-- Feb 17 - [Flexport is hiring senior software engineers who have built logistics tech](https://Flexport.com/careers)
-- Feb 17 - [Worldle](https://worldle.teuteuf.fr/)
+- Feb 17 - [Meticulous (YC S21) Is Hiring #2 Founding Engineer in London](https://news.ycombinator.com/item?id=30370297)
+- Feb 17 - [NATSpeech: High Quality Text-to-Speech Implementation with HuggingFace Demo](https://github.com/NATSpeech/NATSpeech)
+- Feb 17 - [Haskell error messages: come on](https://www.thecodedmessage.com/posts/haskell-gripe/)
+- Feb 17 - [Reddit can't build a better search engine](https://ruky.me/2022/02/17/reddit-can-build-a-better-search-engine/)
+- Feb 17 - [The fourth dimension: Toward a geometry of higher reality (1984)](https://www.rudyrucker.com/thefourthdimension/)
 <!--END_SECTION:hn-->
 
 <!--
