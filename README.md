@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 17 - [Investors bought a record share of U.S. homes in 2021](https://www.washingtonpost.com/business/interactive/2022/housing-market-investors/)
-- Feb 17 - [The Lonely Work of Moderating Hacker News (2019)](https://www.newyorker.com/news/letter-from-silicon-valley/the-lonely-work-of-moderating-hacker-news)
-- Feb 17 - [Hacker News Clone Using Remix and React](https://github.com/clintonwoo/hackernews-remix-react)
-- Feb 17 - [Deploy to DigitalOcean from Glitch](https://glitch.com/digitalocean)
-- Feb 17 - [Design of a rapid transit to Mars mission using laser-thermal propulsion](https://arxiv.org/abs/2201.00244)
+- Feb 17 - [Show HN: I've compiled Firefox iOS together with a cookie request blocker](https://rchaves.app/firefox-ios-without-cookies/)
+- Feb 17 - [Otter.ai has saved reporters hours transcribing interviews. Caveat emptor](https://www.politico.com/news/2022/02/16/my-journey-down-the-rabbit-hole-of-every-journalists-favorite-app-00009216)
+- Feb 17 - [The Unreasonable Math of Type 1 Diabetes](https://maori.geek.nz/the-unreasonable-math-of-type-1-diabetes-8c96bdf5b7fb?gi=a3b25a4cbeb0)
+- Feb 17 - [Static B-Trees: A data structure for faster binary search](https://en.algorithmica.org/hpc/data-structures/s-tree/)
+- Feb 17 - [ReadMe (YC W15) is hiring a CTO who loves devtools](https://readme.com/careers#ui-engineer)
 <!--END_SECTION:hn-->
 
 <!--
