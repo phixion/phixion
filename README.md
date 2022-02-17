@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 17 - [Meticulous (YC S21) Is Hiring #2 Founding Engineer in London](https://news.ycombinator.com/item?id=30370297)
-- Feb 17 - [NATSpeech: High Quality Text-to-Speech Implementation with HuggingFace Demo](https://github.com/NATSpeech/NATSpeech)
-- Feb 17 - [Haskell error messages: come on](https://www.thecodedmessage.com/posts/haskell-gripe/)
-- Feb 17 - [Reddit can't build a better search engine](https://ruky.me/2022/02/17/reddit-can-build-a-better-search-engine/)
-- Feb 17 - [The fourth dimension: Toward a geometry of higher reality (1984)](https://www.rudyrucker.com/thefourthdimension/)
+- Feb 17 - [Ribbon Health (YC S17) Is Hiring a Director of Engineering for Our API Platform](https://www.ribbonhealth.com/careers/job-description/?gh_jid=4153956004)
+- Feb 17 - [Debugging an Ioctl Problem on OpenBSD](https://jcs.org/2022/02/16/ioctl)
+- Feb 17 - [Show HN: Reversle – Find the words given Wordle pattern and the solution word](https://reversle.net/)
+- Feb 17 - [Ask HN: How do you manage your companies knowledge base?](https://news.ycombinator.com/item?id=30371723)
+- Feb 17 - [WebGL 2.0 Achieves Pervasive Support from All Major Web Browsers](https://www.khronos.org/blog/webgl-2-achieves-pervasive-support-from-all-major-web-browsers)
 <!--END_SECTION:hn-->
 
 <!--
