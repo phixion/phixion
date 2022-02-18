@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 17 - [Show HN: I've compiled Firefox iOS together with a cookie request blocker](https://rchaves.app/firefox-ios-without-cookies/)
-- Feb 17 - [Otter.ai has saved reporters hours transcribing interviews. Caveat emptor](https://www.politico.com/news/2022/02/16/my-journey-down-the-rabbit-hole-of-every-journalists-favorite-app-00009216)
-- Feb 17 - [The Unreasonable Math of Type 1 Diabetes](https://maori.geek.nz/the-unreasonable-math-of-type-1-diabetes-8c96bdf5b7fb?gi=a3b25a4cbeb0)
-- Feb 17 - [Static B-Trees: A data structure for faster binary search](https://en.algorithmica.org/hpc/data-structures/s-tree/)
-- Feb 17 - [ReadMe (YC W15) is hiring a CTO who loves devtools](https://readme.com/careers#ui-engineer)
+- Feb 17 - [Controlling the nuclear fusion plasma in a tokamak with reinforcement learning](https://deepmind.com/blog/article/Accelerating-fusion-science-through-learned-plasma-control)
+- Feb 17 - [Firefox dev: Encoding override not necessary since most mojibake still legible](https://bugzilla.mozilla.org/show_bug.cgi?id=1687635)
+- Feb 17 - [LanguageTool – FOSS Style and Grammar Checker for 25 Languages](https://languagetool.org/)
+- Feb 17 - [Transgenic glowing fish invades Brazilian streams](https://www.science.org/content/article/transgenic-glowing-fish-invades-brazilian-streams)
+- Feb 17 - [SpaceX’s monstrous, dirt-cheap Starship may transform space travel](https://www.economist.com/science-and-technology/2022/02/19/spacexs-monstrous-dirt-cheap-starship-may-transform-space-travel)
 <!--END_SECTION:hn-->
 
 <!--
