@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 18 - [The Muse (YC W12) Is Hiring a Senior Platform Engineer](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
-- Feb 18 - [Happy 15th birthday Hacker News](https://news.ycombinator.com/front?day=2007-02-19&p=1)
-- Feb 18 - [Windows 11 settings rewritten in React Native](https://microsoft.github.io/react-native-windows/blog/2022/02/11/settings)
-- Feb 18 - [Against Pair Programming](https://matt-rickard.com/against-pair-programming/)
-- Feb 18 - [Rethinking Levels, Promotions and Salaries](https://www.daily.co/blog/rethinking-levels-promotions-and-salaries/)
+- Feb 18 - [Ask HN: Add Archive.org link in past section of HN?](https://news.ycombinator.com/item?id=30386878)
+- Feb 18 - [Dad takes down town's internet by mistake to get his kids offline](https://www.bleepingcomputer.com/news/technology/dad-takes-down-towns-internet-by-mistake-to-get-his-kids-offline/)
+- Feb 18 - [Dr. Ian Cutress Leaves Anandtech](https://www.anandtech.com/show/17270/going-from-there-to-here-and-beyond)
+- Feb 18 - [What Is Rust's Hole Purpose?](http://blog.pnkfx.org/blog/2022/02/09/what-is-rusts-hole-purpose/)
+- Feb 18 - [Fullmoon – Redbean-based Lua web framework deployed as single file](https://github.com/pkulchenko/fullmoon)
 <!--END_SECTION:hn-->
 
 <!--
