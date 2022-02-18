@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 18 - [WebCompat – Bug Reporting for the Web](https://webcompat.com/)
+- Feb 18 - [“The president of MIT told me that tenure was not about research or merit.”](https://threadreaderapp.com/thread/1494369809538195456.html)
+- Feb 18 - [Versatile Open Source online SVG path editor](https://github.com/Yqnn/svg-path-editor)
+- Feb 18 - [No one cares about your redesign](https://www.garbageday.email/p/no-one-cares-about-your-redesign)
+- Feb 18 - [What I Learned During My Three Days Offline](https://www.raptitude.com/2022/02/what-i-learned-during-my-three-days-offline/)
 - Feb 18 - [Scientist busts myths about how humans burn calories](https://www.science.org/content/article/scientist-busts-myths-about-how-humans-burn-calories-and-why)
-- Feb 18 - [Internals of Go's new fuzzing system](https://jayconrod.com/posts/123/internals-of-go-s-new-fuzzing-system)
-- Feb 18 - [SuperTokens (YC S20) Is Hiring a frontent engineer (remote)](https://angel.co/l/2wC1ba)
-- Feb 18 - [Fred's ImageMagick Scripts](http://www.fmwconcepts.com/imagemagick/index.php)
 <!--END_SECTION:hn-->
 
 <!--
