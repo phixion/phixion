@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 18 - [How we use Notion as a startup](https://www.kopa.co/blog/posts/how-we-use-notion-as-a-startup)
-- Feb 18 - [Why can't Google find answers though they are right under it's nose?](https://old.reddit.com/r/comics/comments/svgabe/google_oc/)
-- Feb 18 - [Grist – Open core alternative to Airtable and Google Sheets](https://github.com/gristlabs/grist-core)
-- Feb 18 - [5nm is only a marketing term and has no relation to any actual phyiscal feature](https://twitter.com/HPC_Guru/status/1494713701672255488)
-- Feb 18 - [Decoding the Tavistock letter: Dickens and ‘Victorian media management’](https://dickenscode.org/decoding-the-tavistock-letter-or-dickens-and-the-dark-arts-of-victorian-media-management/)
+- Feb 19 - [Sweating the small stuff: Smartwatch developed at UCLA measures stress hormone](https://newsroom.ucla.edu/releases/cortisol-sensing-smartwatch)
+- Feb 19 - [WebRTC support is being added to OBS](https://github.com/obsproject/obs-studio/discussions/4021)
+- Feb 19 - [Cuffed – A dating app with only one match at a time](https://www.cuffedapp.com)
+- Feb 19 - [What’s the Appeal of Deep Voices in Men?](https://www.sapiens.org/biology/deep-voice-men-attractive/)
+- Feb 19 - [Logging at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/logging-at-twitter-updated)
 <!--END_SECTION:hn-->
 
 <!--
