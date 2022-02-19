@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 19 - [Sweating the small stuff: Smartwatch developed at UCLA measures stress hormone](https://newsroom.ucla.edu/releases/cortisol-sensing-smartwatch)
-- Feb 19 - [WebRTC support is being added to OBS](https://github.com/obsproject/obs-studio/discussions/4021)
-- Feb 19 - [Cuffed – A dating app with only one match at a time](https://www.cuffedapp.com)
-- Feb 19 - [What’s the Appeal of Deep Voices in Men?](https://www.sapiens.org/biology/deep-voice-men-attractive/)
-- Feb 19 - [Logging at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/logging-at-twitter-updated)
+- Feb 19 - [Raycast (YC W20) Is Hiring to Make Work Frictionless (Remote in Europe)](https://www.raycast.com/careers)
+- Feb 19 - [OpenVi: Portable OpenBSD vi for Unix systems](https://github.com/johnsonjh/OpenVi)
+- Feb 19 - [Thoughts on Intel software-defined silicon](https://lwn.net/SubscriberLink/884876/ba79f0b75e086321/)
+- Feb 19 - [Safari now supports File System Access API with private origin](https://webkit.org/blog/12257/the-file-system-access-api-with-origin-private-file-system/)
+- Feb 19 - [‘Simple’ AI Can Anticipate Bank Managers’ Loan Decisions to over 95% Accuracy](https://www.unite.ai/simple-ai-can-anticipate-bank-managers-loan-decisions-to-over-95-accuracy/)
 <!--END_SECTION:hn-->
 
 <!--
