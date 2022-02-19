@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 19 - [Mozilla Webmaker](https://foundation.mozilla.org/en/artifacts/webmaker/)
-- Feb 19 - [The Theory of Gut Bacteria Value](https://www.atvbt.com/gbv/)
-- Feb 19 - [How to write better scientific code in Python?](https://zerowithdot.com/improve-data-science-code/)
-- Feb 19 - [ZX Spectrum at 40: a look back](https://www.nme.com/features/gaming-features/zx-spectrum-at-40-a-look-back-3162913)
-- Feb 19 - [Higher-order topological insulators in synthetic dimensions (2020)](https://www.nature.com/articles/s41377-020-0334-8)
+- Feb 19 - [Oilslick – an elevation map showing fine detail in terrain](http://mrgris.com/projects/oilslick/)
+- Feb 19 - [Ask HN: What books are recommended to learn re semiconductors industry?](https://news.ycombinator.com/item?id=30398930)
+- Feb 19 - [Jujutsu – A Git-compatible DVCS that is both simple and powerful](https://github.com/martinvonz/jj)
+- Feb 19 - [“The Wall” Housing Structure In Fermont, Quebec](https://www.houseporn.ca/landscape/article/the_wall_housing_structure_in_fermont_quebec)
+- Feb 19 - [Tell HN: I got 10x Hetzner storage at the same price](https://news.ycombinator.com/item?id=30398534)
 <!--END_SECTION:hn-->
 
 <!--
