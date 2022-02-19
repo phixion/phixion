@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 19 - [Raycast (YC W20) Is Hiring to Make Work Frictionless (Remote in Europe)](https://www.raycast.com/careers)
-- Feb 19 - [OpenVi: Portable OpenBSD vi for Unix systems](https://github.com/johnsonjh/OpenVi)
-- Feb 19 - [Thoughts on Intel software-defined silicon](https://lwn.net/SubscriberLink/884876/ba79f0b75e086321/)
-- Feb 19 - [Safari now supports File System Access API with private origin](https://webkit.org/blog/12257/the-file-system-access-api-with-origin-private-file-system/)
-- Feb 19 - [‘Simple’ AI Can Anticipate Bank Managers’ Loan Decisions to over 95% Accuracy](https://www.unite.ai/simple-ai-can-anticipate-bank-managers-loan-decisions-to-over-95-accuracy/)
+- Feb 19 - [Plaid is an evil nightmare product from Security Hell](https://drewdevault.com/2022/02/19/Plaid-is-an-evil-nightmare-product.html)
+- Feb 19 - [Help HN: Can't Open Childhood Files](https://news.ycombinator.com/item?id=30396042)
+- Feb 19 - [‘Zero-Click’ Hacks Are Growing in Popularity – no way to stop them](https://www.bloombergquint.com/technology/-zero-click-hacks-by-nso-group-and-others-growing-in-popularity)
+- Feb 19 - [Google Maps ToS can be summarised as: Don't use it](https://twitter.com/pmzakrzewski/status/1494967388428804103)
+- Feb 19 - [Show HN: Sioyek – PDF viewer for reading research papers and textbooks](https://github.com/ahrm/sioyek)
 <!--END_SECTION:hn-->
 
 <!--
