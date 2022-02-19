@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 18 - [Ask HN: Add Archive.org link in past section of HN?](https://news.ycombinator.com/item?id=30386878)
-- Feb 18 - [Dad takes down town's internet by mistake to get his kids offline](https://www.bleepingcomputer.com/news/technology/dad-takes-down-towns-internet-by-mistake-to-get-his-kids-offline/)
-- Feb 18 - [Dr. Ian Cutress Leaves Anandtech](https://www.anandtech.com/show/17270/going-from-there-to-here-and-beyond)
-- Feb 18 - [What Is Rust's Hole Purpose?](http://blog.pnkfx.org/blog/2022/02/09/what-is-rusts-hole-purpose/)
-- Feb 18 - [Fullmoon – Redbean-based Lua web framework deployed as single file](https://github.com/pkulchenko/fullmoon)
+- Feb 18 - [How we use Notion as a startup](https://www.kopa.co/blog/posts/how-we-use-notion-as-a-startup)
+- Feb 18 - [Why can't Google find answers though they are right under it's nose?](https://old.reddit.com/r/comics/comments/svgabe/google_oc/)
+- Feb 18 - [Grist – Open core alternative to Airtable and Google Sheets](https://github.com/gristlabs/grist-core)
+- Feb 18 - [5nm is only a marketing term and has no relation to any actual phyiscal feature](https://twitter.com/HPC_Guru/status/1494713701672255488)
+- Feb 18 - [Decoding the Tavistock letter: Dickens and ‘Victorian media management’](https://dickenscode.org/decoding-the-tavistock-letter-or-dickens-and-the-dark-arts-of-victorian-media-management/)
 <!--END_SECTION:hn-->
 
 <!--
