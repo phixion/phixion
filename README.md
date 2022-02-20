@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 20 - [Things that used to be hard and are now easy](https://jvns.ca/blog/2022/02/20/things-that-used-to-be-hard-and-are-now-easy/)
-- Feb 20 - [‘Space Cleaner’ Satellite Spotted Grabbing and Throwing Away Old Satellite](https://science.thewire.in/spaceflight/chinese-sj-21-satellite-spotted-grabbing-throwing-away-old-satellite/)
-- Feb 20 - [A Pentester Gets Root - Step by Step Example](https://kaizoku.dev/htb-devoops)
-- Feb 20 - [The Fastest GIF Does Not Exist](https://www.biphelps.com/blog/The-Fastest-GIF-Does-Not-Exist)
-- Feb 20 - [MISP – open-source threat intelligence and sharing platform](https://www.misp-project.org/)
+- Feb 20 - [Microsoft YARP](https://github.com/microsoft/reverse-proxy)
+- Feb 20 - [Show HN: Test your shape rotation skills](https://0xf00ff00f.github.io/rotator/)
+- Feb 20 - [Nintendo Page Boy (2021)](https://www.nintendoenthusiast.com/nintendo-page-boy-revealed-lost-game-boy-color-add-on-wireless/)
+- Feb 20 - [The staggering ecological impacts of computation and the cloud](https://thereader.mitpress.mit.edu/the-staggering-ecological-impacts-of-computation-and-the-cloud/)
+- Feb 20 - [Be anonymous](https://kg.dev/thoughts/be-anonymous)
 <!--END_SECTION:hn-->
 
 <!--
