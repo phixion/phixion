@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 20 - [The Triumph and Tragedy of .env Files](https://blog.doppler.com/the-triumph-and-tragedy-of-env-files)
-- Feb 20 - [A man who lived in a Singapore forest for 30 years](https://www.bbc.com/news/world-asia-60284352)
-- Feb 20 - [Google Drive users stung by macOS '.DS_Store' copyright infringement issue](https://appleinsider.com/articles/22/02/19/google-drive-users-stung-by-macos-dsstore-copyright-infringement-issue)
-- Feb 20 - [Ancient Indian texts reveal the liberating power of metaphysics](https://psyche.co/ideas/ancient-indian-texts-reveal-the-liberating-power-of-metaphysics)
-- Feb 20 - [Fengari – Lua for the Browser](https://fengari.io/)
+- Feb 20 - [Things that used to be hard and are now easy](https://jvns.ca/blog/2022/02/20/things-that-used-to-be-hard-and-are-now-easy/)
+- Feb 20 - [‘Space Cleaner’ Satellite Spotted Grabbing and Throwing Away Old Satellite](https://science.thewire.in/spaceflight/chinese-sj-21-satellite-spotted-grabbing-throwing-away-old-satellite/)
+- Feb 20 - [A Pentester Gets Root - Step by Step Example](https://kaizoku.dev/htb-devoops)
+- Feb 20 - [The Fastest GIF Does Not Exist](https://www.biphelps.com/blog/The-Fastest-GIF-Does-Not-Exist)
+- Feb 20 - [MISP – open-source threat intelligence and sharing platform](https://www.misp-project.org/)
 <!--END_SECTION:hn-->
 
 <!--
