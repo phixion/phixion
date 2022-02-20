@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 19 - [Imprisoned for Your Safety](http://misc-stuff.terraaeon.com/articles/imprisoned.html)
-- Feb 19 - [Tell HN: YouTube and how my wife lost 7 years of work](https://news.ycombinator.com/item?id=30401241)
-- Feb 19 - [Machine Learning Algorithms Cheat Sheet](https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet)
-- Feb 19 - [Epic Games is making hundreds of temp testers into full employees with benefits](https://www.theverge.com/2022/2/19/22942053/epic-games-full-time-employment-contingent-workers)
-- Feb 19 - [Going IPv6 Only](https://blog.brixit.nl/going-ipv6-only/)
+- Feb 20 - [Unlocking my Lenovo laptop, part 1 (2016)](https://zmatt.net/unlocking-my-lenovo-laptop-part-1/)
+- Feb 20 - [Push-ups with Python, mediapipe and OpenCV](https://aryanvij02.medium.com/push-ups-with-python-mediapipe-open-a544bd9b4351)
+- Feb 20 - [Fall of Civilizations Podcast: Vijayanagara – The Last Emperors of South India](https://podcasts.apple.com/us/podcast/14-vijayanagara-the-last-emperors-of-south-india/id1449884495?i=1000551515692)
+- Feb 20 - [Game Boy Wordle clone: How to compress 12972 five-letter words to 17871 bytes](http://alexanderpruss.blogspot.com/2022/02/game-boy-wordle-how-to-compress-12972.html)
+- Feb 20 - [List of life-like cellular automata](https://conwaylife.com/wiki/List_of_Life-like_cellular_automata)
 <!--END_SECTION:hn-->
 
 <!--
