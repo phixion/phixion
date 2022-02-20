@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 20 - [Server-Sent Events, WebSockets, and HTTP](https://www.mnot.net/blog/2022/02/20/websockets)
+- Feb 20 - [Anime Photography in the Cel Era](https://alexswak.tumblr.com/post/630061631289835520/cel-anime-photography)
+- Feb 20 - [Heline – Code search for modern developer](https://heline.dev/)
+- Feb 20 - [Open Problems in Artificial Life (2000) [pdf]](https://authors.library.caltech.edu/13564/1/BEDal00.pdf)
 - Feb 20 - [Unlocking my Lenovo laptop, part 1 (2016)](https://zmatt.net/unlocking-my-lenovo-laptop-part-1/)
-- Feb 20 - [Push-ups with Python, mediapipe and OpenCV](https://aryanvij02.medium.com/push-ups-with-python-mediapipe-open-a544bd9b4351)
-- Feb 20 - [Fall of Civilizations Podcast: Vijayanagara – The Last Emperors of South India](https://podcasts.apple.com/us/podcast/14-vijayanagara-the-last-emperors-of-south-india/id1449884495?i=1000551515692)
-- Feb 20 - [Game Boy Wordle clone: How to compress 12972 five-letter words to 17871 bytes](http://alexanderpruss.blogspot.com/2022/02/game-boy-wordle-how-to-compress-12972.html)
-- Feb 20 - [List of life-like cellular automata](https://conwaylife.com/wiki/List_of_Life-like_cellular_automata)
 <!--END_SECTION:hn-->
 
 <!--
