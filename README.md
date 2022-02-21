@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 20 - [Microsoft YARP](https://github.com/microsoft/reverse-proxy)
-- Feb 20 - [Show HN: Test your shape rotation skills](https://0xf00ff00f.github.io/rotator/)
-- Feb 20 - [Nintendo Page Boy (2021)](https://www.nintendoenthusiast.com/nintendo-page-boy-revealed-lost-game-boy-color-add-on-wireless/)
-- Feb 20 - [The staggering ecological impacts of computation and the cloud](https://thereader.mitpress.mit.edu/the-staggering-ecological-impacts-of-computation-and-the-cloud/)
-- Feb 20 - [Be anonymous](https://kg.dev/thoughts/be-anonymous)
+- Feb 20 - [Facebook/Meta Asks: “Wouldn't It Be Nice to Die?”](https://defector.com/facebook-meta-asks-wouldnt-it-be-nice-to-die/)
+- Feb 20 - [Sven Guckes Has Died](https://twitter.com/danielefrijia/status/1495522225218330624)
+- Feb 20 - [Lit-Up Fishing Nets Dramatically Reduce Catch of Unwanted Sharks, Rays and Squid](https://www.smithsonianmag.com/smart-news/lighted-fishing-nets-dramatically-reduce-shark-ray-and-squid-bycatch-180979597/)
+- Feb 20 - [PACSafe: Leveraging ARM Pointer Authentication for Memory Safety in C/C++](https://arxiv.org/abs/2202.08669)
+- Feb 20 - [Ask HN: How does TurboTax get away with dark patterns?](https://news.ycombinator.com/item?id=30409523)
 <!--END_SECTION:hn-->
 
 <!--
