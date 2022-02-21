@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 21 - [Piepacker (YC S20) Is Hiring Full Stack Developers (Europe / Remote)](https://jobs.lever.co/piepacker/5aab1f1c-cc2d-4762-93d3-cf2a6c96cff0)
-- Feb 21 - [I wrote the least-C C program I could](https://briancallahan.net/blog/20220220.html)
-- Feb 21 - [Americans Will Need to Register to Travel to Europe in 2023](https://www.forbes.com/sites/suzannerowankelleher/2022/02/18/americans-will-need-to-register-to-travel-to-europe-in-2023/)
-- Feb 21 - [Ask HN: How do I develop skills to comfort people and offer compassion?](https://news.ycombinator.com/item?id=30412165)
-- Feb 21 - [95%-ile isn't that good (2020)](https://danluu.com/p95-skill/)
+- Feb 21 - [Algolia is hiring full-stack engineers to help us research a new kind of search](https://www.algolia.com/careers/amer-senior-software-engineer-search-ranking-united-states)
+- Feb 21 - [Mozilla prepares to launch MDN Plus in March 2022](https://www.soeren-hentzschel.at/mdn/exklusiv-mdn-plus/)
+- Feb 21 - [Atlassian Co-Founder Wants to Buy Australia’s Biggest Polluter to Make It Green](https://www.wsj.com/articles/atlassian-co-founder-wants-to-buy-australias-biggest-polluter-to-make-it-greener-11645427453)
+- Feb 21 - [The new FreeDOS 1.3 is now available for download](https://sourceforge.net/p/freedos/news/2022/02/freedos-13/)
+- Feb 21 - [Minsky Moments in Venture Capital](https://pivotal.substack.com/p/minsky-moments-in-venture-capital)
 <!--END_SECTION:hn-->
 
 <!--
