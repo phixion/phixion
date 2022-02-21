@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 20 - [Facebook/Meta Asks: “Wouldn't It Be Nice to Die?”](https://defector.com/facebook-meta-asks-wouldnt-it-be-nice-to-die/)
-- Feb 20 - [Sven Guckes Has Died](https://twitter.com/danielefrijia/status/1495522225218330624)
-- Feb 20 - [Lit-Up Fishing Nets Dramatically Reduce Catch of Unwanted Sharks, Rays and Squid](https://www.smithsonianmag.com/smart-news/lighted-fishing-nets-dramatically-reduce-shark-ray-and-squid-bycatch-180979597/)
-- Feb 20 - [PACSafe: Leveraging ARM Pointer Authentication for Memory Safety in C/C++](https://arxiv.org/abs/2202.08669)
-- Feb 20 - [Ask HN: How does TurboTax get away with dark patterns?](https://news.ycombinator.com/item?id=30409523)
+- Feb 21 - [Virological characteristics of SARS-CoV-2 BA2 variant: more pathogenic than BA1](https://www.biorxiv.org/content/10.1101/2022.02.14.480335v1)
+- Feb 21 - [95%-ile isn't that good (2020)](https://danluu.com/p95-skill/)
+- Feb 21 - [Google Tag Manager, the new anti-adblock weapon](https://chromium.woolyss.com/f/HTML-Google-Tag-Manager-the-new-anti-adblock-weapon.html)
+- Feb 21 - [Real time Linux has one known issue remaining](https://www.spinics.net/lists/linux-rt-users/msg25648.html)
+- Feb 21 - [Times are great for programmers now. How does it end?](https://vaghetti.dev/posts/times-are-great/)
 <!--END_SECTION:hn-->
 
 <!--
