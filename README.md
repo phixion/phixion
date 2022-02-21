@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 21 - [SimCity, Cellular Automata, and Happy Tool for HyperLook (Nee HyperNeWS) (2018)](https://donhopkins.medium.com/hyperlook-nee-hypernews-nee-goodnews-99f411e58ce4)
-- Feb 21 - [Ask HN: New web service idea that you would pay for?](https://news.ycombinator.com/item?id=30416562)
-- Feb 21 - [Show HN: Prisma Python – A fully typed ORM for Python](https://github.com/RobertCraigie/prisma-client-py)
-- Feb 21 - [Google could have updated the Pixel 3 until Android 13, it just didn't want to](https://www.androidpolice.com/the-pixel-3-deserves-longer-updates/)
-- Feb 21 - [Symplectic Geometry in 2D – Points, Lines, Circles](https://www.researchgate.net/publication/358747081_Symplectic_Geometry_in_2D_-_Points_Lines_Circles)
+- Feb 21 - [Warner Bros.’ ‘Matrix’ legal slugfest exposes Hollywood’s shifting priorities](https://www.latimes.com/entertainment-arts/business/story/2022-02-21/warner-bros-matrix-legal-slugfest-exposes-hollywoods-shifting-realities)
+- Feb 21 - [Valencia's irrigation system is now a model for sustainable farming](https://www.bbc.com/travel/article/20220220-valencias-la-huerta-spains-ingenious-water-maze)
+- Feb 21 - [An elaborate con that tricked dozens into working for a fake design agency](https://www.bbc.com/news/uk-60387324)
+- Feb 21 - [The history (sort of) of service management in Unix](https://utcc.utoronto.ca/~cks/space/blog/unix/ServiceManagementHistory)
+- Feb 21 - [Dendron (YC W21) is hiring a React/TS expert to build better tools for thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI.html)
 <!--END_SECTION:hn-->
 
 <!--
