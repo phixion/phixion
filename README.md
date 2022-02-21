@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 21 - [Virological characteristics of SARS-CoV-2 BA2 variant: more pathogenic than BA1](https://www.biorxiv.org/content/10.1101/2022.02.14.480335v1)
+- Feb 21 - [Piepacker (YC S20) Is Hiring Full Stack Developers (Europe / Remote)](https://jobs.lever.co/piepacker/5aab1f1c-cc2d-4762-93d3-cf2a6c96cff0)
+- Feb 21 - [I wrote the least-C C program I could](https://briancallahan.net/blog/20220220.html)
+- Feb 21 - [Americans Will Need to Register to Travel to Europe in 2023](https://www.forbes.com/sites/suzannerowankelleher/2022/02/18/americans-will-need-to-register-to-travel-to-europe-in-2023/)
+- Feb 21 - [Ask HN: How do I develop skills to comfort people and offer compassion?](https://news.ycombinator.com/item?id=30412165)
 - Feb 21 - [95%-ile isn't that good (2020)](https://danluu.com/p95-skill/)
-- Feb 21 - [Google Tag Manager, the new anti-adblock weapon](https://chromium.woolyss.com/f/HTML-Google-Tag-Manager-the-new-anti-adblock-weapon.html)
-- Feb 21 - [Real time Linux has one known issue remaining](https://www.spinics.net/lists/linux-rt-users/msg25648.html)
-- Feb 21 - [Times are great for programmers now. How does it end?](https://vaghetti.dev/posts/times-are-great/)
 <!--END_SECTION:hn-->
 
 <!--
