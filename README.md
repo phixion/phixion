@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 21 - [Algolia is hiring full-stack engineers to help us research a new kind of search](https://www.algolia.com/careers/amer-senior-software-engineer-search-ranking-united-states)
-- Feb 21 - [Mozilla prepares to launch MDN Plus in March 2022](https://www.soeren-hentzschel.at/mdn/exklusiv-mdn-plus/)
-- Feb 21 - [Atlassian Co-Founder Wants to Buy Australia’s Biggest Polluter to Make It Green](https://www.wsj.com/articles/atlassian-co-founder-wants-to-buy-australias-biggest-polluter-to-make-it-greener-11645427453)
-- Feb 21 - [The new FreeDOS 1.3 is now available for download](https://sourceforge.net/p/freedos/news/2022/02/freedos-13/)
-- Feb 21 - [Minsky Moments in Venture Capital](https://pivotal.substack.com/p/minsky-moments-in-venture-capital)
+- Feb 21 - [SimCity, Cellular Automata, and Happy Tool for HyperLook (Nee HyperNeWS) (2018)](https://donhopkins.medium.com/hyperlook-nee-hypernews-nee-goodnews-99f411e58ce4)
+- Feb 21 - [Ask HN: New web service idea that you would pay for?](https://news.ycombinator.com/item?id=30416562)
+- Feb 21 - [Show HN: Prisma Python – A fully typed ORM for Python](https://github.com/RobertCraigie/prisma-client-py)
+- Feb 21 - [Google could have updated the Pixel 3 until Android 13, it just didn't want to](https://www.androidpolice.com/the-pixel-3-deserves-longer-updates/)
+- Feb 21 - [Symplectic Geometry in 2D – Points, Lines, Circles](https://www.researchgate.net/publication/358747081_Symplectic_Geometry_in_2D_-_Points_Lines_Circles)
 <!--END_SECTION:hn-->
 
 <!--
