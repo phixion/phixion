@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 22 - [Show HN: Constructor – simple issue tracking for small teams, inspired by Trello](https://constructor.dev)
-- Feb 22 - [Slack is down for some users](https://status.slack.com/2022-02/3083852db30af86f)
-- Feb 22 - [Ask HN: Am I the only one baffled by the long term usage of Twitter?](https://news.ycombinator.com/item?id=30428652)
-- Feb 22 - [West Virginia Wants to Ban Sending OTA Updates to Customer Cars](https://cleantechnica.com/2022/02/21/exclusive-west-virginia-wants-to-ban-tesla-others-from-sending-ota-updates-to-customer-cars/)
-- Feb 22 - [A career ending mistake](https://bitfieldconsulting.com/golang/career)
+- Feb 22 - [Bacteria upcycle carbon waste into valuable chemicals](https://news.northwestern.edu/stories/2022/02/bacteria-upcycle-carbon-waste-into-valuable-chemicals/)
+- Feb 22 - [A New Library for Network Optimization](https://opensource.googleblog.com/2022/02/A-New-Library-for-Network-Optimization.html)
+- Feb 22 - [Sunsetting the Bethesda.net launcher and migrating to Steam](https://bethesda.net/en/article/2RXxG1y000NWupPalzLblG/sunsetting-the-bethesda-net-launcher-and-migrating-to-steam)
+- Feb 22 - [Parallels Desktop Pro now sends spam notifications with ads to your desktop](https://old.reddit.com/r/MacOS/comments/syjhix/parallels_desktop_pro_now_sends_spam/)
+- Feb 22 - [Convoy Crackdown – power to freeze bank accounts without trial or legal recourse](https://thezvi.substack.com/p/convoy-crackdown)
 <!--END_SECTION:hn-->
 
 <!--
