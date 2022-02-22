@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 22 - [Centaur Labs (YC W19) Is Hiring a Product Designer](https://www.centaurlabs.com/open-positions?gh_jid=4335368004)
-- Feb 22 - [I Advised a Student to Not Publish Evidence of Reverse Racism](https://quillette.com/2022/02/17/a-student-sleuth-found-evidence-that-our-university-practices-reverse-racism-heres-why-i-advised-him-not-to-publish-it/)
-- Feb 22 - [What I learned running a SaaS for a year](https://onlineornot.com/what-learned-running-saas-for-year)
-- Feb 22 - [Why Flutter is the most popular cross-platform mobile SDK](https://stackoverflow.blog/2022/02/21/why-flutter-is-the-most-popular-cross-platform-mobile-sdk/)
-- Feb 22 - [Cyberpunk 2077 Update 1.5 Patch Notes Are Gigantic and Game-Changing](https://www.pushsquare.com/news/2022/02/cyberpunk-2077-update-1-5-patch-notes-are-gigantic-and-game-changing)
+- Feb 22 - [Show HN: Constructor – simple issue tracking for small teams, inspired by Trello](https://constructor.dev)
+- Feb 22 - [Slack is down for some users](https://status.slack.com/2022-02/3083852db30af86f)
+- Feb 22 - [Ask HN: Am I the only one baffled by the long term usage of Twitter?](https://news.ycombinator.com/item?id=30428652)
+- Feb 22 - [West Virginia Wants to Ban Sending OTA Updates to Customer Cars](https://cleantechnica.com/2022/02/21/exclusive-west-virginia-wants-to-ban-tesla-others-from-sending-ota-updates-to-customer-cars/)
+- Feb 22 - [A career ending mistake](https://bitfieldconsulting.com/golang/career)
 <!--END_SECTION:hn-->
 
 <!--
