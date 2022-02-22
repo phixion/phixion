@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 22 - [Deepnote (YC S19) is hiring a lead engineer to build a better notebook (Europe)](https://deepnote.com/join-us)
-- Feb 22 - [Time Series Forecasting in SQL](https://aicoding.substack.com/p/mindsdb-time-series)
-- Feb 22 - [Live Streaming a Macintosh Plus](https://jcs.org/2022/02/21/macplus_streaming)
-- Feb 22 - [Top Performers Have a Superpower: Happiness](https://sloanreview.mit.edu/article/top-performers-have-a-superpower-happiness/)
-- Feb 22 - [Try Clojure – An interactive tutorial in the browser](http://tryclojure.org)
+- Feb 22 - [Centaur Labs (YC W19) Is Hiring a Product Designer](https://www.centaurlabs.com/open-positions?gh_jid=4335368004)
+- Feb 22 - [I Advised a Student to Not Publish Evidence of Reverse Racism](https://quillette.com/2022/02/17/a-student-sleuth-found-evidence-that-our-university-practices-reverse-racism-heres-why-i-advised-him-not-to-publish-it/)
+- Feb 22 - [What I learned running a SaaS for a year](https://onlineornot.com/what-learned-running-saas-for-year)
+- Feb 22 - [Why Flutter is the most popular cross-platform mobile SDK](https://stackoverflow.blog/2022/02/21/why-flutter-is-the-most-popular-cross-platform-mobile-sdk/)
+- Feb 22 - [Cyberpunk 2077 Update 1.5 Patch Notes Are Gigantic and Game-Changing](https://www.pushsquare.com/news/2022/02/cyberpunk-2077-update-1-5-patch-notes-are-gigantic-and-game-changing)
 <!--END_SECTION:hn-->
 
 <!--
