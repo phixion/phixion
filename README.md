@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 21 - [GDBWave – A Post-Simulation Waveform-Based RISC-V GDB Debugging Server](https://tomverbeure.github.io/2022/02/20/GDBWave-Post-Simulation-RISCV-SW-Debugging.html)
+- Feb 22 - [Show HN: I rolled my own simple support / Helpdesk SaaS aimed at Indie Hackers](https://reallysimplesupport.com)
 - Feb 21 - [Industrial Augmented Reality – Who's Using It?](https://aircada.com/industrial-augmented-reality-who-is-actually-using-it/)
+- Feb 21 - [The Price of Nails Since 1695](https://www.nber.org/papers/w29617)
 - Feb 21 - [I have no capslock and I must scream](https://memex.marginalia.nu/log/48-i-have-no-capslock.gmi)
-- Feb 21 - [Wallabag: Self-hostable application for saving web pages and articles](https://github.com/wallabag/wallabag)
-- Feb 21 - [Coinbase CEO tweets how they came up with Super Bowl ad, lied about it](https://web3isgoinggreat.com/?id=2022-02-21-0)
+- Feb 21 - [Increase in Adipose Tissue Linoleic Acid of US Adults in the Last Half Century](https://academic.oup.com/advances/article/6/6/660/4555155)
 <!--END_SECTION:hn-->
 
 <!--
