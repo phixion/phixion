@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 23 - [Aesthetic (YC S18) Is Hiring Our First Web3 Business Developer](https://www.notion.so/aesthetic-app/Web3-Business-Development-a338ea8c3e0a4eb19421d65ad76ef3f4)
-- Feb 23 - [French minister announces new plan for supporting open source](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/new-action-plan-open-source-french-administration)
-- Feb 23 - [U.S. Secret Service Launches Cryptocurrency Awareness Hub](https://www.secretservice.gov/newsroom/releases/2022/02/us-secret-service-launches-cryptocurrency-awareness-hub)
-- Feb 23 - [In Praise of Writing (2021)](https://advait.live/praise-of-writing/)
-- Feb 23 - [I changed my roof and cut 1.5 tons of CO2e](http://www.martindaniel.co/roof/index.html)
+- Feb 23 - [What makes writing more readable?](https://pudding.cool/2022/02/plain/)
+- Feb 23 - [Russ Cox: “Sustainability with Rust” post misleading about Go](https://twitter.com/_rsc/status/1496352325157457922)
+- Feb 23 - [Parsing Series of Integers with SIMD](http://0x80.pl/articles/simd-parsing-int-sequences.html)
+- Feb 23 - [Intel Acquires Linutronix](https://community.intel.com/t5/Blogs/Products-and-Solutions/Software/Intel-Acquires-Linutronix/post/1362692)
+- Feb 23 - [Is it time to remove reiserfs?](https://lkml.org/lkml/2022/2/20/89)
 <!--END_SECTION:hn-->
 
 <!--
