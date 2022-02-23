@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 23 - [Unflow (YC S19) Is Hiring full-stack software engineers (Rails, Remote)](https://www.ycombinator.com/companies/unflow/jobs/3p9VTds-full-stack-engineer)
-- Feb 23 - [The cats sitting on a fence in early builds of Windows 8](https://devblogs.microsoft.com/oldnewthing/20220208-00/?p=106232)
-- Feb 23 - [Bicycle Recommendations](https://www.lincolnquirk.com/2021/04/10/bikes.html)
-- Feb 23 - [FLAC 1.3.4](https://xiph.org/flac/changelog.html)
-- Feb 23 - [Life at Low Reynolds Number (1976) [pdf]](https://science.curie.fr/wp-content/uploads/2016/04/Purcell_life_at_low_reynolds_number_1977.pdf)
+- Feb 23 - [Aesthetic (YC S18) Is Hiring Our First Web3 Business Developer](https://www.notion.so/aesthetic-app/Web3-Business-Development-a338ea8c3e0a4eb19421d65ad76ef3f4)
+- Feb 23 - [French minister announces new plan for supporting open source](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/new-action-plan-open-source-french-administration)
+- Feb 23 - [U.S. Secret Service Launches Cryptocurrency Awareness Hub](https://www.secretservice.gov/newsroom/releases/2022/02/us-secret-service-launches-cryptocurrency-awareness-hub)
+- Feb 23 - [In Praise of Writing (2021)](https://advait.live/praise-of-writing/)
+- Feb 23 - [I changed my roof and cut 1.5 tons of CO2e](http://www.martindaniel.co/roof/index.html)
 <!--END_SECTION:hn-->
 
 <!--
