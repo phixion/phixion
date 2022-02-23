@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 22 - [Avoiding the Top Nginx Configuration Mistakes](https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/)
-- Feb 22 - [In our cashless society, we need to take digital jail seriously](https://thehub.ca/2022-02-22/howard-anglin-in-our-cashless-society-we-need-to-take-digital-jail-seriously/)
-- Feb 22 - [The Lamb Paper](https://exogenesis23.substack.com/p/the-lamb-paper)
-- Feb 22 - [PyTorch on Apple M1 MAX GPUs with SHARK – faster than TensorFlow-Metal](https://nod.ai/pytorch-m1-max-gpu/)
-- Feb 22 - [Basis (YC S21) is hiring our first dev/designer to build Figma for data](https://www.workatastartup.com/jobs/49520)
+- Feb 23 - [Supreme Court will decide whether web designer has right to turn away gay couple](https://www.latimes.com/politics/story/2022-02-22/supreme-court-free-speech-right-to-turn-away-same-sex-couples)
+- Feb 23 - [Clear – The Open Source FPGA ASIC](https://groupgets.com/campaigns/1003-clear-the-open-source-fpga-asic-by-chipignite)
+- Feb 23 - [Superionic iron alloys and their seismic velocities in Earth’s inner core](https://www.nature.com/articles/s41586-021-04361-x)
+- Feb 23 - [Ask HN: Why don't more software projects use BitTorrent for downloads?](https://news.ycombinator.com/item?id=30436367)
+- Feb 23 - [Moral injury can occur in many contexts and populations, including the workplace](https://hbr.org/2022/02/employees-are-sick-of-being-asked-to-make-moral-compromises)
 <!--END_SECTION:hn-->
 
 <!--
