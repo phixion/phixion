@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 23 - [What makes writing more readable?](https://pudding.cool/2022/02/plain/)
-- Feb 23 - [Russ Cox: “Sustainability with Rust” post misleading about Go](https://twitter.com/_rsc/status/1496352325157457922)
-- Feb 23 - [Parsing Series of Integers with SIMD](http://0x80.pl/articles/simd-parsing-int-sequences.html)
-- Feb 23 - [Intel Acquires Linutronix](https://community.intel.com/t5/Blogs/Products-and-Solutions/Software/Intel-Acquires-Linutronix/post/1362692)
-- Feb 23 - [Is it time to remove reiserfs?](https://lkml.org/lkml/2022/2/20/89)
+- Feb 23 - [How Ebooks Have Poisoned Electronic Ink](https://schmud.de/posts/2021-12-01-eink.html)
+- Feb 23 - [RoarVM – The Manycore SqueakVM](https://github.com/smarr/RoarVM)
+- Feb 23 - [Vanced: YouTube adblocker for Android](https://vancedapp.com/)
+- Feb 23 - [No Minimum Parking Requirements? No Problem for Fayetteville, Arkansas](https://www.sightline.org/2022/02/22/no-minimum-parking-requirements-no-problem-for-fayetteville-arkansas/)
+- Feb 23 - [Subaru, Kia shut off some car features rather than adhere to 'right to repair'](https://www.ksdk.com/article/news/nation-world/some-car-features-shut-down-rather-than-adhere-to-right-to-repair-law/507-490590e2-aef7-4d1d-acc2-11414b48786d)
 <!--END_SECTION:hn-->
 
 <!--
