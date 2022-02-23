@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 23 - [Supreme Court will decide whether web designer has right to turn away gay couple](https://www.latimes.com/politics/story/2022-02-22/supreme-court-free-speech-right-to-turn-away-same-sex-couples)
-- Feb 23 - [Clear – The Open Source FPGA ASIC](https://groupgets.com/campaigns/1003-clear-the-open-source-fpga-asic-by-chipignite)
-- Feb 23 - [Superionic iron alloys and their seismic velocities in Earth’s inner core](https://www.nature.com/articles/s41586-021-04361-x)
-- Feb 23 - [Ask HN: Why don't more software projects use BitTorrent for downloads?](https://news.ycombinator.com/item?id=30436367)
-- Feb 23 - [Moral injury can occur in many contexts and populations, including the workplace](https://hbr.org/2022/02/employees-are-sick-of-being-asked-to-make-moral-compromises)
+- Feb 23 - [Unflow (YC S19) Is Hiring full-stack software engineers (Rails, Remote)](https://www.ycombinator.com/companies/unflow/jobs/3p9VTds-full-stack-engineer)
+- Feb 23 - [The cats sitting on a fence in early builds of Windows 8](https://devblogs.microsoft.com/oldnewthing/20220208-00/?p=106232)
+- Feb 23 - [Bicycle Recommendations](https://www.lincolnquirk.com/2021/04/10/bikes.html)
+- Feb 23 - [FLAC 1.3.4](https://xiph.org/flac/changelog.html)
+- Feb 23 - [Life at Low Reynolds Number (1976) [pdf]](https://science.curie.fr/wp-content/uploads/2016/04/Purcell_life_at_low_reynolds_number_1977.pdf)
 <!--END_SECTION:hn-->
 
 <!--
