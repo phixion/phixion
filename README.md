@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 24 - [New Story (YC S15) Is Hiring Senior Manager Direct Builds](https://jobs.lever.co/newstory/b2757a8e-9690-497b-bbde-e533984c6761)
-- Feb 24 - [Twitter based map of Russian troop movements](https://maphub.net/Cen4infoRes/russian-ukraine-monitor)
-- Feb 24 - [Italy gets its first unicorn as Scalapay raises $497M from Tencent](https://sifted.eu/articles/italy-first-unicorn-scalapay-tencent-series-b/)
-- Feb 24 - [An enhancement request I submitted to Bugzilla 15 years ago was just closed](https://bugzilla.mozilla.org/show_bug.cgi?id=376855)
-- Feb 24 - [A Silly Usecase for WebSockets (strobe warning)](https://www.jakobmaier.at/projects/lamp/)
+- Feb 24 - [Stretchtext or Bust – Ted Nelson’s unrealized vision](https://billwadge.com/2022/02/24/stretchtext-or-bust-ted-nelsons-unrealized-vision/)
+- Feb 24 - [In most countries, Dictatorship is far from a distant memory](https://ourworldindata.org/democracies-age)
+- Feb 24 - [Graph Theory and Linear Algebra [pdf]](https://www.math.utah.edu/~gustafso/s2017/2270/projects-2017/dylanJohnson/Dylan%20Johnson%20Graph%20Theory%20and%20Linear%20Algebra.pdf)
+- Feb 24 - [One in three young people say they felt happier during lockdown](https://www.cam.ac.uk/research/news/one-in-three-young-people-say-they-felt-happier-during-lockdown)
+- Feb 24 - [Custom JavaScript controls can't capture the nuance of form fields (2021)](https://drewdevault.com/2021/06/27/You-cant-capture-the-nuance.html)
 <!--END_SECTION:hn-->
 
 <!--
