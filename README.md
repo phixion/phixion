@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 24 - [NewPipe: The lightweight YouTube experience for Android](https://newpipe.net/)
-- Feb 24 - [Where Did I Put That File? The time has come to replace file systems](https://didgets.substack.com/p/where-did-i-put-that-file)
-- Feb 24 - [Carbonating at Home (2015)](http://truetex.com/carbonation.htm)
-- Feb 24 - [Moonshot Brands (YC W21) Is Hiring](https://news.ycombinator.com/item?id=30448991)
-- Feb 24 - [We are hiring contract developers to build new features in PyPI](https://pyfound.blogspot.com/2022/02/we-are-hiring-contract-developers-to.html)
+- Feb 24 - [Enforcement by Software](https://lemire.me/blog/2022/02/24/enforcement-by-software/)
+- Feb 24 - [Bitmovin (YC S15) Is Hiring Software Developers to Build the Future of Video](https://bitmovin.com/careers/)
+- Feb 24 - [The Future of Tun and Tap VPNs on macOS](https://tunnelblick.net/cTunTapConnections.html)
+- Feb 24 - [Show HN: Supershields.io – smart, Lua-powered SVG status badges](https://supershields.io)
+- Feb 24 - [Estonia, allies to trigger NATO Article 4](https://twitter.com/EstonianGovt/status/1496728085890273284)
 <!--END_SECTION:hn-->
 
 <!--
