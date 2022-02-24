@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 24 - [Enforcement by Software](https://lemire.me/blog/2022/02/24/enforcement-by-software/)
-- Feb 24 - [Bitmovin (YC S15) Is Hiring Software Developers to Build the Future of Video](https://bitmovin.com/careers/)
-- Feb 24 - [The Future of Tun and Tap VPNs on macOS](https://tunnelblick.net/cTunTapConnections.html)
-- Feb 24 - [Show HN: Supershields.io – smart, Lua-powered SVG status badges](https://supershields.io)
-- Feb 24 - [Estonia, allies to trigger NATO Article 4](https://twitter.com/EstonianGovt/status/1496728085890273284)
+- Feb 24 - [New Story (YC S15) Is Hiring Senior Manager Direct Builds](https://jobs.lever.co/newstory/b2757a8e-9690-497b-bbde-e533984c6761)
+- Feb 24 - [Twitter based map of Russian troop movements](https://maphub.net/Cen4infoRes/russian-ukraine-monitor)
+- Feb 24 - [Italy gets its first unicorn as Scalapay raises $497M from Tencent](https://sifted.eu/articles/italy-first-unicorn-scalapay-tencent-series-b/)
+- Feb 24 - [An enhancement request I submitted to Bugzilla 15 years ago was just closed](https://bugzilla.mozilla.org/show_bug.cgi?id=376855)
+- Feb 24 - [A Silly Usecase for WebSockets (strobe warning)](https://www.jakobmaier.at/projects/lamp/)
 <!--END_SECTION:hn-->
 
 <!--
