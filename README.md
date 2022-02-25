@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 25 - [QuestDB (YC S20) Is Hiring a Senior Back End Python Engineer](https://questdb.io/careers/senior-backend-engineer-python/)
-- Feb 25 - [Revolving-door Gray code for all 4-vertex graphs [video]](https://archive.org/details/gray-4-universal)
-- Feb 25 - [Understanding the War in Ukraine](https://acoup.blog/2022/02/25/miscellanea-understanding-the-war-in-ukraine/)
-- Feb 25 - [How to speed up the Rust compiler in 2022](https://nnethercote.github.io/2022/02/25/how-to-speed-up-the-rust-compiler-in-2022.html)
-- Feb 25 - [OrioleDB – solving some PostgreSQL wicked problems](https://github.com/orioledb/orioledb)
+- Feb 25 - [Don't Use RAR](https://group.miletic.net/en/blog/2022-02-24-dont-use-rar/)
+- Feb 25 - [Is Math the Key to Quantum Entanglement Protection?](https://spectrum.ieee.org/topological-photonics-entanglement-protection)
+- Feb 25 - [Patreon blocks Ukrainian volunteers charity account](https://twitter.com/Patreon/status/1497068371120390144)
+- Feb 25 - [A almost perfect rsync over SSH backup script](https://blog.zazu.berlin/software/a-almost-perfect-rsync-over-ssh-backup-script.html)
+- Feb 25 - [Ink/Stitch](https://inkstitch.org/)
 <!--END_SECTION:hn-->
 
 <!--
