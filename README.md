@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 24 - [Stretchtext or Bust – Ted Nelson’s unrealized vision](https://billwadge.com/2022/02/24/stretchtext-or-bust-ted-nelsons-unrealized-vision/)
-- Feb 24 - [In most countries, Dictatorship is far from a distant memory](https://ourworldindata.org/democracies-age)
-- Feb 24 - [Graph Theory and Linear Algebra [pdf]](https://www.math.utah.edu/~gustafso/s2017/2270/projects-2017/dylanJohnson/Dylan%20Johnson%20Graph%20Theory%20and%20Linear%20Algebra.pdf)
-- Feb 24 - [One in three young people say they felt happier during lockdown](https://www.cam.ac.uk/research/news/one-in-three-young-people-say-they-felt-happier-during-lockdown)
-- Feb 24 - [Custom JavaScript controls can't capture the nuance of form fields (2021)](https://drewdevault.com/2021/06/27/You-cant-capture-the-nuance.html)
+- Feb 24 - [In Search of Troy](https://www.smithsonianmag.com/history/in-search-of-troy-180979553/)
+- Feb 24 - [Here comes the first TikTok war](https://mikeelgan.substack.com/p/here-comes-the-worlds-first-tiktok)
+- Feb 24 - [Things the CSS spec folks got right](https://blog.jim-nielsen.com/2022/things-the-css-spec-folks-got-right/)
+- Feb 24 - [RocketLit (YC S16) is hiring a full-stack senior PHP developer for ed tech](https://www.innerorbit.com/about/careers/full-stack-developer.php)
+- Feb 24 - [Spectral and Algebraic Graph Theory](http://cs-www.cs.yale.edu/homes/spielman/sagt/)
 <!--END_SECTION:hn-->
 
 <!--
