@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 25 - [Don't Use RAR](https://group.miletic.net/en/blog/2022-02-24-dont-use-rar/)
-- Feb 25 - [Is Math the Key to Quantum Entanglement Protection?](https://spectrum.ieee.org/topological-photonics-entanglement-protection)
-- Feb 25 - [Patreon blocks Ukrainian volunteers charity account](https://twitter.com/Patreon/status/1497068371120390144)
-- Feb 25 - [A almost perfect rsync over SSH backup script](https://blog.zazu.berlin/software/a-almost-perfect-rsync-over-ssh-backup-script.html)
-- Feb 25 - [Ink/Stitch](https://inkstitch.org/)
+- Feb 25 - [Two new ways of extracting lithium from brine](https://www.economist.com/science-and-technology/two-new-ways-of-extracting-lithium-from-brine/21807823)
+- Feb 25 - [Why the West is reluctant to deny Russian banks access to SWIFT](https://www.economist.com/the-economist-explains/2022/02/25/why-the-west-is-reluctant-to-deny-russian-banks-access-to-swift)
+- Feb 25 - [I Learned French in 12 Months](https://runwes.com/2020/02/11/howilearnedfrench.html)
+- Feb 25 - [Learn Rust by writing a small OS](https://os.phil-opp.com/)
+- Feb 25 - [Tell HN: YouTube is banning accounts that support Ukraine](https://news.ycombinator.com/item?id=30467384)
 <!--END_SECTION:hn-->
 
 <!--
