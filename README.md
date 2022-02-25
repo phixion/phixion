@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 25 - [QuestDB (YC S20) Is Hiring a Senior Back End Python Engineer](https://questdb.io/careers/senior-backend-engineer-python/)
+- Feb 25 - [Revolving-door Gray code for all 4-vertex graphs [video]](https://archive.org/details/gray-4-universal)
+- Feb 25 - [Understanding the War in Ukraine](https://acoup.blog/2022/02/25/miscellanea-understanding-the-war-in-ukraine/)
+- Feb 25 - [How to speed up the Rust compiler in 2022](https://nnethercote.github.io/2022/02/25/how-to-speed-up-the-rust-compiler-in-2022.html)
 - Feb 25 - [OrioleDB – solving some PostgreSQL wicked problems](https://github.com/orioledb/orioledb)
-- Feb 25 - [Ukraine calls on hacker underground to defend against Russia](https://www.reuters.com/world/exclusive-ukraine-calls-hacker-underground-defend-against-russia-2022-02-24/)
-- Feb 24 - [Vim – Minimal Setup Explained](https://www.guckes.net/vim/setup.html)
-- Feb 24 - [World’s first octopus farm stirs ethical debate](https://www.reuters.com/business/environment/worlds-first-octopus-farm-stirs-ethical-debate-2022-02-23/)
-- Feb 24 - [In Search of Troy](https://www.smithsonianmag.com/history/in-search-of-troy-180979553/)
 <!--END_SECTION:hn-->
 
 <!--
