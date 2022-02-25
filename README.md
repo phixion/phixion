@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 25 - [Two new ways of extracting lithium from brine](https://www.economist.com/science-and-technology/two-new-ways-of-extracting-lithium-from-brine/21807823)
-- Feb 25 - [Why the West is reluctant to deny Russian banks access to SWIFT](https://www.economist.com/the-economist-explains/2022/02/25/why-the-west-is-reluctant-to-deny-russian-banks-access-to-swift)
-- Feb 25 - [I Learned French in 12 Months](https://runwes.com/2020/02/11/howilearnedfrench.html)
-- Feb 25 - [Learn Rust by writing a small OS](https://os.phil-opp.com/)
-- Feb 25 - [Tell HN: YouTube is banning accounts that support Ukraine](https://news.ycombinator.com/item?id=30467384)
+- Feb 25 - [Prose Painter](https://www.prosepainter.com/)
+- Feb 25 - [Announcing Actix Web v4.0](https://github.com/actix/actix-web/wiki/v4-Announcement)
+- Feb 25 - [Is Grammarly a keylogger? What can you do about it?](https://www.kolide.com/blog/is-grammarly-a-keylogger-what-can-you-do-about-it)
+- Feb 25 - [A practical guide to securing Google Workspace for a startup](https://fleetdm.com/handbook/security#google-workspace-security)
+- Feb 25 - [Facebook, Google other tech firms must verify identities under proposed UK law](https://www.engadget.com/facebook-google-and-other-tech-firms-must-verify-identities-under-proposed-uk-law-112501065.html)
 <!--END_SECTION:hn-->
 
 <!--
