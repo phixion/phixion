@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 26 - [Etleap (YC W13) Is Hiring a Software Engineer (In San Francisco and London)](https://etleap.com/jobs/#software-engineer)
-- Feb 26 - [Cut Russia from GitHub due to invasion of Ukraine](https://github.com/github/feedback/discussions/12042)
-- Feb 26 - [How Russia Took over the Internet in Crimea and Eastern Ukraine](https://www.datacenterdynamics.com/en/analysis/how-russia-took-over-the-internet-in-crimea-and-eastern-ukraine/)
-- Feb 26 - [Portugal announces immediate granting of visas for Ukrainian refugees](https://www.theportugalnews.com/news/2022-02-25/portugal-identifying-job-opportunities-for-refugees/65478)
-- Feb 26 - [PwC fined over exam cheating involving 1,100 of its auditors](https://www.ft.com/content/2e246b48-a6a9-4dc6-b4fb-136b62ab3a3a)
+- Feb 26 - [1.7M Hondas are being investigated for phantom braking](https://arstechnica.com/cars/2022/02/nhtsa-to-investigate-honda-accords-and-cr-vs-over-phantom-braking/)
+- Feb 26 - [Distributed terrorism/warfare via Telegram channels](https://news.ycombinator.com/item?id=30478391)
+- Feb 26 - [50% of Steam Bitcoin transactions were fraudulent when Steam accepted Bitcoin](https://www.pcgamer.com/uk/50-of-transactions-were-fraudulent-when-steam-accepted-bitcoin-for-payments-says-gabe-newell/)
+- Feb 26 - [Gas Embargo Would Hit Russia Hardest](https://www.statista.com/chart/26927/estimated-change-in-russias-gdp-due-to-western-sanctions-per-sector/)
+- Feb 26 - [Scientists reveal 4.4M galaxies in a new map](https://phys.org/news/2022-02-scientists-reveal-million-galaxies.html)
 <!--END_SECTION:hn-->
 
 <!--
