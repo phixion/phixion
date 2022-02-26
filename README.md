@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 26 - [Make Linux look like Windows 95](https://lunduke.substack.com/p/make-linux-look-exactly-like-windows)
-- Feb 26 - [Asm-Lsp – Language Server for Gas/NASM/Go Assembly](https://github.com/bergercookie/asm-lsp)
-- Feb 26 - [Detailed simulation of complete minimal cellular life](https://www.cell.com/cell/fulltext/S0092-8674(21)01488-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867421014884%3Fshowall%3Dtrue)
-- Feb 25 - [Russian-manufactured armored vehicle vulnerability in urban combat (1997)](https://man.fas.org/dod-101/sys/land/row/rusav.htm)
-- Feb 25 - [The definitive guide that you never wanted: Backpack fabrics](https://pangolinswithpacks.com/the-definitive-guide-that-you-never-wanted-backpack-fabrics-566aa1567af9?gi=2b7021b17405)
+- Feb 26 - [DJ performance remixing AI-created music- which is then live-remixed by a 2nd AI](https://qosmo.jp/en/projects/ai-dj-project2-ubiquitous-rhythm/)
+- Feb 26 - [PhotoRoom (YC S20) Is Hiring a Senior React Developer (Paris, Remote ± 1h)](https://jobs.lever.co/photoroom/1486369c-3123-49ea-9686-7ee828880997?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- Feb 26 - [eng.mil.ru is returning HTTP 418](https://eng.mil.ru)
+- Feb 26 - [Lua Devirtualization](https://ferib.dev/blog.php?l=post/Lua_Devirtualization_Part_1_Introduction)
+- Feb 26 - [OBS Plugin: Background Removal](https://github.com/royshil/obs-backgroundremoval)
 <!--END_SECTION:hn-->
 
 <!--
