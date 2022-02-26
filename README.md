@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 26 - [1.7M Hondas are being investigated for phantom braking](https://arstechnica.com/cars/2022/02/nhtsa-to-investigate-honda-accords-and-cr-vs-over-phantom-braking/)
-- Feb 26 - [Distributed terrorism/warfare via Telegram channels](https://news.ycombinator.com/item?id=30478391)
-- Feb 26 - [50% of Steam Bitcoin transactions were fraudulent when Steam accepted Bitcoin](https://www.pcgamer.com/uk/50-of-transactions-were-fraudulent-when-steam-accepted-bitcoin-for-payments-says-gabe-newell/)
-- Feb 26 - [Gas Embargo Would Hit Russia Hardest](https://www.statista.com/chart/26927/estimated-change-in-russias-gdp-due-to-western-sanctions-per-sector/)
-- Feb 26 - [Scientists reveal 4.4M galaxies in a new map](https://phys.org/news/2022-02-scientists-reveal-million-galaxies.html)
+- Feb 26 - [Reverse transcription of Pfizer's mRNA vaccine is happening in human cells](https://mdpi-res.com/d_attachment/cimb/cimb-44-00073/article_deploy/cimb-44-00073.pdf)
+- Feb 26 - [GitHub’s database of security advisories is now open source](https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/)
+- Feb 26 - [Thousands of Romanians waiting in their cars to pick up refugees at the border](https://twitter.com/AM_Friedman/status/1497351012234977291)
+- Feb 26 - [How to Defend a City](https://mwi.usma.edu/defending-the-city-an-overview-of-defensive-tactics-from-the-modern-history-of-urban-warfare/)
+- Feb 26 - [The Effects of Finland's Possible NATO Membership (2016) [pdf]](https://um.fi/documents/35732/48132/the_effects_of_finlands_possible_nato_membership/c206b3c2-acaa-5809-c545-7aa67c9bcb2a?t=1525861455616)
 <!--END_SECTION:hn-->
 
 <!--
