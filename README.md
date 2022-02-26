@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 26 - [DJ performance remixing AI-created music- which is then live-remixed by a 2nd AI](https://qosmo.jp/en/projects/ai-dj-project2-ubiquitous-rhythm/)
-- Feb 26 - [PhotoRoom (YC S20) Is Hiring a Senior React Developer (Paris, Remote ± 1h)](https://jobs.lever.co/photoroom/1486369c-3123-49ea-9686-7ee828880997?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- Feb 26 - [eng.mil.ru is returning HTTP 418](https://eng.mil.ru)
-- Feb 26 - [Lua Devirtualization](https://ferib.dev/blog.php?l=post/Lua_Devirtualization_Part_1_Introduction)
-- Feb 26 - [OBS Plugin: Background Removal](https://github.com/royshil/obs-backgroundremoval)
+- Feb 26 - [Etleap (YC W13) Is Hiring a Software Engineer (In San Francisco and London)](https://etleap.com/jobs/#software-engineer)
+- Feb 26 - [Cut Russia from GitHub due to invasion of Ukraine](https://github.com/github/feedback/discussions/12042)
+- Feb 26 - [How Russia Took over the Internet in Crimea and Eastern Ukraine](https://www.datacenterdynamics.com/en/analysis/how-russia-took-over-the-internet-in-crimea-and-eastern-ukraine/)
+- Feb 26 - [Portugal announces immediate granting of visas for Ukrainian refugees](https://www.theportugalnews.com/news/2022-02-25/portugal-identifying-job-opportunities-for-refugees/65478)
+- Feb 26 - [PwC fined over exam cheating involving 1,100 of its auditors](https://www.ft.com/content/2e246b48-a6a9-4dc6-b4fb-136b62ab3a3a)
 <!--END_SECTION:hn-->
 
 <!--
