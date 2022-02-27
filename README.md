@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 26 - [No_color](https://no-color.org/)
-- Feb 26 - [Boeing’s 737 Max Software Outsourced to $9-an-Hour Engineers (2019)](https://www.bloombergquint.com/business/boeing-s-737-max-software-outsourced-to-9-an-hour-engineers)
-- Feb 26 - [Heat people, not spaces (2015)](https://solar.lowtechmagazine.com/2015/02/heating-people-not-spaces.html)
-- Feb 26 - [S&P lowers Russia's rating to 'junk' status, Moody's issues junk warning](https://www.reuters.com/markets/rates-bonds/moodys-puts-russia-ukraine-ratings-review-downgrade-2022-02-25/)
-- Feb 26 - [Why did renewables become so cheap so fast?](https://ourworldindata.org/cheap-renewables-growth)
+- Feb 27 - [The Competitive Duality of Slay the Spire](https://www.twitlonger.com/show/n_1srvds6)
+- Feb 27 - [Show HN: TopHat Finance – free, open, and offline](https://athenodoros.github.io/TopHat/)
+- Feb 27 - [Russian Offensive Campaign Assessment, Feb 26, 2022](http://www.iswresearch.org/2022/02/russia-ukraine-warning-update-russian_26.html)
+- Feb 27 - [The internet was designed with a narrow waist](https://www.oilshell.org/blog/2022/02/diagrams.html)
+- Feb 27 - [Colors.lol (2020)](https://colors.lol/)
 <!--END_SECTION:hn-->
 
 <!--
