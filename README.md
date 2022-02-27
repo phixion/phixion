@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 27 - [The Competitive Duality of Slay the Spire](https://www.twitlonger.com/show/n_1srvds6)
-- Feb 27 - [Show HN: TopHat Finance – free, open, and offline](https://athenodoros.github.io/TopHat/)
-- Feb 27 - [Russian Offensive Campaign Assessment, Feb 26, 2022](http://www.iswresearch.org/2022/02/russia-ukraine-warning-update-russian_26.html)
-- Feb 27 - [The internet was designed with a narrow waist](https://www.oilshell.org/blog/2022/02/diagrams.html)
-- Feb 27 - [Colors.lol (2020)](https://colors.lol/)
+- Feb 27 - [Depict.ai (YC S20) Is Hiring Engineers](https://depictai.notion.site/Depict-YC-S20-is-hiring-engineers-8bab951236b2472cbc5302ca6c2f0ec2)
+- Feb 27 - [New JSON query operators in SQLite 3.38.0](https://tirkarthi.github.io/programming/2022/02/26/sqlite-json-improvements.html)
+- Feb 27 - [Thunderbird’s New Home (2020)](https://blog.thunderbird.net/2020/01/thunderbirds-new-home/)
+- Feb 27 - [Ask HN: The book that did it for you in math and/or CS?](https://news.ycombinator.com/item?id=30485544)
+- Feb 27 - [Dealing with a Cybiko Classic in 2022](https://kn100.me/interfacing-with-cybiko-2022/)
 <!--END_SECTION:hn-->
 
 <!--
