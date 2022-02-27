@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 27 - [Germany commits €100B to defense spending](https://www.dw.com/en/germany-commits-100-billion-to-defense-spending/a-60933724)
-- Feb 27 - [Wuhan market was epicentre of pandemic’s start, studies suggest](https://www.nature.com/articles/d41586-022-00584-8)
-- Feb 27 - [Circumventing Deep Packet Inspection with Socat and Rot13](https://gist.github.com/gmurdocca/88857b58dc4668d88b0d0fae6ebf8b64)
-- Feb 27 - [An-225](https://en.wikipedia.org/wiki/Antonov_An-225_Mriya)
-- Feb 27 - [Help Ukraine: resources, how to help without money, more](https://helpukraine.simple.ink/)
+- Feb 27 - [Defcon Level Warning System: Private Osint (Open Source) Analysis Organization](https://www.defconlevel.com/current-level.php)
+- Feb 27 - [Turkey to implement pact on access to shipping straits due to Ukraine war](https://www.reuters.com/world/middle-east/turkey-implement-international-pact-access-shipping-straits-due-ukraine-war-2022-02-27/)
+- Feb 27 - [Brains and algorithms partially converge in natural language processing](https://www.nature.com/articles/s42003-022-03036-1)
+- Feb 27 - [The professor who beat roulette](https://thehustle.co/professor-who-beat-roulette/)
+- Feb 27 - [Colorado to accept crypto for payments](https://kdvr.com/news/local/colorado-to-become-first-state-to-accept-crypto-for-payments/)
 <!--END_SECTION:hn-->
 
 <!--
