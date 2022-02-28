@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 28 - [Stacker (YC S20) Is hiring leadership layer across Product Marketing, and Growth](https://www.stackerhq.com/careers#job-listing)
-- Feb 28 - [A free Ukraine Invasion dashboard with live news, real-time map, Kyiv webcams](https://bunkerhub.netlify.app/)
-- Feb 28 - [Moscow Exchange](https://news.ycombinator.com/item?id=30498740)
-- Feb 28 - [Ruble-Denominated Bitcoin Volumes Surges to 9-Month High](https://www.coindesk.com/markets/2022/02/28/ruble-denominated-bitcoin-volumes-surges-to-9-month-highs/)
-- Feb 28 - [Django Garnett – simple multilingual models for Django](https://github.com/Aristotle-Metadata-Enterprises/django-garnett)
+- Feb 28 - [200-Foot-Long Railway to Nowhere Is a Brilliant Shipping Loophole](https://www.thedrive.com/news/44445/canada-has-a-railroad-for-fish-thats-only-200-feet-long-heres-why)
+- Feb 28 - [Toyota suspends domestic factory operations after suspected cyber attack](https://www.reuters.com/business/autos-transportation/toyota-suspends-all-domestic-factory-operations-after-suspected-cyber-attack-2022-02-28/)
+- Feb 28 - [“O, so sorry. I need more time. my country defending Russian invasion”](https://github.com/insky/vue-gpickr/pull/9)
+- Feb 28 - [Germany aims to get 100% of energy from renewable sources by 2035](https://www.reuters.com/business/sustainable-business/germany-aims-get-100-energy-renewable-sources-by-2035-2022-02-28/)
+- Feb 28 - [Modeling Chopping Onions: The Importance of Mise En Place](https://app.hex.tech/399c4a29-5b7f-4f70-8b53-afa8da38dd72/app/1682146f-f233-4219-bf3f-e5ec682d00db/latest)
 <!--END_SECTION:hn-->
 
 <!--
