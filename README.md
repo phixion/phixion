@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 27 - [How to make small tweaks to free software](https://gist.github.com/rain-1/799a4af4a9919c14c956272fe971b5d1)
-- Feb 27 - [DIY Tips to Improve Home Office Ergonomics](https://www.holisticaimtherapy.com/6-tips-to-improve-home-office-ergonomics/)
-- Feb 27 - [BP retreats from Russia's Rosneft at cost of $25 bln over Ukraine invasion](https://www.reuters.com/business/energy/britains-bp-says-exit-stake-russian-oil-giant-rosneft-2022-02-27/)
-- Feb 27 - [Using CMOS Sensors in a Cellphone for Gamma Detection and Classification](https://arxiv.org/abs/1401.0766)
-- Feb 27 - [Norway's sovereign wealth fund to vote against Apple management's pay plan](https://www.reuters.com/technology/norways-sovereign-wealth-fund-vote-against-apple-managements-pay-plan-2022-02-27/)
+- Feb 27 - [States where teachers’ unions are strongest are slowest to get back to in-person](https://www.city-journal.org/strong-teachers-unions-mean-more-covid-restrictions)
+- Feb 27 - [Lambda Calculus in 400 Bytes](https://justine.lol/lambda/)
+- Feb 27 - [Russia orders block on foreign clients' bids to sell Russian securities](https://www.reuters.com/business/russian-cbank-orders-block-foreign-clients-bids-sell-russian-securities-document-2022-02-27/)
+- Feb 27 - [Jwz: Robot war dogs hunting migrants now](https://web.archive.org/web/20220217183621/https://www.jwz.org/blog/2022/02/robot-war-dogs-hunting-migrants-now/)
+- Feb 27 - [The Great Curly Brace Trace Chase (2003)](https://web.archive.org/web/20120219061851/http://www.trailing-edge.com/~bobbemer/BRACES.HTM)
 <!--END_SECTION:hn-->
 
 <!--
