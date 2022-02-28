@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 28 - [Learn the Cypher query language in 10 days](https://memgraph.com/learn-cypher-query-language)
+- Feb 28 - [Bank of China's Singapore operation stops financing Russian oil trades](https://www.reuters.com/article/ukraine-crisis-swift-commodities-idCNL4N2V30WC)
+- Feb 28 - [Someone should probably start a bright home lighting company (2019)](https://www.lincolnquirk.com/2019/11/26/lumenator.html)
+- Feb 28 - [TorchRec, a library for modern production recommendation systems](https://pytorch.org/blog/introducing-torchrec/)
 - Feb 28 - [Linux from Scratch](https://linuxfromscratch.org/)
-- Feb 28 - [The painfully shy developer's guide to networking for a better job](https://www.samjulien.com/shy-dev-networking/)
-- Feb 28 - [ComiCSS](https://alvaromontoro.com/blog/67998/introducing-comicss)
-- Feb 28 - [Hooks: React’s Do-Notation](https://devanshj.me/writings/hooks-reacts-do-notation)
-- Feb 28 - [Milky Way and Andromeda galaxies are already merging (2020)](https://earthsky.org/astronomy-essentials/earths-night-sky-milky-way-andromeda-merge/)
 <!--END_SECTION:hn-->
 
 <!--
