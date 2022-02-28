@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 28 - [200-Foot-Long Railway to Nowhere Is a Brilliant Shipping Loophole](https://www.thedrive.com/news/44445/canada-has-a-railroad-for-fish-thats-only-200-feet-long-heres-why)
-- Feb 28 - [Toyota suspends domestic factory operations after suspected cyber attack](https://www.reuters.com/business/autos-transportation/toyota-suspends-all-domestic-factory-operations-after-suspected-cyber-attack-2022-02-28/)
-- Feb 28 - [“O, so sorry. I need more time. my country defending Russian invasion”](https://github.com/insky/vue-gpickr/pull/9)
-- Feb 28 - [Germany aims to get 100% of energy from renewable sources by 2035](https://www.reuters.com/business/sustainable-business/germany-aims-get-100-energy-renewable-sources-by-2035-2022-02-28/)
-- Feb 28 - [Modeling Chopping Onions: The Importance of Mise En Place](https://app.hex.tech/399c4a29-5b7f-4f70-8b53-afa8da38dd72/app/1682146f-f233-4219-bf3f-e5ec682d00db/latest)
+- Feb 28 - [Bill to require job postings to include salaries passes Washington Senate](https://www.kiro7.com/news/local/bill-require-job-postings-include-salaries-passes-washington-senate/UFC2IBIGCJAJRLGMMKHWZ3F3PE/)
+- Feb 28 - [No user accounts, by design](https://f-droid.org/en/2022/02/28/no-user-accounts-by-design.html)
+- Feb 28 - [TSMC R&D chief: There’s light at the end of the chip shortage](https://spectrum.ieee.org/tsmc-exec-on-chip-shortage)
+- Feb 28 - [Show HN: A more social, Amazon-free alternative to Goodreads](https://www.booqsi.com/)
+- Feb 28 - [How to take credit for someone else's work on GitHub](https://repography.com/blog/how-to-take-credit-for-someone-elses-work-on-github)
 <!--END_SECTION:hn-->
 
 <!--
