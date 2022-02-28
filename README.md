@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 27 - [States where teachers’ unions are strongest are slowest to get back to in-person](https://www.city-journal.org/strong-teachers-unions-mean-more-covid-restrictions)
-- Feb 27 - [Lambda Calculus in 400 Bytes](https://justine.lol/lambda/)
-- Feb 27 - [Russia orders block on foreign clients' bids to sell Russian securities](https://www.reuters.com/business/russian-cbank-orders-block-foreign-clients-bids-sell-russian-securities-document-2022-02-27/)
-- Feb 27 - [Jwz: Robot war dogs hunting migrants now](https://web.archive.org/web/20220217183621/https://www.jwz.org/blog/2022/02/robot-war-dogs-hunting-migrants-now/)
-- Feb 27 - [The Great Curly Brace Trace Chase (2003)](https://web.archive.org/web/20120219061851/http://www.trailing-edge.com/~bobbemer/BRACES.HTM)
+- Feb 28 - [Linux from Scratch](https://linuxfromscratch.org/)
+- Feb 28 - [The painfully shy developer's guide to networking for a better job](https://www.samjulien.com/shy-dev-networking/)
+- Feb 28 - [ComiCSS](https://alvaromontoro.com/blog/67998/introducing-comicss)
+- Feb 28 - [Hooks: React’s Do-Notation](https://devanshj.me/writings/hooks-reacts-do-notation)
+- Feb 28 - [Milky Way and Andromeda galaxies are already merging (2020)](https://earthsky.org/astronomy-essentials/earths-night-sky-milky-way-andromeda-merge/)
 <!--END_SECTION:hn-->
 
 <!--
