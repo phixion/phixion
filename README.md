@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 28 - [Bill to require job postings to include salaries passes Washington Senate](https://www.kiro7.com/news/local/bill-require-job-postings-include-salaries-passes-washington-senate/UFC2IBIGCJAJRLGMMKHWZ3F3PE/)
-- Feb 28 - [No user accounts, by design](https://f-droid.org/en/2022/02/28/no-user-accounts-by-design.html)
-- Feb 28 - [TSMC R&D chief: There’s light at the end of the chip shortage](https://spectrum.ieee.org/tsmc-exec-on-chip-shortage)
-- Feb 28 - [Show HN: A more social, Amazon-free alternative to Goodreads](https://www.booqsi.com/)
-- Feb 28 - [How to take credit for someone else's work on GitHub](https://repography.com/blog/how-to-take-credit-for-someone-elses-work-on-github)
+- Feb 28 - [You Need a Domain Name](https://johnathannader.com/why-you-need-domain-name/)
+- Feb 28 - [Major disruption in food and agriculture in next decade](https://www.rethinkx.com/press-release/2019/9/16/new-report-major-disruption-in-food-and-agriculture-in-next-decade)
+- Feb 28 - [Playdate Software Development Kit is now available for free to all](https://play.date/dev/)
+- Feb 28 - [F-Droid – alternative to Google Play store](https://f-droid.org/en/)
+- Feb 28 - [Toyota to suspend operations Tuesday at all Japan factories](https://www3.nhk.or.jp/nhkworld/en/news/20220228_47/)
 <!--END_SECTION:hn-->
 
 <!--
