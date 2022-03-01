@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 01 - [Compare Tech Salaries Instantly: Introducing the VanHack Tech Salary Calculator](https://blog.vanhack.com/blog/compare-tech-salaries-instantly-introducing-the-vanhack-tech-salary-calculator/)
-- Mar 01 - [React.__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED](https://github.com/facebook/react/blob/main/packages/shared/ReactSharedInternals.js)
-- Mar 01 - [MySQL Docker Image for Mac ARM M1](https://www.emmanuelgautier.com/blog/mysql-docker-arm-m1)
-- Mar 01 - [Understanding Higher-Kinded Types](https://danso.ca/blog/higher-kinded-types/)
-- Mar 01 - [MDN Web Docs Redesign](https://developer.mozilla.org/en-US/)
+- Mar 01 - [DDoS attacks slow down Citizens' Initiative signing in Finland](https://news.ycombinator.com/item?id=30518421)
+- Mar 01 - [Evidence that no one cares about crypto-denominated wealth](https://blog.kevmod.com/2022/03/01/strong-evidence-that-no-one-cares-about-crypto-denominated-wealth/)
+- Mar 01 - [How generics are implemented in Go 1.18](https://github.com/golang/proposal/blob/master/design/generics-implementation-dictionaries-go1.18.md)
+- Mar 01 - [An insane baseball proposal: Dual league restructuring](https://www.xstats.org/articles/2022/2/28/the-most-insane-out-of-the-box-baseball-proposal-dual-league-restructuring)
+- Mar 01 - [Dictionary Compression](https://kevincox.ca/2022/03/01/dictionary-compression/)
 <!--END_SECTION:hn-->
 
 <!--
