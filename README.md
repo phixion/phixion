@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 01 - [Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=30508982)
-- Mar 01 - [Updated rules on preparedness for nuclear explosion](https://www.ready.gov/nuclear-explosion)
-- Mar 01 - [Nostalgia MacPaint](https://paint.withdiagram.com/)
-- Mar 01 - [Open Web Advocacy](https://open-web-advocacy.org/)
-- Mar 01 - [US PTO rules against Univ of California, argues that Broad Inst invented CRISPR](https://www.scribd.com/document/561762623/106-115-Decision-on-Priority)
+- Mar 01 - [Svix (YC W21) Is Hiring a Developer Advocate (Remote)](https://www.svix.com/careers/)
+- Mar 01 - [MWC 2022: The next Microsoft Pluton Device and PAC technology](https://blogs.windows.com/windowsexperience/2022/02/28/mwc-2022-the-next-microsoft-pluton-device-pac-technology/)
+- Mar 01 - [Pokitto: Open-source pocket gaming console](https://www.pokitto.com/)
+- Mar 01 - [BLAS-level CPU Performance in 100 Lines of C](https://cs.stanford.edu/people/shadjis/blas.html)
+- Mar 01 - [Serious flaws in the way Samsung phones encrypt key material in TrustZone](https://twitter.com/matthew_d_green/status/1495935700545454084)
 <!--END_SECTION:hn-->
 
 <!--
