@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 01 - [Fly.io (YC W20) Is Hiring Laravel Specialists](https://fly.io/blog/fly-io-is-hiring-laravel-specialists/)
-- Mar 01 - [Privacy in email communication: we should use encryption by default](https://notes.nicfab.it/en/posts/privacycom/)
-- Mar 01 - [Huawei MatePad Paper – eInk Tablet](https://consumer.huawei.com/en/tablets/matepad-paper/)
-- Mar 01 - [Payhawk is officially Bulgaria’s first unicorn](https://therecursive.com/payhawk-is-officially-bulgaria-s-first-unicorn/)
-- Mar 01 - [Tell HN: SWIFT is not a payments transfer system](https://news.ycombinator.com/item?id=30510928)
+- Mar 01 - [Compare Tech Salaries Instantly: Introducing the VanHack Tech Salary Calculator](https://blog.vanhack.com/blog/compare-tech-salaries-instantly-introducing-the-vanhack-tech-salary-calculator/)
+- Mar 01 - [React.__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED](https://github.com/facebook/react/blob/main/packages/shared/ReactSharedInternals.js)
+- Mar 01 - [MySQL Docker Image for Mac ARM M1](https://www.emmanuelgautier.com/blog/mysql-docker-arm-m1)
+- Mar 01 - [Understanding Higher-Kinded Types](https://danso.ca/blog/higher-kinded-types/)
+- Mar 01 - [MDN Web Docs Redesign](https://developer.mozilla.org/en-US/)
 <!--END_SECTION:hn-->
 
 <!--
