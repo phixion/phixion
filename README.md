@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 01 - [Svix (YC W21) Is Hiring a Developer Advocate (Remote)](https://www.svix.com/careers/)
-- Mar 01 - [MWC 2022: The next Microsoft Pluton Device and PAC technology](https://blogs.windows.com/windowsexperience/2022/02/28/mwc-2022-the-next-microsoft-pluton-device-pac-technology/)
-- Mar 01 - [Pokitto: Open-source pocket gaming console](https://www.pokitto.com/)
-- Mar 01 - [BLAS-level CPU Performance in 100 Lines of C](https://cs.stanford.edu/people/shadjis/blas.html)
-- Mar 01 - [Serious flaws in the way Samsung phones encrypt key material in TrustZone](https://twitter.com/matthew_d_green/status/1495935700545454084)
+- Mar 01 - [Fly.io (YC W20) Is Hiring Laravel Specialists](https://fly.io/blog/fly-io-is-hiring-laravel-specialists/)
+- Mar 01 - [Privacy in email communication: we should use encryption by default](https://notes.nicfab.it/en/posts/privacycom/)
+- Mar 01 - [Huawei MatePad Paper – eInk Tablet](https://consumer.huawei.com/en/tablets/matepad-paper/)
+- Mar 01 - [Payhawk is officially Bulgaria’s first unicorn](https://therecursive.com/payhawk-is-officially-bulgaria-s-first-unicorn/)
+- Mar 01 - [Tell HN: SWIFT is not a payments transfer system](https://news.ycombinator.com/item?id=30510928)
 <!--END_SECTION:hn-->
 
 <!--
