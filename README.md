@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 28 - [You Need a Domain Name](https://johnathannader.com/why-you-need-domain-name/)
-- Feb 28 - [Major disruption in food and agriculture in next decade](https://www.rethinkx.com/press-release/2019/9/16/new-report-major-disruption-in-food-and-agriculture-in-next-decade)
-- Feb 28 - [Playdate Software Development Kit is now available for free to all](https://play.date/dev/)
-- Feb 28 - [F-Droid – alternative to Google Play store](https://f-droid.org/en/)
-- Feb 28 - [Toyota to suspend operations Tuesday at all Japan factories](https://www3.nhk.or.jp/nhkworld/en/news/20220228_47/)
+- Mar 01 - [Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=30508982)
+- Mar 01 - [Updated rules on preparedness for nuclear explosion](https://www.ready.gov/nuclear-explosion)
+- Mar 01 - [Nostalgia MacPaint](https://paint.withdiagram.com/)
+- Mar 01 - [Open Web Advocacy](https://open-web-advocacy.org/)
+- Mar 01 - [US PTO rules against Univ of California, argues that Broad Inst invented CRISPR](https://www.scribd.com/document/561762623/106-115-Decision-on-Priority)
 <!--END_SECTION:hn-->
 
 <!--
