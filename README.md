@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 01 - [Peter Norvig's Optimal Strategy for Wordle in Python Notebook](https://github.com/norvig/pytudes/blob/main/ipynb/Wordle.ipynb)
-- Mar 01 - [Write Plain Text Files](https://sive.rs/plaintext)
-- Mar 01 - [Streak (YC W22) Is Hiring a Head of Ops](https://www.streak.com/careers/head-of-ops)
-- Mar 01 - [DDoS attacks slow down Citizens' Initiative signing in Finland](https://news.ycombinator.com/item?id=30518421)
-- Mar 01 - [Why Apple’s new M1 chips are essential for rapid iOS development](https://doordash.engineering/2022/03/01/why-apples-new-m1-chips-are-essential-for-rapid-ios-development/)
+- Mar 02 - [Asian-Americans Fight Back Against School Discrimination](https://www.wsj.com/articles/asian-american-fight-school-discrimination-affirmative-action-racial-justice-admissions-standards-testing-charter-schools-achievement-gap-harvard-supreme-court-11646172518)
+- Mar 02 - [Pikuma: Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games)
+- Mar 02 - [Hidetaka Miyazaki Sees Death as a Feature, Not a Bug](https://www.newyorker.com/culture/persons-of-interest/hidetaka-miyazaki-sees-death-as-a-feature-not-a-bug)
+- Mar 02 - [Surprise Four Secret Novels by Brandon Sanderson](https://www.kickstarter.com/projects/dragonsteel/surprise-four-secret-novels-by-brandon-sanderson)
+- Mar 02 - [Ask HN: Has Gmail stopped working for you with uBlock Origin on Chrome?](https://news.ycombinator.com/item?id=30522524)
 <!--END_SECTION:hn-->
 
 <!--
