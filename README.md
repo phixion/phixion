@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 02 - [Asian-Americans Fight Back Against School Discrimination](https://www.wsj.com/articles/asian-american-fight-school-discrimination-affirmative-action-racial-justice-admissions-standards-testing-charter-schools-achievement-gap-harvard-supreme-court-11646172518)
-- Mar 02 - [Pikuma: Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games)
-- Mar 02 - [Hidetaka Miyazaki Sees Death as a Feature, Not a Bug](https://www.newyorker.com/culture/persons-of-interest/hidetaka-miyazaki-sees-death-as-a-feature-not-a-bug)
-- Mar 02 - [Surprise Four Secret Novels by Brandon Sanderson](https://www.kickstarter.com/projects/dragonsteel/surprise-four-secret-novels-by-brandon-sanderson)
-- Mar 02 - [Ask HN: Has Gmail stopped working for you with uBlock Origin on Chrome?](https://news.ycombinator.com/item?id=30522524)
+- Mar 02 - [Help Preserve the Internet with Archiveteam's Warrior](https://selfhostedheaven.com/posts/20220228-help-out-archiving/)
+- Mar 02 - [Ask HN: Can you help me remove the marks for the airstrikes from Google Maps?](https://news.ycombinator.com/item?id=30524637)
+- Mar 02 - [Crew (YC S21) Is Hiring a Software Engineer (Remote)](https://jobs.crew.work/jobs/61fa5748c676d0dcb51e0dc3)
+- Mar 02 - [Small statistics page showcase done via sh, Awk, log parsing and cron](https://s.mkws.sh/)
+- Mar 02 - [Creating a bash completion script (2018)](https://iridakos.com/programming/2018/03/01/bash-programmable-completion-tutorial)
 <!--END_SECTION:hn-->
 
 <!--
