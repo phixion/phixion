@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 01 - [Peter Norvig's Optimal Strategy for Wordle in Python Notebook](https://github.com/norvig/pytudes/blob/main/ipynb/Wordle.ipynb)
+- Mar 01 - [Write Plain Text Files](https://sive.rs/plaintext)
+- Mar 01 - [Streak (YC W22) Is Hiring a Head of Ops](https://www.streak.com/careers/head-of-ops)
 - Mar 01 - [DDoS attacks slow down Citizens' Initiative signing in Finland](https://news.ycombinator.com/item?id=30518421)
-- Mar 01 - [Evidence that no one cares about crypto-denominated wealth](https://blog.kevmod.com/2022/03/01/strong-evidence-that-no-one-cares-about-crypto-denominated-wealth/)
-- Mar 01 - [How generics are implemented in Go 1.18](https://github.com/golang/proposal/blob/master/design/generics-implementation-dictionaries-go1.18.md)
-- Mar 01 - [An insane baseball proposal: Dual league restructuring](https://www.xstats.org/articles/2022/2/28/the-most-insane-out-of-the-box-baseball-proposal-dual-league-restructuring)
-- Mar 01 - [Dictionary Compression](https://kevincox.ca/2022/03/01/dictionary-compression/)
+- Mar 01 - [Why Apple’s new M1 chips are essential for rapid iOS development](https://doordash.engineering/2022/03/01/why-apples-new-m1-chips-are-essential-for-rapid-ios-development/)
 <!--END_SECTION:hn-->
 
 <!--
