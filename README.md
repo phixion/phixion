@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 02 - [Help Preserve the Internet with Archiveteam's Warrior](https://selfhostedheaven.com/posts/20220228-help-out-archiving/)
-- Mar 02 - [Ask HN: Can you help me remove the marks for the airstrikes from Google Maps?](https://news.ycombinator.com/item?id=30524637)
-- Mar 02 - [Crew (YC S21) Is Hiring a Software Engineer (Remote)](https://jobs.crew.work/jobs/61fa5748c676d0dcb51e0dc3)
-- Mar 02 - [Small statistics page showcase done via sh, Awk, log parsing and cron](https://s.mkws.sh/)
-- Mar 02 - [Creating a bash completion script (2018)](https://iridakos.com/programming/2018/03/01/bash-programmable-completion-tutorial)
+- Mar 02 - [CareRev (YC S16) Is Hiring Salesforce Engineers (Remote USA)](https://grnh.se/447d72ff3us)
+- Mar 02 - [EEG Cat Ears](https://i2nk.co/mindwave-cat-ears)
+- Mar 02 - [Ask HN: How do you cope with possible nuclear threat?](https://news.ycombinator.com/item?id=30526022)
+- Mar 02 - [Don't Write Just in Plain Text (Longevity vs. Authenticity)](https://blog.miris.design/not-just-plain-text)
+- Mar 02 - [No need to declare captured Russian tanks, other equipment of invaders as income](https://en.interfax.com.ua/news/general/804441.html)
 <!--END_SECTION:hn-->
 
 <!--
