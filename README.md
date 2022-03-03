@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 03 - [Release (YC W20) is hiring a fullstack engineer to free teams from 'Cloudhell'](https://news.ycombinator.com/item?id=30539822)
-- Mar 03 - [Ask HN: Why aren't we see many video hosting companies adopt peertube or P2P?](https://news.ycombinator.com/item?id=30539791)
-- Mar 03 - [Map of Surnames in Europe](https://www.surnamemap.eu/)
-- Mar 03 - [Show HN: DontBeEvil.rip: Search, for developers (API, expressions, CLI)](https://news.ycombinator.com/item?id=30539620)
-- Mar 03 - [OneWeb suspends all launches from Baikonur](https://oneweb.net/media-center/the-board-of-oneweb-has-voted-to-suspend-all-launches-from-baikonur)
+- Mar 03 - [Russia halts deliveries of rocket engines to the U.S.](https://www.reuters.com/world/russia-halts-deliveries-rocket-engines-us-2022-03-03/)
+- Mar 03 - [The #1 Takeaway from Brandon Sanderson’s Mega-Kickstarter](https://stonemaiergames.com/the-1-takeaway-from-brandon-sandersons-mega-kickstarter/)
+- Mar 03 - [After George Floyd’s murder, police built a secretive surveillance machine](https://www.technologyreview.com/2022/03/03/1046676/police-surveillance-minnesota-george-floyd/)
+- Mar 03 - [PHP Pipes in 156 Bytes](https://github.com/bouldersharp/sharp-pipes)
+- Mar 03 - [43.33 Km Line of sight achieved using a USB WiFi stick](https://www.qsl.net/9a4qv/WiFi_Ri.htm)
 <!--END_SECTION:hn-->
 
 <!--
