@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 03 - [Research: ‘Ukraine war costs Russian military €20B per day’](https://www.consultancy.eu/news/7433/research-ukraine-war-costs-russian-military-20-billion-per-day)
-- Mar 03 - [Enso (YC S21) Is Hiring Senior Cloud Developer](https://www.ycombinator.com/companies/enso/jobs/AJAh56k-senior-rust-cloud-engineer)
-- Mar 03 - [Underwater power cables affects crabs biology at a cellular level](https://www.hw.ac.uk/news/articles/2021/underwater-cables-stop-crabs-in-their-tracks.htm)
-- Mar 03 - [A Look at the Slow, Silent Death of America’s Middle Class](https://themakingofamillionaire.com/a-look-at-the-slow-silent-death-of-americas-middle-class-ea760fbec8b1?gi=769366209cec)
-- Mar 03 - [Taiwan hit by widespread power outages](https://asia.nikkei.com/Business/Energy/Taiwan-hit-by-widespread-power-outages)
+- Mar 03 - [Release (YC W20) is hiring a fullstack engineer to free teams from 'Cloudhell'](https://news.ycombinator.com/item?id=30539822)
+- Mar 03 - [Ask HN: Why aren't we see many video hosting companies adopt peertube or P2P?](https://news.ycombinator.com/item?id=30539791)
+- Mar 03 - [Map of Surnames in Europe](https://www.surnamemap.eu/)
+- Mar 03 - [Show HN: DontBeEvil.rip: Search, for developers (API, expressions, CLI)](https://news.ycombinator.com/item?id=30539620)
+- Mar 03 - [OneWeb suspends all launches from Baikonur](https://oneweb.net/media-center/the-board-of-oneweb-has-voted-to-suspend-all-launches-from-baikonur)
 <!--END_SECTION:hn-->
 
 <!--
