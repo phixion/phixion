@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 03 - [Russia halts deliveries of rocket engines to the U.S.](https://www.reuters.com/world/russia-halts-deliveries-rocket-engines-us-2022-03-03/)
-- Mar 03 - [The #1 Takeaway from Brandon Sanderson’s Mega-Kickstarter](https://stonemaiergames.com/the-1-takeaway-from-brandon-sandersons-mega-kickstarter/)
-- Mar 03 - [After George Floyd’s murder, police built a secretive surveillance machine](https://www.technologyreview.com/2022/03/03/1046676/police-surveillance-minnesota-george-floyd/)
-- Mar 03 - [PHP Pipes in 156 Bytes](https://github.com/bouldersharp/sharp-pipes)
-- Mar 03 - [43.33 Km Line of sight achieved using a USB WiFi stick](https://www.qsl.net/9a4qv/WiFi_Ri.htm)
+- Mar 03 - [John Romero helps Ukarine: One Humanity – Doom 2 Level](https://romero.com/shop/p/onehumanity)
+- Mar 03 - [Nuclear war probabilities are useless - counter to the nuclear gambler’s ruin](https://unfashionable.substack.com/p/nuclear)
+- Mar 03 - [Reducing the risk of nuclear war should be a key concern of our generation](https://ourworldindata.org/nuclear-weapons-risk)
+- Mar 03 - [CPython, C standards, and IEEE 754](https://lwn.net/SubscriberLink/886516/d835ee6026544345/)
+- Mar 03 - [My New Old Macintosh SE/30 Computer](https://charlieharrington.com/my-new-old-apple-macintosh-se30-computer/)
 <!--END_SECTION:hn-->
 
 <!--
