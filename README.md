@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 04 - [AtoB (YC S20) is building Stripe for Transportation and hiring](https://careers.atob.com/)
-- Mar 04 - [Interslavic vs. Slovio – international slavic language comparison](http://steen.free.fr/interslavic/faq.html#slovio)
-- Mar 04 - [Melinda Gates: Bill's relationship with Jeffrey Epstein led to end of marriage](https://boingboing.net/2022/03/03/melinda-french-gates-said-bills-relationship-with-jeffrey-epstein-led-to-the-end-of-their-marriage.html)
-- Mar 04 - [Ask HN: Are GitHub pull-requests governed by the original repository license?](https://news.ycombinator.com/item?id=30553078)
-- Mar 04 - [Slovio, the international simplified Slavic language](http://slovio.com/)
+- Mar 04 - [Launch HN: Elementary (YC W22) – Open-source data observability](https://github.com/elementary-data/elementary)
+- Mar 04 - [My journey for dual displays with my M1 Pro Mac (2021)](https://www.derekseaman.com/2021/11/my-journey-for-dual-displays-with-my-m1-pro-mac.html)
+- Mar 04 - [Trust dies in darkness: Shedding light on Samsung’s TrustZone Keymaster design [pdf]](https://eprint.iacr.org/2022/208.pdf)
+- Mar 04 - [The U.S. added 678,000 jobs in February](https://text.npr.org/1084299987)
+- Mar 04 - [Show HN: I made a little Math game named Summle](https://summle.net/?hn)
 <!--END_SECTION:hn-->
 
 <!--
