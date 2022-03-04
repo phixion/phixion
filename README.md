@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Mar 03 - [Robinhood - 5,003,937 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Robinhood)
 - Mar 03 - [MacGeneration - 101,004 breached accounts](https://haveibeenpwned.com/PwnedWebsites#MacGeneration)
 - Mar 02 - [NVIDIA - 71,335 breached accounts](https://haveibeenpwned.com/PwnedWebsites#NVIDIA)
 - Feb 15 - [GiveSendGo - 89,966 breached accounts](https://haveibeenpwned.com/PwnedWebsites#GiveSendGo)
 - Jan 28 - [RedDoorz - 5,890,277 breached accounts](https://haveibeenpwned.com/PwnedWebsites#RedDoorz)
-- Jan 27 - [BTC-Alpha - 362,426 breached accounts](https://haveibeenpwned.com/PwnedWebsites#BTCAlpha)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 03 - [John Romero helps Ukarine: One Humanity – Doom 2 Level](https://romero.com/shop/p/onehumanity)
-- Mar 03 - [Nuclear war probabilities are useless - counter to the nuclear gambler’s ruin](https://unfashionable.substack.com/p/nuclear)
-- Mar 03 - [Reducing the risk of nuclear war should be a key concern of our generation](https://ourworldindata.org/nuclear-weapons-risk)
-- Mar 03 - [CPython, C standards, and IEEE 754](https://lwn.net/SubscriberLink/886516/d835ee6026544345/)
-- Mar 03 - [My New Old Macintosh SE/30 Computer](https://charlieharrington.com/my-new-old-apple-macintosh-se30-computer/)
+- Mar 03 - [Brave Talk: Unlimited, private video calls, in browser](https://brave.com/talk/)
+- Mar 03 - [Show HN: Surfboard – CodeSandbox for Arduino](https://sfbd.is/)
+- Mar 03 - [Speeding up Go's built-in JSON encoder for large arrays of objects](https://datastation.multiprocess.io/blog/2022-03-03-improving-go-json-encoding-performance-for-large-arrays-of-objects.html)
+- Mar 03 - [How “latency numbers everybody should know” decreased from 1990–2020](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
+- Mar 03 - [USDA Pomological Watercolor Collection](https://naldc.nal.usda.gov/usda_pomological_watercolor?q=&search_field=all_fields)
 <!--END_SECTION:hn-->
 
 <!--
