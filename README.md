@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 04 - [Meticulous (YC S21) Is Hiring #2 Founding Engineer in London](https://news.ycombinator.com/item?id=30551541)
-- Mar 04 - [CSS-Checker: Find and Reduce Similar and Duplicated CSS Scripts](https://github.com/ruilisi/css-checker)
-- Mar 04 - [Treatment for Tinnitus with Stimulation of Auditory and Non-Auditory Nerves](https://www.frontiersin.org/articles/10.3389/fnins.2022.758575/full)
-- Mar 04 - [DocBook 5.1: The Definitive Guide (2020)](https://tdg.docbook.org/tdg/5.1/)
-- Mar 04 - [Alex Honnold: The Soloist VR](https://thesoloist-vr.com/)
+- Mar 04 - [AtoB (YC S20) is building Stripe for Transportation and hiring](https://careers.atob.com/)
+- Mar 04 - [Interslavic vs. Slovio – international slavic language comparison](http://steen.free.fr/interslavic/faq.html#slovio)
+- Mar 04 - [Melinda Gates: Bill's relationship with Jeffrey Epstein led to end of marriage](https://boingboing.net/2022/03/03/melinda-french-gates-said-bills-relationship-with-jeffrey-epstein-led-to-the-end-of-their-marriage.html)
+- Mar 04 - [Ask HN: Are GitHub pull-requests governed by the original repository license?](https://news.ycombinator.com/item?id=30553078)
+- Mar 04 - [Slovio, the international simplified Slavic language](http://slovio.com/)
 <!--END_SECTION:hn-->
 
 <!--
