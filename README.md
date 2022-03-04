@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 04 - [The Miseducation of Maria Montessori](https://www.newyorker.com/books/under-review/the-miseducation-of-maria-montessori)
-- Mar 04 - [Let's Build a Network Video Recorder in Python](https://eternityforest.com/doku/doku.php?id=tech:nvr)
-- Mar 04 - [What you must know about Memory, Caches, and Shared Memory [pdf]](https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/lecture/parallel_distributed/2018/slides/pdf/memory2.pdf)
-- Mar 04 - [Fire at Ukrainian nuclear plant outside perimeter](https://www.reuters.com/markets/europe/top-wrap-1-europes-largest-nuclear-power-plant-fire-after-russian-attack-mayor-2022-03-04/)
-- Mar 03 - [How the weak can win – A primer on protracted war](https://acoup.blog/2022/03/03/collections-how-the-weak-can-win-a-primer-on-protracted-war/)
+- Mar 04 - [Meticulous (YC S21) Is Hiring #2 Founding Engineer in London](https://news.ycombinator.com/item?id=30551541)
+- Mar 04 - [CSS-Checker: Find and Reduce Similar and Duplicated CSS Scripts](https://github.com/ruilisi/css-checker)
+- Mar 04 - [Treatment for Tinnitus with Stimulation of Auditory and Non-Auditory Nerves](https://www.frontiersin.org/articles/10.3389/fnins.2022.758575/full)
+- Mar 04 - [DocBook 5.1: The Definitive Guide (2020)](https://tdg.docbook.org/tdg/5.1/)
+- Mar 04 - [Alex Honnold: The Soloist VR](https://thesoloist-vr.com/)
 <!--END_SECTION:hn-->
 
 <!--
