@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 04 - [Honey, he shrunk the watches](https://www.hodinkee.com/articles/honey-he-shrunk-the-watches)
-- Mar 04 - [YouTube suspends The Hill for playing clip of Trump denying election results](https://www.tampafp.com/youtube-suspends-the-hills-channel-for-playing-clip-of-donald-trump-denying-election-results/)
-- Mar 04 - [Yandex Provides Update on Impact of Current Developments](https://ir.yandex/press-releases?year=2022&id=03-03-2022)
-- Mar 04 - [Possible BGP hijack](https://bgpstream.com/event/287556)
-- Mar 04 - [Google Ads suspended me and turned a deaf ear](https://kajic.com/post/677830746658979840/google-ads-suspended-me-and-turned-a-deaf-ear)
+- Mar 05 - [A tool to detect bugs in Java and C/C++/Objective-C code before it ships](https://fbinfer.com/)
+- Mar 05 - [Assassination of Boris Nemtsov](https://en.wikipedia.org/wiki/Assassination_of_Boris_Nemtsov)
+- Mar 05 - [Raycast (YC W20) Is Hiring to Make Work Frictionless (Remote in Europe)](https://raycast.com/careers)
+- Mar 05 - [‘Mac Studio’ [desktop computer] is coming](https://9to5mac.com/2022/03/04/exclusive-mac-studio-is-coming-is-it-the-pro-mac-mini-or-mini-mac-pro/)
+- Mar 05 - [SpaceX reprioritized to cyber defense and overcoming signal jamming](https://twitter.com/elonmusk/status/1499972826828259328)
 <!--END_SECTION:hn-->
 
 <!--
