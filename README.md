@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 05 - [Atomic (YC S20) Is Hiring a Senior Software Engineer – Fullstack](https://boards.greenhouse.io/atomicvest/jobs/4378312004)
-- Mar 05 - [Ask HN: How many 2FA tokens do you have?](https://news.ycombinator.com/item?id=30566604)
-- Mar 05 - [Using the GCC Static Analyzer on the D Programming Language](https://dlang.org/blog/2022/01/14/using-the-gcc-static-analyzer-on-the-d-programming-language/)
-- Mar 05 - [The downside of encouraging ‘the fight’ on the streets of Ukraine](https://responsiblestatecraft.org/2022/03/04/us-eu-should-push-peace-talks-before-ukraine-war-gets-worse/)
-- Mar 05 - [Yandex warns of bond repayment and supply risks](https://www.reuters.com/markets/europe/russias-yandex-lacks-funds-cover-potential-bond-redemption-2022-03-04/)
+- Mar 05 - [Native Matrix VoIP with Element Call](https://element.io/blog/introducing-native-matrix-voip-with-element-call/)
+- Mar 05 - [Is there a functional reason for wizards to live in towers so often?](https://rpg.stackexchange.com/questions/196527/is-there-a-functional-reason-for-wizards-to-live-in-towers-so-often)
+- Mar 05 - [Cvc5: Versatile and Industrial-Strength SMT Solver [pdf]](https://homepages.dcc.ufmg.br/~hbarbosa/papers/tacas2022.pdf)
+- Mar 05 - [Forming the Dog Internet: Prototyping a Dog-to-Human Video Call Device (2021)](https://dl.acm.org/doi/10.1145/3488539)
+- Mar 05 - [Ask HN: How can we fix Wikipedia?](https://news.ycombinator.com/item?id=30567593)
 <!--END_SECTION:hn-->
 
 <!--
