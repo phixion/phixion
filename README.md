@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 04 - [Honey, He Shrunk the Watches](https://www.hodinkee.com/articles/honey-he-shrunk-the-watches)
-- Mar 04 - [YouTube Suspends the Hill for Playing Clip of Trump Denying Election Results](https://www.tampafp.com/youtube-suspends-the-hills-channel-for-playing-clip-of-donald-trump-denying-election-results/)
-- Mar 04 - [Ask HN: Friend has mom in Kharkiv – contact / path to help escort out?](https://news.ycombinator.com/item?id=30562007)
+- Mar 04 - [Honey, he shrunk the watches](https://www.hodinkee.com/articles/honey-he-shrunk-the-watches)
+- Mar 04 - [YouTube suspends The Hill for playing clip of Trump denying election results](https://www.tampafp.com/youtube-suspends-the-hills-channel-for-playing-clip-of-donald-trump-denying-election-results/)
+- Mar 04 - [Yandex Provides Update on Impact of Current Developments](https://ir.yandex/press-releases?year=2022&id=03-03-2022)
 - Mar 04 - [Possible BGP hijack](https://bgpstream.com/event/287556)
-- Mar 04 - [Is the Russian Air Force incapable of complex air operations?](https://rusi.org/explore-our-research/publications/rusi-defence-systems/russian-air-force-actually-incapable-complex-air-operations/)
+- Mar 04 - [Google Ads suspended me and turned a deaf ear](https://kajic.com/post/677830746658979840/google-ads-suspended-me-and-turned-a-deaf-ear)
 <!--END_SECTION:hn-->
 
 <!--
