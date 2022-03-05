@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 05 - [Native Matrix VoIP with Element Call](https://element.io/blog/introducing-native-matrix-voip-with-element-call/)
-- Mar 05 - [Is there a functional reason for wizards to live in towers so often?](https://rpg.stackexchange.com/questions/196527/is-there-a-functional-reason-for-wizards-to-live-in-towers-so-often)
-- Mar 05 - [Cvc5: Versatile and Industrial-Strength SMT Solver [pdf]](https://homepages.dcc.ufmg.br/~hbarbosa/papers/tacas2022.pdf)
-- Mar 05 - [Forming the Dog Internet: Prototyping a Dog-to-Human Video Call Device (2021)](https://dl.acm.org/doi/10.1145/3488539)
-- Mar 05 - [Ask HN: How can we fix Wikipedia?](https://news.ycombinator.com/item?id=30567593)
+- Mar 05 - [Mozilla patches two use-after-free vulnerabilities (ab)used in the wild](https://www.mozilla.org/en-US/security/advisories/mfsa2022-09/)
+- Mar 05 - [China Is Not Russia. Taiwan Is Not Ukraine](https://www.usip.org/publications/2022/03/china-not-russia-taiwan-not-ukraine)
+- Mar 05 - [A report on exercise and sleep (2021)](https://rubenerd.com/a-report-on-exercise-and-sleep/)
+- Mar 05 - [AMD Is Now Worth More Than Intel – and with Reason](https://seekingalpha.com/article/4493003-amd-worth-more-than-intel)
+- Mar 05 - [The perils of the “real” client IP](https://adam-p.ca/blog/2022/03/x-forwarded-for/)
 <!--END_SECTION:hn-->
 
 <!--
