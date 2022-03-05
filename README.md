@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 05 - [A tool to detect bugs in Java and C/C++/Objective-C code before it ships](https://fbinfer.com/)
-- Mar 05 - [Assassination of Boris Nemtsov](https://en.wikipedia.org/wiki/Assassination_of_Boris_Nemtsov)
-- Mar 05 - [Raycast (YC W20) Is Hiring to Make Work Frictionless (Remote in Europe)](https://raycast.com/careers)
-- Mar 05 - [‘Mac Studio’ [desktop computer] is coming](https://9to5mac.com/2022/03/04/exclusive-mac-studio-is-coming-is-it-the-pro-mac-mini-or-mini-mac-pro/)
-- Mar 05 - [SpaceX reprioritized to cyber defense and overcoming signal jamming](https://twitter.com/elonmusk/status/1499972826828259328)
+- Mar 05 - [Atomic (YC S20) Is Hiring a Senior Software Engineer – Fullstack](https://boards.greenhouse.io/atomicvest/jobs/4378312004)
+- Mar 05 - [Ask HN: How many 2FA tokens do you have?](https://news.ycombinator.com/item?id=30566604)
+- Mar 05 - [Using the GCC Static Analyzer on the D Programming Language](https://dlang.org/blog/2022/01/14/using-the-gcc-static-analyzer-on-the-d-programming-language/)
+- Mar 05 - [The downside of encouraging ‘the fight’ on the streets of Ukraine](https://responsiblestatecraft.org/2022/03/04/us-eu-should-push-peace-talks-before-ukraine-war-gets-worse/)
+- Mar 05 - [Yandex warns of bond repayment and supply risks](https://www.reuters.com/markets/europe/russias-yandex-lacks-funds-cover-potential-bond-redemption-2022-03-04/)
 <!--END_SECTION:hn-->
 
 <!--
