@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 06 - [If the US Market for SWEs is on fire why isn’t Europe’s, or India’s?](https://twitter.com/danluu/status/1447997574556880902)
-- Mar 06 - [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com/pdfbook.htm)
-- Mar 06 - [Discord.py returns to the discord bot scene](https://gist.github.com/Rapptz/c4324f17a80c94776832430007ad40e6)
-- Mar 06 - [NSA Network Infrastructure Security Guidance [pdf]](https://media.defense.gov/2022/Mar/01/2002947139/-1/-1/0/CTR_NSA_NETWORK_INFRASTRUCTURE_SECURITY_GUIDANCE_20220301.PDF)
-- Mar 06 - [Mathematically correct breakfast: How to slice a bagel into two linked halves](http://www.georgehart.com/bagel/bagel.html)
+- Mar 06 - [Send a text message about Ukraine to a random Russian mobile number](http://1920.in/)
+- Mar 06 - [Dr. Whitehurst and the FBI Lab Scandal (2017)](https://whistleblowersblog.org/government-whistleblowers/intelligence-community-whistleblowers/dr-whitehurst-and-the-fbi-lab-scandal/)
+- Mar 06 - [Notes on Nationalism by George Orwell](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/notes-on-nationalism/)
+- Mar 06 - [Selling to the Fortune 500, Government, and Other Lovecraftian Horrors](https://training.kalzumeus.com/newsletters/archive/enterprise_sales)
+- Mar 06 - [How to Write a Spelling Corrector (2007)](http://www.norvig.com/spell-correct.html)
 <!--END_SECTION:hn-->
 
 <!--
