@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 05 - [Mozilla patches two use-after-free vulnerabilities (ab)used in the wild](https://www.mozilla.org/en-US/security/advisories/mfsa2022-09/)
-- Mar 05 - [China Is Not Russia. Taiwan Is Not Ukraine](https://www.usip.org/publications/2022/03/china-not-russia-taiwan-not-ukraine)
-- Mar 05 - [A report on exercise and sleep (2021)](https://rubenerd.com/a-report-on-exercise-and-sleep/)
-- Mar 05 - [AMD Is Now Worth More Than Intel – and with Reason](https://seekingalpha.com/article/4493003-amd-worth-more-than-intel)
-- Mar 05 - [The perils of the “real” client IP](https://adam-p.ca/blog/2022/03/x-forwarded-for/)
+- Mar 05 - [Scientists Watch a Memory Form in a Living Brain](https://www.quantamagazine.org/scientists-watch-a-memory-form-in-a-living-brain-20220303/)
+- Mar 05 - [MasterCard suspends all services in Russia](https://www.mastercard.com/news/press/2022/march/mastercard-statement-on-suspension-of-russian-operations/)
+- Mar 05 - [How Does This End?](https://carnegieendowment.org/2022/03/03/how-does-this-end-pub-86570)
+- Mar 05 - [How BART on the Golden Gate Bridge died: A new history](https://seungylee14.substack.com/p/how-bart-on-the-golden-gate-bridge)
+- Mar 05 - [I’m not convinced by the new lab leak debunking](https://www.slowboring.com/p/im-not-convinced-by-the-new-lab-leak)
 <!--END_SECTION:hn-->
 
 <!--
