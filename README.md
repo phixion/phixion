@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 06 - [Send a text message about Ukraine to a random Russian mobile number](http://1920.in/)
-- Mar 06 - [Dr. Whitehurst and the FBI Lab Scandal (2017)](https://whistleblowersblog.org/government-whistleblowers/intelligence-community-whistleblowers/dr-whitehurst-and-the-fbi-lab-scandal/)
-- Mar 06 - [Notes on Nationalism by George Orwell](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/notes-on-nationalism/)
-- Mar 06 - [Selling to the Fortune 500, Government, and Other Lovecraftian Horrors](https://training.kalzumeus.com/newsletters/archive/enterprise_sales)
-- Mar 06 - [How to Write a Spelling Corrector (2007)](http://www.norvig.com/spell-correct.html)
+- Mar 06 - [The Muse (YC W12) Is Hiring a Senior Platform Engineer](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
+- Mar 06 - [InstaNFC – Access Control Hardware for Developers](https://instanfc.com/)
+- Mar 06 - [Digital Health Rules](https://www.deprocrastination.co/blog/9-digital-health-rules)
+- Mar 06 - [Just Say No To `:Latest`](https://platformers.dev/log/2022-03-02-latest-literally-kills-puppies/)
+- Mar 06 - [We automatically fixed thousands of Ruby 2.7 deprecation warnings](https://about.gitlab.com/blog/2021/02/03/how-we-automatically-fixed-hundreds-of-ruby-2-7-deprecation-warnings/)
 <!--END_SECTION:hn-->
 
 <!--
