@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 05 - [Scientists Watch a Memory Form in a Living Brain](https://www.quantamagazine.org/scientists-watch-a-memory-form-in-a-living-brain-20220303/)
-- Mar 05 - [MasterCard suspends all services in Russia](https://www.mastercard.com/news/press/2022/march/mastercard-statement-on-suspension-of-russian-operations/)
-- Mar 05 - [How Does This End?](https://carnegieendowment.org/2022/03/03/how-does-this-end-pub-86570)
-- Mar 05 - [How BART on the Golden Gate Bridge died: A new history](https://seungylee14.substack.com/p/how-bart-on-the-golden-gate-bridge)
-- Mar 05 - [I’m not convinced by the new lab leak debunking](https://www.slowboring.com/p/im-not-convinced-by-the-new-lab-leak)
+- Mar 06 - [If the US Market for SWEs is on fire why isn’t Europe’s, or India’s?](https://twitter.com/danluu/status/1447997574556880902)
+- Mar 06 - [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com/pdfbook.htm)
+- Mar 06 - [Discord.py returns to the discord bot scene](https://gist.github.com/Rapptz/c4324f17a80c94776832430007ad40e6)
+- Mar 06 - [NSA Network Infrastructure Security Guidance [pdf]](https://media.defense.gov/2022/Mar/01/2002947139/-1/-1/0/CTR_NSA_NETWORK_INFRASTRUCTURE_SECURITY_GUIDANCE_20220301.PDF)
+- Mar 06 - [Mathematically correct breakfast: How to slice a bagel into two linked halves](http://www.georgehart.com/bagel/bagel.html)
 <!--END_SECTION:hn-->
 
 <!--
