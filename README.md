@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 06 - [Moscow police officers stop people, request their phones to read their messages](https://twitter.com/KevinRothrock/status/1500458582902460420)
-- Mar 06 - [Germany considers keeping nuclear power plants online](https://www.euractiv.com/section/energy/news/germany-considers-keeping-nuclear-power-plants-online/)
-- Mar 06 - [Ask HN: Why would anyone choose Haskell to develop applications?](https://news.ycombinator.com/item?id=30577911)
-- Mar 06 - [No, “Open Source” does not mean “Includes Free Support” (2020)](https://raccoon.onyxbits.de/blog/bugreport-free-support/)
-- Mar 06 - [Dr. Bronner’s, the Soap Company, Dips into Psychedelics](https://www.nytimes.com/2022/02/28/health/ketamine-bronner-bros.html)
+- Mar 06 - [Windows Defender is enough, if you harden it](https://0ut3r.space/2022/03/06/windows-defender/)
+- Mar 06 - [Non blocking and zero downtime ALTER statements in PostgreSQL with pg-osc](https://www.shayon.dev/post/2022/47/pg-osc-zero-downtime-schema-changes-in-postgresql/)
+- Mar 06 - [Why is there a TikTok tracking pixel on UberEats what is this crap?](https://user-images.githubusercontent.com/7585078/156935120-91e35d8f-fed2-4f97-a31e-2460c884db94.png)
+- Mar 06 - [Using email wrong](https://arne.me/blog/youre-using-email-wrong/)
+- Mar 06 - [Adding a “duress” password with PAM Duress (2021)](https://lwn.net/Articles/867158/)
 <!--END_SECTION:hn-->
 
 <!--
