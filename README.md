@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 07 - [Just 5 Top headlines of the world you need to start your day with](https://justfive.news/)
+- Mar 07 - [Do It (2004)](https://www.folklore.org/StoryView.py?project=Macintosh&story=Do_It.txt)
+- Mar 07 - [Linux from Scratch – LFS and BLFS Version 11.1 are released](https://lists.linuxfromscratch.org/sympa/arc/lfs-announce/2022-03/msg00000.html)
 - Mar 07 - [NaTakallam – High-quality language services and courses delivered by refugees](https://natakallam.com/)
-- Mar 07 - [Introduction to GPUs with OpenGL](https://engineering.monstar-lab.com/en/post/2022/03/01/Introduction-To-GPUs-With-OpenGL/)
-- Mar 07 - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
-- Mar 07 - [Zero Rupee Note](https://karthika2006.wordpress.com/2015/05/13/zero-rupee-note/)
-- Mar 07 - [Four-year-old Israeli child tests positive for polio, first case since 1989](https://www.jpost.com/breaking-news/article-700510)
+- Mar 07 - [How the world's heaviest man lost it all (2017)](https://www.gq.com/story/how-the-worlds-heaviest-man-lost-it-all)
 <!--END_SECTION:hn-->
 
 <!--
