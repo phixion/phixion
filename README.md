@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 06 - [My lizard brain is no match for infinite scroll](https://alexanderell.is/posts/infinite-scroll/)
-- Mar 06 - [The Vintage Beauty of Soviet Control Rooms (2018)](https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/)
-- Mar 06 - [Dover.com is hiring senior engineers](https://www.dover.com/open-roles/software-engineer)
-- Mar 06 - [The Einstein Telescope](https://www.einsteintelescope.nl/en/)
-- Mar 06 - [Commodore 64 – Reverse Engineered BusCard](https://pdbuchan.com/commodore/buscard/buscard.html)
+- Mar 07 - [NaTakallam – High-quality language services and courses delivered by refugees](https://natakallam.com/)
+- Mar 07 - [Introduction to GPUs with OpenGL](https://engineering.monstar-lab.com/en/post/2022/03/01/Introduction-To-GPUs-With-OpenGL/)
+- Mar 07 - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
+- Mar 07 - [Zero Rupee Note](https://karthika2006.wordpress.com/2015/05/13/zero-rupee-note/)
+- Mar 07 - [Four-year-old Israeli child tests positive for polio, first case since 1989](https://www.jpost.com/breaking-news/article-700510)
 <!--END_SECTION:hn-->
 
 <!--
