@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 07 - [Just 5 Top headlines of the world you need to start your day with](https://justfive.news/)
-- Mar 07 - [Do It (2004)](https://www.folklore.org/StoryView.py?project=Macintosh&story=Do_It.txt)
-- Mar 07 - [Linux from Scratch – LFS and BLFS Version 11.1 are released](https://lists.linuxfromscratch.org/sympa/arc/lfs-announce/2022-03/msg00000.html)
-- Mar 07 - [NaTakallam – High-quality language services and courses delivered by refugees](https://natakallam.com/)
-- Mar 07 - [How the world's heaviest man lost it all (2017)](https://www.gq.com/story/how-the-worlds-heaviest-man-lost-it-all)
+- Mar 07 - [Remi Labs (YC W22) is hiring to build NFTs for ecom businesses](https://www.workatastartup.com/jobs/50556)
+- Mar 07 - [Loudness War](https://en.wikipedia.org/wiki/Loudness_war)
+- Mar 07 - [Freshmeat.net, 1997-2014 (2014)](https://jeffcovey.net/2014/06/19/freshmeat-net-1997-2014/)
+- Mar 07 - [Russia to Legalize Software Piracy](https://writing.kemitchell.com/2022/03/05/Russia-to-Legalize-Software-Piracy.html)
+- Mar 07 - [Ask HN: How does one go about bringing a hardware product to market](https://news.ycombinator.com/item?id=30586175)
 <!--END_SECTION:hn-->
 
 <!--
