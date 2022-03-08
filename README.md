@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 07 - [A neurologist who hacked his brain and almost lost his mind (2016)](https://www.wired.com/2016/01/phil-kennedy-mind-control-computer/)
-- Mar 07 - [An update on the threat landscape](https://blog.google/threat-analysis-group/update-threat-landscape-ukraine/)
-- Mar 07 - [Kodable (YC IK12) is hiring game developers to help us teach kids to code](https://www.indeed.com/viewjob?t=senior+game+developer&jk=90675a990f5b7fb6&_ga=2.111768833.403711911.1646594062-903361712.1645574492)
-- Mar 07 - [The voice of Utah's arches – Ambient seismic vibration sped up 25x](https://geohazards.earth.utah.edu/tones/)
-- Mar 07 - [Select, put and delete data from JSON, TOML, YAML, XML and CSV files](https://github.com/TomWright/dasel)
+- Mar 08 - [C Package Manager](https://github.com/clibs/clib)
+- Mar 08 - [Ford to Impose Non-Negotiable Pricing on EV Sales as Part of Model E Plan](https://www.macheforum.com/site/threads/ford-to-impose-non-negotiable-pricing-on-ev-sales-as-part-of-model-e-division-plan.15168/)
+- Mar 08 - [Transforming Cities with Superblocks](https://sustainabilitycommunity.springernature.com/posts/test-84fa5e52-d305-4a2e-99de-1e775162b3c9)
+- Mar 08 - [Unexpected Shunts in the Supply Chain](https://www.moderndescartes.com/essays/repackaged_energy/)
+- Mar 08 - [A brief reflection on Mac software stagnation](http://morrick.me/archives/9508)
 <!--END_SECTION:hn-->
 
 <!--
