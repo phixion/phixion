@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 08 - [Lead Exposure in Last Century Shrunk IQ Scores of Half of Americans](https://today.duke.edu/2022/03/lead-exposure-last-century-shrunk-iq-scores-half-americans)
-- Mar 08 - [WebGPU – All of the cores, none of the canvas](https://surma.dev/things/webgpu/)
-- Mar 08 - [Is Putin’s end game the roll out of a domestic CBDC?](https://the-blindspot.com/is-putins-end-game-the-roll-out-of-a-domestic-cbdc/)
-- Mar 08 - [If you speak Russian, call Russia and tell them what is happening in Ukraine](https://callrussia.org/)
-- Mar 08 - [UP9600: How to Bit-Bang 9600 Baud RS-232 on the C64](https://www.pagetable.com/?p=1656)
+- Mar 08 - [Put an io_uring on it: Exploiting the Linux Kernel](https://www.graplsecurity.com/post/iou-ring-exploiting-the-linux-kernel)
+- Mar 08 - [Launch HN: Optery (YC W22) – Remove your personal info from the internet](https://www.optery.com/)
+- Mar 08 - [Apple unveils M1 Ultra, the world’s most powerful chip for a personal computer](https://www.apple.com/newsroom/2022/03/apple-unveils-m1-ultra-the-worlds-most-powerful-chip-for-a-personal-computer/)
+- Mar 08 - [Apple Mac Studio](https://www.apple.com/mac-studio/)
+- Mar 08 - [Apple announces 27-inch 5K Studio Display](https://www.apple.com/studio-display/)
 <!--END_SECTION:hn-->
 
 <!--
