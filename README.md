@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 08 - [C Package Manager](https://github.com/clibs/clib)
-- Mar 08 - [Ford to Impose Non-Negotiable Pricing on EV Sales as Part of Model E Plan](https://www.macheforum.com/site/threads/ford-to-impose-non-negotiable-pricing-on-ev-sales-as-part-of-model-e-division-plan.15168/)
-- Mar 08 - [Transforming Cities with Superblocks](https://sustainabilitycommunity.springernature.com/posts/test-84fa5e52-d305-4a2e-99de-1e775162b3c9)
-- Mar 08 - [Unexpected Shunts in the Supply Chain](https://www.moderndescartes.com/essays/repackaged_energy/)
-- Mar 08 - [A brief reflection on Mac software stagnation](http://morrick.me/archives/9508)
+- Mar 08 - [Wasmer (YC S19) Is Hiring Rust Engineers and Eng. Managers](https://www.workatastartup.com/companies/wasmer)
+- Mar 08 - [I am the healthiest person I know, and I got cancer](https://seema.page)
+- Mar 08 - [Unblinding Our Admin Futures](https://www.overcomingbias.com/2022/03/unblinding-admin-futures.html)
+- Mar 08 - [Putin may be planning to pummel Kyiv into submission](https://www.axios.com/battle-kyiv-urban-warfare-putin-invasion-ef4e50ab-4f07-4aba-be49-4ea2cf450a0c.html)
+- Mar 08 - [Tell HN: All .fj domains have gone offline](https://news.ycombinator.com/item?id=30596404)
 <!--END_SECTION:hn-->
 
 <!--
