@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 09 - [Senior devs. Is anyone else insulted by coding exams?](https://news.ycombinator.com/item?id=30615411)
-- Mar 09 - [Launch HN: Rownd (YC W22) – Add authentication and accounts to any website](https://news.ycombinator.com/item?id=30615352)
-- Mar 09 - [The Advantage of No Funding](https://sive.rs/nofund)
-- Mar 09 - [Death by PowerPoint: the slide that killed seven people (Columbia Shuttle) (2019)](https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx)
-- Mar 09 - [Twitter is now available on Tor](https://help.twitter.com/en/using-twitter/twitter-supported-browsers)
+- Mar 09 - [Pilot FriXion Erasable Pens: A Comprehensive Guide](https://www.jetpens.com/blog/Pilot-FriXion-Erasable-Pens-A-Comprehensive-Guide/pt/670)
+- Mar 09 - [Reverse-engineering the waveform generator in a 1969 breadboard](https://www.righto.com/2022/03/reverse-engineering-waveform-generator.html)
+- Mar 09 - [Amazon lied about using seller data, lawmakers say, urging DOJ investigation](https://arstechnica.com/tech-policy/2022/03/us-lawmakers-seek-criminal-probe-of-amazon-for-lying-about-use-of-seller-data/)
+- Mar 09 - [Blender 3.1](https://www.blender.org/download/releases/3-1/)
+- Mar 09 - [Let's Spouge](https://www.theguardian.com/music/2022/feb/28/spouge-forgotten-music-genre-jackie-opel-barbados)
 <!--END_SECTION:hn-->
 
 <!--
