@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 09 - [9/11 first responders at higher risk for blood cancer-associated mutations](https://news.vumc.org/2022/03/07/study-finds-world-trade-center-responders-at-higher-risk-for-blood-cancer-associated-mutations/)
-- Mar 08 - [Netflix CFO has no plans for advertising but 'never say never'](https://www.reuters.com/technology/netflix-cfo-has-no-plans-advertising-never-say-never-2022-03-08/)
-- Mar 08 - [Internet Backbone Giant Lumen Shuns .RU](https://krebsonsecurity.com/2022/03/internet-backbone-giant-lumen-shuns-ru/)
 - Mar 08 - [M1 Ultra Geekbench Score](https://browser.geekbench.com/v5/cpu/13330272)
-- Mar 08 - [US Destroyer can’t deploy because CO won’t get Covid vaccine, Navy says](https://www.navytimes.com/news/your-navy/2022/03/08/destroyer-cant-deploy-because-co-wont-get-covid-vaccine-navy-says/)
+- Mar 08 - [It’s time to admit quantum theory has reached a dead end](https://nautil.us/i-just-want-to-know-what-im-made-of-14367/)
+- Mar 08 - [Mathematicians discover the perfect way to multiply (2019)](https://www.quantamagazine.org/mathematicians-discover-the-perfect-way-to-multiply-20190411/)
+- Mar 08 - [Finley (YC W21) is hiring account executives and senior engineers (remote)](https://www.finleycms.com/careers/)
+- Mar 08 - [Deepfakes, can you spot them?](https://detectfakes.media.mit.edu/)
 <!--END_SECTION:hn-->
 
 <!--
