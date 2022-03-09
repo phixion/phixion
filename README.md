@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 08 - [Put an io_uring on it: Exploiting the Linux Kernel](https://www.graplsecurity.com/post/iou-ring-exploiting-the-linux-kernel)
-- Mar 08 - [Launch HN: Optery (YC W22) – Remove your personal info from the internet](https://www.optery.com/)
-- Mar 08 - [Apple unveils M1 Ultra, the world’s most powerful chip for a personal computer](https://www.apple.com/newsroom/2022/03/apple-unveils-m1-ultra-the-worlds-most-powerful-chip-for-a-personal-computer/)
-- Mar 08 - [Apple Mac Studio](https://www.apple.com/mac-studio/)
-- Mar 08 - [Apple announces 27-inch 5K Studio Display](https://www.apple.com/studio-display/)
+- Mar 09 - [9/11 first responders at higher risk for blood cancer-associated mutations](https://news.vumc.org/2022/03/07/study-finds-world-trade-center-responders-at-higher-risk-for-blood-cancer-associated-mutations/)
+- Mar 08 - [Netflix CFO has no plans for advertising but 'never say never'](https://www.reuters.com/technology/netflix-cfo-has-no-plans-advertising-never-say-never-2022-03-08/)
+- Mar 08 - [Internet Backbone Giant Lumen Shuns .RU](https://krebsonsecurity.com/2022/03/internet-backbone-giant-lumen-shuns-ru/)
+- Mar 08 - [M1 Ultra Geekbench Score](https://browser.geekbench.com/v5/cpu/13330272)
+- Mar 08 - [US Destroyer can’t deploy because CO won’t get Covid vaccine, Navy says](https://www.navytimes.com/news/your-navy/2022/03/08/destroyer-cant-deploy-because-co-wont-get-covid-vaccine-navy-says/)
 <!--END_SECTION:hn-->
 
 <!--
