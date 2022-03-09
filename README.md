@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 08 - [M1 Ultra Geekbench Score](https://browser.geekbench.com/v5/cpu/13330272)
-- Mar 08 - [It’s time to admit quantum theory has reached a dead end](https://nautil.us/i-just-want-to-know-what-im-made-of-14367/)
-- Mar 08 - [Mathematicians discover the perfect way to multiply (2019)](https://www.quantamagazine.org/mathematicians-discover-the-perfect-way-to-multiply-20190411/)
-- Mar 08 - [Finley (YC W21) is hiring account executives and senior engineers (remote)](https://www.finleycms.com/careers/)
-- Mar 08 - [Deepfakes, can you spot them?](https://detectfakes.media.mit.edu/)
+- Mar 09 - [Endurance: Shackleton's lost ship is found in Antarctic](https://www.bbc.com/news/science-environment-60662541)
+- Mar 09 - [PipeWire: A year in review and a look ahead](https://www.collabora.com/news-and-blog/blog/2022/03/08/pipewire-a-year-in-review-look-ahead/)
+- Mar 09 - [It is high time we let go of the Mersenne Twister](https://arxiv.org/abs/1910.06437)
+- Mar 09 - [Deepnote (YC S19) is hiring a lead engineer to build a better notebook (Europe)](https://deepnote.com/join-us)
+- Mar 09 - [Ack is a grep-like source code search tool](https://beyondgrep.com/)
 <!--END_SECTION:hn-->
 
 <!--
