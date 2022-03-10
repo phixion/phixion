@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 10 - [Why offer an Onion Address rather than just encourage browsing-over-Tor?](https://alecmuffett.com/article/16007)
-- Mar 10 - [Bitmovin (YC S15) Is Hiring Sales Directors in USA, EU and APAC](https://bitmovin.com/careers/)
-- Mar 10 - [Mealie – a self-hosted recipe manager and meal planner with a RestAPI back end](https://github.com/hay-kot/mealie)
-- Mar 10 - [Show HN: PNG to Pdf Conversion in the Browser](https://png.to-pdf.net/)
-- Mar 10 - [SRU++ Model Speeds Up Transformer with Simple Recurrent Unit](https://vaclavkosar.com/ml/SRU++-Speeds-Up-Transformer-with-Simple-Recurrent-Unit-RNN)
+- Mar 10 - [A beginner's guide to intermittent fasting (2012)](https://jamesclear.com/the-beginners-guide-to-intermittent-fasting)
+- Mar 10 - [“Compiling” Music](http://lilypond.org/text-input.en.html)
+- Mar 10 - [CAD/CAM constraint-based geometry sketcher for Blender](https://github.com/hlorus/geometry_sketcher)
+- Mar 10 - [Consent-O-Matic: Automatic handling of GDPR consent forms](https://github.com/cavi-au/Consent-O-Matic)
+- Mar 10 - [Directly converting CO2 into a gasoline fuel (2017)](https://www.nature.com/articles/ncomms15174)
 <!--END_SECTION:hn-->
 
 <!--
