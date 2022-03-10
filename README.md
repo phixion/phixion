@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 10 - [New cars make me want to Saab (2020)](https://theoutline.com/post/8743/cars-are-ugly-now-i-miss-saab)
-- Mar 10 - [Things I hate about Rust, redux](https://blog.yossarian.net/2022/03/10/Things-I-hate-about-Rust-redux)
-- Mar 10 - [Launch HN: Kable (YC W22) – All-in-one platform for API products](https://news.ycombinator.com/item?id=30627558)
-- Mar 10 - [CXX – safe interop between Rust and C++](https://cxx.rs/)
-- Mar 10 - [Launch HN: Micro Meat (YC S21) – Technology for scaling cultivated meat](https://news.ycombinator.com/item?id=30627418)
+- Mar 10 - [Tradle](https://oec.world/en/tradle/)
+- Mar 10 - [Kettle Logic](https://en.wikipedia.org/wiki/Kettle_logic)
+- Mar 10 - [A word used only by Postgres developers](https://news.ycombinator.com/item?id=30629430)
+- Mar 10 - [Transformers, originally designed to handle language, are taking on vision](https://www.quantamagazine.org/will-transformers-take-over-artificial-intelligence-20220310/)
+- Mar 10 - [SafetyWing (YC W18) Is Hiring a Head of Accounting](https://www.notion.so/safetywing/Head-of-Accounting-d797bb516df14bf7ad703b4a314b4562)
 <!--END_SECTION:hn-->
 
 <!--
