@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 09 - [GJK: Collision detection algorithm in 2D/3D](https://blog.winter.dev/2020/gjk-algorithm/)
-- Mar 09 - [Show HN: 2D Game engine and editor for Windows and Linux](https://github.com/ensisoft/gamestudio)
-- Mar 09 - [Sodinokibi/REvil Ransomware Defendant Extradited to United States](https://www.justice.gov/opa/pr/sodinokibirevil-ransomware-defendant-extradited-united-states-and-arraigned-texas)
-- Mar 09 - [Barcode Detection API](https://developer.mozilla.org/en-US/docs/Web/API/Barcode_Detection_API)
-- Mar 09 - [Tesorio (YC S15) Is Hiring a VP Engineering, VP Marketing and VP Finance](https://www.tesorio.com/careers#job-openings)
+- Mar 10 - [Deep Learning Is Hitting a Wall](https://nautil.us/deep-learning-is-hitting-a-wall-14467/)
+- Mar 10 - [How to Use Lambdas in Ruby (2020)](https://scoutapm.com/blog/how-to-use-lambdas-in-ruby)
+- Mar 10 - [Ruby Together](https://rubytogether.org/)
+- Mar 09 - [Python built-ins worth learning (2019)](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
+- Mar 09 - [Windows product stickers as an insight into the past](https://smackeyacky.blogspot.com/2022/03/windows-product-stickers-as-insight.html)
 <!--END_SECTION:hn-->
 
 <!--
