@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 10 - [A beginner's guide to intermittent fasting (2012)](https://jamesclear.com/the-beginners-guide-to-intermittent-fasting)
-- Mar 10 - [“Compiling” Music](http://lilypond.org/text-input.en.html)
-- Mar 10 - [CAD/CAM constraint-based geometry sketcher for Blender](https://github.com/hlorus/geometry_sketcher)
-- Mar 10 - [Consent-O-Matic: Automatic handling of GDPR consent forms](https://github.com/cavi-au/Consent-O-Matic)
-- Mar 10 - [Directly converting CO2 into a gasoline fuel (2017)](https://www.nature.com/articles/ncomms15174)
+- Mar 10 - [New cars make me want to Saab (2020)](https://theoutline.com/post/8743/cars-are-ugly-now-i-miss-saab)
+- Mar 10 - [Things I hate about Rust, redux](https://blog.yossarian.net/2022/03/10/Things-I-hate-about-Rust-redux)
+- Mar 10 - [Launch HN: Kable (YC W22) – All-in-one platform for API products](https://news.ycombinator.com/item?id=30627558)
+- Mar 10 - [CXX – safe interop between Rust and C++](https://cxx.rs/)
+- Mar 10 - [Launch HN: Micro Meat (YC S21) – Technology for scaling cultivated meat](https://news.ycombinator.com/item?id=30627418)
 <!--END_SECTION:hn-->
 
 <!--
