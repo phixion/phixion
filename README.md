@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 09 - [Pilot FriXion Erasable Pens: A Comprehensive Guide](https://www.jetpens.com/blog/Pilot-FriXion-Erasable-Pens-A-Comprehensive-Guide/pt/670)
-- Mar 09 - [Reverse-engineering the waveform generator in a 1969 breadboard](https://www.righto.com/2022/03/reverse-engineering-waveform-generator.html)
-- Mar 09 - [Amazon lied about using seller data, lawmakers say, urging DOJ investigation](https://arstechnica.com/tech-policy/2022/03/us-lawmakers-seek-criminal-probe-of-amazon-for-lying-about-use-of-seller-data/)
-- Mar 09 - [Blender 3.1](https://www.blender.org/download/releases/3-1/)
-- Mar 09 - [Let's Spouge](https://www.theguardian.com/music/2022/feb/28/spouge-forgotten-music-genre-jackie-opel-barbados)
+- Mar 09 - [GJK: Collision detection algorithm in 2D/3D](https://blog.winter.dev/2020/gjk-algorithm/)
+- Mar 09 - [Show HN: 2D Game engine and editor for Windows and Linux](https://github.com/ensisoft/gamestudio)
+- Mar 09 - [Sodinokibi/REvil Ransomware Defendant Extradited to United States](https://www.justice.gov/opa/pr/sodinokibirevil-ransomware-defendant-extradited-united-states-and-arraigned-texas)
+- Mar 09 - [Barcode Detection API](https://developer.mozilla.org/en-US/docs/Web/API/Barcode_Detection_API)
+- Mar 09 - [Tesorio (YC S15) Is Hiring a VP Engineering, VP Marketing and VP Finance](https://www.tesorio.com/careers#job-openings)
 <!--END_SECTION:hn-->
 
 <!--
