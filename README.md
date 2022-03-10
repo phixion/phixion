@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 10 - [Deep Learning Is Hitting a Wall](https://nautil.us/deep-learning-is-hitting-a-wall-14467/)
-- Mar 10 - [How to Use Lambdas in Ruby (2020)](https://scoutapm.com/blog/how-to-use-lambdas-in-ruby)
-- Mar 10 - [Ruby Together](https://rubytogether.org/)
-- Mar 09 - [Python built-ins worth learning (2019)](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
-- Mar 09 - [Windows product stickers as an insight into the past](https://smackeyacky.blogspot.com/2022/03/windows-product-stickers-as-insight.html)
+- Mar 10 - [Why offer an Onion Address rather than just encourage browsing-over-Tor?](https://alecmuffett.com/article/16007)
+- Mar 10 - [Bitmovin (YC S15) Is Hiring Sales Directors in USA, EU and APAC](https://bitmovin.com/careers/)
+- Mar 10 - [Mealie – a self-hosted recipe manager and meal planner with a RestAPI back end](https://github.com/hay-kot/mealie)
+- Mar 10 - [Show HN: PNG to Pdf Conversion in the Browser](https://png.to-pdf.net/)
+- Mar 10 - [SRU++ Model Speeds Up Transformer with Simple Recurrent Unit](https://vaclavkosar.com/ml/SRU++-Speeds-Up-Transformer-with-Simple-Recurrent-Unit-RNN)
 <!--END_SECTION:hn-->
 
 <!--
