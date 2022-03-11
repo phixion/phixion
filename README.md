@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 10 - [FTC cracks down on hard to cancel subscription of RagingBull](https://www.ftc.gov/news-events/press-releases/2022/03/online-investment-site-pay-more-24-million-bogus-stock-earnings)
-- Mar 10 - [Alpine Linux: Brilliant Linux Distro](https://wiki.alpinelinux.org/wiki/Alpine_newbie)
-- Mar 10 - [We’re the founders of Substack, we just launched an iOS app. AUA](https://news.ycombinator.com/item?id=30632952)
-- Mar 10 - [A Voracious Reader: Stalin through his books](https://drb.ie/articles/a-voracious-reader-2/)
-- Mar 10 - [Apple AirTags draining battery of devices close by](https://annoying.technology/posts/d9d6d289a06def25/)
+- Mar 11 - [What Google Search Isn’t Showing You](https://www.newyorker.com/culture/infinite-scroll/what-google-search-isnt-showing-you)
+- Mar 11 - [The Magic of the Japanese Convenience Store Sandwich](https://japlanease.com/japanese-convenience-store-sandwich/)
+- Mar 11 - [Ask HN: Is your company considering inflation in this year's comp review cycle?](https://news.ycombinator.com/item?id=30635501)
+- Mar 11 - [Twitter makes it harder to choose the old reverse-chronological feed](https://www.theverge.com/2022/3/10/22971307/twitter-home-timeline-algorithmic-reverse-chronological-feed)
+- Mar 11 - [Computer Randomly Plays Classical Music (2007)](https://web.archive.org/web/20080517043731/https://support.microsoft.com/support/kb/articles/Q261/1/86.ASP)
 <!--END_SECTION:hn-->
 
 <!--
