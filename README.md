@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 11 - [Flowly (YC S21) Is Hiring](https://www.ycombinator.com/companies/flowly/jobs/AOX8o5p-chief-of-staff-flowly)
-- Mar 11 - [Lessons Learnt Moving a GTK Application from Go to Ada](https://github.com/SMerrony/dashera/blob/10ab6e4ece8ea1c16ad055c063c5e743d89cd6bc/Docs/LessonsLearnt.md)
-- Mar 11 - [FreeBSD 13.1 Beta 1](https://lists.freebsd.org/archives/freebsd-stable/2022-March/000571.html)
-- Mar 11 - [StyleNeRF: A Style-Based 3D-Aware Generator for High-Resolution Image Synthesis](http://jiataogu.me/style_nerf/)
-- Mar 11 - [Cron best practices](https://blog.sanctum.geek.nz/cron-best-practices/)
+- Mar 11 - [uBlock Origin becomes top addon on Firefox](https://addons.mozilla.org/en-US/firefox/search/?sort=users&type=extension)
+- Mar 11 - [Cooking with Dorothy Sayers](https://www.theparisreview.org/blog/2022/03/10/cooking-with-dorothy-sayers/)
+- Mar 11 - [Accounting for Violent Conflict Risk in Planetary Defense Decisions](https://gcrinstitute.org/accounting-for-violent-conflict-risk-in-planetary-defense-decisions/)
+- Mar 11 - [Show HN: Hide promoted tweets and sponsored content](https://blockzilla.app/)
+- Mar 11 - [U.S. eliminates human controls requirement for fully automated vehicles](https://www.reuters.com/business/autos-transportation/us-eliminates-human-controls-requirement-fully-automated-vehicles-2022-03-11/)
 <!--END_SECTION:hn-->
 
 <!--
