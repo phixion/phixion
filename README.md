@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 12 - [Russia’s Invasion of Ukraine Is Redrawing the Geopolitics of Space - ISS](https://www.nature.com/articles/d41586-022-00727-x)
-- Mar 12 - [China Markets in Turmoil as Russia Ties Add to List of Risks](https://www.bloombergquint.com/markets/china-s-markets-in-crisis-as-russia-ties-add-to-list-of-risks)
-- Mar 12 - [A lock with many keys: Spoofing DNSSEC-signed domains in 8.8.8.8](https://www.sidnlabs.nl/en/news-and-blogs/a-lock-with-many-keys-spoofing-dnssec-signed-domains-in-8-8-8-8)
-- Mar 12 - [Teaching is a slow process of becoming everything you hate](https://dynomight.net/teaching/)
-- Mar 12 - [The Sunny Side of Firing Someone](https://madned.substack.com/p/the-sunny-side-of-firing-someone)
+- Mar 12 - [Show HN: Hubfs – File System for GitHub](https://github.com/winfsp/hubfs)
+- Mar 12 - [Study sheds new light on Tutankhamun’s mysterious dagger ‘born’ from meteorite](https://english.elpais.com/science-tech/2022-03-06/study-sheds-new-light-on-tutankhamuns-mysterious-dagger-born-from-meteorite.html)
+- Mar 12 - [The Silence Is Deafening (2020)](https://devonzuegel.com/post/the-silence-is-deafening)
+- Mar 12 - [ECMAScript Proposal: Types as Comments](https://github.com/giltayar/proposal-types-as-comments)
+- Mar 12 - [What things cost in Ancient Rome](https://www.constantinethegreatcoins.com/edict/)
 <!--END_SECTION:hn-->
 
 <!--
