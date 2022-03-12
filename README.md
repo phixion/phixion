@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 12 - [GiveCampus (YC S15) Is Hiring senior engineers to impact education affordability](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+- Mar 12 - [Newer TP-Link Routers send ALL your web traffic to 3rd party servers](https://old.reddit.com/r/hardware/comments/tbthjj/psa_newer_tplink_routers_send_all_your_web/)
+- Mar 12 - [Today is Y Combinator's 17th birthday](https://twitter.com/paulg/status/1502424734679638028)
+- Mar 12 - [Why Modern Movies Suck](https://www.youtube.com/watch?v=Dnuqp4_K7ik)
 - Mar 12 - [The tech industry controls CS conference funding. What are the dangers?](https://freedom-to-tinker.com/2022/03/11/the-tech-industry-controls-cs-conference-funding-what-are-the-dangers/)
-- Mar 12 - [Piercing the Cloud Armor – The 8KB Bypass in Google Cloud Platform WAF](https://kloudle.com/blog/piercing-the-cloud-armor-the-8kb-bypass-in-google-cloud-platform-waf)
-- Mar 12 - [How CNN's Jeff Zucker and His Cronies Manipulated the News](https://www.rollingstone.com/culture/culture-features/jeff-zucker-cnn-resign-affair-cuomo-trump-1319698/)
-- Mar 12 - [Moderna Will Develop mRNA Vaccines for 15 of the World’s Worst Diseases](https://singularityhub.com/2022/03/10/moderna-to-develop-mrna-vaccines-for-15-diseases-that-threaten-global-health/)
-- Mar 12 - [Inspecting Web Views in macOS](https://blog.jim-nielsen.com/2022/inspecting-web-views-in-macos/)
 <!--END_SECTION:hn-->
 
 <!--
