@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 12 - [GiveCampus (YC S15) Is Hiring senior engineers to impact education affordability](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- Mar 12 - [Newer TP-Link Routers send ALL your web traffic to 3rd party servers](https://old.reddit.com/r/hardware/comments/tbthjj/psa_newer_tplink_routers_send_all_your_web/)
-- Mar 12 - [Today is Y Combinator's 17th birthday](https://twitter.com/paulg/status/1502424734679638028)
-- Mar 12 - [Why Modern Movies Suck](https://www.youtube.com/watch?v=Dnuqp4_K7ik)
-- Mar 12 - [The tech industry controls CS conference funding. What are the dangers?](https://freedom-to-tinker.com/2022/03/11/the-tech-industry-controls-cs-conference-funding-what-are-the-dangers/)
+- Mar 12 - [Russia’s Invasion of Ukraine Is Redrawing the Geopolitics of Space - ISS](https://www.nature.com/articles/d41586-022-00727-x)
+- Mar 12 - [China Markets in Turmoil as Russia Ties Add to List of Risks](https://www.bloombergquint.com/markets/china-s-markets-in-crisis-as-russia-ties-add-to-list-of-risks)
+- Mar 12 - [A lock with many keys: Spoofing DNSSEC-signed domains in 8.8.8.8](https://www.sidnlabs.nl/en/news-and-blogs/a-lock-with-many-keys-spoofing-dnssec-signed-domains-in-8-8-8-8)
+- Mar 12 - [Teaching is a slow process of becoming everything you hate](https://dynomight.net/teaching/)
+- Mar 12 - [The Sunny Side of Firing Someone](https://madned.substack.com/p/the-sunny-side-of-firing-someone)
 <!--END_SECTION:hn-->
 
 <!--
