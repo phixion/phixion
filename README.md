@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 11 - [RISC-V J extension – Instructions for JITs](https://github.com/riscv/riscv-j-extension)
-- Mar 11 - [Pull Request File Tree Feedback](https://github.com/github/feedback/discussions/12341)
-- Mar 11 - [Researchers train an algorithm to interpret pig grunts as emotions](https://www.cnet.com/science/biology/researchers-figure-out-how-to-interpret-pig-grunts-as-pig-emotions/)
-- Mar 11 - [Incident report: Spotify outage on March 8](https://engineering.atspotify.com/2022/03/incident-report-spotify-outage-on-march-8/)
-- Mar 11 - [Why Single Sign on Sucks](https://goteleport.com/blog/why-sso-sucks/)
+- Mar 12 - [macOS System Preferences Uses React](https://blog.jim-nielsen.com/2022/inspecting-web-views-in-macos/)
+- Mar 12 - [Tron founder Justin Sun and his many escapes](https://www.theverge.com/c/22947663/justin-sun-tron-cryptocurrency-poloniex)
+- Mar 12 - [The Legendary Survival Story of Sir Ernest Shackleton](https://www.offgridweb.com/survival/the-legendary-survival-story-of-sir-ernest-shackleton/)
+- Mar 12 - [How to Design Better APIs](https://r.bluethl.net/how-to-design-better-apis)
+- Mar 12 - [The Art of Plain Text (2015)](https://www.netmeister.org/blog/the-art-of-plain-text.html)
 <!--END_SECTION:hn-->
 
 <!--
