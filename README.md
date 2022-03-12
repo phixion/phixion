@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 12 - [macOS System Preferences Uses React](https://blog.jim-nielsen.com/2022/inspecting-web-views-in-macos/)
-- Mar 12 - [Tron founder Justin Sun and his many escapes](https://www.theverge.com/c/22947663/justin-sun-tron-cryptocurrency-poloniex)
-- Mar 12 - [The Legendary Survival Story of Sir Ernest Shackleton](https://www.offgridweb.com/survival/the-legendary-survival-story-of-sir-ernest-shackleton/)
-- Mar 12 - [How to Design Better APIs](https://r.bluethl.net/how-to-design-better-apis)
-- Mar 12 - [The Art of Plain Text (2015)](https://www.netmeister.org/blog/the-art-of-plain-text.html)
+- Mar 12 - [The tech industry controls CS conference funding. What are the dangers?](https://freedom-to-tinker.com/2022/03/11/the-tech-industry-controls-cs-conference-funding-what-are-the-dangers/)
+- Mar 12 - [Piercing the Cloud Armor – The 8KB Bypass in Google Cloud Platform WAF](https://kloudle.com/blog/piercing-the-cloud-armor-the-8kb-bypass-in-google-cloud-platform-waf)
+- Mar 12 - [How CNN's Jeff Zucker and His Cronies Manipulated the News](https://www.rollingstone.com/culture/culture-features/jeff-zucker-cnn-resign-affair-cuomo-trump-1319698/)
+- Mar 12 - [Moderna Will Develop mRNA Vaccines for 15 of the World’s Worst Diseases](https://singularityhub.com/2022/03/10/moderna-to-develop-mrna-vaccines-for-15-diseases-that-threaten-global-health/)
+- Mar 12 - [Inspecting Web Views in macOS](https://blog.jim-nielsen.com/2022/inspecting-web-views-in-macos/)
 <!--END_SECTION:hn-->
 
 <!--
