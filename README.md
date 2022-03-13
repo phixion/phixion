@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 13 - [Show HN: Self-hosted service for creating random avatars](https://github.com/frncsdrk/avatar)
-- Mar 13 - [A digital circuit simulator written in sed](https://fideo.info/wiki.lua/blog/sed-circuit-simulator)
-- Mar 13 - [LiBlast: A Libre Multiplayer FPS Game Built with Godot 4 and Blender](https://codeberg.org/unfa/Liblast)
-- Mar 13 - [Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
-- Mar 13 - [Stories of reaching Staff-plus engineering roles](https://staffeng.com/)
+- Mar 13 - [Ask HN: Fake AA batteries, or drain acid from current ones](https://news.ycombinator.com/item?id=30662242)
+- Mar 13 - [It’s Your Friends Who Break Your Heart](https://www.theatlantic.com/magazine/archive/2022/03/why-we-lose-friends-aging-happiness/621305/)
+- Mar 13 - [Who's Attacking My Server?](https://bastian.rieck.me/blog/posts/2022/server/)
+- Mar 13 - [UK Network Operators Target iCloud Private Relay in Complaint to Regulator](https://www.macrumors.com/2022/03/13/uk-network-operators-target-icloud-private-relay/)
+- Mar 13 - [Why We Banned the Word “Ethnic” (2019)](https://niemanreports.org/articles/why-we-banned-the-word-ethnic/)
 <!--END_SECTION:hn-->
 
 <!--
