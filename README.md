@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 12 - [Multiple rockets fall in Erbil, northern Iraq](https://www.reuters.com/world/middle-east/multiple-rockets-fall-erbil-northern-iraq-state-media-2022-03-12/)
-- Mar 12 - [Missiles target US consulate in Erbil, Iraq](https://www.jpost.com/breaking-news/article-701103)
-- Mar 12 - [Evolution of Volatiles on the Moon](https://room.eu.com/article/evolution-of-volatiles-on-the-moon)
-- Mar 12 - [Smart-TV Blocklist for Pi-Hole](https://perflyst.github.io/PiHoleBlocklist/SmartTV.txt)
-- Mar 12 - [Walgreens replaced some fridge doors with screens. And some shoppers hate it](https://lite.cnn.com/en/article/h_455b3197eb28a98a8912791bc1bbdbfd)
+- Mar 13 - [American mask makers are going out of business](https://www.nytimes.com/2022/03/05/business/dealbook/american-mask-makers.html)
+- Mar 13 - [How did the gold standard work?](https://twitter.com/ProfPaulPoast/status/1459864898633146368)
+- Mar 13 - [The Art of Monetary War](https://www.nplusonemag.com/online-only/online-only/the-art-of-monetary-war/)
+- Mar 13 - [Show HN: I made my personal website a Pokémon-style minigame using Phaser 3](https://arielroffe.quest/)
+- Mar 13 - [Blender Client for LibSM64](https://github.com/libsm64/libsm64-blender)
 <!--END_SECTION:hn-->
 
 <!--
