@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 13 - [Tell HN: China Is Entering Lockdown](https://news.ycombinator.com/item?id=30658886)
-- Mar 13 - [Why Economic Sanctions Do Not Work (1997) [pdf]](https://web.stanford.edu/class/ips216/Readings/pape_97%20(jstor).pdf)
-- Mar 13 - [Finnish govt agency warns of unusual aircraft GPS interference](https://www.bleepingcomputer.com/news/technology/finnish-govt-agency-warns-of-unusual-aircraft-gps-interference/)
-- Mar 13 - [Halide iOS app bug fix rejected after initial approval 18 months ago](https://twitter.com/sandofsky/status/1502769909104738304)
-- Mar 13 - [Ask HN: Using an LLC to protect side project IP](https://news.ycombinator.com/item?id=30658602)
+- Mar 13 - [Show HN: Self-hosted service for creating random avatars](https://github.com/frncsdrk/avatar)
+- Mar 13 - [A digital circuit simulator written in sed](https://fideo.info/wiki.lua/blog/sed-circuit-simulator)
+- Mar 13 - [LiBlast: A Libre Multiplayer FPS Game Built with Godot 4 and Blender](https://codeberg.org/unfa/Liblast)
+- Mar 13 - [Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
+- Mar 13 - [Stories of reaching Staff-plus engineering roles](https://staffeng.com/)
 <!--END_SECTION:hn-->
 
 <!--
