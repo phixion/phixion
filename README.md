@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 13 - [Ask HN: Fake AA batteries, or drain acid from current ones](https://news.ycombinator.com/item?id=30662242)
-- Mar 13 - [It’s Your Friends Who Break Your Heart](https://www.theatlantic.com/magazine/archive/2022/03/why-we-lose-friends-aging-happiness/621305/)
-- Mar 13 - [Who's Attacking My Server?](https://bastian.rieck.me/blog/posts/2022/server/)
-- Mar 13 - [UK Network Operators Target iCloud Private Relay in Complaint to Regulator](https://www.macrumors.com/2022/03/13/uk-network-operators-target-icloud-private-relay/)
-- Mar 13 - [Why We Banned the Word “Ethnic” (2019)](https://niemanreports.org/articles/why-we-banned-the-word-ethnic/)
+- Mar 13 - [My transition from Windows to Linux in an anti-customer age](https://www.scottrlarson.com/publications/publication-transition-windows-to-linux/)
+- Mar 13 - [A new history of Byzantium reveals the inner workings of a late antique empire](https://thecritic.co.uk/issues/march-2022/wonders-and-warnings-from-the-ancient-world/)
+- Mar 13 - [The Big List of Engineering Management Resources – March 2022](https://practicallyleading.dev/the-big-list-of-engineering-management-resources-march-2022)
+- Mar 13 - [ZFS on a single core RISC-V hardware with 512MB](https://andreas.welcomes-you.com/zfs-risc-v-512mb-lichee-rv/)
+- Mar 13 - [My essential Firefox fixes in 2022](https://rubenerd.com/my-essential-firefox-fixes-in-2022/)
 <!--END_SECTION:hn-->
 
 <!--
