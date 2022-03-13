@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 13 - [American mask makers are going out of business](https://www.nytimes.com/2022/03/05/business/dealbook/american-mask-makers.html)
-- Mar 13 - [How did the gold standard work?](https://twitter.com/ProfPaulPoast/status/1459864898633146368)
-- Mar 13 - [The Art of Monetary War](https://www.nplusonemag.com/online-only/online-only/the-art-of-monetary-war/)
-- Mar 13 - [Show HN: I made my personal website a Pokémon-style minigame using Phaser 3](https://arielroffe.quest/)
-- Mar 13 - [Blender Client for LibSM64](https://github.com/libsm64/libsm64-blender)
+- Mar 13 - [Tell HN: China Is Entering Lockdown](https://news.ycombinator.com/item?id=30658886)
+- Mar 13 - [Why Economic Sanctions Do Not Work (1997) [pdf]](https://web.stanford.edu/class/ips216/Readings/pape_97%20(jstor).pdf)
+- Mar 13 - [Finnish govt agency warns of unusual aircraft GPS interference](https://www.bleepingcomputer.com/news/technology/finnish-govt-agency-warns-of-unusual-aircraft-gps-interference/)
+- Mar 13 - [Halide iOS app bug fix rejected after initial approval 18 months ago](https://twitter.com/sandofsky/status/1502769909104738304)
+- Mar 13 - [Ask HN: Using an LLC to protect side project IP](https://news.ycombinator.com/item?id=30658602)
 <!--END_SECTION:hn-->
 
 <!--
