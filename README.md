@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 14 - [Ace, CodeMirror, and Monaco: A Comparison of the Code Editors You Use in Browser](https://blog.replit.com/code-editors#head-to-head)
-- Mar 14 - [Introduction to K-Means Clustering](https://www.pinecone.io/learn/k-means-clustering/)
-- Mar 14 - [Tiny Galaxies Reveal Secrets of Supermassive Black Holes](https://www.quantamagazine.org/tiny-galaxies-reveal-secrets-of-supermassive-black-holes-20220314/)
-- Mar 14 - [Ask HN: How can scam callers fake a mobile phone number?](https://news.ycombinator.com/item?id=30673009)
-- Mar 14 - [USDA announces plans to support innovative American-made fertilizer](https://www.morningagclips.com/usda-announces-plans-to-support-innovative-american-made-fertilizer/)
+- Mar 14 - [Microsoft is testing ads in the Windows 11 File Explorer](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-testing-ads-in-the-windows-11-file-explorer/)
+- Mar 14 - [Ketamine for the acute treatment of severe suicidal ideation](https://www.bmj.com/content/376/bmj-2021-067194)
+- Mar 14 - [Launch HN: Lifecast (YC W22) – 3D video for VR](https://news.ycombinator.com/item?id=30675861)
+- Mar 14 - [The walk signs in Crystal City, VA are just repeating  “Change Password”](https://twitter.com/JosephPolitano/status/1503131005389099011)
+- Mar 14 - [Medical student surgically implants Bluetooth into own ear to cheat in final](https://www.independent.co.uk/asia/india/mbbs-student-bluetooth-cheating-bhopal-b2021217.html)
 <!--END_SECTION:hn-->
 
 <!--
