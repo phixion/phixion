@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 13 - [Cascade: Open-source Node-based image editor with GPU-acceleration](https://github.com/ttddee/Cascade)
-- Mar 13 - [Show HN: SmoothWAN a simple home internet bonding router using Speedify](https://github.com/TalalMash/SmoothWAN)
-- Mar 13 - [QSN: A Familiar String Interchange Format (2020)](http://www.oilshell.org/release/latest/doc/qsn.html)
-- Mar 13 - [NYT shutting down the Wordle archive](https://gamerant.com/new-york-times-wordle-archive-shutdown-changes-wordle-clones/)
-- Mar 13 - [Joern – Bug Hunter's Workbench](https://joern.io/)
+- Mar 14 - [Red Dwarfs Will Be Humanity’s Last Home Before the Universe Dies](https://antoniomelonio-cosmos.medium.com/red-dwarfs-will-be-humanitys-last-home-before-the-universe-dies-b567fcfa6081)
+- Mar 14 - [Keeping Developers Will Be the Priority in Great Developer Resignation Next](https://blog.devgenius.io/keeping-developers-will-be-the-priority-in-great-developer-resignation-next-stage-9dfcdb6e75a4?gi=8d799e51c800)
+- Mar 14 - [The curious case of Russia's missing Air Force](https://www.economist.com/interactive/2022/03/08/curious-case-russias-missing-air-force)
+- Mar 14 - [Show HN: HN Avatars in 357 bytes](https://news.ycombinator.com/item?id=30668137)
+- Mar 14 - [iPhone Lidar with Applications for the Geosciences](https://opentopography.org/blog/iphone-lidar-applications-geosciences)
 <!--END_SECTION:hn-->
 
 <!--
