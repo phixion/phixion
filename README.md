@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 14 - [Pi Formulas, Algorithms and Computations](https://www.bellard.org/pi/)
-- Mar 14 - [Mapping and Seizing the Oligarchs' Assets](https://googlemapsmania.blogspot.com/2022/03/mapping-oligarchs-assets.html)
-- Mar 14 - [Saffron and major depressive disorder: meta-analysis of clinical trials (2013)](https://pubmed.ncbi.nlm.nih.gov/24299602/)
-- Mar 14 - [Ask HN: How can I prepare for hard economic times](https://news.ycombinator.com/item?id=30670110)
-- Mar 14 - [Offpunk 1.0: Offline Gemini/Gopher/Web Browsing](https://tildegit.org/ploum/AV-98-offline)
+- Mar 14 - [Ace, CodeMirror, and Monaco: A Comparison of the Code Editors You Use in Browser](https://blog.replit.com/code-editors#head-to-head)
+- Mar 14 - [Introduction to K-Means Clustering](https://www.pinecone.io/learn/k-means-clustering/)
+- Mar 14 - [Tiny Galaxies Reveal Secrets of Supermassive Black Holes](https://www.quantamagazine.org/tiny-galaxies-reveal-secrets-of-supermassive-black-holes-20220314/)
+- Mar 14 - [Ask HN: How can scam callers fake a mobile phone number?](https://news.ycombinator.com/item?id=30673009)
+- Mar 14 - [USDA announces plans to support innovative American-made fertilizer](https://www.morningagclips.com/usda-announces-plans-to-support-innovative-american-made-fertilizer/)
 <!--END_SECTION:hn-->
 
 <!--
