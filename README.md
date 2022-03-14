@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 13 - [My transition from Windows to Linux in an anti-customer age](https://www.scottrlarson.com/publications/publication-transition-windows-to-linux/)
-- Mar 13 - [A new history of Byzantium reveals the inner workings of a late antique empire](https://thecritic.co.uk/issues/march-2022/wonders-and-warnings-from-the-ancient-world/)
-- Mar 13 - [The Big List of Engineering Management Resources – March 2022](https://practicallyleading.dev/the-big-list-of-engineering-management-resources-march-2022)
-- Mar 13 - [ZFS on a single core RISC-V hardware with 512MB](https://andreas.welcomes-you.com/zfs-risc-v-512mb-lichee-rv/)
-- Mar 13 - [My essential Firefox fixes in 2022](https://rubenerd.com/my-essential-firefox-fixes-in-2022/)
+- Mar 13 - [Cascade: Open-source Node-based image editor with GPU-acceleration](https://github.com/ttddee/Cascade)
+- Mar 13 - [Show HN: SmoothWAN a simple home internet bonding router using Speedify](https://github.com/TalalMash/SmoothWAN)
+- Mar 13 - [QSN: A Familiar String Interchange Format (2020)](http://www.oilshell.org/release/latest/doc/qsn.html)
+- Mar 13 - [NYT shutting down the Wordle archive](https://gamerant.com/new-york-times-wordle-archive-shutdown-changes-wordle-clones/)
+- Mar 13 - [Joern – Bug Hunter's Workbench](https://joern.io/)
 <!--END_SECTION:hn-->
 
 <!--
