@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 14 - [Red Dwarfs Will Be Humanity’s Last Home Before the Universe Dies](https://antoniomelonio-cosmos.medium.com/red-dwarfs-will-be-humanitys-last-home-before-the-universe-dies-b567fcfa6081)
-- Mar 14 - [Keeping Developers Will Be the Priority in Great Developer Resignation Next](https://blog.devgenius.io/keeping-developers-will-be-the-priority-in-great-developer-resignation-next-stage-9dfcdb6e75a4?gi=8d799e51c800)
-- Mar 14 - [The curious case of Russia's missing Air Force](https://www.economist.com/interactive/2022/03/08/curious-case-russias-missing-air-force)
-- Mar 14 - [Show HN: HN Avatars in 357 bytes](https://news.ycombinator.com/item?id=30668137)
-- Mar 14 - [iPhone Lidar with Applications for the Geosciences](https://opentopography.org/blog/iphone-lidar-applications-geosciences)
+- Mar 14 - [Pi Formulas, Algorithms and Computations](https://www.bellard.org/pi/)
+- Mar 14 - [Mapping and Seizing the Oligarchs' Assets](https://googlemapsmania.blogspot.com/2022/03/mapping-oligarchs-assets.html)
+- Mar 14 - [Saffron and major depressive disorder: meta-analysis of clinical trials (2013)](https://pubmed.ncbi.nlm.nih.gov/24299602/)
+- Mar 14 - [Ask HN: How can I prepare for hard economic times](https://news.ycombinator.com/item?id=30670110)
+- Mar 14 - [Offpunk 1.0: Offline Gemini/Gopher/Web Browsing](https://tildegit.org/ploum/AV-98-offline)
 <!--END_SECTION:hn-->
 
 <!--
