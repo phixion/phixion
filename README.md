@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 15 - [Vimeo is telling creators to suddenly pay thousands of dollars](https://www.theverge.com/2022/3/15/22979126/vimeo-patreon-creators-price-increase)
-- Mar 15 - [TinyRenderer – how OpenGL works: software rendering in 500 lines of code](https://github.com/ssloy/tinyrenderer/wiki)
-- Mar 15 - [Launch HN: Vimmerse (YC W22) – Platform and SDKs to create and play 3D video](https://news.ycombinator.com/item?id=30686027)
-- Mar 15 - [Launch HN: Method Financial (YC S19) – API to embed debt repayment into your app](https://news.ycombinator.com/item?id=30685921)
-- Mar 15 - [The fake Twitter account of “Marina Ovsyannikova” – and how to spot such fakes](https://davidallengreen.com/2022/03/the-fake-twitter-account-of-marina-ovsyannikova-and-how-to-spot-such-fakes/)
+- Mar 15 - [Can making employers share pay in job postings help fix the gender pay gap?](https://19thnews.org/2022/03/equal-pay-day-transparency-laws/)
+- Mar 15 - [US Senate votes unanimously to make daylight savings time permanent](https://twitter.com/senatecloakroom/status/1503797632745025542)
+- Mar 15 - [The first RISC-V portable computer is now available](https://lunduke.substack.com/p/the-first-risc-v-portable-computer)
+- Mar 15 - [Google Domains is out of beta](https://domains.google/learn/out-of-beta/)
+- Mar 15 - [Go 1.18](https://go.dev/blog/go1.18)
 <!--END_SECTION:hn-->
 
 <!--
