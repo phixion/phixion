@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 15 - [Light exposure during sleep impairs cardiometabolic function](https://www.pnas.org/doi/10.1073/pnas.2113290119)
-- Mar 15 - [There are not enough BTUs](https://viscosityredux.substack.com/p/there-are-not-enough-btus)
-- Mar 14 - [Multiplayer Doom on a $4 Raspberry Pi Pico](https://invidious.kavin.rocks/watch?v=vXr7tOR3dis)
-- Mar 14 - [Why is it hard to buy things that work well?](https://danluu.com/nothing-works/)
-- Mar 14 - [Writing a device driver for Unix V6](https://mveg.es/posts/writing-a-device-driver-for-unix-v6/)
+- Mar 15 - [The Svix Webhook Service (YC W21) Is Hiring a Rust Back End Engineer (Remote)](https://www.svix.com/careers/)
+- Mar 15 - [Cities should not pay for new stadiums](https://sites.lsa.umich.edu/mje/2022/01/15/cities-should-not-pay-for-new-stadiums/)
+- Mar 15 - [I Discovered Thousands of Open Databases on AWS](https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32?gi=af55b7c4e39f)
+- Mar 15 - [Umeshisms](https://scottaaronson.blog/?p=40)
+- Mar 15 - [Technical Debt: How do you get out of the bottleneck?](https://martinfowler.com/articles/bottlenecks-of-scaleups/01-tech-debt.html#exit)
 <!--END_SECTION:hn-->
 
 <!--
