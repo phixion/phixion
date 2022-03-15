@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 15 - [Arti 0.1.0: Tor re-written in Rust now has a stable API](https://blog.torproject.org/arti_010_released/)
-- Mar 15 - [FreeBSD on the Vortex86DX CPU](https://www.cambus.net/freebsd-on-the-vortex86dx-cpu/)
-- Mar 15 - [International Racquetball Federation Officially Sanctions Racket:Next](https://www.racketnext.com/)
-- Mar 15 - [Osm.el – OpenStreetMap Viewer for Emacs](https://github.com/minad/osm)
-- Mar 15 - [The Svix Webhook Service (YC W21) Is Hiring a Rust Back End Engineer (Remote)](https://www.svix.com/careers/)
+- Mar 15 - [Vimeo is telling creators to suddenly pay thousands of dollars](https://www.theverge.com/2022/3/15/22979126/vimeo-patreon-creators-price-increase)
+- Mar 15 - [TinyRenderer – how OpenGL works: software rendering in 500 lines of code](https://github.com/ssloy/tinyrenderer/wiki)
+- Mar 15 - [Launch HN: Vimmerse (YC W22) – Platform and SDKs to create and play 3D video](https://news.ycombinator.com/item?id=30686027)
+- Mar 15 - [Launch HN: Method Financial (YC S19) – API to embed debt repayment into your app](https://news.ycombinator.com/item?id=30685921)
+- Mar 15 - [The fake Twitter account of “Marina Ovsyannikova” – and how to spot such fakes](https://davidallengreen.com/2022/03/the-fake-twitter-account-of-marina-ovsyannikova-and-how-to-spot-such-fakes/)
 <!--END_SECTION:hn-->
 
 <!--
