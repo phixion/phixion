@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 15 - [Can making employers share pay in job postings help fix the gender pay gap?](https://19thnews.org/2022/03/equal-pay-day-transparency-laws/)
-- Mar 15 - [US Senate votes unanimously to make daylight savings time permanent](https://twitter.com/senatecloakroom/status/1503797632745025542)
-- Mar 15 - [The first RISC-V portable computer is now available](https://lunduke.substack.com/p/the-first-risc-v-portable-computer)
-- Mar 15 - [Google Domains is out of beta](https://domains.google/learn/out-of-beta/)
-- Mar 15 - [Go 1.18](https://go.dev/blog/go1.18)
+- Mar 15 - [Hot Dog Linux – Horrible Obsolete Typeface and Dreadful Onscreen Graphics](https://hotdoglinux.com/)
+- Mar 15 - [Seafloor changes associated with the degradation of Arctic submarine permafrost](https://www.pnas.org/doi/full/10.1073/pnas.2119105119)
+- Mar 15 - [NSA, CISA Release Kubernetes Hardening Guidance [pdf]](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/0/CTR_Kubernetes_Hardening_Guidance_1.1_20220315.PDF)
+- Mar 15 - [Gov. Newsom signs law to stop UC Berkeley enrollment cuts](https://www.latimes.com/california/story/2022-03-14/california-legislature-passes-bill-berkeley-enrollment)
+- Mar 15 - [Daily (YC W16) Is Hiring Solutions Engineers (Any Time Zone)](https://boards.greenhouse.io/daily/jobs/4383908004)
 <!--END_SECTION:hn-->
 
 <!--
