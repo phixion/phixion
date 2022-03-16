@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 16 - [The Beautiful Mind-Bending of Stanislaw Lem (2019)](https://www.newyorker.com/culture/culture-desk/the-beautiful-mind-bending-of-stanislaw-lem)
-- Mar 16 - [The Law of Requisite Variety (2001)](http://pespmc1.vub.ac.be/REQVAR.html)
-- Mar 16 - [Magnitude 7.3 earthquake off the Coast of Fukushima Prefecture](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20220316234055&lang=en)
-- Mar 16 - [Flutter is better than React Native in all the ways that don’t matter](https://shift.infinite.red/flutter-is-better-than-react-native-fed10c92a768?gi=3110e8d1fe6)
-- Mar 16 - [Crypto Startup That Wants to Scan Everyone’s Eyeballs Is Having Some Trouble](https://www.bloomberg.com/news/articles/2022-03-16/worldcoin-the-eyeball-scanning-crypto-unicorn-hits-signup-snags)
+- Mar 16 - [How to make Docker images even smaller](https://symflower.com/en/company/blog/2022/complete-guide-on-shrinking-container-images/)
+- Mar 16 - [Building a Loading Bar Component](https://web.dev/building-a-loading-bar-component/)
+- Mar 16 - [Federal Reserve hikes interest rate by 25 bps, first hike since 2018](https://www.federalreserve.gov/newsevents/pressreleases/monetary20220316a.htm)
+- Mar 16 - [5 Charged with Stalking, Harassing, Spying on US Residents for PRC Secret Police](https://www.justice.gov/opa/pr/five-individuals-charged-variously-stalking-harassing-and-spying-us-residents-behalf-prc-0)
+- Mar 16 - [Famous Navy UFO Video Was Camera Glare, Evidence Suggests](https://petapixel.com/2022/03/14/famous-navy-ufo-video-was-actually-camera-glare-evidence-suggests/)
 <!--END_SECTION:hn-->
 
 <!--
