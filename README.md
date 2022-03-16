@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 16 - [Litnerd (YC S21) Is Hiring Senior Full Stack Developer](https://www.ycombinator.com/companies/litnerd/jobs/v4OjVud-senior-fullstack-developer-at-litnerd)
-- Mar 16 - [MSFT demonstrates formerly elusive physics needed to build scalable qubits](https://news.microsoft.com/innovation-stories/azure-quantum-majorana-topological-qubit/)
-- Mar 16 - [Norwegian developer job board for Ukrainian refugees](https://www.kode24.no/tech-jobs-norway)
-- Mar 16 - [First Ever Eco-Certified Computer Program: KDE's Popular PDF Reader Okular](https://eco.kde.org/blog/2022-03-16-press-release-okular-blue-angel/)
-- Mar 16 - [Update Firmware of Samsung SSDs in Linux](https://blog.quindorian.org/2021/05/firmware-update-samsung-ssd-in-linux.html/)
+- Mar 16 - [The Beautiful Mind-Bending of Stanislaw Lem (2019)](https://www.newyorker.com/culture/culture-desk/the-beautiful-mind-bending-of-stanislaw-lem)
+- Mar 16 - [The Law of Requisite Variety (2001)](http://pespmc1.vub.ac.be/REQVAR.html)
+- Mar 16 - [Magnitude 7.3 earthquake off the Coast of Fukushima Prefecture](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20220316234055&lang=en)
+- Mar 16 - [Flutter is better than React Native in all the ways that don’t matter](https://shift.infinite.red/flutter-is-better-than-react-native-fed10c92a768?gi=3110e8d1fe6)
+- Mar 16 - [Crypto Startup That Wants to Scan Everyone’s Eyeballs Is Having Some Trouble](https://www.bloomberg.com/news/articles/2022-03-16/worldcoin-the-eyeball-scanning-crypto-unicorn-hits-signup-snags)
 <!--END_SECTION:hn-->
 
 <!--
