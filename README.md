@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 16 - [LibreTube main devs account has been suspended by GitHub without any reasons](https://news.ycombinator.com/item?id=30696077)
-- Mar 16 - [BiglyBT is a feature filled, open source, ad-free, BitTorrent client](https://www.biglybt.com/)
-- Mar 16 - [Plasticity Is CAD for Artists](https://github.com/nkallen/plasticity)
-- Mar 16 - [What is: Linux keyring, gnome-keyring, Secret Service, and D-Bus (2019)](https://rtfm.co.ua/en/what-is-linux-keyring-gnome-keyring-secret-service-and-d-bus/)
-- Mar 16 - [Show HN: Create your own complete UI color system easy as 1-2-3](https://github.com/arnelenero/simpler-color)
+- Mar 16 - [Litnerd (YC S21) Is Hiring Senior Full Stack Developer](https://www.ycombinator.com/companies/litnerd/jobs/v4OjVud-senior-fullstack-developer-at-litnerd)
+- Mar 16 - [MSFT demonstrates formerly elusive physics needed to build scalable qubits](https://news.microsoft.com/innovation-stories/azure-quantum-majorana-topological-qubit/)
+- Mar 16 - [Norwegian developer job board for Ukrainian refugees](https://www.kode24.no/tech-jobs-norway)
+- Mar 16 - [First Ever Eco-Certified Computer Program: KDE's Popular PDF Reader Okular](https://eco.kde.org/blog/2022-03-16-press-release-okular-blue-angel/)
+- Mar 16 - [Update Firmware of Samsung SSDs in Linux](https://blog.quindorian.org/2021/05/firmware-update-samsung-ssd-in-linux.html/)
 <!--END_SECTION:hn-->
 
 <!--
