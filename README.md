@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 17 - [Y Combinator is hiring a product engineer for Startup School](https://www.ycombinator.com/companies/y-combinator/jobs/5JHBtJd-product-engineer-startup-school)
-- Mar 17 - [Entitlement issues (2009)](https://journal.neilgaiman.com/2009/05/entitlement-issues.html)
-- Mar 17 - [Microsoft to build energy efficient, heat-producing data centre in Finland](https://yle.fi/news/3-12363215)
-- Mar 17 - [Show HN: PDF API – Generate, convert, and modify PDF documents](https://news.ycombinator.com/item?id=30709524)
-- Mar 17 - [In-flight surgery with a coat-hanger and silverware](https://en.wikipedia.org/wiki/Angus_Wallace#In-flight_surgery_with_a_coat-hanger_and_silverware)
+- Mar 17 - [Google open sources solar atmospheric water generator](https://github.com/google/h2e_technical_documentation)
+- Mar 17 - [Vintage Startup Employee Swag?](https://news.ycombinator.com/item?id=30714463)
+- Mar 17 - [Amazon's new role-playing game can help you build your AWS skills](https://www.techradar.com/news/amazons-new-role-playing-game-can-help-you-build-your-aws-skills)
+- Mar 17 - [Doctors often turn to Google Translate to talk to patients; want a better option](https://www.statnews.com/2022/03/16/google-translate-health-care-english/)
+- Mar 17 - [Zotero 6](https://www.zotero.org/blog/zotero-6/)
 <!--END_SECTION:hn-->
 
 <!--
