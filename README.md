@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 17 - [Lapce — Lightning-fast and Powerful Code Editor, written in Rust](https://lapce.dev/)
-- Mar 17 - [What's my place in the world population and how long will I live?](https://population.io/)
-- Mar 17 - [Hacker News personal ranking app](https://github.com/joelgrus/hackernews)
-- Mar 17 - [Fuchsia IDL Overview](https://fuchsia.dev/fuchsia-src/concepts/fidl/overview)
-- Mar 17 - [California bill would let parents sue social media companies](https://www.latimes.com/business/technology/story/2022-03-16/california-bill-would-let-parents-sue-social-media-companies-for-addicting-kids)
+- Mar 17 - [Y Combinator is hiring a product engineer for Startup School](https://www.ycombinator.com/companies/y-combinator/jobs/5JHBtJd-product-engineer-startup-school)
+- Mar 17 - [Entitlement issues (2009)](https://journal.neilgaiman.com/2009/05/entitlement-issues.html)
+- Mar 17 - [Microsoft to build energy efficient, heat-producing data centre in Finland](https://yle.fi/news/3-12363215)
+- Mar 17 - [Show HN: PDF API – Generate, convert, and modify PDF documents](https://news.ycombinator.com/item?id=30709524)
+- Mar 17 - [In-flight surgery with a coat-hanger and silverware](https://en.wikipedia.org/wiki/Angus_Wallace#In-flight_surgery_with_a_coat-hanger_and_silverware)
 <!--END_SECTION:hn-->
 
 <!--
