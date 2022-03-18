@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 18 - [Scan of the Month: Food Packaging](https://www.scanofthemonth.com/scans/food-packaging)
-- Mar 18 - [Linux on an M1 Mac](https://twitter.com/AsahiLinux/status/1504626783240736768)
-- Mar 18 - [Forage (YC S21) is hiring senior engineers in Australia](https://www.notion.so/theforage/Forage-is-hiring-in-Australia-6621f0627541456992be83f6dc3e072b)
-- Mar 18 - [A Summary of OAuth 2.0 Attack Methods](https://tutorialboy24.blogspot.com/2022/01/a-summary-of-oauth-20-attack-methods.html)
-- Mar 18 - [Node-ipc supply chain attack: peacenotwar](https://github.com/RIAEvangelist/peacenotwar/blob/main/WITH-LOVE-FROM-AMERICA.txt)
+- Mar 18 - [OneSignal (YC S11) Is Hiring Engineers to Democratize Mobile Customer Engagement](https://onesignal.com/careers)
+- Mar 18 - [Down the mechanical keyboard rabbit hole](https://fowlie.github.io/2022/02/25/keyboards-rabbit-hole/)
+- Mar 18 - [Multiple Vulnerabilities in PfSense](https://www.cybersecurity-help.cz/vdb/SB2022031507)
+- Mar 18 - [Uchronia: The Alternate History List](http://www.uchronia.net/)
+- Mar 18 - [Shadertoy Apple I Emulator](https://www.shadertoy.com/view/tlX3W7)
 <!--END_SECTION:hn-->
 
 <!--
