@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 18 - [Hypercontext (YC S21) Is Hiring a Quality Assurance Specialist](https://www.ycombinator.com/companies/hypercontext/jobs/auJhlD8-quality-assurance-specialist)
-- Mar 18 - [Ivermectin Didn’t Reduce Covid-19 Hospitalizations in Largest Trial to Date](https://www.wsj.com/articles/ivermectin-didnt-reduce-covid-19-hospitalizations-in-largest-trial-to-date-11647601200)
-- Mar 18 - [Launch HN: Theneo (YC W22) – Generate Stripe-Style API Docs](https://news.ycombinator.com/item?id=30720623)
-- Mar 18 - [Ask HN: I'm changing my job after a 15-year tenure. How should I proceed?](https://news.ycombinator.com/item?id=30720565)
-- Mar 18 - [Show HN: I'm writing an MMORPG game for learning programming](https://bytelegend.com)
+- Mar 18 - [Show HN: Calenday, real-time collaborative calendars for trip planning](https://calenday.co/?ref=hn)
+- Mar 18 - [Amazon intentionally made it hard to cancel Prime subscription in secret project](https://www.independent.co.uk/tech/amazon-prime-subscription-cancel-secret-project-b2038207.html)
+- Mar 18 - [Dav1d, fast AV1 decoder, version 1.0.0 released](https://code.videolan.org/videolan/dav1d/-/blob/1.0.0/NEWS)
+- Mar 18 - [Looming food shortages is the next ‘slow-moving disaster’ to hit world](https://nypost.com/2022/03/17/looming-food-shortages-is-worlds-next-slow-moving-disaster/)
+- Mar 18 - [Python 3 Types in the Wild](https://neverworkintheory.org/2022/03/18/python-3-types-in-the-wild.html)
 <!--END_SECTION:hn-->
 
 <!--
