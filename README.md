@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 17 - [Google open sources solar atmospheric water generator](https://github.com/google/h2e_technical_documentation)
-- Mar 17 - [Vintage Startup Employee Swag?](https://news.ycombinator.com/item?id=30714463)
-- Mar 17 - [Amazon's new role-playing game can help you build your AWS skills](https://www.techradar.com/news/amazons-new-role-playing-game-can-help-you-build-your-aws-skills)
-- Mar 17 - [Doctors often turn to Google Translate to talk to patients; want a better option](https://www.statnews.com/2022/03/16/google-translate-health-care-english/)
-- Mar 17 - [Zotero 6](https://www.zotero.org/blog/zotero-6/)
+- Mar 17 - [Python finally offloads some batteries](https://lwn.net/SubscriberLink/888043/66bf43728bb39692/)
+- Mar 17 - [Does quantum mechanics need imaginary numbers?](https://physicstoday.scitation.org/doi/10.1063/PT.3.4955)
+- Mar 17 - [Bridgetown - progressive site generator and framework, powered by Ruby](https://www.bridgetownrb.com/)
+- Mar 17 - [US State Privacy Legislation Tracker](https://iapp.org/resources/article/us-state-privacy-legislation-tracker/)
+- Mar 17 - [Hot-code reloading on macOS/arm64 with Zig](http://www.jakubkonka.com/2022/03/16/hcs-zig.html)
 <!--END_SECTION:hn-->
 
 <!--
