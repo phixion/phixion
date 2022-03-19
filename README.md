@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 19 - [Shipamax (YC W17) Is Hiring an Engineering Manager](https://angel.co/company/shipamax/jobs/1710053-hands-on-engineering-manager)
-- Mar 19 - [Documenting Sony Memory Stick](https://dmitry.gr/?r=05.Projects&proj=31.%20Memory%20Stick)
-- Mar 19 - [Gauge.js – A JavaScript animated gauge lib](http://www.htmldrive.net/items/demo/1357/gauge.js-A-JavaScript-animated-gauge-lib)
-- Mar 19 - [What Is Tokenization?](https://basistheory.com/blog/what-is-tokenization)
-- Mar 19 - [Prediction market: We're unhappy with Firestore. What will we switch to?](https://manifold.markets/Austin/what-database-will-manifold-be-prim)
+- Mar 19 - [Meticulous (YC S21) Is Hiring #2 Founding Engineer in London](https://news.ycombinator.com/item?id=30733094)
+- Mar 19 - [Pokete: Terminal based Pokemon like game](https://github.com/lxgr-linux/pokete)
+- Mar 19 - [EU countries pledge to promote OSS within public administrations [pdf]](https://www.transformation.gouv.fr/files/presse/Declaration_common_values_challenges_european%20public_administrations_1.pdf)
+- Mar 19 - [Modern Turbo Vision 2.0](https://github.com/magiblot/tvision)
+- Mar 19 - [Apple’s Universal Control](https://500ish.com/it-really-just-works-d359cfcdffe6?gi=5e5236274b4e)
 <!--END_SECTION:hn-->
 
 <!--
