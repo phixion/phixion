@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 18 - [Justice Department Issues Web Accessibility Guidance Under the ADA](https://www.justice.gov/opa/pr/justice-department-issues-web-accessibility-guidance-under-americans-disabilities-act)
-- Mar 18 - [The Open Source Initiative Did Not Win Neo4j vs. PureThink](https://writing.kemitchell.com/2022/03/17/OSI-Neo4j-PureThink.html)
-- Mar 18 - [On the Weaponisation of Open Source](https://beny23.github.io/posts/on_weaponisation_of_open_source/)
-- Mar 18 - [I learned to stop worrying and structure all writing as a list](https://dynomight.net/lists/)
-- Mar 18 - [Software is no longer sold; it's adopted](https://orbit.love/blog/software-is-no-longer-sold-its-adopted)
+- Mar 18 - [The first Asahi Linux Alpha Release is here](https://asahilinux.org/2022/03/asahi-linux-alpha-release/)
+- Mar 18 - [A game-changing transplant could treat dying organs](https://www.nationalgeographic.com/science/article/how-a-game-changing-transplant-could-treat-dying-organs)
+- Mar 18 - [Arkenfox: Firefox privacy, security and anti-tracking user.js template](https://github.com/arkenfox/user.js)
+- Mar 18 - [Crypto is an Unproductive Bubble](https://alexkolchinski.com/2022/03/18/crypto-is-an-unproductive-bubble/)
+- Mar 18 - [Small subgroups of the population seem much larger to many Americans](https://today.yougov.com/topics/politics/articles-reports/2022/03/15/americans-misestimate-small-subgroups-population)
 <!--END_SECTION:hn-->
 
 <!--
