@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 19 - [OpenBSD/arm64 on Apple M1 systems](https://marc.info/?l=openbsd-arm&m=164768992119719&w=2)
-- Mar 19 - [Fish 3.4.0](https://fishshell.com/docs/current/relnotes.html)
-- Mar 19 - [Why can’t America build quickly anymore?](https://fullstackeconomics.com/why-america-cant-build-big-things-any-more/)
-- Mar 19 - [A Bitcoin Mine at a Natural Gas Well in Texas](https://www.vice.com/en/article/m7v49n/inside-a-bitcoin-mine-at-a-natural-gas-well-in-texas)
-- Mar 19 - [The Inca Used Knots to Tell Stories](https://lithub.com/how-the-inca-used-knots-to-tell-stories/)
+- Mar 19 - [Dogs might be anxious for the same reasons as humans](https://www.science.org/content/article/your-dog-might-be-anxious-same-reasons-you-are)
+- Mar 19 - [When Double Precision Is Not Enough](https://adambaskerville.github.io/posts/LespEigenvalues/)
+- Mar 19 - [A DARPA Perspective on Artificial Intelligence [pdf]](https://www.darpa.mil/attachments/AIFull.pdf)
+- Mar 19 - [Half of US population exposed to adverse lead levels in early childhood](https://www.pnas.org/doi/full/10.1073/pnas.2118631119)
+- Mar 19 - [Ask HN: What Happened to Svbtle?](https://news.ycombinator.com/item?id=30735505)
 <!--END_SECTION:hn-->
 
 <!--
