@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 19 - [Meticulous (YC S21) Is Hiring #2 Founding Engineer in London](https://news.ycombinator.com/item?id=30733094)
-- Mar 19 - [Pokete: Terminal based Pokemon like game](https://github.com/lxgr-linux/pokete)
-- Mar 19 - [EU countries pledge to promote OSS within public administrations [pdf]](https://www.transformation.gouv.fr/files/presse/Declaration_common_values_challenges_european%20public_administrations_1.pdf)
-- Mar 19 - [Modern Turbo Vision 2.0](https://github.com/magiblot/tvision)
-- Mar 19 - [Apple’s Universal Control](https://500ish.com/it-really-just-works-d359cfcdffe6?gi=5e5236274b4e)
+- Mar 19 - [OpenBSD/arm64 on Apple M1 systems](https://marc.info/?l=openbsd-arm&m=164768992119719&w=2)
+- Mar 19 - [Fish 3.4.0](https://fishshell.com/docs/current/relnotes.html)
+- Mar 19 - [Why can’t America build quickly anymore?](https://fullstackeconomics.com/why-america-cant-build-big-things-any-more/)
+- Mar 19 - [A Bitcoin Mine at a Natural Gas Well in Texas](https://www.vice.com/en/article/m7v49n/inside-a-bitcoin-mine-at-a-natural-gas-well-in-texas)
+- Mar 19 - [The Inca Used Knots to Tell Stories](https://lithub.com/how-the-inca-used-knots-to-tell-stories/)
 <!--END_SECTION:hn-->
 
 <!--
