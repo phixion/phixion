@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 18 - [The first Asahi Linux Alpha Release is here](https://asahilinux.org/2022/03/asahi-linux-alpha-release/)
-- Mar 18 - [A game-changing transplant could treat dying organs](https://www.nationalgeographic.com/science/article/how-a-game-changing-transplant-could-treat-dying-organs)
-- Mar 18 - [Arkenfox: Firefox privacy, security and anti-tracking user.js template](https://github.com/arkenfox/user.js)
-- Mar 18 - [Crypto is an Unproductive Bubble](https://alexkolchinski.com/2022/03/18/crypto-is-an-unproductive-bubble/)
-- Mar 18 - [Small subgroups of the population seem much larger to many Americans](https://today.yougov.com/topics/politics/articles-reports/2022/03/15/americans-misestimate-small-subgroups-population)
+- Mar 19 - [American NGO using node-ipc lost 30k files detailing war crimes](https://snippet.host/kvcb)
+- Mar 19 - [Prediction market: We're unhappy with Firestore. What will we switch to?](https://manifold.markets/Austin/what-database-will-manifold-be-prim)
+- Mar 19 - [Daytime napping and Alzheimer's dementia: A potential bidirectional relationship](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.12636)
+- Mar 18 - [Asahi Linux Alpha Release](https://asahilinux.org/2022/03/asahi-linux-alpha-release/)
+- Mar 18 - [First images from James Webb exceed all expectations](https://cosmosmagazine.com/space/exploration/first-photos-james-webb-telescope/)
 <!--END_SECTION:hn-->
 
 <!--
