@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 20 - [Supabase (YC S20) Is Hiring a Lead Golang Developer for Auth](https://boards.greenhouse.io/supabase/jobs/4307453004)
-- Mar 20 - [When the Emperor Is a Void (2020)](https://aaww.org/emperor-is-a-void-yukio-mishima-julia-shiota/)
-- Mar 20 - [FOSS devs are burning out, quitting, and even sabotaging their own projects](https://www.businessinsider.com/open-source-developers-burnout-low-pay-internet-2022-3)
-- Mar 20 - [Ask HN: Third Party Elements from Improving.duckduckgo.com](https://news.ycombinator.com/item?id=30741090)
-- Mar 20 - [Exploring Google Hangouts' easter eggs](https://varun.ch/hangouts)
+- Mar 20 - [Inflation is a disease – Milton Friedman](https://www.youtube.com/watch?v=B_nGEj8wIP0)
+- Mar 20 - [How much Rust in Firefox? March 2022](https://4e6.github.io/firefox-lang-stats/)
+- Mar 20 - [Big-box Stores could slash Emissions, save Millions – Put solar-panels on Roofs](https://lite.cnn.com/en/article/h_2194e570834169178970b716bcc8ce8a)
+- Mar 20 - [Vimeo: “We are a B2B solution, not the indie version of YouTube.”](https://ymcinema.com/2022/03/17/vimeo-we-are-a-b2b-solution-not-the-indie-version-of-youtube/)
+- Mar 20 - [Decrypting your own HTTPS traffic with Wireshark](https://www.trickster.dev/post/decrypting-your-own-https-traffic-with-wireshark/)
 <!--END_SECTION:hn-->
 
 <!--
