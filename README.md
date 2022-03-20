@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 20 - [Raycast (YC W20) Is Hiring to Make Work Frictionless (Remote in Europe)](https://raycast.com/careers)
-- Mar 20 - [Addressing Criticism of RISC-V Microprocessors](https://erik-engheim.medium.com/addressing-criticism-of-risc-v-microprocessors-803239b53284)
-- Mar 20 - [Ask HN: How much are you making in Vancouver?](https://news.ycombinator.com/item?id=30740025)
-- Mar 20 - [A letter to Microsoft for not attributing authors of the Edge Flatpak app](https://theevilskeleton.gitlab.io/2022/03/19/a-letter-to-microsoft-for-not-attributing-authors-of-the-edge-flatpak-application.html)
-- Mar 20 - [Rust's unsafe pointer types need an overhaul](https://gankra.github.io/blah/fix-rust-pointers/)
+- Mar 20 - [Supabase (YC S20) Is Hiring a Lead Golang Developer for Auth](https://boards.greenhouse.io/supabase/jobs/4307453004)
+- Mar 20 - [When the Emperor Is a Void (2020)](https://aaww.org/emperor-is-a-void-yukio-mishima-julia-shiota/)
+- Mar 20 - [FOSS devs are burning out, quitting, and even sabotaging their own projects](https://www.businessinsider.com/open-source-developers-burnout-low-pay-internet-2022-3)
+- Mar 20 - [Ask HN: Third Party Elements from Improving.duckduckgo.com](https://news.ycombinator.com/item?id=30741090)
+- Mar 20 - [Exploring Google Hangouts' easter eggs](https://varun.ch/hangouts)
 <!--END_SECTION:hn-->
 
 <!--
