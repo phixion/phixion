@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 19 - [Study on Quality of Sleep When Pet Cats Choose Location of Slumber](https://www.spoon-tamago.com/2022/03/09/cat-sleep-study/)
-- Mar 19 - [Visual Studio Code is randomly erasing included header files with latest update](https://github.com/microsoft/vscode/issues/145297)
-- Mar 19 - [The spread of misinformation: A pattern we see over and over](https://statmodeling.stat.columbia.edu/2022/03/18/the-spread-of-misinformation/)
-- Mar 19 - [Jailed baby gene scientist ‘should be made responsible’ for the children](https://www.thetimes.co.uk/article/jailed-baby-gene-scientist-he-jiankui-should-be-made-responsible-for-the-children-q7s3j9mlf)
-- Mar 19 - [Streak (YC W22) Is Hiring a Head of Operations](https://www.streak.com/careers/head-of-ops)
+- Mar 20 - [A Letter to Microsoft for Not Attributing Authors of the Edge Flatpak App](https://theevilskeleton.gitlab.io/2022/03/19/a-letter-to-microsoft-for-not-attributing-authors-of-the-edge-flatpak-application.html)
+- Mar 20 - [Rust's Unsafe Pointer Types Need an Overhaul](https://gankra.github.io/blah/fix-rust-pointers/)
+- Mar 20 - [Amazon warehouse fires a worker 1 day before his $3000 hiring bonus](https://old.reddit.com/r/antiwork/comments/ti3ml2/amazon_warehouse_fires_my_brother_1_day_before/)
+- Mar 20 - [Show HN: I made a CLI tool that turns pixels into emojis](https://github.com/ahhhh6980/Mosaic)
+- Mar 20 - [Just some red flags. No big deal. Just ignore them (2020)](https://rachelbythebay.com/w/2020/05/22/boarded/)
 <!--END_SECTION:hn-->
 
 <!--
