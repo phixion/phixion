@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 21 - [Poll: DuckDuckGo “down-rank sites associated with Russian disinformation”](https://news.ycombinator.com/item?id=30751346)
-- Mar 21 - [Using a tiny HC32L110 ARM chip](https://spritesmods.com/?art=hc32l110&page=1)
-- Mar 21 - [Please Put Units in Names](https://ruudvanasseldonk.com/2022/03/20/please-put-units-in-names)
-- Mar 20 - [Show HN: Open-Source 3D Location-Based Wireless Mesh Network](https://github.com/kurthildebrand/hyperspace)
-- Mar 20 - [Vanced Team going into detail about Vanced being discontinued](https://telegra.ph/Vanced-Discontinuation-03-19)
+- Mar 21 - [Smarking (YC W15) Is Hiring on 15 positions to digitize $655B parking industry](https://www.smarking.com/careers)
+- Mar 21 - [LaBanquePostale payments request bank password](https://gist.github.com/unrealwill/997e1486a7fa153a28679f322f8e378a)
+- Mar 21 - [Sumerian dog jokes, or the difficulty of translating dead languages](https://twitter.com/LinManuelRwanda/status/1505646738627088389)
+- Mar 21 - [Apple Studio Display Contains 64GB of Storage, but Only 2GB Used](https://www.macrumors.com/2022/03/21/studio-display-contains-64gb-storage/)
+- Mar 21 - [Overtone is live programmable music and visualization](https://overtone.github.io/)
 <!--END_SECTION:hn-->
 
 <!--
