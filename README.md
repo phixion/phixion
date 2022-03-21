@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 20 - [Male High School Athletes vs. Female Olympians](https://boysvswomen.com/#/)
-- Mar 20 - [Plaintext Productivity](https://plaintext-productivity.net/)
-- Mar 20 - [The Interview Process at Canonical - application withdrawn](https://twitter.com/dmsimard/status/1505262381609406467)
-- Mar 20 - [Sync for Thunderbird](https://bugzilla.mozilla.org/show_bug.cgi?id=446444)
-- Mar 20 - [Pointers and Memory Management in Python](https://github.com/ZeroIntensity/pointers.py)
+- Mar 20 - [What doctors wish patients knew about long Covid](https://www.ama-assn.org/delivering-care/public-health/what-doctors-wish-patients-knew-about-long-covid)
+- Mar 20 - [Vanced Team going into detail about Vanced being discontinued](https://telegra.ph/Vanced-Discontinuation-03-19)
+- Mar 20 - [The Windows OS needs a change in priorities](https://den.dev/blog/windows-priority-shuffle/)
+- Mar 20 - [CodeEdit: Building a free, open-source code editor for macOS](https://github.com/CodeEditApp/CodeEdit)
+- Mar 20 - [What the new PowerVR driver means for mobile](https://tuxphones.com/what-does-the-new-powervr-driver-mean-for-mobile/)
 <!--END_SECTION:hn-->
 
 <!--
