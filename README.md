@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 21 - [Smarking (YC W15) Is Hiring on 15 positions to digitize $655B parking industry](https://www.smarking.com/careers)
-- Mar 21 - [LaBanquePostale payments request bank password](https://gist.github.com/unrealwill/997e1486a7fa153a28679f322f8e378a)
-- Mar 21 - [Sumerian dog jokes, or the difficulty of translating dead languages](https://twitter.com/LinManuelRwanda/status/1505646738627088389)
-- Mar 21 - [Apple Studio Display Contains 64GB of Storage, but Only 2GB Used](https://www.macrumors.com/2022/03/21/studio-display-contains-64gb-storage/)
-- Mar 21 - [Overtone is live programmable music and visualization](https://overtone.github.io/)
+- Mar 21 - [OneWeb will resume satellite launches with SpaceX as the launch provider](https://oneweb.net/resources/oneweb-resume-satellite-launches-through-agreement-spacex)
+- Mar 21 - [Nearly all websites may breach GDPR](https://www.usenix.org/conference/usenixsecurity22/presentation/bollinger)
+- Mar 21 - [A Moscow court has banned Facebook and Instagram as “extremist” organizations](https://twitter.com/MoscowTimes/status/1505914095274450949)
+- Mar 21 - [Plain Text Sports](https://plaintextsports.com/)
+- Mar 21 - [Ask HN: Book Recommendation for macOS Development](https://news.ycombinator.com/item?id=30753584)
 <!--END_SECTION:hn-->
 
 <!--
