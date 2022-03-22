@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 21 - [US Justice Department accuses Google of hiding business communications](https://www.axios.com/justice-department-google-hiding-business-communications-fc8b02d4-876d-421c-aac1-e8a06a8be0b0.html)
-- Mar 21 - [Librem 5: First Impressions](https://incoherency.co.uk/blog/stories/librem5-first-impressions.html)
-- Mar 21 - [Literate programming is much more than just commenting code](https://justinmeiners.github.io/literate-programming/)
-- Mar 21 - [LTrack: Stealthy Tracking of Mobile Phones in LTE](https://www.usenix.org/conference/usenixsecurity22/presentation/kotuliak)
-- Mar 21 - [Skio (subscriptions for Shopify, above market comp) is hiring eng in NYC](https://skio.com/careers/)
+- Mar 22 - [Android's Messages, Dialer apps quietly sent text, call info to Google](https://www.theregister.com/2022/03/21/google_messages_gdpr/)
+- Mar 22 - [First Raspberry Pi Powered Ultra-Small Form Factor Rugged for Defense, Aerospace](https://www.curtisswrightds.com/news/press-release/raspberry-pi-powered-ultra-small-form-factor-rugged-mission-computer.html)
+- Mar 22 - [Before the Fall of the Roman Republic: Income Inequality, Xenophobia](https://www.smithsonianmag.com/history/fall-roman-republic-income-inequality-and-xenophobia-threatened-its-foundations-180967249/)
+- Mar 22 - [Exploring and mapping chemical space with molecular assembly trees](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8462901/)
+- Mar 22 - ['Perfect Blue' and 'Requiem for a Dream'](https://animationobsessive.substack.com/p/the-real-history-of-perfect-blue)
 <!--END_SECTION:hn-->
 
 <!--
