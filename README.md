@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 22 - [Mercedes Drive Pilot Beats Tesla Autopilot by Taking Legal Responsibility](https://www.roadandtrack.com/news/a39481699/what-happens-if-mercedes-drivepilot-causes-a-crash/)
-- Mar 22 - [Tell HN: A $40B company killed my 2yo son. Now they force me to keep silent](https://news.ycombinator.com/item?id=30763464)
-- Mar 22 - [Opvia (YC S20) Is Hiring a Senior Product Engineer in London](https://www.notion.so/opvia/Senior-Product-Engineer-160ee0167887461cabc7acfc468a5b8d)
-- Mar 22 - [In Praise of Memorization](http://www.pearlleff.com/in-praise-of-memorization)
-- Mar 22 - [Hackers claim to have breached Okta systems](https://twitter.com/_MG_/status/1506109152665382920)
+- Mar 22 - [Raptor Maps (YC S16) Is Hiring a Lead DevOps Engineer for Solar Software](https://jobs.lever.co/RaptorMaps/fd02133c-138e-4926-9f75-875233e1d1f7)
+- Mar 22 - [Cloudflare have made it impossible for me to unsubscribe from marketing emails](https://news.ycombinator.com/item?id=30764757)
+- Mar 22 - [KeePassXC 2.7.0](https://keepassxc.org/blog/2022-03-21-2.7.0-released//)
+- Mar 22 - [Starring your repo does not give you permission to spam me](https://github.com/browserless/chrome/issues/2234)
+- Mar 22 - [Frustration: One Year with R](https://github.com/ReeceGoding/Frustration-One-Year-With-R)
 <!--END_SECTION:hn-->
 
 <!--
