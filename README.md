@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 22 - [Raptor Maps (YC S16) Is Hiring a Lead DevOps Engineer for Solar Software](https://jobs.lever.co/RaptorMaps/fd02133c-138e-4926-9f75-875233e1d1f7)
-- Mar 22 - [Cloudflare have made it impossible for me to unsubscribe from marketing emails](https://news.ycombinator.com/item?id=30764757)
-- Mar 22 - [KeePassXC 2.7.0](https://keepassxc.org/blog/2022-03-21-2.7.0-released//)
-- Mar 22 - [Starring your repo does not give you permission to spam me](https://github.com/browserless/chrome/issues/2234)
-- Mar 22 - [Frustration: One Year with R](https://github.com/ReeceGoding/Frustration-One-Year-With-R)
+- Mar 22 - [BuzzFeed investors have pushed CEO Jonah Peretti to shut down entire newsroom](https://www.cnbc.com/2022/03/22/buzzfeed-investors-have-pushed-ceo-jonah-peretti-to-shut-down-newsroom.html)
+- Mar 22 - [Hyper-Realistic Digital Humans in Unity](https://unity.com/demos/enemies)
+- Mar 22 - [Updated Okta Statement on Lapsus$](https://www.okta.com/blog/2022/03/updated-okta-statement-on-lapsus/)
+- Mar 22 - [Adafruit requires 2FA to prevent bots buying out Raspberry Pi](https://blog.adafruit.com/2022/03/17/verified-accounts-secured-with-2fa-for-some-high-demand-products/)
+- Mar 22 - [Show HN: Appwrite – Open-Source and Self Hosted Firebase Alternative](https://github.com/appwrite/appwrite)
 <!--END_SECTION:hn-->
 
 <!--
