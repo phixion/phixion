@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 21 - [Two-minute battery changes push India’s delivery riders to switch to e-scooters](https://theprint.in/tech/two-minute-battery-changes-push-indias-delivery-riders-to-switch-to-e-scooters/881609/)
-- Mar 21 - [Results of 500 MicroSD Benchmarks on SBCs](https://bret.dk/best-raspberry-pi-micro-sd-cards/)
-- Mar 21 - [Victims of Vimeo](https://ae.studio/blog/victims-of-vimeo)
-- Mar 21 - [Lanai, the mystery CPU architecture in LLVM](https://q3k.org/lanai.html)
-- Mar 21 - [Launch HN: Spoken (YC S21) – Better furniture shopping](https://news.ycombinator.com/item?id=30757421)
+- Mar 21 - [US Justice Department accuses Google of hiding business communications](https://www.axios.com/justice-department-google-hiding-business-communications-fc8b02d4-876d-421c-aac1-e8a06a8be0b0.html)
+- Mar 21 - [Librem 5: First Impressions](https://incoherency.co.uk/blog/stories/librem5-first-impressions.html)
+- Mar 21 - [Literate programming is much more than just commenting code](https://justinmeiners.github.io/literate-programming/)
+- Mar 21 - [LTrack: Stealthy Tracking of Mobile Phones in LTE](https://www.usenix.org/conference/usenixsecurity22/presentation/kotuliak)
+- Mar 21 - [Skio (subscriptions for Shopify, above market comp) is hiring eng in NYC](https://skio.com/careers/)
 <!--END_SECTION:hn-->
 
 <!--
