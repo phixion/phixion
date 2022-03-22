@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 22 - [Android's Messages, Dialer apps quietly sent text, call info to Google](https://www.theregister.com/2022/03/21/google_messages_gdpr/)
-- Mar 22 - [First Raspberry Pi Powered Ultra-Small Form Factor Rugged for Defense, Aerospace](https://www.curtisswrightds.com/news/press-release/raspberry-pi-powered-ultra-small-form-factor-rugged-mission-computer.html)
-- Mar 22 - [Before the Fall of the Roman Republic: Income Inequality, Xenophobia](https://www.smithsonianmag.com/history/fall-roman-republic-income-inequality-and-xenophobia-threatened-its-foundations-180967249/)
-- Mar 22 - [Exploring and mapping chemical space with molecular assembly trees](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8462901/)
-- Mar 22 - ['Perfect Blue' and 'Requiem for a Dream'](https://animationobsessive.substack.com/p/the-real-history-of-perfect-blue)
+- Mar 22 - [Mercedes Drive Pilot Beats Tesla Autopilot by Taking Legal Responsibility](https://www.roadandtrack.com/news/a39481699/what-happens-if-mercedes-drivepilot-causes-a-crash/)
+- Mar 22 - [Tell HN: A $40B company killed my 2yo son. Now they force me to keep silent](https://news.ycombinator.com/item?id=30763464)
+- Mar 22 - [Opvia (YC S20) Is Hiring a Senior Product Engineer in London](https://www.notion.so/opvia/Senior-Product-Engineer-160ee0167887461cabc7acfc468a5b8d)
+- Mar 22 - [In Praise of Memorization](http://www.pearlleff.com/in-praise-of-memorization)
+- Mar 22 - [Hackers claim to have breached Okta systems](https://twitter.com/_MG_/status/1506109152665382920)
 <!--END_SECTION:hn-->
 
 <!--
