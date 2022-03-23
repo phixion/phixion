@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 22 - [BuzzFeed investors have pushed CEO Jonah Peretti to shut down entire newsroom](https://www.cnbc.com/2022/03/22/buzzfeed-investors-have-pushed-ceo-jonah-peretti-to-shut-down-newsroom.html)
-- Mar 22 - [Hyper-Realistic Digital Humans in Unity](https://unity.com/demos/enemies)
-- Mar 22 - [Updated Okta Statement on Lapsus$](https://www.okta.com/blog/2022/03/updated-okta-statement-on-lapsus/)
-- Mar 22 - [Adafruit requires 2FA to prevent bots buying out Raspberry Pi](https://blog.adafruit.com/2022/03/17/verified-accounts-secured-with-2fa-for-some-high-demand-products/)
-- Mar 22 - [Show HN: Appwrite – Open-Source and Self Hosted Firebase Alternative](https://github.com/appwrite/appwrite)
+- Mar 23 - [How the Nintendo Switch prevents downgrades by irreparably blowing its own fuses](https://blog.jonlu.ca/posts/nintendo-switch)
+- Mar 22 - [Nasal spray could prevent Alzheimer’s disease, brain inflammation](https://www.braintomorrow.com/2022/03/21/nasal-spray-alzheimers-memory/)
+- Mar 22 - [Nushell 0.60 Released](https://www.nushell.sh/blog/2022-03-22-nushell_0_60.html)
+- Mar 22 - [Folding bicycle small enough to fit in hand luggage](https://www.kwigglebike.com/en_US/)
+- Mar 22 - [SafeButler (YC S17) Is Hiring Remote Software Engineer](https://www.safebutler.com/careers)
 <!--END_SECTION:hn-->
 
 <!--
