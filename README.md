@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 23 - [Web3 Is Centralized (and Inefficient)](https://www.neelc.org/posts/web3-centralized/)
-- Mar 23 - [DEV-0537 (LAPSUS$) Criminal actor targeting organizations](https://www.microsoft.com/security/blog/2022/03/22/dev-0537-criminal-actor-targeting-organizations-for-data-exfiltration-and-destruction/)
-- Mar 23 - [New Updated Okta Statement on Lapsus$ (3/22 6:31 PST Update)](https://news.ycombinator.com/item?id=30774193)
-- Mar 23 - [Pro Chefs Debate 11 Cooking Tips and Tricks](https://www.bonappetit.com/video/watch/test-kitchen-talks-pro-chefs-debate-11-cooking-tips-and-tricks)
-- Mar 23 - [Honduras Is Not For Sale (2021)](https://www.hondurasisnotforsale.org)
+- Mar 23 - [Ashby (YC W19) is hiring. Build automation that saves recruiting teams and4h/day](https://www.ashbyhq.com/careers?utm_source=hn)
+- Mar 23 - [Remove Google Account After Factory Reset](https://support.google.com/accounts/thread/5783037/remove-google-account-after-factory-reset?hl=en)
+- Mar 23 - [A one in a million bug in Switch kernel](https://gist.githubusercontent.com/plutooo/2aadbd4a718e269df474079dd2e584fb/raw/7b3af77b5202366c8934c88ef251f1e905967040/gistfile1.txt)
+- Mar 23 - [Okta’s Investigation of the January 2022 Compromise](https://www.okta.com/blog/2022/03/oktas-investigation-of-the-january-2022-compromise/)
+- Mar 23 - [How to properly interpret a traceroute or mtr](https://phil.lavin.me.uk/2022/03/how-to-properly-interpret-a-traceroute-or-mtr/)
 <!--END_SECTION:hn-->
 
 <!--
