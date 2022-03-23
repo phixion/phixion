@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 23 - [How the Nintendo Switch prevents downgrades by irreparably blowing its own fuses](https://blog.jonlu.ca/posts/nintendo-switch)
-- Mar 22 - [Nasal spray could prevent Alzheimer’s disease, brain inflammation](https://www.braintomorrow.com/2022/03/21/nasal-spray-alzheimers-memory/)
-- Mar 22 - [Nushell 0.60 Released](https://www.nushell.sh/blog/2022-03-22-nushell_0_60.html)
-- Mar 22 - [Folding bicycle small enough to fit in hand luggage](https://www.kwigglebike.com/en_US/)
-- Mar 22 - [SafeButler (YC S17) Is Hiring Remote Software Engineer](https://www.safebutler.com/careers)
+- Mar 23 - [Web3 Is Centralized (and Inefficient)](https://www.neelc.org/posts/web3-centralized/)
+- Mar 23 - [DEV-0537 (LAPSUS$) Criminal actor targeting organizations](https://www.microsoft.com/security/blog/2022/03/22/dev-0537-criminal-actor-targeting-organizations-for-data-exfiltration-and-destruction/)
+- Mar 23 - [New Updated Okta Statement on Lapsus$ (3/22 6:31 PST Update)](https://news.ycombinator.com/item?id=30774193)
+- Mar 23 - [Pro Chefs Debate 11 Cooking Tips and Tricks](https://www.bonappetit.com/video/watch/test-kitchen-talks-pro-chefs-debate-11-cooking-tips-and-tricks)
+- Mar 23 - [Honduras Is Not For Sale (2021)](https://www.hondurasisnotforsale.org)
 <!--END_SECTION:hn-->
 
 <!--
