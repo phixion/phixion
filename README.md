@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 23 - [Ask HN: How likely are we to see a financial crash this year?](https://news.ycombinator.com/item?id=30779645)
-- Mar 23 - [Not smart but clever? The return of 'dumbphones'](https://www.bbc.co.uk/news/business-60763168)
-- Mar 23 - [GitHub incident 2022-03-23](https://www.githubstatus.com/incidents/tyc8wpsgr2r8)
-- Mar 23 - [Tea – the toolkit that builds the Internet](https://tea.xyz/)
-- Mar 23 - [Another Vulnerability in the LPC55S69 ROM](https://oxide.computer/blog/another-vulnerability-in-the-lpc55s69-rom)
+- Mar 23 - [The Keys to the Kingdom](https://queue.acm.org/detail.cfm?id=3511664)
+- Mar 23 - [Linear Hammer: PCA is not a panacea](https://danluu.com/linear-hammer/)
+- Mar 23 - [Why income share agreements did not work out](https://twitter.com/seanlinehan/status/1505923007096700939)
+- Mar 23 - [SystemSix](https://www.engineersneedart.com/systemsix/systemsix.html)
+- Mar 23 - [How to write a Vulkan driver in 2022](https://www.collabora.com/news-and-blog/blog/2022/03/23/how-to-write-vulkan-driver-in-2022/)
 <!--END_SECTION:hn-->
 
 <!--
