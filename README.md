@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 23 - [Ashby (YC W19) is hiring. Build automation that saves recruiting teams and4h/day](https://www.ashbyhq.com/careers?utm_source=hn)
-- Mar 23 - [Remove Google Account After Factory Reset](https://support.google.com/accounts/thread/5783037/remove-google-account-after-factory-reset?hl=en)
-- Mar 23 - [A one in a million bug in Switch kernel](https://gist.githubusercontent.com/plutooo/2aadbd4a718e269df474079dd2e584fb/raw/7b3af77b5202366c8934c88ef251f1e905967040/gistfile1.txt)
-- Mar 23 - [Okta’s Investigation of the January 2022 Compromise](https://www.okta.com/blog/2022/03/oktas-investigation-of-the-january-2022-compromise/)
-- Mar 23 - [How to properly interpret a traceroute or mtr](https://phil.lavin.me.uk/2022/03/how-to-properly-interpret-a-traceroute-or-mtr/)
+- Mar 23 - [The Muse (YC W12) Is Hiring a Senior Platform Engineer](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
+- Mar 23 - [Original source code for the PowerVR Series 1 GPUs](https://github.com/powervr-graphics/PowerVR-Series1)
+- Mar 23 - [Amazon Corretto 18 is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-corretto-18/)
+- Mar 23 - [Mars helicopter Ingenuity completes 22nd flight](https://www.upi.com/Science_News/2022/03/22/Mars-helicopter-Ingenuity-completes-22nd-flight/9021647987696/)
+- Mar 23 - [Thank You HN](https://news.ycombinator.com/item?id=30776808)
 <!--END_SECTION:hn-->
 
 <!--
