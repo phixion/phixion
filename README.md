@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 24 - [Manara (YC W21) Is Hiring a Full Slack Engineer](https://manara.breezy.hr/p/1cebbb12d138-full-stack-javascript-engineer)
-- Mar 24 - [Stephen E. Wilhite has died](https://www.megiefuneralhome.com/obituaries/Stephen-E.-Wilhite?obId=24311617#)
-- Mar 24 - [I have quit my job](https://bitspook.in/blog/i-have-quit-my-job/)
-- Mar 24 - [AWS Graviton vs. M1 vs. M1 Pro Node.js Benchmarks](https://spacedoutandsmiling.com/blog/2021-12-27-nerdy-aws-graviton-vs-m1-vs-m1-pro-nodejsr-benchmarks)
-- Mar 24 - [Evidence of Fabricated Data in a Vitamin C trial by Paul E Marik et al.](http://kylesheldrick.blogspot.com/2022/03/evidence-of-fabricated-data-in-vitamin.html)
+- Mar 24 - [Wasp (YC W21) Is Hiring a DevRel](https://news.ycombinator.com/item?id=30788655)
+- Mar 24 - [Complaints mount after GitHub launches new algorithmic feed](https://www.theregister.com/2022/03/23/github_for_you/)
+- Mar 24 - [Nearly 75% of US counties lost population last year as deaths outnumbered births](https://www.washingtonpost.com/dc-md-va/2022/03/24/census-population-counties-cities-covid/)
+- Mar 24 - [Ask HN: Uptick in spam based on GitHub activity](https://news.ycombinator.com/item?id=30787677)
+- Mar 24 - [Ask HN: What happened to surveillance camera guy?](https://news.ycombinator.com/item?id=30787430)
 <!--END_SECTION:hn-->
 
 <!--
