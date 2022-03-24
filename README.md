@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 24 - [Wasp (YC W21) Is Hiring a DevRel](https://news.ycombinator.com/item?id=30788655)
-- Mar 24 - [Complaints mount after GitHub launches new algorithmic feed](https://www.theregister.com/2022/03/23/github_for_you/)
-- Mar 24 - [Nearly 75% of US counties lost population last year as deaths outnumbered births](https://www.washingtonpost.com/dc-md-va/2022/03/24/census-population-counties-cities-covid/)
-- Mar 24 - [Ask HN: Uptick in spam based on GitHub activity](https://news.ycombinator.com/item?id=30787677)
-- Mar 24 - [Ask HN: What happened to surveillance camera guy?](https://news.ycombinator.com/item?id=30787430)
+- Mar 24 - [Upcoming changes to user limits on Free tier of Gitlab SaaS](https://about.gitlab.com/blog/2022/03/24/efficient-free-tier/)
+- Mar 24 - [Heap Overflow in OpenBSD's Slaacd via Router Advertisement](https://blog.quarkslab.com/heap-overflow-in-openbsds-slaacd-via-router-advertisement.html)
+- Mar 24 - [GitHub incident: 2022/03/24](https://www.githubstatus.com/incidents/y5hdmv0p49x3)
+- Mar 24 - [Awesome Pascal – A curated list of Delphi, FreePascal, and Pascal shiny things](https://github.com/Fr0sT-Brutal/awesome-pascal)
+- Mar 24 - [Show HN: Kestra - Open-Source Airflow Alternative](https://github.com/kestra-io/kestra)
 <!--END_SECTION:hn-->
 
 <!--
