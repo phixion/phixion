@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 24 - [Upcoming changes to user limits on Free tier of Gitlab SaaS](https://about.gitlab.com/blog/2022/03/24/efficient-free-tier/)
-- Mar 24 - [Heap Overflow in OpenBSD's Slaacd via Router Advertisement](https://blog.quarkslab.com/heap-overflow-in-openbsds-slaacd-via-router-advertisement.html)
-- Mar 24 - [GitHub incident: 2022/03/24](https://www.githubstatus.com/incidents/y5hdmv0p49x3)
-- Mar 24 - [Awesome Pascal – A curated list of Delphi, FreePascal, and Pascal shiny things](https://github.com/Fr0sT-Brutal/awesome-pascal)
-- Mar 24 - [Show HN: Kestra - Open-Source Airflow Alternative](https://github.com/kestra-io/kestra)
+- Mar 24 - [Global music market grew by 18.5% in 2021, driven by paid subscription streaming](https://www.ifpi.org/ifpi-global-music-report-global-recorded-music-revenues-grew-18-5-in-2021/)
+- Mar 24 - [Artificial sweeteners are associated with increased cancer risk](https://www.technologynetworks.com/cancer-research/news/artificial-sweeteners-are-associated-with-increased-cancer-risk-finds-large-scale-cohort-study-359968)
+- Mar 24 - [Swapping two Numbers without Temporary Variables](https://garrit.xyz/posts/2022-03-24-swapping-numbers-without-temp)
+- Mar 24 - [The illusion of evidence based medicine](https://www.bmj.com/content/376/bmj.o702)
+- Mar 24 - [Launch HN: Carbon Crusher (YC W22) – Carbon Negative Roads](https://news.ycombinator.com/item?id=30793076)
 <!--END_SECTION:hn-->
 
 <!--
