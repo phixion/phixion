@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 25 - [I built a receipt printer for GitHub issues](https://aschmelyun.com/blog/i-built-a-receipt-printer-for-github-issues/)
-- Mar 25 - [Half of women will get a false positive 3D mammogram, study finds](https://www.axios.com/half-of-women-will-get-a-false-positive-3d-mammogram-study-finds-5caf02eb-e5d8-4216-82b1-ac83f36523b2.html)
-- Mar 25 - [Microsoft is tied to hundreds of millions of dollars in foreign bribes](https://www.theverge.com/2022/3/25/22995144/microsoft-foreign-corrupt-practices-bribery-whistleblower-contracting)
-- Mar 25 - [Ask HN: Starting a Career in Programming at 61?](https://news.ycombinator.com/item?id=30802740)
-- Mar 25 - [Ask HN: What (almost) company sinking engineering mistakes have you witnessed?](https://news.ycombinator.com/item?id=30802631)
+- Mar 25 - [API-0.core.keybaseapi.com has expired certificate](https://www.sslshopper.com/ssl-checker.html#hostname=https://api-0.core.keybaseapi.com)
+- Mar 25 - [When New York City Was a Wiretapper’s Dream](https://spectrum.ieee.org/illegal-wiretapping)
+- Mar 25 - [Interoperability without sacrificing privacy: Matrix and the DMA](https://matrix.org/blog/2022/03/25/interoperability-without-sacrificing-privacy-matrix-and-the-dma/)
+- Mar 25 - [The Edited Latecomer’s Guide to Crypto](https://www.mollywhite.net/annotations/latecomers-guide-to-crypto#)
+- Mar 25 - [Various Honda vehicles send the same, unencrypted RF signal for each door-open](https://github.com/nonamecoder/CVE-2022-27254)
 <!--END_SECTION:hn-->
 
 <!--
