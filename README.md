@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 25 - [Rescale (YC W12) Is Hiring HPC Engineers](https://jobs.lever.co/rescale/21a1d1ee-ab7b-4b43-9d05-d44bb1a1f3ac?lever-origin=applied&lever-source%5B%5D=hacker-news)
-- Mar 25 - [I let a baby bird nest in my hair for 84 days](https://www.theguardian.com/lifeandstyle/2022/mar/25/experience-i-let-a-baby-bird-nest-in-my-hair)
-- Mar 25 - [Social media platform now bans users for what they say off-platform](https://aflds.org/news/post/social-media-platform-now-bans-users-for-what-they-say-off-platform/)
-- Mar 25 - [Writing a Simple Operating System – From Scratch [pdf]](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
-- Mar 25 - [New EU law could require iMessage and WhatsApp to work with other platforms](https://www.theverge.com/2022/3/24/22995431/european-union-digital-markets-act-imessage-whatsapp-interoperable)
+- Mar 25 - [I built a receipt printer for GitHub issues](https://aschmelyun.com/blog/i-built-a-receipt-printer-for-github-issues/)
+- Mar 25 - [Half of women will get a false positive 3D mammogram, study finds](https://www.axios.com/half-of-women-will-get-a-false-positive-3d-mammogram-study-finds-5caf02eb-e5d8-4216-82b1-ac83f36523b2.html)
+- Mar 25 - [Microsoft is tied to hundreds of millions of dollars in foreign bribes](https://www.theverge.com/2022/3/25/22995144/microsoft-foreign-corrupt-practices-bribery-whistleblower-contracting)
+- Mar 25 - [Ask HN: Starting a Career in Programming at 61?](https://news.ycombinator.com/item?id=30802740)
+- Mar 25 - [Ask HN: What (almost) company sinking engineering mistakes have you witnessed?](https://news.ycombinator.com/item?id=30802631)
 <!--END_SECTION:hn-->
 
 <!--
