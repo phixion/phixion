@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 25 - [Racing against the clock – hitting a tiny kernel race window](https://googleprojectzero.blogspot.com/2022/03/racing-against-clock-hitting-tiny.html)
-- Mar 25 - [Performance Evaluation of IPFS in Private Networks](https://dl.acm.org/doi/fullHtml/10.1145/3456146.3456159)
-- Mar 25 - [Building a no-code toxicity classifier by talking to GitHub Copilot](https://www.surgehq.ai/blog/building-a-no-code-toxicity-classifier-by-talking-to-copilot)
-- Mar 24 - [The flood that filled the Mediterranean Sea - in one year](https://everythingisamazing.substack.com/p/in-search-of-a-flood-like-no-other)
-- Mar 24 - [How to add thousands of lights to your renderer and not die in the process](http://www.zyanidelab.com/how-to-add-thousands-of-lights-to-your-renderer/)
+- Mar 25 - [First Female Superstar of the Renaissance](https://www.nationalgeographic.com/history/history-magazine/article/this-italian-artist-became-the-first-female-renaissance-superstar)
+- Mar 25 - [Bitmovin (YC S15) Is Hiring a VP Product Marketing in Video Tech](https://bitmovin.com/careers/5866457002?gh_jid=5866457002)
+- Mar 25 - [Shrinkwrap: Taming Dynamic Shared Objects](https://fzakaria.com/2022/03/14/shrinkwrap-taming-dynamic-shared-objects.html)
+- Mar 25 - [On infinite ethics](https://handsandcities.com/2022/01/30/on-infinite-ethics/)
+- Mar 25 - [Popper’s Plato](https://hedgehogreview.com/issues/political-mythologies/articles/the-first-authoritarian)
 <!--END_SECTION:hn-->
 
 <!--
