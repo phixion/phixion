@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 24 - [Global music market grew by 18.5% in 2021, driven by paid subscription streaming](https://www.ifpi.org/ifpi-global-music-report-global-recorded-music-revenues-grew-18-5-in-2021/)
-- Mar 24 - [Artificial sweeteners are associated with increased cancer risk](https://www.technologynetworks.com/cancer-research/news/artificial-sweeteners-are-associated-with-increased-cancer-risk-finds-large-scale-cohort-study-359968)
-- Mar 24 - [Swapping two Numbers without Temporary Variables](https://garrit.xyz/posts/2022-03-24-swapping-numbers-without-temp)
-- Mar 24 - [The illusion of evidence based medicine](https://www.bmj.com/content/376/bmj.o702)
-- Mar 24 - [Launch HN: Carbon Crusher (YC W22) – Carbon Negative Roads](https://news.ycombinator.com/item?id=30793076)
+- Mar 24 - [How to add thousands of lights to your renderer and not die in the process](http://www.zyanidelab.com/how-to-add-thousands-of-lights-to-your-renderer/)
+- Mar 24 - [The end of the nice GTK button](https://blog.brixit.nl/the-end-of-the-nice-gtk-button/)
+- Mar 24 - [Courier (YC S19) Is Hiring to Make Software-to-Human Communication Delightful](https://jobs.lever.co/trycourier)
+- Mar 24 - [Daily coffee may benefit the heart](https://www.acc.org/About-ACC/Press-Releases/2022/03/23/17/55/Good-News-for-Coffee-Lovers-Daily-Coffee-May-Benefit-the-Heart)
+- Mar 24 - [Applebee’s exec urges using high gas prices to push lower wages, sparks walkout](https://www2.ljworld.com/news/general-news/2022/mar/23/an-email-urging-lower-wages-for-new-employees-due-to-higher-gas-prices-sparks-walkout-at-lawrence-applebees/)
 <!--END_SECTION:hn-->
 
 <!--
