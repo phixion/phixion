@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 26 - [`COPY –chmod` reduced the size of my container image by 35%](https://blog.vamc19.dev/posts/dockerfile-copy-chmod/)
-- Mar 26 - [Groundbreaking set for bridge billed as world's largest wildlife crossing](https://abc7.com/wildlife-crossing-101-freeway-bridge-groundbreaking/11680134/)
-- Mar 25 - [Old Spleens Suck](https://sarahconstantin.substack.com/p/old-spleens-suck)
-- Mar 25 - [Phantom OS](http://phantomos.org/)
-- Mar 25 - [Stronger hands lengthen your life](https://www.axios.com/hand-grip-strength-falling-deaths-8dfd77a1-0561-41be-8359-12532af948ce.html)
+- Mar 26 - [Unexpected space weather causing the reentry of 38 Starlink satellites](https://eartharxiv.org/repository/view/3208/)
+- Mar 26 - [Geothermal Plants Could Unlock Vast Supplies of Lithium in the American West](https://singularityhub.com/2022/03/23/how-geothermal-plants-could-solve-americas-lithium-supply-crunch-boost-ev-battery-industry/)
+- Mar 26 - [FDA Approves First CRISPR Cows for Beef](https://modernfarmer.com/2022/03/fda-crispr-cows-for-beef/)
+- Mar 26 - [An Apple Original on DVD: The Definitive Unboxing and UX Review](https://thenougatmachine.wordpress.com/2022/03/23/an-apple-original-on-dvd-the-definitive-unboxing-and-ux-review/)
+- Mar 26 - [Lawmakers Drink Raw Milk to Celebrate Legality, Become Immediately Sick (2016)](https://modernfarmer.com/2016/03/west-virginia-lawmakers-raw-milk-sick/)
 <!--END_SECTION:hn-->
 
 <!--
