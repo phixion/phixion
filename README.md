@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 26 - [Ask HN: What do you do when competition signs up for your service?](https://news.ycombinator.com/item?id=30812066)
-- Mar 26 - [Starting Over – A FOSS proposal for a new type of OS for a new type of computer](https://archive.fosdem.org/2021/schedule/event/new_type_of_computer/)
-- Mar 26 - [Show HN: GUI Applications in Podman on Wayland](https://github.com/mody5bundle/capps)
-- Mar 26 - [Show HN: A website to find public pianos](https://pianos.pub/)
-- Mar 26 - [Why we need lisp machines](https://fultonsramblings.substack.com/p/why-we-need-lisp-machines)
+- Mar 26 - [CMU's Recipe Archive](https://www.cs.cmu.edu/~mjw/recipes/)
+- Mar 26 - [Chrome 0day is being exploited now for CVE-2022-1096; update immediately](https://www.forbes.com/sites/daveywinder/2022/03/26/google-confirms-emergency-security-update-for-32-billion-chrome-users-attacks-underway/)
+- Mar 26 - [Test Microwave for Radiation Leakage](https://ismymicrowaveleaking.isotropic.us/)
+- Mar 26 - [Build Your Own Classic HP Calculator Emulator](https://paxer.net/voyager/)
+- Mar 26 - [Solar Orbiter passes historically close to sun on Saturday](https://earthsky.org/sun/solar-orbiter-close-pass-sun-perihelion-march-26-2022/)
 <!--END_SECTION:hn-->
 
 <!--
