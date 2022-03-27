@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 27 - [The Vacuum Tube’s Forgotten Rival](https://spectrum.ieee.org/the-vacuum-tubes-forgotten-rival)
-- Mar 27 - [Twibright Optar – OPTical ARchiver – a codec for encoding data on paper](http://ronja.twibright.com/optar/)
-- Mar 27 - [Man discovers that his wife is the best Tetris player (2007)](https://archive.boston.com/news/globe/magazine/articles/2007/08/19/bizarro_world/)
-- Mar 27 - [Wipeout (PSX and Windows Source)](https://illusion.64history.net/2022/wipeout-psx-windows-source)
-- Mar 27 - [Portal 2: Desolation is giving the classic puzzle game a graphics overhaul](https://www.pcgamer.com/portal-2-desolation-is-giving-the-classic-puzzle-game-a-huge-graphics-overhaul/)
+- Mar 27 - [Bubblewrap: Unprivileged Sandboxing Tool for Linux](https://github.com/containers/bubblewrap)
+- Mar 27 - [Future Combat Air System (FCAS)](https://www.airbus.com/en/products-services/defence/multi-domain-superiority/future-combat-air-system-fcas)
+- Mar 27 - [Restic 0.13.0](https://restic.net/blog/2022-03-26/restic-0.13.0-released/)
+- Mar 27 - [Killed by Microsoft](https://killedbymicrosoft.info)
+- Mar 27 - [How to write a linter using tree-sitter in an hour](https://siraben.dev/2022/03/22/tree-sitter-linter.html)
 <!--END_SECTION:hn-->
 
 <!--
