@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 27 - [Kotlin for JavaScript](https://kotlinlang.org/docs/js-overview.html)
+- Mar 27 - [TikTok is scary good. It's digital crack](https://twitter.com/karpathy/status/1507893647341142016)
+- Mar 27 - [What made the NES so interesting?](https://nicole.express/2022/the-nes-as-an-artifact.html)
 - Mar 26 - [Axial-Flux Motor with a PCB Stator Is Ripe for an Electrified World](https://spectrum.ieee.org/axial-flux)
 - Mar 26 - [A userspace WireGuard client that exposes itself as a proxy](https://github.com/octeep/wireproxy)
-- Mar 26 - [Fossil: Battery Included Git Alternative](https://fossil-scm.org/home/doc/trunk/www/index.wiki)
-- Mar 26 - [The Dec/Compaq Turbo Laser 6 AlphaServer KN7CH Processor](https://www.cpushack.com/2022/03/26/the-dec-compaq-turbo-laser-6-alphaserver-kn7ch-processor/)
-- Mar 26 - [Python 3.11 in the Web Browser](https://2022.pycon.de/program/SBCNDY/)
 <!--END_SECTION:hn-->
 
 <!--
