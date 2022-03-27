@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 27 - [Some black holes erase your past (2018)](https://vcresearch.berkeley.edu/news/some-black-holes-erase-your-past)
+- Mar 27 - [U.S. Surnames with No Vowels](https://blog.plover.com/2022/03/26/#vowelless-names)
+- Mar 27 - [Tesla's charging ports use a standard msg to open on 315MHz and can be replayed](https://twitter.com/IfNotPike/status/1507818836568858631)
+- Mar 27 - [Melbourne hit-and-run blamed on Tesla Autopilot](https://www.drive.com.au/news/melbourne-hit-and-run-blamed-on-tesla-autopilot-could-set-legal-precedent-for-new-tech/)
 - Mar 27 - [Kotlin for JavaScript](https://kotlinlang.org/docs/js-overview.html)
-- Mar 27 - [TikTok is scary good. It's digital crack](https://twitter.com/karpathy/status/1507893647341142016)
-- Mar 27 - [What made the NES so interesting?](https://nicole.express/2022/the-nes-as-an-artifact.html)
-- Mar 26 - [Axial-Flux Motor with a PCB Stator Is Ripe for an Electrified World](https://spectrum.ieee.org/axial-flux)
-- Mar 26 - [A userspace WireGuard client that exposes itself as a proxy](https://github.com/octeep/wireproxy)
 <!--END_SECTION:hn-->
 
 <!--
