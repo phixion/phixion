@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 27 - [Some black holes erase your past (2018)](https://vcresearch.berkeley.edu/news/some-black-holes-erase-your-past)
-- Mar 27 - [U.S. Surnames with No Vowels](https://blog.plover.com/2022/03/26/#vowelless-names)
-- Mar 27 - [Tesla's charging ports use a standard msg to open on 315MHz and can be replayed](https://twitter.com/IfNotPike/status/1507818836568858631)
-- Mar 27 - [Melbourne hit-and-run blamed on Tesla Autopilot](https://www.drive.com.au/news/melbourne-hit-and-run-blamed-on-tesla-autopilot-could-set-legal-precedent-for-new-tech/)
-- Mar 27 - [Kotlin for JavaScript](https://kotlinlang.org/docs/js-overview.html)
+- Mar 27 - [FinRL: The first open-source project for financial reinforcement learning](https://github.com/AI4Finance-Foundation/FinRL)
+- Mar 27 - [Okta: “We made a mistake” delaying the Lapsus$ hack disclosure](https://www.bleepingcomputer.com/news/security/okta-we-made-a-mistake-delaying-the-lapsus-hack-disclosure/)
+- Mar 27 - [Python and Qt Simplified. Create a Python GUI in Minutes](https://build-system.fman.io/)
+- Mar 27 - [Ask HN: How do I secure the domain for my business?](https://news.ycombinator.com/item?id=30818950)
+- Mar 27 - [It Looks Like You’re Trying to Take over the World](https://www.gwern.net/Clippy)
 <!--END_SECTION:hn-->
 
 <!--
