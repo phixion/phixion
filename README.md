@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 27 - [FinRL: The first open-source project for financial reinforcement learning](https://github.com/AI4Finance-Foundation/FinRL)
-- Mar 27 - [Okta: “We made a mistake” delaying the Lapsus$ hack disclosure](https://www.bleepingcomputer.com/news/security/okta-we-made-a-mistake-delaying-the-lapsus-hack-disclosure/)
-- Mar 27 - [Python and Qt Simplified. Create a Python GUI in Minutes](https://build-system.fman.io/)
-- Mar 27 - [Ask HN: How do I secure the domain for my business?](https://news.ycombinator.com/item?id=30818950)
-- Mar 27 - [It Looks Like You’re Trying to Take over the World](https://www.gwern.net/Clippy)
+- Mar 27 - [The Vacuum Tube’s Forgotten Rival](https://spectrum.ieee.org/the-vacuum-tubes-forgotten-rival)
+- Mar 27 - [Twibright Optar – OPTical ARchiver – a codec for encoding data on paper](http://ronja.twibright.com/optar/)
+- Mar 27 - [Man discovers that his wife is the best Tetris player (2007)](https://archive.boston.com/news/globe/magazine/articles/2007/08/19/bizarro_world/)
+- Mar 27 - [Wipeout (PSX and Windows Source)](https://illusion.64history.net/2022/wipeout-psx-windows-source)
+- Mar 27 - [Portal 2: Desolation is giving the classic puzzle game a graphics overhaul](https://www.pcgamer.com/portal-2-desolation-is-giving-the-classic-puzzle-game-a-huge-graphics-overhaul/)
 <!--END_SECTION:hn-->
 
 <!--
