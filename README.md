@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 28 - [Brutal OS reached milestone 4](https://brutal.smnx.sh/articles/milestone-4)
-- Mar 28 - [Help us collect modern Python NumPy code solutions](https://github.com/Onelinerhub/onelinerhub/labels/python-numpy)
-- Mar 28 - [Ask HN: Software with biggest potential for positive impact in 5 years?](https://news.ycombinator.com/item?id=30829003)
-- Mar 28 - [Flower a Friendly Federated Learning Framework](https://flower.dev/)
-- Mar 28 - [Oxide on My Wrist: Hubris on PineTime was the best worst idea](https://artemis.sh/2022/03/28/oxide-hubris-on-pinetime.html)
+- Mar 28 - [I wasted $40k on a fantastic startup idea](https://blog.tjcx.me/p/40k-fantastic-startup-idea)
+- Mar 28 - [Majority in Japan backs nuclear power for first time since Fukushima](https://www.japantimes.co.jp/news/2022/03/28/national/nuke-power-poll/)
+- Mar 28 - [‘This Game Is So Realistic It Feels Just Like Working Overtime’](https://www.sixthtone.com/news/1009982/this-game-is-so-realistic%21-it-feels-just-like-working-overtime)
+- Mar 28 - [Why Postfix is called Postfix and IBM secure mailer](https://marc.info/?l=postfix-users&m=164841848519002&w=2)
+- Mar 28 - [QuestDB (YC S20) Is Hiring a Cloud Engineer (K8s, Argocd, Terraform))](https://questdb.io/careers/senior-cloud-engineer/)
 <!--END_SECTION:hn-->
 
 <!--
