@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 27 - [On Being Disappeared](https://chrishedges.substack.com/p/on-being-disappeared)
-- Mar 27 - [The Bite Model of Authoritarian Control [2020]](https://www.proquest.com/docview/2476570146/)
-- Mar 27 - [Show HN: I'm writing a free book called Computer Networks from Scratch](https://www.networksfromscratch.com)
-- Mar 27 - [EasyPost (YC S13) Is Hiring Remote API Engineers](https://www.easypost.com/careers)
-- Mar 27 - [Google cancels Google Play publisher account and ends family’s source of income](https://medium.com/@appsrentables1/google-cancels-our-google-play-publisher-account-and-ends-my-familys-source-of-income-97d4e85cd046)
+- Mar 28 - [What is money, anyway?](https://www.lynalden.com/what-is-money/)
+- Mar 28 - [Lumber rally cools with transport snarls easing, buyers balking](https://www.bnnbloomberg.ca/lumber-rally-cools-with-transport-snarls-easing-buyers-balking-1.1743093)
+- Mar 28 - [Physicists Build Circuit That Generates Clean, Limitless Power from Graphene (2020)](https://news.uark.edu/articles/54830/physicists-build-circuit-that-generates-clean-limitless-power-from-graphene)
+- Mar 28 - [Fornjot – The world needs another CAD program](https://github.com/hannobraun/Fornjot)
+- Mar 27 - [I hate what video games have become](https://ivanca.tumblr.com/post/679923341152468992/i-hate-what-video-games-have-become)
 <!--END_SECTION:hn-->
 
 <!--
