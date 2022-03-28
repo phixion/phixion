@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 28 - [Fuchsia Workstation](https://fuchsia.dev/fuchsia-src/development/build/build_workstation)
-- Mar 28 - [A *magical* AWS serverless developer experience](https://journal.plain.com/posts/2022-02-08-a-magical-aws-serverless-developer-experience/)
-- Mar 28 - [What is money, anyway?](https://www.lynalden.com/what-is-money/)
-- Mar 28 - [Fornjot – The world needs another CAD program](https://github.com/hannobraun/Fornjot)
-- Mar 27 - [I hate what video games have become](https://ivanca.tumblr.com/post/679923341152468992/i-hate-what-video-games-have-become)
+- Mar 28 - [Brutal OS reached milestone 4](https://brutal.smnx.sh/articles/milestone-4)
+- Mar 28 - [Help us collect modern Python NumPy code solutions](https://github.com/Onelinerhub/onelinerhub/labels/python-numpy)
+- Mar 28 - [Ask HN: Software with biggest potential for positive impact in 5 years?](https://news.ycombinator.com/item?id=30829003)
+- Mar 28 - [Flower a Friendly Federated Learning Framework](https://flower.dev/)
+- Mar 28 - [Oxide on My Wrist: Hubris on PineTime was the best worst idea](https://artemis.sh/2022/03/28/oxide-hubris-on-pinetime.html)
 <!--END_SECTION:hn-->
 
 <!--
