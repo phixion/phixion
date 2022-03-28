@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 27 - [Bubblewrap: Unprivileged Sandboxing Tool for Linux](https://github.com/containers/bubblewrap)
-- Mar 27 - [Future Combat Air System (FCAS)](https://www.airbus.com/en/products-services/defence/multi-domain-superiority/future-combat-air-system-fcas)
-- Mar 27 - [Restic 0.13.0](https://restic.net/blog/2022-03-26/restic-0.13.0-released/)
-- Mar 27 - [Killed by Microsoft](https://killedbymicrosoft.info)
-- Mar 27 - [How to write a linter using tree-sitter in an hour](https://siraben.dev/2022/03/22/tree-sitter-linter.html)
+- Mar 27 - [On Being Disappeared](https://chrishedges.substack.com/p/on-being-disappeared)
+- Mar 27 - [The Bite Model of Authoritarian Control [2020]](https://www.proquest.com/docview/2476570146/)
+- Mar 27 - [Show HN: I'm writing a free book called Computer Networks from Scratch](https://www.networksfromscratch.com)
+- Mar 27 - [EasyPost (YC S13) Is Hiring Remote API Engineers](https://www.easypost.com/careers)
+- Mar 27 - [Google cancels Google Play publisher account and ends family’s source of income](https://medium.com/@appsrentables1/google-cancels-our-google-play-publisher-account-and-ends-my-familys-source-of-income-97d4e85cd046)
 <!--END_SECTION:hn-->
 
 <!--
