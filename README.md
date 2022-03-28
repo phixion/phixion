@@ -19,9 +19,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 28 - [Fuchsia Workstation](https://fuchsia.dev/fuchsia-src/development/build/build_workstation)
+- Mar 28 - [A *magical* AWS serverless developer experience](https://journal.plain.com/posts/2022-02-08-a-magical-aws-serverless-developer-experience/)
 - Mar 28 - [What is money, anyway?](https://www.lynalden.com/what-is-money/)
-- Mar 28 - [Lumber rally cools with transport snarls easing, buyers balking](https://www.bnnbloomberg.ca/lumber-rally-cools-with-transport-snarls-easing-buyers-balking-1.1743093)
-- Mar 28 - [Physicists Build Circuit That Generates Clean, Limitless Power from Graphene (2020)](https://news.uark.edu/articles/54830/physicists-build-circuit-that-generates-clean-limitless-power-from-graphene)
 - Mar 28 - [Fornjot – The world needs another CAD program](https://github.com/hannobraun/Fornjot)
 - Mar 27 - [I hate what video games have become](https://ivanca.tumblr.com/post/679923341152468992/i-hate-what-video-games-have-become)
 <!--END_SECTION:hn-->
