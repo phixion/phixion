@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 29 - [How An Ivy League School Turned Against a Student](https://www.newyorker.com/magazine/2022/04/04/mackenzie-fierceton-rhodes-scholarship-university-of-pennsylvania)
-- Mar 29 - [We Can Do Better Than “Same, but Electric”](https://climateer.substack.com/p/better-than-fossil)
-- Mar 29 - [Linux kernel CVE-2022-1015,CVE-2022-1016 in nf_tables cause privilege escalation](https://lwn.net/ml/oss-security/1b176761-5462-4f25-db12-1b988c81c34a@gmail.com/)
-- Mar 28 - [The Canon Cat: The Writing Information Appliance](http://www.canoncat.org/)
-- Mar 28 - [Block a tweet, its author, and every single person who liked it](https://megablock.xyz/)
+- Mar 29 - [OurWorldInData (YC W19) Is Hiring an Executive Assistant to Director Max Roser](https://ourworldindata.org/executive-assistant-to-max-roser)
+- Mar 29 - [Justice Stevens reads the fine print](https://matthewbutterick.com/chron/justice-stevens-reads-the-fine-print.html)
+- Mar 29 - [My own phone number is spam texting me](https://www.theverge.com/2022/3/28/22999719/spam-texts-own-phone-number-verizon-att-tmobile)
+- Mar 29 - [We can do better than “same, but electric”](https://climateer.substack.com/p/better-than-fossil)
+- Mar 29 - [Linux: Vulnerabilities in nf_tables cause privilege escalation, information leak](https://lwn.net/ml/oss-security/1b176761-5462-4f25-db12-1b988c81c34a@gmail.com/)
 <!--END_SECTION:hn-->
 
 <!--
