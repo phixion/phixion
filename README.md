@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 29 - [OurWorldInData (YC W19) Is Hiring an Executive Assistant to Director Max Roser](https://ourworldindata.org/executive-assistant-to-max-roser)
-- Mar 29 - [Justice Stevens reads the fine print](https://matthewbutterick.com/chron/justice-stevens-reads-the-fine-print.html)
-- Mar 29 - [My own phone number is spam texting me](https://www.theverge.com/2022/3/28/22999719/spam-texts-own-phone-number-verizon-att-tmobile)
-- Mar 29 - [We can do better than “same, but electric”](https://climateer.substack.com/p/better-than-fossil)
-- Mar 29 - [Linux: Vulnerabilities in nf_tables cause privilege escalation, information leak](https://lwn.net/ml/oss-security/1b176761-5462-4f25-db12-1b988c81c34a@gmail.com/)
+- Mar 29 - [The Svix Webhook Service (YC W21) Is Hiring a Rust Back End Engineer (Remote)](https://www.svix.com/careers/)
+- Mar 29 - [Today Google is turning on tracking for many users that previously turned it off](https://tutanota.com/blog/posts/google-turns-on-activity-tracking-even-if-turned-off/)
+- Mar 29 - [Difftastic: A diff that understands syntax](https://github.com/Wilfred/difftastic)
+- Mar 29 - [Incident with GitHub Actions](https://www.githubstatus.com/incidents/3nrmdrmgqxp3)
+- Mar 29 - [MirageOS 4.0 – Self-managed internet infrastructure with unikernels](https://mirage.io/blog/announcing-mirage-40)
 <!--END_SECTION:hn-->
 
 <!--
