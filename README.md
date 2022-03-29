@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 29 - [Are we wrong about Web3?](https://terminusdb.com/blog/were-we-wrong-about-web3/)
-- Mar 29 - [USWDS: The United States Web Design System](https://designsystem.digital.gov/)
-- Mar 29 - [The Ecash Act](https://ecashact.us/)
-- Mar 29 - [Shadow Credit Score Could Decide Whether You Get an Apartment](https://www.propublica.org/article/how-your-shadow-credit-score-could-decide-whether-you-get-an-apartment)
-- Mar 29 - [The YC Winter 2022 Batch](https://www.ycombinator.com/blog/meet-the-yc-winter-2022-batch/)
+- Mar 29 - [Chrome 100](https://chromereleases.googleblog.com/2022/03/stable-channel-update-for-desktop_29.html)
+- Mar 29 - [FTC sues Intuit in bid to stop “deceptive” ads that claim TurboTax is free](https://arstechnica.com/tech-policy/2022/03/turbotax-maker-sued-by-ftc-over-deceptive-ads-that-promise-free-tax-filing/)
+- Mar 29 - [Zulip 5.0: Threaded open-source team chat](https://blog.zulip.com/2022/03/29/zulip-5-0-released/)
+- Mar 29 - [Elan School](https://elan.school/)
+- Mar 29 - [GraphQL is now available on Supabase](https://supabase.com/blog/2022/03/29/graphql-now-available)
 <!--END_SECTION:hn-->
 
 <!--
