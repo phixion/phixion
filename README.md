@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 29 - [Rare genital defects seen in sons of men taking major diabetes drug](https://www.science.org/content/article/rare-genital-defects-seen-sons-men-taking-major-diabetes-drug)
+- Mar 29 - [How An Ivy League School Turned Against a Student](https://www.newyorker.com/magazine/2022/04/04/mackenzie-fierceton-rhodes-scholarship-university-of-pennsylvania)
+- Mar 29 - [We Can Do Better Than “Same, but Electric”](https://climateer.substack.com/p/better-than-fossil)
+- Mar 29 - [Linux kernel CVE-2022-1015,CVE-2022-1016 in nf_tables cause privilege escalation](https://lwn.net/ml/oss-security/1b176761-5462-4f25-db12-1b988c81c34a@gmail.com/)
 - Mar 28 - [The Canon Cat: The Writing Information Appliance](http://www.canoncat.org/)
-- Mar 28 - [UN Bans Mercury Satellite Propellants Under New Minamata Treaty Provisions](https://peer.org/un-bans-mercury-satellite-propellants-under-new-minamata-treaty-provisions/)
-- Mar 28 - [Swift on Mac OS 9](https://belkadan.com/blog/2020/04/Swift-on-Mac-OS-9/)
-- Mar 28 - [Writing a document database from scratch in Go: Lucene-like filters and indexes](https://notes.eatonphil.com/documentdb.html)
+- Mar 28 - [Block a tweet, its author, and every single person who liked it](https://megablock.xyz/)
 <!--END_SECTION:hn-->
 
 <!--
