@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 29 - [The Svix Webhook Service (YC W21) Is Hiring a Rust Back End Engineer (Remote)](https://www.svix.com/careers/)
-- Mar 29 - [Today Google is turning on tracking for many users that previously turned it off](https://tutanota.com/blog/posts/google-turns-on-activity-tracking-even-if-turned-off/)
-- Mar 29 - [Difftastic: A diff that understands syntax](https://github.com/Wilfred/difftastic)
-- Mar 29 - [Incident with GitHub Actions](https://www.githubstatus.com/incidents/3nrmdrmgqxp3)
-- Mar 29 - [MirageOS 4.0 – Self-managed internet infrastructure with unikernels](https://mirage.io/blog/announcing-mirage-40)
+- Mar 29 - [Are we wrong about Web3?](https://terminusdb.com/blog/were-we-wrong-about-web3/)
+- Mar 29 - [USWDS: The United States Web Design System](https://designsystem.digital.gov/)
+- Mar 29 - [The Ecash Act](https://ecashact.us/)
+- Mar 29 - [Shadow Credit Score Could Decide Whether You Get an Apartment](https://www.propublica.org/article/how-your-shadow-credit-score-could-decide-whether-you-get-an-apartment)
+- Mar 29 - [The YC Winter 2022 Batch](https://www.ycombinator.com/blog/meet-the-yc-winter-2022-batch/)
 <!--END_SECTION:hn-->
 
 <!--
