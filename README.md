@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 28 - [Show HN: Ingredients for Change](https://news.ycombinator.com/item?id=30834446)
-- Mar 28 - [Today’s creator economy was built on subscribers and patrons. What comes next?](https://blog.dropbox.com/topics/work-culture/creator-economy-subscribers-patrons-whats-next)
-- Mar 28 - [Bizarre space circle captured in unprecedented detail](https://www.nature.com/articles/d41586-022-00861-6)
-- Mar 28 - [Cells Blaze Their Own Trails to Navigate Through the Body](https://www.quantamagazine.org/cells-blaze-their-own-trails-to-navigate-through-the-body-20220328/)
-- Mar 28 - [Nasal spray treats Delta variant infection in mice](https://science.ubc.ca/news/new-nasal-spray-treats-delta-variant-infection-mice-indicating-broad-spectrum-results)
+- Mar 29 - [Rare genital defects seen in sons of men taking major diabetes drug](https://www.science.org/content/article/rare-genital-defects-seen-sons-men-taking-major-diabetes-drug)
+- Mar 28 - [The Canon Cat: The Writing Information Appliance](http://www.canoncat.org/)
+- Mar 28 - [UN Bans Mercury Satellite Propellants Under New Minamata Treaty Provisions](https://peer.org/un-bans-mercury-satellite-propellants-under-new-minamata-treaty-provisions/)
+- Mar 28 - [Swift on Mac OS 9](https://belkadan.com/blog/2020/04/Swift-on-Mac-OS-9/)
+- Mar 28 - [Writing a document database from scratch in Go: Lucene-like filters and indexes](https://notes.eatonphil.com/documentdb.html)
 <!--END_SECTION:hn-->
 
 <!--
