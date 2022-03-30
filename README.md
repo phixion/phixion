@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 29 - [Chrome 100](https://chromereleases.googleblog.com/2022/03/stable-channel-update-for-desktop_29.html)
-- Mar 29 - [FTC sues Intuit in bid to stop “deceptive” ads that claim TurboTax is free](https://arstechnica.com/tech-policy/2022/03/turbotax-maker-sued-by-ftc-over-deceptive-ads-that-promise-free-tax-filing/)
-- Mar 29 - [Zulip 5.0: Threaded open-source team chat](https://blog.zulip.com/2022/03/29/zulip-5-0-released/)
-- Mar 29 - [Elan School](https://elan.school/)
-- Mar 29 - [GraphQL is now available on Supabase](https://supabase.com/blog/2022/03/29/graphql-now-available)
+- Mar 29 - [The Futility of Censorship](https://www.nybooks.com/articles/2022/04/07/the-futility-of-censorship-dangerous-ideas-eric-berkowitz/)
+- Mar 29 - [America COMPETES Act of 2022 passed House and Senate](https://www.congress.gov/bill/117th-congress/house-bill/4521/text?r=1)
+- Mar 29 - [Problems emerge for a unified /dev/*random](https://lwn.net/SubscriberLink/889452/953e190af78809a7/)
+- Mar 29 - [Rescuing the Compuserve Collection](https://computerhistory.org/blog/mission-impossible-chm-edition/)
+- Mar 29 - [FTC sues Intuit for its deceptive TurboTax “free” filing campaign](https://www.ftc.gov/news-events/news/press-releases/2022/03/ftc-sues-intuit-its-deceptive-turbotax-free-filing-campaign)
 <!--END_SECTION:hn-->
 
 <!--
