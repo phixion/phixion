@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 30 - [What’s New Between Java 11 and Java 17?](https://mydeveloperplanet.com/2021/09/28/whats-new-between-java-11-and-java-17/)
-- Mar 30 - [Zee: A modern text editor for the terminal written in Rust](https://github.com/mcobzarenco/zee)
-- Mar 30 - [100k Stars Chrome virtualization experiment](https://stars.chromeexperiments.com/)
-- Mar 30 - [Real Time Speech Recognition with Gradio](https://gradio.app/real_time_speech_recognition/)
-- Mar 30 - [Ubiquiti is suing Brian Krebs for his reporting on their breach](https://twitter.com/QuinnyPig/status/1508965090019577856)
+- Mar 30 - [German State Malware Company FinFisher Is Bankrupt](https://www.ccc.de/en/updates/2022/etappensieg-finfisher-ist-pleite)
+- Mar 30 - [In-Target Proton–Boron Nuclear Fusion Using a PW-Class Laser](https://www.mdpi.com/2076-3417/12/3/1444/htm)
+- Mar 30 - [Guitar Hero Player Was a Cheat](https://kotaku.com/guitar-hero-clone-schmooey-cheating-esports-speedrun-ac-1848470920)
+- Mar 30 - [Possible Spring core RCE](https://github.com/BugAlertDotOrg/bugalert/blob/main/content/notices/2022-03-29-spring.md)
+- Mar 30 - [Can't Help Myself by Sun Yuan and Peng Yu](https://www.loosetooth.com/blog/can-t-help-myself-by-sun-yuan-peng-yu)
 <!--END_SECTION:hn-->
 
 <!--
