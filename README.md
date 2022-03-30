@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 30 - [Rootly (YC S21) Is Hiring for Developer Relations](https://www.ycombinator.com/companies/rootly/jobs/D8iCU62-senior-developer-relations-community-founding-team)
-- Mar 30 - [Over 100 companies with hiring remotely now (with regions and pos. type)](https://freshremote.work/companies)
-- Mar 30 - [Facebook paid strategy firm to malign TikTok](https://www.washingtonpost.com/technology/2022/03/30/facebook-tiktok-targeted-victory/)
-- Mar 30 - [Ask HN: Are blog comments a thing of the past?](https://news.ycombinator.com/item?id=30853565)
-- Mar 30 - [Electropedia: The World's Online Electrotechnical Vocabulary](https://www.electropedia.org/)
+- Mar 30 - [How is portable AM radio possible?](https://www.johndcook.com/blog/2022/03/30/portable-am-radio/)
+- Mar 30 - [Downpour: A game making tool for phones](https://v21.io/blog/announcing-downpour)
+- Mar 30 - [Developers spend most of their time figuring the system out](https://lepiter.io/feenk/developers-spend-most-of-their-time-figuri-9q25taswlbzjc5rsufndeu0py/)
+- Mar 30 - [The Uselessness of Phenylephrine](https://www.science.org/content/blog-post/uselessness-phenylephrine)
+- Mar 30 - [Emerge Tools (YC W21) is looking for Android performance experts](https://www.ycombinator.com/companies/emerge-tools/jobs/JWtyqvs-senior-android-engineer)
 <!--END_SECTION:hn-->
 
 <!--
