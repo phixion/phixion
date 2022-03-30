@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 29 - [The Futility of Censorship](https://www.nybooks.com/articles/2022/04/07/the-futility-of-censorship-dangerous-ideas-eric-berkowitz/)
-- Mar 29 - [America COMPETES Act of 2022 passed House and Senate](https://www.congress.gov/bill/117th-congress/house-bill/4521/text?r=1)
-- Mar 29 - [Problems emerge for a unified /dev/*random](https://lwn.net/SubscriberLink/889452/953e190af78809a7/)
-- Mar 29 - [Rescuing the Compuserve Collection](https://computerhistory.org/blog/mission-impossible-chm-edition/)
-- Mar 29 - [FTC sues Intuit for its deceptive TurboTax “free” filing campaign](https://www.ftc.gov/news-events/news/press-releases/2022/03/ftc-sues-intuit-its-deceptive-turbotax-free-filing-campaign)
+- Mar 30 - [What’s New Between Java 11 and Java 17?](https://mydeveloperplanet.com/2021/09/28/whats-new-between-java-11-and-java-17/)
+- Mar 30 - [Zee: A modern text editor for the terminal written in Rust](https://github.com/mcobzarenco/zee)
+- Mar 30 - [100k Stars Chrome virtualization experiment](https://stars.chromeexperiments.com/)
+- Mar 30 - [Real Time Speech Recognition with Gradio](https://gradio.app/real_time_speech_recognition/)
+- Mar 30 - [Ubiquiti is suing Brian Krebs for his reporting on their breach](https://twitter.com/QuinnyPig/status/1508965090019577856)
 <!--END_SECTION:hn-->
 
 <!--
