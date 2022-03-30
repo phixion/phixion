@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 30 - [German State Malware Company FinFisher Is Bankrupt](https://www.ccc.de/en/updates/2022/etappensieg-finfisher-ist-pleite)
-- Mar 30 - [In-Target Proton–Boron Nuclear Fusion Using a PW-Class Laser](https://www.mdpi.com/2076-3417/12/3/1444/htm)
-- Mar 30 - [Guitar Hero Player Was a Cheat](https://kotaku.com/guitar-hero-clone-schmooey-cheating-esports-speedrun-ac-1848470920)
-- Mar 30 - [Possible Spring core RCE](https://github.com/BugAlertDotOrg/bugalert/blob/main/content/notices/2022-03-29-spring.md)
-- Mar 30 - [Can't Help Myself by Sun Yuan and Peng Yu](https://www.loosetooth.com/blog/can-t-help-myself-by-sun-yuan-peng-yu)
+- Mar 30 - [Rootly (YC S21) Is Hiring for Developer Relations](https://www.ycombinator.com/companies/rootly/jobs/D8iCU62-senior-developer-relations-community-founding-team)
+- Mar 30 - [Over 100 companies with hiring remotely now (with regions and pos. type)](https://freshremote.work/companies)
+- Mar 30 - [Facebook paid strategy firm to malign TikTok](https://www.washingtonpost.com/technology/2022/03/30/facebook-tiktok-targeted-victory/)
+- Mar 30 - [Ask HN: Are blog comments a thing of the past?](https://news.ycombinator.com/item?id=30853565)
+- Mar 30 - [Electropedia: The World's Online Electrotechnical Vocabulary](https://www.electropedia.org/)
 <!--END_SECTION:hn-->
 
 <!--
