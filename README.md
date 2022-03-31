@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 31 - [We analyzed 100K technical interviews to see where the best performers work](https://blog.interviewing.io/we-analyzed-100k-technical-interviews-to-see-where-the-best-performers-work-here-are-the-results/)
-- Mar 31 - [Focus on Covid racial disparities reduced White US resident precaution support](https://www.sciencedirect.com/science/article/pii/S027795362200257X)
-- Mar 31 - [Why the Black MacBook Cost More](https://512pixels.net/2022/03/why-the-black-macbook-cost-more/)
-- Mar 31 - [Indirect branch tracking in Linux for Intel CPUs](https://lwn.net/SubscriberLink/889475/49f2802ec4d2c32a/)
-- Mar 31 - [Lebanese turn to cryptocurrency as economy tanks](https://www.al-monitor.com/originals/2022/02/lebanese-turn-cryptocurrency-economy-tanks)
+- Mar 31 - [Show HN: Selfhosted tech starter pack for development of new startup](https://github.com/tldr-devops/startpack)
+- Mar 31 - [VisibleV8](https://kapravelos.com/projects/vv8)
+- Mar 31 - [Why APL is worth knowing](https://mathspp.com/blog/why-apl-is-a-language-worth-knowing)
+- Mar 31 - [Reticulum, an encrypted heterogenous mesh network protocol](https://github.com/markqvist/Reticulum)
+- Mar 31 - [How I operated as a Staff engineer at Heroku](https://amyunger.com/blog/2020/09/10/staff-engineer-at-heroku.html)
 <!--END_SECTION:hn-->
 
 <!--
