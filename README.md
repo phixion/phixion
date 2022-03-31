@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 30 - [How is portable AM radio possible?](https://www.johndcook.com/blog/2022/03/30/portable-am-radio/)
-- Mar 30 - [Downpour: A game making tool for phones](https://v21.io/blog/announcing-downpour)
-- Mar 30 - [Developers spend most of their time figuring the system out](https://lepiter.io/feenk/developers-spend-most-of-their-time-figuri-9q25taswlbzjc5rsufndeu0py/)
-- Mar 30 - [The Uselessness of Phenylephrine](https://www.science.org/content/blog-post/uselessness-phenylephrine)
-- Mar 30 - [Emerge Tools (YC W21) is looking for Android performance experts](https://www.ycombinator.com/companies/emerge-tools/jobs/JWtyqvs-senior-android-engineer)
+- Mar 30 - [Hard to Work With](https://lethain.com/hard-to-work-with/)
+- Mar 30 - [Johns Hopkins Beast](https://en.wikipedia.org/wiki/Johns_Hopkins_Beast)
+- Mar 30 - [Tell HN: Google Play blocked payments for Riders app with 1M users](https://news.ycombinator.com/item?id=30861147)
+- Mar 30 - [Generally Intelligent (YC S17) is hiring machine learning research engineers](https://news.ycombinator.com/item?id=30860712)
+- Mar 30 - [Update on StoreKit External Entitlement for dating apps](https://developer.apple.com/news/?id=jmps5hyj)
 <!--END_SECTION:hn-->
 
 <!--
