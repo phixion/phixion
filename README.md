@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 31 - [AgileMD (YC S11) Is Hiring Enterprise Technical Support](https://www.ycombinator.com/companies/agilemd/jobs/vYB4N8Q-enterprise-technical-support-analyst)
-- Mar 31 - [Corruption Has Shaped History. Why Do We Still Ignore It?](https://aeon.co/essays/corruption-has-shaped-history-why-do-we-still-ignore-it)
-- Mar 31 - [Pointer Tagging for x86 Systems](https://lwn.net/SubscriberLink/888914/e81588082fa3b858/)
-- Mar 31 - [Solar-Powered Robotic Beekeeping](https://www.beewise.ag)
-- Mar 31 - [What is triald and why is it taking so much disk space?](https://eclecticlight.co/2022/03/31/what-is-triald-and-why-is-it-taking-so-much-disk-space/)
+- Mar 31 - [We analyzed 100K technical interviews to see where the best performers work](https://blog.interviewing.io/we-analyzed-100k-technical-interviews-to-see-where-the-best-performers-work-here-are-the-results/)
+- Mar 31 - [Focus on Covid racial disparities reduced White US resident precaution support](https://www.sciencedirect.com/science/article/pii/S027795362200257X)
+- Mar 31 - [Why the Black MacBook Cost More](https://512pixels.net/2022/03/why-the-black-macbook-cost-more/)
+- Mar 31 - [Indirect branch tracking in Linux for Intel CPUs](https://lwn.net/SubscriberLink/889475/49f2802ec4d2c32a/)
+- Mar 31 - [Lebanese turn to cryptocurrency as economy tanks](https://www.al-monitor.com/originals/2022/02/lebanese-turn-cryptocurrency-economy-tanks)
 <!--END_SECTION:hn-->
 
 <!--
