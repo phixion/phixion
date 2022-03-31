@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 30 - [Hard to Work With](https://lethain.com/hard-to-work-with/)
+- Mar 31 - [Flexport is hiring software engineers](https://flexport.com/careers)
+- Mar 31 - [Mastodon 3.5](https://blog.joinmastodon.org/2022/03/mastodon-3.5/)
+- Mar 30 - [Hard to work with](https://lethain.com/hard-to-work-with/)
 - Mar 30 - [Johns Hopkins Beast](https://en.wikipedia.org/wiki/Johns_Hopkins_Beast)
-- Mar 30 - [Tell HN: Google Play blocked payments for Riders app with 1M users](https://news.ycombinator.com/item?id=30861147)
-- Mar 30 - [Generally Intelligent (YC S17) is hiring machine learning research engineers](https://news.ycombinator.com/item?id=30860712)
-- Mar 30 - [Update on StoreKit External Entitlement for dating apps](https://developer.apple.com/news/?id=jmps5hyj)
+- Mar 30 - [Idol Words](https://astralcodexten.substack.com/p/idol-words)
 <!--END_SECTION:hn-->
 
 <!--
