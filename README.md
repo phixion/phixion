@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 31 - [Flexport is hiring software engineers](https://flexport.com/careers)
-- Mar 31 - [Mastodon 3.5](https://blog.joinmastodon.org/2022/03/mastodon-3.5/)
-- Mar 30 - [Hard to work with](https://lethain.com/hard-to-work-with/)
-- Mar 30 - [Johns Hopkins Beast](https://en.wikipedia.org/wiki/Johns_Hopkins_Beast)
-- Mar 30 - [Idol Words](https://astralcodexten.substack.com/p/idol-words)
+- Mar 31 - [macOS: What is triald and why is it taking so much disk space?](https://eclecticlight.co/2022/03/31/what-is-triald-and-why-is-it-taking-so-much-disk-space/)
+- Mar 31 - [Clerky is hiring senior software engineers (full-stack, Rails) everywhere](https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- Mar 31 - [Turn your phone into a space monitoring tool](https://www.esa.int/Applications/Navigation/Turn_your_phone_into_a_space_monitoring_tool)
+- Mar 31 - [How does Firefox's Reader View work?](https://videoinu.com/blog/firefox-reader-view-heuristics/)
+- Mar 31 - [Phenethylamines I Have Known and Loved](https://erowid.org/library/books_online/pihkal/pihkal.shtml)
 <!--END_SECTION:hn-->
 
 <!--
