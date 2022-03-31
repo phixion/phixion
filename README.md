@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 31 - [macOS: What is triald and why is it taking so much disk space?](https://eclecticlight.co/2022/03/31/what-is-triald-and-why-is-it-taking-so-much-disk-space/)
-- Mar 31 - [Clerky is hiring senior software engineers (full-stack, Rails) everywhere](https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- Mar 31 - [Turn your phone into a space monitoring tool](https://www.esa.int/Applications/Navigation/Turn_your_phone_into_a_space_monitoring_tool)
-- Mar 31 - [How does Firefox's Reader View work?](https://videoinu.com/blog/firefox-reader-view-heuristics/)
-- Mar 31 - [Phenethylamines I Have Known and Loved](https://erowid.org/library/books_online/pihkal/pihkal.shtml)
+- Mar 31 - [AgileMD (YC S11) Is Hiring Enterprise Technical Support](https://www.ycombinator.com/companies/agilemd/jobs/vYB4N8Q-enterprise-technical-support-analyst)
+- Mar 31 - [Corruption Has Shaped History. Why Do We Still Ignore It?](https://aeon.co/essays/corruption-has-shaped-history-why-do-we-still-ignore-it)
+- Mar 31 - [Pointer Tagging for x86 Systems](https://lwn.net/SubscriberLink/888914/e81588082fa3b858/)
+- Mar 31 - [Solar-Powered Robotic Beekeeping](https://www.beewise.ag)
+- Mar 31 - [What is triald and why is it taking so much disk space?](https://eclecticlight.co/2022/03/31/what-is-triald-and-why-is-it-taking-so-much-disk-space/)
 <!--END_SECTION:hn-->
 
 <!--
