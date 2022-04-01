@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 31 - [The Scottish Play](https://en.wikipedia.org/wiki/The_Scottish_play)
+- Apr 01 - [Wacom Leads the Way with Pens and Tablets for Linux](https://community.wacom.com/eu/enterprise/wacom-leads-the-way-with-pens-and-tablets-for-linux/)
+- Apr 01 - [Evergreen Marine, Owner of Stuck Ever Forward, Declares General Average](https://gcaptain.com/ever-forward-general-average-declared/)
+- Apr 01 - [Why Have Female Animals Evolved Such Wild Genitals?](https://www.smithsonianmag.com/science-nature/why-have-female-animals-evolved-such-wild-genitals-180979813/)
+- Apr 01 - [Magician's Own Book: Experiments in Electricity (1862)](https://archive.org/details/magiciansownbook00arno)
 - Mar 31 - [Fake emergency search warrants draw scrutiny from Capitol Hill](https://krebsonsecurity.com/2022/03/fake-emergency-search-warrants-draw-scrutiny-from-capitol-hill/)
-- Mar 31 - [Finding Waldo in π](https://kundor.github.io/Finding-Waldo/)
-- Mar 31 - [Fast (2019)](https://patrickcollison.com/fast)
-- Mar 31 - [Go mod’s lesser known features](https://verdverm.com/go-mods/)
 <!--END_SECTION:hn-->
 
 <!--
