@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 01 - [Help YC pick the best startups as a member of the YC Software team](https://www.ycombinator.com/companies/y-combinator/jobs/1x2BVnj-product-engineer-admissions)
-- Apr 01 - [Euro Truck Simulator 2: ZX Spectrum Edition](https://blog.scssoft.com/2022/04/euro-truck-simulator-2-zx-spectrum.html)
-- Apr 01 - [April Fools and Hacker News](https://podcasts.google.com/feed/aHR0cHM6Ly9jb3JlY3Vyc2l2ZS5jb20vZmVlZA/episode/MjY4OGMwNjQtMzI1ZC00ZjcyLWE0ZWMtNDQ4YTM5MTEwMjA4)
-- Apr 01 - [Hackers Leak Lichess Source Code](https://lichess.org/blog/YkYNyREAAB8Amiit/hackers-leak-lichess-source-code)
-- Apr 01 - [The GOV.UK Design System is now live](https://gds.blog.gov.uk/2022/03/31/the-gov-uk-design-system-is-now-live/)
+- Apr 01 - [No increased risk of brain tumours for mobile phone users, new study finds](https://www.ox.ac.uk/news/2022-03-30-no-increased-risk-brain-tumours-mobile-phone-users-new-study-finds)
+- Apr 01 - [Show HN: A plain-text file format for todos and check lists](https://news.ycombinator.com/item?id=30879327)
+- Apr 01 - [US House passes Bill to limit cost of insulin to $35/mo](https://www.nytimes.com/2022/03/31/health/insulin-price-house-bill-democrats.html)
+- Apr 01 - [Show HN: Redo – Command line utility for quickly creating shell functions](https://github.com/barthr/redo)
+- Apr 01 - [Authorization in a Microservices World](https://www.alexanderlolis.com/authorization-in-a-microservices-world)
 <!--END_SECTION:hn-->
 
 <!--
