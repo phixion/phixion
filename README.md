@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 01 - [No increased risk of brain tumours for mobile phone users, new study finds](https://www.ox.ac.uk/news/2022-03-30-no-increased-risk-brain-tumours-mobile-phone-users-new-study-finds)
-- Apr 01 - [Show HN: A plain-text file format for todos and check lists](https://news.ycombinator.com/item?id=30879327)
-- Apr 01 - [US House passes Bill to limit cost of insulin to $35/mo](https://www.nytimes.com/2022/03/31/health/insulin-price-house-bill-democrats.html)
-- Apr 01 - [Show HN: Redo – Command line utility for quickly creating shell functions](https://github.com/barthr/redo)
-- Apr 01 - [Authorization in a Microservices World](https://www.alexanderlolis.com/authorization-in-a-microservices-world)
+- Apr 01 - [Daniel Gross: Why Energy Is the Best Predictor of Talent](https://www.safegraph.com/podcasts/daniel-gross-why-energy-is-the-best-predictor-of-talent)
+- Apr 01 - [Show HN: gh-dash – GitHub CLI dashboard for pull requests and issues](https://github.com/dlvhdr/gh-dash)
+- Apr 01 - [Show HN: Visualize your day as 144 rectangles](https://rectangles.app/)
+- Apr 01 - [Using foot pedals for modifier keys in Linux (2014)](http://techtrickery.com/pedals.html)
+- Apr 01 - [RFC 9225: Software Defects Considered Harmful](https://www.rfc-editor.org/rfc/rfc9225.html)
 <!--END_SECTION:hn-->
 
 <!--
