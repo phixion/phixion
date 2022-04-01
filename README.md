@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Mar 31 - [Royal Enfield - 420,873 breached accounts](https://haveibeenpwned.com/PwnedWebsites#RoyalEnfield)
 - Mar 19 - [ZAP-Hosting - 746,682 breached accounts](https://haveibeenpwned.com/PwnedWebsites#ZAPHosting)
 - Mar 17 - [CDEK (unverified) - 19,218,203 breached accounts](https://haveibeenpwned.com/PwnedWebsites#CDEK)
 - Mar 03 - [Robinhood - 5,003,937 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Robinhood)
 - Mar 03 - [MacGeneration - 101,004 breached accounts](https://haveibeenpwned.com/PwnedWebsites#MacGeneration)
-- Mar 02 - [NVIDIA - 71,335 breached accounts](https://haveibeenpwned.com/PwnedWebsites#NVIDIA)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 31 - [Show HN: Selfhosted tech starter pack for development of new startup](https://github.com/tldr-devops/startpack)
-- Mar 31 - [VisibleV8](https://kapravelos.com/projects/vv8)
-- Mar 31 - [Why APL is worth knowing](https://mathspp.com/blog/why-apl-is-a-language-worth-knowing)
-- Mar 31 - [Reticulum, an encrypted heterogenous mesh network protocol](https://github.com/markqvist/Reticulum)
-- Mar 31 - [How I operated as a Staff engineer at Heroku](https://amyunger.com/blog/2020/09/10/staff-engineer-at-heroku.html)
+- Mar 31 - [The Scottish Play](https://en.wikipedia.org/wiki/The_Scottish_play)
+- Mar 31 - [Fake emergency search warrants draw scrutiny from Capitol Hill](https://krebsonsecurity.com/2022/03/fake-emergency-search-warrants-draw-scrutiny-from-capitol-hill/)
+- Mar 31 - [Finding Waldo in π](https://kundor.github.io/Finding-Waldo/)
+- Mar 31 - [Fast (2019)](https://patrickcollison.com/fast)
+- Mar 31 - [Go mod’s lesser known features](https://verdverm.com/go-mods/)
 <!--END_SECTION:hn-->
 
 <!--
