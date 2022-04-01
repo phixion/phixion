@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 01 - [Wacom Leads the Way with Pens and Tablets for Linux](https://community.wacom.com/eu/enterprise/wacom-leads-the-way-with-pens-and-tablets-for-linux/)
-- Apr 01 - [Evergreen Marine, Owner of Stuck Ever Forward, Declares General Average](https://gcaptain.com/ever-forward-general-average-declared/)
-- Apr 01 - [Why Have Female Animals Evolved Such Wild Genitals?](https://www.smithsonianmag.com/science-nature/why-have-female-animals-evolved-such-wild-genitals-180979813/)
-- Apr 01 - [Magician's Own Book: Experiments in Electricity (1862)](https://archive.org/details/magiciansownbook00arno)
-- Mar 31 - [Fake emergency search warrants draw scrutiny from Capitol Hill](https://krebsonsecurity.com/2022/03/fake-emergency-search-warrants-draw-scrutiny-from-capitol-hill/)
+- Apr 01 - [OneSignal (YC S11) Is Hiring Engineers and Product Managers to Work on Messaging](https://onesignal.com/careers)
+- Apr 01 - [Spin – WebAssembly Framework](https://www.fermyon.com/blog/introducing-spin)
+- Apr 01 - [Seen from space, the longest conveyor belt is in Morocco](https://en.yabiladi.com/articles/details/107839/seen-from-space-world-s-longest.html)
+- Apr 01 - [Infinite Mac: An Instant-Booting Quadra in the Browser](https://blog.persistent.info/2022/03/blog-post.html)
+- Apr 01 - [High schoolers create $1 filter to remove lead in water](https://www.freethink.com/health/lead-in-water)
 <!--END_SECTION:hn-->
 
 <!--
