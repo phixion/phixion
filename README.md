@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 02 - [Hypercontext (YC S21) Is Hiring a Senior Software Engineer](https://www.ycombinator.com/companies/hypercontext/jobs/io4qhGu-senior-software-engineer-backend)
-- Apr 02 - [Kazakhstan president proposes reforms to limit his powers](https://www.aljazeera.com/news/2022/3/16/kazakhistan-president-proposes-reforms-to-limit-his-powers)
-- Apr 02 - [YouTube cancelled my Nextcloud installation how-to](https://mccormick.cx/news/entries/youtube-cancelled-my-nextcloud-how-to-video)
-- Apr 02 - [Yet Another GitHub Profile Generator](https://blog.urth.org/2022/03/28/yet-another-github-profile-generator/)
-- Apr 02 - [Watching the World Wrecking](https://lifeboat.substack.com/p/watching-the-world-wrecking)
+- Apr 02 - [Auto Dealer Napleton Fined $10M for Sneaking Illegal Junk Fees](https://www.ftc.gov/news-events/news/press-releases/2022/04/ftc-takes-action-against-multistate-auto-dealer-napleton-sneaking-illegal-junk-fees-bills)
+- Apr 02 - [ASK HN: When did 7 interviews become “normal”?](https://news.ycombinator.com/item?id=30889019)
+- Apr 02 - [The human genome is, at long last, complete](https://www.rockefeller.edu/news/32087-the-human-genome-is-at-long-last-complete/)
+- Apr 02 - [The Reliability of Optical Disks](https://blog.ligos.net/2022-04-02/The-Reliability-Of-Optical-Disks.html)
+- Apr 02 - [Minimodem – general-purpose software audio FSK modem](http://www.whence.com/minimodem/)
 <!--END_SECTION:hn-->
 
 <!--
