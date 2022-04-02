@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 02 - [Auto Dealer Napleton Fined $10M for Sneaking Illegal Junk Fees](https://www.ftc.gov/news-events/news/press-releases/2022/04/ftc-takes-action-against-multistate-auto-dealer-napleton-sneaking-illegal-junk-fees-bills)
-- Apr 02 - [ASK HN: When did 7 interviews become “normal”?](https://news.ycombinator.com/item?id=30889019)
-- Apr 02 - [The human genome is, at long last, complete](https://www.rockefeller.edu/news/32087-the-human-genome-is-at-long-last-complete/)
-- Apr 02 - [The Reliability of Optical Disks](https://blog.ligos.net/2022-04-02/The-Reliability-Of-Optical-Disks.html)
-- Apr 02 - [Minimodem – general-purpose software audio FSK modem](http://www.whence.com/minimodem/)
+- Apr 02 - [How much do things really cost?](https://www.newyorker.com/business/currency/how-much-do-things-really-cost)
+- Apr 02 - [GNU Parallel – shell tool for executing jobs in parallel, one or more computers](https://www.gnu.org/software/parallel/)
+- Apr 02 - [L.A. Judge Rules LGBT Corporate Diversity Law Unconstitutional](https://www.newsweek.com/california-los-angeles-newsom-senate-bill-diversity-judicial-watch-1694442)
+- Apr 02 - [Don't use containerd with the btrfs snapshotter](https://blog.cubieserver.de/2022/dont-use-containerd-with-the-btrfs-snapshotter/)
+- Apr 02 - [The Bitter Lesson (2019)](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 <!--END_SECTION:hn-->
 
 <!--
