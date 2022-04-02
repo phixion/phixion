@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 02 - [MIT-0 License](https://github.com/aws/mit-0)
-- Apr 01 - [DARPA Completes Underminer Program: New tactical tunneling technologies](https://www.darpa.mil/news-events/2022-03-31)
-- Apr 01 - [OpenMW becomes a general-purpose engine for isometric RPGs](https://openmw.org/2022/openmw-roadmap-update/)
-- Apr 01 - [Replit (YC W18) is hiring engineers to make delightful programming environments](https://replit.com/site/careers)
-- Apr 01 - [A database for 2022](https://tailscale.com/blog/database-for-2022/)
+- Apr 02 - [Ask HN: Would you buy a modern Toshiba Libretto?](https://news.ycombinator.com/item?id=30886243)
+- Apr 02 - [Show HN: I gamified a habit tracker to fight procrastination](https://habitsgarden.com)
+- Apr 02 - [Ask HN: Who wants to collaborate? (April 2022)](https://news.ycombinator.com/item?id=30885956)
+- Apr 02 - [QOI – The Quite OK Image Format](https://qoiformat.org/)
+- Apr 02 - [Vim Color Schemes](https://vimcolorschemes.com/)
 <!--END_SECTION:hn-->
 
 <!--
