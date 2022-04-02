@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 01 - [Daniel Gross: Why Energy Is the Best Predictor of Talent](https://www.safegraph.com/podcasts/daniel-gross-why-energy-is-the-best-predictor-of-talent)
-- Apr 01 - [Show HN: gh-dash – GitHub CLI dashboard for pull requests and issues](https://github.com/dlvhdr/gh-dash)
-- Apr 01 - [Show HN: Visualize your day as 144 rectangles](https://rectangles.app/)
-- Apr 01 - [Using foot pedals for modifier keys in Linux (2014)](http://techtrickery.com/pedals.html)
-- Apr 01 - [RFC 9225: Software Defects Considered Harmful](https://www.rfc-editor.org/rfc/rfc9225.html)
+- Apr 01 - [DARPA Completes Underminer Program: New tactical tunneling technologies](https://www.darpa.mil/news-events/2022-03-31)
+- Apr 01 - [Supabase Supabrew – Never Code Thirsty](https://supabase.com/blog/2022/04/01/supabrew)
+- Apr 01 - [OpenMW becomes a general-purpose engine for isometric RPGs](https://openmw.org/2022/openmw-roadmap-update/)
+- Apr 01 - [Replit (YC W18) is hiring engineers to make delightful programming environments](https://replit.com/site/careers)
+- Apr 01 - [A Database for 2022](https://tailscale.com/blog/database-for-2022/)
 <!--END_SECTION:hn-->
 
 <!--
