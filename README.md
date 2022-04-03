@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 03 - [Portal for AppleII](http://www.deater.net/weave/vmwprod/portal/)
-- Apr 03 - [Toll Carrier Systems – The Song of the Open Wire](http://the-electric-orphanage.com/wp-toll-carrier-systems/)
-- Apr 03 - [GNU ed ate my homework](https://edoverflow.com/2022/gnu-ed-ate-my-homework/)
-- Apr 03 - [Vizio TVs are now showing banner ads over live TV](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1648829114)
-- Apr 03 - [No More VPN. Introducting Cloudflare Tunnel](https://www.sakowi.cz/blog/cloudflared-docker-compose-tutorial)
+- Apr 03 - [Raycast (YC W20) Is Hiring to Make Work Frictionless (Remote in Europe)](https://raycast.com/careers)
+- Apr 03 - [What are you doing, WordPress.com?](https://rootprivileges.net/2022/04/03/what-are-you-doing-wordpress-com/)
+- Apr 03 - [SQLite B-Tree Module](https://sqlite.org/btreemodule.html)
+- Apr 03 - [Portal for Apple II (2017)](http://www.deater.net/weave/vmwprod/portal/)
+- Apr 03 - [Valve Software Archive](https://valvearchive.com)
 <!--END_SECTION:hn-->
 
 <!--
