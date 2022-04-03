@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 03 - [Raycast (YC W20) Is Hiring to Make Work Frictionless (Remote in Europe)](https://raycast.com/careers)
-- Apr 03 - [What are you doing, WordPress.com?](https://rootprivileges.net/2022/04/03/what-are-you-doing-wordpress-com/)
-- Apr 03 - [SQLite B-Tree Module](https://sqlite.org/btreemodule.html)
-- Apr 03 - [Portal for Apple II (2017)](http://www.deater.net/weave/vmwprod/portal/)
-- Apr 03 - [Valve Software Archive](https://valvearchive.com)
+- Apr 03 - [Fleek (YC W22) Is Hiring for Operations Lead](https://www.ycombinator.com/companies/fleek/jobs/vuEOOnQ-operations-lead)
+- Apr 03 - [Fast fashion: European Union reveals fast fashion crackdown](https://www.bbc.com/news/science-environment-60913226)
+- Apr 03 - [Book Review: The Programmer's Brain](https://shkspr.mobi/blog/2022/04/book-review-the-programmers-brain-what-every-programmer-needs-to-know-about-cognition-by-felienne-hermans/)
+- Apr 03 - [Show HN: ipyvizzu – open-source animated charts in Jupyter Notebooks](https://github.com/vizzuhq/ipyvizzu)
+- Apr 03 - [Ask HN: Is there a tool to generate binary protocol figures out of a spec?](https://news.ycombinator.com/item?id=30895905)
 <!--END_SECTION:hn-->
 
 <!--
