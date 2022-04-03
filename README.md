@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 02 - [“Bucha is looking like the new Srebrenica”](https://twitter.com/yarotrof/status/1510361023999623172)
-- Apr 02 - [Albini Writing to Nirvana](https://news.lettersofnote.com/p/nirvana/comments)
-- Apr 02 - [Show HN: I built a Wi-Fi 6 survey kit to see how common it was in my area](https://wirelessbits.net/checking-in-on-ieee-802-11ax-wi-fi-6-adoption-8aa52f9cc352?gi=60dee4985a9b)
-- Apr 02 - [Cholesterol and mortality: Evidence of a U-shape Relationship](https://www.nature.com/articles/s41598-018-38461-y)
-- Apr 02 - [Battleship](https://www.nulliq.dev/posts/battleship/)
+- Apr 03 - [Portal for AppleII](http://www.deater.net/weave/vmwprod/portal/)
+- Apr 03 - [Toll Carrier Systems – The Song of the Open Wire](http://the-electric-orphanage.com/wp-toll-carrier-systems/)
+- Apr 03 - [GNU ed ate my homework](https://edoverflow.com/2022/gnu-ed-ate-my-homework/)
+- Apr 03 - [Vizio TVs are now showing banner ads over live TV](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1648829114)
+- Apr 03 - [No More VPN. Introducting Cloudflare Tunnel](https://www.sakowi.cz/blog/cloudflared-docker-compose-tutorial)
 <!--END_SECTION:hn-->
 
 <!--
