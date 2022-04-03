@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 03 - [Future of Blitz.js](https://blitzjs.com/docs/blitz-pivot)
-- Apr 03 - [Why to Care About Privacy After Years of Sharing Data](https://blog.thenewoil.org/why-to-care-about-privacy-after-years-of-sharing-data)
-- Apr 03 - [The Science of Production](https://constructionphysics.substack.com/p/the-science-of-production)
-- Apr 03 - [Intel becomes the first to offer full AV1 support with its new Arc GPUs](https://www.neowin.net/news/intel-beats-amd-and-nvidia-to-become-the-first-with-full-av1-support-with-its-new-arc-gpus/)
-- Apr 03 - [Mataroa blog – Naked blogging platform for minimalists](https://mataroa.blog/)
+- Apr 03 - [Russia Threatens to Fine Wikipedia](https://www.npr.org/2022/04/01/1090279187/russia-wikipedia-fine)
+- Apr 03 - [We don’t use a staging environment](https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment)
+- Apr 03 - [Life advice from NYC chess hustlers](https://annekadet.substack.com/p/life-advice-from-nyc-chess-hustlers)
+- Apr 03 - [A project with a single 11,000-line code file](https://austinhenley.com/blog/11000lines.html)
+- Apr 03 - [Reverse-engineering a mysterious Univac computer board](https://www.righto.com/2022/04/reverse-engineering-mysterious-univac.html)
 <!--END_SECTION:hn-->
 
 <!--
