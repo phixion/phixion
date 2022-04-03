@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 02 - [How much do things really cost?](https://www.newyorker.com/business/currency/how-much-do-things-really-cost)
-- Apr 02 - [GNU Parallel – shell tool for executing jobs in parallel, one or more computers](https://www.gnu.org/software/parallel/)
-- Apr 02 - [L.A. Judge Rules LGBT Corporate Diversity Law Unconstitutional](https://www.newsweek.com/california-los-angeles-newsom-senate-bill-diversity-judicial-watch-1694442)
-- Apr 02 - [Don't use containerd with the btrfs snapshotter](https://blog.cubieserver.de/2022/dont-use-containerd-with-the-btrfs-snapshotter/)
-- Apr 02 - [The Bitter Lesson (2019)](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
+- Apr 02 - [“Bucha is looking like the new Srebrenica”](https://twitter.com/yarotrof/status/1510361023999623172)
+- Apr 02 - [Albini Writing to Nirvana](https://news.lettersofnote.com/p/nirvana/comments)
+- Apr 02 - [Show HN: I built a Wi-Fi 6 survey kit to see how common it was in my area](https://wirelessbits.net/checking-in-on-ieee-802-11ax-wi-fi-6-adoption-8aa52f9cc352?gi=60dee4985a9b)
+- Apr 02 - [Cholesterol and mortality: Evidence of a U-shape Relationship](https://www.nature.com/articles/s41598-018-38461-y)
+- Apr 02 - [Battleship](https://www.nulliq.dev/posts/battleship/)
 <!--END_SECTION:hn-->
 
 <!--
