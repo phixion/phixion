@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 03 - [Fleek (YC W22) Is Hiring for Operations Lead](https://www.ycombinator.com/companies/fleek/jobs/vuEOOnQ-operations-lead)
-- Apr 03 - [Fast fashion: European Union reveals fast fashion crackdown](https://www.bbc.com/news/science-environment-60913226)
-- Apr 03 - [Book Review: The Programmer's Brain](https://shkspr.mobi/blog/2022/04/book-review-the-programmers-brain-what-every-programmer-needs-to-know-about-cognition-by-felienne-hermans/)
-- Apr 03 - [Show HN: ipyvizzu – open-source animated charts in Jupyter Notebooks](https://github.com/vizzuhq/ipyvizzu)
-- Apr 03 - [Ask HN: Is there a tool to generate binary protocol figures out of a spec?](https://news.ycombinator.com/item?id=30895905)
+- Apr 03 - [Future of Blitz.js](https://blitzjs.com/docs/blitz-pivot)
+- Apr 03 - [Why to Care About Privacy After Years of Sharing Data](https://blog.thenewoil.org/why-to-care-about-privacy-after-years-of-sharing-data)
+- Apr 03 - [The Science of Production](https://constructionphysics.substack.com/p/the-science-of-production)
+- Apr 03 - [Intel becomes the first to offer full AV1 support with its new Arc GPUs](https://www.neowin.net/news/intel-beats-amd-and-nvidia-to-become-the-first-with-full-av1-support-with-its-new-arc-gpus/)
+- Apr 03 - [Mataroa blog – Naked blogging platform for minimalists](https://mataroa.blog/)
 <!--END_SECTION:hn-->
 
 <!--
