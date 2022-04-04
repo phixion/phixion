@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 04 - [Learn about Concept Maps](https://cmap.ihmc.us/docs/learn.php)
-- Apr 04 - [Improving NGINX Performance with Kernel TLS and SSL_sendfile](https://www.nginx.com/blog/improving-nginx-performance-with-kernel-tls/)
-- Apr 04 - [The Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist)
-- Apr 03 - [The tech interview prep industry](https://alexanderell.is/posts/tech-interview-prep-industry/)
-- Apr 03 - [AppleSqueezer GS: A Modern Apple ][ Accelerator](https://www.applesqueezer.com)
+- Apr 04 - [HTTP Feeds](https://www.http-feeds.org/)
+- Apr 04 - [Infrastructure as Code Should Feel](https://scalefactory.com/blog/2022/01/27/how-infrastructure-as-code-should-feel/)
+- Apr 04 - [OwnTracks – keep track of your own location](https://owntracks.org/)
+- Apr 04 - [Boopkit: eBPF backdoor (TCP) for spawning reverse shells](https://github.com/kris-nova/boopkit)
+- Apr 04 - [Apple's whitelist of the 250k auto-completable domains in iOS](https://cdn.smoot.apple.com/static/autofill_tld_whitelist_url)
 <!--END_SECTION:hn-->
 
 <!--
