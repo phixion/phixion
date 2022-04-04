@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 03 - [Russia Threatens to Fine Wikipedia](https://www.npr.org/2022/04/01/1090279187/russia-wikipedia-fine)
-- Apr 03 - [We don’t use a staging environment](https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment)
-- Apr 03 - [Life advice from NYC chess hustlers](https://annekadet.substack.com/p/life-advice-from-nyc-chess-hustlers)
-- Apr 03 - [A project with a single 11,000-line code file](https://austinhenley.com/blog/11000lines.html)
-- Apr 03 - [Reverse-engineering a mysterious Univac computer board](https://www.righto.com/2022/04/reverse-engineering-mysterious-univac.html)
+- Apr 03 - [AppleSqueezer GS: A Modern Apple ][ Accelerator](https://www.applesqueezer.com)
+- Apr 03 - [Why are 2D vector graphics so much harder than 3D? (2019)](https://blog.mecheye.net/2019/05/why-is-2d-graphics-is-harder-than-3d-graphics/)
+- Apr 03 - [Some interesting malware I found](https://bobbiechen.com/blog/2022/4/3/some-interesting-malware)
+- Apr 03 - [Software bug halts almost all trains in the Netherlands](https://www.ns.nl/en/travel-information/calamities/sunday-3-april-no-more-ns-trains.html)
+- Apr 03 - [Police Seized $10k from Him. A Court Ruled He Had No Right to an Attorney](https://reason.com/2022/04/01/civil-asset-forfeiture-police-indiana-supreme-court-terry-abbott/)
 <!--END_SECTION:hn-->
 
 <!--
