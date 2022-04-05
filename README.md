@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 04 - [Zooming into the Sun with Solar Orbiter](https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Zooming_into_the_Sun_with_Solar_Orbiter)
-- Apr 04 - [Tinygrad](https://github.com/geohot/tinygrad)
-- Apr 04 - [Jitx (YC S18) is hiring senior developers to automate circuit board design](https://jobs.lever.co/jitxinc/6241d90f-03a1-40d0-8703-63c92fac5846)
-- Apr 04 - [Pathways Language Model (Palm): 540B Parameters for Breakthrough Perf](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
-- Apr 04 - [Single-chip processors have reached their limits](https://spectrum.ieee.org/single-chip-processors-have-reached-their-limits)
+- Apr 04 - [Rust on Espressif chips Q1 2022](https://mabez.dev/blog/posts/esp-rust-04-04-2022/)
+- Apr 04 - [Mastodon: A free, open-source, and decentralized Twitter not owned by anybody](https://mastodon.social/about)
+- Apr 04 - [Apple Business Essentials now available for small businesses](https://www.apple.com/newsroom/2022/03/apple-business-essentials-now-available-for-small-businesses/)
+- Apr 04 - [YT-Spammer-Purge: Scan for and delete spam comments on YouTube](https://github.com/ThioJoe/YT-Spammer-Purge)
+- Apr 04 - [DevCycle (YC W14) is hiring feature flag automation engineers](https://devcycle.com/company/careers)
 <!--END_SECTION:hn-->
 
 <!--
