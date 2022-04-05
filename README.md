@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 05 - [Roboflow (YC S20) is hiring to help devs give their software the sense of sight](https://www.youtube.com/watch?v=w7xnOTvF2H8)
-- Apr 05 - [Sidekiq (a Ruby background processing lib) has made $13.5M in 10 years](https://www.mikeperham.com/2022/01/17/happy-10th-birthday-sidekiq/)
-- Apr 05 - [Amazon’s Project Kuiper books 83 rockets to launch internet-beaming satellites](https://www.theverge.com/2022/4/5/23010245/amazon-project-kuiper-megaconstellation-arianespace-ula-blue-origin)
-- Apr 05 - [One App – Two Worlds: This Is TikTok in Russia and Ukraine](https://www.nrk.no/osloogviken/xl/tiktok-doesn_t-show-the-war-in-ukraine-to-russian-users-1.15921522)
-- Apr 05 - [Stripe updates pricing on cross-border fees between UK and EU](https://news.ycombinator.com/item?id=30917431)
+- Apr 05 - [Unreal Engine 5 is now available](https://www.unrealengine.com/en-US/blog/unreal-engine-5-is-now-available)
+- Apr 05 - [35mm cinema film and digital audio](https://everydaything.substack.com/p/35mm-cinema-film-and-digital-audio)
+- Apr 05 - [Samsung's latest Galaxy A53 is 33% slower than the previous Galaxy A52s](https://www.comparedial.com/news/the-new-samsung-galaxy-a53-is-33-slower-than-the-samsung-galaxy-a52s-285)
+- Apr 05 - [pnpm: Fast, disk space efficient package manager for JavaScript](https://pnpm.io/)
+- Apr 05 - [Show HN: HomeSheet, easy to use home inventory software](https://homesheet.co)
 <!--END_SECTION:hn-->
 
 <!--
