@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 05 - [A Tale of Yak Shaving: Accidentally Making a Language, for an Engine, for a Game](https://verdagon.dev/blog/yak-shave-language-engine-game)
-- Apr 04 - [Backyard approaching lighting at Adelaide Airport](https://wongm.com/2022/04/backyard-approaching-lighting-adelaide-airport/)
-- Apr 04 - [Rust on Espressif chips Q1 2022](https://mabez.dev/blog/posts/esp-rust-04-04-2022/)
-- Apr 04 - [Apple Business Essentials now available for small businesses](https://www.apple.com/newsroom/2022/03/apple-business-essentials-now-available-for-small-businesses/)
-- Apr 04 - [YT-Spammer-Purge: Scan for and delete spam comments on YouTube](https://github.com/ThioJoe/YT-Spammer-Purge)
+- Apr 05 - [The Para Method: A Universal System for Organizing Digital Information](https://fortelabs.co/blog/para/)
+- Apr 05 - [Bearer tokens are just awful](https://mjg59.dreamwidth.org/59353.html)
+- Apr 05 - [We (bootstrapped) paid five-figure for our dot com domain](https://blog.remotive.com/remotive-dot-com/)
+- Apr 05 - [Missing Darwin Notebooks Returned to Cambridge University Library](https://www.cam.ac.uk/stories/TreeOfLife)
+- Apr 05 - [Accidentally making a language, for an engine, for a game](https://verdagon.dev/blog/yak-shave-language-engine-game)
 <!--END_SECTION:hn-->
 
 <!--
