@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 05 - [The Para Method: A Universal System for Organizing Digital Information](https://fortelabs.co/blog/para/)
-- Apr 05 - [Bearer tokens are just awful](https://mjg59.dreamwidth.org/59353.html)
-- Apr 05 - [We (bootstrapped) paid five-figure for our dot com domain](https://blog.remotive.com/remotive-dot-com/)
-- Apr 05 - [Missing Darwin Notebooks Returned to Cambridge University Library](https://www.cam.ac.uk/stories/TreeOfLife)
-- Apr 05 - [Accidentally making a language, for an engine, for a game](https://verdagon.dev/blog/yak-shave-language-engine-game)
+- Apr 05 - [Roboflow (YC S20) is hiring to help devs give their software the sense of sight](https://www.youtube.com/watch?v=w7xnOTvF2H8)
+- Apr 05 - [Sidekiq (a Ruby background processing lib) has made $13.5M in 10 years](https://www.mikeperham.com/2022/01/17/happy-10th-birthday-sidekiq/)
+- Apr 05 - [Amazon’s Project Kuiper books 83 rockets to launch internet-beaming satellites](https://www.theverge.com/2022/4/5/23010245/amazon-project-kuiper-megaconstellation-arianespace-ula-blue-origin)
+- Apr 05 - [One App – Two Worlds: This Is TikTok in Russia and Ukraine](https://www.nrk.no/osloogviken/xl/tiktok-doesn_t-show-the-war-in-ukraine-to-russian-users-1.15921522)
+- Apr 05 - [Stripe updates pricing on cross-border fees between UK and EU](https://news.ycombinator.com/item?id=30917431)
 <!--END_SECTION:hn-->
 
 <!--
