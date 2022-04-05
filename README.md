@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 05 - [Unreal Engine 5 is now available](https://www.unrealengine.com/en-US/blog/unreal-engine-5-is-now-available)
-- Apr 05 - [35mm cinema film and digital audio](https://everydaything.substack.com/p/35mm-cinema-film-and-digital-audio)
-- Apr 05 - [Samsung's latest Galaxy A53 is 33% slower than the previous Galaxy A52s](https://www.comparedial.com/news/the-new-samsung-galaxy-a53-is-33-slower-than-the-samsung-galaxy-a52s-285)
-- Apr 05 - [pnpm: Fast, disk space efficient package manager for JavaScript](https://pnpm.io/)
-- Apr 05 - [Show HN: HomeSheet, easy to use home inventory software](https://homesheet.co)
+- Apr 05 - [Evaluating Graviton 2 for data-intensive applications: Arm vs. Intel comparison](https://redpanda.com/blog/aws-graviton-2-arm-vs-x86-comparison/)
+- Apr 05 - [One-click checkout startup Fast is laying off its staff](https://airtable.com/shrE4hEicav6l5uAy/tblRVSv9UklbXJbod)
+- Apr 05 - [300 Drones Formed a QR Code That Rick Rolled Dallas on April Fools' Day](https://www.dallasobserver.com/music/dallas-got-rick-rolled-with-a-giant-qr-code-on-april-fools-day-13716928)
+- Apr 05 - [The Personal Security Checklist](https://security-list.js.org/)
+- Apr 05 - [End the Streaming Struggle with Plex](https://www.plex.tv/en-gb/blog/end-the-streaming-struggle-with-plex/)
 <!--END_SECTION:hn-->
 
 <!--
