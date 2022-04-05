@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 05 - [A Tale of Yak Shaving: Accidentally Making a Language, for an Engine, for a Game](https://verdagon.dev/blog/yak-shave-language-engine-game)
+- Apr 04 - [Backyard approaching lighting at Adelaide Airport](https://wongm.com/2022/04/backyard-approaching-lighting-adelaide-airport/)
 - Apr 04 - [Rust on Espressif chips Q1 2022](https://mabez.dev/blog/posts/esp-rust-04-04-2022/)
-- Apr 04 - [Mastodon: A free, open-source, and decentralized Twitter not owned by anybody](https://mastodon.social/about)
 - Apr 04 - [Apple Business Essentials now available for small businesses](https://www.apple.com/newsroom/2022/03/apple-business-essentials-now-available-for-small-businesses/)
 - Apr 04 - [YT-Spammer-Purge: Scan for and delete spam comments on YouTube](https://github.com/ThioJoe/YT-Spammer-Purge)
-- Apr 04 - [DevCycle (YC W14) is hiring feature flag automation engineers](https://devcycle.com/company/careers)
 <!--END_SECTION:hn-->
 
 <!--
