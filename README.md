@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 06 - [How Disney Became a Nuclear Power](https://neddonovan.substack.com/p/how-disney-became-a-nuclear-power)
-- Apr 06 - [Debian still having trouble with merged /usr](https://lwn.net/SubscriberLink/890219/79e54e3aab20bd87/)
-- Apr 06 - [CalyxOS releases test builds for Fairphone 4, OnePlus 8T, and OnePlus 9](https://calyxos.org/news/2022/04/01/fairphone4-oneplus8t-oneplus9-test-builds/)
-- Apr 06 - [Steam: Half-Life 2 Hardware Survey (2004)](https://web.archive.org/web/20040630214045/http://steampowered.com/status/survey.html)
-- Apr 06 - [The Silver Currency of Cannabis Country (2019)](https://www.topic.com/the-silver-currency-of-cannabis-country)
+- Apr 06 - [Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring eng in NYC](https://skio.com/careers)
+- Apr 06 - [What’s New in Emacs 28.1?](https://www.masteringemacs.org/article/whats-new-in-emacs-28-1)
+- Apr 06 - [GenieFramework – Build web applications with Julia](https://genieframework.com/)
+- Apr 06 - [Ferrari owner Exor wants to build the Italian Y Combinator](https://sifted.eu/articles/ferrari-exor-seeds-italy-y-combinator/)
+- Apr 06 - [I need to stop being boring](https://patzhong.com/stop-being-boring/)
 <!--END_SECTION:hn-->
 
 <!--
