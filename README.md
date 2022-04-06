@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 06 - [Speedcam Anywhere – catch speeding drivers from your smartphone](https://speedcamanywhere.com/)
-- Apr 06 - [Please stop calling it “magic” (2017)](https://zverok.space/blog/2017-10-22-stop-magic.html)
-- Apr 06 - [Devs of bcachefs try to get filesystem into Linux again](https://www.theregister.com/2022/03/18/bcachefs/)
-- Apr 06 - [Startup failure stories: 20 months in, 2K hours spent and 200K € lost (2021)](https://dsebastien.net/blog/2021-01-04-20-months-in-2k-hours-spent-and-200k-lost-a-story-about-resilience-and-the-sunk-cost-fallacy)
-- Apr 06 - [Intel took an AMD Zen microarchitecture presentation and turned it into a patent](https://twitter.com/Underfox3/status/1511697355145367564)
+- Apr 06 - [KeePassXC 2.7.1 Released](https://keepassxc.org/blog/2022-04-06-2.7.1-released//)
+- Apr 06 - [In Defense of Simple Architectures](https://danluu.com/simple-architectures/)
+- Apr 06 - [Ask HN: Do you believe in GNU's Free Software?](https://news.ycombinator.com/item?id=30935918)
+- Apr 06 - [The Things We Did Not Do While Reaching $2M ARR](https://missiveapp.com/blog/the-things-we-did-not-do)
+- Apr 06 - [MIPS provides highly scalable RISC processor IP](https://www.mips.com/)
 <!--END_SECTION:hn-->
 
 <!--
