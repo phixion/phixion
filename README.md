@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 06 - [Ask HN: I'm interested in so many disciplines, but what can I do with that?](https://news.ycombinator.com/item?id=30928105)
-- Apr 06 - [Writing a NetBSD Kernel Module](https://saurvs.github.io/post/writing-netbsd-kern-mod/)
-- Apr 06 - [From Belonging to Burnout, Five Years at Airbnb](https://news.techworkerscoalition.org/2022/04/05/issue-5/)
-- Apr 05 - [Navi- an interactive cheatsheet tool for the command line](https://github.com/denisidoro/navi)
-- Apr 05 - [Padlet (YC W13) is hiring its first recruiter to build a beautiful workplace](http://padlet.jobs/recruiter-sf)
+- Apr 06 - [How Disney Became a Nuclear Power](https://neddonovan.substack.com/p/how-disney-became-a-nuclear-power)
+- Apr 06 - [Debian still having trouble with merged /usr](https://lwn.net/SubscriberLink/890219/79e54e3aab20bd87/)
+- Apr 06 - [CalyxOS releases test builds for Fairphone 4, OnePlus 8T, and OnePlus 9](https://calyxos.org/news/2022/04/01/fairphone4-oneplus8t-oneplus9-test-builds/)
+- Apr 06 - [Steam: Half-Life 2 Hardware Survey (2004)](https://web.archive.org/web/20040630214045/http://steampowered.com/status/survey.html)
+- Apr 06 - [The Silver Currency of Cannabis Country (2019)](https://www.topic.com/the-silver-currency-of-cannabis-country)
 <!--END_SECTION:hn-->
 
 <!--
