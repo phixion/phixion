@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 06 - [Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring eng in NYC](https://skio.com/careers)
-- Apr 06 - [What’s New in Emacs 28.1?](https://www.masteringemacs.org/article/whats-new-in-emacs-28-1)
-- Apr 06 - [GenieFramework – Build web applications with Julia](https://genieframework.com/)
-- Apr 06 - [Ferrari owner Exor wants to build the Italian Y Combinator](https://sifted.eu/articles/ferrari-exor-seeds-italy-y-combinator/)
-- Apr 06 - [I need to stop being boring](https://patzhong.com/stop-being-boring/)
+- Apr 06 - [Speedcam Anywhere – catch speeding drivers from your smartphone](https://speedcamanywhere.com/)
+- Apr 06 - [Please stop calling it “magic” (2017)](https://zverok.space/blog/2017-10-22-stop-magic.html)
+- Apr 06 - [Devs of bcachefs try to get filesystem into Linux again](https://www.theregister.com/2022/03/18/bcachefs/)
+- Apr 06 - [Startup failure stories: 20 months in, 2K hours spent and 200K € lost (2021)](https://dsebastien.net/blog/2021-01-04-20-months-in-2k-hours-spent-and-200k-lost-a-story-about-resilience-and-the-sunk-cost-fallacy)
+- Apr 06 - [Intel took an AMD Zen microarchitecture presentation and turned it into a patent](https://twitter.com/Underfox3/status/1511697355145367564)
 <!--END_SECTION:hn-->
 
 <!--
