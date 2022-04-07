@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 07 - [The Physicalization of Metamathematics and the Implications for Its Foundations](https://writings.stephenwolfram.com/2022/03/the-physicalization-of-metamathematics-and-its-implications-for-the-foundations-of-mathematics/)
-- Apr 07 - [Tree-sitter grammar for org-mode](https://github.com/milisims/tree-sitter-org)
-- Apr 07 - [Advantages of Monorepos](https://danluu.com/monorepo/)
-- Apr 07 - [Tell HN: Recruiters are lying about remote positions](https://news.ycombinator.com/item?id=30945451)
-- Apr 07 - [Canada to Ban Foreigners from Buying Homes](https://www.bloomberg.com/news/articles/2022-04-06/canada-to-ban-some-foreigners-from-buying-homes-as-prices-soar)
+- Apr 07 - [The ever-increasing walled-gardeness of Twitter](https://annoying.technology/posts/e6901c0ea272f57d/)
+- Apr 07 - [AWS lowers data transfer prices for PrivateLink, Transit Gateway, Client VPN](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-data-transfer-price-reduction-privatelink-transit-gateway-client-vpn-services/)
+- Apr 07 - [Newly Measured Particle Seems Heavy Enough to Break Known Physics](https://www.quantamagazine.org/fermilab-says-particle-is-heavy-enough-to-break-the-standard-model-20220407/)
+- Apr 07 - [Mantle – Serverless Maps Using Lambda or Cloudflare Workers](https://protomaps.com/blog/serverless-self-hosted-maps/)
+- Apr 07 - [Ruby 3.2 preview 1 with support for WASM compilation](https://www.ruby-lang.org/en/news/2022/04/03/ruby-3-2-0-preview1-released/)
 <!--END_SECTION:hn-->
 
 <!--
