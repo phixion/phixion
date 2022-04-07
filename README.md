@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 07 - [TrueVault (YC W14) Is Hiring Our Founding Account Executive](https://www.ycombinator.com/companies/truevault/jobs/4bVCF2r-founding-account-executive)
-- Apr 07 - [Welcome to 'Le Monde' in English](https://www.lemonde.fr/en/about-us/article/2022/04/07/welcome-to-le-monde-in-english_5979903_115.html)
-- Apr 07 - [The 0,5 MB of nothing in all Apple Music files (2020)](https://www.ctrl.blog/entry/apple-music-nullbytes.html)
-- Apr 07 - [The Genius of Fishing with Tidal Weirs](https://nautil.us/the-genius-of-fishing-with-tidal-weirs-15894/)
-- Apr 07 - [Ask HN: Have you ever switched cloud?](https://news.ycombinator.com/item?id=30942698)
+- Apr 07 - [The Physicalization of Metamathematics and the Implications for Its Foundations](https://writings.stephenwolfram.com/2022/03/the-physicalization-of-metamathematics-and-its-implications-for-the-foundations-of-mathematics/)
+- Apr 07 - [Tree-sitter grammar for org-mode](https://github.com/milisims/tree-sitter-org)
+- Apr 07 - [Advantages of Monorepos](https://danluu.com/monorepo/)
+- Apr 07 - [Tell HN: Recruiters are lying about remote positions](https://news.ycombinator.com/item?id=30945451)
+- Apr 07 - [Canada to Ban Foreigners from Buying Homes](https://www.bloomberg.com/news/articles/2022-04-06/canada-to-ban-some-foreigners-from-buying-homes-as-prices-soar)
 <!--END_SECTION:hn-->
 
 <!--
