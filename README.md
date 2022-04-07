@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 06 - [Show HN: MetricFlow – open-source metric framework](https://github.com/transform-data/metricflow)
-- Apr 06 - [Inside London's first Ketamine therapy clinic](https://www.leafie.co.uk/articles/inside-londons-first-ketamine-therapy-clinic/)
-- Apr 06 - [A self-authenticating social protocol](https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol)
-- Apr 06 - [My website is one binary](https://j3s.sh/thought/my-website-is-one-binary.html)
-- Apr 06 - [AWS Lambda function URLs: Built-in HTTPS endpoints](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/)
+- Apr 07 - [A Square Meal – Foods of the ‘20s and ‘30s](https://slimemoldtimemold.com/2022/04/04/book-review-a-square-meal-part-i-foods-of-the-20s-and-30s/)
+- Apr 07 - [Wagetap (YC W22) Is Hiring a Lead Software Engineer](https://www.ycombinator.com/companies/wagetap/jobs/XSdhPmC-lead-software-development-engineer)
+- Apr 07 - [Andrew Ng: Unbiggen AI. (Or: Farewell, Big Data)](https://spectrum.ieee.org/andrew-ng-data-centric-ai)
+- Apr 07 - [Why the WHO took two years to say Covid is airborne](https://www.nature.com/articles/d41586-022-00925-7)
+- Apr 06 - [FAANG promo committees are killing Kubernetes: A Short Thread](https://twitter.com/kantrn/status/1511791378497384454)
 <!--END_SECTION:hn-->
 
 <!--
