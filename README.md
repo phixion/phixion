@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 06 - [KeePassXC 2.7.1 Released](https://keepassxc.org/blog/2022-04-06-2.7.1-released//)
-- Apr 06 - [In Defense of Simple Architectures](https://danluu.com/simple-architectures/)
-- Apr 06 - [Ask HN: Do you believe in GNU's Free Software?](https://news.ycombinator.com/item?id=30935918)
-- Apr 06 - [The Things We Did Not Do While Reaching $2M ARR](https://missiveapp.com/blog/the-things-we-did-not-do)
-- Apr 06 - [MIPS provides highly scalable RISC processor IP](https://www.mips.com/)
+- Apr 06 - [Show HN: MetricFlow – open-source metric framework](https://github.com/transform-data/metricflow)
+- Apr 06 - [Inside London's first Ketamine therapy clinic](https://www.leafie.co.uk/articles/inside-londons-first-ketamine-therapy-clinic/)
+- Apr 06 - [A self-authenticating social protocol](https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol)
+- Apr 06 - [My website is one binary](https://j3s.sh/thought/my-website-is-one-binary.html)
+- Apr 06 - [AWS Lambda function URLs: Built-in HTTPS endpoints](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/)
 <!--END_SECTION:hn-->
 
 <!--
