@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 07 - [Piepacker (YC S20) Is Hiring](https://www.ycombinator.com/companies/piepacker/jobs/nMq4ryJ-senior-game-developer)
-- Apr 07 - [News for the Future of BeeWare](https://beeware.org/news/buzz/exciting-news-for-the-future-of-beeware/)
-- Apr 07 - [Hand-optimizing the TCC code generator](https://briancallahan.net/blog/20220406.html)
-- Apr 07 - [I thought I would have accomplished a lot more today and also before I was 35](https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five)
-- Apr 07 - [It’s Time to Launch the Wolfram Institute](https://writings.stephenwolfram.com/2022/04/weve-got-a-science-opportunity-overload-its-time-to-launch-the-wolfram-institute/)
+- Apr 07 - [TrueVault (YC W14) Is Hiring Our Founding Account Executive](https://www.ycombinator.com/companies/truevault/jobs/4bVCF2r-founding-account-executive)
+- Apr 07 - [Welcome to 'Le Monde' in English](https://www.lemonde.fr/en/about-us/article/2022/04/07/welcome-to-le-monde-in-english_5979903_115.html)
+- Apr 07 - [The 0,5 MB of nothing in all Apple Music files (2020)](https://www.ctrl.blog/entry/apple-music-nullbytes.html)
+- Apr 07 - [The Genius of Fishing with Tidal Weirs](https://nautil.us/the-genius-of-fishing-with-tidal-weirs-15894/)
+- Apr 07 - [Ask HN: Have you ever switched cloud?](https://news.ycombinator.com/item?id=30942698)
 <!--END_SECTION:hn-->
 
 <!--
