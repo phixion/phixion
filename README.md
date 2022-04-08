@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 08 - [Flagright (YC W22) Is Hiring](https://www.workatastartup.com/jobs/51714)
+- Apr 08 - [Theneo (YC W22) Is Hiring](https://www.ycombinator.com/companies/theneo/jobs/Q5qp3xL-backend-engineer)
+- Apr 08 - [Measurement of the W boson mass reveals 7σ deviation from calculations](https://www.science.org/doi/10.1126/science.abk1781)
+- Apr 08 - [Buffereditor – Code and Text Editor for iPhone, iPad and iPad Pro](https://buffereditor.com/)
 - Apr 08 - [You may not need Cloudflare Tunnel. Linux is fine](https://kiwiziti.com/~matt/wireguard/)
 - Apr 08 - [Video Diffusion Models](https://video-diffusion.github.io/)
-- Apr 08 - [Is there any future for the GTK-based Desktop Environments?](https://ludditus.com/2021/05/30/is-there-any-future-for-the-gtk-based-desktop-environments/)
-- Apr 08 - [Cohere: The world’s most powerful NLP toolkit](https://cohere.ai)
 <!--END_SECTION:hn-->
 
 <!--
