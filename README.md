@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 08 - [Theneo (YC W22) Is Hiring](https://www.ycombinator.com/companies/theneo/jobs/Q5qp3xL-backend-engineer)
-- Apr 08 - [Measurement of the W boson mass reveals 7σ deviation from calculations](https://www.science.org/doi/10.1126/science.abk1781)
-- Apr 08 - [Buffereditor – Code and Text Editor for iPhone, iPad and iPad Pro](https://buffereditor.com/)
-- Apr 08 - [You may not need Cloudflare Tunnel. Linux is fine](https://kiwiziti.com/~matt/wireguard/)
-- Apr 08 - [Video Diffusion Models](https://video-diffusion.github.io/)
+- Apr 08 - [Show HN: Efficient-VDVAE an Open-source memory-efficient deep hierarchical VAE](https://github.com/Rayhane-mamah/Efficient-VDVAE)
+- Apr 08 - [iFixit and Google Are Launching a Genuine Pixel Parts Program](https://www.ifixit.com/News/58542/working-with-google)
+- Apr 08 - [Return to Monkey Island, Coming 2022](https://returntomonkeyisland.com)
+- Apr 08 - [Old C code – how to upgrade it?](https://news.ycombinator.com/item?id=30957273)
+- Apr 08 - [Static Site Generator in 86 Lines](https://alexxx.co/static-site-generator.html)
 <!--END_SECTION:hn-->
 
 <!--
