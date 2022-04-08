@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 08 - [Barclays Puts in Sensors to See Which Bankers Are at Their Desks (2017)](https://www.bloomberg.com/news/articles/2017-08-18/barclays-puts-in-sensors-to-see-which-bankers-are-at-their-desks)
-- Apr 08 - [User beware: Modified AGPLv3 removes freedoms, adds legal headaches](https://opensource.org/blog/modified-agplv3-removes-freedoms-adds-legal-headaches)
-- Apr 08 - [Zas Editor](https://www.zeditor.app/)
-- Apr 08 - [Reading academic computer science papers](https://stackoverflow.blog/2022/04/07/you-should-be-reading-academic-computer-science-papers/)
-- Apr 08 - [Walmart truckers to start at $95k a year](https://www.axios.com/walmart-trucker-salary-9bc06c92-4da5-45d4-bc95-39795f75e015.html)
+- Apr 08 - [Flagright (YC W22) Is Hiring](https://www.workatastartup.com/jobs/51714)
+- Apr 08 - [You may not need Cloudflare Tunnel. Linux is fine](https://kiwiziti.com/~matt/wireguard/)
+- Apr 08 - [Video Diffusion Models](https://video-diffusion.github.io/)
+- Apr 08 - [Is there any future for the GTK-based Desktop Environments?](https://ludditus.com/2021/05/30/is-there-any-future-for-the-gtk-based-desktop-environments/)
+- Apr 08 - [Cohere: The world’s most powerful NLP toolkit](https://cohere.ai)
 <!--END_SECTION:hn-->
 
 <!--
