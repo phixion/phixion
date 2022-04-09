@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 09 - [An Account of the Shanghai Lockdown](https://jaapgrolleman.com/shanghais-stunning-fall-from-grace/)
-- Apr 09 - [Frank Oz Says Sesame Street Has Gone Downhill. Is He Right?](https://www.fatherly.com/play/frank-oz-says-sesame-street-has-gone-downhill-is-he-right/)
-- Apr 09 - [Show HN: 3D model file thumbnails for Windows Explorer](https://github.com/EYHN/space-thumbnails)
-- Apr 09 - [Multicomputation: A Fourth Paradigm for Theoretical Science](https://writings.stephenwolfram.com/2021/09/multicomputation-a-fourth-paradigm-for-theoretical-science/)
-- Apr 09 - [I Believe Zig Has Function Colors](https://gavinhoward.com/2022/04/i-believe-zig-has-function-colors/)
+- Apr 09 - [I Need to Find an Apartment](https://mattrighetti.com/2022/04/05/i-need-to-find-an-appartment.html)
+- Apr 09 - [The Impervious Browser: Your Portal to the P2P Internet](https://newsletter.impervious.ai/impervious-browser-functionality-overview/)
+- Apr 09 - [Jimmy Carter saved Canadian nuclear reactor after meltdown](https://www.military.com/history/how-jimmy-carter-saved-canadian-nuclear-reactor-after-meltdown.html)
+- Apr 09 - [Identifying fraudulent PPP loans through network analysis](https://www.tylerjamesjones.com/ppp_network/)
+- Apr 09 - [New pill bottles for shaky hands will help people with Parkinson’s (2021)](https://nerdbot.com/2021/01/09/tiktok-pill-bottles-for-shaky-hands-parkinsons/)
 <!--END_SECTION:hn-->
 
 <!--
