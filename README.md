@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 09 - [Deciphering an English Exorcism Manual](https://blogs.bl.uk/digitisedmanuscripts/2022/03/exorcism-manual.html)
-- Apr 08 - [Mozilla Thunderbird Beta now supports Matrix chat](https://matrix.org/blog/2022/04/08/this-week-in-matrix-2022-04-08#thunderbird)
-- Apr 08 - [Bill Jolitz has died](https://minnie.tuhs.org/pipermail/tuhs/2022-April/025643.html)
-- Apr 08 - [AI predicts if and when someone will experience cardiac arrest](https://hub.jhu.edu/2022/04/07/trayanova-artificial-intelligence-cardiac-arrhythmia/)
-- Apr 08 - [Jango; Free Music Streaming](https://www.jango.com)
+- Apr 09 - [Multicomputation: A Fourth Paradigm for Theoretical Science](https://writings.stephenwolfram.com/2021/09/multicomputation-a-fourth-paradigm-for-theoretical-science/)
+- Apr 09 - [I Believe Zig Has Function Colors](https://gavinhoward.com/2022/04/i-believe-zig-has-function-colors/)
+- Apr 09 - [Stacker (YC S20) Is Hiring a Product Engineer (Remote/Europe)](https://www.stackerhq.com/careers)
+- Apr 09 - [GitHub Text of government takedown notices as received](https://github.com/github/gov-takedowns)
+- Apr 09 - [Ask HN: Why Blog at All?](https://news.ycombinator.com/item?id=30965485)
 <!--END_SECTION:hn-->
 
 <!--
