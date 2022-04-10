@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 09 - [Super Simple Storage Service (S4)](http://www.supersimplestorageservice.com/)
-- Apr 09 - [Tell HN: iOS Signal eats your disk space](https://news.ycombinator.com/item?id=30972546)
-- Apr 09 - [A basic introduction to NumPy's einsum](https://ajcr.net/Basic-guide-to-einsum/)
-- Apr 09 - [Quaise Energy – Unlocking the true power of clean geothermal energy](https://www.quaise.energy)
-- Apr 09 - [Tesorio (YC S15) Is Hiring a Head of Infra and Platform and a VP of Engineering](https://www.tesorio.com/careers#job-openings)
+- Apr 10 - [Atlassian products have been down for 4 days](https://status.atlassian.com)
+- Apr 10 - [SMTP protocol basics from scratch in Go: receiving email from Gmail](https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html)
+- Apr 09 - [What Happens When Twelve Thousand Game Developers Converge?](https://www.newyorker.com/news/letter-from-silicon-valley/what-happens-when-twelve-thousand-game-developers-converge)
+- Apr 09 - [A terminal with UI like visual code](https://github.com/zebulon75018/vcterm)
+- Apr 09 - [Super Simple Storage Service](http://www.supersimplestorageservice.com/)
 <!--END_SECTION:hn-->
 
 <!--
