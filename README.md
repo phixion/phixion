@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 09 - [Stanford prof calls cops on Berkeley prof who exposed her $5K/hr consulting fee](https://nypost.com/2022/04/08/stanford-prof-calls-cops-on-berkeley-prof-who-exposed-her-5k-hour-consulting-fee/)
-- Apr 09 - [Heaps: A free, open-source and cross-platform game engine](https://heaps.io/index.html)
-- Apr 09 - [Parking kills businesses, not bikes or buses](https://www.newsroom.co.nz/ideasroom/parking-kills-businesses-not-bikes-or-buses)
-- Apr 09 - [Bore: A simple CLI tool for making tunnels to localhost](https://github.com/ekzhang/bore)
-- Apr 09 - [Reverse-engineering the LM185 voltage reference chip and its bandgap reference](https://www.righto.com/2022/04/reverse-engineering-lm185-voltage.html)
+- Apr 09 - [Super Simple Storage Service (S4)](http://www.supersimplestorageservice.com/)
+- Apr 09 - [Tell HN: iOS Signal eats your disk space](https://news.ycombinator.com/item?id=30972546)
+- Apr 09 - [A basic introduction to NumPy's einsum](https://ajcr.net/Basic-guide-to-einsum/)
+- Apr 09 - [Quaise Energy – Unlocking the true power of clean geothermal energy](https://www.quaise.energy)
+- Apr 09 - [Tesorio (YC S15) Is Hiring a Head of Infra and Platform and a VP of Engineering](https://www.tesorio.com/careers#job-openings)
 <!--END_SECTION:hn-->
 
 <!--
