@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 10 - [Deepnote (YC S19) is hiring a lead engineer to build a better notebook (Europe)](https://deepnote.com/join-us)
-- Apr 10 - [The Backdoor That Keeps Russian Oil Flowing into Europe](https://www.bloombergquint.com/gadfly/ukraine-war-this-backdoor-keeps-russian-oil-flowing-into-europe)
-- Apr 10 - [What is the Eurodollar System? (2020) [pdf]](https://research.rabobank.com/markets/en/documents/279278_2475340_yourollover-dollar.pdf)
-- Apr 10 - [Ask HN: Why do password managers have TOTP?](https://news.ycombinator.com/item?id=30974585)
-- Apr 10 - [Ask HN: How to improve as a struggling junior swe?](https://news.ycombinator.com/item?id=30974544)
+- Apr 10 - [Bitmovin (YC S15) Is Hiring Engineers to Build the Future of Video](https://bitmovin.com/careers/)
+- Apr 10 - [Europe Is Building an International Facial Recognition System](https://www.wired.co.uk/article/europe-police-facial-recognition-prum)
+- Apr 10 - [Ask HN: What Happened to Evernote?](https://news.ycombinator.com/item?id=30975586)
+- Apr 10 - [Ask HN: Why are chess problems attack oriented?](https://news.ycombinator.com/item?id=30975583)
+- Apr 10 - [w3m rocks](http://w3m.rocks/)
 <!--END_SECTION:hn-->
 
 <!--
