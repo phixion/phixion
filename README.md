@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 10 - [Atlassian products have been down for 4 days](https://status.atlassian.com)
-- Apr 10 - [SMTP protocol basics from scratch in Go: receiving email from Gmail](https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html)
-- Apr 09 - [What Happens When Twelve Thousand Game Developers Converge?](https://www.newyorker.com/news/letter-from-silicon-valley/what-happens-when-twelve-thousand-game-developers-converge)
-- Apr 09 - [A terminal with UI like visual code](https://github.com/zebulon75018/vcterm)
-- Apr 09 - [Super Simple Storage Service](http://www.supersimplestorageservice.com/)
+- Apr 10 - [Deepnote (YC S19) is hiring a lead engineer to build a better notebook (Europe)](https://deepnote.com/join-us)
+- Apr 10 - [The Backdoor That Keeps Russian Oil Flowing into Europe](https://www.bloombergquint.com/gadfly/ukraine-war-this-backdoor-keeps-russian-oil-flowing-into-europe)
+- Apr 10 - [What is the Eurodollar System? (2020) [pdf]](https://research.rabobank.com/markets/en/documents/279278_2475340_yourollover-dollar.pdf)
+- Apr 10 - [Ask HN: Why do password managers have TOTP?](https://news.ycombinator.com/item?id=30974585)
+- Apr 10 - [Ask HN: How to improve as a struggling junior swe?](https://news.ycombinator.com/item?id=30974544)
 <!--END_SECTION:hn-->
 
 <!--
