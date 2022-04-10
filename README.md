@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 10 - [New Chinese GPU Maker Moore Threads Unveils the MTT S60 GPU](https://www.geeks3d.com/20220401/new-chinese-gpu-maker-moore-threads-unveils-the-mtt-s60-graphics-card-with-vulkan-opengl-and-direct3d-support/)
-- Apr 10 - [Restored F80 compiler code for CP/M](https://github.com/nikitinprior/dF80)
-- Apr 10 - [Heresy](http://paulgraham.com/heresy.html)
-- Apr 10 - [Ask HN: How do you keep up with replies to comment threads on HN?](https://news.ycombinator.com/item?id=30977112)
-- Apr 10 - [Ask HN: Have you had any real benefits from apps like Headspace, Fabulous, etc?](https://news.ycombinator.com/item?id=30976971)
+- Apr 10 - [The Joy of Small Projects](https://schroer.ca/2022/04/10/the-joy-of-small-projects/)
+- Apr 10 - [An Ode to Apple’s Hide My Email](https://empty.coffee/an-ode-to-apples-hide-my-email/)
+- Apr 10 - [What Is Rust's Unsafe?](https://nora.codes/post/what-is-rusts-unsafe/)
+- Apr 10 - [A stupid joke resulting in a silly news cycle](https://kiwiziti.com/~matt/timberlake/)
+- Apr 10 - [WeekToDo – Free Minimalist Weekly Planner App](https://weektodo.me/)
 <!--END_SECTION:hn-->
 
 <!--
