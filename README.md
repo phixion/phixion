@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 11 - [Elon has decided not to join our board](https://twitter.com/paraga/status/1513354622466867201)
-- Apr 11 - [Conflict-Free Replicated Data Types (CRDT)](https://crdt.tech/)
-- Apr 11 - [Van life (cancer edition) finale](https://imgur.com/gallery/prUy1Kt)
-- Apr 11 - [Ask HN: What hyper-focused industry newsletters do you enjoy?](https://news.ycombinator.com/item?id=30983517)
-- Apr 11 - [Noise Pollution Hurts the Heart](https://knowablemagazine.org/article/health-disease/2021/how-noise-pollution-affects-heart-health)
+- Apr 11 - [I decided to move away for big tech for my children and myself](https://lof.flounder.online/gemlog/2022-04-11%20How%20I%20decided%20to%20move%20away%20for%20bigTech%20for%20my%20children%20and%20myself.gmi)
+- Apr 11 - [I must announce the immediate end of service of SSLPing](https://sslping.com)
+- Apr 11 - [Ask HN: What jobs can I have knowing Python?](https://news.ycombinator.com/item?id=30985277)
+- Apr 11 - [What if Sun Microsystems acquired Apple in 1996?](https://www.alternatehistory.com/forum/threads/the-internet-wars-tl.523117/)
+- Apr 11 - [The Mathematics of Artificial Intelligence (2022)](https://arxiv.org/abs/2203.08890)
 <!--END_SECTION:hn-->
 
 <!--
