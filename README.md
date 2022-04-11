@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 10 - [Watermarked ReRAM: A Technique to Prevent Counterfeit Memory Chips](https://arxiv.org/abs/2204.02104)
-- Apr 10 - [Internet Mail 2000](https://cr.yp.to/im2000.html)
-- Apr 10 - [My Mathematics PhD research workflow: LaTeX notes and instant pdf referencing](https://castel.dev/post/research-workflow/)
-- Apr 10 - [C72: A port of the earliest C compiler to x86 (2021)](https://github.com/vegesm/c72)
-- Apr 10 - [TSA confirms controversial Amtrak passenger screening program underway](https://www.ketv.com/article/tsa-amtrak-passenger-screening-program-underway/39677630#)
+- Apr 11 - [Elon has decided not to join our board](https://twitter.com/paraga/status/1513354622466867201)
+- Apr 11 - [Conflict-Free Replicated Data Types (CRDT)](https://crdt.tech/)
+- Apr 11 - [Van life (cancer edition) finale](https://imgur.com/gallery/prUy1Kt)
+- Apr 11 - [Ask HN: What hyper-focused industry newsletters do you enjoy?](https://news.ycombinator.com/item?id=30983517)
+- Apr 11 - [Noise Pollution Hurts the Heart](https://knowablemagazine.org/article/health-disease/2021/how-noise-pollution-affects-heart-health)
 <!--END_SECTION:hn-->
 
 <!--
