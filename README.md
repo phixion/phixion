@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 11 - [How and why Daily is using Rust for our WebRTC APIs](https://www.daily.co/blog/how-and-why-daily-is-using-rust-for-our-webrtc-apis/)
-- Apr 11 - [A Convo with Rocket Lab’s Peter Beck on Reusability, Launch Demand, and More](https://payloadspace.com/qa-peter-beck/)
-- Apr 11 - [Finland and Sweden set to join NATO as soon as summer](https://www.thetimes.co.uk/article/finland-sweden-set-to-join-nato-war-ukraine-latest-7m8bn6mf8)
-- Apr 11 - [Apple starts manufacturing iPhone 13 in India](https://www.reuters.com/technology/apple-starts-manufacturing-iphone-13-india-2022-04-11/)
-- Apr 11 - [Etsy Strike](https://etsystrike.org/)
+- Apr 11 - [Impressions from a first-time Mac user](https://loganmarchione.com/2022/04/impressions-from-a-first-time-mac-user/)
+- Apr 11 - [Interstellar object exploded over Earth in 2014, declassified govmt data reveal](https://www.livescience.com/first-interstellar-object-detected)
+- Apr 11 - [Intuit asked Mailchimp employees to pay medical costs out of pocket](https://twitter.com/dvsch/status/1458813237651247109)
+- Apr 11 - [Show HN: Multiplayer Demo Built with Elixir](https://multiplayer.dev)
+- Apr 11 - [Is my advice too mercenary?](https://jacobian.org/2022/apr/11/mercenary/)
 <!--END_SECTION:hn-->
 
 <!--
