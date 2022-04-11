@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 10 - [The Joy of Small Projects](https://schroer.ca/2022/04/10/the-joy-of-small-projects/)
-- Apr 10 - [An Ode to Apple’s Hide My Email](https://empty.coffee/an-ode-to-apples-hide-my-email/)
-- Apr 10 - [What Is Rust's Unsafe?](https://nora.codes/post/what-is-rusts-unsafe/)
-- Apr 10 - [A stupid joke resulting in a silly news cycle](https://kiwiziti.com/~matt/timberlake/)
-- Apr 10 - [WeekToDo – Free Minimalist Weekly Planner App](https://weektodo.me/)
+- Apr 10 - [Watermarked ReRAM: A Technique to Prevent Counterfeit Memory Chips](https://arxiv.org/abs/2204.02104)
+- Apr 10 - [Internet Mail 2000](https://cr.yp.to/im2000.html)
+- Apr 10 - [My Mathematics PhD research workflow: LaTeX notes and instant pdf referencing](https://castel.dev/post/research-workflow/)
+- Apr 10 - [C72: A port of the earliest C compiler to x86 (2021)](https://github.com/vegesm/c72)
+- Apr 10 - [TSA confirms controversial Amtrak passenger screening program underway](https://www.ketv.com/article/tsa-amtrak-passenger-screening-program-underway/39677630#)
 <!--END_SECTION:hn-->
 
 <!--
