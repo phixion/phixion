@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 12 - [Lagrange Pre-Release – A Gemini client that also supports Gopher and Finger](https://skyjake.github.io/fdroid/repo/)
-- Apr 12 - [Google announced its free ACME server](https://cloud.google.com/blog/products/identity-security/automate-public-certificate-lifecycle-management-via--acme-client-api)
-- Apr 12 - [The Endgames of Bad Faith Communication](https://consilienceproject.org/endgames-of-bad-communication/)
-- Apr 12 - [Bill.com Quietly Decided to Divert Customer Funds To Unwanted Bank Accounts](https://news.ycombinator.com/item?id=30997123)
-- Apr 11 - [Success and Failure at Pebble](https://medium.com/@ericmigi/why-pebble-failed-d7be937c6232)
+- Apr 12 - [Our World in Data (YC W19) Is Hiring an Ops Officer](https://ourworldindata.org/ops-admin-officer)
+- Apr 12 - [Hexagonal Architecture and Domain Driven Design](https://towardsdev.com/hexagonal-architecture-and-domain-driven-design-bc2525dbc05f)
+- Apr 12 - [Privacy-Respecting Software](https://github.com/Lissy93/personal-security-checklist/blob/master/5_Privacy_Respecting_Software.md)
+- Apr 12 - [Implementation of DALL-E 2 in PyTorch](https://github.com/lucidrains/DALLE2-pytorch)
+- Apr 12 - [Ceephax Acid Crew](http://www.ceephax.co.uk/index.htm)
 <!--END_SECTION:hn-->
 
 <!--
