@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 12 - [Our World in Data (YC W19) Is Hiring an Ops Officer](https://ourworldindata.org/ops-admin-officer)
-- Apr 12 - [Hexagonal Architecture and Domain Driven Design](https://towardsdev.com/hexagonal-architecture-and-domain-driven-design-bc2525dbc05f)
-- Apr 12 - [Privacy-Respecting Software](https://github.com/Lissy93/personal-security-checklist/blob/master/5_Privacy_Respecting_Software.md)
-- Apr 12 - [Implementation of DALL-E 2 in PyTorch](https://github.com/lucidrains/DALLE2-pytorch)
-- Apr 12 - [Ceephax Acid Crew](http://www.ceephax.co.uk/index.htm)
+- Apr 12 - [Ambition (YC W14) Is Hiring a Full Stack Engineer (Tennessee HQ, Remote)](https://apply.workable.com/ambition/j/D9869311FD/)
+- Apr 12 - [Ask HN: When Did Tech Stop Being Cool?](https://news.ycombinator.com/item?id=31001155)
+- Apr 12 - [Qt 6.3 Released](https://www.qt.io/blog/qt-6.3-released)
+- Apr 12 - [Over 15% of world population has a headache on any given day](https://english.elpais.com/science-tech/2022-04-12/over-15-of-world-population-has-a-headache-on-any-given-day-new-global-estimate-finds.html)
+- Apr 12 - [Axios-Ipsos poll: Most Americans say Covid is no longer a crisis](https://www.axios.com/axios-ipsos-poll-most-americans-say-covid-is-no-longer-a-crisis-6604f7d2-a476-48eb-8e2d-9cb94c425159.html)
 <!--END_SECTION:hn-->
 
 <!--
