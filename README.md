@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 12 - [Covid Smell Loss Linked to Damage in Brain, Study Finds](https://jamanetwork.com/journals/jamaneurology/fullarticle/2790735)
-- Apr 12 - [A Tiny Docker image to serve static websites](https://lipanski.com/posts/smallest-docker-image-static-website)
-- Apr 12 - [ESO telescope captures surprising changes in Neptune's temperatures](https://www.eso.org/public/news/eso2206/)
-- Apr 12 - [Show HN: AV1 and WebRTC](https://github.com/pion/webrtc/tree/master/examples/save-to-disk-av1)
-- Apr 12 - [Zapier: The $5B Unbundling Opportunity](https://www.georgesequeira.com/writing/zapier-the-5b-unbundling-opportunity/)
+- Apr 12 - [Eden](https://github.com/facebookexperimental/eden)
+- Apr 12 - [RaidForums gets raided, alleged admin arrested](https://krebsonsecurity.com/2022/04/raidforums-get-raided-alleged-admin-arrested/)
+- Apr 12 - [Top Mac app store dev abuses free with in-app purchase for bait-and-switch apps](https://twitter.com/lapcatsoftware/status/1513672378236166149)
+- Apr 12 - [Apple introduces new version of iMovie featuring Storyboards and Magic Movie](https://www.apple.com/newsroom/2022/04/apple-introduces-new-version-of-imovie-featuring-storyboards-and-magic-movie/)
+- Apr 12 - [Google Drive: Shortcuts replacing files and folders stored in multiple locations](https://support.google.com/drive/answer/10864219?hl=en)
 <!--END_SECTION:hn-->
 
 <!--
