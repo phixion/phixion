@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 12 - [Ambition (YC W14) Is Hiring a Full Stack Engineer (Tennessee HQ, Remote)](https://apply.workable.com/ambition/j/D9869311FD/)
-- Apr 12 - [Ask HN: When Did Tech Stop Being Cool?](https://news.ycombinator.com/item?id=31001155)
-- Apr 12 - [Qt 6.3 Released](https://www.qt.io/blog/qt-6.3-released)
-- Apr 12 - [Over 15% of world population has a headache on any given day](https://english.elpais.com/science-tech/2022-04-12/over-15-of-world-population-has-a-headache-on-any-given-day-new-global-estimate-finds.html)
-- Apr 12 - [Axios-Ipsos poll: Most Americans say Covid is no longer a crisis](https://www.axios.com/axios-ipsos-poll-most-americans-say-covid-is-no-longer-a-crisis-6604f7d2-a476-48eb-8e2d-9cb94c425159.html)
+- Apr 12 - [Covid Smell Loss Linked to Damage in Brain, Study Finds](https://jamanetwork.com/journals/jamaneurology/fullarticle/2790735)
+- Apr 12 - [A Tiny Docker image to serve static websites](https://lipanski.com/posts/smallest-docker-image-static-website)
+- Apr 12 - [ESO telescope captures surprising changes in Neptune's temperatures](https://www.eso.org/public/news/eso2206/)
+- Apr 12 - [Show HN: AV1 and WebRTC](https://github.com/pion/webrtc/tree/master/examples/save-to-disk-av1)
+- Apr 12 - [Zapier: The $5B Unbundling Opportunity](https://www.georgesequeira.com/writing/zapier-the-5b-unbundling-opportunity/)
 <!--END_SECTION:hn-->
 
 <!--
