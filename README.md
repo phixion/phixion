@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 11 - [Impressions from a first-time Mac user](https://loganmarchione.com/2022/04/impressions-from-a-first-time-mac-user/)
-- Apr 11 - [Interstellar object exploded over Earth in 2014, declassified govmt data reveal](https://www.livescience.com/first-interstellar-object-detected)
-- Apr 11 - [Intuit asked Mailchimp employees to pay medical costs out of pocket](https://twitter.com/dvsch/status/1458813237651247109)
-- Apr 11 - [Show HN: Multiplayer Demo Built with Elixir](https://multiplayer.dev)
-- Apr 11 - [Is my advice too mercenary?](https://jacobian.org/2022/apr/11/mercenary/)
+- Apr 11 - [Why Pebble Failed](https://medium.com/@ericmigi/why-pebble-failed-d7be937c6232)
+- Apr 11 - [Why we’ve canceled flights, and what we are doing to get back on track](https://news.alaskaair.com/alaska-airlines/operations/spring-operation-update/)
+- Apr 11 - [The Apple-1's shift-register memory](https://www.righto.com/2022/04/inside-apple-1s-shift-register-memory.html)
+- Apr 11 - [Get familiar with workspaces](https://go.dev/blog/get-familiar-with-workspaces)
+- Apr 11 - [HireArt (YC W12) is Hiring an Engineering Manager](https://www.hireart.com/jobs/cc2f8093/apply?utm_source=hackernews)
 <!--END_SECTION:hn-->
 
 <!--
