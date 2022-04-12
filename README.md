@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 11 - [Why Pebble Failed](https://medium.com/@ericmigi/why-pebble-failed-d7be937c6232)
-- Apr 11 - [Why we’ve canceled flights, and what we are doing to get back on track](https://news.alaskaair.com/alaska-airlines/operations/spring-operation-update/)
-- Apr 11 - [The Apple-1's shift-register memory](https://www.righto.com/2022/04/inside-apple-1s-shift-register-memory.html)
-- Apr 11 - [Get familiar with workspaces](https://go.dev/blog/get-familiar-with-workspaces)
-- Apr 11 - [HireArt (YC W12) is Hiring an Engineering Manager](https://www.hireart.com/jobs/cc2f8093/apply?utm_source=hackernews)
+- Apr 12 - [Lagrange Pre-Release – A Gemini client that also supports Gopher and Finger](https://skyjake.github.io/fdroid/repo/)
+- Apr 12 - [Google announced its free ACME server](https://cloud.google.com/blog/products/identity-security/automate-public-certificate-lifecycle-management-via--acme-client-api)
+- Apr 12 - [The Endgames of Bad Faith Communication](https://consilienceproject.org/endgames-of-bad-communication/)
+- Apr 12 - [Bill.com Quietly Decided to Divert Customer Funds To Unwanted Bank Accounts](https://news.ycombinator.com/item?id=30997123)
+- Apr 11 - [Success and Failure at Pebble](https://medium.com/@ericmigi/why-pebble-failed-d7be937c6232)
 <!--END_SECTION:hn-->
 
 <!--
