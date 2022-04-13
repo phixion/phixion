@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 13 - [The Svix Webhook Service (YC W21) Is Hiring a Rust Back End Engineer (Remote)](https://www.svix.com/careers/)
-- Apr 13 - [Web3: A VC-funded gig economy of securities fraud](https://davidgerard.co.uk/blockchain/2022/04/11/web3-a-vc-funded-gig-economy-of-securities-violations/)
-- Apr 13 - [Deekaykwon 2D Animations](https://deekaykwon.com)
-- Apr 13 - [Ana is a Python, PHP, and C inspired dynamically typed scripting language](https://github.com/analang/ana)
-- Apr 13 - [Rules of Spycraft (2009) [pdf]](https://grugq.github.io/resources/Dulles%20on%20Tradecraft.pdf)
+- Apr 13 - [Cumbuca (YC S21) Is Hiring](https://news.ycombinator.com/item?id=31013621)
+- Apr 13 - [Show HN: I made a website to search for half loaves of bread near you](https://halfloafnear.me/)
+- Apr 13 - [Russian trolls tried to distract voters with music tweets in 2016](https://news.cornell.edu/stories/2022/04/russian-trolls-tried-distract-voters-music-tweets-2016-0)
+- Apr 13 - [U+237C ⍼ Right Angle with Downwards Zigzag Arrow](https://ionathan.ch/2022/04/09/angzarr.html)
+- Apr 13 - [Insider Trading at Coinbase](https://twitter.com/cobie/status/1513874972552355846)
 <!--END_SECTION:hn-->
 
 <!--
