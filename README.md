@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 12 - [A list of new(ish) command line tools – Julia Evans](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/)
-- Apr 12 - [A few things I learned about using DALL·E](https://www.bramadams.dev/projects/dalle-tricks)
-- Apr 12 - [Mexico truckers protest new Texas inspections, halt trade at border bridges](https://www.texastribune.org/2022/04/11/texas-border-inspections-truckers-protest/)
-- Apr 12 - [BBEdit is 30 years old today](https://groups.google.com/g/comp.sys.mac.announce/c/gvPGyuX3UCs)
-- Apr 12 - [Never hose out a Honda Element](https://fifthelementcamping.com/never-hose-it-out)
+- Apr 13 - [WebP is such a goated format](https://sandyuraz.com/blogs/webp/)
+- Apr 13 - [Update on the Atlassian outage affecting some customers](https://www.atlassian.com/engineering/april-2022-outage-update)
+- Apr 13 - [Git security vulnerability announced](https://github.blog/2022-04-12-git-security-vulnerability-announced/)
+- Apr 12 - [New(ish) command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/)
+- Apr 12 - [A few things to try with DALL·E](https://www.bramadams.dev/projects/dalle-tricks)
 <!--END_SECTION:hn-->
 
 <!--
