@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 13 - [WebP is such a goated format](https://sandyuraz.com/blogs/webp/)
-- Apr 13 - [Update on the Atlassian outage affecting some customers](https://www.atlassian.com/engineering/april-2022-outage-update)
-- Apr 13 - [Git security vulnerability announced](https://github.blog/2022-04-12-git-security-vulnerability-announced/)
-- Apr 12 - [New(ish) command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/)
-- Apr 12 - [A few things to try with DALL·E](https://www.bramadams.dev/projects/dalle-tricks)
+- Apr 13 - [The Svix Webhook Service (YC W21) Is Hiring a Rust Back End Engineer (Remote)](https://www.svix.com/careers/)
+- Apr 13 - [Web3: A VC-funded gig economy of securities fraud](https://davidgerard.co.uk/blockchain/2022/04/11/web3-a-vc-funded-gig-economy-of-securities-violations/)
+- Apr 13 - [Deekaykwon 2D Animations](https://deekaykwon.com)
+- Apr 13 - [Ana is a Python, PHP, and C inspired dynamically typed scripting language](https://github.com/analang/ana)
+- Apr 13 - [Rules of Spycraft (2009) [pdf]](https://grugq.github.io/resources/Dulles%20on%20Tradecraft.pdf)
 <!--END_SECTION:hn-->
 
 <!--
