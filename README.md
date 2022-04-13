@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 13 - [What Flips Your Bit: Cosmic Ray Errors at Mozilla](https://blog.mozilla.org/data/2022/04/13/this-week-in-glean-what-flips-your-bit/)
-- Apr 13 - [Hetzner Cloud – Data loss incident](https://news.ycombinator.com/item?id=31015840)
-- Apr 13 - [Inside The Longest Atlassian Outage of All Time](https://newsletter.pragmaticengineer.com/p/scoop-atlassian)
-- Apr 13 - [US sentences crypto expert to 5 years after North Korea blockchain presentation](https://markets.businessinsider.com/news/currencies/crypto-expert-jailed-north-korea-blockchain-research-justice-department-2022-4)
-- Apr 13 - [Psilocybin Rewires the Brain for People with Depression](https://www.ucsf.edu/news/2022/04/422606/psilocybin-rewires-brain-people-depression)
+- Apr 13 - [California's Vanished Dream, by the Numbers](https://www.realclearinvestigations.com/articles/2022/04/13/californias_vanished_dream_by_the_numbers_826300.html)
+- Apr 13 - [Let’s Encrypt Receives the Levchin Prize for Real-World Cryptography](https://letsencrypt.org/2022/04/13/receiving-the-levchin-prize.html)
+- Apr 13 - [Measuring Goodhart’s Law](https://openai.com/blog/measuring-goodharts-law/)
+- Apr 13 - [8vdX (YC W22) Is Hiring a Product Manager](https://news.ycombinator.com/item?id=31017120)
+- Apr 13 - [You’re muted – or are you? Videoconferencing apps listen even when mic is off](https://news.wisc.edu/youre-muted-or-are-you-videoconferencing-apps-may-listen-even-when-mic-is-off/)
 <!--END_SECTION:hn-->
 
 <!--
