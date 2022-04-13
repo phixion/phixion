@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 12 - [Eden](https://github.com/facebookexperimental/eden)
-- Apr 12 - [RaidForums gets raided, alleged admin arrested](https://krebsonsecurity.com/2022/04/raidforums-get-raided-alleged-admin-arrested/)
-- Apr 12 - [Top Mac app store dev abuses free with in-app purchase for bait-and-switch apps](https://twitter.com/lapcatsoftware/status/1513672378236166149)
-- Apr 12 - [Apple introduces new version of iMovie featuring Storyboards and Magic Movie](https://www.apple.com/newsroom/2022/04/apple-introduces-new-version-of-imovie-featuring-storyboards-and-magic-movie/)
-- Apr 12 - [Google Drive: Shortcuts replacing files and folders stored in multiple locations](https://support.google.com/drive/answer/10864219?hl=en)
+- Apr 12 - [A list of new(ish) command line tools – Julia Evans](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/)
+- Apr 12 - [A few things I learned about using DALL·E](https://www.bramadams.dev/projects/dalle-tricks)
+- Apr 12 - [Mexico truckers protest new Texas inspections, halt trade at border bridges](https://www.texastribune.org/2022/04/11/texas-border-inspections-truckers-protest/)
+- Apr 12 - [BBEdit is 30 years old today](https://groups.google.com/g/comp.sys.mac.announce/c/gvPGyuX3UCs)
+- Apr 12 - [Never hose out a Honda Element](https://fifthelementcamping.com/never-hose-it-out)
 <!--END_SECTION:hn-->
 
 <!--
