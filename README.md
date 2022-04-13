@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 13 - [Cumbuca (YC S21) Is Hiring](https://news.ycombinator.com/item?id=31013621)
-- Apr 13 - [Show HN: I made a website to search for half loaves of bread near you](https://halfloafnear.me/)
-- Apr 13 - [Russian trolls tried to distract voters with music tweets in 2016](https://news.cornell.edu/stories/2022/04/russian-trolls-tried-distract-voters-music-tweets-2016-0)
-- Apr 13 - [U+237C ⍼ Right Angle with Downwards Zigzag Arrow](https://ionathan.ch/2022/04/09/angzarr.html)
-- Apr 13 - [Insider Trading at Coinbase](https://twitter.com/cobie/status/1513874972552355846)
+- Apr 13 - [What Flips Your Bit: Cosmic Ray Errors at Mozilla](https://blog.mozilla.org/data/2022/04/13/this-week-in-glean-what-flips-your-bit/)
+- Apr 13 - [Hetzner Cloud – Data loss incident](https://news.ycombinator.com/item?id=31015840)
+- Apr 13 - [Inside The Longest Atlassian Outage of All Time](https://newsletter.pragmaticengineer.com/p/scoop-atlassian)
+- Apr 13 - [US sentences crypto expert to 5 years after North Korea blockchain presentation](https://markets.businessinsider.com/news/currencies/crypto-expert-jailed-north-korea-blockchain-research-justice-department-2022-4)
+- Apr 13 - [Psilocybin Rewires the Brain for People with Depression](https://www.ucsf.edu/news/2022/04/422606/psilocybin-rewires-brain-people-depression)
 <!--END_SECTION:hn-->
 
 <!--
