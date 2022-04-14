@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 14 - [Discz Music (YC W22) Is Hiring a Senior iOS Engineer](https://www.ycombinator.com/companies/discz-music/jobs/34QbsbN-ios-engineer)
-- Apr 14 - [Elon Musk Launches $43B Hostile Takeover of Twitter](https://www.bloomberg.com/news/articles/2022-04-14/elon-musk-launches-43-billion-hostile-takeover-of-twitter)
-- Apr 14 - [The New York Times compels the Wordle Archive project to be shut down](https://www.devangthakkar.com/wordle_archive/)
-- Apr 14 - [New Covid nasal spray outperforms current antibody treatments in mice](https://news.northwestern.edu/stories/2022/04/new-covid-19-nasal-spray-outperforms-current-antibody-treatments-in-mice/)
-- Apr 14 - [Why Ruby Has Symbols](https://dmitrytsepelev.dev/why-has-ruby-symbols)
+- Apr 14 - [Ask HN: Do you manage your family's digital safety?](https://news.ycombinator.com/item?id=31027766)
+- Apr 14 - [Natural Wine, Inherited Money, and the Delusions of the “Future-Rich Millennial”](https://lithub.com/on-natural-wine-inherited-money-and-the-delusions-of-the-future-rich-millennial/)
+- Apr 14 - [The Elimination of Leaded Gasoline](https://blogs.loc.gov/law/2022/04/the-history-of-the-elimination-of-leaded-gasoline/)
+- Apr 14 - [Ask HN: Why isn't there a standard network audio protocol?](https://news.ycombinator.com/item?id=31027526)
+- Apr 14 - [Heatsink Skiving (2021) [video]](https://www.youtube.com/watch?v=6PUk0m3bISI)
 <!--END_SECTION:hn-->
 
 <!--
