@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 14 - [Making Rust a Better Fit for Cheri and Other Platforms](https://tratt.net/laurie/blog/2022/making_rust_a_better_fit_for_cheri_and_other_platforms.html)
-- Apr 14 - [Sturdy (YC W21) Is Hiring Senior Engineers (Stockholm, Sweden)](https://getsturdy.com/careers)
-- Apr 14 - [Large-Scale Matrix Factorization on TPUs](https://ai.googleblog.com/2022/04/large-scale-matrix-factorization-on-tpus.html)
-- Apr 14 - [Incident with GitHub Actions and Codespaces](https://www.githubstatus.com/incidents/vxvyrmy9w1vp)
-- Apr 14 - [I want to give Oracle money but I can't](https://nickfa.ro/index.php/I_want_to_give_Oracle_money_but_I_can%27t)
+- Apr 14 - [Discz Music (YC W22) Is Hiring a Senior iOS Engineer](https://www.ycombinator.com/companies/discz-music/jobs/34QbsbN-ios-engineer)
+- Apr 14 - [Elon Musk Launches $43B Hostile Takeover of Twitter](https://www.bloomberg.com/news/articles/2022-04-14/elon-musk-launches-43-billion-hostile-takeover-of-twitter)
+- Apr 14 - [The New York Times compels the Wordle Archive project to be shut down](https://www.devangthakkar.com/wordle_archive/)
+- Apr 14 - [New Covid nasal spray outperforms current antibody treatments in mice](https://news.northwestern.edu/stories/2022/04/new-covid-19-nasal-spray-outperforms-current-antibody-treatments-in-mice/)
+- Apr 14 - [Why Ruby Has Symbols](https://dmitrytsepelev.dev/why-has-ruby-symbols)
 <!--END_SECTION:hn-->
 
 <!--
