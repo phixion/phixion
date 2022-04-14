@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 14 - ["Advanced solder containing gold for clearer sound"](https://www.sony.co.nz/electronics/walkman/nw-a100-series)
-- Apr 14 - [Don’t Cook Yourself with RF Energy](https://www.bigmessowires.com/2022/04/13/dont-cook-yourself-with-rf-energy/)
-- Apr 14 - [My Life as a Mentalist](https://www.zocalopublicsquare.org/2022/04/07/where-i-go-my-life-as-a-mentalist/chronicles/where-i-go/)
-- Apr 14 - [Computers Can Be Understood (2020)](https://blog.nelhage.com/post/computers-can-be-understood/)
-- Apr 14 - [Regology (YC S18) Is Hiring](https://www.ycombinator.com/companies/regology/jobs/WmLGnHI-product-marketing-manager)
+- Apr 14 - [Making Rust a Better Fit for Cheri and Other Platforms](https://tratt.net/laurie/blog/2022/making_rust_a_better_fit_for_cheri_and_other_platforms.html)
+- Apr 14 - [Sturdy (YC W21) Is Hiring Senior Engineers (Stockholm, Sweden)](https://getsturdy.com/careers)
+- Apr 14 - [Large-Scale Matrix Factorization on TPUs](https://ai.googleblog.com/2022/04/large-scale-matrix-factorization-on-tpus.html)
+- Apr 14 - [Incident with GitHub Actions and Codespaces](https://www.githubstatus.com/incidents/vxvyrmy9w1vp)
+- Apr 14 - [I want to give Oracle money but I can't](https://nickfa.ro/index.php/I_want_to_give_Oracle_money_but_I_can%27t)
 <!--END_SECTION:hn-->
 
 <!--
