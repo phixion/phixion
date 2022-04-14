@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 14 - [Ask HN: Do you manage your family's digital safety?](https://news.ycombinator.com/item?id=31027766)
-- Apr 14 - [Natural Wine, Inherited Money, and the Delusions of the “Future-Rich Millennial”](https://lithub.com/on-natural-wine-inherited-money-and-the-delusions-of-the-future-rich-millennial/)
-- Apr 14 - [The Elimination of Leaded Gasoline](https://blogs.loc.gov/law/2022/04/the-history-of-the-elimination-of-leaded-gasoline/)
-- Apr 14 - [Ask HN: Why isn't there a standard network audio protocol?](https://news.ycombinator.com/item?id=31027526)
-- Apr 14 - [Heatsink Skiving (2021) [video]](https://www.youtube.com/watch?v=6PUk0m3bISI)
+- Apr 14 - [A Gripe about the Los Angeles Metro Bike App](https://veryla.io/stories/metro-bike-app-los-angeles)
+- Apr 14 - [The Irrelevance of Porter’s Five Forces for the B2B Software Industry](https://jhcblog.juliehuntconsulting.com/2012/12/the-irrelevance-of-porters-five-forces-for-the-b2b-software-industry.html)
+- Apr 14 - [Avalanche Energy – Fusion power you can hold in your hands](https://www.avalanche.energy/)
+- Apr 14 - [Link: Simple, secure one-click payments by Stripe](https://link.co/)
+- Apr 14 - [Show HN: GPT-3 powered Ouija spirit board that moves your mouse](https://ouija.attejuvonen.fi/)
 <!--END_SECTION:hn-->
 
 <!--
