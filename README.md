@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 13 - [Apple's M1 Ultra comes with a 32MB TLB bottleneck](https://twitter.com/VadimYuryev/status/1514295682777059329)
-- Apr 13 - [The man who invented relaxation (2015)](https://www.bbc.com/news/magazine-34714591)
-- Apr 13 - [Three areas where Google Search lags behind competitors: code, cooking, travel](https://www.surgehq.ai//blog/google-search-is-falling-behind)
-- Apr 13 - [Generally Intelligent (YC S17) is hiring machine learning research engineers](https://news.ycombinator.com/item?id=31020206)
-- Apr 13 - [Facebook open sources Lexical, an extensible text editor library](https://lexical.dev/)
+- Apr 14 - ["Advanced solder containing gold for clearer sound"](https://www.sony.co.nz/electronics/walkman/nw-a100-series)
+- Apr 14 - [Don’t Cook Yourself with RF Energy](https://www.bigmessowires.com/2022/04/13/dont-cook-yourself-with-rf-energy/)
+- Apr 14 - [My Life as a Mentalist](https://www.zocalopublicsquare.org/2022/04/07/where-i-go-my-life-as-a-mentalist/chronicles/where-i-go/)
+- Apr 14 - [Computers Can Be Understood (2020)](https://blog.nelhage.com/post/computers-can-be-understood/)
+- Apr 14 - [Regology (YC S18) Is Hiring](https://www.ycombinator.com/companies/regology/jobs/WmLGnHI-product-marketing-manager)
 <!--END_SECTION:hn-->
 
 <!--
