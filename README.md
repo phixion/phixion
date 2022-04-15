@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 15 - [Rustaceans at the Border [Linux Kernel]](https://lwn.net/SubscriberLink/889924/2b330ed9ea4a9e23/)
-- Apr 15 - [Reddit Announces Comment Search](https://www.redditinc.com/blog/new-on-reddit-comment-search-improved-search-results-relevance-updated-search-design)
-- Apr 15 - [Sunken Moskva Could Be the Biggest Naval Combat Loss in 40 Years](https://www.thedrive.com/the-war-zone/sinking-a-warship-is-a-truly-rare-event-in-modern-naval-warfare)
-- Apr 15 - [Flexport is hiring a senior engineer with experience building product catalogs](https://flexport.com/careers)
-- Apr 14 - [5-min breathing workout lowers blood pressure as much as exercise, drugs (2021)](https://www.colorado.edu/today/2021/06/29/5-minute-breathing-workout-lowers-blood-pressure-much-exercise-drugs)
+- Apr 15 - [Nimbus (YC W22) is hiring our founding engineering team](https://news.ycombinator.com/item?id=31039184)
+- Apr 15 - [Shirky.com is gone (important essays, the history of the Web, is disappearing)](https://web.archive.org/web/20060208093032/http://www.shirky.com/writings/powerlaw_weblog.html)
+- Apr 15 - [Pointers Are Complicated III, or: Pointer-integer casts exposed](https://www.ralfj.de/blog/2022/04/11/provenance-exposed.html)
+- Apr 15 - [What Is at Stake in Ukraine](https://www.economist.com/leaders/2022/04/16/what-is-at-stake-in-ukraine)
+- Apr 15 - [Denny Delk](http://www.dennydelk.com/)
 <!--END_SECTION:hn-->
 
 <!--
