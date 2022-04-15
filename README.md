@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 15 - [Rustaceans at the Border [Linux Kernel]](https://lwn.net/SubscriberLink/889924/2b330ed9ea4a9e23/)
+- Apr 15 - [Reddit Announces Comment Search](https://www.redditinc.com/blog/new-on-reddit-comment-search-improved-search-results-relevance-updated-search-design)
+- Apr 15 - [Sunken Moskva Could Be the Biggest Naval Combat Loss in 40 Years](https://www.thedrive.com/the-war-zone/sinking-a-warship-is-a-truly-rare-event-in-modern-naval-warfare)
 - Apr 15 - [Flexport is hiring a senior engineer with experience building product catalogs](https://flexport.com/careers)
 - Apr 14 - [5-min breathing workout lowers blood pressure as much as exercise, drugs (2021)](https://www.colorado.edu/today/2021/06/29/5-minute-breathing-workout-lowers-blood-pressure-much-exercise-drugs)
-- Apr 14 - [Star Labs StarBook – AMD 14" Linux Laptop with coreboot and “Open warranty”](https://starlabs.systems/pages/starbook)
-- Apr 14 - [We lost 54k GitHub stars](https://httpie.io/blog/stardust)
-- Apr 14 - [Why Germany won’t keep its nuclear plants open](https://unchartedterritories.tomaspueyo.com/p/why-germany-wont-keep-its-nuclear)
 <!--END_SECTION:hn-->
 
 <!--
