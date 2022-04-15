@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 15 - [Nimbus (YC W22) is hiring our founding engineering team](https://news.ycombinator.com/item?id=31039184)
-- Apr 15 - [Shirky.com is gone (important essays, the history of the Web, is disappearing)](https://web.archive.org/web/20060208093032/http://www.shirky.com/writings/powerlaw_weblog.html)
-- Apr 15 - [Pointers Are Complicated III, or: Pointer-integer casts exposed](https://www.ralfj.de/blog/2022/04/11/provenance-exposed.html)
-- Apr 15 - [What Is at Stake in Ukraine](https://www.economist.com/leaders/2022/04/16/what-is-at-stake-in-ukraine)
-- Apr 15 - [Denny Delk](http://www.dennydelk.com/)
+- Apr 15 - [The terrible things I'd do with your money](https://timdaub.github.io/2022/04/15/the-terrible-things-I-would-do-with-your-money/)
+- Apr 15 - [Primer: Statistical [Tank] Armour](https://www.tanknology.co.uk/post/statistical-armour)
+- Apr 15 - [Billionaires eye parallel media universe](https://www.axios.com/elon-musk-twitter-billionaires-free-speech-social-media-c74547a6-e51d-48fa-b2bd-3d7458f2adb4.html)
+- Apr 15 - [When Your “Public Square” Is a Private Company, Any Sulky Billionaire Can Buy It](https://lithub.com/when-your-public-square-is-a-private-company-any-sulky-billionaire-can-buy-it/)
+- Apr 15 - [The Colorado Safety Stop is the law of the land](https://www.bicyclecolorado.org/bike-news/colorado-safety-stop-becomes-law/)
 <!--END_SECTION:hn-->
 
 <!--
