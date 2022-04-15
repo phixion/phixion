@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 15 - [The terrible things I'd do with your money](https://timdaub.github.io/2022/04/15/the-terrible-things-I-would-do-with-your-money/)
-- Apr 15 - [Primer: Statistical [Tank] Armour](https://www.tanknology.co.uk/post/statistical-armour)
-- Apr 15 - [Billionaires eye parallel media universe](https://www.axios.com/elon-musk-twitter-billionaires-free-speech-social-media-c74547a6-e51d-48fa-b2bd-3d7458f2adb4.html)
-- Apr 15 - [When Your “Public Square” Is a Private Company, Any Sulky Billionaire Can Buy It](https://lithub.com/when-your-public-square-is-a-private-company-any-sulky-billionaire-can-buy-it/)
-- Apr 15 - [The Colorado Safety Stop is the law of the land](https://www.bicyclecolorado.org/bike-news/colorado-safety-stop-becomes-law/)
+- Apr 15 - [Tails 5.0~beta1: Call for testing](https://tails.boum.org/news/test_5.0-beta1/)
+- Apr 15 - [Ten Members of International Stock Manipulation Ring Charged in Manhattan](https://www.justice.gov/usao-sdny/pr/ten-members-international-stock-manipulation-ring-charged-manhattan-federal-court)
+- Apr 15 - [DuckDuckGo Removes Pirate Sites and YouTube-DL from Its Search Results](https://torrentfreak.com/duckduckgo-removes-pirate-sites-and-youtube-dl-from-its-search-results-220415/)
+- Apr 15 - [The History of Franz and Lisp](https://ieeexplore.ieee.org/document/9740557)
+- Apr 15 - [Two-qubit silicon quantum processor with operation fidelity exceeding 99%](https://www.science.org/doi/10.1126/sciadv.abn5130)
 <!--END_SECTION:hn-->
 
 <!--
