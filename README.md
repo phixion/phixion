@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 14 - [A Gripe about the Los Angeles Metro Bike App](https://veryla.io/stories/metro-bike-app-los-angeles)
-- Apr 14 - [The Irrelevance of Porter’s Five Forces for the B2B Software Industry](https://jhcblog.juliehuntconsulting.com/2012/12/the-irrelevance-of-porters-five-forces-for-the-b2b-software-industry.html)
-- Apr 14 - [Avalanche Energy – Fusion power you can hold in your hands](https://www.avalanche.energy/)
-- Apr 14 - [Link: Simple, secure one-click payments by Stripe](https://link.co/)
-- Apr 14 - [Show HN: GPT-3 powered Ouija spirit board that moves your mouse](https://ouija.attejuvonen.fi/)
+- Apr 14 - [5-minute breathing workout lowers blood pressure as much as exercise, drugs](https://www.colorado.edu/today/2021/06/29/5-minute-breathing-workout-lowers-blood-pressure-much-exercise-drugs)
+- Apr 14 - [Star Labs StarBook – AMD 14" Linux Laptop with coreboot and “Open warranty”](https://starlabs.systems/pages/starbook)
+- Apr 14 - [We lost 54k GitHub stars](https://httpie.io/blog/stardust)
+- Apr 14 - [Why Germany won’t keep its nuclear plants open](https://unchartedterritories.tomaspueyo.com/p/why-germany-wont-keep-its-nuclear)
+- Apr 14 - [Kula (YC W22) Is Hiring Founding Engineers (London)](https://www.joinkula.io/jobs)
 <!--END_SECTION:hn-->
 
 <!--
