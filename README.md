@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 15 - [Tails 5.0~beta1: Call for testing](https://tails.boum.org/news/test_5.0-beta1/)
-- Apr 15 - [Ten Members of International Stock Manipulation Ring Charged in Manhattan](https://www.justice.gov/usao-sdny/pr/ten-members-international-stock-manipulation-ring-charged-manhattan-federal-court)
-- Apr 15 - [DuckDuckGo Removes Pirate Sites and YouTube-DL from Its Search Results](https://torrentfreak.com/duckduckgo-removes-pirate-sites-and-youtube-dl-from-its-search-results-220415/)
-- Apr 15 - [The History of Franz and Lisp](https://ieeexplore.ieee.org/document/9740557)
-- Apr 15 - [Two-qubit silicon quantum processor with operation fidelity exceeding 99%](https://www.science.org/doi/10.1126/sciadv.abn5130)
+- Apr 15 - [Two Silicon Valley executives charged with H-1B visa fraud](https://www.latimes.com/california/story/2022-04-14/two-silicon-valley-executives-charged-with-h-1b-visa-fraud)
+- Apr 15 - [The book that sank on the Titanic and burned in the Blitz](https://www.bbc.com/news/uk-england-london-57683638)
+- Apr 15 - [Attack campaign involving stolen OAuth tokens issued to third-party integrators](https://github.blog/2022-04-15-security-alert-stolen-oauth-user-tokens/)
+- Apr 15 - [Re-implementing an old DOS game in C++ 17](https://lethalguitar.wordpress.com/2019/05/28/re-implementing-an-old-dos-game-in-c-17/)
+- Apr 15 - [What Is Interchange?](https://blog.lithic.com/interchange/)
 <!--END_SECTION:hn-->
 
 <!--
