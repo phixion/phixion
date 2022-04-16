@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 15 - [Two Silicon Valley executives charged with H-1B visa fraud](https://www.latimes.com/california/story/2022-04-14/two-silicon-valley-executives-charged-with-h-1b-visa-fraud)
-- Apr 15 - [The book that sank on the Titanic and burned in the Blitz](https://www.bbc.com/news/uk-england-london-57683638)
+- Apr 16 - [Heroku Security Notification](https://status.heroku.com/incidents/2413)
+- Apr 16 - [Intel deprecates SGX on Core series processors](https://edc.intel.com/content/www/us/en/design/ipla/software-development-platforms/client/platforms/alder-lake-desktop/12th-generation-intel-core-processors-datasheet-volume-1-of-2/004/deprecated-technologies/)
+- Apr 15 - [When hiring developers, have the candidate read existing code](https://freakingrectangle.wordpress.com/2022/04/15/how-to-freaking-hire-great-developers/)
+- Apr 15 - [XHTTP: An HTTP server library in a single C file](https://github.com/cozis/xHTTP)
 - Apr 15 - [Attack campaign involving stolen OAuth tokens issued to third-party integrators](https://github.blog/2022-04-15-security-alert-stolen-oauth-user-tokens/)
-- Apr 15 - [Re-implementing an old DOS game in C++ 17](https://lethalguitar.wordpress.com/2019/05/28/re-implementing-an-old-dos-game-in-c-17/)
-- Apr 15 - [What Is Interchange?](https://blog.lithic.com/interchange/)
 <!--END_SECTION:hn-->
 
 <!--
