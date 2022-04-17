@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 17 - [As Climate Fears Mount, Some Are Relocating Within the US](https://www.wired.com/story/as-climate-fears-mount-some-are-relocating-within-the-us/)
+- Apr 17 - [Raycast (YC W20) Is Hiring to Make Work Frictionless (Remote in Europe)](https://raycast.com/careersttps://www.raycast.com/blog/why-we-pay-equal-salaries-wherever-you-work/)
+- Apr 17 - [Miniclip to Discontinue Desktop Site and Transition Exclusively to Mobile Games](https://www.miniclip.com/games/en/)
+- Apr 17 - [The u-root CPU command](http://book.linuxboot.org/cpu/)
 - Apr 17 - [The Freedom Phone is not great at privacy](https://mjg59.dreamwidth.org/59479.html)
-- Apr 17 - [Collectibles are terrible investments](https://fullstackeconomics.com/sorry-collectibles-are-terrible-investments/)
-- Apr 16 - [Is Rust Web Yet?](https://www.arewewebyet.org/)
 - Apr 16 - [100 People with rare cancers who attended same NJ high school demand answers](https://www.foxnews.com/us/colonia-high-school-rare-cancer-link)
 <!--END_SECTION:hn-->
 
