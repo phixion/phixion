@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 17 - [We’re taking down the paywall on QZ.com](https://qz.com/2154695/quartz-is-taking-down-the-paywall-on-qz-com/)
-- Apr 17 - [“YouTube-dl” and “Pirate Bay” back on DDG](https://fosstodon.org/@rudolf/108147439615842718)
-- Apr 17 - [The games Nintendo didn't want you to play: Tengen](https://nicole.express/2022/the-center-point-can-not-hold.html)
-- Apr 17 - [What Does “Shitty Job” Mean in the Low-Skill, Low-Pay World?](https://www.residentcontrarian.com/p/what-does-shitty-job-mean-in-the)
-- Apr 17 - [Charlie's Diary: Why I Hate Star Trek (2009)](http://www.antipope.org/charlie/blog-static/2009/10/why_i_hate_star_trek.html)
+- Apr 17 - [CIA Bombshell: The Sussmann data was “user created”](https://technofog.substack.com/p/cia-bombshell-the-sussmann-data-was)
+- Apr 17 - [Assume your devices are compromised](https://www.go350.com/posts/digital-secrets/)
+- Apr 17 - [Florida says it rejected math textbooks for referring to critical race theory](https://www.axios.com/florida-rejects-math-textbooks-critical-race-theory-1f7555e6-16b7-4303-bb67-4f79c9fc53d3.html)
+- Apr 17 - [“With every good film I see, I feel reborn.”](https://www.sabzian.be/article/hossein-sabzian)
+- Apr 17 - [The roots of videogame slime: snottites, star jelly and 'living mazes' (2018)](https://videogamesoftheoppressed.wordpress.com/2018/09/17/the-untold-history-of-slimes/)
 <!--END_SECTION:hn-->
 
 <!--
