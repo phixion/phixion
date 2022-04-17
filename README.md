@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 17 - [Even mild Covid-19 can cause your brain to shrink](https://www.nationalgeographic.com/magazine/article/even-mild-covid-19-can-cause-your-brain-to-shrink)
-- Apr 17 - [Why Are Some Egg Yolks So Orange?](https://www.foodunfolded.com/article/why-are-some-egg-yolks-so-orange)
-- Apr 17 - [Heated Debate Rises over Hints of Superconductivity Above Boiling Temperatures](https://www.insidescience.org/news/heated-debate-rises-over-hints-superconductivity-above-boiling-temperatures)
-- Apr 17 - [Miniclip to Discontinue Desktop Site and Transition Exclusively to Mobile Games](https://www.miniclip.com/games/en/)
-- Apr 17 - [The u-root CPU command](http://book.linuxboot.org/cpu/)
+- Apr 17 - [We’re taking down the paywall on QZ.com](https://qz.com/2154695/quartz-is-taking-down-the-paywall-on-qz-com/)
+- Apr 17 - [“YouTube-dl” and “Pirate Bay” back on DDG](https://fosstodon.org/@rudolf/108147439615842718)
+- Apr 17 - [The games Nintendo didn't want you to play: Tengen](https://nicole.express/2022/the-center-point-can-not-hold.html)
+- Apr 17 - [What Does “Shitty Job” Mean in the Low-Skill, Low-Pay World?](https://www.residentcontrarian.com/p/what-does-shitty-job-mean-in-the)
+- Apr 17 - [Charlie's Diary: Why I Hate Star Trek (2009)](http://www.antipope.org/charlie/blog-static/2009/10/why_i_hate_star_trek.html)
 <!--END_SECTION:hn-->
 
 <!--
