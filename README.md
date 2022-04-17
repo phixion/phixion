@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 17 - [Raycast (YC W20) Is Hiring to Make Work Frictionless (Remote in Europe)](https://raycast.com/careersttps://www.raycast.com/blog/why-we-pay-equal-salaries-wherever-you-work/)
+- Apr 17 - [Even mild Covid-19 can cause your brain to shrink](https://www.nationalgeographic.com/magazine/article/even-mild-covid-19-can-cause-your-brain-to-shrink)
+- Apr 17 - [Why Are Some Egg Yolks So Orange?](https://www.foodunfolded.com/article/why-are-some-egg-yolks-so-orange)
+- Apr 17 - [Heated Debate Rises over Hints of Superconductivity Above Boiling Temperatures](https://www.insidescience.org/news/heated-debate-rises-over-hints-superconductivity-above-boiling-temperatures)
 - Apr 17 - [Miniclip to Discontinue Desktop Site and Transition Exclusively to Mobile Games](https://www.miniclip.com/games/en/)
 - Apr 17 - [The u-root CPU command](http://book.linuxboot.org/cpu/)
-- Apr 17 - [The Freedom Phone is not great at privacy](https://mjg59.dreamwidth.org/59479.html)
-- Apr 16 - [100 People with rare cancers who attended same NJ high school demand answers](https://www.foxnews.com/us/colonia-high-school-rare-cancer-link)
 <!--END_SECTION:hn-->
 
 <!--
