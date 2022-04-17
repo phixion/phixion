@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 16 - [Show HN: My website, hosted on a 386 25 MHz, 4 MiB of RAM, 38400 baud internet](http://serentty.com)
-- Apr 16 - [Using SBCL Common Lisp as a Dynamic Library](https://mstmetent.blogspot.com/2022/04/using-lisp-libraries-from-other.html)
-- Apr 16 - [Virginia police routinely use secret GPS pings to track people’s cell phones](https://www.insidenova.com/headlines/virginia-police-routinely-use-secret-gps-pings-to-track-people-s-cell-phones/article_e9c5e028-bbd4-11ec-8934-ab3eea0e9aa5.html)
-- Apr 16 - [Hurricane Electric Emergency DNS Maintenance](http://dns.he.net/)
-- Apr 16 - [Show HN: Slow Social, a social network built for friends, not influencers](https://slowsocial.us/)
+- Apr 16 - [Is Rust Web Yet?](https://www.arewewebyet.org/)
+- Apr 16 - [100 People with rare cancers who attended same NJ high school demand answers](https://www.foxnews.com/us/colonia-high-school-rare-cancer-link)
+- Apr 16 - [A New Map of All the Particles and Forces (2020)](https://www.quantamagazine.org/a-new-map-of-the-standard-model-of-particle-physics-20201022/)
+- Apr 16 - [Notable items missing from English Wikipedia](https://blog.plover.com/2022/04/16/#missing)
+- Apr 16 - [The 'Batman Effect': How having an alter ego empowers you](https://lsa.umich.edu/psych/news-events/all-news/faculty-news/the--batman-effect---how-having-an-alter-ego-empowers-you.html)
 <!--END_SECTION:hn-->
 
 <!--
