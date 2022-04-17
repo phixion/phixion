@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 17 - [As Climate Fears Mount, Some Are Relocating Within the US](https://www.wired.com/story/as-climate-fears-mount-some-are-relocating-within-the-us/)
+- Apr 17 - [The Freedom Phone is not great at privacy](https://mjg59.dreamwidth.org/59479.html)
+- Apr 17 - [Collectibles are terrible investments](https://fullstackeconomics.com/sorry-collectibles-are-terrible-investments/)
 - Apr 16 - [Is Rust Web Yet?](https://www.arewewebyet.org/)
 - Apr 16 - [100 People with rare cancers who attended same NJ high school demand answers](https://www.foxnews.com/us/colonia-high-school-rare-cancer-link)
-- Apr 16 - [A New Map of All the Particles and Forces (2020)](https://www.quantamagazine.org/a-new-map-of-the-standard-model-of-particle-physics-20201022/)
-- Apr 16 - [Notable items missing from English Wikipedia](https://blog.plover.com/2022/04/16/#missing)
-- Apr 16 - [The 'Batman Effect': How having an alter ego empowers you](https://lsa.umich.edu/psych/news-events/all-news/faculty-news/the--batman-effect---how-having-an-alter-ego-empowers-you.html)
 <!--END_SECTION:hn-->
 
 <!--
