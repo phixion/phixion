@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 18 - [Should we be eating three meals a day?](https://www.bbc.com/future/article/20220412-should-we-be-eating-three-meals-a-day)
-- Apr 18 - [Show HN: Giggle – A self-hosted customizable and ad-free Google Search interface](https://github.com/dan-lovelace/giggle)
-- Apr 18 - [The Musl Preprocessor Debate](https://catfox.life/2022/04/16/the-musl-preprocessor-debate/)
-- Apr 18 - [Types of Deceptive Design](https://www.deceptive.design/types)
-- Apr 18 - [‘Click to Cancel’ legislation introduced in Pennsylvania](https://pahouse.com/InTheNews/NewsRelease/?id=124404)
+- Apr 18 - [QuestDB (YC S20) Is Hiring a Cloud Engineer (K8s, Argocd, Terraform))](https://questdb.io/careers/senior-cloud-engineer/)
+- Apr 18 - [Extensive Mercenary Spyware Operation Against Catalans Using Pegasus and Candiru](https://citizenlab.ca/2022/04/catalangate-extensive-mercenary-spyware-operation-against-catalans-using-pegasus-candiru/)
+- Apr 18 - [Security experts declare all Proton apps secure after security audit](https://protonmail.com/blog/security-audit-all-proton-apps/)
+- Apr 18 - [Space Math](https://aimath.org/~farmer/spacemath/)
+- Apr 18 - [M1 Thunderbolt ports don’t fully support USB 3.1 Gen 2](https://eclecticlight.co/2022/04/18/m1-thunderbolt-ports-dont-fully-support-usb-3-1-gen-2/)
 <!--END_SECTION:hn-->
 
 <!--
