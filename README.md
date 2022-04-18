@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 18 - [QuestDB (YC S20) Is Hiring a Cloud Engineer (K8s, Argocd, Terraform))](https://questdb.io/careers/senior-cloud-engineer/)
-- Apr 18 - [Extensive Mercenary Spyware Operation Against Catalans Using Pegasus and Candiru](https://citizenlab.ca/2022/04/catalangate-extensive-mercenary-spyware-operation-against-catalans-using-pegasus-candiru/)
-- Apr 18 - [Security experts declare all Proton apps secure after security audit](https://protonmail.com/blog/security-audit-all-proton-apps/)
-- Apr 18 - [Space Math](https://aimath.org/~farmer/spacemath/)
-- Apr 18 - [M1 Thunderbolt ports don’t fully support USB 3.1 Gen 2](https://eclecticlight.co/2022/04/18/m1-thunderbolt-ports-dont-fully-support-usb-3-1-gen-2/)
+- Apr 18 - [Beanstalk cryptocurrency loses $182m of reserves in flash ‘attack’](https://www.theguardian.com/technology/2022/apr/18/beanstalk-cryptocurrency-loses-182m-of-reserves-in-flash-attack)
+- Apr 18 - [Jack Dorsey’s $2.9M NFT dropped 99% in value](https://www.artnews.com/art-news/news/jack-dorsey-nft-sale-1234625508/)
+- Apr 18 - [Workers at Apple's NYC store have started collecting signatures to form a union](https://www.businessinsider.com/apple-store-workers-unionizing-grand-central-2022-4)
+- Apr 18 - [North Korea Diversifies into Ethereum via Record Crypto Hack](https://www.thismorningonchain.com/articles/defi/north-korea-diversifies-crypto-portfolio-via-largest-crypto-hack/)
+- Apr 18 - [When You Get Locked Out of Your Google Account, What Do You Do? (2021)](https://www.linkedin.com/pulse/when-you-get-locked-out-your-google-account-what-do-desirea-calvillo)
 <!--END_SECTION:hn-->
 
 <!--
