@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 18 - [Beanstalk cryptocurrency loses $182m of reserves in flash ‘attack’](https://www.theguardian.com/technology/2022/apr/18/beanstalk-cryptocurrency-loses-182m-of-reserves-in-flash-attack)
-- Apr 18 - [Jack Dorsey’s $2.9M NFT dropped 99% in value](https://www.artnews.com/art-news/news/jack-dorsey-nft-sale-1234625508/)
-- Apr 18 - [Workers at Apple's NYC store have started collecting signatures to form a union](https://www.businessinsider.com/apple-store-workers-unionizing-grand-central-2022-4)
-- Apr 18 - [North Korea Diversifies into Ethereum via Record Crypto Hack](https://www.thismorningonchain.com/articles/defi/north-korea-diversifies-crypto-portfolio-via-largest-crypto-hack/)
-- Apr 18 - [When You Get Locked Out of Your Google Account, What Do You Do? (2021)](https://www.linkedin.com/pulse/when-you-get-locked-out-your-google-account-what-do-desirea-calvillo)
+- Apr 18 - [Web scraping is legal, US appeals court reaffirms](https://techcrunch.com/2022/04/18/web-scraping-legal-court/)
+- Apr 18 - [A Helicopter Will Try to Catch a Rocket Booster Mid-Air](https://spectrum.ieee.org/rocket-booster-rocket-lab)
+- Apr 18 - [Where in the galaxy will we mine lithium?](https://www.sciof.fi/lithium-beyond-earth/)
+- Apr 18 - [Eight points for one team is two points for another team](https://www.lloydatkinson.net/posts/2022/one-teams-eight-points-is-another-teams-two-points/)
+- Apr 18 - [Nobody Wants Your Fancy Algorithm](https://joemorrison.substack.com/p/nobody-wants-your-fancy-algorithm)
 <!--END_SECTION:hn-->
 
 <!--
