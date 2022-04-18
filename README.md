@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 17 - [CIA Bombshell: The Sussmann data was “user created”](https://technofog.substack.com/p/cia-bombshell-the-sussmann-data-was)
-- Apr 17 - [Assume your devices are compromised](https://www.go350.com/posts/digital-secrets/)
-- Apr 17 - [Florida says it rejected math textbooks for referring to critical race theory](https://www.axios.com/florida-rejects-math-textbooks-critical-race-theory-1f7555e6-16b7-4303-bb67-4f79c9fc53d3.html)
-- Apr 17 - [“With every good film I see, I feel reborn.”](https://www.sabzian.be/article/hossein-sabzian)
-- Apr 17 - [The roots of videogame slime: snottites, star jelly and 'living mazes' (2018)](https://videogamesoftheoppressed.wordpress.com/2018/09/17/the-untold-history-of-slimes/)
+- Apr 17 - [The best engineering interview question I've ever gotten](https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/)
+- Apr 17 - [The Uber Bubble](https://braveneweurope.com/hubert-horan-the-uber-bubble-why-is-a-company-that-lost-20-billion-claimed-to-be-successful)
+- Apr 17 - [Unreal vs. Unity Opinion](https://gist.github.com/flibitijibibo/035087d8736441786b10e8c3879d50dd)
+- Apr 17 - [BuildZoom (YC W13) is hiring a principal engineer](https://jobs.lever.co/buildzoom)
+- Apr 17 - [Show HN: "q", a DNS query tool with support for UDP, TCP, DoT, DoH, DoQ and ODoH](https://github.com/natesales/q)
 <!--END_SECTION:hn-->
 
 <!--
