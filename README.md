@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 17 - [The best engineering interview question I've ever gotten](https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/)
-- Apr 17 - [The Uber Bubble](https://braveneweurope.com/hubert-horan-the-uber-bubble-why-is-a-company-that-lost-20-billion-claimed-to-be-successful)
-- Apr 17 - [Unreal vs. Unity Opinion](https://gist.github.com/flibitijibibo/035087d8736441786b10e8c3879d50dd)
-- Apr 17 - [BuildZoom (YC W13) is hiring a principal engineer](https://jobs.lever.co/buildzoom)
-- Apr 17 - [Show HN: "q", a DNS query tool with support for UDP, TCP, DoT, DoH, DoQ and ODoH](https://github.com/natesales/q)
+- Apr 18 - [Types of Deceptive Design](https://www.deceptive.design/types)
+- Apr 18 - [‘Click to Cancel’ legislation introduced in Pennsylvania](https://pahouse.com/InTheNews/NewsRelease/?id=124404)
+- Apr 18 - [Jack Dorsey: Twitter Board “consistently the dysfunction of the company”](https://www.forbes.com/sites/abrambrown/2022/04/17/twitter-takeover-musk-dorsey-board-tweets/)
+- Apr 18 - [Cytopia: Open-source city simulator with pixel-art graphics](https://github.com/CytopiaTeam/Cytopia)
+- Apr 17 - [Richard Stallman – “The state of the Free Software movement” – April 13, 2022](https://lunduke.substack.com/p/richard-stallman-the-state-of-the)
 <!--END_SECTION:hn-->
 
 <!--
