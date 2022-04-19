@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 19 - [PolicyFly (YC W22) Is Hiring a Senior Back End Engineer (Remote)](https://www.ycombinator.com/companies/policyfly/jobs/Xz4YaAK-senior-backend-engineer)
-- Apr 19 - [Canada bans foreign home buyers for two years](https://www.axios.com/canada-foreign-home-buyers-ban-589fdf10-844f-4160-afe0-e8452df92fa8.html)
-- Apr 19 - [The Machiavellians of the Animal Kingdom](https://nautil.us/the-machiavellians-of-the-animal-kingdom-16090/)
-- Apr 19 - [Japan invents ‘electric’ chopsticks that make food seem more salty](https://www.theguardian.com/world/2022/apr/19/saline-solution-japan-invents-electric-chopsticks-that-make-food-seem-more-salty)
-- Apr 19 - [Persuasion and the Prestige Paradox](https://quillette.com/2021/04/03/persuasion-and-the-prestige-paradox-are-high-status-people-more-likely-to-lie/)
+- Apr 19 - [Local detection of dark matter with future missions to Uranus and Neptune](https://arxiv.org/abs/2204.07242)
+- Apr 19 - [How DALL-E 2 Works](https://www.assemblyai.com/blog/how-dall-e-2-actually-works/)
+- Apr 19 - [Is Twitter biased against conservatives? A Study](https://psyarxiv.com/ay9q5)
+- Apr 19 - [Ajax Battle: XMLHttpRequest vs. the Fetch API](https://blog.openreplay.com/ajax-battle-xmlhttprequest-vs-the-fetch-api/)
+- Apr 19 - [How we upgraded our 4TB PostgreSQL database](https://retool.com/blog/how-we-upgraded-postgresql-database/)
 <!--END_SECTION:hn-->
 
 <!--
