@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 18 - [Web scraping is legal, US appeals court reaffirms](https://techcrunch.com/2022/04/18/web-scraping-legal-court/)
-- Apr 18 - [A Helicopter Will Try to Catch a Rocket Booster Mid-Air](https://spectrum.ieee.org/rocket-booster-rocket-lab)
-- Apr 18 - [Where in the galaxy will we mine lithium?](https://www.sciof.fi/lithium-beyond-earth/)
-- Apr 18 - [Eight points for one team is two points for another team](https://www.lloydatkinson.net/posts/2022/one-teams-eight-points-is-another-teams-two-points/)
-- Apr 18 - [Nobody Wants Your Fancy Algorithm](https://joemorrison.substack.com/p/nobody-wants-your-fancy-algorithm)
+- Apr 18 - [Canadians consider certain religions damaging to society: survey](https://globalnews.ca/news/8759564/canada-religion-society-perceptions/)
+- Apr 18 - [Six companies control 90% of what you read, watch, and hear](https://rebeccastrong.substack.com/p/big-media-big-conflicts-of-interest)
+- Apr 18 - [As Lithium Drilling Advances at the Salton Sea, Researchers Work Out the Details](https://www.kcet.org/news-community/as-lithium-drilling-advances-at-the-salton-sea-researchers-work-out-the-details)
+- Apr 18 - [Introducing a16z START](https://a16z.com/2022/04/18/introducing-a6z-start/)
+- Apr 18 - [SDF Public Access Unix System](https://sdf.org)
 <!--END_SECTION:hn-->
 
 <!--
