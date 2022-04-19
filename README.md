@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 19 - [Debian and firmware – What are we going to do about it?](https://blog.einval.com/2022/04/19#firmware-what-do-we-do)
+- Apr 19 - [Oggify: Download Songs Directly from Spotify](https://github.com/pisto/oggify)
+- Apr 19 - [Dilution of whisky – the molecular perspective (2017)](https://www.nature.com/articles/s41598-017-06423-5)
+- Apr 19 - [UserGems (YC S14) Is Hiring a VP of Engineering (Europe / East Coast)](https://www.usergems.com/careers/vp-of-engineering)
+- Apr 19 - [Debian and firmware](https://blog.einval.com/2022/04/19#firmware-what-do-we-do)
 - Apr 19 - [Nixery – Docker images on the fly with Nix](https://nixery.dev/)
-- Apr 19 - [Build OCI images using APK directly without Dockerfile](https://github.com/chainguard-dev/apko)
-- Apr 18 - [Opinion: Another species of hominin may still be alive](https://www.the-scientist.com/magazine-issue/opinion-another-species-of-hominin-may-still-be-alive-69869)
-- Apr 18 - [Elo scoring two years of Magic: The Gathering games](https://dylanlott.com/mtg-game-analysis/)
 <!--END_SECTION:hn-->
 
 <!--
