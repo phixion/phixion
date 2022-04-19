@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 19 - [Oggify: Download Songs Directly from Spotify](https://github.com/pisto/oggify)
-- Apr 19 - [Dilution of whisky – the molecular perspective (2017)](https://www.nature.com/articles/s41598-017-06423-5)
-- Apr 19 - [UserGems (YC S14) Is Hiring a VP of Engineering (Europe / East Coast)](https://www.usergems.com/careers/vp-of-engineering)
-- Apr 19 - [Debian and firmware](https://blog.einval.com/2022/04/19#firmware-what-do-we-do)
-- Apr 19 - [Nixery – Docker images on the fly with Nix](https://nixery.dev/)
+- Apr 19 - [PolicyFly (YC W22) Is Hiring a Senior Back End Engineer (Remote)](https://www.ycombinator.com/companies/policyfly/jobs/Xz4YaAK-senior-backend-engineer)
+- Apr 19 - [Canada bans foreign home buyers for two years](https://www.axios.com/canada-foreign-home-buyers-ban-589fdf10-844f-4160-afe0-e8452df92fa8.html)
+- Apr 19 - [The Machiavellians of the Animal Kingdom](https://nautil.us/the-machiavellians-of-the-animal-kingdom-16090/)
+- Apr 19 - [Japan invents ‘electric’ chopsticks that make food seem more salty](https://www.theguardian.com/world/2022/apr/19/saline-solution-japan-invents-electric-chopsticks-that-make-food-seem-more-salty)
+- Apr 19 - [Persuasion and the Prestige Paradox](https://quillette.com/2021/04/03/persuasion-and-the-prestige-paradox-are-high-status-people-more-likely-to-lie/)
 <!--END_SECTION:hn-->
 
 <!--
