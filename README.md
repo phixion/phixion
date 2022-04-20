@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 20 - [Opvia (YC S20) Is Hiring in London](https://airtable.com/shrhv1yYtcMtPskra)
-- Apr 20 - [QEMU Version 7.0.0 Released](https://www.qemu.org/2022/04/19/qemu-7-0-0/)
-- Apr 20 - [Double ridge formation over shallow water sills on Jupiter’s moon Europa](https://www.nature.com/articles/s41467-022-29458-3)
-- Apr 20 - [Faster Geospatial Enrichment: PostgreSQL vs. ClickHouse vs. BigQuery](https://tech.marksblogg.com/faster-geospatial-enrichment.html)
-- Apr 20 - [Global population is crashing, soaring and moving](https://www.nature.com/articles/d41586-022-00926-6)
+- Apr 20 - [Fly.io (YC W20) Is Hiring Platform Engineers](https://fly.io/jobs/platform-product-engineer/)
+- Apr 20 - [That time Sony installed rootkit software on thousands of computers [video]](https://www.youtube.com/watch?v=imMRzBzQm1U)
+- Apr 20 - [Show HN: Favicons for HN](https://gist.github.com/frabert/48b12088441f6195ea9292c2a5a77e3a)
+- Apr 20 - [Le Corbusier's project Plan Voisin – a radical urban design for Paris from 1925](https://www.clemensgritl.com/video)
+- Apr 20 - [Uranus should be NASA’s top planetary target – report](https://www.science.org/content/article/uranus-should-be-nasa-s-top-planetary-target-influential-report-finds)
 <!--END_SECTION:hn-->
 
 <!--
