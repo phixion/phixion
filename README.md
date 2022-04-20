@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 20 - [Show HN: Job board to find venture capital jobs](https://venturecapitalcareers.com/)
-- Apr 20 - [Utilities Want to Convert Coal Plants to Nuclear; Skeptics Abound](https://www.wsj.com/articles/utilities-want-to-convert-coal-plants-to-nuclear-skeptics-abound-11650279600)
-- Apr 20 - [Detailed Assemblies for an Airtight Small Home](https://www.finehomebuilding.com/2022/04/19/detailed-assemblies-for-an-airtight-small-home)
-- Apr 20 - [Nvidia: GPUs can do better chip design in a few days than 10 man year](https://www.hpcwire.com/2022/04/18/nvidia-rd-chief-on-how-ai-is-improving-chip-design/)
-- Apr 19 - [Framework Laptop Mainboard](https://github.com/FrameworkComputer/Mainboard)
+- Apr 20 - [Opvia (YC S20) Is Hiring in London](https://airtable.com/shrhv1yYtcMtPskra)
+- Apr 20 - [QEMU Version 7.0.0 Released](https://www.qemu.org/2022/04/19/qemu-7-0-0/)
+- Apr 20 - [Double ridge formation over shallow water sills on Jupiter’s moon Europa](https://www.nature.com/articles/s41467-022-29458-3)
+- Apr 20 - [Faster Geospatial Enrichment: PostgreSQL vs. ClickHouse vs. BigQuery](https://tech.marksblogg.com/faster-geospatial-enrichment.html)
+- Apr 20 - [Global population is crashing, soaring and moving](https://www.nature.com/articles/d41586-022-00926-6)
 <!--END_SECTION:hn-->
 
 <!--
