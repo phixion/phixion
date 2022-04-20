@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 20 - [Fly.io (YC W20) Is Hiring Platform Engineers](https://fly.io/jobs/platform-product-engineer/)
-- Apr 20 - [That time Sony installed rootkit software on thousands of computers [video]](https://www.youtube.com/watch?v=imMRzBzQm1U)
-- Apr 20 - [Show HN: Favicons for HN](https://gist.github.com/frabert/48b12088441f6195ea9292c2a5a77e3a)
-- Apr 20 - [Le Corbusier's project Plan Voisin – a radical urban design for Paris from 1925](https://www.clemensgritl.com/video)
-- Apr 20 - [Uranus should be NASA’s top planetary target – report](https://www.science.org/content/article/uranus-should-be-nasa-s-top-planetary-target-influential-report-finds)
+- Apr 20 - [The Swimming of a Dead Fish (2018)](https://fyfluiddynamics.com/2018/07/when-i-was-a-child-my-father-would-take-me-trout/)
+- Apr 20 - [A 4-year-old can run errands alone and not just on reality TV](https://www.npr.org/sections/goatsandsoda/2022/04/20/1093153651/a-4-year-old-can-run-errands-alone-and-not-just-on-reality-tv)
+- Apr 20 - [QEMU 7.0](https://wiki.qemu.org/ChangeLog/7.0)
+- Apr 20 - [Show HN: I built a website to find nearby cafes to work remotely from](https://workmode.co)
+- Apr 20 - [Go Developer Survey 2021 Results](https://go.dev/blog/survey2021-results)
 <!--END_SECTION:hn-->
 
 <!--
