@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 20 - [Show HN: Job board to find venture capital jobs](https://venturecapitalcareers.com/)
+- Apr 20 - [Utilities Want to Convert Coal Plants to Nuclear; Skeptics Abound](https://www.wsj.com/articles/utilities-want-to-convert-coal-plants-to-nuclear-skeptics-abound-11650279600)
+- Apr 20 - [Detailed Assemblies for an Airtight Small Home](https://www.finehomebuilding.com/2022/04/19/detailed-assemblies-for-an-airtight-small-home)
+- Apr 20 - [Nvidia: GPUs can do better chip design in a few days than 10 man year](https://www.hpcwire.com/2022/04/18/nvidia-rd-chief-on-how-ai-is-improving-chip-design/)
 - Apr 19 - [Framework Laptop Mainboard](https://github.com/FrameworkComputer/Mainboard)
-- Apr 19 - [Testing consistency of rqlite](https://github.com/wildarch/jepsen.rqlite/blob/main/doc/blog.md)
-- Apr 19 - [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- Apr 19 - [Can you be sure to clear a line at Tetris?](https://a3nm.net/blog/adversarial_tetris.html)
-- Apr 19 - [The absurd complexity of server-side rendering](https://gist.github.com/Widdershin/98fd4f0e416e8eb2906d11fd1da62984)
 <!--END_SECTION:hn-->
 
 <!--
