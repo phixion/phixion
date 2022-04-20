@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 19 - [Local detection of dark matter with future missions to Uranus and Neptune](https://arxiv.org/abs/2204.07242)
-- Apr 19 - [How DALL-E 2 Works](https://www.assemblyai.com/blog/how-dall-e-2-actually-works/)
-- Apr 19 - [Is Twitter biased against conservatives? A Study](https://psyarxiv.com/ay9q5)
-- Apr 19 - [Ajax Battle: XMLHttpRequest vs. the Fetch API](https://blog.openreplay.com/ajax-battle-xmlhttprequest-vs-the-fetch-api/)
-- Apr 19 - [How we upgraded our 4TB PostgreSQL database](https://retool.com/blog/how-we-upgraded-postgresql-database/)
+- Apr 19 - [Framework Laptop Mainboard](https://github.com/FrameworkComputer/Mainboard)
+- Apr 19 - [Testing consistency of rqlite](https://github.com/wildarch/jepsen.rqlite/blob/main/doc/blog.md)
+- Apr 19 - [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- Apr 19 - [Can you be sure to clear a line at Tetris?](https://a3nm.net/blog/adversarial_tetris.html)
+- Apr 19 - [The absurd complexity of server-side rendering](https://gist.github.com/Widdershin/98fd4f0e416e8eb2906d11fd1da62984)
 <!--END_SECTION:hn-->
 
 <!--
