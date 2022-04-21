@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 21 - [How to move from output to outcome focus with business goals](https://www.just3things.com/posts/okrs-from-output-to-outcome)
-- Apr 21 - [A Cautionary Tale from the Decline of SourceForge](https://neverworkintheory.org/2022/04/21/decline-of-sourceforge.html)
-- Apr 21 - [OpenBSD Webzine #9](https://webzine.puffy.cafe/issue-9.html)
-- Apr 21 - [Senators want to mandate anti-piracy technology across the web](https://arstechnica.com/tech-policy/2022/04/if-you-like-youtubes-copyright-takedown-process-youll-love-this-bill/)
-- Apr 21 - [OpenBSD 7.1: fan noise and high temperature solution](https://dataswamp.org/~solene/2022-04-21-openbsd-71-fan-noise-temperature.html)
+- Apr 21 - [How Polyester Bounced Back](https://www.worksinprogress.co/issue/how-polyester-bounced-back/)
+- Apr 21 - [Thatcher killed the UK’s superfast broadband before it even existed](https://webreturn.co.uk/how-thatcher-killed-the-uks-superfast-broadband-before-it-even-existed/)
+- Apr 21 - [Fig now supports JetBrains IDEs](https://fig.io/blog/post/jetbrains-support)
+- Apr 21 - [K-9 Mail 6.000](https://k9mail.app/2022/04/18/K-9-Mail-6.000.html)
+- Apr 21 - [Apple Discontinues macOS Server](https://support.apple.com/en-us/HT208312)
 <!--END_SECTION:hn-->
 
 <!--
