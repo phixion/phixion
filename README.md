@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 21 - [On Facebook, Denying Russian Atrocities in Bucha Is More Popular Than the Truth](https://www.isdglobal.org/digital_dispatches/on-facebook-content-denying-russian-atrocities-in-bucha-is-more-popular-than-the-truth/)
+- Apr 21 - [Seizing the Means of Audio Production](https://www.laphamsquarterly.org/roundtable/seizing-means-audio-production)
+- Apr 21 - [Go will use pdqsort in next release](https://github.com/golang/go/commit/72e77a7f41bbf45d466119444307fd3ae996e257)
+- Apr 21 - [Managing Your Mental Health While Running a Startup](https://future.a16z.com/managing-your-mental-health-while-running-a-startup/)
 - Apr 21 - [HUDS and GUIs: an inspiration resource site featuring Future User Interfaces](https://www.hudsandguis.com)
-- Apr 21 - [Cog: Containers for Machine Learning](https://github.com/replicate/cog)
-- Apr 21 - [Turning scrap copper into beautiful crystals](https://crystalverse.com/copper-acetate-crystals/)
-- Apr 21 - [A YouTuber Purposely Crashed His Plane in California, FAA Says](https://www.nytimes.com/2022/04/20/us/trevor-jacob-youtube-plane-crash.html)
-- Apr 20 - [In defense of swap: common misconceptions](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
 <!--END_SECTION:hn-->
 
 <!--
