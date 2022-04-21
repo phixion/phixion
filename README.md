@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 20 - [US Capitol evacuated due to possible aircraft threat](https://www.airlive.net/breaking-us-capitol-evacuated-due-to-to-possible-aircraft-threat/amp/)
-- Apr 20 - [A plastic bag’s 2000-mile journey](https://www.bloomberg.com/graphics/2022-tesco-recycle-plastic-waste-pledge-falls-short/)
-- Apr 20 - [Emilie (2010)](https://themillions.com/2010/04/emilie.html)
-- Apr 20 - [Serra's Verbs](https://www.nplusonemag.com/online-only/online-only/serras-verbs/)
-- Apr 20 - [California grid set record of 97% renewable power on April 3](https://www.solarpowerworldonline.com/2022/04/california-grid-set-record-with-97-percent-renewable-power-april-3/)
+- Apr 21 - [HUDS and GUIs: an inspiration resource site featuring Future User Interfaces](https://www.hudsandguis.com)
+- Apr 21 - [Cog: Containers for Machine Learning](https://github.com/replicate/cog)
+- Apr 21 - [Turning scrap copper into beautiful crystals](https://crystalverse.com/copper-acetate-crystals/)
+- Apr 21 - [A YouTuber Purposely Crashed His Plane in California, FAA Says](https://www.nytimes.com/2022/04/20/us/trevor-jacob-youtube-plane-crash.html)
+- Apr 20 - [In defense of swap: common misconceptions](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
 <!--END_SECTION:hn-->
 
 <!--
