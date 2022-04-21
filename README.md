@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 21 - [Supabase (YC S20) Is Hiring Site Reliability Engineers](https://boards.greenhouse.io/supabase/jobs/4307459004)
-- Apr 21 - [ASML is buying washing machines to rip out the chips and reuse them](https://www.protocol.com/bulletins/chip-shortage-washing-machines)
-- Apr 21 - [Web color is still broken](https://webcolorisstillbroken.com/)
-- Apr 21 - [Fedora considers deprecating legacy BIOS](https://lwn.net/SubscriberLink/891273/ea9c5e88260a64e9/)
-- Apr 21 - [Ask HN: Buying a domain previously owned by a now deceased person](https://news.ycombinator.com/item?id=31107178)
+- Apr 21 - [How to move from output to outcome focus with business goals](https://www.just3things.com/posts/okrs-from-output-to-outcome)
+- Apr 21 - [A Cautionary Tale from the Decline of SourceForge](https://neverworkintheory.org/2022/04/21/decline-of-sourceforge.html)
+- Apr 21 - [OpenBSD Webzine #9](https://webzine.puffy.cafe/issue-9.html)
+- Apr 21 - [Senators want to mandate anti-piracy technology across the web](https://arstechnica.com/tech-policy/2022/04/if-you-like-youtubes-copyright-takedown-process-youll-love-this-bill/)
+- Apr 21 - [OpenBSD 7.1: fan noise and high temperature solution](https://dataswamp.org/~solene/2022-04-21-openbsd-71-fan-noise-temperature.html)
 <!--END_SECTION:hn-->
 
 <!--
