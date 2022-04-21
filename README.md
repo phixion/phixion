@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 21 - [On Facebook, Denying Russian Atrocities in Bucha Is More Popular Than the Truth](https://www.isdglobal.org/digital_dispatches/on-facebook-content-denying-russian-atrocities-in-bucha-is-more-popular-than-the-truth/)
-- Apr 21 - [Seizing the Means of Audio Production](https://www.laphamsquarterly.org/roundtable/seizing-means-audio-production)
-- Apr 21 - [Go will use pdqsort in next release](https://github.com/golang/go/commit/72e77a7f41bbf45d466119444307fd3ae996e257)
-- Apr 21 - [Managing Your Mental Health While Running a Startup](https://future.a16z.com/managing-your-mental-health-while-running-a-startup/)
-- Apr 21 - [HUDS and GUIs: an inspiration resource site featuring Future User Interfaces](https://www.hudsandguis.com)
+- Apr 21 - [Supabase (YC S20) Is Hiring Site Reliability Engineers](https://boards.greenhouse.io/supabase/jobs/4307459004)
+- Apr 21 - [ASML is buying washing machines to rip out the chips and reuse them](https://www.protocol.com/bulletins/chip-shortage-washing-machines)
+- Apr 21 - [Web color is still broken](https://webcolorisstillbroken.com/)
+- Apr 21 - [Fedora considers deprecating legacy BIOS](https://lwn.net/SubscriberLink/891273/ea9c5e88260a64e9/)
+- Apr 21 - [Ask HN: Buying a domain previously owned by a now deceased person](https://news.ycombinator.com/item?id=31107178)
 <!--END_SECTION:hn-->
 
 <!--
