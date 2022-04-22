@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 22 - [Venmo forces binding arbitration unless you opt out by mail before June 22](https://help.venmo.com/hc/en-us/articles/360062640153)
-- Apr 22 - [Syntakt – 12 Track Drum Computer and Synthesizer](https://www.elektron.se/products/syntakt/)
-- Apr 22 - [Show HN: Algorithmic trading for everyone](https://justfor.fund)
-- Apr 22 - [Running Arduino Firmware on a GOJO LTX-7 Soap Dispenser](https://github.com/zapta/misc/tree/master/soap_dispenser)
-- Apr 22 - [TypeScript and Set Theory](https://ivov.dev/notes/typescript-and-set-theory)
+- Apr 22 - [Emerge Tools is building the future of mobile performance tooling, come join us](https://www.ycombinator.com/companies/emerge-tools/jobs/S8b1ojf-senior-software-engineer)
+- Apr 22 - [Common Lisp Resources](https://lisp-journey.gitlab.io/resources/)
+- Apr 22 - [The Bottom Is Dropping Out of Netflix](https://www.pajiba.com/tv_reviews/the-bottom-is-dropping-out-of-netflix.php)
+- Apr 22 - [Show HN: A programmer's approach to finding gifts](https://givetheperfectgift.co/)
+- Apr 22 - [London’s Lost Ringways](https://www.worksinprogress.co/issue/londons-lost-ringways/)
 <!--END_SECTION:hn-->
 
 <!--
