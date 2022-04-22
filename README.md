@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 22 - [Emerge Tools is building the future of mobile performance tooling, come join us](https://www.ycombinator.com/companies/emerge-tools/jobs/S8b1ojf-senior-software-engineer)
-- Apr 22 - [Common Lisp Resources](https://lisp-journey.gitlab.io/resources/)
-- Apr 22 - [The Bottom Is Dropping Out of Netflix](https://www.pajiba.com/tv_reviews/the-bottom-is-dropping-out-of-netflix.php)
-- Apr 22 - [Show HN: A programmer's approach to finding gifts](https://givetheperfectgift.co/)
-- Apr 22 - [London’s Lost Ringways](https://www.worksinprogress.co/issue/londons-lost-ringways/)
+- Apr 22 - [The end of Insteon and why the smart home keeps faltering](https://staceyoniot.com/the-end-of-insteon-and-why-the-smart-home-keeps-faltering/)
+- Apr 22 - [Letter from the Carnation Company (1987)](https://www.pleacher.com/mp/mlessons/calculus/carnat.html)
+- Apr 22 - [Urbit Takeoff Is Here](https://hatryx-lastud.tlon.network/newsletter/urbit-takeoff-is-here)
+- Apr 22 - [Ask HN: Is Hybrid Working a Ruse?](https://news.ycombinator.com/item?id=31122002)
+- Apr 22 - [The Weird and Wonderful World of AI Art](https://jxmo.notion.site/The-Weird-and-Wonderful-World-of-AI-Art-b9615a2e7278435b98380ff81ae1cf09)
 <!--END_SECTION:hn-->
 
 <!--
