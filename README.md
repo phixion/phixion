@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 22 - [The end of Insteon and why the smart home keeps faltering](https://staceyoniot.com/the-end-of-insteon-and-why-the-smart-home-keeps-faltering/)
-- Apr 22 - [Letter from the Carnation Company (1987)](https://www.pleacher.com/mp/mlessons/calculus/carnat.html)
-- Apr 22 - [Urbit Takeoff Is Here](https://hatryx-lastud.tlon.network/newsletter/urbit-takeoff-is-here)
-- Apr 22 - [Ask HN: Is Hybrid Working a Ruse?](https://news.ycombinator.com/item?id=31122002)
-- Apr 22 - [The Weird and Wonderful World of AI Art](https://jxmo.notion.site/The-Weird-and-Wonderful-World-of-AI-Art-b9615a2e7278435b98380ff81ae1cf09)
+- Apr 22 - [Ask HN: Are there any rural tech communities?](https://news.ycombinator.com/item?id=31126749)
+- Apr 22 - [Geometric deep learning: First steps](https://a-j.gitbook.io/geometric-deep-learning/)
+- Apr 22 - [Meticulous (YC S21) Is Hiring #2 Engineer in London](https://news.ycombinator.com/item?id=31124426)
+- Apr 22 - [Indian lawmaker arrested after tweet criticising Narendra Modi](https://www.theguardian.com/world/2022/apr/22/indian-lawmaker-arrested-after-tweet-criticising-narendra-modi)
+- Apr 22 - [Algorithms for Decision Making [pdf]](https://algorithmsbook.com/files/dm.pdf)
 <!--END_SECTION:hn-->
 
 <!--
