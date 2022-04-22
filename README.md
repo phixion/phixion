@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 21 - [Meta COO Sandberg reportedly tried to block story about Activision CEO Kotick](https://www.cnbc.com/2022/04/21/meta-coo-sandberg-reportedly-tried-to-block-news-story-about-activision-ceo-kotick.html)
-- Apr 21 - [How Twitter's Algorithmic Feed Works](https://transitivebullsh.it/oss-twitter-algorithm-part-1)
-- Apr 21 - [GitHub: Private Profiles beta](https://github.blog/changelog/2022-04-21-private-profiles/)
-- Apr 21 - [How Postgres chooses which index to use for a query](https://pganalyze.com/blog/how-postgres-chooses-index)
-- Apr 21 - [Uyuni – open-source release of SUSE Manager](https://www.uyuni-project.org/)
+- Apr 22 - [Inhalable textile microplastic fibers impair lung repair](https://www.biorxiv.org/content/10.1101/2021.01.25.428144v3)
+- Apr 22 - [Syntakt – 12 Track Drum Computer and Synthesizer](https://www.elektron.se/products/syntakt/)
+- Apr 22 - [Show HN: Algorithmic trading for everyone](https://justfor.fund)
+- Apr 22 - [Running Arduino Firmware on a GOJO LTX-7 Soap Dispenser](https://github.com/zapta/misc/tree/master/soap_dispenser)
+- Apr 22 - [Ask HN: People who use different emails everywhere, who sold you to spammers?](https://news.ycombinator.com/item?id=31116861)
 <!--END_SECTION:hn-->
 
 <!--
