@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 21 - [How Polyester Bounced Back](https://www.worksinprogress.co/issue/how-polyester-bounced-back/)
-- Apr 21 - [Thatcher killed the UK’s superfast broadband before it even existed](https://webreturn.co.uk/how-thatcher-killed-the-uks-superfast-broadband-before-it-even-existed/)
-- Apr 21 - [Fig now supports JetBrains IDEs](https://fig.io/blog/post/jetbrains-support)
-- Apr 21 - [K-9 Mail 6.000](https://k9mail.app/2022/04/18/K-9-Mail-6.000.html)
-- Apr 21 - [Apple Discontinues macOS Server](https://support.apple.com/en-us/HT208312)
+- Apr 21 - [Meta COO Sandberg reportedly tried to block story about Activision CEO Kotick](https://www.cnbc.com/2022/04/21/meta-coo-sandberg-reportedly-tried-to-block-news-story-about-activision-ceo-kotick.html)
+- Apr 21 - [How Twitter's Algorithmic Feed Works](https://transitivebullsh.it/oss-twitter-algorithm-part-1)
+- Apr 21 - [GitHub: Private Profiles beta](https://github.blog/changelog/2022-04-21-private-profiles/)
+- Apr 21 - [How Postgres chooses which index to use for a query](https://pganalyze.com/blog/how-postgres-chooses-index)
+- Apr 21 - [Uyuni – open-source release of SUSE Manager](https://www.uyuni-project.org/)
 <!--END_SECTION:hn-->
 
 <!--
