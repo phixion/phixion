@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 22 - [Inhalable textile microplastic fibers impair lung repair](https://www.biorxiv.org/content/10.1101/2021.01.25.428144v3)
+- Apr 22 - [Venmo forces binding arbitration unless you opt out by mail before June 22](https://help.venmo.com/hc/en-us/articles/360062640153)
 - Apr 22 - [Syntakt – 12 Track Drum Computer and Synthesizer](https://www.elektron.se/products/syntakt/)
 - Apr 22 - [Show HN: Algorithmic trading for everyone](https://justfor.fund)
 - Apr 22 - [Running Arduino Firmware on a GOJO LTX-7 Soap Dispenser](https://github.com/zapta/misc/tree/master/soap_dispenser)
-- Apr 22 - [Ask HN: People who use different emails everywhere, who sold you to spammers?](https://news.ycombinator.com/item?id=31116861)
+- Apr 22 - [TypeScript and Set Theory](https://ivov.dev/notes/typescript-and-set-theory)
 <!--END_SECTION:hn-->
 
 <!--
