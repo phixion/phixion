@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 23 - [Celebrating 40 years of ZX Spectrum](https://github.blog/2022-04-23-zx-spectrum-40-year-anniversary/)
-- Apr 23 - [Stacker (YC S20) Is Hiring a Product Engineer (Remote/Europe)](https://www.stackerhq.com/careers)
-- Apr 23 - [Casync – A Content-Addressable Data Synchronization Tool](https://github.com/systemd/casync)
-- Apr 23 - [DALL·E 2 and The Origin of Vibe Shifts](https://every.to/divinations/dall-e-2-and-the-origin-of-vibe-shifts)
-- Apr 23 - [Funding decentralised/local-first applications for GNOME](https://blog.ergaster.org/post/20220422-decentralised-local-first-applications/)
+- Apr 23 - [DevCycle (YC W14) Is Hiring Feature Flag Automation Engineers](https://devcycle.com/company/careers)
+- Apr 23 - [Discussing Crypto, the Left and Technofeudalism](https://www.yanisvaroufakis.eu/2022/04/23/discussing-crypto-the-left-technofeudalism-with-evgeny-morozov-crypto-syllabus-long-interview/)
+- Apr 23 - [Is XMPP any good? Let's write a client in Tcl, maybe](https://wusspuss.neocities.org/xmpp.html)
+- Apr 23 - [Ask HN: What is the best streaming device for a Lineage OS user?](https://news.ycombinator.com/item?id=31132966)
+- Apr 23 - [Google, Meta and others have to explain algorithms under new EU legislation](https://www.theverge.com/2022/4/23/23036976/eu-digital-services-act-finalized-algorithms-targeted-advertising)
 <!--END_SECTION:hn-->
 
 <!--
