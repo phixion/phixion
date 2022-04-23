@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 22 - [Ask HN: Are there any rural tech communities?](https://news.ycombinator.com/item?id=31126749)
-- Apr 22 - [Geometric deep learning: First steps](https://a-j.gitbook.io/geometric-deep-learning/)
-- Apr 22 - [Meticulous (YC S21) Is Hiring #2 Engineer in London](https://news.ycombinator.com/item?id=31124426)
-- Apr 22 - [Indian lawmaker arrested after tweet criticising Narendra Modi](https://www.theguardian.com/world/2022/apr/22/indian-lawmaker-arrested-after-tweet-criticising-narendra-modi)
-- Apr 22 - [Algorithms for Decision Making [pdf]](https://algorithmsbook.com/files/dm.pdf)
+- Apr 22 - [How SHA-256 Works Step-by-Step](https://blog.boot.dev/cryptography/how-sha-2-works-step-by-step-sha-256/)
+- Apr 22 - [Smarking (YC W15) is hiring a senior ML engineer to scale dynamic pricing](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
+- Apr 22 - [Thinner on Paper](https://thelampmagazine.com/2022/04/21/thinner-on-paper/)
+- Apr 22 - [Should I Use a Carousel?](https://shouldiuseacarousel.com/)
+- Apr 22 - [A Tesla vehicle using ‘Smart Summon’ appears to crash into a $3.5mm private jet](https://www.theverge.com/2022/4/22/23037654/tesla-crash-private-jet-reddit-video-smart-summon)
 <!--END_SECTION:hn-->
 
 <!--
