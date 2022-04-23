@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 23 - [DevCycle (YC W14) Is Hiring Feature Flag Automation Engineers](https://devcycle.com/company/careers)
-- Apr 23 - [Discussing Crypto, the Left and Technofeudalism](https://www.yanisvaroufakis.eu/2022/04/23/discussing-crypto-the-left-technofeudalism-with-evgeny-morozov-crypto-syllabus-long-interview/)
-- Apr 23 - [Is XMPP any good? Let's write a client in Tcl, maybe](https://wusspuss.neocities.org/xmpp.html)
-- Apr 23 - [Ask HN: What is the best streaming device for a Lineage OS user?](https://news.ycombinator.com/item?id=31132966)
-- Apr 23 - [Google, Meta and others have to explain algorithms under new EU legislation](https://www.theverge.com/2022/4/23/23036976/eu-digital-services-act-finalized-algorithms-targeted-advertising)
+- Apr 23 - [Apple M2](https://trends.google.com/trends/explore?q=apple%20m2)
+- Apr 23 - [This AI Does Not Exist](https://thisaidoesnotexist.com/)
+- Apr 23 - [Building the Inverse Jim Cramer Index](https://quantbase.medium.com/the-inverse-jim-cramer-index-d314c359ed8e)
+- Apr 23 - [Android loses 8% of its global OS market share in five years](https://stockapps.com/blog/android-loses-8-of-its-global-os-market-share-in-five-years/)
+- Apr 23 - [The digital ranging system that measured the distance to the Apollo spacecraft](https://www.righto.com/2022/04/the-digital-ranging-system-that.html)
 <!--END_SECTION:hn-->
 
 <!--
