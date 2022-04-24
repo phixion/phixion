@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 24 - [Software Mise En Place](https://buttondown.email/hillelwayne/archive/software-mise-en-place/)
-- Apr 24 - [The temptation of writing shell scripts, illustrated](https://utcc.utoronto.ca/~cks/space/blog/programming/ShellScriptTemptation)
-- Apr 24 - [How Nix and NixOS Get So Close to Perfect](https://christine.website/talks/nixos-pain-2021-11-10)
-- Apr 24 - [Extracting WhatsApp Messages from an iOS Backup](https://yasoob.me/posts/extracting-whatsapp-messages-from-ios-backup/)
-- Apr 24 - [Will Japan run on ammonia? Major chemical firms want to build the infrastructure](https://cen.acs.org/business/petrochemicals/Japan-run-ammonia/100/i14)
+- Apr 24 - [Tesorio (YC S15) Is Hiring a Head of Infra and Platform and a VP of Engineering](https://www.tesorio.com/careers#job-openings)
+- Apr 24 - [Internet spring cleaning: How to delete Instagram, Facebook and other accounts](https://blog.mozilla.org/en/internet-culture/how-to-delete-instagram-facebook-online-accounts/)
+- Apr 24 - [DaVinci Resolve 18](https://www.blackmagicdesign.com/products/davinciresolve/whatsnew)
+- Apr 24 - [Ultra-light liquid hydrogen tanks promise to make jet fuel obsolete](https://newatlas.com/aircraft/hypoint-gtl-lightweight-liquid-hydrogen-tank/)
+- Apr 24 - [Ask HN: Why are there so few fanless laptops with Intel/AMD?](https://news.ycombinator.com/item?id=31142209)
 <!--END_SECTION:hn-->
 
 <!--
