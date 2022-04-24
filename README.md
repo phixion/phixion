@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 23 - [Arizona’s Dry Future Begins as Colorado River Shrinks](https://www.wsj.com/articles/arizonas-dry-future-begins-as-colorado-river-shrinks-11650718801)
-- Apr 23 - [Kable (YC W22) Is Hiring Founding Engineers (Remote)](https://www.ycombinator.com/companies/kable/jobs/h3wKq6F-founding-backend-software-engineer)
-- Apr 23 - [Firefox on Ubuntu 22.04 from .deb (not from snap)](https://balintreczey.hu/blog/firefox-on-ubuntu-22-04-from-deb-not-from-snap/)
-- Apr 23 - [Inventing Postscript, the Tech That Took the Pain Out of Printing (1988)](https://spectrum.ieee.org/adobe-postscript)
-- Apr 23 - [The Applesoft Compiler (TASC): We have the source code, in a sense](https://devblogs.microsoft.com/oldnewthing/20220419-00/?p=106496)
+- Apr 24 - [Extracting WhatsApp Messages from an iOS Backup](https://yasoob.me/posts/extracting-whatsapp-messages-from-ios-backup/)
+- Apr 24 - [LA company to pay $22.5m after allegedly faking hundreds of Covid test results](https://abc7.com/settlement-covid-test-results/11777433/)
+- Apr 24 - [Why didn't our ancient ancestors get cavities?](https://sciencenorway.no/animal-kingdom-apes-history/why-didnt-our-ancient-ancestors-get-cavities/2010848)
+- Apr 24 - [Will Japan Run on Ammonia?](https://cen.acs.org/business/petrochemicals/Japan-run-ammonia/100/i14)
+- Apr 23 - [Cryptocurrency as a Cybersecurity Alarm](https://stakedy.com/long/cryptocurrency-as-a-cybersecurity-alarm.html)
 <!--END_SECTION:hn-->
 
 <!--
