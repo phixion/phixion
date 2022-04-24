@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 24 - [Software Mise En Place](https://buttondown.email/hillelwayne/archive/software-mise-en-place/)
+- Apr 24 - [The temptation of writing shell scripts, illustrated](https://utcc.utoronto.ca/~cks/space/blog/programming/ShellScriptTemptation)
+- Apr 24 - [How Nix and NixOS Get So Close to Perfect](https://christine.website/talks/nixos-pain-2021-11-10)
 - Apr 24 - [Extracting WhatsApp Messages from an iOS Backup](https://yasoob.me/posts/extracting-whatsapp-messages-from-ios-backup/)
-- Apr 24 - [LA company to pay $22.5m after allegedly faking hundreds of Covid test results](https://abc7.com/settlement-covid-test-results/11777433/)
-- Apr 24 - [Why didn't our ancient ancestors get cavities?](https://sciencenorway.no/animal-kingdom-apes-history/why-didnt-our-ancient-ancestors-get-cavities/2010848)
-- Apr 24 - [Will Japan Run on Ammonia?](https://cen.acs.org/business/petrochemicals/Japan-run-ammonia/100/i14)
-- Apr 23 - [Cryptocurrency as a Cybersecurity Alarm](https://stakedy.com/long/cryptocurrency-as-a-cybersecurity-alarm.html)
+- Apr 24 - [Will Japan run on ammonia? Major chemical firms want to build the infrastructure](https://cen.acs.org/business/petrochemicals/Japan-run-ammonia/100/i14)
 <!--END_SECTION:hn-->
 
 <!--
