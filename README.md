@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 23 - [Apple M2](https://trends.google.com/trends/explore?q=apple%20m2)
-- Apr 23 - [This AI Does Not Exist](https://thisaidoesnotexist.com/)
-- Apr 23 - [Building the Inverse Jim Cramer Index](https://quantbase.medium.com/the-inverse-jim-cramer-index-d314c359ed8e)
-- Apr 23 - [Android loses 8% of its global OS market share in five years](https://stockapps.com/blog/android-loses-8-of-its-global-os-market-share-in-five-years/)
-- Apr 23 - [The digital ranging system that measured the distance to the Apollo spacecraft](https://www.righto.com/2022/04/the-digital-ranging-system-that.html)
+- Apr 23 - [Arizona’s Dry Future Begins as Colorado River Shrinks](https://www.wsj.com/articles/arizonas-dry-future-begins-as-colorado-river-shrinks-11650718801)
+- Apr 23 - [Kable (YC W22) Is Hiring Founding Engineers (Remote)](https://www.ycombinator.com/companies/kable/jobs/h3wKq6F-founding-backend-software-engineer)
+- Apr 23 - [Firefox on Ubuntu 22.04 from .deb (not from snap)](https://balintreczey.hu/blog/firefox-on-ubuntu-22-04-from-deb-not-from-snap/)
+- Apr 23 - [Inventing Postscript, the Tech That Took the Pain Out of Printing (1988)](https://spectrum.ieee.org/adobe-postscript)
+- Apr 23 - [The Applesoft Compiler (TASC): We have the source code, in a sense](https://devblogs.microsoft.com/oldnewthing/20220419-00/?p=106496)
 <!--END_SECTION:hn-->
 
 <!--
