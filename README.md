@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 24 - [Tesorio (YC S15) Is Hiring a Head of Infra and Platform and a VP of Engineering](https://www.tesorio.com/careers#job-openings)
-- Apr 24 - [Internet spring cleaning: How to delete Instagram, Facebook and other accounts](https://blog.mozilla.org/en/internet-culture/how-to-delete-instagram-facebook-online-accounts/)
-- Apr 24 - [DaVinci Resolve 18](https://www.blackmagicdesign.com/products/davinciresolve/whatsnew)
-- Apr 24 - [Ultra-light liquid hydrogen tanks promise to make jet fuel obsolete](https://newatlas.com/aircraft/hypoint-gtl-lightweight-liquid-hydrogen-tank/)
-- Apr 24 - [Ask HN: Why are there so few fanless laptops with Intel/AMD?](https://news.ycombinator.com/item?id=31142209)
+- Apr 24 - [Show HN: WorkOrPay: Set goals. Form contracts. Pay the penalty if you fail](https://www.workorpay.com/)
+- Apr 24 - [Google gives Europe a ‘reject all’ button for tracking cookies](https://www.theverge.com/2022/4/21/23035289/google-reject-all-cookie-button-eu-privacy-data-laws)
+- Apr 24 - [A Woman Who Survived the Lowest Body Temperature Ever](https://www.atlasobscura.com/articles/the-woman-who-survived-the-lowest-body-temperature-ever)
+- Apr 24 - [Patching an Embedded Synthesiser OS from 1996 with Ghidra](http://blog.petersobot.com/patching-the-k2500)
+- Apr 24 - [What Is a Major Chord?](https://www.jefftk.com/p/what-is-a-major-chord)
 <!--END_SECTION:hn-->
 
 <!--
