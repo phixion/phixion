@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 24 - [The TTY Demystified](https://www.linusakesson.net/programming/tty/)
-- Apr 24 - [The Intuition Behind Bernoulli's Principle (2021) [video]](https://www.youtube.com/watch?v=6vGxSoK0QTY)
-- Apr 24 - [The EU-US privacy shield 2.0 is political nonsense (again)](https://blog.simpleanalytics.com/eu-us-privacy-shield-2-0-is-again-a-political-show)
-- Apr 24 - [Trove of tumour genomes offers clues to cancer origins](https://www.nature.com/articles/d41586-022-01095-2)
-- Apr 24 - [Drones have transformed blood delivery in Rwanda](https://www.wired.com/story/drones-have-transformed-blood-delivery-in-rwanda/)
+- Apr 24 - [Generating the pseudo-random codes that measured distance to Apollo spacecraft](https://righto.com/apollo/ranging-xor.html)
+- Apr 24 - [Maximum Flow and Minimum-Cost Flow in Almost-Linear Time](https://arxiv.org/abs/2203.00671)
+- Apr 24 - [Do the same mechanisms that create complex life also create complex technology?](https://mattsclancy.substack.com/p/progress-in-programming-as-evolution-398)
+- Apr 24 - [How easy is it in 2022 to find a SHA1 collision?](https://crypto.stackexchange.com/questions/99767/how-easy-is-it-in-2022-to-find-a-sha1-collision)
+- Apr 24 - [Perpetual Bond](https://en.wikipedia.org/wiki/Perpetual_bond)
 <!--END_SECTION:hn-->
 
 <!--
