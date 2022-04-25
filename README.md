@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 25 - [How macOS manages M1 CPU cores](https://eclecticlight.co/2022/04/25/how-macos-manages-m1-cpu-cores/)
-- Apr 25 - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
-- Apr 25 - [Why LSP?](https://matklad.github.io//2022/04/25/why-lsp.html)
-- Apr 25 - [Swedish slow TV : The great moose migration [Live]](https://www.svtplay.se/video/34674835/den-stora-algvandringen/den-stora-algvandringen-sasong-4-24-apr-00-00)
-- Apr 25 - [Some things that make shell scripts have performance issues](https://utcc.utoronto.ca/~cks/space/blog/programming/ShellScriptsAndSpeed)
+- Apr 25 - [Bitmovin (YC S15) Is Hiring Junior Sales and Customer-Facing Roles](https://bitmovin.com/careers/)
+- Apr 25 - [Ask HN: Have you used SQLite as a primary database?](https://news.ycombinator.com/item?id=31152490)
+- Apr 25 - [GitHub Packages and Pages Down](https://www.githubstatus.com/incidents/b40k7ckrs7sp)
+- Apr 25 - [Japan's Hometown Tax](https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/)
+- Apr 25 - [Announcing the Hare programming language](https://harelang.org/blog/2022-04-25-announcing-hare/)
 <!--END_SECTION:hn-->
 
 <!--
