@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 25 - [Bitmovin (YC S15) Is Hiring Junior Sales and Customer-Facing Roles](https://bitmovin.com/careers/)
-- Apr 25 - [Ask HN: Have you used SQLite as a primary database?](https://news.ycombinator.com/item?id=31152490)
-- Apr 25 - [GitHub Packages and Pages Down](https://www.githubstatus.com/incidents/b40k7ckrs7sp)
-- Apr 25 - [Japan's Hometown Tax](https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/)
-- Apr 25 - [Announcing the Hare programming language](https://harelang.org/blog/2022-04-25-announcing-hare/)
+- Apr 25 - [Study for best font for online reading: no single answer](https://www.nngroup.com/articles/best-font-for-online-reading/)
+- Apr 25 - [Cryogenic CO2 could end rail delays caused by leaves on the line](https://www.sheffield.ac.uk/news/leaf-busting-tech-could-end-rail-delays-caused-leaves-line)
+- Apr 25 - [The Machine Learning Job Market](https://evjang.com/2022/04/25/rome.html)
+- Apr 25 - [Launch HN: Echoes HQ (YC S21) – Developer-friendly activity reports](https://news.ycombinator.com/item?id=31155542)
+- Apr 25 - [Can brain scans reveal behaviour? Study says not yet](https://www.nature.com/articles/d41586-022-00767-3)
 <!--END_SECTION:hn-->
 
 <!--
