@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 25 - [Sorbet and 100% cov makes Ruby refactoring possible](https://brandur.org/fragments/large-scale-ruby-refactoring)
-- Apr 25 - [Tara AI is building a smarter alternative to Jira and hiring a growth lead](https://jobs.gohire.io/tara-ai-wyqbsv6l/growth-lead-84924/)
-- Apr 25 - [Hexells – Self-Organising System of Cells Drawing Textures [WebGL]](https://znah.net/hexells/)
-- Apr 25 - [Multimodal Art](https://multimodal.art/)
-- Apr 25 - [Ask HN: What happened to Twitter poison pill?](https://news.ycombinator.com/item?id=31157969)
+- Apr 25 - [Manganese Could Be the Secret Behind Truly Mass-Market EVs](https://spectrum.ieee.org/manganese-ev-batteries)
+- Apr 25 - [European Wind-Energy Sector Hit in Wave of Hacks](https://www.wsj.com/articles/european-wind-energy-sector-hit-in-wave-of-hacks-11650879000)
+- Apr 25 - [WebAuthn Browser Support](https://developers.yubico.com/WebAuthn/WebAuthn_Browser_Support/)
+- Apr 25 - [GoldWave Open Source Goal](https://www.goldwave.com/osgoal/)
+- Apr 25 - [Show HN: PyNeuraLogic: Python Differentiable Logic Programs](https://github.com/LukasZahradnik/PyNeuraLogic)
 <!--END_SECTION:hn-->
 
 <!--
