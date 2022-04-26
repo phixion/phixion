@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 26 - [Firezone (YC W22) Is Hiring Engineers to Build an Open-Source Security Platform](https://www.ycombinator.com/companies/firezone/jobs)
-- Apr 26 - [Ask HN: What happens with stock grants for Twitter employees?](https://news.ycombinator.com/item?id=31166225)
-- Apr 26 - [Rotary Un-Smartphone Kit](https://skysedge.com/unsmartphones/RUSP/index.html)
-- Apr 26 - [Things I can’t do on macOS which I can do on Ubuntu](https://shkspr.mobi/blog/2020/04/things-i-cant-do-on-macos-which-i-can-do-on-ubuntu/)
-- Apr 26 - [Poll: What book should I write?](https://news.ycombinator.com/item?id=31165257)
+- Apr 26 - [3,200-Year-Old Egyptian Tablet Records Excuses for Why People Missed Work](https://www.openculture.com/2022/02/3200-year-old-egyptian-tablet-shows-why-people-missed-work-the-scorpion-bit-him-brewing-beer-more.html)
+- Apr 26 - [Let's talk about supply chain attacks and backdoored dependencies](https://kerkour.com/supply-chain-attacks-and-backdoored-dependencies)
+- Apr 26 - [macOS 8 running entirely in the browser](https://macos8.app/)
+- Apr 26 - [Indigenous Myth and Science: From Egypt to New Zealand](https://lawrencekrauss.substack.com/p/indigenous-myth-and-science-from)
+- Apr 26 - [Reloadium – Advanced hot reloading for Python](https://github.com/reloadware/reloadium)
 <!--END_SECTION:hn-->
 
 <!--
