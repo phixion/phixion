@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 25 - [Manganese Could Be the Secret Behind Truly Mass-Market EVs](https://spectrum.ieee.org/manganese-ev-batteries)
-- Apr 25 - [European Wind-Energy Sector Hit in Wave of Hacks](https://www.wsj.com/articles/european-wind-energy-sector-hit-in-wave-of-hacks-11650879000)
-- Apr 25 - [WebAuthn Browser Support](https://developers.yubico.com/WebAuthn/WebAuthn_Browser_Support/)
-- Apr 25 - [GoldWave Open Source Goal](https://www.goldwave.com/osgoal/)
-- Apr 25 - [Show HN: PyNeuraLogic: Python Differentiable Logic Programs](https://github.com/LukasZahradnik/PyNeuraLogic)
+- Apr 26 - [Tell HN: Amazon.com is limiting purchases of Audio CDs to four-per-week](https://news.ycombinator.com/item?id=31163300)
+- Apr 26 - [Hush, a modern shell scripting language](https://hush-shell.github.io/)
+- Apr 26 - [Show HN: We launched a new web browser](https://news.ycombinator.com/item?id=31163077)
+- Apr 26 - [PSA: Git.io links will stop working in 3 days (29 of April 2022)](https://github.blog/changelog/2022-04-25-git-io-deprecation/)
+- Apr 26 - [Manara (YC W21) Is Hiring a senior front end engineer](https://manara.breezy.hr/p/1cebbb12d138)
 <!--END_SECTION:hn-->
 
 <!--
