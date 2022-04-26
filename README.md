@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 26 - [Tools for a Culture of Writing (2021)](https://matt.blwt.io/post/tools-for-a-culture-of-writing/)
+- Apr 26 - [Electronics Explained: Fundamentals for Engineers, Technicians, and Makers](https://www.sciencedirect.com/book/9780128116418/electronics-explained)
+- Apr 26 - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
 - Apr 26 - [Tell HN: Amazon.com is limiting purchases of Audio CDs to four-per-week](https://news.ycombinator.com/item?id=31163300)
 - Apr 26 - [Hush, a modern shell scripting language](https://hush-shell.github.io/)
-- Apr 26 - [Show HN: We launched a new web browser](https://news.ycombinator.com/item?id=31163077)
-- Apr 26 - [PSA: Git.io links will stop working in 3 days (29 of April 2022)](https://github.blog/changelog/2022-04-25-git-io-deprecation/)
-- Apr 26 - [Manara (YC W21) Is Hiring a senior front end engineer](https://manara.breezy.hr/p/1cebbb12d138)
 <!--END_SECTION:hn-->
 
 <!--
