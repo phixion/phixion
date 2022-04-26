@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 26 - [3,200-Year-Old Egyptian Tablet Records Excuses for Why People Missed Work](https://www.openculture.com/2022/02/3200-year-old-egyptian-tablet-shows-why-people-missed-work-the-scorpion-bit-him-brewing-beer-more.html)
-- Apr 26 - [Let's talk about supply chain attacks and backdoored dependencies](https://kerkour.com/supply-chain-attacks-and-backdoored-dependencies)
-- Apr 26 - [macOS 8 running entirely in the browser](https://macos8.app/)
-- Apr 26 - [Indigenous Myth and Science: From Egypt to New Zealand](https://lawrencekrauss.substack.com/p/indigenous-myth-and-science-from)
-- Apr 26 - [Reloadium – Advanced hot reloading for Python](https://github.com/reloadware/reloadium)
+- Apr 26 - [Why Pessimism Sounds Smart](https://rootsofprogress.org/why-pessimism-sounds-smart)
+- Apr 26 - [Stress hormone reduces altruistic behavior in empathetic people](https://neurosciencenews.com/cortisol-altrusim-empathy-20262/)
+- Apr 26 - [An update on the campaign to defend serious math education in California](https://scottaaronson.blog/?p=6389)
+- Apr 26 - [Slack’s Incident on 2-22-22](https://slack.engineering/slacks-incident-on-2-22-22/)
+- Apr 26 - [Show HN: Caddy v2.5.0](https://github.com/caddyserver/caddy/releases/tag/v2.5.0)
 <!--END_SECTION:hn-->
 
 <!--
