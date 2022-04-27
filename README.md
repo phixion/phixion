@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 26 - [Why Pessimism Sounds Smart](https://rootsofprogress.org/why-pessimism-sounds-smart)
+- Apr 26 - [How to write a Git commit message (2014)](https://cbea.ms/git-commit/)
+- Apr 26 - [Finley (YC W21) is a B2B fintech hiring in sales and eng (US remote)](https://www.finleycms.com/work-at-finley)
+- Apr 26 - [Alphabet Announces First Quarter 2022 Results](https://abc.xyz/investor/static/pdf/2022Q1_alphabet_earnings_release.pdf?cache=d9e9d97)
 - Apr 26 - [Stress hormone reduces altruistic behavior in empathetic people](https://neurosciencenews.com/cortisol-altrusim-empathy-20262/)
 - Apr 26 - [An update on the campaign to defend serious math education in California](https://scottaaronson.blog/?p=6389)
-- Apr 26 - [Slack’s Incident on 2-22-22](https://slack.engineering/slacks-incident-on-2-22-22/)
-- Apr 26 - [Show HN: Caddy v2.5.0](https://github.com/caddyserver/caddy/releases/tag/v2.5.0)
 <!--END_SECTION:hn-->
 
 <!--
