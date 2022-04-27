@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 27 - [Twitter buyout puts Mastodon into spotlight](https://blog.joinmastodon.org/2022/04/twitter-buyout-puts-mastodon-into-spotlight/)
-- Apr 27 - [Google Scanned Objects: A High-Quality Dataset of 3D Scanned Household Items](https://arxiv.org/abs/2204.11918)
-- Apr 27 - [Textsynth: Bellard's free GPT-NeoX-20B, GPT-J playground and paid API](https://textsynth.com/playground.html)
-- Apr 26 - [How to write a Git commit message (2014)](https://cbea.ms/git-commit/)
-- Apr 26 - [Finley (YC W21) is a B2B fintech hiring in sales and eng (US remote)](https://www.finleycms.com/work-at-finley)
+- Apr 27 - [FFmpeg now supports JPEG XL](https://git.videolan.org/?p=ffmpeg.git;a=commit;h=0008c159562b877700cd9b7c96f941de4ee69af5)
+- Apr 27 - [Four Eras of JavaScript Frameworks](https://www.pzuraq.com/blog/four-eras-of-javascript-frameworks)
+- Apr 27 - [Translate a message 10 times into different languages and back](https://loneliness.one/translate)
+- Apr 27 - [Khan Academy launches Khan World School online high school](https://asuprep.asu.edu/khan-world-school/)
+- Apr 27 - [Deutsche Bank whistleblower found dead in LA's Lincoln Park](https://heysocal.com/2022/04/26/deutsche-bank-whistleblower-found-dead-in-las-lincoln-park/)
 <!--END_SECTION:hn-->
 
 <!--
