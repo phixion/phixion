@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 27 - [Show HN: Loodio – A Bathroom Privacy Device](https://news.ycombinator.com/item?id=31181237)
-- Apr 27 - [I Got a Computer Science Degree in 3 Months for Less Than $5000 (2020)](https://miguelrochefort.com/blog/cs-degree/)
-- Apr 27 - [Fintech App Switch Leaks Users’ Transactions and Personal IDs](https://vpnoverview.com/news/fintech-app-switch-leaks-users-transactions-personal-ids/)
-- Apr 27 - [90% of nurses considering leaving the profession in the next year](https://www.healthcareitnews.com/news/report-90-nurses-considering-leaving-profession-next-year)
-- Apr 27 - [Ask HN: What tech companies/industries will do well in a recession?](https://news.ycombinator.com/item?id=31180508)
+- Apr 27 - [Interactive, file-level Time Machine-like tool for ZFS](https://github.com/kimono-koans/httm)
+- Apr 27 - [Is it the “New York Review of Each Other’s Books”?](https://danielstone.substack.com/p/new-york-review-of-books-of-each-others-books)
+- Apr 27 - [Public Money, Public Code](https://publiccode.eu/)
+- Apr 27 - [Why companies move off Heroku (besides the cost)](https://blog.porter.run/why-companies-move-off-heroku/)
+- Apr 27 - [Boeing looked for flaws in its Dreamliner and couldn’t stop finding them](https://www.wsj.com/articles/boeing-dreamliner-delays-faa-defects-11651067545)
 <!--END_SECTION:hn-->
 
 <!--
