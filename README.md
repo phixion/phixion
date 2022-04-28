@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 28 - [Testing my System Code in /usr/ Without Modifying /usr/](https://0pointer.net/blog/testing-my-system-code-in-usr-without-modifying-usr.html)
-- Apr 28 - [Using LSP in Emacs and Debian](https://anarc.at/blog/2022-04-27-lsp-in-debian/)
-- Apr 28 - [Few-Shot Head Swapping in the Wild](https://jmliu88.github.io/HeSer/)
-- Apr 28 - [Do developers think Web3 will build a better internet?](https://stackoverflow.blog/2022/04/20/new-data-developers-web3/)
-- Apr 28 - [Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=31187695)
+- Apr 28 - [OpenRA: Open-source RTS game engine for games such as Command and Conquer](https://github.com/OpenRA/OpenRA)
+- Apr 28 - [Gnome patent troll stripped of patent rights](https://blog.opensource.org/gnome-patent-troll-stripped-of-patent-rights/)
+- Apr 28 - [EU considers banning use of up to 12,000 toxic chemicals](https://www.upi.com/Health_News/2022/04/26/europe-toxic-chemicals-ban-eu/8111650971773/)
+- Apr 28 - [Core dumps, feedback loops, and a game of telephone](https://dubroy.com/blog/core-dumps-feedback-loops-and-a-game-of-telephone/)
+- Apr 28 - [Inform 7 v10.1.0 is now open-source](https://intfiction.org/t/inform-7-v10-1-0-is-now-open-source/55674)
 <!--END_SECTION:hn-->
 
 <!--
