@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 27 - [How I put my whole life into a single database](https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database)
-- Apr 27 - [EasyPost (YC S13) Is Hiring Remote](https://www.easypost.com/careers)
-- Apr 27 - [Show HN: Create awkward situations with a fake iMessage Popup](https://github.com/adnanaga/pushy)
-- Apr 27 - [The Kia Instrument](https://www.kia.com/us/en/movement/our-instrument)
-- Apr 27 - [North Koreans are jailbreaking phones to access forbidden media](https://www.wired.com/story/north-korean-phone-jailbreakers/)
+- Apr 28 - [Testing my System Code in /usr/ Without Modifying /usr/](https://0pointer.net/blog/testing-my-system-code-in-usr-without-modifying-usr.html)
+- Apr 28 - [Using LSP in Emacs and Debian](https://anarc.at/blog/2022-04-27-lsp-in-debian/)
+- Apr 28 - [Few-Shot Head Swapping in the Wild](https://jmliu88.github.io/HeSer/)
+- Apr 28 - [Do developers think Web3 will build a better internet?](https://stackoverflow.blog/2022/04/20/new-data-developers-web3/)
+- Apr 28 - [Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=31187695)
 <!--END_SECTION:hn-->
 
 <!--
