@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 27 - [Interactive, file-level Time Machine-like tool for ZFS](https://github.com/kimono-koans/httm)
-- Apr 27 - [Is it the “New York Review of Each Other’s Books”?](https://danielstone.substack.com/p/new-york-review-of-books-of-each-others-books)
-- Apr 27 - [Public Money, Public Code](https://publiccode.eu/)
-- Apr 27 - [Why companies move off Heroku (besides the cost)](https://blog.porter.run/why-companies-move-off-heroku/)
-- Apr 27 - [Boeing looked for flaws in its Dreamliner and couldn’t stop finding them](https://www.wsj.com/articles/boeing-dreamliner-delays-faa-defects-11651067545)
+- Apr 27 - [How I put my whole life into a single database](https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database)
+- Apr 27 - [EasyPost (YC S13) Is Hiring Remote](https://www.easypost.com/careers)
+- Apr 27 - [Show HN: Create awkward situations with a fake iMessage Popup](https://github.com/adnanaga/pushy)
+- Apr 27 - [The Kia Instrument](https://www.kia.com/us/en/movement/our-instrument)
+- Apr 27 - [North Koreans are jailbreaking phones to access forbidden media](https://www.wired.com/story/north-korean-phone-jailbreakers/)
 <!--END_SECTION:hn-->
 
 <!--
