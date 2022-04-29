@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 29 - [MutableAI (YC W22) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/mutableai/jobs/qnjnCR3-founding-full-stack-software-engineer)
-- Apr 29 - [Petal Search: lots of good results, low spam](https://petalsearch.com)
-- Apr 29 - [Git.io: GitHub will maintain active links in a read-only state](https://github.blog/changelog/2022-04-25-git-io-deprecation/?#changelog-64536)
-- Apr 29 - [Swedbank customers positive balance turned into negative due to an update](https://news.ycombinator.com/item?id=31203282)
-- Apr 29 - [Ask HN: Dealing with Career Mistakes](https://news.ycombinator.com/item?id=31203186)
+- Apr 29 - [Actual is going open-source](https://actualbudget.com/open-source)
+- Apr 29 - [Show HN: Global Income Coin – Crypto UBI Project Backed by Gitlab CEO](https://www.globalincomecoin.com/)
+- Apr 29 - [Today’s CEOs are essentially carnival barkers (2021)](https://prospect.org/culture/books/hucksters-on-parade-todays-ceos/)
+- Apr 29 - [Jepsen: Redpanda 21.10.1](http://jepsen.io/analyses/redpanda-21.10.1)
+- Apr 29 - [The Contractual Impossibility of Unwinding Disney’s Reedy Creek](https://news.bloombergtax.com/tax-insights-and-commentary/the-contractual-impossibility-of-unwinding-disneys-reedy-creek)
 <!--END_SECTION:hn-->
 
 <!--
