@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 29 - [The Brilliance of “nil” in Objective-C](https://collindonnell.com/2022/04/28/the-brilliance-of-nil-in-objective-c/)
-- Apr 29 - [Sturdy (YC W21) Is Hiring (Stockholm, Sweden)](https://getsturdy.com/careers)
-- Apr 29 - [Increased cardiovascular events in Israel during vaccine rollout and third wave](https://www.nature.com/articles/s41598-022-10928-z)
-- Apr 29 - [Correlation Between Mask Compliance and Covid-19 Outcomes in Europe](https://www.cureus.com/articles/93826-correlation-between-mask-compliance-and-covid-19-outcomes-in-europe)
-- Apr 29 - [What Computer Science Programs Should Teach (IMHO)](https://michaeldehaan.substack.com/p/what-computer-science-programs-should)
+- Apr 29 - [MutableAI (YC W22) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/mutableai/jobs/qnjnCR3-founding-full-stack-software-engineer)
+- Apr 29 - [Petal Search: lots of good results, low spam](https://petalsearch.com)
+- Apr 29 - [Git.io: GitHub will maintain active links in a read-only state](https://github.blog/changelog/2022-04-25-git-io-deprecation/?#changelog-64536)
+- Apr 29 - [Swedbank customers positive balance turned into negative due to an update](https://news.ycombinator.com/item?id=31203282)
+- Apr 29 - [Ask HN: Dealing with Career Mistakes](https://news.ycombinator.com/item?id=31203186)
 <!--END_SECTION:hn-->
 
 <!--
