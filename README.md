@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 29 - [Old apps sometimes die](https://mdj.substack.com/p/old-apps-sometimes-die)
-- Apr 29 - [From seawater to drinking water, with the push of a button](https://news.mit.edu/2022/portable-desalination-drinking-water-0428)
-- Apr 29 - [Airbnb’s design to live and work anywhere](https://news.airbnb.com/airbnbs-design-to-live-and-work-anywhere/)
-- Apr 29 - [What a better rust would look like](https://kerkour.com/what-a-better-rust-would-look-like)
-- Apr 29 - [Redox OS 0.7.0](https://www.redox-os.org/news/release-0.7.0/)
+- Apr 29 - [The Brilliance of “nil” in Objective-C](https://collindonnell.com/2022/04/28/the-brilliance-of-nil-in-objective-c/)
+- Apr 29 - [Sturdy (YC W21) Is Hiring (Stockholm, Sweden)](https://getsturdy.com/careers)
+- Apr 29 - [Increased cardiovascular events in Israel during vaccine rollout and third wave](https://www.nature.com/articles/s41598-022-10928-z)
+- Apr 29 - [Correlation Between Mask Compliance and Covid-19 Outcomes in Europe](https://www.cureus.com/articles/93826-correlation-between-mask-compliance-and-covid-19-outcomes-in-europe)
+- Apr 29 - [What Computer Science Programs Should Teach (IMHO)](https://michaeldehaan.substack.com/p/what-computer-science-programs-should)
 <!--END_SECTION:hn-->
 
 <!--
