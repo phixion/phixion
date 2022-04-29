@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 29 - [Ask HN: Is pornography harmful and what effects you noticed from abstaining?](https://news.ycombinator.com/item?id=31199803)
-- Apr 28 - [Bits of Advice I Wish I Had Known](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/)
-- Apr 28 - [The Twelve-Factor App (2011)](https://12factor.net/)
-- Apr 28 - [Details emerge of Air France B777 landing incident](https://www.aerotime.aero/articles/30863-air-france-boeing-777-incident-bea-update)
-- Apr 28 - [Svix (YC W21) Is Hiring a Rust Back End Engineer (Remote)](https://www.svix.com/careers/)
+- Apr 29 - [Old apps sometimes die](https://mdj.substack.com/p/old-apps-sometimes-die)
+- Apr 29 - [From seawater to drinking water, with the push of a button](https://news.mit.edu/2022/portable-desalination-drinking-water-0428)
+- Apr 29 - [Airbnb’s design to live and work anywhere](https://news.airbnb.com/airbnbs-design-to-live-and-work-anywhere/)
+- Apr 29 - [What a better rust would look like](https://kerkour.com/what-a-better-rust-would-look-like)
+- Apr 29 - [Redox OS 0.7.0](https://www.redox-os.org/news/release-0.7.0/)
 <!--END_SECTION:hn-->
 
 <!--
