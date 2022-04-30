@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 30 - [Did extroverts ruin remote work for the rest of us?](https://makeworkbetter.substack.com/p/extroverts)
-- Apr 30 - [Pictoprime: Generate Prime Numbers from Pictures](https://github.com/TotalTechGeek/pictoprime)
-- Apr 30 - [A cross-account database vulnerability in Azure PostgreSQL](https://www.wiz.io/blog/wiz-research-discovers-extrareplica-cross-account-database-vulnerability-in-azure-postgresql/)
-- Apr 30 - [Exposed by a Strava KOM: The Many Lives of a Fake Pro Cyclist](https://cyclingtips.com/2022/04/exposed-by-a-strava-kom-the-many-lives-of-a-fake-pro-cyclist/)
-- Apr 30 - [Workers discover ‘unprecedented’ Phoenician necropolis in southern Spain](https://www.theguardian.com/world/2022/apr/26/unprecedented-phoenician-necropolis-osuna-spain)
+- Apr 30 - [OneSignal (YC S11) Is Hiring Engineers to Democratize Mobile Customer Engagement](https://onesignal.com/careers)
+- Apr 30 - [Top Navy Admiral Wants Rust-Free Ships](https://gcaptain.com/rusting-fleet-top-us-navy-admiral-cno-rust/)
+- Apr 30 - [How do you power a rocket engine?](https://everydayastronaut.com/rocket-engine-cycles/)
+- Apr 30 - [MVC 2.0: the email-View-Controller architecture](https://pretzelbox.cc/blog/mvc-2-0-the-email-view-controller-architecture--o3vrk60.html)
+- Apr 30 - [Privacy Friendly Apps – improved privacy protection on the smartphone](https://secuso.aifb.kit.edu/english/105.php)
 <!--END_SECTION:hn-->
 
 <!--
