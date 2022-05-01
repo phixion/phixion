@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 01 - [Raycast (YC W20) Is Hiring macOS Engineers (Remote, UTC ± 3h)](https://www.raycast.com/careers)
-- May 01 - [We think this cool study we found is flawed. Help us reproduce it](https://pudding.cool/2022/04/random/)
-- May 01 - [1974 Sinclair Scientific Calculator Repair and Restoration](https://retrorepairsandrefurbs.com/2022/04/29/1974-sinclair-scientific-calculator-repair-restoration/)
-- May 01 - [Fig](https://fig.io/)
-- May 01 - [Show HN: I'm building the “chess.com” of speed cubing](https://www.cubedesk.io/home)
+- May 01 - [Ancient Genes for Symbiosis Hint at Mitochondria’s Origins](https://www.quantamagazine.org/ancient-genes-for-symbiosis-hint-at-mitochondrias-origins-20220426/)
+- May 01 - [Russia Sanctions Add Shock Internet Censorship Twist for UK ISPs](https://www.ispreview.co.uk/index.php/2022/04/russia-sanctions-add-shock-internet-censorship-twist-for-uk-isps.html)
+- May 01 - [The Niche Programmer](https://ano.ee/blog/the-niche-programmer)
+- May 01 - [Long-awaited accelerator ready to explore origins of elements](https://www.nature.com/articles/d41586-022-00711-5)
+- May 01 - [May Day](https://en.wikipedia.org/wiki/May_Day)
 <!--END_SECTION:hn-->
 
 <!--
