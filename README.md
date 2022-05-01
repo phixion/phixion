@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 01 - [Ancient Genes for Symbiosis Hint at Mitochondria’s Origins](https://www.quantamagazine.org/ancient-genes-for-symbiosis-hint-at-mitochondrias-origins-20220426/)
-- May 01 - [Russia Sanctions Add Shock Internet Censorship Twist for UK ISPs](https://www.ispreview.co.uk/index.php/2022/04/russia-sanctions-add-shock-internet-censorship-twist-for-uk-isps.html)
-- May 01 - [The Niche Programmer](https://ano.ee/blog/the-niche-programmer)
-- May 01 - [Long-awaited accelerator ready to explore origins of elements](https://www.nature.com/articles/d41586-022-00711-5)
-- May 01 - [May Day](https://en.wikipedia.org/wiki/May_Day)
+- May 01 - [Ask HN: Do you rewrite pull requests?](https://news.ycombinator.com/item?id=31225599)
+- May 01 - [Show HN: A Web-Based Modular Drum Machine for You to Play With](https://noisecraft.app/557)
+- May 01 - [Things I don’t want to do to grow my side project](https://wagslane.dev/posts/things-i-dont-want-to-do-to-grow-business/)
+- May 01 - [The free 30 day Build & Sell startup challenge](https://buildsell30.com)
+- May 01 - [Remotewide – Find remote jobs with location independent pay](https://remotewide.co/)
 <!--END_SECTION:hn-->
 
 <!--
