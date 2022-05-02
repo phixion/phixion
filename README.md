@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 02 - [June (YC W21) is hiring a founding engineer](https://www.ycombinator.com/companies/june/jobs/SHd7fFLYG-founding-engineer)
-- May 02 - [Zelensky Compound NDA](https://writing.kemitchell.com/2022/04/30/Zelensky-Compound-NDA)
-- May 02 - [Show HN: How did I live without Pipe Watch?](https://www.kylheku.com/cgit/pw/about/)
-- May 02 - [Lenovo ThinkPad P1 Gen3 Review (With Linux)](https://ernestas.me/lenovo-thinkpad-p1-gen3)
-- May 02 - [A Difficult Diagnosis](https://ronnyliu.com/2022/04/27/a-difficult-diagnosis-part-1/)
+- May 02 - [Apple hit with EU antitrust charge over its payment technology](https://www.reuters.com/technology/apple-hit-with-eu-antitrust-charge-over-its-payment-technology-2022-05-02/)
+- May 02 - [Don’t Trust Activity Monitor on M1 Macs](https://eclecticlight.co/2022/05/02/dont-trust-activity-monitor-on-m1-macs/)
+- May 02 - [Can the World Feed Itself? Historic Fertilizer Crunch Threatens Food Security](https://www.bloombergquint.com/politics/farmers-are-struggling-to-keep-up-food-supply-as-fertilizer-prices-surge)
+- May 02 - [The Better Alternative to Lifetime GATs](https://sabrinajewson.org/blog/the-better-alternative-to-lifetime-gats)
+- May 02 - [The Agony of Eros: Dating](https://ava.substack.com/p/the-agony-of-eros-dating)
 <!--END_SECTION:hn-->
 
 <!--
