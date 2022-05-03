@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 02 - [Apple hit with EU antitrust charge over its payment technology](https://www.reuters.com/technology/apple-hit-with-eu-antitrust-charge-over-its-payment-technology-2022-05-02/)
-- May 02 - [Don’t Trust Activity Monitor on M1 Macs](https://eclecticlight.co/2022/05/02/dont-trust-activity-monitor-on-m1-macs/)
-- May 02 - [Can the World Feed Itself? Historic Fertilizer Crunch Threatens Food Security](https://www.bloombergquint.com/politics/farmers-are-struggling-to-keep-up-food-supply-as-fertilizer-prices-surge)
-- May 02 - [The Better Alternative to Lifetime GATs](https://sabrinajewson.org/blog/the-better-alternative-to-lifetime-gats)
-- May 02 - [The Agony of Eros: Dating](https://ava.substack.com/p/the-agony-of-eros-dating)
+- May 02 - [The Negative Link Between Extraversion and Perceived Listening](https://journals.sagepub.com/doi/abs/10.1177/01461672211072815?journalCode=pspc&)
+- May 02 - [SF Conservancy now accepting copyright assignment for any GPL software](https://sfconservancy.org/blog/2022/may/02/copyright-assignment-project/)
+- May 02 - [Queenly (YC W21) Is Hiring](https://www.ycombinator.com/companies/queenly/jobs/ZVQO8R7-head-of-operations)
+- May 02 - [An engineered barley plant that ‘orders’ soil bacteria to manufacture fertiliser](https://www.slcu.cam.ac.uk/news/engineered-barley-plant-orders-soil-bacteria-manufacture-ammonia-fertiliser)
+- May 02 - [Single Page Applications using Rust (with WASM)](https://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/)
 <!--END_SECTION:hn-->
 
 <!--
