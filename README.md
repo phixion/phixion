@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 03 - [One gotty(1) Web terminal per user](https://jpmens.net/2022/05/03/one-gotty-per-user/)
-- May 03 - [When I Made Another Monkey Island](https://grumpygamer.com/when_i_made_another_monkeyisland)
-- May 03 - [Wolvic (Igalia’s Stewardship of Firefox Reality)](https://wolvic.com/)
-- May 03 - [Show HN: A glib-like multi-platform C library](https://github.com/tboox/tbox)
-- May 03 - [React Native On-Device Machine Learning with Google ML Kit](https://github.com/a7med-mahmoud/react-native-ml-kit)
+- May 03 - [Preventing Burnout: A Manager's Toolkit](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
+- May 03 - [A Philosophy of Software Design – Book Summary and Notes](https://elvischidera.com/2022-04-29-philosphy-software-design/)
+- May 03 - [Kaketsugi – A technique for repairing holes or tears in fabric (2021) [video]](https://www3.nhk.or.jp/nhkworld/en/ondemand/video/5003184/)
+- May 03 - [Considered "18+"](https://daniel.haxx.se/blog/2022/05/02/considered-18/)
+- May 03 - [Apple employees criticize work-from-home policy in open letter](https://www.engadget.com/apple-criticized-by-employees-over-working-from-home-policy-in-open-letter-123027735.html)
 <!--END_SECTION:hn-->
 
 <!--
