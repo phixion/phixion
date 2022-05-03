@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 03 - [Ask HN: The middle ground for email selfhosting](https://news.ycombinator.com/item?id=31245625)
-- May 03 - [Cellular Landscapes: Protein Synthesis](https://media.cellsignal.com/www/html/science/landscapes/protein-synthesis/protein-synthesis.html)
-- May 03 - [UA Gotta Be Kidding](https://bkardell.com/blog/UAGottaBeKidding.html)
-- May 03 - [Emacs for Professionals](http://tilde.town/~ramin_hal9001/emacs-for-professionals/index.html)
-- May 03 - [FreeDV – Digital Voice mode for HF radio](https://freedv.org/)
+- May 03 - [One gotty(1) Web terminal per user](https://jpmens.net/2022/05/03/one-gotty-per-user/)
+- May 03 - [When I Made Another Monkey Island](https://grumpygamer.com/when_i_made_another_monkeyisland)
+- May 03 - [Wolvic (Igalia’s Stewardship of Firefox Reality)](https://wolvic.com/)
+- May 03 - [Show HN: A glib-like multi-platform C library](https://github.com/tboox/tbox)
+- May 03 - [React Native On-Device Machine Learning with Google ML Kit](https://github.com/a7med-mahmoud/react-native-ml-kit)
 <!--END_SECTION:hn-->
 
 <!--
