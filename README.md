@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 02 - [The Negative Link Between Extraversion and Perceived Listening](https://journals.sagepub.com/doi/abs/10.1177/01461672211072815?journalCode=pspc&)
-- May 02 - [SF Conservancy now accepting copyright assignment for any GPL software](https://sfconservancy.org/blog/2022/may/02/copyright-assignment-project/)
-- May 02 - [Queenly (YC W21) Is Hiring](https://www.ycombinator.com/companies/queenly/jobs/ZVQO8R7-head-of-operations)
-- May 02 - [An engineered barley plant that ‘orders’ soil bacteria to manufacture fertiliser](https://www.slcu.cam.ac.uk/news/engineered-barley-plant-orders-soil-bacteria-manufacture-ammonia-fertiliser)
-- May 02 - [Single Page Applications using Rust (with WASM)](https://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/)
+- May 03 - [A minimal C compiler in x86 assembly](https://github.com/oriansj/stage0/blob/master/stage2/cc_x86.s)
+- May 03 - [India reveals RISC-V CPU roadmap, expects product by 2023](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1820621)
+- May 03 - [Meta announces a GPT3-size language model you can download](https://arxiv.org/abs/2205.01068)
+- May 03 - [A first for Canada: New type of nuclear plant opening by 2028](https://www.theweathernetwork.com/en/news/climate/solutions/a-first-for-canada-new-type-of-nuclear-plant-opening-by-2028)
+- May 03 - [I replaced my native iOS app with a cross platform web app and no-one noticed](https://medium.com/@ChrisNielsen123/i-replaced-my-native-ios-app-with-a-cross-platform-web-app-and-no-one-noticed-1653901ce244)
 <!--END_SECTION:hn-->
 
 <!--
