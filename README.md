@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 04 - [Yandex data center in Finland loses power, runs on diesel, due to war sanctions](https://www.datacenterdynamics.com/en/news/yandex-data-center-in-finland-loses-power-runs-on-diesel-due-to-war-sanctions/)
+- May 04 - [NuScale Has Gone Public](https://www.nuscalepower.com/)
+- May 04 - [Sqldiff: SQLite Database Difference Utility](https://www.sqlite.org/sqldiff.html)
+- May 04 - [Microsoft 3D Movie Maker Source Code](https://github.com/microsoft/Microsoft-3D-Movie-Maker)
 - May 04 - [Practical advises on recommendation systems in production](https://arkid.substack.com/p/recommendation-systems-not-so-discussed)
-- May 04 - [100-year-old Brazilian breaks record after 84 years at same company](https://www.guinnessworldrecords.com/news/2022/4/100-year-old-brazilian-breaks-record-after-84-years-at-same-company-701664)
-- May 04 - [Set up your own VPN at home with Raspberry Pi – Wolfang's Blog](https://notthebe.ee/raspi.html)
-- May 04 - [DbDiagram – Draw Entity-Relationship Diagrams, Painlessly](https://dbdiagram.io/home)
-- May 04 - [Heroku resetting passwords for “a portion” of their users immediately](https://news.ycombinator.com/item?id=31255450)
 <!--END_SECTION:hn-->
 
 <!--
