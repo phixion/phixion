@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 04 - [Yandex data center in Finland loses power, runs on diesel, due to war sanctions](https://www.datacenterdynamics.com/en/news/yandex-data-center-in-finland-loses-power-runs-on-diesel-due-to-war-sanctions/)
-- May 04 - [NuScale Has Gone Public](https://www.nuscalepower.com/)
-- May 04 - [Sqldiff: SQLite Database Difference Utility](https://www.sqlite.org/sqldiff.html)
-- May 04 - [Microsoft 3D Movie Maker Source Code](https://github.com/microsoft/Microsoft-3D-Movie-Maker)
-- May 04 - [Practical advises on recommendation systems in production](https://arkid.substack.com/p/recommendation-systems-not-so-discussed)
+- May 04 - [Turbo Tax to Pay 141M in Agreement Reached by All 50 States](https://ag.ny.gov/press-release/2022/attorney-general-james-secures-141-million-millions-americans-deceived-turbotax)
+- May 04 - [FM Towns Bootable FRAM Card: Final – Prebyopia vs. Surface Mount](http://ysflight.in.coocan.jp/FM/towns/icm/e.html#20220503)
+- May 04 - [What we can deduce from a leaked PDF](https://matthewbutterick.com/chron/what-we-can-deduce-from-a-leaked-pdf.html)
+- May 04 - [Making the Clubhouse hallway more relevant with machine learning](https://blog.clubhouse.com/making-the-hallway-more-relevant-with-machine-learning/)
+- May 04 - [A Social Analgesic? Acetaminophen (Tylenol) Reduces Positive Empathy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6455058/)
 <!--END_SECTION:hn-->
 
 <!--
