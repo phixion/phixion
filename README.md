@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 03 - [Coding Up an IoT PCB Design](https://www.geocene.com/tech/hardware/2022/05/03/coding-up-an-iot-pcb-design)
-- May 03 - [Oral Administration of NMN Is Safe and Efficiently Increases Blood NAD Levels](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9036060/)
-- May 03 - [The Crypto Elites Are Plotting a Wall Street Merger](https://concoda.substack.com/p/the-crypto-elites-are-plotting-a)
-- May 03 - [Mayor of Lima, Peru impeached for serving on the board of state-owned company](https://perureports.com/mayor-of-lima-peru-impeached-for-serving-on-the-board-of-state-owned-company-while-in-office/9406/)
-- May 03 - [Replit (YC W18) Is Hiring SREs to Build Scalable Compute Infrastructure](https://replit.com/careers)
+- May 04 - [Practical advises on recommendation systems in production](https://arkid.substack.com/p/recommendation-systems-not-so-discussed)
+- May 04 - [100-year-old Brazilian breaks record after 84 years at same company](https://www.guinnessworldrecords.com/news/2022/4/100-year-old-brazilian-breaks-record-after-84-years-at-same-company-701664)
+- May 04 - [Set up your own VPN at home with Raspberry Pi – Wolfang's Blog](https://notthebe.ee/raspi.html)
+- May 04 - [DbDiagram – Draw Entity-Relationship Diagrams, Painlessly](https://dbdiagram.io/home)
+- May 04 - [Heroku resetting passwords for “a portion” of their users immediately](https://news.ycombinator.com/item?id=31255450)
 <!--END_SECTION:hn-->
 
 <!--
