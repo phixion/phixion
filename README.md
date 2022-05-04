@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 03 - [Preventing Burnout: A Manager's Toolkit](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
-- May 03 - [A Philosophy of Software Design – Book Summary and Notes](https://elvischidera.com/2022-04-29-philosphy-software-design/)
-- May 03 - [Kaketsugi – A technique for repairing holes or tears in fabric (2021) [video]](https://www3.nhk.or.jp/nhkworld/en/ondemand/video/5003184/)
-- May 03 - [Considered "18+"](https://daniel.haxx.se/blog/2022/05/02/considered-18/)
-- May 03 - [Apple employees criticize work-from-home policy in open letter](https://www.engadget.com/apple-criticized-by-employees-over-working-from-home-policy-in-open-letter-123027735.html)
+- May 03 - [Coding Up an IoT PCB Design](https://www.geocene.com/tech/hardware/2022/05/03/coding-up-an-iot-pcb-design)
+- May 03 - [Oral Administration of NMN Is Safe and Efficiently Increases Blood NAD Levels](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9036060/)
+- May 03 - [The Crypto Elites Are Plotting a Wall Street Merger](https://concoda.substack.com/p/the-crypto-elites-are-plotting-a)
+- May 03 - [Mayor of Lima, Peru impeached for serving on the board of state-owned company](https://perureports.com/mayor-of-lima-peru-impeached-for-serving-on-the-board-of-state-owned-company-while-in-office/9406/)
+- May 03 - [Replit (YC W18) Is Hiring SREs to Build Scalable Compute Infrastructure](https://replit.com/careers)
 <!--END_SECTION:hn-->
 
 <!--
