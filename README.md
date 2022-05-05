@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 04 - [Former Facebook, WhatsApp employees lead new push to fix social media](https://www.wsj.com/articles/social-media-startups-take-aim-at-facebook-and-elon-musk-11651656600)
-- May 04 - [Ask HN: Why is the PDF format so inaccessible?](https://news.ycombinator.com/item?id=31266661)
-- May 04 - [Mighty (YC S19) is hiring software engineers to build a better browser](https://www.notion.so/Mighty-is-hiring-945d3168d3e34a37883ca4d823ed734f)
-- May 04 - [Walkthrough of UHC’s claim reimbursement form game](https://github.com/MyUHCAdventure/MyUHCAdventure.github.io)
-- May 04 - [IBM's Asshole Test](https://johnpublic.mataroa.blog/blog/the-asshole-test/)
+- May 05 - [On April 7, 2022, a threat actor obtained access to a Heroku database](https://status.heroku.com/incidents/2413?updated)
+- May 05 - [Swarming drones autonomously navigate a dense forest (and chase a human)](https://techcrunch.com/2022/05/04/swarming-drones-autonomously-navigate-a-dense-forest-and-chase-a-human/)
+- May 05 - [Never-ending nightmare: Boeing lost 1.2B in 2022 first quarter](https://www.aviacionline.com/2022/04/never-ending-nightmare-boeing-lost-1-2-billion-in-2022-first-quarter/)
+- May 05 - [Teen Mental Health Is Plummeting, and Social Media Is a Major Contributing Cause [pdf]](https://www.judiciary.senate.gov/imo/media/doc/Haidt%20Testimony.pdf)
+- May 05 - [What Game Are You Playing?](https://www.autodidacts.io/what-game-are-you-playing/)
 <!--END_SECTION:hn-->
 
 <!--
