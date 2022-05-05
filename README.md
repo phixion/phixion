@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 04 - [Turbo Tax to Pay 141M in Agreement Reached by All 50 States](https://ag.ny.gov/press-release/2022/attorney-general-james-secures-141-million-millions-americans-deceived-turbotax)
-- May 04 - [FM Towns Bootable FRAM Card: Final – Prebyopia vs. Surface Mount](http://ysflight.in.coocan.jp/FM/towns/icm/e.html#20220503)
-- May 04 - [What we can deduce from a leaked PDF](https://matthewbutterick.com/chron/what-we-can-deduce-from-a-leaked-pdf.html)
-- May 04 - [Making the Clubhouse hallway more relevant with machine learning](https://blog.clubhouse.com/making-the-hallway-more-relevant-with-machine-learning/)
-- May 04 - [A Social Analgesic? Acetaminophen (Tylenol) Reduces Positive Empathy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6455058/)
+- May 04 - [Former Facebook, WhatsApp employees lead new push to fix social media](https://www.wsj.com/articles/social-media-startups-take-aim-at-facebook-and-elon-musk-11651656600)
+- May 04 - [Ask HN: Why is the PDF format so inaccessible?](https://news.ycombinator.com/item?id=31266661)
+- May 04 - [Mighty (YC S19) is hiring software engineers to build a better browser](https://www.notion.so/Mighty-is-hiring-945d3168d3e34a37883ca4d823ed734f)
+- May 04 - [Walkthrough of UHC’s claim reimbursement form game](https://github.com/MyUHCAdventure/MyUHCAdventure.github.io)
+- May 04 - [IBM's Asshole Test](https://johnpublic.mataroa.blog/blog/the-asshole-test/)
 <!--END_SECTION:hn-->
 
 <!--
