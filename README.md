@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 05 - [V86: x86 virtualization in the browser, recompiling x86 to WASM on the fly](https://github.com/copy/v86)
-- May 05 - [The Gitlab Team Handbook](https://about.gitlab.com/handbook/)
-- May 05 - [Ask HN: My house just got hit by lightning and it fried the PSU in my computer](https://news.ycombinator.com/item?id=31270349)
-- May 05 - [ActivitySub](http://len.falken.directory/web/activity-sub.txt)
-- May 05 - [Zero downtime migrations](https://kiranrao.ca/2022/05/04/zero-downtime-migrations.html)
+- May 05 - [Opvia (YC S20) Is Hiring Product Engineers in London](https://www.notion.so/opvia/Opvia-Jobs-151305ed30a140f29ec9eb7df00deadc)
+- May 05 - [Facebook’s Retirement Plan](https://www.economist.com/business/facebooks-retirement-plan/21809131)
+- May 05 - [Craft CMS 4 Released](https://craftcms.com/blog/craft-4)
+- May 05 - [Shell profits nearly triple as oil prices surge](https://www.bbc.com/news/business-61330552)
+- May 05 - [Nim Version 1.6.6 Released](https://nim-lang.org/blog/2022/05/05/version-166-released.html)
 <!--END_SECTION:hn-->
 
 <!--
