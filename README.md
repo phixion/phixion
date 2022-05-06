@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 05 - [Opvia (YC S20) Is Hiring Product Engineers in London](https://www.notion.so/opvia/Opvia-Jobs-151305ed30a140f29ec9eb7df00deadc)
-- May 05 - [Facebook’s Retirement Plan](https://www.economist.com/business/facebooks-retirement-plan/21809131)
-- May 05 - [Craft CMS 4 Released](https://craftcms.com/blog/craft-4)
-- May 05 - [Shell profits nearly triple as oil prices surge](https://www.bbc.com/news/business-61330552)
-- May 05 - [Nim Version 1.6.6 Released](https://nim-lang.org/blog/2022/05/05/version-166-released.html)
+- May 05 - [MyGov is a ‘huge disappointment,’ key architect despairs](https://www.innovationaus.com/mygov-is-a-huge-disappointment-key-architect-despairs/)
+- May 05 - [$35 sculpture found at an Austin Goodwill was looted from a museum during WWII](https://www.kut.org/life-arts/2022-05-04/so-the-35-sculpture-you-got-at-an-austin-goodwill-was-looted-from-a-museum-during-wwii-now-what)
+- May 05 - [Being Acquired](https://www.csisoftware.com/about-us/being-acquired)
+- May 05 - [Bugs that the Rust compiler catches for you](https://kerkour.com/bugs-rust-compiler-helps-prevent)
+- May 05 - [Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring eng in NYC](https://skio.com/careers/)
 <!--END_SECTION:hn-->
 
 <!--
