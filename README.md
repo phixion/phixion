@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 06 - [Dover.com (YC S19) is hiring senior engineers](https://www.dover.com/open-roles/software-engineer)
-- May 06 - [Trading and Weighing Metals in Bronze Age Western Eurasia](https://www.pnas.org/doi/10.1073/pnas.2110552118)
-- May 06 - [Oa.mg](https://oa.mg)
-- May 06 - [Sentry.io outage](https://status.sentry.io)
-- May 06 - [GitHub Résumé: Service that creates a résumé based on your GitHub repos/activity](https://github.com/resume/resume.github.com)
+- May 06 - [Deploying Kubernetes clusters in increasingly absurd languages](https://leebriggs.co.uk/blog/2022/05/04/deploying-kubernetes-clusters-in-absurd-languages)
+- May 06 - [Show HN: Videobug – The time travel debugger for JVM](https://news.ycombinator.com/item?id=31286126)
+- May 06 - [My vision for Open Source pro support](https://xcp-ng.org/blog/2022/05/06/my-vision-for-open-source-pro-support/)
+- May 06 - [PromQL Compliance Test Results](https://promlabs.com/promql-compliance-tests/)
+- May 06 - [Why do you waste so much time on the internet?](https://zan.bearblog.dev/why-i-waste-time/)
 <!--END_SECTION:hn-->
 
 <!--
