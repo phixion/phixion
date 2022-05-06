@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 06 - [CA Appeals Court Rules San Francisco Cannot Ban Tenderloin Drug Dealers](https://californiaglobe.com/articles/ca-appeals-court-rules-san-francisco-cannot-ban-tenderloin-drug-dealers/)
-- May 06 - [Public health agency tracked Canadians' movements via phone data during pandemic](https://www.cp24.com/news/canadians-trips-to-liquor-stores-pharmacies-tracked-via-phones-during-pandemic-1.5890349)
-- May 06 - [How many radioactive bananas would you need to power a house?](https://what-if.xkcd.com/158/)
-- May 06 - [Choosing a Mid-Career Master's Degree in Computer Science](https://evanp.me/2022/05/04/masters-degree-in-computer-science/)
-- May 06 - [Homes in 97% of U.S. cities are overvalued, Moody's says](https://www.cbsnews.com/news/home-prices-mortgage-rates-moodys-mark-zandi/)
+- May 06 - [Ask HN: Why can't I learn anymore?](https://news.ycombinator.com/item?id=31281919)
+- May 06 - [In Test Tubes, RNA Molecules Evolve into a Tiny Ecosystem](https://www.quantamagazine.org/in-test-tubes-rna-molecules-evolve-into-a-tiny-ecosystem-20220505/)
+- May 06 - [ESO event on groundbreaking results from Event Horizon Telescope Collaboration](https://www.eso.org/public/announcements/ann22006/)
+- May 06 - [Tell HN: AT&T disabled phone numbers and accounts of users using the old phones](https://news.ycombinator.com/item?id=31281580)
+- May 06 - [PHP RFC: Deprecate ${} string interpolation](https://wiki.php.net/rfc/deprecate_dollar_brace_string_interpolation)
 <!--END_SECTION:hn-->
 
 <!--
