@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 06 - [Deploying Kubernetes clusters in increasingly absurd languages](https://leebriggs.co.uk/blog/2022/05/04/deploying-kubernetes-clusters-in-absurd-languages)
-- May 06 - [Show HN: Videobug – The time travel debugger for JVM](https://news.ycombinator.com/item?id=31286126)
-- May 06 - [My vision for Open Source pro support](https://xcp-ng.org/blog/2022/05/06/my-vision-for-open-source-pro-support/)
-- May 06 - [PromQL Compliance Test Results](https://promlabs.com/promql-compliance-tests/)
-- May 06 - [Why do you waste so much time on the internet?](https://zan.bearblog.dev/why-i-waste-time/)
+- May 06 - [The Joys and Sorrows of Maintaining a Personal Website](https://cheapskatesguide.org/articles/joys-and-sorrows.html)
+- May 06 - [The piranha problem in social psychology / behavioral economics (2017)](https://statmodeling.stat.columbia.edu/2017/12/15/piranha-problem-social-psychology-behavioral-economics-button-pushing-model-science-eats/)
+- May 06 - [Double detonation: from Type a Ia supernova explosion to its supernova remnant](https://arxiv.org/abs/2202.04268)
+- May 06 - [Recognize Digits Using ML in Elixir](https://fly.io/phoenix-files/recognize-digits-using-ml-in-elixir/)
+- May 06 - [Demystifying Database Performance for Developers](https://www.crunchydata.com/blog/demystifying-database-performance-for-developers)
 <!--END_SECTION:hn-->
 
 <!--
