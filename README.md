@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 05 - [MyGov is a ‘huge disappointment,’ key architect despairs](https://www.innovationaus.com/mygov-is-a-huge-disappointment-key-architect-despairs/)
-- May 05 - [$35 sculpture found at an Austin Goodwill was looted from a museum during WWII](https://www.kut.org/life-arts/2022-05-04/so-the-35-sculpture-you-got-at-an-austin-goodwill-was-looted-from-a-museum-during-wwii-now-what)
-- May 05 - [Being Acquired](https://www.csisoftware.com/about-us/being-acquired)
-- May 05 - [Bugs that the Rust compiler catches for you](https://kerkour.com/bugs-rust-compiler-helps-prevent)
-- May 05 - [Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring eng in NYC](https://skio.com/careers/)
+- May 06 - [CA Appeals Court Rules San Francisco Cannot Ban Tenderloin Drug Dealers](https://californiaglobe.com/articles/ca-appeals-court-rules-san-francisco-cannot-ban-tenderloin-drug-dealers/)
+- May 06 - [Public health agency tracked Canadians' movements via phone data during pandemic](https://www.cp24.com/news/canadians-trips-to-liquor-stores-pharmacies-tracked-via-phones-during-pandemic-1.5890349)
+- May 06 - [How many radioactive bananas would you need to power a house?](https://what-if.xkcd.com/158/)
+- May 06 - [Choosing a Mid-Career Master's Degree in Computer Science](https://evanp.me/2022/05/04/masters-degree-in-computer-science/)
+- May 06 - [Homes in 97% of U.S. cities are overvalued, Moody's says](https://www.cbsnews.com/news/home-prices-mortgage-rates-moodys-mark-zandi/)
 <!--END_SECTION:hn-->
 
 <!--
