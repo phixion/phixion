@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 06 - [Ask HN: Why can't I learn anymore?](https://news.ycombinator.com/item?id=31281919)
-- May 06 - [In Test Tubes, RNA Molecules Evolve into a Tiny Ecosystem](https://www.quantamagazine.org/in-test-tubes-rna-molecules-evolve-into-a-tiny-ecosystem-20220505/)
-- May 06 - [ESO event on groundbreaking results from Event Horizon Telescope Collaboration](https://www.eso.org/public/announcements/ann22006/)
-- May 06 - [Tell HN: AT&T disabled phone numbers and accounts of users using the old phones](https://news.ycombinator.com/item?id=31281580)
-- May 06 - [PHP RFC: Deprecate ${} string interpolation](https://wiki.php.net/rfc/deprecate_dollar_brace_string_interpolation)
+- May 06 - [Dover.com (YC S19) is hiring senior engineers](https://www.dover.com/open-roles/software-engineer)
+- May 06 - [Trading and Weighing Metals in Bronze Age Western Eurasia](https://www.pnas.org/doi/10.1073/pnas.2110552118)
+- May 06 - [Oa.mg](https://oa.mg)
+- May 06 - [Sentry.io outage](https://status.sentry.io)
+- May 06 - [GitHub Résumé: Service that creates a résumé based on your GitHub repos/activity](https://github.com/resume/resume.github.com)
 <!--END_SECTION:hn-->
 
 <!--
