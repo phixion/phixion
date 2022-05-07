@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 07 - [It’s time we fix the unethical design of cookie consent windows](https://uxdesign.cc/unethical-design-of-cookie-consent-windows-857ef68f1bd6?gi=d060c7b22ab)
+- May 07 - [Roll a Lisp in C – Evaluation](https://swatson555.github.io/posts/2022-05-06-make-a-lisp-2.html)
+- May 07 - [Heroku: We’ve Heard Your Feedback](https://blog.heroku.com/we-heard-your-feedback)
+- May 07 - [Roboto but Make It Flex](https://material.io/blog/roboto-flex)
 - May 06 - [MenuetOS](http://www.menuetos.net/index.htm)
-- May 06 - [UK is over the edge: archive.org blocked at the telecom level](https://virtuallyfun.com/wordpress/2022/05/06/uk-is-over-the-edge-archive-org-blocked-at-the-telecom-level/)
-- May 06 - [The Diminishing Returns of Productivity Culture](https://annehelen.substack.com/p/the-diminishing-returns-of-productivity)
-- May 06 - [Skiing Mt. Everest](https://www.smithsonianmag.com/history/the-godfather-of-extreme-skiing-7744831/)
-- May 06 - [Why I’ve spent my Easter break customizing Neovim](https://framal.xyz/why-ive-spent-my-easter-break-customizing-neovim/)
 <!--END_SECTION:hn-->
 
 <!--
