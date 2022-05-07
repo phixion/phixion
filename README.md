@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 06 - [The Joys and Sorrows of Maintaining a Personal Website](https://cheapskatesguide.org/articles/joys-and-sorrows.html)
-- May 06 - [The piranha problem in social psychology / behavioral economics (2017)](https://statmodeling.stat.columbia.edu/2017/12/15/piranha-problem-social-psychology-behavioral-economics-button-pushing-model-science-eats/)
-- May 06 - [Double detonation: from Type a Ia supernova explosion to its supernova remnant](https://arxiv.org/abs/2202.04268)
-- May 06 - [Recognize Digits Using ML in Elixir](https://fly.io/phoenix-files/recognize-digits-using-ml-in-elixir/)
-- May 06 - [Demystifying Database Performance for Developers](https://www.crunchydata.com/blog/demystifying-database-performance-for-developers)
+- May 06 - [MenuetOS](http://www.menuetos.net/index.htm)
+- May 06 - [UK is over the edge: archive.org blocked at the telecom level](https://virtuallyfun.com/wordpress/2022/05/06/uk-is-over-the-edge-archive-org-blocked-at-the-telecom-level/)
+- May 06 - [The Diminishing Returns of Productivity Culture](https://annehelen.substack.com/p/the-diminishing-returns-of-productivity)
+- May 06 - [Skiing Mt. Everest](https://www.smithsonianmag.com/history/the-godfather-of-extreme-skiing-7744831/)
+- May 06 - [Why I’ve spent my Easter break customizing Neovim](https://framal.xyz/why-ive-spent-my-easter-break-customizing-neovim/)
 <!--END_SECTION:hn-->
 
 <!--
