@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 07 - [Stacker (YC S20) Is Hiring for Product Engineers](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
-- May 07 - [Oral History of Chuck Peddle [video]](https://www.youtube.com/watch?v=enHF9lMseP8)
-- May 07 - [It’s time we fix the unethical design of cookie consent windows](https://uxdesign.cc/unethical-design-of-cookie-consent-windows-857ef68f1bd6?gi=d060c7b22ab)
-- May 07 - [Roll a Lisp in C – Evaluation](https://swatson555.github.io/posts/2022-05-06-make-a-lisp-2.html)
-- May 07 - [Roboto but Make It Flex](https://material.io/blog/roboto-flex)
+- May 07 - [DevCycle (YC W14) Is Hiring Feature Flag Automation Engineers](https://devcycle.com/company/careers)
+- May 07 - [Show HN: I Made a Virtual Bookshelf](https://petargyurov.com/bookshelf/)
+- May 07 - [Bytebeat Composer](https://dollchan.net/bytebeat/#v3b64q1ZKzk9JVbJSKtHSKFEzNDO2MLE3szLV1NIw0dUwVCuxs7PQ1LSz0zBW0wWyLTVrgKSZUi0A)
+- May 07 - [Roland TR-808 Cowbell Rebuild](http://www.frisnit.com/roland-tr-808-cowbell-rebuild/)
+- May 07 - [RSS Feed Best Practices](https://kevincox.ca/2022/05/06/rss-feed-best-practices/)
 <!--END_SECTION:hn-->
 
 <!--
