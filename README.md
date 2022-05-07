@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 07 - [Ask HN: How to Make Passive Income?](https://news.ycombinator.com/item?id=31295496)
-- May 07 - [Japan's population falls by record 644,000 to 125.5M in 2021](https://english.kyodonews.net/news/2022/04/2682851af82b-breaking-news-tokyos-population-shrinks-for-1st-time-in-26-yrs-govt-data.html)
-- May 07 - [Is there a good “blog search” out there?](https://news.ycombinator.com/item?id=31295154)
-- May 07 - [Final year medical students 'can't afford to pay rent'](https://www.bbc.co.uk/news/uk-england-61302377)
-- May 07 - [Lufthansa’s European Union Strasbourg “Shuttle”](https://onemileatatime.com/news/lufthansa-strasbourg-shuttle/)
+- May 07 - [Xilem: An Architecture for UI in Rust](https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html)
+- May 07 - [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
+- May 07 - [Deletionpedia: Rescuing articles from Wikipedia's deletionism](https://deletionpedia.org/en/Main_Page)
+- May 07 - [Meta-Perceptual Helmets](http://www.connolly-cleary.com/Home/helmets.html)
+- May 07 - [The Muse (YC W12) Is Hiring a Senior Platform Engineer](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
 <!--END_SECTION:hn-->
 
 <!--
