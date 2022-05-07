@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 07 - [DevCycle (YC W14) Is Hiring Feature Flag Automation Engineers](https://devcycle.com/company/careers)
-- May 07 - [Show HN: I Made a Virtual Bookshelf](https://petargyurov.com/bookshelf/)
-- May 07 - [Bytebeat Composer](https://dollchan.net/bytebeat/#v3b64q1ZKzk9JVbJSKtHSKFEzNDO2MLE3szLV1NIw0dUwVCuxs7PQ1LSz0zBW0wWyLTVrgKSZUi0A)
-- May 07 - [Roland TR-808 Cowbell Rebuild](http://www.frisnit.com/roland-tr-808-cowbell-rebuild/)
-- May 07 - [RSS Feed Best Practices](https://kevincox.ca/2022/05/06/rss-feed-best-practices/)
+- May 07 - [Ask HN: How to Make Passive Income?](https://news.ycombinator.com/item?id=31295496)
+- May 07 - [Japan's population falls by record 644,000 to 125.5M in 2021](https://english.kyodonews.net/news/2022/04/2682851af82b-breaking-news-tokyos-population-shrinks-for-1st-time-in-26-yrs-govt-data.html)
+- May 07 - [Is there a good “blog search” out there?](https://news.ycombinator.com/item?id=31295154)
+- May 07 - [Final year medical students 'can't afford to pay rent'](https://www.bbc.co.uk/news/uk-england-61302377)
+- May 07 - [Lufthansa’s European Union Strasbourg “Shuttle”](https://onemileatatime.com/news/lufthansa-strasbourg-shuttle/)
 <!--END_SECTION:hn-->
 
 <!--
