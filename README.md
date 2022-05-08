@@ -19,8 +19,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 08 - [Star Citizen is doing 'bedsheet deformation' physics now](https://www.pcgamer.com/star-citizen-is-doing-bedsheet-deformation-physics-now-because-of-course-it-is/)
-- May 08 - [Swarm of micro flying robots in the wild](https://www.science.org/doi/10.1126/scirobotics.abm5954)
+- May 08 - [Donald Knuth Was Framed](https://buttondown.email/hillelwayne/archive/donald-knuth-was-framed/)
+- May 08 - [Layoffs.fyi](https://layoffs.fyi/)
 - May 07 - [Web Development for Beginners – A Curriculum](https://github.com/microsoft/Web-Dev-For-Beginners)
 - May 07 - [Robots are writing poetry, and many people can’t tell the difference](https://thewalrus.ca/ai-poetry/)
 - May 07 - [AtoB (YC S20) is hiring to build Stripe for Transportation](https://careers.atob.com)
