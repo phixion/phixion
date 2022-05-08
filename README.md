@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 07 - [Xilem: An Architecture for UI in Rust](https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html)
-- May 07 - [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
-- May 07 - [Deletionpedia: Rescuing articles from Wikipedia's deletionism](https://deletionpedia.org/en/Main_Page)
-- May 07 - [Meta-Perceptual Helmets](http://www.connolly-cleary.com/Home/helmets.html)
-- May 07 - [The Muse (YC W12) Is Hiring a Senior Platform Engineer](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
+- May 07 - [Web Development for Beginners – A Curriculum](https://github.com/microsoft/Web-Dev-For-Beginners)
+- May 07 - [California Targets Loud Exhaust with Sound Activated Cameras](https://www.autoweek.com/news/technology/a39906304/california-targets-loud-exhaust-with-sound-activated-camera-enforcement/)
+- May 07 - [Robots Are Writing Poetry, and Many People Can’t Tell the Difference](https://thewalrus.ca/ai-poetry/)
+- May 07 - [AtoB (YC S20) is hiring to build Stripe for Transportation](https://careers.atob.com)
+- May 07 - [Unauthorized gem takeover for some gems](https://github.com/rubygems/rubygems.org/security/advisories/GHSA-hccv-rwq6-vh79)
 <!--END_SECTION:hn-->
 
 <!--
