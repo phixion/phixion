@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 08 - [Kable (YC W22) Is Hiring Founding Engineers (Remote)](https://www.ycombinator.com/companies/kable/jobs/7YUZkyG-founding-full-stack-software-engineer)
-- May 08 - [What the $ Is Parallelism, Anyhow?](https://web.archive.org/web/20091103162537/http://software.intel.com/en-us/articles/what-the-is-parallelism-anyhow-1/)
-- May 08 - [Lessons learned from the recent job hunt](https://www.jvt.me/posts/2022/05/02/lessons-learned-job-hunt/)
-- May 08 - [Creating a Culture of Innovation](https://changelog.com/practicalai/170)
-- May 08 - [Ask HN: How do I get my Google account back?](https://news.ycombinator.com/item?id=31302391)
+- May 08 - [Ask HN: Any Open Library Memberships?](https://news.ycombinator.com/item?id=31304808)
+- May 08 - [PowerToys – 11 features Microsoft won’t add to Windows](https://www.fourth-wall.co.uk/post/powertoys-11-awesome-features-microsoft-won-t-add-to-windows)
+- May 08 - [The End of Industrial Society](https://palladiummag.com/2021/03/24/the-end-of-industrial-society/)
+- May 08 - [Scapy: Low level packet hacking toolkit for Python](https://www.trickster.dev/post/scapy-low-level-packet-hacking-toolkit-for-python/)
+- May 08 - [Specific Brain Cells Linked to Parkinson's Disease](https://www.the-scientist.com/news-opinion/specific-brain-cells-linked-to-parkinson-s-disease-69988)
 <!--END_SECTION:hn-->
 
 <!--
