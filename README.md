@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 08 - [Ask HN: Any Open Library Memberships?](https://news.ycombinator.com/item?id=31304808)
-- May 08 - [PowerToys – 11 features Microsoft won’t add to Windows](https://www.fourth-wall.co.uk/post/powertoys-11-awesome-features-microsoft-won-t-add-to-windows)
-- May 08 - [The End of Industrial Society](https://palladiummag.com/2021/03/24/the-end-of-industrial-society/)
-- May 08 - [Scapy: Low level packet hacking toolkit for Python](https://www.trickster.dev/post/scapy-low-level-packet-hacking-toolkit-for-python/)
-- May 08 - [Specific Brain Cells Linked to Parkinson's Disease](https://www.the-scientist.com/news-opinion/specific-brain-cells-linked-to-parkinson-s-disease-69988)
+- May 08 - [RustBelt: Securing the Foundations of the Rust Programming Language (2018) [pdf]](https://people.mpi-sws.org/~dreyer/papers/rustbelt/paper.pdf)
+- May 08 - [Ask HN: WFH – will I be outsourced?](https://news.ycombinator.com/item?id=31306507)
+- May 08 - [Show HN: Wordle in Python using literate programming](https://jiby.tech/project/literate_wordle/wordle.html)
+- May 08 - [Feeling uncomfortable when leaving phone at home shouldn't be normal](https://vaidik.bearblog.dev/feeling-uncomfortable-when-leaving-phone-at-home-shouldnt-be-normal/)
+- May 08 - [Vitamin D and Depression (2020)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6970300/)
 <!--END_SECTION:hn-->
 
 <!--
