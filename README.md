@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 08 - [RustBelt: Securing the Foundations of the Rust Programming Language (2018) [pdf]](https://people.mpi-sws.org/~dreyer/papers/rustbelt/paper.pdf)
-- May 08 - [Ask HN: WFH – will I be outsourced?](https://news.ycombinator.com/item?id=31306507)
-- May 08 - [Show HN: Wordle in Python using literate programming](https://jiby.tech/project/literate_wordle/wordle.html)
-- May 08 - [Feeling uncomfortable when leaving phone at home shouldn't be normal](https://vaidik.bearblog.dev/feeling-uncomfortable-when-leaving-phone-at-home-shouldnt-be-normal/)
-- May 08 - [Vitamin D and Depression (2020)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6970300/)
+- May 08 - [Forget personalisation, it’s impossible and it doesn’t work](https://www.marketingweek.com/peter-weinberg-jon-lombardo-personalisation-impersonalisation/)
+- May 08 - [A Case for an Open Source CS Curriculum [pdf]](https://homes.cs.washington.edu/~tom/talks/edslides.pdf)
+- May 08 - [“I don't know the numbers”: a math puzzle](https://alexanderell.is/posts/numbers-game/)
+- May 08 - [Show HN: Pointless – Endless drawing canvas desktop app](https://github.com/kkoomen/pointless)
+- May 08 - [Use fzf for tmux session switching](https://waylonwalker.com/tmux-fzf-session-jump/)
 <!--END_SECTION:hn-->
 
 <!--
