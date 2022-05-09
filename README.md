@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 09 - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
-- May 09 - [Parsing / Recursive Descent Parser](https://www.huy.rocks/everyday/05-08-2022-parsing-recursive-descent-parser)
-- May 09 - [Short URLs: Why and How](https://sive.rs/su)
-- May 09 - [Agile and the Long Crisis of Software](https://logicmag.io/clouds/agile-and-the-long-crisis-of-software/)
-- May 09 - [Humanity’s broken risk perception is reversing global progress](https://www.undrr.org/news/humanitys-broken-risk-perception-reversing-global-progress-spiral-self-destruction-finds-new)
+- May 09 - [The realtime web: evolution of the user experience](https://ably.com/blog/the-realtime-web-evolution-of-the-user-experience)
+- May 09 - [Tesseract.js – Pure JavaScript OCR](https://github.com/naptha/tesseract.js)
+- May 09 - [Farewell, Etaoin Shrdlu (1978) [video]](https://archive.org/details/FarewellEtaoinShrdlu)
+- May 09 - [I'm a fucking webmaster](https://justinjackson.ca/webmaster/)
+- May 09 - [So You Wanna Be a Chef – By Bourdain (2010)](https://web.archive.org/web/20210225165109/https://ruhlman.com/so-you-wanna-be-a-chef-by-bourdain-2/)
 <!--END_SECTION:hn-->
 
 <!--
