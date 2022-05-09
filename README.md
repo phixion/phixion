@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 09 - [Colleges where everyone works and there's no tuition](https://www.newsnationnow.com/us-news/education/no-tuition-free-work-colleges-us/)
-- May 09 - [Ask HN: Is DBA still a good job?](https://news.ycombinator.com/item?id=31309729)
-- May 09 - [Boston University Undergraduate Costs Reach $80k](https://www.bu.edu/admissions/tuition-aid/tuition/)
-- May 09 - [I Saw a Cool Truck Today](https://theap.substack.com/p/i-saw-a-cool-truck-today)
-- May 09 - [The quest to explore Colombia’s untouched jungle](https://www.bbc.com/future/article/20180712-the-quest-to-explore-colombias-untouched-jungles)
+- May 09 - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+- May 09 - [Parsing / Recursive Descent Parser](https://www.huy.rocks/everyday/05-08-2022-parsing-recursive-descent-parser)
+- May 09 - [Short URLs: Why and How](https://sive.rs/su)
+- May 09 - [Agile and the Long Crisis of Software](https://logicmag.io/clouds/agile-and-the-long-crisis-of-software/)
+- May 09 - [Humanity’s broken risk perception is reversing global progress](https://www.undrr.org/news/humanitys-broken-risk-perception-reversing-global-progress-spiral-self-destruction-finds-new)
 <!--END_SECTION:hn-->
 
 <!--
