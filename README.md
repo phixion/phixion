@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 08 - [Forget personalisation, it’s impossible and it doesn’t work](https://www.marketingweek.com/peter-weinberg-jon-lombardo-personalisation-impersonalisation/)
-- May 08 - [A Case for an Open Source CS Curriculum [pdf]](https://homes.cs.washington.edu/~tom/talks/edslides.pdf)
-- May 08 - [“I don't know the numbers”: a math puzzle](https://alexanderell.is/posts/numbers-game/)
-- May 08 - [Show HN: Pointless – Endless drawing canvas desktop app](https://github.com/kkoomen/pointless)
-- May 08 - [Use fzf for tmux session switching](https://waylonwalker.com/tmux-fzf-session-jump/)
+- May 09 - [Colleges where everyone works and there's no tuition](https://www.newsnationnow.com/us-news/education/no-tuition-free-work-colleges-us/)
+- May 09 - [Ask HN: Is DBA still a good job?](https://news.ycombinator.com/item?id=31309729)
+- May 09 - [Boston University Undergraduate Costs Reach $80k](https://www.bu.edu/admissions/tuition-aid/tuition/)
+- May 09 - [I Saw a Cool Truck Today](https://theap.substack.com/p/i-saw-a-cool-truck-today)
+- May 09 - [The quest to explore Colombia’s untouched jungle](https://www.bbc.com/future/article/20180712-the-quest-to-explore-colombias-untouched-jungles)
 <!--END_SECTION:hn-->
 
 <!--
