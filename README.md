@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 09 - [The realtime web: evolution of the user experience](https://ably.com/blog/the-realtime-web-evolution-of-the-user-experience)
-- May 09 - [Tesseract.js – Pure JavaScript OCR](https://github.com/naptha/tesseract.js)
-- May 09 - [Farewell, Etaoin Shrdlu (1978) [video]](https://archive.org/details/FarewellEtaoinShrdlu)
-- May 09 - [I'm a fucking webmaster](https://justinjackson.ca/webmaster/)
-- May 09 - [So You Wanna Be a Chef – By Bourdain (2010)](https://web.archive.org/web/20210225165109/https://ruhlman.com/so-you-wanna-be-a-chef-by-bourdain-2/)
+- May 09 - [Scripting COM components in Haskell (1998) [pdf]](https://cmpct.info/~calvin/Papers/com.pdf)
+- May 09 - [Tips – Preview the Mac app people forget about](https://www.fourth-wall.co.uk/post/10-tips-for-preview-the-default-mac-app-that-people-forget-about)
+- May 09 - [Show HN: YouBarter – A Nonprofit Bartering Platform](https://news.ycombinator.com/item?id=31314666)
+- May 09 - [The Dutch city testing the future of urban life](https://www.bbc.com/future/article/20220404-the-dutch-city-experimenting-with-the-future-of-urban-life)
+- May 09 - [“It Is Getting Worse. People Are Leaving”](https://www.railwayage.com/regulatory/it-is-getting-worse-people-are-leaving/)
 <!--END_SECTION:hn-->
 
 <!--
