@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 09 - [On Creating a Social Network](https://0xff.nu/social-network)
-- May 09 - [UST Stablecoin Loses Dollar Peg](https://www.coindesk.com/business/2022/05/09/ust-stablecoin-falls-below-dollar-peg-for-second-time-in-48-hours/)
-- May 09 - [Food Deserts in America](https://moveforhunger.org/harsh-reality-food-deserts-america)
-- May 09 - [A CEO's Guide to Emacs (2015)](https://www.fugue.co/blog/2015-11-11-guide-to-emacs.html)
-- May 09 - [Show HN: A Spatial Environment for Python](https://python.natto.dev/)
+- May 10 - [Show HN: A CLI to kick-start any language](https://news.ycombinator.com/item?id=31323055)
+- May 10 - [Cloud TPU VMs are generally available](https://cloud.google.com/blog/products/compute/cloud-tpu-vms-are-generally-available)
+- May 10 - [Kornia: Differential Computer Vision](https://github.com/kornia/kornia)
+- May 10 - [The White House’s weirdly hip record collection](https://www.washingtonian.com/2022/05/03/the-untold-story-of-the-white-houses-weirdly-hip-record-collection/)
+- May 10 - [Coinbase stock lost over 75% value](https://www.google.com/search?q=coinbase+stock)
 <!--END_SECTION:hn-->
 
 <!--
