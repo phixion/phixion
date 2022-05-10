@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 10 - [Oxygen Candles: Providing Emergency Air](https://minearc.com/oxygen-candles-providing-emergency-air/)
-- May 10 - [Apple, Google, and Microsoft commit to expanded support for FIDO standard](https://www.apple.com/newsroom/2022/05/apple-google-and-microsoft-commit-to-expanded-support-for-fido-standard/)
-- May 10 - [Catalog of Elixir-specific code smells](https://github.com/lucasvegi/Elixir-Code-Smells)
-- May 10 - [Long-Chain Omega-3 Fatty Acids Improve Brain Function, Structure in Older Adults (2014)](https://academic.oup.com/cercor/article/24/11/3059/304487)
-- May 10 - [The Problem with Slack at Scale](https://liorn.substack.com/p/the-problem-with-slack)
+- May 10 - [Poll Everywhere (YC S08) Is Hiring Rails/Turbo Engineers](https://jobs.lever.co/polleverywhere)
+- May 10 - [2022 Pulitzer Prize Winner in Explanatory Reporting: Staff of Quanta Magazine](https://www.pulitzer.org/winners/staff-quanta-magazine-new-york-ny-notably-natalie-wolchover)
+- May 10 - [Can a laptop from 2012 be a viable home server?](https://ounapuu.ee/posts/2022/05/10/thinkpad-as-a-home-server/)
+- May 10 - [NPM Vulnerability Discussion on Twitter](https://www.solipsys.co.uk/Chartter/1523831884786151424.svg)
+- May 10 - [No Dislikes has officially ruined YouTube for me](https://news.ycombinator.com/item?id=31324917)
 <!--END_SECTION:hn-->
 
 <!--
