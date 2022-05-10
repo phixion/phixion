@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 09 - [Fly.io Buys Litestream](https://fly.io/blog/all-in-on-sqlite-litestream/)
-- May 09 - [Flares from black hole binaries: black hole shadows via light-curve tomography](https://arxiv.org/abs/2112.05829)
-- May 09 - [The Radioactive Boy Scout (2009)](https://talesfromthenuclearage.wordpress.com/2009/12/13/the-radioactive-boy-scout/)
-- May 09 - [Ask HN: Why does nobody support h.265/HEVC anymore?](https://news.ycombinator.com/item?id=31317989)
-- May 09 - [Show HN: Pythondocs.xyz – Live search for Python documentation](https://pythondocs.xyz/)
+- May 09 - [On Creating a Social Network](https://0xff.nu/social-network)
+- May 09 - [UST Stablecoin Loses Dollar Peg](https://www.coindesk.com/business/2022/05/09/ust-stablecoin-falls-below-dollar-peg-for-second-time-in-48-hours/)
+- May 09 - [Food Deserts in America](https://moveforhunger.org/harsh-reality-food-deserts-america)
+- May 09 - [A CEO's Guide to Emacs (2015)](https://www.fugue.co/blog/2015-11-11-guide-to-emacs.html)
+- May 09 - [Show HN: A Spatial Environment for Python](https://python.natto.dev/)
 <!--END_SECTION:hn-->
 
 <!--
