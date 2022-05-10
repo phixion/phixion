@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 10 - [Show HN: A CLI to kick-start any language](https://news.ycombinator.com/item?id=31323055)
-- May 10 - [Cloud TPU VMs are generally available](https://cloud.google.com/blog/products/compute/cloud-tpu-vms-are-generally-available)
-- May 10 - [Kornia: Differential Computer Vision](https://github.com/kornia/kornia)
-- May 10 - [The White House’s weirdly hip record collection](https://www.washingtonian.com/2022/05/03/the-untold-story-of-the-white-houses-weirdly-hip-record-collection/)
-- May 10 - [Coinbase stock lost over 75% value](https://www.google.com/search?q=coinbase+stock)
+- May 10 - [Oxygen Candles: Providing Emergency Air](https://minearc.com/oxygen-candles-providing-emergency-air/)
+- May 10 - [Apple, Google, and Microsoft commit to expanded support for FIDO standard](https://www.apple.com/newsroom/2022/05/apple-google-and-microsoft-commit-to-expanded-support-for-fido-standard/)
+- May 10 - [Catalog of Elixir-specific code smells](https://github.com/lucasvegi/Elixir-Code-Smells)
+- May 10 - [Long-Chain Omega-3 Fatty Acids Improve Brain Function, Structure in Older Adults (2014)](https://academic.oup.com/cercor/article/24/11/3059/304487)
+- May 10 - [The Problem with Slack at Scale](https://liorn.substack.com/p/the-problem-with-slack)
 <!--END_SECTION:hn-->
 
 <!--
