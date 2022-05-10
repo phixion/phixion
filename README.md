@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 10 - [Poll Everywhere (YC S08) Is Hiring Rails/Turbo Engineers](https://jobs.lever.co/polleverywhere)
-- May 10 - [2022 Pulitzer Prize Winner in Explanatory Reporting: Staff of Quanta Magazine](https://www.pulitzer.org/winners/staff-quanta-magazine-new-york-ny-notably-natalie-wolchover)
-- May 10 - [Can a laptop from 2012 be a viable home server?](https://ounapuu.ee/posts/2022/05/10/thinkpad-as-a-home-server/)
-- May 10 - [NPM Vulnerability Discussion on Twitter](https://www.solipsys.co.uk/Chartter/1523831884786151424.svg)
-- May 10 - [No Dislikes has officially ruined YouTube for me](https://news.ycombinator.com/item?id=31324917)
+- May 10 - [Goldman Sachs shrinking its SPAC business](https://www.cnbc.com/2022/05/09/goldman-sachs-is-shrinking-its-spac-business-amid-regulatory-crackdown-and-market-turmoil.html)
+- May 10 - [Someone wrote a PhD thesis on bells](https://www.hibberts.co.uk/)
+- May 10 - [Give me back my monolith](https://www.craigkerstiens.com/2019/03/13/give-me-back-my-monolith/)
+- May 10 - [A common sunscreen ingredient turns toxic in the sea – anemones suggest why](https://www.nature.com/articles/d41586-022-01271-4)
+- May 10 - [Parsing expressions by precedence climbing (2012)](https://eli.thegreenplace.net/2012/08/02/parsing-expressions-by-precedence-climbing)
 <!--END_SECTION:hn-->
 
 <!--
