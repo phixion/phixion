@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 10 - [Goldman Sachs shrinking its SPAC business](https://www.cnbc.com/2022/05/09/goldman-sachs-is-shrinking-its-spac-business-amid-regulatory-crackdown-and-market-turmoil.html)
-- May 10 - [Someone wrote a PhD thesis on bells](https://www.hibberts.co.uk/)
-- May 10 - [Give me back my monolith](https://www.craigkerstiens.com/2019/03/13/give-me-back-my-monolith/)
-- May 10 - [A common sunscreen ingredient turns toxic in the sea – anemones suggest why](https://www.nature.com/articles/d41586-022-01271-4)
-- May 10 - [Parsing expressions by precedence climbing (2012)](https://eli.thegreenplace.net/2012/08/02/parsing-expressions-by-precedence-climbing)
+- May 10 - [Eurovision Diaries](https://m-m-pr.com/eurovision-diaries/)
+- May 10 - [Rules for Conferences](https://milan.cvitkovic.net/writing/rules_for_conferences/)
+- May 10 - [AltTab – Windows alt-tab on macOS](https://alt-tab-macos.netlify.app/)
+- May 10 - [FAA Changes Course on EVTOL Certification](https://theaircurrent.com/aircraft-development/faa-changes-course-on-evtol-certification/)
+- May 10 - [The day I discovered that Apple Maps is Kind of Good now](https://xkcd.com/2617/)
 <!--END_SECTION:hn-->
 
 <!--
