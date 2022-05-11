@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 11 - [W3C Proposes the Creation of a WebView Community Group](https://lists.w3.org/Archives/Public/public-new-work/2022Mar/0004.html)
-- May 11 - [Animated Sequence Diagrams](https://observablehq.com/@tomlarkworthy/animated-sequence-diagrams)
-- May 11 - [UST “Stablecoin” at $.31](https://coinmarketcap.com/currencies/terrausd/)
-- May 11 - [Understanding the bin, sbin, usr/bin, usr/sbin split (2010)](http://lists.busybox.net/pipermail/busybox/2010-December/074114.html)
-- May 11 - [Tech Salaries in 2022: Why the Six Figure Pay Makes Techies Feel Underpaid](https://www.toolbox.com/tech/it-careers-skills/articles/tech-salaries-why-techies-feel-underpaid/)
+- May 11 - [Join YC's Career Expo June 8 to meet YC founders and find open roles](https://news.ycombinator.com/item?id=31338625)
+- May 11 - [Neoliberalism has resulted in preference for greater income inequality](https://www.nyu.edu/about/news-publications/news/2022/may/neoliberal-policies--institutions-have-prompted-preference-for-g.html)
+- May 11 - [Thousands of Popular Websites See What You Type–Before You Hit Submit](https://www.wired.com/story/leaky-forms-keyloggers-meta-tiktok-pixel-study/)
+- May 11 - [Mysterious Memset](https://vector-of-bool.github.io/2022/05/11/char8-memset.html)
+- May 11 - [Smishing](https://zitadel.ch/blog/smishing)
 <!--END_SECTION:hn-->
 
 <!--
