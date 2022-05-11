@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 10 - [Why “Staying Out of It” Backfires in Moral and Political Disagreements[pdf]](https://static1.squarespace.com/static/594d74ab1b631b0c28cdf456/t/6263a5367b211a35fe6c968c/1650697530782/2022-54630-001.pdf)
-- May 10 - [Why do USB-C hubs still have USB 2.0 ports?](https://dancharblog.wordpress.com/2021/08/19/why-do-usb-c-hubs-still-have-usb-2-0-ports/)
-- May 10 - [Show HN: Prefixed, dual-token, base58 encoded API Keys](https://github.com/seamapi/prefixed-api-key)
-- May 10 - [Slik: A data processing and modelling Python library](https://slik-wrangler.medium.com/introducing-slik-a-data-processing-and-modelling-python-library-5cfd837ce01b)
-- May 10 - [“Shuwa-Shuwa” is an illustrated book of Japanese onomatopoeia](https://www.spoon-tamago.com/2021/02/22/japanese-onomatopoeia-book-shuwa-shuwa/)
+- May 11 - [First commercially viable lithium solid state battery charges to 80% in 15 mins](https://www.thebrighterside.news/post/first-commercially-viable-lithium-metal-solid-state-battery-charges-to-80-in-just-15-minute)
+- May 11 - [‘Machine Scientists’ Distill the Laws of Physics from Raw Data](https://www.quantamagazine.org/machine-scientists-distill-the-laws-of-physics-from-raw-data-20220510/)
+- May 11 - [Tiger Global, hit by $17B in hedge fund losses, has nearly depleted its VC fund](https://techcrunch.com/2022/05/10/tiger-global-hit-by-17b-hedge-fund-losses-has-nearly-depleted-its-latest-vc-fund/)
+- May 11 - [Why I left Google: work-life balance](https://www.scottkennedy.us/balance.html)
+- May 11 - [Firezone (YC W22) Is Hiring a Senior Release Engineer (Remote Anywhere)](https://www.ycombinator.com/companies/firezone/jobs/UCIGxy5-senior-release-engineer)
 <!--END_SECTION:hn-->
 
 <!--
