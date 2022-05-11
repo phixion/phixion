@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 11 - [Why I Quit Google’s WebAssembly Team, and How It Made Me Sick](https://medium.com/@katelyngadd/why-i-quit-googles-webassembly-team-and-how-it-made-me-sick-c50ef562ce1)
-- May 11 - [BERTopic: The Future of Topic Modeling](https://www.pinecone.io/learn/bertopic/)
-- May 11 - [European Commission prefers breaking privacy to protecting kids](https://www.lightbluetouchpaper.org/2022/05/11/european-commission-prefers-breaking-privacy-to-protecting-kids/)
-- May 11 - [Stripe Open Sources Markdoc](https://markdoc.io)
-- May 11 - [Record-breaking camera keeps everything between 3 cm and 1.7 km in focus](https://newatlas.com/photography/nist-light-field-camera-record-depth-of-field/)
+- May 11 - [Flutter 3](https://docs.flutter.dev/whats-new#may-11-2022-google-io-edition-flutter-3-release)
+- May 11 - [Master at Arms Merit Badge – Boy Scouts Hand to Hand Combat [pdf]](https://web.archive.org/web/20211101051546if_/http://bsatroop883.com/wp-content/uploads/2015/11/Master-at-Arms.pdf)
+- May 11 - [Our Experience Porting the YJIT Ruby Compiler to Rust](https://shopify.engineering/porting-yjit-ruby-compiler-to-rust)
+- May 11 - [I/O 2022](https://blog.google/technology/developers/io-2022/)
+- May 11 - [Windows Terminal Source Code](https://github.com/microsoft/terminal)
 <!--END_SECTION:hn-->
 
 <!--
