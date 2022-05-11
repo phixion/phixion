@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 10 - [Eurovision Diaries](https://m-m-pr.com/eurovision-diaries/)
-- May 10 - [Rules for Conferences](https://milan.cvitkovic.net/writing/rules_for_conferences/)
-- May 10 - [AltTab – Windows alt-tab on macOS](https://alt-tab-macos.netlify.app/)
-- May 10 - [FAA Changes Course on EVTOL Certification](https://theaircurrent.com/aircraft-development/faa-changes-course-on-evtol-certification/)
-- May 10 - [The day I discovered that Apple Maps is Kind of Good now](https://xkcd.com/2617/)
+- May 10 - [Why “Staying Out of It” Backfires in Moral and Political Disagreements[pdf]](https://static1.squarespace.com/static/594d74ab1b631b0c28cdf456/t/6263a5367b211a35fe6c968c/1650697530782/2022-54630-001.pdf)
+- May 10 - [Why do USB-C hubs still have USB 2.0 ports?](https://dancharblog.wordpress.com/2021/08/19/why-do-usb-c-hubs-still-have-usb-2-0-ports/)
+- May 10 - [Show HN: Prefixed, dual-token, base58 encoded API Keys](https://github.com/seamapi/prefixed-api-key)
+- May 10 - [Slik: A data processing and modelling Python library](https://slik-wrangler.medium.com/introducing-slik-a-data-processing-and-modelling-python-library-5cfd837ce01b)
+- May 10 - [“Shuwa-Shuwa” is an illustrated book of Japanese onomatopoeia](https://www.spoon-tamago.com/2021/02/22/japanese-onomatopoeia-book-shuwa-shuwa/)
 <!--END_SECTION:hn-->
 
 <!--
