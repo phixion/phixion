@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 12 - [Pachyderm Is Hiring Data Science Product Managers to Pioneer Reproducible MLOps](https://www.pachyderm.com/careers/#positions)
-- May 12 - [Show HN: Swimlanes for Trello (at last!)](https://www.bluecatreports.com/swimlanes/)
-- May 12 - [The saddest “just ship it” story ever](https://kitze.io/posts/saddest-just-ship-it-story-ever)
-- May 12 - [EU Commission is planning automatic CSAM scanning of your private communication](https://tutanota.com/blog/posts/eu-surveillance-csam/)
-- May 12 - [New Twitter TOS](https://www.diffchecker.com/N1cAYuis)
+- May 12 - [Introduction to Diffusion Models for Machine Learning](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
+- May 12 - [A Generalist Agent [pdf]](https://storage.googleapis.com/deepmind-media/A%20Generalist%20Agent/Generalist%20Agent.pdf)
+- May 12 - [Transfusion of brain fluid from young mice improves memory in old mice](https://www.statnews.com/2022/05/11/transfusion-of-young-cerebrospinal-fluid-is-memory-elevating-elixir/)
+- May 12 - [Friendlier SQL with DuckDB](https://duckdb.org/2022/05/04/friendlier-sql.html)
+- May 12 - [Kea 3.0 – State Management via Logic Builders](https://keajs.org/blog/kea-3.0/)
 <!--END_SECTION:hn-->
 
 <!--
