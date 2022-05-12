@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 12 - [Finland will seek NATO membership immediately](https://www.presidentti.fi/tiedote/tasavallan-presidentin-ja-paaministerin-yhteislausunto-suomen-nato-jasenyydesta/)
-- May 12 - [Enso (YC S21) Is Hiring Rust Developer](https://www.ycombinator.com/companies/enso/jobs/5AhkHFF-senior-rust-developer)
-- May 12 - [Tether starting to lose its peg too, after Terra did](https://community.intercoin.org/t/what-backs-a-currency-terra-luna-drops-nearly-100/2518)
-- May 12 - [Does anyone care anymore what Google demos in IO?](https://news.ycombinator.com/item?id=31349266)
-- May 12 - [How many melodies are there? (2014)](https://plus.maths.org/content/how-many-melodies-are-there)
+- May 12 - [Pachyderm Is Hiring Data Science Product Managers to Pioneer Reproducible MLOps](https://www.pachyderm.com/careers/#positions)
+- May 12 - [Show HN: Swimlanes for Trello (at last!)](https://www.bluecatreports.com/swimlanes/)
+- May 12 - [The saddest “just ship it” story ever](https://kitze.io/posts/saddest-just-ship-it-story-ever)
+- May 12 - [EU Commission is planning automatic CSAM scanning of your private communication](https://tutanota.com/blog/posts/eu-surveillance-csam/)
+- May 12 - [New Twitter TOS](https://www.diffchecker.com/N1cAYuis)
 <!--END_SECTION:hn-->
 
 <!--
