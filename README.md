@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 12 - [How many melodies are there?](https://plus.maths.org/content/how-many-melodies-are-there)
-- May 12 - [Euro Is at $1.05–The Lowest It’s Been in Years](https://www.afar.com/magazine/the-dollar-and-euro-are-almost-equal-right-now)
-- May 12 - [I Miss Heroku's DevEx](https://christine.website/blog/heroku-devex-2022-05-12)
-- May 12 - [Volume of an n-ball tends to a limiting value of 0 as n goes to infinity](https://en.wikipedia.org/wiki/Volume_of_an_n-ball)
-- May 12 - [Nota: A Document Language for the Browser](https://nota-lang.org/)
+- May 12 - [Finland will seek NATO membership immediately](https://www.presidentti.fi/tiedote/tasavallan-presidentin-ja-paaministerin-yhteislausunto-suomen-nato-jasenyydesta/)
+- May 12 - [Enso (YC S21) Is Hiring Rust Developer](https://www.ycombinator.com/companies/enso/jobs/5AhkHFF-senior-rust-developer)
+- May 12 - [Tether starting to lose its peg too, after Terra did](https://community.intercoin.org/t/what-backs-a-currency-terra-luna-drops-nearly-100/2518)
+- May 12 - [Does anyone care anymore what Google demos in IO?](https://news.ycombinator.com/item?id=31349266)
+- May 12 - [How many melodies are there? (2014)](https://plus.maths.org/content/how-many-melodies-are-there)
 <!--END_SECTION:hn-->
 
 <!--
