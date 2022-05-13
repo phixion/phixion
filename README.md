@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 13 - [Jiga (YC W21) Is Hiring a full stack engineer](https://www.workatastartup.com/jobs/44310)
-- May 13 - [Police claims to have fingerprinted computer based on printed document](https://www.nrk.no/norge/nye-opplysninger-om-trusselbrevet-i-forsvinningssaken_-_-vet-vi-sa-a-si-alt-om-dette-dokumentet-1.15965322)
-- May 13 - [Show HN: A Visual IDE for React](https://dev.aspect.app)
-- May 13 - [A guide to getting started with embedded systems](https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/)
-- May 13 - [EverQuest players break sacred MMO code by waking up 20-year-old dragon](https://www.pcgamer.com/everquest-players-break-sacred-mmo-code-by-waking-up-20-year-old-dragon/)
+- May 13 - [Svix (YC W21) Is Hiring a Rust Back End Engineer (Remote)](https://www.svix.com/careers/?utm_source=news.ycombinator.com&utm_medium=referral&utm_campaign=hacker-news-jobs)
+- May 13 - [The Other Kind of Staff Software Engineer](https://earthly.dev/blog/line-staff/)
+- May 13 - [Twitter Deal Temporarily on Hold](https://twitter.com/elonmusk/status/1525049369552048129)
+- May 13 - [Notes on Virtual Threads and Clojure](https://ales.rocks/notes-on-virtual-threads-and-clojure)
+- May 13 - [Employers’ Use of AI Tools Can Violate the Americans with Disabilities Act](https://www.justice.gov/opa/pr/justice-department-and-eeoc-warn-against-disability-discrimination)
 <!--END_SECTION:hn-->
 
 <!--
