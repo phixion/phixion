@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 12 - [Plants grown in Apollo lunar regolith](https://www.nature.com/articles/s42003-022-03334-8)
-- May 12 - [Charming Cobras with Bubbletea – Part 1](https://elewis.dev/charming-cobras-with-bubbletea-part-1)
-- May 12 - [sccache – Shared Compilation Cache](https://github.com/mozilla/sccache)
-- May 12 - [Map of Reddit](https://anvaka.github.io/map-of-reddit/)
-- May 12 - [Show HN: I built a service to help companies reduce AWS spend by 50%](https://news.ycombinator.com/item?id=31357221)
+- May 12 - [Shared success in building a safer open-source community](https://blog.google/technology/safety-security/shared-success-in-building-a-safer-open-source-community/)
+- May 12 - [Advice: Startup Failure and Debt](https://news.ycombinator.com/item?id=31361127)
+- May 12 - [Ngn/k (free K implementation)](https://codeberg.org/ngn/k)
+- May 12 - [Infrastructure From Code](https://www.shuttle.rs/blog/2022/05/09/ifc)
+- May 12 - [Reversing Myopia: A Human-Friendly Primer](https://www.losetheglasses.org/)
 <!--END_SECTION:hn-->
 
 <!--
