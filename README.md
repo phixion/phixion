@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 13 - [Cities with Nice Weather](https://jdonland.github.io/city_temperatures/index.html)
-- May 13 - [BBC Basic for SDL 2.0](https://www.bbcbasic.co.uk/bbcsdl/index.html)
-- May 13 - [Tokay Programming Language](https://tokay.dev/)
-- May 13 - [Ziina (YC W21) Is Hiring for Senior+ iOS and Back End Engineers in Dubai](https://news.ycombinator.com/item?id=31361983)
-- May 13 - [Ask HN: Asynchronous FPGAs and flowchart programming](https://news.ycombinator.com/item?id=31361858)
+- May 13 - [Jiga (YC W21) Is Hiring a full stack engineer](https://www.workatastartup.com/jobs/44310)
+- May 13 - [Police claims to have fingerprinted computer based on printed document](https://www.nrk.no/norge/nye-opplysninger-om-trusselbrevet-i-forsvinningssaken_-_-vet-vi-sa-a-si-alt-om-dette-dokumentet-1.15965322)
+- May 13 - [Show HN: A Visual IDE for React](https://dev.aspect.app)
+- May 13 - [A guide to getting started with embedded systems](https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/)
+- May 13 - [EverQuest players break sacred MMO code by waking up 20-year-old dragon](https://www.pcgamer.com/everquest-players-break-sacred-mmo-code-by-waking-up-20-year-old-dragon/)
 <!--END_SECTION:hn-->
 
 <!--
