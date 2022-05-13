@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 13 - [Sliderland – Creative coding with 64 HTML sliders](https://sliderland.blinry.org/)
-- May 13 - [Nanobots Can Swim Around a Wound and Kill Bacteria](https://www.wired.com/story/these-nanobots-can-swim-around-a-wound-and-kill-bacteria/)
-- May 13 - [Talking with the Moon: Inside Apollo's premodulation processor](http://www.righto.com/2022/05/talking-with-moon-inside-apollos.html)
-- May 13 - [The scourge of Rec dot gov (2021)](https://pmags.com/the-scourge-of-rec-dot-gov)
-- May 13 - [Safari Technology Preview Release Notes](https://developer.apple.com/safari/technology-preview/release-notes/)
+- May 13 - [Show HN: A Full-Stack Web Framework for Go](https://github.com/livebud/bud)
+- May 13 - [The Nature of the Firm (1937)](https://en.wikipedia.org/wiki/The_Nature_of_the_Firm)
+- May 13 - [Origin of life theory involving RNA–protein hybrid gets new support](https://www.nature.com/articles/d41586-022-01303-z)
+- May 13 - [Henry George's Progress and Poverty Reviewed](https://gameofrent.com/content/progress-and-poverty-review)
+- May 13 - [Build better healthcare for your parents](https://jobs.ashbyhq.com/fairsquaremedicare/cba59bb6-22c6-4ca6-a995-824c2b853065)
 <!--END_SECTION:hn-->
 
 <!--
