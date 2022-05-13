@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 13 - [Svix (YC W21) Is Hiring a Rust Back End Engineer (Remote)](https://www.svix.com/careers/?utm_source=news.ycombinator.com&utm_medium=referral&utm_campaign=hacker-news-jobs)
-- May 13 - [The Other Kind of Staff Software Engineer](https://earthly.dev/blog/line-staff/)
-- May 13 - [Twitter Deal Temporarily on Hold](https://twitter.com/elonmusk/status/1525049369552048129)
-- May 13 - [Notes on Virtual Threads and Clojure](https://ales.rocks/notes-on-virtual-threads-and-clojure)
-- May 13 - [Employers’ Use of AI Tools Can Violate the Americans with Disabilities Act](https://www.justice.gov/opa/pr/justice-department-and-eeoc-warn-against-disability-discrimination)
+- May 13 - [Sliderland – Creative coding with 64 HTML sliders](https://sliderland.blinry.org/)
+- May 13 - [Nanobots Can Swim Around a Wound and Kill Bacteria](https://www.wired.com/story/these-nanobots-can-swim-around-a-wound-and-kill-bacteria/)
+- May 13 - [Talking with the Moon: Inside Apollo's premodulation processor](http://www.righto.com/2022/05/talking-with-moon-inside-apollos.html)
+- May 13 - [The scourge of Rec dot gov (2021)](https://pmags.com/the-scourge-of-rec-dot-gov)
+- May 13 - [Safari Technology Preview Release Notes](https://developer.apple.com/safari/technology-preview/release-notes/)
 <!--END_SECTION:hn-->
 
 <!--
