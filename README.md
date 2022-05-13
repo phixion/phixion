@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 12 - [Shared success in building a safer open-source community](https://blog.google/technology/safety-security/shared-success-in-building-a-safer-open-source-community/)
-- May 12 - [Advice: Startup Failure and Debt](https://news.ycombinator.com/item?id=31361127)
-- May 12 - [Ngn/k (free K implementation)](https://codeberg.org/ngn/k)
-- May 12 - [Infrastructure From Code](https://www.shuttle.rs/blog/2022/05/09/ifc)
-- May 12 - [Reversing Myopia: A Human-Friendly Primer](https://www.losetheglasses.org/)
+- May 13 - [Cities with Nice Weather](https://jdonland.github.io/city_temperatures/index.html)
+- May 13 - [BBC Basic for SDL 2.0](https://www.bbcbasic.co.uk/bbcsdl/index.html)
+- May 13 - [Tokay Programming Language](https://tokay.dev/)
+- May 13 - [Ziina (YC W21) Is Hiring for Senior+ iOS and Back End Engineers in Dubai](https://news.ycombinator.com/item?id=31361983)
+- May 13 - [Ask HN: Asynchronous FPGAs and flowchart programming](https://news.ycombinator.com/item?id=31361858)
 <!--END_SECTION:hn-->
 
 <!--
