@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 14 - [Netflix to Employees: If you don't like our content, you can quit](https://www.wsj.com/articles/netflix-to-employees-if-you-dont-like-our-content-you-can-quit-11652478092)
-- May 14 - [‎Cracking the Code: Sneakers at 30](https://letterboxd.com/journal/cracking-the-code-sneakers/)
-- May 14 - [Why Success in Canada Means Moving to America](https://thewalrus.ca/why-success-in-canada-means-moving-to-america/)
-- May 14 - [Edge Lane Roads a.k.a. Advisory Bike Lanes](https://www.advisorybikelanes.com/)
-- May 14 - [Pirate Site Blocking Is Making Its Way into Free Trade Agreements](https://torrentfreak.com/pirate-site-blocking-is-making-its-way-into-free-trade-agreements-220508/)
+- May 14 - [Eurovision Song Contest Bingo](https://eurovision.vonmalmborg.com/)
+- May 14 - [Hundreds of patient data breaches are left unpunished](https://www.bmj.com/content/377/bmj.o1126)
+- May 14 - [867-5309 in All US and Canadian Area Codes](https://telephoneworld.org/landline-telephone-history/867-5309-jenny-in-all-us-and-canadian-area-codes/)
+- May 14 - [The Texas electric grid can barely keep the lights on](https://twitter.com/The_Michael_Lee/status/1525533811873914880)
+- May 14 - [Navattic (YC W21) Is Hiring Product Engineers](https://news.ycombinator.com/item?id=31379925)
 <!--END_SECTION:hn-->
 
 <!--
