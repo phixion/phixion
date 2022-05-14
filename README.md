@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 14 - [Tilde.town is a computer meant for sharing](https://tilde.town/)
-- May 14 - [Russian toops are proving that cell phones in war zones are a bad idea](https://taskandpurpose.com/analysis/russia-ukraine-cell-phones-track-combat/)
-- May 14 - [India bans wheat exports to deepen global food crisis](https://www.telegraph.co.uk/business/2022/05/14/india-bans-wheat-exports-deepen-global-food-crisis/)
-- May 14 - [Better.com Founder/CEO Personally Liable for $750M SoftBank Loan](https://techcrunch.com/2022/05/13/better-com-ceo-vishal-garg-750m-cash-infusion-from-softbank/)
-- May 14 - [Is It Safe to Ship Thousands of Electric Cars on Big Ships?](https://www.autoweek.com/news/industry-news/a39951439/is-it-safe-to-ship-thousands-of-electric-cars-on-big-ships/)
+- May 14 - [OneSignal (YC S11) Is Hiring Engineers to Democratize Mobile Customer Engagement](https://onesignal.com/careers)
+- May 14 - [IQ scores are falling and have been for decades](https://www.cnn.com/2018/06/13/health/falling-iq-scores-study-intl/index.html)
+- May 14 - [Ask HN: Why is Google Premium not a thing?](https://news.ycombinator.com/item?id=31376628)
+- May 14 - [Meal of a lifetime: what to eat at every age](https://www.theguardian.com/lifeandstyle/2022/may/14/meal-of-a-lifetime-what-to-eat-at-every-age)
+- May 14 - [Dokku – Free Heroku Alternative](https://dokku.com/)
 <!--END_SECTION:hn-->
 
 <!--
