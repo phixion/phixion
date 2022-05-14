@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 14 - [OneSignal (YC S11) Is Hiring Engineers to Democratize Mobile Customer Engagement](https://onesignal.com/careers)
-- May 14 - [IQ scores are falling and have been for decades](https://www.cnn.com/2018/06/13/health/falling-iq-scores-study-intl/index.html)
-- May 14 - [Ask HN: Why is Google Premium not a thing?](https://news.ycombinator.com/item?id=31376628)
-- May 14 - [Meal of a lifetime: what to eat at every age](https://www.theguardian.com/lifeandstyle/2022/may/14/meal-of-a-lifetime-what-to-eat-at-every-age)
-- May 14 - [Dokku – Free Heroku Alternative](https://dokku.com/)
+- May 14 - [Netflix to Employees: If you don't like our content, you can quit](https://www.wsj.com/articles/netflix-to-employees-if-you-dont-like-our-content-you-can-quit-11652478092)
+- May 14 - [‎Cracking the Code: Sneakers at 30](https://letterboxd.com/journal/cracking-the-code-sneakers/)
+- May 14 - [Why Success in Canada Means Moving to America](https://thewalrus.ca/why-success-in-canada-means-moving-to-america/)
+- May 14 - [Edge Lane Roads a.k.a. Advisory Bike Lanes](https://www.advisorybikelanes.com/)
+- May 14 - [Pirate Site Blocking Is Making Its Way into Free Trade Agreements](https://torrentfreak.com/pirate-site-blocking-is-making-its-way-into-free-trade-agreements-220508/)
 <!--END_SECTION:hn-->
 
 <!--
