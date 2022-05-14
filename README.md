@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 13 - [The web is in need of some reinvention](https://macwright.com/2020/08/22/clean-starts-for-the-web.html)
+- May 13 - [Why did Heroku fail?](https://matt-rickard.com/why-did-heroku-fail/)
+- May 13 - [Finding and fixing regressions in Lyft's data infrastructure](https://eng.lyft.com/trino-open-source-infrastructure-upgrading-at-lyft-83f26b099fa?gi=e68fb0b17fc9)
+- May 13 - [Ask HN: Any other self taught devs terrified of interviewing these days?](https://news.ycombinator.com/item?id=31371387)
 - May 13 - [Show HN: A Full-Stack Web Framework for Go](https://github.com/livebud/bud)
-- May 13 - [The Nature of the Firm (1937)](https://en.wikipedia.org/wiki/The_Nature_of_the_Firm)
-- May 13 - [Origin of life theory involving RNA–protein hybrid gets new support](https://www.nature.com/articles/d41586-022-01303-z)
-- May 13 - [Henry George's Progress and Poverty Reviewed](https://gameofrent.com/content/progress-and-poverty-review)
-- May 13 - [Build better healthcare for your parents](https://jobs.ashbyhq.com/fairsquaremedicare/cba59bb6-22c6-4ca6-a995-824c2b853065)
 <!--END_SECTION:hn-->
 
 <!--
