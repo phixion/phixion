@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 15 - [Who owns the copyright to my medical images? (2018)](https://shkspr.mobi/blog/2018/11/who-owns-the-copyright-to-my-medical-images/)
-- May 15 - [Webpage List: Discover new websites](https://webpagelist.com/)
-- May 15 - [Golang Diaries: Generics](https://www.tbray.org/ongoing/When/202x/2022/05/14/Golang-Generics)
-- May 15 - [From AWS Lambda and API Gateway to Knative and Kong API Gateway](https://www.pmbanugo.me/blog/2022-02-13-from-aws-lambda-api-gateway-to-knative-kong-api-gateway/)
-- May 15 - [Web Scraping with Python](https://www.scrapingbee.com/blog/web-scraping-101-with-python/)
+- May 15 - [Soupault 4.0.0: as extensible as Jekyll, still statically linked](https://soupault.app/blog/soupault-4.0.0-release/)
+- May 15 - [The weird Hewlett Packard FreeDOS option](https://blog.tmm.cx/2022/05/15/the-very-weird-hewlett-packard-freedos-option/)
+- May 15 - [Total Eclipse of the Moon: 2022 May 16](https://astro.ukho.gov.uk/eclipse/1212022/)
+- May 15 - [The problem with Bitcoin miners](https://paulbutler.org/2022/the-problem-with-bitcoin-miners/)
+- May 15 - [“Carbon Bombs” – Mapping key fossil fuel projects](https://www.sciencedirect.com/science/article/pii/S0301421522001756)
 <!--END_SECTION:hn-->
 
 <!--
