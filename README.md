@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 14 - [Restoring a $25,000 Convergent Technologies Miniframe CTIX Unix Computer](https://www.youtube.com/watch?v=Pbpw8VmNnwU)
-- May 14 - [Spreading rock dust on farms is an overlooked but tantalizing climate solution](https://www.anthropocenemagazine.org/2022/05/the-simple-act-of-spreading-rock-dust-on-farms-is-an-overlooked-but-tantalizing-climate-solution/)
-- May 14 - [Dog digs up haul of medieval coins in Poland](https://notesfrompoland.com/2022/04/20/dog-digs-up-huge-haul-of-medieval-coins-in-poland/)
-- May 14 - [Weak links in finance and supply chains are easily weaponized](https://www.nature.com/articles/d41586-022-01254-5)
-- May 14 - [KDE Connect Now Available on iOS](https://apps.apple.com/ca/app/kde-connect/id1580245991)
+- May 15 - [Crowdsource by Google](https://crowdsource.google.com/about/)
+- May 15 - [A lock-free, concurrent, generic queue in 32 bits](https://nullprogram.com/blog/2022/05/14/)
+- May 15 - [Streaming Server Side Render in React 18](https://github.com/maxam2017/react-18-ssr)
+- May 15 - [Tylr: A tiny tile-based editor](https://tylr.fun/)
+- May 15 - [`curl wttr.in`: Weather in your terminal](https://github.com/chubin/wttr.in)
 <!--END_SECTION:hn-->
 
 <!--
