@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 15 - [SigNoz (YC W21) Is Hiring First Product Designer](https://www.ycombinator.com/companies/signoz/jobs/hnlEENe-product-designer)
+- May 15 - [Intel's New Chimera: Alder Lake](https://www.agner.org/forum/viewtopic.php?t=79&p=187#p187)
+- May 15 - [XOS Electric Trucks](https://xostrucks.com/)
 - May 15 - [Crowdsource by Google](https://crowdsource.google.com/about/)
 - May 15 - [A lock-free, concurrent, generic queue in 32 bits](https://nullprogram.com/blog/2022/05/14/)
-- May 15 - [Streaming Server Side Render in React 18](https://github.com/maxam2017/react-18-ssr)
-- May 15 - [Tylr: A tiny tile-based editor](https://tylr.fun/)
-- May 15 - [`curl wttr.in`: Weather in your terminal](https://github.com/chubin/wttr.in)
 <!--END_SECTION:hn-->
 
 <!--
