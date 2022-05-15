@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 15 - [Own Your Calendar and Contacts with OpenBSD, Baïkal, and FOSS Android](https://baak6.com/baikal-openbsd-fossdroid/)
-- May 15 - [Cron-based backup for SQLite](https://litestream.io/alternatives/cron/)
-- May 15 - [ShadyURL: Don't just shorten your URL, make it suspicious and frightening](http://shadyurl.com/)
-- May 15 - [Communication costs are 35-fold computational costs in the human brain (2021)](https://www.pnas.org/doi/10.1073/pnas.2008173118)
-- May 15 - [Brain FLOPS](https://geohot.github.io//blog/jekyll/update/2022/02/17/brain-flops.html)
+- May 15 - [Who owns the copyright to my medical images? (2018)](https://shkspr.mobi/blog/2018/11/who-owns-the-copyright-to-my-medical-images/)
+- May 15 - [Webpage List: Discover new websites](https://webpagelist.com/)
+- May 15 - [Golang Diaries: Generics](https://www.tbray.org/ongoing/When/202x/2022/05/14/Golang-Generics)
+- May 15 - [From AWS Lambda and API Gateway to Knative and Kong API Gateway](https://www.pmbanugo.me/blog/2022-02-13-from-aws-lambda-api-gateway-to-knative-kong-api-gateway/)
+- May 15 - [Web Scraping with Python](https://www.scrapingbee.com/blog/web-scraping-101-with-python/)
 <!--END_SECTION:hn-->
 
 <!--
