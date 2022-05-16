@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- May 16 - [Read Novel (unverified) - 22,424,472 breached accounts](https://haveibeenpwned.com/PwnedWebsites#ReadNovel)
 - May 16 - [BlackBerry Fans - 174,168 breached accounts](https://haveibeenpwned.com/PwnedWebsites#BlackBerryFans)
 - May 16 - [OGUsers (2021 breach) - 348,302 breached accounts](https://haveibeenpwned.com/PwnedWebsites#OGUsers2021)
 - May 14 - [Paragon Cheats - 188,089 breached accounts](https://haveibeenpwned.com/PwnedWebsites#ParagonCheats)
 - May 02 - [PayHere - 1,580,249 breached accounts](https://haveibeenpwned.com/PwnedWebsites#PayHere)
-- May 02 - [Aimware - 305,470 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Aimware)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 16 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/careers)
-- May 16 - [The Modos Paper Laptop](https://www.modos.tech/blog/modos-paper-laptop)
-- May 16 - [Finger: The First Social Software](https://web.archive.org/web/20190519174635/https://somanymachines.com/tx/finger-the-first-social-software/)
-- May 16 - [Advanced Techniques for Reducing Emacs Startup Time](https://blog.d46.us/advanced-emacs-startup/)
-- May 16 - [I learned to stop worrying and love the YAML](https://leebriggs.co.uk/blog/2022/05/09/learning-to-love-yaml)
+- May 16 - [McDonald’s to Exit from Russia](https://corporate.mcdonalds.com/corpmcd/en-us/our-stories/article/ourstories.mcd-exit-russia.html)
+- May 16 - [Ask HN: Cloud vs. Dedicated Hosting](https://news.ycombinator.com/item?id=31395552)
+- May 16 - [Job interviews that go too far](https://www.bbc.com/worklife/article/20220511-the-working-job-interviews-that-go-too-far)
+- May 16 - [VoCore – Coin-Sized Linux Computer](https://vocore.io/)
+- May 16 - [Almost all searches on my independent search engine are now from SEO spam bots](https://blog.searchmysite.net/posts/almost-all-searches-on-my-independent-search-engine-are-now-from-seo-spam-bots/)
 <!--END_SECTION:hn-->
 
 <!--
