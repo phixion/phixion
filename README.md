@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 15 - [Should We Celebrate Acquisitions?](https://nutcroft.com/blog/should-we-celebrate-acquisitions/)
-- May 15 - [DIY High Resolution Spectrometer](https://publiclab.org/notes/homechemist/08-24-2018/diy-high-resolution-spectrometer)
-- May 15 - [Show HN: KittenDNS – easy to setup, rule engine, LetsEncrypt compatible](https://news.ycombinator.com/item?id=31391376)
-- May 15 - [Surprises in Logic](https://math.ucr.edu/home/baez/surprises.html)
-- May 15 - [Heroku: Core Impact](https://brandur.org/nanoglyphs/033-heroku)
+- May 16 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/careers)
+- May 16 - [The Modos Paper Laptop](https://www.modos.tech/blog/modos-paper-laptop)
+- May 16 - [Finger: The First Social Software](https://web.archive.org/web/20190519174635/https://somanymachines.com/tx/finger-the-first-social-software/)
+- May 16 - [Advanced Techniques for Reducing Emacs Startup Time](https://blog.d46.us/advanced-emacs-startup/)
+- May 16 - [I learned to stop worrying and love the YAML](https://leebriggs.co.uk/blog/2022/05/09/learning-to-love-yaml)
 <!--END_SECTION:hn-->
 
 <!--
