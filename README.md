@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 16 - [McDonald’s to Exit from Russia](https://corporate.mcdonalds.com/corpmcd/en-us/our-stories/article/ourstories.mcd-exit-russia.html)
-- May 16 - [Ask HN: Cloud vs. Dedicated Hosting](https://news.ycombinator.com/item?id=31395552)
-- May 16 - [Job interviews that go too far](https://www.bbc.com/worklife/article/20220511-the-working-job-interviews-that-go-too-far)
-- May 16 - [VoCore – Coin-Sized Linux Computer](https://vocore.io/)
-- May 16 - [Almost all searches on my independent search engine are now from SEO spam bots](https://blog.searchmysite.net/posts/almost-all-searches-on-my-independent-search-engine-are-now-from-seo-spam-bots/)
+- May 16 - [Ansible 2.13](https://github.com/ansible/ansible/blob/stable-2.13/changelogs/CHANGELOG-v2.13.rst)
+- May 16 - [$3B in Bitcoin was sold in a last-ditch attempt to save UST from collapse](https://www.cnbc.com/2022/05/16/what-happened-to-the-bitcoin-reserve-behind-terras-ust-stablecoin.html)
+- May 16 - [Tesla FSD Beta almost causes a head-on collision](https://www.youtube.com/watch?v=zDEWi2nC-Wg)
+- May 16 - [Tel-Aviv University Releases Long-Text NLP Benchmark Scrolls](https://www.infoq.com/news/2022/03/scrolls-nlp-benchmark/)
+- May 16 - [Tell HN: Discord Ignores Right to Erasure](https://news.ycombinator.com/item?id=31397156)
 <!--END_SECTION:hn-->
 
 <!--
