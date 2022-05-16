@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 16 - [Ansible 2.13](https://github.com/ansible/ansible/blob/stable-2.13/changelogs/CHANGELOG-v2.13.rst)
-- May 16 - [$3B in Bitcoin was sold in a last-ditch attempt to save UST from collapse](https://www.cnbc.com/2022/05/16/what-happened-to-the-bitcoin-reserve-behind-terras-ust-stablecoin.html)
-- May 16 - [Tesla FSD Beta almost causes a head-on collision](https://www.youtube.com/watch?v=zDEWi2nC-Wg)
-- May 16 - [Tel-Aviv University Releases Long-Text NLP Benchmark Scrolls](https://www.infoq.com/news/2022/03/scrolls-nlp-benchmark/)
-- May 16 - [Tell HN: Discord Ignores Right to Erasure](https://news.ycombinator.com/item?id=31397156)
+- May 16 - [Meld for Macs](https://yousseb.github.io/meld/)
+- May 16 - [Supercharging GitHub Actions with Job Summaries](https://github.blog/2022-05-09-supercharging-github-actions-with-job-summaries/)
+- May 16 - [Acoustic Keyboard Eavesdropping](https://github.com/ggerganov/kbd-audio)
+- May 16 - [Correct Backups Require Filesystem Snapshots](https://cyounkins.medium.com/correct-backups-require-filesystem-snapshots-23062e2e7a15)
+- May 16 - [Preston’s Paradox](https://www.allendowney.com/blog/2022/05/16/prestons-paradox/)
 <!--END_SECTION:hn-->
 
 <!--
