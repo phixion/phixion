@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 15 - [Soupault 4.0.0: as extensible as Jekyll, still statically linked](https://soupault.app/blog/soupault-4.0.0-release/)
-- May 15 - [The weird Hewlett Packard FreeDOS option](https://blog.tmm.cx/2022/05/15/the-very-weird-hewlett-packard-freedos-option/)
-- May 15 - [Total Eclipse of the Moon: 2022 May 16](https://astro.ukho.gov.uk/eclipse/1212022/)
-- May 15 - [The problem with Bitcoin miners](https://paulbutler.org/2022/the-problem-with-bitcoin-miners/)
-- May 15 - [“Carbon Bombs” – Mapping key fossil fuel projects](https://www.sciencedirect.com/science/article/pii/S0301421522001756)
+- May 15 - [Should We Celebrate Acquisitions?](https://nutcroft.com/blog/should-we-celebrate-acquisitions/)
+- May 15 - [DIY High Resolution Spectrometer](https://publiclab.org/notes/homechemist/08-24-2018/diy-high-resolution-spectrometer)
+- May 15 - [Show HN: KittenDNS – easy to setup, rule engine, LetsEncrypt compatible](https://news.ycombinator.com/item?id=31391376)
+- May 15 - [Heroku: Core Impact](https://brandur.org/nanoglyphs/033-heroku)
+- May 15 - [Congress urged to ease immigration for foreign science talent](https://www.axios.com/2022/05/09/national-security-china-international-science-tech-talent)
 <!--END_SECTION:hn-->
 
 <!--
