@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 17 - [Finley (YC W21) is hiring fintech software engineers (US remote)](https://news.ycombinator.com/item?id=31409182)
-- May 17 - [Ask HN: Cloudflare broke my domain's DNSSEC making it unreachable since 4 days](https://news.ycombinator.com/item?id=31409100)
-- May 17 - [Another stablecoin loses peg – DEI team working to restore the peg](https://finbold.com/warning-another-stablecoin-loses-peg-dei-team-working-to-restore-the-peg/)
-- May 17 - [The impact of digital media on children’s intelligence](https://www.nature.com/articles/s41598-022-11341-2)
-- May 17 - [Arm Open Source makes a seamless migration to GitLab](https://about.gitlab.com/blog/2022/05/17/arm-open-source-makes-a-seamless-migration-to-gitlab/)
+- May 17 - [Ash Sarkar: “Why men need to read more novels”](https://www.gq-magazine.co.uk/culture/article/men-not-reading-novels)
+- May 17 - [Using a Proper Camera as a Webcam](https://tratt.net/laurie/blog/2022/using_a_proper_camera_as_a_webcam.html)
+- May 17 - [I want an iPhone Mini-sized Android phone](https://smallandroidphone.com/)
+- May 17 - [Super-Structured Data: Rethinking the Schema](https://www.brimdata.io/blog/super-structured-data/)
+- May 17 - [Launch HN: Infra (YC W21) – Open-source access management for Kubernetes](https://github.com/infrahq/infra)
 <!--END_SECTION:hn-->
 
 <!--
