@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 16 - [Sandbox-based isolation software for Windows NT-based operating systems](https://github.com/sandboxie-plus/Sandboxie)
-- May 16 - [Common libraries and data structures for C](https://github.com/tezc/sc)
-- May 16 - [Researchers Demo Bluetooth Relay Attack Against Tesla](https://duo.com/decipher/researchers-demo-relay-attack-against-bluetooth-le-systems)
-- May 16 - [Collection of Sun Workstation boot logos](https://github.com/mdehling/sun-fb-logos)
-- May 16 - [Computer work lying down comfortably with a home-made stand over the bed](https://www.cambridgeclarion.org/48.html)
+- May 17 - [Taking a Break from Social Media Makes You Happier and Less Anxious](https://www.calnewport.com/blog/2022/05/16/taking-a-break-from-social-media-makes-you-happier-and-less-anxious/)
+- May 17 - [Fasting boosts stem cells’ regenerative capacity (2018)](https://news.mit.edu/2018/fasting-boosts-stem-cells-regenerative-capacity-0503)
+- May 17 - [Billion-Dollar Crypto Loan Is Easy to Get, but Gone in a Flash](https://www.wsj.com/articles/this-billion-dollar-crypto-loan-is-easy-to-get-but-gone-in-a-flash-11651985089)
+- May 17 - [A Spanish teen’s genome may hold the secret to lupus](https://www.freethink.com/health/genetic-cause-of-lupus)
+- May 17 - [Avoiding burnout (as a student)](https://belkarx.github.io/posts/finished/Avoiding%20Burnout.html)
 <!--END_SECTION:hn-->
 
 <!--
