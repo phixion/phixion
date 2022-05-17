@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 17 - [Earth Overshoot Day](https://www.overshootday.org/)
-- May 17 - [Investors pull $7bn from Tether as stablecoin jitters intensify](https://www.ft.com/content/db9c3f32-cd91-4149-9788-95b2046bea10)
-- May 17 - [Microsoft Opens New HQ in Toronto](https://techbomb.ca/canadian-business/microsoft-opens-new-hq-in-toronto/)
-- May 17 - [OpenAI Codex Python to C++ Code Generator](https://github.com/alxschwrz/codex_py2cpp)
-- May 17 - [Secure Rust Guidelines](https://anssi-fr.github.io/rust-guide/)
+- May 17 - [Finley (YC W21) is hiring fintech software engineers (US remote)](https://news.ycombinator.com/item?id=31409182)
+- May 17 - [Ask HN: Cloudflare broke my domain's DNSSEC making it unreachable since 4 days](https://news.ycombinator.com/item?id=31409100)
+- May 17 - [Another stablecoin loses peg – DEI team working to restore the peg](https://finbold.com/warning-another-stablecoin-loses-peg-dei-team-working-to-restore-the-peg/)
+- May 17 - [The impact of digital media on children’s intelligence](https://www.nature.com/articles/s41598-022-11341-2)
+- May 17 - [Arm Open Source makes a seamless migration to GitLab](https://about.gitlab.com/blog/2022/05/17/arm-open-source-makes-a-seamless-migration-to-gitlab/)
 <!--END_SECTION:hn-->
 
 <!--
