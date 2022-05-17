@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 17 - [Ash Sarkar: “Why men need to read more novels”](https://www.gq-magazine.co.uk/culture/article/men-not-reading-novels)
-- May 17 - [Using a Proper Camera as a Webcam](https://tratt.net/laurie/blog/2022/using_a_proper_camera_as_a_webcam.html)
-- May 17 - [I want an iPhone Mini-sized Android phone](https://smallandroidphone.com/)
-- May 17 - [Super-Structured Data: Rethinking the Schema](https://www.brimdata.io/blog/super-structured-data/)
-- May 17 - [Launch HN: Infra (YC W21) – Open-source access management for Kubernetes](https://github.com/infrahq/infra)
+- May 17 - [Dolphin Progress Report: February, March, and April 2022](https://dolphin-emu.org/blog/2022/05/17/dolphin-progress-report-february-march-and-april-2022/)
+- May 17 - [A dev's thoughts on developer productivity](https://about.sourcegraph.com/blog/developer-productivity-thoughts/)
+- May 17 - [Forgit: A utility tool powered by fzf for using Git interactively](https://github.com/wfxr/forgit)
+- May 17 - [King George and Tsar Nicolas Looked a Lot Alike](https://www.bramadams.dev/projects/cousins-or-dating)
+- May 17 - [Comby - Structural code search and replace for every language](https://comby.dev/)
 <!--END_SECTION:hn-->
 
 <!--
