@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 16 - [Meld for Macs](https://yousseb.github.io/meld/)
-- May 16 - [Supercharging GitHub Actions with Job Summaries](https://github.blog/2022-05-09-supercharging-github-actions-with-job-summaries/)
-- May 16 - [Acoustic Keyboard Eavesdropping](https://github.com/ggerganov/kbd-audio)
-- May 16 - [Correct Backups Require Filesystem Snapshots](https://cyounkins.medium.com/correct-backups-require-filesystem-snapshots-23062e2e7a15)
-- May 16 - [Preston’s Paradox](https://www.allendowney.com/blog/2022/05/16/prestons-paradox/)
+- May 16 - [Sandbox-based isolation software for Windows NT-based operating systems](https://github.com/sandboxie-plus/Sandboxie)
+- May 16 - [Common libraries and data structures for C](https://github.com/tezc/sc)
+- May 16 - [Researchers Demo Bluetooth Relay Attack Against Tesla](https://duo.com/decipher/researchers-demo-relay-attack-against-bluetooth-le-systems)
+- May 16 - [Collection of Sun Workstation boot logos](https://github.com/mdehling/sun-fb-logos)
+- May 16 - [Computer work lying down comfortably with a home-made stand over the bed](https://www.cambridgeclarion.org/48.html)
 <!--END_SECTION:hn-->
 
 <!--
