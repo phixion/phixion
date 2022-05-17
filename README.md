@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 17 - [Taking a Break from Social Media Makes You Happier and Less Anxious](https://www.calnewport.com/blog/2022/05/16/taking-a-break-from-social-media-makes-you-happier-and-less-anxious/)
-- May 17 - [Fasting boosts stem cells’ regenerative capacity (2018)](https://news.mit.edu/2018/fasting-boosts-stem-cells-regenerative-capacity-0503)
-- May 17 - [Billion-Dollar Crypto Loan Is Easy to Get, but Gone in a Flash](https://www.wsj.com/articles/this-billion-dollar-crypto-loan-is-easy-to-get-but-gone-in-a-flash-11651985089)
-- May 17 - [A Spanish teen’s genome may hold the secret to lupus](https://www.freethink.com/health/genetic-cause-of-lupus)
-- May 17 - [Avoiding burnout (as a student)](https://belkarx.github.io/posts/finished/Avoiding%20Burnout.html)
+- May 17 - [Earth Overshoot Day](https://www.overshootday.org/)
+- May 17 - [Investors pull $7bn from Tether as stablecoin jitters intensify](https://www.ft.com/content/db9c3f32-cd91-4149-9788-95b2046bea10)
+- May 17 - [Microsoft Opens New HQ in Toronto](https://techbomb.ca/canadian-business/microsoft-opens-new-hq-in-toronto/)
+- May 17 - [OpenAI Codex Python to C++ Code Generator](https://github.com/alxschwrz/codex_py2cpp)
+- May 17 - [Secure Rust Guidelines](https://anssi-fr.github.io/rust-guide/)
 <!--END_SECTION:hn-->
 
 <!--
