@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 18 - [Padlet Is Hiring in SF to Build Software for a Good Education](https://padlet.jobs)
-- May 18 - [Show HN: Natural Language Processing Demystified (Part One)](https://www.nlpdemystified.org/)
-- May 18 - [Python 3.11 beta vs. 3.10 benchmark](https://github.com/faster-cpython/ideas/blob/657830f1ab35466053634bb165f6582f6d788614/main-vs-310.rst)
-- May 18 - [Please Stop Using Grey Text](https://tangledweb.xyz/please-stop-using-grey-text-3d3e71acfca8)
-- May 18 - [Jailer: A truly relational database tool](https://wisser.github.io/Jailer/data-browsing.html)
+- May 18 - [Accelerated PyTorch Training on M1 Mac](https://pytorch.org/blog/introducing-accelerated-pytorch-training-on-mac/)
+- May 18 - [Textual – A TUI framework for Python inspired by modern web development](https://github.com/Textualize/textual)
+- May 18 - [Total Commander forced to stop letting you install APKs](https://www.androidpolice.com/total-commander-apk-installation-block/)
+- May 18 - [CTemplar Is Shutting Down](https://ctemplar.com/ctemplar-is-shutting-down/)
+- May 18 - [Erlang/OTP 25 has been released](http://erlang.org/pipermail/erlang-announce/2022-May/000208.html)
 <!--END_SECTION:hn-->
 
 <!--
