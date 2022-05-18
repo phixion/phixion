@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 17 - [Dolphin Progress Report: February, March, and April 2022](https://dolphin-emu.org/blog/2022/05/17/dolphin-progress-report-february-march-and-april-2022/)
-- May 17 - [A dev's thoughts on developer productivity](https://about.sourcegraph.com/blog/developer-productivity-thoughts/)
-- May 17 - [Forgit: A utility tool powered by fzf for using Git interactively](https://github.com/wfxr/forgit)
-- May 17 - [King George and Tsar Nicolas Looked a Lot Alike](https://www.bramadams.dev/projects/cousins-or-dating)
-- May 17 - [Comby - Structural code search and replace for every language](https://comby.dev/)
+- May 17 - [Solar-powered desalination device wins MIT $100K competition](https://news.mit.edu/2022/100k-competition-nona-0516)
+- May 17 - [Plagiarism Today Plagiarized in a Plagiarism Atonement Essay](https://www.plagiarismtoday.com/2022/05/09/plagiarism-today-plagiarized-in-a-plagiarism-atonement-essay/)
+- May 17 - [Husky, Datadog's Third-Generation Event Store](https://www.datadoghq.com/blog/engineering/introducing-husky/)
+- May 17 - [Netflix lays off about 150 employees](https://www.reuters.com/business/media-telecom/netflix-lays-off-approximately-150-mostly-us-2022-05-17/)
+- May 17 - [Reviving Mind (YC W22) Is Hiring a Product Manager for Digital Health](https://www.ycombinator.com/companies/reviving-mind/jobs/tEz1Xz9-product-manager-in-rapidly-growing-digital-health-startup)
 <!--END_SECTION:hn-->
 
 <!--
