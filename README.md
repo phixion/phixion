@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 18 - [Verdn (YC W22) is hiring a founding full stack engineer](https://www.ycombinator.com/companies/verdn/jobs/wJFebb6-full-stack-engineer)
-- May 18 - [How fast SSDs slow to a crawl: thermal throttling (2021)](https://eclecticlight.co/2021/02/26/how-fast-ssds-slow-to-a-crawl-thermal-throttling/)
-- May 18 - [Doe Invests Half a Billion to De-Risk Cheaper Energy Storage](https://www.solarpaces.org/doe-invests-half-a-billion-to-de-risk-cheaper-energy-storage/)
-- May 18 - [3D Math Primer for Graphics and Game Development 2nd Edition](https://gamemath.com/book/intro.html)
-- May 18 - [Gimp 3 Beta Released](https://www.gimp.org/news/2020/11/06/gimp-2-99-2-released/)
+- May 18 - [Padlet Is Hiring in SF to Build Software for a Good Education](https://padlet.jobs)
+- May 18 - [Show HN: Natural Language Processing Demystified (Part One)](https://www.nlpdemystified.org/)
+- May 18 - [Python 3.11 beta vs. 3.10 benchmark](https://github.com/faster-cpython/ideas/blob/657830f1ab35466053634bb165f6582f6d788614/main-vs-310.rst)
+- May 18 - [Please Stop Using Grey Text](https://tangledweb.xyz/please-stop-using-grey-text-3d3e71acfca8)
+- May 18 - [Jailer: A truly relational database tool](https://wisser.github.io/Jailer/data-browsing.html)
 <!--END_SECTION:hn-->
 
 <!--
