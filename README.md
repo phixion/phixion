@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 18 - [Accelerated PyTorch Training on M1 Mac](https://pytorch.org/blog/introducing-accelerated-pytorch-training-on-mac/)
-- May 18 - [Textual – A TUI framework for Python inspired by modern web development](https://github.com/Textualize/textual)
-- May 18 - [Total Commander forced to stop letting you install APKs](https://www.androidpolice.com/total-commander-apk-installation-block/)
-- May 18 - [CTemplar Is Shutting Down](https://ctemplar.com/ctemplar-is-shutting-down/)
-- May 18 - [Erlang/OTP 25 has been released](http://erlang.org/pipermail/erlang-announce/2022-May/000208.html)
+- May 18 - [Parmigiano Reggiano Makers Embedding Tiny Trackers in Rind to Fight Cheese Fraud](https://www.foodandwine.com/news/parmigiano-reggiano-fraud-micro-transponder-rinds-digital-label)
+- May 18 - [Simulating four-dimensional physics in the laboratory](https://physicstoday.scitation.org/doi/10.1063/PT.3.4981)
+- May 18 - [Deno 1.22](https://deno.com/blog/v1.22)
+- May 18 - [Nature and nurture contribute to signatures of socioeconomic status in the brain](https://penntoday.upenn.edu/news/both-nature-and-nurture-contribute-signatures-socioeconomic-status-brain)
+- May 18 - [Time Traveler by Merriam-Webster: Search Words by First Known Use Date](https://www.merriam-webster.com/time-traveler/)
 <!--END_SECTION:hn-->
 
 <!--
