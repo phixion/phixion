@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 19 - [NASA: We’re investigating a mystery with Voyager 1](https://www.jpl.nasa.gov/news/engineers-investigating-nasas-voyager-1-telemetry-data)
-- May 19 - [The Great Crypto Grift May Be Unwinding](https://www.newyorker.com/news/our-columnists/the-great-crypto-grift-may-be-unwinding)
-- May 19 - [Duck Chess](https://duckchess.com/)
-- May 18 - [Software Engineering Insights from 10 Years at Google](https://addyosmani.com/blog/software-eng-10-years/)
-- May 18 - [Long-Term Building in Japan](https://longnow.org/ideas/02019/09/11/long-term-building-in-japan/)
+- May 19 - [Show HN: HelloInbox – Ultimate email deliverability checklist and toolkit](https://www.helloinbox.email)
+- May 19 - [Happy Birthday, Libera Chat](https://libera.chat/news/happy-birthday-libera-chat)
+- May 19 - [YC W22 Stablegains is being sued for losing $42m in funds from 4878 customers](https://twitter.com/FatManTerra/status/1527153694218797058)
+- May 19 - [Missing TLS intermediate certificates can create mysterious browser problems](https://utcc.utoronto.ca/~cks/space/blog/web/TLSIntermediateCertHell)
+- May 19 - [Engineers investigating NASA’s Voyager 1 telemetry data](https://www.jpl.nasa.gov/news/engineers-investigating-nasas-voyager-1-telemetry-data)
 <!--END_SECTION:hn-->
 
 <!--
