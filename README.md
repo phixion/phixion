@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 19 - [Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
-- May 19 - [Attorney General to investigate social media companies’ role in Buffalo attack](https://ag.ny.gov/press-release/2022/attorney-general-james-launches-investigations-social-media-companies-role)
-- May 19 - [Poll: Self Hosting Git Repositories](https://news.ycombinator.com/item?id=31432936)
-- May 19 - [Rust: A Critical Retrospective](https://www.bunniestudios.com/blog/?p=6375)
-- May 19 - [Apple Is Union-Busting in NYC, Labor Group Alleges](https://www.bloomberg.com/news/articles/2022-05-18/apple-accused-by-union-of-illegal-tactics-at-new-york-city-store)
+- May 19 - [MI officials fast-track bridge fix after man says it 'collapsed under my feet'](https://www.detroitnews.com/story/news/local/detroit-city/2022/05/15/man-says-fell-through-pedestrian-bridge-lodge-freeway-detroit/9787488002/)
+- May 19 - [Department of Justice Announces New Policy for Charging Cases Under the CFAA](https://www.justice.gov/opa/pr/department-justice-announces-new-policy-charging-cases-under-computer-fraud-and-abuse-act)
+- May 19 - [Andrew Ng updates his Machine Learning course](https://www.deeplearning.ai/program/machine-learning-specialization/)
+- May 19 - [Y Combinator's Message to Founders](https://twitter.com/refsrc/status/1527238287471292417)
+- May 19 - [LWN Is Hiring](https://lwn.net/Articles/895695/)
 <!--END_SECTION:hn-->
 
 <!--
