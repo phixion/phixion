@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 19 - [MI officials fast-track bridge fix after man says it 'collapsed under my feet'](https://www.detroitnews.com/story/news/local/detroit-city/2022/05/15/man-says-fell-through-pedestrian-bridge-lodge-freeway-detroit/9787488002/)
-- May 19 - [Department of Justice Announces New Policy for Charging Cases Under the CFAA](https://www.justice.gov/opa/pr/department-justice-announces-new-policy-charging-cases-under-computer-fraud-and-abuse-act)
-- May 19 - [Andrew Ng updates his Machine Learning course](https://www.deeplearning.ai/program/machine-learning-specialization/)
-- May 19 - [Y Combinator's Message to Founders](https://twitter.com/refsrc/status/1527238287471292417)
-- May 19 - [LWN Is Hiring](https://lwn.net/Articles/895695/)
+- May 19 - [The Coming Food Catastrophe](https://www.economist.com/leaders/2022/05/19/the-coming-food-catastrophe)
+- May 19 - [The Loneliness of a 10x Developer](https://news.ycombinator.com/item?id=31438426)
+- May 19 - [RIP Good Times (2008)](https://articles.sequoiacap.com/rip-good-times)
+- May 19 - [Show HN: A stab at building my own string diffing library](https://news.ycombinator.com/item?id=31437369)
+- May 19 - [The Lisp Implementafion for the PDP-1 Computer [pdf]](http://s3data.computerhistory.org/pdp-1/DEC.pdp_1.1964.102650371.pdf)
 <!--END_SECTION:hn-->
 
 <!--
