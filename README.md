@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 18 - [Latex.js (JavaScript Latex to HTML5 Translator)](https://latex.js.org/)
+- May 19 - [NASA: We’re investigating a mystery with Voyager 1](https://www.jpl.nasa.gov/news/engineers-investigating-nasas-voyager-1-telemetry-data)
+- May 19 - [The Great Crypto Grift May Be Unwinding](https://www.newyorker.com/news/our-columnists/the-great-crypto-grift-may-be-unwinding)
+- May 19 - [Duck Chess](https://duckchess.com/)
+- May 18 - [Software Engineering Insights from 10 Years at Google](https://addyosmani.com/blog/software-eng-10-years/)
 - May 18 - [Long-Term Building in Japan](https://longnow.org/ideas/02019/09/11/long-term-building-in-japan/)
-- May 18 - [1 TW of solar to be deployed annually by 2030](https://pv-magazine-usa.com/2022/05/16/a-fate-realized-1-tw-of-solar-to-be-deployed-annually-by-2030/)
-- May 18 - [Direct observation of the dead-cone effect in quantum chromodynamics](https://www.nature.com/articles/s41586-022-04572-w)
-- May 18 - [Ask HN: Thoughts on Being “Boring”](https://news.ycombinator.com/item?id=31427696)
 <!--END_SECTION:hn-->
 
 <!--
