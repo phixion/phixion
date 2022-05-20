@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 20 - [How I switched to Flutter and lost 10 kilos](https://matthiasnehlsen.com/blog/2022/05/15/switched-to-flutter-lost-10-kilos/)
-- May 20 - [Tether Required Recapitalization in May 2022](https://www.kalzumeus.com/2022/05/20/tether-required-recapitalization/)
-- May 20 - [Design Principles Behind Smalltalk (2001)](http://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
-- May 20 - [Memorizing Transformers](https://arxiv.org/abs/2203.08913)
-- May 20 - [Ambitious Brain Recordings Create Unprecedented Portrait of Vision in Action](https://hai.stanford.edu/news/ambitious-brain-recordings-create-unprecedented-portrait-vision-action)
+- May 20 - [Ask HN: Updates on Jetbrains Fleet?](https://news.ycombinator.com/item?id=31451561)
+- May 20 - [Fanless Intel J4125 4x I225 Virtualized Firewall Appliance Review](https://www.servethehome.com/topton-intel-j4125-4x-i225-fanless-virtualized-firewall-appliance-review-pfsense-opnsense-proxmox-ve/)
+- May 20 - [Ask HN: What to do about ‘Good at programming Bad at Leetcode’](https://news.ycombinator.com/item?id=31450713)
+- May 20 - [Show HN: WebApp to Create 3D Plants](https://plant.jim-fx.com)
+- May 20 - [Basis (YC S21) Is hiring devs to help build Figma for data](https://www.workatastartup.com/companies/basis-2)
 <!--END_SECTION:hn-->
 
 <!--
