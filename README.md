@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 20 - [Why WireGuard is NOT safe, and you should NOT use it](https://keinpfusch.net/why-wireguard-is-not-safe-and-you-should-not-use-it/)
-- May 20 - [Opvia (YC S20) Is Hiring in London, UK](https://www.notion.so/opvia/Opvia-Roles-151305ed30a140f29ec9eb7df00deadc)
-- May 20 - [Midnight Trains – A Hotel on Rails](https://www.midnight-trains.com/en/home)
-- May 20 - [Fake Journal Club](https://www.gwern.net/Fake-Journal-Club)
-- May 20 - [The cryptocurrency sell-off has exposed those swimming naked](https://www.economist.com/leaders/2022/05/18/the-cryptocurrency-sell-off-has-exposed-those-swimming-naked)
+- May 20 - [Ploomber (YC W22) Is Hiring Remote Software Engineers and DevRel](https://www.ycombinator.com/companies/ploomber/jobs)
+- May 20 - [Is anyone still using assembly language? You betcha](https://www.eetimes.com/is-anyone-still-using-assembly-language-you-betcha-part-1/)
+- May 20 - [Ask HN: 6-hour workdays more important than 4-day workweeks IMO](https://news.ycombinator.com/item?id=31445355)
+- May 20 - [Coca-Cola Begins Introduction of Attached Caps](https://www.cocacolaep.com/gb/news/2022/coca-cola-begins-introduction-of-attached-caps-across-entire-portfolio-to-boost-collection-and-recylcing-and-help-to-prevent-litter/)
+- May 20 - [Change the colour of grey text back to black on website using poor contrast text](https://addons.mozilla.org/en-US/firefox/addon/font-contrast-fix/)
 <!--END_SECTION:hn-->
 
 <!--
