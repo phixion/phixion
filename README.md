@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 20 - [Moderna’s HIV Vaccine Prepped for Trials in Africa](https://pharmaphorum.com/news/modernas-hiv-vaccine-prepped-for-trials-in-africa/)
-- May 20 - [A maximally-dense encoding for n-choose-k](https://www.farside.org.uk/201311/encoding_n_choose_k)
-- May 20 - [New York Rolling Out Noise Law, Listening Tech for Souped-Up Speedsters](https://www.thecity.nyc/2022/2/24/22949795/new-york-rolling-out-noise-law-listening-tech-for-souped-up-speedsters)
-- May 20 - [Data Integration Guide: Techniques, Technologies, and Tools](https://airbyte.com/blog/data-integration)
-- May 19 - [Engineer turns plastic into bricks that are reportedly stronger than concrete](https://peopleofcolorintech.com/break-into-tech/trash-has-value-black-woman-engineer-turns-plastic-into-bricks-that-are-reportedly-stronger-than-concrete/)
+- May 20 - [Why WireGuard is NOT safe, and you should NOT use it](https://keinpfusch.net/why-wireguard-is-not-safe-and-you-should-not-use-it/)
+- May 20 - [Opvia (YC S20) Is Hiring in London, UK](https://www.notion.so/opvia/Opvia-Roles-151305ed30a140f29ec9eb7df00deadc)
+- May 20 - [Midnight Trains – A Hotel on Rails](https://www.midnight-trains.com/en/home)
+- May 20 - [Fake Journal Club](https://www.gwern.net/Fake-Journal-Club)
+- May 20 - [The cryptocurrency sell-off has exposed those swimming naked](https://www.economist.com/leaders/2022/05/18/the-cryptocurrency-sell-off-has-exposed-those-swimming-naked)
 <!--END_SECTION:hn-->
 
 <!--
