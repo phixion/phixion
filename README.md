@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 19 - [The Coming Food Catastrophe](https://www.economist.com/leaders/2022/05/19/the-coming-food-catastrophe)
-- May 19 - [The Loneliness of a 10x Developer](https://news.ycombinator.com/item?id=31438426)
-- May 19 - [RIP Good Times (2008)](https://articles.sequoiacap.com/rip-good-times)
-- May 19 - [Show HN: A stab at building my own string diffing library](https://news.ycombinator.com/item?id=31437369)
-- May 19 - [The Lisp Implementafion for the PDP-1 Computer [pdf]](http://s3data.computerhistory.org/pdp-1/DEC.pdp_1.1964.102650371.pdf)
+- May 19 - [Ask HN: I found a pretty extreme data leak and I'm not sure what to do](https://news.ycombinator.com/item?id=31441304)
+- May 19 - [Engineer turns plastic into bricks that are reportedly stronger than concrete](https://peopleofcolorintech.com/break-into-tech/trash-has-value-black-woman-engineer-turns-plastic-into-bricks-that-are-reportedly-stronger-than-concrete/)
+- May 19 - [Smarking (YC W15) is hiring a senior ML engineer to scale dynamic pricing engine](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
+- May 19 - [Cockpit Project](https://cockpit-project.org/)
+- May 19 - [ARPANET Information Brochure (1985) [pdf]](https://apps.dtic.mil/sti/pdfs/ADA164353.pdf)
 <!--END_SECTION:hn-->
 
 <!--
