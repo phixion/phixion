@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 20 - [Ploomber (YC W22) Is Hiring Remote Software Engineers and DevRel](https://www.ycombinator.com/companies/ploomber/jobs)
-- May 20 - [Is anyone still using assembly language? You betcha](https://www.eetimes.com/is-anyone-still-using-assembly-language-you-betcha-part-1/)
-- May 20 - [Ask HN: 6-hour workdays more important than 4-day workweeks IMO](https://news.ycombinator.com/item?id=31445355)
-- May 20 - [Coca-Cola Begins Introduction of Attached Caps](https://www.cocacolaep.com/gb/news/2022/coca-cola-begins-introduction-of-attached-caps-across-entire-portfolio-to-boost-collection-and-recylcing-and-help-to-prevent-litter/)
-- May 20 - [Change the colour of grey text back to black on website using poor contrast text](https://addons.mozilla.org/en-US/firefox/addon/font-contrast-fix/)
+- May 20 - [How I switched to Flutter and lost 10 kilos](https://matthiasnehlsen.com/blog/2022/05/15/switched-to-flutter-lost-10-kilos/)
+- May 20 - [Tether Required Recapitalization in May 2022](https://www.kalzumeus.com/2022/05/20/tether-required-recapitalization/)
+- May 20 - [Design Principles Behind Smalltalk (2001)](http://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
+- May 20 - [Memorizing Transformers](https://arxiv.org/abs/2203.08913)
+- May 20 - [Ambitious Brain Recordings Create Unprecedented Portrait of Vision in Action](https://hai.stanford.edu/news/ambitious-brain-recordings-create-unprecedented-portrait-vision-action)
 <!--END_SECTION:hn-->
 
 <!--
