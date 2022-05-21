@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 21 - [On Aging Alone](https://thewalrus.ca/on-aging-alone/)
+- May 21 - [Extracting Triangular 3D Models, Materials, and Lighting from Images](https://nvlabs.github.io/nvdiffrec/)
+- May 20 - [What Ever Happened to Scandium Bike Frames? (2016)](https://www.bikeblogordie.com/2016/11/what-ever-happened-to-scandium-bike.html)
+- May 20 - [How to Paint a Crosswalk](https://crosswalksla.org/how-to-guide.html)
 - May 20 - [Pike Programming Language](https://pike.lysator.liu.se/)
-- May 20 - [HP Dev One Laptop with Pop _OS](https://hpdevone.com/)
-- May 20 - [Credit Card Fraud and an Algorithm](https://www.lanacion.com.ar/seguridad/falsetti-el-estafador-el-canillita-que-descubrio-el-algoritmo-para-crear-tarjetas-de-credito-y-nid20052022/)
-- May 20 - [Monitor Radiation with a Raspberry Pi](https://nbailey.ca/post/radiation-monitor/)
-- May 20 - [Ancient civilisation under eastern Turkey estimated to be 11k-13k years old](https://www.spectator.co.uk/article/does-an-unknown-extraordinarily-ancient-civilisation-lie-buried-under-eastern-turkey-)
 <!--END_SECTION:hn-->
 
 <!--
