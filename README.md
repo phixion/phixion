@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 21 - [On Aging Alone](https://thewalrus.ca/on-aging-alone/)
-- May 21 - [Extracting Triangular 3D Models, Materials, and Lighting from Images](https://nvlabs.github.io/nvdiffrec/)
-- May 20 - [What Ever Happened to Scandium Bike Frames? (2016)](https://www.bikeblogordie.com/2016/11/what-ever-happened-to-scandium-bike.html)
-- May 20 - [How to Paint a Crosswalk](https://crosswalksla.org/how-to-guide.html)
-- May 20 - [Pike Programming Language](https://pike.lysator.liu.se/)
+- May 21 - [Porting Lotus 1-2-3 to Linux](https://lock.cmpxchg8b.com/linux123.html)
+- May 21 - [Meticulous (YC S21) Is Hiring #2 Founding Engineer in London](https://news.ycombinator.com/item?id=31455864)
+- May 21 - [Show HN: Parsing a Reverse Polish Expression](http://lambdaway.free.fr/lambdawalks/?view=funstacker2)
+- May 21 - [5 Megawatt Nitinol Engine by Mcdonnell Douglas [video]](https://www.youtube.com/watch?v=8-dCIkJAjyM)
+- May 21 - [World’s largest vertical strawberry farm opens in Jersey City](https://njbiz.com/worlds-largest-vertical-strawberry-farm-opens-in-jersey-city/)
 <!--END_SECTION:hn-->
 
 <!--
