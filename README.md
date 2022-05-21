@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 21 - [Porting Lotus 1-2-3 to Linux](https://lock.cmpxchg8b.com/linux123.html)
-- May 21 - [Meticulous (YC S21) Is Hiring #2 Founding Engineer in London](https://news.ycombinator.com/item?id=31455864)
-- May 21 - [Show HN: Parsing a Reverse Polish Expression](http://lambdaway.free.fr/lambdawalks/?view=funstacker2)
-- May 21 - [5 Megawatt Nitinol Engine by Mcdonnell Douglas [video]](https://www.youtube.com/watch?v=8-dCIkJAjyM)
-- May 21 - [World’s largest vertical strawberry farm opens in Jersey City](https://njbiz.com/worlds-largest-vertical-strawberry-farm-opens-in-jersey-city/)
+- May 21 - [Parker (YC W19) Is Hiring First PM](https://www.ycombinator.com/companies/parker/jobs/kmHEV4X-founding-product-manager)
+- May 21 - [Apple Shipped Me a 79-Pound iPhone Repair Kit to Fix a 1.1-Ounce Battery](https://www.theverge.com/2022/5/21/23079058/apple-self-service-iphone-repair-kit-hands-on)
+- May 21 - [Language Design in the Real World](https://blog.sigplan.org/2022/05/19/language-design-in-the-real-world/)
+- May 21 - [Running PyTorch on the M1 GPU](https://sebastianraschka.com/blog/2022/pytorch-m1-gpu.html)
+- May 21 - [How to Be Successful (2019)](https://blog.samaltman.com/how-to-be-successful)
 <!--END_SECTION:hn-->
 
 <!--
