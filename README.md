@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 21 - [Engineering students create edible adhesive tape to keep burrito wrapped tightly](https://boingboing.net/2022/05/16/engineering-students-create-edible-adhesive-tape-to-keep-your-burrito-wrapped-tightly.html)
-- May 21 - [Windows XP Delta Edition](https://xpdelta.weebly.com/)
-- May 21 - [Tesla Asking Owners to Limit Charging During Texas Heatwave](https://www.thedrive.com/news/tesla-asks-texan-owners-to-limit-charging-due-to-heat-wave)
-- May 21 - [Crypto Might Have an Insider Trading Problem](https://www.wsj.com/articles/crypto-might-have-an-insider-trading-problem-11653084398)
-- May 21 - [Pipewire to replace Pulseaudion on Ubuntu 22.10](https://discourse.ubuntu.com/t/pipewire-as-a-replacement-for-pulseaudio/28489)
+- May 21 - [Show HN: A fully automated podcast – actually 12 podcasts](https://anchor.fm/thp-aqu/episodes/21st-May-2022-e1ir0nk)
+- May 21 - [Is VISA down everywhere in the US?](https://news.ycombinator.com/item?id=31460883)
+- May 21 - [Kinopio](https://kinopio.club/)
+- May 21 - [Histogramo – Dice Statistics on Demand](https://www.histogramo.com/)
+- May 21 - [Mark Zuckerberg on Messenger (2013)](https://twitter.com/TechEmails/status/1528063312461582342)
 <!--END_SECTION:hn-->
 
 <!--
