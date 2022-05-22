@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 21 - [Show HN: A fully automated podcast – actually 12 podcasts](https://anchor.fm/thp-aqu/episodes/21st-May-2022-e1ir0nk)
-- May 21 - [Is VISA down everywhere in the US?](https://news.ycombinator.com/item?id=31460883)
-- May 21 - [Kinopio](https://kinopio.club/)
-- May 21 - [Histogramo – Dice Statistics on Demand](https://www.histogramo.com/)
-- May 21 - [Mark Zuckerberg on Messenger (2013)](https://twitter.com/TechEmails/status/1528063312461582342)
+- May 21 - [QCAD – The Open Source CAD System for Everyone](https://www.qcad.org/en/)
+- May 21 - [NERC sounds alarm on solar tripping in ‘sobering’ summer reliability report](https://www.utilitydive.com/news/nerc-summer-reliability-report-west-miso-ercot/624043/)
+- May 21 - [Flags Are a Code Smell (2014)](https://www.sebastiansylvan.com/post/2014-04-27-flags-are-a-code-smell/)
+- May 21 - [Biggest Privacy Resource List on the Internet](https://gitlab.com/ck-s-technology-news/privacy-tools-list-by-cktn)
+- May 21 - [The Muse (YC W12) Is Hiring Platform Engineers (All Levels)](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
 <!--END_SECTION:hn-->
 
 <!--
