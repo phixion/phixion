@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 22 - [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies)
-- May 22 - [Index funds officially overtake active managers](https://finance.yahoo.com/news/index-fund-assets-exceed-active-fund-assets-120639243.html)
-- May 22 - [When can liquid democracy unveil the truth? (2021)](https://arxiv.org/abs/2104.01828)
-- May 22 - [How This Ends](https://avc.com/2022/05/how-this-ends-2/)
-- May 22 - [AI-art isn't art: DALL-E and other AI artists offer only the imitation of art](https://erikhoel.substack.com/p/ai-art-isnt-art)
+- May 22 - [Programming with Nothing](https://tomstu.art/programming-with-nothing)
+- May 22 - [PDP-11 Resource Timesharing System (1970) [pdf]](http://s3data.computerhistory.org/brochures/digital.pdp-11.1970.102646128.pdf)
+- May 22 - [The Shady Link Between Sunscreen and Your Health](https://www.outsideonline.com/health/wellness/sunscreen-sun-exposure-skin-cancer-science/)
+- May 22 - [California’s economy may seem healthy. Just wait for the next recession](https://www.latimes.com/opinion/story/2022-05-22/california-recession-economy-vulnerable)
+- May 22 - [Ask HN: How can I stop my inbox/wishlist/bookmarks/tabs/todos from growing?](https://news.ycombinator.com/item?id=31471127)
 <!--END_SECTION:hn-->
 
 <!--
