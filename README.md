@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 22 - [Stacker (YC S20) Hiring Product Engineers and Head of Engineering](https://www.stackerhq.com/careers#job-listing)
-- May 22 - [First Look At The CSS object-view-box Property](https://ishadeed.com/article/css-object-view-box/)
-- May 22 - [Top Stablecoins Shed $7B in May as Traders Redeem Tokens En Masse](https://blockworks.co/top-stablecoins-shed-7b-in-may-as-traders-redeem-tokens-en-masse/)
-- May 22 - [Louis Rossmann: “The Verge is so bad they have ME defending Apple ”](https://www.youtube.com/watch?v=9vhCaFW5xTk)
-- May 22 - [Trunk – Build, bundle and ship your rust WASM application to the web](https://github.com/thedodd/trunk)
+- May 22 - [Flightcontrol (YC W22) Is hiring a back end TypeScript engineer [Own-cloud PaaS]](https://flightcontrol.notion.site/Backend-Typescript-Engineer-at-Small-DevTools-Startup-12e52471539a4ab9878514e04c415da6)
+- May 22 - [Image Does Not Exist](https://thisimagedoesnotexist.com/)
+- May 22 - [Ask HN: What developer tools would you like to see?](https://news.ycombinator.com/item?id=31466885)
+- May 22 - [C# 11 Preview Updates – Raw string literals, UTF-8 and more](https://devblogs.microsoft.com/dotnet/csharp-11-preview-updates/)
+- May 22 - [UK Government Guidelines on Documenting APIs](https://www.gov.uk/guidance/how-to-document-apis)
 <!--END_SECTION:hn-->
 
 <!--
