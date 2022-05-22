@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 21 - [QCAD – The Open Source CAD System for Everyone](https://www.qcad.org/en/)
-- May 21 - [NERC sounds alarm on solar tripping in ‘sobering’ summer reliability report](https://www.utilitydive.com/news/nerc-summer-reliability-report-west-miso-ercot/624043/)
-- May 21 - [Flags Are a Code Smell (2014)](https://www.sebastiansylvan.com/post/2014-04-27-flags-are-a-code-smell/)
-- May 21 - [Biggest Privacy Resource List on the Internet](https://gitlab.com/ck-s-technology-news/privacy-tools-list-by-cktn)
-- May 21 - [The Muse (YC W12) Is Hiring Platform Engineers (All Levels)](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
+- May 22 - [Stacker (YC S20) Hiring Product Engineers and Head of Engineering](https://www.stackerhq.com/careers#job-listing)
+- May 22 - [First Look At The CSS object-view-box Property](https://ishadeed.com/article/css-object-view-box/)
+- May 22 - [Top Stablecoins Shed $7B in May as Traders Redeem Tokens En Masse](https://blockworks.co/top-stablecoins-shed-7b-in-may-as-traders-redeem-tokens-en-masse/)
+- May 22 - [Louis Rossmann: “The Verge is so bad they have ME defending Apple ”](https://www.youtube.com/watch?v=9vhCaFW5xTk)
+- May 22 - [Trunk – Build, bundle and ship your rust WASM application to the web](https://github.com/thedodd/trunk)
 <!--END_SECTION:hn-->
 
 <!--
