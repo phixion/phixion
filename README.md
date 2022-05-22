@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 22 - [Flightcontrol (YC W22) Is hiring a back end TypeScript engineer [Own-cloud PaaS]](https://flightcontrol.notion.site/Backend-Typescript-Engineer-at-Small-DevTools-Startup-12e52471539a4ab9878514e04c415da6)
-- May 22 - [Image Does Not Exist](https://thisimagedoesnotexist.com/)
-- May 22 - [Ask HN: What developer tools would you like to see?](https://news.ycombinator.com/item?id=31466885)
-- May 22 - [C# 11 Preview Updates – Raw string literals, UTF-8 and more](https://devblogs.microsoft.com/dotnet/csharp-11-preview-updates/)
-- May 22 - [UK Government Guidelines on Documenting APIs](https://www.gov.uk/guidance/how-to-document-apis)
+- May 22 - [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies)
+- May 22 - [Index funds officially overtake active managers](https://finance.yahoo.com/news/index-fund-assets-exceed-active-fund-assets-120639243.html)
+- May 22 - [When can liquid democracy unveil the truth? (2021)](https://arxiv.org/abs/2104.01828)
+- May 22 - [How This Ends](https://avc.com/2022/05/how-this-ends-2/)
+- May 22 - [AI-art isn't art: DALL-E and other AI artists offer only the imitation of art](https://erikhoel.substack.com/p/ai-art-isnt-art)
 <!--END_SECTION:hn-->
 
 <!--
