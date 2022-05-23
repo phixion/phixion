@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 23 - [A rant on laser printers [video]](https://www.youtube.com/watch?v=m9lFcduaZPU)
+- May 23 - [My experience as a Unit-18 Berkeley Lecturer](http://blog.pamelafox.org/2022/05/my-experience-as-unit-18-berkeley.html)
+- May 23 - [The Apple M1, ARM/x86 Linux Virtualization, and Boinc (2021)](https://www.sevarg.net/2021/01/09/arm-mac-mini-and-boinc/)
+- May 23 - [A Chrome extension for bionic reading on any website](https://github.com/ansh/bionic-reading)
 - May 23 - [What’s in Which Python](https://nedbatchelder.com/text/which-py.html)
-- May 23 - [Useless Use of "dd" (2015)](https://www.vidarholen.net/contents/blog/?p=479)
-- May 23 - [Is This a Tank?](https://acoup.blog/2022/05/13/collections-ancient-tanks-chariots-scythed-chariots-and-carroballistae/)
-- May 23 - [Empirical Notes on Kissing](https://belkarx.github.io/posts/finished/Empirical%20Notes%20on%20Kissing.html)
-- May 23 - [Discovered a 63kb tiddlywiki like self saving HTML+JS wiki and its looking cool](https://feather.wiki/)
 <!--END_SECTION:hn-->
 
 <!--
