@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 23 - [You may be denied life insurance for carrying naloxone (2018)](https://www.wbur.org/news/2018/12/05/narcan-insurance-prescription)
-- May 23 - [Lessons Learned from Running Apache Airflow at Scale](https://shopify.engineering/lessons-learned-apache-airflow-scale)
-- May 23 - [Proper Use of Git Tags](https://blog.aloni.org/posts/proper-use-of-git-tags/)
-- May 23 - [PhD students face cash crisis with wages that don’t cover living costs](https://www.nature.com/articles/d41586-022-01392-w)
-- May 23 - [Open Messaging Improves Engineering Quality](https://www.mattritter.me/?p=526)
+- May 23 - [Show HN: How to make automatic supercuts on the command line with Videogrep](https://lav.io/notes/videogrep-tutorial/)
+- May 23 - [The Surprisingly Sophisticated Mind of an Insect](https://www.noemamag.com/the-surprisingly-sophisticated-mind-of-an-insect/)
+- May 23 - [Things I’d Want to See Improved in WordPress Core](https://masterwp.com/5-things-id-want-to-see-improved-in-wordpress-core/)
+- May 23 - [Operator Constraints in Go](https://blog.merovius.de/posts/2022-05-23-operator-constraints/)
+- May 23 - [Donald Knuth on work habits, problem solving, and happiness (2020)](https://shuvomoy.github.io/blogs/posts/Knuth-on-work-habits-and-problem-solving-and-happiness/)
 <!--END_SECTION:hn-->
 
 <!--
