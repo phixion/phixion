@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 23 - [A rant on laser printers [video]](https://www.youtube.com/watch?v=m9lFcduaZPU)
-- May 23 - [My experience as a Unit-18 Berkeley Lecturer](http://blog.pamelafox.org/2022/05/my-experience-as-unit-18-berkeley.html)
-- May 23 - [The Apple M1, ARM/x86 Linux Virtualization, and Boinc (2021)](https://www.sevarg.net/2021/01/09/arm-mac-mini-and-boinc/)
-- May 23 - [A Chrome extension for bionic reading on any website](https://github.com/ansh/bionic-reading)
-- May 23 - [What’s in Which Python](https://nedbatchelder.com/text/which-py.html)
+- May 23 - [Founders Resign at Mycroft.ai](https://mycroft.ai/blog/founders-resignation/)
+- May 23 - [Keep the web free, say no to Web3](https://yesterweb.org/no-to-web3/)
+- May 23 - [Kids Are Far, Far Behind in School](https://www.theatlantic.com/ideas/archive/2022/05/schools-learning-loss-remote-covid-education/629938/)
+- May 23 - [The Game Boy Sewing Machine (2020)](https://www.fanbyte.com/features/the-game-boy-sewing-machine-is-more-than-a-punchline/)
+- May 23 - [Ask HN: Tips for Reducing the Number of Inboxes](https://news.ycombinator.com/item?id=31477104)
 <!--END_SECTION:hn-->
 
 <!--
