@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 22 - [Programming with Nothing](https://tomstu.art/programming-with-nothing)
-- May 22 - [PDP-11 Resource Timesharing System (1970) [pdf]](http://s3data.computerhistory.org/brochures/digital.pdp-11.1970.102646128.pdf)
-- May 22 - [The Shady Link Between Sunscreen and Your Health](https://www.outsideonline.com/health/wellness/sunscreen-sun-exposure-skin-cancer-science/)
-- May 22 - [California’s economy may seem healthy. Just wait for the next recession](https://www.latimes.com/opinion/story/2022-05-22/california-recession-economy-vulnerable)
-- May 22 - [Ask HN: How can I stop my inbox/wishlist/bookmarks/tabs/todos from growing?](https://news.ycombinator.com/item?id=31471127)
+- May 22 - [Blinkenlights: PC Binary Emulating Visualizer](https://justine.lol/blinkenlights/)
+- May 22 - [Autism increase mystery solved? No, it's not vaccines, GMOs, glyphosate](https://geneticliteracyproject.org/2022/05/20/autism-increase-mystery-solved-no-its-not-vaccines-gmos-glyphosate-or-organic-foods/)
+- May 22 - [MasterCard to launch biometric checkout tool for retailers](https://www.retaildive.com/news/mastercard-biometric-checkout-retailers/624056/)
+- May 22 - [“What if it changes?”](https://chriskiehl.com/article/the-tyranny-of-what-if-it-changes)
+- May 22 - [Deep Learning in Business Analytics: A Clash of Expectations and Reality](https://arxiv.org/abs/2205.09337)
 <!--END_SECTION:hn-->
 
 <!--
