@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 24 - [CSAM: EU Commission's lies uncovered. Surveillance will not save the children](https://tutanota.com/blog/posts/eu-csam-scanning/)
-- May 24 - [Supabase (YC S20) Is Hiring a Head of Documentation](https://www.ycombinator.com/companies/supabase/jobs/NlWk3Gi-head-of-documentation)
-- May 24 - [Minimalism in Programming Language Design](https://pointersgonewild.com/2022/05/23/minimalism-in-programming-language-design/)
-- May 24 - [Ask HN: Serious mathematics books that can replace a good teacher?](https://news.ycombinator.com/item?id=31488608)
-- May 24 - [Man Uploads 2M YouTube Videos](https://thenewleafjournal.com/leaf/man-uploads-2000000-youtube-videos/)
+- May 24 - [Morrowind 20-year anniversary book](https://mw.thenet.sk/)
+- May 24 - [A group of open source Android apps without ads or unnecessary permissions](https://www.simplemobiletools.com/)
+- May 24 - [I hate LaTeX. I love LaTeX.](https://commutative.xyz/~miguelmurca/blog/x/illihl.html)
+- May 24 - [Control Esp32 from a web panel over MQTT protocol](https://github.com/fdisotto/esp32-mqtt)
+- May 24 - [Browsh – A fully-modern text-based browser, rendering to TTY and browsers](https://github.com/browsh-org/browsh)
 <!--END_SECTION:hn-->
 
 <!--
