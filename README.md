@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 24 - [Pesticide residues could negate the health benefits of fruits and vegetables](https://www.sciencedirect.com/science/article/pii/S0160412021006498)
-- May 24 - [Cat S22 Flip Phone](https://www.catphones.com/en-us/cat-s22-flip/)
-- May 24 - [Zoom: Remote Code Execution with XMPP Stanza Smuggling](https://bugs.chromium.org/p/project-zero/issues/detail?id=2254)
-- May 24 - [Modern programming languages require generics](https://ayende.com/blog/197282-B/modern-programming-languages-require-generics)
-- May 24 - [Chimpanzees have diverse vocal sequences with ordered recombinatorial properties](https://www.researchgate.net/publication/360622743_Chimpanzees_produce_diverse_vocal_sequences_with_ordered_and_recombinatorial_properties)
+- May 24 - [Leslie Lamport revolutionized computer science with math [video]](https://www.youtube.com/watch?v=rkZzg7Vowao)
+- May 24 - [SARS2 infects the Neurons before it is seen in the Blood](https://www.biorxiv.org/content/10.1101/2022.05.20.492834v1)
+- May 24 - [Bugs Are Evolving to Eat Plastic, Study Finds](https://e360.yale.edu/digest/bugs-are-evolving-to-eat-plastic-study-finds)
+- May 24 - [YouTubeDrive: Store Files as YouTube Videos](https://github.com/dzhang314/YouTubeDrive)
+- May 24 - [Show HN: Linen – Make your Discord community Google-searchable](https://www.linen.dev/)
 <!--END_SECTION:hn-->
 
 <!--
