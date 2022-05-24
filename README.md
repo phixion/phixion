@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 23 - [Show HN: How to make automatic supercuts on the command line with Videogrep](https://lav.io/notes/videogrep-tutorial/)
-- May 23 - [The Surprisingly Sophisticated Mind of an Insect](https://www.noemamag.com/the-surprisingly-sophisticated-mind-of-an-insect/)
-- May 23 - [Things I’d Want to See Improved in WordPress Core](https://masterwp.com/5-things-id-want-to-see-improved-in-wordpress-core/)
-- May 23 - [Operator Constraints in Go](https://blog.merovius.de/posts/2022-05-23-operator-constraints/)
-- May 23 - [Donald Knuth on work habits, problem solving, and happiness (2020)](https://shuvomoy.github.io/blogs/posts/Knuth-on-work-habits-and-problem-solving-and-happiness/)
+- May 23 - [Why aren't fentanyl test strips more widespread? (2021)](https://www.healthaffairs.org/do/10.1377/forefront.20210601.974263/)
+- May 23 - [Starlink for RVs](https://www.starlink.com/rv)
+- May 23 - [Show HN: IndigoStack – a new native macOS app for local web development](https://indigostack.app/)
+- May 23 - [First human injected with cancer-killing virus in clinical trial](https://www.cancer.gov/about-cancer/treatment/clinical-trials/search/v?id=NCI-2021-08983)
+- May 23 - [Quality assurance workers at Activision Blizzard subsidiary unionize](https://www.latimes.com/business/story/2022-05-23/quality-assurance-union-at-activision-blizzard-subsidiary)
 <!--END_SECTION:hn-->
 
 <!--
