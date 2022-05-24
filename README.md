@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 24 - [Morrowind 20-year anniversary book](https://mw.thenet.sk/)
-- May 24 - [A group of open source Android apps without ads or unnecessary permissions](https://www.simplemobiletools.com/)
-- May 24 - [I hate LaTeX. I love LaTeX.](https://commutative.xyz/~miguelmurca/blog/x/illihl.html)
-- May 24 - [Control Esp32 from a web panel over MQTT protocol](https://github.com/fdisotto/esp32-mqtt)
-- May 24 - [Browsh – A fully-modern text-based browser, rendering to TTY and browsers](https://github.com/browsh-org/browsh)
+- May 24 - [Pesticide residues could negate the health benefits of fruits and vegetables](https://www.sciencedirect.com/science/article/pii/S0160412021006498)
+- May 24 - [Cat S22 Flip Phone](https://www.catphones.com/en-us/cat-s22-flip/)
+- May 24 - [Zoom: Remote Code Execution with XMPP Stanza Smuggling](https://bugs.chromium.org/p/project-zero/issues/detail?id=2254)
+- May 24 - [Modern programming languages require generics](https://ayende.com/blog/197282-B/modern-programming-languages-require-generics)
+- May 24 - [Chimpanzees have diverse vocal sequences with ordered recombinatorial properties](https://www.researchgate.net/publication/360622743_Chimpanzees_produce_diverse_vocal_sequences_with_ordered_and_recombinatorial_properties)
 <!--END_SECTION:hn-->
 
 <!--
