@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 25 - [Jasonette – Native App over HTTP](https://jasonette.com/)
-- May 25 - [Plundervolt (2019)](https://plundervolt.com/)
-- May 25 - [The domain for the Python Requests library is expired](https://docs.python-requests.org/)
-- May 25 - [Scrapism](https://scrapism.lav.io/)
-- May 25 - [The Era of Borderless Data Is Ending](https://www.nytimes.com/2022/05/23/technology/data-privacy-laws.html)
+- May 25 - [GiveCampus (profitable YC S15) hiring US-remote senior software engineers](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+- May 25 - [GameShell: A game to learn or teach the Unix shell](https://github.com/phyver/GameShell)
+- May 25 - [Estoppel](https://ente.io/blog/r/estoppel/)
+- May 25 - [Scalable polymer films for sustainable moisture harvesting in arid environments](https://www.nature.com/articles/s41467-022-30505-2)
+- May 25 - [How to De-Polarize America: Ranked-Choice Voting Is More Democratic, Not Less](https://www.americanpurpose.com/articles/ranked-choice-voting-is-more-democratic-not-less/)
 <!--END_SECTION:hn-->
 
 <!--
