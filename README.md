@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 25 - [GiveCampus (profitable YC S15) hiring US-remote senior software engineers](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- May 25 - [GameShell: A game to learn or teach the Unix shell](https://github.com/phyver/GameShell)
-- May 25 - [Estoppel](https://ente.io/blog/r/estoppel/)
-- May 25 - [Scalable polymer films for sustainable moisture harvesting in arid environments](https://www.nature.com/articles/s41467-022-30505-2)
-- May 25 - [How to De-Polarize America: Ranked-Choice Voting Is More Democratic, Not Less](https://www.americanpurpose.com/articles/ranked-choice-voting-is-more-democratic-not-less/)
+- May 25 - [Customizing Color Fonts on the Web](https://webkit.org/blog/12662/customizing-color-fonts-on-the-web/)
+- May 25 - [MicroFLENG – concurrent logic programming for CP/M, C64 and the “uxn” VM](http://www.call-with-current-continuation.org/microfleng/microfleng.html)
+- May 25 - [GTD in 15 Minutes – A Pragmatic Guide to Getting Things Done](https://hamberg.no/gtd)
+- May 25 - [Annotated implementation of microKanren: an embeddable logic language](https://github.com/ashton314/muKanren_reading)
+- May 25 - [SwiftUI in 2022](https://mjtsai.com/blog/2022/05/24/swiftui-in-2022/)
 <!--END_SECTION:hn-->
 
 <!--
