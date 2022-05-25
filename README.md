@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- May 24 - [Wendy's - 52,485 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Wendys)
 - May 24 - [SirHurt - 90,655 breached accounts](https://haveibeenpwned.com/PwnedWebsites#SirHurt)
 - May 24 - [Fanpass - 112,251 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Fanpass)
 - May 16 - [Read Novel (unverified) - 22,424,472 breached accounts](https://haveibeenpwned.com/PwnedWebsites#ReadNovel)
 - May 16 - [BlackBerry Fans - 174,168 breached accounts](https://haveibeenpwned.com/PwnedWebsites#BlackBerryFans)
-- May 16 - [OGUsers (2021 breach) - 348,302 breached accounts](https://haveibeenpwned.com/PwnedWebsites#OGUsers2021)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 24 - [Leslie Lamport revolutionized computer science with math [video]](https://www.youtube.com/watch?v=rkZzg7Vowao)
-- May 24 - [SARS2 infects the Neurons before it is seen in the Blood](https://www.biorxiv.org/content/10.1101/2022.05.20.492834v1)
-- May 24 - [Bugs Are Evolving to Eat Plastic, Study Finds](https://e360.yale.edu/digest/bugs-are-evolving-to-eat-plastic-study-finds)
-- May 24 - [YouTubeDrive: Store Files as YouTube Videos](https://github.com/dzhang314/YouTubeDrive)
-- May 24 - [Show HN: Linen – Make your Discord community Google-searchable](https://www.linen.dev/)
+- May 24 - [How we fixed the ozone layer (2021)](https://www.worksinprogress.co/issue/how-we-fixed-the-ozone-layer/)
+- May 24 - [Tracking Heat Records in 400 U.S. Cities](https://pudding.cool/projects/heat-records/)
+- May 24 - [On rebooting: the unreasonable effectiveness of turning computers off and on](https://keunwoo.com/notes/rebooting/)
+- May 24 - [Tesorio (YC S15) Is Hiring Senior Quality Engineers, PMs, Recruiting Manager](https://www.tesorio.com/careers#job-openings)
+- May 24 - [Kids in the Hall: Comedy Punks](https://www.nytimes.com/2022/05/24/arts/television/kids-in-the-hall-documentary.html)
 <!--END_SECTION:hn-->
 
 <!--
