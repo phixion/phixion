@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 24 - [How we fixed the ozone layer (2021)](https://www.worksinprogress.co/issue/how-we-fixed-the-ozone-layer/)
-- May 24 - [Tracking Heat Records in 400 U.S. Cities](https://pudding.cool/projects/heat-records/)
-- May 24 - [On rebooting: the unreasonable effectiveness of turning computers off and on](https://keunwoo.com/notes/rebooting/)
-- May 24 - [Tesorio (YC S15) Is Hiring Senior Quality Engineers, PMs, Recruiting Manager](https://www.tesorio.com/careers#job-openings)
-- May 24 - [Kids in the Hall: Comedy Punks](https://www.nytimes.com/2022/05/24/arts/television/kids-in-the-hall-documentary.html)
+- May 25 - [Scrapism](https://scrapism.lav.io/)
+- May 25 - [The Era of Borderless Data Is Ending](https://www.nytimes.com/2022/05/23/technology/data-privacy-laws.html)
+- May 25 - [Not My Job](https://blog.dbsmasher.com/2022/05/24/not-my-job.html)
+- May 25 - [The great junk transfer is coming](https://www.theglobeandmail.com/canada/article-the-great-junk-transfer-inheritance-decluttering-canada/)
+- May 25 - [Make Tracker Tunes in the Browser](https://www.stef.be/bassoontracker/)
 <!--END_SECTION:hn-->
 
 <!--
