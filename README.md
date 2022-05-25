@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 25 - [Jasonette – Native App over HTTP](https://jasonette.com/)
+- May 25 - [Plundervolt (2019)](https://plundervolt.com/)
+- May 25 - [The domain for the Python Requests library is expired](https://docs.python-requests.org/)
 - May 25 - [Scrapism](https://scrapism.lav.io/)
 - May 25 - [The Era of Borderless Data Is Ending](https://www.nytimes.com/2022/05/23/technology/data-privacy-laws.html)
-- May 25 - [Not My Job](https://blog.dbsmasher.com/2022/05/24/not-my-job.html)
-- May 25 - [The great junk transfer is coming](https://www.theglobeandmail.com/canada/article-the-great-junk-transfer-inheritance-decluttering-canada/)
-- May 25 - [Make Tracker Tunes in the Browser](https://www.stef.be/bassoontracker/)
 <!--END_SECTION:hn-->
 
 <!--
