@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 26 - [Holbert: An Interactive Theorem Prover](https://github.com/liamoc/holbert)
+- May 26 - [Open call – your field recordings of obsolete sounds wanted](https://citiesandmemory.com/2022/05/open-call-your-field-recordings-of-obsolete-sounds-wanted/)
+- May 26 - [Bernstein v. the U.S. Department of State (2014)](https://www.britannica.com/event/Bernstein-vs-the-US-Department-of-State)
 - May 26 - [Imagen Open Source implementation from the same developer as the one for DALL-E2](https://github.com/lucidrains/imagen-pytorch)
-- May 26 - [Startup Trail: The Game of Startup Survival](https://startuptrail.engine.is/)
-- May 26 - [Early Copy Protection on the Apple II](https://fadden.com/apple2/cassette-protect.html)
-- May 26 - [Generally Intelligent (YC S17) is hiring machine learning research engineers](https://news.ycombinator.com/item?id=31512985)
-- May 26 - [Building an interface (even if there's only one implementation) is always right](https://vadosware.io/post/building-an-interface-with-one-implementation-is-unquestionably-right/)
+- May 26 - [Yes, I was forced to be a child star. it was never my dream or my idea](https://wilwheaton.net/2022/05/yes-i-was-forced-to-be-a-child-star-it-was-never-my-dream-or-my-idea/)
 <!--END_SECTION:hn-->
 
 <!--
