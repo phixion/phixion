@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 26 - [Bolt Financial's loans come due](https://www.axios.com/2022/05/26/bolt-financials-loans-come-due)
-- May 26 - [PlanetScale Insights: Advanced query monitoring](https://planetscale.com/blog/introducing-planetscale-insights-advanced-query-monitoring)
-- May 26 - [Ask HN: Why XMPP failed and SMTP didn't?](https://news.ycombinator.com/item?id=31519122)
-- May 26 - [Ask HN: Recommend employers with positive social impact](https://news.ycombinator.com/item?id=31518945)
-- May 26 - [Is DuckDuckGo, DuckDuckDone?](https://kevq.uk/is-duckduckgo-duckduckdone/)
+- May 26 - [Virtual Graph Paper](https://virtual-graph-paper.com/)
+- May 26 - [Deploying 5G Around Trees](https://tech.marksblogg.com/tree-heights-open5g.html)
+- May 26 - [Linux distro downloads MySQL database password with curl to “fix” security bug](https://kernal.eu/posts/linuxfx-part-2/)
+- May 26 - [Major discoveries made by mathematicians past age 50 (2010)](https://mathoverflow.net/questions/25630/major-mathematical-advances-past-age-fifty)
+- May 26 - [Practical Power Beaming Gets Real](https://spectrum.ieee.org/power-beaming)
 <!--END_SECTION:hn-->
 
 <!--
