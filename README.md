@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 26 - [Holbert: An Interactive Theorem Prover](https://github.com/liamoc/holbert)
-- May 26 - [Open call – your field recordings of obsolete sounds wanted](https://citiesandmemory.com/2022/05/open-call-your-field-recordings-of-obsolete-sounds-wanted/)
-- May 26 - [Bernstein v. the U.S. Department of State (2014)](https://www.britannica.com/event/Bernstein-vs-the-US-Department-of-State)
-- May 26 - [Imagen Open Source implementation from the same developer as the one for DALL-E2](https://github.com/lucidrains/imagen-pytorch)
-- May 26 - [Yes, I was forced to be a child star. it was never my dream or my idea](https://wilwheaton.net/2022/05/yes-i-was-forced-to-be-a-child-star-it-was-never-my-dream-or-my-idea/)
+- May 26 - [Firezone (YC W22) Is Hiring a Senior Elixir Engineer](https://www.ycombinator.com/companies/firezone/jobs/C59VbiY-senior-fullstack-engineer)
+- May 26 - [Broadcom to Acquire VMware for $61B](https://www.reuters.com/markets/us/chipmaker-broadcom-buy-vmware-61-bln-deal-2022-05-26/)
+- May 26 - [Dutch gov't to admit to institutional racism at Tax Authority](https://nltimes.nl/2022/05/26/dutch-govt-admit-consititutional-racism-tax-authority)
+- May 26 - [Broadcom announces plans to buy VMware in $61B deal](https://www.cnbc.com/2022/05/26/broadcom-announces-plans-to-buy-vmware.html)
+- May 26 - [Show HN: I turned my face rec system into a video codec](https://vertigo.ai/focus/)
 <!--END_SECTION:hn-->
 
 <!--
