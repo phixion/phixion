@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 27 - [GitHub Is Down Again](https://www.githubstatus.com/incidents/zhtplv7zd052)
-- May 27 - [Tell HN: npm breach](https://news.ycombinator.com/item?id=31526649)
-- May 27 - [Why, Oh Why Was This Added?](https://zigamiklic.com/why-oh-why/)
-- May 27 - [Today’s JavaScript, from an outsider’s perspective (2020)](https://lea.verou.me/2020/05/todays-javascript-from-an-outsiders-perspective/)
-- May 27 - [Organice: An implementation of Org mode without the dependency of Emacs](https://github.com/200ok-ch/organice)
+- May 27 - [The Svix Webhook Service (YC W21) Is Hiring](https://www.svix.com/careers/?utm_source=news.ycombinator.com&utm_medium=referral&utm_campaign=hacker-news-jobs)
+- May 27 - [The Elites Have Every Intention of Controlling Our Lives](https://issuesinsights.com/2022/05/26/the-elites-have-every-intention-of-controlling-our-lives/)
+- May 27 - [Microsoft Windows operating system talks to 291 hosts and 2,764 IPs](https://helgeklein.com/blog/windows-os-services-apps-network-connection-target-hosts/)
+- May 27 - [How I Built Zig-SQLite](https://rischmann.fr/blog/how-i-built-zig-sqlite)
+- May 27 - [Show HN: A Reddit style site to discuss podcast episodes](https://podbabble.com/)
 <!--END_SECTION:hn-->
 
 <!--
