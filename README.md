@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 27 - [Ultra compact GAN ATX power supply delivers up to 250 Watts](https://www.cnx-software.com/2022/05/26/ultra-compact-gan-atx-power-supply-delivers-up-to-250-watts/)
-- May 27 - [Taxi: A language for documenting data models and the contracts of APIs](https://docs.taxilang.org/)
-- May 26 - [What are the odds that some idiot will name his mutex ether-rot-mutex (2017)](http://etherrotmutex.blogspot.com/2017/07/what-are-odds-that-some-idiot-will-name.html)
-- May 26 - [Rash of parts thefts is leaving Freightliner trucks inoperable](https://www.freightwaves.com/news/thefts-of-powertrain-modules-plague-daimler-truck)
-- May 26 - [I was blackmailed – any YouTuber could be next (2020)](https://gamefromscratch.com/i-was-blackmailed-any-youtuber-could-be-next/)
+- May 27 - [GitHub Is Down Again](https://www.githubstatus.com/incidents/zhtplv7zd052)
+- May 27 - [Tell HN: npm breach](https://news.ycombinator.com/item?id=31526649)
+- May 27 - [Why, Oh Why Was This Added?](https://zigamiklic.com/why-oh-why/)
+- May 27 - [Today’s JavaScript, from an outsider’s perspective (2020)](https://lea.verou.me/2020/05/todays-javascript-from-an-outsiders-perspective/)
+- May 27 - [Organice: An implementation of Org mode without the dependency of Emacs](https://github.com/200ok-ch/organice)
 <!--END_SECTION:hn-->
 
 <!--
