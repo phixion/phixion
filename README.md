@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 26 - [What are the odds that some idiot will name his mutex ether-rot-mutex](http://etherrotmutex.blogspot.com/2017/07/what-are-odds-that-some-idiot-will-name.html)
+- May 27 - [Ultra compact GAN ATX power supply delivers up to 250 Watts](https://www.cnx-software.com/2022/05/26/ultra-compact-gan-atx-power-supply-delivers-up-to-250-watts/)
+- May 27 - [Taxi: A language for documenting data models and the contracts of APIs](https://docs.taxilang.org/)
+- May 26 - [What are the odds that some idiot will name his mutex ether-rot-mutex (2017)](http://etherrotmutex.blogspot.com/2017/07/what-are-odds-that-some-idiot-will-name.html)
 - May 26 - [Rash of parts thefts is leaving Freightliner trucks inoperable](https://www.freightwaves.com/news/thefts-of-powertrain-modules-plague-daimler-truck)
 - May 26 - [I was blackmailed – any YouTuber could be next (2020)](https://gamefromscratch.com/i-was-blackmailed-any-youtuber-could-be-next/)
-- May 26 - [DjangoCon US 2022: Call for Proposals](https://pretalx.com/djangocon-2022/cfp)
-- May 26 - [AlloyDB for PostgreSQL Columnar Engine](https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-columnar-engine)
 <!--END_SECTION:hn-->
 
 <!--
