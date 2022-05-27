@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 27 - [The Svix Webhook Service (YC W21) Is Hiring](https://www.svix.com/careers/?utm_source=news.ycombinator.com&utm_medium=referral&utm_campaign=hacker-news-jobs)
-- May 27 - [The Elites Have Every Intention of Controlling Our Lives](https://issuesinsights.com/2022/05/26/the-elites-have-every-intention-of-controlling-our-lives/)
-- May 27 - [Microsoft Windows operating system talks to 291 hosts and 2,764 IPs](https://helgeklein.com/blog/windows-os-services-apps-network-connection-target-hosts/)
-- May 27 - [How I Built Zig-SQLite](https://rischmann.fr/blog/how-i-built-zig-sqlite)
-- May 27 - [Show HN: A Reddit style site to discuss podcast episodes](https://podbabble.com/)
+- May 27 - [Range Joins in DuckDB](https://duckdb.org/2022/05/27/iejoin.html)
+- May 27 - [GNU Guix System](https://en.wikipedia.org/wiki/GNU_Guix_System)
+- May 27 - [Web Audio Modem (2017)](https://martinmelhus.com/web-audio-modem/)
+- May 27 - [Migrating extraterrestrial civilizations and interstellar colonization](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/migrating-extraterrestrial-civilizations-and-interstellar-colonization-implications-for-seti-and-seta/BFFC1BB63FED869C85172BB3CC88DBBB)
+- May 27 - [The Secret Math Behind Mind-Reading Magic Tricks](https://www.quantamagazine.org/the-secret-math-behind-mind-reading-magic-tricks-20220527/)
 <!--END_SECTION:hn-->
 
 <!--
