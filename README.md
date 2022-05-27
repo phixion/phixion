@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 26 - [Virtual Graph Paper](https://virtual-graph-paper.com/)
-- May 26 - [Deploying 5G Around Trees](https://tech.marksblogg.com/tree-heights-open5g.html)
-- May 26 - [Linux distro downloads MySQL database password with curl to “fix” security bug](https://kernal.eu/posts/linuxfx-part-2/)
-- May 26 - [Major discoveries made by mathematicians past age 50 (2010)](https://mathoverflow.net/questions/25630/major-mathematical-advances-past-age-fifty)
-- May 26 - [Practical Power Beaming Gets Real](https://spectrum.ieee.org/power-beaming)
+- May 26 - [What are the odds that some idiot will name his mutex ether-rot-mutex](http://etherrotmutex.blogspot.com/2017/07/what-are-odds-that-some-idiot-will-name.html)
+- May 26 - [Rash of parts thefts is leaving Freightliner trucks inoperable](https://www.freightwaves.com/news/thefts-of-powertrain-modules-plague-daimler-truck)
+- May 26 - [I was blackmailed – any YouTuber could be next (2020)](https://gamefromscratch.com/i-was-blackmailed-any-youtuber-could-be-next/)
+- May 26 - [DjangoCon US 2022: Call for Proposals](https://pretalx.com/djangocon-2022/cfp)
+- May 26 - [AlloyDB for PostgreSQL Columnar Engine](https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-columnar-engine)
 <!--END_SECTION:hn-->
 
 <!--
