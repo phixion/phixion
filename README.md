@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 28 - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
-- May 28 - [When I saw the Tesla CEO for who he is](https://slate.com/technology/2022/05/elon-musk-tesla-twitter-fables.html)
-- May 28 - [Open and Free Plant Identification API](https://plantnet.org/en/)
-- May 28 - [Terraform should have remained stateless](https://www.bejarano.io/terraform-stateless/)
-- May 28 - [What would a recession mean for developers?](https://blog.boot.dev/news/what-would-a-recession-do-to-developers/)
+- May 28 - [OneSignal (YC S11) is hiring engineers to work on mobile customer engagement](https://onesignal.com/careers)
+- May 28 - [Low-code online store builder](https://selldone.com)
+- May 28 - [A declarative desktop UI framework for Rust built on GTK and GTK-rs](https://github.com/bodil/vgtk)
+- May 28 - [Reasons to ditch Chrome and use Firefox](https://www.pcworld.com/article/704687/8-reasons-to-ditch-chrome-and-switch-to-firefox.html)
+- May 28 - [Building the most inaccessible site with a perfect Lighthouse score (2019)](https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/)
 <!--END_SECTION:hn-->
 
 <!--
