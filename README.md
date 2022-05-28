@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 27 - [Lost Squaresoft Game 3156 Coro Coro Located and Preserved](https://www.gamingalexandria.com/wp/2022/05/lost-canceled-squaresoft-game-3156-coro-coro-located-and-preserved/)
-- May 27 - [Dark Moon: The Inevitable Collapse of Luna](https://www.swanbitcoin.com/dark-moon-the-inevitable-collapse-of-luna/)
-- May 27 - [Nim: Curated Packages](https://github.com/nim-lang/Nim/wiki/Curated-Packages)
-- May 27 - [Flexible generation of hour long videos with diffusion models](https://plai.cs.ubc.ca/2022/05/20/flexible-diffusion-modeling-of-long-videos/)
-- May 27 - [Rocket.Chat Leverages the Matrix Protocol for Interoperable Communications](https://rocket.chat/press-releases/rocket-chat-leverages-matrix-protocol-for-decentralized-and-interoperable-communications)
+- May 28 - [Terraform should have remained stateless](https://www.bejarano.io/terraform-stateless/)
+- May 28 - [Neon – Serverless Postgres](https://neon.tech)
+- May 28 - [Marginalia Goes Open Source](https://memex.marginalia.nu/log/58-marginalia-open-source.gmi)
+- May 28 - [Investing in lighting did great things for my mental and physical health](https://www.bramadams.dev/projects/invest-in-lights)
+- May 28 - [An uroboros program with 100 programming languages](https://github.com/mame/quine-relay)
 <!--END_SECTION:hn-->
 
 <!--
