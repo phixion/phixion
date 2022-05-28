@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 28 - [OneSignal (YC S11) is hiring engineers to work on mobile customer engagement](https://onesignal.com/careers)
-- May 28 - [Low-code online store builder](https://selldone.com)
-- May 28 - [A declarative desktop UI framework for Rust built on GTK and GTK-rs](https://github.com/bodil/vgtk)
-- May 28 - [Reasons to ditch Chrome and use Firefox](https://www.pcworld.com/article/704687/8-reasons-to-ditch-chrome-and-switch-to-firefox.html)
-- May 28 - [Building the most inaccessible site with a perfect Lighthouse score (2019)](https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/)
+- May 28 - [The Quest for Fusion Energy](https://inference-review.com/article/the-quest-for-fusion-energy)
+- May 28 - [Exposure of fake Chinese tube amplifier (2018)](https://www.stereonet.com/forums/topic/246417-exposure-of-fake-chinese-tube-amplifier-nobsound-ms-10d-mkii/)
+- May 28 - [New discovery about distant galaxies: Stars are heavier than we thought](https://nbi.ku.dk/english/news/news22/new-discovery-about-distant-galaxies-stars-are-heavier-than-we-thought/)
+- May 28 - [FoundationDB Time Series Layer: Millions of writes/s in 2k lines of Go (2019)](https://github.com/richardartoul/tsdb-layer)
+- May 28 - [Success determined by ability to speak, ability to write, and quality of ideas](https://www.inc.com/justin-bariso/emotional-intelligence-mit-patrick-winston-how-to-communicate-effectively-how-to-write.html)
 <!--END_SECTION:hn-->
 
 <!--
