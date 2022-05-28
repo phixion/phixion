@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 28 - [The Quest for Fusion Energy](https://inference-review.com/article/the-quest-for-fusion-energy)
-- May 28 - [Exposure of fake Chinese tube amplifier (2018)](https://www.stereonet.com/forums/topic/246417-exposure-of-fake-chinese-tube-amplifier-nobsound-ms-10d-mkii/)
-- May 28 - [New discovery about distant galaxies: Stars are heavier than we thought](https://nbi.ku.dk/english/news/news22/new-discovery-about-distant-galaxies-stars-are-heavier-than-we-thought/)
-- May 28 - [FoundationDB Time Series Layer: Millions of writes/s in 2k lines of Go (2019)](https://github.com/richardartoul/tsdb-layer)
-- May 28 - [Success determined by ability to speak, ability to write, and quality of ideas](https://www.inc.com/justin-bariso/emotional-intelligence-mit-patrick-winston-how-to-communicate-effectively-how-to-write.html)
+- May 28 - [System Font Stack](https://systemfontstack.com)
+- May 28 - [Living in a society without a counterculture](https://tedgioia.substack.com/p/14-warning-signs-that-you-are-living)
+- May 28 - [Brave Browser Hardening](https://gitlab.com/CHEF-KOCH/brave-browser-hardening)
+- May 28 - [Uber and Lyft Are Out of Ideas, Jacking Up Prices in Desperation for Profit](https://www.vice.com/en/article/m7vmpb/uber-and-lyft-are-out-of-ideas-jacking-up-prices-in-desperation-for-profit)
+- May 28 - [GitHub Star History Graph](https://star-history.com)
 <!--END_SECTION:hn-->
 
 <!--
