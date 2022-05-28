@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 28 - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+- May 28 - [When I saw the Tesla CEO for who he is](https://slate.com/technology/2022/05/elon-musk-tesla-twitter-fables.html)
+- May 28 - [Open and Free Plant Identification API](https://plantnet.org/en/)
 - May 28 - [Terraform should have remained stateless](https://www.bejarano.io/terraform-stateless/)
-- May 28 - [Neon – Serverless Postgres](https://neon.tech)
-- May 28 - [Marginalia Goes Open Source](https://memex.marginalia.nu/log/58-marginalia-open-source.gmi)
-- May 28 - [Investing in lighting did great things for my mental and physical health](https://www.bramadams.dev/projects/invest-in-lights)
-- May 28 - [An uroboros program with 100 programming languages](https://github.com/mame/quine-relay)
+- May 28 - [What would a recession mean for developers?](https://blog.boot.dev/news/what-would-a-recession-do-to-developers/)
 <!--END_SECTION:hn-->
 
 <!--
