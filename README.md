@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- May 29 - [MGM Resorts (2022 Update) - 24,842,001 breached accounts](https://haveibeenpwned.com/PwnedWebsites#MGM2022Update)
 - May 26 - [Preen.Me - 236,105 breached accounts](https://haveibeenpwned.com/PwnedWebsites#PreenMe)
 - May 25 - [Amart Furniture - 108,940 breached accounts](https://haveibeenpwned.com/PwnedWebsites#AmartFurniture)
 - May 24 - [Wendy's - 52,485 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Wendys)
 - May 24 - [SirHurt - 90,655 breached accounts](https://haveibeenpwned.com/PwnedWebsites#SirHurt)
-- May 24 - [Fanpass - 112,251 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Fanpass)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 28 - [Building a Threat Intelligence Feed Using the Twitter API and a Bit of Code](https://grimminck.medium.com/building-a-threat-intelligence-feed-using-the-twitter-api-and-a-bit-of-code-5787808e32ef)
-- May 28 - [Fearful Symmetry: Inkblot Books (1859–1915)](https://publicdomainreview.org/collection/inkblot-books/)
-- May 28 - [Make formal verification and provably correct software practical and mainstream](https://github.com/magmide/magmide)
-- May 28 - [Adding rollback netplay to a Game Boy Advance game from 2005: Part 1](https://tangobattle.substack.com/p/adding-rollback-netplay-to-a-game)
-- May 28 - [System Font Stack](https://systemfontstack.com)
+- May 29 - [Understanding Bloom filters by building one](https://ricardoanderegg.com/posts/understanding-bloom-filters-by-building-one/)
+- May 29 - [Earthworms after rain (2019)](https://blog.nature.org/science/2019/04/15/the-real-reason-you-see-earthworms-after-rain/)
+- May 29 - [Debugging a mysterious Python crash](https://blog.dend.ro/a-mysterous-python-crash/)
+- May 29 - [I'm retiring from the engineering profession](https://www.strongtowns.org/journal/2022/5/23/im-retiring-from-the-engineering-profession)
+- May 29 - [In defense of coding interviews](https://biggestfish.substack.com/p/in-defense-of-coding-interviews)
 <!--END_SECTION:hn-->
 
 <!--
