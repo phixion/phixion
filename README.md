@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 29 - [High speed train between Paris and Berlin could start operating as soon as 2023](https://www.euronews.com/travel/2022/05/25/high-speed-train-between-paris-and-berlin-could-start-operating-as-soon-as-2023)
-- May 29 - [In Poland, there is a LARP group that roleplays as contemporary Americans](https://twitter.com/PenBercifield/status/1530466376204398592)
-- May 29 - [Hackable GUI SQL-manager written in SQL itself](https://news.ycombinator.com/item?id=31547860)
-- May 29 - [Charles Babbage’s Difference Engine Turns 200](https://spectrum.ieee.org/charles-babbage-difference-engine)
-- May 29 - [Ask HN: What does a developer need to know to build their own Lisp from scratch?](https://news.ycombinator.com/item?id=31547765)
+- May 29 - [Everything that makes working with databases easier](https://github.com/mgramin/awesome-db-tools)
+- May 29 - [Mini-review: The Clockwork Pi DevTerm R-01, or RISC-V on the go](https://www.talospace.com/2022/05/mini-review-clockwork-pi-devterm-r-01.html)
+- May 29 - [Workers quitting over return-to-office policies](https://www.bbc.com/worklife/article/20220523-the-workers-quitting-over-return-to-office-policies)
+- May 29 - [Ask HN: Is there any Linux distro dedicated to music performance?](https://news.ycombinator.com/item?id=31549303)
+- May 29 - [Big Tech loves talking up privacy – while trying to kill privacy legislation](https://www.theregister.com/2022/05/27/big_tech_privacy/)
 <!--END_SECTION:hn-->
 
 <!--
