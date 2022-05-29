@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 29 - [Understanding Bloom filters by building one](https://ricardoanderegg.com/posts/understanding-bloom-filters-by-building-one/)
-- May 29 - [Earthworms after rain (2019)](https://blog.nature.org/science/2019/04/15/the-real-reason-you-see-earthworms-after-rain/)
-- May 29 - [Debugging a mysterious Python crash](https://blog.dend.ro/a-mysterous-python-crash/)
-- May 29 - [I'm retiring from the engineering profession](https://www.strongtowns.org/journal/2022/5/23/im-retiring-from-the-engineering-profession)
-- May 29 - [In defense of coding interviews](https://biggestfish.substack.com/p/in-defense-of-coding-interviews)
+- May 29 - [Britain should scrap its online safety bill](https://www.economist.com/leaders/2022/05/26/britain-should-scrap-its-online-safety-bill)
+- May 29 - [Qantas ferried an engine on the wing of a 747 (2016)](https://www.flightradar24.com/blog/how-qantas-ferried-an-engine-on-the-wing-of-a-747/)
+- May 29 - [The use of `class` for things that should be simple free functions (2020)](https://quuxplusone.github.io/blog/2020/05/28/oo-antipattern/)
+- May 29 - [Transform any text into a patent application](https://lav.io/2014/05/transform-any-text-into-a-patent-application/)
+- May 29 - [A tool to render and upscale Sierra adventure game background images](https://github.com/eviltrout/agi-upscale)
 <!--END_SECTION:hn-->
 
 <!--
