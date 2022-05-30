@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 30 - [DuckDuckGo Scripts Everywhere – Tracking Links?](https://news.ycombinator.com/item?id=31560135)
-- May 30 - [Programming in the Apocalypse](https://matduggan.com/programming-in-the/)
-- May 30 - [A vision of a multi-threaded Emacs](https://coredumped.dev/2022/05/19/a-vision-of-a-multi-threaded-emacs/)
-- May 30 - [Shennat dissertation: Dimensional analysis of Lucid programs](https://billwadge.com/2022/05/29/shennat-dissertation-dimensional-analysis-of-lucid-programs/)
-- May 30 - [Getting a vanity phone number with four consecutive digits](https://blog.jonlu.ca/posts/verizon-rare-numbers)
+- May 30 - [Canadians Unable to Afford Safe Housing Are Turning to Medically-Assisted Death](https://ourgeneration.news/news/canadians-unable-to-afford-safe-housing-are-turning-to-medically-assisted-death)
+- May 30 - [Why Is Front-End Development So Unstable? (2018)](https://www.breck-mckye.com/blog/2018/05/why-is-front-end-development-so-unstable/)
+- May 30 - [CogVideo: Large-Scale Pretraining for Text-to-Video Generation via Transformers](https://github.com/THUDM/CogVideo)
+- May 30 - [Firefly III: A free and open-source finance manager](https://www.firefly-iii.org/)
+- May 30 - [Webscraping Proxy Library for Scrapy](https://github.com/reanalytics-databoutique/advanced-scrapy-proxies)
 <!--END_SECTION:hn-->
 
 <!--
