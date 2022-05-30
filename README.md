@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 29 - [In praise of the humble Sheffield stand](https://threadreaderapp.com/thread/1493299809574342659)
-- May 29 - [Tell HN: Microsoft locks migrated Minecraft accounts, requires phone to unlock](https://news.ycombinator.com/item?id=31551846)
-- May 29 - [MEGA65 – Evolution, Part 1](https://devdef.blogspot.com/2022/05/mega65-evolution-part-1.html)
-- May 29 - [AKAI MPC 3000: The Best Drum Machine of All Time](https://audiojive.com/akai-mpc-3000/)
-- May 29 - [Falsehoods Programmers Believe About Search (2019)](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/)
+- May 29 - [DNA Testing for Embryos Promises to Predict Genetic Diseases](https://www.bloomberg.com/news/features/2022-05-26/dna-testing-for-embryos-promises-to-predict-genetic-diseases)
+- May 29 - [Chesterton's Fence](https://en.wiktionary.org/wiki/Chesterton%27s_fence)
+- May 29 - [Hottest May in History for Texas](https://cbsaustin.com/weather/weather-blog/our-hottest-may-in-history-gets-much-worse-next-week)
+- May 29 - [The Rise and Fall of Wall Street’s Most Controversial Investor](https://nymag.com/intelligencer/2022/05/the-rise-and-fall-of-cathie-wood.html)
+- May 29 - [Sequoia Capital has published a 52 slide presentation about the downturn [pdf]](https://s3.documentcloud.org/documents/22036831/adaptingtoenduremay2022.pdf)
 <!--END_SECTION:hn-->
 
 <!--
