@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 30 - [We Got Covid Shots in One Year. Why Did a Malaria Vaccine Take 35?](https://undark.org/2022/05/25/it-took-35-years-to-get-a-malaria-vaccine-why/)
-- May 30 - [A Decade of Dotfiles](https://evanhahn.com/a-decade-of-dotfiles/)
-- May 30 - [Grothendieck's Approach to Equality [pdf]](https://www.ma.ic.ac.uk/~buzzard/xena/pdfs/grothendieck_equality.pdf)
-- May 30 - [Disputing the Dogmas of Surveillance Advertising (2021) [pdf]](https://www.ftc.gov/system/files/documents/public_statements/1597050/commissioner_slaughter_national_advertising_division_10-1-2021_keynote_address.pdf)
-- May 30 - [Makeabetter.computer – Microgrants for projects that make computers better](https://makeabetter.computer/)
+- May 30 - [DuckDuckGo Scripts Everywhere – Tracking Links?](https://news.ycombinator.com/item?id=31560135)
+- May 30 - [Programming in the Apocalypse](https://matduggan.com/programming-in-the/)
+- May 30 - [A vision of a multi-threaded Emacs](https://coredumped.dev/2022/05/19/a-vision-of-a-multi-threaded-emacs/)
+- May 30 - [Shennat dissertation: Dimensional analysis of Lucid programs](https://billwadge.com/2022/05/29/shennat-dissertation-dimensional-analysis-of-lucid-programs/)
+- May 30 - [Getting a vanity phone number with four consecutive digits](https://blog.jonlu.ca/posts/verizon-rare-numbers)
 <!--END_SECTION:hn-->
 
 <!--
