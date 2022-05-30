@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 30 - [Ask HN: Is there a truly solid low-code to build Twitter or Reddit clone?](https://news.ycombinator.com/item?id=31555252)
-- May 30 - [Prolific USB-Serial drivers purposefully brick fake chips](https://www.medo64.com/2022/05/really-prolific/)
-- May 29 - [Algorithmic stablecoins are provably impossible without continuous funding](https://fragileequilibrium.substack.com/p/algorithmic-stablecoins-are-provably)
-- May 29 - [The rise and fall of Cathie Wood, controversial Wall Street investor](https://nymag.com/intelligencer/2022/05/the-rise-and-fall-of-cathie-wood.html)
-- May 29 - [Adapting to Endure – Sequoia Capital [pdf]](https://s3.documentcloud.org/documents/22036831/adaptingtoenduremay2022.pdf)
+- May 30 - [Raycast (YC W20) Is Hiring First Developer Advocate (Remote, UTC ± 3h)](https://raycast.com/jobs/developer-advocate/)
+- May 30 - [How to Store an SSH Key on a Yubikey](https://xeiaso.net/blog/yubikey-ssh-key-storage)
+- May 30 - [Big money, nuclear subsidies, and systemic corruption (2021)](https://thebulletin.org/2021/02/big-money-nuclear-subsidies-and-systemic-corruption/)
+- May 30 - [Show HN: Easily create How-to videos with AI](https://www.wowto.ai/)
+- May 30 - [KDE KTrip – helps you navigate in public transport](https://apps.kde.org/ktrip/)
 <!--END_SECTION:hn-->
 
 <!--
