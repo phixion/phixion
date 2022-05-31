@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 31 - [SumatraPDF 3.4 Released](https://www.sumatrapdfreader.org/docs/Version-history)
-- May 31 - [Show HN: Query Google Sheet data using PostgreSQL clients](https://roapi.github.io/docs/config/dataset-formats/gsheet.html#example)
-- May 31 - [userscript.zone: search for userscripts by URL, domain or search term](https://www.userscript.zone/)
-- May 31 - [WTFPython: Exploring and understanding Python through surprising snippets](https://github.com/satwikkansal/wtfpython)
-- May 31 - [Faif/Python-patterns: A collection of design patterns/idioms in Python](https://github.com/faif/python-patterns)
+- May 31 - [Ask HN: Docker vs simple DLLs?](https://news.ycombinator.com/item?id=31568138)
+- May 31 - [Show HN: Shale – a Ruby object mapper and serializer for JSON, YAML and XML](https://www.shalerb.org/)
+- May 31 - [So I Took a Corporation to Arbitration](https://www.shuchow.com/so-i-took-a-huge-corporation-to-arbitration/)
+- May 31 - [A 3,400-year-old city emerges from the Tigris River](https://phys.org/news/2022-05-year-old-city-emerges-tigris-river.html)
+- May 31 - [After Xinjiang Revelations, Germany's Ties to China Are Under the Microscope](https://www.spiegel.de/ausland/xinjiang-police-files-deutschland-furchtbarer-partner-a-70e96cd6-f7ed-47aa-9b71-31fca6abfda8)
 <!--END_SECTION:hn-->
 
 <!--
