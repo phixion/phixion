@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 31 - [I'm a loser, burnt-out, directionless but want to turn it around](https://news.ycombinator.com/item?id=31565514)
+- May 31 - [Enzyme is what makes stevia so sweet](https://cen.acs.org/biological-chemistry/natural-products/enzyme-makes-stevia-sweet/97/i24)
+- May 31 - [Haribo Goldbears, the world’s first gummy bears](https://www.smithsonianmag.com/history/the-colorful-history-of-haribo-goldbears-the-worlds-first-gummy-bears-180980094/)
+- May 30 - [So long, home T1 line; hello, hacking the T1 router](http://oldvcr.blogspot.com/2022/05/so-long-home-t1-line-hello-hacking-t1.html)
 - May 30 - [Asking robots to design stained glass windows](https://astralcodexten.substack.com/p/a-guide-to-asking-robots-to-design)
-- May 30 - [Scaling Hypothesis](https://www.gwern.net/Scaling-hypothesis)
-- May 30 - [Mosquitoes kill more than 700k people every year (2017)](https://www.isglobal.org/en_GB/-/mosquito-el-animal-mas-letal-del-mundo)
-- May 30 - [Jitx (YC S18) is hiring a senior optimization scientist](https://jobs.lever.co/jitxinc/485b853e-acd6-4073-b840-2929f210e9d7)
-- May 30 - [Friendships form via shared context, not shared activities](https://billmei.net/blog/friendship)
 <!--END_SECTION:hn-->
 
 <!--
