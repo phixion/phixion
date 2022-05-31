@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 31 - [The world has passed ‘peak agricultural land’](https://ourworldindata.org/peak-agriculture-land)
-- May 31 - [You can no longer purchase Kindle books through the Amazon app on Android](https://www.theverge.com/2022/5/6/23060387/amazon-google-android-kindle-ebook-play-store)
-- May 31 - [Ask HN: Why Are You Here?](https://news.ycombinator.com/item?id=31570624)
-- May 31 - [A 3400-year-old city emerges from the Tigris River](https://uni-tuebingen.de/en/university/news-and-publications/press-releases/press-releases/article/a-3400-year-old-city-emerges-from-the-tigris-river/)
-- May 31 - [Ask HN: Visualizing software designs, especially of large systems (if at all)?](https://news.ycombinator.com/item?id=31569646)
+- May 31 - [Ask HN: Has Cloudflare blocked your domain without explainig what's going on?](https://news.ycombinator.com/item?id=31573854)
+- May 31 - [You Don’t Need to Be “Enterprise-Ready” or “Scalable”](https://www.gorelay.co/t/why-you-don-t-need-to-be-enterprise-ready-or-scalable-as-yet-and-other-notes-on-crafting-b2b-software-with-contenda-s-founder-lilly-chen/743)
+- May 31 - [DALL-E 2 has a secret language](https://twitter.com/giannis_daras/status/1531693093040230402)
+- May 31 - [Elves Leave Middle Earth – Sodas Are No Longer Free (2009)](https://steveblank.com/2009/12/21/the-elves-leave-middle-earth-%E2%80%93-soda%E2%80%99s-are-no-longer-free/)
+- May 31 - [Economic Pessimism Growing in U.S.](https://news.gallup.com/poll/393176/economic-pessimism-growing.aspx)
 <!--END_SECTION:hn-->
 
 <!--
