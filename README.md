@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 30 - [Canadians Unable to Afford Safe Housing Are Turning to Medically-Assisted Death](https://ourgeneration.news/news/canadians-unable-to-afford-safe-housing-are-turning-to-medically-assisted-death)
-- May 30 - [Why Is Front-End Development So Unstable? (2018)](https://www.breck-mckye.com/blog/2018/05/why-is-front-end-development-so-unstable/)
-- May 30 - [CogVideo: Large-Scale Pretraining for Text-to-Video Generation via Transformers](https://github.com/THUDM/CogVideo)
-- May 30 - [Firefly III: A free and open-source finance manager](https://www.firefly-iii.org/)
-- May 30 - [Webscraping Proxy Library for Scrapy](https://github.com/reanalytics-databoutique/advanced-scrapy-proxies)
+- May 30 - [Asking robots to design stained glass windows](https://astralcodexten.substack.com/p/a-guide-to-asking-robots-to-design)
+- May 30 - [Scaling Hypothesis](https://www.gwern.net/Scaling-hypothesis)
+- May 30 - [Mosquitoes kill more than 700k people every year (2017)](https://www.isglobal.org/en_GB/-/mosquito-el-animal-mas-letal-del-mundo)
+- May 30 - [Jitx (YC S18) is hiring a senior optimization scientist](https://jobs.lever.co/jitxinc/485b853e-acd6-4073-b840-2929f210e9d7)
+- May 30 - [Friendships form via shared context, not shared activities](https://billmei.net/blog/friendship)
 <!--END_SECTION:hn-->
 
 <!--
