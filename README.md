@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- May 31 - [Adecco - 4,284,538 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Adecco)
 - May 29 - [MGM Resorts (2022 Update) - 24,842,001 breached accounts](https://haveibeenpwned.com/PwnedWebsites#MGM2022Update)
 - May 26 - [Preen.Me - 236,105 breached accounts](https://haveibeenpwned.com/PwnedWebsites#PreenMe)
 - May 25 - [Amart Furniture - 108,940 breached accounts](https://haveibeenpwned.com/PwnedWebsites#AmartFurniture)
 - May 24 - [Wendy's - 52,485 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Wendys)
-- May 24 - [SirHurt - 90,655 breached accounts](https://haveibeenpwned.com/PwnedWebsites#SirHurt)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 31 - [I'm a loser, burnt-out, directionless but want to turn it around](https://news.ycombinator.com/item?id=31565514)
-- May 31 - [Enzyme is what makes stevia so sweet](https://cen.acs.org/biological-chemistry/natural-products/enzyme-makes-stevia-sweet/97/i24)
-- May 31 - [Haribo Goldbears, the world’s first gummy bears](https://www.smithsonianmag.com/history/the-colorful-history-of-haribo-goldbears-the-worlds-first-gummy-bears-180980094/)
-- May 30 - [So long, home T1 line; hello, hacking the T1 router](http://oldvcr.blogspot.com/2022/05/so-long-home-t1-line-hello-hacking-t1.html)
-- May 30 - [Asking robots to design stained glass windows](https://astralcodexten.substack.com/p/a-guide-to-asking-robots-to-design)
+- May 31 - [SumatraPDF 3.4 Released](https://www.sumatrapdfreader.org/docs/Version-history)
+- May 31 - [Show HN: Query Google Sheet data using PostgreSQL clients](https://roapi.github.io/docs/config/dataset-formats/gsheet.html#example)
+- May 31 - [userscript.zone: search for userscripts by URL, domain or search term](https://www.userscript.zone/)
+- May 31 - [WTFPython: Exploring and understanding Python through surprising snippets](https://github.com/satwikkansal/wtfpython)
+- May 31 - [Faif/Python-patterns: A collection of design patterns/idioms in Python](https://github.com/faif/python-patterns)
 <!--END_SECTION:hn-->
 
 <!--
