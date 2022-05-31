@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 31 - [Ask HN: Docker vs simple DLLs?](https://news.ycombinator.com/item?id=31568138)
-- May 31 - [Show HN: Shale – a Ruby object mapper and serializer for JSON, YAML and XML](https://www.shalerb.org/)
-- May 31 - [So I Took a Corporation to Arbitration](https://www.shuchow.com/so-i-took-a-huge-corporation-to-arbitration/)
-- May 31 - [A 3,400-year-old city emerges from the Tigris River](https://phys.org/news/2022-05-year-old-city-emerges-tigris-river.html)
-- May 31 - [After Xinjiang Revelations, Germany's Ties to China Are Under the Microscope](https://www.spiegel.de/ausland/xinjiang-police-files-deutschland-furchtbarer-partner-a-70e96cd6-f7ed-47aa-9b71-31fca6abfda8)
+- May 31 - [The world has passed ‘peak agricultural land’](https://ourworldindata.org/peak-agriculture-land)
+- May 31 - [You can no longer purchase Kindle books through the Amazon app on Android](https://www.theverge.com/2022/5/6/23060387/amazon-google-android-kindle-ebook-play-store)
+- May 31 - [Ask HN: Why Are You Here?](https://news.ycombinator.com/item?id=31570624)
+- May 31 - [A 3400-year-old city emerges from the Tigris River](https://uni-tuebingen.de/en/university/news-and-publications/press-releases/press-releases/article/a-3400-year-old-city-emerges-from-the-tigris-river/)
+- May 31 - [Ask HN: Visualizing software designs, especially of large systems (if at all)?](https://news.ycombinator.com/item?id=31569646)
 <!--END_SECTION:hn-->
 
 <!--
