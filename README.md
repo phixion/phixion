@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 01 - [Domain-Driven Design – art of writing a good code (production ready example)](https://github.com/tlandeka/authentication-microservice-with-domain-driven-design)
+- Jun 01 - [PhotoRoom Is Hiring a Senior Web Developer (WebAssembly, WebGL and React) in Paris](https://jobs.lever.co/photoroom/ac3a361b-aa5e-479d-95d6-434d73e6eb33?lever-origin=applied&lever-source%5B%5D=Ycombinator)
+- Jun 01 - [Einstein: NewtonOS running on other operating systems](https://github.com/pguyot/Einstein)
 - Jun 01 - [Modern TUI calendar and task manager with customizable interface](https://github.com/anufrievroman/calcure)
 - Jun 01 - [LGTM – A simple pull request approval system](https://github.com/go-gitea/lgtm)
-- Jun 01 - [Why science needs more research software engineers](https://www.nature.com/articles/d41586-022-01516-2)
-- Jun 01 - [I got hacked and Facebook banned me](https://emilycordes.com/facebook/)
-- Jun 01 - [Elon Musk Tesla email: Remote work is no longer acceptable](https://twitter.com/wholemarsblog/status/1531807546729799687)
 <!--END_SECTION:hn-->
 
 <!--
