@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 01 - [Show HN: An open source alternative to Evernote (Self Hosted)](https://github.com/git-noter/gitnoter)
-- Jun 01 - [The US “labor shortage” is just a wage shortage](https://qz.com/2012965/the-us-labor-shortage-is-just-a-wage-shortage/)
-- Jun 01 - [How to Make the Universe Think for Us](https://www.quantamagazine.org/how-to-make-the-universe-think-for-us-20220531/)
-- Jun 01 - [GitHub Actions is having an outage](https://www.githubstatus.com/incidents/8xxms3q3qzgp)
-- Jun 01 - [World’s largest organism found in Australia](https://www.science.org/content/article/world-s-largest-organism-found-australia)
+- Jun 01 - [Pediatric COVID19 Cases in Counties with and Without School Mask Requirements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4118566)
+- Jun 01 - [Amundi warns that parts of private equity market resemble ‘Ponzi schemes’](https://www.ft.com/content/21c6e2e4-6c52-4d13-b3a2-5455d51d9970)
+- Jun 01 - [Ask HN: Who is hiring? (June 2022)](https://news.ycombinator.com/item?id=31582796)
+- Jun 01 - [Ask HN: Freelancer? Seeking freelancer? (June 2022)](https://news.ycombinator.com/item?id=31582795)
+- Jun 01 - [Ask HN: Who wants to be hired? (June 2022)](https://news.ycombinator.com/item?id=31582793)
 <!--END_SECTION:hn-->
 
 <!--
