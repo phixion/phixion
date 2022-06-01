@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 31 - [Modern CSV Version 2 Beta is now available](https://www.moderncsv.com/beta/)
-- May 31 - [Find Wikipedia photos needed near you](https://wikishootme.toolforge.org/)
-- May 31 - [Unclonable Polymers and Their Cryptographic Applications](https://eprint.iacr.org/2022/658)
-- May 31 - [SPACs Are Warning They May Go Bust](https://www.wsj.com/articles/spacs-are-warning-they-may-go-bust-11653601111)
-- May 31 - [Framework laptop water damage repair attempt using partial schematic [video]](https://www.youtube.com/watch?v=ijRUsxdaLK4)
+- Jun 01 - [Modern TUI calendar and task manager with customizable interface](https://github.com/anufrievroman/calcure)
+- Jun 01 - [LGTM – A simple pull request approval system](https://github.com/go-gitea/lgtm)
+- Jun 01 - [Why science needs more research software engineers](https://www.nature.com/articles/d41586-022-01516-2)
+- Jun 01 - [I got hacked and Facebook banned me](https://emilycordes.com/facebook/)
+- Jun 01 - [Elon Musk Tesla email: Remote work is no longer acceptable](https://twitter.com/wholemarsblog/status/1531807546729799687)
 <!--END_SECTION:hn-->
 
 <!--
