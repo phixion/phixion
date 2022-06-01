@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 01 - [Domain-Driven Design – art of writing a good code (production ready example)](https://github.com/tlandeka/authentication-microservice-with-domain-driven-design)
-- Jun 01 - [PhotoRoom Is Hiring a Senior Web Developer (WebAssembly, WebGL and React) in Paris](https://jobs.lever.co/photoroom/ac3a361b-aa5e-479d-95d6-434d73e6eb33?lever-origin=applied&lever-source%5B%5D=Ycombinator)
-- Jun 01 - [Einstein: NewtonOS running on other operating systems](https://github.com/pguyot/Einstein)
-- Jun 01 - [Modern TUI calendar and task manager with customizable interface](https://github.com/anufrievroman/calcure)
-- Jun 01 - [LGTM – A simple pull request approval system](https://github.com/go-gitea/lgtm)
+- Jun 01 - [Show HN: An open source alternative to Evernote (Self Hosted)](https://github.com/git-noter/gitnoter)
+- Jun 01 - [The US “labor shortage” is just a wage shortage](https://qz.com/2012965/the-us-labor-shortage-is-just-a-wage-shortage/)
+- Jun 01 - [How to Make the Universe Think for Us](https://www.quantamagazine.org/how-to-make-the-universe-think-for-us-20220531/)
+- Jun 01 - [GitHub Actions is having an outage](https://www.githubstatus.com/incidents/8xxms3q3qzgp)
+- Jun 01 - [World’s largest organism found in Australia](https://www.science.org/content/article/world-s-largest-organism-found-australia)
 <!--END_SECTION:hn-->
 
 <!--
