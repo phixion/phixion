@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 01 - [Pediatric COVID19 Cases in Counties with and Without School Mask Requirements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4118566)
-- Jun 01 - [Amundi warns that parts of private equity market resemble ‘Ponzi schemes’](https://www.ft.com/content/21c6e2e4-6c52-4d13-b3a2-5455d51d9970)
-- Jun 01 - [Ask HN: Who is hiring? (June 2022)](https://news.ycombinator.com/item?id=31582796)
-- Jun 01 - [Ask HN: Freelancer? Seeking freelancer? (June 2022)](https://news.ycombinator.com/item?id=31582795)
-- Jun 01 - [Ask HN: Who wants to be hired? (June 2022)](https://news.ycombinator.com/item?id=31582793)
+- Jun 01 - [Sheryl Sandberg Stepping Down as Facebook COO](https://www.facebook.com/sheryl/posts/10166258399565177)
+- Jun 01 - [My friend and I spent 6 years making a simulation game, it's finally released](https://news.ycombinator.com/item?id=31586833)
+- Jun 01 - [Joe Polchinski’s “Memories of a Theoretical Physicist”](https://www.math.columbia.edu/~woit/wordpress/?p=12910)
+- Jun 01 - [Ask HN: Is the stock markets growth largely anything more than inflation?](https://news.ycombinator.com/item?id=31586325)
+- Jun 01 - [Ask HN: Who Wants to Be Fired? (June 2022)](https://news.ycombinator.com/item?id=31586253)
 <!--END_SECTION:hn-->
 
 <!--
