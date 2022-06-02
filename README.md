@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 02 - [Sergey Brin's Largest airship built in US since 1930s](https://www.beaconjournal.com/story/news/2022/05/05/largest-us-airship-take-shape-soon-inside-akron-airdock-blimp-lta-sergey-brin-ohio-google/7393571001/)
-- Jun 02 - [East German Doping Victims Die 10 to 12 Years Earlier (2018)](https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Fsport%2F2018-03%2Fdoping-east-germany-research-harald-freyberger-english%2Fkomplettansicht)
-- Jun 02 - [MarkovJunior: Probabilistic PL based on pattern matching and constraint prop](https://github.com/mxgmn/MarkovJunior)
-- Jun 02 - [Ask HN: Favourite open source game?](https://news.ycombinator.com/item?id=31590724)
-- Jun 02 - [Turkish Magician Built a $600M Nasdaq-Listed Scam Based on Lies](https://hindenburgresearch.com/enochian/)
+- Jun 02 - [Bristle (YC W21) Is hiring to analyze the oral microbiome and prevent disease](https://bristle.notion.site/Careers-Bristle-f7a66759282a4a1195cbafdce00a8722)
+- Jun 02 - ['Father of MIDI' Dave Smith has died](https://www.synthtopia.com/content/2022/06/01/sequential-founder-father-of-midi-dave-smith-has-died/)
+- Jun 02 - [How fast are Linux pipes anyway?](https://mazzo.li/posts/fast-pipes.html)
+- Jun 02 - [1k True Fans? Try 100](https://future.a16z.com/1000-true-fans-try-100/)
+- Jun 02 - [Largest airship built in United States since 1930s to take shape soon](https://www.beaconjournal.com/story/news/2022/05/05/largest-us-airship-take-shape-soon-inside-akron-airdock-blimp-lta-sergey-brin-ohio-google/7393571001/)
 <!--END_SECTION:hn-->
 
 <!--
