@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 01 - [Sheryl Sandberg Stepping Down as Facebook COO](https://www.facebook.com/sheryl/posts/10166258399565177)
-- Jun 01 - [My friend and I spent 6 years making a simulation game, it's finally released](https://news.ycombinator.com/item?id=31586833)
-- Jun 01 - [Joe Polchinski’s “Memories of a Theoretical Physicist”](https://www.math.columbia.edu/~woit/wordpress/?p=12910)
-- Jun 01 - [Ask HN: Is the stock markets growth largely anything more than inflation?](https://news.ycombinator.com/item?id=31586325)
-- Jun 01 - [Ask HN: Who Wants to Be Fired? (June 2022)](https://news.ycombinator.com/item?id=31586253)
+- Jun 02 - [Orion – New WebKit Browser](https://blog.kagi.com/orion-features)
+- Jun 01 - [AWS for Industry, but Better: The Railroad Investment Case](https://www.thediff.co/p/aws-for-industry-but-better-the-railroad)
+- Jun 01 - [No, DALL-E doesn’t have a secret language](https://twitter.com/benjamin_hilton/status/1531780892972175361)
+- Jun 01 - [We don't show typing status](https://www.withcardinal.com/blog/2022-06-01-why-we-dont-show-typing)
+- Jun 01 - [Sheryl Sandberg stepping down as Facebook COO](https://www.cnbc.com/2022/06/01/facebook-coo-sheryl-sandberg-says-she-is-stepping-down.html)
 <!--END_SECTION:hn-->
 
 <!--
