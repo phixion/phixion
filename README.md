@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 02 - [Bristle (YC W21) Is hiring to analyze the oral microbiome and prevent disease](https://bristle.notion.site/Careers-Bristle-f7a66759282a4a1195cbafdce00a8722)
-- Jun 02 - ['Father of MIDI' Dave Smith has died](https://www.synthtopia.com/content/2022/06/01/sequential-founder-father-of-midi-dave-smith-has-died/)
-- Jun 02 - [How fast are Linux pipes anyway?](https://mazzo.li/posts/fast-pipes.html)
-- Jun 02 - [1k True Fans? Try 100](https://future.a16z.com/1000-true-fans-try-100/)
-- Jun 02 - [Largest airship built in United States since 1930s to take shape soon](https://www.beaconjournal.com/story/news/2022/05/05/largest-us-airship-take-shape-soon-inside-akron-airdock-blimp-lta-sergey-brin-ohio-google/7393571001/)
+- Jun 02 - [Varo Bank could run out of funds by year-end](https://www.bankingdive.com/news/varo-bank-could-run-out-of-funds-by-year-end-filing-shows/624628/)
+- Jun 02 - [California court finds that bees are fish [pdf]](https://www.courts.ca.gov/opinions/documents/C093542.PDF)
+- Jun 02 - [Tell HN: Transfer your Google domain to other registrar before it locks you out](https://news.ycombinator.com/item?id=31595978)
+- Jun 02 - [Svelvet Launches Today](https://svelvet.io/)
+- Jun 02 - [Game Boy Camera Canon EF Lens Mount (2018)](http://ekeler.com/game-boy-camera-canon-ef-mount)
 <!--END_SECTION:hn-->
 
 <!--
