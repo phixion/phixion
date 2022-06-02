@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 02 - [Orion – New WebKit Browser](https://blog.kagi.com/orion-features)
-- Jun 01 - [AWS for Industry, but Better: The Railroad Investment Case](https://www.thediff.co/p/aws-for-industry-but-better-the-railroad)
-- Jun 01 - [No, DALL-E doesn’t have a secret language](https://twitter.com/benjamin_hilton/status/1531780892972175361)
-- Jun 01 - [We don't show typing status](https://www.withcardinal.com/blog/2022-06-01-why-we-dont-show-typing)
-- Jun 01 - [Sheryl Sandberg stepping down as Facebook COO](https://www.cnbc.com/2022/06/01/facebook-coo-sheryl-sandberg-says-she-is-stepping-down.html)
+- Jun 02 - [Sergey Brin's Largest airship built in US since 1930s](https://www.beaconjournal.com/story/news/2022/05/05/largest-us-airship-take-shape-soon-inside-akron-airdock-blimp-lta-sergey-brin-ohio-google/7393571001/)
+- Jun 02 - [East German Doping Victims Die 10 to 12 Years Earlier (2018)](https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Fsport%2F2018-03%2Fdoping-east-germany-research-harald-freyberger-english%2Fkomplettansicht)
+- Jun 02 - [MarkovJunior: Probabilistic PL based on pattern matching and constraint prop](https://github.com/mxgmn/MarkovJunior)
+- Jun 02 - [Ask HN: Favourite open source game?](https://news.ycombinator.com/item?id=31590724)
+- Jun 02 - [Turkish Magician Built a $600M Nasdaq-Listed Scam Based on Lies](https://hindenburgresearch.com/enochian/)
 <!--END_SECTION:hn-->
 
 <!--
