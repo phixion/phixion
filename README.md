@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 02 - [Varo Bank could run out of funds by year-end](https://www.bankingdive.com/news/varo-bank-could-run-out-of-funds-by-year-end-filing-shows/624628/)
-- Jun 02 - [California court finds that bees are fish [pdf]](https://www.courts.ca.gov/opinions/documents/C093542.PDF)
-- Jun 02 - [Tell HN: Transfer your Google domain to other registrar before it locks you out](https://news.ycombinator.com/item?id=31595978)
-- Jun 02 - [Svelvet Launches Today](https://svelvet.io/)
-- Jun 02 - [Game Boy Camera Canon EF Lens Mount (2018)](http://ekeler.com/game-boy-camera-canon-ef-mount)
+- Jun 02 - [Show HN: I spent my vacation writing a modern JVM assembler](https://github.com/roscopeco/jasm)
+- Jun 02 - [I'm Afraid We're Shutting Down](https://news.ycombinator.com/item?id=31598978)
+- Jun 02 - [The Fuzzing Book](https://www.fuzzingbook.org/)
+- Jun 02 - [CNN cutting back on over-hyping everything as “breaking news”](https://www.axios.com/2022/06/02/cnn-breaking-news-guidelines)
+- Jun 02 - [Science Is Getting Harder](https://mattsclancy.substack.com/p/science-is-getting-harder)
 <!--END_SECTION:hn-->
 
 <!--
