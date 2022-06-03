@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 02 - [Show HN: I spent my vacation writing a modern JVM assembler](https://github.com/roscopeco/jasm)
-- Jun 02 - [I'm Afraid We're Shutting Down](https://news.ycombinator.com/item?id=31598978)
-- Jun 02 - [The Fuzzing Book](https://www.fuzzingbook.org/)
-- Jun 02 - [CNN cutting back on over-hyping everything as “breaking news”](https://www.axios.com/2022/06/02/cnn-breaking-news-guidelines)
-- Jun 02 - [Science Is Getting Harder](https://mattsclancy.substack.com/p/science-is-getting-harder)
+- Jun 02 - [One Job, One Pay – Globally](https://graphcdn.io/blog/one-job-one-pay)
+- Jun 02 - [Rust Is Hard, Or: The Misery of Mainstream Programming](https://hirrolot.github.io/posts/rust-is-hard-or-the-misery-of-mainstream-programming.html)
+- Jun 02 - [Ask HN: What does your Mom tell people about your work or employment?](https://news.ycombinator.com/item?id=31601004)
+- Jun 02 - [Microsoft Purview: Additional classifiers for Communication Compliance (preview)](https://pupuweb.com/mc387035-microsoft-purview-additional-classifiers-communication-compliance-preview/)
+- Jun 02 - [Record Labels Dig Their Own Grave. and the Shovel Is Called TikTok](https://tedgioia.substack.com/p/record-labels-dig-their-own-grave)
 <!--END_SECTION:hn-->
 
 <!--
