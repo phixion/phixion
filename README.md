@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 03 - [Comparing Ceph, Linstor, Mayastor and Vitastor Storage Performance in Kubernetes](https://blog.flant.com/kubernetes-storage-performance-linstor-ceph-mayastor-vitastor/)
-- Jun 03 - [How many man years are wasted with western naming convensions?](https://games.greggman.com/game/2022-06-02-western-naming-convensions-wasting-time_md/)
-- Jun 03 - [Google Interview Warmup](https://grow.google/certificates/interview-warmup/)
-- Jun 03 - [Terra (YC W21) Is Hiring for a Founder Associate in London](https://www.ycombinator.com/companies/terra/jobs/NGbGJeN-founder-associate)
-- Jun 03 - [VSCodium – Free/Libre Open Source Software Binaries of VS Code](https://vscodium.com/)
+- Jun 03 - [Pachyderm Is Hiring React Engineers to Build Reproducible Data-Centric Pipelines](https://www.pachyderm.com/careers/#positions)
+- Jun 03 - [Dalle2 generates fascinating images of Kermit The Frog in various films](https://twitter.com/HvnsLstAngel/status/1531506455714492416)
+- Jun 03 - [GSoC 22: Adding features to Thunar file manager](https://hi-im-buggy.github.io/blog/gsoc-22-first-blog-post)
+- Jun 03 - [C library for multiple-precision floating-point arithmetic with correct rounding](https://www.mpfr.org/)
+- Jun 03 - [Deprecation of OpenGL and OpenCL (2018)](https://developer.apple.com/macos/whats-new/)
 <!--END_SECTION:hn-->
 
 <!--
