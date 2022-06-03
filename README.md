@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 03 - [Dangerous Gift](https://www.tbray.org/ongoing/When/202x/2022/06/02/Dangerous-Gift)
-- Jun 03 - [Association of Sweetened and Unsweetened Coffee Consumption with Mortality](https://www.acpjournals.org/doi/10.7326/M21-2977)
-- Jun 03 - [Show HN: Fast Deep Reinforcement Learning Course](https://courses.dibya.online/p/fastdeeprl)
-- Jun 03 - [Google settles lawsuit with Illinois residents for $100M over photo app concerns](https://www.usatoday.com/story/tech/2022/06/03/google-pay-illinois-settlement-photo-privacy/7495827001/)
-- Jun 03 - [40k coin tosses yield ambiguous evidence for dynamical bias](https://www.stat.berkeley.edu/~aldous/Real-World/coin_tosses.html)
+- Jun 03 - [The last Howard Johnson's restaurant closes in Lake George, N.Y.](https://www.washingtonpost.com/travel/2022/06/02/last-howard-johnson-restaurant-closes/)
+- Jun 03 - [When it comes to privacy, default settings matter (2019)](https://blog.mozilla.org/en/products/firefox/when-it-comes-to-privacy-default-settings-matter/)
+- Jun 03 - [Books I’ve read](https://sive.rs/book)
+- Jun 03 - [Panic in Startupland](https://www.nicolasbustamante.com/p/panic-in-startupland)
+- Jun 03 - [Uber loses appeal as top Swiss court rules company is an employer](https://www.reuters.com/business/autos-transportation/uber-loses-appeal-top-swiss-court-rules-company-is-an-employer-2022-06-03/)
 <!--END_SECTION:hn-->
 
 <!--
