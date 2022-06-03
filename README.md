@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 03 - [Pachyderm Is Hiring React Engineers to Build Reproducible Data-Centric Pipelines](https://www.pachyderm.com/careers/#positions)
-- Jun 03 - [Dalle2 generates fascinating images of Kermit The Frog in various films](https://twitter.com/HvnsLstAngel/status/1531506455714492416)
-- Jun 03 - [GSoC 22: Adding features to Thunar file manager](https://hi-im-buggy.github.io/blog/gsoc-22-first-blog-post)
-- Jun 03 - [C library for multiple-precision floating-point arithmetic with correct rounding](https://www.mpfr.org/)
-- Jun 03 - [Deprecation of OpenGL and OpenCL (2018)](https://developer.apple.com/macos/whats-new/)
+- Jun 03 - [Dangerous Gift](https://www.tbray.org/ongoing/When/202x/2022/06/02/Dangerous-Gift)
+- Jun 03 - [Association of Sweetened and Unsweetened Coffee Consumption with Mortality](https://www.acpjournals.org/doi/10.7326/M21-2977)
+- Jun 03 - [Show HN: Fast Deep Reinforcement Learning Course](https://courses.dibya.online/p/fastdeeprl)
+- Jun 03 - [Google settles lawsuit with Illinois residents for $100M over photo app concerns](https://www.usatoday.com/story/tech/2022/06/03/google-pay-illinois-settlement-photo-privacy/7495827001/)
+- Jun 03 - [40k coin tosses yield ambiguous evidence for dynamical bias](https://www.stat.berkeley.edu/~aldous/Real-World/coin_tosses.html)
 <!--END_SECTION:hn-->
 
 <!--
