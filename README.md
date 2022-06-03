@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 03 - [Racket for E-Commerce (2019)](https://defn.io/2019/08/20/racket-ecommerce/)
-- Jun 03 - [Is big tech’s red-hot jobs market about to cool?](https://www.economist.com/business/2022/06/02/is-big-techs-red-hot-jobs-market-about-to-cool)
-- Jun 03 - [Ford CEO says EVs will be sold 100% online with nonnegotiable price](https://www.usatoday.com/story/money/cars/2022/06/01/ev-online-sales-ford-uber-lyft/7474822001/?gnt-cfr=1)
-- Jun 03 - [Zero-Day Exploitation of Atlassian Confluence](https://www.volexity.com/blog/2022/06/02/zero-day-exploitation-of-atlassian-confluence/)
-- Jun 02 - [One Job, One Pay – Globally](https://graphcdn.io/blog/one-job-one-pay)
+- Jun 03 - [Comparing Ceph, Linstor, Mayastor and Vitastor Storage Performance in Kubernetes](https://blog.flant.com/kubernetes-storage-performance-linstor-ceph-mayastor-vitastor/)
+- Jun 03 - [How many man years are wasted with western naming convensions?](https://games.greggman.com/game/2022-06-02-western-naming-convensions-wasting-time_md/)
+- Jun 03 - [Google Interview Warmup](https://grow.google/certificates/interview-warmup/)
+- Jun 03 - [Terra (YC W21) Is Hiring for a Founder Associate in London](https://www.ycombinator.com/companies/terra/jobs/NGbGJeN-founder-associate)
+- Jun 03 - [VSCodium – Free/Libre Open Source Software Binaries of VS Code](https://vscodium.com/)
 <!--END_SECTION:hn-->
 
 <!--
