@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 04 - [Pixel Art: Common Mistakes (2020)](https://derekyu.com/makegames/pixelart2.html)
+- Jun 04 - [Rr](https://rr-project.org/)
+- Jun 04 - [Sanctions and Strategic Bombing](https://scholars-stage.org/of-sanctions-and-strategic-bombers/)
 - Jun 04 - [Persistence of Vision Test](https://www.testufo.com/persistence)
-- Jun 04 - [Common Counterfeit Foods–and How to Identify Them](https://www.bonappetit.com/entertaining-style/trends-news/slideshow/counterfeit-foods)
-- Jun 04 - [Adopting Open Source Firmware Approach for Intel FSP](https://openletter.earth/adopting-open-source-firmware-approach-for-intel-fsp-59d7a0c6)
-- Jun 04 - [In a small trial, drugs seemed to rejuvenate the body’s ‘epigenetic clock’ (2019)](https://www.nature.com/articles/d41586-019-02638-w)
-- Jun 04 - [Docker is dead? Podman – an alternative tool?](https://content.fme.de/en/blog/docker-is-dead-podman-an-alternative-tool)
+- Jun 04 - [Common counterfeit foods and how to identify them (2014)](https://www.bonappetit.com/entertaining-style/trends-news/slideshow/counterfeit-foods)
 <!--END_SECTION:hn-->
 
 <!--
