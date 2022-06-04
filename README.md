@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 03 - [Official Firefox Translations add-on, bringing offline translations to Firefox](https://alternativeto.net/news/2022/6/official-firefox-translation-add-on-now-available-bringing-offline-translation-support-to-firefox/)
-- Jun 03 - [Yep, the Google alternative that shares revenue with creators. By Ahrefs](https://yep.com)
-- Jun 03 - [Sr Manager at Google Resigns After Dalit Activist Disallowed from Giving Lecture](https://www.thequint.com/us-nri-news/google-dalit-rights-activist-thenmozhi-soundararajan-presentation-lecture-anti-hindu-tanuja-gupta-senior-manager-resigns)
-- Jun 03 - [WorldWideWeb.app](https://blog.iconfactory.com/2022/06/worldwideweb-part-2/)
-- Jun 03 - [Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring in NYC](https://skio.com/careers/)
+- Jun 04 - [Persistence of Vision Test](https://www.testufo.com/persistence)
+- Jun 04 - [Common Counterfeit Foods–and How to Identify Them](https://www.bonappetit.com/entertaining-style/trends-news/slideshow/counterfeit-foods)
+- Jun 04 - [Adopting Open Source Firmware Approach for Intel FSP](https://openletter.earth/adopting-open-source-firmware-approach-for-intel-fsp-59d7a0c6)
+- Jun 04 - [In a small trial, drugs seemed to rejuvenate the body’s ‘epigenetic clock’ (2019)](https://www.nature.com/articles/d41586-019-02638-w)
+- Jun 04 - [Docker is dead? Podman – an alternative tool?](https://content.fme.de/en/blog/docker-is-dead-podman-an-alternative-tool)
 <!--END_SECTION:hn-->
 
 <!--
