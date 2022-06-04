@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 04 - [Pixel Art: Common Mistakes (2020)](https://derekyu.com/makegames/pixelart2.html)
-- Jun 04 - [Rr](https://rr-project.org/)
-- Jun 04 - [Sanctions and Strategic Bombing](https://scholars-stage.org/of-sanctions-and-strategic-bombers/)
-- Jun 04 - [Persistence of Vision Test](https://www.testufo.com/persistence)
-- Jun 04 - [Common counterfeit foods and how to identify them (2014)](https://www.bonappetit.com/entertaining-style/trends-news/slideshow/counterfeit-foods)
+- Jun 04 - [Telegram has released user data to German Feds in multiple cases](https://twitter.com/disclosetv/status/1532881083070570497)
+- Jun 04 - [Apple Music is the most buggy and annoying software I use](https://blog.nephics.se/2022/06/04/apple-music/)
+- Jun 04 - [WhatsApp threatened to leave the Netherlands due to controversial backdoor law](https://www.nrc.nl/nieuws/2022/06/03/whatsapp-dreigde-te-vertrekken-om-aftapplicht-a4132175)
+- Jun 04 - [Neon: The serverless open source alternative to AWS Aurora Postgres](https://github.com/neondatabase/neon)
+- Jun 04 - [Learning apps tracked and shared kids data/online activities with advertisers](https://www.cnn.com/2022/05/26/tech/remote-learning-apps-data-collection/index.html)
 <!--END_SECTION:hn-->
 
 <!--
