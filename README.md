@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 03 - [The last Howard Johnson's restaurant closes in Lake George, N.Y.](https://www.washingtonpost.com/travel/2022/06/02/last-howard-johnson-restaurant-closes/)
-- Jun 03 - [When it comes to privacy, default settings matter (2019)](https://blog.mozilla.org/en/products/firefox/when-it-comes-to-privacy-default-settings-matter/)
-- Jun 03 - [Books I’ve read](https://sive.rs/book)
-- Jun 03 - [Panic in Startupland](https://www.nicolasbustamante.com/p/panic-in-startupland)
-- Jun 03 - [Uber loses appeal as top Swiss court rules company is an employer](https://www.reuters.com/business/autos-transportation/uber-loses-appeal-top-swiss-court-rules-company-is-an-employer-2022-06-03/)
+- Jun 03 - [Official Firefox Translations add-on, bringing offline translations to Firefox](https://alternativeto.net/news/2022/6/official-firefox-translation-add-on-now-available-bringing-offline-translation-support-to-firefox/)
+- Jun 03 - [Yep, the Google alternative that shares revenue with creators. By Ahrefs](https://yep.com)
+- Jun 03 - [Sr Manager at Google Resigns After Dalit Activist Disallowed from Giving Lecture](https://www.thequint.com/us-nri-news/google-dalit-rights-activist-thenmozhi-soundararajan-presentation-lecture-anti-hindu-tanuja-gupta-senior-manager-resigns)
+- Jun 03 - [WorldWideWeb.app](https://blog.iconfactory.com/2022/06/worldwideweb-part-2/)
+- Jun 03 - [Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring in NYC](https://skio.com/careers/)
 <!--END_SECTION:hn-->
 
 <!--
