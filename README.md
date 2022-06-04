@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 04 - [Norway to Track All Supermarket Purchases](https://www.lifeinnorway.net/norway-to-track-all-supermarket-purchases/)
-- Jun 04 - [Ask HN: What should have been the term for RAII?](https://news.ycombinator.com/item?id=31621013)
-- Jun 04 - [What you’ll find inside Inkscape version 1.2](https://inkscape.org/news/2022/05/16/inkscape-12/)
-- Jun 04 - [Coinbase is rescinding already-accepted job offers by – email](https://www.sfgate.com/bayarea/article/Coinbase-rescinds-accepted-job-offers-17217989.php)
-- Jun 04 - [Ask HN: What is the best jurisdiction for internationally distributed teams?](https://news.ycombinator.com/item?id=31620700)
+- Jun 04 - [Juno Skims the Cloud Tops of Jupiter](https://www.nasa.gov/image-feature/jpl/juno-skims-the-cloud-tops-of-jupiter/)
+- Jun 04 - [“I wonder if RMS anticipated that,.. Mercedes would be shipping these mini CDs”](https://twitter.com/ehn/status/1533016975999393793)
+- Jun 04 - [Basis (YC S21) Is hiring devs to help build Figma for data](https://www.workatastartup.com/companies/basis-2)
+- Jun 04 - [Japan tested a giant turbine that generates electricity using deep ocean current](https://www.thesciverse.com/2022/06/japan-tested-giant-turbine-that.html)
+- Jun 04 - [Significantly faster quicksort using SIMD](https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html)
 <!--END_SECTION:hn-->
 
 <!--
