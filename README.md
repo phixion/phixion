@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 04 - [Architecture Notes: Fallacies of Distributed Systems](https://architecturenotes.co/fallacies-of-distributed-systems/)
-- Jun 04 - [Xerox PARC Engineers on How They Invented the Future–and How Xerox Lost It(1985)](https://spectrum.ieee.org/xerox-parc)
-- Jun 04 - [StopTheMadness – Take back your web browser](https://underpassapp.com/StopTheMadness/)
-- Jun 04 - [Ulstein X-BOW inverted bow](https://ulstein.com/innovations/x-bow)
-- Jun 04 - [DDR5 RAM Prices Crashed by 20% in May Alone](https://tech4gamers.com/ddr5-memory-prices/)
+- Jun 05 - [Work from Home and the Office Real Estate Apocalypse](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4124698)
+- Jun 05 - [Reinforcement Learning as One Big Sequence Modeling Problem](https://trajectory-transformer.github.io/)
+- Jun 05 - [Meet developers 1:1 every week and team up on projects](https://connectdome.com)
+- Jun 05 - [GitHub user sends notification to 400k users](https://github.com/EpicGames/Signup/pull/24)
+- Jun 05 - [First triangle ever rendered on an M1 Mac with a fully open-source driver](https://twitter.com/AsahiLinux/status/1532035506539995136)
 <!--END_SECTION:hn-->
 
 <!--
