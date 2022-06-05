@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 05 - [Algorithm detected over a hundred asteroids after studying old telescope data](https://www.natureworldnews.com/articles/51189/20220604/new-algorithm-detected-over-a-hundred-asteroids-after-studying-old-telescope-data.htm)
-- Jun 05 - [Turning a Nokia 1680 feature phone into a Linux computer](https://gadgettendency.com/an-enthusiast-turned-a-nokia-1680-feature-phone-into-a-linux-computer-with-a-working-screen-and-keyboard/)
-- Jun 05 - [Axon Wants to Make Taser Drones for Schools Despite Ethics Board’s Concerns](https://www.vice.com/en/article/z34bb3/axon-wants-to-make-taser-drones-for-schools-despite-its-own-ethics-boards-concerns)
-- Jun 05 - [Restarting My Career After Motherhood](https://medium.com/@MariaLarkworthy/slaps-to-the-face-restarting-my-career-after-motherhood-fe346492f7c5)
-- Jun 05 - [Why Gas Stoves Are More Hazardous Than We’ve Been Led to Believe (2020)](https://slate.com/technology/2020/12/gas-stoves-hazardous-asthma.html)
+- Jun 05 - [LeekWars, program your AI to destroy your leek enemies](https://leekwars.com/)
+- Jun 05 - [Eating Sea Squirts May Reverse the Signs of Ageing, Study Shows](https://www.xjtlu.edu.cn/en/news/2022/may/eating-sea-squirts-may-reverse-the-signs-of-ageing-study-shows)
+- Jun 05 - [Mirrord – mirror production traffic to your development environment](https://github.com/metalbear-co/mirrord)
+- Jun 05 - [Robocode Tank Royale](https://robocode-dev.github.io/tank-royale/articles/intro.html)
+- Jun 05 - [Emerge Tools is building the future of mobile performance, come join us](https://www.ycombinator.com/companies/emerge-tools/jobs/JWtyqvs-senior-android-engineer)
 <!--END_SECTION:hn-->
 
 <!--
