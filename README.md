@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 05 - [Work from Home and the Office Real Estate Apocalypse](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4124698)
-- Jun 05 - [Reinforcement Learning as One Big Sequence Modeling Problem](https://trajectory-transformer.github.io/)
-- Jun 05 - [Meet developers 1:1 every week and team up on projects](https://connectdome.com)
-- Jun 05 - [GitHub user sends notification to 400k users](https://github.com/EpicGames/Signup/pull/24)
-- Jun 05 - [First triangle ever rendered on an M1 Mac with a fully open-source driver](https://twitter.com/AsahiLinux/status/1532035506539995136)
+- Jun 05 - [It Costs $110k to Fully Gear-Up in Diablo Immortal](https://gamerant.com/diablo-immortal-pay-to-win-legendary-gems/)
+- Jun 05 - [Analysis of a large brute force attack campaign against Windows Remote Desktop](https://trunc.org/learning/brute-force-attacks-against-windows-remote-desktop)
+- Jun 05 - [Stacker (YC S20) Is Hiring a Head of Engineering](https://apply.workable.com/stackerhq/j/FAC2417239/)
+- Jun 05 - [Create a Bot to Find Diamonds in Minecraft](https://mlabonne.github.io/blog/minecraft/)
+- Jun 05 - [How one guy ruined Hacktoberfest (2020)](https://joel.net/how-one-guy-ruined-hacktoberfest2020-drama)
 <!--END_SECTION:hn-->
 
 <!--
