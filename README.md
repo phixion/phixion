@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 05 - [It Costs $110k to Fully Gear-Up in Diablo Immortal](https://gamerant.com/diablo-immortal-pay-to-win-legendary-gems/)
-- Jun 05 - [Analysis of a large brute force attack campaign against Windows Remote Desktop](https://trunc.org/learning/brute-force-attacks-against-windows-remote-desktop)
-- Jun 05 - [Stacker (YC S20) Is Hiring a Head of Engineering](https://apply.workable.com/stackerhq/j/FAC2417239/)
-- Jun 05 - [Create a Bot to Find Diamonds in Minecraft](https://mlabonne.github.io/blog/minecraft/)
-- Jun 05 - [How one guy ruined Hacktoberfest (2020)](https://joel.net/how-one-guy-ruined-hacktoberfest2020-drama)
+- Jun 05 - [The Muse (YC W12) Is Hiring a Senior Software Engineer](https://www.themuse.com/jobs/themuse/senior-software-engineer)
+- Jun 05 - [Ask HN: Why don't podcasts/audiobooks have closed captions for misheard words?](https://news.ycombinator.com/item?id=31630014)
+- Jun 05 - [How Electric Fish Were Able to Evolve Electric Organs](https://news.utexas.edu/2022/06/01/how-electric-fish-were-able-to-evolve-electric-organs/)
+- Jun 05 - [Gitea – a painless self-hosted Git service](https://gitea.io/en-us/)
+- Jun 05 - [I Cheated on My Microsoft Interview](https://www.facet.net/posts/i-cheated-on-my-microsoft-interview)
 <!--END_SECTION:hn-->
 
 <!--
