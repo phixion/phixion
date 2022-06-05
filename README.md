@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 04 - [Juno Skims the Cloud Tops of Jupiter](https://www.nasa.gov/image-feature/jpl/juno-skims-the-cloud-tops-of-jupiter/)
-- Jun 04 - [“I wonder if RMS anticipated that,.. Mercedes would be shipping these mini CDs”](https://twitter.com/ehn/status/1533016975999393793)
-- Jun 04 - [Basis (YC S21) Is hiring devs to help build Figma for data](https://www.workatastartup.com/companies/basis-2)
-- Jun 04 - [Japan tested a giant turbine that generates electricity using deep ocean current](https://www.thesciverse.com/2022/06/japan-tested-giant-turbine-that.html)
-- Jun 04 - [Significantly faster quicksort using SIMD](https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html)
+- Jun 04 - [Architecture Notes: Fallacies of Distributed Systems](https://architecturenotes.co/fallacies-of-distributed-systems/)
+- Jun 04 - [Xerox PARC Engineers on How They Invented the Future–and How Xerox Lost It(1985)](https://spectrum.ieee.org/xerox-parc)
+- Jun 04 - [StopTheMadness – Take back your web browser](https://underpassapp.com/StopTheMadness/)
+- Jun 04 - [Ulstein X-BOW inverted bow](https://ulstein.com/innovations/x-bow)
+- Jun 04 - [DDR5 RAM Prices Crashed by 20% in May Alone](https://tech4gamers.com/ddr5-memory-prices/)
 <!--END_SECTION:hn-->
 
 <!--
