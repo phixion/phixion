@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 06 - [Kable (usage-based billing for APIs) is hiring Founding Engineers (YC W22)](http://kable.io/)
-- Jun 06 - [Telegram reportedly surrendered user data to authorities](https://www.androidpolice.com/telegram-germany-user-data-surrendered/)
-- Jun 06 - [Is social audio already dead?](https://thehustle.co/06062022-social-audio/)
-- Jun 06 - [The true cost of linked lists](http://ykarroum.com/2022/05/30/true-cost-list/)
-- Jun 06 - [In Defense of OpenStreetMap's Data Model](https://stevecoast.substack.com/p/in-defense-of-openstreetmaps-data)
+- Jun 06 - [Is Everything an MLM? (2019)](https://annehelen.substack.com/p/is-everything-an-mlm)
+- Jun 06 - [The foundations of modern end-to-end encryption: Signatures (2021)](https://kerkour.com/signatures-modern-end-to-end-encryption)
+- Jun 06 - [Graduate Student’s Side Project Proves Prime Number Conjecture](https://www.quantamagazine.org/graduate-students-side-project-proves-prime-number-conjecture-20220606/)
+- Jun 06 - [Probability and Statistics Cookbook (2011) [pdf]](https://pages.cs.wisc.edu/~tdw/files/cookbook-en.pdf)
+- Jun 06 - [Python 3.11 Performance Benchmarks Are Looking Fantastic](https://www.phoronix.com/scan.php?page=article&item=python-311-benchmarks)
 <!--END_SECTION:hn-->
 
 <!--
