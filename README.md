@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 06 - [Plain Text. With Lines](http://akkartik.name/lines.html)
-- Jun 06 - [The Design and Implementation of the NetBSD RC.d System [pdf]](http://www.mewburn.net/luke/papers/rc.d.pdf)
-- Jun 06 - [No-op statements syntactically valid only since Python X.Y](https://github.com/jwilk/python-syntax-errors)
-- Jun 06 - [Show HN: Seal – Verifiable timestamp for your private ideas](https://docs.planet.ink/data/seal/)
-- Jun 06 - [What is a programmable programming language? (2019)](https://hiphish.github.io/blog/2019/06/22/what-is-a-programmable-programming-language/)
+- Jun 06 - [Kable (usage-based billing for APIs) is hiring Founding Engineers (YC W22)](http://kable.io/)
+- Jun 06 - [Telegram reportedly surrendered user data to authorities](https://www.androidpolice.com/telegram-germany-user-data-surrendered/)
+- Jun 06 - [Is social audio already dead?](https://thehustle.co/06062022-social-audio/)
+- Jun 06 - [The true cost of linked lists](http://ykarroum.com/2022/05/30/true-cost-list/)
+- Jun 06 - [In Defense of OpenStreetMap's Data Model](https://stevecoast.substack.com/p/in-defense-of-openstreetmaps-data)
 <!--END_SECTION:hn-->
 
 <!--
