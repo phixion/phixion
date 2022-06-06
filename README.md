@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 06 - [What is a programmable programming language?](https://hiphish.github.io/blog/2019/06/22/what-is-a-programmable-programming-language/)
-- Jun 06 - [Lumber Prices Slump](https://www.wsj.com/articles/lumber-prices-slump-with-rising-interest-rates-11653835230)
-- Jun 06 - [Wordmul: Wordle for Multics](https://portal.mozz.us/gemini/arcanesciences.com/gemlog/22-06-05/)
-- Jun 06 - [Absolute truths I unlearned as junior developer (2019)](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/)
-- Jun 06 - [Show HN: Pidove, an Alternative to the Java Streams API](https://github.com/paulhoule/pidove)
+- Jun 06 - [Plain Text. With Lines](http://akkartik.name/lines.html)
+- Jun 06 - [The Design and Implementation of the NetBSD RC.d System [pdf]](http://www.mewburn.net/luke/papers/rc.d.pdf)
+- Jun 06 - [No-op statements syntactically valid only since Python X.Y](https://github.com/jwilk/python-syntax-errors)
+- Jun 06 - [Show HN: Seal – Verifiable timestamp for your private ideas](https://docs.planet.ink/data/seal/)
+- Jun 06 - [What is a programmable programming language? (2019)](https://hiphish.github.io/blog/2019/06/22/what-is-a-programmable-programming-language/)
 <!--END_SECTION:hn-->
 
 <!--
