@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 06 - [Is Everything an MLM? (2019)](https://annehelen.substack.com/p/is-everything-an-mlm)
-- Jun 06 - [The foundations of modern end-to-end encryption: Signatures (2021)](https://kerkour.com/signatures-modern-end-to-end-encryption)
-- Jun 06 - [Graduate Student’s Side Project Proves Prime Number Conjecture](https://www.quantamagazine.org/graduate-students-side-project-proves-prime-number-conjecture-20220606/)
-- Jun 06 - [Probability and Statistics Cookbook (2011) [pdf]](https://pages.cs.wisc.edu/~tdw/files/cookbook-en.pdf)
-- Jun 06 - [Python 3.11 Performance Benchmarks Are Looking Fantastic](https://www.phoronix.com/scan.php?page=article&item=python-311-benchmarks)
+- Jun 06 - [Running Intel Binaries in Linux VMs with Rosetta](https://developer.apple.com/documentation/virtualization/running_intel_binaries_in_linux_vms_with_rosetta?language=objc)
+- Jun 06 - [News from WWDC22: WebKit Features in Safari 16 Beta](https://webkit.org/blog/12824/news-from-wwdc-webkit-features-in-safari-16-beta/)
+- Jun 06 - [iOS 16 to support Web push notifications in 2023](https://www.apple.com/ios/ios-16-preview/features/)
+- Jun 06 - [iPadOS 16 takes the versatility of iPad even further](https://www.apple.com/newsroom/2022/06/ipados-16-takes-the-versatility-of-ipad-even-further/)
+- Jun 06 - [Apple unveils all-new MacBook Air, supercharged by the new M2 chip](https://www.apple.com/newsroom/2022/06/apple-unveils-all-new-macbook-air-supercharged-by-the-new-m2-chip/)
 <!--END_SECTION:hn-->
 
 <!--
