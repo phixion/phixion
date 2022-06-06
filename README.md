@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 05 - [Oregon expands electric vehicle charging statewide](https://www.kgw.com/article/news/local/good-energy/electric-vehicle-charging-stations-oregon/283-ed184a5e-fdd3-4e25-a63d-ea85b93c338a)
-- Jun 05 - [Italian CPU – The Genesys B52 MMX](https://www.cpushack.com/2021/08/12/forgotten-italian-cpu-the-genesys-b52-mmx/)
-- Jun 05 - [The Depegging of UST](https://jumpcrypto.com/the-depegging-of-ust/)
-- Jun 05 - [P.A. Semi PA6T PowerPC](https://www.cpushack.com/2022/06/05/cpu-of-the-day-p-a-semi-pa6t-powerpc/)
-- Jun 05 - [Dover.com (YC S19) is hiring senior engineers](https://www.dover.com/open-roles/software-engineer)
+- Jun 06 - [What is a programmable programming language?](https://hiphish.github.io/blog/2019/06/22/what-is-a-programmable-programming-language/)
+- Jun 06 - [Lumber Prices Slump](https://www.wsj.com/articles/lumber-prices-slump-with-rising-interest-rates-11653835230)
+- Jun 06 - [Wordmul: Wordle for Multics](https://portal.mozz.us/gemini/arcanesciences.com/gemlog/22-06-05/)
+- Jun 06 - [Absolute truths I unlearned as junior developer (2019)](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/)
+- Jun 06 - [Show HN: Pidove, an Alternative to the Java Streams API](https://github.com/paulhoule/pidove)
 <!--END_SECTION:hn-->
 
 <!--
