@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 07 - [1 in 3 firefly species in North America may be at risk of extinction](https://www.wesa.fm/environment-energy/2022-06-07/the-firefly-population-could-be-declining-heres-why)
-- Jun 07 - [I've locked myself out of my digital life](https://shkspr.mobi/blog/2022/06/ive-locked-myself-out-of-my-digital-life/)
-- Jun 07 - [Trivia About Rust Types](https://www.thecodedmessage.com/posts/trivia-rust-types/)
-- Jun 07 - [Concerned.tech – 1400 signatories inc DSHR, James Gosling, 25 Compsci professors](https://twitter.com/geoffreyhuntley/status/1534100071738146816)
-- Jun 07 - [We're moving to a four-day work week at Beacon](https://www.beaconcrm.org/blog/beacon-switching-to-four-day-work-week)
+- Jun 07 - [Faster computing results without fear of errors](https://news.mit.edu/2022/faster-unix-computing-program-0607)
+- Jun 07 - [Google Cloud: Major packet loss between multiple regions – Europe and Asia](https://status.cloud.google.com/incidents/YrjzRWPFBUZU5HJZ4mN7#qiycz4eo8qffHEFsX7Kp)
+- Jun 07 - [Tell HN: Read up on your GitHub Support SLA](https://news.ycombinator.com/item?id=31654797)
+- Jun 07 - [Germany paying $5.5bn for Intel fab](https://www.electronicsweekly.com/news/business/793299-2022-03/)
+- Jun 07 - [Joy: A maximalist web framework for Lisp aficionados](https://joy.swlkr.com/)
 <!--END_SECTION:hn-->
 
 <!--
