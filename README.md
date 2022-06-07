@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 07 - [California aims to slash insulin prices](https://www.latimes.com/california/story/2022-06-06/california-aims-to-slash-insulin-prices-and-challenge-big-pharma)
+- Jun 07 - [A six-month program in Britain will assess the effects of a shorter workweek](https://www.nytimes.com/2022/06/06/business/uk-four-day-work-week.html)
+- Jun 07 - [Citigroup plans to hire 4k tech staff](https://www.businesstimes.com.sg/banking-finance/citigroup-plans-to-hire-4000-tech-staff-to-tap-into-digital-explosion)
+- Jun 07 - [Tell HN: I used the same computer since 2007 (with minor upgrades)](https://news.ycombinator.com/item?id=31648326)
 - Jun 07 - [An insight into live video streaming infrastructure at Twitch](https://www.scaleyourapp.com/live-video-streaming-infrastructure-at-twitch/)
-- Jun 06 - [Tools for Better Thinking](https://untools.co)
-- Jun 06 - [RFC 9114 – HTTP/3](https://www.rfc-editor.org/info/rfc9114)
-- Jun 06 - [Women Who Ran Genghis Khan’s Empire](https://www.atlasobscura.com/articles/mongol-empire-women)
-- Jun 06 - [A Road to Common Lisp (2018)](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/)
 <!--END_SECTION:hn-->
 
 <!--
