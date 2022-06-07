@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 07 - [Please, don't build another Large Hadron Collider](https://bigthink.com/hard-science/large-hadron-collider-economics/)
-- Jun 07 - [Eu.org, free domain names since 1996](https://nic.eu.org/)
-- Jun 07 - [Ask HN: When you code at work, how do you code in your time off?](https://news.ycombinator.com/item?id=31650268)
-- Jun 07 - [Performance of coroutine-style lexers in Go](https://eli.thegreenplace.net/2022/performance-of-coroutine-style-lexers-in-go/)
-- Jun 07 - [California aims to slash insulin prices](https://www.latimes.com/california/story/2022-06-06/california-aims-to-slash-insulin-prices-and-challenge-big-pharma)
+- Jun 07 - [1 in 3 firefly species in North America may be at risk of extinction](https://www.wesa.fm/environment-energy/2022-06-07/the-firefly-population-could-be-declining-heres-why)
+- Jun 07 - [I've locked myself out of my digital life](https://shkspr.mobi/blog/2022/06/ive-locked-myself-out-of-my-digital-life/)
+- Jun 07 - [Trivia About Rust Types](https://www.thecodedmessage.com/posts/trivia-rust-types/)
+- Jun 07 - [Concerned.tech – 1400 signatories inc DSHR, James Gosling, 25 Compsci professors](https://twitter.com/geoffreyhuntley/status/1534100071738146816)
+- Jun 07 - [We're moving to a four-day work week at Beacon](https://www.beaconcrm.org/blog/beacon-switching-to-four-day-work-week)
 <!--END_SECTION:hn-->
 
 <!--
