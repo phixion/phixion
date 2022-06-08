@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 08 - [A history of vintage steel kitchen cabinets](https://retrorenovation.com/metal-kitchen-cabinets-history-design-faq/)
-- Jun 08 - [Addressing AI’s energy cost](https://numenta.com/blog/2022/05/24/ai-is-harming-our-planet)
-- Jun 08 - [Diablo Immortal won't release in the Netherlands and Belgium due to loot box law](https://www.gamereactor.eu/diablo-immortal-wont-release-in-the-netherlands-and-belgium-due-to-loot-box-law-1087853/)
-- Jun 08 - [Ultrasonic Payments](https://charliegerard.dev/blog/ultrasonic-payments/)
-- Jun 08 - [Cowfish: The Mutant Superheroes of the Ocean](https://naturespoisons.com/2015/08/13/cowfish-the-mutant-superheroes-of-the-ocean-pahutoxin/)
+- Jun 08 - [I quit the tech industry (2015)](https://eev.ee/blog/2015/06/09/i-quit-the-tech-industry/)
+- Jun 08 - [Google will not let me pay an invoice they sent me](https://news.ycombinator.com/item?id=31663682)
+- Jun 08 - [Deepkit – High-Performance TypeScript Framework](https://deepkit.io/)
+- Jun 08 - [ACCC: Airbnb allegedly misled Australians about accommodation prices](https://www.accc.gov.au/media-release/airbnb-allegedly-misled-australians-about-accommodation-prices)
+- Jun 08 - [Quick Look at Rosetta on Linux](https://threedots.ovh/blog/2022/06/quick-look-at-rosetta-on-linux/)
 <!--END_SECTION:hn-->
 
 <!--
