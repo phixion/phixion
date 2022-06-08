@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 07 - ['Old white guy' can move forward with workplace bias suit against AT&T](https://www.reuters.com/legal/legalindustry/old-white-guy-can-move-forward-with-workplace-bias-suit-against-att-2022-06-07/)
-- Jun 07 - [Antibiotics could wreak havoc on athletes' abilities by disrupting gut bacteria](https://www.gutnews.com/antibiotics-athletes-gut-bacteria/)
-- Jun 07 - [Ask HN: Best alternative jobs for “outdated” skills with small websites/apps?](https://news.ycombinator.com/item?id=31660869)
-- Jun 07 - [When Shipping Containers Sink in the Drink](https://www.newyorker.com/magazine/2022/06/06/when-shipping-containers-sink-in-the-drink)
-- Jun 07 - [Embodiment Is Indispensable for AGI](https://keerthanapg.com/tech/embodiment-agi/)
+- Jun 08 - [A history of vintage steel kitchen cabinets](https://retrorenovation.com/metal-kitchen-cabinets-history-design-faq/)
+- Jun 08 - [Addressing AI’s energy cost](https://numenta.com/blog/2022/05/24/ai-is-harming-our-planet)
+- Jun 08 - [Diablo Immortal won't release in the Netherlands and Belgium due to loot box law](https://www.gamereactor.eu/diablo-immortal-wont-release-in-the-netherlands-and-belgium-due-to-loot-box-law-1087853/)
+- Jun 08 - [Ultrasonic Payments](https://charliegerard.dev/blog/ultrasonic-payments/)
+- Jun 08 - [Cowfish: The Mutant Superheroes of the Ocean](https://naturespoisons.com/2015/08/13/cowfish-the-mutant-superheroes-of-the-ocean-pahutoxin/)
 <!--END_SECTION:hn-->
 
 <!--
