@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 08 - [I quit the tech industry (2015)](https://eev.ee/blog/2015/06/09/i-quit-the-tech-industry/)
-- Jun 08 - [Google will not let me pay an invoice they sent me](https://news.ycombinator.com/item?id=31663682)
-- Jun 08 - [Deepkit – High-Performance TypeScript Framework](https://deepkit.io/)
-- Jun 08 - [ACCC: Airbnb allegedly misled Australians about accommodation prices](https://www.accc.gov.au/media-release/airbnb-allegedly-misled-australians-about-accommodation-prices)
-- Jun 08 - [Quick Look at Rosetta on Linux](https://threedots.ovh/blog/2022/06/quick-look-at-rosetta-on-linux/)
+- Jun 08 - [Estonia clocks fastest inflation in the Eurozone at 20.1 percent](https://news.err.ee/1608615118/estonia-clocks-fastest-inflation-in-the-eurozone-at-20-1-percent)
+- Jun 08 - [IPTV Pirate Must Pay £963K or 88 Month Prison Sentence Becomes 168 Months](https://torrentfreak.com/iptv-pirate-must-pay-963k-or-88-month-prison-sentence-becomes-168-220607/)
+- Jun 08 - [Exploiting the Wii U's USB Descriptor parsing](https://garyodernichts.blogspot.com/2022/06/exploiting-wii-us-usb-descriptor-parsing.html)
+- Jun 08 - [What FreeBSD can offer compared to other operating systems (2020)](https://vermaden.wordpress.com/2020/09/07/quare-freebsd/)
+- Jun 08 - [CircuitPython – The easiest way to program microcontrollers](https://circuitpython.org?v=2022)
 <!--END_SECTION:hn-->
 
 <!--
