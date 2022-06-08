@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 08 - [Estonia clocks fastest inflation in the Eurozone at 20.1 percent](https://news.err.ee/1608615118/estonia-clocks-fastest-inflation-in-the-eurozone-at-20-1-percent)
-- Jun 08 - [IPTV Pirate Must Pay £963K or 88 Month Prison Sentence Becomes 168 Months](https://torrentfreak.com/iptv-pirate-must-pay-963k-or-88-month-prison-sentence-becomes-168-220607/)
-- Jun 08 - [Exploiting the Wii U's USB Descriptor parsing](https://garyodernichts.blogspot.com/2022/06/exploiting-wii-us-usb-descriptor-parsing.html)
-- Jun 08 - [What FreeBSD can offer compared to other operating systems (2020)](https://vermaden.wordpress.com/2020/09/07/quare-freebsd/)
-- Jun 08 - [CircuitPython – The easiest way to program microcontrollers](https://circuitpython.org?v=2022)
+- Jun 08 - [Social Anarchism or Lifestyle Anarchism: An Unbridgeable Chasm (1995)](https://theanarchistlibrary.org/library/murray-bookchin-social-anarchism-or-lifestyle-anarchism-an-unbridgeable-chasm)
+- Jun 08 - [Show HN: Read Wikipedia privately using homomorphic encryption](https://spiralwiki.com/)
+- Jun 08 - [FBI seizes notorious marketplace for selling millions of stolen SSNs](https://techcrunch.com/2022/06/08/fbi-ssndob-millions-social-security-marketplace/)
+- Jun 08 - [Sunsetting Atom Text Editor](https://github.blog/2022-06-08-sunsetting-atom/)
+- Jun 08 - [Simone Biles, Aly Raisman Suing FBI for $1B over Larry Nassar Investigation](https://www.cbsnews.com/boston/news/simone-biles-aly-raisman-gymnasts-larry-nassar-fbi-lawsuit/)
 <!--END_SECTION:hn-->
 
 <!--
