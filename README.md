@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 08 - [Social Anarchism or Lifestyle Anarchism: An Unbridgeable Chasm (1995)](https://theanarchistlibrary.org/library/murray-bookchin-social-anarchism-or-lifestyle-anarchism-an-unbridgeable-chasm)
-- Jun 08 - [Show HN: Read Wikipedia privately using homomorphic encryption](https://spiralwiki.com/)
-- Jun 08 - [FBI seizes notorious marketplace for selling millions of stolen SSNs](https://techcrunch.com/2022/06/08/fbi-ssndob-millions-social-security-marketplace/)
-- Jun 08 - [Sunsetting Atom Text Editor](https://github.blog/2022-06-08-sunsetting-atom/)
-- Jun 08 - [Simone Biles, Aly Raisman Suing FBI for $1B over Larry Nassar Investigation](https://www.cbsnews.com/boston/news/simone-biles-aly-raisman-gymnasts-larry-nassar-fbi-lawsuit/)
+- Jun 08 - [The $100K+ forgery scandal that’s roiling PC game collecting](https://arstechnica.com/gaming/2022/06/inside-the-100k-forgery-scandal-thats-roiling-pc-game-collecting/)
+- Jun 08 - [Some languages pay closer attention to family ties than others](https://www.economist.com/culture/2022/06/02/some-languages-pay-closer-attention-to-family-ties-than-others)
+- Jun 08 - [TC39 Proposal: Type Annotations](https://github.com/tc39/proposal-type-annotations)
+- Jun 08 - [Small World: a Marauder's Map for the people you follow on Twitter](https://smallworld.kiwi)
+- Jun 08 - [U.S. death rates show how politics are affecting public health](https://www.statnews.com/2022/06/07/us-death-rates-politicization-public-health/)
 <!--END_SECTION:hn-->
 
 <!--
