@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 09 - [Simple Sabotage Field Manual by United States Office of Strategic Services](https://www.gutenberg.org/ebooks/26184)
-- Jun 09 - [Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=31676449)
-- Jun 09 - [50th Anniversary of the Mother of All Demos (2018)](https://amasad.me/moad)
-- Jun 09 - [Underprotection of Unpredictable Statistical Lives Compared to Predictable Ones](https://onlinelibrary.wiley.com/doi/abs/10.1111/risa.12658)
-- Jun 08 - [The Last Question](https://en.wikipedia.org/wiki/The_Last_Question)
+- Jun 09 - [OpenBSD folklore and share/misc/airport](https://www.cambus.net/openbsd-folklore-and-share-misc-airport/)
+- Jun 09 - [Dancing starling spectacle caused power cuts in Scottish village (2020)](https://www.bbc.com/news/uk-scotland-tayside-central-55334891)
+- Jun 09 - [Discret 11, the French TV encryption of the 80s (2020)](https://fabiensanglard.net/discret11/index.html)
+- Jun 09 - [Internet Filtering in Canada: Rogers' NHL Blocking Order](https://typefully.com/kaplanmyrth/internet-filtering-in-canada-rogers-nhl-TPEqjeU)
+- Jun 09 - [Privacy Badger is a browser extension that learns to block invisible trackers](https://privacybadger.org/)
 <!--END_SECTION:hn-->
 
 <!--
