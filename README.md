@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 09 - [Show HN: Python Live GUI – A Hybrid of Dear ImGUI and Phoenix LiveView](https://gitlab.com/BenWiser/python-live-gui)
-- Jun 09 - [Public CDNs Are Useless and Dangerous](https://httptoolkit.tech/blog/public-cdn-risks/)
-- Jun 09 - [Show HN: Open-Source Identity Server Written in Go (Ory Kratos)](https://github.com/ory/kratos)
-- Jun 09 - [We Got Linux on the iPhone, iPad and Other iDevices](https://konradybcio.pl/linuxona7/)
-- Jun 09 - [James Webb Space Telescope hit by a tiny meteorite](https://www.bbc.com/news/science-environment-61744257)
+- Jun 09 - [Why are nuclear power construction costs so high? Part I](https://constructionphysics.substack.com/p/why-are-nuclear-power-construction)
+- Jun 09 - [The Collapse of Complex Software](https://nolanlawson.com/2022/06/09/the-collapse-of-complex-software/)
+- Jun 09 - [I cut GTA Online loading times (2021)](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
+- Jun 09 - [Rust without the async (hard) part](https://lunatic.solutions/blog/rust-without-the-async-hard-part/)
+- Jun 09 - [Ask HN: I miss Usenet. Are there any modern equivalents?](https://news.ycombinator.com/item?id=31681234)
 <!--END_SECTION:hn-->
 
 <!--
