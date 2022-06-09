@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 08 - [The $100K+ forgery scandal that’s roiling PC game collecting](https://arstechnica.com/gaming/2022/06/inside-the-100k-forgery-scandal-thats-roiling-pc-game-collecting/)
-- Jun 08 - [Some languages pay closer attention to family ties than others](https://www.economist.com/culture/2022/06/02/some-languages-pay-closer-attention-to-family-ties-than-others)
-- Jun 08 - [TC39 Proposal: Type Annotations](https://github.com/tc39/proposal-type-annotations)
-- Jun 08 - [Small World: a Marauder's Map for the people you follow on Twitter](https://smallworld.kiwi)
-- Jun 08 - [U.S. death rates show how politics are affecting public health](https://www.statnews.com/2022/06/07/us-death-rates-politicization-public-health/)
+- Jun 08 - [Hacker News “Who is Hiring?” top-level comments over time](https://blog.joewoods.dev/technology/hackernews-who-is-hiring-top-level-comments-over-time/)
+- Jun 08 - [Researchers Achieve ‘Absurdly Fast’ Algorithm for Network Flow](https://www.quantamagazine.org/researchers-achieve-absurdly-fast-algorithm-for-network-flow-20220608/)
+- Jun 08 - [Relationship Hero (YC S17) Is Hiring Consultant Coaches – Remote](https://relationshiphero.com/careers?role=consultantCoach)
+- Jun 08 - [Investigation report on the OVH data centre fire in Strasbourg on 2021-03-10](https://lafibre.info/ovh-datacenter/incendie-ovh-strabourg/)
+- Jun 08 - [Hexwords: Hex colors that are similar to words](https://hexwords.netlify.app/)
 <!--END_SECTION:hn-->
 
 <!--
