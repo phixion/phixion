@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 09 - [OpenBSD folklore and share/misc/airport](https://www.cambus.net/openbsd-folklore-and-share-misc-airport/)
-- Jun 09 - [Dancing starling spectacle caused power cuts in Scottish village (2020)](https://www.bbc.com/news/uk-scotland-tayside-central-55334891)
-- Jun 09 - [Discret 11, the French TV encryption of the 80s (2020)](https://fabiensanglard.net/discret11/index.html)
-- Jun 09 - [Internet Filtering in Canada: Rogers' NHL Blocking Order](https://typefully.com/kaplanmyrth/internet-filtering-in-canada-rogers-nhl-TPEqjeU)
-- Jun 09 - [Privacy Badger is a browser extension that learns to block invisible trackers](https://privacybadger.org/)
+- Jun 09 - [Show HN: Python Live GUI – A Hybrid of Dear ImGUI and Phoenix LiveView](https://gitlab.com/BenWiser/python-live-gui)
+- Jun 09 - [Public CDNs Are Useless and Dangerous](https://httptoolkit.tech/blog/public-cdn-risks/)
+- Jun 09 - [Show HN: Open-Source Identity Server Written in Go (Ory Kratos)](https://github.com/ory/kratos)
+- Jun 09 - [We Got Linux on the iPhone, iPad and Other iDevices](https://konradybcio.pl/linuxona7/)
+- Jun 09 - [James Webb Space Telescope hit by a tiny meteorite](https://www.bbc.com/news/science-environment-61744257)
 <!--END_SECTION:hn-->
 
 <!--
