@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 08 - [Hacker News “Who is Hiring?” top-level comments over time](https://blog.joewoods.dev/technology/hackernews-who-is-hiring-top-level-comments-over-time/)
-- Jun 08 - [Researchers Achieve ‘Absurdly Fast’ Algorithm for Network Flow](https://www.quantamagazine.org/researchers-achieve-absurdly-fast-algorithm-for-network-flow-20220608/)
-- Jun 08 - [Relationship Hero (YC S17) Is Hiring Consultant Coaches – Remote](https://relationshiphero.com/careers?role=consultantCoach)
-- Jun 08 - [Investigation report on the OVH data centre fire in Strasbourg on 2021-03-10](https://lafibre.info/ovh-datacenter/incendie-ovh-strabourg/)
-- Jun 08 - [Hexwords: Hex colors that are similar to words](https://hexwords.netlify.app/)
+- Jun 09 - [Simple Sabotage Field Manual by United States Office of Strategic Services](https://www.gutenberg.org/ebooks/26184)
+- Jun 09 - [Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=31676449)
+- Jun 09 - [50th Anniversary of the Mother of All Demos (2018)](https://amasad.me/moad)
+- Jun 09 - [Underprotection of Unpredictable Statistical Lives Compared to Predictable Ones](https://onlinelibrary.wiley.com/doi/abs/10.1111/risa.12658)
+- Jun 08 - [The Last Question](https://en.wikipedia.org/wiki/The_Last_Question)
 <!--END_SECTION:hn-->
 
 <!--
