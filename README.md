@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 09 - [Why are nuclear power construction costs so high? Part I](https://constructionphysics.substack.com/p/why-are-nuclear-power-construction)
-- Jun 09 - [The Collapse of Complex Software](https://nolanlawson.com/2022/06/09/the-collapse-of-complex-software/)
-- Jun 09 - [I cut GTA Online loading times (2021)](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
-- Jun 09 - [Rust without the async (hard) part](https://lunatic.solutions/blog/rust-without-the-async-hard-part/)
-- Jun 09 - [Ask HN: I miss Usenet. Are there any modern equivalents?](https://news.ycombinator.com/item?id=31681234)
+- Jun 09 - [The EU plan to monitor your phone is unconstitutional](https://europeanlawblog.eu/2022/06/07/does-monitoring-your-phone-affect-the-essence-of-privacy/)
+- Jun 09 - [ZeroTier Business SSO is here And so is our new pricing](https://www.zerotier.com/2022/06/09/zerotier-business-sso-is-here-and-so-is-our-new-pricing/)
+- Jun 09 - [Do Kwon Sent $80M a Month to Himself](https://watcher.guru/news/do-kwon-sent-80-million-a-month-to-secret-wallets)
+- Jun 09 - [MedCrypt (YC W19) Is Hiring](https://www.ycombinator.com/companies/medcrypt/jobs/DLp3OYm-medcrypt-yc-w19-embedded-software-development-engineer-135k)
+- Jun 09 - [Bluetooth signals can be used to identify and track smartphones](https://ucsdnews.ucsd.edu/pressrelease/Bluetoothfingerprints)
 <!--END_SECTION:hn-->
 
 <!--
