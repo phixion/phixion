@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 09 - [Lessons from the golden age of the mall walkers](https://www.bloomberg.com/news/features/2022-06-03/a-history-of-mall-walking)
-- Jun 09 - [Quantum Chip Takes Microseconds to Do a Task a Supercomputer Would Spend 9000](https://singularityhub.com/2022/06/07/a-photonic-quantum-device-took-microseconds-to-do-a-task-a-conventional-computer-would-spend-9000-years-on/)
-- Jun 09 - [Suboptimal naming conventions](https://cozilikethinking.wordpress.com/2022/06/06/suboptimal-naming-conventions/)
-- Jun 09 - [Important PostgreSQL 14 update to avoid silent corruption of indexes](https://www.migops.com/blog/2022/06/09/important-postgresql-14-update-to-avoid-silent-corruption-of-indexes/)
-- Jun 09 - [I Resurrected My Dutch Movie Review Site from 2003](https://louwrentius.com/i-resurrected-my-dutch-movie-review-site-from-2003.html)
+- Jun 10 - [I Don't Like Medium](https://www.sdgluck.com/i-dont-like-medium/)
+- Jun 10 - [You need to know what right-half-plane zeros are](https://jbconsulting.substack.com/p/you-need-to-know-what-right-half)
+- Jun 10 - [FCC Proposes Record $34,000 Fine for Unauthorized Transmissions During Wildfire](https://www.arrl.org/news/fcc-proposes-record-34-000-fine-for-alleged-interference-and-unauthorized-transmissions-during-idaho)
+- Jun 10 - [Ways that animals perceive the world](https://www.newyorker.com/magazine/2022/06/13/the-strange-and-secret-ways-that-animals-perceive-the-world-ed-yong-immense-world-tom-mustill-how-to-speak-whale)
+- Jun 10 - [From Python to NumPy (2017)](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 <!--END_SECTION:hn-->
 
 <!--
