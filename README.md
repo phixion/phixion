@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 10 - [New CRISPR-based map ties every human gene to its function](https://news.mit.edu/2022/crispr-based-map-ties-every-human-gene-to-its-function-0609)
-- Jun 10 - [Sunshine – an open-source gamestream server for Windows and Linux](https://github.com/loki-47-6F-64/sunshine)
-- Jun 10 - [The Great Decentralization? Geographic shifts and where tech talent is moving](https://stackoverflow.blog/2022/06/08/the-great-decentralization-geographic-shifts-and-where-tech-talent-is-moving-next/)
-- Jun 10 - [Write HTML Right](http://lofi.limo/blog/write-html-right)
-- Jun 10 - [“Pacman” Hack Can Break Apple M1’s Last Line of Defense](https://spectrum.ieee.org/pacman-hack-can-break-apple-m1s-last-line-of-defense)
+- Jun 10 - [Google does not list application permissions in the Play Store any more](https://news.ycombinator.com/item?id=31698148)
+- Jun 10 - [The Work, the Tech, and the Crime](https://writing.kemitchell.com/2022/06/10/Work-Tech-Crime)
+- Jun 10 - [Show HN: My small program from 2007 that gave Internet Explorer tabs](http://tabbed.org/)
+- Jun 10 - [If OpenSSL were a GUI](https://smallstep.com/blog/if-openssl-were-a-gui/)
+- Jun 10 - [Arduino raises $32m Series B round](https://blog.arduino.cc/2022/06/07/ready-to-transform-the-enterprise-world-we-are/)
 <!--END_SECTION:hn-->
 
 <!--
