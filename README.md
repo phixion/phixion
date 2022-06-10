@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 10 - [The Svix Webhook Service (YC W21) Is Hiring (Remote)](https://www.svix.com/careers/)
-- Jun 10 - [Cull Your Dependencies](https://www.tomrenner.com/blog/2022-06-09/cull-your-dependencies)
-- Jun 10 - [Try Resident Evil Village in the browser through Stadia](https://play.cid.capcom.com/top.html)
-- Jun 10 - [Odyssey Game System](https://www.fabcollectibles.com/tv-video/game-consoles/magnavox-odyssey.html)
-- Jun 10 - [Tell HN: Never Trust 'Lifetime' Licenses](https://news.ycombinator.com/item?id=31692338)
+- Jun 10 - [New CRISPR-based map ties every human gene to its function](https://news.mit.edu/2022/crispr-based-map-ties-every-human-gene-to-its-function-0609)
+- Jun 10 - [Sunshine – an open-source gamestream server for Windows and Linux](https://github.com/loki-47-6F-64/sunshine)
+- Jun 10 - [The Great Decentralization? Geographic shifts and where tech talent is moving](https://stackoverflow.blog/2022/06/08/the-great-decentralization-geographic-shifts-and-where-tech-talent-is-moving-next/)
+- Jun 10 - [Write HTML Right](http://lofi.limo/blog/write-html-right)
+- Jun 10 - [“Pacman” Hack Can Break Apple M1’s Last Line of Defense](https://spectrum.ieee.org/pacman-hack-can-break-apple-m1s-last-line-of-defense)
 <!--END_SECTION:hn-->
 
 <!--
