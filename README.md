@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 10 - [I Don't Like Medium](https://www.sdgluck.com/i-dont-like-medium/)
+- Jun 10 - [Sylpheed email client: open source, cross-platform, lightweight, user-friendly](https://sylpheed.sraoss.jp/en/)
+- Jun 10 - [Coinbase employees petition to remove execs](https://web.archive.org/web/20220609202836/https://mirror.xyz/0x58E3a8Bc8CBFC10AC2972Fb9d0cF359E21eae56b/ZIO--5ywx1z-aKs0KCQ2PeTNutVKune7zhA1D09R0q0)
+- Jun 10 - [Toxic Productivity](https://paperform.co/blog/toxic-productivity/)
 - Jun 10 - [You need to know what right-half-plane zeros are](https://jbconsulting.substack.com/p/you-need-to-know-what-right-half)
-- Jun 10 - [FCC Proposes Record $34,000 Fine for Unauthorized Transmissions During Wildfire](https://www.arrl.org/news/fcc-proposes-record-34-000-fine-for-alleged-interference-and-unauthorized-transmissions-during-idaho)
 - Jun 10 - [Ways that animals perceive the world](https://www.newyorker.com/magazine/2022/06/13/the-strange-and-secret-ways-that-animals-perceive-the-world-ed-yong-immense-world-tom-mustill-how-to-speak-whale)
-- Jun 10 - [From Python to NumPy (2017)](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 <!--END_SECTION:hn-->
 
 <!--
