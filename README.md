@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 11 - [Tara AI Is Hiring for a growth lead to handle inbound and SEO](https://jobs.gohire.io/tara-ai-wyqbsv6l/growth-lead-inbound-92331/)
-- Jun 11 - [Activists rally to save Internet Archive as lawsuit threatens site (2020)](https://decrypt.co/31906/activists-rally-save-internet-archive-lawsuit-threatens)
-- Jun 11 - [Nintendo Nemesis Max Louarn: Hacker, Rebel, and Wanted by the FBI](https://torrentfreak.com/nintendo-nemesis-max-louarn-hacker-rebel-and-wanted-by-the-fbi-220611/)
-- Jun 11 - [A British garden's rainfall data 1988-2022 using copper rain gauge, notepad, pen](https://www.weatherbook.org/dash/3/averages)
-- Jun 11 - [A Facebook crawler was making 7M requests per day to my stupid website (2020)](https://coding.napolux.com/a-facebook-crawler-was-making-7m-requests-per-day-to-my-stupid-website/)
+- Jun 11 - [Remembering Apple’s Newton, 30 years on](https://arstechnica.com/gadgets/2022/06/remembering-apples-newton-30-years-on/)
+- Jun 11 - [I don't want to go to Chel-C](https://applied-langua.ge/posts/i-dont-want-to-go-to-chel-c.html)
+- Jun 11 - [Health minister: Unexplained high death counts in New Brunswick concerning](https://www.cbc.ca/news/canada/new-brunswick/excess-deaths-minister-shephard-1.6484641)
+- Jun 11 - [DNS Toys](https://www.dns.toys/)
+- Jun 11 - [Explosion at US natural gas plant raises risk of shortages in Europe](https://www.theguardian.com/us-news/2022/jun/09/us-natural-gas-plant-explosion-freeport-lng-shortages-europe)
 <!--END_SECTION:hn-->
 
 <!--
