@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 10 - [Google does not list application permissions in the Play Store any more](https://news.ycombinator.com/item?id=31698148)
-- Jun 10 - [The Work, the Tech, and the Crime](https://writing.kemitchell.com/2022/06/10/Work-Tech-Crime)
-- Jun 10 - [Show HN: My small program from 2007 that gave Internet Explorer tabs](http://tabbed.org/)
-- Jun 10 - [If OpenSSL were a GUI](https://smallstep.com/blog/if-openssl-were-a-gui/)
-- Jun 10 - [Arduino raises $32m Series B round](https://blog.arduino.cc/2022/06/07/ready-to-transform-the-enterprise-world-we-are/)
+- Jun 10 - [Inflation, part 1: On shelter futures](https://jbconsulting.substack.com/p/on-shelter-futures-part-1)
+- Jun 10 - [Cooperation protected Bitcoin during failures of decentralization](https://arxiv.org/abs/2206.02871)
+- Jun 10 - [Non-Stationary A/B Tests](https://www.amazon.science/publications/non-stationary-a-b-tests)
+- Jun 10 - [Meta Scrutinizing Sheryl Sandberg’s Use of Facebook Resources over Several Years](https://www.wsj.com/articles/meta-scrutinizing-sheryl-sandbergs-use-of-facebook-resources-over-several-years-11654882829)
+- Jun 10 - [Data Race Patterns in Go](https://eng.uber.com/data-race-patterns-in-go/)
 <!--END_SECTION:hn-->
 
 <!--
