@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 11 - [Is “acceptably non-dystopian” self-sovereign identity even possible?](https://blog.mollywhite.net/is-acceptably-non-dystopian-self-sovereign-identity-even-possible/)
+- Jun 11 - [Drone swarms that harassed navy ships demystified in new docs](https://www.thedrive.com/the-war-zone/drone-swarms-that-harassed-navy-ships-demystified-in-new-documents)
+- Jun 11 - [The DJB Legacy (2011)](https://skarnet.org/software/skalibs/djblegacy.html)
+- Jun 11 - [L.A.'s coast was once a DDT dumping ground (2020)](https://www.latimes.com/projects/la-coast-ddt-dumping-ground/)
 - Jun 10 - [Inflation, part 1: On shelter futures](https://jbconsulting.substack.com/p/on-shelter-futures-part-1)
-- Jun 10 - [Cooperation protected Bitcoin during failures of decentralization](https://arxiv.org/abs/2206.02871)
-- Jun 10 - [Non-Stationary A/B Tests](https://www.amazon.science/publications/non-stationary-a-b-tests)
-- Jun 10 - [Meta Scrutinizing Sheryl Sandberg’s Use of Facebook Resources over Several Years](https://www.wsj.com/articles/meta-scrutinizing-sheryl-sandbergs-use-of-facebook-resources-over-several-years-11654882829)
-- Jun 10 - [Data Race Patterns in Go](https://eng.uber.com/data-race-patterns-in-go/)
 <!--END_SECTION:hn-->
 
 <!--
