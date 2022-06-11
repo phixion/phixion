@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 11 - [Deepnote (YC S19) is hiring to build a better data science notebook](https://deepnote.com/join-us)
-- Jun 11 - [Go 1.19 Beta 1 is released](https://groups.google.com/g/golang-announce/c/SNruPJUSFz0)
-- Jun 11 - [Is Do Kwon a Kwon-Artist?](https://cryptofireside.com/do-kwon-in-even-more-trouble-2ad28d32806a?gi=2aa1cd8a418f)
-- Jun 11 - [Is “acceptably non-dystopian” self-sovereign identity even possible?](https://blog.mollywhite.net/is-acceptably-non-dystopian-self-sovereign-identity-even-possible/)
-- Jun 11 - [Drone swarms that harassed navy ships demystified in new docs](https://www.thedrive.com/the-war-zone/drone-swarms-that-harassed-navy-ships-demystified-in-new-documents)
+- Jun 11 - [Tara AI Is Hiring for a growth lead to handle inbound and SEO](https://jobs.gohire.io/tara-ai-wyqbsv6l/growth-lead-inbound-92331/)
+- Jun 11 - [Activists rally to save Internet Archive as lawsuit threatens site (2020)](https://decrypt.co/31906/activists-rally-save-internet-archive-lawsuit-threatens)
+- Jun 11 - [Nintendo Nemesis Max Louarn: Hacker, Rebel, and Wanted by the FBI](https://torrentfreak.com/nintendo-nemesis-max-louarn-hacker-rebel-and-wanted-by-the-fbi-220611/)
+- Jun 11 - [A British garden's rainfall data 1988-2022 using copper rain gauge, notepad, pen](https://www.weatherbook.org/dash/3/averages)
+- Jun 11 - [A Facebook crawler was making 7M requests per day to my stupid website (2020)](https://coding.napolux.com/a-facebook-crawler-was-making-7m-requests-per-day-to-my-stupid-website/)
 <!--END_SECTION:hn-->
 
 <!--
