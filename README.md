@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 11 - [Deepnote (YC S19) is hiring to build a better data science notebook](https://deepnote.com/join-us)
+- Jun 11 - [Go 1.19 Beta 1 is released](https://groups.google.com/g/golang-announce/c/SNruPJUSFz0)
+- Jun 11 - [Is Do Kwon a Kwon-Artist?](https://cryptofireside.com/do-kwon-in-even-more-trouble-2ad28d32806a?gi=2aa1cd8a418f)
 - Jun 11 - [Is “acceptably non-dystopian” self-sovereign identity even possible?](https://blog.mollywhite.net/is-acceptably-non-dystopian-self-sovereign-identity-even-possible/)
 - Jun 11 - [Drone swarms that harassed navy ships demystified in new docs](https://www.thedrive.com/the-war-zone/drone-swarms-that-harassed-navy-ships-demystified-in-new-documents)
-- Jun 11 - [The DJB Legacy (2011)](https://skarnet.org/software/skalibs/djblegacy.html)
-- Jun 11 - [L.A.'s coast was once a DDT dumping ground (2020)](https://www.latimes.com/projects/la-coast-ddt-dumping-ground/)
-- Jun 10 - [Inflation, part 1: On shelter futures](https://jbconsulting.substack.com/p/on-shelter-futures-part-1)
 <!--END_SECTION:hn-->
 
 <!--
