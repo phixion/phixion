@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 11 - [Remembering Apple’s Newton, 30 years on](https://arstechnica.com/gadgets/2022/06/remembering-apples-newton-30-years-on/)
-- Jun 11 - [I don't want to go to Chel-C](https://applied-langua.ge/posts/i-dont-want-to-go-to-chel-c.html)
-- Jun 11 - [Health minister: Unexplained high death counts in New Brunswick concerning](https://www.cbc.ca/news/canada/new-brunswick/excess-deaths-minister-shephard-1.6484641)
-- Jun 11 - [DNS Toys](https://www.dns.toys/)
-- Jun 11 - [Explosion at US natural gas plant raises risk of shortages in Europe](https://www.theguardian.com/us-news/2022/jun/09/us-natural-gas-plant-explosion-freeport-lng-shortages-europe)
+- Jun 11 - [Tesla: Designing autopilot program to shut off less than a second before impact](https://twitter.com/muttgomery/status/1535353454905917446)
+- Jun 11 - [Ask HN: Best beginner friendly linear algebra book?](https://news.ycombinator.com/item?id=31707163)
+- Jun 11 - [Ask HN: How to remember technical topics which you don’t use/refer everyday?](https://news.ycombinator.com/item?id=31707134)
+- Jun 11 - [Encouraging the NHS to build a small web service](https://news.ycombinator.com/item?id=31707040)
+- Jun 11 - [US moves closer to recalling Tesla’s self-driving software](https://fortune.com/2022/06/10/elon-musk-tesla-nhtsa-investigation-traffic-safety-autonomous-fsd-fatal-probe/)
 <!--END_SECTION:hn-->
 
 <!--
