@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 12 - [Show HN: Browser extension that spoofs your location data to match your VPN](https://github.com/z0ccc/Vytal)
-- Jun 12 - [A new day for Insteon](https://www.insteon.com/blog/2022/6/9/fnustys354bfmcmchr36wgvrn5h41z)
-- Jun 11 - [Best Practices for Inclusive CLIs](https://seirdy.one/posts/2022/06/10/cli-best-practices/)
-- Jun 11 - [Adventures in Electronic Music (2011)](https://www.charlespetzold.com/etc/AdventuresInElectronicMusic/)
-- Jun 11 - [Low economic growth is a slow-burning crisis for Britain](https://www.economist.com/leaders/2022/06/09/low-economic-growth-is-a-slow-burning-crisis-for-britain)
+- Jun 12 - [Shortsightedness Has Become an Epidemic](https://www.economist.com/leaders/2022/06/09/short-sightedness-has-become-an-epidemic)
+- Jun 12 - [Found: The ‘how to draw’ books Pablo Picasso created for his daughter](https://www.theguardian.com/artanddesign/2022/jun/11/found-the-how-to-draw-books-pablo-picasso-created-for-his-daughter)
+- Jun 12 - [Religious Discrimination at Google](https://cajundiscordian.medium.com/religious-discrimination-at-google-8c3c471f0a53)
+- Jun 12 - [Risk of myocarditis after the Covid-19 mRNA vaccination in the USA cohort study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00791-7/fulltext)
+- Jun 12 - [Regular caffeine consumption affects brain structure](https://www.sciencedaily.com/releases/2021/02/210216100137.htm)
 <!--END_SECTION:hn-->
 
 <!--
