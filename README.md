@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 11 - [Downtown S.F. on the brink: It’s worse than it looks](https://www.sfchronicle.com/projects/2022/sfnext-downtown/)
-- Jun 11 - [Charles Petzold: Adventures in Electronic Music: Beeps, Bloops and Klangs (2011)](https://www.charlespetzold.com/etc/AdventuresInElectronicMusic/)
+- Jun 12 - [Show HN: Browser extension that spoofs your location data to match your VPN](https://github.com/z0ccc/Vytal)
+- Jun 12 - [A new day for Insteon](https://www.insteon.com/blog/2022/6/9/fnustys354bfmcmchr36wgvrn5h41z)
+- Jun 11 - [Best Practices for Inclusive CLIs](https://seirdy.one/posts/2022/06/10/cli-best-practices/)
+- Jun 11 - [Adventures in Electronic Music (2011)](https://www.charlespetzold.com/etc/AdventuresInElectronicMusic/)
 - Jun 11 - [Low economic growth is a slow-burning crisis for Britain](https://www.economist.com/leaders/2022/06/09/low-economic-growth-is-a-slow-burning-crisis-for-britain)
-- Jun 11 - [How to Do a Handstand](https://www.nerdfitness.com/blog/a-beginners-guide-to-handstands/)
-- Jun 11 - [Ask HN: What's the coolest website you know?](https://news.ycombinator.com/item?id=31708366)
 <!--END_SECTION:hn-->
 
 <!--
