@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 12 - [Amazon Engineer Sues for Work from Home Costs](https://www.inc.com/suzanne-lucas/amazon-engineer-sues-for-work-from-home-costs.html)
-- Jun 12 - [Lilium achieves first main wing transition for all-electric aircraft [video]](https://www.youtube.com/watch?v=QNl0DDUnp0E)
-- Jun 12 - [ZeroStableCoin is out from stealth mode](https://twitter.com/zerostablecoin/status/1534131126209499138)
-- Jun 12 - [Parental alienation and the unregulated experts shattering children’s lives](https://www.theguardian.com/global-development/2022/jun/12/parental-alienation-and-the-unregulated-experts-shattering-childrens-lives)
-- Jun 12 - [Why Great Things Never Came from Comfort Zones](https://durmonski.com/self-improvement/great-things-never-came-from-comfort-zones/)
+- Jun 12 - [“We’re winding down Google Talk” on June 16, 2022](https://support.google.com/talk/?hl=en)
+- Jun 12 - [Lorien – Infinite canvas drawing/whiteboarding app](https://github.com/mbrlabs/Lorien)
+- Jun 12 - [ACM Makes Thousands of Research Articles Freely Available; Opens First 50 Years](https://www.acm.org/media-center/2022/april/50-years-backfile)
+- Jun 12 - [Challenge: Pixel perfect design](https://developer.apple.com/news/?id=3sgp4ps7)
+- Jun 12 - [Crop Circles Were Made by Supernatural Forces. Named Doug and Dave](https://www.nytimes.com/2022/06/12/style/crop-circles.html)
 <!--END_SECTION:hn-->
 
 <!--
