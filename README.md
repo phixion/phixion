@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 13 - [Why We’re Sticking with Ruby on Rails at Gitlab](https://thenewstack.io/why-were-sticking-with-ruby-on-rails-at-gitlab/)
-- Jun 13 - [Reddit Bans ‘SFW’ Deepfake Community](https://www.unite.ai/reddit-bans-sfw-deepfake-community/)
-- Jun 13 - [Show HN: Tuc – When cut doesn’t cut it](https://github.com/riquito/tuc)
-- Jun 13 - [Ask HN: How do you know when you are burning out?](https://news.ycombinator.com/item?id=31726302)
-- Jun 13 - [Social engineering GoDaddy (2021)](https://g.livejournal.com/8578.html)
+- Jun 13 - [Photos of Chickens, Taken by Chickens](https://chicken.photos/)
+- Jun 13 - [North Carolina wants to ban free EV charging](https://thenextweb.com/news/north-carolina-ban-free-ev-charging-is-environmental-disgrace)
+- Jun 13 - [Making popular Ruby packages more secure](https://blog.rubygems.org/2022/06/13/making-packages-more-secure.html)
+- Jun 13 - [Official IE11 end-of-life in 2 days](https://death-to-ie11.com/)
+- Jun 13 - [LUMI, Europe’s most powerful supercomputer](https://www.lumi-supercomputer.eu/lumi-europes-most-powerful-supercomputer-is-solving-global-challenges-and-promoting-a-green-transformation/)
 <!--END_SECTION:hn-->
 
 <!--
