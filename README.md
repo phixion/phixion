@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 13 - [Show HN: Search Aggregate – Search results from lots of different sites](https://searchaggregate.com)
-- Jun 13 - [LaMDA is not sentient](https://garymarcus.substack.com/p/nonsense-on-stilts)
-- Jun 13 - [Mammals can breathe through their intestines](https://www.science.org/content/article/mammals-can-breathe-through-their-intestines)
-- Jun 13 - [Aleph.js – Fullstack Framework in Deno](https://github.com/alephjs/aleph.js)
-- Jun 13 - [Toyota unveils 8.7 kWh battery for residential applications](https://www.pv-magazine.com/2022/06/07/toyota-unveils-8-7-kwh-battery-for-residential-applications/)
+- Jun 13 - [PostmarketOS 22.06 released – now upgrades are possible](https://postmarketos.org/blog/2022/06/12/v22.06-release/)
+- Jun 13 - [Tachyum's Prodigy CPU: 5nm, 128 Cores, 5.7 GHz, 16x DDR5-7200 and 950W TDP](https://wccftech.com/tachyums-prodigy-cpu-specs-unveiled-5nm-universal-processors-up-to-128-cores-5-7-ghz-16-channel-ddr5-7200-memory-950w-tdp/)
+- Jun 13 - [How Trustpilot Extorts Businesses](https://medium.com/@ryanbadger/how-trustpilot-extorts-businesses-91ca4b6a6f62)
+- Jun 13 - [Life after Guantanamo: 'We are still in jail'](https://www.bbc.com/news/world-us-canada-61609417)
+- Jun 13 - [Tron’s USDD stablecoin currently losing its peg](https://coinmarketcap.com/currencies/usdd/)
 <!--END_SECTION:hn-->
 
 <!--
