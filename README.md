@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 13 - [Show HN: Search Aggregate – Search results from lots of different sites](https://searchaggregate.com)
+- Jun 13 - [LaMDA is not sentient](https://garymarcus.substack.com/p/nonsense-on-stilts)
+- Jun 13 - [Mammals can breathe through their intestines](https://www.science.org/content/article/mammals-can-breathe-through-their-intestines)
 - Jun 13 - [Aleph.js – Fullstack Framework in Deno](https://github.com/alephjs/aleph.js)
 - Jun 13 - [Toyota unveils 8.7 kWh battery for residential applications](https://www.pv-magazine.com/2022/06/07/toyota-unveils-8-7-kwh-battery-for-residential-applications/)
-- Jun 13 - [Crypto Platform Celsius Pauses Withdrawals](https://blog.celsius.network/a-memo-to-the-celsius-community-59532a06ecc6)
-- Jun 13 - [Mptcp: Moving laptop from GBit to wireless without applications noticing?](https://www.redhat.com/en/blog/using-multipath-tcp-better-survive-outages-and-increase-bandwidth)
-- Jun 13 - [Robert Jordan, the Man Who Connecticut Police Said Was ‘Too Smart to Be a Cop’](https://melmagazine.com/en-us/story/robert-jordan-too-smart-to-be-a-cop)
 <!--END_SECTION:hn-->
 
 <!--
