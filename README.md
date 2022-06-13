@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 13 - [PostmarketOS 22.06 released – now upgrades are possible](https://postmarketos.org/blog/2022/06/12/v22.06-release/)
-- Jun 13 - [Tachyum's Prodigy CPU: 5nm, 128 Cores, 5.7 GHz, 16x DDR5-7200 and 950W TDP](https://wccftech.com/tachyums-prodigy-cpu-specs-unveiled-5nm-universal-processors-up-to-128-cores-5-7-ghz-16-channel-ddr5-7200-memory-950w-tdp/)
-- Jun 13 - [How Trustpilot Extorts Businesses](https://medium.com/@ryanbadger/how-trustpilot-extorts-businesses-91ca4b6a6f62)
-- Jun 13 - [Life after Guantanamo: 'We are still in jail'](https://www.bbc.com/news/world-us-canada-61609417)
-- Jun 13 - [Tron’s USDD stablecoin currently losing its peg](https://coinmarketcap.com/currencies/usdd/)
+- Jun 13 - [Why We’re Sticking with Ruby on Rails at Gitlab](https://thenewstack.io/why-were-sticking-with-ruby-on-rails-at-gitlab/)
+- Jun 13 - [Reddit Bans ‘SFW’ Deepfake Community](https://www.unite.ai/reddit-bans-sfw-deepfake-community/)
+- Jun 13 - [Show HN: Tuc – When cut doesn’t cut it](https://github.com/riquito/tuc)
+- Jun 13 - [Ask HN: How do you know when you are burning out?](https://news.ycombinator.com/item?id=31726302)
+- Jun 13 - [Social engineering GoDaddy (2021)](https://g.livejournal.com/8578.html)
 <!--END_SECTION:hn-->
 
 <!--
