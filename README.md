@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 12 - [“We’re winding down Google Talk” on June 16, 2022](https://support.google.com/talk/?hl=en)
-- Jun 12 - [Lorien – Infinite canvas drawing/whiteboarding app](https://github.com/mbrlabs/Lorien)
-- Jun 12 - [ACM Makes Thousands of Research Articles Freely Available; Opens First 50 Years](https://www.acm.org/media-center/2022/april/50-years-backfile)
-- Jun 12 - [Challenge: Pixel perfect design](https://developer.apple.com/news/?id=3sgp4ps7)
-- Jun 12 - [Crop Circles Were Made by Supernatural Forces. Named Doug and Dave](https://www.nytimes.com/2022/06/12/style/crop-circles.html)
+- Jun 12 - [Google Suspends Engineer Who Claimed Its AI System Is a Person](https://www.wsj.com/articles/google-suspends-engineer-who-claimed-its-ai-system-is-a-person-11655074917)
+- Jun 12 - [Google Will Eat Itself](https://www.gwei.org/index.php)
+- Jun 12 - [Foone reverse engineering Skifree (Twitter thread)](https://twitter.com/Foone/status/1536053690368348160)
+- Jun 12 - [GPT-3 may be a squirrel](https://twitter.com/janellecshane/status/1535835610396692480)
+- Jun 12 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 <!--END_SECTION:hn-->
 
 <!--
