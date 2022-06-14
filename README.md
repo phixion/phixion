@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 14 - [ADHD Medication increases risk of Depression in Kids (Study) (2022)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9048009/)
-- Jun 14 - [Houston Moved 25,000 People from the Streets into Homes of Their Own](https://www.nytimes.com/2022/06/14/headway/houston-homeless-people.html)
-- Jun 14 - [Grafana releases OnCall open source project](https://grafana.com/blog/2022/06/14/introducing-grafana-oncall-oss-open-source/)
-- Jun 14 - [Everything Is Broken: Shipping Rust-Minidump at Mozilla – Part 1](https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at-mozilla/)
-- Jun 14 - [Ryanair Condemns Hungarian Govt’s Idiotic ‘Excess Profits’ Tax](https://corporate.ryanair.com/news/ryanair-condemns-hungarian-govts-idiotic-excess-profits-tax-on-loss-making-airlines/)
+- Jun 14 - [Infants' sense of pain is recognized, finally (1987)](https://www.nytimes.com/1987/11/24/science/infants-sense-of-pain-is-recognized-finally.html)
+- Jun 14 - [A C++17 thread pool for high-performance scientific computing](https://arxiv.org/abs/2105.00613)
+- Jun 14 - [Situating Search](https://dl.acm.org/doi/fullHtml/10.1145/3498366.3505816)
+- Jun 14 - [FDA approves first systemic treatment for alopecia areata](https://www.fda.gov/news-events/press-announcements/fda-approves-first-systemic-treatment-alopecia-areata)
+- Jun 14 - [Amazon builds property empire, quietly buying land across the US](https://www.bloomberg.com/news/features/2022-06-13/amazon-builds-property-empire-for-warehouses-even-as-online-sales-growth-slows)
 <!--END_SECTION:hn-->
 
 <!--
