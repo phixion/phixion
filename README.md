@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 14 - [List of free and open-source apps I use on Windows](https://gourav.io)
-- Jun 14 - [Man loses life savings in cryptocurrency scam](https://www.bbc.com/news/uk-northern-ireland-61789747)
-- Jun 14 - [Scotland starts renewed case for independence](https://www.gov.scot/publications/independence-modern-world-wealthier-happier-fairer-not-scotland/)
-- Jun 14 - [What NASA had planned to do after Apollo](https://www.thespacereview.com/article/507/1)
-- Jun 14 - [Parsing R code: Freedom of expression is not always a good idea (2012)](https://shape-of-code.com/2012/02/29/parsing-r-code-freedom-of-expression-is-not-always-a-good-idea/)
+- Jun 14 - [ADHD Medication increases risk of Depression in Kids (Study) (2022)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9048009/)
+- Jun 14 - [Houston Moved 25,000 People from the Streets into Homes of Their Own](https://www.nytimes.com/2022/06/14/headway/houston-homeless-people.html)
+- Jun 14 - [Grafana releases OnCall open source project](https://grafana.com/blog/2022/06/14/introducing-grafana-oncall-oss-open-source/)
+- Jun 14 - [Everything Is Broken: Shipping Rust-Minidump at Mozilla – Part 1](https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at-mozilla/)
+- Jun 14 - [Ryanair Condemns Hungarian Govt’s Idiotic ‘Excess Profits’ Tax](https://corporate.ryanair.com/news/ryanair-condemns-hungarian-govts-idiotic-excess-profits-tax-on-loss-making-airlines/)
 <!--END_SECTION:hn-->
 
 <!--
