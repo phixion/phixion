@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 14 - [Show HN: Offline voice messages transcription in Signal Desktop](https://www.a2p.it/tech-stuff/coquistt-signal-love-death-to-voice-messages/)
-- Jun 14 - [On the angst of American journalists (2019)](https://scholars-stage.org/on-the-angst-of-american-journalists/)
-- Jun 14 - [Celsius Appears insolvent, and it's taking the whole crypto market with it](https://twitter.com/jonwu_/status/1536476104986267648)
-- Jun 14 - [Show HN: The Coinbase FOMO Calculator](https://vidacode.github.io/CoinbaseFomoCalculator/)
-- Jun 14 - [Electric vehicle battery capable of 98% charge in less than ten minutes](https://pv-magazine-usa.com/2022/06/13/electric-vehicle-battery-capable-of-98-charge-in-less-than-ten-minutes/)
+- Jun 14 - [List of free and open-source apps I use on Windows](https://gourav.io)
+- Jun 14 - [Man loses life savings in cryptocurrency scam](https://www.bbc.com/news/uk-northern-ireland-61789747)
+- Jun 14 - [Scotland starts renewed case for independence](https://www.gov.scot/publications/independence-modern-world-wealthier-happier-fairer-not-scotland/)
+- Jun 14 - [What NASA had planned to do after Apollo](https://www.thespacereview.com/article/507/1)
+- Jun 14 - [Parsing R code: Freedom of expression is not always a good idea (2012)](https://shape-of-code.com/2012/02/29/parsing-r-code-freedom-of-expression-is-not-always-a-good-idea/)
 <!--END_SECTION:hn-->
 
 <!--
