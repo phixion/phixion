@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 13 - [Photos of Chickens, Taken by Chickens](https://chicken.photos/)
-- Jun 13 - [North Carolina wants to ban free EV charging](https://thenextweb.com/news/north-carolina-ban-free-ev-charging-is-environmental-disgrace)
-- Jun 13 - [Making popular Ruby packages more secure](https://blog.rubygems.org/2022/06/13/making-packages-more-secure.html)
-- Jun 13 - [Official IE11 end-of-life in 2 days](https://death-to-ie11.com/)
-- Jun 13 - [LUMI, Europe’s most powerful supercomputer](https://www.lumi-supercomputer.eu/lumi-europes-most-powerful-supercomputer-is-solving-global-challenges-and-promoting-a-green-transformation/)
+- Jun 13 - [Stanford’s War on Social Life](https://palladiummag.com/2022/06/13/stanfords-war-on-social-life/)
+- Jun 13 - [Human Attention has become a commodity](https://mebassett.info/human-attention-commodity)
+- Jun 13 - [Thank HN: Five months ago, I was feeling like a loser, now I am opposite](https://news.ycombinator.com/item?id=31732048)
+- Jun 13 - [Diving into GCC Internals](https://gcc-newbies-guide.readthedocs.io/en/latest/diving-into-gcc-internals.html)
+- Jun 13 - [Photos of chickens, taken by chickens](https://chicken.photos/)
 <!--END_SECTION:hn-->
 
 <!--
