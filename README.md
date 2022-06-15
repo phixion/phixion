@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 14 - [Infants' sense of pain is recognized, finally (1987)](https://www.nytimes.com/1987/11/24/science/infants-sense-of-pain-is-recognized-finally.html)
-- Jun 14 - [A C++17 thread pool for high-performance scientific computing](https://arxiv.org/abs/2105.00613)
-- Jun 14 - [Situating Search](https://dl.acm.org/doi/fullHtml/10.1145/3498366.3505816)
-- Jun 14 - [FDA approves first systemic treatment for alopecia areata](https://www.fda.gov/news-events/press-announcements/fda-approves-first-systemic-treatment-alopecia-areata)
-- Jun 14 - [Amazon builds property empire, quietly buying land across the US](https://www.bloomberg.com/news/features/2022-06-13/amazon-builds-property-empire-for-warehouses-even-as-online-sales-growth-slows)
+- Jun 14 - [Tell HN: A reminder you hold so much power](https://news.ycombinator.com/item?id=31746999)
+- Jun 14 - [Glucosamine significantly reduces risk of lung cancer and lung cancer mortality](https://erj.ersjournals.com/content/59/3/2101399)
+- Jun 14 - [The hunt for a cluster-killer Erlang bug](https://engineering.klarna.com/the-hunt-for-the-cluster-killer-erlang-bug-81dd0640aa81?gi=e3144c1fcf1b)
+- Jun 14 - [Kodable (YC IK12) is hiring a full-stack engineer to help us teach kids to code](https://www.indeed.com/jobs?q=Kodable&vjk=cfd80509c01480ac&sc=0fcckey%3A49fe5ce38cf6d5e8%2Cq%3A%3B)
+- Jun 14 - [Ransomware group debuts searchable victim data](https://krebsonsecurity.com/2022/06/ransomware-group-debuts-searchable-victim-data/)
 <!--END_SECTION:hn-->
 
 <!--
