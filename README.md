@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 15 - [Porter (YC S20) Is Hiring Founding Engineers in NYC](https://www.ycombinator.com/companies/porter/jobs)
-- Jun 15 - [End-of-life smartphone? Penguins at PostmarketOS aim to revive it](https://www.theregister.com/2022/06/15/postmarketos_2206/)
-- Jun 15 - [How Price Shocks in Formative Years Scar Consumption for Life](https://knowledge.wharton.upenn.edu/article/how-price-shocks-in-formative-years-scar-consumption-for-life/)
-- Jun 15 - [Terra Luna crash: CTO of Tether welcomes fair regulation of stablecoin market](https://www.businessinsider.com/cryptocurrency-tether-terra-luna-stablecoin-crash-regulation-cbdcs-2022-6)
-- Jun 15 - [Ten years after the Higgs, physicists face the nightmare of finding nothing else](https://www.science.org/content/article/ten-years-after-higgs-physicists-face-nightmare-finding-nothing-else)
+- Jun 15 - [A biological super glue from mistletoe berries?](https://www.mcgill.ca/newsroom/channels/news/biological-super-glue-mistletoe-berries-339907)
+- Jun 15 - [Monograph of wild and cultivated chili peppers](https://phytokeys.pensoft.net/article/71667/)
+- Jun 15 - [Nuclear Is Back on the Table for a Green Future](https://www.nytimes.com/2022/06/15/business/dealbook-dc-climate-task-force.html)
+- Jun 15 - [Internet Explorer 11 has retired and is officially out of support](https://blogs.windows.com/windowsexperience/2022/06/15/internet-explorer-11-has-retired-and-is-officially-out-of-support-what-you-need-to-know/)
+- Jun 15 - [Select ’Hello, World’: Serverless Postgres Built for the Cloud](https://neon.tech/blog/hello-world/)
 <!--END_SECTION:hn-->
 
 <!--
