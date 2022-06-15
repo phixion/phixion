@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 14 - [Tell HN: A reminder you hold so much power](https://news.ycombinator.com/item?id=31746999)
-- Jun 14 - [Glucosamine significantly reduces risk of lung cancer and lung cancer mortality](https://erj.ersjournals.com/content/59/3/2101399)
-- Jun 14 - [The hunt for a cluster-killer Erlang bug](https://engineering.klarna.com/the-hunt-for-the-cluster-killer-erlang-bug-81dd0640aa81?gi=e3144c1fcf1b)
-- Jun 14 - [Kodable (YC IK12) is hiring a full-stack engineer to help us teach kids to code](https://www.indeed.com/jobs?q=Kodable&vjk=cfd80509c01480ac&sc=0fcckey%3A49fe5ce38cf6d5e8%2Cq%3A%3B)
-- Jun 14 - [Ransomware group debuts searchable victim data](https://krebsonsecurity.com/2022/06/ransomware-group-debuts-searchable-victim-data/)
+- Jun 15 - [Air quality worsens as drought forces California growers to burn abandoned crops](https://www.latimes.com/environment/story/2022-06-11/drought-is-fueling-san-joaquin-valley-air-pollution)
+- Jun 15 - [Cheat Sheet for If I'm Gone](https://thoughtscollected.tech/posts/for-when-im-gone/)
+- Jun 15 - [PC Engine / TurboGrafx-16 Architecture](https://www.copetti.org/writings/consoles/pc-engine/)
+- Jun 15 - [Palm OS developer releases source to classic games, 20 years after release](https://www.retrorgb.com/palm-os-developer-releases-source-to-classic-games-20-years-after-release.html)
+- Jun 15 - [Why duck typing (and structural subtyping) is safe](http://www.jerf.org/iri/post/2954)
 <!--END_SECTION:hn-->
 
 <!--
