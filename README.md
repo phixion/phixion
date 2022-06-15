@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 15 - [Air quality worsens as drought forces California growers to burn abandoned crops](https://www.latimes.com/environment/story/2022-06-11/drought-is-fueling-san-joaquin-valley-air-pollution)
-- Jun 15 - [Cheat Sheet for If I'm Gone](https://thoughtscollected.tech/posts/for-when-im-gone/)
+- Jun 15 - [Cryptocurrencies Have Broken Almost All of Their Major Promises](https://ruky.me/2022/06/14/cryptocurrencies-have-broken-almost-all-of-their-major-promises/)
+- Jun 15 - [Angstrem Memory IC’s in the USSR](https://www.cpushack.com/2022/06/13/the-history-of-angstrem-memory-ics-in-the-ussr/)
+- Jun 15 - [Dating, Hinge, and the Gale-Shapley Algorithm](https://blogs.cornell.edu/info2040/2021/09/30/hinge-and-its-implementation-of-the-gale-shapley-algorithm/)
+- Jun 15 - [Cheat sheet for if I'm gone](https://thoughtscollected.tech/posts/for-when-im-gone/)
 - Jun 15 - [PC Engine / TurboGrafx-16 Architecture](https://www.copetti.org/writings/consoles/pc-engine/)
-- Jun 15 - [Palm OS developer releases source to classic games, 20 years after release](https://www.retrorgb.com/palm-os-developer-releases-source-to-classic-games-20-years-after-release.html)
-- Jun 15 - [Why duck typing (and structural subtyping) is safe](http://www.jerf.org/iri/post/2954)
 <!--END_SECTION:hn-->
 
 <!--
