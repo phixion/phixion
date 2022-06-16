@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 16 - [How fast can a 6502 transfer memory](https://imapenguin.com/how-fast-can-a-6502-transfer-memory/)
-- Jun 16 - [Astronomers in China Claim Possible Detection of Extraterrestrial Civilizations](https://www.livescience.com/china-says-it-may-have-received-signals-from-aliens)
-- Jun 16 - [Opening a Boston Restaurant: 92 Steps, 22 Forms, 17 Office Visits, $5,554 Fees](https://www.inc.com/victor-w-hwang/institute-of-justice-regulations.html)
-- Jun 16 - [Sick and struggling to pay, 100M people in the U.S. live with medical debt](https://www.npr.org/sections/health-shots/2022/06/16/1104679219/medical-bills-debt-investigation)
-- Jun 16 - [Facebook Is Receiving Sensitive Medical Information from Hospital Websites](https://themarkup.org/pixel-hunt/2022/06/16/facebook-is-receiving-sensitive-medical-information-from-hospital-websites)
+- Jun 16 - [100M People in America Are Saddled with Health Care Debt](https://khn.org/news/article/diagnosis-debt-investigation-100-million-americans-hidden-medical-debt/)
+- Jun 16 - [I'm making drugs for cats](https://trevorklee.substack.com/p/why-im-now-making-drugs-for-cats)
+- Jun 16 - [Continuous Unix commit history from 1970 until today](https://github.com/dspinellis/unix-history-repo)
+- Jun 16 - [2022 Cloud Report](https://www.cockroachlabs.com/guides/2022-cloud-report/)
+- Jun 16 - [A religious sect landed Google in a lawsuit](https://www.nytimes.com/2022/06/16/technology/google-fellowship-of-friends-sect.html)
 <!--END_SECTION:hn-->
 
 <!--
