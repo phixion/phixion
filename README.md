@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 16 - [100M People in America Are Saddled with Health Care Debt](https://khn.org/news/article/diagnosis-debt-investigation-100-million-americans-hidden-medical-debt/)
-- Jun 16 - [I'm making drugs for cats](https://trevorklee.substack.com/p/why-im-now-making-drugs-for-cats)
-- Jun 16 - [Continuous Unix commit history from 1970 until today](https://github.com/dspinellis/unix-history-repo)
-- Jun 16 - [2022 Cloud Report](https://www.cockroachlabs.com/guides/2022-cloud-report/)
-- Jun 16 - [A religious sect landed Google in a lawsuit](https://www.nytimes.com/2022/06/16/technology/google-fellowship-of-friends-sect.html)
+- Jun 16 - [Ask HN: How to make a photogenic server room](https://news.ycombinator.com/item?id=31769811)
+- Jun 16 - [Cool Desktops Don’t Change](https://tylercipriani.com/blog/2022/06/15/choose-boring-desktop-technology/)
+- Jun 16 - [Tell HN: Triplebyte is, yet again, making user profiles public without consent](https://news.ycombinator.com/item?id=31769601)
+- Jun 16 - [GitHub waited 3 months to notify about potential compromise](https://news.ycombinator.com/item?id=31769520)
+- Jun 16 - [The Cult Inside Google](https://medium.com/@kwilliamlloyd/the-cult-in-google-3c1a910214d1)
 <!--END_SECTION:hn-->
 
 <!--
