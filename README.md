@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 16 - [PicnicHealth (YC S14) is hiring Product Engineers to transform healthcare data](https://picnichealth.com/career-details?gh_jid=6202435002)
-- Jun 15 - [How Palo Alto Networks Replaced Kafka with ScyllaDB for Stream Processing](https://www.scylladb.com/2022/06/14/how-palo-alto-networks-replaced-kafka-with-scylladb-for-stream-processing/)
-- Jun 15 - [Clap: The New Audio Plug-In Standard](https://u-he.com/community/clap/)
-- Jun 15 - [“Crypto drainer” template facilitates theft](https://blog.confiant.com/how-one-crypto-drainer-template-facilitates-tens-of-millions-of-dollars-in-theft-66f3794aea4b?gi=b10068d5caa8)
-- Jun 15 - [What should you do with stock options during a recession?](https://every.to/p/what-should-you-do-with-your-options-during-a-downturn)
+- Jun 16 - [Ask HN: Is it still conceivable to remain an anonymous developer nowadays?](https://news.ycombinator.com/item?id=31763451)
+- Jun 16 - [Padlet (YC W13) is hiring in SF to build software for a good education](https://padlet.jobs)
+- Jun 16 - [Tell HN: Banned from LinkedIn for Reporting Wickr Drug Spam](https://news.ycombinator.com/item?id=31762904)
+- Jun 16 - [Is .NET open? MS pushing a proprietary extension to replace OmniSharp](https://isdotnetopen.com/)
+- Jun 16 - [Colouring Noise – Generating Noise with a Specific Power Spectral Density](https://blog.ioces.com/matt/posts/colouring-noise/)
 <!--END_SECTION:hn-->
 
 <!--
