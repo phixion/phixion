@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 15 - [Interview with Marc Andreessen on Learning to Love the Humanities, and RSS](https://conversationswithtyler.com/episodes/marc-andreessen/)
-- Jun 15 - [CityEngine: Build a Digital Twin of Your City](https://gisgeography.com/cityengine/)
-- Jun 15 - [Rarely Seen Paintings by Tolkien Portray a Lush ‘Lord of the Rings’ Landscape](https://www.smithsonianmag.com/smart-news/jrr-tolkiens-estate-publishes-rare-lord-of-the-rings-paintings-and-maps-online-180979674/)
-- Jun 15 - [Watercolor Basics](https://github.com/tombetthauser/watercolor-basics)
-- Jun 15 - [Federal Reserve raises rates by 0.75%](https://www.usatoday.com/story/money/2022/06/15/fed-interest-rates-hike/7631195001/)
+- Jun 15 - [Show HN: IoT device to warn you of a supernova hours before Earth is destroyed](https://www.exaluminal.com/)
+- Jun 15 - [Reverie Labs (YC W18) Is Hiring Software Engineers to Cure Cancer](https://www.reverielabs.com/careers)
+- Jun 15 - [How Palo Alto Networks Replaced Kafka with ScyllaDB for Stream Processing](https://www.scylladb.com/2022/06/14/how-palo-alto-networks-replaced-kafka-with-scylladb-for-stream-processing/)
+- Jun 15 - [Clap: The New Audio Plug-In Standard](https://u-he.com/community/clap/)
+- Jun 15 - [“Crypto Drainer” Template Facilitates Tens of Millions of Dollars in Theft](https://blog.confiant.com/how-one-crypto-drainer-template-facilitates-tens-of-millions-of-dollars-in-theft-66f3794aea4b?gi=b10068d5caa8)
 <!--END_SECTION:hn-->
 
 <!--
