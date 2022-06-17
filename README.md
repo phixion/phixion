@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 17 - [Behind the Scenes of a Bank Takeover by FDIC (1986)](https://www.latimes.com/archives/la-xpm-1986-01-05-fi-24784-story.html)
+- Jun 17 - [Shottr – macOS Screenshot Utility](https://shottr.cc)
+- Jun 17 - [EPA: 'Forever chemicals' pose risk even at low levels](https://apnews.com/article/science-climate-and-environment-government-politics-1997041096d6fc84edde97cf16f72bce)
+- Jun 17 - [How Many Tracks Do Train Stations Need?](https://pedestrianobservations.com/2022/06/11/how-many-tracks-do-train-stations-need/)
 - Jun 17 - [The Privatized Internet Has Failed Us](https://jacobin.com/2022/06/internet-privatization-profit-centralization-democracy)
-- Jun 16 - [Why am I no longer qualified to be a Brex customer?](https://www.brex.com/support/why-am-i-no-longer-qualified-to-be-a-brex-customer/)
-- Jun 16 - [CockroachDB's Consistency Model](https://www.cockroachlabs.com/blog/consistency-model/)
-- Jun 16 - [Calling for Antitrust Reform](https://blog.mozilla.org/en/mozilla/calling-for-antitrust-reform/)
-- Jun 16 - [Make enterprise features open source](https://github.com/citusdata/citus/commit/184c7c0bce6b7bca61d25b828855fac5fba64816)
 <!--END_SECTION:hn-->
 
 <!--
