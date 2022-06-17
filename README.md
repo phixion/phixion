@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 16 - [Ask HN: How to make a photogenic server room](https://news.ycombinator.com/item?id=31769811)
-- Jun 16 - [Cool Desktops Don’t Change](https://tylercipriani.com/blog/2022/06/15/choose-boring-desktop-technology/)
-- Jun 16 - [Tell HN: Triplebyte is, yet again, making user profiles public without consent](https://news.ycombinator.com/item?id=31769601)
-- Jun 16 - [GitHub waited 3 months to notify about potential compromise](https://news.ycombinator.com/item?id=31769520)
-- Jun 16 - [The Cult Inside Google](https://medium.com/@kwilliamlloyd/the-cult-in-google-3c1a910214d1)
+- Jun 16 - [Tesla sends untrained employees to work on cars as service becomes problematic](https://electrek.co/2022/06/16/tesla-untrained-employees-work-on-cars-service-problematic/)
+- Jun 16 - [CockroachDB's Consistency Model](https://www.cockroachlabs.com/blog/consistency-model/)
+- Jun 16 - [Calling for Antitrust Reform](https://blog.mozilla.org/en/mozilla/calling-for-antitrust-reform/)
+- Jun 16 - [Citus: Make enterprise features open source](https://github.com/citusdata/citus/commit/184c7c0bce6b7bca61d25b828855fac5fba64816)
+- Jun 16 - [macOS screenshot tricks to impress your co-workers](https://sal.dev/macos/macos-screenshotting-tips-and-tricks/)
 <!--END_SECTION:hn-->
 
 <!--
