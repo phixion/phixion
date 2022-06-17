@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 17 - [Behind the Scenes of a Bank Takeover by FDIC (1986)](https://www.latimes.com/archives/la-xpm-1986-01-05-fi-24784-story.html)
-- Jun 17 - [Shottr – macOS Screenshot Utility](https://shottr.cc)
-- Jun 17 - [EPA: 'Forever chemicals' pose risk even at low levels](https://apnews.com/article/science-climate-and-environment-government-politics-1997041096d6fc84edde97cf16f72bce)
-- Jun 17 - [How Many Tracks Do Train Stations Need?](https://pedestrianobservations.com/2022/06/11/how-many-tracks-do-train-stations-need/)
-- Jun 17 - [The Privatized Internet Has Failed Us](https://jacobin.com/2022/06/internet-privatization-profit-centralization-democracy)
+- Jun 17 - [Website cookie pop-ups to appear less in new UK Government proposals](https://www.thetelegraphandargus.co.uk/news/uk_today_homepage/20217417.website-cookie-pop-ups-appear-less-new-government-proposals/)
+- Jun 17 - [Crypto lending company Babel Finance halts redemptions and withdrawals](https://babel.finance/article-views.html?id=50)
+- Jun 17 - [Over 13,000 Vivo phones found to be using same IMEI number (2020)](https://www.techradar.com/uk/news/over-13000-vivo-phones-found-to-be-using-same-imei-number)
+- Jun 17 - [Android Booting Shenanigans](https://topjohnwu.github.io/Magisk/boot.html)
+- Jun 17 - [Quantum Algorithm Implementations for Beginners](https://dl.acm.org/doi/10.1145/3517340)
 <!--END_SECTION:hn-->
 
 <!--
