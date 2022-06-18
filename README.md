@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 18 - [Unusual Trading Activity On The Bitfinex Crypto Exchange](https://twitter.com/Bitfinexed/status/1536360821974089728)
+- Jun 18 - [SpaceX firings likely violate US labor law, experts say](https://www.theverge.com/2022/6/17/23172915/elon-musk-spacex-letter-fired-legal-protected-speech-nlrb)
+- Jun 18 - [Thrussh – Portable SSH client and server library](https://pijul.org/)
+- Jun 18 - [Raw Text Club](https://rawtext.club/)
 - Jun 18 - [How Good Is DALL-E Mini at Origami?](https://origami.kosmulski.org/blog/2022-06-18-dall-e-origami)
-- Jun 18 - [Experts once predicted that Americans would face excess leisure time (2015)](https://www.newyorker.com/news/daily-comment/you-really-dont-need-to-work-so-much)
-- Jun 18 - [OpenAI](https://scottaaronson.blog/?p=6484)
-- Jun 18 - [The Vale Programming Language](https://vale.dev/)
-- Jun 18 - [Show HN: Unsubscan – Free and offline mailing list unsubscription tool](https://github.com/LGUG2Z/unsubscan)
 <!--END_SECTION:hn-->
 
 <!--
