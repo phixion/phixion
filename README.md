@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 17 - [Show HN: A central bank simulator game with a realistic economic model](https://benoitessiambre.com/macro.html)
-- Jun 17 - [The Design of SQLite4](https://sqlite.org/src4/doc/trunk/www/design.wiki)
-- Jun 17 - [Online privacy: to what extent should you try to go dark?](https://cyb3rsecurity.tips/p/-online-privacy-to-what-extent-should)
-- Jun 17 - [Three Arrows Capital reportedly facing insolvency](https://www.fxstreet.com/cryptocurrencies/news/three-arrows-capitals-zhu-su-speaks-out-after-400-million-liquidation-due-to-celsius-and-terras-luna-fiasco-202206150841)
-- Jun 17 - [Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring in NYC](https://skio.com/careers/)
+- Jun 18 - [Vale: Fast, safe, and easy programming language](https://vale.dev/)
+- Jun 18 - [Show HN: Unsubscan – Free and offline mailing list unsubscription tool](https://github.com/LGUG2Z/unsubscan)
+- Jun 17 - [Littr – Link aggregator inspired by Reddit and HN using ActivityPub federation](https://littr.me/)
+- Jun 17 - [Identify Birds by Their Chirp](https://merlin.allaboutbirds.org/)
+- Jun 17 - [Fyne, a cross-platform GUI toolkit written in Go](https://fyne.io)
 <!--END_SECTION:hn-->
 
 <!--
