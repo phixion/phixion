@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 18 - [Breaking our Latin-1 assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/)
+- Jun 18 - [Show HN: I have created something new to make your browsing experience enjoyable](https://productivitytoolset.com)
+- Jun 18 - [V Language Review](https://mawfig.github.io/2022/06/18/v-lang-in-2022.html)
+- Jun 18 - [Breaking our Latin-1 assumptions (2017)](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/)
 - Jun 18 - [Cold Showers](https://github.com/hwayne/awesome-cold-showers)
-- Jun 18 - [Because cross-compiling binaries for Windows is easier than building natively](https://gist.github.com/slimsag/c01bb6508e3dfa744bf3bdafa0cfe07f)
-- Jun 18 - [Ask HN: Why are Git submodules so bad?](https://news.ycombinator.com/item?id=31792303)
-- Jun 18 - [Bolt: Faster matrix and vector operations that run on compressed data](https://github.com/dblalock/bolt)
+- Jun 18 - [Cross-compiling binaries for Windows is easier than building natively](https://gist.github.com/slimsag/c01bb6508e3dfa744bf3bdafa0cfe07f)
 <!--END_SECTION:hn-->
 
 <!--
