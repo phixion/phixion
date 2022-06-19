@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 19 - [Stacker (YC S20) Is Hiring a Head of Engineering](https://apply.workable.com/stackerhq/j/FAC2417239/)
-- Jun 19 - [You and Your Research (1986)](https://www.cs.utexas.edu/users/dahlin/bookshelf/hamming.html)
-- Jun 19 - [Redis v/s KeyDB v/s Dragonfly v/s Skytable. It's 5X, 10X and 25X faster](https://news.ycombinator.com/item?id=31796311)
-- Jun 19 - [Ask HN: Feel bad about working in crypto, what to do?](https://news.ycombinator.com/item?id=31796256)
-- Jun 19 - [Bitcoin mining becomes unprofitable as BTC price falls to average cost of mining](https://finbold.com/bitcoin-mining-becomes-unprofitable-as-btc-price-falls-to-the-average-cost-of-mining/)
+- Jun 19 - [The Muse (YC W12) Is Hiring a Senior or Midlevel Software Engineer](https://www.themuse.com/jobs/themuse/senior-software-engineer)
+- Jun 19 - [Reasons to tour by bicycle](https://kk.org/thetechnium/reasons-to-tour-by-bicycle/)
+- Jun 19 - [How we wound up with Linux's kernel mode setting ('KMS')](https://utcc.utoronto.ca/~cks/space/blog/linux/KernelModesettingBackground)
+- Jun 19 - [Why does science news suck so much?](http://backreaction.blogspot.com/2022/06/why-does-science-news-suck-so-much.html)
+- Jun 19 - [Don't be that open-source user, don't be me](https://jacobtomlinson.dev/posts/2022/dont-be-that-open-source-user-dont-be-me/)
 <!--END_SECTION:hn-->
 
 <!--
