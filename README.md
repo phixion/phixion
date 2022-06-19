@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 19 - [Ask HN: How to learn mathematical proofs from scratch?](https://news.ycombinator.com/item?id=31800081)
-- Jun 19 - [Apple’s macOS Ventura – New Security Changes](https://www.sentinelone.com/blog/apples-macos-ventura-7-new-security-changes-to-be-aware-of/)
-- Jun 19 - [How Townscaper Works: A Story Four Games in the Making](https://www.gamedeveloper.com/blogs/how-townscaper-works-a-story-four-games-in-the-making)
-- Jun 19 - [Playstation confirms chain of 5 vulnerabilities on PS4/PS5](https://hackerone.com/reports/1379975)
-- Jun 19 - [Drawing a childrens story with DALL-E 2](https://twitter.com/nutanc/status/1538387909707202560)
+- Jun 19 - [Solana just seized $170MM of user funds to prevent a decrease in Solana's price](https://old.reddit.com/r/CryptoCurrency/comments/vfszpt/solend_the_largest_lending_market_on_solana_is/)
+- Jun 19 - [Telegram celebrates 700M Users and introduces Telegram Premium](https://telegram.org/blog/700-million-and-premium)
+- Jun 19 - [The Great Cloudwall – Stop Cloudflare](https://git.disroot.org/dCF/deCloudflare/src/branch/master/readme/en.md)
+- Jun 19 - [“Google” programmers. How one idiot hired a couple more idiots](https://pvs-studio.com/en/blog/posts/0952/)
+- Jun 19 - [Emerge Tools is building the future of mobile development, come join us](https://www.ycombinator.com/companies/emerge-tools)
 <!--END_SECTION:hn-->
 
 <!--
