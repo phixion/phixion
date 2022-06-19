@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 19 - [Police linked to hacking campaign to frame Indian activists](https://www.wired.com/story/modified-elephant-planted-evidence-hacking-police/)
-- Jun 19 - [Don't use Kubernetes yet](https://matt-rickard.com/dont-use-kubernetes-yet/)
-- Jun 18 - [Citybound – city building game using actor-based distributed simulation](https://aeplay.org/citybound)
-- Jun 18 - [Rust advocacy at a medium-sized startup](https://briankung.dev/2022/06/14/rust-advocacy-at-a-medium-sized-startup/)
-- Jun 18 - [Show HN: Control your Hyundai car with Python](https://github.com/synchronizing/bluelink)
+- Jun 19 - [Stacker (YC S20) Is Hiring a Head of Engineering](https://apply.workable.com/stackerhq/j/FAC2417239/)
+- Jun 19 - [You and Your Research (1986)](https://www.cs.utexas.edu/users/dahlin/bookshelf/hamming.html)
+- Jun 19 - [Redis v/s KeyDB v/s Dragonfly v/s Skytable. It's 5X, 10X and 25X faster](https://news.ycombinator.com/item?id=31796311)
+- Jun 19 - [Ask HN: Feel bad about working in crypto, what to do?](https://news.ycombinator.com/item?id=31796256)
+- Jun 19 - [Bitcoin mining becomes unprofitable as BTC price falls to average cost of mining](https://finbold.com/bitcoin-mining-becomes-unprofitable-as-btc-price-falls-to-the-average-cost-of-mining/)
 <!--END_SECTION:hn-->
 
 <!--
