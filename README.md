@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 18 - [Show HN: I have created something new to make your browsing experience enjoyable](https://productivitytoolset.com)
-- Jun 18 - [V Language Review](https://mawfig.github.io/2022/06/18/v-lang-in-2022.html)
-- Jun 18 - [Breaking our Latin-1 assumptions (2017)](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/)
-- Jun 18 - [Cold Showers](https://github.com/hwayne/awesome-cold-showers)
-- Jun 18 - [Cross-compiling binaries for Windows is easier than building natively](https://gist.github.com/slimsag/c01bb6508e3dfa744bf3bdafa0cfe07f)
+- Jun 19 - [Police linked to hacking campaign to frame Indian activists](https://www.wired.com/story/modified-elephant-planted-evidence-hacking-police/)
+- Jun 19 - [Don't use Kubernetes yet](https://matt-rickard.com/dont-use-kubernetes-yet/)
+- Jun 18 - [Citybound – city building game using actor-based distributed simulation](https://aeplay.org/citybound)
+- Jun 18 - [Rust advocacy at a medium-sized startup](https://briankung.dev/2022/06/14/rust-advocacy-at-a-medium-sized-startup/)
+- Jun 18 - [Show HN: Control your Hyundai car with Python](https://github.com/synchronizing/bluelink)
 <!--END_SECTION:hn-->
 
 <!--
