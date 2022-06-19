@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 19 - [The Muse (YC W12) Is Hiring a Senior or Midlevel Software Engineer](https://www.themuse.com/jobs/themuse/senior-software-engineer)
-- Jun 19 - [Reasons to tour by bicycle](https://kk.org/thetechnium/reasons-to-tour-by-bicycle/)
-- Jun 19 - [How we wound up with Linux's kernel mode setting ('KMS')](https://utcc.utoronto.ca/~cks/space/blog/linux/KernelModesettingBackground)
-- Jun 19 - [Why does science news suck so much?](http://backreaction.blogspot.com/2022/06/why-does-science-news-suck-so-much.html)
-- Jun 19 - [Don't be that open-source user, don't be me](https://jacobtomlinson.dev/posts/2022/dont-be-that-open-source-user-dont-be-me/)
+- Jun 19 - [Ask HN: How to learn mathematical proofs from scratch?](https://news.ycombinator.com/item?id=31800081)
+- Jun 19 - [Apple’s macOS Ventura – New Security Changes](https://www.sentinelone.com/blog/apples-macos-ventura-7-new-security-changes-to-be-aware-of/)
+- Jun 19 - [How Townscaper Works: A Story Four Games in the Making](https://www.gamedeveloper.com/blogs/how-townscaper-works-a-story-four-games-in-the-making)
+- Jun 19 - [Playstation confirms chain of 5 vulnerabilities on PS4/PS5](https://hackerone.com/reports/1379975)
+- Jun 19 - [Drawing a childrens story with DALL-E 2](https://twitter.com/nutanc/status/1538387909707202560)
 <!--END_SECTION:hn-->
 
 <!--
