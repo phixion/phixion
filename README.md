@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 20 - [The case for unique email addresses (2020)](https://musings.tychi.me/the-case-for-unique-email-addresses)
-- Jun 20 - [India could become a 'mushroom superpower'](https://www.bbc.com/news/business-61420016)
-- Jun 20 - [Show HN: Markwhen: Markdown for Timelines](https://markwhen.com)
-- Jun 20 - [SSO should be table stakes](https://tuple.app/blog/sso-should-be-table-stakes)
-- Jun 20 - [Terminated](https://susiebright.substack.com/p/terminated)
+- Jun 20 - [Netboot.xyz: your favorite operating systems in one place](https://netboot.xyz/docs/)
+- Jun 20 - [I Fucking Hate Jira](https://ifuckinghatejira.com/)
+- Jun 20 - [Web3 is Flawed (There is no problem being solved,Token Economics is the product)](https://ravivyas.com/2022/06/19/web-3-is-flawed/)
+- Jun 20 - [Four Tet wins royalty battle over streaming music](https://www.bbc.co.uk/news/entertainment-arts-61871547)
+- Jun 20 - [Lexical – a web text editor framework that powers Facebook](https://playground.lexical.dev/)
 <!--END_SECTION:hn-->
 
 <!--
