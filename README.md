@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 19 - [Solana just seized $170MM of user funds to prevent a decrease in Solana's price](https://old.reddit.com/r/CryptoCurrency/comments/vfszpt/solend_the_largest_lending_market_on_solana_is/)
-- Jun 19 - [Telegram celebrates 700M Users and introduces Telegram Premium](https://telegram.org/blog/700-million-and-premium)
-- Jun 19 - [The Great Cloudwall – Stop Cloudflare](https://git.disroot.org/dCF/deCloudflare/src/branch/master/readme/en.md)
-- Jun 19 - [“Google” programmers. How one idiot hired a couple more idiots](https://pvs-studio.com/en/blog/posts/0952/)
-- Jun 19 - [Emerge Tools is building the future of mobile development, come join us](https://www.ycombinator.com/companies/emerge-tools)
+- Jun 19 - [Bitcoin was doomed from the start, now 19M+ of its 21M max supply are mined](https://news.ycombinator.com/item?id=31804519)
+- Jun 19 - [We need a flowchart editor that doesn't give you carpal tunnel](https://www.scottantipa.com/why-knotend)
+- Jun 19 - [Ask HN: Do you upvote direct replies?](https://news.ycombinator.com/item?id=31804303)
+- Jun 19 - [Samsung Busted for Cheating TV Test Benchmarks](https://www.techdirt.com/2022/06/17/samsung-busted-for-cheating-tv-test-benchmarks/)
+- Jun 19 - [Mobile-First CSS: Is It Time for a Rethink?](https://alistapart.com/article/mobile-first-css-is-it-time-for-a-rethink/)
 <!--END_SECTION:hn-->
 
 <!--
