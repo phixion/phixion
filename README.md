@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 19 - [Bitcoin was doomed from the start, now 19M+ of its 21M max supply are mined](https://news.ycombinator.com/item?id=31804519)
-- Jun 19 - [We need a flowchart editor that doesn't give you carpal tunnel](https://www.scottantipa.com/why-knotend)
-- Jun 19 - [Ask HN: Do you upvote direct replies?](https://news.ycombinator.com/item?id=31804303)
-- Jun 19 - [Samsung Busted for Cheating TV Test Benchmarks](https://www.techdirt.com/2022/06/17/samsung-busted-for-cheating-tv-test-benchmarks/)
-- Jun 19 - [Mobile-First CSS: Is It Time for a Rethink?](https://alistapart.com/article/mobile-first-css-is-it-time-for-a-rethink/)
+- Jun 20 - [Oldschool PC Fonts](https://int10h.org/oldschool-pc-fonts/fontlist/)
+- Jun 20 - [Australia's Propaganda Unit – Declassified](https://declassifiedaus.org/2022/06/16/revealed-australias-secret-propaganda-unit/)
+- Jun 20 - [Floating Point Math](https://0.30000000000000004.com/)
+- Jun 20 - [The Peecyclers. Their Idea to Help Farmers Is No. 1](https://www.nytimes.com/2022/06/17/climate/peecycling-farming-urine-fertilizer.html)
+- Jun 20 - [A Note to the Celsius Community](https://blog.celsius.network/a-note-to-the-celsius-community-e5af1f5a7998)
 <!--END_SECTION:hn-->
 
 <!--
