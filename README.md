@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 20 - [Silero V3: fast high-quality text-to-speech in 20 languages with 173 voices](https://github.com/snakers4/silero-models)
-- Jun 20 - [Dissatisfaction in the Tesla factory in Grünheide: employees are leaving](https://www.stern.de/auto/e-mobilitaet/unzufriedenheit-bei-tesla-in-gruenheide--beschaeftigte-verlassen-unternehmen-31961868.html)
-- Jun 20 - [Linux Threat Hunting: ‘Syslogk’ a kernel rootkit found in the wild](https://decoded.avast.io/davidalvarez/linux-threat-hunting-syslogk-a-kernel-rootkit-found-under-development-in-the-wild/)
-- Jun 20 - [Orkut](http://www.orkut.com/index.html)
-- Jun 20 - [Two Years of Life with PinePhone](https://linmob.net/two-years-of-owning-a-pinephone/)
+- Jun 20 - [Kable (Billing for API Products, YC W22) Is Hiring Founding Engineers](https://kable.io)
+- Jun 20 - [Ask HN: How is Python's OOP is superior vs. Lisp CLOS?](https://news.ycombinator.com/item?id=31808632)
+- Jun 20 - [I got banned for life from Spotify](https://banned-for-life.com/)
+- Jun 20 - [Writing One Sentence per Line](https://sive.rs/1s)
+- Jun 20 - [Why the Full Stack Engineer Is Problematic](https://itrevolution.com/why-the-full-stack-engineer-is-problematic/)
 <!--END_SECTION:hn-->
 
 <!--
