@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 20 - [Netboot.xyz: your favorite operating systems in one place](https://netboot.xyz/docs/)
-- Jun 20 - [I Fucking Hate Jira](https://ifuckinghatejira.com/)
-- Jun 20 - [Web3 is Flawed (There is no problem being solved,Token Economics is the product)](https://ravivyas.com/2022/06/19/web-3-is-flawed/)
-- Jun 20 - [Four Tet wins royalty battle over streaming music](https://www.bbc.co.uk/news/entertainment-arts-61871547)
-- Jun 20 - [Lexical – a web text editor framework that powers Facebook](https://playground.lexical.dev/)
+- Jun 20 - [As water crisis worsens on Colorado River, an urgent call for states to ‘act’](https://www.latimes.com/environment/story/2022-06-20/as-colorado-river-reservoirs-drop-states-urged-to-act-now)
+- Jun 20 - [NFS: The Early Years](https://lwn.net/SubscriberLink/897917/7a4775f9f1223e8a/)
+- Jun 20 - [A study of real-world data races in Golang](https://dl.acm.org/doi/pdf/10.1145/3519939.3523720)
+- Jun 20 - [“When It Rains, It Pours”: The History of the Morton Salt Girl](https://historydaily.org/history-morton-salt-girl-umbrella)
+- Jun 20 - [The Illustrated QUIC Connection](https://quic.ulfheim.net/)
 <!--END_SECTION:hn-->
 
 <!--
