@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 21 - [Launch HN: Dioptra (YC W22) – Improve ML models by improving their training data](https://dioptra.ai/)
-- Jun 21 - [Artistic Radiance Fields](https://www.cs.cornell.edu/projects/arf/)
-- Jun 21 - [Variations of Two-Transistor Circuits: A Tribute to the Versatility of MOSFETs](https://www.researchgate.net/publication/354364068_Fifty_Nifty_Variations_of_Two-Transistor_Circuits_A_tribute_to_the_versatility_of_MOSFETs)
-- Jun 21 - [Show HN: Build Ruby on Rails apps 10x faster – Avo](https://avohq.io/)
-- Jun 21 - [The Psycho-Geography of the Cretto Di Burri (2021)](https://www.archdaily.com/958178/the-psycho-geography-of-the-cretto-di-burri)
+- Jun 21 - [HDMI Firewall](https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md)
+- Jun 21 - [Aerosolization of C. difficile after flushing toilets: the role of toilet lids](https://www.journalofhospitalinfection.com/article/S0195-6701(11)00339-2/fulltext)
+- Jun 21 - [Deno raises $21M](https://deno.com/blog/series-a)
+- Jun 21 - [The French repairability index – one year after its implementation [pdf]](https://www.halteobsolescence.org/wp-content/uploads/2022/02/Rapport-indice-de-reparabilite.pdf)
+- Jun 21 - [X-Plane 12 Flight Model Update – Supersonic Transition, Delta Wings and Mass](https://developer.x-plane.com/2022/02/x-plane-12-flight-model-update-supersonic-transition-delta-wings-and-mass-properties/)
 <!--END_SECTION:hn-->
 
 <!--
