@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 20 - [As water crisis worsens on Colorado River, an urgent call for states to ‘act’](https://www.latimes.com/environment/story/2022-06-20/as-colorado-river-reservoirs-drop-states-urged-to-act-now)
+- Jun 21 - [Where are all the crypto use cases?](https://evanjconrad.com/posts/crypto-use-cases)
+- Jun 21 - [Neuroscientists create maps of the brain after traumatic brain injury](https://www.som.uci.edu/news_releases/neuroscientists_create_maps_of_brain_after_TBI.asp)
+- Jun 21 - [Apple's Feedback Mechanism Is Broken](https://www.caseyliss.com/2022/6/20/feedback-is-broken-stop-trying-to-make-radar-happen)
+- Jun 21 - [WTF Nextdoor? Over 130 click to disable email and push notifications?](https://imgur.com/a/RY0jgQD)
 - Jun 20 - [NFS: The Early Years](https://lwn.net/SubscriberLink/897917/7a4775f9f1223e8a/)
-- Jun 20 - [A study of real-world data races in Golang](https://dl.acm.org/doi/pdf/10.1145/3519939.3523720)
-- Jun 20 - [“When It Rains, It Pours”: The History of the Morton Salt Girl](https://historydaily.org/history-morton-salt-girl-umbrella)
-- Jun 20 - [The Illustrated QUIC Connection](https://quic.ulfheim.net/)
 <!--END_SECTION:hn-->
 
 <!--
