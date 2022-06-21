@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 21 - [Where are all the crypto use cases?](https://evanjconrad.com/posts/crypto-use-cases)
-- Jun 21 - [Neuroscientists create maps of the brain after traumatic brain injury](https://www.som.uci.edu/news_releases/neuroscientists_create_maps_of_brain_after_TBI.asp)
-- Jun 21 - [Apple's Feedback Mechanism Is Broken](https://www.caseyliss.com/2022/6/20/feedback-is-broken-stop-trying-to-make-radar-happen)
-- Jun 21 - [WTF Nextdoor? Over 130 click to disable email and push notifications?](https://imgur.com/a/RY0jgQD)
-- Jun 20 - [NFS: The Early Years](https://lwn.net/SubscriberLink/897917/7a4775f9f1223e8a/)
+- Jun 21 - [Cloudflare Down Worldwide (not worldwide but a lot of places) (up now)](https://www.cloudflare.com/)
+- Jun 21 - [A look at search engines with their own indexes (2021)](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/)
+- Jun 21 - [Does one simple rule underlie learning in the brain?](https://actu.epfl.ch/news/does-one-simple-rule-underlie-learning-in-the-brai/)
+- Jun 21 - [Why code isn't self documenting](https://sourceless.org/posts/the-documentation-triangle.html)
+- Jun 21 - [Microvium Is Small](https://coder-mike.com/blog/2022/06/11/microvium-is-very-small/)
 <!--END_SECTION:hn-->
 
 <!--
