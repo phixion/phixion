@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 21 - [HDMI Firewall](https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md)
-- Jun 21 - [Aerosolization of C. difficile after flushing toilets: the role of toilet lids](https://www.journalofhospitalinfection.com/article/S0195-6701(11)00339-2/fulltext)
-- Jun 21 - [Deno raises $21M](https://deno.com/blog/series-a)
-- Jun 21 - [The French repairability index – one year after its implementation [pdf]](https://www.halteobsolescence.org/wp-content/uploads/2022/02/Rapport-indice-de-reparabilite.pdf)
-- Jun 21 - [X-Plane 12 Flight Model Update – Supersonic Transition, Delta Wings and Mass](https://developer.x-plane.com/2022/02/x-plane-12-flight-model-update-supersonic-transition-delta-wings-and-mass-properties/)
+- Jun 21 - [OBS – Open Broadcaster Software](https://obsproject.com/)
+- Jun 21 - [Experimenting with Rust in Chromium](https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/security/rust-toolchain.md)
+- Jun 21 - [Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
+- Jun 21 - [Viddy: A modern watch command. Time machine and pager etc.](https://github.com/sachaos/viddy)
+- Jun 21 - [Jennifer Egan's Fiction and Visions of the Future](https://www.newyorker.com/new-yorker-live/jennifer-egan-candy-house)
 <!--END_SECTION:hn-->
 
 <!--
