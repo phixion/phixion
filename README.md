@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 22 - [ESP32-C5: Espressif’s First Dual-Band Wi-Fi 6 MCU](https://www.espressif.com/en/news/ESP32-C5)
-- Jun 22 - [The End of the World Is Just Beginning for Shipping](https://gcaptain.com/end-of-the-world-is-just-beginning-book-review/)
-- Jun 22 - [The Definition of Knowledge and Its Management](https://help.flomo.app/mindset/the-definition-of-knowledge-and-its-management)
-- Jun 22 - [Tailscale SSH](https://tailscale.com/blog/tailscale-ssh/)
-- Jun 22 - [Stack Overflow Developer Survey 2022](https://survey.stackoverflow.co/2022/)
+- Jun 22 - [A subreddit dedicated to busting shoplifters](https://www.inputmag.com/culture/loss-prevention-theft-shoplifting-security-subreddit)
+- Jun 22 - [The Evolution of THC Vape Cartridges](https://gentlemantoker.com/blogs/liquid-gold-evolution-thc-vape-cartridges)
+- Jun 22 - [The Grug Brained Developer](https://grugbrain.dev/)
+- Jun 22 - [Dendron (YC W21) Is Hiring Senior Web Dev to Build a Better Tool for Thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI)
+- Jun 22 - [Permissive forwarding rule leads to unintentional exposure of containers (2021)](https://gist.github.com/guns/1dc1742dce690eb560a3a2d7581a9632)
 <!--END_SECTION:hn-->
 
 <!--
