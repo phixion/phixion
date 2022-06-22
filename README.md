@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 22 - [Alphabet is spending billions to become a force in health care](https://www.economist.com/business/2022/06/20/alphabet-is-spending-billions-to-become-a-force-in-health-care)
+- Jun 22 - [Understanding AI for coders: Tabnine (your alternative to GitHub Copilot)](https://www.tabnine.com/blog/announcing-tabnine-next-generation/)
+- Jun 22 - [TerraUSD crash led to vanished savings, shattered dreams](https://www.wsj.com/articles/terrausd-crash-led-to-vanished-savings-shattered-dreams-11653649201)
+- Jun 22 - [Effective Shell](https://effective-shell.com/)
 - Jun 21 - [OBS – Open Broadcaster Software](https://obsproject.com/)
-- Jun 21 - [Experimenting with Rust in Chromium](https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/security/rust-toolchain.md)
-- Jun 21 - [Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
-- Jun 21 - [Viddy: A modern watch command. Time machine and pager etc.](https://github.com/sachaos/viddy)
-- Jun 21 - [Jennifer Egan's Fiction and Visions of the Future](https://www.newyorker.com/new-yorker-live/jennifer-egan-candy-house)
 <!--END_SECTION:hn-->
 
 <!--
