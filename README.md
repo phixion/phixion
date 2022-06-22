@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 22 - [Straight.el: next-gen, purely functional package manager for the Emacs hacker](https://github.com/radian-software/straight.el)
-- Jun 22 - [Arguments for a Potato Only Diet](https://slimemoldtimemold.com/2022/04/29/potato-diet-community-trial-sign-up-now-lol/)
-- Jun 22 - [Clang Static Analyzer and the Z3 constraint solver](https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/)
-- Jun 22 - [Ergo – modern IRC server written in Go](https://github.com/ergochat/ergo)
-- Jun 22 - [Samsung expected to announce mass production of 3nm chip next week](https://en.yna.co.kr/view/AEN20220622002900320)
+- Jun 22 - [ESP32-C5: Espressif’s First Dual-Band Wi-Fi 6 MCU](https://www.espressif.com/en/news/ESP32-C5)
+- Jun 22 - [The End of the World Is Just Beginning for Shipping](https://gcaptain.com/end-of-the-world-is-just-beginning-book-review/)
+- Jun 22 - [The Definition of Knowledge and Its Management](https://help.flomo.app/mindset/the-definition-of-knowledge-and-its-management)
+- Jun 22 - [Tailscale SSH](https://tailscale.com/blog/tailscale-ssh/)
+- Jun 22 - [Stack Overflow Developer Survey 2022](https://survey.stackoverflow.co/2022/)
 <!--END_SECTION:hn-->
 
 <!--
