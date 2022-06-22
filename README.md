@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 22 - [Alphabet is spending billions to become a force in health care](https://www.economist.com/business/2022/06/20/alphabet-is-spending-billions-to-become-a-force-in-health-care)
-- Jun 22 - [Understanding AI for coders: Tabnine (your alternative to GitHub Copilot)](https://www.tabnine.com/blog/announcing-tabnine-next-generation/)
-- Jun 22 - [TerraUSD crash led to vanished savings, shattered dreams](https://www.wsj.com/articles/terrausd-crash-led-to-vanished-savings-shattered-dreams-11653649201)
-- Jun 22 - [Effective Shell](https://effective-shell.com/)
-- Jun 21 - [OBS – Open Broadcaster Software](https://obsproject.com/)
+- Jun 22 - [Straight.el: next-gen, purely functional package manager for the Emacs hacker](https://github.com/radian-software/straight.el)
+- Jun 22 - [Arguments for a Potato Only Diet](https://slimemoldtimemold.com/2022/04/29/potato-diet-community-trial-sign-up-now-lol/)
+- Jun 22 - [Clang Static Analyzer and the Z3 constraint solver](https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/)
+- Jun 22 - [Ergo – modern IRC server written in Go](https://github.com/ergochat/ergo)
+- Jun 22 - [Samsung expected to announce mass production of 3nm chip next week](https://en.yna.co.kr/view/AEN20220622002900320)
 <!--END_SECTION:hn-->
 
 <!--
