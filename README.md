@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 22 - [A subreddit dedicated to busting shoplifters](https://www.inputmag.com/culture/loss-prevention-theft-shoplifting-security-subreddit)
-- Jun 22 - [The Evolution of THC Vape Cartridges](https://gentlemantoker.com/blogs/liquid-gold-evolution-thc-vape-cartridges)
-- Jun 22 - [The Grug Brained Developer](https://grugbrain.dev/)
-- Jun 22 - [Dendron (YC W21) Is Hiring Senior Web Dev to Build a Better Tool for Thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI)
-- Jun 22 - [Permissive forwarding rule leads to unintentional exposure of containers (2021)](https://gist.github.com/guns/1dc1742dce690eb560a3a2d7581a9632)
+- Jun 22 - [Code vs. No-Code](https://jasonmorrissc.github.io/post/2022-02-24_no-code/)
+- Jun 22 - [Users preferred the less straightforward UX – and I finally understand why](https://blog.pwego.com/why-users-sometimes-prefer-the-less-straightforward-ux/)
+- Jun 22 - [Ladle Rat Rotten Hut (1940)](https://www.exploratorium.edu/files/exhibits/ladle/)
+- Jun 22 - [Show HN: Crocodile - Better code review for GitHub](https://www.crocodile.dev/)
+- Jun 22 - [Repurposing an old Android phone as a web server](https://lbrito1.github.io/blog/2020/02/repurposing-android.html)
 <!--END_SECTION:hn-->
 
 <!--
