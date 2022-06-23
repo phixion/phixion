@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 22 - [Code vs. No-Code](https://jasonmorrissc.github.io/post/2022-02-24_no-code/)
-- Jun 22 - [Users preferred the less straightforward UX – and I finally understand why](https://blog.pwego.com/why-users-sometimes-prefer-the-less-straightforward-ux/)
-- Jun 22 - [Ladle Rat Rotten Hut (1940)](https://www.exploratorium.edu/files/exhibits/ladle/)
-- Jun 22 - [Show HN: Crocodile - Better code review for GitHub](https://www.crocodile.dev/)
-- Jun 22 - [Repurposing an old Android phone as a web server](https://lbrito1.github.io/blog/2020/02/repurposing-android.html)
+- Jun 23 - [Random Ultima Online anecdote #2 – Horses inside players (2014)](https://www.raphkoster.com/2014/08/16/random-uo-anecdote-2/)
+- Jun 23 - [U.S. plans trial of early detection blood tests for multiple cancers](https://www.science.org/content/article/complexities-are-staggering-u-s-plans-huge-trial-blood-tests-multiple-cancers)
+- Jun 23 - [Introducing PyScript (summary of PyCon keynote)](https://lwn.net/SubscriberLink/898452/357b195db1ecce28/)
+- Jun 23 - [Generally Intelligent (YC S17) is hiring machine learning research engineers](https://news.ycombinator.com/item?id=31843932)
+- Jun 23 - [Brooks County TX pays off hacker with tax dollars after ransomware attack](https://www.kztv10.com/news/local-news/brooks-county-pays-off-hacker-with-tax-dollars-after-ransomware-attack)
 <!--END_SECTION:hn-->
 
 <!--
