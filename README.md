@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 23 - [MDalgorithms (YC W17) Is Hiring Chief Marketing Officer](https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/nfNrF5S-chief-marketing-officer)
-- Jun 23 - [Dolt Is Git for Data](https://github.com/dolthub/dolt)
-- Jun 23 - [Cariad Joins the Eclipse Foundation](https://cariad.technology/de/en/news/stories/open-source-eclipse-foundation.html)
-- Jun 23 - [Yandex opensources 100B parameter GPT-like model](https://github.com/yandex/YaLM-100B)
-- Jun 23 - [Copilot just sells code other people wrote](https://twitter.com/ReinH/status/1539626662274269185)
+- Jun 23 - [Launch HN: Foster (YC W21) – Improve your writing with on-demand editing](https://www.foster.co/)
+- Jun 23 - [How Imagen Works](https://www.assemblyai.com/blog/how-imagen-actually-works/)
+- Jun 23 - [Diagram as Code](https://github.com/mingrammer/diagrams)
+- Jun 23 - [As weed gets more potent, teens are getting sick](https://www.nytimes.com/2022/06/23/well/mind/teens-thc-canabis.html)
+- Jun 23 - [Hardening the registers: A cascading failure of edge induced fault tolerance](https://tech.target.com/blog/hardening-the-registers)
 <!--END_SECTION:hn-->
 
 <!--
