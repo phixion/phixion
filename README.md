@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 23 - [Launch HN: Foster (YC W21) – Improve your writing with on-demand editing](https://www.foster.co/)
-- Jun 23 - [How Imagen Works](https://www.assemblyai.com/blog/how-imagen-actually-works/)
-- Jun 23 - [Diagram as Code](https://github.com/mingrammer/diagrams)
-- Jun 23 - [As weed gets more potent, teens are getting sick](https://www.nytimes.com/2022/06/23/well/mind/teens-thc-canabis.html)
-- Jun 23 - [Hardening the registers: A cascading failure of edge induced fault tolerance](https://tech.target.com/blog/hardening-the-registers)
+- Jun 23 - [The Return of Industrial Warfare](https://rusi.org/explore-our-research/publications/commentary/return-industrial-warfare/)
+- Jun 23 - [FTC Action Against Harley-Davidson and Westinghouse for Limiting Right to Repair](https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-takes-action-against-harley-davidson-westinghouse-illegally-restricting-customers-right-repair-0)
+- Jun 23 - [About Last Week’s Announcement](https://www.brex.com/journal/last-weeks-announcement/)
+- Jun 23 - [Fuzzing rust-minidump for Embarrassment and Crashes – Part 2](https://hacks.mozilla.org/2022/06/fuzzing-rust-minidump-for-embarrassment-and-crashes/)
+- Jun 23 - [Italian watchdog bans use of Google Analytics](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/9782874#english)
 <!--END_SECTION:hn-->
 
 <!--
