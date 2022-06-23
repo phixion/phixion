@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 23 - [Random Ultima Online anecdote #2 – Horses inside players (2014)](https://www.raphkoster.com/2014/08/16/random-uo-anecdote-2/)
-- Jun 23 - [U.S. plans trial of early detection blood tests for multiple cancers](https://www.science.org/content/article/complexities-are-staggering-u-s-plans-huge-trial-blood-tests-multiple-cancers)
-- Jun 23 - [Introducing PyScript (summary of PyCon keynote)](https://lwn.net/SubscriberLink/898452/357b195db1ecce28/)
-- Jun 23 - [Generally Intelligent (YC S17) is hiring machine learning research engineers](https://news.ycombinator.com/item?id=31843932)
-- Jun 23 - [Brooks County TX pays off hacker with tax dollars after ransomware attack](https://www.kztv10.com/news/local-news/brooks-county-pays-off-hacker-with-tax-dollars-after-ransomware-attack)
+- Jun 23 - [Cancer cells wake up when people sleep](https://www.nature.com/articles/d41586-022-01724-w)
+- Jun 23 - [7-zip 22.00 – APFS, Posix TAR, high precision timestamps](https://sourceforge.net/p/sevenzip/discussion/45797/thread/9c2d9061ce/)
+- Jun 23 - [Minikube now supports rootless podman driver for running Kubernetes](https://github.com/kubernetes/minikube/pull/13829)
+- Jun 23 - [A brief history of one line fixes (2014)](https://flak.tedunangst.com/post/a-brief-history-of-one-line-fixes)
+- Jun 23 - [React Native 0.69](https://reactnative.dev/blog/2022/06/21/version-069)
 <!--END_SECTION:hn-->
 
 <!--
