@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 23 - [Cancer cells wake up when people sleep](https://www.nature.com/articles/d41586-022-01724-w)
-- Jun 23 - [7-zip 22.00 – APFS, Posix TAR, high precision timestamps](https://sourceforge.net/p/sevenzip/discussion/45797/thread/9c2d9061ce/)
-- Jun 23 - [Minikube now supports rootless podman driver for running Kubernetes](https://github.com/kubernetes/minikube/pull/13829)
-- Jun 23 - [A brief history of one line fixes (2014)](https://flak.tedunangst.com/post/a-brief-history-of-one-line-fixes)
-- Jun 23 - [React Native 0.69](https://reactnative.dev/blog/2022/06/21/version-069)
+- Jun 23 - [MDalgorithms (YC W17) Is Hiring Chief Marketing Officer](https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/nfNrF5S-chief-marketing-officer)
+- Jun 23 - [Dolt Is Git for Data](https://github.com/dolthub/dolt)
+- Jun 23 - [Cariad Joins the Eclipse Foundation](https://cariad.technology/de/en/news/stories/open-source-eclipse-foundation.html)
+- Jun 23 - [Yandex opensources 100B parameter GPT-like model](https://github.com/yandex/YaLM-100B)
+- Jun 23 - [Copilot just sells code other people wrote](https://twitter.com/ReinH/status/1539626662274269185)
 <!--END_SECTION:hn-->
 
 <!--
