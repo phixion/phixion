@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 24 - [Goodbye Zachtronics, Developers of Cool Video Games](https://kotaku.com/zachtronics-farewell-goodbye-closing-eliza-last-call-bb-1849096767)
-- Jun 24 - [How to Set Up a Cheap Burner Phone](https://theintercept.com/2020/06/15/protest-tech-safety-burner-phone/)
-- Jun 24 - [Build a PinePhone App with Zig and Zgt](https://lupyuen.github.io/articles/pinephone)
-- Jun 24 - [SMS phishing is way too easy](https://www.bejarano.io/sms-phishing/)
-- Jun 24 - [Liberty wins landmark Snoopers’ Charter case](https://www.libertyhumanrights.org.uk/issue/liberty-wins-landmark-snoopers-charter-case/)
+- Jun 24 - [How to Make a Complete Map of Every Thought You Think (2003)](https://users.speakeasy.net/~lion/nb/html/)
+- Jun 24 - [Neuronlike Memristors Could Superspeed 6G Wireless](https://spectrum.ieee.org/memristor-6g-switches)
+- Jun 24 - [Crypto firm Bitpanda lays off around 20% of its people](https://blog.bitpanda.com/en/way-forward)
+- Jun 24 - [ffsend: A fully featured Firefox Send command line client](https://github.com/timvisee/ffsend)
+- Jun 24 - [How to find great practice systems design questions](https://www.hackpack.io/blog/great-practice-systems-design-questions)
 <!--END_SECTION:hn-->
 
 <!--
