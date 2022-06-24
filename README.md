@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 23 - [The Return of Industrial Warfare](https://rusi.org/explore-our-research/publications/commentary/return-industrial-warfare/)
-- Jun 23 - [FTC Action Against Harley-Davidson and Westinghouse for Limiting Right to Repair](https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-takes-action-against-harley-davidson-westinghouse-illegally-restricting-customers-right-repair-0)
-- Jun 23 - [About Last Week’s Announcement](https://www.brex.com/journal/last-weeks-announcement/)
-- Jun 23 - [Fuzzing rust-minidump for Embarrassment and Crashes – Part 2](https://hacks.mozilla.org/2022/06/fuzzing-rust-minidump-for-embarrassment-and-crashes/)
-- Jun 23 - [Italian watchdog bans use of Google Analytics](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/9782874#english)
+- Jun 23 - [Dueling over Dual_EC_DRGB: Consequences of Corrupting a Standardization Process](https://harvardnsj.org/2022/06/dueling-over-dual_ec_drgb-the-consequences-of-corrupting-a-cryptographic-standardization-process/)
+- Jun 23 - [Show HN: Nerd Crawler – we monitor original comic art sites so you don't have to](https://www.nerdcrawler.com/)
+- Jun 23 - [Advice for Academic Refugees](https://eigenrobot.substack.com/p/advice-for-academic-refugees)
+- Jun 23 - [One centimeter long bacterium discovered](https://www.science.org/doi/10.1126/science.abb3634)
+- Jun 23 - [FTC action against Harley-Davidson and Westinghouse for limiting right to repair](https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-takes-action-against-harley-davidson-westinghouse-illegally-restricting-customers-right-repair-0)
 <!--END_SECTION:hn-->
 
 <!--
