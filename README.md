@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 24 - [Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote)](https://www.svix.com/careers/)
-- Jun 24 - [Ask HN: Your admittedly Useless Side Projects?](https://news.ycombinator.com/item?id=31860158)
-- Jun 24 - [Tell HN: Brother printers now locking out non-OEM paraphernalia](https://news.ycombinator.com/item?id=31860131)
-- Jun 24 - [Lost USB with 460,000 city residents' personal data found](https://www3.nhk.or.jp/nhkworld/en/news/20220624_27/)
-- Jun 24 - [A Random Distribution of Wealth](https://www.masswerk.at/misc/wealth/2.html)
+- Jun 24 - [Goodbye Zachtronics, Developers of Cool Video Games](https://kotaku.com/zachtronics-farewell-goodbye-closing-eliza-last-call-bb-1849096767)
+- Jun 24 - [How to Set Up a Cheap Burner Phone](https://theintercept.com/2020/06/15/protest-tech-safety-burner-phone/)
+- Jun 24 - [Build a PinePhone App with Zig and Zgt](https://lupyuen.github.io/articles/pinephone)
+- Jun 24 - [SMS phishing is way too easy](https://www.bejarano.io/sms-phishing/)
+- Jun 24 - [Liberty wins landmark Snoopers’ Charter case](https://www.libertyhumanrights.org.uk/issue/liberty-wins-landmark-snoopers-charter-case/)
 <!--END_SECTION:hn-->
 
 <!--
