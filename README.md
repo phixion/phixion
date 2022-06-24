@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 24 - [Rare ‘triple’ La Niña climate event looks likely – what does the future hold?](https://www.nature.com/articles/d41586-022-01668-1)
-- Jun 24 - [FTC to Crack Down on Companies That Illegally Surveil Children Learning Online](https://www.ftc.gov/news-events/news/press-releases/2022/05/ftc-crack-down-companies-illegally-surveil-children-learning-online)
-- Jun 24 - [How We built a $1M ARR open source SaaS](https://plausible.io/blog/open-source-saas)
-- Jun 23 - [A common trap for people entering programming jobs](https://www.natemeyvis.com/a-common-trap-for-people-entering-programming-jobs.html)
-- Jun 23 - [Deadbolt locks offer false sense of security (2014)](http://www.gaterslocksmith.com/blog/2014/02/01/deadbolt-locks-offer-false-sense-of-security/)
+- Jun 24 - [What it feels like when Rust saves your bacon](https://smallcultfollowing.com/babysteps/blog/2022/06/15/what-it-feels-like-when-rust-saves-your-bacon/)
+- Jun 24 - [Tell HN: Coinbase now requires physical address of recipient in crypto transfers](https://news.ycombinator.com/item?id=31858460)
+- Jun 24 - [Apple Is Not Defending Browser Engine Choice](https://infrequently.org/2022/06/apple-is-not-defending-browser-engine-choice/)
+- Jun 24 - [Total Generalship: Commanding Pre-Modern Armies, Part IIIb: Officers](https://acoup.blog/2022/06/24/collections-total-generalship-commanding-pre-modern-armies-part-iiib-officers/)
+- Jun 24 - [‘Anti-hunger’ molecule forms after exercise, scientists discover](https://med.stanford.edu/news/all-news/2022/06/anti-hunger-molecule-exercise.html)
 <!--END_SECTION:hn-->
 
 <!--
