@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 24 - [What it feels like when Rust saves your bacon](https://smallcultfollowing.com/babysteps/blog/2022/06/15/what-it-feels-like-when-rust-saves-your-bacon/)
-- Jun 24 - [Tell HN: Coinbase now requires physical address of recipient in crypto transfers](https://news.ycombinator.com/item?id=31858460)
-- Jun 24 - [Apple Is Not Defending Browser Engine Choice](https://infrequently.org/2022/06/apple-is-not-defending-browser-engine-choice/)
-- Jun 24 - [Total Generalship: Commanding Pre-Modern Armies, Part IIIb: Officers](https://acoup.blog/2022/06/24/collections-total-generalship-commanding-pre-modern-armies-part-iiib-officers/)
-- Jun 24 - [‘Anti-hunger’ molecule forms after exercise, scientists discover](https://med.stanford.edu/news/all-news/2022/06/anti-hunger-molecule-exercise.html)
+- Jun 24 - [Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote)](https://www.svix.com/careers/)
+- Jun 24 - [Ask HN: Your admittedly Useless Side Projects?](https://news.ycombinator.com/item?id=31860158)
+- Jun 24 - [Tell HN: Brother printers now locking out non-OEM paraphernalia](https://news.ycombinator.com/item?id=31860131)
+- Jun 24 - [Lost USB with 460,000 city residents' personal data found](https://www3.nhk.or.jp/nhkworld/en/news/20220624_27/)
+- Jun 24 - [A Random Distribution of Wealth](https://www.masswerk.at/misc/wealth/2.html)
 <!--END_SECTION:hn-->
 
 <!--
