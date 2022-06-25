@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 24 - [How to Make a Complete Map of Every Thought You Think (2003)](https://users.speakeasy.net/~lion/nb/html/)
-- Jun 24 - [Neuronlike Memristors Could Superspeed 6G Wireless](https://spectrum.ieee.org/memristor-6g-switches)
-- Jun 24 - [Crypto firm Bitpanda lays off around 20% of its people](https://blog.bitpanda.com/en/way-forward)
-- Jun 24 - [ffsend: A fully featured Firefox Send command line client](https://github.com/timvisee/ffsend)
-- Jun 24 - [How to find great practice systems design questions](https://www.hackpack.io/blog/great-practice-systems-design-questions)
+- Jun 24 - [Goldman Raising $2B to Buy Distressed Celsius Assets](https://www.morningstar.com/news/dow-jones/202206247121/goldman-sachs-looks-to-raise-2-billion-to-buy-celsius-networks-assets-coindesk-says)
+- Jun 24 - [Computer Simulations of Proteins Help Unravel Why Chemotherapy Resistance Occurs](https://news.stonybrook.edu/university/computer-simulations-of-proteins-help-unravel-why-chemotherapy-resistance-occurs-2/)
+- Jun 24 - [How Bungie identified a mass sender of fake DMCA notices](https://torrentfreak.com/digital-trails-how-bungie-identified-a-mass-sender-of-fake-dmca-notices-220624/)
+- Jun 24 - [How to make a complete map of every thought you think (2003)](https://users.speakeasy.net/~lion/nb/html/)
+- Jun 24 - [Artificial Photosynthesis in the Absence of Light](https://www.nature.com/articles/s43016-022-00530-x)
 <!--END_SECTION:hn-->
 
 <!--
