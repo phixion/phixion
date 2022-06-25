@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 25 - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
-- Jun 25 - [Ancient art and genetics reveal origin of world’s most expensive spice](https://blog.frontiersin.org/2022/03/09/frontiers-plant-science-domestication-origin-saffron-crocus-bronze-age-greece/)
-- Jun 25 - [A Mystery That Took 13,200 Years to Crack](https://www.theatlantic.com/science/archive/2022/06/mastodon-mammoth-extinction-climate-change/661351/)
-- Jun 25 - [The Typography of Legal Opinions](https://typographyforlawyers.com/court-opinions.html)
-- Jun 25 - [Frequently asked questions about your craniotomy](https://www.thewhitereview.org/fiction/frequently-asked-questions-craniotomy/)
+- Jun 25 - [Tara AI Is Hiring a senior back-end engineer to help build a ticketless future](https://jobs.gohire.io/tara-ai-wyqbsv6l/senior-back-end-engineer-92600/)
+- Jun 25 - [With Roe overturned, period-tracking apps raise new worries](https://www.washingtonpost.com/technology/2022/05/07/period-tracking-privacy/)
+- Jun 25 - [Oh Shit, Git?!?](https://ohshitgit.com/)
+- Jun 25 - [Papers on GitHub Copilot, copyright law, and ownership for AI-generated code](https://www.fsf.org/licensing/copilot)
+- Jun 25 - [Ask HN: Seeking Cryptography Certification](https://news.ycombinator.com/item?id=31873896)
 <!--END_SECTION:hn-->
 
 <!--
