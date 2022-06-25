@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 25 - [I think the GNOME designers are incompetent](https://liam-on-linux.dreamwidth.org/84023.html)
-- Jun 25 - [Flowers for Algernon [pdf]](https://www.sdfo.org/gj/stories/flowersforalgernon.pdf)
-- Jun 25 - [Show HN: Pathfinding Visualizer](https://honzaap.github.io/Pathfinding/)
-- Jun 25 - [Sentence Embeddings have a problem, the reason sometimes Dall-E2 fails](https://medium.com/ozonetel-ai/sentence-embeddings-have-a-problem-the-reason-sometimes-dalle-2-fails-2a10d5048f15)
-- Jun 25 - [Texas raises emission standards for the Cheniere LNG project on a regular basis](https://newsotg.com/2022/06/25/world-news/texas-raises-emission-standards-for-the-cheniere-lng-project-on-a-regular-basis/)
+- Jun 25 - [ARM original operating system: RISC OS still alive after 35 years](https://www.cosfone.com/arm-original-operating-system-risc-os-still-alive-after-35-years/)
+- Jun 25 - [Show HN: Feather – 90 percent of Bloomberg terminal, for 5 percent of the price](https://news.ycombinator.com/item?id=31877584)
+- Jun 25 - [Fighting crime by checking buildings, not suspects](https://www.newsnationnow.com/solutions/police-are-fighting-crime-by-looking-at-buildings-not-criminals/)
+- Jun 25 - [Most of the world’s grain is not eaten by humans](https://www.economist.com/graphic-detail/2022/06/23/most-of-the-worlds-grain-is-not-eaten-by-humans)
+- Jun 25 - [AT&T lawyer stopped Plan 9 release CD with songs by Lou Reed, Debbie Harry](https://www.tuhs.org/mailman3/hyperkitty/list/tuhs@tuhs.org/message/H2XN5ONL3XAAUFVERXNYKS7QOZAOGBFA/)
 <!--END_SECTION:hn-->
 
 <!--
