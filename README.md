@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 25 - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+- Jun 25 - [Ancient art and genetics reveal origin of world’s most expensive spice](https://blog.frontiersin.org/2022/03/09/frontiers-plant-science-domestication-origin-saffron-crocus-bronze-age-greece/)
+- Jun 25 - [A Mystery That Took 13,200 Years to Crack](https://www.theatlantic.com/science/archive/2022/06/mastodon-mammoth-extinction-climate-change/661351/)
+- Jun 25 - [The Typography of Legal Opinions](https://typographyforlawyers.com/court-opinions.html)
 - Jun 25 - [Frequently asked questions about your craniotomy](https://www.thewhitereview.org/fiction/frequently-asked-questions-craniotomy/)
-- Jun 24 - [The Composition over Inheritance Principle](https://python-patterns.guide/gang-of-four/composition-over-inheritance/)
-- Jun 24 - [Goldman Raising $2B to Buy Distressed Celsius Assets](https://www.morningstar.com/news/dow-jones/202206247121/goldman-sachs-looks-to-raise-2-billion-to-buy-celsius-networks-assets-coindesk-says)
-- Jun 24 - [Computer Simulations of Proteins Help Unravel Why Chemotherapy Resistance Occurs](https://news.stonybrook.edu/university/computer-simulations-of-proteins-help-unravel-why-chemotherapy-resistance-occurs-2/)
-- Jun 24 - [How Bungie identified a mass sender of fake DMCA notices](https://torrentfreak.com/digital-trails-how-bungie-identified-a-mass-sender-of-fake-dmca-notices-220624/)
 <!--END_SECTION:hn-->
 
 <!--
