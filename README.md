@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 25 - [Tara AI Is Hiring a senior back-end engineer to help build a ticketless future](https://jobs.gohire.io/tara-ai-wyqbsv6l/senior-back-end-engineer-92600/)
-- Jun 25 - [With Roe overturned, period-tracking apps raise new worries](https://www.washingtonpost.com/technology/2022/05/07/period-tracking-privacy/)
-- Jun 25 - [Oh Shit, Git?!?](https://ohshitgit.com/)
-- Jun 25 - [Papers on GitHub Copilot, copyright law, and ownership for AI-generated code](https://www.fsf.org/licensing/copilot)
-- Jun 25 - [Ask HN: Seeking Cryptography Certification](https://news.ycombinator.com/item?id=31873896)
+- Jun 25 - [I think the GNOME designers are incompetent](https://liam-on-linux.dreamwidth.org/84023.html)
+- Jun 25 - [Flowers for Algernon [pdf]](https://www.sdfo.org/gj/stories/flowersforalgernon.pdf)
+- Jun 25 - [Show HN: Pathfinding Visualizer](https://honzaap.github.io/Pathfinding/)
+- Jun 25 - [Sentence Embeddings have a problem, the reason sometimes Dall-E2 fails](https://medium.com/ozonetel-ai/sentence-embeddings-have-a-problem-the-reason-sometimes-dalle-2-fails-2a10d5048f15)
+- Jun 25 - [Texas raises emission standards for the Cheniere LNG project on a regular basis](https://newsotg.com/2022/06/25/world-news/texas-raises-emission-standards-for-the-cheniere-lng-project-on-a-regular-basis/)
 <!--END_SECTION:hn-->
 
 <!--
