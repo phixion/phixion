@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 26 - [Show HN: Glossary page template with a built-in editor](https://glossary.page/template/)
-- Jun 26 - [Researchers demystify ancient Aboriginal migration across Australia (2021)](https://www.abc.net.au/news/2021-04-30/research-into-ancient-aboriginal-migration-across-australia/100105902)
-- Jun 26 - [Show HN: A tiny (850B) and fast reactive observables library via functions](https://github.com/maverick-js/observables)
-- Jun 26 - [BMW F Series Gear Selector, Part One: Failures](https://www.projectgus.com/2022/06/bmw-f-series-gear-selector-part-one-failures/)
-- Jun 26 - [Entropy: Why Life Always Seems to Get More Complicated](https://jamesclear.com/entropy)
+- Jun 26 - [Ask HN: How on earth are you using your Apple computer with external displays?](https://news.ycombinator.com/item?id=31886907)
+- Jun 26 - [The SQLite Code of Ethics](https://sqlite.org/codeofethics.html)
+- Jun 26 - [Show HN: CRProxy is a simple and affordable ngrok alternative](https://crproxy.com)
+- Jun 26 - [Reading Ourselves to Death](https://www.thenewatlantis.com/publications/reading-ourselves-to-death)
+- Jun 26 - [Pigeon Towers: A Low-Tech Alternative to Synthetic Fertilizers (2016)](https://www.notechmagazine.com/2016/10/pigeon-towers-a-low-tech-alternative-to-synthetic-fertilizers.html)
 <!--END_SECTION:hn-->
 
 <!--
