@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 25 - [Don't let dicts spoil your code](https://roman.pt/posts/dont-let-dicts-spoil-your-code/)
-- Jun 25 - [VirtualBuddy: Virtualize macOS 12 and later on Apple Silicon](https://github.com/insidegui/VirtualBuddy)
-- Jun 25 - [Mutter-Rounded – A window manager for gnome, with rounded corners patch](https://github.com/yilozt/mutter-rounded)
-- Jun 25 - [Bayesian Workflow (2020)](https://arxiv.org/abs/2011.01808)
-- Jun 25 - [Tom Davies has become a beloved icon of GeoGuessr](https://www.newyorker.com/culture/rabbit-holes/the-charming-bloke-who-dominates-geoguessr)
+- Jun 26 - [Why I still recommend Julia](https://huijzer.xyz/posts/recommend/)
+- Jun 26 - [Meta bans staff from open discussion of Roe vs. Wade](https://www.businessinsider.com/meta-bans-staff-from-discussing-roe-v-wade-deleting-messages-2022-6)
+- Jun 26 - [Enclave: An Unpickable Lock](https://ominoushum.com/lock/)
+- Jun 26 - [Switzerland’s underground freight project gets start date](https://lenews.ch/2022/06/24/switzerlands-underground-freight-project-gets-start-date/)
+- Jun 26 - [‘Reverse Engineering’ Hacker News into an API](https://lukakerr.github.io/javascript/reverse-engineering-hacker-news-into-an-api)
 <!--END_SECTION:hn-->
 
 <!--
