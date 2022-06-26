@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 26 - [3D Diagrams of London Underground Stations](https://www.ianvisits.co.uk/articles/3d-maps-of-every-underground-station-ab-14630/)
-- Jun 26 - [Cycling: Why Tunnels are Better than Bridges (2014)](https://www.notechmagazine.com/2014/09/cycling-why-tunnels-are-better-than-bridges.html)
-- Jun 26 - [The fall of Reddit: Why it’s quickly declining into chaos](https://medium.com/yardcouch-com/the-fall-of-reddit-why-its-quickly-declining-into-chaos-cb0da61aca56)
-- Jun 26 - [Why I still recommend Julia](https://huijzer.xyz/posts/recommend/)
-- Jun 26 - [Enclave: An Unpickable Lock](https://ominoushum.com/lock/)
+- Jun 26 - [We Halved Go Monorepo CI Build Time](https://eng.uber.com/how-we-halved-go-monorepo-ci-build-time/)
+- Jun 26 - [GitHub: Thank You to Our Maintainers](https://github.blog/2022-06-24-thank-you-to-our-maintainers/)
+- Jun 26 - [On the Closing of 42 Silicon Valley from 42 co-founder Kwame Yamgnane](https://blog.qwasar.io/blog/on-the-closing-of-42-silicon-valley-from-42-co-founder-kwame-yamgnane)
+- Jun 26 - [Germany Ends Ban on Abortion Advertisement](https://www.nytimes.com/2022/06/24/world/europe/germany-abortion-law.html)
+- Jun 26 - [Pgo: The Postgres operator from crunchy data](https://github.com/CrunchyData/postgres-operator)
 <!--END_SECTION:hn-->
 
 <!--
