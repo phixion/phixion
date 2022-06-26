@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 26 - [We Halved Go Monorepo CI Build Time](https://eng.uber.com/how-we-halved-go-monorepo-ci-build-time/)
-- Jun 26 - [GitHub: Thank You to Our Maintainers](https://github.blog/2022-06-24-thank-you-to-our-maintainers/)
-- Jun 26 - [On the Closing of 42 Silicon Valley from 42 co-founder Kwame Yamgnane](https://blog.qwasar.io/blog/on-the-closing-of-42-silicon-valley-from-42-co-founder-kwame-yamgnane)
-- Jun 26 - [Germany Ends Ban on Abortion Advertisement](https://www.nytimes.com/2022/06/24/world/europe/germany-abortion-law.html)
-- Jun 26 - [Pgo: The Postgres operator from crunchy data](https://github.com/CrunchyData/postgres-operator)
+- Jun 26 - [Show HN: Glossary page template with a built-in editor](https://glossary.page/template/)
+- Jun 26 - [Researchers demystify ancient Aboriginal migration across Australia (2021)](https://www.abc.net.au/news/2021-04-30/research-into-ancient-aboriginal-migration-across-australia/100105902)
+- Jun 26 - [Show HN: A tiny (850B) and fast reactive observables library via functions](https://github.com/maverick-js/observables)
+- Jun 26 - [BMW F Series Gear Selector, Part One: Failures](https://www.projectgus.com/2022/06/bmw-f-series-gear-selector-part-one-failures/)
+- Jun 26 - [Entropy: Why Life Always Seems to Get More Complicated](https://jamesclear.com/entropy)
 <!--END_SECTION:hn-->
 
 <!--
