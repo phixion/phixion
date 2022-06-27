@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 27 - [USDA ignoring the science on low-carb diets](https://unsettledscience.substack.com/p/usda-ignoring-the-science-on-low)
-- Jun 27 - [An AI drew my picture](https://twitter.com/wills_wire/status/1541223535481425921)
-- Jun 27 - [By Exploring Virtual Worlds, AI Learns in New Ways](https://www.quantamagazine.org/ai-makes-strides-in-virtual-worlds-more-like-our-own-20220624/)
-- Jun 26 - [Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos](https://arxiv.org/abs/2206.11795)
-- Jun 26 - [Ask HN: What are good genealogy/family history/immigration search engines?](https://news.ycombinator.com/item?id=31889047)
+- Jun 27 - [Explaining Code Using ASCII Art](https://blog.regehr.org/archives/1653)
+- Jun 27 - [Two Types of Privacy](https://seirdy.one/posts/2022/06/25/two-types-of-privacy/)
+- Jun 27 - [Notes on OpenSSL remote memory corruption by Guido Vranken](https://guidovranken.com/2022/06/27/notes-on-openssl-remote-memory-corruption/)
+- Jun 27 - [WebAssembly and C++](http://neugierig.org/software/blog/2022/06/wasm-c++.html)
+- Jun 27 - [Lenses in Haskell](https://www.fpcomplete.com/haskell/tutorial/lens/)
 <!--END_SECTION:hn-->
 
 <!--
