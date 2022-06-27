@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 26 - [Ask HN: How on earth are you using your Apple computer with external displays?](https://news.ycombinator.com/item?id=31886907)
-- Jun 26 - [The SQLite Code of Ethics](https://sqlite.org/codeofethics.html)
-- Jun 26 - [Show HN: CRProxy is a simple and affordable ngrok alternative](https://crproxy.com)
-- Jun 26 - [Reading Ourselves to Death](https://www.thenewatlantis.com/publications/reading-ourselves-to-death)
-- Jun 26 - [Pigeon Towers: A Low-Tech Alternative to Synthetic Fertilizers (2016)](https://www.notechmagazine.com/2016/10/pigeon-towers-a-low-tech-alternative-to-synthetic-fertilizers.html)
+- Jun 26 - [Memory Safety for the World’s Largest Software Project](https://www.memorysafety.org/blog/memory-safety-in-linux-kernel/)
+- Jun 26 - [What's New in Python 3.11?](https://deepsource.io/blog/python-3-11-whats-new/)
+- Jun 26 - [PyPI: Python packets steal AWS keys from users](https://blog.sonatype.com/python-packages-upload-your-aws-keys-env-vars-secrets-to-web)
+- Jun 26 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- Jun 26 - [Blade Runner' at 40: Ridley Scott Masterpiece Is Still the Greatest of All-Time](https://www.esquire.com/uk/culture/a40351034/blade-runner-at-40/)
 <!--END_SECTION:hn-->
 
 <!--
