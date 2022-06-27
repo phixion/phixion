@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 26 - [Memory Safety for the World’s Largest Software Project](https://www.memorysafety.org/blog/memory-safety-in-linux-kernel/)
-- Jun 26 - [What's New in Python 3.11?](https://deepsource.io/blog/python-3-11-whats-new/)
-- Jun 26 - [PyPI: Python packets steal AWS keys from users](https://blog.sonatype.com/python-packages-upload-your-aws-keys-env-vars-secrets-to-web)
-- Jun 26 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- Jun 26 - [Blade Runner' at 40: Ridley Scott Masterpiece Is Still the Greatest of All-Time](https://www.esquire.com/uk/culture/a40351034/blade-runner-at-40/)
+- Jun 27 - [USDA ignoring the science on low-carb diets](https://unsettledscience.substack.com/p/usda-ignoring-the-science-on-low)
+- Jun 27 - [An AI drew my picture](https://twitter.com/wills_wire/status/1541223535481425921)
+- Jun 27 - [By Exploring Virtual Worlds, AI Learns in New Ways](https://www.quantamagazine.org/ai-makes-strides-in-virtual-worlds-more-like-our-own-20220624/)
+- Jun 26 - [Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos](https://arxiv.org/abs/2206.11795)
+- Jun 26 - [Ask HN: What are good genealogy/family history/immigration search engines?](https://news.ycombinator.com/item?id=31889047)
 <!--END_SECTION:hn-->
 
 <!--
