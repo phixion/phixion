@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 27 - [Explaining Code Using ASCII Art](https://blog.regehr.org/archives/1653)
-- Jun 27 - [Two Types of Privacy](https://seirdy.one/posts/2022/06/25/two-types-of-privacy/)
-- Jun 27 - [Notes on OpenSSL remote memory corruption by Guido Vranken](https://guidovranken.com/2022/06/27/notes-on-openssl-remote-memory-corruption/)
-- Jun 27 - [WebAssembly and C++](http://neugierig.org/software/blog/2022/06/wasm-c++.html)
-- Jun 27 - [Lenses in Haskell](https://www.fpcomplete.com/haskell/tutorial/lens/)
+- Jun 27 - [Blood Pressure E-Tattoo Promises Continuous, Mobile Monitoring](https://news.utexas.edu/2022/06/20/blood-pressure-e-tattoo-promises-continuous-mobile-monitoring/)
+- Jun 27 - [Linx – Reveals invisible links within JavaScript files](https://github.com/riza/linx)
+- Jun 27 - [Ask HN: What is your Kubernetes nightmare?](https://news.ycombinator.com/item?id=31892384)
+- Jun 27 - [Outlook scans emails arriving in your inbox and sends all found URLs to Bing](https://medium.com/@ryanbadger/magic-links-can-end-up-in-bing-search-results-rendering-them-useless-37def0fae994)
+- Jun 27 - [Amazon Is Intimidating and Harassing Organizing Workers in Montreal](https://jacobin.com/2022/06/amazon-workers-union-drive-intimidation-anti-labor-law-montreal-canada/)
 <!--END_SECTION:hn-->
 
 <!--
