@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 27 - [Blood Pressure E-Tattoo Promises Continuous, Mobile Monitoring](https://news.utexas.edu/2022/06/20/blood-pressure-e-tattoo-promises-continuous-mobile-monitoring/)
-- Jun 27 - [Linx – Reveals invisible links within JavaScript files](https://github.com/riza/linx)
-- Jun 27 - [Ask HN: What is your Kubernetes nightmare?](https://news.ycombinator.com/item?id=31892384)
-- Jun 27 - [Outlook scans emails arriving in your inbox and sends all found URLs to Bing](https://medium.com/@ryanbadger/magic-links-can-end-up-in-bing-search-results-rendering-them-useless-37def0fae994)
-- Jun 27 - [Amazon Is Intimidating and Harassing Organizing Workers in Montreal](https://jacobin.com/2022/06/amazon-workers-union-drive-intimidation-anti-labor-law-montreal-canada/)
+- Jun 27 - [Three Arrows Capital has defaulted on a loan worth more than $670M](https://www.cnbc.com/2022/06/27/three-arrows-capital-crypto-hedge-fund-defaults-on-voyager-loan.html)
+- Jun 27 - [Things to know about databases](https://architecturenotes.co/things-you-should-know-about-databases/)
+- Jun 27 - [Taloflow (YC W21) Is Hiring a React Dev (2 Mo. Contract)](https://www.ycombinator.com/companies/taloflow/jobs/FlGzrvv-react-ui-developer-2-mo-contract)
+- Jun 27 - [Watch an Electric Fan Car Shatter the Goodwood Hill Climb Record](https://www.thedrive.com/news/watch-an-electric-fan-car-shatter-the-goodwood-hill-climb-record)
+- Jun 27 - [Energy crunch concerns lead Japan’s government to call for reduced AC use](https://www.nippon.com/en/japan-data/h01355/)
 <!--END_SECTION:hn-->
 
 <!--
