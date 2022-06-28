@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 27 - [Solar Protocol](http://solarprotocol.net)
-- Jun 27 - [People who are isolated from others do worse on cognitive tests: new research](https://theconversation.com/socially-isolated-people-have-differently-wired-brains-and-poorer-cognition-new-research-185150)
-- Jun 27 - [tolower() in bulk at speed](https://dotat.at/@/2022-06-27-tolower-swar.html)
-- Jun 27 - [Finley (YC W21) is hiring its first sales team member](https://news.ycombinator.com/item?id=31900737)
-- Jun 27 - [Wear leveling in SSDs considered harmful](https://dl.acm.org/doi/10.1145/3538643.3539750)
+- Jun 28 - [Bible Semantic Search](https://hoffa-bible-search-app-1uj1m3.streamlitapp.com)
+- Jun 28 - [The PocketReform is a made-in-Berlin Linux handheld](https://tuxphones.com/mnt-pocketreform-open-hardware-linux-pda-keyboard-arm/)
+- Jun 28 - [A Response](https://caspercloudwalker.bearblog.dev/a-response/)
+- Jun 28 - [Why didn't Gandalf own a Colt .45?](https://featherlessbipeds.substack.com/p/why-didnt-gandalf-own-a-colt-45)
+- Jun 28 - [What the Hell Was the Microsoft Network? (2018)](http://www.codersnotes.com/notes/the-microsoft-network/)
 <!--END_SECTION:hn-->
 
 <!--
