@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 28 - [PolicyFly (YC W22) Is Hiring a Director of Engineering (Remote, US)](https://www.ycombinator.com/companies/policyfly/jobs/PpoJWAq-director-of-engineering)
-- Jun 28 - [The difficulty of switching authentication providers](https://www.ezid.io//resource/switching-authentication-providers)
-- Jun 28 - [Hetzner Cloud offers IPv6-only or no public IP at all](https://www.hetzner.com/news/06-22-flexibles-networking/?country=ot)
-- Jun 28 - [Big Bird: killing SQL injection with graph homomorphisms](https://dustri.org/b/big-bird-killing-sqli-with-graph-homomorphisms.html)
-- Jun 28 - [Sorting algorithms visualized using the Blender Python API](https://github.com/ForeignGods/Sorting-Algorithms-Blender)
+- Jun 28 - [WHO declines to label monkeypox a global emergency](https://www.science.org/content/article/who-declines-to-label-monkeypox-a-global-emergency)
+- Jun 28 - [SQLite or PostgreSQL? It's Complicated](https://www.twilio.com/blog/sqlite-postgresql-complicated)
+- Jun 28 - [Fresh is a new full stack web framework for Deno](https://deno.com/blog/fresh-is-stable)
+- Jun 28 - [Show HN: Virtual Maker – Make 3D/VR scenes in the browser](https://www.virtualmaker.net/)
+- Jun 28 - [EY to pay $100 mln to settle U.S. charges of staff cheating on accountant exams](https://www.reuters.com/business/finance/ey-pay-100-mln-settle-us-charges-staff-cheating-accountant-exams-2022-06-28/)
 <!--END_SECTION:hn-->
 
 <!--
