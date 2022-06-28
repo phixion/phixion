@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 28 - [WHO declines to label monkeypox a global emergency](https://www.science.org/content/article/who-declines-to-label-monkeypox-a-global-emergency)
-- Jun 28 - [SQLite or PostgreSQL? It's Complicated](https://www.twilio.com/blog/sqlite-postgresql-complicated)
-- Jun 28 - [Fresh is a new full stack web framework for Deno](https://deno.com/blog/fresh-is-stable)
-- Jun 28 - [Show HN: Virtual Maker – Make 3D/VR scenes in the browser](https://www.virtualmaker.net/)
-- Jun 28 - [EY to pay $100 mln to settle U.S. charges of staff cheating on accountant exams](https://www.reuters.com/business/finance/ey-pay-100-mln-settle-us-charges-staff-cheating-accountant-exams-2022-06-28/)
+- Jun 28 - [FBI Says People Are Using Deepfakes, Stolen PII to Apply to Remote Jobs](https://gizmodo.com/deepfakes-remote-work-job-applications-fbi-1849118604)
+- Jun 28 - [X-ray reverse-engineering a hybrid module from 1960s Apollo test equipment](https://www.righto.com/2022/06/x-ray-reverse-engineering-hybrid-module.html)
+- Jun 28 - [Burning Out](https://polymerist.substack.com/p/on-burning-out)
+- Jun 28 - [Multiplying and Dividing on the 6502](https://llx.com/Neil/a2/mult.html)
+- Jun 28 - [De-anonymizing ransomware domains on the dark web](https://blog.talosintelligence.com/2022/06/de-anonymizing-ransomware-domains-on.html)
 <!--END_SECTION:hn-->
 
 <!--
