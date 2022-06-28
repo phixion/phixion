@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 28 - [Algolia Is Hiring an Engineering Manager in EMEA to Lead the Ingestion Pipeline](https://www.algolia.com/careers/engineering-manager-event-ingestion-london-england)
+- Jun 28 - [PolicyFly (YC W22) Is Hiring a Director of Engineering (Remote, US)](https://www.ycombinator.com/companies/policyfly/jobs/PpoJWAq-director-of-engineering)
+- Jun 28 - [The difficulty of switching authentication providers](https://www.ezid.io//resource/switching-authentication-providers)
+- Jun 28 - [Hetzner Cloud offers IPv6-only or no public IP at all](https://www.hetzner.com/news/06-22-flexibles-networking/?country=ot)
+- Jun 28 - [Big Bird: killing SQL injection with graph homomorphisms](https://dustri.org/b/big-bird-killing-sqli-with-graph-homomorphisms.html)
 - Jun 28 - [Sorting algorithms visualized using the Blender Python API](https://github.com/ForeignGods/Sorting-Algorithms-Blender)
-- Jun 28 - [The PocketReform is a made-in-Berlin Linux handheld](https://tuxphones.com/mnt-pocketreform-open-hardware-linux-pda-keyboard-arm/)
-- Jun 28 - [A Response](https://caspercloudwalker.bearblog.dev/a-response/)
-- Jun 28 - [Why didn't Gandalf own a Colt .45?](https://featherlessbipeds.substack.com/p/why-didnt-gandalf-own-a-colt-45)
 <!--END_SECTION:hn-->
 
 <!--
