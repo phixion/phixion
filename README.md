@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 27 - [Flu vaccination linked to 40% reduced risk of Alzheimer’s disease](https://www.uth.edu/news/story/uthealth-houston-study-flu-vaccination-linked-to-40-reduced-risk-of-alzheimers-disease)
-- Jun 27 - [Anti-innovative effects of Apple's prohibition of alternative browser engines](http://www.fosspatents.com/2022/06/anti-innovative-effects-of-apples.html)
-- Jun 27 - [Basement Fertility](https://betonit.substack.com/p/basement-fertility)
-- Jun 27 - [Wasting Time in Tech Interviews](https://www.benjamistan.tech/2022/06/26/wasting-time-in-tech-interviews.html)
-- Jun 27 - [Extreme Explorations of TypeScript's Type System](https://www.learningtypescript.com/articles/extreme-explorations-of-typescripts-type-system)
+- Jun 27 - [Solar Protocol](http://solarprotocol.net)
+- Jun 27 - [People who are isolated from others do worse on cognitive tests: new research](https://theconversation.com/socially-isolated-people-have-differently-wired-brains-and-poorer-cognition-new-research-185150)
+- Jun 27 - [tolower() in bulk at speed](https://dotat.at/@/2022-06-27-tolower-swar.html)
+- Jun 27 - [Finley (YC W21) is hiring its first sales team member](https://news.ycombinator.com/item?id=31900737)
+- Jun 27 - [Wear leveling in SSDs considered harmful](https://dl.acm.org/doi/10.1145/3538643.3539750)
 <!--END_SECTION:hn-->
 
 <!--
