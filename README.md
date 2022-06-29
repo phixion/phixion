@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 29 - [Supabase (YC S20) Is Hiring Elixir Engineers (Remote)](https://boards.greenhouse.io/supabase/jobs/4544288004)
-- Jun 29 - [It's worse than you think](https://ckarchive.com/b/75u7h8hkk9g9e)
-- Jun 29 - [Geometric exercises in paper folding (1917)](https://archive.org/details/tsundararowsgeo00rowrich)
-- Jun 29 - [A Chinese woman wrote millions of words of fake Wikipedia history](https://www.sixthtone.com/news/1010653/she-spent-a-decade-writing-fake-russian-history.-wikipedia-just-noticed.-?source=channel_rising)
-- Jun 29 - [New concentrator could help solar panels capture more sunlight without tracking](https://cosmosmagazine.com/science/agile-concentrator-solar-panels/)
+- Jun 29 - [Sieve (YC W22) is building the MongoDB for video, come join us](https://www.sievedata.com/)
+- Jun 29 - [Increased Subscription Pricing for IDEs, .NET Tools, and the All Products Pack](https://blog.jetbrains.com/blog/2022/06/29/increased-subscription-pricing-for-ides-net-tools-and-the-all-products-pack/)
+- Jun 29 - [Humans can't endure temperatures and humidities as high as previously thought](https://www.psu.edu/news/research/story/humans-cant-endure-temperatures-and-humidities-high-previously-thought/)
+- Jun 29 - [Forebruary is a wall calendar that you do not need to replace every year. (2013)](https://ilyabirman.net/forebruary/)
+- Jun 29 - [YOLOv6: Redefine state-of-the-art for object detection](https://dagshub.com/blog/yolov6/#)
 <!--END_SECTION:hn-->
 
 <!--
