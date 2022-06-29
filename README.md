@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 29 - [Supabase (YC S20) Is Hiring Elixir Engineers (Remote)](https://boards.greenhouse.io/supabase/jobs/4544288004)
+- Jun 29 - [It's worse than you think](https://ckarchive.com/b/75u7h8hkk9g9e)
+- Jun 29 - [Geometric exercises in paper folding (1917)](https://archive.org/details/tsundararowsgeo00rowrich)
 - Jun 29 - [A Chinese woman wrote millions of words of fake Wikipedia history](https://www.sixthtone.com/news/1010653/she-spent-a-decade-writing-fake-russian-history.-wikipedia-just-noticed.-?source=channel_rising)
-- Jun 29 - [Ask HN: Has your total compensation drastically changed with the stock downturn?](https://news.ycombinator.com/item?id=31915836)
-- Jun 29 - [10 Years of Meteor: My experience with a pioneering JavaScript framework](https://meteor10.sachagreif.com/)
-- Jun 29 - [Generating Children’s Stories Using GPT-3 and DALL·E](https://www.surgehq.ai//blog/generating-childrens-stories-using-gpt-3-and-dall-e)
-- Jun 29 - [Analyze OpenBSD’s Kernel with Domain-Specific Knowledge](https://medium.com/@chrissicool/analyze-openbsds-kernel-with-domain-specific-knowledge-ca665d92eebb)
+- Jun 29 - [New concentrator could help solar panels capture more sunlight without tracking](https://cosmosmagazine.com/science/agile-concentrator-solar-panels/)
 <!--END_SECTION:hn-->
 
 <!--
