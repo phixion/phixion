@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 28 - [FBI Says People Are Using Deepfakes, Stolen PII to Apply to Remote Jobs](https://gizmodo.com/deepfakes-remote-work-job-applications-fbi-1849118604)
-- Jun 28 - [X-ray reverse-engineering a hybrid module from 1960s Apollo test equipment](https://www.righto.com/2022/06/x-ray-reverse-engineering-hybrid-module.html)
-- Jun 28 - [Burning Out](https://polymerist.substack.com/p/on-burning-out)
-- Jun 28 - [Multiplying and Dividing on the 6502](https://llx.com/Neil/a2/mult.html)
-- Jun 28 - [De-anonymizing ransomware domains on the dark web](https://blog.talosintelligence.com/2022/06/de-anonymizing-ransomware-domains-on.html)
+- Jun 28 - [Turn your conference talk into a blog post](https://herbertlui.net/conference-talk-blog-post-transcribe/)
+- Jun 28 - [Thunderbird 102 Released: A Serious Upgrade to Your Communication](https://blog.thunderbird.net/2022/06/thunderbird-102-released-a-serious-upgrade-to-your-communication/)
+- Jun 28 - [GitJournal: Mobile first Markdown notes synchronized with Git](https://gitjournal.io/)
+- Jun 28 - [FTC Sues Walmart for Facilitating Money Transfer Fraud](https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-sues-walmart-facilitating-money-transfer-fraud-fleeced-customers-out-hundreds-millions)
+- Jun 28 - [1916: Ambassador Henry Morgenthau protests the expulsion of Armenians](https://www.laphamsquarterly.org/migration/deported)
 <!--END_SECTION:hn-->
 
 <!--
