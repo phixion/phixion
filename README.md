@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 28 - [Turn your conference talk into a blog post](https://herbertlui.net/conference-talk-blog-post-transcribe/)
-- Jun 28 - [Thunderbird 102 Released: A Serious Upgrade to Your Communication](https://blog.thunderbird.net/2022/06/thunderbird-102-released-a-serious-upgrade-to-your-communication/)
-- Jun 28 - [GitJournal: Mobile first Markdown notes synchronized with Git](https://gitjournal.io/)
-- Jun 28 - [FTC Sues Walmart for Facilitating Money Transfer Fraud](https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-sues-walmart-facilitating-money-transfer-fraud-fleeced-customers-out-hundreds-millions)
-- Jun 28 - [1916: Ambassador Henry Morgenthau protests the expulsion of Armenians](https://www.laphamsquarterly.org/migration/deported)
+- Jun 29 - [A Chinese woman wrote millions of words of fake Wikipedia history](https://www.sixthtone.com/news/1010653/she-spent-a-decade-writing-fake-russian-history.-wikipedia-just-noticed.-?source=channel_rising)
+- Jun 29 - [Ask HN: Has your total compensation drastically changed with the stock downturn?](https://news.ycombinator.com/item?id=31915836)
+- Jun 29 - [10 Years of Meteor: My experience with a pioneering JavaScript framework](https://meteor10.sachagreif.com/)
+- Jun 29 - [Generating Children’s Stories Using GPT-3 and DALL·E](https://www.surgehq.ai//blog/generating-childrens-stories-using-gpt-3-and-dall-e)
+- Jun 29 - [Analyze OpenBSD’s Kernel with Domain-Specific Knowledge](https://medium.com/@chrissicool/analyze-openbsds-kernel-with-domain-specific-knowledge-ca665d92eebb)
 <!--END_SECTION:hn-->
 
 <!--
