@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 29 - [Linear Address Spaces: Unsafe at any speed](https://queue.acm.org/detail.cfm?id=3534854)
-- Jun 29 - [Substack is laying off 14% of its staff](https://www.nytimes.com/2022/06/29/business/media/substack-layoffs.html)
-- Jun 29 - [FCC asks Google, Apple to remove TikTok](https://www.cbc.ca/news/business/tiktok-fcc-1.6505269)
-- Jun 29 - [Things I wish everyone knew about Git (Part I)](https://blog.plover.com/2022/06/29/#tips)
-- Jun 29 - [GiveCampus (YC S15) is hiring a senior site reliability engineer](https://jobs.lever.co/givecampus/e7ae4695-e4d6-4ed0-b16f-f489a8f2382d)
+- Jun 29 - [Mimic 3 by Mycroft](https://mycroft.ai/blog/introducing-mimic-3/)
+- Jun 29 - [Shrugs.app – A native Slack client for macOS](https://shrugs.app/)
+- Jun 29 - [Show HN: Calculator for US Individual Income tax, from 1970-present](https://news.ycombinator.com/item?id=31925871)
+- Jun 29 - [Mastering Nim – now available on Amazon](https://nim-lang.org/blog/2022/06/29/mastering-nim.html)
+- Jun 29 - [Reverie Labs (YC W18) is hiring software engineers to develop cancer therapies](https://www.reverielabs.com/careers)
 <!--END_SECTION:hn-->
 
 <!--
