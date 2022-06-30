@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 30 - [Belief in AI sentience is becoming a problem](https://www.reuters.com/technology/its-alive-how-belief-ai-sentience-is-becoming-problem-2022-06-30/)
-- Jun 30 - [OpenBSD has two new C compilers: chibicc and kefir](https://briancallahan.net/blog/20220629.html)
-- Jun 30 - [Ask HN: Do you trust solo entrepreneurs?](https://news.ycombinator.com/item?id=31930460)
-- Jun 30 - [Unity is laying off hundreds of employees](https://www.protocol.com/bulletins/unity-layoffs-game-engine)
-- Jun 30 - [Swedish Radio created fake pharmacy, reveals how Facebook stored sensitive data](https://sverigesradio.se/artikel/swedish-radio-created-fake-pharmacy-reveals-how-facebook-stored-sensitive-information)
+- Jun 30 - [App School Live](https://developers.urbit.org/blog/asl-announce)
+- Jun 30 - [Supreme Court limits EPA’s power to cut emissions](https://www.bbc.com/news/science-environment-62000742)
+- Jun 30 - [Show HN: Featureform – An open-source Feature Store for ML](https://github.com/featureform/featureform)
+- Jun 30 - [MIT engineers fly first-ever plane with no moving parts (2018)](https://news.mit.edu/2018/first-ionic-wind-plane-no-moving-parts-1121)
+- Jun 30 - [Coinbase is reportedly selling geolocation data to ICE](https://www.coindesk.com/business/2022/06/29/coinbase-is-reportedly-selling-geo-location-data-to-ice/)
 <!--END_SECTION:hn-->
 
 <!--
