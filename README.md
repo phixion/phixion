@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 30 - [App School Live](https://developers.urbit.org/blog/asl-announce)
-- Jun 30 - [Supreme Court limits EPA’s power to cut emissions](https://www.bbc.com/news/science-environment-62000742)
-- Jun 30 - [Show HN: Featureform – An open-source Feature Store for ML](https://github.com/featureform/featureform)
-- Jun 30 - [MIT engineers fly first-ever plane with no moving parts (2018)](https://news.mit.edu/2018/first-ionic-wind-plane-no-moving-parts-1121)
-- Jun 30 - [Coinbase is reportedly selling geolocation data to ICE](https://www.coindesk.com/business/2022/06/29/coinbase-is-reportedly-selling-geo-location-data-to-ice/)
+- Jun 30 - [Historic Rotterdam bridge won't be dismantled for Jeff Bezos superyacht](https://nltimes.nl/2022/06/30/historic-rotterdam-bridge-wont-dismantled-jeff-bezos-superyacht-worth-eu430m)
+- Jun 30 - [RISC-V is getting MSIs](https://blog.stephenmarz.com/2022/06/30/msi/)
+- Jun 30 - [Extreme heat, drought will permanently scar California and its social fabric](https://www.latimes.com/environment/story/2022-06-30/aridification-kills-civilizations-is-california-next)
+- Jun 30 - [Show HN: UI Filler – placeholders for your designs](https://www.uifiller.com)
+- Jun 30 - [How a controversial shipping law is swaying the price of gas](https://www.freightwaves.com/news/how-a-controversial-shipping-law-is-swaying-the-price-of-gas)
 <!--END_SECTION:hn-->
 
 <!--
