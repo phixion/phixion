@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 01 - [Star Minecraft mod creator Techoblade dies after cancer battle](https://dotesports.com/news/minecraft-content-creator-technoblade-has-died-following-battle-with-cancer)
+- Jul 01 - [Open source body quits GitHub, urges you to do the same](https://www.theregister.com/2022/06/30/software_freedom_conservancy_quits_github/)
+- Jul 01 - [What Metric to Use When Benchmarking?](https://tratt.net/laurie/blog/2022/what_metric_to_use_when_benchmarking.html)
+- Jul 01 - [Minecraft content creator Technoblade has died](https://dotesports.com/news/minecraft-content-creator-technoblade-has-died-following-battle-with-cancer)
 - Jul 01 - [Doom Builder](http://doombuilder.com/)
-- Jul 01 - [Severe thermal throttling discovered in Apple's M2 MacBook Pro](https://twitter.com/VadimYuryev/status/1542188250697039872)
-- Jul 01 - [Use of special characters in usernames on YouTube has been limited](https://support.google.com/youtube/thread/169359445/updates-to-reduce-comment-spam-and-impersonation-on-youtube?hl=en)
-- Jun 30 - [Pronunciation Guide for Unix](https://ss64.com/bash/syntax-pronounce.html)
+- Jul 01 - [Meta slashes hiring plans, girds for 'fierce' headwinds](https://www.reuters.com/technology/exclusive-meta-girds-fierce-headwinds-slower-growth-second-half-memo-2022-06-30/)
 <!--END_SECTION:hn-->
 
 <!--
