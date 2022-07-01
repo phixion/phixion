@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 30 - [Driverless Robotaxi Fleet Paralyzed for Hours in San Francisco](https://thelastdriverlicenseholder.com/2022/06/29/driverless-robotaxi-fleet-paralyzed-for-hours-in-san-francisco/)
-- Jun 30 - [Mozilla and Google Objections Overruled on “Decentralized Identifiers” by W3C](https://www.w3.org/2022/06/DIDRecommendationDecision.html)
-- Jun 30 - [Logitech MX Products are incompatible with AirPods](https://support.logi.com/hc/en-001/community/posts/4419966780055-Mx-3-master-and-airpods-pro-microphone-issue)
-- Jun 30 - [Former Apple exec who enforced insider trading rules admits to insider trading](https://9to5mac.com/2022/06/30/former-apple-exec-admits-to-insider-trading/)
-- Jun 30 - [The popularity of country music in rural sub Saharan Africa](https://twitter.com/RisenChow/status/1542564697353895941)
+- Jul 01 - [Star Minecraft mod creator Techoblade dies after cancer battle](https://dotesports.com/news/minecraft-content-creator-technoblade-has-died-following-battle-with-cancer)
+- Jul 01 - [Doom Builder](http://doombuilder.com/)
+- Jul 01 - [Severe thermal throttling discovered in Apple's M2 MacBook Pro](https://twitter.com/VadimYuryev/status/1542188250697039872)
+- Jul 01 - [Use of special characters in usernames on YouTube has been limited](https://support.google.com/youtube/thread/169359445/updates-to-reduce-comment-spam-and-impersonation-on-youtube?hl=en)
+- Jun 30 - [Pronunciation Guide for Unix](https://ss64.com/bash/syntax-pronounce.html)
 <!--END_SECTION:hn-->
 
 <!--
