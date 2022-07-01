@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 01 - [Open source body quits GitHub, urges you to do the same](https://www.theregister.com/2022/06/30/software_freedom_conservancy_quits_github/)
-- Jul 01 - [What Metric to Use When Benchmarking?](https://tratt.net/laurie/blog/2022/what_metric_to_use_when_benchmarking.html)
-- Jul 01 - [Minecraft content creator Technoblade has died](https://dotesports.com/news/minecraft-content-creator-technoblade-has-died-following-battle-with-cancer)
-- Jul 01 - [Doom Builder](http://doombuilder.com/)
-- Jul 01 - [Meta slashes hiring plans, girds for 'fierce' headwinds](https://www.reuters.com/technology/exclusive-meta-girds-fierce-headwinds-slower-growth-second-half-memo-2022-06-30/)
+- Jul 01 - [UPchieve (Edtech Nonprofit, YC W21) is hiring our first product lead](https://upchieve.welcomekit.co/)
+- Jul 01 - [Indonesia: The most amazing development story on Earth?](https://noahpinion.substack.com/p/indonesia-the-most-amazing-development)
+- Jul 01 - [YouTube BANNED my Debunking Video but leaves DEADLY how-to vids online, 34 dead](https://www.youtube.com/watch?v=GZrynWtBDTE)
+- Jul 01 - [Germany’s move to legalise cannabis expected to create ‘domino effect’](https://www.theguardian.com/world/2022/jul/01/germanys-move-to-legalise-cannabis-expected-to-create-domino-effect)
+- Jul 01 - [If-im-gone – A cheat sheet for if I am somehow incapacitated](https://github.com/christophercalm/if-im-gone)
 <!--END_SECTION:hn-->
 
 <!--
