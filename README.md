@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 30 - [Historic Rotterdam bridge won't be dismantled for Jeff Bezos superyacht](https://nltimes.nl/2022/06/30/historic-rotterdam-bridge-wont-dismantled-jeff-bezos-superyacht-worth-eu430m)
-- Jun 30 - [RISC-V is getting MSIs](https://blog.stephenmarz.com/2022/06/30/msi/)
-- Jun 30 - [Extreme heat, drought will permanently scar California and its social fabric](https://www.latimes.com/environment/story/2022-06-30/aridification-kills-civilizations-is-california-next)
-- Jun 30 - [Show HN: UI Filler – placeholders for your designs](https://www.uifiller.com)
-- Jun 30 - [How a controversial shipping law is swaying the price of gas](https://www.freightwaves.com/news/how-a-controversial-shipping-law-is-swaying-the-price-of-gas)
+- Jun 30 - [Driverless Robotaxi Fleet Paralyzed for Hours in San Francisco](https://thelastdriverlicenseholder.com/2022/06/29/driverless-robotaxi-fleet-paralyzed-for-hours-in-san-francisco/)
+- Jun 30 - [Mozilla and Google Objections Overruled on “Decentralized Identifiers” by W3C](https://www.w3.org/2022/06/DIDRecommendationDecision.html)
+- Jun 30 - [Logitech MX Products are incompatible with AirPods](https://support.logi.com/hc/en-001/community/posts/4419966780055-Mx-3-master-and-airpods-pro-microphone-issue)
+- Jun 30 - [Former Apple exec who enforced insider trading rules admits to insider trading](https://9to5mac.com/2022/06/30/former-apple-exec-admits-to-insider-trading/)
+- Jun 30 - [The popularity of country music in rural sub Saharan Africa](https://twitter.com/RisenChow/status/1542564697353895941)
 <!--END_SECTION:hn-->
 
 <!--
