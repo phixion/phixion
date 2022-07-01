@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 01 - [UPchieve (Edtech Nonprofit, YC W21) is hiring our first product lead](https://upchieve.welcomekit.co/)
-- Jul 01 - [Indonesia: The most amazing development story on Earth?](https://noahpinion.substack.com/p/indonesia-the-most-amazing-development)
-- Jul 01 - [YouTube BANNED my Debunking Video but leaves DEADLY how-to vids online, 34 dead](https://www.youtube.com/watch?v=GZrynWtBDTE)
-- Jul 01 - [Germany’s move to legalise cannabis expected to create ‘domino effect’](https://www.theguardian.com/world/2022/jul/01/germanys-move-to-legalise-cannabis-expected-to-create-domino-effect)
-- Jul 01 - [If-im-gone – A cheat sheet for if I am somehow incapacitated](https://github.com/christophercalm/if-im-gone)
+- Jul 01 - [Ask HN: If you’ve considered homeschooling, what’s stopping you?](https://news.ycombinator.com/item?id=31947895)
+- Jul 01 - [56% of employee won’t even consider a workplace that doesn’t share their value](https://www.cnbc.com/2022/07/01/most-workers-want-their-employer-to-share-their-values.html)
+- Jul 01 - [Ask HN: Who is hiring? (July 2022)](https://news.ycombinator.com/item?id=31947297)
+- Jul 01 - [Ask HN: Who wants to be hired? (July 2022)](https://news.ycombinator.com/item?id=31947295)
+- Jul 01 - [How Hong Kong became a police state](https://www.economist.com/interactive/essay/2022/07/01/how-hong-kong-became-a-police-state)
 <!--END_SECTION:hn-->
 
 <!--
