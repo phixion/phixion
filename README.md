@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 02 - [Draftbit (YC W18) Is Hiring Senior Engineers (TypeScript, React Native, GraphQL)](https://www.ycombinator.com/companies/draftbit/jobs/Fj0Gn7Y8I-senior-software-engineer)
-- Jul 02 - [Ask HN: Am I incompotent for web development?](https://news.ycombinator.com/item?id=31957863)
-- Jul 02 - [How does a USB keyboard work? (2021) [video]](https://www.youtube.com/watch?v=wdgULBpRoXk)
-- Jul 02 - [Rich Hickey – Open Source is Not About You (2018)](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)
-- Jul 02 - [Scunthorpe Sans, A font that censors bad language automatically](https://vole.wtf/scunthorpe-sans/)
+- Jul 02 - [Pentagon UFO study led by researcher who believes in the supernatural](https://www.science.org/content/article/pentagon-ufo-study-led-researcher-who-believes-supernatural#.YsBXmQjyu2A.twitter)
+- Jul 02 - [“Yahoo admits mangling email” (2002)](https://web.archive.org/web/20210126143212/http://news.bbc.co.uk/2/hi/science/nature/2138014.stm)
+- Jul 02 - [What do lawyers do?](https://nihal.bearblog.dev/what-do-lawyers-do/)
+- Jul 02 - [The new wave of React state management](https://frontendmastery.com/posts/the-new-wave-of-react-state-management/)
+- Jul 02 - [RadioShack reinvents itself as a crypto platform with wild tweets](https://www.washingtonpost.com/business/2022/07/01/radio-shack-tweets/)
 <!--END_SECTION:hn-->
 
 <!--
