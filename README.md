@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 01 - [386MAX released under GPL v3 License](https://github.com/sudleyplace/DPMIONE/issues/3)
+- Jul 02 - [Tailscale ate my network (and I love it)](https://smackeyacky.blogspot.com/2022/07/tailscale-ate-my-network-and-i-love-it.html)
+- Jul 02 - [Some CyberPower UPSes may pose a fire hazard](https://forums.redflagdeals.com/some-cyberpower-upses-may-pose-fire-hazard-2516306/)
 - Jul 01 - [Google will remove user location history for abortion clinic visits](https://www.washingtonpost.com/technology/2022/07/01/google-abortion/)
-- Jul 01 - [You're Not Allowed to Have the Best Sunscreens in the World](https://www.theatlantic.com/technology/archive/2022/07/us-sunscreen-ingredients-outdated-technology-better-eu-asia/661433/)
+- Jul 01 - [Newer, better sunscreens have not been approved by the FDA](https://www.theatlantic.com/technology/archive/2022/07/us-sunscreen-ingredients-outdated-technology-better-eu-asia/661433/)
 - Jul 01 - [American Seating’s original and largest market was school furniture](https://twitter.com/JoshLipnik/status/1542324147027644418)
-- Jul 01 - [Virgil: A fast and lightweight programming language that compiles to WASM](https://github.com/titzer/virgil)
 <!--END_SECTION:hn-->
 
 <!--
