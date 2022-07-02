@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 01 - [1955 warrant in Emmett Till case found, family seeks arrest](https://apnews.com/article/arrests-mississippi-kidnapping-emmett-till-49708de557faf747ec3e9fa8c021e9cd)
-- Jul 01 - [Meal Kit company sued by customers whose gallbladders were removed](https://www.cnn.com/2022/07/01/tech/daily-harvest-recall-lawsuits/index.html)
-- Jul 01 - [BMW is switching from Linux to Android Automotive next year](https://www.androidpolice.com/bmw-android-automotive/)
-- Jul 01 - [Uzi Nissan (Nissan.com) died of Covid July 2020 and the website is now down](http://www.nissan.com/)
-- Jul 01 - [What's the deal with all those weird wrong-number texts?](https://maxread.substack.com/p/whats-the-deal-with-all-those-weird)
+- Jul 01 - [386MAX released under GPL v3 License](https://github.com/sudleyplace/DPMIONE/issues/3)
+- Jul 01 - [Google will remove user location history for abortion clinic visits](https://www.washingtonpost.com/technology/2022/07/01/google-abortion/)
+- Jul 01 - [You're Not Allowed to Have the Best Sunscreens in the World](https://www.theatlantic.com/technology/archive/2022/07/us-sunscreen-ingredients-outdated-technology-better-eu-asia/661433/)
+- Jul 01 - [American Seating’s original and largest market was school furniture](https://twitter.com/JoshLipnik/status/1542324147027644418)
+- Jul 01 - [Virgil: A fast and lightweight programming language that compiles to WASM](https://github.com/titzer/virgil)
 <!--END_SECTION:hn-->
 
 <!--
