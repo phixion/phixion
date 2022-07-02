@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 02 - [Pentagon UFO study led by researcher who believes in the supernatural](https://www.science.org/content/article/pentagon-ufo-study-led-researcher-who-believes-supernatural#.YsBXmQjyu2A.twitter)
-- Jul 02 - [“Yahoo admits mangling email” (2002)](https://web.archive.org/web/20210126143212/http://news.bbc.co.uk/2/hi/science/nature/2138014.stm)
-- Jul 02 - [What do lawyers do?](https://nihal.bearblog.dev/what-do-lawyers-do/)
-- Jul 02 - [The new wave of React state management](https://frontendmastery.com/posts/the-new-wave-of-react-state-management/)
-- Jul 02 - [RadioShack reinvents itself as a crypto platform with wild tweets](https://www.washingtonpost.com/business/2022/07/01/radio-shack-tweets/)
+- Jul 02 - [Event-level prediction of urban crime reveals a enforcement bias in US cities](https://www.nature.com/articles/s41562-022-01372-0)
+- Jul 02 - [The Bullshit Web (2018)](https://pxlnv.com/blog/bullshit-web/)
+- Jul 02 - [Bureaucratic processes typically involve a person new to the process](https://graphthinking.blogspot.com/2022/07/bureaucratic-processes-typically.html)
+- Jul 02 - [Google now deleting health clinic searches from location history automatically](https://blog.google/technology/safety-security/protecting-peoples-privacy-on-health-topics/)
+- Jul 02 - [darktable 4.0.0 released](https://www.darktable.org/2022/07/darktable-4.0.0-released/)
 <!--END_SECTION:hn-->
 
 <!--
