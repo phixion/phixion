@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 02 - [Event-level prediction of urban crime reveals a enforcement bias in US cities](https://www.nature.com/articles/s41562-022-01372-0)
-- Jul 02 - [The Bullshit Web (2018)](https://pxlnv.com/blog/bullshit-web/)
-- Jul 02 - [Bureaucratic processes typically involve a person new to the process](https://graphthinking.blogspot.com/2022/07/bureaucratic-processes-typically.html)
-- Jul 02 - [Google now deleting health clinic searches from location history automatically](https://blog.google/technology/safety-security/protecting-peoples-privacy-on-health-topics/)
-- Jul 02 - [darktable 4.0.0 released](https://www.darktable.org/2022/07/darktable-4.0.0-released/)
+- Jul 02 - [Adventures with Verizon FiOS IPv6](https://git.hardenedbsd.org/shawn.webb/articles/-/blob/master/personal/2022-07-02_verizon/article.md)
+- Jul 02 - [The dawning of the Age of Apple Aquarius (2019)](http://tenfourfox.blogspot.com/2019/12/and-now-for-something-completely_29.html)
+- Jul 02 - [Dependabot alerts paused for malware advisories](https://github.blog/changelog/2022-07-01-dependabot-alerts-paused-for-malware-advisories/)
+- Jul 02 - [Skio (YC S20) is hiring in NYC – subscriptions for Shopify, ReCharge migrations](https://skio.com/careers/)
+- Jul 02 - [AWS Nuke – delete all resources associated with AWS account](https://github.com/rebuy-de/aws-nuke)
 <!--END_SECTION:hn-->
 
 <!--
