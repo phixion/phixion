@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 03 - [Norwegian Meteorological Institute has an excellent free weather API](https://developer.yr.no/)
-- Jul 03 - [Stacker (YC S20) Is Hiring for Product Engineer's](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
-- Jul 03 - [StrictYAML](https://hitchdev.com/strictyaml/)
-- Jul 03 - [Ask HN: What exactly Is a Mindfulness Meditation?](https://news.ycombinator.com/item?id=31965367)
-- Jul 03 - [I Fart in Your General Direction](https://aspectsofhistory.com/i-fart-in-your-general-direction/)
+- Jul 03 - [The Muse (YC W12) Is Growing Our Platform Engineering Team](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
+- Jul 03 - [Couch to 64k, a.k.a. Building a Z80 Breadboard Computer (2020)](http://bread80.com/2020/07/24/couch-to-64k-a-k-a-building-a-z80-breadboard-computer-part-1-pins/)
+- Jul 03 - [Asset-Level Transition Risk in the Global Coal, Oil, and Gas Supply Chains](https://github.com/Lkruitwagen/global-fossil-fuel-supply-chain)
+- Jul 03 - [Code replay attack on the myGovID Scheme](https://www.thinkingcybersecurity.com/DigitalID/)
+- Jul 03 - [Operation Gunman – how the Soviets bugged IBM typewriters (2015)](https://www.cryptomuseum.com/covert/bugs/selectric/)
 <!--END_SECTION:hn-->
 
 <!--
