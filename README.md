@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 03 - [The Muse (YC W12) Is Growing Our Platform Engineering Team](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
-- Jul 03 - [Couch to 64k, a.k.a. Building a Z80 Breadboard Computer (2020)](http://bread80.com/2020/07/24/couch-to-64k-a-k-a-building-a-z80-breadboard-computer-part-1-pins/)
-- Jul 03 - [Asset-Level Transition Risk in the Global Coal, Oil, and Gas Supply Chains](https://github.com/Lkruitwagen/global-fossil-fuel-supply-chain)
-- Jul 03 - [Code replay attack on the myGovID Scheme](https://www.thinkingcybersecurity.com/DigitalID/)
-- Jul 03 - [Operation Gunman – how the Soviets bugged IBM typewriters (2015)](https://www.cryptomuseum.com/covert/bugs/selectric/)
+- Jul 03 - [Visualizing quantum mechanics in an interactive simulation](https://lab.quantumflytrap.com/lab)
+- Jul 03 - [Ask HN: Sue after poorly managed SPAC?](https://news.ycombinator.com/item?id=31968258)
+- Jul 03 - [IPv4 Transfer Pricing](https://ipv4marketgroup.com/ipv4-pricing/)
+- Jul 03 - [Vite – Next Generation Front End Tooling](https://main.vitejs.dev/)
+- Jul 03 - [How To Know Everything](https://markgreville.ie/2022/06/22/book-summary-how-to-know-everything-by-elke-wiss/)
 <!--END_SECTION:hn-->
 
 <!--
