@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 03 - [Is the Ride over for Uber?](https://www.smartcompany.com.au/opinion/adam-schwab-is-the-ride-over-for-uber/)
-- Jul 03 - [Why nobody ever wins the car at the mall (2018)](https://thehustle.co/why-nobody-ever-wins-the-mall-car-giveaway/)
-- Jul 03 - [Gitlab Architecture Overview](https://docs.gitlab.com/ee/development/architecture.html)
-- Jul 03 - [Quantum mechanics and Tomb Raider (2007)](https://terrytao.wordpress.com/2007/02/26/quantum-mechanics-and-tomb-raider/)
-- Jul 03 - [Pirate Library Mirror: Preserving 7TB of books (that are not in Libgen)](http://pilimi.org/blog-introducing.html)
+- Jul 04 - [macOS: App Sandboxing via Sandbox-Exec](https://www.karltarvas.com/2020/10/25/macos-app-sandboxing-via-sandbox-exec.html)
+- Jul 04 - [The Pixel 6 Pro has the worst connectivity and reception of any phone I've used](https://www.androidauthority.com/pixel-6-pro-connectivity-issues-3181350/)
+- Jul 04 - [Popcorn Time Is Back](https://github.com/popcorn-official/popcorn-android/releases/tag/v0.3.5)
+- Jul 04 - [Goodbye Medium, hello Ghost](https://cryptofireside.com/goodbye-medium-hello-ghost-57c9b6d7349e)
+- Jul 04 - [Longitudinal cohort study of the displacement of teaspoons (2005)](https://www.bmj.com/content/331/7531/1498)
 <!--END_SECTION:hn-->
 
 <!--
