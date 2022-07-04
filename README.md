@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 04 - [Eiffel Tower riddled with rust and in need of repair, leaked reports say](https://www.theguardian.com/world/2022/jul/04/eiffel-tower-riddled-with-rust-and-in-need-of-repair-leaked-reports-say)
-- Jul 04 - [Tiny Core Linux 13.0 is a full Linux desktop in 22 MB](https://blog.adafruit.com/2022/02/11/tiny-core-linux-13-0-is-a-full-linux-desktop-in-22-mb-linux/)
-- Jul 04 - [Mendon, Missouri](https://seandietrich.com/mendon-missouri/)
-- Jul 04 - [The local news crisis is deepening America's divides](https://www.axios.com/2022/07/04/local-newspapers-news-deserts)
-- Jul 04 - [Ask HN: First-time dad-to-be. What do you wish you'd known back then?](https://news.ycombinator.com/item?id=31976803)
+- Jul 04 - [Raspberry Pico-based 100-Msps logic analyzer](https://github.com/gusmanb/logicanalyzer)
+- Jul 04 - [Delayed Messages on iOS](http://caleb.software/posts/ios-delayed-messages.html)
+- Jul 04 - [The Materials Project](https://materialsproject.org/)
+- Jul 04 - [Europeans will be able to unsubscribe from Prime with two clicks](https://www.theguardian.com/technology/2022/jul/04/uk-subscribers-will-soon-be-able-to-leave-amazon-prime-in-two-clicks)
+- Jul 04 - [Cow Clicker (2010)](http://www.cowclicker.com/)
 <!--END_SECTION:hn-->
 
 <!--
