@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 04 - [Raspberry Pico-based 100-Msps logic analyzer](https://github.com/gusmanb/logicanalyzer)
-- Jul 04 - [Delayed Messages on iOS](http://caleb.software/posts/ios-delayed-messages.html)
-- Jul 04 - [The Materials Project](https://materialsproject.org/)
-- Jul 04 - [Europeans will be able to unsubscribe from Prime with two clicks](https://www.theguardian.com/technology/2022/jul/04/uk-subscribers-will-soon-be-able-to-leave-amazon-prime-in-two-clicks)
-- Jul 04 - [Cow Clicker (2010)](http://www.cowclicker.com/)
+- Jul 04 - [Peter Thiel-Backed Crypto Lender Vauld Suspends Withdrawals](https://www.wsj.com/articles/peter-thiel-backed-crypto-lender-vauld-suspends-withdrawals-11656945617)
+- Jul 04 - [Linux Kernel vs. DPDK: HTTP Performance Showdown](https://talawah.io/blog/linux-kernel-vs-dpdk-http-performance-showdown/)
+- Jul 04 - [SQLGlot: SQL parser, transpiler, optimizer – translate to Presto, Spark, Hive](https://github.com/tobymao/sqlglot)
+- Jul 04 - [On the use of a life (2020)](https://www.daemonology.net/blog/2020-09-20-On-the-use-of-a-life.html)
+- Jul 04 - [Only 6.8% of adults have optimal cardiometabolic health](https://www.jacc.org/doi/10.1016/j.jacc.2022.04.046)
 <!--END_SECTION:hn-->
 
 <!--
