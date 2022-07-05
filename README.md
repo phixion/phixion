@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 04 - [Peter Thiel-Backed Crypto Lender Vauld Suspends Withdrawals](https://www.wsj.com/articles/peter-thiel-backed-crypto-lender-vauld-suspends-withdrawals-11656945617)
-- Jul 04 - [Linux Kernel vs. DPDK: HTTP Performance Showdown](https://talawah.io/blog/linux-kernel-vs-dpdk-http-performance-showdown/)
-- Jul 04 - [SQLGlot: SQL parser, transpiler, optimizer – translate to Presto, Spark, Hive](https://github.com/tobymao/sqlglot)
-- Jul 04 - [On the use of a life (2020)](https://www.daemonology.net/blog/2020-09-20-On-the-use-of-a-life.html)
-- Jul 04 - [Only 6.8% of adults have optimal cardiometabolic health](https://www.jacc.org/doi/10.1016/j.jacc.2022.04.046)
+- Jul 05 - [Zig is becoming more production-worthy (zigmonthly)](https://zigmonthly.org/letters/2022/may-june/)
+- Jul 05 - [Sadly, we can't check the app permissions on Google Play anymore](https://www.bluespace.tech/blog/google-play-permissions-list/)
+- Jul 05 - [Browsh is a fully-modern text-based browser](https://www.brow.sh/)
+- Jul 05 - [How CUDA Programming Works](https://www.nvidia.com/en-us/on-demand/session/gtcspring22-s41487/)
+- Jul 05 - [Everything Is Anime](https://animationobsessive.substack.com/p/everything-is-anime)
 <!--END_SECTION:hn-->
 
 <!--
