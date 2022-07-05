@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 05 - [Apple ][ "Lemmings" Proof of Concept](http://www.deater.net/weave/vmwprod/lemm/)
-- Jul 05 - [What comes after Git](https://matt-rickard.com/what-comes-after-git/)
-- Jul 05 - [My Preferred Smart Home Vendors](https://chrisx.xyz/blog/my-preferred-smart-home-vendors/)
-- Jul 05 - [My quest for the perfect window manager (2004)](http://ironphoenix.org/fvwm/)
-- Jul 05 - [How CUDA Programming Works](https://www.nvidia.com/en-us/on-demand/session/gtcspring22-s41487/)
+- Jul 05 - [SHGA Shanghai Gov National Police Database for sale (1B entries)](https://breached.to/Thread-Selling-2022-SHGA-Shanghai-Gov-National-Police-database)
+- Jul 05 - [Amazon spending $465M on season 1 of The Lord of the Rings series](https://winteriscoming.net/2021/04/19/amazon-spending-465-million-the-lord-of-the-rings-series-season-1/)
+- Jul 05 - [Selfhosting on Localhost](https://jo-m.ch/posts/2022/07/self-hosting-on-localhost/)
+- Jul 05 - [World’s Highest Website](https://worlds-highest-website.com)
+- Jul 05 - [FedEx to close data centers, retire all mainframes by 2024, saving $400m](https://www.datacenterdynamics.com/en/news/fedex-to-close-data-centers-retire-all-mainframes-by-2024-saving-400m/)
 <!--END_SECTION:hn-->
 
 <!--
