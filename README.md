@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 05 - [Zig is becoming more production-worthy (zigmonthly)](https://zigmonthly.org/letters/2022/may-june/)
-- Jul 05 - [Sadly, we can't check the app permissions on Google Play anymore](https://www.bluespace.tech/blog/google-play-permissions-list/)
-- Jul 05 - [Browsh is a fully-modern text-based browser](https://www.brow.sh/)
+- Jul 05 - [Apple ][ "Lemmings" Proof of Concept](http://www.deater.net/weave/vmwprod/lemm/)
+- Jul 05 - [What comes after Git](https://matt-rickard.com/what-comes-after-git/)
+- Jul 05 - [My Preferred Smart Home Vendors](https://chrisx.xyz/blog/my-preferred-smart-home-vendors/)
+- Jul 05 - [My quest for the perfect window manager (2004)](http://ironphoenix.org/fvwm/)
 - Jul 05 - [How CUDA Programming Works](https://www.nvidia.com/en-us/on-demand/session/gtcspring22-s41487/)
-- Jul 05 - [Everything Is Anime](https://animationobsessive.substack.com/p/everything-is-anime)
 <!--END_SECTION:hn-->
 
 <!--
