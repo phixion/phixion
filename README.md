@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 05 - [Compilers, Hands-Off My Hands-On Optimizations (2016) [pdf]](https://users.ece.cmu.edu/~franzf/papers/wpmvp16.pdf)
-- Jul 05 - [The SQLite Index Suggester](https://www.sqlite.org/cli.html#index_recommendations_sqlite_expert_)
-- Jul 05 - [PulseAudio and Systemd Creator, Lennart Poettering, Reportedly Leaves Red Hat](https://www.phoronix.com/scan.php?page=news_item&px=Lennart-Poettering-Out-Red-Hat)
-- Jul 05 - [Unraveling the linothorax mystery, or how linen armor came to dominate our lives (2013)](https://jhupress.wordpress.com/2013/04/24/unraveling-the-linothorax-mystery-or-how-linen-armor-came-to-dominate-our-lives/)
-- Jul 05 - [The golden age of the aging actor](https://www.theringer.com/movies/2022/6/27/23181232/old-actors-aging-tom-cruise-top-gun-maverick)
+- Jul 05 - [An Ubuntu kernel bug causes container crashes](https://lwn.net/SubscriberLink/899420/1f0179b2d946d7b7/)
+- Jul 05 - [Lurk – Language for Recursive ZK-SNARKs Inspired by Common Lisp and Scheme](https://github.com/lurk-lang)
+- Jul 05 - [Crypto’s last man standing](https://www.economist.com/finance-and-economics/2022/07/05/cryptos-last-man-standing)
+- Jul 05 - [I don't care how you web dev; I just need more better web apps](https://www.baldurbjarnason.com/2022/more-better-web-apps/)
+- Jul 05 - [OpenSSL Security Advisory [5 July 2022]](https://www.openssl.org/news/secadv/20220705.txt)
 <!--END_SECTION:hn-->
 
 <!--
