@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 06 - [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/)
-- Jul 06 - [GTA GeoGuesser](https://gta-geoguesser.com/index.html/)
-- Jul 06 - [New cars will stop drivers from speeding under European laws](https://www.drive.com.au/news/new-cars-will-stop-drivers-from-speeding/)
-- Jul 06 - [Ask HN: Why do you use a VPN?](https://news.ycombinator.com/item?id=31996114)
-- Jul 05 - [An Ubuntu kernel bug causes container crashes](https://lwn.net/SubscriberLink/899420/1f0179b2d946d7b7/)
+- Jul 06 - [Quebec Sovereignty Movement](https://en.wikipedia.org/wiki/Quebec_sovereignty_movement)
+- Jul 06 - [Genei (YC S21) Is Hiring NLP Research and FullStack Engineers](https://www.ycombinator.com/companies/genei/jobs)
+- Jul 06 - [Tesla is no longer the largest EV producer](https://www.axios.com/2022/07/05/byd-tesla-ev-elon-musk-warren-buffett)
+- Jul 06 - [It’s 1997 and you want to build a website](https://thehistoryoftheweb.com/postscript/its-1997-and-you-want-to-build-a-website/)
+- Jul 06 - [Did the early medieval era ever take place?](https://jonn.substack.com/p/did-the-early-medieval-era-ever-really)
 <!--END_SECTION:hn-->
 
 <!--
