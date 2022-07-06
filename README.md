@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 06 - [Quebec Sovereignty Movement](https://en.wikipedia.org/wiki/Quebec_sovereignty_movement)
-- Jul 06 - [Genei (YC S21) Is Hiring NLP Research and FullStack Engineers](https://www.ycombinator.com/companies/genei/jobs)
-- Jul 06 - [Tesla is no longer the largest EV producer](https://www.axios.com/2022/07/05/byd-tesla-ev-elon-musk-warren-buffett)
-- Jul 06 - [It’s 1997 and you want to build a website](https://thehistoryoftheweb.com/postscript/its-1997-and-you-want-to-build-a-website/)
-- Jul 06 - [Did the early medieval era ever take place?](https://jonn.substack.com/p/did-the-early-medieval-era-ever-really)
+- Jul 06 - [Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
+- Jul 06 - [Ask HN: What type of lamp (or light/lumen) do you use in your home office?](https://news.ycombinator.com/item?id=31999000)
+- Jul 06 - [Baserow challenges Airtable with an open source no-code database platform](https://techcrunch.com/2022/07/05/baserow-challenges-airtable-with-an-open-source-no-code-database-platform/)
+- Jul 06 - [Auto manufacturer family tree: Who owns what?](https://www.whichcar.com.au/car-advice/car-manufacturer-brands-family-tree)
+- Jul 06 - [Emacs’s Builtin Elisp Cheat Sheet](https://www.masteringemacs.org/article/emacs-builtin-elisp-cheat-sheet)
 <!--END_SECTION:hn-->
 
 <!--
