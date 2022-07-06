@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 06 - [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/)
+- Jul 06 - [GTA GeoGuesser](https://gta-geoguesser.com/index.html/)
+- Jul 06 - [New cars will stop drivers from speeding under European laws](https://www.drive.com.au/news/new-cars-will-stop-drivers-from-speeding/)
+- Jul 06 - [Ask HN: Why do you use a VPN?](https://news.ycombinator.com/item?id=31996114)
 - Jul 05 - [An Ubuntu kernel bug causes container crashes](https://lwn.net/SubscriberLink/899420/1f0179b2d946d7b7/)
-- Jul 05 - [Lurk – Language for Recursive ZK-SNARKs Inspired by Common Lisp and Scheme](https://github.com/lurk-lang)
-- Jul 05 - [Crypto’s last man standing](https://www.economist.com/finance-and-economics/2022/07/05/cryptos-last-man-standing)
-- Jul 05 - [I don't care how you web dev; I just need more better web apps](https://www.baldurbjarnason.com/2022/more-better-web-apps/)
-- Jul 05 - [OpenSSL Security Advisory [5 July 2022]](https://www.openssl.org/news/secadv/20220705.txt)
 <!--END_SECTION:hn-->
 
 <!--
