@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 07 - [Why DRY is the most over-rated programming principle](https://gordonc.bearblog.dev/dry-most-over-rated-programming-principle/)
+- Jul 07 - [Playstation Store removes Studiocanal movies, no refunds offered](https://www.gameshub.com/news/news/playstation-store-studio-canal-movies-germany-austria-23400/)
+- Jul 07 - [WxWidgets 3.2.0 Released](https://wxwidgets.org/news/2022/07/wxwidgets-3.2.0-final-release/)
 - Jul 07 - [Music for Programming](https://musicforprogramming.net/)
 - Jul 07 - [Nanoparticle Vaccine Protects Against C19-Causing Variants and Related Viruses](https://www.caltech.edu/about/news/sars-coronavirus-variant-vaccine-bjorkman)
-- Jul 07 - [Life Stats](https://neal.fun/life-stats/)
-- Jul 07 - [Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=32008825)
-- Jul 07 - [I analyzed hospital price lists so you didn't have to](https://www.dolthub.com/blog/2022-07-01-hospitals-compliance/)
 <!--END_SECTION:hn-->
 
 <!--
