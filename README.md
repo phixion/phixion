@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 07 - [Why DRY is the most over-rated programming principle](https://gordonc.bearblog.dev/dry-most-over-rated-programming-principle/)
-- Jul 07 - [Playstation Store removes Studiocanal movies, no refunds offered](https://www.gameshub.com/news/news/playstation-store-studio-canal-movies-germany-austria-23400/)
-- Jul 07 - [WxWidgets 3.2.0 Released](https://wxwidgets.org/news/2022/07/wxwidgets-3.2.0-final-release/)
-- Jul 07 - [Music for Programming](https://musicforprogramming.net/)
-- Jul 07 - [Nanoparticle Vaccine Protects Against C19-Causing Variants and Related Viruses](https://www.caltech.edu/about/news/sars-coronavirus-variant-vaccine-bjorkman)
+- Jul 07 - [Explaining Ethereum's consensus mechanism after The Merge](https://0xfoobar.substack.com/p/ethereum-proof-of-stake)
+- Jul 07 - [‘Your Map Is Wrong’](https://p2p.ai/2022/06/27/your-map-is-wrong/)
+- Jul 07 - [The Art of Mac Malware: Volume I: Analysis](https://taomm.org/vol1/read.html)
+- Jul 07 - [Ask HN: What's is your go to toolset for simple front end development?](https://news.ycombinator.com/item?id=32011439)
+- Jul 07 - [4th Gen KDE Slimbook – Linux Ultrabook with an AMD Ryzen 7 5700U](https://kde.slimbook.es/)
 <!--END_SECTION:hn-->
 
 <!--
