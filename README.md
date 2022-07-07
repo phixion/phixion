@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 06 - [Space Force Launches New Intelligence Unit: Congress Voices Concerns over Growth](https://www.military.com/daily-news/2022/07/05/space-force-launches-new-intelligence-unit-congress-voices-concerns-over-growth.html)
-- Jul 06 - [Google ML Compiler Inlining Achieves 3-7% Reduction in Size](https://ai.googleblog.com/2022/07/mlgo-machine-learning-framework-for.html)
-- Jul 06 - [Alain de Botton on Existential Maturity and What Emotional Intelligence Means](https://www.themarginalian.org/2019/11/25/the-school-of-life-book/)
-- Jul 06 - [World’s first large-scale ‘sand battery’ goes online in Finland](https://www.energy-storage.news/worlds-first-large-scale-sand-battery-goes-online-in-finland/)
-- Jul 06 - [Charge Robotics (YC S21) is hiring a mechanical engineer](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
+- Jul 07 - [Music for Programming](https://musicforprogramming.net/)
+- Jul 07 - [Nanoparticle Vaccine Protects Against C19-Causing Variants and Related Viruses](https://www.caltech.edu/about/news/sars-coronavirus-variant-vaccine-bjorkman)
+- Jul 07 - [Life Stats](https://neal.fun/life-stats/)
+- Jul 07 - [Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=32008825)
+- Jul 07 - [I analyzed hospital price lists so you didn't have to](https://www.dolthub.com/blog/2022-07-01-hospitals-compliance/)
 <!--END_SECTION:hn-->
 
 <!--
