@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 07 - [Brain.js: GPU Accelerated Neural Networks in JavaScript](https://brain.js.org/#/)
-- Jul 07 - [Zrepl on Rsync.net](https://blog.lenny.ninja/zrepl-on-rsync-net.html)
-- Jul 07 - [Problems at Roblox](https://thebearcave.substack.com/p/problems-at-roblox-rblx)
-- Jul 07 - [Ask HN: Resources on learning System Design (back end/data engineering)?](https://news.ycombinator.com/item?id=32014658)
-- Jul 07 - [Ed is the standard text editor (2014)](https://wiki.c2.com/?EdIsTheStandardTextEditor)
+- Jul 07 - [Starlink Maritime](https://www.starlink.com/maritime)
+- Jul 07 - [SOC2: The Screenshots Will Continue Until Security Improves](https://fly.io/blog/soc2-the-screenshots-will-continue-until-security-improves/)
+- Jul 07 - [OrBit: New Undetected Linux Threat Uses Unique Hijack of Execution Flow](https://www.intezer.com/blog/incident-response/orbit-new-undetected-linux-threat/)
+- Jul 07 - [July 8 99% of the world’s population in sunlight simultaneously?](https://www.timeanddate.com/news/astronomy/99-percent-sunlight-july-8)
+- Jul 07 - [Homeland security workers indicted in scheme to silence China critics in U.S.](https://www.justice.gov/usao-edny/pr/five-individuals-indicted-crimes-related-transnational-repression-scheme-silence)
 <!--END_SECTION:hn-->
 
 <!--
