@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Jul 06 - [Mangatoon - 23,040,238 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Mangatoon)
 - Jul 04 - [Capital Economics - 263,829 breached accounts](https://haveibeenpwned.com/PwnedWebsites#CapialEconomics)
 - Jul 03 - [Bookchor - 498,297 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Bookchor)
 - Jul 03 - [Bourse des Vols - 1,460,130 breached accounts](https://haveibeenpwned.com/PwnedWebsites#BourseDesVols)
 - Jun 14 - [DivX SubTitles - 783,058 breached accounts](https://haveibeenpwned.com/PwnedWebsites#DivXSubTitles)
-- May 31 - [Adecco - 4,284,538 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Adecco)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 06 - [No Language Left Behind](https://ai.facebook.com/research/no-language-left-behind/)
-- Jul 06 - [GTK 5 might drop X11 support](https://www.theregister.com/2022/07/05/gtk_5_might_drop_x11/)
-- Jul 06 - [Show HN: C3 – A C alternative that looks like C](https://news.ycombinator.com/item?id=32005678)
-- Jul 06 - [Cubernetes](https://www.justingarrison.com/blog/2022-07-06-cubernetes/)
-- Jul 06 - [Ruby Shield: Shopify donates $1M to stewards of rubygems, bundler](http://rubycentral.org/ruby-shield)
+- Jul 06 - [Space Force Launches New Intelligence Unit: Congress Voices Concerns over Growth](https://www.military.com/daily-news/2022/07/05/space-force-launches-new-intelligence-unit-congress-voices-concerns-over-growth.html)
+- Jul 06 - [Google ML Compiler Inlining Achieves 3-7% Reduction in Size](https://ai.googleblog.com/2022/07/mlgo-machine-learning-framework-for.html)
+- Jul 06 - [Alain de Botton on Existential Maturity and What Emotional Intelligence Means](https://www.themarginalian.org/2019/11/25/the-school-of-life-book/)
+- Jul 06 - [World’s first large-scale ‘sand battery’ goes online in Finland](https://www.energy-storage.news/worlds-first-large-scale-sand-battery-goes-online-in-finland/)
+- Jul 06 - [Charge Robotics (YC S21) is hiring a mechanical engineer](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
 <!--END_SECTION:hn-->
 
 <!--
