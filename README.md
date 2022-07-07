@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 07 - [Explaining Ethereum's consensus mechanism after The Merge](https://0xfoobar.substack.com/p/ethereum-proof-of-stake)
-- Jul 07 - [‘Your Map Is Wrong’](https://p2p.ai/2022/06/27/your-map-is-wrong/)
-- Jul 07 - [The Art of Mac Malware: Volume I: Analysis](https://taomm.org/vol1/read.html)
-- Jul 07 - [Ask HN: What's is your go to toolset for simple front end development?](https://news.ycombinator.com/item?id=32011439)
-- Jul 07 - [4th Gen KDE Slimbook – Linux Ultrabook with an AMD Ryzen 7 5700U](https://kde.slimbook.es/)
+- Jul 07 - [Brain.js: GPU Accelerated Neural Networks in JavaScript](https://brain.js.org/#/)
+- Jul 07 - [Zrepl on Rsync.net](https://blog.lenny.ninja/zrepl-on-rsync-net.html)
+- Jul 07 - [Problems at Roblox](https://thebearcave.substack.com/p/problems-at-roblox-rblx)
+- Jul 07 - [Ask HN: Resources on learning System Design (back end/data engineering)?](https://news.ycombinator.com/item?id=32014658)
+- Jul 07 - [Ed is the standard text editor (2014)](https://wiki.c2.com/?EdIsTheStandardTextEditor)
 <!--END_SECTION:hn-->
 
 <!--
