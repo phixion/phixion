@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 08 - [Lenovo shipping new laptops that only boot Windows by default](https://mjg59.dreamwidth.org/59931.html)
-- Jul 08 - [Hacker News was down](https://hackernews.onlineornot.com)
-- Jul 08 - [Two people in Tesla killed after crashing into parked semi at Florida rest stop](https://cdllife.com/2022/two-people-in-tesla-killed-after-crashing-into-parked-semi-at-florida-rest-stop/)
-- Jul 08 - [Apple, Google, Facebook's AV1 standards group under EU antitrust investigation](https://www.reuters.com/technology/exclusive-eu-antitrust-regulators-probing-tech-group-aoms-video-licensing-policy-2022-07-07/)
-- Jul 08 - [Show HN: I made an app to help insomniacs learn how to sleep again](https://slumber.one)
+- Jul 08 - [Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote)](https://www.svix.com/careers/?utm_source=news.ycombinator.com&utm_medium=referral&utm_campaign=hacker-news-jobs)
+- Jul 08 - [Why we're sticking with Ruby on Rails](https://about.gitlab.com/blog/2022/07/06/why-were-sticking-with-ruby-on-rails/)
+- Jul 08 - [Arizona passes law criminalizing recording of police (within 8 ft)](https://www.usatoday.com/story/news/nation/2022/07/07/arizona-recording-police-illegal/10009423002/)
+- Jul 08 - [Notepad++ v8.4.3: Unhappy Users' Edition](https://notepad-plus-plus.org/news/v843-unhappy-users-edition/)
+- Jul 08 - [Twitter lays off 30% of its talent acquisition team](https://techcrunch.com/2022/07/07/twitter-layoffs-talent-acquisition/)
 <!--END_SECTION:hn-->
 
 <!--
