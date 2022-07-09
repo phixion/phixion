@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 08 - [Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote)](https://www.svix.com/careers/?utm_source=news.ycombinator.com&utm_medium=referral&utm_campaign=hacker-news-jobs)
-- Jul 08 - [Why we're sticking with Ruby on Rails](https://about.gitlab.com/blog/2022/07/06/why-were-sticking-with-ruby-on-rails/)
-- Jul 08 - [Arizona passes law criminalizing recording of police (within 8 ft)](https://www.usatoday.com/story/news/nation/2022/07/07/arizona-recording-police-illegal/10009423002/)
-- Jul 08 - [Notepad++ v8.4.3: Unhappy Users' Edition](https://notepad-plus-plus.org/news/v843-unhappy-users-edition/)
-- Jul 08 - [Twitter lays off 30% of its talent acquisition team](https://techcrunch.com/2022/07/07/twitter-layoffs-talent-acquisition/)
+- Jul 08 - [Ask HN: HN is gone, now what?](https://news.ycombinator.com/item?id=32029405)
+- Jul 08 - [Switzerland Moves Ahead with Underground Autonomous Cargo Delivery](https://spectrum.ieee.org/cargo-sous-terrain)
+- Jul 08 - [Tooth Fairy Index](https://www.deltadental.com/us/en/tooth-fairy/the-original-poll.html)
+- Jul 08 - [Architecture Decisions in Neon](https://neon.tech/blog/architecture-decisions-in-neon/)
+- Jul 08 - [OCRmyPDF: Add an OCR text layer to scanned PDF file](https://ocrmypdf.readthedocs.io/en/latest/index.html)
 <!--END_SECTION:hn-->
 
 <!--
