@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 09 - [Ignition: An Informal History of Liquid Rocket Propellants (1972) [pdf]](https://library.sciencemadness.org/library/books/ignition.pdf)
-- Jul 09 - [LG 28-inch 16:18 DualUp Monitor](https://www.lg.com/us/monitors/lg-28mq780-b)
-- Jul 09 - [Ask HN: How would you bootstrap a telco? (re: Rogers outage)](https://news.ycombinator.com/item?id=32035633)
-- Jul 09 - [Why Linux Succeeded](https://riskmusings.substack.com/p/why-linux-succeeded-resilience-of)
-- Jul 09 - [Weedkiller ingredient tied to cancer found in 80% of US urine samples](https://www.theguardian.com/us-news/2022/jul/09/weedkiller-glyphosate-cdc-study-urine-samples)
+- Jul 09 - [Kate Bush’s Running Up That Hill Synth Sounds](https://reverbmachine.com/blog/kate-bush-running-up-that-hill-synth-sounds/)
+- Jul 09 - [Show HN: Copy React code from any site](https://sample-code.aspect.app)
+- Jul 09 - [Congratulations: We Now Have Opinions on Your Open Source Contributions](https://lucumr.pocoo.org/2022/7/9/congratulations/)
+- Jul 09 - [The Commodore Plus/4, 3-Plus-1 and computer literacy](http://oldvcr.blogspot.com/2021/08/the-commodore-plus4-3-plus-1-and.html)
+- Jul 09 - [Clipboard integration between tmux, nvim, zsh, x11, across SSH sessions](https://blog.landofcrispy.com/index.php/2021/01/06/clipboard-integration-between-tmux-nvim-zsh-x11-across-ssh-sessions/)
 <!--END_SECTION:hn-->
 
 <!--
