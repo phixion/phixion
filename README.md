@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 08 - [Ask HN: HN is gone, now what?](https://news.ycombinator.com/item?id=32029405)
-- Jul 08 - [Switzerland Moves Ahead with Underground Autonomous Cargo Delivery](https://spectrum.ieee.org/cargo-sous-terrain)
-- Jul 08 - [Tooth Fairy Index](https://www.deltadental.com/us/en/tooth-fairy/the-original-poll.html)
-- Jul 08 - [Architecture Decisions in Neon](https://neon.tech/blog/architecture-decisions-in-neon/)
-- Jul 08 - [OCRmyPDF: Add an OCR text layer to scanned PDF file](https://ocrmypdf.readthedocs.io/en/latest/index.html)
+- Jul 09 - [Why BART uses a nonstandard broad gauge](https://www.bart.gov/news/articles/2022/news20220708-2)
+- Jul 09 - [Tell HN: HN Moved from M5 to AWS](https://news.ycombinator.com/item?id=32030400)
+- Jul 09 - [Arizona makes it illegal for bystanders to record cops at close range](https://arstechnica.com/tech-policy/2022/07/arizona-makes-it-illegal-for-bystanders-to-record-cops-at-close-range/)
+- Jul 09 - [Einstein-Bohr debate settled once and for all](https://scottaaronson.blog/?p=6541)
+- Jul 09 - [FCC orders carriers to stop delivering auto warranty robocalls](https://www.upi.com/Top_News/US/2022/07/07/FCC-orders-carriers-stop-delivering-auto-warranty-robocalls/6041657245371/)
 <!--END_SECTION:hn-->
 
 <!--
