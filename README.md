@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 09 - [The genetic diversity underlying the mating system of shelf fungi](https://www.the-scientist.com/news-opinion/this-fungus-has-more-than-17-000-sexes-69930)
-- Jul 09 - [Amplify UI – Don't just prototype. Connect your UI to the cloud](https://ui.docs.amplify.aws)
-- Jul 09 - [Tiny Huts by MUJI (2017)](https://www.ignant.com/2017/12/12/tiny-huts-by-muji/)
-- Jul 09 - [System76 Lemur Pro Linux laptop with 14 hours of battery life](https://system76.com/laptops/lemur)
-- Jul 09 - [Best radios to use in an emergency (2021)](https://plannedemergency.com/best-radios-for-emergency-use/)
+- Jul 09 - [Ignition: An Informal History of Liquid Rocket Propellants (1972) [pdf]](https://library.sciencemadness.org/library/books/ignition.pdf)
+- Jul 09 - [LG 28-inch 16:18 DualUp Monitor](https://www.lg.com/us/monitors/lg-28mq780-b)
+- Jul 09 - [Ask HN: How would you bootstrap a telco? (re: Rogers outage)](https://news.ycombinator.com/item?id=32035633)
+- Jul 09 - [Why Linux Succeeded](https://riskmusings.substack.com/p/why-linux-succeeded-resilience-of)
+- Jul 09 - [Weedkiller ingredient tied to cancer found in 80% of US urine samples](https://www.theguardian.com/us-news/2022/jul/09/weedkiller-glyphosate-cdc-study-urine-samples)
 <!--END_SECTION:hn-->
 
 <!--
