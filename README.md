@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 09 - [Why BART uses a nonstandard broad gauge](https://www.bart.gov/news/articles/2022/news20220708-2)
-- Jul 09 - [Tell HN: HN Moved from M5 to AWS](https://news.ycombinator.com/item?id=32030400)
-- Jul 09 - [Arizona makes it illegal for bystanders to record cops at close range](https://arstechnica.com/tech-policy/2022/07/arizona-makes-it-illegal-for-bystanders-to-record-cops-at-close-range/)
-- Jul 09 - [Einstein-Bohr debate settled once and for all](https://scottaaronson.blog/?p=6541)
-- Jul 09 - [FCC orders carriers to stop delivering auto warranty robocalls](https://www.upi.com/Top_News/US/2022/07/07/FCC-orders-carriers-stop-delivering-auto-warranty-robocalls/6041657245371/)
+- Jul 09 - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+- Jul 09 - [Barbie Typewriter (2018)](https://www.cryptomuseum.com/crypto/mehano/barbie/)
+- Jul 09 - [AutoRegex](https://www.autoregex.xyz)
+- Jul 09 - [Programming Fonts](https://www.programmingfonts.org/)
+- Jul 09 - [Show HN: Logto, OSS to build sign-in experience and user identity within minutes](https://logto.io/)
 <!--END_SECTION:hn-->
 
 <!--
