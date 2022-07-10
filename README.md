@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 10 - [Spotify doesn't use the Spotify model (2020)](https://www.jeremiahlee.com/posts/failed-squad-goals/)
-- Jul 10 - [MIT scientists think they’ve discovered how to fully reverse climate change](https://bgr.com/science/mit-scientists-think-theyve-discovered-how-to-fully-reverse-climate-change/)
-- Jul 10 - [Why Is There No Semantic Ontology of Sentiment in Academic Citations?](https://shkspr.mobi/blog/2022/07/why-is-there-no-semantic-ontology-of-sentiment-in-academic-citations/)
-- Jul 10 - [Decarbonisation of grids requires long-duration energy storage](https://www.economist.com/technology-quarterly/2022/06/23/decarbonisation-of-electric-grids-reliant-on-renewables-requires-long-duration-energy-storage)
-- Jul 10 - [95% of employees say IT issues decrease workplace productivity, morale](https://venturebeat.com/2022/07/06/report-95-of-employees-say-it-issues-decrease-workplace-productivity-and-morale/)
+- Jul 10 - [Show HN: Whatcha – the social network for digital media](https://apps.apple.com/us/app/whatcha-io/id1603483624)
+- Jul 10 - [Russian Gas Flows to Europe](https://berthub.eu/gazmon/)
+- Jul 10 - [Replibyte – Seed your database with real data](https://github.com/Qovery/Replibyte)
+- Jul 10 - [Amazon Aurora Supports PostgreSQL 14](https://www.infoq.com/news/2022/07/amazon-aurora-postgresql-14/)
+- Jul 10 - [Irwin – the protector of Lichess from all chess players villainous](https://github.com/clarkerubber/irwin)
 <!--END_SECTION:hn-->
 
 <!--
