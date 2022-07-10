@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 10 - [Quantum scientists deliver world’s first integrated circuit at the atomic scale](https://newsroom.unsw.edu.au/news/science-tech/unsw-quantum-scientists-deliver-world%E2%80%99s-first-integrated-circuit-atomic-scale)
-- Jul 10 - [Why the world needs a non-profit search engine](https://daoudclarke.net/search%20engines/2022/07/10/non-profit-search-engine)
-- Jul 10 - [Predictably Bad Investments: Evidence from Venture Capitalists](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4135861)
-- Jul 10 - [Skyrim together: mod to play online](https://github.com/tiltedphoques/TiltedEvolution)
-- Jul 10 - [The Crime That Killed Shinzo Abe](https://shingetsunewsagency.com/2022/07/10/the-crime-that-killed-shinzo-abe/)
+- Jul 10 - [We Need to Stop Pretending we can Limit Global Warming to 1.5°C](https://bylinetimes.com/2022/07/06/we-need-to-stop-pretending-we-can-limit-global-warming-to-1-5c/)
+- Jul 10 - [Covid learning loss has been a global disaster](https://www.economist.com/international/2022/07/07/covid-learning-loss-has-been-a-global-disaster)
+- Jul 10 - [CS101: Introduction to Computing Principles](https://web.stanford.edu/class/cs101/)
+- Jul 10 - [Show HN: Ants Sandbox - an ants simulator](https://www.ants-sandbox.io/)
+- Jul 10 - [TikTok ‘frog army’ stunt could have grave consequences, experts warn](https://www.theguardian.com/technology/2022/jul/10/tiktok-frog-army-stunt)
 <!--END_SECTION:hn-->
 
 <!--
