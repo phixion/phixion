@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 10 - [Rogers Canada, please fix the damn internet in Canada](https://news.ycombinator.com/item?id=32041238)
+- Jul 10 - [Protect your data from ransomware with S3 Object Lock](https://blog.symops.com/2022/07/07/prevent-ransomware-s3-object-lock/)
+- Jul 09 - [Why do so many brands change their logos and look like everyone else?](https://velvetshark.com/articles/why-do-brands-change-their-logos-and-look-like-everyone-else)
 - Jul 09 - [Help me identify possible tracking device found in my car](https://gist.github.com/jwbee/90e32362fd24b1a233b882ffa7950616)
-- Jul 09 - [Ivy (YC W23) is hiring a research engineer to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
-- Jul 09 - [Insulator or superconductor? Physicists find graphene is both (2018)](https://news.mit.edu/2018/graphene-insulator-superconductor-0305)
-- Jul 09 - [Kate Bush’s “Running Up That Hill” synth sounds](https://reverbmachine.com/blog/kate-bush-running-up-that-hill-synth-sounds/)
-- Jul 09 - [Show HN: Copy React code from any site](https://sample-code.aspect.app)
+- Jul 09 - [Tell HN: Information security audit / consulting is largely a scam industry](https://news.ycombinator.com/item?id=32039828)
 <!--END_SECTION:hn-->
 
 <!--
