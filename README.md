@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 09 - [Kate Bush’s Running Up That Hill Synth Sounds](https://reverbmachine.com/blog/kate-bush-running-up-that-hill-synth-sounds/)
+- Jul 09 - [Help me identify possible tracking device found in my car](https://gist.github.com/jwbee/90e32362fd24b1a233b882ffa7950616)
+- Jul 09 - [Ivy (YC W23) is hiring a research engineer to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
+- Jul 09 - [Insulator or superconductor? Physicists find graphene is both (2018)](https://news.mit.edu/2018/graphene-insulator-superconductor-0305)
+- Jul 09 - [Kate Bush’s “Running Up That Hill” synth sounds](https://reverbmachine.com/blog/kate-bush-running-up-that-hill-synth-sounds/)
 - Jul 09 - [Show HN: Copy React code from any site](https://sample-code.aspect.app)
-- Jul 09 - [Congratulations: We Now Have Opinions on Your Open Source Contributions](https://lucumr.pocoo.org/2022/7/9/congratulations/)
-- Jul 09 - [The Commodore Plus/4, 3-Plus-1 and computer literacy](http://oldvcr.blogspot.com/2021/08/the-commodore-plus4-3-plus-1-and.html)
-- Jul 09 - [Clipboard integration between tmux, nvim, zsh, x11, across SSH sessions](https://blog.landofcrispy.com/index.php/2021/01/06/clipboard-integration-between-tmux-nvim-zsh-x11-across-ssh-sessions/)
 <!--END_SECTION:hn-->
 
 <!--
