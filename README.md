@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 11 - [Binance served crypto traders in Iran despite U.S. sanctions](https://www.reuters.com/technology/exclusive-binance-served-crypto-traders-iran-years-despite-us-sanctions-clients-2022-07-11/)
-- Jul 11 - [US Crosses the Electric-Car Tipping Point for Mass Adoption](https://www.bloomberg.com/news/articles/2022-07-09/us-electric-car-sales-reach-key-milestone)
-- Jul 11 - [8-Part Film Adaptation of Tolstoy's Anna Karenina Is Free Online](https://www.openculture.com/2022/07/watch-an-8-part-film-adaptation-of-tolstoys-anna-karenina-free-online.html)
-- Jul 11 - [Hybrid Work Is Doomed](https://www.theatlantic.com/technology/archive/2022/07/work-from-home-rto-flexibility/661495/)
-- Jul 11 - [Emmanuel Macron aided Uber lobbying drive in France, leak reveals](https://www.theguardian.com/news/2022/jul/10/emmanuel-macron-secretly-aided-uber-lobbying-drive-france-leak-reveals)
+- Jul 11 - [Universal Influenza B Vaccine Induces Broad, Sustained Protection](https://news.gsu.edu/2022/07/08/universal-influenza-b-vaccine-induces-broad-sustained-protection-biomedical-sciences-researchers-find/)
+- Jul 11 - [US companies partner on nuclear recycling technology](https://www.world-nuclear-news.org/Articles/US-companies-partner-on-nuclear-recycling-technolo)
+- Jul 11 - [Tell HN: I have the perfect job, why is it not enough?](https://news.ycombinator.com/item?id=32059666)
+- Jul 11 - [Postgres Full-Text Search: A Search Engine in a Database](https://www.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database)
+- Jul 11 - [€1.00 = $1.00, The Euro sinks to lowest since 2002](https://www.bloomberg.com/news/articles/2022-07-08/why-the-euro-has-tumbled-near-parity-to-the-us-dollar-quicktake)
 <!--END_SECTION:hn-->
 
 <!--
