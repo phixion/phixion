@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 10 - [Show HN: Whatcha – the social network for digital media](https://apps.apple.com/us/app/whatcha-io/id1603483624)
-- Jul 10 - [Russian Gas Flows to Europe](https://berthub.eu/gazmon/)
-- Jul 10 - [Replibyte – Seed your database with real data](https://github.com/Qovery/Replibyte)
-- Jul 10 - [Amazon Aurora Supports PostgreSQL 14](https://www.infoq.com/news/2022/07/amazon-aurora-postgresql-14/)
-- Jul 10 - [Irwin – the protector of Lichess from all chess players villainous](https://github.com/clarkerubber/irwin)
+- Jul 10 - [Running an Open Source Home Area Network](https://xn--gckvb8fzb.com/running-an-open-source-home-area-network/)
+- Jul 10 - [Study: Association between mask mandates and Covid infections in North Dakota](https://www.researchsquare.com/article/rs-1773983/v1)
+- Jul 10 - [Show HN: Typewaiter, the typewriter that doesn't wait](https://oisinmoran.com/typewaiter)
+- Jul 10 - [Assassin’s Creed Liberation delisted, unplayable even to owners starting Sept 1](https://mp1st.com/news/report-assassins-creed-liberation-delisted-to-be-unplayable-even-to-owners-starting-september-1-on-steam)
+- Jul 10 - [On-device browser translations with Firefox Translations](https://www.ctrl.blog/entry/firefox-translations.html)
 <!--END_SECTION:hn-->
 
 <!--
