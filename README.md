@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 11 - [Project Naptha](https://projectnaptha.com/)
+- Jul 11 - [People from elite backgrounds increasingly dominate academia, data shows](https://www.washingtonpost.com/business/2022/07/08/dept-of-data-academia-elite/)
+- Jul 11 - [Medicare Could Have Saved $3.6B on Generic Drugs](https://www.drugs.com/news/medicare-could-have-saved-3-6-billion-2020-106106.html)
+- Jul 11 - [University Profs' Criticism Led to Retraction of Math Paper on Gender (2018)](https://www.chicagomaroon.com/article/2018/10/29/university-professors-involved-retraction-controve/)
 - Jul 10 - [Running an Open Source Home Area Network](https://xn--gckvb8fzb.com/running-an-open-source-home-area-network/)
-- Jul 10 - [Study: Association between mask mandates and Covid infections in North Dakota](https://www.researchsquare.com/article/rs-1773983/v1)
-- Jul 10 - [Show HN: Typewaiter, the typewriter that doesn't wait](https://oisinmoran.com/typewaiter)
-- Jul 10 - [Assassin’s Creed Liberation delisted, unplayable even to owners starting Sept 1](https://mp1st.com/news/report-assassins-creed-liberation-delisted-to-be-unplayable-even-to-owners-starting-september-1-on-steam)
-- Jul 10 - [On-device browser translations with Firefox Translations](https://www.ctrl.blog/entry/firefox-translations.html)
 <!--END_SECTION:hn-->
 
 <!--
