@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 12 - [Talking about Layoffs](https://angelariggs.github.io/articles/talking-about-layoffs)
-- Jul 12 - [Police Officer Exam Tutorial [pdf]](https://www1.nyc.gov/assets/nypd/downloads/pdf/careers/po-exam-tutorial-2021-04-14.pdf)
-- Jul 12 - [State lotteries transfer wealth out of needy communities, investigation finds](https://www.cbsnews.com/news/state-lotteries-transfer-wealth-out-of-needy-communities/)
-- Jul 12 - [Pepsi: Breathtaking Design Strategy (2008) [pdf]](https://jimedwardsnrx.files.wordpress.com/2009/02/pepsi_gravitational_field.pdf)
-- Jul 11 - [DoD Open Source Software FAQ (2021)](https://dodcio.defense.gov/open-source-software-faq/)
+- Jul 12 - [Buddhism has found a new institutional home in the West: the corporation](https://www.guernicamag.com/carolyn-chen-buddhism-has-found-a-new-institutional-home-in-the-west-the-corporation/)
+- Jul 12 - [Sound of Colleagues](https://soundofcolleagues.com/)
+- Jul 12 - [Show HN: Kreya, a Postman Alternative](https://kreya.app/)
+- Jul 12 - [BMW Makes Heated Seats an $18/Month Subscription Service – Again](https://www.thedrive.com/news/bmw-is-charging-a-subscription-fee-for-heated-seats-again)
+- Jul 12 - [ISO name change for Türkiye. You mught have to update your ISO data](https://www.iso.org/obp/ui/#iso:code:3166:TR)
 <!--END_SECTION:hn-->
 
 <!--
