@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 11 - [Sir Mo Farah reveals he was trafficked into the UK using another child’s name](https://www.theguardian.com/sport/2022/jul/11/sir-mo-farah-i-was-brought-into-the-uk-illegally-using-another-childs-name)
-- Jul 11 - [MedMe Health (YC W21) is hiring a senior engineer](https://www.ycombinator.com/companies/medme-health/jobs/8bAVDN7-senior-full-stack-engineer)
-- Jul 11 - [Desktop Environments Resource Usage Comparison](https://vermaden.wordpress.com/2022/07/12/desktop-environments-resource-usage-comparison/)
-- Jul 11 - [Deepest infrared image of universe](https://www.nasa.gov/image-feature/goddard/2022/nasa-s-webb-delivers-deepest-infrared-image-of-universe-yet/)
-- Jul 11 - [DeepMind AI learns simple physics like a baby](https://www.nature.com/articles/d41586-022-01921-7)
+- Jul 12 - [Talking about Layoffs](https://angelariggs.github.io/articles/talking-about-layoffs)
+- Jul 12 - [Police Officer Exam Tutorial [pdf]](https://www1.nyc.gov/assets/nypd/downloads/pdf/careers/po-exam-tutorial-2021-04-14.pdf)
+- Jul 12 - [State lotteries transfer wealth out of needy communities, investigation finds](https://www.cbsnews.com/news/state-lotteries-transfer-wealth-out-of-needy-communities/)
+- Jul 12 - [Pepsi: Breathtaking Design Strategy (2008) [pdf]](https://jimedwardsnrx.files.wordpress.com/2009/02/pepsi_gravitational_field.pdf)
+- Jul 11 - [DoD Open Source Software FAQ (2021)](https://dodcio.defense.gov/open-source-software-faq/)
 <!--END_SECTION:hn-->
 
 <!--
