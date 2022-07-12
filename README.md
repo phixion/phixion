@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 12 - [Lofi Girl: YouTube sorry for taking down music stream](https://www.bbc.com/news/newsbeat-62133768)
-- Jul 12 - [James Webb first images – complete set of high resolution shots now live](https://webbtelescope.org/news/news-releases?Collection=First%20Images)
-- Jul 12 - [The future of innovation has patent-free standards](https://blog.opensource.org/the-future-of-innovation-has-patent-free-standards/)
-- Jul 12 - [You Wouldn't Download a Back End](https://cjohanaja.com/musings/wouldnt-download-backend/)
-- Jul 12 - [Ask HN: Examples of large acquisitions that did not ruin the acquired company](https://news.ycombinator.com/item?id=32070747)
+- Jul 12 - [Compare Webb's Images to Hubble](https://johnedchristensen.github.io/WebbCompare/)
+- Jul 12 - [40 Years Ago, Disney's Weirdest Failure Changed Sci-Fi Movies Forever](https://www.fatherly.com/entertainment/tron-40-year-anniversary-disney)
+- Jul 12 - [Ev Williams to step down from Medium](https://ev.medium.com/new-decade-new-ideas-faee8e712589)
+- Jul 12 - [Implementing Microsoft REST API Guidelines Filter](https://sergeykibish.com/blog/implementing-microsoft-rest-api-filter/)
+- Jul 12 - [Pachyderm (YC W15) is hiring for DevRel to evangelize data-centric pipelines](https://www.pachyderm.com/careers/#positions)
 <!--END_SECTION:hn-->
 
 <!--
