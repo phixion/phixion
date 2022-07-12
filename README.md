@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 11 - [Universal Influenza B Vaccine Induces Broad, Sustained Protection](https://news.gsu.edu/2022/07/08/universal-influenza-b-vaccine-induces-broad-sustained-protection-biomedical-sciences-researchers-find/)
-- Jul 11 - [US companies partner on nuclear recycling technology](https://www.world-nuclear-news.org/Articles/US-companies-partner-on-nuclear-recycling-technolo)
-- Jul 11 - [Tell HN: I have the perfect job, why is it not enough?](https://news.ycombinator.com/item?id=32059666)
-- Jul 11 - [Postgres Full-Text Search: A Search Engine in a Database](https://www.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database)
-- Jul 11 - [€1.00 = $1.00, The Euro sinks to lowest since 2002](https://www.bloomberg.com/news/articles/2022-07-08/why-the-euro-has-tumbled-near-parity-to-the-us-dollar-quicktake)
+- Jul 11 - [Sir Mo Farah reveals he was trafficked into the UK using another child’s name](https://www.theguardian.com/sport/2022/jul/11/sir-mo-farah-i-was-brought-into-the-uk-illegally-using-another-childs-name)
+- Jul 11 - [MedMe Health (YC W21) is hiring a senior engineer](https://www.ycombinator.com/companies/medme-health/jobs/8bAVDN7-senior-full-stack-engineer)
+- Jul 11 - [Desktop Environments Resource Usage Comparison](https://vermaden.wordpress.com/2022/07/12/desktop-environments-resource-usage-comparison/)
+- Jul 11 - [Deepest infrared image of universe](https://www.nasa.gov/image-feature/goddard/2022/nasa-s-webb-delivers-deepest-infrared-image-of-universe-yet/)
+- Jul 11 - [DeepMind AI learns simple physics like a baby](https://www.nature.com/articles/d41586-022-01921-7)
 <!--END_SECTION:hn-->
 
 <!--
