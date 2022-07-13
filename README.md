@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 13 - [Ashby (YC W19, B) hiring Product Engineers in low-meeting, great devex culture](https://www.ashbyhq.com/careers)
-- Jul 13 - [Fermented Chili “Open Sauce” – My most starred repo has no code in it](https://github.com/aweijnitz/recipe-el_fuego_viviente)
-- Jul 13 - [Decompiler Explorer](https://dogbolt.org/)
-- Jul 13 - [Choosing a New Comment Policy](https://scottaaronson.blog/?p=6552)
-- Jul 13 - [Rolling your own crypto: Everything you need to build AES from scratch](https://github.com/francisrstokes/githublog/blob/main/2022/6/15/rolling-your-own-crypto-aes.md)
+- Jul 13 - [Sieve (YC W22) is building AI infra for video data, come join us](https://www.sievedata.com/)
+- Jul 13 - [Unity merges with IronSource](https://blog.unity.com/news/welcome-ironsource)
+- Jul 13 - [CP/M is open-source now](https://retronic.us/cp-m-is-now-really-open-source/)
+- Jul 13 - [Are Magic Links Outdated?](https://zitadel.com/blog/magic-links)
+- Jul 13 - [Gambling and Adult content DNS blocking using Mullvad VPN](https://mullvad.net/en/blog/2022/7/11/aiding-to-break-habits-gambling-and-adult-content-dns-blocking/)
 <!--END_SECTION:hn-->
 
 <!--
