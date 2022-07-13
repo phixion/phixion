@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 12 - [Ask HN: Has anyone here worked on the Windows kernel?](https://news.ycombinator.com/item?id=32076677)
-- Jul 12 - [JWST Solid State Recorder](https://jwst-docs.stsci.edu/jwst-observatory-hardware/jwst-solid-state-recorder)
-- Jul 12 - [TeaVM](https://teavm.org/)
-- Jul 12 - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
-- Jul 12 - [My experience writing and selling a short story](https://superamit.substack.com/p/short-stories-how-much-do-you-make)
+- Jul 13 - [Airbus A380 Completes Flight Powered by Cooking Oil](https://hackaday.com/2022/07/12/airbus-a380-completes-flight-powered-by-cooking-oil/)
+- Jul 13 - [FTC committed to enforcing law against illegal use, sharing of sensitive data](https://www.ftc.gov/business-guidance/blog/2022/07/location-health-other-sensitive-information-ftc-committed-fully-enforcing-law-against-illegal-use)
+- Jul 13 - [Truckers plan LA/Long Beach work stoppage Wednesday to protest AB5](https://www.freightwaves.com/news/truckers-plan-lalong-beach-work-stoppage-wednesday-to-protest-ab5)
+- Jul 13 - [RISC-V Linux on ESP32](https://blog.drorgluska.com/2022/07/risc-v-linux-on-esp32.html)
+- Jul 13 - [Sri Lanka is having a textbook currency crisis, triggered by policy mistakes](https://noahpinion.substack.com/p/why-sri-lanka-is-having-an-economic)
 <!--END_SECTION:hn-->
 
 <!--
