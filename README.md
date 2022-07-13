@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 13 - [Airbus A380 Completes Flight Powered by Cooking Oil](https://hackaday.com/2022/07/12/airbus-a380-completes-flight-powered-by-cooking-oil/)
-- Jul 13 - [FTC committed to enforcing law against illegal use, sharing of sensitive data](https://www.ftc.gov/business-guidance/blog/2022/07/location-health-other-sensitive-information-ftc-committed-fully-enforcing-law-against-illegal-use)
-- Jul 13 - [Truckers plan LA/Long Beach work stoppage Wednesday to protest AB5](https://www.freightwaves.com/news/truckers-plan-lalong-beach-work-stoppage-wednesday-to-protest-ab5)
-- Jul 13 - [RISC-V Linux on ESP32](https://blog.drorgluska.com/2022/07/risc-v-linux-on-esp32.html)
-- Jul 13 - [Sri Lanka is having a textbook currency crisis, triggered by policy mistakes](https://noahpinion.substack.com/p/why-sri-lanka-is-having-an-economic)
+- Jul 13 - [Ashby (YC W19, B) hiring Product Engineers in low-meeting, great devex culture](https://www.ashbyhq.com/careers)
+- Jul 13 - [Fermented Chili “Open Sauce” – My most starred repo has no code in it](https://github.com/aweijnitz/recipe-el_fuego_viviente)
+- Jul 13 - [Decompiler Explorer](https://dogbolt.org/)
+- Jul 13 - [Choosing a New Comment Policy](https://scottaaronson.blog/?p=6552)
+- Jul 13 - [Rolling your own crypto: Everything you need to build AES from scratch](https://github.com/francisrstokes/githublog/blob/main/2022/6/15/rolling-your-own-crypto-aes.md)
 <!--END_SECTION:hn-->
 
 <!--
