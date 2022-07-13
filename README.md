@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 12 - [Compare Webb's Images to Hubble](https://johnedchristensen.github.io/WebbCompare/)
-- Jul 12 - [40 Years Ago, Disney's Weirdest Failure Changed Sci-Fi Movies Forever](https://www.fatherly.com/entertainment/tron-40-year-anniversary-disney)
-- Jul 12 - [Ev Williams to step down from Medium](https://ev.medium.com/new-decade-new-ideas-faee8e712589)
-- Jul 12 - [Implementing Microsoft REST API Guidelines Filter](https://sergeykibish.com/blog/implementing-microsoft-rest-api-filter/)
-- Jul 12 - [Pachyderm (YC W15) is hiring for DevRel to evangelize data-centric pipelines](https://www.pachyderm.com/careers/#positions)
+- Jul 12 - [Ask HN: Has anyone here worked on the Windows kernel?](https://news.ycombinator.com/item?id=32076677)
+- Jul 12 - [JWST Solid State Recorder](https://jwst-docs.stsci.edu/jwst-observatory-hardware/jwst-solid-state-recorder)
+- Jul 12 - [TeaVM](https://teavm.org/)
+- Jul 12 - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+- Jul 12 - [My experience writing and selling a short story](https://superamit.substack.com/p/short-stories-how-much-do-you-make)
 <!--END_SECTION:hn-->
 
 <!--
