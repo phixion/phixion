@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 13 - [How I clean my glasses](https://tratt.net/laurie/blog/2022/how_i_clean_my_glasses.html)
-- Jul 13 - [Zig and WASM](https://observablehq.com/@yurivish/zig-wasm)
-- Jul 13 - [Similarity Learning lacks a framework. So we built one](https://blog.qdrant.tech/similarity-learning-lacks-a-framework-so-we-built-one-f6f09333efa1?gi=9b1473587394)
-- Jul 13 - [Vite 3.0](https://vitejs.dev/blog/announcing-vite3.html)
-- Jul 13 - [Nearly a third of new subscribers to news publications cancel in the first 24H](https://www.niemanlab.org/2022/07/nearly-a-third-of-new-subscribers-to-news-publications-cancel-in-the-first-24-hours/)
+- Jul 13 - [A 74xx-Defined Radio (2021)](https://acidbourbon.wordpress.com/2021/04/11/a-74xx-defined-radio/)
+- Jul 13 - [Supply chain issues are killing synth companies](https://www.synthtopia.com/content/2022/07/12/supply-chain-issues-are-killing-synth-companies-and-making-it-impossible-to-ship-new-designs/)
+- Jul 13 - [DoorDash and pizza arbitrage (2020)](https://www.readmargins.com/p/doordash-and-pizza-arbitrage)
+- Jul 13 - [Language Models (Mostly) Know What They Know](https://arxiv.org/abs/2207.05221)
+- Jul 13 - [Founding engineer roles at W22 YC startups](https://news.ycombinator.com/item?id=32085475)
 <!--END_SECTION:hn-->
 
 <!--
