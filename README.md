@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 14 - [US Doesn't Care About Financial Crimes](https://themakingofamillionaire.com/we-are-absolutely-horrible-at-stopping-financial-scams-dce17995609b)
-- Jul 14 - [All History Is Revisionist History](https://www.neh.gov/article/all-history-revisionist-history)
-- Jul 14 - [Books to read to understand financial crime](https://www.economist.com/the-economist-reads/2022/07/11/the-best-books-to-read-to-understand-financial-crime)
-- Jul 14 - [Saskatchewan, Ontario to roll out mini-nuclear reactors](https://www.westerninvestor.com/british-columbia/saskatchewan-ontario-to-roll-out-mini-nuclear-reactors-5568249)
-- Jul 14 - [We must protect our ability to transact privately online (2019)](https://www.coincenter.org/we-must-protect-our-ability-to-transact-privately-online/)
+- Jul 14 - [Supabase (YC S20) Is Hiring a Lead Node.js Engineer (Edge Functions)](https://boards.greenhouse.io/supabase/jobs/4568813004)
+- Jul 14 - [The History of User Interfaces](https://history.user-interface.io)
+- Jul 14 - [Oldest tree still growing near the Norwegian-Swedish border](https://sciencenorway.no/dna-forests-trees/worlds-oldest-tree-still-growing-near-the-norwegian-swedish-border/2037756)
+- Jul 14 - [BMW introduces new heated seat subscription in UK](https://www.bbc.com/news/technology-62142208)
+- Jul 14 - [Captive Portals](https://textslashplain.com/2022/06/24/captive-portals/)
 <!--END_SECTION:hn-->
 
 <!--
