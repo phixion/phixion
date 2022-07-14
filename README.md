@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 14 - [Nyxt 3 Pre-release 1 (a Lisp powered web browser)](https://nyxt.atlas.engineer/article/release-3-pre-release-1.org)
-- Jul 14 - [Show HN: Porting OpenBSD Pledge() to Linux](https://justine.lol/pledge/)
-- Jul 14 - [Corn Cobs: Fuel of Nightmares](https://charmindustrial.com/blog/corn-cobs-fuel-of-nightmares/)
-- Jul 14 - [Show HN: Open-source authorization service based on Google-Zanzibar](https://github.com/Permify/permify)
-- Jul 14 - [Godot: making C# games in 2022](https://jolexxa.medium.com/its-time-to-make-that-indie-c-game-in-godot-cea383151470)
+- Jul 14 - [I Disagree with Alan Turing and Daniel Kahneman (2014)](https://statmodeling.stat.columbia.edu/2014/09/03/disagree-alan-turing-daniel-kahneman-regarding-strength-statistical-evidence/)
+- Jul 14 - [ChromeOS Flex is now ready to scale to PCs and Macs](https://cloud.google.com/blog/products/chrome-enterprise/chromeos-flex-ready-to-scale-to-pcs-and-macs)
+- Jul 14 - [Evidence (YC S21) Is Hiring](https://www.ycombinator.com/companies/evidence/jobs/WX5oOOz-full-stack-engineer)
+- Jul 14 - [ML code generation vs. coding by hand: what we think programming will look like](https://wasp-lang.dev/blog/2022/06/24/ML-code-gen-vs-coding-by-hand-future)
+- Jul 14 - [Is WebAssembly magic performance pixie dust? (2021)](https://surma.dev/things/js-to-asc/)
 <!--END_SECTION:hn-->
 
 <!--
