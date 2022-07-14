@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 14 - [Supabase (YC S20) Is Hiring a Lead Node.js Engineer (Edge Functions)](https://boards.greenhouse.io/supabase/jobs/4568813004)
-- Jul 14 - [The History of User Interfaces](https://history.user-interface.io)
-- Jul 14 - [Oldest tree still growing near the Norwegian-Swedish border](https://sciencenorway.no/dna-forests-trees/worlds-oldest-tree-still-growing-near-the-norwegian-swedish-border/2037756)
-- Jul 14 - [BMW introduces new heated seat subscription in UK](https://www.bbc.com/news/technology-62142208)
-- Jul 14 - [Captive Portals](https://textslashplain.com/2022/06/24/captive-portals/)
+- Jul 14 - [GiveCampus (YC S15) Is Hiring a Senior Site Reliability Engineer](https://jobs.lever.co/givecampus/e7ae4695-e4d6-4ed0-b16f-f489a8f2382d)
+- Jul 14 - [Manhattan rents cross $5k threshold for first time](https://www.axios.com/2022/07/14/manhattan-rents-cross-5000-threshold-for-first-time)
+- Jul 14 - [Why Don’t We Have a Strategy?](https://cutlefish.substack.com/p/tbm-3052-why-do-we-have-no-strategy)
+- Jul 14 - [Ask HN: Should I sell my vintage computer collection?](https://news.ycombinator.com/item?id=32094339)
+- Jul 14 - [The DynamoDB Paper](https://brooker.co.za/blog/2022/07/12/dynamodb.html)
 <!--END_SECTION:hn-->
 
 <!--
