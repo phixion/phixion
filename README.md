@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 14 - [GiveCampus (YC S15) Is Hiring a Senior Site Reliability Engineer](https://jobs.lever.co/givecampus/e7ae4695-e4d6-4ed0-b16f-f489a8f2382d)
-- Jul 14 - [Manhattan rents cross $5k threshold for first time](https://www.axios.com/2022/07/14/manhattan-rents-cross-5000-threshold-for-first-time)
-- Jul 14 - [Why Don’t We Have a Strategy?](https://cutlefish.substack.com/p/tbm-3052-why-do-we-have-no-strategy)
-- Jul 14 - [Ask HN: Should I sell my vintage computer collection?](https://news.ycombinator.com/item?id=32094339)
-- Jul 14 - [The DynamoDB Paper](https://brooker.co.za/blog/2022/07/12/dynamodb.html)
+- Jul 14 - [Nyxt 3 Pre-release 1 (a Lisp powered web browser)](https://nyxt.atlas.engineer/article/release-3-pre-release-1.org)
+- Jul 14 - [Show HN: Porting OpenBSD Pledge() to Linux](https://justine.lol/pledge/)
+- Jul 14 - [Corn Cobs: Fuel of Nightmares](https://charmindustrial.com/blog/corn-cobs-fuel-of-nightmares/)
+- Jul 14 - [Show HN: Open-source authorization service based on Google-Zanzibar](https://github.com/Permify/permify)
+- Jul 14 - [Godot: making C# games in 2022](https://jolexxa.medium.com/its-time-to-make-that-indie-c-game-in-godot-cea383151470)
 <!--END_SECTION:hn-->
 
 <!--
