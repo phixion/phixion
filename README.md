@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 14 - [Ask HN: Worst Experience Receiving an Offer?](https://news.ycombinator.com/item?id=32102655)
+- Jul 15 - [We discovered a 7-year old performance Issue in Elixir (2020)](https://code.tubitv.com/how-we-discovered-a-7-year-old-performance-issue-in-elixir-99080bdce9a1?gi=42c77b46207b)
+- Jul 15 - [Lin Zexu's Letter to Queen Victoria (1839)](https://cyber.harvard.edu/ChinaDragon/lin_xexu.html)
+- Jul 15 - [Sirum (YC W15 nonprofit) is hiring engineers and pharmacy technicians](https://news.ycombinator.com/item?id=32103342)
+- Jul 14 - [We discovered a 7-year old performance issue in Elixir (2020)](https://code.tubitv.com/how-we-discovered-a-7-year-old-performance-issue-in-elixir-99080bdce9a1?gi=60329427cb38)
 - Jul 14 - [The Dhall Configuration Language](https://dhall-lang.org/)
-- Jul 14 - [Celsius acknowledges $1.2B hole in balance sheet](https://www.coindesk.com/business/2022/07/14/celsius-acknowledges-12b-hole-in-balance-sheet/)
-- Jul 14 - [Microsoft Windows Network File System v4 Remote Code Execution](https://www.thezdi.com/blog/2022/7/13/cve-2022-30136-microsoft-windows-network-file-system-v4-remote-code-execution-vulnerability)
-- Jul 14 - [TrueBiz (YC S22) Is Hiring a Founding Machine Learning Engineer](https://www.ycombinator.com/companies/truebiz/jobs/L5wFyuN-machine-learning-founding-engineer)
 <!--END_SECTION:hn-->
 
 <!--
