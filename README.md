@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 15 - [We discovered a 7-year old performance Issue in Elixir (2020)](https://code.tubitv.com/how-we-discovered-a-7-year-old-performance-issue-in-elixir-99080bdce9a1?gi=42c77b46207b)
-- Jul 15 - [Lin Zexu's Letter to Queen Victoria (1839)](https://cyber.harvard.edu/ChinaDragon/lin_xexu.html)
-- Jul 15 - [Sirum (YC W15 nonprofit) is hiring engineers and pharmacy technicians](https://news.ycombinator.com/item?id=32103342)
-- Jul 14 - [We discovered a 7-year old performance issue in Elixir (2020)](https://code.tubitv.com/how-we-discovered-a-7-year-old-performance-issue-in-elixir-99080bdce9a1?gi=60329427cb38)
-- Jul 14 - [The Dhall Configuration Language](https://dhall-lang.org/)
+- Jul 15 - [Ask HN: How do I lead a team whom I have no confidence?](https://news.ycombinator.com/item?id=32105782)
+- Jul 15 - [Terra (YC W21) Is Hiring a Full Stack Engineer in London](https://www.ycombinator.com/companies/terra/jobs/QX8I6M5-full-stack-software-engineer)
+- Jul 15 - [Wandering Robots in the Wild](https://spectrum.ieee.org/wandering-robots-in-the-wild)
+- Jul 15 - [I went about learning Rust](https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust/)
+- Jul 15 - [From idea to 1k revenue in 1 month](https://www.linen.dev/s/linen-community/t/545988/from-idea-to-paying-customers)
 <!--END_SECTION:hn-->
 
 <!--
