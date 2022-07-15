@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 15 - [Inkscape 1.2.1 Released](https://inkscape.org/news/2022/07/14/important-release-inkscape-version-121-fixes-data/)
-- Jul 15 - [Looming Natural Gas Shortages Has the EU Scrambling for Solutions](https://www.spiegel.de/international/europe/a-stress-test-for-solidarity-looming-natural-gas-shortages-has-the-eu-scrambling-for-solutions-a-c3e1cdb9-e11b-4f7a-bdbc-f252e1ebe013)
-- Jul 15 - [Mass and Angular Momentum, Left Ambiguous by Einstein, Get Defined](https://www.quantamagazine.org/mass-and-angular-momentum-left-ambiguous-by-einstein-get-defined-20220713/)
-- Jul 15 - [EA: The Human Story](https://ea-spouse.livejournal.com/274.html)
-- Jul 15 - [SaaS Tools That Get Things Done for Tech Startups](https://juicefs.com/blog/en/posts/saas-tools-that-get-things-done-for-tech-startups/)
+- Jul 15 - [Pursuing the Reunification of Home and Work](https://americancompass.org/essays/pursuing-the-reuinification-of-home-and-work/)
+- Jul 15 - [Google Chromebook outlawed in Danish public schools](https://politiken.dk/viden/art8882501/L%C3%A6rere-st%C3%A5r-med-%C2%BBk%C3%A6mpestort-problem%C2%AB-Chromebooks-bliver-forbudt-p%C3%A5-danske-skoler)
+- Jul 15 - [“Critical” projects and volunteer maintainers](https://lwn.net/SubscriberLink/900953/44823d451920e233/)
+- Jul 15 - [Leakage and the Reproducibility Crisis in ML-Based Science](https://reproducible.cs.princeton.edu/)
+- Jul 15 - [Technical Writing for Developers](https://css-tricks.com/technical-writing-for-developers/)
 <!--END_SECTION:hn-->
 
 <!--
