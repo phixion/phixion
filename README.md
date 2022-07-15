@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 15 - [Ask HN: How do I lead a team whom I have no confidence?](https://news.ycombinator.com/item?id=32105782)
-- Jul 15 - [Terra (YC W21) Is Hiring a Full Stack Engineer in London](https://www.ycombinator.com/companies/terra/jobs/QX8I6M5-full-stack-software-engineer)
-- Jul 15 - [Wandering Robots in the Wild](https://spectrum.ieee.org/wandering-robots-in-the-wild)
-- Jul 15 - [I went about learning Rust](https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust/)
-- Jul 15 - [From idea to 1k revenue in 1 month](https://www.linen.dev/s/linen-community/t/545988/from-idea-to-paying-customers)
+- Jul 15 - [Padlet Is Hiring in SF to Build Software for a Good Education](https://padlet.jobs)
+- Jul 15 - [Why Wasn't the Steam Engine Invented Earlier? Part II](https://antonhowes.substack.com/p/age-of-invention-why-wasnt-the-steam-cc8)
+- Jul 15 - [Ask HN: Experiences with low-code systems (Budibase,Appsmith etc.)?](https://news.ycombinator.com/item?id=32106380)
+- Jul 15 - [How I Experience the Web Today](https://how-i-experience-web-today.com/detail.html)
+- Jul 15 - [Show HN: tere – A Faster Alternative to cd+ls](https://github.com/mgunyho/tere)
 <!--END_SECTION:hn-->
 
 <!--
