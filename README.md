@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 14 - [I Disagree with Alan Turing and Daniel Kahneman (2014)](https://statmodeling.stat.columbia.edu/2014/09/03/disagree-alan-turing-daniel-kahneman-regarding-strength-statistical-evidence/)
-- Jul 14 - [ChromeOS Flex is now ready to scale to PCs and Macs](https://cloud.google.com/blog/products/chrome-enterprise/chromeos-flex-ready-to-scale-to-pcs-and-macs)
-- Jul 14 - [Evidence (YC S21) Is Hiring](https://www.ycombinator.com/companies/evidence/jobs/WX5oOOz-full-stack-engineer)
-- Jul 14 - [ML code generation vs. coding by hand: what we think programming will look like](https://wasp-lang.dev/blog/2022/06/24/ML-code-gen-vs-coding-by-hand-future)
-- Jul 14 - [Is WebAssembly magic performance pixie dust? (2021)](https://surma.dev/things/js-to-asc/)
+- Jul 14 - [Ask HN: Worst Experience Receiving an Offer?](https://news.ycombinator.com/item?id=32102655)
+- Jul 14 - [The Dhall Configuration Language](https://dhall-lang.org/)
+- Jul 14 - [Celsius acknowledges $1.2B hole in balance sheet](https://www.coindesk.com/business/2022/07/14/celsius-acknowledges-12b-hole-in-balance-sheet/)
+- Jul 14 - [Microsoft Windows Network File System v4 Remote Code Execution](https://www.thezdi.com/blog/2022/7/13/cve-2022-30136-microsoft-windows-network-file-system-v4-remote-code-execution-vulnerability)
+- Jul 14 - [TrueBiz (YC S22) Is Hiring a Founding Machine Learning Engineer](https://www.ycombinator.com/companies/truebiz/jobs/L5wFyuN-machine-learning-founding-engineer)
 <!--END_SECTION:hn-->
 
 <!--
