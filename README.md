@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 15 - [Padlet Is Hiring in SF to Build Software for a Good Education](https://padlet.jobs)
-- Jul 15 - [Why Wasn't the Steam Engine Invented Earlier? Part II](https://antonhowes.substack.com/p/age-of-invention-why-wasnt-the-steam-cc8)
-- Jul 15 - [Ask HN: Experiences with low-code systems (Budibase,Appsmith etc.)?](https://news.ycombinator.com/item?id=32106380)
-- Jul 15 - [How I Experience the Web Today](https://how-i-experience-web-today.com/detail.html)
-- Jul 15 - [Show HN: tere – A Faster Alternative to cd+ls](https://github.com/mgunyho/tere)
+- Jul 15 - [Inkscape 1.2.1 Released](https://inkscape.org/news/2022/07/14/important-release-inkscape-version-121-fixes-data/)
+- Jul 15 - [Looming Natural Gas Shortages Has the EU Scrambling for Solutions](https://www.spiegel.de/international/europe/a-stress-test-for-solidarity-looming-natural-gas-shortages-has-the-eu-scrambling-for-solutions-a-c3e1cdb9-e11b-4f7a-bdbc-f252e1ebe013)
+- Jul 15 - [Mass and Angular Momentum, Left Ambiguous by Einstein, Get Defined](https://www.quantamagazine.org/mass-and-angular-momentum-left-ambiguous-by-einstein-get-defined-20220713/)
+- Jul 15 - [EA: The Human Story](https://ea-spouse.livejournal.com/274.html)
+- Jul 15 - [SaaS Tools That Get Things Done for Tech Startups](https://juicefs.com/blog/en/posts/saas-tools-that-get-things-done-for-tech-startups/)
 <!--END_SECTION:hn-->
 
 <!--
