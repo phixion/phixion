@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 16 - [Async Rust: What is a runtime? Here is how tokio works under the hood](https://kerkour.com/rust-async-await-what-is-a-runtime)
-- Jul 16 - [Show HN: Logto beta – build universal sign-in, auth, and identity with ease](https://github.com/logto-io/logto)
-- Jul 16 - [Why rails buckle in Britain](https://www.networkrail.co.uk/stories/why-rails-buckle-in-britain/)
-- Jul 16 - [Show HN: CashGraphs – A securities portfolio optimizer](https://www.cashgraphs.com/)
-- Jul 16 - [Show HN: Interactive course about “everyday” data science](https://tigyog.app/d/C-I1weB9CpTH/r/everyday-data-science)
+- Jul 16 - [YOLOv7: Trainable Bag-of-Freebies](https://arxiv.org/abs/2207.02696)
+- Jul 16 - [Detroit’s new personalized flight information board is straight out of sci-fi](https://thepointsguy.com/news/personal-flight-information-display-dtw/)
+- Jul 16 - [U.S. Transition to 988 Suicide and Crisis Lifeline Begins Saturday](https://www.hhs.gov/about/news/2022/07/15/us-transition-988-suicide-crisis-lifeline-begins-saturday.html)
+- Jul 16 - [Scratch Is a Big Deal](https://www.bryanbraun.com/2022/07/16/scratch-is-a-big-deal/)
+- Jul 16 - [When Coal First Arrived, Americans Said 'No Thanks'](https://www.smithsonianmag.com/innovation/americans-hated-coal-180980342/)
 <!--END_SECTION:hn-->
 
 <!--
