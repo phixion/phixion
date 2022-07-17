@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 16 - [YOLOv7: Trainable Bag-of-Freebies](https://arxiv.org/abs/2207.02696)
-- Jul 16 - [Detroit’s new personalized flight information board is straight out of sci-fi](https://thepointsguy.com/news/personal-flight-information-display-dtw/)
-- Jul 16 - [U.S. Transition to 988 Suicide and Crisis Lifeline Begins Saturday](https://www.hhs.gov/about/news/2022/07/15/us-transition-988-suicide-crisis-lifeline-begins-saturday.html)
-- Jul 16 - [Scratch Is a Big Deal](https://www.bryanbraun.com/2022/07/16/scratch-is-a-big-deal/)
-- Jul 16 - [When Coal First Arrived, Americans Said 'No Thanks'](https://www.smithsonianmag.com/innovation/americans-hated-coal-180980342/)
+- Jul 17 - [Big Tech Monopolies Endanger American Security](https://www.economicliberties.us/our-work/big-tech-monopolies-endanger-american-security/)
+- Jul 16 - [Byte Magazine: The Forth Language (1980)](https://archive.org/details/byte-magazine-1980-08)
+- Jul 16 - [Herbert W. Franke has died](https://twitter.com/HerbertWFranke/status/1548321370781626372)
+- Jul 16 - [Training my sense of CO2 ppm](https://interconnected.org/home/2022/07/14/co2)
+- Jul 16 - [Git log is not a changelog](https://agateau.com/2022/your-git-log-is-not-a-changelog/)
 <!--END_SECTION:hn-->
 
 <!--
