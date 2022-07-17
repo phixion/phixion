@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 17 - [Skyrim on Mac When?](https://skyrimonmacwhen.com/)
-- Jul 17 - [George Orwell’s 1940 Review of Mein Kampf](https://bookmarks.reviews/george-orwells-1940-review-of-mein-kampf/)
-- Jul 17 - [Inflation Has Outpaced Wage Growth. Now It’s Cutting into Spending](https://www.wsj.com/articles/inflation-has-outpaced-wage-growth-now-its-cutting-into-spending-11658050200)
-- Jul 17 - [Bear Blog – A privacy-first, fast blogging platform](https://bearblog.dev)
-- Jul 17 - [DataRobot employee resigns over stock sales](https://twitter.com/amir/status/1548345203504795654)
+- Jul 17 - [$9.99/month](https://basicappleguy.com/basicappleblog/999month)
+- Jul 17 - [Picking up free lithium cells off the street and making them safe for use](https://www.atomic14.com/2022/07/16/free-lithium-cells.html)
+- Jul 17 - [Tor – Onion Browser for iPhone and iPad](https://onionbrowser.com/about)
+- Jul 17 - [Facebook has started to encrypt links to counter privacy-improving URL Stripping](https://www.ghacks.net/2022/07/17/facebook-has-started-to-encrypt-links-to-counter-privacy-improving-url-stripping/)
+- Jul 17 - [Show HN: Uber for Coding — Build product with bounties](https://algora.io)
 <!--END_SECTION:hn-->
 
 <!--
