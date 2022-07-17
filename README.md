@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 17 - [Wikipedia: Long-Term Abuse](https://en.wikipedia.org/wiki/Wikipedia:Long-term_abuse)
+- Jul 17 - [An interactive mechanical contraption in pure CSS](https://cohost.org/blackle/post/42994-contraption)
+- Jul 17 - [I just finished reading a book and took lots of notes. Now what?](https://writing.bobdoto.computer/question-i-just-finished-reading-a-book-and-took-lots-of-notes-now-what/)
+- Jul 17 - [Dr. DOS Betamax's DOS Fansite](http://chebucto.ns.ca/~ak621/DOS/DOS-Head.html)
 - Jul 17 - [Big Tech Monopolies Endanger American Security](https://www.economicliberties.us/our-work/big-tech-monopolies-endanger-american-security/)
-- Jul 16 - [Byte Magazine: The Forth Language (1980)](https://archive.org/details/byte-magazine-1980-08)
-- Jul 16 - [Herbert W. Franke has died](https://twitter.com/HerbertWFranke/status/1548321370781626372)
-- Jul 16 - [Training my sense of CO2 ppm](https://interconnected.org/home/2022/07/14/co2)
-- Jul 16 - [Git log is not a changelog](https://agateau.com/2022/your-git-log-is-not-a-changelog/)
 <!--END_SECTION:hn-->
 
 <!--
