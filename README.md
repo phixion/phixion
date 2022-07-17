@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 17 - [Stacker (YC S20) Is Hiring a Senior Data Analyst](https://apply.workable.com/stackerhq/j/7AA9A3E3E9/)
-- Jul 17 - [Bill Watterson, Picasso, and HN on self promotion](https://herbertlui.net/bill-watterson-picasso-and-hn-on-self-promotion/)
-- Jul 17 - [Wikipedia: Long-Term Abuse](https://en.wikipedia.org/wiki/Wikipedia:Long-term_abuse)
-- Jul 17 - [An interactive mechanical contraption in pure CSS](https://cohost.org/blackle/post/42994-contraption)
-- Jul 17 - [I just finished reading a book and took lots of notes. Now what?](https://writing.bobdoto.computer/question-i-just-finished-reading-a-book-and-took-lots-of-notes-now-what/)
+- Jul 17 - [NASA’s James Webb Space Telescope damaged after being smashed by space rock](https://www.independent.co.uk/space/nasa-s-webb-micrometeorite-damage-b2124380.html)
+- Jul 17 - [Killbutmakeitlooklikeanaccident.sh](https://gist.github.com/moyix/95ca9a7a26a639b2322c36c7411dc3be)
+- Jul 17 - [Bayes Rules: An Introduction to Applied Bayesian Modeling (2021)](https://www.bayesrulesbook.com/)
+- Jul 17 - [A systems model of anxiety-driven procrastination](https://axle.design/a-systems-model-of-anxiety-driven-procrastination)
+- Jul 17 - [Okay, Google: To protect women, collect less data about everyone](https://www.washingtonpost.com/technology/2022/07/01/google-privacy-abortion/)
 <!--END_SECTION:hn-->
 
 <!--
