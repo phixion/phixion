@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 17 - [NASA’s James Webb Space Telescope damaged after being smashed by space rock](https://www.independent.co.uk/space/nasa-s-webb-micrometeorite-damage-b2124380.html)
-- Jul 17 - [Killbutmakeitlooklikeanaccident.sh](https://gist.github.com/moyix/95ca9a7a26a639b2322c36c7411dc3be)
-- Jul 17 - [Bayes Rules: An Introduction to Applied Bayesian Modeling (2021)](https://www.bayesrulesbook.com/)
-- Jul 17 - [A systems model of anxiety-driven procrastination](https://axle.design/a-systems-model-of-anxiety-driven-procrastination)
-- Jul 17 - [Okay, Google: To protect women, collect less data about everyone](https://www.washingtonpost.com/technology/2022/07/01/google-privacy-abortion/)
+- Jul 17 - [Skyrim on Mac When?](https://skyrimonmacwhen.com/)
+- Jul 17 - [George Orwell’s 1940 Review of Mein Kampf](https://bookmarks.reviews/george-orwells-1940-review-of-mein-kampf/)
+- Jul 17 - [Inflation Has Outpaced Wage Growth. Now It’s Cutting into Spending](https://www.wsj.com/articles/inflation-has-outpaced-wage-growth-now-its-cutting-into-spending-11658050200)
+- Jul 17 - [Bear Blog – A privacy-first, fast blogging platform](https://bearblog.dev)
+- Jul 17 - [DataRobot employee resigns over stock sales](https://twitter.com/amir/status/1548345203504795654)
 <!--END_SECTION:hn-->
 
 <!--
