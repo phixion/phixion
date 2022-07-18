@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 18 - [The Victorian Hyperloop: The forgotten pneumatic railway beneath London (2016)](https://citymonitor.ai/transport/victorian-hyperloop-forgotten-pneumatic-railway-beneath-streets-london-2395)
-- Jul 18 - [Crimes against Transhumanity](http://www.antipope.org/charlie/blog-static/2022/07/crimes-against-transhumanity.html)
-- Jul 18 - [Implementing "seen by" functionality with Postgres](https://supabase.com/blog/2022/07/18/seen-by-in-postgresql)
-- Jul 18 - [Two Years and over 700 Websites Later](https://1mb.club/blog/reflection/)
-- Jul 18 - [DRAM Thermal Issues Reach Crisis Point](https://semiengineering.com/dram-thermal-issues-reach-crisis-point/)
+- Jul 18 - [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)
+- Jul 18 - [Ask HN: What can you realistically manufacture in your garage?](https://news.ycombinator.com/item?id=32141962)
+- Jul 18 - [Learning Go as a Python Developer: The Good and the Bad](https://new.pythonforengineers.com/blog/learning-go-as-a-python-developer-the-good-the-bad-and-the-ugly/)
+- Jul 18 - [Tell HN: Internet Archive is facing a Big 4 Publishers lawsuit](https://news.ycombinator.com/item?id=32141358)
+- Jul 18 - [Thoughts on RSS](https://matt-rickard.com/thoughts-on-rss/)
 <!--END_SECTION:hn-->
 
 <!--
