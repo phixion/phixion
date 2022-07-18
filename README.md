@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 18 - [TV, or not TV: the story of our bike box](https://www.vanmoof.com/blog/en/tv-bike-box)
-- Jul 18 - [I LOVE programming but HATE the industry. Can anyone relate?](https://news.ycombinator.com/item?id=32136733)
-- Jul 18 - [20 years of payment processing problems](https://kaimi.io/en/2022/07/20-years-of-payment-processing-problems-en/)
-- Jul 18 - [Iceland’s forest cover has increased sixfold since 1990](https://www.icelandreview.com/nature-travel/forests-now-cover-2-of-iceland/)
-- Jul 18 - [SOUNDBOKS cuts the perf of their speakers by half in a “mandatory update”](https://ghuntley.com/soundboks/)
+- Jul 18 - [The Victorian Hyperloop: The forgotten pneumatic railway beneath London (2016)](https://citymonitor.ai/transport/victorian-hyperloop-forgotten-pneumatic-railway-beneath-streets-london-2395)
+- Jul 18 - [Crimes against Transhumanity](http://www.antipope.org/charlie/blog-static/2022/07/crimes-against-transhumanity.html)
+- Jul 18 - [Implementing "seen by" functionality with Postgres](https://supabase.com/blog/2022/07/18/seen-by-in-postgresql)
+- Jul 18 - [Two Years and over 700 Websites Later](https://1mb.club/blog/reflection/)
+- Jul 18 - [DRAM Thermal Issues Reach Crisis Point](https://semiengineering.com/dram-thermal-issues-reach-crisis-point/)
 <!--END_SECTION:hn-->
 
 <!--
