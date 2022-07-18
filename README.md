@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 18 - [Federal Judge Temporarily Blocks Enforcement of L.g.b.t.q. Protections](https://www.nytimes.com/2022/07/17/us/judge-blocks-biden-lgbt-student-rules.html)
-- Jul 18 - [An ex-Googler's guide to dev tools (2020)](https://about.sourcegraph.com/blog/ex-googler-guide-dev-tools)
-- Jul 18 - [Fields Medal was never meant for ‘the greatest mathematical genius'](https://www.science.org/content/article/fields-medal-was-never-meant-greatest-mathematical-genius)
-- Jul 18 - [In Utah, researchers are trying to make geothermal energy a reality](https://www.science.org/content/article/utah-researchers-trying-unlock-earths-heat-make-geothermal-energy-reality)
-- Jul 18 - [Lensm: Go Assembly and Source Viewer](https://github.com/loov/lensm)
+- Jul 18 - [Don’t make the plan better. Make it shorter: why long term plans don’t work](https://lucasfcosta.com/2022/07/15/long-term-plans-dont-work.html)
+- Jul 18 - [How efficient can cat(1) be?](https://ariadne.space/2022/07/17/how-efficient-can-cat1-be/)
+- Jul 18 - [CLI tool for converting txn statements from Singaporean banks into a sane format](https://github.com/ajensenwaud/dbs-tools)
+- Jul 18 - [The Design of Everyday Things – Book Summary and Notes](https://elvischidera.com/2022-06-24-design-everyday-things/)
+- Jul 18 - [Spam domains that plague my email](https://gist.github.com/brandedoutcast/d21ac9ce216f90f77513c76c25b1cd68)
 <!--END_SECTION:hn-->
 
 <!--
