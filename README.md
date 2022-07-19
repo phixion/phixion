@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Jul 18 - [PPCGeeks - 492,518 breached accounts](https://haveibeenpwned.com/PwnedWebsites#PPCGeeks)
 - Jul 17 - [JukinMedia - 314,290 breached accounts](https://haveibeenpwned.com/PwnedWebsites#JukinMedia)
 - Jul 16 - [Famm - 535,240 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Famm)
 - Jul 16 - [Eskimi - 1,197,620 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Eskimi)
 - Jul 14 - [La Poste Mobile - 533,886 breached accounts](https://haveibeenpwned.com/PwnedWebsites#LaPosteMobile)
-- Jul 06 - [Mangatoon - 23,040,238 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Mangatoon)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 18 - [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)
-- Jul 18 - [Ask HN: What can you realistically manufacture in your garage?](https://news.ycombinator.com/item?id=32141962)
-- Jul 18 - [Learning Go as a Python Developer: The Good and the Bad](https://new.pythonforengineers.com/blog/learning-go-as-a-python-developer-the-good-the-bad-and-the-ugly/)
-- Jul 18 - [Tell HN: Internet Archive is facing a Big 4 Publishers lawsuit](https://news.ycombinator.com/item?id=32141358)
-- Jul 18 - [Thoughts on RSS](https://matt-rickard.com/thoughts-on-rss/)
+- Jul 18 - [Heat wave kills more than 1,100 people in Spain and Portugal](https://www.axios.com/2022/07/18/heat-wave-europe-death-toll)
+- Jul 18 - [See Thru Jet Engine](https://www.youtube.com/watch?v=MgL0GW248mE)
+- Jul 18 - [Zombie fly fungus lures healthy male flies to mate with female corpses](https://news.ku.dk/all_news/2022/07/zombie-fly-fungus-lures-healthy-male-flies-to-mate-with-female-corpses/)
+- Jul 18 - [Shouldibuytwitter.com – A tiny takeover arbitrage model for TWTR](https://shouldibuytwitter.com)
+- Jul 18 - [Shannon's Demon and How Returns Can Be Created Out of Thin Air](https://www.richmondquant.com/news/2021/9/21/shannons-demon-amp-how-portfolio-returns-can-be-created-out-of-thin-air)
 <!--END_SECTION:hn-->
 
 <!--
