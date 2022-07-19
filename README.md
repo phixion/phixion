@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 19 - [Show HN: My new free note taking tool](https://news.ycombinator.com/item?id=32152935)
-- Jul 19 - [Show HN: I built a self hosted recommendation feed to escape Google's algorithm](https://github.com/jawerty/myAlgorithm)
-- Jul 19 - [Show HN: I help LGBT people to find LGBT homes](https://mygayflatmate.com/)
-- Jul 19 - [Be enterprise-ready: reasons not to build enterprise features](https://boxyhq.com/blog/three-reasons-not-to-build-enterprise-features)
-- Jul 19 - [Germany to Rethink Nuclear Shutdown as Energy Crisis Deepens](https://climatechangedispatch.com/germany-to-rethink-nuclear-shutdown-as-energy-crisis-deepens/)
+- Jul 19 - [Understanding the X64 Code Models](https://eli.thegreenplace.net/2012/01/03/understanding-the-x64-code-models)
+- Jul 19 - [Google Quantum Virtual Machine will accelerate research and learning](https://blog.google/technology/research/our-new-quantum-virtual-machine-will-accelerate-research-and-help-people-learn-quantum-computing/)
+- Jul 19 - [SEC Issues More Than $17M Award to a Whistleblower](https://www.sec.gov/news/press-release/2022-125)
+- Jul 19 - [What Happens When a Reservoir Goes Dry?](https://practical.engineering/blog/2022/7/18/what-happens-when-a-reservoir-goes-dry)
+- Jul 19 - [Soft deletion probably isn't worth it](https://brandur.org/soft-deletion)
 <!--END_SECTION:hn-->
 
 <!--
