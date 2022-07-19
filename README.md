@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 19 - [Thoughts on ML Engineering After a Year of My PhD](https://www.shreya-shankar.com/phd-year-one/)
-- Jul 19 - [Good managers write good](https://staysaasy.com/management/2022/07/10/Writing-Management.html)
-- Jul 19 - [An update to paid sharing](https://about.netflix.com/en/news/update-to-paid-sharing)
-- Jul 19 - [How to Design Programs](https://htdp.org/)
-- Jul 19 - [Glassdoor not so anonymous](https://www.webworm.co/p/glassdoor)
+- Jul 19 - [Verdn (YC W22) is hiring founding full stack engineers in London, UK](https://www.ycombinator.com/companies/verdn/jobs/wJFebb6-full-stack-engineer)
+- Jul 19 - [Intel Microcode Decryptor](https://twitter.com/h0t_max/status/1549155542786080774)
+- Jul 19 - [FCC: TikTok is unacceptable security risk and should be removed from app stores](https://blog.malwarebytes.com/privacy-2/2022/07/tiktok-is-unacceptable-security-risk-and-should-be-removed-from-app-stores-says-fcc/)
+- Jul 19 - [Bosch eBike Systems presents its new eBike ABS](https://www.bosch-presse.de/pressportal/de/en/bosch-ebike-systems-presents-its-new-ebike-abs-243264.html)
+- Jul 19 - [Nutanix Objects Violates MinIO’s Open Source License](https://blog.min.io/nutanix-objects-violates-minios-open-source-license/)
 <!--END_SECTION:hn-->
 
 <!--
