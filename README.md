@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 19 - [Cotera (YC W22) Is Hiring Engineers](https://www.ycombinator.com/companies/cotera/jobs)
-- Jul 19 - [Show HN: I made some ambient music generators that run in your browser](https://www.flowful.app)
-- Jul 19 - [UK pay falls at fastest rate on record as inflation hits](https://www.bbc.co.uk/news/business-62218706)
-- Jul 19 - [Facebook Accused of ‘Whitewashing’ India Human Rights Report](https://time.com/6197154/facebook-india-human-rights/)
-- Jul 19 - [To download from Google Drive, you must enable 3rd party cookies](https://support.google.com/drive/answer/2423534?hl=en&co=GENIE.Platform%3DDesktop)
+- Jul 19 - [Show HN: My new free note taking tool](https://news.ycombinator.com/item?id=32152935)
+- Jul 19 - [Show HN: I built a self hosted recommendation feed to escape Google's algorithm](https://github.com/jawerty/myAlgorithm)
+- Jul 19 - [Show HN: I help LGBT people to find LGBT homes](https://mygayflatmate.com/)
+- Jul 19 - [Be enterprise-ready: reasons not to build enterprise features](https://boxyhq.com/blog/three-reasons-not-to-build-enterprise-features)
+- Jul 19 - [Germany to Rethink Nuclear Shutdown as Energy Crisis Deepens](https://climatechangedispatch.com/germany-to-rethink-nuclear-shutdown-as-energy-crisis-deepens/)
 <!--END_SECTION:hn-->
 
 <!--
