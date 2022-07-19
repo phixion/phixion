@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 18 - [Heat wave kills more than 1,100 people in Spain and Portugal](https://www.axios.com/2022/07/18/heat-wave-europe-death-toll)
-- Jul 18 - [See Thru Jet Engine](https://www.youtube.com/watch?v=MgL0GW248mE)
-- Jul 18 - [Zombie fly fungus lures healthy male flies to mate with female corpses](https://news.ku.dk/all_news/2022/07/zombie-fly-fungus-lures-healthy-male-flies-to-mate-with-female-corpses/)
-- Jul 18 - [Shouldibuytwitter.com – A tiny takeover arbitrage model for TWTR](https://shouldibuytwitter.com)
-- Jul 18 - [Shannon's Demon and How Returns Can Be Created Out of Thin Air](https://www.richmondquant.com/news/2021/9/21/shannons-demon-amp-how-portfolio-returns-can-be-created-out-of-thin-air)
+- Jul 19 - [Thoughts on ML Engineering After a Year of My PhD](https://www.shreya-shankar.com/phd-year-one/)
+- Jul 19 - [Good managers write good](https://staysaasy.com/management/2022/07/10/Writing-Management.html)
+- Jul 19 - [An update to paid sharing](https://about.netflix.com/en/news/update-to-paid-sharing)
+- Jul 19 - [How to Design Programs](https://htdp.org/)
+- Jul 19 - [Glassdoor not so anonymous](https://www.webworm.co/p/glassdoor)
 <!--END_SECTION:hn-->
 
 <!--
