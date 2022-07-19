@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 19 - [Verdn (YC W22) is hiring founding full stack engineers in London, UK](https://www.ycombinator.com/companies/verdn/jobs/wJFebb6-full-stack-engineer)
-- Jul 19 - [Intel Microcode Decryptor](https://twitter.com/h0t_max/status/1549155542786080774)
-- Jul 19 - [FCC: TikTok is unacceptable security risk and should be removed from app stores](https://blog.malwarebytes.com/privacy-2/2022/07/tiktok-is-unacceptable-security-risk-and-should-be-removed-from-app-stores-says-fcc/)
-- Jul 19 - [Bosch eBike Systems presents its new eBike ABS](https://www.bosch-presse.de/pressportal/de/en/bosch-ebike-systems-presents-its-new-ebike-abs-243264.html)
-- Jul 19 - [Nutanix Objects Violates MinIO’s Open Source License](https://blog.min.io/nutanix-objects-violates-minios-open-source-license/)
+- Jul 19 - [Cotera (YC W22) Is Hiring Engineers](https://www.ycombinator.com/companies/cotera/jobs)
+- Jul 19 - [Show HN: I made some ambient music generators that run in your browser](https://www.flowful.app)
+- Jul 19 - [UK pay falls at fastest rate on record as inflation hits](https://www.bbc.co.uk/news/business-62218706)
+- Jul 19 - [Facebook Accused of ‘Whitewashing’ India Human Rights Report](https://time.com/6197154/facebook-india-human-rights/)
+- Jul 19 - [To download from Google Drive, you must enable 3rd party cookies](https://support.google.com/drive/answer/2423534?hl=en&co=GENIE.Platform%3DDesktop)
 <!--END_SECTION:hn-->
 
 <!--
