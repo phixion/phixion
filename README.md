@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 20 - [Why Bluetooth remains an 'unusually painful' technology after two decades](https://www.cnn.com/2022/07/10/tech/bluetooth-technology-headache/index.html)
-- Jul 20 - [Cooling related failure (in Google London DC)](https://status.cloud.google.com/incidents/XVq5om2XEDSqLtJZUvcH)
-- Jul 20 - [A brief history of nobody wants to work anymore](https://twitter.com/paulisci/status/1549527748950892544)
-- Jul 20 - [Things I wish everyone knew about Git (Part II)](https://blog.plover.com/prog/git/tips-2.html)
-- Jul 20 - [“No convincing evidence” that depression is caused by low serotonin levels](https://www.bmj.com/content/378/bmj.o1808)
+- Jul 20 - [Meticulous (YC S21) Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=32164481)
+- Jul 20 - [Hetzner to Offer First Arm-Based Dedicated Servers in Europe](https://www.hetzner.com/news/07-22-rx-line/)
+- Jul 20 - [TikTok owner ByteDance explores self-designed chips](https://www.cnbc.com/2022/07/19/tiktok-owner-bytedance-explores-self-designed-chips.html)
+- Jul 20 - [Electric Cars – fuel duty and road tax: how to replace £35B annual revenue](https://www.carwow.co.uk/blog/how-to-replace-fuel-duty-and-road-tax)
+- Jul 20 - [World chess champion Magnus Carlsen abdicates title](https://chess24.com/en/read/news/magnus-carlsen-to-give-up-world-championship-title)
 <!--END_SECTION:hn-->
 
 <!--
