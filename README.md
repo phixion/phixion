@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 20 - [Meticulous (YC S21) Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=32164481)
-- Jul 20 - [Hetzner to Offer First Arm-Based Dedicated Servers in Europe](https://www.hetzner.com/news/07-22-rx-line/)
-- Jul 20 - [TikTok owner ByteDance explores self-designed chips](https://www.cnbc.com/2022/07/19/tiktok-owner-bytedance-explores-self-designed-chips.html)
-- Jul 20 - [Electric Cars – fuel duty and road tax: how to replace £35B annual revenue](https://www.carwow.co.uk/blog/how-to-replace-fuel-duty-and-road-tax)
-- Jul 20 - [World chess champion Magnus Carlsen abdicates title](https://chess24.com/en/read/news/magnus-carlsen-to-give-up-world-championship-title)
+- Jul 20 - [QA workers at Blizzard Albany are unionizing](https://www.gamedeveloper.com/culture/qa-workers-at-blizzard-albany-are-unionizing2a8ba530bcd0daf0e1ae42d988c40dc261347&utm_source=eloqua&utm_medium=email&utm_campaign=Gama_NL_Game%20Developer%20Daily_07.19.22&sp_cid=45523&utm_content=Gama_NL_Game%20Developer%20Daily_07.19.22)
+- Jul 20 - [Why does culture get less happy year after year?](https://erikhoel.substack.com/p/why-does-culture-get-less-happy-year)
+- Jul 20 - [Yuga Labs vs. Bungie – finding the Web3 delta](https://credistick.com/yuga-labs-vs-bungie-finding-the-web3-delta/)
+- Jul 20 - [General Motors Streetcar Conspiracy](https://en.wikipedia.org/wiki/General_Motors_streetcar_conspiracy)
+- Jul 20 - [Launch HN: Bend (YC S22) – Automatically measure your company's carbon footprint](https://news.ycombinator.com/item?id=32166140)
 <!--END_SECTION:hn-->
 
 <!--
