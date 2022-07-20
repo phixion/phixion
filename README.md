@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 19 - [Understanding the X64 Code Models](https://eli.thegreenplace.net/2012/01/03/understanding-the-x64-code-models)
-- Jul 19 - [Google Quantum Virtual Machine will accelerate research and learning](https://blog.google/technology/research/our-new-quantum-virtual-machine-will-accelerate-research-and-help-people-learn-quantum-computing/)
-- Jul 19 - [SEC Issues More Than $17M Award to a Whistleblower](https://www.sec.gov/news/press-release/2022-125)
-- Jul 19 - [What Happens When a Reservoir Goes Dry?](https://practical.engineering/blog/2022/7/18/what-happens-when-a-reservoir-goes-dry)
-- Jul 19 - [Soft deletion probably isn't worth it](https://brandur.org/soft-deletion)
+- Jul 20 - [Swimming in Noise](https://nautil.us/swimming-in-noise-22162/)
+- Jul 19 - [PicoCart64: Nintendo 64 flash cart using a Raspberry Pi RP2040](https://github.com/kbeckmann/PicoCart64)
+- Jul 19 - [MongoDB 6 Released](https://www.mongodb.com/blog/post/mongodb-6-0-now-available)
+- Jul 19 - [Why Ruby Is More Readable Than Python](https://confuzeus.com/posts/python-ruby-readability/)
+- Jul 19 - [Show HN: I built a handheld CHIP-8 game console to teach myself embedded systems](https://github.com/kurtjd/CHIPnGo)
 <!--END_SECTION:hn-->
 
 <!--
