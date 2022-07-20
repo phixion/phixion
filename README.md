@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 20 - [Why Bluetooth remains an 'unusually painful' technology after two decades](https://www.cnn.com/2022/07/10/tech/bluetooth-technology-headache/index.html)
+- Jul 20 - [Cooling related failure (in Google London DC)](https://status.cloud.google.com/incidents/XVq5om2XEDSqLtJZUvcH)
+- Jul 20 - [A brief history of nobody wants to work anymore](https://twitter.com/paulisci/status/1549527748950892544)
+- Jul 20 - [Things I wish everyone knew about Git (Part II)](https://blog.plover.com/prog/git/tips-2.html)
 - Jul 20 - [“No convincing evidence” that depression is caused by low serotonin levels](https://www.bmj.com/content/378/bmj.o1808)
-- Jul 20 - [Show HN: bashttp - a very (very) simple web server in Bash](https://github.com/EddySchauHai/bashttp)
-- Jul 20 - [The Einstein Principle: Accomplish More by Doing Less](https://www.calnewport.com/blog/2007/10/10/the-einstein-principle-accomplish-more-by-doing-less/)
-- Jul 20 - [Introduction to TCP and Sockets](https://www.scottklement.com/rpg/socktut/introduction.html)
-- Jul 20 - [Burnout](https://commoncog.com/g/burnout/)
 <!--END_SECTION:hn-->
 
 <!--
