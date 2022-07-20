@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 20 - [Swimming in Noise](https://nautil.us/swimming-in-noise-22162/)
-- Jul 19 - [PicoCart64: Nintendo 64 flash cart using a Raspberry Pi RP2040](https://github.com/kbeckmann/PicoCart64)
-- Jul 19 - [MongoDB 6 Released](https://www.mongodb.com/blog/post/mongodb-6-0-now-available)
-- Jul 19 - [Why Ruby Is More Readable Than Python](https://confuzeus.com/posts/python-ruby-readability/)
-- Jul 19 - [Show HN: I built a handheld CHIP-8 game console to teach myself embedded systems](https://github.com/kurtjd/CHIPnGo)
+- Jul 20 - [“No convincing evidence” that depression is caused by low serotonin levels](https://www.bmj.com/content/378/bmj.o1808)
+- Jul 20 - [Show HN: bashttp - a very (very) simple web server in Bash](https://github.com/EddySchauHai/bashttp)
+- Jul 20 - [The Einstein Principle: Accomplish More by Doing Less](https://www.calnewport.com/blog/2007/10/10/the-einstein-principle-accomplish-more-by-doing-less/)
+- Jul 20 - [Introduction to TCP and Sockets](https://www.scottklement.com/rpg/socktut/introduction.html)
+- Jul 20 - [Burnout](https://commoncog.com/g/burnout/)
 <!--END_SECTION:hn-->
 
 <!--
