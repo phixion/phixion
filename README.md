@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 21 - [HireArt (YC W12) is hiring a senior front-end engineer](https://www.hireart.com/apply/21b2ca51?utm_source=hackernews)
-- Jul 21 - [A Crack in the Linux Firewall](https://www.randorisec.fr/crack-linux-firewall/)
-- Jul 21 - [Ask HN: What do you use to make headcount planning less painful?](https://news.ycombinator.com/item?id=32177842)
-- Jul 21 - [Congress' push to regulate Big Tech is fizzling out](https://www.axios.com/2022/07/21/big-tech-antitrust-senate-fizzle)
-- Jul 21 - [Analyzing iOS 16 Lockdown Mode: Browser Features and Performance](https://www.sevarg.net/2022/07/20/ios16-lockdown-mode-browser-analysis/)
+- Jul 21 - [Former Coinbase Employee Charged in First Ever Crypto Insider Trading Scheme](https://stacker.news/items/47796)
+- Jul 21 - [Former Coinbase PM Charged in Cryptocurrency Insider Trading Tipping Scheme](https://www.justice.gov/usao-sdny/pr/three-charged-first-ever-cryptocurrency-insider-trading-tipping-scheme)
+- Jul 21 - [The data rules worth $40k a day](https://www.tinybird.co/blog-posts/data-rules-materialized-views-40000-dollars)
+- Jul 21 - [Most Americans think NASA’s $10B space telescope is a good investment](https://www.theverge.com/2022/7/19/23270396/nasa-james-webb-space-telescope-online-poll-investment)
+- Jul 21 - [Show HN: Pg_jsonschema – A Postgres extension for JSON validation](https://github.com/supabase/pg_jsonschema)
 <!--END_SECTION:hn-->
 
 <!--
