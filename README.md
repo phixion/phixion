@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 20 - [Half of Americans anticipate a U.S. civil war soon](https://www.science.org/content/article/half-of-americans-anticipate-a-us-civil-war-soon-survey-finds)
-- Jul 20 - [Media Confidence Ratings at Record Lows](https://news.gallup.com/poll/394817/media-confidence-ratings-record-lows.aspx)
-- Jul 20 - [Pretty Maps in Python](https://tech.marksblogg.com/pretty-maps-in-python.html)
-- Jul 20 - [Simon Tatham's Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
-- Jul 20 - [VCs Are Scared When They Should Be Greedy](https://blog.aaronkharris.com/vcs-are-scared-when-they-should-be-greedy)
+- Jul 20 - [Archive.org Seeks Summary Judgment in Lawsuit Filed by Publishing Companies](https://blog.archive.org/2022/07/08/internet-archive-seeks-summary-judgment-in-federal-lawsuit-filed-by-publishing-companies/)
+- Jul 20 - [A framework for audio software development](https://cabbageaudio.com/)
+- Jul 20 - [Visa Changes Chargeback Dispute Program](https://usa.visa.com/visa-everywhere/blog/bdp/2022/06/15/what-every-merchant-1655330664445.html)
+- Jul 20 - [User settings, Lamport clocks and lightweight formal methods](https://jakub-m.github.io/2022/07/17/laport-clocks-formal.html)
+- Jul 20 - [Are forum platforms dead?](https://rosie.land/posts/are-forum-platforms-dead/)
 <!--END_SECTION:hn-->
 
 <!--
