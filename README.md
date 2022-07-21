@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 20 - [Archive.org Seeks Summary Judgment in Lawsuit Filed by Publishing Companies](https://blog.archive.org/2022/07/08/internet-archive-seeks-summary-judgment-in-federal-lawsuit-filed-by-publishing-companies/)
-- Jul 20 - [A framework for audio software development](https://cabbageaudio.com/)
-- Jul 20 - [Visa Changes Chargeback Dispute Program](https://usa.visa.com/visa-everywhere/blog/bdp/2022/06/15/what-every-merchant-1655330664445.html)
-- Jul 20 - [User settings, Lamport clocks and lightweight formal methods](https://jakub-m.github.io/2022/07/17/laport-clocks-formal.html)
-- Jul 20 - [Are forum platforms dead?](https://rosie.land/posts/are-forum-platforms-dead/)
+- Jul 21 - [Microsoft Teams down for thousands of users](https://www.reuters.com/article/microsoft-outages-idCAKBN2OW03G)
+- Jul 21 - [A 165-Mile Drone Superhighway Will Soon Be Built in the UK](https://singularityhub.com/2022/07/20/a-165-mile-drone-superhighway-will-soon-be-built-in-the-uk/)
+- Jul 21 - [8-bit 64K 1802 computer with front panel and serial port in an Altoids tin](http://www.sunrise-ev.com/1802.htm)
+- Jul 21 - [Tell HN: Salesforce has globally revoked Slack's holiday shutdown benefit](https://news.ycombinator.com/item?id=32174596)
+- Jul 21 - [Generally Intelligent (YC S17) Is Hiring Remote Machine Learning Engineers](https://news.ycombinator.com/item?id=32174543)
 <!--END_SECTION:hn-->
 
 <!--
