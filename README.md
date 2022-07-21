@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 21 - [Long Live Software Easter Eggs](https://queue.acm.org/detail.cfm?id=3534857&doi=10.1145%2F3534857)
-- Jul 21 - [New Lisp-Stat Release](https://lisp-stat.dev/blog/releases/)
-- Jul 21 - [Anti-Interdiction on the Librem 5 USA](https://puri.sm/posts/anti-interdiction-on-the-librem-5-usa/)
-- Jul 21 - [A little story about the `yes` Unix command](https://endler.dev/2017/yes/)
-- Jul 21 - [The Daily Wrong: AI-Generated Lies Every Day](http://dailywrong.com/)
+- Jul 21 - [HireArt (YC W12) is hiring a senior front-end engineer](https://www.hireart.com/apply/21b2ca51?utm_source=hackernews)
+- Jul 21 - [A Crack in the Linux Firewall](https://www.randorisec.fr/crack-linux-firewall/)
+- Jul 21 - [Ask HN: What do you use to make headcount planning less painful?](https://news.ycombinator.com/item?id=32177842)
+- Jul 21 - [Congress' push to regulate Big Tech is fizzling out](https://www.axios.com/2022/07/21/big-tech-antitrust-senate-fizzle)
+- Jul 21 - [Analyzing iOS 16 Lockdown Mode: Browser Features and Performance](https://www.sevarg.net/2022/07/20/ios16-lockdown-mode-browser-analysis/)
 <!--END_SECTION:hn-->
 
 <!--
