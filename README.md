@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 21 - [Former Coinbase Employee Charged in First Ever Crypto Insider Trading Scheme](https://stacker.news/items/47796)
-- Jul 21 - [Former Coinbase PM Charged in Cryptocurrency Insider Trading Tipping Scheme](https://www.justice.gov/usao-sdny/pr/three-charged-first-ever-cryptocurrency-insider-trading-tipping-scheme)
-- Jul 21 - [The data rules worth $40k a day](https://www.tinybird.co/blog-posts/data-rules-materialized-views-40000-dollars)
-- Jul 21 - [Most Americans think NASA’s $10B space telescope is a good investment](https://www.theverge.com/2022/7/19/23270396/nasa-james-webb-space-telescope-online-poll-investment)
-- Jul 21 - [Show HN: Pg_jsonschema – A Postgres extension for JSON validation](https://github.com/supabase/pg_jsonschema)
+- Jul 21 - [Let's improve PeerTube – Help us define PeerTube's future roadmap](https://joinpeertube.org/en/news#ideas-jpt)
+- Jul 21 - [Potentials signs of fabrication threaten reigning theory of Alzheimer's disease](https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease)
+- Jul 21 - [Commenting on Hacker News](https://superbowl.substack.com/p/commenting-on-hacker-news)
+- Jul 21 - [Why We Ignore Thousands of Daily Car Crashes](https://www.strongtowns.org/journal/2022/7/5/heres-why-we-respond-in-force-to-one-amtrak-crash-while-ignoring-thousands-of-daily-car-crashes)
+- Jul 21 - [The Birth of Random-Access Memory](https://spectrum.ieee.org/the-birth-of-ram)
 <!--END_SECTION:hn-->
 
 <!--
