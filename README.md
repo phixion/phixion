@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 22 - [Polio Detected in US](https://arstechnica.com/science/2022/07/polio-detected-in-us-in-same-ny-county-with-explosive-measles-outbreak-in-2019/)
-- Jul 22 - [Remote Work Credit? I built an entire app that the company thinks my boss built](https://news.ycombinator.com/item?id=32193016)
-- Jul 22 - [Prostitution and Spam Killed Craigslist](https://ashlan.com/blog/prostitution-and-spam-killed-craigslist/)
-- Jul 22 - [Migratory monarch butterfly now Endangered](https://www.iucn.org/press-release/202207/migratory-monarch-butterfly-now-endangered-iucn-red-list)
-- Jul 22 - [US Air Force connects 1,760 Playstation 3's to build supercomputer (2010)](https://phys.org/news/2010-12-air-playstation-3s-supercomputer.html)
+- Jul 22 - [SpaceX just broke its annual launch record – and it’s only July](https://www.theverge.com/2022/7/22/23273077/spacex-falcon-9-launch-record-2022-32-high-cadence)
+- Jul 22 - [Ever wonder why the cheap junk flooding Amazon has brand names like MOFFBUZW?](https://twitter.com/ColeSouth/status/1550230795230781440)
+- Jul 22 - [Hardcoded password in Confluence app has been leaked on Twitter](https://arstechnica.com/information-technology/2022/07/atlassian-warns-hardcoded-password-flaw-is-likely-to-be-exploited-in-the-wild/)
+- Jul 22 - [Announcing Apache OpenOffice 4.1.13](https://blogs.apache.org/OOo/entry/announcing-apache-openoffice-4-19)
+- Jul 22 - [SpatiaLite: Extends SQLite core to support Spatial SQL capabilities](https://www.gaia-gis.it/fossil/libspatialite/index)
 <!--END_SECTION:hn-->
 
 <!--
