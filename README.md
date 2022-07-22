@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 21 - [Let's improve PeerTube – Help us define PeerTube's future roadmap](https://joinpeertube.org/en/news#ideas-jpt)
-- Jul 21 - [Potentials signs of fabrication threaten reigning theory of Alzheimer's disease](https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease)
-- Jul 21 - [Commenting on Hacker News](https://superbowl.substack.com/p/commenting-on-hacker-news)
-- Jul 21 - [Why We Ignore Thousands of Daily Car Crashes](https://www.strongtowns.org/journal/2022/7/5/heres-why-we-respond-in-force-to-one-amtrak-crash-while-ignoring-thousands-of-daily-car-crashes)
-- Jul 21 - [The Birth of Random-Access Memory](https://spectrum.ieee.org/the-birth-of-ram)
+- Jul 21 - [Why Books Don't Work: Constructivism over Transmissionism](https://www.masterhowtolearn.com/2021-01-30-why-books-dont-work-constructivism-over-transmissionism/)
+- Jul 21 - [Ask HN: What are some 'cool' but obscure data structures you know about?](https://news.ycombinator.com/item?id=32186203)
+- Jul 21 - [PropelAuth (YC W22) Is Hiring Rust Developers (US Remote)](https://www.ycombinator.com/companies/propelauth/jobs/b0dl3wz-founding-backend-engineer)
+- Jul 21 - [Solar flares could cause delays on the railways](https://www.ianvisits.co.uk/articles/solar-flares-could-cause-delays-on-the-railways-56083/)
+- Jul 21 - [Hertz paid Accenture $32M for a website that never went live](https://www.henricodolfing.com/2019/10/case-study-hertz-accenture-website.html)
 <!--END_SECTION:hn-->
 
 <!--
