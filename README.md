@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 22 - [CVE-2022-31163: Arbitrary file execution in TZinfo (Ruby)](https://github.com/tzinfo/tzinfo/security/advisories/GHSA-5cm2-9h8c-rvfx)
-- Jul 22 - [A weird epic ramble about Etsy homepages from the middle 2000’s](https://twitter.com/mcfunley/status/1550219636464967680)
-- Jul 22 - [ArchiveTeam File Format Wiki](http://fileformats.archiveteam.org/wiki/Category:File_formats_by_extension)
-- Jul 22 - [Transformer Models: An Introduction and Catalog](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/)
-- Jul 22 - [The true costs of inflation in small-town Texas](https://www.newyorker.com/news/letter-from-the-southwest/the-true-costs-of-inflation-in-small-town-texas)
+- Jul 22 - [Charityvest (YC S20) Is Hiring Lead UX and Brand Designer](https://apply.workable.com/charityvest/j/37123CA4DC/)
+- Jul 22 - [Ask HN: How to keep water-obsessed autistic child from wasting water?](https://news.ycombinator.com/item?id=32190515)
+- Jul 22 - [The trouble with symbolic links](https://lwn.net/Articles/899543/)
+- Jul 22 - [The lives of a man’s eighteenth-century coat (2014)](https://www.ngv.vic.gov.au/essay/the-lives-of-a-mans-eighteenth-century-coat/)
+- Jul 22 - [Building a Rust Mentality](https://slightknack.dev/blog/shift/)
 <!--END_SECTION:hn-->
 
 <!--
