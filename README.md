@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 21 - [Why Books Don't Work: Constructivism over Transmissionism](https://www.masterhowtolearn.com/2021-01-30-why-books-dont-work-constructivism-over-transmissionism/)
-- Jul 21 - [Ask HN: What are some 'cool' but obscure data structures you know about?](https://news.ycombinator.com/item?id=32186203)
-- Jul 21 - [PropelAuth (YC W22) Is Hiring Rust Developers (US Remote)](https://www.ycombinator.com/companies/propelauth/jobs/b0dl3wz-founding-backend-engineer)
-- Jul 21 - [Solar flares could cause delays on the railways](https://www.ianvisits.co.uk/articles/solar-flares-could-cause-delays-on-the-railways-56083/)
-- Jul 21 - [Hertz paid Accenture $32M for a website that never went live](https://www.henricodolfing.com/2019/10/case-study-hertz-accenture-website.html)
+- Jul 22 - [Bacterial and fungal isolation from face masks under the Covid-19 pandemic](https://www.nature.com/articles/s41598-022-15409-x)
+- Jul 22 - [Some Thoughts on Zig](https://v5.chriskrycho.com/journal/some-thoughts-on-zig/)
+- Jul 22 - [The True Costs of Inflation in Small-Town Texas](https://www.newyorker.com/news/letter-from-the-southwest/the-true-costs-of-inflation-in-small-town-texas)
+- Jul 22 - [Universe-Altering Implications of Julia Roberts Plot Twist in ‘Ocean’s Twelve’](https://decider.com/2019/10/15/the-julia-roberts-paradox-of-oceans-twelve/)
+- Jul 21 - [Practical Deep Learning for Coders 2022 (new edition of fast.ai course)](https://www.fast.ai/2022/07/21/dl-coders-22/)
 <!--END_SECTION:hn-->
 
 <!--
