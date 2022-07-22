@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 22 - [Charityvest (YC S20) Is Hiring Lead UX and Brand Designer](https://apply.workable.com/charityvest/j/37123CA4DC/)
-- Jul 22 - [Ask HN: How to keep water-obsessed autistic child from wasting water?](https://news.ycombinator.com/item?id=32190515)
-- Jul 22 - [The trouble with symbolic links](https://lwn.net/Articles/899543/)
-- Jul 22 - [The lives of a man’s eighteenth-century coat (2014)](https://www.ngv.vic.gov.au/essay/the-lives-of-a-mans-eighteenth-century-coat/)
-- Jul 22 - [Building a Rust Mentality](https://slightknack.dev/blog/shift/)
+- Jul 22 - [Polio Detected in US](https://arstechnica.com/science/2022/07/polio-detected-in-us-in-same-ny-county-with-explosive-measles-outbreak-in-2019/)
+- Jul 22 - [Remote Work Credit? I built an entire app that the company thinks my boss built](https://news.ycombinator.com/item?id=32193016)
+- Jul 22 - [Prostitution and Spam Killed Craigslist](https://ashlan.com/blog/prostitution-and-spam-killed-craigslist/)
+- Jul 22 - [Migratory monarch butterfly now Endangered](https://www.iucn.org/press-release/202207/migratory-monarch-butterfly-now-endangered-iucn-red-list)
+- Jul 22 - [US Air Force connects 1,760 Playstation 3's to build supercomputer (2010)](https://phys.org/news/2010-12-air-playstation-3s-supercomputer.html)
 <!--END_SECTION:hn-->
 
 <!--
