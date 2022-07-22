@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 22 - [Bacterial and fungal isolation from face masks under the Covid-19 pandemic](https://www.nature.com/articles/s41598-022-15409-x)
-- Jul 22 - [Some Thoughts on Zig](https://v5.chriskrycho.com/journal/some-thoughts-on-zig/)
-- Jul 22 - [The True Costs of Inflation in Small-Town Texas](https://www.newyorker.com/news/letter-from-the-southwest/the-true-costs-of-inflation-in-small-town-texas)
-- Jul 22 - [Universe-Altering Implications of Julia Roberts Plot Twist in ‘Ocean’s Twelve’](https://decider.com/2019/10/15/the-julia-roberts-paradox-of-oceans-twelve/)
-- Jul 21 - [Practical Deep Learning for Coders 2022 (new edition of fast.ai course)](https://www.fast.ai/2022/07/21/dl-coders-22/)
+- Jul 22 - [CVE-2022-31163: Arbitrary file execution in TZinfo (Ruby)](https://github.com/tzinfo/tzinfo/security/advisories/GHSA-5cm2-9h8c-rvfx)
+- Jul 22 - [A weird epic ramble about Etsy homepages from the middle 2000’s](https://twitter.com/mcfunley/status/1550219636464967680)
+- Jul 22 - [ArchiveTeam File Format Wiki](http://fileformats.archiveteam.org/wiki/Category:File_formats_by_extension)
+- Jul 22 - [Transformer Models: An Introduction and Catalog](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/)
+- Jul 22 - [The true costs of inflation in small-town Texas](https://www.newyorker.com/news/letter-from-the-southwest/the-true-costs-of-inflation-in-small-town-texas)
 <!--END_SECTION:hn-->
 
 <!--
