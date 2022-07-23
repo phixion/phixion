@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 23 - [Ask HN: Why Don't Filesystems and OS's Provide Filesystem Transactions?](https://news.ycombinator.com/item?id=32200007)
-- Jul 23 - [GoodbyeDPI: Deep Packet Inspection circumvention utility](https://github.com/ValdikSS/GoodbyeDPI)
-- Jul 23 - [Interactive exploration of Boston's subway system](http://mbtaviz.github.io/)
-- Jul 23 - [Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote)](https://www.svix.com/careers/)
-- Jul 23 - [New divorce app to help couples split assets in New York without lawyers](https://www.resolvy.com/)
+- Jul 23 - [This week in KDE: Tons of UI improvements and bugfixes](https://pointieststick.com/2022/07/22/this-week-in-kde-tons-of-ui-improvements-and-bugfixes/)
+- Jul 23 - [Flexport Is Hiring Software Engineers](https://flexport.com/careers)
+- Jul 23 - [FBI investigation determined Huawei equipment could disrupt US nuclear comms](https://www.cnn.com/2022/07/23/politics/fbi-investigation-huawei-china-defense-department-communications-nuclear/index.html)
+- Jul 23 - [Show HN: RawInputViewer – examine how games receive inputs from Windows](https://github.com/EsportToys/RawInputViewer)
+- Jul 23 - [“On 16th Mar, 1968 Thompson realised he witnessed something: A massacre”](https://twitter.com/garius/status/1550397462355009536)
 <!--END_SECTION:hn-->
 
 <!--
