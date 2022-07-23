@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 23 - [Writing my PhD using groff](https://jstutter.netlify.app/)
+- Jul 23 - [Embed is in C23](https://thephd.dev/finally-embed-in-c23)
+- Jul 23 - [Google Search Results Plagued with spam “.it” domains](https://community.cloudflare.com/t/suffering-from-the-spam-pages-using-cloudflare-on-google-search-result/283152)
 - Jul 23 - [This week in KDE: Tons of UI improvements and bugfixes](https://pointieststick.com/2022/07/22/this-week-in-kde-tons-of-ui-improvements-and-bugfixes/)
 - Jul 23 - [Flexport Is Hiring Software Engineers](https://flexport.com/careers)
-- Jul 23 - [FBI investigation determined Huawei equipment could disrupt US nuclear comms](https://www.cnn.com/2022/07/23/politics/fbi-investigation-huawei-china-defense-department-communications-nuclear/index.html)
-- Jul 23 - [Show HN: RawInputViewer – examine how games receive inputs from Windows](https://github.com/EsportToys/RawInputViewer)
-- Jul 23 - [“On 16th Mar, 1968 Thompson realised he witnessed something: A massacre”](https://twitter.com/garius/status/1550397462355009536)
 <!--END_SECTION:hn-->
 
 <!--
