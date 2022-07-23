@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 22 - [SpaceX just broke its annual launch record – and it’s only July](https://www.theverge.com/2022/7/22/23273077/spacex-falcon-9-launch-record-2022-32-high-cadence)
-- Jul 22 - [Ever wonder why the cheap junk flooding Amazon has brand names like MOFFBUZW?](https://twitter.com/ColeSouth/status/1550230795230781440)
-- Jul 22 - [Hardcoded password in Confluence app has been leaked on Twitter](https://arstechnica.com/information-technology/2022/07/atlassian-warns-hardcoded-password-flaw-is-likely-to-be-exploited-in-the-wild/)
-- Jul 22 - [Announcing Apache OpenOffice 4.1.13](https://blogs.apache.org/OOo/entry/announcing-apache-openoffice-4-19)
-- Jul 22 - [SpatiaLite: Extends SQLite core to support Spatial SQL capabilities](https://www.gaia-gis.it/fossil/libspatialite/index)
+- Jul 22 - [California went big on rooftop solar. Now that’s a problem for landfills](https://12ft.io/proxy?q=https%3A%2F%2Fwww.latimes.com%2Fbusiness%2Fstory%2F2022-07-14%2Fcalifornia-rooftop-solar-pv-panels-recycling-danger)
+- Jul 22 - [Google Fires Blake Lemoine, Engineer Who Called Its AI Sentient](https://bigtechnology.substack.com/p/google-fires-blake-lemoine-engineer)
+- Jul 22 - [Hacker Lab Is Closing](https://hackerlab.org/en)
+- Jul 22 - [Two containers with same number detected in Chittagong port](https://container-news.com/two-containers-with-same-number-detected-in-chittagong-port/)
+- Jul 22 - [What I don’t like about working at a remote job](https://www.priconceptions.com/notebook/remote-jobs-bad)
 <!--END_SECTION:hn-->
 
 <!--
