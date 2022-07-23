@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 23 - [Writing my PhD using groff](https://jstutter.netlify.app/)
-- Jul 23 - [Embed is in C23](https://thephd.dev/finally-embed-in-c23)
-- Jul 23 - [Google Search Results Plagued with spam “.it” domains](https://community.cloudflare.com/t/suffering-from-the-spam-pages-using-cloudflare-on-google-search-result/283152)
-- Jul 23 - [This week in KDE: Tons of UI improvements and bugfixes](https://pointieststick.com/2022/07/22/this-week-in-kde-tons-of-ui-improvements-and-bugfixes/)
-- Jul 23 - [Flexport Is Hiring Software Engineers](https://flexport.com/careers)
+- Jul 23 - [Spain will introduce free train travel](https://www.bloomberg.com/news/articles/2022-07-15/spain-will-introduce-free-train-travel-to-help-ease-the-cost-of-living)
+- Jul 23 - [WHO declares monkeypox a public health emergency](https://www.statnews.com/2022/07/23/who-declares-monkeypox-outbreak-a-public-health-emergency/)
+- Jul 23 - [Are language models deprived of electric sleep?](https://blog.cbs.dk/inframethodology/?p=5386)
+- Jul 23 - [Ask HN: What is the job market like, for niche languages (Nim, crystal)?](https://news.ycombinator.com/item?id=32202798)
+- Jul 23 - [A clip from Stray got me banned from Twitter](https://www.fanbyte.com/features/how-a-clip-from-stray-got-me-banned-from-twitter/)
 <!--END_SECTION:hn-->
 
 <!--
