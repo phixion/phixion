@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 23 - [Spain will introduce free train travel](https://www.bloomberg.com/news/articles/2022-07-15/spain-will-introduce-free-train-travel-to-help-ease-the-cost-of-living)
-- Jul 23 - [WHO declares monkeypox a public health emergency](https://www.statnews.com/2022/07/23/who-declares-monkeypox-outbreak-a-public-health-emergency/)
-- Jul 23 - [Are language models deprived of electric sleep?](https://blog.cbs.dk/inframethodology/?p=5386)
-- Jul 23 - [Ask HN: What is the job market like, for niche languages (Nim, crystal)?](https://news.ycombinator.com/item?id=32202798)
-- Jul 23 - [A clip from Stray got me banned from Twitter](https://www.fanbyte.com/features/how-a-clip-from-stray-got-me-banned-from-twitter/)
+- Jul 23 - [Saudi Arabia’s Plan to Build a Skyscraper That Stretches for 75 Miles](https://www.wsj.com/articles/inside-saudi-arabias-plan-to-build-a-skyscraper-that-stretches-for-75-miles-11658581201)
+- Jul 23 - [The Impact of Posing with Cats on Female Perceptions of Male Dateability](https://www.mdpi.com/2076-2615/10/6/1007)
+- Jul 23 - [Making a Maradona: Meat Consumption and Soccer Prowess](https://ideas.repec.org/p/aoz/wpaper/161.html)
+- Jul 23 - [An informal review of CTF abuse](https://gynvael.coldwind.pl/?id=750)
+- Jul 23 - [Why Writing Your Own Search Engine Is Hard (2004)](https://queue.acm.org/detail.cfm?id=988407)
 <!--END_SECTION:hn-->
 
 <!--
