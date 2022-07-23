@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 22 - [California went big on rooftop solar. Now that’s a problem for landfills](https://12ft.io/proxy?q=https%3A%2F%2Fwww.latimes.com%2Fbusiness%2Fstory%2F2022-07-14%2Fcalifornia-rooftop-solar-pv-panels-recycling-danger)
-- Jul 22 - [Google Fires Blake Lemoine, Engineer Who Called Its AI Sentient](https://bigtechnology.substack.com/p/google-fires-blake-lemoine-engineer)
-- Jul 22 - [Hacker Lab Is Closing](https://hackerlab.org/en)
-- Jul 22 - [Two containers with same number detected in Chittagong port](https://container-news.com/two-containers-with-same-number-detected-in-chittagong-port/)
-- Jul 22 - [What I don’t like about working at a remote job](https://www.priconceptions.com/notebook/remote-jobs-bad)
+- Jul 23 - [Ask HN: Why Don't Filesystems and OS's Provide Filesystem Transactions?](https://news.ycombinator.com/item?id=32200007)
+- Jul 23 - [GoodbyeDPI: Deep Packet Inspection circumvention utility](https://github.com/ValdikSS/GoodbyeDPI)
+- Jul 23 - [Interactive exploration of Boston's subway system](http://mbtaviz.github.io/)
+- Jul 23 - [Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote)](https://www.svix.com/careers/)
+- Jul 23 - [New divorce app to help couples split assets in New York without lawyers](https://www.resolvy.com/)
 <!--END_SECTION:hn-->
 
 <!--
