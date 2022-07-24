@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 23 - [Saudi Arabia’s Plan to Build a Skyscraper That Stretches for 75 Miles](https://www.wsj.com/articles/inside-saudi-arabias-plan-to-build-a-skyscraper-that-stretches-for-75-miles-11658581201)
-- Jul 23 - [The Impact of Posing with Cats on Female Perceptions of Male Dateability](https://www.mdpi.com/2076-2615/10/6/1007)
-- Jul 23 - [Making a Maradona: Meat Consumption and Soccer Prowess](https://ideas.repec.org/p/aoz/wpaper/161.html)
-- Jul 23 - [An informal review of CTF abuse](https://gynvael.coldwind.pl/?id=750)
-- Jul 23 - [Why Writing Your Own Search Engine Is Hard (2004)](https://queue.acm.org/detail.cfm?id=988407)
+- Jul 23 - [Open rights group sound ‘Red Alert’ as UK announces bonfire of data rights](https://www.openrightsgroup.org/press-releases/open-rights-group-sound-red-alert-as-nadine-dorries-announces-bonfire-of-data-rights/)
+- Jul 23 - [The audacious PR plot that seeded doubt about climate change](https://www.bbc.com/news/science-environment-62225696)
+- Jul 23 - [Health effects of the use of non-sugar sweeteners: a review and meta-analysis](https://www.who.int/publications-detail-redirect/9789240046429)
+- Jul 23 - [Twitter data breach exposes contact details for 5.4M accounts; on sale for $30k](https://9to5mac.com/2022/07/22/twitter-data-breach/)
+- Jul 23 - [OfficerBreaker – pptx/docx/xlsx password remover](https://github.com/nedlir/OfficerBreaker)
 <!--END_SECTION:hn-->
 
 <!--
