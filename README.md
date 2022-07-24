@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 24 - [Burning Ship Fractal](http://www.paulbourke.net/fractals/burnship/)
-- Jul 24 - [Ask HN: What are some keywords you track everyday?](https://news.ycombinator.com/item?id=32210004)
-- Jul 24 - [A chess robot in Moscow has broken the finger of its human opponent](https://newsbeezer.com/czechrepubliceng/a-chess-robot-in-moscow-has-broken-the-finger-of-its-human-opponent/)
-- Jul 24 - [How to Fold a Julia Fractal – A tale of numbers that like to turn (2013)](https://acko.net/blog/how-to-fold-a-julia-fractal/)
-- Jul 24 - [Does the Past Still Exist?](http://backreaction.blogspot.com/2022/07/does-past-still-exist.html)
+- Jul 24 - [Cold Emails and Twitter](https://guzey.com/personal/what-should-you-do-with-your-life/)
+- Jul 24 - [Ford's answer to EV supply chain hell: Cheaper batteries](https://www.axios.com/2022/07/22/ford-lithium-iron-phosphate-batteries)
+- Jul 24 - [Xz format considered inadequate for long-term archiving (2016)](https://www.nongnu.org/lzip/xz_inadequate.html)
+- Jul 24 - [Wikenigma is an encyclopedia for topics with unknown answers](https://wikenigma.org.uk/)
+- Jul 24 - [Amazon sales of “Deep Learning with Python” are counterfeit](https://twitter.com/fchollet/status/1550930876183166976)
 <!--END_SECTION:hn-->
 
 <!--
