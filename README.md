@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 23 - [Open rights group sound ‘Red Alert’ as UK announces bonfire of data rights](https://www.openrightsgroup.org/press-releases/open-rights-group-sound-red-alert-as-nadine-dorries-announces-bonfire-of-data-rights/)
-- Jul 23 - [The audacious PR plot that seeded doubt about climate change](https://www.bbc.com/news/science-environment-62225696)
-- Jul 23 - [Health effects of the use of non-sugar sweeteners: a review and meta-analysis](https://www.who.int/publications-detail-redirect/9789240046429)
-- Jul 23 - [Twitter data breach exposes contact details for 5.4M accounts; on sale for $30k](https://9to5mac.com/2022/07/22/twitter-data-breach/)
-- Jul 23 - [OfficerBreaker – pptx/docx/xlsx password remover](https://github.com/nedlir/OfficerBreaker)
+- Jul 24 - [Burning Ship Fractal](http://www.paulbourke.net/fractals/burnship/)
+- Jul 24 - [Ask HN: What are some keywords you track everyday?](https://news.ycombinator.com/item?id=32210004)
+- Jul 24 - [A chess robot in Moscow has broken the finger of its human opponent](https://newsbeezer.com/czechrepubliceng/a-chess-robot-in-moscow-has-broken-the-finger-of-its-human-opponent/)
+- Jul 24 - [How to Fold a Julia Fractal – A tale of numbers that like to turn (2013)](https://acko.net/blog/how-to-fold-a-julia-fractal/)
+- Jul 24 - [Does the Past Still Exist?](http://backreaction.blogspot.com/2022/07/does-past-still-exist.html)
 <!--END_SECTION:hn-->
 
 <!--
