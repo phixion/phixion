@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 24 - [Performance comparison: counting words in Python, C/C++, Awk, Rust, and more](https://benhoyt.com/writings/count-words/)
-- Jul 24 - [Non-Obvious Docker Uses](https://matt-rickard.com/non-obvious-docker-uses/)
-- Jul 24 - [Vi Hart: Hexaflexagons [video]](https://www.youtube.com/watch?v=VIVIegSt81k&list=PLaNzoFtkQ7rbt5ac9qdi76iNKuqZWQkB3)
-- Jul 24 - [Show HN: SkillPress – Learn JavaScript via spaced repetition and active recall](https://app.skillpress.io/study/19/course/23)
-- Jul 24 - [Porn use and men's and women's sexual performance](https://www.cambridge.org/core/journals/psychological-medicine/article/porn-use-and-mens-and-womens-sexual-performance-evidence-from-a-large-longitudinal-sample/665B68D9E195A19B5825F9411B059927)
+- Jul 24 - [Oblique Strategies on GameBoy](https://nickyflowers.itch.io/osgb)
+- Jul 24 - [Kubernetes for Developers Who Know How to Develop](https://blog.ali.dev/engineering/2022/01/13/k8s-for-developers/)
+- Jul 24 - [The World That Twitter Never Made](https://scholars-stage.org/the-world-that-twitter-never-made/)
+- Jul 24 - [Samsung asks for planning permission for 11 fabs in Texas](https://www.electronicsweekly.com/uncategorised/802190-2022-07/)
+- Jul 24 - [DwarFS: A fast high compression read-only file system](https://github.com/mhx/dwarfs)
 <!--END_SECTION:hn-->
 
 <!--
