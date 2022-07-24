@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 24 - [Cold Emails and Twitter](https://guzey.com/personal/what-should-you-do-with-your-life/)
-- Jul 24 - [Ford's answer to EV supply chain hell: Cheaper batteries](https://www.axios.com/2022/07/22/ford-lithium-iron-phosphate-batteries)
-- Jul 24 - [Xz format considered inadequate for long-term archiving (2016)](https://www.nongnu.org/lzip/xz_inadequate.html)
-- Jul 24 - [Wikenigma is an encyclopedia for topics with unknown answers](https://wikenigma.org.uk/)
-- Jul 24 - [Amazon sales of “Deep Learning with Python” are counterfeit](https://twitter.com/fchollet/status/1550930876183166976)
+- Jul 24 - [Show HN: Kvass, a personal key-value store](https://github.com/maxmunzel/kvass)
+- Jul 24 - [Tech booms fuelled liveability busts in Silicon Valley and Bengaluru](https://daily.thesignal.co/p/a-tale-of-two-valleys)
+- Jul 24 - [Body integrity identity disorder (BIID): How satisfied are successful wannabes [pdf]](https://opus.bsz-bw.de/msh/frontdoor/deliver/index/docId/37/file/BIID_successful_Wannabes.pdf)
+- Jul 24 - [Prima: Cross-platform GUI toolkit written in Perl](https://github.com/dk/Prima)
+- Jul 24 - [Ask HN: What is a sustainable methodology for taking notes of your learning?](https://news.ycombinator.com/item?id=32211734)
 <!--END_SECTION:hn-->
 
 <!--
