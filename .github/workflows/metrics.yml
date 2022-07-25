@@ -50,7 +50,7 @@ jobs:
           plugin_contributors: no
           
           plugin_stars: yes
-          plugin_stars_limit: 6
+          plugin_stars_limit: 12
           
           plugin_reactions: yes
           
