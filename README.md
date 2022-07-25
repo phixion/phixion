@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 25 - [Laser fusion facility heads back to drawing board](https://www.nature.com/articles/d41586-022-02022-1)
+- Jul 25 - [The Case for C# and .NET](https://chrlschn.medium.com/the-case-for-c-and-net-72ee933da304)
+- Jul 25 - [The Identity of Kim Il Sung (1949) [pdf]](https://www.cia.gov/readingroom/docs/CIA-RDP80-00809A000600270269-4.pdf)
 - Jul 24 - [Building a tiny little broken calculator with parser combinators](https://blog.jfo.click/building-a-tiny-little-broken-calculator-with-parser-combinators/)
 - Jul 24 - [Why are McDonald’s Self Service Kiosks so hackable?](https://ghuntley.com/mcdonalds/)
-- Jul 24 - [Datadog dashboard for the Texas power grid](https://p.datadoghq.com/sb/5c2fc00be-393be929c9c55c3b80b557d08c30787a?from_ts=1658093527470&to_ts=1658698327470&live=true)
-- Jul 24 - [A self-contained AVR programmer using an Arduino Uno](https://blog.jgc.org/2022/07/a-self-contained-avr-programmer-using.html)
-- Jul 24 - [BuildZoom (better way to build custom homes) Is hiring a Product Manager](https://jobs.lever.co/buildzoom)
 <!--END_SECTION:hn-->
 
 <!--
