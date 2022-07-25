@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 25 - [Laser fusion facility heads back to drawing board](https://www.nature.com/articles/d41586-022-02022-1)
-- Jul 25 - [The Case for C# and .NET](https://chrlschn.medium.com/the-case-for-c-and-net-72ee933da304)
-- Jul 25 - [The Identity of Kim Il Sung (1949) [pdf]](https://www.cia.gov/readingroom/docs/CIA-RDP80-00809A000600270269-4.pdf)
-- Jul 24 - [Building a tiny little broken calculator with parser combinators](https://blog.jfo.click/building-a-tiny-little-broken-calculator-with-parser-combinators/)
-- Jul 24 - [Why are McDonald’s Self Service Kiosks so hackable?](https://ghuntley.com/mcdonalds/)
+- Jul 25 - [Considering Sourcehut](https://postmarketos.org/blog/2022/07/25/considering-sourcehut/)
+- Jul 25 - [Towards robot accelerators, democratizing hardware acceleration in robotics](https://news.accelerationrobotics.com/towards-robot-accelerators-democratizing-hardware-acceleration-in-robotics/)
+- Jul 25 - [Deutsche Bahn’s Meltdown and High-Speed Rail](https://pedestrianobservations.com/2022/07/24/deutsche-bahns-meltdown-and-high-speed-rail/)
+- Jul 25 - [Finishing what you start makes teams more productive and predictable](https://lucasfcosta.com/2022/07/19/finish-what-you-start.html)
+- Jul 25 - [Ask HN: Why are there so few “artificial sunlight”/“artificial window” products?](https://news.ycombinator.com/item?id=32220349)
 <!--END_SECTION:hn-->
 
 <!--
