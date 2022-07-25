@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 25 - [Strawman? Steelman? How to Starman: Arguing from Compassion](https://centerforinquiry.org/blog/how-to-star-man-arguing-from-compassion/)
+- Jul 25 - [The GNU Name System](https://www.gnunet.org/en/gns.html)
+- Jul 25 - [The EU has quietly provided Morocco with powerful phone hacking systems [French]](https://disclose.ngo/fr/article/union-europeenne-a-discretement-fourni-au-maroc-de-puissants-systemes-de-piratage-des-telephones)
+- Jul 25 - [Handshake – Decentralized naming and certificate authority](https://handshake.org/)
 - Jul 25 - [Considering Sourcehut](https://postmarketos.org/blog/2022/07/25/considering-sourcehut/)
-- Jul 25 - [Towards robot accelerators, democratizing hardware acceleration in robotics](https://news.accelerationrobotics.com/towards-robot-accelerators-democratizing-hardware-acceleration-in-robotics/)
-- Jul 25 - [Deutsche Bahn’s Meltdown and High-Speed Rail](https://pedestrianobservations.com/2022/07/24/deutsche-bahns-meltdown-and-high-speed-rail/)
-- Jul 25 - [Finishing what you start makes teams more productive and predictable](https://lucasfcosta.com/2022/07/19/finish-what-you-start.html)
-- Jul 25 - [Ask HN: Why are there so few “artificial sunlight”/“artificial window” products?](https://news.ycombinator.com/item?id=32220349)
 <!--END_SECTION:hn-->
 
 <!--
