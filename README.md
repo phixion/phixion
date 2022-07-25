@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 24 - [Oblique Strategies on GameBoy](https://nickyflowers.itch.io/osgb)
-- Jul 24 - [Kubernetes for Developers Who Know How to Develop](https://blog.ali.dev/engineering/2022/01/13/k8s-for-developers/)
-- Jul 24 - [The World That Twitter Never Made](https://scholars-stage.org/the-world-that-twitter-never-made/)
-- Jul 24 - [Samsung asks for planning permission for 11 fabs in Texas](https://www.electronicsweekly.com/uncategorised/802190-2022-07/)
-- Jul 24 - [DwarFS: A fast high compression read-only file system](https://github.com/mhx/dwarfs)
+- Jul 24 - [Building a tiny little broken calculator with parser combinators](https://blog.jfo.click/building-a-tiny-little-broken-calculator-with-parser-combinators/)
+- Jul 24 - [Why are McDonald’s Self Service Kiosks so hackable?](https://ghuntley.com/mcdonalds/)
+- Jul 24 - [Datadog dashboard for the Texas power grid](https://p.datadoghq.com/sb/5c2fc00be-393be929c9c55c3b80b557d08c30787a?from_ts=1658093527470&to_ts=1658698327470&live=true)
+- Jul 24 - [A self-contained AVR programmer using an Arduino Uno](https://blog.jgc.org/2022/07/a-self-contained-avr-programmer-using.html)
+- Jul 24 - [BuildZoom (better way to build custom homes) Is hiring a Product Manager](https://jobs.lever.co/buildzoom)
 <!--END_SECTION:hn-->
 
 <!--
