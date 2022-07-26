@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 26 - [Magnasanti – the largest and most terrible city of SimCity](https://weekly-geekly.imtqy.com/articles/358180/index.html)
+- Jul 26 - [Helium has revenues of $6.5k/month after $365M investment from A16Z](https://twitter.com/liron/status/1551738599254773765)
+- Jul 26 - [From August 1: Cash transactions above NIS 6k illegal](https://www.israelnationalnews.com/news/357072)
+- Jul 26 - [The Danger of Journaling Is Introspection](https://www.bramadams.dev/projects/the-danger-of-journaling-is-introspection)
 - Jul 26 - [Job Switchers Are Earning a Lot More Than Those Who Stay](https://www.wsj.com/articles/inflation-switch-jobs-more-money-fed-atlanta-data-11658699425)
-- Jul 26 - [The Dangers of Microsoft Pluton](https://gabrielsieben.tech/2022/07/25/the-power-of-microsoft-pluton-2/)
-- Jul 26 - [Saudi Crown Prince unveils plans for $500bn structure to house 9M people](https://twitter.com/Spa_Eng/status/1551627809973485573)
-- Jul 26 - [Treadmill garbage collector by H. Baker](http://www.cofault.com/2022/07/treadmill.html)
-- Jul 26 - [Shamelessness as a Strategy](https://nadia.xyz/shameless)
 <!--END_SECTION:hn-->
 
 <!--
