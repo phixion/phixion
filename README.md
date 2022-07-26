@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 26 - [How to Structure Your Sales Compensation Plan to Deliberately Undersell](https://tomtunguz.com/how-to-deliberately-undersell/)
-- Jul 26 - [Logistics, How Did They Do It, Part I: The Problem](https://acoup.blog/2022/07/15/collections-logistics-how-did-they-do-it-part-i-the-problem/)
-- Jul 26 - [RustDesk – The open source TeamViewer alternative](https://github.com/rustdesk/rustdesk)
-- Jul 26 - [CosmicStrand: The discovery of a sophisticated UEFI firmware rootkit](https://securelist.com/cosmicstrand-uefi-firmware-rootkit/106973/)
-- Jul 26 - [Build Pong in Your Terminal with Go for Some Reason](https://earthly.dev/blog/pongo/)
+- Jul 26 - [A little trick to spam the spammers](https://misc.l3m.in/txt/spam.txt)
+- Jul 26 - [Toyota RAV4 Prime hybrid SUV now selling for 48% over MSRP](https://driverbase.com/inventory/new-and-used/toyota/rav4-prime)
+- Jul 26 - [CircleCI Announces Support for Gitlab](https://circleci.com/blog/announcing-gitlab-support/)
+- Jul 26 - [Retrofitting GDPR Compliance onto Legacy Databases [pdf]](https://vldb.org/pvldb/vol15/p958-george.pdf)
+- Jul 26 - [Shipping Multi-Tenant SaaS Using Postgres Row-Level Security](https://www.thenile.dev/blog/multi-tenant-rls)
 <!--END_SECTION:hn-->
 
 <!--
