@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 26 - [Universe (YC W18) Is Hiring a Staff Front End Web Engineer](https://jobs.lever.co/onuniverse/856fcda5-f043-4fcc-81b3-21b0eef6f644)
-- Jul 26 - [Denmark bans Gmail and Co from schools due to privacy concerns](https://tutanota.com/blog/posts/denmark-bans-google-email-and-cloud-services-due-to-privacy-concerns/)
-- Jul 26 - [miniexpect: Tiny “expect” library in 500 LoC](https://github.com/rwmjones/miniexpect)
-- Jul 26 - [VM/370 Community Edition V1R1.2 released](http://www.vm370.org/VM/V1R1.2)
-- Jul 26 - [Dicom File Format Basics](https://www.vladsiv.com/dicom-file-format-basics/)
+- Jul 26 - [How to Structure Your Sales Compensation Plan to Deliberately Undersell](https://tomtunguz.com/how-to-deliberately-undersell/)
+- Jul 26 - [Logistics, How Did They Do It, Part I: The Problem](https://acoup.blog/2022/07/15/collections-logistics-how-did-they-do-it-part-i-the-problem/)
+- Jul 26 - [RustDesk – The open source TeamViewer alternative](https://github.com/rustdesk/rustdesk)
+- Jul 26 - [CosmicStrand: The discovery of a sophisticated UEFI firmware rootkit](https://securelist.com/cosmicstrand-uefi-firmware-rootkit/106973/)
+- Jul 26 - [Build Pong in Your Terminal with Go for Some Reason](https://earthly.dev/blog/pongo/)
 <!--END_SECTION:hn-->
 
 <!--
