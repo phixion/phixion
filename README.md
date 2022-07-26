@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 25 - [Yes, the 8086 wanted to be mechanically translatable from the 8080, but](https://devblogs.microsoft.com/oldnewthing/20220725-00/?p=106889)
-- Jul 25 - [Show HN: I built an email marketing tool made for indie hackers and solopreneurs](https://www.useplunk.com)
-- Jul 25 - [What I Learned at Clubhouse](https://anu.substack.com/p/what-i-learned-at-clubhouse-)
-- Jul 25 - [Coding Mistake Made Intel GPUs 100X Slower in Ray Tracing](https://www.tomshardware.com/news/intel-gpu-100x-performance-ray-tracing)
-- Jul 25 - [Data-Parallel Actors: A Programming Model for Scalable Query Serving Systems](https://www.micahlerner.com/2022/06/04/data-parallel-actors-a-programming-model-for-scalable-query-serving-systems.html)
+- Jul 25 - [Princess Mononoke: The masterpiece that flummoxed the US](https://www.bbc.com/culture/article/20220713-princess-mononoke-the-masterpiece-that-flummoxed-the-us)
+- Jul 25 - [A coding error caused Rogers outage that left millions without service](https://www.theglobeandmail.com/business/article-how-a-coding-error-caused-rogers-outage-that-left-millions-without/)
+- Jul 25 - [New embedded programming language with C as a host language](https://vely.dev/)
+- Jul 25 - [‘Solar Tower’ System Produces Jet Fuel from CO2, Water, and Sunlight](https://singularityhub.com/2022/07/25/this-solar-tower-system-produces-jet-fuel-from-co2-water-and-sunlight/)
+- Jul 25 - [I bought a cheap electric pickup truck from Alibaba. Here’s what showed up](https://electrek.co/2021/10/25/i-actually-bought-a-cheap-electric-pickup-truck-from-alibaba-heres-what-showed-up/)
 <!--END_SECTION:hn-->
 
 <!--
