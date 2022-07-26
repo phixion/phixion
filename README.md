@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 26 - [Magnasanti – the largest and most terrible city of SimCity](https://weekly-geekly.imtqy.com/articles/358180/index.html)
-- Jul 26 - [Helium has revenues of $6.5k/month after $365M investment from A16Z](https://twitter.com/liron/status/1551738599254773765)
-- Jul 26 - [From August 1: Cash transactions above NIS 6k illegal](https://www.israelnationalnews.com/news/357072)
-- Jul 26 - [The Danger of Journaling Is Introspection](https://www.bramadams.dev/projects/the-danger-of-journaling-is-introspection)
-- Jul 26 - [Job Switchers Are Earning a Lot More Than Those Who Stay](https://www.wsj.com/articles/inflation-switch-jobs-more-money-fed-atlanta-data-11658699425)
+- Jul 26 - [Universe (YC W18) Is Hiring a Staff Front End Web Engineer](https://jobs.lever.co/onuniverse/856fcda5-f043-4fcc-81b3-21b0eef6f644)
+- Jul 26 - [Denmark bans Gmail and Co from schools due to privacy concerns](https://tutanota.com/blog/posts/denmark-bans-google-email-and-cloud-services-due-to-privacy-concerns/)
+- Jul 26 - [miniexpect: Tiny “expect” library in 500 LoC](https://github.com/rwmjones/miniexpect)
+- Jul 26 - [VM/370 Community Edition V1R1.2 released](http://www.vm370.org/VM/V1R1.2)
+- Jul 26 - [Dicom File Format Basics](https://www.vladsiv.com/dicom-file-format-basics/)
 <!--END_SECTION:hn-->
 
 <!--
