@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 25 - [Princess Mononoke: The masterpiece that flummoxed the US](https://www.bbc.com/culture/article/20220713-princess-mononoke-the-masterpiece-that-flummoxed-the-us)
-- Jul 25 - [A coding error caused Rogers outage that left millions without service](https://www.theglobeandmail.com/business/article-how-a-coding-error-caused-rogers-outage-that-left-millions-without/)
-- Jul 25 - [New embedded programming language with C as a host language](https://vely.dev/)
-- Jul 25 - [‘Solar Tower’ System Produces Jet Fuel from CO2, Water, and Sunlight](https://singularityhub.com/2022/07/25/this-solar-tower-system-produces-jet-fuel-from-co2-water-and-sunlight/)
-- Jul 25 - [I bought a cheap electric pickup truck from Alibaba. Here’s what showed up](https://electrek.co/2021/10/25/i-actually-bought-a-cheap-electric-pickup-truck-from-alibaba-heres-what-showed-up/)
+- Jul 26 - [Job Switchers Are Earning a Lot More Than Those Who Stay](https://www.wsj.com/articles/inflation-switch-jobs-more-money-fed-atlanta-data-11658699425)
+- Jul 26 - [The Dangers of Microsoft Pluton](https://gabrielsieben.tech/2022/07/25/the-power-of-microsoft-pluton-2/)
+- Jul 26 - [Saudi Crown Prince unveils plans for $500bn structure to house 9M people](https://twitter.com/Spa_Eng/status/1551627809973485573)
+- Jul 26 - [Treadmill garbage collector by H. Baker](http://www.cofault.com/2022/07/treadmill.html)
+- Jul 26 - [Shamelessness as a Strategy](https://nadia.xyz/shameless)
 <!--END_SECTION:hn-->
 
 <!--
