@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 26 - [A little trick to spam the spammers](https://misc.l3m.in/txt/spam.txt)
-- Jul 26 - [Toyota RAV4 Prime hybrid SUV now selling for 48% over MSRP](https://driverbase.com/inventory/new-and-used/toyota/rav4-prime)
-- Jul 26 - [CircleCI Announces Support for Gitlab](https://circleci.com/blog/announcing-gitlab-support/)
-- Jul 26 - [Retrofitting GDPR Compliance onto Legacy Databases [pdf]](https://vldb.org/pvldb/vol15/p958-george.pdf)
-- Jul 26 - [Shipping Multi-Tenant SaaS Using Postgres Row-Level Security](https://www.thenile.dev/blog/multi-tenant-rls)
+- Jul 26 - [Python Is Portable](https://ahgamut.github.io/2021/07/13/ape-python/)
+- Jul 26 - [Twenty Years of Valgrind](https://nnethercote.github.io/2022/07/27/twenty-years-of-valgrind.html)
+- Jul 26 - [Please Save Hacker Lab](https://tombetthauser.github.io/save-hackerlab/)
+- Jul 26 - [For Centuries, English Bakers’ Biggest Customers Were Horses](https://www.atlasobscura.com/articles/what-is-horse-bread)
+- Jul 26 - [We don't know how to fix science](https://www.worksinprogress.co/issue/we-dont-know-how-to-fix-science/)
 <!--END_SECTION:hn-->
 
 <!--
