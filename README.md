@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 27 - [New York City Is a Lot Safer Than Small-Town America](https://www.bloomberg.com/opinion/articles/2022-06-07/is-new-york-city-more-dangerous-than-rural-america)
+- Jul 27 - [An Architecture for Mostly Functional Languages (1986) [pdf]](https://web.archive.org/web/20131101085557/http://web.mit.edu/mmt/Public/Knight86.pdf)
+- Jul 27 - [Under Anesthesia, Where Do Our Minds Go?](https://nautil.us/under-anesthesia-where-do-our-minds-go-20845/)
+- Jul 27 - [Translating a Visual Lego Manual to a Machine-Executable Plan](https://cs.stanford.edu/~rcwang/projects/lego_manual/)
 - Jul 27 - [A Tale of Two Mice: Sustainable Electronics Design and Prototyping [pdf]](https://homes.cs.washington.edu/~vsiyer/Papers/biomouse-chi22.pdf)
-- Jul 27 - [How to Stop Procrastinating on Your Goals by Using the “Seinfeld Strategy”](https://jamesclear.com/stop-procrastinating-seinfeld-strategy)
-- Jul 26 - [Python is Actually Portable](https://ahgamut.github.io/2021/07/13/ape-python/)
-- Jul 26 - [Facebook's TikTok-like redesign marks sunset of social networking era](https://www.axios.com/2022/07/25/sunset-social-network-facebook-tiktok)
+- Jul 27 - [A Retrospective on the 2015 Ashley Madison Breach](https://krebsonsecurity.com/2022/07/a-retrospective-on-the-2015-ashley-madison-breach/)
 <!--END_SECTION:hn-->
 
 <!--
