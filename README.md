@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 27 - [An Architecture for Mostly Functional Languages (1986) [pdf]](https://web.archive.org/web/20131101085557/http://web.mit.edu/mmt/Public/Knight86.pdf)
-- Jul 27 - [Under Anesthesia, Where Do Our Minds Go?](https://nautil.us/under-anesthesia-where-do-our-minds-go-20845/)
-- Jul 27 - [Translating a Visual Lego Manual to a Machine-Executable Plan](https://cs.stanford.edu/~rcwang/projects/lego_manual/)
-- Jul 27 - [A Tale of Two Mice: Sustainable Electronics Design and Prototyping [pdf]](https://homes.cs.washington.edu/~vsiyer/Papers/biomouse-chi22.pdf)
-- Jul 27 - [A Retrospective on the 2015 Ashley Madison Breach](https://krebsonsecurity.com/2022/07/a-retrospective-on-the-2015-ashley-madison-breach/)
+- Jul 27 - [Aquarium (YC S20) is hiring engineers to build the platform for data-centric ML](https://www.aquariumlearning.com/careers)
+- Jul 27 - [Nikon Releases Bug Fix Firmware Update for the 10 Years Old D7100 DSLR Camera](https://nikonrumors.com/2022/07/26/nikon-released-new-firmware-update-for-the-almost-10-years-old-d7100-dslr-camera.aspx/)
+- Jul 27 - [After Obsidian and Logseq, I give Dendron a try](https://nsirap.com/posts/067-after-obsidian-and-logseq-i-try-dendron/)
+- Jul 27 - [Help pick a syntax for CSS nesting](https://developer.chrome.com/blog/help-css-nesting/)
+- Jul 27 - [You can read my blog posts using curl](https://mahdi.blog/raw-permalinks-for-accessibility/)
 <!--END_SECTION:hn-->
 
 <!--
