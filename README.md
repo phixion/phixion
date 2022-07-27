@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 27 - [Tesla driver using Autopilot kills motorcyclist, prompting another investigation](https://www.theverge.com/2022/7/27/23280461/tesla-autopilot-crash-motorcyclist-fatal-utah-nhtsa)
-- Jul 27 - [For 12 Hours, Was Part of Apple’s Network Hijacked by Russia’s Rostelecom?](https://www.manrs.org/2022/07/for-12-hours-was-part-of-apple-engineerings-network-hijacked-by-russias-rostelecom/)
-- Jul 27 - [Huanan Seafood Market in Wuhan was early epicenter of the Covid-19 pandemic](https://www.science.org/doi/10.1126/science.abp8715)
-- Jul 27 - [Launch HN: Warrant (YC S21) – Authorization and access control as a service](https://news.ycombinator.com/item?id=32251305)
-- Jul 27 - [Adventures with Deferred Texturing in Horizon Forbidden West](https://www.guerrilla-games.com/read/adventures-with-deferred-texturing-in-horizon-forbidden-west)
+- Jul 27 - [ESG should be boiled down to one simple measure: emissions](https://www.economist.com/leaders/2022/07/21/esg-should-be-boiled-down-to-one-simple-measure-emissions)
+- Jul 27 - [Senate passes $250B semiconductor bill with House set to quickly take up measure](https://www.foxnews.com/politics/senate-passes-china-semiconductor-bill-house-set-quickly-take-measure)
+- Jul 27 - [What’s the maximum size of a DNS response?](https://www.netmeister.org/blog/dns-size.html)
+- Jul 27 - [Instagram knows you don’t like its changes. It doesn’t care](https://www.washingtonpost.com/technology/2022/07/27/instagram-video-shift-kardashian/)
+- Jul 27 - [In Experiment, AI Successfully Impersonates Famous Philosopher](https://www.vice.com/en/article/epzx3m/in-experiment-ai-successfully-impersonates-famous-philosopher)
 <!--END_SECTION:hn-->
 
 <!--
