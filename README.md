@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 27 - [Aquarium (YC S20) is hiring engineers to build the platform for data-centric ML](https://www.aquariumlearning.com/careers)
-- Jul 27 - [Nikon Releases Bug Fix Firmware Update for the 10 Years Old D7100 DSLR Camera](https://nikonrumors.com/2022/07/26/nikon-released-new-firmware-update-for-the-almost-10-years-old-d7100-dslr-camera.aspx/)
-- Jul 27 - [After Obsidian and Logseq, I give Dendron a try](https://nsirap.com/posts/067-after-obsidian-and-logseq-i-try-dendron/)
-- Jul 27 - [Help pick a syntax for CSS nesting](https://developer.chrome.com/blog/help-css-nesting/)
-- Jul 27 - [You can read my blog posts using curl](https://mahdi.blog/raw-permalinks-for-accessibility/)
+- Jul 27 - [Tesla driver using Autopilot kills motorcyclist, prompting another investigation](https://www.theverge.com/2022/7/27/23280461/tesla-autopilot-crash-motorcyclist-fatal-utah-nhtsa)
+- Jul 27 - [For 12 Hours, Was Part of Apple’s Network Hijacked by Russia’s Rostelecom?](https://www.manrs.org/2022/07/for-12-hours-was-part-of-apple-engineerings-network-hijacked-by-russias-rostelecom/)
+- Jul 27 - [Huanan Seafood Market in Wuhan was early epicenter of the Covid-19 pandemic](https://www.science.org/doi/10.1126/science.abp8715)
+- Jul 27 - [Launch HN: Warrant (YC S21) – Authorization and access control as a service](https://news.ycombinator.com/item?id=32251305)
+- Jul 27 - [Adventures with Deferred Texturing in Horizon Forbidden West](https://www.guerrilla-games.com/read/adventures-with-deferred-texturing-in-horizon-forbidden-west)
 <!--END_SECTION:hn-->
 
 <!--
