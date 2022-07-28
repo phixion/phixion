@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 28 - [HypeScript: Simplified TypeScript type system in TypeScript's own type system](https://github.com/ronami/HypeScript)
-- Jul 28 - [Druid: A Real-Time Analytical Data Store](https://www.micahlerner.com/2022/05/15/druid-a-real-time-analytical-data-store.html)
-- Jul 28 - [ShotSpotter requests to be held in contempt rather than disclose its methodology](https://chicagoreader.com/news-politics/shotspotter-held-in-contempt-of-court/)
-- Jul 28 - [Flipping until you are lost](https://11011110.github.io/blog/2022/07/21/flipping-until-lost.html)
-- Jul 28 - [How to create a Python package in 2022](https://mathspp.com/blog/how-to-create-a-python-package-in-2022)
+- Jul 28 - [Has the world become less colourful?](https://twitter.com/culturaltutor/status/1551976051860963333)
+- Jul 28 - [Evidence for behavioural interventions looks increasingly shaky](https://www.economist.com/science-and-technology/2022/07/27/evidence-for-behavioural-interventions-looks-increasingly-shaky)
+- Jul 28 - [Ultra-minimal JSON schemas with TypeScript inference](https://github.com/ar-nelson/spartan-schema)
+- Jul 28 - [Rust Is Actually Portable](https://ahgamut.github.io/2022/07/27/ape-rust-example/)
+- Jul 28 - [The Harry Potter Fallacy](https://www.the-tls.co.uk/articles/straw-man-arguments-scott-aikin-john-casey-book-review-mary-leng/)
 <!--END_SECTION:hn-->
 
 <!--
