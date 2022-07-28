@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 27 - [ESG should be boiled down to one simple measure: emissions](https://www.economist.com/leaders/2022/07/21/esg-should-be-boiled-down-to-one-simple-measure-emissions)
-- Jul 27 - [Senate passes $250B semiconductor bill with House set to quickly take up measure](https://www.foxnews.com/politics/senate-passes-china-semiconductor-bill-house-set-quickly-take-measure)
-- Jul 27 - [What’s the maximum size of a DNS response?](https://www.netmeister.org/blog/dns-size.html)
-- Jul 27 - [Instagram knows you don’t like its changes. It doesn’t care](https://www.washingtonpost.com/technology/2022/07/27/instagram-video-shift-kardashian/)
-- Jul 27 - [In Experiment, AI Successfully Impersonates Famous Philosopher](https://www.vice.com/en/article/epzx3m/in-experiment-ai-successfully-impersonates-famous-philosopher)
+- Jul 27 - [Mitsuba 3 Physically Based Renderer](http://www.mitsuba-renderer.org)
+- Jul 27 - [Ask HN: Higher order derivatives in everyday life?](https://news.ycombinator.com/item?id=32257887)
+- Jul 27 - [Cognitive Illiberalism and the Speech-Conduct Distinction](https://scholarship.law.cornell.edu/cgi/viewcontent.cgi?article=1818&context=facpub)
+- Jul 27 - [Google delays phasing out ad cookies on Chrome until 2024](https://www.bloomberg.com/news/articles/2022-07-27/google-delays-phasing-out-ad-cookies-on-chrome-until-2024)
+- Jul 27 - [Everyone seems to forget why GNOME and GNOME 3 and Unity happened](https://liam-on-linux.dreamwidth.org/85359.html)
 <!--END_SECTION:hn-->
 
 <!--
