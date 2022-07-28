@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 27 - [Mitsuba 3 Physically Based Renderer](http://www.mitsuba-renderer.org)
-- Jul 27 - [Ask HN: Higher order derivatives in everyday life?](https://news.ycombinator.com/item?id=32257887)
-- Jul 27 - [Cognitive Illiberalism and the Speech-Conduct Distinction](https://scholarship.law.cornell.edu/cgi/viewcontent.cgi?article=1818&context=facpub)
-- Jul 27 - [Google delays phasing out ad cookies on Chrome until 2024](https://www.bloomberg.com/news/articles/2022-07-27/google-delays-phasing-out-ad-cookies-on-chrome-until-2024)
-- Jul 27 - [Everyone seems to forget why GNOME and GNOME 3 and Unity happened](https://liam-on-linux.dreamwidth.org/85359.html)
+- Jul 28 - [HypeScript: Simplified TypeScript type system in TypeScript's own type system](https://github.com/ronami/HypeScript)
+- Jul 28 - [Druid: A Real-Time Analytical Data Store](https://www.micahlerner.com/2022/05/15/druid-a-real-time-analytical-data-store.html)
+- Jul 28 - [ShotSpotter requests to be held in contempt rather than disclose its methodology](https://chicagoreader.com/news-politics/shotspotter-held-in-contempt-of-court/)
+- Jul 28 - [Flipping until you are lost](https://11011110.github.io/blog/2022/07/21/flipping-until-lost.html)
+- Jul 28 - [How to create a Python package in 2022](https://mathspp.com/blog/how-to-create-a-python-package-in-2022)
 <!--END_SECTION:hn-->
 
 <!--
