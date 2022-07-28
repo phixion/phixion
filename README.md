@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 28 - [PolicyFly (YC W22) Is Hiring a Director of Engineering](https://www.ycombinator.com/companies/policyfly/jobs/PpoJWAq-director-of-engineering)
-- Jul 28 - [AlphaFold reveals the structure of the protein universe](https://www.deepmind.com/blog/alphafold-reveals-the-structure-of-the-protein-universe)
-- Jul 28 - [Mission to reach and operate at the focal region of the solar gravitational lens](https://arxiv.org/abs/2207.03005)
-- Jul 28 - [I've Been Targeted with the Most Vicious Corporate Counterattack in US History](https://www.esquire.com/news-politics/a35812573/steven-donziger-chevron-house-arrest/)
-- Jul 28 - [TIFU by using Stripe as a payment processor for my small business](https://old.reddit.com/r/tifu/comments/wa230m/tifu_by_using_stripe_as_a_payment_processor_for/)
+- Jul 28 - [Godot 4.0 development enters feature freeze ahead of the first beta](https://godotengine.org/article/godot-4-0-development-enters-feature-freeze)
+- Jul 28 - [Any opportunities for hyperskilled labor, preferably online and pseudonymously?](https://news.ycombinator.com/item?id=32265406)
+- Jul 28 - [My newsletter is making $2k per month with 7k subscribers – AMA](https://news.ycombinator.com/item?id=32265223)
+- Jul 28 - [House Democrats to propose in August ban on lawmaker stock trading – report](https://seekingalpha.com/news/3862127-house-democrats-to-propose-stock-trading-ban-in-august-report)
+- Jul 28 - [Yes, social media is undermining democracy](https://www.theatlantic.com/ideas/archive/2022/07/social-media-harm-facebook-meta-response/670975/)
 <!--END_SECTION:hn-->
 
 <!--
