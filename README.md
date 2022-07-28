@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 28 - [Has the world become less colourful?](https://twitter.com/culturaltutor/status/1551976051860963333)
-- Jul 28 - [Evidence for behavioural interventions looks increasingly shaky](https://www.economist.com/science-and-technology/2022/07/27/evidence-for-behavioural-interventions-looks-increasingly-shaky)
-- Jul 28 - [Ultra-minimal JSON schemas with TypeScript inference](https://github.com/ar-nelson/spartan-schema)
-- Jul 28 - [Rust Is Actually Portable](https://ahgamut.github.io/2022/07/27/ape-rust-example/)
-- Jul 28 - [The Harry Potter Fallacy](https://www.the-tls.co.uk/articles/straw-man-arguments-scott-aikin-john-casey-book-review-mary-leng/)
+- Jul 28 - [PolicyFly (YC W22) Is Hiring a Director of Engineering](https://www.ycombinator.com/companies/policyfly/jobs/PpoJWAq-director-of-engineering)
+- Jul 28 - [AlphaFold reveals the structure of the protein universe](https://www.deepmind.com/blog/alphafold-reveals-the-structure-of-the-protein-universe)
+- Jul 28 - [Mission to reach and operate at the focal region of the solar gravitational lens](https://arxiv.org/abs/2207.03005)
+- Jul 28 - [I've Been Targeted with the Most Vicious Corporate Counterattack in US History](https://www.esquire.com/news-politics/a35812573/steven-donziger-chevron-house-arrest/)
+- Jul 28 - [TIFU by using Stripe as a payment processor for my small business](https://old.reddit.com/r/tifu/comments/wa230m/tifu_by_using_stripe_as_a_payment_processor_for/)
 <!--END_SECTION:hn-->
 
 <!--
