@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 29 - [PermitFlow (YC W22) Is Hiring a Founding Software Engineer](https://www.ycombinator.com/companies/permitflow/jobs/axcfyjc-founding-software-engineer)
-- Jul 29 - [‘Voyager on steroids.’ Mission would probe region beyond our Solar System](https://www.science.org/content/article/voyager-steroids-mission-probe-mysterious-region-beyond-solar-system)
-- Jul 29 - [Why the Windows Registry sucks technically (2010)](https://rwmj.wordpress.com/2010/02/18/why-the-windows-registry-sucks-technically/)
-- Jul 29 - [Map with the most famous people from every city](https://tjukanovt.github.io/notable-people)
-- Jul 29 - [Data Center Heatmap](https://barry.blog/2022/07/28/data-center-heatmap/)
+- Jul 29 - [Tabler: Free and open source dashboard HTML/CSS framework](https://github.com/tabler/tabler)
+- Jul 29 - [Build Your Own Web Framework](https://vercel.com/blog/build-your-own-web-framework)
+- Jul 29 - [Booting Linux in five seconds (2008)](https://lwn.net/Articles/299483/)
+- Jul 29 - [Semantic Diff for SQL](https://github.com/tobymao/sqlglot/blob/main/posts/sql_diff.md)
+- Jul 29 - [Show HN: Truss – serve any ML model, anywhere, without boilerplate code](https://github.com/basetenlabs/truss)
 <!--END_SECTION:hn-->
 
 <!--
