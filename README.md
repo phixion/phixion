@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 29 - [Democrats revive the fight for net neutrality](https://www.theverge.com/2022/7/28/23282483/net-neutrality-ed-markey-bill-fcc-regulations-telecom-broadband-internet)
-- Jul 29 - [Buttery Smooth “10fps”](https://wunkolo.github.io/post/2020/02/buttery-smooth-10fps/)
-- Jul 29 - [IPv6 Only Cloud Server](https://v6node.com)
-- Jul 29 - [Asus Zenfone 9](https://www.asus.com/Mobile/Phones/ZenFone/Zenfone-9/)
-- Jul 29 - [Overview of Consistency Levels in Database Systems](http://dbmsmusings.blogspot.com/2019/07/overview-of-consistency-levels-in.html)
+- Jul 29 - [Phrases in computing that might need retiring](https://www.sicpers.info/2022/07/phrases-in-computing-that-might-need-retiring/)
+- Jul 29 - [Seven megatrends that will shape the next 20 years](https://www.csiro.au/en/news/news-releases/2022/seven-megatrends-that-will-shape-the-next-20-years)
+- Jul 29 - [Data Center Heatmap](https://barry.blog/2022/07/28/data-center-heatmap/)
+- Jul 29 - [NIST announces preliminary winners of post-quantum competition](https://www.feistyduck.com/bulletproof-tls-newsletter/issue_91_nist_announces_preliminary_winners_of_post-quantum_competition)
+- Jul 29 - [TikTok and the Fall of the Social-Media Giants](https://www.newyorker.com/culture/cultural-comment/tiktok-and-the-fall-of-the-social-media-giants)
 <!--END_SECTION:hn-->
 
 <!--
