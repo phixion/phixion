@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 28 - [FOMO Is Disastrous for Company Strategies](https://rubenugarte.com/fomo-is-disastrous-for-company-strategies/)
-- Jul 28 - [WebContainers are now supported in Firefox on desktop and Android](https://blog.stackblitz.com/posts/webcontainers-are-now-supported-on-firefox/)
-- Jul 28 - [Rebellion at DataRobot over insider stock sales](https://newsletter.pragmaticengineer.com/p/the-scoop-rebellion-at-datarobot)
-- Jul 28 - [Folklore of ClarisWorks](http://groups.csail.mit.edu/mac/users/bob/clarisworks.php)
-- Jul 28 - [EdgeDB 2.0](https://www.edgedb.com/blog/edgedb-2-0)
+- Jul 28 - [Is the Kalman filter just a low-pass filter?](https://jbconsulting.substack.com/p/is-the-kalman-filter-just-a-low-pass)
+- Jul 28 - [The Best iPhone](https://notes.ghed.in/posts/the-best-iphone/)
+- Jul 28 - [GL_EXT_fragment_shader_barycentric: Wireframe](https://wunkolo.github.io/post/2022/07/gl_ext_fragment_shader_barycentric-wireframe/)
+- Jul 28 - [I Designed My Own 16-Bit CPU [video]](https://www.youtube.com/watch?v=Zt0JfmV7CyI)
+- Jul 28 - [Apple Reports Third Quarter Results](https://www.apple.com/newsroom/2022/07/apple-reports-third-quarter-results/)
 <!--END_SECTION:hn-->
 
 <!--
