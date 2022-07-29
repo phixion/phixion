@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 29 - [Tabler: Free and open source dashboard HTML/CSS framework](https://github.com/tabler/tabler)
-- Jul 29 - [Build Your Own Web Framework](https://vercel.com/blog/build-your-own-web-framework)
-- Jul 29 - [Booting Linux in five seconds (2008)](https://lwn.net/Articles/299483/)
-- Jul 29 - [Semantic Diff for SQL](https://github.com/tobymao/sqlglot/blob/main/posts/sql_diff.md)
-- Jul 29 - [Show HN: Truss – serve any ML model, anywhere, without boilerplate code](https://github.com/basetenlabs/truss)
+- Jul 29 - [Wordris](https://mwenge.github.io/wordris/)
+- Jul 29 - [911 Proxy Service Implodes After Disclosing Breach](https://krebsonsecurity.com/2022/07/911-proxy-service-implodes-after-disclosing-breach/)
+- Jul 29 - [Kitsault, Canada’s $50M 1980s ghost town](https://justinmcelroy.com/2022/07/26/visiting-canadas-50-million-1980s-ghost-town/)
+- Jul 29 - [Ambition as an anxiety disorder](https://moontower.substack.com/p/moontower-154)
+- Jul 29 - [Apple Pay works in non-Safari browsers in iOS 16 Beta 3](https://news.ycombinator.com/item?id=32280325)
 <!--END_SECTION:hn-->
 
 <!--
