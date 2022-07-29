@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 29 - [Phrases in computing that might need retiring](https://www.sicpers.info/2022/07/phrases-in-computing-that-might-need-retiring/)
-- Jul 29 - [Seven megatrends that will shape the next 20 years](https://www.csiro.au/en/news/news-releases/2022/seven-megatrends-that-will-shape-the-next-20-years)
+- Jul 29 - [PermitFlow (YC W22) Is Hiring a Founding Software Engineer](https://www.ycombinator.com/companies/permitflow/jobs/axcfyjc-founding-software-engineer)
+- Jul 29 - [‘Voyager on steroids.’ Mission would probe region beyond our Solar System](https://www.science.org/content/article/voyager-steroids-mission-probe-mysterious-region-beyond-solar-system)
+- Jul 29 - [Why the Windows Registry sucks technically (2010)](https://rwmj.wordpress.com/2010/02/18/why-the-windows-registry-sucks-technically/)
+- Jul 29 - [Map with the most famous people from every city](https://tjukanovt.github.io/notable-people)
 - Jul 29 - [Data Center Heatmap](https://barry.blog/2022/07/28/data-center-heatmap/)
-- Jul 29 - [NIST announces preliminary winners of post-quantum competition](https://www.feistyduck.com/bulletproof-tls-newsletter/issue_91_nist_announces_preliminary_winners_of_post-quantum_competition)
-- Jul 29 - [TikTok and the Fall of the Social-Media Giants](https://www.newyorker.com/culture/cultural-comment/tiktok-and-the-fall-of-the-social-media-giants)
 <!--END_SECTION:hn-->
 
 <!--
