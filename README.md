@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 29 - [Wordris](https://mwenge.github.io/wordris/)
-- Jul 29 - [911 Proxy Service Implodes After Disclosing Breach](https://krebsonsecurity.com/2022/07/911-proxy-service-implodes-after-disclosing-breach/)
-- Jul 29 - [Kitsault, Canada’s $50M 1980s ghost town](https://justinmcelroy.com/2022/07/26/visiting-canadas-50-million-1980s-ghost-town/)
-- Jul 29 - [Ambition as an anxiety disorder](https://moontower.substack.com/p/moontower-154)
-- Jul 29 - [Apple Pay works in non-Safari browsers in iOS 16 Beta 3](https://news.ycombinator.com/item?id=32280325)
+- Jul 29 - [Why Hypergraphs? (2013)](https://blog.opencog.org/2013/03/24/why-hypergraphs/)
+- Jul 29 - [Yandex open sources C++ asynchronous framework](https://userver.tech/)
+- Jul 29 - [Jitter a Git-based binary manager for Linux written in Nim](https://github.com/sharpcdf/jitter)
+- Jul 29 - [Remote Attestation is coming back. How much freedom will it take?](https://gabrielsieben.tech/2022/07/29/remote-assertion-is-coming-back-how-much-freedom-will-it-take/)
+- Jul 29 - [Clojure Web Development Evolved [video]](https://www.youtube.com/watch?v=DFzukK5-rpU)
 <!--END_SECTION:hn-->
 
 <!--
