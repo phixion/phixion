@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 30 - [Sieve (YC W22) is building plug-and-play APIs for video AI](https://www.sievedata.com/)
-- Jul 30 - [Recommended settings for Wi-Fi routers and access points](https://support.apple.com/en-us/HT202068)
-- Jul 30 - [Router Security](https://routersecurity.org/)
-- Jul 30 - [Show HN: The Poetry Corner – A React Native app to read public domain poems](https://apps.apple.com/gb/app/the-poetry-corner/id1602552624)
-- Jul 30 - [Ask HN: How to disable right-click blocking in the browser](https://news.ycombinator.com/item?id=32285459)
+- Jul 30 - [Archive of Visualized Concepts](https://archivve.visualizevalue.com/)
+- Jul 30 - [Ask HN: How do you critically evaluate scientific papers?](https://news.ycombinator.com/item?id=32287512)
+- Jul 30 - [US court system suffered 'incredibly significant attack' – sealed files at risk](https://www.theregister.com/2022/07/29/us_judiciary_attack/)
+- Jul 30 - [An efficient key recovery attack on SIDH](https://eprint.iacr.org/2022/975)
+- Jul 30 - [What happens when society collapses (2021)](https://readysquirrel.com/what-happens-when-society-collapses/)
 <!--END_SECTION:hn-->
 
 <!--
