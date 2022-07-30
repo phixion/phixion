@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 30 - [“After Going Solar, I Felt the Bliss of Sudden Abundance”](https://www.wired.com/story/after-going-solar-i-felt-the-bliss-of-sudden-abundance/)
-- Jul 30 - [I Miss the Programmable Web (2021)](https://matt-rickard.com/the-programmable-web/)
-- Jul 30 - [Photogrammetry Guide](https://github.com/mikeroyal/Photogrammetry-Guide)
-- Jul 30 - [Aldous Huxley’s version of the Disney “Alice” (2020)](https://cartoonresearch.com/index.php/aldous-huxleys-version-of-the-disney-alice/)
-- Jul 30 - [The Fourth Operation: What Comes After Exponentiation](http://ariwatch.com/VS/Algorithms/TheFourthOperation.htm)
+- Jul 30 - [Sieve (YC W22) is building plug-and-play APIs for video AI](https://www.sievedata.com/)
+- Jul 30 - [Recommended settings for Wi-Fi routers and access points](https://support.apple.com/en-us/HT202068)
+- Jul 30 - [Router Security](https://routersecurity.org/)
+- Jul 30 - [Show HN: The Poetry Corner – A React Native app to read public domain poems](https://apps.apple.com/gb/app/the-poetry-corner/id1602552624)
+- Jul 30 - [Ask HN: How to disable right-click blocking in the browser](https://news.ycombinator.com/item?id=32285459)
 <!--END_SECTION:hn-->
 
 <!--
