@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 30 - [“After Going Solar, I Felt the Bliss of Sudden Abundance”](https://www.wired.com/story/after-going-solar-i-felt-the-bliss-of-sudden-abundance/)
+- Jul 30 - [I Miss the Programmable Web (2021)](https://matt-rickard.com/the-programmable-web/)
+- Jul 30 - [Photogrammetry Guide](https://github.com/mikeroyal/Photogrammetry-Guide)
 - Jul 30 - [Aldous Huxley’s version of the Disney “Alice” (2020)](https://cartoonresearch.com/index.php/aldous-huxleys-version-of-the-disney-alice/)
-- Jul 29 - [Why Hypergraphs? (2013)](https://blog.opencog.org/2013/03/24/why-hypergraphs/)
-- Jul 29 - [C++ Asynchronous Framework](https://userver.tech/)
-- Jul 29 - [Why does nobody seem to know what imperative and declarative mean?](https://leebriggs.co.uk/blog/2022/07/20/nobody-knows-what-declarative-is)
-- Jul 29 - [Remote Attestation is coming back](https://gabrielsieben.tech/2022/07/29/remote-assertion-is-coming-back-how-much-freedom-will-it-take/)
+- Jul 30 - [The Fourth Operation: What Comes After Exponentiation](http://ariwatch.com/VS/Algorithms/TheFourthOperation.htm)
 <!--END_SECTION:hn-->
 
 <!--
