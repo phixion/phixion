@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 30 - [Aldous Huxley’s version of the Disney “Alice” (2020)](https://cartoonresearch.com/index.php/aldous-huxleys-version-of-the-disney-alice/)
 - Jul 29 - [Why Hypergraphs? (2013)](https://blog.opencog.org/2013/03/24/why-hypergraphs/)
-- Jul 29 - [Yandex open sources C++ asynchronous framework](https://userver.tech/)
-- Jul 29 - [Jitter a Git-based binary manager for Linux written in Nim](https://github.com/sharpcdf/jitter)
-- Jul 29 - [Remote Attestation is coming back. How much freedom will it take?](https://gabrielsieben.tech/2022/07/29/remote-assertion-is-coming-back-how-much-freedom-will-it-take/)
-- Jul 29 - [Clojure Web Development Evolved [video]](https://www.youtube.com/watch?v=DFzukK5-rpU)
+- Jul 29 - [C++ Asynchronous Framework](https://userver.tech/)
+- Jul 29 - [Why does nobody seem to know what imperative and declarative mean?](https://leebriggs.co.uk/blog/2022/07/20/nobody-knows-what-declarative-is)
+- Jul 29 - [Remote Attestation is coming back](https://gabrielsieben.tech/2022/07/29/remote-assertion-is-coming-back-how-much-freedom-will-it-take/)
 <!--END_SECTION:hn-->
 
 <!--
