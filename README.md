@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 30 - [Archive of Visualized Concepts](https://archivve.visualizevalue.com/)
-- Jul 30 - [Ask HN: How do you critically evaluate scientific papers?](https://news.ycombinator.com/item?id=32287512)
-- Jul 30 - [US court system suffered 'incredibly significant attack' – sealed files at risk](https://www.theregister.com/2022/07/29/us_judiciary_attack/)
-- Jul 30 - [An efficient key recovery attack on SIDH](https://eprint.iacr.org/2022/975)
-- Jul 30 - [What happens when society collapses (2021)](https://readysquirrel.com/what-happens-when-society-collapses/)
+- Jul 30 - [Samsung adds 'repair mode' to phones, blocking PII leak when phone is repaired](https://news.samsung.com/kr/%ec%82%bc%ec%84%b1-%ea%b0%a4%eb%9f%ad%ec%8b%9c%ed%8f%b0%ec%97%90-%ec%88%98%eb%a6%ac-%eb%aa%a8%eb%93%9c-%ec%b6%94%ea%b0%80-%ea%b0%9c%ec%9d%b8%ec%a0%95%eb%b3%b4-%ec%9c%a0%ec%b6%9c-%ec%9b%90)
+- Jul 30 - [Carbon’s most exciting feature is its calling convention](https://www.foonathan.net/2022/07/carbon-calling-convention/)
+- Jul 30 - [Libredirect – Redirect social media and websites to privacy friendly front ends](https://libredirect.github.io)
+- Jul 30 - [SBCL – New in Version 2.2.7](http://sbcl.org/all-news.html?2.2.7#2.2.7)
+- Jul 30 - [9-Dimensional Haystack](https://sites.psu.edu/seticourse/9-dimensional-haystack/)
 <!--END_SECTION:hn-->
 
 <!--
