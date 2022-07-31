@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 31 - [Seeking Mathematical Truth in Counterfeit Coin Puzzles](https://www.quantamagazine.org/seeking-mathematical-truth-in-counterfeit-coin-puzzles-20220729/)
-- Jul 31 - [Is Selling Shares in Yourself the Way of the Future?](https://www.newyorker.com/magazine/2022/08/01/is-selling-shares-in-yourself-the-way-of-the-future)
-- Jul 31 - [Professor Maynard Burned Down](https://nymag.com/intelligencer/article/gary-maynard-professor-arson-trial.html)
-- Jul 31 - [Famous HNers and their sites](https://jessimekirk.com/blog/hn_users_links/)
-- Jul 31 - [Million: less than 1kb virtual DOM that is fast](https://millionjs.org/)
+- Jul 31 - [Raising VC funding for a solo-dev OSS project](https://blog.tooljet.com/raising-vc-funding-for-open-source-project/)
+- Jul 31 - [Stacker (YC S20) Is Hiring for Product Engineer's](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
+- Jul 31 - [Atari 2600 Service Manual [pdf]](https://console5.com/techwiki/images/e/ec/2600_Field_Service_Manual.pdf)
+- Jul 31 - [Opppppsss you did it again](https://github.com/kaplanelad/shellfirm)
+- Jul 31 - [I've been making JavaScript sandbox alone for 6 years](https://playcode.io/)
 <!--END_SECTION:hn-->
 
 <!--
