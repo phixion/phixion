@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 30 - [Samsung adds 'repair mode' to phones, blocking PII leak when phone is repaired](https://news.samsung.com/kr/%ec%82%bc%ec%84%b1-%ea%b0%a4%eb%9f%ad%ec%8b%9c%ed%8f%b0%ec%97%90-%ec%88%98%eb%a6%ac-%eb%aa%a8%eb%93%9c-%ec%b6%94%ea%b0%80-%ea%b0%9c%ec%9d%b8%ec%a0%95%eb%b3%b4-%ec%9c%a0%ec%b6%9c-%ec%9b%90)
-- Jul 30 - [Carbon’s most exciting feature is its calling convention](https://www.foonathan.net/2022/07/carbon-calling-convention/)
-- Jul 30 - [Libredirect – Redirect social media and websites to privacy friendly front ends](https://libredirect.github.io)
-- Jul 30 - [SBCL – New in Version 2.2.7](http://sbcl.org/all-news.html?2.2.7#2.2.7)
-- Jul 30 - [9-Dimensional Haystack](https://sites.psu.edu/seticourse/9-dimensional-haystack/)
+- Jul 30 - [I Looked into 34 Top Real-World Blockchain Projects So You Don’t Have To](https://weh.wtf/34-blockchain-projects.html)
+- Jul 30 - [MIT engineers develop stickers that can see inside the body](https://news.mit.edu/2022/ultrasound-stickers-0728)
+- Jul 30 - [Using Nix on macOS](https://checkoway.net/musings/nix/)
+- Jul 30 - [Challenges of building a peer-to-peer replacement for the web](https://educatedguesswork.org/posts/challenges-web-decentralization/)
+- Jul 30 - [Faked Crystallography](https://www.science.org/content/blog-post/faked-crystallography)
 <!--END_SECTION:hn-->
 
 <!--
