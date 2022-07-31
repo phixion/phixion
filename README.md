@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 31 - [Study finds Wikipedia influences judicial behavior](https://news.mit.edu/2022/study-finds-wikipedia-influences-judicial-behavior-0727)
-- Jul 31 - [Shor, I’ll do it: explaining Shor’s algorithm without using a single ket sign](https://scottaaronson.blog/?p=208)
-- Jul 31 - [Kubernetes Broke Git](https://matt-rickard.com/how-kubernetes-broke-git/)
-- Jul 31 - [Raising VC funding for a solo-dev OSS project](https://blog.tooljet.com/raising-vc-funding-for-open-source-project/)
-- Jul 31 - [Stacker (YC S20) Is Hiring for Product Engineer's](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
+- Jul 31 - [Riding Transit Takes Almost Twice as Long as Driving](https://www.governing.com/archive/gov-transit-driving-times.html)
+- Jul 31 - [Google Timer Is Gone](https://www.google.com/search?q=6+minute+timer)
+- Jul 31 - [Botanists are disappearing – just when the world needs them most](https://theconversation.com/botanists-are-disappearing-just-when-the-world-needs-them-most-186849)
+- Jul 31 - [Ipcalc – Command line CIDR calculator with IPv6 support](https://gitlab.com/ipcalc/ipcalc)
+- Jul 31 - [Curving the Space by Non-Hermiticity](https://www.nature.com/articles/s41467-022-29774-8)
 <!--END_SECTION:hn-->
 
 <!--
