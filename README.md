@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 01 - [Formally Verifying Rust's Opaque Types](https://dylanj.xyz/posts/rust-coq-opaque-types/)
-- Aug 01 - [Librarian's Letter to Google Security](https://docs.google.com/document/d/1f6HPQbUjslcbjVHkJkAgYmQmBV3PRRHEcx4WL5rxuE8/preview)
-- Aug 01 - [Nichelle Nichols Has Died](https://twitter.com/shanselman/status/1553830587122601984)
-- Aug 01 - [Intel Let the Chips Fall Where They Might](https://www.nextplatform.com/2022/07/29/intel-let-the-chips-fall-where-they-might/)
-- Aug 01 - [Show HN: Open-source Typeform Alternative (beta) – snoopForms live](https://snoopforms.com/)
+- Aug 01 - [Launch HN: Polymath Robotics (YC S22) – General autonomy for industrial vehicles](https://news.ycombinator.com/item?id=32307773)
+- Aug 01 - [Germany Has Three Months to Save Itself from a Winter Gas Crisis](https://www.bloomberg.com/news/articles/2022-08-01/germany-heading-to-gas-emergency-with-russia-keeping-nord-stream-flows-reduced)
+- Aug 01 - [Ask HN: Who is hiring? (August 2022)](https://news.ycombinator.com/item?id=32306920)
+- Aug 01 - [Rights Amplification in Master-Keyed Mechanical Locks (2003) [pdf]](https://www.mattblaze.org/papers/mk.pdf)
+- Aug 01 - [Running Zig with WASI on Cloudflare Workers](https://blog.cloudflare.com/running-zig-with-wasi-on-cloudflare-workers/)
 <!--END_SECTION:hn-->
 
 <!--
