@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 31 - [RISC-V based Single Board Computers are getting there](https://bret.dk/raspberry-pi-zero-vs-mangopi-mq-pro-benchmarks/)
-- Jul 31 - [The looming copper crunch and why recycling can’t fix it](https://www.mining.com/the-looming-copper-crunch-and-why-recycling-cant-fix-it/)
-- Jul 31 - [If Only Borland Had Stuck with Turbo Modula-2 for CP/M](https://techtinkering.com/2013/03/12/if-only-borland-had-stuck-with-turbo-modula-2-for-cpm/)
-- Jul 31 - [Kubernetes Reinvented Virtual Machines (in a good sense)](https://iximiuz.com/en/posts/kubernetes-vs-virtual-machines/)
-- Jul 31 - [A tutorial like you have never seen before](https://nassimcomics.substack.com/p/a-tutorial-like-you-have-never-seen)
+- Jul 31 - [Children and adults should avoid consuming animal: NO](https://academic.oup.com/ajcn/article/112/4/931/5901950)
+- Jul 31 - [Show HN: Rentaflop – Render your Blender projects without sacrificing quality](https://news.ycombinator.com/item?id=32299674)
+- Jul 31 - [Tang Nano 9K – FPGA SBC with HDMI](https://wiki.sipeed.com/hardware/en/tang/Tang-Nano-9K/Nano-9K.html)
+- Jul 31 - [Linux 5.19](https://lore.kernel.org/lkml/CAHk-=wgrz5BBk=rCz7W28Fj_o02s0Xi0OEQ3H1uQgOdFvHgx0w@mail.gmail.com/T/#u)
+- Jul 31 - [Greg can't use encrypted apps and must open his phone for police at any time](https://www.abc.net.au/news/science/2022-08-01/blockade-australia-technology-bail-conditions-encrypted-apps/101277038)
 <!--END_SECTION:hn-->
 
 <!--
