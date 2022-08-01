@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 01 - [Launch HN: Polymath Robotics (YC S22) – General autonomy for industrial vehicles](https://news.ycombinator.com/item?id=32307773)
-- Aug 01 - [Germany Has Three Months to Save Itself from a Winter Gas Crisis](https://www.bloomberg.com/news/articles/2022-08-01/germany-heading-to-gas-emergency-with-russia-keeping-nord-stream-flows-reduced)
-- Aug 01 - [Ask HN: Who is hiring? (August 2022)](https://news.ycombinator.com/item?id=32306920)
-- Aug 01 - [Rights Amplification in Master-Keyed Mechanical Locks (2003) [pdf]](https://www.mattblaze.org/papers/mk.pdf)
-- Aug 01 - [Running Zig with WASI on Cloudflare Workers](https://blog.cloudflare.com/running-zig-with-wasi-on-cloudflare-workers/)
+- Aug 01 - [Game engines could help construction](https://spectrum.ieee.org/unreal-engine)
+- Aug 01 - [Markov Chains for Queueing Systems](https://two-wrongs.com/markov-chains-for-queueing-systems)
+- Aug 01 - [Japan, U.S. to launch R&D for 2-nm chip mass production](https://asia.nikkei.com/Business/Tech/Semiconductors/Japan-U.S.-to-launch-R-D-for-2-nm-chip-mass-production)
+- Aug 01 - [Discord Switching to React Native for Android App](https://discord.com/blog/android-react-native-framework-update)
+- Aug 01 - [Dye-Sensitized Solar Cells: Fundamentals and Current Status](https://nanoscalereslett.springeropen.com/articles/10.1186/s11671-018-2760-6)
 <!--END_SECTION:hn-->
 
 <!--
