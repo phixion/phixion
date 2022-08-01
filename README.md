@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 31 - [Children and adults should avoid consuming animal: NO](https://academic.oup.com/ajcn/article/112/4/931/5901950)
-- Jul 31 - [Show HN: Rentaflop – Render your Blender projects without sacrificing quality](https://news.ycombinator.com/item?id=32299674)
-- Jul 31 - [Tang Nano 9K – FPGA SBC with HDMI](https://wiki.sipeed.com/hardware/en/tang/Tang-Nano-9K/Nano-9K.html)
-- Jul 31 - [Linux 5.19](https://lore.kernel.org/lkml/CAHk-=wgrz5BBk=rCz7W28Fj_o02s0Xi0OEQ3H1uQgOdFvHgx0w@mail.gmail.com/T/#u)
-- Jul 31 - [Greg can't use encrypted apps and must open his phone for police at any time](https://www.abc.net.au/news/science/2022-08-01/blockade-australia-technology-bail-conditions-encrypted-apps/101277038)
+- Aug 01 - [Gitea 1.17.0 is released – includes package registry support](https://blog.gitea.io/2022/07/gitea-1.17.0-is-released/)
+- Aug 01 - [The Nothing Phone (1)](https://ca-en.nothing.tech/pages/phone-1)
+- Aug 01 - [Max Headroom, the Strange Pre-Internet AI Phenomenon, Is Getting Rebooted](https://www.vanityfair.com/hollywood/2022/07/max-headroom-the-strange-pre-internet-ai-phenomenon-is-getting-rebooted)
+- Aug 01 - [Ten Things to Do After Installing FreeBSD](https://bastillebsd.org/blog/2022/07/14/ten-things-to-do-after-installing-freebsd/)
+- Aug 01 - [Meshtastic: A Review](https://tylercipriani.com/blog/2022/07/31/meshtastic-a-review/)
 <!--END_SECTION:hn-->
 
 <!--
