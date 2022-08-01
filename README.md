@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 01 - [Did Manuel Ramírez spend years in prison for murdering a man who is still alive?](https://www.economist.com/1843/2022/07/28/did-this-man-spend-20-years-in-prison-for-murdering-a-man-who-is-still-alive)
-- Aug 01 - [Show HN: Outserv – GraphQL Search Engine](https://manishrjain.com/outserv-graphql-blockchain-search)
-- Aug 01 - [Karmem: A fast binary serialization format faster than Google Flatbuffers](https://github.com/inkeliz/karmem)
-- Aug 01 - [Gitea 1.17.0 is released – includes package registry support](https://blog.gitea.io/2022/07/gitea-1.17.0-is-released/)
-- Aug 01 - [What ever happened to xmms.org? (2010)](https://web.archive.org/web/20200813165218/https://thieta.wordpress.com/2010/04/28/what-ever-happened-to-xmms-org/)
+- Aug 01 - [Formally Verifying Rust's Opaque Types](https://dylanj.xyz/posts/rust-coq-opaque-types/)
+- Aug 01 - [Librarian's Letter to Google Security](https://docs.google.com/document/d/1f6HPQbUjslcbjVHkJkAgYmQmBV3PRRHEcx4WL5rxuE8/preview)
+- Aug 01 - [Nichelle Nichols Has Died](https://twitter.com/shanselman/status/1553830587122601984)
+- Aug 01 - [Intel Let the Chips Fall Where They Might](https://www.nextplatform.com/2022/07/29/intel-let-the-chips-fall-where-they-might/)
+- Aug 01 - [Show HN: Open-source Typeform Alternative (beta) – snoopForms live](https://snoopforms.com/)
 <!--END_SECTION:hn-->
 
 <!--
