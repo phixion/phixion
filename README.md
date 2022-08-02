@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 02 - [Carbon Capture on Trains](https://spectrum.ieee.org/carbon-capture-2657738131)
-- Aug 02 - [Launch HN: DeploySentinel (YC S22) – End-to-end tests that don't flake](https://news.ycombinator.com/item?id=32319404)
-- Aug 02 - [Use One Big Server](https://specbranch.com/posts/one-big-server/)
-- Aug 02 - [Nomad drained of $150m due to a coding mistake](https://threadreaderapp.com/thread/1554252024723546112.html)
-- Aug 02 - [FlightRadar24 crashes due to surge in users tracking SPAR19](https://twitter.com/flightradar24/status/1554457269714264066)
+- Aug 02 - [Your Data Fits in RAM](https://yourdatafitsinram.net/)
+- Aug 02 - [A little whimsy copter based on a PCB frame](https://github.com/barafael/cute-copter)
+- Aug 02 - [20B-parameter Alexa model sets new marks in few-shot learning](https://www.amazon.science/blog/20b-parameter-alexa-model-sets-new-marks-in-few-shot-learning)
+- Aug 02 - [North Korean Tactics (2020) [pdf]](https://irp.fas.org/doddir/army/atp7-100-2.pdf)
+- Aug 02 - [Outside the Safe Operating Space of a New Planetary Boundary for PFAS](https://pubs.acs.org/doi/10.1021/acs.est.2c02765)
 <!--END_SECTION:hn-->
 
 <!--
