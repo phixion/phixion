@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 02 - [How a cooling vest invented by a furry made it's way into the US military](https://www.thedailybeast.com/how-a-cooling-vest-invented-by-a-furry-made-its-way-into-the-us-military)
+- Aug 02 - [Ask HN: Meal Planning App?](https://news.ycombinator.com/item?id=32316604)
+- Aug 02 - [Building a Panel out of e-ink Electronic Shelf Labels](https://rbaron.net/blog/2022/07/29/Daisy-chaining-multiple-electronic-shelf-labels.html)
+- Aug 02 - [Show HN: OneDev – A Lightweight Gitlab Alternative](https://github.com/theonedev/onedev)
+- Aug 02 - [eXpOS – An Educational Operating System](https://exposnitc.github.io/expos-docs/about/)
 - Aug 02 - [Ask HN: Is there a tool / product that enables commenting on HTML elements?](https://news.ycombinator.com/item?id=32315035)
-- Aug 02 - [Making a PR to Nixpkgs](https://johns.codes/blog/updating-a-package-in-nixpkgs)
-- Aug 02 - [Equivalence of Unicode strings is strange (2016)](http://databasearchitects.blogspot.com/2016/08/equivalence-of-unicode-strings-is.html)
-- Aug 02 - [The end of Optane is bad news](https://www.theregister.com/2022/08/01/optane_intel_cancellation/)
 <!--END_SECTION:hn-->
 
 <!--
