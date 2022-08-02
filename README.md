@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 01 - [Mosquitoes at Disney World: why do you (almost) never see them?](https://mousetrack.co.uk/blog/mosquitoes-at-disney-why-do-you-almost-never-see-them/)
-- Aug 01 - [Cardpunch: Punch a punched card](http://www.kloth.net/services/cardpunch.php)
-- Aug 01 - [Show HN: Emery – Personal productivity workspace](https://emery.to/)
-- Aug 01 - [The hardest people for founders to hire are so called C-level executives](https://twitter.com/paulg/status/1554205020907720704)
-- Aug 01 - [Tiny Proteins, Getting Sorted Out](https://www.science.org/content/blog-post/tiny-proteins-getting-sorted-out)
+- Aug 02 - [Equivalence of Unicode strings is strange](http://databasearchitects.blogspot.com/2016/08/equivalence-of-unicode-strings-is.html)
+- Aug 02 - [The biggest new idea in computing for half a century was just scrapped](https://www.theregister.com/2022/08/01/optane_intel_cancellation/)
+- Aug 02 - [Capy – Cross-platform library for making true native GUIs in Zig](https://github.com/capy-ui/capy)
+- Aug 02 - [Parallel Programming for FPGAs](https://github.com/KastnerRG/pp4fpgas)
+- Aug 02 - [Aussieplusplus: Programming Language from Down Under](https://github.com/zackradisic/aussieplusplus)
 <!--END_SECTION:hn-->
 
 <!--
