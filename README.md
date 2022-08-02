@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 02 - [Ask HN: Meal Planning App?](https://news.ycombinator.com/item?id=32316604)
-- Aug 02 - [Building a Panel out of e-ink Electronic Shelf Labels](https://rbaron.net/blog/2022/07/29/Daisy-chaining-multiple-electronic-shelf-labels.html)
-- Aug 02 - [Show HN: OneDev – A Lightweight Gitlab Alternative](https://github.com/theonedev/onedev)
-- Aug 02 - [eXpOS – An Educational Operating System](https://exposnitc.github.io/expos-docs/about/)
-- Aug 02 - [Ask HN: Is there a tool / product that enables commenting on HTML elements?](https://news.ycombinator.com/item?id=32315035)
+- Aug 02 - [Carbon Capture on Trains](https://spectrum.ieee.org/carbon-capture-2657738131)
+- Aug 02 - [Launch HN: DeploySentinel (YC S22) – End-to-end tests that don't flake](https://news.ycombinator.com/item?id=32319404)
+- Aug 02 - [Use One Big Server](https://specbranch.com/posts/one-big-server/)
+- Aug 02 - [Nomad drained of $150m due to a coding mistake](https://threadreaderapp.com/thread/1554252024723546112.html)
+- Aug 02 - [FlightRadar24 crashes due to surge in users tracking SPAR19](https://twitter.com/flightradar24/status/1554457269714264066)
 <!--END_SECTION:hn-->
 
 <!--
