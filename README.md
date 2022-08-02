@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 01 - [Game engines could help construction](https://spectrum.ieee.org/unreal-engine)
-- Aug 01 - [Markov Chains for Queueing Systems](https://two-wrongs.com/markov-chains-for-queueing-systems)
-- Aug 01 - [Japan, U.S. to launch R&D for 2-nm chip mass production](https://asia.nikkei.com/Business/Tech/Semiconductors/Japan-U.S.-to-launch-R-D-for-2-nm-chip-mass-production)
-- Aug 01 - [Discord Switching to React Native for Android App](https://discord.com/blog/android-react-native-framework-update)
-- Aug 01 - [Dye-Sensitized Solar Cells: Fundamentals and Current Status](https://nanoscalereslett.springeropen.com/articles/10.1186/s11671-018-2760-6)
+- Aug 01 - [Mosquitoes at Disney World: why do you (almost) never see them?](https://mousetrack.co.uk/blog/mosquitoes-at-disney-why-do-you-almost-never-see-them/)
+- Aug 01 - [Cardpunch: Punch a punched card](http://www.kloth.net/services/cardpunch.php)
+- Aug 01 - [Show HN: Emery – Personal productivity workspace](https://emery.to/)
+- Aug 01 - [The hardest people for founders to hire are so called C-level executives](https://twitter.com/paulg/status/1554205020907720704)
+- Aug 01 - [Tiny Proteins, Getting Sorted Out](https://www.science.org/content/blog-post/tiny-proteins-getting-sorted-out)
 <!--END_SECTION:hn-->
 
 <!--
