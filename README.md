@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 02 - [Capital One Launches Capital One Software](https://www.capitalone.com/about/newsroom/capital-one-launches-capital-one-software/)
-- Aug 02 - [Show HN: Property Trends Scraped from Zillow](https://trends.pillr.io)
-- Aug 02 - [Simplicity of IRC](https://susam.net/maze/wall/simplicity-of-irc.html)
-- Aug 02 - [23 years into my career, I still love PHP and JavaScript](https://the.scapegoat.dev/why-i-love-php-and-javascript/)
-- Aug 02 - [Linode EU-West (London) is out again](https://status.linode.com/incidents/8qnvzrfz7hg2)
+- Aug 03 - [RTEMS Real Time Operating System](https://www.rtems.org/)
+- Aug 03 - [Klipper – open-source 3D Printer firmware](https://www.klipper3d.org/)
+- Aug 03 - [Nonprofit markups.org is exposing the most egregious new car prices](https://www.themanual.com/auto/markup-exposes-car-dealership-greed/)
+- Aug 03 - [The Pickleball Troll](https://thepickler.com/blogs/pickleball-blog/pickleball-troll)
+- Aug 03 - [GitHub is adding web cookies for enterprise users](https://github.com/github/site-policy/pull/582)
 <!--END_SECTION:hn-->
 
 <!--
