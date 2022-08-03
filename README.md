@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 03 - [MIT invents $4 solar desalination device](https://www.freethink.com/technology/solar-desalination)
-- Aug 03 - [Vulkan update: version 1.2 conformance for Raspberry Pi 4](https://www.raspberrypi.com/news/vulkan-update-version-1-2-conformance-for-raspberry-pi-4/)
-- Aug 03 - [Malicious code added to 35k GitHub repos, leaking user environments](https://twitter.com/stephenlacy/status/1554697077430505473)
-- Aug 03 - [TikTok’s Poison Pill](https://www.calnewport.com/blog/2022/08/01/tiktoks-poison-pill/)
-- Aug 03 - [FauxPilot – an attempt to build a locally hosted version of GitHub Copilot](https://github.com/moyix/fauxpilot)
+- Aug 03 - [Convictional (YC W19) is hiring engineers to build the future of B2B trade Remote](https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3)
+- Aug 03 - [The Pine Formula](https://tuxphones.com/pine-formula/)
+- Aug 03 - [Django 4.1](https://www.djangoproject.com/weblog/2022/aug/03/django-41-released/)
+- Aug 03 - [Hikaru Nakamura's Forbidden Platform](https://lichess.org/blog/Yt7x2BAAACkABlKS/a-first-time-grandmaster-titled-arena-winner-and-nakamuras-forbidden-platform)
+- Aug 03 - [GDPR for Developers by Example](https://blog.blether.chat/2022/08/03/gdpr-for-developers-by-example/)
 <!--END_SECTION:hn-->
 
 <!--
