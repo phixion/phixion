@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 03 - [Convictional (YC W19) is hiring engineers to build the future of B2B trade Remote](https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3)
-- Aug 03 - [The Pine Formula](https://tuxphones.com/pine-formula/)
-- Aug 03 - [Django 4.1](https://www.djangoproject.com/weblog/2022/aug/03/django-41-released/)
-- Aug 03 - [Hikaru Nakamura's Forbidden Platform](https://lichess.org/blog/Yt7x2BAAACkABlKS/a-first-time-grandmaster-titled-arena-winner-and-nakamuras-forbidden-platform)
-- Aug 03 - [GDPR for Developers by Example](https://blog.blether.chat/2022/08/03/gdpr-for-developers-by-example/)
+- Aug 03 - [Launch HN: Iollo (YC S22) – At-home metabolomics test to extend healthy lifespan](https://news.ycombinator.com/item?id=32333417)
+- Aug 03 - [The Illustrated TLS 1.3 Connection (Every byte explained and reproduced)](https://tls13.xargs.org)
+- Aug 03 - [US Anti-Robocall Litigation Task Force created to fight –$30B in scam call theft](https://www.thecentersquare.com/national/nationwide-anti-robocall-litigation-task-force-created-to-fight-estimated-29-8b-in-scam-call/article_e3dfd458-129f-11ed-b714-7b059dbcf5e7.html)
+- Aug 03 - [IF 2 days vs. 1 day/week increases weight loss in overweight m/f](https://oa.mg/blog/intermittent-fasting-2-days-vs-1-day-per-week-increases-weight-loss-in-overweight-men-and-women/)
+- Aug 03 - [Political Chips](https://stratechery.com/2022/political-chips/)
 <!--END_SECTION:hn-->
 
 <!--
