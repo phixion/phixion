@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 03 - [RTEMS Real Time Operating System](https://www.rtems.org/)
-- Aug 03 - [Klipper – open-source 3D Printer firmware](https://www.klipper3d.org/)
-- Aug 03 - [Nonprofit markups.org is exposing the most egregious new car prices](https://www.themanual.com/auto/markup-exposes-car-dealership-greed/)
-- Aug 03 - [The Pickleball Troll](https://thepickler.com/blogs/pickleball-blog/pickleball-troll)
-- Aug 03 - [GitHub is adding web cookies for enterprise users](https://github.com/github/site-policy/pull/582)
+- Aug 03 - [MIT invents $4 solar desalination device](https://www.freethink.com/technology/solar-desalination)
+- Aug 03 - [Vulkan update: version 1.2 conformance for Raspberry Pi 4](https://www.raspberrypi.com/news/vulkan-update-version-1-2-conformance-for-raspberry-pi-4/)
+- Aug 03 - [Malicious code added to 35k GitHub repos, leaking user environments](https://twitter.com/stephenlacy/status/1554697077430505473)
+- Aug 03 - [TikTok’s Poison Pill](https://www.calnewport.com/blog/2022/08/01/tiktoks-poison-pill/)
+- Aug 03 - [FauxPilot – an attempt to build a locally hosted version of GitHub Copilot](https://github.com/moyix/fauxpilot)
 <!--END_SECTION:hn-->
 
 <!--
