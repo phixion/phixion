@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 03 - [Launch HN: Iollo (YC S22) – At-home metabolomics test to extend healthy lifespan](https://news.ycombinator.com/item?id=32333417)
-- Aug 03 - [The Illustrated TLS 1.3 Connection (Every byte explained and reproduced)](https://tls13.xargs.org)
-- Aug 03 - [US Anti-Robocall Litigation Task Force created to fight –$30B in scam call theft](https://www.thecentersquare.com/national/nationwide-anti-robocall-litigation-task-force-created-to-fight-estimated-29-8b-in-scam-call/article_e3dfd458-129f-11ed-b714-7b059dbcf5e7.html)
-- Aug 03 - [IF 2 days vs. 1 day/week increases weight loss in overweight m/f](https://oa.mg/blog/intermittent-fasting-2-days-vs-1-day-per-week-increases-weight-loss-in-overweight-men-and-women/)
-- Aug 03 - [Political Chips](https://stratechery.com/2022/political-chips/)
+- Aug 03 - [Productivity Porn](https://calebschoepp.com/blog/2022/productivity-porn/)
+- Aug 03 - [Minify your container by up to 30x to be more secure (free and open source)](https://github.com/docker-slim)
+- Aug 03 - [What’s the strangest thing you ever found in a book?](https://noctslackv2.wordpress.com/2022/08/02/whats-the-strangest-thing-you-ever-found-in-a-book/)
+- Aug 03 - [GlobalFoundries joins Google’s open source silicon initiative](https://opensource.googleblog.com/2022/08/GlobalFoundries-joins-Googles-open-source-silicon-initiative.html)
+- Aug 03 - [YC Event: Becoming a founding engineer at a YC startup, Aug 10th](https://news.ycombinator.com/item?id=32334238)
 <!--END_SECTION:hn-->
 
 <!--
