@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 04 - [Scammers Sent Uber to Take Elderly Lady to the Bank](https://krebsonsecurity.com/2022/08/scammers-sent-uber-to-take-elderly-lady-to-the-bank/)
-- Aug 04 - [Tell HN: Amazon shopping is racing to the bottom of quality](https://news.ycombinator.com/item?id=32344010)
-- Aug 04 - [OmniEdge – an Open source P2P layer 2 VPN infrastructure based on n2n protocol](https://omniedge.io/)
-- Aug 04 - [C99 doesn't need function bodies, or 'VLAs are Turing complete'](https://lemon.rip/w/c99-vla-tricks/)
-- Aug 04 - [LocalStack and AWS Parity Explained](https://localstack.cloud/blog/2022-08-04-parity-explained/)
+- Aug 04 - [Lex Fridman Podcast #309 – John Carmack](https://lexfridman.com/john-carmack/)
+- Aug 04 - [How to Use an iPad as a Secure Calling and Messaging Device (Updated 2022)](https://yawnbox.com/blog/how-to-use-an-ipad-as-a-secure-calling-and-messaging-device/)
+- Aug 04 - [Implementing a “mini-LaTeX” in ~2000 lines of code](https://nibblestew.blogspot.com/2022/07/implementing-mini-latex-in-2000-lines.html)
+- Aug 04 - [Excel Never Dies](https://www.notboring.co/p/excel-never-dies)
+- Aug 04 - [Google’s video chat merger begins: Now there are two “Google Meet” apps](https://arstechnica.com/gadgets/2022/08/googles-video-chat-merger-begins-now-there-are-two-google-meet-apps/)
 <!--END_SECTION:hn-->
 
 <!--
