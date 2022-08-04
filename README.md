@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 04 - [The Feynman Technique](https://dsebastien.net/blog/2022-08-03-the-feynman-technique)
-- Aug 04 - [How prestige outlets like The Guardian get away with copypasta](https://erikhoel.substack.com/p/how-prestige-outlets-like-the-guardian)
-- Aug 04 - [Generally Intelligent (YC S17) Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=32340023)
-- Aug 04 - [Infineon chip flaws to disrupt IONIQ 5 EV production](https://www.kedglobal.com/automobiles/newsView/ked202208030010)
-- Aug 04 - [Who do we spend time with across our lifetime? (2020)](https://ourworldindata.org/time-with-others-lifetime)
+- Aug 04 - [No place for privacy in India, government withdraws Personal Data Protection B](https://www.accessnow.org/no-place-for-privacy-in-india-as-government-withdraws-data-protection-bill/)
+- Aug 04 - [Researchers discover major roadblock in alleviating network congestion](https://news.mit.edu/2022/algorithm-computer-network-bandwidth-0804)
+- Aug 04 - [Interview with the scientist who’s writing the Webb photos alt text](https://www.niemanlab.org/2022/08/space-is-for-everyone-meet-the-scientists-trying-to-put-otherworldly-images-into-words/)
+- Aug 04 - [Super Dimension Fortress](https://sdf.org/?welcome)
+- Aug 04 - [Ask HN: ZFS native encryption vs LUKS](https://news.ycombinator.com/item?id=32340433)
 <!--END_SECTION:hn-->
 
 <!--
