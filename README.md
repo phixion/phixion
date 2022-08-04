@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 03 - [Productivity Porn](https://calebschoepp.com/blog/2022/productivity-porn/)
-- Aug 03 - [Minify your container by up to 30x to be more secure (free and open source)](https://github.com/docker-slim)
-- Aug 03 - [What’s the strangest thing you ever found in a book?](https://noctslackv2.wordpress.com/2022/08/02/whats-the-strangest-thing-you-ever-found-in-a-book/)
-- Aug 03 - [GlobalFoundries joins Google’s open source silicon initiative](https://opensource.googleblog.com/2022/08/GlobalFoundries-joins-Googles-open-source-silicon-initiative.html)
-- Aug 03 - [YC Event: Becoming a founding engineer at a YC startup, Aug 10th](https://news.ycombinator.com/item?id=32334238)
+- Aug 03 - [A Simple Guide to Quadratic Voting](https://blog.tally.xyz/a-simple-guide-to-quadratic-voting-327b52addde1)
+- Aug 03 - [Cut the Cutesy Errors](https://alexwlchan.net/2022/08/no-cute/)
+- Aug 03 - [Run FreeBSD 13.1 for ARM64 in QEMU on Apple Silicon Mac with HVF Acceleration](https://gist.github.com/ctsrc/a1f57933a2cde9abc0f07be12889f97f)
+- Aug 03 - [A Microsoft team racing to catch bugs before they happen](https://www.wired.com/story/microsoft-morse-team/)
+- Aug 03 - [Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
 <!--END_SECTION:hn-->
 
 <!--
