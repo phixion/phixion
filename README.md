@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 04 - [No place for privacy in India, government withdraws Personal Data Protection B](https://www.accessnow.org/no-place-for-privacy-in-india-as-government-withdraws-data-protection-bill/)
-- Aug 04 - [Researchers discover major roadblock in alleviating network congestion](https://news.mit.edu/2022/algorithm-computer-network-bandwidth-0804)
-- Aug 04 - [Interview with the scientist who’s writing the Webb photos alt text](https://www.niemanlab.org/2022/08/space-is-for-everyone-meet-the-scientists-trying-to-put-otherworldly-images-into-words/)
-- Aug 04 - [Super Dimension Fortress](https://sdf.org/?welcome)
-- Aug 04 - [Ask HN: ZFS native encryption vs LUKS](https://news.ycombinator.com/item?id=32340433)
+- Aug 04 - [Scammers Sent Uber to Take Elderly Lady to the Bank](https://krebsonsecurity.com/2022/08/scammers-sent-uber-to-take-elderly-lady-to-the-bank/)
+- Aug 04 - [Tell HN: Amazon shopping is racing to the bottom of quality](https://news.ycombinator.com/item?id=32344010)
+- Aug 04 - [OmniEdge – an Open source P2P layer 2 VPN infrastructure based on n2n protocol](https://omniedge.io/)
+- Aug 04 - [C99 doesn't need function bodies, or 'VLAs are Turing complete'](https://lemon.rip/w/c99-vla-tricks/)
+- Aug 04 - [LocalStack and AWS Parity Explained](https://localstack.cloud/blog/2022-08-04-parity-explained/)
 <!--END_SECTION:hn-->
 
 <!--
