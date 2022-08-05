@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 04 - [Lex Fridman Podcast #309 – John Carmack](https://lexfridman.com/john-carmack/)
-- Aug 04 - [How to Use an iPad as a Secure Calling and Messaging Device (Updated 2022)](https://yawnbox.com/blog/how-to-use-an-ipad-as-a-secure-calling-and-messaging-device/)
-- Aug 04 - [Implementing a “mini-LaTeX” in ~2000 lines of code](https://nibblestew.blogspot.com/2022/07/implementing-mini-latex-in-2000-lines.html)
-- Aug 04 - [Excel Never Dies](https://www.notboring.co/p/excel-never-dies)
-- Aug 04 - [Google’s video chat merger begins: Now there are two “Google Meet” apps](https://arstechnica.com/gadgets/2022/08/googles-video-chat-merger-begins-now-there-are-two-google-meet-apps/)
+- Aug 04 - [All about QBasic and QuickBasic](https://www.qbasic.net/)
+- Aug 04 - [Tell HN: I interviewed my dad before he died](https://news.ycombinator.com/item?id=32349006)
+- Aug 04 - [Coral makes comeback on Great Barrier Reef](https://www.hawkesburygazette.com.au/story/7846819/coral-makes-comeback-on-great-barrier-reef/)
+- Aug 04 - [Why Is the Web So Monotonous? Google](https://reasonablypolymorphic.com/blog/monotonous-web/index.html)
+- Aug 04 - [Show HN: Penumbra, a perceptually optimized color palette based on natural light](https://github.com/nealmckee/penumbra)
 <!--END_SECTION:hn-->
 
 <!--
