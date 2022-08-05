@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 05 - [DreamWorks Animation to Release MoonRay as Open Source](https://www.awn.com/news/dreamworks-animation-release-moonray-open-source)
-- Aug 05 - [I was at Woodstock ’99 and it destroyed my innocence](https://www.kerrang.com/i-was-at-woodstock-99-and-it-destroyed-my-innocence)
-- Aug 05 - [Godot 3.5: Can't stop won't stop](https://godotengine.org/article/godot-3-5-cant-stop-wont-stop)
-- Aug 05 - [Microsoft Windows is prohibited at Gitlab](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/)
-- Aug 05 - [Apple warns Taiwanese suppliers to label “China” on badges](https://asia.nikkei.com/Spotlight/Supply-Chain/Apple-warns-suppliers-to-follow-China-rules-on-Taiwan-labeling)
+- Aug 05 - [NSA, NIST, and post-quantum crypto: Announcing my second lawsuit against the US](http://blog.cr.yp.to/20220805-nsa.html)
+- Aug 05 - [CudaText: Open-source, cross-platform text editor, written in Lazarus](https://github.com/Alexey-T/CudaText)
+- Aug 05 - [A Phoenix record store owner set the audiophile world on fire](https://www.washingtonpost.com/music/2022/08/05/mofi-records-analog-digital-scandal/)
+- Aug 05 - [Aug 5 – 100000 robotic lawn mowers can sing Happy Birthday to Curiosity](https://www.husqvarna.com/us/discover/news-and-media/happybirthday/)
+- Aug 05 - [Analysis of energy consumption of Bluetooth Low Energy versus Bluetooth Classic](http://hj.diva-portal.org/smash/record.jsf?pid=diva2%3A1683816&dswid=1160)
 <!--END_SECTION:hn-->
 
 <!--
