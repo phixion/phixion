@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 05 - [Gates-Backed Startup Builds Modular Homes Out of Energy-Efficient Panels](https://singularityhub.com/2022/08/03/this-gates-backed-startup-builds-modular-homes-out-of-energy-efficient-panels/)
-- Aug 05 - [Asus Zenbook 17 Fold OLED](https://www.asus.com/Laptops/For-Home/Zenbook/Zenbook-17-Fold-OLED-UX9702/)
-- Aug 05 - [Blender 3.2.2 Released](https://www.blender.org/download/)
-- Aug 05 - [What are the best books or resources on SRE automation that are also practical?](https://news.ycombinator.com/item?id=32353824)
-- Aug 05 - [Did we all believe a myth about depression?](https://www.bbc.co.uk/news/health-62286093)
+- Aug 05 - [DreamWorks Animation to Release MoonRay as Open Source](https://www.awn.com/news/dreamworks-animation-release-moonray-open-source)
+- Aug 05 - [I was at Woodstock ’99 and it destroyed my innocence](https://www.kerrang.com/i-was-at-woodstock-99-and-it-destroyed-my-innocence)
+- Aug 05 - [Godot 3.5: Can't stop won't stop](https://godotengine.org/article/godot-3-5-cant-stop-wont-stop)
+- Aug 05 - [Microsoft Windows is prohibited at Gitlab](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/)
+- Aug 05 - [Apple warns Taiwanese suppliers to label “China” on badges](https://asia.nikkei.com/Spotlight/Supply-Chain/Apple-warns-suppliers-to-follow-China-rules-on-Taiwan-labeling)
 <!--END_SECTION:hn-->
 
 <!--
