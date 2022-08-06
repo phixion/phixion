@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 06 - [Flexport is hiring software engineers to streamline global trade](https://flexport.com/careers)
-- Aug 06 - [Ask HN: What are the ways you go about getting comfortable with a new codebase?](https://news.ycombinator.com/item?id=32365660)
-- Aug 06 - [AI generated, command whatever you want. It will generate mind-blowing images](https://www.midjourney.com/app/)
-- Aug 06 - [A Simple but Nifty Inequality](https://residuetheorem.com/2017/02/10/a-simple-but-nifty-inequality/)
-- Aug 06 - [Twitter confirms zero-day used to expose data of 5.4M accounts](https://www.bleepingcomputer.com/news/security/twitter-confirms-zero-day-used-to-expose-data-of-54-million-accounts/)
+- Aug 06 - [Tesorio (YC S15) is hiring a senior front end engineer and support engineer](https://www.tesorio.com/careers#job-openings)
+- Aug 06 - [Ask HN: Longevity for your parents, what to do?](https://news.ycombinator.com/item?id=32366557)
+- Aug 06 - [Ask HN: How to say NO to a GitHub issue feature request?](https://news.ycombinator.com/item?id=32366248)
+- Aug 06 - [MyNoise – Background Sound Canceller](https://mynoise.net/)
+- Aug 06 - [Monad Confusion and the Blurry Line Between Data and Computation](https://www.micahcantor.com/blog/monad-confusion/)
 <!--END_SECTION:hn-->
 
 <!--
