@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 06 - [NetBSD 9.3 Released](https://www.netbsd.org/releases/formal-9/NetBSD-9.3.html)
-- Aug 06 - [NetBSD 9.3 Released](https://blog.netbsd.org/tnf/entry/netbsd_9_3_released)
-- Aug 06 - [Original source of `(seed * 9301 and 49297) % 233280` random algorithm? (2014)](https://softwareengineering.stackexchange.com/questions/260969/original-source-of-seed-9301-49297-233280-random-algorithm)
-- Aug 06 - [Google Trying to Solve a UUID](https://www.google.com/search?q=0e2b835d-4d9a-4b8b-b009-988741022e8c&sourceid=chrome&ie=UTF-8)
-- Aug 06 - [Simulating an Entire Car Engine (yes, it makes noise) [video]](https://www.youtube.com/watch?v=RKT-sKtR970)
+- Aug 06 - [Ask HN: Resources to learn generative art programming?](https://news.ycombinator.com/item?id=32370671)
+- Aug 06 - [Why general artificial intelligence will not be realized (2020)](https://www.nature.com/articles/s41599-020-0494-4)
+- Aug 06 - [Please Use ZFS with ECC Memory (2014)](https://louwrentius.com/please-use-zfs-with-ecc-memory.html)
+- Aug 06 - [Git In Two Minutes (updated after 8 years)](https://www.garyrobinson.net/2014/10/git-in-two-minutes-for-a-solo-developer.html)
+- Aug 06 - [Show HN: JWST Image Slideshow](https://jwst.seanchenpiano.com)
 <!--END_SECTION:hn-->
 
 <!--
