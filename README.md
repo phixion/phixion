@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 06 - [US library defunded after refusing to censor authors](https://www.theguardian.com/books/2022/aug/05/michigan-library-book-bans-lgbtq-authors)
-- Aug 06 - [Having, a less understood SQL clause](https://smallthingssql.com/having-a-less-understood-sql-clause/)
-- Aug 06 - [How Did Elevators Lose Their Music?](https://tedgioia.substack.com/p/how-did-elevators-lose-their-music)
-- Aug 06 - [I assure you, medieval people bathed](https://going-medieval.com/2019/08/02/i-assure-you-medieval-people-bathed/)
-- Aug 06 - [Svix (YC W21) Is Hiring (Remote) – Enterprise-Ready Webhook Service](https://www.svix.com/careers/)
+- Aug 06 - [Flexport is hiring software engineers to streamline global trade](https://flexport.com/careers)
+- Aug 06 - [Ask HN: What are the ways you go about getting comfortable with a new codebase?](https://news.ycombinator.com/item?id=32365660)
+- Aug 06 - [AI generated, command whatever you want. It will generate mind-blowing images](https://www.midjourney.com/app/)
+- Aug 06 - [A Simple but Nifty Inequality](https://residuetheorem.com/2017/02/10/a-simple-but-nifty-inequality/)
+- Aug 06 - [Twitter confirms zero-day used to expose data of 5.4M accounts](https://www.bleepingcomputer.com/news/security/twitter-confirms-zero-day-used-to-expose-data-of-54-million-accounts/)
 <!--END_SECTION:hn-->
 
 <!--
