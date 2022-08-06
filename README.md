@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 05 - [Alex Jones must pay $50m in punitive damages for Sandy Hook hoax claim](https://www.bbc.co.uk/news/world-us-canada-62444302)
-- Aug 05 - [Hot Reloading Rust – For Fun and Faster Feedback Cycles](https://robert.kra.hn/posts/hot-reloading-rust/)
-- Aug 05 - [Counterfeits, fraud, and theft: Why Silca changed its return policy](https://cyclingtips.com/2022/07/interview-silca-on-amazon-e-commerce-fraud-theft-returns/)
-- Aug 05 - [California DMV accuses Tesla of falsely advertising Autopilot and FSD features](https://www.latimes.com/business/story/2022-08-05/dmv-false-advertising-tesla)
-- Aug 05 - [Kable (YC W22) Is Hiring Founding Engineers in the US](https://kable.io)
+- Aug 06 - [US library defunded after refusing to censor authors](https://www.theguardian.com/books/2022/aug/05/michigan-library-book-bans-lgbtq-authors)
+- Aug 06 - [Having, a less understood SQL clause](https://smallthingssql.com/having-a-less-understood-sql-clause/)
+- Aug 06 - [How Did Elevators Lose Their Music?](https://tedgioia.substack.com/p/how-did-elevators-lose-their-music)
+- Aug 06 - [I assure you, medieval people bathed](https://going-medieval.com/2019/08/02/i-assure-you-medieval-people-bathed/)
+- Aug 06 - [Svix (YC W21) Is Hiring (Remote) – Enterprise-Ready Webhook Service](https://www.svix.com/careers/)
 <!--END_SECTION:hn-->
 
 <!--
