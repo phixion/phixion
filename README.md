@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 07 - [Everyone loves e-bikes – except some who have to share roads with them](https://www.washingtonpost.com/lifestyle/2022/08/06/e-bikes-rules-laws-road/)
-- Aug 07 - [Tutors / tips to change your English accent](https://news.ycombinator.com/item?id=32375394)
-- Aug 07 - [Homebrew Bluetooth Headphones](https://homebrewheadphones.com/3d-printed-bluetooth-headphones/)
-- Aug 07 - [Bits – Build Credit (YC S20) Is Hiring](https://www.ycombinator.com/companies/bits/jobs/D7rq824-ui-ux-designer)
-- Aug 07 - [A Soviet Test Pilot Ejected Two Seconds Before the Crash of His MiG-29 (2019)](https://theaviationgeekclub.com/that-time-a-soviet-test-pilot-ejected-two-seconds-before-the-crash-of-his-mig-29/)
+- Aug 07 - [Ask HN: Where should I move to meet interesting tech people?](https://news.ycombinator.com/item?id=32377084)
+- Aug 07 - [DALL-E + GPT-3 = ♥](https://medium.com/@glan1k/dall-e-gpt-3-d1aaaff38639)
+- Aug 07 - [The case of fake IMDB credits](https://peabee.substack.com/p/16-the-case-of-fake-imdb-credits)
+- Aug 07 - [Machine learning finds an improved way to match donor organs with patients](https://ccaim.cam.ac.uk/machine-learning-finds-an-improved-way-to-match-donor-organs-with-patients/)
+- Aug 07 - [Earbirding – How to Visualize Sounds](http://earbirding.com/blog/specs)
 <!--END_SECTION:hn-->
 
 <!--
