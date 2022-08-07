@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 07 - [Ask HN: Where should I move to meet interesting tech people?](https://news.ycombinator.com/item?id=32377084)
-- Aug 07 - [DALL-E + GPT-3 = ♥](https://medium.com/@glan1k/dall-e-gpt-3-d1aaaff38639)
-- Aug 07 - [The case of fake IMDB credits](https://peabee.substack.com/p/16-the-case-of-fake-imdb-credits)
-- Aug 07 - [Machine learning finds an improved way to match donor organs with patients](https://ccaim.cam.ac.uk/machine-learning-finds-an-improved-way-to-match-donor-organs-with-patients/)
-- Aug 07 - [Earbirding – How to Visualize Sounds](http://earbirding.com/blog/specs)
+- Aug 07 - [Class Action Targets Experian over Account Security](https://krebsonsecurity.com/2022/08/class-action-targets-experian-over-account-security/)
+- Aug 07 - [Oncall Compensation for Software Engineers](https://blog.pragmaticengineer.com/oncall-compensation/)
+- Aug 07 - [Ask HN: What's the next big thing that few people are talking about?](https://news.ycombinator.com/item?id=32378695)
+- Aug 07 - [Cellular recovery after prolonged warm ischaemia of the whole body](https://www.nature.com/articles/s41586-022-05016-1)
+- Aug 07 - [Charge Robotics (YC S21) is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
 <!--END_SECTION:hn-->
 
 <!--
