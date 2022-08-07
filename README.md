@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 06 - [Ask HN: Resources to learn generative art programming?](https://news.ycombinator.com/item?id=32370671)
-- Aug 06 - [Why general artificial intelligence will not be realized (2020)](https://www.nature.com/articles/s41599-020-0494-4)
-- Aug 06 - [Please Use ZFS with ECC Memory (2014)](https://louwrentius.com/please-use-zfs-with-ecc-memory.html)
-- Aug 06 - [Git In Two Minutes (updated after 8 years)](https://www.garyrobinson.net/2014/10/git-in-two-minutes-for-a-solo-developer.html)
-- Aug 06 - [Show HN: JWST Image Slideshow](https://jwst.seanchenpiano.com)
+- Aug 06 - [Ask HN: More “experimental“ UIs for editing/writing code?](https://news.ycombinator.com/item?id=32372351)
+- Aug 06 - [Techbro Meme TikTok](https://www.tiktok.com/@murage_13_pro_max/video/7128417349572594990)
+- Aug 06 - [OneSignal (YC S11) is hiring engineers to work on messaging: Push, SMS, & Email](https://onesignal.com/careers)
+- Aug 06 - [The Scottish Highlands, Appalachians, and the Atlas are the same mountain range](https://vividmaps.com/central-pangean-mountains/)
+- Aug 06 - [SpaceMonger](https://www.portablefreeware.com/index.php?id=150)
 <!--END_SECTION:hn-->
 
 <!--
