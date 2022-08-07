@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 06 - [Ask HN: More “experimental“ UIs for editing/writing code?](https://news.ycombinator.com/item?id=32372351)
-- Aug 06 - [Techbro Meme TikTok](https://www.tiktok.com/@murage_13_pro_max/video/7128417349572594990)
-- Aug 06 - [OneSignal (YC S11) is hiring engineers to work on messaging: Push, SMS, & Email](https://onesignal.com/careers)
-- Aug 06 - [The Scottish Highlands, Appalachians, and the Atlas are the same mountain range](https://vividmaps.com/central-pangean-mountains/)
-- Aug 06 - [SpaceMonger](https://www.portablefreeware.com/index.php?id=150)
+- Aug 07 - [Solar canopies on parking lots](https://e360.yale.edu/features/putting-solar-panels-atop-parking-lots-a-green-energy-solution)
+- Aug 07 - [Prison Money Diaries: What People Make (and Spend) Behind Bars](https://www.themarshallproject.org/2022/08/04/prison-money-diaries-what-people-really-make-and-spend-behind-bars)
+- Aug 07 - [Sensitivity Readers Are the New Literary Gatekeepers](https://reason.com/2022/07/05/rise-of-the-sensitivity-reader/)
+- Aug 07 - [Home built with marble tombstones from the graves of 2,200 Union soldiers](https://www.atlasobscura.com/places/the-tombstone-house-petersburg-virginia)
+- Aug 07 - [Ivy (YC W23) is hiring engineers to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
 <!--END_SECTION:hn-->
 
 <!--
