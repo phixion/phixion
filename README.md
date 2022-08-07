@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 07 - [Solar canopies on parking lots](https://e360.yale.edu/features/putting-solar-panels-atop-parking-lots-a-green-energy-solution)
-- Aug 07 - [Prison Money Diaries: What People Make (and Spend) Behind Bars](https://www.themarshallproject.org/2022/08/04/prison-money-diaries-what-people-really-make-and-spend-behind-bars)
-- Aug 07 - [Sensitivity Readers Are the New Literary Gatekeepers](https://reason.com/2022/07/05/rise-of-the-sensitivity-reader/)
-- Aug 07 - [Home built with marble tombstones from the graves of 2,200 Union soldiers](https://www.atlasobscura.com/places/the-tombstone-house-petersburg-virginia)
-- Aug 07 - [Ivy (YC W23) is hiring engineers to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
+- Aug 07 - [Bits – Build Credit (YC S20) Is Hiring](https://www.ycombinator.com/companies/bits/jobs/D7rq824-ui-ux-designer)
+- Aug 07 - [A Soviet Test Pilot Ejected Two Seconds Before the Crash of His MiG-29 (2019)](https://theaviationgeekclub.com/that-time-a-soviet-test-pilot-ejected-two-seconds-before-the-crash-of-his-mig-29/)
+- Aug 07 - [Ivy: Rob Pike's APL-Like Language / Desk Calculator](https://pkg.go.dev/robpike.io/ivy)
+- Aug 07 - [How to stop being “terminally online”](https://nights.bearblog.dev/how-to-stop-being-terminally-online/)
+- Aug 07 - [Our Roadmap for Nix](https://www.tweag.io/blog/2022-08-04-tweag-and-nix-future/)
 <!--END_SECTION:hn-->
 
 <!--
