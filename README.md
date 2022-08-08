@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
-- Aug 05 - [QuestionPro - 22,229,637 breached accounts](https://haveibeenpwned.com/PwnedWebsites#QuestionPro)
-- Aug 03 - [Tuned Global - 985,586 breached accounts](https://haveibeenpwned.com/PwnedWebsites#TunedGlobal)
-- Aug 02 - [Mecho Download - 437,928 breached accounts](https://haveibeenpwned.com/PwnedWebsites#MechoDownload)
-- Jul 29 - [Battlefy - 83,610 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Battlefy)
-- Jul 26 - [Paytm - 3,395,101 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Paytm)
+- Jul 17 - [JukinMedia - 314,290 breached accounts](https://haveibeenpwned.com/PwnedWebsites#JukinMedia)
+- Jul 16 - [Famm - 535,240 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Famm)
+- Jul 16 - [Eskimi - 1,197,620 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Eskimi)
+- Jul 14 - [La Poste Mobile - 533,886 breached accounts](https://haveibeenpwned.com/PwnedWebsites#LaPosteMobile)
+- Jul 06 - [Mangatoon - 23,040,238 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Mangatoon)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 08 - [Mexico sees 13th journalist murdered so far this year](https://aztecreports.com/ernesto-mendez-becomes-13th-journalist-murdered-in-mexico-so-far-in-2022/3040/)
-- Aug 08 - [OFAC Sanctions on Tornado Cash](https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220808)
-- Aug 08 - [Starting October 19, storage limit will be enforced on all Gitlab Free accounts](https://docs.gitlab.com/ee/user/usage_quotas.html#namespace-storage-limit-enforcement-schedule)
-- Aug 08 - [U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash](https://home.treasury.gov/news/press-releases/jy0916)
-- Aug 08 - [Show HN: SaveSlack – create searchable knowledgebase from your Slack community](https://saveslack.com)
+- Aug 08 - [Automated Reasoning at Amazon: A Conversation](https://www.amazon.science/blog/automated-reasoning-at-federated-logic-conference-floc)
+- Aug 08 - [Show HN: I grew my startup to 100.000 visitors /m with no time for marketing](https://bootcamp.uxdesign.cc/i-grew-my-startup-to-100-000-visitors-per-month-with-no-time-for-marketing-254ba456ad4a)
+- Aug 08 - [Technical Writing Courses from Google](https://developers.google.com/tech-writing)
+- Aug 08 - [The 1857 Utah War](https://www.imetatronink.com/2022/08/the-mostly-forgotten-1857-utah-war.html)
+- Aug 08 - [Fintech is making credit cards weirder](https://workweek.com/2022/08/05/fintech-is-making-credit-cards-weirder/)
 <!--END_SECTION:hn-->
 
 <!--
