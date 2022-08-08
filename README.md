@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 08 - [Trealla – A compact, efficient Prolog interpreter written in plain-old C](https://github.com/trealla-prolog/trealla)
-- Aug 08 - [Why your daily stand-ups don't work and how to fix them](https://lucasfcosta.com/2022/08/07/how-to-improve-daily-standups.html)
-- Aug 08 - [A physical wiring diagram for the human immune system](https://www.nature.com/articles/s41586-022-05028-x)
-- Aug 08 - [I 10x'd a TI-84 emulator's speed by replacing a switch-case](https://artemis.sh/2022/08/07/emulating-calculators-fast-in-js.html)
-- Aug 08 - [Debugging bare-metal STM32 from the seventh level of hell](https://jpieper.com/2022/08/05/debugging-bare-metal-stm32-from-the-seventh-level-of-hell/)
+- Aug 08 - [Official Firefox add-on bringing offline translation support to Firefox](https://alternativeto.net/news/2022/6/official-firefox-translation-add-on-now-available-bringing-offline-translation-support-to-firefox/)
+- Aug 08 - [Post-Apocalyptic Programming](https://zserge.com/posts/post-apocalyptic-programming/)
+- Aug 08 - [Ask HN: What Is the Lisp “Enlightment”?](https://news.ycombinator.com/item?id=32383525)
+- Aug 08 - [Tom Blomfield: Monzo Growth](https://tomblomfield.com/post/691384431502557184/monzo-growth)
+- Aug 08 - [The East African Experiment](https://www.karlsnotes.com/the-east-african-federation/)
 <!--END_SECTION:hn-->
 
 <!--
