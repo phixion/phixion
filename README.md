@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 08 - [Official Firefox add-on bringing offline translation support to Firefox](https://alternativeto.net/news/2022/6/official-firefox-translation-add-on-now-available-bringing-offline-translation-support-to-firefox/)
-- Aug 08 - [Post-Apocalyptic Programming](https://zserge.com/posts/post-apocalyptic-programming/)
-- Aug 08 - [Ask HN: What Is the Lisp “Enlightment”?](https://news.ycombinator.com/item?id=32383525)
-- Aug 08 - [Tom Blomfield: Monzo Growth](https://tomblomfield.com/post/691384431502557184/monzo-growth)
-- Aug 08 - [The East African Experiment](https://www.karlsnotes.com/the-east-african-federation/)
+- Aug 08 - [Mexico sees 13th journalist murdered so far this year](https://aztecreports.com/ernesto-mendez-becomes-13th-journalist-murdered-in-mexico-so-far-in-2022/3040/)
+- Aug 08 - [OFAC Sanctions on Tornado Cash](https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220808)
+- Aug 08 - [Starting October 19, storage limit will be enforced on all Gitlab Free accounts](https://docs.gitlab.com/ee/user/usage_quotas.html#namespace-storage-limit-enforcement-schedule)
+- Aug 08 - [U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash](https://home.treasury.gov/news/press-releases/jy0916)
+- Aug 08 - [Show HN: SaveSlack – create searchable knowledgebase from your Slack community](https://saveslack.com)
 <!--END_SECTION:hn-->
 
 <!--
