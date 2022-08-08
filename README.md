@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 08 - [Trealla – A compact, efficient Prolog interpreter written in plain-old C](https://github.com/trealla-prolog/trealla)
+- Aug 08 - [Why your daily stand-ups don't work and how to fix them](https://lucasfcosta.com/2022/08/07/how-to-improve-daily-standups.html)
 - Aug 08 - [A physical wiring diagram for the human immune system](https://www.nature.com/articles/s41586-022-05028-x)
 - Aug 08 - [I 10x'd a TI-84 emulator's speed by replacing a switch-case](https://artemis.sh/2022/08/07/emulating-calculators-fast-in-js.html)
 - Aug 08 - [Debugging bare-metal STM32 from the seventh level of hell](https://jpieper.com/2022/08/05/debugging-bare-metal-stm32-from-the-seventh-level-of-hell/)
-- Aug 07 - [The mitochondrial NAD+ transporter SLC25A51 is a fasting-induced gene](https://www.metabolismjournal.com/article/S0026-0495(22)00153-6/fulltext)
-- Aug 07 - [Why does gRPC insist on trailers?](https://carlmastrangelo.com/blog/why-does-grpc-insist-on-trailers)
 <!--END_SECTION:hn-->
 
 <!--
