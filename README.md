@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
-- Jul 17 - [JukinMedia - 314,290 breached accounts](https://haveibeenpwned.com/PwnedWebsites#JukinMedia)
-- Jul 16 - [Famm - 535,240 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Famm)
-- Jul 16 - [Eskimi - 1,197,620 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Eskimi)
-- Jul 14 - [La Poste Mobile - 533,886 breached accounts](https://haveibeenpwned.com/PwnedWebsites#LaPosteMobile)
-- Jul 06 - [Mangatoon - 23,040,238 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Mangatoon)
+- Aug 05 - [QuestionPro - 22,229,637 breached accounts](https://haveibeenpwned.com/PwnedWebsites#QuestionPro)
+- Aug 03 - [Tuned Global - 985,586 breached accounts](https://haveibeenpwned.com/PwnedWebsites#TunedGlobal)
+- Aug 02 - [Mecho Download - 437,928 breached accounts](https://haveibeenpwned.com/PwnedWebsites#MechoDownload)
+- Jul 29 - [Battlefy - 83,610 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Battlefy)
+- Jul 26 - [Paytm - 3,395,101 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Paytm)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 08 - [Automated Reasoning at Amazon: A Conversation](https://www.amazon.science/blog/automated-reasoning-at-federated-logic-conference-floc)
-- Aug 08 - [Show HN: I grew my startup to 100.000 visitors /m with no time for marketing](https://bootcamp.uxdesign.cc/i-grew-my-startup-to-100-000-visitors-per-month-with-no-time-for-marketing-254ba456ad4a)
-- Aug 08 - [Technical Writing Courses from Google](https://developers.google.com/tech-writing)
-- Aug 08 - [The 1857 Utah War](https://www.imetatronink.com/2022/08/the-mostly-forgotten-1857-utah-war.html)
-- Aug 08 - [Fintech is making credit cards weirder](https://workweek.com/2022/08/05/fintech-is-making-credit-cards-weirder/)
+- Aug 09 - [MantaRay: Open-Source Ray Tracer](https://github.com/ange-yaghi/manta-ray)
+- Aug 08 - [Malcolm Gladwell opposes WFH while he works from his couch for the last 20 years](https://fortune.com/2022/08/08/malcolm-gladwell-slammed-after-criticizing-wfh-policies-despite-having-worked-remotely-for-decades/)
+- Aug 08 - [A content model is not a design system (2021)](https://alistapart.com/article/a-content-model-is-not-a-design-system/)
+- Aug 08 - [The case against an alternative to C](https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative)
+- Aug 08 - [A history of storage media (2017)](https://codewords.recurse.com/issues/seven/a-history-of-storage-media)
 <!--END_SECTION:hn-->
 
 <!--
