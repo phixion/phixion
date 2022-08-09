@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 09 - [MantaRay: Open-Source Ray Tracer](https://github.com/ange-yaghi/manta-ray)
-- Aug 08 - [Malcolm Gladwell opposes WFH while he works from his couch for the last 20 years](https://fortune.com/2022/08/08/malcolm-gladwell-slammed-after-criticizing-wfh-policies-despite-having-worked-remotely-for-decades/)
-- Aug 08 - [A content model is not a design system (2021)](https://alistapart.com/article/a-content-model-is-not-a-design-system/)
-- Aug 08 - [The case against an alternative to C](https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative)
-- Aug 08 - [A history of storage media (2017)](https://codewords.recurse.com/issues/seven/a-history-of-storage-media)
+- Aug 09 - [How fast is 12th Gen Intel Core?](https://frame.work/blog/how-fast-is-12th-gen-intel-core)
+- Aug 09 - [Write a note to your spouse every day](https://jdnoc.com/note/)
+- Aug 09 - [Three people in critical condition from Google data center 'electrical incident'](https://www.sfgate.com/news/article/google-electrical-incident-injures-3-17360321.php)
+- Aug 09 - [Ask HN: Google Search down?](https://news.ycombinator.com/item?id=32393051)
+- Aug 09 - [Man arrested for promoting jury nullification wins federal case](https://reason.com/2022/08/05/he-was-arrested-for-promoting-jury-nullification-a-federal-court-says-that-was-illegal/)
 <!--END_SECTION:hn-->
 
 <!--
