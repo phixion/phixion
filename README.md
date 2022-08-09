@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 09 - [Dusting “Attack” via Tornado Cash to Public Wallets](https://etherscan.io/txsInternal?a=0x12d66f87a04a9e220743712ce6d9bb1b5616b8fc&p=1)
-- Aug 09 - [Noether's Theorem in a Nutshell (2020)](https://math.ucr.edu/home/baez/noether.html)
-- Aug 09 - [Don’t call it a comeback: Why Java is still champ](https://github.com/readme/featured/java-programming-language)
-- Aug 09 - [It’s time for Apple to fix texting](https://www.android.com/get-the-message/)
-- Aug 09 - [Wildfires are destroying California's forest carbon credit reserves, study says](https://www.reuters.com/world/us/wildfires-are-destroying-californias-forest-carbon-credit-reserves-study-2022-08-05/)
+- Aug 09 - [Google Maps' Moat Is Evaporating](https://joemorrison.substack.com/p/google-maps-moat-is-evaporating)
+- Aug 09 - [Implementing a Zero Trust Architecture](https://www.nccoe.nist.gov/projects/implementing-zero-trust-architecture)
+- Aug 09 - [Archaeologists Rebury ‘First-of-Its-Kind’ Roman Villa](https://www.smithsonianmag.com/smart-news/archaeologists-rebury-first-of-its-kind-roman-villa-180980535/)
+- Aug 09 - [The state of South Africa, 28ish years post-apartheid](https://www.awanderingmind.blog/posts/2022-07-30-state-of-south-africa.html)
+- Aug 09 - [Lz_xor](http://richg42.blogspot.com/2022/01/lzxor.html)
 <!--END_SECTION:hn-->
 
 <!--
