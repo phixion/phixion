@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 09 - [Universe (YC W18) Is Hiring a Senior Front End Web Engineer](https://jobs.lever.co/onuniverse/f2909021-bac3-4938-975e-62eb9c5d8dc4)
-- Aug 09 - [Trump's Mar-a-Lago Raided by FBI](https://www.bbc.com/news/world-us-canada-62472908)
-- Aug 09 - [How do palm trees survive hurricanes? (2017)](https://www.indefenseofplants.com/blog/2017/9/10/how-do-palms-survive-hurricanes)
-- Aug 09 - [Spiders Seem to Have REM-Like Sleep and May Even Dream](https://www.scientificamerican.com/article/spiders-seem-to-have-rem-like-sleep-and-may-even-dream/)
-- Aug 09 - [GitHub accounts of people who contributed to tornado repos just got deleted](https://twitter.com/bantg/status/1556721709931175937)
+- Aug 09 - [Dusting “Attack” via Tornado Cash to Public Wallets](https://etherscan.io/txsInternal?a=0x12d66f87a04a9e220743712ce6d9bb1b5616b8fc&p=1)
+- Aug 09 - [Noether's Theorem in a Nutshell (2020)](https://math.ucr.edu/home/baez/noether.html)
+- Aug 09 - [Don’t call it a comeback: Why Java is still champ](https://github.com/readme/featured/java-programming-language)
+- Aug 09 - [It’s time for Apple to fix texting](https://www.android.com/get-the-message/)
+- Aug 09 - [Wildfires are destroying California's forest carbon credit reserves, study says](https://www.reuters.com/world/us/wildfires-are-destroying-californias-forest-carbon-credit-reserves-study-2022-08-05/)
 <!--END_SECTION:hn-->
 
 <!--
