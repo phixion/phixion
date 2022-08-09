@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 09 - [V-22 Osprey](https://coolmilitarystuff.com/u-s-marines-corps-v-22-osprey/)
-- Aug 09 - [$5.6B Cloud Company Fivetran Acquired Its Way to Survival](https://www.forbes.com/sites/kenrickcai/2022/08/08/the-56-billion-internet-plumbers/)
-- Aug 09 - [Show HN: Yare 2 – Programmable RTS game](https://www.yare.io)
-- Aug 09 - [The tooling ecosystem that adds joy to KiCad](https://media.ccc.de/v/mch2022-332-the-tooling-ecosystem-that-adds-joy-to-kicad)
-- Aug 09 - [How fast is 12th Gen Intel Core?](https://frame.work/blog/how-fast-is-12th-gen-intel-core)
+- Aug 09 - [Universe (YC W18) Is Hiring a Senior Front End Web Engineer](https://jobs.lever.co/onuniverse/f2909021-bac3-4938-975e-62eb9c5d8dc4)
+- Aug 09 - [Trump's Mar-a-Lago Raided by FBI](https://www.bbc.com/news/world-us-canada-62472908)
+- Aug 09 - [How do palm trees survive hurricanes? (2017)](https://www.indefenseofplants.com/blog/2017/9/10/how-do-palms-survive-hurricanes)
+- Aug 09 - [Spiders Seem to Have REM-Like Sleep and May Even Dream](https://www.scientificamerican.com/article/spiders-seem-to-have-rem-like-sleep-and-may-even-dream/)
+- Aug 09 - [GitHub accounts of people who contributed to tornado repos just got deleted](https://twitter.com/bantg/status/1556721709931175937)
 <!--END_SECTION:hn-->
 
 <!--
