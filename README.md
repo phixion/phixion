@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 10 - [Show HN: Lumina Desk – digital desk for health and productivity](https://getlumina.com/desk)
-- Aug 10 - [Celsius Network Files Chapter 11 Bankruptcy](https://dfr.vermont.gov/consumer-alert/celsius-network-files-chapter-11-bankruptcy)
-- Aug 10 - [Launch HN: Sematic (YC S22) – Open-source framework to build ML pipelines faster](https://news.ycombinator.com/item?id=32413070)
-- Aug 10 - [How SQLite Helps You Do ACID](https://fly.io/blog/sqlite-internals-rollback-journal/)
-- Aug 10 - [The Semantic Web Is Dead – Long Live the Semantic Web](https://github.com/GavinMendelGleason/blog/blob/main/entries/semantic_future.md)
+- Aug 10 - [OnlyFans bribed Meta to put many porn stars on terror watchlist, suits claim](https://nypost.com/2022/08/09/onlyfans-bribed-meta-to-put-thousands-of-porn-stars-on-terror-watchlist-suits-claim/)
+- Aug 10 - [Instagram can track anything you do on any website in their in-app browser](https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser)
+- Aug 10 - [CareRev (YC S16) is hiring Ruby/Rails devs to transform healthcare (Remote US)](https://grnh.se/ad639bdc3us)
+- Aug 10 - [Stable Diffusion launch announcement](https://stability.ai/blog/stable-diffusion-announcement)
+- Aug 10 - [Nip2: A spreadsheet-like GUI for the libvips image processing library](https://github.com/libvips/nip2)
 <!--END_SECTION:hn-->
 
 <!--
