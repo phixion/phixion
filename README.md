@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 09 - [Show HN: 1024, a 2048 Puzzle Game](https://1024-game.netlify.app/)
-- Aug 09 - [Relationship Hero (YC S17) is hiring coaches](https://relationshiphero.com/careers?role=coach)
-- Aug 09 - [Falling for Kubernetes](https://freeman.vc/notes/falling-for-kubernetes)
-- Aug 09 - [Tornado cash takedown and its repercussions](https://rnikhil.com/2022/08/09/tornado-cash-block.html)
-- Aug 09 - [Fishing gear accounts for an alarming amount of plastic in oceans (2021)](https://www.nature.org/en-us/newsroom/ca-ocean-plastic/)
+- Aug 10 - [JNumPy: Writing high-performance C extensions for Python in minutes](https://github.com/Suzhou-Tongyuan/jnumpy)
+- Aug 10 - [Mental Model Practices](https://mmpractices.com/)
+- Aug 10 - [Baby’s First Garbage Collector (2013)](https://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
+- Aug 10 - [AppLovin bids $17.5B to acquire Unity](https://www.axios.com/2022/08/09/applovin-unity-video-game-consolidation)
+- Aug 10 - [Artificial synapses 10k times faster than real thing](https://spectrum.ieee.org/artificial-synapses)
 <!--END_SECTION:hn-->
 
 <!--
