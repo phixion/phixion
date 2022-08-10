@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 10 - [Facebook gives data to Nebraska police prosecuting teenager for abortion](https://thebrag.com/facebook-gives-data-to-nebraska-police-prosecuting-teenager-for-abortion/)
+- Aug 10 - [Toko (YC W22) is hiring a Founding Engineer to make language fluency accessible](https://www.ycombinator.com/companies/toko/jobs/Oiatspl-founding-engineer)
+- Aug 10 - [“autistic people can’t acknowledge when they’re wrong”](https://the.scapegoat.dev/autistic-people-cant-acknowledge-when-they-are-wrong/)
+- Aug 10 - [Why aren't smart people happier?](https://experimentalhistory.substack.com/p/why-arent-smart-people-happier)
+- Aug 10 - [Strong force grows quickly from zero, then becomes constant at all distances](https://phys.org/news/2022-08-strength-strong.html)
 - Aug 10 - [Faster Ruby: Thoughts from the Outside](https://www.mgaudet.ca/technical/2022/8/9/faster-ruby-thoughts-from-the-outside)
-- Aug 10 - [Ashby (YC W19) hiring Europe Product Eng in low-meeting, great devex culture](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=7dcbfb52-f465-46b2-adbb-b6caccafbe0a)
-- Aug 10 - [Making a Video of a Single Window](https://tratt.net/laurie/blog/2022/making_a_video_of_a_single_window.html)
-- Aug 10 - [Essential Climbing Knots](https://www.climbing.com/skills/essential-climbing-knots-complete-guide/)
 <!--END_SECTION:hn-->
 
 <!--
