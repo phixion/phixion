@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 10 - [Toko (YC W22) is hiring a Founding Engineer to make language fluency accessible](https://www.ycombinator.com/companies/toko/jobs/Oiatspl-founding-engineer)
-- Aug 10 - [“autistic people can’t acknowledge when they’re wrong”](https://the.scapegoat.dev/autistic-people-cant-acknowledge-when-they-are-wrong/)
-- Aug 10 - [Why aren't smart people happier?](https://experimentalhistory.substack.com/p/why-arent-smart-people-happier)
-- Aug 10 - [Strong force grows quickly from zero, then becomes constant at all distances](https://phys.org/news/2022-08-strength-strong.html)
-- Aug 10 - [Faster Ruby: Thoughts from the Outside](https://www.mgaudet.ca/technical/2022/8/9/faster-ruby-thoughts-from-the-outside)
+- Aug 10 - [Show HN: Lumina Desk – digital desk for health and productivity](https://getlumina.com/desk)
+- Aug 10 - [Celsius Network Files Chapter 11 Bankruptcy](https://dfr.vermont.gov/consumer-alert/celsius-network-files-chapter-11-bankruptcy)
+- Aug 10 - [Launch HN: Sematic (YC S22) – Open-source framework to build ML pipelines faster](https://news.ycombinator.com/item?id=32413070)
+- Aug 10 - [How SQLite Helps You Do ACID](https://fly.io/blog/sqlite-internals-rollback-journal/)
+- Aug 10 - [The Semantic Web Is Dead – Long Live the Semantic Web](https://github.com/GavinMendelGleason/blog/blob/main/entries/semantic_future.md)
 <!--END_SECTION:hn-->
 
 <!--
