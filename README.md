@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 09 - [Google Maps' Moat Is Evaporating](https://joemorrison.substack.com/p/google-maps-moat-is-evaporating)
-- Aug 09 - [Implementing a Zero Trust Architecture](https://www.nccoe.nist.gov/projects/implementing-zero-trust-architecture)
-- Aug 09 - [Archaeologists Rebury ‘First-of-Its-Kind’ Roman Villa](https://www.smithsonianmag.com/smart-news/archaeologists-rebury-first-of-its-kind-roman-villa-180980535/)
-- Aug 09 - [The state of South Africa, 28ish years post-apartheid](https://www.awanderingmind.blog/posts/2022-07-30-state-of-south-africa.html)
-- Aug 09 - [Lz_xor](http://richg42.blogspot.com/2022/01/lzxor.html)
+- Aug 09 - [Show HN: 1024, a 2048 Puzzle Game](https://1024-game.netlify.app/)
+- Aug 09 - [Relationship Hero (YC S17) is hiring coaches](https://relationshiphero.com/careers?role=coach)
+- Aug 09 - [Falling for Kubernetes](https://freeman.vc/notes/falling-for-kubernetes)
+- Aug 09 - [Tornado cash takedown and its repercussions](https://rnikhil.com/2022/08/09/tornado-cash-block.html)
+- Aug 09 - [Fishing gear accounts for an alarming amount of plastic in oceans (2021)](https://www.nature.org/en-us/newsroom/ca-ocean-plastic/)
 <!--END_SECTION:hn-->
 
 <!--
