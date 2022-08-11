@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 11 - [I wish I could organize my thoughts](https://drewdevault.com/2022/08/10/Organizing-my-thoughts.html)
-- Aug 11 - [Irishman arrested in UK for 'causing anxiety' by retweeting meme](https://www.irishmirror.ie/news/irish-news/irishman-arrested-uk-causing-anxiety-27639423)
-- Aug 11 - [Redis explained](https://architecturenotes.co/redis/)
-- Aug 11 - [Rust 1.63.0](https://blog.rust-lang.org/2022/08/11/Rust-1.63.0.html)
-- Aug 11 - [A 17-year-old designed a motor that could transform the electric car industry](https://www.smithsonianmag.com/innovation/this-17-year-old-designed-a-motor-that-could-potentially-transform-the-electric-car-industry-180980550/)
+- Aug 11 - [Why thinking hard makes us feel tired](https://www.nature.com/articles/d41586-022-02161-5)
+- Aug 11 - [Do spiders dream? A new study suggests they do](https://www.nationalgeographic.com/animals/article/jumping-spiders-dream-rem-sleep-study-suggests)
+- Aug 11 - [Is this the end of social networking?](https://reb00ted.org/tech/20220727-end-of-social-networking/)
+- Aug 11 - [Xbox has accused Sony of paying Game Pass 'block fees' to developers](https://www.toisthe.com/2022/08/xbox-has-accused-sony-of-paying-game-pass-block-fees-to-developers.html)
+- Aug 11 - [System.css: A design system for building retro Apple interfaces](https://sakofchit.github.io/system.css/)
 <!--END_SECTION:hn-->
 
 <!--
