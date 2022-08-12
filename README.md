@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 12 - [Show HN: Markdown as Web Page/Site](https://github.com/casualwriter/casual-markdown-page)
-- Aug 12 - [Rob Pike's simple C regex matcher in Go](https://benhoyt.com/writings/rob-pike-regex/)
-- Aug 12 - [Goat Rental – Hire Goats](https://hiregoats.com/)
-- Aug 12 - [Nanostructured Fibers Can Impersonate Human Muscles](https://www.ae.utexas.edu/news/nanostructured-fibers-can-impersonate-human-muscles)
-- Aug 12 - [My take on how DuckDuckGo can outperform Google](https://daniloedu.medium.com/my-take-on-how-duckduckgo-can-outperform-google-e52191e49558)
+- Aug 12 - [I Insist People Use the Forums and Issue Trackers](https://www.stoutner.com/why-i-insist-people-use-the-forums-and-issue-trackers/)
+- Aug 12 - [JiraCLI](https://github.com/ankitpokhrel/jira-cli)
+- Aug 12 - [TruffleC: A C implementation on top of JVM](https://dl.acm.org/doi/10.1145/2647508.2647528)
+- Aug 12 - [Reverse-Engineering Insect Brains to Make Robots](https://www.eetimes.com/reverse-engineering-insect-brains-to-make-robots/)
+- Aug 12 - [Overrun by influencers, historic sites are banning TikTok creators in Nepal](https://restofworld.org/2022/nepals-historic-sites-banning-tiktok-creators/)
 <!--END_SECTION:hn-->
 
 <!--
