@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 12 - [Excel is pretty dang cool](https://buttondown.email/hillelwayne/archive/excel-is-pretty-dang-cool/)
-- Aug 12 - [Supabase Series B](https://supabase.com/blog/supabase-series-b)
-- Aug 12 - [Constructive and obsessive criticism in science](https://onlinelibrary.wiley.com/doi/full/10.1111/eci.13839)
-- Aug 12 - [Kubernetes Statefulsets Are Broken](https://www.plural.sh/blog/kubernetes-statefulsets-are-broken/)
-- Aug 12 - [Starlink Successfully Hacked Using $25 Modchip](https://threatpost.com/starlink-hack/180389/)
+- Aug 12 - [New Intel chips won't play Blu-ray disks due to SGX deprecation](https://www.bleepingcomputer.com/news/security/new-intel-chips-wont-play-blu-ray-disks-due-to-sgx-deprecation/)
+- Aug 12 - [Show HN: List of Menu Items for all Food stores in USA (zipcode wise)](https://news.ycombinator.com/item?id=32442707)
+- Aug 12 - [Google execs threaten workers with layoffs: ‘There will be blood on the streets’](https://nypost.com/2022/08/12/google-execs-threaten-workers-with-layoffs-there-will-be-blood-on-the-streets/)
+- Aug 12 - [VLC media player banned in India](https://www.indiatoday.in/technology/news/story/vlc-media-player-banned-in-india-website-and-vlc-download-link-blocked-1987361-2022-08-12)
+- Aug 12 - [Focus Time Saved Me from Burnout](https://frankgrecojr.medium.com/focus-time-saved-me-from-burnout-88cff1829276)
 <!--END_SECTION:hn-->
 
 <!--
