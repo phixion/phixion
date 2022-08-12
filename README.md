@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 12 - [I Insist People Use the Forums and Issue Trackers](https://www.stoutner.com/why-i-insist-people-use-the-forums-and-issue-trackers/)
-- Aug 12 - [JiraCLI](https://github.com/ankitpokhrel/jira-cli)
-- Aug 12 - [TruffleC: A C implementation on top of JVM](https://dl.acm.org/doi/10.1145/2647508.2647528)
-- Aug 12 - [Reverse-Engineering Insect Brains to Make Robots](https://www.eetimes.com/reverse-engineering-insect-brains-to-make-robots/)
-- Aug 12 - [Overrun by influencers, historic sites are banning TikTok creators in Nepal](https://restofworld.org/2022/nepals-historic-sites-banning-tiktok-creators/)
+- Aug 12 - [FOSS tool to enforce privacy and security best-practices on Windows and macOS](https://github.com/undergroundwires/privacy.sexy)
+- Aug 12 - [GHC 9.4.1 is now available](https://discourse.haskell.org/t/ghc-9-4-1-is-now-available/4901)
+- Aug 12 - [Byte Magazine Volume 12 Number 09: Prolog and 386 Hardware Software (1987)](https://archive.org/details/byte-magazine-1987-08)
+- Aug 12 - [Man overcharged 20 rupees for India train ticket wins 22-year legal battle](https://www.theguardian.com/world/2022/aug/12/man-overcharged-20-rupees-for-india-train-ticket-wins-22-year-legal-battle)
+- Aug 12 - [Arctic melting four times faster than rest of the planet, study says](https://www.ft.com/content/9bb32c6f-b3dc-46bd-944e-9e583407b866)
 <!--END_SECTION:hn-->
 
 <!--
