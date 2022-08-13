@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 13 - [Germany Sees Tidal Shift in Sentiment Toward Atomic Energy](https://www.spiegel.de/international/germany/germany-sees-tidal-shift-in-sentiment-toward-atomic-energy-a-05f47c3c-d20e-44dc-bd6d-1e1dbfb7f0cd)
-- Aug 13 - [On Being Tired](https://jukkaniiranen.com/2022/02/on-being-tired/)
-- Aug 13 - [How to Stay Focused While Working on Your Startup and Having a 9 to 5](https://fernandopessagno.medium.com/6-ways-to-stay-focused-while-working-on-your-startup-and-having-a-9-to-5-fb0b2d2c8db3)
-- Aug 13 - [Moonray – open-source production renderer from DreamWorks](https://openmoonray.org/)
-- Aug 13 - [2022 Oder Environmental Disaster](https://en.wikipedia.org/wiki/2022_Oder_environmental_disaster)
+- Aug 13 - [WinterCG: Web-Interoperable Runtimes Community Group](https://wintercg.org/)
+- Aug 13 - [Ask HN: How to price a service that saves hundreds of engineering hours?](https://news.ycombinator.com/item?id=32452905)
+- Aug 13 - [Show HN: Rocket Drone, a lunar lander type game for the web](https://rocket-drone.lol)
+- Aug 13 - [Quirky Computing Books](https://github.com/fogus/thunks/blob/main/reading/quirkeys.org)
+- Aug 13 - [A Python-compatible statically typed language erg-lang/erg](https://github.com/erg-lang/erg)
 <!--END_SECTION:hn-->
 
 <!--
