@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 13 - [Twitter is hiring an alarming number of FBI agents](https://therealnews.com/twitter-is-hiring-an-alarming-number-of-fbi-agents)
-- Aug 13 - [Tauri – Creating Tiny Desktop Apps With React/Vue](https://tauri.app/)
-- Aug 13 - [Superlattices Could Make Bulky Capacitors Obsolete](https://spectrum.ieee.org/antiferroelectric)
-- Aug 13 - [Improving Postgres Text Search Speed](https://www.charityapi.org/post/improving-postgres-text-search-speed-7x-on-millions-of-records)
-- Aug 13 - [Subreply](https://subreply.com/discover)
+- Aug 13 - [John Carmack: Best Programming Setup and IDE – Lex Fridman Podcast Clips](https://www.youtube.com/watch?v=tzr7hRXcwkw)
+- Aug 13 - [Taktile (YC S20) Is Hiring Front End Engineer](https://www.ycombinator.com/companies/taktile/jobs/3zSNBYP-frontend-developer-f-m-d)
+- Aug 13 - [The Zoom installer let a researcher hack his way to root access on macOS](https://www.theverge.com/2022/8/12/23303411/zoom-defcon-root-access-privilege-escalation-hack-patrick-wardle)
+- Aug 13 - [The Bay Area's Lost Streetcars](https://sfstreetcars.co/)
+- Aug 13 - [Autodesk criticised by 35 named architects (2020)](http://extranetevolution.com/2020/07/autodesk-criticism-extends/)
 <!--END_SECTION:hn-->
 
 <!--
