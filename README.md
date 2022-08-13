@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 12 - [New Intel chips won't play Blu-ray disks due to SGX deprecation](https://www.bleepingcomputer.com/news/security/new-intel-chips-wont-play-blu-ray-disks-due-to-sgx-deprecation/)
-- Aug 12 - [Show HN: List of Menu Items for all Food stores in USA (zipcode wise)](https://news.ycombinator.com/item?id=32442707)
-- Aug 12 - [Google execs threaten workers with layoffs: ‘There will be blood on the streets’](https://nypost.com/2022/08/12/google-execs-threaten-workers-with-layoffs-there-will-be-blood-on-the-streets/)
-- Aug 12 - [VLC media player banned in India](https://www.indiatoday.in/technology/news/story/vlc-media-player-banned-in-india-website-and-vlc-download-link-blocked-1987361-2022-08-12)
-- Aug 12 - [Focus Time Saved Me from Burnout](https://frankgrecojr.medium.com/focus-time-saved-me-from-burnout-88cff1829276)
+- Aug 12 - [Santa Susana Field Lab (California) suffered a partial nuclear meltdown (1959)](https://www.kcrw.com/news/shows/greater-la/santa-susana)
+- Aug 12 - [An open letter to the Tesla fan who wants to run over a kid](https://www.theverge.com/2022/8/12/23302850/tesla-full-self-driving-child-crash-open-letter)
+- Aug 12 - [Local Simulation Feature to be Removed From All Autodesk Fusion 360 Versions](https://knowledge.autodesk.com/support/fusion-360/learn-explore/caas/sfdcarticles/sfdcarticles/Updates-to-the-Fusion-360-Simulation-Extension.html)
+- Aug 12 - [Gitlab CEO Shadow Program](https://about.gitlab.com/handbook/ceo/shadow/)
+- Aug 12 - [Suckless.org – software that sucks less](https://suckless.org/)
 <!--END_SECTION:hn-->
 
 <!--
