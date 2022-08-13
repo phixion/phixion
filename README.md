@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 13 - [Cast Iron Leet](https://erock.prose.sh/cast-iron-leet)
-- Aug 13 - [US data transfer unlawful according to German procurement authority](https://www.simpleanalytics.com/blog/us-data-transfer-unlawful-according-to-german-procurement-authority)
-- Aug 13 - [Researchers agree: World can reach 100% renewable energy system by/before 2050](https://www.helsinkitimes.fi/themes/themes/science-and-technology/22012-researchers-agree-the-world-can-reach-a-100-renewable-energy-system-by-or-before-2050.html)
-- Aug 13 - [Animal melting pot created by climate change could lead to new disease outbreaks](https://www.science.org/content/article/animal-melting-pot-created-climate-change-could-lead-new-disease-outbreaks)
-- Aug 13 - [Hyundai car software update private keys came from easily Googleable sample code](https://programmingwithstyle.com/posts/howihackedmycar/)
+- Aug 13 - [Germany Sees Tidal Shift in Sentiment Toward Atomic Energy](https://www.spiegel.de/international/germany/germany-sees-tidal-shift-in-sentiment-toward-atomic-energy-a-05f47c3c-d20e-44dc-bd6d-1e1dbfb7f0cd)
+- Aug 13 - [On Being Tired](https://jukkaniiranen.com/2022/02/on-being-tired/)
+- Aug 13 - [How to Stay Focused While Working on Your Startup and Having a 9 to 5](https://fernandopessagno.medium.com/6-ways-to-stay-focused-while-working-on-your-startup-and-having-a-9-to-5-fb0b2d2c8db3)
+- Aug 13 - [Moonray – open-source production renderer from DreamWorks](https://openmoonray.org/)
+- Aug 13 - [2022 Oder Environmental Disaster](https://en.wikipedia.org/wiki/2022_Oder_environmental_disaster)
 <!--END_SECTION:hn-->
 
 <!--
