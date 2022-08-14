@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 13 - [Ask HN: Any way to ban GPT-4 and others from harvesting my content and data?](https://news.ycombinator.com/item?id=32454585)
-- Aug 13 - [Off the Grid Cali “Slab City” Reaches Its Boiling Point](https://bluedotliving.com/slab-city-reaches-its-boiling-point/)
-- Aug 13 - [School demands search of text messaging, outside of school](https://twitter.com/DrRachaelF/status/1558250615813263360)
-- Aug 13 - [Man who robbed bank to get his own money back hailed as national hero](https://www.unilad.com/news/man-robbed-bank-money-lebanon-20220812)
-- Aug 13 - [Who Makes Ridgid Tools?](https://housegrail.com/who-makes-ridgid-tools/)
+- Aug 14 - [The Remote Pop-In Meeting](https://twos.dev/thepopin.html)
+- Aug 14 - [Does the Dog Die?](https://www.thewildest.com/dog-lifestyle/does-the-dog-die)
+- Aug 14 - [OctoPrint: The snappy web interface for your 3D printer](https://octoprint.org/)
+- Aug 14 - [Capitalism and Alienation [Severance Is the Workplace Thriller We’ve Needed]](https://readpassage.com/severance-is-the-workplace-thriller-weve-needed/)
+- Aug 14 - [Observations on tragedy in a digital age](https://tedgioia.substack.com/p/10-observations-on-tragedy-in-a-digital)
 <!--END_SECTION:hn-->
 
 <!--
