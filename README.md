@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 14 - [List of over 500 Swedish tech startups and scaleups](https://www.swedishtechnews.com/ultimate-swedish-startups-list/)
+- Aug 14 - [Paradigms of Artificial Intelligence Programming](https://github.com/norvig/paip-lisp)
+- Aug 14 - [Human Capital, Innovation, and Growth](https://onlinelibrary.wiley.com/doi/full/10.1111/ijet.12346)
+- Aug 14 - [Will Bun JavaScript Take Node's Crown](https://semaphoreci.com/blog/javascript-bun)
 - Aug 14 - [Apple held up Telegram’s latest update over emoji](https://www.theverge.com/2022/8/12/23303446/telegram-update-apple-emoji-telemoji)
-- Aug 14 - [Stacker (YC S20) Is Hiring a Product Engineer](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
-- Aug 14 - [Tachyum Prodigy – The World’s First Universal Processor](https://www.tachyum.com/)
-- Aug 14 - [Muxfs – a mirroring, checksumming, self-healing filesystem layer](https://sdadams.org/blog/introducing-muxfs/)
-- Aug 14 - [Forecasting of energy consumption by G20 countries](https://www.nature.com/articles/s41598-022-17505-4)
 <!--END_SECTION:hn-->
 
 <!--
