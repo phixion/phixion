@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 14 - [The Remote Pop-In Meeting](https://twos.dev/thepopin.html)
-- Aug 14 - [Does the Dog Die?](https://www.thewildest.com/dog-lifestyle/does-the-dog-die)
-- Aug 14 - [OctoPrint: The snappy web interface for your 3D printer](https://octoprint.org/)
-- Aug 14 - [Capitalism and Alienation [Severance Is the Workplace Thriller We’ve Needed]](https://readpassage.com/severance-is-the-workplace-thriller-weve-needed/)
-- Aug 14 - [Observations on tragedy in a digital age](https://tedgioia.substack.com/p/10-observations-on-tragedy-in-a-digital)
+- Aug 14 - [Apple held up Telegram’s latest update over emoji](https://www.theverge.com/2022/8/12/23303446/telegram-update-apple-emoji-telemoji)
+- Aug 14 - [Stacker (YC S20) Is Hiring a Product Engineer](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
+- Aug 14 - [Tachyum Prodigy – The World’s First Universal Processor](https://www.tachyum.com/)
+- Aug 14 - [Muxfs – a mirroring, checksumming, self-healing filesystem layer](https://sdadams.org/blog/introducing-muxfs/)
+- Aug 14 - [Forecasting of energy consumption by G20 countries](https://www.nature.com/articles/s41598-022-17505-4)
 <!--END_SECTION:hn-->
 
 <!--
