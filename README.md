@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 14 - [Cloud.gov](https://cloud.gov/)
-- Aug 14 - [Are We Blub Programmers?](http://weblog.raganwald.com/2006/10/are-we-blub-programmers.html)
-- Aug 14 - [Elements of Programming (2019)](http://elementsofprogramming.com/)
-- Aug 14 - [Activities for Boring Meetings (2012)](https://wiki.c2.com/?ActivitiesForBoringMeetings)
-- Aug 14 - [Mexican Loan Apps, Extortion, and the Google Play Store](https://techpolicy.press/mexican-loan-apps-extortion-and-the-google-play-store/)
+- Aug 14 - [The Economics of the Tesla Semi](https://www.torquenews.com/14335/staggering-economics-tesla-semi)
+- Aug 14 - [Status Traps: Learning from Web2 Social Networks](https://a16zcrypto.com/social-network-status-traps-web2-learnings/)
+- Aug 14 - [As an artist I am concerned about AI image generation](https://twitter.com/arvalis/status/1558623545374023680)
+- Aug 14 - [Hacker News Predictions](https://hnpredictions.github.io/)
+- Aug 14 - [What to know to begin fixing amplifiers [video]](https://www.youtube.com/watch?v=0oWBcTTeMNQ)
 <!--END_SECTION:hn-->
 
 <!--
