@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 13 - [WinterCG: Web-Interoperable Runtimes Community Group](https://wintercg.org/)
-- Aug 13 - [Ask HN: How to price a service that saves hundreds of engineering hours?](https://news.ycombinator.com/item?id=32452905)
-- Aug 13 - [Show HN: Rocket Drone, a lunar lander type game for the web](https://rocket-drone.lol)
-- Aug 13 - [Quirky Computing Books](https://github.com/fogus/thunks/blob/main/reading/quirkeys.org)
-- Aug 13 - [A Python-compatible statically typed language erg-lang/erg](https://github.com/erg-lang/erg)
+- Aug 13 - [Ask HN: Any way to ban GPT-4 and others from harvesting my content and data?](https://news.ycombinator.com/item?id=32454585)
+- Aug 13 - [Off the Grid Cali “Slab City” Reaches Its Boiling Point](https://bluedotliving.com/slab-city-reaches-its-boiling-point/)
+- Aug 13 - [School demands search of text messaging, outside of school](https://twitter.com/DrRachaelF/status/1558250615813263360)
+- Aug 13 - [Man who robbed bank to get his own money back hailed as national hero](https://www.unilad.com/news/man-robbed-bank-money-lebanon-20220812)
+- Aug 13 - [Who Makes Ridgid Tools?](https://housegrail.com/who-makes-ridgid-tools/)
 <!--END_SECTION:hn-->
 
 <!--
