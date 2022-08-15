@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 15 - [$100M ARR in 18 months: Wiz becomes the fastest-growing software company ever](https://www.wiz.io/blog/100m-arr-in-18-months-wiz-becomes-the-fastest-growing-software-company-ever)
-- Aug 15 - [Tailscale changes its Android app to support the open source Headscale server](https://github.com/tailscale/tailscale-android/pull/45)
-- Aug 15 - [Feedback on Snouters](https://snouters.com/)
-- Aug 15 - [The Epsilon Method](https://jakobgreenfeld.com/epsilon-method)
-- Aug 15 - [Why does Neon use Paxos instead of Raft, and what's the difference?](https://neon.tech/blog/paxos/)
+- Aug 15 - [Tell HN: After 10 years of experiments, custom username emails receive no spam](https://news.ycombinator.com/item?id=32470645)
+- Aug 15 - [Best Papers – Usenix Security 2022](https://www.usenix.org/conferences/best-papers?taxonomy_vocabulary_1_tid=2022&title_1=sec)
+- Aug 15 - [Why is solar more expensive in the U.S. than in other countries?](https://news.energysage.com/why-is-solar-more-expensive-in-the-us/)
+- Aug 15 - [Foreign Affairs at 100: A Look Back at the First Issue](https://bcmullins.github.io/foreign-affairs-100/)
+- Aug 15 - [Tell HN: Godaddy canceled my domain, gave me 2h to respond, then charged €150](https://news.ycombinator.com/item?id=32470017)
 <!--END_SECTION:hn-->
 
 <!--
