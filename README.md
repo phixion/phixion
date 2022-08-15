@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 15 - [Browser password managers – flawed security, by design](https://fractionalciso.com/browser-password-managers-flawed-security-by-design/)
-- Aug 15 - [AWS GuardDuty – the Good, the Bad, and the Ugly](https://badshah.io/guardduty-good-bad-ugly/)
-- Aug 15 - [Website to Sign Up for the Lyme Disease Vaccine Phase 3 Trial](https://fightlyme.careaccess.com/)
-- Aug 15 - [Horizon Linux: arm64 Linux patched to run programs for the Nintendo Switch](https://github.com/kentjhall/horizon-linux)
-- Aug 15 - [Caste in California: Tech giants confront ancient Indian hierarchy](https://www.reuters.com/business/sustainable-business/caste-california-tech-giants-confront-ancient-indian-hierarchy-2022-08-15/)
+- Aug 15 - [Show HN: Teapodo (Lightweight Audio Editor) Now Supports VST/AU Plugins](https://teapodo.com/releases)
+- Aug 15 - [Labstack/echo: High performance, minimalist Go web framework](https://github.com/labstack/echo)
+- Aug 15 - [Hacker News moved off AWS again at 10:17 PM PST](https://news.ycombinator.com/item?id=32466203)
+- Aug 15 - [John Muir's Alarm Clock Desk](https://www.atlasobscura.com/places/john-muirs-alarm-clock-desk)
+- Aug 15 - [The World of Egyptian Demons](https://www.archaeology.org/issues/465-2205/features/10481-the-world-of-egyptian-demons)
 <!--END_SECTION:hn-->
 
 <!--
