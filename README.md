@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 15 - [Ask HN: What are examples of activities/bets with asymmetric upside?](https://news.ycombinator.com/item?id=32464359)
-- Aug 14 - [Breaking all macOS security layers with a single vulnerability](https://sector7.computest.nl/post/2022-08-process-injection-breaking-all-macos-security-layers-with-a-single-vulnerability/)
-- Aug 14 - [Declining quality of consumer-grade products – 2009 fridge compressor autopsy](https://www.automaticwasher.org/cgi-bin/TD/TD-VIEWTHREADM.cgi?91066_2)
-- Aug 14 - [Patterns (YC S21) is hiring devs to help build the Figma for data](https://www.patterns.app/)
-- Aug 14 - [How to Delete Gmail Attachments Without Deleting the Emails](https://blog.unattach.app/2022/07/how-to-delete-gmail-attachments.html)
+- Aug 15 - [Browser password managers – flawed security, by design](https://fractionalciso.com/browser-password-managers-flawed-security-by-design/)
+- Aug 15 - [AWS GuardDuty – the Good, the Bad, and the Ugly](https://badshah.io/guardduty-good-bad-ugly/)
+- Aug 15 - [Website to Sign Up for the Lyme Disease Vaccine Phase 3 Trial](https://fightlyme.careaccess.com/)
+- Aug 15 - [Horizon Linux: arm64 Linux patched to run programs for the Nintendo Switch](https://github.com/kentjhall/horizon-linux)
+- Aug 15 - [Caste in California: Tech giants confront ancient Indian hierarchy](https://www.reuters.com/business/sustainable-business/caste-california-tech-giants-confront-ancient-indian-hierarchy-2022-08-15/)
 <!--END_SECTION:hn-->
 
 <!--
