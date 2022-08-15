@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 14 - [The Economics of the Tesla Semi](https://www.torquenews.com/14335/staggering-economics-tesla-semi)
-- Aug 14 - [Status Traps: Learning from Web2 Social Networks](https://a16zcrypto.com/social-network-status-traps-web2-learnings/)
-- Aug 14 - [As an artist I am concerned about AI image generation](https://twitter.com/arvalis/status/1558623545374023680)
-- Aug 14 - [Hacker News Predictions](https://hnpredictions.github.io/)
-- Aug 14 - [What to know to begin fixing amplifiers [video]](https://www.youtube.com/watch?v=0oWBcTTeMNQ)
+- Aug 15 - [Ask HN: What are examples of activities/bets with asymmetric upside?](https://news.ycombinator.com/item?id=32464359)
+- Aug 14 - [Breaking all macOS security layers with a single vulnerability](https://sector7.computest.nl/post/2022-08-process-injection-breaking-all-macos-security-layers-with-a-single-vulnerability/)
+- Aug 14 - [Declining quality of consumer-grade products – 2009 fridge compressor autopsy](https://www.automaticwasher.org/cgi-bin/TD/TD-VIEWTHREADM.cgi?91066_2)
+- Aug 14 - [Patterns (YC S21) is hiring devs to help build the Figma for data](https://www.patterns.app/)
+- Aug 14 - [How to Delete Gmail Attachments Without Deleting the Emails](https://blog.unattach.app/2022/07/how-to-delete-gmail-attachments.html)
 <!--END_SECTION:hn-->
 
 <!--
