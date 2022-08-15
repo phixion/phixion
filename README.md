@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 15 - [Tell HN: After 10 years of experiments, custom username emails receive no spam](https://news.ycombinator.com/item?id=32470645)
-- Aug 15 - [Best Papers – Usenix Security 2022](https://www.usenix.org/conferences/best-papers?taxonomy_vocabulary_1_tid=2022&title_1=sec)
-- Aug 15 - [Why is solar more expensive in the U.S. than in other countries?](https://news.energysage.com/why-is-solar-more-expensive-in-the-us/)
-- Aug 15 - [Foreign Affairs at 100: A Look Back at the First Issue](https://bcmullins.github.io/foreign-affairs-100/)
-- Aug 15 - [Tell HN: Godaddy canceled my domain, gave me 2h to respond, then charged €150](https://news.ycombinator.com/item?id=32470017)
+- Aug 15 - [Rules for Weird Ideas](https://dynomight.net/weird-ideas/)
+- Aug 15 - [discordo: Lightweight, secure, and feature-rich Discord terminal client](https://github.com/ayntgl/discordo)
+- Aug 15 - [How Discord supercharges network disks for extreme low latency](https://discord.com/blog/how-discord-supercharges-network-disks-for-extreme-low-latency)
+- Aug 15 - [Anonymous Search Engine](https://www.tuxdex.com)
+- Aug 15 - [Learnings of a CEO: Wade Foster, Zapier](https://www.ycombinator.com/blog/learnings-of-a-ceo-wade-foster-zapier)
 <!--END_SECTION:hn-->
 
 <!--
