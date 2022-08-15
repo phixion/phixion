@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 15 - [Show HN: Teapodo (Lightweight Audio Editor) Now Supports VST/AU Plugins](https://teapodo.com/releases)
-- Aug 15 - [Labstack/echo: High performance, minimalist Go web framework](https://github.com/labstack/echo)
-- Aug 15 - [Hacker News moved off AWS again at 10:17 PM PST](https://news.ycombinator.com/item?id=32466203)
-- Aug 15 - [John Muir's Alarm Clock Desk](https://www.atlasobscura.com/places/john-muirs-alarm-clock-desk)
-- Aug 15 - [The World of Egyptian Demons](https://www.archaeology.org/issues/465-2205/features/10481-the-world-of-egyptian-demons)
+- Aug 15 - [$100M ARR in 18 months: Wiz becomes the fastest-growing software company ever](https://www.wiz.io/blog/100m-arr-in-18-months-wiz-becomes-the-fastest-growing-software-company-ever)
+- Aug 15 - [Tailscale changes its Android app to support the open source Headscale server](https://github.com/tailscale/tailscale-android/pull/45)
+- Aug 15 - [Feedback on Snouters](https://snouters.com/)
+- Aug 15 - [The Epsilon Method](https://jakobgreenfeld.com/epsilon-method)
+- Aug 15 - [Why does Neon use Paxos instead of Raft, and what's the difference?](https://neon.tech/blog/paxos/)
 <!--END_SECTION:hn-->
 
 <!--
