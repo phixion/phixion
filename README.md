@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 16 - [Using Docker – Compose in Development and Production](https://prod.releasehub.com/blog/6-docker-compose-best-practices-for-dev-and-prod)
-- Aug 16 - [Ask HN: Is RSS dying? Or coming back?](https://news.ycombinator.com/item?id=32483967)
-- Aug 16 - [Show HN: I made a local development, debugging and hotreload tool for AWS Lambda](https://github.com/thundra-io/merloc-java)
-- Aug 16 - [The West's historic drought is threatening hydropower at Hoover Dam](https://keyt.com/news/2022/08/16/the-wests-historic-drought-is-threatening-hydropower-at-hoover-dam/)
-- Aug 16 - [American Airlines agrees to purchase Boom Supersonic Overture aircraft](https://boomsupersonic.com/news/post/american-airlines-announces-agreement-to-purchase-boom-supersonic-overture-aircraft-places-deposit-on-20-overtures)
+- Aug 16 - [You can't afford to be an artist and/or author, let alone be respected](https://www.cdahmedeh.net/blog/2022/8/16/you-cant-afford-to-be-an-artist-let-alone-be-respected)
+- Aug 16 - [One Tag to Rule Them All: Introducing the New Google Tag](https://www.simoahava.com/analytics/one-tag-rule-them-all-introducing-google-tag/)
+- Aug 16 - [We need young programmers; we need old programmers](https://blog.ploeh.dk/2020/09/14/we-need-young-programmers-we-need-old-programmers/)
+- Aug 16 - [A pizzeria owner made money buying his own $24 pizzas from DoorDash for $16](https://www.theverge.com/2020/5/18/21262316/doordash-pizza-profits-venture-capital-the-margins-ranjan-roy)
+- Aug 16 - [Is El Salvador Up?](https://www.iselsalvadorup.com/)
 <!--END_SECTION:hn-->
 
 <!--
