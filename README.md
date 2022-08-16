@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 16 - [GiveCampus (YC S15) Is US-Remote Hiring Senior Software Engineers](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- Aug 16 - [What does it take to test a sorting routine? (2010)](https://reprog.wordpress.com/2010/05/20/what-does-it-take-to-test-a-sorting-routine/)
-- Aug 16 - [Scanning for AWS Security Issues with Trivy](https://lia.mg/posts/trivy-aws/)
-- Aug 16 - [Adam Neumann’s New Company Gets a Big Check from Andreessen Horowitz](https://www.nytimes.com/2022/08/15/business/dealbook/adam-neumann-wework-startup.html)
-- Aug 16 - [T-Mobile and Deutsche Telekom lie to customers](https://hasbrouck.org/blog/archives/002653.html)
+- Aug 16 - [Using Docker – Compose in Development and Production](https://prod.releasehub.com/blog/6-docker-compose-best-practices-for-dev-and-prod)
+- Aug 16 - [Ask HN: Is RSS dying? Or coming back?](https://news.ycombinator.com/item?id=32483967)
+- Aug 16 - [Show HN: I made a local development, debugging and hotreload tool for AWS Lambda](https://github.com/thundra-io/merloc-java)
+- Aug 16 - [The West's historic drought is threatening hydropower at Hoover Dam](https://keyt.com/news/2022/08/16/the-wests-historic-drought-is-threatening-hydropower-at-hoover-dam/)
+- Aug 16 - [American Airlines agrees to purchase Boom Supersonic Overture aircraft](https://boomsupersonic.com/news/post/american-airlines-announces-agreement-to-purchase-boom-supersonic-overture-aircraft-places-deposit-on-20-overtures)
 <!--END_SECTION:hn-->
 
 <!--
