@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 16 - [Ask HN: In 2022, what is the proper way to get into machine/deep learning?](https://news.ycombinator.com/item?id=32480009)
-- Aug 16 - [A little exercise each day improves muscles more than one big weekly workout](https://www.studyfinds.org/exercise-each-day-builds-muscle/)
-- Aug 16 - [Def Con hacker shows John Deere’s tractors can run Doom](https://www.theverge.com/2022/8/15/23306650/def-con-hacker-john-deere-tractors-run-doom-right-to-repair)
-- Aug 16 - [Certifying Interpreters in Racket](https://kmicinski.com/certifying-interpreters)
-- Aug 16 - [Colour evolution of Betelgeuse over two millennia, derived from records](https://academic.oup.com/mnras/advance-article-abstract/doi/10.1093/mnras/stac1969/6651563)
+- Aug 16 - [GiveCampus (YC S15) Is US-Remote Hiring Senior Software Engineers](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+- Aug 16 - [What does it take to test a sorting routine? (2010)](https://reprog.wordpress.com/2010/05/20/what-does-it-take-to-test-a-sorting-routine/)
+- Aug 16 - [Scanning for AWS Security Issues with Trivy](https://lia.mg/posts/trivy-aws/)
+- Aug 16 - [Adam Neumann’s New Company Gets a Big Check from Andreessen Horowitz](https://www.nytimes.com/2022/08/15/business/dealbook/adam-neumann-wework-startup.html)
+- Aug 16 - [T-Mobile and Deutsche Telekom lie to customers](https://hasbrouck.org/blog/archives/002653.html)
 <!--END_SECTION:hn-->
 
 <!--
