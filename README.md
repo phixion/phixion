@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 15 - [Apple tells employees to work at the office three times per week starting Sept](https://www.cnbc.com/2022/08/15/apple-tells-employees-to-come-in-3-times-a-week-starting-september.html)
-- Aug 15 - [Impact to DigitalOcean customers resulting from Mailchimp security incident](https://www.digitalocean.com/blog/digitalocean-response-to-mailchimp-security-incident)
-- Aug 15 - [A robots.txt Problem](http://avodonosov.blogspot.com/2022/08/a-robotstxt-problem.html)
-- Aug 15 - [Steve Teixeira, Mozilla’s New Chief Product Officer](https://blog.mozilla.org/en/mozilla/steve-teixeira-mozilla-new-chief-product-officer/)
-- Aug 15 - [Timelock Encryption made possible and easy to use](https://github.com/drand/tlock)
+- Aug 16 - [SQLite is not a toy database (2021)](https://antonz.org/sqlite-is-not-a-toy-database/)
+- Aug 16 - [Apple to mandate three days in a week in the office by Labor Day](https://www.sfchronicle.com/tech/article/Apple-to-mandate-three-days-in-a-week-in-the-17375631.php)
+- Aug 16 - [World Building and Alternate Reality Common Lisp](https://kaveh808.medium.com/41-world-building-and-alternate-reality-common-lisp-ca9fbc619a8c)
+- Aug 16 - [Ask HN: Where to meet people who are interested in building a company together?](https://news.ycombinator.com/item?id=32478642)
+- Aug 16 - [Colour evolution of Betelgeuse over two millennia, derived from records](https://academic.oup.com/mnras/advance-article-abstract/doi/10.1093/mnras/stac1969/6651563)
 <!--END_SECTION:hn-->
 
 <!--
