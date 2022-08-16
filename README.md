@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 16 - [SQLite is not a toy database (2021)](https://antonz.org/sqlite-is-not-a-toy-database/)
-- Aug 16 - [Apple to mandate three days in a week in the office by Labor Day](https://www.sfchronicle.com/tech/article/Apple-to-mandate-three-days-in-a-week-in-the-17375631.php)
-- Aug 16 - [World Building and Alternate Reality Common Lisp](https://kaveh808.medium.com/41-world-building-and-alternate-reality-common-lisp-ca9fbc619a8c)
-- Aug 16 - [Ask HN: Where to meet people who are interested in building a company together?](https://news.ycombinator.com/item?id=32478642)
+- Aug 16 - [Ask HN: In 2022, what is the proper way to get into machine/deep learning?](https://news.ycombinator.com/item?id=32480009)
+- Aug 16 - [A little exercise each day improves muscles more than one big weekly workout](https://www.studyfinds.org/exercise-each-day-builds-muscle/)
+- Aug 16 - [Def Con hacker shows John Deere’s tractors can run Doom](https://www.theverge.com/2022/8/15/23306650/def-con-hacker-john-deere-tractors-run-doom-right-to-repair)
+- Aug 16 - [Certifying Interpreters in Racket](https://kmicinski.com/certifying-interpreters)
 - Aug 16 - [Colour evolution of Betelgeuse over two millennia, derived from records](https://academic.oup.com/mnras/advance-article-abstract/doi/10.1093/mnras/stac1969/6651563)
 <!--END_SECTION:hn-->
 
