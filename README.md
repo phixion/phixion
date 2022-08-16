@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 15 - [Rules for Weird Ideas](https://dynomight.net/weird-ideas/)
-- Aug 15 - [discordo: Lightweight, secure, and feature-rich Discord terminal client](https://github.com/ayntgl/discordo)
-- Aug 15 - [How Discord supercharges network disks for extreme low latency](https://discord.com/blog/how-discord-supercharges-network-disks-for-extreme-low-latency)
-- Aug 15 - [Anonymous Search Engine](https://www.tuxdex.com)
-- Aug 15 - [Learnings of a CEO: Wade Foster, Zapier](https://www.ycombinator.com/blog/learnings-of-a-ceo-wade-foster-zapier)
+- Aug 15 - [Apple tells employees to work at the office three times per week starting Sept](https://www.cnbc.com/2022/08/15/apple-tells-employees-to-come-in-3-times-a-week-starting-september.html)
+- Aug 15 - [Impact to DigitalOcean customers resulting from Mailchimp security incident](https://www.digitalocean.com/blog/digitalocean-response-to-mailchimp-security-incident)
+- Aug 15 - [A robots.txt Problem](http://avodonosov.blogspot.com/2022/08/a-robotstxt-problem.html)
+- Aug 15 - [Steve Teixeira, Mozilla’s New Chief Product Officer](https://blog.mozilla.org/en/mozilla/steve-teixeira-mozilla-new-chief-product-officer/)
+- Aug 15 - [Timelock Encryption made possible and easy to use](https://github.com/drand/tlock)
 <!--END_SECTION:hn-->
 
 <!--
