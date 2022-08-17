@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 17 - [Build Your Own Imagen Text-to-Image Model (DALL-E 2 Competitor)](https://www.assemblyai.com/blog/build-your-own-imagen-text-to-image-model/)
-- Aug 17 - [Hate PDF Forms? Check Out My No Code Solution](https://sayitwith.ink/static/create-form.html)
-- Aug 17 - [6 Raspberry Pis, 6 SSDs on a Mini ITX Motherboard](https://www.jeffgeerling.com/blog/2022/6-raspberry-pis-6-ssds-on-mini-itx-motherboard)
-- Aug 17 - [The United States Is Still Under-Policed and Over-Imprisoned](https://marginalrevolution.com/marginalrevolution/2022/08/still-under-policed-and-over-imprisoned.html)
-- Aug 17 - [Build Your Own Mobile Proxy for Web Scraping](https://scrapingfish.com/blog/byo-mobile-proxy-for-web-scraping)
+- Aug 17 - [Show HN: Exp. Smoothing is 32% more accurate and 100x faster than Neural-Prophet](https://github.com/Nixtla/statsforecast/blob/main/experiments/neuralprophet/README.md)
+- Aug 17 - [Protect Animals in the State of Oregon](https://www.yesonip3.org)
+- Aug 17 - [Vietnam to make Apple Watch and MacBook for first time ever](https://asia.nikkei.com/Business/Technology/Vietnam-to-make-Apple-Watch-and-MacBook-for-first-time-ever)
+- Aug 17 - [Learn Postgres at the Playground – Postgres compiled to WASM running in browser](https://www.crunchydata.com/blog/learn-postgres-at-the-playground)
+- Aug 17 - [HP LaserJet Tank – Refillable laser printer](https://www.hp.com/us-en/printers/laserjet-tank.html)
 <!--END_SECTION:hn-->
 
 <!--
