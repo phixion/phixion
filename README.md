@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 16 - [SEC Charges Three with Insider Trading Around Equifax Data Breach Announcement](https://www.sec.gov/litigation/litreleases/2022/lr25470.htm)
-- Aug 16 - [Why Are Border Smugglers Trafficking Bologna?](https://www.texasmonthly.com/being-texan/bologna-seized-at-texas-mexico-border/)
-- Aug 16 - [The Future of Interactive Theorem Proving?](https://xenaproject.wordpress.com/2022/08/16/the-future-of-interactive-theorem-proving/)
-- Aug 16 - [Wokwi – Simulate IoT Projects in the Browser](https://wokwi.com/)
-- Aug 16 - [A one-bit processor explained: reverse-engineering the vintage MC14500B](http://www.righto.com/2021/02/a-one-bit-processor-explained-reverse.html)
+- Aug 17 - [The Odyssey of Ulysses S. Grant](https://www.neh.gov/humanities/2014/mayjune/feature/the-odyssey-ulysses-s-grant)
+- Aug 17 - [Car Seats as Contraception](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3665046)
+- Aug 17 - [Physics Duo Finds Magic in Two Dimensions](https://www.quantamagazine.org/physics-duo-finds-magic-in-two-dimensions-20220816/)
+- Aug 17 - [Marc Andreessen and Ultra-Wealthy Neighbors Thwart Housing in California Town](https://www.bloomberg.com/news/articles/2022-08-05/vc-marc-andreessen-opposes-plan-for-multi-family-atherton-housing)
+- Aug 17 - [High Court of Australia rules hyperlinking is not publishing](https://eresources.hcourt.gov.au/downloadPdf/2022/HCA/27)
 <!--END_SECTION:hn-->
 
 <!--
