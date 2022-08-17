@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 17 - [Using SSH_config Match to connect to a host using multiple IP or Hostnames](https://fmartingr.com/blog/2022/08/12/using-ssh-config-match-to-connect-to-a-host-using-multiple-ip-or-hostnames/)
-- Aug 17 - [Ask HN: Did the Tesla return to work happen?](https://news.ycombinator.com/item?id=32494872)
-- Aug 17 - [I Left PINE64](https://blog.brixit.nl/why-i-left-pine64/)
-- Aug 17 - [Ask HN: Has any Rust developer moved to embedded device programming?](https://news.ycombinator.com/item?id=32494606)
-- Aug 17 - [Physical buttons clearly outperform touchscreens in new cars, test finds](https://www.vibilagare.se/nyheter/physical-buttons-outperform-touchscreens-new-cars-test-finds)
+- Aug 17 - [Build Your Own Imagen Text-to-Image Model (DALL-E 2 Competitor)](https://www.assemblyai.com/blog/build-your-own-imagen-text-to-image-model/)
+- Aug 17 - [Hate PDF Forms? Check Out My No Code Solution](https://sayitwith.ink/static/create-form.html)
+- Aug 17 - [6 Raspberry Pis, 6 SSDs on a Mini ITX Motherboard](https://www.jeffgeerling.com/blog/2022/6-raspberry-pis-6-ssds-on-mini-itx-motherboard)
+- Aug 17 - [The United States Is Still Under-Policed and Over-Imprisoned](https://marginalrevolution.com/marginalrevolution/2022/08/still-under-policed-and-over-imprisoned.html)
+- Aug 17 - [Build Your Own Mobile Proxy for Web Scraping](https://scrapingfish.com/blog/byo-mobile-proxy-for-web-scraping)
 <!--END_SECTION:hn-->
 
 <!--
