@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 16 - [You can't afford to be an artist and/or author, let alone be respected](https://www.cdahmedeh.net/blog/2022/8/16/you-cant-afford-to-be-an-artist-let-alone-be-respected)
-- Aug 16 - [One Tag to Rule Them All: Introducing the New Google Tag](https://www.simoahava.com/analytics/one-tag-rule-them-all-introducing-google-tag/)
-- Aug 16 - [We need young programmers; we need old programmers](https://blog.ploeh.dk/2020/09/14/we-need-young-programmers-we-need-old-programmers/)
-- Aug 16 - [A pizzeria owner made money buying his own $24 pizzas from DoorDash for $16](https://www.theverge.com/2020/5/18/21262316/doordash-pizza-profits-venture-capital-the-margins-ranjan-roy)
-- Aug 16 - [Is El Salvador Up?](https://www.iselsalvadorup.com/)
+- Aug 16 - [SEC Charges Three with Insider Trading Around Equifax Data Breach Announcement](https://www.sec.gov/litigation/litreleases/2022/lr25470.htm)
+- Aug 16 - [Why Are Border Smugglers Trafficking Bologna?](https://www.texasmonthly.com/being-texan/bologna-seized-at-texas-mexico-border/)
+- Aug 16 - [The Future of Interactive Theorem Proving?](https://xenaproject.wordpress.com/2022/08/16/the-future-of-interactive-theorem-proving/)
+- Aug 16 - [Wokwi – Simulate IoT Projects in the Browser](https://wokwi.com/)
+- Aug 16 - [A one-bit processor explained: reverse-engineering the vintage MC14500B](http://www.righto.com/2021/02/a-one-bit-processor-explained-reverse.html)
 <!--END_SECTION:hn-->
 
 <!--
