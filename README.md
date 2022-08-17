@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 17 - [The Odyssey of Ulysses S. Grant](https://www.neh.gov/humanities/2014/mayjune/feature/the-odyssey-ulysses-s-grant)
-- Aug 17 - [Car Seats as Contraception](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3665046)
-- Aug 17 - [Physics Duo Finds Magic in Two Dimensions](https://www.quantamagazine.org/physics-duo-finds-magic-in-two-dimensions-20220816/)
-- Aug 17 - [Marc Andreessen and Ultra-Wealthy Neighbors Thwart Housing in California Town](https://www.bloomberg.com/news/articles/2022-08-05/vc-marc-andreessen-opposes-plan-for-multi-family-atherton-housing)
-- Aug 17 - [High Court of Australia rules hyperlinking is not publishing](https://eresources.hcourt.gov.au/downloadPdf/2022/HCA/27)
+- Aug 17 - [The Jank Language: LLVM Hosted Clojure](https://jank-lang.org/)
+- Aug 17 - [Ask HN: Startup idea – disconnected, physical space charged by hour](https://news.ycombinator.com/item?id=32493174)
+- Aug 17 - [Opvia (YC S20) Is Hiring a Chief of Staff in London, UK](https://www.opvia.io/careers)
+- Aug 17 - [RavynOS – Finesse of macOS. Freedom of FreeBSD](https://ravynos.com/)
+- Aug 17 - [Enhanced Rock Weathering for CO2 Removal [video]](https://www.youtube.com/watch?v=Vr4A7PKCHAw)
 <!--END_SECTION:hn-->
 
 <!--
