@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 18 - [G1-G3 Watches for 17-19 August, 2022](https://www.swpc.noaa.gov/news/g1-g3-watches-17-19-august-2022)
-- Aug 18 - [New antibody neutralizes all known SARS-CoV-2 variants in lab tests](https://hms.harvard.edu/news/one-all)
-- Aug 18 - [Agile projects have become waterfall projects with sprints](https://thehosk.medium.com/agile-projects-have-become-waterfall-projects-with-sprints-536141801856)
-- Aug 18 - [FDA moves to make over-the-counter hearing aids available](https://www.washingtonpost.com/health/2022/08/16/fda-hearing-aids-biden/)
-- Aug 18 - [AirTag leads to arrest of airline worker who stole $15,000 of items from luggage](https://www.nbcnews.com/news/us-news/airtag-leads-arrest-airline-worker-accused-stealing-least-15000-items-rcna43547)
+- Aug 18 - [Generally Intelligent (YC S17) Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=32506240)
+- Aug 18 - [Ask HN: Shut down a startup despite strong traction?](https://news.ycombinator.com/item?id=32506229)
+- Aug 18 - [Cory Doctorow's next book: Chokepoint Capitalism](https://twitter.com/doctorow/status/1559927883551883266)
+- Aug 18 - [Ask HN: Is there a spiritual successor to del.icio.us?](https://news.ycombinator.com/item?id=32506168)
+- Aug 18 - [DIY Guide to Sheet Metal Press Brakes (2018)](https://www.cnccookbook.com/easy-diy-guide-to-press-brakes-tooling-metal-folding-magnabend/)
 <!--END_SECTION:hn-->
 
 <!--
