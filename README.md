@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 17 - [Show HN: Exp. Smoothing is 32% more accurate and 100x faster than Neural-Prophet](https://github.com/Nixtla/statsforecast/blob/main/experiments/neuralprophet/README.md)
-- Aug 17 - [Protect Animals in the State of Oregon](https://www.yesonip3.org)
-- Aug 17 - [Vietnam to make Apple Watch and MacBook for first time ever](https://asia.nikkei.com/Business/Technology/Vietnam-to-make-Apple-Watch-and-MacBook-for-first-time-ever)
-- Aug 17 - [Learn Postgres at the Playground – Postgres compiled to WASM running in browser](https://www.crunchydata.com/blog/learn-postgres-at-the-playground)
-- Aug 17 - [HP LaserJet Tank – Refillable laser printer](https://www.hp.com/us-en/printers/laserjet-tank.html)
+- Aug 17 - [Startup to drill deepest holes ever to unlock nearly limitless geothermal energy](https://wondery.com/shows/how-i-built-this/episode/10386-hibt-lab-quaise-energy-carlos-araque/)
+- Aug 17 - [Another Path to Intelligence](https://nautil.us/another-path-to-intelligence-23113/)
+- Aug 17 - [The Essence of Programming (2021)](https://www.gingerbill.org/article/2021/02/01/the-essence-of-programming/)
+- Aug 17 - [Can the Visa-Mastercard duopoly be broken?](https://www.economist.com/finance-and-economics/2022/08/17/can-the-visa-mastercard-duopoly-be-broken)
+- Aug 17 - [Nixpacks takes a source directory and produces an OCI compliant image](https://nixpacks.com/docs/getting-started)
 <!--END_SECTION:hn-->
 
 <!--
