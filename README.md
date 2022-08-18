@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 18 - [Generally Intelligent (YC S17) Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=32506240)
-- Aug 18 - [Ask HN: Shut down a startup despite strong traction?](https://news.ycombinator.com/item?id=32506229)
-- Aug 18 - [Cory Doctorow's next book: Chokepoint Capitalism](https://twitter.com/doctorow/status/1559927883551883266)
-- Aug 18 - [Ask HN: Is there a spiritual successor to del.icio.us?](https://news.ycombinator.com/item?id=32506168)
-- Aug 18 - [DIY Guide to Sheet Metal Press Brakes (2018)](https://www.cnccookbook.com/easy-diy-guide-to-press-brakes-tooling-metal-folding-magnabend/)
+- Aug 18 - [Launch HN: Cerrion (YC S22) – Computer vision to reduce production line problems](https://www.cerrion.com/)
+- Aug 18 - [Julia 1.8 has been released](https://julialang.org/blog/2022/08/julia-1.8-highlights/)
+- Aug 18 - [PINE64's response to “Why I left PINE64”](https://www.pine64.org/2022/08/18/a-response-to-martijns-blog/)
+- Aug 18 - [Tempest LCD: Playing Songs from Your LCD Monitor with a Radio](https://github.com/luamfb/tempest-lcd)
+- Aug 18 - [Learn MYOG – learn to make (sew) your own outdoor gear](https://learnmyog.com/)
 <!--END_SECTION:hn-->
 
 <!--
