@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 18 - [Show HN: I built a vector map from scratch](https://ckochis.com/building-a-vector-map-from-scratch)
-- Aug 18 - [FedNow FAQ](https://www.federalreserve.gov/paymentsystems/fednow_faq.htm)
-- Aug 18 - [A sane SSH(1) key management example](https://try.popho.be/ssh-keys.html)
-- Aug 18 - [Supabase – Realtime: Multiplayer Edition](https://supabase.com/blog/supabase-realtime-multiplayer-general-availability)
-- Aug 18 - [Metal Archives 20th Anniversary](https://www.metal-archives.com/news/view/id/284)
+- Aug 18 - [I love my GPD Micro PC](https://blog.danieljanus.pl/2022/08/18/i-love-my-gpd-micro-pc/)
+- Aug 18 - [Third-Polarizing-Filter Experiment Demystified – How It Works](http://alienryderflex.com/polarizer/)
+- Aug 18 - [But You Told Me You Were Safe: Attacking the Mozilla Firefox Renderer (Part 1)](https://www.thezdi.com/blog/2022/8/17/but-you-told-me-you-were-safe-attacking-the-mozilla-firefox-renderer-part-1)
+- Aug 18 - [Unofficial Spotify Client for the Nintendo Switch (PoC)](https://gbatemp.net/threads/90spot-spotify-for-nintendo-switch-proof-of-concept.617533/)
+- Aug 18 - [How does Fox vs. CNN compare in topic/event coverage over the last week?](https://topdown.substack.com/i/69254733/how-does-fox-vs-cnn-compare-in-terms-of-topicevent-coverage-over-the-last-week)
 <!--END_SECTION:hn-->
 
 <!--
