@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 18 - [Launch HN: Cerrion (YC S22) – Computer vision to reduce production line problems](https://www.cerrion.com/)
-- Aug 18 - [Julia 1.8 has been released](https://julialang.org/blog/2022/08/julia-1.8-highlights/)
-- Aug 18 - [PINE64's response to “Why I left PINE64”](https://www.pine64.org/2022/08/18/a-response-to-martijns-blog/)
-- Aug 18 - [Tempest LCD: Playing Songs from Your LCD Monitor with a Radio](https://github.com/luamfb/tempest-lcd)
-- Aug 18 - [Learn MYOG – learn to make (sew) your own outdoor gear](https://learnmyog.com/)
+- Aug 18 - [Show HN: I built a vector map from scratch](https://ckochis.com/building-a-vector-map-from-scratch)
+- Aug 18 - [FedNow FAQ](https://www.federalreserve.gov/paymentsystems/fednow_faq.htm)
+- Aug 18 - [A sane SSH(1) key management example](https://try.popho.be/ssh-keys.html)
+- Aug 18 - [Supabase – Realtime: Multiplayer Edition](https://supabase.com/blog/supabase-realtime-multiplayer-general-availability)
+- Aug 18 - [Metal Archives 20th Anniversary](https://www.metal-archives.com/news/view/id/284)
 <!--END_SECTION:hn-->
 
 <!--
