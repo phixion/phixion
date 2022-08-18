@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 17 - [Startup to drill deepest holes ever to unlock nearly limitless geothermal energy](https://wondery.com/shows/how-i-built-this/episode/10386-hibt-lab-quaise-energy-carlos-araque/)
-- Aug 17 - [Another Path to Intelligence](https://nautil.us/another-path-to-intelligence-23113/)
-- Aug 17 - [The Essence of Programming (2021)](https://www.gingerbill.org/article/2021/02/01/the-essence-of-programming/)
-- Aug 17 - [Can the Visa-Mastercard duopoly be broken?](https://www.economist.com/finance-and-economics/2022/08/17/can-the-visa-mastercard-duopoly-be-broken)
-- Aug 17 - [Nixpacks takes a source directory and produces an OCI compliant image](https://nixpacks.com/docs/getting-started)
+- Aug 18 - [G1-G3 Watches for 17-19 August, 2022](https://www.swpc.noaa.gov/news/g1-g3-watches-17-19-august-2022)
+- Aug 18 - [New antibody neutralizes all known SARS-CoV-2 variants in lab tests](https://hms.harvard.edu/news/one-all)
+- Aug 18 - [Agile projects have become waterfall projects with sprints](https://thehosk.medium.com/agile-projects-have-become-waterfall-projects-with-sprints-536141801856)
+- Aug 18 - [FDA moves to make over-the-counter hearing aids available](https://www.washingtonpost.com/health/2022/08/16/fda-hearing-aids-biden/)
+- Aug 18 - [AirTag leads to arrest of airline worker who stole $15,000 of items from luggage](https://www.nbcnews.com/news/us-news/airtag-leads-arrest-airline-worker-accused-stealing-least-15000-items-rcna43547)
 <!--END_SECTION:hn-->
 
 <!--
