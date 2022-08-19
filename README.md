@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 19 - [A list of developer questions to ask prospective employers](https://github.com/Twipped/InterviewThis)
-- Aug 19 - [RFC 9293: Transmission Control Protocol (TCP)](https://www.rfc-editor.org/rfc/rfc9293)
-- Aug 19 - [More content by people, for people in Search](https://blog.google/products/search/more-content-by-people-for-people-in-search/)
-- Aug 19 - [PhotoRoom Is Hiring a Senior Backend Engineer (Django, 200GB+ PSQL DB) in Paris](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- Aug 19 - [Collection of best practices for providing and consuming webhooks](https://webhooks.fyi/)
+- Aug 19 - [W4 plans to monetize the Godot engine using Red Hat’s open-source playbook](https://techcrunch.com/2022/08/19/how-w4-plans-to-commercialize-the-godot-game-engine-by-following-red-hats-playbook/)
+- Aug 19 - [FBI agent pleads guilty to wiping hard-drive containing exculpatory evidence](https://katv.com/news/local/a-former-agent-of-fbi-pleads-guilty-to-charges-connected-to-jon-woods-trial-ex-arkansas-lawmaker-now-in-prison-says-he-and-other-inmates-wants-to-build-trumps-wall-ecclesia-college-springdale-robert-cessario)
+- Aug 19 - [Ask HN: What MIDI micro/nano keyboard(s) do you like? (Electronic music)](https://news.ycombinator.com/item?id=32521693)
+- Aug 19 - [US Mortgage Lenders Are Starting to Go Broke](https://www.bloomberg.com/news/articles/2022-08-19/mortgage-lenders-are-starting-to-go-broke-as-loan-volumes-plunge)
+- Aug 19 - [Welcome to Philip K. Dick’s dystopia](https://unherd.com/2022/08/welcome-to-philip-k-dicks-dystopia/)
 <!--END_SECTION:hn-->
 
 <!--
