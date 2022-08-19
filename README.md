@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 19 - [PhotoRoom Is Hiring a Senior Back End Engineer (Django, 200GB+ PSQL DB) in Paris](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- Aug 19 - [Dan Price, CEO who cut his pay so workers earned $70k, quits amid legal woes](https://www.cbsnews.com/news/ceo-who-cut-his-pay-so-workers-earned-70k-dan-price-gravity-payments-resigns-seattle/)
+- Aug 19 - [A list of developer questions to ask prospective employers](https://github.com/Twipped/InterviewThis)
+- Aug 19 - [RFC 9293: Transmission Control Protocol (TCP)](https://www.rfc-editor.org/rfc/rfc9293)
+- Aug 19 - [More content by people, for people in Search](https://blog.google/products/search/more-content-by-people-for-people-in-search/)
+- Aug 19 - [PhotoRoom Is Hiring a Senior Backend Engineer (Django, 200GB+ PSQL DB) in Paris](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 - Aug 19 - [Collection of best practices for providing and consuming webhooks](https://webhooks.fyi/)
-- Aug 19 - [The story of the first “computer bug” is a pile of lies](https://lunduke.substack.com/p/the-story-of-the-first-computer-bug)
-- Aug 19 - [Why Were Medieval Monks So Susceptible to Intestinal Worms?](https://www.smithsonianmag.com/science-nature/why-were-medieval-monks-so-susceptible-to-intestinal-worms-180980608/)
 <!--END_SECTION:hn-->
 
 <!--
