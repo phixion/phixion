@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 20 - [Lessons I Wish I Had Learned Before I Started Teaching Differential Equations [pdf]](https://web.williams.edu/Mathematics/lg5/Rota.pdf)
-- Aug 20 - [Unconscious Bias in Interviews with Female Top Managers](https://fgsglobal.com/en/insights/about-rising-stars-and-female-ceos-unconscious-bias-in-interviews-with-female-top-managers)
-- Aug 20 - [Flexport is hiring software engineers](https://flexport.com/careers)
-- Aug 20 - [Using: Has() as a CSS Parent Selector and much more](https://webkit.org/blog/13096/css-has-pseudo-class/)
-- Aug 20 - [Cosmopolitan Libc v2.0](https://github.com/jart/cosmopolitan/releases/tag/2.0)
+- Aug 20 - [Tesorio raised a Series B and is hiring a Sr Front end Engineer and Support Engineer](https://www.tesorio.com/careers#job-openings)
+- Aug 20 - [Miami advances plan to move homeless onto island](https://www.newsnationnow.com/us-news/southeast/miami-homeless-island-virginia-key/)
+- Aug 20 - [Shared Libraries as Executables](https://stoppels.ch/2022/08/20/executable-shared-libraries.html)
+- Aug 20 - [Show HN: An attempt to make a reduce-palette/dither filter for 2d canvas images](https://scrawl-v8.rikweb.org.uk/demo/filters-027.html)
+- Aug 20 - [Zig Self-Hosted Compiler Upgrade Guide](https://github.com/ziglang/zig/wiki/Self-Hosted-Compiler-Upgrade-Guide)
 <!--END_SECTION:hn-->
 
 <!--
