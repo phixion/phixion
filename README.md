@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 19 - [Nvidia to Share New Details on Grace CPU, Hopper GPU, NVLink Switch, Jetson Orin](https://blogs.nvidia.com/blog/2022/08/19/grace-hopper-nvswitch-hot-chips/)
-- Aug 19 - [Electric Vehicles as a Subscription](https://www.autonomy.com/)
-- Aug 19 - [Digger – Back and Digitally Remastered (1998)](http://www.digger.org/)
-- Aug 19 - [Seeing Like a State, Progress and Poverty, and Owning Land](http://www.loukidelis.com/on-land-ownership.html)
-- Aug 19 - [Ask HN: Why is there no performant remote desktop for Mac/Linux?](https://news.ycombinator.com/item?id=32526108)
+- Aug 20 - [Visual Sum of Cubes](https://x.st/visual-sum-of-cubes/)
+- Aug 20 - [Don’t plug in that free Microsoft Office USB drive you got in the mail](https://www.pcworld.com/article/833790/free-office-scam-uses-usb-drive-sent-through-mail.html)
+- Aug 20 - [Diablo 1 for Web Browsers](https://github.com/d07RiV/diabloweb)
+- Aug 20 - [Is Haskell the language of geniuses and academia?](https://habr.com/en/post/441350/)
+- Aug 20 - [Svix (YC W21) Is Hiring (Remote) – Enterprise-Ready Webhook Service](https://www.svix.com/careers/)
 <!--END_SECTION:hn-->
 
 <!--
