@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 20 - [Tesorio raised a Series B and is hiring a Sr Front end Engineer and Support Engineer](https://www.tesorio.com/careers#job-openings)
-- Aug 20 - [Miami advances plan to move homeless onto island](https://www.newsnationnow.com/us-news/southeast/miami-homeless-island-virginia-key/)
-- Aug 20 - [Shared Libraries as Executables](https://stoppels.ch/2022/08/20/executable-shared-libraries.html)
-- Aug 20 - [Show HN: An attempt to make a reduce-palette/dither filter for 2d canvas images](https://scrawl-v8.rikweb.org.uk/demo/filters-027.html)
-- Aug 20 - [Zig Self-Hosted Compiler Upgrade Guide](https://github.com/ziglang/zig/wiki/Self-Hosted-Compiler-Upgrade-Guide)
+- Aug 20 - [Coping with Copilot](https://www.sigarch.org/coping-with-copilot/)
+- Aug 20 - [Supabase Vault](https://supabase.com/blog/supabase-vault)
+- Aug 20 - [The world map that reboots your brain](https://axbom.com/world-map/)
+- Aug 20 - [Deep Learning Alone Isn’t Getting Us to Human-Like AI](https://www.noemamag.com/deep-learning-alone-isnt-getting-us-to-human-like-ai/)
+- Aug 20 - [The Silence of Risk Management Victory](https://riskmusings.substack.com/p/the-silence-of-risk-management-victory)
 <!--END_SECTION:hn-->
 
 <!--
