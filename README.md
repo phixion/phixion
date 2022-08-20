@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 20 - [Visual Sum of Cubes](https://x.st/visual-sum-of-cubes/)
-- Aug 20 - [Don’t plug in that free Microsoft Office USB drive you got in the mail](https://www.pcworld.com/article/833790/free-office-scam-uses-usb-drive-sent-through-mail.html)
-- Aug 20 - [Diablo 1 for Web Browsers](https://github.com/d07RiV/diabloweb)
-- Aug 20 - [Is Haskell the language of geniuses and academia?](https://habr.com/en/post/441350/)
-- Aug 20 - [Svix (YC W21) Is Hiring (Remote) – Enterprise-Ready Webhook Service](https://www.svix.com/careers/)
+- Aug 20 - [Lessons I Wish I Had Learned Before I Started Teaching Differential Equations [pdf]](https://web.williams.edu/Mathematics/lg5/Rota.pdf)
+- Aug 20 - [Unconscious Bias in Interviews with Female Top Managers](https://fgsglobal.com/en/insights/about-rising-stars-and-female-ceos-unconscious-bias-in-interviews-with-female-top-managers)
+- Aug 20 - [Flexport is hiring software engineers](https://flexport.com/careers)
+- Aug 20 - [Using: Has() as a CSS Parent Selector and much more](https://webkit.org/blog/13096/css-has-pseudo-class/)
+- Aug 20 - [Cosmopolitan Libc v2.0](https://github.com/jart/cosmopolitan/releases/tag/2.0)
 <!--END_SECTION:hn-->
 
 <!--
