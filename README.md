@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 19 - [Resolving an Unusual WiFi Issue](https://blog.ando.fyi/posts/diagnosing-an-unsual-wifi-issue/)
-- Aug 19 - [Crumb Circuit Simulator](https://www.crumbsim.com)
-- Aug 19 - [FDIC issues cease and desist letter to FTX US [pdf]](https://www.fdic.gov/news/press-releases/2022/ftx-harrison-letter.pdf)
-- Aug 19 - [Apple’s Use of AppKit, Mac Catalyst and SwiftUI in macOS](https://blog.timac.org/2022/0818-state-of-appkit-catalyst-swiftui-mac/)
-- Aug 19 - [A Whirlwind Tutorial on Creating Teensy ELF Executables for Linux](https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html)
+- Aug 19 - [Nvidia to Share New Details on Grace CPU, Hopper GPU, NVLink Switch, Jetson Orin](https://blogs.nvidia.com/blog/2022/08/19/grace-hopper-nvswitch-hot-chips/)
+- Aug 19 - [Electric Vehicles as a Subscription](https://www.autonomy.com/)
+- Aug 19 - [Digger – Back and Digitally Remastered (1998)](http://www.digger.org/)
+- Aug 19 - [Seeing Like a State, Progress and Poverty, and Owning Land](http://www.loukidelis.com/on-land-ownership.html)
+- Aug 19 - [Ask HN: Why is there no performant remote desktop for Mac/Linux?](https://news.ycombinator.com/item?id=32526108)
 <!--END_SECTION:hn-->
 
 <!--
