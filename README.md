@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 20 - [Coping with Copilot](https://www.sigarch.org/coping-with-copilot/)
-- Aug 20 - [Supabase Vault](https://supabase.com/blog/supabase-vault)
-- Aug 20 - [The world map that reboots your brain](https://axbom.com/world-map/)
-- Aug 20 - [Deep Learning Alone Isn’t Getting Us to Human-Like AI](https://www.noemamag.com/deep-learning-alone-isnt-getting-us-to-human-like-ai/)
-- Aug 20 - [The Silence of Risk Management Victory](https://riskmusings.substack.com/p/the-silence-of-risk-management-victory)
+- Aug 20 - [Brian Kernighan adds Unicode support to Awk](https://github.com/onetrueawk/awk/commit/9ebe940cf3c652b0e373634d2aa4a00b8395b636)
+- Aug 20 - [A competitive multiplayer version of Conway's Game of Life](http://lifecompetes.com)
+- Aug 20 - [I recreated famous album covers with DALL-E](https://lucytalksdata.com/i-receated-famous-album-covers-with-dalle/)
+- Aug 20 - [The Transputer Handbook (1990) [pdf]](http://www.transputer.net/iset/isbn-013929134-2/tthb.pdf)
+- Aug 20 - [Put it on the crazy pile: Ideas and creativity](https://bastian.rieck.me/blog/posts/2022/crazy_pile/)
 <!--END_SECTION:hn-->
 
 <!--
