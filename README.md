@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 21 - [Silent crisis of soaring excess deaths in Britain is only tip of the iceberg](https://uk.news.yahoo.com/silent-crisis-soaring-excess-deaths-203000290.html)
-- Aug 21 - [Flight Simulator 2022: Ultra Realism on RTX 3090 with $100 Graphics Mods](https://www.youtube.com/watch?v=lBIqHC6kbX0)
-- Aug 21 - [A dad took photos of his naked toddler for the doctor and Google flagged him](https://www.nytimes.com/2022/08/21/technology/google-surveillance-toddler-photo.html)
-- Aug 21 - [Wreck of SMS Kaiser Franz Joseph](https://historyandwar.org/2022/08/21/wreck-of-sms-kaiser-franz-joseph/)
-- Aug 21 - [There were almost two internets. Then, the CIA destroyed one](https://mashable.com/article/project-cybersyn-chile-kernel-panic)
+- Aug 21 - [HBO Max Pulls Nearly 200 ‘Sesame Street’ Episodes](https://www.nytimes.com/2022/08/20/arts/television/sesame-street-hbo-max.html)
+- Aug 21 - [Your Makefiles Are Wrong](https://tech.davis-hansson.com/p/make/)
+- Aug 21 - [Hacker News Official API](https://github.com/HackerNews/API)
+- Aug 21 - [Uacme: ACMEv2 client written in plain C with minimal dependencies](https://github.com/ndilieto/uacme)
+- Aug 21 - [Religion as an Ego-modulator](https://superbowl.substack.com/p/religion-as-an-ego-modulator)
 <!--END_SECTION:hn-->
 
 <!--
