@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 20 - [Brian Kernighan adds Unicode support to Awk](https://github.com/onetrueawk/awk/commit/9ebe940cf3c652b0e373634d2aa4a00b8395b636)
-- Aug 20 - [A competitive multiplayer version of Conway's Game of Life](http://lifecompetes.com)
-- Aug 20 - [I recreated famous album covers with DALL-E](https://lucytalksdata.com/i-receated-famous-album-covers-with-dalle/)
-- Aug 20 - [The Transputer Handbook (1990) [pdf]](http://www.transputer.net/iset/isbn-013929134-2/tthb.pdf)
-- Aug 20 - [Put it on the crazy pile: Ideas and creativity](https://bastian.rieck.me/blog/posts/2022/crazy_pile/)
+- Aug 20 - [Gauss's Day of Reckoning](https://www.americanscientist.org/article/gausss-day-of-reckoning)
+- Aug 20 - [How can we develop transformative tools for thought? [pdf]](https://numinous.productions/ttft/print/TTFT.pdf)
+- Aug 20 - [Hyperparasite](https://en.wikipedia.org/wiki/Hyperparasite)
+- Aug 20 - [Ambient Scotrail Beats – Relax to Scottish train announcements over low-fi beats](https://www.matteason.co.uk/scotbeats/)
+- Aug 20 - [Let's Try Gnome Boxes](https://glovesoff.substack.com/p/lets-try-gnome-boxes)
 <!--END_SECTION:hn-->
 
 <!--
