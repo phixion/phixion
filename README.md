@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 20 - [Gauss's Day of Reckoning](https://www.americanscientist.org/article/gausss-day-of-reckoning)
+- Aug 21 - [Ask HN: Anyone else feel trapped in FANG? How did you get out?](https://news.ycombinator.com/item?id=32537004)
+- Aug 21 - [Beyond Hyperanthropomorphism](https://studio.ribbonfarm.com/p/beyond-hyperanthropomorphism)
+- Aug 21 - [Ivy (YC W23) is hiring developers to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
 - Aug 20 - [How can we develop transformative tools for thought? [pdf]](https://numinous.productions/ttft/print/TTFT.pdf)
 - Aug 20 - [Hyperparasite](https://en.wikipedia.org/wiki/Hyperparasite)
-- Aug 20 - [Ambient Scotrail Beats – Relax to Scottish train announcements over low-fi beats](https://www.matteason.co.uk/scotbeats/)
-- Aug 20 - [Let's Try Gnome Boxes](https://glovesoff.substack.com/p/lets-try-gnome-boxes)
 <!--END_SECTION:hn-->
 
 <!--
