@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 21 - [Ask HN: Anyone else feel trapped in FANG? How did you get out?](https://news.ycombinator.com/item?id=32537004)
-- Aug 21 - [Beyond Hyperanthropomorphism](https://studio.ribbonfarm.com/p/beyond-hyperanthropomorphism)
-- Aug 21 - [Ivy (YC W23) is hiring developers to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
-- Aug 20 - [How can we develop transformative tools for thought? [pdf]](https://numinous.productions/ttft/print/TTFT.pdf)
-- Aug 20 - [Hyperparasite](https://en.wikipedia.org/wiki/Hyperparasite)
+- Aug 21 - [Why I'm Publishing My Next Book on Substack](https://tedgioia.substack.com/p/10-reasons-why-im-publishing-my-next)
+- Aug 21 - [Why don’t we do email verification in reverse?](https://blog.yossarian.net/2022/08/20/Why-dont-we-do-email-verification-in-reverse)
+- Aug 21 - [How far can you go by train in 5h?](https://www.chronotrains.com/)
+- Aug 21 - [Color Journey](https://boltkey.github.io/color-journey/)
+- Aug 21 - [JBIG2 Undetectable Data Corruption: Destroying Our Past, One Character at a Time](https://www.circuitousroot.com/artifice/resources/texts/jb2-jbig2/index.html)
 <!--END_SECTION:hn-->
 
 <!--
