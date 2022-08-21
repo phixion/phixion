@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 21 - [HBO Max Pulls Nearly 200 ‘Sesame Street’ Episodes](https://www.nytimes.com/2022/08/20/arts/television/sesame-street-hbo-max.html)
-- Aug 21 - [Your Makefiles Are Wrong](https://tech.davis-hansson.com/p/make/)
-- Aug 21 - [Hacker News Official API](https://github.com/HackerNews/API)
-- Aug 21 - [Uacme: ACMEv2 client written in plain C with minimal dependencies](https://github.com/ndilieto/uacme)
-- Aug 21 - [Religion as an Ego-modulator](https://superbowl.substack.com/p/religion-as-an-ego-modulator)
+- Aug 21 - [Libgen-text: complete Library Genesis, re-packaged as text only (1.2TB)](https://www.offlineos.com/)
+- Aug 21 - [Got a rejection for mentioning Apple pre-release software, but I am not](https://twitter.com/eternalstorms/status/1559794943673122818)
+- Aug 21 - [Singapore will decriminalize sex between men, prime minister says](https://www.reuters.com/world/asia-pacific/singapore-will-decriminalise-sex-between-men-pm-2022-08-21/)
+- Aug 21 - [Gojq: Pure Go Implementation of Jq](https://github.com/itchyny/gojq)
+- Aug 21 - [Outdoor Sound Propagation in the U.S. Civil War](http://wesclark.com/jw/sound_propagation.html)
 <!--END_SECTION:hn-->
 
 <!--
