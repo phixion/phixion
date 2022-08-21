@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 21 - [Why I'm Publishing My Next Book on Substack](https://tedgioia.substack.com/p/10-reasons-why-im-publishing-my-next)
-- Aug 21 - [Why don’t we do email verification in reverse?](https://blog.yossarian.net/2022/08/20/Why-dont-we-do-email-verification-in-reverse)
-- Aug 21 - [How far can you go by train in 5h?](https://www.chronotrains.com/)
-- Aug 21 - [Color Journey](https://boltkey.github.io/color-journey/)
-- Aug 21 - [JBIG2 Undetectable Data Corruption: Destroying Our Past, One Character at a Time](https://www.circuitousroot.com/artifice/resources/texts/jb2-jbig2/index.html)
+- Aug 21 - [Silent crisis of soaring excess deaths in Britain is only tip of the iceberg](https://uk.news.yahoo.com/silent-crisis-soaring-excess-deaths-203000290.html)
+- Aug 21 - [Flight Simulator 2022: Ultra Realism on RTX 3090 with $100 Graphics Mods](https://www.youtube.com/watch?v=lBIqHC6kbX0)
+- Aug 21 - [A dad took photos of his naked toddler for the doctor and Google flagged him](https://www.nytimes.com/2022/08/21/technology/google-surveillance-toddler-photo.html)
+- Aug 21 - [Wreck of SMS Kaiser Franz Joseph](https://historyandwar.org/2022/08/21/wreck-of-sms-kaiser-franz-joseph/)
+- Aug 21 - [There were almost two internets. Then, the CIA destroyed one](https://mashable.com/article/project-cybersyn-chile-kernel-panic)
 <!--END_SECTION:hn-->
 
 <!--
