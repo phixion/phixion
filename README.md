@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 22 - [Visualizing Toxic Air](https://www.propublica.org/nerds/visualizing-toxic-air)
-- Aug 22 - [Ask HN: Should I Log Errors, Throw Errors or Both?](https://news.ycombinator.com/item?id=32549619)
-- Aug 22 - [Using Multiband Embedded Antennas to Save Space, Complexity, and Cost in IoT](https://www.digikey.it/en/articles/how-to-use-multiband-embedded-antennas-to-save-iot-designs)
-- Aug 22 - [Global Code Time Report](https://www.software.com/reports/code-time-report)
-- Aug 22 - [GifCities – The GeoCities Animated GIF Search Engine](https://gifcities.org/)
+- Aug 22 - [(Not) Getting a New Computer](https://whatever.scalzi.com/2022/08/22/not-getting-a-new-computer/)
+- Aug 22 - [“I survived the TCP transition”](https://blog.google/inside-google/googlers/marking-birth-of-modern-day-internet/)
+- Aug 22 - [Tell HN: Stop sending unsolicited emails to developers GitHub email](https://news.ycombinator.com/item?id=32552134)
+- Aug 22 - [Show HN: Digs.fm – For passionate music explorers (like Goodreads but for music)](https://digs.fm)
+- Aug 22 - [Clip Control on the Apple GPU](https://rosenzweig.io/blog/asahi-gpu-part-6.html)
 <!--END_SECTION:hn-->
 
 <!--
