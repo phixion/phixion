@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 22 - [Falsehoods programmers believe about time](https://gist.github.com/timvisee/fcda9bbdff88d45cc9061606b4b923ca)
-- Aug 22 - [Tell HN: Google Cloud suspended our production projects at 1am on Saturday](https://news.ycombinator.com/item?id=32547912)
-- Aug 22 - [How do cash transfers impact the people who don’t receive them? (2019)](https://www.givedirectly.org/how-do-cash-transfers-impact-neighbors/)
-- Aug 22 - [React PDF Viewer](https://github.com/react-pdf-viewer/react-pdf-viewer)
-- Aug 22 - [Tell HN: Google Cloud suspended our production projects at 1am on Saturday](https://news.ycombinator.com/item?id=32547605)
+- Aug 22 - [Visualizing Toxic Air](https://www.propublica.org/nerds/visualizing-toxic-air)
+- Aug 22 - [Ask HN: Should I Log Errors, Throw Errors or Both?](https://news.ycombinator.com/item?id=32549619)
+- Aug 22 - [Using Multiband Embedded Antennas to Save Space, Complexity, and Cost in IoT](https://www.digikey.it/en/articles/how-to-use-multiband-embedded-antennas-to-save-iot-designs)
+- Aug 22 - [Global Code Time Report](https://www.software.com/reports/code-time-report)
+- Aug 22 - [GifCities – The GeoCities Animated GIF Search Engine](https://gifcities.org/)
 <!--END_SECTION:hn-->
 
 <!--
