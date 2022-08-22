@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 21 - [Libgen-text: complete Library Genesis, re-packaged as text only (1.2TB)](https://www.offlineos.com/)
-- Aug 21 - [Got a rejection for mentioning Apple pre-release software, but I am not](https://twitter.com/eternalstorms/status/1559794943673122818)
-- Aug 21 - [Singapore will decriminalize sex between men, prime minister says](https://www.reuters.com/world/asia-pacific/singapore-will-decriminalise-sex-between-men-pm-2022-08-21/)
-- Aug 21 - [Gojq: Pure Go Implementation of Jq](https://github.com/itchyny/gojq)
-- Aug 21 - [Outdoor Sound Propagation in the U.S. Civil War](http://wesclark.com/jw/sound_propagation.html)
+- Aug 21 - [The Google Pixel 6a highlights everything wrong with the U.S. phone market](https://www.xda-developers.com/google-pixel-6a-us-market-editorial/)
+- Aug 21 - [Adam74: A terminal for a small 8-bit computer](https://www.engineersneedart.com/adam74/adam74.html)
+- Aug 21 - [The Church of Interruption (2018)](https://sambleckley.com/writing/church-of-interruption.html)
+- Aug 21 - [Offline-First Apps: Why Should Apps Be Made to Work in an Offline State?](https://www.dewsolutions.in/offline-first-apps/)
+- Aug 21 - [NAC protects from lung emphysema but induces lung adenocarcinoma in mice](https://insight.jci.org/articles/view/127647)
 <!--END_SECTION:hn-->
 
 <!--
