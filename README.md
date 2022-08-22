@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 21 - [The Google Pixel 6a highlights everything wrong with the U.S. phone market](https://www.xda-developers.com/google-pixel-6a-us-market-editorial/)
-- Aug 21 - [Adam74: A terminal for a small 8-bit computer](https://www.engineersneedart.com/adam74/adam74.html)
-- Aug 21 - [The Church of Interruption (2018)](https://sambleckley.com/writing/church-of-interruption.html)
-- Aug 21 - [Offline-First Apps: Why Should Apps Be Made to Work in an Offline State?](https://www.dewsolutions.in/offline-first-apps/)
-- Aug 21 - [NAC protects from lung emphysema but induces lung adenocarcinoma in mice](https://insight.jci.org/articles/view/127647)
+- Aug 22 - [Ask HN: Are you going to quit?](https://news.ycombinator.com/item?id=32547173)
+- Aug 22 - [NYC Fire Department Forcible Entry Reference Guide [pdf]](https://ia800207.us.archive.org/15/items/FDNYforcibleEntryReferenceGuide/FDNY_Forcible_entry_reference_guide.pdf)
+- Aug 22 - [Applying a rule from Pixar with a camera from 1961](https://news.gregjeanneau.com/pixar-camera-1961/)
+- Aug 22 - [Crazy Eddie’s Life Was Insane](https://www.nytimes.com/2022/08/09/books/review-retail-gangster-gary-weiss.html)
+- Aug 22 - [Our long, vulnerable childhoods may be the key to our success](https://www.spectator.co.uk/article/our-long-vulnerable-childhoods-may-be-the-key-to-our-success)
 <!--END_SECTION:hn-->
 
 <!--
