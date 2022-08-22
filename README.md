@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 22 - [Ask HN: Are you going to quit?](https://news.ycombinator.com/item?id=32547173)
-- Aug 22 - [NYC Fire Department Forcible Entry Reference Guide [pdf]](https://ia800207.us.archive.org/15/items/FDNYforcibleEntryReferenceGuide/FDNY_Forcible_entry_reference_guide.pdf)
-- Aug 22 - [Applying a rule from Pixar with a camera from 1961](https://news.gregjeanneau.com/pixar-camera-1961/)
-- Aug 22 - [Crazy Eddie’s Life Was Insane](https://www.nytimes.com/2022/08/09/books/review-retail-gangster-gary-weiss.html)
-- Aug 22 - [Our long, vulnerable childhoods may be the key to our success](https://www.spectator.co.uk/article/our-long-vulnerable-childhoods-may-be-the-key-to-our-success)
+- Aug 22 - [Falsehoods programmers believe about time](https://gist.github.com/timvisee/fcda9bbdff88d45cc9061606b4b923ca)
+- Aug 22 - [Tell HN: Google Cloud suspended our production projects at 1am on Saturday](https://news.ycombinator.com/item?id=32547912)
+- Aug 22 - [How do cash transfers impact the people who don’t receive them? (2019)](https://www.givedirectly.org/how-do-cash-transfers-impact-neighbors/)
+- Aug 22 - [React PDF Viewer](https://github.com/react-pdf-viewer/react-pdf-viewer)
+- Aug 22 - [Tell HN: Google Cloud suspended our production projects at 1am on Saturday](https://news.ycombinator.com/item?id=32547605)
 <!--END_SECTION:hn-->
 
 <!--
