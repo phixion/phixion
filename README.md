@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 22 - [(Not) Getting a New Computer](https://whatever.scalzi.com/2022/08/22/not-getting-a-new-computer/)
-- Aug 22 - [“I survived the TCP transition”](https://blog.google/inside-google/googlers/marking-birth-of-modern-day-internet/)
-- Aug 22 - [Tell HN: Stop sending unsolicited emails to developers GitHub email](https://news.ycombinator.com/item?id=32552134)
-- Aug 22 - [Show HN: Digs.fm – For passionate music explorers (like Goodreads but for music)](https://digs.fm)
-- Aug 22 - [Clip Control on the Apple GPU](https://rosenzweig.io/blog/asahi-gpu-part-6.html)
+- Aug 22 - [How messed up was Germany's energy policy?](https://jeromeaparis.substack.com/p/how-messed-up-was-germanys-energy)
+- Aug 22 - [A General Overview of What Happens Before main() (2019)](https://embeddedartistry.com/blog/2019/04/08/a-general-overview-of-what-happens-before-main/)
+- Aug 22 - [Google Timer is back](https://www.google.com/search?q=timer+6+minutes)
+- Aug 22 - [Tour of Dresden, the heart of Germany’s semiconductor industry](https://innovationorigins.com/en/on-the-road-with-the-9-euro-ticket-part-8-a-bike-tour-of-dresden-the-heart-of-germanys-semiconductor-industry/)
+- Aug 22 - [Reflections on my time in Y Combinator](https://chrisfrantz.com/reflections-on-my-time-in-y-combinator/)
 <!--END_SECTION:hn-->
 
 <!--
