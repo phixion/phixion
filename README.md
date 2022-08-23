@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 22 - [How messed up was Germany's energy policy?](https://jeromeaparis.substack.com/p/how-messed-up-was-germanys-energy)
-- Aug 22 - [A General Overview of What Happens Before main() (2019)](https://embeddedartistry.com/blog/2019/04/08/a-general-overview-of-what-happens-before-main/)
-- Aug 22 - [Google Timer is back](https://www.google.com/search?q=timer+6+minutes)
-- Aug 22 - [Tour of Dresden, the heart of Germany’s semiconductor industry](https://innovationorigins.com/en/on-the-road-with-the-9-euro-ticket-part-8-a-bike-tour-of-dresden-the-heart-of-germanys-semiconductor-industry/)
-- Aug 22 - [Reflections on my time in Y Combinator](https://chrisfrantz.com/reflections-on-my-time-in-y-combinator/)
+- Aug 22 - [The False Prophecy of “AGI”: A Quick TL;DR](https://nathanieltravis.com/2022/08/22/the-false-prophecy-of-agi-a-quick-tldr/)
+- Aug 22 - [Stripe down for 4 hours (and counting) for all those with Stripe Tax enabled](https://status.stripe.com/)
+- Aug 22 - [A republished fork of the banned-on-sanction-order Tornado Cash repositories](https://twitter.com/matthew_d_green/status/1561813046338748417)
+- Aug 22 - [Nvidia Hopper Architecture In-Depth](https://developer.nvidia.com/blog/nvidia-hopper-architecture-in-depth/)
+- Aug 22 - [Show HN: Colorizing Infrared Images with AI, Using Photoshop and DeOldify](https://blog.maxg.io/colorizing-infrared-images-with-photoshop/)
 <!--END_SECTION:hn-->
 
 <!--
