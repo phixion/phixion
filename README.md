@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 23 - [A history of OSS licensing from a lawyer who helped blaze the trail [audio]](https://stackoverflow.blog/2022/08/16/a-history-of-open-source-licensing-from-a-lawyer-who-helped-blaze-the-trail-ep-473/)
-- Aug 23 - [How to communicate why your startup is worth joining](https://wasp-lang.dev/blog/2022/08/15/how-to-communicate-why-your-startup-is-worth-joining)
-- Aug 23 - [Remote Startups Will Win the War for Top Talent](https://future.com/remote-startups-hire-top-talent/)
-- Aug 23 - [Permutation Generation Methods [pdf]](http://homepage.divms.uiowa.edu/~goodman/22m150.dir/2007/Permutation%20Generation%20Methods.pdf)
-- Aug 23 - [Class action against Oracle’s worldwide surveillance machine](https://www.iccl.ie/news/class-action-against-oracle/)
+- Aug 23 - [FreeBSD on the Framework Laptop](https://xyinn.org/md/freebsd/framework_laptop)
+- Aug 23 - [TypeScript is terrible for library developers](https://erock.prose.sh/typescript-terrible-for-library-developers)
+- Aug 23 - [Investors bought a quarter of US homes sold last year](https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2022/07/22/investors-bought-a-quarter-of-homes-sold-last-year-driving-up-rents)
+- Aug 23 - [Open Source Canva Clone](https://github.com/layerhub-io/react-design-editor)
+- Aug 23 - [SSH commit verification now supported](https://github.blog/changelog/2022-08-23-ssh-commit-verification-now-supported/)
 <!--END_SECTION:hn-->
 
 <!--
