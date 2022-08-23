@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 23 - [Accelerating QEMU on Windows with HAXM (2017)](https://www.qemu.org/2017/11/22/haxm-usage-windows/)
-- Aug 23 - [Parsing SQL](https://tomassetti.me/parsing-sql/)
-- Aug 23 - [Military drone swarms and how to combat them](https://smallwarsjournal.com/jrnl/art/military-drone-swarms-and-options-combat-them)
-- Aug 23 - [EV shipping is set to blow internal combustion engines out of the water](https://pv-magazine-usa.com/2022/08/22/ev-shipping-is-set-to-blow-internal-combustion-engines-out-of-the-water/)
-- Aug 23 - [The best and worst of 1994 and predictions for '95](http://www.panix.com/~kgreenb/iw/bwv6n1.htm)
+- Aug 23 - [Debugging Win32 Binaries in Ghidra via Wine](https://john-millikin.com/debugging-win32-binaries-in-ghidra-via-wine)
+- Aug 23 - [Show HN: Crawlee – The web scraping and browser automation library for Node.js](https://crawlee.dev/)
+- Aug 23 - [Dell XPS 13 Plus developer edition: Now available with Ubuntu 22.04 LTS](https://www.dell.com/community/Developer-Blogs/Dell-XPS-13-Plus-developer-edition-with-Ubuntu-22-04-LTS-pre/ba-p/8255332)
+- Aug 23 - [Isaac Solar Ice Maker](https://www.energy-concepts.com/_pages/app_isaac_solar_ice_maker.htm)
+- Aug 23 - [Risk Everything](http://web.archive.org/web/20150311145210/https://gigaom.com/2007/08/07/risk-everything/)
 <!--END_SECTION:hn-->
 
 <!--
