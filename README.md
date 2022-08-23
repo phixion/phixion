@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 23 - [Ex-Twitter exec blows the whistle, alleging reckless cybersecurity policies](https://www.cnn.com/2022/08/23/tech/twitter-whistleblower-peiter-zatko-security/index.html)
-- Aug 23 - [Collapse of emergency healthcare in England may be costing 500 lives every week](https://twitter.com/jburnmurdoch/status/1562004612172873728)
-- Aug 23 - [France is now offering a €4k e-bike subsidy to people who trade in their car](https://ebiketips.road.cc/content/news/france-is-now-offering-a-4000-e-bike-subsidy-to-people-who-trade-in-their-car-3963)
-- Aug 23 - [Ask HN: Interested on writing a book on software design/architecture together?](https://news.ycombinator.com/item?id=32562332)
-- Aug 23 - [“10% error rate is okay“ – Leaked EU Commission document regarding Chat Control](https://reddit.com/r/privacy/comments/voaicx/10_error_rate_is_okay_leaked_eu_commission/)
+- Aug 23 - [A history of OSS licensing from a lawyer who helped blaze the trail [audio]](https://stackoverflow.blog/2022/08/16/a-history-of-open-source-licensing-from-a-lawyer-who-helped-blaze-the-trail-ep-473/)
+- Aug 23 - [How to communicate why your startup is worth joining](https://wasp-lang.dev/blog/2022/08/15/how-to-communicate-why-your-startup-is-worth-joining)
+- Aug 23 - [Remote Startups Will Win the War for Top Talent](https://future.com/remote-startups-hire-top-talent/)
+- Aug 23 - [Permutation Generation Methods [pdf]](http://homepage.divms.uiowa.edu/~goodman/22m150.dir/2007/Permutation%20Generation%20Methods.pdf)
+- Aug 23 - [Class action against Oracle’s worldwide surveillance machine](https://www.iccl.ie/news/class-action-against-oracle/)
 <!--END_SECTION:hn-->
 
 <!--
