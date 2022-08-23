@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 22 - [The False Prophecy of “AGI”: A Quick TL;DR](https://nathanieltravis.com/2022/08/22/the-false-prophecy-of-agi-a-quick-tldr/)
-- Aug 22 - [Stripe down for 4 hours (and counting) for all those with Stripe Tax enabled](https://status.stripe.com/)
-- Aug 22 - [A republished fork of the banned-on-sanction-order Tornado Cash repositories](https://twitter.com/matthew_d_green/status/1561813046338748417)
-- Aug 22 - [Nvidia Hopper Architecture In-Depth](https://developer.nvidia.com/blog/nvidia-hopper-architecture-in-depth/)
-- Aug 22 - [Show HN: Colorizing Infrared Images with AI, Using Photoshop and DeOldify](https://blog.maxg.io/colorizing-infrared-images-with-photoshop/)
+- Aug 23 - [Accelerating QEMU on Windows with HAXM (2017)](https://www.qemu.org/2017/11/22/haxm-usage-windows/)
+- Aug 23 - [Parsing SQL](https://tomassetti.me/parsing-sql/)
+- Aug 23 - [Military drone swarms and how to combat them](https://smallwarsjournal.com/jrnl/art/military-drone-swarms-and-options-combat-them)
+- Aug 23 - [EV shipping is set to blow internal combustion engines out of the water](https://pv-magazine-usa.com/2022/08/22/ev-shipping-is-set-to-blow-internal-combustion-engines-out-of-the-water/)
+- Aug 23 - [The best and worst of 1994 and predictions for '95](http://www.panix.com/~kgreenb/iw/bwv6n1.htm)
 <!--END_SECTION:hn-->
 
 <!--
