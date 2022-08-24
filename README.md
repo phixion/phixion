@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 24 - [GoGoGrandparent (YC S16) is hiring a lead full-stack engineer](https://news.ycombinator.com/item?id=32575785)
-- Aug 24 - [Ask HN: Is it just me or Facebook is being bombarded by spam?](https://news.ycombinator.com/item?id=32575675)
-- Aug 24 - [Things people blamed on bicycles](https://twitter.com/paulisci/status/1561848479470694403)
-- Aug 24 - [Capacity Plan](https://fev.al/posts/capacity-plan/)
-- Aug 24 - [Facebook's timeline just shows random things for some users](https://news.ycombinator.com/item?id=32575608)
+- Aug 24 - [Sieve (YC W22) Is Building AI Infrastructure for Video](https://news.ycombinator.com/item?id=32578206)
+- Aug 24 - [Ask HN: Will AI-generated images flooding the web pollute future training data?](https://news.ycombinator.com/item?id=32577822)
+- Aug 24 - [The Container Orchestrator Landscape](https://lwn.net/SubscriberLink/905164/e1f4d4c1ce35f8b9/)
+- Aug 24 - [How to pay your rent with your open source project](https://plausible.io/blog/open-source-funding)
+- Aug 24 - [Weylus – Use your tablet as graphic tablet/touch screen on Linux](https://github.com/H-M-H/Weylus)
 <!--END_SECTION:hn-->
 
 <!--
