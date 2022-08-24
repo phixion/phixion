@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 24 - [A near 100% renewables grid is well within reach, and with little storage](https://reneweconomy.com.au/a-near-100-per-cent-renewables-grid-is-well-within-reach-and-with-little-storage/)
-- Aug 24 - [California to Ban the Sale of New Gasoline Cars](https://www.nytimes.com/2022/08/24/climate/california-gas-cars-emissions.html)
-- Aug 24 - [Denuvo Launches Nintendo Switch Emulator Protection](https://irdeto.com/news/denuvo-by-irdeto-launches-the-industrys-first-nintendo-switch-emulator-protection/)
-- Aug 24 - [Ask HN: Are You Leaving Heroku?](https://news.ycombinator.com/item?id=32580597)
-- Aug 24 - [Fixing my PC's persistent graphics and audio stutters](https://www.ctrl.blog/entry/troubleshoot-stuttering.html)
+- Aug 24 - [LibVF.IO: Add support for GPU Virtual Machine (GVM)](https://arccompute.com/blog/libvfio-add-gvm-support/)
+- Aug 24 - [Attorney General Bonta Announces Settlement with Sephora on CCPA/GPC Enforcement](https://oag.ca.gov/news/press-releases/attorney-general-bonta-announces-settlement-sephora-part-ongoing-enforcement)
+- Aug 24 - [“We kill people based on metadata” and other metadata things](https://darknetlive.com/post/former-nsa-director-will-kill-you-via-metadata/)
+- Aug 24 - [PlanBags Has Retired 1968-2021](https://planbags.com/)
+- Aug 24 - [Jitx (YC S18) is hiring a front end engineer](https://jobs.lever.co/jitxinc/3d57f731-bf23-4456-9967-441f933a5f2e)
 <!--END_SECTION:hn-->
 
 <!--
