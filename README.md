@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 24 - [Oven: The Company Behind Bun](https://oven.sh)
-- Aug 24 - [Ask HN: DALL-E was trained on watermarked stock images?](https://news.ycombinator.com/item?id=32573523)
-- Aug 23 - [Issues with upstream DNS provider](https://status.heroku.com/incidents/2453)
-- Aug 23 - [Effects of large vehicles on pedestrian and pedal-cyclist injury severity](https://www.sciencedirect.com/science/article/abs/pii/S0022437522000810)
-- Aug 23 - [The future of Nginx: Getting back to our open source roots](https://www.nginx.com/blog/future-of-nginx-getting-back-to-open-source-roots/)
+- Aug 24 - [GoGoGrandparent (YC S16) is hiring a lead full-stack engineer](https://news.ycombinator.com/item?id=32575785)
+- Aug 24 - [Ask HN: Is it just me or Facebook is being bombarded by spam?](https://news.ycombinator.com/item?id=32575675)
+- Aug 24 - [Things people blamed on bicycles](https://twitter.com/paulisci/status/1561848479470694403)
+- Aug 24 - [Capacity Plan](https://fev.al/posts/capacity-plan/)
+- Aug 24 - [Facebook's timeline just shows random things for some users](https://news.ycombinator.com/item?id=32575608)
 <!--END_SECTION:hn-->
 
 <!--
