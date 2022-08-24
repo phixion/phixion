@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 23 - [Ask HN: Is Heroku DNS screwy for you?](https://news.ycombinator.com/item?id=32572922)
-- Aug 23 - [Heroku Status: Issues with upstream DNS provider](https://status.heroku.com/incidents/2453)
-- Aug 23 - [Show HN: Pornpen.ai, AI-Generated Porn](https://pornpen.ai/)
-- Aug 23 - [Ethereum Development Documentation](https://ethereum.org/en/developers/docs/)
-- Aug 23 - [Does syntax highlighting help programming novices? (2018)](https://dl.acm.org/doi/10.1007/s10664-017-9579-0)
+- Aug 24 - [Oven: The Company Behind Bun](https://oven.sh)
+- Aug 24 - [Ask HN: DALL-E was trained on watermarked stock images?](https://news.ycombinator.com/item?id=32573523)
+- Aug 23 - [Issues with upstream DNS provider](https://status.heroku.com/incidents/2453)
+- Aug 23 - [Effects of large vehicles on pedestrian and pedal-cyclist injury severity](https://www.sciencedirect.com/science/article/abs/pii/S0022437522000810)
+- Aug 23 - [The future of Nginx: Getting back to our open source roots](https://www.nginx.com/blog/future-of-nginx-getting-back-to-open-source-roots/)
 <!--END_SECTION:hn-->
 
 <!--
