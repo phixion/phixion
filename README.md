@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 24 - [Sieve (YC W22) Is Building AI Infrastructure for Video](https://news.ycombinator.com/item?id=32578206)
-- Aug 24 - [Ask HN: Will AI-generated images flooding the web pollute future training data?](https://news.ycombinator.com/item?id=32577822)
-- Aug 24 - [The Container Orchestrator Landscape](https://lwn.net/SubscriberLink/905164/e1f4d4c1ce35f8b9/)
-- Aug 24 - [How to pay your rent with your open source project](https://plausible.io/blog/open-source-funding)
-- Aug 24 - [Weylus – Use your tablet as graphic tablet/touch screen on Linux](https://github.com/H-M-H/Weylus)
+- Aug 24 - [A near 100% renewables grid is well within reach, and with little storage](https://reneweconomy.com.au/a-near-100-per-cent-renewables-grid-is-well-within-reach-and-with-little-storage/)
+- Aug 24 - [California to Ban the Sale of New Gasoline Cars](https://www.nytimes.com/2022/08/24/climate/california-gas-cars-emissions.html)
+- Aug 24 - [Denuvo Launches Nintendo Switch Emulator Protection](https://irdeto.com/news/denuvo-by-irdeto-launches-the-industrys-first-nintendo-switch-emulator-protection/)
+- Aug 24 - [Ask HN: Are You Leaving Heroku?](https://news.ycombinator.com/item?id=32580597)
+- Aug 24 - [Fixing my PC's persistent graphics and audio stutters](https://www.ctrl.blog/entry/troubleshoot-stuttering.html)
 <!--END_SECTION:hn-->
 
 <!--
