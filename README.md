@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 23 - [FreeBSD on the Framework Laptop](https://xyinn.org/md/freebsd/framework_laptop)
-- Aug 23 - [TypeScript is terrible for library developers](https://erock.prose.sh/typescript-terrible-for-library-developers)
-- Aug 23 - [Investors bought a quarter of US homes sold last year](https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2022/07/22/investors-bought-a-quarter-of-homes-sold-last-year-driving-up-rents)
-- Aug 23 - [Open Source Canva Clone](https://github.com/layerhub-io/react-design-editor)
-- Aug 23 - [SSH commit verification now supported](https://github.blog/changelog/2022-08-23-ssh-commit-verification-now-supported/)
+- Aug 23 - [Ask HN: Is Heroku DNS screwy for you?](https://news.ycombinator.com/item?id=32572922)
+- Aug 23 - [Heroku Status: Issues with upstream DNS provider](https://status.heroku.com/incidents/2453)
+- Aug 23 - [Show HN: Pornpen.ai, AI-Generated Porn](https://pornpen.ai/)
+- Aug 23 - [Ethereum Development Documentation](https://ethereum.org/en/developers/docs/)
+- Aug 23 - [Does syntax highlighting help programming novices? (2018)](https://dl.acm.org/doi/10.1007/s10664-017-9579-0)
 <!--END_SECTION:hn-->
 
 <!--
