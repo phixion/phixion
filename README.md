@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 24 - [LibVF.IO: Add support for GPU Virtual Machine (GVM)](https://arccompute.com/blog/libvfio-add-gvm-support/)
-- Aug 24 - [Attorney General Bonta Announces Settlement with Sephora on CCPA/GPC Enforcement](https://oag.ca.gov/news/press-releases/attorney-general-bonta-announces-settlement-sephora-part-ongoing-enforcement)
-- Aug 24 - [“We kill people based on metadata” and other metadata things](https://darknetlive.com/post/former-nsa-director-will-kill-you-via-metadata/)
-- Aug 24 - [PlanBags Has Retired 1968-2021](https://planbags.com/)
-- Aug 24 - [Jitx (YC S18) is hiring a front end engineer](https://jobs.lever.co/jitxinc/3d57f731-bf23-4456-9967-441f933a5f2e)
+- Aug 24 - [Ask HN: How worried should I be about Google randomly suspending my accounts?](https://news.ycombinator.com/item?id=32587310)
+- Aug 24 - [Patent Trolls Inbound: Our First Lawsuit](https://blog.comma.ai/ourfirstlawsuit/)
+- Aug 24 - [V-memo a new directive to improve your Vue 3 app performance](https://zelig880.com/introducing-v-memo-a-new-directive-to-improve-your-vue-3-app-performance)
+- Aug 24 - [OpenArt: “Pinterest” for Dalle-2 images and prompts](https://openart.ai/)
+- Aug 24 - [A Theoretical Justification (2021)](https://memex.marginalia.nu/projects/edge/about.gmi#1.2)
 <!--END_SECTION:hn-->
 
 <!--
