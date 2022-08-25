@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 25 - [Median webpage size was 2.3 MB in July](https://httparchive.org/reports/state-of-the-web)
-- Aug 25 - [Sirum (YC Nonprofit) Is Hiring Mission-Driven Engineers](https://news.ycombinator.com/item?id=32590497)
-- Aug 25 - [Ask HN: How to get a job as a compiler engineer?](https://news.ycombinator.com/item?id=32590390)
-- Aug 25 - [The Hub+Spoke Content Strategy of 100k+ follower B2B creators](https://dx.tips/hubspoke-strategy)
-- Aug 25 - [Seven years in the life of Hypergiants' off-nets](https://dl.acm.org/doi/10.1145/3452296.3472928)
+- Aug 25 - [Zentail (YC S12) Is Hiring a Head of Sales](https://jobs.lever.co/zentail/31ca2286-2579-48ef-bccb-2653f9721bda)
+- Aug 25 - [How Cloudflare Stood up to a Patent Troll – and Won!](https://blog.cloudflare.com/the-project-jengo-saga-how-cloudflare-stood-up-to-a-patent-troll-and-won/)
+- Aug 25 - [The Fall of Datacenter Software](https://www.sigarch.org/the-fall-of-datacenter-software/)
+- Aug 25 - [The Evolution of Camera Phones, Visualized](https://simpleghar.com/the-evolution-of-camera-phones-visualized/)
+- Aug 25 - [Startup Is Selling Tech to Make Call Center Workers Sound Like White Americans](https://www.vice.com/en/article/akek7g/this-startup-is-selling-tech-to-make-call-center-workers-sound-like-white-americans)
 <!--END_SECTION:hn-->
 
 <!--
