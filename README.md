@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 25 - [Zentail (YC S12) Is Hiring a Head of Sales](https://jobs.lever.co/zentail/31ca2286-2579-48ef-bccb-2653f9721bda)
-- Aug 25 - [How Cloudflare Stood up to a Patent Troll – and Won!](https://blog.cloudflare.com/the-project-jengo-saga-how-cloudflare-stood-up-to-a-patent-troll-and-won/)
-- Aug 25 - [The Fall of Datacenter Software](https://www.sigarch.org/the-fall-of-datacenter-software/)
-- Aug 25 - [The Evolution of Camera Phones, Visualized](https://simpleghar.com/the-evolution-of-camera-phones-visualized/)
-- Aug 25 - [Startup Is Selling Tech to Make Call Center Workers Sound Like White Americans](https://www.vice.com/en/article/akek7g/this-startup-is-selling-tech-to-make-call-center-workers-sound-like-white-americans)
+- Aug 25 - [Heroku is phasing out free product plans](https://twitter.com/heroku/status/1562817050565054469)
+- Aug 25 - [Dropping latency 90% by porting SpiceDB to WASM](https://authzed.com/blog/some-assembly-required/)
+- Aug 25 - [Science must respect the dignity and rights of all humans](https://www.nature.com/articles/s41562-022-01443-2)
+- Aug 25 - [Best Practices for TypeScript Monorepo](https://blog.flycode.com/best-practices-for-typescript-monorepo)
+- Aug 25 - [Designing for Improvisation (2010)](https://bobulate.com/2010/02/designing-for-improvisation/)
 <!--END_SECTION:hn-->
 
 <!--
