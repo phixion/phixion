@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 24 - [Ask HN: How worried should I be about Google randomly suspending my accounts?](https://news.ycombinator.com/item?id=32587310)
+- Aug 25 - [5G Networks Are Worryingly Hackable](https://spectrum.ieee.org/5g-virtualization-increased-hackability)
+- Aug 25 - [The Four Dirty C-Words of the Internet](https://pauljun.me/the-four-dirty-c-words-of-the-internet)
+- Aug 25 - [Starlink is reducing your monthly service fee](https://news.ycombinator.com/item?id=32588703)
+- Aug 25 - [Why your website should be under 14kb in size](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/)
 - Aug 24 - [Patent Trolls Inbound: Our First Lawsuit](https://blog.comma.ai/ourfirstlawsuit/)
-- Aug 24 - [V-memo a new directive to improve your Vue 3 app performance](https://zelig880.com/introducing-v-memo-a-new-directive-to-improve-your-vue-3-app-performance)
-- Aug 24 - [OpenArt: “Pinterest” for Dalle-2 images and prompts](https://openart.ai/)
-- Aug 24 - [A Theoretical Justification (2021)](https://memex.marginalia.nu/projects/edge/about.gmi#1.2)
 <!--END_SECTION:hn-->
 
 <!--
