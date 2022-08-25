@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 25 - [5G Networks Are Worryingly Hackable](https://spectrum.ieee.org/5g-virtualization-increased-hackability)
-- Aug 25 - [The Four Dirty C-Words of the Internet](https://pauljun.me/the-four-dirty-c-words-of-the-internet)
-- Aug 25 - [Starlink is reducing your monthly service fee](https://news.ycombinator.com/item?id=32588703)
-- Aug 25 - [Why your website should be under 14kb in size](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/)
-- Aug 24 - [Patent Trolls Inbound: Our First Lawsuit](https://blog.comma.ai/ourfirstlawsuit/)
+- Aug 25 - [Median webpage size was 2.3 MB in July](https://httparchive.org/reports/state-of-the-web)
+- Aug 25 - [Sirum (YC Nonprofit) Is Hiring Mission-Driven Engineers](https://news.ycombinator.com/item?id=32590497)
+- Aug 25 - [Ask HN: How to get a job as a compiler engineer?](https://news.ycombinator.com/item?id=32590390)
+- Aug 25 - [The Hub+Spoke Content Strategy of 100k+ follower B2B creators](https://dx.tips/hubspoke-strategy)
+- Aug 25 - [Seven years in the life of Hypergiants' off-nets](https://dl.acm.org/doi/10.1145/3452296.3472928)
 <!--END_SECTION:hn-->
 
 <!--
