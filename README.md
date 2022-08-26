@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 26 - [Things I Won't Work With: Azidoazide Azides, More or Less](https://www.science.org/content/blog-post/things-i-won-t-work-azidoazide-azides-more-or-less)
-- Aug 26 - [Americans Will Soon Be Able to Renew Passports Online](https://www.cntraveler.com/story/americans-will-soon-be-able-to-renew-passports-online)
-- Aug 26 - [Hooking Go from Rust – Hitchhiker’s Guide to the Go-Laxy](https://metalbear.co/blog/hooking-go-from-rust-hitchhikers-guide-to-the-go-laxy/)
-- Aug 26 - [Reducing methane is the fastest strategy available to reduce warming](https://www.state.gov/dipnote-u-s-department-of-state-official-blog/five_things_to_know_about_cop26)
-- Aug 26 - [Why No Roman Industrial Revolution?](https://acoup.blog/2022/08/26/collections-why-no-roman-industrial-revolution/)
+- Aug 26 - [Psychedelic Drugs Take on Depression](https://www.nature.com/articles/d41586-022-02205-w)
+- Aug 26 - [Use TouchID to Authenticate Sudo on macOS](https://it.digitaino.com/use-touchid-to-authenticate-sudo-on-macos/)
+- Aug 26 - [Ask HN: Boring but important tech no one is working on](https://news.ycombinator.com/item?id=32611247)
+- Aug 26 - [Ghana Bans a Delta Boeing 767 (Yes, Just One)](https://onemileatatime.com/news/ghana-bans-delta-boeing-767/)
+- Aug 26 - [Ask HN: Chip Startups?](https://news.ycombinator.com/item?id=32610780)
 <!--END_SECTION:hn-->
 
 <!--
