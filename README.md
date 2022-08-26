@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 25 - [Devbox: Easy, predictable shells and containers](https://github.com/jetpack-io/devbox)
-- Aug 25 - [Soketi: Simple, Fast and Resilient open-source WebSockets server](https://soketi.app/)
-- Aug 25 - [IRATA.ONLINE: A PLATO Service for Retro Computing Enthusiasts](https://irata.online/)
-- Aug 25 - [Chez Scheme](https://github.com/cisco/ChezScheme)
-- Aug 25 - [MQZiti – Zero Trust MQTT server and client](https://github.com/ekoby/mqziti)
+- Aug 26 - [Mudge's redacted Twitter whistleblower disclosure [pdf]](https://s3.documentcloud.org/documents/22186683/twitter-whistleblower-disclosure.pdf)
+- Aug 26 - [SpaceX, T-Mobile to connect satellites to cellphones in remote areas](https://www.wsj.com/articles/spacex-and-t-mobile-to-connect-starlink-satellites-to-cellphones-in-remote-parts-of-u-s-11661473520)
+- Aug 26 - [The Jupyter+Git problem is now solved](https://www.fast.ai/2022/08/25/jupyter-git/)
+- Aug 25 - [Show HN: Devbox – Easy, predictable shells and containers](https://github.com/jetpack-io/devbox)
+- Aug 25 - [Soketi: Simple, fast and resilient open-source WebSockets server](https://soketi.app/)
 <!--END_SECTION:hn-->
 
 <!--
