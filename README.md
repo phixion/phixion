@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 26 - [Mudge's redacted Twitter whistleblower disclosure [pdf]](https://s3.documentcloud.org/documents/22186683/twitter-whistleblower-disclosure.pdf)
-- Aug 26 - [SpaceX, T-Mobile to connect satellites to cellphones in remote areas](https://www.wsj.com/articles/spacex-and-t-mobile-to-connect-starlink-satellites-to-cellphones-in-remote-parts-of-u-s-11661473520)
-- Aug 26 - [The Jupyter+Git problem is now solved](https://www.fast.ai/2022/08/25/jupyter-git/)
-- Aug 25 - [Show HN: Devbox – Easy, predictable shells and containers](https://github.com/jetpack-io/devbox)
-- Aug 25 - [Soketi: Simple, fast and resilient open-source WebSockets server](https://soketi.app/)
+- Aug 26 - [What are Magnus Carlsen's chances of reaching 2900?](https://new.chess24.com/wall/news/what-are-magnus-carlsen-s-chances-of-reaching-2900)
+- Aug 26 - [Ashby (YC W19, B) Hiring Engineers Who Want to Own Product/Design](https://www.ashbyhq.com/careers?utm_source=hn)
+- Aug 26 - [Remote scan of student’s room before test violated his privacy, judge rules](https://www.nytimes.com/2022/08/25/us/remote-testing-student-home-scan-privacy.html)
+- Aug 26 - [Personalized microbiome-driven effects of non-nutritive sweeteners](https://www.sciencedirect.com/science/article/pii/S0092867422009199)
+- Aug 26 - [Unstripping Stripped Binaries](http://lock.cmpxchg8b.com/symbols.html)
 <!--END_SECTION:hn-->
 
 <!--
