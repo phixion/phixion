@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 26 - [What are Magnus Carlsen's chances of reaching 2900?](https://new.chess24.com/wall/news/what-are-magnus-carlsen-s-chances-of-reaching-2900)
-- Aug 26 - [Ashby (YC W19, B) Hiring Engineers Who Want to Own Product/Design](https://www.ashbyhq.com/careers?utm_source=hn)
-- Aug 26 - [Remote scan of student’s room before test violated his privacy, judge rules](https://www.nytimes.com/2022/08/25/us/remote-testing-student-home-scan-privacy.html)
-- Aug 26 - [Personalized microbiome-driven effects of non-nutritive sweeteners](https://www.sciencedirect.com/science/article/pii/S0092867422009199)
-- Aug 26 - [Unstripping Stripped Binaries](http://lock.cmpxchg8b.com/symbols.html)
+- Aug 26 - [Amazon Reportedly Makes Offer to Acquire Electronic Arts](https://www.thegamer.com/amazon-reportedly-makes-offer-acquire-electronic-arts/)
+- Aug 26 - [Amazon set to buy Electronic Arts](https://ftw.usatoday.com/2022/08/amazon-buy-electronic-arts)
+- Aug 26 - [The Next Mainstream Programming Language: A Game Developer’s Perspective (2005) [pdf]](https://www.st.cs.uni-saarland.de/edu/seminare/2005/advanced-fp/docs/sweeny.pdf)
+- Aug 26 - [I Love My PinePhone](https://jakob.space/blog/i-love-my-pinephone.html)
+- Aug 26 - [Battery made of aluminum, sulfur and salt proves fast, safe and low-cost](https://newatlas.com/energy/aluminum-sulfur-salt-battery-fast-safe-low-cost/)
 <!--END_SECTION:hn-->
 
 <!--
