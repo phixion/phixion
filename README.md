@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 25 - [Largest Japanese Anime Database “Anime Taizen” Opens to the Public Today](https://www.crunchyroll.com/anime-news/2022/08/24-1/the-worlds-largest-japanese-anime-database-anime-taizen-opens-to-the-public-today)
-- Aug 25 - [Launch HN: Artemis (YC S22) – Use comments to give code an interactive interface](https://news.ycombinator.com/item?id=32598603)
-- Aug 25 - [Show HN: New BucketRateLimiter Python package to rate limit requests to APIs](https://pypi.org/project/bucketratelimiter/)
-- Aug 25 - [Subscriptions are out, refills are in](https://bluepnume.medium.com/subscriptions-are-out-refills-are-in-311fd6e41e5e)
-- Aug 25 - [Move Fast or Die: Key Startup Lessons](https://blog.southparkcommons.com/move-fast-or-die/)
+- Aug 25 - [Devbox: Easy, predictable shells and containers](https://github.com/jetpack-io/devbox)
+- Aug 25 - [Soketi: Simple, Fast and Resilient open-source WebSockets server](https://soketi.app/)
+- Aug 25 - [IRATA.ONLINE: A PLATO Service for Retro Computing Enthusiasts](https://irata.online/)
+- Aug 25 - [Chez Scheme](https://github.com/cisco/ChezScheme)
+- Aug 25 - [MQZiti – Zero Trust MQTT server and client](https://github.com/ekoby/mqziti)
 <!--END_SECTION:hn-->
 
 <!--
