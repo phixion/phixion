@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 26 - [Amazon Reportedly Makes Offer to Acquire Electronic Arts](https://www.thegamer.com/amazon-reportedly-makes-offer-acquire-electronic-arts/)
-- Aug 26 - [Amazon set to buy Electronic Arts](https://ftw.usatoday.com/2022/08/amazon-buy-electronic-arts)
-- Aug 26 - [The Next Mainstream Programming Language: A Game Developer’s Perspective (2005) [pdf]](https://www.st.cs.uni-saarland.de/edu/seminare/2005/advanced-fp/docs/sweeny.pdf)
-- Aug 26 - [I Love My PinePhone](https://jakob.space/blog/i-love-my-pinephone.html)
-- Aug 26 - [Battery made of aluminum, sulfur and salt proves fast, safe and low-cost](https://newatlas.com/energy/aluminum-sulfur-salt-battery-fast-safe-low-cost/)
+- Aug 26 - [Things I Won't Work With: Azidoazide Azides, More or Less](https://www.science.org/content/blog-post/things-i-won-t-work-azidoazide-azides-more-or-less)
+- Aug 26 - [Americans Will Soon Be Able to Renew Passports Online](https://www.cntraveler.com/story/americans-will-soon-be-able-to-renew-passports-online)
+- Aug 26 - [Hooking Go from Rust – Hitchhiker’s Guide to the Go-Laxy](https://metalbear.co/blog/hooking-go-from-rust-hitchhikers-guide-to-the-go-laxy/)
+- Aug 26 - [Reducing methane is the fastest strategy available to reduce warming](https://www.state.gov/dipnote-u-s-department-of-state-official-blog/five_things_to_know_about_cop26)
+- Aug 26 - [Why No Roman Industrial Revolution?](https://acoup.blog/2022/08/26/collections-why-no-roman-industrial-revolution/)
 <!--END_SECTION:hn-->
 
 <!--
