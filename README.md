@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 26 - [Jonathan Blow on Societal Collapse (2019)](https://gist.github.com/clumma/4c5016f808adde034a575f1dd7d401a8)
-- Aug 26 - [Why Slack’s free plan change is causing an exodus](https://blog.zulip.com/2022/08/26/why-slacks-free-plan-change-is-causing-an-exodus/)
-- Aug 26 - [We disabled Google AMP at Tribune Publishing](https://kurtgessler.medium.com/what-happened-when-we-disabled-google-amp-at-tribune-publishing-2fa65a2f2a40)
-- Aug 26 - [The cursed computer iceberg meme (2021)](https://suricrasia.online/iceberg/)
-- Aug 26 - [Hyoka](https://github.com/olamide203/hyoka)
+- Aug 27 - [What’s Going on with Security at PayPal?](https://christianvarga.com/whats-going-on-with-security-at-paypal/)
+- Aug 27 - [One kitchen, hundreds of internet restaurants](https://peabee.substack.com/p/17-one-kitchen-hundreds-of-internet)
+- Aug 27 - [The Anomaly of Cheap Complexity](https://freedom-to-tinker.com/2022/08/03/the-anomaly-of-cheap-complexity/)
+- Aug 27 - [Unidentified Aerial Phenomena](https://arxiv.org/abs/2208.11215)
+- Aug 27 - [Ushering Out Strlcpy()](https://lwn.net/SubscriberLink/905777/a6dba1b2ed54f04f/)
 <!--END_SECTION:hn-->
 
 <!--
