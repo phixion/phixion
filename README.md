@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 26 - [Psychedelic Drugs Take on Depression](https://www.nature.com/articles/d41586-022-02205-w)
-- Aug 26 - [Use TouchID to Authenticate Sudo on macOS](https://it.digitaino.com/use-touchid-to-authenticate-sudo-on-macos/)
-- Aug 26 - [Ask HN: Boring but important tech no one is working on](https://news.ycombinator.com/item?id=32611247)
-- Aug 26 - [Ghana Bans a Delta Boeing 767 (Yes, Just One)](https://onemileatatime.com/news/ghana-bans-delta-boeing-767/)
-- Aug 26 - [Ask HN: Chip Startups?](https://news.ycombinator.com/item?id=32610780)
+- Aug 26 - [Jonathan Blow on Societal Collapse (2019)](https://gist.github.com/clumma/4c5016f808adde034a575f1dd7d401a8)
+- Aug 26 - [Why Slack’s free plan change is causing an exodus](https://blog.zulip.com/2022/08/26/why-slacks-free-plan-change-is-causing-an-exodus/)
+- Aug 26 - [We disabled Google AMP at Tribune Publishing](https://kurtgessler.medium.com/what-happened-when-we-disabled-google-amp-at-tribune-publishing-2fa65a2f2a40)
+- Aug 26 - [The cursed computer iceberg meme (2021)](https://suricrasia.online/iceberg/)
+- Aug 26 - [Hyoka](https://github.com/olamide203/hyoka)
 <!--END_SECTION:hn-->
 
 <!--
