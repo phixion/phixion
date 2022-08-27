@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 27 - [The utterly delightful site dedicated to classifying plastic bread tags](https://www.inputmag.com/culture/horg-plastic-bread-tags-occlupanids-classification-site)
-- Aug 27 - [Tool beeps every time data is sent to Google [spoiler: “constant” beeping]](https://twitter.com/bert_hu_bert/status/1561466204602220544)
-- Aug 27 - [UK energy prices at 50 year high and expected to triple](https://www.carbonbrief.org/analysis-why-uk-energy-bills-are-soaring-to-record-highs-and-how-to-cut-them/)
-- Aug 27 - [JWST: Identification of carbon dioxide in an exoplanet atmosphere](https://arxiv.org/abs/2208.11692)
-- Aug 27 - [One kitchen, hundreds of internet restaurants](https://peabee.substack.com/p/17-one-kitchen-hundreds-of-internet)
+- Aug 27 - [A new Linux handheld game console based on powerful ODROID-N2](https://forum.odroid.com/viewtopic.php?t=45143)
+- Aug 27 - [Dominion threatens to abandon 2.6GW offshore windfarm over performance guarantee](https://www.utilitydive.com/news/dominion-offshore-wind-performance-standard/630397/)
+- Aug 27 - [Apple and Globalstar Rumored to Announce Satellite Connectivity for iPhone 14](https://www.macrumors.com/2022/08/26/apple-globalstar-iphone-14-satellite-rumor/)
+- Aug 27 - [We don't know how the universe began, and we will never know](http://backreaction.blogspot.com/2022/08/we-dont-know-how-universe-began-and-we.html)
+- Aug 27 - [The end of Moore's Law forced YouTube to make its own video chip](https://www.techspot.com/news/95774-end-moore-law-forced-youtube-make-own-video.html)
 <!--END_SECTION:hn-->
 
 <!--
