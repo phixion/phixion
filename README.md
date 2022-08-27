@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 27 - [A new Linux handheld game console based on powerful ODROID-N2](https://forum.odroid.com/viewtopic.php?t=45143)
-- Aug 27 - [Dominion threatens to abandon 2.6GW offshore windfarm over performance guarantee](https://www.utilitydive.com/news/dominion-offshore-wind-performance-standard/630397/)
-- Aug 27 - [Apple and Globalstar Rumored to Announce Satellite Connectivity for iPhone 14](https://www.macrumors.com/2022/08/26/apple-globalstar-iphone-14-satellite-rumor/)
-- Aug 27 - [We don't know how the universe began, and we will never know](http://backreaction.blogspot.com/2022/08/we-dont-know-how-universe-began-and-we.html)
-- Aug 27 - [The end of Moore's Law forced YouTube to make its own video chip](https://www.techspot.com/news/95774-end-moore-law-forced-youtube-make-own-video.html)
+- Aug 27 - [Who acquires big (13,000 lines) Mac apps?](https://news.ycombinator.com/item?id=32621929)
+- Aug 27 - [At $249 per day, prison stays leave ex-inmates deep in debt](https://apnews.com/article/crime-prisons-lawsuits-connecticut-074a8f643766e155df58d2c8fbc7214c)
+- Aug 27 - [American Chestnut tree discovery in Delaware wows conservationists](https://www.delawareonline.com/story/news/2022/08/26/american-chestnut-tree-discovery-in-delaware-wows-conservationists/65414649007/)
+- Aug 27 - [How the National Environmental Policy Act (NEPA) Works](https://constructionphysics.substack.com/p/how-nepa-works)
+- Aug 27 - [Interlisp Online](https://online.interlisp.org/user/login)
 <!--END_SECTION:hn-->
 
 <!--
