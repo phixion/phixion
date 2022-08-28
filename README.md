@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 28 - [Stacker (YC S20) Is Hiring Product Engineer's](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
-- Aug 28 - [A year of RISC-V adventures: embracing chaos in your software journey [video]](https://fosdem.org/2022/schedule/event/riscvadventures/)
-- Aug 28 - [Why are D-sharp and E-flat considered to be two different notes?](https://www.ethanhein.com/wp/2022/why-are-d-sharp-and-e-flat-considered-to-be-two-different-notes/)
-- Aug 28 - [Valeriepieris Circle](https://en.wikipedia.org/wiki/Valeriepieris_circle)
-- Aug 28 - [Derinkuyu: Mysterious underground city in Turkey found in man’s basement](https://bigthink.com/strange-maps/derinkuyu-underground-city/)
+- Aug 28 - [Pal Colour Recovery from black-and-white 'telerecordings'](http://www.techmind.org/colrec/)
+- Aug 28 - [Tool visualizes any JSON data](https://jsonvisio.com)
+- Aug 28 - [Why none of my books are available on Audible](https://doctorow.medium.com/why-none-of-my-books-are-available-on-audible-83cb182f2f91)
+- Aug 28 - [“Is there a heuristic we might use to identify and flag questionable papers?”](https://statmodeling.stat.columbia.edu/2022/08/26/is-there-any-heuristic-we-might-use-to-identify-wholly-inappropriate-stats-and-flag-questionable-papers/)
+- Aug 28 - [I like the Odin programming language](https://hasenjudy.wordpress.com/2022/08/25/odin-praise/)
 <!--END_SECTION:hn-->
 
 <!--
