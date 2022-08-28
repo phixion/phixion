@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 28 - [Relax for the Same Result](https://sive.rs/relax)
-- Aug 28 - [Washington D.C.-Area Startup Wants to Solve the Public Bathroom Problem](https://www.washingtonian.com/2022/08/24/this-dc-area-high-tech-toilet-startup-wants-to-solve-the-public-bathroom-problem/)
-- Aug 28 - [Samba on Linux the Easy Way](https://glovesoff.substack.com/p/samba-on-linux-the-easy-way)
-- Aug 28 - [Time Till Open Source Alternative](https://staltz.com/time-till-open-source-alternative.html)
-- Aug 27 - [Acorn: A lightweight PaaS for Kubernertes, from Rancher founders](https://acorn.io/)
+- Aug 28 - [Stacker (YC S20) Is Hiring Product Engineer's](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
+- Aug 28 - [A year of RISC-V adventures: embracing chaos in your software journey [video]](https://fosdem.org/2022/schedule/event/riscvadventures/)
+- Aug 28 - [Why are D-sharp and E-flat considered to be two different notes?](https://www.ethanhein.com/wp/2022/why-are-d-sharp-and-e-flat-considered-to-be-two-different-notes/)
+- Aug 28 - [Valeriepieris Circle](https://en.wikipedia.org/wiki/Valeriepieris_circle)
+- Aug 28 - [Derinkuyu: Mysterious underground city in Turkey found in man’s basement](https://bigthink.com/strange-maps/derinkuyu-underground-city/)
 <!--END_SECTION:hn-->
 
 <!--
