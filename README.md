@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 27 - [Who acquires big (13,000 lines) Mac apps?](https://news.ycombinator.com/item?id=32621929)
-- Aug 27 - [At $249 per day, prison stays leave ex-inmates deep in debt](https://apnews.com/article/crime-prisons-lawsuits-connecticut-074a8f643766e155df58d2c8fbc7214c)
-- Aug 27 - [American Chestnut tree discovery in Delaware wows conservationists](https://www.delawareonline.com/story/news/2022/08/26/american-chestnut-tree-discovery-in-delaware-wows-conservationists/65414649007/)
-- Aug 27 - [How the National Environmental Policy Act (NEPA) Works](https://constructionphysics.substack.com/p/how-nepa-works)
-- Aug 27 - [Interlisp Online](https://online.interlisp.org/user/login)
+- Aug 28 - [Time Till Open Source Alternative](https://staltz.com/time-till-open-source-alternative.html)
+- Aug 27 - [Acorn: A lightweight PaaS for Kubernertes, from Rancher founders](https://acorn.io/)
+- Aug 27 - [The Obsessive Pleasures of Mechanical-Keyboard Tinkerers](https://www.newyorker.com/tech/annals-of-technology/the-obsessive-pleasures-of-mechanical-keyboard-tinkerers)
+- Aug 27 - [Heroku to discontinue free product plans and delete inactive accounts](https://blog.heroku.com/next-chapter)
+- Aug 27 - [Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring](https://skio.com/careers/)
 <!--END_SECTION:hn-->
 
 <!--
