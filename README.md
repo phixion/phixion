@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 28 - [Relax for the Same Result](https://sive.rs/relax)
+- Aug 28 - [Washington D.C.-Area Startup Wants to Solve the Public Bathroom Problem](https://www.washingtonian.com/2022/08/24/this-dc-area-high-tech-toilet-startup-wants-to-solve-the-public-bathroom-problem/)
+- Aug 28 - [Samba on Linux the Easy Way](https://glovesoff.substack.com/p/samba-on-linux-the-easy-way)
 - Aug 28 - [Time Till Open Source Alternative](https://staltz.com/time-till-open-source-alternative.html)
 - Aug 27 - [Acorn: A lightweight PaaS for Kubernertes, from Rancher founders](https://acorn.io/)
-- Aug 27 - [The Obsessive Pleasures of Mechanical-Keyboard Tinkerers](https://www.newyorker.com/tech/annals-of-technology/the-obsessive-pleasures-of-mechanical-keyboard-tinkerers)
-- Aug 27 - [Heroku to discontinue free product plans and delete inactive accounts](https://blog.heroku.com/next-chapter)
-- Aug 27 - [Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring](https://skio.com/careers/)
 <!--END_SECTION:hn-->
 
 <!--
