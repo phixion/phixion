@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 28 - [Pal Colour Recovery from black-and-white 'telerecordings'](http://www.techmind.org/colrec/)
-- Aug 28 - [Tool visualizes any JSON data](https://jsonvisio.com)
-- Aug 28 - [Why none of my books are available on Audible](https://doctorow.medium.com/why-none-of-my-books-are-available-on-audible-83cb182f2f91)
-- Aug 28 - [“Is there a heuristic we might use to identify and flag questionable papers?”](https://statmodeling.stat.columbia.edu/2022/08/26/is-there-any-heuristic-we-might-use-to-identify-wholly-inappropriate-stats-and-flag-questionable-papers/)
-- Aug 28 - [I like the Odin programming language](https://hasenjudy.wordpress.com/2022/08/25/odin-praise/)
+- Aug 28 - [Hammer and Tickle](https://www.prospectmagazine.co.uk/magazine/communist-jokes)
+- Aug 28 - [Common Lisp Wiki: Naming Conventions](https://www.cliki.net/naming+conventions)
+- Aug 28 - [Fissure: The RF and Reverse Engineering Framework for Everyone](https://github.com/ainfosec/FISSURE)
+- Aug 28 - [Web3 Domain Name Service Could Lose Web Address-Owner Who Can Renew Is in Prison](https://www.coindesk.com/tech/2022/08/26/web3-domain-name-service-could-lose-its-web-address-because-programmer-who-can-renew-it-sits-in-jail/)
+- Aug 28 - [Ask HN: I want to be an expert in many things but my lifetime won't be enough](https://news.ycombinator.com/item?id=32628511)
 <!--END_SECTION:hn-->
 
 <!--
