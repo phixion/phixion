@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 28 - [Hammer and Tickle](https://www.prospectmagazine.co.uk/magazine/communist-jokes)
-- Aug 28 - [Common Lisp Wiki: Naming Conventions](https://www.cliki.net/naming+conventions)
-- Aug 28 - [Fissure: The RF and Reverse Engineering Framework for Everyone](https://github.com/ainfosec/FISSURE)
-- Aug 28 - [Web3 Domain Name Service Could Lose Web Address-Owner Who Can Renew Is in Prison](https://www.coindesk.com/tech/2022/08/26/web3-domain-name-service-could-lose-its-web-address-because-programmer-who-can-renew-it-sits-in-jail/)
-- Aug 28 - [Ask HN: I want to be an expert in many things but my lifetime won't be enough](https://news.ycombinator.com/item?id=32628511)
+- Aug 28 - [Austrian ISPs Block Cloudflare IP addresses after apparent court order](http://netzsperre.liwest.at/)
+- Aug 28 - [Open Circuits – No Starch Press [pdf]](https://nostarch.com/download/OpenCircuits_Chapter1.pdf)
+- Aug 28 - [An Intuition for Lisp Syntax](https://stopa.io/post/265)
+- Aug 28 - [Water Wizard of Oregon – Permaculture Water Systems of the Seven Seeds Farm](https://yewtu.be/watch?v=BuYGS5pLRZg)
+- Aug 28 - [I Quit Using SwiftUI](https://chsxf.dev/2022/08/28/5-tup-why-i-quit-using-swiftui.html)
 <!--END_SECTION:hn-->
 
 <!--
