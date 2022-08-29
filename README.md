@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 28 - [Austrian ISPs Block Cloudflare IP addresses after apparent court order](http://netzsperre.liwest.at/)
-- Aug 28 - [Open Circuits – No Starch Press [pdf]](https://nostarch.com/download/OpenCircuits_Chapter1.pdf)
-- Aug 28 - [An Intuition for Lisp Syntax](https://stopa.io/post/265)
-- Aug 28 - [Water Wizard of Oregon – Permaculture Water Systems of the Seven Seeds Farm](https://yewtu.be/watch?v=BuYGS5pLRZg)
-- Aug 28 - [I Quit Using SwiftUI](https://chsxf.dev/2022/08/28/5-tup-why-i-quit-using-swiftui.html)
+- Aug 28 - [Tetsuji: Remote Code Execution on a GameBoy Colour 22 Years Later](https://xcellerator.github.io/posts/tetsuji/)
+- Aug 28 - [GitHub Does Dotfiles](https://dotfiles.github.io/)
+- Aug 28 - [Wizz Air now charging some travellers a strange extra fee (2020)](https://thepointsguy.co.uk/news/wizz-air-ad-blocking-fee/)
+- Aug 28 - [Denver Startup Week Is Coming Up in September](https://www.denverstartupweek.org/)
+- Aug 28 - [Could long Covid be linked to herpes viruses? Early data offer a hint](https://www.nature.com/articles/d41586-022-02296-5)
 <!--END_SECTION:hn-->
 
 <!--
