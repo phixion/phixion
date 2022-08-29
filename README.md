@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 29 - [The sudden silencing of Guantanamo's artists](https://www.bbc.com/news/world-us-canada-62399826)
+- Aug 29 - [Try Stable Diffusion's Img2Img Mode](https://huggingface.co/spaces/huggingface/diffuse-the-rest)
+- Aug 28 - [PostgreSQL 15: Stats Collector Gone? What’s New?](https://www.percona.com/blog/postgresql-15-stats-collector-gone-whats-new/)
 - Aug 28 - [Tetsuji: Remote Code Execution on a GameBoy Colour 22 Years Later](https://xcellerator.github.io/posts/tetsuji/)
 - Aug 28 - [GitHub Does Dotfiles](https://dotfiles.github.io/)
-- Aug 28 - [Wizz Air now charging some travellers a strange extra fee (2020)](https://thepointsguy.co.uk/news/wizz-air-ad-blocking-fee/)
-- Aug 28 - [Denver Startup Week Is Coming Up in September](https://www.denverstartupweek.org/)
-- Aug 28 - [Could long Covid be linked to herpes viruses? Early data offer a hint](https://www.nature.com/articles/d41586-022-02296-5)
 <!--END_SECTION:hn-->
 
 <!--
