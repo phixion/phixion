@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 29 - [The Silent Majority in Software](https://vadimkravcenko.com/shorts/the-silent-majority/)
-- Aug 29 - [Try Stable Diffusion's Img2Img Mode](https://huggingface.co/spaces/huggingface/diffuse-the-rest)
-- Aug 28 - [Ask HN: Is there a developer laptop that does not suck and is not a Mac in 2022?](https://news.ycombinator.com/item?id=32632720)
-- Aug 28 - [PostgreSQL 15: Stats Collector Gone? What’s New?](https://www.percona.com/blog/postgresql-15-stats-collector-gone-whats-new/)
-- Aug 28 - [Tetsuji: Remote Code Execution on a GameBoy Colour 22 Years Later](https://xcellerator.github.io/posts/tetsuji/)
+- Aug 29 - [Why Hacker News Is a Masterpiece](https://thesumup.substack.com/p/hacker-news-is-a-masterpiece)
+- Aug 29 - [OCaml at First Glance](https://batsov.com/articles/2022/08/29/ocaml-at-first-glance/)
+- Aug 29 - [Google cracks down on VPN based adblockers](https://community.blokada.org/t/google-cracks-down-on-vpn-based-adblockers/26110)
+- Aug 29 - [Ferret: A functional, lazy language for realtime embedded control systems](https://ferret-lang.org/)
+- Aug 29 - [A handy guide to financial support for open source](https://github.com/nayafia/lemonade-stand)
 <!--END_SECTION:hn-->
 
 <!--
