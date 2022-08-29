@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 29 - [Why Hacker News Is a Masterpiece](https://thesumup.substack.com/p/hacker-news-is-a-masterpiece)
-- Aug 29 - [OCaml at First Glance](https://batsov.com/articles/2022/08/29/ocaml-at-first-glance/)
-- Aug 29 - [Google cracks down on VPN based adblockers](https://community.blokada.org/t/google-cracks-down-on-vpn-based-adblockers/26110)
-- Aug 29 - [Ferret: A functional, lazy language for realtime embedded control systems](https://ferret-lang.org/)
-- Aug 29 - [A handy guide to financial support for open source](https://github.com/nayafia/lemonade-stand)
+- Aug 29 - [Image generation ethics: Will you be an AI vegan?](https://simonwillison.net/2022/Aug/29/stable-diffusion/#ai-vegan)
+- Aug 29 - [Is SLS Worth the Cost?](https://www.space.com/artemis-1-space-launch-system-rocket-cost)
+- Aug 29 - [Large scale Internet SSH brute force attacks seem to have stopped here](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHBruteForceAttacksNoMoreHere)
+- Aug 29 - [Rewriting my blog in Rust for fun and profit](https://www.jonashietala.se/blog/2022/08/29/rewriting_my_blog_in_rust_for_fun_and_profit/)
+- Aug 29 - [Silicon Values](https://pxlnv.com/blog/silicon-values/)
 <!--END_SECTION:hn-->
 
 <!--
