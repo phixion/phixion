@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 29 - [Image generation ethics: Will you be an AI vegan?](https://simonwillison.net/2022/Aug/29/stable-diffusion/#ai-vegan)
-- Aug 29 - [Is SLS Worth the Cost?](https://www.space.com/artemis-1-space-launch-system-rocket-cost)
-- Aug 29 - [Large scale Internet SSH brute force attacks seem to have stopped here](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHBruteForceAttacksNoMoreHere)
-- Aug 29 - [Rewriting my blog in Rust for fun and profit](https://www.jonashietala.se/blog/2022/08/29/rewriting_my_blog_in_rust_for_fun_and_profit/)
-- Aug 29 - [Silicon Values](https://pxlnv.com/blog/silicon-values/)
+- Aug 29 - [Alpaca – Stable Diffusion Plugin for Photoshop](https://www.getalpaca.io/)
+- Aug 29 - [Run Stable Diffusion on Intel CPUs](https://github.com/bes-dev/stable_diffusion.openvino)
+- Aug 29 - [Scientists, Not Doing Science](https://noahcarl.substack.com/p/scientists-not-doing-science)
+- Aug 29 - [Are GPUs Worth It for ML?](https://exafunction.com/blog/are-gpus-worth-it)
+- Aug 29 - [The Big [Censored] Theory](https://pudding.cool/2022/08/censorship/)
 <!--END_SECTION:hn-->
 
 <!--
