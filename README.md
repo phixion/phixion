@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 30 - [Terra (YC W21) Is Hiring for Operations in London (UK)](https://www.ycombinator.com/companies/terra/jobs/1A5lpBT-operations)
-- Aug 30 - [Show HN: Ubähnchen – Animated subway map of Berlin](https://xn--ubhnchen-1za.vercel.app/)
-- Aug 30 - [Tips for Developers Who Want to Build a SaaS Startup](https://news.ycombinator.com/item?id=32647091)
-- Aug 30 - [How to Nationalize the Internet in Canada](https://anarc.at/blog/2022-08-26-nationalize-internet/)
-- Aug 30 - [Packed structs in Zig make bit/flag sets trivial](https://devlog.hexops.com/2022/packed-structs-in-zig/)
+- Aug 30 - [Pachyderm Is Hiring Go Distributed Systems and Testing Engineers](https://www.pachyderm.com/careers/#positions)
+- Aug 30 - [Observations from our Joe Rogan Experience experience](https://lulu.substack.com/p/joe-rogan-has-a-werewolf)
+- Aug 30 - [Ask HN: How do you get side gigs?](https://news.ycombinator.com/item?id=32648956)
+- Aug 30 - [Telegram is asking german users when to share information with law enforcement](https://news.ycombinator.com/item?id=32648801)
+- Aug 30 - [50 years Smalltalk anniversary celebration at Computer History Museum](https://computerhistory.org/events/making-smalltalk/)
 <!--END_SECTION:hn-->
 
 <!--
