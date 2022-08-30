@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 30 - [Pachyderm Is Hiring Go Distributed Systems and Testing Engineers](https://www.pachyderm.com/careers/#positions)
-- Aug 30 - [Observations from our Joe Rogan Experience experience](https://lulu.substack.com/p/joe-rogan-has-a-werewolf)
-- Aug 30 - [Ask HN: How do you get side gigs?](https://news.ycombinator.com/item?id=32648956)
-- Aug 30 - [Telegram is asking german users when to share information with law enforcement](https://news.ycombinator.com/item?id=32648801)
-- Aug 30 - [50 years Smalltalk anniversary celebration at Computer History Museum](https://computerhistory.org/events/making-smalltalk/)
+- Aug 30 - [4.2 Gigabytes, Or: How to Draw Anything](https://andys.page/posts/how-to-draw/)
+- Aug 30 - [Converting a fisheye image into a panoramic, spherical or perspective projection](http://paulbourke.net/dome/fish2/)
+- Aug 30 - [ARM Pointer Authentication [2017]](https://lwn.net/Articles/718888/)
+- Aug 30 - [Show HN: EthicalAds – Privacy-first ad network for developers](https://www.ethicalads.io)
+- Aug 30 - [REPL Driven Minecraft](https://www.juxt.pro/blog/repl-driven-minecraft)
 <!--END_SECTION:hn-->
 
 <!--
