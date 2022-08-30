@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 30 - [4.2 Gigabytes, Or: How to Draw Anything](https://andys.page/posts/how-to-draw/)
-- Aug 30 - [Converting a fisheye image into a panoramic, spherical or perspective projection](http://paulbourke.net/dome/fish2/)
-- Aug 30 - [ARM Pointer Authentication [2017]](https://lwn.net/Articles/718888/)
-- Aug 30 - [Show HN: EthicalAds – Privacy-first ad network for developers](https://www.ethicalads.io)
-- Aug 30 - [REPL Driven Minecraft](https://www.juxt.pro/blog/repl-driven-minecraft)
+- Aug 30 - [Show HN: AutoHotkey for Linux](https://github.com/phil294/AHK_X11)
+- Aug 30 - [The PC and Internet Revolution in Rural America](https://changelog.complete.org/archives/10417-the-pc-internet-revolution-in-rural-america)
+- Aug 30 - [A simple paint job can save birds from wind turbines](https://www.anthropocenemagazine.org/2020/09/a-simple-paint-job-can-save-birds-from-wind-turbines/)
+- Aug 30 - [Want to build hardware for agriculture? Get supply chain resilient](https://www.hardwarethings.org/features/supply-chain-resilience-agritech-hardware)
+- Aug 30 - [Show HN: A short sci-fi story written with GPT-3 and illustrated with DALL-E 2](https://news.ycombinator.com/item?id=32652673)
 <!--END_SECTION:hn-->
 
 <!--
