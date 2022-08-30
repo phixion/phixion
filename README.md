@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 29 - [Alpaca – Stable Diffusion Plugin for Photoshop](https://www.getalpaca.io/)
-- Aug 29 - [Run Stable Diffusion on Intel CPUs](https://github.com/bes-dev/stable_diffusion.openvino)
-- Aug 29 - [Scientists, Not Doing Science](https://noahcarl.substack.com/p/scientists-not-doing-science)
-- Aug 29 - [Are GPUs Worth It for ML?](https://exafunction.com/blog/are-gpus-worth-it)
-- Aug 29 - [The Big [Censored] Theory](https://pudding.cool/2022/08/censorship/)
+- Aug 29 - [Python library for univariate regression, interpolation, and smoothing](https://github.com/brendanartley/Regressio)
+- Aug 29 - [Why are you so busy?](https://tomlingham.com/articles/why-are-you-so-busy/)
+- Aug 29 - [Why DALL-E will not steal my job as an illustrator](https://emmanuel6.medium.com/why-dall-e-will-not-steal-my-job-6a1e2943cb82)
+- Aug 29 - [Stable Diffusion Textual Inversion](https://github.com/hlky/sd-enable-textual-inversion)
+- Aug 29 - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 <!--END_SECTION:hn-->
 
 <!--
