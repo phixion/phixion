@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 31 - [Tab (YC W15) Is Hiring a Lead Developer in London](https://tab.recruitee.com/o/lead-developer)
-- Aug 31 - [Company Tells Employees: Work ‘Voluntary’ Overtime or Go to Jail](https://www.vice.com/en/article/m7g7wa/company-tells-employees-work-voluntary-overtime-or-go-to-jail)
-- Aug 31 - [How to offer effective free trials](https://upollo.ai/blog/effective-trials)
-- Aug 31 - [Show HN: Investorsexchange.jl – parse trade-level stock market data in Julia](https://github.com/lukemerrick/InvestorsExchange.jl)
-- Aug 31 - [Stable Diffusion Animation](https://replicate.com/andreasjansson/stable-diffusion-animation)
+- Aug 31 - [Ask HN: For those using Stable Diffusion locally, how do you filter fishy repos?](https://news.ycombinator.com/item?id=32660957)
+- Aug 31 - [Lambda the Ultimate is now running in a new, more stable environment](http://lambda-the-ultimate.org/node/5654)
+- Aug 31 - [Tell HN: HN London Meetup](https://news.ycombinator.com/item?id=32660447)
+- Aug 31 - [Want to found a startup? Work at one first](https://blog.lawrencejones.dev/learn-at-scale-up/)
+- Aug 31 - [Busy Beaver Updates: Now Even Busier](https://scottaaronson.blog/?p=6673)
 <!--END_SECTION:hn-->
 
 <!--
