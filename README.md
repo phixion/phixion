@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 31 - [Software Engineering Research Questions](https://neverworkintheory.org/2022/08/30/software-engineering-research-questions.html)
-- Aug 31 - [Historical patterns and sustainability implications of worldwide bicycle use](https://www.nature.com/articles/s43247-022-00497-4)
-- Aug 31 - [Visual Studio Code is designed to fracture](https://ghuntley.com/fracture/)
-- Aug 31 - [HashiCorp’s Multi-Product Strategy for Taking over a $630B Industry](https://foundationinc.co/lab/hashicorp-product-led-growth)
-- Aug 31 - [DJI Drone Flies over the Top of Mount Everest](https://dronexl.co/2022/08/22/dji-mavic-3-flies-over-mount-everest/)
+- Aug 31 - [Tab (YC W15) Is Hiring a Lead Developer in London](https://tab.recruitee.com/o/lead-developer)
+- Aug 31 - [Company Tells Employees: Work ‘Voluntary’ Overtime or Go to Jail](https://www.vice.com/en/article/m7g7wa/company-tells-employees-work-voluntary-overtime-or-go-to-jail)
+- Aug 31 - [How to offer effective free trials](https://upollo.ai/blog/effective-trials)
+- Aug 31 - [Show HN: Investorsexchange.jl – parse trade-level stock market data in Julia](https://github.com/lukemerrick/InvestorsExchange.jl)
+- Aug 31 - [Stable Diffusion Animation](https://replicate.com/andreasjansson/stable-diffusion-animation)
 <!--END_SECTION:hn-->
 
 <!--
