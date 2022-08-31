@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 31 - [Ask HN: For those using Stable Diffusion locally, how do you filter fishy repos?](https://news.ycombinator.com/item?id=32660957)
-- Aug 31 - [Lambda the Ultimate is now running in a new, more stable environment](http://lambda-the-ultimate.org/node/5654)
-- Aug 31 - [Tell HN: HN London Meetup](https://news.ycombinator.com/item?id=32660447)
-- Aug 31 - [Want to found a startup? Work at one first](https://blog.lawrencejones.dev/learn-at-scale-up/)
-- Aug 31 - [Busy Beaver Updates: Now Even Busier](https://scottaaronson.blog/?p=6673)
+- Aug 31 - [Final Thoughts on Ubiquiti](https://krebsonsecurity.com/2022/08/final-thoughts-on-ubiquiti/)
+- Aug 31 - [Pakistan's floods have created 100km-wide inland lake, satellite images](https://www.cnn.com/2022/08/31/asia/pakistan-floods-forms-inland-lake-satellite-intl-hnk/index.html)
+- Aug 31 - [Snap Inc lays off 20% of employees](https://www.theverge.com/2022/8/31/23330123/snap-layoffs-announced-original-shows-canceled-games-mini-apps)
+- Aug 31 - [Inter-brain sync occurs without physical copresence during online gaming](https://www.sciencedirect.com/science/article/pii/S0028393222001750)
+- Aug 31 - [Google blocked my Chrome extension so I created a website to host it](https://extensionhub.site/)
 <!--END_SECTION:hn-->
 
 <!--
