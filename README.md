@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 30 - [Show HN: AutoHotkey for Linux](https://github.com/phil294/AHK_X11)
-- Aug 30 - [The PC and Internet Revolution in Rural America](https://changelog.complete.org/archives/10417-the-pc-internet-revolution-in-rural-america)
-- Aug 30 - [A simple paint job can save birds from wind turbines](https://www.anthropocenemagazine.org/2020/09/a-simple-paint-job-can-save-birds-from-wind-turbines/)
-- Aug 30 - [Want to build hardware for agriculture? Get supply chain resilient](https://www.hardwarethings.org/features/supply-chain-resilience-agritech-hardware)
-- Aug 30 - [Show HN: A short sci-fi story written with GPT-3 and illustrated with DALL-E 2](https://news.ycombinator.com/item?id=32652673)
+- Aug 30 - [Google Colab Pro is switching to compute credits](https://news.ycombinator.com/item?id=32656200)
+- Aug 30 - [C++ compiler can dynamically inline functions at runtime](https://github.com/drti)
+- Aug 30 - [Royal Caribbean to use SpaceX's Starlink to provide internet onboard their fleet](https://www.rclinvestor.com/press-releases/release/)
+- Aug 30 - [Exploring 12M of the 2.3B images used to train Stable Diffusion](https://waxy.org/2022/08/exploring-12-million-of-the-images-used-to-train-stable-diffusions-image-generator/)
+- Aug 30 - [Experimenters’ sex modulates mouse behaviors in ketamine trial](https://www.nature.com/articles/s41593-022-01146-x)
 <!--END_SECTION:hn-->
 
 <!--
