@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 31 - [Final Thoughts on Ubiquiti](https://krebsonsecurity.com/2022/08/final-thoughts-on-ubiquiti/)
-- Aug 31 - [Pakistan's floods have created 100km-wide inland lake, satellite images](https://www.cnn.com/2022/08/31/asia/pakistan-floods-forms-inland-lake-satellite-intl-hnk/index.html)
-- Aug 31 - [Snap Inc lays off 20% of employees](https://www.theverge.com/2022/8/31/23330123/snap-layoffs-announced-original-shows-canceled-games-mini-apps)
-- Aug 31 - [Inter-brain sync occurs without physical copresence during online gaming](https://www.sciencedirect.com/science/article/pii/S0028393222001750)
-- Aug 31 - [Google blocked my Chrome extension so I created a website to host it](https://extensionhub.site/)
+- Aug 31 - [Will California Eliminate Anonymous Web Browsing? (Comments on CA AB 2273)](https://blog.ericgoldman.org/archives/2022/06/will-california-eliminate-anonymous-web-browsing-comments-on-ca-ab-2273-the-age-appropriate-design-code-act.htm)
+- Aug 31 - [Cognitive Loads in Programming](https://rpeszek.github.io/posts/2022-08-30-code-cognitiveload.html)
+- Aug 31 - [Programming Cognitive Robots](https://www.cs.toronto.edu/~hector/pcr.html)
+- Aug 31 - [Want quick answers? Ask questions well](https://quick-answers.kronis.dev/)
+- Aug 31 - [A Simple Entity Component System](https://austinmorlan.com/posts/entity_component_system/)
 <!--END_SECTION:hn-->
 
 <!--
