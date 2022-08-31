@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 30 - [Google Colab Pro is switching to compute credits](https://news.ycombinator.com/item?id=32656200)
-- Aug 30 - [C++ compiler can dynamically inline functions at runtime](https://github.com/drti)
-- Aug 30 - [Royal Caribbean to use SpaceX's Starlink to provide internet onboard their fleet](https://www.rclinvestor.com/press-releases/release/)
-- Aug 30 - [Exploring 12M of the 2.3B images used to train Stable Diffusion](https://waxy.org/2022/08/exploring-12-million-of-the-images-used-to-train-stable-diffusions-image-generator/)
-- Aug 30 - [Experimenters’ sex modulates mouse behaviors in ketamine trial](https://www.nature.com/articles/s41593-022-01146-x)
+- Aug 31 - [Software Engineering Research Questions](https://neverworkintheory.org/2022/08/30/software-engineering-research-questions.html)
+- Aug 31 - [Historical patterns and sustainability implications of worldwide bicycle use](https://www.nature.com/articles/s43247-022-00497-4)
+- Aug 31 - [Visual Studio Code is designed to fracture](https://ghuntley.com/fracture/)
+- Aug 31 - [HashiCorp’s Multi-Product Strategy for Taking over a $630B Industry](https://foundationinc.co/lab/hashicorp-product-led-growth)
+- Aug 31 - [DJI Drone Flies over the Top of Mount Everest](https://dronexl.co/2022/08/22/dji-mavic-3-flies-over-mount-everest/)
 <!--END_SECTION:hn-->
 
 <!--
