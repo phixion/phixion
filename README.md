@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 31 - [Will California Eliminate Anonymous Web Browsing? (Comments on CA AB 2273)](https://blog.ericgoldman.org/archives/2022/06/will-california-eliminate-anonymous-web-browsing-comments-on-ca-ab-2273-the-age-appropriate-design-code-act.htm)
-- Aug 31 - [Cognitive Loads in Programming](https://rpeszek.github.io/posts/2022-08-30-code-cognitiveload.html)
-- Aug 31 - [Programming Cognitive Robots](https://www.cs.toronto.edu/~hector/pcr.html)
-- Aug 31 - [Want quick answers? Ask questions well](https://quick-answers.kronis.dev/)
-- Aug 31 - [A Simple Entity Component System](https://austinmorlan.com/posts/entity_component_system/)
+- Aug 31 - [Show HN: Encrypted Git hosting should be easy](https://github.com/nathants/git-remote-aws)
+- Aug 31 - [Ask HN: How to design database schema for usage based billing?](https://news.ycombinator.com/item?id=32669344)
+- Aug 31 - [US Government Bans Export of Nvidia A100 and H100 GPUs to China and Russia](https://www.sec.gov/ix?doc=/Archives/edgar/data/1045810/000104581022000146/nvda-20220826.htm)
+- Aug 31 - [Ask HN: Anyone having issues with job applicant fraud?](https://news.ycombinator.com/item?id=32668694)
+- Aug 31 - [Dealing with the perfectionism trap as a developer](https://jebraat.com/blog/dealing-with-the-perfectionism-trap-as-a-developer)
 <!--END_SECTION:hn-->
 
 <!--
