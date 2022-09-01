@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 01 - [SBX Robotics (YC W21) Is Hiring Techincal Artists in Toronto [Remote]](https://www.linkedin.com/jobs/view/3184745474/)
-- Sep 01 - [Arm sues Qualcomm, aiming to unwind Qualcomm's $1.4B Nuvia purchase](https://www.reuters.com/legal/chips-tech-firm-arm-sues-qualcomm-nuvia-breach-license-trademark-2022-08-31/)
-- Sep 01 - [Ask HN: Are authors of “how to be great developer” blogs great developers?](https://news.ycombinator.com/item?id=32674479)
-- Sep 01 - [Avoiding space leaks at all costs](https://kodimensional.dev/space-leak)
-- Sep 01 - [Everything is an input device (fun with barcodes)](https://media.ccc.de/v/mch2022-254-everything-is-an-input-device-fun-with-barcodes-)
+- Sep 01 - [Will I Ever See the $36MM Oberlin College Owes Me?](https://www.commonsense.news/p/will-i-ever-see-the-36-million-oberlin)
+- Sep 01 - [The Portuguese Can No Longer Afford to Live in Portugal](https://medium.com/the-portuguese/the-portuguese-can-no-longer-afford-to-live-in-portugal-or-even-survive-eaa8fdffc4b9)
+- Sep 01 - [Ask HN: Who is hiring? (September 2022)](https://news.ycombinator.com/item?id=32677265)
+- Sep 01 - [Ask HN: Freelancer? Seeking freelancer? (September 2022)](https://news.ycombinator.com/item?id=32677264)
+- Sep 01 - [Kagi/Orion status update: First three months](https://blog.kagi.com/status-update-first-three-months)
 <!--END_SECTION:hn-->
 
 <!--
