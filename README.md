@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 01 - [What does Google say about “last day of march 2022”](https://www.google.com/search?q=last+day+of+march+2022)
-- Sep 01 - [Compressing Images with Stable Diffusion](https://www.stavros.io/posts/compressing-images-with-stable-diffusion/)
-- Sep 01 - [An acoustic study of domestic cat meows in 6 contexts and 4 mental states](https://peerj.com/preprints/27926/)
-- Sep 01 - [Random Google Street View](https://randomstreetview.com/)
-- Sep 01 - [The Dictatorship of the Articulate](https://florentcrivello.com/index.php/2022/09/01/the-dictatorship-of-the-articulate/)
+- Sep 01 - [Our Collective Synesthesia, in Graphs](https://aella.substack.com/p/our-collective-synesthesia-in-graphs)
+- Sep 01 - [Crypto Dev Enters Wrong Command, Destroys Entire Company](https://medium.com/@OptiFi/optifi-program-incident-report-08-29-22-d8fe6d229bad)
+- Sep 01 - [Generally Intelligent (YC S17) Is Hiring Remote Machine Learning Engineers](https://news.ycombinator.com/item?id=32672970)
+- Sep 01 - [AI wins state fair art contest, annoys humans](https://arstechnica.com/information-technology/2022/08/ai-wins-state-fair-art-contest-annoys-humans/)
+- Sep 01 - [Google employee resigns after ‘retaliation’ for protesting Israeli contract](https://www.timesofisrael.com/jewish-google-employee-resigns-after-retaliation-for-protesting-israeli-contract/)
 <!--END_SECTION:hn-->
 
 <!--
