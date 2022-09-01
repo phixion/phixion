@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 01 - [Our Collective Synesthesia, in Graphs](https://aella.substack.com/p/our-collective-synesthesia-in-graphs)
-- Sep 01 - [Crypto Dev Enters Wrong Command, Destroys Entire Company](https://medium.com/@OptiFi/optifi-program-incident-report-08-29-22-d8fe6d229bad)
-- Sep 01 - [Generally Intelligent (YC S17) Is Hiring Remote Machine Learning Engineers](https://news.ycombinator.com/item?id=32672970)
-- Sep 01 - [AI wins state fair art contest, annoys humans](https://arstechnica.com/information-technology/2022/08/ai-wins-state-fair-art-contest-annoys-humans/)
-- Sep 01 - [Google employee resigns after ‘retaliation’ for protesting Israeli contract](https://www.timesofisrael.com/jewish-google-employee-resigns-after-retaliation-for-protesting-israeli-contract/)
+- Sep 01 - [SBX Robotics (YC W21) Is Hiring Techincal Artists in Toronto [Remote]](https://www.linkedin.com/jobs/view/3184745474/)
+- Sep 01 - [Arm sues Qualcomm, aiming to unwind Qualcomm's $1.4B Nuvia purchase](https://www.reuters.com/legal/chips-tech-firm-arm-sues-qualcomm-nuvia-breach-license-trademark-2022-08-31/)
+- Sep 01 - [Ask HN: Are authors of “how to be great developer” blogs great developers?](https://news.ycombinator.com/item?id=32674479)
+- Sep 01 - [Avoiding space leaks at all costs](https://kodimensional.dev/space-leak)
+- Sep 01 - [Everything is an input device (fun with barcodes)](https://media.ccc.de/v/mch2022-254-everything-is-an-input-device-fun-with-barcodes-)
 <!--END_SECTION:hn-->
 
 <!--
