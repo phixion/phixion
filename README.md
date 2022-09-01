@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 01 - [Will I Ever See the $36MM Oberlin College Owes Me?](https://www.commonsense.news/p/will-i-ever-see-the-36-million-oberlin)
-- Sep 01 - [The Portuguese Can No Longer Afford to Live in Portugal](https://medium.com/the-portuguese/the-portuguese-can-no-longer-afford-to-live-in-portugal-or-even-survive-eaa8fdffc4b9)
-- Sep 01 - [Ask HN: Who is hiring? (September 2022)](https://news.ycombinator.com/item?id=32677265)
-- Sep 01 - [Ask HN: Freelancer? Seeking freelancer? (September 2022)](https://news.ycombinator.com/item?id=32677264)
-- Sep 01 - [Kagi/Orion status update: First three months](https://blog.kagi.com/status-update-first-three-months)
+- Sep 01 - [How military operations get their code names (2011)](https://www.mentalfloss.com/article/28711/how-military-operations-get-their-code-names)
+- Sep 01 - [macOS now scans for malware whenever it gets a chance](https://eclecticlight.co/2022/08/30/macos-now-scans-for-malware-whenever-it-gets-a-chance/)
+- Sep 01 - [Forms should be apps: Why I'm building Component](https://blog.usecomponent.com/forms-should-be-apps-why-component-exists/)
+- Sep 01 - [Customer who defamed BC company on Google, Yelp ordered to pay $90k](https://vancouversun.com/news/local-news/customer-who-defamed-company-on-google-and-yelp-ordered-to-pay-90000)
+- Sep 01 - [High Contrast Imaging of the Exoplanet HIP 65426 b from 2-16 μm](https://arxiv.org/abs/2208.14990)
 <!--END_SECTION:hn-->
 
 <!--
