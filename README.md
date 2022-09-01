@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 31 - [Show HN: Encrypted Git hosting should be easy](https://github.com/nathants/git-remote-aws)
-- Aug 31 - [Ask HN: How to design database schema for usage based billing?](https://news.ycombinator.com/item?id=32669344)
-- Aug 31 - [US Government Bans Export of Nvidia A100 and H100 GPUs to China and Russia](https://www.sec.gov/ix?doc=/Archives/edgar/data/1045810/000104581022000146/nvda-20220826.htm)
-- Aug 31 - [Ask HN: Anyone having issues with job applicant fraud?](https://news.ycombinator.com/item?id=32668694)
-- Aug 31 - [Dealing with the perfectionism trap as a developer](https://jebraat.com/blog/dealing-with-the-perfectionism-trap-as-a-developer)
+- Sep 01 - [What does Google say about “last day of march 2022”](https://www.google.com/search?q=last+day+of+march+2022)
+- Sep 01 - [Compressing Images with Stable Diffusion](https://www.stavros.io/posts/compressing-images-with-stable-diffusion/)
+- Sep 01 - [An acoustic study of domestic cat meows in 6 contexts and 4 mental states](https://peerj.com/preprints/27926/)
+- Sep 01 - [Random Google Street View](https://randomstreetview.com/)
+- Sep 01 - [The Dictatorship of the Articulate](https://florentcrivello.com/index.php/2022/09/01/the-dictatorship-of-the-articulate/)
 <!--END_SECTION:hn-->
 
 <!--
