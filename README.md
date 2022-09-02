@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 02 - [Ribbon Health (YC S17) hiring values-driven Engineers to help patients find care](https://www.ribbonhealth.com/blog/how-ribbons-value-driven-tech-philosophy-helps-patients-find-care/)
-- Sep 02 - [White House Bans Paywalls on Taxpayer-Funded Research](https://www.extremetech.com/extreme/339162-white-house-bans-paywalls-on-taxpayer-funded-research)
-- Sep 02 - [Help Improve Gnome](https://blogs.gnome.org/aday/2022/08/25/help-improve-gnome/)
-- Sep 02 - [California asks people not to charge EVs during heatwave](https://www.theregister.com/2022/09/01/california_ev_heatwave/)
-- Sep 02 - [Animating Prompts with Stable Diffusion](https://replicate.com/deforum/deforum_stable_diffusion/examples#cccjscm6w5cindhifcn5xc5sdm)
+- Sep 02 - [Intel details 12th Gen Core SoCs optimized for edge applications](https://www.theregister.com/2022/09/02/intel_details_12th_gen_core/)
+- Sep 02 - [Ask HN: How do startups/lean teams successfully handle mat/pat leave?](https://news.ycombinator.com/item?id=32692016)
+- Sep 02 - [OpenBSD may soon gain further memory protections: immutable userland mappings](https://undeadly.org/cgi?action=article;sid=20220902100648)
+- Sep 02 - [Using a Raspberry Pi as a Bluetooth Speaker with PipeWire](https://www.collabora.com/news-and-blog/blog/2022/09/02/using-a-raspberry-pi-as-a-bluetooth-speaker-with-pipewire-wireplumber/)
+- Sep 02 - [Spain launches free train tickets for short and medium journeys from Sept to Dec](https://www.euronews.com/travel/2022/09/01/spain-short-and-medium-distance-trains-will-be-free-this-autumn-thanks-to-a-windfall-tax)
 <!--END_SECTION:hn-->
 
 <!--
