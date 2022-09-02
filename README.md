@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 01 - [How military operations get their code names (2011)](https://www.mentalfloss.com/article/28711/how-military-operations-get-their-code-names)
-- Sep 01 - [macOS now scans for malware whenever it gets a chance](https://eclecticlight.co/2022/08/30/macos-now-scans-for-malware-whenever-it-gets-a-chance/)
-- Sep 01 - [Forms should be apps: Why I'm building Component](https://blog.usecomponent.com/forms-should-be-apps-why-component-exists/)
-- Sep 01 - [Customer who defamed BC company on Google, Yelp ordered to pay $90k](https://vancouversun.com/news/local-news/customer-who-defamed-company-on-google-and-yelp-ordered-to-pay-90000)
-- Sep 01 - [High Contrast Imaging of the Exoplanet HIP 65426 b from 2-16 μm](https://arxiv.org/abs/2208.14990)
+- Sep 01 - [Notes on the SQLite DuckDB Paper](https://simonwillison.net/2022/Sep/1/sqlite-duckdb-paper/)
+- Sep 01 - [Framework is now available in Australia](https://frame.work/au/en)
+- Sep 01 - [Not Your Grandmother's Textbook Exercise](https://cacm.acm.org/blogs/blog-cacm/264263-not-your-grandmothers-textbook-exercise/fulltext)
+- Sep 01 - [We clone a running VM in 2 seconds](https://codesandbox.io/post/how-we-clone-a-running-vm-in-2-seconds)
+- Sep 01 - [USB 4 version 2 promises 80 Gbps speeds over existing cables](https://www.theverge.com/2022/9/1/23332838/usb-4-version-2-80-gbps-thunderbolt)
 <!--END_SECTION:hn-->
 
 <!--
