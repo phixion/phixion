@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 02 - [Why Instagram Is Dying: We Asked 100 Gen Z Users to Compare TikTok vs. Reels](https://www.surgehq.ai//blog/tiktok-vs-instagram-reels-personalized-human-evaluation)
+- Sep 02 - [Responding to recruiter emails with GPT-3](https://matthewbilyeu.com/blog/2022-09-01/responding-to-recruiter-emails-with-gpt-3)
+- Sep 02 - [Why bother with warrants when cops can buy location data for under $10k?](https://www.theregister.com/2022/09/01/eff_fog_data_broker/)
 - Sep 01 - [Notes on the SQLite DuckDB Paper](https://simonwillison.net/2022/Sep/1/sqlite-duckdb-paper/)
 - Sep 01 - [Framework is now available in Australia](https://frame.work/au/en)
-- Sep 01 - [Not Your Grandmother's Textbook Exercise](https://cacm.acm.org/blogs/blog-cacm/264263-not-your-grandmothers-textbook-exercise/fulltext)
-- Sep 01 - [We clone a running VM in 2 seconds](https://codesandbox.io/post/how-we-clone-a-running-vm-in-2-seconds)
-- Sep 01 - [USB 4 version 2 promises 80 Gbps speeds over existing cables](https://www.theverge.com/2022/9/1/23332838/usb-4-version-2-80-gbps-thunderbolt)
 <!--END_SECTION:hn-->
 
 <!--
