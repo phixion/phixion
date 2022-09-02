@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 02 - [Why Instagram Is Dying: We Asked 100 Gen Z Users to Compare TikTok vs. Reels](https://www.surgehq.ai//blog/tiktok-vs-instagram-reels-personalized-human-evaluation)
-- Sep 02 - [Responding to recruiter emails with GPT-3](https://matthewbilyeu.com/blog/2022-09-01/responding-to-recruiter-emails-with-gpt-3)
-- Sep 02 - [Why bother with warrants when cops can buy location data for under $10k?](https://www.theregister.com/2022/09/01/eff_fog_data_broker/)
-- Sep 01 - [Notes on the SQLite DuckDB Paper](https://simonwillison.net/2022/Sep/1/sqlite-duckdb-paper/)
-- Sep 01 - [Framework is now available in Australia](https://frame.work/au/en)
+- Sep 02 - [Germany pushes for ‘pay as you fly’ model](https://www.businesstravelnewseurope.com/Air-Travel/Germany-pushes-for-pay-as-you-fly-model)
+- Sep 02 - [Cops wanted to keep mass surveillance app secret; privacy advocates refused](https://arstechnica.com/tech-policy/2022/09/cops-wanted-to-keep-mass-surveillance-app-secret-privacy-advocates-refused/)
+- Sep 02 - [Trending tabs are being deprecated due to low usage](https://github.com/community/community/discussions/31644)
+- Sep 02 - [Show HN: Countle](https://www.countle.org)
+- Sep 02 - [Evaluation of TikTok vs. Instagram Reels](https://www.surgehq.ai//blog/tiktok-vs-instagram-reels-personalized-human-evaluation)
 <!--END_SECTION:hn-->
 
 <!--
