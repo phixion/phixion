@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 02 - [Intel details 12th Gen Core SoCs optimized for edge applications](https://www.theregister.com/2022/09/02/intel_details_12th_gen_core/)
-- Sep 02 - [Ask HN: How do startups/lean teams successfully handle mat/pat leave?](https://news.ycombinator.com/item?id=32692016)
-- Sep 02 - [OpenBSD may soon gain further memory protections: immutable userland mappings](https://undeadly.org/cgi?action=article;sid=20220902100648)
-- Sep 02 - [Using a Raspberry Pi as a Bluetooth Speaker with PipeWire](https://www.collabora.com/news-and-blog/blog/2022/09/02/using-a-raspberry-pi-as-a-bluetooth-speaker-with-pipewire-wireplumber/)
-- Sep 02 - [Spain launches free train tickets for short and medium journeys from Sept to Dec](https://www.euronews.com/travel/2022/09/01/spain-short-and-medium-distance-trains-will-be-free-this-autumn-thanks-to-a-windfall-tax)
+- Sep 02 - [USB4 v2 is also 120 Gbps](https://www.angstronomics.com/p/usb4-v2)
+- Sep 02 - [Birds Changed Their Tune During the Pandemic](https://www.atlasobscura.com/articles/bird-songs-changed-pandemic)
+- Sep 02 - [Why have I never heard of the Ene-Farm? (2017)](https://earthbound.report/2017/08/11/why-have-i-never-heard-of-the-ene-farm/)
+- Sep 02 - [Making Iron from Sand](https://www.youtube.com/watch?v=OPIUMpiV0IY)
+- Sep 02 - [Hacker Stations – Tech workspace setups to get inspiration from](https://hackerstations.com)
 <!--END_SECTION:hn-->
 
 <!--
