@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 03 - [Tesorio raised a Series B and is hiring a Sr Front end Engineer and Support Engineer](https://www.tesorio.com/careers#job-openings)
-- Sep 03 - [Israeli rules say West Bank visitors must declare love interest](https://www.bbc.com/news/world-middle-east-62730164)
-- Sep 03 - [Tell HN: The 10-bit timers are about to overflow on September 17th](https://news.ycombinator.com/item?id=32700184)
-- Sep 03 - [Peter Eckersley has died](https://community.letsencrypt.org/t/peter-eckersley-may-his-memory-be-a-blessing/183854)
-- Sep 03 - [IMDB deleted all negative user reviews for The Rings of Power](https://old.reddit.com/r/lotr/comments/x46870/imdb_have_deleted_all_the_negative_reviews_for/)
+- Sep 03 - [Artemis I Launch Attempt Scrubbed](https://blogs.nasa.gov/artemis/2022/09/03/artemis-i-launch-attempt-scrubbed/)
+- Sep 03 - [NASA – Artemis I – Liquid Hydrogen Leak Detected Once Again](https://blogs.nasa.gov/artemis/2022/09/03/liquid-hydrogen-leak-detected-once-again/)
+- Sep 03 - [Amazon's Global Quest to Crush Unions](https://newrepublic.com/maz/article/167263/amazons-global-quest-crush-unions)
+- Sep 03 - [Lenovo’s Glasses T1 let you bring a private big screen display with you](https://www.theverge.com/2022/9/1/23332907/lenovo-glasses-t1-yoga-smart-display-ifa)
+- Sep 03 - [Show HN: I made a site for 100% location independent jobs](https://www.realworkfromanywhere.com/)
 <!--END_SECTION:hn-->
 
 <!--
