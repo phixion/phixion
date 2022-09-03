@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 03 - [Flexport is hiring smart people who want to work hard](https://flexport.com)
-- Sep 03 - [Ballmer Laughs at iPhone (2007)](https://www.youtube.com/watch?v=eywi0h_Y5_U)
-- Sep 03 - [GitHub backtracks on deprecating the trending tabs page](https://github.com/orgs/community/discussions/31644)
-- Sep 03 - [OpenStreetMap Shortest Route Finder](http://www.brouter.de/brouter-web/)
-- Sep 03 - [Nokia’s Burning Platform Memo (2011)](https://aaplinvestors.net/stats/iphone/nokiamemo/)
+- Sep 03 - [Tesorio raised a Series B and is hiring a Sr Front end Engineer and Support Engineer](https://www.tesorio.com/careers#job-openings)
+- Sep 03 - [Israeli rules say West Bank visitors must declare love interest](https://www.bbc.com/news/world-middle-east-62730164)
+- Sep 03 - [Tell HN: The 10-bit timers are about to overflow on September 17th](https://news.ycombinator.com/item?id=32700184)
+- Sep 03 - [Peter Eckersley has died](https://community.letsencrypt.org/t/peter-eckersley-may-his-memory-be-a-blessing/183854)
+- Sep 03 - [IMDB deleted all negative user reviews for The Rings of Power](https://old.reddit.com/r/lotr/comments/x46870/imdb_have_deleted_all_the_negative_reviews_for/)
 <!--END_SECTION:hn-->
 
 <!--
