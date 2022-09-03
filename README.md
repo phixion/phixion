@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 02 - [USB4 v2 is also 120 Gbps](https://www.angstronomics.com/p/usb4-v2)
-- Sep 02 - [Birds Changed Their Tune During the Pandemic](https://www.atlasobscura.com/articles/bird-songs-changed-pandemic)
-- Sep 02 - [Why have I never heard of the Ene-Farm? (2017)](https://earthbound.report/2017/08/11/why-have-i-never-heard-of-the-ene-farm/)
-- Sep 02 - [Making Iron from Sand](https://www.youtube.com/watch?v=OPIUMpiV0IY)
-- Sep 02 - [Hacker Stations – Tech workspace setups to get inspiration from](https://hackerstations.com)
+- Sep 02 - [Fog Revealed: A Guided Tour of How Cops Can Browse Your Location Data](https://www.eff.org/deeplinks/2022/08/fog-revealed-guided-tour-how-cops-can-browse-your-location-data)
+- Sep 02 - [Show HN: SMS Interface for Stable Diffusion](https://news.ycombinator.com/item?id=32696866)
+- Sep 02 - [Infrastructure as Software](https://www.justingarrison.com/blog/2022-06-01-infrastructure-as-software/)
+- Sep 02 - [What would make AWS even better](https://yehudacohen.substack.com/p/what-would-make-aws-even-better)
+- Sep 02 - [Ask HN: Is Inflation Affecting You?](https://news.ycombinator.com/item?id=32696492)
 <!--END_SECTION:hn-->
 
 <!--
