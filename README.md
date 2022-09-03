@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 02 - [Fog Revealed: A Guided Tour of How Cops Can Browse Your Location Data](https://www.eff.org/deeplinks/2022/08/fog-revealed-guided-tour-how-cops-can-browse-your-location-data)
-- Sep 02 - [Show HN: SMS Interface for Stable Diffusion](https://news.ycombinator.com/item?id=32696866)
-- Sep 02 - [Infrastructure as Software](https://www.justingarrison.com/blog/2022-06-01-infrastructure-as-software/)
-- Sep 02 - [What would make AWS even better](https://yehudacohen.substack.com/p/what-would-make-aws-even-better)
-- Sep 02 - [Ask HN: Is Inflation Affecting You?](https://news.ycombinator.com/item?id=32696492)
+- Sep 03 - [GitHub backtracks on depreciating the trending tabs page](https://github.com/orgs/community/discussions/31644)
+- Sep 03 - [Nokia’s Burning Platform Memo](https://aaplinvestors.net/stats/iphone/nokiamemo/)
+- Sep 03 - [Science is political, and that's a bad thing](https://stuartritchie.substack.com/p/science-is-political)
+- Sep 03 - [AI is getting better at generating porn](https://techcrunch.com/2022/09/02/ai-is-getting-better-at-generating-porn-we-might-not-be-prepared-for-the-consequences/)
+- Sep 03 - [If You Want This Job, We Must Interview You Forever](https://www.newyorker.com/humor/daily-shouts/if-you-want-this-job-we-must-interview-you-forever)
 <!--END_SECTION:hn-->
 
 <!--
