@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 03 - [GitHub backtracks on depreciating the trending tabs page](https://github.com/orgs/community/discussions/31644)
-- Sep 03 - [Nokia’s Burning Platform Memo](https://aaplinvestors.net/stats/iphone/nokiamemo/)
-- Sep 03 - [Science is political, and that's a bad thing](https://stuartritchie.substack.com/p/science-is-political)
-- Sep 03 - [AI is getting better at generating porn](https://techcrunch.com/2022/09/02/ai-is-getting-better-at-generating-porn-we-might-not-be-prepared-for-the-consequences/)
-- Sep 03 - [If You Want This Job, We Must Interview You Forever](https://www.newyorker.com/humor/daily-shouts/if-you-want-this-job-we-must-interview-you-forever)
+- Sep 03 - [Flexport is hiring smart people who want to work hard](https://flexport.com)
+- Sep 03 - [Ballmer Laughs at iPhone (2007)](https://www.youtube.com/watch?v=eywi0h_Y5_U)
+- Sep 03 - [GitHub backtracks on deprecating the trending tabs page](https://github.com/orgs/community/discussions/31644)
+- Sep 03 - [OpenStreetMap Shortest Route Finder](http://www.brouter.de/brouter-web/)
+- Sep 03 - [Nokia’s Burning Platform Memo (2011)](https://aaplinvestors.net/stats/iphone/nokiamemo/)
 <!--END_SECTION:hn-->
 
 <!--
