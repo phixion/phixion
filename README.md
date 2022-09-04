@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 04 - [I ran the worlds largest DDoS-for-Hire empire and Cloudflare helped](https://rasbora.dev/blog/I-ran-the-worlds-largest-ddos-for-hire-empire-and-cloudflare-helped)
-- Sep 04 - [Stable Diffusion PR optimizes VRAM, generate 576x1280 images with 6 GB VRAM](https://github.com/basujindal/stable-diffusion/pull/103)
-- Sep 04 - [Tips and Tools for Text Mode Lovers](https://cli-ck.io/)
-- Sep 04 - [Ivy (YC W23) is hiring software engineers to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
-- Sep 04 - [Samsung Loses a Ton of User Data – Offers Nothing to Victims](https://www.makeuseof.com/samsung-data-breach-should-you-worry/)
+- Sep 04 - [Instagram Removes Pornhub's Account](https://variety.com/2022/digital/news/instagram-bans-pornhub-account-removed-1235359364/)
+- Sep 04 - [Why was western printing superior to Asian printing?](https://erikexamines.substack.com/p/why-was-western-printing-superior)
+- Sep 04 - [Running Stable Diffusion on Your GPU with Less Than 10Gb of VRAM](https://constant.meiring.nz/playing/2022/08/04/playing-with-stable-diffusion.html)
+- Sep 04 - [Some things to learn from the British East India Company's growth and demise](https://www.strangeloopcanon.com/p/some-things-to-learn-from-the-british)
+- Sep 04 - [Dear Oracle, Please Release the JavaScript Trademark](https://tinyclouds.org)
 <!--END_SECTION:hn-->
 
 <!--
