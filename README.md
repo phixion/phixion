@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 03 - [Turns out half the internet has a Single-Point-of-Failure called Cloudflare (2020)](https://easydns.com/blog/2020/07/20/turns-out-half-the-internet-has-a-single-point-of-failure-called-cloudflare/)
-- Sep 03 - [Blocking Kiwifarms](https://blog.cloudflare.com/kiwifarms-blocked/)
-- Sep 03 - [Less Is More Agile](https://beny23.github.io/posts/my_take_on_engineering_room_9/)
-- Sep 03 - [OneSignal (YC S11) just announced a $50M Series C and is hiring engineers](https://onesignal.com/careers)
-- Sep 03 - [The History of FoxPro: Interview with Wayne Ratliff](http://www.foxprohistory.org/interview_wayne_ratliff.htm)
+- Sep 04 - [I ran the worlds largest DDoS-for-Hire empire and Cloudflare helped](https://rasbora.dev/blog/I-ran-the-worlds-largest-ddos-for-hire-empire-and-cloudflare-helped)
+- Sep 04 - [Stable Diffusion PR optimizes VRAM, generate 576x1280 images with 6 GB VRAM](https://github.com/basujindal/stable-diffusion/pull/103)
+- Sep 04 - [Tips and Tools for Text Mode Lovers](https://cli-ck.io/)
+- Sep 04 - [Ivy (YC W23) is hiring software engineers to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
+- Sep 04 - [Samsung Loses a Ton of User Data – Offers Nothing to Victims](https://www.makeuseof.com/samsung-data-breach-should-you-worry/)
 <!--END_SECTION:hn-->
 
 <!--
