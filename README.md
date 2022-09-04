@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 03 - [DBOS: A Database-Oriented Operating System](https://dbos-project.github.io/blog/intro-blog.html)
-- Sep 03 - [Tavis Ormandy: Cloudflare lobbied FTC to stifle security researchers](https://twitter.com/taviso/status/1566077115992133634)
-- Sep 03 - [Brew Is a Bad Neighbor](https://gist.github.com/pudquick/29bc95b6c49703992981864e48f8e341)
-- Sep 03 - [PC wakes from sleep when changing clothes](https://old.reddit.com/r/pcmasterrace/comments/x4ox3p/why_does_my_pc_wake_from_sleep_when_i_change_my/)
-- Sep 03 - [Melting ice reveals two-million-year old peat](http://williamcolgan.net/blog/?p=692)
+- Sep 03 - [Turns out half the internet has a Single-Point-of-Failure called Cloudflare (2020)](https://easydns.com/blog/2020/07/20/turns-out-half-the-internet-has-a-single-point-of-failure-called-cloudflare/)
+- Sep 03 - [Blocking Kiwifarms](https://blog.cloudflare.com/kiwifarms-blocked/)
+- Sep 03 - [Less Is More Agile](https://beny23.github.io/posts/my_take_on_engineering_room_9/)
+- Sep 03 - [OneSignal (YC S11) just announced a $50M Series C and is hiring engineers](https://onesignal.com/careers)
+- Sep 03 - [The History of FoxPro: Interview with Wayne Ratliff](http://www.foxprohistory.org/interview_wayne_ratliff.htm)
 <!--END_SECTION:hn-->
 
 <!--
