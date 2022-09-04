@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 04 - [Why Haskell Is Interesting? (2005)](https://web.archive.org/web/20130823122503/http://www.freesoftwaremagazine.com/articles/haskell)
-- Sep 04 - [Kiwi Farms response to CloudFlare](https://kiwifarms.ru/threads/matthew-prince-lied.128900/)
-- Sep 04 - [The super-rich ‘preppers’ planning to save themselves](https://www.theguardian.com/news/2022/sep/04/super-rich-prepper-bunkers-apocalypse-survival-richest-rushkoff)
-- Sep 04 - [Oberon, Plan 9 and Inferno (2021)](https://blog.tsr-podcast.com/index.php/2021/05/13/episode-76-oberon-plan-9-inferno/)
-- Sep 04 - [Apple can terminate developer account without a reason by mistake](https://twitter.com/svbelmeha/status/1566063915515133952)
+- Sep 04 - [Lapce Editor, Release v0.2.0](https://github.com/lapce/lapce/releases/tag/v0.2.0)
+- Sep 04 - [Capsaicin in Peppers](https://luciditysystems.com/2020/10/23/capsaicin-in-peppers/)
+- Sep 04 - [W2UI is a JavaScript UI library for building rich web applications](https://github.com/vitmalina/w2ui)
+- Sep 04 - [Poll of Wikipedians concludes: Wikimedia fundraising emails are misleading](https://lists.wikimedia.org/hyperkitty/list/wikimedia-l@lists.wikimedia.org/thread/YKYDOBBH2RHJO2DHNP4YEPH37J3L5PBH/)
+- Sep 04 - [On Device Learning](https://geohot.github.io/blog/jekyll/update/2022/09/03/on-device-learning.html)
 <!--END_SECTION:hn-->
 
 <!--
