@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 04 - [Lapce Editor, Release v0.2.0](https://github.com/lapce/lapce/releases/tag/v0.2.0)
-- Sep 04 - [Capsaicin in Peppers](https://luciditysystems.com/2020/10/23/capsaicin-in-peppers/)
-- Sep 04 - [W2UI is a JavaScript UI library for building rich web applications](https://github.com/vitmalina/w2ui)
-- Sep 04 - [Poll of Wikipedians concludes: Wikimedia fundraising emails are misleading](https://lists.wikimedia.org/hyperkitty/list/wikimedia-l@lists.wikimedia.org/thread/YKYDOBBH2RHJO2DHNP4YEPH37J3L5PBH/)
-- Sep 04 - [On Device Learning](https://geohot.github.io/blog/jekyll/update/2022/09/03/on-device-learning.html)
+- Sep 04 - [Ask HN: Location based pay is killing my motivation, how do others handle it?](https://news.ycombinator.com/item?id=32716770)
+- Sep 04 - [Insane ways Google has been invading our privacy – Salon.com](https://www.salon.com/2014/02/06/4_insane_ways_google_has_been_prying_into_our_privacy_partner/)
+- Sep 04 - [Create epic music together with friends and strangers](https://test.plink.in)
+- Sep 04 - [Zstandard – Real-time data compression algorithm](http://facebook.github.io/zstd/)
+- Sep 04 - [After self-hosting my email for twenty-three years I have thrown in the towel](https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html)
 <!--END_SECTION:hn-->
 
 <!--
