@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 05 - [What I’ve learned from having Covid](https://scottaaronson.blog/?p=6704)
 - Sep 05 - [Self-hosted email is the hardest it's ever been, but also the easiest](https://vadosware.io/post/its-never-been-easier-or-harder-to-self-host-email/)
-- Sep 05 - [The WFH Folks](https://news.ycombinator.com/item?id=32720171)
 - Sep 05 - [Email Done My Way, Part 0 – The Journey](https://jan.wildeboer.net/2022/08/Email-0-The-Journey-2022/)
-- Sep 05 - [CreditKarma Fined 3M by FTC for Misleading Consumers with CreditCard Offers](https://thefintechtimes.com/credit-karma-fined-3million-by-ftc-for-misleading-consumers-with-credit-card-offers/)
+- Sep 05 - [Credit Karma fined $3M by FTC for misleading consumers with credit card offers](https://thefintechtimes.com/credit-karma-fined-3million-by-ftc-for-misleading-consumers-with-credit-card-offers/)
 - Sep 04 - [A Brief History of Just-In-Time (2003) [pdf]](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf)
 <!--END_SECTION:hn-->
 
