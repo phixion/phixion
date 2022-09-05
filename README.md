@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 04 - [Ask HN: Location based pay is killing my motivation, how do others handle it?](https://news.ycombinator.com/item?id=32716770)
-- Sep 04 - [Insane ways Google has been invading our privacy – Salon.com](https://www.salon.com/2014/02/06/4_insane_ways_google_has_been_prying_into_our_privacy_partner/)
-- Sep 04 - [Create epic music together with friends and strangers](https://test.plink.in)
-- Sep 04 - [Zstandard – Real-time data compression algorithm](http://facebook.github.io/zstd/)
-- Sep 04 - [After self-hosting my email for twenty-three years I have thrown in the towel](https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html)
+- Sep 04 - [A Brief History of Just-In-Time (2003) [pdf]](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf)
+- Sep 04 - [EV Adoption in US Is Happen Faster Than Ever Predicted](https://www.recurrentauto.com/research/ev-adoption-us)
+- Sep 04 - [TikTok Hacked?](https://twitter.com/AggressiveCurl/status/1566161198248509440)
+- Sep 04 - [BuildZoom (YC W13) is hiring a principal engineer](https://jobs.lever.co/buildzoom)
+- Sep 04 - [Retinas revived after donor's death open door to new science](https://www.nature.com/articles/d41586-022-01311-z)
 <!--END_SECTION:hn-->
 
 <!--
