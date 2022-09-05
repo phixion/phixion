@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 05 - [What I’ve learned from having Covid](https://scottaaronson.blog/?p=6704)
-- Sep 05 - [Self-hosted email is the hardest it's ever been, but also the easiest](https://vadosware.io/post/its-never-been-easier-or-harder-to-self-host-email/)
-- Sep 05 - [Email Done My Way, Part 0 – The Journey](https://jan.wildeboer.net/2022/08/Email-0-The-Journey-2022/)
-- Sep 05 - [Credit Karma fined $3M by FTC for misleading consumers with credit card offers](https://thefintechtimes.com/credit-karma-fined-3million-by-ftc-for-misleading-consumers-with-credit-card-offers/)
-- Sep 04 - [A Brief History of Just-In-Time (2003) [pdf]](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf)
+- Sep 05 - [Meticulous (YC S21) Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=32723316)
+- Sep 05 - [I didn’t want it anywhere near me: how the Apple AirTag became a stalker's gift](https://www.theguardian.com/technology/2022/sep/05/i-didnt-want-it-anywhere-near-me-how-the-apple-airtag-became-a-gift-to-stalkers)
+- Sep 05 - [Kiwifarms no longer available anywhere on internet as DDoS-Guard ends service](https://twitter.com/GossiTheDog/status/1566728231893573634)
+- Sep 05 - [Apple AMX instruction set (M1/M2 matrix coprocessor)](https://github.com/corsix/amx)
+- Sep 05 - [uLisp wireless message display with a Pi Pico W](http://forum.ulisp.com/t/wireless-message-display/1062)
 <!--END_SECTION:hn-->
 
 <!--
