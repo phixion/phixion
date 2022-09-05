@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 05 - [Thomas Piketty’s Radical Plan to Redistribute Wealth](https://www.nytimes.com/2022/04/19/books/review/a-brief-history-of-equality-thomas-piketty.html)
-- Sep 05 - [Heatwaves kill more Americans than hurricanes, tornadoes and floods](https://www.economist.com/united-states/2022/09/01/heatwaves-kill-more-americans-than-hurricanes-tornadoes-and-floods)
-- Sep 05 - ['Serious errors' in research linking deaths to red meat](https://www.thetimes.co.uk/article/serious-errors-in-research-linking-deaths-to-red-meat-qtdh28fv5)
-- Sep 05 - [Ask HN: YC misses that went on to do well (like veed.io)](https://news.ycombinator.com/item?id=32724564)
-- Sep 05 - [Ubisoft delays server shutdowns, prevents purchased DLC from going away](https://arstechnica.com/gaming/2022/09/ubisoft-delays-server-shutdowns-prevents-purchased-dlc-from-going-away/)
+- Sep 05 - [Accidental complexity, essential complexity, and Kubernetes](https://driftingin.space/posts/complexity-kubernetes)
+- Sep 05 - [Show HN: Watchlimits – Chrome extension to solve excessive video watching](https://watchlimits.com/)
+- Sep 05 - [Place-Based Productivity and Costs in Science](https://www.nber.org/papers/w30416)
+- Sep 05 - [How the FLAC format compresses audio without loss of quality](https://xiph.org/flac/documentation_format_overview.html)
+- Sep 05 - [Premature Optimization is the Root of all Evil](https://martin.leyrer.priv.at/y2022/m09/premature_optimisation.html)
 <!--END_SECTION:hn-->
 
 <!--
