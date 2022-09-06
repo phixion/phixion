@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 06 - [GitHub Outage](https://news.ycombinator.com/item?id=32735734)
-- Sep 06 - [Bitwarden Raises $100M](https://bitwarden.com/blog/accelerating-value-for-bitwarden-users-bitwarden-raises-usd100-million/)
-- Sep 06 - [Optical Illusions of the Year](https://kottke.org/22/02/the-best-optical-illusions-of-the-year)
-- Sep 06 - [Show HN: Nitric – Node.js framework for building portable cloud apps](https://github.com/nitrictech/node-sdk)
-- Sep 06 - [Revisiting the design approach to Zig](https://about.sourcegraph.com/blog/zig-programming-language-revisiting-design-approach)
+- Sep 06 - [Show HN: Make 3D art in your browser using Lisp and math](https://bauble.studio)
+- Sep 06 - [The most-regretted (and lowest-paying) college majors](https://www.washingtonpost.com/business/2022/09/02/college-major-regrets/)
+- Sep 06 - [TIL: You can access a user’s camera with just HTML](https://austingil.com/html-capture-attribute/)
+- Sep 06 - [AppleScript: Graphic User Interface (GUI) Scripting](http://www.macosxautomation.com/applescript/uiscripting/index.html)
+- Sep 06 - [Someone’s Been Messing with My Subnormals](http://moyix.blogspot.com/2022/09/someones-been-messing-with-my-subnormals.html)
 <!--END_SECTION:hn-->
 
 <!--
