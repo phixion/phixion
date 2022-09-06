@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 05 - [I patched my Slack client to keep “Oops” messages others delete](https://github.com/SharonBrizinov/slack-anti-delete)
-- Sep 05 - [Meta Fined $400M for Treatment of Children’s Data on Instagram](https://www.nytimes.com/2022/09/05/business/meta-children-data-protection-europe.html)
-- Sep 05 - [Show HN: WakaQ - a Python distributed task queue](https://wakatime.com/blog/56-building-a-distributed-task-queue-in-python)
-- Sep 05 - [Static site hosting hurdles](https://notes.volution.ro/v1/2022/09/notes/b08118d8/)
-- Sep 05 - [A Special Kind of Hell: intmax_t in C and C++ (2020)](https://thephd.dev/intmax_t-hell-c++-c)
+- Sep 06 - [Long-term cardiac pathology in individuals with mild initial Covid-19 illness](https://www.nature.com/articles/s41591-022-02000-0)
+- Sep 06 - [Chitchatter: A P2P chat app that is serverless, decentralized, and ephemeral](https://chitchatter.im/)
+- Sep 06 - [Keith Davis: He was protecting the oceans – then he disappeared](https://www.bbc.com/news/world-us-canada-62603911)
+- Sep 06 - [Killing invasive species is now a competitive sport](https://www.newyorker.com/magazine/2022/09/12/killing-invasive-species-is-now-a-competitive-sport)
+- Sep 05 - [Dreamy Blur](https://yuanchuan.dev/dreamy-blur)
 <!--END_SECTION:hn-->
 
 <!--
