@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 06 - [Ask HN: Which software do you use for your Presentations?](https://news.ycombinator.com/item?id=32734139)
-- Sep 06 - [It’s Time to Let the Five Stages of Grief Die](https://www.mcgill.ca/oss/article/health-history/its-time-let-five-stages-grief-die)
-- Sep 06 - [The history of sending signals to Unix process groups](https://utcc.utoronto.ca/~cks/space/blog/unix/ProcessGroupsAndSignals)
-- Sep 06 - [Show HN: Open-source APM with support for tracing, metrics, and logs](https://app.uptrace.dev/play)
-- Sep 06 - [OpenWrt 22.03](https://openwrt.org/releases/22.03/notes-22.03.0)
+- Sep 06 - [GitHub Outage](https://news.ycombinator.com/item?id=32735734)
+- Sep 06 - [Bitwarden Raises $100M](https://bitwarden.com/blog/accelerating-value-for-bitwarden-users-bitwarden-raises-usd100-million/)
+- Sep 06 - [Optical Illusions of the Year](https://kottke.org/22/02/the-best-optical-illusions-of-the-year)
+- Sep 06 - [Show HN: Nitric – Node.js framework for building portable cloud apps](https://github.com/nitrictech/node-sdk)
+- Sep 06 - [Revisiting the design approach to Zig](https://about.sourcegraph.com/blog/zig-programming-language-revisiting-design-approach)
 <!--END_SECTION:hn-->
 
 <!--
