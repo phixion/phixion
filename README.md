@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 05 - [Accidental complexity, essential complexity, and Kubernetes](https://driftingin.space/posts/complexity-kubernetes)
-- Sep 05 - [Show HN: Watchlimits – Chrome extension to solve excessive video watching](https://watchlimits.com/)
-- Sep 05 - [Place-Based Productivity and Costs in Science](https://www.nber.org/papers/w30416)
-- Sep 05 - [How the FLAC format compresses audio without loss of quality](https://xiph.org/flac/documentation_format_overview.html)
-- Sep 05 - [Premature Optimization is the Root of all Evil](https://martin.leyrer.priv.at/y2022/m09/premature_optimisation.html)
+- Sep 05 - [I patched my Slack client to keep “Oops” messages others delete](https://github.com/SharonBrizinov/slack-anti-delete)
+- Sep 05 - [Meta Fined $400M for Treatment of Children’s Data on Instagram](https://www.nytimes.com/2022/09/05/business/meta-children-data-protection-europe.html)
+- Sep 05 - [Show HN: WakaQ - a Python distributed task queue](https://wakatime.com/blog/56-building-a-distributed-task-queue-in-python)
+- Sep 05 - [Static site hosting hurdles](https://notes.volution.ro/v1/2022/09/notes/b08118d8/)
+- Sep 05 - [A Special Kind of Hell: intmax_t in C and C++ (2020)](https://thephd.dev/intmax_t-hell-c++-c)
 <!--END_SECTION:hn-->
 
 <!--
