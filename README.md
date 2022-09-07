@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 06 - [What’s New in TensorFlow 2.10?](https://blog.tensorflow.org/2022/09/whats-new-in-tensorflow-210.html)
-- Sep 06 - [Judge rules Facebook parent Meta intentionally violated campaign finance laws](https://www.atg.wa.gov/news/news-releases/ag-ferguson-judge-rules-facebook-parent-meta-intentionally-violated-campaign)
-- Sep 06 - [NASA Selects SiFive and Makes RISC-V the Go-To Ecosystem for Future Missions](https://www.sifive.com/press/nasa-selects-sifive-and-makes-risc-v-the-go-to-ecosystem)
-- Sep 06 - [Brave's deviations from Chromium (features we disable or remove)](https://github.com/brave/brave-browser/wiki/Deviations-from-Chromium-(features-we-disable-or-remove)/)
-- Sep 06 - [San Francisco Braces for Commercial Real Estate Crash](https://sfstandard.com/business/san-francisco-braces-for-epic-commercial-real-estate-crash/)
+- Sep 06 - [Monocraft: A programming font based on the typeface used in Minecraft](https://github.com/IdreesInc/Monocraft)
+- Sep 06 - [The future of cryptocurrency is at stake in Ethereum’s switch](https://www.economist.com/finance-and-economics/2022/09/06/the-future-of-crypto-is-at-stake-in-ethereums-switch)
+- Sep 06 - [Github.com Down Again?](https://GitHub.com)
+- Sep 06 - [GiveCampus (YC S15) hiring senior engineers who care about affordable education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+- Sep 06 - [Preact Signals](https://github.com/preactjs/signals)
 <!--END_SECTION:hn-->
 
 <!--
