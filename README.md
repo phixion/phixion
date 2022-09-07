@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 07 - [Handwritten thank you notes to customers 2x future sales](https://tips.ariyh.com/p/handwritten-notes)
+- Sep 07 - [BigFAT – Backward compatible FAT extension for unlimited file size](https://www.segger.com/products/file-system/emfile/bigfat/)
+- Sep 07 - [Speculoos-2c: A new potentially habitable earth](https://www.news.uliege.be/cms/c_16795199/en/speculoos-discovers-a-potentially-habitable-super-earth)
+- Sep 07 - [Open source, modular, wood based, zero carbon housing](https://www.wikihouse.cc/)
 - Sep 07 - [What makes a good REPL? (2017)](https://vvvvalvalval.github.io/posts/what-makes-a-good-repl.html)
-- Sep 07 - [Show HN: Quake 1 ported to the Apple Watch](https://github.com/MyOwnClone/quake_watch)
-- Sep 07 - [Rsync.net](https://www.rsync.net/)
-- Sep 07 - [We Are Changing the License for Akka](https://www.lightbend.com/blog/why-we-are-changing-the-license-for-akka)
-- Sep 07 - [Hydrogen Production from the Air](https://www.nature.com/articles/s41467-022-32652-y)
 <!--END_SECTION:hn-->
 
 <!--
