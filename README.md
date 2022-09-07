@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 07 - [Albania expelled Iran’s embassy staff over July cyberattack](https://apnews.com/article/nato-technology-iran-middle-east-6be153b291f42bd549d5ecce5941c32a)
-- Sep 07 - [Pypi.org is running a survey on the state of Python packaging](https://pypi.org/)
-- Sep 07 - [The YC Summer 2022 Batch](https://www.ycombinator.com/blog/meet-the-yc-summer-2022-batch/)
-- Sep 07 - [Hydrogen battery startup says it has $700M order backlog](https://www.rechargenews.com/energy-transition/hydrogen-battery-start-up-says-it-has-700m-order-backlog-for-utility-scale-renewables-projects/2-1-1266148?zephr_sso_ott=PTwqbU)
-- Sep 07 - [Tell HN: Otter.ai bot recording meetings without consent](https://news.ycombinator.com/item?id=32751071)
+- Sep 07 - [New technical analysis confirms the evidence against Billy Mitchell](https://perfectpacman.com/2022/09/06/new-technical-analysis/)
+- Sep 07 - [Globalstar SEC filing, Apple to use 85% of its satellite network capacity](https://sec.report/Document/0001366868-22-000059/)
+- Sep 07 - [Emergency SOS via satellite is included for free with iPhone 14 Pro for 2 years](https://www.apple.com/iphone-14-pro/)
+- Sep 07 - [iOS 16 Available September 12th](https://www.apple.com/ios/ios-16/)
+- Sep 07 - [AirPods Pro (2nd Generation)](https://www.apple.com/airpods-pro/)
 <!--END_SECTION:hn-->
 
 <!--
