@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 07 - [ExtremeBB – Supporting Large-Scale Research into Misogyny and Online Extremism](https://www.lightbluetouchpaper.org/2022/09/02/extremebb-supporting-large-scale-research-into-misogyny-and-online-extremism/)
-- Sep 07 - [My family’s unlikely homeschooling journey](https://www.fast.ai/2022/09/06/homeschooling/)
-- Sep 07 - [City-based soda pop taxes don’t effectively reduce sugar consumption](https://news.uga.edu/soda-pop-taxes-dont-reduce-sugar-consumption/)
-- Sep 07 - [From Common Lisp to Julia](https://mfiano.net/posts/2022-09-04-from-common-lisp-to-julia/)
-- Sep 07 - [Etleap (YC W13) Is Hiring Software Engineer – London](https://etleap.com/careers/software-engineer/)
+- Sep 07 - [What makes a good REPL? (2017)](https://vvvvalvalval.github.io/posts/what-makes-a-good-repl.html)
+- Sep 07 - [Show HN: Quake 1 ported to the Apple Watch](https://github.com/MyOwnClone/quake_watch)
+- Sep 07 - [Rsync.net](https://www.rsync.net/)
+- Sep 07 - [We Are Changing the License for Akka](https://www.lightbend.com/blog/why-we-are-changing-the-license-for-akka)
+- Sep 07 - [Hydrogen Production from the Air](https://www.nature.com/articles/s41467-022-32652-y)
 <!--END_SECTION:hn-->
 
 <!--
