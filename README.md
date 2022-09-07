@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 06 - [Monocraft: A programming font based on the typeface used in Minecraft](https://github.com/IdreesInc/Monocraft)
-- Sep 06 - [The future of cryptocurrency is at stake in Ethereum’s switch](https://www.economist.com/finance-and-economics/2022/09/06/the-future-of-crypto-is-at-stake-in-ethereums-switch)
-- Sep 06 - [Github.com Down Again?](https://GitHub.com)
-- Sep 06 - [GiveCampus (YC S15) hiring senior engineers who care about affordable education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- Sep 06 - [Preact Signals](https://github.com/preactjs/signals)
+- Sep 07 - [ExtremeBB – Supporting Large-Scale Research into Misogyny and Online Extremism](https://www.lightbluetouchpaper.org/2022/09/02/extremebb-supporting-large-scale-research-into-misogyny-and-online-extremism/)
+- Sep 07 - [My family’s unlikely homeschooling journey](https://www.fast.ai/2022/09/06/homeschooling/)
+- Sep 07 - [City-based soda pop taxes don’t effectively reduce sugar consumption](https://news.uga.edu/soda-pop-taxes-dont-reduce-sugar-consumption/)
+- Sep 07 - [From Common Lisp to Julia](https://mfiano.net/posts/2022-09-04-from-common-lisp-to-julia/)
+- Sep 07 - [Etleap (YC W13) Is Hiring Software Engineer – London](https://etleap.com/careers/software-engineer/)
 <!--END_SECTION:hn-->
 
 <!--
