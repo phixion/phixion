@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 07 - [Handwritten thank you notes to customers 2x future sales](https://tips.ariyh.com/p/handwritten-notes)
-- Sep 07 - [BigFAT – Backward compatible FAT extension for unlimited file size](https://www.segger.com/products/file-system/emfile/bigfat/)
-- Sep 07 - [Speculoos-2c: A new potentially habitable earth](https://www.news.uliege.be/cms/c_16795199/en/speculoos-discovers-a-potentially-habitable-super-earth)
-- Sep 07 - [Open source, modular, wood based, zero carbon housing](https://www.wikihouse.cc/)
-- Sep 07 - [What makes a good REPL? (2017)](https://vvvvalvalval.github.io/posts/what-makes-a-good-repl.html)
+- Sep 07 - [Albania expelled Iran’s embassy staff over July cyberattack](https://apnews.com/article/nato-technology-iran-middle-east-6be153b291f42bd549d5ecce5941c32a)
+- Sep 07 - [Pypi.org is running a survey on the state of Python packaging](https://pypi.org/)
+- Sep 07 - [The YC Summer 2022 Batch](https://www.ycombinator.com/blog/meet-the-yc-summer-2022-batch/)
+- Sep 07 - [Hydrogen battery startup says it has $700M order backlog](https://www.rechargenews.com/energy-transition/hydrogen-battery-start-up-says-it-has-700m-order-backlog-for-utility-scale-renewables-projects/2-1-1266148?zephr_sso_ott=PTwqbU)
+- Sep 07 - [Tell HN: Otter.ai bot recording meetings without consent](https://news.ycombinator.com/item?id=32751071)
 <!--END_SECTION:hn-->
 
 <!--
