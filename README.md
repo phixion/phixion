@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 08 - [Steve Jobs emails himself (2010)](https://twitter.com/TechEmails/status/1567712985979707393)
-- Sep 08 - [Are Hawaii’s beach showers in violation of the Clean Water Act?](https://undark.org/2022/09/07/hawaii-beach-showers-violation-clean-water-act/)
-- Sep 08 - [The Steve Jobs Archive](https://stevejobsarchive.com/)
-- Sep 08 - [I Tracked Everything I Read on the Internet for a Year](https://www.tdpain.net/blog/a-year-of-reading)
-- Sep 07 - [Our attention span is being robbed](https://unstructed.tech/2022/09/07/your-attention-span-is-being-robbed/)
+- Sep 08 - [SigNoz (YC W21) Is Hiring Frontend engineers to build open source APM](https://www.ycombinator.com/companies/signoz/jobs/OQNtxYk-frontend-engineer)
+- Sep 08 - [I Got Banned for Life from Airbnb (2018)](https://jacksoncunningham.medium.com/digital-exile-how-i-got-banned-for-life-from-airbnb-615434c6eeba)
+- Sep 08 - [Economists are flocking to Silicon Valley](https://www.economist.com/business/2022/09/07/why-economists-are-flocking-to-silicon-valley)
+- Sep 08 - [Ask HN: What is the cheapest laptop I can buy for development](https://news.ycombinator.com/item?id=32761525)
+- Sep 08 - [What to read to understand central banking](https://www.economist.com/the-economist-reads/2022/09/07/what-to-read-to-understand-central-banking)
 <!--END_SECTION:hn-->
 
 <!--
