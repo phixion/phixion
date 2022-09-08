@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 07 - [New technical analysis confirms the evidence against Billy Mitchell](https://perfectpacman.com/2022/09/06/new-technical-analysis/)
-- Sep 07 - [Globalstar SEC filing, Apple to use 85% of its satellite network capacity](https://sec.report/Document/0001366868-22-000059/)
-- Sep 07 - [Emergency SOS via satellite is included for free with iPhone 14 Pro for 2 years](https://www.apple.com/iphone-14-pro/)
-- Sep 07 - [iOS 16 Available September 12th](https://www.apple.com/ios/ios-16/)
-- Sep 07 - [AirPods Pro (2nd Generation)](https://www.apple.com/airpods-pro/)
+- Sep 07 - [Your attention span is being robbed!](https://unstructed.tech/2022/09/07/your-attention-span-is-being-robbed/)
+- Sep 07 - [A mysterious new Babylon 5 project is coming sooner than you think](https://www.inverse.com/entertainment/babylon-5-reboot-cast-release-date-2023)
+- Sep 07 - [Why companies are interested in Myers-Briggs types](https://daily.jstor.org/why-companies-are-so-interested-in-your-myers-briggs-type/)
+- Sep 07 - [Shannon Entropy Imposes Fundamental Limits on Communication](https://www.quantamagazine.org/how-claude-shannons-concept-of-entropy-quantifies-information-20220906/)
+- Sep 07 - [Korean nuclear fusion reactor achieves 100M°C for 30 seconds](https://www.shiningscience.com/2022/09/korean-nuclear-fusion-reactor-achieves.html)
 <!--END_SECTION:hn-->
 
 <!--
