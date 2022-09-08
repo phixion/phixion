@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 07 - [Your attention span is being robbed!](https://unstructed.tech/2022/09/07/your-attention-span-is-being-robbed/)
-- Sep 07 - [A mysterious new Babylon 5 project is coming sooner than you think](https://www.inverse.com/entertainment/babylon-5-reboot-cast-release-date-2023)
-- Sep 07 - [Why companies are interested in Myers-Briggs types](https://daily.jstor.org/why-companies-are-so-interested-in-your-myers-briggs-type/)
-- Sep 07 - [Shannon Entropy Imposes Fundamental Limits on Communication](https://www.quantamagazine.org/how-claude-shannons-concept-of-entropy-quantifies-information-20220906/)
-- Sep 07 - [Korean nuclear fusion reactor achieves 100M°C for 30 seconds](https://www.shiningscience.com/2022/09/korean-nuclear-fusion-reactor-achieves.html)
+- Sep 08 - [Steve Jobs emails himself (2010)](https://twitter.com/TechEmails/status/1567712985979707393)
+- Sep 08 - [Are Hawaii’s beach showers in violation of the Clean Water Act?](https://undark.org/2022/09/07/hawaii-beach-showers-violation-clean-water-act/)
+- Sep 08 - [The Steve Jobs Archive](https://stevejobsarchive.com/)
+- Sep 08 - [I Tracked Everything I Read on the Internet for a Year](https://www.tdpain.net/blog/a-year-of-reading)
+- Sep 07 - [Our attention span is being robbed](https://unstructed.tech/2022/09/07/your-attention-span-is-being-robbed/)
 <!--END_SECTION:hn-->
 
 <!--
