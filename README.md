@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 08 - [QuestDB (YC S20) Is Hiring a Technical Writer](https://questdb.io/careers/technical-content-writer/)
-- Sep 08 - [Who Controls the Internet? And should they? (2021)](https://berthub.eu/articles/posts/who-controls-the-internet/)
-- Sep 08 - [My life got quite a lot better when I went back to an old school Nokia](https://www.standard.co.uk/esmagazine/how-life-got-better-nokia-b1023468.html)
-- Sep 08 - [Best Practices of Civil-Military Relations](https://warontherocks.com/2022/09/to-support-and-defend-principles-of-civilian-control-and-best-practices-of-civil-military-relations/)
-- Sep 08 - [Introducing Svelte, and Comparing Svelte with React and Vue (2021)](https://joshcollinsworth.com/blog/introducing-svelte-comparing-with-react-vue)
+- Sep 08 - [Accelerate Python code 100x by import taichi as ti](https://docs.taichi-lang.org/blog/accelerate-python-code-100x)
+- Sep 08 - [Go Developer Survey 2022 Q2 Results](https://go.dev/blog/survey2022-q2-results)
+- Sep 08 - [It's time to upscale FSR 2 even further: Meet FSR 2.1](https://gpuopen.com/meet-fidelityfx-super-resolution-2-1/)
+- Sep 08 - [Mesh Shading for Vulkan](https://www.khronos.org/blog/mesh-shading-for-vulkan)
+- Sep 08 - [’Why Am I Not Rich and Famous?’ The Delusion of Our Times](https://dariusforoux.com/rich-and-famous/)
 <!--END_SECTION:hn-->
 
 <!--
