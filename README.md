@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 08 - [Accelerate Python code 100x by import taichi as ti](https://docs.taichi-lang.org/blog/accelerate-python-code-100x)
-- Sep 08 - [Go Developer Survey 2022 Q2 Results](https://go.dev/blog/survey2022-q2-results)
-- Sep 08 - [It's time to upscale FSR 2 even further: Meet FSR 2.1](https://gpuopen.com/meet-fidelityfx-super-resolution-2-1/)
-- Sep 08 - [Mesh Shading for Vulkan](https://www.khronos.org/blog/mesh-shading-for-vulkan)
-- Sep 08 - [’Why Am I Not Rich and Famous?’ The Delusion of Our Times](https://dariusforoux.com/rich-and-famous/)
+- Sep 08 - [YouTube More Likely to Direct Election-Fraud Videos to Users Already Skeptical](https://www.nyu.edu/about/news-publications/news/2022/september/youtube-more-likely-to-direct-election-fraud-videos-to-users-alr.html)
+- Sep 08 - [Congress.gov API](https://api.congress.gov/)
+- Sep 08 - [TAOBench: Running social media workloads on PlanetScale](https://planetscale.com/blog/taobench-running-social-media-workloads-on-planetscale)
+- Sep 08 - [Queen Elizabeth II has died](https://www.bbc.com/news/uk-61585886)
+- Sep 08 - [Show HN: I made a modern web UI for Hacker News](https://www.modernhn.com/)
 <!--END_SECTION:hn-->
 
 <!--
