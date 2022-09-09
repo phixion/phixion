@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 08 - [YouTube More Likely to Direct Election-Fraud Videos to Users Already Skeptical](https://www.nyu.edu/about/news-publications/news/2022/september/youtube-more-likely-to-direct-election-fraud-videos-to-users-alr.html)
-- Sep 08 - [Congress.gov API](https://api.congress.gov/)
-- Sep 08 - [TAOBench: Running social media workloads on PlanetScale](https://planetscale.com/blog/taobench-running-social-media-workloads-on-planetscale)
-- Sep 08 - [Queen Elizabeth II has died](https://www.bbc.com/news/uk-61585886)
-- Sep 08 - [Show HN: I made a modern web UI for Hacker News](https://www.modernhn.com/)
+- Sep 08 - [Nvidia Hopper Sweeps AI Inference Benchmarks in MLPerf Debut](https://blogs.nvidia.com/blog/2022/09/08/hopper-mlperf-inference/)
+- Sep 08 - [It seems that the good times for online Minecraft play are over](https://bae.st/notice/AL3OGtBIWr6Bz2Y4um)
+- Sep 08 - [Patreon laid off their security team](https://twitter.com/wbm312/status/1567974063578185728)
+- Sep 08 - [Eight Secret Societies (2016)](https://www.smithsonianmag.com/history/secret-societies-you-might-not-know-180958294/)
+- Sep 08 - [Our five failed YC applications and one successful one](https://www.relate.so/blog/six-applications-y-combinator/)
 <!--END_SECTION:hn-->
 
 <!--
