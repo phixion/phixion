@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 09 - [What's SAP, and why's it worth $163B? (2020)](https://retool.com/blog/erp-for-engineers/)
-- Sep 09 - [Deepnote (YC S19) is hiring to build a better data science notebook (Europe)](https://deepnote.com/join-us)
-- Sep 09 - [CernVM File System](https://cernvm.cern.ch/fs/)
-- Sep 09 - [Apple’s Killing the Password. Here’s Everything You Need to Know](https://www.wired.com/story/apple-passkeys-password-iphone-mac-ios16-ventura/)
-- Sep 09 - [Edge Case Poisoning (2020)](https://buttondown.email/hillelwayne/archive/edge-case-poisoning/)
+- Sep 09 - [AirPods Pro (First Gen) Service Program for Sound Issues](https://support.apple.com/airpods-pro-service-program-sound-issues)
+- Sep 09 - [Google Pays ‘Enormous’ Sums to Maintain Its Search Engine Dominance DOJ Says](https://www.bloomberg.com/news/articles/2022-09-08/google-pays-enormous-sums-to-maintain-its-dominance-doj-says)
+- Sep 09 - [WASM-4 Game Jam 2 Results – Zig most used](https://wasm4.org/blog/jam-2-results/)
+- Sep 09 - [Is early-onset cancer an emerging global epidemic?](https://www.nature.com/articles/s41571-022-00672-8)
+- Sep 09 - [The Touhou PC-98 Restoration Project](https://github.com/nmlgc/ReC98)
 <!--END_SECTION:hn-->
 
 <!--
