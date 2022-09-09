@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 08 - [Nvidia Hopper Sweeps AI Inference Benchmarks in MLPerf Debut](https://blogs.nvidia.com/blog/2022/09/08/hopper-mlperf-inference/)
-- Sep 08 - [It seems that the good times for online Minecraft play are over](https://bae.st/notice/AL3OGtBIWr6Bz2Y4um)
-- Sep 08 - [Patreon laid off their security team](https://twitter.com/wbm312/status/1567974063578185728)
-- Sep 08 - [Eight Secret Societies (2016)](https://www.smithsonianmag.com/history/secret-societies-you-might-not-know-180958294/)
-- Sep 08 - [Our five failed YC applications and one successful one](https://www.relate.so/blog/six-applications-y-combinator/)
+- Sep 09 - [Edge Case Poisoning](https://buttondown.email/hillelwayne/archive/edge-case-poisoning/)
+- Sep 09 - [Widespread misperceptions of long-term attitude change](https://www.pnas.org/doi/10.1073/pnas.2107260119#abstract)
+- Sep 09 - [When Every Ketchup but One Went Extinct](https://www.atlasobscura.com/articles/history-of-heinz-ketchup)
+- Sep 09 - [After a Legal Fight, Oberlin Says It Will Pay $36.59M to a Local Bakery](https://www.nytimes.com/2022/09/08/us/oberlin-bakery-lawsuit.html)
+- Sep 09 - [Crash recovery for user-space block drivers](https://lwn.net/Articles/906097/)
 <!--END_SECTION:hn-->
 
 <!--
