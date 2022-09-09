@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 09 - [Edge Case Poisoning](https://buttondown.email/hillelwayne/archive/edge-case-poisoning/)
-- Sep 09 - [Widespread misperceptions of long-term attitude change](https://www.pnas.org/doi/10.1073/pnas.2107260119#abstract)
-- Sep 09 - [When Every Ketchup but One Went Extinct](https://www.atlasobscura.com/articles/history-of-heinz-ketchup)
-- Sep 09 - [After a Legal Fight, Oberlin Says It Will Pay $36.59M to a Local Bakery](https://www.nytimes.com/2022/09/08/us/oberlin-bakery-lawsuit.html)
-- Sep 09 - [Crash recovery for user-space block drivers](https://lwn.net/Articles/906097/)
+- Sep 09 - [What's SAP, and why's it worth $163B? (2020)](https://retool.com/blog/erp-for-engineers/)
+- Sep 09 - [Deepnote (YC S19) is hiring to build a better data science notebook (Europe)](https://deepnote.com/join-us)
+- Sep 09 - [CernVM File System](https://cernvm.cern.ch/fs/)
+- Sep 09 - [Apple’s Killing the Password. Here’s Everything You Need to Know](https://www.wired.com/story/apple-passkeys-password-iphone-mac-ios16-ventura/)
+- Sep 09 - [Edge Case Poisoning (2020)](https://buttondown.email/hillelwayne/archive/edge-case-poisoning/)
 <!--END_SECTION:hn-->
 
 <!--
