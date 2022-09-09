@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 09 - [AirPods Pro (First Gen) Service Program for Sound Issues](https://support.apple.com/airpods-pro-service-program-sound-issues)
-- Sep 09 - [Google Pays ‘Enormous’ Sums to Maintain Its Search Engine Dominance DOJ Says](https://www.bloomberg.com/news/articles/2022-09-08/google-pays-enormous-sums-to-maintain-its-dominance-doj-says)
-- Sep 09 - [WASM-4 Game Jam 2 Results – Zig most used](https://wasm4.org/blog/jam-2-results/)
-- Sep 09 - [Is early-onset cancer an emerging global epidemic?](https://www.nature.com/articles/s41571-022-00672-8)
-- Sep 09 - [The Touhou PC-98 Restoration Project](https://github.com/nmlgc/ReC98)
+- Sep 09 - [Meta Platforms Cuts Responsible Innovation Team](https://www.wsj.com/articles/facebook-parent-meta-platforms-cuts-responsible-innovation-team-11662658423?mod=djemalertNEWS)
+- Sep 09 - [Ask HN: What happened to vanilla HTML/CSS/JS development?](https://news.ycombinator.com/item?id=32780191)
+- Sep 09 - [The Hiker’s Dilemma](https://acko.net/blog/the-hikers-dilemma/)
+- Sep 09 - [Grafana Mimir and VictoriaMetrics: performance tests](https://victoriametrics.com/blog/mimir-benchmark/)
+- Sep 09 - [Python type hints are Turing complete](https://arxiv.org/abs/2208.14755)
 <!--END_SECTION:hn-->
 
 <!--
