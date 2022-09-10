@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 10 - [Ashby hiring engineers who want to make product decisions and/or design](https://www.ashbyhq.com/careers?utm_source=hn)
-- Sep 10 - [CS 168: The Modern Algorithmic Toolbox, Spring 2022](https://web.stanford.edu/class/cs168/index.html)
-- Sep 10 - [Zstd Compressed Debug Sections](https://maskray.me/blog/2022-09-09-zstd-compressed-debug-sections)
-- Sep 10 - [Ask HN: Does anyone have a great public domain list of programming books?](https://news.ycombinator.com/item?id=32788281)
-- Sep 10 - [Apps have become too good at their jobs](https://meteamedia.org/22723/opinions/apps-have-become-too-good-at-their-jobs/)
+- Sep 10 - [Infinite Scrolling: When to Use It, When to Avoid It](https://www.nngroup.com/articles/infinite-scrolling-tips/)
+- Sep 10 - [K-219](https://en.wikipedia.org/wiki/Soviet_submarine_K-219)
+- Sep 10 - [Ask HN: Best empirical papers on software development?](https://news.ycombinator.com/item?id=32789507)
+- Sep 10 - [Tell HN: My phone just told me to check for moisture in the USB port](https://news.ycombinator.com/item?id=32789464)
+- Sep 10 - [Show HN: 1paragraph – a browser-based, offline-first ePub reader](https://1paragraph.app/)
 <!--END_SECTION:hn-->
 
 <!--
