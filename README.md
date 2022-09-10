@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 10 - [The U.S. military is growing concerned about UFOs. Should we worry?](https://superbowl.substack.com/p/uap-evidence-summary-skepticism-and)
-- Sep 10 - [Profession (1957)](https://www.abelard.org/asimov.php)
-- Sep 10 - [iPhone 14 Pro comes with dual-frequency GPS](https://www.apple.com/iphone-14-pro/specs/)
-- Sep 10 - [Visual Effects for the Indian Blockbuster “RRR” made entirely in Blender](https://www.blender.org/user-stories/visual-effects-for-the-indian-blockbuster-rrr/)
-- Sep 10 - [Bank tells customers to disable updates and not upgrade to iOS 16](https://www.coutts.com/coutts-digital/Bank-In-the-App.html)
+- Sep 10 - [Ask HN: What's the best source code you've read?](https://news.ycombinator.com/item?id=32793534)
+- Sep 10 - [YouTube-dl has a JavaScript interpreter written in 870 lines of Python](https://twitter.com/zhuowei/status/1568659229887664129)
+- Sep 10 - [Cloudflare Warp](https://1.1.1.1)
+- Sep 10 - [You’re Not Addicted to Technology. Here’s What’s Happening Instead](https://www.nirandfar.com/technology-addiction/)
+- Sep 10 - [Ask HN: Is there a precedent for legislation that mandates code changes to OSS?](https://news.ycombinator.com/item?id=32792825)
 <!--END_SECTION:hn-->
 
 <!--
