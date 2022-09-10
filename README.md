@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 10 - [Stratified Synthesis: Automatically Learning the x86-64 Instruction Set (2016) [pdf]](https://cs.stanford.edu/people/eschkufz/docs/pldi_16.pdf)
-- Sep 10 - [Android 13 requires devices to have more than 2GB RAM and 16GB storage](https://android-developers.googleblog.com/2022/09/optimize-for-android-go-lessons-from-google-apps-part-1.html)
-- Sep 10 - [Ask HN: How to deal with a co-founder who has wasteful spending habits](https://news.ycombinator.com/item?id=32786367)
-- Sep 10 - [Sonja Trauss, the Woman Stockpiling Cash to Sue SF over Housing Deadlock](https://sfstandard.com/housing-development/woman-stockpiling-cash-to-sue-sf-over-housing/)
-- Sep 09 - [Regarding the eSIM-only iPhone 14 models in the U.S.](https://chrisx.xyz/blog/regarding-esim-only-iphone-14-in-the-us/)
+- Sep 10 - [Ashby hiring engineers who want to make product decisions and/or design](https://www.ashbyhq.com/careers?utm_source=hn)
+- Sep 10 - [CS 168: The Modern Algorithmic Toolbox, Spring 2022](https://web.stanford.edu/class/cs168/index.html)
+- Sep 10 - [Zstd Compressed Debug Sections](https://maskray.me/blog/2022-09-09-zstd-compressed-debug-sections)
+- Sep 10 - [Ask HN: Does anyone have a great public domain list of programming books?](https://news.ycombinator.com/item?id=32788281)
+- Sep 10 - [Apps have become too good at their jobs](https://meteamedia.org/22723/opinions/apps-have-become-too-good-at-their-jobs/)
 <!--END_SECTION:hn-->
 
 <!--
