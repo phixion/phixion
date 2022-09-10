@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 10 - [Infinite Scrolling: When to Use It, When to Avoid It](https://www.nngroup.com/articles/infinite-scrolling-tips/)
-- Sep 10 - [K-219](https://en.wikipedia.org/wiki/Soviet_submarine_K-219)
-- Sep 10 - [Ask HN: Best empirical papers on software development?](https://news.ycombinator.com/item?id=32789507)
-- Sep 10 - [Tell HN: My phone just told me to check for moisture in the USB port](https://news.ycombinator.com/item?id=32789464)
-- Sep 10 - [Show HN: 1paragraph – a browser-based, offline-first ePub reader](https://1paragraph.app/)
+- Sep 10 - [The U.S. military is growing concerned about UFOs. Should we worry?](https://superbowl.substack.com/p/uap-evidence-summary-skepticism-and)
+- Sep 10 - [Profession (1957)](https://www.abelard.org/asimov.php)
+- Sep 10 - [iPhone 14 Pro comes with dual-frequency GPS](https://www.apple.com/iphone-14-pro/specs/)
+- Sep 10 - [Visual Effects for the Indian Blockbuster “RRR” made entirely in Blender](https://www.blender.org/user-stories/visual-effects-for-the-indian-blockbuster-rrr/)
+- Sep 10 - [Bank tells customers to disable updates and not upgrade to iOS 16](https://www.coutts.com/coutts-digital/Bank-In-the-App.html)
 <!--END_SECTION:hn-->
 
 <!--
