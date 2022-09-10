@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 09 - [Gzip and Brotli Compression Level Estimator](https://tools.paulcalvano.com/compression.php)
-- Sep 09 - [Olark (YC W09) Is Hiring an Account Executive who cares about accessibility](https://olark.hire.trakstar.com/jobs/fk02daq?source=hn)
-- Sep 09 - [Simulated Growing Plants](https://www.youtube.com/watch?v=NogVlXVsJIs)
-- Sep 09 - [Parallel Curves of Cubic Béziers](https://raphlinus.github.io/curves/2022/09/09/parallel-beziers.html)
-- Sep 09 - [Evolving my note-taking processes](https://codethrasher.com/post/2022-09-09-evolving-my-note-taking-processes/)
+- Sep 10 - [Stratified Synthesis: Automatically Learning the x86-64 Instruction Set (2016) [pdf]](https://cs.stanford.edu/people/eschkufz/docs/pldi_16.pdf)
+- Sep 10 - [Android 13 requires devices to have more than 2GB RAM and 16GB storage](https://android-developers.googleblog.com/2022/09/optimize-for-android-go-lessons-from-google-apps-part-1.html)
+- Sep 10 - [Ask HN: How to deal with a co-founder who has wasteful spending habits](https://news.ycombinator.com/item?id=32786367)
+- Sep 10 - [Sonja Trauss, the Woman Stockpiling Cash to Sue SF over Housing Deadlock](https://sfstandard.com/housing-development/woman-stockpiling-cash-to-sue-sf-over-housing/)
+- Sep 09 - [Regarding the eSIM-only iPhone 14 models in the U.S.](https://chrisx.xyz/blog/regarding-esim-only-iphone-14-in-the-us/)
 <!--END_SECTION:hn-->
 
 <!--
