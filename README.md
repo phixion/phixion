@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 09 - [Why investors are reaching for the astrology of finance](https://www.economist.com/finance-and-economics/2022/09/01/why-investors-are-reaching-for-the-astrology-of-finance)
-- Sep 09 - [The Next Chapter for Learning on YouTube](https://blog.youtube/news-and-events/the-next-chapter-for-learning-on-youtube/)
-- Sep 09 - [Software Engineering Code (of Ethics)](https://ethics.acm.org/code-of-ethics/software-engineering-code/)
-- Sep 09 - [Lensless camera creates 3D images from single exposure](https://www.optica.org/en-us/about/newsroom/news_releases/2022/september/lensless_camera_creates_3d_images_from_single_expo/)
-- Sep 09 - [Cravings for fatty foods traced to gut-brain connection](https://zuckermaninstitute.columbia.edu/cravings-fatty-foods-traced-gut-brain-connection)
+- Sep 09 - [Gzip and Brotli Compression Level Estimator](https://tools.paulcalvano.com/compression.php)
+- Sep 09 - [Olark (YC W09) Is Hiring an Account Executive who cares about accessibility](https://olark.hire.trakstar.com/jobs/fk02daq?source=hn)
+- Sep 09 - [Simulated Growing Plants](https://www.youtube.com/watch?v=NogVlXVsJIs)
+- Sep 09 - [Parallel Curves of Cubic Béziers](https://raphlinus.github.io/curves/2022/09/09/parallel-beziers.html)
+- Sep 09 - [Evolving my note-taking processes](https://codethrasher.com/post/2022-09-09-evolving-my-note-taking-processes/)
 <!--END_SECTION:hn-->
 
 <!--
