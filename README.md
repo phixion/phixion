@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 10 - [(Changes to grep) Time To Stop Using egrep and fgrep Commands, Per GNU grep 3.8](https://www.phoronix.com/news/GNU-Grep-3.8-Stop-egrep-fgrep)
-- Sep 10 - [Jackson MS water crisis resolved within 24 hours of Corps of Engr on site](https://www.wjtv.com/news/jacksons-water-crisis/jacksons-water-crisis-the-latest-updates/)
-- Sep 10 - [Rethinking GPS: Engineering Next-Gen Location at Uber](https://www.uber.com/en-SE/blog/rethinking-gps/)
-- Sep 10 - [Fabrice Bellard: Portrait of a Super-Productive Programmer (2011)](https://smartbear.com/blog/fabrice-bellard-portrait-of-a-super-productive-pro/)
-- Sep 10 - [Speeding up Prettier locally using the new –cache CLI option](https://prettier.io/blog/2022/06/14/2.7.0.html)
+- Sep 11 - ['We don’t have enough' lithium globally to meet EV targets, mining CEO says](https://finance.yahoo.com/news/lithium-supply-ev-targets-miner-181513161.html)
+- Sep 11 - [Google's 'Rest and Vest' Days for Senior Employees Are Over, Says CEO](https://www.inc.com/nick-hobson/googles-rest-vest-days-for-sr-employees-are-over-says-ceo-its-a-brilliant-idea.html)
+- Sep 11 - [Brickit scans your pile of bricks and gives you ideas, with instructions](https://brickit.app/)
+- Sep 11 - [The case for building something wonderful alone](https://derw.substack.com/p/the-case-for-building-something-wonderful)
+- Sep 11 - [Modulating Brain Function with Microbiota](https://www.science.org/doi/10.1126/science.abo4220)
 <!--END_SECTION:hn-->
 
 <!--
