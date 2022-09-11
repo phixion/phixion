@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 11 - [Stacker (YC S20) Is Hiring Enterprise Sales AE and Product Engineers](https://www.stackerhq.com/careers#job-listing)
+- Sep 11 - [Finland will be self-sufficient in electricity within a year or two](https://yle.fi/news/3-12618297)
+- Sep 11 - [Cheapest domain you can register for 10 years](https://shkspr.mobi/blog/2022/09/whats-the-cheapest-domain-you-can-register-for-10-years/)
+- Sep 11 - [Rendering my balls in a fragment shader](https://www.getlazarus.org/pool/balls/)
 - Sep 11 - ['We don’t have enough' lithium globally to meet EV targets, mining CEO says](https://finance.yahoo.com/news/lithium-supply-ev-targets-miner-181513161.html)
-- Sep 11 - [Google's 'Rest and Vest' Days for Senior Employees Are Over, Says CEO](https://www.inc.com/nick-hobson/googles-rest-vest-days-for-sr-employees-are-over-says-ceo-its-a-brilliant-idea.html)
-- Sep 11 - [Brickit scans your pile of bricks and gives you ideas, with instructions](https://brickit.app/)
-- Sep 11 - [The case for building something wonderful alone](https://derw.substack.com/p/the-case-for-building-something-wonderful)
-- Sep 11 - [Modulating Brain Function with Microbiota](https://www.science.org/doi/10.1126/science.abo4220)
 <!--END_SECTION:hn-->
 
 <!--
