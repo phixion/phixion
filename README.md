@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 11 - [Ask HN: Is it smart to change jobs considering the possible recession? (EU)](https://news.ycombinator.com/item?id=32798377)
-- Sep 11 - [Fark.com's live thread during the Sept. 11 attacks](https://www.fark.com/comments/45086/NEWS-FLASH-PLANES-CRASH-INTO-WORLD-TRADE-CENTER-PENTAGON-Our-link-to-CNN-works-thanks-Metafilter-We-have-news-pics-in-comments-section-if-you-have-any-post-it-there)
-- Sep 11 - [India is almost 80% IPv6](https://www.apnic.net/community/ipv6/ipv6-in-your-region/)
-- Sep 11 - [How random can you be? (2019)](https://www.expunctis.com/2019/03/07/Not-so-random.html)
-- Sep 11 - [Stacker (YC S20) Is Hiring Enterprise Sales AE and Product Engineers](https://www.stackerhq.com/careers#job-listing)
+- Sep 11 - [Tell HN: Sudden Chile daylight savings time rules change causes chaos](https://news.ycombinator.com/item?id=32800484)
+- Sep 11 - [Show HN: Compass and Ruler construction problems as puzzle game](https://sdkgames.itch.io/ecocoru)
+- Sep 11 - [Ask HN: Does anyone else think SQL needs help?](https://news.ycombinator.com/item?id=32799920)
+- Sep 11 - [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont)
+- Sep 11 - [Ask HN: What are some of the best documentaries you've seen?](https://news.ycombinator.com/item?id=32799789)
 <!--END_SECTION:hn-->
 
 <!--
