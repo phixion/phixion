@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 10 - [Ask HN: What's the best source code you've read?](https://news.ycombinator.com/item?id=32793534)
-- Sep 10 - [YouTube-dl has a JavaScript interpreter written in 870 lines of Python](https://twitter.com/zhuowei/status/1568659229887664129)
-- Sep 10 - [Cloudflare Warp](https://1.1.1.1)
-- Sep 10 - [You’re Not Addicted to Technology. Here’s What’s Happening Instead](https://www.nirandfar.com/technology-addiction/)
-- Sep 10 - [Ask HN: Is there a precedent for legislation that mandates code changes to OSS?](https://news.ycombinator.com/item?id=32792825)
+- Sep 10 - [(Changes to grep) Time To Stop Using egrep and fgrep Commands, Per GNU grep 3.8](https://www.phoronix.com/news/GNU-Grep-3.8-Stop-egrep-fgrep)
+- Sep 10 - [Jackson MS water crisis resolved within 24 hours of Corps of Engr on site](https://www.wjtv.com/news/jacksons-water-crisis/jacksons-water-crisis-the-latest-updates/)
+- Sep 10 - [Rethinking GPS: Engineering Next-Gen Location at Uber](https://www.uber.com/en-SE/blog/rethinking-gps/)
+- Sep 10 - [Fabrice Bellard: Portrait of a Super-Productive Programmer (2011)](https://smartbear.com/blog/fabrice-bellard-portrait-of-a-super-productive-pro/)
+- Sep 10 - [Speeding up Prettier locally using the new –cache CLI option](https://prettier.io/blog/2022/06/14/2.7.0.html)
 <!--END_SECTION:hn-->
 
 <!--
