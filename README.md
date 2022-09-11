@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 11 - [Ask HN: Is it smart to change jobs considering the possible recession? (EU)](https://news.ycombinator.com/item?id=32798377)
+- Sep 11 - [Fark.com's live thread during the Sept. 11 attacks](https://www.fark.com/comments/45086/NEWS-FLASH-PLANES-CRASH-INTO-WORLD-TRADE-CENTER-PENTAGON-Our-link-to-CNN-works-thanks-Metafilter-We-have-news-pics-in-comments-section-if-you-have-any-post-it-there)
+- Sep 11 - [India is almost 80% IPv6](https://www.apnic.net/community/ipv6/ipv6-in-your-region/)
+- Sep 11 - [How random can you be? (2019)](https://www.expunctis.com/2019/03/07/Not-so-random.html)
 - Sep 11 - [Stacker (YC S20) Is Hiring Enterprise Sales AE and Product Engineers](https://www.stackerhq.com/careers#job-listing)
-- Sep 11 - [Finland will be self-sufficient in electricity within a year or two](https://yle.fi/news/3-12618297)
-- Sep 11 - [Cheapest domain you can register for 10 years](https://shkspr.mobi/blog/2022/09/whats-the-cheapest-domain-you-can-register-for-10-years/)
-- Sep 11 - [Rendering my balls in a fragment shader](https://www.getlazarus.org/pool/balls/)
-- Sep 11 - ['We don’t have enough' lithium globally to meet EV targets, mining CEO says](https://finance.yahoo.com/news/lithium-supply-ev-targets-miner-181513161.html)
 <!--END_SECTION:hn-->
 
 <!--
