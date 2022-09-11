@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 11 - [Tell HN: Sudden Chile daylight savings time rules change causes chaos](https://news.ycombinator.com/item?id=32800484)
-- Sep 11 - [Show HN: Compass and Ruler construction problems as puzzle game](https://sdkgames.itch.io/ecocoru)
-- Sep 11 - [Ask HN: Does anyone else think SQL needs help?](https://news.ycombinator.com/item?id=32799920)
-- Sep 11 - [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont)
-- Sep 11 - [Ask HN: What are some of the best documentaries you've seen?](https://news.ycombinator.com/item?id=32799789)
+- Sep 11 - [Ask HN: What did you learn last week?](https://news.ycombinator.com/item?id=32802474)
+- Sep 11 - [I learned to love testing game code](https://chadnauseam.com/coding/gamedev/automated-testing-in-bevy/)
+- Sep 11 - [SpaceX fire burns 68 acres of protected refuge](https://www.krgv.com/news/spacex-fire-burns-68-acres-of-protected-refuge/)
+- Sep 11 - [Microservices – Please, Don’t (2016)](https://riak.com/posts/technical/microservices-please-dont/index.html?p=12525.html)
+- Sep 11 - [Show HN: I built an extension for analyzing rental properties in Zillow](https://www.homescope.io/)
 <!--END_SECTION:hn-->
 
 <!--
