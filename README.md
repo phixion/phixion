@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 12 - [We should link student loan forgiveness to national service](https://thehill.com/opinion/national-security/3631250-why-we-should-link-student-loan-forgiveness-to-national-service/)
-- Sep 12 - [Switzerland considers jail sentences for those heating their homes unreasonably](https://bnn-news.com/switzerland-considers-jail-sentences-for-those-heating-their-homes-unreasonably-238297)
-- Sep 12 - [Emacs 28.2 Released](https://lists.gnu.org/archive/html/emacs-devel/2022-09/msg00730.html)
-- Sep 12 - [Tinder turns 10: what have we learned from a decade of dating apps?](https://www.theguardian.com/news/audio/2022/aug/12/tinder-10-years-dating-apps-podcast)
-- Sep 12 - [Europe's Newest Nuclear Reactor Eases Finland's Power Problems](https://oilprice.com/Latest-Energy-News/World-News/Europes-Newest-Nuclear-Reactor-Eases-Finlands-Power-Problems.html)
+- Sep 12 - [Online Art Communities Begin Banning AI-Generated Images](https://waxy.org/2022/09/online-art-communities-begin-banning-ai-generated-images/)
+- Sep 12 - [Ask HN: Who is building credit card size tracker using U1 spec?](https://news.ycombinator.com/item?id=32811434)
+- Sep 12 - [Apple’s Next Big Thing: A Business Model Change](https://mondaynote.com/apples-next-big-thing-a-business-model-change-e9b0145500c9?gi=176846fdbc6d)
+- Sep 12 - [Intel’s Meteor Lake Chiplets, Compared to AMD’s – Chips and Cheese](https://chipsandcheese.com/2022/09/10/hot-chips-34-intels-meteor-lake-chiplets-compared-to-amds/)
+- Sep 12 - [Maps from “The End of the World Is Just the Beginning”](https://zeihan.com/end-of-the-world-maps/)
 <!--END_SECTION:hn-->
 
 <!--
