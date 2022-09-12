@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 11 - [Ask HN: What did you learn last week?](https://news.ycombinator.com/item?id=32802474)
+- Sep 11 - [.ai](http://www.ai?)
+- Sep 11 - [Show HN: Hacker News bot that automated archive finding and commenting](https://github.com/ShlomoStept/hn_bot)
+- Sep 11 - [DIY Dial Caliper Repair Guide (Mitutoyo, Starrett, Browne & Sharpe)](http://www.longislandindicator.com/p44.html)
 - Sep 11 - [I learned to love testing game code](https://chadnauseam.com/coding/gamedev/automated-testing-in-bevy/)
-- Sep 11 - [SpaceX fire burns 68 acres of protected refuge](https://www.krgv.com/news/spacex-fire-burns-68-acres-of-protected-refuge/)
-- Sep 11 - [Microservices – Please, Don’t (2016)](https://riak.com/posts/technical/microservices-please-dont/index.html?p=12525.html)
-- Sep 11 - [Show HN: I built an extension for analyzing rental properties in Zillow](https://www.homescope.io/)
+- Sep 11 - [Common Lisp names all sixteen binary logic gates](https://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node131.html#SECTION001670000000000000000)
 <!--END_SECTION:hn-->
 
 <!--
