@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 11 - [.ai](http://www.ai?)
-- Sep 11 - [Show HN: Hacker News bot that automated archive finding and commenting](https://github.com/ShlomoStept/hn_bot)
-- Sep 11 - [DIY Dial Caliper Repair Guide (Mitutoyo, Starrett, Browne & Sharpe)](http://www.longislandindicator.com/p44.html)
-- Sep 11 - [I learned to love testing game code](https://chadnauseam.com/coding/gamedev/automated-testing-in-bevy/)
-- Sep 11 - [Common Lisp names all sixteen binary logic gates](https://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node131.html#SECTION001670000000000000000)
+- Sep 12 - [Speedup from switch to +=](https://github.com/lstein/stable-diffusion/commit/62863ac586194a43ff952eba17a83cecf9956500)
+- Sep 12 - [It Works!](http://pn./)
+- Sep 12 - [Are You a DevOps Engineer If You Aren’t Writing Code?](https://blog.boot.dev/devops/devops-engineers-should-code/)
+- Sep 12 - [MVP.css – Minimalist stylesheet for HTML elements](https://andybrewer.github.io/mvp/)
+- Sep 12 - [One-Click Install Stable Diffusion GUI App for M1 Mac. No Dependencies Needed](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
 <!--END_SECTION:hn-->
 
 <!--
