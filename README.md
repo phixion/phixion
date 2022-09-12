@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 12 - [Federal Judge Halts Arizona Ban on Filming Police Within 8 Feet](https://petapixel.com/2022/09/10/federal-judge-halts-arizona-ban-on-filming-police-within-8-feet/)
-- Sep 12 - [MVP.css – Minimalist stylesheet for HTML elements](https://andybrewer.github.io/mvp/)
-- Sep 12 - [Ask HN: How do you find the weird parts of the web?](https://news.ycombinator.com/item?id=32804832)
-- Sep 12 - [Diffusion Bee: Stable Diffusion GUI App for M1 Mac](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
-- Sep 12 - [Heavier cars are safer for their drivers, but far deadlier for everyone else](https://academic.oup.com/restud/article-abstract/81/2/535/1517632)
+- Sep 12 - [We should link student loan forgiveness to national service](https://thehill.com/opinion/national-security/3631250-why-we-should-link-student-loan-forgiveness-to-national-service/)
+- Sep 12 - [Switzerland considers jail sentences for those heating their homes unreasonably](https://bnn-news.com/switzerland-considers-jail-sentences-for-those-heating-their-homes-unreasonably-238297)
+- Sep 12 - [Emacs 28.2 Released](https://lists.gnu.org/archive/html/emacs-devel/2022-09/msg00730.html)
+- Sep 12 - [Tinder turns 10: what have we learned from a decade of dating apps?](https://www.theguardian.com/news/audio/2022/aug/12/tinder-10-years-dating-apps-podcast)
+- Sep 12 - [Europe's Newest Nuclear Reactor Eases Finland's Power Problems](https://oilprice.com/Latest-Energy-News/World-News/Europes-Newest-Nuclear-Reactor-Eases-Finlands-Power-Problems.html)
 <!--END_SECTION:hn-->
 
 <!--
