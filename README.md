@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 13 - [Factorio is coming to Nintendo Switch](https://www.factorio.com/blog/post/factorio-on-nintendo-switch)
-- Sep 13 - [Woman sues after DNA from rape kit used to arrest her](https://nypost.com/2022/09/13/woman-sues-after-dna-from-rape-kit-used-to-arrest-her/)
-- Sep 13 - [Grafana Labs launches free incident management tool in Grafana Cloud](https://grafana.com/blog/2022/09/13/grafana-incident-for-incident-management-is-now-generally-available-in-grafana-cloud/)
-- Sep 13 - [70% of all domains are parked](https://kinsta.com/knowledgebase/parked-domain/)
-- Sep 13 - [Senior Engineers Are Living in the Future](https://www.zerobanana.com/essays/living-in-the-future/)
+- Sep 13 - [Twitter trackers jeopardize military aircraft](https://www.usni.org/magazines/proceedings/2022/september/twitter-trackers-jeopardize-military-aircraft-0)
+- Sep 13 - [Show HN: Query SQLite files stored in S3](https://github.com/litements/s3sqlite)
+- Sep 13 - [Increase: Banking API](https://increase.com/)
+- Sep 13 - [When to use Bazel?](https://earthly.dev/blog/bazel-build/)
+- Sep 13 - [Byte Magazine: Declarative Languages (1985)](https://archive.org/details/byte-magazine-1985-08)
 <!--END_SECTION:hn-->
 
 <!--
