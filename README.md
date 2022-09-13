@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 13 - [Climate change: Six tipping points ‘likely’ to be crossed](https://www.bbc.co.uk/news/science-environment-62838627)
+- Sep 13 - [Is bin-opening in cockatoos leading to an innovation arms race with humans?](https://www.cell.com/current-biology/fulltext/S0960-9822(22)01285-4)
+- Sep 13 - [Show HN: BrainFlow the library to work with biosensors and neurointerfaces](https://brainflow.org/)
 - Sep 13 - [The mysterious balancing stones on frozen lakes](https://physicstoday.scitation.org/doi/10.1063/PT.3.5088)
 - Sep 13 - [The strange behavior of sound through solids](https://www.ias.edu/news/2022/sound-through-solids)
-- Sep 13 - [A personal list of Rust grievances](https://gist.github.com/brendanzab/d41c3ae485d66c07178749eaeeb9e5f7)
-- Sep 13 - [Planning Go 1.20 Cryptography Work](https://words.filippo.io/dispatches/go1-20/)
-- Sep 12 - [Li-Ion Battery Warehouse Fire Put Out with Portland Cement (2021)](https://abc7chicago.com/morris-fire-update-evacuation/10849672/)
 <!--END_SECTION:hn-->
 
 <!--
