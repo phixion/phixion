@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 13 - [Climate change: Six tipping points ‘likely’ to be crossed](https://www.bbc.co.uk/news/science-environment-62838627)
-- Sep 13 - [Is bin-opening in cockatoos leading to an innovation arms race with humans?](https://www.cell.com/current-biology/fulltext/S0960-9822(22)01285-4)
-- Sep 13 - [Show HN: BrainFlow the library to work with biosensors and neurointerfaces](https://brainflow.org/)
-- Sep 13 - [The mysterious balancing stones on frozen lakes](https://physicstoday.scitation.org/doi/10.1063/PT.3.5088)
-- Sep 13 - [The strange behavior of sound through solids](https://www.ias.edu/news/2022/sound-through-solids)
+- Sep 13 - [Cake: C23 Front End and Transpiler C23 – C99](https://github.com/thradams/cake)
+- Sep 13 - [European natural gas imports and storage reserves](https://www.bruegel.org/dataset/european-natural-gas-imports)
+- Sep 13 - [Weightless: Parabolic flight on an A310](https://www.flightradar24.com/blog/parabolic-flight/)
+- Sep 13 - [Scala Isn't Fun Anymore](https://alexn.org/blog/2022/09/09/scala-isnt-fun-anymore/)
+- Sep 13 - [Show HN: Tombl – Easily query .toml files from bash](https://github.com/snyball/tombl)
 <!--END_SECTION:hn-->
 
 <!--
