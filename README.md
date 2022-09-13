@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 12 - [Li-Ion Battery Warehouse Fire Put Out with Portland Cement](https://abc7chicago.com/morris-fire-update-evacuation/10849672/)
-- Sep 12 - [AI Content Generation, Part 1: Machine Learning Basics](https://www.jonstokes.com/p/ai-content-generation-part-1-machine)
-- Sep 12 - [SEC Charges VMware with Misleading Investors by Obscuring Financial Performance](https://www.sec.gov/news/press-release/2022-160)
-- Sep 12 - [Dark Sky iOS app ends December 31, 2022](https://blog.darksky.net/)
-- Sep 12 - [Prenatal cannabis exposure associated with mental disorders in children](https://www.nih.gov/news-events/news-releases/prenatal-cannabis-exposure-associated-mental-disorders-children-persist-into-early-adolescence)
+- Sep 13 - [The mysterious balancing stones on frozen lakes](https://physicstoday.scitation.org/doi/10.1063/PT.3.5088)
+- Sep 13 - [The strange behavior of sound through solids](https://www.ias.edu/news/2022/sound-through-solids)
+- Sep 13 - [A personal list of Rust grievances](https://gist.github.com/brendanzab/d41c3ae485d66c07178749eaeeb9e5f7)
+- Sep 13 - [Planning Go 1.20 Cryptography Work](https://words.filippo.io/dispatches/go1-20/)
+- Sep 12 - [Li-Ion Battery Warehouse Fire Put Out with Portland Cement (2021)](https://abc7chicago.com/morris-fire-update-evacuation/10849672/)
 <!--END_SECTION:hn-->
 
 <!--
