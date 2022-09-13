@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 13 - [Cake: C23 Front End and Transpiler C23 – C99](https://github.com/thradams/cake)
-- Sep 13 - [European natural gas imports and storage reserves](https://www.bruegel.org/dataset/european-natural-gas-imports)
-- Sep 13 - [Weightless: Parabolic flight on an A310](https://www.flightradar24.com/blog/parabolic-flight/)
-- Sep 13 - [Scala Isn't Fun Anymore](https://alexn.org/blog/2022/09/09/scala-isnt-fun-anymore/)
-- Sep 13 - [Show HN: Tombl – Easily query .toml files from bash](https://github.com/snyball/tombl)
+- Sep 13 - [Factorio is coming to Nintendo Switch](https://www.factorio.com/blog/post/factorio-on-nintendo-switch)
+- Sep 13 - [Woman sues after DNA from rape kit used to arrest her](https://nypost.com/2022/09/13/woman-sues-after-dna-from-rape-kit-used-to-arrest-her/)
+- Sep 13 - [Grafana Labs launches free incident management tool in Grafana Cloud](https://grafana.com/blog/2022/09/13/grafana-incident-for-incident-management-is-now-generally-available-in-grafana-cloud/)
+- Sep 13 - [70% of all domains are parked](https://kinsta.com/knowledgebase/parked-domain/)
+- Sep 13 - [Senior Engineers Are Living in the Future](https://www.zerobanana.com/essays/living-in-the-future/)
 <!--END_SECTION:hn-->
 
 <!--
