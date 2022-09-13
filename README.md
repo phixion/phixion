@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 12 - [The relationship between plant-based diet and risk of digestive system cancers](https://pubmed.ncbi.nlm.nih.gov/35719615/)
-- Sep 12 - [Why Schools Don’t Educate (1990)](https://www.thesunmagazine.org/issues/175/why-schools-dont-educate)
-- Sep 12 - [WebKit Features in Safari 16.0](https://webkit.org/blog/13152/webkit-features-in-safari-16-0/)
-- Sep 12 - [Framework Laptop 2.5Gbps Ethernet Expansion Card](https://frame.work/products/ethernet-expansion-card)
-- Sep 12 - [Benefits of ‘looping’ kids with teachers for multiple years](https://www.newsnationnow.com/solutions/benefits-of-looping-kids-with-teachers-for-multiple-years/)
+- Sep 12 - [Li-Ion Battery Warehouse Fire Put Out with Portland Cement](https://abc7chicago.com/morris-fire-update-evacuation/10849672/)
+- Sep 12 - [AI Content Generation, Part 1: Machine Learning Basics](https://www.jonstokes.com/p/ai-content-generation-part-1-machine)
+- Sep 12 - [SEC Charges VMware with Misleading Investors by Obscuring Financial Performance](https://www.sec.gov/news/press-release/2022-160)
+- Sep 12 - [Dark Sky iOS app ends December 31, 2022](https://blog.darksky.net/)
+- Sep 12 - [Prenatal cannabis exposure associated with mental disorders in children](https://www.nih.gov/news-events/news-releases/prenatal-cannabis-exposure-associated-mental-disorders-children-persist-into-early-adolescence)
 <!--END_SECTION:hn-->
 
 <!--
