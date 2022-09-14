@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 14 - [W3.css – A Minimal Alternative to Bootstrap](https://www.w3schools.com/w3css/default.asp)
-- Sep 13 - [Is Peer Review a Good Idea? (2020)](https://www.journals.uchicago.edu/doi/10.1093/bjps/axz029)
-- Sep 13 - [“Secrets” about the consumer audio business you may find interesting](https://www.audiosciencereview.com/forum/index.php?threads%2Fsecrets-about-the-consumer-audio-business-you-may-find-interesting.37344%2F)
-- Sep 13 - [Show HN: BoldContacts – Mobile App for Alzheimer's, Parkinson's, ALS, MS, MD](https://github.com/SixArm/BoldContacts)
-- Sep 13 - [Contentedge (YC W17) is hiring to build AI content writing software for SEO](https://www.contentedge.com/?pg=jobs)
+- Sep 14 - [Mudge is a cyber activist, not a business executive](https://cybersect.substack.com/p/re-mudge-v-twitter)
+- Sep 14 - [Why Car Wheels Are So Flat These Days](https://www.theautopian.com/heres-why-car-wheels-are-so-flat-these-days-and-no-its-not-just-aerodynamics-and-styling/)
+- Sep 14 - [Sudden disturbing moves for IT in large companies, mandated by CEOs](https://old.reddit.com/r/sysadmin/comments/xda3jr/sudden_disturbing_moves_for_it_in_very_large/)
+- Sep 14 - [Death by Hockey Sticks](https://dothemath.ucsd.edu/2022/09/death-by-hockey-sticks/)
+- Sep 14 - [The transistor – or 25 miles on a hunk of Germanium (1953)](https://www.robkalmeijer.nl/techniek/electronica/radiotechniek/hambladen/qst/1953/03/page13/index.html)
 <!--END_SECTION:hn-->
 
 <!--
