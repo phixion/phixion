@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 14 - [Pachyderm Is Hiring Sales Engineers and Solutions Architects](https://www.pachyderm.com/careers/#positions)
-- Sep 14 - [JavaFX 19 Released](https://openjfx.io/#ZgotmplZ)
-- Sep 14 - [Selecting Meaningful Metrics with Goals and Signals](https://abseil.io/resources/swe-book/html/ch07.html#selecting_meaningful_metrics_with_goals)
-- Sep 14 - [It's been a little over 3 weeks since Google randomly sent me $249,999](https://twitter.com/samwcyo/status/1569897392560050178)
-- Sep 14 - [Demystifying tables (cells inside; borders outside)](https://lakesare.brick.do/formalizing-tables-q0P4PEa2WqRg)
+- Sep 14 - [Show HN: Rentaflop – Render your Blender projects without sacrificing quality](https://news.ycombinator.com/item?id=32838673)
+- Sep 14 - [H-m-m (hackers mind map)](https://github.com/nadrad/h-m-m)
+- Sep 14 - [What's New in Jakarta EE 10?](https://blog.payara.fish/whats-new-in-jakarta-ee-10)
+- Sep 14 - [Ask HN: How do I write a Linux driver for my 15 year old photo printer?](https://news.ycombinator.com/item?id=32838225)
+- Sep 14 - [Show HN: StackAid – fund 100s of open source dependencies with one subscription](https://www.stackaid.us)
 <!--END_SECTION:hn-->
 
 <!--
