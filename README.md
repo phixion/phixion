@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 14 - [Show HN: Rentaflop – Render your Blender projects without sacrificing quality](https://news.ycombinator.com/item?id=32838673)
-- Sep 14 - [H-m-m (hackers mind map)](https://github.com/nadrad/h-m-m)
-- Sep 14 - [What's New in Jakarta EE 10?](https://blog.payara.fish/whats-new-in-jakarta-ee-10)
-- Sep 14 - [Ask HN: How do I write a Linux driver for my 15 year old photo printer?](https://news.ycombinator.com/item?id=32838225)
-- Sep 14 - [Show HN: StackAid – fund 100s of open source dependencies with one subscription](https://www.stackaid.us)
+- Sep 14 - [FLAC 1.4.0 released – added support for 32-bit audio](https://xiph.org/flac/2022/09/09/flac-1-4-0-released.html)
+- Sep 14 - [Worldwide Rail Network Map](https://www.openrailwaymap.org/?style=standard&lat=51.58248&lon=15.6501&zoom=3)
+- Sep 14 - [Cachegrand – a modern OSS Key-Value store built for today's hardware](https://github.com/danielealbano/cachegrand)
+- Sep 14 - [How San Francisco makes it insanely hard to build housing](https://sfstandard.com/housing-development/how-san-francisco-makes-it-insanely-hard-to-build-housing/)
+- Sep 14 - [Once again so many people are led to think Wikipedia is broke and must be saved](https://twitter.com/Wikiland/status/1570072717931552770)
 <!--END_SECTION:hn-->
 
 <!--
