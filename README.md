@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 14 - [Tab (YC W15) Is Hiring a Full Stack Developer in London](https://tab.recruitee.com/o/full-stack-developer-3)
-- Sep 14 - [Ask HN: Is there any “PBS Kids” alternatives these days?](https://news.ycombinator.com/item?id=32833581)
-- Sep 14 - [Why car wheels are so flat these days](https://www.theautopian.com/heres-why-car-wheels-are-so-flat-these-days-and-no-its-not-just-aerodynamics-and-styling/)
-- Sep 14 - [Sudden disturbing moves for IT in large companies, mandated by CEOs](https://old.reddit.com/r/sysadmin/comments/xda3jr/sudden_disturbing_moves_for_it_in_very_large/)
-- Sep 14 - [Death by Hockey Sticks](https://dothemath.ucsd.edu/2022/09/death-by-hockey-sticks/)
+- Sep 14 - [Pachyderm Is Hiring Sales Engineers and Solutions Architects](https://www.pachyderm.com/careers/#positions)
+- Sep 14 - [JavaFX 19 Released](https://openjfx.io/#ZgotmplZ)
+- Sep 14 - [Selecting Meaningful Metrics with Goals and Signals](https://abseil.io/resources/swe-book/html/ch07.html#selecting_meaningful_metrics_with_goals)
+- Sep 14 - [It's been a little over 3 weeks since Google randomly sent me $249,999](https://twitter.com/samwcyo/status/1569897392560050178)
+- Sep 14 - [Demystifying tables (cells inside; borders outside)](https://lakesare.brick.do/formalizing-tables-q0P4PEa2WqRg)
 <!--END_SECTION:hn-->
 
 <!--
