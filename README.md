@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 13 - [Twitter trackers jeopardize military aircraft](https://www.usni.org/magazines/proceedings/2022/september/twitter-trackers-jeopardize-military-aircraft-0)
-- Sep 13 - [Show HN: Query SQLite files stored in S3](https://github.com/litements/s3sqlite)
-- Sep 13 - [Increase: Banking API](https://increase.com/)
-- Sep 13 - [When to use Bazel?](https://earthly.dev/blog/bazel-build/)
-- Sep 13 - [Byte Magazine: Declarative Languages (1985)](https://archive.org/details/byte-magazine-1985-08)
+- Sep 14 - [W3.css – A Minimal Alternative to Bootstrap](https://www.w3schools.com/w3css/default.asp)
+- Sep 13 - [Is Peer Review a Good Idea? (2020)](https://www.journals.uchicago.edu/doi/10.1093/bjps/axz029)
+- Sep 13 - [“Secrets” about the consumer audio business you may find interesting](https://www.audiosciencereview.com/forum/index.php?threads%2Fsecrets-about-the-consumer-audio-business-you-may-find-interesting.37344%2F)
+- Sep 13 - [Show HN: BoldContacts – Mobile App for Alzheimer's, Parkinson's, ALS, MS, MD](https://github.com/SixArm/BoldContacts)
+- Sep 13 - [Contentedge (YC W17) is hiring to build AI content writing software for SEO](https://www.contentedge.com/?pg=jobs)
 <!--END_SECTION:hn-->
 
 <!--
