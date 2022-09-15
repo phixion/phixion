@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 15 - [Generally Intelligent (YC S17) Is Hiring Remote Machine Learning Engineers](https://news.ycombinator.com/item?id=32848118)
-- Sep 15 - [Vitalik: Ethereum Merge Just Finalized](https://twitter.com/VitalikButerin/status/1570306185391378434)
-- Sep 15 - [LibreRPi – open source replacements for RPi firmware](https://github.com/librerpi/)
-- Sep 15 - [Ethereum activates The Merge as it shifts to proof of stake](https://www.theblock.co/post/169299/ethereum-activates-the-merge-as-it-shifts-to-proof-of-stake)
-- Sep 15 - [The Ethereum Merge Is Done, Opening a New Era for the Second-Biggest Blockchain](https://www.coindesk.com/tech/2022/09/15/the-ethereum-merge-is-done-did-it-work/)
+- Sep 15 - [Adobe Is Said to Near Deal to Buy Online Design Startup Figma](https://www.bloomberg.com/news/articles/2022-09-15/adobe-is-said-to-near-deal-to-buy-online-design-startup-figma)
+- Sep 15 - [Google Zonda search shows ad for phising site as first result](https://www.google.com/search?q=zonda)
+- Sep 15 - [Twitter blocked our indie game account for no reason](https://news.ycombinator.com/item?id=32849506)
+- Sep 15 - [The definitive guide to “modulo bias” and how to avoid it](https://research.kudelskisecurity.com/2020/07/28/the-definitive-guide-to-modulo-bias-and-how-to-avoid-it/)
+- Sep 15 - [That Annoying Shade of Blue](https://bsago.me/posts/that-annoying-shade-of-blue)
 <!--END_SECTION:hn-->
 
 <!--
