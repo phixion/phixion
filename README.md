@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 15 - [Adobe Is Said to Near Deal to Buy Online Design Startup Figma](https://www.bloomberg.com/news/articles/2022-09-15/adobe-is-said-to-near-deal-to-buy-online-design-startup-figma)
-- Sep 15 - [Google Zonda search shows ad for phising site as first result](https://www.google.com/search?q=zonda)
-- Sep 15 - [Twitter blocked our indie game account for no reason](https://news.ycombinator.com/item?id=32849506)
-- Sep 15 - [The definitive guide to “modulo bias” and how to avoid it](https://research.kudelskisecurity.com/2020/07/28/the-definitive-guide-to-modulo-bias-and-how-to-avoid-it/)
-- Sep 15 - [That Annoying Shade of Blue](https://bsago.me/posts/that-annoying-shade-of-blue)
+- Sep 15 - [I wish I was a little bit taller](https://www.gq.com/story/leg-lengthening)
+- Sep 15 - [The number input is the worst input](https://stackoverflow.blog/2022/09/15/why-the-number-input-is-the-worst-input/)
+- Sep 15 - [46% of ETH POS post merge is just two addresses](https://twitter.com/santimentfeed/status/1570339602346684416)
+- Sep 15 - [Show HN: WunderBase – Serverless OSS database on top of SQLite, Firecracker](https://wundergraph.com/blog/wunderbase_serverless_graphql_database_on_top_of_sqlite_firecracker_and_prisma)
+- Sep 15 - [Chaos Researchers Can Now Predict Perilous Points of No Return](https://www.quantamagazine.org/ai-algorithm-foresees-chaotic-tipping-points-20220915/)
 <!--END_SECTION:hn-->
 
 <!--
