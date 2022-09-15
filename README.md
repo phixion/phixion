@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 15 - [I wish I was a little bit taller](https://www.gq.com/story/leg-lengthening)
-- Sep 15 - [The number input is the worst input](https://stackoverflow.blog/2022/09/15/why-the-number-input-is-the-worst-input/)
-- Sep 15 - [46% of ETH POS post merge is just two addresses](https://twitter.com/santimentfeed/status/1570339602346684416)
-- Sep 15 - [Show HN: WunderBase – Serverless OSS database on top of SQLite, Firecracker](https://wundergraph.com/blog/wunderbase_serverless_graphql_database_on_top_of_sqlite_firecracker_and_prisma)
-- Sep 15 - [Chaos Researchers Can Now Predict Perilous Points of No Return](https://www.quantamagazine.org/ai-algorithm-foresees-chaotic-tipping-points-20220915/)
+- Sep 15 - [Ask HN: Why is everything a SaaS product?](https://news.ycombinator.com/item?id=32856779)
+- Sep 15 - [The Collapse of CryptoKitties, the First Big Blockchain Game](https://spectrum.ieee.org/cryptokitties)
+- Sep 15 - [Godot 4 Beta 1](https://godotengine.org/article/dev-snapshot-godot-4-0-beta-1)
+- Sep 15 - [Cloud Spanner now with a free tier](https://cloud.google.com/blog/products/spanner/try-cloud-spanner-databases)
+- Sep 15 - [Substack (YC W18) is hiring data analysts to build the future for writing](https://boards.greenhouse.io/substack/jobs/4006118005)
 <!--END_SECTION:hn-->
 
 <!--
