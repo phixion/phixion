@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 15 - [Checkout trader's joe logo on Google](https://www.google.com/search?q=trader+joe)
-- Sep 15 - [I figured out how to get GitHub Copilot to run in the terminal](https://github.com/maxwell-bland/copilot-in-the-terminal)
-- Sep 15 - [Apple.com Is Down](https://www.apple.com/)
-- Sep 15 - [Long Covid is now the third leading neurological disorder in the US](https://www.chicagomag.com/chicago-magazine/october-2022/the-long-haul/)
-- Sep 15 - [The Importance of Stupidity in Scientific Research (2008) [pdf]](https://web.stanford.edu/~fukamit/schwartz-2008.pdf)
+- Sep 15 - [Generally Intelligent (YC S17) Is Hiring Remote Machine Learning Engineers](https://news.ycombinator.com/item?id=32848118)
+- Sep 15 - [Vitalik: Ethereum Merge Just Finalized](https://twitter.com/VitalikButerin/status/1570306185391378434)
+- Sep 15 - [LibreRPi – open source replacements for RPi firmware](https://github.com/librerpi/)
+- Sep 15 - [Ethereum activates The Merge as it shifts to proof of stake](https://www.theblock.co/post/169299/ethereum-activates-the-merge-as-it-shifts-to-proof-of-stake)
+- Sep 15 - [The Ethereum Merge Is Done, Opening a New Era for the Second-Biggest Blockchain](https://www.coindesk.com/tech/2022/09/15/the-ethereum-merge-is-done-did-it-work/)
 <!--END_SECTION:hn-->
 
 <!--
