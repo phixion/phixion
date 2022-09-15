@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 14 - [FLAC 1.4.0 released – added support for 32-bit audio](https://xiph.org/flac/2022/09/09/flac-1-4-0-released.html)
-- Sep 14 - [Worldwide Rail Network Map](https://www.openrailwaymap.org/?style=standard&lat=51.58248&lon=15.6501&zoom=3)
-- Sep 14 - [Cachegrand – a modern OSS Key-Value store built for today's hardware](https://github.com/danielealbano/cachegrand)
-- Sep 14 - [How San Francisco makes it insanely hard to build housing](https://sfstandard.com/housing-development/how-san-francisco-makes-it-insanely-hard-to-build-housing/)
-- Sep 14 - [Once again so many people are led to think Wikipedia is broke and must be saved](https://twitter.com/Wikiland/status/1570072717931552770)
+- Sep 14 - [Google employees alarmed that the company suddenly expects them to do work](https://futurism.com/the-byte/google-employees-work-mandate)
+- Sep 14 - [Dick the Birthday Boy: The Legacy Continues [video]](https://www.youtube.com/watch?v=hwu1427MUIE)
+- Sep 14 - [Suspected counterfeit components found in ejection seat after fatal F-16 crash](https://www.airforcetimes.com/news/your-air-force/2022/09/13/an-f-16-pilot-died-when-his-ejection-seat-failed-was-it-counterfeit/)
+- Sep 14 - [Head-On Crash: 2009 Chevrolet Malibu vs. 1959 Bel Air](https://www.thecarconnection.com/news/1035359_head-on-crash-2009-chevrolet-malibu-vs-59-bel-air)
+- Sep 14 - [Ethereum Classic hashrate doubled this month ahead of ETH merge](https://2miners.com/etc-network-hashrate)
 <!--END_SECTION:hn-->
 
 <!--
