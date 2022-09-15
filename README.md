@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 14 - [Google employees alarmed that the company suddenly expects them to do work](https://futurism.com/the-byte/google-employees-work-mandate)
-- Sep 14 - [Dick the Birthday Boy: The Legacy Continues [video]](https://www.youtube.com/watch?v=hwu1427MUIE)
-- Sep 14 - [Suspected counterfeit components found in ejection seat after fatal F-16 crash](https://www.airforcetimes.com/news/your-air-force/2022/09/13/an-f-16-pilot-died-when-his-ejection-seat-failed-was-it-counterfeit/)
-- Sep 14 - [Head-On Crash: 2009 Chevrolet Malibu vs. 1959 Bel Air](https://www.thecarconnection.com/news/1035359_head-on-crash-2009-chevrolet-malibu-vs-59-bel-air)
-- Sep 14 - [Ethereum Classic hashrate doubled this month ahead of ETH merge](https://2miners.com/etc-network-hashrate)
+- Sep 15 - [Checkout trader's joe logo on Google](https://www.google.com/search?q=trader+joe)
+- Sep 15 - [I figured out how to get GitHub Copilot to run in the terminal](https://github.com/maxwell-bland/copilot-in-the-terminal)
+- Sep 15 - [Apple.com Is Down](https://www.apple.com/)
+- Sep 15 - [Long Covid is now the third leading neurological disorder in the US](https://www.chicagomag.com/chicago-magazine/october-2022/the-long-haul/)
+- Sep 15 - [The Importance of Stupidity in Scientific Research (2008) [pdf]](https://web.stanford.edu/~fukamit/schwartz-2008.pdf)
 <!--END_SECTION:hn-->
 
 <!--
