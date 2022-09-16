@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 16 - [Please Don't Be Spooky](https://tiramisu.bearblog.dev/dont-be-spooky/)
-- Sep 16 - [Diversion (YC S22) Is Hiring](https://www.ycombinator.com/companies/diversion/jobs)
-- Sep 16 - [Tell HN: Locked out of Gmail account even after right password, recovery email](https://news.ycombinator.com/item?id=32862713)
-- Sep 16 - [Ask HN: Anyone joined a company after contributing to their OSS projects?](https://news.ycombinator.com/item?id=32862672)
-- Sep 16 - [Food delivery robot rolls through LA crime scene as confused cops look on](https://www.usatoday.com/story/news/nation/2022/09/15/food-delivery-robot-confuses-lapd-at-crime-scene/10387511002/)
+- Sep 16 - [Ribbon Health (YC S17) is hiring engineers to help patients find care](https://www.ribbonhealth.com/blog/how-ribbons-value-driven-tech-philosophy-helps-patients-find-care/)
+- Sep 16 - [Ask HN: Have you taken action regarding the Uber hack?](https://news.ycombinator.com/item?id=32864721)
+- Sep 16 - [America's stealth aircraft you've never heard of](https://www.sandboxx.us/blog/americas-secret-stealth-aircraft-youve-never-heard-of/)
+- Sep 16 - [Foldscope: The Paper Microscope](https://foldscope.com/)
+- Sep 16 - [How German are the British royals?](https://www.dw.com/en/how-german-are-the-british-royals/a-63128994)
 <!--END_SECTION:hn-->
 
 <!--
