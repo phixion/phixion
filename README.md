@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 15 - [Ask HN: Why is everything a SaaS product?](https://news.ycombinator.com/item?id=32856779)
-- Sep 15 - [The Collapse of CryptoKitties, the First Big Blockchain Game](https://spectrum.ieee.org/cryptokitties)
-- Sep 15 - [Godot 4 Beta 1](https://godotengine.org/article/dev-snapshot-godot-4-0-beta-1)
-- Sep 15 - [Cloud Spanner now with a free tier](https://cloud.google.com/blog/products/spanner/try-cloud-spanner-databases)
-- Sep 15 - [Substack (YC W18) is hiring data analysts to build the future for writing](https://boards.greenhouse.io/substack/jobs/4006118005)
+- Sep 15 - [Plasma Bigscreen](https://plasma-bigscreen.org/)
+- Sep 15 - [Scientists are using AI to dream up revolutionary new proteins](https://www.nature.com/articles/d41586-022-02947-7)
+- Sep 15 - [Building the Future of the Command Line](https://github.com/readme/featured/future-of-the-command-line)
+- Sep 15 - [The new Ford Mustang has a drift stick](https://www.musclecarsandtrucks.com/the-s650-ford-mustang-has-a-drift-stick/)
+- Sep 15 - [Size Matters – By Dr Pippa – Dr. Pippa's Pen and Podcast](https://drpippa.substack.com/p/size-matters)
 <!--END_SECTION:hn-->
 
 <!--
