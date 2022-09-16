@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 15 - [Plasma Bigscreen](https://plasma-bigscreen.org/)
-- Sep 15 - [Scientists are using AI to dream up revolutionary new proteins](https://www.nature.com/articles/d41586-022-02947-7)
-- Sep 15 - [Building the Future of the Command Line](https://github.com/readme/featured/future-of-the-command-line)
-- Sep 15 - [The new Ford Mustang has a drift stick](https://www.musclecarsandtrucks.com/the-s650-ford-mustang-has-a-drift-stick/)
-- Sep 15 - [Size Matters – By Dr Pippa – Dr. Pippa's Pen and Podcast](https://drpippa.substack.com/p/size-matters)
+- Sep 16 - [McDonald's CEO sounds the alarm over crime in Chicago](https://www.cnn.com/2022/09/15/business/mcdonalds-ceo-chicago-crime/index.html)
+- Sep 16 - [Patagonia Billionaire Who Gave Up Company Skirts $700M Tax Hit](https://www.bloomberg.com/news/articles/2022-09-15/patagonia-billionaire-who-gave-up-company-skirts-700-million-tax-hit)
+- Sep 16 - [Death of a Project (1965)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.691.3128&rep=rep1&type=pdf)
+- Sep 16 - [The sooner we accept RCS is dead, the sooner we can choose the next platform](https://www.androidpolice.com/android-iphone-rcs-give-up-messaging-platform/)
+- Sep 16 - [Confirmed the MOS 7600/7601 Pong chip is a true microcontroller](http://oldvcr.blogspot.com/2022/09/confirmed-mos-76007601-pong-chip-is.html)
 <!--END_SECTION:hn-->
 
 <!--
