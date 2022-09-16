@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 16 - [Ribbon Health (YC S17) is hiring engineers to help patients find care](https://www.ribbonhealth.com/blog/how-ribbons-value-driven-tech-philosophy-helps-patients-find-care/)
-- Sep 16 - [Ask HN: Have you taken action regarding the Uber hack?](https://news.ycombinator.com/item?id=32864721)
-- Sep 16 - [America's stealth aircraft you've never heard of](https://www.sandboxx.us/blog/americas-secret-stealth-aircraft-youve-never-heard-of/)
-- Sep 16 - [Foldscope: The Paper Microscope](https://foldscope.com/)
-- Sep 16 - [How German are the British royals?](https://www.dw.com/en/how-german-are-the-british-royals/a-63128994)
+- Sep 16 - [The Etherkiller and Friends (2002)](http://www.fiftythree.org/etherkiller/)
+- Sep 16 - [World’s longest journey by pumpkin boat](https://www.smithsonianmag.com/smart-news/pumpkin-boat-world-record-180980723/)
+- Sep 16 - [Show HN: A framework for building Slack bots in Python](https://github.com/DonDebonair/slack-machine)
+- Sep 16 - [CPSC warns consumers to stop using male-to-male extension cords sold on Amazon](https://www.cpsc.gov/Newsroom/News-Releases/2022/CPSC-Warns-Consumers-to-Immediately-Stop-Using-Male-to-Male-Extension-Cords-Sold-on-Amazon-com-Due-to-Electrocution-Fire-and-Carbon-Monoxide-Poisoning-Hazards)
+- Sep 16 - [Shopify lets staff decide cash-stock pay mix as shares dive](https://www.bloomberg.com/news/articles/2022-09-16/shopify-overhauls-compensation-rules-after-stock-s-75-plunge)
 <!--END_SECTION:hn-->
 
 <!--
