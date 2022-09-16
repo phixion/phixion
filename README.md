@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 16 - [The Etherkiller and Friends (2002)](http://www.fiftythree.org/etherkiller/)
-- Sep 16 - [World’s longest journey by pumpkin boat](https://www.smithsonianmag.com/smart-news/pumpkin-boat-world-record-180980723/)
-- Sep 16 - [Show HN: A framework for building Slack bots in Python](https://github.com/DonDebonair/slack-machine)
-- Sep 16 - [CPSC warns consumers to stop using male-to-male extension cords sold on Amazon](https://www.cpsc.gov/Newsroom/News-Releases/2022/CPSC-Warns-Consumers-to-Immediately-Stop-Using-Male-to-Male-Extension-Cords-Sold-on-Amazon-com-Due-to-Electrocution-Fire-and-Carbon-Monoxide-Poisoning-Hazards)
-- Sep 16 - [Shopify lets staff decide cash-stock pay mix as shares dive](https://www.bloomberg.com/news/articles/2022-09-16/shopify-overhauls-compensation-rules-after-stock-s-75-plunge)
+- Sep 16 - [EVGA will not carry new Nvidia GPUs](https://forums.evga.com/Official-Message-from-EVGA-Management-m3574574.aspx)
+- Sep 16 - [The enduring mystery of ‘Jawn,’ Philadelphia’s all-purpose noun](https://www.atlasobscura.com/articles/the-enduring-mystery-of-jawn-philadelphias-allpurpose-noun)
+- Sep 16 - [On Eating Out Alone](https://tiramisu.bearblog.dev/on-eating-alone/)
+- Sep 16 - [NaN Boxing](https://piotrduperas.com/posts/nan-boxing/)
+- Sep 16 - [Sergey Brin, David Baszucki, Kent Dauten commit $150M to fight Bipolar disorder](https://www.forbes.com/sites/kerryadolan/2022/09/12/sergei-brin-robloxs-david-baszucki-and-kent-dauten-of-keystone-capital-commit-150-million-to-fight-bipolar-disorder/)
 <!--END_SECTION:hn-->
 
 <!--
