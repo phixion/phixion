@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 16 - [McDonald's CEO sounds the alarm over crime in Chicago](https://www.cnn.com/2022/09/15/business/mcdonalds-ceo-chicago-crime/index.html)
-- Sep 16 - [Patagonia Billionaire Who Gave Up Company Skirts $700M Tax Hit](https://www.bloomberg.com/news/articles/2022-09-15/patagonia-billionaire-who-gave-up-company-skirts-700-million-tax-hit)
-- Sep 16 - [Death of a Project (1965)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.691.3128&rep=rep1&type=pdf)
-- Sep 16 - [The sooner we accept RCS is dead, the sooner we can choose the next platform](https://www.androidpolice.com/android-iphone-rcs-give-up-messaging-platform/)
-- Sep 16 - [Confirmed the MOS 7600/7601 Pong chip is a true microcontroller](http://oldvcr.blogspot.com/2022/09/confirmed-mos-76007601-pong-chip-is.html)
+- Sep 16 - [Please Don't Be Spooky](https://tiramisu.bearblog.dev/dont-be-spooky/)
+- Sep 16 - [Diversion (YC S22) Is Hiring](https://www.ycombinator.com/companies/diversion/jobs)
+- Sep 16 - [Tell HN: Locked out of Gmail account even after right password, recovery email](https://news.ycombinator.com/item?id=32862713)
+- Sep 16 - [Ask HN: Anyone joined a company after contributing to their OSS projects?](https://news.ycombinator.com/item?id=32862672)
+- Sep 16 - [Food delivery robot rolls through LA crime scene as confused cops look on](https://www.usatoday.com/story/news/nation/2022/09/15/food-delivery-robot-confuses-lapd-at-crime-scene/10387511002/)
 <!--END_SECTION:hn-->
 
 <!--
