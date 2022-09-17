@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 16 - [EVGA will not carry new Nvidia GPUs](https://forums.evga.com/Official-Message-from-EVGA-Management-m3574574.aspx)
-- Sep 16 - [The enduring mystery of ‘Jawn,’ Philadelphia’s all-purpose noun](https://www.atlasobscura.com/articles/the-enduring-mystery-of-jawn-philadelphias-allpurpose-noun)
-- Sep 16 - [On Eating Out Alone](https://tiramisu.bearblog.dev/on-eating-alone/)
-- Sep 16 - [NaN Boxing](https://piotrduperas.com/posts/nan-boxing/)
-- Sep 16 - [Sergey Brin, David Baszucki, Kent Dauten commit $150M to fight Bipolar disorder](https://www.forbes.com/sites/kerryadolan/2022/09/12/sergei-brin-robloxs-david-baszucki-and-kent-dauten-of-keystone-capital-commit-150-million-to-fight-bipolar-disorder/)
+- Sep 17 - [The Viewpoint Diversity Crisis at Canadian Universities [pdf]](https://macdonaldlaurier.ca/wp-content/uploads/2022/09/20220829_University_censorship_Dummit_Patterson_PAPER_FWeb.pdf)
+- Sep 17 - [Attractive female students get better grades](https://www.sciencedirect.com/science/article/pii/S016517652200283X)
+- Sep 17 - [Triple-dip La Niña confirmed as BoM makes declaration](https://www.scimex.org/newsfeed/expert-reaction-triple-dip-la-nina-confirmed-as-bom-makes-declaration)
+- Sep 17 - [Show HN: LambdaLisp – A Lisp Interpreter That Runs on Lambda Calculus](https://woodrush.github.io/blog/lambdalisp.html)
+- Sep 17 - [Number Theory – Explained from First Principles](https://explained-from-first-principles.com/number-theory/)
 <!--END_SECTION:hn-->
 
 <!--
