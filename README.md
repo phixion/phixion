@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 18 - [Why Fix Kubernetes and Systemd?](https://medium.com/@kris-nova/why-fix-kubernetes-and-systemd-782840e50104)
-- Sep 18 - [YouTubePluginReplacement.cpp: YouTube-specific code in WebKit](https://github.com/WebKit/WebKit/blob/main/Source/WebCore/Modules/plugins/YouTubePluginReplacement.cpp)
-- Sep 18 - [Treasury recommends exploring creation of a digital dollar](https://apnews.com/article/cryptocurrency-biden-technology-united-states-ae9cf8df1d16deeb2fab48edb2e49f0e)
-- Sep 18 - [Refurb weekend: New batteries for the Palm Pilots](http://oldvcr.blogspot.com/2022/09/refurb-weekend-new-batteries-for-palm.html)
-- Sep 18 - [Trianglify.io – Low Poly Pattern Generator](https://trianglify.io/)
+- Sep 18 - [The Hyperinflation Gallery](https://lcamtuf.coredump.cx/hyper/)
+- Sep 18 - [The $300B Google-Meta advertising duopoly is under attack](https://www.economist.com/business/2022/09/18/the-300bn-google-meta-advertising-duopoly-is-under-attack)
+- Sep 18 - [Hacker News stylized as a retro 90s macOS desktop](https://hackertosh.org/)
+- Sep 18 - [Measuring CPU core-to-core latency](https://github.com/nviennot/core-to-core-latency)
+- Sep 18 - [Charge Robotics (YC S21) is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
 <!--END_SECTION:hn-->
 
 <!--
