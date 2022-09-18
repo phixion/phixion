@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 18 - [History of the Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method#History)
-- Sep 18 - [Linux command line for you and me](https://lym.readthedocs.io/en/latest/index.html)
-- Sep 18 - [My Productivity System in 2022](https://www.nunodonato.com/my-productivity-system-in-2022/)
-- Sep 18 - [Note-taking isn't rocket science](https://tsk.bearblog.dev/note-taking-isnt-rocket-science/)
-- Sep 18 - [GTA VI Leak [video]](https://www.youtube.com/watch?v=az2wt7sRuHM)
+- Sep 18 - [Why Fix Kubernetes and Systemd?](https://medium.com/@kris-nova/why-fix-kubernetes-and-systemd-782840e50104)
+- Sep 18 - [YouTubePluginReplacement.cpp: YouTube-specific code in WebKit](https://github.com/WebKit/WebKit/blob/main/Source/WebCore/Modules/plugins/YouTubePluginReplacement.cpp)
+- Sep 18 - [Treasury recommends exploring creation of a digital dollar](https://apnews.com/article/cryptocurrency-biden-technology-united-states-ae9cf8df1d16deeb2fab48edb2e49f0e)
+- Sep 18 - [Refurb weekend: New batteries for the Palm Pilots](http://oldvcr.blogspot.com/2022/09/refurb-weekend-new-batteries-for-palm.html)
+- Sep 18 - [Trianglify.io – Low Poly Pattern Generator](https://trianglify.io/)
 <!--END_SECTION:hn-->
 
 <!--
