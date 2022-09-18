@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 17 - [The Viewpoint Diversity Crisis at Canadian Universities [pdf]](https://macdonaldlaurier.ca/wp-content/uploads/2022/09/20220829_University_censorship_Dummit_Patterson_PAPER_FWeb.pdf)
-- Sep 17 - [Attractive female students get better grades](https://www.sciencedirect.com/science/article/pii/S016517652200283X)
-- Sep 17 - [Triple-dip La Niña confirmed as BoM makes declaration](https://www.scimex.org/newsfeed/expert-reaction-triple-dip-la-nina-confirmed-as-bom-makes-declaration)
-- Sep 17 - [Show HN: LambdaLisp – A Lisp Interpreter That Runs on Lambda Calculus](https://woodrush.github.io/blog/lambdalisp.html)
-- Sep 17 - [Number Theory – Explained from First Principles](https://explained-from-first-principles.com/number-theory/)
+- Sep 17 - [Tell HN: Make your company have a contact page](https://news.ycombinator.com/item?id=32882337)
+- Sep 17 - [Show HN: A virtual Yubikey device for 2FA/WebAuthN](https://github.com/bulwarkid/virtual-fido)
+- Sep 17 - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/bcfcfd08-229a-4209-a44b-ce11befe5ecf)
+- Sep 17 - [$ rm Important.txt (uh oh)](https://xenodium.com/rm-important-txt-oh-sht/)
+- Sep 17 - [Phorge: Going Public](https://we.phorge.it/phame/post/view/1/going_public/)
 <!--END_SECTION:hn-->
 
 <!--
