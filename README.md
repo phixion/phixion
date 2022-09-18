@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 17 - [Tell HN: Make your company have a contact page](https://news.ycombinator.com/item?id=32882337)
-- Sep 17 - [Show HN: A virtual Yubikey device for 2FA/WebAuthN](https://github.com/bulwarkid/virtual-fido)
-- Sep 17 - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/bcfcfd08-229a-4209-a44b-ce11befe5ecf)
-- Sep 17 - [$ rm Important.txt (uh oh)](https://xenodium.com/rm-important-txt-oh-sht/)
-- Sep 17 - [Phorge: Going Public](https://we.phorge.it/phame/post/view/1/going_public/)
+- Sep 18 - [Wegmans ends self-checkout app after too much shoplifting](https://www.cnn.com/2022/09/16/business-food/wegmans-scan-and-go-app-shoplifting/index.html)
+- Sep 18 - [The Allied “Passierschein” Safe Conduct Passes of WWII](https://www.psywarrior.com/GermanSCP.html)
+- Sep 18 - [Everyone you meet is living a story that you know nothing about](https://joylere.substack.com/p/unabridged)
+- Sep 18 - [Ivy (YC W23) is hiring developers to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
+- Sep 17 - [How to Make a Sundial](https://www.sundialzone.com/en/sundial)
 <!--END_SECTION:hn-->
 
 <!--
