@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 18 - [Wegmans ends self-checkout app after too much shoplifting](https://www.cnn.com/2022/09/16/business-food/wegmans-scan-and-go-app-shoplifting/index.html)
-- Sep 18 - [The Allied “Passierschein” Safe Conduct Passes of WWII](https://www.psywarrior.com/GermanSCP.html)
-- Sep 18 - [Everyone you meet is living a story that you know nothing about](https://joylere.substack.com/p/unabridged)
-- Sep 18 - [Ivy (YC W23) is hiring developers to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
-- Sep 17 - [How to Make a Sundial](https://www.sundialzone.com/en/sundial)
+- Sep 18 - [J40: Independent, self-contained JPEG XL decoder](https://github.com/lifthrasiir/j40)
+- Sep 18 - [Securing the Supply Chain of Nothing](https://swagitda.com/blog/posts/securing-the-supply-chain-of-nothing/)
+- Sep 18 - [Show HN: I may have created a new type of puzzle](http://www.dogbunnypuzzle.com/)
+- Sep 18 - [The Allied “Passierschein” Safe Conduct Passes of WWII (2003)](https://www.psywarrior.com/GermanSCP.html)
+- Sep 18 - [Ask HN: Inherited the worst code and tech team I have ever seen. How to fix it?](https://news.ycombinator.com/item?id=32883596)
 <!--END_SECTION:hn-->
 
 <!--
