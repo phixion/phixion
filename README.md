@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 18 - [The Hyperinflation Gallery](https://lcamtuf.coredump.cx/hyper/)
-- Sep 18 - [The $300B Google-Meta advertising duopoly is under attack](https://www.economist.com/business/2022/09/18/the-300bn-google-meta-advertising-duopoly-is-under-attack)
-- Sep 18 - [Hacker News stylized as a retro 90s macOS desktop](https://hackertosh.org/)
-- Sep 18 - [Measuring CPU core-to-core latency](https://github.com/nviennot/core-to-core-latency)
-- Sep 18 - [Charge Robotics (YC S21) is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
+- Sep 18 - [Bitcoin is not a Store of Value](https://cryptostackers.substack.com/p/bitcoin-is-not-a-store-of-value)
+- Sep 18 - [The Subprime Loans for College Hiding in Plain Sight](https://www.nytimes.com/2022/09/17/your-money/parent-plus-loans.html)
+- Sep 18 - [Tuned Mass Damper of Taipei 101](https://www.atlasobscura.com/places/tuned-mass-damper-of-taipei-101)
+- Sep 18 - [Figma: A Random Walk in Palo Alto](https://adamnash.blog/2022/09/16/figma-a-random-walk-in-palo-alto/)
+- Sep 18 - [Flexport is hiring smart, gritty People who get stuff done](https://Flexport.com/careers)
 <!--END_SECTION:hn-->
 
 <!--
