@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 19 - [Tuned Mass Damper of Taipei 101 Skyscraper during 6.8 earthquake [video]](https://www.youtube.com/watch?v=qnSh8C40i1s)
+- Sep 19 - [Ask HN: What do you think when companies ask for Gritty people?](https://news.ycombinator.com/item?id=32893292)
+- Sep 19 - [Censorship of our report on govt purchasing from Microsoft, Amazon, and Alphabet](https://techinquiry.org/?about=UNI-censorship)
 - Sep 18 - [Bitcoin is not a Store of Value](https://cryptostackers.substack.com/p/bitcoin-is-not-a-store-of-value)
-- Sep 18 - [The Subprime Loans for College Hiding in Plain Sight](https://www.nytimes.com/2022/09/17/your-money/parent-plus-loans.html)
 - Sep 18 - [Tuned Mass Damper of Taipei 101](https://www.atlasobscura.com/places/tuned-mass-damper-of-taipei-101)
-- Sep 18 - [Figma: A Random Walk in Palo Alto](https://adamnash.blog/2022/09/16/figma-a-random-walk-in-palo-alto/)
-- Sep 18 - [Flexport is hiring smart, gritty People who get stuff done](https://Flexport.com/careers)
 <!--END_SECTION:hn-->
 
 <!--
