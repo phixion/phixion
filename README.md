@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 19 - [Tuned Mass Damper of Taipei 101 Skyscraper during 6.8 earthquake [video]](https://www.youtube.com/watch?v=qnSh8C40i1s)
-- Sep 19 - [Ask HN: What do you think when companies ask for Gritty people?](https://news.ycombinator.com/item?id=32893292)
-- Sep 19 - [Censorship of our report on govt purchasing from Microsoft, Amazon, and Alphabet](https://techinquiry.org/?about=UNI-censorship)
-- Sep 18 - [Bitcoin is not a Store of Value](https://cryptostackers.substack.com/p/bitcoin-is-not-a-store-of-value)
-- Sep 18 - [Tuned Mass Damper of Taipei 101](https://www.atlasobscura.com/places/tuned-mass-damper-of-taipei-101)
+- Sep 19 - [Google removed our website from search because it uses YouTube-dl](https://www.kapwing.com/blog/google-erased-our-website/)
+- Sep 19 - [Sim NIMBY, the Game Where You Can’t Build Anything](https://www.vice.com/en/article/qjkzdv/good-luck-playing-sim-nimby-the-game-where-you-cant-build-anything)
+- Sep 19 - [Show HN: Distributed JMAP and IMAP Servers in Rust](https://github.com/stalwartlabs/jmap-server)
+- Sep 19 - [MacOS 10.15: Slow by Design (2020)](https://sigpipe.macromates.com/2020/macos-catalina-slow-by-design/)
+- Sep 19 - [https://16777217/](https://16777217./)
 <!--END_SECTION:hn-->
 
 <!--
