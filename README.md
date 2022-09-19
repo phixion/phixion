@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 19 - [BuildZoom is hiring smart people who want to work hard](https://jobs.lever.co/buildzoom)
-- Sep 19 - [Mullvad Creates a Hardware Company](https://mullvad.net/en/blog/2022/9/19/mullvad-creates-a-hardware-company/)
-- Sep 19 - [Tillitis Security Key – Mullvad spin-off inspired by measured boot and DICE](https://www.tillitis.se/)
-- Sep 19 - [Ask HN: Name 3-5 books that had the most impact on your career and knowledge?](https://news.ycombinator.com/item?id=32896299)
-- Sep 19 - [Java's Cultural Problem](https://alexn.org/blog/2022/09/19/java-cultural-problem/)
+- Sep 19 - [Apple’s iPhone 14 Redesign for Repair](https://www.ifixit.com/News/64865/iphone-14-teardown)
+- Sep 19 - [Food Delivery Robot Casually Drives Under Police Tape Through Active Crime Scene](https://www.vice.com/en/article/93adae/food-delivery-robot-casually-drives-under-police-tape-through-active-crime-scene)
+- Sep 19 - [Taxing Mechanical Engineers and Subsidizing Drama Majors](https://marginalrevolution.com/marginalrevolution/2022/09/taxing-mechanical-engineers-and-subsidizing-drama-majors.html)
+- Sep 19 - [Show HN: DevTools-X – a cross platform alternative of devutils and devtoys](https://github.com/fosslife/devtools-x)
+- Sep 19 - [The Pentagon has ordered a review of US psyops on social media](https://www.theverge.com/2022/9/19/23360688/pentagon-review-military-influence-operations-social-media)
 <!--END_SECTION:hn-->
 
 <!--
