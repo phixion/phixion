@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 19 - [Apple’s iPhone 14 Redesign for Repair](https://www.ifixit.com/News/64865/iphone-14-teardown)
-- Sep 19 - [Food Delivery Robot Casually Drives Under Police Tape Through Active Crime Scene](https://www.vice.com/en/article/93adae/food-delivery-robot-casually-drives-under-police-tape-through-active-crime-scene)
-- Sep 19 - [Taxing Mechanical Engineers and Subsidizing Drama Majors](https://marginalrevolution.com/marginalrevolution/2022/09/taxing-mechanical-engineers-and-subsidizing-drama-majors.html)
-- Sep 19 - [Show HN: DevTools-X – a cross platform alternative of devutils and devtoys](https://github.com/fosslife/devtools-x)
-- Sep 19 - [The Pentagon has ordered a review of US psyops on social media](https://www.theverge.com/2022/9/19/23360688/pentagon-review-military-influence-operations-social-media)
+- Sep 19 - [There is no “software supply chain”](https://iliana.fyi/blog/software-supply-chain/)
+- Sep 19 - [2-in-1 calculator app adds up to surprise hit for retired engineer](https://mainichi.jp/english/articles/20220916/p2a/00m/0sc/017000c)
+- Sep 19 - [R. Crumb Means Some Offense](https://www.nytimes.com/2022/09/15/t-magazine/r-crumb.html)
+- Sep 19 - [Ask HN: Does Hacker News still do in person meet ups?](https://news.ycombinator.com/item?id=32902293)
+- Sep 19 - [Cyberpunk 2077 the Most Played Single Player Game on Steam](https://twistedvoxel.com/cyberpunk-2077-beats-elden-ring-steam/)
 <!--END_SECTION:hn-->
 
 <!--
