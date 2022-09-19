@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 19 - [Google removed our website from search because it uses YouTube-dl](https://www.kapwing.com/blog/google-erased-our-website/)
-- Sep 19 - [Sim NIMBY, the Game Where You Can’t Build Anything](https://www.vice.com/en/article/qjkzdv/good-luck-playing-sim-nimby-the-game-where-you-cant-build-anything)
-- Sep 19 - [Show HN: Distributed JMAP and IMAP Servers in Rust](https://github.com/stalwartlabs/jmap-server)
-- Sep 19 - [MacOS 10.15: Slow by Design (2020)](https://sigpipe.macromates.com/2020/macos-catalina-slow-by-design/)
-- Sep 19 - [https://16777217/](https://16777217./)
+- Sep 19 - [BuildZoom is hiring smart people who want to work hard](https://jobs.lever.co/buildzoom)
+- Sep 19 - [Mullvad Creates a Hardware Company](https://mullvad.net/en/blog/2022/9/19/mullvad-creates-a-hardware-company/)
+- Sep 19 - [Tillitis Security Key – Mullvad spin-off inspired by measured boot and DICE](https://www.tillitis.se/)
+- Sep 19 - [Ask HN: Name 3-5 books that had the most impact on your career and knowledge?](https://news.ycombinator.com/item?id=32896299)
+- Sep 19 - [Java's Cultural Problem](https://alexn.org/blog/2022/09/19/java-cultural-problem/)
 <!--END_SECTION:hn-->
 
 <!--
