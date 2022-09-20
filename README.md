@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 19 - [There is no “software supply chain”](https://iliana.fyi/blog/software-supply-chain/)
-- Sep 19 - [2-in-1 calculator app adds up to surprise hit for retired engineer](https://mainichi.jp/english/articles/20220916/p2a/00m/0sc/017000c)
-- Sep 19 - [R. Crumb Means Some Offense](https://www.nytimes.com/2022/09/15/t-magazine/r-crumb.html)
-- Sep 19 - [Ask HN: Does Hacker News still do in person meet ups?](https://news.ycombinator.com/item?id=32902293)
-- Sep 19 - [Cyberpunk 2077 the Most Played Single Player Game on Steam](https://twistedvoxel.com/cyberpunk-2077-beats-elden-ring-steam/)
+- Sep 19 - [Show HN: Figr.app – a multi-user, notepad style calculator (desktop app)](https://www.figr.app/)
+- Sep 19 - [Jqp: A TUI playground for exploring jq](https://github.com/noahgorstein/jqp)
+- Sep 19 - [An opinionated guide to making friends](https://blog.aadilali.com/posts/friends.html)
+- Sep 19 - [‘Serial’ case: Adnan Syed released, conviction tossed](https://apnews.com/article/baltimore-adnan-syed-hae-min-lee-024f739b28b33cf50e76c50d640c0882)
+- Sep 19 - [What we learned after I deleted the main production database by mistake](https://medium.com/@hugo.oliveira.rocha/what-we-learned-after-i-deleted-the-main-production-database-by-mistake-13c0a5815de5)
 <!--END_SECTION:hn-->
 
 <!--
