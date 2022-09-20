@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 20 - [Ask HN: How do you switch between programming languages?](https://news.ycombinator.com/item?id=32908160)
-- Sep 20 - [Upcoming price and tax changes for apps and in-app purchases](https://developer.apple.com/news/?id=e1b1hcmv)
-- Sep 20 - [Why deadlines are pointless and what to do instead](https://lucasfcosta.com/2022/09/15/deadlines.html)
-- Sep 20 - [Stable Diffusion Based Image Compression](https://matthias-buehlmann.medium.com/stable-diffusion-based-image-compresssion-6f1f0a399202)
-- Sep 20 - [The Internet Is Already Over](https://samkriss.substack.com/p/the-internet-is-already-over)
+- Sep 20 - [Java 19](https://jdk.java.net/19/release-notes)
+- Sep 20 - [CSS calc(100% – 0) is invalid, but calc(100% - 0px) is valid](https://webplatform.news/#1663639656000)
+- Sep 20 - [The Aerodynamics of Gravel Bikes](https://www.renehersecycles.com/aerodynamics-of-gravel-bikes/)
+- Sep 20 - [SQLite: Past, Present, and Future](http://muratbuffalo.blogspot.com/2022/09/sqlite-past-present-and-future.html)
+- Sep 20 - [Magnus Carlsen resigns against Hans Niemann after one move](https://new.chess24.com/wall/news/magnus-carlsen-resigns-against-hans-niemann-after-one-move)
 <!--END_SECTION:hn-->
 
 <!--
