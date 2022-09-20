@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 20 - [Cache Your CORS](https://httptoolkit.tech/blog/cache-your-cors/)
-- Sep 20 - [Boeing's 737 Max Software Outsourced to $9-an-Hour Engineers (2019)](https://www.industryweek.com/supply-chain/article/22027840/boeings-737-max-software-outsourced-to-9anhour-engineers)
-- Sep 20 - [Public buses across country quietly adding microphones to record conversations](https://www.wired.com/2012/12/public-bus-audio-surveillance/)
-- Sep 20 - [Faster CPython 3.12 Plan](https://github.com/faster-cpython/ideas/wiki/Workflow-for-3.12-cycle)
-- Sep 20 - [Azure CTO: “It's time to halt starting any new projects in C/C++”](https://twitter.com/markrussinovich/status/1571995117233504257)
+- Sep 20 - [Ask HN: How do you switch between programming languages?](https://news.ycombinator.com/item?id=32908160)
+- Sep 20 - [Upcoming price and tax changes for apps and in-app purchases](https://developer.apple.com/news/?id=e1b1hcmv)
+- Sep 20 - [Why deadlines are pointless and what to do instead](https://lucasfcosta.com/2022/09/15/deadlines.html)
+- Sep 20 - [Stable Diffusion Based Image Compression](https://matthias-buehlmann.medium.com/stable-diffusion-based-image-compresssion-6f1f0a399202)
+- Sep 20 - [The Internet Is Already Over](https://samkriss.substack.com/p/the-internet-is-already-over)
 <!--END_SECTION:hn-->
 
 <!--
