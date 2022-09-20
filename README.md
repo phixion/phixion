@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 20 - [Ask HN: About to have a child, completely burnt out at my job, what do I do?](https://news.ycombinator.com/item?id=32913377)
-- Sep 20 - [GTK4 Bindings for Common Lisp](https://github.com/bohonghuang/cl-gtk4)
-- Sep 20 - [GeForce RTX 40 Series](https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/)
-- Sep 20 - [Cloudflare Beta (2009)](https://www.projecthoneypot.org/cloudflare_beta.html)
-- Sep 20 - [FCC asked to probe US carriers locking handsets to networks](https://www.theregister.com/2022/09/20/fcc_phone_locking_public_knowledge/)
+- Sep 20 - [LibRedirect: Redirect YouTube, Twitter, Instagram to privacy friendly services](https://github.com/libredirect/libredirect)
+- Sep 20 - [List of most expensive video games to develop](https://en.wikipedia.org/wiki/List_of_most_expensive_video_games_to_develop)
+- Sep 20 - [Show HN: TaskTXT, plain text task-timing notepad](https://tasktxt.com/)
+- Sep 20 - [Nvidia RTX Remix: Create and Share Rtxon Mods for Classic Games](https://www.nvidia.com/en-us/geforce/news/rtx-remix-announcement/)
+- Sep 20 - [EU Open Web Search project kicked off](https://openwebsearch.eu/)
 <!--END_SECTION:hn-->
 
 <!--
