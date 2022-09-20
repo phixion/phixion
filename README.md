@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 19 - [Show HN: Figr.app – a multi-user, notepad style calculator (desktop app)](https://www.figr.app/)
-- Sep 19 - [Jqp: A TUI playground for exploring jq](https://github.com/noahgorstein/jqp)
-- Sep 19 - [An opinionated guide to making friends](https://blog.aadilali.com/posts/friends.html)
-- Sep 19 - [‘Serial’ case: Adnan Syed released, conviction tossed](https://apnews.com/article/baltimore-adnan-syed-hae-min-lee-024f739b28b33cf50e76c50d640c0882)
-- Sep 19 - [What we learned after I deleted the main production database by mistake](https://medium.com/@hugo.oliveira.rocha/what-we-learned-after-i-deleted-the-main-production-database-by-mistake-13c0a5815de5)
+- Sep 20 - [Cache Your CORS](https://httptoolkit.tech/blog/cache-your-cors/)
+- Sep 20 - [Boeing's 737 Max Software Outsourced to $9-an-Hour Engineers (2019)](https://www.industryweek.com/supply-chain/article/22027840/boeings-737-max-software-outsourced-to-9anhour-engineers)
+- Sep 20 - [Public buses across country quietly adding microphones to record conversations](https://www.wired.com/2012/12/public-bus-audio-surveillance/)
+- Sep 20 - [Faster CPython 3.12 Plan](https://github.com/faster-cpython/ideas/wiki/Workflow-for-3.12-cycle)
+- Sep 20 - [Azure CTO: “It's time to halt starting any new projects in C/C++”](https://twitter.com/markrussinovich/status/1571995117233504257)
 <!--END_SECTION:hn-->
 
 <!--
