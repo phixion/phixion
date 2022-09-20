@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 20 - [Java 19](https://jdk.java.net/19/release-notes)
-- Sep 20 - [CSS calc(100% – 0) is invalid, but calc(100% - 0px) is valid](https://webplatform.news/#1663639656000)
-- Sep 20 - [The Aerodynamics of Gravel Bikes](https://www.renehersecycles.com/aerodynamics-of-gravel-bikes/)
-- Sep 20 - [SQLite: Past, Present, and Future](http://muratbuffalo.blogspot.com/2022/09/sqlite-past-present-and-future.html)
-- Sep 20 - [Magnus Carlsen resigns against Hans Niemann after one move](https://new.chess24.com/wall/news/magnus-carlsen-resigns-against-hans-niemann-after-one-move)
+- Sep 20 - [Ask HN: About to have a child, completely burnt out at my job, what do I do?](https://news.ycombinator.com/item?id=32913377)
+- Sep 20 - [GTK4 Bindings for Common Lisp](https://github.com/bohonghuang/cl-gtk4)
+- Sep 20 - [GeForce RTX 40 Series](https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/)
+- Sep 20 - [Cloudflare Beta (2009)](https://www.projecthoneypot.org/cloudflare_beta.html)
+- Sep 20 - [FCC asked to probe US carriers locking handsets to networks](https://www.theregister.com/2022/09/20/fcc_phone_locking_public_knowledge/)
 <!--END_SECTION:hn-->
 
 <!--
