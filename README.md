@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 21 - [Demodesk GmbH Is Hiring a Full-Stack Product Engineer](https://demodesk.com/careers)
-- Sep 21 - [Emacs: 20×10%](https://lars.ingebrigtsen.no/2022/09/20/20x10/)
-- Sep 21 - [The Right to Read (1997)](https://www.gnu.org/philosophy/right-to-read.html)
-- Sep 21 - [Solving Entry-Level Edge AI Challenges with Nvidia Jetson Orin Nano](https://developer.nvidia.com/blog/solving-entry-level-edge-ai-challenges-with-nvidia-jetson-orin-nano/)
-- Sep 21 - [Energy Efficiency across Programming Languages (2017) [pdf]](https://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf)
+- Sep 21 - [An anonymous donor just sent 299 Ether (equivalent to 393,000 USD) to redox_OS](https://twitter.com/jeremy_soller/status/1572350419594268673)
+- Sep 21 - [PayPal Demonetises the Daily Sceptic](https://dailysceptic.org/2022/09/21/paypal-demonetises-the-daily-sceptic/)
+- Sep 21 - [Ask HN: A math study program?](https://news.ycombinator.com/item?id=32923390)
+- Sep 21 - [A Climate Love Story](https://dothemath.ucsd.edu/2022/09/a-climate-love-story/)
+- Sep 21 - [Entitlement in Open Source](https://mikemcquaid.com/entitlement-in-open-source/)
 <!--END_SECTION:hn-->
 
 <!--
