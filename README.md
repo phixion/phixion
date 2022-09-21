@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 21 - [Hacking Anything with GNU Guix](https://gexp.no/blog/hacking-anything-with-gnu-guix.html)
-- Sep 21 - [Effective immediately, Getty Images will cease to accept art created using AI](https://app.engage.gettyimages.com/e/es?e=11409471&elq=ffb9ca1a980a43f29bb0563b4f8b5f27)
-- Sep 21 - [Ca Hwy 1 closed, shelter-in-place issued for Moss Landing (Tesla Megapack fire)](https://www.sfgate.com/bayarea/article/Highway-1-closed-shelter-in-place-17455025.php)
-- Sep 21 - [I’ve been building a database of successful companies](https://www.starterstory.com/explore)
-- Sep 21 - [The Framework Laptop Chromebook Edition](https://frame.work/at/en/blog/introducing-the-framework-laptop-chromebook-edition)
+- Sep 21 - [MinIO passes 1B cumulative Docker Pulls](https://blog.min.io/one-billion-docker-pulls/)
+- Sep 21 - [Since mid-April, the Fed has withdrawn ~$140B of liquidity from financial system](https://fred.stlouisfed.org/graph/?g=TXcI)
+- Sep 21 - [Why do we salt the ice when making ice cream?](https://www.timothyrice.org/icecreamsalt/)
+- Sep 21 - [Danish Data Protection Agency concludes Google Analytics cannot be used lawfully](https://www.datatilsynet.dk/english/google-analytics/use-of-google-analytics-for-web-analytics)
+- Sep 21 - [Sharing some statistics about BTRFS compression](https://dataswamp.org/~solene/2022-09-21-btrfs-compression.html)
 <!--END_SECTION:hn-->
 
 <!--
