@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 21 - [An anonymous donor just sent 299 Ether (equivalent to 393,000 USD) to redox_OS](https://twitter.com/jeremy_soller/status/1572350419594268673)
-- Sep 21 - [PayPal Demonetises the Daily Sceptic](https://dailysceptic.org/2022/09/21/paypal-demonetises-the-daily-sceptic/)
-- Sep 21 - [Ask HN: A math study program?](https://news.ycombinator.com/item?id=32923390)
-- Sep 21 - [A Climate Love Story](https://dothemath.ucsd.edu/2022/09/a-climate-love-story/)
-- Sep 21 - [Entitlement in Open Source](https://mikemcquaid.com/entitlement-in-open-source/)
+- Sep 21 - [Hacking Anything with GNU Guix](https://gexp.no/blog/hacking-anything-with-gnu-guix.html)
+- Sep 21 - [Effective immediately, Getty Images will cease to accept art created using AI](https://app.engage.gettyimages.com/e/es?e=11409471&elq=ffb9ca1a980a43f29bb0563b4f8b5f27)
+- Sep 21 - [Ca Hwy 1 closed, shelter-in-place issued for Moss Landing (Tesla Megapack fire)](https://www.sfgate.com/bayarea/article/Highway-1-closed-shelter-in-place-17455025.php)
+- Sep 21 - [I’ve been building a database of successful companies](https://www.starterstory.com/explore)
+- Sep 21 - [The Framework Laptop Chromebook Edition](https://frame.work/at/en/blog/introducing-the-framework-laptop-chromebook-edition)
 <!--END_SECTION:hn-->
 
 <!--
