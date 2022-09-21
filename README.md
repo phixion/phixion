@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 21 - [Ask HN: Do you regret being a generalist?](https://news.ycombinator.com/item?id=32920577)
-- Sep 21 - [Betterbird is a fine-tuned version of Mozilla Thunderbird email client](https://www.betterbird.eu/##)
-- Sep 21 - [Can I Use a System Call?](https://justine.lol/cosmopolitan/functions.html)
-- Sep 21 - [Etleap (YC W13) Is Hiring Software Engineer – London](https://etleap.com/careers/software-engineer/)
-- Sep 21 - [Backend for Front-end](https://blog.frankel.ch/backend-for-frontend/)
+- Sep 21 - [Demodesk GmbH Is Hiring a Full-Stack Product Engineer](https://demodesk.com/careers)
+- Sep 21 - [Emacs: 20×10%](https://lars.ingebrigtsen.no/2022/09/20/20x10/)
+- Sep 21 - [The Right to Read (1997)](https://www.gnu.org/philosophy/right-to-read.html)
+- Sep 21 - [Solving Entry-Level Edge AI Challenges with Nvidia Jetson Orin Nano](https://developer.nvidia.com/blog/solving-entry-level-edge-ai-challenges-with-nvidia-jetson-orin-nano/)
+- Sep 21 - [Energy Efficiency across Programming Languages (2017) [pdf]](https://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf)
 <!--END_SECTION:hn-->
 
 <!--
