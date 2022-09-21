@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 20 - [Upcyling a 40-year-old Tandy Model 100 Portable Computer](https://spectrum.ieee.org/upcycle-a-vintage-lcd)
+- Sep 20 - [YouTube’s ‘dislike’ barely works according to new study on recommendations](https://www.engadget.com/mozilla-youtube-recommendation-study-080006930.html)
+- Sep 20 - [Fork of the popular “I don't care about cookies” extension](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies)
+- Sep 20 - [Philosophy of Mathematics – A Reading List (2020)](https://www.logicmatters.net/2020/11/16/philosophy-of-mathematics-a-reading-list/)
 - Sep 20 - [LibRedirect: Redirect YouTube, Twitter, Instagram to privacy friendly services](https://github.com/libredirect/libredirect)
-- Sep 20 - [List of most expensive video games to develop](https://en.wikipedia.org/wiki/List_of_most_expensive_video_games_to_develop)
-- Sep 20 - [Show HN: TaskTXT, plain text task-timing notepad](https://tasktxt.com/)
-- Sep 20 - [Nvidia RTX Remix: Create and Share Rtxon Mods for Classic Games](https://www.nvidia.com/en-us/geforce/news/rtx-remix-announcement/)
-- Sep 20 - [EU Open Web Search project kicked off](https://openwebsearch.eu/)
 <!--END_SECTION:hn-->
 
 <!--
