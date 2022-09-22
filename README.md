@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 22 - [FB, Instagram, WhatsApp blocking Iranian accounts, even outside the country](https://twitter.com/YourAnonCentral/status/1572765009972989954)
-- Sep 22 - [WhatsApp has disabled communication between accounts from Iran during protests](https://twitter.com/Erfan_khosravi/status/1572837240367370240)
-- Sep 22 - [Exploring Lock-Free Rust](https://morestina.net/blog/742/exploring-lock-free-rust-1-locks)
-- Sep 22 - [If the Moon Were Only 1 Pixel (2014)](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
-- Sep 22 - [Show HN: Rocketry – Statement-based scheduling framework for Python](https://github.com/Miksus/rocketry)
+- Sep 22 - [Gender and Age Differences in Love Styles and Attitudes](https://www.dimensional.me/blog/gender-differences-in-love-attitudes-and-expression)
+- Sep 22 - [Show HN: I made an open-source Bitly alternative](https://dub.sh/)
+- Sep 22 - [American Data Privacy and Protection Act](https://www.congress.gov/bill/117th-congress/house-bill/8152/text)
+- Sep 22 - [The road to realistic full-body deepfakes](https://metaphysic.ai/the-road-to-realistic-full-body-deepfakes/)
+- Sep 22 - [Wasp (YC W21) is hiring eng to work on DSL for making web apps (compiler, webdev)](https://news.ycombinator.com/item?id=32938880)
 <!--END_SECTION:hn-->
 
 <!--
