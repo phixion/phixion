@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 21 - [MinIO passes 1B cumulative Docker Pulls](https://blog.min.io/one-billion-docker-pulls/)
-- Sep 21 - [Since mid-April, the Fed has withdrawn ~$140B of liquidity from financial system](https://fred.stlouisfed.org/graph/?g=TXcI)
-- Sep 21 - [Why do we salt the ice when making ice cream?](https://www.timothyrice.org/icecreamsalt/)
-- Sep 21 - [Danish Data Protection Agency concludes Google Analytics cannot be used lawfully](https://www.datatilsynet.dk/english/google-analytics/use-of-google-analytics-for-web-analytics)
-- Sep 21 - [Sharing some statistics about BTRFS compression](https://dataswamp.org/~solene/2022-09-21-btrfs-compression.html)
+- Sep 21 - [Using a Canon EOS camera as a webcam in Debian](https://www.schlachter.xyz/projects/debian-dslr-webcam-with-secure-boot)
+- Sep 21 - [Olive.c: a simple graphics library that does not have any dependencies](https://tsoding.org/olive.c/)
+- Sep 21 - [The IT Crowd US Pilot](https://archive.org/details/the-it-crowd-us-pilot)
+- Sep 21 - [Ask HN: Why is Microsoft Teams still so bad?](https://news.ycombinator.com/item?id=32932137)
+- Sep 21 - [Skipping the boring parts of building a database using FoundationDB](https://blog.tigrisdata.com/building-a-database-using-foundationdb)
 <!--END_SECTION:hn-->
 
 <!--
