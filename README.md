@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 22 - [Gender and Age Differences in Love Styles and Attitudes](https://www.dimensional.me/blog/gender-differences-in-love-attitudes-and-expression)
-- Sep 22 - [Show HN: I made an open-source Bitly alternative](https://dub.sh/)
-- Sep 22 - [American Data Privacy and Protection Act](https://www.congress.gov/bill/117th-congress/house-bill/8152/text)
-- Sep 22 - [The road to realistic full-body deepfakes](https://metaphysic.ai/the-road-to-realistic-full-body-deepfakes/)
-- Sep 22 - [Wasp (YC W21) is hiring eng to work on DSL for making web apps (compiler, webdev)](https://news.ycombinator.com/item?id=32938880)
+- Sep 22 - [Dilemmas in a General Theory of Planning (1973) [pdf]](https://hci.stanford.edu/dschool/resources/readings/Rittel+Webber+Dilemmas+General_Theory_of_Planning.pdf)
+- Sep 22 - [Show HN: Open Prompts – dataset of 10M Stable Diffusion generations](https://github.com/krea-ai/open-prompts)
+- Sep 22 - [Extending supabase with your own back end – its supa easy](https://blog.xa0.de/post/Extending-supabase-with-your-own-backend%20---%20its-supa-easy%21/)
+- Sep 22 - [AlphaFold developers win US$3M Breakthrough Prize](https://www.nature.com/articles/d41586-022-02999-9)
+- Sep 22 - [Hightouch (YC S19) Is Hiring an Engineering Manager](https://boards.greenhouse.io/hightouch/jobs/4580317004)
 <!--END_SECTION:hn-->
 
 <!--
