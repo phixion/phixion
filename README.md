@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 22 - [The Deceiving Stretch of Water with 100% Mortality Rate](https://the-yorkshireman.com/the-strid/)
 - Sep 21 - [Using a Canon EOS camera as a webcam in Debian](https://www.schlachter.xyz/projects/debian-dslr-webcam-with-secure-boot)
 - Sep 21 - [Olive.c: a simple graphics library that does not have any dependencies](https://tsoding.org/olive.c/)
 - Sep 21 - [The IT Crowd US Pilot](https://archive.org/details/the-it-crowd-us-pilot)
 - Sep 21 - [Ask HN: Why is Microsoft Teams still so bad?](https://news.ycombinator.com/item?id=32932137)
-- Sep 21 - [Skipping the boring parts of building a database using FoundationDB](https://blog.tigrisdata.com/building-a-database-using-foundationdb)
 <!--END_SECTION:hn-->
 
 <!--
