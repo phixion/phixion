@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 22 - [The Deceiving Stretch of Water with 100% Mortality Rate](https://the-yorkshireman.com/the-strid/)
-- Sep 21 - [Using a Canon EOS camera as a webcam in Debian](https://www.schlachter.xyz/projects/debian-dslr-webcam-with-secure-boot)
-- Sep 21 - [Olive.c: a simple graphics library that does not have any dependencies](https://tsoding.org/olive.c/)
-- Sep 21 - [The IT Crowd US Pilot](https://archive.org/details/the-it-crowd-us-pilot)
-- Sep 21 - [Ask HN: Why is Microsoft Teams still so bad?](https://news.ycombinator.com/item?id=32932137)
+- Sep 22 - [Show HN: Rocketry – Modern scheduler to power your Python projects](https://github.com/Miksus/rocketry)
+- Sep 22 - [Ask HN: Which books you have read till now that were worth investing time in?](https://news.ycombinator.com/item?id=32935412)
+- Sep 22 - [So You Want to Compete with Steam](https://www.fortressofdoors.com/so-you-want-to-compete-with-steam/)
+- Sep 22 - [9m Australians affected by Optus data breach](https://www.optus.com.au/about/media-centre/media-releases/2022/09/optus-notifies-customers-of-cyberattack)
+- Sep 22 - [Real-time sync for apps even without the internet](https://www.ditto.live/)
 <!--END_SECTION:hn-->
 
 <!--
