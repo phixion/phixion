@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 22 - [Dilemmas in a General Theory of Planning (1973) [pdf]](https://hci.stanford.edu/dschool/resources/readings/Rittel+Webber+Dilemmas+General_Theory_of_Planning.pdf)
-- Sep 22 - [Show HN: Open Prompts – dataset of 10M Stable Diffusion generations](https://github.com/krea-ai/open-prompts)
-- Sep 22 - [Extending supabase with your own back end – its supa easy](https://blog.xa0.de/post/Extending-supabase-with-your-own-backend%20---%20its-supa-easy%21/)
-- Sep 22 - [AlphaFold developers win US$3M Breakthrough Prize](https://www.nature.com/articles/d41586-022-02999-9)
-- Sep 22 - [Hightouch (YC S19) Is Hiring an Engineering Manager](https://boards.greenhouse.io/hightouch/jobs/4580317004)
+- Sep 22 - [We Need New Motherboards Before GPUs Collapse Under Their Own Gravity](https://erikmcclure.com/blog/we-need-new-motherboards/)
+- Sep 22 - [Avoiding homework with code (and getting caught)](https://alistair.blog/mochip)
+- Sep 22 - [Expanding access to the future of work with crypto payouts](https://stripe.com/newsroom/stories/braintrust-crypto-payouts)
+- Sep 22 - [The rush to mine lithium could dry up the high Andes](https://e360.yale.edu/features/lithium-mining-water-andes-argentina)
+- Sep 22 - [Pcmcia Pico W Card](https://www.yyzkevin.com/pcmcia-pico-w-card/)
 <!--END_SECTION:hn-->
 
 <!--
