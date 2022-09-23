@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 23 - [Be Critical or Be Corrupted](https://www.cenizal.com/be-critical-or-be-corrupted/)
-- Sep 23 - [Charging cars at home at night is not the way to go: study](https://news.stanford.edu/press/view/45245)
-- Sep 23 - [FreeBSD Cope with WiFi Fuckup](https://vermaden.wordpress.com/2022/09/14/freebsd-cope-with-wifi-fuckup/)
-- Sep 23 - [Show HN: TwitterToNitter. A bookmarklet that makes reading on Twitter easier](https://github.com/no-gravity/TwitterToNitter)
-- Sep 23 - [A collection of several hundred online tools for OSINT](https://github.com/cipher387/osint_stuff_tool_collection)
+- Sep 23 - [Shasta: Adobe's AI audio recording and editing](https://pages.adobe.com/shasta/)
+- Sep 23 - [Mozilla claims Apple, Google and Microsoft force users to use default browsers](https://www.techradar.com/news/mozilla-claims-apple-google-and-microsoft-force-users-to-use-default-web-browsers)
+- Sep 23 - [An anonymous person donated 299 ETH from Tornado Cash to Redox OS](https://etherscan.io/tx/0x21f4b538ea53df8685eed62a8036562c48dee0a64bfee77b3299988bec84f134)
+- Sep 23 - [San Francisco police can now watch private surveillance cameras in real time](https://www.theverge.com/2022/9/23/23368603/san-francisco-police-private-surveillance-cameras-vote)
+- Sep 23 - [OCaml Exercises](https://ocaml.org/problems)
 <!--END_SECTION:hn-->
 
 <!--
