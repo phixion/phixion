@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 23 - [GCC Rust Monthly Report #20 August 2022](https://thephilbert.io/2022/09/22/gcc-rust-monthly-report-20-august-2022/)
-- Sep 23 - [US installs record solar capacity as prices keep falling](https://arstechnica.com/science/2022/09/us-installs-record-solar-capacity-as-prices-keep-falling/)
-- Sep 23 - [Signal TLS Proxy](https://github.com/signalapp/Signal-TLS-Proxy)
-- Sep 23 - [From Ex-Adobe Employee: On Adobe Acquiring Figma](https://build.typogram.co/p/on-adobe-acquiring-figma)
-- Sep 23 - [The sum of all knowledge and the sorry state of the web](https://christianheilmann.com/2022/08/29/the-sum-of-all-knowledge/)
+- Sep 23 - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+- Sep 23 - [Show HN: MathB.in – Mathematics Pastebin Written in Common Lisp](https://github.com/susam/mathb)
+- Sep 23 - [Friday Facts #370 – The journey to Nintendo Switch](https://factorio.com/blog/post/fff-370)
+- Sep 23 - [Matrix web-based green code rain, made with love](https://github.com/Rezmason/matrix)
+- Sep 23 - [Working with strings in Rust (2020)](https://fasterthanli.me/articles/working-with-strings-in-rust)
 <!--END_SECTION:hn-->
 
 <!--
