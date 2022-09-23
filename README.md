@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 22 - [We Need New Motherboards Before GPUs Collapse Under Their Own Gravity](https://erikmcclure.com/blog/we-need-new-motherboards/)
-- Sep 22 - [Avoiding homework with code (and getting caught)](https://alistair.blog/mochip)
-- Sep 22 - [Expanding access to the future of work with crypto payouts](https://stripe.com/newsroom/stories/braintrust-crypto-payouts)
-- Sep 22 - [The rush to mine lithium could dry up the high Andes](https://e360.yale.edu/features/lithium-mining-water-andes-argentina)
-- Sep 22 - [Pcmcia Pico W Card](https://www.yyzkevin.com/pcmcia-pico-w-card/)
+- Sep 23 - [The South Asian Polycrisis](https://adamtooze.substack.com/p/chartbook-153-the-south-asian-polycrisis)
+- Sep 23 - [Nightdrive](https://incoherency.co.uk/blog/stories/nightdrive.html)
+- Sep 23 - [Uify: One Workspace](https://uify.io/)
+- Sep 23 - [Super-Earths Are Bigger and More Habitable Than Earth, and Astronomers Are Di](https://singularityhub.com/2022/09/22/super-earths-are-bigger-and-more-habitable-than-earth-and-astronomers-are-discovering-more-of-the-billions-they-think-are-out-there/)
+- Sep 22 - [A pair of Rust kernel modules](https://lwn.net/Articles/907685/)
 <!--END_SECTION:hn-->
 
 <!--
