@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 23 - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
-- Sep 23 - [Show HN: MathB.in – Mathematics Pastebin Written in Common Lisp](https://github.com/susam/mathb)
-- Sep 23 - [Friday Facts #370 – The journey to Nintendo Switch](https://factorio.com/blog/post/fff-370)
-- Sep 23 - [Matrix web-based green code rain, made with love](https://github.com/Rezmason/matrix)
-- Sep 23 - [Working with strings in Rust (2020)](https://fasterthanli.me/articles/working-with-strings-in-rust)
+- Sep 23 - [Be Critical or Be Corrupted](https://www.cenizal.com/be-critical-or-be-corrupted/)
+- Sep 23 - [Charging cars at home at night is not the way to go: study](https://news.stanford.edu/press/view/45245)
+- Sep 23 - [FreeBSD Cope with WiFi Fuckup](https://vermaden.wordpress.com/2022/09/14/freebsd-cope-with-wifi-fuckup/)
+- Sep 23 - [Show HN: TwitterToNitter. A bookmarklet that makes reading on Twitter easier](https://github.com/no-gravity/TwitterToNitter)
+- Sep 23 - [A collection of several hundred online tools for OSINT](https://github.com/cipher387/osint_stuff_tool_collection)
 <!--END_SECTION:hn-->
 
 <!--
