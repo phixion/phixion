@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 24 - [IBM AIX for IA64 (Itanium) a.k.a. Project Monterey Runs Again](https://virtuallyfun.com/wordpress/2022/09/24/ibm-aix-for-ia64-itanium-aka-project-monterey-runs-again/)
-- Sep 24 - [Ask HN: Strategies to land remote US job while living in living in EU?](https://news.ycombinator.com/item?id=32961061)
-- Sep 24 - [Mozilla reaffirms that Firefox will continue to support current content blockers](https://www.ghacks.net/2022/09/24/mozilla-reaffirms-that-firefox-will-continue-to-support-current-content-blockers/)
-- Sep 24 - [Volvo is using Rust for its in-vehicle software](https://medium.com/volvo-cars-engineering/why-volvo-thinks-you-should-have-rust-in-your-car-4320bd639e09)
-- Sep 24 - [Ashby (YC W19) is hiring engineers in Europe](https://www.ashbyhq.com/careers?utm_source=hn)
+- Sep 24 - [Fitbit users will have to sign into Google from 2023](https://www.theregister.com/2022/09/23/fitbit_accounts_to_be_replaced/)
+- Sep 24 - [Want cleaner code? Use the rule of six](https://davidamos.dev/the-rule-of-six/)
+- Sep 24 - [VToonify: Controllable High-Resolution Portrait Video Style Transfer](https://www.mmlab-ntu.com/project/vtoonify/)
+- Sep 24 - [GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images](https://nv-tlabs.github.io/GET3D/)
+- Sep 24 - [How the iPhone Ruins Walking](https://4fishgreenberg.medium.com/how-the-iphone-ruins-walking-23d3a239c882)
 <!--END_SECTION:hn-->
 
 <!--
