@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 24 - [Fitbit users will have to sign into Google from 2023](https://www.theregister.com/2022/09/23/fitbit_accounts_to_be_replaced/)
-- Sep 24 - [Want cleaner code? Use the rule of six](https://davidamos.dev/the-rule-of-six/)
-- Sep 24 - [VToonify: Controllable High-Resolution Portrait Video Style Transfer](https://www.mmlab-ntu.com/project/vtoonify/)
-- Sep 24 - [GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images](https://nv-tlabs.github.io/GET3D/)
-- Sep 24 - [How the iPhone Ruins Walking](https://4fishgreenberg.medium.com/how-the-iphone-ruins-walking-23d3a239c882)
+- Sep 24 - [iPhones and action discoverability](https://alexanderell.is/posts/iphone-discoverability/)
+- Sep 24 - [Gadgetbridge is an Android application for your smart watch and other devices](https://gadgetbridge.org/)
+- Sep 24 - [Ask HN: Books on designing disk-optimized data structures?](https://news.ycombinator.com/item?id=32965075)
+- Sep 24 - [Linux on the laptop works so damn well that it’s boring](https://clivethompson.medium.com/linux-on-the-laptop-works-so-damn-well-that-its-boring-29014b347941)
+- Sep 24 - [SafeBeat Rx (YC S21) Is Hiring](https://www.ycombinator.com/companies/safebeat-rx/jobs/1w9mM9v-research-scientist-post-doctoral-position)
 <!--END_SECTION:hn-->
 
 <!--
