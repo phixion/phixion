@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 24 - [Protests spur Internet disruptions in Iran](https://blog.cloudflare.com/protests-internet-disruption-ir/)
-- Sep 24 - [Ashby hiring engineers in Europe who want ownership (e.g. product decisions)](https://www.ashbyhq.com/careers?utm_source=hn)
-- Sep 24 - [Ask HN: Companies of one, how do you ensure business continuity?](https://news.ycombinator.com/item?id=32960255)
-- Sep 24 - [Windows Will Die: 90 Minutes to Do 5 Minutes of Work](https://gavinhoward.com/2022/09/windows-will-die-90-minutes-to-do-5-minutes-of-work/)
-- Sep 24 - [3dfx Voodoo 5 6000 recreated via reverse engineering (2021)](https://hexus.net/tech/news/graphics/147447-3dfx-voodoo-5-6000-recreated-via-reverse-engineering/)
+- Sep 24 - [IBM AIX for IA64 (Itanium) a.k.a. Project Monterey Runs Again](https://virtuallyfun.com/wordpress/2022/09/24/ibm-aix-for-ia64-itanium-aka-project-monterey-runs-again/)
+- Sep 24 - [Ask HN: Strategies to land remote US job while living in living in EU?](https://news.ycombinator.com/item?id=32961061)
+- Sep 24 - [Mozilla reaffirms that Firefox will continue to support current content blockers](https://www.ghacks.net/2022/09/24/mozilla-reaffirms-that-firefox-will-continue-to-support-current-content-blockers/)
+- Sep 24 - [Volvo is using Rust for its in-vehicle software](https://medium.com/volvo-cars-engineering/why-volvo-thinks-you-should-have-rust-in-your-car-4320bd639e09)
+- Sep 24 - [Ashby (YC W19) is hiring engineers in Europe](https://www.ashbyhq.com/careers?utm_source=hn)
 <!--END_SECTION:hn-->
 
 <!--
