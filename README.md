@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 24 - [Get in Zoomer, We're Saving React](https://acko.net/blog/get-in-zoomer-we-re-saving-react/)
-- Sep 24 - [Technology Choices for My SaaS in Retrospect](https://thomasbandt.com/technology-choices-in-retrospect)
-- Sep 23 - [Something is haunting American Airlines’ announcements and nobody knows how](https://waxy.org/2022/09/a-mysterious-voice-is-haunting-american-airlines-in-flight-announcements-and-nobody-knows-how/)
-- Sep 23 - [The small town that saved its only grocery store – by buying it](https://thehustle.co/the-small-town-that-saved-its-only-grocery-store-by-buying-it/)
-- Sep 23 - [Optimizing compilers deduplicate strings and arrays](https://lemire.me/blog/2022/09/23/optimizing-compilers-deduplicate-strings-and-arrays/)
+- Sep 24 - [Protests spur Internet disruptions in Iran](https://blog.cloudflare.com/protests-internet-disruption-ir/)
+- Sep 24 - [Ashby hiring engineers in Europe who want ownership (e.g. product decisions)](https://www.ashbyhq.com/careers?utm_source=hn)
+- Sep 24 - [Ask HN: Companies of one, how do you ensure business continuity?](https://news.ycombinator.com/item?id=32960255)
+- Sep 24 - [Windows Will Die: 90 Minutes to Do 5 Minutes of Work](https://gavinhoward.com/2022/09/windows-will-die-90-minutes-to-do-5-minutes-of-work/)
+- Sep 24 - [3dfx Voodoo 5 6000 recreated via reverse engineering (2021)](https://hexus.net/tech/news/graphics/147447-3dfx-voodoo-5-6000-recreated-via-reverse-engineering/)
 <!--END_SECTION:hn-->
 
 <!--
