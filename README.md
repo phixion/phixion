@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 24 - [Get in Zoomer, We're Saving React](https://acko.net/blog/get-in-zoomer-we-re-saving-react/)
+- Sep 24 - [Technology Choices for My SaaS in Retrospect](https://thomasbandt.com/technology-choices-in-retrospect)
 - Sep 23 - [Something is haunting American Airlines’ announcements and nobody knows how](https://waxy.org/2022/09/a-mysterious-voice-is-haunting-american-airlines-in-flight-announcements-and-nobody-knows-how/)
-- Sep 23 - [Replit (YC W18) Is Hiring ML Engineers to Build AI for Code](https://replit.com/careers)
-- Sep 23 - [The image in this post displays its own MD5 hash](https://retr0.id/notice/ANqlvFZD1eIqjmRiFc)
-- Sep 23 - [At 4.4 miles, Wyoming team sets new rifle shot world record](https://cowboystatedaily.com/2022/09/20/at-4-4-miles-wyoming-team-sets-new-rifle-shot-world-record/)
-- Sep 23 - [Algorithms and data structures implemented in many programming languages](https://the-algorithms.com/)
+- Sep 23 - [The small town that saved its only grocery store – by buying it](https://thehustle.co/the-small-town-that-saved-its-only-grocery-store-by-buying-it/)
+- Sep 23 - [Optimizing compilers deduplicate strings and arrays](https://lemire.me/blog/2022/09/23/optimizing-compilers-deduplicate-strings-and-arrays/)
 <!--END_SECTION:hn-->
 
 <!--
