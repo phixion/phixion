@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 23 - [Shasta: Adobe's AI audio recording and editing](https://pages.adobe.com/shasta/)
-- Sep 23 - [Mozilla claims Apple, Google and Microsoft force users to use default browsers](https://www.techradar.com/news/mozilla-claims-apple-google-and-microsoft-force-users-to-use-default-web-browsers)
-- Sep 23 - [An anonymous person donated 299 ETH from Tornado Cash to Redox OS](https://etherscan.io/tx/0x21f4b538ea53df8685eed62a8036562c48dee0a64bfee77b3299988bec84f134)
-- Sep 23 - [San Francisco police can now watch private surveillance cameras in real time](https://www.theverge.com/2022/9/23/23368603/san-francisco-police-private-surveillance-cameras-vote)
-- Sep 23 - [OCaml Exercises](https://ocaml.org/problems)
+- Sep 23 - [Something is haunting American Airlines’ announcements and nobody knows how](https://waxy.org/2022/09/a-mysterious-voice-is-haunting-american-airlines-in-flight-announcements-and-nobody-knows-how/)
+- Sep 23 - [Replit (YC W18) Is Hiring ML Engineers to Build AI for Code](https://replit.com/careers)
+- Sep 23 - [The image in this post displays its own MD5 hash](https://retr0.id/notice/ANqlvFZD1eIqjmRiFc)
+- Sep 23 - [At 4.4 miles, Wyoming team sets new rifle shot world record](https://cowboystatedaily.com/2022/09/20/at-4-4-miles-wyoming-team-sets-new-rifle-shot-world-record/)
+- Sep 23 - [Algorithms and data structures implemented in many programming languages](https://the-algorithms.com/)
 <!--END_SECTION:hn-->
 
 <!--
