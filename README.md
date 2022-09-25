@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 25 - [Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring](https://skio.com/careers/)
-- Sep 25 - [Ask HN: Do you think many posts don't get the front page attention they deserve?](https://news.ycombinator.com/item?id=32970436)
-- Sep 25 - [Self-Control Secrets of the Puritan Masters](https://wyclif.substack.com/p/self-control-secrets-of-the-puritan)
-- Sep 25 - [DOS on DOPE](https://github.com/secretGeek/dod)
-- Sep 25 - [JPEG XL: libjxl 0.7.0 released](https://github.com/libjxl/libjxl/releases/tag/v0.7.0)
+- Sep 25 - [How to survive a lightning strike (2014)](https://www.outsideonline.com/outdoor-adventure/exploration-survival/body-electric/)
+- Sep 25 - [Learning from Cows: Community Owned WiFi-Mesh](https://branch.climateaction.tech/issues/issue-4/cows/)
+- Sep 25 - [58 bytes of CSS to look great nearly everywhere](https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41)
+- Sep 25 - [Citing New Evidence, Families Sue Feds, Raytheon, Lockheed over 1996 TWA Crash](https://lawstreetmedia.com/news/citing-new-evidence-surviving-family-members-sue-feds-raytheon-and-lockheed-martin-over-1996-twa-crash/)
+- Sep 25 - [Pdfgrep – a commandline utility to search text in PDF files](https://pdfgrep.org/)
 <!--END_SECTION:hn-->
 
 <!--
