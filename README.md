@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 25 - [Stacker (YC S20) Is Hiring Product Engineers](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
-- Sep 25 - [The MIPS ThinkPad, Kind Of](http://oldvcr.blogspot.com/2022/09/the-mips-thinkpad-kind-of.html)
-- Sep 25 - [Netflix Keeps Its Data Infrastructure Cost-Effective](https://acceldataio.medium.com/data-engineering-best-practices-how-netflix-keeps-its-data-infrastructure-cost-effective-dee310bcc910)
-- Sep 25 - [This X Does Not Exist](https://thisxdoesnotexist.com/)
-- Sep 25 - [Catalytic Process with Lignin Could Enable Sustainable Aviation Fuel](https://www.nrel.gov/news/press/2022/catalytic-process-with-lignin-could-enable-100-sustainable-aviation-fuel.html)
+- Sep 25 - [Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring](https://skio.com/careers/)
+- Sep 25 - [Ask HN: Do you think many posts don't get the front page attention they deserve?](https://news.ycombinator.com/item?id=32970436)
+- Sep 25 - [Self-Control Secrets of the Puritan Masters](https://wyclif.substack.com/p/self-control-secrets-of-the-puritan)
+- Sep 25 - [DOS on DOPE](https://github.com/secretGeek/dod)
+- Sep 25 - [JPEG XL: libjxl 0.7.0 released](https://github.com/libjxl/libjxl/releases/tag/v0.7.0)
 <!--END_SECTION:hn-->
 
 <!--
