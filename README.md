@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 24 - [James Earl Jones Signs Off on Using Recordings to Recreate Voice with AI](https://variety.com/2022/digital/news/james-earl-jones-darth-vader-retiring-star-wars-ai-1235382827/)
-- Sep 24 - [webЯcade – WASM based retro emulation on any device](https://github.com/webrcade/webrcade)
-- Sep 24 - [FBI misled judge who signed warrant for seizure of $86M in cash](https://www.latimes.com/california/story/2022-09-23/fbi-beverly-hills-safe-deposit-box-raid-forfeiture-judge)
-- Sep 24 - [Audio Optocouplers](https://learnabout-electronics.org/Semiconductors/opto_53.php)
-- Sep 24 - [Firezone is hiring a founding engineer to build an open-source corporate VPN](https://www.ycombinator.com/companies/firezone/jobs)
+- Sep 25 - [Catalytic Process with Lignin Could Enable 100% Sustainable Aviation Fuel](https://www.nrel.gov/news/press/2022/catalytic-process-with-lignin-could-enable-100-sustainable-aviation-fuel.html)
+- Sep 25 - [This page is a truly naked, brutalist HTML quine](https://secretgeek.github.io/html_wysiwyg/html.html)
+- Sep 25 - [I Fooled Millions into Thinking Chocolate Helps Weight Loss](https://gizmodo.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800)
+- Sep 25 - [New Insignia for Air Domain Intelligence Has a UFO](https://www.airdomainintelligence.mil/)
+- Sep 24 - [Okta Exposes Passwords in Clear Text for Possible Theft](https://www.darkreading.com/application-security/okta-exposes-passwords-clear-text-theft)
 <!--END_SECTION:hn-->
 
 <!--
