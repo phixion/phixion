@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 25 - [How to survive a lightning strike (2014)](https://www.outsideonline.com/outdoor-adventure/exploration-survival/body-electric/)
-- Sep 25 - [Learning from Cows: Community Owned WiFi-Mesh](https://branch.climateaction.tech/issues/issue-4/cows/)
-- Sep 25 - [58 bytes of CSS to look great nearly everywhere](https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41)
-- Sep 25 - [Citing New Evidence, Families Sue Feds, Raytheon, Lockheed over 1996 TWA Crash](https://lawstreetmedia.com/news/citing-new-evidence-surviving-family-members-sue-feds-raytheon-and-lockheed-martin-over-1996-twa-crash/)
-- Sep 25 - [Pdfgrep – a commandline utility to search text in PDF files](https://pdfgrep.org/)
+- Sep 25 - [Someday aliens will land and all will be fine until we explain our calendar](https://twitter.com/foone/status/1572260363764400129)
+- Sep 25 - [Tradition Is Smarter Than You Are (2018)](https://scholars-stage.org/tradition-is-smarter-than-you-are/)
+- Sep 25 - [Train Travel in the UK: A Foreigner’s Perspective](https://paliparan.com/2022/09/25/train-travel-uk-foreigners-perspective/)
+- Sep 25 - [Word Writer 6 Commodore 64 Source Code](https://github.com/jefflomax/word-writer-6-commodore-64)
+- Sep 25 - [Iran’s Internet Shutdown Hides a Deadly Crackdown](https://www.wired.com/story/iran-protests-2022-internet-shutdown-whatsapp/)
 <!--END_SECTION:hn-->
 
 <!--
