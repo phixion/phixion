@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 24 - [iPhones and action discoverability](https://alexanderell.is/posts/iphone-discoverability/)
-- Sep 24 - [Gadgetbridge is an Android application for your smart watch and other devices](https://gadgetbridge.org/)
-- Sep 24 - [Ask HN: Books on designing disk-optimized data structures?](https://news.ycombinator.com/item?id=32965075)
-- Sep 24 - [Linux on the laptop works so damn well that it’s boring](https://clivethompson.medium.com/linux-on-the-laptop-works-so-damn-well-that-its-boring-29014b347941)
-- Sep 24 - [SafeBeat Rx (YC S21) Is Hiring](https://www.ycombinator.com/companies/safebeat-rx/jobs/1w9mM9v-research-scientist-post-doctoral-position)
+- Sep 24 - [James Earl Jones Signs Off on Using Recordings to Recreate Voice with AI](https://variety.com/2022/digital/news/james-earl-jones-darth-vader-retiring-star-wars-ai-1235382827/)
+- Sep 24 - [webЯcade – WASM based retro emulation on any device](https://github.com/webrcade/webrcade)
+- Sep 24 - [FBI misled judge who signed warrant for seizure of $86M in cash](https://www.latimes.com/california/story/2022-09-23/fbi-beverly-hills-safe-deposit-box-raid-forfeiture-judge)
+- Sep 24 - [Audio Optocouplers](https://learnabout-electronics.org/Semiconductors/opto_53.php)
+- Sep 24 - [Firezone is hiring a founding engineer to build an open-source corporate VPN](https://www.ycombinator.com/companies/firezone/jobs)
 <!--END_SECTION:hn-->
 
 <!--
