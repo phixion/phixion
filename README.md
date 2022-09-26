@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 25 - [Downturn Career Decisions](https://lethain.com/downturn-career-decisions/)
-- Sep 25 - [LeanQt – a stripped-down Qt version easy to build from source and to inte (cont)](https://github.com/rochus-keller/LeanQt)
-- Sep 25 - [Mcmaster.com is the best e-commerce site I've ever used](https://www.bedelstein.com/post/mcmaster-carr)
-- Sep 25 - [Show HN: A Little Tool to Visualize Guitar Chords](https://muted.io/guitar-chords/)
-- Sep 25 - [The Book of Swarm (2020) [pdf]](https://www.ethswarm.org/The-Book-of-Swarm.pdf)
+- Sep 26 - [McKinsey and Providence colluded to force poor patients into destitution](https://pluralistic.net/2022/09/25/criminal-conspiracy/#payment-is-expected)
+- Sep 26 - [50 Years Ago, Sugar Industry Quietly Paid Scientists to Point Blame at Fat (2016)](https://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat)
+- Sep 26 - [British pound plunged to hit a record low of $1.0382](https://www.cnbc.com/2022/09/26/sterling-hits-record-low-against-the-dollar-as-other-asia-pacific-currencies-weaken.html)
+- Sep 26 - [Adversarial Collaboration](https://www.edge.org/adversarial-collaboration-daniel-kahneman)
+- Sep 26 - [JMAP: It’s Like IMAP but Not Really (2019)](https://unencumberedbyfacts.com/2019/01/24/jmap-its-like-imap-but-not-really/)
 <!--END_SECTION:hn-->
 
 <!--
