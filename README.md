@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 26 - [Traffic cameras expose your location through parking apps](https://notmyplate.com/whitepaper/)
-- Sep 26 - [macOS Free and Open-Source Security Tools by Objective-See](https://objective-see.org/tools.html)
-- Sep 26 - [Adversarial collaboration](https://www.edge.org/adversarial-collaboration-daniel-kahneman)
-- Sep 26 - [JMAP: It’s Like IMAP but Not Really (2019)](https://unencumberedbyfacts.com/2019/01/24/jmap-its-like-imap-but-not-really/)
-- Sep 26 - [Exploring Time and Order in Distributed Systems](https://voidpapers.substack.com/p/voidpapers-time-clocks-and-the-ordering)
+- Sep 26 - [Stop others from tracking your car – NOTMYPLATE.COM](https://notmyplate.com/)
+- Sep 26 - [Non-Code Contributions to Open Source](https://navendu.me/posts/non-code-contributions-to-open-source/)
+- Sep 26 - [Ask HN: How influential can physical appearance be in professional environments?](https://news.ycombinator.com/item?id=32980987)
+- Sep 26 - [Turns are better than radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
+- Sep 26 - [Show HN: Open-Source Intercom with Help Center](https://github.com/chatwoot/chatwoot)
 <!--END_SECTION:hn-->
 
 <!--
