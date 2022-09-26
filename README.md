@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 25 - [Someday aliens will land and all will be fine until we explain our calendar](https://twitter.com/foone/status/1572260363764400129)
-- Sep 25 - [Tradition Is Smarter Than You Are (2018)](https://scholars-stage.org/tradition-is-smarter-than-you-are/)
-- Sep 25 - [Train Travel in the UK: A Foreigner’s Perspective](https://paliparan.com/2022/09/25/train-travel-uk-foreigners-perspective/)
-- Sep 25 - [Word Writer 6 Commodore 64 Source Code](https://github.com/jefflomax/word-writer-6-commodore-64)
-- Sep 25 - [Iran’s Internet Shutdown Hides a Deadly Crackdown](https://www.wired.com/story/iran-protests-2022-internet-shutdown-whatsapp/)
+- Sep 25 - [Downturn Career Decisions](https://lethain.com/downturn-career-decisions/)
+- Sep 25 - [LeanQt – a stripped-down Qt version easy to build from source and to inte (cont)](https://github.com/rochus-keller/LeanQt)
+- Sep 25 - [Mcmaster.com is the best e-commerce site I've ever used](https://www.bedelstein.com/post/mcmaster-carr)
+- Sep 25 - [Show HN: A Little Tool to Visualize Guitar Chords](https://muted.io/guitar-chords/)
+- Sep 25 - [The Book of Swarm (2020) [pdf]](https://www.ethswarm.org/The-Book-of-Swarm.pdf)
 <!--END_SECTION:hn-->
 
 <!--
