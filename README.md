@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 26 - [Stop others from tracking your car – NOTMYPLATE.COM](https://notmyplate.com/)
-- Sep 26 - [Non-Code Contributions to Open Source](https://navendu.me/posts/non-code-contributions-to-open-source/)
-- Sep 26 - [Ask HN: How influential can physical appearance be in professional environments?](https://news.ycombinator.com/item?id=32980987)
-- Sep 26 - [Turns are better than radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
-- Sep 26 - [Show HN: Open-Source Intercom with Help Center](https://github.com/chatwoot/chatwoot)
+- Sep 26 - [Does Someone Know My Name?](https://blogs.loc.gov/now-see-hear/2022/09/does-someone-know-my-name-mystery-photos/)
+- Sep 26 - [Have I Been Sqautted – free DNS typosquatting platform](https://haveibeensquatted.com/)
+- Sep 26 - [Launch HN: Prequel (YC W21) – Sync data to your customer’s data warehouse](https://news.ycombinator.com/item?id=32984103)
+- Sep 26 - [Playstation 2 Architecture](https://www.copetti.org/writings/consoles/playstation-2/)
+- Sep 26 - [Zen4's AVX512 Teardown](https://www.mersenneforum.org/showthread.php?p=614191)
 <!--END_SECTION:hn-->
 
 <!--
