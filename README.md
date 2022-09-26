@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 26 - [McKinsey and Providence colluded to force poor patients into destitution](https://pluralistic.net/2022/09/25/criminal-conspiracy/#payment-is-expected)
-- Sep 26 - [50 Years Ago, Sugar Industry Quietly Paid Scientists to Point Blame at Fat (2016)](https://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat)
-- Sep 26 - [British pound plunged to hit a record low of $1.0382](https://www.cnbc.com/2022/09/26/sterling-hits-record-low-against-the-dollar-as-other-asia-pacific-currencies-weaken.html)
-- Sep 26 - [Adversarial Collaboration](https://www.edge.org/adversarial-collaboration-daniel-kahneman)
+- Sep 26 - [Traffic cameras expose your location through parking apps](https://notmyplate.com/whitepaper/)
+- Sep 26 - [macOS Free and Open-Source Security Tools by Objective-See](https://objective-see.org/tools.html)
+- Sep 26 - [Adversarial collaboration](https://www.edge.org/adversarial-collaboration-daniel-kahneman)
 - Sep 26 - [JMAP: It’s Like IMAP but Not Really (2019)](https://unencumberedbyfacts.com/2019/01/24/jmap-its-like-imap-but-not-really/)
+- Sep 26 - [Exploring Time and Order in Distributed Systems](https://voidpapers.substack.com/p/voidpapers-time-clocks-and-the-ordering)
 <!--END_SECTION:hn-->
 
 <!--
