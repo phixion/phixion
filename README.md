@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 27 - [It Hurts to Ask [pdf]](https://scholar.princeton.edu/sites/default/files/rbenabou/files/ihta_august_7.pdf)
+- Sep 27 - [Show HN: Get conversational practice in over 20 languages by talking to an AI](https://talk.quazel.com/chat/try)
+- Sep 27 - [An Introduction to Binary Decision Diagrams [pdf]](https://www.cs.utexas.edu/~isil/cs389L/bdd.pdf)
+- Sep 27 - [270K subscribers and $5K/mo with an Asian history/tech YouTube channel](https://www.screenlace.com/how-asianometry-grew-to-270k-subscribers-on-youtube/)
 - Sep 27 - [Cairo: Alternative Windows Desktop](https://cairodesktop.com/)
-- Sep 27 - [If SaaS Products Sell Themselves, Why Do We Need Sales?](https://a16z.com/2014/05/30/selling-saas-products-dont-sell-themselves/)
-- Sep 27 - [0 A.D. Alpha 26: Zhuangzi](https://play0ad.com/new-release-0-a-d-alpha-26-zhuangzi/)
-- Sep 27 - [How one of America’s last piano manufacturers stays alive](https://thehustle.co/how-one-of-americas-last-piano-manufacturers-stays-alive/)
-- Sep 27 - [The next century of computing](https://bzogrammer.substack.com/p/the-next-century-of-computing)
 <!--END_SECTION:hn-->
 
 <!--
