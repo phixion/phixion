@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 27 - [It Hurts to Ask [pdf]](https://scholar.princeton.edu/sites/default/files/rbenabou/files/ihta_august_7.pdf)
-- Sep 27 - [Show HN: Get conversational practice in over 20 languages by talking to an AI](https://talk.quazel.com/chat/try)
-- Sep 27 - [An Introduction to Binary Decision Diagrams [pdf]](https://www.cs.utexas.edu/~isil/cs389L/bdd.pdf)
-- Sep 27 - [270K subscribers and $5K/mo with an Asian history/tech YouTube channel](https://www.screenlace.com/how-asianometry-grew-to-270k-subscribers-on-youtube/)
-- Sep 27 - [Cairo: Alternative Windows Desktop](https://cairodesktop.com/)
+- Sep 27 - [Someone was paid to pretend to be me for an interview](https://connortumbleson.com/2022/09/19/someone-is-pretending-to-be-me/)
+- Sep 27 - [How Big Is Infinity?](https://www.quantamagazine.org/how-big-is-infinity-20220927/)
+- Sep 27 - [What Happened to Tandy Computers](https://dfarq.homeip.net/what-happened-to-tandy-computers/)
+- Sep 27 - [Ask HN: Have you experienced “hiring fraud?”](https://news.ycombinator.com/item?id=32996457)
+- Sep 27 - [Room-temperature superconductivity study retracted](https://www.science.org/content/article/something-seriously-wrong-room-temperature-superconductivity-study-retracted)
 <!--END_SECTION:hn-->
 
 <!--
