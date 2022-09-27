@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 26 - [Experimenting a New Syntax to Write SVG](https://yuanchuan.dev/experimenting-a-new-syntax-to-write-svg)
-- Sep 26 - [Ignite – Use Firecracker VMs with Docker images](https://github.com/weaveworks/ignite)
-- Sep 26 - [Only Persistent Login](http://avodonosov.blogspot.com/2022/09/google-login-dialog-does-not-have.html)
-- Sep 26 - [Httpt: A Probe-Resistant Proxy – Usenix](https://www.usenix.org/conference/foci20/presentation/frolov)
-- Sep 26 - [Biogen agrees to pay $900M to settle drug kickbacks allegations](https://www.justice.gov/usao-ma/pr/biogen-inc-agrees-pay-900-million-settle-false-claims-act-allegations-related-improper)
+- Sep 27 - [New Release: 0 A.D. Alpha 26: Zhuangzi (Open Source Ancient Warfare RTS)](https://play0ad.com/new-release-0-a-d-alpha-26-zhuangzi/)
+- Sep 27 - [The Next Century of Computing](https://bzogrammer.substack.com/p/the-next-century-of-computing)
+- Sep 27 - [Why Feelings of Guilt May Signal Leadership Potential](https://www.gsb.stanford.edu/insights/why-feelings-guilt-may-signal-leadership-potential)
+- Sep 27 - [Stop Overcomplicating It: The Simple Guidebook to Upping Your Management Game](https://review.firstround.com/stop-overcomplicating-it-the-simple-guidebook-to-upping-your-management-game)
+- Sep 27 - [Physicists Rewrite a Quantum Rule That Clashes with Our Universe](https://www.quantamagazine.org/physicists-rewrite-a-quantum-rule-that-clashes-with-our-universe-20220926/)
 <!--END_SECTION:hn-->
 
 <!--
