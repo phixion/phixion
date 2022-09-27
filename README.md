@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 27 - [New Release: 0 A.D. Alpha 26: Zhuangzi (Open Source Ancient Warfare RTS)](https://play0ad.com/new-release-0-a-d-alpha-26-zhuangzi/)
-- Sep 27 - [The Next Century of Computing](https://bzogrammer.substack.com/p/the-next-century-of-computing)
-- Sep 27 - [Why Feelings of Guilt May Signal Leadership Potential](https://www.gsb.stanford.edu/insights/why-feelings-guilt-may-signal-leadership-potential)
-- Sep 27 - [Stop Overcomplicating It: The Simple Guidebook to Upping Your Management Game](https://review.firstround.com/stop-overcomplicating-it-the-simple-guidebook-to-upping-your-management-game)
-- Sep 27 - [Physicists Rewrite a Quantum Rule That Clashes with Our Universe](https://www.quantamagazine.org/physicists-rewrite-a-quantum-rule-that-clashes-with-our-universe-20220926/)
+- Sep 27 - [Cairo: Alternative Windows Desktop](https://cairodesktop.com/)
+- Sep 27 - [If SaaS Products Sell Themselves, Why Do We Need Sales?](https://a16z.com/2014/05/30/selling-saas-products-dont-sell-themselves/)
+- Sep 27 - [0 A.D. Alpha 26: Zhuangzi](https://play0ad.com/new-release-0-a-d-alpha-26-zhuangzi/)
+- Sep 27 - [How one of America’s last piano manufacturers stays alive](https://thehustle.co/how-one-of-americas-last-piano-manufacturers-stays-alive/)
+- Sep 27 - [The next century of computing](https://bzogrammer.substack.com/p/the-next-century-of-computing)
 <!--END_SECTION:hn-->
 
 <!--
