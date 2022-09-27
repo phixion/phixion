@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 27 - [Someone was paid to pretend to be me for an interview](https://connortumbleson.com/2022/09/19/someone-is-pretending-to-be-me/)
-- Sep 27 - [How Big Is Infinity?](https://www.quantamagazine.org/how-big-is-infinity-20220927/)
-- Sep 27 - [What Happened to Tandy Computers](https://dfarq.homeip.net/what-happened-to-tandy-computers/)
-- Sep 27 - [Ask HN: Have you experienced “hiring fraud?”](https://news.ycombinator.com/item?id=32996457)
-- Sep 27 - [Room-temperature superconductivity study retracted](https://www.science.org/content/article/something-seriously-wrong-room-temperature-superconductivity-study-retracted)
+- Sep 27 - [SEC charges owners of New Jersey Deli with a $100M Valuation](https://www.sec.gov/news/press-release/2022-172)
+- Sep 27 - [Edge – Closing a 30 pixel gap between native and web](https://blogs.windows.com/msedgedev/2022/09/27/closing-pixel-gap-native-web-window-controls-overlay/)
+- Sep 27 - [Did anyone else just get signed up for “Amazon photos” out of the blue for $60?](https://news.ycombinator.com/item?id=32998673)
+- Sep 27 - [Kill-sticky, a bookmarklet to remove sticky elements and restore scrolling](https://github.com/t-mart/kill-sticky)
+- Sep 27 - [The anatomy of an ML-powered stock picking engine](https://principiamundi.com/posts/didact-anatomy/)
 <!--END_SECTION:hn-->
 
 <!--
