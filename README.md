@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 28 - [Nord Stream Hyperbaric Welding](https://www.wermac.org/nordstream/nordstream_part9.html)
-- Sep 28 - [Show HN: Refurb – A tool for refurbishing and modernizing Python codebases](https://github.com/dosisod/refurb)
-- Sep 28 - [The Open Source PC That Fits in Your Pocket](https://spectrum.ieee.org/meet-an-open-source-pc-that-can-fit-in-your-pocket)
-- Sep 28 - [Taken Under Fascism, Spain’s ‘Stolen Babies’ Are Learning the Truth](https://www.nytimes.com/2022/09/27/magazine/spain-stolen-babies.html)
-- Sep 28 - [California can't save every burned town](https://www.latimes.com/california/story/2022-09-27/california-climate-change-stop-rebuilding-rural-towns-wildfire-greenville)
+- Sep 28 - [The Bifurcation Created by Technology](https://wearenotsaved.com/2022/09/28/the-bifurcation-created-by-technology/)
+- Sep 28 - [Gaming CS Interviews](https://transitivebullsh.it/gaming-cs-interviews)
+- Sep 28 - [I've said it all before but here we go again](http://backreaction.blogspot.com/2022/09/ive-said-it-all-before-but-here-we-go.html)
+- Sep 28 - [Tiny robots have successfully cleared pneumonia from the lungs of mice](https://www.nature.com/articles/s41563-022-01360-9)
+- Sep 28 - [Nord Stream: Tie-ins and hyperbaric welding](https://www.wermac.org/nordstream/nordstream_part9.html)
 <!--END_SECTION:hn-->
 
 <!--
