@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 27 - [SEC charges owners of New Jersey Deli with a $100M Valuation](https://www.sec.gov/news/press-release/2022-172)
-- Sep 27 - [Edge – Closing a 30 pixel gap between native and web](https://blogs.windows.com/msedgedev/2022/09/27/closing-pixel-gap-native-web-window-controls-overlay/)
-- Sep 27 - [Did anyone else just get signed up for “Amazon photos” out of the blue for $60?](https://news.ycombinator.com/item?id=32998673)
-- Sep 27 - [Kill-sticky, a bookmarklet to remove sticky elements and restore scrolling](https://github.com/t-mart/kill-sticky)
-- Sep 27 - [The anatomy of an ML-powered stock picking engine](https://principiamundi.com/posts/didact-anatomy/)
+- Sep 27 - [Guido was right, there should be no lambda in Python (2018)](https://pbrown.me/blog/vslambda/)
+- Sep 27 - [Integrating with Fastmail](https://www.fastmail.com/developer/integrating-with-fastmail/)
+- Sep 27 - [Building Blocks for Theoretical Computer Science [pdf]](https://mfleck.cs.illinois.edu/building-blocks/updates-fa2017//whole-book.pdf)
+- Sep 27 - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+- Sep 27 - [The Rocketeer Who Never Was (2019)](http://www.astronautix.com/t/therocketeerwhoneverwas.html)
 <!--END_SECTION:hn-->
 
 <!--
