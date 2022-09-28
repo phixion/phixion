@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 28 - [UK Has ‘No Chance in Hell’ of Making Its Own Tech Champs: ARM Founder](https://www.bloomberg.com/news/articles/2022-09-28/arm-founder-sees-no-chance-in-hell-uk-getting-tech-sovereignty)
-- Sep 28 - [Pachyderm Is Hiring Sales Engineers and Solutions Architects](https://www.pachyderm.com/careers/)
-- Sep 28 - [Ken Thompson Did Launch His “Trusting Trust” Trojan Attack in Real Life](https://niconiconi.neocities.org/posts/ken-thompson-really-did-launch-his-trusting-trust-trojan-attack-in-real-life/)
-- Sep 28 - [U.S. mortgage interest rates jump to 6.52%, highest since mid-2008](https://www.reuters.com/markets/us/us-mortgage-interest-rates-jump-652-highest-since-mid-2008-2022-09-28/)
-- Sep 28 - [Show HN: Subsection – A tool for creating Support Docs for SaaS](https://subsection.io)
+- Sep 28 - [Ask HN: Seriously, steelman this please. 7,400 employees at Docusign?](https://news.ycombinator.com/item?id=33012137)
+- Sep 28 - [How New Are Yann LeCun's “New” Ideas?](https://garymarcus.substack.com/p/how-new-are-yann-lecuns-new-ideas)
+- Sep 28 - [Show HN: Depot – fast, remote Docker container builds](https://depot.dev)
+- Sep 28 - [Amazon deleted my Final Space digital purchases of season 1 and 2](https://twitter.com/PixelatedWah/status/1574924613456343041)
+- Sep 28 - [Upcoming Restriction Period for US ads about social issues, elections, politics](https://developers.facebook.com/blog/post/2022/09/28/upcoming-restriction-period-for-us-ads/)
 <!--END_SECTION:hn-->
 
 <!--
