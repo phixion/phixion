@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 28 - [The Bifurcation Created by Technology](https://wearenotsaved.com/2022/09/28/the-bifurcation-created-by-technology/)
-- Sep 28 - [Gaming CS Interviews](https://transitivebullsh.it/gaming-cs-interviews)
-- Sep 28 - [I've said it all before but here we go again](http://backreaction.blogspot.com/2022/09/ive-said-it-all-before-but-here-we-go.html)
-- Sep 28 - [Tiny robots have successfully cleared pneumonia from the lungs of mice](https://www.nature.com/articles/s41563-022-01360-9)
-- Sep 28 - [Nord Stream: Tie-ins and hyperbaric welding](https://www.wermac.org/nordstream/nordstream_part9.html)
+- Sep 28 - [Minimize Heap Allocations in Node.js](https://blog.appsignal.com/2022/09/28/minimize-heap-allocations-in-nodejs.html)
+- Sep 28 - [D3wasm 0.4 – Doom 3 in WASM](https://wasm.continuation-labs.com/d3demo/)
+- Sep 28 - [Ask HN: How to be less opinionated?](https://news.ycombinator.com/item?id=33006368)
+- Sep 28 - [The GJK Algorithm for intersecting shapes (2021) [video]](https://www.youtube.com/watch?v=ajv46BSqcK4)
+- Sep 28 - [How Underground Groups Use Stolen Identities and Deepfakes](https://www.trendmicro.com/en_us/research/22/i/how-underground-groups-use-stolen-identities-and-deepfakes.html)
 <!--END_SECTION:hn-->
 
 <!--
