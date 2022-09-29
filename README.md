@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 29 - [Elliptic Curves for Security](https://www.rfc-editor.org/rfc/rfc7748)
-- Sep 29 - [Lua, a Misunderstood Language](https://andregarzia.com/2021/01/lua-a-misunderstood-language.html)
-- Sep 29 - [Angry Reviewer](https://www.angryreviewer.com/)
-- Sep 29 - [Learn Rust by implementing a SHA-1 hash cracker](https://kerkour.com/learning-rust-sha1-hash-cracker)
-- Sep 29 - [Launch HN: Telematica (YC W22) – Plaid for Electric Vehicles](https://www.telematica.so)
+- Sep 29 - [Many indoor air quality sensor products are a scam](https://halestrom.net/darksleep/blog/048_indoorairsensing/)
+- Sep 29 - [Why “Go Nuts, Show Nuts” Doesn’t Work in 2022](https://photomatt.tumblr.com/post/696629352701493248/why-go-nuts-show-nuts-doesnt-work-in-2022)
+- Sep 29 - [DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusionpaper.github.io/)
+- Sep 29 - [Meta announces hiring freeze, warns employees of restructuring](https://www.bloomberg.com/news/articles/2022-09-29/meta-announces-hiring-freeze-warns-employees-of-restructuring)
+- Sep 29 - [Ask HN: Has the Apple Silicon excessive disk read/write issue been fixed?](https://news.ycombinator.com/item?id=33024863)
 <!--END_SECTION:hn-->
 
 <!--
