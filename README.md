@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 29 - [Generally Intelligent (YC S17) Is Hiring Remote Machine Learning Engineers](https://news.ycombinator.com/item?id=33017362)
-- Sep 29 - [Brian Goetz: Paving the On-Ramp (To Java)](https://openjdk.org/projects/amber/design-notes/on-ramp)
-- Sep 29 - [How to Build a Personal Webpage from Scratch (In 2022)](https://rutar.org/writing/how-to-build-a-personal-webpage-from-scratch/)
-- Sep 29 - [RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs](https://github.com/RootMyTV/RootMyTV.github.io)
-- Sep 29 - ["Ducks,” the Canadian cartoonist Kate Beaton’s new graphic memoir](https://www.newyorker.com/books/page-turner/how-kate-beaton-paid-off-her-student-loans)
+- Sep 29 - [The Rise of Fully Homomorphic Encryption](https://queue.acm.org/detail.cfm?id=3561800)
+- Sep 29 - [SEC Charges 16 Wall Street Firms with Widespread Recordkeeping Failures](https://www.sec.gov/news/press-release/2022-174)
+- Sep 29 - [Qt 6.4 Released](https://www.qt.io/blog/qt-6.4-released)
+- Sep 29 - [On Device Network Logging for iOS](https://adamfallon.com/ios/proxy/logging/networking/2022/09/04/on-device-network-logging-for-ios.html)
+- Sep 29 - [JWT vs. Opaque Tokens – When do you use them?](https://zitadel.com/blog/jwt-vs-opaque-tokens)
 <!--END_SECTION:hn-->
 
 <!--
