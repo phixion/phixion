@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 28 - [ButtFish – Effortlessly transmitting Morse Code of chess moves to your butt](https://github.com/RonSijm/ButtFish)
-- Sep 28 - [Scientists find wreckage of ship that tried to warn Titanic of iceberg](https://www.cnn.com/travel/article/titanic-warning-ss-mesaba-irish-sea-intl-scli-scn/index.html)
-- Sep 28 - [Dextromethorphan-Bupropion in Major Depressive Disorder: Controlled Trial](https://pubmed.ncbi.nlm.nih.gov/35582785/)
-- Sep 28 - [Tell HN: Toptal's HTML minification API occasionally injects tracking JavaScript](https://news.ycombinator.com/item?id=33013873)
-- Sep 28 - [New (LTE) Rotary Cell Phone [video]](https://www.youtube.com/watch?v=uV1C-41tq64)
+- Sep 29 - ["Ducks,” the Canadian cartoonist Kate Beaton’s new graphic memoir](https://www.newyorker.com/books/page-turner/how-kate-beaton-paid-off-her-student-loans)
+- Sep 29 - [Meta has banned the personal Facebook accounts for everyone on our team](https://twitter.com/TheOGapp_/status/1575265782094647296)
+- Sep 29 - [Coolio, Grammy-Winning ‘Gangsta’s Paradise’ Rapper, Dies at 59](https://variety.com/2022/music/news/coolio-dead-dies-gangstas-paradise-rapper-1235387456/)
+- Sep 29 - [KittyHawk air taxi startup is winding down](https://www.wsj.com/articles/kittyhawk-google-co-founder-larry-pages-air-taxi-startup-is-winding-down-11663792210)
+- Sep 29 - [Converting coal power plants to nuclear gains steam](https://spectrum.ieee.org/nuclear-power-plant)
 <!--END_SECTION:hn-->
 
 <!--
