@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 28 - [Ask HN: Seriously, steelman this please. 7,400 employees at Docusign?](https://news.ycombinator.com/item?id=33012137)
-- Sep 28 - [How New Are Yann LeCun's “New” Ideas?](https://garymarcus.substack.com/p/how-new-are-yann-lecuns-new-ideas)
-- Sep 28 - [Show HN: Depot – fast, remote Docker container builds](https://depot.dev)
-- Sep 28 - [Amazon deleted my Final Space digital purchases of season 1 and 2](https://twitter.com/PixelatedWah/status/1574924613456343041)
-- Sep 28 - [Upcoming Restriction Period for US ads about social issues, elections, politics](https://developers.facebook.com/blog/post/2022/09/28/upcoming-restriction-period-for-us-ads/)
+- Sep 28 - [ButtFish – Effortlessly transmitting Morse Code of chess moves to your butt](https://github.com/RonSijm/ButtFish)
+- Sep 28 - [Scientists find wreckage of ship that tried to warn Titanic of iceberg](https://www.cnn.com/travel/article/titanic-warning-ss-mesaba-irish-sea-intl-scli-scn/index.html)
+- Sep 28 - [Dextromethorphan-Bupropion in Major Depressive Disorder: Controlled Trial](https://pubmed.ncbi.nlm.nih.gov/35582785/)
+- Sep 28 - [Tell HN: Toptal's HTML minification API occasionally injects tracking JavaScript](https://news.ycombinator.com/item?id=33013873)
+- Sep 28 - [New (LTE) Rotary Cell Phone [video]](https://www.youtube.com/watch?v=uV1C-41tq64)
 <!--END_SECTION:hn-->
 
 <!--
