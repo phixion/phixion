@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 29 - [The Rise of Fully Homomorphic Encryption](https://queue.acm.org/detail.cfm?id=3561800)
-- Sep 29 - [SEC Charges 16 Wall Street Firms with Widespread Recordkeeping Failures](https://www.sec.gov/news/press-release/2022-174)
-- Sep 29 - [Qt 6.4 Released](https://www.qt.io/blog/qt-6.4-released)
-- Sep 29 - [On Device Network Logging for iOS](https://adamfallon.com/ios/proxy/logging/networking/2022/09/04/on-device-network-logging-for-ios.html)
-- Sep 29 - [JWT vs. Opaque Tokens – When do you use them?](https://zitadel.com/blog/jwt-vs-opaque-tokens)
+- Sep 29 - [Elliptic Curves for Security](https://www.rfc-editor.org/rfc/rfc7748)
+- Sep 29 - [Lua, a Misunderstood Language](https://andregarzia.com/2021/01/lua-a-misunderstood-language.html)
+- Sep 29 - [Angry Reviewer](https://www.angryreviewer.com/)
+- Sep 29 - [Learn Rust by implementing a SHA-1 hash cracker](https://kerkour.com/learning-rust-sha1-hash-cracker)
+- Sep 29 - [Launch HN: Telematica (YC W22) – Plaid for Electric Vehicles](https://www.telematica.so)
 <!--END_SECTION:hn-->
 
 <!--
