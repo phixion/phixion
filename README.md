@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 29 - [Many indoor air quality sensor products are a scam](https://halestrom.net/darksleep/blog/048_indoorairsensing/)
-- Sep 29 - [Why “Go Nuts, Show Nuts” Doesn’t Work in 2022](https://photomatt.tumblr.com/post/696629352701493248/why-go-nuts-show-nuts-doesnt-work-in-2022)
-- Sep 29 - [DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusionpaper.github.io/)
-- Sep 29 - [Meta announces hiring freeze, warns employees of restructuring](https://www.bloomberg.com/news/articles/2022-09-29/meta-announces-hiring-freeze-warns-employees-of-restructuring)
-- Sep 29 - [Ask HN: Has the Apple Silicon excessive disk read/write issue been fixed?](https://news.ycombinator.com/item?id=33024863)
+- Sep 29 - [The brain is the battlefield of the future](https://mwi.usma.edu/mwi-video-brain-battlefield-future-dr-james-giordano/)
+- Sep 29 - [UK pensions hit with £100m margin calls as gilts and sterling slide](https://www.risk.net/derivatives/7954682/uk-pensions-hit-with-ps100m-margin-calls-as-gilts-and-sterling-slide)
+- Sep 29 - [I Visited Bucha Today](https://www.amazonredshiftresearchproject.org/slblog/index.html#butcha)
+- Sep 29 - [Why Modern Software Is Slow](https://randomascii.wordpress.com/2022/09/29/why-modern-software-is-slow-windows-voice-recorder/)
+- Sep 29 - [Musico: AI Generated Music](https://www.musi-co.com/listen/streams)
 <!--END_SECTION:hn-->
 
 <!--
