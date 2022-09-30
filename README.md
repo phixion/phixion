@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 30 - [NYC Proposal Offers Cash for Spotting Parking Violations in Bike Lanes](https://www.bloomberg.com/news/articles/2022-09-29/nyc-may-pay-people-for-reporting-bike-lane-blockers)
-- Sep 30 - [Chernobyl black frogs reveal evolution in action](https://phys.org/news/2022-09-chernobyl-black-frogs-reveal-evolution.html)
-- Sep 30 - [Querying Postgres Tables Directly from DuckDB](https://duckdb.org/2022/09/30/postgres-scanner.html)
-- Sep 30 - [Ask HN: HN people who write meaningful software, how did you learn to program?](https://news.ycombinator.com/item?id=33035576)
-- Sep 30 - [USB Charger (USB Power Delivery)](https://www.usb.org/usb-charger-pd)
+- Sep 30 - [Montreal is what North America could be](http://www.loukidelis.com/on-montreal.html)
+- Sep 30 - [AudioGen: Textually Guided Audio Generation](https://felixkreuk.github.io/text2audio_arxiv_samples/)
+- Sep 30 - [AMD Zen 4 is faster with CPU security mitigations enabled on Linux](https://www.phoronix.com/news/AMD-Zen-4-Mitigations-Off)
+- Sep 30 - [Ask HN: Am I the only one who does *NOT* want IoT in their solar panel setup?](https://news.ycombinator.com/item?id=33038829)
+- Sep 30 - ['Big Short' Investor Says White-Collar Jobs Bubble Is 'Bursting'](https://seekingalpha.com/article/4543813-big-short-says-white-collar-jobs-bubble-is-bursting-spy-implications)
 <!--END_SECTION:hn-->
 
 <!--
