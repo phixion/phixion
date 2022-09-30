@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 30 - [Iollo (YC S22) is hiring a founding full-stack engineer](https://www.ycombinator.com/companies/iollo/jobs/ql9YHtG-full-stack-engineer)
-- Sep 30 - [Introduction to the Theory of Programming Languages (1991)](https://bertrandmeyer.com/2022/09/28/introduction-theory-programming-languages-full-book-now-freely-available/)
-- Sep 30 - [Our eyes can change colour throughout our lives](https://www.bbc.com/future/article/20220929-how-our-eyes-change-colour-throughout-our-lives)
-- Sep 30 - [Go Micro: a standard library for distributed systems development](https://golangexample.com/go-micro-a-standard-library-for-distributed-systems-development/)
-- Sep 30 - [The reality of celebratory gunfire](https://www.1point21interactive.com/celebratory-gunfire/)
+- Sep 30 - [We worked for 4 months to build a port for Stadia and today we finished it](https://old.reddit.com/r/gamedev/comments/xrkpmf/horrible_night_with_stadia_we_worked_for_45/)
+- Sep 30 - [Rust Nation – A UK Conference for Rustaceans](https://www.rustnationuk.com)
+- Sep 30 - [Show HN: Red Goose – Convert your website to mobile app](https://news.ycombinator.com/item?id=33033129)
+- Sep 30 - [Reducing logging cost by two orders of magnitude using CLP](https://www.uber.com/blog/reducing-logging-cost-by-two-orders-of-magnitude-using-clp/)
+- Sep 30 - [Why are so many adults acting just like children?](https://aeon.co/essays/a-history-of-kidults-from-hello-kitty-to-disney-weddings)
 <!--END_SECTION:hn-->
 
 <!--
