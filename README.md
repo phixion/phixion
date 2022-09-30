@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 30 - [Lycoris Recoil: Turning Original Anime Production Chaos in Your Favor](https://blog.sakugabooru.com/2022/09/28/lycoris-recoil-and-shingo-adachi-turning-original-anime-production-chaos-in-your-favor/)
-- Sep 30 - [The Reality of Celebratory Gunfire](https://www.1point21interactive.com/celebratory-gunfire/)
-- Sep 30 - [Taking a Break](https://neugierig.org/software/blog/2022/09/break.html)
-- Sep 30 - [MDM: Human Motion Diffusion Model](https://guytevet.github.io/mdm-page/)
-- Sep 30 - [Private profiles are now generally available on GitHub](https://github.blog/changelog/2022-09-29-private-profiles-are-now-generally-available/)
+- Sep 30 - [Iollo (YC S22) is hiring a founding full-stack engineer](https://www.ycombinator.com/companies/iollo/jobs/ql9YHtG-full-stack-engineer)
+- Sep 30 - [Introduction to the Theory of Programming Languages (1991)](https://bertrandmeyer.com/2022/09/28/introduction-theory-programming-languages-full-book-now-freely-available/)
+- Sep 30 - [Our eyes can change colour throughout our lives](https://www.bbc.com/future/article/20220929-how-our-eyes-change-colour-throughout-our-lives)
+- Sep 30 - [Go Micro: a standard library for distributed systems development](https://golangexample.com/go-micro-a-standard-library-for-distributed-systems-development/)
+- Sep 30 - [The reality of celebratory gunfire](https://www.1point21interactive.com/celebratory-gunfire/)
 <!--END_SECTION:hn-->
 
 <!--
