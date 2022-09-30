@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 29 - [The brain is the battlefield of the future](https://mwi.usma.edu/mwi-video-brain-battlefield-future-dr-james-giordano/)
-- Sep 29 - [UK pensions hit with £100m margin calls as gilts and sterling slide](https://www.risk.net/derivatives/7954682/uk-pensions-hit-with-ps100m-margin-calls-as-gilts-and-sterling-slide)
-- Sep 29 - [I Visited Bucha Today](https://www.amazonredshiftresearchproject.org/slblog/index.html#butcha)
-- Sep 29 - [Why Modern Software Is Slow](https://randomascii.wordpress.com/2022/09/29/why-modern-software-is-slow-windows-voice-recorder/)
-- Sep 29 - [Musico: AI Generated Music](https://www.musi-co.com/listen/streams)
+- Sep 30 - [Lycoris Recoil: Turning Original Anime Production Chaos in Your Favor](https://blog.sakugabooru.com/2022/09/28/lycoris-recoil-and-shingo-adachi-turning-original-anime-production-chaos-in-your-favor/)
+- Sep 30 - [The Reality of Celebratory Gunfire](https://www.1point21interactive.com/celebratory-gunfire/)
+- Sep 30 - [Taking a Break](https://neugierig.org/software/blog/2022/09/break.html)
+- Sep 30 - [MDM: Human Motion Diffusion Model](https://guytevet.github.io/mdm-page/)
+- Sep 30 - [Private profiles are now generally available on GitHub](https://github.blog/changelog/2022-09-29-private-profiles-are-now-generally-available/)
 <!--END_SECTION:hn-->
 
 <!--
