@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 30 - [We worked for 4 months to build a port for Stadia and today we finished it](https://old.reddit.com/r/gamedev/comments/xrkpmf/horrible_night_with_stadia_we_worked_for_45/)
-- Sep 30 - [Rust Nation – A UK Conference for Rustaceans](https://www.rustnationuk.com)
-- Sep 30 - [Show HN: Red Goose – Convert your website to mobile app](https://news.ycombinator.com/item?id=33033129)
-- Sep 30 - [Reducing logging cost by two orders of magnitude using CLP](https://www.uber.com/blog/reducing-logging-cost-by-two-orders-of-magnitude-using-clp/)
-- Sep 30 - [Why are so many adults acting just like children?](https://aeon.co/essays/a-history-of-kidults-from-hello-kitty-to-disney-weddings)
+- Sep 30 - [NYC Proposal Offers Cash for Spotting Parking Violations in Bike Lanes](https://www.bloomberg.com/news/articles/2022-09-29/nyc-may-pay-people-for-reporting-bike-lane-blockers)
+- Sep 30 - [Chernobyl black frogs reveal evolution in action](https://phys.org/news/2022-09-chernobyl-black-frogs-reveal-evolution.html)
+- Sep 30 - [Querying Postgres Tables Directly from DuckDB](https://duckdb.org/2022/09/30/postgres-scanner.html)
+- Sep 30 - [Ask HN: HN people who write meaningful software, how did you learn to program?](https://news.ycombinator.com/item?id=33035576)
+- Sep 30 - [USB Charger (USB Power Delivery)](https://www.usb.org/usb-charger-pd)
 <!--END_SECTION:hn-->
 
 <!--
