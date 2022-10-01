@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 01 - [Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote)](https://www.svix.com/careers/)
-- Oct 01 - [Book Reviews by Danny Yee (fiction and nonfiction)](https://dannyreviews.com/)
-- Oct 01 - [Bruce Willis Sells Deepfake Likeness Rights So His 'Twin' Can Star in Movies](https://www.cbr.com/bruce-willis-sells-deepfake-likeness/)
-- Oct 01 - [Predicting Google Closures (2013)](https://www.gwern.net/Google-shutdowns)
-- Oct 01 - [Nier Automata for Switch is a miracle port](https://www.rpgsite.net/feature/13323-nier-automata-for-switch-is-a-miracle-port)
+- Oct 01 - [The Muse (YC W12) Is Hiring a Finance, Ops and M&a Associate](https://www.themuse.com/jobs/themuse/finance-and-operations-associate)
+- Oct 01 - [Mle is a small, flexible, terminal-based text editor written in C](https://github.com/adsr/mle)
+- Oct 01 - [Plant-Based Meat Analogues Weaken Gastrointestinal Digestive Function (in mice)](https://doi.org/10.1021/acs.jafc.2c04246)
+- Oct 01 - [Ask HN: What is your cloud strategy vis-à-vis Google Cloud?](https://news.ycombinator.com/item?id=33045495)
+- Oct 01 - [Asking for help: Please encourage Microsoft to add AAAA records for artefacts](https://news.ycombinator.com/item?id=33045421)
 <!--END_SECTION:hn-->
 
 <!--
