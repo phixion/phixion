@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 30 - [Becoming a father shrinks your cerebrum](https://www.economist.com/science-and-technology/2022/09/28/becoming-a-father-shrinks-your-cerebrum)
+- Oct 01 - [Nier Automata for Switch is a miracle port](https://www.rpgsite.net/feature/13323-nier-automata-for-switch-is-a-miracle-port)
+- Oct 01 - [YouTube age-restriction quagmire exposed by 78-minute Mega Man documentary](https://arstechnica.com/gaming/2022/09/youtube-age-restriction-quagmire-exposed-by-78-minute-mega-man-documentary/)
+- Sep 30 - [GitHub's Missing Merge Option](https://tylercipriani.com/blog/2022/09/30/githubs-missing-merge-option/)
+- Sep 30 - [H4CK1NG G00GL3](https://h4ck1ng.google)
 - Sep 30 - [Magic Leap 2: The most immersive AR platform for enterprise](https://www.magicleap.com/en-us/magic-leap-2-video)
-- Sep 30 - [The Fedora Project Remains Community Driven](https://theevilskeleton.gitlab.io/2022/09/30/the-fedora-project-remains-community-driven.html)
-- Sep 30 - [Lyra V2 – a better, faster, and more versatile speech codec](https://opensource.googleblog.com/2022/09/lyra-v2-a-better-faster-and-more-versatile-speech-codec.html)
-- Sep 30 - [Citrix acquired and merged with Tibco for $16.5B](https://www.cloud.com/news/press-release.html)
 <!--END_SECTION:hn-->
 
 <!--
