@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 30 - [Montreal is what North America could be](http://www.loukidelis.com/on-montreal.html)
-- Sep 30 - [AudioGen: Textually Guided Audio Generation](https://felixkreuk.github.io/text2audio_arxiv_samples/)
-- Sep 30 - [AMD Zen 4 is faster with CPU security mitigations enabled on Linux](https://www.phoronix.com/news/AMD-Zen-4-Mitigations-Off)
-- Sep 30 - [Ask HN: Am I the only one who does *NOT* want IoT in their solar panel setup?](https://news.ycombinator.com/item?id=33038829)
-- Sep 30 - ['Big Short' Investor Says White-Collar Jobs Bubble Is 'Bursting'](https://seekingalpha.com/article/4543813-big-short-says-white-collar-jobs-bubble-is-bursting-spy-implications)
+- Sep 30 - [Becoming a father shrinks your cerebrum](https://www.economist.com/science-and-technology/2022/09/28/becoming-a-father-shrinks-your-cerebrum)
+- Sep 30 - [Magic Leap 2: The most immersive AR platform for enterprise](https://www.magicleap.com/en-us/magic-leap-2-video)
+- Sep 30 - [The Fedora Project Remains Community Driven](https://theevilskeleton.gitlab.io/2022/09/30/the-fedora-project-remains-community-driven.html)
+- Sep 30 - [Lyra V2 – a better, faster, and more versatile speech codec](https://opensource.googleblog.com/2022/09/lyra-v2-a-better-faster-and-more-versatile-speech-codec.html)
+- Sep 30 - [Citrix acquired and merged with Tibco for $16.5B](https://www.cloud.com/news/press-release.html)
 <!--END_SECTION:hn-->
 
 <!--
