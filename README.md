@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 01 - [Amazon to Close 4 of Its 5 US Call Centers, Shifts to Work-from-Home](https://wolfstreet.com/2022/09/29/amazon-to-close-4-of-its-5-us-call-centers-shifts-to-work-from-home-after-closing-44-warehouses-halting-construction-on-8-office-towers/)
-- Oct 01 - [The self-taught UI/UX designer roadmap (2021)](https://bootcamp.uxdesign.cc/the-self-taught-ui-ux-designer-roadmap-in-2021-aa0f5b62cecb)
-- Oct 01 - [A surprising way to lose your files on Windows](https://news.ycombinator.com/item?id=33047150)
-- Oct 01 - [Testing React Apps in 2022 with Cypress: An In-Depth Guide for Beginners](https://profy.dev/article/cypress-react)
-- Oct 01 - [Japan tests explosion-powered rocket for the first time in space (2021)](https://www.autoevolution.com/news/japan-tests-explosion-powered-rocket-for-the-first-time-in-space-is-a-success-167696.html)
+- Oct 01 - [Rammstein Get Restraining Order Blocking Viagogo from Reselling Concert Tickets](https://consequence.net/2022/10/rammstein-block-resell-concert-tickets/)
+- Oct 01 - [Ten Years of TypeScript](https://devblogs.microsoft.com/typescript/ten-years-of-typescript/)
+- Oct 01 - [Show HN: SigNoz – open-source alternative to DataDog, NewRelic](https://github.com/SigNoz/signoz)
+- Oct 01 - [Bash one-liner to produce a list of HEX color codes that read like English words](https://gist.github.com/aileftech/dd4f5598b1f3837651fdf16e5abc3ffb)
+- Oct 01 - [Promoted.ai (YC W21) Is Hiring Staff Data Engineer (Flink)](https://www.ycombinator.com/companies/promoted/jobs/wc5X1S4-staff-data-engineer-flink)
 <!--END_SECTION:hn-->
 
 <!--
