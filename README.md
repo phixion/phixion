@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 01 - [Remote Functions. Instead of API](https://telefunc.com/)
-- Oct 01 - [Systems Software Research is Irrelevant (2000) [pdf]](https://doc.cat-v.org/bell_labs/utah2000/utah2000.pdf)
-- Oct 01 - [230K Chinese “persuaded to return” from abroad to establish Extraterritoriality](https://safeguarddefenders.com/en/blog/230000-policing-expands)
-- Oct 01 - [Padlet (YC W13) Is Hiring in SF to Build Software for a Good Education](https://padlet.jobs)
-- Oct 01 - [The Turns of the Turnverein: Heinrich Hamann’s Gymnastic Photographs (Ca. 1902)](https://publicdomainreview.org/collection/hamann-turner/)
+- Oct 02 - [NetNewsWire: Free and Open Source RSS Reader for Mac and iOS](https://netnewswire.com/)
+- Oct 02 - [Palantir Had Secret Plan to Crack UK’s NHS: ‘Buying Our Way In’](https://www.bloomberg.com/news/articles/2022-09-30/palantir-had-plan-to-crack-uk-health-system-buying-our-way-in)
+- Oct 02 - [An Elegy for GNU and RMS](https://catgirl.ai/log/elegy-gnu/)
+- Oct 02 - [Stadia died because no one trusts Google](https://techcrunch.com/2022/10/01/stadia-died-because-no-one-trusts-google/)
+- Oct 01 - [How Writing Has Spread Across the World, from 3000 BC to This Year](https://www.openculture.com/2022/09/how-writing-has-spread-across-the-world-from-3000-bc-to-this-year-an-animated-map.html)
 <!--END_SECTION:hn-->
 
 <!--
