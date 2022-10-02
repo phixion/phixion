@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 02 - [Tesorio (YC S15) raised a Series B and is hiring various roles](https://www.tesorio.com/careers#job-openings)
-- Oct 02 - [Ask HN: How to Stop Caring (Professionally)?](https://news.ycombinator.com/item?id=33054652)
-- Oct 02 - [Emacs-like editors written in Common Lisp](https://www.cliki.net/cl-emacs)
-- Oct 02 - [Recon and Attack Vectors from My Logs](https://gist.github.com/susam/75c37fd0aff9c5e25112eac75b9ed055)
-- Oct 02 - [Race Conditions Can Be Useful for Parallelism](https://shwestrick.github.io/2022/09/27/useful-races.html)
+- Oct 02 - [Bogotá's website has sign language titles](https://bogota.gov.co/en)
+- Oct 02 - [Show HN: FocusedEdit – a classic Macintosh to web browser shared text editor](https://github.com/CamHenlin/FocusedEdit)
+- Oct 02 - [Meet Silicon Valley’s rattled layoff ‘survivors’](https://fortune.com/2022/09/30/what-its-like-for-tech-employees-who-survive-layoffs-at-company/)
+- Oct 02 - [“Rust is safe” is not some kind of absolute guarantee of code safety](https://lkml.org/lkml/2022/9/19/1105#1105.php)
+- Oct 02 - [Baker's Math](https://www.thefreshloaf.com/handbook/baker039s-math)
 <!--END_SECTION:hn-->
 
 <!--
