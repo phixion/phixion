@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 02 - [NetNewsWire: Free and Open Source RSS Reader for Mac and iOS](https://netnewswire.com/)
-- Oct 02 - [Palantir Had Secret Plan to Crack UK’s NHS: ‘Buying Our Way In’](https://www.bloomberg.com/news/articles/2022-09-30/palantir-had-plan-to-crack-uk-health-system-buying-our-way-in)
-- Oct 02 - [An Elegy for GNU and RMS](https://catgirl.ai/log/elegy-gnu/)
-- Oct 02 - [Stadia died because no one trusts Google](https://techcrunch.com/2022/10/01/stadia-died-because-no-one-trusts-google/)
-- Oct 01 - [How Writing Has Spread Across the World, from 3000 BC to This Year](https://www.openculture.com/2022/09/how-writing-has-spread-across-the-world-from-3000-bc-to-this-year-an-animated-map.html)
+- Oct 02 - [An Algorithm for Polygon Intersections](https://gorillasun.de/blog/an-algorithm-for-polygon-intersections)
+- Oct 02 - [The Andy Warhol case that could wreck American art](https://www.theatlantic.com/ideas/archive/2022/10/warhol-copyright-fair-use-supreme-court-prince/671599/)
+- Oct 02 - [Mandated diversity statement drives Jonathan Haidt to quit academic society](https://reason.com/2022/09/30/mandated-diversity-statement-drives-jonathan-haidt-to-quit-academic-society/)
+- Oct 02 - [Comfy Software: A software aesthetic for hackers with depression](https://catgirl.ai/log/comfy-software/)
+- Oct 02 - [Adventures in dynamic software, visualisations, creating a JVM language](https://luisthiamnye.substack.com/p/adventures-in-dynamic-software-visualisations)
 <!--END_SECTION:hn-->
 
 <!--
