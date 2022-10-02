@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 02 - [An Algorithm for Polygon Intersections](https://gorillasun.de/blog/an-algorithm-for-polygon-intersections)
-- Oct 02 - [The Andy Warhol case that could wreck American art](https://www.theatlantic.com/ideas/archive/2022/10/warhol-copyright-fair-use-supreme-court-prince/671599/)
-- Oct 02 - [Mandated diversity statement drives Jonathan Haidt to quit academic society](https://reason.com/2022/09/30/mandated-diversity-statement-drives-jonathan-haidt-to-quit-academic-society/)
-- Oct 02 - [Comfy Software: A software aesthetic for hackers with depression](https://catgirl.ai/log/comfy-software/)
-- Oct 02 - [Adventures in dynamic software, visualisations, creating a JVM language](https://luisthiamnye.substack.com/p/adventures-in-dynamic-software-visualisations)
+- Oct 02 - [Tesorio (YC S15) raised a Series B and is hiring various roles](https://www.tesorio.com/careers#job-openings)
+- Oct 02 - [Ask HN: How to Stop Caring (Professionally)?](https://news.ycombinator.com/item?id=33054652)
+- Oct 02 - [Emacs-like editors written in Common Lisp](https://www.cliki.net/cl-emacs)
+- Oct 02 - [Recon and Attack Vectors from My Logs](https://gist.github.com/susam/75c37fd0aff9c5e25112eac75b9ed055)
+- Oct 02 - [Race Conditions Can Be Useful for Parallelism](https://shwestrick.github.io/2022/09/27/useful-races.html)
 <!--END_SECTION:hn-->
 
 <!--
