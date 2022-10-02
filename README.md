@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 01 - [Rammstein Get Restraining Order Blocking Viagogo from Reselling Concert Tickets](https://consequence.net/2022/10/rammstein-block-resell-concert-tickets/)
-- Oct 01 - [Ten Years of TypeScript](https://devblogs.microsoft.com/typescript/ten-years-of-typescript/)
-- Oct 01 - [Show HN: SigNoz – open-source alternative to DataDog, NewRelic](https://github.com/SigNoz/signoz)
-- Oct 01 - [Bash one-liner to produce a list of HEX color codes that read like English words](https://gist.github.com/aileftech/dd4f5598b1f3837651fdf16e5abc3ffb)
-- Oct 01 - [Promoted.ai (YC W21) Is Hiring Staff Data Engineer (Flink)](https://www.ycombinator.com/companies/promoted/jobs/wc5X1S4-staff-data-engineer-flink)
+- Oct 01 - [Remote Functions. Instead of API](https://telefunc.com/)
+- Oct 01 - [Systems Software Research is Irrelevant (2000) [pdf]](https://doc.cat-v.org/bell_labs/utah2000/utah2000.pdf)
+- Oct 01 - [230K Chinese “persuaded to return” from abroad to establish Extraterritoriality](https://safeguarddefenders.com/en/blog/230000-policing-expands)
+- Oct 01 - [Padlet (YC W13) Is Hiring in SF to Build Software for a Good Education](https://padlet.jobs)
+- Oct 01 - [The Turns of the Turnverein: Heinrich Hamann’s Gymnastic Photographs (Ca. 1902)](https://publicdomainreview.org/collection/hamann-turner/)
 <!--END_SECTION:hn-->
 
 <!--
