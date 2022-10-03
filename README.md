@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 02 - [After chess, cheating rows rock poker and fishing](https://www.bbc.com/news/world-us-canada-63108879)
-- Oct 02 - [Some take meetings from home, I do it from the matrix - console webcam feed](https://github.com/joschuck/matrix-webcam)
-- Oct 02 - [Japan WWII poison gas agents still scarring people today](https://mainichi.jp/english/articles/20221002/p2g/00m/0na/026000c)
-- Oct 02 - [OneSignal (YC S11) Is Hiring Product Engineers](https://onesignal.com/careers/1d573829-e95f-4aa3-a5b0-8f2080b21b65)
-- Oct 02 - [Use Bookmarklets on Chrome on Android (2020)](https://paul.kinlan.me/use-bookmarklets-on-chrome-on-android/)
+- Oct 02 - [Go Auth Lib](https://github.com/go-pkgz/auth)
+- Oct 02 - [Muon: GPU Based Electron on a Diet](https://github.com/ImVexed/muon)
+- Oct 02 - [Photo of plutonium at Los Alamos shut down a lab for four years (2017)](https://www.science.org/content/article/near-disaster-federal-nuclear-weapons-laboratory-takes-hidden-toll-america-s-arsenal)
+- Oct 02 - [Collect a dossier on a person by username from thousands of sites](https://github.com/soxoj/maigret)
+- Oct 02 - [New asteroid strike images show impact 'a lot bigger than expected'](https://www.spacedaily.com/reports/New_asteroid_strike_images_show_impact_a_lot_bigger_than_expected_999.html)
 <!--END_SECTION:hn-->
 
 <!--
