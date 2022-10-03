@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 02 - [Go Auth Lib](https://github.com/go-pkgz/auth)
-- Oct 02 - [Muon: GPU Based Electron on a Diet](https://github.com/ImVexed/muon)
-- Oct 02 - [Photo of plutonium at Los Alamos shut down a lab for four years (2017)](https://www.science.org/content/article/near-disaster-federal-nuclear-weapons-laboratory-takes-hidden-toll-america-s-arsenal)
-- Oct 02 - [Collect a dossier on a person by username from thousands of sites](https://github.com/soxoj/maigret)
-- Oct 02 - [New asteroid strike images show impact 'a lot bigger than expected'](https://www.spacedaily.com/reports/New_asteroid_strike_images_show_impact_a_lot_bigger_than_expected_999.html)
+- Oct 03 - [Why shaving dulls even the sharpest of razors (2020)](https://news.mit.edu/2020/why-shaving-dulls-razors-0806)
+- Oct 03 - [Tell HN: A disabled 40-year-old person founded a startup and makes a living](https://news.ycombinator.com/item?id=33062606)
+- Oct 03 - [PayPal’s updated acceptable use policy [pdf]](https://www.paypalobjects.com/marketing/ua/pdf/AU/en/acceptableuse-full-110322.pdf)
+- Oct 03 - [Linux Kernel 6.0](https://lwn.net/Articles/910087/)
+- Oct 03 - [Flexport is hiring engineers to build technology to power supply chains](https://flexport.com/careers)
 <!--END_SECTION:hn-->
 
 <!--
