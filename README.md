@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 03 - [Cool HTML elements nobody uses](https://tapajyoti-bose.medium.com/7-cool-html-elements-nobody-uses-436598d85668)
-- Oct 03 - [Ask HN: Who is hiring? (October 2022)](https://news.ycombinator.com/item?id=33068421)
-- Oct 03 - [Ask HN: Freelancer? Seeking freelancer? (October 2022)](https://news.ycombinator.com/item?id=33068420)
-- Oct 03 - [Shrinking Mississippi River Puts American Farm Trade at Risks](https://gcaptain.com/shrinking-mississippi-river-puts-american-farm-trade-at-risks/)
-- Oct 03 - [I need structure in my life](https://janellsihay.com/i-need-structure-in-my-life/)
+- Oct 03 - [Over 80% of pregnancy-related deaths in the U.S. are preventable](https://www.cdc.gov/reproductivehealth/maternal-mortality/erase-mm/data-mmrc.html)
+- Oct 03 - [From Burned Out Tech CEO to Amazon Warehouse Associate](https://www.jasonshen.com/120/)
+- Oct 03 - [You can't buy a Raspberry Pi](https://www.jeffgeerling.com/blog/2022/you-cant-buy-raspberry-pi-right-now)
+- Oct 03 - [PS5 4.03 Kernel Exploit](https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit)
+- Oct 03 - [Highlights from Git 2.38](https://github.blog/2022-10-03-highlights-from-git-2-38/)
 <!--END_SECTION:hn-->
 
 <!--
