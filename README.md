@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 03 - [Feel the power of the Manifest v3](https://github.com/gildas-lormeau/SingleFile-Lite)
-- Oct 03 - [Paseto is everything you love about JWT without any of the design deficits](https://paseto.io/)
-- Oct 03 - [How a razor blade can be damaged as it cuts human hair (2020)](https://news.mit.edu/2020/why-shaving-dulls-razors-0806)
-- Oct 03 - [Tell HN: A disabled 40-year-old person founded a startup and makes a living](https://news.ycombinator.com/item?id=33062606)
-- Oct 03 - [PayPal’s updated acceptable use policy [pdf]](https://www.paypalobjects.com/marketing/ua/pdf/AU/en/acceptableuse-full-110322.pdf)
+- Oct 03 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- Oct 03 - [SEC Charges Kim Kardashian for Touting Crypto Asset Security](https://www.bloomberg.com/news/articles/2022-10-03/sec-charges-kim-kardashian-for-touting-crypto-asset-security-l8sp7fyr)
+- Oct 03 - [Bitcoin Is Digital Scarcity](https://dergigi.com/2022/10/02/bitcoin-is-digital-scarcity/)
+- Oct 03 - [Decision Making Models](http://dtprinciples.blogspot.com/2022/10/decision-making-models.html)
+- Oct 03 - [Failing Intro Economics. A Davidson professor bemoans state of his classroom](https://www.jamesgmartin.center/2022/10/failing-introductory-economics/)
 <!--END_SECTION:hn-->
 
 <!--
