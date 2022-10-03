@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 03 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- Oct 03 - [SEC Charges Kim Kardashian for Touting Crypto Asset Security](https://www.bloomberg.com/news/articles/2022-10-03/sec-charges-kim-kardashian-for-touting-crypto-asset-security-l8sp7fyr)
-- Oct 03 - [Bitcoin Is Digital Scarcity](https://dergigi.com/2022/10/02/bitcoin-is-digital-scarcity/)
-- Oct 03 - [Decision Making Models](http://dtprinciples.blogspot.com/2022/10/decision-making-models.html)
-- Oct 03 - [Failing Intro Economics. A Davidson professor bemoans state of his classroom](https://www.jamesgmartin.center/2022/10/failing-introductory-economics/)
+- Oct 03 - [Cool HTML elements nobody uses](https://tapajyoti-bose.medium.com/7-cool-html-elements-nobody-uses-436598d85668)
+- Oct 03 - [Ask HN: Who is hiring? (October 2022)](https://news.ycombinator.com/item?id=33068421)
+- Oct 03 - [Ask HN: Freelancer? Seeking freelancer? (October 2022)](https://news.ycombinator.com/item?id=33068420)
+- Oct 03 - [Shrinking Mississippi River Puts American Farm Trade at Risks](https://gcaptain.com/shrinking-mississippi-river-puts-american-farm-trade-at-risks/)
+- Oct 03 - [I need structure in my life](https://janellsihay.com/i-need-structure-in-my-life/)
 <!--END_SECTION:hn-->
 
 <!--
