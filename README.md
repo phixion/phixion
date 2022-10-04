@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 04 - [Testing a Cheap ExpressCard to NVMe SSD Adapter on My ThinkPad T430](https://ounapuu.ee/posts/2022/10/04/testing-expresscard-nvme-ssd-adapter/)
-- Oct 04 - [Codebase as Database: Turning the IDE Inside Out with Datalog](https://petevilter.me/post/datalog-typechecking/)
-- Oct 04 - [ZFS 2.1.6 Released](https://github.com/openzfs/zfs/releases/tag/zfs-2.1.6)
-- Oct 04 - [What Can’t the Internet Handle in 2022? Apostrophes](https://www.wsj.com/articles/internet-mangles-names-accents-web-forms-11664462695)
-- Oct 03 - [We Burned Down Players’ Houses in Ultima Online](https://blog.cotten.io/that-time-we-burned-down-players-houses-in-ultima-online-7e556618c8f0?gi=d16a5fbc3623)
+- Oct 04 - [VLC-developer VideoLAN sends legal notice to Indian ministries over ban](https://techcrunch.com/2022/10/04/vlc-developer-videolan-sends-legal-notice-to-indian-ministries-over-ban/)
+- Oct 04 - [Potential Issues of Using a USB Powerbank as a UPS (2021)](https://goughlui.com/2021/09/03/note-potential-issues-of-using-a-usb-powerbank-as-a-ups/)
+- Oct 04 - [VideoLAN has issued a legal notice to Indian Gov for banning their website](https://internetfreedom.in/videolan-issued-legal-notice-to-dot-and-meity-for-banning-their-website-in-india/)
+- Oct 04 - [Ask HN: So you moved off Heroku, where did you go?](https://news.ycombinator.com/item?id=33077118)
+- Oct 04 - [The HTML5 Shiv (2011)](https://www.paulirish.com/2011/the-history-of-the-html5-shiv/)
 <!--END_SECTION:hn-->
 
 <!--
