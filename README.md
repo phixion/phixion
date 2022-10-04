@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 04 - [VLC-developer VideoLAN sends legal notice to Indian ministries over ban](https://techcrunch.com/2022/10/04/vlc-developer-videolan-sends-legal-notice-to-indian-ministries-over-ban/)
-- Oct 04 - [Potential Issues of Using a USB Powerbank as a UPS (2021)](https://goughlui.com/2021/09/03/note-potential-issues-of-using-a-usb-powerbank-as-a-ups/)
-- Oct 04 - [VideoLAN has issued a legal notice to Indian Gov for banning their website](https://internetfreedom.in/videolan-issued-legal-notice-to-dot-and-meity-for-banning-their-website-in-india/)
-- Oct 04 - [Ask HN: So you moved off Heroku, where did you go?](https://news.ycombinator.com/item?id=33077118)
-- Oct 04 - [The HTML5 Shiv (2011)](https://www.paulirish.com/2011/the-history-of-the-html5-shiv/)
+- Oct 04 - [Working on the “Web” Browser for the MEGA65](https://c65gs.blogspot.com/2022/10/working-on-web-browser-for-mega65.html)
+- Oct 04 - [Ask HN: Examples of Microkernels?](https://news.ycombinator.com/item?id=33078441)
+- Oct 04 - [Nobel Prize in Physics Awarded to Alain Aspect, John Clauser and Anton Zeilinger](https://www.nobelprize.org/prizes/physics/2022/summary/)
+- Oct 04 - [The Effect of Space Weather on Human Body at the Spitsbergen Archipelago (2018)](https://www.intechopen.com/chapters/69119)
+- Oct 04 - [UML: My Part in Its Downfall](https://tratt.net/laurie/blog/2022/uml_my_part_in_its_downfall.html)
 <!--END_SECTION:hn-->
 
 <!--
