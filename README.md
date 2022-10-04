@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 04 - [Working on the “Web” Browser for the MEGA65](https://c65gs.blogspot.com/2022/10/working-on-web-browser-for-mega65.html)
-- Oct 04 - [Ask HN: Examples of Microkernels?](https://news.ycombinator.com/item?id=33078441)
-- Oct 04 - [Nobel Prize in Physics Awarded to Alain Aspect, John Clauser and Anton Zeilinger](https://www.nobelprize.org/prizes/physics/2022/summary/)
-- Oct 04 - [The Effect of Space Weather on Human Body at the Spitsbergen Archipelago (2018)](https://www.intechopen.com/chapters/69119)
-- Oct 04 - [UML: My Part in Its Downfall](https://tratt.net/laurie/blog/2022/uml_my_part_in_its_downfall.html)
+- Oct 04 - [Knuth's Art of Computer Programming, V 4B, has gone into print](https://www-cs-faculty.stanford.edu/~knuth/news.html#v4b)
+- Oct 04 - [Alabama GOP chairman made the photo ID he used to vote](https://www.al.com/news/2022/10/alabama-gop-chairman-made-the-photo-id-he-used-to-vote.html)
+- Oct 04 - [Pg_squeeze: An extension to fix table bloat](https://www.cybertec-postgresql.com/en/products/pg_squeeze/)
+- Oct 04 - [Building a Startup on Clojure](https://wobaka.com/blog/building-a-startup-on-clojure/)
+- Oct 04 - [Walmart, CVS face trial for sham homeopathic products next to real meds](https://arstechnica.com/science/2022/10/walmart-cvs-face-trial-for-putting-sham-homeopathic-products-next-to-real-meds/)
 <!--END_SECTION:hn-->
 
 <!--
