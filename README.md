@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 04 - [Knuth's Art of Computer Programming, V 4B, has gone into print](https://www-cs-faculty.stanford.edu/~knuth/news.html#v4b)
-- Oct 04 - [Alabama GOP chairman made the photo ID he used to vote](https://www.al.com/news/2022/10/alabama-gop-chairman-made-the-photo-id-he-used-to-vote.html)
-- Oct 04 - [Pg_squeeze: An extension to fix table bloat](https://www.cybertec-postgresql.com/en/products/pg_squeeze/)
-- Oct 04 - [Building a Startup on Clojure](https://wobaka.com/blog/building-a-startup-on-clojure/)
-- Oct 04 - [Walmart, CVS face trial for sham homeopathic products next to real meds](https://arstechnica.com/science/2022/10/walmart-cvs-face-trial-for-putting-sham-homeopathic-products-next-to-real-meds/)
+- Oct 04 - [“When are we going to use this in our everyday life?”](https://flavoracle.tumblr.com/post/167150535757/its-sad-how-much-of-what-is-taught-in-school-is)
+- Oct 04 - [Elon Musk files SEC filing on Twitter](https://www.sec.gov/Archives/edgar/data/1418091/000110465922105787/tm2227435d1_sc13da.htm)
+- Oct 04 - [Whitest paint is now thin enough to coat cars and planes](https://newatlas.com/materials/worlds-whitest-paint-thin-cars-planes/)
+- Oct 04 - [RISC-V Laptop now available](https://www.tomshardware.com/news/risc-v-laptop-world-first)
+- Oct 04 - [C++20 coroutines: “The bug is in the C++ standard, not GCC.”](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=95111#c23)
 <!--END_SECTION:hn-->
 
 <!--
