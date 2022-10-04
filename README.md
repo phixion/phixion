@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 03 - [Over 80% of pregnancy-related deaths in the U.S. are preventable](https://www.cdc.gov/reproductivehealth/maternal-mortality/erase-mm/data-mmrc.html)
+- Oct 03 - [We Burned Down Players’ Houses in Ultima Online](https://blog.cotten.io/that-time-we-burned-down-players-houses-in-ultima-online-7e556618c8f0?gi=d16a5fbc3623)
+- Oct 03 - [Hckr news – Hacker News sorted by time](https://hckrnews.com/)
+- Oct 03 - [Meticulous (YC S21) Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=33073638)
 - Oct 03 - [From Burned Out Tech CEO to Amazon Warehouse Associate](https://www.jasonshen.com/120/)
-- Oct 03 - [You can't buy a Raspberry Pi](https://www.jeffgeerling.com/blog/2022/you-cant-buy-raspberry-pi-right-now)
 - Oct 03 - [PS5 4.03 Kernel Exploit](https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit)
-- Oct 03 - [Highlights from Git 2.38](https://github.blog/2022-10-03-highlights-from-git-2-38/)
 <!--END_SECTION:hn-->
 
 <!--
