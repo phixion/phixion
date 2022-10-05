@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 04 - [Should billboard advertising be banned?](https://www.bbc.com/news/business-62806697)
+- Oct 05 - [AI-powered communication coach that helps you speak with confidence and clarity](https://www.poised.com/)
+- Oct 05 - [Study: Time-Restricted Eating Improves Cardiovascular Health for Firefighters](https://today.ucsd.edu/story/study-time-restricted-eating-improves-cardiovascular-health-for-firefighters)
+- Oct 05 - [Internet Archive Seeks Material for Library of Amateur Radio and Communications](https://blog.archive.org/2022/10/04/internet-archive-seeks-donations-of-materials-to-build-a-digital-library-of-amateur-radio-and-communications/)
+- Oct 05 - [Show HN: Async UI: A Rust UI Library Where Everything is a Future](https://wishawa.github.io/posts/async-ui-intro/)
 - Oct 04 - [The Full Chess Cheating Report of Hans Neiman](https://www.chess.com/blog/CHESScom/hans-niemann-report)
-- Oct 04 - [The Majority of PostgreSQL Servers on the Internet Are Insecure](https://innerjoin.bit.io/the-majority-of-postgresql-servers-on-the-internet-are-insecure-f1e5ea4b3da3)
-- Oct 04 - [HHS purchases $290M worth of drugs for nuclear emergencies](https://aspr.hhs.gov:443/newsroom/Pages/ARS-Oct2022.aspx)
-- Oct 04 - [Netlink Added to FreeBSD – Unmodified Linux IP(8) Correctly Works](https://cgit.freebsd.org/src/commit/?id=7e5bf68495cc0a8c9793a338a8a02009a7f6dbb6)
 <!--END_SECTION:hn-->
 
 <!--
