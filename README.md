@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 04 - [“When are we going to use this in our everyday life?”](https://flavoracle.tumblr.com/post/167150535757/its-sad-how-much-of-what-is-taught-in-school-is)
-- Oct 04 - [Elon Musk files SEC filing on Twitter](https://www.sec.gov/Archives/edgar/data/1418091/000110465922105787/tm2227435d1_sc13da.htm)
-- Oct 04 - [Whitest paint is now thin enough to coat cars and planes](https://newatlas.com/materials/worlds-whitest-paint-thin-cars-planes/)
-- Oct 04 - [RISC-V Laptop now available](https://www.tomshardware.com/news/risc-v-laptop-world-first)
-- Oct 04 - [C++20 coroutines: “The bug is in the C++ standard, not GCC.”](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=95111#c23)
+- Oct 04 - [Should billboard advertising be banned?](https://www.bbc.com/news/business-62806697)
+- Oct 04 - [The Full Chess Cheating Report of Hans Neiman](https://www.chess.com/blog/CHESScom/hans-niemann-report)
+- Oct 04 - [The Majority of PostgreSQL Servers on the Internet Are Insecure](https://innerjoin.bit.io/the-majority-of-postgresql-servers-on-the-internet-are-insecure-f1e5ea4b3da3)
+- Oct 04 - [HHS purchases $290M worth of drugs for nuclear emergencies](https://aspr.hhs.gov:443/newsroom/Pages/ARS-Oct2022.aspx)
+- Oct 04 - [Netlink Added to FreeBSD – Unmodified Linux IP(8) Correctly Works](https://cgit.freebsd.org/src/commit/?id=7e5bf68495cc0a8c9793a338a8a02009a7f6dbb6)
 <!--END_SECTION:hn-->
 
 <!--
