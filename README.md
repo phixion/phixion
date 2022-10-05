@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 05 - [Ask HN: How do I learn to communicate effectively?](https://news.ycombinator.com/item?id=33091972)
-- Oct 05 - [Castopod – Open-source podcast hosting platform](https://castopod.org/)
-- Oct 05 - [Journalists – 2022 Midterm Elections – Legal Guide](https://www.rcfp.org/resources/election-legal-guide/)
-- Oct 05 - [AI-powered communication coach](https://www.poised.com/)
-- Oct 05 - [Study: Time-Restricted Eating Improves Cardiovascular Health for Firefighters](https://today.ucsd.edu/story/study-time-restricted-eating-improves-cardiovascular-health-for-firefighters)
+- Oct 05 - [MineDojo – Building Open-Ended Embodied Agents with Internet-Scale Knowledge](https://minedojo.org/)
+- Oct 05 - [I Don’t Believe in Sprints](https://www.robinrendle.com/notes/i-don’t-believe-in-sprints/)
+- Oct 05 - [Google picks South Africa for its first cloud region in Africa](https://techcrunch.com/2022/10/05/google-picks-south-africa-for-its-first-cloud-region-in-africa/)
+- Oct 05 - [CMSC 430: Design and Implementation of Programming Languages](https://www.cs.umd.edu/class/fall2022/cmsc430/index.html)
+- Oct 05 - [Nobel Prize in Chemistry Awarded to Bertozzi, Meldal, and Sharpless](https://www.nobelprize.org/prizes/chemistry/2022/summary/)
 <!--END_SECTION:hn-->
 
 <!--
