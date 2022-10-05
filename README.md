@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 05 - [SpaceX exploring mission to boost Hubble](https://orbitalindex.com/archive/2022-10-05-Issue-188/)
-- Oct 05 - [Over 50% of CEOs say they’re considering cutting jobs over the next 6 months](https://www.marketwatch.com/story/more-than-half-of-ceos-consider-workforce-reductions-over-the-next-6-months-and-remote-workers-may-be-the-first-go-to-11664907913)
-- Oct 05 - [What's the difference between GitOps and DevOps?](https://releasehub.com/blog/gitops-vs-devops-understanding-the-difference)
-- Oct 05 - [Tell HN: Our VC told us they won't follow for Series A. At the worst moment](https://news.ycombinator.com/item?id=33097050)
-- Oct 05 - [Discovering faster matrix multiplication algorithms with reinforcement learning](https://www.nature.com/articles/s41586-022-05172-4)
+- Oct 05 - [Partitioning in Postgres, 2022 Edition](https://brandur.org/fragments/postgres-partitioning-2022)
+- Oct 05 - [Head of Election Worker Management Company Arrested for Theft of Personal Data](https://da.lacounty.gov/media/news/head-election-worker-management-company-arrested-connection-theft-personal-data)
+- Oct 05 - [Ask HN: What am I supposed after I’m “disrupted”? Work in video and CG](https://news.ycombinator.com/item?id=33099182)
+- Oct 05 - [Imagen Video: high definition video generation with diffusion models](https://imagen.research.google/video/)
+- Oct 05 - [Apple asks suppliers to shift AirPods, Beats production to India](https://asia.nikkei.com/Spotlight/Supply-Chain/Apple-asks-suppliers-to-shift-AirPods-Beats-production-to-India)
 <!--END_SECTION:hn-->
 
 <!--
