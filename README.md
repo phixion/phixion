@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 06 - [Redditor convert scene from witcher series to Ghibli style anime](https://old.reddit.com/r/StableDiffusion/comments/xwgcov/i_was_messing_around_with_img2img_and_i_created/)
+- Oct 06 - [Excess Death Rates for Republicans and Democrats During the Covid-19 Pandemic](https://www.nber.org/papers/w30512)
+- Oct 06 - [Show HN: Soso.ooo – Google Search Alternative](https://soso.ooo)
+- Oct 06 - [Facebook reportedly laying off thousands of employees](https://futurism.com/the-byte/facebook-reportedly-laying-off-thousands-employees)
+- Oct 06 - [I was messing around with img2img and I created this monstrosity](https://www.reddit.com/r/StableDiffusion/comments/xwgcov/i_was_messing_around_with_img2img_and_i_created/)
 - Oct 06 - [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734)
-- Oct 06 - [What Makes the Zig Programming Language Unique?](https://erikexplores.substack.com/p/what-makes-the-zig-programming-language)
-- Oct 06 - [CISA: Election Security Rumor vs. Reality](https://www.cisa.gov/rumorcontrol)
-- Oct 06 - [Splunk IP suit against Cribl](https://www.splunk.com/en_us/blog/bulletins/splunk-files-intellectual-property-complaint-against-cribl.html)
 <!--END_SECTION:hn-->
 
 <!--
