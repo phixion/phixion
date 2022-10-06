@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 06 - [Pimp My BBC Micro](https://github.com/dekuNukem/RGBeeb/blob/master/README.md)
-- Oct 06 - [Even After $100B, Self-Driving Cars Are Going Nowhere](https://www.bloomberg.com/news/features/2022-10-06/even-after-100-billion-self-driving-cars-are-going-nowhere)
-- Oct 06 - [Cloud desktops aren't as good as you'd think](https://mjg59.dreamwidth.org/61535.html)
-- Oct 06 - [Tell HN: Twitter suspends arrested Iranian tech blogger’s account](https://twitter.com/jadi/)
-- Oct 06 - [Debian Votes to Include Proprietary Firmware, Amends Social Contract](https://www.tomshardware.com/news/debian-includes-proprietary-code)
+- Oct 06 - [The life-changing effects of hallucinations](https://www.bbc.com/future/article/20221005-how-to-hallucinate-without-drugs-and-learn-about-your-brain)
+- Oct 06 - [A working implementation of text-to-3D DreamFusion, powered by Stable Diffusion](https://github.com/ashawkey/stable-dreamfusion)
+- Oct 06 - [Celsius Execs Cashed Out $40M in Crypto Before Halting Withdrawals for Customers](https://gizmodo.com/celsius-execs-cashed-out-bitcoin-price-crypto-ponzi-1849623526)
+- Oct 06 - [All Twitter users in the US will start to see crowdsourced fact checks on tweets](https://www.theverge.com/2022/10/6/23390761/twitter-birdwatch-community-moderation-expansion-misinformation-qanon)
+- Oct 06 - [Show HN: RankedVote – SurveyMonkey but focused on ranked-choice voting](https://www.rankedvote.co)
 <!--END_SECTION:hn-->
 
 <!--
