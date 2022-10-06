@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 06 - [Excess Death Rates for Republicans and Democrats During the Covid-19 Pandemic](https://www.nber.org/papers/w30512)
-- Oct 06 - [Show HN: Soso.ooo – Google Search Alternative](https://soso.ooo)
-- Oct 06 - [Facebook reportedly laying off thousands of employees](https://futurism.com/the-byte/facebook-reportedly-laying-off-thousands-employees)
-- Oct 06 - [I was messing around with img2img and I created this monstrosity](https://www.reddit.com/r/StableDiffusion/comments/xwgcov/i_was_messing_around_with_img2img_and_i_created/)
-- Oct 06 - [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734)
+- Oct 06 - [Pimp My BBC Micro](https://github.com/dekuNukem/RGBeeb/blob/master/README.md)
+- Oct 06 - [Even After $100B, Self-Driving Cars Are Going Nowhere](https://www.bloomberg.com/news/features/2022-10-06/even-after-100-billion-self-driving-cars-are-going-nowhere)
+- Oct 06 - [Cloud desktops aren't as good as you'd think](https://mjg59.dreamwidth.org/61535.html)
+- Oct 06 - [Tell HN: Twitter suspends arrested Iranian tech blogger’s account](https://twitter.com/jadi/)
+- Oct 06 - [Debian Votes to Include Proprietary Firmware, Amends Social Contract](https://www.tomshardware.com/news/debian-includes-proprietary-code)
 <!--END_SECTION:hn-->
 
 <!--
