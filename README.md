@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 05 - [Partitioning in Postgres, 2022 Edition](https://brandur.org/fragments/postgres-partitioning-2022)
-- Oct 05 - [Head of Election Worker Management Company Arrested for Theft of Personal Data](https://da.lacounty.gov/media/news/head-election-worker-management-company-arrested-connection-theft-personal-data)
-- Oct 05 - [Ask HN: What am I supposed after I’m “disrupted”? Work in video and CG](https://news.ycombinator.com/item?id=33099182)
-- Oct 05 - [Imagen Video: high definition video generation with diffusion models](https://imagen.research.google/video/)
-- Oct 05 - [Apple asks suppliers to shift AirPods, Beats production to India](https://asia.nikkei.com/Spotlight/Supply-Chain/Apple-asks-suppliers-to-shift-AirPods-Beats-production-to-India)
+- Oct 05 - [So you're using a weird language](https://morepablo.com/2022/09/so-you-re-using-a-weird-language.html)
+- Oct 05 - [Open Source Firmware Conference 2022 [videos]](https://www.osfc.io/2022/schedule/)
+- Oct 05 - [DoorDash Outage](https://www.doordash.com)
+- Oct 05 - [Jq Internals: Backtracking](https://github.com/stedolan/jq/wiki/Internals:-backtracking)
+- Oct 05 - [We’re adding barcodes to our regular stamps](https://www.royalmail.com/sending/barcoded-stamps)
 <!--END_SECTION:hn-->
 
 <!--
