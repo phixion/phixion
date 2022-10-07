@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 07 - [On AlphaTensor’s new matrix multiplication algorithms](https://fgiesen.wordpress.com/2022/10/06/on-alphatensors-new-matrix-multiplication-algorithms/)
-- Oct 07 - [Startup Builds Houses by Pumping Concrete into Inflatable Forms](https://singularityhub.com/2022/10/06/this-startup-builds-houses-by-pumping-concrete-into-inflatable-forms/)
-- Oct 07 - [Celsius exposes the names of all customers](https://web3isgoinggreat.com/single/celsius-exposes-the-names-of-all-customers-and-their-recent-transactions-in-court-filing--including-their-execs)
-- Oct 07 - [Study links omega-3s to improved brain structure, cognition at midlife](https://news.uthscsa.edu/study-links-omega-3s-to-improved-brain-structure-cognition-at-midlife/)
-- Oct 07 - [Why doesn't Bash's `set -e` do what I expected?](http://mywiki.wooledge.org/BashFAQ/105)
+- Oct 07 - [Amazon autocomplete recommends suicide kits to teens](https://twitter.com/cagoldberglaw/status/1578121305664143360)
+- Oct 07 - [PhotoRoom Is Hiring a Senior Web Developer (WebAssembly, WebGL and React) in Paris](https://jobs.lever.co/photoroom/ac3a361b-aa5e-479d-95d6-434d73e6eb33)
+- Oct 07 - [Longevity of Recordable CDs, DVDs and Blu-Rays](https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/longevity-recordable-cds-dvds.html)
+- Oct 07 - [Stateless – Your new state of find with Elasticsearch](https://www.elastic.co/blog/stateless-your-new-state-of-find-with-elasticsearch)
+- Oct 07 - [Evrard D'Espinque’s Illuminations of De Proprietatibus Rerum (Ca. 1480)](https://publicdomainreview.org/collection/despinque-anglicus-illuminations/)
 <!--END_SECTION:hn-->
 
 <!--
