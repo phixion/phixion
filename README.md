@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 07 - [School vs. Wikipedia](http://ratfactor.com/rss-club/school-vs-wikipedia)
-- Oct 07 - [AWS doesn't make sense for scientific computing](https://www.noahlebovic.com/aws-doesnt-make-sense-for-scientific-computing/)
-- Oct 07 - [Mortal Kombat+](https://mortalkombat.plus)
-- Oct 07 - [RacketCon 2022](https://con.racket-lang.org)
-- Oct 07 - [Using Notion as a headless CMS for our blog](https://datanarratives.com/blog/notion-headless-cms/)
+- Oct 07 - [Big U.S. Banks Are Stiffing Account Takeover Victims](https://krebsonsecurity.com/2022/10/report-big-u-s-banks-are-stiffing-account-takeover-victims/)
+- Oct 07 - [Overzealous Destructuring](https://www.aleksandrhovhannisyan.com/blog/overzealous-destructuring/)
+- Oct 07 - [Gcloud storage: up to 94% faster data transfers for Cloud Storage](https://cloud.google.com/blog/products/storage-data-transfer/new-gcloud-storage-cli-for-your-data-transfers)
+- Oct 07 - [Nuclear Close Calls: Able Archer 83 (2018)](https://www.atomicheritage.org/history/nuclear-close-calls-able-archer-83)
+- Oct 07 - [My Favourite Computer, an Old Mac](http://muezza.ca/thoughts/favourite_computer/)
 <!--END_SECTION:hn-->
 
 <!--
