@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 07 - [Fractional (YC W21) Is Hiring Product Engineers](https://www.ycombinator.com/companies/fractional/jobs/YftyxZJ-product-engineer)
-- Oct 07 - [U.S. residents fight for the right to hang laundry](https://www.reuters.com/article/us-usa-laundry-idUSTRE5AH3JQ20091118)
-- Oct 07 - [Self-Referential Tweet](https://twitter.com/slweeb/status/1578155161347710976)
-- Oct 07 - [All the stupid startup/app ideas I've had so far](https://news.ycombinator.com/item?id=33119246)
-- Oct 07 - [Ask HN: What's Your Biggest Regret?](https://news.ycombinator.com/item?id=33118584)
+- Oct 07 - [School vs. Wikipedia](http://ratfactor.com/rss-club/school-vs-wikipedia)
+- Oct 07 - [AWS doesn't make sense for scientific computing](https://www.noahlebovic.com/aws-doesnt-make-sense-for-scientific-computing/)
+- Oct 07 - [Mortal Kombat+](https://mortalkombat.plus)
+- Oct 07 - [RacketCon 2022](https://con.racket-lang.org)
+- Oct 07 - [Using Notion as a headless CMS for our blog](https://datanarratives.com/blog/notion-headless-cms/)
 <!--END_SECTION:hn-->
 
 <!--
