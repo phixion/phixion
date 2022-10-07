@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 06 - [Show HN: Lambda-8cc – An x86 C compiler written in untyped lambda calculus](https://github.com/woodrush/lambda-8cc)
-- Oct 06 - [After cutting radar, Tesla now dropping ultrasonic sensors from its EVs](https://arstechnica.com/cars/2022/10/after-cutting-radar-tesla-now-dropping-ultrasonic-sensors-from-its-evs/)
-- Oct 06 - [Upgrade to Linux](https://www.upgradetolinux.com/)
-- Oct 06 - [Dormant spores decide to wake-up by counting in their sleep using electricity](https://www.science.org/doi/10.1126/science.abl7484)
-- Oct 06 - [AMD Announces Preliminary Third Quarter 2022 Financial Results](https://finance.yahoo.com/news/amd-announces-preliminary-third-quarter-201700374.html)
+- Oct 07 - [On AlphaTensor’s new matrix multiplication algorithms](https://fgiesen.wordpress.com/2022/10/06/on-alphatensors-new-matrix-multiplication-algorithms/)
+- Oct 07 - [Startup Builds Houses by Pumping Concrete into Inflatable Forms](https://singularityhub.com/2022/10/06/this-startup-builds-houses-by-pumping-concrete-into-inflatable-forms/)
+- Oct 07 - [Celsius exposes the names of all customers](https://web3isgoinggreat.com/single/celsius-exposes-the-names-of-all-customers-and-their-recent-transactions-in-court-filing--including-their-execs)
+- Oct 07 - [Study links omega-3s to improved brain structure, cognition at midlife](https://news.uthscsa.edu/study-links-omega-3s-to-improved-brain-structure-cognition-at-midlife/)
+- Oct 07 - [Why doesn't Bash's `set -e` do what I expected?](http://mywiki.wooledge.org/BashFAQ/105)
 <!--END_SECTION:hn-->
 
 <!--
