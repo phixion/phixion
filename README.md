@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 08 - [Ashby (YC W19) Is Hiring Engineers to Take Ideas from Research to Implementation](https://www.ashbyhq.com/careers?utm_source=hn)
+- Oct 08 - [Lessons learned building an ML trading system that turned $5k into $200k (2019)](https://www.tradientblog.com/2019/11/lessons-learned-building-an-ml-trading-system-that-turned-5k-into-200k/)
+- Oct 08 - [Guys Wake Up the Crimean Bridge Is on Fire](https://twitter.com/saintjavelin/status/1578605529881903104)
+- Oct 08 - [Top USB Drives on Amazon are a Scam](https://kurtisknodel.com/blog/1Z7fBnGTIlOklNRJ0_nDXnANHcPRYSmRyakATw6lDts)
 - Oct 08 - [Intel, SiFive Demo High-Performance RISC-V on Intel 4](https://fuse.wikichip.org/news/7277/intel-sifive-demo-high-performance-risc-v-horse-creek-dev-platform-on-intel-4-process/)
-- Oct 08 - [A Cheap 2.5GbE PoE Unmanaged Switch](https://www.servethehome.com/the-ultimate-cheap-2-5gbe-poe-unmanaged-switch-hasivo-s1100p-8gt/)
-- Oct 08 - [Combination of Rapamycin and Acarbose significantly Extends Lifespan](https://www.lifespan.io/news/combination-of-rapamycin-and-acarbose-extends-lifespan/)
-- Oct 08 - [C Programming on System 6](https://jcs.org/2022/09/29/vcfmw)
-- Oct 07 - [Patients can now access all their health records digitally](https://www.statnews.com/2022/10/06/health-data-information-blocking-records/)
 <!--END_SECTION:hn-->
 
 <!--
