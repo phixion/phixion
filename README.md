@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 08 - [Intel, SiFive Demo High-Performance RISC-V on Intel 4](https://fuse.wikichip.org/news/7277/intel-sifive-demo-high-performance-risc-v-horse-creek-dev-platform-on-intel-4-process/)
+- Oct 08 - [A Cheap 2.5GbE PoE Unmanaged Switch](https://www.servethehome.com/the-ultimate-cheap-2-5gbe-poe-unmanaged-switch-hasivo-s1100p-8gt/)
+- Oct 08 - [Combination of Rapamycin and Acarbose significantly Extends Lifespan](https://www.lifespan.io/news/combination-of-rapamycin-and-acarbose-extends-lifespan/)
+- Oct 08 - [C Programming on System 6](https://jcs.org/2022/09/29/vcfmw)
 - Oct 07 - [Patients can now access all their health records digitally](https://www.statnews.com/2022/10/06/health-data-information-blocking-records/)
-- Oct 07 - [Retinoid restores eye-specific brain responses in mice with retinal degeneration](https://www.cell.com/current-biology/fulltext/S0960-9822(22)01449-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS096098222201449X%3Fshowall%3Dtrue)
-- Oct 07 - [Is the FSF Fighting the Previous War?](https://irreal.org/blog/?p=10864)
-- Oct 07 - [Lufthansa bans AirTags in checked luggage](https://onemileatatime.com/news/lufthansa-bans-airtags/)
-- Oct 07 - [4x4 ASCII Font](https://simplifier.neocities.org/4x4.html)
 <!--END_SECTION:hn-->
 
 <!--
