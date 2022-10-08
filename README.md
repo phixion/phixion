@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 07 - [Big U.S. Banks Are Stiffing Account Takeover Victims](https://krebsonsecurity.com/2022/10/report-big-u-s-banks-are-stiffing-account-takeover-victims/)
-- Oct 07 - [Overzealous Destructuring](https://www.aleksandrhovhannisyan.com/blog/overzealous-destructuring/)
-- Oct 07 - [Gcloud storage: up to 94% faster data transfers for Cloud Storage](https://cloud.google.com/blog/products/storage-data-transfer/new-gcloud-storage-cli-for-your-data-transfers)
-- Oct 07 - [Nuclear Close Calls: Able Archer 83 (2018)](https://www.atomicheritage.org/history/nuclear-close-calls-able-archer-83)
-- Oct 07 - [My Favourite Computer, an Old Mac](http://muezza.ca/thoughts/favourite_computer/)
+- Oct 07 - [Patients can now access all their health records digitally](https://www.statnews.com/2022/10/06/health-data-information-blocking-records/)
+- Oct 07 - [Retinoid restores eye-specific brain responses in mice with retinal degeneration](https://www.cell.com/current-biology/fulltext/S0960-9822(22)01449-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS096098222201449X%3Fshowall%3Dtrue)
+- Oct 07 - [Is the FSF Fighting the Previous War?](https://irreal.org/blog/?p=10864)
+- Oct 07 - [Lufthansa bans AirTags in checked luggage](https://onemileatatime.com/news/lufthansa-bans-airtags/)
+- Oct 07 - [4x4 ASCII Font](https://simplifier.neocities.org/4x4.html)
 <!--END_SECTION:hn-->
 
 <!--
