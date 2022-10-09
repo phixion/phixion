@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 09 - [DIY out of band management: remote power button](https://michael.stapelberg.ch/posts/2022-10-09-remote-power-button/)
-- Oct 09 - [Top science fiction short stories published in August](https://compellingsciencefiction.com/posts/top-science-fiction-short-stories-published-in-august.html)
-- Oct 09 - [The Hummingbird Clock: date videos by background mains hum](http://hummingbirdclock.info/about)
-- Oct 09 - [New research suggests eating early and within a 10-hour window is healthier](https://medicalxpress.com/news/2022-10-dinner-pm-early-hour-window.html)
-- Oct 09 - [Transwarp v0.84 – 50x fastload system on plain vanilla stock 1541 (use with C64)](https://csdb.dk/release/?id=210864)
+- Oct 09 - [Ask HN: Is a MSc in Computer Science worth the time and money?](https://news.ycombinator.com/item?id=33144436)
+- Oct 09 - [Microjs: Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit](http://microjs.com/)
+- Oct 09 - [The single market is looking wobbly, Germany is to blame](https://www.economist.com/europe/2022/10/06/a-german-aid-package-revives-calls-for-solidarity-with-poorer-eu-countries)
+- Oct 09 - [Crimean bridge: Who – or what – caused the explosion?](https://www.bbc.com/news/world-europe-63192757)
+- Oct 09 - [Where Online Hate Speech Can Bring the Police to Your Door](https://web.archive.org/web/20220928153456/https://www.nytimes.com/2022/09/23/technology/germany-internet-speech-arrest.html)
 <!--END_SECTION:hn-->
 
 <!--
