@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 09 - [Going where BeOS NetPositive hasn't gone before: NetPositive+](http://oldvcr.blogspot.com/2022/10/going-where-beos-netpositive-hasnt-gone.html)
-- Oct 09 - [Stop Using Utcnow and Utcfromtimestamp](https://blog.ganssle.io/articles/2019/11/utcnow.html)
-- Oct 09 - [Why Disconnecting from Your Phone Is So Good for You – and How to Do It](https://time.com/6219588/how-to-disconnect-phone/)
-- Oct 09 - [Day.js – Fast 2kB alternative to Moment.js with the same modern API](https://day.js.org/)
-- Oct 09 - [Scotland 'snow-free' for fourth time in six years](https://www.bbc.com/news/uk-scotland-highlands-islands-63184780)
+- Oct 09 - [Skio (YC S20) is hiring – subscriptions for Shopify, easy ReCharge migrations](https://skio.com/careers/)
+- Oct 09 - [Dutch employee fired by U.S. firm for shutting off webcam awarded €75K in court](https://nltimes.nl/2022/10/09/dutch-employee-fired-us-firm-shutting-webcam-awarded-eu75000-court)
+- Oct 09 - [Ask HN: Bored working for the current company, advice?](https://news.ycombinator.com/item?id=33139446)
+- Oct 09 - [Take a Break You Idiot](https://www.robinrendle.com/notes/take-a-break-you-idiot/)
+- Oct 09 - [Brave browser to start blocking annoying cookie consent banners](https://www.bleepingcomputer.com/news/security/brave-browser-to-start-blocking-annoying-cookie-consent-banners/)
 <!--END_SECTION:hn-->
 
 <!--
