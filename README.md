@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 09 - [The gangs that kidnap Asians and force them to commit cyberfraud](https://www.economist.com/asia/2022/10/06/the-gangs-that-kidnap-asians-and-force-them-to-commit-cyberfraud)
-- Oct 09 - [Ask HN: Is Substack the New Medium?](https://news.ycombinator.com/item?id=33137417)
-- Oct 09 - [A Few of My Favorite Things About the OpenBSD Packet Filter Tools](https://bsdly.blogspot.com/2022/09/a-few-of-my-favorite-things-about.html)
-- Oct 08 - [Basilisk II Macintosh 68K emulator ported to iPadOS (2021)](https://blog.gingerbeardman.com/2021/04/21/building-basiliskii-for-ios/)
-- Oct 08 - [Modeling Starlink Capacity](https://mikepuchol.com/modeling-starlink-capacity-843b2387f501)
+- Oct 09 - [Going where BeOS NetPositive hasn't gone before: NetPositive+](http://oldvcr.blogspot.com/2022/10/going-where-beos-netpositive-hasnt-gone.html)
+- Oct 09 - [Stop Using Utcnow and Utcfromtimestamp](https://blog.ganssle.io/articles/2019/11/utcnow.html)
+- Oct 09 - [Why Disconnecting from Your Phone Is So Good for You – and How to Do It](https://time.com/6219588/how-to-disconnect-phone/)
+- Oct 09 - [Day.js – Fast 2kB alternative to Moment.js with the same modern API](https://day.js.org/)
+- Oct 09 - [Scotland 'snow-free' for fourth time in six years](https://www.bbc.com/news/uk-scotland-highlands-islands-63184780)
 <!--END_SECTION:hn-->
 
 <!--
