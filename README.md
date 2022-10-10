@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 09 - [Ask HN: Is a MSc in Computer Science worth the time and money?](https://news.ycombinator.com/item?id=33144436)
-- Oct 09 - [Microjs: Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit](http://microjs.com/)
-- Oct 09 - [The single market is looking wobbly, Germany is to blame](https://www.economist.com/europe/2022/10/06/a-german-aid-package-revives-calls-for-solidarity-with-poorer-eu-countries)
-- Oct 09 - [Crimean bridge: Who – or what – caused the explosion?](https://www.bbc.com/news/world-europe-63192757)
-- Oct 09 - [Where Online Hate Speech Can Bring the Police to Your Door](https://web.archive.org/web/20220928153456/https://www.nytimes.com/2022/09/23/technology/germany-internet-speech-arrest.html)
+- Oct 09 - [What’s Behind Chinook and Chum Salmon Declines in Alaska?](https://www.fisheries.noaa.gov/feature-story/whats-behind-chinook-and-chum-salmon-declines-alaska)
+- Oct 09 - [Six Recent Discoveries That Have Changed How We Think About Human Origins](https://singularityhub.com/2022/10/09/six-recent-discoveries-that-have-changed-how-we-think-about-human-origins/)
+- Oct 09 - [Energy vs. Sovereign Bond Markets](https://www.lynalden.com/october-2022-newsletter/)
+- Oct 09 - [PDF processing and analysis with open-source tools](https://www.bitsgalore.org/2021/09/06/pdf-processing-and-analysis-with-open-source-tools)
+- Oct 09 - [Why 23.976 and not 24 FPS?](https://cinematography.com/index.php?/forums/topic/71346-why-23976-and-not-24-fps/&tab=comments#comment-455454)
 <!--END_SECTION:hn-->
 
 <!--
