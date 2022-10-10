@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 09 - [What’s Behind Chinook and Chum Salmon Declines in Alaska?](https://www.fisheries.noaa.gov/feature-story/whats-behind-chinook-and-chum-salmon-declines-alaska)
-- Oct 09 - [Six Recent Discoveries That Have Changed How We Think About Human Origins](https://singularityhub.com/2022/10/09/six-recent-discoveries-that-have-changed-how-we-think-about-human-origins/)
-- Oct 09 - [Energy vs. Sovereign Bond Markets](https://www.lynalden.com/october-2022-newsletter/)
-- Oct 09 - [PDF processing and analysis with open-source tools](https://www.bitsgalore.org/2021/09/06/pdf-processing-and-analysis-with-open-source-tools)
-- Oct 09 - [Why 23.976 and not 24 FPS?](https://cinematography.com/index.php?/forums/topic/71346-why-23976-and-not-24-fps/&tab=comments#comment-455454)
+- Oct 10 - [Malicious update/malware by a semi-advanced adversary](https://axelp.io/UltimateUpdate)
+- Oct 10 - [Why Is Europe More Equal Than the United States?](https://www.aeaweb.org/articles?id=10.1257/app.20200703)
+- Oct 10 - [Show HN: I built a site that finds the cheapest place to buy a book](https://www.pagesonpages.com/)
+- Oct 10 - [Why the Internet Needs the InterPlanetary File System](https://spectrum.ieee.org/peer-to-peer-network)
+- Oct 10 - [Halfix – A portable x86 emulator written in C99](https://github.com/nepx/halfix)
 <!--END_SECTION:hn-->
 
 <!--
