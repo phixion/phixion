@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 10 - [Tremor – React library to build dashboards fast](https://github.com/tremorlabs/tremor)
+- Oct 10 - [In gold-standard trial, colonoscopy fails to reduce rate of cancer deaths](https://www.statnews.com/2022/10/09/in-gold-standard-trial-colonoscopy-fails-to-reduce-rate-of-cancer-deaths/)
+- Oct 10 - [Helix: A Neovim inspired editor, written in Rust](https://github.com/helix-editor/helix)
 - Oct 10 - [Malicious update/malware by a semi-advanced adversary](https://axelp.io/UltimateUpdate)
-- Oct 10 - [Why Is Europe More Equal Than the United States?](https://www.aeaweb.org/articles?id=10.1257/app.20200703)
 - Oct 10 - [Show HN: I built a site that finds the cheapest place to buy a book](https://www.pagesonpages.com/)
-- Oct 10 - [Why the Internet Needs the InterPlanetary File System](https://spectrum.ieee.org/peer-to-peer-network)
-- Oct 10 - [Halfix – A portable x86 emulator written in C99](https://github.com/nepx/halfix)
 <!--END_SECTION:hn-->
 
 <!--
