@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 10 - [Tremor – React library to build dashboards fast](https://github.com/tremorlabs/tremor)
-- Oct 10 - [In gold-standard trial, colonoscopy fails to reduce rate of cancer deaths](https://www.statnews.com/2022/10/09/in-gold-standard-trial-colonoscopy-fails-to-reduce-rate-of-cancer-deaths/)
-- Oct 10 - [Helix: A Neovim inspired editor, written in Rust](https://github.com/helix-editor/helix)
-- Oct 10 - [Malicious update/malware by a semi-advanced adversary](https://axelp.io/UltimateUpdate)
-- Oct 10 - [Show HN: I built a site that finds the cheapest place to buy a book](https://www.pagesonpages.com/)
+- Oct 10 - [Should Linux set the new constant-time mode CPU flags?](https://lore.kernel.org/lkml/YwgCrqutxmX0W72r@gmail.com/)
+- Oct 10 - [Show HN: I built a site that lets users find playlists by songs they contain](https://playlists.dags.dev/)
+- Oct 10 - [”Someone got Doom running in Notepad at 60 FPS, somehow”](https://www.escapistmagazine.com/doom-notepad-running-60-fps-video-clip-shooter-text/)
+- Oct 10 - [Russians hit the office and R&D center of Samsung in Kyiv](https://mezha.media/en/2022/10/10/russians-hit-the-office-and-r-d-center-of-samsung-in-kyiv/)
+- Oct 10 - [Swiss Post Design System](https://swisspost-web-frontend.netlify.app/)
 <!--END_SECTION:hn-->
 
 <!--
