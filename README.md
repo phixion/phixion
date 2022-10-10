@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 10 - [Website Showing How Much People Lost with Celsius Now Live](https://celsiusnetworth.com/#leaderboard)
-- Oct 10 - [Improving Firefox Responsiveness on macOS](https://hacks.mozilla.org/2022/10/improving-firefox-responsiveness-on-macos/)
-- Oct 10 - [Who Thought Putting a Casino in Everyone’s Pocket Was a Good Idea?](https://nymag.com/intelligencer/2022/10/politicans-are-getting-hooked-on-mobile-sports-betting.html)
-- Oct 10 - [Live Captioning FAQ](https://whitecoatcaptioning.com/faq/)
-- Oct 10 - [We Should Be Measuring Well-Being Catalysis, Not Economic Productivity](https://bengoertzel.substack.com/p/we-should-be-measuring-well-being)
+- Oct 10 - [Show HN: InvokeAI, an open source Stable Diffusion toolkit and WebUI](https://github.com/invoke-ai/InvokeAI)
+- Oct 10 - [The Little Spaceplane That Couldn't (2008)](https://www.space-travel.com/reports/Cult_spacecraft_Part_One_The_Little_Spaceplane_That_Could_Not_999.html)
+- Oct 10 - [Show HN: Linkidex – save and sort the URLs you care about](https://linkidex.com/)
+- Oct 10 - [ReadMe (YC W15) is hiring a product manager who loves APIs](https://readme.com/careers#product-lead)
+- Oct 10 - [Code of Ethics – IEEE Computer Society](https://www.computer.org/education/code-of-ethics)
 <!--END_SECTION:hn-->
 
 <!--
