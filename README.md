@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 10 - [Should Linux set the new constant-time mode CPU flags?](https://lore.kernel.org/lkml/YwgCrqutxmX0W72r@gmail.com/)
-- Oct 10 - [Show HN: I built a site that lets users find playlists by songs they contain](https://playlists.dags.dev/)
-- Oct 10 - [”Someone got Doom running in Notepad at 60 FPS, somehow”](https://www.escapistmagazine.com/doom-notepad-running-60-fps-video-clip-shooter-text/)
-- Oct 10 - [Russians hit the office and R&D center of Samsung in Kyiv](https://mezha.media/en/2022/10/10/russians-hit-the-office-and-r-d-center-of-samsung-in-kyiv/)
-- Oct 10 - [Swiss Post Design System](https://swisspost-web-frontend.netlify.app/)
+- Oct 10 - [Website Showing How Much People Lost with Celsius Now Live](https://celsiusnetworth.com/#leaderboard)
+- Oct 10 - [Improving Firefox Responsiveness on macOS](https://hacks.mozilla.org/2022/10/improving-firefox-responsiveness-on-macos/)
+- Oct 10 - [Who Thought Putting a Casino in Everyone’s Pocket Was a Good Idea?](https://nymag.com/intelligencer/2022/10/politicans-are-getting-hooked-on-mobile-sports-betting.html)
+- Oct 10 - [Live Captioning FAQ](https://whitecoatcaptioning.com/faq/)
+- Oct 10 - [We Should Be Measuring Well-Being Catalysis, Not Economic Productivity](https://bengoertzel.substack.com/p/we-should-be-measuring-well-being)
 <!--END_SECTION:hn-->
 
 <!--
