@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 10 - [Show HN: InvokeAI, an open source Stable Diffusion toolkit and WebUI](https://github.com/invoke-ai/InvokeAI)
-- Oct 10 - [The Little Spaceplane That Couldn't (2008)](https://www.space-travel.com/reports/Cult_spacecraft_Part_One_The_Little_Spaceplane_That_Could_Not_999.html)
-- Oct 10 - [Show HN: Linkidex – save and sort the URLs you care about](https://linkidex.com/)
-- Oct 10 - [ReadMe (YC W15) is hiring a product manager who loves APIs](https://readme.com/careers#product-lead)
-- Oct 10 - [Code of Ethics – IEEE Computer Society](https://www.computer.org/education/code-of-ethics)
+- Oct 10 - [U.S. Army Chooses Google Workspace](https://cloud.google.com/blog/topics/public-sector/us-army-chooses-google-to-deliver-cutting-edge-collaboration)
+- Oct 10 - [VirtualBox 7.0 Released – Full VM Encryption Support, New Direct3D Acceleration](https://www.virtualbox.org/wiki/Changelog-7.0)
+- Oct 10 - [SmooshGate](https://developer.chrome.com/blog/smooshgate/)
+- Oct 10 - [Wine 101: The Beginners Guide to Wine](https://bartendinglicensehelp.com/wine-101/)
+- Oct 10 - [Microbes that cause cavities can form superorganisms able to ‘crawl’](https://penntoday.upenn.edu/news/microbes-cause-cavities-can-form-superorganisms-able-crawl-and-spread-teeth)
 <!--END_SECTION:hn-->
 
 <!--
