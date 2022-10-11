@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 11 - [“This removes a.out support globally”](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=12ed00ba01abf39e0869c02ccdde5e24a357466b)
-- Oct 11 - [Private Prisons Are Behind the Push for Homeless Criminalization](https://invisiblepeople.tv/private-prisons-for-homeless-criminalization/)
-- Oct 11 - [Deepnote (YC S19) is hiring to build a better data science notebook (Europe)](https://deepnote.com/join-us)
-- Oct 11 - [Go: Redefining For Loop Variable Semantics](https://github.com/golang/go/discussions/56010)
-- Oct 11 - [Ask HN: How did you stop drinking?](https://news.ycombinator.com/item?id=33158947)
+- Oct 11 - [Reflect (YC S20) is hiring a software engineer](https://www.ycombinator.com/companies/reflect/jobs/Bdo0cAY-software-engineer)
+- Oct 11 - [Blender: Wayland Support on Linux](https://code.blender.org/2022/10/wayland-support-on-linux/)
+- Oct 11 - [Time-restricted eating reduces visceral fat and improves metabolic syndrome](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00332-9)
+- Oct 11 - [Geothermal May Beat Batteries for Energy Storage](https://spectrum.ieee.org/geothermal-energy)
+- Oct 11 - [AI-driven thermal cameras used to obtain passwords](https://www.gla.ac.uk/news/headline_885914_en.html)
 <!--END_SECTION:hn-->
 
 <!--
