@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 11 - [Reflect (YC S20) is hiring a software engineer](https://www.ycombinator.com/companies/reflect/jobs/Bdo0cAY-software-engineer)
-- Oct 11 - [Blender: Wayland Support on Linux](https://code.blender.org/2022/10/wayland-support-on-linux/)
-- Oct 11 - [Time-restricted eating reduces visceral fat and improves metabolic syndrome](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00332-9)
-- Oct 11 - [Geothermal May Beat Batteries for Energy Storage](https://spectrum.ieee.org/geothermal-energy)
-- Oct 11 - [AI-driven thermal cameras used to obtain passwords](https://www.gla.ac.uk/news/headline_885914_en.html)
+- Oct 11 - [12 Factor App Revisited](https://architecturenotes.co/12-factor-app-revisited/)
+- Oct 11 - [Show HN: My book for programmers called “Junior to Senior” was published today](https://www.holloway.com/b/junior-to-senior)
+- Oct 11 - [France looks into increasing uranium enrichment capacity](https://www.world-nuclear-news.org/Articles/France-looks-into-increasing-uranium-enrichment-ca)
+- Oct 11 - [Ask HN: How to build a website that will last 30 years?](https://news.ycombinator.com/item?id=33164027)
+- Oct 11 - [Why you should never pay for online dating (OkCupid) (2010)](https://web.archive.org/web/20100821041938/http://blog.okcupid.com/index.php/why-you-should-never-pay-for-online-dating/)
 <!--END_SECTION:hn-->
 
 <!--
