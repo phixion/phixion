@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 11 - [Did Reddit delete the Los Angeles whistleblower's user account?](https://twitter.com/chadloder/status/1579590951546540033)
+- Oct 11 - [Ask HN: How did you stop drinking?](https://news.ycombinator.com/item?id=33158947)
+- Oct 11 - [Human Motion Diffusion Model](https://github.com/GuyTevet/motion-diffusion-model)
+- Oct 11 - [Fraunhoffer and Dolby trying to collect royalties on the Opus codec](https://www.vectis.com/media/vectis-ip-announces-call-for-patents-essential-to-the-opus-codec)
 - Oct 10 - [U.S. Army Chooses Google Workspace](https://cloud.google.com/blog/topics/public-sector/us-army-chooses-google-to-deliver-cutting-edge-collaboration)
-- Oct 10 - [VirtualBox 7.0 Released – Full VM Encryption Support, New Direct3D Acceleration](https://www.virtualbox.org/wiki/Changelog-7.0)
-- Oct 10 - [SmooshGate](https://developer.chrome.com/blog/smooshgate/)
-- Oct 10 - [Wine 101: The Beginners Guide to Wine](https://bartendinglicensehelp.com/wine-101/)
-- Oct 10 - [Microbes that cause cavities can form superorganisms able to ‘crawl’](https://penntoday.upenn.edu/news/microbes-cause-cavities-can-form-superorganisms-able-crawl-and-spread-teeth)
 <!--END_SECTION:hn-->
 
 <!--
