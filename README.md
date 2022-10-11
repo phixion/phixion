@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 11 - [12 Factor App Revisited](https://architecturenotes.co/12-factor-app-revisited/)
-- Oct 11 - [Show HN: My book for programmers called “Junior to Senior” was published today](https://www.holloway.com/b/junior-to-senior)
-- Oct 11 - [France looks into increasing uranium enrichment capacity](https://www.world-nuclear-news.org/Articles/France-looks-into-increasing-uranium-enrichment-ca)
-- Oct 11 - [Ask HN: How to build a website that will last 30 years?](https://news.ycombinator.com/item?id=33164027)
-- Oct 11 - [Why you should never pay for online dating (OkCupid) (2010)](https://web.archive.org/web/20100821041938/http://blog.okcupid.com/index.php/why-you-should-never-pay-for-online-dating/)
+- Oct 11 - [MutableAI (YC W22) Is Hiring a Founding Engineer to Build an AI First Dev Platform](https://www.ycombinator.com/companies/mutableai/jobs/qnjnCR3-founding-full-stack-software-engineer)
+- Oct 11 - [Meta Quest Pro](https://www.meta.com/quest/quest-pro/)
+- Oct 11 - [How to read variables optimized out in GDB?](http://luajit.io:80/post/2022/gdb-black-magics/)
+- Oct 11 - [Aerc – a pretty good (terminal) email client](https://aerc-mail.org/)
+- Oct 11 - [I wish my web server were in the corner of my room](https://interconnected.org/home/2022/10/10/servers)
 <!--END_SECTION:hn-->
 
 <!--
