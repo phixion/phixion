@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 11 - [Did Reddit delete the Los Angeles whistleblower's user account?](https://twitter.com/chadloder/status/1579590951546540033)
+- Oct 11 - [“This removes a.out support globally”](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=12ed00ba01abf39e0869c02ccdde5e24a357466b)
+- Oct 11 - [Private Prisons Are Behind the Push for Homeless Criminalization](https://invisiblepeople.tv/private-prisons-for-homeless-criminalization/)
+- Oct 11 - [Deepnote (YC S19) is hiring to build a better data science notebook (Europe)](https://deepnote.com/join-us)
+- Oct 11 - [Go: Redefining For Loop Variable Semantics](https://github.com/golang/go/discussions/56010)
 - Oct 11 - [Ask HN: How did you stop drinking?](https://news.ycombinator.com/item?id=33158947)
-- Oct 11 - [Human Motion Diffusion Model](https://github.com/GuyTevet/motion-diffusion-model)
-- Oct 11 - [Fraunhoffer and Dolby trying to collect royalties on the Opus codec](https://www.vectis.com/media/vectis-ip-announces-call-for-patents-essential-to-the-opus-codec)
-- Oct 10 - [U.S. Army Chooses Google Workspace](https://cloud.google.com/blog/topics/public-sector/us-army-chooses-google-to-deliver-cutting-edge-collaboration)
 <!--END_SECTION:hn-->
 
 <!--
