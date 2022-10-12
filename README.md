@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 12 - [Another $100M+ Crypto Hack. When will they learn?](https://p2eanalytics.com/web3/hackers-drain-100m-off-solana-based-defi-platform-mango-markets)
-- Oct 12 - [Brex layoffs](https://www.brex.com/journal/message-from-pedro)
-- Oct 12 - [How to prove you know a secret without giving it away](https://www.quantamagazine.org/how-to-prove-you-know-a-secret-without-giving-it-away-20221011/)
-- Oct 12 - [Valve Employee Handbook (2012) [pdf]](https://cdn.cloudflare.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf)
-- Oct 11 - [Qwik: No hydration, auto lazy-loading, edge-optimized, and fun](https://qwik.builder.io/)
+- Oct 12 - [Canonical shows ads in the Ubuntu CLI](https://mastodon.social/@Longplay_Games/109151837878722871)
+- Oct 12 - [Lessons learned since posting my salary history publicly](https://www.jvt.me/posts/2022/09/21/year-later-salary-history/)
+- Oct 12 - [Seven Sins of Numerical Linear Algebra](https://nhigham.com/2022/10/11/seven-sins-of-numerical-linear-algebra/)
+- Oct 12 - [Software and Anarchy (2021) [pdf]](https://applied-langua.ge/software-and-anarchy.pdf)
+- Oct 12 - [Pittsburgh Airport installs an algae air purifier](https://www.forbes.com/sites/jenniferhicks/2022/10/09/pittsburgh-international-airport-just-installed-a-giant-algae-air-purifier/)
 <!--END_SECTION:hn-->
 
 <!--
