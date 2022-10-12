@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 12 - [Ribbon Health (YC S17) engineers improve the status quo of healthcare](https://www.ribbonhealth.com/blog/is-health-tech-the-next-big-industry-for-senior-software-engineer-opportunities/)
-- Oct 12 - [JetBrains invites developers to join the Fleet Public Preview Program](https://blog.jetbrains.com/fleet/2022/10/introducing-the-fleet-public-preview/)
-- Oct 12 - [Defending parody: the most important amicus brief yet](https://www.theatlantic.com/ideas/archive/2022/10/anthony-novak-parma-ohio-onion-scotus-parody/671697/)
-- Oct 12 - [The next time Wikipedia asks for a donation, ignore it](https://unherd.com/thepost/the-next-time-wikipedia-asks-for-a-donation-ignore-it/)
-- Oct 12 - [The State of AWS Security](https://www.datadoghq.com/state-of-aws-security/)
+- Oct 12 - [First-Person Mario](https://mar1d.com/)
+- Oct 12 - [Google Rolling Out Passkey Passwordless Login Support to Android and Chrome](https://android-developers.googleblog.com/2022/10/bringing-passkeys-to-android-and-chrome.html)
+- Oct 12 - [Verifying Distributed Systems with Isabelle/HOL, by Martin Kleppmann](https://lawrencecpaulson.github.io/2022/10/12/verifying-distributed-systems-isabelle.html)
+- Oct 12 - [A New Doorway to the Brain](https://nautil.us/a-new-doorway-to-the-brain-242099/)
+- Oct 12 - [Withdrawal of OpenSSL 3.0.6 and 1.1.1r](https://mta.openssl.org/pipermail/openssl-announce/2022-October/000237.html)
 <!--END_SECTION:hn-->
 
 <!--
