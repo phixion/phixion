@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 12 - [First-Person Mario](https://mar1d.com/)
-- Oct 12 - [Google Rolling Out Passkey Passwordless Login Support to Android and Chrome](https://android-developers.googleblog.com/2022/10/bringing-passkeys-to-android-and-chrome.html)
-- Oct 12 - [Verifying Distributed Systems with Isabelle/HOL, by Martin Kleppmann](https://lawrencecpaulson.github.io/2022/10/12/verifying-distributed-systems-isabelle.html)
-- Oct 12 - [A New Doorway to the Brain](https://nautil.us/a-new-doorway-to-the-brain-242099/)
-- Oct 12 - [Withdrawal of OpenSSL 3.0.6 and 1.1.1r](https://mta.openssl.org/pipermail/openssl-announce/2022-October/000237.html)
+- Oct 12 - [Ask HN: Are we all burned out?](https://news.ycombinator.com/item?id=33181608)
+- Oct 12 - [Students break acceleration world record](https://www.uni-stuttgart.de/en/university/news/all/Students-break-acceleration-world-record/)
+- Oct 12 - [Tinyphysicsengine: Minimalist 3D C99 single-header physics engine](https://codeberg.org/drummyfish/tinyphysicsengine/src/branch/master)
+- Oct 12 - [Pitchfork: Rack HTTP server for shared-nothing architecture](https://github.com/Shopify/pitchfork)
+- Oct 12 - [The rise of robots increases job insecurity and maladaptive workplace behaviors [pdf]](https://www.apa.org/pubs/journals/releases/apl-apl0001045.pdf)
 <!--END_SECTION:hn-->
 
 <!--
