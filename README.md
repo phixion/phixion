@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 11 - [MutableAI (YC W22) Is Hiring a Founding Engineer to Build an AI First Dev Platform](https://www.ycombinator.com/companies/mutableai/jobs/qnjnCR3-founding-full-stack-software-engineer)
-- Oct 11 - [Meta Quest Pro](https://www.meta.com/quest/quest-pro/)
-- Oct 11 - [How to read variables optimized out in GDB?](http://luajit.io:80/post/2022/gdb-black-magics/)
-- Oct 11 - [Aerc – a pretty good (terminal) email client](https://aerc-mail.org/)
-- Oct 11 - [I wish my web server were in the corner of my room](https://interconnected.org/home/2022/10/10/servers)
+- Oct 12 - [Valve Employee Handbook [pdf]](https://cdn.cloudflare.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf)
+- Oct 11 - [Authors’ names have ‘astonishing’ influence on peer reviewers: Study](https://www.nature.com/articles/d41586-022-03256-9)
+- Oct 11 - [Show HN: Rmt an alternative to rm with trash written in Rust](https://github.com/AmineZouitine/rmt.rs)
+- Oct 11 - [Carmack Unscripted](https://www.facebook.com/events/reality-labs-facebook-page/carmack-unscripted/1134234204162755/)
+- Oct 11 - [If it goes somewhere, it’s a link. If it does something, it’s a button](https://kilianvalkhof.com/2022/css-html/when-going-somewhere-does-a-thing-on-links-and-buttons/)
 <!--END_SECTION:hn-->
 
 <!--
