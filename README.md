@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 13 - [PHYS771 Lecture 9: Quantum](https://www.scottaaronson.com/democritus/lec9.html)
+- Oct 13 - [Generally Intelligent (YC S17) Is Hiring Simulation Engineers](https://news.ycombinator.com/item?id=33188094)
+- Oct 13 - [New ScyllaDB Go Driver: Faster Than GoCQL and Its Rust Counterpart](https://www.scylladb.com/2022/10/12/a-new-scylladb-go-driver-faster-than-gocql-and-its-rust-counterpart/)
 - Oct 13 - [Ask HN: Firing an employee under a month before vest?](https://news.ycombinator.com/item?id=33186789)
-- Oct 13 - [Can Trees Heal Heart Disease?](https://www.discovermagazine.com/health/can-trees-heal-hearts)
-- Oct 13 - [Nearly half of Covid patients haven’t fully recovered months later, study finds](https://www.nytimes.com/2022/10/12/health/long-covid.html)
-- Oct 13 - [Taildrop](https://tailscale.com/kb/1106/taildrop/)
-- Oct 13 - [Young adults in L.A. to get $1k a month under new guaranteed income program](https://www.latimes.com/california/story/2022-10-12/l-a-basic-income-program-to-give-young-adults-1-000-a-month)
+- Oct 13 - [Researchers plant trees in an experiment to lower rates of heart disease (2021)](https://www.discovermagazine.com/health/can-trees-heal-hearts)
 <!--END_SECTION:hn-->
 
 <!--
