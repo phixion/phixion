@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 12 - [California Man Fined $1k for Drawing Lines on Maps](https://www.vice.com/en/article/v7vyj3/california-man-fined-for-drawing-lines-on-existing-maps)
-- Oct 12 - [Apple II Textfiles](http://textfiles.com/apple/)
-- Oct 12 - [Using a Framework will harm the maintenance of your software](https://berk.es/2022/09/06/frameworks-harm-maintenance/)
-- Oct 12 - [BuiltWith: $14M ARR, no employees](https://5to9.beehiiv.com/p/builtwith-generates-14-million-year-zero-employees)
-- Oct 12 - [Pachyderm (YC W15) is hiring sales engineers and solutions architects](https://boards.greenhouse.io/pachyderm/jobs/5237764003)
+- Oct 13 - [Ask HN: Firing an employee under a month before vest?](https://news.ycombinator.com/item?id=33186789)
+- Oct 13 - [Can Trees Heal Heart Disease?](https://www.discovermagazine.com/health/can-trees-heal-hearts)
+- Oct 13 - [Nearly half of Covid patients haven’t fully recovered months later, study finds](https://www.nytimes.com/2022/10/12/health/long-covid.html)
+- Oct 13 - [Taildrop](https://tailscale.com/kb/1106/taildrop/)
+- Oct 13 - [Young adults in L.A. to get $1k a month under new guaranteed income program](https://www.latimes.com/california/story/2022-10-12/l-a-basic-income-program-to-give-young-adults-1-000-a-month)
 <!--END_SECTION:hn-->
 
 <!--
