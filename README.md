@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 13 - [Discovering Azure's unannounced breaking change with Cosmos DB](https://metrist.io/blog/how-we-found-azures-unannounced-breaking-change/)
+- Oct 13 - [Framework Laptops Now Offering Refurbished Products](https://frame.work/blog/closing-the-loop-with-refurbished-framework-products)
+- Oct 13 - [Jitx (YC S18) is hiring a front end engineer](https://jobs.lever.co/jitxinc/3d57f731-bf23-4456-9967-441f933a5f2e)
+- Oct 13 - [Regulators of Facebook, Google and Amazon also invest in the companies’ stocks](https://www.wsj.com/articles/the-regulators-of-facebook-google-and-amazon-also-invest-in-the-companies-stocks-11665670207)
 - Oct 13 - [AWS Permission Boundaries for Dummies](https://www.firemon.com/aws-permission-boundaries-for-dummies/)
-- Oct 13 - [Ask HN: Why does the media say inflation is up every month?](https://news.ycombinator.com/item?id=33192294)
-- Oct 13 - [A Database Without Dynamic Memory Allocation](https://tigerbeetle.com/blog/a-database-without-dynamic-memory/)
-- Oct 13 - [Ask HN: What are the best general math workbooks?](https://news.ycombinator.com/item?id=33192084)
-- Oct 13 - [Ask HN: GDPR in 2022 – What do I need to know as a solo founder?](https://news.ycombinator.com/item?id=33191701)
 <!--END_SECTION:hn-->
 
 <!--
