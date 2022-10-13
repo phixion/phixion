@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 13 - [Finley (YC W21) is fintech software hiring across all teams (US Remote)](https://www.finleycms.com/careers/)
-- Oct 13 - [We are stuck with egrep and fgrep (unless you like beating people)](https://utcc.utoronto.ca/~cks/space/blog/unix/EgrepFgrepStuckWith)
-- Oct 13 - [Observable transitions to paid plan for private notebooks](https://observablehq.com/@observablehq/hello-pro)
-- Oct 13 - [Bring your own key was a lie](https://blog.edgeless.systems/bring-your-own-key-was-a-lie-92587d7c73ec)
-- Oct 13 - [Show HN: Vite-plugin-ssr – Do-one-thing-do-it-well alternative to Next.js / Nuxt](https://vite-plugin-ssr.com)
+- Oct 13 - [AWS Permission Boundaries for Dummies](https://www.firemon.com/aws-permission-boundaries-for-dummies/)
+- Oct 13 - [Ask HN: Why does the media say inflation is up every month?](https://news.ycombinator.com/item?id=33192294)
+- Oct 13 - [A Database Without Dynamic Memory Allocation](https://tigerbeetle.com/blog/a-database-without-dynamic-memory/)
+- Oct 13 - [Ask HN: What are the best general math workbooks?](https://news.ycombinator.com/item?id=33192084)
+- Oct 13 - [Ask HN: GDPR in 2022 – What do I need to know as a solo founder?](https://news.ycombinator.com/item?id=33191701)
 <!--END_SECTION:hn-->
 
 <!--
