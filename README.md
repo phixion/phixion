@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 12 - [Ask HN: Are we all burned out?](https://news.ycombinator.com/item?id=33181608)
-- Oct 12 - [Students break acceleration world record](https://www.uni-stuttgart.de/en/university/news/all/Students-break-acceleration-world-record/)
-- Oct 12 - [Tinyphysicsengine: Minimalist 3D C99 single-header physics engine](https://codeberg.org/drummyfish/tinyphysicsengine/src/branch/master)
-- Oct 12 - [Pitchfork: Rack HTTP server for shared-nothing architecture](https://github.com/Shopify/pitchfork)
-- Oct 12 - [The rise of robots increases job insecurity and maladaptive workplace behaviors [pdf]](https://www.apa.org/pubs/journals/releases/apl-apl0001045.pdf)
+- Oct 12 - [California Man Fined $1k for Drawing Lines on Maps](https://www.vice.com/en/article/v7vyj3/california-man-fined-for-drawing-lines-on-existing-maps)
+- Oct 12 - [Apple II Textfiles](http://textfiles.com/apple/)
+- Oct 12 - [Using a Framework will harm the maintenance of your software](https://berk.es/2022/09/06/frameworks-harm-maintenance/)
+- Oct 12 - [BuiltWith: $14M ARR, no employees](https://5to9.beehiiv.com/p/builtwith-generates-14-million-year-zero-employees)
+- Oct 12 - [Pachyderm (YC W15) is hiring sales engineers and solutions architects](https://boards.greenhouse.io/pachyderm/jobs/5237764003)
 <!--END_SECTION:hn-->
 
 <!--
