@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 14 - [An Open-Source HDMI Capture Card](https://hackaday.com/2022/10/14/an-open-source-hdmi-capture-card/)
-- Oct 14 - [Hello World Under the Microscope](https://asawicki.info/articles/Hello_world_under_the_microscope.php5)
-- Oct 14 - [Largest open dataset of apartment models ever got published](https://zenodo.org/record/7070952)
-- Oct 14 - [5G’s Rollout Rattled Hundreds of Pilots](https://spectrum.ieee.org/faa-5g)
-- Oct 14 - [Why I Don't Use Netscape (1999)](https://www.complang.tuwien.ac.at/anton/why-ancient-browsers.html)
+- Oct 14 - [Ask HN: Teaching Greybeard IT](https://news.ycombinator.com/item?id=33204579)
+- Oct 14 - [Litestream doesn't do SQLite replication anymore (LiteFS does)](https://github.com/benbjohnson/litestream/pull/411)
+- Oct 14 - [Cooling the Earth with a sunshade near the inner Lagrange point (2006)](https://www.pnas.org/doi/10.1073/pnas.0608163103)
+- Oct 14 - [Ask HN: WebAuthn – Replace Password or Second Factor?](https://news.ycombinator.com/item?id=33203972)
+- Oct 14 - [A Minimalist Guide To Program Synthesis](https://evanthebouncy.github.io/program-synthesis-minimal/)
 <!--END_SECTION:hn-->
 
 <!--
