@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 14 - [Beware of Bun.js](https://gist.github.com/littledivy/b9351c3ccf8ab99f7e14461db37044dc)
-- Oct 14 - [Linear.app](https://linear.app/homepage)
-- Oct 14 - [Code Review Handbook](https://www.sledgeworx.io/code-review-handbook/)
-- Oct 14 - [Equifax used records it collects from companies to fire employees with 2nd jobs](https://www.businessinsider.com/equifax-fires-employees-for-working-two-jobs-2022-10)
-- Oct 14 - [Oracle lays off more than 200 California-based workers](https://www.datacenterdynamics.com/en/news/oracle-lays-off-more-than-200-california-based-workers/)
+- Oct 14 - [A DRAM Failure](https://www.complang.tuwien.ac.at/anton/failing-memory.html)
+- Oct 14 - [Swiss evoting system – IsProbablePrime is incorrect for input 19](https://gitlab.com/swisspost-evoting/crypto-primitives/crypto-primitives/-/issues/13)
+- Oct 14 - [Normalising Layoffs/Firing](https://news.ycombinator.com/item?id=33200261)
+- Oct 14 - [How to Plan?](https://kellanem.com/notes/how-to-plan)
+- Oct 14 - [Retrowin32: Win32 Emulator](https://neugierig.org/software/blog/2022/10/retrowin32.html)
 <!--END_SECTION:hn-->
 
 <!--
