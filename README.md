@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 14 - [Ask HN: Teaching Greybeard IT](https://news.ycombinator.com/item?id=33204579)
-- Oct 14 - [Litestream doesn't do SQLite replication anymore (LiteFS does)](https://github.com/benbjohnson/litestream/pull/411)
-- Oct 14 - [Cooling the Earth with a sunshade near the inner Lagrange point (2006)](https://www.pnas.org/doi/10.1073/pnas.0608163103)
-- Oct 14 - [Ask HN: WebAuthn – Replace Password or Second Factor?](https://news.ycombinator.com/item?id=33203972)
-- Oct 14 - [A Minimalist Guide To Program Synthesis](https://evanthebouncy.github.io/program-synthesis-minimal/)
+- Oct 14 - [WebKit Quirks.cpp](https://github.com/WebKit/WebKit/blob/main/Source/WebCore/page/Quirks.cpp)
+- Oct 14 - [Minetest for the Web](https://minetest.dustlabs.io/)
+- Oct 14 - [Alaska snow crab season canceled after disappearance of an estimated 1B crabs](https://www.cbsnews.com/news/fishing-alaska-snow-crab-season-canceled-investigation-climate-change/#app)
+- Oct 14 - [Ciro (YC S22) is hiring founding engineers to build an SMB search engine](https://www.ycombinator.com/companies/ciro/jobs)
+- Oct 14 - [Homo Sapiens lithic technology in South Asian rainforest (C. 45k – 8k years ago)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0273450)
 <!--END_SECTION:hn-->
 
 <!--
