@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 13 - [Discovering Azure's unannounced breaking change with Cosmos DB](https://metrist.io/blog/how-we-found-azures-unannounced-breaking-change/)
-- Oct 13 - [Framework Laptops Now Offering Refurbished Products](https://frame.work/blog/closing-the-loop-with-refurbished-framework-products)
-- Oct 13 - [Jitx (YC S18) is hiring a front end engineer](https://jobs.lever.co/jitxinc/3d57f731-bf23-4456-9967-441f933a5f2e)
-- Oct 13 - [Regulators of Facebook, Google and Amazon also invest in the companies’ stocks](https://www.wsj.com/articles/the-regulators-of-facebook-google-and-amazon-also-invest-in-the-companies-stocks-11665670207)
-- Oct 13 - [AWS Permission Boundaries for Dummies](https://www.firemon.com/aws-permission-boundaries-for-dummies/)
+- Oct 13 - [Tcl Ported to Go](https://gitlab.com/cznic/tcl)
+- Oct 13 - [White House is pushing ahead research to cool Earth by reflecting back sunlight](https://www.cnbc.com/2022/10/13/what-is-solar-geoengineering-sunlight-reflection-risks-and-benefits.html)
+- Oct 13 - [Deep language algorithms predict semantic comprehension from brain activity](https://www.nature.com/articles/s41598-022-20460-9)
+- Oct 13 - [Heaviest element yet detected in an exoplanet atmosphere](https://www.eso.org/public/news/eso2213/)
+- Oct 13 - [Toyota suffered a data breach by accidentally exposing a secret key on GitHub](https://blog.gitguardian.com/toyota-accidently-exposed-a-secret-key-publicly-on-github-for-five-years/)
 <!--END_SECTION:hn-->
 
 <!--
