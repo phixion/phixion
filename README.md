@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 14 - [A DRAM Failure](https://www.complang.tuwien.ac.at/anton/failing-memory.html)
-- Oct 14 - [Swiss evoting system – IsProbablePrime is incorrect for input 19](https://gitlab.com/swisspost-evoting/crypto-primitives/crypto-primitives/-/issues/13)
-- Oct 14 - [Normalising Layoffs/Firing](https://news.ycombinator.com/item?id=33200261)
-- Oct 14 - [How to Plan?](https://kellanem.com/notes/how-to-plan)
-- Oct 14 - [Retrowin32: Win32 Emulator](https://neugierig.org/software/blog/2022/10/retrowin32.html)
+- Oct 14 - [An Open-Source HDMI Capture Card](https://hackaday.com/2022/10/14/an-open-source-hdmi-capture-card/)
+- Oct 14 - [Hello World Under the Microscope](https://asawicki.info/articles/Hello_world_under_the_microscope.php5)
+- Oct 14 - [Largest open dataset of apartment models ever got published](https://zenodo.org/record/7070952)
+- Oct 14 - [5G’s Rollout Rattled Hundreds of Pilots](https://spectrum.ieee.org/faa-5g)
+- Oct 14 - [Why I Don't Use Netscape (1999)](https://www.complang.tuwien.ac.at/anton/why-ancient-browsers.html)
 <!--END_SECTION:hn-->
 
 <!--
