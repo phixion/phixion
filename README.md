@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 13 - [Tcl Ported to Go](https://gitlab.com/cznic/tcl)
-- Oct 13 - [White House is pushing ahead research to cool Earth by reflecting back sunlight](https://www.cnbc.com/2022/10/13/what-is-solar-geoengineering-sunlight-reflection-risks-and-benefits.html)
-- Oct 13 - [Deep language algorithms predict semantic comprehension from brain activity](https://www.nature.com/articles/s41598-022-20460-9)
-- Oct 13 - [Heaviest element yet detected in an exoplanet atmosphere](https://www.eso.org/public/news/eso2213/)
-- Oct 13 - [Toyota suffered a data breach by accidentally exposing a secret key on GitHub](https://blog.gitguardian.com/toyota-accidently-exposed-a-secret-key-publicly-on-github-for-five-years/)
+- Oct 14 - [Beware of Bun.js](https://gist.github.com/littledivy/b9351c3ccf8ab99f7e14461db37044dc)
+- Oct 14 - [Linear.app](https://linear.app/homepage)
+- Oct 14 - [Code Review Handbook](https://www.sledgeworx.io/code-review-handbook/)
+- Oct 14 - [Equifax used records it collects from companies to fire employees with 2nd jobs](https://www.businessinsider.com/equifax-fires-employees-for-working-two-jobs-2022-10)
+- Oct 14 - [Oracle lays off more than 200 California-based workers](https://www.datacenterdynamics.com/en/news/oracle-lays-off-more-than-200-california-based-workers/)
 <!--END_SECTION:hn-->
 
 <!--
