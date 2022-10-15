@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 15 - [Ask HN: How to Visually Design Tutorials?](https://news.ycombinator.com/item?id=33212593)
+- Oct 15 - [Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote)](https://www.svix.com/careers/)
+- Oct 15 - [Everyone going to World Cup must have this app, experts are sounding the alarm](https://www.nrk.no/sport/everyone-going-to-the-world-cup-must-have-this-app---experts-are-now-sounding-the-alarm-1.16139267)
+- Oct 15 - [Nikola founder Trevor Milton found guilty of fraud](https://www.cnbc.com/2022/10/14/nikola-nkla-founder-trevor-milton-found-guilty-of-fraud-.html)
 - Oct 15 - [Is anyone else trying to opt out of Equifax WorkNumber?](https://news.ycombinator.com/item?id=33210775)
-- Oct 15 - [The Cancellation of ‘Jihad Rehab’](https://www.nationalreview.com/2022/10/inside-the-shameful-cancellation-of-jihad-rehab-2/)
-- Oct 15 - [The VSCode GitLab extension now supports getting code completions from FauxPilot](https://twitter.com/moyix/status/1581069716231049216)
-- Oct 15 - [RISC-V Public review for standard extensions Zc](https://groups.google.com/a/groups.riscv.org/g/isa-dev/c/aTgHkmkPXrw)
-- Oct 14 - [Disposable Root Servers](https://blog.thc.org/disposable-root-servers)
 <!--END_SECTION:hn-->
 
 <!--
