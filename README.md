@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 14 - [WebKit Quirks.cpp](https://github.com/WebKit/WebKit/blob/main/Source/WebCore/page/Quirks.cpp)
-- Oct 14 - [Minetest for the Web](https://minetest.dustlabs.io/)
-- Oct 14 - [Alaska snow crab season canceled after disappearance of an estimated 1B crabs](https://www.cbsnews.com/news/fishing-alaska-snow-crab-season-canceled-investigation-climate-change/#app)
-- Oct 14 - [Ciro (YC S22) is hiring founding engineers to build an SMB search engine](https://www.ycombinator.com/companies/ciro/jobs)
-- Oct 14 - [Homo Sapiens lithic technology in South Asian rainforest (C. 45k – 8k years ago)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0273450)
+- Oct 14 - [Disposable Root Servers](https://blog.thc.org/disposable-root-servers)
+- Oct 14 - [WiGLE: Wireless Network Mapping](https://www.wigle.net/)
+- Oct 14 - [Psychiatry Wars: a lawsuit that put psychoanalysis on trial](https://www.theguardian.com/society/2022/oct/11/psychiatry-wars-psychoanalysis-antidepressants-rachel-aviv)
+- Oct 14 - [What Happened to Rod McKuen?](https://slate.com/culture/2022/10/rod-mckuen-best-selling-poet-songs-what-happened.html)
+- Oct 14 - [A Chinese American gangster transformed money laundering for drug cartels](https://www.propublica.org/article/china-cartels-xizhi-li-money-laundering)
 <!--END_SECTION:hn-->
 
 <!--
