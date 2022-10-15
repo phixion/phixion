@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 15 - [Ask HN: How to Visually Design Tutorials?](https://news.ycombinator.com/item?id=33212593)
+- Oct 15 - [Even After $100B, Self-Driving Cars Are Going Nowhere](https://www.bloomberg.com/news/features/2022-10-06/even-after-100-billion-self-driving-cars-are-going-nowhere)
+- Oct 15 - [Show HN: Bloomberg Terminal for Individuals](https://gorillaterminal.com?ref=HN)
+- Oct 15 - [Ask HN: Where do you escape for non-clickbait thoughtful/informational content?](https://news.ycombinator.com/item?id=33212499)
 - Oct 15 - [Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote)](https://www.svix.com/careers/)
-- Oct 15 - [Everyone going to World Cup must have this app, experts are sounding the alarm](https://www.nrk.no/sport/everyone-going-to-the-world-cup-must-have-this-app---experts-are-now-sounding-the-alarm-1.16139267)
-- Oct 15 - [Nikola founder Trevor Milton found guilty of fraud](https://www.cnbc.com/2022/10/14/nikola-nkla-founder-trevor-milton-found-guilty-of-fraud-.html)
-- Oct 15 - [Is anyone else trying to opt out of Equifax WorkNumber?](https://news.ycombinator.com/item?id=33210775)
+- Oct 15 - [Let's order strange things from NIST](https://twitter.com/tubetimeus/status/1335061382501261312)
 <!--END_SECTION:hn-->
 
 <!--
