@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 15 - [Even After $100B, Self-Driving Cars Are Going Nowhere](https://www.bloomberg.com/news/features/2022-10-06/even-after-100-billion-self-driving-cars-are-going-nowhere)
-- Oct 15 - [Show HN: Bloomberg Terminal for Individuals](https://gorillaterminal.com?ref=HN)
-- Oct 15 - [Ask HN: Where do you escape for non-clickbait thoughtful/informational content?](https://news.ycombinator.com/item?id=33212499)
-- Oct 15 - [Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote)](https://www.svix.com/careers/)
-- Oct 15 - [Let's order strange things from NIST](https://twitter.com/tubetimeus/status/1335061382501261312)
+- Oct 15 - [The Search for a Pill That Can Help Dogs–and Humans–Live Longer](https://www.wired.com/story/the-search-for-a-pill-for-dog-and-human-longevity/)
+- Oct 15 - [Small molecule cognitive enhancer reverses age-related memory decline in mice](https://pubmed.ncbi.nlm.nih.gov/33258451/)
+- Oct 15 - [Polyominoes by Herman Tulleken, 2019](https://www.researchgate.net/publication/333296614_Polyominoes)
+- Oct 15 - [Microsoft's AR Headset Was a Complete Disaster During a Military Test](https://futurism.com/the-byte/microsoft-headset-disaster-military-test)
+- Oct 15 - [We're moving away from swap partitions on our Linux servers](https://utcc.utoronto.ca/~cks/space/blog/linux/SwapPartitionsNoMore)
 <!--END_SECTION:hn-->
 
 <!--
