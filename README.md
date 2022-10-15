@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 15 - [Is anyone else trying to opt out of Equifax WorkNumber?](https://news.ycombinator.com/item?id=33210775)
+- Oct 15 - [The Cancellation of ‘Jihad Rehab’](https://www.nationalreview.com/2022/10/inside-the-shameful-cancellation-of-jihad-rehab-2/)
+- Oct 15 - [The VSCode GitLab extension now supports getting code completions from FauxPilot](https://twitter.com/moyix/status/1581069716231049216)
+- Oct 15 - [RISC-V Public review for standard extensions Zc](https://groups.google.com/a/groups.riscv.org/g/isa-dev/c/aTgHkmkPXrw)
 - Oct 14 - [Disposable Root Servers](https://blog.thc.org/disposable-root-servers)
-- Oct 14 - [WiGLE: Wireless Network Mapping](https://www.wigle.net/)
-- Oct 14 - [Psychiatry Wars: a lawsuit that put psychoanalysis on trial](https://www.theguardian.com/society/2022/oct/11/psychiatry-wars-psychoanalysis-antidepressants-rachel-aviv)
-- Oct 14 - [What Happened to Rod McKuen?](https://slate.com/culture/2022/10/rod-mckuen-best-selling-poet-songs-what-happened.html)
-- Oct 14 - [A Chinese American gangster transformed money laundering for drug cartels](https://www.propublica.org/article/china-cartels-xizhi-li-money-laundering)
 <!--END_SECTION:hn-->
 
 <!--
