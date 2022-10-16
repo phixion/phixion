@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 15 - [Adults Today Care Too Much What Young People Think](https://www.persuasion.community/p/adults-today-care-too-much-what-young)
-- Oct 15 - [Show HN: America – Road Trip Simulator](https://4m3ric4.com)
-- Oct 15 - [Lung cancer rates by state, 2017](https://www.lung-cancer.com/rates-by-state)
-- Oct 15 - [LibrePCB 0.1.7](https://librepcb.org/blog/2022-10-03_release_0.1.7/)
-- Oct 15 - [Former WSJ reporter says law firm used Indian hackers to sabotage his career](https://www.reuters.com/legal/former-wsj-reporter-says-law-firm-used-indian-hackers-sabotage-his-career-2022-10-15/)
+- Oct 15 - [AdaptOver: Persistent DoS and IMSI Extraction from 3.8km away](https://dl.acm.org/doi/10.1145/3495243.3560525)
+- Oct 15 - [Goldfish Social – Free open source alternative for Vine / TikTok (alpha)](https://github.com/Goldfish-Social/Goldfish)
+- Oct 15 - [E-waste: Five billion phones to be thrown away in 2022](https://www.bbc.com/news/science-environment-63245150)
+- Oct 15 - [Show HN: A social network like Myspace, built on top of Notion](https://mynotion.space)
+- Oct 15 - [The Wonderfully Terrible World of C and C++ Text Encoding APIs (With Some Rust)](https://thephd.dev/the-c-c++-rust-string-text-encoding-api-landscape)
 <!--END_SECTION:hn-->
 
 <!--
