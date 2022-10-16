@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 16 - [Application-as-a-Function Thinking](https://doridori.github.io/Architecture-Application-as-a-Function/)
-- Oct 16 - [Random ScotRail Apology Generator](https://scotrail.datasette.io/scotrail/random_apology)
-- Oct 16 - [Google search crashes when searching “how many emojis on iOS”](https://www.google.co.nz/search?q=how+many+emojis+on+ios)
-- Oct 16 - [Cloak: Censorship Circumvention Tool](https://github.com/cbeuw/Cloak)
-- Oct 16 - [Efficient IO in Linux with io_uring [pdf]](https://kernel.dk/io_uring.pdf)
+- Oct 16 - [Tesorio (YC S15) raised a Series B and is hiring various roles](https://www.tesorio.com/careers#job-openings)
+- Oct 16 - [Show HN: Speki – Flashcards in Terminal](https://github.com/TBS1996/speki)
+- Oct 16 - [Show HN: The Unix Pipe Card Game – teach kids basic Unix commands](https://punkx.org/unix-pipe-game/)
+- Oct 16 - [Google Announces KataOS: Security-Focused OS, Using Rust and SeL4 Microkernel](https://www.phoronix.com/news/Google-KataOS)
+- Oct 16 - [Why allowing users to disable animations is important for accessibility](https://accessibilityfordevelopers.com/allow-disable-of-motion-animation/)
 <!--END_SECTION:hn-->
 
 <!--
