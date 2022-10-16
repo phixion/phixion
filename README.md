@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 16 - [Apple bought out all of Newsweek's 1984 Election issue ad space for Mac](https://aresluna.org/attached/computerhistory/ads/international/apple/mac-newsweek)
+- Oct 16 - [Show HN: An Express-inspired web framework for Rust](https://crates.io/crates/graphul)
+- Oct 16 - [OpenAPI Generator allows generation of API client libraries from OpenAPI Specs](https://github.com/OpenAPITools/openapi-generator)
+- Oct 16 - [US Export Restrictions, Intel Layoffs, Applied Materials, and TSMC](https://www.fabricatedknowledge.com/p/us-export-restrictions-intel-layoffs)
 - Oct 15 - [AdaptOver: Persistent DoS and IMSI Extraction from 3.8km away](https://dl.acm.org/doi/10.1145/3495243.3560525)
-- Oct 15 - [Goldfish Social – Free open source alternative for Vine / TikTok (alpha)](https://github.com/Goldfish-Social/Goldfish)
-- Oct 15 - [E-waste: Five billion phones to be thrown away in 2022](https://www.bbc.com/news/science-environment-63245150)
-- Oct 15 - [Show HN: A social network like Myspace, built on top of Notion](https://mynotion.space)
-- Oct 15 - [The Wonderfully Terrible World of C and C++ Text Encoding APIs (With Some Rust)](https://thephd.dev/the-c-c++-rust-string-text-encoding-api-landscape)
 <!--END_SECTION:hn-->
 
 <!--
