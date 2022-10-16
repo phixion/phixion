@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 16 - [Tesorio (YC S15) raised a Series B and is hiring various roles](https://www.tesorio.com/careers#job-openings)
-- Oct 16 - [Show HN: Speki – Flashcards in Terminal](https://github.com/TBS1996/speki)
-- Oct 16 - [Show HN: The Unix Pipe Card Game – teach kids basic Unix commands](https://punkx.org/unix-pipe-game/)
-- Oct 16 - [Google Announces KataOS: Security-Focused OS, Using Rust and SeL4 Microkernel](https://www.phoronix.com/news/Google-KataOS)
-- Oct 16 - [Why allowing users to disable animations is important for accessibility](https://accessibilityfordevelopers.com/allow-disable-of-motion-animation/)
+- Oct 16 - [Ask HN: How to Learn to Sell?](https://news.ycombinator.com/item?id=33224240)
+- Oct 16 - [Jessica Wade made more than 1k Wikipedia bios for unknown women scientists](https://www.today.com/parents/jessica-wade-wikipedia-women-scientists-rcna51628)
+- Oct 16 - [OHSU scientists discover mechanism of hearing](https://news.ohsu.edu/2022/10/12/ohsu-scientists-discover-mechanism-of-hearing)
+- Oct 16 - [Chaos theory eliminates quantum uncertainty](https://iai.tv/articles/tim-palmer-quantum-theory-eliminates-quantum-uncertainty-auid-2263)
+- Oct 16 - [OneRNG – Open Hardware Random Number Generator](https://onerng.info)
 <!--END_SECTION:hn-->
 
 <!--
