@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 16 - [Ask HN: Anyone else unable to access photos and street view on Google Maps?](https://news.ycombinator.com/item?id=33228336)
-- Oct 16 - [Streaming data in Postgres to 1M clients with GraphQL](https://github.com/hasura/graphql-engine/blob/master/architecture/streaming-subscriptions.md)
-- Oct 16 - [A simple web hook that forwards prometheus alerts over XMPP](https://github.com/jelmer/prometheus-xmpp-alerts)
-- Oct 16 - [The US National Archives’ preservation plans for 600 file formats](https://www.archives.gov/preservation/digital-preservation/risk)
-- Oct 16 - [Charge Robotics (YC S21) is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
+- Oct 17 - [The Dead End](https://redmonk.com/sogrady/2022/09/23/dead-end/)
+- Oct 17 - [If ghosts could speak, their speech would approximate this key (1778)](https://www.listsofnote.com/p/if-ghosts-could-speak-their-speech)
+- Oct 17 - [Ryzen 7000 amdgpu boot hang](http://aigarius.com/blog/2022/10/16/ryzen-7000-amdgpu/)
+- Oct 17 - [Learn enough C to survive](https://codeofhonor.substack.com/p/learn-enough-c-to-survive)
+- Oct 17 - [Wasm-service: Htmx, WebAssembly, Rust, ServiceWorker proof of concept](https://github.com/richardanaya/wasm-service)
 <!--END_SECTION:hn-->
 
 <!--
