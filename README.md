@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 17 - [CVE-2022-42889: Java Apache Commons vulerability](https://nvd.nist.gov/vuln/detail/CVE-2022-42889)
+- Oct 17 - [Yagni Exceptions (2021)](https://lukeplant.me.uk/blog/posts/yagni-exceptions/)
+- Oct 17 - [The Graphing Calculator Story](https://www.pacifict.com/Story/)
+- Oct 17 - [Privacy respecting weather app for Android](https://f-droid.org/packages/org.secuso.privacyfriendlyweather/)
 - Oct 17 - [The Dead End](https://redmonk.com/sogrady/2022/09/23/dead-end/)
-- Oct 17 - [If ghosts could speak, their speech would approximate this key (1778)](https://www.listsofnote.com/p/if-ghosts-could-speak-their-speech)
-- Oct 17 - [Ryzen 7000 amdgpu boot hang](http://aigarius.com/blog/2022/10/16/ryzen-7000-amdgpu/)
-- Oct 17 - [Learn enough C to survive](https://codeofhonor.substack.com/p/learn-enough-c-to-survive)
-- Oct 17 - [Wasm-service: Htmx, WebAssembly, Rust, ServiceWorker proof of concept](https://github.com/richardanaya/wasm-service)
 <!--END_SECTION:hn-->
 
 <!--
