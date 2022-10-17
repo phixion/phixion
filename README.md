@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 17 - [CVE-2022-42889: Java Apache Commons vulerability](https://nvd.nist.gov/vuln/detail/CVE-2022-42889)
-- Oct 17 - [Yagni Exceptions (2021)](https://lukeplant.me.uk/blog/posts/yagni-exceptions/)
-- Oct 17 - [The Graphing Calculator Story](https://www.pacifict.com/Story/)
-- Oct 17 - [Privacy respecting weather app for Android](https://f-droid.org/packages/org.secuso.privacyfriendlyweather/)
-- Oct 17 - [The Dead End](https://redmonk.com/sogrady/2022/09/23/dead-end/)
+- Oct 17 - [BuildZoom (better way to build custom homes) Is hiring a Product Manager](https://jobs.lever.co/buildzoom)
+- Oct 17 - [Nvidia’s Implicit Warping Is a Potentially Powerful Deepfake Technique](https://metaphysic.ai/nvidias-implicit-warping-is-a-potentially-powerful-deepfake-technique/)
+- Oct 17 - [Koch Method to Learn Morse](https://stendec.io/morse/koch.html)
+- Oct 17 - [Java Apache Commons vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2022-42889)
+- Oct 17 - [How to Build Software Like an SRE](https://www.willett.io/posts/precepts/)
 <!--END_SECTION:hn-->
 
 <!--
