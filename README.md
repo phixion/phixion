@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 17 - [BuildZoom (better way to build custom homes) Is hiring a Product Manager](https://jobs.lever.co/buildzoom)
-- Oct 17 - [Nvidia’s Implicit Warping Is a Potentially Powerful Deepfake Technique](https://metaphysic.ai/nvidias-implicit-warping-is-a-potentially-powerful-deepfake-technique/)
-- Oct 17 - [Koch Method to Learn Morse](https://stendec.io/morse/koch.html)
-- Oct 17 - [Java Apache Commons vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2022-42889)
-- Oct 17 - [How to Build Software Like an SRE](https://www.willett.io/posts/precepts/)
+- Oct 17 - [Being on a Board as an Employee](https://paulosman.me/2022/10/17/being-on-a-board/)
+- Oct 17 - [Bitcoin Fails to Produce 1 Block for over an Hour](https://www.coindesk.com/business/2022/10/17/bitcoin-fails-to-produce-1-block-for-over-an-hour/)
+- Oct 17 - [Against Algebra](https://www.theatlantic.com/ideas/archive/2022/10/against-algebra/671643/)
+- Oct 17 - [American Airlines trying to block app that is a must-have for flight attendants](https://www.paddleyourownkanoo.com/2022/10/14/american-airlines-is-trying-to-stop-a-popular-iphone-app-thats-become-a-must-have-for-its-flight-attendants/)
+- Oct 17 - [Stablecoin Mechanics 2: We found the Tether-Celsius loans](https://datafinnovation.medium.com/stablecoin-mechanics-2-tether-celsius-15c9ecdaaacd)
 <!--END_SECTION:hn-->
 
 <!--
