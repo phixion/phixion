@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 18 - [The FreeBSD/Firecracker Platform](https://www.daemonology.net/blog/2022-10-18-FreeBSD-Firecracker.html)
-- Oct 18 - [TOTP tokens on my wrist with the smartest dumb watch](https://blog.singleton.io/posts/2022-10-17-otp-on-wrist/)
-- Oct 18 - [Podman: Pasta User-Mode Networking](https://github.com/containers/podman/pull/16141)
-- Oct 18 - [Stability AI Raises $101M at $1B valuation](https://techcrunch.com/2022/10/17/stability-ai-the-startup-behind-stable-diffusion-raises-101m/)
-- Oct 18 - [Dear JetBrains, Don't mess with your UI](https://neil.computer/notes/dear-jetbrains-dont-mess-with-your-ui/)
+- Oct 18 - [Meticulous (YC S21) Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=33245946)
+- Oct 18 - [MinTOTP – Minimal TOTP generator in 20 lines of Python](https://github.com/susam/mintotp)
+- Oct 18 - [Alien Truth](http://paulgraham.com/alien.html)
+- Oct 18 - [She’s made 1,750 Wikipedia bios for female scientists](https://www.washingtonpost.com/lifestyle/2022/10/17/jess-wade-scientist-wikiepdia-women/)
+- Oct 18 - [Jetstack Paranoia: A New Open-Source Tool for Container Image Security](https://www.jetstack.io/blog/announcing-paranoia/)
 <!--END_SECTION:hn-->
 
 <!--
