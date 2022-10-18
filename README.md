@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 18 - [Microsoft has started layoffs today](https://twitter.com/tomwarren/status/1582188080873689088)
+- Oct 18 - [Whipping up a new Shell – Lash#Cat9](https://arcan-fe.com/2022/10/15/whipping-up-a-new-shell-lashcat9/)
 - Oct 17 - [How to become a pirate archivist](http://annas-blog.org/blog-how-to-become-a-pirate-archivist.html)
 - Oct 17 - [GitHub Copi­lot inves­ti­ga­tion](https://githubcopilotinvestigation.com/)
 - Oct 17 - [AI Data Laundering](https://waxy.org/2022/09/ai-data-laundering-how-academic-and-nonprofit-researchers-shield-tech-companies-from-accountability/)
-- Oct 17 - [Reverse Engineer’s Perspective on the Boeing 787 ‘51 days’ Directive](https://ioactive.com/reverse-engineers-perspective-on-the-boeing-787-51-days-airworthiness-directive/)
-- Oct 17 - [Almost 25% of world’s seafloor now mapped](https://www.hydro-international.com/content/news/seabed-2030-almost-25-of-world-s-seafloor-now-mapped)
 <!--END_SECTION:hn-->
 
 <!--
