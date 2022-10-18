@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 18 - [Meticulous (YC S21) Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=33245946)
-- Oct 18 - [MinTOTP – Minimal TOTP generator in 20 lines of Python](https://github.com/susam/mintotp)
-- Oct 18 - [Alien Truth](http://paulgraham.com/alien.html)
-- Oct 18 - [She’s made 1,750 Wikipedia bios for female scientists](https://www.washingtonpost.com/lifestyle/2022/10/17/jess-wade-scientist-wikiepdia-women/)
-- Oct 18 - [Jetstack Paranoia: A New Open-Source Tool for Container Image Security](https://www.jetstack.io/blog/announcing-paranoia/)
+- Oct 18 - [Sound](https://ciechanow.ski/sound/)
+- Oct 18 - [CDE 2.5.1](https://sourceforge.net/p/cdesktopenv/code/ci/503d09172b96d1679e049b3e04d8935db7ad0c96/)
+- Oct 18 - [New iPad Pro with M2](https://www.apple.com/ipad-pro/)
+- Oct 18 - [iPad Pro M2](https://www.apple.com/newsroom/2022/10/apple-introduces-next-generation-ipad-pro-supercharged-by-the-m2-chip/)
+- Oct 18 - [Californians may tax the rich more to subsidise electric cars](https://www.economist.com/united-states/2022/10/17/californians-may-tax-the-rich-more-to-subsidise-electric-cars)
 <!--END_SECTION:hn-->
 
 <!--
