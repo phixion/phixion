@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 18 - [Sound](https://ciechanow.ski/sound/)
-- Oct 18 - [CDE 2.5.1](https://sourceforge.net/p/cdesktopenv/code/ci/503d09172b96d1679e049b3e04d8935db7ad0c96/)
-- Oct 18 - [New iPad Pro with M2](https://www.apple.com/ipad-pro/)
-- Oct 18 - [iPad Pro M2](https://www.apple.com/newsroom/2022/10/apple-introduces-next-generation-ipad-pro-supercharged-by-the-m2-chip/)
-- Oct 18 - [Californians may tax the rich more to subsidise electric cars](https://www.economist.com/united-states/2022/10/17/californians-may-tax-the-rich-more-to-subsidise-electric-cars)
+- Oct 18 - [We rewrote a high-performance database in Rust](https://www.pinecone.io/learn/rust-rewrite/)
+- Oct 18 - [Meta ordered to sell Giphy by UK's competition watchdog CMA](https://www.bbc.com/news/technology-63302179)
+- Oct 18 - [Gain of Function? Not So Fast](https://www.science.org/content/blog-post/gain-function-not-so-fast)
+- Oct 18 - [2/3 of kids bike to school in Assen because it was designed that way](http://www.aviewfromthecyclepath.com/2013/09/the-school-run-in-assen.html)
+- Oct 18 - [Retired U.S. generals, admirals take top jobs with Saudi crown prince](https://www.washingtonpost.com/investigations/interactive/2022/veterans-us-foreign-jobs-saudi-arabia/)
 <!--END_SECTION:hn-->
 
 <!--
