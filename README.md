@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 19 - [How we use binary search to find compiler bugs](https://bernsteinbear.com/blog/cinder-jit-bisect/)
-- Oct 19 - [Five hours' sleep is tipping point for bad health](https://www.bbc.co.uk/news/health-63284305)
-- Oct 19 - [Future Pinball – A Real Time Pinball Development System](https://futurepinball.com)
-- Oct 19 - [81% of IT teams directed to reduce or halt cloud spending](https://venturebeat.com/data-infrastructure/report-81-of-it-teams-directed-to-reduce-or-halt-cloud-spending-by-c-suite/)
-- Oct 19 - [IDA cybersecurity software provider Hex-Rays acquired](https://smartfinvc.com/news/smartfin-acquires-leading-cybersecurity-software-provider-hex-rays-together-with-sfpim-and-sriw/)
+- Oct 19 - [Ask HN: Has anyone managed to find enjoyment in their work after burnout?](https://news.ycombinator.com/item?id=33260525)
+- Oct 19 - [China allegedly dumps bad chips on Russia](https://www.theregister.com/2022/10/18/russia_china_semiconductro_failure_rates/)
+- Oct 19 - [Ask HN: How to deal with regret of not having kids](https://news.ycombinator.com/item?id=33259414)
+- Oct 19 - [Tell HN: The regret of parenting and how to handle it](https://news.ycombinator.com/item?id=33258925)
+- Oct 19 - [I asked Signal motivations for SMS removal](https://news.ycombinator.com/item?id=33258684)
 <!--END_SECTION:hn-->
 
 <!--
