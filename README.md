@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 19 - [How we use binary search to find compiler bugs](https://bernsteinbear.com/blog/cinder-jit-bisect/)
+- Oct 19 - [Five hours' sleep is tipping point for bad health](https://www.bbc.co.uk/news/health-63284305)
 - Oct 19 - [Future Pinball – A Real Time Pinball Development System](https://futurepinball.com)
 - Oct 19 - [81% of IT teams directed to reduce or halt cloud spending](https://venturebeat.com/data-infrastructure/report-81-of-it-teams-directed-to-reduce-or-halt-cloud-spending-by-c-suite/)
 - Oct 19 - [IDA cybersecurity software provider Hex-Rays acquired](https://smartfinvc.com/news/smartfin-acquires-leading-cybersecurity-software-provider-hex-rays-together-with-sfpim-and-sriw/)
-- Oct 19 - [Show HN: Stable Diffusion, but Fast](https://healthydiffusion.com/?a)
-- Oct 19 - [Focus Is Saying No to Good Ideas](https://commoncog.com/focus-saying-no-to-good-ideas/)
 <!--END_SECTION:hn-->
 
 <!--
