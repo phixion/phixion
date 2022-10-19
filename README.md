@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 19 - [Kill Bill – Open-Source Subscription Billing and Payments Platform](https://github.com/killbill/killbill)
-- Oct 19 - [It’s Time to Repeal the Jones Act](https://www.discoursemagazine.com/economics/2022/10/18/its-time-to-repeal-the-jones-act/)
-- Oct 19 - [The Telefunken RA 770 Analog Computer](http://www.analogmuseum.org/english/collection/telefunken/ra770/)
-- Oct 19 - [Community Phone Is Hiring Engineers to Make VoIP Simple and Reliable](https://www.ycombinator.com/companies/community-phone-company/jobs/ENwCu0g-senior-backend-engineer)
-- Oct 19 - [The Proton, the ‘Most Complicated Thing’ Imaginable](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
+- Oct 19 - [EasyList is in trouble and so are many ad blockers](https://adguard.com/en/blog/easylist-filter-problem-help.html)
+- Oct 19 - [How to use a watch as a compass](https://www.citizenwatch-global.com/support/exterior/direction.html)
+- Oct 19 - [NASA’s Webb takes star-filled portrait of Pillars of Creation](https://www.nasa.gov/feature/goddard/2022/nasa-s-webb-takes-star-filled-portrait-of-pillars-of-creation/)
+- Oct 19 - [Bespoke silicon rattles chip design ecosystem](https://semiengineering.com/bespoke-silicon-rattles-chip-design-ecosystem/)
+- Oct 19 - [Why most published research findings are false (2005)](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
 <!--END_SECTION:hn-->
 
 <!--
