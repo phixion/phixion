@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 18 - [We rewrote a high-performance database in Rust](https://www.pinecone.io/learn/rust-rewrite/)
-- Oct 18 - [Meta ordered to sell Giphy by UK's competition watchdog CMA](https://www.bbc.com/news/technology-63302179)
-- Oct 18 - [Gain of Function? Not So Fast](https://www.science.org/content/blog-post/gain-function-not-so-fast)
-- Oct 18 - [2/3 of kids bike to school in Assen because it was designed that way](http://www.aviewfromthecyclepath.com/2013/09/the-school-run-in-assen.html)
-- Oct 18 - [Retired U.S. generals, admirals take top jobs with Saudi crown prince](https://www.washingtonpost.com/investigations/interactive/2022/veterans-us-foreign-jobs-saudi-arabia/)
+- Oct 19 - [USB4 Specification v2.0](https://www.usb.org/document-library/usb4r-specification-v20)
+- Oct 18 - [A Vision of Metascience](https://scienceplusplus.org/metascience/)
+- Oct 18 - [Lost something? Search through 91.7M files from the 80s, 90s, and 2000s](https://arstechnica.com/gaming/2022/10/lost-something-search-through-91-7-million-files-from-the-80s-90s-and-2000s/)
+- Oct 18 - [Aquila: A unified, low-latency fabric for datacenter networks](https://www.usenix.org/conference/nsdi22/presentation/gibson)
+- Oct 18 - [75% of the time we spend with our kids in our lifetime will be spent by age 12](https://www.1000hoursoutside.com/blog/time-with-kids-before-age-12)
 <!--END_SECTION:hn-->
 
 <!--
