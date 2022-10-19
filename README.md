@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 19 - [USB4 Specification v2.0](https://www.usb.org/document-library/usb4r-specification-v20)
-- Oct 18 - [A Vision of Metascience](https://scienceplusplus.org/metascience/)
-- Oct 18 - [Lost something? Search through 91.7M files from the 80s, 90s, and 2000s](https://arstechnica.com/gaming/2022/10/lost-something-search-through-91-7-million-files-from-the-80s-90s-and-2000s/)
-- Oct 18 - [Aquila: A unified, low-latency fabric for datacenter networks](https://www.usenix.org/conference/nsdi22/presentation/gibson)
-- Oct 18 - [75% of the time we spend with our kids in our lifetime will be spent by age 12](https://www.1000hoursoutside.com/blog/time-with-kids-before-age-12)
+- Oct 19 - [Future Pinball – A Real Time Pinball Development System](https://futurepinball.com)
+- Oct 19 - [81% of IT teams directed to reduce or halt cloud spending](https://venturebeat.com/data-infrastructure/report-81-of-it-teams-directed-to-reduce-or-halt-cloud-spending-by-c-suite/)
+- Oct 19 - [IDA cybersecurity software provider Hex-Rays acquired](https://smartfinvc.com/news/smartfin-acquires-leading-cybersecurity-software-provider-hex-rays-together-with-sfpim-and-sriw/)
+- Oct 19 - [Show HN: Stable Diffusion, but Fast](https://healthydiffusion.com/?a)
+- Oct 19 - [Focus Is Saying No to Good Ideas](https://commoncog.com/focus-saying-no-to-good-ideas/)
 <!--END_SECTION:hn-->
 
 <!--
