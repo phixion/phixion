@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 19 - [Ask HN: Has anyone managed to find enjoyment in their work after burnout?](https://news.ycombinator.com/item?id=33260525)
-- Oct 19 - [China allegedly dumps bad chips on Russia](https://www.theregister.com/2022/10/18/russia_china_semiconductro_failure_rates/)
-- Oct 19 - [Ask HN: How to deal with regret of not having kids](https://news.ycombinator.com/item?id=33259414)
-- Oct 19 - [Tell HN: The regret of parenting and how to handle it](https://news.ycombinator.com/item?id=33258925)
-- Oct 19 - [I asked Signal motivations for SMS removal](https://news.ycombinator.com/item?id=33258684)
+- Oct 19 - [Kill Bill – Open-Source Subscription Billing and Payments Platform](https://github.com/killbill/killbill)
+- Oct 19 - [It’s Time to Repeal the Jones Act](https://www.discoursemagazine.com/economics/2022/10/18/its-time-to-repeal-the-jones-act/)
+- Oct 19 - [The Telefunken RA 770 Analog Computer](http://www.analogmuseum.org/english/collection/telefunken/ra770/)
+- Oct 19 - [Community Phone Is Hiring Engineers to Make VoIP Simple and Reliable](https://www.ycombinator.com/companies/community-phone-company/jobs/ENwCu0g-senior-backend-engineer)
+- Oct 19 - [The Proton, the ‘Most Complicated Thing’ Imaginable](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
 <!--END_SECTION:hn-->
 
 <!--
