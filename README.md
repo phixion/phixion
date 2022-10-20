@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 19 - [A Geometrically Natural Uncomputable Function (2008)](https://xorshammer.com/2008/09/04/a-geometrically-natural-uncomputable-function/)
+- Oct 19 - [One year of wildfires undid decades of California’s emissions policy](https://www.economist.com/graphic-detail/2022/10/19/one-year-of-wildfires-undid-decades-of-californias-emissions-policy)
+- Oct 19 - [Glamorous Toolkit: Moldable development environment](https://gtoolkit.com/)
+- Oct 19 - [My PhD Genealogy](http://robots.stanford.edu/genealogy)
 - Oct 19 - [EasyList is in trouble and so are many ad blockers](https://adguard.com/en/blog/easylist-filter-problem-help.html)
-- Oct 19 - [How to use a watch as a compass](https://www.citizenwatch-global.com/support/exterior/direction.html)
-- Oct 19 - [NASA’s Webb takes star-filled portrait of Pillars of Creation](https://www.nasa.gov/feature/goddard/2022/nasa-s-webb-takes-star-filled-portrait-of-pillars-of-creation/)
-- Oct 19 - [Bespoke silicon rattles chip design ecosystem](https://semiengineering.com/bespoke-silicon-rattles-chip-design-ecosystem/)
-- Oct 19 - [Why most published research findings are false (2005)](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
 <!--END_SECTION:hn-->
 
 <!--
