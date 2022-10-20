@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 20 - [Senior Solidity Developer at Jasmine Energy (YC S22)](https://www.ycombinator.com/companies/jasmine/jobs/AZ807Dr-senior-solidity-developer-at-jasmine-energy-yc-s22)
-- Oct 20 - [Your account is permanently suspended](https://twitter.com/benthompson/status/1583059222555930629)
-- Oct 20 - [Firefox Beta for Android now supports custom add-on collections](https://www.ghacks.net/2022/10/20/firefox-beta-for-android-now-supports-custom-add-on-collections/)
-- Oct 20 - [Copilot under fire as dev claims it emits 'large chunks of my copyrighted code'](https://devclass.com/2022/10/17/github-copilot-under-fire-as-dev-claims-it-emits-large-chunks-of-my-copyrighted-code/)
-- Oct 20 - [Most people on antidepressants don’t need them](https://www.economist.com/leaders/2022/10/19/most-people-on-antidepressants-dont-need-them)
+- Oct 20 - [DaVinci Resolve for iPad](https://www.blackmagicdesign.com/media/release/20221020-02)
+- Oct 20 - [Finding Relationships Between Ruby’s Top Packages and Their Dependencies](https://shopify.engineering/relationships-between-ruby-top-100-packages-dependencies)
+- Oct 20 - [CT scans of batteries, including the Tesla Model Y lithium ion cell](https://www.scanofthemonth.com/scans/batteries)
+- Oct 20 - [India fines Google $162M for anti-competitive practices](https://techcrunch.com/2022/10/20/india-fines-google-162-million-for-anti-competitive-practices-on-android/)
+- Oct 20 - [Canonical releases Ubuntu 22.10 Kinetic Kudu](https://ubuntu.com/blog/canonical-releases-ubuntu-22-10-kinetic-kudu)
 <!--END_SECTION:hn-->
 
 <!--
