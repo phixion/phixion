@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 20 - [Pig War (1859)](https://en.wikipedia.org/wiki/Pig_War_(1859))
+- Oct 20 - [CarperAI announces plans for the first open-source “instruction-tuned” LM](https://carper.ai/instruct-gpt-announcement/)
+- Oct 20 - [AntiX-22 Released](https://antixlinux.com/antix-22-released/)
 - Oct 20 - [AI will replace middle management before robots replace hourly workers](https://chatterhead.bearblog.dev/ai-will-replace-middle-management-not-hourly-workers/)
 - Oct 20 - [A large scale non-linear optimization library](https://github.com/ceres-solver/ceres-solver)
 - Oct 20 - [Stop Writing Dead Programs](https://jackrusher.com/strange-loop-2022/)
-- Oct 20 - [Pocket Casts Mobile Apps Are Now Open Source](https://blog.pocketcasts.com/2022/10/19/pocket-casts-mobile-apps-are-now-open-source/)
 <!--END_SECTION:hn-->
 
 <!--
