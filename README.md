@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 20 - [DaVinci Resolve for iPad](https://www.blackmagicdesign.com/media/release/20221020-02)
-- Oct 20 - [Finding Relationships Between Ruby’s Top Packages and Their Dependencies](https://shopify.engineering/relationships-between-ruby-top-100-packages-dependencies)
-- Oct 20 - [CT scans of batteries, including the Tesla Model Y lithium ion cell](https://www.scanofthemonth.com/scans/batteries)
-- Oct 20 - [India fines Google $162M for anti-competitive practices](https://techcrunch.com/2022/10/20/india-fines-google-162-million-for-anti-competitive-practices-on-android/)
-- Oct 20 - [Canonical releases Ubuntu 22.10 Kinetic Kudu](https://ubuntu.com/blog/canonical-releases-ubuntu-22-10-kinetic-kudu)
+- Oct 20 - [Hans Niemann Suing Magnus Carlsen, Chess.com, and Hikaru Nakamura](https://www.courtlistener.com/docket/65592749/niemann-v-carlsen/)
+- Oct 20 - [Another scientific body has debunked bitemark analysis](https://radleybalko.substack.com/p/yet-another-scientific-body-has-debunked)
+- Oct 20 - [Washington Officials Traded Stocks with Exquisite Timing](https://www.wsj.com/articles/covid-washington-officials-stocks-trading-markets-stimulus-11666192404)
+- Oct 20 - [Too good to be true: when overwhelming evidence fails to convince](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4841483/)
+- Oct 20 - [New motorcycle lighting design could save lives](https://news.rice.edu/news/2022/new-motorcycle-lighting-design-could-save-lives)
 <!--END_SECTION:hn-->
 
 <!--
