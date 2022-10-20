@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 19 - [A Geometrically Natural Uncomputable Function (2008)](https://xorshammer.com/2008/09/04/a-geometrically-natural-uncomputable-function/)
-- Oct 19 - [One year of wildfires undid decades of California’s emissions policy](https://www.economist.com/graphic-detail/2022/10/19/one-year-of-wildfires-undid-decades-of-californias-emissions-policy)
-- Oct 19 - [Glamorous Toolkit: Moldable development environment](https://gtoolkit.com/)
-- Oct 19 - [My PhD Genealogy](http://robots.stanford.edu/genealogy)
-- Oct 19 - [EasyList is in trouble and so are many ad blockers](https://adguard.com/en/blog/easylist-filter-problem-help.html)
+- Oct 20 - [Pig War (1859)](https://en.wikipedia.org/wiki/Pig_War_(1859))
+- Oct 20 - [AI will replace middle management before robots replace hourly workers](https://chatterhead.bearblog.dev/ai-will-replace-middle-management-not-hourly-workers/)
+- Oct 20 - [A large scale non-linear optimization library](https://github.com/ceres-solver/ceres-solver)
+- Oct 20 - [Stop Writing Dead Programs](https://jackrusher.com/strange-loop-2022/)
+- Oct 20 - [Pocket Casts Mobile Apps Are Now Open Source](https://blog.pocketcasts.com/2022/10/19/pocket-casts-mobile-apps-are-now-open-source/)
 <!--END_SECTION:hn-->
 
 <!--
