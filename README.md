@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 21 - [Why we chose not to release Stable Diffusion 1.5 as quickly](https://danieljeffries.substack.com/p/why-the-future-of-open-source-ai)
-- Oct 21 - [Show HN: I'm trying to guess your personality by your comments with an NLP model](https://ezpersonality.com)
-- Oct 21 - [Hightouch (YC S19) Is Hiring an Engineering Manager](https://boards.greenhouse.io/hightouch/jobs/4580317004)
-- Oct 20 - [The State of AV1 Playback Support](https://bitmovin.com/av1-playback-support/)
-- Oct 20 - [Apparent size of Andromeda galaxy compared to the Moon](https://astronomy.stackexchange.com/questions/23378/is-this-photocomposition-of-andromedas-galaxy-and-the-moon-accurate)
+- Oct 21 - [Counting in the Dark](https://inference-review.com/article/counting-in-the-dark)
+- Oct 21 - [What Did Mary Know? A thought experiment about consciousness (2013)](https://philosophynow.org/issues/99/What_Did_Mary_Know)
+- Oct 21 - [Living Descendants of Mark Anthony](https://antigonejournal.com/2022/10/descendants-mark-antony/)
+- Oct 21 - [Has the CIA Done More Harm Than Good?](https://www.newyorker.com/magazine/2022/10/10/has-the-cia-done-more-harm-than-good)
+- Oct 21 - [Hyrum's Law](https://www.hyrumslaw.com/)
 <!--END_SECTION:hn-->
 
 <!--
