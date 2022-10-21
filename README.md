@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 21 - [Counting in the Dark](https://inference-review.com/article/counting-in-the-dark)
-- Oct 21 - [What Did Mary Know? A thought experiment about consciousness (2013)](https://philosophynow.org/issues/99/What_Did_Mary_Know)
-- Oct 21 - [Living Descendants of Mark Anthony](https://antigonejournal.com/2022/10/descendants-mark-antony/)
-- Oct 21 - [Has the CIA Done More Harm Than Good?](https://www.newyorker.com/magazine/2022/10/10/has-the-cia-done-more-harm-than-good)
-- Oct 21 - [Hyrum's Law](https://www.hyrumslaw.com/)
+- Oct 21 - [PolicyFly (YC W22) Is Hiring a Senior Front End Engineer (Remote)](https://www.ycombinator.com/companies/policyfly/jobs/nWWR9aU-senior-frontend-engineer-core)
+- Oct 21 - [Experiments Spell Doom for Decades-Old Explanation of Quantum Weirdness](https://www.quantamagazine.org/physics-experiments-spell-doom-for-quantum-collapse-theory-20221020/)
+- Oct 21 - [NimConf 2022 – Nim Online Conference](https://nim-lang.org/blog/2022/10/21/nim-conference.html)
+- Oct 21 - [Building the Future of TensorFlow](https://blog.tensorflow.org/2022/10/building-the-future-of-tensorflow.html)
+- Oct 21 - [The front end community wants to wash its hands of the decade we lost](https://twitter.com/slightlylate/status/1583157448885514240)
 <!--END_SECTION:hn-->
 
 <!--
