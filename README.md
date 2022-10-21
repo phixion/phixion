@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 20 - [Hans Niemann Suing Magnus Carlsen, Chess.com, and Hikaru Nakamura](https://www.courtlistener.com/docket/65592749/niemann-v-carlsen/)
-- Oct 20 - [Another scientific body has debunked bitemark analysis](https://radleybalko.substack.com/p/yet-another-scientific-body-has-debunked)
-- Oct 20 - [Washington Officials Traded Stocks with Exquisite Timing](https://www.wsj.com/articles/covid-washington-officials-stocks-trading-markets-stimulus-11666192404)
-- Oct 20 - [Too good to be true: when overwhelming evidence fails to convince](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4841483/)
-- Oct 20 - [New motorcycle lighting design could save lives](https://news.rice.edu/news/2022/new-motorcycle-lighting-design-could-save-lives)
+- Oct 20 - [Current state of AV1 codec playback support – Oct '22](https://bitmovin.com/av1-playback-support/)
+- Oct 20 - [Size of Andromeda galaxy compared to the Moon](https://astronomy.stackexchange.com/questions/23378/is-this-photocomposition-of-andromedas-galaxy-and-the-moon-accurate)
+- Oct 20 - [A Bluetooth Low Energy (BLE) soil moisture sensor](https://github.com/rbaron/b-parasite)
+- Oct 20 - [Stop Scanning Me](https://stopscanningme.eu/en/)
+- Oct 20 - [SHA-3 Buffer Overflow](https://mouha.be/sha-3-buffer-overflow/)
 <!--END_SECTION:hn-->
 
 <!--
