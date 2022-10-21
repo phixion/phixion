@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 20 - [Current state of AV1 codec playback support – Oct '22](https://bitmovin.com/av1-playback-support/)
-- Oct 20 - [Size of Andromeda galaxy compared to the Moon](https://astronomy.stackexchange.com/questions/23378/is-this-photocomposition-of-andromedas-galaxy-and-the-moon-accurate)
-- Oct 20 - [A Bluetooth Low Energy (BLE) soil moisture sensor](https://github.com/rbaron/b-parasite)
-- Oct 20 - [Stop Scanning Me](https://stopscanningme.eu/en/)
-- Oct 20 - [SHA-3 Buffer Overflow](https://mouha.be/sha-3-buffer-overflow/)
+- Oct 21 - [Why we chose not to release Stable Diffusion 1.5 as quickly](https://danieljeffries.substack.com/p/why-the-future-of-open-source-ai)
+- Oct 21 - [Show HN: I'm trying to guess your personality by your comments with an NLP model](https://ezpersonality.com)
+- Oct 21 - [Hightouch (YC S19) Is Hiring an Engineering Manager](https://boards.greenhouse.io/hightouch/jobs/4580317004)
+- Oct 20 - [The State of AV1 Playback Support](https://bitmovin.com/av1-playback-support/)
+- Oct 20 - [Apparent size of Andromeda galaxy compared to the Moon](https://astronomy.stackexchange.com/questions/23378/is-this-photocomposition-of-andromedas-galaxy-and-the-moon-accurate)
 <!--END_SECTION:hn-->
 
 <!--
