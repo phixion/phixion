@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 21 - [Identifying forum agitators, psyops and shills](https://edith.reisen/computers/security/forum_shills.html)
-- Oct 21 - [More Than 60k Rent-Stabilized Apartments Are Now Vacant](https://www.thecity.nyc/housing/2022/10/19/23411956/60000-rent-stabilized-apartments-vacant-warehousing-nyc-landlords-housing)
-- Oct 21 - [Long Covid: Hair loss and sexual dysfunction among wider symptoms, study finds](https://www.bmj.com/content/378/bmj.o1887)
-- Oct 21 - [Fractional (YC W21) Is Hiring an iOS Lead](https://www.ycombinator.com/companies/fractional/jobs/CAbyds4-ios-lead)
-- Oct 21 - [ProjectM: LGPL Reimplementation of Ryan Geiss' Milkdrop from Winamp/Kodi](https://codav.itch.io/projectm)
+- Oct 22 - [A Moonshot for Coral Breeding Was Successful](https://hakaimagazine.com/features/a-moonshot-for-coral-breeding-was-successful/)
+- Oct 22 - [Clojure 15th Anniversary: A Retrospective](https://building.nubank.com.br/clojure-15th-anniversary-a-retrospective/)
+- Oct 22 - [A Soviet Circus Clown Tried to Prove That Dogs Can Be Psychic](https://www.atlasobscura.com/articles/dog-telepathy)
+- Oct 22 - [Smithsonian Open Access-download, share, and reuse Smithsonian’s images](https://www.si.edu/openaccess)
+- Oct 22 - [Celebrating 5 Years of Pop _OS](https://blog.system76.com/post/celebrating-5-years-of-pop_os/)
 <!--END_SECTION:hn-->
 
 <!--
