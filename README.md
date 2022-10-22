@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 22 - [Some People Are Mosquito Magnets, and They're Stuck That Way](https://www.scientificamerican.com/article/some-people-really-are-mosquito-magnets-and-theyre-stuck-that-way/)
-- Oct 22 - [Tailwind CSS v3.2: revisiting my “feature creep” warning](https://www.brycewray.com/posts/2022/10/tailwind-css-v3-2-revisiting-feature-creep-warning/)
-- Oct 22 - [Remote work changed their lives. They’re not going back to the office](https://www.washingtonpost.com/technology/2022/10/21/permanent-remote-work-employees/)
-- Oct 22 - [Colleges that ditched admission tests find it harder to fairly choose students](https://hechingerreport.org/proof-points-colleges-that-ditched-test-scores-for-admissions-find-its-harder-to-be-fair-in-choosing-students-researcher-says/)
-- Oct 22 - [Incremental Parsing in Go](https://dev-nonsense.com/posts/incremental-parsing-in-go/)
+- Oct 22 - [Leaving the Cloud](https://www.rework.fm/leaving-the-cloud/)
+- Oct 22 - [Review of the Kinesis Advantage360 Professional](https://arslan.io/2022/10/22/review-of-the-kinesis-advantage360-professional/)
+- Oct 22 - [Heroku alternatives with a free tier listed in a GitHub repo](https://github.com/Engagespot/heroku-free-alternatives)
+- Oct 22 - [GitLab 15.5](https://about.gitlab.com/releases/2022/10/22/gitlab-15-5-released/)
+- Oct 22 - [Why Is That Funny?](https://nautil.us/why-is-that-funny-243350/)
 <!--END_SECTION:hn-->
 
 <!--
