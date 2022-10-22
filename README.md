@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 22 - [Designing Logic Systems Using State Machines by Christopher R. Clare](https://archive.org/details/designinglogicsystemsusingstatemachines)
-- Oct 22 - [RISC in 2022](https://wiki.alopex.li/RiscIn2022)
-- Oct 22 - [Comparing Floating-Point Numbers Is Tricky](https://bitbashing.io/comparing-floats.html)
-- Oct 22 - ['People were sucked into schemes': Inside Molly White’s campaign against crypto](https://www.protocol.com/fintech/molly-white-web3-crypto-skeptic)
-- Oct 22 - [Refurb Weekend: PowerBook 1400](http://oldvcr.blogspot.com/2022/10/refurb-weekend-powerbook-1400.html)
+- Oct 22 - [Ask HN: Are there recorded instances of people being framed through hacking?](https://news.ycombinator.com/item?id=33297363)
+- Oct 22 - [Ask HN: HNers with MS (multiple sclerosis, not Microsoft), can we get in touch?](https://news.ycombinator.com/item?id=33297217)
+- Oct 22 - [qpwgraph – PipeWire Graph Qt GUI Interface](https://gitlab.freedesktop.org/rncbc/qpwgraph)
+- Oct 22 - [Princeton lab simulates nuclear war](https://sgs.princeton.edu/the-lab/plan-a)
+- Oct 22 - [Global Encryption Day: Demand End-to-End Encryption in DMs](https://blog.torproject.org/global-encryption-day-2022/)
 <!--END_SECTION:hn-->
 
 <!--
