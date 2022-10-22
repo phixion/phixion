@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 21 - [AI models that predict disease are not as accurate as reports might suggest](https://www.scientificamerican.com/article/ai-in-medicine-is-overhyped/)
-- Oct 21 - [Thanks to the Israeli accessibility law, I have to delete my websites](https://lifemichael.com/en/the-israeli-books-end-of-life-thanks-to-israeli-accessibility-law/)
-- Oct 21 - [The Commodordion](https://linusakesson.net/commodordion/index.php)
-- Oct 21 - [Replit (YC W18) is hiring engineers to make programming more accessible](https://replit.com/careers)
-- Oct 21 - [Wayflan: a from-scratch Wayland client for Common Lisp](https://sr.ht/~shunter/wayflan/)
+- Oct 21 - [Identifying forum agitators, psyops and shills](https://edith.reisen/computers/security/forum_shills.html)
+- Oct 21 - [More Than 60k Rent-Stabilized Apartments Are Now Vacant](https://www.thecity.nyc/housing/2022/10/19/23411956/60000-rent-stabilized-apartments-vacant-warehousing-nyc-landlords-housing)
+- Oct 21 - [Long Covid: Hair loss and sexual dysfunction among wider symptoms, study finds](https://www.bmj.com/content/378/bmj.o1887)
+- Oct 21 - [Fractional (YC W21) Is Hiring an iOS Lead](https://www.ycombinator.com/companies/fractional/jobs/CAbyds4-ios-lead)
+- Oct 21 - [ProjectM: LGPL Reimplementation of Ryan Geiss' Milkdrop from Winamp/Kodi](https://codav.itch.io/projectm)
 <!--END_SECTION:hn-->
 
 <!--
