@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 22 - [Ask HN: Are there recorded instances of people being framed through hacking?](https://news.ycombinator.com/item?id=33297363)
-- Oct 22 - [Ask HN: HNers with MS (multiple sclerosis, not Microsoft), can we get in touch?](https://news.ycombinator.com/item?id=33297217)
-- Oct 22 - [qpwgraph – PipeWire Graph Qt GUI Interface](https://gitlab.freedesktop.org/rncbc/qpwgraph)
-- Oct 22 - [Princeton lab simulates nuclear war](https://sgs.princeton.edu/the-lab/plan-a)
-- Oct 22 - [Global Encryption Day: Demand End-to-End Encryption in DMs](https://blog.torproject.org/global-encryption-day-2022/)
+- Oct 22 - [Some People Are Mosquito Magnets, and They're Stuck That Way](https://www.scientificamerican.com/article/some-people-really-are-mosquito-magnets-and-theyre-stuck-that-way/)
+- Oct 22 - [Tailwind CSS v3.2: revisiting my “feature creep” warning](https://www.brycewray.com/posts/2022/10/tailwind-css-v3-2-revisiting-feature-creep-warning/)
+- Oct 22 - [Remote work changed their lives. They’re not going back to the office](https://www.washingtonpost.com/technology/2022/10/21/permanent-remote-work-employees/)
+- Oct 22 - [Colleges that ditched admission tests find it harder to fairly choose students](https://hechingerreport.org/proof-points-colleges-that-ditched-test-scores-for-admissions-find-its-harder-to-be-fair-in-choosing-students-researcher-says/)
+- Oct 22 - [Incremental Parsing in Go](https://dev-nonsense.com/posts/incremental-parsing-in-go/)
 <!--END_SECTION:hn-->
 
 <!--
