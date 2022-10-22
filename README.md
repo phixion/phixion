@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 22 - [A Moonshot for Coral Breeding Was Successful](https://hakaimagazine.com/features/a-moonshot-for-coral-breeding-was-successful/)
-- Oct 22 - [Clojure 15th Anniversary: A Retrospective](https://building.nubank.com.br/clojure-15th-anniversary-a-retrospective/)
-- Oct 22 - [A Soviet Circus Clown Tried to Prove That Dogs Can Be Psychic](https://www.atlasobscura.com/articles/dog-telepathy)
-- Oct 22 - [Smithsonian Open Access-download, share, and reuse Smithsonian’s images](https://www.si.edu/openaccess)
-- Oct 22 - [Celebrating 5 Years of Pop _OS](https://blog.system76.com/post/celebrating-5-years-of-pop_os/)
+- Oct 22 - [Designing Logic Systems Using State Machines by Christopher R. Clare](https://archive.org/details/designinglogicsystemsusingstatemachines)
+- Oct 22 - [RISC in 2022](https://wiki.alopex.li/RiscIn2022)
+- Oct 22 - [Comparing Floating-Point Numbers Is Tricky](https://bitbashing.io/comparing-floats.html)
+- Oct 22 - ['People were sucked into schemes': Inside Molly White’s campaign against crypto](https://www.protocol.com/fintech/molly-white-web3-crypto-skeptic)
+- Oct 22 - [Refurb Weekend: PowerBook 1400](http://oldvcr.blogspot.com/2022/10/refurb-weekend-powerbook-1400.html)
 <!--END_SECTION:hn-->
 
 <!--
