@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 23 - [Skio (YC S20) is hiring – subscriptions for Shopify, easy ReCharge migrations](https://skio.com/careers)
-- Oct 23 - [Show HN: I made a CMS that uses Git to store your data](https://Outstatic.com)
-- Oct 23 - [A chill driving game with procedurally generate scenic landscapes](https://slowroads.io/)
-- Oct 23 - [Epoll is fundamentally broken (2017)](https://idea.popcount.org/2017-02-20-epoll-is-fundamentally-broken-12/)
-- Oct 23 - [Oidbs: An Open Source MQTT Driven Benchmark Suite for IoT Data](https://joinbase.io/blog/intro-oidbs/)
+- Oct 23 - [Five Origami Books by Shuzo Fujimoto Are Now Public Domain](https://origami.kosmulski.org/blog/2022-10-23-fujimoto-books-public-domain)
+- Oct 23 - [Kiwifarms Dropped by Their ISP](https://t.me/kiwifarms/68)
+- Oct 23 - [William Shatner experienced profound grief in space. It was the overview effect](https://www.npr.org/2022/10/23/1130482740/william-shatner-jeff-bezos-space-travel-overview-effect)
+- Oct 23 - [Wolfgang Denk, creator of the U-Boot bootloader, has died](https://lists.denx.de/pipermail/u-boot/2022-October/497955.html)
+- Oct 23 - [How Rust 1.64 became faster on Windows](https://tomaszs2.medium.com/how-rust-1-64-became-10-20-faster-on-windows-3a8bb5e81d70)
 <!--END_SECTION:hn-->
 
 <!--
