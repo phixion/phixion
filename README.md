@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 23 - [Google has most of my email because it has all of yours (2014)](https://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours)
-- Oct 23 - [A new paper claims SARS-CoV-2 bears signs of genetic engineering](https://www.economist.com/science-and-technology/2022/10/22/a-new-paper-claims-sars-cov-2-bears-signs-of-genetic-engineering)
-- Oct 23 - [On finally learning to program at the age of 40 (2020)](https://github.com/Dhghomon/programming_at_40)
-- Oct 23 - [A 'screenless smartphone'](https://www.vice.com/en/article/k7bxpw/mymanu-titan-screenless-smartphone)
-- Oct 22 - [Tell HN: I was tired of being a perfectionist so I built an app within 24 hours](https://news.ycombinator.com/item?id=33303269)
+- Oct 23 - [Oidbs: An Open Source MQTT Driven Benchmark Suite for IoT Data](https://joinbase.io/blog/intro-oidbs/)
+- Oct 23 - [A History of Palomar Observatory](https://sites.astro.caltech.edu/palomar/about/history.html)
+- Oct 23 - [Pouring the 200 inch disk at Corning Glass Works](https://nyheritage.org/collections/pouring-200-inch-disk-corning-glass-works)
+- Oct 23 - [Pocket Casts goes open source](https://ma.tt/2022/10/open-source-podcasting-client/)
+- Oct 23 - [Differential mosquito attraction to humans is associated with skin acid levels](https://www.cell.com/cell/fulltext/S0092-8674(22)01253-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867422012533%3Fshowall%3Dtrue)
 <!--END_SECTION:hn-->
 
 <!--
