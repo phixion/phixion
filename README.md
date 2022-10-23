@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 22 - [Pure Data as a plugin, with a new GUI](https://github.com/timothyschoen/PlugData)
-- Oct 22 - [Add Accessibility to Your Website](https://github.com/ranbuch/accessibility)
-- Oct 22 - [The Raspberry Pi 400 in My Bedroom](https://joeldare.com/private-analtyics-and-my-raspberry-pi-400.html)
-- Oct 22 - [News Music Search Archive](http://www.newsmusicsearcharchive.com/)
-- Oct 22 - [10-cent CH32V003 RISC-V MCU offers 2KB SRAM, 16KB flash, SOP8 to QFN20 packages](https://www.cnx-software.com/2022/10/22/10-cents-ch32v003-risc-v-mcu-offers-2kb-sram-16kb-flash-in-sop8-to-qfn20-packages/)
+- Oct 23 - [Google has most of my email because it has all of yours (2014)](https://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours)
+- Oct 23 - [A new paper claims SARS-CoV-2 bears signs of genetic engineering](https://www.economist.com/science-and-technology/2022/10/22/a-new-paper-claims-sars-cov-2-bears-signs-of-genetic-engineering)
+- Oct 23 - [On finally learning to program at the age of 40 (2020)](https://github.com/Dhghomon/programming_at_40)
+- Oct 23 - [A 'screenless smartphone'](https://www.vice.com/en/article/k7bxpw/mymanu-titan-screenless-smartphone)
+- Oct 22 - [Tell HN: I was tired of being a perfectionist so I built an app within 24 hours](https://news.ycombinator.com/item?id=33303269)
 <!--END_SECTION:hn-->
 
 <!--
