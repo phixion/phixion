@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 22 - [Leaving the Cloud](https://www.rework.fm/leaving-the-cloud/)
-- Oct 22 - [Review of the Kinesis Advantage360 Professional](https://arslan.io/2022/10/22/review-of-the-kinesis-advantage360-professional/)
-- Oct 22 - [Heroku alternatives with a free tier listed in a GitHub repo](https://github.com/Engagespot/heroku-free-alternatives)
-- Oct 22 - [GitLab 15.5](https://about.gitlab.com/releases/2022/10/22/gitlab-15-5-released/)
-- Oct 22 - [Why Is That Funny?](https://nautil.us/why-is-that-funny-243350/)
+- Oct 22 - [Pure Data as a plugin, with a new GUI](https://github.com/timothyschoen/PlugData)
+- Oct 22 - [Add Accessibility to Your Website](https://github.com/ranbuch/accessibility)
+- Oct 22 - [The Raspberry Pi 400 in My Bedroom](https://joeldare.com/private-analtyics-and-my-raspberry-pi-400.html)
+- Oct 22 - [News Music Search Archive](http://www.newsmusicsearcharchive.com/)
+- Oct 22 - [10-cent CH32V003 RISC-V MCU offers 2KB SRAM, 16KB flash, SOP8 to QFN20 packages](https://www.cnx-software.com/2022/10/22/10-cents-ch32v003-risc-v-mcu-offers-2kb-sram-16kb-flash-in-sop8-to-qfn20-packages/)
 <!--END_SECTION:hn-->
 
 <!--
