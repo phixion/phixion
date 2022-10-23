@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 23 - [Five Origami Books by Shuzo Fujimoto Are Now Public Domain](https://origami.kosmulski.org/blog/2022-10-23-fujimoto-books-public-domain)
-- Oct 23 - [Kiwifarms Dropped by Their ISP](https://t.me/kiwifarms/68)
-- Oct 23 - [William Shatner experienced profound grief in space. It was the overview effect](https://www.npr.org/2022/10/23/1130482740/william-shatner-jeff-bezos-space-travel-overview-effect)
-- Oct 23 - [Wolfgang Denk, creator of the U-Boot bootloader, has died](https://lists.denx.de/pipermail/u-boot/2022-October/497955.html)
-- Oct 23 - [How Rust 1.64 became faster on Windows](https://tomaszs2.medium.com/how-rust-1-64-became-10-20-faster-on-windows-3a8bb5e81d70)
+- Oct 23 - [Watashiato](https://www.dictionaryofobscuresorrows.com/post/668222500424007680/watashiato)
+- Oct 23 - [Can Dog Poop Be Vermicomposted?](https://www.redwormcomposting.com/reader-questions/can-dog-poop-be-vermicomposted/)
+- Oct 23 - [Motion (YC W20) Is Hiring Full-Stack Engineers and Data Scientists](https://jobs.ashbyhq.com/motion?utm_source=hn)
+- Oct 23 - [Write Like You Talk (2015)](http://paulgraham.com/talk.html)
+- Oct 23 - [Ray tracing Voxels made out of Glass](https://voxelchain.app/previewer/Glass.html)
 <!--END_SECTION:hn-->
 
 <!--
