@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 23 - [Skio (YC S20) is hiring – subscriptions for Shopify, easy ReCharge migrations](https://skio.com/careers)
+- Oct 23 - [Show HN: I made a CMS that uses Git to store your data](https://Outstatic.com)
+- Oct 23 - [A chill driving game with procedurally generate scenic landscapes](https://slowroads.io/)
+- Oct 23 - [Epoll is fundamentally broken (2017)](https://idea.popcount.org/2017-02-20-epoll-is-fundamentally-broken-12/)
 - Oct 23 - [Oidbs: An Open Source MQTT Driven Benchmark Suite for IoT Data](https://joinbase.io/blog/intro-oidbs/)
-- Oct 23 - [A History of Palomar Observatory](https://sites.astro.caltech.edu/palomar/about/history.html)
-- Oct 23 - [Pouring the 200 inch disk at Corning Glass Works](https://nyheritage.org/collections/pouring-200-inch-disk-corning-glass-works)
-- Oct 23 - [Pocket Casts goes open source](https://ma.tt/2022/10/open-source-podcasting-client/)
-- Oct 23 - [Differential mosquito attraction to humans is associated with skin acid levels](https://www.cell.com/cell/fulltext/S0092-8674(22)01253-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867422012533%3Fshowall%3Dtrue)
 <!--END_SECTION:hn-->
 
 <!--
