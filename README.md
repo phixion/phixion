@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 24 - [Exposure to environmental toxins may be root of rise in neurological disorders](https://www.theguardian.com/us-news/2022/oct/23/environmental-toxins-neurological-disorders-parkinsons-alzheimers)
-- Oct 24 - [California Poised to Overtake Germany as World’s No. 4 Economy](https://www.washingtonpost.com/business/energy/california-poised-to-overtakegermany-as-worlds-no-4-economy/2022/10/24/d4df35a2-538b-11ed-ac8b-08bbfab1c5a5_story.html)
-- Oct 24 - [Putting Kids in Debt (2015)](https://idiallo.com/blog/too-young-for-big-school-debt)
-- Oct 24 - [Company that makes rent-setting software for landlords sued for collusion](https://www.propublica.org/article/realpage-accused-of-collusion-in-new-lawsuit)
-- Oct 24 - [Microsoft 3D Movie Maker from 1995 Is Now Open-Source](https://www.howtogeek.com/803277/microsoft-3d-movie-maker-from-1995-is-now-open-source/)
+- Oct 24 - [My next Mac might be the last](https://morrick.me/archives/9667)
+- Oct 24 - [Only virgin type of olive oil consumption reduces the risk of mortality: study](https://www.nature.com/articles/s41430-022-01221-3)
+- Oct 24 - [I’m Not Sure That (If?) GitHub Copilot Is a Problem](https://michaelweinberg.org/blog/2022/10/24/github-copilot-problem/)
+- Oct 24 - [Mesh shaders talk at XDC 2022](https://rg3.name/202210222107.html)
+- Oct 24 - [Attacking Weak RC4-Like Ciphers the Hard Way](https://research.checkpoint.com/2022/attacking-very-weak-rc4-like-ciphers-the-hard-way/)
 <!--END_SECTION:hn-->
 
 <!--
