@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 23 - [Watashiato](https://www.dictionaryofobscuresorrows.com/post/668222500424007680/watashiato)
-- Oct 23 - [Can Dog Poop Be Vermicomposted?](https://www.redwormcomposting.com/reader-questions/can-dog-poop-be-vermicomposted/)
-- Oct 23 - [Motion (YC W20) Is Hiring Full-Stack Engineers and Data Scientists](https://jobs.ashbyhq.com/motion?utm_source=hn)
-- Oct 23 - [Write Like You Talk (2015)](http://paulgraham.com/talk.html)
-- Oct 23 - [Ray tracing Voxels made out of Glass](https://voxelchain.app/previewer/Glass.html)
+- Oct 23 - [Rust on Espressif chips – 17-10-2022](https://mabez.dev/blog/posts/esp-rust-17-10-2022/)
+- Oct 23 - [Dotfile Madness](https://0x46.net/thoughts/2019/02/01/dotfile-madness/)
+- Oct 23 - [Natural gas is a fuel of the future](https://austinvernon.site/blog/gasredemption.html)
+- Oct 23 - [Coming Home to Vim (2010)](https://stevelosh.com/blog/2010/09/coming-home-to-vim/)
+- Oct 23 - [98.css – design system for building faithful recreations of Windows 98 UIs](https://jdan.github.io/98.css/)
 <!--END_SECTION:hn-->
 
 <!--
