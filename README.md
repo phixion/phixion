@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 23 - [Rust on Espressif chips – 17-10-2022](https://mabez.dev/blog/posts/esp-rust-17-10-2022/)
-- Oct 23 - [Dotfile Madness](https://0x46.net/thoughts/2019/02/01/dotfile-madness/)
-- Oct 23 - [Natural gas is a fuel of the future](https://austinvernon.site/blog/gasredemption.html)
-- Oct 23 - [Coming Home to Vim (2010)](https://stevelosh.com/blog/2010/09/coming-home-to-vim/)
-- Oct 23 - [98.css – design system for building faithful recreations of Windows 98 UIs](https://jdan.github.io/98.css/)
+- Oct 24 - [Why Gen X Failed](https://compactmag.com/article/why-gen-x-failed)
+- Oct 24 - [I proudly wake up at 8:59 a.m., one minute before starting my remote work job](https://fortune.com/2022/10/23/waking-up-one-minute-before-remote-job/)
+- Oct 24 - [Buffers on the Edge: Python and Rust](https://alexgaynor.net/2022/oct/23/buffers-on-the-edge/)
+- Oct 24 - [Debugging C with Cosmopolitan Libc](https://ahgamut.github.io/2022/10/23/debugging-c-with-cosmo/)
+- Oct 23 - [Dotfile madness (2019)](https://0x46.net/thoughts/2019/02/01/dotfile-madness/)
 <!--END_SECTION:hn-->
 
 <!--
