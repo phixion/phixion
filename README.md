@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 24 - [Record-breaking chip can transmit entire internet's traffic per second](https://newatlas.com/telecommunications/optical-chip-fastest-data-transmission-record-entire-internet-traffic/)
-- Oct 24 - [An alternative to Elasticsearch that runs on a few MBs of RAM](https://github.com/valeriansaliou/sonic)
-- Oct 24 - [Plastic recycling remains a 'myth': Greenpeace study](https://phys.org/news/2022-10-plastic-recycling-myth-greenpeace.html)
-- Oct 24 - [The Horrors of the Alpha Channel [video]](https://www.youtube.com/watch?v=XobSAXZaKJ8)
-- Oct 24 - [I help seniors with technology issues. A regular came in with a Lenovo laptop](https://twitter.com/i/status/1583169632516509697)
+- Oct 24 - [Exposure to environmental toxins may be root of rise in neurological disorders](https://www.theguardian.com/us-news/2022/oct/23/environmental-toxins-neurological-disorders-parkinsons-alzheimers)
+- Oct 24 - [California Poised to Overtake Germany as World’s No. 4 Economy](https://www.washingtonpost.com/business/energy/california-poised-to-overtakegermany-as-worlds-no-4-economy/2022/10/24/d4df35a2-538b-11ed-ac8b-08bbfab1c5a5_story.html)
+- Oct 24 - [Putting Kids in Debt (2015)](https://idiallo.com/blog/too-young-for-big-school-debt)
+- Oct 24 - [Company that makes rent-setting software for landlords sued for collusion](https://www.propublica.org/article/realpage-accused-of-collusion-in-new-lawsuit)
+- Oct 24 - [Microsoft 3D Movie Maker from 1995 Is Now Open-Source](https://www.howtogeek.com/803277/microsoft-3d-movie-maker-from-1995-is-now-open-source/)
 <!--END_SECTION:hn-->
 
 <!--
