@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 24 - [27 years since the Financial Times killed one of England’s finest poets](https://twitter.com/mulberrycoates/status/1584116278150602752)
-- Oct 24 - [The Rise of Discmaster](https://blog.archive.org/2022/10/24/the-rise-of-discmaster/)
-- Oct 24 - [Largest score declines in NAEP mathematics at grades 4 and 8](https://www.nationsreportcard.gov/highlights/mathematics/2022/)
-- Oct 24 - [Fake Books](https://lcamtuf.substack.com/p/fake-books)
-- Oct 24 - [The making of Chapter 46 of The Feynman Lectures (2021)](https://physicstoday.scitation.org/do/10.1063/pt.6.3.20211209a/full/)
+- Oct 24 - [Record-breaking chip can transmit entire internet's traffic per second](https://newatlas.com/telecommunications/optical-chip-fastest-data-transmission-record-entire-internet-traffic/)
+- Oct 24 - [An alternative to Elasticsearch that runs on a few MBs of RAM](https://github.com/valeriansaliou/sonic)
+- Oct 24 - [Plastic recycling remains a 'myth': Greenpeace study](https://phys.org/news/2022-10-plastic-recycling-myth-greenpeace.html)
+- Oct 24 - [The Horrors of the Alpha Channel [video]](https://www.youtube.com/watch?v=XobSAXZaKJ8)
+- Oct 24 - [I help seniors with technology issues. A regular came in with a Lenovo laptop](https://twitter.com/i/status/1583169632516509697)
 <!--END_SECTION:hn-->
 
 <!--
