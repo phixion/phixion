@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 25 - [Show HN: Koda Validate – Typesafe, combinable validation for Python](https://github.com/keithasaurus/koda-validate)
-- Oct 25 - [Passkeys.io – A Passkey Authentication Demo](https://www.passkeys.io/)
-- Oct 25 - [The Case of the Missing Fuel: The story of the Stockport air disaster](https://admiralcloudberg.medium.com/the-case-of-the-missing-fuel-the-story-of-the-stockport-air-disaster-74685ae96cb3)
-- Oct 25 - [ClockworkPi – uConsole, “fantasy console” for indie game developers](https://www.clockworkpi.com/)
-- Oct 25 - [Marijuana Users More Prone to Infections After Knee, Shoulder Surgeries](https://consumer.healthday.com/marijuana-users-more-prone-to-infections-after-knee-shoulder-surgeries-2658453251.html)
+- Oct 25 - [Infantilization of the Apocalypse](https://michaelshellenberger.substack.com/p/infantilization-of-the-apocalypse)
+- Oct 25 - [5.1 Magnitude Earthquake Near San Jose, CA](https://earthquake.usgs.gov/earthquakes/eventpage/nc73799091/executive)
+- Oct 25 - [Photopea: The Free Photoshop Alternative Making Millions](https://www.the5to9.xyz/p/photopea-free-photoshop-alternative-making-millions)
+- Oct 25 - [The American chip industry’s $1.5T meltdown](https://www.economist.com/business/2022/10/17/the-american-chip-industrys-15trn-meltdown)
+- Oct 25 - [Wad Commander: Play Doom I and II in the Browser](https://wadcmd.com/)
 <!--END_SECTION:hn-->
 
 <!--
