@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 25 - [What “Work” Looks Like](https://blog.jim-nielsen.com/2022/what-work-looks-like/)
-- Oct 25 - [Want to Communicate Effectively at Work? Eliminate These Cognitive Distortions](https://www.techtello.com/avoid-these-cognitive-distortions-to-communicate-effectively/)
-- Oct 25 - [EU Gives Final Approval to Law That Will Force iPhone to Switch to USB-C](https://www.macrumors.com/2022/10/24/eu-gives-final-approval-to-usb-c-law/)
-- Oct 25 - [Meta Learning Backpropagation and Improving It](https://arxiv.org/abs/2012.14905)
-- Oct 25 - [Ask HN: What Is the Hype with Docker?](https://news.ycombinator.com/item?id=33325474)
+- Oct 25 - [Stacker (YC S20) B2B No-Code Platform Is Hiring Product Engineers](https://apply.workable.com/stackerhq/j/B4A997C78C/)
+- Oct 25 - [Tell HN: A Demo Day without the investors](https://news.ycombinator.com/item?id=33327140)
+- Oct 25 - [Rust in Linux kernel is just a beginning](https://www.memorysafety.org/blog/rust-in-linux-just-the-beginning/)
+- Oct 25 - [Graphviz v7](https://gitlab.com/graphviz/graphviz/-/tree/main)
+- Oct 25 - [How to autoscale Grafana Loki queries using KEDA](https://grafana.com/blog/2022/10/20/how-to-autoscale-grafana-loki-queries-using-keda/)
 <!--END_SECTION:hn-->
 
 <!--
