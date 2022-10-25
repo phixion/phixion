@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 25 - [Stacker (YC S20) B2B No-Code Platform Is Hiring Product Engineers](https://apply.workable.com/stackerhq/j/B4A997C78C/)
-- Oct 25 - [Tell HN: A Demo Day without the investors](https://news.ycombinator.com/item?id=33327140)
-- Oct 25 - [Rust in Linux kernel is just a beginning](https://www.memorysafety.org/blog/rust-in-linux-just-the-beginning/)
-- Oct 25 - [Graphviz v7](https://gitlab.com/graphviz/graphviz/-/tree/main)
-- Oct 25 - [How to autoscale Grafana Loki queries using KEDA](https://grafana.com/blog/2022/10/20/how-to-autoscale-grafana-loki-queries-using-keda/)
+- Oct 25 - [Shutterstock will start selling AI-generated stock imagery](https://www.theverge.com/2022/10/25/23422359/shutterstock-ai-generated-art-openai-dall-e-partnership-contributors-fund-reimbursement)
+- Oct 25 - [Chrome: Sunsetting support for Windows 7 / 8.1 in early 2023](https://support.google.com/chrome/thread/185534985/sunsetting-support-for-windows-7-8-1-in-early-2023?hl=en)
+- Oct 25 - [Online card payments still suck](https://fynbos.app/blog/card-payments-still-suck)
+- Oct 25 - [Emacs User Survey (2022)](https://emacssurvey.org/)
+- Oct 25 - [Python 3.11.0 final](https://discuss.python.org/t/python-3-11-0-final-is-now-available/20291)
 <!--END_SECTION:hn-->
 
 <!--
