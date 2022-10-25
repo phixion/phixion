@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 24 - [My next Mac might be the last](https://morrick.me/archives/9667)
-- Oct 24 - [Only virgin type of olive oil consumption reduces the risk of mortality: study](https://www.nature.com/articles/s41430-022-01221-3)
-- Oct 24 - [I’m Not Sure That (If?) GitHub Copilot Is a Problem](https://michaelweinberg.org/blog/2022/10/24/github-copilot-problem/)
-- Oct 24 - [Mesh shaders talk at XDC 2022](https://rg3.name/202210222107.html)
-- Oct 24 - [Attacking Weak RC4-Like Ciphers the Hard Way](https://research.checkpoint.com/2022/attacking-very-weak-rc4-like-ciphers-the-hard-way/)
+- Oct 24 - [Salary Transparency](https://xeiaso.net/salary-transparency)
+- Oct 24 - [Jack Dorsey Unveils Bluesky Social, the Decentralized Twitter-Killer](https://ssaurel.medium.com/jack-dorsey-unveils-bluesky-social-the-decentralized-twitter-killer-cc6eec0c56e5)
+- Oct 24 - [The Surreal Horror of PAM (2021)](https://xeiaso.net/talks/surreal-horror-pam-2021-11-09)
+- Oct 24 - [New Psychedelic Entactogens](https://psychedelicreview.com/new-psychedelic-entactogens-designer-drugs-produce-designer-effects/)
+- Oct 24 - [Asdf – the language tool version manager](https://asdf-vm.com/guide/introduction.html)
 <!--END_SECTION:hn-->
 
 <!--
