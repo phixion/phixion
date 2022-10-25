@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 24 - [Salary Transparency](https://xeiaso.net/salary-transparency)
-- Oct 24 - [Jack Dorsey Unveils Bluesky Social, the Decentralized Twitter-Killer](https://ssaurel.medium.com/jack-dorsey-unveils-bluesky-social-the-decentralized-twitter-killer-cc6eec0c56e5)
-- Oct 24 - [The Surreal Horror of PAM (2021)](https://xeiaso.net/talks/surreal-horror-pam-2021-11-09)
-- Oct 24 - [New Psychedelic Entactogens](https://psychedelicreview.com/new-psychedelic-entactogens-designer-drugs-produce-designer-effects/)
-- Oct 24 - [Asdf – the language tool version manager](https://asdf-vm.com/guide/introduction.html)
+- Oct 25 - [What “Work” Looks Like](https://blog.jim-nielsen.com/2022/what-work-looks-like/)
+- Oct 25 - [Want to Communicate Effectively at Work? Eliminate These Cognitive Distortions](https://www.techtello.com/avoid-these-cognitive-distortions-to-communicate-effectively/)
+- Oct 25 - [EU Gives Final Approval to Law That Will Force iPhone to Switch to USB-C](https://www.macrumors.com/2022/10/24/eu-gives-final-approval-to-usb-c-law/)
+- Oct 25 - [Meta Learning Backpropagation and Improving It](https://arxiv.org/abs/2012.14905)
+- Oct 25 - [Ask HN: What Is the Hype with Docker?](https://news.ycombinator.com/item?id=33325474)
 <!--END_SECTION:hn-->
 
 <!--
