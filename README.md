@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 25 - [Shutterstock will start selling AI-generated stock imagery](https://www.theverge.com/2022/10/25/23422359/shutterstock-ai-generated-art-openai-dall-e-partnership-contributors-fund-reimbursement)
-- Oct 25 - [Chrome: Sunsetting support for Windows 7 / 8.1 in early 2023](https://support.google.com/chrome/thread/185534985/sunsetting-support-for-windows-7-8-1-in-early-2023?hl=en)
-- Oct 25 - [Online card payments still suck](https://fynbos.app/blog/card-payments-still-suck)
-- Oct 25 - [Emacs User Survey (2022)](https://emacssurvey.org/)
-- Oct 25 - [Python 3.11.0 final](https://discuss.python.org/t/python-3-11-0-final-is-now-available/20291)
+- Oct 25 - [Show HN: Koda Validate – Typesafe, combinable validation for Python](https://github.com/keithasaurus/koda-validate)
+- Oct 25 - [Passkeys.io – A Passkey Authentication Demo](https://www.passkeys.io/)
+- Oct 25 - [The Case of the Missing Fuel: The story of the Stockport air disaster](https://admiralcloudberg.medium.com/the-case-of-the-missing-fuel-the-story-of-the-stockport-air-disaster-74685ae96cb3)
+- Oct 25 - [ClockworkPi – uConsole, “fantasy console” for indie game developers](https://www.clockworkpi.com/)
+- Oct 25 - [Marijuana Users More Prone to Infections After Knee, Shoulder Surgeries](https://consumer.healthday.com/marijuana-users-more-prone-to-infections-after-knee-shoulder-surgeries-2658453251.html)
 <!--END_SECTION:hn-->
 
 <!--
