@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 26 - [Aggregated Gas Storage Inventory – Europe](https://agsi.gie.eu/)
-- Oct 26 - [Radioactive traces in tree rings reveal Earth’s history of ‘radiation storms’](https://theconversation.com/radioactive-traces-in-tree-rings-reveal-earths-history-of-unexplained-radiation-storms-193080)
-- Oct 26 - [Recovered: Sega Exclusives on Palm OS (2019)](https://blog.gingerbeardman.com/2019/04/24/recovered-forgotten-sega-exclusives-on-palm-os/)
-- Oct 26 - [Making a change to SQLite source code](https://brunocalza.me/making-a-change-to-sqlite-source-code/)
-- Oct 26 - [Partial Cloudflare outage on October 25, 2022](https://blog.cloudflare.com/partial-cloudflare-outage-on-october-25-2022/)
+- Oct 26 - [Substitute certain overhyped programming terms with more accurate replacements](https://addons.mozilla.org/en-US/firefox/addon/ai-to-bs/)
+- Oct 26 - [Apple’s new App Store tax on ads is a direct shot at Meta](https://www.theverge.com/2022/10/25/23423637/apple-app-store-tax-boosted-social-media-posts)
+- Oct 26 - [Inventing the Sustainable Batteries of the Future](https://battery2030.eu/research/roadmap/)
+- Oct 26 - [uWebSockets](https://github.com/uNetworking/uWebSockets)
+- Oct 26 - [Everything Is an X (2020)](https://lukeplant.me.uk/blog/posts/everything-is-an-x-pattern/)
 <!--END_SECTION:hn-->
 
 <!--
