@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 26 - [Open source sustainment and the future of Gitea](https://blog.gitea.io/2022/10/open-source-sustainment-and-the-future-of-gitea/)
-- Oct 26 - [SpaceX Launches Starlink ‘Flat High-Performance’ Dish for Moving Vehicles](https://teslanorth.com/2022/10/25/spacex-launches-starlink-flat-high-performance-dish-for-internet-in-moving-vehicles/)
-- Oct 26 - [The Hotel I Booked Online Became a Homeless Shelter and No One Told Me](https://www.nytimes.com/2022/10/25/travel/tripped-up-hotel-booking.html)
-- Oct 26 - [How to request removal of your contact info from Google search results](https://blog.google/products/search/a-new-search-tool-to-help-control-your-online-presence/)
-- Oct 26 - [Our Conscious Experience of the World Is but a Memory, Says New Theory](https://singularityhub.com/2022/10/25/could-consciousness-be-a-memory-system-new-theory-says-yes/)
+- Oct 26 - [Aggregated Gas Storage Inventory – Europe](https://agsi.gie.eu/)
+- Oct 26 - [Radioactive traces in tree rings reveal Earth’s history of ‘radiation storms’](https://theconversation.com/radioactive-traces-in-tree-rings-reveal-earths-history-of-unexplained-radiation-storms-193080)
+- Oct 26 - [Recovered: Sega Exclusives on Palm OS (2019)](https://blog.gingerbeardman.com/2019/04/24/recovered-forgotten-sega-exclusives-on-palm-os/)
+- Oct 26 - [Making a change to SQLite source code](https://brunocalza.me/making-a-change-to-sqlite-source-code/)
+- Oct 26 - [Partial Cloudflare outage on October 25, 2022](https://blog.cloudflare.com/partial-cloudflare-outage-on-october-25-2022/)
 <!--END_SECTION:hn-->
 
 <!--
