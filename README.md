@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 27 - [We Switched from Python to Go](https://getstream.io/blog/switched-python-go/)
-- Oct 27 - [Napa.js: A multi-threaded JavaScript runtime](https://github.com/microsoft/napajs)
-- Oct 27 - [An ode to that “coffee friend”](https://tiramisu.bearblog.dev/coffee-gift/)
-- Oct 27 - [My Cloud Storage Crisis](https://tiramisu.bearblog.dev/google-photos/)
-- Oct 27 - [Show HN: I solved my New Tab page](https://startertab.com/)
+- Oct 27 - [Shell Script Best Practices, from a decade of scripting things](https://sharats.me/posts/shell-script-best-practices/)
+- Oct 27 - [Generally Intelligent (YC S17) Is Hiring Senior Software Engineers](https://news.ycombinator.com/item?id=33354199)
+- Oct 27 - [Where did all the “reject” buttons come from?](https://noyb.eu/en/where-did-all-reject-buttons-come)
+- Oct 27 - [Which programming paradigm had the most impact on you as an engineer and why?](https://news.ycombinator.com/item?id=33354036)
+- Oct 27 - [Multiranges in Postgres](https://www.cybertec-postgresql.com/en/multiranges-in-postgresql-14/)
 <!--END_SECTION:hn-->
 
 <!--
