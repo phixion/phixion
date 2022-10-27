@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 27 - [World Energy Outlook 2022](https://www.iea.org/reports/world-energy-outlook-2022)
-- Oct 27 - [Shell Script Best Practices, from a decade of scripting things](https://sharats.me/posts/shell-script-best-practices/)
-- Oct 27 - [Generally Intelligent (YC S17) Is Hiring Senior Software Engineers](https://news.ycombinator.com/item?id=33354199)
-- Oct 27 - [Multiranges in Postgres](https://www.cybertec-postgresql.com/en/multiranges-in-postgresql-14/)
-- Oct 27 - [Signal says it won’t compromise on encryption](https://www.theverge.com/23409716/signal-encryption-messaging-sms-meredith-whittaker-imessage-whatsapp-china)
+- Oct 27 - [How to backup Firebase realtime database when the payload is too large (256MB)](https://BigBalli.com/blog/how-to-backup-firebase-realtime-database)
+- Oct 27 - [300 meters resolution SF Forecast](https://sf.atmo.ai)
+- Oct 27 - [The Rise of Biodigital Surveillance](https://compactmag.com/article/the-rise-of-biodigital-surveillance)
+- Oct 27 - [US economy returned to growth last quarter, expanding 2.6%](https://apnews.com/article/inflation-europe-business-economy-gross-domestic-product-e1a95c0c9e7b046ed88ad2e9e3150dce)
+- Oct 27 - [Show HN: Jerrica, a 100% scheduled, Web Audio native, MOD player for JavaScript](https://github.com/trevorjay/Jerrica)
 <!--END_SECTION:hn-->
 
 <!--
