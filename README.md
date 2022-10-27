@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 27 - [How to backup Firebase realtime database when the payload is too large (256MB)](https://BigBalli.com/blog/how-to-backup-firebase-realtime-database)
-- Oct 27 - [300 meters resolution SF Forecast](https://sf.atmo.ai)
-- Oct 27 - [The Rise of Biodigital Surveillance](https://compactmag.com/article/the-rise-of-biodigital-surveillance)
-- Oct 27 - [US economy returned to growth last quarter, expanding 2.6%](https://apnews.com/article/inflation-europe-business-economy-gross-domestic-product-e1a95c0c9e7b046ed88ad2e9e3150dce)
-- Oct 27 - [Show HN: Jerrica, a 100% scheduled, Web Audio native, MOD player for JavaScript](https://github.com/trevorjay/Jerrica)
+- Oct 27 - [Humans and our livestock account for 96% of all mammal biomass](https://ourworldindata.org/mammals)
+- Oct 27 - [Extracting Zooming Shots from 600 Hrs of Police Helicopter Surveillance Footage](https://lav.io/notes/the-zooms/)
+- Oct 27 - [Towards the next generation of XNU memory safety: kalloc_type](https://security.apple.com/blog/towards-the-next-generation-of-xnu-memory-safety/)
+- Oct 27 - [One-Time Programs](https://blog.cryptographyengineering.com/2022/10/27/one-time-programs/)
+- Oct 27 - [Deno v1.27](https://deno.com/blog/v1.27)
 <!--END_SECTION:hn-->
 
 <!--
