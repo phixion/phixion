@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 28 - [We Just Gave $260,028 to Open Source Maintainers](https://blog.sentry.io/2022/10/27/we-just-gave-260-028-dollars-to-open-source-maintainers/)
-- Oct 27 - [Jitx (YC S18) is hiring an application engineer to code PCBs](https://jobs.lever.co/jitxinc/3d62a65c-92c7-4996-82e3-0ff64e258d6b)
-- Oct 27 - [NEOM has nothing to do with 3rd parties claiming to offer a NEOM cryptocurrency](https://www.neom.com/en-us/crypto-disclaimer)
-- Oct 27 - [Apple Reports Fourth Quarter Results](https://www.apple.com/newsroom/2022/10/apple-reports-fourth-quarter-results/)
-- Oct 27 - [Apple security bounty upgraded](https://security.apple.com/blog/apple-security-bounty-upgraded/)
+- Oct 28 - [Why Is Markdown Popular?](https://www.russellbeattie.com/notes/posts/why-is-markdown-popular.html)
+- Oct 28 - [Deepnote (YC S19) is hiring to build a better data science notebook (Europe)](https://deepnote.com/join-us)
+- Oct 28 - [My Fanless OpenBSD Desktop (2021)](https://jcs.org/2021/07/19/desktop)
+- Oct 28 - [I tried starting a manufacturing unit in India](https://superr.in/economy/i-tried-starting-a-manufacturing-unit-in-india/)
+- Oct 28 - [Container queries are finally real](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Container_Queries)
 <!--END_SECTION:hn-->
 
 <!--
