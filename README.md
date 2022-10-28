@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 28 - [Why Is Markdown Popular?](https://www.russellbeattie.com/notes/posts/why-is-markdown-popular.html)
-- Oct 28 - [Deepnote (YC S19) is hiring to build a better data science notebook (Europe)](https://deepnote.com/join-us)
-- Oct 28 - [My Fanless OpenBSD Desktop (2021)](https://jcs.org/2021/07/19/desktop)
-- Oct 28 - [I tried starting a manufacturing unit in India](https://superr.in/economy/i-tried-starting-a-manufacturing-unit-in-india/)
-- Oct 28 - [Container queries are finally real](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Container_Queries)
+- Oct 28 - [Museum of Failure](https://museumoffailure.com/)
+- Oct 28 - [This file has Pantone colors that have been removed and replaced with black](https://twitter.com/funwithstuff/status/1585850262656143360)
+- Oct 28 - [What Happened to Hu Jintao?](https://www.nytimes.com/interactive/2022/10/27/world/asia/hu-jintao-congress-videos.html)
+- Oct 28 - [Letter Frequency](http://simia.net/letters/)
+- Oct 28 - [How food powers your body's metabolism](https://www.newyorker.com/science/elements/how-food-powers-your-body-metabolism-calories)
 <!--END_SECTION:hn-->
 
 <!--
