@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 28 - [An Open Letter to Gitea](https://gitea-open-letter.coding.social/)
-- Oct 28 - [The Babylon Bee's Twitter account is no longer suspended](https://twitter.com/TheBabylonBee)
-- Oct 28 - [Odroid-H3](https://www.hardkernel.com/shop/odroid-h3-plus/)
-- Oct 28 - [Tell HN: YouTube's web UI just got even worse](https://news.ycombinator.com/item?id=33371268)
-- Oct 28 - [GraphQL RDF Bridge in TerminusDB Using Rust's Juniper Library](https://terminusdb.com/blog/graphql-rdf-bridge-using-star-wars-dataset/)
+- Oct 28 - [Facebook Down?](https://www.facebook.com?abc=def)
+- Oct 28 - [Iroh: A New Implementation of IPFS in Rust](https://iroh.computer/)
+- Oct 28 - [The Making of Darius – 1987 Developer Interview](https://shmuplations.com/darius/)
+- Oct 28 - [Show HN: Checksum.sh verify every install script](https://checksum.sh/)
+- Oct 28 - [Intel Extension for TensorFlow](https://github.com/intel/intel-extension-for-tensorflow)
 <!--END_SECTION:hn-->
 
 <!--
