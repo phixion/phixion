@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 27 - [Humans and our livestock account for 96% of all mammal biomass](https://ourworldindata.org/mammals)
-- Oct 27 - [Extracting Zooming Shots from 600 Hrs of Police Helicopter Surveillance Footage](https://lav.io/notes/the-zooms/)
-- Oct 27 - [Towards the next generation of XNU memory safety: kalloc_type](https://security.apple.com/blog/towards-the-next-generation-of-xnu-memory-safety/)
-- Oct 27 - [One-Time Programs](https://blog.cryptographyengineering.com/2022/10/27/one-time-programs/)
-- Oct 27 - [Deno v1.27](https://deno.com/blog/v1.27)
+- Oct 27 - [You might not need JavaScript](http://youmightnotneedjs.com/)
+- Oct 27 - [Preventing the bait and switch by open core software companies](https://opencoreventures.com/blog/2022-10-preventing-the-bait-and-switch-open-core/)
+- Oct 27 - [Jitx (YC S18) is hiring an application engineer to code PCBs](https://jobs.lever.co/jitxinc/3d62a65c-92c7-4996-82e3-0ff64e258d6b)
+- Oct 27 - [NEOM has nothing to do with 3rd parties claiming to offer a NEOM cryptocurrency](https://www.neom.com/en-us/crypto-disclaimer)
+- Oct 27 - [Apple Reports Fourth Quarter Results](https://www.apple.com/newsroom/2022/10/apple-reports-fourth-quarter-results/)
 <!--END_SECTION:hn-->
 
 <!--
