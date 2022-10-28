@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 27 - [You might not need JavaScript](http://youmightnotneedjs.com/)
-- Oct 27 - [Preventing the bait and switch by open core software companies](https://opencoreventures.com/blog/2022-10-preventing-the-bait-and-switch-open-core/)
+- Oct 28 - [We Just Gave $260,028 to Open Source Maintainers](https://blog.sentry.io/2022/10/27/we-just-gave-260-028-dollars-to-open-source-maintainers/)
 - Oct 27 - [Jitx (YC S18) is hiring an application engineer to code PCBs](https://jobs.lever.co/jitxinc/3d62a65c-92c7-4996-82e3-0ff64e258d6b)
 - Oct 27 - [NEOM has nothing to do with 3rd parties claiming to offer a NEOM cryptocurrency](https://www.neom.com/en-us/crypto-disclaimer)
 - Oct 27 - [Apple Reports Fourth Quarter Results](https://www.apple.com/newsroom/2022/10/apple-reports-fourth-quarter-results/)
+- Oct 27 - [Apple security bounty upgraded](https://security.apple.com/blog/apple-security-bounty-upgraded/)
 <!--END_SECTION:hn-->
 
 <!--
