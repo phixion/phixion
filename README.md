@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 28 - [Museum of Failure](https://museumoffailure.com/)
-- Oct 28 - [This file has Pantone colors that have been removed and replaced with black](https://twitter.com/funwithstuff/status/1585850262656143360)
-- Oct 28 - [What Happened to Hu Jintao?](https://www.nytimes.com/interactive/2022/10/27/world/asia/hu-jintao-congress-videos.html)
-- Oct 28 - [Letter Frequency](http://simia.net/letters/)
-- Oct 28 - [How food powers your body's metabolism](https://www.newyorker.com/science/elements/how-food-powers-your-body-metabolism-calories)
+- Oct 28 - [An Open Letter to Gitea](https://gitea-open-letter.coding.social/)
+- Oct 28 - [The Babylon Bee's Twitter account is no longer suspended](https://twitter.com/TheBabylonBee)
+- Oct 28 - [Odroid-H3](https://www.hardkernel.com/shop/odroid-h3-plus/)
+- Oct 28 - [Tell HN: YouTube's web UI just got even worse](https://news.ycombinator.com/item?id=33371268)
+- Oct 28 - [GraphQL RDF Bridge in TerminusDB Using Rust's Juniper Library](https://terminusdb.com/blog/graphql-rdf-bridge-using-star-wars-dataset/)
 <!--END_SECTION:hn-->
 
 <!--
