@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 29 - [Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote)](https://www.svix.com/careers/)
-- Oct 29 - [MGL – OpenGL 4.6 on Metal](https://github.com/openglonmetal/MGL)
-- Oct 29 - [Teens Turn to TikTok in Search of a Mental Health Diagnosis](https://www.nytimes.com/2022/10/29/well/mind/tiktok-mental-illness-diagnosis.html)
-- Oct 29 - ['Golden parachutes' for 3 fired Twitter executives worth $122M -Equilar](https://www.reuters.com/technology/golden-parachutes-3-fired-twitter-executives-worth-122-mln-equilar-2022-10-28/)
-- Oct 29 - [Om is a novel, maximally-simple concatenative language](http://www.om-language.org/)
+- Oct 29 - [Dozens in cardiac arrest in Halloween crowds in South Korea](https://www.bbc.com/news/world-asia-63440849)
+- Oct 29 - [Why does the US allow a controversial weedkiller banned across the world?](https://www.theguardian.com/us-news/2022/oct/28/paraquat-weedkiller-epa-ban)
+- Oct 29 - [Google Ad Disguising Itself as www.gimp.org](https://www.reddit.com/r/GIMP/comments/ygbr4o/dangerous_google_ad_disguising_itself_as/)
+- Oct 29 - [Kathleen Booth has died](https://www.theregister.com/2022/10/29/kathleen_booth_obit/)
+- Oct 29 - [Turn your Google Sheets into a webhook without code](https://logicsheet.co/article/google-sheets-webhook-api-no-code)
 <!--END_SECTION:hn-->
 
 <!--
