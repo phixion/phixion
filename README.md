@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 29 - [Ask HN: What are some of the best books you have read in 2022?](https://news.ycombinator.com/item?id=33381791)
-- Oct 29 - [Katamari Hack (2011)](http://kathack.com/)
-- Oct 29 - [Taking Lichess to the Next Level](https://lichess.org/blog/Y1wpBhEAAB8AwbeG/taking-lichess-to-the-next-level)
-- Oct 29 - [Why is D's garbage collection slower than Go's?](https://forum.dlang.org/post/tjib6h$2pp6$1@digitalmars.com)
-- Oct 29 - [An Israeli F-15 landed without a wing (2020)](https://taskandpurpose.com/tech-tactics/1983-negev-mid-air-collision/)
+- Oct 29 - [Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote)](https://www.svix.com/careers/)
+- Oct 29 - [MGL – OpenGL 4.6 on Metal](https://github.com/openglonmetal/MGL)
+- Oct 29 - [Teens Turn to TikTok in Search of a Mental Health Diagnosis](https://www.nytimes.com/2022/10/29/well/mind/tiktok-mental-illness-diagnosis.html)
+- Oct 29 - ['Golden parachutes' for 3 fired Twitter executives worth $122M -Equilar](https://www.reuters.com/technology/golden-parachutes-3-fired-twitter-executives-worth-122-mln-equilar-2022-10-28/)
+- Oct 29 - [Om is a novel, maximally-simple concatenative language](http://www.om-language.org/)
 <!--END_SECTION:hn-->
 
 <!--
