@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 29 - [Dozens in cardiac arrest in Halloween crowds in South Korea](https://www.bbc.com/news/world-asia-63440849)
-- Oct 29 - [Why does the US allow a controversial weedkiller banned across the world?](https://www.theguardian.com/us-news/2022/oct/28/paraquat-weedkiller-epa-ban)
-- Oct 29 - [Google Ad Disguising Itself as www.gimp.org](https://www.reddit.com/r/GIMP/comments/ygbr4o/dangerous_google_ad_disguising_itself_as/)
-- Oct 29 - [Kathleen Booth has died](https://www.theregister.com/2022/10/29/kathleen_booth_obit/)
-- Oct 29 - [Turn your Google Sheets into a webhook without code](https://logicsheet.co/article/google-sheets-webhook-api-no-code)
+- Oct 29 - [Freetone – Pantone-ish colour palette for Adobe products](https://culturehustle.com/products/freetone)
+- Oct 29 - [The lazy mysticism of Alan Watts](https://www.philosophyforlife.org/blog/the-lazy-mysticism-of-alan-watts)
+- Oct 29 - [Principal Component Analysis Explained Visually](https://setosa.io/ev/principal-component-analysis/)
+- Oct 29 - [Update on the fake story about the river laborers paying people to whip them](https://statmodeling.stat.columbia.edu/2022/10/29/update-on-the-fake-story-about-the-river-laborers-paying-people-to-whip-them/)
+- Oct 29 - [Clojure Cheatsheets](https://jafingerhut.github.io/)
 <!--END_SECTION:hn-->
 
 <!--
