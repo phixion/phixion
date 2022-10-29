@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 28 - [Increased sedentary behavior alters metabolism and body composition (2018)](https://pubmed.ncbi.nlm.nih.gov/29671031/)
-- Oct 28 - [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/index.html)
-- Oct 28 - [Disk Prices](https://diskprices.com/?locale=us)
-- Oct 28 - [PyTorch 1.13](https://pytorch.org/blog/PyTorch-1.13-release/)
-- Oct 28 - [Lidar reveals urbanization and landscape modifications at ancient Maya city](https://ucalgary.ca/news/ucalgary-research-collaboration-reveals-new-urbanization-and-landscape-modifications-ancient-maya)
+- Oct 29 - [Urgent Upcoming OpenSSL release patches critical vulnerability](https://www.globalsign.com/en/blog/urgent-patch-openssl-november-1-avoid-critical-security-vulnerability)
+- Oct 29 - [Prepare for the OpenSSL 3.x Secvuln](https://xeiaso.net/blog/openssl-3.x-secvuln-incoming)
+- Oct 29 - [The Art of the Desk Setup](https://arun.is/blog/desk-setup/)
+- Oct 29 - [Source Code for SunOS 4.1.3 (1992)](https://github.com/Arquivotheca/SunOS-4.1.3)
+- Oct 29 - [Since becoming Meta, Facebook’s parent company has lost US$650B](https://globalnews.ca/news/9233468/meta-facebook-loses-650-billion-market-value/)
 <!--END_SECTION:hn-->
 
 <!--
