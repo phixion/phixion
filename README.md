@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 29 - [Urgent Upcoming OpenSSL release patches critical vulnerability](https://www.globalsign.com/en/blog/urgent-patch-openssl-november-1-avoid-critical-security-vulnerability)
-- Oct 29 - [Prepare for the OpenSSL 3.x Secvuln](https://xeiaso.net/blog/openssl-3.x-secvuln-incoming)
-- Oct 29 - [The Art of the Desk Setup](https://arun.is/blog/desk-setup/)
-- Oct 29 - [Source Code for SunOS 4.1.3 (1992)](https://github.com/Arquivotheca/SunOS-4.1.3)
-- Oct 29 - [Since becoming Meta, Facebook’s parent company has lost US$650B](https://globalnews.ca/news/9233468/meta-facebook-loses-650-billion-market-value/)
+- Oct 29 - [Ask HN: What are some of the best books you have read in 2022?](https://news.ycombinator.com/item?id=33381791)
+- Oct 29 - [Katamari Hack (2011)](http://kathack.com/)
+- Oct 29 - [Taking Lichess to the Next Level](https://lichess.org/blog/Y1wpBhEAAB8AwbeG/taking-lichess-to-the-next-level)
+- Oct 29 - [Why is D's garbage collection slower than Go's?](https://forum.dlang.org/post/tjib6h$2pp6$1@digitalmars.com)
+- Oct 29 - [An Israeli F-15 landed without a wing (2020)](https://taskandpurpose.com/tech-tactics/1983-negev-mid-air-collision/)
 <!--END_SECTION:hn-->
 
 <!--
