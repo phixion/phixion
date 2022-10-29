@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 28 - [Facebook Down?](https://www.facebook.com?abc=def)
-- Oct 28 - [Iroh: A New Implementation of IPFS in Rust](https://iroh.computer/)
-- Oct 28 - [The Making of Darius – 1987 Developer Interview](https://shmuplations.com/darius/)
-- Oct 28 - [Show HN: Checksum.sh verify every install script](https://checksum.sh/)
-- Oct 28 - [Intel Extension for TensorFlow](https://github.com/intel/intel-extension-for-tensorflow)
+- Oct 28 - [Increased sedentary behavior alters metabolism and body composition (2018)](https://pubmed.ncbi.nlm.nih.gov/29671031/)
+- Oct 28 - [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/index.html)
+- Oct 28 - [Disk Prices](https://diskprices.com/?locale=us)
+- Oct 28 - [PyTorch 1.13](https://pytorch.org/blog/PyTorch-1.13-release/)
+- Oct 28 - [Lidar reveals urbanization and landscape modifications at ancient Maya city](https://ucalgary.ca/news/ucalgary-research-collaboration-reveals-new-urbanization-and-landscape-modifications-ancient-maya)
 <!--END_SECTION:hn-->
 
 <!--
