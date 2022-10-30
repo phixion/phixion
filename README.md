@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 30 - [Tesorio Is Hiring a PM, Senior FE Engineer and Support Engineer](https://www.tesorio.com/careers#job-openings)
-- Oct 30 - [PS4/PS5 exploit that is “essentially unpatchable”](https://arstechnica.com/gaming/2022/09/console-hacker-reveals-ps4-ps5-exploit-that-is-essentially-unpatchable/)
-- Oct 30 - [Chartist: Simple Responsive Charts in SVG](https://github.com/chartist-js/chartist)
-- Oct 30 - [Lil: A Scripting Language](https://beyondloom.com/decker/lil.html)
-- Oct 30 - [Why talking to strangers can make us smarter](https://www.bbc.com/future/article/20221026-why-talking-to-strangers-can-make-us-happier)
+- Oct 30 - [How I Survived a Year in ‘The Hole’ Without Losing My Mind](https://www.themarshallproject.org/2022/09/30/how-i-survived-a-year-in-the-hole-without-losing-my-mind)
+- Oct 30 - [Classic 50mm “Normal” Lens](https://www.garyvoth.com/the-forgotten-lens/)
+- Oct 30 - [An Apple II Tale](https://bytecellar.com/2022/10/29/an-apple-ii-tale-told-complete-by-the-late-tony-diaz/)
+- Oct 30 - [The coming long-run slowdown in corporate profit growth and stock returns](https://www.federalreserve.gov//econres/notes/feds-notes/the-coming-long-run-slowdown-in-corporate-profit-growth-and-stock-returns-20220906.html)
+- Oct 30 - [High Pressure, Part 2: The First Steam Railway](https://technicshistory.com/2022/10/29/high-pressure-part-2-the-first-steam-railway/)
 <!--END_SECTION:hn-->
 
 <!--
