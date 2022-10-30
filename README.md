@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 30 - [How I Survived a Year in ‘The Hole’ Without Losing My Mind](https://www.themarshallproject.org/2022/09/30/how-i-survived-a-year-in-the-hole-without-losing-my-mind)
-- Oct 30 - [Classic 50mm “Normal” Lens](https://www.garyvoth.com/the-forgotten-lens/)
-- Oct 30 - [An Apple II Tale](https://bytecellar.com/2022/10/29/an-apple-ii-tale-told-complete-by-the-late-tony-diaz/)
-- Oct 30 - [The coming long-run slowdown in corporate profit growth and stock returns](https://www.federalreserve.gov//econres/notes/feds-notes/the-coming-long-run-slowdown-in-corporate-profit-growth-and-stock-returns-20220906.html)
-- Oct 30 - [High Pressure, Part 2: The First Steam Railway](https://technicshistory.com/2022/10/29/high-pressure-part-2-the-first-steam-railway/)
+- Oct 30 - [Twitodon: Finding Twitter Peers on Mastodon](https://twitodon.com/)
+- Oct 30 - [Ursula Le Guin on Star Trek: TNG (1994)](https://gentlier.tumblr.com/post/661155647772082176/ursula-le-guin-on-star-trek-tng)
+- Oct 30 - [Andrej Karpathy: Why Tesla Removed Radar and Ultrasonic Sensors](https://www.youtube.com/watch?v=_W1JBAfV4Io)
+- Oct 30 - [Reversible and irreversible decisions (2018)](https://fs.blog/reversible-irreversible-decisions/)
+- Oct 30 - [Optimizing Images with the HTML picture Tag](https://jfhr.me/optimizing-images-with-the-html-picture-tag/)
 <!--END_SECTION:hn-->
 
 <!--
