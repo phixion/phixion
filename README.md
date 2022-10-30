@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 29 - [Strong behavioral individuality is present at the first day after birth](https://www.nature.com/articles/s41467-022-34113-y)
+- Oct 30 - [Nobody Wants Touch-Screen Glove Box Latches on 2023 GM's Cadillac Lyriq](https://www.theautopian.com/nobody-wants-touch-screen-glove-box-latches-and-it-needs-to-stop-now/)
+- Oct 30 - [HN mining or: How I learned that there are some among us with soft quotes](https://github.com/chapmanjacobd/hn_mining)
+- Oct 29 - [Strong behavioral individuality is present at the first day after birth in fish](https://www.nature.com/articles/s41467-022-34113-y)
 - Oct 29 - [How the New York City steam system works](https://untappedcities.com/2021/07/09/new-york-city-steam-system/)
 - Oct 29 - [Promoted.ai (YC W21) is hiring a staff data engineer with Flink experience](https://www.ycombinator.com/companies/promoted/jobs/wc5X1S4-staff-data-engineer-flink)
-- Oct 29 - [The Perfect Commit](https://simonwillison.net/2022/Oct/29/the-perfect-commit/)
-- Oct 29 - [Tesla engineers were on-site to evaluate the Twitter staff’s code, workers said](https://www.washingtonpost.com/technology/2022/10/29/elon-musk-twitter-takeover/)
 <!--END_SECTION:hn-->
 
 <!--
