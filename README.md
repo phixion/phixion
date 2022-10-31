@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 30 - [Twitodon: Finding Twitter Peers on Mastodon](https://twitodon.com/)
-- Oct 30 - [Ursula Le Guin on Star Trek: TNG (1994)](https://gentlier.tumblr.com/post/661155647772082176/ursula-le-guin-on-star-trek-tng)
-- Oct 30 - [Andrej Karpathy: Why Tesla Removed Radar and Ultrasonic Sensors](https://www.youtube.com/watch?v=_W1JBAfV4Io)
-- Oct 30 - [Reversible and irreversible decisions (2018)](https://fs.blog/reversible-irreversible-decisions/)
-- Oct 30 - [Optimizing Images with the HTML picture Tag](https://jfhr.me/optimizing-images-with-the-html-picture-tag/)
+- Oct 30 - [English Sparkling Wines Challenge the Supremacy of Champagne, via Climate Change](https://www.smithsonianmag.com/science-nature/english-sparkling-wines-challenge-supremacy-champagne-francethanks-climate-change-180974057/)
+- Oct 30 - [Google set to deprecate JPEG XL support in Chrome 110](https://chromium-review.googlesource.com/c/chromium/src/+/3988999)
+- Oct 30 - [Star Trek (1964) [pdf]](http://leethomson.myzen.co.uk/Star_Trek/1_Original_Series/Star_Trek_Pitch.pdf)
+- Oct 30 - [PwshPaint: A pixel art editor for the terminal in PowerShell](https://github.com/ShaunLawrie/PwshPaint)
+- Oct 30 - [AT Protocol Overview](https://atproto.com/guides/overview)
 <!--END_SECTION:hn-->
 
 <!--
