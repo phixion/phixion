@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 31 - [Replit's In-Browser Coding AI](https://replit.com/site/ghostwriter)
-- Oct 31 - [George Hotz is leaving Comma.ai](https://geohot.github.io//blog/jekyll/update/2022/10/29/the-heroes-journey.html)
-- Oct 31 - [Mailbag: Sausage Men](https://garry.blog/mailbag-sausage-men/)
-- Oct 31 - [Nord – An Arctic, north-bluish color palette](https://www.nordtheme.com)
-- Oct 31 - [Has Rakuten made a Rocky-er road for Red Hat?](https://www.mobileeurope.co.uk/has-rakuten-made-a-rocky-er-road-for-red-hat/)
+- Oct 31 - [Retargetable Compiler for the P4 Language](https://github.com/P4ELTE/t4p4s)
+- Oct 31 - [Chime, a Go Editor for macOS – v2.0 Now Available](https://www.chimehq.com/blog/version-two)
+- Oct 31 - [Ask HN: Have you set up a procedure to disclose you passwords in case of death?](https://news.ycombinator.com/item?id=33409891)
+- Oct 31 - [Revamp of MDN Web Docs Contribution Docs](https://hacks.mozilla.org/2022/10/revamp-of-mdn-web-docs-contribution-docs/)
+- Oct 31 - [NYC to Require Salary Ranges Be Included in Job Postings](https://www.nytimes.com/2022/10/28/nyregion/nyc-salary-transparency-job-postings.html)
 <!--END_SECTION:hn-->
 
 <!--
