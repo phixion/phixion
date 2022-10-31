@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 31 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- Oct 31 - [SourceHut terms of service updates, cryptocurrency projects to be removed](https://sourcehut.org/blog/2022-10-31-tos-update-cryptocurrency/)
-- Oct 31 - [Chatting with Sebastian Witowski: Code Standards, Tooling, and Working in Teams](https://sourcery.ai/blog/sebastian-witowski-interview-part-1/)
-- Oct 31 - [RustyHermit – A Rust-based, lightweight unikernel](https://github.com/hermitcore/rusty-hermit)
-- Oct 31 - [NY could become first state with a ‘Right to Repair’ law for electronic devices](https://spectrumlocalnews.com/nys/central-ny/politics/2022/10/26/new-york-could-become-first-state-with-a--right-to-repair--law)
+- Oct 31 - [Replit's In-Browser Coding AI](https://replit.com/site/ghostwriter)
+- Oct 31 - [George Hotz is leaving Comma.ai](https://geohot.github.io//blog/jekyll/update/2022/10/29/the-heroes-journey.html)
+- Oct 31 - [Mailbag: Sausage Men](https://garry.blog/mailbag-sausage-men/)
+- Oct 31 - [Nord – An Arctic, north-bluish color palette](https://www.nordtheme.com)
+- Oct 31 - [Has Rakuten made a Rocky-er road for Red Hat?](https://www.mobileeurope.co.uk/has-rakuten-made-a-rocky-er-road-for-red-hat/)
 <!--END_SECTION:hn-->
 
 <!--
