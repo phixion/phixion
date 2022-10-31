@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 31 - [Wii U Architecture](https://www.copetti.org/writings/consoles/wiiu/)
-- Oct 31 - [Was the internet designed to survive a nuclear attack?](https://siliconfolklore.com/internet-history/)
-- Oct 31 - [Using AI to compress audio files for quick and easy sharing](https://ai.facebook.com/blog/ai-powered-audio-compression-technique/)
-- Oct 31 - [What do longtermists want?](http://backreaction.blogspot.com/2022/10/what-do-longtermists-want.html)
-- Oct 31 - [We need a replacement for TCP in the datacenter [pdf]](https://web.stanford.edu/~ouster/cgi-bin/papers/replaceTcp.pdf)
+- Oct 31 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- Oct 31 - [SourceHut terms of service updates, cryptocurrency projects to be removed](https://sourcehut.org/blog/2022-10-31-tos-update-cryptocurrency/)
+- Oct 31 - [Chatting with Sebastian Witowski: Code Standards, Tooling, and Working in Teams](https://sourcery.ai/blog/sebastian-witowski-interview-part-1/)
+- Oct 31 - [RustyHermit – A Rust-based, lightweight unikernel](https://github.com/hermitcore/rusty-hermit)
+- Oct 31 - [NY could become first state with a ‘Right to Repair’ law for electronic devices](https://spectrumlocalnews.com/nys/central-ny/politics/2022/10/26/new-york-could-become-first-state-with-a--right-to-repair--law)
 <!--END_SECTION:hn-->
 
 <!--
