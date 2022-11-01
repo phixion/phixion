@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 01 - [Systemd 252 Released](https://github.com/systemd/systemd/releases/tag/v252)
-- Nov 01 - [Ask HN: What social media site could replace Twitter?](https://news.ycombinator.com/item?id=33416498)
-- Nov 01 - [Road to Artificial General Intelligence](https://maraoz.com/2022/10/31/agi-roadmap/)
-- Nov 01 - [The mysterious Viking runes found in a landlocked US state](https://www.bbc.com/travel/article/20221030-the-mysterious-viking-runes-found-in-a-landlocked-us-state)
-- Nov 01 - [Chip Design Shifts as Fundamental Laws Run Out of Steam](https://semiengineering.com/chip-design-shifts-as-fundamental-laws-run-out-of-steam/)
+- Nov 01 - [9front “The Golden Age of Ballooning” Released](http://9front.org/releases/2022/10/31/0/)
+- Nov 01 - [Mozilla blog: Begin your MV3 migration by implementing new features today](https://blog.mozilla.org/addons/2022/10/31/begin-your-mv3-migration-by-implementing-new-features-today/)
+- Nov 01 - [Is My Package Reproducible Yet?](https://ismypackagereproducibleyet.org/)
+- Nov 01 - [I finally found a use case for my Raspberry Pi Model B+](https://ounapuu.ee/posts/2022/11/01/finding-use-case-for-raspberry-pi/)
+- Nov 01 - [Stable Diffusion resources (pile of links and up-to-date news)](https://rentry.co/sdupdates)
 <!--END_SECTION:hn-->
 
 <!--
