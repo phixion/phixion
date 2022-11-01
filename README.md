@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 31 - [Caring for the only full kākāpō feather cloak in the world Show image caption](https://www.britishmuseum.org/blog/caring-only-known-full-kakapo-feather-cloak-world)
-- Oct 31 - [Why one web pioneer thinks it’s time to reinvent the browser](https://www.theverge.com/2022/10/31/23428862/arc-browser-web-company-darin-fisher)
-- Oct 31 - [A configuration management system for pets, not cattle](https://github.com/ema/pets)
-- Oct 31 - [Nicheless is a micro-blogging platform for raw, unfiltered thoughts](https://nicheless.blog/)
-- Oct 31 - [Max/MSP Objects Database](http://maxobjects.com)
+- Nov 01 - [Systemd 252 Released](https://github.com/systemd/systemd/releases/tag/v252)
+- Nov 01 - [Ask HN: What social media site could replace Twitter?](https://news.ycombinator.com/item?id=33416498)
+- Nov 01 - [Road to Artificial General Intelligence](https://maraoz.com/2022/10/31/agi-roadmap/)
+- Nov 01 - [The mysterious Viking runes found in a landlocked US state](https://www.bbc.com/travel/article/20221030-the-mysterious-viking-runes-found-in-a-landlocked-us-state)
+- Nov 01 - [Chip Design Shifts as Fundamental Laws Run Out of Steam](https://semiengineering.com/chip-design-shifts-as-fundamental-laws-run-out-of-steam/)
 <!--END_SECTION:hn-->
 
 <!--
