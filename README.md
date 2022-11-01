@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 31 - [Retargetable Compiler for the P4 Language](https://github.com/P4ELTE/t4p4s)
-- Oct 31 - [Chime, a Go Editor for macOS – v2.0 Now Available](https://www.chimehq.com/blog/version-two)
-- Oct 31 - [Ask HN: Have you set up a procedure to disclose you passwords in case of death?](https://news.ycombinator.com/item?id=33409891)
-- Oct 31 - [Revamp of MDN Web Docs Contribution Docs](https://hacks.mozilla.org/2022/10/revamp-of-mdn-web-docs-contribution-docs/)
-- Oct 31 - [NYC to Require Salary Ranges Be Included in Job Postings](https://www.nytimes.com/2022/10/28/nyregion/nyc-salary-transparency-job-postings.html)
+- Oct 31 - [Caring for the only full kākāpō feather cloak in the world Show image caption](https://www.britishmuseum.org/blog/caring-only-known-full-kakapo-feather-cloak-world)
+- Oct 31 - [Why one web pioneer thinks it’s time to reinvent the browser](https://www.theverge.com/2022/10/31/23428862/arc-browser-web-company-darin-fisher)
+- Oct 31 - [A configuration management system for pets, not cattle](https://github.com/ema/pets)
+- Oct 31 - [Nicheless is a micro-blogging platform for raw, unfiltered thoughts](https://nicheless.blog/)
+- Oct 31 - [Max/MSP Objects Database](http://maxobjects.com)
 <!--END_SECTION:hn-->
 
 <!--
