@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 01 - [9front “The Golden Age of Ballooning” Released](http://9front.org/releases/2022/10/31/0/)
-- Nov 01 - [Mozilla blog: Begin your MV3 migration by implementing new features today](https://blog.mozilla.org/addons/2022/10/31/begin-your-mv3-migration-by-implementing-new-features-today/)
-- Nov 01 - [Is My Package Reproducible Yet?](https://ismypackagereproducibleyet.org/)
-- Nov 01 - [I finally found a use case for my Raspberry Pi Model B+](https://ounapuu.ee/posts/2022/11/01/finding-use-case-for-raspberry-pi/)
-- Nov 01 - [Stable Diffusion resources (pile of links and up-to-date news)](https://rentry.co/sdupdates)
+- Nov 01 - [Meticulous (YC S21) Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=33420039)
+- Nov 01 - [Ask HN: How would you design an alternative Twitter](https://news.ycombinator.com/item?id=33419574)
+- Nov 01 - [Fuzzy Metaballs: Approximate Differentiable Rendering with Algebraic Surfaces](https://leonidk.github.io/fuzzy-metaballs/)
+- Nov 01 - [Diffoscope – In-depth comparison of files, archives, and directories](https://diffoscope.org/)
+- Nov 01 - [ARM to prohibit proximity of CPU w 3rd-party modules in one chip](https://www.ryzencpu.com/2022/10/arm-will-prohibit-proximity-of-its-cpu.html)
 <!--END_SECTION:hn-->
 
 <!--
