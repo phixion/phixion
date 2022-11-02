@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 02 - [Protonmail can delete the wrong email and nobody cares](https://github.com/ProtonMail/proton-bridge/issues/220)
-- Nov 02 - [PhotoRoom Is Hiring a Senior Back End Engineer (Django, 200GB+ PSQL DB) in Paris](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- Nov 02 - [Disneyland Shanghai shuts over COVID, visitors unable to leave](https://www.bbc.com/news/world-asia-63456107)
-- Nov 02 - [What would happen if you fell through a hole to the center of the Earth?](https://www.wtamu.edu/~cbaird/sq/2013/10/04/what-would-happen-if-you-fell-into-a-hole-that-went-through-the-center-of-the-earth/)
-- Nov 02 - [Cook shortage threatens to sink U.S. Coast Guard operations](https://www.forbes.com/sites/craighooper/2022/10/31/a-cook-shortage-threatens-to-sink-us-coast-guard-operations/)
+- Nov 02 - [Moral Toddlers Making a Mess](https://quillette.com/2022/10/30/moral-toddlerhood/)
+- Nov 02 - [Having a campus that looks like a Benetton ad isn't a compelling state interest](https://davidlat.substack.com/p/affirmative-action-is-going-down)
+- Nov 02 - [Ask HN: Carrier “lost” my number in a port request](https://news.ycombinator.com/item?id=33434153)
+- Nov 02 - [Pantone wants $15/month for the privilege of using its colors in Photoshop](https://arstechnica.com/gadgets/2022/11/pantone-wants-15-month-for-the-privilege-of-using-its-colors-in-photoshop/)
+- Nov 02 - [Functional programming should be the future of software](https://spectrum.ieee.org/functional-programming)
 <!--END_SECTION:hn-->
 
 <!--
