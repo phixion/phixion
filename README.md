@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 01 - [Show HN: HiSHtory: Your shell history in context, synced, and queryable](https://github.com/ddworken/hishtory)
-- Nov 01 - [Section 230: Mend it, don’t end it (2020)](https://medium.com/craft-ventures/section-230-mend-it-dont-end-it-e33799a43a5f)
-- Nov 01 - [Auth0 Verifiable Credentials](https://verifiablecredentials.dev/)
-- Nov 01 - [Cache Associativity](https://en.algorithmica.org/hpc/cpu-cache/associativity/)
-- Nov 01 - [Tcl is faster than Python for database benchmarking](https://www.hammerdb.com/blog/uncategorized/why-tcl-is-700-faster-than-python-for-database-benchmarking/)
+- Nov 02 - [Cook Shortage Threatens to Sink U.S. Coast Guard Operations](https://www.forbes.com/sites/craighooper/2022/10/31/a-cook-shortage-threatens-to-sink-us-coast-guard-operations/)
+- Nov 02 - [Rate Hikes Are Affecting the Economy](https://www.apricitas.io/p/how-rate-hikes-are-affecting-the)
+- Nov 02 - [Moving past TCP in the data center, part 1](https://lwn.net/SubscriberLink/913260/8819c42491a70e9b/)
+- Nov 02 - [Show HN: Tier.run – Terraform for Stripe](https://github.com/tierrun)
+- Nov 01 - [Rise of Generative AI will be comparable to the rise of CGI in the early 90s](https://sarharibhakti.substack.com/p/rise-of-generative-ai-will-be-comparable)
 <!--END_SECTION:hn-->
 
 <!--
