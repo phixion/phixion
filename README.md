@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 02 - [Moral Toddlers Making a Mess](https://quillette.com/2022/10/30/moral-toddlerhood/)
-- Nov 02 - [Having a campus that looks like a Benetton ad isn't a compelling state interest](https://davidlat.substack.com/p/affirmative-action-is-going-down)
-- Nov 02 - [Ask HN: Carrier “lost” my number in a port request](https://news.ycombinator.com/item?id=33434153)
-- Nov 02 - [Pantone wants $15/month for the privilege of using its colors in Photoshop](https://arstechnica.com/gadgets/2022/11/pantone-wants-15-month-for-the-privilege-of-using-its-colors-in-photoshop/)
-- Nov 02 - [Functional programming should be the future of software](https://spectrum.ieee.org/functional-programming)
+- Nov 02 - [U.S. pushes Japan and other allies to join China chip curbs](https://asia.nikkei.com/Politics/International-relations/U.S.-pushes-Japan-and-other-allies-to-join-China-chip-curbs)
+- Nov 02 - [An AI generated, never-ending discussion between Werner Herzog and Slavoj ŽIžek](https://infiniteconversation.com/)
+- Nov 02 - [OpenSSL added new C parser code [...] without doing any basic security testing](https://twitter.com/hanno/status/1587775675397726209)
+- Nov 02 - [SpaceX is now building a Raptor engine a day, NASA says](https://arstechnica.com/science/2022/11/spacex-is-now-building-a-raptor-engine-a-day-nasa-says/)
+- Nov 02 - [The pool of talented C++ developers is running dry](https://www.efinancialcareers.com/news/2022/11/why-is-there-a-drought-in-the-talent-pool-for-c-developers)
 <!--END_SECTION:hn-->
 
 <!--
