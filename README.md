@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 02 - [Cook Shortage Threatens to Sink U.S. Coast Guard Operations](https://www.forbes.com/sites/craighooper/2022/10/31/a-cook-shortage-threatens-to-sink-us-coast-guard-operations/)
-- Nov 02 - [Rate Hikes Are Affecting the Economy](https://www.apricitas.io/p/how-rate-hikes-are-affecting-the)
-- Nov 02 - [Moving past TCP in the data center, part 1](https://lwn.net/SubscriberLink/913260/8819c42491a70e9b/)
-- Nov 02 - [Show HN: Tier.run – Terraform for Stripe](https://github.com/tierrun)
-- Nov 01 - [Rise of Generative AI will be comparable to the rise of CGI in the early 90s](https://sarharibhakti.substack.com/p/rise-of-generative-ai-will-be-comparable)
+- Nov 02 - [Protonmail can delete the wrong email and nobody cares](https://github.com/ProtonMail/proton-bridge/issues/220)
+- Nov 02 - [PhotoRoom Is Hiring a Senior Back End Engineer (Django, 200GB+ PSQL DB) in Paris](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- Nov 02 - [Disneyland Shanghai shuts over COVID, visitors unable to leave](https://www.bbc.com/news/world-asia-63456107)
+- Nov 02 - [What would happen if you fell through a hole to the center of the Earth?](https://www.wtamu.edu/~cbaird/sq/2013/10/04/what-would-happen-if-you-fell-into-a-hole-that-went-through-the-center-of-the-earth/)
+- Nov 02 - [Cook shortage threatens to sink U.S. Coast Guard operations](https://www.forbes.com/sites/craighooper/2022/10/31/a-cook-shortage-threatens-to-sink-us-coast-guard-operations/)
 <!--END_SECTION:hn-->
 
 <!--
