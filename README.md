@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 02 - [American society is so focused on race that it is blind to class](https://www.economist.com/leaders/2022/11/02/american-society-is-so-focused-on-race-that-it-is-blind-to-class)
-- Nov 02 - [Next C compiler is a D compiler: Introducing DMD's ImportC](https://briancallahan.net/blog/20220704.html)
-- Nov 02 - [Vast and innumerable throngs of the ancient dead](https://www.laphamsquarterly.org/roundtable/vast-and-innumerable-throngs-ancient-dead)
-- Nov 02 - [Facebook (Meta) international cable expansion: animated map](https://fairinternetreport.com/research/facebook-meta-submarine-cable-ownership)
-- Nov 02 - [Braess's Paradox](https://resources.mpi-inf.mpg.de/departments/d1/teaching/ws12/ct/Braess-paradox.pdf)
+- Nov 03 - [Russell Napier: The world will experience a capex boom](https://themarket.ch/interview/russell-napier-the-world-will-experience-a-capex-boom-ld.7606)
+- Nov 03 - [What's the word for a large collection of fraudulent web stores?](https://chair6.net/a-large-collection-of-fraudulent-web-stores.html)
+- Nov 03 - [Can I exec a new process without an executable file? (2015)](https://unix.stackexchange.com/questions/230472/can-i-exec-an-entirely-new-process-without-an-executable-file)
+- Nov 03 - [Blip: A tool for seeing your internet latency](https://github.com/apenwarr/blip)
+- Nov 03 - [Today’s inflation is not a repeat of the 1970s](https://awealthofcommonsense.com/2022/11/why-todays-inflation-is-not-a-repeat-of-the-1970s/)
 <!--END_SECTION:hn-->
 
 <!--
