@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 03 - [The dynamic incremental compiler of APL\3000 (1979) [pdf]](https://www.softwarepreservation.org/projects/apl/Papers/DYNAMICINCREMENTAL)
-- Nov 03 - [Universal Paperclips](https://www.decisionproblem.com/paperclips/)
-- Nov 03 - [Moderation is different from censorship](https://astralcodexten.substack.com/p/moderation-is-different-from-censorship)
-- Nov 03 - [A large collection of fraudulent web stores](https://chair6.net/a-large-collection-of-fraudulent-web-stores.html)
-- Nov 03 - [Can I exec a new process without an executable file? (2015)](https://unix.stackexchange.com/questions/230472/can-i-exec-an-entirely-new-process-without-an-executable-file)
+- Nov 03 - [Duplicati: Free backup software to store encrypted backups online](https://www.duplicati.com/)
+- Nov 03 - [Sile: A Modern Rewrite of TeX](https://sile-typesetter.org/)
+- Nov 03 - [FreeBSD optimizations used by Netflix to serve video at 800Gb/s [pdf]](https://people.freebsd.org/~gallatin/talks/euro2022.pdf)
+- Nov 03 - [Open Source Firebase Alternative with GraphQL](https://nhost.io/)
+- Nov 03 - [TripleA: A Java-based free open source Axis and Allies](https://triplea-game.org/)
 <!--END_SECTION:hn-->
 
 <!--
