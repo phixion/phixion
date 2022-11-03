@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 02 - [PR that converts the TypeScript repo from namespaces to modules](https://github.com/microsoft/TypeScript/pull/51387)
-- Nov 02 - [Crunchy Bridge's Ruby Back End: Sorbet, Tapioca, and Parlour](https://www.crunchydata.com/blog/crunchy-bridges-ruby-backend-sorbet-tapioca-and-parlour-generated-type-stubs)
-- Nov 02 - [Grafana Faro: An open source project for front end application observability](https://grafana.com/blog/2022/11/02/introducing-grafana-faro-oss-application-observability/)
-- Nov 02 - [Mosh 1.4.0 Released](https://mosh.org/mosh-1.4.0-released.html)
-- Nov 02 - [Substack (YC W18) is hiring data analysts](https://boards.greenhouse.io/substack/jobs/4006118005?gh_src=hn)
+- Nov 02 - [American society is so focused on race that it is blind to class](https://www.economist.com/leaders/2022/11/02/american-society-is-so-focused-on-race-that-it-is-blind-to-class)
+- Nov 02 - [Next C compiler is a D compiler: Introducing DMD's ImportC](https://briancallahan.net/blog/20220704.html)
+- Nov 02 - [Vast and innumerable throngs of the ancient dead](https://www.laphamsquarterly.org/roundtable/vast-and-innumerable-throngs-ancient-dead)
+- Nov 02 - [Facebook (Meta) international cable expansion: animated map](https://fairinternetreport.com/research/facebook-meta-submarine-cable-ownership)
+- Nov 02 - [Braess's Paradox](https://resources.mpi-inf.mpg.de/departments/d1/teaching/ws12/ct/Braess-paradox.pdf)
 <!--END_SECTION:hn-->
 
 <!--
