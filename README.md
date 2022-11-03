@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 03 - [Duplicati: Free backup software to store encrypted backups online](https://www.duplicati.com/)
-- Nov 03 - [Sile: A Modern Rewrite of TeX](https://sile-typesetter.org/)
-- Nov 03 - [FreeBSD optimizations used by Netflix to serve video at 800Gb/s [pdf]](https://people.freebsd.org/~gallatin/talks/euro2022.pdf)
-- Nov 03 - [Open Source Firebase Alternative with GraphQL](https://nhost.io/)
-- Nov 03 - [TripleA: A Java-based free open source Axis and Allies](https://triplea-game.org/)
+- Nov 03 - [Acreom 1.0 – a lightweight Markdown editor with tasks for developers](https://acreom.com)
+- Nov 03 - [Testing Microsoft's Windows Dev Kit 2023](https://www.jeffgeerling.com/blog/2022/testing-microsofts-windows-dev-kit-2023)
+- Nov 03 - [Launch HN: Akiflow (YC S20) - Bring your tasks and calendars together](https://akiflow.com/)
+- Nov 03 - [Communities Now Available](https://blog.whatsapp.com/communities-now-available)
+- Nov 03 - [I Posted on YouTube Consistently for 1 Month. This Is What Happened](https://www.alexhyett.com/one-month-on-youtube/)
 <!--END_SECTION:hn-->
 
 <!--
