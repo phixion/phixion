@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 03 - [Acreom 1.0 – a lightweight Markdown editor with tasks for developers](https://acreom.com)
-- Nov 03 - [Testing Microsoft's Windows Dev Kit 2023](https://www.jeffgeerling.com/blog/2022/testing-microsofts-windows-dev-kit-2023)
-- Nov 03 - [Launch HN: Akiflow (YC S20) - Bring your tasks and calendars together](https://akiflow.com/)
-- Nov 03 - [Communities Now Available](https://blog.whatsapp.com/communities-now-available)
-- Nov 03 - [I Posted on YouTube Consistently for 1 Month. This Is What Happened](https://www.alexhyett.com/one-month-on-youtube/)
+- Nov 03 - [Study urges caution when comparing neural networks to the brain](https://news.mit.edu/2022/neural-networks-brain-function-1102)
+- Nov 03 - [Netflix launches an ad-supported tier](https://about.netflix.com/en/news/our-newest-plan-now-available-us)
+- Nov 03 - [Bank of England expects UK to fall into longest ever recession](https://www.bbc.com/news/business-63471725)
+- Nov 03 - [Mozilla Launches Venture Fund to Fuel Responsible Tech Companies](https://blog.mozilla.org/en/mozilla/mozilla-launches-first-of-its-kind-venture-fund-to-fuel-responsible-tech-companies-products/)
+- Nov 03 - [Swarm – Low cost, global satellite connectivity for IoT](https://swarm.space/)
 <!--END_SECTION:hn-->
 
 <!--
