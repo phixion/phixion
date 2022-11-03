@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 03 - [Russell Napier: The world will experience a capex boom](https://themarket.ch/interview/russell-napier-the-world-will-experience-a-capex-boom-ld.7606)
-- Nov 03 - [What's the word for a large collection of fraudulent web stores?](https://chair6.net/a-large-collection-of-fraudulent-web-stores.html)
+- Nov 03 - [The dynamic incremental compiler of APL\3000 (1979) [pdf]](https://www.softwarepreservation.org/projects/apl/Papers/DYNAMICINCREMENTAL)
+- Nov 03 - [Universal Paperclips](https://www.decisionproblem.com/paperclips/)
+- Nov 03 - [Moderation is different from censorship](https://astralcodexten.substack.com/p/moderation-is-different-from-censorship)
+- Nov 03 - [A large collection of fraudulent web stores](https://chair6.net/a-large-collection-of-fraudulent-web-stores.html)
 - Nov 03 - [Can I exec a new process without an executable file? (2015)](https://unix.stackexchange.com/questions/230472/can-i-exec-an-entirely-new-process-without-an-executable-file)
-- Nov 03 - [Blip: A tool for seeing your internet latency](https://github.com/apenwarr/blip)
-- Nov 03 - [Today’s inflation is not a repeat of the 1970s](https://awealthofcommonsense.com/2022/11/why-todays-inflation-is-not-a-repeat-of-the-1970s/)
 <!--END_SECTION:hn-->
 
 <!--
