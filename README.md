@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 04 - [ZLibrary domains have been seized by the United States Postal Inspection Service](http://3lib.net/)
-- Nov 04 - [Clojure from a Schemer's Perspective (2021)](https://www.more-magic.net/posts/thoughts-on-clojure.html)
-- Nov 04 - [Twitter to start layoffs -internal email](https://www.reuters.com/technology/twitter-start-layoffs-friday-morning-internal-email-2022-11-04/)
-- Nov 04 - [Attach your private rail car to an Amtrak train](https://www.amtrak.com/privately-owned-rail-cars)
-- Nov 04 - [Passage Is Joining 1Password](https://passage.id/post/passage-is-joining-1password)
+- Nov 04 - [Supabase (YC S20) Is Hiring a Lead API and Billing Engineer](https://boards.greenhouse.io/supabase/jobs/4652333004)
+- Nov 04 - [User-Agent Reduction](https://www.akamai.com/blog/developers/user-agent-reduction)
+- Nov 04 - [I fought the PayPal and I won](https://jessesingal.substack.com/p/i-fought-the-paypal-and-i-won)
+- Nov 04 - [Why Lisp?](https://github.com/naver/lispe/wiki/6.16-Why-Lisp)
+- Nov 04 - [The Linux scheduler: A decade of wasted cores (2016)](https://blog.acolyer.org/2016/04/26/the-linux-scheduler-a-decade-of-wasted-cores/)
 <!--END_SECTION:hn-->
 
 <!--
