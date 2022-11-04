@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 03 - [Study urges caution when comparing neural networks to the brain](https://news.mit.edu/2022/neural-networks-brain-function-1102)
-- Nov 03 - [Netflix launches an ad-supported tier](https://about.netflix.com/en/news/our-newest-plan-now-available-us)
-- Nov 03 - [Bank of England expects UK to fall into longest ever recession](https://www.bbc.com/news/business-63471725)
-- Nov 03 - [Mozilla Launches Venture Fund to Fuel Responsible Tech Companies](https://blog.mozilla.org/en/mozilla/mozilla-launches-first-of-its-kind-venture-fund-to-fuel-responsible-tech-companies-products/)
-- Nov 03 - [Swarm – Low cost, global satellite connectivity for IoT](https://swarm.space/)
+- Nov 03 - [Robinhood reported a 35% drop in September monthly active users](https://www.wsj.com/articles/robinhood-cuts-losses-after-transaction-revenue-drops-11667426198)
+- Nov 03 - [Is Microsoft's CBL-Mariner Going to Become Microsoft Linux?](https://boxofcables.dev/cbl-delridge-is-dead-long-live-cbl-mariner/)
+- Nov 03 - [Microsoft is killing custom domain names in Outlook.com](https://www.bigtechwire.com/2022/11/02/microsoft-is-killing-custom-domain-names-in-outlook-com/)
+- Nov 03 - [Release (YC W20) Is Hiring – Senior Software Engineer – Cloud Infrastructure](https://www.ycombinator.com/companies/release/jobs/DQlAy09AD-senior-software-engineer-cloud-infrastructure)
+- Nov 03 - [We've filed a lawsuit against GitHub Copilot](https://githubcopilotlitigation.com/)
 <!--END_SECTION:hn-->
 
 <!--
