@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 04 - [Google to remove all VPN ad blockers that don’t comply with their policy](https://community.blokada.org/t/google-to-remove-all-vpn-ad-blockers-that-don-t-comply/27586)
-- Nov 04 - [Launch HN: Shimmer (YC S21) – ADHD coaching for adults](https://news.ycombinator.com/item?id=33468611)
-- Nov 04 - [Ask HN: HN-like forum for literature and cinema?](https://news.ycombinator.com/item?id=33468314)
-- Nov 04 - [Productivity has fallen, and experts are puzzled. I’m not. We’re all just tired](https://www.latimes.com/entertainment-arts/story/2022-11-03/worker-productivity-has-fallen-and-experts-are-puzzled-im-not-were-all-just-tired)
-- Nov 04 - [Show HN: Step CI – open-source lightweight alternative to Checkly](https://github.com/stepci/stepci)
+- Nov 04 - [White House deletes tweet after Twitter adds 'context' note](https://www.politico.com/news/2022/11/02/white-house-twitter-context-note-00064647)
+- Nov 04 - [New Zealand plunges into recessionary spiral](https://www.macrobusiness.com.au/2022/10/new-zealand-plunges-into-recessionary-spiral/)
+- Nov 04 - [Going from engineer to entrepreneur takes more than just good code](https://stackoverflow.blog/2022/11/04/going-from-engineer-to-entrepreneur-takes-more-than-just-good-code-ep-503/)
+- Nov 04 - [Lilia (egg freezing, YC W20) Is Hiring a Content/Growth Marketer](https://observant-hoodie-597.notion.site/Content-Growth-Marketer-at-Lilia-cb1caf11e7f542d38cd22b01213bad3c)
+- Nov 04 - [RStudio is now Posit, our mission continues](https://posit.co/)
 <!--END_SECTION:hn-->
 
 <!--
