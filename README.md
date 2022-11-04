@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 03 - [Robinhood reported a 35% drop in September monthly active users](https://www.wsj.com/articles/robinhood-cuts-losses-after-transaction-revenue-drops-11667426198)
-- Nov 03 - [Is Microsoft's CBL-Mariner Going to Become Microsoft Linux?](https://boxofcables.dev/cbl-delridge-is-dead-long-live-cbl-mariner/)
-- Nov 03 - [Microsoft is killing custom domain names in Outlook.com](https://www.bigtechwire.com/2022/11/02/microsoft-is-killing-custom-domain-names-in-outlook-com/)
-- Nov 03 - [Release (YC W20) Is Hiring – Senior Software Engineer – Cloud Infrastructure](https://www.ycombinator.com/companies/release/jobs/DQlAy09AD-senior-software-engineer-cloud-infrastructure)
-- Nov 03 - [We've filed a lawsuit against GitHub Copilot](https://githubcopilotlitigation.com/)
+- Nov 04 - [ZLibrary domains have been seized by the United States Postal Inspection Service](http://3lib.net/)
+- Nov 04 - [Clojure from a Schemer's Perspective (2021)](https://www.more-magic.net/posts/thoughts-on-clojure.html)
+- Nov 04 - [Twitter to start layoffs -internal email](https://www.reuters.com/technology/twitter-start-layoffs-friday-morning-internal-email-2022-11-04/)
+- Nov 04 - [Attach your private rail car to an Amtrak train](https://www.amtrak.com/privately-owned-rail-cars)
+- Nov 04 - [Passage Is Joining 1Password](https://passage.id/post/passage-is-joining-1password)
 <!--END_SECTION:hn-->
 
 <!--
