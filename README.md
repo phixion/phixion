@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 04 - [PolicyFly (YC W22) Is Hiring an Engineering Manager to Lead Our Solutions Team](https://www.ycombinator.com/companies/policyfly/jobs/aY0a0gg-engineering-manager-solutions)
-- Nov 04 - ['If on Way to Office, Return Home': Twitter to All Employees as Layoffs Begin](https://www.news18.com/news/tech/if-on-way-to-office-return-home-twitter-to-all-employees-as-layoffs-begin-read-full-letter-here-6305509.html)
-- Nov 04 - [Twitter to employees today: 'If in office or on your way, please return home'](https://www.firstpost.com/world/if-in-office-or-on-your-way-please-return-home-elon-musks-email-sent-to-twitter-employees-confirm-layoffs-11570141.html)
-- Nov 04 - [Show HN: Tracking my local bus with a RaspberryPi](https://purplehoisin.com/i-built-a-bus-clock-with-a-raspberry-pi/)
-- Nov 04 - [“My chest fridge consumes about 0.1 kWh a day.”](https://www.notechmagazine.com/2022/11/low-energy-chest-fridge.html)
+- Nov 04 - [Google to remove all VPN ad blockers that don’t comply with their policy](https://community.blokada.org/t/google-to-remove-all-vpn-ad-blockers-that-don-t-comply/27586)
+- Nov 04 - [Launch HN: Shimmer (YC S21) – ADHD coaching for adults](https://news.ycombinator.com/item?id=33468611)
+- Nov 04 - [Ask HN: HN-like forum for literature and cinema?](https://news.ycombinator.com/item?id=33468314)
+- Nov 04 - [Productivity has fallen, and experts are puzzled. I’m not. We’re all just tired](https://www.latimes.com/entertainment-arts/story/2022-11-03/worker-productivity-has-fallen-and-experts-are-puzzled-im-not-were-all-just-tired)
+- Nov 04 - [Show HN: Step CI – open-source lightweight alternative to Checkly](https://github.com/stepci/stepci)
 <!--END_SECTION:hn-->
 
 <!--
