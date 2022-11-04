@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 04 - [Supabase (YC S20) Is Hiring a Lead API and Billing Engineer](https://boards.greenhouse.io/supabase/jobs/4652333004)
-- Nov 04 - [User-Agent Reduction](https://www.akamai.com/blog/developers/user-agent-reduction)
-- Nov 04 - [I fought the PayPal and I won](https://jessesingal.substack.com/p/i-fought-the-paypal-and-i-won)
-- Nov 04 - [Why Lisp?](https://github.com/naver/lispe/wiki/6.16-Why-Lisp)
-- Nov 04 - [The Linux scheduler: A decade of wasted cores (2016)](https://blog.acolyer.org/2016/04/26/the-linux-scheduler-a-decade-of-wasted-cores/)
+- Nov 04 - [PolicyFly (YC W22) Is Hiring an Engineering Manager to Lead Our Solutions Team](https://www.ycombinator.com/companies/policyfly/jobs/aY0a0gg-engineering-manager-solutions)
+- Nov 04 - ['If on Way to Office, Return Home': Twitter to All Employees as Layoffs Begin](https://www.news18.com/news/tech/if-on-way-to-office-return-home-twitter-to-all-employees-as-layoffs-begin-read-full-letter-here-6305509.html)
+- Nov 04 - [Twitter to employees today: 'If in office or on your way, please return home'](https://www.firstpost.com/world/if-in-office-or-on-your-way-please-return-home-elon-musks-email-sent-to-twitter-employees-confirm-layoffs-11570141.html)
+- Nov 04 - [Show HN: Tracking my local bus with a RaspberryPi](https://purplehoisin.com/i-built-a-bus-clock-with-a-raspberry-pi/)
+- Nov 04 - [“My chest fridge consumes about 0.1 kWh a day.”](https://www.notechmagazine.com/2022/11/low-energy-chest-fridge.html)
 <!--END_SECTION:hn-->
 
 <!--
