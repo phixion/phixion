@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 04 - [White House deletes tweet after Twitter adds 'context' note](https://www.politico.com/news/2022/11/02/white-house-twitter-context-note-00064647)
-- Nov 04 - [New Zealand plunges into recessionary spiral](https://www.macrobusiness.com.au/2022/10/new-zealand-plunges-into-recessionary-spiral/)
-- Nov 04 - [Going from engineer to entrepreneur takes more than just good code](https://stackoverflow.blog/2022/11/04/going-from-engineer-to-entrepreneur-takes-more-than-just-good-code-ep-503/)
-- Nov 04 - [Lilia (egg freezing, YC W20) Is Hiring a Content/Growth Marketer](https://observant-hoodie-597.notion.site/Content-Growth-Marketer-at-Lilia-cb1caf11e7f542d38cd22b01213bad3c)
-- Nov 04 - [RStudio is now Posit, our mission continues](https://posit.co/)
+- Nov 04 - [Intel plans to rival TSMC and Samsung as a chip supplier](https://asia.nikkei.com/Business/Business-Spotlight/How-Intel-plans-to-rival-TSMC-and-Samsung-as-a-chip-supplier)
+- Nov 04 - [Lawsuit Against Meta Invokes Modern Portfolio Theory to Protect Shareholders](https://corpgov.law.harvard.edu/2022/11/04/lawsuit-against-meta-invokes-modern-portfolio-theory-to-protect-diversified-shareholders/)
+- Nov 04 - [Twitter layoffs gutted election information teams days before midterms](https://www.washingtonpost.com/technology/2022/11/05/twitter-layoffs-election-impact/)
+- Nov 04 - [Fed warns of low market liquidity in $24T Treasury market in report](https://www.marketwatch.com/story/fed-warns-of-low-market-liquidity-in-24-trillion-treasury-market-in-latest-financial-stability-report-11667592786)
+- Nov 04 - [Hollow City: Edward Hopper’s portraits of urban alienation](https://thebaffler.com/latest/hollow-city-arn)
 <!--END_SECTION:hn-->
 
 <!--
