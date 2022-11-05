@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 05 - [Yellowstone to Yukon Conservation Initiative](https://y2y.net/)
-- Nov 05 - [Ben Eater is back with a new video (after almost a year)!](https://www.youtube.com/watch?v=AHYNxpqKqwo)
-- Nov 05 - [The Onion files Supreme Court amicus brief defending the right to parody](https://www.washingtonpost.com/media/2022/10/04/onion-amicus-brief-supreme-court-anthony-novak/)
-- Nov 05 - [TSMC approaching 1 nm with 2D materials breakthrough](https://www.edn.com/tsmc-approaching-1-nm-with-2d-materials-breakthrough/)
-- Nov 05 - [About political messages on the Rust blog](https://poignardazur.github.io//2022/11/05/political-messages-in-the-rust-blog/)
+- Nov 05 - [Soul, SQLite REST server is realtime now. WebSockets added](https://github.com/thevahidal/soul/blob/main/docs/ws-examples.md)
+- Nov 05 - [Tell HN: A hacker's life is in danger, your awareness may be life saving](https://news.ycombinator.com/item?id=33484185)
+- Nov 05 - [Engineered ‘Superplant’ Cleans Indoor Air Like 30 Regular Plants](https://singularityhub.com/2022/11/02/this-engineered-superplant-cleans-indoor-air-like-30-regular-plants/)
+- Nov 05 - [Physical Warp Drives (2021)](https://iopscience.iop.org/article/10.1088/1361-6382/abdf6e)
+- Nov 05 - [Negative 2000 Lines of Code (1982)](https://www.folklore.org/StoryView.py?story=Negative_2000_Lines_Of_Code.txt)
 <!--END_SECTION:hn-->
 
 <!--
