@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 05 - [Backlash after 500 drones light up New York City sky to celebrate Candy Crush](https://www.theguardian.com/us-news/2022/nov/04/candy-crush-drone-show-backlash)
-- Nov 05 - [60% of home compostable plastic doesn’t fully break down, ending up in our soil](https://blog.frontiersin.org/2022/11/03/60-of-home-compostable-plastic-doesnt-fully-break-down-ending-up-in-our-soil/)
-- Nov 05 - [Ironies of Automation](https://blog.acolyer.org/2020/01/08/ironies-of-automation/)
-- Nov 04 - [Intel plans to rival TSMC and Samsung as a chip supplier](https://asia.nikkei.com/Business/Business-Spotlight/How-Intel-plans-to-rival-TSMC-and-Samsung-as-a-chip-supplier)
-- Nov 04 - [Ask HN: How much does the environment you're in contribute to performance?](https://news.ycombinator.com/item?id=33475720)
+- Nov 05 - [Will Twitter outlast this lettuce?](https://lettuce.wtf/)
+- Nov 05 - [Indian Air Force inducts natively developed light combat helicopter ‘Prachanda’](https://amritmahotsav.nic.in/spotlight-of-the-week-detail.htm?163)
+- Nov 05 - [Pëtr Kropotkin and Mutual Aid](https://areomagazine.com/2022/01/12/the-ants-have-not-read-kant-petr-kropotkin-and-mutual-aid/)
+- Nov 05 - [It looks like I’m moving to Mastodon](https://simonwillison.net/2022/Nov/5/mastodon/)
+- Nov 05 - [Womp 3D – The New Way to 3D](https://www.womp.com/)
 <!--END_SECTION:hn-->
 
 <!--
