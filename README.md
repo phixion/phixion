@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 05 - [Stop requiring only one assertion per unit test: Multiple assertions are fine](https://stackoverflow.blog/2022/11/03/multiple-assertions-per-test-are-fine/)
-- Nov 05 - [Climate geoengineering via stratospheric aerosol injection](https://www.deeplearning.ai/the-batch/issue-169/)
-- Nov 05 - [So today musl discovered a longstanding bug in Linux's ELF loader](https://twitter.com/RichFelker/status/1588592850715172865)
-- Nov 05 - [Astronomers Discover Closest Black Hole to Earth](https://noirlab.edu/public/news/noirlab2227/)
-- Nov 05 - [Pieca: A Raspberry Pi Camera System for Leica M Mount Lenses](https://teaandtechtime.com/pieca-a-raspberry-pi-camera-system-for-leica-m-mount-lenses/)
+- Nov 05 - [Yellowstone to Yukon Conservation Initiative](https://y2y.net/)
+- Nov 05 - [Ben Eater is back with a new video (after almost a year)!](https://www.youtube.com/watch?v=AHYNxpqKqwo)
+- Nov 05 - [The Onion files Supreme Court amicus brief defending the right to parody](https://www.washingtonpost.com/media/2022/10/04/onion-amicus-brief-supreme-court-anthony-novak/)
+- Nov 05 - [TSMC approaching 1 nm with 2D materials breakthrough](https://www.edn.com/tsmc-approaching-1-nm-with-2d-materials-breakthrough/)
+- Nov 05 - [About political messages on the Rust blog](https://poignardazur.github.io//2022/11/05/political-messages-in-the-rust-blog/)
 <!--END_SECTION:hn-->
 
 <!--
