@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 05 - [Will Twitter outlast this lettuce?](https://lettuce.wtf/)
-- Nov 05 - [Indian Air Force inducts natively developed light combat helicopter ‘Prachanda’](https://amritmahotsav.nic.in/spotlight-of-the-week-detail.htm?163)
-- Nov 05 - [Pëtr Kropotkin and Mutual Aid](https://areomagazine.com/2022/01/12/the-ants-have-not-read-kant-petr-kropotkin-and-mutual-aid/)
-- Nov 05 - [It looks like I’m moving to Mastodon](https://simonwillison.net/2022/Nov/5/mastodon/)
-- Nov 05 - [Womp 3D – The New Way to 3D](https://www.womp.com/)
+- Nov 05 - [Stop requiring only one assertion per unit test: Multiple assertions are fine](https://stackoverflow.blog/2022/11/03/multiple-assertions-per-test-are-fine/)
+- Nov 05 - [Climate geoengineering via stratospheric aerosol injection](https://www.deeplearning.ai/the-batch/issue-169/)
+- Nov 05 - [So today musl discovered a longstanding bug in Linux's ELF loader](https://twitter.com/RichFelker/status/1588592850715172865)
+- Nov 05 - [Astronomers Discover Closest Black Hole to Earth](https://noirlab.edu/public/news/noirlab2227/)
+- Nov 05 - [Pieca: A Raspberry Pi Camera System for Leica M Mount Lenses](https://teaandtechtime.com/pieca-a-raspberry-pi-camera-system-for-leica-m-mount-lenses/)
 <!--END_SECTION:hn-->
 
 <!--
