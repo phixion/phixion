@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 06 - [At Xamarin I left every day at 5pm](https://twitter.com/migueldeicaza/status/1589071354967756802)
-- Nov 06 - [PayPal Allows Bypassing Two-Factor Authentication with a Button Click](https://medium.com/@jewbixcube/paypal-allows-bypassing-two-factor-auth-with-a-button-click-claims-its-for-your-protection-ce1d0dc9a28a)
-- Nov 06 - [Bike: Innovative Rich Text Editing](https://www.hogbaysoftware.com/posts/bike-rich-text/)
-- Nov 06 - [Git as a janky Twitter replacement](https://github.com/diracdeltas/tweets)
-- Nov 06 - [Mastodon v4.0.0 Release Candidate](https://github.com/mastodon/mastodon/releases/tag/v4.0.0rc1)
+- Nov 06 - [Skio (YC S20) is hiring – subscriptions for Shopify, easy ReCharge migrations](https://skio.com/careers/)
+- Nov 06 - [Twilight: A Differentially Private Payment Channel Network](https://www.usenix.org/conference/usenixsecurity22/presentation/dotan)
+- Nov 06 - [Ask HN: Open-Source GitHub Copilot?](https://news.ycombinator.com/item?id=33491446)
+- Nov 06 - [Moon Disaster](https://moondisaster.org/)
+- Nov 06 - [Zero Point Leet Seconds](https://susam.net/blog/zero-point-leet-seconds.html)
 <!--END_SECTION:hn-->
 
 <!--
