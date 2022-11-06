@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 06 - [Substitute Web Fonts with StopTheMadness](https://underpassapp.com/news/2022-11-3.html)
-- Nov 06 - [Mastodon's founder has a vision to democratize social media](https://time.com/6229230/mastodon-eugen-rochko-interview/)
-- Nov 06 - [Ancient water system uncovered at Roman Stabiae](https://www.heritagedaily.com/2022/11/ancient-water-system-uncovered-at-roman-stabiae/145135)
-- Nov 06 - [Galois field instructions on 2021 CPUs](http://www.corsix.org/content/galois-field-instructions-2021-cpus)
-- Nov 06 - [The essence of Reed-Solomon coding](https://mazzo.li/posts/reed-solomon.html)
+- Nov 06 - [proofInAToot](https://mathstodon.xyz/tags/proofInAToot)
+- Nov 06 - [BBC: Twitter users jump to Mastodon – but what is it?](https://www.bbc.com/news/technology-63534240)
+- Nov 06 - [Explore some of the finest open-source software out there](https://tchncs.de/)
+- Nov 06 - [The Lonely Runner Conjecture](https://en.wikipedia.org/wiki/Lonely_runner_conjecture)
+- Nov 06 - [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/)
 <!--END_SECTION:hn-->
 
 <!--
