@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 05 - [An aesthetically pleasing pathfinding visualizer](https://pathfinding-visualizer-nu.vercel.app/)
-- Nov 05 - [Mastodon Explained](https://mastodon.ie/@Ciaraioch/109287818715515862)
-- Nov 05 - [3D OpenStreetMap](https://demo.f4map.com)
-- Nov 05 - [Microsoft sued for open-source piracy through GitHub Copilot](https://www.bleepingcomputer.com/news/security/microsoft-sued-for-open-source-piracy-through-github-copilot/)
-- Nov 05 - [Context to Twitter's 2023 advertisers issues](https://twitter.com/goangelo/status/1588696157794242560)
+- Nov 06 - [Tool that lists all Fediverse instances including Mastodon, Pleroma, & Rebased](http://demo.fedilist.com/)
+- Nov 06 - [Twitter sources say company reached out to fired people asking them to come back](https://twitter.com/caseynewton/status/1589075543420325888)
+- Nov 06 - [Level responds to lock picker opening its $330 Apple Store lock in seconds](https://www.techradar.com/news/the-apple-stores-dollar330-level-lock-plus-smart-lock-isnt-as-secure-as-youd-think)
+- Nov 06 - [Pleroma, LitePub, ActivityPub and JSON-LD (2018)](https://ariadne.space/2018/11/12/pleroma-litepub-activitypub-and-json-ld/)
+- Nov 06 - [NASA Puts Jet Propulsion Lab on Blast over Psyche Mission Failures](https://futurism.com/the-byte/nasa-jpl-psyche-independent-review)
 <!--END_SECTION:hn-->
 
 <!--
