@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 06 - [proofInAToot](https://mathstodon.xyz/tags/proofInAToot)
-- Nov 06 - [BBC: Twitter users jump to Mastodon – but what is it?](https://www.bbc.com/news/technology-63534240)
-- Nov 06 - [Explore some of the finest open-source software out there](https://tchncs.de/)
-- Nov 06 - [The Lonely Runner Conjecture](https://en.wikipedia.org/wiki/Lonely_runner_conjecture)
-- Nov 06 - [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/)
+- Nov 06 - [Silicon Valley's Horrible Bosses](https://newsletters.theatlantic.com/galaxy-brain/62a7fbc951acba00209259f5/elon-musk-brian-armstrong-coinbase-crypto/)
+- Nov 06 - [Why Fortran?](https://www.matecdev.com/posts/why-fortran-still-used.html)
+- Nov 06 - [Update on Supply of iPhone 14 Pro and iPhone 14 Pro Max](https://www.apple.com/newsroom/2022/11/update-on-supply-of-iphone-14-pro-and-iphone-14-pro-max/)
+- Nov 06 - [Ask HN: Why is coil whine in electronics so prevalent?](https://news.ycombinator.com/item?id=33497424)
+- Nov 06 - [Barilla passive cooker](https://www.barilla.com/en-gb/passive-cooking)
 <!--END_SECTION:hn-->
 
 <!--
