@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 07 - [The First Female Crash Dummy Has Arrived](https://www.smithsonianmag.com/smart-news/the-first-female-crash-dummy-has-arrived-180981072/)
-- Nov 07 - [Swedish amateur archivist “Rosa Mannen” shutdown from YouTube, again](https://www.gp.se/kultur/kultur/youtubekanalen-rosa-mannen-nedstängd-igen-1.84848419)
-- Nov 07 - [Ask HN: Are privacy concerns around Microsoft Windows 11 overblown?](https://news.ycombinator.com/item?id=33506798)
-- Nov 07 - [Modernizing my 1980s sound system](https://blog.yossarian.net/2022/11/07/Modernizing-my-1980s-sound-system)
-- Nov 07 - [Bankruptcy court gave blanket immunity to executives in 9 out of 10 major cases](https://www.reuters.com/investigates/special-report/bankruptcy-tactics-releases/)
+- Nov 07 - [The most unethical thing I was asked to build while working at Twitter](https://twitter.com/stevekrenzel/status/1589700721121058817)
+- Nov 07 - [Typography for Lawyers](https://typographyforlawyers.com/)
+- Nov 07 - [Malicious Python Packages Replace Crypto Addresses in Developer Clipboards](https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard)
+- Nov 07 - [Some Thoughts on Social Networking and Usenet](https://jfm.carcosa.net/blog/computing/usenet/)
+- Nov 07 - [You Might Also Like](https://basicappleguy.com/basicappleblog/you-might-also-like)
 <!--END_SECTION:hn-->
 
 <!--
