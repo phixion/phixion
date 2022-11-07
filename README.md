@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 06 - [Silicon Valley's Horrible Bosses](https://newsletters.theatlantic.com/galaxy-brain/62a7fbc951acba00209259f5/elon-musk-brian-armstrong-coinbase-crypto/)
-- Nov 06 - [Why Fortran?](https://www.matecdev.com/posts/why-fortran-still-used.html)
-- Nov 06 - [Update on Supply of iPhone 14 Pro and iPhone 14 Pro Max](https://www.apple.com/newsroom/2022/11/update-on-supply-of-iphone-14-pro-and-iphone-14-pro-max/)
-- Nov 06 - [Ask HN: Why is coil whine in electronics so prevalent?](https://news.ycombinator.com/item?id=33497424)
-- Nov 06 - [Barilla passive cooker](https://www.barilla.com/en-gb/passive-cooking)
+- Nov 07 - [If you die in the game, you die in real life](https://palmerluckey.com/if-you-die-in-the-game-you-die-in-real-life/)
+- Nov 07 - [Migrate from Linux to FreeBSD](https://klarasystems.com/articles/easily-migrate-from-linux-to-freebsd/)
+- Nov 07 - [Apple Execs on iMessage for Android (2013)](https://twitter.com/techemails/status/1589450766506692609)
+- Nov 07 - [Wells Fargo mortgage staff brace for layoffs as U.S. loan volumes collapse](https://www.cnbc.com/2022/11/02/wells-fargo-mortgage-staff-brace-for-layoffs-as-us-loan-volumes-collapse.html)
+- Nov 07 - [The Interactive Fiction Competition](https://ifcomp.org/)
 <!--END_SECTION:hn-->
 
 <!--
