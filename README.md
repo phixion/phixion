@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 08 - [Good Quality DOSBox Video Capture](https://susam.net/blog/good-quality-dosbox-video-capture.html)
-- Nov 08 - [Does Apple maintain APFS in older macOS?](https://eclecticlight.co/2022/11/08/does-apple-maintain-apfs-in-older-macos/)
-- Nov 08 - [Qualcomm vs. Arm: The bizarro quotient just went off the scale](https://www.theregister.com/2022/11/07/opinion_qualcomm_vs_arm/)
-- Nov 08 - [FreeBSD will replace Sendmail by The Dragonfly Mail Agent (dma)](https://cgit.freebsd.org/src/commit/?id=a67b925ff3e58b072a60b633e442ee1d33e47f7f)
-- Nov 08 - [Show HN: Slashbase – open-source collaborative IDE for databases in browser](https://github.com/slashbaseide/slashbase)
+- Nov 08 - [Leaked docs: Ugandan gov expects Ebola will escape control, 500 deaths by May](https://blog.ebola-cases.com/leaked-ebola-projections-uganda/)
+- Nov 08 - [Kindness, Tech Staffing and Resource Allocation](https://redmonk.com/rstephens/2022/11/01/kindness-and-staffing/)
+- Nov 08 - [Undetectable very-low frequency sound increases dancing at a live concert](https://www.cell.com/current-biology/fulltext/S0960-9822(22)01535-4)
+- Nov 08 - [Nvidia PhysX 5.0 is now open source](https://github.com/NVIDIA-Omniverse/PhysX)
+- Nov 08 - [From Common Lisp to Julia](https://mfiano.net/posts/2022-09-04-from-common-lisp-to-julia/index.html)
 <!--END_SECTION:hn-->
 
 <!--
