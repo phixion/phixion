@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 08 - [Leaked docs: Ugandan gov expects Ebola will escape control, 500 deaths by May](https://blog.ebola-cases.com/leaked-ebola-projections-uganda/)
-- Nov 08 - [Kindness, Tech Staffing and Resource Allocation](https://redmonk.com/rstephens/2022/11/01/kindness-and-staffing/)
-- Nov 08 - [Undetectable very-low frequency sound increases dancing at a live concert](https://www.cell.com/current-biology/fulltext/S0960-9822(22)01535-4)
-- Nov 08 - [Nvidia PhysX 5.0 is now open source](https://github.com/NVIDIA-Omniverse/PhysX)
-- Nov 08 - [From Common Lisp to Julia](https://mfiano.net/posts/2022-09-04-from-common-lisp-to-julia/index.html)
+- Nov 08 - [FTX Token, FTT down by more than 80% in less than 24 hours](https://ftx.com/trade/FTT/USD)
+- Nov 08 - [Unix as a tool forge (and how Emacs fits in Unix philosophy)](https://lambdaland.org/posts/2022-11-07_unix_philosophy/)
+- Nov 08 - [Veterans find relief from nightmares with NightWare and Apple Watch](https://www.apple.com/newsroom/2022/11/veterans-find-relief-from-nightmares-with-nightware-and-apple-watch/)
+- Nov 08 - [“It would be career limiting “](https://doomedprojects.com/post/it-would-be-career-limiting)
+- Nov 08 - [Differential Datalog: a programming language for incremental computation](https://github.com/vmware/differential-datalog)
 <!--END_SECTION:hn-->
 
 <!--
