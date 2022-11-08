@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 08 - [Sonic Pi – The Live Coding Music Synth for Everyone](https://sonic-pi.net/)
-- Nov 08 - [Found around 250 hilarious CS quotes while browsing Notepad++'s code (Line 7102)](https://github.com/notepad-plus-plus/notepad-plus-plus/blob/master/PowerEditor/src/Notepad_plus.cpp)
-- Nov 08 - [Maps and Memory Leaks in Go](https://teivah.medium.com/maps-and-memory-leaks-in-go-a85ebe6e7e69)
-- Nov 08 - [The default effect: why we renounce our ability to choose](https://nesslabs.com/default-effect)
-- Nov 08 - [Ouroboros: Packet networking rebuilt from the ground up](https://ouroboros.rocks/)
+- Nov 08 - [Good Quality DOSBox Video Capture](https://susam.net/blog/good-quality-dosbox-video-capture.html)
+- Nov 08 - [Does Apple maintain APFS in older macOS?](https://eclecticlight.co/2022/11/08/does-apple-maintain-apfs-in-older-macos/)
+- Nov 08 - [Qualcomm vs. Arm: The bizarro quotient just went off the scale](https://www.theregister.com/2022/11/07/opinion_qualcomm_vs_arm/)
+- Nov 08 - [FreeBSD will replace Sendmail by The Dragonfly Mail Agent (dma)](https://cgit.freebsd.org/src/commit/?id=a67b925ff3e58b072a60b633e442ee1d33e47f7f)
+- Nov 08 - [Show HN: Slashbase – open-source collaborative IDE for databases in browser](https://github.com/slashbaseide/slashbase)
 <!--END_SECTION:hn-->
 
 <!--
