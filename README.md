@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 08 - [Sam Bankman-Fried's $16B Fortune Is Eviscerated in Days](https://www.bloomberg.com/news/articles/2022-11-08/sbf-net-worth-is-eviscerated-in-days-with-binance-set-to-buy-ftx)
-- Nov 08 - [Recreating sci-fi terminals using VHS](https://blog.ldodds.com/2022/11/08/recreating-sci-fi-terminals-using-vhs/)
-- Nov 08 - [Compound (YC S19) is hiring to build financial products for tech people](https://withcompound.com/company/about)
-- Nov 08 - [It's not Ruby that's slow, it's your database](https://berk.es/2022/08/09/ruby-slow-database-slow/)
-- Nov 08 - [Leaderless Teams](https://www.brettmacfarlane.com/blog/2022/leadersless-teams)
+- Nov 09 - [Writing down what I do – in Obsidian](https://v5.chriskrycho.com/journal/writing-down-what-i-do-in-obsidian/)
+- Nov 09 - [AI and the Future of Pixel Art](https://pixelparmesan.com/ai-and-the-future-of-pixel-art/)
+- Nov 09 - [Apple is tracking you even when its own privacy settings say not, research says](https://gizmodo.com/apple-iphone-analytics-tracking-even-when-off-app-store-1849757558)
+- Nov 09 - [TikTok’s greatest asset isn’t its algorithm, it’s your phone](https://www.wired.com/story/tiktok-phones-extended-mind-philosophy/)
+- Nov 09 - [Tell HN: Duty of care](https://news.ycombinator.com/item?id=33526922)
 <!--END_SECTION:hn-->
 
 <!--
