@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 09 - [Z-Library Aftermath Reveals the Feds Seized Dozens of Domain Names](https://torrentfreak.com/z-library-aftermath-reveals-that-the-feds-seized-dozens-of-domain-names-221107/)
-- Nov 09 - [Meta lays off 11,000 people](https://about.fb.com/news/2022/11/mark-zuckerberg-layoff-message-to-employees/)
-- Nov 09 - [Tell HN: Emmet, the HTML editing plugin, gets $100k/yr in donations from casinos](https://news.ycombinator.com/item?id=33529742)
-- Nov 09 - [How Aphex Twin Made Selected Ambient Works 85-92](https://www.musicradar.com/news/how-aphex-twin-made-saw-85-92)
-- Nov 09 - [A guide to error handling in Rust](https://nrc.github.io/error-docs/)
+- Nov 09 - [Why is Rosetta 2 fast?](https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/)
+- Nov 09 - [Binance Is Strongly Leaning Toward Scrapping FTX Rescue Takeover](https://www.coindesk.com/business/2022/11/09/binance-is-strongly-leaning-toward-scrapping-ftx-rescue-takeover-after-first-glance-at-books-source/)
+- Nov 09 - [World population to reach 8B on 15 November 2022](https://www.un.org/en/desa/world-population-reach-8-billion-15-november-2022)
+- Nov 09 - [The Sad Saga of the 500 MHz Power Mac G4](https://512pixels.net/2022/11/the-sad-saga-of-the-500-mhz-power-mac-g4/)
+- Nov 09 - [NYC jail complex to be restored into citywide green energy hub](https://movemnt.net/nyc-jail-complex-to-be-restored-into-citywide-green-energy-hub/)
 <!--END_SECTION:hn-->
 
 <!--
