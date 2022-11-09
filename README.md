@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 08 - [FTX Token, FTT down by more than 80% in less than 24 hours](https://ftx.com/trade/FTT/USD)
-- Nov 08 - [Unix as a tool forge (and how Emacs fits in Unix philosophy)](https://lambdaland.org/posts/2022-11-07_unix_philosophy/)
-- Nov 08 - [Veterans find relief from nightmares with NightWare and Apple Watch](https://www.apple.com/newsroom/2022/11/veterans-find-relief-from-nightmares-with-nightware-and-apple-watch/)
-- Nov 08 - [“It would be career limiting “](https://doomedprojects.com/post/it-would-be-career-limiting)
-- Nov 08 - [Differential Datalog: a programming language for incremental computation](https://github.com/vmware/differential-datalog)
+- Nov 08 - [Sam Bankman-Fried's $16B Fortune Is Eviscerated in Days](https://www.bloomberg.com/news/articles/2022-11-08/sbf-net-worth-is-eviscerated-in-days-with-binance-set-to-buy-ftx)
+- Nov 08 - [Recreating sci-fi terminals using VHS](https://blog.ldodds.com/2022/11/08/recreating-sci-fi-terminals-using-vhs/)
+- Nov 08 - [Compound (YC S19) is hiring to build financial products for tech people](https://withcompound.com/company/about)
+- Nov 08 - [It's not Ruby that's slow, it's your database](https://berk.es/2022/08/09/ruby-slow-database-slow/)
+- Nov 08 - [Leaderless Teams](https://www.brettmacfarlane.com/blog/2022/leadersless-teams)
 <!--END_SECTION:hn-->
 
 <!--
