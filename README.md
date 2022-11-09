@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 09 - [Why is Rosetta 2 fast?](https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/)
-- Nov 09 - [Binance Is Strongly Leaning Toward Scrapping FTX Rescue Takeover](https://www.coindesk.com/business/2022/11/09/binance-is-strongly-leaning-toward-scrapping-ftx-rescue-takeover-after-first-glance-at-books-source/)
-- Nov 09 - [World population to reach 8B on 15 November 2022](https://www.un.org/en/desa/world-population-reach-8-billion-15-november-2022)
-- Nov 09 - [The Sad Saga of the 500 MHz Power Mac G4](https://512pixels.net/2022/11/the-sad-saga-of-the-500-mhz-power-mac-g4/)
-- Nov 09 - [NYC jail complex to be restored into citywide green energy hub](https://movemnt.net/nyc-jail-complex-to-be-restored-into-citywide-green-energy-hub/)
+- Nov 09 - [Neurosymbolic Programming for Science](https://arxiv.org/abs/2210.05050)
+- Nov 09 - [The AI community expresses sympathy on Hacker News](https://twitter.com/adeptailabs/status/1590396065072951296)
+- Nov 09 - [Archaeologists Find First Whole Sentence Written in Canaanite. On a Lice Comb](https://www.haaretz.com/archaeology/2022-11-09/ty-article/israeli-archaeologists-find-first-whole-sentence-written-in-canaanite-on-a-lice-comb/00000184-56c1-dc83-a7fd-fef3777f0000)
+- Nov 09 - [Imperative configs are out; Declarative configs are in](https://www.prodvana.io/blog/declarative-configs)
+- Nov 09 - [Antitrust lawsuit says Apple and Amazon colluded to raise iPhone, iPad prices](https://www.hbsslaw.com/press/apple-amazon-price-fixing/antitrust-lawsuit-says-apple-and-amazon-colluded-to-raise-iphone-ipad-prices)
 <!--END_SECTION:hn-->
 
 <!--
