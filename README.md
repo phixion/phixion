@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 10 - [Ftx.com Has Probably Collapsed](https://forum.effectivealtruism.org/posts/tdLRvYHpfYjimwhyL/ftx-com-has-probably-collapsed)
-- Nov 10 - [Mozilla security policy: concerns about Trustcor](https://groups.google.com/a/mozilla.org/g/dev-security-policy/c/oxX69KFvsm4/m/etbBho-VBQAJ)
-- Nov 10 - [Sequoia has marked its investment in FTX down to $0](https://twitter.com/sequoia/status/1590522718650499073)
-- Nov 10 - [GitHub stars won't pay your rent (2020)](https://kitze.io/posts/github-stars-wont-pay-your-rent)
-- Nov 10 - [I strive to be a 0.1x Engineer (2016)](https://benjiweber.co.uk/blog/2016/01/25/why-i-strive-to-be-a-0-1x-engineer/)
+- Nov 10 - [Generally Intelligent (YC S17) Is Hiring AI Policy and Safety Researchers](https://news.ycombinator.com/item?id=33543205)
+- Nov 10 - [Zoho's annual revenues surpassed $1B in 2021](https://www.businessinsider.in/business/corporates/news/zoho-becomes-a-1-billion-company-in-revenues/articleshow/95382381.cms)
+- Nov 10 - [An open source lawyer’s view on the copilot class action lawsuit](https://katedowninglaw.com/2022/11/10/open-source-lawyers-view-on-the-copilot-class-action-lawsuit/)
+- Nov 10 - [Gundam and anime replace rampant politics in Japanese Twitter Trends](https://nichegamer.com/gundam-anime-twitter-trends/)
+- Nov 10 - [OpenEnergyMonitor – open-source monitoring for energy](https://openenergymonitor.org/)
 <!--END_SECTION:hn-->
 
 <!--
