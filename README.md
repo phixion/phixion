@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 10 - [Kamion (YC S22) Is Hiring](https://www.ycombinator.com/companies/kamion/jobs/pHwM0r2-software-engineer-frontend)
-- Nov 10 - [Tech’s Talent Wars Have Come Back to Bite It](https://www.nytimes.com/2022/11/10/technology/big-tech-layoffs.html)
-- Nov 10 - [Accidental $70k Google Pixel Lock Screen Bypass](https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/)
-- Nov 10 - [What will be the second order effects widespread AI?](https://news.ycombinator.com/item?id=33544855)
-- Nov 10 - [Indian ISPs: We already give govt full access to web traffic](https://entrackr.com/2022/11/exclusive-indian-isps-we-already-give-govt-full-access-to-web-traffic/)
+- Nov 10 - [Octopuses caught on camera throwing things at each other](https://www.nature.com/articles/d41586-022-03592-w)
+- Nov 10 - [How the Apple Archive Ended Up at Stanford](https://annamancini.substack.com/p/how-the-apple-archive-ended-up-at)
+- Nov 10 - [Flu and colds are back with a vengeance](https://www.nature.com/articles/d41586-022-03666-9)
+- Nov 10 - [No, You Aren’t Going to Get Rich by Options Trading](https://jacobin.com/2022/11/options-trading-stock-market-inequality)
+- Nov 10 - [Seeing through hardware counters: a journey to threefold performance increase](https://netflixtechblog.com/seeing-through-hardware-counters-a-journey-to-threefold-performance-increase-2721924a2822)
 <!--END_SECTION:hn-->
 
 <!--
