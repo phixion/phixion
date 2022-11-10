@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 10 - [Octopuses caught on camera throwing things at each other](https://www.nature.com/articles/d41586-022-03592-w)
-- Nov 10 - [How the Apple Archive Ended Up at Stanford](https://annamancini.substack.com/p/how-the-apple-archive-ended-up-at)
-- Nov 10 - [Flu and colds are back with a vengeance](https://www.nature.com/articles/d41586-022-03666-9)
-- Nov 10 - [No, You Aren’t Going to Get Rich by Options Trading](https://jacobin.com/2022/11/options-trading-stock-market-inequality)
-- Nov 10 - [Seeing through hardware counters: a journey to threefold performance increase](https://netflixtechblog.com/seeing-through-hardware-counters-a-journey-to-threefold-performance-increase-2721924a2822)
+- Nov 10 - [FTC Restores Rigorous Enforcement of Law Banning Unfair Methods of Competition](https://www.ftc.gov/news-events/news/press-releases/2022/11/ftc-restores-rigorous-enforcement-law-banning-unfair-methods-competition)
+- Nov 10 - [Metaphor Systems: A search engine based on generative AI](https://metaphor.systems)
+- Nov 10 - [Show HN: An API for CO₂ Removal](https://docs.cdrplatform.com)
+- Nov 10 - [Following the Unix philosophy without getting left-pad (2021)](https://raku-advent.blog/2021/12/06/unix_philosophy_without_leftpad/)
+- Nov 10 - [Wrist-mounted camera captures entire body in 3D](https://news.cornell.edu/stories/2022/11/wrist-mounted-camera-captures-entire-body-3d)
 <!--END_SECTION:hn-->
 
 <!--
