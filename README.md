@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 11 - [The Queen's Coup](https://declassifiedaus.org/2022/11/11/the-queens-coup/)
-- Nov 11 - [FBI In No-Knock Raid on Area 51 Website Operator](https://twitter.com/g_knapp/status/1590893322322968577)
-- Nov 11 - [Overfitting and the strong version of Goodhart’s law](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
-- Nov 11 - [Book Review: Rhythms of the Brain](https://astralcodexten.substack.com/p/book-review-rhythms-of-the-brain)
-- Nov 11 - [Map of the Internet](https://ipv4.dev.sarl/)
+- Nov 11 - [WeWork exits 40 U.S. locations after tepid forecast](https://www.reuters.com/business/wework-exit-40-locations-us-cut-costs-2022-11-10/)
+- Nov 11 - [4% will quit if revealed co-workers earn more money](https://www.resumebuilder.com/1-in-20-workers-will-quit-if-transparency-laws-reveal-they-are-paid-less-than-co-workers/)
+- Nov 11 - [Amazon Time Sync is now available over the internet as a public NTP service](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-time-sync-internet-public-ntp-service/)
+- Nov 11 - [Economic growth no longer requires rising emissions](https://www.economist.com/leaders/2022/11/10/economic-growth-no-longer-requires-rising-emissions)
+- Nov 11 - [‘Whisper list’ contains 40 politicians never to accept a drink from, MP claims](https://www.theguardian.com/uk-news/2022/nov/10/whisper-list-contains-40-politicians-never-to-accept-a-drink-from-mp-claims)
 <!--END_SECTION:hn-->
 
 <!--
