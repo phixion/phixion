@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 10 - [A Cypherpunk’s Manifesto (1993)](https://what.cd/)
-- Nov 10 - [CRISPR cancer trial success paves the way for personalized treatments](https://www.nature.com/articles/d41586-022-03676-7)
-- Nov 10 - [The i Element Has Changed](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/i)
-- Nov 10 - [NSA Releases Guidance on How to Protect Against Software Memory Safety Issues](https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3215760/nsa-releases-guidance-on-how-to-protect-against-software-memory-safety-issues/)
-- Nov 10 - [Block web scanners with ipset and iptables](https://nbailey.ca/post/block-scanners/)
+- Nov 11 - [Too much efficiency makes everything worse](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
+- Nov 11 - [HCL is the fastest growing language according to the GitHub Octoverse 2022](https://octoverse.github.com/2022/top-programming-languages)
+- Nov 11 - [Book Review: Rhythms of the Brain](https://astralcodexten.substack.com/p/book-review-rhythms-of-the-brain)
+- Nov 11 - [Map of the Internet](https://ipv4.dev.sarl/)
+- Nov 11 - [Zendo: The Game of Inductive Logic](https://www.looneylabs.com/games/zendo)
 <!--END_SECTION:hn-->
 
 <!--
