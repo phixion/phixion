@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 10 - [FTC Restores Rigorous Enforcement of Law Banning Unfair Methods of Competition](https://www.ftc.gov/news-events/news/press-releases/2022/11/ftc-restores-rigorous-enforcement-law-banning-unfair-methods-competition)
-- Nov 10 - [Metaphor Systems: A search engine based on generative AI](https://metaphor.systems)
-- Nov 10 - [Show HN: An API for CO₂ Removal](https://docs.cdrplatform.com)
-- Nov 10 - [Following the Unix philosophy without getting left-pad (2021)](https://raku-advent.blog/2021/12/06/unix_philosophy_without_leftpad/)
-- Nov 10 - [Wrist-mounted camera captures entire body in 3D](https://news.cornell.edu/stories/2022/11/wrist-mounted-camera-captures-entire-body-3d)
+- Nov 10 - [A Cypherpunk’s Manifesto (1993)](https://what.cd/)
+- Nov 10 - [CRISPR cancer trial success paves the way for personalized treatments](https://www.nature.com/articles/d41586-022-03676-7)
+- Nov 10 - [The i Element Has Changed](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/i)
+- Nov 10 - [NSA Releases Guidance on How to Protect Against Software Memory Safety Issues](https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3215760/nsa-releases-guidance-on-how-to-protect-against-software-memory-safety-issues/)
+- Nov 10 - [Block web scanners with ipset and iptables](https://nbailey.ca/post/block-scanners/)
 <!--END_SECTION:hn-->
 
 <!--
