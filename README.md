@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 11 - [WeWork exits 40 U.S. locations after tepid forecast](https://www.reuters.com/business/wework-exit-40-locations-us-cut-costs-2022-11-10/)
-- Nov 11 - [4% will quit if revealed co-workers earn more money](https://www.resumebuilder.com/1-in-20-workers-will-quit-if-transparency-laws-reveal-they-are-paid-less-than-co-workers/)
-- Nov 11 - [Amazon Time Sync is now available over the internet as a public NTP service](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-time-sync-internet-public-ntp-service/)
-- Nov 11 - [Economic growth no longer requires rising emissions](https://www.economist.com/leaders/2022/11/10/economic-growth-no-longer-requires-rising-emissions)
-- Nov 11 - [‘Whisper list’ contains 40 politicians never to accept a drink from, MP claims](https://www.theguardian.com/uk-news/2022/nov/10/whisper-list-contains-40-politicians-never-to-accept-a-drink-from-mp-claims)
+- Nov 11 - [How Australia became the world’s greatest lithium supplier](https://www.bbc.com/future/article/20221110-how-australia-became-the-worlds-greatest-lithium-supplier)
+- Nov 11 - [Key staff driving Apple search engine leave to rejoin Google](https://appleinsider.com/articles/22/11/11/key-staff-driving-apple-search-engine-leave-to-rejoin-google)
+- Nov 11 - [How Stdbuf Works](https://hmarr.com/blog/how-stdbuf-works/)
+- Nov 11 - [FTX to file for U.S. bankruptcy, CEO resigns](https://www.reuters.com/technology/ftx-says-will-file-us-bankruptcy-latest-blow-crypto-2022-11-11/)
+- Nov 11 - [Show HN: A little side project, a watercolor art generator](https://brushify.art/?couponCode=HACKER-NEWS)
 <!--END_SECTION:hn-->
 
 <!--
