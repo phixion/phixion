@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 12 - [Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote)](https://www.svix.com/careers/)
-- Nov 12 - [In Praise of Plan 9](https://drewdevault.com/2022/11/12/In-praise-of-Plan-9.html)
-- Nov 12 - [FTX investor Sequoia removed its glowing profile of Sam Bankman-Fried](https://www.businessinsider.com/ftx-investor-sequoia-removes-sam-bankman-fried-profile-2022-11)
-- Nov 12 - [ZFSBootMenu – A boot loader to manage ZFS boot environments for Linux](https://zfsbootmenu.org/)
-- Nov 12 - [The NetHack Learning Environment](https://github.com/facebookresearch/nle)
+- Nov 12 - [Alameda, FTX Executives Are Said to Have Known FTX Was Using Customer Funds](https://www.wsj.com/articles/alameda-ftx-executives-are-said-to-have-known-ftx-was-using-customer-funds-11668264238)
+- Nov 12 - [Most Tracked Flight Right Now](https://twitter.com/flightradar24/status/1591348369271971841)
+- Nov 12 - [Homeland Security Reaches the Anus (2007)](https://www.thelancet.com/journals/lancet/article/PIIS0140673607601913/fulltext)
+- Nov 12 - [What if regular exercise is the best cognitive exercise?](https://blog.vslira.net/2022/11/what-if-regular-exercise-is-best.html)
+- Nov 12 - [Ask HN: How do you deal with the human ability to never take responsibility](https://news.ycombinator.com/item?id=33573118)
 <!--END_SECTION:hn-->
 
 <!--
