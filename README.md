@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 12 - [Alameda, FTX Executives Are Said to Have Known FTX Was Using Customer Funds](https://www.wsj.com/articles/alameda-ftx-executives-are-said-to-have-known-ftx-was-using-customer-funds-11668264238)
-- Nov 12 - [Most Tracked Flight Right Now](https://twitter.com/flightradar24/status/1591348369271971841)
-- Nov 12 - [Homeland Security Reaches the Anus (2007)](https://www.thelancet.com/journals/lancet/article/PIIS0140673607601913/fulltext)
-- Nov 12 - [What if regular exercise is the best cognitive exercise?](https://blog.vslira.net/2022/11/what-if-regular-exercise-is-best.html)
-- Nov 12 - [Ask HN: How do you deal with the human ability to never take responsibility](https://news.ycombinator.com/item?id=33573118)
+- Nov 12 - [California operates the largest, most efficient welfare program in the US](https://philo.substack.com/p/whats-wrong-with-california)
+- Nov 12 - [Surface Pro 9 teardown reveals modular parts, Microsoft’s 2023 repair plans](https://arstechnica.com/gadgets/2022/11/surface-9-pro-teardown-reveals-modular-parts-microsofts-2023-repair-plans/)
+- Nov 12 - [Show HN: A GitHub business card generator](https://github-business-card.vercel.app/)
+- Nov 12 - [WorldWideWeb: Proposal for a HyperText Project (1990)](https://www.w3.org/Proposal.html)
+- Nov 12 - [Analyzing Carbon Dioxide levels while attending IETF-115 in London, UK](https://www.isi.edu/~hardaker/news/20221106-ietf-c02-analysis/)
 <!--END_SECTION:hn-->
 
 <!--
