@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 12 - [Tunneling Internet through WhatsApp to get around network data usage limits](https://github.com/aleixrodriala/wa-tunnel)
-- Nov 12 - [Spanner: Google’s Globally-Distributed Database Wins Sigops Hall of Fame Award](https://www.sigops.org/2022/hof-2022/)
-- Nov 12 - [The Next Hot Job: Pretending to Be a Robot (2019)](https://www.wsj.com/articles/the-next-hot-job-pretending-to-be-a-robot-11567224001)
-- Nov 11 - [Notmuch – Just an email system](https://notmuchmail.org/)
-- Nov 11 - [.bestbuy](http://nic.bestbuy/)
+- Nov 12 - [Ghostly is a simple, lightweight, and fast full-stack framework for Golang](https://github.com/Dominic-Wassef/ghostly)
+- Nov 12 - [FTX faces potential hack, sees mysterious outflows totaling more than $600M](https://www.coindesk.com/business/2022/11/12/ftx-crypto-wallets-see-mysterious-late-night-outflows-totalling-more-than-380m/)
+- Nov 12 - [Symbian Source Code Final Repositories from the Defunct Symbian Foundation](https://github.com/SymbianSource/oss.FCL.sf.os.kernelhwsrv)
+- Nov 12 - [On CAD](https://1299651405.com/cad/)
+- Nov 12 - [Mathematician who solved prime-number riddle claims new breakthrough](https://www.nature.com/articles/d41586-022-03689-2)
 <!--END_SECTION:hn-->
 
 <!--
