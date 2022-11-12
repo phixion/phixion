@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 12 - [Ghostly is a simple, lightweight, and fast full-stack framework for Golang](https://github.com/Dominic-Wassef/ghostly)
-- Nov 12 - [FTX faces potential hack, sees mysterious outflows totaling more than $600M](https://www.coindesk.com/business/2022/11/12/ftx-crypto-wallets-see-mysterious-late-night-outflows-totalling-more-than-380m/)
-- Nov 12 - [Symbian Source Code Final Repositories from the Defunct Symbian Foundation](https://github.com/SymbianSource/oss.FCL.sf.os.kernelhwsrv)
-- Nov 12 - [On CAD](https://1299651405.com/cad/)
-- Nov 12 - [Mathematician who solved prime-number riddle claims new breakthrough](https://www.nature.com/articles/d41586-022-03689-2)
+- Nov 12 - [Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote)](https://www.svix.com/careers/)
+- Nov 12 - [In Praise of Plan 9](https://drewdevault.com/2022/11/12/In-praise-of-Plan-9.html)
+- Nov 12 - [FTX investor Sequoia removed its glowing profile of Sam Bankman-Fried](https://www.businessinsider.com/ftx-investor-sequoia-removes-sam-bankman-fried-profile-2022-11)
+- Nov 12 - [ZFSBootMenu – A boot loader to manage ZFS boot environments for Linux](https://zfsbootmenu.org/)
+- Nov 12 - [The NetHack Learning Environment](https://github.com/facebookresearch/nle)
 <!--END_SECTION:hn-->
 
 <!--
