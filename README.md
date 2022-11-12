@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 11 - [Notmuch](https://notmuchmail.org/)
-- Nov 11 - [Fake account and $8 blue checkmark wipe $20B off Eli Lilly's market cap](https://fortune.com/2022/11/11/no-free-insulin-eli-lilly-casualty-of-elon-musk-twitter-blue-verification-mess/)
-- Nov 11 - [Type-Signature.com](https://type-signature.com/)
-- Nov 11 - [Bubbles](https://oimo.io/works/bubbles/)
-- Nov 11 - [Each visit to the page deteriorates the main image](https://crowd-jpeg.vercel.app/)
+- Nov 12 - [Tunneling Internet through WhatsApp to get around network data usage limits](https://github.com/aleixrodriala/wa-tunnel)
+- Nov 12 - [Spanner: Google’s Globally-Distributed Database Wins Sigops Hall of Fame Award](https://www.sigops.org/2022/hof-2022/)
+- Nov 12 - [The Next Hot Job: Pretending to Be a Robot (2019)](https://www.wsj.com/articles/the-next-hot-job-pretending-to-be-a-robot-11567224001)
+- Nov 11 - [Notmuch – Just an email system](https://notmuchmail.org/)
+- Nov 11 - [.bestbuy](http://nic.bestbuy/)
 <!--END_SECTION:hn-->
 
 <!--
