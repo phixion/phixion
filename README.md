@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 11 - [Why Are U.S. Transit Projects So Costly? This Group Is on the Case](https://www.governing.com/finance/why-are-u-s-transit-projects-so-costly-this-group-is-on-the-case)
-- Nov 11 - [Sublime Text 4 Build 4142](https://www.sublimetext.com/blog/articles/sublime-text-4142)
-- Nov 11 - [Opening the North American Charging Standard](https://www.tesla.com/blog/opening-north-american-charging-standard)
-- Nov 11 - [Paperspace (YC W15) is hiring to build a better ML model deployment service](https://www.paperspace.com/careers)
-- Nov 11 - [Demystifying Financial Leverage](https://bam.kalzumeus.com/archive/demystifying-financial-leverage/)
+- Nov 11 - [Notmuch](https://notmuchmail.org/)
+- Nov 11 - [Fake account and $8 blue checkmark wipe $20B off Eli Lilly's market cap](https://fortune.com/2022/11/11/no-free-insulin-eli-lilly-casualty-of-elon-musk-twitter-blue-verification-mess/)
+- Nov 11 - [Type-Signature.com](https://type-signature.com/)
+- Nov 11 - [Bubbles](https://oimo.io/works/bubbles/)
+- Nov 11 - [Each visit to the page deteriorates the main image](https://crowd-jpeg.vercel.app/)
 <!--END_SECTION:hn-->
 
 <!--
