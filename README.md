@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 12 - [California operates the largest, most efficient welfare program in the US](https://philo.substack.com/p/whats-wrong-with-california)
-- Nov 12 - [Surface Pro 9 teardown reveals modular parts, Microsoft’s 2023 repair plans](https://arstechnica.com/gadgets/2022/11/surface-9-pro-teardown-reveals-modular-parts-microsofts-2023-repair-plans/)
-- Nov 12 - [Show HN: A GitHub business card generator](https://github-business-card.vercel.app/)
-- Nov 12 - [WorldWideWeb: Proposal for a HyperText Project (1990)](https://www.w3.org/Proposal.html)
-- Nov 12 - [Analyzing Carbon Dioxide levels while attending IETF-115 in London, UK](https://www.isi.edu/~hardaker/news/20221106-ietf-c02-analysis/)
+- Nov 12 - [How to build a website/shop that cannot be shut down by Law enforcement](https://ipfs.filebase.io/ipfs/QmVSogrzAaRLumnhXjuD9VGN3ViP2SLdPorSM6AaGFKZMt)
+- Nov 12 - [CSS: Has a Parent Selector Now](https://www.wisdomgeek.com/development/web-development/css-has-a-parent-selector-now/)
+- Nov 12 - [It’s getting harder to do a randomized trial for some drugs](https://www.statnews.com/2022/11/03/why-were-not-prepared-for-next-wave-of-biotech-innovation/)
+- Nov 12 - [The world has reached 8B people but soon we'll hit a decline we'll never reverse](https://www.abc.net.au/news/2022-11-13/earths-population-reaches-eight-billion-people/101643854)
+- Nov 12 - [#lang Lua](https://defn.io/2022/11/12/ann-racket-lua/)
 <!--END_SECTION:hn-->
 
 <!--
