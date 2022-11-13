@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 13 - [Social isolation and the brain in the pandemic era](https://www.nature.com/articles/s41562-022-01453-0)
-- Nov 13 - [Mighty is shutting down after 3.5 years](https://twitter.com/suhail/status/1591813110230568963)
-- Nov 13 - [Area 5150, a Reflection](https://scalibq.wordpress.com/2022/09/16/area-5150-a-reflection/)
-- Nov 13 - [Ask HN: I seem to lack personality beyond my work / university. What can I do?](https://news.ycombinator.com/item?id=33583593)
-- Nov 13 - [Building a simple shell in C – Part 3](https://blog.ehoneahobed.com/building-a-simple-shell-in-c-part-3)
+- Nov 13 - [Box Breathing Techniques and Benefits](https://www.verywellmind.com/the-benefits-and-steps-of-box-breathing-4159900)
+- Nov 13 - [A simple, clean and cross-platform music player](https://github.com/martpie/museeks)
+- Nov 13 - [London's forgotten river and the barrister who saved it](https://thelead.uk/londons-forgotten-river-and-barrister-who-saved-it)
+- Nov 13 - [Source code is not enough](https://fuzzypixelz.com/blog/source-code-is-not-enough/)
+- Nov 13 - [AT&T Syntax versus Intel Syntax](https://www.cs.mcgill.ca/~cs573/winter2001/AttLinux_syntax.htm)
 <!--END_SECTION:hn-->
 
 <!--
