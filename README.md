@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 12 - [How to build a website/shop that cannot be shut down by Law enforcement](https://ipfs.filebase.io/ipfs/QmVSogrzAaRLumnhXjuD9VGN3ViP2SLdPorSM6AaGFKZMt)
-- Nov 12 - [CSS: Has a Parent Selector Now](https://www.wisdomgeek.com/development/web-development/css-has-a-parent-selector-now/)
-- Nov 12 - [It’s getting harder to do a randomized trial for some drugs](https://www.statnews.com/2022/11/03/why-were-not-prepared-for-next-wave-of-biotech-innovation/)
-- Nov 12 - [The world has reached 8B people but soon we'll hit a decline we'll never reverse](https://www.abc.net.au/news/2022-11-13/earths-population-reaches-eight-billion-people/101643854)
-- Nov 12 - [#lang Lua](https://defn.io/2022/11/12/ann-racket-lua/)
+- Nov 13 - [Iranian who made Paris airport home for 18 years dies](https://www.bbc.com/news/world-europe-63612017)
+- Nov 13 - [Sequoia on SBF: A Future Trillionaire](https://twitter.com/philbak1/status/1591409852957732864)
+- Nov 13 - [DeviantArt upsets artists with its new AI art generator, DreamUp](https://arstechnica.com/information-technology/2022/11/deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup/)
+- Nov 13 - [From Plex to Jellyfin Media Server](https://www.ctrl.blog/entry/jellyfin-vs-plex.html)
+- Nov 13 - [VNA6000 6GHz Portable Vector Network Analyzer](https://www.tindie.com/products/hcxqsgroup/nanorfe-vna6000/)
 <!--END_SECTION:hn-->
 
 <!--
