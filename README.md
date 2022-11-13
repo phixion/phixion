@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 13 - [Pulse Browser – An experimental Firefox fork](https://pulsebrowser.app/)
-- Nov 13 - [How to hack the simulation?](https://www.researchgate.net/publication/364811408_How_to_Hack_the_Simulation)
-- Nov 13 - [What do numbers look like?](https://johnhw.github.io/umap_primes/index.md.html)
-- Nov 13 - [Euclidean rhythms](https://observablehq.com/@toja/euclidean-rhythms)
-- Nov 13 - [Why does calloc exist? (2016)](https://vorpus.org/blog/why-does-calloc-exist/)
+- Nov 13 - [Tesorio (YC S15) Is Hiring a Product Manager and Senior Front End Engineer](https://www.tesorio.com/careers#job-openings)
+- Nov 13 - [The Case for Abolishing Elections](https://www.bostonreview.net/articles/the-case-for-abolishing-elections/)
+- Nov 13 - [Build Your Own Text Editor (2017)](https://viewsourcecode.org/snaptoken/kilo/)
+- Nov 13 - [Layoff spree in Silicon Valley spells end of an era for Big Tech](https://www.washingtonpost.com/technology/2022/11/12/tech-facebook-twitter-layoffs-dotcom/)
+- Nov 13 - [How to use your DSLR from 2008 as a webcam in 2022 (NixOS)](https://www.tomoliver.net/posts/using-an-slr-as-a-webcam-nixos)
 <!--END_SECTION:hn-->
 
 <!--
