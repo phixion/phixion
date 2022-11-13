@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 13 - [Tesorio (YC S15) Is Hiring a Product Manager and Senior Front End Engineer](https://www.tesorio.com/careers#job-openings)
-- Nov 13 - [The Case for Abolishing Elections](https://www.bostonreview.net/articles/the-case-for-abolishing-elections/)
-- Nov 13 - [Build Your Own Text Editor (2017)](https://viewsourcecode.org/snaptoken/kilo/)
-- Nov 13 - [Layoff spree in Silicon Valley spells end of an era for Big Tech](https://www.washingtonpost.com/technology/2022/11/12/tech-facebook-twitter-layoffs-dotcom/)
-- Nov 13 - [How to use your DSLR from 2008 as a webcam in 2022 (NixOS)](https://www.tomoliver.net/posts/using-an-slr-as-a-webcam-nixos)
+- Nov 13 - [Social isolation and the brain in the pandemic era](https://www.nature.com/articles/s41562-022-01453-0)
+- Nov 13 - [Mighty is shutting down after 3.5 years](https://twitter.com/suhail/status/1591813110230568963)
+- Nov 13 - [Area 5150, a Reflection](https://scalibq.wordpress.com/2022/09/16/area-5150-a-reflection/)
+- Nov 13 - [Ask HN: I seem to lack personality beyond my work / university. What can I do?](https://news.ycombinator.com/item?id=33583593)
+- Nov 13 - [Building a simple shell in C – Part 3](https://blog.ehoneahobed.com/building-a-simple-shell-in-c-part-3)
 <!--END_SECTION:hn-->
 
 <!--
