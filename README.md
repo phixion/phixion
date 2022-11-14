@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 13 - [Box Breathing Techniques and Benefits](https://www.verywellmind.com/the-benefits-and-steps-of-box-breathing-4159900)
+- Nov 13 - [Scrutiny – A WebUI for smartd S.M.A.R.T monitoring (written in Go)](https://github.com/AnalogJ/scrutiny)
+- Nov 13 - [OneSignal (YC S11) Is Hiring Product Engineers](https://onesignal.com/careers/1d573829-e95f-4aa3-a5b0-8f2080b21b65)
+- Nov 13 - [Just how complicated could it be to register a German company?](https://major-grooves.medium.com/just-how-complicated-could-it-be-to-register-a-german-company-e5eb6e50db79)
+- Nov 13 - [Box breathing techniques and benefits](https://www.verywellmind.com/the-benefits-and-steps-of-box-breathing-4159900)
 - Nov 13 - [A simple, clean and cross-platform music player](https://github.com/martpie/museeks)
-- Nov 13 - [London's forgotten river and the barrister who saved it](https://thelead.uk/londons-forgotten-river-and-barrister-who-saved-it)
-- Nov 13 - [Source code is not enough](https://fuzzypixelz.com/blog/source-code-is-not-enough/)
-- Nov 13 - [AT&T Syntax versus Intel Syntax](https://www.cs.mcgill.ca/~cs573/winter2001/AttLinux_syntax.htm)
 <!--END_SECTION:hn-->
 
 <!--
