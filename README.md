@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 14 - [Codeberg is moving and what this means to you](https://blog.codeberg.org/codeberg-is-moving-and-what-this-means-to-you.html)
-- Nov 14 - [Bob CD](https://bob-cd.github.io/)
-- Nov 14 - [Stacker (YC S20) – Hiring Product Engineers and Senior Product Designer](https://www.stackerhq.com/careers#job-listing)
-- Nov 14 - [Meta fires a software engineer two days after he relocated from India to Canada](https://www.businessinsider.com/meta-employee-fired-two-days-after-moving-to-canada-post-2022-11)
-- Nov 14 - [“When we all have pocket telephones”](https://www.openculture.com/2022/08/when-we-all-have-pocket-telephones.html)
+- Nov 14 - [Kanaye Nagasawa: The samurai who forever changed California](https://www.bbc.com/travel/article/20221113-kanaye-nagasawa-the-samurai-who-forever-changed-california)
+- Nov 14 - [Tesla rival Rivian posts losses of $1.7B, with worse to come](https://www.theregister.com/2022/11/10/rivian_q3_losses/)
+- Nov 14 - [Scaling Mastodon Is Impossible](https://lucumr.pocoo.org/2022/11/14/scaling-mastodon/)
+- Nov 14 - [Narratives](https://stratechery.com/2022/narratives/)
+- Nov 14 - [Making a Go program 70% faster with a one character change](https://hmarr.com/blog/go-allocation-hunting/)
 <!--END_SECTION:hn-->
 
 <!--
