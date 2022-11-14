@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 14 - [Kanaye Nagasawa: The samurai who forever changed California](https://www.bbc.com/travel/article/20221113-kanaye-nagasawa-the-samurai-who-forever-changed-california)
-- Nov 14 - [Tesla rival Rivian posts losses of $1.7B, with worse to come](https://www.theregister.com/2022/11/10/rivian_q3_losses/)
-- Nov 14 - [Scaling Mastodon Is Impossible](https://lucumr.pocoo.org/2022/11/14/scaling-mastodon/)
-- Nov 14 - [Narratives](https://stratechery.com/2022/narratives/)
-- Nov 14 - [Making a Go program 70% faster with a one character change](https://hmarr.com/blog/go-allocation-hunting/)
+- Nov 14 - [Show HN: DivestOS, long term support for end-of-life Android devices](https://divestos.org)
+- Nov 14 - [Man ends 20-year Llandegley airport sign joke that cost £25k](https://www.bbc.com/news/uk-wales-63600184)
+- Nov 14 - [Show HN: Science fiction inspired by an HN thread (5 min read)](https://davidlaprade.github.io/your-dietbet-destroyed-the-world)
+- Nov 14 - [FTX’s balance sheet was bad](https://www.bloomberg.com/opinion/articles/2022-11-14/ftx-s-balance-sheet-was-bad)
+- Nov 14 - [Which one of these will be the biggest “unicorn” failure ever?](https://statmodeling.stat.columbia.edu/2022/11/14/which-one-of-these-will-be-the-biggest-unicorn-failure-ever/)
 <!--END_SECTION:hn-->
 
 <!--
