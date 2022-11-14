@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 14 - [The Community Corrosive Effects of CLAs](https://blog.hansenpartnership.com/the-community-corrosive-effects-of-clas/)
-- Nov 14 - [In Memory of Betty Burke (Founding Exec Director of NANOG)](https://www.nanog.org/stories/in-memory-of-betty-burke/)
-- Nov 14 - [You could own a 555-XXXX phone number but Verizon charged you $2,500 to use it](https://lookify.io/blog/555-phone-number)
-- Nov 14 - [Starlink User Terminal Modchip](https://github.com/KULeuven-COSIC/Starlink-FI)
-- Nov 14 - [OpenBSD: Immutable Userland Mappings](https://marc.info/?l=openbsd-tech&m=166203784715942)
+- Nov 14 - [Get me off Your Fucking Mailing List (2014) [pdf]](https://www.scs.stanford.edu/~dm/home/papers/remove.pdf)
+- Nov 14 - [Education as civilization-building](https://fchollet.substack.com/p/education-as-civilization-building)
+- Nov 14 - [Mass of Transactions Leaving Crypto.com Wallets](https://thechainsaw.com/defi/crypto/mass-of-transactions-leaving-crypto-com-wallets/)
+- Nov 14 - [Rust and C++ Interoperability](https://slint-ui.com/blog/rust-and-cpp.html)
+- Nov 14 - [Spy agency uses 'computer network exploitation' to take digital information](https://www.rnz.co.nz/news/national/478715/spy-agency-uses-computer-network-exploitation-to-take-digital-information)
 <!--END_SECTION:hn-->
 
 <!--
