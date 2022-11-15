@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 15 - [Fly.io (YC W20) Is Hiring Ops Engineers](https://fly.io/jobs/infrastructure-ops-engineering/)
-- Nov 15 - [Four Years of Sourcehut](https://sourcehut.org/blog/2022-11-15-four-years/)
-- Nov 15 - [The sinister attempts to ‘decolonise’ mathematics](https://www.spectator.co.uk/article/the-sinister-attempts-to-decolonise-mathematics/)
-- Nov 15 - [The history of the domestic cat in Central Europe](https://www.cambridge.org/core/journals/antiquity/article/history-of-the-domestic-cat-in-central-europe/310159D75603E48DE19A357A65894AA0)
-- Nov 15 - [What Happened at Alameda Research](https://milkyeggs.com/?p=175)
+- Nov 15 - [Launch HN: Activeloop (YC S18) – Data lake for deep learning](https://news.ycombinator.com/item?id=33610834)
+- Nov 15 - [Berkshire Hathaway bought a $4.1B stake in Apple chipmaker TSMC](https://9to5mac.com/2022/11/15/berkshire-hathaway-bought/)
+- Nov 15 - [Vast Majority of People Who Invest in Bitcoin Inevitably Lose Money, Study Shows](https://gizmodo.com/bitcoin-crypto-bank-of-international-settlements-1849784466)
+- Nov 15 - [Canada police charge Hydro-Quebec employee with China espionage](https://www.bbc.com/news/world-us-canada-63631933)
+- Nov 15 - [The Gut Microbiome Helps Social Skills Develop in the Brain](https://www.quantamagazine.org/the-gut-microbiome-helps-social-skills-develop-in-the-brain-20221115/)
 <!--END_SECTION:hn-->
 
 <!--
