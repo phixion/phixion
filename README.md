@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 14 - [Show HN: DivestOS, long term support for end-of-life Android devices](https://divestos.org)
-- Nov 14 - [Man ends 20-year Llandegley airport sign joke that cost £25k](https://www.bbc.com/news/uk-wales-63600184)
-- Nov 14 - [Show HN: Science fiction inspired by an HN thread (5 min read)](https://davidlaprade.github.io/your-dietbet-destroyed-the-world)
-- Nov 14 - [FTX’s balance sheet was bad](https://www.bloomberg.com/opinion/articles/2022-11-14/ftx-s-balance-sheet-was-bad)
-- Nov 14 - [Which one of these will be the biggest “unicorn” failure ever?](https://statmodeling.stat.columbia.edu/2022/11/14/which-one-of-these-will-be-the-biggest-unicorn-failure-ever/)
+- Nov 14 - [Chess, but moves are simultaneous](https://chess2.fun)
+- Nov 14 - [Ukraïnśka Latynka](https://github.com/paiv/latynka)
+- Nov 14 - [PayPal Inactivity Fee](https://www.paypal.com/re/smarthelp/article/what-is-the-inactivity-fee-(eu-countries)-faq4427)
+- Nov 14 - [Logistics of biking 9833 miles in 409 days](https://www.peterispedaling.com/blog/wrap-up-trip-logistics)
+- Nov 14 - [Topology, a Categorical Approach](https://topology.mitpress.mit.edu/)
 <!--END_SECTION:hn-->
 
 <!--
