@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 15 - [There exists a book dedicated to explaining how to use a single React function](https://twitter.com/tomaka17/status/1377302768713629704)
-- Nov 15 - [People living on Earth – All on this page, one by one](https://www.worldometers.info/watch/world-population/)
-- Nov 15 - [Giant satellite outshines stars, sparking fresh concerns for astronomers](https://www.science.org/content/article/giant-satellite-outshines-stars-sparking-fresh-concerns-astronomers)
-- Nov 15 - [Newton's Philosophy](https://plato.stanford.edu/entries/newton-philosophy/)
-- Nov 15 - [Machine Learning with Unix Pipes](https://jott.live/markdown/ml_pipes)
+- Nov 15 - [Fly.io (YC W20) Is Hiring Ops Engineers](https://fly.io/jobs/infrastructure-ops-engineering/)
+- Nov 15 - [Four Years of Sourcehut](https://sourcehut.org/blog/2022-11-15-four-years/)
+- Nov 15 - [The sinister attempts to ‘decolonise’ mathematics](https://www.spectator.co.uk/article/the-sinister-attempts-to-decolonise-mathematics/)
+- Nov 15 - [The history of the domestic cat in Central Europe](https://www.cambridge.org/core/journals/antiquity/article/history-of-the-domestic-cat-in-central-europe/310159D75603E48DE19A357A65894AA0)
+- Nov 15 - [What Happened at Alameda Research](https://milkyeggs.com/?p=175)
 <!--END_SECTION:hn-->
 
 <!--
