@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 16 - [GiveCampus (YC S15) Is Hiring senior engineers to support schools](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- Nov 16 - [Building a Private Lora Network](https://os.mbed.com/docs/mbed-os/v6.15/apis/LoRa-tutorial.html)
-- Nov 16 - [But, aren't you folks web2?](https://nadh.in/blog/web2-web3/)
-- Nov 16 - [Erik Hoel on Effective Altruism, Utilitarianism, and the Repugnant Conclusion](https://simplecast.econtalk.org/episodes/erik-hoel-on-effective-altruism-utilitarianism-and-the-repugnant-conclusion)
-- Nov 16 - [GPS does not account for leap seconds (by design)](http://leapsecond.com/java/gpsclock.htm)
+- Nov 16 - [Sinclair ZX Spectrum (bundled) basic programming book [pdf]](http://zxnext.narod.ru/manuals/Basic_Programming.pdf)
+- Nov 16 - [Psychological and Psychiatric Terms to Avoid](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.01100/full)
+- Nov 16 - [Who needs MLflow when you have SQLite?](https://ploomber.io/blog/experiment-tracking/)
+- Nov 16 - [Peacetime CEO / Wartime CEO (2011)](https://future.com/peacetime-ceo-wartime-ceo/)
+- Nov 16 - [Cracking Passwords Using John the Ripper](https://stealthsecurity.io/cracking-passwords-using-john-the-ripper-977943d7ab38)
 <!--END_SECTION:hn-->
 
 <!--
