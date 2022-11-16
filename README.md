@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 16 - [Sinclair ZX Spectrum (bundled) basic programming book [pdf]](http://zxnext.narod.ru/manuals/Basic_Programming.pdf)
-- Nov 16 - [Psychological and Psychiatric Terms to Avoid](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.01100/full)
-- Nov 16 - [Who needs MLflow when you have SQLite?](https://ploomber.io/blog/experiment-tracking/)
-- Nov 16 - [Peacetime CEO / Wartime CEO (2011)](https://future.com/peacetime-ceo-wartime-ceo/)
-- Nov 16 - [Cracking Passwords Using John the Ripper](https://stealthsecurity.io/cracking-passwords-using-john-the-ripper-977943d7ab38)
+- Nov 16 - [Show HN: Pomodoro Timer with Friends](https://pomochat.com)
+- Nov 16 - [Infosys leaked FullAdminAccess AWS keys on PyPI for over a year](https://tomforb.es/infosys-leaked-fulladminaccess-aws-keys-on-pypi-for-over-a-year/)
+- Nov 16 - [Why is the terminal input so weird?](https://www.warp.dev/blog/why-is-the-terminal-input-so-weird)
+- Nov 16 - [SQLite Release 3.40.0](https://www.sqlite.org/releaselog/3_40_0.html)
+- Nov 16 - [A small fleet of CubeStats joins three mannequins, fungus, algae on Artemis-1](https://spectrum.ieee.org/nasa-artemis-science)
 <!--END_SECTION:hn-->
 
 <!--
