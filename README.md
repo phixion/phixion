@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 16 - [NASA – Artemis I Liftoff](https://blogs.nasa.gov/artemis/2022/11/16/artemis-i-liftoff/)
-- Nov 16 - [Deliveroo is leaving Australia](https://www.abc.net.au/news/2022-11-16/deliveroo-enters-voluntary-administration/101661932)
-- Nov 16 - [Topology Without Tears](https://www.topologywithouttears.net/)
-- Nov 16 - [The good delusion: has effective altruism broken bad?](https://www.economist.com/1843/2022/11/15/the-good-delusion-has-effective-altruism-broken-bad)
-- Nov 16 - [Pakistan's lost city of 40k people](https://www.bbc.com/travel/article/20221114-pakistans-lost-city-of-40000-people)
+- Nov 16 - [GiveCampus (YC S15) Is Hiring senior engineers to support schools](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+- Nov 16 - [Building a Private Lora Network](https://os.mbed.com/docs/mbed-os/v6.15/apis/LoRa-tutorial.html)
+- Nov 16 - [But, aren't you folks web2?](https://nadh.in/blog/web2-web3/)
+- Nov 16 - [Erik Hoel on Effective Altruism, Utilitarianism, and the Repugnant Conclusion](https://simplecast.econtalk.org/episodes/erik-hoel-on-effective-altruism-utilitarianism-and-the-repugnant-conclusion)
+- Nov 16 - [GPS does not account for leap seconds (by design)](http://leapsecond.com/java/gpsclock.htm)
 <!--END_SECTION:hn-->
 
 <!--
