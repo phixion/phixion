@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 15 - [Digital Books wear out faster than Physical Books](http://blog.archive.org/2022/11/15/digital-books-wear-out-faster-than-physical-books/)
-- Nov 15 - [Show HN: Paid job search? Are you nuts?”](https://usemassive.com/matches)
-- Nov 15 - [Why the Bucks Can’t Wear Cream Uniforms Anymore](https://paullukas.substack.com/p/exclusive-the-inside-story-of-why)
-- Nov 15 - [NYPD Arrests Cyclist for Uncovering Obscured License Plate, Lets Driver Go](https://jalopnik.com/nypd-arrests-cyclist-lets-driver-go-ghost-car-1849785539)
-- Nov 15 - [Charge Robotics (YC S21) is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
+- Nov 16 - [The fall of Sam Bankman-Fried is crypto’s Enron moment](https://spectatorworld.com/topic/sam-bankman-fried-crypto-enron-moment/)
+- Nov 16 - [The good delusion: has effective altruism broken bad?](https://www.economist.com/1843/2022/11/15/the-good-delusion-has-effective-altruism-broken-bad)
+- Nov 16 - [Pakistan's lost city of 40k people](https://www.bbc.com/travel/article/20221114-pakistans-lost-city-of-40000-people)
+- Nov 15 - [Digital books wear out faster than physical books](http://blog.archive.org/2022/11/15/digital-books-wear-out-faster-than-physical-books/)
+- Nov 15 - [The Bucks can’t wear cream uniforms because they interfere with digital ads](https://paullukas.substack.com/p/exclusive-the-inside-story-of-why)
 <!--END_SECTION:hn-->
 
 <!--
