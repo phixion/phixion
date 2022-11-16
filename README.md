@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 15 - [Good Old Fashioned AI is dead, long live New-Fangled AI](https://billwadge.com/2022/11/13/gofai-is-dead-long-live-nf-ai/)
-- Nov 15 - [Activision Blizzard Is Trying to Stop a Union Vote at Its Albany Office](https://www.vice.com/en/article/pkgv48/activision-blizzard-is-trying-to-stop-a-union-vote-at-its-albany-office)
-- Nov 15 - [Show HN: The German Job Market Is Crashing](https://jobmarketanalytics.com/#months=%2212%22&technology=%5B%22Java%22%2C%22Python%22%2C%22SQL%22%5D)
-- Nov 15 - [Adding a hinge to a Game Boy that God never intended](https://posts.decontextualize.com/pocket-sp/)
-- Nov 15 - [Divers Accidentally Find a Piece of the Challenger Space Shuttle](https://www.smithsonianmag.com/smart-news/divers-accidentally-find-a-piece-of-the-challenger-space-shuttle-180981121/)
+- Nov 15 - [Digital Books wear out faster than Physical Books](http://blog.archive.org/2022/11/15/digital-books-wear-out-faster-than-physical-books/)
+- Nov 15 - [Show HN: Paid job search? Are you nuts?”](https://usemassive.com/matches)
+- Nov 15 - [Why the Bucks Can’t Wear Cream Uniforms Anymore](https://paullukas.substack.com/p/exclusive-the-inside-story-of-why)
+- Nov 15 - [NYPD Arrests Cyclist for Uncovering Obscured License Plate, Lets Driver Go](https://jalopnik.com/nypd-arrests-cyclist-lets-driver-go-ghost-car-1849785539)
+- Nov 15 - [Charge Robotics (YC S21) is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
 <!--END_SECTION:hn-->
 
 <!--
