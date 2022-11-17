@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 16 - [Show HN: Pomodoro Timer with Friends](https://pomochat.com)
-- Nov 16 - [Infosys leaked FullAdminAccess AWS keys on PyPI for over a year](https://tomforb.es/infosys-leaked-fulladminaccess-aws-keys-on-pypi-for-over-a-year/)
-- Nov 16 - [Why is the terminal input so weird?](https://www.warp.dev/blog/why-is-the-terminal-input-so-weird)
-- Nov 16 - [SQLite Release 3.40.0](https://www.sqlite.org/releaselog/3_40_0.html)
-- Nov 16 - [A small fleet of CubeStats joins three mannequins, fungus, algae on Artemis-1](https://spectrum.ieee.org/nasa-artemis-science)
+- Nov 16 - [Nothing has ever angered me more than The Google Play Team](https://danfitdegree.hashnode.dev/nothing-has-ever-angered-me-more-than-the-google-play-team)
+- Nov 16 - [Reconstructing images a person sees via non-invasive brain scans](https://mind-vis.github.io/)
+- Nov 16 - [Nvidia Earning Results Q3 2023](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2023)
+- Nov 16 - [Meticulous (YC S21) is hiring engineer #3 in London](https://news.ycombinator.com/item?id=33630503)
+- Nov 16 - [CPSC calls for full recall of all Onewheel self-balancing electric skateboards](https://www.cpsc.gov/Newsroom/News-Releases/2023/CPSC-Warns-Consumers-to-Stop-Using-Onewheel-Self-Balancing-Electric-Skateboards-Due-to-Ejection-Hazard-At-Least-Four-Deaths-and-Multiple-Injuries-Reported)
 <!--END_SECTION:hn-->
 
 <!--
