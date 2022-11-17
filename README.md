@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 17 - [Automating the detection of geographic and temporal features](https://github.com/jataware/cartwright)
-- Nov 17 - [Aerobic Activity Can Reduce Risk of Metastatic Cancer by 72%](https://english.tau.ac.il/exercise_defeats_cancer_2022)
-- Nov 17 - [Air Force, FBI raid homes in probe of Area 51 website](https://www.reviewjournal.com/news/military/air-force-fbi-raid-homes-in-probe-of-area-51-website-2677764/)
-- Nov 17 - [Cisco Reportedly Lays Off over 4k](https://www.forbes.com/sites/brianbushard/2022/11/17/cisco-reportedly-lays-off-over-4000-here-are-the-biggest-us-job-cuts-this-year/)
-- Nov 17 - [Awesome Node-Based UIs](https://github.com/wbkd/awesome-node-based-uis)
+- Nov 17 - [Ask HN: Does GDPR and CCPA Apply to Hacker News?](https://news.ycombinator.com/item?id=33644336)
+- Nov 17 - [Show HN: SingleFile is finally available on Safari (macOS/iOS)](https://apps.apple.com/us/app/singlefile-for-safari/id6444322545)
+- Nov 17 - [GitHub Copilot isn't worth the risk](https://www.kolide.com/blog/github-copilot-isn-t-worth-the-risk)
+- Nov 17 - [Security concerns with the e-Tugra certificate authority](https://ian.sh/etugra)
+- Nov 17 - [Show HN: I finished my site for daily dogbunny puzzles, as I promised on HN](https://dogbunnypuzzle.com/)
 <!--END_SECTION:hn-->
 
 <!--
