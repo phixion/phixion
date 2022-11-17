@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 16 - [Nothing has ever angered me more than The Google Play Team](https://danfitdegree.hashnode.dev/nothing-has-ever-angered-me-more-than-the-google-play-team)
-- Nov 16 - [Reconstructing images a person sees via non-invasive brain scans](https://mind-vis.github.io/)
-- Nov 16 - [Nvidia Earning Results Q3 2023](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2023)
-- Nov 16 - [Meticulous (YC S21) is hiring engineer #3 in London](https://news.ycombinator.com/item?id=33630503)
-- Nov 16 - [CPSC calls for full recall of all Onewheel self-balancing electric skateboards](https://www.cpsc.gov/Newsroom/News-Releases/2023/CPSC-Warns-Consumers-to-Stop-Using-Onewheel-Self-Balancing-Electric-Skateboards-Due-to-Ejection-Hazard-At-Least-Four-Deaths-and-Multiple-Injuries-Reported)
+- Nov 17 - [The Near Future of AI is Action-Driven and it will look a lot like AGI](https://jmcdonnell.substack.com/p/the-near-future-of-ai-is-action-driven)
+- Nov 17 - [My ADHD founder toolbox](https://hypatia.ca/2022/03/03/my-adhd-founder-toolbox/)
+- Nov 16 - [How did Cole factor 2^67−1 in 1903?](https://mathoverflow.net/questions/207321/how-did-cole-factor-267-1-in-1903)
+- Nov 16 - [AI found a bug in my code](https://joel.tools/codegen/)
+- Nov 16 - [Two weeks of dealing with Google as a developer](https://danfitdegree.hashnode.dev/nothing-has-ever-angered-me-more-than-the-google-play-team)
 <!--END_SECTION:hn-->
 
 <!--
