@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 18 - [Free Ross Ulbricht](https://freeross.org)
+- Nov 18 - [Get answers for Shell Commands from GPT3 right from your terminal](https://github.com/abhagsain/ai-cli)
+- Nov 18 - [Breaking BIOS: enabling VT-x virtualization support on Acer Aspire One netbook](https://sudonull.com/post/137275-Breaking-BIOS-enabling-VT-x-virtualization-support-on-Acer-Aspire-One-netbook)
 - Nov 18 - [The “je ne sais quoi” of TikTok](https://daniel.do/article/the-je-ne-sais-quoi-of-tiktok/)
-- Nov 18 - [Fred P. Brooks has passed away](https://twitter.com/stevebellovin/status/1593414068634734592)
-- Nov 18 - [Researchers Quietly Cracked Zeppelin Ransomware Keys](https://krebsonsecurity.com/2022/11/researchers-quietly-cracked-zeppelin-ransomware-keys/)
-- Nov 18 - [I drink before I interview](https://news.ycombinator.com/item?id=33649167)
-- Nov 18 - [How safe is ayahuasca? Large-scale study explores](https://www.technologynetworks.com/biopharma/news/how-safe-is-ayahuasca-large-scale-study-explores-367665)
+- Nov 18 - [Fred Brooks has died](https://twitter.com/stevebellovin/status/1593414068634734592)
 <!--END_SECTION:hn-->
 
 <!--
