@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 18 - [Emerge Tools (YC W21) is hiring to build the future of mobile development](https://www.ycombinator.com/companies/emerge-tools/jobs/5Y3MCJi-senior-mobile-engineer)
-- Nov 18 - [Ask HN: What made you finally grok Git?](https://news.ycombinator.com/item?id=33653212)
-- Nov 18 - [Warren Buffet and Charlie Munger on crypto in 2018. nailed it](https://twitter.com/stephen_geiger/status/1591502421129416706)
-- Nov 18 - [India follows EU's example in requiring USB-C charging for smart devices](https://www.theregister.com/2022/11/18/india_usb_c_requirements/)
-- Nov 18 - [Google’s Go Style Guide](https://google.github.io/styleguide/go/)
+- Nov 18 - [Exec who cleaned up Enron calls FTX mess 'unprecedented'](https://apnews.com/article/ftx-trading-former-ceo-d2c2b881dc0eb0ec37b454674f446b52)
+- Nov 18 - [Show HN: Posterity Automations – Get things done from the afterlife](https://posterity.life/automations/)
+- Nov 18 - [Earth now weighs six ronnagrams: New metric prefixes voted in](https://phys.org/news/2022-11-earth-ronnagrams-metric-prefixes-voted.html)
+- Nov 18 - [Map of the Universe](https://mapoftheuniverse.net/)
+- Nov 18 - [Red meat is not a health risk. New study slams years of shoddy research](https://bigthink.com/health/red-meat-cancer-not-health-risk/)
 <!--END_SECTION:hn-->
 
 <!--
