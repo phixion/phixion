@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 17 - [Ask HN: Does GDPR and CCPA Apply to Hacker News?](https://news.ycombinator.com/item?id=33644336)
-- Nov 17 - [Show HN: SingleFile is finally available on Safari (macOS/iOS)](https://apps.apple.com/us/app/singlefile-for-safari/id6444322545)
-- Nov 17 - [GitHub Copilot isn't worth the risk](https://www.kolide.com/blog/github-copilot-isn-t-worth-the-risk)
-- Nov 17 - [Security concerns with the e-Tugra certificate authority](https://ian.sh/etugra)
-- Nov 17 - [Show HN: I finished my site for daily dogbunny puzzles, as I promised on HN](https://dogbunnypuzzle.com/)
+- Nov 17 - [(Mail) hardening your unused domains](https://www.mailhardener.com/kb/hardening-unused-domains)
+- Nov 17 - [Kodable (YC IK12) Is Hiring a Full Stack Engineer to help us teach kids to code](https://www.indeed.com/job/full-stack-engineer-c4948f7319bbd2f4?_ga=2.104740672.1378721118.1668634777-1229181858.1666896160)
+- Nov 17 - [Languages Pre-Fortran](https://craftofcoding.wordpress.com/2022/11/04/languages-pre-fortran/)
+- Nov 17 - [Show HN: I am building a new Python library to read/write PDF files](https://github.com/desgeeko/pdfsyntax)
+- Nov 17 - [Amazon CEO Andy Jassy says layoffs will continue into next year](https://www.cnbc.com/2022/11/17/amazon-ceo-andy-jassy-says-layoffs-will-continue-into-next-year.html)
 <!--END_SECTION:hn-->
 
 <!--
