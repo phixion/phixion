@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 18 - [Free Ross Ulbricht](https://freeross.org)
-- Nov 18 - [Get answers for Shell Commands from GPT3 right from your terminal](https://github.com/abhagsain/ai-cli)
-- Nov 18 - [Breaking BIOS: enabling VT-x virtualization support on Acer Aspire One netbook](https://sudonull.com/post/137275-Breaking-BIOS-enabling-VT-x-virtualization-support-on-Acer-Aspire-One-netbook)
-- Nov 18 - [The “je ne sais quoi” of TikTok](https://daniel.do/article/the-je-ne-sais-quoi-of-tiktok/)
-- Nov 18 - [Fred Brooks has died](https://twitter.com/stevebellovin/status/1593414068634734592)
+- Nov 18 - [Emerge Tools (YC W21) is hiring to build the future of mobile development](https://www.ycombinator.com/companies/emerge-tools/jobs/5Y3MCJi-senior-mobile-engineer)
+- Nov 18 - [Ask HN: What made you finally grok Git?](https://news.ycombinator.com/item?id=33653212)
+- Nov 18 - [Warren Buffet and Charlie Munger on crypto in 2018. nailed it](https://twitter.com/stephen_geiger/status/1591502421129416706)
+- Nov 18 - [India follows EU's example in requiring USB-C charging for smart devices](https://www.theregister.com/2022/11/18/india_usb_c_requirements/)
+- Nov 18 - [Google’s Go Style Guide](https://google.github.io/styleguide/go/)
 <!--END_SECTION:hn-->
 
 <!--
