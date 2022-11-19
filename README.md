@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 18 - [Faceless Clock Makes Your Think Twice About How It Works](https://hackaday.com/2022/11/18/faceless-clock-makes-your-think-twice-about-how-it-works/)
-- Nov 18 - [NASA Declines to Rename JWST](https://www.nasa.gov/feature/nasa-shares-james-webb-history-report/)
-- Nov 18 - [Ask HN: Will Google Ever Launch a Successful New Product Again?](https://news.ycombinator.com/item?id=33659737)
-- Nov 18 - [Subreply](https://subreply.com/trending)
-- Nov 18 - [Carvana to Cut 1,500 Jobs as Online Auto Dealer’s Troubles Mount](https://www.bloomberg.com/news/articles/2022-11-18/carvana-says-it-will-cut-1-500-jobs-as-company-s-troubles-mount)
+- Nov 18 - [es4x, a server framework on top of GraalJS and Vert.x](https://reactiverse.io/es4x/)
+- Nov 18 - [The Centipede’s Dilemma](https://en.wikipedia.org/wiki/The_Centipede%27s_Dilemma)
+- Nov 18 - [Show HN: I made a free transcription service powered by Whisper AI](https://freesubtitles.ai)
+- Nov 18 - [Elizabeth Holmes is sentenced to more than 11 years for fraud](https://www.nytimes.com/2022/11/18/technology/elizabeth-holmes-sentence-theranos.html)
+- Nov 18 - [Fast Typesetting with Incremental Compilation [pdf]](https://www.user.tu-berlin.de/mhaug/fast-typesetting-incremental-compilation.pdf)
 <!--END_SECTION:hn-->
 
 <!--
