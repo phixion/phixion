@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 18 - [es4x, a server framework on top of GraalJS and Vert.x](https://reactiverse.io/es4x/)
-- Nov 18 - [The Centipede’s Dilemma](https://en.wikipedia.org/wiki/The_Centipede%27s_Dilemma)
-- Nov 18 - [Show HN: I made a free transcription service powered by Whisper AI](https://freesubtitles.ai)
-- Nov 18 - [Elizabeth Holmes is sentenced to more than 11 years for fraud](https://www.nytimes.com/2022/11/18/technology/elizabeth-holmes-sentence-theranos.html)
-- Nov 18 - [Fast Typesetting with Incremental Compilation [pdf]](https://www.user.tu-berlin.de/mhaug/fast-typesetting-incremental-compilation.pdf)
+- Nov 19 - [Software Mimicry](https://www.hillelwayne.com/post/software-mimicry/)
+- Nov 19 - [How to Sell Tickets Fairly](https://barnabas.me/blog/2022/11/selling-tickets-fairly/)
+- Nov 19 - [Solving Puzzles with Hypothesis](https://edoput.it/2022/11/18/hypothesis.html)
+- Nov 19 - [$477M FTX ‘hack’ was a Bahamian government asset seizure](https://www.marketwatch.com/story/supposed-477-million-ftx-hack-was-actually-a-bahamian-government-asset-seizure-11668782216)
+- Nov 18 - [How Windows decide whether your computer has limited or full Internet access](https://devblogs.microsoft.com/oldnewthing/20221115-00/?p=107399)
 <!--END_SECTION:hn-->
 
 <!--
