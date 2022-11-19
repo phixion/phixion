@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 19 - [Capsule (YC S22) is hiring a computer vision AI / machine learning intern](https://www.workatastartup.com/jobs/56676)
-- Nov 19 - [The Mystery Blips](https://mosquitocapital.substack.com/p/the-mystery-blips)
-- Nov 19 - [The truffle industry is a big scam, not just truffle oil, everything](https://www.tasteatlas.com/truffle-industry-is-a-big-scam)
-- Nov 19 - [Show HN: Firefox Addon to Filter NSFW Content](https://addons.mozilla.org/en-US/firefox/addon/wingman-jr-filter/)
-- Nov 19 - [Tree views in CSS](https://iamkate.com/code/tree-views/)
+- Nov 19 - [TinyBIOS – A minimalist open-source BIOS project for fun](https://github.com/pwk4m1/TinyBIOS)
+- Nov 19 - [Latam Airlines Airbus A320neo hits fire engine on runway during take-off](https://www.aviation24.be/airlines/latam/airbus-a320neo-hits-vehicle-on-runway-during-take-off-roll/)
+- Nov 19 - [Redbean Tiddlywiki Saver](https://rpdillon.net/redbean-tiddlywiki-saver.html)
+- Nov 19 - [Show HN: A Browser-Based First Programming Language – Easier Than Python](https://easylang.online/ide/#tut=1)
+- Nov 19 - [HelenOS a microkernel-based, multiserver OS from scratch](https://github.com/HelenOS/helenos)
 <!--END_SECTION:hn-->
 
 <!--
