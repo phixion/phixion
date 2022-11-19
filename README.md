@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 19 - [Tell HN: Cloudflare Is Blocking Piped](https://news.ycombinator.com/item?id=33667236)
-- Nov 19 - [Quake 1 port for Apple Watch](https://github.com/ByteOverlord/Watch_Quake)
-- Nov 19 - [Reverse-mode algorithmic differentiation using effect handlers in OCaml 5](https://github.com/ocaml-multicore/effects-examples/blob/master/algorithmic_differentiation.ml)
-- Nov 19 - [ChessBase and Stockfish end their legal dispute](https://stockfishchess.org/blog/2022/chessbase-stockfish-agreement/)
-- Nov 19 - [How to sell tickets fairly](https://barnabas.me/blog/2022/11/selling-tickets-fairly/)
+- Nov 19 - [Capsule (YC S22) is hiring a computer vision AI / machine learning intern](https://www.workatastartup.com/jobs/56676)
+- Nov 19 - [The Mystery Blips](https://mosquitocapital.substack.com/p/the-mystery-blips)
+- Nov 19 - [The truffle industry is a big scam, not just truffle oil, everything](https://www.tasteatlas.com/truffle-industry-is-a-big-scam)
+- Nov 19 - [Show HN: Firefox Addon to Filter NSFW Content](https://addons.mozilla.org/en-US/firefox/addon/wingman-jr-filter/)
+- Nov 19 - [Tree views in CSS](https://iamkate.com/code/tree-views/)
 <!--END_SECTION:hn-->
 
 <!--
