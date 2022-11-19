@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 19 - [TinyBIOS – A minimalist open-source BIOS project for fun](https://github.com/pwk4m1/TinyBIOS)
-- Nov 19 - [Latam Airlines Airbus A320neo hits fire engine on runway during take-off](https://www.aviation24.be/airlines/latam/airbus-a320neo-hits-vehicle-on-runway-during-take-off-roll/)
-- Nov 19 - [Redbean Tiddlywiki Saver](https://rpdillon.net/redbean-tiddlywiki-saver.html)
-- Nov 19 - [Show HN: A Browser-Based First Programming Language – Easier Than Python](https://easylang.online/ide/#tut=1)
-- Nov 19 - [HelenOS a microkernel-based, multiserver OS from scratch](https://github.com/HelenOS/helenos)
+- Nov 19 - [I quit my programmer job to become a chicken](https://sebastiancarlos.medium.com/how-i-quit-my-programmer-job-to-become-a-chicken-b733c20680b1)
+- Nov 19 - [Investigating why Steam started picking a random font](http://blog.pkh.me/p/35-investigating-why-steam-started-picking-a-random-font.html)
+- Nov 19 - [Strategy 101: An Introduction to Power](https://tasshin.com/blog/strategy-101/)
+- Nov 19 - [Go 1.21 may have a clear(x) builtin](https://utcc.utoronto.ca/~cks/space/blog/programming/GoFutureClearBuiltin)
+- Nov 19 - [An Interview with Mickey Petersen, Author of Mastering Emacs](https://syntopikon.substack.com/p/an-interview-with-mickey-petersen)
 <!--END_SECTION:hn-->
 
 <!--
