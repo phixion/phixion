@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 19 - [I quit my programmer job to become a chicken](https://sebastiancarlos.medium.com/how-i-quit-my-programmer-job-to-become-a-chicken-b733c20680b1)
-- Nov 19 - [Investigating why Steam started picking a random font](http://blog.pkh.me/p/35-investigating-why-steam-started-picking-a-random-font.html)
-- Nov 19 - [Strategy 101: An Introduction to Power](https://tasshin.com/blog/strategy-101/)
-- Nov 19 - [Go 1.21 may have a clear(x) builtin](https://utcc.utoronto.ca/~cks/space/blog/programming/GoFutureClearBuiltin)
-- Nov 19 - [An Interview with Mickey Petersen, Author of Mastering Emacs](https://syntopikon.substack.com/p/an-interview-with-mickey-petersen)
+- Nov 19 - [Digging 10 miles underground could yield enough geothermal energy to power Earth](https://interestingengineering.com/innovation/digging-10-miles-geothermal-energy)
+- Nov 19 - [271 years before Pantone, every color imaginable in an 800-page book](https://www.thisiscolossal.com/2014/05/color-book/)
+- Nov 19 - [Tiniest x86-64-Linux emulator](https://github.com/jart/blink)
+- Nov 19 - [Show HN: Rssnix – Unix-style filesystem-based RSS/Atom/JSON Feed fetcher/reader](https://github.com/jafarlihi/rssnix)
+- Nov 19 - [Putting Z-Library on IPFS](http://annas-blog.org/putting-5,998,794-books-on-ipfs.html)
 <!--END_SECTION:hn-->
 
 <!--
