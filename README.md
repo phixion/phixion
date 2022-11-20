@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 20 - [Tell HN: DuckDuckGo is blocked by Indian govt](https://news.ycombinator.com/item?id=33677964)
-- Nov 20 - [Power struggles among nice people](https://www.edbatista.com/2022/03/power-struggles-among-nice-people.html)
-- Nov 20 - [Closures and Objects Are Equivalent (2013)](https://wiki.c2.com/?ClosuresAndObjectsAreEquivalent)
-- Nov 20 - [Brilliant jerks, crazy hotties, and other artifacts of range restriction (2019)](https://towardsdatascience.com/brilliant-jerks-crazy-hotties-and-other-artifacts-of-range-restriction-c53785ae249f)
-- Nov 19 - [Tiniest x86-64-Linux emulator](https://github.com/jart/blink)
+- Nov 20 - [TIC-80 tiny computer](https://tic80.com/)
+- Nov 20 - [Collapse of Carvana, the 'Amazon of Used Cars', Continues](https://www.thestreet.com/technology/the-collapse-of-carvana-the-amazon-of-used-cars-continues)
+- Nov 20 - [QuickJS Running in WebAssembly](https://github.com/justjake/quickjs-emscripten)
+- Nov 20 - [Show HN: ILLA is an Open-source alternative to Retool](https://github.com/illacloud/illa-builder)
+- Nov 20 - [Planes are still decades away from displacing most bird jobs](https://guzey.com/ai/planes-vs-birds/)
 <!--END_SECTION:hn-->
 
 <!--
