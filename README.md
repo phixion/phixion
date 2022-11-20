@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 19 - [Digging 10 miles underground could yield enough geothermal energy to power Earth](https://interestingengineering.com/innovation/digging-10-miles-geothermal-energy)
-- Nov 19 - [271 years before Pantone, every color imaginable in an 800-page book](https://www.thisiscolossal.com/2014/05/color-book/)
+- Nov 20 - [Tell HN: DuckDuckGo is blocked by Indian govt](https://news.ycombinator.com/item?id=33677964)
+- Nov 20 - [Power struggles among nice people](https://www.edbatista.com/2022/03/power-struggles-among-nice-people.html)
+- Nov 20 - [Closures and Objects Are Equivalent (2013)](https://wiki.c2.com/?ClosuresAndObjectsAreEquivalent)
+- Nov 20 - [Brilliant jerks, crazy hotties, and other artifacts of range restriction (2019)](https://towardsdatascience.com/brilliant-jerks-crazy-hotties-and-other-artifacts-of-range-restriction-c53785ae249f)
 - Nov 19 - [Tiniest x86-64-Linux emulator](https://github.com/jart/blink)
-- Nov 19 - [Show HN: Rssnix – Unix-style filesystem-based RSS/Atom/JSON Feed fetcher/reader](https://github.com/jafarlihi/rssnix)
-- Nov 19 - [Putting Z-Library on IPFS](http://annas-blog.org/putting-5,998,794-books-on-ipfs.html)
 <!--END_SECTION:hn-->
 
 <!--
