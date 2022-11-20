@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 20 - [Eye contact marks the rise and fall of shared attention in conversation](https://www.pnas.org/doi/10.1073/pnas.2106645118)
-- Nov 20 - [UK food price inflation hit 16.2% in October – cost of food basics surging](https://www.bbc.co.uk/news/business-63641414)
-- Nov 20 - [Help HN: Starlink Signup failed, no recourse](https://news.ycombinator.com/item?id=33681263)
-- Nov 20 - [Tea: A new package manager from the creator of brew](https://github.com/teaxyz/cli)
-- Nov 20 - [Sam Bankman-Fried, FTX Team Among Top Political Donors Before Bankruptcy](https://www.wsj.com/articles/sam-bankman-fried-ftx-team-among-top-political-donors-before-bankruptcy-11668949205)
+- Nov 20 - [We need more water than rain can provide: refilling rivers with desalination](https://caseyhandmer.wordpress.com/2022/11/20/we-need-more-water-than-rain-can-provide-refilling-rivers-with-desalination/)
+- Nov 20 - [Upgrading Multi-GPU Interconnectivity with the Third-Generation Nvidia NVSwitch](https://developer.nvidia.com/blog/upgrading-multi-gpu-interconnectivity-with-the-third-generation-nvidia-nvswitch/)
+- Nov 20 - [Just putting it out there](https://www.cjchilvers.com/blog/just-putting-it-out-there/)
+- Nov 20 - [Stop lying to yourself – you “fix it later”](https://uselessdevblog.wordpress.com/2022/11/10/stop-lying-to-yourself-you-will-never-fix-it-later/)
+- Nov 20 - [South Africa's national electricity crisis to worsen](https://www.news24.com/fin24/economy/extreme-load-shedding-ahead-as-eskom-diesel-budget-runs-dry-20221120)
 <!--END_SECTION:hn-->
 
 <!--
