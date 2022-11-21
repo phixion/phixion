@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 21 - [Berty: The privacy-first messaging app](https://berty.tech/)
-- Nov 21 - [Proof of solvency and beyond](https://vitalik.ca/general/2022/11/19/proof_of_solvency.html)
-- Nov 21 - [Magic3D: High-Resolution Text-to-3D Content Creation](https://deepimagination.cc/Magic3D/)
-- Nov 21 - [We are sorry to inform you that you are in a cult](https://labskausleben.bearblog.dev/youre-in-a-cult/)
-- Nov 21 - [Can't Unsee](https://cantunsee.space/)
+- Nov 21 - [Termux on Android 5 or 6](https://github.com/termux/termux-app/wiki/Termux-on-android-5-or-6)
+- Nov 21 - [C23 Implications for C Libraries](https://htmlpreview.github.io/?https://icube-forge.unistra.fr/icps/c23-library/-/raw/main/README.html)
+- Nov 21 - [Kubernetes Cordon: How It Works and When to Use It](https://cast.ai/blog/kubernetes-cordon-how-it-works-and-when-to-use-it/)
+- Nov 21 - [Spiral’s Homomorphic Encryption – Is This the Future of Privacy?](https://www.21analytics.ch/blog/spirals-homomorphic-encryption-is-this-the-future-of-privacy/)
+- Nov 21 - [Berty: Privacy-first messaging app](https://berty.tech/)
 <!--END_SECTION:hn-->
 
 <!--
