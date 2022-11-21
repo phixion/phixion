@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 21 - [Termux on Android 5 or 6](https://github.com/termux/termux-app/wiki/Termux-on-android-5-or-6)
-- Nov 21 - [C23 Implications for C Libraries](https://htmlpreview.github.io/?https://icube-forge.unistra.fr/icps/c23-library/-/raw/main/README.html)
-- Nov 21 - [Kubernetes Cordon: How It Works and When to Use It](https://cast.ai/blog/kubernetes-cordon-how-it-works-and-when-to-use-it/)
-- Nov 21 - [Spiral’s Homomorphic Encryption – Is This the Future of Privacy?](https://www.21analytics.ch/blog/spirals-homomorphic-encryption-is-this-the-future-of-privacy/)
-- Nov 21 - [Berty: Privacy-first messaging app](https://berty.tech/)
+- Nov 21 - [Why CVE-2022-3602 was not detected by fuzz testing](http://allsoftwaresucks.blogspot.com/2022/11/why-cve-2022-3602-was-not-detected-by.html)
+- Nov 21 - [The Simple Geometry Behind Brownie Bake Offs and Equal Areas](https://www.quantamagazine.org/simple-geometry-shows-when-two-shapes-are-equal-20221121/)
+- Nov 21 - [Show HN: A color picker for named web colors only](https://arantius.github.io/web-color-wheel/)
+- Nov 21 - [Show HN: Open-source text-to-geolocation models](https://github.com/1712n/yachay-public/tree/master/conf_geotagging_model)
+- Nov 21 - [The Genius of Binary Space Partitioning in Doom](https://twobithistory.org/2019/11/06/doom-bsp.html)
 <!--END_SECTION:hn-->
 
 <!--
