@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 21 - [Why CVE-2022-3602 was not detected by fuzz testing](http://allsoftwaresucks.blogspot.com/2022/11/why-cve-2022-3602-was-not-detected-by.html)
-- Nov 21 - [The Simple Geometry Behind Brownie Bake Offs and Equal Areas](https://www.quantamagazine.org/simple-geometry-shows-when-two-shapes-are-equal-20221121/)
-- Nov 21 - [Show HN: A color picker for named web colors only](https://arantius.github.io/web-color-wheel/)
-- Nov 21 - [Show HN: Open-source text-to-geolocation models](https://github.com/1712n/yachay-public/tree/master/conf_geotagging_model)
-- Nov 21 - [The Genius of Binary Space Partitioning in Doom](https://twobithistory.org/2019/11/06/doom-bsp.html)
+- Nov 21 - [SQLite 3.40.0 with WASM Support](https://sqlite.org/releaselog/3_40_0.html)
+- Nov 21 - [Launch HN: Kalshi (YC W19) – A regulated exchange for trading on events](https://news.ycombinator.com/item?id=33696486)
+- Nov 21 - [What story from the PDP-8 era would make a good script?](https://news.ycombinator.com/item?id=33696270)
+- Nov 21 - [Ask HN: What weird technical scene are you fond/part of?](https://news.ycombinator.com/item?id=33696216)
+- Nov 21 - [Apple Says iPhone Usage Data Is Anonymous. New Tests Say: Not True](https://gizmodo.com/apple-iphone-privacy-dsid-analytics-personal-data-test-1849807619)
 <!--END_SECTION:hn-->
 
 <!--
