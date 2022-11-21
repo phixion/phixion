@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 21 - [Ask HN: What are your favorite books/courses of 2022? Why?](https://news.ycombinator.com/item?id=33688207)
-- Nov 21 - [R49081 Is Prime](https://mersenneforum.org/showpost.php?p=602219&postcount=35)
-- Nov 21 - [Bob Iger Back as Disney CEO](https://deadline.com/2022/11/disney-bob-iger-returns-ceo-bob-chapek-out-1235178223/)
-- Nov 21 - [JR East mulls seats for dogs on some special Shinkansen rides](https://www.asahi.com/ajw/articles/14759577)
-- Nov 21 - [AWS and Blockchain](https://www.tbray.org/ongoing/When/202x/2022/11/19/AWS-Blockchain)
+- Nov 21 - [Berty: The privacy-first messaging app](https://berty.tech/)
+- Nov 21 - [Proof of solvency and beyond](https://vitalik.ca/general/2022/11/19/proof_of_solvency.html)
+- Nov 21 - [Magic3D: High-Resolution Text-to-3D Content Creation](https://deepimagination.cc/Magic3D/)
+- Nov 21 - [We are sorry to inform you that you are in a cult](https://labskausleben.bearblog.dev/youre-in-a-cult/)
+- Nov 21 - [Can't Unsee](https://cantunsee.space/)
 <!--END_SECTION:hn-->
 
 <!--
