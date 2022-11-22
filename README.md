@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 22 - [Oh, the Places Your Apple ID Will Go](https://pxlnv.com/blog/oh-the-places-your-apple-id-will-go/)
-- Nov 22 - [Win for Open-Source Legally: Settlement Reached in Stockfish vs. ChessBase](https://lichess.org/blog/Y3u1mRAAACIApBVn/settlement-reached-in-stockfish-v-chessbase)
-- Nov 22 - [An autistic man was surfing the internet on his dad’s sofa, then the FBI arrived](https://www.economist.com/1843/2022/11/21/an-autistic-man-was-surfing-the-internet-on-his-dads-sofa-then-the-fbi-turned-up)
-- Nov 22 - [Telling It Like It Is in Plain English (Calling SBF a Fraud in March)](https://jeffreycarter.substack.com/p/telling-it-like-it-is)
-- Nov 22 - [Perlisms – “Epigrams in Programming”](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
+- Nov 22 - [UPchieve (YC W21 EdTech Nonprofit) Is Hiring Engineers and a Head of Engineering](https://upchieve.welcomekit.co/)
+- Nov 22 - [Frog: OCR Tool for Linux](https://tenderowl.com/work/frog/)
+- Nov 22 - [Turing Machine in Prolog (2017)](https://www.metalevel.at/prolog/showcases/turing.pl)
+- Nov 22 - [Extremely Linear Git History](https://westling.dev/b/extremely-linear-git)
+- Nov 22 - [D2 is now open source – a modern language that turns text to diagrams](https://github.com/terrastruct/d2)
 <!--END_SECTION:hn-->
 
 <!--
