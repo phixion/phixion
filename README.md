@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 21 - [Justice Dept. urges Supreme Court to deny certiorari in WhatsApp vs. NSO Group [pdf]](https://www.supremecourt.gov/DocketPDF/21/21-1338/247116/20221121154250394_NSO%20v.%20WhatsAppp%20CVSG.pdf)
-- Nov 21 - [Microscale](http://alestsurko.by/microscale/)
-- Nov 21 - [Moving Away from UUIDs](https://neilmadden.blog/2018/08/30/moving-away-from-uuids/)
-- Nov 21 - [MicroPython officially becomes part of the Arduino ecosystem](https://blog.arduino.cc/2022/11/10/micropython-officially-becomes-part-of-the-arduino-ecosystem/)
-- Nov 21 - [Kubeshark: The API Traffic Viewer for Kubernetes](https://github.com/kubeshark/kubeshark)
+- Nov 22 - [AP fires reporter behind retracted ‘Russian missiles’ story](https://www.thedailybeast.com/ap-fires-reporter-behind-retracted-russian-missiles-story)
+- Nov 22 - [Why Twitter didn’t go down: From a real Twitter SRE](https://matthewtejo.substack.com/p/why-twitter-didnt-go-down-from-a)
+- Nov 22 - [An offshore workforce is training Amazon’s warehouse-monitoring algorithms](https://www.theverge.com/2022/11/21/23466219/amazon-warehouse-surveillance-camera-offshore-workers-india-costa-rica)
+- Nov 22 - [Deus Ex: Human Revolution in (up to) gigapixel panoramas](https://joumxyzptlk.de/deusex_panorama.html)
+- Nov 22 - [Amazon Alexa is a “colossal failure,” on pace to lose $10B this year](https://arstechnica.com/gadgets/2022/11/amazon-alexa-is-a-colossal-failure-on-pace-to-lose-10-billion-this-year/)
 <!--END_SECTION:hn-->
 
 <!--
