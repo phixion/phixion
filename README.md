@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 21 - [SQLite 3.40.0 with WASM Support](https://sqlite.org/releaselog/3_40_0.html)
-- Nov 21 - [Launch HN: Kalshi (YC W19) – A regulated exchange for trading on events](https://news.ycombinator.com/item?id=33696486)
-- Nov 21 - [What story from the PDP-8 era would make a good script?](https://news.ycombinator.com/item?id=33696270)
-- Nov 21 - [Ask HN: What weird technical scene are you fond/part of?](https://news.ycombinator.com/item?id=33696216)
-- Nov 21 - [Apple Says iPhone Usage Data Is Anonymous. New Tests Say: Not True](https://gizmodo.com/apple-iphone-privacy-dsid-analytics-personal-data-test-1849807619)
+- Nov 21 - [Justice Dept. urges Supreme Court to deny certiorari in WhatsApp vs. NSO Group [pdf]](https://www.supremecourt.gov/DocketPDF/21/21-1338/247116/20221121154250394_NSO%20v.%20WhatsAppp%20CVSG.pdf)
+- Nov 21 - [Microscale](http://alestsurko.by/microscale/)
+- Nov 21 - [Moving Away from UUIDs](https://neilmadden.blog/2018/08/30/moving-away-from-uuids/)
+- Nov 21 - [MicroPython officially becomes part of the Arduino ecosystem](https://blog.arduino.cc/2022/11/10/micropython-officially-becomes-part-of-the-arduino-ecosystem/)
+- Nov 21 - [Kubeshark: The API Traffic Viewer for Kubernetes](https://github.com/kubeshark/kubeshark)
 <!--END_SECTION:hn-->
 
 <!--
