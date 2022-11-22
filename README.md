@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 22 - [UPchieve (YC W21 EdTech Nonprofit) Is Hiring Engineers and a Head of Engineering](https://upchieve.welcomekit.co/)
-- Nov 22 - [Frog: OCR Tool for Linux](https://tenderowl.com/work/frog/)
-- Nov 22 - [Turing Machine in Prolog (2017)](https://www.metalevel.at/prolog/showcases/turing.pl)
-- Nov 22 - [Extremely Linear Git History](https://westling.dev/b/extremely-linear-git)
-- Nov 22 - [D2 is now open source – a modern language that turns text to diagrams](https://github.com/terrastruct/d2)
+- Nov 22 - [November 2022 Progress Report](https://asahilinux.org/2022/11/november-2022-report/)
+- Nov 22 - [The Leak: Mark Zuckerberg is set to resign next year](https://theleak.co/2022/11/22/mark-zuckerberg-is-set-to-resign-next-year/)
+- Nov 22 - [Human-level play in the game of Diplomacy by combining language models](https://www.science.org/doi/10.1126/science.ade9097)
+- Nov 22 - [Quickadd: A Python library for extracting date and time from natural language](https://github.com/Acreom/quickadd)
+- Nov 22 - [Human-Level Play in Diplomacy Combining Language Models with Strategic Reasoning](https://ai.facebook.com/blog/cicero-ai-negotiates-persuades-and-cooperates-with-people/)
 <!--END_SECTION:hn-->
 
 <!--
