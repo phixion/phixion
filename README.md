@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 22 - [AP fires reporter behind retracted ‘Russian missiles’ story](https://www.thedailybeast.com/ap-fires-reporter-behind-retracted-russian-missiles-story)
-- Nov 22 - [Why Twitter didn’t go down: From a real Twitter SRE](https://matthewtejo.substack.com/p/why-twitter-didnt-go-down-from-a)
-- Nov 22 - [An offshore workforce is training Amazon’s warehouse-monitoring algorithms](https://www.theverge.com/2022/11/21/23466219/amazon-warehouse-surveillance-camera-offshore-workers-india-costa-rica)
-- Nov 22 - [Deus Ex: Human Revolution in (up to) gigapixel panoramas](https://joumxyzptlk.de/deusex_panorama.html)
-- Nov 22 - [Amazon Alexa is a “colossal failure,” on pace to lose $10B this year](https://arstechnica.com/gadgets/2022/11/amazon-alexa-is-a-colossal-failure-on-pace-to-lose-10-billion-this-year/)
+- Nov 22 - [Oh, the Places Your Apple ID Will Go](https://pxlnv.com/blog/oh-the-places-your-apple-id-will-go/)
+- Nov 22 - [Win for Open-Source Legally: Settlement Reached in Stockfish vs. ChessBase](https://lichess.org/blog/Y3u1mRAAACIApBVn/settlement-reached-in-stockfish-v-chessbase)
+- Nov 22 - [An autistic man was surfing the internet on his dad’s sofa, then the FBI arrived](https://www.economist.com/1843/2022/11/21/an-autistic-man-was-surfing-the-internet-on-his-dads-sofa-then-the-fbi-turned-up)
+- Nov 22 - [Telling It Like It Is in Plain English (Calling SBF a Fraud in March)](https://jeffreycarter.substack.com/p/telling-it-like-it-is)
+- Nov 22 - [Perlisms – “Epigrams in Programming”](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
 <!--END_SECTION:hn-->
 
 <!--
