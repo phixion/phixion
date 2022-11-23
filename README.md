@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 23 - [Writing by hand is still the best way to retain information](https://stackoverflow.blog/2022/11/23/why-writing-by-hand-is-still-the-best-way-to-retain-information/)
-- Nov 23 - [Fosstodon Hub – More Upgrades](https://hub.fosstodon.org/more-upgrades-twitter-storm/)
-- Nov 23 - [Porting 58000 lines of D and C++ to jai, Part 0: Why and How](https://www.yet-another-blog.com/porting_the_game_to_jai_part0/)
-- Nov 23 - [Ooh.directory](https://ooh.directory)
-- Nov 23 - [Chief scientist of major corporation can’t handle criticism of the work he hypes](https://statmodeling.stat.columbia.edu/2022/11/23/bigshot-chief-scientist-of-major-corporation-cant-handle-criticism-of-the-work-he-hypes/)
+- Nov 23 - [Building the PiDP-11 Dec PDP-11 Replica Minicomputer](https://bigdanzblog.wordpress.com/2022/11/22/building-the-pidp-11-dec-pdp-11-replica-minicomputer/)
+- Nov 23 - [Last.fm turns 20](https://www.theverge.com/2022/11/22/23473358/lastfm-discord-bot-neil-young-spotify)
+- Nov 23 - [Show HN: I built an app that scans every social media network for your username](https://www.handlefinder.com/)
+- Nov 23 - [Only positive reinforcement for researchers in some fields](https://statmodeling.stat.columbia.edu/2022/11/21/only-positive-reinforcement-for-researchers-in-some-fields/)
+- Nov 23 - [Valve Introduces Proton Next](https://linuxgamingcentral.com/posts/valve-introduces-proton-next/)
 <!--END_SECTION:hn-->
 
 <!--
