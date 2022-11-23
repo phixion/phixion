@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 22 - [Show HN: Hoku – The app that makes group travel simple](https://hoku.travel/)
-- Nov 22 - [VSCode-Neovim: Use embedded Neovim in VSCode without emulation](https://github.com/vscode-neovim/vscode-neovim)
-- Nov 22 - [Deterministic Linux for controlled testing and software bug-finding](https://developers.facebook.com/blog/post/2022/11/22/hermit-deterministic-linux-testing/)
-- Nov 22 - [Web3 – An Arrogant and Treacherous Successor Doomed to Fail](https://g147.medium.com/introducing-web-3-0-an-arrogant-treacherous-successor-doomed-to-fail-8b90529bb7be)
-- Nov 22 - [Barclays using TeamViewer font to warn customers](https://old.reddit.com/r/UKPersonalFinance/comments/z1uvo8/this_felt_like_a_scam_how_did_my_bank_know_what/)
+- Nov 22 - [LPD: Libertarian Police Department (2014)](https://www.newyorker.com/humor/daily-shouts/l-p-d-libertarian-police-department)
+- Nov 22 - [NASA Uses RISC-V Vector Spec to Soup Up Space Computers](https://www.eetimes.com/nasa-uses-risc-v-vector-spec-to-soup-up-space-computers/)
+- Nov 22 - [Show HN: Visualising real-time Sydney bus congestion with Marey charts](https://jakecoppinger.com/2022/11/visualising-sydney-bus-congestion-with-marey-charts/)
+- Nov 22 - [Why Gratitude Is the Secret Weapon for Attracting More Opportunities](https://www.exaltitude.io/blogs/why-gratitude-is-the-secret-weapon-for-attracting-more-opportunities-and-creating-positive-change)
+- Nov 22 - [Decades of Air Pollution Undermine the Immune System](https://www.cuimc.columbia.edu/news/decades-air-pollution-undermine-immune-system)
 <!--END_SECTION:hn-->
 
 <!--
