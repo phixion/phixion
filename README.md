@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 23 - [Common Lisp Object System (CLOS)](https://hescaide.me/clos/)
-- Nov 23 - [Intel on Demand](https://www.intel.com/content/www/us/en/products/docs/ondemand/overview.html)
-- Nov 23 - [Building a custom code search index in Go for searchcode.com](https://boyter.org/posts/how-i-built-my-own-index-for-searchcode/)
-- Nov 23 - [Strange Attractors](https://syntopia.github.io/StrangeAttractors/)
-- Nov 23 - [Startup to exit: lessons from a YC founder](https://www.lennysnewsletter.com/p/startup-to-exit-lessons-from-a-first)
+- Nov 23 - [Writing by hand is still the best way to retain information](https://stackoverflow.blog/2022/11/23/why-writing-by-hand-is-still-the-best-way-to-retain-information/)
+- Nov 23 - [Fosstodon Hub – More Upgrades](https://hub.fosstodon.org/more-upgrades-twitter-storm/)
+- Nov 23 - [Porting 58000 lines of D and C++ to jai, Part 0: Why and How](https://www.yet-another-blog.com/porting_the_game_to_jai_part0/)
+- Nov 23 - [Ooh.directory](https://ooh.directory)
+- Nov 23 - [Chief scientist of major corporation can’t handle criticism of the work he hypes](https://statmodeling.stat.columbia.edu/2022/11/23/bigshot-chief-scientist-of-major-corporation-cant-handle-criticism-of-the-work-he-hypes/)
 <!--END_SECTION:hn-->
 
 <!--
