@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 22 - [LPD: Libertarian Police Department (2014)](https://www.newyorker.com/humor/daily-shouts/l-p-d-libertarian-police-department)
-- Nov 22 - [NASA Uses RISC-V Vector Spec to Soup Up Space Computers](https://www.eetimes.com/nasa-uses-risc-v-vector-spec-to-soup-up-space-computers/)
-- Nov 22 - [Show HN: Visualising real-time Sydney bus congestion with Marey charts](https://jakecoppinger.com/2022/11/visualising-sydney-bus-congestion-with-marey-charts/)
-- Nov 22 - [Why Gratitude Is the Secret Weapon for Attracting More Opportunities](https://www.exaltitude.io/blogs/why-gratitude-is-the-secret-weapon-for-attracting-more-opportunities-and-creating-positive-change)
-- Nov 22 - [Decades of Air Pollution Undermine the Immune System](https://www.cuimc.columbia.edu/news/decades-air-pollution-undermine-immune-system)
+- Nov 23 - [Drought Reveals Rare American Lion Fossil in Dried Up Mississippi River](https://www.smithsonianmag.com/smart-news/drought-reveals-rare-american-lion-fossil-in-dried-up-mississippi-river-180981166/)
+- Nov 23 - [Department of Defense Releases Zero Trust Strategy and Roadmap](https://www.defense.gov/News/Releases/Release/Article/3225919/department-of-defense-releases-zero-trust-strategy-and-roadmap/)
+- Nov 23 - [Safely writing code that isn't thread-safe: An under-appreciated Rust feature](http://cliffle.com/blog/not-thread-safe/)
+- Nov 22 - [Against Parasite Publishers: Making Journals Free](https://zenodo.org/record/7212922)
+- Nov 22 - [The Twitter Advertiser Exodus](https://caterina.net/2022/11/21/the-twitter-advertiser-exodus/)
 <!--END_SECTION:hn-->
 
 <!--
