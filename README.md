@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 23 - [Drought Reveals Rare American Lion Fossil in Dried Up Mississippi River](https://www.smithsonianmag.com/smart-news/drought-reveals-rare-american-lion-fossil-in-dried-up-mississippi-river-180981166/)
-- Nov 23 - [Department of Defense Releases Zero Trust Strategy and Roadmap](https://www.defense.gov/News/Releases/Release/Article/3225919/department-of-defense-releases-zero-trust-strategy-and-roadmap/)
-- Nov 23 - [Safely writing code that isn't thread-safe: An under-appreciated Rust feature](http://cliffle.com/blog/not-thread-safe/)
-- Nov 22 - [Against Parasite Publishers: Making Journals Free](https://zenodo.org/record/7212922)
-- Nov 22 - [The Twitter Advertiser Exodus](https://caterina.net/2022/11/21/the-twitter-advertiser-exodus/)
+- Nov 23 - [Ashby (YC W19) Is Hiring Engineers Who Also Write Product Specs](https://www.ashbyhq.com/careers?utm_source=hn)
+- Nov 23 - [The Shrinking Future of College](https://www.vox.com/the-highlight/23428166/college-enrollment-population-education-crash)
+- Nov 23 - [UV Devices Could Keep Indoor Air Free of Viruses](https://www.nature.com/articles/d41586-022-03360-w)
+- Nov 23 - [GitBook bypassing Cloudflare DNS to route traffic to their domain](https://community.cloudflare.com/t/dns-updates-issues-with-cloudflare-partners-like-gitbook/341449)
+- Nov 23 - [The Ancient Japanese Technique That Produces Lumber Without Cutting Trees](https://dsfantiquejewelry.com/blogs/interesting-facts/the-ancient-japanese-technique-that-produces-lumber-without-cutting-trees)
 <!--END_SECTION:hn-->
 
 <!--
