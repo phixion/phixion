@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 23 - [Ashby (YC W19) Is Hiring Engineers Who Also Write Product Specs](https://www.ashbyhq.com/careers?utm_source=hn)
-- Nov 23 - [The Shrinking Future of College](https://www.vox.com/the-highlight/23428166/college-enrollment-population-education-crash)
-- Nov 23 - [UV Devices Could Keep Indoor Air Free of Viruses](https://www.nature.com/articles/d41586-022-03360-w)
-- Nov 23 - [GitBook bypassing Cloudflare DNS to route traffic to their domain](https://community.cloudflare.com/t/dns-updates-issues-with-cloudflare-partners-like-gitbook/341449)
-- Nov 23 - [The Ancient Japanese Technique That Produces Lumber Without Cutting Trees](https://dsfantiquejewelry.com/blogs/interesting-facts/the-ancient-japanese-technique-that-produces-lumber-without-cutting-trees)
+- Nov 23 - [Common Lisp Object System (CLOS)](https://hescaide.me/clos/)
+- Nov 23 - [Intel on Demand](https://www.intel.com/content/www/us/en/products/docs/ondemand/overview.html)
+- Nov 23 - [Building a custom code search index in Go for searchcode.com](https://boyter.org/posts/how-i-built-my-own-index-for-searchcode/)
+- Nov 23 - [Strange Attractors](https://syntopia.github.io/StrangeAttractors/)
+- Nov 23 - [Startup to exit: lessons from a YC founder](https://www.lennysnewsletter.com/p/startup-to-exit-lessons-from-a-first)
 <!--END_SECTION:hn-->
 
 <!--
