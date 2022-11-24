@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 24 - [Generally Intelligent (YC S17) Is Hiring Simulation Engineers](https://news.ycombinator.com/item?id=33728529)
+- Nov 24 - [AI Music Generator](https://soundraw.io/)
 - Nov 24 - [The tragic birth of FM radio (2006)](https://www.damninteresting.com/the-tragic-birth-of-fm-radio/)
-- Nov 24 - [Could you be a web designer?](https://www.kapwing.com/could-you-be-a-web-designer)
 - Nov 24 - [Rebuilding after the replication crisis](https://asteriskmag.com/issues/1/rebuilding-after-the-replication-crisis)
 - Nov 24 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
-- Nov 24 - [Stable Diffusion 2.0](https://stability.ai/blog/stable-diffusion-v2-release)
 <!--END_SECTION:hn-->
 
 <!--
