@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 24 - [Generally Intelligent (YC S17) Is Hiring Simulation Engineers](https://news.ycombinator.com/item?id=33728529)
-- Nov 24 - [AI Music Generator](https://soundraw.io/)
-- Nov 24 - [The tragic birth of FM radio (2006)](https://www.damninteresting.com/the-tragic-birth-of-fm-radio/)
-- Nov 24 - [Rebuilding after the replication crisis](https://asteriskmag.com/issues/1/rebuilding-after-the-replication-crisis)
-- Nov 24 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+- Nov 24 - [Stable Diffusion 2.0 on Mac and Linux via imaginAIry Python library](https://github.com/brycedrennan/imaginAIry)
+- Nov 24 - [Investigating a backdoored PyPI package targeting FastAPI applications](https://securitylabs.datadoghq.com/articles/malicious-pypi-package-fastapi-toolkit/)
+- Nov 24 - [Arch Linux turns 20: Small, simple, great documentation](https://www.theregister.com/2022/03/15/arch_linux_20/)
+- Nov 24 - [Smart Move, Google](https://garrit.xyz/posts/2022-11-24-smart-move-google)
+- Nov 24 - [San Francisco police consider letting robots use ‘deadly force’](https://www.theverge.com/2022/11/23/23475817/san-francisco-police-department-robots-deadly-force)
 <!--END_SECTION:hn-->
 
 <!--
