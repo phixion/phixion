@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 24 - [Stable Diffusion 2.0 on Mac and Linux via imaginAIry Python library](https://github.com/brycedrennan/imaginAIry)
-- Nov 24 - [Investigating a backdoored PyPI package targeting FastAPI applications](https://securitylabs.datadoghq.com/articles/malicious-pypi-package-fastapi-toolkit/)
-- Nov 24 - [Arch Linux turns 20: Small, simple, great documentation](https://www.theregister.com/2022/03/15/arch_linux_20/)
-- Nov 24 - [Smart Move, Google](https://garrit.xyz/posts/2022-11-24-smart-move-google)
-- Nov 24 - [San Francisco police consider letting robots use ‘deadly force’](https://www.theverge.com/2022/11/23/23475817/san-francisco-police-department-robots-deadly-force)
+- Nov 24 - [Amazon’s already greenlit an FTX miniseries](https://www.theverge.com/2022/11/23/23475998/amazon-ftx-show-sam-bankman-fried)
+- Nov 24 - [Inverting a binary tree using x64 assembly](https://sanket.tech/posts/invert_binary_tree_assembly/)
+- Nov 24 - [Proof of work is temporarily illegal in New York](https://mastodon.social/@thefirstred/109397286530098299)
+- Nov 24 - [OpenBSD for Linux Users](https://www.openbsdhandbook.com/openbsd_for_linux_users/)
+- Nov 24 - [An efficient ActivityPub Server, for small installs with multiple domains](https://jointakahe.org/)
 <!--END_SECTION:hn-->
 
 <!--
