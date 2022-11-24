@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 24 - [Amazon’s already greenlit an FTX miniseries](https://www.theverge.com/2022/11/23/23475998/amazon-ftx-show-sam-bankman-fried)
-- Nov 24 - [Inverting a binary tree using x64 assembly](https://sanket.tech/posts/invert_binary_tree_assembly/)
-- Nov 24 - [Proof of work is temporarily illegal in New York](https://mastodon.social/@thefirstred/109397286530098299)
-- Nov 24 - [OpenBSD for Linux Users](https://www.openbsdhandbook.com/openbsd_for_linux_users/)
-- Nov 24 - [An efficient ActivityPub Server, for small installs with multiple domains](https://jointakahe.org/)
+- Nov 24 - [Go-Fed: ActivityPub in Go](https://go-fed.org/)
+- Nov 24 - [Introduction to Genomics for Engineers](https://learngenomics.dev/)
+- Nov 24 - [BBC documentary used face-swapping AI to hide protesters' identities](https://www.newscientist.com/article/2348197-bbc-documentary-used-face-swapping-ai-to-hide-protesters-identities/)
+- Nov 24 - [The Great Renaming 1985 – 1988 (2000)](https://www.livinginternet.info/u/ui_modern_renamingfaq.htm)
+- Nov 24 - [Ask HN: Why aren't there DSLs for Operating Systems? (Or are there?)](https://news.ycombinator.com/item?id=33734299)
 <!--END_SECTION:hn-->
 
 <!--
