@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 23 - [HTTPS Reverse Proxy: Caddy Outperforms Nginx 4x](https://manishrjain.com/reverse-proxy-caddy-nginx)
-- Nov 23 - [Earth might be experiencing 7th mass extinction, not 6th](https://news.ucr.edu/articles/2022/11/22/earth-might-be-experiencing-7th-mass-extinction-not-6th)
-- Nov 23 - [Socrates on the Forgetfulness That Comes with Writing](https://newlearningonline.com/literacies/chapter-1/socrates-on-the-forgetfulness-that-comes-with-writing)
-- Nov 23 - [First active chemistry on an exoplanet revealed by Webb telescope](https://www.nature.com/articles/d41586-022-03820-3)
-- Nov 23 - [Westinghouse sees a tech disrupter in its eVinci microreactor](https://www.power-eng.com/nuclear/westinghouse-sees-a-tech-disrupter-in-its-evinci-microreactor/)
+- Nov 24 - [The tragic birth of FM radio (2006)](https://www.damninteresting.com/the-tragic-birth-of-fm-radio/)
+- Nov 24 - [Could you be a web designer?](https://www.kapwing.com/could-you-be-a-web-designer)
+- Nov 24 - [Rebuilding after the replication crisis](https://asteriskmag.com/issues/1/rebuilding-after-the-replication-crisis)
+- Nov 24 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+- Nov 24 - [Stable Diffusion 2.0](https://stability.ai/blog/stable-diffusion-v2-release)
 <!--END_SECTION:hn-->
 
 <!--
