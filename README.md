@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 25 - [Europe accuses US of profiting from war](https://www.politico.eu/article/vladimir-putin-war-europe-ukraine-gas-inflation-reduction-act-ira-joe-biden-rift-west-eu-accuses-us-of-profiting-from-war/)
-- Nov 25 - [Bankman-Fried being invited to speak at a New York Times event alongside Yellen](https://www.nytimes.com/events/dealbook-summit)
-- Nov 25 - [Ask HN: Any good black Friday deals?](https://news.ycombinator.com/item?id=33742899)
-- Nov 25 - [89 Operating Systems](https://daniel.haxx.se/blog/2022/11/25/89-operating-systems/)
-- Nov 25 - [Cloudflare servers don't own IPs now, so how do they connect to the Internet?](https://blog.cloudflare.com/cloudflare-servers-dont-own-ips-anymore/)
+- Nov 25 - [Finch: An open-source client for container development](https://aws.amazon.com/blogs/opensource/introducing-finch-an-open-source-client-for-container-development/)
+- Nov 25 - [Hippotat: IP over HTTP](https://diziet.dreamwidth.org/12934.html)
+- Nov 25 - [AutoGraff: Computational understanding of graffiti writing and related art forms [pdf]](https://www.enist.org/autograff_thesis.pdf)
+- Nov 25 - [Thoughts on compile-time function evaluation and type systems (2018)](https://www.ralfj.de/blog/2018/07/19/const.html)
+- Nov 25 - [A meta-analysis of the effects of trigger warnings and content notes](https://osf.io/qav9m/)
 <!--END_SECTION:hn-->
 
 <!--
