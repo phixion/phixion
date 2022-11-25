@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 24 - [Go-Fed: ActivityPub in Go](https://go-fed.org/)
-- Nov 24 - [Introduction to Genomics for Engineers](https://learngenomics.dev/)
-- Nov 24 - [BBC documentary used face-swapping AI to hide protesters' identities](https://www.newscientist.com/article/2348197-bbc-documentary-used-face-swapping-ai-to-hide-protesters-identities/)
-- Nov 24 - [The Great Renaming 1985 – 1988 (2000)](https://www.livinginternet.info/u/ui_modern_renamingfaq.htm)
-- Nov 24 - [Ask HN: Why aren't there DSLs for Operating Systems? (Or are there?)](https://news.ycombinator.com/item?id=33734299)
+- Nov 24 - [Show HN: A decentralized semantic web built atop Activity Pub](https://github.com/chatternet/chatternet-client-http)
+- Nov 24 - [Show HN: FIFA Interactive Bracket (World Cup)](https://worldcup.cole.ws/)
+- Nov 24 - [Show HN: AI generated puzzles from Wikipedia articles](https://doodleai.darraghoriordan.com/)
+- Nov 24 - [Show HN: Have fun betting virtual (not real) money on predictions from HN users](https://kudotap.com)
+- Nov 24 - [Why it’s hard to buy deodorant in Manhattan](https://www.economist.com/united-states/2022/11/24/why-its-hard-to-buy-deodorant-in-manhattan)
 <!--END_SECTION:hn-->
 
 <!--
