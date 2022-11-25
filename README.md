@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 25 - [My Overemployment Story](https://overemployee.blog/my-overemployment-story/)
-- Nov 25 - [Craft](https://paulstamatiou.com/craft/)
-- Nov 25 - [“You don't have a voltmeter. Do you have a potato?”](https://diy.stackexchange.com/a/252050)
-- Nov 25 - [Jean-Marie Straub has died](https://www.newyorker.com/culture/postscript/the-stubborn-enduring-vision-of-jean-marie-straub)
-- Nov 25 - [Writing docs well: why should a software engineer care?](https://surfingcomplexity.blog/2022/11/24/writing-docs-well-why-should-a-software-engineer-care/)
+- Nov 25 - [Take better photos with a Raspberry Pi Pico light meter](https://www.raspberrypi.com/news/take-better-photos-with-a-raspberry-pi-pico-light-meter/)
+- Nov 25 - [Google pushes emergency Chrome update to fix 8th zero-day in 2022](https://www.bleepingcomputer.com/news/security/google-pushes-emergency-chrome-update-to-fix-8th-zero-day-in-2022/)
+- Nov 25 - [Germany Forces a Microsoft 365 Ban Due to Privacy Concerns](https://bestofprivacy.com/eu/germany-forces-a-microsoft-365-ban-due-to-privacy-concerns/)
+- Nov 25 - [UK government ban for Chinese Hikvision CCTV cameras](https://techmonitor.ai/government-computing/hikvision-ban-uk-government-oliver-dowden)
+- Nov 25 - [Brazil seizes iPhones from stores due to free charger requirement](https://9to5mac.com/2022/11/24/brazil-seizes-iphones-retail-stores-charger-requirement/)
 <!--END_SECTION:hn-->
 
 <!--
