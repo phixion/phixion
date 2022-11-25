@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 25 - [Take better photos with a Raspberry Pi Pico light meter](https://www.raspberrypi.com/news/take-better-photos-with-a-raspberry-pi-pico-light-meter/)
-- Nov 25 - [Google pushes emergency Chrome update to fix 8th zero-day in 2022](https://www.bleepingcomputer.com/news/security/google-pushes-emergency-chrome-update-to-fix-8th-zero-day-in-2022/)
-- Nov 25 - [Germany Forces a Microsoft 365 Ban Due to Privacy Concerns](https://bestofprivacy.com/eu/germany-forces-a-microsoft-365-ban-due-to-privacy-concerns/)
-- Nov 25 - [UK government ban for Chinese Hikvision CCTV cameras](https://techmonitor.ai/government-computing/hikvision-ban-uk-government-oliver-dowden)
-- Nov 25 - [Brazil seizes iPhones from stores due to free charger requirement](https://9to5mac.com/2022/11/24/brazil-seizes-iphones-retail-stores-charger-requirement/)
+- Nov 25 - [Europe accuses US of profiting from war](https://www.politico.eu/article/vladimir-putin-war-europe-ukraine-gas-inflation-reduction-act-ira-joe-biden-rift-west-eu-accuses-us-of-profiting-from-war/)
+- Nov 25 - [Bankman-Fried being invited to speak at a New York Times event alongside Yellen](https://www.nytimes.com/events/dealbook-summit)
+- Nov 25 - [Ask HN: Any good black Friday deals?](https://news.ycombinator.com/item?id=33742899)
+- Nov 25 - [89 Operating Systems](https://daniel.haxx.se/blog/2022/11/25/89-operating-systems/)
+- Nov 25 - [Cloudflare servers don't own IPs now, so how do they connect to the Internet?](https://blog.cloudflare.com/cloudflare-servers-dont-own-ips-anymore/)
 <!--END_SECTION:hn-->
 
 <!--
