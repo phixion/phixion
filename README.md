@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 26 - [Crypto’s Collapse May Have Done the Economy a Favor](https://www.wsj.com/articles/how-cryptos-collapse-may-have-done-the-economy-a-favor-11669215926)
+- Nov 26 - [Tom Brady, Giselle Bündchen, Larry David Sued in FTX Class Action Suit](https://deadline.com/2022/11/tom-brady-giselle-bundchen-ftx-lawsuit-larry-david-steph-curry-crypto-1235174541/)
+- Nov 26 - [The Impossible Port: MacOS](https://blog.ryujinx.org/the-impossible-port-macos/)
+- Nov 26 - [RFC 1855: Netiquette Guidelines (1995)](https://www.rfc-editor.org/rfc/rfc1855)
 - Nov 25 - [AI Art Panic](https://opguides.info/posts/aiartpanic/)
-- Nov 25 - [Can Tokyo’s charms be replicated elsewhere?](https://www.economist.com/culture/2022/11/24/can-tokyos-charms-be-replicated-elsewhere)
-- Nov 25 - [Show HN: Open-Source Page Block Builder with Remix and Tailwind CSS](https://remix-page-blocks.vercel.app)
-- Nov 25 - [New two-factor authenticator: Commodore 64](http://oldvcr.blogspot.com/2022/11/meet-your-new-two-factor-authenticator.html)
-- Nov 25 - [Choosing Nim out of a crowded market for systems programming languages](https://forum.nim-lang.org/t/9655)
 <!--END_SECTION:hn-->
 
 <!--
