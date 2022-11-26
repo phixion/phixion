@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 26 - [Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote)](https://www.svix.com/careers/)
-- Nov 26 - [German privacy watchdogs conclude that Microsoft 365 is incompatible with GDPR](https://twitter.com/wolfiechristl/status/1596277060435345411)
-- Nov 26 - [Clojure at the REPL: Data Visualization](https://clojure.org/guides/repl/data_visualization_at_the_repl#_graphical_and_web_based_visualizations)
-- Nov 26 - [I/O is no longer the bottleneck](https://benhoyt.com/writings/io-is-no-longer-the-bottleneck/)
-- Nov 26 - [Why is the state of mathematics education so abstract and uninspiring?](https://news.ycombinator.com/item?id=33751099)
+- Nov 26 - [MycelioTronics: Fungal mycelium skin for sustainable electronics](https://www.science.org/doi/10.1126/sciadv.add7118)
+- Nov 26 - [The $205.4B Gulag](https://gouldasks.substack.com/p/the-2054-billion-gulag)
+- Nov 26 - [U.S. Bans Equipment from Huawei and ZTE, Citing National Security Concerns](https://www.barrons.com/articles/u-s-bans-equipment-from-huawei-and-zte-citing-national-security-concerns-51669413820)
+- Nov 26 - [The Citroen Ami – tiny electric car with no boot, 28mph top speed, 46 mile range](https://www.thisismoney.co.uk/money/electriccars/article-11443201/Can-really-live-Citroen-Ami-dinky-EV-test.html)
+- Nov 26 - [FTX US Donated $1M to a Super-Pac Aligned with Mitch McConnell in October](https://www.bloomberg.com/news/articles/2022-11-25/ftx-mcconnell-bankman-fried-super-pac-donation)
 <!--END_SECTION:hn-->
 
 <!--
