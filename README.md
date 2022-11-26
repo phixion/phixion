@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 26 - [MycelioTronics: Fungal mycelium skin for sustainable electronics](https://www.science.org/doi/10.1126/sciadv.add7118)
-- Nov 26 - [The $205.4B Gulag](https://gouldasks.substack.com/p/the-2054-billion-gulag)
-- Nov 26 - [U.S. Bans Equipment from Huawei and ZTE, Citing National Security Concerns](https://www.barrons.com/articles/u-s-bans-equipment-from-huawei-and-zte-citing-national-security-concerns-51669413820)
-- Nov 26 - [The Citroen Ami – tiny electric car with no boot, 28mph top speed, 46 mile range](https://www.thisismoney.co.uk/money/electriccars/article-11443201/Can-really-live-Citroen-Ami-dinky-EV-test.html)
-- Nov 26 - [FTX US Donated $1M to a Super-Pac Aligned with Mitch McConnell in October](https://www.bloomberg.com/news/articles/2022-11-25/ftx-mcconnell-bankman-fried-super-pac-donation)
+- Nov 26 - [Ask HN: How's the job hunt going? (For those laid off)](https://news.ycombinator.com/item?id=33755531)
+- Nov 26 - [Americans are choosing to be alone, but we should reverse that](https://www.washingtonpost.com/opinions/2022/11/23/americans-alone-thanksgiving-friends/)
+- Nov 26 - [Cyber Guidance for Small Businesses](https://www.cisa.gov/small-business)
+- Nov 26 - [Show HN: Using stylometry to find HN users with alternate accounts](https://stylometry.net/)
+- Nov 26 - [Anti-War Speech Sent Eugene V. Debs to Prison, 1918](https://www.fifthestate.org/archive/360-spring-2003/a-1918-anti-war-speech-sent-eugene-v-debs-to-prison/)
 <!--END_SECTION:hn-->
 
 <!--
