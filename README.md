@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 25 - [Finch: An open-source client for container development](https://aws.amazon.com/blogs/opensource/introducing-finch-an-open-source-client-for-container-development/)
-- Nov 25 - [Hippotat: IP over HTTP](https://diziet.dreamwidth.org/12934.html)
-- Nov 25 - [AutoGraff: Computational understanding of graffiti writing and related art forms [pdf]](https://www.enist.org/autograff_thesis.pdf)
-- Nov 25 - [Thoughts on compile-time function evaluation and type systems (2018)](https://www.ralfj.de/blog/2018/07/19/const.html)
-- Nov 25 - [A meta-analysis of the effects of trigger warnings and content notes](https://osf.io/qav9m/)
+- Nov 25 - [AI Art Panic](https://opguides.info/posts/aiartpanic/)
+- Nov 25 - [Can Tokyo’s charms be replicated elsewhere?](https://www.economist.com/culture/2022/11/24/can-tokyos-charms-be-replicated-elsewhere)
+- Nov 25 - [Show HN: Open-Source Page Block Builder with Remix and Tailwind CSS](https://remix-page-blocks.vercel.app)
+- Nov 25 - [New two-factor authenticator: Commodore 64](http://oldvcr.blogspot.com/2022/11/meet-your-new-two-factor-authenticator.html)
+- Nov 25 - [Choosing Nim out of a crowded market for systems programming languages](https://forum.nim-lang.org/t/9655)
 <!--END_SECTION:hn-->
 
 <!--
