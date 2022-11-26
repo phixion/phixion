@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 26 - [Crypto’s Collapse May Have Done the Economy a Favor](https://www.wsj.com/articles/how-cryptos-collapse-may-have-done-the-economy-a-favor-11669215926)
-- Nov 26 - [Tom Brady, Giselle Bündchen, Larry David Sued in FTX Class Action Suit](https://deadline.com/2022/11/tom-brady-giselle-bundchen-ftx-lawsuit-larry-david-steph-curry-crypto-1235174541/)
-- Nov 26 - [The Impossible Port: MacOS](https://blog.ryujinx.org/the-impossible-port-macos/)
-- Nov 26 - [RFC 1855: Netiquette Guidelines (1995)](https://www.rfc-editor.org/rfc/rfc1855)
-- Nov 25 - [AI Art Panic](https://opguides.info/posts/aiartpanic/)
+- Nov 26 - [Cryptboard.io – Anonymous encrypted web clipboard and chat](https://github.com/MihanEntalpo/cryptboard.io)
+- Nov 26 - [The Voyage of Life](https://en.wikipedia.org/wiki/The_Voyage_of_Life)
+- Nov 26 - [Art Made with Artificial Intelligence Wins at State Fair](https://www.smithsonianmag.com/smart-news/artificial-intelligence-art-wins-colorado-state-fair-180980703/)
+- Nov 26 - [Redox OS 0.8](https://www.redox-os.org/news/release-0.8.0/)
+- Nov 26 - [Investor home purchases drop 30%](https://www.wsj.com/articles/investor-home-purchases-drop-30-as-rising-rates-high-prices-cool-housing-market-11669067972)
 <!--END_SECTION:hn-->
 
 <!--
