@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 26 - [Cryptboard.io – Anonymous encrypted web clipboard and chat](https://github.com/MihanEntalpo/cryptboard.io)
-- Nov 26 - [The Voyage of Life](https://en.wikipedia.org/wiki/The_Voyage_of_Life)
-- Nov 26 - [Art Made with Artificial Intelligence Wins at State Fair](https://www.smithsonianmag.com/smart-news/artificial-intelligence-art-wins-colorado-state-fair-180980703/)
-- Nov 26 - [Redox OS 0.8](https://www.redox-os.org/news/release-0.8.0/)
-- Nov 26 - [Investor home purchases drop 30%](https://www.wsj.com/articles/investor-home-purchases-drop-30-as-rising-rates-high-prices-cool-housing-market-11669067972)
+- Nov 26 - [Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote)](https://www.svix.com/careers/)
+- Nov 26 - [German privacy watchdogs conclude that Microsoft 365 is incompatible with GDPR](https://twitter.com/wolfiechristl/status/1596277060435345411)
+- Nov 26 - [Clojure at the REPL: Data Visualization](https://clojure.org/guides/repl/data_visualization_at_the_repl#_graphical_and_web_based_visualizations)
+- Nov 26 - [I/O is no longer the bottleneck](https://benhoyt.com/writings/io-is-no-longer-the-bottleneck/)
+- Nov 26 - [Why is the state of mathematics education so abstract and uninspiring?](https://news.ycombinator.com/item?id=33751099)
 <!--END_SECTION:hn-->
 
 <!--
