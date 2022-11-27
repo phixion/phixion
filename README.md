@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 27 - [Tesla is in the business of selling emission credits, not just cars](https://twitter.com/stealthygeek/status/1596518142423232513)
-- Nov 27 - [It Ruined Everything’: Buy Now, Pay Later Drives Gen Z into Debt](https://www.bloomberg.com/news/articles/2022-10-28/buy-now-pay-later-loans-drive-gen-z-into-debt-hurting-credit-scores)
+- Nov 27 - [HECnet: The Hobbyist DECnet Network](http://mim.stupi.net/hecnet)
+- Nov 27 - [No cure for loneliness](https://compactmag.com/article/no-cure-for-loneliness)
+- Nov 27 - [When splines were physical objects (2016)](https://www.core77.com/posts/55368/When-Splines-Were-Physical-Objects)
 - Nov 27 - [Create Your Own Compiler: A step-by-step interactive tutorial](https://citw.dev/tutorial/create-your-own-compiler)
-- Nov 27 - [Too fast, too furious: Dangerous street takeovers stymie police, anger neighbors](https://cronkitenews.azpbs.org/2022/09/08/street-racing-reckless-driving-los-angeles-phoenix/)
-- Nov 27 - [What's a good Linux terminal emulator that doesn't try to reinvent TMUX?](https://news.ycombinator.com/item?id=33759023)
+- Nov 27 - [French scientists decode 500-year-old letter](https://www.bbc.co.uk/news/world-europe-63757443)
 <!--END_SECTION:hn-->
 
 <!--
