@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 27 - [Narcissistic Collapse](https://www.choosingtherapy.com/narcissistic-collapse/)
-- Nov 27 - [AI Will Completely Dominate the Animation Industry in Less Than 5 Years](https://nicksaraev.com/ai-animation-is-coming/)
-- Nov 27 - [Show HN: Yet Another Node.js Framework](https://news.ycombinator.com/item?id=33763132)
-- Nov 27 - [A hundred UK companies sign up for four-day week with no loss of pay](https://www.theguardian.com/business/2022/nov/27/a-hundred-uk-companies-sign-up-for-four-day-week-with-no-loss-of-pay)
-- Nov 27 - [Show HN: MyNixOS – Create and share Nix and NixOS configurations](https://mynixos.com)
+- Nov 27 - [The entire crypto ecosystem is a ponzi](https://www.coppolacomment.com/2022/11/the-entire-crypto-ecosystem-is-ponzi.html)
+- Nov 27 - [Statistical process control after W. Edwards Deming](https://www.2uo.de/deming/)
+- Nov 27 - [Emacs Lisp shorthands as namespacing system](https://andreyorst.gitlab.io/posts/2022-11-01-emacs-lisp-shorthands-as-namespacing-system/)
+- Nov 27 - [Index Merges vs. Composite Indexes in Postgres and MySQL](https://sirupsen.com/index-merges)
+- Nov 27 - [Mach: A Pluggable Metrics Storage Engine for the Age of Observability [pdf]](https://www.cidrdb.org/cidr2022/papers/p12-solleza.pdf)
 <!--END_SECTION:hn-->
 
 <!--
