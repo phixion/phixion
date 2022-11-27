@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 27 - [Olric: Distributed, embeddable data structures in Go](https://github.com/buraksezer/olric)
-- Nov 27 - [Why Unreal Engine 5.1 is a Deal](https://www.youtube.com/watch?v=FUGqzE6Je5c)
-- Nov 27 - [London's Ultra Low Emission Zone to cover entire city](https://www.autocar.co.uk/car-news/consumer/londons-ultra-low-emission-zone-cover-entire-city)
-- Nov 27 - [We ran a Unix-like OS (Xv6) on our home-built CPU with our home-built C compiler (2020)](https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/)
-- Nov 27 - [Web Archive appears to be down](https://web.archive.org)
+- Nov 27 - [Narcissistic Collapse](https://www.choosingtherapy.com/narcissistic-collapse/)
+- Nov 27 - [AI Will Completely Dominate the Animation Industry in Less Than 5 Years](https://nicksaraev.com/ai-animation-is-coming/)
+- Nov 27 - [Show HN: Yet Another Node.js Framework](https://news.ycombinator.com/item?id=33763132)
+- Nov 27 - [A hundred UK companies sign up for four-day week with no loss of pay](https://www.theguardian.com/business/2022/nov/27/a-hundred-uk-companies-sign-up-for-four-day-week-with-no-loss-of-pay)
+- Nov 27 - [Show HN: MyNixOS – Create and share Nix and NixOS configurations](https://mynixos.com)
 <!--END_SECTION:hn-->
 
 <!--
