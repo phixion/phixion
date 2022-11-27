@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 27 - [HECnet: The Hobbyist DECnet Network](http://mim.stupi.net/hecnet)
-- Nov 27 - [No cure for loneliness](https://compactmag.com/article/no-cure-for-loneliness)
-- Nov 27 - [When splines were physical objects (2016)](https://www.core77.com/posts/55368/When-Splines-Were-Physical-Objects)
-- Nov 27 - [Create Your Own Compiler: A step-by-step interactive tutorial](https://citw.dev/tutorial/create-your-own-compiler)
-- Nov 27 - [French scientists decode 500-year-old letter](https://www.bbc.co.uk/news/world-europe-63757443)
+- Nov 27 - [Olric: Distributed, embeddable data structures in Go](https://github.com/buraksezer/olric)
+- Nov 27 - [Why Unreal Engine 5.1 is a Deal](https://www.youtube.com/watch?v=FUGqzE6Je5c)
+- Nov 27 - [London's Ultra Low Emission Zone to cover entire city](https://www.autocar.co.uk/car-news/consumer/londons-ultra-low-emission-zone-cover-entire-city)
+- Nov 27 - [We ran a Unix-like OS (Xv6) on our home-built CPU with our home-built C compiler (2020)](https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/)
+- Nov 27 - [Web Archive appears to be down](https://web.archive.org)
 <!--END_SECTION:hn-->
 
 <!--
