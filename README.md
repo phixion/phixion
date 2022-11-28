@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 28 - [GCC undefined behaviors are getting wild](http://blog.pkh.me/p/37-gcc-undefined-behaviors-are-getting-wild.html)
+- Nov 28 - [Wordle for Poker](https://poklegame.com/)
+- Nov 28 - [Unix History](https://www.levenez.com/unix/)
+- Nov 28 - [Refurb Weekend: The Sega Dreamcast](http://oldvcr.blogspot.com/2022/11/refurb-weekend-sega-dreamcast.html)
 - Nov 28 - [Lightweight Alpine VMs on macOS](https://beringresearch.github.io/macpine/)
-- Nov 28 - [Health Canada reveals causes of kids’ Tylenol and drug shortages](https://www.thestar.com/politics/federal/2022/11/15/health-canada-says-more-childrens-pain-medication-is-on-the-way-but-not-how-much.html)
-- Nov 28 - [The AI War and How to Win It](https://alexw.substack.com/p/war)
-- Nov 28 - [Clang is better than GCC](https://yurichev.org/clang/)
-- Nov 27 - [Photography for geeks](https://lcamtuf.coredump.cx/photo_basics/)
 <!--END_SECTION:hn-->
 
 <!--
