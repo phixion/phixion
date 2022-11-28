@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 28 - [Why young women earn more than men in some US cities](https://www.bbc.com/worklife/article/20220415-why-young-women-earn-more-than-men-in-some-us-cities)
-- Nov 28 - [China state CCTV avoids crowd close ups at the World Cup](https://threadreaderapp.com/thread/1596935475725406208.html)
-- Nov 28 - [Falsehoods programmers believe about undefined behavior](https://predr.ag/blog/falsehoods-programmers-believe-about-undefined-behavior/)
-- Nov 28 - [Open Source and Saying “No”](https://connortumbleson.com/2022/11/28/open-source-saying-no/)
-- Nov 28 - [Ask HN: How is your company training you to become a better developer/engineer?](https://news.ycombinator.com/item?id=33771732)
+- Nov 28 - [Crypto firm BlockFi files for bankruptcy as FTX fallout spreads](https://www.cnbc.com/2022/11/28/blockfi-files-for-bankruptcy-as-ftx-fallout-spreads.html)
+- Nov 28 - [Apple Introduces Oceanic+](https://www.apple.com/newsroom/2022/11/reach-new-depths-with-the-oceanic-plus-app-and-apple-watch-ultra/)
+- Nov 28 - [Perspective: Capsaicin Is a Psychoactive Substance](https://p.migdal.pl/blog/2022/10/perspective-capsaicin-is-a-psychoactive-substance/)
+- Nov 28 - [Const vs. constexpr vs. consteval vs. constinit in C++20](https://www.cppstories.com/2022/const-options-cpp20/)
+- Nov 28 - [Intentionally Making Close Friends](https://www.neelnanda.io/blog/43-making-friends)
 <!--END_SECTION:hn-->
 
 <!--
