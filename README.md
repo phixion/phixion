@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 28 - [GCC undefined behaviors are getting wild](http://blog.pkh.me/p/37-gcc-undefined-behaviors-are-getting-wild.html)
-- Nov 28 - [Wordle for Poker](https://poklegame.com/)
-- Nov 28 - [Unix History](https://www.levenez.com/unix/)
-- Nov 28 - [Refurb Weekend: The Sega Dreamcast](http://oldvcr.blogspot.com/2022/11/refurb-weekend-sega-dreamcast.html)
-- Nov 28 - [Lightweight Alpine VMs on macOS](https://beringresearch.github.io/macpine/)
+- Nov 28 - [Why young women earn more than men in some US cities](https://www.bbc.com/worklife/article/20220415-why-young-women-earn-more-than-men-in-some-us-cities)
+- Nov 28 - [China state CCTV avoids crowd close ups at the World Cup](https://threadreaderapp.com/thread/1596935475725406208.html)
+- Nov 28 - [Falsehoods programmers believe about undefined behavior](https://predr.ag/blog/falsehoods-programmers-believe-about-undefined-behavior/)
+- Nov 28 - [Open Source and Saying “No”](https://connortumbleson.com/2022/11/28/open-source-saying-no/)
+- Nov 28 - [Ask HN: How is your company training you to become a better developer/engineer?](https://news.ycombinator.com/item?id=33771732)
 <!--END_SECTION:hn-->
 
 <!--
