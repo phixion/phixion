@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 27 - [The entire crypto ecosystem is a ponzi](https://www.coppolacomment.com/2022/11/the-entire-crypto-ecosystem-is-ponzi.html)
-- Nov 27 - [Statistical process control after W. Edwards Deming](https://www.2uo.de/deming/)
-- Nov 27 - [Emacs Lisp shorthands as namespacing system](https://andreyorst.gitlab.io/posts/2022-11-01-emacs-lisp-shorthands-as-namespacing-system/)
-- Nov 27 - [Index Merges vs. Composite Indexes in Postgres and MySQL](https://sirupsen.com/index-merges)
-- Nov 27 - [Mach: A Pluggable Metrics Storage Engine for the Age of Observability [pdf]](https://www.cidrdb.org/cidr2022/papers/p12-solleza.pdf)
+- Nov 27 - [Photography for Geeks](https://lcamtuf.coredump.cx/photo_basics/)
+- Nov 27 - [NopeCHA: Captcha Solver](https://chrome.google.com/webstore/detail/nopecha-captcha-solver/dknlfmjaanfblgfdfebhijalfmhmjjjo)
+- Nov 27 - [OneSignal (YC S11) Is Hiring a Head of Developer Relations](https://onesignal.com/careers/b1924054-503d-4816-9314-7e4622abdfd7)
+- Nov 27 - [Git Notes: Git's Coolest, Most Unloved­ Feature](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
+- Nov 27 - [Stack Computers: the new wave (1989) [pdf]](https://users.ece.cmu.edu/~koopman/stack_computers/stack_computers_book.pdf)
 <!--END_SECTION:hn-->
 
 <!--
