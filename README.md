@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 28 - [Crypto firm BlockFi files for bankruptcy as FTX fallout spreads](https://www.cnbc.com/2022/11/28/blockfi-files-for-bankruptcy-as-ftx-fallout-spreads.html)
-- Nov 28 - [Apple Introduces Oceanic+](https://www.apple.com/newsroom/2022/11/reach-new-depths-with-the-oceanic-plus-app-and-apple-watch-ultra/)
-- Nov 28 - [Perspective: Capsaicin Is a Psychoactive Substance](https://p.migdal.pl/blog/2022/10/perspective-capsaicin-is-a-psychoactive-substance/)
-- Nov 28 - [Const vs. constexpr vs. consteval vs. constinit in C++20](https://www.cppstories.com/2022/const-options-cpp20/)
-- Nov 28 - [Intentionally Making Close Friends](https://www.neelnanda.io/blog/43-making-friends)
+- Nov 28 - [Apple's reaction to protests: AirDrop is now limited to 10 minutes](https://twitter.com/tibor/status/1597296268275240960)
+- Nov 28 - [Protect me from what I want](https://www.tbray.org/ongoing/When/202x/2022/11/28/On-Algorithms)
+- Nov 28 - [How thick is a three-sided coin?](https://jasmcole.com/2022/09/25/flipping-out/)
+- Nov 28 - [Building a High Performance Data Integration Framework in Go](https://www.cloudquery.io/blog/building-cloudquery)
+- Nov 28 - [Lab-Grown Meat Is Safe to Eat, FDA Says](https://www.smithsonianmag.com/smart-news/lab-grown-meat-is-safe-to-eat-fda-says-180981160/)
 <!--END_SECTION:hn-->
 
 <!--
