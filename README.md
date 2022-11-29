@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 28 - [Apple's reaction to protests: AirDrop is now limited to 10 minutes](https://twitter.com/tibor/status/1597296268275240960)
-- Nov 28 - [Protect me from what I want](https://www.tbray.org/ongoing/When/202x/2022/11/28/On-Algorithms)
-- Nov 28 - [How thick is a three-sided coin?](https://jasmcole.com/2022/09/25/flipping-out/)
-- Nov 28 - [Building a High Performance Data Integration Framework in Go](https://www.cloudquery.io/blog/building-cloudquery)
-- Nov 28 - [Lab-Grown Meat Is Safe to Eat, FDA Says](https://www.smithsonianmag.com/smart-news/lab-grown-meat-is-safe-to-eat-fda-says-180981160/)
+- Nov 28 - [US Reps Urge DOJ to Investigate Anticompetitive Conduct Affecting Apartment Rent](https://www.klobuchar.senate.gov/public/index.cfm/2022/11/klobuchar-durbin-booker-urge-department-of-justice-to-investigate-potential-anticompetitive-conduct-affecting-apartment-rent-rates)
+- Nov 28 - [New GPT-3 model: text-DaVinci-003](https://beta.openai.com/docs/models/overview)
+- Nov 28 - [Ivy (YC W23) Is Hiring Engineers to Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
+- Nov 28 - [Friends Have More Friends Than You](https://scribe.citizen4.eu/your-friends-have-more-friends-than-you-e005796841bb)
+- Nov 28 - [AI WordPress code snippet generator](https://codewp.ai/)
 <!--END_SECTION:hn-->
 
 <!--
