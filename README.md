@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 28 - [US Reps Urge DOJ to Investigate Anticompetitive Conduct Affecting Apartment Rent](https://www.klobuchar.senate.gov/public/index.cfm/2022/11/klobuchar-durbin-booker-urge-department-of-justice-to-investigate-potential-anticompetitive-conduct-affecting-apartment-rent-rates)
-- Nov 28 - [New GPT-3 model: text-DaVinci-003](https://beta.openai.com/docs/models/overview)
-- Nov 28 - [Ivy (YC W23) Is Hiring Engineers to Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
-- Nov 28 - [Friends Have More Friends Than You](https://scribe.citizen4.eu/your-friends-have-more-friends-than-you-e005796841bb)
-- Nov 28 - [AI WordPress code snippet generator](https://codewp.ai/)
+- Nov 29 - [Jsonhero.io: Enhanced JSON structure visualization](https://jsonhero.io/)
+- Nov 29 - [Shenzhou-15 manned mission ready for launch after final rehearsal](https://news.cgtn.com/news/2022-11-27/Shenzhou-15-mission-finishes-pre-launch-tests-1fiFExJ8AiA/index.html)
+- Nov 29 - [A Poor Man's API](https://blog.frankel.ch/poor-man-api/)
+- Nov 29 - [Motorola 68030 wire wrap prototype](https://retrocomputingforum.com/t/68030-prototype-at-1-mhz-18-boards-of-ttl/1387)
+- Nov 29 - [EU Regulator: Proposal to force websites to pay telcos puts Internet at risk](https://cyberlaw.stanford.edu/blog/2022/11/eus-top-telecom-regulator-big-telecoms-proposal-force-websites-pay-them-puts-internet)
 <!--END_SECTION:hn-->
 
 <!--
