@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 29 - [Jsonhero.io: Enhanced JSON structure visualization](https://jsonhero.io/)
-- Nov 29 - [Shenzhou-15 manned mission ready for launch after final rehearsal](https://news.cgtn.com/news/2022-11-27/Shenzhou-15-mission-finishes-pre-launch-tests-1fiFExJ8AiA/index.html)
-- Nov 29 - [A Poor Man's API](https://blog.frankel.ch/poor-man-api/)
-- Nov 29 - [Motorola 68030 wire wrap prototype](https://retrocomputingforum.com/t/68030-prototype-at-1-mhz-18-boards-of-ttl/1387)
-- Nov 29 - [EU Regulator: Proposal to force websites to pay telcos puts Internet at risk](https://cyberlaw.stanford.edu/blog/2022/11/eus-top-telecom-regulator-big-telecoms-proposal-force-websites-pay-them-puts-internet)
+- Nov 29 - [Obsolete Sounds: collection of disappearing sounds and extinct sounds](https://citiesandmemory.com/obsolete-sounds/)
+- Nov 29 - [Tesla blogs propagate fake news of chip joint venture, but why?](https://electrek.co/2022/11/28/tesla-blogs-propagate-fake-news-chip-joint-venture/)
+- Nov 29 - [After Delhi High Court ruling, Telegram discloses personal details of users](https://www.livelaw.in/news-updates/after-court-order-telegram-discloses-phone-numbers-ip-addresses-of-users-accused-of-sharing-infringing-material-215311)
+- Nov 29 - [Show HN: Python library for embedding large graphs (Written in Rust)](https://github.com/H4kor/graph-force)
+- Nov 29 - [Gaslighting is Word of the Year 2022](https://www.merriam-webster.com/words-at-play/word-of-the-year)
 <!--END_SECTION:hn-->
 
 <!--
