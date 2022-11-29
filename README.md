@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 29 - [Obsolete Sounds: collection of disappearing sounds and extinct sounds](https://citiesandmemory.com/obsolete-sounds/)
-- Nov 29 - [Tesla blogs propagate fake news of chip joint venture, but why?](https://electrek.co/2022/11/28/tesla-blogs-propagate-fake-news-chip-joint-venture/)
-- Nov 29 - [After Delhi High Court ruling, Telegram discloses personal details of users](https://www.livelaw.in/news-updates/after-court-order-telegram-discloses-phone-numbers-ip-addresses-of-users-accused-of-sharing-infringing-material-215311)
-- Nov 29 - [Show HN: Python library for embedding large graphs (Written in Rust)](https://github.com/H4kor/graph-force)
-- Nov 29 - [Gaslighting is Word of the Year 2022](https://www.merriam-webster.com/words-at-play/word-of-the-year)
+- Nov 29 - [UK ditches ban on 'legal but harmful' online content in favour of free speech](https://www.reuters.com/world/uk/uk-ditches-ban-legal-harmful-online-content-favour-free-speech-2022-11-28/)
+- Nov 29 - [Japanese Researchers Faked Data in ISS Simulation](https://gizmodo.com/japanese-researchers-faked-data-iss-simulation-1849827303)
+- Nov 29 - [Scaling Mastodon with systemd template units](https://www.eigenmagic.com/2022/11/29/scaling-mastodon-with-systemd-template-units/)
+- Nov 29 - [Keyboard Shortcuts every Command Line Hacker should know about GNU Readline](https://www.masteringemacs.org/article/keyboard-shortcuts-every-command-line-hacker-should-know-about-gnu-readline)
+- Nov 29 - [Notes on ExFAT and Reliability (2021)](https://pawitp.medium.com/notes-on-exfat-and-reliability-d2f194d394c2)
 <!--END_SECTION:hn-->
 
 <!--
