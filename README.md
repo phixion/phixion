@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 29 - [Dwarf-Based Stack Walking Using eBPF](https://www.polarsignals.com/blog/posts/2022/11/29/profiling-without-frame-pointers/)
-- Nov 29 - [The X500 Plus computer case (2013)](https://blog.linitx.com/x500-computer-case/)
-- Nov 29 - [Charles V of Spain Secret Code Cracked](https://www.schneier.com/blog/archives/2022/11/charles-v-of-spain-secret-code-cracked.html)
-- Nov 29 - [San Francisco considers allowing law enforcement robots to use lethal force](https://www.npr.org/2022/11/28/1139523832/san-francisco-considers-allowing-law-enforcement-robots-to-use-lethal-force)
-- Nov 29 - [Cornell, Oxford to lead grants aimed at boosting iron nutrition](https://news.cornell.edu/stories/2022/11/cornell-oxford-lead-grants-aimed-boosting-iron-nutrition)
+- Nov 29 - [Google, Epic ink deal to migrate hospital EHRs to the cloud to ramp up use of AI](https://www.fiercehealthcare.com/health-tech/google-epic-ink-deal-migrate-hospital-ehrs-cloud-ramp-use-ai-analytics)
+- Nov 29 - [European countries begin taking down public company registers after ruling](https://www.ft.com/content/e4b31a4e-a79d-40f7-8a19-c1e451a95c4b)
+- Nov 29 - [Let's Encrypt has a neat annual report [pdf]](https://www.abetterinternet.org/documents/2022-ISRG-Annual-Report.pdf)
+- Nov 29 - [Dropbox acquires Boxcryptor assets to bring zero-knowledge encryption to storage](https://techcrunch.com/2022/11/29/dropbox-acquires-boxcryptor-assets-to-bring-zero-knowledge-encryption-to-file-storage/)
+- Nov 29 - [Mastodon isn’t just a replacement for Twitter](https://www.noemamag.com/mastodon-isnt-just-a-replacement-for-twitter/)
 <!--END_SECTION:hn-->
 
 <!--
