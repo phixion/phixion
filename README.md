@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 29 - [Google, Epic ink deal to migrate hospital EHRs to the cloud to ramp up use of AI](https://www.fiercehealthcare.com/health-tech/google-epic-ink-deal-migrate-hospital-ehrs-cloud-ramp-use-ai-analytics)
-- Nov 29 - [European countries begin taking down public company registers after ruling](https://www.ft.com/content/e4b31a4e-a79d-40f7-8a19-c1e451a95c4b)
-- Nov 29 - [Let's Encrypt has a neat annual report [pdf]](https://www.abetterinternet.org/documents/2022-ISRG-Annual-Report.pdf)
-- Nov 29 - [Dropbox acquires Boxcryptor assets to bring zero-knowledge encryption to storage](https://techcrunch.com/2022/11/29/dropbox-acquires-boxcryptor-assets-to-bring-zero-knowledge-encryption-to-file-storage/)
-- Nov 29 - [Mastodon isn’t just a replacement for Twitter](https://www.noemamag.com/mastodon-isnt-just-a-replacement-for-twitter/)
+- Nov 29 - [Show HN: A userscript that adds archive URLs below the paywalled HN submissions](https://github.com/MostlyEmre/hn-anti-paywall)
+- Nov 29 - [The Mall Only Has 3 Stores](https://unfairnation.substack.com/p/the-mall-only-has-3-stores)
+- Nov 29 - [Who Controls the Internet? Authoritative NS Records in gTLDs](https://netmeister.org/blog/nsauth-diversity.html)
+- Nov 29 - [ffmpeg.wasm – a pure WebAssembly / JavaScript port of FFmpeg](https://ffmpegwasm.netlify.app)
+- Nov 29 - [How Stuff Gets eXposed](https://sgx.fail/)
 <!--END_SECTION:hn-->
 
 <!--
