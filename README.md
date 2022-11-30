@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 30 - [Quarter-Scale Retrocomputing](https://bbenchoff.github.io/pages/BeBox.html)
+- Nov 30 - [In Game of Life any buildable pattern can be constructed by colliding 15 gliders](https://btm.qva.mybluehost.me/building-arbitrary-life-patterns-in-15-gliders/)
+- Nov 30 - [Using rats to clear land mines in Cambodia](https://www.sapiens.org/culture/land-mine-detection-rats/)
 - Nov 30 - [Releasing v1 of GPT-JT, fork of GPT-6B fine-tuned on 3.53B tokens](https://www.together.xyz/research/releasing-v1-of-gpt-jt-powered-by-open-source-ai)
-- Nov 30 - [Public Beneficial Ownership Registers Advance Anti-Corruption](https://www.transparency.org/en/news/how-public-beneficial-ownership-registers-advance-anti-corruption)
 - Nov 30 - [$50SAT – Eagle2 (2015)](http://www.50dollarsat.info/)
-- Nov 30 - [Show HN: Trading cards made with e-ink displays](https://www.wyldcard.io/blog/introducing-wyldcard)
-- Nov 30 - [Artist feeds childhood diary into GPT-3 to have a chat with herself](https://nwn.blogs.com/nwn/2022/11/michelle-huang-ai-art-gpt-diary-conversation.html)
 <!--END_SECTION:hn-->
 
 <!--
