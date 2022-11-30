@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 30 - [Ask HN: Alternatives to The Economist Magazine?](https://news.ycombinator.com/item?id=33799353)
-- Nov 30 - [Windows is the strangest, or hardest, operating system to keep curl support for](https://mastodon.social/@bagder/109432034039353503)
-- Nov 30 - [Quarter-Scale Retrocomputing](https://bbenchoff.github.io/pages/BeBox.html)
-- Nov 30 - [Ask HN: Which books have made you a better thinker and problem solver?](https://news.ycombinator.com/item?id=33797862)
-- Nov 30 - [Photographs of Films](https://www.jasonshulmanstudio.com/photographs-of-films)
+- Nov 30 - [Bringing Codecov into the Sentry Family: Where Code Coverage Meets Am](https://blog.sentry.io/2022/11/30/bringing-codecov-into-the-sentry-family-where-code-coverage-meets-application-monitoring/)
+- Nov 30 - [How an early oil industry study became key in climate lawsuits](https://e360.yale.edu/features/climate-lawsuits-oil-industry-research)
+- Nov 30 - [Women visited by police after raising concerns over sewage to local MP](https://lyme-online.co.uk/news/lyme-regis-news/west-dorset-women-visited-by-police-after-raising-concerns-over-sewage-pollution-with-local-mp/)
+- Nov 30 - [Standards objections](https://www.assemblyscript.org/standards-objections.html)
+- Nov 30 - [Tell HN: If you have trouble focusing on projects/meetings, see a psychatrist](https://news.ycombinator.com/item?id=33801544)
 <!--END_SECTION:hn-->
 
 <!--
