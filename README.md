@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 30 - [Ask HN: Alternatives to The Economist Magazine?](https://news.ycombinator.com/item?id=33799353)
+- Nov 30 - [Windows is the strangest, or hardest, operating system to keep curl support for](https://mastodon.social/@bagder/109432034039353503)
 - Nov 30 - [Quarter-Scale Retrocomputing](https://bbenchoff.github.io/pages/BeBox.html)
-- Nov 30 - [In Game of Life any buildable pattern can be constructed by colliding 15 gliders](https://btm.qva.mybluehost.me/building-arbitrary-life-patterns-in-15-gliders/)
-- Nov 30 - [Using rats to clear land mines in Cambodia](https://www.sapiens.org/culture/land-mine-detection-rats/)
-- Nov 30 - [Releasing v1 of GPT-JT, fork of GPT-6B fine-tuned on 3.53B tokens](https://www.together.xyz/research/releasing-v1-of-gpt-jt-powered-by-open-source-ai)
-- Nov 30 - [$50SAT – Eagle2 (2015)](http://www.50dollarsat.info/)
+- Nov 30 - [Ask HN: Which books have made you a better thinker and problem solver?](https://news.ycombinator.com/item?id=33797862)
+- Nov 30 - [Photographs of Films](https://www.jasonshulmanstudio.com/photographs-of-films)
 <!--END_SECTION:hn-->
 
 <!--
