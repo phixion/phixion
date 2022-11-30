@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 29 - [Show HN: A userscript that adds archive URLs below the paywalled HN submissions](https://github.com/MostlyEmre/hn-anti-paywall)
-- Nov 29 - [The Mall Only Has 3 Stores](https://unfairnation.substack.com/p/the-mall-only-has-3-stores)
-- Nov 29 - [Who Controls the Internet? Authoritative NS Records in gTLDs](https://netmeister.org/blog/nsauth-diversity.html)
-- Nov 29 - [ffmpeg.wasm – a pure WebAssembly / JavaScript port of FFmpeg](https://ffmpegwasm.netlify.app)
-- Nov 29 - [How Stuff Gets eXposed](https://sgx.fail/)
+- Nov 30 - [Releasing v1 of GPT-JT, fork of GPT-6B fine-tuned on 3.53B tokens](https://www.together.xyz/research/releasing-v1-of-gpt-jt-powered-by-open-source-ai)
+- Nov 30 - [Public Beneficial Ownership Registers Advance Anti-Corruption](https://www.transparency.org/en/news/how-public-beneficial-ownership-registers-advance-anti-corruption)
+- Nov 30 - [$50SAT – Eagle2 (2015)](http://www.50dollarsat.info/)
+- Nov 30 - [Show HN: Trading cards made with e-ink displays](https://www.wyldcard.io/blog/introducing-wyldcard)
+- Nov 30 - [Artist feeds childhood diary into GPT-3 to have a chat with herself](https://nwn.blogs.com/nwn/2022/11/michelle-huang-ai-art-gpt-diary-conversation.html)
 <!--END_SECTION:hn-->
 
 <!--
