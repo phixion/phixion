@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 30 - [Bringing Codecov into the Sentry Family: Where Code Coverage Meets Am](https://blog.sentry.io/2022/11/30/bringing-codecov-into-the-sentry-family-where-code-coverage-meets-application-monitoring/)
-- Nov 30 - [How an early oil industry study became key in climate lawsuits](https://e360.yale.edu/features/climate-lawsuits-oil-industry-research)
-- Nov 30 - [Women visited by police after raising concerns over sewage to local MP](https://lyme-online.co.uk/news/lyme-regis-news/west-dorset-women-visited-by-police-after-raising-concerns-over-sewage-pollution-with-local-mp/)
-- Nov 30 - [Standards objections](https://www.assemblyscript.org/standards-objections.html)
-- Nov 30 - [Tell HN: If you have trouble focusing on projects/meetings, see a psychatrist](https://news.ycombinator.com/item?id=33801544)
+- Nov 30 - [Google Details Tools of Commercial Spyware Vendor Variston](https://duo.com/decipher/google-exposes-heliconia-exploit-framework-targeting-chrome-firefox-windows)
+- Nov 30 - [Twitter 2.0: Our continued commitment to the public conversation](https://blog.twitter.com/en_us/topics/company/2022/twitter-2-0-our-continued-commitment-to-the-public-conversation)
+- Nov 30 - [pup: Parsing HTML at the Command Line](https://github.com/ericchiang/pup)
+- Nov 30 - [How much does Rust's bounds checking cost?](https://blog.readyset.io/bounds-checks/)
+- Nov 30 - [Image Generation with Electrostatics](https://www.assemblyai.com/blog/an-introduction-to-poisson-flow-generative-models/)
 <!--END_SECTION:hn-->
 
 <!--
