@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 01 - [Firezone (YC W22) is hiring engineers to work on open-source network security](https://www.ycombinator.com/companies/firezone/jobs/BvqYd3f-founding-engineer)
-- Dec 01 - [NixOS 22.11 “Raccoon” Released](https://nixos.org/blog/announcements)
-- Dec 01 - [Estimated cumulative excess deaths during Covid, World](https://ourworldindata.org/grapher/excess-deaths-cumulative-economist-single-entity)
-- Dec 01 - [Human Chess is a chess variant where playing the top engine move is forbidden](https://humanchess.abcd.party)
-- Dec 01 - [Isometric Pixel Art](https://www.slynyrd.com/blog/2022/11/28/pixelblog-41-isometric-pixel-art)
+- Dec 01 - [Mozilla Have Acquired Pulse](https://blog.mozilla.org/en/mozilla/pulse-joins-the-mozilla-family/)
+- Dec 01 - [Keyboard Latency](https://danluu.com/keyboard-latency/)
+- Dec 01 - [EFF Takes a Stance: San Francisco Shouldn’t Arm Robots](https://www.eff.org/deeplinks/2022/11/let-them-know-san-francisco-shouldnt-arm-robots)
+- Dec 01 - [Sperm counts worldwide are plummeting faster than we thought](https://www.nationalgeographic.com/magazine/article/sperm-counts-worldwide-plummeting-fast-infertility-lifestyle)
+- Dec 01 - [Hi, Hello, I’m Back at It](https://kottke.org/22/11/hi-hello-im-back-at-it)
 <!--END_SECTION:hn-->
 
 <!--
