@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 01 - [Mozilla Have Acquired Pulse](https://blog.mozilla.org/en/mozilla/pulse-joins-the-mozilla-family/)
-- Dec 01 - [Keyboard Latency](https://danluu.com/keyboard-latency/)
-- Dec 01 - [EFF Takes a Stance: San Francisco Shouldn’t Arm Robots](https://www.eff.org/deeplinks/2022/11/let-them-know-san-francisco-shouldnt-arm-robots)
-- Dec 01 - [Sperm counts worldwide are plummeting faster than we thought](https://www.nationalgeographic.com/magazine/article/sperm-counts-worldwide-plummeting-fast-infertility-lifestyle)
-- Dec 01 - [Hi, Hello, I’m Back at It](https://kottke.org/22/11/hi-hello-im-back-at-it)
+- Dec 01 - [“I've asked Stable Diffusion to generate 250 pages of 1987 RadioShack catalog”](https://tilde.zone/@ftrain/109436259129597431)
+- Dec 01 - [CRDTs make multiplayer text editing part of Zed's DNA](https://zed.dev/blog/crdts)
+- Dec 01 - [Discord’s Creator Portal](https://discord.com/creators)
+- Dec 01 - [PostScript: A Digital Printing Press](https://computerhistory.org/blog/postscript-a-digital-printing-press/)
+- Dec 01 - [Apple Blocks Coinbase wallet, for not giving them a 30% cut of exchange fees](https://twitter.com/coinbasewallet/status/1598354819735031809)
 <!--END_SECTION:hn-->
 
 <!--
