@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 01 - [Surely you're publishing, Mr. Feynman](https://praveshkoirala.com/2022/11/03/surely-you-are-publishing-mr-feynman/)
-- Dec 01 - [New Browser Dynamic Viewport Units](https://web.dev/viewport-units/)
-- Dec 01 - [What Are Executive Off-Sites Good For?](https://tomcritchlow.com/2022/10/06/exec-offsites/)
-- Dec 01 - [Advent of Code 2022 is nigh](https://adventofcode.com/2022)
-- Dec 01 - [A Vim Guide for Advanced Users](https://thevaluable.dev/vim-advanced/)
+- Dec 01 - [Firezone (YC W22) is hiring engineers to work on open-source network security](https://www.ycombinator.com/companies/firezone/jobs/BvqYd3f-founding-engineer)
+- Dec 01 - [NixOS 22.11 “Raccoon” Released](https://nixos.org/blog/announcements)
+- Dec 01 - [Estimated cumulative excess deaths during Covid, World](https://ourworldindata.org/grapher/excess-deaths-cumulative-economist-single-entity)
+- Dec 01 - [Human Chess is a chess variant where playing the top engine move is forbidden](https://humanchess.abcd.party)
+- Dec 01 - [Isometric Pixel Art](https://www.slynyrd.com/blog/2022/11/28/pixelblog-41-isometric-pixel-art)
 <!--END_SECTION:hn-->
 
 <!--
