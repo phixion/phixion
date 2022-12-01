@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 30 - [Elastic.co lays off 13% of team](https://www.elastic.co/blog/ceo-ash-kulkarni-email-to-elastic-employees)
-- Nov 30 - [LastPass owner GoTo has been hacked](https://www.goto.com/blog/our-response-to-a-recent-security-incident)
-- Nov 30 - [Bugout: Browser-to-browser networking built on WebTorrent](https://github.com/chr15m/bugout)
+- Dec 01 - [Advent of Code 2022 is nigh](https://adventofcode.com/2022)
+- Dec 01 - [Show HN: I am building a Safari Web Extension to switch tabs efficiently](https://taptab.manibatra.xyz/)
+- Dec 01 - [Making unphishable 2FA phishable](https://mjg59.dreamwidth.org/62175.html)
+- Dec 01 - [Age that kids acquire mobile phones not linked to well-being: study](https://med.stanford.edu/news/all-news/2022/11/children-mobile-phone-age.html)
 - Nov 30 - [GIMP Turns 27](https://www.gimp.org/news/2022/11/21/gimp-27-birthday/)
-- Nov 30 - [Meticulous (YC S21) Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=33807621)
 <!--END_SECTION:hn-->
 
 <!--
