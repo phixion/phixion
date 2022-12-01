@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 30 - [Google Details Tools of Commercial Spyware Vendor Variston](https://duo.com/decipher/google-exposes-heliconia-exploit-framework-targeting-chrome-firefox-windows)
-- Nov 30 - [Twitter 2.0: Our continued commitment to the public conversation](https://blog.twitter.com/en_us/topics/company/2022/twitter-2-0-our-continued-commitment-to-the-public-conversation)
-- Nov 30 - [pup: Parsing HTML at the Command Line](https://github.com/ericchiang/pup)
-- Nov 30 - [How much does Rust's bounds checking cost?](https://blog.readyset.io/bounds-checks/)
-- Nov 30 - [Image Generation with Electrostatics](https://www.assemblyai.com/blog/an-introduction-to-poisson-flow-generative-models/)
+- Nov 30 - [Elastic.co lays off 13% of team](https://www.elastic.co/blog/ceo-ash-kulkarni-email-to-elastic-employees)
+- Nov 30 - [LastPass owner GoTo has been hacked](https://www.goto.com/blog/our-response-to-a-recent-security-incident)
+- Nov 30 - [Bugout: Browser-to-browser networking built on WebTorrent](https://github.com/chr15m/bugout)
+- Nov 30 - [GIMP Turns 27](https://www.gimp.org/news/2022/11/21/gimp-27-birthday/)
+- Nov 30 - [Meticulous (YC S21) Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=33807621)
 <!--END_SECTION:hn-->
 
 <!--
