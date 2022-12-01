@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 01 - [Surely you're publishing, Mr. Feynman](https://praveshkoirala.com/2022/11/03/surely-you-are-publishing-mr-feynman/)
+- Dec 01 - [New Browser Dynamic Viewport Units](https://web.dev/viewport-units/)
+- Dec 01 - [What Are Executive Off-Sites Good For?](https://tomcritchlow.com/2022/10/06/exec-offsites/)
 - Dec 01 - [Advent of Code 2022 is nigh](https://adventofcode.com/2022)
-- Dec 01 - [Show HN: I am building a Safari Web Extension to switch tabs efficiently](https://taptab.manibatra.xyz/)
-- Dec 01 - [Making unphishable 2FA phishable](https://mjg59.dreamwidth.org/62175.html)
-- Dec 01 - [Age that kids acquire mobile phones not linked to well-being: study](https://med.stanford.edu/news/all-news/2022/11/children-mobile-phone-age.html)
-- Nov 30 - [GIMP Turns 27](https://www.gimp.org/news/2022/11/21/gimp-27-birthday/)
+- Dec 01 - [A Vim Guide for Advanced Users](https://thevaluable.dev/vim-advanced/)
 <!--END_SECTION:hn-->
 
 <!--
