@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 02 - [Alameda took 1B hit in mobileCoin trade to prop up FTX](https://www.ft.com/content/5e9dc424-aef4-4981-a4d7-e3c40e1e6085)
-- Dec 02 - [Remotely unlock/start/locate/flash/honk any remotely connected Honda/Nissan](https://twitter.com/samwcyo/status/1597792097175674880)
-- Dec 02 - [Ticketmaster's tech problem isn't a tech problem](https://mattstoller.substack.com/p/dont-make-taylor-swift-fans-angry)
-- Dec 02 - [The Audacity of Piping Curl to Bash](https://yotam.net/posts/the-audacity-of-piping-curl-to-bash/)
-- Dec 02 - [DNS over Wikipedia](https://github.com/aaronjanse/dns-over-wikipedia)
+- Dec 02 - [Why Hasn’t Sam Bankman-Fried Been Arrested Yet?](https://nymag.com/intelligencer/2022/12/why-hasnt-sam-bankman-fried-been-arrested-yet.html)
+- Dec 02 - [Snap updates happen without user consent](https://smaller.fish/posts/snap_updates)
+- Dec 02 - [Clara.io Shutting Down](https://news.ycombinator.com/item?id=33834828)
+- Dec 02 - [FCC Partially Grants SpaceX Gen2 Broadband Satellite Application](https://www.fcc.gov/document/fcc-partially-grants-spacex-gen2-broadband-satellite-application)
+- Dec 02 - [Cancer Weakness Discovered: New Method Pushes Cancer Cells into Remission](https://scitechdaily.com/cancer-weakness-discovered-new-method-pushes-cancer-cells-into-remission/)
 <!--END_SECTION:hn-->
 
 <!--
