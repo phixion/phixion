@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 02 - [BloomTech, previously Lambda School, cuts half of staff](https://techcrunch.com/2022/12/01/bloomtech-previously-lambda-school-cuts-half-of-staff/)
+- Dec 01 - [Accelerando (2005)](https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html)
 - Dec 01 - [Android platform signing key compromised](https://bugs.chromium.org/p/apvi/issues/detail?id=100)
+- Dec 01 - [The distinction between free speech as a legal right and cultural value](https://www.thefire.org/news/free-speech-culture-elon-musk-and-twitter)
 - Dec 01 - [Machines and Chaos](https://jakespracher.medium.com/machines-and-chaos-9f0e87eebe86)
-- Dec 01 - [Show HN: A Japanese learning app focused on efficient vocab/grammar acquisition](https://lessons.nihongo-app.com)
-- Dec 01 - [The Legacy of Peer-to-Peer Systems](https://cacm.acm.org/blogs/blog-cacm/267236-the-legacy-of-peer-to-peer-systems/fulltext)
-- Dec 01 - [Stable Diffusion with Core ML on Apple Silicon](https://machinelearning.apple.com/research/stable-diffusion-coreml-apple-silicon)
 <!--END_SECTION:hn-->
 
 <!--
