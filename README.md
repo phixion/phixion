@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 01 - [“I've asked Stable Diffusion to generate 250 pages of 1987 RadioShack catalog”](https://tilde.zone/@ftrain/109436259129597431)
-- Dec 01 - [CRDTs make multiplayer text editing part of Zed's DNA](https://zed.dev/blog/crdts)
-- Dec 01 - [Discord’s Creator Portal](https://discord.com/creators)
-- Dec 01 - [PostScript: A Digital Printing Press](https://computerhistory.org/blog/postscript-a-digital-printing-press/)
-- Dec 01 - [Apple Blocks Coinbase wallet, for not giving them a 30% cut of exchange fees](https://twitter.com/coinbasewallet/status/1598354819735031809)
+- Dec 01 - [Android platform signing key compromised](https://bugs.chromium.org/p/apvi/issues/detail?id=100)
+- Dec 01 - [Machines and Chaos](https://jakespracher.medium.com/machines-and-chaos-9f0e87eebe86)
+- Dec 01 - [Show HN: A Japanese learning app focused on efficient vocab/grammar acquisition](https://lessons.nihongo-app.com)
+- Dec 01 - [The Legacy of Peer-to-Peer Systems](https://cacm.acm.org/blogs/blog-cacm/267236-the-legacy-of-peer-to-peer-systems/fulltext)
+- Dec 01 - [Stable Diffusion with Core ML on Apple Silicon](https://machinelearning.apple.com/research/stable-diffusion-coreml-apple-silicon)
 <!--END_SECTION:hn-->
 
 <!--
