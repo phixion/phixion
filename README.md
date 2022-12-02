@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 02 - [Migrating from Vue 2 to Svelte](https://escape.tech/blog/from-vue2-to-svelte/)
-- Dec 02 - [NANDputer Lives (2013)](http://blog.kevtris.org/?p=62)
-- Dec 02 - [BloomTech, previously Lambda School, cuts half of staff](https://techcrunch.com/2022/12/01/bloomtech-previously-lambda-school-cuts-half-of-staff/)
-- Dec 01 - [Accelerando (2005)](https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html)
-- Dec 01 - [Platform certificates used to sign malware](https://bugs.chromium.org/p/apvi/issues/detail?id=100)
+- Dec 02 - [Emerge Tools (YC W21) Is Hiring a Rockstar Senior Mobile Engineer](https://www.ycombinator.com/companies/emerge-tools/jobs/5Y3MCJi-senior-mobile-engineer)
+- Dec 02 - [After violent robberies, some photographers opt to stay away from San Francisco](https://abc7news.com/san-francisco-photography-robbery-photographers-not-visiting-photographer-assaulted-palace-of-fine-arts-attack/12453913/)
+- Dec 02 - [Smartphones wiped out 97% of the compact camera market](https://asia.nikkei.com/Business/Business-trends/Panasonic-Nikon-quit-developing-low-end-compact-digital-cameras)
+- Dec 02 - [Date Masamune: the samurai who inspired Darth Vader](https://nipponrama.com/date-masamune-samurai-darth-vader/)
+- Dec 02 - [The Death of Quanta Magazine](https://mateusaraujo.info/2022/12/01/the-death-of-quanta-magazine/)
 <!--END_SECTION:hn-->
 
 <!--
