@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 02 - [Why Hasn’t Sam Bankman-Fried Been Arrested Yet?](https://nymag.com/intelligencer/2022/12/why-hasnt-sam-bankman-fried-been-arrested-yet.html)
-- Dec 02 - [Snap updates happen without user consent](https://smaller.fish/posts/snap_updates)
-- Dec 02 - [Clara.io Shutting Down](https://news.ycombinator.com/item?id=33834828)
-- Dec 02 - [FCC Partially Grants SpaceX Gen2 Broadband Satellite Application](https://www.fcc.gov/document/fcc-partially-grants-spacex-gen2-broadband-satellite-application)
-- Dec 02 - [Cancer Weakness Discovered: New Method Pushes Cancer Cells into Remission](https://scitechdaily.com/cancer-weakness-discovered-new-method-pushes-cancer-cells-into-remission/)
+- Dec 02 - [The Financial Times has had an error on its “Market Data” page for 18 months](https://mako.cc/copyrighteous/the-financial-times-has-been-printing-an-obvious-error-on-its-market-data-page-for-18-months-and-nobody-else-seems-to-have-noticed)
+- Dec 02 - [Datasette’s new JSON write API: The first alpha of Datasette 1.0](https://simonwillison.net/2022/Dec/2/datasette-write-api/)
+- Dec 02 - [Puter](https://puter.com/)
+- Dec 02 - [The clever reason scammers can’t spell (2019)](https://itservices.wp.st-andrews.ac.uk/2019/06/06/the-clever-reason-scammers-cant-spell/)
+- Dec 02 - [Carmack on star fields in VR](https://twitter.com/id_aa_carmack/status/1598792396191375361)
 <!--END_SECTION:hn-->
 
 <!--
