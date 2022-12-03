@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 03 - [Show HN: Explore Wikipedia edits made by institutions, companies and governments](http://wikiwho.ailef.tech)
-- Dec 03 - [Twitter is limiting Mastodon Twitter Crossposter](https://crossposter.masto.donte.com.br/)
-- Dec 03 - [Complete working transistor-scale replica of the classic MOS6502 microprocessor](https://monster6502.com/)
-- Dec 03 - [ChatGPT produces made-up nonexistent references](https://news.ycombinator.com/item?id=33841672)
-- Dec 03 - [Pre-Auth RCE with CodeQL in Under 20 Minutes](https://frycos.github.io/vulns4free/2022/12/02/rce-in-20-minutes.html)
+- Dec 03 - [Mistaken Beliefs About How Much to Talk in Conversations](https://journals.sagepub.com/doi/10.1177/01461672221104927)
+- Dec 03 - [Using Rust at a startup: A cautionary tale](https://scribe.rip/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454)
+- Dec 03 - [How to post to Mastodon automatically from an RSS Feed](https://lukas.io/autoposting-rss-to-mastodon)
+- Dec 03 - [Ask HN: Consultants, what tax software do you use?](https://news.ycombinator.com/item?id=33843816)
+- Dec 03 - [EmacsConf 2022](https://emacsconf.org/2022/)
 <!--END_SECTION:hn-->
 
 <!--
