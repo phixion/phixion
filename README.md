@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 03 - [Rackspace Exchange hosting down ~18 hours; “solution” is to start over on O365](https://twitter.com/rackspace/status/1598854426105548801)
-- Dec 02 - [Starshield: Secured satellite network for government entities](https://www.spacex.com/starshield/)
-- Dec 02 - [The Twitter Files](https://twitter.com/mtaibbi/status/1598822959866683394)
-- Dec 02 - [The Financial Times has had an error on its “Market Data” page for 18 months](https://mako.cc/copyrighteous/the-financial-times-has-been-printing-an-obvious-error-on-its-market-data-page-for-18-months-and-nobody-else-seems-to-have-noticed)
-- Dec 02 - [Datasette’s new JSON write API: The first alpha of Datasette 1.0](https://simonwillison.net/2022/Dec/2/datasette-write-api/)
+- Dec 03 - [Why 50% of MIT students get the bat and ball problem wrong](https://mannhowie.com/cognitive-reflection-test)
+- Dec 03 - [An Extended Model of Software Configuration](https://arxiv.org/abs/2212.00505)
+- Dec 03 - [New Zealand admits it has access to Facebook takedown portal to censor content](https://reclaimthenet.org/new-zealand-government-facebook-content-takedown-portal/)
+- Dec 03 - [Streaming lossless VNC to a web browser with Quite OK image format](https://kasmweb.com/docs/latest/how_to/lossless.html)
+- Dec 03 - [$7M lost on Amazon inventory, then bankrupt](https://medium.com/@david073/7-million-dollar-amazon-bankrupt-cf977fb085f5)
 <!--END_SECTION:hn-->
 
 <!--
