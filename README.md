@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 03 - [Why 50% of MIT students get the bat and ball problem wrong](https://mannhowie.com/cognitive-reflection-test)
-- Dec 03 - [An Extended Model of Software Configuration](https://arxiv.org/abs/2212.00505)
-- Dec 03 - [New Zealand admits it has access to Facebook takedown portal to censor content](https://reclaimthenet.org/new-zealand-government-facebook-content-takedown-portal/)
-- Dec 03 - [Streaming lossless VNC to a web browser with Quite OK image format](https://kasmweb.com/docs/latest/how_to/lossless.html)
-- Dec 03 - [$7M lost on Amazon inventory, then bankrupt](https://medium.com/@david073/7-million-dollar-amazon-bankrupt-cf977fb085f5)
+- Dec 03 - [Show HN: Explore Wikipedia edits made by institutions, companies and governments](http://wikiwho.ailef.tech)
+- Dec 03 - [Twitter is limiting Mastodon Twitter Crossposter](https://crossposter.masto.donte.com.br/)
+- Dec 03 - [Complete working transistor-scale replica of the classic MOS6502 microprocessor](https://monster6502.com/)
+- Dec 03 - [ChatGPT produces made-up nonexistent references](https://news.ycombinator.com/item?id=33841672)
+- Dec 03 - [Pre-Auth RCE with CodeQL in Under 20 Minutes](https://frycos.github.io/vulns4free/2022/12/02/rce-in-20-minutes.html)
 <!--END_SECTION:hn-->
 
 <!--
