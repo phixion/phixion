@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 03 - [Rackspace Exchange hosting down ~18 hours; “solution” is to start over on O365](https://twitter.com/rackspace/status/1598854426105548801)
+- Dec 02 - [Starshield: Secured satellite network for government entities](https://www.spacex.com/starshield/)
+- Dec 02 - [The Twitter Files](https://twitter.com/mtaibbi/status/1598822959866683394)
 - Dec 02 - [The Financial Times has had an error on its “Market Data” page for 18 months](https://mako.cc/copyrighteous/the-financial-times-has-been-printing-an-obvious-error-on-its-market-data-page-for-18-months-and-nobody-else-seems-to-have-noticed)
 - Dec 02 - [Datasette’s new JSON write API: The first alpha of Datasette 1.0](https://simonwillison.net/2022/Dec/2/datasette-write-api/)
-- Dec 02 - [Puter](https://puter.com/)
-- Dec 02 - [The clever reason scammers can’t spell (2019)](https://itservices.wp.st-andrews.ac.uk/2019/06/06/the-clever-reason-scammers-cant-spell/)
-- Dec 02 - [Carmack on star fields in VR](https://twitter.com/id_aa_carmack/status/1598792396191375361)
 <!--END_SECTION:hn-->
 
 <!--
