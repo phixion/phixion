@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 03 - [Mistaken Beliefs About How Much to Talk in Conversations](https://journals.sagepub.com/doi/10.1177/01461672221104927)
-- Dec 03 - [Using Rust at a startup: A cautionary tale](https://scribe.rip/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454)
-- Dec 03 - [How to post to Mastodon automatically from an RSS Feed](https://lukas.io/autoposting-rss-to-mastodon)
-- Dec 03 - [Ask HN: Consultants, what tax software do you use?](https://news.ycombinator.com/item?id=33843816)
-- Dec 03 - [EmacsConf 2022](https://emacsconf.org/2022/)
+- Dec 03 - [MagSpoof: Wireless Magstrip Spoofer](https://github.com/samyk/magspoof)
+- Dec 03 - [The Truth Matters and Secular Humanists Should Defend It](https://secularhumanism.org/2022/12/the-truth-matters-and-secular-humanists-should-defend-it/)
+- Dec 03 - [The Dawn of Mediocre Computing](https://studio.ribbonfarm.com/p/the-dawn-of-mediocre-computing)
+- Dec 03 - [Show HN: This Hacker News Does Not Exist](https://coxomb.github.io/This-Hacker-News-Does-Not-Exist/)
+- Dec 03 - [How the 8086 processor's microcode engine works](https://www.righto.com/2022/11/how-8086-processors-microcode-engine.html)
 <!--END_SECTION:hn-->
 
 <!--
