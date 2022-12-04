@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 04 - [Apple to move 40-45% iPhone production to India](https://www.wsj.com/articles/apple-china-factory-protests-foxconn-manufacturing-production-supply-chain-11670023099)
-- Dec 04 - [Ask HN: How do you fix the “no longer feel” anything in tech?](https://news.ycombinator.com/item?id=33851334)
-- Dec 04 - [PhilTel is looking to install free payphones in Philadelphia](https://philtel.org/)
-- Dec 04 - [Placing #1 in Advent of Code with GPT-3](https://github.com/max-sixty/aoc-gpt)
-- Dec 04 - [Amazon layoffs now expected to mount to 20k, including top managers](https://www.computerworld.com/article/3682071/amazon-layoffs-now-expected-to-mount-to-20000-including-top-managers.html)
+- Dec 04 - [Paralympian claims Canada offered to euthanise her when she asked for stairlift](https://www.independent.co.uk/news/world/americas/christine-gauthier-paralympian-euthanasia-canada-b2238319.html)
+- Dec 04 - [Recommendations for Japan Travel](https://www.kalzumeus.com/japan-recommendations/)
+- Dec 04 - [Iran abolishes controversial morality police](https://www.hindustantimes.com/world-news/iran-anti-hijab-protests-mahsa-amini-death-iran-abolishes-controversial-morality-police-amid-massive-unrest-report-101670145795129.html)
+- Dec 04 - [The U.S. military is poisoning Okinawa](https://www.militarypoisons.org/latest-news/the-us-military-is-poisoning-okinawa)
+- Dec 04 - [Cognitive ability is a powerful predictor of political tolerance](https://onlinelibrary.wiley.com/doi/abs/10.1111/jopy.12667)
 <!--END_SECTION:hn-->
 
 <!--
