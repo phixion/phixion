@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 03 - [Fosshost Is Shutting Down](https://fosshost.org/)
-- Dec 03 - [Gameboy Doctor: debug and fix your gameboy emulator](https://robertheaton.com/gameboy-doctor/)
-- Dec 03 - [Building a Virtual Machine Inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/)
-- Dec 03 - [Anker’s Eufy lied to us about the security of its security cameras](https://www.theverge.com/2022/11/30/23486753/anker-eufy-security-camera-cloud-private-encryption-authentication-storage)
-- Dec 03 - [Judge finds no rights violations in FBI seizure Beverly Hills safe-deposit boxes](https://www.latimes.com/california/story/2022-09-30/judge-backs-fbi-beverly-hills-safe-deposit-box-raid)
+- Dec 04 - [Gridbox Is Shutting Down](https://www.gridbox.io)
+- Dec 04 - [Emacs should become a Wayland compositor](https://emacsconf.org/2022/talks/wayland/)
+- Dec 04 - [FTX Founder Sam Bankman-Fried Says He Can’t Account for Billions Sent to Alameda](https://www.wsj.com/articles/ftx-founder-sam-bankman-fried-says-he-cant-account-for-billions-sent-to-alameda-11670107659)
+- Dec 04 - [Convincing ChatGPT to Eradicate Humanity with Python Code](https://zacdenham.com/blog/narrative-manipulation-convincing-gpt-chat-to-write-a-python-program-to-eradicate-humanity)
+- Dec 04 - [It’s Time for ‘Maximum Viable Product’](https://debugger.medium.com/its-time-for-maximum-viable-product-eec9d5211156)
 <!--END_SECTION:hn-->
 
 <!--
