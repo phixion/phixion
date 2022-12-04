@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 03 - [MagSpoof: Wireless Magstrip Spoofer](https://github.com/samyk/magspoof)
-- Dec 03 - [The Truth Matters and Secular Humanists Should Defend It](https://secularhumanism.org/2022/12/the-truth-matters-and-secular-humanists-should-defend-it/)
-- Dec 03 - [The Dawn of Mediocre Computing](https://studio.ribbonfarm.com/p/the-dawn-of-mediocre-computing)
-- Dec 03 - [Show HN: This Hacker News Does Not Exist](https://coxomb.github.io/This-Hacker-News-Does-Not-Exist/)
-- Dec 03 - [How the 8086 processor's microcode engine works](https://www.righto.com/2022/11/how-8086-processors-microcode-engine.html)
+- Dec 03 - [Fosshost Is Shutting Down](https://fosshost.org/)
+- Dec 03 - [Gameboy Doctor: debug and fix your gameboy emulator](https://robertheaton.com/gameboy-doctor/)
+- Dec 03 - [Building a Virtual Machine Inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/)
+- Dec 03 - [Anker’s Eufy lied to us about the security of its security cameras](https://www.theverge.com/2022/11/30/23486753/anker-eufy-security-camera-cloud-private-encryption-authentication-storage)
+- Dec 03 - [Judge finds no rights violations in FBI seizure Beverly Hills safe-deposit boxes](https://www.latimes.com/california/story/2022-09-30/judge-backs-fbi-beverly-hills-safe-deposit-box-raid)
 <!--END_SECTION:hn-->
 
 <!--
