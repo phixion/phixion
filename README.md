@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 04 - [Gridbox Is Shutting Down](https://www.gridbox.io)
-- Dec 04 - [Emacs should become a Wayland compositor](https://emacsconf.org/2022/talks/wayland/)
-- Dec 04 - [FTX Founder Sam Bankman-Fried Says He Can’t Account for Billions Sent to Alameda](https://www.wsj.com/articles/ftx-founder-sam-bankman-fried-says-he-cant-account-for-billions-sent-to-alameda-11670107659)
-- Dec 04 - [Convincing ChatGPT to Eradicate Humanity with Python Code](https://zacdenham.com/blog/narrative-manipulation-convincing-gpt-chat-to-write-a-python-program-to-eradicate-humanity)
-- Dec 04 - [It’s Time for ‘Maximum Viable Product’](https://debugger.medium.com/its-time-for-maximum-viable-product-eec9d5211156)
+- Dec 04 - [Apple to move 40-45% iPhone production to India](https://www.wsj.com/articles/apple-china-factory-protests-foxconn-manufacturing-production-supply-chain-11670023099)
+- Dec 04 - [Ask HN: How do you fix the “no longer feel” anything in tech?](https://news.ycombinator.com/item?id=33851334)
+- Dec 04 - [PhilTel is looking to install free payphones in Philadelphia](https://philtel.org/)
+- Dec 04 - [Placing #1 in Advent of Code with GPT-3](https://github.com/max-sixty/aoc-gpt)
+- Dec 04 - [Amazon layoffs now expected to mount to 20k, including top managers](https://www.computerworld.com/article/3682071/amazon-layoffs-now-expected-to-mount-to-20000-including-top-managers.html)
 <!--END_SECTION:hn-->
 
 <!--
