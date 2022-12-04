@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 04 - [Show HN: Whole Git repo was made with ChatGPT](https://github.com/vrescobar/chatGPT-python-elm)
-- Dec 04 - [Winter Is Here: Slowing Down to Fight SAD](https://nicky.bearblog.dev/sad-is-here/)
-- Dec 04 - [A new AI game: Give me ideas for crimes to do](https://simonwillison.net/2022/Dec/4/give-me-ideas-for-crimes-to-do/)
-- Dec 04 - [The War on General Purpose Computing](https://csclub.uwaterloo.ca/resources/tech-talks/cory-doctorow-the-war-on-general-purpose-computing/)
-- Dec 04 - [Show HN: Chrome extension to display ChatGPT response besides Google Search](https://github.com/wong2/chat-gpt-google-extension)
+- Dec 04 - [How to work with people who pushback forcefully on team/company standards?](https://news.ycombinator.com/item?id=33856788)
+- Dec 04 - [Tell HN: The ThinkPad X1 Carbon is an excellent MacBook replacement](https://news.ycombinator.com/item?id=33856544)
+- Dec 04 - [Interactive text game of surgery in early 1800s](https://oldoperatingtheatre.com/step-into-the-role-of-a-surgeon-in-our-interactive-game/)
+- Dec 04 - [PFC bans are going to change the face of all waterproof garments](https://www.cyclingnews.com/news/pfc-bans-are-going-to-change-the-face-of-all-waterproof-garments/)
+- Dec 04 - [Invisible Characters](https://invisible-characters.com/)
 <!--END_SECTION:hn-->
 
 <!--
