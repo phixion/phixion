@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 04 - [Paralympian claims Canada offered to euthanise her when she asked for stairlift](https://www.independent.co.uk/news/world/americas/christine-gauthier-paralympian-euthanasia-canada-b2238319.html)
-- Dec 04 - [Recommendations for Japan Travel](https://www.kalzumeus.com/japan-recommendations/)
-- Dec 04 - [Iran abolishes controversial morality police](https://www.hindustantimes.com/world-news/iran-anti-hijab-protests-mahsa-amini-death-iran-abolishes-controversial-morality-police-amid-massive-unrest-report-101670145795129.html)
-- Dec 04 - [The U.S. military is poisoning Okinawa](https://www.militarypoisons.org/latest-news/the-us-military-is-poisoning-okinawa)
-- Dec 04 - [Cognitive ability is a powerful predictor of political tolerance](https://onlinelibrary.wiley.com/doi/abs/10.1111/jopy.12667)
+- Dec 04 - [Show HN: Whole Git repo was made with ChatGPT](https://github.com/vrescobar/chatGPT-python-elm)
+- Dec 04 - [Winter Is Here: Slowing Down to Fight SAD](https://nicky.bearblog.dev/sad-is-here/)
+- Dec 04 - [A new AI game: Give me ideas for crimes to do](https://simonwillison.net/2022/Dec/4/give-me-ideas-for-crimes-to-do/)
+- Dec 04 - [The War on General Purpose Computing](https://csclub.uwaterloo.ca/resources/tech-talks/cory-doctorow-the-war-on-general-purpose-computing/)
+- Dec 04 - [Show HN: Chrome extension to display ChatGPT response besides Google Search](https://github.com/wong2/chat-gpt-google-extension)
 <!--END_SECTION:hn-->
 
 <!--
