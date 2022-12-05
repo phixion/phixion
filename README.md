@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 05 - [AI Homework](https://stratechery.com/2022/ai-homework/)
-- Dec 05 - [Ask HN: Image attribution and stable diffusion](https://news.ycombinator.com/item?id=33866466)
-- Dec 05 - [Can Lego City Powered Up trains be automated?](https://bricks.stackexchange.com/questions/17587/can-lego-city-powered-up-trains-be-automated)
-- Dec 05 - [Cops Can Extract Data from 10k Different Car Models’ Infotainment Systems](https://www.forbes.com/sites/thomasbrewster/2022/12/01/10000-cars-can-be-data-raided-by-police-ice-cbp-love-it/)
-- Dec 05 - [Lichess on Scala3 – Help needed](https://lichess.org/@/thibault/blog/lichess-on-scala3-help-needed/2bpotLb0)
+- Dec 05 - [Simulate Asteroid Impacts on Earth](https://neal.fun/asteroid-launcher/)
+- Dec 05 - [When McKinsey comes to town](https://www.lrb.co.uk/the-paper/v44/n24/laleh-khalili/in-clover)
+- Dec 05 - [Build List: A directory of on-demand manufacturers for your creative projects](https://buildlist.org/)
+- Dec 05 - [Turing Machines Are Recurrent Neural Networks (1996)](http://users.ics.aalto.fi/tho/stes/step96/hyotyniemi1/)
+- Dec 05 - [DHS announces extension of Real ID full enforcement deadline](https://www.dhs.gov/news/2022/12/05/dhs-announces-extension-real-id-full-enforcement-deadline)
 <!--END_SECTION:hn-->
 
 <!--
