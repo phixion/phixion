@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 05 - [Elephants born without tusks in ‘evolutionary response’ to poachers (2021)](https://www.telegraph.co.uk/global-health/climate-and-people/mozambique-elephants-born-without-tusks-evolutionary-response/)
-- Dec 05 - [Use of ChatGPT generated text for posts on Stack Overflow is temporarily banned](https://meta.stackoverflow.com/questions/421831/temporary-policy-chatgpt-is-banned)
-- Dec 05 - [Predicting sex from retinal fundus photographs using automated deep learning](https://www.nature.com/articles/s41598-021-89743-x)
-- Dec 05 - [Tesla Semi, a Deep Dive](https://www.evuniverse.io/newsletter/semi)
-- Dec 05 - [Autonomous trucking upstart Embark has gone from $5B+ to basically worthless](https://news.crunchbase.com/transportation/autonomous-driving-spac-embk/)
+- Dec 05 - [Drowning in AI Generated Garbage: the silent war we are fighting](https://ploum.net/2022-12-05-drowning-in-ai-generated-garbage.html)
+- Dec 05 - [Ask HN: Do you measure and/or mitigate CO2 in your living space?](https://news.ycombinator.com/item?id=33864195)
+- Dec 05 - [If you unscrew your belly button, your bottom will fall off](https://mrjamesbell.com/if-you-unscrew-your-belly-button-your-bottom-will-fall-off-and-other-things-my-dad-taught-me/)
+- Dec 05 - [Hetzner continues its growth in the US with a new location](https://www.hetzner.com/news/12-22-cloud-usa/)
+- Dec 05 - [Using ChatGPT as a Co-Founder](https://www.atomic14.com/2022/12/05/using-chatgpt-as-a-co-founder.html)
 <!--END_SECTION:hn-->
 
 <!--
