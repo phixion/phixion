@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 05 - [Drowning in AI Generated Garbage: the silent war we are fighting](https://ploum.net/2022-12-05-drowning-in-ai-generated-garbage.html)
-- Dec 05 - [Ask HN: Do you measure and/or mitigate CO2 in your living space?](https://news.ycombinator.com/item?id=33864195)
-- Dec 05 - [If you unscrew your belly button, your bottom will fall off](https://mrjamesbell.com/if-you-unscrew-your-belly-button-your-bottom-will-fall-off-and-other-things-my-dad-taught-me/)
-- Dec 05 - [Hetzner continues its growth in the US with a new location](https://www.hetzner.com/news/12-22-cloud-usa/)
-- Dec 05 - [Using ChatGPT as a Co-Founder](https://www.atomic14.com/2022/12/05/using-chatgpt-as-a-co-founder.html)
+- Dec 05 - [AI Homework](https://stratechery.com/2022/ai-homework/)
+- Dec 05 - [Ask HN: Image attribution and stable diffusion](https://news.ycombinator.com/item?id=33866466)
+- Dec 05 - [Can Lego City Powered Up trains be automated?](https://bricks.stackexchange.com/questions/17587/can-lego-city-powered-up-trains-be-automated)
+- Dec 05 - [Cops Can Extract Data from 10k Different Car Models’ Infotainment Systems](https://www.forbes.com/sites/thomasbrewster/2022/12/01/10000-cars-can-be-data-raided-by-police-ice-cbp-love-it/)
+- Dec 05 - [Lichess on Scala3 – Help needed](https://lichess.org/@/thibault/blog/lichess-on-scala3-help-needed/2bpotLb0)
 <!--END_SECTION:hn-->
 
 <!--
