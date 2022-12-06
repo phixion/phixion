@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 06 - [NASA Awards $57M Contract to Build Roads on the Moon](https://www.nextgov.com/emerging-tech/2022/11/nasa-awards-57m-contract-build-roads-moon/380291/)
-- Dec 06 - [Apple Introduces Apple Music Sing](https://www.apple.com/newsroom/2022/12/apple-introduces-apple-music-sing/)
-- Dec 06 - [Apple sued by two women over AirTag stalking](https://www.phonearena.com/news/apple-sued-by-women-after-exes-use-airtags-to-stalk-them_id144110)
-- Dec 06 - [A homework question in someone’s 11th grade statistics class](https://statmodeling.stat.columbia.edu/2022/12/06/a-homework-question-in-someones-11th-grade-statistics-class/)
-- Dec 06 - [GE buys out entire NYT print paper in historic first](https://www.axios.com/2022/12/06/ge-new-york-times-advertising-entire-paper-edition)
+- Dec 06 - [Will we finally see Neuromancer on the screen?](https://j-nelson.net/2022/12/will-we-finally-see-neuromancer-on-the-screen/)
+- Dec 06 - [I Taught ChatGPT to Invent a Language](https://maximumeffort.substack.com/p/i-taught-chatgpt-to-invent-a-language)
+- Dec 06 - [Apple announces upgrade to App Store pricing](https://www.apple.com/newsroom/2022/12/apple-announces-biggest-upgrade-to-app-store-pricing-adding-700-new-price-points/)
+- Dec 06 - [Ledger Stax – Hardware wallet with eInk display for digital assets](https://shop.ledger.com/pages/ledger-stax)
+- Dec 06 - [Patterns (YC S21), a platform to build next-gen data apps, is hiring devs](http://patterns.app/)
 <!--END_SECTION:hn-->
 
 <!--
