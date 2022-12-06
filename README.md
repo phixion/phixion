@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 06 - [Ask HN: How to overcome stage fear / social anxiety](https://news.ycombinator.com/item?id=33876690)
-- Dec 06 - [Is Carvana going out of business? The 'Amazon' of cars tumbles](https://www.themanual.com/auto/is-carvana-going-out-of-business/)
-- Dec 06 - [My building has replaced our keys with an app](https://www.nytimes.com/2022/12/03/realestate/my-building-has-replaced-our-keys-with-an-app-is-that-legal.html)
-- Dec 06 - [The Roof Always Caves In: Why there is nothing wrong with being doomed](https://comment.org/the-roof-always-caves-in/)
-- Dec 06 - [Framer's Magic Motion](https://www.nan.fyi/magic-motion)
+- Dec 06 - [Ask HN: How is the job search coming along for people who got laid off?](https://news.ycombinator.com/item?id=33878209)
+- Dec 06 - [Stop that It’s not Tourette’s but a new type of mass sociogenic illness](https://academic.oup.com/brain/article/145/2/476/6356504)
+- Dec 06 - [Ask HN: Can anyone share cases study of successful SaaS getting into the market?](https://news.ycombinator.com/item?id=33877933)
+- Dec 06 - [I gave ChatGPT the 117 question, eight dimensional PolitiScales test](https://old.reddit.com/r/ControlProblem/comments/zcsrgn/i_gave_chatgpt_the_117_question_eight_dimensional/)
+- Dec 06 - [Apple’s Anti-Union Tactics in Atlanta Were Illegal, US Officials Say](https://www.bloomberg.com/news/articles/2022-12-05/apple-s-anti-union-tactics-in-atlanta-were-illegal-us-officials-say)
 <!--END_SECTION:hn-->
 
 <!--
