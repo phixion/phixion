@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 06 - [Ask HN: How is the job search coming along for people who got laid off?](https://news.ycombinator.com/item?id=33878209)
-- Dec 06 - [Stop that It’s not Tourette’s but a new type of mass sociogenic illness](https://academic.oup.com/brain/article/145/2/476/6356504)
-- Dec 06 - [Ask HN: Can anyone share cases study of successful SaaS getting into the market?](https://news.ycombinator.com/item?id=33877933)
-- Dec 06 - [I gave ChatGPT the 117 question, eight dimensional PolitiScales test](https://old.reddit.com/r/ControlProblem/comments/zcsrgn/i_gave_chatgpt_the_117_question_eight_dimensional/)
-- Dec 06 - [Apple’s Anti-Union Tactics in Atlanta Were Illegal, US Officials Say](https://www.bloomberg.com/news/articles/2022-12-05/apple-s-anti-union-tactics-in-atlanta-were-illegal-us-officials-say)
+- Dec 06 - [NASA Awards $57M Contract to Build Roads on the Moon](https://www.nextgov.com/emerging-tech/2022/11/nasa-awards-57m-contract-build-roads-moon/380291/)
+- Dec 06 - [Apple Introduces Apple Music Sing](https://www.apple.com/newsroom/2022/12/apple-introduces-apple-music-sing/)
+- Dec 06 - [Apple sued by two women over AirTag stalking](https://www.phonearena.com/news/apple-sued-by-women-after-exes-use-airtags-to-stalk-them_id144110)
+- Dec 06 - [A homework question in someone’s 11th grade statistics class](https://statmodeling.stat.columbia.edu/2022/12/06/a-homework-question-in-someones-11th-grade-statistics-class/)
+- Dec 06 - [GE buys out entire NYT print paper in historic first](https://www.axios.com/2022/12/06/ge-new-york-times-advertising-entire-paper-edition)
 <!--END_SECTION:hn-->
 
 <!--
