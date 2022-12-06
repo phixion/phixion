@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 06 - [ChatGPT Is Down](https://chat.openai.com)
-- Dec 06 - [Tell HN: You can apparently get GPT-3 to cough up its own source code](https://news.ycombinator.com/item?id=33875231)
-- Dec 06 - [HellaSwag: 36% of this popular large language model benchmark contains errors](https://www.surgehq.ai//blog/hellaswag-or-hellabad-36-of-this-popular-llm-benchmark-contains-errors)
+- Dec 06 - [Ask HN: How to overcome stage fear / social anxiety](https://news.ycombinator.com/item?id=33876690)
+- Dec 06 - [Is Carvana going out of business? The 'Amazon' of cars tumbles](https://www.themanual.com/auto/is-carvana-going-out-of-business/)
+- Dec 06 - [My building has replaced our keys with an app](https://www.nytimes.com/2022/12/03/realestate/my-building-has-replaced-our-keys-with-an-app-is-that-legal.html)
+- Dec 06 - [The Roof Always Caves In: Why there is nothing wrong with being doomed](https://comment.org/the-roof-always-caves-in/)
 - Dec 06 - [Framer's Magic Motion](https://www.nan.fyi/magic-motion)
-- Dec 06 - [Ancient Computers (2015)](https://ethw.org/Ancient_Computers)
 <!--END_SECTION:hn-->
 
 <!--
