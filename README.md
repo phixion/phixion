@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 05 - [Simulate Asteroid Impacts on Earth](https://neal.fun/asteroid-launcher/)
-- Dec 05 - [When McKinsey comes to town](https://www.lrb.co.uk/the-paper/v44/n24/laleh-khalili/in-clover)
-- Dec 05 - [Build List: A directory of on-demand manufacturers for your creative projects](https://buildlist.org/)
-- Dec 05 - [Turing Machines Are Recurrent Neural Networks (1996)](http://users.ics.aalto.fi/tho/stes/step96/hyotyniemi1/)
-- Dec 05 - [DHS announces extension of Real ID full enforcement deadline](https://www.dhs.gov/news/2022/12/05/dhs-announces-extension-real-id-full-enforcement-deadline)
+- Dec 05 - [Musk’s Neuralink faces federal probe, employee backlash over animal tests](https://www.reuters.com/technology/musks-neuralink-faces-federal-probe-employee-backlash-over-animal-tests-2022-12-05/)
+- Dec 05 - [Inkscape 1.2.2 Released](https://inkscape.org/release/inkscape-1.2.2/)
+- Dec 05 - [Musk’s Neuralink faces federal probe, employee backlash over animal tests](https://www.reuters.com/technology/musks-neuralink-faces-federal-probe-employee-backlash-over-animal-tests-2022-12-05/)
+- Dec 05 - [Let's Encrypt posts letter from executive director](https://letsencrypt.org/2022/12/05/ed-letter-2022.html)
+- Dec 05 - [New Process Allows 3-D Printing of Microscale Metallic Parts – Www.caltech.edu](https://www.caltech.edu/about/news/new-process-allows-3-d-printing-of-microscale-metallic-parts)
 <!--END_SECTION:hn-->
 
 <!--
