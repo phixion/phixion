@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 05 - [Musk’s Neuralink faces federal probe, employee backlash over animal tests](https://www.reuters.com/technology/musks-neuralink-faces-federal-probe-employee-backlash-over-animal-tests-2022-12-05/)
-- Dec 05 - [Inkscape 1.2.2 Released](https://inkscape.org/release/inkscape-1.2.2/)
-- Dec 05 - [Musk’s Neuralink faces federal probe, employee backlash over animal tests](https://www.reuters.com/technology/musks-neuralink-faces-federal-probe-employee-backlash-over-animal-tests-2022-12-05/)
-- Dec 05 - [Let's Encrypt posts letter from executive director](https://letsencrypt.org/2022/12/05/ed-letter-2022.html)
-- Dec 05 - [New Process Allows 3-D Printing of Microscale Metallic Parts – Www.caltech.edu](https://www.caltech.edu/about/news/new-process-allows-3-d-printing-of-microscale-metallic-parts)
+- Dec 06 - [ChatGPT Is Down](https://chat.openai.com)
+- Dec 06 - [Tell HN: You can apparently get GPT-3 to cough up its own source code](https://news.ycombinator.com/item?id=33875231)
+- Dec 06 - [HellaSwag: 36% of this popular large language model benchmark contains errors](https://www.surgehq.ai//blog/hellaswag-or-hellabad-36-of-this-popular-llm-benchmark-contains-errors)
+- Dec 06 - [Framer's Magic Motion](https://www.nan.fyi/magic-motion)
+- Dec 06 - [Ancient Computers (2015)](https://ethw.org/Ancient_Computers)
 <!--END_SECTION:hn-->
 
 <!--
