@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 06 - [Finding Language in the Brain](https://thereader.mitpress.mit.edu/finding-language-in-the-brain/)
-- Dec 06 - [The exploding Ford Pinto of 1973 (2021)](https://medium.com/the-snail/the-exploding-ford-pinto-of-1973-ff26148d8834)
-- Dec 06 - [Loopr: A Loop/Reduction Macro for Clojure](https://aphyr.com/posts/360-loopr-a-loop-reduction-macro-for-clojure)
-- Dec 06 - [Anomaly 6: Private spying firm targets global population with illegal spyware](https://thegrayzone.com/2022/12/06/files-anomaly-6-firm-spyware/)
-- Dec 06 - [Odiggo (YC S21), a hardware startup, is looking for a tech co-founder](https://news.ycombinator.com/item?id=33886973)
+- Dec 07 - [U.S. lawmakers decline to add Boeing 737 Max exemption in defense bill](https://www.reuters.com/business/aerospace-defense/us-lawmakers-decline-add-boeing-737-max-exemption-defense-bill-2022-12-07/)
+- Dec 07 - [The Interrotron](https://telepromptermirror.com/errol-morris-interrotron/)
+- Dec 07 - [VSCode remote code execution advisory](https://github.com/google/security-research/security/advisories/GHSA-pw56-c55x-cm9m)
+- Dec 07 - [Caterpillar offers phone with built-in FLIR camera](https://www.catphones.com/en-us/cat-s62-pro-smartphone/)
+- Dec 07 - [Beware of the perfect gentleman](https://www.vice.com/en/article/n7zmvd/beware-of-the-perfect-gentleman)
 <!--END_SECTION:hn-->
 
 <!--
