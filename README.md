@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 07 - [PiinPoint (YC W14) Is Hiring Developers (Remote in Canada)](https://angel.co/l/2hhhmR)
-- Dec 07 - [The Argument for Invisible Aliens](https://now.northropgrumman.com/hiding-in-plain-sight-the-argument-for-invisible-aliens/)
-- Dec 07 - [Chris Seaton passed away on Dec 3rd](https://twitter.com/flavorjones/status/1600436490885947393)
-- Dec 07 - [I don’t want to be an internet person](https://www.palladiummag.com/2022/11/04/i-do-not-want-to-be-an-internet-person/)
-- Dec 07 - [Fast midpoint between two integers without overflow](https://lemire.me/blog/2022/12/06/fast-midpoint-between-two-integers-without-overflow/)
+- Dec 07 - [Plaid Layoffs](https://plaid.com/team-update/)
+- Dec 07 - [Configuring Your Outbound Webhook Requests with Static IPs](https://getconvoy.io/blog/configuring-your-outbound-webhook-requests-with-static-ips/)
+- Dec 07 - [Dora: A open-source Rust DHCP Server](https://github.com/bluecatengineering/dora)
+- Dec 07 - [Abstraction Is Expensive](https://specbranch.com/posts/expensive-abstraction/)
+- Dec 07 - [Go and SQLite in the Cloud](https://www.golang.dk/articles/go-and-sqlite-in-the-cloud)
 <!--END_SECTION:hn-->
 
 <!--
