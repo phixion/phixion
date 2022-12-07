@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 07 - [The Economist’s best books of 2022: from financial scandals to cell theory](https://www.economist.com/culture/2022/12/06/these-are-the-economists-best-books-of-2022)
-- Dec 07 - [Tell HN: Copying and pasting from ChatGPT unsolicited sucks](https://news.ycombinator.com/item?id=33891538)
-- Dec 07 - [Ashby (YC W19) is hiring product and design engineers](https://www.ashbyhq.com/careers?utm_source=hn)
-- Dec 07 - [In Solidarity with Library Genesis and Sci-Hub (2015)](https://custodians.online)
-- Dec 07 - [Apple GPU drivers now in Asahi Linux](https://asahilinux.org/2022/12/gpu-drivers-now-in-asahi-linux/)
+- Dec 07 - [PiinPoint (YC W14) Is Hiring Developers (Remote in Canada)](https://angel.co/l/2hhhmR)
+- Dec 07 - [The Argument for Invisible Aliens](https://now.northropgrumman.com/hiding-in-plain-sight-the-argument-for-invisible-aliens/)
+- Dec 07 - [Chris Seaton passed away on Dec 3rd](https://twitter.com/flavorjones/status/1600436490885947393)
+- Dec 07 - [I don’t want to be an internet person](https://www.palladiummag.com/2022/11/04/i-do-not-want-to-be-an-internet-person/)
+- Dec 07 - [Fast midpoint between two integers without overflow](https://lemire.me/blog/2022/12/06/fast-midpoint-between-two-integers-without-overflow/)
 <!--END_SECTION:hn-->
 
 <!--
