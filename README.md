@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 07 - [Plaid Layoffs](https://plaid.com/team-update/)
-- Dec 07 - [Configuring Your Outbound Webhook Requests with Static IPs](https://getconvoy.io/blog/configuring-your-outbound-webhook-requests-with-static-ips/)
-- Dec 07 - [Dora: A open-source Rust DHCP Server](https://github.com/bluecatengineering/dora)
-- Dec 07 - [Abstraction Is Expensive](https://specbranch.com/posts/expensive-abstraction/)
-- Dec 07 - [Go and SQLite in the Cloud](https://www.golang.dk/articles/go-and-sqlite-in-the-cloud)
+- Dec 07 - [Publicity Stunt Fallout](https://www.math.columbia.edu/~woit/wordpress/?p=13229)
+- Dec 07 - [The Instagram ads Facebook won't show you](https://signal.org/blog/the-instagram-ads-you-will-never-see/)
+- Dec 07 - [100 Gbps achieved from Space to Earth, fastest laser link record set by MIT/NASA](https://news.mit.edu/2022/communications-system-achieves-fastest-laser-link-space-yet-1130)
+- Dec 07 - [Apple advances user security with powerful new data protections](https://www.apple.com/newsroom/2022/12/apple-advances-user-security-with-powerful-new-data-protections/)
+- Dec 07 - [Time travel in Postgres. Bisect to the last valid transaction](https://neon.tech/blog/time-travel-with-postgres/)
 <!--END_SECTION:hn-->
 
 <!--
