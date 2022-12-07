@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 06 - [Will we finally see Neuromancer on the screen?](https://j-nelson.net/2022/12/will-we-finally-see-neuromancer-on-the-screen/)
-- Dec 06 - [I Taught ChatGPT to Invent a Language](https://maximumeffort.substack.com/p/i-taught-chatgpt-to-invent-a-language)
-- Dec 06 - [Apple announces upgrade to App Store pricing](https://www.apple.com/newsroom/2022/12/apple-announces-biggest-upgrade-to-app-store-pricing-adding-700-new-price-points/)
-- Dec 06 - [Ledger Stax – Hardware wallet with eInk display for digital assets](https://shop.ledger.com/pages/ledger-stax)
-- Dec 06 - [Patterns (YC S21), a platform to build next-gen data apps, is hiring devs](http://patterns.app/)
+- Dec 06 - [Finding Language in the Brain](https://thereader.mitpress.mit.edu/finding-language-in-the-brain/)
+- Dec 06 - [The exploding Ford Pinto of 1973 (2021)](https://medium.com/the-snail/the-exploding-ford-pinto-of-1973-ff26148d8834)
+- Dec 06 - [Loopr: A Loop/Reduction Macro for Clojure](https://aphyr.com/posts/360-loopr-a-loop-reduction-macro-for-clojure)
+- Dec 06 - [Anomaly 6: Private spying firm targets global population with illegal spyware](https://thegrayzone.com/2022/12/06/files-anomaly-6-firm-spyware/)
+- Dec 06 - [Odiggo (YC S21), a hardware startup, is looking for a tech co-founder](https://news.ycombinator.com/item?id=33886973)
 <!--END_SECTION:hn-->
 
 <!--
