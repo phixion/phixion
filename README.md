@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 08 - [Show HN: 0xFast – 10x Faster Web3 APIs](https://www.0xfast.com)
-- Dec 08 - [Adventures in Creating a Minimal Alpine Linux Installer](https://bt.ht/alpine/)
-- Dec 08 - [Nobody tell Paul Graham but I rebuilt his site to be beautiful](https://prettygraham.com/)
-- Dec 08 - [Everything SBF is doing is in singular pursuit of not going to jail](https://newsletter.mollywhite.net/p/everything-sam-bankman-fried-is-doing)
-- Dec 08 - [Codon: A high-performance Python compiler using LLVM](https://github.com/exaloop/codon)
+- Dec 08 - [FTC Seeks to Block Microsoft Corp.’S Acquisition of Activision Blizzard, Inc](https://www.ftc.gov/news-events/news/press-releases/2022/12/ftc-seeks-block-microsoft-corps-acquisition-activision-blizzard-inc)
+- Dec 08 - [German states and federal government agreed on nationwide 49€ ticket coming 2023](https://newsrnd.com/news/2022-12-08-mpk-decides-on-germany-ticket--according-to-scholz--it-should-come-%22very-quickly%22-.H1-dBr31Oo.html)
+- Dec 08 - [Airtable, last valued at $11B for its no-code software, lays off over 250](https://techcrunch.com/2022/12/08/airtable-layoffs/)
+- Dec 08 - [Hacking on a plane: Leaking data of millions and taking over any account](https://rez0.blog/hacking/2022/12/02/hacking-on-a-plane.html)
+- Dec 08 - [Not a Monad Tutorial](https://johnazariah.github.io/2022/12/06/this-is-not-a-monad-tutorial.html)
 <!--END_SECTION:hn-->
 
 <!--
