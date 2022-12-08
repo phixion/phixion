@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 07 - [Java 20: A Sneak Peek on the Panama FFM API](http://minborgsjavapot.blogspot.com/2022/12/java-20-sneak-peek-on-panama-ffm-api.html)
-- Dec 07 - [Theranos exec Sunny Balwani sentenced to 13 years in prison](https://techcrunch.com/2022/12/07/theranos-exec-sunny-balwani-sentenced-to-13-years-in-prison-for-defrauding-patients-and-investors/)
-- Dec 07 - [Two new books explore the upside of big data and AI](https://www.economist.com/culture/2022/11/30/two-new-books-explore-the-upside-of-big-data-and-ai)
-- Dec 07 - [Tabs and Makefile (2015)](https://beebo.org/haycorn/2015-04-20_tabs-and-makefiles.html)
-- Dec 07 - [CircleCI Layoffs](https://circleci.com/blog/ceo-jim-rose-email-to-circleci-employees/)
+- Dec 08 - [Effectivealtruism.org purchased a £15M estate for its headquarters in 2021](https://twitter.com/paulmainwood/status/1600433194691502081)
+- Dec 08 - [Soil in Midwestern US is Eroding 10 to 1k Times Faster than it Forms](https://www.umass.edu/news/article/soil-midwestern-us-eroding-10-1000-times-faster-it-forms-study-finds)
+- Dec 08 - [Boris, a tradeoff-oriented goal-setting process](https://vaughntan.org/unpacking-boris)
+- Dec 08 - [Paleontologist accused of faking data in dino-killing asteroid paper](https://www.science.org/content/article/paleontologist-accused-faking-data-dino-killing-asteroid-paper)
+- Dec 08 - [TSMC founder Morris Chang says globalization 'almost dead'](https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-founder-Morris-Chang-says-globalization-almost-dead)
 <!--END_SECTION:hn-->
 
 <!--
