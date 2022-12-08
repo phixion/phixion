@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 08 - [Effectivealtruism.org purchased a £15M estate for its headquarters in 2021](https://twitter.com/paulmainwood/status/1600433194691502081)
-- Dec 08 - [Soil in Midwestern US is Eroding 10 to 1k Times Faster than it Forms](https://www.umass.edu/news/article/soil-midwestern-us-eroding-10-1000-times-faster-it-forms-study-finds)
-- Dec 08 - [Boris, a tradeoff-oriented goal-setting process](https://vaughntan.org/unpacking-boris)
-- Dec 08 - [Paleontologist accused of faking data in dino-killing asteroid paper](https://www.science.org/content/article/paleontologist-accused-faking-data-dino-killing-asteroid-paper)
-- Dec 08 - [TSMC founder Morris Chang says globalization 'almost dead'](https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-founder-Morris-Chang-says-globalization-almost-dead)
+- Dec 08 - [Ask HN: What email service should I use instead of Gmail?](https://news.ycombinator.com/item?id=33905137)
+- Dec 08 - [Fermilab/CERN recommendation for Linux distribution](https://news.fnal.gov/2022/12/fermilab-cern-recommendation-for-linux-distribution/)
+- Dec 08 - [Organ Donations, Transplants Increase on Days of Largest Motorcycle Rallies](https://hms.harvard.edu/news/organ-donations-transplants-increase-days-largest-motorcycle-rallies)
+- Dec 08 - [I liberate the ending to Minecraft from Microsoft and give it to you](https://theeggandtherock.substack.com/p/i-wrote-a-story-for-a-friend)
+- Dec 08 - [Pulling MikroTik into the Limelight Demystifying and Jailbreaking RouterS](https://margin.re/2022/06/pulling-mikrotik-into-the-limelight/)
 <!--END_SECTION:hn-->
 
 <!--
