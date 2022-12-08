@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 08 - [Ask HN: What email service should I use instead of Gmail?](https://news.ycombinator.com/item?id=33905137)
-- Dec 08 - [Fermilab/CERN recommendation for Linux distribution](https://news.fnal.gov/2022/12/fermilab-cern-recommendation-for-linux-distribution/)
-- Dec 08 - [Organ Donations, Transplants Increase on Days of Largest Motorcycle Rallies](https://hms.harvard.edu/news/organ-donations-transplants-increase-days-largest-motorcycle-rallies)
-- Dec 08 - [I liberate the ending to Minecraft from Microsoft and give it to you](https://theeggandtherock.substack.com/p/i-wrote-a-story-for-a-friend)
-- Dec 08 - [Pulling MikroTik into the Limelight Demystifying and Jailbreaking RouterS](https://margin.re/2022/06/pulling-mikrotik-into-the-limelight/)
+- Dec 08 - [The Muse (YC W12) Is Hiring a Senior Director of FP&A](https://www.themuse.com/jobs/themuse/sr-director-of-financial-planning-analysis)
+- Dec 08 - [What I learned in 10 years, as an entrepreneur](https://news.ycombinator.com/item?id=33906755)
+- Dec 08 - [Tell HN: Travis CI is seemingly compromised (once again)](https://news.ycombinator.com/item?id=33906591)
+- Dec 08 - [Show HN: Ezy – open-source gRPC client, alternative to Postman and Insomnia](https://github.com/getezy/ezy/releases/tag/v1.0.0-beta.13.2)
+- Dec 08 - [What comes up when you flush](https://www.colorado.edu/today/2022/12/08/cu-scientists-shine-light-what-comes-when-you-flush)
 <!--END_SECTION:hn-->
 
 <!--
