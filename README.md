@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 07 - [Publicity Stunt Fallout](https://www.math.columbia.edu/~woit/wordpress/?p=13229)
-- Dec 07 - [The Instagram ads Facebook won't show you](https://signal.org/blog/the-instagram-ads-you-will-never-see/)
-- Dec 07 - [100 Gbps achieved from Space to Earth, fastest laser link record set by MIT/NASA](https://news.mit.edu/2022/communications-system-achieves-fastest-laser-link-space-yet-1130)
-- Dec 07 - [Apple advances user security with powerful new data protections](https://www.apple.com/newsroom/2022/12/apple-advances-user-security-with-powerful-new-data-protections/)
-- Dec 07 - [Time travel in Postgres. Bisect to the last valid transaction](https://neon.tech/blog/time-travel-with-postgres/)
+- Dec 07 - [Java 20: A Sneak Peek on the Panama FFM API](http://minborgsjavapot.blogspot.com/2022/12/java-20-sneak-peek-on-panama-ffm-api.html)
+- Dec 07 - [Theranos exec Sunny Balwani sentenced to 13 years in prison](https://techcrunch.com/2022/12/07/theranos-exec-sunny-balwani-sentenced-to-13-years-in-prison-for-defrauding-patients-and-investors/)
+- Dec 07 - [Two new books explore the upside of big data and AI](https://www.economist.com/culture/2022/11/30/two-new-books-explore-the-upside-of-big-data-and-ai)
+- Dec 07 - [Tabs and Makefile (2015)](https://beebo.org/haycorn/2015-04-20_tabs-and-makefiles.html)
+- Dec 07 - [CircleCI Layoffs](https://circleci.com/blog/ceo-jim-rose-email-to-circleci-employees/)
 <!--END_SECTION:hn-->
 
 <!--
