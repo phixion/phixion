@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 09 - [Latest Tech Layoff Trends in Three Charts](https://spectrum.ieee.org/tech-layoffs-2022)
-- Dec 09 - [Volatile pay for gig workers linked to health problems](https://www.apa.org/news/press/releases/2022/12/volatile-gig-workers-health-problems)
-- Dec 09 - [Electric car sales drive toward cleaner air, less mortality](https://news.cornell.edu/stories/2022/12/electric-car-sales-drive-toward-cleaner-air-less-mortality)
-- Dec 09 - [The various scripts I use to back up my home computers using SSH and rsync](https://github.com/eamonnsullivan/backup-scripts)
-- Dec 09 - [Facebook tracking is illegal in Europe](https://tutanota.com/blog/posts/facebook-tracking-business-model-illegal-europe/)
+- Dec 09 - [Fireship – Learn to Code Faster](https://fireship.io/)
+- Dec 09 - [Show HN: I fine-tuned Flan-T5. Can it cook?](https://abuqader.substack.com/p/i-fine-tuned-flan-t5-can-it-cook)
+- Dec 09 - [The Internet during world war](https://www.oecd-forum.org/posts/fragility-digitally-the-internet-during-world-war)
+- Dec 09 - [How I got involved in the Rust community](https://ochagavia.nl/blog/how-i-got-involved-in-the-rust-community/)
+- Dec 09 - [Ten Minute Physics](https://matthias-research.github.io/pages/tenMinutePhysics/index.html)
 <!--END_SECTION:hn-->
 
 <!--
