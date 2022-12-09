@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 08 - [FTC Seeks to Block Microsoft Corp.’S Acquisition of Activision Blizzard, Inc](https://www.ftc.gov/news-events/news/press-releases/2022/12/ftc-seeks-block-microsoft-corps-acquisition-activision-blizzard-inc)
-- Dec 08 - [German states and federal government agreed on nationwide 49€ ticket coming 2023](https://newsrnd.com/news/2022-12-08-mpk-decides-on-germany-ticket--according-to-scholz--it-should-come-%22very-quickly%22-.H1-dBr31Oo.html)
-- Dec 08 - [Airtable, last valued at $11B for its no-code software, lays off over 250](https://techcrunch.com/2022/12/08/airtable-layoffs/)
-- Dec 08 - [Hacking on a plane: Leaking data of millions and taking over any account](https://rez0.blog/hacking/2022/12/02/hacking-on-a-plane.html)
-- Dec 08 - [Not a Monad Tutorial](https://johnazariah.github.io/2022/12/06/this-is-not-a-monad-tutorial.html)
+- Dec 08 - [Why I'm less than infinitely hostile to cryptocurrency](https://astralcodexten.substack.com/p/why-im-less-than-infinitely-hostile)
+- Dec 08 - [Every modeler is supposed to be a great Python programmer](https://statmodeling.stat.columbia.edu/2022/12/08/the-cleantech-job-market-every-modeler-is-supposed-to-be-a-great-python-programmer/)
+- Dec 08 - [AlphaCode Attention Visualization](https://alphacode.deepmind.com/)
+- Dec 08 - [Asbestos Cigarette Filters (2018)](https://www.asbestos.com/products/cigarette-filters/)
+- Dec 08 - [ChatGPT, Rot13, and Daniel Kahneman](https://jameswillia.ms/posts/chatgpt-rot13.html)
 <!--END_SECTION:hn-->
 
 <!--
