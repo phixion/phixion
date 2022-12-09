@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 09 - [Monitoring Microservices with Prometheus and Grafana](https://navendu.me/posts/introduction-to-monitoring-microservices/)
-- Dec 09 - [Ask HN: Developer abused “sign in with GitHub” and users are being punished](https://news.ycombinator.com/item?id=33917962)
-- Dec 09 - [Chrome, 10 Years Later](https://neugierig.org/software/blog/2022/12/chrome.html)
-- Dec 09 - [Love and Death in the Cape Fear Serpentarium (2017)](https://main.oxfordamerican.org/magazine/item/632-love-and-death-in-the-cape-fear-serpentarium)
-- Dec 09 - [We have to build differently with concrete](https://www.noemamag.com/concrete-built-the-modern-world-now-its-destroying-it/)
+- Dec 09 - [KaiPod Learning (YC S21) Is Hiring a Founding Engineer](https://news.ycombinator.com/item?id=33920330)
+- Dec 09 - [Is America Stealing TSMC?](https://www.youtube.com/watch?v=rzZC6aFsk3M)
+- Dec 09 - [PipeWire 0.3.62](https://gitlab.freedesktop.org/pipewire/pipewire/-/releases/0.3.62)
+- Dec 09 - [Stripe’s Pricing Breakdown](https://github.com/getlago/lago/wiki/Stripe%27s-real-pricing:-a-primer)
+- Dec 09 - [All in with Nuitka](https://nuitka.net/posts/all-in-with-nuitka.html)
 <!--END_SECTION:hn-->
 
 <!--
