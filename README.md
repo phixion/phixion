@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 08 - [Why I'm less than infinitely hostile to cryptocurrency](https://astralcodexten.substack.com/p/why-im-less-than-infinitely-hostile)
-- Dec 08 - [Every modeler is supposed to be a great Python programmer](https://statmodeling.stat.columbia.edu/2022/12/08/the-cleantech-job-market-every-modeler-is-supposed-to-be-a-great-python-programmer/)
-- Dec 08 - [AlphaCode Attention Visualization](https://alphacode.deepmind.com/)
-- Dec 08 - [Asbestos Cigarette Filters (2018)](https://www.asbestos.com/products/cigarette-filters/)
-- Dec 08 - [ChatGPT, Rot13, and Daniel Kahneman](https://jameswillia.ms/posts/chatgpt-rot13.html)
+- Dec 09 - [Love and Death in the Cape Fear Serpentarium](https://main.oxfordamerican.org/magazine/item/632-love-and-death-in-the-cape-fear-serpentarium)
+- Dec 09 - [Ask HN: My iOS app got stuck in review for a month. What should I do?](https://news.ycombinator.com/item?id=33917091)
+- Dec 09 - [Ask HN: What Is Going on with Neo4j?](https://news.ycombinator.com/item?id=33916240)
+- Dec 09 - [We have to build differently with concrete](https://www.noemamag.com/concrete-built-the-modern-world-now-its-destroying-it/)
+- Dec 09 - [Incident affecting Google Ad Manager](https://ads.google.com/status/publisher/incidents/EsQcYmPW6wkQvc9NZ4WB)
 <!--END_SECTION:hn-->
 
 <!--
