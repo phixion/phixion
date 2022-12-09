@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 09 - [KaiPod Learning (YC S21) Is Hiring a Founding Engineer](https://news.ycombinator.com/item?id=33920330)
-- Dec 09 - [Is America Stealing TSMC?](https://www.youtube.com/watch?v=rzZC6aFsk3M)
-- Dec 09 - [PipeWire 0.3.62](https://gitlab.freedesktop.org/pipewire/pipewire/-/releases/0.3.62)
-- Dec 09 - [Stripe’s Pricing Breakdown](https://github.com/getlago/lago/wiki/Stripe%27s-real-pricing:-a-primer)
-- Dec 09 - [All in with Nuitka](https://nuitka.net/posts/all-in-with-nuitka.html)
+- Dec 09 - [Latest Tech Layoff Trends in Three Charts](https://spectrum.ieee.org/tech-layoffs-2022)
+- Dec 09 - [Volatile pay for gig workers linked to health problems](https://www.apa.org/news/press/releases/2022/12/volatile-gig-workers-health-problems)
+- Dec 09 - [Electric car sales drive toward cleaner air, less mortality](https://news.cornell.edu/stories/2022/12/electric-car-sales-drive-toward-cleaner-air-less-mortality)
+- Dec 09 - [The various scripts I use to back up my home computers using SSH and rsync](https://github.com/eamonnsullivan/backup-scripts)
+- Dec 09 - [Facebook tracking is illegal in Europe](https://tutanota.com/blog/posts/facebook-tracking-business-model-illegal-europe/)
 <!--END_SECTION:hn-->
 
 <!--
