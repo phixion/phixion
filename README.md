@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 09 - [Fireship – Learn to Code Faster](https://fireship.io/)
-- Dec 09 - [Show HN: I fine-tuned Flan-T5. Can it cook?](https://abuqader.substack.com/p/i-fine-tuned-flan-t5-can-it-cook)
-- Dec 09 - [The Internet during world war](https://www.oecd-forum.org/posts/fragility-digitally-the-internet-during-world-war)
-- Dec 09 - [How I got involved in the Rust community](https://ochagavia.nl/blog/how-i-got-involved-in-the-rust-community/)
-- Dec 09 - [Ten Minute Physics](https://matthias-research.github.io/pages/tenMinutePhysics/index.html)
+- Dec 09 - [AT&T Long Lines – A Forgotten System (2018)](http://personal.garrettfuller.org/blog/2018/01/19/att-long-lines-a-forgotten-system/)
+- Dec 09 - [Programming Languages: Application and Interpretation, 3rd Ed](https://www.plai.org/)
+- Dec 09 - [Show HN: Panoptisch – A recursive dependency scanner for Python projects](https://github.com/R9295/panoptisch)
+- Dec 09 - [A 100MW solar farm in Texas will mount panels directly on the ground](https://www.canarymedia.com/articles/solar/a-100mw-solar-farm-in-texas-will-mount-panels-directly-on-the-ground)
+- Dec 09 - [Apple to end employee gagging clauses after activist campaign](https://www.ft.com/content/8cd27d16-c996-4dc7-86af-ed6f40ff361c)
 <!--END_SECTION:hn-->
 
 <!--
