@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 10 - [This To That: Because people have a need to glue things to other things](https://www.thistothat.com/)
+- Dec 10 - [Concrete Arrows and the U.S. Airmail Beacon System (2013)](https://sometimes-interesting.com/concrete-arrows-and-the-u-s-airmail-beacon-system/)
+- Dec 10 - [mimmutable() for OpenBSD](https://lwn.net/SubscriberLink/915640/53bc300d11179c62/)
+- Dec 10 - [A fake job offer gone wrong](https://indeedjobscam.pages.dev/)
 - Dec 10 - [End-to-end encrypted messages need more than libsignal](https://mjg59.dreamwidth.org/62598.html)
-- Dec 10 - [Practical Python Programming Course](https://dabeaz-course.github.io/practical-python/Notes/Contents.html)
-- Dec 10 - [How pencil tire pressure gauges work](https://blog.oppedahl.com/?p=8599)
-- Dec 10 - [Renewal of .dev domain with Google costs $850](https://twitter.com/emirkarsiyakali/status/1601373440979525632)
-- Dec 09 - [AT&T Long Lines – A Forgotten System (2018)](http://personal.garrettfuller.org/blog/2018/01/19/att-long-lines-a-forgotten-system/)
 <!--END_SECTION:hn-->
 
 <!--
