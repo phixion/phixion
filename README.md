@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 10 - [This To That: Because people have a need to glue things to other things](https://www.thistothat.com/)
-- Dec 10 - [Concrete Arrows and the U.S. Airmail Beacon System (2013)](https://sometimes-interesting.com/concrete-arrows-and-the-u-s-airmail-beacon-system/)
-- Dec 10 - [mimmutable() for OpenBSD](https://lwn.net/SubscriberLink/915640/53bc300d11179c62/)
-- Dec 10 - [A fake job offer gone wrong](https://indeedjobscam.pages.dev/)
-- Dec 10 - [End-to-end encrypted messages need more than libsignal](https://mjg59.dreamwidth.org/62598.html)
+- Dec 10 - [Svix (YC W21) Is Hiring (Remote) – Enterprise-Ready Webhook Service](https://www.svix.com/careers/)
+- Dec 10 - [New Chrome features to save battery and make browsing smoother](https://blog.google/products/chrome/new-chrome-features-to-save-battery-and-make-browsing-smoother/)
+- Dec 10 - [Twitter Office Supply Auction](https://www.bidspotter.com/en-us/auction-catalogues/heritage-global-partners/catalogue-id-herita10194)
+- Dec 10 - [Tauri Mobile Alpha Release](https://tauri.app/blog/2022/12/09/tauri-mobile-alpha/)
+- Dec 10 - [EU-wide maximum limit of €10K for cash payments](https://www.consilium.europa.eu/en/press/press-releases/2022/12/07/anti-money-laundering-council-agrees-its-position-on-a-strengthened-rulebook/)
 <!--END_SECTION:hn-->
 
 <!--
