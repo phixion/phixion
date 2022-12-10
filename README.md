@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 10 - [Svix (YC W21) Is Hiring (Remote) – Enterprise-Ready Webhook Service](https://www.svix.com/careers/)
-- Dec 10 - [New Chrome features to save battery and make browsing smoother](https://blog.google/products/chrome/new-chrome-features-to-save-battery-and-make-browsing-smoother/)
-- Dec 10 - [Twitter Office Supply Auction](https://www.bidspotter.com/en-us/auction-catalogues/heritage-global-partners/catalogue-id-herita10194)
-- Dec 10 - [Tauri Mobile Alpha Release](https://tauri.app/blog/2022/12/09/tauri-mobile-alpha/)
-- Dec 10 - [EU-wide maximum limit of €10K for cash payments](https://www.consilium.europa.eu/en/press/press-releases/2022/12/07/anti-money-laundering-council-agrees-its-position-on-a-strengthened-rulebook/)
+- Dec 10 - [JPEG XL support has officially been removed from Chromium](https://chromium-review.googlesource.com/c/chromium/src/+/4081749)
+- Dec 10 - [Ask HN: How to get back into AI?](https://news.ycombinator.com/item?id=33932594)
+- Dec 10 - [European parliament VP taken into custody](https://www.dw.com/en/european-parliament-vp-taken-into-custody/a-64047127)
+- Dec 10 - [The Plan-9 Effect or why you should not fix it if it ain't broken (2016)](http://groups.di.unipi.it/~nids/docs/the_plan-9_effect.html)
+- Dec 10 - [Show HN: Pg_CRDT – an experimental CRDT extension for Postgres](https://supabase.com/blog/postgres-crdt)
 <!--END_SECTION:hn-->
 
 <!--
