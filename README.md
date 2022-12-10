@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 10 - [JPEG XL support has officially been removed from Chromium](https://chromium-review.googlesource.com/c/chromium/src/+/4081749)
-- Dec 10 - [Ask HN: How to get back into AI?](https://news.ycombinator.com/item?id=33932594)
-- Dec 10 - [European parliament VP taken into custody](https://www.dw.com/en/european-parliament-vp-taken-into-custody/a-64047127)
-- Dec 10 - [The Plan-9 Effect or why you should not fix it if it ain't broken (2016)](http://groups.di.unipi.it/~nids/docs/the_plan-9_effect.html)
-- Dec 10 - [Show HN: Pg_CRDT – an experimental CRDT extension for Postgres](https://supabase.com/blog/postgres-crdt)
+- Dec 10 - [Sign in with Google has been removed for your privacy](https://slimvoice.co/login)
+- Dec 10 - [Yale’s 367-year-old water bond still pays interest (2015)](https://news.yale.edu/2015/09/22/living-artifact-dutch-golden-age-yale-s-367-year-old-water-bond-still-pays-interest)
+- Dec 10 - [Groundbreaking marks start of work on Penn Station Access](https://www.trains.com/trn/news-reviews/news-wire/groundbreaking-marks-start-of-work-on-penn-station-access/)
+- Dec 10 - [Fuel out of thin air: CO2 capture from air and conversion to methanol](https://research.american.edu/carbonremoval/2020/09/29/fuel-out-of-thin-air-co2-capture-from-air-and-conversion-to-methanol/)
+- Dec 10 - [MiracleCast](https://github.com/albfan/miraclecast)
 <!--END_SECTION:hn-->
 
 <!--
