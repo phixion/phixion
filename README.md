@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 10 - [End-to-end encrypted messages need more than libsignal](https://mjg59.dreamwidth.org/62598.html)
+- Dec 10 - [Practical Python Programming Course](https://dabeaz-course.github.io/practical-python/Notes/Contents.html)
+- Dec 10 - [How pencil tire pressure gauges work](https://blog.oppedahl.com/?p=8599)
+- Dec 10 - [Renewal of .dev domain with Google costs $850](https://twitter.com/emirkarsiyakali/status/1601373440979525632)
 - Dec 09 - [AT&T Long Lines – A Forgotten System (2018)](http://personal.garrettfuller.org/blog/2018/01/19/att-long-lines-a-forgotten-system/)
-- Dec 09 - [Programming Languages: Application and Interpretation, 3rd Ed](https://www.plai.org/)
-- Dec 09 - [Show HN: Panoptisch – A recursive dependency scanner for Python projects](https://github.com/R9295/panoptisch)
-- Dec 09 - [A 100MW solar farm in Texas will mount panels directly on the ground](https://www.canarymedia.com/articles/solar/a-100mw-solar-farm-in-texas-will-mount-panels-directly-on-the-ground)
-- Dec 09 - [Apple to end employee gagging clauses after activist campaign](https://www.ft.com/content/8cd27d16-c996-4dc7-86af-ed6f40ff361c)
 <!--END_SECTION:hn-->
 
 <!--
