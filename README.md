@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 11 - [PermitFlow (YC W22) Is Hiring](https://www.ycombinator.com/companies/permitflow/jobs/axcfyjc-founding-software-engineer)
-- Dec 11 - [Ask HN: Will AI put programmers our of work?](https://news.ycombinator.com/item?id=33941868)
-- Dec 11 - [Webmention](https://www.w3.org/TR/webmention/)
-- Dec 11 - [IPv6 Internet Is Broken: He vs. Cogent](https://adminhacks.com/broken-IPv6.html)
-- Dec 11 - [USDD/Tron near collapse: USDD stablecoin below $0.97, reserve collateral drained](https://old.reddit.com/r/Buttcoin/comments/zijx5o/usddtron_are_about_to_collapse_usdd_justin_suns/)
+- Dec 11 - [European Parliament VP in Prison](https://en.protothema.gr/eva-kaili-in-prison-she-is-among-the-4-arrested-according-to-lecho-le-soir/)
+- Dec 11 - [Not-so-great features coming soon to Windows 11](https://www.neowin.net/news/here-are-5-not-so-great-features-coming-soon-to-windows-11/)
+- Dec 11 - [What are some of the best podcasts for developers?](https://news.ycombinator.com/item?id=33943707)
+- Dec 11 - [Highway EV charging will need a ton of power – sooner than you think](https://www.canarymedia.com/articles/ev-charging/highway-ev-charging-will-need-a-ton-of-power-sooner-than-you-think)
+- Dec 11 - [Getting Started with Tmux](https://ittavern.com/getting-started-with-tmux/)
 <!--END_SECTION:hn-->
 
 <!--
