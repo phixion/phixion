@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 10 - [Sign in with Google has been removed for your privacy](https://slimvoice.co/login)
-- Dec 10 - [Yale’s 367-year-old water bond still pays interest (2015)](https://news.yale.edu/2015/09/22/living-artifact-dutch-golden-age-yale-s-367-year-old-water-bond-still-pays-interest)
-- Dec 10 - [Groundbreaking marks start of work on Penn Station Access](https://www.trains.com/trn/news-reviews/news-wire/groundbreaking-marks-start-of-work-on-penn-station-access/)
-- Dec 10 - [Fuel out of thin air: CO2 capture from air and conversion to methanol](https://research.american.edu/carbonremoval/2020/09/29/fuel-out-of-thin-air-co2-capture-from-air-and-conversion-to-methanol/)
-- Dec 10 - [MiracleCast](https://github.com/albfan/miraclecast)
+- Dec 10 - [Disputing a Parking Fine with ChatGPT](https://notesbylex.com/disputing-a-parking-fine-with-chatgpt.html)
+- Dec 10 - [Amtrak asks fed regulators to investigate Union Pacific handling of Sunset Ltd](https://www.trains.com/trn/news-reviews/news-wire/amtrak-asks-federal-regulators-to-investigate-union-pacific-handling-of-sunset-limited/)
+- Dec 10 - [Tell HN: HP printers force you into agreement](https://news.ycombinator.com/item?id=33936862)
+- Dec 10 - [Haskell, Ada, C++, Awk: An Experiment in Prototyping Productivity (1994) [pdf]](https://www.cs.yale.edu/publications/techreports/tr1049.pdf)
+- Dec 10 - [The Making of Toy Story (1996) [pdf]](http://people.uncw.edu/ricanekk/teaching/spring09/csc100/lectures/pattersone/TheMakingOfToyStory.pdf)
 <!--END_SECTION:hn-->
 
 <!--
