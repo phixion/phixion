@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 10 - [Disputing a Parking Fine with ChatGPT](https://notesbylex.com/disputing-a-parking-fine-with-chatgpt.html)
-- Dec 10 - [Amtrak asks fed regulators to investigate Union Pacific handling of Sunset Ltd](https://www.trains.com/trn/news-reviews/news-wire/amtrak-asks-federal-regulators-to-investigate-union-pacific-handling-of-sunset-limited/)
-- Dec 10 - [Tell HN: HP printers force you into agreement](https://news.ycombinator.com/item?id=33936862)
-- Dec 10 - [Haskell, Ada, C++, Awk: An Experiment in Prototyping Productivity (1994) [pdf]](https://www.cs.yale.edu/publications/techreports/tr1049.pdf)
-- Dec 10 - [The Making of Toy Story (1996) [pdf]](http://people.uncw.edu/ricanekk/teaching/spring09/csc100/lectures/pattersone/TheMakingOfToyStory.pdf)
+- Dec 11 - [Hackers earn $989,750 for 63 zero-days exploited at Pwn2Own Toronto](https://www.bleepingcomputer.com/news/security/hackers-earn-989-750-for-63-zero-days-exploited-at-pwn2own-toronto/)
+- Dec 11 - [Ask HN: Have you ever used an image consultant?](https://news.ycombinator.com/item?id=33939509)
+- Dec 11 - [Base editing: Revolutionary therapy clears girl's incurable cancer](https://www.bbc.com/news/health-63859184)
+- Dec 11 - [Taming Names in Software Development](https://www.simplethread.com/taming-names-in-software-development/)
+- Dec 10 - [Zero-Cost Well-Defined Signed Integer Overflow in C++](https://rentry.co/c955s)
 <!--END_SECTION:hn-->
 
 <!--
