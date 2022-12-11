@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 11 - [European Parliament VP in Prison](https://en.protothema.gr/eva-kaili-in-prison-she-is-among-the-4-arrested-according-to-lecho-le-soir/)
-- Dec 11 - [Not-so-great features coming soon to Windows 11](https://www.neowin.net/news/here-are-5-not-so-great-features-coming-soon-to-windows-11/)
-- Dec 11 - [What are some of the best podcasts for developers?](https://news.ycombinator.com/item?id=33943707)
-- Dec 11 - [Highway EV charging will need a ton of power – sooner than you think](https://www.canarymedia.com/articles/ev-charging/highway-ev-charging-will-need-a-ton-of-power-sooner-than-you-think)
-- Dec 11 - [Getting Started with Tmux](https://ittavern.com/getting-started-with-tmux/)
+- Dec 11 - [Giant VR Robots Are Building Railways in Japan](https://virtualuncle.com/2022/04/26/giant-vr-robots-are-building-railways-in-japan/)
+- Dec 11 - [Show HN: Mult.dev – zero-config alternative to Google Earth studio](https://mult.dev)
+- Dec 11 - [A Data-Centric Introduction to Computing](https://dcic-world.org/2022-08-28/index.html)
+- Dec 11 - [What's wrong with science and how to fix it: reflections after 2578 papers](https://fantasticanachronism.com/2020/09/11/whats-wrong-with-social-science-and-how-to-fix-it/)
+- Dec 11 - [Orion has splashed down off the coast of Baja, California](https://twitter.com/nasa_orion/status/1601995706642071552)
 <!--END_SECTION:hn-->
 
 <!--
