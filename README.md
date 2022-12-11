@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 11 - [Systematic, Ontological, Undiscovered Fact Finding Logic Engine](https://souffle-lang.github.io/)
-- Dec 11 - [U.S. battery storage capacity to increase significantly](https://www.eia.gov/todayinenergy/detail.php?id=54939)
-- Dec 11 - [Asia’s advanced economies now have lower birth rates than Japan](https://www.economist.com/asia/2022/05/19/asias-advanced-economies-now-have-lower-birth-rates-than-japan)
-- Dec 11 - [CNC Gothic Stone Carving by the Carmelite Monks](https://carmelitegothic.com/cnc-stone-carving/)
-- Dec 11 - [Building a walking routine](https://www.sahilbloom.com/newsletter/the-single-greatest-habit-you-can-build)
+- Dec 11 - [PermitFlow (YC W22) Is Hiring](https://www.ycombinator.com/companies/permitflow/jobs/axcfyjc-founding-software-engineer)
+- Dec 11 - [Ask HN: Will AI put programmers our of work?](https://news.ycombinator.com/item?id=33941868)
+- Dec 11 - [Webmention](https://www.w3.org/TR/webmention/)
+- Dec 11 - [IPv6 Internet Is Broken: He vs. Cogent](https://adminhacks.com/broken-IPv6.html)
+- Dec 11 - [USDD/Tron near collapse: USDD stablecoin below $0.97, reserve collateral drained](https://old.reddit.com/r/Buttcoin/comments/zijx5o/usddtron_are_about_to_collapse_usdd_justin_suns/)
 <!--END_SECTION:hn-->
 
 <!--
