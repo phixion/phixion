@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 11 - [Hackers earn $989,750 for 63 zero-days exploited at Pwn2Own Toronto](https://www.bleepingcomputer.com/news/security/hackers-earn-989-750-for-63-zero-days-exploited-at-pwn2own-toronto/)
-- Dec 11 - [Ask HN: Have you ever used an image consultant?](https://news.ycombinator.com/item?id=33939509)
-- Dec 11 - [Base editing: Revolutionary therapy clears girl's incurable cancer](https://www.bbc.com/news/health-63859184)
-- Dec 11 - [Taming Names in Software Development](https://www.simplethread.com/taming-names-in-software-development/)
-- Dec 10 - [Zero-Cost Well-Defined Signed Integer Overflow in C++](https://rentry.co/c955s)
+- Dec 11 - [Systematic, Ontological, Undiscovered Fact Finding Logic Engine](https://souffle-lang.github.io/)
+- Dec 11 - [U.S. battery storage capacity to increase significantly](https://www.eia.gov/todayinenergy/detail.php?id=54939)
+- Dec 11 - [Asia’s advanced economies now have lower birth rates than Japan](https://www.economist.com/asia/2022/05/19/asias-advanced-economies-now-have-lower-birth-rates-than-japan)
+- Dec 11 - [CNC Gothic Stone Carving by the Carmelite Monks](https://carmelitegothic.com/cnc-stone-carving/)
+- Dec 11 - [Building a walking routine](https://www.sahilbloom.com/newsletter/the-single-greatest-habit-you-can-build)
 <!--END_SECTION:hn-->
 
 <!--
