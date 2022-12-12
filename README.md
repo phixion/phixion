@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 12 - [Tell HN: Amazon shows different (worse) pricing when logged in](https://news.ycombinator.com/item?id=33949038)
-- Dec 11 - [Carvana sees 98% of its market value evaporate](https://www.businessinsider.com/used-vehicle-retailer-carvana-bankruptcy-car-buyers-inventory-2022-12)
-- Dec 11 - [Japanese Manga are being eclipsed by Korean webtoons](https://www.economist.com/asia/2022/12/08/japanese-manga-are-being-eclipsed-by-korean-webtoons)
-- Dec 11 - [Is Dark Mode Good for Your Eyes? (2020)](https://kevquirk.com/is-dark-mode-such-a-good-idea/)
-- Dec 11 - [‘Diablo IV’ developers work long hours, bracing for impending release](https://www.washingtonpost.com/video-games/2022/12/08/diablo-iv-release-date-crunch/)
+- Dec 12 - [Discovering Latent Knowledge in Language Models Without Supervision](https://arxiv.org/abs/2212.03827)
+- Dec 12 - [U.S. to announce fusion energy ‘breakthrough’](https://www.washingtonpost.com/business/2022/12/11/fusion-nuclear-energy-breakthrough/)
+- Dec 12 - [Sharrow MX-1: Tipless propeller (2020)](https://www.mby.com/gear/sharrow-mx-1-tipless-propeller-110120)
+- Dec 12 - [100G-LR4 optic cable teardown](https://social.afront.org/@kwf/109492743645650432)
+- Dec 12 - [No one reads the terms of service. Lawmakers want to fix that with 'TLDR' bill](https://www.washingtonpost.com/politics/2022/01/13/no-one-reads-terms-service-lawmakers-want-fix-that-with-new-tldr-bill/)
 <!--END_SECTION:hn-->
 
 <!--
