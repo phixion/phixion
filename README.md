@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Dec 12 - [CoinTracker - 1,557,153 breached accounts](https://haveibeenpwned.com/PwnedWebsites#CoinTracker)
 - Dec 07 - [Abandonia (2022) - 919,790 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Abandonia2022)
 - Nov 22 - [Not Acxiom (unverified) - 51,730,831 breached accounts](https://haveibeenpwned.com/PwnedWebsites#NotAcxiom)
 - Nov 08 - [GGCorp - 2,376,330 breached accounts](https://haveibeenpwned.com/PwnedWebsites#GGCorp)
 - Nov 06 - [Lolzteam - 398,011 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Lolzteam)
-- Oct 24 - [Doomworld - 34,478 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Doomworld)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 12 - [Discovering latent knowledge in language models without supervision](https://arxiv.org/abs/2212.03827)
-- Dec 12 - [Splashdown NASA’s Orion Returns to Earth After Historic Moon Mission](https://www.nasa.gov/press-release/splashdown-nasa-s-orion-returns-to-earth-after-historic-moon-mission/)
-- Dec 12 - [Sharrow MX-1: Tipless propeller (2020)](https://www.mby.com/gear/sharrow-mx-1-tipless-propeller-110120)
-- Dec 12 - [100G-LR4 optic cable teardown](https://social.afront.org/@kwf/109492743645650432)
-- Dec 12 - [No one reads the terms of service. Lawmakers want to fix that with 'TLDR' bill](https://www.washingtonpost.com/politics/2022/01/13/no-one-reads-terms-service-lawmakers-want-fix-that-with-new-tldr-bill/)
+- Dec 12 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- Dec 12 - [A list of advanced math tricks by Terence Tao](https://mathstodon.xyz/@tao/109451634735720062)
+- Dec 12 - [Ask HN: Someone is proxy-mirroring my website, can I do anything?](https://news.ycombinator.com/item?id=33952114)
+- Dec 12 - [Retro-Printer Module](https://www.retroprinter.com/)
+- Dec 12 - [Linux Desktop Environments System Usage](https://itvision.altervista.org/linux-desktop-environments-system-usage.html)
 <!--END_SECTION:hn-->
 
 <!--
