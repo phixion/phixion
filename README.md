@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 11 - [Giant VR Robots Are Building Railways in Japan](https://virtualuncle.com/2022/04/26/giant-vr-robots-are-building-railways-in-japan/)
-- Dec 11 - [Show HN: Mult.dev – zero-config alternative to Google Earth studio](https://mult.dev)
-- Dec 11 - [A Data-Centric Introduction to Computing](https://dcic-world.org/2022-08-28/index.html)
-- Dec 11 - [What's wrong with science and how to fix it: reflections after 2578 papers](https://fantasticanachronism.com/2020/09/11/whats-wrong-with-social-science-and-how-to-fix-it/)
-- Dec 11 - [Orion has splashed down off the coast of Baja, California](https://twitter.com/nasa_orion/status/1601995706642071552)
+- Dec 12 - [Tell HN: Amazon shows different (worse) pricing when logged in](https://news.ycombinator.com/item?id=33949038)
+- Dec 11 - [Carvana sees 98% of its market value evaporate](https://www.businessinsider.com/used-vehicle-retailer-carvana-bankruptcy-car-buyers-inventory-2022-12)
+- Dec 11 - [Japanese Manga are being eclipsed by Korean webtoons](https://www.economist.com/asia/2022/12/08/japanese-manga-are-being-eclipsed-by-korean-webtoons)
+- Dec 11 - [Is Dark Mode Good for Your Eyes? (2020)](https://kevquirk.com/is-dark-mode-such-a-good-idea/)
+- Dec 11 - [‘Diablo IV’ developers work long hours, bracing for impending release](https://www.washingtonpost.com/video-games/2022/12/08/diablo-iv-release-date-crunch/)
 <!--END_SECTION:hn-->
 
 <!--
