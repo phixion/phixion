@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 12 - [The next step in ecommerce? Replatform with APIs and micro front ends](https://stackoverflow.blog/2022/12/12/the-next-step-in-ecommerce-replatform-with-apis-and-micro-frontends/)
-- Dec 12 - [Writing at Work](https://lcamtuf.substack.com/p/writing-at-work)
-- Dec 12 - [DARPA: Neural Evidence Aggregation Tool](https://www.darpa.mil/news-events/2022-03-02)
-- Dec 12 - [The Zig programming language has been ported to SerenityOS](https://twitter.com/awesomekling/status/1602315728320880640)
-- Dec 12 - [Ask HN: Have you ever considered leaving tech because you didn’t feel fulfilled?](https://news.ycombinator.com/item?id=33955145)
+- Dec 12 - [Half-Price Tesla Stock Is Still No Bargain](https://www.wsj.com/articles/half-price-tesla-stock-is-still-no-bargain-11670851513)
+- Dec 12 - [1955 Union Pacific EMD E9 – The Last of the Classic Diesel Streamliners (2012)](https://www.curbsideclassic.com/trackside-classic/trackside-classic-1955-union-pacific-emd-e9-the-last-of-the-classic-diesel-streamliners/)
+- Dec 12 - [The silent struggles of workers with ADHD](https://www.bbc.com/worklife/article/20221209-the-silent-struggles-of-workers-with-adhd)
+- Dec 12 - [$71 Coat Makes Wearers Invisible to AI Security Cameras](https://petapixel.com/2022/12/12/71-coat-makes-wearers-invisible-to-ai-security-cameras/)
+- Dec 12 - [SBF scheduled to testify tomorrow at US House hearing on FTX collapse](https://techcrunch.com/2022/12/12/sbf-scheduled-to-testify-tomorrow-at-us-house-hearing-on-ftx-collapse/)
 <!--END_SECTION:hn-->
 
 <!--
