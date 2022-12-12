@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 12 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- Dec 12 - [A list of advanced math tricks by Terence Tao](https://mathstodon.xyz/@tao/109451634735720062)
-- Dec 12 - [Ask HN: Someone is proxy-mirroring my website, can I do anything?](https://news.ycombinator.com/item?id=33952114)
-- Dec 12 - [Retro-Printer Module](https://www.retroprinter.com/)
-- Dec 12 - [Linux Desktop Environments System Usage](https://itvision.altervista.org/linux-desktop-environments-system-usage.html)
+- Dec 12 - [The next step in ecommerce? Replatform with APIs and micro front ends](https://stackoverflow.blog/2022/12/12/the-next-step-in-ecommerce-replatform-with-apis-and-micro-frontends/)
+- Dec 12 - [Writing at Work](https://lcamtuf.substack.com/p/writing-at-work)
+- Dec 12 - [DARPA: Neural Evidence Aggregation Tool](https://www.darpa.mil/news-events/2022-03-02)
+- Dec 12 - [The Zig programming language has been ported to SerenityOS](https://twitter.com/awesomekling/status/1602315728320880640)
+- Dec 12 - [Ask HN: Have you ever considered leaving tech because you didn’t feel fulfilled?](https://news.ycombinator.com/item?id=33955145)
 <!--END_SECTION:hn-->
 
 <!--
