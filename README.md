@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 12 - [Clojure is a trinity of language, REPL, and structural editor](https://blog.jakubholy.net/2022/trinity-of-clojure/)
-- Dec 12 - [SBF Arrested by Bahamian Authorities](https://twitter.com/tier10k/status/1602446984090107905)
-- Dec 12 - [Why hasn’t technology disrupted higher education already?](https://www.slowboring.com/p/why-hasnt-technology-disrupted-higher)
-- Dec 12 - [The scourge of job title inflation](https://www.economist.com/business/2022/12/08/the-scourge-of-job-title-inflation)
-- Dec 12 - [Perhaps it is a bad thing that the leading AI companies cannot control their AIs](https://astralcodexten.substack.com/p/perhaps-it-is-a-bad-thing-that-the)
+- Dec 13 - [UC Berkeley Launches SkyPilot to Help Navigate Soaring Cloud Costs](https://www.datanami.com/2022/12/12/uc-berkeley-launches-skypilot-to-help-navigate-soaring-cloud-costs/)
+- Dec 13 - [Offline Voice Assistant on a Microcontroller with 192KB RAM](https://picovoice.ai/blog/offline-voice-assistant-on-an-stm32-microcontroller/)
+- Dec 13 - [What I learned at Gitlab that I don't want to forget](https://blog.boleary.dev/what-i-learned-at-gitlab-that-i-dont-want-to-forget/)
+- Dec 13 - [Statement from Fosshost's Founder](https://fosshost.org/founder.html)
+- Dec 13 - [Solving Advent of Code with jq](https://github.com/odnoletkov/advent-of-code-jq)
 <!--END_SECTION:hn-->
 
 <!--
