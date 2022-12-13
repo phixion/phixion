@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 13 - [Binance freezes withdrawals of stablecoin USDC as investors pull $2B](https://markets.businessinsider.com/news/currencies/crypto-binance-freeze-usdc-withdrawals-changpeng-zhao-cz-ftx-collapse-2022-12)
-- Dec 13 - [Ask HN: Why are YC companies breaking hiring laws?](https://news.ycombinator.com/item?id=33970189)
-- Dec 13 - [Show HN: We scaled Git to support 1 TB repos](https://xethub.com/user/login)
-- Dec 13 - [The United States of America vs. Samuel Bankman-Fried Indictment Unsealed [pdf]](https://www.docdroid.net/kxfZltq/unsealed-indictment-in-us-v-bankman-fried-22-cr-673-abrams-as-sam-bankman-fried-of-ftx-heads-to-sdny-echoes-of-onecoin-and-un-bribery-cases-pdf)
-- Dec 13 - [LosslessCut: The Swiss Army Knife of Lossless Video/Audio Editing](https://mifi.no/losslesscut/)
+- Dec 13 - [Show HN: NixOS Web Hosting for Everyone](https://shipnix.io/)
+- Dec 13 - [Apple to Allow Outside App Stores in Overhaul Spurred by EU Laws](https://www.bloomberg.com/news/articles/2022-12-13/will-apple-allow-users-to-install-third-party-app-stores-sideload-in-europe)
+- Dec 13 - [Hydra – the fastest Postgres for analytics [benchmarks]](https://hydras.io/blog/2022-12-13-how-we-built-fastest-postgres-db-for-analytics)
+- Dec 13 - [SQLite-loadable-rs: A framework for building SQLite Extensions in Rust](https://observablehq.com/@asg017/introducing-sqlite-loadable-rs)
+- Dec 13 - [Israeli tech aims to block hatching of billions of male chicks fated for culling](https://www.huminnpoultry.com/news/israeli-tech-aims-to-block-hatching-of-billions-of-male-chicks-fated-for-culling/)
 <!--END_SECTION:hn-->
 
 <!--
