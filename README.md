@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 12 - [Half-Price Tesla Stock Is Still No Bargain](https://www.wsj.com/articles/half-price-tesla-stock-is-still-no-bargain-11670851513)
-- Dec 12 - [1955 Union Pacific EMD E9 – The Last of the Classic Diesel Streamliners (2012)](https://www.curbsideclassic.com/trackside-classic/trackside-classic-1955-union-pacific-emd-e9-the-last-of-the-classic-diesel-streamliners/)
-- Dec 12 - [The silent struggles of workers with ADHD](https://www.bbc.com/worklife/article/20221209-the-silent-struggles-of-workers-with-adhd)
-- Dec 12 - [$71 Coat Makes Wearers Invisible to AI Security Cameras](https://petapixel.com/2022/12/12/71-coat-makes-wearers-invisible-to-ai-security-cameras/)
-- Dec 12 - [SBF scheduled to testify tomorrow at US House hearing on FTX collapse](https://techcrunch.com/2022/12/12/sbf-scheduled-to-testify-tomorrow-at-us-house-hearing-on-ftx-collapse/)
+- Dec 12 - [Clojure is a trinity of language, REPL, and structural editor](https://blog.jakubholy.net/2022/trinity-of-clojure/)
+- Dec 12 - [SBF Arrested by Bahamian Authorities](https://twitter.com/tier10k/status/1602446984090107905)
+- Dec 12 - [Why hasn’t technology disrupted higher education already?](https://www.slowboring.com/p/why-hasnt-technology-disrupted-higher)
+- Dec 12 - [The scourge of job title inflation](https://www.economist.com/business/2022/12/08/the-scourge-of-job-title-inflation)
+- Dec 12 - [Perhaps it is a bad thing that the leading AI companies cannot control their AIs](https://astralcodexten.substack.com/p/perhaps-it-is-a-bad-thing-that-the)
 <!--END_SECTION:hn-->
 
 <!--
