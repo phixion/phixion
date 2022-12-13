@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 13 - [Rutter (YC S19) Is Hiring a Senior Software Engineer in NYC](https://jobs.ashbyhq.com/rutter/7b222f5f-cd46-4592-9cf8-6cd1f5e09931)
-- Dec 13 - [New Zealand bans young people from buying cigarettes for life](https://www.abc.net.au/news/2022-12-13/new-zealand-imposes-lifetime-ban-on-youth-buying-cigarettes/101768694)
-- Dec 13 - [Yerba Mate – A Long but Current History](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8622869/)
-- Dec 13 - [How are you doing?](https://pudding.cool/2022/12/emotion-wheel/)
-- Dec 13 - [The Death of Rackspace’s ‘Fanatical Support’](https://sanantonioreport.org/the-death-of-rackspaces-fanatical-support/)
+- Dec 13 - [Binance freezes withdrawals of stablecoin USDC as investors pull $2B](https://markets.businessinsider.com/news/currencies/crypto-binance-freeze-usdc-withdrawals-changpeng-zhao-cz-ftx-collapse-2022-12)
+- Dec 13 - [Ask HN: Why are YC companies breaking hiring laws?](https://news.ycombinator.com/item?id=33970189)
+- Dec 13 - [Show HN: We scaled Git to support 1 TB repos](https://xethub.com/user/login)
+- Dec 13 - [The United States of America vs. Samuel Bankman-Fried Indictment Unsealed [pdf]](https://www.docdroid.net/kxfZltq/unsealed-indictment-in-us-v-bankman-fried-22-cr-673-abrams-as-sam-bankman-fried-of-ftx-heads-to-sdny-echoes-of-onecoin-and-un-bribery-cases-pdf)
+- Dec 13 - [LosslessCut: The Swiss Army Knife of Lossless Video/Audio Editing](https://mifi.no/losslesscut/)
 <!--END_SECTION:hn-->
 
 <!--
