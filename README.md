@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 13 - [Angelo Badalamenti has died](https://www.theguardian.com/music/2022/dec/13/angelo-badalamenti-david-lynchs-composer-on-twin-peaks-blue-velvet-and-more-dies-aged-85)
-- Dec 13 - [UC Berkeley launches SkyPilot to help navigate soaring cloud costs](https://www.datanami.com/2022/12/12/uc-berkeley-launches-skypilot-to-help-navigate-soaring-cloud-costs/)
-- Dec 13 - [Offline Voice Assistant on a Microcontroller with 192KB RAM](https://picovoice.ai/blog/offline-voice-assistant-on-an-stm32-microcontroller/)
-- Dec 13 - [Picol, a Tcl interpreter in 550 lines of C code](http://oldblog.antirez.com/page/picol.html)
-- Dec 13 - [What I learned at Gitlab that I don't want to forget](https://blog.boleary.dev/what-i-learned-at-gitlab-that-i-dont-want-to-forget/)
+- Dec 13 - [Rutter (YC S19) Is Hiring a Senior Software Engineer in NYC](https://jobs.ashbyhq.com/rutter/7b222f5f-cd46-4592-9cf8-6cd1f5e09931)
+- Dec 13 - [New Zealand bans young people from buying cigarettes for life](https://www.abc.net.au/news/2022-12-13/new-zealand-imposes-lifetime-ban-on-youth-buying-cigarettes/101768694)
+- Dec 13 - [Yerba Mate – A Long but Current History](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8622869/)
+- Dec 13 - [How are you doing?](https://pudding.cool/2022/12/emotion-wheel/)
+- Dec 13 - [The Death of Rackspace’s ‘Fanatical Support’](https://sanantonioreport.org/the-death-of-rackspaces-fanatical-support/)
 <!--END_SECTION:hn-->
 
 <!--
