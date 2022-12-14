@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 14 - [Flightcontrol (YC W22) is hiring first Developer Advocate](https://jobs.flightcontrol.dev/developer-advocate)
-- Dec 14 - [ThreeUK blocks access to encrypted provider Tutanota due to 'age restriction'](https://twitter.com/tutanotateam/status/1602968787766345728)
-- Dec 14 - [Rust front-end merged in GCC trunk](https://gcc.gnu.org/pipermail/gcc-patches/2022-December/608387.html)
-- Dec 14 - [Fputc semantics for conforming C implementations](https://thephd.dev/conformance-should-mean-something-fputc-and-freestanding)
-- Dec 14 - [Rust: State of GUI, December 2022 – KAS blog](https://kas-gui.github.io/blog/state-of-GUI-2022.html)
+- Dec 14 - [ElonJet (on Facebook since removed from Twitter)](https://www.facebook.com/ElonJet)
+- Dec 14 - [Ask HN: Why is news about fusion ignition not a bigger deal in popular media?](https://news.ycombinator.com/item?id=33984421)
+- Dec 14 - [The History and rationale of the Python 3 Unicode model for the operating system](https://vstinner.github.io/python30-listdir-undecodable-filenames.html)
+- Dec 14 - [What I Do When I Feel Like Giving Up](https://jamesclear.com/giving-up)
+- Dec 14 - [Supabase introduces MFA support](https://supabase.com/blog/mfa-auth-via-rls)
 <!--END_SECTION:hn-->
 
 <!--
