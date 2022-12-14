@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 13 - [Show HN: NixOS Web Hosting for Everyone](https://shipnix.io/)
-- Dec 13 - [Apple to Allow Outside App Stores in Overhaul Spurred by EU Laws](https://www.bloomberg.com/news/articles/2022-12-13/will-apple-allow-users-to-install-third-party-app-stores-sideload-in-europe)
-- Dec 13 - [Hydra – the fastest Postgres for analytics [benchmarks]](https://hydras.io/blog/2022-12-13-how-we-built-fastest-postgres-db-for-analytics)
-- Dec 13 - [SQLite-loadable-rs: A framework for building SQLite Extensions in Rust](https://observablehq.com/@asg017/introducing-sqlite-loadable-rs)
-- Dec 13 - [Israeli tech aims to block hatching of billions of male chicks fated for culling](https://www.huminnpoultry.com/news/israeli-tech-aims-to-block-hatching-of-billions-of-male-chicks-fated-for-culling/)
+- Dec 13 - [Reddit's photo albums broke due to Integer overflow of Signed Int32](https://old.reddit.com/r/shittychangelog/comments/zl5gaz/here_at_reddit_we_believe_everything_is_better_in/)
+- Dec 13 - [After 20 years the Dwarf Fortress devs have to get used to being millionaires](https://www.pcgamer.com/after-spending-20-years-simulating-reality-the-dwarf-fortress-devs-have-to-get-used-to-a-new-one-being-millionaires/)
+- Dec 13 - [No, Google did not hike the price of a .dev domain from $12 to $850](https://www.agwa.name/blog/post/domain_pricing_is_very_confusing)
+- Dec 13 - [A software change allowed FTX to use client money](https://www.reuters.com/technology/how-secret-software-change-allowed-ftx-use-client-money-2022-12-13/)
+- Dec 13 - [The Flickr Foundation](https://www.flickr.org/announcing-the-flickr-foundation/)
 <!--END_SECTION:hn-->
 
 <!--
