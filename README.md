@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 14 - [ElonJet (on Facebook since removed from Twitter)](https://www.facebook.com/ElonJet)
-- Dec 14 - [Ask HN: Why is news about fusion ignition not a bigger deal in popular media?](https://news.ycombinator.com/item?id=33984421)
-- Dec 14 - [The History and rationale of the Python 3 Unicode model for the operating system](https://vstinner.github.io/python30-listdir-undecodable-filenames.html)
-- Dec 14 - [What I Do When I Feel Like Giving Up](https://jamesclear.com/giving-up)
-- Dec 14 - [Supabase introduces MFA support](https://supabase.com/blog/mfa-auth-via-rls)
+- Dec 14 - [The Metals Company subsidiary lifts over 3000T of nodules to sea surface](https://investors.metals.co/news-releases/news-release-details/nori-and-allseas-lift-over-3000-tonnes-polymetallic-nodules/)
+- Dec 14 - [JxckSweeney suspended (ElonJet guy's personal account)](https://twitter.com/jxcksweeney)
+- Dec 14 - [ChatGPT Should Not Exist](https://davidgolumbia.medium.com/chatgpt-should-not-exist-aab0867abace)
+- Dec 14 - [Federal Reserve to increase interest rates by 50 basis points](https://www.federalreserve.gov/newsevents/pressreleases/monetary20221214a.htm)
+- Dec 14 - [Scan of the Month: Nest Thermostat](https://www.scanofthemonth.com/scans/nest-thermostat-evolution)
 <!--END_SECTION:hn-->
 
 <!--
