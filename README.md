@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 14 - [The Metals Company subsidiary lifts over 3000T of nodules to sea surface](https://investors.metals.co/news-releases/news-release-details/nori-and-allseas-lift-over-3000-tonnes-polymetallic-nodules/)
-- Dec 14 - [JxckSweeney suspended (ElonJet guy's personal account)](https://twitter.com/jxcksweeney)
-- Dec 14 - [ChatGPT Should Not Exist](https://davidgolumbia.medium.com/chatgpt-should-not-exist-aab0867abace)
-- Dec 14 - [Federal Reserve to increase interest rates by 50 basis points](https://www.federalreserve.gov/newsevents/pressreleases/monetary20221214a.htm)
-- Dec 14 - [Scan of the Month: Nest Thermostat](https://www.scanofthemonth.com/scans/nest-thermostat-evolution)
+- Dec 14 - [Twitter restored ElonJet account](https://twitter.com/elonjet/status/1603166460746104833)
+- Dec 14 - [Rail workers oust union president who backed labor deal](https://perfectunion.us/rail-workers-oust-union-president-who-backed-labor-deal/)
+- Dec 14 - [A circuit simulator that doesn't look like it was made in 2003](https://www.withdiode.com/projects/62716731-5e1e-4622-86af-90d8e6b5123b)
+- Dec 14 - [Ask HN: Best board games of 2022?](https://news.ycombinator.com/item?id=33990944)
+- Dec 14 - [Turn the radio volume down for adverts and DJs talking](https://matthewfelgate.wordpress.com/2022/12/14/turn-the-radio-volume-down-for-adverts-and-djs-talking/)
 <!--END_SECTION:hn-->
 
 <!--
