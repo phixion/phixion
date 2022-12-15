@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 15 - [Who knew the first AI battles would be fought by artists?](https://vmst.io/@selzero/109512557990367884)
-- Dec 15 - [Ask HN: How do you use upvote on HN?](https://news.ycombinator.com/item?id=33997986)
-- Dec 15 - [Epic is turning off online services and servers for some older games](https://www.epicgames.com/site/en-US/news/epic-is-turning-off-online-services-and-servers-for-some-older-games)
-- Dec 15 - [MIPS announces its first RISC-V chip designs are now available for licensing](https://liliputing.com/mips-announces-its-first-risc-v-chip-designs-are-now-available-for-licensing/)
-- Dec 15 - [Python 3.11 Delivers](https://twitter.com/pypi/status/1603089763287826432)
+- Dec 15 - [Native Reflection in Rust](https://jack.wrenn.fyi/blog/deflect/)
+- Dec 15 - [NIST Retires SHA-1 Cryptographic Algorithm](https://www.nist.gov/news-events/news/2022/12/nist-retires-sha-1-cryptographic-algorithm)
+- Dec 15 - [Why Should You [Still] Choose Ruby on Rails to Develop Your Product in 2023](https://mobidev.biz/blog/ruby-on-rails-not-dead-still-good-for-your-product-development)
+- Dec 15 - [Why McMaster.com is the best ecommerce site, you’ll ever use](https://medusajs.com/blog/9-best-ecommerce-ux-practices-with-examples)
+- Dec 15 - [Adding WebRTC support to OBS using Rust](https://github.com/obsproject/obs-studio/pull/7926)
 <!--END_SECTION:hn-->
 
 <!--
