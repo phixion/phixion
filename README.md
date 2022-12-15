@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 14 - [Twitter restored ElonJet account](https://twitter.com/elonjet/status/1603166460746104833)
-- Dec 14 - [Rail workers oust union president who backed labor deal](https://perfectunion.us/rail-workers-oust-union-president-who-backed-labor-deal/)
-- Dec 14 - [A circuit simulator that doesn't look like it was made in 2003](https://www.withdiode.com/projects/62716731-5e1e-4622-86af-90d8e6b5123b)
-- Dec 14 - [Ask HN: Best board games of 2022?](https://news.ycombinator.com/item?id=33990944)
-- Dec 14 - [Turn the radio volume down for adverts and DJs talking](https://matthewfelgate.wordpress.com/2022/12/14/turn-the-radio-volume-down-for-adverts-and-djs-talking/)
+- Dec 15 - [Soyuz module on International Space Station is leaking something](https://twitter.com/nasaspaceflight/status/1603213585307541506)
+- Dec 15 - [ACLU: Flock [YC] Is Building a New AI-Driven Mass-Surveillance System [pdf]](https://www.aclu.org/sites/default/files/field_document/flock_1.pdf)
+- Dec 15 - [Two temperate Earth-mass planets orbiting the nearby star GJ1002](https://arxiv.org/abs/2212.07332)
+- Dec 15 - [Fusion “Breakthrough” Won’t Lead to Practical Fusion Energy](https://spectrum.ieee.org/national-ignition-facility-impractical)
+- Dec 15 - [Maryland couple fights home owners assoc. and wins ushering in new state law](https://www.nytimes.com/2022/12/14/climate/native-plants-lawns-homeowners.html)
 <!--END_SECTION:hn-->
 
 <!--
