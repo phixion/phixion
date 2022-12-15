@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 15 - [Soyuz module on International Space Station is leaking something](https://twitter.com/nasaspaceflight/status/1603213585307541506)
-- Dec 15 - [ACLU: Flock [YC] Is Building a New AI-Driven Mass-Surveillance System [pdf]](https://www.aclu.org/sites/default/files/field_document/flock_1.pdf)
-- Dec 15 - [Two temperate Earth-mass planets orbiting the nearby star GJ1002](https://arxiv.org/abs/2212.07332)
-- Dec 15 - [Fusion “Breakthrough” Won’t Lead to Practical Fusion Energy](https://spectrum.ieee.org/national-ignition-facility-impractical)
-- Dec 15 - [Maryland couple fights home owners assoc. and wins ushering in new state law](https://www.nytimes.com/2022/12/14/climate/native-plants-lawns-homeowners.html)
+- Dec 15 - [Meticulous (YC S21) Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=33996230)
+- Dec 15 - [Libreboot 20221214](https://libreboot.org/news/libreboot20221214.html)
+- Dec 15 - [Handwritten complaint to the court by alleged CIA Vault 7 leaker](https://twitter.com/vickio96064997/status/1603051469040762881)
+- Dec 15 - [The world’s biggest cultured meat factory is under construction in the U.S.](https://singularityhub.com/2022/12/14/the-worlds-biggest-cultured-meat-factory-is-now-under-construction-in-the-us/)
+- Dec 15 - [IDN is crazy](https://daniel.haxx.se/blog/2022/12/14/idn-is-crazy/)
 <!--END_SECTION:hn-->
 
 <!--
