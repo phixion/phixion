@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 15 - [Native Reflection in Rust](https://jack.wrenn.fyi/blog/deflect/)
-- Dec 15 - [NIST Retires SHA-1 Cryptographic Algorithm](https://www.nist.gov/news-events/news/2022/12/nist-retires-sha-1-cryptographic-algorithm)
-- Dec 15 - [Why Should You [Still] Choose Ruby on Rails to Develop Your Product in 2023](https://mobidev.biz/blog/ruby-on-rails-not-dead-still-good-for-your-product-development)
-- Dec 15 - [Why McMaster.com is the best ecommerce site, you’ll ever use](https://medusajs.com/blog/9-best-ecommerce-ux-practices-with-examples)
-- Dec 15 - [Adding WebRTC support to OBS using Rust](https://github.com/obsproject/obs-studio/pull/7926)
+- Dec 15 - [New and Improved Embedding Model for OpenAI](https://openai.com/blog/new-and-improved-embedding-model/)
+- Dec 15 - [DBT Cloud increase Team plan price by 100% and limit features at the same time](https://www.getdbt.com/blog/dbt-cloud-package-update/)
+- Dec 15 - [Lichess gets a big upgrade. It doesn't go as planned](https://lichess.org/@/thibault/blog/lichess--scala-3/y1sbYzJX)
+- Dec 15 - [Request for Startups: Climate Tech](https://www.ycombinator.com/blog/rfs-climatetech)
+- Dec 15 - [Charge Robotics (YC S21) is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
 <!--END_SECTION:hn-->
 
 <!--
