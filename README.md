@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 15 - [Meticulous (YC S21) Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=33996230)
-- Dec 15 - [Libreboot 20221214](https://libreboot.org/news/libreboot20221214.html)
-- Dec 15 - [Handwritten complaint to the court by alleged CIA Vault 7 leaker](https://twitter.com/vickio96064997/status/1603051469040762881)
-- Dec 15 - [The world’s biggest cultured meat factory is under construction in the U.S.](https://singularityhub.com/2022/12/14/the-worlds-biggest-cultured-meat-factory-is-now-under-construction-in-the-us/)
-- Dec 15 - [IDN is crazy](https://daniel.haxx.se/blog/2022/12/14/idn-is-crazy/)
+- Dec 15 - [Who knew the first AI battles would be fought by artists?](https://vmst.io/@selzero/109512557990367884)
+- Dec 15 - [Ask HN: How do you use upvote on HN?](https://news.ycombinator.com/item?id=33997986)
+- Dec 15 - [Epic is turning off online services and servers for some older games](https://www.epicgames.com/site/en-US/news/epic-is-turning-off-online-services-and-servers-for-some-older-games)
+- Dec 15 - [MIPS announces its first RISC-V chip designs are now available for licensing](https://liliputing.com/mips-announces-its-first-risc-v-chip-designs-are-now-available-for-licensing/)
+- Dec 15 - [Python 3.11 Delivers](https://twitter.com/pypi/status/1603089763287826432)
 <!--END_SECTION:hn-->
 
 <!--
