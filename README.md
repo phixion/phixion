@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 16 - [Kilo Lisp: A Kilo Byte-Sized Lisp System](http://t3x.org/klisp/index.html)
-- Dec 16 - [IBM creates 24-core Power chip so customers can exploit Oracle database license](https://www.theregister.com/2022/12/15/new_ibm_power_cpu_for_oracle/)
-- Dec 16 - [What happened when the San Francisco Bay Area rejected growth](https://www.bloomberg.com/opinion/articles/2022-12-15/what-happened-when-the-san-francisco-bay-area-rejected-growth)
-- Dec 16 - [Tiny Code Christmas](https://tcc.lovebyte.party/)
-- Dec 16 - [Use a laptop as a 2nd display on Linux using FreeRDP](https://blog.jacobstoner.com/use-a-laptop-or-tablet-as-a-2nd-display-on-linux-with-a-dummy-monitor-and-rdp/)
+- Dec 16 - [HiOperator (YC S16) Is Hiring VP of Engineering](https://hioperator.breezy.hr/p/4cb3dcb4e6e5-vp-of-engineering)
+- Dec 16 - [Binance is fucked](https://somereverie.substack.com/p/binance-is-fucked)
+- Dec 16 - [A Linux Evening](https://fabiensanglard.net/a_linux_evening/index.html)
+- Dec 16 - [Huge cylindrical aquarium housing 1,500 exotic fish bursts in Berlin](https://www.theguardian.com/world/2022/dec/16/huge-cylindrical-aquarium-housing-1500-exotic-fish-bursts-in-berlin)
+- Dec 16 - [Science Images of 2022](https://www.nature.com/immersive/d41586-022-04372-2/index.html)
 <!--END_SECTION:hn-->
 
 <!--
