@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 16 - [HiOperator (YC S16) Is Hiring VP of Engineering](https://hioperator.breezy.hr/p/4cb3dcb4e6e5-vp-of-engineering)
-- Dec 16 - [Binance is fucked](https://somereverie.substack.com/p/binance-is-fucked)
-- Dec 16 - [A Linux Evening](https://fabiensanglard.net/a_linux_evening/index.html)
-- Dec 16 - [Huge cylindrical aquarium housing 1,500 exotic fish bursts in Berlin](https://www.theguardian.com/world/2022/dec/16/huge-cylindrical-aquarium-housing-1500-exotic-fish-bursts-in-berlin)
-- Dec 16 - [Science Images of 2022](https://www.nature.com/immersive/d41586-022-04372-2/index.html)
+- Dec 16 - [Nuclear power is too slow](https://jackdevanney.substack.com/p/nuclear-power-is-too-slow)
+- Dec 16 - [Supabase Vault is now in Beta](https://supabase.com/blog/vault-now-in-beta)
+- Dec 16 - [Honey consumption improves blood sugar and cholesterol levels, study suggests](https://www.sci.news/medicine/honey-cardiometabolic-risks-11401.html)
+- Dec 16 - [BundesMessenger is a milestone in Germany’s ground-breaking vision](https://element.io/blog/bundesmessenger-is-a-milestone-in-germanys-ground-breaking-vision/)
+- Dec 16 - [Research reveals ways lead and cadmium in chocolate may be reduced](https://candyusa.com/news/research-reveals-ways-lead-and-cadmium-in-chocolate-may-be-reduced/)
 <!--END_SECTION:hn-->
 
 <!--
