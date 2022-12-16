@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 15 - [New and Improved Embedding Model for OpenAI](https://openai.com/blog/new-and-improved-embedding-model/)
-- Dec 15 - [DBT Cloud increase Team plan price by 100% and limit features at the same time](https://www.getdbt.com/blog/dbt-cloud-package-update/)
-- Dec 15 - [Lichess gets a big upgrade. It doesn't go as planned](https://lichess.org/@/thibault/blog/lichess--scala-3/y1sbYzJX)
-- Dec 15 - [Request for Startups: Climate Tech](https://www.ycombinator.com/blog/rfs-climatetech)
-- Dec 15 - [Charge Robotics (YC S21) is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
+- Dec 15 - [IvorySQL: Open-source Oracle-compatible PostgreSQL](https://github.com/IvorySQL/IvorySQL)
+- Dec 15 - [Help choose the syntax for CSS Nesting](https://webkit.org/blog/13607/help-choose-from-options-for-css-nesting-syntax/)
+- Dec 15 - [Things I want from Devs as SRE/DevOps](https://oschvr.com/posts/what-id-like-as-sre/)
+- Dec 15 - [Bitter Lesson by Richard Sutton](http://incompleteideas.net/IncIdeas/BitterLesson.html)
+- Dec 15 - [Show HN: Readwise Reader, an all-in-one reading app](https://readwise.io/read)
 <!--END_SECTION:hn-->
 
 <!--
