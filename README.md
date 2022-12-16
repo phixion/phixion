@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 16 - [Twitter applies 7-day suspension to prominent journalists](https://twitter.com/elonmusk/status/1603593201683599360?s=46&t=9UpCrTmScsHkp0vCCATebw)
-- Dec 16 - [Ancient grammatical puzzle solved after 2,500 years](https://phys.org/news/2022-12-ancient-grammatical-puzzle-years.html)
-- Dec 16 - [Vintage Apple Advertisements](https://www.printmag.com/advertising/making-the-mac-20-vintage-apple-ads/)
-- Dec 16 - [Secret scanning is now available for free on public repositories](https://github.blog/changelog/2022-12-15-secret-scanning-is-now-available-for-free-on-public-repositories/)
-- Dec 15 - [IvorySQL: Open-source Oracle-compatible PostgreSQL](https://github.com/IvorySQL/IvorySQL)
+- Dec 16 - [Kilo Lisp: A Kilo Byte-Sized Lisp System](http://t3x.org/klisp/index.html)
+- Dec 16 - [IBM creates 24-core Power chip so customers can exploit Oracle database license](https://www.theregister.com/2022/12/15/new_ibm_power_cpu_for_oracle/)
+- Dec 16 - [What happened when the San Francisco Bay Area rejected growth](https://www.bloomberg.com/opinion/articles/2022-12-15/what-happened-when-the-san-francisco-bay-area-rejected-growth)
+- Dec 16 - [Tiny Code Christmas](https://tcc.lovebyte.party/)
+- Dec 16 - [Use a laptop as a 2nd display on Linux using FreeRDP](https://blog.jacobstoner.com/use-a-laptop-or-tablet-as-a-2nd-display-on-linux-with-a-dummy-monitor-and-rdp/)
 <!--END_SECTION:hn-->
 
 <!--
