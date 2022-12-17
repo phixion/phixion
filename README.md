@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 16 - [Show HN: The easiest way to run a brainstorm, supercharged with A.I](https://mimosa.so/)
-- Dec 16 - [EU adopts global minimum 15% tax on big business](https://www.bbc.com/news/business-64004673)
-- Dec 16 - [Apple TV+ to adapt William Gibson’s cyberpunk novel Neuromancer](https://www.cinemaexpress.com/english/news/2022/dec/02/apple-tv-to-adapt-william-gibsons-cyberpunk-novel-neuromancer-37299.html)
-- Dec 16 - [Graph showing level of Covid, flu and RSV in US wastewater systems, by city](http://publichealth.verily.com/)
-- Dec 16 - [WeWork’s Once Robust Cash Reserves Have Dwindled, Raising Chances of Default](https://www.wsj.com/articles/weworks-once-robust-cash-reserves-have-dwindled-raising-chances-of-default-11670905533)
+- Dec 16 - [Schizophrenia: The new etiological synthesis](https://www.sciencedirect.com/science/article/pii/S0149763422003839)
+- Dec 16 - [Congress passes legislation to end US participation in global shark fin trade](https://www.humanesociety.org/news/congress-passes-legislation-end-us-participation-global-shark-fin-trade)
+- Dec 16 - [90s Web "Humor" Button](https://www.monkeon.co.uk/90s-web-humor-button/)
+- Dec 16 - [Thomas Pynchon, famously private, sells his archive](https://www.nytimes.com/2022/12/14/arts/thomas-pynchon-huntington-archive.html)
+- Dec 16 - [Fears of ‘dead pool’ on Colorado River as drought threatens Hoover Dam water](https://www.latimes.com/environment/story/2022-12-16/risk-of-dead-pool-looms-at-colorado-river-meeting)
 <!--END_SECTION:hn-->
 
 <!--
