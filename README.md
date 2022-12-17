@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 17 - [Jack Ma flees tech crackdown to Tokyo in twilight of neoliberalism](https://asia.nikkei.com/Spotlight/Comment/Jack-Ma-flees-tech-crackdown-to-Tokyo-in-twilight-of-neoliberalism)
+- Dec 17 - [Songtell](https://www.songtell.com/)
+- Dec 17 - [Tom Lehrer has released all of his songs into the public domain](https://wandering.shop/@therotund/109524633218501102)
+- Dec 17 - [The $8 Linux Computer](http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html)
 - Dec 17 - [Open source USB C camera with C mount lens, MIPI Sensor, Lattice FPGA, USB 3.0](https://www.circuitvalley.com/2022/06/pensource-usb-c-industrial-camera-c-mount-fpga-imx-mipi-usb-3-crosslinknx.html)
-- Dec 17 - [John Carmack Leaves Meta](https://www.businessinsider.com/john-carmack-meta-consulting-cto-virtual-reality-leaving-2022-12)
-- Dec 16 - [Congress passes legislation to end US participation in global shark fin trade](https://www.humanesociety.org/news/congress-passes-legislation-end-us-participation-global-shark-fin-trade)
-- Dec 16 - [90s Web "Humor" Button](https://www.monkeon.co.uk/90s-web-humor-button/)
-- Dec 16 - [Thomas Pynchon, famously private, sells his archive](https://www.nytimes.com/2022/12/14/arts/thomas-pynchon-huntington-archive.html)
 <!--END_SECTION:hn-->
 
 <!--
