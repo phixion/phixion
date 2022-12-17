@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 17 - [Jack Ma flees tech crackdown to Tokyo in twilight of neoliberalism](https://asia.nikkei.com/Spotlight/Comment/Jack-Ma-flees-tech-crackdown-to-Tokyo-in-twilight-of-neoliberalism)
+- Dec 17 - [When Paper Beats the Screen](https://www.economist.com/business/2022/12/15/the-enduring-value-of-an-analogue-technology)
+- Dec 17 - [A ticking time bomb: healthcare under threat across western Europe](https://www.theguardian.com/society/2022/dec/14/a-ticking-time-bomb-healthcare-under-threat-across-western-europe)
+- Dec 17 - [Atari Hotels](https://atarihotels.com/)
+- Dec 17 - [Carp – a statically typed, non-GC Lisp language](https://github.com/carp-lang/Carp/blob/master/README.md)
 - Dec 17 - [Songtell](https://www.songtell.com/)
-- Dec 17 - [Tom Lehrer has released all of his songs into the public domain](https://wandering.shop/@therotund/109524633218501102)
-- Dec 17 - [The $8 Linux Computer](http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html)
-- Dec 17 - [Open source USB C camera with C mount lens, MIPI Sensor, Lattice FPGA, USB 3.0](https://www.circuitvalley.com/2022/06/pensource-usb-c-industrial-camera-c-mount-fpga-imx-mipi-usb-3-crosslinknx.html)
 <!--END_SECTION:hn-->
 
 <!--
