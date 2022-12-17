@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 17 - [When Paper Beats the Screen](https://www.economist.com/business/2022/12/15/the-enduring-value-of-an-analogue-technology)
-- Dec 17 - [A ticking time bomb: healthcare under threat across western Europe](https://www.theguardian.com/society/2022/dec/14/a-ticking-time-bomb-healthcare-under-threat-across-western-europe)
-- Dec 17 - [Atari Hotels](https://atarihotels.com/)
-- Dec 17 - [Carp – a statically typed, non-GC Lisp language](https://github.com/carp-lang/Carp/blob/master/README.md)
-- Dec 17 - [Songtell](https://www.songtell.com/)
+- Dec 17 - [Valve Is Paying Open-Source Developers to Work on Proton, Mesa, and More](https://old.reddit.com/r/linux/comments/znxb9y/valve_is_paying_100_opensource_developers_to_work/)
+- Dec 17 - [Apk.sh is a Bash script that makes reverse engineering Android apps easier](https://github.com/ax/apk.sh)
+- Dec 17 - [Google introduces end-to-end encryption for Gmail on the web](https://www.bleepingcomputer.com/news/security/google-introduces-end-to-end-encryption-for-gmail-on-the-web/)
+- Dec 17 - [The Empty List](https://www.tfeb.org/fragments/2022/12/16/the-empty-list/)
+- Dec 17 - [Memory Pool System is a flexible and adaptable memory manager](https://www.ravenbrook.com/project/mps/)
 <!--END_SECTION:hn-->
 
 <!--
