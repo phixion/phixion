@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 17 - [Valve Is Paying Open-Source Developers to Work on Proton, Mesa, and More](https://old.reddit.com/r/linux/comments/znxb9y/valve_is_paying_100_opensource_developers_to_work/)
-- Dec 17 - [Apk.sh is a Bash script that makes reverse engineering Android apps easier](https://github.com/ax/apk.sh)
-- Dec 17 - [Google introduces end-to-end encryption for Gmail on the web](https://www.bleepingcomputer.com/news/security/google-introduces-end-to-end-encryption-for-gmail-on-the-web/)
-- Dec 17 - [The Empty List](https://www.tfeb.org/fragments/2022/12/16/the-empty-list/)
-- Dec 17 - [Memory Pool System is a flexible and adaptable memory manager](https://www.ravenbrook.com/project/mps/)
+- Dec 17 - [W3C’s transfer from MIT to non-profit going poorly](https://twitter.com/robinberjon/status/1603834995830816769)
+- Dec 17 - [Milgram experiment (1963) [video]](https://www.youtube.com/watch?v=Kzd6Ew3TraA)
+- Dec 17 - [Beyond Repair – The potential downsides of right-to-repair laws](https://newsroom.haas.berkeley.edu/magazine/fall-2022/beyond-repair/)
+- Dec 17 - [Atari Cosmos: A portable holographic video game machine (scroll a bit) (2013)](https://www.ataricompendium.com/archives/interviews/roger_hector/interview_roger_hector.html)
+- Dec 17 - [Apple changed how reading books works in iOS 16](https://www.theverge.com/2022/11/21/23471306/apple-books-ios-16-page-flip-animation-sucks)
 <!--END_SECTION:hn-->
 
 <!--
