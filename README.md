@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 16 - [Schizophrenia: The new etiological synthesis](https://www.sciencedirect.com/science/article/pii/S0149763422003839)
+- Dec 17 - [Open source USB C camera with C mount lens, MIPI Sensor, Lattice FPGA, USB 3.0](https://www.circuitvalley.com/2022/06/pensource-usb-c-industrial-camera-c-mount-fpga-imx-mipi-usb-3-crosslinknx.html)
+- Dec 17 - [John Carmack Leaves Meta](https://www.businessinsider.com/john-carmack-meta-consulting-cto-virtual-reality-leaving-2022-12)
 - Dec 16 - [Congress passes legislation to end US participation in global shark fin trade](https://www.humanesociety.org/news/congress-passes-legislation-end-us-participation-global-shark-fin-trade)
 - Dec 16 - [90s Web "Humor" Button](https://www.monkeon.co.uk/90s-web-humor-button/)
 - Dec 16 - [Thomas Pynchon, famously private, sells his archive](https://www.nytimes.com/2022/12/14/arts/thomas-pynchon-huntington-archive.html)
-- Dec 16 - [Fears of ‘dead pool’ on Colorado River as drought threatens Hoover Dam water](https://www.latimes.com/environment/story/2022-12-16/risk-of-dead-pool-looms-at-colorado-river-meeting)
 <!--END_SECTION:hn-->
 
 <!--
