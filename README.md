@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 18 - [Spacekaren.sucks](https://spacekaren.sucks/)
-- Dec 18 - [Emacs User Survey – 2022 Results](https://emacssurvey.org/results/3425413930)
-- Dec 18 - [Twitter's anti-Mastodon filter evasion](https://infosec.exchange/@postmodern/109523637731779949)
-- Dec 18 - [Next, Nest, Nuxt Nust?](https://www.twilio.com/blog/comparing-nextjs-nestjs-nuxt-gatsby)
-- Dec 18 - [EsPiFF: An ESP32 in the Raspberry Pi form factor](https://github.com/MDCservice/EsPiFF)
+- Dec 18 - [I’ve been battling cancer last 2 years only have a few days left](https://twitter.com/stokesneuro/status/1604369158883491841)
+- Dec 18 - [Winter & Cold Weather EV Range Loss in 7,000 Cars](https://www.recurrentauto.com/research/winter-ev-range-loss)
+- Dec 18 - [Ask HN: How do people find your blog?](https://news.ycombinator.com/item?id=34038542)
+- Dec 18 - [S.F. police announce dozens of arrests in crackdown on retail theft](https://www.cbsnews.com/sanfrancisco/news/san-francisco-police-announce-dozens-arrested-crackdown-retail-theft/)
+- Dec 18 - [Lionel Messi Is Impossible (2014)](https://fivethirtyeight.com/features/lionel-messi-is-impossible/)
 <!--END_SECTION:hn-->
 
 <!--
