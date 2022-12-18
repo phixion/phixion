@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 17 - [W3C’s transfer from MIT to non-profit going poorly](https://twitter.com/robinberjon/status/1603834995830816769)
-- Dec 17 - [Milgram experiment (1963) [video]](https://www.youtube.com/watch?v=Kzd6Ew3TraA)
-- Dec 17 - [Beyond Repair – The potential downsides of right-to-repair laws](https://newsroom.haas.berkeley.edu/magazine/fall-2022/beyond-repair/)
-- Dec 17 - [Atari Cosmos: A portable holographic video game machine (scroll a bit) (2013)](https://www.ataricompendium.com/archives/interviews/roger_hector/interview_roger_hector.html)
-- Dec 17 - [Apple changed how reading books works in iOS 16](https://www.theverge.com/2022/11/21/23471306/apple-books-ios-16-page-flip-animation-sucks)
+- Dec 17 - [The human cost of neurotechnology failure](https://www.nature.com/immersive/d41586-022-03810-5/index.html)
+- Dec 17 - [The record-breaking -108.00 diopter myopia lenses (2016)](https://www.pointsdevue.com/article/record-high-myopia-solved-alliance-experts-10800-d)
+- Dec 17 - [The Golden Age of Basic (2014)](https://spectrum.ieee.org/the-golden-age-of-basic)
+- Dec 17 - [Steve Jobs Insult Response](https://www.youtube.com/watch?v=oeqPrUmVz-o)
+- Dec 17 - [A self-updating list of the most current useragents](https://www.useragents.me)
 <!--END_SECTION:hn-->
 
 <!--
