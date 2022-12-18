@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 18 - [I’ve been battling cancer last 2 years only have a few days left](https://twitter.com/stokesneuro/status/1604369158883491841)
-- Dec 18 - [Winter & Cold Weather EV Range Loss in 7,000 Cars](https://www.recurrentauto.com/research/winter-ev-range-loss)
-- Dec 18 - [Ask HN: How do people find your blog?](https://news.ycombinator.com/item?id=34038542)
-- Dec 18 - [S.F. police announce dozens of arrests in crackdown on retail theft](https://www.cbsnews.com/sanfrancisco/news/san-francisco-police-announce-dozens-arrested-crackdown-retail-theft/)
-- Dec 18 - [Lionel Messi Is Impossible (2014)](https://fivethirtyeight.com/features/lionel-messi-is-impossible/)
+- Dec 18 - [Paul Graham is leaving Twitter](https://twitter.com/paulg/status/1604556563338887168)
+- Dec 18 - [Ask HN: Anyone tired of everything being a subscription now?](https://news.ycombinator.com/item?id=34041962)
+- Dec 18 - [Ubuntu Snap update spoiled my World Cup Final](https://www.circusscientist.com/2022/12/18/ubuntu-snap-update-spoiled-the-world-cup/)
+- Dec 18 - [Mostly-dead influential programming languages (2020)](https://www.hillelwayne.com/post/influential-dead-languages/)
+- Dec 18 - [Doing “No” Better](https://www.andycleff.com/2022/12/doing-no-better/)
 <!--END_SECTION:hn-->
 
 <!--
