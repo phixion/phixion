@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 18 - [Philosophy Bro](https://www.philosophybro.com)
-- Dec 18 - [Show HN: A highly opinionated, fully functional Obsidian vault](https://github.com/bramses/bramses-highly-opinionated-vault-2023)
-- Dec 18 - [These 299 macOS apps are so buggy, Apple had to fix them in AppKit (2018)](https://worthdoingbadly.com/appkitcompat/)
-- Dec 18 - [Live Captions: an application that provides live captions for the Linux desktop](https://github.com/abb128/LiveCaptions)
-- Dec 17 - [Does it inline?](https://bolinlang.com/does-it-inline)
+- Dec 18 - [Show HN: I made an Ethernet transceiver from logic gates](https://imihajlov.tk/blog/posts/eth-to-spi/)
+- Dec 18 - [Alabama women, 85 and 61, sentenced after feeding stray cats](https://www.theguardian.com/us-news/2022/dec/17/alabama-women-stray-cats-arrest-food-trap)
+- Dec 18 - [Don't Use StripE](https://news.ycombinator.com/item?id=34035581)
+- Dec 18 - [Programming with Unicon [pdf]](http://unicon.org/book/ub-nightly.pdf)
+- Dec 18 - [America’s social and political turmoil during the 1910s and 20s](https://quillette.com/2022/12/17/americas-forgotten-crisis/)
 <!--END_SECTION:hn-->
 
 <!--
