@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 17 - [The human cost of neurotechnology failure](https://www.nature.com/immersive/d41586-022-03810-5/index.html)
-- Dec 17 - [The record-breaking -108.00 diopter myopia lenses (2016)](https://www.pointsdevue.com/article/record-high-myopia-solved-alliance-experts-10800-d)
-- Dec 17 - [The Golden Age of Basic (2014)](https://spectrum.ieee.org/the-golden-age-of-basic)
-- Dec 17 - [Steve Jobs Insult Response](https://www.youtube.com/watch?v=oeqPrUmVz-o)
-- Dec 17 - [A self-updating list of the most current useragents](https://www.useragents.me)
+- Dec 18 - [Philosophy Bro](https://www.philosophybro.com)
+- Dec 18 - [Show HN: A highly opinionated, fully functional Obsidian vault](https://github.com/bramses/bramses-highly-opinionated-vault-2023)
+- Dec 18 - [These 299 macOS apps are so buggy, Apple had to fix them in AppKit (2018)](https://worthdoingbadly.com/appkitcompat/)
+- Dec 18 - [Live Captions: an application that provides live captions for the Linux desktop](https://github.com/abb128/LiveCaptions)
+- Dec 17 - [Does it inline?](https://bolinlang.com/does-it-inline)
 <!--END_SECTION:hn-->
 
 <!--
