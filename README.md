@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 19 - [Radio 101: Why AM stations reduce power at night](https://relevantradio.com/2020/01/radio-101-why-am-stations-reduce-power-at-night/)
-- Dec 19 - [Apple Music deletes your original songs and replaces them with DRM'd versions](https://old.reddit.com/r/YouShouldKnow/comments/zl8ko3/ysk_apple_music_deletes_your_original_songs_and/)
-- Dec 19 - [Was Rocket Lake Power Efficient?](https://chipsandcheese.com/2022/12/17/was-rocket-lake-power-efficient/)
-- Dec 19 - [Tell HN: Google Maps location data is used for GeoIP updates](https://news.ycombinator.com/item?id=34052786)
-- Dec 19 - [A few new things in Emacs 29](https://mbork.pl/2022-12-19_A_few_new_things_in_Emacs_29)
+- Dec 19 - [Ask HN: What is the cheapest, easiest way to host a cronjob in 2022?](https://news.ycombinator.com/item?id=34056812)
+- Dec 19 - [Twitter archiver: Make your own simple, public, searchable Twitter archive](https://github.com/dariusk/twitter-archiver)
+- Dec 19 - [Spotifyd](https://github.com/Spotifyd/spotifyd)
+- Dec 19 - [World record back at HZB: Tandem solar cell achieves 32.5 percent efficiency](https://www.helmholtz-berlin.de/pubbin/news_seite?nid=24348&sprache=en&seitenid=1)
+- Dec 19 - [Power company money flows to news sites that attack their critics](https://www.npr.org/2022/12/19/1143753129/power-companies-florida-alabama-media-investigation-consulting-firm)
 <!--END_SECTION:hn-->
 
 <!--
