@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 18 - [Paul Graham is leaving Twitter](https://twitter.com/paulg/status/1604556563338887168)
-- Dec 18 - [Ask HN: Anyone tired of everything being a subscription now?](https://news.ycombinator.com/item?id=34041962)
-- Dec 18 - [Ubuntu Snap update spoiled my World Cup Final](https://www.circusscientist.com/2022/12/18/ubuntu-snap-update-spoiled-the-world-cup/)
-- Dec 18 - [Mostly-dead influential programming languages (2020)](https://www.hillelwayne.com/post/influential-dead-languages/)
-- Dec 18 - [Doing “No” Better](https://www.andycleff.com/2022/12/doing-no-better/)
+- Dec 18 - [Riot Games says Sam Bankman-Fried’s love of League of Legends hurts the brand](https://www.theverge.com/2022/12/18/23515510/riot-games-sam-bankman-fried-league-of-legends-ftx-reputation)
+- Dec 18 - [Should I step down as head of Twitter? I will abide by the results of this poll](https://twitter.com/elonmusk/status/1604617643973124097)
+- Dec 18 - [Devpod: Remote Development at Uber](https://www.uber.com/blog/devpod-improving-developer-productivity-at-uber/)
+- Dec 18 - [Introducing The Flickr Foundation](https://thisweekinphoto.com/introducing-the-flickr-foundation/)
+- Dec 18 - [Twitter suspends pg's account [fixed]](https://twitter.com/paulg/)
 <!--END_SECTION:hn-->
 
 <!--
