@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 19 - [Enhance Speech from Adobe – Free AI filter for cleaning up spoken audio](https://podcast.adobe.com/enhance)
-- Dec 19 - [Steroids are rampant among fitness influencers, trainers and bodybuilders](https://www.insider.com/fitness-influencers-steroids-secret-dangerous-body-dysmorphia)
-- Dec 19 - [Ryujinx (Switch Emulator) Update](https://blog.ryujinx.org/progress-report-november-2022/)
-- Dec 19 - [A math problem generator](https://github.com/lukew3/mathgenerator)
-- Dec 19 - [Pollution cleanup method destroys toxic “forever chemicals”](https://news.ucr.edu/articles/2022/12/12/pollution-cleanup-method-destroys-toxic-forever-chemicals)
+- Dec 19 - [Anthropology in Ruins](https://www.mindingthecampus.org/2022/12/13/anthropology-in-ruins/)
+- Dec 19 - [How Many Computers Are in Your Computer? (2021)](https://www.gwern.net/Computers)
+- Dec 19 - [Ask HN: Can you recommend an “instant-switch” Monitor? Does one exist?](https://news.ycombinator.com/item?id=34048573)
+- Dec 19 - [Discrete Logic IC CPU](https://imihajlov.tk/blog/posts/ccpu/)
+- Dec 19 - [The risk of orbital debris and one cheap way to mitigate it](https://locationtbd.home.blog/2022/12/17/how-free-radar-data-can-save-billions-of-dollars/)
 <!--END_SECTION:hn-->
 
 <!--
