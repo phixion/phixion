@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 19 - [Converting my PhD thesis into HTML](https://desfontain.es/privacy/latex-to-html.html)
-- Dec 19 - [The golden age of streaming TV is over](https://www.businessinsider.com/why-streaming-tv-got-boring-netflix-hulu-hbo-max-cable-2022-12)
-- Dec 19 - [J one-page interpreter fragment (1992)](https://code.jsoftware.com/wiki/Essays/Incunabulum)
-- Dec 19 - [GCC 13 to support Modula-2: Follow-up to Pascal lives on in FOSS form](https://www.theregister.com/2022/12/16/gcc_13_will_support_modula2/)
-- Dec 19 - [Special Relativity and Middle-Earth](https://terrytao.wordpress.com/2022/12/18/special-relativity-and-middle-earth/)
+- Dec 19 - [Radio 101: Why AM stations reduce power at night](https://relevantradio.com/2020/01/radio-101-why-am-stations-reduce-power-at-night/)
+- Dec 19 - [Apple Music deletes your original songs and replaces them with DRM'd versions](https://old.reddit.com/r/YouShouldKnow/comments/zl8ko3/ysk_apple_music_deletes_your_original_songs_and/)
+- Dec 19 - [Was Rocket Lake Power Efficient?](https://chipsandcheese.com/2022/12/17/was-rocket-lake-power-efficient/)
+- Dec 19 - [Tell HN: Google Maps location data is used for GeoIP updates](https://news.ycombinator.com/item?id=34052786)
+- Dec 19 - [A few new things in Emacs 29](https://mbork.pl/2022-12-19_A_few_new_things_in_Emacs_29)
 <!--END_SECTION:hn-->
 
 <!--
