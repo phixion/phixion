@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 19 - [Anthropology in Ruins](https://www.mindingthecampus.org/2022/12/13/anthropology-in-ruins/)
-- Dec 19 - [How Many Computers Are in Your Computer? (2021)](https://www.gwern.net/Computers)
-- Dec 19 - [Ask HN: Can you recommend an “instant-switch” Monitor? Does one exist?](https://news.ycombinator.com/item?id=34048573)
-- Dec 19 - [Discrete Logic IC CPU](https://imihajlov.tk/blog/posts/ccpu/)
-- Dec 19 - [The risk of orbital debris and one cheap way to mitigate it](https://locationtbd.home.blog/2022/12/17/how-free-radar-data-can-save-billions-of-dollars/)
+- Dec 19 - [Converting my PhD thesis into HTML](https://desfontain.es/privacy/latex-to-html.html)
+- Dec 19 - [The golden age of streaming TV is over](https://www.businessinsider.com/why-streaming-tv-got-boring-netflix-hulu-hbo-max-cable-2022-12)
+- Dec 19 - [J one-page interpreter fragment (1992)](https://code.jsoftware.com/wiki/Essays/Incunabulum)
+- Dec 19 - [GCC 13 to support Modula-2: Follow-up to Pascal lives on in FOSS form](https://www.theregister.com/2022/12/16/gcc_13_will_support_modula2/)
+- Dec 19 - [Special Relativity and Middle-Earth](https://terrytao.wordpress.com/2022/12/18/special-relativity-and-middle-earth/)
 <!--END_SECTION:hn-->
 
 <!--
