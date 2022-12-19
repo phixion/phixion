@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 18 - [Riot Games says Sam Bankman-Fried’s love of League of Legends hurts the brand](https://www.theverge.com/2022/12/18/23515510/riot-games-sam-bankman-fried-league-of-legends-ftx-reputation)
-- Dec 18 - [Should I step down as head of Twitter? I will abide by the results of this poll](https://twitter.com/elonmusk/status/1604617643973124097)
-- Dec 18 - [Devpod: Remote Development at Uber](https://www.uber.com/blog/devpod-improving-developer-productivity-at-uber/)
-- Dec 18 - [Introducing The Flickr Foundation](https://thisweekinphoto.com/introducing-the-flickr-foundation/)
-- Dec 18 - [Twitter suspends pg's account [fixed]](https://twitter.com/paulg/)
+- Dec 19 - [Enhance Speech from Adobe – Free AI filter for cleaning up spoken audio](https://podcast.adobe.com/enhance)
+- Dec 19 - [Steroids are rampant among fitness influencers, trainers and bodybuilders](https://www.insider.com/fitness-influencers-steroids-secret-dangerous-body-dysmorphia)
+- Dec 19 - [Ryujinx (Switch Emulator) Update](https://blog.ryujinx.org/progress-report-november-2022/)
+- Dec 19 - [A math problem generator](https://github.com/lukew3/mathgenerator)
+- Dec 19 - [Pollution cleanup method destroys toxic “forever chemicals”](https://news.ucr.edu/articles/2022/12/12/pollution-cleanup-method-destroys-toxic-forever-chemicals)
 <!--END_SECTION:hn-->
 
 <!--
