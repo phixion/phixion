@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 19 - [Taking over subreddit with a small GPT-3 army turns out to be surprisingly easy](https://old.reddit.com/r/singularity/comments/wa9enf/it_took_me_1_day_to_create_a_program_using_gpt3/)
-- Dec 19 - [Implementing ‘Strlen’ Using SVE](https://lemire.me/blog/2022/12/19/implementing-strlen-using-sve/)
-- Dec 19 - [Zstandard – Fast real-time compression algorithm](https://github.com/facebook/zstd)
-- Dec 19 - [Astronomical Calculations for Hard SF in Common Lisp](https://borretti.me/article/astronomical-calculations-for-hard-sf-common-lisp)
-- Dec 19 - [Fast memcpy, A System Design](https://www.sigarch.org/fast-memcpy-a-system-design/)
+- Dec 20 - [Waydroid: A container-based approach to boot a full Android system on GNU/Linux](https://waydro.id/)
+- Dec 20 - [Laws of software estimation for complex work](https://mdalmijn.com/p/11-laws-of-software-estimation-for-complex-work)
+- Dec 20 - [Gary Gensler got cryptocurrency right](https://www.economicliberties.us/our-work/gary-gensler-got-it-right/)
+- Dec 20 - [Content Moderation Survivor Bias](https://cyber.fsi.stanford.edu/io/news/content-moderation-survivor-bias)
+- Dec 20 - [The Windows Subsystem for Android now runs Android 13 in beta](https://github.com/microsoft/WSA/discussions/167)
 <!--END_SECTION:hn-->
 
 <!--
