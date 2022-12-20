@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 20 - [12 Days of PostgreSQL Tools and Projects](https://www.timescale.com/blog/12-days-of-postgresql-tools-and-projects/)
-- Dec 20 - [NY Governor stalls right-to-repair bill; has until Dec 28 to avoid “pocket veto”](https://arstechnica.com/tech-policy/2022/12/right-to-repair-bill-passed-in-june-still-awaits-ny-governors-signature/)
-- Dec 20 - [Show HN: Create a Paid Link to Anything](https://paidlink.to)
-- Dec 20 - [Show HN: Obsidian Canvas – An infinite space for your ideas](https://obsidian.md/canvas)
-- Dec 20 - [An Overview Of Upcoming Ruby on Rails 7.1 Features Part 1](https://manny.codes/this-week-in-rails-wrapped-an-overview-of-rails-7-1-features-part-i/)
+- Dec 20 - [MariaDB plunges nearly 40% in NYSE debut after SPAC merger](https://www.bizjournals.com/sanjose/news/2022/12/19/mariadb-goes-public-in-spac-merger.html)
+- Dec 20 - [There oughta be a Game Boy capture cartridge](https://there.oughta.be/a/game-boy-capture-cartridge)
+- Dec 20 - [A collection of Soviet control rooms](http://blog.presentandcorrect.com/27986-2)
+- Dec 20 - [Skilled tech workers snapped up despite downturn](https://www.bbc.com/news/business-63871090)
+- Dec 20 - [Pre-defined C/C++ Compiler Macros](https://github.com/cpredef/predef)
 <!--END_SECTION:hn-->
 
 <!--
