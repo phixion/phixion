@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 20 - [Towards a More Open Secure Element Chip](https://www.bunniestudios.com/blog/?p=6606)
-- Dec 20 - [Boring Python: Code quality](https://www.b-list.org/weblog/2022/dec/19/boring-python-code-quality/)
-- Dec 20 - [“Laws” of software estimation for complex work (2021)](https://mdalmijn.com/p/11-laws-of-software-estimation-for-complex-work)
-- Dec 20 - [Ask HN: One of our Azure accounts was hacked – how to negotiate the bill?](https://news.ycombinator.com/item?id=34061174)
-- Dec 20 - [Valve is paying open source developers to keep Steam Deck playable](https://www.pcgamer.com/valve-is-paying-a-whole-lot-of-developers-to-keep-the-steam-decks-open-source-software-going/)
+- Dec 20 - [Extensional AI (YC W23) Is Hiring: Front End and ML](https://www.ycombinator.com/companies/extensional-ai/jobs/)
+- Dec 20 - [The APL Programming Language Source Code (2012)](https://computerhistory.org/blog/the-apl-programming-language-source-code/)
+- Dec 20 - [UK bank fined £49M over IT system meltdown](https://www.bbc.com/news/business-64036529)
+- Dec 20 - [Elon Musk’s $44B education on free speech](https://www.economist.com/leaders/2022/12/19/elon-musks-44bn-education-on-free-speech)
+- Dec 20 - [Veonid – Create a personal website for free](https://www.veonid.com/)
 <!--END_SECTION:hn-->
 
 <!--
