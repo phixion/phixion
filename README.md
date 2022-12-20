@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 20 - [Extensional AI (YC W23) Is Hiring: Front End and ML](https://www.ycombinator.com/companies/extensional-ai/jobs/)
-- Dec 20 - [The APL Programming Language Source Code (2012)](https://computerhistory.org/blog/the-apl-programming-language-source-code/)
-- Dec 20 - [UK bank fined £49M over IT system meltdown](https://www.bbc.com/news/business-64036529)
-- Dec 20 - [Elon Musk’s $44B education on free speech](https://www.economist.com/leaders/2022/12/19/elon-musks-44bn-education-on-free-speech)
-- Dec 20 - [Veonid – Create a personal website for free](https://www.veonid.com/)
+- Dec 20 - [12 Days of PostgreSQL Tools and Projects](https://www.timescale.com/blog/12-days-of-postgresql-tools-and-projects/)
+- Dec 20 - [NY Governor stalls right-to-repair bill; has until Dec 28 to avoid “pocket veto”](https://arstechnica.com/tech-policy/2022/12/right-to-repair-bill-passed-in-june-still-awaits-ny-governors-signature/)
+- Dec 20 - [Show HN: Create a Paid Link to Anything](https://paidlink.to)
+- Dec 20 - [Show HN: Obsidian Canvas – An infinite space for your ideas](https://obsidian.md/canvas)
+- Dec 20 - [An Overview Of Upcoming Ruby on Rails 7.1 Features Part 1](https://manny.codes/this-week-in-rails-wrapped-an-overview-of-rails-7-1-features-part-i/)
 <!--END_SECTION:hn-->
 
 <!--
