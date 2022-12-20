@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 19 - [Ask HN: What is the cheapest, easiest way to host a cronjob in 2022?](https://news.ycombinator.com/item?id=34056812)
-- Dec 19 - [Twitter archiver: Make your own simple, public, searchable Twitter archive](https://github.com/dariusk/twitter-archiver)
-- Dec 19 - [Spotifyd](https://github.com/Spotifyd/spotifyd)
-- Dec 19 - [World record back at HZB: Tandem solar cell achieves 32.5 percent efficiency](https://www.helmholtz-berlin.de/pubbin/news_seite?nid=24348&sprache=en&seitenid=1)
-- Dec 19 - [Power company money flows to news sites that attack their critics](https://www.npr.org/2022/12/19/1143753129/power-companies-florida-alabama-media-investigation-consulting-firm)
+- Dec 19 - [Taking over subreddit with a small GPT-3 army turns out to be surprisingly easy](https://old.reddit.com/r/singularity/comments/wa9enf/it_took_me_1_day_to_create_a_program_using_gpt3/)
+- Dec 19 - [Implementing ‘Strlen’ Using SVE](https://lemire.me/blog/2022/12/19/implementing-strlen-using-sve/)
+- Dec 19 - [Zstandard – Fast real-time compression algorithm](https://github.com/facebook/zstd)
+- Dec 19 - [Astronomical Calculations for Hard SF in Common Lisp](https://borretti.me/article/astronomical-calculations-for-hard-sf-common-lisp)
+- Dec 19 - [Fast memcpy, A System Design](https://www.sigarch.org/fast-memcpy-a-system-design/)
 <!--END_SECTION:hn-->
 
 <!--
