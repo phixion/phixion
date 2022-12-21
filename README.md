@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 21 - [A Non-Constructive Proof of the Four Colour Theorem](https://arxiv.org/abs/2212.09835)
-- Dec 21 - [Philadelphia Phreakers installing free payphone](https://www.nbcphiladelphia.com/news/tech/pay-phone-philadelphia/3452775/)
-- Dec 21 - [Repairing Your Car in Your Own Garage Is Considered Illegal in Sacramento, CA](https://www.thedrive.com/news/29205/repairing-your-car-in-your-own-garage-is-considered-illegal-in-sacramento-california)
-- Dec 21 - [I spent two years trying to do what Backstage does for free](https://stackoverflow.blog/2022/12/21/i-spent-two-years-trying-to-do-what-backstage-does-for-free/)
-- Dec 21 - [The Tangle of Science](https://global.oup.com/academic/product/the-tangle-of-science-9780198866343?cc=us&lang=en&#)
+- Dec 21 - [Options for Nonimmigrant Workers Following Termination of Employment](https://www.uscis.gov/newsroom/alerts/options-for-nonimmigrant-workers-following-termination-of-employment)
+- Dec 21 - [Ask HN: How to build F-You Skills](https://news.ycombinator.com/item?id=34084782)
+- Dec 21 - [Checked C](https://github.com/microsoft/checkedc)
+- Dec 21 - [Substack Outage](https://substack.com/)
+- Dec 21 - [Show HN: I store my critical secrets and document, and communicate privately](https://mprimi.github.io/portable-secret/)
 <!--END_SECTION:hn-->
 
 <!--
