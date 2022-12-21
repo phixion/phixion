@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 21 - [Being Glue: Tanya Reilly](https://noidea.dog/glue)
-- Dec 20 - [Devbox 0.2.0: Automatic Nix Installer, Plugins, and Background Services](https://www.jetpack.io/blog/devbox-0-2-0/)
-- Dec 20 - [Mozilla to Explore Healthy Social Media Alternative](https://blog.mozilla.org/en/mozilla/mozilla-launch-fediverse-instance-social-media-alternative/)
-- Dec 20 - [AI's Jurassic Park Moment](https://cacm.acm.org/blogs/blog-cacm/267674-ais-jurassic-park-moment/fulltext)
-- Dec 20 - [Signed distance functions in 46 lines of Python](https://vgel.me/posts/donut/)
+- Dec 21 - [The Cost of Being Poor: Why It Costs So Much to Be Poor in America](https://finmasters.com/cost-of-being-poor/)
+- Dec 21 - [Gut microbiome affects motivation to exercise in mice: study](https://singularityhub.com/2022/12/20/to-hack-your-motivation-to-exercise-you-may-just-need-to-tweak-your-gut-microbiome/)
+- Dec 21 - [The recent Bank of Japan meeting and its implications for markets](https://themacrocompass.substack.com/p/bank-of-japan-surprise)
+- Dec 21 - [Being Glue (2019)](https://noidea.dog/glue)
+- Dec 20 - [Devbox 0.2.0: Automatic Nix installer, plugins, and background services](https://www.jetpack.io/blog/devbox-0-2-0/)
 <!--END_SECTION:hn-->
 
 <!--
