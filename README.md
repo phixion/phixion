@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 21 - [I failed 3 job applications, here's what I learned](https://alexewerlof.substack.com/p/3-job-applications)
-- Dec 21 - [I trained ChatGPT on my childhood journal entries to talk to my inner child](https://www.businessinsider.com/i-trained-ai-chatbot-on-my-journals-inner-child-2022-12)
-- Dec 21 - [Convicted for solving a problem the government refused to address](https://tomknighton.substack.com/p/no-one-should-be-convicted-for-solving)
-- Dec 21 - [Older iPhones Bricked for Being Too Outdated – Locking Users from Their Data](https://www.youtube.com/watch?v=UxaCUugPoRY)
-- Dec 21 - [Wells Fargo Penalties Since 2000: $22,081,458,643](https://violationtracker.goodjobsfirst.org/?parent=wells-fargo&order=penalty&sort=desc)
+- Dec 21 - [A Non-Constructive Proof of the Four Colour Theorem](https://arxiv.org/abs/2212.09835)
+- Dec 21 - [Philadelphia Phreakers installing free payphone](https://www.nbcphiladelphia.com/news/tech/pay-phone-philadelphia/3452775/)
+- Dec 21 - [Repairing Your Car in Your Own Garage Is Considered Illegal in Sacramento, CA](https://www.thedrive.com/news/29205/repairing-your-car-in-your-own-garage-is-considered-illegal-in-sacramento-california)
+- Dec 21 - [I spent two years trying to do what Backstage does for free](https://stackoverflow.blog/2022/12/21/i-spent-two-years-trying-to-do-what-backstage-does-for-free/)
+- Dec 21 - [The Tangle of Science](https://global.oup.com/academic/product/the-tangle-of-science-9780198866343?cc=us&lang=en&#)
 <!--END_SECTION:hn-->
 
 <!--
