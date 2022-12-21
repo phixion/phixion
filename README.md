@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 21 - [The Cost of Being Poor: Why It Costs So Much to Be Poor in America](https://finmasters.com/cost-of-being-poor/)
-- Dec 21 - [Gut microbiome affects motivation to exercise in mice: study](https://singularityhub.com/2022/12/20/to-hack-your-motivation-to-exercise-you-may-just-need-to-tweak-your-gut-microbiome/)
-- Dec 21 - [The recent Bank of Japan meeting and its implications for markets](https://themacrocompass.substack.com/p/bank-of-japan-surprise)
-- Dec 21 - [Being Glue (2019)](https://noidea.dog/glue)
-- Dec 20 - [Devbox 0.2.0: Automatic Nix installer, plugins, and background services](https://www.jetpack.io/blog/devbox-0-2-0/)
+- Dec 21 - [Okta says its GitHub account hacked, source code stolen](https://www.bleepingcomputer.com/news/security/okta-says-its-github-account-hacked-source-code-stolen/)
+- Dec 21 - [A not so unfortunate sharp edge in Pipenv](https://0xda.de/blog/2022/12/a-not-so-unfortunate-sharp-edge-in-pipenv/)
+- Dec 21 - [Mastodon server maintenance: The Queues down in Queueville](https://community.hachyderm.io/blog/2022/12/20/the-queues-%EF%B8%8F-down-in-queueville/)
+- Dec 21 - [3M to end 'forever chemicals' output](https://www.reuters.com/business/3m-stop-making-forever-chemicals-take-up-23-bln-charge-2022-12-20/)
+- Dec 21 - [Number Stations and Enigma Stations](https://www.sigidwiki.com/wiki/Category:Numbers_Stations)
 <!--END_SECTION:hn-->
 
 <!--
