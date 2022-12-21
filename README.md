@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 20 - [MariaDB plunges nearly 40% in NYSE debut after SPAC merger](https://www.bizjournals.com/sanjose/news/2022/12/19/mariadb-goes-public-in-spac-merger.html)
-- Dec 20 - [There oughta be a Game Boy capture cartridge](https://there.oughta.be/a/game-boy-capture-cartridge)
-- Dec 20 - [A collection of Soviet control rooms](http://blog.presentandcorrect.com/27986-2)
-- Dec 20 - [Skilled tech workers snapped up despite downturn](https://www.bbc.com/news/business-63871090)
-- Dec 20 - [Pre-defined C/C++ Compiler Macros](https://github.com/cpredef/predef)
+- Dec 21 - [Being Glue: Tanya Reilly](https://noidea.dog/glue)
+- Dec 20 - [Devbox 0.2.0: Automatic Nix Installer, Plugins, and Background Services](https://www.jetpack.io/blog/devbox-0-2-0/)
+- Dec 20 - [Mozilla to Explore Healthy Social Media Alternative](https://blog.mozilla.org/en/mozilla/mozilla-launch-fediverse-instance-social-media-alternative/)
+- Dec 20 - [AI's Jurassic Park Moment](https://cacm.acm.org/blogs/blog-cacm/267674-ais-jurassic-park-moment/fulltext)
+- Dec 20 - [Signed distance functions in 46 lines of Python](https://vgel.me/posts/donut/)
 <!--END_SECTION:hn-->
 
 <!--
