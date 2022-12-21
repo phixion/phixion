@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 21 - [Okta says its GitHub account hacked, source code stolen](https://www.bleepingcomputer.com/news/security/okta-says-its-github-account-hacked-source-code-stolen/)
-- Dec 21 - [A not so unfortunate sharp edge in Pipenv](https://0xda.de/blog/2022/12/a-not-so-unfortunate-sharp-edge-in-pipenv/)
-- Dec 21 - [Mastodon server maintenance: The Queues down in Queueville](https://community.hachyderm.io/blog/2022/12/20/the-queues-%EF%B8%8F-down-in-queueville/)
-- Dec 21 - [3M to end 'forever chemicals' output](https://www.reuters.com/business/3m-stop-making-forever-chemicals-take-up-23-bln-charge-2022-12-20/)
-- Dec 21 - [Number Stations and Enigma Stations](https://www.sigidwiki.com/wiki/Category:Numbers_Stations)
+- Dec 21 - [I failed 3 job applications, here's what I learned](https://alexewerlof.substack.com/p/3-job-applications)
+- Dec 21 - [I trained ChatGPT on my childhood journal entries to talk to my inner child](https://www.businessinsider.com/i-trained-ai-chatbot-on-my-journals-inner-child-2022-12)
+- Dec 21 - [Convicted for solving a problem the government refused to address](https://tomknighton.substack.com/p/no-one-should-be-convicted-for-solving)
+- Dec 21 - [Older iPhones Bricked for Being Too Outdated – Locking Users from Their Data](https://www.youtube.com/watch?v=UxaCUugPoRY)
+- Dec 21 - [Wells Fargo Penalties Since 2000: $22,081,458,643](https://violationtracker.goodjobsfirst.org/?parent=wells-fargo&order=penalty&sort=desc)
 <!--END_SECTION:hn-->
 
 <!--
