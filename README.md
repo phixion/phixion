@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 22 - [Generating Audio with Literate Futhark](https://futhark-lang.org/blog/2022-12-22-literate-audio.html)
+- Dec 22 - [Welcome to Comprehensive Rust](https://google.github.io/comprehensive-rust/)
+- Dec 22 - [Xbrowsersync – open-source Bookmark Synching](https://www.xbrowsersync.org/)
 - Dec 22 - [The largest Viking Ship sailing in modern times](https://www.drakenhh.com/about-the-ship)
-- Dec 22 - [Pëtr Kropotkin and Mutual Aid](https://areomagazine.com/2022/01/12/the-ants-have-not-read-kant-petr-kropotkin-and-mutual-aid/)
-- Dec 22 - [How Apple names things](https://nicolas.kruchten.com/content/2022/12/apple_tm/)
-- Dec 22 - [Tattoos and clothing in sixteenth-century Roanoke](https://www.laphamsquarterly.org/roundtable/body-talk)
-- Dec 22 - [Caroline Ellison and Gary Wang are cooperating in the criminal case against SBF](https://www.nytimes.com/2022/12/21/technology/ftx-fraud-guilty-pleas.html)
+- Dec 22 - [John Ford and the Citizen Kane assumption (2012)](http://www.davidbordwell.net/blog/2012/03/06/john-ford-and-the-citizen-kane-assumption/)
 <!--END_SECTION:hn-->
 
 <!--
