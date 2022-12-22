@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 22 - [UnifiedPush: A decentralized, open-source push notification protocol](https://f-droid.org/2022/12/18/unifiedpush.html)
-- Dec 22 - [Grad student unions strike controversial deal with University of California](https://www.science.org/content/article/grad-student-unions-strike-controversial-deal-university-california)
-- Dec 22 - [A personal history of visual programming environments (2021)](https://nickarner.com/notes/a-personal-history-of-visual-programming-enviornments-november-13-2021/)
-- Dec 22 - [State of OpenID Connect Providers](https://blog.m5e.de/post/state-of-openid-connect-providers/)
-- Dec 22 - [Linux /proc/pid/stat parsing bugs](https://www.openwall.com/lists/oss-security/2022/12/21/6)
+- Dec 22 - [Common Lisp – Myths and Legends](http://www.lispworks.com/products/myths_and_legends.html)
+- Dec 22 - [SantaCoder: A new 1.1B code model for generation and infilling](https://huggingface.co/spaces/bigcode/santacoder-demo)
+- Dec 22 - [Milk and dairy products: good or bad for human health?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5122229/)
+- Dec 22 - [Bunny AI](https://bunny.net/blog/introducing-bunny-optimizer-ai-a-new-way-of-creating-content/)
+- Dec 22 - [Scaling Down Deep Learning](https://greydanus.github.io/2020/12/01/scaling-down/)
 <!--END_SECTION:hn-->
 
 <!--
