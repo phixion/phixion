@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 21 - [Options for Nonimmigrant Workers Following Termination of Employment](https://www.uscis.gov/newsroom/alerts/options-for-nonimmigrant-workers-following-termination-of-employment)
-- Dec 21 - [Ask HN: How to build F-You Skills](https://news.ycombinator.com/item?id=34084782)
-- Dec 21 - [Checked C](https://github.com/microsoft/checkedc)
-- Dec 21 - [Substack Outage](https://substack.com/)
-- Dec 21 - [Show HN: I store my critical secrets and document, and communicate privately](https://mprimi.github.io/portable-secret/)
+- Dec 21 - [All 1,400 Google Chrome CLI flags](https://peter.sh/experiments/chromium-command-line-switches/)
+- Dec 21 - [Global Chipmakers to Spend US$500B](https://semiwiki.com/forum/index.php?threads/global-chip-industry-to-invest-more-than-us-500b-in-new-plants-by-2024-says-semi.17225/)
+- Dec 21 - [Pixelmator Pro gets a magical, AI‑powered Deband feature](https://www.pixelmator.com/blog/2022/12/21/pixelmator-pro-gets-a-magical-ai-powered-deband-feature/)
+- Dec 21 - [Nim version 2.0.0 release candidate](https://nim-lang.org/blog/2022/12/21/version-20-rc.html)
+- Dec 21 - [Implementing a Toy Optimizer](https://www.pypy.org/posts/2022/07/toy-optimizer.html)
 <!--END_SECTION:hn-->
 
 <!--
