@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 22 - [Generating Audio with Literate Futhark](https://futhark-lang.org/blog/2022-12-22-literate-audio.html)
-- Dec 22 - [Welcome to Comprehensive Rust](https://google.github.io/comprehensive-rust/)
-- Dec 22 - [Xbrowsersync – open-source Bookmark Synching](https://www.xbrowsersync.org/)
-- Dec 22 - [The largest Viking Ship sailing in modern times](https://www.drakenhh.com/about-the-ship)
-- Dec 22 - [John Ford and the Citizen Kane assumption (2012)](http://www.davidbordwell.net/blog/2012/03/06/john-ford-and-the-citizen-kane-assumption/)
+- Dec 22 - [UnifiedPush: A decentralized, open-source push notification protocol](https://f-droid.org/2022/12/18/unifiedpush.html)
+- Dec 22 - [Grad student unions strike controversial deal with University of California](https://www.science.org/content/article/grad-student-unions-strike-controversial-deal-university-california)
+- Dec 22 - [A personal history of visual programming environments (2021)](https://nickarner.com/notes/a-personal-history-of-visual-programming-enviornments-november-13-2021/)
+- Dec 22 - [State of OpenID Connect Providers](https://blog.m5e.de/post/state-of-openid-connect-providers/)
+- Dec 22 - [Linux /proc/pid/stat parsing bugs](https://www.openwall.com/lists/oss-security/2022/12/21/6)
 <!--END_SECTION:hn-->
 
 <!--
