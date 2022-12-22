@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 22 - [The War on Merit Takes a Bizarre Turn](https://www.city-journal.org/war-on-merit-takes-bizarre-turn)
-- Dec 22 - [Two Executives in Sam Bankman-Fried’s Crypto Empire Plead Guilty to Fraud](https://www.nytimes.com/2022/12/21/technology/ftx-fraud-guilty-pleas.html)
-- Dec 22 - [The Pocket Guide to Debugging](https://jvns.ca/blog/2022/12/21/new-zine--the-pocket-guide-to-debugging/)
-- Dec 22 - [Avoid exception throwing in performance-sensitive code](https://lemire.me/blog/2022/05/13/avoid-exception-throwing-in-performance-sensitive-code/)
-- Dec 22 - [Enzymes That Could Make It Cheaper to Recycle Than Make Them from Petroleum](https://www.nrel.gov/news/features/2022/scientists-discover-enzymes-cheaper-to-recycle-waste-polyester-textiles-and-bottles-than-making-from-petroleum.html)
+- Dec 22 - [The largest Viking Ship sailing in modern times](https://www.drakenhh.com/about-the-ship)
+- Dec 22 - [Pëtr Kropotkin and Mutual Aid](https://areomagazine.com/2022/01/12/the-ants-have-not-read-kant-petr-kropotkin-and-mutual-aid/)
+- Dec 22 - [How Apple names things](https://nicolas.kruchten.com/content/2022/12/apple_tm/)
+- Dec 22 - [Tattoos and clothing in sixteenth-century Roanoke](https://www.laphamsquarterly.org/roundtable/body-talk)
+- Dec 22 - [Caroline Ellison and Gary Wang are cooperating in the criminal case against SBF](https://www.nytimes.com/2022/12/21/technology/ftx-fraud-guilty-pleas.html)
 <!--END_SECTION:hn-->
 
 <!--
