@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 21 - [All 1,400 Google Chrome CLI flags](https://peter.sh/experiments/chromium-command-line-switches/)
-- Dec 21 - [Global Chipmakers to Spend US$500B](https://semiwiki.com/forum/index.php?threads/global-chip-industry-to-invest-more-than-us-500b-in-new-plants-by-2024-says-semi.17225/)
-- Dec 21 - [Pixelmator Pro gets a magical, AI‑powered Deband feature](https://www.pixelmator.com/blog/2022/12/21/pixelmator-pro-gets-a-magical-ai-powered-deband-feature/)
-- Dec 21 - [Nim version 2.0.0 release candidate](https://nim-lang.org/blog/2022/12/21/version-20-rc.html)
-- Dec 21 - [Implementing a Toy Optimizer](https://www.pypy.org/posts/2022/07/toy-optimizer.html)
+- Dec 22 - [The War on Merit Takes a Bizarre Turn](https://www.city-journal.org/war-on-merit-takes-bizarre-turn)
+- Dec 22 - [Two Executives in Sam Bankman-Fried’s Crypto Empire Plead Guilty to Fraud](https://www.nytimes.com/2022/12/21/technology/ftx-fraud-guilty-pleas.html)
+- Dec 22 - [The Pocket Guide to Debugging](https://jvns.ca/blog/2022/12/21/new-zine--the-pocket-guide-to-debugging/)
+- Dec 22 - [Avoid exception throwing in performance-sensitive code](https://lemire.me/blog/2022/05/13/avoid-exception-throwing-in-performance-sensitive-code/)
+- Dec 22 - [Enzymes That Could Make It Cheaper to Recycle Than Make Them from Petroleum](https://www.nrel.gov/news/features/2022/scientists-discover-enzymes-cheaper-to-recycle-waste-polyester-textiles-and-bottles-than-making-from-petroleum.html)
 <!--END_SECTION:hn-->
 
 <!--
