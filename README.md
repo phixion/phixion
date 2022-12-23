@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 23 - [PicoCAD – A tiny modeller for tiny models](https://johanpeitz.itch.io/picocad)
-- Dec 23 - [Generally Intelligent (YC S17) Is Hiring Systems Engineers](https://news.ycombinator.com/item?id=34101086)
-- Dec 23 - [Hyperpaper Planner: fully interlinked dayplanner for e-ink tablets](https://hyperpaper.me)
-- Dec 22 - [NuttX RTOS for PinePhone: Display Engine](https://lupyuen.github.io/articles/de3)
-- Dec 22 - [Show HN: My bookmarks of HN and who I'm following](https://handlr.sapico.me/?domain=https%3A%2F%2Fnews.ycombinator.com)
+- Dec 23 - [WebAssembly for the Java Geek](https://www.javaadvent.com/2022/12/webassembly-for-the-java-geek.html)
+- Dec 23 - [A book teaching assembly language programming on the ARM 64 bit ISA](https://github.com/pkivolowitz/asm_book)
+- Dec 23 - [Nix on the Steam Deck](https://determinate.systems/posts/nix-on-the-steam-deck)
+- Dec 23 - [Tesla shares tank after U.S. discounts doubled on key models](https://www.reuters.com/business/autos-transportation/tesla-offers-discount-some-car-models-us-canada-2022-12-22/)
+- Dec 23 - [Can Doom Run It? An Adding Machine in Doom](https://blog.otterstack.com/posts/202212-doom-calculator/)
 <!--END_SECTION:hn-->
 
 <!--
