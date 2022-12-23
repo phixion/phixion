@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 23 - [Nuklear – A single-header ANSI C immediate mode cross-platform GUI library](https://github.com/Immediate-Mode-UI/Nuklear)
-- Dec 23 - [Are Progressives in Denial About Progress? Yes, but So Is Almost Everyone Else](https://www.dropbox.com/s/iuodjgbly7xd3an/2022%20Mitchell%20%20Tetlock%20in%20press%20Progress%20Denial.pdf?dl=0)
-- Dec 23 - [LastPass Security Breach Update: What You Need to Know](https://www.secureblink.com/cyber-security-news/last-pass-security-breach-update-what-you-need-to-know)
-- Dec 23 - [User Interface Design: Rules of Thumb](https://mannhowie.com/ui-design-web)
-- Dec 23 - [WLED Project](https://kno.wled.ge/)
+- Dec 23 - [RSS Readers That You Can Self Host](https://rohanrd.xyz/posts/rss-readers-that-you-can-self-host/)
+- Dec 23 - [I Found a Secret US Government Surveillance Program](https://docs.google.com/presentation/d/1sowJrQQfgxnLCErb-CvUV8VGXdtca6SWYWWLRPZgaHI/mobilepresent?slide=id.ga3a076b34_0_12)
+- Dec 23 - [Haiku R1/beta4 has been released](https://www.haiku-os.org/news/2022-12-23_haiku_r1_beta4/)
+- Dec 23 - [Meson 1.0 Build System](https://mesonbuild.com/Release-notes-for-1-0-0.html)
+- Dec 23 - [The Rise of User-Hostile Software [2021]](https://den.dev/blog/user-hostile-software/)
 <!--END_SECTION:hn-->
 
 <!--
