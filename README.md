@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 23 - [WebAssembly for the Java Geek](https://www.javaadvent.com/2022/12/webassembly-for-the-java-geek.html)
-- Dec 23 - [A book teaching assembly language programming on the ARM 64 bit ISA](https://github.com/pkivolowitz/asm_book)
-- Dec 23 - [Nix on the Steam Deck](https://determinate.systems/posts/nix-on-the-steam-deck)
-- Dec 23 - [Tesla shares tank after U.S. discounts doubled on key models](https://www.reuters.com/business/autos-transportation/tesla-offers-discount-some-car-models-us-canada-2022-12-22/)
-- Dec 23 - [Can Doom Run It? An Adding Machine in Doom](https://blog.otterstack.com/posts/202212-doom-calculator/)
+- Dec 23 - [Thanks Dang, Happy Holidays!](https://news.ycombinator.com/threads?id=dang#hn-moderator)
+- Dec 23 - [A simple guide on words to avoid in government](https://civilservice.blog.gov.uk/2022/08/16/a-simple-guide-on-words-to-avoid-in-government/)
+- Dec 23 - [Madison Square Garden Uses Facial Recognition to Ban Its Owner’s Enemies](https://www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.html)
+- Dec 23 - [TikTok admits tracking FT journalist in leaks investigation](https://www.ft.com/content/e873b98a-9623-45b3-b97c-444a2fde5874)
+- Dec 23 - [DOS demo/game development template](https://github.com/badlogic/dos-dev-template)
 <!--END_SECTION:hn-->
 
 <!--
