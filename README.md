@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 22 - [Common Lisp – Myths and Legends](http://www.lispworks.com/products/myths_and_legends.html)
-- Dec 22 - [SantaCoder: A new 1.1B code model for generation and infilling](https://huggingface.co/spaces/bigcode/santacoder-demo)
-- Dec 22 - [Milk and dairy products: good or bad for human health?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5122229/)
-- Dec 22 - [Bunny AI](https://bunny.net/blog/introducing-bunny-optimizer-ai-a-new-way-of-creating-content/)
-- Dec 22 - [Scaling Down Deep Learning](https://greydanus.github.io/2020/12/01/scaling-down/)
+- Dec 22 - [NuttX RTOS for PinePhone: Display Engine](https://lupyuen.github.io/articles/de3)
+- Dec 22 - [2022 Medley Interlisp Annual Report](https://interlisp.org/news/2022medleyannualreport/)
+- Dec 22 - [Show HN: My bookmarks of HN and who I'm following](https://handlr.sapico.me/?domain=https%3A%2F%2Fnews.ycombinator.com)
+- Dec 22 - [Serverless Video Transcription inspired by Cyberpunk 2077](https://github.com/elanmart/cbp-translate)
+- Dec 22 - [Show HN: Metriport – Open-source universal API for health data](https://github.com/metriport/metriport)
 <!--END_SECTION:hn-->
 
 <!--
