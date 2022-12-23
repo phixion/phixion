@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 23 - [PicoCAD – A tiny modeller for tiny models](https://johanpeitz.itch.io/picocad)
+- Dec 23 - [Generally Intelligent (YC S17) Is Hiring Systems Engineers](https://news.ycombinator.com/item?id=34101086)
+- Dec 23 - [Hyperpaper Planner: fully interlinked dayplanner for e-ink tablets](https://hyperpaper.me)
 - Dec 22 - [NuttX RTOS for PinePhone: Display Engine](https://lupyuen.github.io/articles/de3)
-- Dec 22 - [2022 Medley Interlisp Annual Report](https://interlisp.org/news/2022medleyannualreport/)
 - Dec 22 - [Show HN: My bookmarks of HN and who I'm following](https://handlr.sapico.me/?domain=https%3A%2F%2Fnews.ycombinator.com)
-- Dec 22 - [Serverless Video Transcription inspired by Cyberpunk 2077](https://github.com/elanmart/cbp-translate)
-- Dec 22 - [Show HN: Metriport – Open-source universal API for health data](https://github.com/metriport/metriport)
 <!--END_SECTION:hn-->
 
 <!--
