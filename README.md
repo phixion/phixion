@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 23 - [Thanks Dang, Happy Holidays!](https://news.ycombinator.com/threads?id=dang#hn-moderator)
-- Dec 23 - [A simple guide on words to avoid in government](https://civilservice.blog.gov.uk/2022/08/16/a-simple-guide-on-words-to-avoid-in-government/)
-- Dec 23 - [Madison Square Garden Uses Facial Recognition to Ban Its Owner’s Enemies](https://www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.html)
-- Dec 23 - [TikTok admits tracking FT journalist in leaks investigation](https://www.ft.com/content/e873b98a-9623-45b3-b97c-444a2fde5874)
-- Dec 23 - [DOS demo/game development template](https://github.com/badlogic/dos-dev-template)
+- Dec 23 - [Nuklear – A single-header ANSI C immediate mode cross-platform GUI library](https://github.com/Immediate-Mode-UI/Nuklear)
+- Dec 23 - [Are Progressives in Denial About Progress? Yes, but So Is Almost Everyone Else](https://www.dropbox.com/s/iuodjgbly7xd3an/2022%20Mitchell%20%20Tetlock%20in%20press%20Progress%20Denial.pdf?dl=0)
+- Dec 23 - [LastPass Security Breach Update: What You Need to Know](https://www.secureblink.com/cyber-security-news/last-pass-security-breach-update-what-you-need-to-know)
+- Dec 23 - [User Interface Design: Rules of Thumb](https://mannhowie.com/ui-design-web)
+- Dec 23 - [WLED Project](https://kno.wled.ge/)
 <!--END_SECTION:hn-->
 
 <!--
