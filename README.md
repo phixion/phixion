@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 24 - [How NYU’s Emergency Room Favors the Rich](https://www.nytimes.com/2022/12/22/health/nyu-langone-emergency-room-vip.html)
-- Dec 24 - [Rotary Keyboard](https://squidgeefish.com/projects/rotary-keyboard/)
-- Dec 24 - [Things to argue about over the holidays instead of politics](https://dynomight.net/arguments/)
-- Dec 24 - [Ask HN: Anyone free to meetup in Tokyo on Xmas?](https://news.ycombinator.com/item?id=34115488)
-- Dec 24 - [Ask HN: What to do with a coffee plantation with about 8000 trees?](https://news.ycombinator.com/item?id=34115447)
+- Dec 24 - [Cannabis is legal in most America but federal laws block businesses from banks](https://www.usatoday.com/story/opinion/2022/12/20/cannabis-banking-helps-marijuana-businesses-grow/10896278002/)
+- Dec 24 - [Ask HN: Do You Host Your Own Email?](https://news.ycombinator.com/item?id=34117386)
+- Dec 24 - [Developer successfully emulates first version of iPhone OS on computer with QEMU](https://9to5mac.com/2022/12/23/developer-emulates-iphone-os-qemu/)
+- Dec 24 - [Philip Pullman: ‘I had to grow up before I could cope with Middlemarch’](https://www.theguardian.com/books/2022/dec/23/philip-pullman-i-had-to-grow-up-before-i-could-cope-with-middlemarch)
+- Dec 24 - [California passes law banning Tesla from calling software FSD](https://www.teslarati.com/califonia-banning-tesla-fsd/)
 <!--END_SECTION:hn-->
 
 <!--
