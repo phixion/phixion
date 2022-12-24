@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 23 - [RSS Readers That You Can Self Host](https://rohanrd.xyz/posts/rss-readers-that-you-can-self-host/)
-- Dec 23 - [I Found a Secret US Government Surveillance Program](https://docs.google.com/presentation/d/1sowJrQQfgxnLCErb-CvUV8VGXdtca6SWYWWLRPZgaHI/mobilepresent?slide=id.ga3a076b34_0_12)
-- Dec 23 - [Haiku R1/beta4 has been released](https://www.haiku-os.org/news/2022-12-23_haiku_r1_beta4/)
-- Dec 23 - [Meson 1.0 Build System](https://mesonbuild.com/Release-notes-for-1-0-0.html)
-- Dec 23 - [The Rise of User-Hostile Software [2021]](https://den.dev/blog/user-hostile-software/)
+- Dec 23 - [Managing tape drives and libraries with the Unix/Linux CLI](http://blogs.intellique.com/cgi-bin/tech/2022/01/27)
+- Dec 23 - [Dating of a large tool assemblage at the Cooper’s Ferry site (Idaho, USA)](https://www.science.org/doi/10.1126/sciadv.ade1248)
+- Dec 23 - [Caroline Ellison, CEO of Alameda Research, pleads guilty to seven offences](https://www.theguardian.com/business/2022/dec/23/chief-executive-of-ftx-sister-company-pleads-guilty-to-seven-offences)
+- Dec 23 - [A new chat feature has been released by You Search](https://you.com/search?q=what+was+the+recent+breakthrough+in+fusion+research%3F&fromSearchBar=true&tbm=youchat)
+- Dec 23 - [Show HN: Search HN Favorites or Export to CSV/HTML](https://github.com/gabrielsroka/gabrielsroka.github.io/blob/master/getHNFavorites.js)
 <!--END_SECTION:hn-->
 
 <!--
