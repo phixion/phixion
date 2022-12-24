@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 24 - [Cannabis is legal in most America but federal laws block businesses from banks](https://www.usatoday.com/story/opinion/2022/12/20/cannabis-banking-helps-marijuana-businesses-grow/10896278002/)
-- Dec 24 - [Ask HN: Do You Host Your Own Email?](https://news.ycombinator.com/item?id=34117386)
-- Dec 24 - [Developer successfully emulates first version of iPhone OS on computer with QEMU](https://9to5mac.com/2022/12/23/developer-emulates-iphone-os-qemu/)
-- Dec 24 - [Philip Pullman: ‘I had to grow up before I could cope with Middlemarch’](https://www.theguardian.com/books/2022/dec/23/philip-pullman-i-had-to-grow-up-before-i-could-cope-with-middlemarch)
-- Dec 24 - [California passes law banning Tesla from calling software FSD](https://www.teslarati.com/califonia-banning-tesla-fsd/)
+- Dec 24 - [Maxi Jazz has died](https://djmag.com/news/faithless-singer-maxi-jazz-dies-aged-65)
+- Dec 24 - [Win16 Retro Development](https://www.os2museum.com/wp/win16-retro-development/)
+- Dec 24 - [Evolution of the Ethereum Proof-of-Stake Consensus Protocol](https://github.com/ethereum/pos-evolution/blob/master/pos-evolution.md)
+- Dec 24 - [A Museum Tried to Hide This 3D Scan of an Iconic Egyptian Artifact. (2019)](https://reason.com/2019/11/13/a-german-museum-tried-to-hide-this-stunning-3d-scan-of-an-iconic-egyptian-artifact-today-you-can-see-it-for-the-first-time/)
+- Dec 24 - [Second Life on GitHub](https://community.secondlife.com/blogs/entry/12081-second-life-on-github/)
 <!--END_SECTION:hn-->
 
 <!--
