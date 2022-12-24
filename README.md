@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 24 - [Eastern US power grid orders cuts, issues system wide emergency](https://www.bloomberg.com/news/articles/2022-12-24/eastern-us-power-grid-orders-cuts-issues-system-wide-emergency)
+- Dec 24 - [Turn Your Best Programmers into Managers](https://levelup-edu.com/turn-your-best-programmers-into-managers/)
+- Dec 24 - [An unexpected ass kicking (2012)](https://impossiblehq.com/an-unexpected-ass-kicking/)
 - Dec 24 - [How Did Sam Bankman-Fried Get Bail?](https://www.serioustrouble.show/p/how-did-sam-bankman-fried-get-bail)
 - Dec 24 - [TikTok banned on government devices under spending bill passed by Congress](https://www.cnbc.com/2022/12/23/congress-passes-spending-bill-with-tiktok-ban-on-government-devices.html)
-- Dec 23 - [How we slowed the subway down](https://homesignalblog.wordpress.com/2022/12/21/how-we-slowed-the-subway-down/)
-- Dec 23 - [The situation at LastPass may be worse than they are letting on](https://twitter.com/cryptopathic/status/1606416137771782151)
-- Dec 23 - [Managing tape drives and libraries with the Unix/Linux CLI](http://blogs.intellique.com/cgi-bin/tech/2022/01/27)
 <!--END_SECTION:hn-->
 
 <!--
