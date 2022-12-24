@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 24 - [Eastern US power grid orders cuts, issues system wide emergency](https://www.bloomberg.com/news/articles/2022-12-24/eastern-us-power-grid-orders-cuts-issues-system-wide-emergency)
-- Dec 24 - [Turn Your Best Programmers into Managers](https://levelup-edu.com/turn-your-best-programmers-into-managers/)
-- Dec 24 - [An unexpected ass kicking (2012)](https://impossiblehq.com/an-unexpected-ass-kicking/)
-- Dec 24 - [How Did Sam Bankman-Fried Get Bail?](https://www.serioustrouble.show/p/how-did-sam-bankman-fried-get-bail)
-- Dec 24 - [TikTok banned on government devices under spending bill passed by Congress](https://www.cnbc.com/2022/12/23/congress-passes-spending-bill-with-tiktok-ban-on-government-devices.html)
+- Dec 24 - [How NYU’s Emergency Room Favors the Rich](https://www.nytimes.com/2022/12/22/health/nyu-langone-emergency-room-vip.html)
+- Dec 24 - [Rotary Keyboard](https://squidgeefish.com/projects/rotary-keyboard/)
+- Dec 24 - [Things to argue about over the holidays instead of politics](https://dynomight.net/arguments/)
+- Dec 24 - [Ask HN: Anyone free to meetup in Tokyo on Xmas?](https://news.ycombinator.com/item?id=34115488)
+- Dec 24 - [Ask HN: What to do with a coffee plantation with about 8000 trees?](https://news.ycombinator.com/item?id=34115447)
 <!--END_SECTION:hn-->
 
 <!--
