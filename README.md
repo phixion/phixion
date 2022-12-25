@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 24 - [Idaho professor sues TikToker over allegations in the killing of 4 students](https://www.nbcnews.com/news/us-news/idaho-professor-sues-tiktoker-allegations-killing-4-university-student-rcna63149)
-- Dec 24 - [How to Write Unmantainable Code](https://github.com/Droogans/unmaintainable-code)
-- Dec 24 - [Lastpass setting the delete account div to display: none](https://infosec.exchange/@chiesennegs/109570145849933257)
-- Dec 24 - [What ChatGPT Can't Do](https://auerstack.substack.com/p/what-chatgpt-cant-do)
-- Dec 24 - [PostScript Cartridge for HP LaserJet](https://www.pagetable.com/?p=1721)
+- Dec 25 - [Taxpayers paying billions for the renovations and construction of NFL stadiums](https://www.cnbc.com/2022/12/22/taxpayers-are-paying-billions-for-nfl-stadiums-heres-how.html)
+- Dec 25 - [“Nobody cares about your blog”](https://mssprovenance.blogspot.com/2022/12/nobody-cares-about-your-blog.html)
+- Dec 25 - [Official Norad Tracks Santa](https://www.noradsanta.org/en/index.html)
+- Dec 25 - [What does Overture Map mean for the future of OpenStreetMap](https://blog.andygol.co.ua/en/2022/12/24/creating-overture-map-and-future-of-osm/)
+- Dec 25 - [Ask HN: Who else is working/on call over Christmas?](https://news.ycombinator.com/item?id=34122578)
 <!--END_SECTION:hn-->
 
 <!--
