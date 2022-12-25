@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 25 - [Caroline Ellison’s MIT prof dad’s most cited work is on the prisoner’s dilemma](https://twitter.com/genevievemp/status/1606400499317673984)
-- Dec 25 - [Ask HN: How to Get Better at Writing?](https://news.ycombinator.com/item?id=34127742)
-- Dec 25 - [Kickstarter shuts down campaign for Unstable Diffusion amid changing guidelines](https://techcrunch.com/2022/12/21/kickstarter-shut-down-the-campaign-for-ai-porn-group-unstable-diffusion-amid-changing-guidelines/)
-- Dec 25 - [Blank page with an embedded tweet. How bad can it be?](https://twitter.com/mhevery/status/1606438382561026049)
-- Dec 25 - [DuckDuckGo now blocks Google sign-in pop-ups on all sites](https://www.bleepingcomputer.com/news/security/duckduckgo-now-blocks-google-sign-in-pop-ups-on-all-sites/)
+- Dec 25 - [Warming up your car before driving in cold weather can damage the engine (2016)](https://www.businessinsider.com/heres-what-idling-your-car-in-the-morning-is-doing-to-your-engine-and-its-not-good-2016-1)
+- Dec 25 - [The FBI was the primary link between the intelligence community and Twitter](https://threadreaderapp.com/thread/1606701397109796866.html)
+- Dec 25 - [ChatGPT: An attempt to build URL into cross-platform Desktop APP using Tauri](https://github.com/lencx/ChatGPT)
+- Dec 25 - [Non-replaceable battery? Not if this proposed EU law passes](https://hackaday.com/2022/12/24/non-replaceable-battery-not-if-this-proposed-eu-law-passes/)
+- Dec 25 - [The return of lazy imports for Python](https://lwn.net/Articles/917280/)
 <!--END_SECTION:hn-->
 
 <!--
