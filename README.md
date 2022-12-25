@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 25 - [A Christmas Tautology (2020)](https://nickdrozd.github.io/2020/12/12/christmas-tautology.html)
-- Dec 25 - [Literature Clock](https://literature-clock.jenevoldsen.com/)
-- Dec 25 - [Life Is Short (2016)](http://paulgraham.com/vb.html)
-- Dec 25 - [How much I’ve spent so far running my own Mastodon server on AWS](https://www.micahwalter.com/how-much-ive-spent-so-far-running-my-own-mastodon-server-on-aws/)
-- Dec 25 - [Introduction to Homotopy Type Theory](https://arxiv.org/abs/2212.11082)
+- Dec 25 - [Emulating an iPod Touch 1G and iPhoneOS 1.0 using QEMU (Part II)](https://devos50.github.io/blog/2022/ipod-touch-qemu-pt2/)
+- Dec 25 - [Non-ECC Memory Corrupted My Hard Drive Image – Why ECC Memory Is So Important](https://www.youtube.com/watch?v=0itrM7t4l34)
+- Dec 25 - [Reverse engineering yet another eBook format](https://mijailovic.net/2022/12/25/hkpropel/)
+- Dec 25 - [Twitter API hacked, user database being sold online](https://breached.vc/Thread-Selling-Twitter-Data-Breach-400-million-users)
+- Dec 25 - [I worked at LastPass as an engineer. My 2 cents on the situation](https://twitter.com/ejcx_/status/1606428769731878913)
 <!--END_SECTION:hn-->
 
 <!--
