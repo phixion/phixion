@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 24 - [Maxi Jazz has died](https://djmag.com/news/faithless-singer-maxi-jazz-dies-aged-65)
-- Dec 24 - [Win16 Retro Development](https://www.os2museum.com/wp/win16-retro-development/)
-- Dec 24 - [Evolution of the Ethereum Proof-of-Stake Consensus Protocol](https://github.com/ethereum/pos-evolution/blob/master/pos-evolution.md)
-- Dec 24 - [A Museum Tried to Hide This 3D Scan of an Iconic Egyptian Artifact. (2019)](https://reason.com/2019/11/13/a-german-museum-tried-to-hide-this-stunning-3d-scan-of-an-iconic-egyptian-artifact-today-you-can-see-it-for-the-first-time/)
-- Dec 24 - [Second Life on GitHub](https://community.secondlife.com/blogs/entry/12081-second-life-on-github/)
+- Dec 24 - [Idaho professor sues TikToker over allegations in the killing of 4 students](https://www.nbcnews.com/news/us-news/idaho-professor-sues-tiktoker-allegations-killing-4-university-student-rcna63149)
+- Dec 24 - [How to Write Unmantainable Code](https://github.com/Droogans/unmaintainable-code)
+- Dec 24 - [Lastpass setting the delete account div to display: none](https://infosec.exchange/@chiesennegs/109570145849933257)
+- Dec 24 - [What ChatGPT Can't Do](https://auerstack.substack.com/p/what-chatgpt-cant-do)
+- Dec 24 - [PostScript Cartridge for HP LaserJet](https://www.pagetable.com/?p=1721)
 <!--END_SECTION:hn-->
 
 <!--
