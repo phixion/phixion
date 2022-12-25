@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 25 - [Taxpayers paying billions for the renovations and construction of NFL stadiums](https://www.cnbc.com/2022/12/22/taxpayers-are-paying-billions-for-nfl-stadiums-heres-how.html)
-- Dec 25 - [“Nobody cares about your blog”](https://mssprovenance.blogspot.com/2022/12/nobody-cares-about-your-blog.html)
-- Dec 25 - [Official Norad Tracks Santa](https://www.noradsanta.org/en/index.html)
-- Dec 25 - [What does Overture Map mean for the future of OpenStreetMap](https://blog.andygol.co.ua/en/2022/12/24/creating-overture-map-and-future-of-osm/)
-- Dec 25 - [Ask HN: Who else is working/on call over Christmas?](https://news.ycombinator.com/item?id=34122578)
+- Dec 25 - [A Christmas Tautology (2020)](https://nickdrozd.github.io/2020/12/12/christmas-tautology.html)
+- Dec 25 - [Literature Clock](https://literature-clock.jenevoldsen.com/)
+- Dec 25 - [Life Is Short (2016)](http://paulgraham.com/vb.html)
+- Dec 25 - [How much I’ve spent so far running my own Mastodon server on AWS](https://www.micahwalter.com/how-much-ive-spent-so-far-running-my-own-mastodon-server-on-aws/)
+- Dec 25 - [Introduction to Homotopy Type Theory](https://arxiv.org/abs/2212.11082)
 <!--END_SECTION:hn-->
 
 <!--
