@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 26 - [Windows 95 went the extra mile to ensure compatibility of SimCity, other games](https://arstechnica.com/gadgets/2022/10/windows-95-went-the-extra-mile-to-ensure-compatibility-of-simcity-other-games/)
-- Dec 26 - [Study finds AI assistants help developers produce code likely to be buggy](https://www.theregister.com/2022/12/21/ai_assistants_bad_code/)
-- Dec 26 - [Thousands trapped on Pine Ridge burn clothes for warmth in wake of storm](https://www.argusleader.com/story/news/nation/2022/12/23/thousands-trapped-on-pine-ridge-burn-clothes-for-warmth-in-wake-of-storm/69752694007/)
-- Dec 26 - [The FCC can finally hammer predatory prison phone call companies](https://techcrunch.com/2022/12/22/the-fcc-can-finally-hammer-predatory-prison-phonecall-companies-thanks-to-just-passed-bill/)
-- Dec 26 - [Soaring fertilizer prices could see millions more undernourished](https://phys.org/news/2022-12-soaring-fertilizer-prices-millions-undernourished.html)
+- Dec 26 - [Meta employee buys 12-year lease on cruise ship to see the world while working](https://www.moneycontrol.com/news/trends/meta-employee-buys-12-year-lease-on-cruise-ship-to-see-the-world-while-working-remotely-9759371.html)
+- Dec 26 - [Facebook increased satisfaction and usage by sending fewer notifications](https://medium.com/@AnalyticsAtMeta/notifications-why-less-is-more-how-facebook-has-been-increasing-both-user-satisfaction-and-app-9463f7325e7d)
+- Dec 26 - [Why I'm Glad I Lack Passion to Be a Programmer](https://blog.miris.design/not-a-programmer)
+- Dec 26 - [Dioxus: User interfaces that run anywhere](https://dioxuslabs.com/)
+- Dec 26 - [PelotonCal](https://pelotoncal.com/)
 <!--END_SECTION:hn-->
 
 <!--
