@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 26 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- Dec 26 - [Rogue antibody and mystery pathogen behind AstraZeneca blood clots: study](https://www.smh.com.au/national/rogue-antibody-and-mystery-pathogen-behind-astrazeneca-blood-clots-study-20221223-p5c8gl.html)
-- Dec 26 - [Customer service reps for Disney and Airbnb who have to pay to take calls (2020)](https://www.propublica.org/article/meet-the-customer-service-reps-for-disney-and-airbnb-who-have-to-pay-to-talk-to-you)
-- Dec 26 - [The 5GHz “Problem” for Wi-Fi Networks: DFS (2018)](http://wifinigel.blogspot.com/2018/05/the-5ghz-problem-for-wi-fi-networks-dfs.html)
-- Dec 26 - [Long story short: I wrote a Ruby extension in Zig](https://katafrakt.me/2022/12/25/ruby-extension-zig/)
+- Dec 26 - [Windows 95 went the extra mile to ensure compatibility of SimCity, other games](https://arstechnica.com/gadgets/2022/10/windows-95-went-the-extra-mile-to-ensure-compatibility-of-simcity-other-games/)
+- Dec 26 - [Study finds AI assistants help developers produce code likely to be buggy](https://www.theregister.com/2022/12/21/ai_assistants_bad_code/)
+- Dec 26 - [Thousands trapped on Pine Ridge burn clothes for warmth in wake of storm](https://www.argusleader.com/story/news/nation/2022/12/23/thousands-trapped-on-pine-ridge-burn-clothes-for-warmth-in-wake-of-storm/69752694007/)
+- Dec 26 - [The FCC can finally hammer predatory prison phone call companies](https://techcrunch.com/2022/12/22/the-fcc-can-finally-hammer-predatory-prison-phonecall-companies-thanks-to-just-passed-bill/)
+- Dec 26 - [Soaring fertilizer prices could see millions more undernourished](https://phys.org/news/2022-12-soaring-fertilizer-prices-millions-undernourished.html)
 <!--END_SECTION:hn-->
 
 <!--
