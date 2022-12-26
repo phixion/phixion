@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 25 - [Source Code for Populous for Windows CE / Dreamcast Released](https://github.com/LemonHaze420/DCPopulous)
-- Dec 25 - [Australia Goes All-In on Green Hydrogen](https://spectrum.ieee.org/green-hydrogen)
-- Dec 25 - [The Home Computer Christmas Wars](https://paleotronic.com/2019/12/01/the-home-computer-christmas-wars/)
-- Dec 25 - [MIT Faculty Votes for Statement on Freedom of Expression and Academic Freedom](https://twitter.com/thefireorg/status/1606010943309336576)
-- Dec 25 - [The antimicrobial resistance crisis needs action now](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001918)
+- Dec 26 - [NixOS on M1](https://github.com/tpwrules/nixos-m1)
+- Dec 26 - [Japan to begin extracting rare earth metals from seabed in 2024](https://archive.vn/cmEkC)
+- Dec 26 - [Google’s water use is soaring, consume more than 25% of water used in The Dalles](https://www.oregonlive.com/silicon-forest/2022/12/googles-water-use-is-soaring-in-the-dalles-records-show-with-two-more-data-centers-to-come.html)
+- Dec 26 - [The Canon Cat: the little computer that could have changed the world](https://adventofcomputing.libsyn.com/episode-98-the-canon-cat?tdest_id=1264190)
+- Dec 25 - [Holography without Lasers: Hand-drawn Holograms (1999)](http://amasci.com/amateur/holo1.html)
 <!--END_SECTION:hn-->
 
 <!--
