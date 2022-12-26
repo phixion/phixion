@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 25 - [Warming up your car before driving in cold weather can damage the engine (2016)](https://www.businessinsider.com/heres-what-idling-your-car-in-the-morning-is-doing-to-your-engine-and-its-not-good-2016-1)
-- Dec 25 - [The FBI was the primary link between the intelligence community and Twitter](https://threadreaderapp.com/thread/1606701397109796866.html)
-- Dec 25 - [ChatGPT: An attempt to build URL into cross-platform Desktop APP using Tauri](https://github.com/lencx/ChatGPT)
-- Dec 25 - [Non-replaceable battery? Not if this proposed EU law passes](https://hackaday.com/2022/12/24/non-replaceable-battery-not-if-this-proposed-eu-law-passes/)
-- Dec 25 - [The return of lazy imports for Python](https://lwn.net/Articles/917280/)
+- Dec 25 - [Source Code for Populous for Windows CE / Dreamcast Released](https://github.com/LemonHaze420/DCPopulous)
+- Dec 25 - [Australia Goes All-In on Green Hydrogen](https://spectrum.ieee.org/green-hydrogen)
+- Dec 25 - [The Home Computer Christmas Wars](https://paleotronic.com/2019/12/01/the-home-computer-christmas-wars/)
+- Dec 25 - [MIT Faculty Votes for Statement on Freedom of Expression and Academic Freedom](https://twitter.com/thefireorg/status/1606010943309336576)
+- Dec 25 - [The antimicrobial resistance crisis needs action now](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001918)
 <!--END_SECTION:hn-->
 
 <!--
