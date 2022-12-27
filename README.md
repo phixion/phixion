@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 27 - [Clipboard: Cut, copy, and paste anything, anywhere, all from the terminal](https://github.com/Slackadays/Clipboard)
+- Dec 26 - [How many QMS advertising panels in Sydney are near a Telstra public telephone?](https://observablehq.com/@mjbo/sydney-qms-panel-public-telephone-pairings)
+- Dec 26 - [Running Windows 7 on a 5 MHz CPU with 128MB of RAM](https://www.tomshardware.com/news/windows-7-runs-at-5-mhz)
 - Dec 26 - [Rigs of Rods: free and open source vehicle simulator that uses soft-body physics](https://www.rigsofrods.org/)
-- Dec 26 - [Binary Posters](https://github.com/corkami/pics/blob/master/binary/README.md)
-- Dec 26 - [Are You Really Losing Weight?](https://jasmcole.com/2022/02/10/losing-it/)
-- Dec 26 - [A Visual Guide to React's useEffect](https://alexsidorenko.com/blog/useeffect/)
-- Dec 26 - [The Tipping Point: How France Changed the Tides of the American Revolution](https://www.battlefields.org/learn/articles/how-france-helped-win-american-revolution)
+- Dec 26 - [Creepy Website Similarity](https://memex.marginalia.nu/log/69-creepy-website-similarity.gmi)
 <!--END_SECTION:hn-->
 
 <!--
