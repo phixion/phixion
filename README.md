@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 27 - [I'm Done with Google](https://deijin.bearblog.dev/im-done-with-google/)
-- Dec 27 - [Experimental Rust Feature: Safer Interoperable ABI](https://github.com/rust-lang/rust/pull/105586)
-- Dec 27 - [Detecting the use of “curl | bash” server side (2016)](https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/)
-- Dec 27 - [Women like working with people, men like working with things, all over the world](https://www.psypost.org/2022/12/women-like-working-with-people-men-like-working-with-things-all-across-the-world-64485)
-- Dec 27 - [Extending Python with Rust](https://maxwellrules.com/programming/rusty-python.html)
+- Dec 27 - [Jerry (YC S17) Is Hiring Tech Leader / EM 中国远程 热爱技术](https://v2ex.com/t/904724#reply0)
+- Dec 27 - [Show HN: Dog API](https://dogapi.dog)
+- Dec 27 - [A no-code tool that generates code](https://www.compoze.org/)
+- Dec 27 - [Ask HN: Upskilling as a Data Engineer](https://news.ycombinator.com/item?id=34147090)
+- Dec 27 - [Data of 30M Indian Railways users is up for sale on a dark forum](https://techlomedia.in/2022/12/data-of-30-million-indian-railways-users-is-up-for-sale-on-a-dark-forum-96589/)
 <!--END_SECTION:hn-->
 
 <!--
