@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 27 - [Clipboard: Cut, copy, and paste anything, anywhere, all from the terminal](https://github.com/Slackadays/Clipboard)
-- Dec 26 - [How many QMS advertising panels in Sydney are near a Telstra public telephone?](https://observablehq.com/@mjbo/sydney-qms-panel-public-telephone-pairings)
-- Dec 26 - [Running Windows 7 on a 5 MHz CPU with 128MB of RAM](https://www.tomshardware.com/news/windows-7-runs-at-5-mhz)
-- Dec 26 - [Rigs of Rods: free and open source vehicle simulator that uses soft-body physics](https://www.rigsofrods.org/)
-- Dec 26 - [Creepy Website Similarity](https://memex.marginalia.nu/log/69-creepy-website-similarity.gmi)
+- Dec 27 - [I'm Done with Google](https://deijin.bearblog.dev/im-done-with-google/)
+- Dec 27 - [Experimental Rust Feature: Safer Interoperable ABI](https://github.com/rust-lang/rust/pull/105586)
+- Dec 27 - [Detecting the use of “curl | bash” server side (2016)](https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/)
+- Dec 27 - [Women like working with people, men like working with things, all over the world](https://www.psypost.org/2022/12/women-like-working-with-people-men-like-working-with-things-all-across-the-world-64485)
+- Dec 27 - [Extending Python with Rust](https://maxwellrules.com/programming/rusty-python.html)
 <!--END_SECTION:hn-->
 
 <!--
