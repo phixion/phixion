@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 26 - [Meta employee buys 12-year lease on cruise ship to see the world while working](https://www.moneycontrol.com/news/trends/meta-employee-buys-12-year-lease-on-cruise-ship-to-see-the-world-while-working-remotely-9759371.html)
-- Dec 26 - [Facebook increased satisfaction and usage by sending fewer notifications](https://medium.com/@AnalyticsAtMeta/notifications-why-less-is-more-how-facebook-has-been-increasing-both-user-satisfaction-and-app-9463f7325e7d)
-- Dec 26 - [Why I'm Glad I Lack Passion to Be a Programmer](https://blog.miris.design/not-a-programmer)
-- Dec 26 - [Dioxus: User interfaces that run anywhere](https://dioxuslabs.com/)
-- Dec 26 - [PelotonCal](https://pelotoncal.com/)
+- Dec 26 - [Rigs of Rods: free and open source vehicle simulator that uses soft-body physics](https://www.rigsofrods.org/)
+- Dec 26 - [Binary Posters](https://github.com/corkami/pics/blob/master/binary/README.md)
+- Dec 26 - [Are You Really Losing Weight?](https://jasmcole.com/2022/02/10/losing-it/)
+- Dec 26 - [A Visual Guide to React's useEffect](https://alexsidorenko.com/blog/useeffect/)
+- Dec 26 - [The Tipping Point: How France Changed the Tides of the American Revolution](https://www.battlefields.org/learn/articles/how-france-helped-win-american-revolution)
 <!--END_SECTION:hn-->
 
 <!--
