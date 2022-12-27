@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 27 - [Jerry (YC S17) Is Hiring Tech Leader / EM 中国远程 热爱技术](https://v2ex.com/t/904724#reply0)
-- Dec 27 - [Show HN: Dog API](https://dogapi.dog)
-- Dec 27 - [A no-code tool that generates code](https://www.compoze.org/)
-- Dec 27 - [Ask HN: Upskilling as a Data Engineer](https://news.ycombinator.com/item?id=34147090)
-- Dec 27 - [Data of 30M Indian Railways users is up for sale on a dark forum](https://techlomedia.in/2022/12/data-of-30-million-indian-railways-users-is-up-for-sale-on-a-dark-forum-96589/)
+- Dec 27 - [Visually Symmetric Words](https://www.johndcook.com/blog/2022/12/27/visually-symmetric-words/)
+- Dec 27 - [Microsoft fined $64M by France over cookies used in Bing searches](https://www.scmagazine.com/analysis/compliance/microsoft-fined-64-million-by-france-over-cookies-used-in-bing-searches)
+- Dec 27 - [Numba: A High Performance Python Compiler](https://numba.pydata.org/)
+- Dec 27 - [Ask HN: What happened to Magic, the text-message concierge?](https://news.ycombinator.com/item?id=34148402)
+- Dec 27 - [Three things for the next 100 years of Computer Science](https://but-her-flies.bearblog.dev/3-things-for-the-next-100-years-of-computer-science/)
 <!--END_SECTION:hn-->
 
 <!--
