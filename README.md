@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 27 - [Visually Symmetric Words](https://www.johndcook.com/blog/2022/12/27/visually-symmetric-words/)
-- Dec 27 - [Microsoft fined $64M by France over cookies used in Bing searches](https://www.scmagazine.com/analysis/compliance/microsoft-fined-64-million-by-france-over-cookies-used-in-bing-searches)
-- Dec 27 - [Numba: A High Performance Python Compiler](https://numba.pydata.org/)
-- Dec 27 - [Ask HN: What happened to Magic, the text-message concierge?](https://news.ycombinator.com/item?id=34148402)
-- Dec 27 - [Three things for the next 100 years of Computer Science](https://but-her-flies.bearblog.dev/3-things-for-the-next-100-years-of-computer-science/)
+- Dec 27 - [Tesla stopped reporting its Autopilot safety numbers online. Why?](https://www.latimes.com/business/story/2022-12-27/tesla-stopped-reporting-autopilot-safety-statistics-online)
+- Dec 27 - [The Grinch Stealing the Future of Gen Y and Z](https://www.ineteconomics.org/perspectives/blog/meet-the-grinch-stealing-the-future-of-gen-y-and-z)
+- Dec 27 - [BorgBackup, Deduplicating archiver with compression and encryption](https://www.borgbackup.org)
+- Dec 27 - [A lightweight, simple, fast, feature-filled, text editor written in C, and Lua](https://lite-xl.com/)
+- Dec 27 - [Anki SRS Algorithm : Spaced repetition explained with code](https://www.juliensobczak.com/inspect/2022/05/30/anki-srs.html)
 <!--END_SECTION:hn-->
 
 <!--
