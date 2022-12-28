@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 28 - [SQL and M4 = Composable SQL](https://emiruz.com/post/2022-12-28-composable-sql/)
-- Dec 28 - [Pa – a simple password manager based on age](https://github.com/biox/pa)
-- Dec 28 - [GNU nano is my editor of choice (2021)](https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/)
-- Dec 28 - [Schooling improves intelligence, socioeconomic/genetic differences not affected](https://www.nature.com/articles/s41539-022-00148-5)
-- Dec 28 - [Taking Sex Differences in Personality Seriously (2019)](https://blogs.scientificamerican.com/beautiful-minds/taking-sex-differences-in-personality-seriously/)
+- Dec 28 - [8 Hard truths I learned when I got laid off from my SWE job](https://www.stevenbuccini.com/8-hard-truths-on-getting-laid-off)
+- Dec 28 - [Laid off tech workers quickly find new jobs](https://www.wsj.com/articles/laid-off-tech-workers-quickly-find-new-jobs-11672097730)
+- Dec 28 - [26 Programming Languages in 25 Days](https://matt.might.net/articles/26-languages-part1/)
+- Dec 28 - [macOS virtualisation refactored and sandboxed in Viable updates](https://eclecticlight.co/2022/12/28/macos-virtualisation-refactored-and-sandboxed-in-viable-updates/)
+- Dec 28 - [Police, prosecutors used junk science to decide 911 callers were liars](https://www.propublica.org/article/911-call-analysis-fbi-police-courts)
 <!--END_SECTION:hn-->
 
 <!--
