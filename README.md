@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 27 - [Added 49 volumes of Arkansas, Mississippi, and Tennessee law](https://official.resource.org/@carlmalamud/109582097911957160)
-- Dec 27 - [Beaker Browser is now archived](https://github.com/beakerbrowser/beaker/blob/master/archive-notice.md)
-- Dec 27 - [Vandals destroy 30k-year-old indigenous cave drawings in Australia](https://www.smithsonianmag.com/smart-news/30000-year-old-indigenous-cave-drawings-in-australia-have-been-destroyed-180981363/)
-- Dec 27 - [Brooklyn Bar Menu Generator (2015)](https://www.brooklynbarmenus.com)
-- Dec 27 - [KMSCon – A Userspace System Console That Does Not Depend on Any Graphics Server](https://cgit.freedesktop.org/~dvdhrm/kmscon/plain/README)
+- Dec 28 - [Emergency dispatch centers fielding dozens of automated 911 calls from iPhones](https://coloradosun.com/2022/12/26/skier-iphone-crash-detection-calls/)
+- Dec 28 - [Ask HN: Tricks to enjoy your job more?](https://news.ycombinator.com/item?id=34157056)
+- Dec 28 - [Stranger Things and the Amiga 1000](https://www.datagubbe.se/stranger/)
+- Dec 28 - [I've just started mixing shaders with Pygame and got some great results](https://dafluffypotato.itch.io/hue-flowing)
+- Dec 28 - [Run Stable Diffusion natively on your Mac](https://sindresorhus.com/amazing-ai)
 <!--END_SECTION:hn-->
 
 <!--
