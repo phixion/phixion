@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 28 - [8 Hard truths I learned when I got laid off from my SWE job](https://www.stevenbuccini.com/8-hard-truths-on-getting-laid-off)
-- Dec 28 - [Laid off tech workers quickly find new jobs](https://www.wsj.com/articles/laid-off-tech-workers-quickly-find-new-jobs-11672097730)
-- Dec 28 - [26 Programming Languages in 25 Days](https://matt.might.net/articles/26-languages-part1/)
-- Dec 28 - [macOS virtualisation refactored and sandboxed in Viable updates](https://eclecticlight.co/2022/12/28/macos-virtualisation-refactored-and-sandboxed-in-viable-updates/)
-- Dec 28 - [Police, prosecutors used junk science to decide 911 callers were liars](https://www.propublica.org/article/911-call-analysis-fbi-police-courts)
+- Dec 28 - [Fourteen Discoveries Made About Human Evolution in 2022](https://www.smithsonianmag.com/smithsonian-institution/fourteen-discoveries-made-about-human-evolution-in-2022-180981344/)
+- Dec 28 - [Sherlock Holmes will finally escape copyright this weekend](https://www.theverge.com/2022/12/28/23528003/sherlock-holmes-metropolis-to-the-lighthouse-public-domain-day-2023)
+- Dec 28 - [Alameda wallets become active days after SBF bail, community mulls foul play](https://cointelegraph.com/news/alameda-wallets-become-active-days-after-sbf-bail-community-mulls-foul-play)
+- Dec 28 - [More developers use Linux than Mac, according to 2022 StackOverflow survey](https://www.omglinux.com/devs-prefer-linux-to-mac-stackoverflow-survey/)
+- Dec 28 - [You might as well timestamp it (2021)](https://changelog.com/posts/you-might-as-well-timestamp-it)
 <!--END_SECTION:hn-->
 
 <!--
