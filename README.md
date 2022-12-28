@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 27 - [Tesla stopped reporting its Autopilot safety numbers online. Why?](https://www.latimes.com/business/story/2022-12-27/tesla-stopped-reporting-autopilot-safety-statistics-online)
-- Dec 27 - [The Grinch Stealing the Future of Gen Y and Z](https://www.ineteconomics.org/perspectives/blog/meet-the-grinch-stealing-the-future-of-gen-y-and-z)
-- Dec 27 - [BorgBackup, Deduplicating archiver with compression and encryption](https://www.borgbackup.org)
-- Dec 27 - [A lightweight, simple, fast, feature-filled, text editor written in C, and Lua](https://lite-xl.com/)
-- Dec 27 - [Anki SRS Algorithm : Spaced repetition explained with code](https://www.juliensobczak.com/inspect/2022/05/30/anki-srs.html)
+- Dec 27 - [Added 49 volumes of Arkansas, Mississippi, and Tennessee law](https://official.resource.org/@carlmalamud/109582097911957160)
+- Dec 27 - [Beaker Browser is now archived](https://github.com/beakerbrowser/beaker/blob/master/archive-notice.md)
+- Dec 27 - [Vandals destroy 30k-year-old indigenous cave drawings in Australia](https://www.smithsonianmag.com/smart-news/30000-year-old-indigenous-cave-drawings-in-australia-have-been-destroyed-180981363/)
+- Dec 27 - [Brooklyn Bar Menu Generator (2015)](https://www.brooklynbarmenus.com)
+- Dec 27 - [KMSCon – A Userspace System Console That Does Not Depend on Any Graphics Server](https://cgit.freedesktop.org/~dvdhrm/kmscon/plain/README)
 <!--END_SECTION:hn-->
 
 <!--
