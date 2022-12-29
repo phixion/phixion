@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 29 - [Apple Sued Alleging Racial Bias Against Minorities on Watch's Blood Oximeter](https://dockets.justia.com/docket/new-york/nysdce/1:2022cv10872/591590)
-- Dec 29 - [Ask HN: Can I download GPT / ChatGPT to my desktop?](https://news.ycombinator.com/item?id=34173757)
-- Dec 29 - [Ask HN: What's Happening at Southwest?](https://news.ycombinator.com/item?id=34172823)
-- Dec 29 - [Instagram is threatening legal action against Pixelfed](https://mastodon.social/@pixelfed/109597030315262972)
-- Dec 29 - [It's easier and faster to pirate an e-book, than it is to buy it](https://news.ycombinator.com/item?id=34172506)
+- Dec 29 - [Whistleblower Rebekah Jones wins dismissal](https://www.mynwfl.com/post/rebekahjonescasedismissed)
+- Dec 29 - [Pelé, who became the world’s greatest soccer player, dies at 82](https://www.latimes.com/obituaries/story/2022-12-29/pele-soccer-brazil-dies-obit)
+- Dec 29 - [Pelé, the Global Face of Soccer, Dies at 82](https://www.nytimes.com/2022/12/29/sports/soccer/pele-dead.html)
+- Dec 29 - [Permacomputer](https://www.robinsloan.com/lab/slab/)
+- Dec 29 - [A search engine for searching books in the Z-Library index on the IPFS network](https://zlib.zu1k.com/)
 <!--END_SECTION:hn-->
 
 <!--
