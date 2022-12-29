@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 29 - [Ask HN: Why is the wait for the new iPhone or gadget not as rousing as before?](https://news.ycombinator.com/item?id=34171738)
-- Dec 29 - [Maids trafficked and sold to wealthy Saudis on black market](https://www.thetimes.co.uk/article/maids-trafficked-and-sold-to-wealthy-saudis-on-black-market-dkl80kzgd)
-- Dec 29 - [I didn’t realise how badly it affected me until I was off it [Social Media]](https://www.theguardian.com/media/2022/dec/15/i-didnt-realise-how-badly-it-affected-me-until-i-was-off-it-should-more-of-us-try-a-social-media-detox)
-- Dec 29 - [WireGuard for the ESP32](https://github.com/ciniml/WireGuard-ESP32-Arduino)
-- Dec 29 - [Coins Stolen from Wallet](https://github.com/Chia-Network/chia-blockchain/discussions/14155)
+- Dec 29 - [Apple Sued Alleging Racial Bias Against Minorities on Watch's Blood Oximeter](https://dockets.justia.com/docket/new-york/nysdce/1:2022cv10872/591590)
+- Dec 29 - [Ask HN: Can I download GPT / ChatGPT to my desktop?](https://news.ycombinator.com/item?id=34173757)
+- Dec 29 - [Ask HN: What's Happening at Southwest?](https://news.ycombinator.com/item?id=34172823)
+- Dec 29 - [Instagram is threatening legal action against Pixelfed](https://mastodon.social/@pixelfed/109597030315262972)
+- Dec 29 - [It's easier and faster to pirate an e-book, than it is to buy it](https://news.ycombinator.com/item?id=34172506)
 <!--END_SECTION:hn-->
 
 <!--
