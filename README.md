@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 29 - [Crypto is the first question on IRS Form 1040 in 2022 [pdf]](https://www.irs.gov/pub/irs-pdf/f1040.pdf)
-- Dec 29 - [GPT3/DALL-E2 in Discord, chat like ChatGPT, generate images, and more](https://github.com/Kav-K/GPT3Discord)
-- Dec 29 - [Hiding in Plain Sight](https://www.laphamsquarterly.org/democracy/hiding-plain-sight)
-- Dec 28 - [ChatBCG: Generative AI For Slides](https://www.chatbcg.com/)
-- Dec 28 - [Build your front end in React, then let ChatGPT be your Redux reducer](https://spindas.dreamwidth.org/4207.html)
+- Dec 29 - [Meticulous (YC S21) Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=34170257)
+- Dec 29 - [On ‘Plant-Based’](https://www.aliciakennedy.news/p/on-plant-based)
+- Dec 29 - [The insanity of being a Scrabble enthusiast](https://lithub.com/on-the-insanity-of-being-a-scrabble-enthusiast/)
+- Dec 29 - [72-year-old Congressman pursues a Master's in AI](https://www.washingtonpost.com/dc-md-va/2022/12/28/beyer-student-artificial-intelligence-degree/)
+- Dec 29 - [Time to redefine normal body temperature? (2020)](https://www.health.harvard.edu/blog/time-to-redefine-normal-body-temperature-2020031319173)
 <!--END_SECTION:hn-->
 
 <!--
