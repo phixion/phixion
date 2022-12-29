@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 29 - [Meticulous (YC S21) Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=34170257)
-- Dec 29 - [On ‘Plant-Based’](https://www.aliciakennedy.news/p/on-plant-based)
-- Dec 29 - [The insanity of being a Scrabble enthusiast](https://lithub.com/on-the-insanity-of-being-a-scrabble-enthusiast/)
-- Dec 29 - [72-year-old Congressman pursues a Master's in AI](https://www.washingtonpost.com/dc-md-va/2022/12/28/beyer-student-artificial-intelligence-degree/)
-- Dec 29 - [Time to redefine normal body temperature? (2020)](https://www.health.harvard.edu/blog/time-to-redefine-normal-body-temperature-2020031319173)
+- Dec 29 - [Ask HN: Why is the wait for the new iPhone or gadget not as rousing as before?](https://news.ycombinator.com/item?id=34171738)
+- Dec 29 - [Maids trafficked and sold to wealthy Saudis on black market](https://www.thetimes.co.uk/article/maids-trafficked-and-sold-to-wealthy-saudis-on-black-market-dkl80kzgd)
+- Dec 29 - [I didn’t realise how badly it affected me until I was off it [Social Media]](https://www.theguardian.com/media/2022/dec/15/i-didnt-realise-how-badly-it-affected-me-until-i-was-off-it-should-more-of-us-try-a-social-media-detox)
+- Dec 29 - [WireGuard for the ESP32](https://github.com/ciniml/WireGuard-ESP32-Arduino)
+- Dec 29 - [Coins Stolen from Wallet](https://github.com/Chia-Network/chia-blockchain/discussions/14155)
 <!--END_SECTION:hn-->
 
 <!--
