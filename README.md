@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 30 - [Herb Kelleher: Manage in Good Times So You'll Do Well in the Bad Times](https://www.gsb.stanford.edu/insights/herb-kelleher-manage-good-times-so-youll-do-well-bad-times)
+- Dec 30 - [Where does ChatGPT fall on the political compass?](https://reason.com/2022/12/13/where-does-chatgpt-fall-on-the-political-compass/)
+- Dec 30 - [PRQL: a simple, powerful, pipelined SQL replacement](https://prql-lang.org/)
+- Dec 30 - [Herb Kelleher: Manage in Good Times So You'll Do Well in the Bad Times (2006)](https://www.gsb.stanford.edu/insights/herb-kelleher-manage-good-times-so-youll-do-well-bad-times)
 - Dec 30 - [Poll: What's the best laptop for Linux these days?](https://news.ycombinator.com/item?id=34180508)
-- Dec 30 - [Kagi – Paid Search Engine](https://kagi.com:443/)
-- Dec 29 - [Golang disables Nagle's Algorithm by default](https://withinboredom.info/blog/2022/12/29/golang-is-evil-on-shitty-networks/)
-- Dec 29 - [Can a Tarot card reading be defamatory?](https://popehat.substack.com/p/can-a-tarot-card-reading-be-defamatory)
+- Dec 29 - [When do we have a scientific fact?](https://blog.oup.com/2022/11/how-to-identify-a-scientific-fact/)
 <!--END_SECTION:hn-->
 
 <!--
