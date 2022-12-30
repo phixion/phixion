@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 30 - [A portable, modern regular expression language](https://pomsky-lang.org/)
-- Dec 30 - [Color Formats in CSS](https://www.joshwcomeau.com/css/color-formats/)
-- Dec 30 - [In 2023, Let’s Rediscover Wrongness](https://jessesingal.substack.com/p/in-2023-lets-rediscover-wrongness)
-- Dec 30 - [An M1 for Curl](https://daniel.haxx.se/blog/2022/12/30/an-m1-for-curl/)
-- Dec 30 - [Prolonged oral breathing could significantly induce impaired cognitive function](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8228257/)
+- Dec 30 - [Ownership of AI-Generated Code Hotly Disputed](https://spectrum.ieee.org/ai-code-generation-ownership)
+- Dec 30 - [What would a decentralised Uber look like?](https://shkspr.mobi/blog/2022/12/what-would-a-decentralised-uber-look-like/)
+- Dec 30 - [Ask HN: How do you recall ideas/eureka you get during walks, showers, etc.?](https://news.ycombinator.com/item?id=34185635)
+- Dec 30 - [Write a Wayland Compositor [video]](https://streaming.media.ccc.de/jev22/relive/49255)
+- Dec 30 - [AMD, Intel, and Nvidia Reportedly Slash Orders with TSMC](https://www.tomshardware.com/news/amd-intel-nvidia-slash-orders-to-tsmc)
 <!--END_SECTION:hn-->
 
 <!--
