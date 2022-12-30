@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 29 - [Golang is evil on shitty networks](https://withinboredom.info/blog/2022/12/29/golang-is-evil-on-shitty-networks/)
-- Dec 29 - [Software Illustrated: I'm just trying to change this lightbulb](https://www.mikesteder.com/engineering/management/gifs/software/illustrated/2014/12/31/software-engineering-illustrated-im-just-trying-to-change-this-lightbulb.html)
-- Dec 29 - [Freenet build 1495 released: new user entrance, user experience, performance](https://freenetproject.org/freenet-build-1495-new-user-experience-and-performance.html)
-- Dec 29 - [The IE 11 user-agent forced Mozilla to freeze part of its user-agent string](https://miketaylr.com/posts/2022/12/how-the-IE-11-ua-string-broke-sites-in-firefox.html)
-- Dec 29 - [Stone tablet shows Babylonians able to approximate √2 with 99.9999% accuracy](https://twitter.com/tivadardanka/status/1608419325706391554)
+- Dec 30 - [Herb Kelleher: Manage in Good Times So You'll Do Well in the Bad Times](https://www.gsb.stanford.edu/insights/herb-kelleher-manage-good-times-so-youll-do-well-bad-times)
+- Dec 30 - [Poll: What's the best laptop for Linux these days?](https://news.ycombinator.com/item?id=34180508)
+- Dec 30 - [Kagi – Paid Search Engine](https://kagi.com:443/)
+- Dec 29 - [Golang disables Nagle's Algorithm by default](https://withinboredom.info/blog/2022/12/29/golang-is-evil-on-shitty-networks/)
+- Dec 29 - [Can a Tarot card reading be defamatory?](https://popehat.substack.com/p/can-a-tarot-card-reading-be-defamatory)
 <!--END_SECTION:hn-->
 
 <!--
