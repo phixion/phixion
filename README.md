@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 30 - [Where does ChatGPT fall on the political compass?](https://reason.com/2022/12/13/where-does-chatgpt-fall-on-the-political-compass/)
-- Dec 30 - [PRQL: a simple, powerful, pipelined SQL replacement](https://prql-lang.org/)
-- Dec 30 - [Herb Kelleher: Manage in Good Times So You'll Do Well in the Bad Times (2006)](https://www.gsb.stanford.edu/insights/herb-kelleher-manage-good-times-so-youll-do-well-bad-times)
-- Dec 30 - [Poll: What's the best laptop for Linux these days?](https://news.ycombinator.com/item?id=34180508)
-- Dec 29 - [When do we have a scientific fact?](https://blog.oup.com/2022/11/how-to-identify-a-scientific-fact/)
+- Dec 30 - [A portable, modern regular expression language](https://pomsky-lang.org/)
+- Dec 30 - [Color Formats in CSS](https://www.joshwcomeau.com/css/color-formats/)
+- Dec 30 - [In 2023, Let’s Rediscover Wrongness](https://jessesingal.substack.com/p/in-2023-lets-rediscover-wrongness)
+- Dec 30 - [An M1 for Curl](https://daniel.haxx.se/blog/2022/12/30/an-m1-for-curl/)
+- Dec 30 - [Prolonged oral breathing could significantly induce impaired cognitive function](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8228257/)
 <!--END_SECTION:hn-->
 
 <!--
