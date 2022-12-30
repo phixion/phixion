@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 29 - [Whistleblower Rebekah Jones wins dismissal](https://www.mynwfl.com/post/rebekahjonescasedismissed)
-- Dec 29 - [Pelé, who became the world’s greatest soccer player, dies at 82](https://www.latimes.com/obituaries/story/2022-12-29/pele-soccer-brazil-dies-obit)
-- Dec 29 - [Pelé, the Global Face of Soccer, Dies at 82](https://www.nytimes.com/2022/12/29/sports/soccer/pele-dead.html)
-- Dec 29 - [Permacomputer](https://www.robinsloan.com/lab/slab/)
-- Dec 29 - [A search engine for searching books in the Z-Library index on the IPFS network](https://zlib.zu1k.com/)
+- Dec 29 - [Golang is evil on shitty networks](https://withinboredom.info/blog/2022/12/29/golang-is-evil-on-shitty-networks/)
+- Dec 29 - [Software Illustrated: I'm just trying to change this lightbulb](https://www.mikesteder.com/engineering/management/gifs/software/illustrated/2014/12/31/software-engineering-illustrated-im-just-trying-to-change-this-lightbulb.html)
+- Dec 29 - [Freenet build 1495 released: new user entrance, user experience, performance](https://freenetproject.org/freenet-build-1495-new-user-experience-and-performance.html)
+- Dec 29 - [The IE 11 user-agent forced Mozilla to freeze part of its user-agent string](https://miketaylr.com/posts/2022/12/how-the-IE-11-ua-string-broke-sites-in-firefox.html)
+- Dec 29 - [Stone tablet shows Babylonians able to approximate √2 with 99.9999% accuracy](https://twitter.com/tivadardanka/status/1608419325706391554)
 <!--END_SECTION:hn-->
 
 <!--
