@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 30 - [Ownership of AI-Generated Code Hotly Disputed](https://spectrum.ieee.org/ai-code-generation-ownership)
-- Dec 30 - [What would a decentralised Uber look like?](https://shkspr.mobi/blog/2022/12/what-would-a-decentralised-uber-look-like/)
-- Dec 30 - [Ask HN: How do you recall ideas/eureka you get during walks, showers, etc.?](https://news.ycombinator.com/item?id=34185635)
-- Dec 30 - [Write a Wayland Compositor [video]](https://streaming.media.ccc.de/jev22/relive/49255)
-- Dec 30 - [AMD, Intel, and Nvidia Reportedly Slash Orders with TSMC](https://www.tomshardware.com/news/amd-intel-nvidia-slash-orders-to-tsmc)
+- Dec 30 - [What are those dents in I-90 outside Seattle?](https://boards.straightdope.com/t/what-are-those-dents-in-i-90-outside-seattle/422061?page=2)
+- Dec 30 - [Show HN: RSS Brain](https://www.rssbrain.com/)
+- Dec 30 - [9 Forecasts for the Near Future, with Implications](https://scottbelsky.substack.com/p/edition1)
+- Dec 30 - [Phoenix 1.7 is View-less](https://www.germanvelasco.com/blog/phoenix-1-7-is-view-less)
+- Dec 30 - [Transformer stockpiles and power grids come under threat](https://spectrum.ieee.org/transformer-stockpiles)
 <!--END_SECTION:hn-->
 
 <!--
