@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 31 - [Blob Opera (2020)](https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw?hl=en)
-- Dec 31 - [Why does my SSH private key still work after changing some bytes? (2016)](https://crypto.stackexchange.com/questions/31807/why-does-my-ssh-private-key-still-work-after-changing-some-bytes-in-the-file)
-- Dec 31 - [Why “OpenBSD Mastery: Filesystems” Is Not in Amazon’s Kindle Store](https://mwl.io/archives/22466)
-- Dec 31 - [Alameda County admits tallying error in ranked choice voting](https://www.sfchronicle.com/bayarea/article/Alameda-County-admits-tallying-error-in-17682520.php)
-- Dec 31 - [Whatever happened to SHA-256 support in Git](https://lwn.net/Articles/898522/)
+- Dec 31 - [Deceiving Windows Defender: The Big Stack Bypass](https://steve-s.gitbook.io/0xtriboulet/deceiving-defender/deceiving-defender-the-big-stack-bypass)
+- Dec 31 - [A taste of pavex, an upcoming Rust web framework](https://www.lpalmieri.com/posts/a-taste-of-pavex-rust-web-framework/)
+- Dec 31 - [VanillaOS: Immutable Ubuntu-Based Linux](https://vanillaos.org/)
+- Dec 31 - [sd: your script directory](https://github.com/ianthehenry/sd)
+- Dec 31 - [Surviving Disillusionment in Software Development](https://www.spakhm.com/p/surviving-disillusionment)
 <!--END_SECTION:hn-->
 
 <!--
