@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 31 - [Tell HN: Google Cloud lets anyone add you to a project without your permission](https://news.ycombinator.com/item?id=34193047)
-- Dec 31 - [Louis Rossmann discusses NY's butchering of right to repair [video]](https://www.youtube.com/watch?v=k9kXnm9uW5k)
-- Dec 31 - [Decentralized storage company Storj removed their warrant canary](https://www.storj.io/canary.txt)
-- Dec 31 - [I Will Write More](https://candrewlee14.github.io/blog/i-will-write-more/)
-- Dec 30 - [Young adults and mental health: Is more childhood independence the answer?](https://www.kqed.org/mindshift/60624/young-adults-are-struggling-with-their-mental-health-is-more-childhood-independence-the-answer)
+- Dec 31 - [Blob Opera (2020)](https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw?hl=en)
+- Dec 31 - [Why does my SSH private key still work after changing some bytes? (2016)](https://crypto.stackexchange.com/questions/31807/why-does-my-ssh-private-key-still-work-after-changing-some-bytes-in-the-file)
+- Dec 31 - [Why “OpenBSD Mastery: Filesystems” Is Not in Amazon’s Kindle Store](https://mwl.io/archives/22466)
+- Dec 31 - [Alameda County admits tallying error in ranked choice voting](https://www.sfchronicle.com/bayarea/article/Alameda-County-admits-tallying-error-in-17682520.php)
+- Dec 31 - [Whatever happened to SHA-256 support in Git](https://lwn.net/Articles/898522/)
 <!--END_SECTION:hn-->
 
 <!--
