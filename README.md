@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 30 - [What are those dents in I-90 outside Seattle?](https://boards.straightdope.com/t/what-are-those-dents-in-i-90-outside-seattle/422061?page=2)
-- Dec 30 - [Show HN: RSS Brain](https://www.rssbrain.com/)
-- Dec 30 - [9 Forecasts for the Near Future, with Implications](https://scottbelsky.substack.com/p/edition1)
-- Dec 30 - [Phoenix 1.7 is View-less](https://www.germanvelasco.com/blog/phoenix-1-7-is-view-less)
-- Dec 30 - [Transformer stockpiles and power grids come under threat](https://spectrum.ieee.org/transformer-stockpiles)
+- Dec 30 - [Show HN: Self Hosted OpenStreetMap using only Sqlite3 and Python](https://github.com/punnerud/rgcosm)
+- Dec 30 - [Young adults are struggling with their mental health](https://www.kqed.org/mindshift/60624/young-adults-are-struggling-with-their-mental-health-is-more-childhood-independence-the-answer)
+- Dec 30 - [Fetish tabooness vs. popularity](https://aella.substack.com/p/fetish-tabooness-vs-popularity)
+- Dec 30 - [Control Pandas, Polars, or SQL from One DSL](https://github.com/WinVector/data_algebra)
+- Dec 30 - [I wrote a SQL engine in Python](https://github.com/marsupialtail/quokka/blob/master/blog/why.md)
 <!--END_SECTION:hn-->
 
 <!--
