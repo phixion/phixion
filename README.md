@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 31 - [Complementary foundations for mathematics: when do we choose? [pdf]](https://home.sandiego.edu/~shulman/papers/jmm2022-complementary.pdf)
-- Dec 31 - [2022: A Retrospective](https://godotengine.org/article/2022-retrospective)
-- Dec 31 - [South Korea's middle aged men are dying 'lonely deaths'](https://lite.cnn.com/en/article/h_80a652c828dba44d567472356998ce21)
-- Dec 31 - [Magic beans, Bahamian penthouses, old-fashioned fraud and other important SBF-in](https://www.bloomberg.com/features/2022-the-crypto-story-FTX-collapse-matt-levine/)
-- Dec 31 - [CA high-speed rail is Exhibit A for how America can’t build big things anymore](https://twitter.com/noahpinion/status/1608641613315858433)
+- Dec 31 - [Powering the lunar base, version 2](https://caseyhandmer.wordpress.com/2022/07/03/powering-the-lunar-base-version-2/)
+- Dec 31 - [8,760 Hours: How to get the most out of next year (2016)](https://alexvermeer.com/8760hours/)
+- Dec 31 - [Mac OS Ventura Issues](https://morrick.me/archives/9696)
+- Dec 31 - [Filmora uses DMCA to attack YouTuber complaining about license changes](https://www.youtube.com/watch?v=OMIIwQZMFLE)
+- Dec 31 - [U.S. universities, rich in data, struggle to capture its value, study finds](https://newsroom.ucla.edu/releases/universities-struggle-to-leverage-data)
 <!--END_SECTION:hn-->
 
 <!--
