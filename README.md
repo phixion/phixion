@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 30 - [Show HN: Self Hosted OpenStreetMap using only Sqlite3 and Python](https://github.com/punnerud/rgcosm)
-- Dec 30 - [Young adults are struggling with their mental health](https://www.kqed.org/mindshift/60624/young-adults-are-struggling-with-their-mental-health-is-more-childhood-independence-the-answer)
-- Dec 30 - [Fetish tabooness vs. popularity](https://aella.substack.com/p/fetish-tabooness-vs-popularity)
-- Dec 30 - [Control Pandas, Polars, or SQL from One DSL](https://github.com/WinVector/data_algebra)
-- Dec 30 - [I wrote a SQL engine in Python](https://github.com/marsupialtail/quokka/blob/master/blog/why.md)
+- Dec 31 - [Tell HN: Google Cloud lets anyone add you to a project without your permission](https://news.ycombinator.com/item?id=34193047)
+- Dec 31 - [Louis Rossmann discusses NY's butchering of right to repair [video]](https://www.youtube.com/watch?v=k9kXnm9uW5k)
+- Dec 31 - [Decentralized storage company Storj removed their warrant canary](https://www.storj.io/canary.txt)
+- Dec 31 - [I Will Write More](https://candrewlee14.github.io/blog/i-will-write-more/)
+- Dec 30 - [Young adults and mental health: Is more childhood independence the answer?](https://www.kqed.org/mindshift/60624/young-adults-are-struggling-with-their-mental-health-is-more-childhood-independence-the-answer)
 <!--END_SECTION:hn-->
 
 <!--
