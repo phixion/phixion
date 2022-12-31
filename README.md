@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 31 - [Deceiving Windows Defender: The Big Stack Bypass](https://steve-s.gitbook.io/0xtriboulet/deceiving-defender/deceiving-defender-the-big-stack-bypass)
-- Dec 31 - [A taste of pavex, an upcoming Rust web framework](https://www.lpalmieri.com/posts/a-taste-of-pavex-rust-web-framework/)
-- Dec 31 - [VanillaOS: Immutable Ubuntu-Based Linux](https://vanillaos.org/)
-- Dec 31 - [sd: your script directory](https://github.com/ianthehenry/sd)
-- Dec 31 - [Surviving Disillusionment in Software Development](https://www.spakhm.com/p/surviving-disillusionment)
+- Dec 31 - [Complementary foundations for mathematics: when do we choose? [pdf]](https://home.sandiego.edu/~shulman/papers/jmm2022-complementary.pdf)
+- Dec 31 - [2022: A Retrospective](https://godotengine.org/article/2022-retrospective)
+- Dec 31 - [South Korea's middle aged men are dying 'lonely deaths'](https://lite.cnn.com/en/article/h_80a652c828dba44d567472356998ce21)
+- Dec 31 - [Magic beans, Bahamian penthouses, old-fashioned fraud and other important SBF-in](https://www.bloomberg.com/features/2022-the-crypto-story-FTX-collapse-matt-levine/)
+- Dec 31 - [CA high-speed rail is Exhibit A for how America can’t build big things anymore](https://twitter.com/noahpinion/status/1608641613315858433)
 <!--END_SECTION:hn-->
 
 <!--
