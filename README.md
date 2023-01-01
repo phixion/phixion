@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 01 - [Map, Filter, Reduce in Fortran (2019)](https://milancurcic.com/2019/05/22/map-filter-reduce-in-fortran-2018.html)
-- Jan 01 - [Ask HN: How do you manage your passwords in 2023?](https://news.ycombinator.com/item?id=34206768)
-- Jan 01 - [Ask HN: How does a hobby programmer get hired?](https://news.ycombinator.com/item?id=34206559)
-- Jan 01 - [Ask HN: Concepts that clicked only years after you first encountered them?](https://news.ycombinator.com/item?id=34206219)
-- Jan 01 - [Get Running with Couch to 5K](https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/get-running-with-couch-to-5k/)
+- Jan 01 - [FatFs – Generic FAT Filesystem Module](http://elm-chan.org/fsw/ff/00index_e.html)
+- Jan 01 - [Casio-F-91W die-shot](https://zeptobars.com/en/read/Casio-F-91W-OKI-quartz-watch)
+- Jan 01 - [San Francisco just had its second-rainiest day since 1849](https://www.sfgate.com/weather/article/San-Francisco-just-had-its-second-rainiest-day-17688646.php)
+- Jan 01 - [Why 536 was 'the worst year to be alive' (2018)](https://www.science.org/content/article/why-536-was-worst-year-be-alive)
+- Jan 01 - [Mini brains grown from stem cells developed eye-like features (2021)](https://www.smithsonianmag.com/smart-news/mini-brains-grown-stem-cells-developed-eyes-can-sense-light-180978478/)
 <!--END_SECTION:hn-->
 
 <!--
