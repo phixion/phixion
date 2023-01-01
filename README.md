@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 01 - [Ripes: Visual computer architecture simulator, assembly code editor for RISC-V](https://github.com/mortbopet/Ripes)
-- Jan 01 - [Ask HN: What are the best open source TypeScript projects I can learn from?](https://news.ycombinator.com/item?id=34205294)
-- Jan 01 - [Competitive programming in Haskell: better binary search](https://byorgey.wordpress.com/2023/01/01/competitive-programming-in-haskell-better-binary-search/)
-- Jan 01 - [AI Voice Generator: Text to Speech Software](https://murf.ai)
-- Jan 01 - [Report on an Unidentified Space Station](http://geosci.uchicago.edu/~kite/doc/roauss.htm)
+- Jan 01 - [Map, Filter, Reduce in Fortran (2019)](https://milancurcic.com/2019/05/22/map-filter-reduce-in-fortran-2018.html)
+- Jan 01 - [Ask HN: How do you manage your passwords in 2023?](https://news.ycombinator.com/item?id=34206768)
+- Jan 01 - [Ask HN: How does a hobby programmer get hired?](https://news.ycombinator.com/item?id=34206559)
+- Jan 01 - [Ask HN: Concepts that clicked only years after you first encountered them?](https://news.ycombinator.com/item?id=34206219)
+- Jan 01 - [Get Running with Couch to 5K](https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/get-running-with-couch-to-5k/)
 <!--END_SECTION:hn-->
 
 <!--
