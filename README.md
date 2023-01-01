@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 01 - [Ripes: Visual computer architecture simulator, assembly code editor for RISC-V](https://github.com/mortbopet/Ripes)
+- Jan 01 - [Ask HN: What are the best open source TypeScript projects I can learn from?](https://news.ycombinator.com/item?id=34205294)
+- Jan 01 - [Competitive programming in Haskell: better binary search](https://byorgey.wordpress.com/2023/01/01/competitive-programming-in-haskell-better-binary-search/)
 - Jan 01 - [AI Voice Generator: Text to Speech Software](https://murf.ai)
-- Jan 01 - [Dirty USB-C Tricks: One Port for the Price of Two](https://hackaday.com/2022/12/31/dirty-usb-c-tricks-one-port-for-the-price-of-two/)
 - Jan 01 - [Report on an Unidentified Space Station](http://geosci.uchicago.edu/~kite/doc/roauss.htm)
-- Jan 01 - [To be productive, be prepared](https://martinrue.com/to-be-productive-be-prepared/)
-- Jan 01 - [Posters of the IPv4 and IPv6 internet as of Jan 1, 2023](https://vad.solutions/ipmap/)
 <!--END_SECTION:hn-->
 
 <!--
