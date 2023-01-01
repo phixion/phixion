@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 01 - [Women overinvesting in education? Evidence from the medical profession (2012)](https://www.journals.uchicago.edu/doi/abs/10.1086/665536)
-- Jan 01 - [“Scale” by Greg Egan](https://www.gregegan.net/SCALE/SCALE.html)
-- Jan 01 - [Compromised PyTorch-nightly dependency chain between December 25th – December 30](https://pytorch.org/blog/compromised-nightly-dependency/)
-- Jan 01 - [Xfinity Stream on Linux (A Tale of Widevine, ChromeOS, and a Patched Glibc)](https://thebrokenrail.com/2022/12/31/xfinity-stream-on-linux.html)
-- Dec 31 - [I did Advent of Code on a Playstation](https://bvisness.me/advent-of-dreams/)
+- Jan 01 - [AI Voice Generator: Text to Speech Software](https://murf.ai)
+- Jan 01 - [Dirty USB-C Tricks: One Port for the Price of Two](https://hackaday.com/2022/12/31/dirty-usb-c-tricks-one-port-for-the-price-of-two/)
+- Jan 01 - [Report on an Unidentified Space Station](http://geosci.uchicago.edu/~kite/doc/roauss.htm)
+- Jan 01 - [To be productive, be prepared](https://martinrue.com/to-be-productive-be-prepared/)
+- Jan 01 - [Posters of the IPv4 and IPv6 internet as of Jan 1, 2023](https://vad.solutions/ipmap/)
 <!--END_SECTION:hn-->
 
 <!--
