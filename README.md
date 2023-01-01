@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 31 - [Powering the lunar base, version 2](https://caseyhandmer.wordpress.com/2022/07/03/powering-the-lunar-base-version-2/)
-- Dec 31 - [8,760 Hours: How to get the most out of next year (2016)](https://alexvermeer.com/8760hours/)
-- Dec 31 - [Mac OS Ventura Issues](https://morrick.me/archives/9696)
-- Dec 31 - [Filmora uses DMCA to attack YouTuber complaining about license changes](https://www.youtube.com/watch?v=OMIIwQZMFLE)
-- Dec 31 - [U.S. universities, rich in data, struggle to capture its value, study finds](https://newsroom.ucla.edu/releases/universities-struggle-to-leverage-data)
+- Dec 31 - [I am not a supplier](https://www.softwaremaxims.com/blog/not-a-supplier)
+- Dec 31 - [Tell HN: Happy New Year](https://news.ycombinator.com/item?id=34201366)
+- Dec 31 - [Oxytocin, trust, and reciprocity (2007)](https://www.hugthemonkey.com/2007/03/paul_zak_oxytoc.html)
+- Dec 31 - [Seven stowaways and a hijacked oil tanker](https://www.theguardian.com/world/2022/jun/09/stowaways-oil-tanker-isle-of-wight-hijacking-strange-case-nave-andromeda)
+- Dec 31 - [The State of HTTP in 2022](https://blog.cloudflare.com/the-state-of-http-in-2022/)
 <!--END_SECTION:hn-->
 
 <!--
