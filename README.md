@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 01 - [FatFs – Generic FAT Filesystem Module](http://elm-chan.org/fsw/ff/00index_e.html)
-- Jan 01 - [Casio-F-91W die-shot](https://zeptobars.com/en/read/Casio-F-91W-OKI-quartz-watch)
-- Jan 01 - [San Francisco just had its second-rainiest day since 1849](https://www.sfgate.com/weather/article/San-Francisco-just-had-its-second-rainiest-day-17688646.php)
-- Jan 01 - [Why 536 was 'the worst year to be alive' (2018)](https://www.science.org/content/article/why-536-was-worst-year-be-alive)
-- Jan 01 - [Mini brains grown from stem cells developed eye-like features (2021)](https://www.smithsonianmag.com/smart-news/mini-brains-grown-stem-cells-developed-eyes-can-sense-light-180978478/)
+- Jan 01 - [ElonJet Wrapped 2022](http://elonjet.net/wrapped22/)
+- Jan 01 - [George Santos story broken by local newspaper months ago](https://www.theleaderonline.com/single-post/the-leader-told-you-so-us-rep-elect-george-santos-is-a-fraud-and-wanted-criminal)
+- Jan 01 - [Adding design-by-contract conditions to C++ via a GCC plugin](https://gavinray97.github.io/blog/adding-invariant-to-cpp-design-by-contract)
+- Jan 01 - [Ask HN: Are there any good open source text-to-speech tools?](https://news.ycombinator.com/item?id=34211457)
+- Jan 01 - [Google to pay Indiana $20M to resolve privacy suit](https://apnews.com/article/technology-indiana-state-government-business-tod-rokita-3fc0f24cd0ca72cc9c4de14204abda01)
 <!--END_SECTION:hn-->
 
 <!--
