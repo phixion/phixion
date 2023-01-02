@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 01 - [ElonJet Wrapped 2022](http://elonjet.net/wrapped22/)
-- Jan 01 - [George Santos story broken by local newspaper months ago](https://www.theleaderonline.com/single-post/the-leader-told-you-so-us-rep-elect-george-santos-is-a-fraud-and-wanted-criminal)
-- Jan 01 - [Adding design-by-contract conditions to C++ via a GCC plugin](https://gavinray97.github.io/blog/adding-invariant-to-cpp-design-by-contract)
-- Jan 01 - [Ask HN: Are there any good open source text-to-speech tools?](https://news.ycombinator.com/item?id=34211457)
-- Jan 01 - [Google to pay Indiana $20M to resolve privacy suit](https://apnews.com/article/technology-indiana-state-government-business-tod-rokita-3fc0f24cd0ca72cc9c4de14204abda01)
+- Jan 02 - [Why Not Mars](https://idlewords.com/2023/1/why_not_mars.htm)
+- Jan 02 - [For U.S. Companies, the Race for the New EV Battery Is On](https://e360.yale.edu/features/alternate-ev-battery-technology)
+- Jan 02 - [Automatic snow tires throw chains at your wheels [video]](https://www.youtube.com/watch?v=x2IQNsLuikw)
+- Jan 02 - [Blog series on building an air sensor with Arduino](https://www.airdeets.com/blog/diy-arduino-based-air-sensor-pt1)
+- Jan 02 - [Should this paper in Psychological Science be retracted?](https://statmodeling.stat.columbia.edu/2016/06/28/khkhkj/)
 <!--END_SECTION:hn-->
 
 <!--
