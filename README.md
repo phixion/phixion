@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 02 - [How many layers of UI inconsistencies are in Windows 11?](https://ntdotdev.wordpress.com/2023/01/01/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-11/)
-- Jan 02 - [NetBSD at Reproducible Builds Summit Venice 2022](https://blog.netbsd.org/tnf/entry/reproducible_builds_summit_venice_2022)
-- Jan 02 - [The Year of C++ Successor Languages](https://accu.org/journals/overload/30/172/teodorescu/)
-- Jan 02 - [Welcoming 1927 to the Public Domain](https://blog.archive.org/2023/01/01/welcoming-1927-to-the-public-domain/)
-- Jan 02 - [Petals: Run 100B+ language models at home bit-torrent style](https://github.com/bigscience-workshop/petals)
+- Jan 02 - [The Privatization of Policing](https://compactmag.com/article/the-privatization-of-policing)
+- Jan 02 - [AIOC: Ham Radio All-in-One-Cable](https://github.com/skuep/AIOC)
+- Jan 02 - [WorldWideWeb, the First Web Browser](https://worldwideweb.cern.ch/browser/)
+- Jan 02 - [Filmora and Adobe decide to use “Kdenlive” as a keyword in their online ads](https://old.reddit.com/r/kdenlive/comments/101cvw3/how_you_know_you_had_a_good_year_both_filmora_and/)
+- Jan 02 - [Optimal hydration may slow down the aging process in humans](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(22)00586-2/fulltext)
 <!--END_SECTION:hn-->
 
 <!--
