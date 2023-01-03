@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 03 - [Update: Stripe is holding over $400k of mine with no explanation](https://news.ycombinator.com/item?id=34233011)
-- Jan 03 - [Bertrand Meyer et al.: The concept of class invariant in OO programming](https://arxiv.org/abs/2109.06557)
-- Jan 03 - [Japanese government offers families 1M yen a child to leave Tokyo](https://www.theguardian.com/world/2023/jan/03/million-yen-per-child-to-leave-tokyo-japans-offer-to-families)
-- Jan 03 - [Men Without Work: America's Invisible Crisis (Book)](https://en.wikipedia.org/wiki/Men_Without_Work_(book))
-- Jan 03 - [10x C++ Editor](https://10xeditor.com/)
+- Jan 03 - [Long out of math, an AI programmer cracks a pure math problem](https://www.quantamagazine.org/long-out-of-math-an-ai-programmer-cracks-a-pure-math-problem-20230103/)
+- Jan 03 - [Hnefatafl](https://en.wikipedia.org/wiki/Tafl_games)
+- Jan 03 - [Factoring integers with sublinear resources on a quantum processor](https://arxiv.org/abs/2212.12372)
+- Jan 03 - [Arizona inducing the labor of pregnant prisoners against their will](https://www.azcentral.com/story/news/local/arizona/2023/01/02/arizona-inducing-labor-of-pregnant-prisoners-against-their-will/69768038007/)
+- Jan 03 - [Breaking RSA with a quantum computer?](https://www.schneier.com/blog/archives/2023/01/breaking-rsa-with-a-quantum-computer.html)
 <!--END_SECTION:hn-->
 
 <!--
