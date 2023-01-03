@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 03 - [Bach to the Future – Humanising Music with Neural Nets](https://futurice.com/blog/bach-to-the-future-or-humanising-music-with-neural-nets)
-- Jan 03 - [LearnCPP: Website devoted to teaching you how to program in C++](https://www.learncpp.com/)
-- Jan 03 - [Ask HN: Alternatives to Scratch for a blind child?](https://news.ycombinator.com/item?id=34229502)
-- Jan 03 - [PDP-11/Hack (2014)](http://madrona.ca/e/pdp11hack/index.html)
-- Jan 03 - [Ashby (YC W19) is hiring product and design engineers](https://www.ashbyhq.com/careers?utm_source=hn)
+- Jan 03 - [Update: Stripe is holding over $400k of mine with no explanation](https://news.ycombinator.com/item?id=34233011)
+- Jan 03 - [Bertrand Meyer et al.: The concept of class invariant in OO programming](https://arxiv.org/abs/2109.06557)
+- Jan 03 - [Japanese government offers families 1M yen a child to leave Tokyo](https://www.theguardian.com/world/2023/jan/03/million-yen-per-child-to-leave-tokyo-japans-offer-to-families)
+- Jan 03 - [Men Without Work: America's Invisible Crisis (Book)](https://en.wikipedia.org/wiki/Men_Without_Work_(book))
+- Jan 03 - [10x C++ Editor](https://10xeditor.com/)
 <!--END_SECTION:hn-->
 
 <!--
