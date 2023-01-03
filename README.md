@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 03 - [Bach to the Future – Humanising Music with Neural Nets](https://futurice.com/blog/bach-to-the-future-or-humanising-music-with-neural-nets)
+- Jan 03 - [LearnCPP: Website devoted to teaching you how to program in C++](https://www.learncpp.com/)
+- Jan 03 - [Ask HN: Alternatives to Scratch for a blind child?](https://news.ycombinator.com/item?id=34229502)
+- Jan 03 - [PDP-11/Hack (2014)](http://madrona.ca/e/pdp11hack/index.html)
 - Jan 03 - [Ashby (YC W19) is hiring product and design engineers](https://www.ashbyhq.com/careers?utm_source=hn)
-- Jan 03 - [Bflat – a single ahead-of-time crosscompiler and runtime for C#](https://flattened.net/)
-- Jan 03 - [Python 2 removed from Debian](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1027108)
-- Jan 03 - [Sergey Brin: Irate Call from Steve Jobs](https://www.techemails.com/p/sergey-brin-irate-call-from-steve-jobs)
-- Jan 03 - [Incoming potentially catastrophic storm for SF area](https://forecast.weather.gov/product.php?site=MTR&issuedby=MTR&product=AFD&format=CI&version=1&glossary=1)
 <!--END_SECTION:hn-->
 
 <!--
