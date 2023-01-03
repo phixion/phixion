@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 02 - [Pyright: Static Type Checker for Python](https://github.com/microsoft/pyright)
-- Jan 02 - [English as She Is Spoke](https://en.wikipedia.org/wiki/English_as_She_Is_Spoke)
-- Jan 02 - [Higher-order organization of multivariate time series](https://www.nature.com/articles/s41567-022-01852-0)
-- Jan 02 - [Debloating Windows 10 with one command and no internet scripts](https://gabrielsieben.tech/2023/01/02/debloating-windows-10-with-one-command-and-no-scripts/)
-- Jan 02 - [Nintendo GBA and DS ROM hacking guide (2016)](https://gbatemp.net/download/gba-and-ds-rom-hacking-guide.33419/download)
+- Jan 02 - [Books for Software Engineers in 2023](https://grantisom.com/2023/01/02/mustread-books-for.html)
+- Jan 02 - [My YouTube Earnings](https://brickexperimentchannel.wordpress.com/2022/11/19/my-youtube-earnings/)
+- Jan 02 - [Solving a Dungeons and Dragons riddle using Prolog](https://gist.github.com/Spuffynism/446c7c2d498477491d8137e8f234d4a9)
+- Jan 02 - [The strangest computer manual ever written](https://ironicsans.substack.com/p/the-strangest-computer-manual-ever)
+- Jan 02 - [Tallow in plastics – why? (2016)](https://www.impact-solutions.co.uk/tallow-in-plastics/)
 <!--END_SECTION:hn-->
 
 <!--
