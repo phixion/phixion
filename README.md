@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 04 - [Names that decreased in popularity from 2020 to 2021](https://www.ssa.gov/oact/babynames/popularity_decrease.html)
-- Jan 04 - [Announcement: AI generated answers are officially banned here](https://english.meta.stackexchange.com/questions/15500/announcement-ai-generated-answers-are-officially-banned-here)
-- Jan 04 - [The MOS 6502 is (mostly) Turing-complete without registers](http://oldvcr.blogspot.com/2023/01/the-mos-6502-is-mostly-turing-complete.html)
-- Jan 04 - [BusyBox 1.36.0](https://busybox.net/)
-- Jan 04 - [Tell HN: I just received my Equifax breach settlement check](https://news.ycombinator.com/item?id=34240298)
+- Jan 04 - [QBittorrent v4.5.0: The Hitchhiker's Guide to Legible Text](https://datalars.com/2023/01/03/qbittorrent-v450-the-hitchhikers-guide-to-legible-text-2/)
+- Jan 04 - [Ruby 3.2.0 Is from Another Dimension](https://tomaszs2.medium.com/ruby-3-2-0-is-from-another-dimension-5249e3186ec9)
+- Jan 04 - [Fun, danger, and 70s airplane toys](https://whyisthisinteresting.substack.com/p/the-worlds-most-dangerous-toy-edition)
+- Jan 04 - [A brief rant on converging compliance regimes](https://lethain.com/compliance-regime-convergance/)
+- Jan 04 - [Show HN: Ov – feature rich terminal pager](https://github.com/noborus/ov)
 <!--END_SECTION:hn-->
 
 <!--
