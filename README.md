@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 04 - [QBittorrent v4.5.0: The Hitchhiker's Guide to Legible Text](https://datalars.com/2023/01/03/qbittorrent-v450-the-hitchhikers-guide-to-legible-text-2/)
-- Jan 04 - [Ruby 3.2.0 Is from Another Dimension](https://tomaszs2.medium.com/ruby-3-2-0-is-from-another-dimension-5249e3186ec9)
-- Jan 04 - [Fun, danger, and 70s airplane toys](https://whyisthisinteresting.substack.com/p/the-worlds-most-dangerous-toy-edition)
-- Jan 04 - [A brief rant on converging compliance regimes](https://lethain.com/compliance-regime-convergance/)
-- Jan 04 - [Show HN: Ov – feature rich terminal pager](https://github.com/noborus/ov)
+- Jan 04 - [Global Spyware Scandal: Exposing Pegasus](https://www.pbs.org/wgbh/frontline/documentary/global-spyware-scandal-exposing-pegasus/)
+- Jan 04 - [Microsoft Workers to Form Company’s First Union in the U.S.](https://www.wsj.com/articles/microsoft-workers-to-form-companys-first-union-in-the-u-s-11672779470)
+- Jan 04 - [MSVC: The Devourer of Const](https://ibob.bg/blog/2023/01/04/msvc-allows-moving-from-const/)
+- Jan 04 - [CLib: Header-only C library that implements the most important classes from GLib](https://github.com/aheck/clib)
+- Jan 04 - [The Expanding Dark Forest and Generative AI](https://maggieappleton.com/ai-dark-forest)
 <!--END_SECTION:hn-->
 
 <!--
