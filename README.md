@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 04 - [Global Spyware Scandal: Exposing Pegasus](https://www.pbs.org/wgbh/frontline/documentary/global-spyware-scandal-exposing-pegasus/)
-- Jan 04 - [Microsoft Workers to Form Company’s First Union in the U.S.](https://www.wsj.com/articles/microsoft-workers-to-form-companys-first-union-in-the-u-s-11672779470)
-- Jan 04 - [MSVC: The Devourer of Const](https://ibob.bg/blog/2023/01/04/msvc-allows-moving-from-const/)
-- Jan 04 - [CLib: Header-only C library that implements the most important classes from GLib](https://github.com/aheck/clib)
-- Jan 04 - [The Expanding Dark Forest and Generative AI](https://maggieappleton.com/ai-dark-forest)
+- Jan 04 - [First public release of Pushup: a new compiler for making web apps in Go](https://github.com/adhocteam/pushup)
+- Jan 04 - [Ask HN: Why Are Programmer Design Tastes So Utilitarian?](https://news.ycombinator.com/item?id=34246340)
+- Jan 04 - [Meta prohibited from using personal data for advertisement](https://noyb.eu/en/breaking-meta-prohibited-use-personal-data-advertisment)
+- Jan 04 - [Juan Tamariz, the godfather of close-up card magic](https://www.nytimes.com/2023/01/02/magazine/juan-tamariz-magic.html)
+- Jan 04 - [The ‘breakthrough’ obesity drugs that have stunned researchers](https://www.nature.com/articles/d41586-022-04505-7)
 <!--END_SECTION:hn-->
 
 <!--
