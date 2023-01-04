@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 03 - [Meta Quest Pro – Bad AR Passthrough](https://kguttag.com/2023/01/03/meta-quest-pro-part-1-unbelievably-bad-ar-passthrough/)
-- Jan 03 - [Equium: Acoustic Heat Pumps](https://www.equium.fr/en/home)
-- Jan 03 - [Migrating from AWS to Fly.io](https://terrateam.io/blog/flying-away-from-aws)
-- Jan 03 - [To build truly intelligent machines, teach them cause and effect (2018)](https://www.quantamagazine.org/to-build-truly-intelligent-machines-teach-them-cause-and-effect-20180515)
-- Jan 03 - [Next-generation Qi2 wireless charging standard embraces Apple's MagSafe](https://www.macrumors.com/2023/01/03/qi2-wireless-charging-standard-gains-magsafe/)
+- Jan 04 - [Names that decreased in popularity from 2020 to 2021](https://www.ssa.gov/oact/babynames/popularity_decrease.html)
+- Jan 04 - [Announcement: AI generated answers are officially banned here](https://english.meta.stackexchange.com/questions/15500/announcement-ai-generated-answers-are-officially-banned-here)
+- Jan 04 - [The MOS 6502 is (mostly) Turing-complete without registers](http://oldvcr.blogspot.com/2023/01/the-mos-6502-is-mostly-turing-complete.html)
+- Jan 04 - [BusyBox 1.36.0](https://busybox.net/)
+- Jan 04 - [Tell HN: I just received my Equifax breach settlement check](https://news.ycombinator.com/item?id=34240298)
 <!--END_SECTION:hn-->
 
 <!--
