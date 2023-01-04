@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 03 - [Long out of math, an AI programmer cracks a pure math problem](https://www.quantamagazine.org/long-out-of-math-an-ai-programmer-cracks-a-pure-math-problem-20230103/)
-- Jan 03 - [Hnefatafl](https://en.wikipedia.org/wiki/Tafl_games)
-- Jan 03 - [Factoring integers with sublinear resources on a quantum processor](https://arxiv.org/abs/2212.12372)
-- Jan 03 - [Arizona inducing the labor of pregnant prisoners against their will](https://www.azcentral.com/story/news/local/arizona/2023/01/02/arizona-inducing-labor-of-pregnant-prisoners-against-their-will/69768038007/)
-- Jan 03 - [Breaking RSA with a quantum computer?](https://www.schneier.com/blog/archives/2023/01/breaking-rsa-with-a-quantum-computer.html)
+- Jan 03 - [Meta Quest Pro – Bad AR Passthrough](https://kguttag.com/2023/01/03/meta-quest-pro-part-1-unbelievably-bad-ar-passthrough/)
+- Jan 03 - [Equium: Acoustic Heat Pumps](https://www.equium.fr/en/home)
+- Jan 03 - [Migrating from AWS to Fly.io](https://terrateam.io/blog/flying-away-from-aws)
+- Jan 03 - [To build truly intelligent machines, teach them cause and effect (2018)](https://www.quantamagazine.org/to-build-truly-intelligent-machines-teach-them-cause-and-effect-20180515)
+- Jan 03 - [Next-generation Qi2 wireless charging standard embraces Apple's MagSafe](https://www.macrumors.com/2023/01/03/qi2-wireless-charging-standard-gains-magsafe/)
 <!--END_SECTION:hn-->
 
 <!--
