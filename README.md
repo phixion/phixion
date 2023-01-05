@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 04 - [Two Surprises in Browser Crashes](https://neugierig.org/software/blog/2023/01/browser-crashes.html)
-- Jan 04 - [Emulating an emulator inside itself. Meet Blink](https://hiro.codes/read/emulating-an-emulator-inside-itself.-meet-blink)
-- Jan 04 - [How do you know when macOS detects and remediates malware?](https://eclecticlight.co/2023/01/04/how-do-you-know-when-macos-detects-and-remediates-malware/)
-- Jan 04 - [What HHS has to say about tracking technologies in latest HIPAA guidance](https://www.freshpaint.io/blog/what-the-latest-hhs-guidance-on-hipaa-means-for-health-tech-companies)
-- Jan 04 - [AutoHotKey V2 (Breaking Upgrade)](https://www.autohotkey.com/v2/)
+- Jan 04 - [Amazon to Lay Off over 17,000 Workers, More Than First Planned](https://www.wsj.com/articles/amazon-to-lay-off-over-17-000-workers-more-than-first-planned-11672874304)
+- Jan 04 - [DragonFly BSD 6.4](https://www.dragonflybsd.org/release64/)
+- Jan 04 - [Newsraft: feed reader with ncurses user interface](https://codeberg.org/grisha/newsraft)
+- Jan 04 - [Why Google and Apple work to snuff out the mobile web](https://toot.cafe/@slightlyoff/109632248664696707)
+- Jan 04 - [Emerge (YC W21) is hiring engineers to build the future of mobile development](https://www.ycombinator.com/companies/emerge-tools/jobs/5Y3MCJi-senior-mobile-engineer-remote)
 <!--END_SECTION:hn-->
 
 <!--
