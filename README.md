@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 05 - [Works entering the public domain this year](https://www.smithsonianmag.com/arts-culture/the-top-ten-works-entering-the-public-domain-2023-180981370/)
-- Jan 05 - [FTC Proposes Banning Noncompete Clauses for Workers](https://www.wsj.com/articles/ftc-proposes-banning-noncompete-clauses-for-workers-11672900586)
-- Jan 05 - [U.S. Moves to Bar Noncompete Agreements in Labor Contracts](https://www.nytimes.com/2023/01/05/business/economy/ftc-noncompete.html)
-- Jan 05 - [Investors conclude that Tesla is a carmaker, not a tech firm](https://www.economist.com/business/2023/01/04/investors-conclude-that-tesla-is-a-carmaker-not-a-tech-firm)
-- Jan 05 - [AMD Announces 7950X3D, 7900X3D Upto 128MB L3 Cache](https://www.anandtech.com/show/18709/amd-unveils-ryzen-9-7950x3d-7900x3d-and-ryzen-7-7800x3d-up-to-128-mb-of-l3-cache-and-5-7-ghz-boost)
+- Jan 05 - [Twilio’s Toll Fraud Problem](https://billychasen.medium.com/twilios-toll-fraud-problem-28b3aef39243)
+- Jan 05 - [Kerbal Space Program Free on Epic](https://store.epicgames.com/en-US/)
+- Jan 05 - [Is it possible for a lunar eclipse to occur before sunset?](https://astronomy.stackexchange.com/questions/51501/is-it-possible-for-a-lunar-eclipse-to-occur-before-sunset)
+- Jan 05 - [LiteSync – Easy synchronization of SQLite databases](https://litesync.io/en/index.html)
+- Jan 05 - [Show HN: ClickHouse-local – a small tool for serverless data analytics](https://clickhouse.com/blog/extracting-converting-querying-local-files-with-sql-clickhouse-local)
 <!--END_SECTION:hn-->
 
 <!--
