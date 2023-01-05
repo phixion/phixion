@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 05 - [How do I draw a pair of buttocks? (2014)](https://mathematica.stackexchange.com/questions/66538/how-do-i-draw-a-pair-of-buttocks)
-- Jan 05 - [AUTOMATIC1111's GitHub Account Suspended For "TOS Violations"](https://github.com/AUTOMATIC1111)
-- Jan 05 - [Slack's private GitHub code repositories stolen over holidays](https://www.bleepingcomputer.com/news/security/slacks-private-github-code-repositories-stolen-over-holidays/)
-- Jan 05 - [Adobe Lightroom uses photos for AI training by default](https://toot.cafe/@baldur/109630505660962387)
-- Jan 05 - [Londoner solves 20k-year Ice Age drawings mystery](https://www.bbc.co.uk/news/uk-england-london-64162799)
+- Jan 05 - [Works entering the public domain this year](https://www.smithsonianmag.com/arts-culture/the-top-ten-works-entering-the-public-domain-2023-180981370/)
+- Jan 05 - [FTC Proposes Banning Noncompete Clauses for Workers](https://www.wsj.com/articles/ftc-proposes-banning-noncompete-clauses-for-workers-11672900586)
+- Jan 05 - [U.S. Moves to Bar Noncompete Agreements in Labor Contracts](https://www.nytimes.com/2023/01/05/business/economy/ftc-noncompete.html)
+- Jan 05 - [Investors conclude that Tesla is a carmaker, not a tech firm](https://www.economist.com/business/2023/01/04/investors-conclude-that-tesla-is-a-carmaker-not-a-tech-firm)
+- Jan 05 - [AMD Announces 7950X3D, 7900X3D Upto 128MB L3 Cache](https://www.anandtech.com/show/18709/amd-unveils-ryzen-9-7950x3d-7900x3d-and-ryzen-7-7800x3d-up-to-128-mb-of-l3-cache-and-5-7-ghz-boost)
 <!--END_SECTION:hn-->
 
 <!--
