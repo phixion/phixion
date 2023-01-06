@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 06 - [Stripe is about to refund €147k worth of payments to my all of my customers](https://news.ycombinator.com/item?id=34271815)
-- Jan 06 - [Bitmovin (YC S15) Is Hiring a Director Product Growth in Vienna](https://bitmovin.com/careers/director-product-growth-6555620002/)
-- Jan 06 - [Wizards of the Coast Trying to Retroactively Cancel OGL 1.0a](https://www.enworld.org/threads/hello-i-am-lawyer-with-a-psa-almost-everyone-is-wrong-about-the-ogl-and-srd-clearing-up-confusion.694192/)
-- Jan 06 - [Swallow Calendar](http://riowang.blogspot.com/2022/11/swallow-calendar.html)
-- Jan 06 - [A practical comparison of build and test speed between C++ and Rust](https://quick-lint-js.com/blog/cpp-vs-rust-build-times/)
+- Jan 06 - [Lago: *Open-Source Usage Based Billing* Is Hiring Sr Ruby Engineers](https://www.ycombinator.com/companies/lago/jobs/RvvzKuM-sr-back-end-ruby-engineer)
+- Jan 06 - [FBI Looking for Hashflare Victims](https://www.fbi.gov/how-we-can-help-you/victim-services/seeking-victim-information/seeking-victims-in-the-hashflare-investigation)
+- Jan 06 - [My bad habit of hoarding information](https://andreisurugiu.com/blog/bad-habit/)
+- Jan 06 - [Carl Hewitt has died [pdf]](http://ee380.stanford.edu/Carl-Hewitt.pdf)
+- Jan 06 - [No, you can’t manufacture that like Apple does (2014)](https://beneinstein.medium.com/no-you-cant-manufacture-that-like-apple-does-93bea02a3bbf)
 <!--END_SECTION:hn-->
 
 <!--
