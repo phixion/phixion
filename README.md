@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 05 - [Caroline Ellison Plea Hearing Transcript (12/19/2022) [pdf]](https://www.johnreedstark.com/wp-content/uploads/sites/180/2022/12/Ellison-Hearing-Transcript.pdf)
-- Jan 05 - [Netflix has job with almost $1M listed salary range, to comply with new CA law](https://jobs.netflix.com/jobs/231753822)
-- Jan 05 - [Google obtains thousands of medical records from the Dept of Defense](https://gcaptain.com/us-navy-opens-medical-vault-for-google/)
-- Jan 05 - [On the Gnome Project and “My Way or the Highway”](https://theevilskeleton.gitlab.io/2023/01/05/on-the-gnome-project-and-my-way-or-the-highway.html)
-- Jan 05 - [Transcoding Unicode with AVX-512: AMD Zen 4 vs. Intel Ice Lake](https://lemire.me/blog/2023/01/05/transcoding-unicode-with-avx-512-amd-zen-4-vs-intel-ice-lake/)
+- Jan 06 - [The intersection of shadow stacks and CRIU](https://lwn.net/Articles/915728/)
+- Jan 06 - [Tesla finally breaks and offers round steering wheel on Model S/X](https://electrek.co/2023/01/05/tesla-offers-round-steering-wheel-model-s-x/)
+- Jan 06 - [Neural Codec Language Models Are Zero-Shot Text to Speech Synthesizers](https://valle-demo.github.io/)
+- Jan 06 - [Omg.lol – A lovable web page and email address, just for you](https://home.omg.lol)
+- Jan 06 - [Generally Intelligent (YC S17) Is Hiring Simulation Engineers](https://news.ycombinator.com/item?id=34269503)
 <!--END_SECTION:hn-->
 
 <!--
