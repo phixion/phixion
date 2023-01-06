@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 06 - [Lago: *Open-Source Usage Based Billing* Is Hiring Sr Ruby Engineers](https://www.ycombinator.com/companies/lago/jobs/RvvzKuM-sr-back-end-ruby-engineer)
-- Jan 06 - [FBI Looking for Hashflare Victims](https://www.fbi.gov/how-we-can-help-you/victim-services/seeking-victim-information/seeking-victims-in-the-hashflare-investigation)
-- Jan 06 - [My bad habit of hoarding information](https://andreisurugiu.com/blog/bad-habit/)
-- Jan 06 - [Carl Hewitt has died [pdf]](http://ee380.stanford.edu/Carl-Hewitt.pdf)
-- Jan 06 - [No, you can’t manufacture that like Apple does (2014)](https://beneinstein.medium.com/no-you-cant-manufacture-that-like-apple-does-93bea02a3bbf)
+- Jan 06 - [The size of an empire cannot be larger than 1 month of travel from capital](https://unchartedterritories.tomaspueyo.com/p/transportation-tech-shaped-empires)
+- Jan 06 - [Artist banned, told to “find a different style”- AI-made art](https://www.thetechdeviant.com/2023/01/06/artist-banned-told-to-find-a-different-style-since-his-style-is-too-similar-to-ai-made-art/)
+- Jan 06 - [FTC proposes to ban noncompete clauses. Move will help workers, entrepreneurs](https://www.nbcnews.com/business/business-news/ftc-bans-noncompete-clauses-wages-rcna64445)
+- Jan 06 - [Human gene linked to bigger brains was born from seemingly useless DNA](https://www.science.org/content/article/human-gene-linked-bigger-brains-was-born-seemingly-useless-dna)
+- Jan 06 - [Dwarf Fortress has sold half a million copies](http://www.bay12forums.com/smf/index.php?topic=181050.0)
 <!--END_SECTION:hn-->
 
 <!--
