@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 06 - [The intersection of shadow stacks and CRIU](https://lwn.net/Articles/915728/)
-- Jan 06 - [Tesla finally breaks and offers round steering wheel on Model S/X](https://electrek.co/2023/01/05/tesla-offers-round-steering-wheel-model-s-x/)
-- Jan 06 - [Neural Codec Language Models Are Zero-Shot Text to Speech Synthesizers](https://valle-demo.github.io/)
-- Jan 06 - [Omg.lol – A lovable web page and email address, just for you](https://home.omg.lol)
-- Jan 06 - [Generally Intelligent (YC S17) Is Hiring Simulation Engineers](https://news.ycombinator.com/item?id=34269503)
+- Jan 06 - [Stripe is about to refund €147k worth of payments to my all of my customers](https://news.ycombinator.com/item?id=34271815)
+- Jan 06 - [Bitmovin (YC S15) Is Hiring a Director Product Growth in Vienna](https://bitmovin.com/careers/director-product-growth-6555620002/)
+- Jan 06 - [Wizards of the Coast Trying to Retroactively Cancel OGL 1.0a](https://www.enworld.org/threads/hello-i-am-lawyer-with-a-psa-almost-everyone-is-wrong-about-the-ogl-and-srd-clearing-up-confusion.694192/)
+- Jan 06 - [Swallow Calendar](http://riowang.blogspot.com/2022/11/swallow-calendar.html)
+- Jan 06 - [A practical comparison of build and test speed between C++ and Rust](https://quick-lint-js.com/blog/cpp-vs-rust-build-times/)
 <!--END_SECTION:hn-->
 
 <!--
