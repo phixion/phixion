@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 06 - [Artsy Engineering Handbook](https://github.com/artsy/README)
+- Jan 06 - [Less gym time, same results: Why ‘lowering’ weights is all you need to do](https://www.ecu.edu.au/newsroom/articles/research/less-gym-time-same-results-why-lowering-weights-is-all-you-need-to-do)
+- Jan 06 - [Perfect Circle](https://neal.fun/perfect-circle/)
+- Jan 06 - [Why was Roman concrete so durable?](https://news.mit.edu/2023/roman-concrete-durability-lime-casts-0106)
 - Jan 06 - [Coaching engineering managers to take on organizational problems](https://jeffammons.com/2023/01/06/growing-leaders-to-solve-the-hardest-problems/)
-- Jan 06 - [MT-Propeller 11 blade propeller delivers 15% increase in static thrust](https://www.mt-propeller.com/en/entw/about_firsts.htm#11)
-- Jan 06 - [Fourth membrane is discovered in the brain](https://www.science.org/doi/10.1126/science.adc8810)
-- Jan 06 - [Ask HN: How to restore cognition after years of trauma? I feel slow and dumb](https://news.ycombinator.com/item?id=34279527)
-- Jan 06 - [Sunken Greenhouse](https://thetinylife.com/sunken-greenhouse/)
 <!--END_SECTION:hn-->
 
 <!--
