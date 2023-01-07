@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 07 - [Svix (YC W21) Is Hiring (Remote) – Enterprise-Ready Webhook Service](https://www.svix.com/careers/)
-- Jan 07 - [Demanding polished work is a power play designed to take options away from you](https://minimal.app/qo16ayjm)
-- Jan 07 - [GoDaddy Rant:(](https://news.ycombinator.com/item?id=34287199)
-- Jan 07 - [Asking ChatGPT to write my security-sensitive code for me](https://mjg59.dreamwidth.org/64090.html)
-- Jan 07 - [The beauty of CGI and simple design](https://rubenerd.com/the-beauty-of-cgi-and-simple-design-by-hales/)
+- Jan 07 - [Low nutritional quality in vegetarian meat](https://www.chalmers.se/en/departments/bio/news/Pages/Low-nutritional-quality-in-vegetarian-meat-.aspx)
+- Jan 07 - [Guitar Effects Guidebook, Vol. 20 [pdf]](https://static.roland.com/assets/media/pdf/guitar_effects_guidebook_vol_20.pdf)
+- Jan 07 - [I've realized I'm a bad software developer](https://gaylelaakmann.substack.com/p/ive-realized-im-a-bad-software-developer)
+- Jan 07 - [Rsync.net warrant canary](https://www.rsync.net/resources/notices/canary.txt)
+- Jan 07 - [The Rise of Steel – Part I](https://constructionphysics.substack.com/p/the-rise-of-steel-part-i)
 <!--END_SECTION:hn-->
 
 <!--
