@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 07 - [Axiom.ai (YC W21) Is Hiring Customer Success Engineers](https://www.ycombinator.com/companies/axiom-ai/jobs/c57IYuA-customer-success-engineer)
-- Jan 07 - [MacLynx beta 4: now with scrollbars and dialogue boxes](http://oldvcr.blogspot.com/2023/01/maclynx-beta-4-now-with-scrollbars-and.html)
-- Jan 07 - [Devirtualizing nike.com's bot protection](https://www.nullpt.rs/devirtualizing-nike-vm-1)
-- Jan 07 - [The all in one web editor for M68K](https://asm-editor.specy.app/)
-- Jan 07 - [Epochalypse](https://www.epochalypse.today/)
+- Jan 07 - [Svix (YC W21) Is Hiring (Remote) – Enterprise-Ready Webhook Service](https://www.svix.com/careers/)
+- Jan 07 - [Demanding polished work is a power play designed to take options away from you](https://minimal.app/qo16ayjm)
+- Jan 07 - [GoDaddy Rant:(](https://news.ycombinator.com/item?id=34287199)
+- Jan 07 - [Asking ChatGPT to write my security-sensitive code for me](https://mjg59.dreamwidth.org/64090.html)
+- Jan 07 - [The beauty of CGI and simple design](https://rubenerd.com/the-beauty-of-cgi-and-simple-design-by-hales/)
 <!--END_SECTION:hn-->
 
 <!--
