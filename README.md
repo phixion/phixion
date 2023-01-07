@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 07 - [Low nutritional quality in vegetarian meat](https://www.chalmers.se/en/departments/bio/news/Pages/Low-nutritional-quality-in-vegetarian-meat-.aspx)
-- Jan 07 - [Guitar Effects Guidebook, Vol. 20 [pdf]](https://static.roland.com/assets/media/pdf/guitar_effects_guidebook_vol_20.pdf)
-- Jan 07 - [I've realized I'm a bad software developer](https://gaylelaakmann.substack.com/p/ive-realized-im-a-bad-software-developer)
-- Jan 07 - [Rsync.net warrant canary](https://www.rsync.net/resources/notices/canary.txt)
-- Jan 07 - [The Rise of Steel – Part I](https://constructionphysics.substack.com/p/the-rise-of-steel-part-i)
+- Jan 07 - [ChatGPT won’t replace search engines any time soon](https://www.algolia.com/blog/ai/why-chatgpt-wont-replace-search-engines-any-time-soon/)
+- Jan 07 - [Temperatures of 19℃ in Warsaw on 1 Jan 2023, 5.1℃ more than the previous record](https://www.ft.com/content/81af6ef5-e241-4496-ac36-38d3fcfe0956)
+- Jan 07 - [Seattle Public Schools sues TikTok, YouTube, Instagram over youth mental health](https://www.geekwire.com/2023/seattle-public-schools-sues-tiktok-youtube-instagram-and-others-seeking-compensation-for-youth-mental-health-crisis/)
+- Jan 07 - [Lessons learned from three container-management systems over a decade](https://queue.acm.org/detail.cfm?id=2898444)
+- Jan 07 - [Dedicated biomass is not a good idea](https://climateer.substack.com/p/biomass)
 <!--END_SECTION:hn-->
 
 <!--
