@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 08 - [A Lecturer Showed a Painting of the Prophet Muhammad. She Lost Her Job](https://www.nytimes.com/2023/01/08/us/hamline-university-islam-prophet-muhammad.html)
-- Jan 08 - [How Organisms Come to Know the World: Fundamental Limits on AGI](https://www.frontiersin.org/articles/10.3389/fevo.2021.806283/full)
-- Jan 08 - [The DIY Scientist, the Olympian, and the Mutated Gene (2016)](https://www.propublica.org/article/muscular-dystrophy-patient-olympic-medalist-same-genetic-mutation)
-- Jan 08 - [Disruptive effects on the lips of horn players seated too close to the timpani](https://newt.phys.unsw.edu.au/jw/timpani-horn/timpani-horn.html)
-- Jan 08 - [OOP in C](http://staff.washington.edu/gmobus/Academics/TCES202/Moodle/OO-ProgrammingInC.html)
+- Jan 08 - [Why Website Accessibility Is Important for Your Business](https://www.fractalmax.agency/post/why-website-accessibility-is-important-for-your-business)
+- Jan 08 - [Atlas of oblique maps: A collection of landform portrayals of areas of the world](https://pubs.er.usgs.gov/publication/i1799)
+- Jan 08 - [Universe 25, 1968–1973](https://www.the-scientist.com/foundations/universe-25-1968-1973-69941)
+- Jan 08 - [Shorting Tether for Fun and Profit](https://fakemoneynews.substack.com/p/shorting-tether-for-fun-and-profit)
+- Jan 08 - [It's Plausible, but Is It True?](https://www.atomic14.com/2023/01/08/prioritising-plausability-over-truthfullness.html)
 <!--END_SECTION:hn-->
 
 <!--
