@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 08 - [Tilck – A Tiny Linux-Compatible Kernel](https://github.com/vvaltchev/tilck)
+- Jan 08 - [Challenges with capturing and storing rainwater for drought in California](https://www.npr.org/2023/01/07/1147494521/california-weather-storm-water)
+- Jan 08 - [Tell HN: Maarten van Emden died on January 4, 2023](https://news.ycombinator.com/item?id=34294817)
+- Jan 07 - [Will You Help Me Repair My Door [video]](https://www.youtube.com/watch?v=oponIfu5L3Y)
 - Jan 07 - [Testing Without Mocks: A Pattern Language](https://www.jamesshore.com/v2/projects/testing-without-mocks/testing-without-mocks)
-- Jan 07 - [College that fired prof for showing image of Muhammad could lose accreditation](https://reason.com/2023/01/05/a-college-fired-a-professor-for-showing-a-painting-of-muhammad-now-it-could-lose-its-accreditation/)
-- Jan 07 - [The i3-gaps project has been merged with i3](https://github.com/Airblader/i3)
-- Jan 07 - [Jailbroken iOS can't run macOS apps – I spent a week to find out why (2021)](https://worthdoingbadly.com/macappsios/)
-- Jan 07 - [Why does private equity get to play make-believe with prices?](https://www.institutionalinvestor.com/article/b1h9csrci656v4/Why-Does-Private-Equity-Get-to-Play-Make-Believe-With-Prices)
 <!--END_SECTION:hn-->
 
 <!--
