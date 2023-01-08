@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 08 - [Tilck – A Tiny Linux-Compatible Kernel](https://github.com/vvaltchev/tilck)
-- Jan 08 - [Challenges with capturing and storing rainwater for drought in California](https://www.npr.org/2023/01/07/1147494521/california-weather-storm-water)
-- Jan 08 - [Tell HN: Maarten van Emden died on January 4, 2023](https://news.ycombinator.com/item?id=34294817)
-- Jan 07 - [Will You Help Me Repair My Door [video]](https://www.youtube.com/watch?v=oponIfu5L3Y)
-- Jan 07 - [Testing Without Mocks: A Pattern Language](https://www.jamesshore.com/v2/projects/testing-without-mocks/testing-without-mocks)
+- Jan 08 - [PhotoRoom Is Hiring a Fullstack API Developer (OpenAPI, Python, React) in Paris](https://jobs.lever.co/photoroom/29260c53-a84f-4d4f-a322-3bdc8540cdb7?lever-origin=applied&lever-source%5B%5D=yc)
+- Jan 08 - [Delphi VCL and FMX Libraries for Python](https://www.embarcadero.com/delphi-libraries-for-python)
+- Jan 08 - [Apple Docs: to save it as a file you need to email it to yourself](https://support.apple.com/en-us/HT211657)
+- Jan 08 - [Ask HN: Plans for Weathering the Tech Recession?](https://news.ycombinator.com/item?id=34296393)
+- Jan 08 - [Cheap, sustainable hydrogen through solar power](https://news.umich.edu/cheap-sustainable-hydrogen-through-solar-power/)
 <!--END_SECTION:hn-->
 
 <!--
