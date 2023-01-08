@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 08 - [Why Website Accessibility Is Important for Your Business](https://www.fractalmax.agency/post/why-website-accessibility-is-important-for-your-business)
-- Jan 08 - [Atlas of oblique maps: A collection of landform portrayals of areas of the world](https://pubs.er.usgs.gov/publication/i1799)
-- Jan 08 - [Universe 25, 1968–1973](https://www.the-scientist.com/foundations/universe-25-1968-1973-69941)
-- Jan 08 - [Shorting Tether for Fun and Profit](https://fakemoneynews.substack.com/p/shorting-tether-for-fun-and-profit)
-- Jan 08 - [It's Plausible, but Is It True?](https://www.atomic14.com/2023/01/08/prioritising-plausability-over-truthfullness.html)
+- Jan 08 - [Could an electrical pandemic destroy shipping?](https://gcaptain.com/could-an-electrical-pandemic-destroy-shipping/)
+- Jan 08 - [Where are my Git UI features from the future?](https://blog.waleedkhan.name/git-ui-features/)
+- Jan 08 - [Rails authentication from scratch](https://stevepolito.design/blog/rails-authentication-from-scratch/)
+- Jan 08 - [Teaching notes, slides, and handouts using org-mode and LaTeX (2021)](https://www.colinmclear.net/posts/teaching-notes/)
+- Jan 08 - [Linux Touchpad like MacBook Update: 2022 progress and new poll](https://www.gitclear.com/blog/linux_touchpad_update_january_2023)
 <!--END_SECTION:hn-->
 
 <!--
