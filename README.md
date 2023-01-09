@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 08 - [Could an electrical pandemic destroy shipping?](https://gcaptain.com/could-an-electrical-pandemic-destroy-shipping/)
-- Jan 08 - [Where are my Git UI features from the future?](https://blog.waleedkhan.name/git-ui-features/)
-- Jan 08 - [Rails authentication from scratch](https://stevepolito.design/blog/rails-authentication-from-scratch/)
-- Jan 08 - [Teaching notes, slides, and handouts using org-mode and LaTeX (2021)](https://www.colinmclear.net/posts/teaching-notes/)
-- Jan 08 - [Linux Touchpad like MacBook Update: 2022 progress and new poll](https://www.gitclear.com/blog/linux_touchpad_update_january_2023)
+- Jan 09 - [1998 Furby source code](https://archive.org/details/furby-source)
+- Jan 08 - [Alan Kay on “Should web browsers have stuck to being document viewers?” and ...](https://donhopkins.medium.com/alan-kay-on-should-web-browsers-have-stuck-to-being-document-viewers-and-a-discussion-of-news-5cb92c7b3445)
+- Jan 08 - [The Time when Safari was released to the world](https://donmelton.com/2013/01/10/safari-is-released-to-the-world/)
+- Jan 08 - [Unbricking a Bios-Bricked Motherboard](https://davidesnotes.com/shorts/1/)
+- Jan 08 - [CDC File Transfer](https://github.com/google/cdc-file-transfer)
 <!--END_SECTION:hn-->
 
 <!--
