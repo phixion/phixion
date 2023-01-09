@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 09 - [Gail.com FAQ](https://gail.com/)
+- Jan 09 - [TouchEn nxKey: The keylogging anti-keylogger solution](https://palant.info/2023/01/09/touchen-nxkey-the-keylogging-anti-keylogger-solution/)
+- Jan 09 - [Reverse Engineering TikTok's VM Obfuscation (Part 2)](https://ibiyemiabiodun.com/projects/reversing-tiktok-pt2/)
+- Jan 09 - [My mom left behind some number code](https://puzzling.stackexchange.com/questions/119277/my-dead-mom-left-behind-some-number-code)
 - Jan 09 - [Wolf 1069B: Earth-mass planet in the habitable zone of a nearby, low-mass star](https://arxiv.org/abs/2301.02477)
-- Jan 09 - [Extreme questions to trigger new, better ideas](https://longform.asmartbear.com/posts/extreme-questions/)
-- Jan 09 - [Walker’s Manly Exercises](https://blogs.bl.uk/untoldlives/2023/01/walkers-manly-exercises.html)
-- Jan 09 - [Deere to Allow Farmers to Repair Their Own Equipment](https://www.wsj.com/articles/deere-to-allow-farmers-to-repair-their-own-equipment-11673228580)
-- Jan 09 - [Reintroducing bison on tallgrass prairie doubles plant diversity: research](https://www.agriculture.com/news/business/kansas-research-shows-reintroducing-bison-on-tallgrass-prairie-doubles-plant-diversity)
 <!--END_SECTION:hn-->
 
 <!--
