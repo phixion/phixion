@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 09 - [1998 Furby source code](https://archive.org/details/furby-source)
-- Jan 08 - [Alan Kay on “Should web browsers have stuck to being document viewers?” and ...](https://donhopkins.medium.com/alan-kay-on-should-web-browsers-have-stuck-to-being-document-viewers-and-a-discussion-of-news-5cb92c7b3445)
-- Jan 08 - [The Time when Safari was released to the world](https://donmelton.com/2013/01/10/safari-is-released-to-the-world/)
-- Jan 08 - [Unbricking a Bios-Bricked Motherboard](https://davidesnotes.com/shorts/1/)
-- Jan 08 - [CDC File Transfer](https://github.com/google/cdc-file-transfer)
+- Jan 09 - [Wolf 1069B: Earth-mass planet in the habitable zone of a nearby, low-mass star](https://arxiv.org/abs/2301.02477)
+- Jan 09 - [Extreme questions to trigger new, better ideas](https://longform.asmartbear.com/posts/extreme-questions/)
+- Jan 09 - [Walker’s Manly Exercises](https://blogs.bl.uk/untoldlives/2023/01/walkers-manly-exercises.html)
+- Jan 09 - [Deere to Allow Farmers to Repair Their Own Equipment](https://www.wsj.com/articles/deere-to-allow-farmers-to-repair-their-own-equipment-11673228580)
+- Jan 09 - [Reintroducing bison on tallgrass prairie doubles plant diversity: research](https://www.agriculture.com/news/business/kansas-research-shows-reintroducing-bison-on-tallgrass-prairie-doubles-plant-diversity)
 <!--END_SECTION:hn-->
 
 <!--
