@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 09 - [Gail.com FAQ](https://gail.com/)
-- Jan 09 - [TouchEn nxKey: The keylogging anti-keylogger solution](https://palant.info/2023/01/09/touchen-nxkey-the-keylogging-anti-keylogger-solution/)
-- Jan 09 - [Reverse Engineering TikTok's VM Obfuscation (Part 2)](https://ibiyemiabiodun.com/projects/reversing-tiktok-pt2/)
-- Jan 09 - [My mom left behind some number code](https://puzzling.stackexchange.com/questions/119277/my-dead-mom-left-behind-some-number-code)
-- Jan 09 - [Wolf 1069B: Earth-mass planet in the habitable zone of a nearby, low-mass star](https://arxiv.org/abs/2301.02477)
+- Jan 09 - [Microsoft’s new text-to-speech model can duplicate anyone's voice in 3 seconds](https://mpost.io/vall-e-microsofts-new-zero-shot-text-to-speech-model-can-duplicate-everyones-voice-in-three-seconds/)
+- Jan 09 - [Cooking on gas could be behind kids' asthma symptoms](https://nltimes.nl/2023/01/09/cooking-gas-behind-70000-kids-asthma-symptoms)
+- Jan 09 - [Vim: ZZ and zz: Do you know the difference?](https://www.programmerhat.com/vim-zz/)
+- Jan 09 - [Raspberry Pi Camera Module 3 released](https://www.raspberrypi.com/news/new-autofocus-camera-modules/)
+- Jan 09 - [GPT Takes the Bar Exam](https://github.com/mjbommar/gpt-takes-the-bar-exam)
 <!--END_SECTION:hn-->
 
 <!--
