@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 09 - [Cloud Native Diary #4 – Java, OpenTelemetry, Carvel](https://www.thomasvitale.com/cloud-native-diary-4/)
-- Jan 09 - [Steam hits 10M concurrent in-game players in record-breaking weekend](https://www.theverge.com/2023/1/9/23546139/steam-10-million-concurrent-players-record-breaking-valve-gaming)
-- Jan 09 - [Fake it until you automate it](https://understandlegacycode.com/blog/fake-it-until-you-automate-it/)
-- Jan 09 - [Logging Practices I Follow](https://www.16elt.com/2023/01/06/logging-practices-I-follow/)
-- Jan 09 - [Mind Your Own Business Act of 2021](https://www.congress.gov/bill/117th-congress/senate-bill/1444)
+- Jan 09 - [Three Lessons from Threema: Analysis of a Secure Messenger](https://breakingthe3ma.app/)
+- Jan 09 - [An Open Letter on the Open Gaming License, to Wizards of the Coast](https://www.opendnd.games)
+- Jan 09 - [Raspberry Pi's Camera Module 3 adds autofocus and new Sony sensor](https://www.jeffgeerling.com/blog/2023/raspberry-pis-camera-module-3-adds-autofocus-and-new-sony-sensor)
+- Jan 09 - [We're wasting money by only supporting gzip for raw DNA files](http://www.bioinformaticszen.com/post/use-zstd-for-raw-fastq/)
+- Jan 09 - [Dilution of expertise in the rise and fall of collective innovation](https://www.nature.com/articles/s41599-022-01380-5)
 <!--END_SECTION:hn-->
 
 <!--
