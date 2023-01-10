@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 09 - [Three Lessons from Threema: Analysis of a Secure Messenger](https://breakingthe3ma.app/)
-- Jan 09 - [An Open Letter on the Open Gaming License, to Wizards of the Coast](https://www.opendnd.games)
-- Jan 09 - [Raspberry Pi's Camera Module 3 adds autofocus and new Sony sensor](https://www.jeffgeerling.com/blog/2023/raspberry-pis-camera-module-3-adds-autofocus-and-new-sony-sensor)
-- Jan 09 - [We're wasting money by only supporting gzip for raw DNA files](http://www.bioinformaticszen.com/post/use-zstd-for-raw-fastq/)
-- Jan 09 - [Dilution of expertise in the rise and fall of collective innovation](https://www.nature.com/articles/s41599-022-01380-5)
+- Jan 09 - [A college student made an app to detect AI-written text](https://www.npr.org/2023/01/09/1147549845/gptzero-ai-chatgpt-edward-tian-plagiarism)
+- Jan 09 - [The first time I'm aware that Meta is taking back signed, FTE offers](https://twitter.com/gergelyorosz/status/1612565777407938560)
+- Jan 09 - [Just: A Command Runner](https://github.com/casey/just)
+- Jan 09 - [Tomu – A family of devices which fit inside your USB port](https://tomu.im/)
+- Jan 09 - [3D in CSS](https://garden.bradwoods.io/notes/css/3d)
 <!--END_SECTION:hn-->
 
 <!--
