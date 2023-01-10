@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 09 - [A college student made an app to detect AI-written text](https://www.npr.org/2023/01/09/1147549845/gptzero-ai-chatgpt-edward-tian-plagiarism)
-- Jan 09 - [The first time I'm aware that Meta is taking back signed, FTE offers](https://twitter.com/gergelyorosz/status/1612565777407938560)
-- Jan 09 - [Just: A Command Runner](https://github.com/casey/just)
-- Jan 09 - [Tomu – A family of devices which fit inside your USB port](https://tomu.im/)
-- Jan 09 - [3D in CSS](https://garden.bradwoods.io/notes/css/3d)
+- Jan 10 - [Can GPT Pass the Bar Exam?](https://matthewminer.name/blog/can-ai-pass-the-bar-exam)
+- Jan 10 - [Microsoft eyes $10B bet on ChatGPT](https://www.semafor.com/article/01/09/2023/microsoft-eyes-10-billion-bet-on-chatgpt)
+- Jan 10 - [VanadiumOS: Portable, multi-user Unix-like OS](https://github.com/p-durlej/newsys)
+- Jan 10 - [Interactive California Reservoir Levels Dashboard](https://engaging-data.com/ca-reservoir-dashboard/)
+- Jan 10 - [Old man yells at cloud](https://www.jonandnic.com/2023/01/08/old-man-yells-at-cloud/)
 <!--END_SECTION:hn-->
 
 <!--
