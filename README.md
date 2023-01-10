@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 10 - [PolicyFly (YC W22) Is Hiring an EM to Lead Our Solutions Team](https://www.ycombinator.com/companies/policyfly/jobs/aY0a0gg-engineering-manager-solutions)
-- Jan 10 - [Coinbase cuts staff by a further 25%](https://www.coinbase.com/blog/a-message-from-ceo-and-co-founder-brian-armstrong-to-coinbase-employees)
-- Jan 10 - [Faster PostgresSQL to BigQuery Tranfers](https://tech.marksblogg.com/postgresql-to-bigquery.html)
-- Jan 10 - [Show HN: Python framework is faster than Golang Fiber](https://github.com/cirospaciari/socketify.py)
-- Jan 10 - [Ask HN: Other Devs, How Do You Deal with Socials, Blogging, etc.](https://news.ycombinator.com/item?id=34322610)
+- Jan 10 - [Learn Lisp the Hard Way](https://llthw.common-lisp.dev/)
+- Jan 10 - [Fewer than 40% of New Yorkers earn a living wage](https://news.cornell.edu/stories/2023/01/fewer-40-new-yorkers-earn-living-wage)
+- Jan 10 - [‘Films are vulnerable’: the battle to preserve Eastern Europe’s analogue movies](https://www.calvertjournal.com/features/show/13454/films-are-vulnerable-the-battle-to-preserve-eastern-europes-films)
+- Jan 10 - [Tech Companies Are Irrational Pop Cultures](https://softwarecrisis.dev/letters/tech-is-a-pop-culture/)
+- Jan 10 - [Taking over a Dead IoT Company](https://blog.kchung.co/taking-over-a-dead-iot-company/)
 <!--END_SECTION:hn-->
 
 <!--
