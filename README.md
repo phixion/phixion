@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 10 - [Learn Lisp the Hard Way](https://llthw.common-lisp.dev/)
-- Jan 10 - [Fewer than 40% of New Yorkers earn a living wage](https://news.cornell.edu/stories/2023/01/fewer-40-new-yorkers-earn-living-wage)
-- Jan 10 - [‘Films are vulnerable’: the battle to preserve Eastern Europe’s analogue movies](https://www.calvertjournal.com/features/show/13454/films-are-vulnerable-the-battle-to-preserve-eastern-europes-films)
-- Jan 10 - [Tech Companies Are Irrational Pop Cultures](https://softwarecrisis.dev/letters/tech-is-a-pop-culture/)
-- Jan 10 - [Taking over a Dead IoT Company](https://blog.kchung.co/taking-over-a-dead-iot-company/)
+- Jan 10 - [Pirate Weather: A Free, Open, and Documented Forecast API](https://pirateweather.net/)
+- Jan 10 - [Ask HN: What do you talk about in 1-on-1s with your managers?](https://news.ycombinator.com/item?id=34329351)
+- Jan 10 - [Ask HN: At 45, I can't seem to read as well anymore](https://news.ycombinator.com/item?id=34329349)
+- Jan 10 - [8086 Processor's microcode pipeline from die analysis](https://www.righto.com/2023/01/the-8086-processors-microcode-pipeline.html)
+- Jan 10 - [X Window System Basics](https://magcius.github.io/xplain/article/x-basics.html)
 <!--END_SECTION:hn-->
 
 <!--
