@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 11 - [What Happens When a CPU Starts](https://lateblt.tripod.com/bit68.txt)
+- Jan 11 - [HTML with Superpowers: An Introduction to Web Components](https://htmlwithsuperpowers.netlify.app/)
+- Jan 10 - [Crypto.com will delist Tether in Canada](https://decrypt.co/118812/crypto-com-delist-tether-canada)
+- Jan 10 - [Show HN: usbc.wtf – an article and quiz to find the right USB-C cable](https://usbc.wtf/)
 - Jan 10 - [The Remarkable Emptiness of Existence](https://nautil.us/the-remarkable-emptiness-of-existence-256323/)
-- Jan 10 - [In Lebanon, solar power is booming](https://www.sapiens.org/culture/lebanon-solar-power/)
-- Jan 10 - [Zoom app dock: Congratulations, your app has apps in it now](https://newsletter.danhon.com/archive/s14e06-congratulations-your-app-has-apps-in-it-now/)
-- Jan 10 - [NeevaAI](https://neeva.com/blog/introducing-neevaai)
-- Jan 10 - [Researchers identify protein that helps skin cancer spread](https://www.qmul.ac.uk/media/news/2022/smd/researchers-identify-protein-that-helps-skin-cancer-spread-throughout-the-body.html)
 <!--END_SECTION:hn-->
 
 <!--
