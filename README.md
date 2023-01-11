@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 11 - [FAA NOTAM System Outage Affecting All North America Flights](https://www.fly.faa.gov/adv/adv_otherdis.jsp?advn=13&adv_date=01112023&facId=DCC&title=NOTAM+SYSTEM+EQUIPMENT+OUTAGE_FYI&titleDate=01/11/23)
-- Jan 11 - [Don't use Tailwind for your Design System (March  2021)](https://sancho.dev/blog/tailwind-and-design-systems)
-- Jan 11 - [Naming Elixir Phoenix context functions](https://www.stephenlewis.me/blog/naming-phoenix-context-functions)
-- Jan 11 - [NanoGPT](https://github.com/karpathy/nanoGPT)
-- Jan 11 - [The Computer Science Book (2020)](https://thecomputersciencebook.com/book/)
+- Jan 11 - [RISC-V SBC VisionFive 2 Officially Shipped](https://www.starfivetech.com/en/site/new_details/976)
+- Jan 11 - [Why are there so many tech layoffs, and why should we be worried?](https://news.stanford.edu/2022/12/05/explains-recent-tech-layoffs-worried/)
+- Jan 11 - [We need a lot more electricians if we’re going to electrify everything](https://www.canarymedia.com/articles/clean-energy-jobs/we-need-a-lot-more-electricians-if-were-going-to-electrify-everything)
+- Jan 11 - [Guerrilla guide to CNC machining, mold making, and resin casting (2015)](https://lcamtuf.coredump.cx/gcnc/)
+- Jan 11 - [Launch HN: IcePanel (YC W23) – Onboard engineers with explorable system designs](https://news.ycombinator.com/item?id=34338995)
 <!--END_SECTION:hn-->
 
 <!--
