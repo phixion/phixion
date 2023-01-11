@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 11 - [What Happens When a CPU Starts](https://lateblt.tripod.com/bit68.txt)
-- Jan 11 - [HTML with Superpowers: An Introduction to Web Components](https://htmlwithsuperpowers.netlify.app/)
-- Jan 10 - [Crypto.com will delist Tether in Canada](https://decrypt.co/118812/crypto-com-delist-tether-canada)
-- Jan 10 - [Show HN: usbc.wtf – an article and quiz to find the right USB-C cable](https://usbc.wtf/)
-- Jan 10 - [The Remarkable Emptiness of Existence](https://nautil.us/the-remarkable-emptiness-of-existence-256323/)
+- Jan 11 - [The Future Dominance of Solar and Wind Energy](https://industrydecarbonization.com/news/the-future-dominance-of-solar-and-wind-energy.html)
+- Jan 11 - [The Unexpected Heaviosity of Ferris Bueller’s Day Off (2006)](https://www.vqronline.org/essay/john-hughes-goes-deep-unexpected-heaviosity-ferris-bueller%E2%80%99s-day)
+- Jan 11 - [Actiondesk (YC S19) Is Hiring a Product Designer (4-6 months contract)](https://www.ycombinator.com/companies/actiondesk/jobs/LggjAvL-product-designer-4-6-months-contract)
+- Jan 11 - [Secondments at Zapier](https://zapier.com/blog/secondments-at-zapier/)
+- Jan 11 - [What’s better than maps or stamps? Maps on stamps](https://bigthink.com/strange-maps/maps-on-stamps/)
 <!--END_SECTION:hn-->
 
 <!--
