@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 10 - [Pirate Weather: A Free, Open, and Documented Forecast API](https://pirateweather.net/)
-- Jan 10 - [Ask HN: What do you talk about in 1-on-1s with your managers?](https://news.ycombinator.com/item?id=34329351)
-- Jan 10 - [Ask HN: At 45, I can't seem to read as well anymore](https://news.ycombinator.com/item?id=34329349)
-- Jan 10 - [8086 Processor's microcode pipeline from die analysis](https://www.righto.com/2023/01/the-8086-processors-microcode-pipeline.html)
-- Jan 10 - [X Window System Basics](https://magcius.github.io/xplain/article/x-basics.html)
+- Jan 10 - [The Remarkable Emptiness of Existence](https://nautil.us/the-remarkable-emptiness-of-existence-256323/)
+- Jan 10 - [In Lebanon, solar power is booming](https://www.sapiens.org/culture/lebanon-solar-power/)
+- Jan 10 - [Zoom app dock: Congratulations, your app has apps in it now](https://newsletter.danhon.com/archive/s14e06-congratulations-your-app-has-apps-in-it-now/)
+- Jan 10 - [NeevaAI](https://neeva.com/blog/introducing-neevaai)
+- Jan 10 - [Researchers identify protein that helps skin cancer spread](https://www.qmul.ac.uk/media/news/2022/smd/researchers-identify-protein-that-helps-skin-cancer-spread-throughout-the-body.html)
 <!--END_SECTION:hn-->
 
 <!--
