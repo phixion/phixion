@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 11 - [RISC-V SBC VisionFive 2 Officially Shipped](https://www.starfivetech.com/en/site/new_details/976)
-- Jan 11 - [Why are there so many tech layoffs, and why should we be worried?](https://news.stanford.edu/2022/12/05/explains-recent-tech-layoffs-worried/)
-- Jan 11 - [We need a lot more electricians if we’re going to electrify everything](https://www.canarymedia.com/articles/clean-energy-jobs/we-need-a-lot-more-electricians-if-were-going-to-electrify-everything)
-- Jan 11 - [Guerrilla guide to CNC machining, mold making, and resin casting (2015)](https://lcamtuf.coredump.cx/gcnc/)
-- Jan 11 - [Launch HN: IcePanel (YC W23) – Onboard engineers with explorable system designs](https://news.ycombinator.com/item?id=34338995)
+- Jan 11 - [The Spaceballs Argument for Unconditional Basic Income](https://www.scottsantens.com/the-spaceballs-argument-for-unconditional-universal-basic-income-ubi/)
+- Jan 11 - [CNCF accepts Kubescape as its first security and compliance scanner project](https://www.sdxcentral.com/articles/interview/cncf-accepts-kubescape-as-inaugural-open-source-security-scanner/2023/01/)
+- Jan 11 - [Show HN: Val Town – A Cloud Scripting Site](https://www.val.town/)
+- Jan 11 - [Market Annealing: Getting to $10M ARR in Early Markets](https://a16z.com/2023/01/11/market-annealing/)
+- Jan 11 - [Why Use Make (2013)](https://bost.ocks.org/mike/make/)
 <!--END_SECTION:hn-->
 
 <!--
