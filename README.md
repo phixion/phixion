@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 12 - [Great Question (YC W21) Is Hiring B2B Account Executives](https://greatquestion.co/jobs/account-executive)
-- Jan 12 - [Europe’s largest deposit of rare earth metals is located in the Kiruna area](https://lkab.com/en/press/europes-largest-deposit-of-rare-earth-metals-is-located-in-the-kiruna-area/)
-- Jan 12 - [Europe's largest deposit of rare earth metals discovered in Sweden](https://news.cision.com/lkab/r/europe-s-largest-deposit-of-rare-earth-metals-is-located-in-the-kiruna-area,c3696152)
-- Jan 12 - [The curious Soviet mini-sub of South Alabama](https://laststandonzombieisland.com/2018/11/24/the-curious-soviet-mini-sub-of-south-alabama/)
-- Jan 12 - [The YAML Document from Hell](https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell)
+- Jan 12 - [Eggs are 60% more expensive than last year in the US](https://www.semafor.com/article/01/12/2023/eggs-are-60-more-expensive-than-last-year-in-the-us)
+- Jan 12 - [Ask HN: Why it is hard for US to move to metric system?](https://news.ycombinator.com/item?id=34354657)
+- Jan 12 - [Medium Embraces Mastodon](https://blog.medium.com/medium-embraces-mastodon-19dcb873eb11)
+- Jan 12 - [Grayscale on 1-bit LCDs (2022)](https://www.zephray.me/post/grayscale_lcd/)
+- Jan 12 - [Show HN: New GraphQL API for WordPress (1.5 years of development, 16000 commits)](https://github.com/leoloso/PoP/releases/tag/0.9.3)
 <!--END_SECTION:hn-->
 
 <!--
