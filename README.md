@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 11 - [The Spaceballs Argument for Unconditional Basic Income](https://www.scottsantens.com/the-spaceballs-argument-for-unconditional-universal-basic-income-ubi/)
-- Jan 11 - [CNCF accepts Kubescape as its first security and compliance scanner project](https://www.sdxcentral.com/articles/interview/cncf-accepts-kubescape-as-inaugural-open-source-security-scanner/2023/01/)
-- Jan 11 - [Show HN: Val Town – A Cloud Scripting Site](https://www.val.town/)
-- Jan 11 - [Market Annealing: Getting to $10M ARR in Early Markets](https://a16z.com/2023/01/11/market-annealing/)
-- Jan 11 - [Why Use Make (2013)](https://bost.ocks.org/mike/make/)
+- Jan 11 - [Verily (an Google/Alphabet Bet) eliminates off 15% of it's staff](https://verily.com/blog/one-verily-forward/)
+- Jan 11 - [CTEs as Lookup Tables](https://misfra.me/2023/ctes-as-lookup-tables/)
+- Jan 11 - [Etleap (YC W13) Is Hiring – Software Engineer (London)](https://etleap.com/careers/software-engineer/)
+- Jan 11 - [How many AMD RX 7900 XTX's are defective?](https://www.jeffgeerling.com/blog/2023/how-many-amd-rx-7900-xtxs-are-defective)
+- Jan 11 - [Marshall McLuhan Explain[s] the Future of Ads and the Internet in 1966](https://paleofuture.com/blog/2023/1/11/marshall-mcluhan-on-the-future-of-ads-and-the-internet)
 <!--END_SECTION:hn-->
 
 <!--
