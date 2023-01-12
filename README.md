@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 11 - [Verily (an Google/Alphabet Bet) eliminates off 15% of it's staff](https://verily.com/blog/one-verily-forward/)
-- Jan 11 - [CTEs as Lookup Tables](https://misfra.me/2023/ctes-as-lookup-tables/)
-- Jan 11 - [Etleap (YC W13) Is Hiring – Software Engineer (London)](https://etleap.com/careers/software-engineer/)
-- Jan 11 - [How many AMD RX 7900 XTX's are defective?](https://www.jeffgeerling.com/blog/2023/how-many-amd-rx-7900-xtxs-are-defective)
-- Jan 11 - [Marshall McLuhan Explain[s] the Future of Ads and the Internet in 1966](https://paleofuture.com/blog/2023/1/11/marshall-mcluhan-on-the-future-of-ads-and-the-internet)
+- Jan 12 - [The Systematic Valley](https://philosophyinhell.substack.com/p/the-systematic-valley)
+- Jan 12 - [The energy crisis and Europe’s astonishing luck](https://www.economist.com/finance-and-economics/2023/01/11/the-energy-crisis-and-europes-astonishing-luck)
+- Jan 11 - [CTEs as lookup tables](https://misfra.me/2023/ctes-as-lookup-tables/)
+- Jan 11 - [Setting the TZ environment variable avoids thousands of system calls (2017)](https://blog.packagecloud.io/set-environment-variable-save-thousands-of-system-calls/)
+- Jan 11 - [Etleap (YC W13) is hiring a software engineer (London)](https://etleap.com/careers/software-engineer/)
 <!--END_SECTION:hn-->
 
 <!--
