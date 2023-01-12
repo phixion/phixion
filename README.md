@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 12 - [Pictures of a Working Garbage Collector](https://www.oilshell.org/blog/2023/01/garbage-collector.html)
-- Jan 12 - [Meticulous (YC S21) Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=34350149)
-- Jan 12 - [El Salvador’s Historic Digital Asset Securities Law Passes](https://blog.bitfinex.com/announcements/el-salvadors-historic-digital-asset-securities-law-passes/)
-- Jan 12 - [The disappearance of the hit-driven business model](https://dearproducer.com/the-disappearance-of-the-hit-driven-business/?mc_cid=33668ce545&mc_eid=c386d902c2)
-- Jan 12 - [Chick Fil A's Edge Enterprise Architecture](https://medium.com/chick-fil-atech/enterprise-restaurant-compute-f5e2fd63d20f)
+- Jan 12 - [Great Question (YC W21) Is Hiring B2B Account Executives](https://greatquestion.co/jobs/account-executive)
+- Jan 12 - [Europe’s largest deposit of rare earth metals is located in the Kiruna area](https://lkab.com/en/press/europes-largest-deposit-of-rare-earth-metals-is-located-in-the-kiruna-area/)
+- Jan 12 - [Europe's largest deposit of rare earth metals discovered in Sweden](https://news.cision.com/lkab/r/europe-s-largest-deposit-of-rare-earth-metals-is-located-in-the-kiruna-area,c3696152)
+- Jan 12 - [The curious Soviet mini-sub of South Alabama](https://laststandonzombieisland.com/2018/11/24/the-curious-soviet-mini-sub-of-south-alabama/)
+- Jan 12 - [The YAML Document from Hell](https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell)
 <!--END_SECTION:hn-->
 
 <!--
