@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 12 - [Eggs are 60% more expensive than last year in the US](https://www.semafor.com/article/01/12/2023/eggs-are-60-more-expensive-than-last-year-in-the-us)
-- Jan 12 - [Ask HN: Why it is hard for US to move to metric system?](https://news.ycombinator.com/item?id=34354657)
-- Jan 12 - [Medium Embraces Mastodon](https://blog.medium.com/medium-embraces-mastodon-19dcb873eb11)
-- Jan 12 - [Grayscale on 1-bit LCDs (2022)](https://www.zephray.me/post/grayscale_lcd/)
-- Jan 12 - [Show HN: New GraphQL API for WordPress (1.5 years of development, 16000 commits)](https://github.com/leoloso/PoP/releases/tag/0.9.3)
+- Jan 12 - [Circl: Cloudflare Interoperable Reusable Cryptographic Library](https://github.com/cloudflare/circl)
+- Jan 12 - [Researchers cannot always differentiate AI-generated and original abstracts](https://www.nature.com/articles/d41586-023-00056-7)
+- Jan 12 - [What Every Competent Graph DBMS Should Do](https://kuzudb.com/blog/what-every-gdbms-should-do-and-vision.html)
+- Jan 12 - [Lid – Lo-fi image dithering](https://rawtext.club/~sloum/lid.html)
+- Jan 12 - [The UK is wasting a lot of wind power](https://archy.deberker.com/the-uk-is-wasting-a-lot-of-wind-power/)
 <!--END_SECTION:hn-->
 
 <!--
