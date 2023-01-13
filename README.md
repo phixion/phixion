@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 13 - [Liu Cixin's Technologies of the Future](https://vincelwt.com/darkforest)
+- Jan 13 - [Alpine.js](https://alpinejs.dev/)
+- Jan 13 - [Map of the Week: What Does the Land Under Antarctica’s Ice Sheet Look Like?](https://ubique.americangeo.org/map-of-the-week/map-of-the-week-what-does-the-land-under-antarcticas-ice-sheet-look-like/)
+- Jan 13 - [A command line tool that draw plots on the terminal](https://github.com/red-data-tools/YouPlot)
 - Jan 13 - [Paizo Announces System-Neutral Open RPG License](https://paizo.com/community/blog/v5748dyo6si7v?Paizo-Announces-SystemNeutral-Open-RPG-License)
-- Jan 13 - [How to Write English Prose](https://thelampmagazine.com/2023/01/09/how-to-write-english-prose/)
-- Jan 13 - [Twitter's API is down?](https://news.ycombinator.com/item?id=34363743)
-- Jan 13 - [Write admin tools from day one (2022)](http://milwaukeemaven.blogspot.com/2022/08/write-admin-tools-from-day-one.html)
-- Jan 13 - [Loss of epigenetic information can drive aging in mice](https://hms.harvard.edu/news/loss-epigenetic-information-can-drive-aging-restoration-can-reverse)
 <!--END_SECTION:hn-->
 
 <!--
