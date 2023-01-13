@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 13 - [Liu Cixin's Technologies of the Future](https://vincelwt.com/darkforest)
-- Jan 13 - [Alpine.js](https://alpinejs.dev/)
-- Jan 13 - [Map of the Week: What Does the Land Under Antarctica’s Ice Sheet Look Like?](https://ubique.americangeo.org/map-of-the-week/map-of-the-week-what-does-the-land-under-antarcticas-ice-sheet-look-like/)
-- Jan 13 - [A command line tool that draw plots on the terminal](https://github.com/red-data-tools/YouPlot)
-- Jan 13 - [Paizo Announces System-Neutral Open RPG License](https://paizo.com/community/blog/v5748dyo6si7v?Paizo-Announces-SystemNeutral-Open-RPG-License)
+- Jan 13 - [ChatGPT Can't Kill Anything Worth Preserving](https://biblioracle.substack.com/p/chatgpt-cant-kill-anything-worth)
+- Jan 13 - [Working for a Dating Website (2015)](https://caseysoftware.com/blog/working-for-a-dating-website)
+- Jan 13 - [Examples of Floating Point Problems](https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/)
+- Jan 13 - [How CUE Wins (2021)](https://blog.cedriccharly.com/post/20210523-how-cue-wins/)
+- Jan 13 - [Endemic pathogens are causing psychiatric illnesses and shortening lives](https://return.life/2022/05/endemic-pathogens/)
 <!--END_SECTION:hn-->
 
 <!--
