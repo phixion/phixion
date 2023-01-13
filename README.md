@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 12 - [Circl: Cloudflare Interoperable Reusable Cryptographic Library](https://github.com/cloudflare/circl)
-- Jan 12 - [Researchers cannot always differentiate AI-generated and original abstracts](https://www.nature.com/articles/d41586-023-00056-7)
-- Jan 12 - [What Every Competent Graph DBMS Should Do](https://kuzudb.com/blog/what-every-gdbms-should-do-and-vision.html)
-- Jan 12 - [Lid – Lo-fi image dithering](https://rawtext.club/~sloum/lid.html)
-- Jan 12 - [The UK is wasting a lot of wind power](https://archy.deberker.com/the-uk-is-wasting-a-lot-of-wind-power/)
+- Jan 12 - [Voice Doesn't Exist – Generative Voice AI](https://blog.elevenlabs.io/enter-the-new-year-with-a-bang/)
+- Jan 12 - [Foundational knowledge is worth a thousand tools](https://lucaskostka.com/posts/foundational_knowledge)
+- Jan 12 - [Servo’s New Home](https://servo.org/blog/2020/11/17/servo-home/)
+- Jan 12 - [Your tech stack is not the product](https://hoho.com/posts/your-stack-is-not-the-product/)
+- Jan 12 - [Null Call: Advice for the vestigial shamans among us (2021)](https://arcove.substack.com/p/null-call)
 <!--END_SECTION:hn-->
 
 <!--
