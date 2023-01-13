@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 13 - [Paizo Announces System-Neutral Open RPG License](https://paizo.com/community/blog/v5748dyo6si7v?Paizo-Announces-SystemNeutral-Open-RPG-License)
+- Jan 13 - [How to Write English Prose](https://thelampmagazine.com/2023/01/09/how-to-write-english-prose/)
+- Jan 13 - [Twitter's API is down?](https://news.ycombinator.com/item?id=34363743)
+- Jan 13 - [Write admin tools from day one (2022)](http://milwaukeemaven.blogspot.com/2022/08/write-admin-tools-from-day-one.html)
 - Jan 13 - [Loss of epigenetic information can drive aging in mice](https://hms.harvard.edu/news/loss-epigenetic-information-can-drive-aging-restoration-can-reverse)
-- Jan 12 - [This Voice Doesn't Exist – Generative Voice AI](https://blog.elevenlabs.io/enter-the-new-year-with-a-bang/)
-- Jan 12 - [Foundational knowledge is worth a thousand tools](https://lucaskostka.com/posts/foundational_knowledge)
-- Jan 12 - [Your tech stack is not the product](https://hoho.com/posts/your-stack-is-not-the-product/)
-- Jan 12 - [Null Call: Advice for the vestigial shamans among us (2021)](https://arcove.substack.com/p/null-call)
 <!--END_SECTION:hn-->
 
 <!--
