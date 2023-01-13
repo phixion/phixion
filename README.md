@@ -19,9 +19,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 12 - [Voice Doesn't Exist – Generative Voice AI](https://blog.elevenlabs.io/enter-the-new-year-with-a-bang/)
+- Jan 13 - [Loss of epigenetic information can drive aging in mice](https://hms.harvard.edu/news/loss-epigenetic-information-can-drive-aging-restoration-can-reverse)
+- Jan 12 - [This Voice Doesn't Exist – Generative Voice AI](https://blog.elevenlabs.io/enter-the-new-year-with-a-bang/)
 - Jan 12 - [Foundational knowledge is worth a thousand tools](https://lucaskostka.com/posts/foundational_knowledge)
-- Jan 12 - [Servo’s New Home](https://servo.org/blog/2020/11/17/servo-home/)
 - Jan 12 - [Your tech stack is not the product](https://hoho.com/posts/your-stack-is-not-the-product/)
 - Jan 12 - [Null Call: Advice for the vestigial shamans among us (2021)](https://arcove.substack.com/p/null-call)
 <!--END_SECTION:hn-->
