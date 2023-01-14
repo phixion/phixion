@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 14 - [Lawsuit challenging Stable Diffusion filed against DeviantArt & others](https://stablediffusionlitigation.com/)
+- Jan 14 - [C'Dent is a new Acmeist programming language for writing portable modules (2010)](http://cdent.org/)
+- Jan 14 - [On Trucking](https://snowingpine.com/2023/01/05/on-trucking)
+- Jan 14 - [Recent improvements to Safari](https://www.magiclasso.co/insights/triumph-of-safari/)
 - Jan 14 - [TinyEMU – x86 and RISC-V emulator, small and simple while being complete](https://bellard.org/tinyemu/)
-- Jan 14 - [The iPhone Keyboard – Make It or Break It (2022)](https://commoncog.com/case/iphone-keyboard/)
-- Jan 14 - [WInd3x, the iPod Bootrom exploit 10 years too late](https://q3k.org/wInd3x.html)
-- Jan 14 - [What three new USGS maps reveal about Mars](https://www.usgs.gov/special-topics/planetary-geologic-mapping/news/a-martian-mons-mystery-paleo-climate-change-and)
-- Jan 14 - [Long Covid: major findings, mechanisms and recommendations](https://www.nature.com/articles/s41579-022-00846-2)
 <!--END_SECTION:hn-->
 
 <!--
