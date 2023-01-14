@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 14 - [YC's Startup School is growing and we need a product engineer](https://www.ycombinator.com/companies/y-combinator/jobs/5JHBtJd-product-engineer-startup-school)
-- Jan 14 - [Theodore Ts'o on ext2/3 being worse-is-better than FFS and XFS (2017)](https://web.archive.org/web/20170515160229/https://minnie.tuhs.org/pipermail/tuhs/2017-May/009935.html)
-- Jan 14 - [Routine vaccinations drop among U.S. kindergartners for the third year in a row](https://www.statnews.com/2023/01/12/routine-vaccinations-kindergartners/)
-- Jan 14 - [Ask HN: Why arent developers interested in secure coding?](https://news.ycombinator.com/item?id=34378767)
-- Jan 14 - [Always Look *Down* in London: Pavement Oddities](https://londonist.com/london/secret/look-down)
+- Jan 14 - [Whipper: Accurate Audio CD Ripping](https://github.com/whipper-team/whipper)
+- Jan 14 - [The 1986 Paris-Dakar rally (2021)](https://www.hagerty.com/media/automotive-history/remembering-the-triumph-and-tragedy-of-the-1986-paris-dakar-rally/)
+- Jan 14 - [A Dynamic Forth Compiler for WebAssembly (2018)](https://el-tramo.be/blog/waforth/)
+- Jan 14 - [Anarchist Cookbook (1971) [pdf]](https://ia600700.us.archive.org/17/items/anarchist-cookbook-william-powell_201810/anarchist-cookbook-william-powell.pdf)
+- Jan 14 - [Blender for Symbian OS](https://github.com/Dante-Leoncini/Blendersito)
 <!--END_SECTION:hn-->
 
 <!--
