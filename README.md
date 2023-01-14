@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 13 - [Programming Interviews Turn Normal People into A-Holes](https://new.pythonforengineers.com/blog/programming-interviews-turn-normal-people-into-a-holes/)
-- Jan 13 - [Yes, JavaScript Is a Lisp](https://raganwald.com/2013/07/19/javascript-is-a-lisp.html)
-- Jan 13 - [Sickcodes/Docker-OS X: Run macOS VM in a Docker](https://github.com/sickcodes/Docker-OSX)
-- Jan 13 - [Cuba and the Geopolitics of Submarine Cables](https://www.kentik.com/blog/cuba-and-the-geopolitics-of-submarine-cables/)
-- Jan 13 - [Shapecatcher: Draw the Unicode character you want](https://shapecatcher.com/)
+- Jan 14 - [TinyEMU – x86 and RISC-V emulator, small and simple while being complete](https://bellard.org/tinyemu/)
+- Jan 14 - [The iPhone Keyboard – Make It or Break It (2022)](https://commoncog.com/case/iphone-keyboard/)
+- Jan 14 - [WInd3x, the iPod Bootrom exploit 10 years too late](https://q3k.org/wInd3x.html)
+- Jan 14 - [What three new USGS maps reveal about Mars](https://www.usgs.gov/special-topics/planetary-geologic-mapping/news/a-martian-mons-mystery-paleo-climate-change-and)
+- Jan 14 - [Long Covid: major findings, mechanisms and recommendations](https://www.nature.com/articles/s41579-022-00846-2)
 <!--END_SECTION:hn-->
 
 <!--
