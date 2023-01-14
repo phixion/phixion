@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 14 - [Whipper: Accurate Audio CD Ripping](https://github.com/whipper-team/whipper)
-- Jan 14 - [The 1986 Paris-Dakar rally (2021)](https://www.hagerty.com/media/automotive-history/remembering-the-triumph-and-tragedy-of-the-1986-paris-dakar-rally/)
-- Jan 14 - [A Dynamic Forth Compiler for WebAssembly (2018)](https://el-tramo.be/blog/waforth/)
-- Jan 14 - [Anarchist Cookbook (1971) [pdf]](https://ia600700.us.archive.org/17/items/anarchist-cookbook-william-powell_201810/anarchist-cookbook-william-powell.pdf)
-- Jan 14 - [Blender for Symbian OS](https://github.com/Dante-Leoncini/Blendersito)
+- Jan 14 - [Ask HN: How do you give back?](https://news.ycombinator.com/item?id=34383350)
+- Jan 14 - [Ask HN: Role-model companies with the best dev culture in 2023](https://news.ycombinator.com/item?id=34383010)
+- Jan 14 - [I don't understand terminals, shells and SSH](https://j11g.com/2023/01/14/i-dont-understand-terminals-shells-and-ssh/)
+- Jan 14 - [On the dangers of stochastic parrots: Can language models be too big? (2021)](https://dl.acm.org/doi/10.1145/3442188.3445922)
+- Jan 14 - [Counting the transistors in the 8086 processor: it's harder than you might think](http://www.righto.com/2023/01/counting-transistors-in-8086-processor.html)
 <!--END_SECTION:hn-->
 
 <!--
