@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 15 - [Running KDE Plasma on RISC-V VisionFive-2](https://cordlandwehr.wordpress.com/2023/01/14/running-plasma-on-visionfive-2/)
-- Jan 15 - [VToonify: Controllable High-Resolution Portrait Video Style Transfer](https://github.com/williamyang1991/VToonify)
-- Jan 15 - [CircleCI says hackers stole encryption keys and customers’ source code](https://techcrunch.com/2023/01/14/circleci-hackers-stole-customer-source-code/)
-- Jan 15 - [A Letter from _why (2005)](https://aberant.tumblr.com/post/167375099/a-letter-from-why)
-- Jan 15 - [Death of Korea's 'apartment king' leaves 100s in property purgatory](https://koreajoongangdaily.joins.com/2022/12/15/business/economy/korea-apartment-property/20221215162841416.html)
+- Jan 15 - [SQLite: 35% Faster Than the Filesystem](https://www.sqlite.org/fasterthanfs.html)
+- Jan 15 - [Money creation in the modern economy (2014)](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf?la=en&hash=9A8788FD44A62D8BB927123544205CE476E01654)
+- Jan 15 - [The Bibites: Artificial Life Simulation](https://leocaussan.itch.io/the-bibites)
+- Jan 15 - [ChatGPT scores 80% on SAT reading/writing with collective chain of thought](https://old.reddit.com/r/ChatGPT/comments/10bpzjb/chatgpt_scores_80_correct12_out_of_15_on_sample/)
+- Jan 15 - [Server BMCs can need to be rebooted every so often](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/BMCsCanNeedRebooting)
 <!--END_SECTION:hn-->
 
 <!--
