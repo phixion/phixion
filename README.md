@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 15 - [Flightcontrol (YC W22) is hiring Developer Advocate (remote/fulltime)](https://jobs.flightcontrol.dev/developer-advocate)
-- Jan 15 - [SLT – A Common Lisp Language Plugin for Jetbrains IDE Lineup](https://github.com/Enerccio/SLT)
-- Jan 15 - [Go FOSS: Information is power](https://gofoss.net/)
-- Jan 15 - [German riot police clear protesters for coal mine expansion](https://www.cnn.com/2023/01/14/europe/lutzerath-germany-coal-protests-climate-intl/index.html)
-- Jan 15 - [Twitter API Page](https://developer.twitter.com/apitools)
+- Jan 15 - [Stripe clawed back pension contributions after staff cuts](https://www.businesspost.ie/news/stripe-clawed-back-pension-contributions-after-staff-cuts/)
+- Jan 15 - [Show HN: AI-powered code correction that teaches you along the way](https://useadrenaline.com)
+- Jan 15 - [How I Ruined My SEO](https://johnnyreilly.com/2023/01/15/how-i-ruined-my-seo)
+- Jan 15 - [A formula for the n’th digit of 𝜋 and 𝜋^n](https://arxiv.org/abs/2201.12601)
+- Jan 15 - [More Than 150 Organizations Call to Close Guantánamo on 21st Anniversary](https://theintercept.com/2023/01/11/guantanamo-bay-letter-biden/)
 <!--END_SECTION:hn-->
 
 <!--
