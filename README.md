@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 14 - [Finding Nice MD5s Using Rust](https://blog.youmu.moe/posts/finding-nice-md5s-using-rust/)
-- Jan 14 - [Reasons Python Sucks](https://www.hackerfactor.com/blog/index.php?/archives/825-8-Reasons-Python-Sucks.html)
-- Jan 14 - [Ionocaloric Refrigeration Cycle](https://www.science.org/doi/10.1126/science.ade1696)
-- Jan 14 - [Grain Farming Goes Indoors](https://modernfarmer.com/2023/01/grain-farming-goes-indoors/)
-- Jan 14 - [ZSWatch – The Open Source Zephyr Based Smartwatch](https://github.com/jakkra/ZSWatch)
+- Jan 15 - [Running KDE Plasma on RISC-V VisionFive-2](https://cordlandwehr.wordpress.com/2023/01/14/running-plasma-on-visionfive-2/)
+- Jan 15 - [VToonify: Controllable High-Resolution Portrait Video Style Transfer](https://github.com/williamyang1991/VToonify)
+- Jan 15 - [CircleCI says hackers stole encryption keys and customers’ source code](https://techcrunch.com/2023/01/14/circleci-hackers-stole-customer-source-code/)
+- Jan 15 - [A Letter from _why (2005)](https://aberant.tumblr.com/post/167375099/a-letter-from-why)
+- Jan 15 - [Death of Korea's 'apartment king' leaves 100s in property purgatory](https://koreajoongangdaily.joins.com/2022/12/15/business/economy/korea-apartment-property/20221215162841416.html)
 <!--END_SECTION:hn-->
 
 <!--
