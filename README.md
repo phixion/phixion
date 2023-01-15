@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 15 - [SQLite: 35% Faster Than the Filesystem](https://www.sqlite.org/fasterthanfs.html)
-- Jan 15 - [Money creation in the modern economy (2014)](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf?la=en&hash=9A8788FD44A62D8BB927123544205CE476E01654)
-- Jan 15 - [The Bibites: Artificial Life Simulation](https://leocaussan.itch.io/the-bibites)
-- Jan 15 - [ChatGPT scores 80% on SAT reading/writing with collective chain of thought](https://old.reddit.com/r/ChatGPT/comments/10bpzjb/chatgpt_scores_80_correct12_out_of_15_on_sample/)
-- Jan 15 - [Server BMCs can need to be rebooted every so often](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/BMCsCanNeedRebooting)
+- Jan 15 - [Flightcontrol (YC W22) is hiring Developer Advocate (remote/fulltime)](https://jobs.flightcontrol.dev/developer-advocate)
+- Jan 15 - [SLT – A Common Lisp Language Plugin for Jetbrains IDE Lineup](https://github.com/Enerccio/SLT)
+- Jan 15 - [Go FOSS: Information is power](https://gofoss.net/)
+- Jan 15 - [German riot police clear protesters for coal mine expansion](https://www.cnn.com/2023/01/14/europe/lutzerath-germany-coal-protests-climate-intl/index.html)
+- Jan 15 - [Twitter API Page](https://developer.twitter.com/apitools)
 <!--END_SECTION:hn-->
 
 <!--
