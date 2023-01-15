@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 15 - [Stripe clawed back pension contributions after staff cuts](https://www.businesspost.ie/news/stripe-clawed-back-pension-contributions-after-staff-cuts/)
-- Jan 15 - [Show HN: AI-powered code correction that teaches you along the way](https://useadrenaline.com)
-- Jan 15 - [How I Ruined My SEO](https://johnnyreilly.com/2023/01/15/how-i-ruined-my-seo)
-- Jan 15 - [A formula for the n’th digit of 𝜋 and 𝜋^n](https://arxiv.org/abs/2201.12601)
-- Jan 15 - [More Than 150 Organizations Call to Close Guantánamo on 21st Anniversary](https://theintercept.com/2023/01/11/guantanamo-bay-letter-biden/)
+- Jan 15 - [Ask HN: Do you or someone you know give money to your parents?](https://news.ycombinator.com/item?id=34392425)
+- Jan 15 - [Apple Has Begun Scanning Your Local Image Files Without Consent](https://sneak.berlin/20230115/macos-scans-your-local-files-now/)
+- Jan 15 - [Gimp 2.10.32 on Apple Silicon (2022)](https://www.gimp.org/news/2022/12/02/gimp-2.10.32-apple-silicon/)
+- Jan 15 - [NSA asks Congress to let it get on with that warrantless data harvesting, again](https://www.theregister.com/2023/01/14/in_brief_security/)
+- Jan 15 - [In a Moment, Mathematicians Merge Probability and Number Theory](https://www.quantamagazine.org/in-a-moment-mathematicians-merge-probability-and-number-theory-20230112/)
 <!--END_SECTION:hn-->
 
 <!--
