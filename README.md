@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 16 - [Reverse Engineering a Neural Network's Clever Solution to Binary Addition](https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/)
-- Jan 16 - [Granian – a Rust HTTP server for Python applications](https://github.com/emmett-framework/granian)
-- Jan 16 - [Show HN: Meet developers 1-on-1 every week](https://github.com/DevClad-Inc/devclad)
-- Jan 16 - [How Nvidia’s CUDA Monopoly in Machine Learning Is Breaking](https://www.semianalysis.com/p/nvidiaopenaitritonpytorch)
-- Jan 16 - [Gasoline Is Made of Carbon Sucked from the Air (2018)](https://www.nationalgeographic.com/science/article/carbon-engineering-liquid-fuel-carbon-capture-neutral-science)
+- Jan 16 - [German defence minister Christine Lambrecht quits after series of blunders](https://www.theguardian.com/world/2023/jan/16/german-defence-minister-christine-lambrecht-quits)
+- Jan 16 - [Apple Silicon Mac’s have 2-3 times longer battery than PC laptops](https://www.youtube.com/watch?v=P0h8q6D0s74)
+- Jan 16 - [Lawyers Barred by Madison Square Garden Found a Way Back In](https://www.nytimes.com/2023/01/16/technology/madison-square-garden-ban-lawyers.html)
+- Jan 16 - [Show HN: Sketch – AI code-writing assistant that understands data content](https://github.com/approximatelabs/sketch)
+- Jan 16 - [Ask HN: When to make the jump to freelance/consultant?](https://news.ycombinator.com/item?id=34400435)
 <!--END_SECTION:hn-->
 
 <!--
