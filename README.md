@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 15 - [Common Hall-effect sensor myths](https://e2e.ti.com/blogs_/b/analogwire/posts/5-common-hall-effect-sensor-myths)
-- Jan 15 - [Saudi prosecutors seek death penalty for academic over social media use](https://www.theguardian.com/world/2023/jan/15/saudi-arabian-academic-on-death-row-for-using-twitter-and-whatsapp)
-- Jan 15 - [We invested 10% to pay back tech debt; Here's what happened](https://blog.alexewerlof.com/p/tech-debt-day)
-- Jan 15 - [The global health-care collapse](https://www.economist.com/finance-and-economics/2023/01/15/the-global-health-care-collapse)
-- Jan 15 - [The Shit Show](https://furbo.org/2023/01/15/the-shit-show/)
+- Jan 16 - [Authentication with Django and Single Page Apps (2020)](https://www.mikesukmanowsky.com/blog/authentication-with-django-and-spas)
+- Jan 16 - [Review: “Did you miss my comments or what?” Toxicity in Open Source Discussions](https://tylercipriani.com/blog/2023/01/15/entitlement-burnout-and-toxicity/)
+- Jan 16 - [Misskey: An Interplanetary Microblogging Platform](https://github.com/misskey-dev/misskey)
+- Jan 16 - [1500 Archers on a 28.8: Network Programming in Age of Empires and Beyond (2001)](https://www.gamedeveloper.com/programming/1500-archers-on-a-28-8-network-programming-in-age-of-empires-and-beyond)
+- Jan 16 - [Improving Async Networking in Python](https://roberts.pm/index.php?p=article&path=p2pd&category=most-recent)
 <!--END_SECTION:hn-->
 
 <!--
