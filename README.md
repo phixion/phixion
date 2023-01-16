@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 16 - [selfie – A tiny RISC-V C compiler, emulator and hypervisor](http://selfie.cs.uni-salzburg.at/)
-- Jan 16 - [Bill Gates tries to install Movie Maker](https://twitter.com/techemails/status/1614682414634373120)
-- Jan 16 - [IBM shifts remaining US-based AIX dev jobs to India – source](https://www.theregister.com/2023/01/12/ibm_aix_developer_jobs/)
-- Jan 16 - [Supporting half-precision floats is really annoying (2021)](https://futhark-lang.org/blog/2021-08-05-half-precision-floats.html)
-- Jan 16 - [Blogging and Microblogging](https://mjg59.dreamwidth.org/64660.html)
+- Jan 16 - [Reverse Engineering a Neural Network's Clever Solution to Binary Addition](https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/)
+- Jan 16 - [Granian – a Rust HTTP server for Python applications](https://github.com/emmett-framework/granian)
+- Jan 16 - [Show HN: Meet developers 1-on-1 every week](https://github.com/DevClad-Inc/devclad)
+- Jan 16 - [How Nvidia’s CUDA Monopoly in Machine Learning Is Breaking](https://www.semianalysis.com/p/nvidiaopenaitritonpytorch)
+- Jan 16 - [Gasoline Is Made of Carbon Sucked from the Air (2018)](https://www.nationalgeographic.com/science/article/carbon-engineering-liquid-fuel-carbon-capture-neutral-science)
 <!--END_SECTION:hn-->
 
 <!--
