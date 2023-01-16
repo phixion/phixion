@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 15 - [Ask HN: Do you or someone you know give money to your parents?](https://news.ycombinator.com/item?id=34392425)
-- Jan 15 - [Apple Has Begun Scanning Your Local Image Files Without Consent](https://sneak.berlin/20230115/macos-scans-your-local-files-now/)
-- Jan 15 - [Gimp 2.10.32 on Apple Silicon (2022)](https://www.gimp.org/news/2022/12/02/gimp-2.10.32-apple-silicon/)
-- Jan 15 - [NSA asks Congress to let it get on with that warrantless data harvesting, again](https://www.theregister.com/2023/01/14/in_brief_security/)
-- Jan 15 - [In a Moment, Mathematicians Merge Probability and Number Theory](https://www.quantamagazine.org/in-a-moment-mathematicians-merge-probability-and-number-theory-20230112/)
+- Jan 15 - [Common Hall-effect sensor myths](https://e2e.ti.com/blogs_/b/analogwire/posts/5-common-hall-effect-sensor-myths)
+- Jan 15 - [Saudi prosecutors seek death penalty for academic over social media use](https://www.theguardian.com/world/2023/jan/15/saudi-arabian-academic-on-death-row-for-using-twitter-and-whatsapp)
+- Jan 15 - [We invested 10% to pay back tech debt; Here's what happened](https://blog.alexewerlof.com/p/tech-debt-day)
+- Jan 15 - [The global health-care collapse](https://www.economist.com/finance-and-economics/2023/01/15/the-global-health-care-collapse)
+- Jan 15 - [The Shit Show](https://furbo.org/2023/01/15/the-shit-show/)
 <!--END_SECTION:hn-->
 
 <!--
