@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 16 - [Authentication with Django and Single Page Apps (2020)](https://www.mikesukmanowsky.com/blog/authentication-with-django-and-spas)
-- Jan 16 - [Review: “Did you miss my comments or what?” Toxicity in Open Source Discussions](https://tylercipriani.com/blog/2023/01/15/entitlement-burnout-and-toxicity/)
-- Jan 16 - [Misskey: An Interplanetary Microblogging Platform](https://github.com/misskey-dev/misskey)
-- Jan 16 - [1500 Archers on a 28.8: Network Programming in Age of Empires and Beyond (2001)](https://www.gamedeveloper.com/programming/1500-archers-on-a-28-8-network-programming-in-age-of-empires-and-beyond)
-- Jan 16 - [Improving Async Networking in Python](https://roberts.pm/index.php?p=article&path=p2pd&category=most-recent)
+- Jan 16 - [selfie – A tiny RISC-V C compiler, emulator and hypervisor](http://selfie.cs.uni-salzburg.at/)
+- Jan 16 - [Bill Gates tries to install Movie Maker](https://twitter.com/techemails/status/1614682414634373120)
+- Jan 16 - [IBM shifts remaining US-based AIX dev jobs to India – source](https://www.theregister.com/2023/01/12/ibm_aix_developer_jobs/)
+- Jan 16 - [Supporting half-precision floats is really annoying (2021)](https://futhark-lang.org/blog/2021-08-05-half-precision-floats.html)
+- Jan 16 - [Blogging and Microblogging](https://mjg59.dreamwidth.org/64660.html)
 <!--END_SECTION:hn-->
 
 <!--
