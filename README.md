@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 16 - [Quitting the Rat Race](https://seanbarry.dev/posts/quitting-the-rat-race/)
-- Jan 16 - [How my brother's iCloud account was stolen](https://7c0h.com/blog/new/stolen_iphone.html)
-- Jan 16 - [Major standard library changes in Go 1.20](https://blog.carlmjohnson.net/post/2023/golang-120-arenas-errors-responsecontroller/)
-- Jan 16 - [Apple won’t let you use an Apple TV unless you have another Apple device?](https://twitter.com/hugelgupf/status/1614794516309118977)
-- Jan 16 - [The hardest part of being a junior developer](https://rachsmith.com/the-hardest-part-of-being-a-jnr/)
+- Jan 17 - [Hubble finds hungry black hole twisting captured star into donut shape](https://phys.org/news/2023-01-hubble-hungry-black-hole-captured.html)
+- Jan 17 - [Legit Startups – AI Generated Startup Websites](https://legit-startups.com/)
+- Jan 17 - [Pretty Good House](https://www.prettygoodhouse.org)
+- Jan 17 - [Show HN: Otterkit – COBOL compiler for .NET](https://github.com/otterkit/otterkit)
+- Jan 16 - [Blaze: A high-performance C++ math library](https://bitbucket.org/blaze-lib/blaze/src/master/)
 <!--END_SECTION:hn-->
 
 <!--
