@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 17 - [Ask HN: What interesting people are you following on Mastodon?](https://news.ycombinator.com/item?id=34413641)
-- Jan 17 - [GNU make 4.4 adds --shuffle to help find parallel build issues](https://trofi.github.io/posts/238-new-make-shuffle-mode.html)
-- Jan 17 - [Laser desorption mass spectrometry – Alien detector that fits in your hand](https://www.nature.com/articles/s41550-022-01866-x)
-- Jan 17 - [My grandfather was almost shot down by ground to air missiles at the Whitehouse (2018)](https://nones-leonard.medium.com/flying-high-8536fa403324)
-- Jan 17 - [Ruby 3.2’s YJIT is Production-Ready](https://shopify.engineering/ruby-yjit-is-production-ready)
+- Jan 17 - [Microsoft to lay off 11,000 employees](https://www.reuters.com/technology/microsoft-cut-thousands-jobs-sky-news-2023-01-17/)
+- Jan 17 - [Republicans to pass bill in House to end telework for federal employees](https://www.wusa9.com/article/news/local/dc/show-up-act-federal-workers-telework-bill/65-11d0e826-21c4-4a2e-96ba-1741637411d2)
+- Jan 17 - [A new CT scan to detect and cure the commonest cause of high blood pressure](https://www.qmul.ac.uk/media/news/2023/smd/ten-minute-scan-enables-detection-and-cure-of-the-commonest-cause-of-high-blood-pressure.html)
+- Jan 17 - [Stadia Bluetooth Mode](https://stadia.google.com/controller/)
+- Jan 17 - [Git Security Vulnerabilities Announced](https://github.blog/2023-01-17-git-security-vulnerabilities-announced-2/)
 <!--END_SECTION:hn-->
 
 <!--
