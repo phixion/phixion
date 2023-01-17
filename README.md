@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 17 - [Why Is Amazon Selling These Fake 16TB Portable SSD Drives?](https://www.reviewgeek.com/142496/why-the-heck-is-amazon-selling-these-fake-16-terabyte-portable-hard-drives/)
-- Jan 17 - [The November 2020 landslide, tsunami, and outburst flood at Elliot Creek](https://nautil.us/the-ecological-catastrophe-youve-never-heard-of-257291/)
-- Jan 17 - [Hubble finds black hole twisting captured star into donut shape](https://phys.org/news/2023-01-hubble-hungry-black-hole-captured.html)
-- Jan 17 - [The Pretty Good House](https://www.prettygoodhouse.org)
-- Jan 17 - [Show HN: Otterkit – COBOL compiler for .NET](https://github.com/otterkit/otterkit)
+- Jan 17 - [Sirum (YC Nonprofit) Is Hiring Chief of Staff and Product Managers in Atlanta](https://sirum.org/careers/)
+- Jan 17 - [PHP in 2023](https://stitcher.io/blog/php-in-2023)
+- Jan 17 - [Dijkstra Maps Visualized](http://www.roguebasin.com/index.php/Dijkstra_Maps_Visualized)
+- Jan 17 - [We Need to Know LR and Recursive Descent Parsing Techniques](https://tratt.net/laurie/blog/2023/why_we_need_to_know_lr_and_recursive_descent_parsing_techniques.html)
+- Jan 17 - [Twitter kicking off a developer API campaign on January 16, 2023](https://carhenge.club/@mattdsteele/109700383808551139)
 <!--END_SECTION:hn-->
 
 <!--
