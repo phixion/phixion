@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 16 - [GraphQL Live Queries with live directive](https://grafbase.com/blog/simplify-building-realtime-applications-with-graphql-live-queries)
-- Jan 16 - [Volta Foundation Annual Battery Report 2022](https://www.volta.foundation/annual-battery-report)
-- Jan 16 - [The Cloud Conundrum: S3 Encryption](https://www.secwale.com/p/encryption)
-- Jan 16 - [Conditional CSS](https://ishadeed.com/article/conditional-css/)
-- Jan 16 - [Why Alexa won't wake up when hearing "Alexa" in Amazon's Super Bowl ad (2019)](https://www.amazon.science/blog/why-alexa-wont-wake-up-when-she-hears-her-name-in-amazons-super-bowl-ad)
+- Jan 16 - [Quitting the Rat Race](https://seanbarry.dev/posts/quitting-the-rat-race/)
+- Jan 16 - [How my brother's iCloud account was stolen](https://7c0h.com/blog/new/stolen_iphone.html)
+- Jan 16 - [Major standard library changes in Go 1.20](https://blog.carlmjohnson.net/post/2023/golang-120-arenas-errors-responsecontroller/)
+- Jan 16 - [Apple won’t let you use an Apple TV unless you have another Apple device?](https://twitter.com/hugelgupf/status/1614794516309118977)
+- Jan 16 - [The hardest part of being a junior developer](https://rachsmith.com/the-hardest-part-of-being-a-jnr/)
 <!--END_SECTION:hn-->
 
 <!--
