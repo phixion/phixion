@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 18 - [Source code for Dutch DigiD app released under Dutch Open Government Act](https://github.com/MinBZK/woo-besluit-broncode-digid-app)
-- Jan 18 - [How to Create Luck](https://www.swyx.io/create-luck/)
-- Jan 18 - [US startup's bladeless VTOL can reach up to 0.8 Mach](https://interestingengineering.com/transportation/us-startups-bladeless-vtol-can-reach-up-to-08-mach)
-- Jan 18 - [Formalizing the H-Principle and Sphere Eversion](https://dl.acm.org/doi/abs/10.1145/3573105.3575688)
-- Jan 18 - [Hello, PNG](https://www.da.vidbuchanan.co.uk/blog/hello-png.html)
+- Jan 18 - [Ask HN: With recent layoffs, how would you advise new grads entering the market?](https://news.ycombinator.com/item?id=34428033)
+- Jan 18 - [Stop Building on Corporate-Controlled Languages](https://blog.deckc.hair/2023-01-18-stop-building-on-corporate-controlled-languages.html)
+- Jan 18 - [Rust concepts I wish I learned earlier](https://rauljordan.com/rust-concepts-i-wish-i-learned-earlier/)
+- Jan 18 - [Bitwarden Acquires Passwordless.dev](https://bitwarden.com/blog/bitwarden-extends-passwordless-leadership-with-acquisition/)
+- Jan 18 - [Times New Roman is being phased out at the State Department, replaced by Calibri](https://twitter.com/john_hudson/status/1615486867712999426)
 <!--END_SECTION:hn-->
 
 <!--
