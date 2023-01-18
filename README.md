@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 17 - [Microsoft to lay off 11,000 employees](https://www.reuters.com/technology/microsoft-cut-thousands-jobs-sky-news-2023-01-17/)
-- Jan 17 - [Republicans to pass bill in House to end telework for federal employees](https://www.wusa9.com/article/news/local/dc/show-up-act-federal-workers-telework-bill/65-11d0e826-21c4-4a2e-96ba-1741637411d2)
-- Jan 17 - [A new CT scan to detect and cure the commonest cause of high blood pressure](https://www.qmul.ac.uk/media/news/2023/smd/ten-minute-scan-enables-detection-and-cure-of-the-commonest-cause-of-high-blood-pressure.html)
-- Jan 17 - [Stadia Bluetooth Mode](https://stadia.google.com/controller/)
-- Jan 17 - [Git Security Vulnerabilities Announced](https://github.blog/2023-01-17-git-security-vulnerabilities-announced-2/)
+- Jan 17 - [Cultivating Depth and Stillness in Research](https://andymatuschak.org/stillness/)
+- Jan 17 - [The Art of Knowing When to Quit](https://blog.jim-nielsen.com/2023/art-of-knowing-when-to-quit/)
+- Jan 17 - [A flurry of new studies identifies causes of the Industrial Revolution](https://www.economist.com/graphic-detail/2023/01/17/a-flurry-of-new-studies-identifies-causes-of-the-industrial-revolution)
+- Jan 17 - [How Do AIs' Political Opinions Change as They Get Smarter and Better-Trained?](https://astralcodexten.substack.com/p/how-do-ais-political-opinions-change)
+- Jan 17 - [The ThinkPad TrackPoint tried to build a better mouse (2020)](https://www.theverge.com/circuitbreaker/2020/6/30/21292182/thinkpad-trackpoint-mouse-nub-button-trackpad-challenges-design-user-input)
 <!--END_SECTION:hn-->
 
 <!--
