@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 18 - [Meet “Claude”: Anthropic’s rival to ChatGPT](https://scale.com/blog/chatgpt-vs-claude)
-- Jan 18 - [Typst: A Programmable Markup Language for Typesetting [pdf]](https://www.user.tu-berlin.de/laurmaedje/programmable-markup-language-for-typesetting.pdf)
-- Jan 18 - [No Start Menu for You](https://randomascii.wordpress.com/2023/01/17/no-start-menu-for-you/)
-- Jan 18 - [DensePose from WiFi](https://arxiv.org/abs/2301.00250)
-- Jan 18 - [Japanese manhole mass production process [video]](https://www.youtube.com/watch?v=9OYPWgzDBxE)
+- Jan 18 - [Source code for Dutch DigiD app released under Dutch Open Government Act](https://github.com/MinBZK/woo-besluit-broncode-digid-app)
+- Jan 18 - [How to Create Luck](https://www.swyx.io/create-luck/)
+- Jan 18 - [US startup's bladeless VTOL can reach up to 0.8 Mach](https://interestingengineering.com/transportation/us-startups-bladeless-vtol-can-reach-up-to-08-mach)
+- Jan 18 - [Formalizing the H-Principle and Sphere Eversion](https://dl.acm.org/doi/abs/10.1145/3573105.3575688)
+- Jan 18 - [Hello, PNG](https://www.da.vidbuchanan.co.uk/blog/hello-png.html)
 <!--END_SECTION:hn-->
 
 <!--
