@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 17 - [Cultivating Depth and Stillness in Research](https://andymatuschak.org/stillness/)
-- Jan 17 - [The Art of Knowing When to Quit](https://blog.jim-nielsen.com/2023/art-of-knowing-when-to-quit/)
-- Jan 17 - [A flurry of new studies identifies causes of the Industrial Revolution](https://www.economist.com/graphic-detail/2023/01/17/a-flurry-of-new-studies-identifies-causes-of-the-industrial-revolution)
-- Jan 17 - [How Do AIs' Political Opinions Change as They Get Smarter and Better-Trained?](https://astralcodexten.substack.com/p/how-do-ais-political-opinions-change)
-- Jan 17 - [The ThinkPad TrackPoint tried to build a better mouse (2020)](https://www.theverge.com/circuitbreaker/2020/6/30/21292182/thinkpad-trackpoint-mouse-nub-button-trackpad-challenges-design-user-input)
+- Jan 18 - [LangChain: Build AI apps with LLMs through composability](https://github.com/hwchase17/langchain)
+- Jan 18 - [Printable Puzzle Project](https://www.puzzlehub.org/)
+- Jan 18 - [Show HN: I made a tool, create GitHub Repository from local directory directly](https://github.com/shunak/wfh)
+- Jan 18 - [Smithsonian will restore hundreds of the oldest sound recordings](https://www.smithsonianmag.com/smart-news/smithsonian-will-restore-nearly-300-never-before-heard-recordings-by-alexander-graham-bell-180981440/)
+- Jan 18 - [GPT-3.5 and Wolfram Alpha via LangChain](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain)
 <!--END_SECTION:hn-->
 
 <!--
