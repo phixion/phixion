@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 18 - [LangChain: Build AI apps with LLMs through composability](https://github.com/hwchase17/langchain)
-- Jan 18 - [Printable Puzzle Project](https://www.puzzlehub.org/)
-- Jan 18 - [Show HN: I made a tool, create GitHub Repository from local directory directly](https://github.com/shunak/wfh)
-- Jan 18 - [Smithsonian will restore hundreds of the oldest sound recordings](https://www.smithsonianmag.com/smart-news/smithsonian-will-restore-nearly-300-never-before-heard-recordings-by-alexander-graham-bell-180981440/)
-- Jan 18 - [GPT-3.5 and Wolfram Alpha via LangChain](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain)
+- Jan 18 - [Meet “Claude”: Anthropic’s rival to ChatGPT](https://scale.com/blog/chatgpt-vs-claude)
+- Jan 18 - [Typst: A Programmable Markup Language for Typesetting [pdf]](https://www.user.tu-berlin.de/laurmaedje/programmable-markup-language-for-typesetting.pdf)
+- Jan 18 - [No Start Menu for You](https://randomascii.wordpress.com/2023/01/17/no-start-menu-for-you/)
+- Jan 18 - [DensePose from WiFi](https://arxiv.org/abs/2301.00250)
+- Jan 18 - [Japanese manhole mass production process [video]](https://www.youtube.com/watch?v=9OYPWgzDBxE)
 <!--END_SECTION:hn-->
 
 <!--
