@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 18 - [Ask HN: With recent layoffs, how would you advise new grads entering the market?](https://news.ycombinator.com/item?id=34428033)
-- Jan 18 - [Stop Building on Corporate-Controlled Languages](https://blog.deckc.hair/2023-01-18-stop-building-on-corporate-controlled-languages.html)
-- Jan 18 - [Rust concepts I wish I learned earlier](https://rauljordan.com/rust-concepts-i-wish-i-learned-earlier/)
-- Jan 18 - [Bitwarden Acquires Passwordless.dev](https://bitwarden.com/blog/bitwarden-extends-passwordless-leadership-with-acquisition/)
-- Jan 18 - [Times New Roman is being phased out at the State Department, replaced by Calibri](https://twitter.com/john_hudson/status/1615486867712999426)
+- Jan 18 - [GitHub's new user signup is an unusable GPT-ish interface](https://github.com/signup)
+- Jan 18 - [GPUs for Deep Learning in 2023 – An In-depth Analysis](https://timdettmers.com/2023/01/16/which-gpu-for-deep-learning/)
+- Jan 18 - [Bun v0.5](https://bun.sh/blog/bun-v0.5.0)
+- Jan 18 - [New Norwegian land could emerge from The Atlantic Ocean](https://sciencenorway.no/geology-seabed-volcanoes/new-norwegian-land-could-emerge-from-the-atlantic-ocean/2139271)
+- Jan 18 - [Why to start a startup in a bad economy (2008)](http://paulgraham.com/badeconomy.html)
 <!--END_SECTION:hn-->
 
 <!--
