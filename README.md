@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 18 - [Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
-- Jan 18 - [Show HN: Unblob – extraction suite for 30+ file formats](https://github.com/onekey-sec/unblob)
-- Jan 18 - [HC-tree is an experimental high-concurrency database back end for SQLite](https://sqlite.org/hctree/doc/hctree/doc/hctree/index.html)
-- Jan 18 - [An aggressive, stealthy web spider operating from Microsoft IP space](https://utcc.utoronto.ca/~cks/space/blog/web/AggressiveStealthyWebSpider)
-- Jan 18 - [Someone stole my car and now I own hundreds of vinyl records](https://mkaic.substack.com/p/someone-stole-my-car-and-now-i-own)
+- Jan 19 - [Stop Calling Everything AI, Machine-Learning Pioneer Says](https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says)
+- Jan 19 - [Scamp – a self-contained Forth computer](https://udamonic.com/what-is-a-scamp.html)
+- Jan 19 - [ChatGPT listed as author on research papers: many scientists disapprove](https://www.nature.com/articles/d41586-023-00107-z)
+- Jan 19 - [Facebook Container Extension](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/)
+- Jan 19 - [Amazon Closing AmazonSmile](https://www.aboutamazon.com/news/company-news/amazon-closing-amazonsmile-to-focus-its-philanthropic-giving-to-programs-with-greater-impact)
 <!--END_SECTION:hn-->
 
 <!--
