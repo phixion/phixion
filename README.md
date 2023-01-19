@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 19 - [Show HN: Retool Mobile](https://retool.com/products/mobile)
-- Jan 19 - [Nationwide FAA weather reporting outage](https://www.nco.ncep.noaa.gov/status/messages/)
-- Jan 19 - [Telling your inner critic to chill](https://www.radiatedaily.com/telling-your-inner-critic-to-chill/)
-- Jan 19 - [Folders with high file counts](https://bombich.com/blog/2023/01/18/folders-high-file-counts)
-- Jan 19 - [Ask HN: Math books that made you significantly better at math?](https://news.ycombinator.com/item?id=34439828)
+- Jan 19 - [Simulation Intelligence: Towards a New Generation of Scientific Methods (2022)](https://arxiv.org/abs/2112.03235)
+- Jan 19 - [The Current Secrets Rotation Process Is Broken](https://www.doppler.com/blog/the-current-secrets-rotation-process-is-broken)
+- Jan 19 - [Show HN: DALL-E for Playlists](https://www.naturallanguageplaylist.com/)
+- Jan 19 - [An Introduction to Clascal (1984) [pdf]](http://www.bitsavers.org/pdf/apple/lisa/toolkit_3.0/Package_2_Examples/02_An_Introduction_To_Clascal_Jul84.pdf)
+- Jan 19 - [Introducing Rust Support in CodeSandbox, start a Rust VM in one click](https://codesandbox.io/blog/announcing-rust-support-in-codesandbox)
 <!--END_SECTION:hn-->
 
 <!--
