@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 19 - [Formalising a new proof that the square root of two is irrational](https://lawrencecpaulson.github.io//2023/01/18/Sqrt2_irrational.html)
-- Jan 19 - [Ashby (YC W19) is hiring product engineers and design engineers](https://www.ashbyhq.com/careers?utm_source=hn)
-- Jan 19 - [Plant-based meat is turning out to be a flop](https://www.bloomberg.com/news/features/2023-01-19/beyond-meat-bynd-impossible-foods-burgers-are-just-another-food-fad)
-- Jan 19 - [ChatGPT for Search Engines](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-for-search-engines/)
-- Jan 19 - [Coinbase halts operations in Japan](https://www.coinbase.com/blog/halting-operations-in-japan)
+- Jan 19 - [Mux (YC W16) Is Hiring a Senior Platform Engineer](https://mux.com/jobs)
+- Jan 19 - [The State of the Awk (2020)](https://lwn.net/Articles/820829/)
+- Jan 19 - [Pwned or Bot](https://www.troyhunt.com/pwned-or-bot/)
+- Jan 19 - [Pandoc 3.0](https://pandoc.org/releases.html)
+- Jan 19 - [What not to write on your security clearance form (1988)](http://milk.com/wall-o-shame/security_clearance.html)
 <!--END_SECTION:hn-->
 
 <!--
