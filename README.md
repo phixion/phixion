@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 19 - [Stop Calling Everything AI, Machine-Learning Pioneer Says](https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says)
-- Jan 19 - [Scamp – a self-contained Forth computer](https://udamonic.com/what-is-a-scamp.html)
-- Jan 19 - [ChatGPT listed as author on research papers: many scientists disapprove](https://www.nature.com/articles/d41586-023-00107-z)
-- Jan 19 - [Facebook Container Extension](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/)
-- Jan 19 - [Amazon Closing AmazonSmile](https://www.aboutamazon.com/news/company-news/amazon-closing-amazonsmile-to-focus-its-philanthropic-giving-to-programs-with-greater-impact)
+- Jan 19 - [Formalising a new proof that the square root of two is irrational](https://lawrencecpaulson.github.io//2023/01/18/Sqrt2_irrational.html)
+- Jan 19 - [Ashby (YC W19) is hiring product engineers and design engineers](https://www.ashbyhq.com/careers?utm_source=hn)
+- Jan 19 - [Plant-based meat is turning out to be a flop](https://www.bloomberg.com/news/features/2023-01-19/beyond-meat-bynd-impossible-foods-burgers-are-just-another-food-fad)
+- Jan 19 - [ChatGPT for Search Engines](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-for-search-engines/)
+- Jan 19 - [Coinbase halts operations in Japan](https://www.coinbase.com/blog/halting-operations-in-japan)
 <!--END_SECTION:hn-->
 
 <!--
