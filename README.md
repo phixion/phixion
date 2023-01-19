@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 18 - [GitHub's new user signup is an unusable GPT-ish interface](https://github.com/signup)
-- Jan 18 - [GPUs for Deep Learning in 2023 – An In-depth Analysis](https://timdettmers.com/2023/01/16/which-gpu-for-deep-learning/)
-- Jan 18 - [Bun v0.5](https://bun.sh/blog/bun-v0.5.0)
-- Jan 18 - [New Norwegian land could emerge from The Atlantic Ocean](https://sciencenorway.no/geology-seabed-volcanoes/new-norwegian-land-could-emerge-from-the-atlantic-ocean/2139271)
-- Jan 18 - [Why to start a startup in a bad economy (2008)](http://paulgraham.com/badeconomy.html)
+- Jan 18 - [Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
+- Jan 18 - [Show HN: Unblob – extraction suite for 30+ file formats](https://github.com/onekey-sec/unblob)
+- Jan 18 - [HC-tree is an experimental high-concurrency database back end for SQLite](https://sqlite.org/hctree/doc/hctree/doc/hctree/index.html)
+- Jan 18 - [An aggressive, stealthy web spider operating from Microsoft IP space](https://utcc.utoronto.ca/~cks/space/blog/web/AggressiveStealthyWebSpider)
+- Jan 18 - [Someone stole my car and now I own hundreds of vinyl records](https://mkaic.substack.com/p/someone-stole-my-car-and-now-i-own)
 <!--END_SECTION:hn-->
 
 <!--
