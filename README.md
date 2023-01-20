@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 20 - [Interesting Facts about Bell Labs and 2001: A Space Odyssey (2001)](https://sites.psu.edu/comm150honors/2016/05/03/interesting-facts-about-bell-labs-and-the-odyssey-from-an-archivist-at-bell-labs-my-dad/)
-- Jan 20 - [I've procrastinated working on my thesis for more than a year](https://thoughtsbyaashiq.bearblog.dev/ive-procrastinated-working-on-my-thesis-for-over-a-year/)
-- Jan 20 - [A History of the Eprom in the Soviet Union](https://www.cpushack.com/2023/01/19/a-history-of-the-eprom-in-the-soviet-union/)
-- Jan 20 - [How true is 'Speed Enforced by Aircraft' Sign? (2016)](https://www.kqed.org/news/10953748/how-much-truth-is-there-to-those-speed-enforced-by-aircraft-signs)
-- Jan 20 - [Compilable Lightweight Markup Language for Mathematics](https://iheartla.github.io/)
+- Jan 20 - [Lago (YC S21), open source usage based billing, is hiring a cloud engineer](https://www.ycombinator.com/companies/lago/jobs/kDbtSIO-cloud-engineer)
+- Jan 20 - [Not worried about AI that passes Turing test, but AI that fails it on purpose](https://old.reddit.com/r/C_S_T/comments/ae288t/im_not_worried_about_the_ai_that_can_pass_the/)
+- Jan 20 - [The Myth of the Myth of the 10x Programmer (2020)](https://payne.org/blog/the-myth-of-the-myth-of-the-10x-programmer/)
+- Jan 20 - [A different approach to building C++ projects](https://rachelbythebay.com/bb/)
+- Jan 20 - [Choosing a Postgres Primary Key](https://supabase.com/blog/choosing-a-postgres-primary-key)
 <!--END_SECTION:hn-->
 
 <!--
