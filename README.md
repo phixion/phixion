@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 19 - [Simulation Intelligence: Towards a New Generation of Scientific Methods (2022)](https://arxiv.org/abs/2112.03235)
-- Jan 19 - [The Current Secrets Rotation Process Is Broken](https://www.doppler.com/blog/the-current-secrets-rotation-process-is-broken)
-- Jan 19 - [Show HN: DALL-E for Playlists](https://www.naturallanguageplaylist.com/)
-- Jan 19 - [An Introduction to Clascal (1984) [pdf]](http://www.bitsavers.org/pdf/apple/lisa/toolkit_3.0/Package_2_Examples/02_An_Introduction_To_Clascal_Jul84.pdf)
-- Jan 19 - [Introducing Rust Support in CodeSandbox, start a Rust VM in one click](https://codesandbox.io/blog/announcing-rust-support-in-codesandbox)
+- Jan 19 - [Ask HN: Why aren't there any cars in Nineteen Eighty-Four?](https://news.ycombinator.com/item?id=34446839)
+- Jan 19 - [How to destroy a certificate authority in one month](https://cohost.org/arborelia/post/868933-how-to-destroy-a-cer)
+- Jan 19 - [how to completely own an airline in 3 easy steps](https://maia.crimew.gay/posts/how-to-hack-an-airline/)
+- Jan 19 - [Nuclear explosion impact on humans indoors](https://aip.scitation.org/doi/10.1063/5.0132565)
+- Jan 19 - [Unusual compound found in Rembrandt’s The Night Watch](https://www.esrf.fr/home/news/general/content-news/general/unusual-compound-found-in-rembrandts-the-night-watch.html)
 <!--END_SECTION:hn-->
 
 <!--
