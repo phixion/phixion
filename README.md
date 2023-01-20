@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 20 - [Ask HN: Why are big tech companies having mass layoffs?](https://news.ycombinator.com/item?id=34454392)
-- Jan 20 - [Pipe Operator (|>) For JavaScript](https://github.com/tc39/proposal-pipeline-operator)
-- Jan 20 - [Sudo Replacement](https://xeiaso.net/blog/%F0%9F%A5%BA)
-- Jan 20 - [Uses and Abuses of Military History](https://newcriterion.com/issues/2023/1/uses-abuses-of-military-history)
-- Jan 20 - [The Enduring Mystery of an Aggressive FBI Raid Near Area 51](https://gizmodo.com/ufo-fbi-area-51-raid-dreamland-resort-joerg-arnu-1849887879)
+- Jan 20 - [Citizen scientists report global rapid reductions in the visibility of stars](https://www.science.org/doi/10.1126/science.abq7781)
+- Jan 20 - [Show HN: Timeretain – Track, visualize, and export your hours](https://timeretain.com/)
+- Jan 20 - [NRC Certifies First U.S. Small Modular Reactor Design](https://www.energy.gov/ne/articles/nrc-certifies-first-us-small-modular-reactor-design)
+- Jan 20 - [Tweetbot. April 2011 – January 2023](https://tapbots.com/tweetbot/)
+- Jan 20 - [Script Kit: cross-platform, scriptable, automatic shortcuts to everything](https://www.scriptkit.com/)
 <!--END_SECTION:hn-->
 
 <!--
