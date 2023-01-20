@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 20 - [Ask HN: Why doesn't Apple bring continuity to the Music app?](https://news.ycombinator.com/item?id=34448621)
-- Jan 20 - [CarSized: A way to visualise car dimensions](https://www.carsized.com/en/)
-- Jan 20 - [Show HN: Music Audio Search Engine Using OpenAI's Embeddings on GPT Descriptions](https://muzic-sage.vercel.app/)
-- Jan 20 - [The Grapes of Wrath was banned in the USSR because showed poor people had cars](https://sites.psu.edu/comm150honors/2016/02/04/the-grapes-of-wraths-foreshadowing-of-the-cold-war/)
-- Jan 20 - [T-Mobile says investigating data breach involving 37M accounts](https://www.reuters.com/technology/t-mobile-says-investigating-data-breach-affecting-37-mln-accounts-2023-01-19/)
+- Jan 20 - [Interesting Facts about Bell Labs and 2001: A Space Odyssey (2001)](https://sites.psu.edu/comm150honors/2016/05/03/interesting-facts-about-bell-labs-and-the-odyssey-from-an-archivist-at-bell-labs-my-dad/)
+- Jan 20 - [I've procrastinated working on my thesis for more than a year](https://thoughtsbyaashiq.bearblog.dev/ive-procrastinated-working-on-my-thesis-for-over-a-year/)
+- Jan 20 - [A History of the Eprom in the Soviet Union](https://www.cpushack.com/2023/01/19/a-history-of-the-eprom-in-the-soviet-union/)
+- Jan 20 - [How true is 'Speed Enforced by Aircraft' Sign? (2016)](https://www.kqed.org/news/10953748/how-much-truth-is-there-to-those-speed-enforced-by-aircraft-signs)
+- Jan 20 - [Compilable Lightweight Markup Language for Mathematics](https://iheartla.github.io/)
 <!--END_SECTION:hn-->
 
 <!--
