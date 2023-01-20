@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 19 - [Ask HN: Why aren't there any cars in Nineteen Eighty-Four?](https://news.ycombinator.com/item?id=34446839)
-- Jan 19 - [How to destroy a certificate authority in one month](https://cohost.org/arborelia/post/868933-how-to-destroy-a-cer)
-- Jan 19 - [how to completely own an airline in 3 easy steps](https://maia.crimew.gay/posts/how-to-hack-an-airline/)
-- Jan 19 - [Nuclear explosion impact on humans indoors](https://aip.scitation.org/doi/10.1063/5.0132565)
-- Jan 19 - [Unusual compound found in Rembrandt’s The Night Watch](https://www.esrf.fr/home/news/general/content-news/general/unusual-compound-found-in-rembrandts-the-night-watch.html)
+- Jan 20 - [Ask HN: Why doesn't Apple bring continuity to the Music app?](https://news.ycombinator.com/item?id=34448621)
+- Jan 20 - [CarSized: A way to visualise car dimensions](https://www.carsized.com/en/)
+- Jan 20 - [Show HN: Music Audio Search Engine Using OpenAI's Embeddings on GPT Descriptions](https://muzic-sage.vercel.app/)
+- Jan 20 - [The Grapes of Wrath was banned in the USSR because showed poor people had cars](https://sites.psu.edu/comm150honors/2016/02/04/the-grapes-of-wraths-foreshadowing-of-the-cold-war/)
+- Jan 20 - [T-Mobile says investigating data breach involving 37M accounts](https://www.reuters.com/technology/t-mobile-says-investigating-data-breach-affecting-37-mln-accounts-2023-01-19/)
 <!--END_SECTION:hn-->
 
 <!--
