@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 20 - [Lago (YC S21), open source usage based billing, is hiring a cloud engineer](https://www.ycombinator.com/companies/lago/jobs/kDbtSIO-cloud-engineer)
-- Jan 20 - [Not worried about AI that passes Turing test, but AI that fails it on purpose](https://old.reddit.com/r/C_S_T/comments/ae288t/im_not_worried_about_the_ai_that_can_pass_the/)
-- Jan 20 - [The Myth of the Myth of the 10x Programmer (2020)](https://payne.org/blog/the-myth-of-the-myth-of-the-10x-programmer/)
-- Jan 20 - [A different approach to building C++ projects](https://rachelbythebay.com/bb/)
-- Jan 20 - [Choosing a Postgres Primary Key](https://supabase.com/blog/choosing-a-postgres-primary-key)
+- Jan 20 - [Ask HN: Why are big tech companies having mass layoffs?](https://news.ycombinator.com/item?id=34454392)
+- Jan 20 - [Pipe Operator (|>) For JavaScript](https://github.com/tc39/proposal-pipeline-operator)
+- Jan 20 - [Sudo Replacement](https://xeiaso.net/blog/%F0%9F%A5%BA)
+- Jan 20 - [Uses and Abuses of Military History](https://newcriterion.com/issues/2023/1/uses-abuses-of-military-history)
+- Jan 20 - [The Enduring Mystery of an Aggressive FBI Raid Near Area 51](https://gizmodo.com/ufo-fbi-area-51-raid-dreamland-resort-joerg-arnu-1849887879)
 <!--END_SECTION:hn-->
 
 <!--
