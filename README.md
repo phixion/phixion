@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 20 - [Citizen scientists report global rapid reductions in the visibility of stars](https://www.science.org/doi/10.1126/science.abq7781)
-- Jan 20 - [Show HN: Timeretain – Track, visualize, and export your hours](https://timeretain.com/)
-- Jan 20 - [NRC Certifies First U.S. Small Modular Reactor Design](https://www.energy.gov/ne/articles/nrc-certifies-first-us-small-modular-reactor-design)
-- Jan 20 - [Tweetbot. April 2011 – January 2023](https://tapbots.com/tweetbot/)
-- Jan 20 - [Script Kit: cross-platform, scriptable, automatic shortcuts to everything](https://www.scriptkit.com/)
+- Jan 21 - [IRS Free File: Do Your Taxes for Free](https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free)
+- Jan 20 - [Factors associated w short &long-term weight loss from low-fat or low-carb diets](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00434-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379122004347%3Fshowall%3Dtrue)
+- Jan 20 - [Unlucky numbers (shoddy statistics that put nurses in prison for serial murder)](https://www.science.org/content/article/unlucky-numbers-fighting-murder-convictions-rest-shoddy-stats)
+- Jan 20 - [Offsec.tools – A vast collection of security tools](https://offsec.tools)
+- Jan 20 - [Can you trust your quantum simulator?](https://news.mit.edu/2023/quantum-simulator-randomness-0118)
 <!--END_SECTION:hn-->
 
 <!--
