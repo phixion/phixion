@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 21 - [GPT-3: Techniques to improve reliability](https://github.com/openai/openai-cookbook/blob/main/techniques_to_improve_reliability.md)
+- Jan 21 - [You don't have to engage with people on the Internet](https://xeiaso.net/blog/lesson-online-feedback)
+- Jan 21 - [Viral illnesses may increase chances of developing neurodegenerative diseases](http://www.nia.nih.gov/news/could-viral-illness-increase-chances-developing-alzheimers-or-other-neurodegenerative-diseasep/)
 - Jan 21 - [IRS Free File: Do Your Taxes for Free](https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free)
-- Jan 20 - [Factors associated w short &long-term weight loss from low-fat or low-carb diets](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00434-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379122004347%3Fshowall%3Dtrue)
-- Jan 20 - [Unlucky numbers (shoddy statistics that put nurses in prison for serial murder)](https://www.science.org/content/article/unlucky-numbers-fighting-murder-convictions-rest-shoddy-stats)
-- Jan 20 - [Offsec.tools – A vast collection of security tools](https://offsec.tools)
-- Jan 20 - [Can you trust your quantum simulator?](https://news.mit.edu/2023/quantum-simulator-randomness-0118)
+- Jan 20 - [Summer Afternoon – A WebGL Experiment](https://summer-afternoon.vlucendo.com/)
 <!--END_SECTION:hn-->
 
 <!--
