@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 21 - [Hydra (YC W22) Is Hiring Database Engineers (Postgres)](https://jobs.ashbyhq.com/hydra/880aa0ad-4cbb-4373-8a31-1478d5b7ebdc)
-- Jan 21 - [Make Up a Guy](https://www.antipope.org/charlie/blog-static/2023/01/make-up-a-guy.html)
-- Jan 21 - [The Page with No Code](https://danq.me/2023/01/11/nocode/)
-- Jan 21 - [Andromeda Invaders: A retro-style game written in HTML5, Canvas, and Web Audio](https://susam.net/invaders.html)
-- Jan 21 - [Could Ultrasound Replace the Stethoscope?](https://www.newyorker.com/science/annals-of-medicine/could-ultrasound-replace-the-stethoscope)
+- Jan 21 - [Ask HN: What Happened to iOS Widgets?](https://news.ycombinator.com/item?id=34467116)
+- Jan 21 - [Direct Memory Access computing machine RP2040](https://people.ece.cornell.edu/land/courses/ece4760/RP2040/C_SDK_DMA_machine/DMA_machine_rp2040.html)
+- Jan 21 - [The Website Obesity Crisis](https://idlewords.com/talks/website_obesity.htm)
+- Jan 21 - [FTX’s Venture Capital Backers Face ‘Serious Questions,’ CFTC Official Says](https://www.bloomberg.com/news/articles/2023-01-21/ftx-s-venture-capital-backers-face-serious-questions-cftc-official-says)
+- Jan 21 - [Area 120, Google’s in-house incubator, severely impacted by Alphabet mass layoff](https://techcrunch.com/2023/01/20/area-120-googles-in-house-incubator-severely-impacted-by-alphabet-mass-layoffs/)
 <!--END_SECTION:hn-->
 
 <!--
