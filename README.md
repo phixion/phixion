@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 22 - [Prisma laying off 28% staff](https://www.prisma.io/blog/restructure-announcement-1a9ek279du8j)
-- Jan 22 - [Japan was the future but it's stuck in the past](https://www.bbc.com/news/world-asia-63830490)
-- Jan 22 - [Google is freaking out about ChatGPT](https://www.theverge.com/2023/1/20/23563851/google-search-ai-chatbot-demo-chatgpt)
-- Jan 22 - [The Mystery of Richard Posner](https://lawliberty.org/features/the-mystery-of-richard-posner/)
-- Jan 22 - [Looking for the best Chess960 starting position](https://www.amolas.dev/blog/chess-960-initial-position/)
+- Jan 22 - [Ask HN: ChatGPT et al. and NPCs](https://news.ycombinator.com/item?id=34478503)
+- Jan 22 - [Pomodoro Timer](https://pomofocus.io/)
+- Jan 22 - [Supreme Court allows Reddit mods to anonymously defend Section 230](https://arstechnica.com/tech-policy/2023/01/supreme-court-allows-reddit-mods-to-anonymously-defend-section-230/)
+- Jan 22 - [Git-SIM: Visually simulate Git operations in your own repos with a single termi](https://initialcommit.com/blog/git-sim)
+- Jan 22 - [The contagious visual blandness of Netflix](https://haleynahman.substack.com/p/132-the-contagious-visual-blandness)
 <!--END_SECTION:hn-->
 
 <!--
