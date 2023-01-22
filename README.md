@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 22 - [What ChatGPT and AI-Based Program Generation Mean for Future of Software](https://cacm.acm.org/blogs/blog-cacm/268103-what-do-chatgpt-and-ai-based-automatic-program-generation-mean-for-the-future-of-software/fulltext)
-- Jan 22 - [Things I want to see in JavaScript and Front end development in 2023](https://paularmstrong.dev/blog/2023/01/20/javascript-and-frontend-things-to-see-in-2023/)
-- Jan 22 - [Google Fuchsia OS team affected by layoffs](https://9to5google.com/2023/01/21/fuchsia-area-120-google-layoffs/)
-- Jan 22 - [So, Why Not the Coin?](https://www.joshbarro.com/p/so-why-not-the-coin)
-- Jan 22 - [The Schwarzschild Defence](https://www.nature.com/articles/d41586-022-04550-2)
+- Jan 22 - [Looking for the best Chess960 starting position](https://www.amolas.dev/blog/chess-960-initial-position/)
+- Jan 22 - [PhotoRoom (YC S20) Is Hiring a Fullstack Engineer (Generative AI API) in Paris](https://jobs.lever.co/photoroom/29260c53-a84f-4d4f-a322-3bdc8540cdb7?lever-origin=applied&lever-source%5B%5D=yc)
+- Jan 22 - [ChatGPT in an iOS Shortcut – Worlds Smartest HomeKit Voice Assistant](https://matemarschalko.medium.com/chatgpt-in-an-ios-shortcut-worlds-smartest-homekit-voice-assistant-9a33b780007a)
+- Jan 22 - [Ask HN: Best Layman's Book on Electricity](https://news.ycombinator.com/item?id=34474403)
+- Jan 22 - [New AI edits images based on text instructions](https://github.com/brycedrennan/imaginAIry/blob/master/README.md)
 <!--END_SECTION:hn-->
 
 <!--
