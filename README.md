@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 21 - [San Francisco Falls into the Abyss](https://www.hoover.org/research/san-francisco-falls-abyss)
-- Jan 21 - [Is Copyright Eating AI?](https://heathermeeker.com/2023/01/19/is-copyright-eating-ai/)
-- Jan 21 - [Is Apple checking images we view in the Finder?](https://eclecticlight.co/2023/01/18/is-apple-checking-images-we-view-in-the-finder/)
-- Jan 21 - [Vikunja – The open-source, self-hostable to-do app](https://vikunja.io/)
-- Jan 21 - [The McMurdo Webcams](https://www.usap.gov/videoclipsandmaps/mcmwebcam.cfm)
+- Jan 21 - [What Happened with the Substation Attack in North Carolina?](https://practical.engineering/blog/2023/1/16/what-really-happened-with-the-substation-attack-in-north-carolina)
+- Jan 21 - [TSMC is making the best of a bad geopolitical situation](https://www.economist.com/business/2023/01/19/tsmc-is-making-the-best-of-a-bad-geopolitical-situation)
+- Jan 21 - [ECC RAM should be a human right](https://dmitrybrant.com/2023/01/21/ecc-ram-should-be-a-human-right)
+- Jan 21 - [Pattern Theory: The Mathematics of Perception (D. Mumford) (2002)](https://arxiv.org/abs/math/0212400)
+- Jan 21 - [Inherit environment variables from PID 1 by reading /proc/1/environ](https://gist.github.com/milesrichardson/8f1c9c7088f8a4e889019d7ce0559ec9)
 <!--END_SECTION:hn-->
 
 <!--
