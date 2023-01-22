@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 22 - [Ask HN: ChatGPT et al. and NPCs](https://news.ycombinator.com/item?id=34478503)
-- Jan 22 - [Pomodoro Timer](https://pomofocus.io/)
-- Jan 22 - [Supreme Court allows Reddit mods to anonymously defend Section 230](https://arstechnica.com/tech-policy/2023/01/supreme-court-allows-reddit-mods-to-anonymously-defend-section-230/)
-- Jan 22 - [Git-SIM: Visually simulate Git operations in your own repos with a single termi](https://initialcommit.com/blog/git-sim)
-- Jan 22 - [The contagious visual blandness of Netflix](https://haleynahman.substack.com/p/132-the-contagious-visual-blandness)
+- Jan 22 - [New Scans of the Great Pyramid Confirm Major Discovery Inside](https://www.thearchaeologist.org/blog/new-scans-of-the-great-pyramid-confirm-major-discovery-inside)
+- Jan 22 - [How do we experience the pain of other people?](https://neurosciencenews.com/insula-empathy-pain-21818/)
+- Jan 22 - [WiFi Routers Used to Produce 3D Images of Humans](https://vpnoverview.com/news/wifi-routers-used-to-produce-3d-images-of-humans/)
+- Jan 22 - [I, Libertine](https://en.wikipedia.org/wiki/I,_Libertine)
+- Jan 22 - [The Dawn of Everything challenges a mainstream telling of prehistory](https://www.middleeasteye.net/opinion/david-graeber-vs-yuval-harari-forgotten-cities-myths-how-civilisation-began)
 <!--END_SECTION:hn-->
 
 <!--
