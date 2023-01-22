@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 21 - [What Happened with the Substation Attack in North Carolina?](https://practical.engineering/blog/2023/1/16/what-really-happened-with-the-substation-attack-in-north-carolina)
-- Jan 21 - [TSMC is making the best of a bad geopolitical situation](https://www.economist.com/business/2023/01/19/tsmc-is-making-the-best-of-a-bad-geopolitical-situation)
-- Jan 21 - [ECC RAM should be a human right](https://dmitrybrant.com/2023/01/21/ecc-ram-should-be-a-human-right)
-- Jan 21 - [Pattern Theory: The Mathematics of Perception (D. Mumford) (2002)](https://arxiv.org/abs/math/0212400)
-- Jan 21 - [Inherit environment variables from PID 1 by reading /proc/1/environ](https://gist.github.com/milesrichardson/8f1c9c7088f8a4e889019d7ce0559ec9)
+- Jan 22 - [What ChatGPT and AI-Based Program Generation Mean for Future of Software](https://cacm.acm.org/blogs/blog-cacm/268103-what-do-chatgpt-and-ai-based-automatic-program-generation-mean-for-the-future-of-software/fulltext)
+- Jan 22 - [Things I want to see in JavaScript and Front end development in 2023](https://paularmstrong.dev/blog/2023/01/20/javascript-and-frontend-things-to-see-in-2023/)
+- Jan 22 - [Google Fuchsia OS team affected by layoffs](https://9to5google.com/2023/01/21/fuchsia-area-120-google-layoffs/)
+- Jan 22 - [So, Why Not the Coin?](https://www.joshbarro.com/p/so-why-not-the-coin)
+- Jan 22 - [The Schwarzschild Defence](https://www.nature.com/articles/d41586-022-04550-2)
 <!--END_SECTION:hn-->
 
 <!--
