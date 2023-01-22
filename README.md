@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 22 - [Prisma laying off 28% staff](https://www.prisma.io/blog/restructure-announcement-1a9ek279du8j)
+- Jan 22 - [Japan was the future but it's stuck in the past](https://www.bbc.com/news/world-asia-63830490)
+- Jan 22 - [Google is freaking out about ChatGPT](https://www.theverge.com/2023/1/20/23563851/google-search-ai-chatbot-demo-chatgpt)
+- Jan 22 - [The Mystery of Richard Posner](https://lawliberty.org/features/the-mystery-of-richard-posner/)
 - Jan 22 - [Looking for the best Chess960 starting position](https://www.amolas.dev/blog/chess-960-initial-position/)
-- Jan 22 - [PhotoRoom (YC S20) Is Hiring a Fullstack Engineer (Generative AI API) in Paris](https://jobs.lever.co/photoroom/29260c53-a84f-4d4f-a322-3bdc8540cdb7?lever-origin=applied&lever-source%5B%5D=yc)
-- Jan 22 - [ChatGPT in an iOS Shortcut – Worlds Smartest HomeKit Voice Assistant](https://matemarschalko.medium.com/chatgpt-in-an-ios-shortcut-worlds-smartest-homekit-voice-assistant-9a33b780007a)
-- Jan 22 - [Ask HN: Best Layman's Book on Electricity](https://news.ycombinator.com/item?id=34474403)
-- Jan 22 - [New AI edits images based on text instructions](https://github.com/brycedrennan/imaginAIry/blob/master/README.md)
 <!--END_SECTION:hn-->
 
 <!--
