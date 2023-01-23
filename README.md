@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 23 - [Git Commands You Probably Do Not Need](https://myme.no/posts/2023-01-22-git-commands-you-do-not-need.html)
-- Jan 23 - [Magnetic method to clean PFAS contaminated water](https://www.uq.edu.au/news/article/2023/01/magnetic-method-clean-pfas-contaminated-water)
-- Jan 23 - [macOS CLI tool to configure multi-display resolutions and arrangements](https://github.com/jakehilborn/displayplacer)
-- Jan 23 - [Medical History Books](https://scottlocklin.wordpress.com/2022/12/21/medical-history-books/)
-- Jan 23 - [How do ADHD people cope on here?](https://news.ycombinator.com/item?id=34486848)
+- Jan 23 - [Fentanyl Vaccine Potential ‘Game Changer’ for Opioid Epidemic](https://uh.edu/news-events/stories/2022-news-articles/november-2022/11142022-fentanyl-vaccine-haile-kosten.php)
+- Jan 23 - [Stripe Extends Partnership with Amazon](https://stripe.com/en-es/newsroom/news/amazon-and-stripe)
+- Jan 23 - [Commercial 3D printers emit traces of toxic fumes, study finds](https://eandt.theiet.org/content/articles/2019/10/commercial-3d-printers-emit-traces-of-toxic-fumes-study-finds/)
+- Jan 23 - [Unapproved books now a felony in Manatee County schools](https://popular.info/p/florida-teachers-told-to-remove-books)
+- Jan 23 - [Windows 3.x Vddvga](http://www.os2museum.com/wp/windows-3-x-vddvga/)
 <!--END_SECTION:hn-->
 
 <!--
