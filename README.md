@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 23 - [My Dream Computer](https://bluelander.bearblog.dev/my-dream-computer/)
-- Jan 23 - [Rotation with three shears](https://cohost.org/tomforsyth/post/891823-rotation-with-three)
-- Jan 23 - [Neural Networks and the Chomsky Hierarchy](https://arxiv.org/abs/2207.02098)
-- Jan 23 - [Ceremonial security and cargo cults](https://www.philvenables.com/post/ceremonial-security-and-cargo-cults)
-- Jan 23 - [Kodezi - Autocorrect for Programmers](https://kodezi.com/)
+- Jan 23 - [Git Commands You Probably Do Not Need](https://myme.no/posts/2023-01-22-git-commands-you-do-not-need.html)
+- Jan 23 - [Magnetic method to clean PFAS contaminated water](https://www.uq.edu.au/news/article/2023/01/magnetic-method-clean-pfas-contaminated-water)
+- Jan 23 - [macOS CLI tool to configure multi-display resolutions and arrangements](https://github.com/jakehilborn/displayplacer)
+- Jan 23 - [Medical History Books](https://scottlocklin.wordpress.com/2022/12/21/medical-history-books/)
+- Jan 23 - [How do ADHD people cope on here?](https://news.ycombinator.com/item?id=34486848)
 <!--END_SECTION:hn-->
 
 <!--
