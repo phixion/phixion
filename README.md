@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 23 - [Is tipping getting out of control? Many consumers say yes](https://apnews.com/article/tipping-fatigue-business-c4ae9d440610dae5e8ff4d4df0f88c35)
-- Jan 23 - [Setting the clock ahead to see what breaks](https://rachelbythebay.com/w/2023/01/19/time/)
-- Jan 23 - [About Security Keys for Apple ID](https://support.apple.com/en-us/HT213154)
-- Jan 23 - [How we turned the tables to catch my sister’s Bumble stalker](https://major-grooves.medium.com/how-we-turned-the-tables-to-catch-my-sisters-bumble-stalker-e1979d39670d)
-- Jan 23 - [GitHub Sponsors will stop supporting PayPal](https://github.blog/changelog/2023-01-23-github-sponsors-will-stop-supporting-paypal/)
+- Jan 24 - [Bitwarden design flaw: Server side iterations](https://palant.info/2023/01/23/bitwarden-design-flaw-server-side-iterations/)
+- Jan 24 - [International domain names: where does https://meßagefactory.ca lead you?](https://lemire.me/blog/2023/01/23/international-domain-names-where-does-https-mesagefactory-ca-lead-you/)
+- Jan 24 - [Why the infosec community is ahead of the curve and rationalists and nihilists](https://ioc.exchange/@invisv/109740474201888576)
+- Jan 24 - [How Equifax Became a Private IRS](https://mattstoller.substack.com/p/how-equifax-became-a-private-irs)
+- Jan 24 - [The Disappearance of the Ashtray](https://clivethompson.medium.com/the-disappearance-of-the-ashtray-4badc1be9e3b)
 <!--END_SECTION:hn-->
 
 <!--
