@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 24 - [Stacker (YC S20) is hiring a strategic Product Designer](https://apply.workable.com/stackerhq/j/315EE1DB57/)
-- Jan 24 - [Lost Media: Finding Bill Clinton’s “Boxers or Briefs” MTV Moment](https://waxy.org/2023/01/lost-media-finding-bill-clintons-boxers-or-briefs-mtv-moment/)
-- Jan 24 - [Build security with the assumption it will be used against your friends](https://mjg59.dreamwidth.org/65272.html)
-- Jan 24 - [Ask HN: Why do you find your job satisfying?](https://news.ycombinator.com/item?id=34499286)
-- Jan 24 - [Bitwarden design flaw: Server side iterations](https://palant.info/2023/01/23/bitwarden-design-flaw-server-side-iterations/)
+- Jan 24 - [OneText (YC W23) is hiring our first engineer](https://www.ycombinator.com/companies/onetext/jobs/VdQkXRa-first-engineer-for-onetext-new-y-combinator-fintech-startup-with-former-paypal-leads)
+- Jan 24 - [Marp: Markdown Presentation Ecosystem](https://marp.app/)
+- Jan 24 - [TIPP10 – Free Touch Typing Tutor](https://www.tipp10.com/en/index/)
+- Jan 24 - [Code reviews need to shift-left](https://sourcery-ai.medium.com/code-reviews-need-to-shift-left-ef76fb161a1b)
+- Jan 24 - [Linear-log bucketing: fast, versatile, simple (2015)](https://pvk.ca/Blog/2015/06/27/linear-log-bucketing-fast-versatile-simple/)
 <!--END_SECTION:hn-->
 
 <!--
