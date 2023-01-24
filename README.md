@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 24 - [Stacker (YC S20) is hiring a strategic Product Designer](https://apply.workable.com/stackerhq/j/315EE1DB57/)
+- Jan 24 - [Lost Media: Finding Bill Clinton’s “Boxers or Briefs” MTV Moment](https://waxy.org/2023/01/lost-media-finding-bill-clintons-boxers-or-briefs-mtv-moment/)
+- Jan 24 - [Build security with the assumption it will be used against your friends](https://mjg59.dreamwidth.org/65272.html)
+- Jan 24 - [Ask HN: Why do you find your job satisfying?](https://news.ycombinator.com/item?id=34499286)
 - Jan 24 - [Bitwarden design flaw: Server side iterations](https://palant.info/2023/01/23/bitwarden-design-flaw-server-side-iterations/)
-- Jan 24 - [International domain names: where does https://meßagefactory.ca lead you?](https://lemire.me/blog/2023/01/23/international-domain-names-where-does-https-mesagefactory-ca-lead-you/)
-- Jan 24 - [Why the infosec community is ahead of the curve and rationalists and nihilists](https://ioc.exchange/@invisv/109740474201888576)
-- Jan 24 - [How Equifax Became a Private IRS](https://mattstoller.substack.com/p/how-equifax-became-a-private-irs)
-- Jan 24 - [The Disappearance of the Ashtray](https://clivethompson.medium.com/the-disappearance-of-the-ashtray-4badc1be9e3b)
 <!--END_SECTION:hn-->
 
 <!--
