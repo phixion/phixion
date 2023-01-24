@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 24 - [MacBooks from 2020 Are Being Sold for Scrap Because of Activation Lock](https://www.vice.com/en/article/xgybq7/apple-macbook-activation-lock-right-to-repair)
-- Jan 24 - [Making sense of TypeScript using set theory](https://blog.thoughtspile.tech/2023/01/23/typescript-sets/)
-- Jan 24 - [Sony doesn't want to provide documents regarding Microsoft Activision deal](http://www.fosspatents.com/2023/01/sony-doesnt-want-to-provide-documents.html)
-- Jan 24 - [Internet Archive takes down upload of BBC’s Modi documentary](https://www.thehindu.com/news/national/internet-archive-takes-down-upload-of-bbcs-modi-documentary/article66425460.ece)
-- Jan 24 - [Make a Resume in LaTeX from Scratch](https://drshika.me/2022/04/15/latex-resumes)
+- Jan 24 - [Appliance makers sad that 50% of customers won’t connect smart appliances](https://arstechnica.com/gadgets/2023/01/half-of-smart-appliances-remain-disconnected-from-internet-makers-lament/)
+- Jan 24 - [Making chloroform so I can sleep better at night [video]](https://www.youtube.com/watch?v=L23akTkDqTM)
+- Jan 24 - [Cal.com: Open-Source Calendly Alternative](https://cal.com/)
+- Jan 24 - [Poll: Are startup founders a minority on HN?](https://news.ycombinator.com/item?id=34507665)
+- Jan 24 - [512GB 14” M2 Pro MacBook Pro has slower SSD than previous model](https://twitter.com/ZONEofTECH/status/1617946631156162560)
 <!--END_SECTION:hn-->
 
 <!--
