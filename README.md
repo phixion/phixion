@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 24 - [OneText (YC W23) is hiring our first engineer](https://www.ycombinator.com/companies/onetext/jobs/VdQkXRa-first-engineer-for-onetext-new-y-combinator-fintech-startup-with-former-paypal-leads)
-- Jan 24 - [Marp: Markdown Presentation Ecosystem](https://marp.app/)
-- Jan 24 - [TIPP10 – Free Touch Typing Tutor](https://www.tipp10.com/en/index/)
-- Jan 24 - [Code reviews need to shift-left](https://sourcery-ai.medium.com/code-reviews-need-to-shift-left-ef76fb161a1b)
-- Jan 24 - [Linear-log bucketing: fast, versatile, simple (2015)](https://pvk.ca/Blog/2015/06/27/linear-log-bucketing-fast-versatile-simple/)
+- Jan 24 - [MacBooks from 2020 Are Being Sold for Scrap Because of Activation Lock](https://www.vice.com/en/article/xgybq7/apple-macbook-activation-lock-right-to-repair)
+- Jan 24 - [Making sense of TypeScript using set theory](https://blog.thoughtspile.tech/2023/01/23/typescript-sets/)
+- Jan 24 - [Sony doesn't want to provide documents regarding Microsoft Activision deal](http://www.fosspatents.com/2023/01/sony-doesnt-want-to-provide-documents.html)
+- Jan 24 - [Internet Archive takes down upload of BBC’s Modi documentary](https://www.thehindu.com/news/national/internet-archive-takes-down-upload-of-bbcs-modi-documentary/article66425460.ece)
+- Jan 24 - [Make a Resume in LaTeX from Scratch](https://drshika.me/2022/04/15/latex-resumes)
 <!--END_SECTION:hn-->
 
 <!--
