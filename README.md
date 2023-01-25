@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 24 - [Appliance makers sad that 50% of customers won’t connect smart appliances](https://arstechnica.com/gadgets/2023/01/half-of-smart-appliances-remain-disconnected-from-internet-makers-lament/)
-- Jan 24 - [Making chloroform so I can sleep better at night [video]](https://www.youtube.com/watch?v=L23akTkDqTM)
-- Jan 24 - [Cal.com: Open-Source Calendly Alternative](https://cal.com/)
-- Jan 24 - [Poll: Are startup founders a minority on HN?](https://news.ycombinator.com/item?id=34507665)
-- Jan 24 - [512GB 14” M2 Pro MacBook Pro has slower SSD than previous model](https://twitter.com/ZONEofTECH/status/1617946631156162560)
+- Jan 24 - [Re-Adding SMS Support to Signal](https://github.com/ryukoposting/Signal-Android/tree/fork-5.53.8)
+- Jan 24 - [Fast JavaScript-to-WASM Call from FTL](https://github.com/WebKit/WebKit/pull/8607)
+- Jan 24 - [Mystery Signal from a Helicopter (2014)](https://www.windytan.com/2014/02/mystery-signal-from-helicopter.html)
+- Jan 24 - [Stanford's New Study Validates Ancient Breathing Technique](https://superself.substack.com/p/stanfords-ancient-breathing-technique)
+- Jan 24 - [How to Prioritize Tasks?](https://jimmyislive.dev/posts/how-to-prioritize/)
 <!--END_SECTION:hn-->
 
 <!--
