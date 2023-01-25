@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 25 - [Ask HN: What are we even chasing?](https://news.ycombinator.com/item?id=34519487)
-- Jan 25 - [Show HN: UpTrain – Open-source ML observability and refinement tool](https://github.com/uptrain-ai/uptrain)
-- Jan 25 - [Antidepressants help bacteria resist antibiotics](https://www.nature.com/articles/d41586-023-00186-y)
-- Jan 25 - [Show HN: A simple world flags game, my first web dev project as a beginner](https://billywojcicki.github.io/vexillologist/)
-- Jan 25 - [Using {Blocks} in Rust and Go for Fun and Profit](https://taylor.town/code-blocks)
+- Jan 25 - [Building the Perfect Memory Bandwidth Beast](https://www.nextplatform.com/2023/01/24/building-the-perfect-memory-bandwidth-beast/)
+- Jan 25 - [The Night Watch [pdf]](https://www.usenix.org/system/files/1311_05-08_mickens.pdf)
+- Jan 25 - [In Their 20s, Struggling to Save and Tired of Being Lectured About It](https://www.nytimes.com/2023/01/20/business/saving-money-inflation-economy.html)
+- Jan 25 - [Amazon has radically transformed small businesses in both the U.S. and China](https://www.semafor.com/article/01/25/2023/how-amazon-turned-small-businesses-into-day-traders)
+- Jan 25 - [PolicyFly (YC W22) Is Hiring a Golang Engineer to Build DevTools and Integrations](https://www.ycombinator.com/companies/policyfly/jobs/EZEP3qP-backend-engineer-tools-integrations)
 <!--END_SECTION:hn-->
 
 <!--
