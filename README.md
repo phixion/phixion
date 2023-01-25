@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 25 - [Google’s Fuchsia OS was one of the hardest hit by last week’s layoffs](https://arstechnica.com/gadgets/2023/01/big-layoffs-at-googles-fuchsia-os-call-the-projects-future-into-question/)
-- Jan 25 - [Macroeconomic Changes Have Made It Impossible for Me to Want to Pay You](https://www.mcsweeneys.net/articles/macroeconomic-changes-have-made-it-impossible-for-me-to-want-to-pay-you)
-- Jan 25 - [Show HN: Refine v3.97 – Open-source React framework for building CRUD apps](https://github.com/refinedev/refine/blob/next/CHANGELOG.md)
-- Jan 25 - [Trs80gp – A TRS-80 Emulator](http://48k.ca/trs80gp.html)
-- Jan 25 - [Show HN: I “wrote” a kid's book with ChatGPT and Midjourney](https://adventure-of-penelope.vercel.app/)
+- Jan 25 - [The CSS at w3.org is gone](https://www.w3.org/)
+- Jan 25 - [A Matchbox Game-Learning Machine (1991) [pdf]](https://gwern.net/docs/reinforcement-learning/model-free/1991-gardner-ch8amatchboxgamelearningmachine.pdf)
+- Jan 25 - [Mjolnir](https://fabiensanglard.net/mjolnir/)
+- Jan 25 - [Mjolnir](https://fabiensanglard.net/mjolnir/index.html)
+- Jan 25 - [Motors for Makers: A Guide to Steppers, Servos, and Other Electrical Machines](http://www.motorsformakers.com/)
 <!--END_SECTION:hn-->
 
 <!--
