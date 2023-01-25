@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 25 - [The CSS at w3.org is gone](https://www.w3.org/)
-- Jan 25 - [A Matchbox Game-Learning Machine (1991) [pdf]](https://gwern.net/docs/reinforcement-learning/model-free/1991-gardner-ch8amatchboxgamelearningmachine.pdf)
-- Jan 25 - [Mjolnir](https://fabiensanglard.net/mjolnir/)
-- Jan 25 - [Mjolnir](https://fabiensanglard.net/mjolnir/index.html)
-- Jan 25 - [Motors for Makers: A Guide to Steppers, Servos, and Other Electrical Machines](http://www.motorsformakers.com/)
+- Jan 25 - [Ask HN: What are we even chasing?](https://news.ycombinator.com/item?id=34519487)
+- Jan 25 - [Show HN: UpTrain – Open-source ML observability and refinement tool](https://github.com/uptrain-ai/uptrain)
+- Jan 25 - [Antidepressants help bacteria resist antibiotics](https://www.nature.com/articles/d41586-023-00186-y)
+- Jan 25 - [Show HN: A simple world flags game, my first web dev project as a beginner](https://billywojcicki.github.io/vexillologist/)
+- Jan 25 - [Using {Blocks} in Rust and Go for Fun and Profit](https://taylor.town/code-blocks)
 <!--END_SECTION:hn-->
 
 <!--
