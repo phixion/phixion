@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 26 - [Meticulous (YC S21) Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=34530631)
-- Jan 26 - [PayPal Data Breach Notification](https://apps.web.maine.gov/online/aeviewer/ME/40/766753f1-f9c7-4dc5-9a5c-fe0f3ff51c06.shtml)
-- Jan 26 - [Realistic Computer-Generated Handwriting](https://www.calligrapher.ai/)
-- Jan 26 - [Imitating Human Behaviour with Diffusion Models](https://arxiv.org/abs/2301.10677)
-- Jan 26 - [An AI robot lawyer was set to argue in court. Real lawyers shut it down](https://www.npr.org/2023/01/25/1151435033/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats)
+- Jan 26 - [Tell HN: IBM and SAP are cutting thousands of jobs](https://news.ycombinator.com/item?id=34532983)
+- Jan 26 - [The Cause of Depression Is Probably Not What You Think](https://www.quantamagazine.org/the-cause-of-depression-is-probably-not-what-you-think-20230126/)
+- Jan 26 - [IBM to cut about 3,900 workers while still hiring in ‘higher growth’ areas](https://www.latimes.com/business/story/2023-01-25/ibm-layoff-3900-workers-still-hiring)
+- Jan 26 - [An IP Attorney’s Reading of the Stable Diffusion Class Action Lawsuit](https://katedowninglaw.com/2023/01/26/an-ip-attorneys-reading-of-the-stable-diffusion-class-action-lawsuit/)
+- Jan 26 - [Fun with Gentoo: Why don't we just shuffle those ROP gadgets away?](https://quitesimple.org/page/fun-gentoo-shuffle-rop-gadgets)
 <!--END_SECTION:hn-->
 
 <!--
