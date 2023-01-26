@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 26 - [NYSE Tuesday opening mayhem traced to a staffer who left a backup system running](https://www.bloomberg.com/news/articles/2023-01-25/nyse-mayhem-traced-to-a-staffer-who-left-a-backup-system-running)
-- Jan 26 - [Disassembly of the Asteroids arcade game firmware](https://github.com/nmikstas/asteroids-disassembly)
-- Jan 26 - [Mexico cracks down on solar geoengineering](https://www.cnbc.com/2023/01/18/mexico-cracks-down-on-solar-geoengineering-stalling-make-sunsets.html)
-- Jan 26 - [Two Supreme Court cases that could break the internet](https://www.newyorker.com/news/q-and-a/two-supreme-court-cases-that-could-break-the-internet)
-- Jan 26 - [Sound travels further in cold weather (2019)](https://blog.weatherops.com/sound-travels-further-in-cold-weather-heres-why)
+- Jan 26 - [Meticulous (YC S21) Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=34530631)
+- Jan 26 - [PayPal Data Breach Notification](https://apps.web.maine.gov/online/aeviewer/ME/40/766753f1-f9c7-4dc5-9a5c-fe0f3ff51c06.shtml)
+- Jan 26 - [Realistic Computer-Generated Handwriting](https://www.calligrapher.ai/)
+- Jan 26 - [Imitating Human Behaviour with Diffusion Models](https://arxiv.org/abs/2301.10677)
+- Jan 26 - [An AI robot lawyer was set to argue in court. Real lawyers shut it down](https://www.npr.org/2023/01/25/1151435033/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats)
 <!--END_SECTION:hn-->
 
 <!--
