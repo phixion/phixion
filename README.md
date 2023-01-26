@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 25 - [Building the Perfect Memory Bandwidth Beast](https://www.nextplatform.com/2023/01/24/building-the-perfect-memory-bandwidth-beast/)
-- Jan 25 - [The Night Watch [pdf]](https://www.usenix.org/system/files/1311_05-08_mickens.pdf)
-- Jan 25 - [In Their 20s, Struggling to Save and Tired of Being Lectured About It](https://www.nytimes.com/2023/01/20/business/saving-money-inflation-economy.html)
-- Jan 25 - [Amazon has radically transformed small businesses in both the U.S. and China](https://www.semafor.com/article/01/25/2023/how-amazon-turned-small-businesses-into-day-traders)
-- Jan 25 - [PolicyFly (YC W22) Is Hiring a Golang Engineer to Build DevTools and Integrations](https://www.ycombinator.com/companies/policyfly/jobs/EZEP3qP-backend-engineer-tools-integrations)
+- Jan 25 - [Training Stable Diffusion from Scratch Costs <$160k](https://www.mosaicml.com/blog/training-stable-diffusion-from-scratch-costs-160k)
+- Jan 25 - [Magnetoactive liquid-solid phase transitional matter](https://www.cell.com/matter/fulltext/S2590-2385(22)00693-2)
+- Jan 25 - [Etleap (YC W13) Is Hiring a Software Engineer (London)](https://etleap.com/careers/software-engineer/)
+- Jan 25 - [I almost bought a scanner](http://leejo.github.io/2023/01/25/scanner/)
+- Jan 25 - [Composefs: Content-Addressable Overlay Filesystem for Linux](https://github.com/containers/composefs)
 <!--END_SECTION:hn-->
 
 <!--
