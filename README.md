@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 26 - [Pip and cargo are not the same](https://blog.williammanley.net/2022/02/23/pip-and-cargo-are-not-the-same.html)
-- Jan 26 - [Ugly Gerry – Gerrymandering font](https://fontsarena.com/ugly-gerry/)
-- Jan 26 - [OpenAI Status: Multiple engines are down](https://status.openai.com/#)
-- Jan 26 - [VE Text Editor](http://www.inverary.net/ve/ve.html)
-- Jan 25 - [Tell HN: Whole Yandex Git repository leaked](https://news.ycombinator.com/item?id=34525936)
+- Jan 26 - [NYSE Tuesday opening mayhem traced to a staffer who left a backup system running](https://www.bloomberg.com/news/articles/2023-01-25/nyse-mayhem-traced-to-a-staffer-who-left-a-backup-system-running)
+- Jan 26 - [Disassembly of the Asteroids arcade game firmware](https://github.com/nmikstas/asteroids-disassembly)
+- Jan 26 - [Mexico cracks down on solar geoengineering](https://www.cnbc.com/2023/01/18/mexico-cracks-down-on-solar-geoengineering-stalling-make-sunsets.html)
+- Jan 26 - [Two Supreme Court cases that could break the internet](https://www.newyorker.com/news/q-and-a/two-supreme-court-cases-that-could-break-the-internet)
+- Jan 26 - [Sound travels further in cold weather (2019)](https://blog.weatherops.com/sound-travels-further-in-cold-weather-heres-why)
 <!--END_SECTION:hn-->
 
 <!--
