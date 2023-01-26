@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 26 - [Tell HN: IBM and SAP are cutting thousands of jobs](https://news.ycombinator.com/item?id=34532983)
-- Jan 26 - [The Cause of Depression Is Probably Not What You Think](https://www.quantamagazine.org/the-cause-of-depression-is-probably-not-what-you-think-20230126/)
-- Jan 26 - [IBM to cut about 3,900 workers while still hiring in ‘higher growth’ areas](https://www.latimes.com/business/story/2023-01-25/ibm-layoff-3900-workers-still-hiring)
-- Jan 26 - [An IP Attorney’s Reading of the Stable Diffusion Class Action Lawsuit](https://katedowninglaw.com/2023/01/26/an-ip-attorneys-reading-of-the-stable-diffusion-class-action-lawsuit/)
-- Jan 26 - [Fun with Gentoo: Why don't we just shuffle those ROP gadgets away?](https://quitesimple.org/page/fun-gentoo-shuffle-rop-gadgets)
+- Jan 26 - [Librandombytes – a public domain library for generating randomness](https://randombytes.cr.yp.to/)
+- Jan 26 - [Swiss retailer Galaxus now displays warranty score and return rate of products](https://www.galaxus.ch/en/page/refreshingly-honest-digitec-galaxus-now-displays-warranty-score-and-return-rate-25950)
+- Jan 26 - [Ask HN: Why are so many PHP projects moving to Node?](https://news.ycombinator.com/item?id=34536041)
+- Jan 26 - [Reverse-engineering the Intel 8086 processor's HALT circuits](https://www.righto.com/2023/01/reverse-engineering-intel-8086.html)
+- Jan 26 - [Show HN: I'm a doctor and made a responsive breathing app for stress and anxiety](https://www.lungy.app/)
 <!--END_SECTION:hn-->
 
 <!--
