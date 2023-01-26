@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 25 - [Training Stable Diffusion from Scratch Costs <$160k](https://www.mosaicml.com/blog/training-stable-diffusion-from-scratch-costs-160k)
-- Jan 25 - [Magnetoactive liquid-solid phase transitional matter](https://www.cell.com/matter/fulltext/S2590-2385(22)00693-2)
-- Jan 25 - [Etleap (YC W13) Is Hiring a Software Engineer (London)](https://etleap.com/careers/software-engineer/)
-- Jan 25 - [I almost bought a scanner](http://leejo.github.io/2023/01/25/scanner/)
-- Jan 25 - [Composefs: Content-Addressable Overlay Filesystem for Linux](https://github.com/containers/composefs)
+- Jan 26 - [Pip and cargo are not the same](https://blog.williammanley.net/2022/02/23/pip-and-cargo-are-not-the-same.html)
+- Jan 26 - [Ugly Gerry – Gerrymandering font](https://fontsarena.com/ugly-gerry/)
+- Jan 26 - [OpenAI Status: Multiple engines are down](https://status.openai.com/#)
+- Jan 26 - [VE Text Editor](http://www.inverary.net/ve/ve.html)
+- Jan 25 - [Tell HN: Whole Yandex Git repository leaked](https://news.ycombinator.com/item?id=34525936)
 <!--END_SECTION:hn-->
 
 <!--
