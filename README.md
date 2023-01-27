@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 27 - [Reverse Engineering Programs with Unknown Instruction Sets [pdf]](https://www.recon.cx/2012/schedule/attachments/40_Chernov-Troshina.pdf)
-- Jan 27 - [BuzzFeed says it will use AI to help create content, stock jumps 150% – CNN](https://www.cnn.com/2023/01/26/media/buzzfeed-ai-content-creation/index.html)
-- Jan 27 - [Text-to-4D Dynamic Scene Generation](https://make-a-video3d.github.io/)
-- Jan 27 - [97% of American adults own a cellphone or smartphone (2021)](https://www.pewresearch.org/internet/fact-sheet/mobile/)
-- Jan 27 - [How we’re approaching AI-generated writing on Medium](https://blog.medium.com/how-were-approaching-ai-generated-writing-on-medium-16ee8cb3bc89)
+- Jan 27 - [Enough Empty Office Space for 160k People in San Francisco](https://socketsite.com/archives/2023/01/enough-empty-office-space-for-160000-employees-in-san-francisco.html)
+- Jan 27 - [ChatGPT and the Enshittening of Knowledge](https://castlebridge.ie/insights/chatgpt-and-the-enshittening-of-knowledge/)
+- Jan 27 - [OsmAnd (OpenStreetMap) 4.3 for Android is fast with a new rendering engine](https://osmand.net/blog/osmand-android-4-3-released/)
+- Jan 27 - [Accessible hamburger buttons without JavaScript](https://www.pausly.app/blog/accessible-hamburger-buttons-without-javascript)
+- Jan 27 - [The Tilde Text Editor](https://github.com/gphalkes/tilde)
 <!--END_SECTION:hn-->
 
 <!--
