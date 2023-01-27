@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 27 - [Deepfaked Tom Cruise and Paris Hilton](https://old.reddit.com/r/DeepFakesSFW/comments/10meypl/deepfaked_tom_cruise_and_paris_hilton_what_do_you/)
-- Jan 27 - [Enso (YC S21) Is Hiring TypeScript Developer](https://www.ycombinator.com/companies/enso/jobs/yON8exA-senior-typescript-developer)
-- Jan 27 - [Lytro Unlock – Making a bad camera slightly better](https://github.com/ea/lytro_unlock)
-- Jan 27 - [Show HN: Chrome extension to close Zoom/Notion tabs after launching desktop app](https://chrome.google.com/webstore/detail/goodnight-tabs/paichadkkbhdmkngdmkgmefiabjjcaai)
-- Jan 27 - [The Galaga no-fire-cheat mystery (2012)](https://jasoneckert.github.io/myblog/the-galaga-no-fire-cheat-mystery/)
+- Jan 27 - [Reverse Engineering Programs with Unknown Instruction Sets [pdf]](https://www.recon.cx/2012/schedule/attachments/40_Chernov-Troshina.pdf)
+- Jan 27 - [BuzzFeed says it will use AI to help create content, stock jumps 150% – CNN](https://www.cnn.com/2023/01/26/media/buzzfeed-ai-content-creation/index.html)
+- Jan 27 - [Text-to-4D Dynamic Scene Generation](https://make-a-video3d.github.io/)
+- Jan 27 - [97% of American adults own a cellphone or smartphone (2021)](https://www.pewresearch.org/internet/fact-sheet/mobile/)
+- Jan 27 - [How we’re approaching AI-generated writing on Medium](https://blog.medium.com/how-were-approaching-ai-generated-writing-on-medium-16ee8cb3bc89)
 <!--END_SECTION:hn-->
 
 <!--
