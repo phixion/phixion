@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 26 - [Interchange in 1k Words](https://www.mtb.xyz/notes/interchange-in-1000-words)
-- Jan 26 - [DataDog asked OpenTelemetry contributor to kill pull request](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/5836)
+- Jan 27 - [Apple: The Only Big Tech Giant Going Against the Job Cuts Tide](https://blog.pragmaticengineer.com/apple-job-cuts-tide/)
+- Jan 27 - [MusicLM: Generating music from text](https://arxiv.org/abs/2301.11325)
+- Jan 27 - [Why VR/AR gets farther away as it comes into focus](https://www.matthewball.vc/all/why-vrar-gets-farther-away-as-it-comes-into-focus)
 - Jan 26 - [SQLAlchemy 2.0 Released](https://www.sqlalchemy.org/blog/2023/01/26/sqlalchemy-2.0.0-released/)
 - Jan 26 - [ImGUI Ported to a LiteX SoC](https://github.com/suarezvictor/litex_imgui_usb_demo)
-- Jan 26 - [Slack is the opposite of organizational memory (2018)](https://abe-winter.github.io/plea%27s/help/2018/02/11/slack.html)
 <!--END_SECTION:hn-->
 
 <!--
