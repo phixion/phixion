@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 27 - [Apple: The Only Big Tech Giant Going Against the Job Cuts Tide](https://blog.pragmaticengineer.com/apple-job-cuts-tide/)
-- Jan 27 - [MusicLM: Generating music from text](https://arxiv.org/abs/2301.11325)
-- Jan 27 - [Why VR/AR gets farther away as it comes into focus](https://www.matthewball.vc/all/why-vrar-gets-farther-away-as-it-comes-into-focus)
-- Jan 26 - [SQLAlchemy 2.0 Released](https://www.sqlalchemy.org/blog/2023/01/26/sqlalchemy-2.0.0-released/)
-- Jan 26 - [ImGUI Ported to a LiteX SoC](https://github.com/suarezvictor/litex_imgui_usb_demo)
+- Jan 27 - [Deepfaked Tom Cruise and Paris Hilton](https://old.reddit.com/r/DeepFakesSFW/comments/10meypl/deepfaked_tom_cruise_and_paris_hilton_what_do_you/)
+- Jan 27 - [Enso (YC S21) Is Hiring TypeScript Developer](https://www.ycombinator.com/companies/enso/jobs/yON8exA-senior-typescript-developer)
+- Jan 27 - [Lytro Unlock – Making a bad camera slightly better](https://github.com/ea/lytro_unlock)
+- Jan 27 - [Show HN: Chrome extension to close Zoom/Notion tabs after launching desktop app](https://chrome.google.com/webstore/detail/goodnight-tabs/paichadkkbhdmkngdmkgmefiabjjcaai)
+- Jan 27 - [The Galaga no-fire-cheat mystery (2012)](https://jasoneckert.github.io/myblog/the-galaga-no-fire-cheat-mystery/)
 <!--END_SECTION:hn-->
 
 <!--
