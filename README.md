@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 27 - [Enough Empty Office Space for 160k People in San Francisco](https://socketsite.com/archives/2023/01/enough-empty-office-space-for-160000-employees-in-san-francisco.html)
-- Jan 27 - [ChatGPT and the Enshittening of Knowledge](https://castlebridge.ie/insights/chatgpt-and-the-enshittening-of-knowledge/)
-- Jan 27 - [OsmAnd (OpenStreetMap) 4.3 for Android is fast with a new rendering engine](https://osmand.net/blog/osmand-android-4-3-released/)
-- Jan 27 - [Accessible hamburger buttons without JavaScript](https://www.pausly.app/blog/accessible-hamburger-buttons-without-javascript)
-- Jan 27 - [The Tilde Text Editor](https://github.com/gphalkes/tilde)
+- Jan 27 - [Pandas Illustrated: The Definitive Visual Guide to Pandas](https://scribe.citizen4.eu/pandas-illustrated-the-definitive-visual-guide-to-pandas-c31fa921a43)
+- Jan 27 - [$6.96B was raised by private longevity companies in 2022](https://spannr.com/reports/2022-longevity-funding)
+- Jan 27 - [Tell HN: GitHub now blocks aliased email addresses](https://news.ycombinator.com/item?id=34550418)
+- Jan 27 - [Transcending Scaling Laws with 0.1% Extra Compute](https://arxiv.org/abs/2210.11399)
+- Jan 27 - [The ER has become a sanctuary for society’s unmet needs](https://www.seattletimes.com/opinion/the-er-has-become-a-sanctuary-for-societys-unmet-needs/)
 <!--END_SECTION:hn-->
 
 <!--
