@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 27 - [Manatee county teachers close class libraries, fearing prosecution under FL law](https://www.heraldtribune.com/story/news/education/2023/01/23/fearing-prosecution-manatee-county-teachers-cover-up-classroom-books/69832276007/)
-- Jan 27 - [Broider: Pixel Art CSS Borders](https://maxbittker.github.io/broider/)
-- Jan 27 - [Weather Machine – Rock solid weather APIs with zero hassle](https://weathermachine.io/)
-- Jan 27 - [First signs of spring have arrived in parts of south 3 weeks sooner than average](https://www.usanpn.org/news/spring)
-- Jan 27 - [Building a Sleeper Computer from an SGI Indy](https://buu342.me/blog/projects/01-SGIIndySleeper.html)
+- Jan 28 - [Indication of molnupiravir-associated mutations in SARS-CoV-2 sequencing](https://www.medrxiv.org/content/10.1101/2023.01.26.23284998v1)
+- Jan 28 - [Where have all America’s workers gone?](https://www.economist.com/graphic-detail/2023/01/24/where-have-all-americas-workers-gone)
+- Jan 28 - [Magic the Gathering Players Lament the Loss of 30-Year History](https://mtgrocks.com/mtg-players-lament-the-loss-of-30-year-history/)
+- Jan 28 - [Self-locking gears prevent backdriving (2012)](https://gearsolutions.com/features/applications-for-self-locking-gears/)
+- Jan 28 - [Selfie: An educational platform for teaching systems engineering](https://github.com/cksystemsteaching/selfie)
 <!--END_SECTION:hn-->
 
 <!--
