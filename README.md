@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 28 - [Stripe tried to raise more funding at a $55B-$60B valuation](https://techcrunch.com/2023/01/27/fintech-stripe-tried-to-raise-more-capital-at-a-55b-60b-valuation/)
+- Jan 28 - [Show HN: PlantUML based collaborative UML editor is now open source](https://github.com/AlexITC/collabuml)
+- Jan 28 - [WHO updates critical medicines list for radiological and nuclear emergencies](https://www.who.int/news/item/27-01-2023-who-updates-critical-medicines-list-for-radiation-and-nuclear-emergencies)
 - Jan 28 - [Indication of molnupiravir-associated mutations in SARS-CoV-2 sequencing](https://www.medrxiv.org/content/10.1101/2023.01.26.23284998v1)
-- Jan 28 - [Where have all America’s workers gone?](https://www.economist.com/graphic-detail/2023/01/24/where-have-all-americas-workers-gone)
-- Jan 28 - [Magic the Gathering Players Lament the Loss of 30-Year History](https://mtgrocks.com/mtg-players-lament-the-loss-of-30-year-history/)
-- Jan 28 - [Self-locking gears prevent backdriving (2012)](https://gearsolutions.com/features/applications-for-self-locking-gears/)
-- Jan 28 - [Selfie: An educational platform for teaching systems engineering](https://github.com/cksystemsteaching/selfie)
+- Jan 28 - [Magic the Gathering players lament the loss of 30-year history](https://mtgrocks.com/mtg-players-lament-the-loss-of-30-year-history/)
 <!--END_SECTION:hn-->
 
 <!--
