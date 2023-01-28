@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 28 - [BBC Modi Documentary Removal](https://blog.archive.org/2023/01/27/bbc-modi-documentary-removal/)
-- Jan 28 - [Netheads vs. bellheads redux: the strange victory of SIP over the telephone](https://www.devever.net/~hl/sip-victory#narrow)
-- Jan 28 - [Smoking is associated with lower cognitive function in older adults](https://news.weill.cornell.edu/news/2023/01/in-brief-smoking-is-associated-with-lower-cognitive-function-in-older-adults)
-- Jan 28 - [Merging with diff3: the “three-way merge”](https://blog.jcoglan.com/2017/05/08/merging-with-diff3/)
-- Jan 28 - [Show HN: Clamshell- an experimental Python based shell](https://github.com/benrutter/clamshell)
+- Jan 28 - [DoD FAQ: Is Open Source Software Commercial Software? Yes.](https://dodcio.defense.gov/Open-Source-Software-FAQ/#q-is-oss-commercial-software-is-it-cots)
+- Jan 28 - [Features I'd Like in PostgreSQL](https://gilslotd.com/blog/features_id_postgresql)
+- Jan 28 - [Ask HN: Why Is Everything Declining?](https://news.ycombinator.com/item?id=34560255)
+- Jan 28 - [Tracy: A hybrid frame and sampling profiler for games and other applications](https://github.com/wolfpld/tracy)
+- Jan 28 - [We can reduce homelessness if we follow the science on what works](https://www.newscientist.com/article/2356643-we-can-reduce-homelessness-if-we-follow-the-science-on-what-works/)
 <!--END_SECTION:hn-->
 
 <!--
