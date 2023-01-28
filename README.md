@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 28 - [Stripe tried to raise more funding at a $55B-$60B valuation](https://techcrunch.com/2023/01/27/fintech-stripe-tried-to-raise-more-capital-at-a-55b-60b-valuation/)
-- Jan 28 - [Show HN: PlantUML based collaborative UML editor is now open source](https://github.com/AlexITC/collabuml)
-- Jan 28 - [WHO updates critical medicines list for radiological and nuclear emergencies](https://www.who.int/news/item/27-01-2023-who-updates-critical-medicines-list-for-radiation-and-nuclear-emergencies)
-- Jan 28 - [Indication of molnupiravir-associated mutations in SARS-CoV-2 sequencing](https://www.medrxiv.org/content/10.1101/2023.01.26.23284998v1)
-- Jan 28 - [Magic the Gathering players lament the loss of 30-year history](https://mtgrocks.com/mtg-players-lament-the-loss-of-30-year-history/)
+- Jan 28 - [Diff Models – A New Way to Edit Code](https://carper.ai/diff-models-a-new-way-to-edit-code/)
+- Jan 28 - [Detect ChatGPT Generated Content](https://gptzero.me/)
+- Jan 28 - [Kotlin Data Classes 101: Understanding Syntax, Usage and Inheritance](https://hardiksachan.com/kotlin-data-classes-101-understanding-syntax-usage-and-inheritance)
+- Jan 28 - [30k lines of SwiftUI in production later](https://blog.timing.is/swiftui-production-experience-problems-solutions-performance-tips/)
+- Jan 28 - [Rust Books Grouped by Level](https://github.com/sger/RustBooks)
 <!--END_SECTION:hn-->
 
 <!--
