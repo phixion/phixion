@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 28 - [Diff Models – A New Way to Edit Code](https://carper.ai/diff-models-a-new-way-to-edit-code/)
-- Jan 28 - [Detect ChatGPT Generated Content](https://gptzero.me/)
-- Jan 28 - [Kotlin Data Classes 101: Understanding Syntax, Usage and Inheritance](https://hardiksachan.com/kotlin-data-classes-101-understanding-syntax-usage-and-inheritance)
-- Jan 28 - [30k lines of SwiftUI in production later](https://blog.timing.is/swiftui-production-experience-problems-solutions-performance-tips/)
-- Jan 28 - [Rust Books Grouped by Level](https://github.com/sger/RustBooks)
+- Jan 28 - [BBC Modi Documentary Removal](https://blog.archive.org/2023/01/27/bbc-modi-documentary-removal/)
+- Jan 28 - [Netheads vs. bellheads redux: the strange victory of SIP over the telephone](https://www.devever.net/~hl/sip-victory#narrow)
+- Jan 28 - [Smoking is associated with lower cognitive function in older adults](https://news.weill.cornell.edu/news/2023/01/in-brief-smoking-is-associated-with-lower-cognitive-function-in-older-adults)
+- Jan 28 - [Merging with diff3: the “three-way merge”](https://blog.jcoglan.com/2017/05/08/merging-with-diff3/)
+- Jan 28 - [Show HN: Clamshell- an experimental Python based shell](https://github.com/benrutter/clamshell)
 <!--END_SECTION:hn-->
 
 <!--
