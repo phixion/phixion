@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 28 - [Orion Browser](https://browser.kagi.com/)
-- Jan 28 - [Gaggle Drops LGBTQ Keywords from Student Surveillance Tool](https://www.the74million.org/article/gaggle-drops-lgbtq-keywords-from-student-surveillance-tool-following-bias-concerns/)
-- Jan 28 - [Apple sued for promising privacy, failing at it](https://www.theregister.com/2023/01/28/apple_sued_privacy/)
-- Jan 28 - [What are some interesting uses of WebUSB you have come across?](https://news.ycombinator.com/item?id=34562256)
-- Jan 28 - [AutoHotkey v2 Official Release Announcement](https://www.autohotkey.com/boards/viewtopic.php?t=112989)
+- Jan 29 - [Ask HN: Is it just me or is 5G strictly worse than LTE?](https://news.ycombinator.com/item?id=34564590)
+- Jan 29 - [Unconditional Love](https://eden.bearblog.dev/unconditional-love/)
+- Jan 29 - [Amazon Will Start Charging Prime Members for US Grocery Orders of Less Than $150](https://www.bloomberg.com/news/articles/2023-01-27/amazon-will-start-charging-prime-members-for-most-grocery-deliveries)
+- Jan 29 - [Reverse RSS Feed](https://www.jefftk.com/p/reverse-rss-feed)
+- Jan 29 - [Show HN: Git Heat Map – a tool for visualising git repo activity for each file](https://github.com/jmforsythe/Git-Heat-Map)
 <!--END_SECTION:hn-->
 
 <!--
