@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 29 - [Grid Beam](https://gridbeam.xyz/)
-- Jan 29 - [Higher Rates Will Lead to the Next Generation of Great Tech Startups](https://chamathreads.substack.com/p/higher-rates-will-lead-to-the-next)
-- Jan 29 - [Oracle per-employee Java pricing causes concern](https://www.infoworld.com/article/3686611/oracle-per-employee-java-pricing-causes-concern.html)
-- Jan 29 - [Heart attacks on rise for 25-44 age group](https://www.khon2.com/local-news/heart-attacks-on-dramatic-rise-for-25-44-age-group/)
-- Jan 29 - [Wikipedia's new skin is a sad opportunity to reminisce what we could've had](https://blog.legoktm.com/2023/01/18/wikipedias-new-skin-is-a-sad-opportunity-to-reminisce-what-we-couldve-had-instead.html)
+- Jan 29 - [Steve Wozniak used to tip from printed sheets of $2 bills](https://web.archive.org/web/20111122202554/http://archive.woz.org/letters/general/78.html)
+- Jan 29 - [Noctua's NH-P1 – Simply Amazing](https://boringtextreviews.com/a-cooler-without-fans-testing-noctuas-nh-p1-with-ryzen-7700x-and-intels-i9-13900k/)
+- Jan 29 - ['We Are Being Levelled Down’: Why the UK’s Wealth Gap Is Widening](https://www.bloomberg.com/graphics/uk-levelling-up/inflation-government-delays-why-wealth-gap-widens.html)
+- Jan 29 - [Hyperrealistic Deepfaked Tom Cruise in a Coffeeshop](https://old.reddit.com/r/DeepFakesSFW/comments/10o3sx5/another_deepfaked_tom_cruise_what_do_you_think/)
+- Jan 29 - [My Journey from R to Julia](https://drtomasaragon.github.io/posts/2023-01-14-my-journey-from-r-to-julia/)
 <!--END_SECTION:hn-->
 
 <!--
