@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 29 - [Ask HN: Is it just me or is 5G strictly worse than LTE?](https://news.ycombinator.com/item?id=34564590)
-- Jan 29 - [Unconditional Love](https://eden.bearblog.dev/unconditional-love/)
-- Jan 29 - [Amazon Will Start Charging Prime Members for US Grocery Orders of Less Than $150](https://www.bloomberg.com/news/articles/2023-01-27/amazon-will-start-charging-prime-members-for-most-grocery-deliveries)
-- Jan 29 - [Reverse RSS Feed](https://www.jefftk.com/p/reverse-rss-feed)
-- Jan 29 - [Show HN: Git Heat Map – a tool for visualising git repo activity for each file](https://github.com/jmforsythe/Git-Heat-Map)
+- Jan 29 - [Grid Beam](https://gridbeam.xyz/)
+- Jan 29 - [Higher Rates Will Lead to the Next Generation of Great Tech Startups](https://chamathreads.substack.com/p/higher-rates-will-lead-to-the-next)
+- Jan 29 - [Oracle per-employee Java pricing causes concern](https://www.infoworld.com/article/3686611/oracle-per-employee-java-pricing-causes-concern.html)
+- Jan 29 - [Heart attacks on rise for 25-44 age group](https://www.khon2.com/local-news/heart-attacks-on-dramatic-rise-for-25-44-age-group/)
+- Jan 29 - [Wikipedia's new skin is a sad opportunity to reminisce what we could've had](https://blog.legoktm.com/2023/01/18/wikipedias-new-skin-is-a-sad-opportunity-to-reminisce-what-we-couldve-had-instead.html)
 <!--END_SECTION:hn-->
 
 <!--
