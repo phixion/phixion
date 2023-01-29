@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 28 - [DoD FAQ: Is Open Source Software Commercial Software? Yes.](https://dodcio.defense.gov/Open-Source-Software-FAQ/#q-is-oss-commercial-software-is-it-cots)
-- Jan 28 - [Features I'd Like in PostgreSQL](https://gilslotd.com/blog/features_id_postgresql)
-- Jan 28 - [Ask HN: Why Is Everything Declining?](https://news.ycombinator.com/item?id=34560255)
-- Jan 28 - [Tracy: A hybrid frame and sampling profiler for games and other applications](https://github.com/wolfpld/tracy)
-- Jan 28 - [We can reduce homelessness if we follow the science on what works](https://www.newscientist.com/article/2356643-we-can-reduce-homelessness-if-we-follow-the-science-on-what-works/)
+- Jan 28 - [Orion Browser](https://browser.kagi.com/)
+- Jan 28 - [Gaggle Drops LGBTQ Keywords from Student Surveillance Tool](https://www.the74million.org/article/gaggle-drops-lgbtq-keywords-from-student-surveillance-tool-following-bias-concerns/)
+- Jan 28 - [Apple sued for promising privacy, failing at it](https://www.theregister.com/2023/01/28/apple_sued_privacy/)
+- Jan 28 - [What are some interesting uses of WebUSB you have come across?](https://news.ycombinator.com/item?id=34562256)
+- Jan 28 - [AutoHotkey v2 Official Release Announcement](https://www.autohotkey.com/boards/viewtopic.php?t=112989)
 <!--END_SECTION:hn-->
 
 <!--
