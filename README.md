@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 29 - [Steve Wozniak used to tip from printed sheets of $2 bills](https://web.archive.org/web/20111122202554/http://archive.woz.org/letters/general/78.html)
-- Jan 29 - [Noctua's NH-P1 – Simply Amazing](https://boringtextreviews.com/a-cooler-without-fans-testing-noctuas-nh-p1-with-ryzen-7700x-and-intels-i9-13900k/)
-- Jan 29 - ['We Are Being Levelled Down’: Why the UK’s Wealth Gap Is Widening](https://www.bloomberg.com/graphics/uk-levelling-up/inflation-government-delays-why-wealth-gap-widens.html)
-- Jan 29 - [Hyperrealistic Deepfaked Tom Cruise in a Coffeeshop](https://old.reddit.com/r/DeepFakesSFW/comments/10o3sx5/another_deepfaked_tom_cruise_what_do_you_think/)
-- Jan 29 - [My Journey from R to Julia](https://drtomasaragon.github.io/posts/2023-01-14-my-journey-from-r-to-julia/)
+- Jan 29 - [US general warns troops that war with China is possible in two years](https://www.stripes.com/theaters/us/2023-01-27/us-air-force-memo-war-china-8913860.html)
+- Jan 29 - [Solar panels on cars make no sense](https://www.arenaev.com/why_solar_panels_on_cars_are_beyond_stupid_at_this_point-news-1295.php)
+- Jan 29 - [The Window Trick of Las Vegas Hotels](https://www.schedium.net/2023/01/the-window-trick-of-las-vegas-hotels.html)
+- Jan 29 - [Australians Scour Desert for Dangerous Radioactive Capsule Smaller Than a Penny](https://www.nytimes.com/2023/01/28/world/australia/australia-radioactive-capsule.html)
+- Jan 29 - [Astronomers discovered 1M new galaxies in just 300 hours](https://blog.physics-astronomy.com/2022/09/astronomers-just-discovered-1-million.html)
 <!--END_SECTION:hn-->
 
 <!--
