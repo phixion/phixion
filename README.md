@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 29 - [US general warns troops that war with China is possible in two years](https://www.stripes.com/theaters/us/2023-01-27/us-air-force-memo-war-china-8913860.html)
-- Jan 29 - [Solar panels on cars make no sense](https://www.arenaev.com/why_solar_panels_on_cars_are_beyond_stupid_at_this_point-news-1295.php)
-- Jan 29 - [The Window Trick of Las Vegas Hotels](https://www.schedium.net/2023/01/the-window-trick-of-las-vegas-hotels.html)
-- Jan 29 - [Australians Scour Desert for Dangerous Radioactive Capsule Smaller Than a Penny](https://www.nytimes.com/2023/01/28/world/australia/australia-radioactive-capsule.html)
-- Jan 29 - [Astronomers discovered 1M new galaxies in just 300 hours](https://blog.physics-astronomy.com/2022/09/astronomers-just-discovered-1-million.html)
+- Jan 29 - [AirGradient Open Source Air Quality Monitor for CO2 and PM2.5 Measurements](https://www.airgradient.com/open-airgradient/instructions/diy-pro-v37/)
+- Jan 29 - [Toroidal propeller allows a drone to operate more quietly [pdf]](https://www.ll.mit.edu/sites/default/files/other/doc/2022-09/TVO_Technology_Highlight_41_Toroidal_Propeller.pdf)
+- Jan 29 - [Micro Hydro Turbine Is Far Cheaper Than Solar](https://www.youtube.com/watch?v=Nc2vTM7KMC0)
+- Jan 29 - [Toroidal propellers turn your drones and boats into noiseless machines](https://www.designboom.com/technology/toroidal-propellers-quiet-efficient-alternatives-aerial-marine-sectors-01-27-2023/)
+- Jan 29 - [Confidential Space and multi-party computation can help manage digital assets](https://cloud.google.com/blog/products/identity-security/how-confidential-space-and-mpc-can-help-secure-digital-assets/)
 <!--END_SECTION:hn-->
 
 <!--
