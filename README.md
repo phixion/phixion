@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 30 - [Where Our Gasoline Comes From](https://www.eia.gov/energyexplained/gasoline/where-our-gasoline-comes-from.php)
-- Jan 30 - [Show HN: Train CIFAR10 to 94% in under 10 seconds on a single A100, world record](https://github.com/tysam-code/hlb-CIFAR10)
-- Jan 30 - [Cyclic Combinational Circuits [pdf]](http://www.mriedel.ece.umn.edu/wiki/images/7/7a/Riedel_Cyclic_Combinational_Circuits.pdf)
-- Jan 30 - [A baffling scale transform on a chart of university course selection trends](https://statmodeling.stat.columbia.edu/2023/01/29/you-wish-youre-first-to-invent-this-scale-transform-50-xx-240-x-7/)
-- Jan 29 - [Ejaculation frequency and prostate cancer (2022)](https://www.health.harvard.edu/mens-health/ejaculation_frequency_and_prostate_cancer)
+- Jan 30 - [Svix (YC W21) Is Hiring (Remote) – Enterprise-Ready Webhook Service](https://www.svix.com/careers/)
+- Jan 30 - [Story Structure 101: Super Basic Shit (By Dan Harmon)](https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit)
+- Jan 30 - [Google executive fired after female boss groped him](https://www.news.com.au/technology/online/internet/google-executive-fired-after-female-boss-groped-him/news-story/1901a730cb7075916e90a9f072732757)
+- Jan 30 - [The high cost of expensive housing and how Auckland fixed it](https://brettongoods.substack.com/p/the-high-cost-of-expensive-housing)
+- Jan 30 - [“Foundations of Data Science”, Free Book by Hopcroft and Kannan [pdf]](https://www.cs.cornell.edu/jeh/book.pdf?file=book.pdf)
 <!--END_SECTION:hn-->
 
 <!--
