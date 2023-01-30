@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 30 - [Disabled and out of work for years, but need some side income, what can I do?](https://news.ycombinator.com/item?id=34578347)
-- Jan 30 - [The Art of Eating Well in Antarctica](https://www.atlasobscura.com/articles/cooking-in-antarctica)
-- Jan 30 - [Most Adani shares continue bloodbath as Asia’s richest man loses $28B in a month](https://www.cnbc.com/2023/01/30/adani-shares-hindenburg-report.html)
-- Jan 30 - [An Update on Leap Seconds](https://dotat.at/@/2022-12-04-leap-seconds.html)
-- Jan 30 - [I Don't Write](https://mxb.dev/blog/seven-reasons-why-i-dont-write/)
+- Jan 30 - [How Likely Is Losing a Google Account?](https://www.jefftk.com/p/how-likely-is-losing-a-google-account)
+- Jan 30 - [When Will Fusion Energy Light Our Homes?](https://nautil.us/when-will-fusion-energy-light-our-homes-259169/)
+- Jan 30 - [FYI: LLVM-project repo has exceeded GitHub upload size limit (2022)](https://discourse.llvm.org/t/fyi-llvm-project-repo-has-exceeded-github-upload-size-limit/63293)
+- Jan 30 - [Electrify America “fries” EVs at charging stations](https://www.teslarati.com/rivian-ford-chevy-fried-electrify-america-video/)
+- Jan 30 - [Big Tech is using layoffs to crush worker power](https://www.latimes.com/business/technology/story/2023-01-30/column-how-big-tech-is-using-mass-layoffs-to-bring-workers-to-heel)
 <!--END_SECTION:hn-->
 
 <!--
