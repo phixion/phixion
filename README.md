@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 30 - [Svix (YC W21) Is Hiring (Remote) – Enterprise-Ready Webhook Service](https://www.svix.com/careers/)
-- Jan 30 - [Story Structure 101: Super Basic Shit (By Dan Harmon)](https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit)
-- Jan 30 - [Google executive fired after female boss groped him](https://www.news.com.au/technology/online/internet/google-executive-fired-after-female-boss-groped-him/news-story/1901a730cb7075916e90a9f072732757)
-- Jan 30 - [The high cost of expensive housing and how Auckland fixed it](https://brettongoods.substack.com/p/the-high-cost-of-expensive-housing)
-- Jan 30 - [“Foundations of Data Science”, Free Book by Hopcroft and Kannan [pdf]](https://www.cs.cornell.edu/jeh/book.pdf?file=book.pdf)
+- Jan 30 - [Disabled and out of work for years, but need some side income, what can I do?](https://news.ycombinator.com/item?id=34578347)
+- Jan 30 - [The Art of Eating Well in Antarctica](https://www.atlasobscura.com/articles/cooking-in-antarctica)
+- Jan 30 - [Most Adani shares continue bloodbath as Asia’s richest man loses $28B in a month](https://www.cnbc.com/2023/01/30/adani-shares-hindenburg-report.html)
+- Jan 30 - [An Update on Leap Seconds](https://dotat.at/@/2022-12-04-leap-seconds.html)
+- Jan 30 - [I Don't Write](https://mxb.dev/blog/seven-reasons-why-i-dont-write/)
 <!--END_SECTION:hn-->
 
 <!--
