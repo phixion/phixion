@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 29 - [AirGradient Open Source Air Quality Monitor for CO2 and PM2.5 Measurements](https://www.airgradient.com/open-airgradient/instructions/diy-pro-v37/)
-- Jan 29 - [Toroidal propeller allows a drone to operate more quietly [pdf]](https://www.ll.mit.edu/sites/default/files/other/doc/2022-09/TVO_Technology_Highlight_41_Toroidal_Propeller.pdf)
-- Jan 29 - [Micro Hydro Turbine Is Far Cheaper Than Solar](https://www.youtube.com/watch?v=Nc2vTM7KMC0)
-- Jan 29 - [Toroidal propellers turn your drones and boats into noiseless machines](https://www.designboom.com/technology/toroidal-propellers-quiet-efficient-alternatives-aerial-marine-sectors-01-27-2023/)
-- Jan 29 - [Confidential Space and multi-party computation can help manage digital assets](https://cloud.google.com/blog/products/identity-security/how-confidential-space-and-mpc-can-help-secure-digital-assets/)
+- Jan 29 - [Ejaculation Frequency and Prostate Cancer](https://www.health.harvard.edu/mens-health/ejaculation_frequency_and_prostate_cancer)
+- Jan 29 - [The customer is always right in matters of taste](https://www.mickmel.com/the-customer-is-always-right-in-matters-of-taste/)
+- Jan 29 - [Swift Achieved Dynamic Linking Where Rust Couldn't](https://faultlore.com/blah/swift-abi/)
+- Jan 29 - [Ask HN: How can I get into cyber security research?](https://news.ycombinator.com/item?id=34572912)
+- Jan 29 - [An Implementation of the Solaris Doors API for Linux (1998) [pdf]](http://www.rampant.org/doors/linux-doors.pdf)
 <!--END_SECTION:hn-->
 
 <!--
