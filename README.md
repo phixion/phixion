@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 30 - [How Likely Is Losing a Google Account?](https://www.jefftk.com/p/how-likely-is-losing-a-google-account)
-- Jan 30 - [When Will Fusion Energy Light Our Homes?](https://nautil.us/when-will-fusion-energy-light-our-homes-259169/)
-- Jan 30 - [FYI: LLVM-project repo has exceeded GitHub upload size limit (2022)](https://discourse.llvm.org/t/fyi-llvm-project-repo-has-exceeded-github-upload-size-limit/63293)
-- Jan 30 - [Electrify America “fries” EVs at charging stations](https://www.teslarati.com/rivian-ford-chevy-fried-electrify-america-video/)
-- Jan 30 - [Big Tech is using layoffs to crush worker power](https://www.latimes.com/business/technology/story/2023-01-30/column-how-big-tech-is-using-mass-layoffs-to-bring-workers-to-heel)
+- Jan 30 - [Show HN: Deploy Button for GPT-3 API Back Ends](https://www.steamship.com/build/prompt-apis)
+- Jan 30 - [Show HN: ELI5 Powered by GPT-3](https://eli5.gg)
+- Jan 30 - [Metal Without Mining](https://magratheametals.com)
+- Jan 30 - [Ask HN: LinkedIn sent me a cease and desist for my Chrome extension. Help?](https://news.ycombinator.com/item?id=34583932)
+- Jan 30 - [Hypertext Emacs: You may not need org-mode](http://bjornwestergard.com/log/2022-04-19-hypertext-emacs.gmi)
 <!--END_SECTION:hn-->
 
 <!--
