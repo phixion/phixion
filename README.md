@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 31 - [Ask HN: What to do when someone clones your site?](https://news.ycombinator.com/item?id=34596309)
-- Jan 31 - [A New Lower Bound in the Abc Conjecture](https://arxiv.org/abs/2301.11056)
-- Jan 31 - [Some dog walkers make over 100k/year in New York City](https://www.nytimes.com/2023/01/22/style/dog-walkers-six-figures-100k-nyc.html)
-- Jan 31 - [Show HN: Working on a Zero-Knowledge Daily Journaling App](https://jumblejournal.org/)
-- Jan 31 - [W3C re-launched as a public-interest non-profit organization](https://www.w3.org/blog/news/archives/9823)
+- Jan 31 - [DetectGPT: Zero-Shot Machine-Generated Text Detection](https://arxiv.org/abs/2301.11305)
+- Jan 31 - [New AI classifier for indicating AI-written text](https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/)
+- Jan 31 - [Cosmic DE update: System76's new Linux desktop environment](https://blog.system76.com/post/more-on-cosmic-de-to-kick-off-2023/)
+- Jan 31 - [Elementary OS 7](https://blog.elementary.io/os-7-available-now/)
+- Jan 31 - [Discovery could extend battery life by replacing tape that causes self‑discharge](https://www.dal.ca/news/2023/01/16/dalhousie-battery-discovery-self-discharge.html)
 <!--END_SECTION:hn-->
 
 <!--
