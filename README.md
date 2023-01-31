@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 31 - [The army of maths prodigies who helped Brighton conquer the transfer market](https://uk.sports.yahoo.com/news/revealed-200-maths-prodigies-help-070000511.html)
+- Jan 31 - [Why ultra-light urban vehicles offer the only viable future for EVs](https://www.maddyness.com/uk/2023/01/26/why-ultra-light-urban-vehicles-like-luvly-offer-the-only-viable-future-for-electric-cars/)
+- Jan 31 - [Ask HN: What API's do people wanna buy/pay for?](https://news.ycombinator.com/item?id=34593025)
 - Jan 31 - [I want to lose every debate](https://sive.rs/led)
 - Jan 31 - [Show HN: Generate commit messages using GPT-3](https://github.com/markuswt/gpt-commit)
-- Jan 31 - [Marko: An HTML-Based Language](https://markojs.com)
-- Jan 31 - [Ask HN: What's the best lecture series you've seen?](https://news.ycombinator.com/item?id=34591291)
-- Jan 31 - [The x86's Decimal Adjust after Addition (DAA) instruction](http://www.righto.com/2023/01/understanding-x86s-decimal-adjust-after.html)
 <!--END_SECTION:hn-->
 
 <!--
