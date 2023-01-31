@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 30 - [Show HN: Deploy Button for GPT-3 API Back Ends](https://www.steamship.com/build/prompt-apis)
-- Jan 30 - [Show HN: ELI5 Powered by GPT-3](https://eli5.gg)
-- Jan 30 - [Metal Without Mining](https://magratheametals.com)
-- Jan 30 - [Ask HN: LinkedIn sent me a cease and desist for my Chrome extension. Help?](https://news.ycombinator.com/item?id=34583932)
-- Jan 30 - [Hypertext Emacs: You may not need org-mode](http://bjornwestergard.com/log/2022-04-19-hypertext-emacs.gmi)
+- Jan 30 - [FCC proposes 504k fine for broadcaster's misuse of Emergency Alert System tones](https://www.insideradio.com/free/fox-sports-admits-it-used-fake-eas-tones-on-radio-as-well-as-tv/article_6b18d2f0-9e1c-11ed-ab28-c7b167cea819.html)
+- Jan 30 - [Proving Earth is a globe](https://mctoon.net/interesting/)
+- Jan 30 - [Ask HN: Do you use JSON Schema? Help us shape its future stability guarantees](https://news.ycombinator.com/item?id=34587360)
+- Jan 30 - [10TB portable SSDs on Amazon UK are scams](https://www.amazon.co.uk/s?k=portable+ssd+10tb&crid=3B5JCJDW98CMX&sprefix=portable+ssd+10tb%2Caps%2C149&ref=nb_sb_noss_1)
+- Jan 30 - [Git archive checksums may change](https://github.blog/changelog/2023-01-30-git-archive-checksums-may-change/)
 <!--END_SECTION:hn-->
 
 <!--
