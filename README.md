@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 31 - [The army of maths prodigies who helped Brighton conquer the transfer market](https://uk.sports.yahoo.com/news/revealed-200-maths-prodigies-help-070000511.html)
-- Jan 31 - [Why ultra-light urban vehicles offer the only viable future for EVs](https://www.maddyness.com/uk/2023/01/26/why-ultra-light-urban-vehicles-like-luvly-offer-the-only-viable-future-for-electric-cars/)
-- Jan 31 - [Ask HN: What API's do people wanna buy/pay for?](https://news.ycombinator.com/item?id=34593025)
-- Jan 31 - [I want to lose every debate](https://sive.rs/led)
-- Jan 31 - [Show HN: Generate commit messages using GPT-3](https://github.com/markuswt/gpt-commit)
+- Jan 31 - [Ask HN: What to do when someone clones your site?](https://news.ycombinator.com/item?id=34596309)
+- Jan 31 - [A New Lower Bound in the Abc Conjecture](https://arxiv.org/abs/2301.11056)
+- Jan 31 - [Some dog walkers make over 100k/year in New York City](https://www.nytimes.com/2023/01/22/style/dog-walkers-six-figures-100k-nyc.html)
+- Jan 31 - [Show HN: Working on a Zero-Knowledge Daily Journaling App](https://jumblejournal.org/)
+- Jan 31 - [W3C re-launched as a public-interest non-profit organization](https://www.w3.org/blog/news/archives/9823)
 <!--END_SECTION:hn-->
 
 <!--
