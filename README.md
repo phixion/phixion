@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 31 - [The Limits of Computational Photography](https://yager.io/comp/comp.html)
-- Jan 31 - [Need help with students who've turned my class into a dating service](https://academia.stackexchange.com/questions/192977/need-help-with-students-whove-turned-my-class-into-a-dating-service)
-- Jan 31 - [Google Fi seemingly affected by latest T-Mobile data breach](https://9to5google.com/2023/01/30/google-fi-data-breach-tmobile/)
-- Jan 31 - [Yahoo is making a return to search](https://searchengineland.com/yahoo-is-making-a-return-to-search-392341)
-- Jan 31 - [Cistercian Numerals](https://kottke.org/23/01/cistercian-numerals)
+- Jan 31 - [I want to lose every debate](https://sive.rs/led)
+- Jan 31 - [Show HN: Generate commit messages using GPT-3](https://github.com/markuswt/gpt-commit)
+- Jan 31 - [Marko: An HTML-Based Language](https://markojs.com)
+- Jan 31 - [Ask HN: What's the best lecture series you've seen?](https://news.ycombinator.com/item?id=34591291)
+- Jan 31 - [The x86's Decimal Adjust after Addition (DAA) instruction](http://www.righto.com/2023/01/understanding-x86s-decimal-adjust-after.html)
 <!--END_SECTION:hn-->
 
 <!--
