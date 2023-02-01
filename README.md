@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 01 - [Do We Live in a Society Without a Counterculture?](https://www.xmodtwo.com/p/do-we-live-in-a-society-without-a)
-- Feb 01 - [Forthcoming OpenSSL Releases 3.0.8, 1.1.1T and 1.0.2zg](https://mta.openssl.org/pipermail/openssl-announce/2023-January/000248.html)
-- Feb 01 - [San Francisco is getting cold feet about self-driving car tests](https://www.newscientist.com/article/2356888-san-francisco-is-getting-cold-feet-about-self-driving-car-tests/)
-- Feb 01 - [Tiny radioactive capsule lost in Australian outback found](https://www.theguardian.com/australia-news/2023/feb/01/tiny-radioactive-capsule-lost-in-australian-outback-found-by-side-of-1400km-stretch-of-road)
-- Feb 01 - [I've had bad luck with transparent hugepages on my Linux machines](https://utcc.utoronto.ca/~cks/space/blog/linux/TransparentHugepagesBadLuck)
+- Feb 01 - [Ask HN: Why is Google Chrome covertly scanning my Hard Drive?](https://news.ycombinator.com/item?id=34612034)
+- Feb 01 - [Data Visualization: Choropleth maps with ggplot and R](https://socviz.co/maps.html)
+- Feb 01 - [Meanwhile, over in Androidtown](https://daringfireball.net/2023/01/meanwhile_over_in_androidtown)
+- Feb 01 - [Academia’s culture of overwork almost broke me, so I’m working to undo it](https://www.nature.com/articles/d41586-023-00241-8)
+- Feb 01 - [Why are online recipes always so long-winded?](https://jjpryor.substack.com/p/why-are-online-recipes-always-so)
 <!--END_SECTION:hn-->
 
 <!--
