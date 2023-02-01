@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 01 - [Ask HN: Why is Google Chrome covertly scanning my Hard Drive?](https://news.ycombinator.com/item?id=34612034)
-- Feb 01 - [Data Visualization: Choropleth maps with ggplot and R](https://socviz.co/maps.html)
-- Feb 01 - [Meanwhile, over in Androidtown](https://daringfireball.net/2023/01/meanwhile_over_in_androidtown)
-- Feb 01 - [Academia’s culture of overwork almost broke me, so I’m working to undo it](https://www.nature.com/articles/d41586-023-00241-8)
-- Feb 01 - [Why are online recipes always so long-winded?](https://jjpryor.substack.com/p/why-are-online-recipes-always-so)
+- Feb 01 - [Easter egg in flight path of last 747 delivery flight](https://www.flightradar24.com/GTI747/2f0b1162)
+- Feb 01 - [ChatGPT Plus](https://openai.com/blog/chatgpt-plus/)
+- Feb 01 - [Release engineering is exhausting so here's cargo-dist](https://blog.axo.dev/2023/02/cargo-dist)
+- Feb 01 - [Same.energy: Image Search by Similarity](https://same.energy)
+- Feb 01 - [Interop 2023: continuing to improve the web for developers](https://web.dev/interop-2023/)
 <!--END_SECTION:hn-->
 
 <!--
