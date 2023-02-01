@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 01 - [Some Ubuntu security patches are now behind 'Ubuntu Pro', a paid product](https://cloudisland.nz/@drV/109786183082845131)
-- Feb 01 - [GraphGPT: Extrapolating knowledge graphs from unstructured text](https://github.com/varunshenoy/GraphGPT)
-- Feb 01 - [Intel Cuts Employee Pay to Maintain Quarterly Dividend](https://www.semianalysis.com/p/intel-cuts-pay-for-employees-to-keep)
-- Feb 01 - [Tablevibe (YC S21) hiring AU sales exec to help restaurants go direct-to-consumer](https://www.ycombinator.com/companies/tablevibe-co/jobs/aN5DPci-senior-sales-executive-australia-new-zealand)
-- Feb 01 - [Show HN: KnifeGeek – Online Database of Pocket Knives](https://www.knifegeek.io/)
+- Feb 01 - [I've had bad luck with transparent hugepages on my Linux machines](https://utcc.utoronto.ca/~cks/space/blog/linux/TransparentHugepagesBadLuck)
+- Feb 01 - [Missing radioactive capsule found in WA outback after frantic search](https://www.abc.net.au/news/2023-02-01/australian-radioactive-capsule-found-in-wa-outback-rio-tinto/101917828)
+- Feb 01 - [GPTMinus1 – Fool OpenAIs AI Detector by Randomly Replacing Words](https://gptminus1.vercel.app/)
+- Feb 01 - [Prime Voice AI: AI speech software](https://beta.elevenlabs.io/)
+- Feb 01 - [Write simply (2021)](http://www.paulgraham.com/simply.html)
 <!--END_SECTION:hn-->
 
 <!--
