@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 31 - [Concordia Students Set to Launch Most Powerful Rocket Developed by Civilians](https://www.concordia.ca/news/stories/2023/01/23/members-of-space-concordia-have-their-hearts-set-on-the-stars.html)
-- Jan 31 - [Ask HN: How do you test SQL?](https://news.ycombinator.com/item?id=34602318)
-- Jan 31 - [Modernizing C arrays for greater memory safety: a case study in the Linux kernel](https://people.kernel.org/kees/bounded-flexible-arrays-in-c)
-- Jan 31 - [Snap Quarterly Results Q4 2022 [pdf]](https://investor.snap.com/files/doc_financials/2022/q4/Q4%2722-Earnings-Slides.pdf)
-- Jan 31 - [Sourcehut will not blacklist the Go module mirror](https://sourcehut.org/blog/2023-01-09-gomodulemirror/)
+- Feb 01 - [Some Ubuntu security patches are now behind 'Ubuntu Pro', a paid product](https://cloudisland.nz/@drV/109786183082845131)
+- Feb 01 - [GraphGPT: Extrapolating knowledge graphs from unstructured text](https://github.com/varunshenoy/GraphGPT)
+- Feb 01 - [Intel Cuts Employee Pay to Maintain Quarterly Dividend](https://www.semianalysis.com/p/intel-cuts-pay-for-employees-to-keep)
+- Feb 01 - [Tablevibe (YC S21) hiring AU sales exec to help restaurants go direct-to-consumer](https://www.ycombinator.com/companies/tablevibe-co/jobs/aN5DPci-senior-sales-executive-australia-new-zealand)
+- Feb 01 - [Show HN: KnifeGeek – Online Database of Pocket Knives](https://www.knifegeek.io/)
 <!--END_SECTION:hn-->
 
 <!--
