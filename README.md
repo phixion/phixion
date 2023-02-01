@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 01 - [Do We Live in a Society Without a Counterculture?](https://www.xmodtwo.com/p/do-we-live-in-a-society-without-a)
+- Feb 01 - [Forthcoming OpenSSL Releases 3.0.8, 1.1.1T and 1.0.2zg](https://mta.openssl.org/pipermail/openssl-announce/2023-January/000248.html)
+- Feb 01 - [San Francisco is getting cold feet about self-driving car tests](https://www.newscientist.com/article/2356888-san-francisco-is-getting-cold-feet-about-self-driving-car-tests/)
+- Feb 01 - [Tiny radioactive capsule lost in Australian outback found](https://www.theguardian.com/australia-news/2023/feb/01/tiny-radioactive-capsule-lost-in-australian-outback-found-by-side-of-1400km-stretch-of-road)
 - Feb 01 - [I've had bad luck with transparent hugepages on my Linux machines](https://utcc.utoronto.ca/~cks/space/blog/linux/TransparentHugepagesBadLuck)
-- Feb 01 - [Missing radioactive capsule found in WA outback after frantic search](https://www.abc.net.au/news/2023-02-01/australian-radioactive-capsule-found-in-wa-outback-rio-tinto/101917828)
-- Feb 01 - [GPTMinus1 – Fool OpenAIs AI Detector by Randomly Replacing Words](https://gptminus1.vercel.app/)
-- Feb 01 - [Prime Voice AI: AI speech software](https://beta.elevenlabs.io/)
-- Feb 01 - [Write simply (2021)](http://www.paulgraham.com/simply.html)
 <!--END_SECTION:hn-->
 
 <!--
