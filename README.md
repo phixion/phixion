@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 02 - [Play Counter Strike 1.6, with full multiplayer, in the browser](https://play-cs.com/en/servers)
-- Feb 02 - [AI is coming to Hollywood with Metaphysic](https://metaphysic.ai/ai-hollywood-miramax-here/)
-- Feb 02 - [Will walled gardens rule VR?](https://worldish.substack.com/p/will-walled-gardens-rule-vr)
-- Feb 02 - [Chat GPT is the birth of the real Web 3.0, and it's not going to be fun](https://lajili.com/posts/post-2/)
-- Feb 02 - [Ask HN: How are you handling Section 174 changes for bootstrapped companies?](https://news.ycombinator.com/item?id=34627712)
+- Feb 02 - [Show HN: Minimalist Blogging Platform](https://notepin.co)
+- Feb 02 - [Math Breakdown: Anime Homing Missiles](https://blog.littlepolygon.com/posts/missile/)
+- Feb 02 - [The following security updates require Ubuntu Pro with ‘esm-apps’ enabled](https://www.nixcraft.com/t/the-following-security-updates-require-ubuntu-pro-with-esm-apps-enable/4492)
+- Feb 02 - [Show HN: Groundhog-day.com – structured groundhog data](https://groundhog-day.com)
+- Feb 02 - [St. John’s Reading List: A Great Books Curriculum](https://www.sjc.edu/academic-programs/undergraduate/great-books-reading-list)
 <!--END_SECTION:hn-->
 
 <!--
