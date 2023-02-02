@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 02 - [How to find a tiny radioactive source while doing 70 kph](https://www.ansto.gov.au/news/wa-outback-proves-no-match-for-aussie-nuclear-know-how)
-- Feb 02 - [Anki and GPT-3](https://andrewjudson.com/spaced-repetition/2023/02/01/anki-chrome.html)
-- Feb 02 - [Ask HN: Who needs beta testers? (February 2023)](https://news.ycombinator.com/item?id=34622877)
-- Feb 02 - [For police PR flacks, quack lives matter](https://radleybalko.substack.com/p/for-police-pr-flaks-quack-lives-matter)
-- Feb 02 - [Stop Developing This Technology](https://github.com/iperov/DeepFaceLive/issues/41)
+- Feb 02 - [WiFi: “beamforming” only begins to describe it (2014)](https://apenwarr.ca/log/20140801)
+- Feb 02 - [Bay 12 Games has made $7M from the Steam release of Dwarf Fortress](http://www.bay12forums.com/smf/index.php?topic=181354.0)
+- Feb 02 - [Reimagining cities in a few simple questions](https://seths.blog/2023/02/reimagining-cities-in-a-few-simple-questions/)
+- Feb 02 - [How to make YouTube less distracting](https://josem.co/how-to-make-youtube-less-distracting/)
+- Feb 02 - [Meta Was Scraping Sites for Years While Fighting the Practice](https://www.bloomberg.com/news/articles/2023-02-02/meta-was-scraping-sites-for-years-while-fighting-the-practice)
 <!--END_SECTION:hn-->
 
 <!--
