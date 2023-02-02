@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 02 - [WiFi: “beamforming” only begins to describe it (2014)](https://apenwarr.ca/log/20140801)
-- Feb 02 - [Bay 12 Games has made $7M from the Steam release of Dwarf Fortress](http://www.bay12forums.com/smf/index.php?topic=181354.0)
-- Feb 02 - [Reimagining cities in a few simple questions](https://seths.blog/2023/02/reimagining-cities-in-a-few-simple-questions/)
-- Feb 02 - [How to make YouTube less distracting](https://josem.co/how-to-make-youtube-less-distracting/)
-- Feb 02 - [Meta Was Scraping Sites for Years While Fighting the Practice](https://www.bloomberg.com/news/articles/2023-02-02/meta-was-scraping-sites-for-years-while-fighting-the-practice)
+- Feb 02 - [Play Counter Strike 1.6, with full multiplayer, in the browser](https://play-cs.com/en/servers)
+- Feb 02 - [AI is coming to Hollywood with Metaphysic](https://metaphysic.ai/ai-hollywood-miramax-here/)
+- Feb 02 - [Will walled gardens rule VR?](https://worldish.substack.com/p/will-walled-gardens-rule-vr)
+- Feb 02 - [Chat GPT is the birth of the real Web 3.0, and it's not going to be fun](https://lajili.com/posts/post-2/)
+- Feb 02 - [Ask HN: How are you handling Section 174 changes for bootstrapped companies?](https://news.ycombinator.com/item?id=34627712)
 <!--END_SECTION:hn-->
 
 <!--
