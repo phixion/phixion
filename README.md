@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 01 - [Show HN: PromptLayer – Track, debug, and maintain GPT prompts in prod](https://promptlayer.com/?hn)
-- Feb 01 - [Infinite partial sumsets in the primes – Terence Tao](https://terrytao.wordpress.com/2023/01/26/infinite-partial-sumsets-in-the-primes/)
+- Feb 02 - [Bethesda’s Redfall needs to be online for single-player mode](https://arstechnica.com/gaming/2023/02/single-player-redfall-still-requires-a-persistent-online-connection/)
+- Feb 02 - [Google layoffs Jan 20, 2023 – California WARN public records](https://airtable.cool/shrF23JdDHMQ3QDyw)
+- Feb 02 - [Microsoft Teams Premium: powered by OpenAI’s GPT-3.5](https://www.microsoft.com/en-us/microsoft-365/blog/2023/02/01/microsoft-teams-premium-cut-costs-and-add-ai-powered-productivity/)
+- Feb 01 - [Infinite partial sumsets in the primes](https://terrytao.wordpress.com/2023/01/26/infinite-partial-sumsets-in-the-primes/)
 - Feb 01 - [Float Compression 3: Filters](https://aras-p.info/blog/2023/02/01/Float-Compression-3-Filters/)
-- Feb 01 - [Richard Bartle explains Web3's flaws at a Web3 conference. It doesn't go well](https://nwn.blogs.com/nwn/2023/02/richard-bartle-crypto-circle-blockchain-nft-virtual-worlds.html)
-- Feb 01 - [Information Theory, Inference, and Learning Algorithms (2003)](https://inference.org.uk/itila/book.html)
 <!--END_SECTION:hn-->
 
 <!--
