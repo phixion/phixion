@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 01 - [Easter egg in flight path of last 747 delivery flight](https://www.flightradar24.com/GTI747/2f0b1162)
-- Feb 01 - [ChatGPT Plus](https://openai.com/blog/chatgpt-plus/)
-- Feb 01 - [Release engineering is exhausting so here's cargo-dist](https://blog.axo.dev/2023/02/cargo-dist)
-- Feb 01 - [Same.energy: Image Search by Similarity](https://same.energy)
-- Feb 01 - [Interop 2023: continuing to improve the web for developers](https://web.dev/interop-2023/)
+- Feb 01 - [Show HN: PromptLayer – Track, debug, and maintain GPT prompts in prod](https://promptlayer.com/?hn)
+- Feb 01 - [Infinite partial sumsets in the primes – Terence Tao](https://terrytao.wordpress.com/2023/01/26/infinite-partial-sumsets-in-the-primes/)
+- Feb 01 - [Float Compression 3: Filters](https://aras-p.info/blog/2023/02/01/Float-Compression-3-Filters/)
+- Feb 01 - [Richard Bartle explains Web3's flaws at a Web3 conference. It doesn't go well](https://nwn.blogs.com/nwn/2023/02/richard-bartle-crypto-circle-blockchain-nft-virtual-worlds.html)
+- Feb 01 - [Information Theory, Inference, and Learning Algorithms (2003)](https://inference.org.uk/itila/book.html)
 <!--END_SECTION:hn-->
 
 <!--
