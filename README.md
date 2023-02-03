@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 03 - [The Fertilizer Shortage Will Persist in 2023](https://modernfarmer.com/2022/12/the-fertilizer-shortage-will-persist-in-2023/)
-- Feb 03 - [Companies save billions of dollars by giving employees fake “manager” titles](https://www.cbsnews.com/news/salary-manager-jobs-fake-titles-save-4-billion-overtime-nber/)
-- Feb 03 - [Ask HN: What were the papers on the list Ilya Sutskever gave John Carmack?](https://news.ycombinator.com/item?id=34641359)
-- Feb 03 - [The U.S. added 517,000 jobs in January, much better than 187,000 expected](https://www.cnbc.com/2023/02/03/jobs-report-january-2023-.html)
-- Feb 03 - [Until further notice, think twice before using Google to download software](https://arstechnica.com/information-technology/2023/02/until-further-notice-think-twice-before-using-google-to-download-software/)
+- Feb 03 - [ESA – Space Suit Design Competition](https://ideas.esa.int/servlet/hype/IMT?documentTableId=45087148846182772&userAction=Browse&templateName=&documentId=3187b4b0a219dbb07731d5f690776a8b)
+- Feb 03 - [New Universal Summarizer by Kagi](https://labs.kagi.com/ai/sum)
+- Feb 03 - [Show HN: Glidesort, a new stable sort in Rust up to ~4x faster for random data](https://github.com/orlp/glidesort)
+- Feb 03 - [Show HN: Talk to GPT-3 through Siri](https://news.ycombinator.com/item?id=34646178)
+- Feb 03 - [Free Code Tools](https://freecodetools.org/)
 <!--END_SECTION:hn-->
 
 <!--
