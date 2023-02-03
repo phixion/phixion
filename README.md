@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 02 - [Show HN: Minimalist Blogging Platform](https://notepin.co)
-- Feb 02 - [Math Breakdown: Anime Homing Missiles](https://blog.littlepolygon.com/posts/missile/)
-- Feb 02 - [The following security updates require Ubuntu Pro with ‘esm-apps’ enabled](https://www.nixcraft.com/t/the-following-security-updates-require-ubuntu-pro-with-esm-apps-enable/4492)
-- Feb 02 - [Show HN: Groundhog-day.com – structured groundhog data](https://groundhog-day.com)
-- Feb 02 - [St. John’s Reading List: A Great Books Curriculum](https://www.sjc.edu/academic-programs/undergraduate/great-books-reading-list)
+- Feb 02 - [Seawater split to produce green hydrogen with nearly 100% efficiency](https://www.adelaide.edu.au/newsroom/news/list/2023/01/30/seawater-split-to-produce-green-hydrogen)
+- Feb 02 - [An obituary for the man who saved North Carolina from Nuclear Disaster](https://www.ncrabbithole.com/p/jack-revelle-goldsboro-nc-broken-arrow-obituary)
+- Feb 02 - [Wonderful Progress Against Severe Lupus](https://www.science.org/content/blog-post/wonderful-progress-against-severe-lupus)
+- Feb 02 - [Engagement with fact-checked posts on Reddit](https://academic.oup.com/pnasnexus/advance-article/doi/10.1093/pnasnexus/pgad018/7008465)
+- Feb 02 - [Chinese surveillance balloon spotted over U.S., Pentagon says](https://www.washingtonpost.com/national-security/2023/02/02/chinese-spy-balloon-pentagon/)
 <!--END_SECTION:hn-->
 
 <!--
