@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 03 - [John Carmack’s ‘Different Path’ to Artificial General Intelligence](https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence/)
 - Feb 03 - [Microbes are 'active engineers' in Earth's rock-to-life cycle](https://phys.org/news/2023-02-microbes-earth-rock-to-life.html)
 - Feb 03 - [Weird things I learned while writing an x86 emulator](https://www.timdbg.com/posts/useless-x86-trivia/)
 - Feb 03 - [Astrée Static Analyzer for C and C++](https://www.absint.com/astree/index.htm)
-- Feb 03 - [DeepSource (YC W20) is looking for a Senior Front-end engineer](https://deepsource.io/jobs/listing/senior-software-engineer-frontend/4788400004/)
-- Feb 03 - [Show HN: I trained an AI model on 120M+ songs from iTunes](https://maroofy.com/?hn=v3)
+- Feb 03 - [The Origin of the “MIT License” (2020)](https://ieeexplore.ieee.org/document/9263265)
 <!--END_SECTION:hn-->
 
 <!--
