@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 03 - [Tesorio Is Hiring a Sr DevOps and Product Manager. Join Our 100% Distributed Team](https://www.tesorio.com/careers#job-openings)
-- Feb 03 - [Show HN: DriftDB is an open source WebSocket backend for real-time apps](https://driftdb.com/)
-- Feb 03 - [Small SaaS banned by Cloudflare after 4 years of being paying customer](https://news.ycombinator.com/item?id=34639212)
-- Feb 03 - [Improving Rust compile times to enable adoption of memory safety](https://www.memorysafety.org/blog/remy-rakic-compile-times/)
-- Feb 03 - [Blink virtual machine now supports running GUI programs](https://twitter.com/JustineTunney/status/1621415193296388096)
+- Feb 03 - [The Fertilizer Shortage Will Persist in 2023](https://modernfarmer.com/2022/12/the-fertilizer-shortage-will-persist-in-2023/)
+- Feb 03 - [Companies save billions of dollars by giving employees fake “manager” titles](https://www.cbsnews.com/news/salary-manager-jobs-fake-titles-save-4-billion-overtime-nber/)
+- Feb 03 - [Ask HN: What were the papers on the list Ilya Sutskever gave John Carmack?](https://news.ycombinator.com/item?id=34641359)
+- Feb 03 - [The U.S. added 517,000 jobs in January, much better than 187,000 expected](https://www.cnbc.com/2023/02/03/jobs-report-january-2023-.html)
+- Feb 03 - [Until further notice, think twice before using Google to download software](https://arstechnica.com/information-technology/2023/02/until-further-notice-think-twice-before-using-google-to-download-software/)
 <!--END_SECTION:hn-->
 
 <!--
