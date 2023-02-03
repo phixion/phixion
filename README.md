@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 03 - [John Carmack’s ‘Different Path’ to Artificial General Intelligence](https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence/)
-- Feb 03 - [Microbes are 'active engineers' in Earth's rock-to-life cycle](https://phys.org/news/2023-02-microbes-earth-rock-to-life.html)
-- Feb 03 - [Weird things I learned while writing an x86 emulator](https://www.timdbg.com/posts/useless-x86-trivia/)
-- Feb 03 - [Astrée Static Analyzer for C and C++](https://www.absint.com/astree/index.htm)
-- Feb 03 - [The Origin of the “MIT License” (2020)](https://ieeexplore.ieee.org/document/9263265)
+- Feb 03 - [Tesorio Is Hiring a Sr DevOps and Product Manager. Join Our 100% Distributed Team](https://www.tesorio.com/careers#job-openings)
+- Feb 03 - [Show HN: DriftDB is an open source WebSocket backend for real-time apps](https://driftdb.com/)
+- Feb 03 - [Small SaaS banned by Cloudflare after 4 years of being paying customer](https://news.ycombinator.com/item?id=34639212)
+- Feb 03 - [Improving Rust compile times to enable adoption of memory safety](https://www.memorysafety.org/blog/remy-rakic-compile-times/)
+- Feb 03 - [Blink virtual machine now supports running GUI programs](https://twitter.com/JustineTunney/status/1621415193296388096)
 <!--END_SECTION:hn-->
 
 <!--
