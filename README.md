@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 04 - [Ask HN: What can you do or learn to experience a better love life?](https://news.ycombinator.com/item?id=34653505)
-- Feb 04 - [2000 Years of Matrix Multiplication](https://mathshistory.st-andrews.ac.uk/HistTopics/Matrices_and_determinants/)
-- Feb 04 - [Helping mentally ill people in the Philippines (2022)](https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Fgesundheit%2F2022-10%2Fmental-illness-poverty-climate-change-lyra-verzosa)
-- Feb 04 - [Air-to-Air Heat Exchangers for Healthier Energy-Efficient Homes](https://www.ndsu.edu/agriculture/extension/publications/air-air-heat-exchangers-healthier-energy-efficient-homes)
-- Feb 04 - [Bitmovin (YC S15) Is Hiring in Vienna (Austria)](https://bitmovin.com/careers/)
+- Feb 04 - [Colombian judge used ChatGPT to make court decision](https://www.vice.com/en/article/k7bdmv/judge-used-chatgpt-to-make-court-decision)
+- Feb 04 - [Open Assistant – project meant to give everyone access to a great chat based LLM](https://github.com/LAION-AI/Open-Assistant)
+- Feb 04 - [Open Assistant: Conversational AI for Everyone](https://open-assistant.io/)
+- Feb 04 - [De-Bloated Windows 11 Build Runs on 2GB of RAM](https://www.tomshardware.com/news/tiny11-lean-windows-11)
+- Feb 04 - [Astronomers uncover a one-in-ten-billion binary star system](https://www.sciencedaily.com/releases/2023/02/230201134112.htm)
 <!--END_SECTION:hn-->
 
 <!--
