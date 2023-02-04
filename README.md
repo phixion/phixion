@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 04 - [Ask HN: Should we be concerned about the current H5N1 outbreak?](https://news.ycombinator.com/item?id=34652458)
+- Feb 04 - [Bitmovin (YC S15) Is Hiring in Vienna (Austria)](https://bitmovin.com/careers/)
+- Feb 04 - [Solving the cube root of 19,683 mentally](https://www.nigamanth.com/blog/2023/cube-roots-trick.html)
+- Feb 04 - [Wind chill on Mt. Washington NH minus 108, temp -46, wind 98 gusting 107](https://www.mountwashington.org/experience-the-weather/current-summit-conditions.aspx)
 - Feb 04 - [Expected changes with Dropbox for macOS](https://help.dropbox.com/installs/macos-support-for-expected-changes)
-- Feb 04 - [The Linux Upskill Challenge](https://theleo.zone/posts/linux-upskill/)
-- Feb 04 - [Servo 2023 Roadmap](https://servo.org/blog/2023/02/03/servo-2023-roadmap/)
-- Feb 03 - [Polish communist era 8 bit computer used in banks, MK-45 outdated at arrival](https://www.youtube.com/watch?v=CMRAMxtS21A)
-- Feb 03 - [Hustle bros are jumping on the AI bandwagon](https://www.theverge.com/2023/2/2/23582772/chatgpt-ai-get-rich-quick-schemes-hustlers-web)
 <!--END_SECTION:hn-->
 
 <!--
