@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 04 - [Colombian judge used ChatGPT to make court decision](https://www.vice.com/en/article/k7bdmv/judge-used-chatgpt-to-make-court-decision)
-- Feb 04 - [Open Assistant – project meant to give everyone access to a great chat based LLM](https://github.com/LAION-AI/Open-Assistant)
-- Feb 04 - [Open Assistant: Conversational AI for Everyone](https://open-assistant.io/)
-- Feb 04 - [De-Bloated Windows 11 Build Runs on 2GB of RAM](https://www.tomshardware.com/news/tiny11-lean-windows-11)
-- Feb 04 - [Astronomers uncover a one-in-ten-billion binary star system](https://www.sciencedaily.com/releases/2023/02/230201134112.htm)
+- Feb 04 - [Netflix infuriates artists and fans with AI anime](https://www.creativebloq.com/news/ai-anime-labour-shortage)
+- Feb 04 - [Study links adoption of EV with less air pollution and improved health](https://keck.usc.edu/study-links-adoption-of-electric-vehicles-with-less-air-pollution-and-improved-health/)
+- Feb 04 - [Nostr.how – A Complete Guide to Nostr](https://www.nostr.how/)
+- Feb 04 - [Polymode: Multiple Major Modes and How to Use SQL and Python in One Buffer](https://www.masteringemacs.org/article/polymode-multiple-major-modes-how-to-use-sql-python-in-one-buffer)
+- Feb 04 - [Scalability Is Overrated](https://waseem.substack.com/p/scalability-is-overrated)
 <!--END_SECTION:hn-->
 
 <!--
