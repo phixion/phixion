@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 03 - [ESA – Space Suit Design Competition](https://ideas.esa.int/servlet/hype/IMT?documentTableId=45087148846182772&userAction=Browse&templateName=&documentId=3187b4b0a219dbb07731d5f690776a8b)
-- Feb 03 - [New Universal Summarizer by Kagi](https://labs.kagi.com/ai/sum)
-- Feb 03 - [Show HN: Glidesort, a new stable sort in Rust up to ~4x faster for random data](https://github.com/orlp/glidesort)
-- Feb 03 - [Show HN: Talk to GPT-3 through Siri](https://news.ycombinator.com/item?id=34646178)
-- Feb 03 - [Free Code Tools](https://freecodetools.org/)
+- Feb 03 - [Polish communist era 8 bit computer used in banks, MK-45 outdated at arrival](https://www.youtube.com/watch?v=CMRAMxtS21A)
+- Feb 03 - [A single line of code brought down a half-billion euro rocket launch](https://jam.dev/blog/famous-bugs-rocket-launch/)
+- Feb 03 - [43 Hours on the Amtrak Southwest Chief](https://www.0x58ed.com/blog/amtrak-southwest-chief)
+- Feb 03 - [Is this poison ivy?](https://www.birdandmoon.com/poisonivy/)
+- Feb 03 - [Critique of the mind/body problem: it's not solvable](https://www.jsanilac.com/mind/)
 <!--END_SECTION:hn-->
 
 <!--
