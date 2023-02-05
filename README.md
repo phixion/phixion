@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 05 - [The Coming AI Hackers (2021)](https://www.schneier.com/academic/archives/2021/04/the-coming-ai-hackers.html)
-- Feb 05 - [Google Invests Almost $400M in ChatGPT Rival Anthropic](https://www.bloomberg.com/news/articles/2023-02-03/google-invests-almost-400-million-in-ai-startup-anthropic)
-- Feb 05 - [Jülich quantum computer solves protein puzzle](https://www.eurekalert.org/news-releases/977133)
-- Feb 05 - [Gen Z Netiquettes](https://manyonepercents.substack.com/p/productive-online-communication-gen-z)
-- Feb 05 - [I'm Going to Scale My Foot Up Your Ass (2008)](http://widgetsandshit.com/teddziuba/2008/04/im-going-to-scale-my-foot-up-y.html)
+- Feb 05 - [Ghost Boat with Garmin GPS Leads Father-Son Duo to Man Overboard](https://www.garmin.com/en-US/blog/marine/ghost-boat-with-garmin-gps-leads-father-son-duo-to-man-overboard/)
+- Feb 05 - [NSA wooing thousands of laid-off Big Tech workers for spy agency's hiring spree](https://www.washingtontimes.com/news/2023/feb/3/nsa-wooing-thousands-laid-big-tech-workers-spy-age/)
+- Feb 05 - [HSBC's Money Laundering Scandal](https://www.investopedia.com/stock-analysis/2013/investing-news-for-jan-29-hsbcs-money-laundering-scandal-hbc-scbff-ing-cs-rbs0129.aspx)
+- Feb 05 - [Ask HN: Longer Discussions in HN?](https://news.ycombinator.com/item?id=34665272)
+- Feb 05 - [Minimum viable process](https://themarketplace.guide/minimum-viable-process)
 <!--END_SECTION:hn-->
 
 <!--
