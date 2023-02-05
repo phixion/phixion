@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 04 - [Netflix infuriates artists and fans with AI anime](https://www.creativebloq.com/news/ai-anime-labour-shortage)
-- Feb 04 - [Study links adoption of EV with less air pollution and improved health](https://keck.usc.edu/study-links-adoption-of-electric-vehicles-with-less-air-pollution-and-improved-health/)
-- Feb 04 - [Nostr.how – A Complete Guide to Nostr](https://www.nostr.how/)
-- Feb 04 - [Polymode: Multiple Major Modes and How to Use SQL and Python in One Buffer](https://www.masteringemacs.org/article/polymode-multiple-major-modes-how-to-use-sql-python-in-one-buffer)
-- Feb 04 - [Scalability Is Overrated](https://waseem.substack.com/p/scalability-is-overrated)
+- Feb 04 - [Go-like channels in 10 lines of JavaScript](https://pedrocattori.dev/blog/go-like-channels-in-10-lines-of-javascript)
+- Feb 04 - [Augmenting Human Intellect: A Conceptual Framework](https://www.dougengelbart.org/pubs/augment-3906.html)
+- Feb 04 - [U.S. military shoots down suspected Chinese surveillance balloon](https://www.cnbc.com/2023/02/04/us-military-prepares-to-take-down-suspected-chinese-surveillance-balloon.html)
+- Feb 04 - [Sussman Explains the End of SICP](https://irreal.org/blog/?p=11127)
+- Feb 04 - [The Magic of Sampling, and Its Limitations](https://research.swtch.com/sample)
 <!--END_SECTION:hn-->
 
 <!--
