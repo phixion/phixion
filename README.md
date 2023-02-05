@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 05 - [Ghost Boat with Garmin GPS Leads Father-Son Duo to Man Overboard](https://www.garmin.com/en-US/blog/marine/ghost-boat-with-garmin-gps-leads-father-son-duo-to-man-overboard/)
-- Feb 05 - [NSA wooing thousands of laid-off Big Tech workers for spy agency's hiring spree](https://www.washingtontimes.com/news/2023/feb/3/nsa-wooing-thousands-laid-big-tech-workers-spy-age/)
-- Feb 05 - [HSBC's Money Laundering Scandal](https://www.investopedia.com/stock-analysis/2013/investing-news-for-jan-29-hsbcs-money-laundering-scandal-hbc-scbff-ing-cs-rbs0129.aspx)
-- Feb 05 - [Ask HN: Longer Discussions in HN?](https://news.ycombinator.com/item?id=34665272)
-- Feb 05 - [Minimum viable process](https://themarketplace.guide/minimum-viable-process)
+- Feb 05 - [Don’t teach during code reviews](https://www.michaelagreiler.com/teach-during-code-reviews/)
+- Feb 05 - [Ask HN: Employers, why do you want us back in the office?](https://news.ycombinator.com/item?id=34667411)
+- Feb 05 - [What We Learned from Building GovSlack](https://slack.engineering/what-we-learned-from-building-govslack/)
+- Feb 05 - [Gattaca is still pertinent 25 years later](https://www.nature.com/articles/s41588-022-01242-5)
+- Feb 05 - [Ask HN: Share your favorite YouTube channels focused on mastering a skill/craft](https://news.ycombinator.com/item?id=34666777)
 <!--END_SECTION:hn-->
 
 <!--
