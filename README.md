@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 05 - [Why I Use C When I Believe in Memory Safety](https://gavinhoward.com/2023/02/why-i-use-c-when-i-believe-in-memory-safety/)
 - Feb 05 - [Near-miss between FedEx and Southwest flights in Austin](https://twitter.com/winglets747/status/1622038080680038400)
-- Feb 05 - [The Cheapest Flash Microcontroller You Can Buy Is Actually an Arm Cortex-M0](https://jaycarlson.net/2023/02/04/the-cheapest-flash-microcontroller-you-can-buy-is-actually-an-arm-cortex-m0/)
-- Feb 05 - [The Market for Lemons -  Alex Russell on JS frontends](https://infrequently.org/2023/02/the-market-for-lemons/)
+- Feb 05 - [The cheapest flash microcontroller you can buy is actually an Arm Cortex-M0+](https://jaycarlson.net/2023/02/04/the-cheapest-flash-microcontroller-you-can-buy-is-actually-an-arm-cortex-m0/)
+- Feb 05 - [The Market for Lemons](https://infrequently.org/2023/02/the-market-for-lemons/)
 - Feb 05 - [The Packing Chromatic Number of the Infinite Grid is 15: the story behind it](https://bsubercaseaux.github.io/blog/2023/packingchromatic/)
-- Feb 04 - [Showering at the South Pole](https://brr.fyi/posts/showering-at-the-south-pole)
 <!--END_SECTION:hn-->
 
 <!--
