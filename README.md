@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 06 - [Why would a 21st century warplane shoot a balloon with a missile?](https://aviation.stackexchange.com/questions/97384/if-a-balloon-lies-within-gun-range-why-would-a-21st-century-warplane-shoot-it-w)
-- Feb 06 - [You can’t bribe, threaten, or feed people to get them back in the office](https://www.bostonglobe.com/2023/02/05/opinion/wake-up-corporate-america-you-cant-bribe-threaten-or-feed-people-get-them-back-office/)
-- Feb 06 - [The Hundred-Year Programming Language](https://codefol.io/posts/the-hundred-year-programming-language/)
-- Feb 06 - [Maxima: A computer algebra system written in Common Lisp](https://maxima.sourceforge.io/)
-- Feb 06 - [Ask HN: Is anyone successfully self-hosting Firefox Sync?](https://news.ycombinator.com/item?id=34674569)
+- Feb 06 - [Tech CEOs Should Be Held Accountable, or Even Fired, Amid Layoffs](https://www.businessinsider.com/tech-ceo-accountable-layoffs-google-apple-intel-2023-2)
+- Feb 06 - [AI Generated Seinfeld banned on Twitch for transphobic jokes](https://www.sportskeeda.com/esports/news-ai-streamer-watchmeforever-reportedly-gets-banned-going-rogue)
+- Feb 06 - [Also Italian](https://www.laphamsquarterly.org/roundtable/also-italian)
+- Feb 06 - [Crafting container images without Dockerfiles](https://ochagavia.nl/blog/crafting-container-images-without-dockerfiles/)
+- Feb 06 - [Vitamin D serum levels, supplementation&suicide attempts&intentional self-harm](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0279166)
 <!--END_SECTION:hn-->
 
 <!--
