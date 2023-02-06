@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 06 - [1986's Official UFO Night in Brazil](https://www.gov.br/en/government-of-brazil/latest-news/2022/official-ufo-night-in-brazil)
-- Feb 06 - [Craft using an inertial mass reduction device (Patent by US Navy)](https://patents.google.com/patent/US10144532B2/en)
-- Feb 06 - [QCVM: Bite-sized QuakeC VM written in C](https://github.com/JaycieErysdren/QCVM)
-- Feb 06 - [7.8 magnitude earthquake hits Turkiye](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jllz/executive)
-- Feb 06 - [The fraudulent claims made by IBM about Watson and AI (2021)](https://www.rogerschank.com/fraudulent-claims-made-by-IBM-about-Watson-and-AI)
+- Feb 06 - [US spends most on health care but has worst health outcomes](https://www.wesh.com/article/us-health-care-worst-outcomes-high-income-countries-new-report/42745709)
+- Feb 06 - [Ask HN: Why is it so difficult to find quality Windows apps?](https://news.ycombinator.com/item?id=34674081)
+- Feb 06 - [OpenTTD 13.0 Released](https://www.openttd.org/news/2023/02/05/openttd-13-0)
+- Feb 06 - [Weakening TLS protection, South Korean style](https://palant.info/2023/02/06/weakening-tls-protection-south-korean-style/)
+- Feb 06 - [Ask HN: Did anyone else lose their marbles?](https://news.ycombinator.com/item?id=34673949)
 <!--END_SECTION:hn-->
 
 <!--
