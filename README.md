@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 05 - [Don’t teach during code reviews](https://www.michaelagreiler.com/teach-during-code-reviews/)
-- Feb 05 - [Ask HN: Employers, why do you want us back in the office?](https://news.ycombinator.com/item?id=34667411)
-- Feb 05 - [What We Learned from Building GovSlack](https://slack.engineering/what-we-learned-from-building-govslack/)
-- Feb 05 - [Gattaca is still pertinent 25 years later](https://www.nature.com/articles/s41588-022-01242-5)
-- Feb 05 - [Ask HN: Share your favorite YouTube channels focused on mastering a skill/craft](https://news.ycombinator.com/item?id=34666777)
+- Feb 05 - [Stable Attribution](https://www.stableattribution.com)
+- Feb 05 - [The rise of universities’ diversity bureaucrats (2018)](https://www.economist.com/the-economist-explains/2018/05/08/the-rise-of-universities-diversity-bureaucrats)
+- Feb 05 - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
+- Feb 05 - [Duolingo’s AI Learns What You Need to Learn](https://spectrum.ieee.org/duolingo)
+- Feb 05 - [Artificial intelligence just lost a leader](https://rjlipton.wpcomstaging.com/2023/02/05/artificial-intelligence-just-lost-a-leader/)
 <!--END_SECTION:hn-->
 
 <!--
