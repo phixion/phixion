@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 06 - [Tech CEOs Should Be Held Accountable, or Even Fired, Amid Layoffs](https://www.businessinsider.com/tech-ceo-accountable-layoffs-google-apple-intel-2023-2)
-- Feb 06 - [AI Generated Seinfeld banned on Twitch for transphobic jokes](https://www.sportskeeda.com/esports/news-ai-streamer-watchmeforever-reportedly-gets-banned-going-rogue)
-- Feb 06 - [Also Italian](https://www.laphamsquarterly.org/roundtable/also-italian)
-- Feb 06 - [Crafting container images without Dockerfiles](https://ochagavia.nl/blog/crafting-container-images-without-dockerfiles/)
-- Feb 06 - [Vitamin D serum levels, supplementation&suicide attempts&intentional self-harm](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0279166)
+- Feb 06 - [Sundar Pichai: An important next step on our AI journey](https://blog.google/technology/ai/bard-google-ai-search-updates/)
+- Feb 06 - [The Samsung Galaxy S23’s bloated Android build somehow uses 60GB of storage](https://arstechnica.com/gadgets/2023/02/the-samsung-galaxy-s23s-bloated-android-build-somehow-uses-60gb-of-storage/)
+- Feb 06 - [Binance to suspend US dollar bank transfers](https://www.coindesk.com/business/2023/02/06/crypto-exchange-binance-to-suspend-us-dollar-deposits-this-week/)
+- Feb 06 - [GPT for Second Brains](https://reasonabledeviations.com/2023/02/05/gpt-for-second-brain/)
+- Feb 06 - [Voice.ai: GPL Violations with a Side of DRM](https://undeleted.ronsor.com/voice.ai-gpl-violations-with-a-side-of-drm/)
 <!--END_SECTION:hn-->
 
 <!--
