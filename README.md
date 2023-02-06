@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 05 - [Stable Attribution](https://www.stableattribution.com)
-- Feb 05 - [The rise of universities’ diversity bureaucrats (2018)](https://www.economist.com/the-economist-explains/2018/05/08/the-rise-of-universities-diversity-bureaucrats)
-- Feb 05 - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
-- Feb 05 - [Duolingo’s AI Learns What You Need to Learn](https://spectrum.ieee.org/duolingo)
-- Feb 05 - [Artificial intelligence just lost a leader](https://rjlipton.wpcomstaging.com/2023/02/05/artificial-intelligence-just-lost-a-leader/)
+- Feb 06 - [1986's Official UFO Night in Brazil](https://www.gov.br/en/government-of-brazil/latest-news/2022/official-ufo-night-in-brazil)
+- Feb 06 - [Craft using an inertial mass reduction device (Patent by US Navy)](https://patents.google.com/patent/US10144532B2/en)
+- Feb 06 - [QCVM: Bite-sized QuakeC VM written in C](https://github.com/JaycieErysdren/QCVM)
+- Feb 06 - [7.8 magnitude earthquake hits Turkiye](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jllz/executive)
+- Feb 06 - [The fraudulent claims made by IBM about Watson and AI (2021)](https://www.rogerschank.com/fraudulent-claims-made-by-IBM-about-Watson-and-AI)
 <!--END_SECTION:hn-->
 
 <!--
