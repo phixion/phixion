@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 06 - [US spends most on health care but has worst health outcomes](https://www.wesh.com/article/us-health-care-worst-outcomes-high-income-countries-new-report/42745709)
-- Feb 06 - [Ask HN: Why is it so difficult to find quality Windows apps?](https://news.ycombinator.com/item?id=34674081)
-- Feb 06 - [OpenTTD 13.0 Released](https://www.openttd.org/news/2023/02/05/openttd-13-0)
-- Feb 06 - [Weakening TLS protection, South Korean style](https://palant.info/2023/02/06/weakening-tls-protection-south-korean-style/)
-- Feb 06 - [Ask HN: Did anyone else lose their marbles?](https://news.ycombinator.com/item?id=34673949)
+- Feb 06 - [Why would a 21st century warplane shoot a balloon with a missile?](https://aviation.stackexchange.com/questions/97384/if-a-balloon-lies-within-gun-range-why-would-a-21st-century-warplane-shoot-it-w)
+- Feb 06 - [You can’t bribe, threaten, or feed people to get them back in the office](https://www.bostonglobe.com/2023/02/05/opinion/wake-up-corporate-america-you-cant-bribe-threaten-or-feed-people-get-them-back-office/)
+- Feb 06 - [The Hundred-Year Programming Language](https://codefol.io/posts/the-hundred-year-programming-language/)
+- Feb 06 - [Maxima: A computer algebra system written in Common Lisp](https://maxima.sourceforge.io/)
+- Feb 06 - [Ask HN: Is anyone successfully self-hosting Firefox Sync?](https://news.ycombinator.com/item?id=34674569)
 <!--END_SECTION:hn-->
 
 <!--
