@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 06 - [Turkey EARTHQUAKE – please keep 28.540 clear for communications](https://forums.qrz.com/index.php?threads/turkey-earthquake-please-keep-28-540-clear-for-communications.850385/)
-- Feb 06 - [You’re making me buy a new phone](https://www.kooslooijesteijn.net/blog/you-are-making-me-buy-a-new-phone)
-- Feb 06 - [US woman has walked around with untreated TB for over a year, now faces jail](https://arstechnica.com/science/2023/02/us-woman-has-walked-around-with-untreated-tb-for-over-a-year-now-faces-jail/)
-- Feb 06 - [The Dutch benefits scandal: a cautionary tale for algorithmic enforcement](https://eulawenforcement.com/?p=7941)
-- Feb 06 - [Show HN: Flappy Bird and Wordle](https://flappybirdle.com/)
+- Feb 07 - [mactype: Better font rendering for Windows.](https://github.com/snowie2000/mactype)
+- Feb 07 - [Silicon Valley needs to stop laying off workers and start firing CEOs](https://www.businessinsider.com/fire-blame-ceo-tech-employee-layoffs-google-facebook-salesforce-amazon-2023-2)
+- Feb 07 - [We come to bury ChatGPT, not to praise it](https://www.danmcquillan.org/chatgpt.html)
+- Feb 07 - [Simulation of tsunami from dinosaur-killing asteroid that brought 2.5 mile waves](https://sos.noaa.gov/catalog/datasets/tsunami-asteroid-impact-66-million-years-ago/)
+- Feb 06 - [Turkey earthquake: please keep 28.540 clear for communications](https://forums.qrz.com/index.php?threads/turkey-earthquake-please-keep-28-540-clear-for-communications.850385/)
 <!--END_SECTION:hn-->
 
 <!--
