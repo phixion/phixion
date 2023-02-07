@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 07 - [mactype: Better font rendering for Windows.](https://github.com/snowie2000/mactype)
-- Feb 07 - [Silicon Valley needs to stop laying off workers and start firing CEOs](https://www.businessinsider.com/fire-blame-ceo-tech-employee-layoffs-google-facebook-salesforce-amazon-2023-2)
-- Feb 07 - [We come to bury ChatGPT, not to praise it](https://www.danmcquillan.org/chatgpt.html)
-- Feb 07 - [Simulation of tsunami from dinosaur-killing asteroid that brought 2.5 mile waves](https://sos.noaa.gov/catalog/datasets/tsunami-asteroid-impact-66-million-years-ago/)
-- Feb 06 - [Turkey earthquake: please keep 28.540 clear for communications](https://forums.qrz.com/index.php?threads/turkey-earthquake-please-keep-28-540-clear-for-communications.850385/)
+- Feb 07 - [OpenAI-to-SQLite by Simonw](https://datasette.io/tools/openai-to-sqlite)
+- Feb 07 - [They say that stocks go down during the day and up at night](https://statmodeling.stat.columbia.edu/2023/02/06/stocks-go-down-during-the-day-and-up-at-night/)
+- Feb 07 - [HP bricking printers remotely if the client's credit card expires [video]](https://www.youtube.com/watch?v=KGszSj0BLeg)
+- Feb 07 - [Abraham Lempel has died (the L in LZW compression)](https://www.ynetnews.com/business/article/hjdfzoa2o)
+- Feb 07 - [On the joy of podman and auto-updates (2022)](https://feldspaten.org/2022/07/09/On-the-joy-of-podman-and-auto-updates/)
 <!--END_SECTION:hn-->
 
 <!--
