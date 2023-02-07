@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 07 - [DNS0: The European public DNS that makes your internet safer](https://www.dns0.eu)
-- Feb 07 - [Stripe increases price for business in the European Economic Area](https://support.stripe.com/questions/pricing-updates-for-businesses-based-in-the-european-economic-area-(eea))
-- Feb 07 - [Humanitarian OpenStreetMap Team](https://www.hotosm.org/what-we-do)
-- Feb 07 - [PhotoRoom (YC S20) Is Hiring a Fullstack Engineer (Generative AI API) in Paris](https://jobs.lever.co/photoroom/29260c53-a84f-4d4f-a322-3bdc8540cdb7?lever-origin=applied&lever-source%5B%5D=yc)
-- Feb 07 - [Turrican 2 AGA – Released](https://sonicslothgames.itch.io/turrican2aga)
+- Feb 07 - [Mandatory DEI statements are becoming the norm in academic hiring](https://www.economist.com/united-states/2023/02/04/american-universities-are-hiring-based-on-devotion-to-diversity)
+- Feb 07 - [We reduced our iOS app launch time by 60%](https://doordash.engineering/2023/01/31/how-we-reduced-our-ios-app-launch-time-by-60/)
+- Feb 07 - [Show HN: Database of VC investment memos](https://www.vcinsights.co/)
+- Feb 07 - [GPU-Backed User Interfaces](https://digest.browsertech.com/archive/gpu-backed-user-interfaces/)
+- Feb 07 - [The Quest to Find Rectangles in a Square](https://www.nytimes.com/2023/02/07/science/puzzles-rectangles-mathematics.html)
 <!--END_SECTION:hn-->
 
 <!--
