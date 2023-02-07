@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 07 - [OpenAI-to-SQLite by Simonw](https://datasette.io/tools/openai-to-sqlite)
-- Feb 07 - [They say that stocks go down during the day and up at night](https://statmodeling.stat.columbia.edu/2023/02/06/stocks-go-down-during-the-day-and-up-at-night/)
-- Feb 07 - [HP bricking printers remotely if the client's credit card expires [video]](https://www.youtube.com/watch?v=KGszSj0BLeg)
-- Feb 07 - [Abraham Lempel has died (the L in LZW compression)](https://www.ynetnews.com/business/article/hjdfzoa2o)
-- Feb 07 - [On the joy of podman and auto-updates (2022)](https://feldspaten.org/2022/07/09/On-the-joy-of-podman-and-auto-updates/)
+- Feb 07 - [DNS0: The European public DNS that makes your internet safer](https://www.dns0.eu)
+- Feb 07 - [Stripe increases price for business in the European Economic Area](https://support.stripe.com/questions/pricing-updates-for-businesses-based-in-the-european-economic-area-(eea))
+- Feb 07 - [Humanitarian OpenStreetMap Team](https://www.hotosm.org/what-we-do)
+- Feb 07 - [PhotoRoom (YC S20) Is Hiring a Fullstack Engineer (Generative AI API) in Paris](https://jobs.lever.co/photoroom/29260c53-a84f-4d4f-a322-3bdc8540cdb7?lever-origin=applied&lever-source%5B%5D=yc)
+- Feb 07 - [Turrican 2 AGA – Released](https://sonicslothgames.itch.io/turrican2aga)
 <!--END_SECTION:hn-->
 
 <!--
