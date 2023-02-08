@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 08 - [First Builder’s Remedy Plan for Bay Area Revealed in Los Altos Hills](https://sfyimby.com/2023/02/yimby-exclusive-first-builders-remedy-plan-for-bay-area-revealed-in-los-altos-hills.html)
-- Feb 07 - [Bill would ban the teaching of scientific theories in Montana schools](https://www.mtpr.org/montana-news/2023-02-07/bill-would-ban-the-teaching-of-scientific-theories-in-montana-schools)
-- Feb 07 - [The 28,000 year old cave paintings in Cosquer Cave (Underwater)](https://www.bradshawfoundation.com/cosquer/)
-- Feb 07 - [Nintendo Will Pay Its Workers 10% More](https://www.gamespot.com/articles/nintendo-will-pay-its-workers-10-more/1100-6511268/)
-- Feb 07 - [Blender moves from Phabricator to Gitea](https://code.blender.org/2023/02/new-blender-development-infrastructure/)
+- Feb 08 - [Why the Austin airport situation was so dangerous](https://fallows.substack.com/p/as-bad-as-it-gets-without-body-bags)
+- Feb 08 - [CBMC: The C Bounded Model Checker](https://arxiv.org/abs/2302.02384)
+- Feb 08 - [Discovery of an Exceptionally Rare Nearby and Energetic Gamma-Ray Burst](https://arxiv.org/abs/2302.03642)
+- Feb 08 - [GitHub: Guide on how to make ChatGPT prompts and a collection of prompts to use](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List)
+- Feb 08 - [Intelligence is everywhere: From AI to cephalopods](https://newhumanist.org.uk/articles/6068/intelligence-is-everywhere)
 <!--END_SECTION:hn-->
 
 <!--
