@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 07 - [An Introduction to Class Warfare for the Software Engineer](https://medium.com/@lloyd-f-hough/an-introduction-to-class-warfare-for-the-software-engineer-1810833055d7)
-- Feb 07 - [David Sabatini lands millions from private donors to start new lab](https://www.science.org/content/article/sabatini-biologist-fired-sexual-misconduct-lands-millions-private-donors-start-new-lab)
-- Feb 07 - [Google's Bard shows incorrect information in its launch ad](https://twitter.com/IsabelNAngelo/status/1623013720011194368)
-- Feb 07 - [The New Bing with ChatGPT](https://www.theverge.com/2023/2/7/23587454/microsoft-bing-edge-chatgpt-ai)
-- Feb 07 - [Meta to Ask Many Managers to Become Individual Contributors or Leave](https://www.bloomberg.com/news/articles/2023-02-07/meta-to-ask-many-managers-to-become-individual-contributors-or-leave)
+- Feb 08 - [First Builder’s Remedy Plan for Bay Area Revealed in Los Altos Hills](https://sfyimby.com/2023/02/yimby-exclusive-first-builders-remedy-plan-for-bay-area-revealed-in-los-altos-hills.html)
+- Feb 07 - [Bill would ban the teaching of scientific theories in Montana schools](https://www.mtpr.org/montana-news/2023-02-07/bill-would-ban-the-teaching-of-scientific-theories-in-montana-schools)
+- Feb 07 - [The 28,000 year old cave paintings in Cosquer Cave (Underwater)](https://www.bradshawfoundation.com/cosquer/)
+- Feb 07 - [Nintendo Will Pay Its Workers 10% More](https://www.gamespot.com/articles/nintendo-will-pay-its-workers-10-more/1100-6511268/)
+- Feb 07 - [Blender moves from Phabricator to Gitea](https://code.blender.org/2023/02/new-blender-development-infrastructure/)
 <!--END_SECTION:hn-->
 
 <!--
