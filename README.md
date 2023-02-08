@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 08 - [Ask HN: Best practices for self-healing apps?](https://news.ycombinator.com/item?id=34706624)
-- Feb 08 - [Ask HN: HN for Finance?](https://news.ycombinator.com/item?id=34706550)
-- Feb 08 - [Value-Oriented Programming](https://accu.org/journals/overload/31/173/teodorescu/)
-- Feb 08 - [Estonian Foreign Intelligence Service's 2023 Security Report](https://raport.valisluureamet.ee/2023/en/)
-- Feb 08 - [Open source cloud file system. Posix, HDFS and S3 compatible](https://juicefs.com/en/)
+- Feb 08 - [Why does 0.1 and 0.2 = 0.30000000000000004?](https://jvns.ca/blog/2023/02/08/why-does-0-1-plus-0-2-equal-0-30000000000000004/)
+- Feb 08 - [George Orwell's 6 rules for writing (2018; originally published in 1946)](https://infusion.media/blog/george-orwells-six-rules-for-writing/)
+- Feb 08 - [Google is still drip-feeding AI into Search, Maps, and Translate](https://www.theverge.com/2023/2/8/23589886/google-search-maps-translate-features-updates-live-from-paris-event)
+- Feb 08 - [Google's Live from Paris Event Private/Deleted Immediately](https://news.ycombinator.com/item?id=34708255)
+- Feb 08 - [What 2023 will bring for PeerTube](https://joinpeertube.org/news/roadmap-v6)
 <!--END_SECTION:hn-->
 
 <!--
