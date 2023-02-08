@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 08 - [Why does 0.1 and 0.2 = 0.30000000000000004?](https://jvns.ca/blog/2023/02/08/why-does-0-1-plus-0-2-equal-0-30000000000000004/)
-- Feb 08 - [George Orwell's 6 rules for writing (2018; originally published in 1946)](https://infusion.media/blog/george-orwells-six-rules-for-writing/)
-- Feb 08 - [Google is still drip-feeding AI into Search, Maps, and Translate](https://www.theverge.com/2023/2/8/23589886/google-search-maps-translate-features-updates-live-from-paris-event)
-- Feb 08 - [Google's Live from Paris Event Private/Deleted Immediately](https://news.ycombinator.com/item?id=34708255)
-- Feb 08 - [What 2023 will bring for PeerTube](https://joinpeertube.org/news/roadmap-v6)
+- Feb 08 - [Reddit Mods and Scaling Problems in Social Control](https://maximumeffort.substack.com/p/scaling-problems-in-social-control)
+- Feb 08 - [FDroid debating Aves Libre app TOS as reason for removal](https://gitlab.com/fdroid/fdroiddata/-/issues/2893)
+- Feb 08 - [Windows 11: a spyware machine out of users' control](https://www.techspot.com/news/97535-windows-11-spyware-machine-out-users-control.html)
+- Feb 08 - [Buckminster Fuller’s Hall of Mirrors](https://www.thenation.com/article/culture/buckminster-fuller-alec-nevela-lee-biography/)
+- Feb 08 - [Public broadcasters want to reclaim online spaces with “Public Spaces Incubator”](https://finance.yahoo.com/news/public-broadcasters-collaborate-reclaim-online-150000237.html)
 <!--END_SECTION:hn-->
 
 <!--
