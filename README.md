@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 08 - [Why the Austin airport situation was so dangerous](https://fallows.substack.com/p/as-bad-as-it-gets-without-body-bags)
-- Feb 08 - [CBMC: The C Bounded Model Checker](https://arxiv.org/abs/2302.02384)
-- Feb 08 - [Discovery of an Exceptionally Rare Nearby and Energetic Gamma-Ray Burst](https://arxiv.org/abs/2302.03642)
-- Feb 08 - [GitHub: Guide on how to make ChatGPT prompts and a collection of prompts to use](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List)
-- Feb 08 - [Intelligence is everywhere: From AI to cephalopods](https://newhumanist.org.uk/articles/6068/intelligence-is-everywhere)
+- Feb 08 - [Incident: Qatar B788 at Doha on Jan 10th 2023, steep descent after takeoff](https://avherald.com/h?article=504d75c7)
+- Feb 08 - [Browsers are essential and how operating systems are holding them back (2022) [pdf]](https://research.mozilla.org/files/2022/10/Mozilla-Five-Walled-Gardens.pdf)
+- Feb 08 - [The Artist Who Collaborates with Ants](https://www.newyorker.com/culture/persons-of-interest/the-artist-who-collaborates-with-ants)
+- Feb 08 - [Posix Compatibility Comparison: GCP Filestore, Amazon EFS, and Azure Files](https://juicefs.com/en/blog/engineering/posix-compatibility-comparison-among-four-file-system-on-the-cloud)
+- Feb 08 - [‘Confirming we are cleared to land?’ Who said what at Austin](https://fallows.substack.com/p/as-bad-as-it-gets-without-body-bags)
 <!--END_SECTION:hn-->
 
 <!--
