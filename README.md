@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 09 - [Ask HN: Easiest and cheapest full-stack frameworks that you love?](https://news.ycombinator.com/item?id=34720753)
-- Feb 09 - [I hate Hackathons](https://pgpt.substack.com/p/i-hate-hackathons)
-- Feb 09 - [Ask HN: Is “prompt injection” going to be a new common vulnerability?](https://news.ycombinator.com/item?id=34719586)
-- Feb 09 - [Podman vs. Docker: Comparing the two containerization tools](https://www.linode.com/docs/guides/podman-vs-docker/)
-- Feb 09 - [Ask HN: Burnt out from big tech. What's next?](https://news.ycombinator.com/item?id=34719088)
+- Feb 09 - [Generally Intelligent (YC S17) Is Hiring Engineering Managers](https://news.ycombinator.com/item?id=34722685)
+- Feb 09 - [Ask HN: Is anyone else getting AI fatigue?](https://news.ycombinator.com/item?id=34722220)
+- Feb 09 - [Ask HN: Are alternative (oil, nu, etc.) shells usable as daily drivers?](https://news.ycombinator.com/item?id=34722208)
+- Feb 09 - [Localbitcoins Is Shutting Down](https://localbitcoins.com/service_closure/)
+- Feb 09 - [Why is remote work seen as a gift?](https://cdoyle.me/2023/02/08/why-is-remote-work-seen-as-a-gift/)
 <!--END_SECTION:hn-->
 
 <!--
