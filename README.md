@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 09 - [Generally Intelligent (YC S17) Is Hiring Engineering Managers](https://news.ycombinator.com/item?id=34722685)
-- Feb 09 - [Ask HN: Is anyone else getting AI fatigue?](https://news.ycombinator.com/item?id=34722220)
-- Feb 09 - [Ask HN: Are alternative (oil, nu, etc.) shells usable as daily drivers?](https://news.ycombinator.com/item?id=34722208)
-- Feb 09 - [Localbitcoins Is Shutting Down](https://localbitcoins.com/service_closure/)
-- Feb 09 - [Why is remote work seen as a gift?](https://cdoyle.me/2023/02/08/why-is-remote-work-seen-as-a-gift/)
+- Feb 09 - [The Future of Thunderbird](https://blog.thunderbird.net/2023/02/the-future-of-thunderbird-why-were-rebuilding-from-the-ground-up/)
+- Feb 09 - [ChatGPT Is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)
+- Feb 09 - [Dbt to acquire Transform to build out its semantic layer](https://www.getdbt.com/blog/dbt-acquisition-transform/)
+- Feb 09 - [Launch HN: Activepieces (YC S22) – Open-Source Zapier Alternative](https://news.ycombinator.com/item?id=34723989)
+- Feb 09 - [Show HN: I Made a Todo List for Developer Power Users [video]](https://www.youtube.com/watch?v=pGmdX8Znv5g)
 <!--END_SECTION:hn-->
 
 <!--
