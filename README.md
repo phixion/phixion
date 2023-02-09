@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 08 - [Reddit Mods and Scaling Problems in Social Control](https://maximumeffort.substack.com/p/scaling-problems-in-social-control)
-- Feb 08 - [FDroid debating Aves Libre app TOS as reason for removal](https://gitlab.com/fdroid/fdroiddata/-/issues/2893)
-- Feb 08 - [Windows 11: a spyware machine out of users' control](https://www.techspot.com/news/97535-windows-11-spyware-machine-out-users-control.html)
-- Feb 08 - [Buckminster Fuller’s Hall of Mirrors](https://www.thenation.com/article/culture/buckminster-fuller-alec-nevela-lee-biography/)
-- Feb 08 - [Public broadcasters want to reclaim online spaces with “Public Spaces Incubator”](https://finance.yahoo.com/news/public-broadcasters-collaborate-reclaim-online-150000237.html)
+- Feb 08 - [Apache Kafka Beyond the Basics: Windowing](https://www.confluent.io/blog/windowing-in-kafka-streams/)
+- Feb 08 - [Vestas unveils solution to end landfill disposal for wind turbine blades](https://www.vestas.com/en/media/company-news/2023/vestas-unveils-circularity-solution-to-end-landfill-for-c3710818)
+- Feb 08 - [Twitter starts limiting how many tweets you can post per day](https://forum.cktn.de/t/twitter-starts-limiting-how-many-tweets-you-can-post-per-day/493)
+- Feb 08 - [Top byte ignore for fun and memory savings](https://www.linaro.org/blog/top-byte-ignore-for-fun-and-memory-savings/)
+- Feb 08 - [Reddit mods and scaling problems in social control](https://maximumeffort.substack.com/p/scaling-problems-in-social-control)
 <!--END_SECTION:hn-->
 
 <!--
