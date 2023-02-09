@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 08 - [Apache Kafka Beyond the Basics: Windowing](https://www.confluent.io/blog/windowing-in-kafka-streams/)
-- Feb 08 - [Vestas unveils solution to end landfill disposal for wind turbine blades](https://www.vestas.com/en/media/company-news/2023/vestas-unveils-circularity-solution-to-end-landfill-for-c3710818)
-- Feb 08 - [Twitter starts limiting how many tweets you can post per day](https://forum.cktn.de/t/twitter-starts-limiting-how-many-tweets-you-can-post-per-day/493)
-- Feb 08 - [Top byte ignore for fun and memory savings](https://www.linaro.org/blog/top-byte-ignore-for-fun-and-memory-savings/)
-- Feb 08 - [Reddit mods and scaling problems in social control](https://maximumeffort.substack.com/p/scaling-problems-in-social-control)
+- Feb 09 - [Podman vs. Docker: Comparing the two containerization tools](https://www.linode.com/docs/guides/podman-vs-docker/)
+- Feb 09 - [My 2022 self was wrong about meditation, monitors, and sleep](https://guzey.com/2022-lessons/)
+- Feb 09 - [The entire prompt of Microsoft Bing Chat](https://twitter.com/kliu128/status/1623472922374574080)
+- Feb 08 - [Covid drug drives viral mutations – and now some want to halt its use](https://www.nature.com/articles/d41586-023-00347-z)
+- Feb 08 - [Photoprism – open-source Google Photos Alternative](https://www.photoprism.app/)
 <!--END_SECTION:hn-->
 
 <!--
