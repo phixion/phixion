@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 09 - [The Future of Thunderbird](https://blog.thunderbird.net/2023/02/the-future-of-thunderbird-why-were-rebuilding-from-the-ground-up/)
-- Feb 09 - [ChatGPT Is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)
-- Feb 09 - [Dbt to acquire Transform to build out its semantic layer](https://www.getdbt.com/blog/dbt-acquisition-transform/)
-- Feb 09 - [Launch HN: Activepieces (YC S22) – Open-Source Zapier Alternative](https://news.ycombinator.com/item?id=34723989)
-- Feb 09 - [Show HN: I Made a Todo List for Developer Power Users [video]](https://www.youtube.com/watch?v=pGmdX8Znv5g)
+- Feb 09 - [Localizing Unity games as an indie dev](https://www.bjmalicoat.com/projects/localizingunitygames)
+- Feb 09 - [AI Joins Hunt for ET: Study Finds 8 Potential Alien Signals](https://blogs.nvidia.com/blog/2023/02/06/ai-potential-alien-signals/)
+- Feb 09 - [Credit Suisse confirms 50% bonus cut, Zero for Exec, amid terrible results](https://www.efinancialcareers.com/news/2023/02/credit-suisse-bonuses)
+- Feb 09 - [We compete with GitHub. Bing does not show our website](https://www.codeium.com/blog/bing-does-not-index-codeium)
+- Feb 09 - [Solar panels disguised as terracotta tiles in Pompeii](https://www.theartnewspaper.com/2023/02/06/ancient-pompeii-site-installs-invisible-solar-panels-that-look-like-roman-terracotta-tiles)
 <!--END_SECTION:hn-->
 
 <!--
