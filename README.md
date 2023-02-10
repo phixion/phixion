@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 09 - [Localizing Unity games as an indie dev](https://www.bjmalicoat.com/projects/localizingunitygames)
-- Feb 09 - [AI Joins Hunt for ET: Study Finds 8 Potential Alien Signals](https://blogs.nvidia.com/blog/2023/02/06/ai-potential-alien-signals/)
-- Feb 09 - [Credit Suisse confirms 50% bonus cut, Zero for Exec, amid terrible results](https://www.efinancialcareers.com/news/2023/02/credit-suisse-bonuses)
-- Feb 09 - [We compete with GitHub. Bing does not show our website](https://www.codeium.com/blog/bing-does-not-index-codeium)
-- Feb 09 - [Solar panels disguised as terracotta tiles in Pompeii](https://www.theartnewspaper.com/2023/02/06/ancient-pompeii-site-installs-invisible-solar-panels-that-look-like-roman-terracotta-tiles)
+- Feb 09 - [Dragon’s Lair Overhaul Black Edition (1/16th scale)](https://newwavetoys.com/products/dragons-lair-x-replicade-overhaul-black)
+- Feb 09 - [Temple Student Strike Turns Ugly as School Ends Some Tuition Aid](https://www.phillymag.com/news/2023/02/08/temple-strike-philadelphia/)
+- Feb 09 - [British Rail’s short experiment with travelling pubs (2020)](https://www.ianvisits.co.uk/articles/british-rails-short-experiment-with-travelling-pubs-36068/)
+- Feb 09 - [Scientists document two separate reservoirs of latent HIV in patients](https://www.unc.edu/posts/2023/02/08/scientists-document-two-separate-reservoirs-of-latent-hiv-in-patients/)
+- Feb 09 - [Image Compression with Singular Value Decomposition](http://timbaumann.info/svd-image-compression-demo/)
 <!--END_SECTION:hn-->
 
 <!--
