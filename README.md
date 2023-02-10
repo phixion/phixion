@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 10 - [DuckDB – in-process SQL OLAP database management system](https://duckdb.org/)
-- Feb 10 - [Ask HN: Why aren't laptops evaluated with a plot of performance vs. fan noise?](https://news.ycombinator.com/item?id=34741090)
-- Feb 10 - [Manticore 6.0.0 – a faster alternative to Elasticsearch in C++](https://manticoresearch.com/blog/manticore-search-6-0-0/)
-- Feb 10 - [How a Zig IDE Could Work](https://matklad.github.io/2023/02/10/how-a-zig-ide-could-work.html)
-- Feb 10 - [External Garbage Collection in Ruby](https://census.dev/blog/external-garbage-collection)
+- Feb 10 - [Open AI serving us geek dads](https://apps.apple.com/us/app/rory-bedtime-story-generator/id1664174652)
+- Feb 10 - [The Astonishing Transformation of Austin](https://www.newyorker.com/magazine/2023/02/13/the-astonishing-transformation-of-austin)
+- Feb 10 - [Ask HN: What companies are embracing “HTML over the wire”?](https://news.ycombinator.com/item?id=34744348)
+- Feb 10 - [Money Laundering and AML Compliance](https://www.bitsaboutmoney.com/archive/money-laundering-and-aml-compliance/)
+- Feb 10 - [What crappy beer demand tells us about the economy](https://www.freightwaves.com/news/what-crappy-beer-demand-tells-us-about-the-economy)
 <!--END_SECTION:hn-->
 
 <!--
