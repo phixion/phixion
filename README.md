@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 10 - [Dual Coincidence is likely the most complex electromechanical game](https://newatlas.com/good-thinking/dual-coincidence-five-way-pinball-electromechanical-game/)
-- Feb 10 - [Building a Cloud Database from Scratch: Why We Moved from C++ to Rust](https://www.risingwave-labs.com/blog/building-a-cloud-database-from-scratch-why-we-moved-from-cpp-to-rust/)
-- Feb 10 - [Reddit Confirms It Was Hacked–Recommends Users Set Up 2FA](https://www.forbes.com/sites/daveywinder/2023/02/10/reddit-confirms-it-was-hacked-recommends-users-set-up-2fa/)
-- Feb 10 - [Use TOML for `.env` Files?](https://snarky.ca/use-toml-for-env-files/)
-- Feb 10 - [Show HN: Enc – A modern and friendly CLI alternative to GnuPG](https://github.com/life4/enc)
+- Feb 10 - [DuckDB – in-process SQL OLAP database management system](https://duckdb.org/)
+- Feb 10 - [Ask HN: Why aren't laptops evaluated with a plot of performance vs. fan noise?](https://news.ycombinator.com/item?id=34741090)
+- Feb 10 - [Manticore 6.0.0 – a faster alternative to Elasticsearch in C++](https://manticoresearch.com/blog/manticore-search-6-0-0/)
+- Feb 10 - [How a Zig IDE Could Work](https://matklad.github.io/2023/02/10/how-a-zig-ide-could-work.html)
+- Feb 10 - [External Garbage Collection in Ruby](https://census.dev/blog/external-garbage-collection)
 <!--END_SECTION:hn-->
 
 <!--
