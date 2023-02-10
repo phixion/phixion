@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 09 - [Dragon’s Lair Overhaul Black Edition (1/16th scale)](https://newwavetoys.com/products/dragons-lair-x-replicade-overhaul-black)
-- Feb 09 - [Temple Student Strike Turns Ugly as School Ends Some Tuition Aid](https://www.phillymag.com/news/2023/02/08/temple-strike-philadelphia/)
-- Feb 09 - [British Rail’s short experiment with travelling pubs (2020)](https://www.ianvisits.co.uk/articles/british-rails-short-experiment-with-travelling-pubs-36068/)
-- Feb 09 - [Scientists document two separate reservoirs of latent HIV in patients](https://www.unc.edu/posts/2023/02/08/scientists-document-two-separate-reservoirs-of-latent-hiv-in-patients/)
-- Feb 09 - [Image Compression with Singular Value Decomposition](http://timbaumann.info/svd-image-compression-demo/)
+- Feb 10 - [A year after outcry, IRS still doesn’t offer taxpayers alternative to ID.me](https://cyberscoop.com/irs-facial-recognition-identity-privacy/)
+- Feb 10 - [Housing Starts to Look the Same](https://www.nytimes.com/2023/01/20/realestate/housing-developments-city-architecture.html)
+- Feb 10 - [Why big tech companies need so many people](https://thebuilderjr.substack.com/p/why-big-tech-companies-need-so-many)
+- Feb 10 - [Etleap (YC W13) Is Hiring a Software Engineer (London)](https://etleap.com/careers/software-engineer/)
+- Feb 10 - [A new way to build with Large Language Models](https://blog.fixie.ai/introducing-fixie-ai-a-new-way-to-build-with-large-language-models-d4e1aeee6b81)
 <!--END_SECTION:hn-->
 
 <!--
