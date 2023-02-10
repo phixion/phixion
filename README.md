@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 10 - [Meticulous (YC S21) Is Hiring #3 Engineer in London to Revolutionize Testing](https://news.ycombinator.com/item?id=34736554)
-- Feb 10 - [Framework: 2TB SSDs for Steam Deck](https://frame.work/blog/now-offering-2tb-ssds-for-steam-deck-in-the-framework)
-- Feb 10 - [The Rust Implementation of GNU Coreutils Is Becoming Remarkably Robust](https://www.phoronix.com/news/Rust-Coreutils-uutils-2023)
-- Feb 10 - [Yahoo will lay off 20% of staff, or 1600 people](https://techcrunch.com/2023/02/09/yahoo-will-lay-off-20-of-staff-or-1600-people/)
-- Feb 10 - [A year after outcry, IRS still doesn’t offer taxpayers alternative to ID.me](https://cyberscoop.com/irs-facial-recognition-identity-privacy/)
+- Feb 10 - [Dual Coincidence is likely the most complex electromechanical game](https://newatlas.com/good-thinking/dual-coincidence-five-way-pinball-electromechanical-game/)
+- Feb 10 - [Building a Cloud Database from Scratch: Why We Moved from C++ to Rust](https://www.risingwave-labs.com/blog/building-a-cloud-database-from-scratch-why-we-moved-from-cpp-to-rust/)
+- Feb 10 - [Reddit Confirms It Was Hacked–Recommends Users Set Up 2FA](https://www.forbes.com/sites/daveywinder/2023/02/10/reddit-confirms-it-was-hacked-recommends-users-set-up-2fa/)
+- Feb 10 - [Use TOML for `.env` Files?](https://snarky.ca/use-toml-for-env-files/)
+- Feb 10 - [Show HN: Enc – A modern and friendly CLI alternative to GnuPG](https://github.com/life4/enc)
 <!--END_SECTION:hn-->
 
 <!--
