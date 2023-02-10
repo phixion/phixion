@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 10 - [Meticulous (YC S21) Is Hiring #3 Engineer in London to Revolutionize Testing](https://news.ycombinator.com/item?id=34736554)
+- Feb 10 - [Framework: 2TB SSDs for Steam Deck](https://frame.work/blog/now-offering-2tb-ssds-for-steam-deck-in-the-framework)
+- Feb 10 - [The Rust Implementation of GNU Coreutils Is Becoming Remarkably Robust](https://www.phoronix.com/news/Rust-Coreutils-uutils-2023)
+- Feb 10 - [Yahoo will lay off 20% of staff, or 1600 people](https://techcrunch.com/2023/02/09/yahoo-will-lay-off-20-of-staff-or-1600-people/)
 - Feb 10 - [A year after outcry, IRS still doesn’t offer taxpayers alternative to ID.me](https://cyberscoop.com/irs-facial-recognition-identity-privacy/)
-- Feb 10 - [Housing Starts to Look the Same](https://www.nytimes.com/2023/01/20/realestate/housing-developments-city-architecture.html)
-- Feb 10 - [Why big tech companies need so many people](https://thebuilderjr.substack.com/p/why-big-tech-companies-need-so-many)
-- Feb 10 - [Etleap (YC W13) Is Hiring a Software Engineer (London)](https://etleap.com/careers/software-engineer/)
-- Feb 10 - [A new way to build with Large Language Models](https://blog.fixie.ai/introducing-fixie-ai-a-new-way-to-build-with-large-language-models-d4e1aeee6b81)
 <!--END_SECTION:hn-->
 
 <!--
