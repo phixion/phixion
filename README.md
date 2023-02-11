@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 10 - [Open AI serving us geek dads](https://apps.apple.com/us/app/rory-bedtime-story-generator/id1664174652)
-- Feb 10 - [The Astonishing Transformation of Austin](https://www.newyorker.com/magazine/2023/02/13/the-astonishing-transformation-of-austin)
-- Feb 10 - [Ask HN: What companies are embracing “HTML over the wire”?](https://news.ycombinator.com/item?id=34744348)
+- Feb 10 - [Why did Mozilla remove XUL add-ons? (2020)](https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/)
+- Feb 10 - [GitHub and EFF back YouTube ripper in legal battle with the RIAA](https://torrentfreak.com/github-and-eff-back-youtube-ripper-in-legal-battle-with-the-riaa-230210/)
+- Feb 10 - [Ask HN: What Happened to Elm?](https://news.ycombinator.com/item?id=34746161)
+- Feb 10 - [US jet shoots down unknown object flying off Alaska coast](https://apnews.com/article/pentagon-shoots-down-unknown-flying-object-175f9078d1df36e392b2956ba771001e)
 - Feb 10 - [Money Laundering and AML Compliance](https://www.bitsaboutmoney.com/archive/money-laundering-and-aml-compliance/)
-- Feb 10 - [What crappy beer demand tells us about the economy](https://www.freightwaves.com/news/what-crappy-beer-demand-tells-us-about-the-economy)
 <!--END_SECTION:hn-->
 
 <!--
