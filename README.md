@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 11 - [Universal Tracking Back – Data Still Destroyed](https://community.cointracker.io/t/universal-tracking-back-data-still-destroyed/6543)
 - Feb 11 - [Bird.makeup: a Twitter to ActivityPub bridge](https://bird.makeup/)
+- Feb 11 - [Gofumpt: A stricter gofmt](https://github.com/mvdan/gofumpt)
 - Feb 11 - [Treasure trove of mechanical animations](https://kottke.org/15/04/treasure-trove-of-over-1700-mechanical-animations)
-- Feb 10 - [Why did Mozilla remove XUL add-ons? (2020)](https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/)
 - Feb 10 - [A Gentle Introduction to CRDTs](https://vlcn.io/blog/gentle-intro-to-crdts.html)
-- Feb 10 - [Ask HN: What Happened to Elm?](https://news.ycombinator.com/item?id=34746161)
 <!--END_SECTION:hn-->
 
 <!--
