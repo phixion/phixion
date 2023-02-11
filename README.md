@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 11 - [Universal Tracking Back – Data Still Destroyed](https://community.cointracker.io/t/universal-tracking-back-data-still-destroyed/6543)
-- Feb 11 - [Bird.makeup: a Twitter to ActivityPub bridge](https://bird.makeup/)
-- Feb 11 - [Gofumpt: A stricter gofmt](https://github.com/mvdan/gofumpt)
-- Feb 11 - [Treasure trove of mechanical animations](https://kottke.org/15/04/treasure-trove-of-over-1700-mechanical-animations)
-- Feb 10 - [A Gentle Introduction to CRDTs](https://vlcn.io/blog/gentle-intro-to-crdts.html)
+- Feb 11 - [Ask HN: How do you save and browse external interesting URLs?](https://news.ycombinator.com/item?id=34751066)
+- Feb 11 - [SDK update for Raspberry Pi Pico W unlocks Bluetooth support](https://github.com/raspberrypi/pico-sdk/releases/tag/1.5.0)
+- Feb 11 - [Ask HN: Are Paul Graham's Classic Startup Essays Outdated?](https://news.ycombinator.com/item?id=34750727)
+- Feb 11 - [Why type hinting sucks (/r/Python)](https://old.reddit.com/r/Python/comments/10zdidm/why_type_hinting_sucks/)
+- Feb 11 - [Gentoo Linux 2022 Retrospective](https://www.gentoo.org/news/2023/02/09/new-year.html)
 <!--END_SECTION:hn-->
 
 <!--
