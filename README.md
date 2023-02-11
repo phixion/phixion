@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 11 - [Ask HN: How do you save and browse external interesting URLs?](https://news.ycombinator.com/item?id=34751066)
-- Feb 11 - [SDK update for Raspberry Pi Pico W unlocks Bluetooth support](https://github.com/raspberrypi/pico-sdk/releases/tag/1.5.0)
-- Feb 11 - [Ask HN: Are Paul Graham's Classic Startup Essays Outdated?](https://news.ycombinator.com/item?id=34750727)
-- Feb 11 - [Why type hinting sucks (/r/Python)](https://old.reddit.com/r/Python/comments/10zdidm/why_type_hinting_sucks/)
-- Feb 11 - [Gentoo Linux 2022 Retrospective](https://www.gentoo.org/news/2023/02/09/new-year.html)
+- Feb 11 - [Ask HN: Can Browsers Have a Universal Hotkey for Website Login?](https://news.ycombinator.com/item?id=34752833)
+- Feb 11 - [The Antidote to Envy](https://moretothat.com/the-antidote-to-envy/)
+- Feb 11 - [DeepMind AI is as fast as humans at solving previously unseen tasks](https://www.newscientist.com/article/2357017-deepmind-ai-is-as-fast-as-humans-at-solving-previously-unseen-tasks/)
+- Feb 11 - [Geogram: Programming Library with Geometric Algorithms](https://github.com/BrunoLevy/geogram)
+- Feb 11 - [Scientists discover receptor that blocks Covid-19 infection](https://www.sydney.edu.au/news-opinion/news/2023/02/10/scientists-discover-receptor-that-blocks-covid-19-infection.html)
 <!--END_SECTION:hn-->
 
 <!--
