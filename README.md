@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 11 - [Ask HN: Can Browsers Have a Universal Hotkey for Website Login?](https://news.ycombinator.com/item?id=34752833)
-- Feb 11 - [The Antidote to Envy](https://moretothat.com/the-antidote-to-envy/)
-- Feb 11 - [DeepMind AI is as fast as humans at solving previously unseen tasks](https://www.newscientist.com/article/2357017-deepmind-ai-is-as-fast-as-humans-at-solving-previously-unseen-tasks/)
-- Feb 11 - [Geogram: Programming Library with Geometric Algorithms](https://github.com/BrunoLevy/geogram)
-- Feb 11 - [Scientists discover receptor that blocks Covid-19 infection](https://www.sydney.edu.au/news-opinion/news/2023/02/10/scientists-discover-receptor-that-blocks-covid-19-infection.html)
+- Feb 11 - [“Magic” Drug Restores Lost Memories and Unleashes Hidden Knowledge](https://thedebrief.org/magic-drug-restores-lost-memories-and-unleashes-hidden-knowledge/)
+- Feb 11 - [Spanish rail's costly blunder: New trains too large for tunnels](https://www.lemonde.fr/en/economy/article/2023/02/10/spanish-rail-s-costly-blunder-new-trains-too-large-for-tunnels_6015208_19.html)
+- Feb 11 - [I had ChatGPT write a Decemberists song and recorded it](https://colinmeloy.substack.com/p/i-had-chatgpt-write-a-decemberists)
+- Feb 11 - [I made ChatGPT and Bing AI have a conversation](https://moritz.pm/posts/chatgpt-bing)
+- Feb 11 - [Students suing elite U.S. colleges seek 'wealth favoritism' information](https://www.reuters.com/legal/litigation/students-suing-elite-us-colleges-seek-wealth-favoritism-information-2023-02-09/)
 <!--END_SECTION:hn-->
 
 <!--
