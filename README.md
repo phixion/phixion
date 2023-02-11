@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 11 - [Bird.makeup: a Twitter to ActivityPub bridge](https://bird.makeup/)
+- Feb 11 - [Treasure trove of mechanical animations](https://kottke.org/15/04/treasure-trove-of-over-1700-mechanical-animations)
 - Feb 10 - [Why did Mozilla remove XUL add-ons? (2020)](https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/)
-- Feb 10 - [GitHub and EFF back YouTube ripper in legal battle with the RIAA](https://torrentfreak.com/github-and-eff-back-youtube-ripper-in-legal-battle-with-the-riaa-230210/)
+- Feb 10 - [A Gentle Introduction to CRDTs](https://vlcn.io/blog/gentle-intro-to-crdts.html)
 - Feb 10 - [Ask HN: What Happened to Elm?](https://news.ycombinator.com/item?id=34746161)
-- Feb 10 - [US jet shoots down unknown object flying off Alaska coast](https://apnews.com/article/pentagon-shoots-down-unknown-flying-object-175f9078d1df36e392b2956ba771001e)
-- Feb 10 - [Money Laundering and AML Compliance](https://www.bitsaboutmoney.com/archive/money-laundering-and-aml-compliance/)
 <!--END_SECTION:hn-->
 
 <!--
