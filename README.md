@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 12 - [Windows 11 Sends Tremendous Amount of User Data to Third Parties](https://www.tomshardware.com/news/windows-11-sends-user-data-to-third-party-services)
-- Feb 12 - [After Snowden, We Quit Our Jobs to Build Privacy Software – It Reached 1.0](https://safing.io/blog/2023/02/07/snowden-changed-everything/)
-- Feb 12 - [Start test names with “should” (2020)](https://paperless.blog/start-test-names-with-should)
-- Feb 12 - [Lessons Learned from 1 Year of Intermittent Fasting](https://jamesclear.com/intermittent-fasting-lessons-learned)
-- Feb 12 - [I learned 7 programming languages so you don't have to...](https://mode80.github.io/7-langs-in-12-months.html)
+- Feb 12 - [Another Russian Spacecraft at ISS Has a Coolant Leak](https://spacepolicyonline.com/news/another-russian-spacecraft-at-iss-has-a-coolant-leak/)
+- Feb 12 - [Purego – A library for calling C functions from Go without Cgo](https://github.com/ebitengine/purego)
+- Feb 12 - [School Dental Program Prevents 80% of Cavities with 1x Non-Invasive Treatment](https://www.nyu.edu/about/news-publications/news/2023/february/school-dental-program-prevents-80-percent-of-cavities.html)
+- Feb 12 - [I Tried Ketamine to Treat My Depression. It Was Terrifying](https://www.washingtonpost.com/wellness/2023/02/12/ketamine-depression-treatment-failure/)
+- Feb 12 - [The FBI’s most controversial surveillance tool is under threat](https://www.wired.com/story/fbi-section-702/)
 <!--END_SECTION:hn-->
 
 <!--
