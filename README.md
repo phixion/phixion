@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 12 - [Japan Adopts Plan to Make Maximum Use of Nuclear Power](https://japannews.yomiuri.co.jp/business/companies/20230210-90175/)
-- Feb 12 - [Meta delays setting team budgets as Facebook parent plans fresh round of layoffs](https://www.reuters.com/technology/meta-delays-setting-team-budgets-facebook-parent-plans-fresh-round-layoffs-ft-2023-02-11/)
-- Feb 12 - [SafeButler (YC S17) Is Hiring Business Development](https://www.safebutler.com/careers)
-- Feb 12 - [Show HN: PyCirclize – Circular Visualization in Python](https://github.com/moshi4/pyCirclize)
-- Feb 12 - [The <Dialog> Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog)
+- Feb 12 - [Windows 11 Sends Tremendous Amount of User Data to Third Parties](https://www.tomshardware.com/news/windows-11-sends-user-data-to-third-party-services)
+- Feb 12 - [After Snowden, We Quit Our Jobs to Build Privacy Software – It Reached 1.0](https://safing.io/blog/2023/02/07/snowden-changed-everything/)
+- Feb 12 - [Start test names with “should” (2020)](https://paperless.blog/start-test-names-with-should)
+- Feb 12 - [Lessons Learned from 1 Year of Intermittent Fasting](https://jamesclear.com/intermittent-fasting-lessons-learned)
+- Feb 12 - [I learned 7 programming languages so you don't have to...](https://mode80.github.io/7-langs-in-12-months.html)
 <!--END_SECTION:hn-->
 
 <!--
