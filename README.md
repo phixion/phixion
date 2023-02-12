@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 12 - [Warnock's dilemma](https://en.wikipedia.org/wiki/Warnock%27s_dilemma)
-- Feb 12 - [Microsoft failed to rotate certificates for winget CDN on time](https://cdn.winget.microsoft.com/cache)
-- Feb 12 - [F-15s Scrambled from Portland Air National Guard Base](https://twitter.com/sentdefender/status/1624576868140679168)
-- Feb 12 - [U.S. Representative Comments on New “Object” over Montana](https://twitter.com/reprosendale/status/1624579901608034306)
-- Feb 12 - [Health concerns mounting as animals become sick after train derailment](https://www.wkbn.com/news/local-news/east-palestine-train-derailment/health-concerns-mounting-as-animals-become-sick-after-train-derailment/)
+- Feb 12 - [Japan Adopts Plan to Make Maximum Use of Nuclear Power](https://japannews.yomiuri.co.jp/business/companies/20230210-90175/)
+- Feb 12 - [Meta delays setting team budgets as Facebook parent plans fresh round of layoffs](https://www.reuters.com/technology/meta-delays-setting-team-budgets-facebook-parent-plans-fresh-round-layoffs-ft-2023-02-11/)
+- Feb 12 - [SafeButler (YC S17) Is Hiring Business Development](https://www.safebutler.com/careers)
+- Feb 12 - [Show HN: PyCirclize – Circular Visualization in Python](https://github.com/moshi4/pyCirclize)
+- Feb 12 - [The <Dialog> Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog)
 <!--END_SECTION:hn-->
 
 <!--
