@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 11 - [“Magic” Drug Restores Lost Memories and Unleashes Hidden Knowledge](https://thedebrief.org/magic-drug-restores-lost-memories-and-unleashes-hidden-knowledge/)
-- Feb 11 - [Spanish rail's costly blunder: New trains too large for tunnels](https://www.lemonde.fr/en/economy/article/2023/02/10/spanish-rail-s-costly-blunder-new-trains-too-large-for-tunnels_6015208_19.html)
-- Feb 11 - [I had ChatGPT write a Decemberists song and recorded it](https://colinmeloy.substack.com/p/i-had-chatgpt-write-a-decemberists)
-- Feb 11 - [I made ChatGPT and Bing AI have a conversation](https://moritz.pm/posts/chatgpt-bing)
-- Feb 11 - [Students suing elite U.S. colleges seek 'wealth favoritism' information](https://www.reuters.com/legal/litigation/students-suing-elite-us-colleges-seek-wealth-favoritism-information-2023-02-09/)
+- Feb 11 - [The Toll of Layoff Anxiety](https://www.bbc.com/worklife/article/20230203-stress-anxiety-global-layoffs)
+- Feb 11 - [Another UFO shot down over Canada by US](https://www.reuters.com/world/us/us-still-gives-no-details-about-alaska-ufo-new-object-seen-over-canada-2023-02-11/)
+- Feb 11 - [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)
+- Feb 11 - [British woman undertakes trip from London to Edinburgh using only £2 local buses](https://www.theguardian.com/uk-news/2023/feb/11/twitter-gets-behind-womans-london-to-edinburgh-local-bus-expedition)
+- Feb 11 - [PM ordered take down of an unidentified object that violated Canadian airspace](https://twitter.com/JustinTrudeau/status/1624527581331554306)
 <!--END_SECTION:hn-->
 
 <!--
