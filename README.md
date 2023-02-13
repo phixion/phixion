@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 13 - [Bigscreen VR announces Beyond: the world&#x27;s smallest VR headset](https://twitter.com/BigscreenVR/status/1625152589624135698)
-- Feb 13 - [Mozilla removes Bypass Paywalls Clean extension from its add-ons repository](https://www.ghacks.net/2023/02/13/mozilla-removes-bypass-paywalls-clean-extension-from-its-add-ons-repository/)
-- Feb 13 - [India’s Government Wants Total Control of the Internet](https://www.wired.com/story/indias-government-wants-total-control-of-the-internet/)
-- Feb 13 - [ERs are hiring fewer doctors to save money: Shots – Health News](https://www.npr.org/sections/health-shots/2023/02/11/1154962356/ers-hiring-fewer-doctors)
-- Feb 13 - [Clojure Turns 15 panel discussion video](https://www.youtube.com/watch?v=exSRG-iL74Q)
+- Feb 13 - [Women’s underwear is taxed at higher rates than Men’s](https://www.axios.com/2023/02/13/womens-underwear-tariffs-pink-tax)
+- Feb 13 - [Mariana Mazzucato: “The McKinseys and the Deloittes have no expertise ”](https://www.ft.com/content/fb1254dd-a011-44cc-bde9-a434e5a09fb4)
+- Feb 13 - [Mastodon Flock: Migrate your tweeps to the Fediverse](https://mastodon-flock.vercel.app/)
+- Feb 13 - [Creator of Linux virtual assistant blames &#x27;patent troll&#x27; for project&#x27;s death](https://www.theregister.com/2023/02/13/linux_ai_assistant_killed_off/)
+- Feb 13 - [Declarative Shadow DOM](https://webkit.org/blog/13851/declarative-shadow-dom/)
 <!--END_SECTION:hn-->
 
 <!--
