@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 12 - [Why messaging is much better than REST for inter-microservice communications](https://mats3.io/background/rationale-for-mats/)
-- Feb 12 - [Airspace over Lake Michigan restricted due to national defense](https://finance.yahoo.com/news/3-airspace-over-lake-michigan-154537665.html)
-- Feb 12 - [Run Your Own Television Network in the Browser with Channel Two](https://www.chrisfinke.com/2023/02/10/run-your-own-television-network-with-channel-two/)
-- Feb 12 - [IRS builds task force to explore running its own free e-file system](https://federalnewsnetwork.com/it-modernization/2023/02/irs-builds-out-task-force-to-explore-running-its-own-free-e-file-system/)
-- Feb 12 - [New hampshire on the cusp of enshrining software freedom into law](https://libreboot.org/news/usa-libre-part2.html)
+- Feb 13 - [Namecheap&#x27;s email flow compromised: valid rdns, spf, dkim and dmarc on phishes](https://mailman.nanog.org/pipermail/nanog/2023-February/221616.html)
+- Feb 13 - [NameCheap&#x27;s email hacked to send Metamask, DHL phishing emails](https://www.bleepingcomputer.com/news/security/namecheaps-email-hacked-to-send-metamask-dhl-phishing-emails/)
+- Feb 12 - [Update on recent unsolicited phishing emails from Namecheap](https://www.namecheap.com/status-updates/archives/74848)
+- Feb 12 - [Ford set to announce $3.5B EV battery plant in Marshall, sources say](https://www.crainsdetroit.com/economic-development/ford-set-announce-marshall-will-get-ev-battery-plant)
+- Feb 12 - [&lt;3 Deno](https://matklad.github.io/2023/02/12/a-love-letter-to-deno.html)
 <!--END_SECTION:hn-->
 
 <!--
