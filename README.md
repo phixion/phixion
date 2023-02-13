@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 13 - [Namecheap&#x27;s email flow compromised: valid rdns, spf, dkim and dmarc on phishes](https://mailman.nanog.org/pipermail/nanog/2023-February/221616.html)
+- Feb 13 - [Deepfake scams are here and we&#x27;re not ready](https://twitter.com/coffeebreak_YT/status/1624868006823165953)
+- Feb 13 - [KiCad Version 7.0.0 Released](https://www.kicad.org/blog/2023/02/Version-7.0.0-Released/)
+- Feb 13 - [My Fear of Commitment to the First CPU Core](https://www.jabperf.com/my-fear-of-commitment-to-the-1st-cpu-core/)
 - Feb 13 - [NameCheap&#x27;s email hacked to send Metamask, DHL phishing emails](https://www.bleepingcomputer.com/news/security/namecheaps-email-hacked-to-send-metamask-dhl-phishing-emails/)
-- Feb 12 - [Update on recent unsolicited phishing emails from Namecheap](https://www.namecheap.com/status-updates/archives/74848)
-- Feb 12 - [Ford set to announce $3.5B EV battery plant in Marshall, sources say](https://www.crainsdetroit.com/economic-development/ford-set-announce-marshall-will-get-ev-battery-plant)
-- Feb 12 - [&lt;3 Deno](https://matklad.github.io/2023/02/12/a-love-letter-to-deno.html)
+- Feb 12 - [Transparent Aluminum](https://en.wikipedia.org/wiki/Aluminium_oxynitride)
 <!--END_SECTION:hn-->
 
 <!--
