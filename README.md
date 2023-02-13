@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 13 - [Tavistock scandal ‘on a par with East German doping of athletes’](https://www.thetimes.co.uk/article/tavistock-scandal-gender-clinic-puberty-blockers-nhs-investigation-ghrqxk8pn)
-- Feb 13 - [Are we racing toward AI catastrophe?](https://www.vox.com/future-perfect/23591534/chatgpt-artificial-intelligence-google-baidu-microsoft-openai)
-- Feb 13 - [What&#x27;s Going Wrong in Particle Physics?](https://www.youtube.com/watch?v=lu4mH3Hmw2o)
-- Feb 13 - [What Happens Now to All the Laid Off Tech Workers? [audio]](https://omny.fm/shows/odd-lots/what-happens-now-to-all-the-laid-off-tech-workers)
-- Feb 13 - [Electric Clojure: unified fullstack application compiler](https://github.com/hyperfiddle/electric)
+- Feb 13 - [Bigscreen VR announces Beyond: the world&#x27;s smallest VR headset](https://twitter.com/BigscreenVR/status/1625152589624135698)
+- Feb 13 - [Mozilla removes Bypass Paywalls Clean extension from its add-ons repository](https://www.ghacks.net/2023/02/13/mozilla-removes-bypass-paywalls-clean-extension-from-its-add-ons-repository/)
+- Feb 13 - [India’s Government Wants Total Control of the Internet](https://www.wired.com/story/indias-government-wants-total-control-of-the-internet/)
+- Feb 13 - [ERs are hiring fewer doctors to save money: Shots – Health News](https://www.npr.org/sections/health-shots/2023/02/11/1154962356/ers-hiring-fewer-doctors)
+- Feb 13 - [Clojure Turns 15 panel discussion video](https://www.youtube.com/watch?v=exSRG-iL74Q)
 <!--END_SECTION:hn-->
 
 <!--
