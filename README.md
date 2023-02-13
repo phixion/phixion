@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 13 - [Deepfake scams are here and we&#x27;re not ready](https://twitter.com/coffeebreak_YT/status/1624868006823165953)
-- Feb 13 - [KiCad Version 7.0.0 Released](https://www.kicad.org/blog/2023/02/Version-7.0.0-Released/)
+- Feb 13 - [Microsoft to Replace Edge’s PDF Reader with Adobe Acrobat](https://www.theregister.com/2023/02/10/microsoft_edge_pdf_acrobat/)
+- Feb 13 - [Working at Google: Maps](https://albertcory50.substack.com/p/working-at-google-maps)
+- Feb 13 - [ArxivGPT: Chrome extension that summarizes arxived research papers using ChatGPT](https://github.com/hunkimForks/chatgpt-arxiv-extension)
+- Feb 13 - [KiCad 7.0](https://www.kicad.org/blog/2023/02/Version-7.0.0-Released/)
 - Feb 13 - [My Fear of Commitment to the First CPU Core](https://www.jabperf.com/my-fear-of-commitment-to-the-1st-cpu-core/)
-- Feb 13 - [NameCheap&#x27;s email hacked to send Metamask, DHL phishing emails](https://www.bleepingcomputer.com/news/security/namecheaps-email-hacked-to-send-metamask-dhl-phishing-emails/)
-- Feb 12 - [Transparent Aluminum](https://en.wikipedia.org/wiki/Aluminium_oxynitride)
 <!--END_SECTION:hn-->
 
 <!--
