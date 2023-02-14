@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 13 - [Women’s underwear is taxed at higher rates than Men’s](https://www.axios.com/2023/02/13/womens-underwear-tariffs-pink-tax)
-- Feb 13 - [Mariana Mazzucato: “The McKinseys and the Deloittes have no expertise ”](https://www.ft.com/content/fb1254dd-a011-44cc-bde9-a434e5a09fb4)
-- Feb 13 - [Mastodon Flock: Migrate your tweeps to the Fediverse](https://mastodon-flock.vercel.app/)
-- Feb 13 - [Creator of Linux virtual assistant blames &#x27;patent troll&#x27; for project&#x27;s death](https://www.theregister.com/2023/02/13/linux_ai_assistant_killed_off/)
-- Feb 13 - [Declarative Shadow DOM](https://webkit.org/blog/13851/declarative-shadow-dom/)
+- Feb 13 - [Walmart to Close Three Tech Hubs, Tells Tech Staff to Return to Offices](https://www.wsj.com/articles/walmart-to-close-three-tech-hubs-tells-tech-staff-to-return-to-offices-3fb131e4)
+- Feb 13 - [S.F. landlords, property owners sue to block voter-approved vacancy tax](https://www.sfchronicle.com/sf/article/san-francisco-vacancy-tax-lawsuit-17779273.php)
+- Feb 13 - [War and subsidies have turbocharged the green transition](https://www.economist.com/finance-and-economics/2023/02/13/war-and-subsidies-have-turbocharged-the-green-transition)
+- Feb 13 - [United Flight 1722 came within 775 feet of plunging into Pacific Ocean](https://theaircurrent.com/aviation-safety/united-maui-dive-ua1722-close-call/)
+- Feb 13 - [GPU Video acceleration in the Windows Subsystem for Linux now available](https://devblogs.microsoft.com/commandline/d3d12-gpu-video-acceleration-in-the-windows-subsystem-for-linux-now-available/)
 <!--END_SECTION:hn-->
 
 <!--
