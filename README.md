@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 13 - [Walmart to Close Three Tech Hubs, Tells Tech Staff to Return to Offices](https://www.wsj.com/articles/walmart-to-close-three-tech-hubs-tells-tech-staff-to-return-to-offices-3fb131e4)
-- Feb 13 - [S.F. landlords, property owners sue to block voter-approved vacancy tax](https://www.sfchronicle.com/sf/article/san-francisco-vacancy-tax-lawsuit-17779273.php)
-- Feb 13 - [War and subsidies have turbocharged the green transition](https://www.economist.com/finance-and-economics/2023/02/13/war-and-subsidies-have-turbocharged-the-green-transition)
-- Feb 13 - [United Flight 1722 came within 775 feet of plunging into Pacific Ocean](https://theaircurrent.com/aviation-safety/united-maui-dive-ua1722-close-call/)
-- Feb 13 - [GPU Video acceleration in the Windows Subsystem for Linux now available](https://devblogs.microsoft.com/commandline/d3d12-gpu-video-acceleration-in-the-windows-subsystem-for-linux-now-available/)
+- Feb 14 - [Tell HN: I got my first macOS app accepted to the App Store](https://news.ycombinator.com/item?id=34784664)
+- Feb 14 - [For some electric vehicle owners, recharging now more costly than filling up](https://www.cbsnews.com/news/electric-car-2023-costs-gas-vehicles/)
+- Feb 14 - [Ohio train derailment: environmental disaster quietly unfolding](https://www.fastcompany.com/90848025/ohio-train-derailment-toxic-chemicals-pvc-spill-fire-disaster)
+- Feb 14 - [More than five whys and “layer eight” problems](http://rachelbythebay.com/w/2023/02/13/broken/)
+- Feb 14 - [Google’s fully homomorphic encryption compiler – a primer](https://jeremykun.com/2023/02/13/googles-fully-homomorphic-encryption-compiler-a-primer/)
 <!--END_SECTION:hn-->
 
 <!--
