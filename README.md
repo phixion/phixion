@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 14 - [Eric Schmidt Is Building the Perfect AI War-Fighting Machine](https://www.wired.com/story/eric-schmidt-is-building-the-perfect-ai-war-fighting-machine/)
-- Feb 14 - [Does Google need a new CEO?](https://om.co/2023/02/08/does-google-need-a-new-ceo/)
-- Feb 14 - [It’s not aliens. It’ll probably never be aliens. So stop. Please just stop](https://arstechnica.com/science/2023/02/its-not-aliens-itll-probably-never-be-aliens-so-stop-please-just-stop/)
-- Feb 14 - [Google employees criticize CEO for “dumpster fire” response to ChatGPT](https://arstechnica.com/gadgets/2023/02/google-employees-criticize-ceo-for-dumpster-fire-response-to-chatgpt/)
-- Feb 14 - [The US Air Force successfully tested AI-controlled jet fighter](https://arstechnica.com/cars/2023/02/the-us-air-force-successfully-tested-this-ai-controlled-jet-fighter/)
+- Feb 14 - [The tech meltdown comes for Gen Z](https://www.businessinsider.com/tech-jobs-recession-layoffs-gen-z-students-class-of-2023-2023-2)
+- Feb 14 - [Disinfection with Far-UV (222 nm Ultraviolet light) [pdf]](https://www.boeing.com/confident-travel/downloads/CAP-3_Disinfection_with_Far-UV.pdf)
+- Feb 14 - [One thing for founders to know about Business Systems](https://ghiculescu.substack.com/p/1-thing-for-founders-to-learn-about)
+- Feb 14 - [Build Your Own Fast, Persistent, Toy KV Store](https://dinesh.wiki/posts/build-your-own-persistent-kv-store/)
+- Feb 14 - [Hyundai and Kia forced to update millions of vehicles due to TikTok challenge](https://www.theverge.com/2023/2/14/23599300/hyundai-kia-car-theft-software-update-free-tiktok-challenge)
 <!--END_SECTION:hn-->
 
 <!--
