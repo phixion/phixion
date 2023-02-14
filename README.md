@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 14 - [People can read their manager&#x27;s mind](https://yosefk.com/blog/people-can-read-their-managers-mind.html)
-- Feb 14 - [Supabase (YC S20) Is Hiring a Technical Documentation Lead (Remote)](https://boards.greenhouse.io/supabase/jobs/4796595004)
-- Feb 14 - [Meta reportedly plans more job cuts](https://www.engadget.com/meta-reportedly-plans-to-cut-more-jobs-171716224.html)
-- Feb 14 - [Bing thinks Mars has 2.5B people based on an AI generated blog wrong answer](https://imgur.com/a/Qj9U2ia)
-- Feb 14 - [My System&#x2F;3 model 10](http://www.ibmsystem3.nl/my5410/my5410.html)
+- Feb 14 - [Rust vs. Haskell](https://serokell.io/blog/rust-vs-haskell)
+- Feb 14 - [BBC offices in India raided by tax officials amid Modi documentary fallout](https://www.theguardian.com/world/2023/feb/14/bbc-offices-india-raided-tax-officials-modi-documentary-fallout)
+- Feb 14 - [Go Ahead and Ban My Book](https://www.theatlantic.com/ideas/archive/2023/02/margaret-atwood-handmaids-tale-virginia-book-ban-library-removal/673013/)
+- Feb 14 - [Consultancies know less than they claim and cost more than they seem to](https://twitter.com/FinancialTimes/status/1625219550051442712)
+- Feb 14 - [C++23 “Pandemic Edition” is complete](https://herbsutter.com/2023/02/13/c23-pandemic-edition-is-complete-trip-report-winter-iso-c-standards-meeting-issaquah-wa-usa/)
 <!--END_SECTION:hn-->
 
 <!--
