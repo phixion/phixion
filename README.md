@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 14 - [Rust vs. Haskell](https://serokell.io/blog/rust-vs-haskell)
-- Feb 14 - [BBC offices in India raided by tax officials amid Modi documentary fallout](https://www.theguardian.com/world/2023/feb/14/bbc-offices-india-raided-tax-officials-modi-documentary-fallout)
-- Feb 14 - [Go Ahead and Ban My Book](https://www.theatlantic.com/ideas/archive/2023/02/margaret-atwood-handmaids-tale-virginia-book-ban-library-removal/673013/)
-- Feb 14 - [Consultancies know less than they claim and cost more than they seem to](https://twitter.com/FinancialTimes/status/1625219550051442712)
-- Feb 14 - [C++23 “Pandemic Edition” is complete](https://herbsutter.com/2023/02/13/c23-pandemic-edition-is-complete-trip-report-winter-iso-c-standards-meeting-issaquah-wa-usa/)
+- Feb 14 - [Eric Schmidt Is Building the Perfect AI War-Fighting Machine](https://www.wired.com/story/eric-schmidt-is-building-the-perfect-ai-war-fighting-machine/)
+- Feb 14 - [Does Google need a new CEO?](https://om.co/2023/02/08/does-google-need-a-new-ceo/)
+- Feb 14 - [It’s not aliens. It’ll probably never be aliens. So stop. Please just stop](https://arstechnica.com/science/2023/02/its-not-aliens-itll-probably-never-be-aliens-so-stop-please-just-stop/)
+- Feb 14 - [Google employees criticize CEO for “dumpster fire” response to ChatGPT](https://arstechnica.com/gadgets/2023/02/google-employees-criticize-ceo-for-dumpster-fire-response-to-chatgpt/)
+- Feb 14 - [The US Air Force successfully tested AI-controlled jet fighter](https://arstechnica.com/cars/2023/02/the-us-air-force-successfully-tested-this-ai-controlled-jet-fighter/)
 <!--END_SECTION:hn-->
 
 <!--
