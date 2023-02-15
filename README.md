@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 15 - [Jonathan Blow: “Video Games and the Future of Education”](https://www.youtube.com/watch?v=qWFScmtiC44)
-- Feb 15 - [Ask HN: What&#x27;s a good open-source alternative to Cloudflare?](https://news.ycombinator.com/item?id=34800182)
-- Feb 15 - [Documentation related to the implementation of SimCity 2000](https://github.com/dfloer/SC2k-docs)
-- Feb 15 - [PyTorch at the Edge: Deploy 964 TIMM Models on Android with TorchScript](https://dicksonneoh.com/portfolio/pytorch_at_the_edge_timm_torchscript_flutter/)
-- Feb 15 - [Linode rebranded as Akamai’s cloud computing services](https://www.linode.com/blog/linode/a-bold-new-approach-to-the-cloud/)
+- Feb 15 - [Britons face 20k digital pound cap under Bank of England plan](https://www.reuters.com/markets/currencies/consumers-face-20000-pound-limit-digital-pound-bank-england-says-2023-02-07/)
+- Feb 15 - [Ask HN: What is the best advice you got on any aspect of life?](https://news.ycombinator.com/item?id=34802589)
+- Feb 15 - [Shoichiro Toyoda, who turned Toyota into global automaker, dies at 97](https://mainichi.jp/english/articles/20230214/p2g/00m/0bu/043000c)
+- Feb 15 - [Show HN: Explore careers that you don&#x27;t know even exist](https://careergpt.ai)
+- Feb 15 - [Swiss to vote on preventing cashless society, pressure group says](https://www.reuters.com/markets/europe/swiss-vote-preventing-cashless-society-pressure-group-says-2023-02-06/)
 <!--END_SECTION:hn-->
 
 <!--
