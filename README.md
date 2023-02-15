@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 14 - [Tool to cheat on any Skillz-based game, including cash games](https://www.skillztruth.com/)
-- Feb 14 - [Dis This: Disassemble Python code online](http://blog.pamelafox.org/2023/02/dis-this-disassemble-python-code-online.html)
-- Feb 14 - [Tesla goes down across Europe leaving some drivers unable to charge cars](https://metro.co.uk/2023/02/14/tesla-goes-down-across-europe-leaving-some-drivers-unable-to-charge-cars-18282364/)
-- Feb 14 - [GitHub Copilot for Business is now available](https://github.blog/2023-02-14-github-copilot-for-business-is-now-available/)
-- Feb 14 - [What Is ChatGPT Doing and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
+- Feb 15 - [Documentation related to the implementation of SimCity 2000](https://github.com/dfloer/SC2k-docs)
+- Feb 15 - [PyTorch at the Edge: Deploy 964 TIMM Models on Android with TorchScript](https://dicksonneoh.com/portfolio/pytorch_at_the_edge_timm_torchscript_flutter/)
+- Feb 15 - [Linode rebranded as Akamai’s cloud computing services](https://www.linode.com/blog/linode/a-bold-new-approach-to-the-cloud/)
+- Feb 15 - [1:12 scale 1983 WarGames WOPR computer model](https://twitter.com/6502b/status/1625507300923392000)
+- Feb 15 - [Thunderbird 115 Supernova Preview: The New Folder Pane](https://blog.thunderbird.net/2023/02/thunderbird-115-supernova-preview-the-new-folder-pane/)
 <!--END_SECTION:hn-->
 
 <!--
