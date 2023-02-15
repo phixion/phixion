@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 14 - [The tech meltdown comes for Gen Z](https://www.businessinsider.com/tech-jobs-recession-layoffs-gen-z-students-class-of-2023-2023-2)
-- Feb 14 - [Disinfection with Far-UV (222 nm Ultraviolet light) [pdf]](https://www.boeing.com/confident-travel/downloads/CAP-3_Disinfection_with_Far-UV.pdf)
-- Feb 14 - [One thing for founders to know about Business Systems](https://ghiculescu.substack.com/p/1-thing-for-founders-to-learn-about)
-- Feb 14 - [Build Your Own Fast, Persistent, Toy KV Store](https://dinesh.wiki/posts/build-your-own-persistent-kv-store/)
-- Feb 14 - [Hyundai and Kia forced to update millions of vehicles due to TikTok challenge](https://www.theverge.com/2023/2/14/23599300/hyundai-kia-car-theft-software-update-free-tiktok-challenge)
+- Feb 14 - [Tool to cheat on any Skillz-based game, including cash games](https://www.skillztruth.com/)
+- Feb 14 - [Dis This: Disassemble Python code online](http://blog.pamelafox.org/2023/02/dis-this-disassemble-python-code-online.html)
+- Feb 14 - [Tesla goes down across Europe leaving some drivers unable to charge cars](https://metro.co.uk/2023/02/14/tesla-goes-down-across-europe-leaving-some-drivers-unable-to-charge-cars-18282364/)
+- Feb 14 - [GitHub Copilot for Business is now available](https://github.blog/2023-02-14-github-copilot-for-business-is-now-available/)
+- Feb 14 - [What Is ChatGPT Doing and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 <!--END_SECTION:hn-->
 
 <!--
