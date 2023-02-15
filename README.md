@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 15 - [Britons face 20k digital pound cap under Bank of England plan](https://www.reuters.com/markets/currencies/consumers-face-20000-pound-limit-digital-pound-bank-england-says-2023-02-07/)
-- Feb 15 - [Ask HN: What is the best advice you got on any aspect of life?](https://news.ycombinator.com/item?id=34802589)
-- Feb 15 - [Shoichiro Toyoda, who turned Toyota into global automaker, dies at 97](https://mainichi.jp/english/articles/20230214/p2g/00m/0bu/043000c)
-- Feb 15 - [Show HN: Explore careers that you don&#x27;t know even exist](https://careergpt.ai)
-- Feb 15 - [Swiss to vote on preventing cashless society, pressure group says](https://www.reuters.com/markets/europe/swiss-vote-preventing-cashless-society-pressure-group-says-2023-02-06/)
+- Feb 15 - [Bing: “I will not harm you unless you harm me first”](https://simonwillison.net/2023/Feb/15/bing/)
+- Feb 15 - [Tesla to Open Some Superchargers to Other Vehicles](https://www.wsj.com/articles/tesla-to-open-some-superchargers-to-other-vehicles-white-house-says-2ed35fd5)
+- Feb 15 - [We need a textodon (text-only Fediverse hub)](https://bluelander.bearblog.dev/we-need-a-textodon/)
+- Feb 15 - [Show HN: I wrote a tool in Rust for tracking all allocations in a Linux process](https://github.com/matt-kimball/allocscope)
+- Feb 15 - [Sea life bounced back fast after the ‘mother of mass extinctions’](https://www.nature.com/articles/d41586-023-00383-9)
 <!--END_SECTION:hn-->
 
 <!--
