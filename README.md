@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 15 - [Bing: “I will not harm you unless you harm me first”](https://simonwillison.net/2023/Feb/15/bing/)
-- Feb 15 - [Tesla to Open Some Superchargers to Other Vehicles](https://www.wsj.com/articles/tesla-to-open-some-superchargers-to-other-vehicles-white-house-says-2ed35fd5)
-- Feb 15 - [We need a textodon (text-only Fediverse hub)](https://bluelander.bearblog.dev/we-need-a-textodon/)
-- Feb 15 - [Show HN: I wrote a tool in Rust for tracking all allocations in a Linux process](https://github.com/matt-kimball/allocscope)
-- Feb 15 - [Sea life bounced back fast after the ‘mother of mass extinctions’](https://www.nature.com/articles/d41586-023-00383-9)
+- Feb 15 - [Squares in Squares](https://erich-friedman.github.io/packing/squinsqu/)
+- Feb 15 - [For leaders, playing favorites can be a smart strategy](https://phys.org/news/2023-02-leaders-playing-favorites-smart-strategy.html)
+- Feb 15 - [It Looks Like You’re Trying to Take over the World](https://gwern.net/fiction/clippy)
+- Feb 15 - [Many women struggle to breastfeed. Scientists are starting to ask why](https://www.nationalgeographic.com/science/article/many-women-struggle-to-breastfeed-scientists-are-starting-to-ask-why)
+- Feb 15 - [Royal Mail dismisses ‘absurd’ $80M ransom demand](https://www.theguardian.com/business/2023/feb/15/under-no-circumstances-will-we-pay-that-absurd-amount-royal-mail-tells-hackers)
 <!--END_SECTION:hn-->
 
 <!--
