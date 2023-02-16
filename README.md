@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 16 - [Cut the Cutesy Errors](https://alexwlchan.net/2022/no-cute/)
-- Feb 15 - [Zantac’s maker kept quiet about cancer risks for 40 years](https://www.fiercepharma.com/pharma/gsk-was-warned-repeatedly-about-zantac-risks-didnt-act-warnings-bloomberg)
-- Feb 15 - [SQLite the only database you will ever need in most cases](https://www.unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html)
-- Feb 15 - [SOBA: Potential blood test for Alzheimer&#x27;s disease](https://www.pnas.org/doi/10.1073/pnas.2213157119)
-- Feb 15 - [Apple Reportedly Planning to Limit iPhone 15 USB-C Port in Same Way as Lightning](https://www.macrumors.com/2023/02/10/apple-planning-to-limit-iphone-15-usb-c-port/)
+- Feb 16 - [The US Airforce May Have Shot Down an Amateur Radio Pico Balloon over Canada](https://www.rtl-sdr.com/the-us-airforce-may-have-shot-down-an-amateur-radio-pico-balloon-over-canada/)
+- Feb 16 - [CMU CS Academy: a free online computer science curriculum by Carnegie Mellon](https://academy.cs.cmu.edu/)
+- Feb 16 - [WebKit Supports Nested CSS](https://webkit.org/blog/13813/try-css-nesting-today-in-safari-technology-preview/)
+- Feb 16 - [Show HN: Ractor – a Rust-based actor framework with clusters and supervisors](https://github.com/slawlor/ractor)
+- Feb 16 - [Scientists find first observational evidence linking black holes to dark energy](https://news.umich.edu/scientists-find-first-observational-evidence-linking-black-holes-to-dark-energy/)
 <!--END_SECTION:hn-->
 
 <!--
