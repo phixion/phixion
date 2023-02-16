@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 16 - [Bing Chat is blatantly, aggressively misaligned](https://www.lesswrong.com/posts/jtoPawEhLNXNxvgTT/bing-chat-is-blatantly-aggressively-misaligned)
-- Feb 16 - [Xerox copier flaw changes numbers in scanned docs (2013)](https://www.theregister.com/2013/08/06/xerox_copier_flaw_means_dodgy_numbers_and_dangerous_designs/)
-- Feb 16 - [Google Maps Hacks (2020)](https://simonweckert.com/googlemapshacks.html)
-- Feb 16 - [‘Perfect explosion’: merger of neutron stars creates spherical cosmic blast](https://www.theguardian.com/science/2023/feb/15/perfect-explosion-kilonova-neutron-stars-explode)
-- Feb 16 - [China’s police are ensnaring thousands of suspects abroad](https://www.economist.com/china/2023/02/14/how-chinas-police-are-ensnaring-thousands-of-suspects-abroad)
+- Feb 16 - [IKEA made a smart air quality sensor to track indoor pollution](https://www.engadget.com/ikea-vindstyrka-indoor-air-quality-sensor-195810594.html)
+- Feb 16 - [Homebrew 4.0.0](https://brew.sh/2023/02/16/homebrew-4.0.0/)
+- Feb 16 - [The dangers behind image resizing](https://zuru.tech/blog/the-dangers-behind-image-resizing)
+- Feb 16 - [Search through historical cookbooks dating back to the Middle Ages](https://thesifter.org/)
+- Feb 16 - [Our World in Data (YC W19) Is Hiring](https://ourworldindata.org/human-resources-manager)
 <!--END_SECTION:hn-->
 
 <!--
