@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 16 - [American drivers have a blinding headlight problem. It could last for years](https://www.businessinsider.com/american-drivers-have-a-blinding-headlight-problem-2023-2)
-- Feb 16 - [Launch HN: Neptyne (YC W23) – A programmable spreadsheet that runs Python](https://news.ycombinator.com/item?id=34818706)
-- Feb 16 - [ChatGPT Is Ingesting Corporate Secrets](https://www.schneier.com/blog/archives/2023/02/chatgpt-is-ingesting-corporate-secrets.html)
-- Feb 16 - [Half of Americans now believe that news organizations deliberately mislead them](https://fortune.com/2023/02/15/trust-in-media-low-misinform-mislead-biased-republicans-democrats-poll-gallup/)
-- Feb 16 - [Show HN: Duffel (YC S18) – The fastest way to sell flights](https://duffel.com/links)
+- Feb 16 - [Hobby Club’s Missing Balloon Feared Shot Down by USAF](https://aviationweek.com/defense-space/aircraft-propulsion/hobby-clubs-missing-balloon-feared-shot-down-usaf)
+- Feb 16 - [Does Your Office Have a Library?](https://jonpauluritis.com/articles/does-your-office-have-a-library/)
+- Feb 16 - [Railroaded – detailed analysis of E Palestine derail](https://doomberg.substack.com/p/railroaded)
+- Feb 16 - [Controversial experiments that could make bird flu more risky to resume (2019)](https://www.science.org/content/article/exclusive-controversial-experiments-make-bird-flu-more-risky-poised-resume)
+- Feb 16 - [Web Push for Web Apps on iOS and iPadOS](https://webkit.org/blog/13878/web-push-for-web-apps-on-ios-and-ipados/)
 <!--END_SECTION:hn-->
 
 <!--
