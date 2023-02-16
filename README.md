@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 16 - [The US Airforce May Have Shot Down an Amateur Radio Pico Balloon over Canada](https://www.rtl-sdr.com/the-us-airforce-may-have-shot-down-an-amateur-radio-pico-balloon-over-canada/)
-- Feb 16 - [CMU CS Academy: a free online computer science curriculum by Carnegie Mellon](https://academy.cs.cmu.edu/)
-- Feb 16 - [WebKit Supports Nested CSS](https://webkit.org/blog/13813/try-css-nesting-today-in-safari-technology-preview/)
-- Feb 16 - [Show HN: Ractor – a Rust-based actor framework with clusters and supervisors](https://github.com/slawlor/ractor)
-- Feb 16 - [Scientists find first observational evidence linking black holes to dark energy](https://news.umich.edu/scientists-find-first-observational-evidence-linking-black-holes-to-dark-energy/)
+- Feb 16 - [Bing Chat is blatantly, aggressively misaligned](https://www.lesswrong.com/posts/jtoPawEhLNXNxvgTT/bing-chat-is-blatantly-aggressively-misaligned)
+- Feb 16 - [Xerox copier flaw changes numbers in scanned docs (2013)](https://www.theregister.com/2013/08/06/xerox_copier_flaw_means_dodgy_numbers_and_dangerous_designs/)
+- Feb 16 - [Google Maps Hacks (2020)](https://simonweckert.com/googlemapshacks.html)
+- Feb 16 - [‘Perfect explosion’: merger of neutron stars creates spherical cosmic blast](https://www.theguardian.com/science/2023/feb/15/perfect-explosion-kilonova-neutron-stars-explode)
+- Feb 16 - [China’s police are ensnaring thousands of suspects abroad](https://www.economist.com/china/2023/02/14/how-chinas-police-are-ensnaring-thousands-of-suspects-abroad)
 <!--END_SECTION:hn-->
 
 <!--
