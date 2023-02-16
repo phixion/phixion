@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 16 - [IKEA made a smart air quality sensor to track indoor pollution](https://www.engadget.com/ikea-vindstyrka-indoor-air-quality-sensor-195810594.html)
-- Feb 16 - [Homebrew 4.0.0](https://brew.sh/2023/02/16/homebrew-4.0.0/)
-- Feb 16 - [The dangers behind image resizing](https://zuru.tech/blog/the-dangers-behind-image-resizing)
-- Feb 16 - [Search through historical cookbooks dating back to the Middle Ages](https://thesifter.org/)
-- Feb 16 - [Our World in Data (YC W19) Is Hiring](https://ourworldindata.org/human-resources-manager)
+- Feb 16 - [American drivers have a blinding headlight problem. It could last for years](https://www.businessinsider.com/american-drivers-have-a-blinding-headlight-problem-2023-2)
+- Feb 16 - [Launch HN: Neptyne (YC W23) – A programmable spreadsheet that runs Python](https://news.ycombinator.com/item?id=34818706)
+- Feb 16 - [ChatGPT Is Ingesting Corporate Secrets](https://www.schneier.com/blog/archives/2023/02/chatgpt-is-ingesting-corporate-secrets.html)
+- Feb 16 - [Half of Americans now believe that news organizations deliberately mislead them](https://fortune.com/2023/02/15/trust-in-media-low-misinform-mislead-biased-republicans-democrats-poll-gallup/)
+- Feb 16 - [Show HN: Duffel (YC S18) – The fastest way to sell flights](https://duffel.com/links)
 <!--END_SECTION:hn-->
 
 <!--
