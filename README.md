@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 17 - [Simple Modern JavaScript Using JavaScript Modules and Import Maps](https://vue-mjs.web-templates.io/blog/javascript)
+- Feb 17 - [Modern SPAs without bundlers, CDNs, or Node.js](https://kofi.sexy/blog/modern-spas)
 - Feb 16 - [SEC Charges Terraform and CEO Do Kwon with Defrauding Investors InCrypto Schemes](https://www.sec.gov/news/press-release/2023-32)
-- Feb 16 - [The reason content creators worry about ChatGPT](https://jayacunzo.com/blog/chatgpt-generative-ai-replace-creators)
+- Feb 16 - [Sloth – A Mac app that shows all open files, directories, sockets, etc.](https://github.com/sveinbjornt/Sloth)
 - Feb 16 - [New Malware Abuses Microsoft IIS Feature to Establish Backdoor](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/frebniis-malware-iis)
-- Feb 16 - [InCaptions: Search in YouTube Captions](https://incaptions.com/)
-- Feb 16 - [I_suck_and_my_tests_are_order_dependent](https://www.rubydoc.info/gems/minitest/Minitest%2FTest.i_suck_and_my_tests_are_order_dependent!)
 <!--END_SECTION:hn-->
 
 <!--
