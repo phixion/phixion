@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 16 - [Hobby Club’s Missing Balloon Feared Shot Down by USAF](https://aviationweek.com/defense-space/aircraft-propulsion/hobby-clubs-missing-balloon-feared-shot-down-usaf)
-- Feb 16 - [Does Your Office Have a Library?](https://jonpauluritis.com/articles/does-your-office-have-a-library/)
-- Feb 16 - [Railroaded – detailed analysis of E Palestine derail](https://doomberg.substack.com/p/railroaded)
-- Feb 16 - [Controversial experiments that could make bird flu more risky to resume (2019)](https://www.science.org/content/article/exclusive-controversial-experiments-make-bird-flu-more-risky-poised-resume)
-- Feb 16 - [Web Push for Web Apps on iOS and iPadOS](https://webkit.org/blog/13878/web-push-for-web-apps-on-ios-and-ipados/)
+- Feb 16 - [SEC Charges Terraform and CEO Do Kwon with Defrauding Investors InCrypto Schemes](https://www.sec.gov/news/press-release/2023-32)
+- Feb 16 - [The reason content creators worry about ChatGPT](https://jayacunzo.com/blog/chatgpt-generative-ai-replace-creators)
+- Feb 16 - [New Malware Abuses Microsoft IIS Feature to Establish Backdoor](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/frebniis-malware-iis)
+- Feb 16 - [InCaptions: Search in YouTube Captions](https://incaptions.com/)
+- Feb 16 - [I_suck_and_my_tests_are_order_dependent](https://www.rubydoc.info/gems/minitest/Minitest%2FTest.i_suck_and_my_tests_are_order_dependent!)
 <!--END_SECTION:hn-->
 
 <!--
