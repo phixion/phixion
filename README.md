@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 17 - [&quot;Are US companies legally obligated to maximize profits for shareholders?&quot;](https://skeptics.stackexchange.com/questions/8146/are-u-s-companies-legally-obligated-to-maximize-profits-for-shareholders)
-- Feb 17 - [I love building a startup in Rust. I wouldn&#x27;t pick it again](https://www.propelauth.com/post/i-love-building-a-startup-in-rust-i-wouldnt-pick-it-again)
-- Feb 17 - [The haunting brain science of long Covid](https://www.statnews.com/2023/02/16/the-haunting-brain-science-of-long-covid/)
-- Feb 17 - [One of the biggest landlords in Los Angeles just defaulted on $755M](https://fortune.com/2023/02/14/remote-work-los-angeles-office-building-default-brookfield/)
-- Feb 17 - [Super Resolution: Image-to-Image Translation Using Deep Learning in ArcGIS Pro](https://www.esri.com/arcgis-blog/products/arcgis-pro/aec/super-resolution-image-to-image-translation-using-deep-learning-in-arcgis-pro/)
+- Feb 17 - [Twilio Flex outage now 6 hours after laying off 28% staff](https://status.twilio.com)
+- Feb 17 - [John Carmack on lead time to push fixes in startups](https://twitter.com/id_aa_carmack/status/1626389610635923457)
+- Feb 17 - [Black Holes as the Source of Dark Energy](https://aasnova.org/2023/02/15/black-holes-as-the-source-of-dark-energy/)
+- Feb 17 - [House Passes Bill to Ban Pre-Dispute Employment Arbitration Pacts (2022)](https://www.shrm.org/resourcesandtools/legal-and-compliance/employment-law/pages/house-passes-bill-to-ban-pre-dispute-employment-arbitration-pacts.aspx)
+- Feb 17 - [Sweet Home 3D is a free interior design application](https://www.sweethome3d.com)
 <!--END_SECTION:hn-->
 
 <!--
