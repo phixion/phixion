@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 17 - [Tesorio Is Hiring a Senior PM and Senior DevOps. Join Our 100% Remote Team](https://www.tesorio.com/careers#job-openings)
-- Feb 17 - [Leonardo da Vinci’s experiments explored gravity as a form of acceleration](https://www.caltech.edu/about/news/leonardo-da-vincis-forgotten-experiments-explored-gravity-as-a-form-of-acceleration)
-- Feb 17 - [Europe data salary benchmark 2023](https://www.synq.io/blog/europe-data-salary-benchmark-2023)
-- Feb 17 - [Is the Living Computer Museum dead?](https://www.pcjs.org/blog/2023/02/16/)
-- Feb 17 - [Our brain is a closet (2009)](https://usablelearning.com/2009/04/06/why-your-brain-is-a-closet/)
+- Feb 17 - [&quot;Are US companies legally obligated to maximize profits for shareholders?&quot;](https://skeptics.stackexchange.com/questions/8146/are-u-s-companies-legally-obligated-to-maximize-profits-for-shareholders)
+- Feb 17 - [I love building a startup in Rust. I wouldn&#x27;t pick it again](https://www.propelauth.com/post/i-love-building-a-startup-in-rust-i-wouldnt-pick-it-again)
+- Feb 17 - [The haunting brain science of long Covid](https://www.statnews.com/2023/02/16/the-haunting-brain-science-of-long-covid/)
+- Feb 17 - [One of the biggest landlords in Los Angeles just defaulted on $755M](https://fortune.com/2023/02/14/remote-work-los-angeles-office-building-default-brookfield/)
+- Feb 17 - [Super Resolution: Image-to-Image Translation Using Deep Learning in ArcGIS Pro](https://www.esri.com/arcgis-blog/products/arcgis-pro/aec/super-resolution-image-to-image-translation-using-deep-learning-in-arcgis-pro/)
 <!--END_SECTION:hn-->
 
 <!--
