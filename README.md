@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 17 - [Is the Living Computer Museum Dead?](https://www.pcjs.org/blog/2023/02/16/)
-- Feb 17 - [Bonsai (YC W16) hiring PMs, ops, and risk analysts](https://bonsai.crew.work/jobs)
-- Feb 17 - [On ChatGPT](https://acoup.blog/2023/02/17/collections-on-chatgpt/)
-- Feb 17 - [Bing Search API Pricing Update: Massive Price Increase](https://www.microsoft.com/en-us/bing/apis/pricing-update)
-- Feb 17 - [NetHack 3.6.7](https://www.nethack.org/v367/release.html)
+- Feb 17 - [Tesorio Is Hiring a Senior PM and Senior DevOps. Join Our 100% Remote Team](https://www.tesorio.com/careers#job-openings)
+- Feb 17 - [Leonardo da Vinci’s experiments explored gravity as a form of acceleration](https://www.caltech.edu/about/news/leonardo-da-vincis-forgotten-experiments-explored-gravity-as-a-form-of-acceleration)
+- Feb 17 - [Europe data salary benchmark 2023](https://www.synq.io/blog/europe-data-salary-benchmark-2023)
+- Feb 17 - [Is the Living Computer Museum dead?](https://www.pcjs.org/blog/2023/02/16/)
+- Feb 17 - [Our brain is a closet (2009)](https://usablelearning.com/2009/04/06/why-your-brain-is-a-closet/)
 <!--END_SECTION:hn-->
 
 <!--
