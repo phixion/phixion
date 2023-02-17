@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 17 - [Simple Modern JavaScript Using JavaScript Modules and Import Maps](https://vue-mjs.web-templates.io/blog/javascript)
-- Feb 17 - [Modern SPAs without bundlers, CDNs, or Node.js](https://kofi.sexy/blog/modern-spas)
-- Feb 16 - [SEC Charges Terraform and CEO Do Kwon with Defrauding Investors InCrypto Schemes](https://www.sec.gov/news/press-release/2023-32)
-- Feb 16 - [Sloth – A Mac app that shows all open files, directories, sockets, etc.](https://github.com/sveinbjornt/Sloth)
-- Feb 16 - [New Malware Abuses Microsoft IIS Feature to Establish Backdoor](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/frebniis-malware-iis)
+- Feb 17 - [Is the Living Computer Museum Dead?](https://www.pcjs.org/blog/2023/02/16/)
+- Feb 17 - [Bonsai (YC W16) hiring PMs, ops, and risk analysts](https://bonsai.crew.work/jobs)
+- Feb 17 - [On ChatGPT](https://acoup.blog/2023/02/17/collections-on-chatgpt/)
+- Feb 17 - [Bing Search API Pricing Update: Massive Price Increase](https://www.microsoft.com/en-us/bing/apis/pricing-update)
+- Feb 17 - [NetHack 3.6.7](https://www.nethack.org/v367/release.html)
 <!--END_SECTION:hn-->
 
 <!--
