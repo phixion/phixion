@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 17 - [Making macOS Apps Uninstallable](https://notes.alinpanaitiu.com/Making%20macOS%20apps%20uninstallable)
-- Feb 17 - [Clinic to open near Ohio derailment as health worries linger](https://apnews.com/article/pennsylvania-ohio-climate-and-environment-health-ad32648e67289166f9ae1e9d104ca53b)
-- Feb 17 - [Alles Mesh Synthesizer](https://notes.variogram.com/2022/09/23/alles-amy/)
-- Feb 17 - [Analytics: Hacker News v.s. a tweet from Elon Musk](https://simonwillison.net/2023/Feb/17/analytics/)
-- Feb 17 - [Man beats machine at Go in human victory over AI](https://www.ft.com/content/175e5314-a7f7-4741-a786-273219f433a1)
+- Feb 18 - [The Janet Language](https://janet-lang.org)
+- Feb 18 - [Symbolic Discovery of Optimization Algorithms](https://arxiv.org/abs/2302.06675)
+- Feb 18 - [It&#x27;s probably time to stop recommending Clean Code (2020)](https://qntm.org/clean)
+- Feb 18 - [Grug Notes, A tool for text: simple, fast, self-organizing notes](https://grugnotes.com/)
+- Feb 18 - [Rejected Emoji Proposals](https://charlottebuff.com/unicode/misc/rejected-emoji-proposals/)
 <!--END_SECTION:hn-->
 
 <!--
