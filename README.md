@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 18 - [John Carmack on Functional Programming in C++ (2018)](http://www.sevangelatos.com/john-carmack-on/)
+- Feb 18 - [First Impressions of the VisionFive 2](https://www.earth.li/~noodles/blog/2023/02/visionfive-2-impressions.html)
+- Feb 18 - [Civilization 7 Is in Development](https://www.polygon.com/23604146/civilization-7-release-date-firaxis-games-announcement)
 - Feb 18 - [The Janet Language](https://janet-lang.org)
 - Feb 18 - [Symbolic Discovery of Optimization Algorithms](https://arxiv.org/abs/2302.06675)
-- Feb 18 - [It&#x27;s probably time to stop recommending Clean Code (2020)](https://qntm.org/clean)
-- Feb 18 - [Grug Notes, A tool for text: simple, fast, self-organizing notes](https://grugnotes.com/)
-- Feb 18 - [Rejected Emoji Proposals](https://charlottebuff.com/unicode/misc/rejected-emoji-proposals/)
 <!--END_SECTION:hn-->
 
 <!--
