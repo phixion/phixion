@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 18 - [Twitter Lost $60M a Year Because 390 Telcos Used Bot Accounts to Pump A2P SMS](https://commsrisk.com/elon-musk-says-twitter-lost-60mn-a-year-because-390-telcos-used-bot-accounts-to-pump-a2p-sms/)
-- Feb 18 - [TabFS – a browser extension that mounts the browser tabs as a filesystem](https://omar.website/tabfs/)
-- Feb 18 - [After Alaska Airlines planes bump runway, a scramble to ‘pull the plug’](https://www.seattletimes.com/business/boeing-aerospace/after-alaska-airlines-planes-bump-runway-a-scramble-to-pull-the-plug/)
-- Feb 18 - [Cashless society in Switzerland? People to vote on keeping cash forever](https://www.euronews.com/next/2023/02/06/cashless-society-not-in-switzerland-where-people-will-vote-to-keeping-banknotes-and-coins-)
-- Feb 18 - [Researchers Discover a More Flexible Approach to Machine Learning](https://nautil.us/researchers-discover-a-more-flexible-approach-to-machine-learning-261703/)
+- Feb 18 - [Poor schemas, poor cataloguing: why music tagging sucks](https://sporks.space/2023/02/18/poor-schemas-poor-cataloguing-why-music-tagging-sucks/)
+- Feb 18 - [The Lapdock Kit](https://puri.sm/posts/announcing-the-lapdock-kit/)
+- Feb 18 - [The Case for Free-Range Lab Mice](https://www.newyorker.com/culture/annals-of-inquiry/the-case-for-free-range-lab-mice)
+- Feb 18 - [Steam now allows you to copy games over a local network to another PC](https://twitter.com/OnDeck/status/1626693524489121793)
+- Feb 18 - [Debian 12 “Bookworm” Enters Its Soft Freeze](https://lists.debian.org/debian-devel-announce/2023/02/msg00003.html)
 <!--END_SECTION:hn-->
 
 <!--
