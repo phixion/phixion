@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 17 - [Twilio Flex outage now 6 hours after laying off 28% staff](https://status.twilio.com)
-- Feb 17 - [John Carmack on lead time to push fixes in startups](https://twitter.com/id_aa_carmack/status/1626389610635923457)
-- Feb 17 - [Black Holes as the Source of Dark Energy](https://aasnova.org/2023/02/15/black-holes-as-the-source-of-dark-energy/)
-- Feb 17 - [House Passes Bill to Ban Pre-Dispute Employment Arbitration Pacts (2022)](https://www.shrm.org/resourcesandtools/legal-and-compliance/employment-law/pages/house-passes-bill-to-ban-pre-dispute-employment-arbitration-pacts.aspx)
-- Feb 17 - [Sweet Home 3D is a free interior design application](https://www.sweethome3d.com)
+- Feb 17 - [Making macOS Apps Uninstallable](https://notes.alinpanaitiu.com/Making%20macOS%20apps%20uninstallable)
+- Feb 17 - [Clinic to open near Ohio derailment as health worries linger](https://apnews.com/article/pennsylvania-ohio-climate-and-environment-health-ad32648e67289166f9ae1e9d104ca53b)
+- Feb 17 - [Alles Mesh Synthesizer](https://notes.variogram.com/2022/09/23/alles-amy/)
+- Feb 17 - [Analytics: Hacker News v.s. a tweet from Elon Musk](https://simonwillison.net/2023/Feb/17/analytics/)
+- Feb 17 - [Man beats machine at Go in human victory over AI](https://www.ft.com/content/175e5314-a7f7-4741-a786-273219f433a1)
 <!--END_SECTION:hn-->
 
 <!--
