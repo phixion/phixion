@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 18 - [OWASP Needs to Evolve](https://github.com/owasp-change/owasp-change.github.io)
-- Feb 18 - [John Carmack on Functional Programming in C++ (2018)](http://www.sevangelatos.com/john-carmack-on/)
-- Feb 18 - [Named Booleans prevent C++ bugs and save you time](https://raymii.org/s/blog/Named_Booleans_prevent_bugs.html)
-- Feb 18 - [First Impressions of the VisionFive 2](https://www.earth.li/~noodles/blog/2023/02/visionfive-2-impressions.html)
-- Feb 18 - [What modern utilities should be a standard part of a modern unixy distro?](https://exple.tive.org/blarg/2023/02/17/modern-problems-require-modern-solutions/)
+- Feb 18 - [Twitter Lost $60M a Year Because 390 Telcos Used Bot Accounts to Pump A2P SMS](https://commsrisk.com/elon-musk-says-twitter-lost-60mn-a-year-because-390-telcos-used-bot-accounts-to-pump-a2p-sms/)
+- Feb 18 - [TabFS – a browser extension that mounts the browser tabs as a filesystem](https://omar.website/tabfs/)
+- Feb 18 - [After Alaska Airlines planes bump runway, a scramble to ‘pull the plug’](https://www.seattletimes.com/business/boeing-aerospace/after-alaska-airlines-planes-bump-runway-a-scramble-to-pull-the-plug/)
+- Feb 18 - [Cashless society in Switzerland? People to vote on keeping cash forever](https://www.euronews.com/next/2023/02/06/cashless-society-not-in-switzerland-where-people-will-vote-to-keeping-banknotes-and-coins-)
+- Feb 18 - [Researchers Discover a More Flexible Approach to Machine Learning](https://nautil.us/researchers-discover-a-more-flexible-approach-to-machine-learning-261703/)
 <!--END_SECTION:hn-->
 
 <!--
