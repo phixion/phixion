@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 18 - [Poor schemas, poor cataloguing: why music tagging sucks](https://sporks.space/2023/02/18/poor-schemas-poor-cataloguing-why-music-tagging-sucks/)
-- Feb 18 - [The Lapdock Kit](https://puri.sm/posts/announcing-the-lapdock-kit/)
-- Feb 18 - [The Case for Free-Range Lab Mice](https://www.newyorker.com/culture/annals-of-inquiry/the-case-for-free-range-lab-mice)
-- Feb 18 - [Steam now allows you to copy games over a local network to another PC](https://twitter.com/OnDeck/status/1626693524489121793)
-- Feb 18 - [Debian 12 “Bookworm” Enters Its Soft Freeze](https://lists.debian.org/debian-devel-announce/2023/02/msg00003.html)
+- Feb 18 - [Fully documented source code for Elite on the BBC Micro](https://www.bbcelite.com/)
+- Feb 18 - [Show HN: Sora, Personal Publishing Platform](https://sora.city/)
+- Feb 18 - [Setting Up an Electronics Workshop](https://lcamtuf.substack.com/p/setting-up-an-electronics-workshop)
+- Feb 18 - [The AI Mirror Test, which smart people keep failing](https://www.theverge.com/23604075/ai-chatbots-bing-chatgpt-intelligent-sentient-mirror-test)
+- Feb 18 - [Voice.ai denies claim it violated open source software license requirements](https://www.theregister.com/2023/02/08/voiceai_open_source/)
 <!--END_SECTION:hn-->
 
 <!--
