@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 19 - [Revenue is easy, profit is harder](https://www.edge.ceo/p/revenue-is-easy-profit-is-harder)
-- Feb 19 - [Germany raises red flags about Palantir’s big data dragnet](https://www.wired.com/story/palantir-germany-gotham-dragnet/)
-- Feb 19 - [Intentional Camera Movement Photography Magazine](https://www.icmphotomag.com/)
-- Feb 19 - [GPTZero case study discovers it&#x27;s only accurate on less than 50% of text](https://gonzoknows.com/posts/GPTZero-Case-Study/)
-- Feb 19 - [The Cameras Worked Fine. Their Maker Said They Had Reached Their End of Life](https://www.wsj.com/articles/the-cameras-worked-fine-their-maker-said-they-had-reached-their-end-of-life-b6fd3036)
+- Feb 19 - [Meta to launch monthly subscription service priced at $11.99](https://www.nbcnews.com/news/us-news/meta-launch-monthly-subscription-service-priced-1199-rcna71388)
+- Feb 19 - [A Docker footgun led to a vandal deleting NewsBlur&#x27;s MongoDB database (2021)](https://blog.newsblur.com/2021/06/28/story-of-a-hacking/)
+- Feb 19 - [Domestic violence hotline calls will soon be invisible on your family phone plan](https://arstechnica.com/tech-policy/2023/02/domestic-violence-hotline-calls-will-soon-be-invisible-on-your-family-phone-plan/)
+- Feb 19 - [Lessons learnt while trying to modernize some C code](https://dorinlazar.ro/220710-trying-to-modernize-goaccess.en/)
+- Feb 19 - [Writing an Engineering Strategy](https://lethain.com/eng-strategies/)
 <!--END_SECTION:hn-->
 
 <!--
