@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 18 - [Fully documented source code for Elite on the BBC Micro](https://www.bbcelite.com/)
-- Feb 18 - [Show HN: Sora, Personal Publishing Platform](https://sora.city/)
-- Feb 18 - [Setting Up an Electronics Workshop](https://lcamtuf.substack.com/p/setting-up-an-electronics-workshop)
-- Feb 18 - [The AI Mirror Test, which smart people keep failing](https://www.theverge.com/23604075/ai-chatbots-bing-chatgpt-intelligent-sentient-mirror-test)
-- Feb 18 - [Voice.ai denies claim it violated open source software license requirements](https://www.theregister.com/2023/02/08/voiceai_open_source/)
+- Feb 19 - [Blizzard Infuriate Devs, End Remote Work, Cut Profit Sharing Bonus, Insult QA](https://www.youtube.com/watch?v=NVDpaqFLD24)
+- Feb 19 - [The Average American Man Is Too Fat for Universal’s New Mario Kart Ride](https://www.thedrive.com/news/the-average-american-man-is-too-fat-for-universals-new-mario-kart-ride)
+- Feb 19 - [Cobalt, a crucial battery material, is suddenly superabundant](https://www.economist.com/finance-and-economics/2023/02/16/cobalt-a-crucial-battery-material-is-suddenly-superabundant)
+- Feb 19 - [&quot;BGP at home&quot;: getting a DIA circuit installed at home](https://aaka.sh/posts/20230129-bgp-at-home.html)
+- Feb 19 - [80k megapixel panorama photograph of New York City](https://www.earthcam.net/projects/empirestatebuilding/gigapixelpanorama/2021/)
 <!--END_SECTION:hn-->
 
 <!--
