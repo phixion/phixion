@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 19 - [CAD Sketcher, free and open-source project bringing CAD like tools to Blender3d](https://www.cadsketcher.com)
-- Feb 19 - [Voice.ai Stole Open-Source Code, Banned Developer Who Informed Them About This](https://www.theinsaneapp.com/2023/02/voice-ai-stole-open-source-code.html)
-- Feb 19 - [AI won’t make artists redundant – thanks to information theory](https://p.migdal.pl/blog/2023/02/ai-arts-information-theory/)
-- Feb 19 - [Show HN: Duplicate Word Finder](https://duplicateword.com)
-- Feb 19 - [Lost in the Stock](https://www.eater.com/23552129/what-is-in-store-bought-chicken-stock)
+- Feb 19 - [Revenue is easy, profit is harder](https://www.edge.ceo/p/revenue-is-easy-profit-is-harder)
+- Feb 19 - [Germany raises red flags about Palantir’s big data dragnet](https://www.wired.com/story/palantir-germany-gotham-dragnet/)
+- Feb 19 - [Intentional Camera Movement Photography Magazine](https://www.icmphotomag.com/)
+- Feb 19 - [GPTZero case study discovers it&#x27;s only accurate on less than 50% of text](https://gonzoknows.com/posts/GPTZero-Case-Study/)
+- Feb 19 - [The Cameras Worked Fine. Their Maker Said They Had Reached Their End of Life](https://www.wsj.com/articles/the-cameras-worked-fine-their-maker-said-they-had-reached-their-end-of-life-b6fd3036)
 <!--END_SECTION:hn-->
 
 <!--
