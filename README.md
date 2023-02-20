@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 19 - [Meta to launch monthly subscription service priced at $11.99](https://www.nbcnews.com/news/us-news/meta-launch-monthly-subscription-service-priced-1199-rcna71388)
-- Feb 19 - [A Docker footgun led to a vandal deleting NewsBlur&#x27;s MongoDB database (2021)](https://blog.newsblur.com/2021/06/28/story-of-a-hacking/)
-- Feb 19 - [Domestic violence hotline calls will soon be invisible on your family phone plan](https://arstechnica.com/tech-policy/2023/02/domestic-violence-hotline-calls-will-soon-be-invisible-on-your-family-phone-plan/)
-- Feb 19 - [Lessons learnt while trying to modernize some C code](https://dorinlazar.ro/220710-trying-to-modernize-goaccess.en/)
-- Feb 19 - [Writing an Engineering Strategy](https://lethain.com/eng-strategies/)
+- Feb 19 - [Pentagon Declines to Answer If It Shot Down $12 Balloon with $400k Missile](https://www.zerohedge.com/political/pentagon-declines-answer-if-it-shot-down-12-balloon-400000-missile)
+- Feb 19 - [I still Lisp (2021)](https://betterprogramming.pub/why-i-still-lisp-and-you-should-too-18a2ae36bd8)
+- Feb 19 - [IBM Research&#x27;s Vela Is an AI Supercomputer in the Cloud](https://research.ibm.com/blog/AI-supercomputer-Vela-GPU-cluster)
+- Feb 19 - [Google abandoned Fastlane, it has no maintainers currently](https://mastodon.social/@joshdholtz/109892201251474243)
+- Feb 19 - [Using AI tools to design an entire website](https://www.samdickie.me/writing/experiment-1-creating-a-landing-page-using-ai-tools-no-code)
 <!--END_SECTION:hn-->
 
 <!--
