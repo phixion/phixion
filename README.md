@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 20 - [Photographer captures image of rare fish that walks on its ‘hands’](https://www.cnn.com/2023/02/20/world/australian-handfish-photograph-c2e-spc-intl-scn/index.html)
-- Feb 20 - [Microsoft Is Forcibly Removing Internet Explorer from Your PC](https://www.wired.com/story/microsoft-removing-internet-explorer-from-pcs/)
-- Feb 20 - [Opossum: Cross-platform web browser written in Golang, optimized for Plan 9](https://github.com/psilva261/opossum)
-- Feb 20 - [Ask HN: Where are laid off employees gathering?](https://news.ycombinator.com/item?id=34868560)
-- Feb 20 - [My class required AI. Here&#x27;s what I&#x27;ve learned so far](https://oneusefulthing.substack.com/p/my-class-required-ai-heres-what-ive)
+- Feb 20 - [Does hand-washing or wearing masks slow down the spread of respiratory viruses?](https://www.cochrane.org/CD006207/ARI_do-physical-measures-such-hand-washing-or-wearing-masks-stop-or-slow-down-spread-respiratory-viruses)
+- Feb 20 - [The Philosophy of Computer Science](https://plato.stanford.edu/entries/computer-science/)
+- Feb 20 - [Microsoft&#x27;s Bing plans AI ads in early pitch to advertisers](https://www.reuters.com/technology/microsofts-bing-plans-ai-ads-early-pitch-advertisers-2023-02-17/)
+- Feb 20 - [California AG and state senators introduce bill to ban hidden fees](https://oag.ca.gov/news/press-releases/attorney-general-bonta-senator-dodd-senator-skinner-introduce-bill-prohibiting)
+- Feb 20 - [Four Ways to Build Web Apps](https://tomhummel.com/posts/four-web-apps/)
 <!--END_SECTION:hn-->
 
 <!--
