@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 20 - [AWS Creates New Policy-Based Access Control Language Cedar](https://www.infoq.com/news/2023/02/aws-policy-language-cedar/)
-- Feb 20 - [Ask HN: What are these strange random strings spamming my blog?](https://news.ycombinator.com/item?id=34865695)
-- Feb 20 - [Dusting off Dreamcast Linux](http://oldvcr.blogspot.com/2023/02/dusting-off-dreamcast-linux.html)
-- Feb 20 - [A broad-spectrum synthetic antibiotic that does not evoke bacterial resistance](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(23)00026-9/fulltext)
-- Feb 20 - [Goodbye, CSS-Tricks](https://geoffgraham.me/goodbye-css-tricks/)
+- Feb 20 - [Amsterdam supermarket offers free groceries, life coach to struggling families](https://nltimes.nl/2023/01/25/amsterdam-supermarket-offers-free-groceries-life-coach-struggling-families)
+- Feb 20 - [ESA Is Building an Early Warning System for Dangerous Asteroids](https://www.universetoday.com/160181/esa-is-building-an-early-warning-system-for-dangerous-asteroids/#more-160181)
+- Feb 20 - [ESA – Terrae Novae: Europe&#x27;s exploration vision](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/Terrae_Novae_Europe_s_exploration_vision)
+- Feb 20 - [Cognitive sophistication does not attenuate the bias blind spot](https://pubmed.ncbi.nlm.nih.gov/22663351/)
+- Feb 20 - [A complete guide to Linux process scheduling [pdf]](https://trepo.tuni.fi/bitstream/handle/10024/96864/GRADU-1428493916.pdf)
 <!--END_SECTION:hn-->
 
 <!--
