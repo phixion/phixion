@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 20 - [Our Reality May Be a Sum of All Possible Realities](https://www.quantamagazine.org/how-our-reality-may-be-a-sum-of-all-possible-realities-20230206/)
-- Feb 20 - [C-rusted: The Advantages of Rust, in C, without the Disadvantages](https://arxiv.org/abs/2302.05331)
-- Feb 19 - [I still Lisp (2021)](https://betterprogramming.pub/why-i-still-lisp-and-you-should-too-18a2ae36bd8)
-- Feb 19 - [IBM Research&#x27;s Vela Is an AI Supercomputer in the Cloud](https://research.ibm.com/blog/AI-supercomputer-Vela-GPU-cluster)
-- Feb 19 - [Infiltration – the zine about going places you&#x27;re not supposed to go](http://www.infiltration.org/)
+- Feb 20 - [AWS Creates New Policy-Based Access Control Language Cedar](https://www.infoq.com/news/2023/02/aws-policy-language-cedar/)
+- Feb 20 - [Ask HN: What are these strange random strings spamming my blog?](https://news.ycombinator.com/item?id=34865695)
+- Feb 20 - [Dusting off Dreamcast Linux](http://oldvcr.blogspot.com/2023/02/dusting-off-dreamcast-linux.html)
+- Feb 20 - [A broad-spectrum synthetic antibiotic that does not evoke bacterial resistance](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(23)00026-9/fulltext)
+- Feb 20 - [Goodbye, CSS-Tricks](https://geoffgraham.me/goodbye-css-tricks/)
 <!--END_SECTION:hn-->
 
 <!--
