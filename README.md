@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 21 - [Seattle could become the first city to ban caste discrimination](https://www.knkx.org/social-justice/2023-02-20/seattle-could-become-the-first-city-to-ban-caste-discrimination)
-- Feb 21 - [Pyrrhonism](https://en.wikipedia.org/wiki/Pyrrhonism)
-- Feb 21 - [Thread on Andreessen Horowitz and &#x27;zero interest rate phenomena&#x27;](https://twitter.com/tylertringas/status/1627449217294958592)
-- Feb 21 - [Clarksworld closes submissions due to GPT spam](https://twitter.com/ShackletonCI/status/1627730312925966336)
-- Feb 21 - [Ask HN: What do you use for basic data analysis, visualization, and graphing?](https://news.ycombinator.com/item?id=34875728)
+- Feb 21 - [Early morning university classes linked to poor sleep and academic performance](https://www.nature.com/articles/s41562-023-01531-x)
+- Feb 21 - [My favourite 3 lines of CSS](https://andy-bell.co.uk/my-favourite-3-lines-of-css/)
+- Feb 21 - [James Somers on a Whisper-driven Future](https://www.newyorker.com/tech/annals-of-technology/whispers-of-ais-modular-future)
+- Feb 21 - [Millions of Active WebSockets with Node.js](https://unetworkingab.medium.com/millions-of-active-websockets-with-node-js-7dc575746a01)
+- Feb 21 - [What Mary Didn&#x27;t Know (1986) [pdf]](https://courses.physics.illinois.edu/phys419/sp2021/Jackson1986_WhatMaryDidntKnow.pdf)
 <!--END_SECTION:hn-->
 
 <!--
