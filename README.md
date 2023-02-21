@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 21 - [Early morning university classes linked to poor sleep and academic performance](https://www.nature.com/articles/s41562-023-01531-x)
-- Feb 21 - [My favourite 3 lines of CSS](https://andy-bell.co.uk/my-favourite-3-lines-of-css/)
-- Feb 21 - [James Somers on a Whisper-driven Future](https://www.newyorker.com/tech/annals-of-technology/whispers-of-ais-modular-future)
-- Feb 21 - [Millions of Active WebSockets with Node.js](https://unetworkingab.medium.com/millions-of-active-websockets-with-node-js-7dc575746a01)
-- Feb 21 - [What Mary Didn&#x27;t Know (1986) [pdf]](https://courses.physics.illinois.edu/phys419/sp2021/Jackson1986_WhatMaryDidntKnow.pdf)
+- Feb 21 - [Svix (YC W21) Is Hiring (Remote) – Enterprise-Ready Webhook Service](https://www.svix.com/careers/)
+- Feb 21 - [Remote driving in UK from abroad should not be allowed, says Law Commission](https://www.bbc.co.uk/news/technology-64705924)
+- Feb 21 - [Haiku Package Management](https://www.markround.com/blog/2023/02/13/haiku-package-management/)
+- Feb 21 - [U.S. food additives banned in Europe](https://www.cbsnews.com/news/us-food-additives-banned-europe-making-americans-sick-expert-says/)
+- Feb 21 - [When Buddhism Goes Bad – How My Mindfulness Practice Led Me to Meltdown](https://danlawton.substack.com/p/when-buddhism-goes-bad)
 <!--END_SECTION:hn-->
 
 <!--
