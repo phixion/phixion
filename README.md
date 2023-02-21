@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 21 - [Svix (YC W21) Is Hiring (Remote) – Enterprise-Ready Webhook Service](https://www.svix.com/careers/)
-- Feb 21 - [Remote driving in UK from abroad should not be allowed, says Law Commission](https://www.bbc.co.uk/news/technology-64705924)
-- Feb 21 - [Haiku Package Management](https://www.markround.com/blog/2023/02/13/haiku-package-management/)
-- Feb 21 - [U.S. food additives banned in Europe](https://www.cbsnews.com/news/us-food-additives-banned-europe-making-americans-sick-expert-says/)
-- Feb 21 - [When Buddhism Goes Bad – How My Mindfulness Practice Led Me to Meltdown](https://danlawton.substack.com/p/when-buddhism-goes-bad)
+- Feb 21 - [Northern Ontario woman hasn’t eaten in 2 years since Covid-19](https://www.cbc.ca/newsinteractives/features/my-bodys-betrayed-me)
+- Feb 21 - [Certainly: Fastly’s Own TLS Certification Authority](https://www.fastly.com/blog/announcing-certainly-fastlys-own-tls-certification-authority)
+- Feb 21 - [Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35)
+- Feb 21 - [‘It took over my life ’ How one man made his dream 90s video game on his own](https://www.theguardian.com/games/2023/feb/21/it-took-over-my-life-how-one-man-made-his-dream-90s-video-game-on-his-own)
+- Feb 21 - [ChatGPT for Robotics](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/chatgpt-for-robotics/)
 <!--END_SECTION:hn-->
 
 <!--
