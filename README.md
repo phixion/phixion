@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 21 - [Northern Ontario woman hasn’t eaten in 2 years since Covid-19](https://www.cbc.ca/newsinteractives/features/my-bodys-betrayed-me)
-- Feb 21 - [Certainly: Fastly’s Own TLS Certification Authority](https://www.fastly.com/blog/announcing-certainly-fastlys-own-tls-certification-authority)
-- Feb 21 - [Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35)
-- Feb 21 - [‘It took over my life ’ How one man made his dream 90s video game on his own](https://www.theguardian.com/games/2023/feb/21/it-took-over-my-life-how-one-man-made-his-dream-90s-video-game-on-his-own)
-- Feb 21 - [ChatGPT for Robotics](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/chatgpt-for-robotics/)
+- Feb 21 - [US military investigating leak of emails from Pentagon server](https://www.cnn.com/2023/02/21/politics/us-military-leaked-emails-server-special-operations/index.html)
+- Feb 21 - [SEC Charges the Church of Jesus Christ of Latter-Day Saints](https://www.sec.gov/news/press-release/2023-35)
+- Feb 21 - [Polygon Labs Cuts 20% Workforce, Almost 100 Jobs](https://www.coindesk.com/business/2023/02/21/polygon-labs-cuts-20-workforce-almost-100-jobs/)
+- Feb 21 - [Sci-Fi Mag Pauses Submissions Amid Flood of AI-Generated Short Stories](https://www.pcmag.com/news/sci-fi-mag-pauses-submissions-amid-flood-of-ai-generated-short-stories)
+- Feb 21 - [Hugging Face and AWS partner to make AI more accessible](https://huggingface.co/blog/aws-partnership)
 <!--END_SECTION:hn-->
 
 <!--
