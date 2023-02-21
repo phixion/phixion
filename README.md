@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 20 - [Does hand-washing or wearing masks slow down the spread of respiratory viruses?](https://www.cochrane.org/CD006207/ARI_do-physical-measures-such-hand-washing-or-wearing-masks-stop-or-slow-down-spread-respiratory-viruses)
-- Feb 20 - [The Philosophy of Computer Science](https://plato.stanford.edu/entries/computer-science/)
-- Feb 20 - [Microsoft&#x27;s Bing plans AI ads in early pitch to advertisers](https://www.reuters.com/technology/microsofts-bing-plans-ai-ads-early-pitch-advertisers-2023-02-17/)
-- Feb 20 - [California AG and state senators introduce bill to ban hidden fees](https://oag.ca.gov/news/press-releases/attorney-general-bonta-senator-dodd-senator-skinner-introduce-bill-prohibiting)
-- Feb 20 - [Four Ways to Build Web Apps](https://tomhummel.com/posts/four-web-apps/)
+- Feb 20 - [Widespread ethernet issues reported on new M2 Pro Mac mini](https://forums.macrumors.com/threads/m2-pro-ethernet-issues.2378455/)
+- Feb 20 - [Podman 4.4](https://github.com/containers/podman/releases/tag/v4.4.0)
+- Feb 20 - [Make systemd better for Podman with Quadlet](https://www.redhat.com/sysadmin/quadlet-podman)
+- Feb 20 - [Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives](https://www.zdnet.com/article/linux-6-2-the-first-mainstream-linux-kernel-for-apple-m1-chips-arrives/)
+- Feb 20 - [Communication as a Critical Business Skill](https://sphericalcowconsulting.com/2023/02/19/communication-as-a-critical-business-skill/)
 <!--END_SECTION:hn-->
 
 <!--
