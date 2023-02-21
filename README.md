@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 20 - [Widespread ethernet issues reported on new M2 Pro Mac mini](https://forums.macrumors.com/threads/m2-pro-ethernet-issues.2378455/)
-- Feb 20 - [Podman 4.4](https://github.com/containers/podman/releases/tag/v4.4.0)
-- Feb 20 - [Make systemd better for Podman with Quadlet](https://www.redhat.com/sysadmin/quadlet-podman)
-- Feb 20 - [Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives](https://www.zdnet.com/article/linux-6-2-the-first-mainstream-linux-kernel-for-apple-m1-chips-arrives/)
-- Feb 20 - [Communication as a Critical Business Skill](https://sphericalcowconsulting.com/2023/02/19/communication-as-a-critical-business-skill/)
+- Feb 21 - [Seattle could become the first city to ban caste discrimination](https://www.knkx.org/social-justice/2023-02-20/seattle-could-become-the-first-city-to-ban-caste-discrimination)
+- Feb 21 - [Pyrrhonism](https://en.wikipedia.org/wiki/Pyrrhonism)
+- Feb 21 - [Thread on Andreessen Horowitz and &#x27;zero interest rate phenomena&#x27;](https://twitter.com/tylertringas/status/1627449217294958592)
+- Feb 21 - [Clarksworld closes submissions due to GPT spam](https://twitter.com/ShackletonCI/status/1627730312925966336)
+- Feb 21 - [Ask HN: What do you use for basic data analysis, visualization, and graphing?](https://news.ycombinator.com/item?id=34875728)
 <!--END_SECTION:hn-->
 
 <!--
