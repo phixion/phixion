@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 22 - [Reversing into a car park safer, more efficient for driver and pedestrians](https://www.abc.net.au/news/2023-02-22/reversing-into-a-car-park-safer-more-efficient-for-driver/102006916)
+- Feb 22 - [Musk’s takeover turbocharged VC Twitter usage](https://www.maddyness.com/uk/?p=713786)
+- Feb 22 - [Fastbook: Listen to audiobooks faster (2020)](https://davidbieber.com/snippets/2020-03-02-fastbook/)
 - Feb 22 - [Bloop (YC S21) Is Hiring a Front End Engineer to Work on OSS AI Code Search](https://news.ycombinator.com/item?id=34892541)
-- Feb 22 - [&#x27;The Problem Index&#x27; – Which Countries Have the Worst Demographics](https://stenoresearch.com/watch-series/introducing-the-problem-index-which-countries-have-the-worst-demographics/)
-- Feb 22 - [Investigating cognitive neuroscience theories of human intelligence](https://onlinelibrary.wiley.com/doi/10.1002/hbm.26164)
-- Feb 22 - [Soylent Acquired by Starco Brands](https://techcrunch.com/2023/02/21/soylent-acquired-starco-brands-nutrition/)
-- Feb 22 - [AMD CEO: The Next Challenge Is Energy Efficiency](https://spectrum.ieee.org/amd-eyes-supercomputer-efficiency-gains)
+- Feb 22 - [Investigating cognitive neuroscience theories of human intelligence (2022)](https://onlinelibrary.wiley.com/doi/10.1002/hbm.26164)
 <!--END_SECTION:hn-->
 
 <!--
