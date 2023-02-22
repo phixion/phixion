@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 22 - [Show HN: Graphic – A grammar of data visualization and Flutter charting library](https://github.com/entronad/graphic)
-- Feb 22 - [Ask HN: Why are annual reviews so broken?](https://news.ycombinator.com/item?id=34896705)
-- Feb 22 - [Apple is convinced my dog is stalking me](https://www.engadget.com/apple-is-convinced-my-dog-is-stalking-me-143100932.html)
-- Feb 22 - [NIO reveals aggressive plan to add 1,000 swap stations in 2023](https://cnevpost.com/2023/02/21/nio-plans-to-add-1000-swap-stations-in-2023/)
-- Feb 22 - [Rovio delists original Angry Birds from PlayStore because it&#x27;s still too popular](https://twitter.com/Rovio/status/1627956351002443778/photo/1)
+- Feb 22 - [Social media is a cause, not a correlate, of mental illness in teen girls](https://jonathanhaidt.substack.com/p/social-media-mental-illness-epidemic)
+- Feb 22 - [Summarize texts up to 50K characters](https://dashboard.cohere.ai/playground/summarize)
+- Feb 22 - [Learnings from employing ChatGPT as a ML Engineer for a day](https://encord.com/blog/we-employed-chatgpt-as-an-ml-engineer-this-is-what-we-learned/)
+- Feb 22 - [Last undersea Internet cable connecting Vietnam with the world breaks down](https://en.vietnamplus.vn/last-undersea-internet-cable-connecting-vietnam-with-the-world-breaks-down/248731.vnp)
+- Feb 22 - [Loxilb: eBPF based cloud-native service load-balancer](https://github.com/loxilb-io/loxilb)
 <!--END_SECTION:hn-->
 
 <!--
