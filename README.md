@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 21 - [US military investigating leak of emails from Pentagon server](https://www.cnn.com/2023/02/21/politics/us-military-leaked-emails-server-special-operations/index.html)
-- Feb 21 - [SEC Charges the Church of Jesus Christ of Latter-Day Saints](https://www.sec.gov/news/press-release/2023-35)
-- Feb 21 - [Polygon Labs Cuts 20% Workforce, Almost 100 Jobs](https://www.coindesk.com/business/2023/02/21/polygon-labs-cuts-20-workforce-almost-100-jobs/)
-- Feb 21 - [Sci-Fi Mag Pauses Submissions Amid Flood of AI-Generated Short Stories](https://www.pcmag.com/news/sci-fi-mag-pauses-submissions-amid-flood-of-ai-generated-short-stories)
-- Feb 21 - [Hugging Face and AWS partner to make AI more accessible](https://huggingface.co/blog/aws-partnership)
+- Feb 22 - [Ask HN: How are the current layoffs affecting non-US developers?](https://news.ycombinator.com/item?id=34889624)
+- Feb 21 - [Amazon staff might get paid 50% less because shares have fallen so much](https://fortune.com/2023/02/21/amazon-staff-pay-50-less-expecting-shares-fallen-andy-jassy/)
+- Feb 21 - [Let&#x27;s build a Chrome extension that steals everything](https://mattfrisbie.substack.com/p/spy-chrome-extension)
+- Feb 21 - [Wilson&#x27;s 3D-printed basketball is full of holes but never goes flat](https://gizmodo.com/wilson-eos-nba-airless-basketball-that-never-goes-flat-1850139570)
+- Feb 21 - [Supreme Court Doesn&#x27;t Want to Create ‘World of Lawsuits’ for Tech Firms](https://www.bloomberg.com/news/articles/2023-02-21/supreme-court-appears-wary-of-section-230-rules-rollback)
 <!--END_SECTION:hn-->
 
 <!--
