@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 22 - [Ask HN: How are the current layoffs affecting non-US developers?](https://news.ycombinator.com/item?id=34889624)
-- Feb 21 - [Amazon staff might get paid 50% less because shares have fallen so much](https://fortune.com/2023/02/21/amazon-staff-pay-50-less-expecting-shares-fallen-andy-jassy/)
-- Feb 21 - [Let&#x27;s build a Chrome extension that steals everything](https://mattfrisbie.substack.com/p/spy-chrome-extension)
-- Feb 21 - [Wilson&#x27;s 3D-printed basketball is full of holes but never goes flat](https://gizmodo.com/wilson-eos-nba-airless-basketball-that-never-goes-flat-1850139570)
-- Feb 21 - [Supreme Court Doesn&#x27;t Want to Create ‘World of Lawsuits’ for Tech Firms](https://www.bloomberg.com/news/articles/2023-02-21/supreme-court-appears-wary-of-section-230-rules-rollback)
+- Feb 22 - [Tumblr iOS revenue increased 125% since launching it parody of paid verification](https://techcrunch.com/2023/02/21/tumblr-ios-revenue-increased-125-since-launching-its-parody-of-paid-verification/)
+- Feb 22 - [The Usability of Advanced Type Systems: Rust as a Case Study](https://arxiv.org/abs/2301.02308)
+- Feb 22 - [GoDaddy says a multi-year breach hijacked customer websites and accounts](https://arstechnica.com/information-technology/2023/02/godaddy-says-a-multi-year-breach-hijacked-customer-websites-and-accounts/)
+- Feb 22 - [Experts discover how zebra stripes work to thwart horsefly attacks](https://phys.org/news/2023-02-experts-zebra-stripes-thwart-horsefly.html)
+- Feb 22 - [Parched California Misses a Chance to Store More Rain](https://www.nytimes.com/2023/02/21/climate/california-storms-groundwater-aquifer-recharge.html)
 <!--END_SECTION:hn-->
 
 <!--
