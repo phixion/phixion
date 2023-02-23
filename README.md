@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 22 - [It&#x27;s time to get the Posix elephant off our necks](https://queue.acm.org/detail.cfm?id=3570921)
-- Feb 22 - [AI-Assisted Art – A Mixed Decision from the Copyright Office](https://www.processmechanics.com/2023/02/22/a-mixed-decision-from-the-us-copyright-office/)
-- Feb 22 - [A Malleable Web](https://oio.land/the-malleable-web)
-- Feb 22 - [Physics and Mathematics Self-Study Project](https://www.diegovera.org/projects)
-- Feb 22 - [Is_email()](https://github.com/dominicsayers/isemail)
+- Feb 23 - [Poll finds record support for Japanese reactor restarts](https://www.world-nuclear-news.org/Articles/Poll-finds-record-support-for-Japanese-reactor-res?feed=feed)
+- Feb 23 - [Difficult to Impossible Travel Across Wide Swaths of the U.S.](https://www.weather.gov/)
+- Feb 23 - [Ambient: The Multiplayer Game Engine](https://www.ambient.run/)
+- Feb 23 - [Vikings went to Mediterranean for ‘summer jobs’ as mercenaries, left graffiti](https://sciencenorway.no/archaeology-history-runes/vikings-tagged-the-great-lion-in-venice-with-runes/2157444)
+- Feb 23 - [AFRINIC “In a Bad Situation”, Has Not Been Able to Constitute Board; Has No CEO](https://circleid.com/posts/20230222-afrinic-in-a-bad-situation-has-not-been-able-to-constitute-a-board-and-has-no-ceo)
 <!--END_SECTION:hn-->
 
 <!--
