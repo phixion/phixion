@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 22 - [Social media is a cause, not a correlate, of mental illness in teen girls](https://jonathanhaidt.substack.com/p/social-media-mental-illness-epidemic)
-- Feb 22 - [Summarize texts up to 50K characters](https://dashboard.cohere.ai/playground/summarize)
-- Feb 22 - [Learnings from employing ChatGPT as a ML Engineer for a day](https://encord.com/blog/we-employed-chatgpt-as-an-ml-engineer-this-is-what-we-learned/)
-- Feb 22 - [Last undersea Internet cable connecting Vietnam with the world breaks down](https://en.vietnamplus.vn/last-undersea-internet-cable-connecting-vietnam-with-the-world-breaks-down/248731.vnp)
-- Feb 22 - [Loxilb: eBPF based cloud-native service load-balancer](https://github.com/loxilb-io/loxilb)
+- Feb 22 - [It&#x27;s time to get the Posix elephant off our necks](https://queue.acm.org/detail.cfm?id=3570921)
+- Feb 22 - [AI-Assisted Art – A Mixed Decision from the Copyright Office](https://www.processmechanics.com/2023/02/22/a-mixed-decision-from-the-us-copyright-office/)
+- Feb 22 - [A Malleable Web](https://oio.land/the-malleable-web)
+- Feb 22 - [Physics and Mathematics Self-Study Project](https://www.diegovera.org/projects)
+- Feb 22 - [Is_email()](https://github.com/dominicsayers/isemail)
 <!--END_SECTION:hn-->
 
 <!--
