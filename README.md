@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 23 - [Memfault (YC W19) Is Hiring a Product Manager in Berlin – DevOps for Hardware](https://jobs.lever.co/memfault/4a93e014-cf06-4a7a-a1a4-46152324c3d2)
-- Feb 23 - [Professor Says He Was Barred from Campus After Monsanto FOIA Inquiry](https://www.insidehighered.com/news/2023/02/20/professor-says-he-was-barred-campus-after-monsanto-info-request)
-- Feb 23 - [Testing Raspberry Pi&#x27;s New Debug Probe](https://www.jeffgeerling.com/blog/2023/testing-raspberry-pis-new-debug-probe)
-- Feb 23 - [Introduction to Data-Centric AI](https://dcai.csail.mit.edu/)
-- Feb 23 - [Lessons from 35 Years of Newsletter Publishing](https://www.cjchilvers.com/blog/35-lessons-from-35-years-of-newsletter-publishing/)
+- Feb 23 - [Generally Intelligent (YC S17) Is Hiring Engineer Managers](https://news.ycombinator.com/item?id=34909376)
+- Feb 23 - [Valve permabans 40,000+ dota2 accounts using honeypot patch](https://www.dota2.com/newsentry/3677788723152833273)
+- Feb 23 - [Common Lisp Implementations in 2023](https://www.n16f.net/blog/common-lisp-implementations-in-2023/)
+- Feb 23 - [5 People killed as plane carrying environment workers to Ohio tragedy crashes](https://www.independent.co.uk/news/world/americas/arkansas-plane-crash-little-rock-b2287648.html)
+- Feb 23 - [Show HN: Mox - Modern full-featured low-maintenance self-hosted mail server](https://github.com/mjl-/mox)
 <!--END_SECTION:hn-->
 
 <!--
