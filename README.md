@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 23 - [Generally Intelligent (YC S17) Is Hiring Engineer Managers](https://news.ycombinator.com/item?id=34909376)
-- Feb 23 - [Valve permabans 40,000+ dota2 accounts using honeypot patch](https://www.dota2.com/newsentry/3677788723152833273)
-- Feb 23 - [Common Lisp Implementations in 2023](https://www.n16f.net/blog/common-lisp-implementations-in-2023/)
-- Feb 23 - [5 People killed as plane carrying environment workers to Ohio tragedy crashes](https://www.independent.co.uk/news/world/americas/arkansas-plane-crash-little-rock-b2287648.html)
-- Feb 23 - [Show HN: Mox - Modern full-featured low-maintenance self-hosted mail server](https://github.com/mjl-/mox)
+- Feb 23 - [Why UK supermarkets are rationing fruit and vegetables](https://www.cnn.com/2023/02/22/business/uk-supermarkets-tomatoes-rationing-explainer/index.html)
+- Feb 23 - [95% of Bay Area Cities Lost Zoning Authority](https://darrellowens.substack.com/p/96-of-bay-area-cities-lost-zoning)
+- Feb 23 - [MINIX from Scratch](https://github.com/o-oconnell/minixfromscratch)
+- Feb 23 - [Show HN: ChatBotKit – The simplest way to build AI chat bots like ChatGPT](https://chatbotkit.com/)
+- Feb 23 - [Conversational AI will be used to Manipulate Us in real-time](https://www.barrons.com/articles/conversational-ai-will-learn-to-push-your-buttons-manipulation-problem-c9f797e8)
 <!--END_SECTION:hn-->
 
 <!--
