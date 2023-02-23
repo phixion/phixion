@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 23 - [Why UK supermarkets are rationing fruit and vegetables](https://www.cnn.com/2023/02/22/business/uk-supermarkets-tomatoes-rationing-explainer/index.html)
-- Feb 23 - [95% of Bay Area Cities Lost Zoning Authority](https://darrellowens.substack.com/p/96-of-bay-area-cities-lost-zoning)
-- Feb 23 - [MINIX from Scratch](https://github.com/o-oconnell/minixfromscratch)
-- Feb 23 - [Show HN: ChatBotKit – The simplest way to build AI chat bots like ChatGPT](https://chatbotkit.com/)
-- Feb 23 - [Conversational AI will be used to Manipulate Us in real-time](https://www.barrons.com/articles/conversational-ai-will-learn-to-push-your-buttons-manipulation-problem-c9f797e8)
+- Feb 23 - [Google tells employees to share desks as it looks to cut costs](https://www.techspot.com/news/97705-google-tells-employees-share-desks-looks-cut-costs.html)
+- Feb 23 - [More than half of YC startups don&#x27;t have a dot com](https://www.reproof.app/blog/you-dont-need-a-dot-com)
+- Feb 23 - [Argonne: Lithium-Air battery 1200 wh&#x2F;kg, 1000 cycles](https://www.anl.gov/article/new-design-for-lithiumair-battery-could-offer-much-longer-driving-range-compared-with-the-lithiumion)
+- Feb 23 - [Tell HN: Do not store any funds in PayPal or use them for anything critical](https://news.ycombinator.com/item?id=34913596)
+- Feb 23 - [After defending false data, Comcast admits another FCC broadband map mistake](https://arstechnica.com/tech-policy/2023/02/comcast-could-have-avoided-giving-false-map-data-to-fcc-by-checking-its-own-website/)
 <!--END_SECTION:hn-->
 
 <!--
