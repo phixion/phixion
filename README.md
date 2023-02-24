@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 24 - [Signal would &#x27;walk&#x27; from UK if Online Safety Bill undermined encryption](https://www.bbc.com/news/technology-64584001)
-- Feb 24 - [Ask HN: How to prevent a company from taking my domain name?](https://news.ycombinator.com/item?id=34922979)
-- Feb 24 - [Meticulous (YC S21) Is Hiring #3 Engineer in London to Eliminate Testing](https://news.ycombinator.com/item?id=34921728)
-- Feb 24 - [Konsta UI – Mobile UI Components Built with TailwindCSS](https://konstaui.com/)
-- Feb 24 - [How the cover art of Defender of the Crown (1986) was made (2013)](https://spelpappan.se/2013/08/this-is-how-the-cover-art-of-defender-of-the-crown-1986-was-made/)
+- Feb 24 - [Neal Stephenson doesn&#x27;t seem keen on crypto anymore](https://www.gamedeveloper.com/culture/even-neal-stephenson-doesn-t-seem-keen-on-crypto-anymore)
+- Feb 24 - [Drag an emoji family with a string size of 11 into an input with maxlength=10](https://mastodon.social/@simevidas/109919980697679274)
+- Feb 24 - [Roald Dahl: Original books to be kept in print following criticism](https://www.bbc.com/news/entertainment-arts-64759118)
+- Feb 24 - [NPM repository flooded with 15,000 phishing packages](https://www.scmagazine.com/analysis/devops/npm-repository-15000-phishing-packages)
+- Feb 24 - [Wendelstein 7-X: 8 min Plasma with 1.3 GJ Energy Turnover [video]](https://www.youtube.com/watch?v=GTmje2qsVgY)
 <!--END_SECTION:hn-->
 
 <!--
