@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 23 - [Google tells employees to share desks as it looks to cut costs](https://www.techspot.com/news/97705-google-tells-employees-share-desks-looks-cut-costs.html)
-- Feb 23 - [More than half of YC startups don&#x27;t have a dot com](https://www.reproof.app/blog/you-dont-need-a-dot-com)
-- Feb 23 - [Argonne: Lithium-Air battery 1200 wh&#x2F;kg, 1000 cycles](https://www.anl.gov/article/new-design-for-lithiumair-battery-could-offer-much-longer-driving-range-compared-with-the-lithiumion)
-- Feb 23 - [Tell HN: Do not store any funds in PayPal or use them for anything critical](https://news.ycombinator.com/item?id=34913596)
-- Feb 23 - [After defending false data, Comcast admits another FCC broadband map mistake](https://arstechnica.com/tech-policy/2023/02/comcast-could-have-avoided-giving-false-map-data-to-fcc-by-checking-its-own-website/)
+- Feb 23 - [After death of girl yesterday, 12 more detected with H5N1 bird flu in Cambodia](https://www.khmertimeskh.com/501244375/after-death-of-girl-yesterday-12-more-detected-with-h5n1-bird-flu/)
+- Feb 23 - [Sex, food or water? How mice decide](https://www.nature.com/articles/d41586-023-00521-3)
+- Feb 23 - [Apple Entertainment Services are slow or down](https://www.apple.com/support/systemstatus/)
+- Feb 23 - [Don&#x27;t believe ChatGPT – we do not offer a &quot;phone lookup&quot; service](https://blog.opencagedata.com/post/dont-believe-chatgpt)
+- Feb 23 - [KDE and GNOME seeks $100k to turn Flathub into a Store for the Linux desktop](https://github.com/PlaintextGroup/oss-virtual-incubator/blob/main/proposals/flathub-linux-app-store.md)
 <!--END_SECTION:hn-->
 
 <!--
