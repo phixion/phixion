@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 24 - [Neal Stephenson doesn&#x27;t seem keen on crypto anymore](https://www.gamedeveloper.com/culture/even-neal-stephenson-doesn-t-seem-keen-on-crypto-anymore)
-- Feb 24 - [Drag an emoji family with a string size of 11 into an input with maxlength=10](https://mastodon.social/@simevidas/109919980697679274)
-- Feb 24 - [Roald Dahl: Original books to be kept in print following criticism](https://www.bbc.com/news/entertainment-arts-64759118)
-- Feb 24 - [NPM repository flooded with 15,000 phishing packages](https://www.scmagazine.com/analysis/devops/npm-repository-15000-phishing-packages)
-- Feb 24 - [Wendelstein 7-X: 8 min Plasma with 1.3 GJ Energy Turnover [video]](https://www.youtube.com/watch?v=GTmje2qsVgY)
+- Feb 24 - [API Security Is a Hot Topic for 2023](https://blog.treblle.com/why-api-security-is-a-top-concern/)
+- Feb 24 - [Justice Department says Google destroyed evidence related to antitrust lawsuit](https://www.wsj.com/articles/justice-department-says-google-destroyed-evidence-related-to-antitrust-lawsuit-5dad2d6)
+- Feb 24 - [4-day workweek trial](https://apnews.com/article/business-d114ef8be69e1665fd22c39515bdaecf)
+- Feb 24 - [Bitnami ARM containers available at Docker Hub](https://blog.bitnami.com/2023/02/bitnami-arm-containers-available-at.html)
+- Feb 24 - [Hackers are reportedly getting laid off by organized crime groups](https://www.businessinsider.com/hackers-ransomware-getting-laid-off-amid-better-cybersecurity-report-2023-2)
 <!--END_SECTION:hn-->
 
 <!--
