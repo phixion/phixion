@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 24 - [Human mind control of rat cyborg&#x27;s movement via brain-to-brain interface](https://www.nature.com/articles/s41598-018-36885-0)
-- Feb 24 - [Encoder-Based Domain Tuning for Fast Personalization of Text-to-Image Models](https://tuning-encoder.github.io/)
-- Feb 24 - [Eduard: Swiss-Style Relief Shading for Maps Using Machine Learning](https://dilpreet.co/projects/eduard)
-- Feb 24 - [FCC Considering Banning Transfer of Online Consent Forms](https://tcpaworld.com/2023/02/23/closing-the-lead-generator-loophole-fcc-considering-banning-transfer-of-online-consent-forms-and-other-critical-changes-and-i-warned-you/)
-- Feb 24 - [So, you’ve been challenged to a duel. What are the rules? (2016)](https://blogs.loc.gov/law/2016/06/so-youve-been-challenged-to-a-duel-what-are-the-rules/)
+- Feb 24 - [Meticulous (YC S21) Is Hiring #3 Engineer in London to Eliminate Testing](https://news.ycombinator.com/item?id=34921728)
+- Feb 24 - [Konsta UI – Mobile UI Components Built with TailwindCSS](https://konstaui.com/)
+- Feb 24 - [You’re Not a Girlboss – You’re Just Trapped in an MLM Scheme (2020)](https://thefinancialdiet.com/the-spirit-of-the-girlboss-is-alive-in-mlm-schemes/)
+- Feb 24 - [“find a way to be a predatory squatter on a chokepoint” – Cory Doctorow](https://twitter.com/doctorow/status/1628948906657878016)
+- Feb 24 - [Another Round of Layoffs at Meta](https://www.theverge.com/2023/2/23/23612833/metas-next-big-round-of-layoffs-are-coming)
 <!--END_SECTION:hn-->
 
 <!--
