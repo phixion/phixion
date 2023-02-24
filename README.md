@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 24 - [Signal would &#x27;walk&#x27; from UK if Online Safety Bill undermined encryption](https://www.bbc.com/news/technology-64584001)
+- Feb 24 - [Ask HN: How to prevent a company from taking my domain name?](https://news.ycombinator.com/item?id=34922979)
 - Feb 24 - [Meticulous (YC S21) Is Hiring #3 Engineer in London to Eliminate Testing](https://news.ycombinator.com/item?id=34921728)
 - Feb 24 - [Konsta UI – Mobile UI Components Built with TailwindCSS](https://konstaui.com/)
-- Feb 24 - [You’re Not a Girlboss – You’re Just Trapped in an MLM Scheme (2020)](https://thefinancialdiet.com/the-spirit-of-the-girlboss-is-alive-in-mlm-schemes/)
-- Feb 24 - [“find a way to be a predatory squatter on a chokepoint” – Cory Doctorow](https://twitter.com/doctorow/status/1628948906657878016)
-- Feb 24 - [Another Round of Layoffs at Meta](https://www.theverge.com/2023/2/23/23612833/metas-next-big-round-of-layoffs-are-coming)
+- Feb 24 - [How the cover art of Defender of the Crown (1986) was made (2013)](https://spelpappan.se/2013/08/this-is-how-the-cover-art-of-defender-of-the-crown-1986-was-made/)
 <!--END_SECTION:hn-->
 
 <!--
