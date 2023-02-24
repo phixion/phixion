@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 23 - [After death of girl yesterday, 12 more detected with H5N1 bird flu in Cambodia](https://www.khmertimeskh.com/501244375/after-death-of-girl-yesterday-12-more-detected-with-h5n1-bird-flu/)
-- Feb 23 - [Sex, food or water? How mice decide](https://www.nature.com/articles/d41586-023-00521-3)
-- Feb 23 - [Apple Entertainment Services are slow or down](https://www.apple.com/support/systemstatus/)
-- Feb 23 - [Don&#x27;t believe ChatGPT – we do not offer a &quot;phone lookup&quot; service](https://blog.opencagedata.com/post/dont-believe-chatgpt)
-- Feb 23 - [KDE and GNOME seeks $100k to turn Flathub into a Store for the Linux desktop](https://github.com/PlaintextGroup/oss-virtual-incubator/blob/main/proposals/flathub-linux-app-store.md)
+- Feb 24 - [Human mind control of rat cyborg&#x27;s movement via brain-to-brain interface](https://www.nature.com/articles/s41598-018-36885-0)
+- Feb 24 - [Encoder-Based Domain Tuning for Fast Personalization of Text-to-Image Models](https://tuning-encoder.github.io/)
+- Feb 24 - [Eduard: Swiss-Style Relief Shading for Maps Using Machine Learning](https://dilpreet.co/projects/eduard)
+- Feb 24 - [FCC Considering Banning Transfer of Online Consent Forms](https://tcpaworld.com/2023/02/23/closing-the-lead-generator-loophole-fcc-considering-banning-transfer-of-online-consent-forms-and-other-critical-changes-and-i-warned-you/)
+- Feb 24 - [So, you’ve been challenged to a duel. What are the rules? (2016)](https://blogs.loc.gov/law/2016/06/so-youve-been-challenged-to-a-duel-what-are-the-rules/)
 <!--END_SECTION:hn-->
 
 <!--
