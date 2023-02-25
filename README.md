@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 25 - [My daughter&#x27;s school took over my personal Microsoft account](https://www.jeffgeerling.com/blog/2023/my-daughters-school-took-over-my-personal-microsoft-account)
+- Feb 25 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+- Feb 25 - [Ask HN: Found a leak of US citizens personal data. Should I report it?](https://news.ycombinator.com/item?id=34933856)
 - Feb 25 - [WebGPU Error Handling best practices](https://toji.dev/webgpu-best-practices/error-handling.html)
-- Feb 25 - [High-skilled visa holders at risk of deportation amid tech layoffs](https://www.washingtonpost.com/us-policy/2023/02/24/temporary-visa-h1b-tech-layoffs/)
 - Feb 25 - [UK Proposes Even More Stupid Ideas for Directly Regulating the Internet](https://www.techdirt.com/2023/02/23/uk-proposes-even-more-stupid-ideas-for-directly-regulating-the-internet-service-providers/)
-- Feb 25 - [U-2 pilot&#x27;s selfie above China&#x27;s balloon taken over Missouri: How we know that](https://www.npr.org/2023/02/23/1159007203/selfie-china-balloon-photo)
-- Feb 24 - [Daily.place](https://www.daily.place/)
 <!--END_SECTION:hn-->
 
 <!--
