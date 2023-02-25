@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 25 - [Paperspace (YC W15) is hiring to improve the ML development experience](https://www.paperspace.com/careers/positions?gh_src=652ffa365us)
-- Feb 25 - [Canada: High school student suspended, arrested for saying only 2 genders](https://torontosun.com/opinion/columnists/lilley-catholic-high-school-student-suspended-then-arrested-for-saying-there-are-only-two-genders)
-- Feb 25 - [Open Airport Map](https://openairportmap.org)
-- Feb 25 - [Why Mac speakers sound so good](https://social.treehouse.systems/@marcan/109917995005981968)
-- Feb 25 - [Upwork just stole $10k from me](https://twitter.com/ilyanovohatskyi/status/1626310838872145925)
+- Feb 25 - [Place Your Bets](https://www.antipope.org/charlie/blog-static/2023/02/place-your-bets.html)
+- Feb 25 - [Wine Wayland Driver](https://gitlab.winehq.org/wine/wine/-/merge_requests/2275)
+- Feb 25 - [ChatGPT get-rich-quick schemes are coming for magazines, Amazon, and YouTube](https://www.semafor.com/article/02/24/2023/chatgpt-get-rich-quick-schemes-are-coming-for-magazines-amazon-and-youtube)
+- Feb 25 - [Mysterious object is being dragged into the black hole at the Milky Way’s center](https://newsroom.ucla.edu/releases/X7-debris-cloud-near-supermassive-black-hole)
+- Feb 25 - [From Ugly to Beautiful](https://martinkysel.com/from-ugly-to-beautiful/)
 <!--END_SECTION:hn-->
 
 <!--
