@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 25 - [My daughter&#x27;s school took over my personal Microsoft account](https://www.jeffgeerling.com/blog/2023/my-daughters-school-took-over-my-personal-microsoft-account)
-- Feb 25 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
-- Feb 25 - [Ask HN: Found a leak of US citizens personal data. Should I report it?](https://news.ycombinator.com/item?id=34933856)
-- Feb 25 - [WebGPU Error Handling best practices](https://toji.dev/webgpu-best-practices/error-handling.html)
-- Feb 25 - [UK Proposes Even More Stupid Ideas for Directly Regulating the Internet](https://www.techdirt.com/2023/02/23/uk-proposes-even-more-stupid-ideas-for-directly-regulating-the-internet-service-providers/)
+- Feb 25 - [Paperspace (YC W15) is hiring to improve the ML development experience](https://www.paperspace.com/careers/positions?gh_src=652ffa365us)
+- Feb 25 - [Canada: High school student suspended, arrested for saying only 2 genders](https://torontosun.com/opinion/columnists/lilley-catholic-high-school-student-suspended-then-arrested-for-saying-there-are-only-two-genders)
+- Feb 25 - [Open Airport Map](https://openairportmap.org)
+- Feb 25 - [Why Mac speakers sound so good](https://social.treehouse.systems/@marcan/109917995005981968)
+- Feb 25 - [Upwork just stole $10k from me](https://twitter.com/ilyanovohatskyi/status/1626310838872145925)
 <!--END_SECTION:hn-->
 
 <!--
