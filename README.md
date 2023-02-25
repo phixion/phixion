@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 25 - [Place Your Bets](https://www.antipope.org/charlie/blog-static/2023/02/place-your-bets.html)
-- Feb 25 - [Wine Wayland Driver](https://gitlab.winehq.org/wine/wine/-/merge_requests/2275)
-- Feb 25 - [ChatGPT get-rich-quick schemes are coming for magazines, Amazon, and YouTube](https://www.semafor.com/article/02/24/2023/chatgpt-get-rich-quick-schemes-are-coming-for-magazines-amazon-and-youtube)
-- Feb 25 - [Mysterious object is being dragged into the black hole at the Milky Way’s center](https://newsroom.ucla.edu/releases/X7-debris-cloud-near-supermassive-black-hole)
-- Feb 25 - [From Ugly to Beautiful](https://martinkysel.com/from-ugly-to-beautiful/)
+- Feb 25 - [Using GPT3, Supabase and Pinecone to automate a personalized marketing campaign](https://vimota.me/writing/gpt3-klaviyo-automation)
+- Feb 25 - [A Lambda Calculus with Coroutines and Heapless, Directly-Called Closures](https://ayazhafiz.com/articles/23/a-lambda-calculus-with-coroutines-and-heapless-closures#source-language)
+- Feb 25 - [Gut microbes could drive brain disorders](https://www.nature.com/articles/d41586-021-00260-3)
+- Feb 25 - [Nokia launches DIY repairable budget Android phone](https://www.theguardian.com/technology/2023/feb/25/nokia-launches-diy-repairable-budget-android-phone)
+- Feb 25 - [Dow said it was recycling our shoes. We found them at an Indonesian flea market](https://www.reuters.com/investigates/special-report/global-plastic-dow-shoes/)
 <!--END_SECTION:hn-->
 
 <!--
