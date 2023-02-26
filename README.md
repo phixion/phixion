@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 26 - [France&#x27;s Baby Bust](https://worksinprogress.co/issue/frances-baby-bust)
-- Feb 26 - [What&#x27;s new in C# for Godot 4.0](https://godotengine.org/article/whats-new-in-csharp-for-godot-4-0/)
-- Feb 26 - [WebGL2 Fundamentals](https://webgl2fundamentals.org/)
-- Feb 26 - [Wolfram Language and Mathematica Free on Every Raspberry Pi](https://www.wolfram.com/raspberry-pi/)
-- Feb 26 - [Ask HN: Worth it to buy 4x Nvidia Tesla K40 for AI?](https://news.ycombinator.com/item?id=34944014)
+- Feb 26 - [Geneticist Barbara McClintock on Plant Consciousness](https://superbowl.substack.com/p/church-of-reality-barbara-mcclintock)
+- Feb 26 - [Ask HN: Is Mastodon the best alternative to Twitter?](https://news.ycombinator.com/item?id=34946065)
+- Feb 26 - [Marginalia Search has received an NLNet grant](https://memex.marginalia.nu/log/74-marginalia-2-years.gmi)
+- Feb 26 - [I disapprove of what you say but I will defend to the death your right to say it](https://quoteinvestigator.com/2015/06/01/defend-say/)
+- Feb 26 - [EasyOS kirkstone 2.0 release – lightweight Linux from the guy behind Puppy Linux](https://bkhome.org/news/202302/easyos-kirkstone-series-version-50.html)
 <!--END_SECTION:hn-->
 
 <!--
