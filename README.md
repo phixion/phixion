@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 26 - [Geneticist Barbara McClintock on Plant Consciousness](https://superbowl.substack.com/p/church-of-reality-barbara-mcclintock)
-- Feb 26 - [Ask HN: Is Mastodon the best alternative to Twitter?](https://news.ycombinator.com/item?id=34946065)
-- Feb 26 - [Marginalia Search has received an NLNet grant](https://memex.marginalia.nu/log/74-marginalia-2-years.gmi)
-- Feb 26 - [I disapprove of what you say but I will defend to the death your right to say it](https://quoteinvestigator.com/2015/06/01/defend-say/)
-- Feb 26 - [EasyOS kirkstone 2.0 release – lightweight Linux from the guy behind Puppy Linux](https://bkhome.org/news/202302/easyos-kirkstone-series-version-50.html)
+- Feb 26 - [Rope (data structure)](https://en.wikipedia.org/wiki/Rope_(data_structure))
+- Feb 26 - [Trove of LA students’ mental health records posted to dark web after cyber hack](https://www.the74million.org/article/trove-of-l-a-students-mental-health-records-posted-to-dark-web-after-cyber-hack/)
+- Feb 26 - [Britain’s biggest skills problem is that many firms don’t value them](https://www.economist.com/britain/2023/02/21/britains-biggest-skills-problem-is-that-many-firms-dont-value-them)
+- Feb 26 - [Canada starts investigating TikTok over data collection from young users](https://www.firstpost.com/world/canada-starts-investigating-tiktok-over-data-collection-from-young-users-12204042.html)
+- Feb 26 - [Jeff Minter, The wizard of gaming psychedelia](https://www.polygon.com/23613576/jeff-minter-profile-akka-arrh-atari-llamasoft-arcade)
 <!--END_SECTION:hn-->
 
 <!--
