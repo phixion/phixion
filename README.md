@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 25 - [Using GPT3, Supabase and Pinecone to automate a personalized marketing campaign](https://vimota.me/writing/gpt3-klaviyo-automation)
-- Feb 25 - [A Lambda Calculus with Coroutines and Heapless, Directly-Called Closures](https://ayazhafiz.com/articles/23/a-lambda-calculus-with-coroutines-and-heapless-closures#source-language)
-- Feb 25 - [Gut microbes could drive brain disorders](https://www.nature.com/articles/d41586-021-00260-3)
-- Feb 25 - [Nokia launches DIY repairable budget Android phone](https://www.theguardian.com/technology/2023/feb/25/nokia-launches-diy-repairable-budget-android-phone)
-- Feb 25 - [Dow said it was recycling our shoes. We found them at an Indonesian flea market](https://www.reuters.com/investigates/special-report/global-plastic-dow-shoes/)
+- Feb 25 - [Single-pulse real-time billion-frames-per-second imaging of flame temperature](https://www.nature.com/articles/s41377-023-01095-5)
+- Feb 25 - [Checking Firewall Equivalence with Z3](https://ahelwer.ca/post/2018-02-13-z3-firewall/)
+- Feb 25 - [SymPy makes math fun again](https://wordsandbuttons.online/sympy_makes_math_fun_again.html)
+- Feb 25 - [Awesome Docker Compose Examples](https://github.com/Haxxnet/Compose-Examples)
+- Feb 25 - [Bizarre and unusual uses of DNS](https://fosdem.org/2023/schedule/event/dns_bizarre_and_unusual_uses_of_dns/)
 <!--END_SECTION:hn-->
 
 <!--
