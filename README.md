@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 27 - [DMCA Takedown of iptv-org&#x2F;iptv on GitHub](https://github.com/iptv-org/iptv)
-- Feb 26 - [How confusion spreads and becomes engrained (2017)](https://stephan-shahinian.medium.com/how-confusion-spreads-in-todays-society-and-how-it-becomes-engrained-c687376cb602)
-- Feb 26 - [A runner who leads every pack and then vanishes](https://www.nytimes.com/2023/02/25/sports/erik-sowinski-pacer.html)
-- Feb 26 - [Met Office says Northern Lights will be visible in England tonight and tomorrow](https://www.bristolpost.co.uk/news/uk-world-news/met-office-says-northern-lights-8190884)
-- Feb 26 - [Loongson’s LSX and LASX Vector Extensions](https://chipsandcheese.com/2023/02/26/loongsons-lsx-and-lasx-vector-extensions/)
+- Feb 27 - [Chrome DevTools, Scroll Into View gets around paywalls](https://bbarrows.com/posts/how-to-get-around-paywalls-with-debug-tools)
+- Feb 27 - [From Go on EC2 to Fly.io: +fun, −$9&#x2F;mo](https://benhoyt.com/writings/flyio/)
+- Feb 27 - [Poor sleep drove me insane, and my long path to recovery](https://writing.samsonhu.com/how-poor-sleep-drove-me-insane-and-my-long-path-to-recovery/)
+- Feb 27 - [Very Long-Term Backup (2008)](https://longnow.org/ideas/very-long-term-backup/)
+- Feb 27 - [Consultants: the real reason it costs so much to build new subways in America](https://slate.com/business/2023/02/subway-costs-us-europe-public-transit-funds.html)
 <!--END_SECTION:hn-->
 
 <!--
