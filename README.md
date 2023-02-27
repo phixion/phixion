@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 27 - [Israel&#x27;s Dangerous Shadow War with Iran](https://www.foreignaffairs.com/israel/israels-dangerous-shadow-war-iran)
-- Feb 27 - [DIB Guide: Detecting Agile BS (2018) [pdf]](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
-- Feb 27 - [AMD releases a new flagship CPU for consumer market with 128M of L3 Cache](https://www.techpowerup.com/review/amd-ryzen-9-7950x3d/)
-- Feb 27 - [Will Carbon Replace C++?](https://semaphoreci.com/blog/carbon)
-- Feb 27 - [Open source implementation for LLaMA-based ChatGPT](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama)
+- Feb 27 - [What Is Anglish?](https://anglish.org/wiki/Anglish)
+- Feb 27 - [Reverse-engineering the ModR&#x2F;M addressing microcode in the Intel 8086 processor](https://www.righto.com/2023/02/8086-modrm-addressing.html)
+- Feb 27 - [The Elements of Scientific Style](https://worksinprogress.co/issue/the-elements-of-scientific-style)
+- Feb 27 - [Graph DBMSs need new join algorithms: Story of worst-case optimal joins](https://kuzudb.com/blog/wcoj.html)
+- Feb 27 - [Unit Testing PDF Generation](https://nibblestew.blogspot.com/2023/02/unit-testing-pdf-generation.html)
 <!--END_SECTION:hn-->
 
 <!--
