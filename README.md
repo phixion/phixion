@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 27 - [Chrome DevTools, Scroll Into View gets around paywalls](https://bbarrows.com/posts/how-to-get-around-paywalls-with-debug-tools)
-- Feb 27 - [From Go on EC2 to Fly.io: +fun, −$9&#x2F;mo](https://benhoyt.com/writings/flyio/)
-- Feb 27 - [Poor sleep drove me insane, and my long path to recovery](https://writing.samsonhu.com/how-poor-sleep-drove-me-insane-and-my-long-path-to-recovery/)
-- Feb 27 - [Very Long-Term Backup (2008)](https://longnow.org/ideas/very-long-term-backup/)
-- Feb 27 - [Consultants: the real reason it costs so much to build new subways in America](https://slate.com/business/2023/02/subway-costs-us-europe-public-transit-funds.html)
+- Feb 27 - [Emerge Career (YC S22) Is Hiring](https://www.ycombinator.com/companies/emerge-career/jobs/LZAKBCW-founding-operations-manager)
+- Feb 27 - [Steam Deck: First Anniversary of the Ultimate Gaming Platform](https://boilingsteam.com/steam-deck-first-anniversary-of-the-ultimate-gaming-platform/)
+- Feb 27 - [Most Data Work Seems Fundamentally Worthless](https://ludic.mataroa.blog/blog/most-data-work-seems-fundamentally-worthless/)
+- Feb 27 - [Plastic-based fuels may present an “unreasonable risk” to human health](https://www.propublica.org/article/chevron-pascagoula-pollution-future-cancer-risk)
+- Feb 27 - [ShareGPT: Share your ChatGPT conversations with one click](https://sharegpt.com)
 <!--END_SECTION:hn-->
 
 <!--
