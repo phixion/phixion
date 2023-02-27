@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 27 - [Emerge Career (YC S22) Is Hiring](https://www.ycombinator.com/companies/emerge-career/jobs/LZAKBCW-founding-operations-manager)
-- Feb 27 - [Steam Deck: First Anniversary of the Ultimate Gaming Platform](https://boilingsteam.com/steam-deck-first-anniversary-of-the-ultimate-gaming-platform/)
-- Feb 27 - [Most Data Work Seems Fundamentally Worthless](https://ludic.mataroa.blog/blog/most-data-work-seems-fundamentally-worthless/)
-- Feb 27 - [Plastic-based fuels may present an “unreasonable risk” to human health](https://www.propublica.org/article/chevron-pascagoula-pollution-future-cancer-risk)
-- Feb 27 - [ShareGPT: Share your ChatGPT conversations with one click](https://sharegpt.com)
+- Feb 27 - [Israel&#x27;s Dangerous Shadow War with Iran](https://www.foreignaffairs.com/israel/israels-dangerous-shadow-war-iran)
+- Feb 27 - [DIB Guide: Detecting Agile BS (2018) [pdf]](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
+- Feb 27 - [AMD releases a new flagship CPU for consumer market with 128M of L3 Cache](https://www.techpowerup.com/review/amd-ryzen-9-7950x3d/)
+- Feb 27 - [Will Carbon Replace C++?](https://semaphoreci.com/blog/carbon)
+- Feb 27 - [Open source implementation for LLaMA-based ChatGPT](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama)
 <!--END_SECTION:hn-->
 
 <!--
