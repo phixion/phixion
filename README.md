@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 26 - [Merino Wool: The Good, the Bad, and the Not-So-Stylish](https://www.theunconventionalroute.com/merino-wool-benefits-disadvantages/)
-- Feb 26 - [Stack Overflow is a cacheless, 9-server on-prem monolith](https://twitter.com/sahnlam/status/1629713954225405952)
+- Feb 27 - [DMCA Takedown of iptv-org&#x2F;iptv on GitHub](https://github.com/iptv-org/iptv)
+- Feb 26 - [How confusion spreads and becomes engrained (2017)](https://stephan-shahinian.medium.com/how-confusion-spreads-in-todays-society-and-how-it-becomes-engrained-c687376cb602)
+- Feb 26 - [A runner who leads every pack and then vanishes](https://www.nytimes.com/2023/02/25/sports/erik-sowinski-pacer.html)
 - Feb 26 - [Met Office says Northern Lights will be visible in England tonight and tomorrow](https://www.bristolpost.co.uk/news/uk-world-news/met-office-says-northern-lights-8190884)
 - Feb 26 - [Loongson’s LSX and LASX Vector Extensions](https://chipsandcheese.com/2023/02/26/loongsons-lsx-and-lasx-vector-extensions/)
-- Feb 26 - [Tilde.news – A Link Aggregator for the Tildeverse](https://tilde.news)
 <!--END_SECTION:hn-->
 
 <!--
