@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 28 - [Nvidia’s latest GPU drivers can upscale old blurry YouTube videos](https://www.theverge.com/2023/2/28/23618245/nvidia-rtx-video-super-resolution-upscale-videos-rtx-gpu)
-- Feb 28 - [Beating OpenAI CLIP with 100x less data and compute](https://www.unum.cloud/blog/2023-02-20-efficient-multimodality)
-- Feb 28 - [Microsoft somehow brings iMessage to Windows, will it last?](https://9to5mac.com/2023/02/28/microsoft-imessage-windows-support/)
-- Feb 28 - [AI Tool Reveals How Celebrities’ Faces Have Been Photoshopped](https://petapixel.com/2023/02/28/ai-tool-reveals-how-celebrities-faces-have-been-photoshopped/)
-- Feb 28 - [Rosenpass – formally verified post-quantum WireGuard](https://github.com/rosenpass/rosenpass)
+- Feb 28 - [The Weapons That Win World Wars](https://austinvernon.site/blog/peerwareconomics.html)
+- Feb 28 - [Generic dynamic array in 60 lines of C](https://gist.github.com/nicebyte/86bd1f119d3ff5c8da06bc2fd59ad668)
+- Feb 28 - [Safety Performance of the Waymo Driver at One Million Miles [pdf]](https://storage.googleapis.com/waymo-uploads/files/documents/safety/Safety%20Performance%20of%20Waymo%20RO%20at%201M%20miles.pdf)
+- Feb 28 - [Show HN: Briefsky – a free Dark Sky clone for multiple weather APIs](https://briefsky.app/)
+- Feb 28 - [Show HN: The largest collection of ChatGPT jailbreaks on the internet](https://www.jailbreakchat.com)
 <!--END_SECTION:hn-->
 
 <!--
