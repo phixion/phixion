@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 27 - [What Is Anglish?](https://anglish.org/wiki/Anglish)
-- Feb 27 - [Reverse-engineering the ModR&#x2F;M addressing microcode in the Intel 8086 processor](https://www.righto.com/2023/02/8086-modrm-addressing.html)
-- Feb 27 - [The Elements of Scientific Style](https://worksinprogress.co/issue/the-elements-of-scientific-style)
-- Feb 27 - [Graph DBMSs need new join algorithms: Story of worst-case optimal joins](https://kuzudb.com/blog/wcoj.html)
-- Feb 27 - [Unit Testing PDF Generation](https://nibblestew.blogspot.com/2023/02/unit-testing-pdf-generation.html)
+- Feb 27 - [Keep your AI claims in check](https://www.ftc.gov/business-guidance/blog/2023/02/keep-your-ai-claims-check)
+- Feb 27 - [Linux-factory: A framework used to create custom Linux Debian operating systems](https://github.com/clayrisser/linux-factory)
+- Feb 27 - [Show HN: Former game devs building a platform showcasing game projects](https://projectgoobii.com/)
+- Feb 27 - [Using HDMI radio interference for high-speed data transfer](https://www.windytan.com/2023/02/using-hdmi-radio-interference-for-high.html)
+- Feb 27 - [Plutonium: The most dangerous substance known to man?](https://worksinprogress.co/issue/the-most-dangerous-substance-known-to-man)
 <!--END_SECTION:hn-->
 
 <!--
