@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 28 - [X12 (2013)](https://www.x.org/wiki/Development/X12/)
-- Feb 28 - [The widespread layoffs are more because of copycat behavior than cost-cutting](https://www.businessinsider.com/stanford-professor-mass-layoffs-caused-by-social-contagion-companies-imitating-2023-2)
-- Feb 28 - [pgvector: Open-source vector similarity search for Postgres](https://github.com/pgvector/pgvector)
-- Feb 28 - [FFmpeg 6.0](http://www.ffmpeg.org/download.html#release_6.0)
-- Feb 28 - [LastPass says DevOps engineer’s hacked computer led to security breach in 2022](https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/)
+- Feb 28 - [Laudspeaker (YC W21) hiring to build open source customer journey software](https://news.ycombinator.com/item?id=34968362)
+- Feb 28 - [World Building with GPT](https://ianbicking.org/blog/2023/02/world-building-with-gpt.html)
+- Feb 28 - [“Clean” Code, Horrible Performance – Casey Muratori [video]](https://www.youtube.com/watch?v=tD5NrevFtbU)
+- Feb 28 - [Finding a former Australian prime minister’s passport number on Instagram (2020)](https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram)
+- Feb 28 - [Where has all the Chartreuse gone?](https://www.everydaydrinking.com/p/where-has-all-the-chartreuse-gone)
 <!--END_SECTION:hn-->
 
 <!--
