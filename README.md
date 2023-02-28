@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 28 - [Laudspeaker (YC W21) hiring to build open source customer journey software](https://news.ycombinator.com/item?id=34968362)
-- Feb 28 - [World Building with GPT](https://ianbicking.org/blog/2023/02/world-building-with-gpt.html)
-- Feb 28 - [“Clean” Code, Horrible Performance – Casey Muratori [video]](https://www.youtube.com/watch?v=tD5NrevFtbU)
-- Feb 28 - [Finding a former Australian prime minister’s passport number on Instagram (2020)](https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram)
-- Feb 28 - [Where has all the Chartreuse gone?](https://www.everydaydrinking.com/p/where-has-all-the-chartreuse-gone)
+- Feb 28 - [Nvidia’s latest GPU drivers can upscale old blurry YouTube videos](https://www.theverge.com/2023/2/28/23618245/nvidia-rtx-video-super-resolution-upscale-videos-rtx-gpu)
+- Feb 28 - [Beating OpenAI CLIP with 100x less data and compute](https://www.unum.cloud/blog/2023-02-20-efficient-multimodality)
+- Feb 28 - [Microsoft somehow brings iMessage to Windows, will it last?](https://9to5mac.com/2023/02/28/microsoft-imessage-windows-support/)
+- Feb 28 - [AI Tool Reveals How Celebrities’ Faces Have Been Photoshopped](https://petapixel.com/2023/02/28/ai-tool-reveals-how-celebrities-faces-have-been-photoshopped/)
+- Feb 28 - [Rosenpass – formally verified post-quantum WireGuard](https://github.com/rosenpass/rosenpass)
 <!--END_SECTION:hn-->
 
 <!--
