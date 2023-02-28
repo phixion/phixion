@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 27 - [Keep your AI claims in check](https://www.ftc.gov/business-guidance/blog/2023/02/keep-your-ai-claims-check)
-- Feb 27 - [Linux-factory: A framework used to create custom Linux Debian operating systems](https://github.com/clayrisser/linux-factory)
-- Feb 27 - [Show HN: Former game devs building a platform showcasing game projects](https://projectgoobii.com/)
-- Feb 27 - [Using HDMI radio interference for high-speed data transfer](https://www.windytan.com/2023/02/using-hdmi-radio-interference-for-high.html)
-- Feb 27 - [Plutonium: The most dangerous substance known to man?](https://worksinprogress.co/issue/the-most-dangerous-substance-known-to-man)
+- Feb 28 - [LastPass says DevOps engineer’s hacked computer led to security breach in 2022](https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/)
+- Feb 28 - [The Lone Developer Problem](https://evanhahn.com/the-lone-developer-problem/)
+- Feb 28 - [I just wanted to see James Taylor – – I didn&#x27;t know it would cost me $5k](https://www.berkshireeagle.com/opinion/columnists/simon-winchester-james-taylor-tickets-secondary-ticket-market-five-thousand-dollars/article_628155f2-b471-11ed-8e17-c79bc3e262ff.html)
+- Feb 28 - [Vimium – The Hacker&#x27;s Browser](https://vimium.github.io/)
+- Feb 28 - [Firecracker internals: deep dive inside the technology powering AWS Lambda(2021)](https://www.talhoffman.com/2021/07/18/firecracker-internals/)
 <!--END_SECTION:hn-->
 
 <!--
