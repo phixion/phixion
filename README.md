@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 28 - [X12 (2013)](https://www.x.org/wiki/Development/X12/)
+- Feb 28 - [The widespread layoffs are more because of copycat behavior than cost-cutting](https://www.businessinsider.com/stanford-professor-mass-layoffs-caused-by-social-contagion-companies-imitating-2023-2)
+- Feb 28 - [pgvector: Open-source vector similarity search for Postgres](https://github.com/pgvector/pgvector)
+- Feb 28 - [FFmpeg 6.0](http://www.ffmpeg.org/download.html#release_6.0)
 - Feb 28 - [LastPass says DevOps engineer’s hacked computer led to security breach in 2022](https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/)
-- Feb 28 - [The Lone Developer Problem](https://evanhahn.com/the-lone-developer-problem/)
-- Feb 28 - [I just wanted to see James Taylor – – I didn&#x27;t know it would cost me $5k](https://www.berkshireeagle.com/opinion/columnists/simon-winchester-james-taylor-tickets-secondary-ticket-market-five-thousand-dollars/article_628155f2-b471-11ed-8e17-c79bc3e262ff.html)
-- Feb 28 - [Vimium – The Hacker&#x27;s Browser](https://vimium.github.io/)
-- Feb 28 - [Firecracker internals: deep dive inside the technology powering AWS Lambda(2021)](https://www.talhoffman.com/2021/07/18/firecracker-internals/)
 <!--END_SECTION:hn-->
 
 <!--
