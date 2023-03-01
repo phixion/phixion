@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 28 - [AMD ymm registers are rolling back](https://lkml.org/lkml/2023/2/22/33)
-- Feb 28 - [Apartment Rents Fall as Crush of New Supply Hits Market](https://www.wsj.com/articles/apartment-rents-fall-as-crush-of-new-supply-hits-market-2403c6ea)
-- Feb 28 - [Vodafone unveils prototype 5G network built on a Raspberry Pi computer](https://www.vodafone.com/news/technology/vodafone-unveils-prototype-5g-network-built-raspberry-pi-computer)
-- Feb 28 - [OneSignal (YC S11) Is Hiring Engineers to Work on Mobile Customer Engagement](https://onesignal.com/careers)
-- Feb 28 - [TCG TPM2.0 implementations vulnerable to memory corruption](https://kb.cert.org/vuls/id/782720)
+- Mar 01 - [Blog: KWOK: Kubernetes WithOut Kubelet](https://www.kubernetes.dev/blog/2023/03/01/introducing-kwok/)
+- Mar 01 - [How Duolingo reignited user growth](https://www.lennysnewsletter.com/p/how-duolingo-reignited-user-growth)
+- Mar 01 - [Indirect Prompt Injection on Bing Chat](https://greshake.github.io/)
+- Mar 01 - [Make JDK source code UTF-8](https://bugs.openjdk.org/browse/JDK-8301971)
+- Feb 28 - [AMD Zen2 ymm registers rolling back](https://lkml.org/lkml/2023/2/22/33)
 <!--END_SECTION:hn-->
 
 <!--
