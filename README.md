@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 01 - [BeeRef – a free opens-source simple reference image viewer](https://beeref.org/)
-- Mar 01 - [Qualcomm CEO says he’s expecting Apple to use its own modems in iPhones in 2024](https://www.cnbc.com/2023/03/01/qualcomm-ceo-says-planning-for-apple-to-make-own-iphone-modems-from-2024-.html)
-- Mar 01 - [Meta’s AR&#x2F;VR hardware roadmap for the next four years](https://www.theverge.com/2023/2/28/23619730/meta-vr-oculus-ar-glasses-smartwatch-plans)
-- Mar 01 - [EV startups from Lucid to Rivian see demand fade, supply chain issues linger](https://www.reuters.com/business/autos-transportation/ev-startups-lucid-rivian-see-demand-fade-supply-chain-issues-linger-2023-03-01/)
-- Mar 01 - [Godot 4.0 Stable](https://github.com/godotengine/godot/releases/tag/4.0-stable)
+- Mar 01 - [Nix journey part 0: Learning and reference materials](https://tinkering.xyz/nix-docs/)
+- Mar 01 - [Twilight of the Libraries: What Gets Lost When Books Go Off-Site and Online](https://thewalrus.ca/library-digitization/)
+- Mar 01 - [Crafting Interpreters](https://craftinginterpreters.com/)
+- Mar 01 - [You Cannot Have Exactly-Once Delivery](https://bravenewgeek.com/you-cannot-have-exactly-once-delivery/)
+- Mar 01 - [GNU poke: The extensible editor for structured binary data](https://jemarch.net/poke)
 <!--END_SECTION:hn-->
 
 <!--
