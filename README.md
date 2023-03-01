@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 01 - [US Pedestrian Death Rate Increased 9x Faster Than Population 2019 to 2022](https://usa.streetsblog.org/2023/02/28/report-us-pedestrian-death-rate-increased-9x-faster-than-population-during-covid/)
-- Mar 01 - [You Don&#x27;t Know Jax](https://colinraffel.com/blog/you-don-t-know-jax.html)
-- Mar 01 - [Ubuntu Is a Canonical Product](https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuCanonicalProduct)
-- Mar 01 - [KWOK: Kubernetes WithOut Kubelet](https://www.kubernetes.dev/blog/2023/03/01/introducing-kwok/)
-- Mar 01 - [What Amazon was thinking during the Comixology layoffs](https://www.comicsbeat.com/comixology-update-strange-doings-at-amazon/)
+- Mar 01 - [TrueVault Is Hiring Our Head of Engineering](https://www.ycombinator.com/companies/truevault/jobs/r9X5TLQ-head-of-engineering)
+- Mar 01 - [Bitwise Division](http://h14s.p5r.org/2023/02/bitwise-division.html)
+- Mar 01 - [Steel was already being used in Europe 2,900 years ago, shows study](https://phys.org/news/2023-02-steel-europe-years.html)
+- Mar 01 - [Daniel Stenberg and the home of curl in Stockholm, Sweden](https://hackerstations.com/setups/daniel_stenberg/)
+- Mar 01 - [You can watch Pluto TV in VLC, and the MPA considers this piracy](https://www.theverge.com/2023/2/28/23617624/pluto-tv-dmca-mpa-github-playlists)
 <!--END_SECTION:hn-->
 
 <!--
