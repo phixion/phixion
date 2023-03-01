@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 01 - [TrueVault Is Hiring Our Head of Engineering](https://www.ycombinator.com/companies/truevault/jobs/r9X5TLQ-head-of-engineering)
-- Mar 01 - [Bitwise Division](http://h14s.p5r.org/2023/02/bitwise-division.html)
-- Mar 01 - [Steel was already being used in Europe 2,900 years ago, shows study](https://phys.org/news/2023-02-steel-europe-years.html)
-- Mar 01 - [Daniel Stenberg and the home of curl in Stockholm, Sweden](https://hackerstations.com/setups/daniel_stenberg/)
-- Mar 01 - [You can watch Pluto TV in VLC, and the MPA considers this piracy](https://www.theverge.com/2023/2/28/23617624/pluto-tv-dmca-mpa-github-playlists)
+- Mar 01 - [BeeRef – a free opens-source simple reference image viewer](https://beeref.org/)
+- Mar 01 - [Qualcomm CEO says he’s expecting Apple to use its own modems in iPhones in 2024](https://www.cnbc.com/2023/03/01/qualcomm-ceo-says-planning-for-apple-to-make-own-iphone-modems-from-2024-.html)
+- Mar 01 - [Meta’s AR&#x2F;VR hardware roadmap for the next four years](https://www.theverge.com/2023/2/28/23619730/meta-vr-oculus-ar-glasses-smartwatch-plans)
+- Mar 01 - [EV startups from Lucid to Rivian see demand fade, supply chain issues linger](https://www.reuters.com/business/autos-transportation/ev-startups-lucid-rivian-see-demand-fade-supply-chain-issues-linger-2023-03-01/)
+- Mar 01 - [Godot 4.0 Stable](https://github.com/godotengine/godot/releases/tag/4.0-stable)
 <!--END_SECTION:hn-->
 
 <!--
