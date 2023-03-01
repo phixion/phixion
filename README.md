@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 28 - [The Weapons That Win World Wars](https://austinvernon.site/blog/peerwareconomics.html)
-- Feb 28 - [Generic dynamic array in 60 lines of C](https://gist.github.com/nicebyte/86bd1f119d3ff5c8da06bc2fd59ad668)
-- Feb 28 - [Safety Performance of the Waymo Driver at One Million Miles [pdf]](https://storage.googleapis.com/waymo-uploads/files/documents/safety/Safety%20Performance%20of%20Waymo%20RO%20at%201M%20miles.pdf)
-- Feb 28 - [Show HN: Briefsky – a free Dark Sky clone for multiple weather APIs](https://briefsky.app/)
-- Feb 28 - [Show HN: The largest collection of ChatGPT jailbreaks on the internet](https://www.jailbreakchat.com)
+- Feb 28 - [AMD ymm registers are rolling back](https://lkml.org/lkml/2023/2/22/33)
+- Feb 28 - [Apartment Rents Fall as Crush of New Supply Hits Market](https://www.wsj.com/articles/apartment-rents-fall-as-crush-of-new-supply-hits-market-2403c6ea)
+- Feb 28 - [Vodafone unveils prototype 5G network built on a Raspberry Pi computer](https://www.vodafone.com/news/technology/vodafone-unveils-prototype-5g-network-built-raspberry-pi-computer)
+- Feb 28 - [OneSignal (YC S11) Is Hiring Engineers to Work on Mobile Customer Engagement](https://onesignal.com/careers)
+- Feb 28 - [TCG TPM2.0 implementations vulnerable to memory corruption](https://kb.cert.org/vuls/id/782720)
 <!--END_SECTION:hn-->
 
 <!--
