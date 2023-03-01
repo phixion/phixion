@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 01 - [Blog: KWOK: Kubernetes WithOut Kubelet](https://www.kubernetes.dev/blog/2023/03/01/introducing-kwok/)
-- Mar 01 - [How Duolingo reignited user growth](https://www.lennysnewsletter.com/p/how-duolingo-reignited-user-growth)
-- Mar 01 - [Indirect Prompt Injection on Bing Chat](https://greshake.github.io/)
-- Mar 01 - [Make JDK source code UTF-8](https://bugs.openjdk.org/browse/JDK-8301971)
-- Feb 28 - [AMD Zen2 ymm registers rolling back](https://lkml.org/lkml/2023/2/22/33)
+- Mar 01 - [US Pedestrian Death Rate Increased 9x Faster Than Population 2019 to 2022](https://usa.streetsblog.org/2023/02/28/report-us-pedestrian-death-rate-increased-9x-faster-than-population-during-covid/)
+- Mar 01 - [You Don&#x27;t Know Jax](https://colinraffel.com/blog/you-don-t-know-jax.html)
+- Mar 01 - [Ubuntu Is a Canonical Product](https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuCanonicalProduct)
+- Mar 01 - [KWOK: Kubernetes WithOut Kubelet](https://www.kubernetes.dev/blog/2023/03/01/introducing-kwok/)
+- Mar 01 - [What Amazon was thinking during the Comixology layoffs](https://www.comicsbeat.com/comixology-update-strange-doings-at-amazon/)
 <!--END_SECTION:hn-->
 
 <!--
