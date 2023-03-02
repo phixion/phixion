@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 02 - [Don&#x27;t let Event-Driven Architecture buzzwords fool you](https://event-driven.io/en/dont_let_event_driven_architecture_buzzwords_fool_you/)
+- Mar 02 - [Honestly, It&#x27;s Probably the Phones](https://noahpinion.substack.com/p/honestly-its-probably-the-phones)
 - Mar 02 - [Finley (YC W21) is hiring a B2B&#x2F;fintech growth marketer](https://www.finleycms.com/careers/)
-- Mar 02 - [Oldest water on earth, in a Canadian mine](https://www.macleans.ca/society/science/this-geologist-found-the-oldest-water-on-earth-in-a-canadian-mine/)
-- Mar 02 - [Effortless Performance Improvements in C++: std:unordered_map](https://julien.jorge.st/posts/en/effortless-performance-improvements-in-cpp-std-unordered_map/)
-- Mar 02 - [Incident: Southwest B38M at Phoenix on Feb 24th 2023, no autopilot trim](https://avherald.com/h?article=505d0701)
-- Mar 02 - [U.S. Postal Service starts nationwide electric vehicle fleet, buying 9,250 EVs](https://www.cbsnews.com/news/u-s-postal-service-starts-nationwide-electric-vehicle-fleet-buying-9250-evs-and-thousands-of-charging-stations/)
+- Mar 02 - [Royal Astronomical Society: all journals to publish as open access from 2024](https://ras.ac.uk/news-and-press/news/royal-astronomical-society-announces-all-journals-publish-open-access-2024)
+- Mar 02 - [FreeBSD Home Audio Studio](https://vermaden.wordpress.com/2023/03/02/freebsd-home-audio-studio/)
 <!--END_SECTION:hn-->
 
 <!--
