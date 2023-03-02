@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 01 - [Nix journey part 0: Learning and reference materials](https://tinkering.xyz/nix-docs/)
-- Mar 01 - [Twilight of the Libraries: What Gets Lost When Books Go Off-Site and Online](https://thewalrus.ca/library-digitization/)
-- Mar 01 - [Crafting Interpreters](https://craftinginterpreters.com/)
-- Mar 01 - [You Cannot Have Exactly-Once Delivery](https://bravenewgeek.com/you-cannot-have-exactly-once-delivery/)
-- Mar 01 - [GNU poke: The extensible editor for structured binary data](https://jemarch.net/poke)
+- Mar 01 - [Raster CRT Typography (According to DEC)](https://www.masswerk.at/nowgobang/2019/dec-crt-typography)
+- Mar 01 - [Drop-in endpoint observability for Docker and K8s](https://www.akitasoftware.com/blog-posts/launching-akitas-open-beta)
+- Mar 01 - [Standard Notes](https://standardnotes.com)
+- Mar 01 - [Using Stable Diffusion techniques to create 2D game environments](https://talesofsyn.com/posts/creating-isometric-rpg-game-backgrounds)
+- Mar 01 - [Hacking with Style: TrueType VT220 Font](http://sensi.org/~svo/glasstty/)
 <!--END_SECTION:hn-->
 
 <!--
