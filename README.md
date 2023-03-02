@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 02 - [Millions of Americans nearing retirement age with no savings](https://www.cbsnews.com/news/millions-of-americans-nearing-retirement-age-no-savings/)
-- Mar 02 - [All you may need is HTML](https://fabiensanglard.net/html/index.html)
-- Mar 02 - [Deno: You don&#x27;t need a build step](https://deno.com/blog/you-dont-need-a-build-step)
-- Mar 02 - [The tech downturn seen through Hacker News comments](https://rinzewind.org/blog-en/2023/the-tech-downturn-seen-through-hacker-news-comments.html)
-- Mar 02 - [Germany opposes EU plans for client-side scanning](https://tutanota.com/blog/posts/germany-against-client-side-scanning-csam)
+- Mar 02 - [Launch HN: Buildt (YC W23) – Conversational semantic code search](https://news.ycombinator.com/item?id=35000562)
+- Mar 02 - [EleutherAI announces it has become a non-profit](https://blog.eleuther.ai/year-two-preface/)
+- Mar 02 - [BetterHelp Barred by FTC from Sharing Data with Facebook](https://www.bloomberg.com/news/articles/2023-03-02/teladoc-s-tdoc-betterhelp-online-therapy-unit-barred-from-data-sharing)
+- Mar 02 - [The Inverse Jim Cramer ETF Has Officially Arrived](https://www.nasdaq.com/articles/inverse-cramer-etf-is-coming-to-the-real-world)
+- Mar 02 - [Show HN: Mathesar – open-source collaborative UI for Postgres databases](https://github.com/centerofci/mathesar)
 <!--END_SECTION:hn-->
 
 <!--
