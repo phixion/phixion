@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 01 - [Raster CRT Typography (According to DEC)](https://www.masswerk.at/nowgobang/2019/dec-crt-typography)
-- Mar 01 - [Drop-in endpoint observability for Docker and K8s](https://www.akitasoftware.com/blog-posts/launching-akitas-open-beta)
-- Mar 01 - [Standard Notes](https://standardnotes.com)
-- Mar 01 - [Using Stable Diffusion techniques to create 2D game environments](https://talesofsyn.com/posts/creating-isometric-rpg-game-backgrounds)
-- Mar 01 - [Hacking with Style: TrueType VT220 Font](http://sensi.org/~svo/glasstty/)
+- Mar 02 - [U.S. Postal Service starts nationwide electric vehicle fleet, buying 9,250 EVs](https://www.cbsnews.com/news/u-s-postal-service-starts-nationwide-electric-vehicle-fleet-buying-9250-evs-and-thousands-of-charging-stations/)
+- Mar 02 - [Asteroid lost 1M kilograms after collision with DART spacecraft](https://www.nature.com/articles/d41586-023-00601-4)
+- Mar 02 - [Stanford researchers find only 3% of HTTP runs on port 80 [pdf]](https://lizizhikevich.github.io/assets/papers/lzr.pdf)
+- Mar 02 - [US-Japan team hails H2-boron plasma fusion breakthrough](https://www.rechargenews.com/energy-transition/100-000-years-of-power-us-japan-team-hails-h2-boron-plasma-fusion-breakthrough/2-1-1411318?zephr_sso_ott=QAIu08)
+- Mar 02 - [ARM vs. Intel on Amazon’s Cloud: A URL Parsing Benchmark](https://lemire.me/blog/2023/03/01/arm-vs-intel-on-amazons-cloud/)
 <!--END_SECTION:hn-->
 
 <!--
