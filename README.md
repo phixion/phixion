@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 03 - [Tesorio Is Hiring 100% Remote Senior PM and Senior DevOps](https://www.tesorio.com/careers#job-openings)
-- Mar 03 - [Ending Dependency Chaos: A Proposal for Comprehensive Function Versioning](https://github.com/davidbullado/blog/blob/main/we-need-a-new-versioning-notation.md)
-- Mar 03 - [Facebook LLAMA is being openly distributed via torrents](https://github.com/facebookresearch/llama/pull/73/files)
-- Mar 03 - [Accessing the RAM of a QEMU Emulated System from Another Process](https://blog.reds.ch/?p=1379)
-- Mar 03 - [Cucumber maintainer has been laid off](https://mattwynne.net/new-beginning)
+- Mar 03 - [Mullvad becomes highest level of Tor Member (Shallot)](https://mullvad.net/en/blog/2023/3/3/mullvad-becomes-highest-level-of-tor-member-shallot/)
+- Mar 03 - [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python)
+- Mar 03 - [Boeing Engineers Set a New Record for Paper Plane Distance](https://jalopnik.com/boeing-engineers-set-a-new-record-for-paper-plane-fligh-1850157043)
+- Mar 03 - [Demystifying bitwise operations, a gentle C tutorial](https://www.andreinc.net/2023/02/01/demystifying-bitwise-ops)
+- Mar 03 - [Belgium launches nationwide safe harbor for ethical hackers](https://portswigger.net/daily-swig/belgium-launches-nationwide-safe-harbor-for-ethical-hackers)
 <!--END_SECTION:hn-->
 
 <!--
