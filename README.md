@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 03 - [Redox OS – A Unix-Like Operating System Written in Rust](https://www.redox-os.org/)
-- Mar 03 - [Replika users fell in love with their AI chatbot companions. Then they lost them](https://www.abc.net.au/news/science/2023-03-01/replika-users-fell-in-love-with-their-ai-chatbot-companion/102028196)
-- Mar 03 - [Show HN: Practice Job Interview with ChatGPT API](https://practiceinterview.co)
-- Mar 03 - [Rethinking Splice()](https://lwn.net/Articles/923237/)
-- Mar 03 - [Initial V: A BMW shifter converted to a Bluetooth Keyboard for use with Vim](https://github.com/tenderlove/initial-v)
+- Mar 03 - [Why Python keeps growing, explained](https://github.blog/2023-03-02-why-python-keeps-growing-explained/)
+- Mar 03 - [It&#x27;s official: BlackLotus malware can bypass secure boot](https://www.theregister.com/2023/03/01/blacklotus_malware_eset/)
+- Mar 03 - [A &#x27;CSS reset&#x27; for TypeScript, improving types for common JavaScript API&#x27;s](https://github.com/total-typescript/ts-reset)
+- Mar 03 - [CGI Renders Are Real Photos (2017)](https://petapixel.com/2017/01/02/cgi-renders-actually-real-photos/)
+- Mar 03 - [Tiny Classifier Circuits: Evolving Accelerators for Tabular Data](https://arxiv.org/abs/2303.00031)
 <!--END_SECTION:hn-->
 
 <!--
