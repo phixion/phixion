@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 03 - [Mullvad becomes highest level of Tor Member (Shallot)](https://mullvad.net/en/blog/2023/3/3/mullvad-becomes-highest-level-of-tor-member-shallot/)
-- Mar 03 - [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python)
-- Mar 03 - [Boeing Engineers Set a New Record for Paper Plane Distance](https://jalopnik.com/boeing-engineers-set-a-new-record-for-paper-plane-fligh-1850157043)
-- Mar 03 - [Demystifying bitwise operations, a gentle C tutorial](https://www.andreinc.net/2023/02/01/demystifying-bitwise-ops)
-- Mar 03 - [Belgium launches nationwide safe harbor for ethical hackers](https://portswigger.net/daily-swig/belgium-launches-nationwide-safe-harbor-for-ethical-hackers)
+- Mar 03 - [Show HN: Zipslicer, a library for loading LLM checkpoints on consumer hardware](https://github.com/kir-gadjello/zipslicer)
+- Mar 03 - [Hacking the Nintendo DSi Browser](https://farlow.dev/2023/03/02/hacking-the-nintendo-dsi-browser)
+- Mar 03 - [GitHub Desktop 3.2: Preview your pull request](https://github.blog/2023-03-03-github-desktop-3-2-preview-your-pull-request/)
+- Mar 03 - [Self-replicating Python using ChatGPT](https://github.com/fullthom/chat-gpt-quine)
+- Mar 03 - [Live2D Is a Security Trainwreck](https://undeleted.ronsor.com/live2d-a-security-trainwreck/)
 <!--END_SECTION:hn-->
 
 <!--
