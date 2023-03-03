@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 03 - [Why Python keeps growing, explained](https://github.blog/2023-03-02-why-python-keeps-growing-explained/)
-- Mar 03 - [It&#x27;s official: BlackLotus malware can bypass secure boot](https://www.theregister.com/2023/03/01/blacklotus_malware_eset/)
-- Mar 03 - [A &#x27;CSS reset&#x27; for TypeScript, improving types for common JavaScript API&#x27;s](https://github.com/total-typescript/ts-reset)
-- Mar 03 - [CGI Renders Are Real Photos (2017)](https://petapixel.com/2017/01/02/cgi-renders-actually-real-photos/)
-- Mar 03 - [Tiny Classifier Circuits: Evolving Accelerators for Tabular Data](https://arxiv.org/abs/2303.00031)
+- Mar 03 - [Tesorio Is Hiring 100% Remote Senior PM and Senior DevOps](https://www.tesorio.com/careers#job-openings)
+- Mar 03 - [Ending Dependency Chaos: A Proposal for Comprehensive Function Versioning](https://github.com/davidbullado/blog/blob/main/we-need-a-new-versioning-notation.md)
+- Mar 03 - [Facebook LLAMA is being openly distributed via torrents](https://github.com/facebookresearch/llama/pull/73/files)
+- Mar 03 - [Accessing the RAM of a QEMU Emulated System from Another Process](https://blog.reds.ch/?p=1379)
+- Mar 03 - [Cucumber maintainer has been laid off](https://mattwynne.net/new-beginning)
 <!--END_SECTION:hn-->
 
 <!--
