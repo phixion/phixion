@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 03 - [AI teaches itself to use an API](https://twitter.com/DYtweetshere/status/1631349179934203904)
-- Mar 03 - [Architecting Asynchronous Schedulers](https://slightknack.dev/passerine/schedule/)
-- Mar 03 - [Amazon Buys One Medical](https://www.onemedical.com/mediacenter/one-medical-joins-amazon/)
-- Mar 03 - [What I Learned Reading 1k Investor Reports](https://collabfund.com/blog/i-read-1-000-investor-reports-last-year-heres-what-i-learned/)
-- Mar 03 - [Cool URIs Don&#x27;t Change](https://www.w3.org/Provider/Style/URI)
+- Mar 04 - [Please tell us what features you&#x27;d like in news.Y Combinator](https://news.ycombinator.com/item?id=363)
+- Mar 04 - [Roald Dahl ebooks remotely updated to censored versions after purchase](https://www.thetimes.co.uk/article/roald-dahl-collection-books-changes-text-puffin-uk-2023-rm2622vl0)
+- Mar 04 - [Could we make the web more immersive using a simple optical illusion?](https://shopify.github.io/spatial-commerce-projects/WonkaVision/)
+- Mar 04 - [California community colleges rely too much on part-time faculty; misspend funds](https://www.bakersfield.com/news/california-community-colleges-rely-too-much-on-part-time-faculty-and-misspend-funds-audit-finds/article_b7b5da7e-b93b-11ed-9e70-5fd006aad8d7.html)
+- Mar 03 - [20M digits of pi in 1 minute using Julia](https://gist.github.com/juliusgeo/41811563811a6e523086e514ef2bec4a)
 <!--END_SECTION:hn-->
 
 <!--
