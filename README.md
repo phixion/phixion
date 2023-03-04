@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 03 - [Show HN: Zipslicer, a library for loading LLM checkpoints on consumer hardware](https://github.com/kir-gadjello/zipslicer)
-- Mar 03 - [Hacking the Nintendo DSi Browser](https://farlow.dev/2023/03/02/hacking-the-nintendo-dsi-browser)
-- Mar 03 - [GitHub Desktop 3.2: Preview your pull request](https://github.blog/2023-03-03-github-desktop-3-2-preview-your-pull-request/)
-- Mar 03 - [Self-replicating Python using ChatGPT](https://github.com/fullthom/chat-gpt-quine)
-- Mar 03 - [Live2D Is a Security Trainwreck](https://undeleted.ronsor.com/live2d-a-security-trainwreck/)
+- Mar 03 - [AI teaches itself to use an API](https://twitter.com/DYtweetshere/status/1631349179934203904)
+- Mar 03 - [Architecting Asynchronous Schedulers](https://slightknack.dev/passerine/schedule/)
+- Mar 03 - [Amazon Buys One Medical](https://www.onemedical.com/mediacenter/one-medical-joins-amazon/)
+- Mar 03 - [What I Learned Reading 1k Investor Reports](https://collabfund.com/blog/i-read-1-000-investor-reports-last-year-heres-what-i-learned/)
+- Mar 03 - [Cool URIs Don&#x27;t Change](https://www.w3.org/Provider/Style/URI)
 <!--END_SECTION:hn-->
 
 <!--
