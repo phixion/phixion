@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 04 - [Lovd (YC W21) Is Hiring](https://www.ycombinator.com/companies/lovd/jobs/HpKwLWu-senior-fullstack-engineer-lovd-com)
-- Mar 04 - [Photographer Who Found IG Fame for His Portraits Has Confessed Images Were A.I.](https://news.artnet.com/art-world/fake-instagram-photography-ai-generated-joe-avery-2260674)
-- Mar 04 - [SecureDrop is evolving: We want to hear from you](https://securedrop.org/news/securedrop-is-evolving-we-want-to-hear-from-you/)
-- Mar 04 - [The Paratethys Sea Was the Largest Lake in Earth’s History](https://www.atlasobscura.com/articles/strange-maps-paratethys-sea)
-- Mar 04 - [Could we make the web more immersive using a simple optical illusion?](https://shopify.github.io/spatial-commerce-projects/WonkaVision/)
+- Mar 04 - [Drug Companies Can Legally Start Selling Cocaine, Heroin, and MDMA](https://www.vice.com/en/article/93k957/canada-bc-cocaine-sale)
+- Mar 04 - [Prompt to bypass the restrictions of Bing Chat or to restore the old “Sydney”](https://www.make-safe-ai.com/is-bing-chat-safe/)
+- Mar 04 - [Secret Service, ICE break the law over and over with fake cell tower spying](https://www.theregister.com/2023/03/04/dhs_secret_service_ice_stingray/)
+- Mar 04 - [Finding Java Thread Leaks with JDK Flight Recorder and a Bit of SQL](https://www.morling.dev/blog/finding-java-thread-leaks-with-jdk-flight-recorder-and-bit-of-sql/)
+- Mar 04 - [Show HN: Procal: A simple Qt-based programming calculator](https://github.com/fellerts/procal)
 <!--END_SECTION:hn-->
 
 <!--
