@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 04 - [Drug Companies Can Legally Start Selling Cocaine, Heroin, and MDMA](https://www.vice.com/en/article/93k957/canada-bc-cocaine-sale)
-- Mar 04 - [Prompt to bypass the restrictions of Bing Chat or to restore the old “Sydney”](https://www.make-safe-ai.com/is-bing-chat-safe/)
-- Mar 04 - [Secret Service, ICE break the law over and over with fake cell tower spying](https://www.theregister.com/2023/03/04/dhs_secret_service_ice_stingray/)
-- Mar 04 - [Finding Java Thread Leaks with JDK Flight Recorder and a Bit of SQL](https://www.morling.dev/blog/finding-java-thread-leaks-with-jdk-flight-recorder-and-bit-of-sql/)
-- Mar 04 - [Show HN: Procal: A simple Qt-based programming calculator](https://github.com/fellerts/procal)
+- Mar 04 - [AirPods Causing Tinnitus?](https://discussions.apple.com/thread/250886390)
+- Mar 04 - [Testing multiple Python versions with nox and pyenv](https://sethmlarson.dev/nox-pyenv-all-python-versions)
+- Mar 04 - [The Everything-Is-a-Quantum-Wave Interpretation of Quantum Physics](https://arxiv.org/abs/2303.00831)
+- Mar 04 - [Plan to incinerate soil from Ohio train derailment is ‘horrifying’, says expert](https://www.theguardian.com/us-news/2023/mar/04/east-ohio-train-derailment-soil)
+- Mar 04 - [2022 Letter](https://danwang.co/2022-letter/)
 <!--END_SECTION:hn-->
 
 <!--
