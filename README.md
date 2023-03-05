@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 05 - [Chinese banks cause alarm as capital flight measures intensify](https://www.asiamarkets.com/chinese-banks-cause-alarm-as-capital-flight-measures-intensify/)
-- Mar 05 - [Reducing code size in (Rust) librsvg by removing an unnecessary generic struct](https://viruta.org/reducing-binary-size-generics.html)
-- Mar 05 - [Can’t afford Bloomberg Terminal? No prob, I built the next best thing](https://github.com/OpenBB-finance/OpenBBTerminal)
-- Mar 05 - [One rail ticket for all cities in Germany – 49 euro per month](https://www.deutschland.de/en/topic/life/49-euro-ticket-deutschlandticket-for-buses-and-trains)
-- Mar 05 - [Nannou – An open-source creative-coding framework for Rust](https://nannou.cc/)
+- Mar 05 - [Brett Slatkin: Why am I building a new functional programming language?](https://www.onebigfluke.com/2023/03/a-new-functional-programming-language.html)
+- Mar 05 - [As Kenya’s crops fail, a fight over GMO](https://www.wired.com/story/kenya-gmo-approval/)
+- Mar 05 - [Toblerone to change design under ‘Swissness’ rules](https://www.theguardian.com/world/2023/mar/05/matterhorn-mountain-toblerone-packaging-design-switzerland)
+- Mar 05 - [AI to name your Java Classes](https://projects.haykranen.nl/java/)
+- Mar 05 - [Life is a game, this is your strategy guide (2014)](https://oliveremberton.com/2014/life-is-a-game-this-is-your-strategy-guide/)
 <!--END_SECTION:hn-->
 
 <!--
