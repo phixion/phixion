@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 05 - [Hector Martin: we care about fixing Linux problems on Asahi](https://social.treehouse.systems/@marcan/109966319008107138)
-- Mar 05 - [BioModels](https://www.ebi.ac.uk/biomodels/)
-- Mar 05 - [The incompatibility of open core and profit](https://bytesdataaction.substack.com/p/open-core-profit)
-- Mar 05 - [Fix Intel CPU Throttling on Linux](https://github.com/erpalma/throttled)
-- Mar 04 - [AI Won&#x27;t Cause Unemployment](https://pmarca.substack.com/p/why-ai-wont-cause-unemployment)
+- Mar 05 - [GQ.fyi (YC W21) Is Hiring Rails engineers to build GTP3 for customer research](https://www.ycombinator.com/companies/great-question/jobs/AokShrj-full-stack-rails-engineer)
+- Mar 05 - [Refurb weekend: Cobalt RaQ 2](http://oldvcr.blogspot.com/2023/03/refurb-weekend-cobalt-raq-2.html)
+- Mar 05 - [The Grex system will be permanently shut down](http://grex.org/)
+- Mar 05 - [Rogule: A dungeon a day keeps the Balrog away](https://rogule.com/)
+- Mar 05 - [3dfx: So powerful it’s kind of ridiculous](https://www.abortretry.fail/p/so-powerful-its-kind-of-ridiculous)
 <!--END_SECTION:hn-->
 
 <!--
