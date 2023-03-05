@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 05 - [Brett Slatkin: Why am I building a new functional programming language?](https://www.onebigfluke.com/2023/03/a-new-functional-programming-language.html)
-- Mar 05 - [As Kenya’s crops fail, a fight over GMO](https://www.wired.com/story/kenya-gmo-approval/)
-- Mar 05 - [Toblerone to change design under ‘Swissness’ rules](https://www.theguardian.com/world/2023/mar/05/matterhorn-mountain-toblerone-packaging-design-switzerland)
-- Mar 05 - [AI to name your Java Classes](https://projects.haykranen.nl/java/)
-- Mar 05 - [Life is a game, this is your strategy guide (2014)](https://oliveremberton.com/2014/life-is-a-game-this-is-your-strategy-guide/)
+- Mar 05 - [Safety and Soundness in Rust](https://jacko.io/safety_and_soundness.html)
+- Mar 05 - [ChatGPT broke the EU plan to regulate AI](https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/)
+- Mar 05 - [RailsCasts Retrospective Part 1: The Fuel](https://rbates.dev/railscasts-retrospective-part-1-the-fuel)
+- Mar 05 - [A Criticism of JavaScript Cryptography](https://blog.bren2010.io/blog/criticism-of-javascript-crypto)
+- Mar 05 - [Show HN: TuringJest – Pretend to be an AI and spot the real one](https://www.turingjest.app/)
 <!--END_SECTION:hn-->
 
 <!--
