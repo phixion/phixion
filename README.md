@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 04 - [AirPods Causing Tinnitus?](https://discussions.apple.com/thread/250886390)
-- Mar 04 - [Testing multiple Python versions with nox and pyenv](https://sethmlarson.dev/nox-pyenv-all-python-versions)
-- Mar 04 - [The Everything-Is-a-Quantum-Wave Interpretation of Quantum Physics](https://arxiv.org/abs/2303.00831)
-- Mar 04 - [Plan to incinerate soil from Ohio train derailment is ‘horrifying’, says expert](https://www.theguardian.com/us-news/2023/mar/04/east-ohio-train-derailment-soil)
-- Mar 04 - [2022 Letter](https://danwang.co/2022-letter/)
+- Mar 04 - [Why AI Won&#x27;t Cause Unemployment](https://pmarca.substack.com/p/why-ai-wont-cause-unemployment)
+- Mar 04 - [Learning to Summarize from Human Feedback](https://arxiv.org/abs/2009.01325)
+- Mar 04 - [Word-processor idiot (Japanese expression)](https://en.wiktionary.org/wiki/%E3%83%AF%E3%83%BC%E3%83%97%E3%83%AD%E9%A6%AC%E9%B9%BF)
+- Mar 04 - [Minimal, allocation-free OpenMetrics implementation for no-std&#x2F;embedded Rust](https://github.com/hawkw/tinymetrics)
+- Mar 04 - [Mux (YC W16) is looking for a BDR that&#x27;s reading Hacker News](https://www.mux.com/jobs)
 <!--END_SECTION:hn-->
 
 <!--
