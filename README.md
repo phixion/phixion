@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 05 - [Safety and Soundness in Rust](https://jacko.io/safety_and_soundness.html)
-- Mar 05 - [ChatGPT broke the EU plan to regulate AI](https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/)
-- Mar 05 - [RailsCasts Retrospective Part 1: The Fuel](https://rbates.dev/railscasts-retrospective-part-1-the-fuel)
-- Mar 05 - [A Criticism of JavaScript Cryptography](https://blog.bren2010.io/blog/criticism-of-javascript-crypto)
-- Mar 05 - [Show HN: TuringJest – Pretend to be an AI and spot the real one](https://www.turingjest.app/)
+- Mar 05 - [Can the West’s perplexing employment miracle continue?](https://www.economist.com/finance-and-economics/2023/03/05/can-the-wests-perplexing-employment-miracle-continue)
+- Mar 05 - [Van Gogh, AMD’s Steam Deck APU](https://chipsandcheese.com/2023/03/05/van-gogh-amds-steam-deck-apu/)
+- Mar 05 - [Ask HN: What is the best postmortem you&#x27;ve seen?](https://news.ycombinator.com/item?id=35034923)
+- Mar 05 - [Iran says suspected schoolgirl poisonings occurred in more than 50 schools](https://www.pbs.org/newshour/world/iran-says-suspected-schoolgirl-poisonings-occurred-in-more-than-50-schools)
+- Mar 05 - [Bun vs Node Benchmark - no one cares about speed as much as your CI does](https://grifel.dev/bun-dev-experience/)
 <!--END_SECTION:hn-->
 
 <!--
