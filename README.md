@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 06 - [Mr. Rodgers&#x27;s Neighborhood (2011)](http://www.nilerodgers.com/about/press/3-new-york-times-mr-rodgerss-neighborhood)
-- Mar 06 - [A Taxonomy of Public Writers](https://biblioracle.substack.com/p/a-taxonomy-of-public-writers)
-- Mar 06 - [The mission to discover if Jupiter’s moons support life](https://www.theguardian.com/science/2023/mar/05/could-jupiters-icy-moons-support-life)
-- Mar 06 - [The words you choose within an app are an essential part of its user experience](https://developer.apple.com/design/human-interface-guidelines/foundations/writing/)
-- Mar 06 - [The Smallest Hash Table](https://orlp.net/blog/worlds-smallest-hash-table/)
+- Mar 06 - [Google Search Is Dying](https://dkb.blog/p/google-search-is-dying)
+- Mar 06 - [I&#x27;m a Very Slow Thinker](https://sive.rs/slow)
+- Mar 06 - [How Brompton Bicycle uses Raspberry Pi technology to improve production [video]](https://www.youtube.com/watch?v=MBXYZ7vHmXw)
+- Mar 06 - [Nix-Powered Development with OCaml](https://dimitrije.website/posts/2023-03-04-nix-ocaml.html)
+- Mar 06 - [Researchers Use AI to Generate Images Based on People&#x27;s Brain Activity](https://www.vice.com/en/article/wxje8n/researchers-use-ai-to-generate-images-based-on-peoples-brain-activity)
 <!--END_SECTION:hn-->
 
 <!--
