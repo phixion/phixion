@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 06 - [Google Search Is Dying](https://dkb.blog/p/google-search-is-dying)
-- Mar 06 - [I&#x27;m a Very Slow Thinker](https://sive.rs/slow)
-- Mar 06 - [How Brompton Bicycle uses Raspberry Pi technology to improve production [video]](https://www.youtube.com/watch?v=MBXYZ7vHmXw)
-- Mar 06 - [Nix-Powered Development with OCaml](https://dimitrije.website/posts/2023-03-04-nix-ocaml.html)
-- Mar 06 - [Researchers Use AI to Generate Images Based on People&#x27;s Brain Activity](https://www.vice.com/en/article/wxje8n/researchers-use-ai-to-generate-images-based-on-peoples-brain-activity)
+- Mar 06 - [Show HN: Up to 100x Faster FastAPI with simdjson and io_uring on Linux 5.19](https://github.com/unum-cloud/ujrpc)
+- Mar 06 - [The perks workers want also make them more productive](https://fivethirtyeight.com/features/employee-perks-future-of-work/)
+- Mar 06 - [Hired’s 2023 State of Software Engineers [pdf]](https://pages.hired.email/rs/289-SIY-439/images/Hired_2023%20State%20of%20Software%20Engineers.pdf)
+- Mar 06 - [Basic terminology and practices related to graph databases and graph modeling](https://memgraph.com/docs/memgraph/tutorials/graph-modeling)
+- Mar 06 - [I spent a week without IPv4 to understand IPv6 transition mechanisms](https://www.apalrd.net/posts/2023/network_ipv6/)
 <!--END_SECTION:hn-->
 
 <!--
