@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 06 - [Show HN: Up to 100x Faster FastAPI with simdjson and io_uring on Linux 5.19](https://github.com/unum-cloud/ujrpc)
-- Mar 06 - [The perks workers want also make them more productive](https://fivethirtyeight.com/features/employee-perks-future-of-work/)
-- Mar 06 - [Hired’s 2023 State of Software Engineers [pdf]](https://pages.hired.email/rs/289-SIY-439/images/Hired_2023%20State%20of%20Software%20Engineers.pdf)
-- Mar 06 - [Basic terminology and practices related to graph databases and graph modeling](https://memgraph.com/docs/memgraph/tutorials/graph-modeling)
-- Mar 06 - [I spent a week without IPv4 to understand IPv6 transition mechanisms](https://www.apalrd.net/posts/2023/network_ipv6/)
+- Mar 06 - [Charter Boat Captains Don&#x27;t Have to Share Location with Government, Court Rules](https://reason.com/2023/03/06/charter-boat-captains-dont-have-to-share-their-location-data-with-the-government-court-rules/)
+- Mar 06 - [Pickup Trucks: From Workhorse to Joyride](https://www.axios.com/ford-pickup-trucks-history)
+- Mar 06 - [Show HN: Total.js – Low-code development (Node-RED alternative)](https://www.totaljs.com/flow/)
+- Mar 06 - [Bevy 0.10: data oriented game engine built in Rust](https://bevyengine.org/news/bevy-0-10/)
+- Mar 06 - [Rux: A JSX-inspired way to render view components in Ruby](https://github.com/camertron/rux)
 <!--END_SECTION:hn-->
 
 <!--
