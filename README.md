@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 07 - [Show HN: Hello World Java Polyglot](https://github.com/BurntMonkey/hello-graal)
+- Mar 07 - [Retail, search and Amazon’s $40B ‘advertising’ business](https://www.ben-evans.com/benedictevans/2023/3/6/ways-to-think-about-amazon-advertising)
+- Mar 07 - [Inconvenient EU piracy study kept hidden for years (2017)](https://www.ghacks.net/2017/09/22/inconvenient-eu-piracy-study-kept-hidden-for-years/)
 - Mar 07 - [Atlassian to shed 5 per cent of workers](https://www.abc.net.au/news/2023-03-07/atlassian-cuts-5-per-cent-of-work-force-tech-industry-layoffs/102062078)
 - Mar 07 - [Discord, or the Death of Lore](http://ascii.textfiles.com/archives/5509)
-- Mar 07 - [Microsoft Edge is getting a video upscaler to make blurry old videos look better](https://www.theverge.com/2023/3/6/23627080/microsoft-edge-video-upscaling-ai-super-resolution-vsr)
-- Mar 07 - [SafeButler (YC S17) Is Hiring Business Development](https://www.safebutler.com/careers)
-- Mar 07 - [Study finds mushrooms magnify memory by boosting nerve growth](https://medicalxpress.com/news/2023-02-mushrooms-magnify-memory-boosting-nerve.html)
 <!--END_SECTION:hn-->
 
 <!--
