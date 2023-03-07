@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 07 - [RustPython – A Python-3 (CPython &gt;= 3.11.0) Interpreter written in Rust](https://github.com/RustPython/RustPython)
-- Mar 07 - [No Lodash](https://thescottyjam.github.io/snap.js/#!/nolodash)
-- Mar 07 - [A Low Latency Guitar Effects Processor Suitable for Running on a Raspberry Pi](https://github.com/Quinny/GuitarEffects)
-- Mar 07 - [Boulder Dash](https://lutzroeder.github.io/digger/)
-- Mar 07 - [Pure Storage Teases 300 TB Ultra-Large NVMe SSD with Tentative 2026 Launch](https://wccftech.com/pure-storage-teases-monstrous-300-tb-ultra-large-capacity-nvme-ssd-with-a-tentative-2026-launch-date/)
+- Mar 07 - [The Death of Personality](https://bt.ht/death-of-personality/)
+- Mar 07 - [Engineering Manager vs. Product Manager: What&#x27;s the Difference?](https://blog.get-merit.com/engineering-manager-vs-product-manager-whats-the-difference/)
+- Mar 07 - [Remote Code Execution as a Service](https://earthly.dev/blog/remote-code-execution/)
+- Mar 07 - [Show HN: ChatGPT and Document Parser = Ghost](https://www.ghostextension.com/)
+- Mar 07 - [Mario Kart Tour Triggers You into Gambling Your Money](https://growth.design/case-studies/mario-kart-revenue-model)
 <!--END_SECTION:hn-->
 
 <!--
