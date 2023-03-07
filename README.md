@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 07 - [Toko (YC W22) Is Hiring a Founding Engineer to Teach English Using AI](https://www.ycombinator.com/companies/toko/jobs/hXNmmpi-founding-engineer)
-- Mar 07 - [Show HN: I built a better UI for ChatGPT](https://www.typingmind.com/)
-- Mar 07 - [Elementary schoolers prove EpiPens become toxic in space](https://www.livescience.com/elementary-schoolers-prove-epipens-become-fatally-toxic-in-space-something-nasa-never-knew)
-- Mar 07 - [The C++ Standard Library: The Fourth Edition includes C++23](http://modernescpp.com/index.php/the-c-standard-library-the-fourth-edition-includes-c-23)
-- Mar 07 - [On Hybrid Search with Qdrant](https://qdrant.tech/articles/hybrid-search/)
+- Mar 07 - [RustPython – A Python-3 (CPython &gt;= 3.11.0) Interpreter written in Rust](https://github.com/RustPython/RustPython)
+- Mar 07 - [No Lodash](https://thescottyjam.github.io/snap.js/#!/nolodash)
+- Mar 07 - [A Low Latency Guitar Effects Processor Suitable for Running on a Raspberry Pi](https://github.com/Quinny/GuitarEffects)
+- Mar 07 - [Boulder Dash](https://lutzroeder.github.io/digger/)
+- Mar 07 - [Pure Storage Teases 300 TB Ultra-Large NVMe SSD with Tentative 2026 Launch](https://wccftech.com/pure-storage-teases-monstrous-300-tb-ultra-large-capacity-nvme-ssd-with-a-tentative-2026-launch-date/)
 <!--END_SECTION:hn-->
 
 <!--
