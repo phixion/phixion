@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 07 - [Show HN: Hello World Java Polyglot](https://github.com/BurntMonkey/hello-graal)
-- Mar 07 - [Retail, search and Amazon’s $40B ‘advertising’ business](https://www.ben-evans.com/benedictevans/2023/3/6/ways-to-think-about-amazon-advertising)
-- Mar 07 - [Inconvenient EU piracy study kept hidden for years (2017)](https://www.ghacks.net/2017/09/22/inconvenient-eu-piracy-study-kept-hidden-for-years/)
-- Mar 07 - [Atlassian to shed 5 per cent of workers](https://www.abc.net.au/news/2023-03-07/atlassian-cuts-5-per-cent-of-work-force-tech-industry-layoffs/102062078)
-- Mar 07 - [Discord, or the Death of Lore](http://ascii.textfiles.com/archives/5509)
+- Mar 07 - [Toko (YC W22) Is Hiring a Founding Engineer to Teach English Using AI](https://www.ycombinator.com/companies/toko/jobs/hXNmmpi-founding-engineer)
+- Mar 07 - [Show HN: I built a better UI for ChatGPT](https://www.typingmind.com/)
+- Mar 07 - [Elementary schoolers prove EpiPens become toxic in space](https://www.livescience.com/elementary-schoolers-prove-epipens-become-fatally-toxic-in-space-something-nasa-never-knew)
+- Mar 07 - [The C++ Standard Library: The Fourth Edition includes C++23](http://modernescpp.com/index.php/the-c-standard-library-the-fourth-edition-includes-c-23)
+- Mar 07 - [On Hybrid Search with Qdrant](https://qdrant.tech/articles/hybrid-search/)
 <!--END_SECTION:hn-->
 
 <!--
