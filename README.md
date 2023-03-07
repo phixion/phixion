@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 06 - [Five ways to soothe a mind overstimulated by anxiety, stress and information](https://www.nytimes.com/2022/03/14/well/mind/stress-anxiety-mind.html)
-- Mar 06 - [Cross-Domain Thinking Drives Insights and Innovation](https://markmcneilly.substack.com/p/cross-domain-thinking-drives-insights)
-- Mar 06 - [What&#x27;s that smell? Detecting air quality with Python, Raspberry Pi, and Redis](https://2023.pythonwebconf.com/presentations/whats-that-smell-detecting-air-quality-with-python-raspberry-pi-and-redis)
-- Mar 06 - [Pedestrian Traffic Fatalities by State: 2022 Preliminary Data](https://www.ghsa.org/resources/Pedestrians23)
-- Mar 06 - [Europe&#x27;s big tech bill is coming to fruition](https://www.technologyreview.com/2023/03/06/1069391/safer-internet-dsa-dma-eu/)
+- Mar 07 - [Atlassian to shed 5 per cent of workers](https://www.abc.net.au/news/2023-03-07/atlassian-cuts-5-per-cent-of-work-force-tech-industry-layoffs/102062078)
+- Mar 07 - [Discord, or the Death of Lore](http://ascii.textfiles.com/archives/5509)
+- Mar 07 - [Microsoft Edge is getting a video upscaler to make blurry old videos look better](https://www.theverge.com/2023/3/6/23627080/microsoft-edge-video-upscaling-ai-super-resolution-vsr)
+- Mar 07 - [SafeButler (YC S17) Is Hiring Business Development](https://www.safebutler.com/careers)
+- Mar 07 - [Study finds mushrooms magnify memory by boosting nerve growth](https://medicalxpress.com/news/2023-02-mushrooms-magnify-memory-boosting-nerve.html)
 <!--END_SECTION:hn-->
 
 <!--
