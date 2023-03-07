@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 06 - [Charter Boat Captains Don&#x27;t Have to Share Location with Government, Court Rules](https://reason.com/2023/03/06/charter-boat-captains-dont-have-to-share-their-location-data-with-the-government-court-rules/)
-- Mar 06 - [Pickup Trucks: From Workhorse to Joyride](https://www.axios.com/ford-pickup-trucks-history)
-- Mar 06 - [Show HN: Total.js – Low-code development (Node-RED alternative)](https://www.totaljs.com/flow/)
-- Mar 06 - [Bevy 0.10: data oriented game engine built in Rust](https://bevyengine.org/news/bevy-0-10/)
-- Mar 06 - [Rux: A JSX-inspired way to render view components in Ruby](https://github.com/camertron/rux)
+- Mar 06 - [Five ways to soothe a mind overstimulated by anxiety, stress and information](https://www.nytimes.com/2022/03/14/well/mind/stress-anxiety-mind.html)
+- Mar 06 - [Cross-Domain Thinking Drives Insights and Innovation](https://markmcneilly.substack.com/p/cross-domain-thinking-drives-insights)
+- Mar 06 - [What&#x27;s that smell? Detecting air quality with Python, Raspberry Pi, and Redis](https://2023.pythonwebconf.com/presentations/whats-that-smell-detecting-air-quality-with-python-raspberry-pi-and-redis)
+- Mar 06 - [Pedestrian Traffic Fatalities by State: 2022 Preliminary Data](https://www.ghsa.org/resources/Pedestrians23)
+- Mar 06 - [Europe&#x27;s big tech bill is coming to fruition](https://www.technologyreview.com/2023/03/06/1069391/safer-internet-dsa-dma-eu/)
 <!--END_SECTION:hn-->
 
 <!--
