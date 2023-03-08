@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 07 - [Sued by Meta, Freenom halts domain registrations](https://krebsonsecurity.com/2023/03/sued-by-meta-freenom-halts-domain-registrations/)
-- Mar 07 - [ChatGPT Explained: A normie&#x27;s guide to how it works](https://www.jonstokes.com/p/chatgpt-explained-a-guide-for-normies)
-- Mar 07 - [Graduate students at the University of Southern California have won a union](https://jacobin.com/2023/03/university-of-southern-california-grad-student-workers-union-bargaining-demands-nlrb)
-- Mar 07 - [BlinderKitten: Free lighting software](http://blinderkitten.lighting)
-- Mar 07 - [Etleap (YC W13) Is Hiring](https://etleap.com/careers/software-engineer/)
+- Mar 08 - [R.L. Stine accuses publisher of censoring Goosebumps books without permission](https://www.nationalreview.com/news/r-l-stine-self-censoring-goosebumps-books-to-be-more-inclusive/)
+- Mar 08 - [Effective altruism’s obsession with AI safety helps bury bad behavior](https://www.bloomberg.com/news/features/2023-03-07/effective-altruism-s-problems-go-beyond-sam-bankman-fried)
+- Mar 08 - [How we deploy faster with warm Docker containers](https://dagster.io/blog/fast-deploys-with-pex-and-docker)
+- Mar 08 - [Jerry (YC S17) Is Hiring Sr PM &#x2F; Designers (SF&#x2F;Toronto&#x2F;Remote)](https://getjerry.com/careers)
+- Mar 07 - [HP have updated their printers to ban ‘non-HP’ cartridges](https://old.reddit.com/r/assholedesign/comments/11l4kne/hp_have_updated_their_printers_to_outright_ban/)
 <!--END_SECTION:hn-->
 
 <!--
