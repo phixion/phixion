@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 07 - [The Death of Personality](https://bt.ht/death-of-personality/)
-- Mar 07 - [Engineering Manager vs. Product Manager: What&#x27;s the Difference?](https://blog.get-merit.com/engineering-manager-vs-product-manager-whats-the-difference/)
-- Mar 07 - [Remote Code Execution as a Service](https://earthly.dev/blog/remote-code-execution/)
-- Mar 07 - [Show HN: ChatGPT and Document Parser = Ghost](https://www.ghostextension.com/)
-- Mar 07 - [Mario Kart Tour Triggers You into Gambling Your Money](https://growth.design/case-studies/mario-kart-revenue-model)
+- Mar 07 - [Sued by Meta, Freenom halts domain registrations](https://krebsonsecurity.com/2023/03/sued-by-meta-freenom-halts-domain-registrations/)
+- Mar 07 - [ChatGPT Explained: A normie&#x27;s guide to how it works](https://www.jonstokes.com/p/chatgpt-explained-a-guide-for-normies)
+- Mar 07 - [Graduate students at the University of Southern California have won a union](https://jacobin.com/2023/03/university-of-southern-california-grad-student-workers-union-bargaining-demands-nlrb)
+- Mar 07 - [BlinderKitten: Free lighting software](http://blinderkitten.lighting)
+- Mar 07 - [Etleap (YC W13) Is Hiring](https://etleap.com/careers/software-engineer/)
 <!--END_SECTION:hn-->
 
 <!--
