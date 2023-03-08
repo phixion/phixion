@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 08 - [R.L. Stine accuses publisher of censoring Goosebumps books without permission](https://www.nationalreview.com/news/r-l-stine-self-censoring-goosebumps-books-to-be-more-inclusive/)
-- Mar 08 - [Effective altruism’s obsession with AI safety helps bury bad behavior](https://www.bloomberg.com/news/features/2023-03-07/effective-altruism-s-problems-go-beyond-sam-bankman-fried)
-- Mar 08 - [How we deploy faster with warm Docker containers](https://dagster.io/blog/fast-deploys-with-pex-and-docker)
-- Mar 08 - [Jerry (YC S17) Is Hiring Sr PM &#x2F; Designers (SF&#x2F;Toronto&#x2F;Remote)](https://getjerry.com/careers)
-- Mar 07 - [HP have updated their printers to ban ‘non-HP’ cartridges](https://old.reddit.com/r/assholedesign/comments/11l4kne/hp_have_updated_their_printers_to_outright_ban/)
+- Mar 08 - [Initial support for guided disk encryption in OpenBSD installer](https://undeadly.org/cgi?action=article;sid=20230308063109)
+- Mar 08 - [Llama-CPU: Fork of Facebooks LLaMa model to run on CPU](https://github.com/markasoftware/llama-cpu)
+- Mar 08 - [Microsoft Designer](https://designer.microsoft.com/?hn)
+- Mar 08 - [Internet Archive gets DMCA exemption to help archive vintage software (2003)](https://archive.org/about/dmca.php)
+- Mar 08 - [Effective Altruism’s obsession with AI safety helps bury bad behavior](https://www.bloomberg.com/news/features/2023-03-07/effective-altruism-s-problems-go-beyond-sam-bankman-fried)
 <!--END_SECTION:hn-->
 
 <!--
