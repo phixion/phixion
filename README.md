@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 08 - [Show HN: Construct Animate – our new browser-based animation tool](https://www.construct.net/en/blogs/construct-official-blog-1/launching-construct-animate-1612)
-- Mar 08 - [ChatGPT-Linux-Assistant](https://github.com/rareranger/chatgpt-linux-assistant)
-- Mar 08 - [Appler: Apple ][ emulator for IBM PC, written in 8088 assembly](https://github.com/zajo/appler)
-- Mar 08 - [Initial support for guided disk encryption in OpenBSD installer](https://undeadly.org/cgi?action=article;sid=20230308063109)
-- Mar 08 - [Signal K – open-source universal marine data exchange format](https://signalk.org/)
+- Mar 08 - [Governments Should Compete for Residents, Not Businesses](https://www.bloomberg.com/opinion/articles/2023-03-07/amazon-hq2-pause-could-be-a-sign-of-a-new-era-for-development)
+- Mar 08 - [Launch HN: UpTrain (YC W23) – Open-source performance monitoring for ML models](https://news.ycombinator.com/item?id=35069839)
+- Mar 08 - [AI is making it easier to create more noise, when all I want is good search](https://rachsmith.com/i-want-good-search/)
+- Mar 08 - [The privacy loophole in your doorbell](https://www.politico.com/news/2023/03/07/privacy-loophole-ring-doorbell-00084979)
+- Mar 08 - [Vanilla OS 2.0 Shifting from Ubuntu Base to Debian Sid](https://www.phoronix.com/news/Vanilla-OS-2.0-Debian)
 <!--END_SECTION:hn-->
 
 <!--
