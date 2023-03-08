@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 08 - [Show HN: Construct Animate – our new browser-based animation tool](https://www.construct.net/en/blogs/construct-official-blog-1/launching-construct-animate-1612)
+- Mar 08 - [ChatGPT-Linux-Assistant](https://github.com/rareranger/chatgpt-linux-assistant)
+- Mar 08 - [Appler: Apple ][ emulator for IBM PC, written in 8088 assembly](https://github.com/zajo/appler)
 - Mar 08 - [Initial support for guided disk encryption in OpenBSD installer](https://undeadly.org/cgi?action=article;sid=20230308063109)
-- Mar 08 - [Llama-CPU: Fork of Facebooks LLaMa model to run on CPU](https://github.com/markasoftware/llama-cpu)
-- Mar 08 - [Microsoft Designer](https://designer.microsoft.com/?hn)
-- Mar 08 - [Internet Archive gets DMCA exemption to help archive vintage software (2003)](https://archive.org/about/dmca.php)
-- Mar 08 - [Effective Altruism’s obsession with AI safety helps bury bad behavior](https://www.bloomberg.com/news/features/2023-03-07/effective-altruism-s-problems-go-beyond-sam-bankman-fried)
+- Mar 08 - [Signal K – open-source universal marine data exchange format](https://signalk.org/)
 <!--END_SECTION:hn-->
 
 <!--
