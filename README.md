@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 09 - [Battery-free Game Boy](https://www.freethegameboy.info/)
-- Mar 09 - [Control Mario Kart 64 with your car over CAN bus (2016)](https://github.com/DanH42/CatchMeIfYouCAN)
-- Mar 09 - [8vdX (YC W22) Is Hiring](https://www.ycombinator.com/companies/8vdx/jobs/oKQSIyc-software-engineers-full-stack-front-end-back-end-developers)
-- Mar 09 - [Single File Elixir Scripts](https://fly.io/phoenix-files/single-file-elixir-scripts/)
-- Mar 09 - [Audio engineer explains NPR&#x27;s signature sound (2015)](https://current.org/2015/06/a-top-audio-engineer-explains-nprs-signature-sound/)
+- Mar 09 - [Memfault (YC W19) Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
+- Mar 09 - [The FBI Just Admitted It Bought US Location Data](https://www.wired.com/story/fbi-purchase-location-data-wray-senate/)
+- Mar 09 - [Leveraging Rust and the GPU to render user interfaces at 120 FPS](https://zed.dev/blog/videogame)
+- Mar 09 - [OpenXLA Is Available Now](https://opensource.googleblog.com/2023/03/openxla-is-ready-to-accelerate-and-simplify-ml-development.html)
+- Mar 09 - [Update to Kagi Search Pricing](https://blog.kagi.com/update-kagi-search-pricing)
 <!--END_SECTION:hn-->
 
 <!--
