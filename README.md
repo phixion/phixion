@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 09 - [Generally Intelligent (YC S17) Is Hiring Infrastructure Engineers](https://news.ycombinator.com/item?id=35080416)
-- Mar 09 - [Letter to Pixar President Ed Catmull [pdf] (2004)](http://alvyray.com/Pixar/documents/edfromalvy_2004.pdf)
-- Mar 09 - [The FBI Just Admitted It Bought US Location Data](https://www.wired.com/story/fbi-purchase-location-data-wray-senate/)
-- Mar 09 - [Leveraging Rust and the GPU to render user interfaces at 120 FPS](https://zed.dev/blog/videogame)
-- Mar 09 - [OpenXLA Is Available Now](https://opensource.googleblog.com/2023/03/openxla-is-ready-to-accelerate-and-simplify-ml-development.html)
+- Mar 09 - [Apple launches its new classical music streaming app for pre-order](https://techcrunch.com/2023/03/09/apple-launches-its-new-classical-music-streaming-app-for-pre-order/)
+- Mar 09 - [The End of the Beginning (2020)](https://stratechery.com/2020/the-end-of-the-beginning/)
+- Mar 09 - [Catholic group spent millions on app data that tracked gay priests](https://www.washingtonpost.com/dc-md-va/2023/03/09/catholics-gay-priests-grindr-data-bishops/)
+- Mar 09 - [The Quest for Netflix on Asahi Linux](https://www.da.vidbuchanan.co.uk/blog/netflix-on-asahi.html)
+- Mar 09 - [The 24 Hour “Do Nothing” Challenge](https://mattlakeman.org/2020/12/08/the-24-hour-do-nothing-challenge/)
 <!--END_SECTION:hn-->
 
 <!--
