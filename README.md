@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 08 - [Show HN: BBC “In Our Time”, categorised by Dewey Decimal, heavy lifting by GPT](https://genmon.github.io/braggoscope/)
-- Mar 08 - [Overhead of Python Asyncio Tasks](https://textual.textualize.io/blog/2023/03/08/overhead-of-python-asyncio-tasks/)
-- Mar 08 - [I broke a wine glass with my voice (2018) [video]](https://www.youtube.com/watch?v=Oc27GxSD_bI)
-- Mar 08 - [FTC bars GoodRx from sharing consumers’ sensitive health info for advertising](https://www.ftc.gov/news-events/news/press-releases/2023/02/ftc-enforcement-action-bar-goodrx-sharing-consumers-sensitive-health-info-advertising)
-- Mar 08 - [Show HN: CodeGPT.nvim – ChatGPT plugin for Neovim](https://github.com/dpayne/CodeGPT.nvim)
+- Mar 08 - [Disclosure: Supervisor security vulnerability](https://www.home-assistant.io/blog/2023/03/08/supervisor-security-disclosure/)
+- Mar 08 - [The Muse (YC W12) is hiring a director of FP&amp;A](https://www.themuse.com/jobs/themuse/director-financial-planning-analysis)
+- Mar 08 - [Effortless Performance Improvements in C++: std:vector](https://julien.jorge.st/posts/en/effortless-performance-improvements-in-cpp-std-vector/)
+- Mar 08 - [Full screen triangle optimization](https://30fps.net/pages/twotris/)
+- Mar 08 - [Lisp-powered laptop with a battery life measured in years](https://www.hackster.io/news/andreas-eriksen-s-potatop-is-a-lisp-powered-laptop-with-a-battery-life-measured-in-years-2f5d79653f24)
 <!--END_SECTION:hn-->
 
 <!--
