@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 08 - [Disclosure: Supervisor security vulnerability](https://www.home-assistant.io/blog/2023/03/08/supervisor-security-disclosure/)
-- Mar 08 - [The Muse (YC W12) is hiring a director of FP&amp;A](https://www.themuse.com/jobs/themuse/director-financial-planning-analysis)
-- Mar 08 - [Effortless Performance Improvements in C++: std:vector](https://julien.jorge.st/posts/en/effortless-performance-improvements-in-cpp-std-vector/)
-- Mar 08 - [Full screen triangle optimization](https://30fps.net/pages/twotris/)
-- Mar 08 - [Lisp-powered laptop with a battery life measured in years](https://www.hackster.io/news/andreas-eriksen-s-potatop-is-a-lisp-powered-laptop-with-a-battery-life-measured-in-years-2f5d79653f24)
+- Mar 09 - [Battery-free Game Boy](https://www.freethegameboy.info/)
+- Mar 09 - [Control Mario Kart 64 with your car over CAN bus (2016)](https://github.com/DanH42/CatchMeIfYouCAN)
+- Mar 09 - [8vdX (YC W22) Is Hiring](https://www.ycombinator.com/companies/8vdx/jobs/oKQSIyc-software-engineers-full-stack-front-end-back-end-developers)
+- Mar 09 - [Single File Elixir Scripts](https://fly.io/phoenix-files/single-file-elixir-scripts/)
+- Mar 09 - [Audio engineer explains NPR&#x27;s signature sound (2015)](https://current.org/2015/06/a-top-audio-engineer-explains-nprs-signature-sound/)
 <!--END_SECTION:hn-->
 
 <!--
