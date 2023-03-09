@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 09 - [Apple launches its new classical music streaming app for pre-order](https://techcrunch.com/2023/03/09/apple-launches-its-new-classical-music-streaming-app-for-pre-order/)
-- Mar 09 - [The End of the Beginning (2020)](https://stratechery.com/2020/the-end-of-the-beginning/)
-- Mar 09 - [Catholic group spent millions on app data that tracked gay priests](https://www.washingtonpost.com/dc-md-va/2023/03/09/catholics-gay-priests-grindr-data-bishops/)
-- Mar 09 - [The Quest for Netflix on Asahi Linux](https://www.da.vidbuchanan.co.uk/blog/netflix-on-asahi.html)
-- Mar 09 - [The 24 Hour “Do Nothing” Challenge](https://mattlakeman.org/2020/12/08/the-24-hour-do-nothing-challenge/)
+- Mar 09 - [European Lisp Symposium 2023](https://www.european-lisp-symposium.org/2023/)
+- Mar 09 - [Who’s Behind the NetWire Remote Access Trojan?](https://krebsonsecurity.com/2023/03/whos-behind-the-netwire-remote-access-trojan/)
+- Mar 09 - [I Am a Model and I Know That AI Will Eventually Take My Job (2020)](https://www.vogue.com/article/sinead-bovell-model-artificial-intelligence)
+- Mar 09 - [It’s Not What You Say, It’s How You Say It: Encrypted Messaging as a DOJ Weapon](https://grandjurytarget.com/2023/02/28/its-not-what-you-say-its-how-you-say-it-encrypted-messaging-as-a-doj-weapon/)
+- Mar 09 - [Taichi Lang](https://www.taichi-lang.org/)
 <!--END_SECTION:hn-->
 
 <!--
