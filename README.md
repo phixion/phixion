@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 09 - [Tesla puts a ‘dummy’ camera in its new vehicles](https://electrek.co/2023/03/09/tesla-dummy-camera-new-vehicles/)
-- Mar 09 - [$22B project to provide 8% of UK energy via undersea cable from North Africa](https://e360.yale.edu/features/africa-europe-solar-wind-power)
-- Mar 09 - [An Update on Dianna&#x27;s Health (Physics Girl) [video]](https://www.youtube.com/watch?v=vydgkCCXbTA)
-- Mar 09 - [VR Airplane Deicer Simulator](https://globalgroundsupport.com/vr-deicer-simulator/)
-- Mar 09 - [Cobble_stone (The Texture of Your Childhood)](https://github.com/Render96/Render96Wiki/wiki/cobble_stone-%28The-Texture-of-Your-Childhood%29)
+- Mar 10 - [Ask HN: What are you working on to become a better programmer?](https://news.ycombinator.com/item?id=35089996)
+- Mar 10 - [Google dusts off the failed Google+ playbook to fight ChatGPT](https://arstechnica.com/gadgets/2023/03/google-dusts-off-the-failed-google-playbook-to-fight-chatgpt/)
+- Mar 10 - [Yyvette&#x27;s Bridal](https://yvettesbridalformal.p1r8.net/)
+- Mar 10 - [ChatGPT Is Now Finding Bugs in Databases](https://celerdata.com/blog/chatgpt-is-now-finding-bugs-in-databases)
+- Mar 10 - [GPT-4 is coming next week – and it will be multimodal, says Microsoft Germany](https://www.heise.de/news/GPT-4-is-coming-next-week-and-it-will-be-multimodal-says-Microsoft-Germany-7540972.html)
 <!--END_SECTION:hn-->
 
 <!--
