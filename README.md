@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 09 - [European Lisp Symposium 2023](https://www.european-lisp-symposium.org/2023/)
-- Mar 09 - [Who’s Behind the NetWire Remote Access Trojan?](https://krebsonsecurity.com/2023/03/whos-behind-the-netwire-remote-access-trojan/)
-- Mar 09 - [I Am a Model and I Know That AI Will Eventually Take My Job (2020)](https://www.vogue.com/article/sinead-bovell-model-artificial-intelligence)
-- Mar 09 - [It’s Not What You Say, It’s How You Say It: Encrypted Messaging as a DOJ Weapon](https://grandjurytarget.com/2023/02/28/its-not-what-you-say-its-how-you-say-it-encrypted-messaging-as-a-doj-weapon/)
-- Mar 09 - [Taichi Lang](https://www.taichi-lang.org/)
+- Mar 09 - [Tesla puts a ‘dummy’ camera in its new vehicles](https://electrek.co/2023/03/09/tesla-dummy-camera-new-vehicles/)
+- Mar 09 - [$22B project to provide 8% of UK energy via undersea cable from North Africa](https://e360.yale.edu/features/africa-europe-solar-wind-power)
+- Mar 09 - [An Update on Dianna&#x27;s Health (Physics Girl) [video]](https://www.youtube.com/watch?v=vydgkCCXbTA)
+- Mar 09 - [VR Airplane Deicer Simulator](https://globalgroundsupport.com/vr-deicer-simulator/)
+- Mar 09 - [Cobble_stone (The Texture of Your Childhood)](https://github.com/Render96/Render96Wiki/wiki/cobble_stone-%28The-Texture-of-Your-Childhood%29)
 <!--END_SECTION:hn-->
 
 <!--
