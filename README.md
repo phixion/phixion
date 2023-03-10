@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 10 - [A rant on web font licenses](https://manuelmoreale.com/a-rant-on-web-font-licenses)
-- Mar 10 - [Privatizing Our Digital Identities](https://notes.volution.ro/v1/2023/03/remarks/6d51f70e/)
-- Mar 10 - [Smartphones and social media are destroying children’s mental health](https://www.ft.com/content/0e2f6f8e-bb03-4fa7-8864-f48f576167d2)
-- Mar 10 - [Telehealth startup Cerebral shared millions of patients’ data with advertisers](https://techcrunch.com/2023/03/10/cerebral-shared-millions-patient-data-advertisers/)
-- Mar 10 - [Mullvad&#x27;s campaign against EU chat control](https://mullvad.net/en/chatcontrol/campaign)
+- Mar 10 - [Shane Pitman, leader of the warez group Razor 1911: life after prison (2005)](https://defacto2.net/f/ab3914)
+- Mar 10 - [Microbiologist Investigates After Her Beef Soup Turned Blue in the Fridge](https://www.iflscience.com/microbiologist-investigates-after-her-beef-soup-turned-blue-in-the-freezer-67894)
+- Mar 10 - [GPT 4 coming next week](https://www.theinsaneapp.com/2023/03/microsoft-to-launch-gpt4-next-week.html)
+- Mar 10 - [Google, Meta hired talent to do &#x27;fake work&#x27;](https://fortune.com/2023/03/10/google-over-hired-talent-do-nothing-fake-work-stop-working-rivals-former-paypal-boss-keith-rabois/)
+- Mar 10 - [Evidence of a predictive coding hierarchy in the human brain listening to speech](https://www.nature.com/articles/s41562-022-01516-2)
 <!--END_SECTION:hn-->
 
 <!--
