@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 10 - [SPA view transitions land in Chrome 111](https://developer.chrome.com/blog/spa-view-transitions-land/)
-- Mar 10 - [OpenHV – Open-Source Pixelart Science-Fiction Real-Time-Strategy Game](https://www.openhv.net/)
-- Mar 10 - [Meticulous (YC S21) Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=35091322)
-- Mar 10 - [“Someday, we&#x27;re gonna feel pretty silly about our autocomplete worship”](https://pluralistic.net/2023/03/09/autocomplete-worshippers/#the-real-ai-was-the-corporations-that-we-fought-along-the-way)
-- Mar 10 - [Zig: The Modern Alternative to C](https://www.infoworld.com/article/3689648/meet-the-zig-programming-language.html)
+- Mar 10 - [More than $70B wiped off crypto market in 24 hours as BTC drops 8% below $20K](https://www.cnbc.com/2023/03/10/bitcoin-falls-below-20000-63-billion-wiped-off-cryptocurrency-market.html)
+- Mar 10 - [Is there anyone here making music?](https://news.ycombinator.com/item?id=35092674)
+- Mar 10 - [How to Start a Rocket Engine](https://everydayastronaut.com/how-to-start-a-rocket-engine/)
+- Mar 10 - [Curl 25 Years Online Celebration](https://daniel.haxx.se/blog/2023/03/10/curl-25-years-online-celebration/)
+- Mar 10 - [These Shapes Are Topologically Equivalent](https://twitter.com/finmoorhouse/status/1633903047934918656)
 <!--END_SECTION:hn-->
 
 <!--
