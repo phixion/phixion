@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Mar 11 - [HDB Financial Services - 1,658,750 breached accounts](https://haveibeenpwned.com/PwnedWebsites#HDBFinancialServices)
 - Mar 06 - [Eye4Fraud - 16,000,591 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Eye4Fraud)
 - Mar 06 - [iD Tech - 415,121 breached accounts](https://haveibeenpwned.com/PwnedWebsites#iDTech)
 - Mar 05 - [LBB - 39,288 breached accounts](https://haveibeenpwned.com/PwnedWebsites#LBB)
 - Mar 02 - [GunAuction.com - 565,470 breached accounts](https://haveibeenpwned.com/PwnedWebsites#GunAuction)
-- Feb 26 - [Convex - 150,129 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Convex)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 11 - [Circle has $3.3B of USDC’s $40B reserves still at SVB](https://twitter.com/circle/status/1634391505988206592)
-- Mar 11 - [Wells Fargo Clients Report Missing Deposits as Bank Works on Fix](https://www.thinkadvisor.com/2023/03/10/wells-fargo-clients-report-missing-deposits-as-bank-works-on-fix/)
-- Mar 11 - [Silicon Valley Bank&#x27;s Chief Risk Officer Joined 2 Months Ago](https://www.svb.com/news/company-news/svb-hires-kim-olson-as-chief-risk-officer)
-- Mar 11 - [SVB Depositors, Investors Tried to Pull $42B Thursday](https://www.bloomberg.com/news/articles/2023-03-11/svb-depositors-investors-tried-to-pull-42-billion-on-thursday)
-- Mar 11 - [First Republic Bank files 8-K – Tech only 4% of total deposits; no sector &gt;9%](https://ir.firstrepublic.com/static-files/295faa27-f208-4936-81ff-6c8bfa0fb6b5)
+- Mar 11 - [“Clean Code, Horrible Performance” Discussion](https://github.com/unclebob/cmuratori-discussion/blob/main/cleancodeqa.md)
+- Mar 11 - [A SVB short seller explains red flags he saw months ago](https://fortune.com/2023/03/10/silicon-valley-bank-short-seller-red-flags/)
+- Mar 11 - [Arnold Schwarzenegger’s Last Act](https://www.theatlantic.com/magazine/archive/2023/04/arnold-schwarzenegger-ukraine-covid-speech/673089/)
+- Mar 11 - [Coinbase suspending USDC:USD conversions over the weekend](https://twitter.com/coinbase/status/1634399032767307776)
+- Mar 11 - [$3.3B of the ~$40 billion of USDC reserves remain at SVB](https://twitter.com/circle/status/1634391505988206592)
 <!--END_SECTION:hn-->
 
 <!--
