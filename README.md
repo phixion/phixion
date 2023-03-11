@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 10 - [SF payroll firm Rippling unable to pay out after Silicon Valley Bank collapse](https://www.sfgate.com/tech/article/rippling-pay-silicon-valley-bank-17832441.php)
-- Mar 10 - [Roku says 26% of its cash reserves are stuck in Silicon Valley Bank](https://www.cnbc.com/2023/03/10/roku-says-26percent-cash-reserves-stuck-in-silicon-valley-bank.html)
-- Mar 10 - [$Roku filed a Form 8-K revealing that $487M stuck at SVB (25% of cash)](https://vikashruhil.medium.com/roku-filed-an-8-k-saying-that-of-its-1-9-dc03147d4d58)
-- Mar 10 - [Saving 4M Books from Landfill – Internet Archive Blogs](http://blog.archive.org/2023/03/08/saving-4-million-books-from-landfill/)
-- Mar 10 - [Emergency credit line for SVB customers](https://www.brex.com/svb-emergency-line)
+- Mar 11 - [Circle has $3.3B of USDC’s $40B reserves still at SVB](https://twitter.com/circle/status/1634391505988206592)
+- Mar 11 - [Wells Fargo Clients Report Missing Deposits as Bank Works on Fix](https://www.thinkadvisor.com/2023/03/10/wells-fargo-clients-report-missing-deposits-as-bank-works-on-fix/)
+- Mar 11 - [Silicon Valley Bank&#x27;s Chief Risk Officer Joined 2 Months Ago](https://www.svb.com/news/company-news/svb-hires-kim-olson-as-chief-risk-officer)
+- Mar 11 - [SVB Depositors, Investors Tried to Pull $42B Thursday](https://www.bloomberg.com/news/articles/2023-03-11/svb-depositors-investors-tried-to-pull-42-billion-on-thursday)
+- Mar 11 - [First Republic Bank files 8-K – Tech only 4% of total deposits; no sector &gt;9%](https://ir.firstrepublic.com/static-files/295faa27-f208-4936-81ff-6c8bfa0fb6b5)
 <!--END_SECTION:hn-->
 
 <!--
