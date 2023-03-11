@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 11 - [Bill Ackman: The gov&#x27;t has about 48h to fix a-soon-to-be-irreversible mistake](https://twitter.com/BillAckman/status/1634564398919368704)
-- Mar 11 - [Permanent daylight saving time? Where efforts to ‘lock the clocks’ stand](https://thehill.com/homenews/nexstar_media_wire/3886702-permanent-daylight-saving-time-where-efforts-to-lock-the-clocks-stand/)
-- Mar 11 - [Write Posix Shell](https://j3s.sh/thought/write-posix-shell.html)
-- Mar 11 - [SVB chief pressed lawmakers to weaken bank risk regulations](https://www.levernews.com/svb-chief-pressed-lawmakers-to-weaken-bank-risk-regs/)
-- Mar 11 - [The Coffeeshop Fallacy (2011)](https://web.archive.org/web/20160304085903/http://thestartuptoolkit.com/blog/2011/10/the_coffeeshop_fallacy/)
+- Mar 11 - [On mindsets, mind shifts and wins](https://davestewart.co.uk/blog/mind-shifts-and-wins/)
+- Mar 11 - [Not just SVB. There have been 562 bank failures since 2000](https://yarn.pranshum.com/banks)
+- Mar 11 - [Etsy Delays Seller Payouts Due to Run on Silicon Valley Bank](https://www.ecommercebytes.com/C/abblog/blog.pl?/pl/2023/3/1678509907.html)
+- Mar 11 - [Map of an Insect’s Brain](https://www.smithsonianmag.com/smart-news/see-the-first-complete-map-of-an-insects-brain-180981778/)
+- Mar 11 - [Wild macaques challenge the origin of intentional tool production](https://www.science.org/doi/10.1126/sciadv.ade8159)
 <!--END_SECTION:hn-->
 
 <!--
