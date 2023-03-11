@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 11 - [Paperspace (YC W15) is hiring to help developers build and run LLMs](https://www.paperspace.com/careers/positions?gh_src=652ffa365us)
-- Mar 11 - [Box64 – Linux Userspace x86_64 Emulator Targeted at ARM64 Linux Devices](https://github.com/ptitSeb/box64)
-- Mar 11 - [SVBUK Taken in to Involvency](https://www.bankofengland.co.uk/news/2023/march/boe-statement-silicon-valley-bank-uk)
-- Mar 11 - [HP laptop can&#x27;t connect to WiFi with letter &#x27;p&#x27; in the password](https://h30434.www3.hp.com/t5/Notebook-Software-and-How-To-Questions/P-button-in-WiFi-password-not-working-Win10/m-p/6722692#M246918)
-- Mar 11 - [A man says he accidentally unlocked and drove someone else’s Tesla using the app](https://globalnews.ca/news/9541040/bc-tesla-driving-wrong-car-app/)
+- Mar 11 - [Bill Ackman: The gov&#x27;t has about 48h to fix a-soon-to-be-irreversible mistake](https://twitter.com/BillAckman/status/1634564398919368704)
+- Mar 11 - [Permanent daylight saving time? Where efforts to ‘lock the clocks’ stand](https://thehill.com/homenews/nexstar_media_wire/3886702-permanent-daylight-saving-time-where-efforts-to-lock-the-clocks-stand/)
+- Mar 11 - [Write Posix Shell](https://j3s.sh/thought/write-posix-shell.html)
+- Mar 11 - [SVB chief pressed lawmakers to weaken bank risk regulations](https://www.levernews.com/svb-chief-pressed-lawmakers-to-weaken-bank-risk-regs/)
+- Mar 11 - [The Coffeeshop Fallacy (2011)](https://web.archive.org/web/20160304085903/http://thestartuptoolkit.com/blog/2011/10/the_coffeeshop_fallacy/)
 <!--END_SECTION:hn-->
 
 <!--
