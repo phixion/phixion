@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 12 - [FDIC – SVB FAQ](https://www.fdic.gov/resources/resolutions/bank-failures/failed-bank-list/silicon-valley.html)
-- Mar 12 - [SVB lobbied the government to relax some Dodd-Frank provisions](https://fortune.com/2023/03/11/silicon-valley-bank-svb-ceo-greg-becker-dodd-frank-trump-rollback-systemically-important-fdic/)
-- Mar 12 - [Ask HN: V2 – Laid off folks, are you getting hired yet?](https://news.ycombinator.com/item?id=35115862)
-- Mar 12 - [Mechanical aircraft weight and balance computer using whippletrees](https://www.airwaysmuseum.com/Librascope.htm)
-- Mar 12 - [Ask HN: More magazines like Quanta and Noema?](https://news.ycombinator.com/item?id=35114679)
+- Mar 12 - [SVB Securities Management Exploring Buying Firm Back](https://www.bloomberg.com/news/articles/2023-03-12/svb-securities-management-exploring-buying-firm-back)
+- Mar 12 - [Tether USDT is trading at $1.01](https://coinmarketcap.com/currencies/tether/)
+- Mar 12 - [Google over-hired talent to do ‘fake work’, claims Keith Rabois](https://finance.yahoo.com/news/google-over-hired-talent-fake-114331193.html)
+- Mar 12 - [Show HN: Hacker News LCD Badge](https://github.com/jareklupinski/hackernews-badge)
+- Mar 12 - [The rise and fall of Birchbox, the startup valued at nearly $500M has vanished](https://www.businessinsider.com/birchbox-rise-fall-company-history-2023-3)
 <!--END_SECTION:hn-->
 
 <!--
