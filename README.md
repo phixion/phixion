@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 12 - [SVB Securities Management Exploring Buying Firm Back](https://www.bloomberg.com/news/articles/2023-03-12/svb-securities-management-exploring-buying-firm-back)
-- Mar 12 - [Tether USDT is trading at $1.01](https://coinmarketcap.com/currencies/tether/)
-- Mar 12 - [Google over-hired talent to do ‘fake work’, claims Keith Rabois](https://finance.yahoo.com/news/google-over-hired-talent-fake-114331193.html)
-- Mar 12 - [Show HN: Hacker News LCD Badge](https://github.com/jareklupinski/hackernews-badge)
-- Mar 12 - [The rise and fall of Birchbox, the startup valued at nearly $500M has vanished](https://www.businessinsider.com/birchbox-rise-fall-company-history-2023-3)
+- Mar 12 - [Ask HN: How to Classify Websites?](https://news.ycombinator.com/item?id=35118831)
+- Mar 12 - [Scrcpy 2.0, with Audio](https://blog.rom1v.com/2023/03/scrcpy-2-0-with-audio/)
+- Mar 12 - [Punctuation Matters: How to use the en dash, em dash and hyphen](https://www.punctuationmatters.com/en-dash-em-dash-hyphen/)
+- Mar 12 - [Meta Rediscovers the Cubicle](https://calnewport.com/meta-rediscovers-the-cubicle/)
+- Mar 12 - [Fabergé Egg](https://en.wikipedia.org/wiki/Faberg%C3%A9_egg)
 <!--END_SECTION:hn-->
 
 <!--
