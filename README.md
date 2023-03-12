@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 12 - [Ask HN: How to Classify Websites?](https://news.ycombinator.com/item?id=35118831)
-- Mar 12 - [Scrcpy 2.0, with Audio](https://blog.rom1v.com/2023/03/scrcpy-2-0-with-audio/)
-- Mar 12 - [Punctuation Matters: How to use the en dash, em dash and hyphen](https://www.punctuationmatters.com/en-dash-em-dash-hyphen/)
-- Mar 12 - [Meta Rediscovers the Cubicle](https://calnewport.com/meta-rediscovers-the-cubicle/)
-- Mar 12 - [Fabergé Egg](https://en.wikipedia.org/wiki/Faberg%C3%A9_egg)
+- Mar 12 - [Automatic Image Mining](https://blog.qwertyforce.dev/posts/automatic_image_mining)
+- Mar 12 - [Ask HN: Do you think ML model weights are copyrightable?](https://news.ycombinator.com/item?id=35121093)
+- Mar 12 - [Ask HN: Why is the hunger for RAM never satisfied?](https://news.ycombinator.com/item?id=35121012)
+- Mar 12 - [Stanford President and Law-School Dean Apologize to Judge Duncan](https://www.nationalreview.com/bench-memos/stanford-president-and-law-school-dean-apologize-to-judge-duncan/)
+- Mar 12 - [Silicon Valley Bank Tanked, Dragging Down 500 Israeli Startups](https://www.jewishpress.com/news/israel/silicon-valley-bank-tanked-dragging-down-500-israeli-startups/2023/03/10/)
 <!--END_SECTION:hn-->
 
 <!--
