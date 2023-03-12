@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 12 - [Automatic Image Mining](https://blog.qwertyforce.dev/posts/automatic_image_mining)
-- Mar 12 - [Ask HN: Do you think ML model weights are copyrightable?](https://news.ycombinator.com/item?id=35121093)
-- Mar 12 - [Ask HN: Why is the hunger for RAM never satisfied?](https://news.ycombinator.com/item?id=35121012)
-- Mar 12 - [Stanford President and Law-School Dean Apologize to Judge Duncan](https://www.nationalreview.com/bench-memos/stanford-president-and-law-school-dean-apologize-to-judge-duncan/)
-- Mar 12 - [Silicon Valley Bank Tanked, Dragging Down 500 Israeli Startups](https://www.jewishpress.com/news/israel/silicon-valley-bank-tanked-dragging-down-500-israeli-startups/2023/03/10/)
+- Mar 12 - [Credit Unions](https://en.wikipedia.org/wiki/Credit_union)
+- Mar 12 - [Fed and FDIC discussing backstop to make SVB depositors whole, stem contagion](https://www.cnbc.com/2023/03/12/fed-fdic-discussing-backstop-to-make-svb-depositors-whole-and-stem-contagion-fears-source.html)
+- Mar 12 - [Why So Many Elites Feel Like Losers](https://www.persuasion.community/p/why-so-many-elites-feel-like-losers)
+- Mar 12 - [Nushell.sh ls | where size &gt; 10mb | sort-by modified](https://www.nushell.sh/)
+- Mar 12 - [Reverse-engineering the register codes for the 8086 processor&#x27;s microcode](http://www.righto.com/2023/03/8086-register-codes.html)
 <!--END_SECTION:hn-->
 
 <!--
