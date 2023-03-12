@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 11 - [Urgent: Sign the petition now](https://www.ycombinator.com/blog/urgent-sign-the-petition-now-thousands-of-startups-and-hundreds-of-thousands-of-startup-jobs-are-at-risk/)
-- Mar 11 - [Status page for SVB payment systems](https://www.moderntreasury.com/svb-resource-center)
-- Mar 11 - [OldLinux: Ancient Linux Resources](http://www.oldlinux.org/)
-- Mar 11 - [Reflections on a Decade of Coding](https://www.scattered-thoughts.net/writing/reflections-on-a-decade-of-coding/)
-- Mar 11 - [An Update on USDC and Silicon Valley Bank](https://www.circle.com/blog/an-update-on-usdc-and-silicon-valley-bank)
+- Mar 12 - [FDIC – SVB FAQ](https://www.fdic.gov/resources/resolutions/bank-failures/failed-bank-list/silicon-valley.html)
+- Mar 12 - [SVB lobbied the government to relax some Dodd-Frank provisions](https://fortune.com/2023/03/11/silicon-valley-bank-svb-ceo-greg-becker-dodd-frank-trump-rollback-systemically-important-fdic/)
+- Mar 12 - [Ask HN: V2 – Laid off folks, are you getting hired yet?](https://news.ycombinator.com/item?id=35115862)
+- Mar 12 - [Mechanical aircraft weight and balance computer using whippletrees](https://www.airwaysmuseum.com/Librascope.htm)
+- Mar 12 - [Ask HN: More magazines like Quanta and Noema?](https://news.ycombinator.com/item?id=35114679)
 <!--END_SECTION:hn-->
 
 <!--
