@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 11 - [On mindsets, mind shifts and wins](https://davestewart.co.uk/blog/mind-shifts-and-wins/)
-- Mar 11 - [Not just SVB. There have been 562 bank failures since 2000](https://yarn.pranshum.com/banks)
-- Mar 11 - [Etsy Delays Seller Payouts Due to Run on Silicon Valley Bank](https://www.ecommercebytes.com/C/abblog/blog.pl?/pl/2023/3/1678509907.html)
-- Mar 11 - [Map of an Insect’s Brain](https://www.smithsonianmag.com/smart-news/see-the-first-complete-map-of-an-insects-brain-180981778/)
-- Mar 11 - [Wild macaques challenge the origin of intentional tool production](https://www.science.org/doi/10.1126/sciadv.ade8159)
+- Mar 11 - [Urgent: Sign the petition now](https://www.ycombinator.com/blog/urgent-sign-the-petition-now-thousands-of-startups-and-hundreds-of-thousands-of-startup-jobs-are-at-risk/)
+- Mar 11 - [Status page for SVB payment systems](https://www.moderntreasury.com/svb-resource-center)
+- Mar 11 - [OldLinux: Ancient Linux Resources](http://www.oldlinux.org/)
+- Mar 11 - [Reflections on a Decade of Coding](https://www.scattered-thoughts.net/writing/reflections-on-a-decade-of-coding/)
+- Mar 11 - [An Update on USDC and Silicon Valley Bank](https://www.circle.com/blog/an-update-on-usdc-and-silicon-valley-bank)
 <!--END_SECTION:hn-->
 
 <!--
