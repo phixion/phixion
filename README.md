@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 12 - [Credit Unions](https://en.wikipedia.org/wiki/Credit_union)
-- Mar 12 - [Fed and FDIC discussing backstop to make SVB depositors whole, stem contagion](https://www.cnbc.com/2023/03/12/fed-fdic-discussing-backstop-to-make-svb-depositors-whole-and-stem-contagion-fears-source.html)
-- Mar 12 - [Why So Many Elites Feel Like Losers](https://www.persuasion.community/p/why-so-many-elites-feel-like-losers)
-- Mar 12 - [Nushell.sh ls | where size &gt; 10mb | sort-by modified](https://www.nushell.sh/)
-- Mar 12 - [Reverse-engineering the register codes for the 8086 processor&#x27;s microcode](http://www.righto.com/2023/03/8086-register-codes.html)
+- Mar 12 - [Why did 250k Britons die sooner than expected?](https://www.economist.com/interactive/britain/2023/03/09/why-did-250000-britons-die-sooner-than-expected)
+- Mar 12 - [US Says All SVB Deposits Safe, Creates New Backstop for Banks](https://www.bloomberg.com/news/articles/2023-03-12/us-moves-to-help-depositors-offer-bank-backstop-in-wake-of-svb)
+- Mar 12 - [PR to Change the LLaMA Models&#x27; Licence to Apache 2.0](https://github.com/facebookresearch/llama/pull/184)
+- Mar 12 - [Regulators Close New York’s Signature Bank](https://www.cnbc.com/2023/03/12/regulators-close-new-yorks-signature-bank-citing-systemic-risk.html)
+- Mar 12 - [Joint Statement by the Department of the Treasury, Federal Reserve, and FDIC](https://home.treasury.gov/news/press-releases/jy1337)
 <!--END_SECTION:hn-->
 
 <!--
