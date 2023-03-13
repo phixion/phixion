@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 13 - [Tim Cook bets on Apple’s mixed-reality headset to secure his legacy](https://www.ft.com/content/86b99549-0648-4c23-ab6e-642a4ba51dff)
-- Mar 13 - [Audiophile forum debating which versions of memcpy had the highest sound quality](https://discuss.systems/@dan/110008052977994607)
-- Mar 13 - [SVB&#x27;s programmatic payment systems are back online](https://news.ycombinator.com/item?id=35136915)
-- Mar 13 - [Launch HN: Pynecone (YC W23) – Web Apps in Pure Python](https://news.ycombinator.com/item?id=35136827)
-- Mar 13 - [British industry calls for regulation of autonomous vehicles](https://www.theregister.com/2023/03/13/uk_industry_calls_for_autonomous/)
+- Mar 13 - [Show HN: Django Developers – Reverse Job Board for Django Developers](https://builtwithdjango.com/developers/)
+- Mar 13 - [Apple’s new challenge: a wave of key executives leaving the company](https://economictimes.indiatimes.com/tech/technology/apples-new-challenge-a-wave-of-key-executives-leaving-the-company/articleshow/98586618.cms)
+- Mar 13 - [Swedish pension giant loses $1.1 billion from US banks’ collapse](https://www.thelocal.se/20230313/swedish-pension-giant-loses-12-billion-kronor-from-us-banks-collapse)
+- Mar 13 - [Losing Signal](https://ploum.net/2023-03-09-losing-signal.html)
+- Mar 13 - [Alpaca: An Instruct Tuned LLaMA 7B – Responses on par with txt-DaVinci-3](https://crfm.stanford.edu/alpaca/)
 <!--END_SECTION:hn-->
 
 <!--
