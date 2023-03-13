@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 13 - [When did SVB insiders begin to realize they were in trouble?](https://nongaap.substack.com/p/sivb-held-to-mortem-governance)
-- Mar 13 - [Viable superconducting material created in Rochester lab](https://www.rochester.edu/newscenter/highest-temperature-superconducting-materials-metals-reddmatter-551382/)
-- Mar 13 - [Believe it or not, the Amish are loving electric bikes](https://electrek.co/2023/03/12/believe-it-or-not-the-amish-are-loving-electric-bikes/)
-- Mar 13 - [FDIC Establishes Signature Bridge Bank, N.A., As Successor to Signature Bank](https://www.fdic.gov/news/press-releases/2023/pr23018.html)
-- Mar 12 - [Regulators Close New York’s Signature Bank](https://www.cnbc.com/2023/03/12/regulators-close-new-yorks-signature-bank-citing-systemic-risk.html)
+- Mar 13 - [HSBC acquires Silicon Valley Bank UK, says all depositors’ money is safe](https://techcrunch.com/2023/03/13/in-historic-last-minute-deal-hsbc-acquires-silicon-valley-bank-uk-says-all-depositors-money-is-safe/)
+- Mar 13 - [HSBC to buy SVB UK for £1](https://www.theguardian.com/business/2023/mar/13/hsbc-buy-silicon-valley-banks-uk-tech-startups)
+- Mar 13 - [HSBC to Buy UK Arm of Silicon Valley Bank](https://www.bbc.co.uk/news/business-64937251)
+- Mar 13 - [HSBC takes over Silicon Valley Bank’s UK unit in rescue deal](https://www.ft.com/content/216b193d-62b3-4e5e-8f67-e8eb3d96ebf1)
+- Mar 13 - [What is Temperature in NLP?](https://lukesalamone.github.io/posts/what-is-temperature/)
 <!--END_SECTION:hn-->
 
 <!--
