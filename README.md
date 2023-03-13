@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 13 - [QuestDB (YC S20) Is Hiring a Python Engineer](https://questdb.io/careers/senior-backend-engineer-python/)
-- Mar 13 - [An end to typographic widows on the web](https://clagnut.com/blog/2424)
-- Mar 13 - [Our production servers were suspended by Google Cloud](https://www.onvoard.com/blog/our-production-servers-was-suspended-by-google-cloud)
-- Mar 13 - [HSBC Purchased Silicon Valley Bank UK (SVB UK) for $1.21 (£1)](https://www.hsbc.com/news-and-media/media-releases)
-- Mar 13 - [How Ukraine tamed Russian missile barrages and kept the lights on](https://www.economist.com/europe/2023/03/12/how-ukraine-tamed-russian-missile-barrages-and-kept-the-lights-on)
+- Mar 13 - [Tim Cook bets on Apple’s mixed-reality headset to secure his legacy](https://www.ft.com/content/86b99549-0648-4c23-ab6e-642a4ba51dff)
+- Mar 13 - [Audiophile forum debating which versions of memcpy had the highest sound quality](https://discuss.systems/@dan/110008052977994607)
+- Mar 13 - [SVB&#x27;s programmatic payment systems are back online](https://news.ycombinator.com/item?id=35136915)
+- Mar 13 - [Launch HN: Pynecone (YC W23) – Web Apps in Pure Python](https://news.ycombinator.com/item?id=35136827)
+- Mar 13 - [British industry calls for regulation of autonomous vehicles](https://www.theregister.com/2023/03/13/uk_industry_calls_for_autonomous/)
 <!--END_SECTION:hn-->
 
 <!--
