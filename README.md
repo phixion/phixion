@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 13 - [Show HN: Django Developers – Reverse Job Board for Django Developers](https://builtwithdjango.com/developers/)
-- Mar 13 - [Apple’s new challenge: a wave of key executives leaving the company](https://economictimes.indiatimes.com/tech/technology/apples-new-challenge-a-wave-of-key-executives-leaving-the-company/articleshow/98586618.cms)
-- Mar 13 - [Swedish pension giant loses $1.1 billion from US banks’ collapse](https://www.thelocal.se/20230313/swedish-pension-giant-loses-12-billion-kronor-from-us-banks-collapse)
-- Mar 13 - [Losing Signal](https://ploum.net/2023-03-09-losing-signal.html)
-- Mar 13 - [Alpaca: An Instruct Tuned LLaMA 7B – Responses on par with txt-DaVinci-3](https://crfm.stanford.edu/alpaca/)
+- Mar 13 - [Instagram Is Disabling Its NFT Features](https://nftnow.com/news/breaking-instagram-is-sunsetting-digital-collectibles-nfts/)
+- Mar 13 - [Switching from C++ to Rust](https://laplab.me/posts/switching-from-cpp-to-rust/)
+- Mar 13 - [Ask HN: Has anyone made the transition from app development to ML&#x2F;AI work?](https://news.ycombinator.com/item?id=35143213)
+- Mar 13 - [Show HN: Counter – Simple and Free Web Analytics](https://counter.dev/)
+- Mar 13 - [LNER Peppercorn Class A1 60163 Tornado](https://en.wikipedia.org/wiki/LNER_Peppercorn_Class_A1_60163_Tornado)
 <!--END_SECTION:hn-->
 
 <!--
