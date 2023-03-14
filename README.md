@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 14 - [Ring LLC home security company ransomed by ALPHV ransomware](https://web.archive.org/web/20230314015249/https://twitter.com/vxunderground/status/1635427567271329792)
-- Mar 14 - [Russian Assets Reportedly Seized at Baikonur Cosmodrome by Kazakh Authorities](https://tlpnetwork.com/news/2023/03/russian-assets-seized-at-the-baikonur-cosmodrome)
-- Mar 14 - [US court rules Uber and Lyft workers are contractors](https://www.bbc.com/news/business-64947695)
-- Mar 14 - [Crab crisis in Bering Sea a sign of ‘borealization’](https://alaskabeacon.com/2023/02/06/crab-crisis-in-bering-sea-a-sign-of-borealization-and-big-changes-in-the-future-scientists-warn/)
-- Mar 14 - [High-Throughput Generative Inference of Large Language Models with a Single GPU](https://arxiv.org/abs/2303.06865)
+- Mar 14 - [Hotglue (YC S21) Is Hiring](https://www.ycombinator.com/companies/hotglue/jobs/aSSnalB-senior-integrations-engineer)
+- Mar 14 - [Mediterranean diet may lower dementia risk by a quarter, study suggests](https://www.theguardian.com/society/2023/mar/14/mediterranean-diet-may-lower-dementia-risk-by-a-quarter-study-suggests)
+- Mar 14 - [Analysis of distances between London&#x27;s bus stops](https://www.michalpaszkiewicz.co.uk/blog/busdistributions/index.html)
+- Mar 14 - [Boundary Conditions, Rain, and Startup Fragility](https://www.analogmantra.com/blog/2023-02-27-fragility-and-boundary-conditions/)
+- Mar 14 - [Using a Mac without a network connection](https://eclecticlight.co/2023/03/14/using-a-mac-without-a-network-connection/)
 <!--END_SECTION:hn-->
 
 <!--
