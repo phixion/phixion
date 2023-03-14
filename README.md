@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 14 - [Hotglue (YC S21) Is Hiring](https://www.ycombinator.com/companies/hotglue/jobs/aSSnalB-senior-integrations-engineer)
-- Mar 14 - [Mediterranean diet may lower dementia risk by a quarter, study suggests](https://www.theguardian.com/society/2023/mar/14/mediterranean-diet-may-lower-dementia-risk-by-a-quarter-study-suggests)
-- Mar 14 - [Analysis of distances between London&#x27;s bus stops](https://www.michalpaszkiewicz.co.uk/blog/busdistributions/index.html)
-- Mar 14 - [Boundary Conditions, Rain, and Startup Fragility](https://www.analogmantra.com/blog/2023-02-27-fragility-and-boundary-conditions/)
-- Mar 14 - [Using a Mac without a network connection](https://eclecticlight.co/2023/03/14/using-a-mac-without-a-network-connection/)
+- Mar 14 - [Launch HN: Blyss (YC W23) – Homomorphic encryption as a service](https://news.ycombinator.com/item?id=35153344)
+- Mar 14 - [Launch HN: CodeComplete (YC W23) – Copilot for Enterprise](https://news.ycombinator.com/item?id=35152851)
+- Mar 14 - [Binance Halts Deposits and Withdrawals for Customers in the UK](https://www.bloomberg.com/news/articles/2023-03-14/binance-halts-deposits-and-withdrawals-for-customers-in-the-uk)
+- Mar 14 - [The Door Close Button](https://computer.rip/2023-03-13-the-door-close-button.html)
+- Mar 14 - [NordVPN library and client code open-sourced](https://github.com/NordSecurity)
 <!--END_SECTION:hn-->
 
 <!--
