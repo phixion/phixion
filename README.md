@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 14 - [Launch HN: Blyss (YC W23) – Homomorphic encryption as a service](https://news.ycombinator.com/item?id=35153344)
-- Mar 14 - [Launch HN: CodeComplete (YC W23) – Copilot for Enterprise](https://news.ycombinator.com/item?id=35152851)
-- Mar 14 - [Binance Halts Deposits and Withdrawals for Customers in the UK](https://www.bloomberg.com/news/articles/2023-03-14/binance-halts-deposits-and-withdrawals-for-customers-in-the-uk)
-- Mar 14 - [The Door Close Button](https://computer.rip/2023-03-13-the-door-close-button.html)
-- Mar 14 - [NordVPN library and client code open-sourced](https://github.com/NordSecurity)
+- Mar 14 - [Kali Linux 2023.1 introduces &#x27;Purple&#x27; distro for defensive security](https://gitlab.com/kalilinux/kali-purple/documentation/-/wikis/home)
+- Mar 14 - [MQTT vs. Kafka: An IoT Advocate&#x27;s Perspective](https://www.influxdata.com/blog/mqtt-vs-kafka-iot-advocates-perspective-part-1/)
+- Mar 14 - [MNT Pocket Reform open for orders](https://www.crowdsupply.com/mnt/pocket-reform)
+- Mar 14 - [Mountpoint – file client for S3 written in Rust, from AWS](https://github.com/awslabs/mountpoint-s3)
+- Mar 14 - [The Bing AI bot has been secretly running GPT-4](https://www.theverge.com/2023/3/14/23639928/microsoft-bing-chatbot-ai-gpt-4-llm)
 <!--END_SECTION:hn-->
 
 <!--
