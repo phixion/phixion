@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 13 - [Instagram Is Disabling Its NFT Features](https://nftnow.com/news/breaking-instagram-is-sunsetting-digital-collectibles-nfts/)
-- Mar 13 - [Switching from C++ to Rust](https://laplab.me/posts/switching-from-cpp-to-rust/)
-- Mar 13 - [Ask HN: Has anyone made the transition from app development to ML&#x2F;AI work?](https://news.ycombinator.com/item?id=35143213)
-- Mar 13 - [Show HN: Counter – Simple and Free Web Analytics](https://counter.dev/)
-- Mar 13 - [LNER Peppercorn Class A1 60163 Tornado](https://en.wikipedia.org/wiki/LNER_Peppercorn_Class_A1_60163_Tornado)
+- Mar 14 - [Crab crisis in Bering Sea a sign of ‘borealization’](https://alaskabeacon.com/2023/02/06/crab-crisis-in-bering-sea-a-sign-of-borealization-and-big-changes-in-the-future-scientists-warn/)
+- Mar 14 - [High-Throughput Generative Inference of Large Language Models with a Single GPU](https://arxiv.org/abs/2303.06865)
+- Mar 14 - [Microsoft lays off an ethical AI team as it doubles down on OpenAI](https://techcrunch.com/2023/03/13/microsoft-lays-off-an-ethical-ai-team-as-it-doubles-down-on-openai/)
+- Mar 14 - [Building a second income stream by writing a book](https://fatsoftwareengineer.substack.com/p/building-a-second-income-stream-by)
+- Mar 14 - [Relationship Hero (YC S17) Is Hiring Sales Associates (Remote)](https://relationshiphero.com/careers?role=salesAssociate)
 <!--END_SECTION:hn-->
 
 <!--
