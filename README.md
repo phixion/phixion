@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 15 - [Linux desktop leaders unite behind Flathub app store. Here&#x27;s why](https://www.zdnet.com/article/linux-desktop-leaders-unite-behind-flathub-app-store-heres-why/)
-- Mar 15 - [Newfound Asteroid May Strike Earth in 2046, NASA Says](https://www.livescience.com/newly-discovered-asteroid-the-size-of-a-swimming-pool-has-a-1-in-600-chance-of-colliding-with-earth-nasa-says)
-- Mar 15 - [Man Accidentally Drove Away in Someone Else’s Tesla Using the Car’s App](https://jalopnik.com/man-accidentally-drove-away-in-someone-else-s-tesla-usi-1850218858)
-- Mar 15 - [Launch HN: BuildFlow (YC W23) – The FastAPI of data pipelines](https://news.ycombinator.com/item?id=35169256)
-- Mar 15 - [Credit Suisse warns of ‘material weaknesses’ in financial reporting](https://www.theguardian.com/business/2023/mar/14/credit-suisse-financial-reporting-swiss-bank-shares-bonds)
+- Mar 15 - [Long-Sought Math Proof Unlocks More Mysterious ‘Modular Forms’](https://www.quantamagazine.org/long-sought-math-proof-unlocks-more-mysterious-modular-forms-20230309/)
+- Mar 15 - [Why We’re Suing to Protect Right of Incarcerated People to Receive Physical Mail](https://www.eff.org/deeplinks/2023/03/why-were-suing-protect-right-incarcerated-people-receive-physical-mail)
+- Mar 15 - [The Social Radars: Conversations with Startup Founders](https://www.thesocialradars.com)
+- Mar 15 - [GPT4 and the Multi-Modal, Multi-Model, Multi-Everything Future of AGI](https://lspace.swyx.io/p/multimodal-gpt4)
+- Mar 15 - [Samsung&#x27;s response on &#x27;moonshot&#x27; controversy](https://www.samsungmobilepress.com/feature-stories/how-samsung-galaxy-cameras-combine-super-resolution-technologies-with-ai-technology-to-produce-high-quality-images-of-the-moon/)
 <!--END_SECTION:hn-->
 
 <!--
