@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 15 - [Trichloroethylene: An Invisible Cause of Parkinson’s Disease?](https://content.iospress.com/articles/journal-of-parkinsons-disease/jpd225047)
-- Mar 15 - [Kottke.org Is 25 Years Old Today and I’m Going to Write About It](https://kottke.org/23/03/kottke-is-25-years-old-today)
-- Mar 15 - [AI Could Write Our Laws](https://www.schneier.com/blog/archives/2023/03/how-ai-could-write-our-laws.html)
-- Mar 15 - [Two U.S. men charged in 2022 hacking of DEA portal](https://krebsonsecurity.com/2023/03/two-us-men-charged-in-2022-hacking-of-dea-portal/)
-- Mar 15 - [Show HN: AI explanations for other people’s code](https://whatdoesthiscodedo.com/)
+- Mar 15 - [South Korea to build world’s largest chip center in Seoul with $230B investment](https://www.cnn.com/2023/03/15/tech/korea-chips-investment-hnk-intl/index.html)
+- Mar 15 - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=35164840)
+- Mar 15 - [Hetzner Launches Three New Dedicated Servers](https://www.hetzner.com/_ray/pow)
+- Mar 15 - [The Internet Archive&#x27;s battle for libraries](https://www.battleforlibraries.com/)
+- Mar 15 - [Trichloroethylene: An invisible cause of Parkinson’s disease?](https://content.iospress.com/articles/journal-of-parkinsons-disease/jpd225047)
 <!--END_SECTION:hn-->
 
 <!--
