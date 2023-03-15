@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 15 - [Slauth.io (YC S22) Is Hiring another technical co-founder](https://auspicious-domain-086.notion.site/Technical-co-founder-cacf096e2f6d41ed90d9373e7ee532cb)
-- Mar 15 - [Elixir: Docker now charges open source orgs $300](https://twitter.com/josevalim/status/1635767176769462272)
-- Mar 15 - [Docker is deleting Open Source organisations - what you need to know](https://blog.alexellis.io/docker-is-deleting-open-source-images/)
-- Mar 15 - [2024 GMC Hummer EV SUV Uses Enormous Battery to Charge Other Electric Cars](https://www.thedrive.com/news/2024-gmc-hummer-ev-suv-uses-enormous-battery-to-charge-other-electric-cars)
-- Mar 15 - [Silicon Valley Bank unmasks the hypocrisy of libertarian tech bros](https://www.newstatesman.com/quickfire/2023/03/silicon-valley-bank-collapse-hypocrisy-libertarian-tech-bros)
+- Mar 15 - [Linux desktop leaders unite behind Flathub app store. Here&#x27;s why](https://www.zdnet.com/article/linux-desktop-leaders-unite-behind-flathub-app-store-heres-why/)
+- Mar 15 - [Newfound Asteroid May Strike Earth in 2046, NASA Says](https://www.livescience.com/newly-discovered-asteroid-the-size-of-a-swimming-pool-has-a-1-in-600-chance-of-colliding-with-earth-nasa-says)
+- Mar 15 - [Man Accidentally Drove Away in Someone Else’s Tesla Using the Car’s App](https://jalopnik.com/man-accidentally-drove-away-in-someone-else-s-tesla-usi-1850218858)
+- Mar 15 - [Launch HN: BuildFlow (YC W23) – The FastAPI of data pipelines](https://news.ycombinator.com/item?id=35169256)
+- Mar 15 - [Credit Suisse warns of ‘material weaknesses’ in financial reporting](https://www.theguardian.com/business/2023/mar/14/credit-suisse-financial-reporting-swiss-bank-shares-bonds)
 <!--END_SECTION:hn-->
 
 <!--
