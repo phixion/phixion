@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 15 - [MIT 24-Hour Challenge](https://mit24hourchallenge.mightycause.com/story/Mit-Open-Learning)
-- Mar 14 - [Do New Housing Units in Your Backyard Raise Your Rents?](https://academic.oup.com/joeg/article-abstract/22/6/1309/6362685)
-- Mar 14 - [GPT-4 is phenomenal at Code](https://github.com/anysphere/gpt-4-for-code)
-- Mar 14 - [Georgia’s big new nuclear reactors could be the last built in the US](https://www.canarymedia.com/articles/nuclear/georgias-big-new-nuclear-reactors-could-be-the-last-built-in-the-us)
-- Mar 14 - [Reddit is currently down](https://mashable.com/article/reddit-is-down-major-outage)
+- Mar 15 - [Trichloroethylene: An Invisible Cause of Parkinson’s Disease?](https://content.iospress.com/articles/journal-of-parkinsons-disease/jpd225047)
+- Mar 15 - [Kottke.org Is 25 Years Old Today and I’m Going to Write About It](https://kottke.org/23/03/kottke-is-25-years-old-today)
+- Mar 15 - [AI Could Write Our Laws](https://www.schneier.com/blog/archives/2023/03/how-ai-could-write-our-laws.html)
+- Mar 15 - [Two U.S. men charged in 2022 hacking of DEA portal](https://krebsonsecurity.com/2023/03/two-us-men-charged-in-2022-hacking-of-dea-portal/)
+- Mar 15 - [Show HN: AI explanations for other people’s code](https://whatdoesthiscodedo.com/)
 <!--END_SECTION:hn-->
 
 <!--
