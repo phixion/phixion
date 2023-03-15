@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 14 - [Kali Linux 2023.1 introduces &#x27;Purple&#x27; distro for defensive security](https://gitlab.com/kalilinux/kali-purple/documentation/-/wikis/home)
-- Mar 14 - [MQTT vs. Kafka: An IoT Advocate&#x27;s Perspective](https://www.influxdata.com/blog/mqtt-vs-kafka-iot-advocates-perspective-part-1/)
-- Mar 14 - [MNT Pocket Reform open for orders](https://www.crowdsupply.com/mnt/pocket-reform)
-- Mar 14 - [Mountpoint – file client for S3 written in Rust, from AWS](https://github.com/awslabs/mountpoint-s3)
-- Mar 14 - [The Bing AI bot has been secretly running GPT-4](https://www.theverge.com/2023/3/14/23639928/microsoft-bing-chatbot-ai-gpt-4-llm)
+- Mar 15 - [MIT 24-Hour Challenge](https://mit24hourchallenge.mightycause.com/story/Mit-Open-Learning)
+- Mar 14 - [Do New Housing Units in Your Backyard Raise Your Rents?](https://academic.oup.com/joeg/article-abstract/22/6/1309/6362685)
+- Mar 14 - [GPT-4 is phenomenal at Code](https://github.com/anysphere/gpt-4-for-code)
+- Mar 14 - [Georgia’s big new nuclear reactors could be the last built in the US](https://www.canarymedia.com/articles/nuclear/georgias-big-new-nuclear-reactors-could-be-the-last-built-in-the-us)
+- Mar 14 - [Reddit is currently down](https://mashable.com/article/reddit-is-down-major-outage)
 <!--END_SECTION:hn-->
 
 <!--
