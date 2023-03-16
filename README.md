@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 16 - [OpenSSH 9.3&#x2F;9.3p1 Released](https://www.openssh.com/txt/release-9.3)
-- Mar 16 - [Anyone else witnessing a panic inside NLP orgs of big tech companies?](https://old.reddit.com/r/MachineLearning/comments/11rizyb/d_anyone_else_witnessing_a_panic_inside_nlp_orgs/)
-- Mar 16 - [Brazilian researchers find &#x27;terrifying&#x27; plastic rocks on remote island](https://www.reuters.com/lifestyle/science/brazilian-researchers-find-terrifying-plastic-rocks-remote-island-2023-03-15/)
-- Mar 16 - [Can you beat my dad at Scrabble?](https://dadagrams.com)
-- Mar 16 - [Miller: Like Awk, sed, cut, join, and sort for CSV, TSV, and tabular JSON](https://github.com/johnkerl/miller)
+- Mar 16 - [Show HN: Quality News – Towards a fairer ranking algorithm for Hacker News](https://news.social-protocols.org/top)
+- Mar 16 - [Rust – Are We Game Yet?](https://arewegameyet.rs)
+- Mar 16 - [Microsoft 365 Copilot – your copilot for work](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
+- Mar 16 - [The Birth of a Package Manager](https://ochagavia.nl/blog/the-birth-of-a-package-manager/)
+- Mar 16 - [Volkswagen’s ID. 2ALL Is a $26,000 EV Hatchback You’d Want to Drive](https://www.thedrive.com/news/volkswagens-id-2all-concept-is-a-26000-ev-hatchback-youd-acutally-want-to-drive)
 <!--END_SECTION:hn-->
 
 <!--
