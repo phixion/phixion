@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 16 - [Show HN: Quality News – Towards a fairer ranking algorithm for Hacker News](https://news.social-protocols.org/top)
-- Mar 16 - [Rust – Are We Game Yet?](https://arewegameyet.rs)
-- Mar 16 - [Microsoft 365 Copilot – your copilot for work](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
-- Mar 16 - [The Birth of a Package Manager](https://ochagavia.nl/blog/the-birth-of-a-package-manager/)
-- Mar 16 - [Volkswagen’s ID. 2ALL Is a $26,000 EV Hatchback You’d Want to Drive](https://www.thedrive.com/news/volkswagens-id-2all-concept-is-a-26000-ev-hatchback-youd-acutally-want-to-drive)
+- Mar 16 - [Docker Apology](https://www.docker.com/blog/we-apologize-we-did-a-terrible-job-announcing-the-end-of-docker-free-teams/)
+- Mar 16 - [Introducing react.dev](https://react.dev/blog/2023/03/16/introducing-react-dev)
+- Mar 16 - [FCC orders phone companies to block scam text messages](https://arstechnica.com/tech-policy/2023/03/fcc-orders-phone-companies-to-block-scam-text-messages/)
+- Mar 16 - [Docopt.sh – Command-Line Argument Parser for Bash 3.2, 4, and 5](https://github.com/andsens/docopt.sh)
+- Mar 16 - [Low-cost open source device can measure air pollution anywhere](https://news.mit.edu/2023/low-cost-device-can-measure-air-pollution-anywhere-0316)
 <!--END_SECTION:hn-->
 
 <!--
