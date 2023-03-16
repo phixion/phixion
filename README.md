@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 15 - [Long Covid has had a brutal effect on the workforce, study finds](https://www.gavi.org/vaccineswork/long-covid-has-had-brutal-effect-workforce-study-finds)
-- Mar 15 - [Bank of England, 1914 war bonds cover-up](https://www.npr.org/sections/thetwo-way/2017/08/08/542238978/-financial-times-issues-103-year-old-correction)
-- Mar 15 - [Fireball Spotted over Northeastern USA](https://ams.imo.net/members/imo_view/event/2023/1529)
-- Mar 15 - [Emulating Pokemon Emerald on GPT-4](https://twitter.com/dandangond/status/1636063902688526339)
-- Mar 15 - [(Don&#x27;t) crank up the warnings to 11](https://lemire.me/blog/2023/03/15/precision-recall-and-why-you-shouldnt-crank-up-the-warnings-to-11/)
+- Mar 16 - [Shoshikantetsu](https://asnewman.github.io/shoshikantetsu)
+- Mar 16 - [Why Barney Frank Went to Work for Signature Bank](https://www.newyorker.com/news/q-and-a/why-barney-frank-went-to-work-for-signature-bank)
+- Mar 16 - [Venus is volcanically alive, new find shows](https://www.nationalgeographic.com/science/article/venus-is-volcanically-alive)
+- Mar 16 - [French bulldogs are taking over America](https://www.economist.com/graphic-detail/2023/03/15/french-bulldogs-are-taking-over-america)
+- Mar 16 - [Best D&amp;D map makers for dungeons, cities and worlds](https://www.dicebreaker.com/games/dungeons-and-dragons-5e/best-games/best-dnd-map-makers)
 <!--END_SECTION:hn-->
 
 <!--
