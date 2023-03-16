@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 15 - [Long-Sought Math Proof Unlocks More Mysterious ‘Modular Forms’](https://www.quantamagazine.org/long-sought-math-proof-unlocks-more-mysterious-modular-forms-20230309/)
-- Mar 15 - [Why We’re Suing to Protect Right of Incarcerated People to Receive Physical Mail](https://www.eff.org/deeplinks/2023/03/why-were-suing-protect-right-incarcerated-people-receive-physical-mail)
-- Mar 15 - [The Social Radars: Conversations with Startup Founders](https://www.thesocialradars.com)
-- Mar 15 - [GPT4 and the Multi-Modal, Multi-Model, Multi-Everything Future of AGI](https://lspace.swyx.io/p/multimodal-gpt4)
-- Mar 15 - [Samsung&#x27;s response on &#x27;moonshot&#x27; controversy](https://www.samsungmobilepress.com/feature-stories/how-samsung-galaxy-cameras-combine-super-resolution-technologies-with-ai-technology-to-produce-high-quality-images-of-the-moon/)
+- Mar 15 - [Long Covid has had a brutal effect on the workforce, study finds](https://www.gavi.org/vaccineswork/long-covid-has-had-brutal-effect-workforce-study-finds)
+- Mar 15 - [Bank of England, 1914 war bonds cover-up](https://www.npr.org/sections/thetwo-way/2017/08/08/542238978/-financial-times-issues-103-year-old-correction)
+- Mar 15 - [Fireball Spotted over Northeastern USA](https://ams.imo.net/members/imo_view/event/2023/1529)
+- Mar 15 - [Emulating Pokemon Emerald on GPT-4](https://twitter.com/dandangond/status/1636063902688526339)
+- Mar 15 - [(Don&#x27;t) crank up the warnings to 11](https://lemire.me/blog/2023/03/15/precision-recall-and-why-you-shouldnt-crank-up-the-warnings-to-11/)
 <!--END_SECTION:hn-->
 
 <!--
