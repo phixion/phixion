@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 16 - [Apple: Whistleblower about Working Conditions](https://twitter.com/ashleygjovik/status/1635688047005118480)
+- Mar 16 - [Google discontinues Google Glass for enterprise](https://www.google.com/glass/start/)
+- Mar 16 - [Incredible fast free AI image generation by Open AI](https://open.ai/images)
+- Mar 16 - [Last night I read for the first time the company’s 8k announcing my resignation](https://www.linkedin.com/posts/xiaodihou_last-night-i-read-for-the-first-time-the-activity-7041526468257992705-4BFy)
 - Mar 16 - [Shoshikantetsu](https://asnewman.github.io/shoshikantetsu)
-- Mar 16 - [Why Barney Frank Went to Work for Signature Bank](https://www.newyorker.com/news/q-and-a/why-barney-frank-went-to-work-for-signature-bank)
-- Mar 16 - [Venus is volcanically alive, new find shows](https://www.nationalgeographic.com/science/article/venus-is-volcanically-alive)
-- Mar 16 - [French bulldogs are taking over America](https://www.economist.com/graphic-detail/2023/03/15/french-bulldogs-are-taking-over-america)
-- Mar 16 - [Best D&amp;D map makers for dungeons, cities and worlds](https://www.dicebreaker.com/games/dungeons-and-dragons-5e/best-games/best-dnd-map-makers)
 <!--END_SECTION:hn-->
 
 <!--
