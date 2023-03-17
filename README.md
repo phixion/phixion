@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 16 - [Docker Apology](https://www.docker.com/blog/we-apologize-we-did-a-terrible-job-announcing-the-end-of-docker-free-teams/)
-- Mar 16 - [Introducing react.dev](https://react.dev/blog/2023/03/16/introducing-react-dev)
-- Mar 16 - [FCC orders phone companies to block scam text messages](https://arstechnica.com/tech-policy/2023/03/fcc-orders-phone-companies-to-block-scam-text-messages/)
-- Mar 16 - [Docopt.sh – Command-Line Argument Parser for Bash 3.2, 4, and 5](https://github.com/andsens/docopt.sh)
-- Mar 16 - [Low-cost open source device can measure air pollution anywhere](https://news.mit.edu/2023/low-cost-device-can-measure-air-pollution-anywhere-0316)
+- Mar 16 - [I just helped create the first jailbreak for ChatGPT-4](https://twitter.com/alexalbert__/status/1636488551817965568)
+- Mar 16 - [America’s bad bet on expanding legal sports gambling](https://www.vox.com/23641580/draftkings-fanduel-sports-betting-gambling-problems-march-madness)
+- Mar 16 - [Tons of uranium missing from Libyan site, IAEA tells member states](https://www.reuters.com/markets/commodities/tons-uranium-missing-libyan-site-iaea-tells-member-states-2023-03-15/)
+- Mar 16 - [ChatGPT can talk to your AWS infrastructure footprint](https://www.akitasoftware.com/blog-posts/we-built-an-exceedingly-polite-ai-dog-that-answers-questions-about-your-apis)
+- Mar 16 - [Transformers.js](https://xenova.github.io/transformers.js/)
 <!--END_SECTION:hn-->
 
 <!--
