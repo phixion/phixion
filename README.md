@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 17 - [Tesorio is hiring 100% distributed – Head of Data Science and DevOps](https://www.tesorio.com/careers#job-openings)
-- Mar 17 - [Big Banks Agree to Historic $30B Deposit Injection in First Republic](https://www.citigroup.com/global/news/press-release/2023/bank-of-america-citigroup-jpmorgan-chase-wells-fargo-goldman-sachs-morgan-stanley-bny-mellon-pnc-bank-state-street-truist-and-u-s-bank-to-make-uninsured-deposits-totaling-30-billion-into-first-republic-bank)
-- Mar 17 - [The friendship between Haskell and C](https://typeclasses.substack.com/p/the-friendship-between-haskell-and)
-- Mar 17 - [Why do older grad students become bitter?](https://musings.lambdaloop.com/bitter-grads/)
-- Mar 17 - [The Unpredictable Abilities Emerging from Large AI Models](https://www.quantamagazine.org/the-unpredictable-abilities-emerging-from-large-ai-models-20230316/)
+- Mar 17 - [The Only Three Classes That Mattered from My College Degree](https://www.developing.dev/p/the-only-three-classes-that-mattered)
+- Mar 17 - [One AI Tutor Per Child: Personalized learning is finally here](https://saigaddam.medium.com/one-ai-tutor-per-child-personalized-learning-is-finally-here-e3727d84a2d7)
+- Mar 17 - [Give babies peanut butter to cut allergy by 77%, study says](https://www.bbc.com/news/health-64987074)
+- Mar 17 - [Negativity Drives Online News Consumption](https://www.nature.com/articles/s41562-023-01538-4)
+- Mar 17 - [Spelunking Apple’s Open Source](https://bitsplitting.org/2023/03/17/spelunking-apples-open-source/)
 <!--END_SECTION:hn-->
 
 <!--
