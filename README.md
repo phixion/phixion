@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 17 - [1 hr operation could cure prostate cancer by destroying tumors with electricity](https://www.telegraph.co.uk/news/2022/01/02/one-hour-operation-could-cure-prostate-cancer-destroying-tumours/)
+- Mar 17 - [Something Pretty Right: The History and Legacy of Visual Basic](https://retool.com/visual-basic/)
+- Mar 17 - [Amazon shuts newspaper and magazine subscriptions for Kindle and print](https://www.niemanlab.org/2023/03/goodbye-newspapers-on-kindle-amazon-stops-selling-newspaper-and-magazine-subscriptions/)
+- Mar 17 - [Speak English to me: The secret world of programmers](https://github.com/npmaile/blog/blob/main/posts/3.%20The%20Secret%20World%20of%20Programmers.md)
 - Mar 17 - [Retiring a Favourite C++ Joke](https://ignition-training.com/posts/retire-cpp-joke/)
-- Mar 17 - [SVB Hall of Shame](https://svbhallofshame.wordpress.com/)
-- Mar 17 - [The Misalignment Museum](https://www.misalignmentmuseum.com/)
-- Mar 17 - [Web Stable Diffusion](https://github.com/mlc-ai/web-stable-diffusion)
-- Mar 17 - [Show HN: GPT Repo Loader – load entire code repos into GPT prompts](https://github.com/mpoon/gpt-repository-loader)
 <!--END_SECTION:hn-->
 
 <!--
