@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 16 - [I just helped create the first jailbreak for ChatGPT-4](https://twitter.com/alexalbert__/status/1636488551817965568)
-- Mar 16 - [America’s bad bet on expanding legal sports gambling](https://www.vox.com/23641580/draftkings-fanduel-sports-betting-gambling-problems-march-madness)
-- Mar 16 - [Tons of uranium missing from Libyan site, IAEA tells member states](https://www.reuters.com/markets/commodities/tons-uranium-missing-libyan-site-iaea-tells-member-states-2023-03-15/)
-- Mar 16 - [ChatGPT can talk to your AWS infrastructure footprint](https://www.akitasoftware.com/blog-posts/we-built-an-exceedingly-polite-ai-dog-that-answers-questions-about-your-apis)
-- Mar 16 - [Transformers.js](https://xenova.github.io/transformers.js/)
+- Mar 17 - [Retiring a Favourite C++ Joke](https://ignition-training.com/posts/retire-cpp-joke/)
+- Mar 17 - [SVB Hall of Shame](https://svbhallofshame.wordpress.com/)
+- Mar 17 - [The Misalignment Museum](https://www.misalignmentmuseum.com/)
+- Mar 17 - [Web Stable Diffusion](https://github.com/mlc-ai/web-stable-diffusion)
+- Mar 17 - [Show HN: GPT Repo Loader – load entire code repos into GPT prompts](https://github.com/mpoon/gpt-repository-loader)
 <!--END_SECTION:hn-->
 
 <!--
