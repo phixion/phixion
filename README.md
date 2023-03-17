@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 17 - [The Only Three Classes That Mattered from My College Degree](https://www.developing.dev/p/the-only-three-classes-that-mattered)
-- Mar 17 - [One AI Tutor Per Child: Personalized learning is finally here](https://saigaddam.medium.com/one-ai-tutor-per-child-personalized-learning-is-finally-here-e3727d84a2d7)
-- Mar 17 - [Give babies peanut butter to cut allergy by 77%, study says](https://www.bbc.com/news/health-64987074)
-- Mar 17 - [Negativity Drives Online News Consumption](https://www.nature.com/articles/s41562-023-01538-4)
-- Mar 17 - [Spelunking Apple’s Open Source](https://bitsplitting.org/2023/03/17/spelunking-apples-open-source/)
+- Mar 17 - [Vid2Seq: A pretrained visual language model for describing multi-event videos](https://ai.googleblog.com/2023/03/vid2seq-pretrained-visual-language.html)
+- Mar 17 - [Maybe You Don’t Need to Talk to Someone](https://drsamanthaboardman.substack.com/p/maybe-you-dont-need-to-talk-to-someone)
+- Mar 17 - [CO2 certificates: Greenwashing in the African savannah (German)](https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Fwirtschaft%2F2023-03%2Fco2-zertifikate-netflix-luxus-kritik)
+- Mar 17 - [Launch HN: Codeparrot (YC W23) – Automated API testing using production traffic](https://news.ycombinator.com/item?id=35201036)
+- Mar 17 - [The Role of AI in Accelerating Skill Development](https://saulcosta.com/the-role-of-ai-in-accelerating-skill-development-a4831311f0db)
 <!--END_SECTION:hn-->
 
 <!--
