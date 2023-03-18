@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 18 - [AI fooled voice recognition to verify identity used by Australian tax office](https://www.theguardian.com/technology/2023/mar/16/voice-system-used-to-verify-identity-by-centrelink-can-be-fooled-by-ai)
-- Mar 18 - [Analyzing multi-gigabyte JSON files locally](https://thenybble.de/posts/json-analysis/)
-- Mar 18 - [Anki-Fy Your Life](https://abouttolearn.substack.com/p/anki-fy-your-life)
-- Mar 18 - [More than 75 percent decline over 27 years in total flying insect biomass (2017)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0185809)
-- Mar 18 - [Who’s afraid of reverse mereological essentialism?](https://link.springer.com/article/10.1007/s11098-023-01935-5)
+- Mar 18 - [Prices at the supermarket keep rising. So do corporate profits](https://www.vox.com/money/23641875/food-grocery-inflation-prices-billionaires)
+- Mar 18 - [LLVM 16.0.0 Release](https://discourse.llvm.org/t/llvm-16-0-0-release/69326)
+- Mar 18 - [Zero one infinity rule](https://en.wikipedia.org/wiki/Zero_one_infinity_rule)
+- Mar 18 - [Real-Time Video Processing with WebCodecs and Streams](https://webrtchacks.com/real-time-video-processing-with-webcodecs-and-streams-processing-pipelines-part-1/)
+- Mar 18 - [a[low:high:max] in Golang – A Rare Slice Trick](https://build-your-own.org/blog/20230316_go_full_slice/)
 <!--END_SECTION:hn-->
 
 <!--
