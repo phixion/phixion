@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 17 - [Vid2Seq: A pretrained visual language model for describing multi-event videos](https://ai.googleblog.com/2023/03/vid2seq-pretrained-visual-language.html)
-- Mar 17 - [Maybe You Don’t Need to Talk to Someone](https://drsamanthaboardman.substack.com/p/maybe-you-dont-need-to-talk-to-someone)
-- Mar 17 - [CO2 certificates: Greenwashing in the African savannah (German)](https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Fwirtschaft%2F2023-03%2Fco2-zertifikate-netflix-luxus-kritik)
-- Mar 17 - [Launch HN: Codeparrot (YC W23) – Automated API testing using production traffic](https://news.ycombinator.com/item?id=35201036)
-- Mar 17 - [The Role of AI in Accelerating Skill Development](https://saulcosta.com/the-role-of-ai-in-accelerating-skill-development-a4831311f0db)
+- Mar 17 - [UBS in talks to acquire Credit Suisse](https://www.ft.com/content/17892f24-4ca0-417f-9093-289b019a0852)
+- Mar 17 - [Deep Dive into ZGC: A Modern Garbage Collector in OpenJDK [pdf]](https://dl.acm.org/doi/pdf/10.1145/3538532)
+- Mar 17 - [PostgreSQL Logical Replication Explained](https://www.postgresql.fastware.com/blog/inside-logical-replication-in-postgresql)
+- Mar 17 - [The LLM Problem](https://www.tbray.org/ongoing/When/202x/2023/03/14/Binging)
+- Mar 17 - [Minimum Viable Finance: The Guide for Seed&#x2F;Series A Startups](https://www.causal.app/blog/the-ultimate-guide-to-finance-for-seed-series-a-companies)
 <!--END_SECTION:hn-->
 
 <!--
