@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 17 - [UBS in talks to acquire Credit Suisse](https://www.ft.com/content/17892f24-4ca0-417f-9093-289b019a0852)
-- Mar 17 - [Deep Dive into ZGC: A Modern Garbage Collector in OpenJDK [pdf]](https://dl.acm.org/doi/pdf/10.1145/3538532)
-- Mar 17 - [PostgreSQL Logical Replication Explained](https://www.postgresql.fastware.com/blog/inside-logical-replication-in-postgresql)
-- Mar 17 - [The LLM Problem](https://www.tbray.org/ongoing/When/202x/2023/03/14/Binging)
-- Mar 17 - [Minimum Viable Finance: The Guide for Seed&#x2F;Series A Startups](https://www.causal.app/blog/the-ultimate-guide-to-finance-for-seed-series-a-companies)
+- Mar 18 - [How to own your own Docker Registry address](https://httptoolkit.com/blog/docker-image-registry-facade/)
+- Mar 18 - [Chat GPT Haggadah Supplement](https://www.haggadot.com/haggadah/chat-gpt-haggadah)
+- Mar 18 - [Are You Ok?](https://memex.marginalia.nu/log/72-are-you-ok.gmi)
+- Mar 18 - [Costs of the U.S.-Led War in Iraq Since 2003](https://watson.brown.edu/costsofwar/2022/IraqWarCosts)
+- Mar 18 - [RIP Frank Drake - pioneered SETI experiments detecting radio signals from stars](https://setiathome.berkeley.edu/forum_thread.php?id=85927)
 <!--END_SECTION:hn-->
 
 <!--
