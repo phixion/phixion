@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 18 - [Query Google Sheets as virtual tables with SQLite extension – libgsqlite](https://github.com/0x6b/libgsqlite)
-- Mar 18 - [Study hints at the promise of non-hallucinogenic LSD for treating mood disorders](https://medicalxpress.com/news/2023-03-hints-non-hallucinogenic-lsd-mood-disorders.html)
-- Mar 18 - [The dark defaults of Microsoft Edge](https://thomask.sdf.org/blog/2023/03/18/the-dark-defaults-of-microsoft-edge.html)
-- Mar 18 - [Acropalypse: a vulnerability in Google&#x27;s screenshot editing tool](https://twitter.com/ItsSimonTime/status/1636857478263750656)
-- Mar 18 - [Ask HN: Namecheap jacked up the price on a domain name, can you explain?](https://news.ycombinator.com/item?id=35207713)
+- Mar 18 - [AI fooled voice recognition to verify identity used by Australian tax office](https://www.theguardian.com/technology/2023/mar/16/voice-system-used-to-verify-identity-by-centrelink-can-be-fooled-by-ai)
+- Mar 18 - [Analyzing multi-gigabyte JSON files locally](https://thenybble.de/posts/json-analysis/)
+- Mar 18 - [Anki-Fy Your Life](https://abouttolearn.substack.com/p/anki-fy-your-life)
+- Mar 18 - [More than 75 percent decline over 27 years in total flying insect biomass (2017)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0185809)
+- Mar 18 - [Who’s afraid of reverse mereological essentialism?](https://link.springer.com/article/10.1007/s11098-023-01935-5)
 <!--END_SECTION:hn-->
 
 <!--
