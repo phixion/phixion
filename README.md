@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 19 - [GQ.fyi is hiring Rails engineers to build the AI for customer research](https://www.ycombinator.com/companies/great-question/jobs/AokShrj-full-stack-rails-engineer)
-- Mar 19 - [The curious case of a memory leak in a Zig program](https://iamkroot.github.io/blog/zig-memleak)
-- Mar 19 - [Analyzing a failed drill bit with an electron microscope [video]](https://www.youtube.com/watch?v=887Q-LWBW48)
-- Mar 19 - [What&#x27;s new for RISC-V in LLVM 16](https://muxup.com/2023q1/whats-new-for-risc-v-in-llvm-16)
-- Mar 19 - [Design of GNU Parallel (2015)](https://www.gnu.org/software/parallel/parallel_design.html)
+- Mar 19 - [Tell HN: Instagram&#x27;s API has broken, support tickets ignored, status page green](https://news.ycombinator.com/item?id=35217226)
+- Mar 19 - [Greening the desert: the architect regenerating Jordan’s native forests](https://www.theguardian.com/global-development/2023/mar/09/greening-the-desert-architect-tayyun-regenerating-jordan-native-forests)
+- Mar 19 - [To ensure vaccines work properly, men should get a good night’s sleep](https://www.economist.com/science-and-technology/2023/03/15/to-ensure-vaccines-work-properly-men-should-get-a-good-nights-sleep)
+- Mar 19 - [Do I Need to Avoid Dark Chocolate Now?](https://www.nytimes.com/2023/02/09/well/eat/dark-chocolate-metal-lead.html)
+- Mar 19 - [John Carmack: From a DM, just in case anyone else needs to hear this](https://twitter.com/ID_AA_Carmack/status/1637087219591659520)
 <!--END_SECTION:hn-->
 
 <!--
