@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 19 - [People Had to Be Convinced of the Usefulness of Electricity](https://www.smithsonianmag.com/smart-news/people-had-to-be-convinced-of-the-usefulness-of-electricity-21221094/)
-- Mar 19 - [Switzerland Weighs Full or Partial Credit Suisse Nationalization](https://www.bloomberg.com/news/articles/2023-03-19/switzerland-weighs-full-or-partial-credit-suisse-nationalization)
-- Mar 19 - [Bitwarden PINs can be brute-forced](https://ambiso.github.io/bitwarden-pin/)
-- Mar 19 - [Libreboot 20230319 Released](https://libreboot.org/news/libreboot20230319.html)
-- Mar 19 - [Rolls-Royce gets funding to develop miniature nuclear reactor for moon base](https://www.space.com/rolls-royce-funding-microreactor-moon-base)
+- Mar 19 - [AI could upend the world even more than electricity or the internet](https://techxplore.com/news/2023-03-ai-upend-world-electricity-internet.html)
+- Mar 19 - [New Horizons’ Top Pluto Pics (2016)](https://www.nasa.gov/feature/new-horizons-top-10-pluto-pics/)
+- Mar 19 - [Mark Zuckerberg: “Please Resign” (2010)](https://www.techemails.com/p/mark-zuckerberg-please-resign)
+- Mar 19 - [The little-known story behind the 2022 Nobel Prize in physics](https://www.scientificamerican.com/article/the-little-known-origin-story-behind-the-2022-nobel-prize-in-physics/)
+- Mar 19 - [Leaving China](https://www.persuasion.community/p/leaving-china)
 <!--END_SECTION:hn-->
 
 <!--
