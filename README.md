@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 18 - [Prices at the supermarket keep rising. So do corporate profits](https://www.vox.com/money/23641875/food-grocery-inflation-prices-billionaires)
+- Mar 18 - [Design notes on the 2023 Wikipedia redesign](https://alexhollender.com/wikipedia-2023-redesign)
+- Mar 18 - [Build Your Own Redis with C&#x2F;C++](https://build-your-own.org/redis/)
+- Mar 18 - [JPEG-XL vs. AVIF and Others: 27 Images Compared](https://giannirosato.com/blog/post/image-comparison/)
+- Mar 18 - [Desiderata: Original Text](https://www.desiderata.com/desiderata.html)
 - Mar 18 - [LLVM 16.0.0 Release](https://discourse.llvm.org/t/llvm-16-0-0-release/69326)
-- Mar 18 - [Zero one infinity rule](https://en.wikipedia.org/wiki/Zero_one_infinity_rule)
-- Mar 18 - [Real-Time Video Processing with WebCodecs and Streams](https://webrtchacks.com/real-time-video-processing-with-webcodecs-and-streams-processing-pipelines-part-1/)
-- Mar 18 - [a[low:high:max] in Golang – A Rare Slice Trick](https://build-your-own.org/blog/20230316_go_full_slice/)
 <!--END_SECTION:hn-->
 
 <!--
