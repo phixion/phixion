@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 19 - [How America Manufactures Poverty](https://www.newyorker.com/magazine/2023/03/20/matthew-desmond-poverty-by-america-book-review)
-- Mar 19 - [Farmers Can’t Keep Hogging the Water in Parched Southwest](https://www.bloomberg.com/opinion/articles/2023-03-18/farmers-can-t-keep-hogging-the-water-in-parched-southwest)
-- Mar 19 - [Design of GNU Parallel](https://www.gnu.org/software/parallel/parallel_design.html)
-- Mar 19 - [10 days fasting and calcium&#x2F;vit d supplements increases bone mineral density](https://www.sciencedirect.com/science/article/abs/pii/S875632822100380X)
-- Mar 19 - [Learning BASIC Like It&#x27;s 1983 (2018)](https://twobithistory.org/2018/09/02/learning-basic.html)
+- Mar 19 - [GQ.fyi is hiring Rails engineers to build the AI for customer research](https://www.ycombinator.com/companies/great-question/jobs/AokShrj-full-stack-rails-engineer)
+- Mar 19 - [The curious case of a memory leak in a Zig program](https://iamkroot.github.io/blog/zig-memleak)
+- Mar 19 - [Analyzing a failed drill bit with an electron microscope [video]](https://www.youtube.com/watch?v=887Q-LWBW48)
+- Mar 19 - [What&#x27;s new for RISC-V in LLVM 16](https://muxup.com/2023q1/whats-new-for-risc-v-in-llvm-16)
+- Mar 19 - [Design of GNU Parallel (2015)](https://www.gnu.org/software/parallel/parallel_design.html)
 <!--END_SECTION:hn-->
 
 <!--
