@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 18 - [Design notes on the 2023 Wikipedia redesign](https://alexhollender.com/wikipedia-2023-redesign)
-- Mar 18 - [Build Your Own Redis with C&#x2F;C++](https://build-your-own.org/redis/)
-- Mar 18 - [JPEG-XL vs. AVIF and Others: 27 Images Compared](https://giannirosato.com/blog/post/image-comparison/)
-- Mar 18 - [Desiderata: Original Text](https://www.desiderata.com/desiderata.html)
-- Mar 18 - [LLVM 16.0.0 Release](https://discourse.llvm.org/t/llvm-16-0-0-release/69326)
+- Mar 19 - [How America Manufactures Poverty](https://www.newyorker.com/magazine/2023/03/20/matthew-desmond-poverty-by-america-book-review)
+- Mar 19 - [Farmers Can’t Keep Hogging the Water in Parched Southwest](https://www.bloomberg.com/opinion/articles/2023-03-18/farmers-can-t-keep-hogging-the-water-in-parched-southwest)
+- Mar 19 - [Design of GNU Parallel](https://www.gnu.org/software/parallel/parallel_design.html)
+- Mar 19 - [10 days fasting and calcium&#x2F;vit d supplements increases bone mineral density](https://www.sciencedirect.com/science/article/abs/pii/S875632822100380X)
+- Mar 19 - [Learning BASIC Like It&#x27;s 1983 (2018)](https://twobithistory.org/2018/09/02/learning-basic.html)
 <!--END_SECTION:hn-->
 
 <!--
