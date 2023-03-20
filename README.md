@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 19 - [Federal Reserve lent $300B in emergency funds to banks in the past week](https://www.pbs.org/newshour/economy/federal-reserve-lent-300-billion-in-emergency-funds-to-banks-in-the-past-week)
-- Mar 19 - [Banshees of Inisherin: The Game](https://bansheesthegame.com/)
-- Mar 19 - [Brown Widows Are Winning the Fight for Your Attic and Garage](https://www.nytimes.com/2023/03/13/science/brown-widows-black-widows.html)
-- Mar 19 - [Anti-recruiter prompt injection attack in LinkedIn profile](https://twitter.com/brdskggs/status/1637114268876144640)
-- Mar 19 - [Mastodon Hit 10M Users](https://mastodon.social/@mastodonusercount/110051957865629817)
+- Mar 20 - [Who becomes an entrepreneur? Insights from 7 research studies](https://www.generalist.com/briefing/who-becomes-an-entrepreneur)
+- Mar 20 - [Altstore: Home for apps that push the boundaries of iOS. No jailbreak required](https://altstore.io/)
+- Mar 20 - [We gave GPT-3.5 tools to run, write, commit, and deploy code](https://old.reddit.com/r/MachineLearning/comments/11vfbo9/p_we_gave_gpt35_tools_that_developers_use_and_let/)
+- Mar 20 - [Twenty-Five Years of Curl](https://daniel.haxx.se/blog/2023/03/20/twenty-five-years-of-curl/)
+- Mar 20 - [Oakland&#x27;s Non-Profit Video Game Museum Is Back, and Thriving](https://sfstandard.com/arts-culture/fly-spaceships-battle-aliens-and-drive-a-crazy-taxi-at-this-oakland-museum/)
 <!--END_SECTION:hn-->
 
 <!--
