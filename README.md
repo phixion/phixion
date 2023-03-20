@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 19 - [AI could upend the world even more than electricity or the internet](https://techxplore.com/news/2023-03-ai-upend-world-electricity-internet.html)
-- Mar 19 - [New Horizons’ Top Pluto Pics (2016)](https://www.nasa.gov/feature/new-horizons-top-10-pluto-pics/)
-- Mar 19 - [Mark Zuckerberg: “Please Resign” (2010)](https://www.techemails.com/p/mark-zuckerberg-please-resign)
-- Mar 19 - [The little-known story behind the 2022 Nobel Prize in physics](https://www.scientificamerican.com/article/the-little-known-origin-story-behind-the-2022-nobel-prize-in-physics/)
-- Mar 19 - [Leaving China](https://www.persuasion.community/p/leaving-china)
+- Mar 19 - [Federal Reserve lent $300B in emergency funds to banks in the past week](https://www.pbs.org/newshour/economy/federal-reserve-lent-300-billion-in-emergency-funds-to-banks-in-the-past-week)
+- Mar 19 - [Banshees of Inisherin: The Game](https://bansheesthegame.com/)
+- Mar 19 - [Brown Widows Are Winning the Fight for Your Attic and Garage](https://www.nytimes.com/2023/03/13/science/brown-widows-black-widows.html)
+- Mar 19 - [Anti-recruiter prompt injection attack in LinkedIn profile](https://twitter.com/brdskggs/status/1637114268876144640)
+- Mar 19 - [Mastodon Hit 10M Users](https://mastodon.social/@mastodonusercount/110051957865629817)
 <!--END_SECTION:hn-->
 
 <!--
