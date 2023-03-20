@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 20 - [I Could Rewrite Curl (2021)](https://daniel.haxx.se/blog/2021/05/20/i-could-rewrite-curl/)
+- Mar 20 - [Flow-Based Programming, a way for AI and humans to develop together](https://bergie.iki.fi/blog/fbp-ai-human-collaboration/)
+- Mar 20 - [Ask HN: Where can I find a primer on how computers boot?](https://news.ycombinator.com/item?id=35229045)
 - Mar 20 - [Curl 8.0.0](https://daniel.haxx.se/blog/2023/03/20/curl-8-0-0-is-here/)
 - Mar 20 - [Newer data once again shows: the human brain is just a scaled up primate brain](https://onlinelibrary.wiley.com/doi/10.1002/ajpa.24712)
-- Mar 20 - [Dietary sweetener sucralose is a negative modulator of T cell-mediated responses](https://www.nature.com/articles/s41586-023-05801-6)
-- Mar 20 - [TinyVG – an alternative binary encoded vector graphics format](https://tinyvg.tech/)
-- Mar 20 - [Previous: A NeXT Computer Emulator](https://previous.unixdude.net/)
 <!--END_SECTION:hn-->
 
 <!--
