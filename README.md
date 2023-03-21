@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 21 - [Zero-1-to-3: Zero-shot One Image to 3D Object](https://zero123.cs.columbia.edu/)
-- Mar 21 - [OpenAI to discontinue support for the Codex API](https://news.ycombinator.com/item?id=35242069)
-- Mar 21 - [Stanford’s Alpaca shows that OpenAI may have a problem](https://the-decoder.com/stanfords-alpaca-shows-that-openai-may-have-a-problem/)
-- Mar 21 - [Download, copy and paste free AWS icons in SVG and PNG format for your projects](https://aws-icons.com)
-- Mar 21 - [One of the best podcasting apps you know is built by a single person](https://www.theverge.com/2023/3/20/23648650/marco-arment-overcast-solo-acts)
+- Mar 21 - [Web fingerprinting is worse than I thought](https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html)
+- Mar 21 - [Curl 8.0.1 because I jinxed it](https://daniel.haxx.se/blog/2023/03/20/curl-8-0-1-because-i-jinxed-it/)
+- Mar 21 - [The Yamaha NS10 Story (2008)](https://www.soundonsound.com/reviews/yamaha-ns10-story)
+- Mar 21 - [An Introduction to Computer Networks](https://intronetworks.cs.luc.edu/)
+- Mar 21 - [Laying Out a Print Book with CSS](https://iangmcdowell.com/blog/posts/laying-out-a-book-with-css/)
 <!--END_SECTION:hn-->
 
 <!--
