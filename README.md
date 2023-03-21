@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 20 - [ChatGPT is down](https://status.openai.com/incidents/jq9232rcmktd)
-- Mar 20 - [Launch HN: Bloop (YC S21) – Code Search with GPT-4](https://news.ycombinator.com/item?id=35236275)
-- Mar 20 - [A world to win: WebAssembly for the rest of us](https://www.wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us)
-- Mar 20 - [UBS got Credit Suisse for almost nothing](https://www.bloomberg.com/opinion/articles/2023-03-20/ubs-got-credit-suisse-for-almost-nothing)
-- Mar 20 - [The cloud backlash has begun: Why big data is pulling compute back on premises](https://techcrunch.com/2023/03/20/the-cloud-backlash-has-begun-why-big-data-is-pulling-compute-back-on-premises/)
+- Mar 21 - [Six Recent Studies Show an Unexpected Increase in Classical Music Listening](https://tedgioia.substack.com/p/six-recent-studies-show-an-unexpected)
+- Mar 20 - [Ask HN: Do you think this is the start of the new financial crisis?](https://news.ycombinator.com/item?id=35240431)
+- Mar 20 - [Vallejo CA police shared data in violation of state law, watchdog says](https://www.vallejosun.com/vallejo-police-shared-data-in-violation-of-state-law-watchdog-alleges/)
+- Mar 20 - [In-Flight Entertainment Challenge](https://blog.mand3l.com/post/712193955168731136/the-inflight-entertainment-challenge)
+- Mar 20 - [DNA, AI facial reconstruction, and grit identified Somerton Man 75 years later](https://spectrum.ieee.org/somerton-man)
 <!--END_SECTION:hn-->
 
 <!--
