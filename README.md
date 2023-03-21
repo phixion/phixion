@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 21 - [Reclaim Protocol Is Hiring a Cryptography&#x2F;Security Researcher](https://www.ycombinator.com/companies/questbook/jobs/2cAGsSp-cryptography-security-researcher)
-- Mar 21 - [Louis Rossmann could sue John Deere for GPL violation](https://www.youtube.com/watch?v=XP7Qx1FF1hA)
-- Mar 21 - [Awesome-totally-open-ChatGPT: A list of open alternatives to ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt)
-- Mar 21 - [Web fingerprinting is worse than I thought](https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html)
-- Mar 21 - [Psychedelic brew ayahuasca’s profound impact revealed in brain scans](https://www.theguardian.com/science/2023/mar/20/psychedelic-brew-ayahuasca-profound-impact-brain-scans-dmt)
+- Mar 21 - [Java Was Strongly Influenced by Objective-C](https://cs.gmu.edu/~sean/stuff/java-objc.html)
+- Mar 21 - [Why Construction Projects Always Go over Budget](https://practical.engineering/blog/2023/3/21/why-construction-projects-always-go-over-budget)
+- Mar 21 - [Avoiding Errors in Demo Day Fundraising](https://blog.aaronkharris.com/avoiding-errors-in-demo-day-fundraising)
+- Mar 21 - [MySQL for Developers](https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction)
+- Mar 21 - [Image Creator in Bing](https://blogs.microsoft.com/blog/2023/03/21/create-images-with-your-words-bing-image-creator-comes-to-the-new-bing/)
 <!--END_SECTION:hn-->
 
 <!--
