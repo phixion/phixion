@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 21 - [Java Was Strongly Influenced by Objective-C](https://cs.gmu.edu/~sean/stuff/java-objc.html)
-- Mar 21 - [Why Construction Projects Always Go over Budget](https://practical.engineering/blog/2023/3/21/why-construction-projects-always-go-over-budget)
-- Mar 21 - [Avoiding Errors in Demo Day Fundraising](https://blog.aaronkharris.com/avoiding-errors-in-demo-day-fundraising)
-- Mar 21 - [MySQL for Developers](https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction)
-- Mar 21 - [Image Creator in Bing](https://blogs.microsoft.com/blog/2023/03/21/create-images-with-your-words-bing-image-creator-comes-to-the-new-bing/)
+- Mar 21 - [PDF&#x2F;A-3, PDF for Long-Term Preservation, Use of ISO 32000-1... (2020)](https://www.loc.gov/preservation/digital/formats/fdd/fdd000360.shtml)
+- Mar 21 - [The Age of AI has begun](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun)
+- Mar 21 - [Typst, a modern alternative to LaTeX, is now open source](https://github.com/typst/typst)
+- Mar 21 - [Switzerland bans deferred bonuses for Credit Suisse staff](https://www.ft.com/content/cb213446-332d-4689-8911-e0371c2eb287)
+- Mar 21 - [Windows Snipping Tool is vulnerable to Acropalypse too](https://twitter.com/David3141593/status/1638222624084951040)
 <!--END_SECTION:hn-->
 
 <!--
