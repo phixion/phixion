@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 21 - [Six Recent Studies Show an Unexpected Increase in Classical Music Listening](https://tedgioia.substack.com/p/six-recent-studies-show-an-unexpected)
-- Mar 20 - [Ask HN: Do you think this is the start of the new financial crisis?](https://news.ycombinator.com/item?id=35240431)
-- Mar 20 - [Vallejo CA police shared data in violation of state law, watchdog says](https://www.vallejosun.com/vallejo-police-shared-data-in-violation-of-state-law-watchdog-alleges/)
-- Mar 20 - [In-Flight Entertainment Challenge](https://blog.mand3l.com/post/712193955168731136/the-inflight-entertainment-challenge)
-- Mar 20 - [DNA, AI facial reconstruction, and grit identified Somerton Man 75 years later](https://spectrum.ieee.org/somerton-man)
+- Mar 21 - [Zero-1-to-3: Zero-shot One Image to 3D Object](https://zero123.cs.columbia.edu/)
+- Mar 21 - [OpenAI to discontinue support for the Codex API](https://news.ycombinator.com/item?id=35242069)
+- Mar 21 - [Stanford’s Alpaca shows that OpenAI may have a problem](https://the-decoder.com/stanfords-alpaca-shows-that-openai-may-have-a-problem/)
+- Mar 21 - [Download, copy and paste free AWS icons in SVG and PNG format for your projects](https://aws-icons.com)
+- Mar 21 - [One of the best podcasting apps you know is built by a single person](https://www.theverge.com/2023/3/20/23648650/marco-arment-overcast-solo-acts)
 <!--END_SECTION:hn-->
 
 <!--
