@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 21 - [Hyundai Promises to Keep Buttons in Cars](https://www.thedrive.com/news/hyundai-promises-to-keep-buttons-in-cars-because-touchscreen-controls-are-dangerous)
-- Mar 21 - [America’s banks are missing hundreds of billions of dollars](https://www.economist.com/finance-and-economics/2023/03/21/americas-banks-are-missing-hundreds-of-billions-of-dollars)
-- Mar 21 - [The collapse of companies like SVB is triggering demand for corporate merch](https://www.modernretail.co/marketing/the-collapse-of-companies-like-svb-is-triggering-demand-for-limited-edition-corporate-merch/)
-- Mar 21 - [Can AI-Generated Text Be Reliably Detected?](https://arxiv.org/abs/2303.11156)
-- Mar 21 - [Understanding the .NET ecosystem: The evolution of .NET into .NET 7](https://andrewlock.net/understanding-the-dotnet-ecosystem-the-evolution-of-dotnet-into-dotnet-7/)
+- Mar 22 - [Every Possible Wordle Solution Visualized](https://www.perthirtysix.com/essay/wordle-solutions-visualized)
+- Mar 22 - [Postgres for Developers](https://postgrespro.com/community/courses)
+- Mar 22 - [Pytest Tips and Tricks](https://pythontest.com/pytest-tips-tricks/)
+- Mar 22 - [Bard uses a Hacker News comment as source to say that Bard has shut down](https://twitter.com/juanbuis/status/1638289186351456257)
+- Mar 22 - [Show HN: Generate styled web pages with just Python](https://www.pyvibe.com/)
 <!--END_SECTION:hn-->
 
 <!--
