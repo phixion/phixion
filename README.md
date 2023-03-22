@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 21 - [PDF&#x2F;A-3, PDF for Long-Term Preservation, Use of ISO 32000-1... (2020)](https://www.loc.gov/preservation/digital/formats/fdd/fdd000360.shtml)
-- Mar 21 - [The Age of AI has begun](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun)
-- Mar 21 - [Typst, a modern alternative to LaTeX, is now open source](https://github.com/typst/typst)
-- Mar 21 - [Switzerland bans deferred bonuses for Credit Suisse staff](https://www.ft.com/content/cb213446-332d-4689-8911-e0371c2eb287)
-- Mar 21 - [Windows Snipping Tool is vulnerable to Acropalypse too](https://twitter.com/David3141593/status/1638222624084951040)
+- Mar 21 - [Hyundai Promises to Keep Buttons in Cars](https://www.thedrive.com/news/hyundai-promises-to-keep-buttons-in-cars-because-touchscreen-controls-are-dangerous)
+- Mar 21 - [America’s banks are missing hundreds of billions of dollars](https://www.economist.com/finance-and-economics/2023/03/21/americas-banks-are-missing-hundreds-of-billions-of-dollars)
+- Mar 21 - [The collapse of companies like SVB is triggering demand for corporate merch](https://www.modernretail.co/marketing/the-collapse-of-companies-like-svb-is-triggering-demand-for-limited-edition-corporate-merch/)
+- Mar 21 - [Can AI-Generated Text Be Reliably Detected?](https://arxiv.org/abs/2303.11156)
+- Mar 21 - [Understanding the .NET ecosystem: The evolution of .NET into .NET 7](https://andrewlock.net/understanding-the-dotnet-ecosystem-the-evolution-of-dotnet-into-dotnet-7/)
 <!--END_SECTION:hn-->
 
 <!--
