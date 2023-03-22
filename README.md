@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 22 - [Every Possible Wordle Solution Visualized](https://www.perthirtysix.com/essay/wordle-solutions-visualized)
-- Mar 22 - [Postgres for Developers](https://postgrespro.com/community/courses)
-- Mar 22 - [Pytest Tips and Tricks](https://pythontest.com/pytest-tips-tricks/)
-- Mar 22 - [Bard uses a Hacker News comment as source to say that Bard has shut down](https://twitter.com/juanbuis/status/1638289186351456257)
-- Mar 22 - [Show HN: Generate styled web pages with just Python](https://www.pyvibe.com/)
+- Mar 22 - [SheepShaver: macOS run-time environment for BeOS and Linux](http://sheepshaver.cebix.net/)
+- Mar 22 - [The Federal Reserve is expected to increase interest rates by a quarter point](https://www.cnbc.com/2023/03/21/fed-likely-to-raise-rates-by-a-quarter-point-but-it-must-also-reassure-markets-on-banking-system.html)
+- Mar 22 - [Bard is much worse at puzzle solving than ChatGPT](https://twofergoofer.com/blog/bard)
+- Mar 22 - [Show HN: Finetune LLaMA-7B on commodity GPUs using your own text](https://github.com/lxe/simple-llama-finetuner)
+- Mar 22 - [Every possible Wordle solution visualized](https://www.perthirtysix.com/essay/wordle-solutions-visualized)
 <!--END_SECTION:hn-->
 
 <!--
