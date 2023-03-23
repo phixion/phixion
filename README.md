@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 22 - [The Vintage Technology Digital Archive](http://vtda.org/)
-- Mar 22 - [Everything ChatGPT – under the hood of the ChatGPT web app](https://github.com/terminalcommandnewsletter/everything-chatgpt)
-- Mar 22 - [When did New York start building slowly?](https://constructionphysics.substack.com/p/when-did-new-york-start-building)
-- Mar 22 - [Helix: A Sleek Open-Source Portfolio Website](https://merylldindin.com)
-- Mar 22 - [DISAppointment: Adding an ISA Slot to a Modern Motherboard](https://www.youtube.com/watch?v=IXr-VEpQ1lg)
+- Mar 23 - [FTC: Chatbots, deepfakes, and voice clones: AI deception for sale](https://www.ftc.gov/business-guidance/blog/2023/03/chatbots-deepfakes-voice-clones-ai-deception-sale)
+- Mar 23 - [Beloved hacking veteran Kelly ‘Aloria’ Lum passes away at 41](https://techcrunch.com/2023/03/22/kelly-aloria-lum-passes-away-at-41-obituary/)
+- Mar 23 - [We asked the SEC for reasonable crypto rules for Americans](https://www.coinbase.com/blog/we-asked-the-sec-for-reasonable-crypto-rules-for-americans-we-got-legal)
+- Mar 23 - [Chinese app included malware to gain competitive advantage](https://krebsonsecurity.com/2023/03/google-suspends-chinese-e-commerce-app-pinduoduo-over-malware/)
+- Mar 23 - [OpenAI’s policies hinder reproducible research on language models](https://aisnakeoil.substack.com/p/openais-policies-hinder-reproducible)
 <!--END_SECTION:hn-->
 
 <!--
