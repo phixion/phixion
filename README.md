@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 23 - [Memfault (YC W19) Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
-- Mar 23 - [MSCHF’s &#x27;Tax Heaven 3000&#x27; Is a Dating Simulator That Also Files Your Taxes](https://www.yahoo.com/lifestyle/mschfs-tax-heaven-3000-dating-095632728.html)
-- Mar 23 - [The danger isn’t that AI destroys us. It’s that it drives us insane](https://www.theguardian.com/technology/2023/mar/23/tech-guru-jaron-lanier-the-danger-isnt-that-ai-destroys-us-its-that-it-drives-us-insane)
-- Mar 23 - [Book Publishers Won&#x27;t Stop Until Libraries Are Dead](https://www.techdirt.com/2023/03/22/book-publishers-wont-stop-until-libraries-are-dead/)
-- Mar 23 - [Moviemaking and Gamemaking Are Converging](https://www.economist.com/special-report/2023/03/20/moviemaking-and-gamemaking-are-converging)
+- Mar 23 - [How to Polis, 101, Part IIa: Politeia in the Polis](https://acoup.blog/2023/03/17/collections-how-to-polis-part-iia-politeia-in-the-polis/)
+- Mar 23 - [Do Kwon reportedly arrested in Montenegro](https://www.coindesk.com/business/2023/03/23/do-kwon-arrested-in-montenegro-interior-minister/)
+- Mar 23 - [Butler Virtual Operating System](https://tristancacqueray.github.io/blog/introducing-butler)
+- Mar 23 - [The FTC wants to ban those tough-to-cancel gym and cable subscriptions](https://www.theverge.com/2023/3/23/23652373/ftc-click-to-cancel-subscription-service-dark-patterns-ban)
+- Mar 23 - [New ATLAS result weighs in on the W boson](https://atlas.cern/Updates/Briefing/2023-W-Mass-Measurement)
 <!--END_SECTION:hn-->
 
 <!--
