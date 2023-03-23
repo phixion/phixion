@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 22 - [ThumbHash: A better compact image placeholder hash](https://evanw.github.io/thumbhash/)
-- Mar 22 - [Raytracing on AMD’s RDNA 2&#x2F;3, and Nvidia’s Turing and Pascal](https://chipsandcheese.com/2023/03/22/raytracing-on-amds-rdna-2-3-and-nvidias-turing-and-pascal/)
-- Mar 22 - [Journalist plugs in unknown USB drive mailed to him–it exploded in his face](https://arstechnica.com/gadgets/2023/03/journalist-plugs-in-unknown-usb-drive-mailed-to-him-it-exploded-in-his-face/)
-- Mar 22 - [FauxPilot – an open-source GitHub Copilot server](https://github.com/fauxpilot/fauxpilot)
-- Mar 22 - [The Unix process API is unreliable and unsafe](http://catern.com/process.html)
+- Mar 22 - [The Vintage Technology Digital Archive](http://vtda.org/)
+- Mar 22 - [Everything ChatGPT – under the hood of the ChatGPT web app](https://github.com/terminalcommandnewsletter/everything-chatgpt)
+- Mar 22 - [When did New York start building slowly?](https://constructionphysics.substack.com/p/when-did-new-york-start-building)
+- Mar 22 - [Helix: A Sleek Open-Source Portfolio Website](https://merylldindin.com)
+- Mar 22 - [DISAppointment: Adding an ISA Slot to a Modern Motherboard](https://www.youtube.com/watch?v=IXr-VEpQ1lg)
 <!--END_SECTION:hn-->
 
 <!--
