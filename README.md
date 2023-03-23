@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 23 - [Supabase (YC S20) is looking for a dev to run our socials and community](https://boards.greenhouse.io/supabase/jobs/4777008004)
-- Mar 23 - [You might not need an effect](https://react.dev/learn/you-might-not-need-an-effect)
-- Mar 23 - [Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions](https://instruct-nerf2nerf.github.io/)
-- Mar 23 - [Kelly ‘Aloria’ Lum has died](https://techcrunch.com/2023/03/22/kelly-aloria-lum-passes-away-at-41-obituary/)
-- Mar 23 - [Chinese app included malware to gain competitive advantage](https://krebsonsecurity.com/2023/03/google-suspends-chinese-e-commerce-app-pinduoduo-over-malware/)
+- Mar 23 - [Memfault (YC W19) Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
+- Mar 23 - [MSCHF’s &#x27;Tax Heaven 3000&#x27; Is a Dating Simulator That Also Files Your Taxes](https://www.yahoo.com/lifestyle/mschfs-tax-heaven-3000-dating-095632728.html)
+- Mar 23 - [The danger isn’t that AI destroys us. It’s that it drives us insane](https://www.theguardian.com/technology/2023/mar/23/tech-guru-jaron-lanier-the-danger-isnt-that-ai-destroys-us-its-that-it-drives-us-insane)
+- Mar 23 - [Book Publishers Won&#x27;t Stop Until Libraries Are Dead](https://www.techdirt.com/2023/03/22/book-publishers-wont-stop-until-libraries-are-dead/)
+- Mar 23 - [Moviemaking and Gamemaking Are Converging](https://www.economist.com/special-report/2023/03/20/moviemaking-and-gamemaking-are-converging)
 <!--END_SECTION:hn-->
 
 <!--
