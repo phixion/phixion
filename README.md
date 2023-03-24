@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 23 - [The Origin of the Word Daemon (2002)](https://ei.cs.vt.edu/~history/Daemon.html)
-- Mar 23 - [How to read Hacker News threads with most recent comments first](https://til.simonwillison.net/hacker-news/recent-comments)
-- Mar 23 - [Surprising Scalability of Multitenancy – Marc&#x27;s Blog](https://brooker.co.za/blog/2023/03/23/economics.html)
-- Mar 23 - [Apple: Transformer architecture optimized for Apple Silicon](https://github.com/apple/ml-ane-transformers)
-- Mar 23 - [You can&#x27;t tell people anything](http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/)
+- Mar 24 - [Watch the Watchers: LAPD officer database](https://watchthewatchers.net/)
+- Mar 24 - [Letter from Stanford Law School Dean to the Campus Community](https://www.thefire.org/research-learn/letter-stanford-law-school-dean-jenny-martinez-campus-community-march-22-2023)
+- Mar 24 - [Police sue rapper Afroman for using footage of home raid in his music videos](https://www.theguardian.com/us-news/2023/mar/23/ohio-police-sue-rapper-afroman)
+- Mar 24 - [Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes](https://danacohen95.github.io/Set-the-Scene/)
+- Mar 24 - [Use the XDG Base Directory Specification](https://xdgbasedirectoryspecification.com/)
 <!--END_SECTION:hn-->
 
 <!--
