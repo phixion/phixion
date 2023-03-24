@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 23 - [Stanford’s war against its own students](https://www.thefp.com/p/stanfords-war-against-its-own-students)
-- Mar 23 - [How to use Alpaca-LoRA to fine-tune a model like ChatGPT](https://replicate.com/blog/fine-tune-alpaca-with-lora)
-- Mar 23 - [The heaviest bicycle in the world is 4800 lb](https://driverscoops.com/the-heaviest-bicycle-in-the-world-4800-lb/)
-- Mar 23 - [AI’s compute fragmentation: what matrix multiplication teaches us](https://www.modular.com/blog/ais-compute-fragmentation-what-matrix-multiplication-teaches-us)
-- Mar 23 - [Launch HN: Helicone.ai (YC W23) – Open-source logging for OpenAI](https://news.ycombinator.com/item?id=35279155)
+- Mar 23 - [The Origin of the Word Daemon (2002)](https://ei.cs.vt.edu/~history/Daemon.html)
+- Mar 23 - [How to read Hacker News threads with most recent comments first](https://til.simonwillison.net/hacker-news/recent-comments)
+- Mar 23 - [Surprising Scalability of Multitenancy – Marc&#x27;s Blog](https://brooker.co.za/blog/2023/03/23/economics.html)
+- Mar 23 - [Apple: Transformer architecture optimized for Apple Silicon](https://github.com/apple/ml-ane-transformers)
+- Mar 23 - [You can&#x27;t tell people anything](http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/)
 <!--END_SECTION:hn-->
 
 <!--
