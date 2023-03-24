@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 24 - [Jack Dorsey’s Block loses 20% of value as Hindenburg Research alleges fraud](https://finance.yahoo.com/news/jack-dorsey-block-loses-20-164948270.html)
-- Mar 24 - [Boolean Logic, missing brackets and the 2023 Nigeria Presidential Election](https://markessien.com/posts/boolean_logic_and_the_tribunal/)
-- Mar 24 - [The venture capitalist&#x27;s dilemma](https://newsletter.mollywhite.net/p/the-venture-capitalists-dilemma)
-- Mar 24 - [We updated our RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
-- Mar 24 - [RP2040 Runs Linux Through RISC-V Emulation](https://hackaday.com/2023/03/19/rp2040-runs-linux-through-risc-v-emulation/)
+- Mar 24 - [Meticulous (YC S21) Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=35287892)
+- Mar 24 - [Facebook is aggressively going after LLaMA repos with DMCA&#x27;s](https://twitter.com/theshawwn/status/1638925249709240322)
+- Mar 24 - [Show HN: Hacker News Summarizer (Chrome Extension)](https://chrome.google.com/webstore/detail/hacker-news-summarizer/ajodkpllepafdcjcgklhnamlnninjbmd)
+- Mar 24 - [Rocket-powered space planes get approval to operate out of NZ airports](https://www.stuff.co.nz/business/131599726/rocketpowered-space-planes-get-approval-to-operate-out-of-nz-airports)
+- Mar 24 - [Define Wokeness Or how you shall know a word by the company it keeps](https://davidrozado.substack.com/p/wo)
 <!--END_SECTION:hn-->
 
 <!--
