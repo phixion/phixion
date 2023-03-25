@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 25 - [Think Better with Reflect](https://reflect.app/)
-- Mar 25 - [India Shut Down Cell Service for 27M During a Manhunt](https://www.wired.com/story/india-activist-manhunt-sikh-activist/)
-- Mar 25 - [Major shake-up coming for Fermilab, the troubled U.S. particle physics center](https://www.science.org/content/article/major-shake-coming-fermilab-troubled-u-s-particle-physics-center)
-- Mar 25 - [YouTube’s chaotic rise to world domination](https://english.elpais.com/society/2023-03-25/youtubes-chaotic-rise-to-world-domination-not-long-ago-virtually-no-one-took-it-seriously.html)
-- Mar 25 - [Sweet Dreams Cereal – Post&#x27;s new product category of “bedtime cereal”](https://www.postconsumerbrands.com/sweet-dreams/)
+- Mar 25 - [ChatGPT will revolutionize the economy. We need to decide what that looks like](https://www.technologyreview.com/2023/03/25/1070275/chatgpt-revolutionize-economy-decide-what-looks-like/)
+- Mar 25 - [Experimental library for scraping websites using OpenAI&#x27;s GPT API](https://jamesturk.github.io/scrapeghost/)
+- Mar 25 - [OpenAI CEO Sam Altman on Lex Fridman Podcast](https://www.youtube.com/watch?v=L_Guz73e6fw)
+- Mar 25 - [Any type of hormonal contraceptive may increase risk of breast cancer](https://www.ox.ac.uk/news/2023-03-22-any-type-hormonal-contraceptive-may-increase-risk-breast-cancer-0)
+- Mar 25 - [A Bad Trip to Infinity](https://billwadge.com/2023/03/25/a-bad-trip-to-infinity/)
 <!--END_SECTION:hn-->
 
 <!--
