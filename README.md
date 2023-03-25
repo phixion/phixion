@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 25 - [Gordon Moore, Intel Co-Founder, Dies at 94](https://www.intc.com/news-events/press-releases/detail/1611/gordon-moore-intel-co-founder-dies-at-94)
-- Mar 24 - [Judge Decides Against Internet Archive](https://file770.com/judge-decides-against-internet-archive/)
-- Mar 24 - [We Ran a Phone Check at a Y Combinator Event in SF. Here’s How It Went](https://blog.getclearspace.com/we-ran-a-phone-check-at-a-ycombinator-event-in-san-francisco-heres-how-it-went-fb920a54c755)
-- Mar 24 - [We need a new economics of water as a common good](https://www.nature.com/articles/d41586-023-00800-z)
-- Mar 24 - [Internet of Skull](https://mle-online.com/projects/internet_skull/index.html)
+- Mar 25 - [Ask HN: How are you using GPT to be productive?](https://news.ycombinator.com/item?id=35299071)
+- Mar 25 - [Orange Pi 5 Is a Great and Fast Alternative to the Raspberry Pi 4](https://www.phoronix.com/review/orange-pi-5)
+- Mar 25 - [Cramming More Components onto Integrated Circuits (1965) [pdf]](https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf)
+- Mar 25 - [Autodoc: Toolkit for auto-generating codebase documentation using LLMs](https://github.com/context-labs/autodoc)
+- Mar 25 - [Gordon Moore has died](https://www.moore.org/article-detail?newsUrlName=in-memoriam-gordon-moore-1929-2023)
 <!--END_SECTION:hn-->
 
 <!--
