@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 25 - [Paperspace (YC W15) is hiring a fullstack engineer to simplify deploying AI apps](https://www.paperspace.com/careers/positions?gh_jid=4180983005&gh_src=652ffa365us)
-- Mar 25 - [Everything we know about the Apple Neural Engine (ANE)](https://github.com/hollance/neural-engine)
-- Mar 25 - [Common Lisp Quick Reference](http://clqr.boundp.org)
-- Mar 25 - [“Can we ban iPhone in retaliation?” Chinese internet reacts to TikTok hearing](https://thechinaproject.com/2023/03/24/can-we-ban-iphone-in-retaliation-chinese-internet-reacts-to-tiktok-hearing-in-the-u-s/)
-- Mar 25 - [Yunohost: Get Off of My Cloud](https://yunohost.org)
+- Mar 25 - [Think Better with Reflect](https://reflect.app/)
+- Mar 25 - [India Shut Down Cell Service for 27M During a Manhunt](https://www.wired.com/story/india-activist-manhunt-sikh-activist/)
+- Mar 25 - [Major shake-up coming for Fermilab, the troubled U.S. particle physics center](https://www.science.org/content/article/major-shake-coming-fermilab-troubled-u-s-particle-physics-center)
+- Mar 25 - [YouTube’s chaotic rise to world domination](https://english.elpais.com/society/2023-03-25/youtubes-chaotic-rise-to-world-domination-not-long-ago-virtually-no-one-took-it-seriously.html)
+- Mar 25 - [Sweet Dreams Cereal – Post&#x27;s new product category of “bedtime cereal”](https://www.postconsumerbrands.com/sweet-dreams/)
 <!--END_SECTION:hn-->
 
 <!--
