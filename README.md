@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 25 - [Agile Is a Glass Cannon](https://www.tomdalling.com/blog/software-processes/agile-is-a-glass-cannon/)
+- Mar 25 - [Cloudflare Disables Access to ‘Pirated’ Content on Its IPFS Gateway](https://torrentfreak.com/cloudflare-disables-access-to-pirated-content-on-its-ipfs-gateway-230324/)
 - Mar 25 - [Ask HN: How are you using GPT to be productive?](https://news.ycombinator.com/item?id=35299071)
+- Mar 25 - [Stripe – Prohibited and Restricted Businesses](https://stripe.com/legal/restricted-businesses)
 - Mar 25 - [Orange Pi 5 Is a Great and Fast Alternative to the Raspberry Pi 4](https://www.phoronix.com/review/orange-pi-5)
-- Mar 25 - [Cramming More Components onto Integrated Circuits (1965) [pdf]](https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf)
-- Mar 25 - [Autodoc: Toolkit for auto-generating codebase documentation using LLMs](https://github.com/context-labs/autodoc)
-- Mar 25 - [Gordon Moore has died](https://www.moore.org/article-detail?newsUrlName=in-memoriam-gordon-moore-1929-2023)
 <!--END_SECTION:hn-->
 
 <!--
