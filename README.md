@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 24 - [Florida parents upset by Michelangelo’s ‘David’ force out principal](https://www.washingtonpost.com/education/2023/03/24/florida-principal-michelangelo-david-parents/)
-- Mar 24 - [Explaining my fast 6502 code generator](https://pubby.games/codegen.html)
-- Mar 24 - [OpenAI CEO &#x27;feels awful&#x27; about ChatGPT leaking conversations](https://www.theregister.com/2023/03/23/openai_ceo_leak/)
-- Mar 24 - [Arm wants to charge dramatically more for chip licenses](https://arstechnica.com/gadgets/2023/03/risc-y-business-arm-wants-to-charge-dramatically-more-for-chip-licenses/)
-- Mar 24 - [Bing sees 15.8% boost in visits following GPT-4 push, as Google sees a decline](https://www.reuters.com/technology/openai-tech-gives-microsofts-bing-boost-search-battle-with-google-2023-03-22/)
+- Mar 25 - [Gordon Moore, Intel Co-Founder, Dies at 94](https://www.intc.com/news-events/press-releases/detail/1611/gordon-moore-intel-co-founder-dies-at-94)
+- Mar 24 - [Judge Decides Against Internet Archive](https://file770.com/judge-decides-against-internet-archive/)
+- Mar 24 - [We Ran a Phone Check at a Y Combinator Event in SF. Here’s How It Went](https://blog.getclearspace.com/we-ran-a-phone-check-at-a-ycombinator-event-in-san-francisco-heres-how-it-went-fb920a54c755)
+- Mar 24 - [We need a new economics of water as a common good](https://www.nature.com/articles/d41586-023-00800-z)
+- Mar 24 - [Internet of Skull](https://mle-online.com/projects/internet_skull/index.html)
 <!--END_SECTION:hn-->
 
 <!--
