@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 25 - [Agile Is a Glass Cannon](https://www.tomdalling.com/blog/software-processes/agile-is-a-glass-cannon/)
-- Mar 25 - [Cloudflare Disables Access to ‘Pirated’ Content on Its IPFS Gateway](https://torrentfreak.com/cloudflare-disables-access-to-pirated-content-on-its-ipfs-gateway-230324/)
-- Mar 25 - [Ask HN: How are you using GPT to be productive?](https://news.ycombinator.com/item?id=35299071)
-- Mar 25 - [Stripe – Prohibited and Restricted Businesses](https://stripe.com/legal/restricted-businesses)
-- Mar 25 - [Orange Pi 5 Is a Great and Fast Alternative to the Raspberry Pi 4](https://www.phoronix.com/review/orange-pi-5)
+- Mar 25 - [Paperspace (YC W15) is hiring a fullstack engineer to simplify deploying AI apps](https://www.paperspace.com/careers/positions?gh_jid=4180983005&gh_src=652ffa365us)
+- Mar 25 - [Everything we know about the Apple Neural Engine (ANE)](https://github.com/hollance/neural-engine)
+- Mar 25 - [Common Lisp Quick Reference](http://clqr.boundp.org)
+- Mar 25 - [“Can we ban iPhone in retaliation?” Chinese internet reacts to TikTok hearing](https://thechinaproject.com/2023/03/24/can-we-ban-iphone-in-retaliation-chinese-internet-reacts-to-tiktok-hearing-in-the-u-s/)
+- Mar 25 - [Yunohost: Get Off of My Cloud](https://yunohost.org)
 <!--END_SECTION:hn-->
 
 <!--
