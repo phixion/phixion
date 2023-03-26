@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 26 - [Using ChatGPT Plugins with LLaMA](https://blog.lastmileai.dev/using-openais-retrieval-plugin-with-llama-d2e0b6732f14)
-- Mar 26 - [Colorectal cancer is rising among younger adults](https://www.cnn.com/2023/03/24/health/colorectal-cancer-young-age-mystery/index.html)
-- Mar 26 - [Arduino Uno R4](https://blog.arduino.cc/2023/03/25/arduino-uno-r4/)
-- Mar 26 - [Agatha Christie novels reworked to remove potentially offensive language](https://www.theguardian.com/books/2023/mar/26/agatha-christie-novels-reworked-to-remove-potentially-offensive-language)
-- Mar 26 - [EU was set to ban internal combustion engine cars, then Germany changed its mind](https://www.cnn.com/2023/03/24/cars/eu-combustion-engine-debate-climate-intl/index.html)
+- Mar 26 - [GPT-2 as step toward general intelligence (2019)](https://slatestarcodex.com/2019/02/19/gpt-2-as-step-toward-general-intelligence/)
+- Mar 26 - [The Graphical User Interface Gallery](http://toastytech.com/guis/index.html)
+- Mar 26 - [Cryptocurrencies add nothing useful to society, says chip-maker Nvidia](https://www.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining)
+- Mar 26 - [Craziest thing I ever used SQLite for: partial file deduplication](https://sqlite.org/forum/forumpost/7fecf11e42c71a91?raw)
+- Mar 26 - [CNBC just deleted 5 pages showing CD5 data for banks including JPM and BAC](https://news.ycombinator.com/item?id=35317366)
 <!--END_SECTION:hn-->
 
 <!--
