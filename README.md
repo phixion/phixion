@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 25 - [Proxmox doesn&#x27;t handle daylight savings time, hangs systemd and breaks systems](https://forum.proxmox.com/threads/systemd-100-cpu-hang.124767/)
-- Mar 25 - [Dismantling a Crappy Malware Operation](https://mrbruh.com/dismantling_malware_operation/)
-- Mar 25 - [I lost everything that made me love my job through Midjourney overnight](https://old.reddit.com/r/blender/comments/121lhfq/i_lost_everything_that_made_me_love_my_job/)
-- Mar 25 - [My experience crafting an interpreter with Rust (2021)](https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/)
-- Mar 25 - [A nasal spray protects against coronavirus including immune-evasive variants](https://www.helsinki.fi/en/news/pandemics/nasal-spray-protects-against-coronavirus-infection-effective-also-against-recent-immune-evasive-variants)
+- Mar 26 - [Ruffle – Flash Emulator – Progress Report](https://ruffle.rs/blog/2023/03/12/progress-report.html)
+- Mar 26 - [U.S. Home Prices Are the Most Unaffordable They&#x27;ve Been in Nearly 100 Years](https://www.longtermtrends.net/home-price-median-annual-income-ratio/)
+- Mar 26 - [Cargo theft, led by food and beverage, is surging across the U.S.](https://www.cnbc.com/2023/03/25/cargo-theft-led-by-food-and-beverage-is-surging-across-the-us.html)
+- Mar 26 - [Show HN: 13Sheep – a JavaScript game largely authored by ChatGPT](https://13sheep.netlify.app/)
+- Mar 25 - [systemd 100% cpu hang? – Proxmox Support Forum](https://forum.proxmox.com/threads/systemd-100-cpu-hang.124767/)
 <!--END_SECTION:hn-->
 
 <!--
