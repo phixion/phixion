@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 26 - [ChatGPT 4 saved my dog’s life](https://twitter.com/peakcooper/status/1639716822680236032)
+- Mar 26 - [Reverse-engineering the Globus INK, a Soviet spaceflight navigation computer](https://www.righto.com/2023/03/reverse-engineering-globus-ink-soviet.html)
+- Mar 26 - [GNUstep compatibility with macOS Catalina almost complete](https://heronsperch.blogspot.com/2023/03/compatibility-project-almost-complete.html)
 - Mar 26 - [Ruffle – Flash Emulator – Progress Report](https://ruffle.rs/blog/2023/03/12/progress-report.html)
 - Mar 26 - [U.S. Home Prices Are the Most Unaffordable They&#x27;ve Been in Nearly 100 Years](https://www.longtermtrends.net/home-price-median-annual-income-ratio/)
-- Mar 26 - [Cargo theft, led by food and beverage, is surging across the U.S.](https://www.cnbc.com/2023/03/25/cargo-theft-led-by-food-and-beverage-is-surging-across-the-us.html)
-- Mar 26 - [Show HN: 13Sheep – a JavaScript game largely authored by ChatGPT](https://13sheep.netlify.app/)
-- Mar 25 - [systemd 100% cpu hang? – Proxmox Support Forum](https://forum.proxmox.com/threads/systemd-100-cpu-hang.124767/)
 <!--END_SECTION:hn-->
 
 <!--
