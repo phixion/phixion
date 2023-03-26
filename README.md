@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 26 - [ChatGPT 4 saved my dog’s life](https://twitter.com/peakcooper/status/1639716822680236032)
-- Mar 26 - [Reverse-engineering the Globus INK, a Soviet spaceflight navigation computer](https://www.righto.com/2023/03/reverse-engineering-globus-ink-soviet.html)
-- Mar 26 - [GNUstep compatibility with macOS Catalina almost complete](https://heronsperch.blogspot.com/2023/03/compatibility-project-almost-complete.html)
-- Mar 26 - [Ruffle – Flash Emulator – Progress Report](https://ruffle.rs/blog/2023/03/12/progress-report.html)
-- Mar 26 - [U.S. Home Prices Are the Most Unaffordable They&#x27;ve Been in Nearly 100 Years](https://www.longtermtrends.net/home-price-median-annual-income-ratio/)
+- Mar 26 - [Float Health (YC W22) Is Hiring Senior Software Engineer](https://news.ycombinator.com/item?id=35313542)
+- Mar 26 - [140 Megapixel Picture of the Sun](https://old.reddit.com/r/space/comments/122475u/i_teamed_up_with_a_fellow_redditor_to_try_and/)
+- Mar 26 - [Text Only News Websites](https://blog.wturrell.co.uk/text-only-news-websites/)
+- Mar 26 - [Show HN: GPT-4 Reverse Turing Test](https://gist.github.com/rain-1/3bf56122b0ebeac929dff0f881ee8e4c)
+- Mar 26 - [The F-15 Eagle: Origins and Development, 1964-1972 [pdf]](https://media.defense.gov/2012/May/16/2001330012/-1/-1/0/AFD-120516-036.pdf)
 <!--END_SECTION:hn-->
 
 <!--
