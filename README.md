@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 26 - [Float Health (YC W22) Is Hiring Senior Software Engineer](https://news.ycombinator.com/item?id=35313542)
-- Mar 26 - [140 Megapixel Picture of the Sun](https://old.reddit.com/r/space/comments/122475u/i_teamed_up_with_a_fellow_redditor_to_try_and/)
-- Mar 26 - [Text Only News Websites](https://blog.wturrell.co.uk/text-only-news-websites/)
-- Mar 26 - [Show HN: GPT-4 Reverse Turing Test](https://gist.github.com/rain-1/3bf56122b0ebeac929dff0f881ee8e4c)
-- Mar 26 - [The F-15 Eagle: Origins and Development, 1964-1972 [pdf]](https://media.defense.gov/2012/May/16/2001330012/-1/-1/0/AFD-120516-036.pdf)
+- Mar 26 - [Using ChatGPT Plugins with LLaMA](https://blog.lastmileai.dev/using-openais-retrieval-plugin-with-llama-d2e0b6732f14)
+- Mar 26 - [Colorectal cancer is rising among younger adults](https://www.cnn.com/2023/03/24/health/colorectal-cancer-young-age-mystery/index.html)
+- Mar 26 - [Arduino Uno R4](https://blog.arduino.cc/2023/03/25/arduino-uno-r4/)
+- Mar 26 - [Agatha Christie novels reworked to remove potentially offensive language](https://www.theguardian.com/books/2023/mar/26/agatha-christie-novels-reworked-to-remove-potentially-offensive-language)
+- Mar 26 - [EU was set to ban internal combustion engine cars, then Germany changed its mind](https://www.cnn.com/2023/03/24/cars/eu-combustion-engine-debate-climate-intl/index.html)
 <!--END_SECTION:hn-->
 
 <!--
