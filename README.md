@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 26 - [Fide Women’s Grand Prix Collapses into “Chaos” as Players Withdraw](https://lichess.org/blog/ZCBr7hYAAP86If6m/fide-womens-grand-prix-collapses-into-chaos-as-players-withdraw)
-- Mar 26 - [The RIAA vs. Steve Jobs](https://weblog.rogueamoeba.com/2023/03/24/the-riaa-v-steve-jobs/)
-- Mar 26 - [BlenderGPT: Use commands in English to control Blender with OpenAI&#x27;s GPT-4](https://github.com/gd3kr/BlenderGPT)
-- Mar 26 - [An interview with Steve Wozniak by Jessica Livingston cured my AI anxiety](https://blog.vslira.net/2023/03/an-interview-with-steve-wozniak-by.html)
-- Mar 26 - [Robot Learns to See in 30 Minutes](https://antonilo.github.io/vision_locomotion/)
+- Mar 27 - [Scientists Finally Figure Out Why the Water Bear Is Nearly Indestructible](https://www.veterinarydaily.com/2023/03/scientists-finally-figure-out-why-water.html)
+- Mar 27 - [The chat control proposal does not belong in democratic societies](https://mullvad.net/en/chatcontrol)
+- Mar 27 - [Argonaut (YC S21) Is Hiring a FullStack Engineer in India (Remote)](https://www.ycombinator.com/companies/argonaut/jobs/pJavmIJ-fullstack-engineer)
+- Mar 27 - [Video Rendering with Node.js and FFmpeg](https://creatomate.com/blog/video-rendering-with-nodejs-and-ffmpeg)
+- Mar 27 - [JSON for Linking Data](https://json-ld.org)
 <!--END_SECTION:hn-->
 
 <!--
