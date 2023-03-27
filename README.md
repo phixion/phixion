@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 27 - [Microsoft rebuilt Teams from the ground up, promises 2x faster performance](https://techcrunch.com/2023/03/27/microsoft-rebuilds-teams-promises-2x-faster-performance/)
-- Mar 27 - [US CFTC Sues Binance and CEO Changpeng Zhao](https://web3isgoinggreat.com/?id=cftc-sues-binance-and-ceo-changpeng-zhao)
-- Mar 27 - [Binance Sued by US Watchdog for Alleged Derivatives Rule Lapses](https://www.bloomberg.com/news/articles/2023-03-27/crypto-exchange-binance-sued-by-us-cftc-for-alleged-derivatives-rule-lapses)
-- Mar 27 - [Show HN: Open AI is not Open – A browser extension](https://github.com/zaporter/OpenAI-is-not-Open)
-- Mar 27 - [Instead of Freaking Out, Try Geeking Out](https://cscaz.cansurround.com/articles/45)
+- Mar 27 - [Disney Layoffs 7000 People](https://www.cnn.com/2023/03/27/media/disney-layoffs/index.html)
+- Mar 27 - [Greenland ice sheet is close to a melting point of no return](https://news.agu.org/press-release/the-greenland-ice-sheet-is-close-to-a-melting-point-of-no-return/)
+- Mar 27 - [Employees Are Feeding Sensitive Biz Data to ChatGPT, Raising Security Fears](https://www.darkreading.com/risk/employees-feeding-sensitive-business-data-chatgpt-raising-security-fears)
+- Mar 27 - [WebKit Features in Safari 16.4](https://webkit.org/blog/13966/webkit-features-in-safari-16-4/)
+- Mar 27 - [Apple Passwords Deserve an App](https://cabel.com/2023/03/27/apple-passwords-deserve-an-app/)
 <!--END_SECTION:hn-->
 
 <!--
