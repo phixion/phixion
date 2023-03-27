@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 26 - [GPT-2 as step toward general intelligence (2019)](https://slatestarcodex.com/2019/02/19/gpt-2-as-step-toward-general-intelligence/)
-- Mar 26 - [The Graphical User Interface Gallery](http://toastytech.com/guis/index.html)
-- Mar 26 - [Cryptocurrencies add nothing useful to society, says chip-maker Nvidia](https://www.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining)
-- Mar 26 - [Craziest thing I ever used SQLite for: partial file deduplication](https://sqlite.org/forum/forumpost/7fecf11e42c71a91?raw)
-- Mar 26 - [CNBC just deleted 5 pages showing CD5 data for banks including JPM and BAC](https://news.ycombinator.com/item?id=35317366)
+- Mar 26 - [Fide Women’s Grand Prix Collapses into “Chaos” as Players Withdraw](https://lichess.org/blog/ZCBr7hYAAP86If6m/fide-womens-grand-prix-collapses-into-chaos-as-players-withdraw)
+- Mar 26 - [The RIAA vs. Steve Jobs](https://weblog.rogueamoeba.com/2023/03/24/the-riaa-v-steve-jobs/)
+- Mar 26 - [BlenderGPT: Use commands in English to control Blender with OpenAI&#x27;s GPT-4](https://github.com/gd3kr/BlenderGPT)
+- Mar 26 - [An interview with Steve Wozniak by Jessica Livingston cured my AI anxiety](https://blog.vslira.net/2023/03/an-interview-with-steve-wozniak-by.html)
+- Mar 26 - [Robot Learns to See in 30 Minutes](https://antonilo.github.io/vision_locomotion/)
 <!--END_SECTION:hn-->
 
 <!--
