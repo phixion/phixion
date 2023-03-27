@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 27 - [OBS Studio Lands AV1 and HEVC RTMP Streaming Support](https://www.phoronix.com/news/OBS-Studio-AV1-HEVC-RTMP)
-- Mar 27 - [Setting up a packaging environment for Alpine Linux (introducing alpkg)](https://blog.orhun.dev/alpine-packaging-setup/)
-- Mar 27 - [Thoughts on Svelte](https://tyhopp.com/notes/thoughts-on-svelte)
-- Mar 27 - [Show HN: SlickGPT](https://slickgpt.vercel.app/)
-- Mar 27 - [Journey Planner Challenge – You need to visit 5 tube stations](https://edjefferson.com/journeyplannerchallenge/)
+- Mar 27 - [Microsoft rebuilt Teams from the ground up, promises 2x faster performance](https://techcrunch.com/2023/03/27/microsoft-rebuilds-teams-promises-2x-faster-performance/)
+- Mar 27 - [US CFTC Sues Binance and CEO Changpeng Zhao](https://web3isgoinggreat.com/?id=cftc-sues-binance-and-ceo-changpeng-zhao)
+- Mar 27 - [Binance Sued by US Watchdog for Alleged Derivatives Rule Lapses](https://www.bloomberg.com/news/articles/2023-03-27/crypto-exchange-binance-sued-by-us-cftc-for-alleged-derivatives-rule-lapses)
+- Mar 27 - [Show HN: Open AI is not Open – A browser extension](https://github.com/zaporter/OpenAI-is-not-Open)
+- Mar 27 - [Instead of Freaking Out, Try Geeking Out](https://cscaz.cansurround.com/articles/45)
 <!--END_SECTION:hn-->
 
 <!--
