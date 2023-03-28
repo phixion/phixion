@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 28 - [Toko (YC W22) Is Hiring a Founding Engineer to Teach English with AI](https://news.ycombinator.com/item?id=35339377)
-- Mar 28 - [You&#x27;re making me buy a new phone](https://www.kooslooijesteijn.net/blog/you-are-making-me-buy-a-new-phone?pk_campaign=rss)
-- Mar 28 - [Smart urinals stuck on boot at a gas station in Germany](https://old.reddit.com/r/PBSOD/comments/1244p9k/smart_urinals_stuck_on_boot_at_a_gas_station_in/)
-- Mar 28 - [Initialization in Modern C++ (295 pages)](https://old.reddit.com/r/cpp/comments/1242djf/295_pages_on_initialization_in_modern_c/)
-- Mar 28 - [Push notifications are now supported cross-browser](https://web.dev/push-notifications-in-all-modern-browsers/)
+- Mar 28 - [Apple introduces Apple Pay Later](https://www.apple.com/newsroom/2023/03/apple-introduces-apple-pay-later/)
+- Mar 28 - [Jeff Thomas&#x27; death currently considered a suicide. Peter Thiel to be questioned](https://theintercept.com/2023/03/23/peter-thiel-jeff-thomas/)
+- Mar 28 - [Quicker Serverless Postgres Connections](https://neon.tech/blog/quicker-serverless-postgres)
+- Mar 28 - [A non-federated decentralized social protocol based on Git](https://github.com/social4git/social4git)
+- Mar 28 - [Nuenv: An experimental Nushell builder for Nix packages](https://determinate.systems/posts/nuenv)
 <!--END_SECTION:hn-->
 
 <!--
