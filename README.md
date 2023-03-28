@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 28 - [A brief history of APFS (Apple File System) in honour of its fifth birthday](https://eclecticlight.co/2022/04/01/a-brief-history-of-apfs-in-honour-of-its-fifth-birthday/)
-- Mar 28 - [For the First Time, the Fed Is Losing Money](https://www.wsj.com/articles/for-the-first-time-the-fed-is-losing-money-mortage-backed-securities-treasurys-interest-rate-risk-svb-ad92e96f)
-- Mar 28 - [Procedural 3D mesh generation in a 64kB intro](https://www.ctrl-alt-test.fr/2023/procedural-3d-mesh-generation-in-a-64kb-intro/)
-- Mar 28 - [Patriot Act on steroids: anti-TikTok Trojan horse for censorship, surveillance](https://dossier.substack.com/p/the-patriot-act-on-steroids-dc-uniparty)
-- Mar 28 - [Show HN: Regex.ai – AI-powered regular expression generator](https://regex.ai/)
+- Mar 28 - [Trigonometric Functions in CSS](https://web.dev/css-trig-functions/)
+- Mar 28 - [The meat industry blocked the IPCC’s attempt to recommend a plant-based diet](https://qz.com/ipcc-report-on-climate-change-meat-industry-1850261179)
+- Mar 28 - [Can you buy the same ticket at a lower price if you buy it from another country?](https://travel.stackexchange.com/questions/180321/can-you-buy-the-same-ticket-with-a-lower-price-if-you-buy-it-from-another-countr)
+- Mar 28 - [A brief history of APFS (Apple file system) in honour of its fifth birthday](https://eclecticlight.co/2022/04/01/a-brief-history-of-apfs-in-honour-of-its-fifth-birthday/)
+- Mar 28 - [For the first time, the Fed is losing money](https://www.wsj.com/articles/for-the-first-time-the-fed-is-losing-money-mortage-backed-securities-treasurys-interest-rate-risk-svb-ad92e96f)
 <!--END_SECTION:hn-->
 
 <!--
