@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 28 - [Trigonometric Functions in CSS](https://web.dev/css-trig-functions/)
-- Mar 28 - [The meat industry blocked the IPCC’s attempt to recommend a plant-based diet](https://qz.com/ipcc-report-on-climate-change-meat-industry-1850261179)
-- Mar 28 - [Can you buy the same ticket at a lower price if you buy it from another country?](https://travel.stackexchange.com/questions/180321/can-you-buy-the-same-ticket-with-a-lower-price-if-you-buy-it-from-another-countr)
-- Mar 28 - [A brief history of APFS (Apple file system) in honour of its fifth birthday](https://eclecticlight.co/2022/04/01/a-brief-history-of-apfs-in-honour-of-its-fifth-birthday/)
-- Mar 28 - [For the first time, the Fed is losing money](https://www.wsj.com/articles/for-the-first-time-the-fed-is-losing-money-mortage-backed-securities-treasurys-interest-rate-risk-svb-ad92e96f)
+- Mar 28 - [Toko (YC W22) Is Hiring a Founding Engineer to Teach English with AI](https://news.ycombinator.com/item?id=35339377)
+- Mar 28 - [You&#x27;re making me buy a new phone](https://www.kooslooijesteijn.net/blog/you-are-making-me-buy-a-new-phone?pk_campaign=rss)
+- Mar 28 - [Smart urinals stuck on boot at a gas station in Germany](https://old.reddit.com/r/PBSOD/comments/1244p9k/smart_urinals_stuck_on_boot_at_a_gas_station_in/)
+- Mar 28 - [Initialization in Modern C++ (295 pages)](https://old.reddit.com/r/cpp/comments/1242djf/295_pages_on_initialization_in_modern_c/)
+- Mar 28 - [Push notifications are now supported cross-browser](https://web.dev/push-notifications-in-all-modern-browsers/)
 <!--END_SECTION:hn-->
 
 <!--
