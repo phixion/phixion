@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 29 - [Scientists discover why aspirin works so well](https://www.eurekalert.org/news-releases/983050?)
-- Mar 29 - [Generative AI is good at cooperating with people and bad at full automation](https://skybrian.substack.com/p/generative-ai-is-good-at-cooperating)
-- Mar 29 - [Binance Sees $2B in Outflows as Troubles Compound](https://www.wsj.com/articles/binance-sees-2-billion-in-outflows-as-troubles-compound-9a136e21)
-- Mar 29 - [Modern software performance is firmly in its “beyond parody” stage](https://twitter.com/cmuratori/status/1640827575437250561)
-- Mar 29 - [The bill to ban TikTok is absolutely terrifying](https://twitter.com/greg_price11/status/1640722365809147905)
+- Mar 29 - [Now ChatGPT is being (mis)used to do PeerReview](https://mstdn.science/@ukrio/110100752908161183)
+- Mar 29 - [WiFi protocol flaw allows attackers to hijack network traffic](https://www.bleepingcomputer.com/news/security/wifi-protocol-flaw-allows-attackers-to-hijack-network-traffic/)
+- Mar 29 - [Establishing a UART Root Connection to a TP-Link Wireless Router](https://staging.rickconsole.com/posts/hardware-hacking-tp-link/)
+- Mar 29 - [Brainstorm Questions Not Ideas](https://www.muledesign.com/blog/brainstorm-questions)
+- Mar 29 - [Text2Video-Zero Code and Weights Released by Picsart AI Research (12G VRAM)](https://github.com/Picsart-AI-Research/Text2Video-Zero)
 <!--END_SECTION:hn-->
 
 <!--
