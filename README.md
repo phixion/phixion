@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 29 - [Now ChatGPT is being (mis)used to do PeerReview](https://mstdn.science/@ukrio/110100752908161183)
-- Mar 29 - [WiFi protocol flaw allows attackers to hijack network traffic](https://www.bleepingcomputer.com/news/security/wifi-protocol-flaw-allows-attackers-to-hijack-network-traffic/)
-- Mar 29 - [Establishing a UART Root Connection to a TP-Link Wireless Router](https://staging.rickconsole.com/posts/hardware-hacking-tp-link/)
-- Mar 29 - [Brainstorm Questions Not Ideas](https://www.muledesign.com/blog/brainstorm-questions)
-- Mar 29 - [Text2Video-Zero Code and Weights Released by Picsart AI Research (12G VRAM)](https://github.com/Picsart-AI-Research/Text2Video-Zero)
+- Mar 29 - [Bitmovin (YC S15) Is Hiring Engineers, Architects and CX for Video](https://bitmovin.com/careers/)
+- Mar 29 - [Italy moves to ban lab-grown meat to protect food heritage](https://www.bbc.co.uk/news/world-europe-65110744)
+- Mar 29 - [The Age of Average](https://www.alexmurrell.co.uk/articles/the-age-of-average)
+- Mar 29 - [Mamihlapinatapai, Most Succinct Word](https://en.wikipedia.org/wiki/Mamihlapinatapai)
+- Mar 29 - [Ubuntu stops shipping Flatpak by default](https://lwn.net/SubscriberLink/927262/6adb2350e2b0d2ce/)
 <!--END_SECTION:hn-->
 
 <!--
