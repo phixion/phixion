@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 28 - [Gpt4all: A chatbot trained on ~800k GPT-3.5-Turbo Generations based on LLaMa](https://github.com/nomic-ai/gpt4all)
-- Mar 28 - [Rust Is a Scalable Language](https://matklad.github.io/2023/03/28/rust-is-a-scalable-language.html)
-- Mar 28 - [Ask HN: Can Software Engineering Help Combat Climate Change?](https://news.ycombinator.com/item?id=35349174)
-- Mar 28 - [HuggingFace and Open Source AI Meetup in SFO Mar 31st](https://twitter.com/BrigitteTousi/status/1640771873985142786)
-- Mar 28 - [The EV Transition Is Harder Than Anyone Thinks](https://spectrum.ieee.org/the-ev-transition-explained-2659602311)
+- Mar 29 - [Scientists discover why aspirin works so well](https://www.eurekalert.org/news-releases/983050?)
+- Mar 29 - [Generative AI is good at cooperating with people and bad at full automation](https://skybrian.substack.com/p/generative-ai-is-good-at-cooperating)
+- Mar 29 - [Binance Sees $2B in Outflows as Troubles Compound](https://www.wsj.com/articles/binance-sees-2-billion-in-outflows-as-troubles-compound-9a136e21)
+- Mar 29 - [Modern software performance is firmly in its “beyond parody” stage](https://twitter.com/cmuratori/status/1640827575437250561)
+- Mar 29 - [The bill to ban TikTok is absolutely terrifying](https://twitter.com/greg_price11/status/1640722365809147905)
 <!--END_SECTION:hn-->
 
 <!--
