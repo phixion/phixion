@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 28 - [&#x27;Tylenol Lite&#x27; – Will a Safer New Useless Painkiller Replace a Dangerous Old One](https://www.acsh.org/news/2022/08/22/tylenol-lite-will-safer-new-useless-painkiller-replace-dangerous-old-one-16500)
-- Mar 28 - [Windows 11 KB5023778 update adds promotions to the Start menu](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5023778-update-adds-promotions-to-the-start-menu/)
-- Mar 28 - [EU Commission Doesn&#x27;t Understand What&#x27;s Written in Its Own Chat Control Bill](https://mullvad.net/en/blog/2023/3/28/the-european-commission-does-not-understand-what-is-written-in-its-own-chat-control-bill/)
-- Mar 28 - [Infinite Mac: Infinitemac.org](https://blog.persistent.info/2023/03/infinitemac-dot-org.html)
-- Mar 28 - [UK Sets Up Fake Booter Sites to Muddy DDoS Market](https://krebsonsecurity.com/2023/03/uk-sets-up-fake-booter-sites-to-muddy-ddos-market/)
+- Mar 28 - [Gpt4all: A chatbot trained on ~800k GPT-3.5-Turbo Generations based on LLaMa](https://github.com/nomic-ai/gpt4all)
+- Mar 28 - [Rust Is a Scalable Language](https://matklad.github.io/2023/03/28/rust-is-a-scalable-language.html)
+- Mar 28 - [Ask HN: Can Software Engineering Help Combat Climate Change?](https://news.ycombinator.com/item?id=35349174)
+- Mar 28 - [HuggingFace and Open Source AI Meetup in SFO Mar 31st](https://twitter.com/BrigitteTousi/status/1640771873985142786)
+- Mar 28 - [The EV Transition Is Harder Than Anyone Thinks](https://spectrum.ieee.org/the-ev-transition-explained-2659602311)
 <!--END_SECTION:hn-->
 
 <!--
