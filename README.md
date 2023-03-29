@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 29 - [Patterns (YC S21) Is Hiring AI Engineers](http://patterns.app/)
-- Mar 29 - [Show HN: go-nbd – A Pure Go NBD Server and Client](https://github.com/pojntfx/go-nbd)
-- Mar 29 - [Bing Chat now has Ads](https://twitter.com/debarghya_das/status/1640892791923572737)
-- Mar 29 - [Clues to the Lives of North America’s First Inhabitants Are Hidden Underwater](https://www.smithsonianmag.com/history/biggest-clues-lives-early-americans-hidden-underwater-submerged-prehistory-180981891/)
-- Mar 29 - [The Teen Mental Illness Epidemic Is International, Part 1: The Anglosphere](https://jonathanhaidt.substack.com/p/international-mental-illness-part-one)
+- Mar 29 - [What is really going on at Amazon Fresh?](https://emaggiori.com/amazon-fresh/)
+- Mar 29 - [CSS is hard no matter how good you are at it](https://www.aha.io/engineering/articles/css-is-hard-no-matter-how-good-you-are-at-it)
+- Mar 29 - [A VC bought the Flatiron Building and didn’t pay for it](https://hellgatenyc.com/some-guy-bought-the-flatiron-building-and-didnt-pay-for-it)
+- Mar 29 - [Gambas Almost Means BASIC](https://gambas.sourceforge.net/en/main.html)
+- Mar 29 - [Qt Creator 10 Released](https://www.qt.io/blog/qt-creator-10-released)
 <!--END_SECTION:hn-->
 
 <!--
