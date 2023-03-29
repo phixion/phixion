@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 29 - [Bitmovin (YC S15) Is Hiring Engineers, Architects and CX for Video](https://bitmovin.com/careers/)
-- Mar 29 - [Italy moves to ban lab-grown meat to protect food heritage](https://www.bbc.co.uk/news/world-europe-65110744)
-- Mar 29 - [The Age of Average](https://www.alexmurrell.co.uk/articles/the-age-of-average)
-- Mar 29 - [Mamihlapinatapai, Most Succinct Word](https://en.wikipedia.org/wiki/Mamihlapinatapai)
-- Mar 29 - [Ubuntu stops shipping Flatpak by default](https://lwn.net/SubscriberLink/927262/6adb2350e2b0d2ce/)
+- Mar 29 - [Patterns (YC S21) Is Hiring AI Engineers](http://patterns.app/)
+- Mar 29 - [Show HN: go-nbd – A Pure Go NBD Server and Client](https://github.com/pojntfx/go-nbd)
+- Mar 29 - [Bing Chat now has Ads](https://twitter.com/debarghya_das/status/1640892791923572737)
+- Mar 29 - [Clues to the Lives of North America’s First Inhabitants Are Hidden Underwater](https://www.smithsonianmag.com/history/biggest-clues-lives-early-americans-hidden-underwater-submerged-prehistory-180981891/)
+- Mar 29 - [The Teen Mental Illness Epidemic Is International, Part 1: The Anglosphere](https://jonathanhaidt.substack.com/p/international-mental-illness-part-one)
 <!--END_SECTION:hn-->
 
 <!--
