@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 30 - [TikTok Ban Bill Is Patriot Act 2.0 Trojan Horse [video]](https://www.youtube.com/watch?v=FWQGA_n5Z4M)
+- Mar 29 - [The Three-Legged Stool: A Manifesto for a Smaller, Denser Internet](https://publicinfrastructure.org/2023/03/29/the-three-legged-stool/)
+- Mar 29 - [Samsung&#x27;s AI photo feature adds creepy teeth to baby photos](https://boingboing.net/2023/03/28/samsungs-ai-photo-feature-adds-creepy-teeth-to-baby-photos.html)
+- Mar 29 - [Teen-age fentanyl deaths in a Texas county](https://www.newyorker.com/news/letter-from-the-southwest/the-horrifying-epidemic-of-teen-age-fentanyl-deaths-in-a-texas-county)
 - Mar 29 - [Universal Speech Model](https://sites.research.google/usm/)
-- Mar 29 - [Rural children now grow slightly taller than city children in wealthy countries](https://www.scientificamerican.com/article/rural-children-now-grow-slightly-taller-than-city-children-in-wealthy-countries/)
-- Mar 29 - [Problem Details for HTTP APIs](https://www.rfc-editor.org/rfc/rfc7807)
-- Mar 29 - [Type system of Fortnite&#x27;s Verse language](https://brianmckenna.org/blog/verse_types)
-- Mar 29 - [Fireside Chat with Clem Delangue, CEO of Hugging Face](https://blog.eladgil.com/p/video-and-transcript-fireside-chat)
 <!--END_SECTION:hn-->
 
 <!--
