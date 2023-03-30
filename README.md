@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 30 - [Launch HN: Noya (YC W23) – a product design tool for non-designers](https://news.ycombinator.com/item?id=35374639)
-- Mar 30 - [A DNA ‘Parasite’ May Have Fragmented Our Genes](https://www.quantamagazine.org/how-a-dna-parasite-may-have-fragmented-our-genes-20230330/)
-- Mar 30 - [Tailscale Funnel now available in beta](https://tailscale.com/blog/tailscale-funnel-beta/)
-- Mar 30 - [Scratch is the world’s largest coding community for children](https://scratch.mit.edu/about)
-- Mar 30 - [A misleading open letter about sci-fi AI dangers ignores the real risks](https://aisnakeoil.substack.com/p/a-misleading-open-letter-about-sci)
+- Mar 30 - [The Anatomy of Your Salary](https://philipjoubert.com/why-are-you-paid/)
+- Mar 30 - [Get Instant Feedback and Help for LeetCode&#x2F;HackerRank with ChatGPT](https://github.com/Liopun/leet-chatgpt-extension)
+- Mar 30 - [Switching to Fedora from Ubuntu](https://evertpot.com/switching-to-fedora/)
+- Mar 30 - [Tiny Tapeout: From idea to chip design in minutes!](https://tinytapeout.com/)
+- Mar 30 - [Folia – Multithreading Coming to your Minecraft server](https://paper-chan.moe/folia/)
 <!--END_SECTION:hn-->
 
 <!--
