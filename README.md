@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 30 - [The &#x27;Insanely Broad&#x27; Restrict Act Could Ban Much More Than Just TikTok](https://www.vice.com/en/article/4a3ddb/restrict-act-insanely-broad-ban-tiktok-vpns)
-- Mar 30 - [Finetuning LLMs on a Single GPU Using Gradient Accumulation](https://lightning.ai/pages/blog/gradient-accumulation/)
-- Mar 30 - [Making Python faster with Rust](https://ohadravid.github.io/posts/2023-03-rusty-python/)
-- Mar 30 - [TikTok Ban Bill Is Patriot Act 2.0 Trojan Horse [video]](https://www.youtube.com/watch?v=FWQGA_n5Z4M)
-- Mar 30 - [Show HN: Marvin – build AI functions that use an LLM as a runtime](https://github.com/PrefectHQ/marvin)
+- Mar 30 - [Laudspeaker hiring Product Eng for open source customer journey automation](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
+- Mar 30 - [Google trained Bard on ChatGPT chats from ShareGPT](https://twitter.com/steventey/status/1641267979399704576)
+- Mar 30 - [50% of new NPM packages are spam](https://blog.sandworm.dev/one-in-two-new-npm-packages-is-seo-spam-right-now)
+- Mar 30 - [The RWKV language model: An RNN with the advantages of a transformer](https://johanwind.github.io/2023/03/23/rwkv_overview.html)
+- Mar 30 - [Show HN: Yesterday I open sourced StratusGFX, a realtime 3D rendering engine](https://github.com/KTStephano/StratusGFX)
 <!--END_SECTION:hn-->
 
 <!--
