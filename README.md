@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 30 - [Laudspeaker hiring Product Eng for open source customer journey automation](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
-- Mar 30 - [Google trained Bard on ChatGPT chats from ShareGPT](https://twitter.com/steventey/status/1641267979399704576)
-- Mar 30 - [50% of new NPM packages are spam](https://blog.sandworm.dev/one-in-two-new-npm-packages-is-seo-spam-right-now)
-- Mar 30 - [The RWKV language model: An RNN with the advantages of a transformer](https://johanwind.github.io/2023/03/23/rwkv_overview.html)
-- Mar 30 - [Show HN: Yesterday I open sourced StratusGFX, a realtime 3D rendering engine](https://github.com/KTStephano/StratusGFX)
+- Mar 30 - [Launch HN: Noya (YC W23) – a product design tool for non-designers](https://news.ycombinator.com/item?id=35374639)
+- Mar 30 - [A DNA ‘Parasite’ May Have Fragmented Our Genes](https://www.quantamagazine.org/how-a-dna-parasite-may-have-fragmented-our-genes-20230330/)
+- Mar 30 - [Tailscale Funnel now available in beta](https://tailscale.com/blog/tailscale-funnel-beta/)
+- Mar 30 - [Scratch is the world’s largest coding community for children](https://scratch.mit.edu/about)
+- Mar 30 - [A misleading open letter about sci-fi AI dangers ignores the real risks](https://aisnakeoil.substack.com/p/a-misleading-open-letter-about-sci)
 <!--END_SECTION:hn-->
 
 <!--
