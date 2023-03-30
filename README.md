@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 30 - [The &#x27;Insanely Broad&#x27; Restrict Act Could Ban Much More Than Just TikTok](https://www.vice.com/en/article/4a3ddb/restrict-act-insanely-broad-ban-tiktok-vpns)
+- Mar 30 - [Finetuning LLMs on a Single GPU Using Gradient Accumulation](https://lightning.ai/pages/blog/gradient-accumulation/)
+- Mar 30 - [Making Python faster with Rust](https://ohadravid.github.io/posts/2023-03-rusty-python/)
 - Mar 30 - [TikTok Ban Bill Is Patriot Act 2.0 Trojan Horse [video]](https://www.youtube.com/watch?v=FWQGA_n5Z4M)
-- Mar 29 - [The Three-Legged Stool: A Manifesto for a Smaller, Denser Internet](https://publicinfrastructure.org/2023/03/29/the-three-legged-stool/)
-- Mar 29 - [Samsung&#x27;s AI photo feature adds creepy teeth to baby photos](https://boingboing.net/2023/03/28/samsungs-ai-photo-feature-adds-creepy-teeth-to-baby-photos.html)
-- Mar 29 - [Teen-age fentanyl deaths in a Texas county](https://www.newyorker.com/news/letter-from-the-southwest/the-horrifying-epidemic-of-teen-age-fentanyl-deaths-in-a-texas-county)
-- Mar 29 - [Universal Speech Model](https://sites.research.google/usm/)
+- Mar 30 - [Show HN: Marvin – build AI functions that use an LLM as a runtime](https://github.com/PrefectHQ/marvin)
 <!--END_SECTION:hn-->
 
 <!--
