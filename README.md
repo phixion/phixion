@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 29 - [What is really going on at Amazon Fresh?](https://emaggiori.com/amazon-fresh/)
-- Mar 29 - [CSS is hard no matter how good you are at it](https://www.aha.io/engineering/articles/css-is-hard-no-matter-how-good-you-are-at-it)
-- Mar 29 - [A VC bought the Flatiron Building and didn’t pay for it](https://hellgatenyc.com/some-guy-bought-the-flatiron-building-and-didnt-pay-for-it)
-- Mar 29 - [Gambas Almost Means BASIC](https://gambas.sourceforge.net/en/main.html)
-- Mar 29 - [Qt Creator 10 Released](https://www.qt.io/blog/qt-creator-10-released)
+- Mar 29 - [Universal Speech Model](https://sites.research.google/usm/)
+- Mar 29 - [Rural children now grow slightly taller than city children in wealthy countries](https://www.scientificamerican.com/article/rural-children-now-grow-slightly-taller-than-city-children-in-wealthy-countries/)
+- Mar 29 - [Problem Details for HTTP APIs](https://www.rfc-editor.org/rfc/rfc7807)
+- Mar 29 - [Type system of Fortnite&#x27;s Verse language](https://brianmckenna.org/blog/verse_types)
+- Mar 29 - [Fireside Chat with Clem Delangue, CEO of Hugging Face](https://blog.eladgil.com/p/video-and-transcript-fireside-chat)
 <!--END_SECTION:hn-->
 
 <!--
