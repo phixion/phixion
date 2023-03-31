@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 30 - [The Anatomy of Your Salary](https://philipjoubert.com/why-are-you-paid/)
-- Mar 30 - [Get Instant Feedback and Help for LeetCode&#x2F;HackerRank with ChatGPT](https://github.com/Liopun/leet-chatgpt-extension)
-- Mar 30 - [Switching to Fedora from Ubuntu](https://evertpot.com/switching-to-fedora/)
-- Mar 30 - [Tiny Tapeout: From idea to chip design in minutes!](https://tinytapeout.com/)
-- Mar 30 - [Folia – Multithreading Coming to your Minecraft server](https://paper-chan.moe/folia/)
+- Mar 30 - [Show HN: Walkie-talkie for teams](https://www.flowy.live/)
+- Mar 30 - [My kids and I just played D&amp;D with ChatGPT4 as the DM](https://obie.medium.com/my-kids-and-i-just-played-d-d-with-chatgpt4-as-the-dm-43258e72b2c6)
+- Mar 30 - [Open-Sourcing My YC Application (Athens Research, W21)](https://hardpivot.substack.com/p/open-sourcing-my-y-combinator-winter)
+- Mar 30 - [When Google paid websites to promote Firefox](https://leonidasv.com/til-google-paid-websites-for-referring-firefox/)
+- Mar 30 - [Vicuna: An open-source chatbot impressing GPT-4 with 90% ChatGPT quality](https://vicuna.lmsys.org/)
 <!--END_SECTION:hn-->
 
 <!--
