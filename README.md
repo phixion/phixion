@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 31 - [Finley (YC W21) is hiring for credit and fintech experts across all teams](https://news.ycombinator.com/item?id=35385721)
-- Mar 31 - [The Machine That Bankrupted Mark Twain](https://www.todayifoundout.com/index.php/2023/03/the-machine-that-bankrupted-mark-twain/)
-- Mar 31 - [Italian Data Protection Authority Clamps Down ChatGPT](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9870847)
-- Mar 31 - [Nim 2.0.0 RC2](https://nim-lang.org//blog/2023/03/31/version-20-rc2.html)
-- Mar 31 - [Italian privacy regulator bans ChatGPT](https://www.politico.eu/article/italian-privacy-regulator-bans-chatgpt/)
+- Mar 31 - [A Quarter Century of Mozilla](https://blog.mozilla.org/en/mozilla/mitchell-baker-mozilla-25-anniversary/)
+- Mar 31 - [Reflections on 10k Hours of DevOps](https://matt-rickard.com/reflections-on-10-000-hours-of-devops)
+- Mar 31 - [BigQuery prices increasing by more than 100% for many users](https://cloud.google.com/blog/products/data-analytics/introducing-new-bigquery-pricing-editions)
+- Mar 31 - [Video shows ‘ghost co-driver’ added to trucker’s ELD to skirt HOS rules](https://www.freightwaves.com/news/video-shows-ghost-co-driver-added-to-truckers-eld-to-skirt-hos-rules)
+- Mar 31 - [75% of the Most Played Games on Steam Are Playable on the Steam Deck](https://boilingsteam.com/75-of-the-top-100-most-played-games-on-steam-are-playable-verified-on-the-steam-deck/)
 <!--END_SECTION:hn-->
 
 <!--
