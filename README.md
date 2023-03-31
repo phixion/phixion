@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 31 - [Meta wants EU users to apply for permission to opt out of data collection](https://arstechnica.com/tech-policy/2023/03/facebook-gets-to-decide-whether-eu-users-can-object-to-invasive-targeted-ads/)
-- Mar 31 - [Immutable Linux Distributions for Those Looking to Embrace the Future](https://itsfoss.com/immutable-linux-distros/)
-- Mar 31 - [Decreasing the Number of Memory Accesses 1&#x2F;2](https://johnnysswlab.com/decreasing-the-number-of-memory-accesses-1-2/)
-- Mar 31 - [Show HN: Random Aerial Airport Views](https://randomairport.onrender.com/)
-- Mar 31 - [AI-enhanced development makes me more ambitious with my projects](https://simonwillison.net/2023/Mar/27/ai-enhanced-development/)
+- Mar 31 - [Finley (YC W21) is hiring for credit and fintech experts across all teams](https://news.ycombinator.com/item?id=35385721)
+- Mar 31 - [The Machine That Bankrupted Mark Twain](https://www.todayifoundout.com/index.php/2023/03/the-machine-that-bankrupted-mark-twain/)
+- Mar 31 - [Italian Data Protection Authority Clamps Down ChatGPT](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9870847)
+- Mar 31 - [Nim 2.0.0 RC2](https://nim-lang.org//blog/2023/03/31/version-20-rc2.html)
+- Mar 31 - [Italian privacy regulator bans ChatGPT](https://www.politico.eu/article/italian-privacy-regulator-bans-chatgpt/)
 <!--END_SECTION:hn-->
 
 <!--
