@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 01 - [The U.S. War on Yugoslavia [YouTube]](https://www.youtube.com/watch?v=GEzOgpMWnVs)
-- Apr 01 - [Wine 8.5](https://www.winehq.org/announce/8.5)
-- Apr 01 - [Show HN: Coursemate, connect with other self learners](https://www.coursem8.com/)
-- Apr 01 - [Ameliorated: Windows 10 and 11 minus the spyware](https://ameliorated.io/)
-- Apr 01 - [My4TH – A minimalistic Forth computer with discrete CPU](http://mynor.org/my4th.htm)
+- Apr 01 - [Salesforce is shuttering Slack’s remote work research group Future Forum](https://finance.yahoo.com/news/salesforce-shuttering-slack-remote-research-004925901.html)
+- Apr 01 - [Every Day Is April Fool’s Day Now](https://www.vice.com/en/article/5d9p3q/april-fools-day-deepfakes-pope-trump-arrest-gpt)
+- Apr 01 - [The surprising roots of Japan&#x27;s Indian curry](https://one-from-nippon.ghost.io/indo-curry/)
+- Apr 01 - [Moving from Rust to C++](https://raphlinus.github.io/rust/2023/04/01/rust-to-cpp.html)
+- Apr 01 - [Clocks and Causality – Ordering Events in Distributed Systems](https://www.exhypothesi.com/clocks-and-causality/)
 <!--END_SECTION:hn-->
 
 <!--
