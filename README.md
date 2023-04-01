@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 01 - [Humanness in the Age of AI](https://worldcoin.org/blog/engineering/humanness-in-the-age-of-ai)
-- Apr 01 - [He who submits a resume has already lost](https://www.residentcontrarian.com/p/he-who-submits-a-resume-has-already)
-- Apr 01 - [Google Drive does a surprise rollout of file limits, locking out some users](https://arstechnica.com/gadgets/2023/03/google-drive-does-a-surprise-rollout-of-file-limits-locking-out-some-users/)
-- Apr 01 - [APLcart – Find your way in APL](https://aplcart.info/)
-- Apr 01 - [ChatGPT simulates 1987 BBS System](https://sharegpt.com/c/ICZsSl7)
+- Apr 01 - [The U.S. War on Yugoslavia [YouTube]](https://www.youtube.com/watch?v=GEzOgpMWnVs)
+- Apr 01 - [Wine 8.5](https://www.winehq.org/announce/8.5)
+- Apr 01 - [Show HN: Coursemate, connect with other self learners](https://www.coursem8.com/)
+- Apr 01 - [Ameliorated: Windows 10 and 11 minus the spyware](https://ameliorated.io/)
+- Apr 01 - [My4TH – A minimalistic Forth computer with discrete CPU](http://mynor.org/my4th.htm)
 <!--END_SECTION:hn-->
 
 <!--
