@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 01 - [Humanness in the Age of AI](https://worldcoin.org/blog/engineering/humanness-in-the-age-of-ai)
+- Apr 01 - [He who submits a resume has already lost](https://www.residentcontrarian.com/p/he-who-submits-a-resume-has-already)
+- Apr 01 - [Google Drive does a surprise rollout of file limits, locking out some users](https://arstechnica.com/gadgets/2023/03/google-drive-does-a-surprise-rollout-of-file-limits-locking-out-some-users/)
 - Apr 01 - [APLcart – Find your way in APL](https://aplcart.info/)
 - Apr 01 - [ChatGPT simulates 1987 BBS System](https://sharegpt.com/c/ICZsSl7)
-- Mar 31 - [Book review: Barriers to Bioweapons](https://eukaryotewritesblog.com/2017/06/30/book-review-barriers/)
-- Mar 31 - [Maps show how parking lots “eat” U.S. cities](https://bigthink.com/strange-maps/parking-lots-eat-american-cities/)
-- Mar 31 - [Activision threatened, spied on workers amid union drive, U.S. agency says](https://www.reuters.com/technology/activision-threatened-spied-workers-amid-union-drive-us-agency-says-2023-03-31/)
 <!--END_SECTION:hn-->
 
 <!--
