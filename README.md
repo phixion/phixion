@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 31 - [Bittrex to Cease Operations](https://bittrex.com/discover/important-message-for-bittrex-u-s-customers)
-- Mar 31 - [The Twitter Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
-- Mar 31 - [A new era of transparency for Twitter](https://blog.twitter.com/en_us/topics/company/2023/a-new-era-of-transparency-for-twitter)
-- Mar 31 - [ChatGPT – The Revolutionary Bullshit Parrot](https://www.reasonfieldlab.com/post/chatgpt-the-revolutionary-bullshit-parrot?)
-- Mar 31 - [Twitter open sourced the recommendation engine](https://github.com/twitter/the-algorithm-ml)
+- Mar 31 - [Barriers to Bioweapons](https://eukaryotewritesblog.com/2017/06/30/book-review-barriers/)
+- Mar 31 - [Please delete 2M files to continue using your Google Drive account](https://old.reddit.com/r/google/comments/123fjx8/google_has_applied_a_5_million_items_limit_for/)
+- Mar 31 - [Show HN: DigicamFinder – open-sourced DPReview camera data](https://digicamfinder.com/)
+- Mar 31 - [Asahi Linux M1 GPU drivers can now run Windows games via Steam Proton](https://www.youtube.com/watch?v=dgd88zE3O38)
+- Mar 31 - [Tesorio Is Hiring Head of Data Science, Senior DevOps and Senior Be Engineer](https://www.tesorio.com/careers#job-openings)
 <!--END_SECTION:hn-->
 
 <!--
