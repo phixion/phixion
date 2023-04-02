@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 02 - [Americans are returning to cities after remote-work exodus, data shows](https://www.washingtonpost.com/dc-md-va/2023/03/30/census-population-immigration-dc-new-york/)
-- Apr 02 - [Stocks rally to cap a winning month, quarter for Wall Street](https://www.seattletimes.com/business/asian-stocks-follow-wall-st-up-ahead-of-us-inflation-update/)
-- Apr 02 - [Tesla Semi Recalled Already, Parking Brake May Fail](https://www.thedrive.com/news/tesla-semi-recalled-already-parking-brake-may-fail)
-- Apr 02 - [XUL Layout has been removed from Firefox](https://crisal.io/words/2023/03/30/xul-layout-is-gone.html)
+- Apr 02 - [ISRO successfully lands a Reusable Launch Vehicle  from a 4.5 km altitude.](https://www.thehindu.com/sci-tech/science/isro-successfully-conducts-landing-experiment-of-the-reusable-launch-vehicle/article66690655.ece)
+- Apr 02 - [How to change the region on an HP OfficeJet printer in 57 easy steps](https://www.theverge.com/23648726/hp-officejet-printer-region-how-to-change-why)
+- Apr 02 - [XUL Layout is gone](https://crisal.io/words/2023/03/30/xul-layout-is-gone.html)
 - Apr 02 - [Peoplebox (YC S22) Is Hiring](https://www.ycombinator.com/companies/peoplebox/jobs/P225TqI-account-executive-saas-sales-india-apac)
+- Apr 02 - [Show HN: PizzaGPT – ChatGPT clone accessible from Italy](https://www.pizzagpt.it/)
 <!--END_SECTION:hn-->
 
 <!--
