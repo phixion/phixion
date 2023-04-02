@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 02 - [Screen time and the young brain – a contemporary moral panic? [pdf]](https://www.diva-portal.org/smash/get/diva2:1509482/FULLTEXT02.pdf)
-- Apr 02 - [Work-from-home is the new normal in Canada](https://nationalpost.com/opinion/work-from-home-new-normal-in-canada)
-- Apr 02 - [Analysis of Twitter algorithm reveals Twitter down-ranks tweets about Ukraine](https://english.nv.ua/nation/analysis-of-code-for-twitter-algorithm-reveals-social-medium-down-ranks-tweets-about-ukraine-50314963.html)
-- Apr 02 - [‘America does so much more to subsidise affluence than alleviate poverty’](https://www.ft.com/content/6218aa73-ae25-46fc-9503-f2f45b8db47f)
-- Apr 02 - [About three-in-ten U.S. adults say they are ‘almost constantly’ online (2021)](https://www.pewresearch.org/fact-tank/2021/03/26/about-three-in-ten-u-s-adults-say-they-are-almost-constantly-online/)
+- Apr 02 - [Scientists Found a &#x27;Leak&#x27; in Photosynthesis That Could Be Tapped into Energy](https://www.cnet.com/science/scientists-found-a-leak-in-photosynthesis-that-could-fill-humanitys-energy-bucket/)
+- Apr 02 - [Extinct Species Glyptodon Pups Born to Armadillo Mother](https://nationalzoo.si.edu/animals/news/glyptodon-pups-born-smithsonians-national-zoo)
+- Apr 02 - [OPEC+ announces surprise oil output cuts](https://www.reuters.com/business/energy/sarabia-other-opec-producers-announce-voluntary-oil-output-cuts-2023-04-02/)
+- Apr 02 - [Reducing Iron Oxide with Ammonia: A Sustainable Path to Green Steel](https://onlinelibrary.wiley.com/doi/10.1002/advs.202300111)
+- Apr 02 - [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview)
 <!--END_SECTION:hn-->
 
 <!--
