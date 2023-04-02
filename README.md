@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 01 - [MIT 6.S191: Recurrent Neural Networks, Transformers, and Attention](https://www.youtube.com/watch?v=ySEx_Bqxvvo)
-- Apr 01 - [SpaceX moves Starship to launch site, and liftoff could be just days away](https://arstechnica.com/science/2023/04/spacex-moves-starship-to-launch-site-and-liftoff-could-be-just-days-away/)
-- Apr 01 - [Show HN: SiteGPT – Create ChatGPT-like chatbots trained on your website content](https://sitegpt.ai)
-- Apr 01 - [SpaceX alums are branching out and shaping the startup economy](https://interactive.satellitetoday.com/via/april-2023/how-spacex-alums-are-branching-out-and-shaping-the-startup-economy/)
-- Apr 01 - [Another reply to Josef Průša](https://www.haerdin.se/blog/2023/04/01/another-reply-to-josef-prusa/)
+- Apr 02 - [Americans are returning to cities after remote-work exodus, data shows](https://www.washingtonpost.com/dc-md-va/2023/03/30/census-population-immigration-dc-new-york/)
+- Apr 02 - [Stocks rally to cap a winning month, quarter for Wall Street](https://www.seattletimes.com/business/asian-stocks-follow-wall-st-up-ahead-of-us-inflation-update/)
+- Apr 02 - [Tesla Semi Recalled Already, Parking Brake May Fail](https://www.thedrive.com/news/tesla-semi-recalled-already-parking-brake-may-fail)
+- Apr 02 - [XUL Layout has been removed from Firefox](https://crisal.io/words/2023/03/30/xul-layout-is-gone.html)
+- Apr 02 - [Peoplebox (YC S22) Is Hiring](https://www.ycombinator.com/companies/peoplebox/jobs/P225TqI-account-executive-saas-sales-india-apac)
 <!--END_SECTION:hn-->
 
 <!--
