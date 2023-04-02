@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 01 - [Show HN: A Google Reader-inspired RSS reader](https://boredreading.com/?1)
-- Apr 01 - [NASA validates revolutionary propulsion design for deep space missions](https://www.nasa.gov/centers/marshall/feature/nasa-validates-revolutionary-propulsion-design-for-deep-space-missions/)
-- Apr 01 - [Pausing Manifest V2 phase-out changes](https://groups.google.com/a/chromium.org/g/chromium-extensions/c/zQ77HkGmK9E/m/HjaaCIG-BQAJ)
-- Apr 01 - [Pine64 March Update: Tablet Bonanza](https://www.pine64.org/2023/04/01/march-update-tablet-bonanza/)
-- Apr 01 - [Deepest fish ever caught on camera off Japan](https://www.bbc.co.uk/news/science-environment-65148876)
+- Apr 01 - [MIT 6.S191: Recurrent Neural Networks, Transformers, and Attention](https://www.youtube.com/watch?v=ySEx_Bqxvvo)
+- Apr 01 - [SpaceX moves Starship to launch site, and liftoff could be just days away](https://arstechnica.com/science/2023/04/spacex-moves-starship-to-launch-site-and-liftoff-could-be-just-days-away/)
+- Apr 01 - [Show HN: SiteGPT – Create ChatGPT-like chatbots trained on your website content](https://sitegpt.ai)
+- Apr 01 - [SpaceX alums are branching out and shaping the startup economy](https://interactive.satellitetoday.com/via/april-2023/how-spacex-alums-are-branching-out-and-shaping-the-startup-economy/)
+- Apr 01 - [Another reply to Josef Průša](https://www.haerdin.se/blog/2023/04/01/another-reply-to-josef-prusa/)
 <!--END_SECTION:hn-->
 
 <!--
