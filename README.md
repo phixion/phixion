@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 03 - [Framework’s computers aren’t perfect, but they are exciting](https://www.theverge.com/23664746/framework-laptop-excitement-vpr-matrix-history-nostalgia)
-- Apr 03 - [Safari releases are development hell](https://www.construct.net/en/blogs/ashleys-blog-2/safari-releases-development-1616)
-- Apr 03 - [WWE Agrees to Merge with UFC](https://www.cnbc.com/2023/04/03/wwe-ufc-merger-endeavor.html)
-- Apr 03 - [Mullvad VPN and the Tor Project Team Up to Release the Mullvad Browser](https://mullvad.net/en/blog/2023/4/3/mullvad-vpn-and-the-tor-project-team-up-to-release-the-mullvad-browser/)
-- Apr 03 - [The Mullvad Browser](https://mullvad.net/en/browser)
+- Apr 03 - [Meta stops offering remote work in new job postings](https://www.businessinsider.com/meta-stops-offering-remote-work-new-job-postings-zuckerberg-2023-3)
+- Apr 03 - [2001: A Space Odyssey](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film))
+- Apr 03 - [SudoLang: A Powerful Pseudocode Programming Language for LLMs](https://medium.com/javascript-scene/sudolang-a-powerful-pseudocode-programming-language-for-llms-d64d42aa719b)
+- Apr 03 - [Ask HN: Who is hiring? (April 2023)](https://news.ycombinator.com/item?id=35424807)
+- Apr 03 - [Alibaba breaks itself up in six](https://www.economist.com/business/2023/03/30/alibaba-breaks-itself-up-in-six)
 <!--END_SECTION:hn-->
 
 <!--
