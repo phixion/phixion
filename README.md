@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 03 - [The Nine Billion Names Of God – short film [video]](https://www.youtube.com/watch?v=UtvS9UXTsPI)
-- Apr 03 - [Giving kids no autonomy at all has become a parenting norm](https://www.salon.com/2021/01/17/giving-kids-no-autonomy-at-all-has-become-a-parenting-norm--and-the-pandemic-is-worsening-the-trend/)
-- Apr 02 - [How the U.S. Came to Use Spyware It Was Trying to Kill](https://www.nytimes.com/2023/04/02/us/politics/nso-contract-us-spy.html)
-- Apr 02 - [How Software Companies Die (1995)](https://gist.github.com/eliot-akira/6eaecda619d0fafd1d74)
-- Apr 02 - [Scientists found a &#x27;leak&#x27; in photosynthesis that could be tapped into energy](https://www.cnet.com/science/scientists-found-a-leak-in-photosynthesis-that-could-fill-humanitys-energy-bucket/)
+- Apr 03 - [Show HN: Unknown Pleasures, a tiny web experiment with WebGL](https://pouria.dev/unknown-pleasures)
+- Apr 03 - [Parisians vote to ban e-scooters from French capital](https://www.reuters.com/world/europe/parisians-vote-ban-e-scooters-french-capital-2023-04-02/)
+- Apr 03 - [Midjourney CEO Silencing Satire About Xi Jinping](https://www.techdirt.com/2023/03/31/midjourney-ceo-says-political-satire-in-china-is-pretty-not-okay-but-apparently-silencing-satire-about-xi-jinping-is-pretty-okay/)
+- Apr 03 - [Saying Goodbye to GitHub](https://ersei.net/en/blog/bye-bye-github)
+- Apr 03 - [The Nine Billion Names Of God (2021) [video]](https://www.youtube.com/watch?v=UtvS9UXTsPI)
 <!--END_SECTION:hn-->
 
 <!--
