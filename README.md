@@ -19,9 +19,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 02 - [Ford to drop AM radio in new models, except commercial vehicles](https://www.freep.com/story/money/cars/2023/04/01/ford-am-radio-commercial/70062845007/)
+- Apr 02 - [The Day Windows Died](https://thomasbandt.com/the-day-windows-died)
 - Apr 02 - [Scientists Found a &#x27;Leak&#x27; in Photosynthesis That Could Be Tapped into Energy](https://www.cnet.com/science/scientists-found-a-leak-in-photosynthesis-that-could-fill-humanitys-energy-bucket/)
-- Apr 02 - [Extinct Species Glyptodon Pups Born to Armadillo Mother](https://nationalzoo.si.edu/animals/news/glyptodon-pups-born-smithsonians-national-zoo)
-- Apr 02 - [OPEC+ announces surprise oil output cuts](https://www.reuters.com/business/energy/sarabia-other-opec-producers-announce-voluntary-oil-output-cuts-2023-04-02/)
 - Apr 02 - [Reducing Iron Oxide with Ammonia: A Sustainable Path to Green Steel](https://onlinelibrary.wiley.com/doi/10.1002/advs.202300111)
 - Apr 02 - [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview)
 <!--END_SECTION:hn-->
