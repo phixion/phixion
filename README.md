@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 03 - [Show HN: Unknown Pleasures, a tiny web experiment with WebGL](https://pouria.dev/unknown-pleasures)
-- Apr 03 - [Parisians vote to ban e-scooters from French capital](https://www.reuters.com/world/europe/parisians-vote-ban-e-scooters-french-capital-2023-04-02/)
-- Apr 03 - [Midjourney CEO Silencing Satire About Xi Jinping](https://www.techdirt.com/2023/03/31/midjourney-ceo-says-political-satire-in-china-is-pretty-not-okay-but-apparently-silencing-satire-about-xi-jinping-is-pretty-okay/)
-- Apr 03 - [Saying Goodbye to GitHub](https://ersei.net/en/blog/bye-bye-github)
-- Apr 03 - [The Nine Billion Names Of God (2021) [video]](https://www.youtube.com/watch?v=UtvS9UXTsPI)
+- Apr 03 - [Framework’s computers aren’t perfect, but they are exciting](https://www.theverge.com/23664746/framework-laptop-excitement-vpr-matrix-history-nostalgia)
+- Apr 03 - [Safari releases are development hell](https://www.construct.net/en/blogs/ashleys-blog-2/safari-releases-development-1616)
+- Apr 03 - [WWE Agrees to Merge with UFC](https://www.cnbc.com/2023/04/03/wwe-ufc-merger-endeavor.html)
+- Apr 03 - [Mullvad VPN and the Tor Project Team Up to Release the Mullvad Browser](https://mullvad.net/en/blog/2023/4/3/mullvad-vpn-and-the-tor-project-team-up-to-release-the-mullvad-browser/)
+- Apr 03 - [The Mullvad Browser](https://mullvad.net/en/browser)
 <!--END_SECTION:hn-->
 
 <!--
