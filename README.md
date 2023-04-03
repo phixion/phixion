@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 02 - [Ford to drop AM radio in new models, except commercial vehicles](https://www.freep.com/story/money/cars/2023/04/01/ford-am-radio-commercial/70062845007/)
-- Apr 02 - [The Day Windows Died](https://thomasbandt.com/the-day-windows-died)
-- Apr 02 - [Scientists Found a &#x27;Leak&#x27; in Photosynthesis That Could Be Tapped into Energy](https://www.cnet.com/science/scientists-found-a-leak-in-photosynthesis-that-could-fill-humanitys-energy-bucket/)
-- Apr 02 - [Reducing Iron Oxide with Ammonia: A Sustainable Path to Green Steel](https://onlinelibrary.wiley.com/doi/10.1002/advs.202300111)
-- Apr 02 - [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview)
+- Apr 03 - [The Nine Billion Names Of God – short film [video]](https://www.youtube.com/watch?v=UtvS9UXTsPI)
+- Apr 03 - [Giving kids no autonomy at all has become a parenting norm](https://www.salon.com/2021/01/17/giving-kids-no-autonomy-at-all-has-become-a-parenting-norm--and-the-pandemic-is-worsening-the-trend/)
+- Apr 02 - [How the U.S. Came to Use Spyware It Was Trying to Kill](https://www.nytimes.com/2023/04/02/us/politics/nso-contract-us-spy.html)
+- Apr 02 - [How Software Companies Die (1995)](https://gist.github.com/eliot-akira/6eaecda619d0fafd1d74)
+- Apr 02 - [Scientists found a &#x27;leak&#x27; in photosynthesis that could be tapped into energy](https://www.cnet.com/science/scientists-found-a-leak-in-photosynthesis-that-could-fill-humanitys-energy-bucket/)
 <!--END_SECTION:hn-->
 
 <!--
