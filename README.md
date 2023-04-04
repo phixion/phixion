@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 04 - [Eight Things to Know About Large Language Models [pdf]](https://cims.nyu.edu/~sbowman/eightthings.pdf)
-- Apr 04 - [The Future of Applications](https://mikecann.co.uk/posts/the-future-of-applications)
-- Apr 04 - [Twitter has inexplicably turned off access to sign in with Twitter SSO](https://flipboard.social/@mike/110137461654913391)
-- Apr 04 - [Google reverses 5M file limit in Google Drive](https://twitter.com/googledrive/status/1643049029251776515)
-- Apr 04 - [Double-slit time diffraction at optical frequencies](https://www.nature.com/articles/s41567-023-01993-w)
+- Apr 04 - [PhotoRoom Is Hiring a Senior Back End Engineer (Django, 400GB+ PSQL DB) in Paris](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- Apr 04 - [If you can&#x27;t write assembly like a poet, you can read disassembly like a hunter](https://wordsandbuttons.online/you_dont_have_to_learn_assembly_to_read_disassembly.html)
+- Apr 04 - [The Electric Vehicles We Need Now Are E-Bikes (2022)](https://www.bloomberg.com/news/articles/2022-03-15/the-electric-vehicles-we-need-now-are-e-bikes)
+- Apr 04 - [Airport scraps 100ml liquid rule with new scanners](https://www.bbc.co.uk/news/business-65163418)
+- Apr 04 - [Ask HN: Fastest way to turn a Jupyter notebook into a website these days?](https://news.ycombinator.com/item?id=35435253)
 <!--END_SECTION:hn-->
 
 <!--
