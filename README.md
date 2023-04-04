@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 04 - [Frank founder allegedly defrauded JPMorgan out of $175M hit with federal charges](https://www.businessinsider.com/charlie-javice-frank-criminal-charges-financial-fraud-jpmorgan-chase-2023-1)
-- Apr 04 - [Arizona Fight over Half-Cent Sales Tax Threatens Semiconductor Expansion](https://www.wsj.com/articles/arizona-fight-over-half-cent-sales-tax-threatens-semiconductor-expansion-1cd5c552)
-- Apr 04 - [Researchers create new classification of chess openings](https://techxplore.com/news/2023-04-classification-chess.html)
-- Apr 04 - [China&#x27;s tech weapon: Delay mergers for leverage, aid rivals](https://www.wsj.com/articles/chinas-new-tech-weapon-dragging-its-feet-on-global-merger-approvals-d653ca4a)
-- Apr 04 - [Tiny, cheap smart speakers unlocked the rise of digital payments in India](https://restofworld.org/2023/india-sound-boxes-paytm-phonepe/)
+- Apr 04 - [Creator of Catan, Klaus Teuber, has passed away at the age of 70](https://www.dicebreaker.com/games/catan-1/news/catan-creator-passes-away)
+- Apr 04 - [The time Bell Labs brought the Statue of Liberty under its roof (Literally)](https://nickvsnetworking.com/the-time-bell-labs-brought-the-statue-of-liberty-under-its-roof-literally/)
+- Apr 04 - [Show HN: Gat – cat alternative written in Go](https://github.com/koki-develop/gat)
+- Apr 04 - [Skio (YC S20) Is Hiring](https://skio.com/careers/)
+- Apr 04 - [The microcode and hardware in the 8086 processor that perform string operations](https://www.righto.com/2023/04/8086-microcode-string-operations.html)
 <!--END_SECTION:hn-->
 
 <!--
