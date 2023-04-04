@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 03 - [C++17 creates a practical use of the backward array index operator](https://devblogs.microsoft.com/oldnewthing/20230403-00/?p=108005)
-- Apr 03 - [Was There a U.S. Nuclear Weapons Accident at a Dutch Air Base?](https://fas.org/blogs/security/2023/04/volkel-nuclear-weapon-accident/)
-- Apr 03 - [Pop_OS has a complicated name but it makes using Linux so easy](https://www.zdnet.com/article/pop-os-has-a-complicated-name-but-it-makes-using-linux-so-easy/)
-- Apr 03 - [Show HN: Pubnix.pink, a public-access Void Linux system](https://pubnix.pink)
-- Apr 03 - [Stop-Motion Movies Are Animated at Aardman [video]](https://www.youtube.com/watch?v=jZvQzkFcKEM)
+- Apr 03 - [Hacking the Samsung NX300 &#x27;Smart&#x27; Camera](https://op-co.de/blog/posts/hacking_the_nx300/)
+- Apr 03 - [What if ChatGPT was trained on decades of financial news and data?](https://www.niemanlab.org/2023/04/what-if-chatgpt-was-trained-on-decades-of-financial-news-and-data-bloomberggpt-aims-to-be-a-domain-specific-ai-for-business-news/)
+- Apr 03 - [Postman Flows: the next generation of software development](https://blog.postman.com/postman-flows-the-next-generation-of-software-development/)
+- Apr 03 - [Hypercard got its Color Back](https://orangejuiceliberationfront.com/how-hypercard-got-its-color-back/)
+- Apr 03 - [If parrots can talk, why can’t monkeys?](https://english.elpais.com/science-tech/2023-01-10/if-parrots-can-talk-why-cant-monkeys.html)
 <!--END_SECTION:hn-->
 
 <!--
