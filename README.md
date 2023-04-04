@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 03 - [Hacking the Samsung NX300 &#x27;Smart&#x27; Camera](https://op-co.de/blog/posts/hacking_the_nx300/)
-- Apr 03 - [What if ChatGPT was trained on decades of financial news and data?](https://www.niemanlab.org/2023/04/what-if-chatgpt-was-trained-on-decades-of-financial-news-and-data-bloomberggpt-aims-to-be-a-domain-specific-ai-for-business-news/)
-- Apr 03 - [Postman Flows: the next generation of software development](https://blog.postman.com/postman-flows-the-next-generation-of-software-development/)
-- Apr 03 - [Hypercard got its Color Back](https://orangejuiceliberationfront.com/how-hypercard-got-its-color-back/)
-- Apr 03 - [If parrots can talk, why can’t monkeys?](https://english.elpais.com/science-tech/2023-01-10/if-parrots-can-talk-why-cant-monkeys.html)
+- Apr 04 - [Eight Things to Know About Large Language Models [pdf]](https://cims.nyu.edu/~sbowman/eightthings.pdf)
+- Apr 04 - [The Future of Applications](https://mikecann.co.uk/posts/the-future-of-applications)
+- Apr 04 - [Twitter has inexplicably turned off access to sign in with Twitter SSO](https://flipboard.social/@mike/110137461654913391)
+- Apr 04 - [Google reverses 5M file limit in Google Drive](https://twitter.com/googledrive/status/1643049029251776515)
+- Apr 04 - [Double-slit time diffraction at optical frequencies](https://www.nature.com/articles/s41567-023-01993-w)
 <!--END_SECTION:hn-->
 
 <!--
