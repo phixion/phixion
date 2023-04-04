@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 04 - [Reclaim Protocol (YC W21) Is Hiring Mechanism Design&#x2F;Game Theory Researchers](https://www.ycombinator.com/companies/questbook/jobs/BqXBrUU-game-theory-mechanism-design-researcher)
-- Apr 04 - [Stanford just released a 386-page report on the state of AI](https://twitter.com/nonmayorpete/status/1643012248720523264)
-- Apr 04 - [TikTok fined £12.7M for misusing children&#x27;s data](https://www.bbc.co.uk/news/uk-65175902)
-- Apr 04 - [Entrepreneurs who regret starting businesses](https://www.bbc.com/worklife/article/20230402-the-entrepreneurs-who-regret-starting-businesses)
-- Apr 04 - [A passenger aircraft that flies around the world at Mach 9? Sure, why not](https://arstechnica.com/science/2023/04/a-passenger-aircraft-that-flies-around-the-world-at-mach-9-sure-why-not/)
+- Apr 04 - [Frank founder allegedly defrauded JPMorgan out of $175M hit with federal charges](https://www.businessinsider.com/charlie-javice-frank-criminal-charges-financial-fraud-jpmorgan-chase-2023-1)
+- Apr 04 - [Arizona Fight over Half-Cent Sales Tax Threatens Semiconductor Expansion](https://www.wsj.com/articles/arizona-fight-over-half-cent-sales-tax-threatens-semiconductor-expansion-1cd5c552)
+- Apr 04 - [Researchers create new classification of chess openings](https://techxplore.com/news/2023-04-classification-chess.html)
+- Apr 04 - [China&#x27;s tech weapon: Delay mergers for leverage, aid rivals](https://www.wsj.com/articles/chinas-new-tech-weapon-dragging-its-feet-on-global-merger-approvals-d653ca4a)
+- Apr 04 - [Tiny, cheap smart speakers unlocked the rise of digital payments in India](https://restofworld.org/2023/india-sound-boxes-paytm-phonepe/)
 <!--END_SECTION:hn-->
 
 <!--
