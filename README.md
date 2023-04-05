@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 05 - [Book Depository will be closing on 26 April 2023](https://www.bookdepository.com/closure)
-- Apr 05 - [GPT4 impersonating a FTP server at ftp.disney.com](https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server/)
-- Apr 05 - [BRL-CAD](https://brlcad.org/)
-- Apr 05 - [Ofcom proposes to refer UK cloud market for investigation](https://www.ofcom.org.uk/news-centre/2023/ofcom-proposes-to-refer-uk-cloud-market-for-investigation)
-- Apr 05 - [Packet, where are you? – eBPF-based Linux kernel networking debugger](https://github.com/cilium/pwru)
+- Apr 05 - [Circle Medical (YC S15) Is Hiring Ruby&#x2F;Rails Engineers](https://jobs.lever.co/circlemedical/1b3fcca6-6246-40d9-b7c9-096f8dc1871f)
+- Apr 05 - [Show HN: To help 3D devs build reliable websites, I built Web3DSurvey.com](https://web3dsurvey.com/webgl2)
+- Apr 05 - [Former Square CTO Bob Lee Stabbed to Death in Downtown San Francisco](https://sfstandard.com/criminal-justice/san-francisco-stabbing-victim-bob-lee-former-cto-square-mobilecoin/)
+- Apr 05 - [Aaron: AI Art Generator from 1973](https://www.katevassgalerie.com/blog/harold-cohen-aaron-computer-art)
+- Apr 05 - [The salary you need to live comfortably in 15 major U.S. cities](https://www.cnbc.com/2023/04/04/the-salary-you-need-to-live-comfortably-in-15-major-us-cities.html)
 <!--END_SECTION:hn-->
 
 <!--
