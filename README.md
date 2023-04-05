@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 04 - [Moderate Drinking Has No Health Benefits, Analysis of Decades of Research Finds](https://www.nytimes.com/2023/04/04/health/alcohol-health-effects.html)
-- Apr 04 - [“My long goodbye to Windows XP” (2022)](https://woodfromeden.substack.com/p/my-long-goodbye-to-windows-xp)
-- Apr 04 - [ZSTD 1.5.5 is released with a corruption fix found at Google](https://github.com/facebook/zstd/releases/tag/v1.5.5)
-- Apr 04 - [Build your own agents which are controlled by LLMs](https://github.com/mpaepper/llm_agents)
-- Apr 04 - [Brave Launches Self-Serve Ads Program](https://brave.com/self-serve-ads/)
+- Apr 05 - [Bob Lee, Former CTO Square, Creator of CashApp, Stabbed to Death in SF](https://www.sfgate.com/bayarea/article/mill-valley-man-killed-sf-stabbing-17878809.php)
+- Apr 05 - [Paxlovid: Drug Development at a Full Sprint](https://www.science.org/content/blog-post/paxlovid-drug-development-full-sprint)
+- Apr 05 - [System76 Teases Their “Virgo” In-House Manufactured Laptop](https://www.phoronix.com/news/System76-Virgo-Tease)
+- Apr 05 - [Unpredictable Black Boxes Are Terrible Interfaces](https://magrawala.substack.com/p/unpredictable-black-boxes-are-terrible)
+- Apr 05 - [Lossless Image Compression in O(n) Time (2021)](https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression)
 <!--END_SECTION:hn-->
 
 <!--
