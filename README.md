@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 05 - [Circle Medical (YC S15) Is Hiring Ruby&#x2F;Rails Engineers](https://jobs.lever.co/circlemedical/1b3fcca6-6246-40d9-b7c9-096f8dc1871f)
-- Apr 05 - [Show HN: To help 3D devs build reliable websites, I built Web3DSurvey.com](https://web3dsurvey.com/webgl2)
-- Apr 05 - [Former Square CTO Bob Lee Stabbed to Death in Downtown San Francisco](https://sfstandard.com/criminal-justice/san-francisco-stabbing-victim-bob-lee-former-cto-square-mobilecoin/)
-- Apr 05 - [Aaron: AI Art Generator from 1973](https://www.katevassgalerie.com/blog/harold-cohen-aaron-computer-art)
-- Apr 05 - [The salary you need to live comfortably in 15 major U.S. cities](https://www.cnbc.com/2023/04/04/the-salary-you-need-to-live-comfortably-in-15-major-us-cities.html)
+- Apr 05 - [Perspective 2.0, Open Source WebAssembly-Powered BI](https://perspective.finos.org/)
+- Apr 05 - [DPReview’s Founder Blasts Amazon’s CEO: ‘What a Waste’](https://petapixel.com/2023/04/04/dpreviews-founder-blasts-amazons-ceo-what-a-waste/)
+- Apr 05 - [Grid World by Alexander Miller](https://alex.miller.garden/grid-world/)
+- Apr 05 - [Cash App founder Bob Lee reportedly killed in San Francisco stabbing](https://www.nbcnews.com/news/us-news/cash-app-founder-bob-lee-killed-san-francisco-stabbing-sources-say-rcna78265)
+- Apr 05 - [“Inside-out Wankel” rotary engine delivers 5X the power of a diesel](https://newatlas.com/automotive/inside-out-wankel/)
 <!--END_SECTION:hn-->
 
 <!--
