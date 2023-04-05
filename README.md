@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 04 - [Creator of Catan, Klaus Teuber, has passed away at the age of 70](https://www.dicebreaker.com/games/catan-1/news/catan-creator-passes-away)
-- Apr 04 - [The time Bell Labs brought the Statue of Liberty under its roof (Literally)](https://nickvsnetworking.com/the-time-bell-labs-brought-the-statue-of-liberty-under-its-roof-literally/)
-- Apr 04 - [Show HN: Gat – cat alternative written in Go](https://github.com/koki-develop/gat)
-- Apr 04 - [Skio (YC S20) Is Hiring](https://skio.com/careers/)
-- Apr 04 - [The microcode and hardware in the 8086 processor that perform string operations](https://www.righto.com/2023/04/8086-microcode-string-operations.html)
+- Apr 04 - [Moderate Drinking Has No Health Benefits, Analysis of Decades of Research Finds](https://www.nytimes.com/2023/04/04/health/alcohol-health-effects.html)
+- Apr 04 - [“My long goodbye to Windows XP” (2022)](https://woodfromeden.substack.com/p/my-long-goodbye-to-windows-xp)
+- Apr 04 - [ZSTD 1.5.5 is released with a corruption fix found at Google](https://github.com/facebook/zstd/releases/tag/v1.5.5)
+- Apr 04 - [Build your own agents which are controlled by LLMs](https://github.com/mpaepper/llm_agents)
+- Apr 04 - [Brave Launches Self-Serve Ads Program](https://brave.com/self-serve-ads/)
 <!--END_SECTION:hn-->
 
 <!--
