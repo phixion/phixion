@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 05 - [Perspective 2.0, Open Source WebAssembly-Powered BI](https://perspective.finos.org/)
-- Apr 05 - [DPReview’s Founder Blasts Amazon’s CEO: ‘What a Waste’](https://petapixel.com/2023/04/04/dpreviews-founder-blasts-amazons-ceo-what-a-waste/)
-- Apr 05 - [Grid World by Alexander Miller](https://alex.miller.garden/grid-world/)
-- Apr 05 - [Cash App founder Bob Lee reportedly killed in San Francisco stabbing](https://www.nbcnews.com/news/us-news/cash-app-founder-bob-lee-killed-san-francisco-stabbing-sources-say-rcna78265)
-- Apr 05 - [“Inside-out Wankel” rotary engine delivers 5X the power of a diesel](https://newatlas.com/automotive/inside-out-wankel/)
+- Apr 05 - [Domain-Specific Languages of Mathematics](https://github.com/DSLsofMath/DSLsofMath)
+- Apr 05 - [Programmer interrupted: The cost of interruption and context switching (2022)](https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching/)
+- Apr 05 - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
+- Apr 05 - [Telemetry in Front-End Tools](https://telemetry.timseverien.com/)
+- Apr 05 - [Firefox engineers discover a Windows Defender bug that causes high CPU usage](https://bugzilla.mozilla.org/show_bug.cgi?id=1441918#c82)
 <!--END_SECTION:hn-->
 
 <!--
