@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 05 - [Bob Lee, Former CTO Square, Creator of CashApp, Stabbed to Death in SF](https://www.sfgate.com/bayarea/article/mill-valley-man-killed-sf-stabbing-17878809.php)
-- Apr 05 - [Paxlovid: Drug Development at a Full Sprint](https://www.science.org/content/blog-post/paxlovid-drug-development-full-sprint)
-- Apr 05 - [System76 Teases Their “Virgo” In-House Manufactured Laptop](https://www.phoronix.com/news/System76-Virgo-Tease)
-- Apr 05 - [Unpredictable Black Boxes Are Terrible Interfaces](https://magrawala.substack.com/p/unpredictable-black-boxes-are-terrible)
-- Apr 05 - [Lossless Image Compression in O(n) Time (2021)](https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression)
+- Apr 05 - [Book Depository will be closing on 26 April 2023](https://www.bookdepository.com/closure)
+- Apr 05 - [GPT4 impersonating a FTP server at ftp.disney.com](https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server/)
+- Apr 05 - [BRL-CAD](https://brlcad.org/)
+- Apr 05 - [Ofcom proposes to refer UK cloud market for investigation](https://www.ofcom.org.uk/news-centre/2023/ofcom-proposes-to-refer-uk-cloud-market-for-investigation)
+- Apr 05 - [Packet, where are you? – eBPF-based Linux kernel networking debugger](https://github.com/cilium/pwru)
 <!--END_SECTION:hn-->
 
 <!--
