@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 05 - [I don&#x27;t want streaming music, I just want to stream my music](https://coryd.dev/posts/2023/i-dont-want-streaming-music/)
-- Apr 05 - [AI Is Coming for Voice Actors. Artists Everywhere Should Take Note](https://thewalrus.ca/ai-is-coming-for-voice-actors-artists-everywhere-should-take-note/)
-- Apr 05 - [I’m an doctor: Here’s what I found when I asked ChatGPT to diagnose my patients](https://inflecthealth.medium.com/im-an-er-doctor-here-s-what-i-found-when-i-asked-chatgpt-to-diagnose-my-patients-7829c375a9da)
-- Apr 05 - [The Bitcoin whitepaper is hidden in every copy of macOS](https://waxy.org/2023/04/the-bitcoin-whitepaper-is-hidden-in-every-modern-copy-of-macos/)
-- Apr 05 - [Dang is going to have 65,535 karma points soon](https://news.ycombinator.com/user?id=dang)
+- Apr 06 - [RAM’s New Electric Pickup Truck Aims for Battery Range of 500 Miles](https://www.wsj.com/articles/rams-new-electric-pickup-aims-for-battery-range-of-500-miles-e590bb8b)
+- Apr 06 - [Adding capacity to the electricity grid is not a simple task](https://www.economist.com/technology-quarterly/2023/04/05/adding-capacity-to-the-electricity-grid-is-not-a-simple-task)
+- Apr 06 - [Try out Clojure libraries via rebel-readline](https://github.com/eval/deps-try)
+- Apr 06 - [Master Plan Part 3](https://www.tesla.com/blog/master-plan-part-3)
+- Apr 05 - [Galaxy Simulation](https://galaxym.ovh/)
 <!--END_SECTION:hn-->
 
 <!--
