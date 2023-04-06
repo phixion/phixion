@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 06 - [WorkRamp (YC S16) Is Hiring a Product Manager (Remote)](https://www.ycombinator.com/companies/workramp/jobs/WaMUlm2-product-manager)
+- Apr 06 - [Golf has a problem: people are hitting the ball too far](https://www.npr.org/2023/04/06/1167772714/golf-ball-change-rule-augusta-tiger-woods-pros-courses)
+- Apr 06 - [DevOps uses a capability model, not a maturity model](https://octopus.com/blog/devops-uses-capability-not-maturity)
+- Apr 06 - [WebGPU is available in Chrome 113](https://developer.chrome.com/blog/webgpu-release/)
 - Apr 06 - [MutexProtected: A C++ Pattern for Easier Concurrency](https://awesomekling.github.io/MutexProtected-A-C++-Pattern-for-Easier-Concurrency/)
-- Apr 06 - [Biscuit 3.0](https://www.biscuitsec.org/blog/biscuit-3-0/)
-- Apr 06 - [Adding capacity to the electricity grid is not a simple task](https://www.economist.com/technology-quarterly/2023/04/05/adding-capacity-to-the-electricity-grid-is-not-a-simple-task)
-- Apr 06 - [Try out Clojure libraries via rebel-readline](https://github.com/eval/deps-try)
-- Apr 05 - [Galaxy Simulation](https://galaxym.ovh/)
 <!--END_SECTION:hn-->
 
 <!--
