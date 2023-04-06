@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 06 - [WorkRamp (YC S16) Is Hiring a Product Manager (Remote)](https://www.ycombinator.com/companies/workramp/jobs/WaMUlm2-product-manager)
-- Apr 06 - [Golf has a problem: people are hitting the ball too far](https://www.npr.org/2023/04/06/1167772714/golf-ball-change-rule-augusta-tiger-woods-pros-courses)
-- Apr 06 - [DevOps uses a capability model, not a maturity model](https://octopus.com/blog/devops-uses-capability-not-maturity)
-- Apr 06 - [WebGPU is available in Chrome 113](https://developer.chrome.com/blog/webgpu-release/)
-- Apr 06 - [MutexProtected: A C++ Pattern for Easier Concurrency](https://awesomekling.github.io/MutexProtected-A-C++-Pattern-for-Easier-Concurrency/)
+- Apr 06 - [Bitcoin white paper is hidden away in macOS’s system folder for some reason](https://arstechnica.com/gadgets/2023/04/bitcoin-whitepaper-is-hidden-away-in-macoss-system-folders-for-some-reason/)
+- Apr 06 - [Do you get less food when you order online? That&#x27;s what the data shows](https://medium.com/@seangransee/heres-how-much-sweetgreen-shorts-you-when-you-order-online-with-data-c93fb5bc6e26)
+- Apr 06 - [Spotting and Avoiding Heap Fragmentation in Rust Applications](https://www.svix.com/blog/heap-fragmentation-in-rust-applications/)
+- Apr 06 - [Italy’s ChatGPT Ban Spreads to France, Germany and Ireland](https://stealthoptional.com/news/italys-chatgpt-ban-spreads-to-france-germany-and-ireland/)
+- Apr 06 - [Announcing WCGI: WebAsseAmbly and CGI](https://wasmer.io/posts/announcing-wcgi)
 <!--END_SECTION:hn-->
 
 <!--
