@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 06 - [Airbnb shares fall after probe into unpleasant customer experiences](https://www.reuters.com/business/airbnb-shares-fall-after-probe-into-unpleasant-customer-experiences-2023-04-06/)
-- Apr 06 - [Apple Store Robbed of $500K in iPhones After Thieves Tunnel Through Coffee Shop](https://www.macrumors.com/2023/04/06/washington-apple-store-theft/)
-- Apr 06 - [Is it my fault if you can&#x27;t handle the truth?](http://agileotter.blogspot.com/2019/09/is-it-my-fault-you-cant-handle-truth.html)
-- Apr 06 - [The Artistic Partnership of Lady Frieda Harris and Aleister Crowley](https://www.laphamsquarterly.org/roundtable/analysis-does-cramp-painter)
-- Apr 06 - [Transactions Aren&#x27;t Everything](https://www.michaelnygard.com/blog/2023/04/transactions-arent-everything/)
+- Apr 07 - [Tesla Employees Have Been Sharing Videos Recorded Inside Customers Cars](https://jalopnik.com/tesla-employees-share-video-inside-customer-cars-1850307909)
+- Apr 07 - [With AI, Astronomers Dig Up the Stars That Birthed the Milky Way](https://www.quantamagazine.org/with-ai-astronomers-dig-up-the-stars-that-birthed-the-milky-way-20230328/)
+- Apr 07 - [Apocalyptic AI](https://theconvivialsociety.substack.com/p/apocalyptic-ai)
+- Apr 07 - [Etleap (YC W13) Is Hiring back end developers in London – 50% remote](https://etleap.com/careers/software-engineer/)
+- Apr 07 - [60M Americans have taxes so simple the IRS could do them automatically](https://www.vox.com/23055489/irs-automatic-filing-prepopulated-returns)
 <!--END_SECTION:hn-->
 
 <!--
