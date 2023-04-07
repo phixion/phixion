@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 07 - [Tesla Employees Have Been Sharing Videos Recorded Inside Customers Cars](https://jalopnik.com/tesla-employees-share-video-inside-customer-cars-1850307909)
-- Apr 07 - [With AI, Astronomers Dig Up the Stars That Birthed the Milky Way](https://www.quantamagazine.org/with-ai-astronomers-dig-up-the-stars-that-birthed-the-milky-way-20230328/)
-- Apr 07 - [Apocalyptic AI](https://theconvivialsociety.substack.com/p/apocalyptic-ai)
-- Apr 07 - [Etleap (YC W13) Is Hiring back end developers in London – 50% remote](https://etleap.com/careers/software-engineer/)
-- Apr 07 - [60M Americans have taxes so simple the IRS could do them automatically](https://www.vox.com/23055489/irs-automatic-filing-prepopulated-returns)
+- Apr 07 - [Memfault (YC W19) Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
+- Apr 07 - [Building GitHub with Ruby on Rails](https://github.blog/2023-04-06-building-github-with-ruby-and-rails/)
+- Apr 07 - [Crazy ants’ strange genomes are a biological first](https://www.nature.com/articles/d41586-023-01002-3)
+- Apr 07 - [NZ’s biggest data breach shows retention is the sleeping giant of data security](https://www.privacy.org.nz/publications/statements-media-releases/new-zealands-biggest-data-breach-shows-retention-is-the-sleeping-giant-of-data-security/)
+- Apr 07 - [Frank Rosenblatt](https://en.wikipedia.org/wiki/Frank_Rosenblatt)
 <!--END_SECTION:hn-->
 
 <!--
