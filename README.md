@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 06 - [Tesla workers shared images from car cameras, including “scenes of intimacy”](https://arstechnica.com/tech-policy/2023/04/tesla-workers-shared-images-from-car-cameras-including-scenes-of-intimacy/)
-- Apr 06 - [This Month with Nim: March 2023](https://nim-lang.org/blog/2023/04/01/this-month-with-nim.html)
-- Apr 06 - [Show HN: StorySeed – AI Facilitated, immersive, creative learning experience](https://koodup.com/journey/storyseed/)
-- Apr 06 - [Uranus (NIRCam Image)](https://webbtelescope.org/contents/media/images/2023/117/01GWQD6PSGTBK7VQBZST09YYKW?news=true)
-- Apr 06 - [Gource – Animate your Git history](https://gource.io/)
+- Apr 06 - [Airbnb shares fall after probe into unpleasant customer experiences](https://www.reuters.com/business/airbnb-shares-fall-after-probe-into-unpleasant-customer-experiences-2023-04-06/)
+- Apr 06 - [Apple Store Robbed of $500K in iPhones After Thieves Tunnel Through Coffee Shop](https://www.macrumors.com/2023/04/06/washington-apple-store-theft/)
+- Apr 06 - [Is it my fault if you can&#x27;t handle the truth?](http://agileotter.blogspot.com/2019/09/is-it-my-fault-you-cant-handle-truth.html)
+- Apr 06 - [The Artistic Partnership of Lady Frieda Harris and Aleister Crowley](https://www.laphamsquarterly.org/roundtable/analysis-does-cramp-painter)
+- Apr 06 - [Transactions Aren&#x27;t Everything](https://www.michaelnygard.com/blog/2023/04/transactions-arent-everything/)
 <!--END_SECTION:hn-->
 
 <!--
