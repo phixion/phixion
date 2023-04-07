@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 07 - [What Archaeology Is Telling Us About the Real Jesus](https://www.nationalgeographic.com/magazine/article/jesus-tomb-archaeology)
-- Apr 07 - [Show HN: I built a website editor for TailwindCSS](https://www.webase.com/)
-- Apr 07 - [Age of Invention: How the Dutch Did It Better](https://antonhowes.substack.com/p/age-of-invention-how-the-dutch-did)
-- Apr 07 - [Twitter won’t allow retweeting tweets linking to Substack](https://arstechnica.com/tech-policy/2023/04/the-dumb-reason-twitter-wont-allow-retweeting-tweets-linking-to-substack/)
-- Apr 07 - [Show HN: Chrome extension to improve productivity with ChatGPT](https://www.teamsmart.ai/)
+- Apr 07 - [Frequency comb breathalyzer detects Covid with excellent accuracy](https://www.nist.gov/news-events/news/2023/04/jilas-frequency-comb-breathalyzer-detects-covid-19-excellent-accuracy)
+- Apr 07 - [Carbon nanotube recognition by human Siglec-14 provokes inflammation](https://www.nature.com/articles/s41565-023-01363-w)
+- Apr 07 - [Why did Phreesia share my medical data after I opted out?](https://www.statnews.com/2023/04/07/medical-data-privacy-phreesia/)
+- Apr 07 - [Ask Wirecutter: Can You Recommend a Not-Smart TV for Me?](https://www.nytimes.com/wirecutter/blog/ask-wirecutter-dumb-tvs/)
+- Apr 07 - [Generally Intelligent (YC S17) Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=35483975)
 <!--END_SECTION:hn-->
 
 <!--
