@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 07 - [Memfault (YC W19) Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
-- Apr 07 - [Building GitHub with Ruby on Rails](https://github.blog/2023-04-06-building-github-with-ruby-and-rails/)
-- Apr 07 - [Crazy ants’ strange genomes are a biological first](https://www.nature.com/articles/d41586-023-01002-3)
-- Apr 07 - [NZ’s biggest data breach shows retention is the sleeping giant of data security](https://www.privacy.org.nz/publications/statements-media-releases/new-zealands-biggest-data-breach-shows-retention-is-the-sleeping-giant-of-data-security/)
-- Apr 07 - [Frank Rosenblatt](https://en.wikipedia.org/wiki/Frank_Rosenblatt)
+- Apr 07 - [Cerebrium (YC W22) Is Hiring – ML Engineer](https://www.ycombinator.com/companies/cerebrium/jobs/GFuLmiG-ml-engineer)
+- Apr 07 - [Codeberg – Fast Open Source Alternative to GitHub](https://codeberg.org/)
+- Apr 07 - [Ask HN: What&#x27;s your best resource for keeping up-to-date on AI developments?](https://news.ycombinator.com/item?id=35479853)
+- Apr 07 - [Database “Sharding” came from Ultima Online?](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
+- Apr 07 - [JavaScript-algorithms: Algorithms and data structures implemented in JavaScript](https://github.com/trekhleb/javascript-algorithms)
 <!--END_SECTION:hn-->
 
 <!--
