@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 07 - [Cerebrium (YC W22) Is Hiring – ML Engineer](https://www.ycombinator.com/companies/cerebrium/jobs/GFuLmiG-ml-engineer)
-- Apr 07 - [Codeberg – Fast Open Source Alternative to GitHub](https://codeberg.org/)
-- Apr 07 - [Ask HN: What&#x27;s your best resource for keeping up-to-date on AI developments?](https://news.ycombinator.com/item?id=35479853)
-- Apr 07 - [Database “Sharding” came from Ultima Online?](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
-- Apr 07 - [JavaScript-algorithms: Algorithms and data structures implemented in JavaScript](https://github.com/trekhleb/javascript-algorithms)
+- Apr 07 - [What Archaeology Is Telling Us About the Real Jesus](https://www.nationalgeographic.com/magazine/article/jesus-tomb-archaeology)
+- Apr 07 - [Show HN: I built a website editor for TailwindCSS](https://www.webase.com/)
+- Apr 07 - [Age of Invention: How the Dutch Did It Better](https://antonhowes.substack.com/p/age-of-invention-how-the-dutch-did)
+- Apr 07 - [Twitter won’t allow retweeting tweets linking to Substack](https://arstechnica.com/tech-policy/2023/04/the-dumb-reason-twitter-wont-allow-retweeting-tweets-linking-to-substack/)
+- Apr 07 - [Show HN: Chrome extension to improve productivity with ChatGPT](https://www.teamsmart.ai/)
 <!--END_SECTION:hn-->
 
 <!--
