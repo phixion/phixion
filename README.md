@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 08 - [FAA K-12 Airport Design Challenge in Minecraft](https://www.faa.gov/airport-design-challenge)
-- Apr 08 - [Google to Ban Financial Lending Apps from Accessing User Photos, Contacts](https://www.pcmag.com/news/google-to-ban-financial-lending-apps-from-accessing-user-photos-contacts)
-- Apr 08 - [When Slide Rules Ruled (2006) [pdf]](https://pdodds.w3.uvm.edu/files/papers/others/2006/stoll2006a.pdf)
-- Apr 08 - [Child hit by car among videos &#x27;captured by Tesla vehicles, shared among staff&#x27;](https://www.theregister.com/2023/04/07/tesla_workers_shared_videos/)
-- Apr 08 - [Effects of Licorice on the Cardiovascular System](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6836258/)
+- Apr 08 - [FCC Warns Portland Church to Shut Down Pirate FM Operating Under Its Steeple](https://www.insideradio.com/free/fcc-warns-portland-church-to-shut-down-pirate-fm-operating-under-its-steeple/article_f89e2ebc-cf96-11ed-9c83-4b0d056dd422.html)
+- Apr 08 - [GNU+Linux laptops with Libreboot preinstalled, based on coreboot](https://minifree.org/)
+- Apr 08 - [Show HN: A ChatGPT TUI with custom bots](https://www.askmarvin.ai/guide/concepts/tui/)
+- Apr 08 - [Dad says glitch in ‘Find My iPhone’ app directs angry strangers to his home](https://nypost.com/2023/04/06/find-my-iphone-app-glitch-sends-strangers-to-mans-home/)
+- Apr 08 - [Why and How We Retired Elm at Culture Amp](https://kevinyank.com/posts/on-endings-why-how-we-retired-elm-at-culture-amp/)
 <!--END_SECTION:hn-->
 
 <!--
