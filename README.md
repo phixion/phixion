@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 08 - [Nango (YC W23) Is Hiring a Founding Engineer (full-stack&#x2F;back end)](https://nango.dev/jobs)
+- Apr 08 - [Go 1.21 will (likely) have a static toolchain on Linux](https://utcc.utoronto.ca/~cks/space/blog/programming/Go121LinuxStaticToolchain)
 - Apr 08 - [Show HN: BrowserBox – do stuff with browsers that you can&#x27;t normally](https://github.com/dosyago/BrowserBox)
-- Apr 08 - [Ask HN: Is it worth submitting a claim for FTX holdings?](https://news.ycombinator.com/item?id=35490158)
-- Apr 08 - [The Erosion of Free Will: Why Society&#x27;s Loss of Belief in Freedom Is Dangerous](https://read.lukeburgis.com/p/the-erosion-of-free-will-why-societys)
-- Apr 08 - [Hacking Google ReCAPTCHA v3 Using Reinforcement Learning](https://arxiv.org/abs/1903.01003)
+- Apr 08 - [Hacking Google ReCAPTCHA v3 Using Reinforcement Learning (2019)](https://arxiv.org/abs/1903.01003)
 - Apr 08 - [Chasing Rainbows: Designing for Colorblindness](https://www.theverge.com/23650428/colorblindness-design-ui-accessibility-wordle)
 <!--END_SECTION:hn-->
 
