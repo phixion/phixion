@@ -19,8 +19,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 08 - [Pentagon, Justice Dept investigate as secret military documents appear online](https://text.npr.org/1168794847)
-- Apr 08 - [I regret using Ionic for app development](https://mhamri.com/why-i-regret-using-ionic-for-app-development-c8b21b88d83a)
+- Apr 09 - [IRB&#x27;s Built-In Measure](https://jemma.dev/blog/irb-measure)
+- Apr 09 - [USPS facility in Utah does nothing but decipher bad handwriting](https://kutv.com/news/eye-on-utah/what-happens-to-mail-with-band-handwriting-united-states-postal-service-letter-carrier-usps-mailwoman-mailman-cursive-taught-in-schools-unreadable-print-envelopes-undeliverable-packages-salt-lake-city-utah)
 - Apr 08 - [Making IELM (Emacs Lisp REPL) More Comfortable](https://www.n16f.net/blog/making-ielm-more-comfortable/)
 - Apr 08 - [FunDSP 0.13 – Audio Processing and Synthesis Library for Rust](https://crates.io/crates/fundsp/0.13.0)
 - Apr 08 - [Lonely Individuals Process the World in Idiosyncratic Ways](https://journals.sagepub.com/doi/10.1177/09567976221145316)
