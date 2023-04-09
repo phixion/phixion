@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 09 - [IRB&#x27;s Built-In Measure](https://jemma.dev/blog/irb-measure)
-- Apr 09 - [USPS facility in Utah does nothing but decipher bad handwriting](https://kutv.com/news/eye-on-utah/what-happens-to-mail-with-band-handwriting-united-states-postal-service-letter-carrier-usps-mailwoman-mailman-cursive-taught-in-schools-unreadable-print-envelopes-undeliverable-packages-salt-lake-city-utah)
-- Apr 08 - [Making IELM (Emacs Lisp REPL) More Comfortable](https://www.n16f.net/blog/making-ielm-more-comfortable/)
-- Apr 08 - [FunDSP 0.13 – Audio Processing and Synthesis Library for Rust](https://crates.io/crates/fundsp/0.13.0)
-- Apr 08 - [Lonely Individuals Process the World in Idiosyncratic Ways](https://journals.sagepub.com/doi/10.1177/09567976221145316)
+- Apr 09 - [June (YC W21) Is Hiring a Senior Engineer (#4)](https://www.ycombinator.com/companies/june/jobs/SHd7fFLYG-senior-product-engineer-4)
+- Apr 09 - [Perseus – NextJS alternative in Rust](https://framesurge.sh/perseus/en-US/)
+- Apr 09 - [Advanced Linux Programming](https://mentorembedded.github.io/advancedlinuxprogramming/)
+- Apr 09 - [Custom coreboot firmware and firmware utilities for your Chromebook&#x2F;Chromebox](https://mrchromebox.tech/)
+- Apr 09 - [Do Kwon converted illicit funds from LUNA to Bitcoin](https://cointelegraph.com/news/do-kwon-converted-stolen-funds-from-luna-to-bitcoin-s-korean-prosecutors)
 <!--END_SECTION:hn-->
 
 <!--
