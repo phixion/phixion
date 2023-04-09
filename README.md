@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 08 - [FCC Warns Portland Church to Shut Down Pirate FM Operating Under Its Steeple](https://www.insideradio.com/free/fcc-warns-portland-church-to-shut-down-pirate-fm-operating-under-its-steeple/article_f89e2ebc-cf96-11ed-9c83-4b0d056dd422.html)
-- Apr 08 - [GNU+Linux laptops with Libreboot preinstalled, based on coreboot](https://minifree.org/)
-- Apr 08 - [Show HN: A ChatGPT TUI with custom bots](https://www.askmarvin.ai/guide/concepts/tui/)
-- Apr 08 - [Dad says glitch in ‘Find My iPhone’ app directs angry strangers to his home](https://nypost.com/2023/04/06/find-my-iphone-app-glitch-sends-strangers-to-mans-home/)
-- Apr 08 - [Why and How We Retired Elm at Culture Amp](https://kevinyank.com/posts/on-endings-why-how-we-retired-elm-at-culture-amp/)
+- Apr 08 - [Pentagon, Justice Dept investigate as secret military documents appear online](https://text.npr.org/1168794847)
+- Apr 08 - [I regret using Ionic for app development](https://mhamri.com/why-i-regret-using-ionic-for-app-development-c8b21b88d83a)
+- Apr 08 - [Making IELM (Emacs Lisp REPL) More Comfortable](https://www.n16f.net/blog/making-ielm-more-comfortable/)
+- Apr 08 - [FunDSP 0.13 – Audio Processing and Synthesis Library for Rust](https://crates.io/crates/fundsp/0.13.0)
+- Apr 08 - [Lonely Individuals Process the World in Idiosyncratic Ways](https://journals.sagepub.com/doi/10.1177/09567976221145316)
 <!--END_SECTION:hn-->
 
 <!--
