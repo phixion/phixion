@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 09 - [Two Types of Software Engineers](https://registerspill.thorstenball.com/p/two-types-of-software-engineers)
-- Apr 09 - [AWS S3 beginning to apply 2 security best practices all new buckets by default](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-s3-two-security-best-practices-buckets-default/)
-- Apr 09 - [Apple Continues Efforts to Keep Retail Stores from Unionizing](https://www.bloomberg.com/news/newsletters/2023-04-09/apple-aapl-continues-efforts-to-keep-retail-stores-from-unionizing-lg9gjdx2)
-- Apr 09 - [Irregular Expressions](https://tavianator.com/2023/irregex.html)
-- Apr 09 - [TIWiFiModem: Take your TI-83 Plus online [video]](https://www.youtube.com/watch?v=eg_J6N9MSCY)
+- Apr 09 - [Sailcargo](https://www.sailcargo.inc)
+- Apr 09 - [UnicodePlots](https://github.com/JuliaPlots/UnicodePlots.jl)
+- Apr 09 - [Spherical tokamak achieves crucial plasma temperatures](https://www.eetimes.com/spherical-tokamak-achieves-crucial-plasma-temperatures/)
+- Apr 09 - [The Interoperable Europe Act Needs a “Free Software First” Approach](https://fsfe.org/news/2023/news-20230323-02.en.html)
+- Apr 09 - [The LLama Effect: Leak Sparked a Series of Open Source Alternatives to ChatGPT](https://thesequence.substack.com/p/the-llama-effect-how-an-accidental)
 <!--END_SECTION:hn-->
 
 <!--
