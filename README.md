@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 09 - [Float Health (YC W22) Is Hiring UI&#x2F;UX Designer](https://news.ycombinator.com/item?id=35501918)
-- Apr 09 - [It sounds like science fiction but it’s not: AI can destroy your business](https://www.theguardian.com/business/2023/apr/09/it-sounds-like-science-fiction-but-its-not-ai-can-financially-destroy-your-business)
-- Apr 09 - [World’s last dedicated Meccano factory to close in France](https://www.theguardian.com/world/2023/feb/23/last-dedicated-meccano-factory-to-close-in-france)
-- Apr 09 - [Digital collectibles &#x2F; NFTs on Instagram are winding down](https://help.instagram.com/1824155514623095)
-- Apr 09 - [Car exhaust filters fail to clean up ‘ultrafine’ air pollution](https://studyfinds.org/car-exhaust-filters-air-pollution/)
+- Apr 09 - [Two Types of Software Engineers](https://registerspill.thorstenball.com/p/two-types-of-software-engineers)
+- Apr 09 - [AWS S3 beginning to apply 2 security best practices all new buckets by default](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-s3-two-security-best-practices-buckets-default/)
+- Apr 09 - [Apple Continues Efforts to Keep Retail Stores from Unionizing](https://www.bloomberg.com/news/newsletters/2023-04-09/apple-aapl-continues-efforts-to-keep-retail-stores-from-unionizing-lg9gjdx2)
+- Apr 09 - [Irregular Expressions](https://tavianator.com/2023/irregex.html)
+- Apr 09 - [TIWiFiModem: Take your TI-83 Plus online [video]](https://www.youtube.com/watch?v=eg_J6N9MSCY)
 <!--END_SECTION:hn-->
 
 <!--
