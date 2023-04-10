@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 10 - [Japan eyes AI adoption as OpenAI CEO visits PM Kishida, talks up local expansion](https://www.reuters.com/technology/japan-eyes-government-ai-adoption-openai-ceo-mulls-opening-office-2023-04-10/)
-- Apr 10 - [EditAnything: Segment Anything + ControlNet + BLIP2 + Stable Diffusion](https://github.com/sail-sg/EditAnything)
-- Apr 10 - [Hell Never Ends on x86: The Hyperspace Story, Continued, Sort Of](https://cohost.org/cathoderaydude/post/1311259-hell-never-ends-on-x)
-- Apr 10 - [Dancing Plague of 1518](https://en.wikipedia.org/wiki/Dancing_plague_of_1518)
-- Apr 10 - [Senior Frontend Engineer at Justpaid.io (YC W23)](https://www.ycombinator.com/companies/justpaid-io/jobs/p9N5Zog-senior-frontend-software-engineer-contract-to-hire)
+- Apr 10 - [Zoomable, animated scatterplots in the browser that scales over a billion points](https://github.com/nomic-ai/deepscatter)
+- Apr 10 - [RePalm](http://dmitry.gr/?r=05.Projects&proj=27.%20rePalm)
+- Apr 10 - [static_assert is all you need (no leaks, no UB)](https://twitter.com/krisjusiak/status/1645360641538945025)
+- Apr 10 - [Are We &lt;Thing&gt; Yet?](https://wiki.mozilla.org/Areweyet)
+- Apr 10 - [Online 8086 Emulator](https://yjdoc2.github.io/8086-emulator-web/)
 <!--END_SECTION:hn-->
 
 <!--
