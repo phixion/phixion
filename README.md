@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 09 - [At Stanford law school, the dean takes a stand for free speech. will it work?](https://www.nytimes.com/2023/04/09/us/stanford-law-school-free-speech.html)
-- Apr 09 - [Laid-off tech workers choose stability over status](https://www.wsj.com/articles/as-tech-jobs-disappear-silicon-valley-veterans-reset-their-careers-dbdb983)
-- Apr 09 - [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
-- Apr 09 - [OpenVMS 9.2 for x86 is finally available for hobbyists](https://raymii.org/s/blog/OpenVMS_9.2_for_x86_is_finally_available_for_hobbyists.html)
-- Apr 09 - [Who invented vector clocks?](https://decomposition.al/blog/2023/04/08/who-invented-vector-clocks/)
+- Apr 10 - [Senior Frontend Engineer at Justpaid.io (YC W23)](https://www.ycombinator.com/companies/justpaid-io/jobs/p9N5Zog-senior-frontend-software-engineer-contract-to-hire)
+- Apr 10 - [DoctorGPT brings GPT into production for error diagnosing](https://github.com/ingyamilmolinar/doctorgpt)
+- Apr 10 - [Deep in Florida, an ecological disaster has been reversed, wildlife is thriving](https://www.nationalgeographic.com/environment/article/kissimmee-biggest-river-restoration-ever-completed)
+- Apr 10 - [Bivector.net: Geometric Algebra Resources](https://bivector.net/)
+- Apr 10 - [Stanford benchmarks and compares numerous Large Language Models](https://crfm.stanford.edu/helm/latest/?group=core_scenarios)
 <!--END_SECTION:hn-->
 
 <!--
