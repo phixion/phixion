@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 10 - [Zoomable, animated scatterplots in the browser that scales over a billion points](https://github.com/nomic-ai/deepscatter)
-- Apr 10 - [RePalm](http://dmitry.gr/?r=05.Projects&proj=27.%20rePalm)
-- Apr 10 - [static_assert is all you need (no leaks, no UB)](https://twitter.com/krisjusiak/status/1645360641538945025)
-- Apr 10 - [Are We &lt;Thing&gt; Yet?](https://wiki.mozilla.org/Areweyet)
-- Apr 10 - [Online 8086 Emulator](https://yjdoc2.github.io/8086-emulator-web/)
+- Apr 10 - [Previously unknown isotope of uranium discovered](https://phys.org/news/2023-04-previously-unknown-isotope-uranium.html)
+- Apr 10 - [The biggest EV battery recycling plant in the US is open for business](https://www.canarymedia.com/articles/recycling-renewables/the-biggest-ev-battery-recycling-plant-in-the-us-is-open-for-business)
+- Apr 10 - [Everybody is the main character](https://blog.sbensu.com/posts/everybody-is-the-main-character/)
+- Apr 10 - [1k Photos of Dolphin Fins](https://www.beautifulpublicdata.com/1000-photos-of-dolphin-fins/)
+- Apr 10 - [Hit Man: A Technical Manual for Independent Contractors](https://en.wikipedia.org/wiki/Hit_Man:_A_Technical_Manual_for_Independent_Contractors)
 <!--END_SECTION:hn-->
 
 <!--
