@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 09 - [Sailcargo](https://www.sailcargo.inc)
-- Apr 09 - [UnicodePlots](https://github.com/JuliaPlots/UnicodePlots.jl)
-- Apr 09 - [Spherical tokamak achieves crucial plasma temperatures](https://www.eetimes.com/spherical-tokamak-achieves-crucial-plasma-temperatures/)
-- Apr 09 - [The Interoperable Europe Act Needs a “Free Software First” Approach](https://fsfe.org/news/2023/news-20230323-02.en.html)
-- Apr 09 - [The LLama Effect: Leak Sparked a Series of Open Source Alternatives to ChatGPT](https://thesequence.substack.com/p/the-llama-effect-how-an-accidental)
+- Apr 09 - [At Stanford law school, the dean takes a stand for free speech. will it work?](https://www.nytimes.com/2023/04/09/us/stanford-law-school-free-speech.html)
+- Apr 09 - [Laid-off tech workers choose stability over status](https://www.wsj.com/articles/as-tech-jobs-disappear-silicon-valley-veterans-reset-their-careers-dbdb983)
+- Apr 09 - [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
+- Apr 09 - [OpenVMS 9.2 for x86 is finally available for hobbyists](https://raymii.org/s/blog/OpenVMS_9.2_for_x86_is_finally_available_for_hobbyists.html)
+- Apr 09 - [Who invented vector clocks?](https://decomposition.al/blog/2023/04/08/who-invented-vector-clocks/)
 <!--END_SECTION:hn-->
 
 <!--
