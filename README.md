@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 10 - [Keycloak with PostgreSQL on Kubernetes](https://blog.brakmic.com/keycloak-with-postgresql-on-kubernetes/)
-- Apr 10 - [Teaching ChatGPT to Speak My Son’s Invented Language](https://szopa.medium.com/teaching-chatgpt-to-speak-my-sons-invented-language-9d109c0a0f05)
-- Apr 10 - [JEP 445: Flexible Main Methods and Anonymous Main Classes (Preview)](https://openjdk.org/jeps/445)
-- Apr 10 - [Use GitHub Actions to Make Your GitHub Profile Dynamic](https://www.bengreenberg.dev/posts/2023-04-09-github-profile-dynamic-content/)
-- Apr 10 - [Why is GPT-3 15.77x more expensive for certain languages?](https://denyslinkov.medium.com/why-is-gpt-3-15-77x-more-expensive-for-certain-languages-2b19a4adc4bc)
+- Apr 10 - [Is 3D printer company Bambu Lab trying to patent everything about 3D printing?](https://patents.google.com/?q=(%22Shenzhen+Tuozhu+Technology%22)&oq=%22Shenzhen+Tuozhu+Technology%22)
+- Apr 10 - [Shutting down nuclear power could increase air pollution: study](https://news.mit.edu/2023/study-shutting-down-nuclear-power-could-increase-air-pollution-0410)
+- Apr 10 - [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
+- Apr 10 - [Al Jaffee, king of the Mad Magazine fold-in, has died](https://www.nytimes.com/2023/04/10/arts/al-jaffee-dead.html)
+- Apr 10 - [Aviator (YC S21) is hiring senior engineers interested in dev productivity](https://www.ycombinator.com/companies/aviator/jobs)
 <!--END_SECTION:hn-->
 
 <!--
