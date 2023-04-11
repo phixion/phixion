@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 10 - [Is 3D printer company Bambu Lab trying to patent everything about 3D printing?](https://patents.google.com/?q=(%22Shenzhen+Tuozhu+Technology%22)&oq=%22Shenzhen+Tuozhu+Technology%22)
-- Apr 10 - [Shutting down nuclear power could increase air pollution: study](https://news.mit.edu/2023/study-shutting-down-nuclear-power-could-increase-air-pollution-0410)
-- Apr 10 - [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
-- Apr 10 - [Al Jaffee, king of the Mad Magazine fold-in, has died](https://www.nytimes.com/2023/04/10/arts/al-jaffee-dead.html)
-- Apr 10 - [Aviator (YC S21) is hiring senior engineers interested in dev productivity](https://www.ycombinator.com/companies/aviator/jobs)
+- Apr 11 - [Nolibc: A minimal C-library replacement shipped with the kernel](https://lwn.net/Articles/920158/)
+- Apr 11 - [FTC fines supplement maker $600k for &#x27;review hijacking&#x27; Amazon listings](https://www.engadget.com/ftc-fines-supplement-maker-600000-for-review-hijacking-amazon-listings-210142185.html)
+- Apr 11 - [Relational Operators in Apache Calcite](https://www.querifylabs.com/blog/relational-operators-in-apache-calcite)
+- Apr 11 - [The end of a myth: Distributed transactions can scale](http://muratbuffalo.blogspot.com/2023/04/the-end-of-myth-distributed.html)
+- Apr 11 - [Dyson hair dryer becomes jet engine](https://hackaday.com/2023/04/10/dyson-hair-dryer-becomes-jet-engine/)
 <!--END_SECTION:hn-->
 
 <!--
