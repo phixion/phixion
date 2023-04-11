@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 11 - [What Has the Pandemic Taught Us About Vaccines?](https://www.quantamagazine.org/what-has-the-pandemic-taught-us-about-vaccines-20230405/)
-- Apr 11 - [The Coming of Local LLMs](https://nickarner.com/notes/the-coming-of-local-llms-march-23-2023/)
-- Apr 11 - [A life of splendid uselessness is a life well lived](https://psyche.co/ideas/a-life-of-splendid-uselessness-is-a-life-well-lived)
-- Apr 11 - [Swarm](https://www.vitling.xyz/toys/swarm/)
-- Apr 11 - [Distributed² Machine Learning Notebooks with Elixir and Livebook](https://news.livebook.dev/distributed2-machine-learning-notebooks-with-elixir-and-livebook---launch-week-1---day-2-1aIlaw)
+- Apr 11 - [Word Grinder: Terminal Based Distraction Free Word Processor](https://github.com/davidgiven/wordgrinder)
+- Apr 11 - [Affiliate Marketing Platform Reaches $600 MRR for 17-year-old Founder](https://www.founderclub.com/vic-pitic/)
+- Apr 11 - [UK to be one of worst performing economies this year, predicts IMF](https://www.bbc.com/news/business-65240749)
+- Apr 11 - [Is your SRE monitoring like a car alarm or smoke alarm?](https://blog.danslimmon.com/2012/11/02/car-alarms-and-smoke-alarms-the-tradeoff-between-sensitivity-and-specificity/)
+- Apr 11 - [Satellite &#x27;Great Observatory for Long Wavelengths&#x27; (Go-Low) Funded by NASA](https://www.haystack.mit.edu/news/go-low/)
 <!--END_SECTION:hn-->
 
 <!--
