@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 11 - [Word Grinder: Terminal Based Distraction Free Word Processor](https://github.com/davidgiven/wordgrinder)
-- Apr 11 - [Affiliate Marketing Platform Reaches $600 MRR for 17-year-old Founder](https://www.founderclub.com/vic-pitic/)
-- Apr 11 - [UK to be one of worst performing economies this year, predicts IMF](https://www.bbc.com/news/business-65240749)
-- Apr 11 - [Is your SRE monitoring like a car alarm or smoke alarm?](https://blog.danslimmon.com/2012/11/02/car-alarms-and-smoke-alarms-the-tradeoff-between-sensitivity-and-specificity/)
-- Apr 11 - [Satellite &#x27;Great Observatory for Long Wavelengths&#x27; (Go-Low) Funded by NASA](https://www.haystack.mit.edu/news/go-low/)
+- Apr 11 - [Solaris by Stanislaw Lem on BBC 4 Radio Full-Cast Drama (2007)](https://www.youtube.com/watch?v=oe8lRAIunxs)
+- Apr 11 - [WordPerfect for Unix Character Terminals](https://github.com/taviso/wpunix)
+- Apr 11 - [Colorado passes agricultural Right to Repair](https://www.ifixit.com/News/73291/colorado-approves-first-ever-agricultural-right-to-repair-bill)
+- Apr 11 - [Deck.of.cards](https://deck.of.cards/old/)
+- Apr 11 - [Aptible (YC S14) Is Hiring: Security Engineer and Head of Product](https://www.aptible.com/culture-hub/careers)
 <!--END_SECTION:hn-->
 
 <!--
