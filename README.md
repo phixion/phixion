@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 12 - [Virtual Threads Arrive in JDK 21, Ushering a New Era of Concurrency](https://www.infoq.com/news/2023/04/virtual-threads-arrives-jdk21/)
-- Apr 12 - [Running Python micro-benchmarks using the ChatGPT Code Interpreter alpha](https://simonwillison.net/2023/Apr/12/code-interpreter/)
-- Apr 12 - [Bookshop.org survives and thrives in Amazon’s world](https://www.wired.com/story/books-bookshop-org-thrives-amazon-world/)
-- Apr 12 - [EVE Online player uses obscure rule to pull off biggest heist in game history](https://www.pcgamer.com/eve-online-player-uses-obscure-rule-to-pull-off-the-biggest-heist-in-the-games-history/)
-- Apr 12 - [Book Review: From Oversight To Overkill](https://astralcodexten.substack.com/p/book-review-from-oversight-to-overkill)
+- Apr 12 - [Bitmovin (YC S15) Is Hiring a Full Stack Engineer (Analytics)](https://bitmovin.com/careers/6694763002/)
+- Apr 12 - [Elizabeth Holmes loses bid to stay out of prison during appeal of sentence](https://www.abc.net.au/news/2023-04-12/theranos-elizabeth-holmes-loses-bid-to-stay-out-of-prison/102211402)
+- Apr 12 - [Mass Layoffs and Absentee Bosses Create a Morale Crisis at Meta](https://www.nytimes.com/2023/04/12/technology/meta-layoffs-employees-management.html)
+- Apr 12 - [Why MD5(&#x27;240610708&#x27;) is equal to MD5(&#x27;QNKCDZO&#x27;)?](https://stackoverflow.com/a/22140266)
+- Apr 12 - [The Complete Guide to All the Taquerias of Redwood City, v2.0 (2008)](http://www.emeraldlake.com/tacos/)
 <!--END_SECTION:hn-->
 
 <!--
