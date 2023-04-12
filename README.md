@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 12 - [AI clones teen girl’s voice in $1M kidnapping scam: ‘I’ve got your daughter’](https://nypost.com/2023/04/12/ai-clones-teen-girls-voice-in-1m-kidnapping-scam/)
-- Apr 12 - [Replacing my best friends with an LLM trained on 500k group chat messages](https://www.izzy.co/blogs/robo-boys.html)
-- Apr 12 - [Hetzner Introduces ARM64 Cloud Servers](https://www.hetzner.com/press-release/arm64-cloud/)
-- Apr 12 - [Points on Cartooning by George Carlson (1937)](http://mikelynchcartoons.blogspot.com/2023/04/how-to-cartoon-book-points-on.html)
-- Apr 12 - [Intel Foundry and Arm announce collaboration on SoC design](https://www.intel.com/content/www/us/en/newsroom/news/intel-foundry-arm-announce-multigeneration-collaboration-leading-edge-soc-design.html)
+- Apr 12 - [Microsoft Is Slowly Rolling Out Ads in the Windows 11 Start Menu](https://gizmodo.com/microsoft-windows-11-onedrive-notifications-start-menu-1850327990)
+- Apr 12 - [Evidence of Antineutrinos from Distant Reactors Using Pure Water at SNO+](https://arxiv.org/abs/2210.14154)
+- Apr 12 - [JavaScript Object Notation (JSON) Pointer](https://www.rfc-editor.org/rfc/rfc6901)
+- Apr 12 - [Google will shut down Dropcam and Nest Secure in 2024](https://www.theverge.com/2023/4/7/23673165/google-nest-dropcam-nest-secure-eol)
+- Apr 12 - [Arkansas House wants you to show ID to use social media](https://arktimes.com/arkansas-blog/2023/04/05/arkansas-house-wants-you-to-show-id-to-use-social-media)
 <!--END_SECTION:hn-->
 
 <!--
