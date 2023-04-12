@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 11 - [Solaris by Stanislaw Lem on BBC 4 Radio Full-Cast Drama (2007)](https://www.youtube.com/watch?v=oe8lRAIunxs)
-- Apr 11 - [WordPerfect for Unix Character Terminals](https://github.com/taviso/wpunix)
-- Apr 11 - [Colorado passes agricultural Right to Repair](https://www.ifixit.com/News/73291/colorado-approves-first-ever-agricultural-right-to-repair-bill)
-- Apr 11 - [Deck.of.cards](https://deck.of.cards/old/)
-- Apr 11 - [Aptible (YC S14) Is Hiring: Security Engineer and Head of Product](https://www.aptible.com/culture-hub/careers)
+- Apr 12 - [Can We Make Bicycles Sustainable Again?](https://www.lowtechmagazine.com/2023/02/can-we-make-bicycles-sustainable-again.html)
+- Apr 12 - [Running Python micro-benchmarks using the ChatGPT Code Interpreter alpha](https://simonwillison.net/2023/Apr/12/code-interpreter/)
+- Apr 12 - [Why xHE-AAC is being embraced at Meta](https://engineering.fb.com/2023/04/11/video-engineering/high-quality-audio-xhe-aac-codec-meta/)
+- Apr 12 - [Eve Online player uses obscure rule to pull off biggest heist in game history](https://www.pcgamer.com/eve-online-player-uses-obscure-rule-to-pull-off-the-biggest-heist-in-the-games-history/)
+- Apr 12 - [From Oversight to Overkill](https://astralcodexten.substack.com/p/book-review-from-oversight-to-overkill)
 <!--END_SECTION:hn-->
 
 <!--
