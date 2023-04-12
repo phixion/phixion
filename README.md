@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 12 - [Bitmovin (YC S15) Is Hiring a Full Stack Engineer (Analytics)](https://bitmovin.com/careers/6694763002/)
-- Apr 12 - [Elizabeth Holmes loses bid to stay out of prison during appeal of sentence](https://www.abc.net.au/news/2023-04-12/theranos-elizabeth-holmes-loses-bid-to-stay-out-of-prison/102211402)
-- Apr 12 - [Mass Layoffs and Absentee Bosses Create a Morale Crisis at Meta](https://www.nytimes.com/2023/04/12/technology/meta-layoffs-employees-management.html)
-- Apr 12 - [Why MD5(&#x27;240610708&#x27;) is equal to MD5(&#x27;QNKCDZO&#x27;)?](https://stackoverflow.com/a/22140266)
-- Apr 12 - [The Complete Guide to All the Taquerias of Redwood City, v2.0 (2008)](http://www.emeraldlake.com/tacos/)
+- Apr 12 - [AI clones teen girl’s voice in $1M kidnapping scam: ‘I’ve got your daughter’](https://nypost.com/2023/04/12/ai-clones-teen-girls-voice-in-1m-kidnapping-scam/)
+- Apr 12 - [Replacing my best friends with an LLM trained on 500k group chat messages](https://www.izzy.co/blogs/robo-boys.html)
+- Apr 12 - [Hetzner Introduces ARM64 Cloud Servers](https://www.hetzner.com/press-release/arm64-cloud/)
+- Apr 12 - [Points on Cartooning by George Carlson (1937)](http://mikelynchcartoons.blogspot.com/2023/04/how-to-cartoon-book-points-on.html)
+- Apr 12 - [Intel Foundry and Arm announce collaboration on SoC design](https://www.intel.com/content/www/us/en/newsroom/news/intel-foundry-arm-announce-multigeneration-collaboration-leading-edge-soc-design.html)
 <!--END_SECTION:hn-->
 
 <!--
