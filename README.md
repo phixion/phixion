@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 12 - [Microsoft Is Slowly Rolling Out Ads in the Windows 11 Start Menu](https://gizmodo.com/microsoft-windows-11-onedrive-notifications-start-menu-1850327990)
-- Apr 12 - [Evidence of Antineutrinos from Distant Reactors Using Pure Water at SNO+](https://arxiv.org/abs/2210.14154)
-- Apr 12 - [JavaScript Object Notation (JSON) Pointer](https://www.rfc-editor.org/rfc/rfc6901)
-- Apr 12 - [Google will shut down Dropcam and Nest Secure in 2024](https://www.theverge.com/2023/4/7/23673165/google-nest-dropcam-nest-secure-eol)
-- Apr 12 - [Arkansas House wants you to show ID to use social media](https://arktimes.com/arkansas-blog/2023/04/05/arkansas-house-wants-you-to-show-id-to-use-social-media)
+- Apr 12 - [Japan Government warned citizens to shelter after ballistic missile launch](https://www3.nhk.or.jp/nhkworld/)
+- Apr 12 - [Bad News About Inflation](https://paulromer.net/bad-news-about-inflation/)
+- Apr 12 - [Midjourney AI Guide](https://enchanting-trader-463.notion.site/Midjourney-AI-Guide-41eca43809dd4d8fa676e648436fc29c)
+- Apr 12 - [DeepSpeed Chat: Easy, fast and affordable RLHF training of ChatGPT-like models](https://github.com/microsoft/DeepSpeed/blob/master/blogs/deepspeed-chat/README.md)
+- Apr 12 - [Use io_uring for network I&#x2F;O](https://developers.redhat.com/articles/2023/04/12/why-you-should-use-iouring-network-io)
 <!--END_SECTION:hn-->
 
 <!--
