@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 13 - [Laudspeaker hiring engineer to build open source customer journey software](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
-- Apr 13 - [First image of a black hole gets a makeover with AI](https://apnews.com/article/first-black-hole-image-machine-learning-8a1a4815a974d8fe3a43392d8e775bfb)
-- Apr 13 - [China’s BYD is overtaking Tesla as the carmaker extraordinaire](https://www.economist.com/business/2023/02/02/chinas-byd-is-overtaking-tesla-as-the-carmaker-extraordinaire)
-- Apr 13 - [Scunthorpe Problem](https://en.wikipedia.org/wiki/Scunthorpe_problem)
-- Apr 13 - [Google&#x27;s 2023 Shutdown Spree: 6 Products Pulled in Just 4 Months](https://toolhub.tech/blog/Google-2023-Shutdown-Spree-6-Products-Pulled-in-Just-4-Months/)
+- Apr 13 - [Arrest made in Bob Lee killing; suspect was tech exec](https://www.sfchronicle.com/sf/article/bob-lee-san-francisco-arrest-17895071.php)
+- Apr 13 - [Gig Workers Are Being Stabbed, Stoned, and Abused in India](https://www.wired.com/story/india-gig-workers-violence-deadly-attacks/)
+- Apr 13 - [Pentagon leaks linked to young gun enthusiast who worked at military base](https://www.theguardian.com/us-news/2023/apr/13/pentagon-leaks-og-source-military-base-discord-report)
+- Apr 13 - [The science behind California&#x27;s wet winter, in maps](https://www.washingtonpost.com/weather/2023/04/07/california-extreme-winter-storms-snow-climate/)
+- Apr 13 - [Pentagon leak leads to limits on who gets access to military’s top secrets](https://www.cnn.com/2023/04/13/politics/pentagon-leaks-limit-access-military-secrets/index.html)
 <!--END_SECTION:hn-->
 
 <!--
