@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 12 - [Japan Government warned citizens to shelter after ballistic missile launch](https://www3.nhk.or.jp/nhkworld/)
-- Apr 12 - [Bad News About Inflation](https://paulromer.net/bad-news-about-inflation/)
-- Apr 12 - [Midjourney AI Guide](https://enchanting-trader-463.notion.site/Midjourney-AI-Guide-41eca43809dd4d8fa676e648436fc29c)
-- Apr 12 - [DeepSpeed Chat: Easy, fast and affordable RLHF training of ChatGPT-like models](https://github.com/microsoft/DeepSpeed/blob/master/blogs/deepspeed-chat/README.md)
-- Apr 12 - [Use io_uring for network I&#x2F;O](https://developers.redhat.com/articles/2023/04/12/why-you-should-use-iouring-network-io)
+- Apr 13 - [What you give up by moving into engineering management](https://stackoverflow.blog/2022/02/23/what-you-give-up-when-moving-into-engineering-management/)
+- Apr 13 - [Leaker of U.S. secret documents worked on military base, friend says](https://www.washingtonpost.com/national-security/2023/04/12/discord-leaked-documents/)
+- Apr 13 - [Ban TikTok – But we need a better version of the RESTRICT Act](https://proton.me/blog/ban-tiktok-better-restrict-act)
+- Apr 13 - [Lindows 4.0 (2003)](https://baturin.org/misc/software-reviews/lindows/)
+- Apr 13 - [Mathematicians Find Hidden Structure in a Common Type of Space](https://www.quantamagazine.org/mathematicians-find-hidden-structure-in-a-common-type-of-space-20230412/)
 <!--END_SECTION:hn-->
 
 <!--
