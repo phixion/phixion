@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 14 - [Why employees hate ‘pizza parties’ but HR loves having them](https://www.moneycontrol.com/news/business/why-employees-hate-pizza-parties-but-hr-loves-having-them-10411841.html)
-- Apr 14 - [OpenAI’s Red Team: the experts hired to ‘break’ ChatGPT](https://www.ft.com/content/0876687a-f8b7-4b39-b513-5fee942831e8)
-- Apr 14 - [Ask HN: Side project of more that $2k monthly revenue what&#x27;s your project?](https://news.ycombinator.com/item?id=35567822)
-- Apr 14 - [Replying to comments about our web page design](https://research.exoticsilicon.com/articles/replying_to_comments)
-- Apr 14 - [Largest island in a lake on an island in a lake on an island](https://www.elbruz.org/special-projects/islands-and-lakes/)
+- Apr 14 - [Beyond Automatic Differentiation](https://ai.googleblog.com/2023/04/beyond-automatic-differentiation.html)
+- Apr 14 - [Spotify abandons Heardle less than a year after buying it](https://www.theverge.com/2023/4/14/23683240/spotify-shuts-down-heardle-music-guessing-game)
+- Apr 14 - [AMD Details OpenSIL for Advancing Open-Source System Firmware](https://www.phoronix.com/news/AMD-openSIL-Detailed)
+- Apr 14 - [Data wrangling in Elixir with Explorer, the power of Rust, the elegance of R](https://news.livebook.dev/data-wrangling-in-elixir-with-explorer-the-power-of-rust-the-elegance-of-r---launch-week-1---day-5-1xqwCI)
+- Apr 14 - [Automated shusher keeps conference loudmouths in line](https://hackaday.com/2023/04/13/automated-shusher-keeps-conference-loudmouths-in-line/)
 <!--END_SECTION:hn-->
 
 <!--
