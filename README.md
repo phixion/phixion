@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 14 - [Tesla sets up new-energy firm in Shanghai with $2M registered capital](https://www.reuters.com/business/sustainable-business/tesla-sets-up-new-energy-firm-shanghai-with-2-mln-registered-capital-tianyancha-2023-04-14/)
-- Apr 14 - [Microsoft is using illegal bribes in the Middle East and Africa](https://www.lioness.co/post/microsoft-is-using-illegal-bribes-in-the-middle-east-and-africa-why-is-the-sec-turning-a-blind-eye)
-- Apr 14 - [91% of ML Models Degrade over Time](https://www.nannyml.com/blog/91-of-ml-perfomance-degrade-in-time)
-- Apr 14 - [Vast New Stores of Water Reported on the Moon](https://spectrum.ieee.org/moon-water)
-- Apr 14 - [Building LLM Applications for Production](https://huyenchip.com/2023/04/11/llm-engineering.html)
+- Apr 14 - [Why employees hate ‘pizza parties’ but HR loves having them](https://www.moneycontrol.com/news/business/why-employees-hate-pizza-parties-but-hr-loves-having-them-10411841.html)
+- Apr 14 - [OpenAI’s Red Team: the experts hired to ‘break’ ChatGPT](https://www.ft.com/content/0876687a-f8b7-4b39-b513-5fee942831e8)
+- Apr 14 - [Ask HN: Side project of more that $2k monthly revenue what&#x27;s your project?](https://news.ycombinator.com/item?id=35567822)
+- Apr 14 - [Replying to comments about our web page design](https://research.exoticsilicon.com/articles/replying_to_comments)
+- Apr 14 - [Largest island in a lake on an island in a lake on an island](https://www.elbruz.org/special-projects/islands-and-lakes/)
 <!--END_SECTION:hn-->
 
 <!--
