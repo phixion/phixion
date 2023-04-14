@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 14 - [Beyond Automatic Differentiation](https://ai.googleblog.com/2023/04/beyond-automatic-differentiation.html)
-- Apr 14 - [Spotify abandons Heardle less than a year after buying it](https://www.theverge.com/2023/4/14/23683240/spotify-shuts-down-heardle-music-guessing-game)
-- Apr 14 - [AMD Details OpenSIL for Advancing Open-Source System Firmware](https://www.phoronix.com/news/AMD-openSIL-Detailed)
-- Apr 14 - [Data wrangling in Elixir with Explorer, the power of Rust, the elegance of R](https://news.livebook.dev/data-wrangling-in-elixir-with-explorer-the-power-of-rust-the-elegance-of-r---launch-week-1---day-5-1xqwCI)
-- Apr 14 - [Automated shusher keeps conference loudmouths in line](https://hackaday.com/2023/04/13/automated-shusher-keeps-conference-loudmouths-in-line/)
+- Apr 14 - [Cash App founder Bob Lee stabbed to death after argument about suspect&#x27;s sister](https://www.nbcnews.com/news/us-news/cash-app-founder-bob-lee-was-stabbed-death-argument-suspects-sister-co-rcna79741)
+- Apr 14 - [Walmart Announces Closure of Four Chicago Stores](https://corporate.walmart.com/newsroom/2023/04/11/walmart-announces-closure-of-four-chicago-stores)
+- Apr 14 - [Universal Install Script](https://xkcd.com/1654/)
+- Apr 14 - [Show HN: WikiBinge – discover how all things are vaguely connected (2016)](https://www.wikibinge.com/)
+- Apr 14 - [Prompt injection: what’s the worst that can happen?](https://simonwillison.net/2023/Apr/14/worst-that-can-happen/)
 <!--END_SECTION:hn-->
 
 <!--
