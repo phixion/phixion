@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 13 - [Whitepaper: Current Best Practices for Training LLMs from Scratch](http://wandb.me/LLMwhitepaper)
-- Apr 13 - [What Kind of Mind Does ChatGPT Have?](https://www.newyorker.com/science/annals-of-artificial-intelligence/what-kind-of-mind-does-chatgpt-have)
-- Apr 13 - [Elixir and Rust is a good mix](https://fly.io/phoenix-files/elixir-and-rust-is-a-good-mix/)
-- Apr 13 - [Pulumi Insights – AI generated IaC programs](https://www.pulumi.com/blog/pulumi-insights/)
-- Apr 13 - [Surpassing 10Gb&#x2F;S over Tailscale](https://tailscale.com/blog/more-throughput/)
+- Apr 13 - [Auto-GPT Unmasked: The Hype and Hard Truths of Its Production Pitfalls](https://jina.ai/news/auto-gpt-unmasked-hype-hard-truths-production-pitfalls)
+- Apr 13 - [When you combine two things that are close, but not the same](https://twitter.com/id_aa_carmack/status/1646634954703421441)
+- Apr 13 - [SQL: 2023 is finished: Here is what&#x27;s new](http://peter.eisentraut.org/blog/2023/04/04/sql-2023-is-finished-here-is-whats-new)
+- Apr 13 - [Shifting the Balance of Cybersecurity Risk: Security-by-Design and -Default [pdf]](https://www.cisa.gov/sites/default/files/2023-04/principles_approaches_for_security-by-design-default_508_0.pdf)
+- Apr 13 - [Consent-O-Matic: Automatic cookie management](https://consentomatic.au.dk/)
 <!--END_SECTION:hn-->
 
 <!--
