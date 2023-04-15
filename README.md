@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 15 - [Surviving Burnout](https://lifeofaudrey.com/essays/surviving_burnout.html)
-- Apr 15 - [IPFS-tiny: attempting to take IPFS to Space](https://libre.space/2023/04/12/ipfs-tiny/)
-- Apr 15 - [What are transformer models and how do they work?](https://txt.cohere.ai/what-are-transformer-models/)
-- Apr 15 - [HyperShell: Spawn shells anywhere. Fully peer-to-peer](https://github.com/holepunchto/hypershell)
-- Apr 15 - [Solar Panels That Clean Themselves](https://www.eetimes.com/innovative-approaches-tackle-self-cleaning-solar-panels/)
+- Apr 15 - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=35578305)
+- Apr 15 - [Twitter lacks many features to be a true Mastodon replacement (2022)](https://aus.social/@ajsadauskas/109334791235861940)
+- Apr 15 - [Valve Restricts Accounts of 2500 Users Who Marked a Negative Game Review Useful](https://tech.slashdot.org/story/23/04/14/175246/valve-restricts-accounts-of-2500-users-who-marked-a-negative-game-review-useful)
+- Apr 15 - [Mayan ball game scoreboard thought to be over 1k years old found in Mexico](https://www.theguardian.com/world/2023/apr/11/mayan-ball-game-scoreboard-chichen-itza-mexico)
+- Apr 15 - [The Decade of Deep Learning](https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/)
 <!--END_SECTION:hn-->
 
 <!--
