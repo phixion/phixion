@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 15 - [Germany Quits Nuclear Power, Ending a Decades-Long Struggle](https://www.nytimes.com/2023/04/14/world/europe/germany-nuclear-power-plants.html)
-- Apr 15 - [WebGPU Fundamentals](https://webgpufundamentals.org/)
-- Apr 15 - [Fluorescence in Olive Oil](https://aapt.scitation.org/doi/10.1119/1.4745700)
-- Apr 15 - [The inner beauty of a Tesla Stropkov DS 3600 telephone from the early 1980s](https://blog.jgc.org/2023/04/the-inner-beauty-of-tesla-stropkov-ds.html)
-- Apr 15 - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=35578305)
+- Apr 15 - [The military loved Discord for Gen Z recruiting. Then the leaks began](https://www.washingtonpost.com/technology/2023/04/15/discord-military-recruitment-pentagon-document-leaks/)
+- Apr 15 - [US pay transparency laws result in worker discontent](https://www.irishtimes.com/business/work/2023/03/31/us-pay-transparency-laws-result-in-worker-discontent/)
+- Apr 15 - [U.S. may change how it monitors the web after missing leaked documents for weeks](https://www.nbcnews.com/politics/national-security/us-intel-agencies-missed-classified-documents-leaked-on-discord-rcna79404)
+- Apr 15 - [Stop Building Closed Ecosystems](https://buttondown.email/whatever_jamie/archive/stop-building-closed-ecosystems/)
+- Apr 15 - [Show HN: IPython-GPT, a Jupyter&#x2F;IPython Interface to Chat GPT](https://github.com/santiagobasulto/ipython-gpt)
 <!--END_SECTION:hn-->
 
 <!--
