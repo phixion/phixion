@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 15 - [Germany Quits Nuclear Power, Ending a Decades-Long Struggle](https://www.nytimes.com/2023/04/14/world/europe/germany-nuclear-power-plants.html)
+- Apr 15 - [WebGPU Fundamentals](https://webgpufundamentals.org/)
+- Apr 15 - [Fluorescence in Olive Oil](https://aapt.scitation.org/doi/10.1119/1.4745700)
+- Apr 15 - [The inner beauty of a Tesla Stropkov DS 3600 telephone from the early 1980s](https://blog.jgc.org/2023/04/the-inner-beauty-of-tesla-stropkov-ds.html)
 - Apr 15 - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=35578305)
-- Apr 15 - [Twitter lacks many features to be a true Mastodon replacement (2022)](https://aus.social/@ajsadauskas/109334791235861940)
-- Apr 15 - [Valve Restricts Accounts of 2500 Users Who Marked a Negative Game Review Useful](https://tech.slashdot.org/story/23/04/14/175246/valve-restricts-accounts-of-2500-users-who-marked-a-negative-game-review-useful)
-- Apr 15 - [Mayan ball game scoreboard thought to be over 1k years old found in Mexico](https://www.theguardian.com/world/2023/apr/11/mayan-ball-game-scoreboard-chichen-itza-mexico)
-- Apr 15 - [The Decade of Deep Learning](https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/)
 <!--END_SECTION:hn-->
 
 <!--
