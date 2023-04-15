@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 14 - [The FAA has granted SpaceX permission to launch its Starship rocket](https://arstechnica.com/science/2023/04/green-light-go-spacex-receives-a-launch-license-from-the-faa-for-starship/)
-- Apr 14 - [A photon-recycling incandescent lighting device](https://www.science.org/doi/10.1126/sciadv.adf3737)
-- Apr 14 - [DJI Inspire 3: new 8k cinema drone](https://www.dji.com/inspire-3)
-- Apr 14 - [Oldest bat skeletons ever found described as new species](https://www.nhm.ac.uk/discover/news/2023/april/oldest-bat-skeletons-ever-found-described-new-species.html)
-- Apr 14 - [Searchable Linux Syscall Table for x86 and x86_64](https://filippo.io/linux-syscall-table/)
+- Apr 15 - [Surviving Burnout](https://lifeofaudrey.com/essays/surviving_burnout.html)
+- Apr 15 - [IPFS-tiny: attempting to take IPFS to Space](https://libre.space/2023/04/12/ipfs-tiny/)
+- Apr 15 - [What are transformer models and how do they work?](https://txt.cohere.ai/what-are-transformer-models/)
+- Apr 15 - [HyperShell: Spawn shells anywhere. Fully peer-to-peer](https://github.com/holepunchto/hypershell)
+- Apr 15 - [Solar Panels That Clean Themselves](https://www.eetimes.com/innovative-approaches-tackle-self-cleaning-solar-panels/)
 <!--END_SECTION:hn-->
 
 <!--
