@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 14 - [Cash App founder Bob Lee stabbed to death after argument about suspect&#x27;s sister](https://www.nbcnews.com/news/us-news/cash-app-founder-bob-lee-was-stabbed-death-argument-suspects-sister-co-rcna79741)
-- Apr 14 - [Walmart Announces Closure of Four Chicago Stores](https://corporate.walmart.com/newsroom/2023/04/11/walmart-announces-closure-of-four-chicago-stores)
-- Apr 14 - [Universal Install Script](https://xkcd.com/1654/)
-- Apr 14 - [Show HN: WikiBinge – discover how all things are vaguely connected (2016)](https://www.wikibinge.com/)
-- Apr 14 - [Prompt injection: what’s the worst that can happen?](https://simonwillison.net/2023/Apr/14/worst-that-can-happen/)
+- Apr 14 - [The FAA has granted SpaceX permission to launch its Starship rocket](https://arstechnica.com/science/2023/04/green-light-go-spacex-receives-a-launch-license-from-the-faa-for-starship/)
+- Apr 14 - [A photon-recycling incandescent lighting device](https://www.science.org/doi/10.1126/sciadv.adf3737)
+- Apr 14 - [DJI Inspire 3: new 8k cinema drone](https://www.dji.com/inspire-3)
+- Apr 14 - [Oldest bat skeletons ever found described as new species](https://www.nhm.ac.uk/discover/news/2023/april/oldest-bat-skeletons-ever-found-described-new-species.html)
+- Apr 14 - [Searchable Linux Syscall Table for x86 and x86_64](https://filippo.io/linux-syscall-table/)
 <!--END_SECTION:hn-->
 
 <!--
