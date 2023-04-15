@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 15 - [The military loved Discord for Gen Z recruiting. Then the leaks began](https://www.washingtonpost.com/technology/2023/04/15/discord-military-recruitment-pentagon-document-leaks/)
-- Apr 15 - [US pay transparency laws result in worker discontent](https://www.irishtimes.com/business/work/2023/03/31/us-pay-transparency-laws-result-in-worker-discontent/)
-- Apr 15 - [U.S. may change how it monitors the web after missing leaked documents for weeks](https://www.nbcnews.com/politics/national-security/us-intel-agencies-missed-classified-documents-leaked-on-discord-rcna79404)
-- Apr 15 - [Stop Building Closed Ecosystems](https://buttondown.email/whatever_jamie/archive/stop-building-closed-ecosystems/)
-- Apr 15 - [Show HN: IPython-GPT, a Jupyter&#x2F;IPython Interface to Chat GPT](https://github.com/santiagobasulto/ipython-gpt)
+- Apr 15 - [Microsoft execs on Apple&#x27;s music store (2003)](https://twitter.com/TechEmails/status/1647317806697050112)
+- Apr 15 - [DOJ charges 10 with fraud in global air freight kickback scheme](https://www.aircargonews.net/airlines/freighter-operator/us-doj-charges-10-with-defrauding-polar-air-cargo-worldwide/)
+- Apr 15 - [Web LLM – WebGPU Powered Inference of Large Language Models](https://github.com/mlc-ai/web-llm)
+- Apr 15 - [Lofi air traffic control – LAX](https://www.lofiatc.com/?icao=KLAX)
+- Apr 15 - [MacStealer allows for WiFi client isolation bypasses (CVE-2022-47522)](https://github.com/vanhoefm/macstealer)
 <!--END_SECTION:hn-->
 
 <!--
