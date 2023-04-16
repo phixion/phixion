@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 15 - [Google CEO: “can we change the setting of this group to history-off” [pdf]](https://ia601707.us.archive.org/28/items/gov.uscourts.cand.364454/gov.uscourts.cand.364454.385.0.pdf)
-- Apr 15 - [The Red Hat model only worked for Red Hat](https://opencoreventures.com/blog/2023-04-red-hat-model-only-worked-red-hat/)
-- Apr 15 - [Uber, Amazon use AI to pay people different wages for same work: Study](https://www.businessinsider.com/uber-amazon-pay-using-ai-different-wages-same-work-discrimination-2023-4)
-- Apr 15 - [Digital clutter: Learning to let go and stop hoarding terabytes](https://paulstamatiou.com/digital-clutter/)
-- Apr 15 - [The FFmpeg&#x2F;Libav situation (2012)](http://blog.pkh.me/p/13-the-ffmpeg-libav-situation.html)
+- Apr 16 - [Dishwasher Salmon](https://en.wikipedia.org/wiki/Dishwasher_salmon)
+- Apr 16 - [Efficiency trades off against resiliency](https://blog.nelhage.com/post/efficiency-vs-resiliency/)
+- Apr 16 - [Four voters will decide $60B in Granby Ranch metro-district debt](https://coloradosun.com/2023/04/14/granby-ranch-metro-district-debt-election/)
+- Apr 16 - [Mouse scroll wheel acceleration, implemented in user space](https://github.com/albertz/mouse-scroll-wheel-acceleration-userspace)
+- Apr 16 - [Latest Kitty terminal release features SRGB correct linear gamma blending](https://github.com/kovidgoyal/kitty/pull/5969)
 <!--END_SECTION:hn-->
 
 <!--
