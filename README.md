@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 16 - [De-Stressing Booking.com](https://www.alexcharlton.co/projects/booking-com-de-stresser)
-- Apr 16 - [Plain C API design, the real world Kobayashi Maru test](https://nibblestew.blogspot.com/2023/02/plain-c-api-design-real-world-kobayashi.html)
-- Apr 16 - [A Beauty Treatment Promised to Zap Fat. For Some, It Brought Disfigurement](https://www.nytimes.com/2023/04/16/health/coolsculpting-side-effect-risks.html)
-- Apr 16 - [Why California is taking on caste-based discrimination](https://www.theguardian.com/us-news/2023/apr/16/california-bill-aims-to-ban-caste-based-discrimination)
-- Apr 16 - [Laid off by Big Tech, then recruited for contract work – at the same place](https://www.seattletimes.com/business/laid-off-by-big-tech-then-recruited-for-contract-work-at-the-same-place/)
+- Apr 16 - [Alien Artefacts](https://www.brautaset.org/posts/alien-artefacts.html)
+- Apr 16 - [Interlaken: The ideal high-speed chip-to-chip interface](https://www.design-reuse.com/articles/52722/interlaken-the-ideal-high-speed-chip-to-chip-interface.html)
+- Apr 16 - [Smokey’s New Hot Vapourizing Engine Creates Heat in Detroit (1983)](http://rexresearch.com/yunick/yunick.htm)
+- Apr 16 - [Lithium Battery Ripe for Disruption, Inventor Says](https://spectrum.ieee.org/lithium-ion-battery-disruption-ready)
+- Apr 16 - [I used Stable Diffusion and Dreambooth to create an art portrait of my dog](https://www.shruggingface.com/blog/how-i-used-stable-diffusion-and-dreambooth-to-create-a-painted-portrait-of-my-dog)
 <!--END_SECTION:hn-->
 
 <!--
