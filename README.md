@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 16 - [Nvenc vs. QSV: Who Has the Best Hardware AV1 Encoder?](https://giannirosato.com/blog/post/nvenc-v-qsv/)
-- Apr 16 - [Tabi: The shoe that became a sock and then a shoe again](https://one-from-nippon.ghost.io/untitled-2/)
-- Apr 16 - [Wayback: Self-hosted archiving service integrated with Internet Archive](https://github.com/wabarc/wayback)
-- Apr 16 - [Dishwasher Salmon](https://en.wikipedia.org/wiki/Dishwasher_salmon)
-- Apr 16 - [Efficiency trades off against resiliency](https://blog.nelhage.com/post/efficiency-vs-resiliency/)
+- Apr 16 - [Future Blues – Emily&#x27;s Cowboy Bebop Page (1999)](https://futureblues.com/)
+- Apr 16 - [The end of nuclear power in Germany](https://www.greenpeace.org/international/story/59219/tschuss-atomkraft-end-nuclear-power-germany/)
+- Apr 16 - [Batch computing and the coming age of AI systems](https://hazyresearch.stanford.edu/blog/2023-04-12-batch)
+- Apr 16 - [Algorithmic System for Turning the Elderly into High-Nutrient Slurry (2019)](https://arxiv.org/abs/1908.06166)
+- Apr 16 - [The fastest math typesetting library for the web](https://katex.org/)
 <!--END_SECTION:hn-->
 
 <!--
