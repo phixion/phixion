@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 15 - [Microsoft execs on Apple&#x27;s music store (2003)](https://twitter.com/TechEmails/status/1647317806697050112)
-- Apr 15 - [DOJ charges 10 with fraud in global air freight kickback scheme](https://www.aircargonews.net/airlines/freighter-operator/us-doj-charges-10-with-defrauding-polar-air-cargo-worldwide/)
-- Apr 15 - [Web LLM – WebGPU Powered Inference of Large Language Models](https://github.com/mlc-ai/web-llm)
-- Apr 15 - [Lofi air traffic control – LAX](https://www.lofiatc.com/?icao=KLAX)
-- Apr 15 - [MacStealer allows for WiFi client isolation bypasses (CVE-2022-47522)](https://github.com/vanhoefm/macstealer)
+- Apr 15 - [Google CEO: “can we change the setting of this group to history-off” [pdf]](https://ia601707.us.archive.org/28/items/gov.uscourts.cand.364454/gov.uscourts.cand.364454.385.0.pdf)
+- Apr 15 - [The Red Hat model only worked for Red Hat](https://opencoreventures.com/blog/2023-04-red-hat-model-only-worked-red-hat/)
+- Apr 15 - [Uber, Amazon use AI to pay people different wages for same work: Study](https://www.businessinsider.com/uber-amazon-pay-using-ai-different-wages-same-work-discrimination-2023-4)
+- Apr 15 - [Digital clutter: Learning to let go and stop hoarding terabytes](https://paulstamatiou.com/digital-clutter/)
+- Apr 15 - [The FFmpeg&#x2F;Libav situation (2012)](http://blog.pkh.me/p/13-the-ffmpeg-libav-situation.html)
 <!--END_SECTION:hn-->
 
 <!--
