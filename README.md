@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 16 - [Nvenc vs. QSV: Who Has the Best Hardware AV1 Encoder?](https://giannirosato.com/blog/post/nvenc-v-qsv/)
+- Apr 16 - [Tabi: The shoe that became a sock and then a shoe again](https://one-from-nippon.ghost.io/untitled-2/)
+- Apr 16 - [Wayback: Self-hosted archiving service integrated with Internet Archive](https://github.com/wabarc/wayback)
 - Apr 16 - [Dishwasher Salmon](https://en.wikipedia.org/wiki/Dishwasher_salmon)
 - Apr 16 - [Efficiency trades off against resiliency](https://blog.nelhage.com/post/efficiency-vs-resiliency/)
-- Apr 16 - [Four voters will decide $60B in Granby Ranch metro-district debt](https://coloradosun.com/2023/04/14/granby-ranch-metro-district-debt-election/)
-- Apr 16 - [Mouse scroll wheel acceleration, implemented in user space](https://github.com/albertz/mouse-scroll-wheel-acceleration-userspace)
-- Apr 16 - [Latest Kitty terminal release features SRGB correct linear gamma blending](https://github.com/kovidgoyal/kitty/pull/5969)
 <!--END_SECTION:hn-->
 
 <!--
