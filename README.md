@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 16 - [Future Blues – Emily&#x27;s Cowboy Bebop Page (1999)](https://futureblues.com/)
-- Apr 16 - [The end of nuclear power in Germany](https://www.greenpeace.org/international/story/59219/tschuss-atomkraft-end-nuclear-power-germany/)
-- Apr 16 - [Batch computing and the coming age of AI systems](https://hazyresearch.stanford.edu/blog/2023-04-12-batch)
-- Apr 16 - [Algorithmic System for Turning the Elderly into High-Nutrient Slurry (2019)](https://arxiv.org/abs/1908.06166)
-- Apr 16 - [The fastest math typesetting library for the web](https://katex.org/)
+- Apr 16 - [De-Stressing Booking.com](https://www.alexcharlton.co/projects/booking-com-de-stresser)
+- Apr 16 - [Plain C API design, the real world Kobayashi Maru test](https://nibblestew.blogspot.com/2023/02/plain-c-api-design-real-world-kobayashi.html)
+- Apr 16 - [A Beauty Treatment Promised to Zap Fat. For Some, It Brought Disfigurement](https://www.nytimes.com/2023/04/16/health/coolsculpting-side-effect-risks.html)
+- Apr 16 - [Why California is taking on caste-based discrimination](https://www.theguardian.com/us-news/2023/apr/16/california-bill-aims-to-ban-caste-based-discrimination)
+- Apr 16 - [Laid off by Big Tech, then recruited for contract work – at the same place](https://www.seattletimes.com/business/laid-off-by-big-tech-then-recruited-for-contract-work-at-the-same-place/)
 <!--END_SECTION:hn-->
 
 <!--
