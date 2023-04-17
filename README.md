@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 17 - [Orbital Test Launch of Starship in ~4 hours](https://www.youtube.com/watch?v=L5QXreqOrTA)
-- Apr 17 - [Monthly Fediverse posts cross 1 billion for the first time](https://masto.ai/@mg/110212843144499061)
-- Apr 17 - [Nintendo Is Taking Down My Videos [video]](https://www.youtube.com/watch?v=FSZYpDk9Xm8)
-- Apr 17 - [Microsoft deleted the public support forums for SwiftKey](https://mastodon.social/@mcc/110209163620520535)
-- Apr 17 - [I made my blog solar-powered, then things escalated](https://louwrentius.com/i-made-my-blog-solar-powered-then-things-escalated.html)
+- Apr 17 - [Ivy (YC W23) Is Hiring Engineers to Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
+- Apr 17 - [Keep Stuff Linkable](https://animaomnium.github.io/keep-stuff-linkable/)
+- Apr 17 - [Monet&#x27;s dreamy haze was pollution, study finds](https://www.cnn.com/style/article/monet-haze-air-pollution-study-scn/index.html)
+- Apr 17 - [Sold a Story: How Teaching Kids to Read Went So Wrong](https://features.apmreports.org/sold-a-story/)
+- Apr 17 - [Ask HN: Is PostgreSQL better than MySQL?](https://news.ycombinator.com/item?id=35599118)
 <!--END_SECTION:hn-->
 
 <!--
