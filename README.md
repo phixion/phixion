@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 17 - [Breaking the limits of TLA+ model checking](https://www.hillelwayne.com/post/graphing-tla/)
-- Apr 17 - [DuckDuckGo’s building AI-generated answers into its search engine](https://www.theverge.com/2023/3/8/23629095/duckduckgo-ai-answers-browser-app-extension-search)
-- Apr 17 - [Apple Card’s new high-yield Savings account is now available, offering a 4.15 p](https://www.apple.com/newsroom/2023/04/apple-cards-new-high-yield-savings-account-is-now-available-offering-a-4-point-15-percent-apy/)
-- Apr 17 - [RedPajama: Reproduction of Llama with Friendly License (Stanford, MILA Quebec)](https://www.together.xyz/blog/redpajama)
-- Apr 17 - [Google in shock as Samsung considers moving to Bing as default search engine](https://www.sammobile.com/news/samsung-galaxy-phones-tablets-bing-search-replace-google-default-search-engine/)
+- Apr 17 - [Coworking from Home](https://www.bbc.com/worklife/article/20230413-home-coworking-spaces-with-friends)
+- Apr 17 - [New blog post from StackOverflow&#x27;s CEO Prashanth: Community is the future of AI](https://meta.stackexchange.com/questions/388401/new-blog-post-from-our-ceo-prashanth-community-is-the-future-of-ai)
+- Apr 17 - [Crooks’ Mistaken Bet on Encrypted Phones](https://www.newyorker.com/magazine/2023/04/24/crooks-mistaken-bet-on-encrypted-phones)
+- Apr 17 - [Valve Releases Proton 8.0-1c](https://github.com/ValveSoftware/Proton/releases/tag/proton-8.0-1c)
+- Apr 17 - [Name-based demographic inference and the unequal distribution of misrecognition](https://www.nature.com/articles/s41562-023-01587-9)
 <!--END_SECTION:hn-->
 
 <!--
