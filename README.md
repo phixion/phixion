@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 17 - [Build and Deploy 5G Network with Open-Source Software and Off-the-Shelf Hardware](https://rs-ojict.pubpub.org/pub/lqhigiva/release/2)
-- Apr 17 - [Is there a canonical source for “the argument for AGI ruin” somewhere](https://twitter.com/davidchalmers42/status/1647333812584562688)
-- Apr 17 - [I liked this simple calculus exercise](https://blog.plover.com/math/se/calculus-exercise.html)
-- Apr 17 - [ATC staff shortages: 11,000 flights cut from NYC and DCA in summer 2023](https://www.flyertalk.com/articles/over-11000-flights-cut-from-new-york-and-washington-schedules-for-summer-2023.html)
-- Apr 16 - [Constraint Programming (2020)](https://mareknarozniak.com/2020/06/22/constraint-programming/)
+- Apr 17 - [Orbital Test Launch of Starship in ~4 hours](https://www.youtube.com/watch?v=L5QXreqOrTA)
+- Apr 17 - [Monthly Fediverse posts cross 1 billion for the first time](https://masto.ai/@mg/110212843144499061)
+- Apr 17 - [Nintendo Is Taking Down My Videos [video]](https://www.youtube.com/watch?v=FSZYpDk9Xm8)
+- Apr 17 - [Microsoft deleted the public support forums for SwiftKey](https://mastodon.social/@mcc/110209163620520535)
+- Apr 17 - [I made my blog solar-powered, then things escalated](https://louwrentius.com/i-made-my-blog-solar-powered-then-things-escalated.html)
 <!--END_SECTION:hn-->
 
 <!--
