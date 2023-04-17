@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 16 - [Constraint Programming (2020)](https://mareknarozniak.com/2020/06/22/constraint-programming/)
+- Apr 16 - [Codecs for the 4K Era: HEVC, AV1, VVC and Beyond](https://chipsandcheese.com/2023/04/16/codecs-for-the-4k-era-hevc-av1-vvc-and-beyond/)
+- Apr 16 - [Mark Twain&#x27;s two-week stint as a Confederate soldier](https://www.historynet.com/mark-twains-two-week-stint-as-a-confederate-soldier/)
 - Apr 16 - [Alien Artefacts](https://www.brautaset.org/posts/alien-artefacts.html)
-- Apr 16 - [Interlaken: The ideal high-speed chip-to-chip interface](https://www.design-reuse.com/articles/52722/interlaken-the-ideal-high-speed-chip-to-chip-interface.html)
-- Apr 16 - [Smokey’s New Hot Vapourizing Engine Creates Heat in Detroit (1983)](http://rexresearch.com/yunick/yunick.htm)
-- Apr 16 - [Lithium Battery Ripe for Disruption, Inventor Says](https://spectrum.ieee.org/lithium-ion-battery-disruption-ready)
-- Apr 16 - [I used Stable Diffusion and Dreambooth to create an art portrait of my dog](https://www.shruggingface.com/blog/how-i-used-stable-diffusion-and-dreambooth-to-create-a-painted-portrait-of-my-dog)
+- Apr 16 - [Smokey’s new hot vapourizing engine creates heat in Detroit (1983)](http://rexresearch.com/yunick/yunick.htm)
 <!--END_SECTION:hn-->
 
 <!--
