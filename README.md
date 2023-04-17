@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 17 - [Ivy (YC W23) Is Hiring Engineers to Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
-- Apr 17 - [Keep Stuff Linkable](https://animaomnium.github.io/keep-stuff-linkable/)
-- Apr 17 - [Monet&#x27;s dreamy haze was pollution, study finds](https://www.cnn.com/style/article/monet-haze-air-pollution-study-scn/index.html)
-- Apr 17 - [Sold a Story: How Teaching Kids to Read Went So Wrong](https://features.apmreports.org/sold-a-story/)
-- Apr 17 - [Ask HN: Is PostgreSQL better than MySQL?](https://news.ycombinator.com/item?id=35599118)
+- Apr 17 - [Breaking the limits of TLA+ model checking](https://www.hillelwayne.com/post/graphing-tla/)
+- Apr 17 - [DuckDuckGo’s building AI-generated answers into its search engine](https://www.theverge.com/2023/3/8/23629095/duckduckgo-ai-answers-browser-app-extension-search)
+- Apr 17 - [Apple Card’s new high-yield Savings account is now available, offering a 4.15 p](https://www.apple.com/newsroom/2023/04/apple-cards-new-high-yield-savings-account-is-now-available-offering-a-4-point-15-percent-apy/)
+- Apr 17 - [RedPajama: Reproduction of Llama with Friendly License (Stanford, MILA Quebec)](https://www.together.xyz/blog/redpajama)
+- Apr 17 - [Google in shock as Samsung considers moving to Bing as default search engine](https://www.sammobile.com/news/samsung-galaxy-phones-tablets-bing-search-replace-google-default-search-engine/)
 <!--END_SECTION:hn-->
 
 <!--
