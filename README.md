@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 18 - [Finley (YC W21) is hiring to automate capital markets processes (US remote)](https://www.finleycms.com/careers/)
-- Apr 18 - [An example of LLM prompting for programming](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html)
-- Apr 18 - [Why I’m using a keyboard phone in 2023](https://www.theverge.com/23673548/keyboard-phone-2023-features-unihertz-titan-pocket)
-- Apr 18 - [The Taxman Will Eventually Come for AI, Too](https://www.bloomberg.com/opinion/articles/2023-04-17/the-taxman-will-eventually-come-for-ai-too)
-- Apr 18 - [Marginalia: Search the Internet](https://search.marginalia.nu/)
+- Apr 18 - [Europe’s Ariane 6 rocket is turning into a space policy disaster](https://arstechnica.com/science/2023/04/europes-ariane-6-rocket-is-turning-into-a-space-policy-disaster/)
+- Apr 18 - [NIST Privacy Framework](https://www.nist.gov/privacy-framework)
+- Apr 18 - [Southwest Airlines Halts Flight Departures Amid Technology Issue](https://www.bloomberg.com/news/articles/2023-04-18/southwest-airlines-halts-flight-departures-amid-technology-issue)
+- Apr 18 - [The VC Downturn in 6 Charts](https://news.crunchbase.com/venture/vc-funding-downturn-charts-q1-2023/)
+- Apr 18 - [Southwest Airlines pauses departures after reporting technical problems](https://www.cnbc.com/2023/04/18/southwest-airlines-departures-pause.html)
 <!--END_SECTION:hn-->
 
 <!--
