@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 18 - [SD Memory Card Formatter for Linux](https://www.sdcard.org/downloads/sd-memory-card-formatter-for-linux/)
-- Apr 18 - [Heroku has been running a second copy of my scheduler instance](https://openfolder.sh/heroku-anti-dx)
-- Apr 18 - [An evidence-based guide to expanding your comfort zone](https://every.to/no-small-plans/a-founder-s-guide-to-expanding-your-comfort-zone)
-- Apr 18 - [Make the future bright again: On building a new philosophy of progress](https://thehub.ca/2023-04-11/make-the-future-bright-again-jason-crawford-on-the-importance-of-building-a-new-philosophy-of-progress/)
-- Apr 18 - [Ampersand (2015)](http://haggardhawksblog.blogspot.com/2015/03/ampersand.html)
+- Apr 18 - [Finley (YC W21) is hiring to automate capital markets processes (US remote)](https://www.finleycms.com/careers/)
+- Apr 18 - [An example of LLM prompting for programming](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html)
+- Apr 18 - [Why I’m using a keyboard phone in 2023](https://www.theverge.com/23673548/keyboard-phone-2023-features-unihertz-titan-pocket)
+- Apr 18 - [The Taxman Will Eventually Come for AI, Too](https://www.bloomberg.com/opinion/articles/2023-04-17/the-taxman-will-eventually-come-for-ai-too)
+- Apr 18 - [Marginalia: Search the Internet](https://search.marginalia.nu/)
 <!--END_SECTION:hn-->
 
 <!--
