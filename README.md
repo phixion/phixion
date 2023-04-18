@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 17 - [Qemu.js – a proof-of-concept port of QEMU to web browser featuring WASM JIT](https://github.com/atrosinenko/qemujs)
-- Apr 17 - [Show HN: MindPop – Great Lectures Set to Ambient](https://mindpop.blankenship.io/index.html)
-- Apr 17 - [ChemCrow: Augmenting large-language models with chemistry tools](https://arxiv.org/abs/2304.05376)
-- Apr 17 - [Hot Beds: Low-Cost Ancient Roman Hack to Start Crops Early and Increasing Yield](https://www.growveg.com/guides/how-to-make-a-hotbed-for-the-earliest-sowings/)
-- Apr 17 - [Sweden starts largest military exercise in over 25 years](https://www.dw.com/en/sweden-starts-largest-military-exercise-in-over-25-years/a-65352455)
+- Apr 18 - [Court strikes down Berkeley’s ban on natural gas in new construction](https://www.sfchronicle.com/politics/article/ninth-circuit-berkeley-natural-gas-ban-17902110.php)
+- Apr 18 - [You&#x27;re not uncool. Making friends as an adult is just hard](https://www.wbur.org/hereandnow/2021/11/10/making-friends-adults)
+- Apr 18 - [Lisp Is the Linux of Languages](https://progalpha.substack.com/p/lisp-is-the-linux-of-languages)
+- Apr 18 - [Why don’t more people live close to friends?](https://annehelen.substack.com/p/youd-be-happier-living-closer-to)
+- Apr 18 - [KV.js](https://github.com/HeyPuter/kv.js)
 <!--END_SECTION:hn-->
 
 <!--
