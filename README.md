@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 18 - [Europe’s Ariane 6 rocket is turning into a space policy disaster](https://arstechnica.com/science/2023/04/europes-ariane-6-rocket-is-turning-into-a-space-policy-disaster/)
-- Apr 18 - [NIST Privacy Framework](https://www.nist.gov/privacy-framework)
-- Apr 18 - [Southwest Airlines Halts Flight Departures Amid Technology Issue](https://www.bloomberg.com/news/articles/2023-04-18/southwest-airlines-halts-flight-departures-amid-technology-issue)
-- Apr 18 - [The VC Downturn in 6 Charts](https://news.crunchbase.com/venture/vc-funding-downturn-charts-q1-2023/)
-- Apr 18 - [Southwest Airlines pauses departures after reporting technical problems](https://www.cnbc.com/2023/04/18/southwest-airlines-departures-pause.html)
+- Apr 18 - [Reddit will begin charging for access to its API](https://techcrunch.com/2023/04/18/reddit-will-begin-charging-for-access-to-its-api/)
+- Apr 18 - [Lightweight SQLite Editor for Windows](https://github.com/little-brother/sqlite-gui)
+- Apr 18 - [NSO developed 3 new ways to hack iPhones, Citizen Lab says](https://www.washingtonpost.com/technology/2023/04/18/nso-apple-iphones-citizen-lab/)
+- Apr 18 - [Astral](https://astral.sh/)
+- Apr 18 - [The Coming Technological Singularity (1993)](https://edoras.sdsu.edu/~vinge/misc/singularity.html)
 <!--END_SECTION:hn-->
 
 <!--
