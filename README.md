@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 17 - [Coworking from Home](https://www.bbc.com/worklife/article/20230413-home-coworking-spaces-with-friends)
-- Apr 17 - [New blog post from StackOverflow&#x27;s CEO Prashanth: Community is the future of AI](https://meta.stackexchange.com/questions/388401/new-blog-post-from-our-ceo-prashanth-community-is-the-future-of-ai)
-- Apr 17 - [Crooks’ Mistaken Bet on Encrypted Phones](https://www.newyorker.com/magazine/2023/04/24/crooks-mistaken-bet-on-encrypted-phones)
-- Apr 17 - [Valve Releases Proton 8.0-1c](https://github.com/ValveSoftware/Proton/releases/tag/proton-8.0-1c)
-- Apr 17 - [Name-based demographic inference and the unequal distribution of misrecognition](https://www.nature.com/articles/s41562-023-01587-9)
+- Apr 17 - [Qemu.js – a proof-of-concept port of QEMU to web browser featuring WASM JIT](https://github.com/atrosinenko/qemujs)
+- Apr 17 - [Show HN: MindPop – Great Lectures Set to Ambient](https://mindpop.blankenship.io/index.html)
+- Apr 17 - [ChemCrow: Augmenting large-language models with chemistry tools](https://arxiv.org/abs/2304.05376)
+- Apr 17 - [Hot Beds: Low-Cost Ancient Roman Hack to Start Crops Early and Increasing Yield](https://www.growveg.com/guides/how-to-make-a-hotbed-for-the-earliest-sowings/)
+- Apr 17 - [Sweden starts largest military exercise in over 25 years](https://www.dw.com/en/sweden-starts-largest-military-exercise-in-over-25-years/a-65352455)
 <!--END_SECTION:hn-->
 
 <!--
