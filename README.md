@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 18 - [Court strikes down Berkeley’s ban on natural gas in new construction](https://www.sfchronicle.com/politics/article/ninth-circuit-berkeley-natural-gas-ban-17902110.php)
-- Apr 18 - [You&#x27;re not uncool. Making friends as an adult is just hard](https://www.wbur.org/hereandnow/2021/11/10/making-friends-adults)
-- Apr 18 - [Lisp Is the Linux of Languages](https://progalpha.substack.com/p/lisp-is-the-linux-of-languages)
-- Apr 18 - [Why don’t more people live close to friends?](https://annehelen.substack.com/p/youd-be-happier-living-closer-to)
-- Apr 18 - [KV.js](https://github.com/HeyPuter/kv.js)
+- Apr 18 - [SD Memory Card Formatter for Linux](https://www.sdcard.org/downloads/sd-memory-card-formatter-for-linux/)
+- Apr 18 - [Heroku has been running a second copy of my scheduler instance](https://openfolder.sh/heroku-anti-dx)
+- Apr 18 - [An evidence-based guide to expanding your comfort zone](https://every.to/no-small-plans/a-founder-s-guide-to-expanding-your-comfort-zone)
+- Apr 18 - [Make the future bright again: On building a new philosophy of progress](https://thehub.ca/2023-04-11/make-the-future-bright-again-jason-crawford-on-the-importance-of-building-a-new-philosophy-of-progress/)
+- Apr 18 - [Ampersand (2015)](http://haggardhawksblog.blogspot.com/2015/03/ampersand.html)
 <!--END_SECTION:hn-->
 
 <!--
