@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 18 - [Reddit will begin charging for access to its API](https://techcrunch.com/2023/04/18/reddit-will-begin-charging-for-access-to-its-api/)
-- Apr 18 - [Lightweight SQLite Editor for Windows](https://github.com/little-brother/sqlite-gui)
-- Apr 18 - [NSO developed 3 new ways to hack iPhones, Citizen Lab says](https://www.washingtonpost.com/technology/2023/04/18/nso-apple-iphones-citizen-lab/)
-- Apr 18 - [Astral](https://astral.sh/)
-- Apr 18 - [The Coming Technological Singularity (1993)](https://edoras.sdsu.edu/~vinge/misc/singularity.html)
+- Apr 18 - [Broadband Consumer Labels](https://www.fcc.gov/broadbandlabels)
+- Apr 18 - [My Emacs eye candy](https://xenodium.com/my-emacs-eye-candy/)
+- Apr 18 - [Show HN: AI Playground by Vercel Labs](https://play.vercel.ai)
+- Apr 18 - [MRI Brain Images Just Got 64M Times Sharper](https://today.duke.edu/2023/04/brain-images-just-got-64-million-times-sharper)
+- Apr 18 - [Node.js 20 is now available](https://nodejs.org/en/blog/announcements/v20-release-announce)
 <!--END_SECTION:hn-->
 
 <!--
