@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 19 - [Ask HN: AI to study my DSL and then output it?](https://news.ycombinator.com/item?id=35629351)
-- Apr 19 - [Stability AI Launches StableLM: A New Open-Source Language Model](https://github.com/Stability-AI/StableLM)
-- Apr 19 - [Stability AI Launches the First of Its StableLM Suite of Language Models](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)
-- Apr 19 - [DIY Neurotech:Making BCI open-source thrusts brain-signal into a maker’s world](https://spectrum.ieee.org/neurotechnology-diy)
-- Apr 19 - [The Anatomy of Autonomy: Why Agents Are the Next AI Killer App](https://www.latent.space/p/agents)
+- Apr 19 - [Farouk al Kasim saved Norway from its oil (2014)](https://psmag.com/environment/iraqi-vikings-farouk-al-kasim-norway-oil-72715)
+- Apr 19 - [Basic math related to computation and memory usage for transformers](https://blog.eleuther.ai/transformer-math/)
+- Apr 19 - [Show HN: GoGoBrowse – A Peer to Peer Web Browser](https://gogobrowse.com)
+- Apr 19 - [JEP Draft: Integrity and Strong Encapsulation](https://openjdk.org/jeps/8305968)
+- Apr 19 - [The GTK+3 port of GIMP is officially finished](https://twitter.com/zemarmot/status/1646272510701236229)
 <!--END_SECTION:hn-->
 
 <!--
