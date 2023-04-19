@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 19 - [Yubico is merging with ACQ Bure and intends to go public](https://www.yubico.com/blog/yubico-is-merging-with-acq-bure/)
-- Apr 19 - [Defining interfaces in C++ with ‘concepts’ (C++20)](https://lemire.me/blog/2023/04/18/defining-interfaces-in-c-with-concepts-c20/)
+- Apr 19 - [Skio (YC S20) Is Hiring – Subscriptions for Shopify, ReCharge Migrations](https://skio.com/careers/)
+- Apr 19 - [Why Some Researchers Think I’m Wrong About Social Media and Mental Illness](https://jonathanhaidt.substack.com/p/why-some-researchers-think-im-wrong)
+- Apr 19 - [Offline Is Just Online with Extreme Latency](https://blog.jim-nielsen.com/2023/offline-is-online-with-extreme-latency/)
 - Apr 19 - [Align Your Latents: High-Resolution Video Synthesis with Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)
-- Apr 19 - [Show HN: Kinde – auth, feature flags and billing (Q3) in one integration](https://kinde.com/)
-- Apr 19 - [Why did Prolog lose steam? (2010)](https://www.kmjn.org/notes/prolog_lost_steam.html)
+- Apr 19 - [Understanding Everything](https://shimmeringvoid.substack.com/p/understanding-everything)
 <!--END_SECTION:hn-->
 
 <!--
