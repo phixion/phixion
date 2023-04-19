@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 19 - [Yubico is merging with ACQ Bure and intends to go public](https://www.yubico.com/blog/yubico-is-merging-with-acq-bure/)
+- Apr 19 - [Defining interfaces in C++ with ‘concepts’ (C++20)](https://lemire.me/blog/2023/04/18/defining-interfaces-in-c-with-concepts-c20/)
+- Apr 19 - [Align Your Latents: High-Resolution Video Synthesis with Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)
+- Apr 19 - [Show HN: Kinde – auth, feature flags and billing (Q3) in one integration](https://kinde.com/)
 - Apr 19 - [Why did Prolog lose steam? (2010)](https://www.kmjn.org/notes/prolog_lost_steam.html)
-- Apr 19 - [The Age of the Crisis of Work](https://harpers.org/archive/2023/05/the-age-of-the-crisis-of-work-quiet-quitting-great-resignation/)
-- Apr 19 - [Explore Washington DC through the eyes of a spy](https://secretmissiondc.com/)
-- Apr 19 - [Tell HN: Google search partial outage while rolling out new search?](https://news.ycombinator.com/item?id=35622847)
-- Apr 19 - [Firefly – A new compiler and runtime for BEAM languages](https://github.com/GetFirefly/firefly)
 <!--END_SECTION:hn-->
 
 <!--
