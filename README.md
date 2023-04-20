@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 20 - [BuzzFeed News Is Shutting Down](https://www.thedailybeast.com/buzzfeed-news-is-shutting-down)
-- Apr 20 - [Show HN: CozoDB, Hybrid Relational-Graph-Vector DB, the Hippocampus for LLMs](https://docs.cozodb.org/en/latest/releases/v0.6.html)
-- Apr 20 - [The Rust Performance Book (2020)](https://nnethercote.github.io/perf-book/)
-- Apr 20 - [Stop Irreversible Damage to the Amazon](https://www.junglekeepers.org/)
-- Apr 20 - [Smuggling of silkworm eggs into the Byzantine Empire](https://en.wikipedia.org/wiki/Smuggling_of_silkworm_eggs_into_the_Byzantine_Empire)
+- Apr 20 - [Study finds new pathway for clearing misfolded proteins](https://news.stanford.edu/2023/04/20/study-finds-new-pathway-clearing-misfolded-proteins/)
+- Apr 20 - [Mike Lindell firm told to pay $5M in ‘Prove Mike Wrong’ election-fraud challenge](https://www.washingtonpost.com/investigations/2023/04/20/mike-lindell-prove-wrong-contest/)
+- Apr 20 - [Defining interfaces in C++: concepts versus inheritance](https://lemire.me/blog/2023/04/20/defining-interfaces-in-c-concepts-versus-inheritance/)
+- Apr 20 - [Show HN: Play the front page of Hacker News as interactive text games](https://infinityarcade.com/news)
+- Apr 20 - [Companies Producing Biopolymers for Packaging](https://tderflinger.com/en/companies-producing-biopolymers-for-packaging/)
 <!--END_SECTION:hn-->
 
 <!--
