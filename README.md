@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 19 - [DinoV2: Meta’s Open Source State-of-the-art computer vision models](https://ai.facebook.com/blog/dino-v2-computer-vision-self-supervised-learning/)
-- Apr 19 - [LlamaAcademy: Teach GPTs to understand API documentation with LoRA](https://github.com/danielgross/LlamaAcademy)
-- Apr 19 - [Sandboxing JavaScript Code](https://healeycodes.com/sandboxing-javascript-code)
-- Apr 19 - [A newfound discomfort with hypertext](https://maya.land/monologues/2023/03/21/hypertext-hostility.html)
-- Apr 19 - [Building telescopes on the Moon could transform astronomy](https://theconversation.com/building-telescopes-on-the-moon-could-transform-astronomy-and-its-becoming-an-achievable-goal-203308)
+- Apr 20 - [PC Engines EOL](https://www.pcengines.ch/eol.htm)
+- Apr 20 - [Imgur Updates TOS, Banning NSFW Content](https://imgurinc.com/rules)
+- Apr 20 - [Replit (YC W18) Is Hiring to Rapidly Scale Infrastructure](https://replit.com/careers)
+- Apr 20 - [Flanderization](https://tvtropes.org/pmwiki/pmwiki.php/Main/Flanderization)
+- Apr 20 - [NeuralField-LDM: Scene Generation with Hierarchical Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/NFLDM/)
 <!--END_SECTION:hn-->
 
 <!--
