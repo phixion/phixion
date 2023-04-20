@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 19 - [Farouk al Kasim saved Norway from its oil (2014)](https://psmag.com/environment/iraqi-vikings-farouk-al-kasim-norway-oil-72715)
-- Apr 19 - [Basic math related to computation and memory usage for transformers](https://blog.eleuther.ai/transformer-math/)
-- Apr 19 - [Show HN: GoGoBrowse – A Peer to Peer Web Browser](https://gogobrowse.com)
-- Apr 19 - [JEP Draft: Integrity and Strong Encapsulation](https://openjdk.org/jeps/8305968)
-- Apr 19 - [The GTK+3 port of GIMP is officially finished](https://twitter.com/zemarmot/status/1646272510701236229)
+- Apr 19 - [DinoV2: Meta’s Open Source State-of-the-art computer vision models](https://ai.facebook.com/blog/dino-v2-computer-vision-self-supervised-learning/)
+- Apr 19 - [LlamaAcademy: Teach GPTs to understand API documentation with LoRA](https://github.com/danielgross/LlamaAcademy)
+- Apr 19 - [Sandboxing JavaScript Code](https://healeycodes.com/sandboxing-javascript-code)
+- Apr 19 - [A newfound discomfort with hypertext](https://maya.land/monologues/2023/03/21/hypertext-hostility.html)
+- Apr 19 - [Building telescopes on the Moon could transform astronomy](https://theconversation.com/building-telescopes-on-the-moon-could-transform-astronomy-and-its-becoming-an-achievable-goal-203308)
 <!--END_SECTION:hn-->
 
 <!--
