@@ -19,8 +19,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 20 - [Show HN: Create Comics Using Stable Diffusion](https://www.comicsmaker.ai)
-- Apr 20 - [OpenAI’s hunger for data is coming back to bite it](https://www.technologyreview.com/2023/04/19/1071789/openais-hunger-for-data-is-coming-back-to-bite-it/)
+- Apr 20 - [Starship Flight Test (Launch in 1 hour)](https://www.youtube.com/watch?v=-1wcilQ58hI)
+- Apr 20 - [Waydev (YC W21) Is Hiring](https://www.ycombinator.com/companies/waydev/jobs/BFA4rwl-head-of-sales)
 - Apr 20 - [POSSE: Publish on your Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE)
 - Apr 20 - [PC Engines EOL](https://www.pcengines.ch/eol.htm)
 - Apr 20 - [Imgur Updates TOS, Banning NSFW Content](https://imgurinc.com/rules)
