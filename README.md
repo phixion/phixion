@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 21 - [Editors quit top neuroscience journal to protest against open-access charges](https://www.nature.com/articles/d41586-023-01391-5)
-- Apr 21 - [Apple’s fight against iPhone sideloading was pointless at best, harmful at worst](https://9to5mac.com/2023/04/18/iphone-sideloading/)
-- Apr 21 - [Four-Byte Burger [video]](https://www.youtube.com/watch?v=i4EFkspO5p4)
-- Apr 21 - [The weird world of Windows file paths](https://www.fileside.app/blog/2023-03-17_windows-file-paths/)
-- Apr 21 - [Tech Bosses Are Letting Dictators Censor What Americans See](https://www.thedailybeast.com/elon-musk-tech-bosses-are-letting-dictators-censor-what-americans-see)
+- Apr 21 - [Ban on Tenure for New Faculty Hires Passes Texas Senate](https://www.chronicle.com/article/ban-on-tenure-for-new-faculty-hires-passes-texas-senate)
+- Apr 21 - [What Happens When You Kill Your King](https://www.newyorker.com/magazine/2023/04/24/the-blazing-world-jonathan-healey-book-review)
+- Apr 21 - [Will Boiling Water Ruin Green Tea?](https://www.myjapanesegreentea.com/will-boiling-water-ruin-green-tea)
+- Apr 21 - [The “invented persona” behind the GISAID viral sequence database](https://www.science.org/content/article/invented-persona-behind-key-pandemic-database)
+- Apr 21 - [How to Become a “Designer Who Codes”](https://publication.design.systems/how-to-become-a-designer-who-codes-52ae97f60d68?gi=81198e6b14b3)
 <!--END_SECTION:hn-->
 
 <!--
