@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 21 - [US warship collides with tugboat in disastrous launch](https://www.navytimes.com/news/your-navy/2023/04/19/future-lcs-cleveland-launches-strikes-tugboat/)
-- Apr 21 - [Show HN: Gsubpy, an interpreter for subset of Python, written in Go](https://github.com/realyixuan/gsubpy)
-- Apr 21 - [Office of the President of Mongolia (top to bottom text on the web)](https://president.mn/mng/)
-- Apr 21 - [Inkscape is hiring: Accelerating the GTK4 migration](https://inkscape.org/news/2023/04/17/inkscape-hiring-accelerating-gtk4-migration/)
-- Apr 21 - [Memfault (YC W19) Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
+- Apr 21 - [Editors quit top neuroscience journal to protest against open-access charges](https://www.nature.com/articles/d41586-023-01391-5)
+- Apr 21 - [Apple’s fight against iPhone sideloading was pointless at best, harmful at worst](https://9to5mac.com/2023/04/18/iphone-sideloading/)
+- Apr 21 - [Four-Byte Burger [video]](https://www.youtube.com/watch?v=i4EFkspO5p4)
+- Apr 21 - [The weird world of Windows file paths](https://www.fileside.app/blog/2023-03-17_windows-file-paths/)
+- Apr 21 - [Tech Bosses Are Letting Dictators Censor What Americans See](https://www.thedailybeast.com/elon-musk-tech-bosses-are-letting-dictators-censor-what-americans-see)
 <!--END_SECTION:hn-->
 
 <!--
