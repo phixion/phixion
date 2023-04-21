@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 21 - [US warship collides with tugboat in disastrous launch](https://www.navytimes.com/news/your-navy/2023/04/19/future-lcs-cleveland-launches-strikes-tugboat/)
+- Apr 21 - [Show HN: Gsubpy, an interpreter for subset of Python, written in Go](https://github.com/realyixuan/gsubpy)
+- Apr 21 - [Office of the President of Mongolia (top to bottom text on the web)](https://president.mn/mng/)
 - Apr 21 - [Inkscape is hiring: Accelerating the GTK4 migration](https://inkscape.org/news/2023/04/17/inkscape-hiring-accelerating-gtk4-migration/)
 - Apr 21 - [Memfault (YC W19) Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
-- Apr 21 - [World’s largest battery maker announces major breakthrough in energy density](https://thedriven.io/2023/04/21/worlds-largest-battery-maker-announces-major-breakthrough-in-battery-density/)
-- Apr 21 - [Guess the Game](https://guessthe.game)
-- Apr 21 - [Show HN: WasmGPT – “ChatGPT” in the browser, no WebGPU and no server needed](https://lxe.co/wasmgpt/)
 <!--END_SECTION:hn-->
 
 <!--
