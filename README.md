@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 21 - [US 5-year credit default swaps rise to highest since 2011](https://www.reuters.com/markets/us/us-5-year-credit-default-swaps-rise-highest-since-2011-2023-04-21/)
-- Apr 21 - [Show HN: TxtNet Browser – Browse the Web over SMS, No Wi-Fi&#x2F;Mobile Data Needed](https://github.com/lukeaschenbrenner/TxtNet-Browser/blob/master/README.md)
-- Apr 21 - [Show HN: Automatic Prompt Optimizer for LLMs](https://promptperfect.jina.ai/)
-- Apr 21 - [NewsNotFound: An open-source, unbiased news company](https://newsnotfound.com/whitepaper/)
-- Apr 21 - [Windows on Btrfs](https://www.lilysthings.org/blog/windows-on-btrfs/)
+- Apr 22 - [More than 19,000 undersea volcanoes discovered](https://www.science.org/content/article/it-s-just-mind-boggling-more-19-000-undersea-volcanoes-discovered)
+- Apr 22 - [Telegram Web Apps for Bots](https://core.telegram.org/bots/webapps)
+- Apr 22 - [U.S. crypto exchange Coinbase secures Bermuda licence](https://www.reuters.com/technology/us-crypto-exchange-coinbase-secures-bermuda-licence-2023-04-20/)
+- Apr 22 - [There is no A.I.](https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai)
+- Apr 21 - [EcoHabit: An Open Source Project for Environmental Awareness (Earth Day Special)](https://github.com/lugenx/ecohabit)
 <!--END_SECTION:hn-->
 
 <!--
