@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 22 - [Meticulous (YC S21) Is Hiring Founding Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=35665701)
-- Apr 22 - [Leonardo da Vinci Was Jewish](https://www.tabletmag.com/sections/history/articles/leonardo-da-vinci-jewish)
-- Apr 22 - [Google Mars](https://www.google.com/mars/)
-- Apr 22 - [Should you remove duplicate files?](https://eclecticlight.co/2023/04/22/should-you-remove-duplicate-files/)
-- Apr 22 - [Show HN: I made a SQL game to help people learn &#x2F; challenge their skills](https://lost-at-sql.therobinlord.com/)
+- Apr 22 - [Methane may not warm the Earth quite as much as previously thought](https://www.sciencenews.org/article/methane-warm-earth-atmosphere-radiation)
+- Apr 22 - [Using solar farms to generate fresh desert soil crust](https://phys.org/news/2023-04-solar-farms-generate-fresh-soil.html)
+- Apr 22 - [WebAssembly Text Code Samples](https://eli.thegreenplace.net/2023/webassembly-text-code-samples/)
+- Apr 22 - [How Did the Chess Pieces Get Their Names?](https://www.atlasobscura.com/articles/how-did-chess-pieces-get-their-names)
+- Apr 22 - [BYD Seagull EV Priced from $11,400, Gets 10k Orders on First Day](https://insideevs.com/news/663595/byd-seagull-ev-priced-11400-usd-gets-10000-orders-first-day/)
 <!--END_SECTION:hn-->
 
 <!--
