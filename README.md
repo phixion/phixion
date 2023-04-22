@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 21 - [Ban on Tenure for New Faculty Hires Passes Texas Senate](https://www.chronicle.com/article/ban-on-tenure-for-new-faculty-hires-passes-texas-senate)
-- Apr 21 - [What Happens When You Kill Your King](https://www.newyorker.com/magazine/2023/04/24/the-blazing-world-jonathan-healey-book-review)
-- Apr 21 - [Will Boiling Water Ruin Green Tea?](https://www.myjapanesegreentea.com/will-boiling-water-ruin-green-tea)
-- Apr 21 - [The “invented persona” behind the GISAID viral sequence database](https://www.science.org/content/article/invented-persona-behind-key-pandemic-database)
-- Apr 21 - [How to Become a “Designer Who Codes”](https://publication.design.systems/how-to-become-a-designer-who-codes-52ae97f60d68?gi=81198e6b14b3)
+- Apr 21 - [US 5-year credit default swaps rise to highest since 2011](https://www.reuters.com/markets/us/us-5-year-credit-default-swaps-rise-highest-since-2011-2023-04-21/)
+- Apr 21 - [Show HN: TxtNet Browser – Browse the Web over SMS, No Wi-Fi&#x2F;Mobile Data Needed](https://github.com/lukeaschenbrenner/TxtNet-Browser/blob/master/README.md)
+- Apr 21 - [Show HN: Automatic Prompt Optimizer for LLMs](https://promptperfect.jina.ai/)
+- Apr 21 - [NewsNotFound: An open-source, unbiased news company](https://newsnotfound.com/whitepaper/)
+- Apr 21 - [Windows on Btrfs](https://www.lilysthings.org/blog/windows-on-btrfs/)
 <!--END_SECTION:hn-->
 
 <!--
