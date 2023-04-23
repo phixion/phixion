@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 23 - [My ultimate shell setup with Fish shell and Tmux (2021)](https://www.milanvit.net/post/my-ultimate-shell-setup-with-fish-shell-and-tmux/)
+- Apr 23 - [Modern Transactional Stack](https://a16z.com/2023/04/14/the-modern-transactional-stack/)
 - Apr 22 - [Saturn&#x27;s Interior After the Cassini Grand Finale](https://arxiv.org/abs/2304.09215)
-- Apr 22 - [How does the New York Times make a game?](https://www.nytimes.com/2023/04/10/crosswords/games-digits-beta.html)
 - Apr 22 - [Effective Immediately: A central hub for people who&#x27;ve been recently laid off](https://github.com/Effective-Immediately/effective-immediately)
 - Apr 22 - [System D](https://en.wikipedia.org/wiki/System_D)
-- Apr 22 - [I just learned about HTML redirects](https://apitman.com/18/#html-redirects)
 <!--END_SECTION:hn-->
 
 <!--
