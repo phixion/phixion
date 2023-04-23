@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 23 - [In pursuit of the best value US cloud provider](https://servicestack.net/posts/hetzner-cloud)
-- Apr 23 - [Why steam rises from San Francisco streets](https://secretsanfrancisco.com/steam-streets-sf/)
-- Apr 23 - [How Postgres Triggers Can Simplify Your Back End Development](https://themythicalengineer.com/how-postgres-triggers-can-simplify-your-backend-development.html)
-- Apr 23 - [Lego breaks ground on first US manufacturing facility](https://www.manufacturingdive.com/news/lego-1b-manufacturing-virginia/647946/)
-- Apr 23 - [Paper Mario PC ports beckon as coder completes decompilation of the N64 classic](https://www.pcgamer.com/paper-mario-pc-ports-beckon-as-coder-completes-full-decompilation-of-the-n64-classic/)
+- Apr 23 - [Twitter Enhancement Suite – BlockTheBlue](https://chrome.google.com/webstore/detail/twitter-enhancement-suite/chaiionjpmjklbbngmpdnbfcmkgoicle)
+- Apr 23 - [Is there a concept for not wanting to know the time&#x2F;clock while doing something?](https://news.ycombinator.com/item?id=35679724)
+- Apr 23 - [First space images captured by balloon-borne telescope](https://www.utoronto.ca/news/first-space-images-captured-balloon-borne-telescope)
+- Apr 23 - [YouTube, the Jewel of the Internet](https://www.ft.com/content/c57e3503-6fc0-44dc-9d50-35f8f9da25d2)
+- Apr 23 - [Closing in on the “Perfect Code”](https://spectrum.ieee.org/closing-in-on-the-perfect-code)
 <!--END_SECTION:hn-->
 
 <!--
