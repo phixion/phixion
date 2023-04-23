@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 22 - [US Presidential Hopefuls Rally Against a Digital Dollar Ahead of 2024 Elections](https://www.bloomberg.com/news/articles/2023-04-22/us-presidential-hopefuls-rally-against-us-cbdc-plans-ahead-of-2024-elections)
-- Apr 22 - [Negative Mass](https://students.tools/negative/?6=9)
-- Apr 22 - [First ROM Shadowing](https://www.os2museum.com/wp/first-rom-shadowing/)
-- Apr 22 - [Show HN: DontBore – Accessible, fast, low-footprint Login sharing for the masses](https://dontbo.re/)
-- Apr 22 - [The magic of DC-DC voltage conversion](https://lcamtuf.substack.com/p/the-magic-of-dc-dc-voltage-conversion)
+- Apr 22 - [Saturn&#x27;s Interior After the Cassini Grand Finale](https://arxiv.org/abs/2304.09215)
+- Apr 22 - [How does the New York Times make a game?](https://www.nytimes.com/2023/04/10/crosswords/games-digits-beta.html)
+- Apr 22 - [Effective Immediately: A central hub for people who&#x27;ve been recently laid off](https://github.com/Effective-Immediately/effective-immediately)
+- Apr 22 - [System D](https://en.wikipedia.org/wiki/System_D)
+- Apr 22 - [I just learned about HTML redirects](https://apitman.com/18/#html-redirects)
 <!--END_SECTION:hn-->
 
 <!--
