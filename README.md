@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 23 - [Cuba’s Unfinished Nuclear Power Station](https://www.exutopia.com/cuba-abandoned-unfinished-soviet-nuclear-power-station/)
-- Apr 23 - [My shell setup with Fish and Tmux (2021)](https://www.milanvit.net/post/my-ultimate-shell-setup-with-fish-shell-and-tmux/)
-- Apr 23 - [Modern Transactional Stack](https://a16z.com/2023/04/14/the-modern-transactional-stack/)
-- Apr 22 - [iOS 17 app sideloading might only be available in Europe](https://www.techradar.com/news/ios-17-app-sideloading-might-only-be-available-in-europe)
-- Apr 22 - [Saturn&#x27;s Interior After the Cassini Grand Finale](https://arxiv.org/abs/2304.09215)
+- Apr 23 - [Bare Metal Vi, Boot into Vi Without an OS](https://raymii.org/s/blog/Bare_Metal_Boot_to_Vi.html)
+- Apr 23 - [Gold mining and violence in the Amazon rainforest](https://www.youtube.com/watch?v=srck-pW8v34)
+- Apr 23 - [Cloudflare launches easy to set up consent manager that respects users](https://blog.cloudflare.com/consent-manager/)
+- Apr 23 - [Why you should teach at a Community College](https://timozander.de/blog/why-you-should-teach/)
+- Apr 23 - [Ron: Rusty Object Notation](https://github.com/ron-rs/ron)
 <!--END_SECTION:hn-->
 
 <!--
