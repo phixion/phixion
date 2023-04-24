@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 24 - [Philips sets €575M. aside for respirator lawsuits](https://nltimes.nl/2023/04/24/philips-sets-eu575-mil-aside-respirator-lawsuits-suffered-eu583-mil-loss-q1)
-- Apr 24 - [Biggest companies in the world by market value 2022](https://www.statista.com/statistics/263264/top-companies-in-the-world-by-market-capitalization/)
-- Apr 24 - [LVMH becomes the first European company to surpass $500B in market value](https://www.cnbc.com/2023/04/24/lvmh-becomes-the-first-european-company-surpass-500-billion-in-value.html)
-- Apr 24 - [Amazon’s quiet open source revolution](https://www.infoworld.com/article/3694090/amazon-s-quiet-open-source-revolution.html)
-- Apr 24 - [Deleting System32\curl.exe](https://daniel.haxx.se/blog/2023/04/24/deleting-system32curl-exe/)
+- Apr 24 - [Statement on EU-US Cooperation on Turning Public Opinion Against Encryption](https://www.globalencryption.org/2023/04/statement-on-eu-us-cooperation-against-encryption/)
+- Apr 24 - [I use Nix and make(1) to develop](https://glorifiedgluer.com/blog/2023/developing-with-nix-and-make/)
+- Apr 24 - [European Parliament calls for ban on facial recognition](https://www.politico.eu/article/european-parliament-ban-facial-recognition-brussels/)
+- Apr 24 - [QEMU 8.0](https://www.qemu.org/2023/04/20/qemu-8-0-0/)
+- Apr 24 - [Seeing Triple (Annotated)](https://esawebb.org/images/potm2302b/)
 <!--END_SECTION:hn-->
 
 <!--
