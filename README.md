@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 24 - [Windows 11’s taskbar is finally getting labels and never combine app icons](https://www.theverge.com/2023/4/20/23690960/microsoft-windows-11-taskbar-never-combine-app-icons-labels-features)
-- Apr 24 - [Programming on Unix and automatic memory management](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixAndAutomaticMemoryManagement)
-- Apr 24 - [An introduction to lockless algorithms (2021)](https://lwn.net/Articles/844224/)
-- Apr 24 - [Squawk bots: Can generative AI lead us to understanding animals?](https://cloud.google.com/blog/transform/can-generative-ai-help-humans-understand-animals-earth-species-project-conservation)
-- Apr 24 - [DuckDuckGo removed the ability to filter search results](https://github.com/duckduckgo/duckduckgo-help-pages/commit/d35d03e532c7618bcdd2be10ea67e9e1f021dd96)
+- Apr 24 - [Philips sets €575M. aside for respirator lawsuits](https://nltimes.nl/2023/04/24/philips-sets-eu575-mil-aside-respirator-lawsuits-suffered-eu583-mil-loss-q1)
+- Apr 24 - [Biggest companies in the world by market value 2022](https://www.statista.com/statistics/263264/top-companies-in-the-world-by-market-capitalization/)
+- Apr 24 - [LVMH becomes the first European company to surpass $500B in market value](https://www.cnbc.com/2023/04/24/lvmh-becomes-the-first-european-company-surpass-500-billion-in-value.html)
+- Apr 24 - [Amazon’s quiet open source revolution](https://www.infoworld.com/article/3694090/amazon-s-quiet-open-source-revolution.html)
+- Apr 24 - [Deleting System32\curl.exe](https://daniel.haxx.se/blog/2023/04/24/deleting-system32curl-exe/)
 <!--END_SECTION:hn-->
 
 <!--
