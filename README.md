@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 23 - [Twitter Enhancement Suite – BlockTheBlue](https://chrome.google.com/webstore/detail/twitter-enhancement-suite/chaiionjpmjklbbngmpdnbfcmkgoicle)
-- Apr 23 - [Is there a concept for not wanting to know the time&#x2F;clock while doing something?](https://news.ycombinator.com/item?id=35679724)
-- Apr 23 - [First space images captured by balloon-borne telescope](https://www.utoronto.ca/news/first-space-images-captured-balloon-borne-telescope)
-- Apr 23 - [YouTube, the Jewel of the Internet](https://www.ft.com/content/c57e3503-6fc0-44dc-9d50-35f8f9da25d2)
-- Apr 23 - [Closing in on the “Perfect Code”](https://spectrum.ieee.org/closing-in-on-the-perfect-code)
+- Apr 23 - [Bilingualism Affords No General Cognitive Advantages: A Study of 11,000 People](https://journals.sagepub.com/doi/10.1177/0956797620903113)
+- Apr 23 - [West Coast Trail – The 75km&#x2F;48 mile hike in Vancouver Island](https://www.dquach.com/2021/08/01/west-coast-trail-the-75km-48-mile-death-hike/)
+- Apr 23 - [A fireside chat on education, technology, and almost everything in between](https://www.gatesnotes.com/ASU-and-GSV)
+- Apr 23 - [Godot-dodo – Finetuning LLaMA on single-language comment:code data pairs](https://github.com/minosvasilias/godot-dodo)
+- Apr 23 - [Some mistakes I made as a new manager](https://www.benkuhn.net/newmgr/)
 <!--END_SECTION:hn-->
 
 <!--
