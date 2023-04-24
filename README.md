@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 24 - [Statement on EU-US Cooperation on Turning Public Opinion Against Encryption](https://www.globalencryption.org/2023/04/statement-on-eu-us-cooperation-against-encryption/)
-- Apr 24 - [I use Nix and make(1) to develop](https://glorifiedgluer.com/blog/2023/developing-with-nix-and-make/)
-- Apr 24 - [European Parliament calls for ban on facial recognition](https://www.politico.eu/article/european-parliament-ban-facial-recognition-brussels/)
-- Apr 24 - [QEMU 8.0](https://www.qemu.org/2023/04/20/qemu-8-0-0/)
-- Apr 24 - [Seeing Triple (Annotated)](https://esawebb.org/images/potm2302b/)
+- Apr 24 - [Harvard: The Effects of Noise on Health](https://hms.harvard.edu/magazine/viral-world/effects-noise-health)
+- Apr 24 - [Show HN: Featurevisor – Git based feature flags and experiments management](https://featurevisor.com/)
+- Apr 24 - [Apple wins the antitrust court battle with Epic Games, court rules](https://techcrunch.com/2023/04/24/apple-wins-antitrust-court-battle-with-epic-games-appeals-court-rules/)
+- Apr 24 - [Fedora 38 LLVM vs. Team Fortress 2](https://airlied.blogspot.com/2023/04/fedora-38-llvm-vs-team-fortress-2-tf2.html)
+- Apr 24 - [1Password to Add Telemetry](https://blog.1password.com/privacy-preserving-app-telemetry/)
 <!--END_SECTION:hn-->
 
 <!--
