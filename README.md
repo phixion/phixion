@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 24 - [ONNX Runtime merges WebGPU backend](https://github.com/microsoft/onnxruntime/pull/14579)
-- Apr 24 - [Gas-powered leaf blowers: The end is nigh (2021)](https://fallows.substack.com/p/gas-powered-leaf-blowers-the-end)
-- Apr 24 - [Palo Alto Research Center (PARC) to join SRI International](https://www.sri.com/press/press-release/the-palo-alto-research-center-parc-will-join-sri-international/)
-- Apr 24 - [Lancey (YC S22) is hiring a senior full-stack engineer](https://www.ycombinator.com/companies/lancey/jobs/yxiFhkc-senior-software-engineer-full-stack)
-- Apr 24 - [Hawthorne effect](https://en.wikipedia.org/wiki/Hawthorne_effect)
+- Apr 25 - [Apple Pay’s long road to paying off is getting shorter](https://www.wsj.com/articles/apple-pays-long-road-to-paying-off-is-getting-shorter-7a179c75)
+- Apr 25 - [GCC 13 and the State of Gccrs](https://rust-gcc.github.io/2023/04/24/gccrs-and-gcc13-release.html)
+- Apr 25 - [Deming Paradox: Operationally rigorous companies aren&#x27;t nice places to work](https://commoncog.com/deming-paradox-operational-rigour/)
+- Apr 24 - [Smokeless_UMAF: Access AMD hidden BIOS settings](https://github.com/DavidS95/Smokeless_UMAF)
+- Apr 24 - [A mutual aid auto shop in Alabama](https://lux-magazine.com/article/mutual-aid-cars-alabama/)
 <!--END_SECTION:hn-->
 
 <!--
