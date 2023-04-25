@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 25 - [Thinking about our passive exposure to IPv6 issues](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IPv6OurPassiveExposure)
-- Apr 25 - [Deep Neural Networks from Scratch in Zig](https://monadmonkey.com/dnns-from-scratch-in-zig)
-- Apr 25 - [Apple Pay’s long road to paying off is getting shorter](https://www.wsj.com/articles/apple-pays-long-road-to-paying-off-is-getting-shorter-7a179c75)
-- Apr 25 - [GCC 13 and the State of Gccrs](https://rust-gcc.github.io/2023/04/24/gccrs-and-gcc13-release.html)
-- Apr 25 - [Deming Paradox: Operationally rigorous companies aren&#x27;t nice places to work](https://commoncog.com/deming-paradox-operational-rigour/)
+- Apr 25 - [Paperspace (YC W15) is hiring to scale a GPU cloud powering gen AI and LLMs](https://www.paperspace.com/careers)
+- Apr 25 - [Street Photography of Japan&#x27;s Aging Population](https://neocha.com/magazine/the-old/)
+- Apr 25 - [Layoffs Now Targeting Devs](https://www.businessinsider.com/software-engineer-coding-jobs-face-layoffs-this-year-2023-4)
+- Apr 25 - [When Apple Comes Calling, ‘It’s the Kiss of Death’](https://www.wsj.com/articles/apple-watch-patents-5b52cda0)
+- Apr 25 - [The Nature of Code (Book)](https://natureofcode.com/)
 <!--END_SECTION:hn-->
 
 <!--
