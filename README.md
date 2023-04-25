@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 25 - [Paperspace (YC W15) is hiring to scale a GPU cloud powering gen AI and LLMs](https://www.paperspace.com/careers)
-- Apr 25 - [Street Photography of Japan&#x27;s Aging Population](https://neocha.com/magazine/the-old/)
-- Apr 25 - [Layoffs Now Targeting Devs](https://www.businessinsider.com/software-engineer-coding-jobs-face-layoffs-this-year-2023-4)
-- Apr 25 - [When Apple Comes Calling, ‘It’s the Kiss of Death’](https://www.wsj.com/articles/apple-watch-patents-5b52cda0)
-- Apr 25 - [The Nature of Code (Book)](https://natureofcode.com/)
+- Apr 25 - [The EU Suppressed a 300-Page Study That Found Piracy Doesn’t Harm Sales (2017)](https://gizmodo.com/the-eu-suppressed-a-300-page-study-that-found-piracy-do-1818629537)
+- Apr 25 - [Harry Belafonte, singer, actor and tireless activist, dies aged 96](https://www.theguardian.com/music/2023/apr/25/harry-belafonte-singer-dies-actor-singer-activist)
+- Apr 25 - [A Completely Non-Technical Explanation of Deep Learning](https://www.parand.com/a-completely-non-technical-explanation-of-ai.html)
+- Apr 25 - [Serverless voice chat with Vicuna-13B](https://github.com/modal-labs/quillman)
+- Apr 25 - [The Vowel Space](https://www.youtube.com/watch?v=FdldD0-kEcc)
 <!--END_SECTION:hn-->
 
 <!--
