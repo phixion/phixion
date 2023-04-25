@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 24 - [Harvard: The Effects of Noise on Health](https://hms.harvard.edu/magazine/viral-world/effects-noise-health)
-- Apr 24 - [Show HN: Featurevisor – Git based feature flags and experiments management](https://featurevisor.com/)
-- Apr 24 - [Apple wins the antitrust court battle with Epic Games, court rules](https://techcrunch.com/2023/04/24/apple-wins-antitrust-court-battle-with-epic-games-appeals-court-rules/)
-- Apr 24 - [Fedora 38 LLVM vs. Team Fortress 2](https://airlied.blogspot.com/2023/04/fedora-38-llvm-vs-team-fortress-2-tf2.html)
-- Apr 24 - [1Password to Add Telemetry](https://blog.1password.com/privacy-preserving-app-telemetry/)
+- Apr 24 - [ONNX Runtime merges WebGPU backend](https://github.com/microsoft/onnxruntime/pull/14579)
+- Apr 24 - [Gas-powered leaf blowers: The end is nigh (2021)](https://fallows.substack.com/p/gas-powered-leaf-blowers-the-end)
+- Apr 24 - [Palo Alto Research Center (PARC) to join SRI International](https://www.sri.com/press/press-release/the-palo-alto-research-center-parc-will-join-sri-international/)
+- Apr 24 - [Lancey (YC S22) is hiring a senior full-stack engineer](https://www.ycombinator.com/companies/lancey/jobs/yxiFhkc-senior-software-engineer-full-stack)
+- Apr 24 - [Hawthorne effect](https://en.wikipedia.org/wiki/Hawthorne_effect)
 <!--END_SECTION:hn-->
 
 <!--
