@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 25 - [The EU Suppressed a 300-Page Study That Found Piracy Doesn’t Harm Sales (2017)](https://gizmodo.com/the-eu-suppressed-a-300-page-study-that-found-piracy-do-1818629537)
-- Apr 25 - [Harry Belafonte, singer, actor and tireless activist, dies aged 96](https://www.theguardian.com/music/2023/apr/25/harry-belafonte-singer-dies-actor-singer-activist)
-- Apr 25 - [A Completely Non-Technical Explanation of Deep Learning](https://www.parand.com/a-completely-non-technical-explanation-of-ai.html)
-- Apr 25 - [Serverless voice chat with Vicuna-13B](https://github.com/modal-labs/quillman)
-- Apr 25 - [The Vowel Space](https://www.youtube.com/watch?v=FdldD0-kEcc)
+- Apr 25 - [FSF Call on the IRS to provide libre tax-filing software](https://www.fsf.org/blogs/community/call-on-the-irs-to-provide-libre-tax-filing-software)
+- Apr 25 - [Sandy Munro Talks Battery Battles, Calls Solid State “Kiss of Death” for Gas](https://www.sae.org/blog/sandy-munro-live-sae-wcx)
+- Apr 25 - [What Rosalind Franklin truly contributed to the discovery of DNA’s structure](https://www.nature.com/articles/d41586-023-01313-5)
+- Apr 25 - [Could we stop Yellowstone from erupting with a giant geothermal power plant?](https://constructionphysics.substack.com/p/could-we-stop-yellowstone-from-erupting)
+- Apr 25 - [Microsoft Edge is leaking the sites you visit to Bing](https://www.theverge.com/2023/4/25/23697532/microsoft-edge-browser-url-leak-bing-privacy)
 <!--END_SECTION:hn-->
 
 <!--
