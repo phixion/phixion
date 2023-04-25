@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 25 - [Thinking about our passive exposure to IPv6 issues](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IPv6OurPassiveExposure)
+- Apr 25 - [Deep Neural Networks from Scratch in Zig](https://monadmonkey.com/dnns-from-scratch-in-zig)
 - Apr 25 - [Apple Pay’s long road to paying off is getting shorter](https://www.wsj.com/articles/apple-pays-long-road-to-paying-off-is-getting-shorter-7a179c75)
 - Apr 25 - [GCC 13 and the State of Gccrs](https://rust-gcc.github.io/2023/04/24/gccrs-and-gcc13-release.html)
 - Apr 25 - [Deming Paradox: Operationally rigorous companies aren&#x27;t nice places to work](https://commoncog.com/deming-paradox-operational-rigour/)
-- Apr 24 - [Smokeless_UMAF: Access AMD hidden BIOS settings](https://github.com/DavidS95/Smokeless_UMAF)
-- Apr 24 - [A mutual aid auto shop in Alabama](https://lux-magazine.com/article/mutual-aid-cars-alabama/)
 <!--END_SECTION:hn-->
 
 <!--
