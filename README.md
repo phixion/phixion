@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 25 - [FSF Call on the IRS to provide libre tax-filing software](https://www.fsf.org/blogs/community/call-on-the-irs-to-provide-libre-tax-filing-software)
-- Apr 25 - [Sandy Munro Talks Battery Battles, Calls Solid State “Kiss of Death” for Gas](https://www.sae.org/blog/sandy-munro-live-sae-wcx)
-- Apr 25 - [What Rosalind Franklin truly contributed to the discovery of DNA’s structure](https://www.nature.com/articles/d41586-023-01313-5)
-- Apr 25 - [Could we stop Yellowstone from erupting with a giant geothermal power plant?](https://constructionphysics.substack.com/p/could-we-stop-yellowstone-from-erupting)
-- Apr 25 - [Microsoft Edge is leaking the sites you visit to Bing](https://www.theverge.com/2023/4/25/23697532/microsoft-edge-browser-url-leak-bing-privacy)
+- Apr 25 - [Mrs Whitcher and the Renegade Numbers (2017)](https://www.lastwordonnothing.com/2017/04/24/mrs-whitcher-and-the-renegade-numbers/)
+- Apr 25 - [We glued together content moderation to stop soccer pirates and saved $750k](https://www.mux.com/blog/how-content-moderation-rescued-750k-in-unpaid-invoices-from-soccer-pirates)
+- Apr 25 - [Materials for 17th-century Work, a la Follansbee](https://blog.lostartpress.com/2023/04/25/materials-for-17th-century-work-a-la-follansbee/)
+- Apr 25 - [Show HN: Preview environments for projects that do not use K8s&#x2F;Docker](https://codepreview.io/)
+- Apr 25 - [Compressing Hegel (2020)](https://wittgenfine.substack.com/p/compressing-hegel)
 <!--END_SECTION:hn-->
 
 <!--
