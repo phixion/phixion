@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 26 - [Kalshi (YC W19) Is Hiring](https://news.ycombinator.com/item?id=35712321)
-- Apr 26 - [AI used photographer’s photos for training, then slapped him with an invoice](https://www.diyphotography.net/ai-used-photographers-photos-for-training-then-slapped-him-with-an-invoice/)
-- Apr 26 - [Possible toxicity of chronic CO2 exposure associated with face mask use](https://www.cell.com/heliyon/fulltext/S2405-8440(23)01324-5)
-- Apr 26 - [UK Blocks Microsoft’s $69B Activision Deal](https://www.bloomberg.com/news/articles/2023-04-26/microsoft-s-69-billion-activision-deal-blocked-by-uk-watchdog)
-- Apr 26 - [Microsoft &#x2F; Activision deal prevented to protect innovation and choice in gaming](https://www.gov.uk/government/news/microsoft-activision-deal-prevented-to-protect-innovation-and-choice-in-cloud-gaming)
+- Apr 26 - [Microsoft Edge Is Leaking the Sites You Visit to Bing](https://yro.slashdot.org/story/23/04/25/209254/microsoft-edge-is-leaking-the-sites-you-visit-to-bing)
+- Apr 26 - [DJI Mavic 3 Pro](https://www.dji.com/mavic-3-pro)
+- Apr 26 - [Sweden launches research rocket, accidentally hits Norway](https://www.reuters.com/world/europe/sweden-launches-research-rocket-accidentally-hits-norway-2023-04-25/)
+- Apr 26 - [Colorado becomes first to pass ‘right to repair’ for farmers](https://www.wivb.com/news/colorado-becomes-1st-to-pass-right-to-repair-for-farmers/)
+- Apr 26 - [Lessons by 3blue1brown](https://www.3blue1brown.com/)
 <!--END_SECTION:hn-->
 
 <!--
