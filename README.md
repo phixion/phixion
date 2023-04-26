@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 26 - [Microsoft Edge Is Leaking the Sites You Visit to Bing](https://yro.slashdot.org/story/23/04/25/209254/microsoft-edge-is-leaking-the-sites-you-visit-to-bing)
-- Apr 26 - [DJI Mavic 3 Pro](https://www.dji.com/mavic-3-pro)
-- Apr 26 - [Sweden launches research rocket, accidentally hits Norway](https://www.reuters.com/world/europe/sweden-launches-research-rocket-accidentally-hits-norway-2023-04-25/)
-- Apr 26 - [Colorado becomes first to pass ‘right to repair’ for farmers](https://www.wivb.com/news/colorado-becomes-1st-to-pass-right-to-repair-for-farmers/)
-- Apr 26 - [Lessons by 3blue1brown](https://www.3blue1brown.com/)
+- Apr 26 - [Linen.dev: The 500KB Slack Alternative](https://www.linen.dev/s/linen/t/10511167/linen-dev-the-500kb-slack-alternative)
+- Apr 26 - [TSMC’s 3-Nm Push Faces Tool Struggles](https://www.eetimes.com/tsmcs-3-nm-push-faces-tool-struggles/)
+- Apr 26 - [DeepFloyd IF: open-source text-to-image model](https://github.com/deep-floyd/IF)
+- Apr 26 - [Creating AI assistant with GPT and Ruby and Redis using embeddings](https://release.com/blog/training-chatgpt-with-custom-libraries-using-extensions)
+- Apr 26 - [Update millions of records in Rails](https://blog.eq8.eu/til/update-millions-of-records-in-rails.html)
 <!--END_SECTION:hn-->
 
 <!--
