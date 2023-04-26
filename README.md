@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 26 - [Netflix Loses 1M Users in Spain over Password Policing](https://www.bloomberg.com/news/articles/2023-04-25/netflix-loses-1-million-users-in-spain-over-password-policing)
-- Apr 26 - [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head](https://arxiv.org/abs/2304.12995)
-- Apr 26 - [Welcome to a new, humbler private-equity industry](https://www.economist.com/finance-and-economics/2023/04/25/welcome-to-a-new-humbler-private-equity-industry)
-- Apr 26 - [Show HN: Jellylade – Turn your screenshots into posts](https://app.jellylade.com)
-- Apr 26 - [How to use Podman inside of a container (2021)](https://www.redhat.com/sysadmin/podman-inside-container)
+- Apr 26 - [Kalshi (YC W19) Is Hiring](https://news.ycombinator.com/item?id=35712321)
+- Apr 26 - [AI used photographer’s photos for training, then slapped him with an invoice](https://www.diyphotography.net/ai-used-photographers-photos-for-training-then-slapped-him-with-an-invoice/)
+- Apr 26 - [Possible toxicity of chronic CO2 exposure associated with face mask use](https://www.cell.com/heliyon/fulltext/S2405-8440(23)01324-5)
+- Apr 26 - [UK Blocks Microsoft’s $69B Activision Deal](https://www.bloomberg.com/news/articles/2023-04-26/microsoft-s-69-billion-activision-deal-blocked-by-uk-watchdog)
+- Apr 26 - [Microsoft &#x2F; Activision deal prevented to protect innovation and choice in gaming](https://www.gov.uk/government/news/microsoft-activision-deal-prevented-to-protect-innovation-and-choice-in-cloud-gaming)
 <!--END_SECTION:hn-->
 
 <!--
