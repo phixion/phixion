@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 26 - [Your First LTE](https://open5gs.org/open5gs/docs/tutorial/01-your-first-lte/)
-- Apr 26 - [Show HN: Use ChatGPT on a 2 Dimensional Interface](https://www.superusapp.com/chatgpt2d/)
-- Apr 26 - [Google Authenticator cloud sync&#x2F;backup is not E2E encrypted](https://defcon.social/@mysk/110262313275622023)
-- Apr 26 - [My Life with the Penguins](https://nautil.us/my-life-with-the-penguins-298047/)
-- Apr 26 - [GPS, UTC and TAI Clocks (2001)](http://www.leapsecond.com/java/gpsclock.htm)
+- Apr 26 - [Netflix Loses 1M Users in Spain over Password Policing](https://www.bloomberg.com/news/articles/2023-04-25/netflix-loses-1-million-users-in-spain-over-password-policing)
+- Apr 26 - [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head](https://arxiv.org/abs/2304.12995)
+- Apr 26 - [Welcome to a new, humbler private-equity industry](https://www.economist.com/finance-and-economics/2023/04/25/welcome-to-a-new-humbler-private-equity-industry)
+- Apr 26 - [Show HN: Jellylade – Turn your screenshots into posts](https://app.jellylade.com)
+- Apr 26 - [How to use Podman inside of a container (2021)](https://www.redhat.com/sysadmin/podman-inside-container)
 <!--END_SECTION:hn-->
 
 <!--
