@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 27 - [Aubrey Plaza Is the Unfortunate New Face of the Milk Wars – Bon Appétit](https://www.bonappetit.com/story/aubrey-plaza-wood-milk)
-- Apr 27 - [On the unexpected joys of Denglisch, Berlinglish and global Englisch](https://europeanreviewofbooks.com/beamer-dressman-bodybag/en)
-- Apr 27 - [Samsung Profits Plunge 95%](https://www.cnn.com/2023/04/26/tech/south-korea-samsung-q1-profits-plunge-intl-hnk/index.html)
-- Apr 27 - [How Microsoft names threat actors](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
-- Apr 27 - [California Court of Appeal finds geofence warrant unconstitutional](https://www.eff.org/deeplinks/2023/04/first-us-appellate-court-decide-finds-geofence-warrant-unconstitutional)
+- Apr 27 - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4045518006)
+- Apr 27 - [German researchers figure out how lager first developed in Bavaria](https://phys.org/news/2023-04-german-figure-lager-bavaria.html)
+- Apr 27 - [How Facebook and Instagram became marketplaces for child sex trafficking](https://www.theguardian.com/news/2023/apr/27/how-facebook-and-instagram-became-marketplaces-for-child-sex-trafficking)
+- Apr 27 - [The Disappointment of 5G](https://circleid.com/posts/20230127-the-disappointment-of-5g)
+- Apr 27 - [Report from the German Parliament&#x27;s “Sustainable by Design” Conference](https://eco.kde.org/blog/2023-04-26-sustainable-by-design/)
 <!--END_SECTION:hn-->
 
 <!--
