@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 26 - [Dick Morrell: Amazon Users Advised to Reset Passwords Amid Echo Privacy Concerns](https://sackheads.social/@Cloudguy/110256617380917383)
-- Apr 26 - [Automakers are starting to admit that drivers hate touchscreens](https://slate.com/business/2023/04/cars-buttons-touchscreens-vw-porsche-nissan-hyundai.html)
-- Apr 26 - [DeepDoctection: Document extraction and analysis using deep learning models](https://github.com/deepdoctection/deepdoctection)
-- Apr 26 - [Compound (YC S19) is hiring to build a modern wealth manager](https://withcompound.com/company/about)
-- Apr 26 - [Building the Pocket CO2 Project](https://bitbanksoftware.blogspot.com/2023/04/building-pocket-co2-project.html)
+- Apr 27 - [Lithuanian university locks out students again for not using proprietary 2FA](https://gitlab.digilol.net/Siren/vgtu-article/-/blob/4a34721d392b856f26956a9e185e4d8c5371d27d/vgtu.md)
+- Apr 27 - [Tell HN: iOS converts units for highlighted text](https://news.ycombinator.com/item?id=35722865)
+- Apr 27 - [Now They&#x27;re Trying Censor Your Text Messages](https://public.substack.com/p/now-theyre-trying-censor-your-text)
+- Apr 27 - [Emerging Rust GUI libraries in a WASM world](https://monadical.com/posts/shades-of-rust-gui-library-list.html)
+- Apr 27 - [The Next Generation in Graphics, Part 1: Three Dimensions in Software](https://www.filfre.net/2023/04/the-next-generation-in-graphics-part-1-three-dimensions-in-software-or-quake-and-its-discontents/)
 <!--END_SECTION:hn-->
 
 <!--
