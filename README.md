@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 27 - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4045518006)
-- Apr 27 - [German researchers figure out how lager first developed in Bavaria](https://phys.org/news/2023-04-german-figure-lager-bavaria.html)
-- Apr 27 - [How Facebook and Instagram became marketplaces for child sex trafficking](https://www.theguardian.com/news/2023/apr/27/how-facebook-and-instagram-became-marketplaces-for-child-sex-trafficking)
-- Apr 27 - [The Disappointment of 5G](https://circleid.com/posts/20230127-the-disappointment-of-5g)
-- Apr 27 - [Report from the German Parliament&#x27;s “Sustainable by Design” Conference](https://eco.kde.org/blog/2023-04-26-sustainable-by-design/)
+- Apr 27 - [Pinecone raises $100M Series B](https://www.pinecone.io/learn/series-b/)
+- Apr 27 - [US Supreme Court Justices get lavish gifts; Raise bar for bribery prosecutions](https://ohiocapitaljournal.com/2023/04/26/u-s-supreme-court-justices-take-lavish-gifts-then-raise-the-bar-for-bribery-prosecutions/)
+- Apr 27 - [BlueHat IL 2023: Microsoft rewriting core Windows libraries in Rust](https://www.youtube.com/watch?v=8T6ClX-y2AE)
+- Apr 27 - [Colorado governor signs tractor right-to-repair law opposed by John Deere](https://arstechnica.com/tech-policy/2023/04/colorado-governor-signs-tractor-right-to-repair-law-opposed-by-john-deere/)
+- Apr 27 - [Quicssh: SSH over QUIC](https://github.com/moul/quicssh)
 <!--END_SECTION:hn-->
 
 <!--
