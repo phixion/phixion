@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 27 - [Lithuanian university locks out students again for not using proprietary 2FA](https://gitlab.digilol.net/Siren/vgtu-article/-/blob/4a34721d392b856f26956a9e185e4d8c5371d27d/vgtu.md)
-- Apr 27 - [Tell HN: iOS converts units for highlighted text](https://news.ycombinator.com/item?id=35722865)
-- Apr 27 - [Now They&#x27;re Trying Censor Your Text Messages](https://public.substack.com/p/now-theyre-trying-censor-your-text)
-- Apr 27 - [Emerging Rust GUI libraries in a WASM world](https://monadical.com/posts/shades-of-rust-gui-library-list.html)
-- Apr 27 - [The Next Generation in Graphics, Part 1: Three Dimensions in Software](https://www.filfre.net/2023/04/the-next-generation-in-graphics-part-1-three-dimensions-in-software-or-quake-and-its-discontents/)
+- Apr 27 - [Aubrey Plaza Is the Unfortunate New Face of the Milk Wars – Bon Appétit](https://www.bonappetit.com/story/aubrey-plaza-wood-milk)
+- Apr 27 - [On the unexpected joys of Denglisch, Berlinglish and global Englisch](https://europeanreviewofbooks.com/beamer-dressman-bodybag/en)
+- Apr 27 - [Samsung Profits Plunge 95%](https://www.cnn.com/2023/04/26/tech/south-korea-samsung-q1-profits-plunge-intl-hnk/index.html)
+- Apr 27 - [How Microsoft names threat actors](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+- Apr 27 - [California Court of Appeal finds geofence warrant unconstitutional](https://www.eff.org/deeplinks/2023/04/first-us-appellate-court-decide-finds-geofence-warrant-unconstitutional)
 <!--END_SECTION:hn-->
 
 <!--
