@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 26 - [Linen.dev: The 500KB Slack Alternative](https://www.linen.dev/s/linen/t/10511167/linen-dev-the-500kb-slack-alternative)
-- Apr 26 - [TSMC’s 3-Nm Push Faces Tool Struggles](https://www.eetimes.com/tsmcs-3-nm-push-faces-tool-struggles/)
-- Apr 26 - [DeepFloyd IF: open-source text-to-image model](https://github.com/deep-floyd/IF)
-- Apr 26 - [Creating AI assistant with GPT and Ruby and Redis using embeddings](https://release.com/blog/training-chatgpt-with-custom-libraries-using-extensions)
-- Apr 26 - [Update millions of records in Rails](https://blog.eq8.eu/til/update-millions-of-records-in-rails.html)
+- Apr 26 - [Dick Morrell: Amazon Users Advised to Reset Passwords Amid Echo Privacy Concerns](https://sackheads.social/@Cloudguy/110256617380917383)
+- Apr 26 - [Automakers are starting to admit that drivers hate touchscreens](https://slate.com/business/2023/04/cars-buttons-touchscreens-vw-porsche-nissan-hyundai.html)
+- Apr 26 - [DeepDoctection: Document extraction and analysis using deep learning models](https://github.com/deepdoctection/deepdoctection)
+- Apr 26 - [Compound (YC S19) is hiring to build a modern wealth manager](https://withcompound.com/company/about)
+- Apr 26 - [Building the Pocket CO2 Project](https://bitbanksoftware.blogspot.com/2023/04/building-pocket-co2-project.html)
 <!--END_SECTION:hn-->
 
 <!--
