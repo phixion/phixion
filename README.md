@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 28 - [U.S. Rep. Angie Craig drops college requirement for staffers](https://www.kare11.com/article/news/politics/representative-angie-craig-drops-college-requirement-for-staffers/89-ec3eafe5-8714-4683-9c70-cbeb04fd88bb)
-- Apr 28 - [I can&#x27;t recommend serious use of an all-in-one local Grafana Loki setup](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaLokiSimpleNotRecommended)
-- Apr 28 - [AI Is a Waste of Time](https://www.theatlantic.com/ideas/archive/2023/04/ai-technology-productivity-time-wasting/673880/)
-- Apr 28 - [Plan 9 from User Space](https://9fans.github.io/plan9port/)
-- Apr 28 - [The Ukrainian police arrested a man for selling data of over 300M people](https://securityaffairs.com/145406/cyber-crime/ukraine-cyber-police-arrested-man.html)
+- Apr 28 - [Chicken Chicken Chicken: Chicken Chicken [pdf]](https://isotropic.org/papers/chicken.pdf)
+- Apr 28 - [Show HN: I made a retro game archive for Polish games](https://polishpixels.com)
+- Apr 28 - [Runescape gold more valuable than Venezuelan currency (2022)](https://sites.psu.edu/ist110pursel/2022/09/04/15154/)
+- Apr 28 - [There’s more than one way to write an IP address (2019)](https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/)
+- Apr 28 - [Laudspeaker hiring engineer to build open source customer journey software](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
 <!--END_SECTION:hn-->
 
 <!--
