@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 28 - [Beautiful branchless binary search](https://probablydance.com/2023/04/27/beautiful-branchless-binary-search/)
+- Apr 28 - [Grokking](https://www.domluna.com/grokking/)
+- Apr 28 - [The classic “homunculus” has gone through a radical revision](https://www.scientificamerican.com/article/how-our-team-overturned-the-90-year-old-metaphor-of-a-little-man-in-the-brain-who-controls-movement1/)
+- Apr 28 - [We&#x27;re afraid language models aren&#x27;t modeling ambiguity](https://arxiv.org/abs/2304.14399)
 - Apr 28 - [Hidet: A Deep Learning Compiler for Efficient Model Serving](https://pytorch.org/blog/introducing-hidet/)
-- Apr 28 - [Europe to ChatGPT: disclose your sources](https://www.wsj.com/articles/europe-to-chatgpt-disclose-your-sources-863ef330)
-- Apr 27 - [FlipperZero: 1 Month Battery Life with Firmware Update](https://blog.flipperzero.one/1-month-battery-life-with-firmware-update/)
-- Apr 27 - [Year of the Voice – Chapter 2: Let&#x27;s talk](https://www.home-assistant.io/blog/2023/04/27/year-of-the-voice-chapter-2/)
-- Apr 27 - [Current architectural best practices for LLM applications](https://mattboegner.com/knowledge-retrieval-architecture-for-llms/)
 <!--END_SECTION:hn-->
 
 <!--
