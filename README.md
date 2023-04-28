@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 28 - [Beautiful branchless binary search](https://probablydance.com/2023/04/27/beautiful-branchless-binary-search/)
-- Apr 28 - [Grokking](https://www.domluna.com/grokking/)
-- Apr 28 - [The classic “homunculus” has gone through a radical revision](https://www.scientificamerican.com/article/how-our-team-overturned-the-90-year-old-metaphor-of-a-little-man-in-the-brain-who-controls-movement1/)
-- Apr 28 - [We&#x27;re afraid language models aren&#x27;t modeling ambiguity](https://arxiv.org/abs/2304.14399)
-- Apr 28 - [Hidet: A Deep Learning Compiler for Efficient Model Serving](https://pytorch.org/blog/introducing-hidet/)
+- Apr 28 - [SiPhox (YC S20) Is Hiring a Lead Microfluidics Engineer](https://www.ycombinator.com/companies/siphox/jobs/HvfcZF9-lead-microfluidics-engineer)
+- Apr 28 - [Driver Adventures for a 1999 Webcam](https://blog.benjojo.co.uk/post/quickcam-usb-userspace-driver)
+- Apr 28 - [Intel Posts Largest Loss in Its History as Sales Plunge 36%](https://www.tomshardware.com/news/intel-posts-q1-fy-2023-results)
+- Apr 28 - [Amazon, scaling back operations in India, omits India in earnings for first time](https://techcrunch.com/2023/04/27/amazon-omits-india-business-in-earnings-a-first-in-years/)
+- Apr 28 - [Microsoft is to enable Rust use for Windows 11 kernel](https://www.neowin.net/news/senior-microsoft-exec-says-windows-11-kernel-will-soon-be-booting-with-rust-inside/)
 <!--END_SECTION:hn-->
 
 <!--
