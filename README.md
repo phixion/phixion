@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 29 - [Ask HN: How is Starlink kept secure?](https://news.ycombinator.com/item?id=35750585)
+- Apr 29 - [Moon mission failure: why is it so hard to pull off a lunar landing?](https://www.nature.com/articles/d41586-023-01454-7)
+- Apr 29 - [Italy lifts ban on ChatGPT after data privacy improvements](https://www.dw.com/en/ai-italy-lifts-ban-on-chatgpt-after-data-privacy-improvements/a-65469742)
 - Apr 29 - [Deno 1.33: Deno 2 is coming](https://deno.com/blog/v1.33)
 - Apr 29 - [Academic Ranks Explained or What on Earth Is an Adjunct?](https://acoup.blog/2023/04/28/collections-academic-ranks-explained-or-what-on-earth-is-an-adjunct/)
 - Apr 29 - [Internet in a Box](https://internet-in-a-box.org/)
-- Apr 29 - [Half of vinyl buyers in the U.S. don’t have a record player: study](https://consequence.net/2023/04/half-vinyl-buyers-record-player-study/)
 <!--END_SECTION:hn-->
 
 <!--
