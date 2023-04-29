@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 29 - [Moon mission failure: why is it so hard to pull off a lunar landing?](https://www.nature.com/articles/d41586-023-01454-7)
-- Apr 29 - [Italy lifts ban on ChatGPT after data privacy improvements](https://www.dw.com/en/ai-italy-lifts-ban-on-chatgpt-after-data-privacy-improvements/a-65469742)
-- Apr 29 - [Deno 1.33: Deno 2 is coming](https://deno.com/blog/v1.33)
-- Apr 29 - [Academic Ranks Explained or What on Earth Is an Adjunct?](https://acoup.blog/2023/04/28/collections-academic-ranks-explained-or-what-on-earth-is-an-adjunct/)
-- Apr 29 - [Internet in a Box](https://internet-in-a-box.org/)
+- Apr 29 - [Encrypted DMs and other DM upgrades rolling out this week](https://twitter.com/elonmusk/status/1652335652187553794)
+- Apr 29 - [The Magic of Rails: exploring the principles and techniques behind the framework](https://speakerdeck.com/eileencodes/the-magic-of-rails)
+- Apr 29 - [Deadly Heat Threatens the Well-Being of 1B People in India](https://www.wired.com/story/extreme-heat-india/)
+- Apr 29 - [Children aged 2-6 successfully trained to acquire absolute pitch (2012)](https://journals.sagepub.com/doi/abs/10.1177/0305735612463948)
+- Apr 29 - [My product is my garden (2020)](https://herman.bearblog.dev/my-product-is-my-garden/)
 <!--END_SECTION:hn-->
 
 <!--
