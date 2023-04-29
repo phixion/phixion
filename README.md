@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 29 - [50% of vinyl buyers don&#x27;t own a record player](https://consequence.net/2023/04/half-vinyl-buyers-record-player-study/)
-- Apr 29 - [Old smartphones should be usable as single board computers, just like this one](https://arstechnica.com/gadgets/2023/04/old-phones-can-be-single-board-computers-as-this-mini-music-server-proves/)
-- Apr 29 - [Scrcpy: Display and control your Android devices connected over USB or TCP&#x2F;IP](https://github.com/Genymobile/scrcpy)
-- Apr 29 - [Live Starlink Satellite and Coverage Map](https://satellitemap.space/)
-- Apr 29 - [Apple Drops Suit Against Ex-Chip Exec Williams Who Started Nuvia](https://www.bloomberg.com/news/articles/2023-04-29/apple-drops-suit-against-ex-chip-exec-williams-who-started-nuvia)
+- Apr 29 - [Ask HN: How is Starlink kept secure?](https://news.ycombinator.com/item?id=35750585)
+- Apr 29 - [Deno 1.33: Deno 2 is coming](https://deno.com/blog/v1.33)
+- Apr 29 - [Academic Ranks Explained or What on Earth Is an Adjunct?](https://acoup.blog/2023/04/28/collections-academic-ranks-explained-or-what-on-earth-is-an-adjunct/)
+- Apr 29 - [Internet in a Box](https://internet-in-a-box.org/)
+- Apr 29 - [Half of vinyl buyers in the U.S. don’t have a record player: study](https://consequence.net/2023/04/half-vinyl-buyers-record-player-study/)
 <!--END_SECTION:hn-->
 
 <!--
