@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 29 - [Encrypted DMs and other DM upgrades rolling out this week](https://twitter.com/elonmusk/status/1652335652187553794)
-- Apr 29 - [The Magic of Rails: exploring the principles and techniques behind the framework](https://speakerdeck.com/eileencodes/the-magic-of-rails)
-- Apr 29 - [Deadly Heat Threatens the Well-Being of 1B People in India](https://www.wired.com/story/extreme-heat-india/)
-- Apr 29 - [Children aged 2-6 successfully trained to acquire absolute pitch (2012)](https://journals.sagepub.com/doi/abs/10.1177/0305735612463948)
-- Apr 29 - [My product is my garden (2020)](https://herman.bearblog.dev/my-product-is-my-garden/)
+- Apr 29 - [The Lifesaving Sled Dog Balto Had Genes Unlike Those of Dog Breeds Today](https://www.scientificamerican.com/article/the-life-saving-sled-dog-balto-had-genes-unlike-dog-breeds-today/)
+- Apr 29 - [The Curious Side Effects of Medical Transparency](https://www.newyorker.com/news/essay/the-curious-side-effects-of-medical-transparency)
+- Apr 29 - [Germany will start one of the most affordable public transit offers in the world](https://twitter.com/BloombergTV/status/1652342136363266055)
+- Apr 29 - [Sensenmann: Code Deletion at Scale](https://testing.googleblog.com/2023/04/sensenmann-code-deletion-at-scale.html)
+- Apr 29 - [Real Interview Recordings to Help Job Seekers](https://news.ycombinator.com/item?id=35755747)
 <!--END_SECTION:hn-->
 
 <!--
