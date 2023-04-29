@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 28 - [Chicken Chicken Chicken: Chicken Chicken [pdf]](https://isotropic.org/papers/chicken.pdf)
-- Apr 28 - [Show HN: I made a retro game archive for Polish games](https://polishpixels.com)
-- Apr 28 - [Runescape gold more valuable than Venezuelan currency (2022)](https://sites.psu.edu/ist110pursel/2022/09/04/15154/)
-- Apr 28 - [There’s more than one way to write an IP address (2019)](https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/)
-- Apr 28 - [Laudspeaker hiring engineer to build open source customer journey software](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
+- Apr 28 - [Parrondo&#x27;s Paradox](https://en.wikipedia.org/wiki/Parrondo%27s_paradox)
+- Apr 28 - [JanOS: Turn your phone into an IoT board (2015)](http://janos.io/)
+- Apr 28 - [Genetic circuitry boosts cell longevity](https://www.science.org/doi/10.1126/science.adh4872)
+- Apr 28 - [Ocean Warming Study So Distressing, Some Scientists Didn&#x27;t Want to Talk About It](https://www.commondreams.org/news/ocean-warming-study)
+- Apr 28 - [Junk drawer phone as a music streaming server](https://davidhampgonsalves.com/junk-drawer-phone-as-a-music-streaming-server/)
 <!--END_SECTION:hn-->
 
 <!--
