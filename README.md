@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 28 - [Parrondo&#x27;s Paradox](https://en.wikipedia.org/wiki/Parrondo%27s_paradox)
-- Apr 28 - [JanOS: Turn your phone into an IoT board (2015)](http://janos.io/)
-- Apr 28 - [Genetic circuitry boosts cell longevity](https://www.science.org/doi/10.1126/science.adh4872)
-- Apr 28 - [Ocean Warming Study So Distressing, Some Scientists Didn&#x27;t Want to Talk About It](https://www.commondreams.org/news/ocean-warming-study)
-- Apr 28 - [Junk drawer phone as a music streaming server](https://davidhampgonsalves.com/junk-drawer-phone-as-a-music-streaming-server/)
+- Apr 29 - [50% of vinyl buyers don&#x27;t own a record player](https://consequence.net/2023/04/half-vinyl-buyers-record-player-study/)
+- Apr 29 - [Old smartphones should be usable as single board computers, just like this one](https://arstechnica.com/gadgets/2023/04/old-phones-can-be-single-board-computers-as-this-mini-music-server-proves/)
+- Apr 29 - [Scrcpy: Display and control your Android devices connected over USB or TCP&#x2F;IP](https://github.com/Genymobile/scrcpy)
+- Apr 29 - [Live Starlink Satellite and Coverage Map](https://satellitemap.space/)
+- Apr 29 - [Apple Drops Suit Against Ex-Chip Exec Williams Who Started Nuvia](https://www.bloomberg.com/news/articles/2023-04-29/apple-drops-suit-against-ex-chip-exec-williams-who-started-nuvia)
 <!--END_SECTION:hn-->
 
 <!--
