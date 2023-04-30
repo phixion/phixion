@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 30 - [MLC-LLM: GPT&#x2F;Llama on consumer-class GPUs and phones](https://github.com/mlc-ai/mlc-llm)
-- Apr 30 - [Tesla ran over worker rights, again, US labor judge finds](https://www.theregister.com/2023/04/28/us_labor_board_tesla/)
-- Apr 30 - [Rebuilding a featured news section with modern CSS: Vox news](https://ishadeed.com/article/rebuild-featured-news-modern-css/)
-- Apr 30 - [Whistleblowers are the conscience of society, yet suffer gravely](https://covertactionmagazine.com/2023/04/25/whistleblowers-are-the-conscience-of-society-yet-suffer-gravely-for-trying-to-hold-the-rich-and-powerful-accountable-for-their-sins/)
-- Apr 30 - [Orbital Mechanics](http://www.braeunig.us/space/orbmech.htm)
+- Apr 30 - [More people are getting away with murder. Unsolved killings reach a record high](https://www.npr.org/2023/04/29/1172775448/people-murder-unsolved-killings-record-high)
+- Apr 30 - [Whisper.cpp v1.4.0](https://github.com/ggerganov/whisper.cpp/releases/tag/v1.4.0)
+- Apr 30 - [Pure Sh Bible](https://github.com/dylanaraps/pure-sh-bible)
+- Apr 30 - [AI has hacked the operating system of human civilisation](https://www.economist.com/by-invitation/2023/04/28/yuval-noah-harari-argues-that-ai-has-hacked-the-operating-system-of-human-civilisation)
+- Apr 30 - [The RISC Wars Part 1: The Cambrian Explosion](https://thechipletter.substack.com/p/the-risc-wars-part-1-the-cambrian-c55)
 <!--END_SECTION:hn-->
 
 <!--
