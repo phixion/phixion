@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 29 - [Revealing example of self-attention, the building block of transformer AI models](https://github.com/jostmey/NakedAttention)
-- Apr 29 - [Awesome Music Theory: books, links, videos, research, visuals, composition](https://github.com/vpavlenko/study-music)
-- Apr 29 - [XTS-210 25hp rotary engine; 1&#x2F;5th size&#x2F;weight of diesel piston engines](https://www.greencarcongress.com/2023/04/liquidpiston-introduces-xts-210-25hp-heavy-fueled-rotary-engine-15th-size-weight-of-current-diesel-p.html)
-- Apr 29 - [The lifesaving sled dog Balto had genes unlike those of dog breeds today](https://www.scientificamerican.com/article/the-life-saving-sled-dog-balto-had-genes-unlike-dog-breeds-today/)
-- Apr 29 - [The curious side effects of medical transparency](https://www.newyorker.com/news/essay/the-curious-side-effects-of-medical-transparency)
+- Apr 30 - [Nix-on-droid: Nix-enabled environment for your Android device (termux-based)](https://github.com/t184256/nix-on-droid)
+- Apr 30 - [Rate The Landlord: Anonymously share information with tenants like you](https://ratethelandlord.org)
+- Apr 30 - [My favorite C compiler flags during development](https://nullprogram.com/blog/2023/04/29/)
+- Apr 30 - [Microsoft quietly supported legislation to make it easier to fix devices](https://grist.org/technology/microsoft-right-to-repair-quietly-supported-legislation-to-make-it-easier-to-fix-devices-heres-why-thats-a-big-deal/)
+- Apr 30 - [Waterloo Style](https://theprogrammersparadox.blogspot.com/2023/04/waterloo-style.html)
 <!--END_SECTION:hn-->
 
 <!--
