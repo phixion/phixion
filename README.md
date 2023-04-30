@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 29 - [The Lifesaving Sled Dog Balto Had Genes Unlike Those of Dog Breeds Today](https://www.scientificamerican.com/article/the-life-saving-sled-dog-balto-had-genes-unlike-dog-breeds-today/)
-- Apr 29 - [The Curious Side Effects of Medical Transparency](https://www.newyorker.com/news/essay/the-curious-side-effects-of-medical-transparency)
-- Apr 29 - [Germany will start one of the most affordable public transit offers in the world](https://twitter.com/BloombergTV/status/1652342136363266055)
-- Apr 29 - [Sensenmann: Code Deletion at Scale](https://testing.googleblog.com/2023/04/sensenmann-code-deletion-at-scale.html)
-- Apr 29 - [Real Interview Recordings to Help Job Seekers](https://news.ycombinator.com/item?id=35755747)
+- Apr 29 - [Revealing example of self-attention, the building block of transformer AI models](https://github.com/jostmey/NakedAttention)
+- Apr 29 - [Awesome Music Theory: books, links, videos, research, visuals, composition](https://github.com/vpavlenko/study-music)
+- Apr 29 - [XTS-210 25hp rotary engine; 1&#x2F;5th size&#x2F;weight of diesel piston engines](https://www.greencarcongress.com/2023/04/liquidpiston-introduces-xts-210-25hp-heavy-fueled-rotary-engine-15th-size-weight-of-current-diesel-p.html)
+- Apr 29 - [The lifesaving sled dog Balto had genes unlike those of dog breeds today](https://www.scientificamerican.com/article/the-life-saving-sled-dog-balto-had-genes-unlike-dog-breeds-today/)
+- Apr 29 - [The curious side effects of medical transparency](https://www.newyorker.com/news/essay/the-curious-side-effects-of-medical-transparency)
 <!--END_SECTION:hn-->
 
 <!--
