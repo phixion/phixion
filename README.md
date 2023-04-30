@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 30 - [SpaceX Rocket Struggled to Self-Destruct as It Spun Out of Control](https://www.nytimes.com/2023/04/29/science/elon-musk-spacex-starship.html)
-- Apr 30 - [A US Bill Would Ban Kids Under 13 from Joining Social Media](https://www.wired.com/story/protecting-kids-social-media-act/)
-- Apr 30 - [Why Are Lithium Prices Collapsing?](https://internationalbanker.com/brokerage/why-are-lithium-prices-collapsing/)
+- Apr 30 - [ESA – Space Debris by the Numbers](https://www.esa.int/Space_Safety/Space_Debris/Space_debris_by_the_numbers)
 - Apr 30 - [Just Simply – Stop saying how simple things are in our docs](https://justsimply.dev/)
 - Apr 30 - [Nix-on-droid: Nix-enabled environment for your Android device (termux-based)](https://github.com/t184256/nix-on-droid)
+- Apr 30 - [Rate The Landlord: Anonymously share information with tenants like you](https://ratethelandlord.org)
+- Apr 30 - [My favorite C compiler flags during development](https://nullprogram.com/blog/2023/04/29/)
 <!--END_SECTION:hn-->
 
 <!--
