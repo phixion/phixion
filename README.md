@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 01 - [“The Dead Silence of Goods”: Annie Ernaux and the Superstore](https://www.theparisreview.org/blog/2023/05/01/the-dead-silence-of-goods-annie-ernaux-and-the-superstore/)
-- May 01 - [Digital Security Tips to Prevent the Cops from Ruining Your Trip Abroad](https://theintercept.com/2023/04/29/phone-laptop-security-international-travel/)
-- May 01 - [Cube.js: Headless Semantic Layer](https://github.com/cube-js/cube)
-- May 01 - [Replika AI: Your Money or Your Wife](https://blog.giovanh.com/blog/2023/03/17/replika-your-money-or-your-wife/#fnref:if)
-- May 01 - [The Ins and Outs of Image Use and Copyright on Midjourney](https://www.attorneyhelp.org/guide/midjourney-image-use-copyright-guide-2220.shtml)
+- May 01 - [Yurt Calculator](https://simplydifferently.org/Yurt_Notes?page=1#Yurt%20Calculator)
+- May 01 - [Apple has just released the first Rapid Security Response for Ventura](https://eclecticlight.co/2023/05/01/apple-has-just-released-the-first-rapid-security-response-for-ventura/)
+- May 01 - [You and Your Research (1986)](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
+- May 01 - [Savings and Loan Crisis 1980–1989](https://www.federalreservehistory.org/essays/savings-and-loan-crisis)
+- May 01 - [A bacterial culprit for rheumatoid arthritis?](https://www.the-scientist.com/news-opinion/a-bacterial-culprit-for-rheumatoid-arthritis-71088)
 <!--END_SECTION:hn-->
 
 <!--
