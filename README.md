@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 30 - [CRISPR-Cas-amplified urinary biomarkers for cancer diagnostics](https://www.nature.com/articles/s41565-023-01372-9)
-- Apr 30 - [Advanced Amiga Architecture (1992)](https://archive.org/details/advanced-amiga-architecture)
-- Apr 30 - [Minetest: An open source voxel game engine](https://www.minetest.net/)
-- Apr 30 - [AI &#x2F; ML &#x2F; LLM &#x2F; Transformer Models Timeline](https://ai.v-gar.de/ml/transformer/timeline/)
-- Apr 30 - [Grokking Simplicity: Taming complex software with functional thinking](https://bagerbach.com/books/grokking-simplicity)
+- May 01 - [Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/abs/2304.15004)
+- May 01 - [This Content Is for Human Consumption Only](https://orbistertius.substack.com/p/refuse-to-be-an-observation)
+- May 01 - [A Mirror for Rust: Compile-Time Reflection Report](https://soasis.org/posts/a-mirror-for-rust-a-plan-for-generic-compile-time-introspection-in-rust/)
+- May 01 - [Xterm: It&#x27;s better than you thought (2021)](https://aduros.com/blog/xterm-its-better-than-you-thought/)
+- May 01 - [Intel to drop the “I” moniker in upcoming CPU rebrand](https://boringtextreviews.com/2023/04/30/intel-to-drop-the-i-moniker-in-upcoming-cpu-rebrand/)
 <!--END_SECTION:hn-->
 
 <!--
