@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 30 - [More people are getting away with murder. Unsolved killings reach a record high](https://www.npr.org/2023/04/29/1172775448/people-murder-unsolved-killings-record-high)
-- Apr 30 - [Whisper.cpp v1.4.0](https://github.com/ggerganov/whisper.cpp/releases/tag/v1.4.0)
-- Apr 30 - [Pure Sh Bible](https://github.com/dylanaraps/pure-sh-bible)
-- Apr 30 - [AI has hacked the operating system of human civilisation](https://www.economist.com/by-invitation/2023/04/28/yuval-noah-harari-argues-that-ai-has-hacked-the-operating-system-of-human-civilisation)
-- Apr 30 - [The RISC Wars Part 1: The Cambrian Explosion](https://thechipletter.substack.com/p/the-risc-wars-part-1-the-cambrian-c55)
+- Apr 30 - [CRISPR-Cas-amplified urinary biomarkers for cancer diagnostics](https://www.nature.com/articles/s41565-023-01372-9)
+- Apr 30 - [Advanced Amiga Architecture (1992)](https://archive.org/details/advanced-amiga-architecture)
+- Apr 30 - [Minetest: An open source voxel game engine](https://www.minetest.net/)
+- Apr 30 - [AI &#x2F; ML &#x2F; LLM &#x2F; Transformer Models Timeline](https://ai.v-gar.de/ml/transformer/timeline/)
+- Apr 30 - [Grokking Simplicity: Taming complex software with functional thinking](https://bagerbach.com/books/grokking-simplicity)
 <!--END_SECTION:hn-->
 
 <!--
