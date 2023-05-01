@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 01 - [Dex Lang: Research language for array processing in the Haskell&#x2F;ML family](https://github.com/google-research/dex-lang)
-- May 01 - [Design a keyboard with Ergogen v4](https://flatfootfox.com/ergogen-introduction/)
-- May 01 - [Are emergent abilities of large language models a mirage?](https://arxiv.org/abs/2304.15004)
-- May 01 - [A Mirror for Rust: Compile-Time Reflection Report](https://soasis.org/posts/a-mirror-for-rust-a-plan-for-generic-compile-time-introspection-in-rust/)
-- May 01 - [A simple and eco-friendly way to make ammonia](https://scitechdaily.com/just-add-water-stanford-researchers-have-discovered-a-simple-and-eco-friendly-way-to-make-ammonia/)
+- May 01 - [Ivy (YC W23) Is Hiring](https://deep-ivy-ltd.breezy.hr/p/ff030eb9f23c01-ml-engineer-intern)
+- May 01 - [I got a job as a Waffle House server that pays $2.92 an hour](https://www.businessinsider.com/what-its-like-to-work-at-waffle-house-2023-4)
+- May 01 - [Ignore Microsoft’s whines about the Activision takeover. The CMA did its job](https://www.theguardian.com/technology/nils-pratley-on-finance/2023/apr/27/ignore-microsoft-whines-activision-blizzard-the-cma-did-its-job)
+- May 01 - [‘The Godfather of A.I.’ Leaves Google and Warns of Danger Ahead](https://www.nytimes.com/2023/05/01/technology/ai-google-chatbot-engineer-quits-hinton.html)
+- May 01 - [First clean water, now clean air](https://finmoorhouse.com/writing/clean-air/)
 <!--END_SECTION:hn-->
 
 <!--
