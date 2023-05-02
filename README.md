@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 02 - [Brain activity of dying people shows signs of near-death experiences](https://www.newscientist.com/article/2371316-brain-activity-of-dying-people-shows-signs-of-near-death-experiences/)
-- May 02 - [Lessons from Isaac Asimov on Taming AI](https://www.bloomberg.com/opinion/articles/2023-05-02/what-is-a-safe-ai-chatbot-anthropic-tries-to-have-its-ai-model-tame-itself)
-- May 02 - [Google Cloud Storage FUSE](https://cloud.google.com/storage/docs/gcs-fuse)
-- May 02 - [Ask HN: Project ideas for a Linux kernel module](https://news.ycombinator.com/item?id=35784514)
-- May 02 - [How to Design Programs 2nd Edition](https://htdp.org/2023-3-6/Book/part_preface.html)
+- May 02 - [Adult-use cannabis delivers $15B in tax revenues](https://www.greenmarketreport.com/adult-use-cannabis-has-delivered-15-billion-in-tax-revenues/)
+- May 02 - [Environmental groups sue the FAA over SpaceX launch from Texas](https://arstechnica.com/science/2023/05/environmental-groups-sue-the-faa-over-spacex-launch-from-texas/)
+- May 02 - [Microsoft Broke a Chrome Feature to Promote Its Edge Browser](https://gizmodo.com/microsoft-windows-google-chrome-feature-broken-edge-1850392901)
+- May 02 - [Anonymous Tor Phone](https://0ut3r.space/2023/05/02/anonymous-tor-phone/)
+- May 02 - [Samsung bans use of A.I. like ChatGPT for employees after misuse of the chatbot](https://www.cnbc.com/2023/05/02/samsung-bans-use-of-ai-like-chatgpt-for-staff-after-misuse-of-chatbot.html)
 <!--END_SECTION:hn-->
 
 <!--
