@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 02 - [Adult-use cannabis delivers $15B in tax revenues](https://www.greenmarketreport.com/adult-use-cannabis-has-delivered-15-billion-in-tax-revenues/)
-- May 02 - [Environmental groups sue the FAA over SpaceX launch from Texas](https://arstechnica.com/science/2023/05/environmental-groups-sue-the-faa-over-spacex-launch-from-texas/)
-- May 02 - [Microsoft Broke a Chrome Feature to Promote Its Edge Browser](https://gizmodo.com/microsoft-windows-google-chrome-feature-broken-edge-1850392901)
-- May 02 - [Anonymous Tor Phone](https://0ut3r.space/2023/05/02/anonymous-tor-phone/)
-- May 02 - [Samsung bans use of A.I. like ChatGPT for employees after misuse of the chatbot](https://www.cnbc.com/2023/05/02/samsung-bans-use-of-ai-like-chatgpt-for-staff-after-misuse-of-chatbot.html)
+- May 02 - [Ask HN: Paychecks from a Failed Startup](https://news.ycombinator.com/item?id=35793187)
+- May 02 - [Did the EU ban JSdelivr and other free CDNs?](https://fariszr.com/en/eu-gdpr-jsdelivr-free-cdn-ban/)
+- May 02 - [AI chatbots used to create dozens of &#x27;news&#x27; content farms](https://www.bloomberg.com/news/articles/2023-05-01/ai-chatbots-have-been-used-to-create-dozens-of-news-content-farms/)
+- May 02 - [‘Star Trek’ Fans Can Now Virtually Tour Every Starship Enterprise Bridge](https://www.smithsonianmag.com/smart-news/star-trek-fans-can-now-virtually-tour-every-starship-enterprise-bridge-180982090/)
+- May 02 - [uBlock Origin 1.49.2 Available as Thunderbird Add-On](https://github.com/gorhill/uBlock/releases/tag/1.49.2)
 <!--END_SECTION:hn-->
 
 <!--
