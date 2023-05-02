@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 02 - [A look back at the Argus C44 rangefinder camera](https://notes.ericjiang.com/posts/1265)
-- May 02 - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
-- May 02 - [Brain activity decoder can reveal stories in people’s minds](https://news.utexas.edu/2023/05/01/brain-activity-decoder-can-reveal-stories-in-peoples-minds/)
-- May 02 - [Show HN: I&#x27;ve built a spectrogram analyzer web app](https://webfft.net/dft/)
-- May 02 - [Grasshopper – An open-source Python library for load testing](https://innovation.alteryx.com/introducing-grasshopper-an-open-source-python-library-for-load-testing/)
+- May 02 - [Is Go an object-oriented programming language?](https://www.sobyte.net/post/2023-03/go-object-oriented/)
+- May 02 - [How to Design Programs 2nd Edition](https://htdp.org/2023-3-6/Book/part_preface.html)
+- May 02 - [Dark Matter Developers: The Unseen 99% (2012)](https://www.hanselman.com/blog/dark-matter-developers-the-unseen-99)
+- May 02 - [Banana Equivalent Dose](https://en.wikipedia.org/wiki/Banana_equivalent_dose)
+- May 02 - [Guidelines for Brutalist Web Design (2018)](https://brutalist-web.design/)
 <!--END_SECTION:hn-->
 
 <!--
