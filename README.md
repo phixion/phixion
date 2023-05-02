@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 02 - [Is Go an object-oriented programming language?](https://www.sobyte.net/post/2023-03/go-object-oriented/)
+- May 02 - [Brain activity of dying people shows signs of near-death experiences](https://www.newscientist.com/article/2371316-brain-activity-of-dying-people-shows-signs-of-near-death-experiences/)
+- May 02 - [Lessons from Isaac Asimov on Taming AI](https://www.bloomberg.com/opinion/articles/2023-05-02/what-is-a-safe-ai-chatbot-anthropic-tries-to-have-its-ai-model-tame-itself)
+- May 02 - [Google Cloud Storage FUSE](https://cloud.google.com/storage/docs/gcs-fuse)
+- May 02 - [Ask HN: Project ideas for a Linux kernel module](https://news.ycombinator.com/item?id=35784514)
 - May 02 - [How to Design Programs 2nd Edition](https://htdp.org/2023-3-6/Book/part_preface.html)
-- May 02 - [Dark Matter Developers: The Unseen 99% (2012)](https://www.hanselman.com/blog/dark-matter-developers-the-unseen-99)
-- May 02 - [Banana Equivalent Dose](https://en.wikipedia.org/wiki/Banana_equivalent_dose)
-- May 02 - [Guidelines for Brutalist Web Design (2018)](https://brutalist-web.design/)
 <!--END_SECTION:hn-->
 
 <!--
