@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 01 - [Chemists tackle the tough challenge of recycling mixed plastics](https://phys.org/news/2023-04-chemists-tackle-tough-recycling-plastics.html)
-- May 01 - [Anthropologist pair solve the mystery of Mayan 819-day count](https://phys.org/news/2023-04-anthropologist-pair-mystery-mayan-day.html)
-- May 01 - [Analog computing and hybrid computing: The view from 1962](https://statmodeling.stat.columbia.edu/2023/05/01/analog-computing-and-hybrid-computing-the-view-from-1962/)
-- May 01 - [Vice is said to be headed for bankruptcy](https://www.nytimes.com/2023/05/01/business/media/vice-bankruptcy.html)
-- May 01 - [The “Location Off” switch on your phone is a lie](https://gabrielsieben.tech/2023/05/01/the-location-off-switch-on-your-phone-is-a-lie/)
+- May 02 - [A look back at the Argus C44 rangefinder camera](https://notes.ericjiang.com/posts/1265)
+- May 02 - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
+- May 02 - [Brain activity decoder can reveal stories in people’s minds](https://news.utexas.edu/2023/05/01/brain-activity-decoder-can-reveal-stories-in-peoples-minds/)
+- May 02 - [Show HN: I&#x27;ve built a spectrogram analyzer web app](https://webfft.net/dft/)
+- May 02 - [Grasshopper – An open-source Python library for load testing](https://innovation.alteryx.com/introducing-grasshopper-an-open-source-python-library-for-load-testing/)
 <!--END_SECTION:hn-->
 
 <!--
