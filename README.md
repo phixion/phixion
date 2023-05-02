@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 01 - [Yurt Calculator](https://simplydifferently.org/Yurt_Notes?page=1#Yurt%20Calculator)
-- May 01 - [Apple has just released the first Rapid Security Response for Ventura](https://eclecticlight.co/2023/05/01/apple-has-just-released-the-first-rapid-security-response-for-ventura/)
-- May 01 - [You and Your Research (1986)](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
-- May 01 - [Savings and Loan Crisis 1980–1989](https://www.federalreservehistory.org/essays/savings-and-loan-crisis)
-- May 01 - [A bacterial culprit for rheumatoid arthritis?](https://www.the-scientist.com/news-opinion/a-bacterial-culprit-for-rheumatoid-arthritis-71088)
+- May 01 - [Chemists tackle the tough challenge of recycling mixed plastics](https://phys.org/news/2023-04-chemists-tackle-tough-recycling-plastics.html)
+- May 01 - [Anthropologist pair solve the mystery of Mayan 819-day count](https://phys.org/news/2023-04-anthropologist-pair-mystery-mayan-day.html)
+- May 01 - [Analog computing and hybrid computing: The view from 1962](https://statmodeling.stat.columbia.edu/2023/05/01/analog-computing-and-hybrid-computing-the-view-from-1962/)
+- May 01 - [Vice is said to be headed for bankruptcy](https://www.nytimes.com/2023/05/01/business/media/vice-bankruptcy.html)
+- May 01 - [The “Location Off” switch on your phone is a lie](https://gabrielsieben.tech/2023/05/01/the-location-off-switch-on-your-phone-is-a-lie/)
 <!--END_SECTION:hn-->
 
 <!--
