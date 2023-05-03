@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 03 - [RIP HTTP](http://http.rip/)
-- May 03 - [Bank Failures Visualized](https://observablehq.com/@mbostock/bank-failures)
-- May 02 - [News Minimalist - Only significant news. All signal, no noise](https://www.newsminimalist.com/)
-- May 02 - [Cardinal&#x2F;WASM: In-Browser Modular Synth Based on VCV Rack](https://cardinal.kx.studio)
-- May 02 - [LLM Hallucinations: why they occur and how to avoid them](https://vectara.com/avoiding-hallucinations-in-llm-powered-applications/)
+- May 03 - [“All Tomorrow’s Parties”: AI Synthesis – The End of Copyright as We Knew It](https://www.heise.de/meinung/All-Tomorrow-s-Parties-AI-Synthesis-The-End-of-Copyright-as-We-Knew-It-8985282.html)
+- May 03 - [OpenLLaMA: An Open Reproduction of LLaMA](https://github.com/openlm-research/open_llama)
+- May 03 - [Americans Gaining Most Weight in Their 20s and 30s: What They Can Do](https://www.healthline.com/health-news/americans-gaining-most-weight-in-their-20s-and-30s-what-they-can-do)
+- May 03 - [Feynman’s Maze-Running Story](https://gwern.net/maze)
+- May 03 - [AI-generated beer commercial contains joyful monstrosities, goes viral](https://arstechnica.com/information-technology/2023/05/ai-generated-beer-commercial-contains-joyful-monstrosities-goes-viral/)
 <!--END_SECTION:hn-->
 
 <!--
