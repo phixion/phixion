@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 03 - [Skio (Subscriptions for Shopify, ReCharge migrations) is hiring](https://skio.com/careers/)
-- May 03 - [I want to talk about WebGPU](https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu)
-- May 03 - [JavaScript import maps are now supported cross-browser](https://web.dev/import-maps-in-all-modern-browsers/)
-- May 03 - [Beware of AI pseudoscience and snake oil](https://www.baldurbjarnason.com/2023/beware-of-ai-snake-oil/)
-- May 03 - [It&#x27;s A(door)able](https://ncase.me/door/)
+- May 03 - [Why “free” street parking could be costing you hundreds more in rent](https://www.washingtonpost.com/climate-environment/2023/05/02/eliminating-parking-minimums-liveable-cities/)
+- May 03 - [The Full Story of Large Language Models and RLHF](https://www.assemblyai.com/blog/the-full-story-of-large-language-models-and-rlhf/)
+- May 03 - [Replit&#x27;s new Code LLM: Open Source, 77% smaller than Codex, trained in 1 week](https://www.latent.space/p/reza-shabani#details)
+- May 03 - [Web3&#x27;s fake version of Web history](https://davekarpf.substack.com/p/web3s-fake-version-of-the-history)
+- May 03 - [Unity to lay off 8% of its workforce](https://www.cnbc.com/2023/05/03/unity-layoffs-company-to-cut-600-employees-or-8percent-of-its-workforce.html)
 <!--END_SECTION:hn-->
 
 <!--
