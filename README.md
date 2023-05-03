@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 02 - [Ask HN: Paychecks from a Failed Startup](https://news.ycombinator.com/item?id=35793187)
-- May 02 - [Did the EU ban JSdelivr and other free CDNs?](https://fariszr.com/en/eu-gdpr-jsdelivr-free-cdn-ban/)
-- May 02 - [AI chatbots used to create dozens of &#x27;news&#x27; content farms](https://www.bloomberg.com/news/articles/2023-05-01/ai-chatbots-have-been-used-to-create-dozens-of-news-content-farms/)
-- May 02 - [‘Star Trek’ Fans Can Now Virtually Tour Every Starship Enterprise Bridge](https://www.smithsonianmag.com/smart-news/star-trek-fans-can-now-virtually-tour-every-starship-enterprise-bridge-180982090/)
-- May 02 - [uBlock Origin 1.49.2 Available as Thunderbird Add-On](https://github.com/gorhill/uBlock/releases/tag/1.49.2)
+- May 02 - [Cardinal&#x2F;WASM: In-Browser Modular Synth Based on VCV Rack](https://cardinal.kx.studio)
+- May 02 - [LLM Hallucinations: why they occur and how to avoid them](https://vectara.com/avoiding-hallucinations-in-llm-powered-applications/)
+- May 02 - [Investigating Linux phantom disk reads](https://questdb.io/blog/investigating-linux-phantom-disk-reads/)
+- May 02 - [African Workers for ChatGPT, TikTok and Facebook Vote to Unionize](https://time.com/6275995/chatgpt-facebook-african-workers-union/)
+- May 02 - [NYPD urges citizens to buy AirTags to fight surge in car thefts](https://arstechnica.com/gadgets/2023/05/nypd-urges-citizens-to-buy-airtags-to-fight-surge-in-car-thefts/)
 <!--END_SECTION:hn-->
 
 <!--
