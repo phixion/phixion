@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 03 - [Why “free” street parking could be costing you hundreds more in rent](https://www.washingtonpost.com/climate-environment/2023/05/02/eliminating-parking-minimums-liveable-cities/)
-- May 03 - [The Full Story of Large Language Models and RLHF](https://www.assemblyai.com/blog/the-full-story-of-large-language-models-and-rlhf/)
-- May 03 - [Replit&#x27;s new Code LLM: Open Source, 77% smaller than Codex, trained in 1 week](https://www.latent.space/p/reza-shabani#details)
-- May 03 - [Web3&#x27;s fake version of Web history](https://davekarpf.substack.com/p/web3s-fake-version-of-the-history)
-- May 03 - [Unity to lay off 8% of its workforce](https://www.cnbc.com/2023/05/03/unity-layoffs-company-to-cut-600-employees-or-8percent-of-its-workforce.html)
+- May 03 - [FDA Approves First Respiratory Syncytial Virus (RSV) Vaccine](https://www.fda.gov/news-events/press-announcements/fda-approves-first-respiratory-syncytial-virus-rsv-vaccine)
+- May 03 - [Graviton 3, Apple M2 and Qualcomm 8cx 3rd gen: a URL parsing benchmark](https://lemire.me/blog/2023/05/03/graviton-3-apple-m2-and-qualcomm-8cx-3rd-gen-a-url-parsing-benchmark/)
+- May 03 - [Is ChatGPT Securities Fraud?](https://www.bloomberg.com/opinion/articles/2023-05-03/is-chatgpt-securities-fraud)
+- May 03 - [Unity lays off 600 staff members, prepares to close half of its offices](https://venturebeat.com/games/unity-lays-off-600-staff-members-prepares-to-close-half-of-its-offices/)
+- May 03 - [Driving Compilers](https://fabiensanglard.net/dc/index.php)
 <!--END_SECTION:hn-->
 
 <!--
