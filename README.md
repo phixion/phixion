@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 03 - [“All Tomorrow’s Parties”: AI Synthesis – The End of Copyright as We Knew It](https://www.heise.de/meinung/All-Tomorrow-s-Parties-AI-Synthesis-The-End-of-Copyright-as-We-Knew-It-8985282.html)
-- May 03 - [OpenLLaMA: An Open Reproduction of LLaMA](https://github.com/openlm-research/open_llama)
-- May 03 - [Americans Gaining Most Weight in Their 20s and 30s: What They Can Do](https://www.healthline.com/health-news/americans-gaining-most-weight-in-their-20s-and-30s-what-they-can-do)
-- May 03 - [Feynman’s Maze-Running Story](https://gwern.net/maze)
-- May 03 - [AI-generated beer commercial contains joyful monstrosities, goes viral](https://arstechnica.com/information-technology/2023/05/ai-generated-beer-commercial-contains-joyful-monstrosities-goes-viral/)
+- May 03 - [Skio (Subscriptions for Shopify, ReCharge migrations) is hiring](https://skio.com/careers/)
+- May 03 - [I want to talk about WebGPU](https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu)
+- May 03 - [JavaScript import maps are now supported cross-browser](https://web.dev/import-maps-in-all-modern-browsers/)
+- May 03 - [Beware of AI pseudoscience and snake oil](https://www.baldurbjarnason.com/2023/beware-of-ai-snake-oil/)
+- May 03 - [It&#x27;s A(door)able](https://ncase.me/door/)
 <!--END_SECTION:hn-->
 
 <!--
