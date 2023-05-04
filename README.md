@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 03 - [FDA Approves First Respiratory Syncytial Virus (RSV) Vaccine](https://www.fda.gov/news-events/press-announcements/fda-approves-first-respiratory-syncytial-virus-rsv-vaccine)
-- May 03 - [Graviton 3, Apple M2 and Qualcomm 8cx 3rd gen: a URL parsing benchmark](https://lemire.me/blog/2023/05/03/graviton-3-apple-m2-and-qualcomm-8cx-3rd-gen-a-url-parsing-benchmark/)
-- May 03 - [Is ChatGPT Securities Fraud?](https://www.bloomberg.com/opinion/articles/2023-05-03/is-chatgpt-securities-fraud)
-- May 03 - [Unity lays off 600 staff members, prepares to close half of its offices](https://venturebeat.com/games/unity-lays-off-600-staff-members-prepares-to-close-half-of-its-offices/)
-- May 03 - [Driving Compilers](https://fabiensanglard.net/dc/index.php)
+- May 03 - [Hacker News Highlights](https://news.ycombinator.com/highlights)
+- May 03 - [Get a Tesla if you want to learn about AI trying to kill you, says Steve Wozniak](https://electrek.co/2023/05/03/tesla-ai-trying-to-kill-you-steve-wozniak/)
+- May 03 - [Enhancements to the Kagi Search Experience](https://blog.kagi.com/search-enhancements)
+- May 03 - [What do historians lose with the decline of local news?](https://www.historytoday.com/archive/head-head/what-do-historians-lose-decline-local-news)
+- May 03 - [TOTP Authentication with Free Software](https://lwn.net/Articles/925870/)
 <!--END_SECTION:hn-->
 
 <!--
