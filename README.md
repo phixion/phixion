@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 04 - [New C features in GCC 13](https://developers.redhat.com/articles/2023/05/04/new-c-features-gcc-13)
+- May 04 - [The “baseline” scene in bladerunner 2049 was written by Ryan Gosling](https://cohost.org/mcc/post/178201-the-baseline-scene)
+- May 04 - [Gitlab and Google Cloud Partner to Expand AI-Assisted Capabilities](https://www.googlecloudpresscorner.com/2023-05-02-GitLab-and-Google-Cloud-Partner-to-Expand-AI-Assisted-Capabilities-with-Customizable-Gen-AI-Foundation-Models)
 - May 04 - [PhotoRoom Is Hiring a Senior Django Engineer in Paris](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- May 04 - [Prime Video Abandons Serverless Distributed Stack for Monolith, saves 90%](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
-- May 04 - [Ryujinx: Experimental Nintendo Switch Emulator written in C#](https://github.com/Ryujinx/Ryujinx)
-- May 04 - [Firesky – The Bluesky Firehose](https://firesky.tv/)
-- May 04 - [Distilling Step-by-Step Outperforming Larger Language Models with Less Training](https://arxiv.org/abs/2305.02301)
+- May 04 - [Scaling up the Prime Video audio&#x2F;video monitoring service and reducing costs](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
 <!--END_SECTION:hn-->
 
 <!--
