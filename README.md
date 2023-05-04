@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 03 - [Hacker News Highlights](https://news.ycombinator.com/highlights)
-- May 03 - [Get a Tesla if you want to learn about AI trying to kill you, says Steve Wozniak](https://electrek.co/2023/05/03/tesla-ai-trying-to-kill-you-steve-wozniak/)
-- May 03 - [Enhancements to the Kagi Search Experience](https://blog.kagi.com/search-enhancements)
-- May 03 - [What do historians lose with the decline of local news?](https://www.historytoday.com/archive/head-head/what-do-historians-lose-decline-local-news)
-- May 03 - [TOTP Authentication with Free Software](https://lwn.net/Articles/925870/)
+- May 04 - [My pay went from $240k to $0](https://mstdn.social/@Devilstower/110299576469326182)
+- May 04 - [UDP transmitter implemented with PIO and DMA on the RP2040](https://vanhunteradams.com/Pico/Ethernet/UPD_TX.html)
+- May 04 - [Somehow AutoHotKey is kinda good now](https://www.hillelwayne.com/post/ahk-v2/)
+- May 04 - [Mojo might be the biggest thing to happen in programming for decades](https://www.fast.ai/posts/2023-05-03-mojo-launch.html)
+- May 04 - [No, the money you spend on lotteries doesn’t go to the park](https://outdoorstatus.com/articles/recreation-gov-lottery-fees/)
 <!--END_SECTION:hn-->
 
 <!--
