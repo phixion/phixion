@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 04 - [My pay went from $240k to $0](https://mstdn.social/@Devilstower/110299576469326182)
-- May 04 - [UDP transmitter implemented with PIO and DMA on the RP2040](https://vanhunteradams.com/Pico/Ethernet/UPD_TX.html)
-- May 04 - [Somehow AutoHotKey is kinda good now](https://www.hillelwayne.com/post/ahk-v2/)
-- May 04 - [Mojo might be the biggest thing to happen in programming for decades](https://www.fast.ai/posts/2023-05-03-mojo-launch.html)
-- May 04 - [No, the money you spend on lotteries doesn’t go to the park](https://outdoorstatus.com/articles/recreation-gov-lottery-fees/)
+- May 04 - [PhotoRoom Is Hiring a Senior Django Engineer in Paris](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- May 04 - [Prime Video Abandons Serverless Distributed Stack for Monolith, saves 90%](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
+- May 04 - [Ryujinx: Experimental Nintendo Switch Emulator written in C#](https://github.com/Ryujinx/Ryujinx)
+- May 04 - [Firesky – The Bluesky Firehose](https://firesky.tv/)
+- May 04 - [Distilling Step-by-Step Outperforming Larger Language Models with Less Training](https://arxiv.org/abs/2305.02301)
 <!--END_SECTION:hn-->
 
 <!--
