@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 05 - [Ask HN: Why are there no traditional language compilers that target the JVM?](https://news.ycombinator.com/item?id=35828100)
-- May 05 - [Build your own private WireGuard VPN with PiVPN](https://www.jeffgeerling.com/blog/2023/build-your-own-private-wireguard-vpn-pivpn)
-- May 05 - [Show HN: Make domain verification as easy as verifying an email or phone number](https://www.domainverification.org)
-- May 05 - [Four of Uranus’ largest moons likely contain an ocean layer](https://www.nasa.gov/feature/jpl/new-study-of-uranus-large-moons-shows-4-may-hold-water/)
-- May 05 - [A New Theory for the Assembly of Life in the Universe](https://www.quantamagazine.org/a-new-theory-for-the-assembly-of-life-in-the-universe-20230504/)
+- May 05 - [Ask not what the compiler can do for you](https://github.com/juspay/hyperswitch/wiki/Ask-not-what-the-compiler-can-do-for-you)
+- May 05 - [Bluesky Showed Everyone’s Ass](https://www.theverge.com/2023/5/2/23708385/bluesky-weather-report-moderation-app-store)
+- May 05 - [Ask HN: If you quit your computer job, which non-computer craft would you pick](https://news.ycombinator.com/item?id=35830399)
+- May 05 - [CRTC considering banning Fox News from Canadian cable packages](https://nationalpost.com/news/politics/crtc-ban-fox-news-canadian-cable)
+- May 05 - [Google engineer jumps to death in NYC, second worker suicide in months](https://nypost.com/2023/05/05/google-senior-software-engineer-31-jumps-to-death-from-nyc-headquarters/)
 <!--END_SECTION:hn-->
 
 <!--
