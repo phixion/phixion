@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 05 - [Memfault (YC W19) Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
-- May 05 - [Paradigms of A.I. Programming: Case Studies in Common Lisp (1991)](https://norvig.github.io/paip-lisp/#/)
-- May 05 - [The EARN IT bill is back. We&#x27;ve killed it twice, let&#x27;s do it again](https://tutanota.com/blog/posts/earn-it-barr-encryption)
-- May 05 - [Arianespace CEO: Europe won&#x27;t have reusable rockets for another decade](https://www.space.com/europe-no-reusable-rocket-until-2030s)
-- May 05 - [The Lost Album of the Beatles review – deeply researched what-ifs](https://www.theguardian.com/books/2023/may/01/the-lost-album-of-the-beatles-review-daniel-rachel-deeply-researched-what-ifs)
+- May 05 - [Ask HN: Why are there no traditional language compilers that target the JVM?](https://news.ycombinator.com/item?id=35828100)
+- May 05 - [Build your own private WireGuard VPN with PiVPN](https://www.jeffgeerling.com/blog/2023/build-your-own-private-wireguard-vpn-pivpn)
+- May 05 - [Show HN: Make domain verification as easy as verifying an email or phone number](https://www.domainverification.org)
+- May 05 - [Four of Uranus’ largest moons likely contain an ocean layer](https://www.nasa.gov/feature/jpl/new-study-of-uranus-large-moons-shows-4-may-hold-water/)
+- May 05 - [A New Theory for the Assembly of Life in the Universe](https://www.quantamagazine.org/a-new-theory-for-the-assembly-of-life-in-the-universe-20230504/)
 <!--END_SECTION:hn-->
 
 <!--
