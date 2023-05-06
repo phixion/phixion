@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 06 - [Coinbase (?) had a $65M Datadog bill per Datadog&#x27;s Q1 earnings call](https://twitter.com/TurnerNovak/status/1654577231937544192/photo/1)
-- May 06 - [Shap-E: Generate 3D objects conditioned on text or images](https://github.com/openai/shap-e)
-- May 06 - [Generally Intelligent (YC S17) Is Hiring Senior Software Engineer (Remote)](https://news.ycombinator.com/item?id=35836933)
-- May 06 - [TikTok tracked users who watched gay content, prompting employee complaints](https://www.wsj.com/articles/tiktok-tracked-users-who-watched-gay-content-prompting-employee-complaints-5966a5f5)
-- May 06 - [JPL Horizons Sending Too Many Emails](https://astronomy.stackexchange.com/questions/53617/jpl-horizons-sending-too-many-emails)
+- May 06 - [Sailing Boat Rescued by the Götheborg](https://www.gotheborg.se/news/rescue-of-sailing-boat/)
+- May 06 - [Upwork removing 5% commission bracket and moving everyone to 10% bracket](https://support.upwork.com/hc/en-us/articles/211062538-Freelancer-Service-Fees)
+- May 06 - [How is it even possible to cheat on a musical performance practical exam?](https://devblogs.microsoft.com/oldnewthing/?p=108122)
+- May 06 - [Open source Background Remover: Remove Background from images and video using AI](https://github.com/nadermx/backgroundremover)
+- May 06 - [Life After Language](https://www.ribbonfarm.com/2023/05/04/life-after-language/)
 <!--END_SECTION:hn-->
 
 <!--
