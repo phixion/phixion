@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 05 - [When “free forever” means “free for the next 4 months”](https://blog.zulip.com/2023/05/04/when-free-forever-is-4-months/)
-- May 05 - [RedPajama (Open LLaMA Replication) 3B and 7B models released](https://www.together.xyz/blog/redpajama-models-v1)
-- May 05 - [Bun (YC S19) Is Hiring C&#x2F;C++&#x2F;Zig engineers to build a JavaScript cloud](https://oven.rippling-ats.com/job/535740/runtime-engineer-zig-or-c-c)
-- May 05 - [eBay’s Fast Billion-Scale Vector Similarity Engine](https://tech.ebayinc.com/engineering/ebays-blazingly-fast-billion-scale-vector-similarity-engine/)
-- May 05 - [At Musk’s brain-chip startup, animal-testing panel is rife with conflicts](https://www.reuters.com/technology/musks-brain-chip-startup-animal-testing-panel-is-rife-with-potential-conflicts-2023-05-04/)
+- May 06 - [Coinbase (?) had a $65M Datadog bill per Datadog&#x27;s Q1 earnings call](https://twitter.com/TurnerNovak/status/1654577231937544192/photo/1)
+- May 06 - [Shap-E: Generate 3D objects conditioned on text or images](https://github.com/openai/shap-e)
+- May 06 - [Generally Intelligent (YC S17) Is Hiring Senior Software Engineer (Remote)](https://news.ycombinator.com/item?id=35836933)
+- May 06 - [TikTok tracked users who watched gay content, prompting employee complaints](https://www.wsj.com/articles/tiktok-tracked-users-who-watched-gay-content-prompting-employee-complaints-5966a5f5)
+- May 06 - [JPL Horizons Sending Too Many Emails](https://astronomy.stackexchange.com/questions/53617/jpl-horizons-sending-too-many-emails)
 <!--END_SECTION:hn-->
 
 <!--
