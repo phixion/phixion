@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 06 - [Sailing Boat Rescued by the Götheborg](https://www.gotheborg.se/news/rescue-of-sailing-boat/)
-- May 06 - [Upwork removing 5% commission bracket and moving everyone to 10% bracket](https://support.upwork.com/hc/en-us/articles/211062538-Freelancer-Service-Fees)
-- May 06 - [How is it even possible to cheat on a musical performance practical exam?](https://devblogs.microsoft.com/oldnewthing/?p=108122)
-- May 06 - [Open source Background Remover: Remove Background from images and video using AI](https://github.com/nadermx/backgroundremover)
-- May 06 - [Life After Language](https://www.ribbonfarm.com/2023/05/04/life-after-language/)
+- May 06 - [Meticulous (YC S21) is hiring founding engineer to build AI for testing](https://news.ycombinator.com/item?id=35840485)
+- May 06 - [How much do you “really” earn creating content on YouTube?](https://blog.bassemdy.com/2023/05/06/content-creation/youtube/experience/growth/monetization/income/revenue/how-much-you-really-make-creating-content.html)
+- May 06 - [Cognitive Decoupling and Banana Phones](https://drossbucket.com/2019/10/23/cognitive-decoupling-and-banana-phones/)
+- May 06 - [Specialist non MD surgeons superior to surgeons at routine surgeries](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2774739)
+- May 06 - [Using ChatGPT to generate a GPT project end-to-end](https://github.com/ixaxaar/VardaGPT/blob/master/STORY.md)
 <!--END_SECTION:hn-->
 
 <!--
