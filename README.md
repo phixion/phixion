@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 06 - [Meticulous (YC S21) is hiring founding engineer to build AI for testing](https://news.ycombinator.com/item?id=35840485)
-- May 06 - [How much do you “really” earn creating content on YouTube?](https://blog.bassemdy.com/2023/05/06/content-creation/youtube/experience/growth/monetization/income/revenue/how-much-you-really-make-creating-content.html)
-- May 06 - [Cognitive Decoupling and Banana Phones](https://drossbucket.com/2019/10/23/cognitive-decoupling-and-banana-phones/)
-- May 06 - [Specialist non MD surgeons superior to surgeons at routine surgeries](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2774739)
-- May 06 - [Using ChatGPT to generate a GPT project end-to-end](https://github.com/ixaxaar/VardaGPT/blob/master/STORY.md)
+- May 06 - [ACM Software System Award Given to seL4 Microkernel](https://awards.acm.org/software-system)
+- May 06 - [The grid isn’t ready for 300M EVs by 2030](https://www.weforum.org/agenda/2023/01/electric-cars-charging-habits)
+- May 06 - [Bruce Schneier’s Plan to Reinvent Democracy](https://www.schneier.com/news/archives/2023/05/bruce-schneiers-plan-to-reinvent-democracy.html)
+- May 06 - [Ocean-surface temperatures are breaking records](https://www.economist.com/graphic-detail/2023/05/05/ocean-surface-temperatures-are-breaking-records)
+- May 06 - [Click Click Click](https://clickclickclick.click/)
 <!--END_SECTION:hn-->
 
 <!--
