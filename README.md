@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 06 - [ACM Software System Award Given to seL4 Microkernel](https://awards.acm.org/software-system)
-- May 06 - [The grid isn’t ready for 300M EVs by 2030](https://www.weforum.org/agenda/2023/01/electric-cars-charging-habits)
-- May 06 - [Bruce Schneier’s Plan to Reinvent Democracy](https://www.schneier.com/news/archives/2023/05/bruce-schneiers-plan-to-reinvent-democracy.html)
-- May 06 - [Ocean-surface temperatures are breaking records](https://www.economist.com/graphic-detail/2023/05/05/ocean-surface-temperatures-are-breaking-records)
-- May 06 - [Click Click Click](https://clickclickclick.click/)
+- May 06 - [Nvidia&#x27;s Crazy New Neural Engine Is Redefining Realism in Graphics](https://www.youtube.com/watch?v=RTWbCuDhC3c)
+- May 06 - [If a PR Says “Artificial Intelligence,” There’s a Good Chance It’s Meaningless](https://slate.com/technology/2023/05/artificial-intelligence-hype-ibm-ftc-twitter-threadbois.html)
+- May 06 - [Progress on running Haiku OS on VisionFive 2 RISC-V dev board](https://discuss.haiku-os.org/t/progress-on-running-haiku-on-visionfive-2/13369?page=2)
+- May 06 - [Language Learning with Netflix](https://languagelearningwithnetflix.com/)
+- May 06 - [The phenomena of inner experience [pdf]](https://hurlburt.faculty.unlv.edu/heavey-hurlburt-2008.pdf)
 <!--END_SECTION:hn-->
 
 <!--
