@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 07 - [OpenAI Sued for Fraud Allegations](https://webapps.sftc.org/captcha/captcha.dll?referrer=https://webapps.sftc.org/ci/CaseInfo.dll?CaseNum=CGC23606176)
-- May 07 - [AI voice scams: 77% of victims lose money](https://9to5mac.com/2023/05/05/ai-voice-scams-how-to-prevent/)
-- May 07 - [Why Lisp?](https://nyxt.atlas.engineer/article/why-lisp.org)
-- May 07 - [The Messy Page Or: why I don&#x27;t like greenfield projects](https://registerspill.thorstenball.com/p/the-messy-page)
-- May 07 - [VW to fire top executives at software unit Cariad, source says](https://www.reuters.com/business/autos-transportation/vw-fire-top-executives-software-unit-cariad-source-says-2023-05-06/)
+- May 07 - [Turbo Rascal Syntax Error](https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/)
+- May 07 - [Passkeys: A Loss of User Control?](https://lapcatsoftware.com/articles/2023/5/1.html)
+- May 07 - [Waking up to Hacker News](https://johnathannader.com/waking-hacker-news/)
+- May 07 - [How to make smaller C and C++ binaries](http://ptspts.blogspot.com/2013/12/how-to-make-smaller-c-and-c-binaries.html)
+- May 07 - [Ask HN: What productivity tools do you use?](https://news.ycombinator.com/item?id=35853576)
 <!--END_SECTION:hn-->
 
 <!--
