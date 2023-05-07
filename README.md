@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 07 - [Liz Holmes Wants You to Forget About Elizabeth](https://www.nytimes.com/2023/05/07/business/elizabeth-holmes-theranos-interview.html)
-- May 07 - [Verisign WILL get .web, ICANN rules](https://domainincite.com/28757-verisign-will-get-web-icann-rules)
-- May 07 - [Burnout](https://drewdevault.com/2023/05/01/2023-05-01-Burnout.html)
-- May 07 - [Google Analytics alternative that protects your data and your customers&#x27; privacy](https://matomo.org/)
-- May 07 - [The tale of &quot;-mrtd&quot; in GCC and Clang](https://m680x0.github.io/blog/2023/05/the-tale-of-mrtd.html)
+- May 07 - [OpenAI Sued for Fraud Allegations](https://webapps.sftc.org/captcha/captcha.dll?referrer=https://webapps.sftc.org/ci/CaseInfo.dll?CaseNum=CGC23606176)
+- May 07 - [AI voice scams: 77% of victims lose money](https://9to5mac.com/2023/05/05/ai-voice-scams-how-to-prevent/)
+- May 07 - [Why Lisp?](https://nyxt.atlas.engineer/article/why-lisp.org)
+- May 07 - [The Messy Page Or: why I don&#x27;t like greenfield projects](https://registerspill.thorstenball.com/p/the-messy-page)
+- May 07 - [VW to fire top executives at software unit Cariad, source says](https://www.reuters.com/business/autos-transportation/vw-fire-top-executives-software-unit-cariad-source-says-2023-05-06/)
 <!--END_SECTION:hn-->
 
 <!--
