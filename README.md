@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 06 - [Biggest industries burn through $7.3T of natural capital a year](https://grist.org/business-technology/none-of-the-worlds-top-industries-would-be-profitable-if-they-paid-for-the-natural-capital-they-use/)
-- May 06 - [The Coggers – history and tragedy of the first US mountain railroad](http://www.northstarmonthly.com/features/the-history-and-tragedy-of-the-first-mountain-railroad-through-the-eyes-of-past-employees/article_ec1814fa-515a-11e9-9de4-7b44d5b8c75e.html)
-- May 06 - [I downloaded all 1.6M posts on Bluesky](https://worthdoingbadly.com/bsky/)
-- May 06 - [Show HN: Mini-spend-tracker – a self-hosted server for tracking your spendings](https://github.com/martinlevesque/mini-spend-tracker)
-- May 06 - [Mailbox.org discovers unencrypted password transmission in myMail](https://mailbox.org/en/post/mailbox-org-discovers-unencrypted-password-transmission-in-mymail)
+- May 07 - [The Businessman and the Fisherman](https://thestorytellers.com/the-businessman-and-the-fisherman/)
+- May 07 - [RedisRaft](https://github.com/RedisLabs/redisraft/blob/master/docs/Introduction.md)
+- May 07 - [Nintendo issues DMCA takedown for Switch homebrew projects](https://gbatemp.net/threads/nintendo-reportedly-issues-dmca-takedown-for-switch-homebrew-projects-skyline-switch-emulator-development-ceased.632406/)
+- May 07 - [Show HN: Git Hooting](https://git.ht)
+- May 07 - [qsort.h – Quicksort as a C macro (2019)](https://github.com/svpv/qsort)
 <!--END_SECTION:hn-->
 
 <!--
