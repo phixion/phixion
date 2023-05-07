@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 06 - [Nvidia&#x27;s Crazy New Neural Engine Is Redefining Realism in Graphics](https://www.youtube.com/watch?v=RTWbCuDhC3c)
-- May 06 - [If a PR Says “Artificial Intelligence,” There’s a Good Chance It’s Meaningless](https://slate.com/technology/2023/05/artificial-intelligence-hype-ibm-ftc-twitter-threadbois.html)
-- May 06 - [Progress on running Haiku OS on VisionFive 2 RISC-V dev board](https://discuss.haiku-os.org/t/progress-on-running-haiku-on-visionfive-2/13369?page=2)
-- May 06 - [Language Learning with Netflix](https://languagelearningwithnetflix.com/)
-- May 06 - [The phenomena of inner experience [pdf]](https://hurlburt.faculty.unlv.edu/heavey-hurlburt-2008.pdf)
+- May 06 - [Biggest industries burn through $7.3T of natural capital a year](https://grist.org/business-technology/none-of-the-worlds-top-industries-would-be-profitable-if-they-paid-for-the-natural-capital-they-use/)
+- May 06 - [The Coggers – history and tragedy of the first US mountain railroad](http://www.northstarmonthly.com/features/the-history-and-tragedy-of-the-first-mountain-railroad-through-the-eyes-of-past-employees/article_ec1814fa-515a-11e9-9de4-7b44d5b8c75e.html)
+- May 06 - [I downloaded all 1.6M posts on Bluesky](https://worthdoingbadly.com/bsky/)
+- May 06 - [Show HN: Mini-spend-tracker – a self-hosted server for tracking your spendings](https://github.com/martinlevesque/mini-spend-tracker)
+- May 06 - [Mailbox.org discovers unencrypted password transmission in myMail](https://mailbox.org/en/post/mailbox-org-discovers-unencrypted-password-transmission-in-mymail)
 <!--END_SECTION:hn-->
 
 <!--
