@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 07 - [Show HN: What do you think about my metasearch engine?](https://svmetasearch.eu.org)
-- May 07 - [Prolog for Data Science](https://emiruz.com/post/2023-04-30-prolog-for-data-science/)
-- May 07 - [Turbo Rascal Syntax Error](https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/)
-- May 07 - [209,779 works in the Public Domain, searchable](https://digital.staatsbibliothek-berlin.de/)
-- May 07 - [Cyberpunk 2077’s Path Tracing Update](https://chipsandcheese.com/2023/05/07/cyberpunk-2077s-path-tracing-update/)
+- May 08 - [You don&#x27;t need Scrum. You just need to do Kanban right (2022)](https://lucasfcosta.com/2022/10/02/scrum-versus-kanban.html)
+- May 08 - [US banking crisis: Warren Buffett says bosses should face ‘punishment’](https://www.theguardian.com/business/2023/may/07/us-banking-crisis-warren-buffett-says-bosses-should-face-punishment)
+- May 08 - [SkyLink – Bluesky DID Detector browser plugin](https://github.com/jessejanderson/skylink)
+- May 08 - [Ancient Earth Globe](https://dinosaurpictures.org/ancient-earth/#470)
+- May 07 - [Inductive charging highway section to be built in Florida](https://www.electrive.com/2023/05/02/inductive-charging-highway-section-to-be-built-in-florida/)
 <!--END_SECTION:hn-->
 
 <!--
