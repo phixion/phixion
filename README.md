@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 08 - [Chile to Nationalize Lithium Industry](https://www.reuters.com/markets/commodities/chiles-boric-announces-plan-nationalize-lithium-industry-2023-04-21/)
-- May 08 - [Defenestrations of Prague](https://en.wikipedia.org/wiki/Defenestrations_of_Prague)
-- May 08 - [The plan to explode a nuclear bomb on the Moon](https://www.bbc.com/future/article/20230505-the-crazy-plan-to-explode-a-nuclear-bomb-on-the-moon)
-- May 08 - [Canada extends copyright protection another 20 years to meet trade obligation](https://www.theglobeandmail.com/canada/article-canada-extends-copyright-protection-another-20-years-to-meet-new-trade/)
-- May 08 - [KeePassXC pull request to add basic support for WebAuthn](https://github.com/keepassxreboot/keepassxc/pull/8825)
+- May 08 - [Intel Announces Layoffs After Paying $1.5B in Q1 Dividends](https://wccftech.com/intel-announces-layoffs-after-paying-1-5-billion-in-q1-dividends/)
+- May 08 - [People are trying to claim real videos are deepfakes. The courts are not amused](https://text.npr.org/1174132413)
+- May 08 - [FBI agents accuse CIA of 9&#x2F;11 coverup](https://www.spytalk.co/p/exclusive-fbi-agents-accuse-cia-of)
+- May 08 - [A startup ushered thousands of Indian women into gig work, for better and worse](https://restofworld.org/2023/urban-company-gig-work-women-india/)
+- May 08 - [Does a USB drive get heavier as you store more files on it?](https://www.sciencefocus.com/future-technology/does-a-usb-drive-get-heavier-as-you-store-more-files-on-it/)
 <!--END_SECTION:hn-->
 
 <!--
