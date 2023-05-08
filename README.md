@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 08 - [Rapamycin: The unlucky history of the most powerful anti-aging drug](https://bigthink.com/health/unlucky-history-rapamycin-anti-aging/)
-- May 08 - [Operation Epsilon](https://en.wikipedia.org/wiki/Operation_Epsilon)
-- May 08 - [You don&#x27;t need Scrum, you just need to do Kanban right (2022)](https://lucasfcosta.com/2022/10/02/scrum-versus-kanban.html)
-- May 08 - [SkyLink – Bluesky DID Detector browser plugin](https://github.com/jessejanderson/skylink)
-- May 08 - [Early Artificial Intelligence Projects: A Student Perspective (2006)](https://projects.csail.mit.edu/films/aifilms/AIFilms.html)
+- May 08 - [Chile to Nationalize Lithium Industry](https://www.reuters.com/markets/commodities/chiles-boric-announces-plan-nationalize-lithium-industry-2023-04-21/)
+- May 08 - [Defenestrations of Prague](https://en.wikipedia.org/wiki/Defenestrations_of_Prague)
+- May 08 - [The plan to explode a nuclear bomb on the Moon](https://www.bbc.com/future/article/20230505-the-crazy-plan-to-explode-a-nuclear-bomb-on-the-moon)
+- May 08 - [Canada extends copyright protection another 20 years to meet trade obligation](https://www.theglobeandmail.com/canada/article-canada-extends-copyright-protection-another-20-years-to-meet-new-trade/)
+- May 08 - [KeePassXC pull request to add basic support for WebAuthn](https://github.com/keepassxreboot/keepassxc/pull/8825)
 <!--END_SECTION:hn-->
 
 <!--
