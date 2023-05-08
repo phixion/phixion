@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 08 - [Intel Announces Layoffs After Paying $1.5B in Q1 Dividends](https://wccftech.com/intel-announces-layoffs-after-paying-1-5-billion-in-q1-dividends/)
-- May 08 - [People are trying to claim real videos are deepfakes. The courts are not amused](https://text.npr.org/1174132413)
-- May 08 - [FBI agents accuse CIA of 9&#x2F;11 coverup](https://www.spytalk.co/p/exclusive-fbi-agents-accuse-cia-of)
-- May 08 - [A startup ushered thousands of Indian women into gig work, for better and worse](https://restofworld.org/2023/urban-company-gig-work-women-india/)
-- May 08 - [Does a USB drive get heavier as you store more files on it?](https://www.sciencefocus.com/future-technology/does-a-usb-drive-get-heavier-as-you-store-more-files-on-it/)
+- May 08 - [Dutch Town Becomes First to Install Bat-Friendly Red LED Street Lights (2018)](https://electronics360.globalspec.com/article/11940/dutch-town-becomes-first-to-install-bat-friendly-red-led-street-lights)
+- May 08 - [Vietnam records highest ever temperature of 44.1C](https://www.theguardian.com/world/2023/may/07/vietnam-records-highest-ever-temperature-of-441c)
+- May 08 - [Last Call to Migrate Mojang Accounts](https://www.minecraft.net/en-us/article/account-migration-last-call)
+- May 08 - [Evidence that the Neanderthals were the first seafarers?](https://www.thearchaeologist.org/blog/long-before-modern-humans-existed-100000-years-ago-neanderthals-built-boats-and-went-sailing)
+- May 08 - [Fundraising Stages](https://incisive.vc/2022/12/23/fundraising-stages-defined-angel-pre-seed-seed-series-a/)
 <!--END_SECTION:hn-->
 
 <!--
