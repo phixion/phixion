@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 08 - [You don&#x27;t need Scrum. You just need to do Kanban right (2022)](https://lucasfcosta.com/2022/10/02/scrum-versus-kanban.html)
-- May 08 - [US banking crisis: Warren Buffett says bosses should face ‘punishment’](https://www.theguardian.com/business/2023/may/07/us-banking-crisis-warren-buffett-says-bosses-should-face-punishment)
+- May 08 - [Rapamycin: The unlucky history of the most powerful anti-aging drug](https://bigthink.com/health/unlucky-history-rapamycin-anti-aging/)
+- May 08 - [Operation Epsilon](https://en.wikipedia.org/wiki/Operation_Epsilon)
+- May 08 - [You don&#x27;t need Scrum, you just need to do Kanban right (2022)](https://lucasfcosta.com/2022/10/02/scrum-versus-kanban.html)
 - May 08 - [SkyLink – Bluesky DID Detector browser plugin](https://github.com/jessejanderson/skylink)
-- May 08 - [Ancient Earth Globe](https://dinosaurpictures.org/ancient-earth/#470)
-- May 07 - [Inductive charging highway section to be built in Florida](https://www.electrive.com/2023/05/02/inductive-charging-highway-section-to-be-built-in-florida/)
+- May 08 - [Early Artificial Intelligence Projects: A Student Perspective (2006)](https://projects.csail.mit.edu/films/aifilms/AIFilms.html)
 <!--END_SECTION:hn-->
 
 <!--
