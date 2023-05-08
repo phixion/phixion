@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 07 - [Show HN: What do you think about my metasearch engine?](https://svmetasearch.eu.org)
+- May 07 - [Prolog for Data Science](https://emiruz.com/post/2023-04-30-prolog-for-data-science/)
 - May 07 - [Turbo Rascal Syntax Error](https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/)
-- May 07 - [Passkeys: A Loss of User Control?](https://lapcatsoftware.com/articles/2023/5/1.html)
-- May 07 - [Waking up to Hacker News](https://johnathannader.com/waking-hacker-news/)
-- May 07 - [How to make smaller C and C++ binaries](http://ptspts.blogspot.com/2013/12/how-to-make-smaller-c-and-c-binaries.html)
-- May 07 - [Ask HN: What productivity tools do you use?](https://news.ycombinator.com/item?id=35853576)
+- May 07 - [209,779 works in the Public Domain, searchable](https://digital.staatsbibliothek-berlin.de/)
+- May 07 - [Cyberpunk 2077’s Path Tracing Update](https://chipsandcheese.com/2023/05/07/cyberpunk-2077s-path-tracing-update/)
 <!--END_SECTION:hn-->
 
 <!--
