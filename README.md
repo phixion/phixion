@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 09 - [OpenAI CEO Sam Altman says the remote work ‘experiment’ was a mistake](https://finance.yahoo.com/news/openai-ceo-sam-altman-says-221213949.html)
-- May 09 - [GitHub incident: ongoing issues with Actions, Issues and other Git operations](https://www.githubstatus.com/incidents/f0mhbz9xn497)
-- May 09 - [Sexual abuse tip-off site could be sharing data with Facebook](https://sverigesradio.se/artikel/sexual-abuse-tip-off-site-could-be-sharing-data-with-facebook)
-- May 09 - [Where Did Personal Computing Go Wrong (2020)](http://mmcthrow-musings.blogspot.com/2020/10/where-did-personal-computing-go-wrong.html)
-- May 09 - [UN Human Rights Chief Urges UK to Reverse ‘Deeply Troubling’ Public Order Bill](https://www.ohchr.org/en/press-releases/2023/04/un-human-rights-chief-urges-uk-reverse-deeply-troubling-public-order-bill)
+- May 09 - [Meta open-sources multisensory AI model that combines six types of data](https://www.theverge.com/2023/5/9/23716558/meta-imagebind-open-source-multisensory-modal-ai-model-research)
+- May 09 - [Reduced cancer mortality with daily Vitamin D intake](https://www.dkfz.de/en/presse/pressemitteilungen/2023/dkfz-pm-23-27-Reduced-cancer-mortality-with-daily-vitamin-D-intake.php)
+- May 09 - [Ex-Apple VP Mike Abbott Joins General Motors as Exec Vice President, Software](https://investor.gm.com/news-releases/news-release-details/tech-industry-innovator-mike-abbott-joins-general-motors/)
+- May 09 - [Second massive “blue hole” found, 270 metres deep](https://www.popularmechanics.com/science/environment/a43699012/massive-blue-hole-mexico-new-lifeforms/)
+- May 09 - [James Webb Space Telescope Reveals Fomalhaut&#x27;s Disk in Unprecedented Detail](https://skyandtelescope.org/astronomy-news/the-james-webb-space-telescope-reveals-fomalhauts-disk-in-unprecedented-detail/)
 <!--END_SECTION:hn-->
 
 <!--
