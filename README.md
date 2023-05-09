@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 09 - [Kchat: Persistent group chat in &lt;50 lines using kdb+&#x2F;k&#x2F;q web sockets, JavaScript](https://github.com/srpeck/kchat)
-- May 09 - [Constitutional AI: RLHF on Steroids](https://astralcodexten.substack.com/p/constitutional-ai-rlhf-on-steroids)
-- May 09 - [Learning DNS in 10 Years](https://jvns.ca/blog/2023/05/08/new-talk-learning-dns-in-10-years/)
-- May 09 - [Google keeps failing its Nest customers](https://9to5google.com/2023/05/07/google-failing-nest/)
-- May 09 - [Acceptance Address by Mr. Aleksandr Solzhenitsyn (1983)](https://www.templetonprize.org/laureate-sub/solzhenitsyn-acceptance-speech/)
+- May 09 - [OpenAI CEO Sam Altman says the remote work ‘experiment’ was a mistake](https://finance.yahoo.com/news/openai-ceo-sam-altman-says-221213949.html)
+- May 09 - [GitHub incident: ongoing issues with Actions, Issues and other Git operations](https://www.githubstatus.com/incidents/f0mhbz9xn497)
+- May 09 - [Sexual abuse tip-off site could be sharing data with Facebook](https://sverigesradio.se/artikel/sexual-abuse-tip-off-site-could-be-sharing-data-with-facebook)
+- May 09 - [Where Did Personal Computing Go Wrong (2020)](http://mmcthrow-musings.blogspot.com/2020/10/where-did-personal-computing-go-wrong.html)
+- May 09 - [UN Human Rights Chief Urges UK to Reverse ‘Deeply Troubling’ Public Order Bill](https://www.ohchr.org/en/press-releases/2023/04/un-human-rights-chief-urges-uk-reverse-deeply-troubling-public-order-bill)
 <!--END_SECTION:hn-->
 
 <!--
