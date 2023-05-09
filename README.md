@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 08 - [Dutch Town Becomes First to Install Bat-Friendly Red LED Street Lights (2018)](https://electronics360.globalspec.com/article/11940/dutch-town-becomes-first-to-install-bat-friendly-red-led-street-lights)
-- May 08 - [Vietnam records highest ever temperature of 44.1C](https://www.theguardian.com/world/2023/may/07/vietnam-records-highest-ever-temperature-of-441c)
-- May 08 - [Last Call to Migrate Mojang Accounts](https://www.minecraft.net/en-us/article/account-migration-last-call)
-- May 08 - [Evidence that the Neanderthals were the first seafarers?](https://www.thearchaeologist.org/blog/long-before-modern-humans-existed-100000-years-ago-neanderthals-built-boats-and-went-sailing)
-- May 08 - [Fundraising Stages](https://incisive.vc/2022/12/23/fundraising-stages-defined-angel-pre-seed-seed-series-a/)
+- May 08 - [LLMs are not greater than the sum of their parts: Stanford researchers](https://hai.stanford.edu/news/ais-ostensible-emergent-abilities-are-mirage)
+- May 08 - [Ancient Greek Terms Worth Reviving](https://classicalwisdom.substack.com/p/12-ancient-greek-terms-that-should)
+- May 08 - [Cantonese Font with Pronunciation](https://visual-fonts.com/)
+- May 08 - [Codon: Python Compiler](https://www.usenix.org/publications/loginonline/codon-python-compiler#Rik%20Farrow)
+- May 08 - [1-Bit Hokusai’s ”The Great Wave”](https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/)
 <!--END_SECTION:hn-->
 
 <!--
