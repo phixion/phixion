@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 09 - [432-Core RISC-V European Processor Designed for Use in Space Taped Out](https://www.hpcwire.com/2023/05/08/european-processor-designed-for-use-in-space-taped-out/)
-- May 09 - [Christopher Columbus Never Set Out to Prove the Earth Was Round](https://www.history.com/news/christopher-columbus-never-set-out-to-prove-the-earth-was-round)
-- May 09 - [The rise of ChatGPT-enabled GitHub spam](https://mastodon.social/@danluu/110335983520055904)
-- May 09 - [“Tinder for Canceling Meetings”](https://meetcala.com/)
-- May 08 - [Unlighthouse: Like Lighthouse, but it scans every single page](https://unlighthouse.dev)
+- May 09 - [Kchat: Persistent group chat in &lt;50 lines using kdb+&#x2F;k&#x2F;q web sockets, JavaScript](https://github.com/srpeck/kchat)
+- May 09 - [Constitutional AI: RLHF on Steroids](https://astralcodexten.substack.com/p/constitutional-ai-rlhf-on-steroids)
+- May 09 - [Learning DNS in 10 Years](https://jvns.ca/blog/2023/05/08/new-talk-learning-dns-in-10-years/)
+- May 09 - [Google keeps failing its Nest customers](https://9to5google.com/2023/05/07/google-failing-nest/)
+- May 09 - [Acceptance Address by Mr. Aleksandr Solzhenitsyn (1983)](https://www.templetonprize.org/laureate-sub/solzhenitsyn-acceptance-speech/)
 <!--END_SECTION:hn-->
 
 <!--
