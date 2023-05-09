@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 08 - [LLMs are not greater than the sum of their parts: Stanford researchers](https://hai.stanford.edu/news/ais-ostensible-emergent-abilities-are-mirage)
-- May 08 - [Ancient Greek Terms Worth Reviving](https://classicalwisdom.substack.com/p/12-ancient-greek-terms-that-should)
-- May 08 - [Cantonese Font with Pronunciation](https://visual-fonts.com/)
-- May 08 - [Codon: Python Compiler](https://www.usenix.org/publications/loginonline/codon-python-compiler#Rik%20Farrow)
-- May 08 - [1-Bit Hokusai’s ”The Great Wave”](https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/)
+- May 09 - [432-Core RISC-V European Processor Designed for Use in Space Taped Out](https://www.hpcwire.com/2023/05/08/european-processor-designed-for-use-in-space-taped-out/)
+- May 09 - [Christopher Columbus Never Set Out to Prove the Earth Was Round](https://www.history.com/news/christopher-columbus-never-set-out-to-prove-the-earth-was-round)
+- May 09 - [The rise of ChatGPT-enabled GitHub spam](https://mastodon.social/@danluu/110335983520055904)
+- May 09 - [“Tinder for Canceling Meetings”](https://meetcala.com/)
+- May 08 - [Unlighthouse: Like Lighthouse, but it scans every single page](https://unlighthouse.dev)
 <!--END_SECTION:hn-->
 
 <!--
