@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 10 - [The Leverage of LLMs for Individuals](https://mazzzystar.github.io/2023/05/10/LLM-for-individual/)
-- May 10 - [Running a Movie Theater Is More Expensive Than You Can Possibly Imagine](https://www.indiewire.com/features/general/how-much-does-it-cost-to-run-movie-theater-1234859340/)
-- May 10 - [IPyflow: Reactive Python Notebooks in Jupyter(Lab)](https://github.com/ipyflow/ipyflow)
-- May 10 - [Dynamic Branch Prediction with Perceptrons [pdf]](https://www.cs.cmu.edu/afs/cs/academic/class/15740-f18/www/papers/hpca01-jiminez-perceptron.pdf)
-- May 10 - [50 years in filesystems: 1984 BSD FFS](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html)
+- May 10 - [Why I&#x27;m done with Mouser Electronics](https://lcamtuf.substack.com/p/why-im-done-with-mouser-electronics)
+- May 10 - [PaLM 2 Technical Report [pdf]](https://ai.google/static/documents/palm2techreport.pdf)
+- May 10 - [Psychoactive substance use by professional programmers](https://arxiv.org/abs/2305.01056)
+- May 10 - [TS to JSDoc Conversion](https://github.com/sveltejs/svelte/pull/8569)
+- May 10 - [Google&#x27;s Latest Experiments in Labs](https://labs.withgoogle.com/)
 <!--END_SECTION:hn-->
 
 <!--
