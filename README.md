@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 09 - [In Erlang&#x2F;OTP 27, +0.0 will no longer be equal to -0.0](https://erlangforums.com/t/in-erlang-otp-27-0-0-will-no-longer-be-exactly-equal-to-0-0/2586)
-- May 09 - [Show HN: Card game where players write their own cards that get parsed into code](https://app.wordbots.io/)
-- May 09 - [Syncthing: A continuous file synchronization program](https://syncthing.net/)
-- May 09 - [Chaos Communication Camp 2023 – Call for Participation](https://events.ccc.de/2023/05/09/camp23-call-for-participation/)
-- May 09 - [Is sequential IO dead in the era of the NVMe drive?](https://jack-vanlightly.com/blog/2023/5/9/is-sequential-io-dead-in-the-era-of-the-nvme-drive)
+- May 10 - [Show HN: Build progressively enhanced reactive HTML apps using Go and Alpine.js](https://livefir.fly.dev/)
+- May 09 - [Internet disrupted in Pakistan amid arrest of former PM Imran Khan](https://netblocks.org/reports/internet-disrupted-in-pakistan-amid-arrest-of-former-pm-imran-khan-JA6RmrAQ)
+- May 09 - [File Locks on Linux](https://utcc.utoronto.ca/~cks/space/blog/linux/FlockFcntlAndNFS)
+- May 09 - [Electrical Characteristics of Telephone Lines (2023)](https://computer.rip/2023-05-07-electrical-characteristics-of-telephone-lines.html)
+- May 09 - [The last days of a 350-year-old family farm](https://www.smithsonianmag.com/arts-culture/these-intimate-photos-capture-a-family-farms-bittersweet-final-years-180982139/)
 <!--END_SECTION:hn-->
 
 <!--
