@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 10 - [A TLS 1.3 Stack Written in Visual Basic 6](https://github.com/wqweto/VbAsyncSocket/blob/master/src/mdTlsThunks.bas)
-- May 10 - [Freakwan: A MicroPython driver for the SX1276 LoRa chip](https://github.com/antirez/freakwan)
-- May 10 - [Tempus Nectit Knitting Clock](http://kylerank.in/tempus_nectit/)
-- May 10 - [Show HN: Build progressively enhanced reactive HTML apps using Go and Alpine.js](https://livefir.fly.dev/)
-- May 09 - [Internet disrupted in Pakistan amid arrest of former PM Imran Khan](https://netblocks.org/reports/internet-disrupted-in-pakistan-amid-arrest-of-former-pm-imran-khan-JA6RmrAQ)
+- May 10 - [50 years in filesystems: 1984 BSD FFS](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html)
+- May 10 - [See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/)
+- May 10 - [Punctuation Personified (1824)](https://publicdomainreview.org/collection/punctuation-personified)
+- May 10 - [Julia 1.9 Highlights](https://julialang.org/blog/2023/04/julia-1.9-highlights/)
+- May 10 - [Random bit-flip invalidates certificate transparency log – again?](https://groups.google.com/a/chromium.org/g/ct-policy/c/S17_j-WJ6dI)
 <!--END_SECTION:hn-->
 
 <!--
