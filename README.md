@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 10 - [The “Y” logo in the top-left corner has been upgraded to SVG](https://news.ycombinator.com/y18.svg)
-- May 10 - [Expensive energy may have killed more Europeans than Covid-19 last winter](https://www.economist.com/graphic-detail/2023/05/10/expensive-energy-may-have-killed-more-europeans-than-covid-19-last-winter)
-- May 10 - [Heather Armstrong has died](https://www.nytimes.com/2023/05/10/us/heather-armstrong-dead.html)
-- May 10 - [Creatures That Don’t Conform](https://emergencemagazine.org/essay/creatures-that-dont-conform/)
-- May 10 - [Google I&#x2F;O: Big changes coming for SEOs with ubiquitous AI](https://www.demandsphere.com/blog/google-i-o-big-changes-coming-for-seos-with-ubiquitous-ai/)
+- May 11 - [GitHub push protection is free for all public repositories](https://github.blog/2023-05-09-push-protection-is-generally-available-and-free-for-all-public-repositories/)
+- May 11 - [A Backup of Historical Proportions](https://computerhistory.org/blog/a-backup-of-historical-proportions/)
+- May 11 - [Go with PHP](https://gowithphp.com/)
+- May 11 - [Microsoft Workers Won&#x27;t Get Annual Pay Bump Despite $18.3B in Profit](https://www.gamespot.com/articles/microsoft-workers-wont-get-annual-pay-bump-despite-18-3-billion-in-profit-in-past-3-months/1100-6513990/)
+- May 11 - [Sorry Purism, I’m not investing. It’s not even legal](https://gabrielsieben.tech/2023/05/10/sorry-purism-im-not-investing-its-not-even-legal/)
 <!--END_SECTION:hn-->
 
 <!--
