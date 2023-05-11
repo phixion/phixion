@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 11 - [GitHub push protection is free for all public repositories](https://github.blog/2023-05-09-push-protection-is-generally-available-and-free-for-all-public-repositories/)
-- May 11 - [A Backup of Historical Proportions](https://computerhistory.org/blog/a-backup-of-historical-proportions/)
+- May 11 - [The Xerox PARC Archive](https://info.computerhistory.org/xerox-parc-archive)
+- May 11 - [Startups Are Scooping Up Big Tech’s Cast-Off Workers](https://www.wsj.com/articles/startups-are-scooping-up-big-techs-cast-off-workers-981f7d35)
 - May 11 - [Go with PHP](https://gowithphp.com/)
-- May 11 - [Microsoft Workers Won&#x27;t Get Annual Pay Bump Despite $18.3B in Profit](https://www.gamespot.com/articles/microsoft-workers-wont-get-annual-pay-bump-despite-18-3-billion-in-profit-in-past-3-months/1100-6513990/)
-- May 11 - [Sorry Purism, I’m not investing. It’s not even legal](https://gabrielsieben.tech/2023/05/10/sorry-purism-im-not-investing-its-not-even-legal/)
+- May 11 - [Windows 11 in Svelte](https://github.com/yashash-pugalia/win11-svelte)
+- May 11 - [The Backbone: A History of the Internet](https://technicshistory.com/the-backbone/)
 <!--END_SECTION:hn-->
 
 <!--
