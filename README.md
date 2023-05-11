@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 11 - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
+- May 11 - [Show HN: BundleStore – increase revenue by offering your product in a bundle](https://bundlestore.airballoon.app/)
+- May 11 - [Bcachefs – A New COW Filesystem](https://lore.kernel.org/lkml/20230509165657.1735798-1-kent.overstreet@linux.dev/T/#mf171fd06ffa420fe1bcf0f49a2b44a361ca6ac44)
 - May 11 - [The Xerox PARC Archive](https://info.computerhistory.org/xerox-parc-archive)
-- May 11 - [Startups Are Scooping Up Big Tech’s Cast-Off Workers](https://www.wsj.com/articles/startups-are-scooping-up-big-techs-cast-off-workers-981f7d35)
 - May 11 - [Go with PHP](https://gowithphp.com/)
-- May 11 - [Windows 11 in Svelte](https://github.com/yashash-pugalia/win11-svelte)
-- May 11 - [The Backbone: A History of the Internet](https://technicshistory.com/the-backbone/)
 <!--END_SECTION:hn-->
 
 <!--
