@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 11 - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
-- May 11 - [Show HN: BundleStore – increase revenue by offering your product in a bundle](https://bundlestore.airballoon.app/)
-- May 11 - [Bcachefs – A New COW Filesystem](https://lore.kernel.org/lkml/20230509165657.1735798-1-kent.overstreet@linux.dev/T/#mf171fd06ffa420fe1bcf0f49a2b44a361ca6ac44)
-- May 11 - [The Xerox PARC Archive](https://info.computerhistory.org/xerox-parc-archive)
-- May 11 - [Go with PHP](https://gowithphp.com/)
+- May 11 - [System76: May Flowers Spring Cosmic Showers](https://blog.system76.com/post/may-flowers-spring-cosmic-showers/)
+- May 11 - [Automating the capture of airplane pictures with Raspberry Pi, ADS-B, IoT (2019)](https://medium.com/@arunvenkats/automating-the-capture-of-airplane-pictures-with-raspberry-pis-ads-b-and-iot-software-39e25ddcf3ea)
+- May 11 - [Electronics Lab Bench Setup Guide](https://badar.tech/2023/04/30/electronics-lab-bench-setup-guide/)
+- May 11 - [Turkish presidential candidate quits race after release of alleged sex tape](https://www.theguardian.com/world/2023/may/11/muharrem-ince-turkish-presidential-candidate-withdraws-alleged-sex-tape)
+- May 11 - [Faster CPython at PyCon, part one](https://lwn.net/SubscriberLink/930705/4bbe9c26d7884277/)
 <!--END_SECTION:hn-->
 
 <!--
