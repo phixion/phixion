@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 12 - [Extreme Multi-Threading: C++ and Julia 1.9 Integration](https://scientificcoder.com/extreme-multi-threading-c-and-julia-19-integration)
-- May 12 - [The Legend of Zelda: Tears of the Kingdom Release](https://www.zelda.com/tears-of-the-kingdom/)
-- May 12 - [FUTO – An independent software lab and grant fund](https://futo.org/)
-- May 12 - [What happened after I left my software engineering career (2022)](https://thewebivore.com/what-happened-next/)
-- May 12 - [How to do distributed locking (2016)](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
+- May 12 - [Kalshi (YC W19) Is Hiring](https://news.ycombinator.com/item?id=35914929)
+- May 12 - [The EU AI act is coming, this time for real probably](https://wolfhf.medium.com/the-eu-ai-act-is-coming-this-time-for-real-probably-df31ad8c451f)
+- May 12 - [Google Bard blocks all European Union countries](https://9to5google.com/2023/05/11/google-bard-european-union/)
+- May 12 - [Ask HN: Where to Feature Startup on Spanish, Portuguese, German, French?](https://news.ycombinator.com/item?id=35914473)
+- May 12 - [Pigz: Parallel gzip for modern multi-processor, multi-core machines](https://zlib.net/pigz/)
 <!--END_SECTION:hn-->
 
 <!--
