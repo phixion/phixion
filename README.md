@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 12 - [U.S. Focuses on Invigorating Chiplets&#x27; to Stay Cuting- Edge in Tech](https://www.nytimes.com/2023/05/11/technology/us-chiplets-tech.html)
-- May 12 - [.zip is now available as a TLD](https://twitter.com/Google/status/1653866291692728320)
-- May 12 - [Narrative over Numbers: Andreessen Horowitz&#x27;s State of Crypto Report](https://newsletter.mollywhite.net/p/andreessen-horowitzs-state-of-crypto)
-- May 12 - [Things You Can Do with KDE Connect on Linux](https://www.makeuseof.com/things-you-can-do-with-kde-connect-on-linux/)
-- May 12 - [A CIA Officer&#x27;s Murder Was Used to Silence the Agency’s Greatest Critic](https://theintercept.com/2023/05/09/cia-frank-church-richard-welch-book/)
+- May 12 - [Hyper – A fast and correct HTTP implementation for Rust](https://crates.io/crates/hyper)
+- May 12 - [The .zip TLD sucks and it needs to be immediately revoked](https://financialstatement.zip/)
+- May 12 - [Morris Tanenbaum, Inventor of the Silicon Microchip, Dies at 94](https://spectrum.ieee.org/in-memoriam-may-2023)
+- May 12 - [Windmill: Open-source developer platform to turn scripts into workflows and UIs](https://github.com/windmill-labs/windmill)
+- May 12 - [Faster CPython at PyCon, part two](https://lwn.net/SubscriberLink/931197/56e7c3d8a352d8bc/)
 <!--END_SECTION:hn-->
 
 <!--
