@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 11 - [A Life of One’s Own: Marion Milner (2017)](https://www.themarginalian.org/2017/10/11/a-life-of-ones-own-joanna-field-marion-milner/)
-- May 11 - [A rarely mentioned benefit of YC is Work At A Startup](https://twitter.com/collinjpham/status/1656078482407927809)
-- May 11 - [Hobson&#x27;s Choice](https://en.wikipedia.org/wiki/Hobson%27s_choice)
-- May 11 - [Ibramenu: Bash-based Self-hosted App Deployment](https://github.com/ibracorp/ibramenu)
-- May 11 - [TP–7 Field Recorder](https://teenage.engineering/products/tp-7)
+- May 11 - [M5.4 Earthquake – Northern California](https://earthquake.usgs.gov/earthquakes/eventpage/nc73886731)
+- May 11 - [Forgetful Browsing](https://brave.com/privacy-updates/25-forgetful-browsing/)
+- May 11 - [Proposal: Less error-prone loop variable scoping](https://github.com/golang/go/issues/60078)
+- May 11 - [Drug shortages have worsened and may only increase in the future, experts say](https://www.cidrap.umn.edu/resilient-drug-supply/drug-shortages-have-worsened-and-may-only-increase-future-experts-say)
+- May 11 - [One Day You&#x27;ll Find Yourself](https://www.onedayyoullfindyourself.com)
 <!--END_SECTION:hn-->
 
 <!--
