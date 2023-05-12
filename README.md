@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 12 - [Kalshi (YC W19) Is Hiring](https://news.ycombinator.com/item?id=35914929)
-- May 12 - [The EU AI act is coming, this time for real probably](https://wolfhf.medium.com/the-eu-ai-act-is-coming-this-time-for-real-probably-df31ad8c451f)
-- May 12 - [Google Bard blocks all European Union countries](https://9to5google.com/2023/05/11/google-bard-european-union/)
-- May 12 - [Ask HN: Where to Feature Startup on Spanish, Portuguese, German, French?](https://news.ycombinator.com/item?id=35914473)
-- May 12 - [Pigz: Parallel gzip for modern multi-processor, multi-core machines](https://zlib.net/pigz/)
+- May 12 - [U.S. Focuses on Invigorating Chiplets&#x27; to Stay Cuting- Edge in Tech](https://www.nytimes.com/2023/05/11/technology/us-chiplets-tech.html)
+- May 12 - [.zip is now available as a TLD](https://twitter.com/Google/status/1653866291692728320)
+- May 12 - [Narrative over Numbers: Andreessen Horowitz&#x27;s State of Crypto Report](https://newsletter.mollywhite.net/p/andreessen-horowitzs-state-of-crypto)
+- May 12 - [Things You Can Do with KDE Connect on Linux](https://www.makeuseof.com/things-you-can-do-with-kde-connect-on-linux/)
+- May 12 - [A CIA Officer&#x27;s Murder Was Used to Silence the Agency’s Greatest Critic](https://theintercept.com/2023/05/09/cia-frank-church-richard-welch-book/)
 <!--END_SECTION:hn-->
 
 <!--
