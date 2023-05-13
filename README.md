@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 13 - [Bot or Human? Detecting ChatGPT Imposters with a Single Question](https://arxiv.org/abs/2305.06424)
-- May 13 - [Ligatures in programming fonts: hell no](https://practicaltypography.com/ligatures-in-programming-fonts-hell-no.html)
-- May 13 - [Recreating the sounds of the BBC Radiophonic Workshop](https://webaudio.prototyping.bbc.co.uk/)
-- May 13 - [Intel One Mono Typeface](https://github.com/intel/intel-one-mono)
-- May 13 - [I stopped worrying and learned to love denormalized tables](https://glean.io/blog-posts/why-i-stopped-worrying-and-learned-to-love-denormalized-tables)
+- May 13 - [Laudspeaker hiring engineer to build open source customer journey software](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
+- May 13 - [How to lose your work using Undo Copy in Windows](https://mihai.fm/how-to-lose-your-work-using-undo-copy-in-windows/)
+- May 13 - [V](https://www.imdb.com/title/tt0086823/)
+- May 13 - [50 Chat GPT Prompts Every Software Developer Should Know (Tested)](https://blog.hackertab.dev/50-chat-gpt-prompts-every-software-developer-should-know-tested)
+- May 13 - [IBM sued for age discrimination by former global software director](https://www.theregister.com/2023/05/13/kyndryl_ibm_sued_discrimination/)
 <!--END_SECTION:hn-->
 
 <!--
