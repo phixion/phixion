@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 12 - [Language models still struggle with the concept of negation](https://www.quantamagazine.org/ai-like-chatgpt-are-no-good-at-not-20230512/)
-- May 12 - [Seinfeld Scripts – Full scripts of all 180 Seinfeld episodes](https://www.seinfeldscripts.com/seinfeld-scripts.html)
-- May 12 - [Greater than 90% chance of El Niño persisting into Northern Hemisphere winter](https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml)
-- May 12 - [CI&#x2F;CD with KiCad and Gitlab](https://sschueller.github.io/posts/ci-cd-with-kicad-and-gitlab/)
-- May 12 - [The SGI XFS Filesystem](https://blog.koehntopp.info/2023/05/12/50-years-in-filesystems-1994.html)
+- May 13 - [Intel One Mono Typeface](https://github.com/intel/intel-one-mono)
+- May 13 - [Microsoft Employees Are Hooked on the Company’s Training Videos](https://www.wsj.com/articles/microsoft-employees-are-hooked-on-the-companys-training-videos-c8684a1)
+- May 13 - [Singh proposes corporate tax hike tied to CEO-worker pay gap](https://www.cbc.ca/news/politics/singh-tax-worker-ceo-pay-1.6813968)
+- May 13 - [GitHub Copilot Leaked Prompt](https://simonwillison.net/2023/May/12/github-copilot-chat-leaked-prompt/)
+- May 13 - [Why I Stopped Worrying and Learned to Love Denormalized Tables](https://glean.io/blog-posts/why-i-stopped-worrying-and-learned-to-love-denormalized-tables)
 <!--END_SECTION:hn-->
 
 <!--
