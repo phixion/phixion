@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 13 - [Laudspeaker hiring engineer to build open source customer journey software](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
-- May 13 - [How to lose your work using Undo Copy in Windows](https://mihai.fm/how-to-lose-your-work-using-undo-copy-in-windows/)
-- May 13 - [V](https://www.imdb.com/title/tt0086823/)
-- May 13 - [50 Chat GPT Prompts Every Software Developer Should Know (Tested)](https://blog.hackertab.dev/50-chat-gpt-prompts-every-software-developer-should-know-tested)
-- May 13 - [IBM sued for age discrimination by former global software director](https://www.theregister.com/2023/05/13/kyndryl_ibm_sued_discrimination/)
+- May 13 - [TikTok Owner Had &#x27;Backdoor&#x27; for CCP Access to US Data, Lawsuit Alleges](https://www.businessinsider.com/new-lawsuit-alleges-tiktok-owner-let-ccp-access-user-data-2023-5)
+- May 13 - [Erdogan Promises to Transfer Power Peacefully If He Loses Ballot](https://www.bloomberg.com/news/articles/2023-05-12/erdogan-promises-to-transfer-power-peacefully-if-he-loses-ballot)
+- May 13 - [We’re About to See a Rare and Record-Setting May Heat Wave](https://www.scientificamerican.com/article/were-about-to-see-a-rare-and-record-setting-may-heat-wave/)
+- May 13 - [Prompt injection explained, with video, slides, and a transcript](https://simonwillison.net/2023/May/2/prompt-injection-explained/)
+- May 13 - [Ask HN: What are the most eye-opening textbooks you have ever read?](https://news.ycombinator.com/item?id=35929112)
 <!--END_SECTION:hn-->
 
 <!--
