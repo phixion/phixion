@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 13 - [Bot or Human? Detecting ChatGPT Imposters with a Single Question](https://arxiv.org/abs/2305.06424)
+- May 13 - [Ligatures in programming fonts: hell no](https://practicaltypography.com/ligatures-in-programming-fonts-hell-no.html)
+- May 13 - [Recreating the sounds of the BBC Radiophonic Workshop](https://webaudio.prototyping.bbc.co.uk/)
 - May 13 - [Intel One Mono Typeface](https://github.com/intel/intel-one-mono)
-- May 13 - [Microsoft Employees Are Hooked on the Company’s Training Videos](https://www.wsj.com/articles/microsoft-employees-are-hooked-on-the-companys-training-videos-c8684a1)
-- May 13 - [Singh proposes corporate tax hike tied to CEO-worker pay gap](https://www.cbc.ca/news/politics/singh-tax-worker-ceo-pay-1.6813968)
-- May 13 - [GitHub Copilot Leaked Prompt](https://simonwillison.net/2023/May/12/github-copilot-chat-leaked-prompt/)
-- May 13 - [Why I Stopped Worrying and Learned to Love Denormalized Tables](https://glean.io/blog-posts/why-i-stopped-worrying-and-learned-to-love-denormalized-tables)
+- May 13 - [I stopped worrying and learned to love denormalized tables](https://glean.io/blog-posts/why-i-stopped-worrying-and-learned-to-love-denormalized-tables)
 <!--END_SECTION:hn-->
 
 <!--
