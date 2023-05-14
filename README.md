@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 14 - [Tavus (YC S21) is hiring ML and full stack engineers](https://www.tavus.io/careers)
-- May 14 - [A secret macOS tool – networkQuality](https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality/)
-- May 14 - [Making GHC faster at emitting code](https://www.tweag.io/blog/2022-12-22-making-ghc-faster-at-emitting-code/)
-- May 14 - [How to Understand and Use Common Lisp](https://dept-info.labri.fr/~strandh/Teaching/MTP/Common/David-Lamkins/cover.html)
-- May 14 - [Are We Sixel Yet](https://www.arewesixelyet.com/#terminalapp)
+- May 14 - [47% of all internet traffic came from bots in 2022](https://www.securitymagazine.com/articles/99339-47-of-all-internet-traffic-came-from-bots-in-2022)
+- May 14 - [The Mysterious Dodecahedrons of the Roman Empire](https://www.atlasobscura.com/articles/dodecahedrons-roman-empire)
+- May 14 - [How to run Llama 13B with a 6GB graphics card](https://gist.github.com/rain-1/8cc12b4b334052a21af8029aa9c4fafc)
+- May 14 - [Building a Front End Framework; Reactivity, Composability with No Dependencies](https://18alan.space/posts/how-hard-is-it-to-build-a-frontend-framework.html)
+- May 14 - [The World is Built on Probability (1984)](https://archive.org/details/lev-tarasov-the-world-is-built-on-probability-mir-2023)
 <!--END_SECTION:hn-->
 
 <!--
