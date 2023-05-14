@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 14 - [47% of all internet traffic came from bots in 2022](https://www.securitymagazine.com/articles/99339-47-of-all-internet-traffic-came-from-bots-in-2022)
-- May 14 - [The Mysterious Dodecahedrons of the Roman Empire](https://www.atlasobscura.com/articles/dodecahedrons-roman-empire)
-- May 14 - [How to run Llama 13B with a 6GB graphics card](https://gist.github.com/rain-1/8cc12b4b334052a21af8029aa9c4fafc)
-- May 14 - [Building a Front End Framework; Reactivity, Composability with No Dependencies](https://18alan.space/posts/how-hard-is-it-to-build-a-frontend-framework.html)
-- May 14 - [The World is Built on Probability (1984)](https://archive.org/details/lev-tarasov-the-world-is-built-on-probability-mir-2023)
+- May 14 - [The Unreasonable Effectiveness of Character-Level Language Models](https://colab.research.google.com/github/norvig/pytudes/blob/main/ipynb/Goldberg.ipynb)
+- May 14 - [Rising number of lithium battery incidents on airplanes worry crew](https://www.cbsnews.com/news/hazardous-materials-airplanes/)
+- May 14 - [The Cathedral and the Bazaar (1999)](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/)
+- May 14 - [Tell HN: Putting mirrors around my desk improved my posture](https://news.ycombinator.com/item?id=35939206)
+- May 14 - [The Group Decode ROM: The 8086 processor&#x27;s first step of instruction decoding](http://www.righto.com/2023/05/8086-processor-group-decode-rom.html)
 <!--END_SECTION:hn-->
 
 <!--
