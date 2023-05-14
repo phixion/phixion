@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 13 - [Julia 1.9.0 lives up to its promise](https://bkamins.github.io/julialang/2023/05/12/julia190.html)
-- May 13 - [Idle DR-DOS](http://www.os2museum.com/wp/idle-dr-dos/)
-- May 13 - [Committing changes to a 130GB Git repository without full checkouts [video]](https://www.youtube.com/watch?v=BxvVdB4-Aqc)
-- May 13 - [HP disables customers’ printers if they use ink cartridges from cheaper rivals](https://www.telegraph.co.uk/money/consumer-affairs/hp-printers-computers-ink-cartridges-rivals/)
-- May 13 - [New TLDs: Not Bad](https://textslashplain.com/2023/05/13/new-tlds-not-bad-actually/)
+- May 13 - [I tried to stick to suggested serving sizes for a week and I wouldnt do it again](https://www.insider.com/i-tried-following-the-recommended-serving-sizes-for-a-week-2019-7)
+- May 13 - [Why is there no open source firmware for laser or inkjet printers? (2019)](https://hackaday.io/page/6176-why-is-there-no-open-source-firmware-for-laser-or-inkjet-printers)
+- May 13 - [Matter Raspberry Pi GPIO Commander – Turn Your Pi into a Matter Lighting Device](https://github.com/canonical/matter-pi-gpio-commander)
+- May 13 - [Micro.blog Reclaiming Usernames Policy](https://www.manton.org/2023/05/13/reclaiming-usernames-policy.html)
+- May 13 - [How An Obscure OTC-Traded Derivative From The 80s Took Over Crypto](https://blog.everstrike.io/how-an-obscure-otc-traded-derivative-took-over-crypto/)
 <!--END_SECTION:hn-->
 
 <!--
