@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 13 - [I tried to stick to suggested serving sizes for a week and I wouldnt do it again](https://www.insider.com/i-tried-following-the-recommended-serving-sizes-for-a-week-2019-7)
-- May 13 - [Why is there no open source firmware for laser or inkjet printers? (2019)](https://hackaday.io/page/6176-why-is-there-no-open-source-firmware-for-laser-or-inkjet-printers)
-- May 13 - [Matter Raspberry Pi GPIO Commander – Turn Your Pi into a Matter Lighting Device](https://github.com/canonical/matter-pi-gpio-commander)
-- May 13 - [Micro.blog Reclaiming Usernames Policy](https://www.manton.org/2023/05/13/reclaiming-usernames-policy.html)
-- May 13 - [How An Obscure OTC-Traded Derivative From The 80s Took Over Crypto](https://blog.everstrike.io/how-an-obscure-otc-traded-derivative-took-over-crypto/)
+- May 14 - [Attention with Linear Biases (ALiBi)](https://arxiv.org/abs/2108.12409)
+- May 14 - [The true story of kudzu, the vine that never ate the south](https://www.smithsonianmag.com/science-nature/true-story-kudzu-vine-ate-south-180956325/)
+- May 14 - [USS Hornet Apollo 11 Cruise Report (1969) [pdf]](https://www.history.navy.mil/content/dam/nhhc/research/archives/apollo-11/hornet-apollo-11-cruise-report-1.pdf)
+- May 14 - [Three Companies Impersonated Millions to Influence Internet Policy](https://ag.ny.gov/press-release/2023/attorney-general-james-secures-615000-companies-supplied-fake-comments-influence)
+- May 14 - [Please Let Me Monetize My Hobbies](https://naveenarun.wordpress.com/2023/05/14/please-let-me-monetize-my-hobbies/)
 <!--END_SECTION:hn-->
 
 <!--
