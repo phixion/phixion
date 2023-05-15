@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 15 - [Eat More Beans. Please](https://www.vox.com/future-perfect/2023/5/12/23717519/beans-protein-nutrition-sustainability-climate-food-security-solution-vegan-alternative-meat)
+- May 15 - [Companies to pay $615,000 in investigation over faked net neutrality comments](https://apnews.com/article/settlement-fake-public-comments-net-neutrality-ae1f69a1f5415d9f77a41f07c3f6c358)
+- May 15 - [Brex’s Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering)
 - May 14 - [Combinatory Logic](https://plato.stanford.edu/entries/logic-combinatory/)
 - May 14 - [Human activities drive long-term old trees in human-dominated landscapes](https://www.nature.com/articles/s41477-023-01412-1)
-- May 14 - [JavaScript State Machines and Statecharts](https://xstate.js.org/docs/)
-- May 14 - [Vore: A new RSS feed reader](https://j3s.sh/thought/vore-a-new-rss-feed-reader.html)
-- May 14 - [Pimoroni Badger W display server](https://github.com/ulrischa/badger_server_display)
 <!--END_SECTION:hn-->
 
 <!--
