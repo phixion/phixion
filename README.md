@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 14 - [The Unreasonable Effectiveness of Character-Level Language Models](https://colab.research.google.com/github/norvig/pytudes/blob/main/ipynb/Goldberg.ipynb)
-- May 14 - [Rising number of lithium battery incidents on airplanes worry crew](https://www.cbsnews.com/news/hazardous-materials-airplanes/)
-- May 14 - [The Cathedral and the Bazaar (1999)](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/)
-- May 14 - [Tell HN: Putting mirrors around my desk improved my posture](https://news.ycombinator.com/item?id=35939206)
-- May 14 - [The Group Decode ROM: The 8086 processor&#x27;s first step of instruction decoding](http://www.righto.com/2023/05/8086-processor-group-decode-rom.html)
+- May 14 - [Combinatory Logic](https://plato.stanford.edu/entries/logic-combinatory/)
+- May 14 - [Human activities drive long-term old trees in human-dominated landscapes](https://www.nature.com/articles/s41477-023-01412-1)
+- May 14 - [JavaScript State Machines and Statecharts](https://xstate.js.org/docs/)
+- May 14 - [Vore: A new RSS feed reader](https://j3s.sh/thought/vore-a-new-rss-feed-reader.html)
+- May 14 - [Pimoroni Badger W display server](https://github.com/ulrischa/badger_server_display)
 <!--END_SECTION:hn-->
 
 <!--
