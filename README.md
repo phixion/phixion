@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 15 - [Vice files for Bankruptcy](https://www.bloomberg.com/news/articles/2023-05-15/vice-files-for-chapter-11-in-shift-of-fortune-for-media-upstart)
-- May 15 - [Gambling firm allegedly paid blogs to link new mothers to its online games](https://www.theguardian.com/society/2023/may/14/gambling-firm-allegedly-paid-blogs-to-link-new-mothers-to-its-online-games)
-- May 15 - [Ask HN: What is the license of GitHub&#x27;s blog and The README project?](https://news.ycombinator.com/item?id=35944563)
-- May 15 - [Vice, Decayed Digital Colossus, Files for Bankruptcy](https://www.nytimes.com/2023/05/15/business/media/vice-bankruptcy.html)
-- May 15 - [&#x27;Third places&#x27;: The ways losing our local haunts hurts us (2021)](https://www.bbc.com/worklife/article/20210428-third-places-how-losing-responsibility-free-zones-hurts-us)
+- May 15 - [Infracost (YC W21) Is Hiring a Customer Success Engineer and Software Engineer](https://infracost.io/join-the-team)
+- May 15 - [A Biography of the Pixel by Alvy Ray Smith](https://mitpress.mit.edu/9780262542456/a-biography-of-the-pixel/)
+- May 15 - [Two students built an A-bomb (2003)](https://www.theguardian.com/world/2003/jun/24/usa.science)
+- May 15 - [Ask HN: What&#x27;s your favorite GPT powered tool?](https://news.ycombinator.com/item?id=35946260)
+- May 15 - [Dogs Can Have Human-Like Anxiety. They Need Human-Like Treatment [Opinion Piece]](https://undark.org/2023/05/11/opinion-dogs-can-have-human-like-anxiety-they-need-human-like-treatment/)
 <!--END_SECTION:hn-->
 
 <!--
