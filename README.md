@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 15 - [Word Does Not Exist](https://www.thisworddoesnotexist.com/)
-- May 15 - [Kafka vs. Redpanda Performance – Do the claims add up?](https://jack-vanlightly.com/blog/2023/5/15/kafka-vs-redpanda-performance-do-the-claims-add-up)
-- May 15 - [LobbyFacts – Exposing Lobbying in the European Institutions](https://www.lobbyfacts.eu/)
-- May 15 - [Windows 2000 64-bit for Alpha AXP](https://virtuallyfun.com/2023/05/15/windows-2000-64-bit-for-alpha-axp/)
-- May 15 - [The UK’s Secretive Web Surveillance Program Is Ramping Up](https://www.wired.com/story/internet-connection-records-uk-surveillance/)
+- May 15 - [Telly Is the First TV Paid for by Brands](https://www.freetelly.com/)
+- May 15 - [Random(Random(Random(Random())))](https://openprocessing.org/sketch/1575230/)
+- May 15 - [Server Sent Events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events)
+- May 15 - [LTESniffer – An Open-Source LTE Downlink&#x2F;Uplink Eavesdropper](https://github.com/SysSec-KAIST/LTESniffer)
+- May 15 - [StarFive VisionFive 2 SBC Now Supports TianoCore EDK II (UEFI)](https://forum.rvspace.org/t/unlocking-new-possibilities-starfive-visionfive-2-sbc-now-supports-tianocore-edk-ii-uefi/2779)
 <!--END_SECTION:hn-->
 
 <!--
