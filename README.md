@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 15 - [Telly Is the First TV Paid for by Brands](https://www.freetelly.com/)
-- May 15 - [Random(Random(Random(Random())))](https://openprocessing.org/sketch/1575230/)
-- May 15 - [Server Sent Events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events)
-- May 15 - [LTESniffer – An Open-Source LTE Downlink&#x2F;Uplink Eavesdropper](https://github.com/SysSec-KAIST/LTESniffer)
-- May 15 - [StarFive VisionFive 2 SBC Now Supports TianoCore EDK II (UEFI)](https://forum.rvspace.org/t/unlocking-new-possibilities-starfive-visionfive-2-sbc-now-supports-tianocore-edk-ii-uefi/2779)
+- May 15 - [Successful first flight trial completion of unmanned aerial vehicle, MAGMA](https://www.baesystems.com/en/article/first-magma-flight-trials)
+- May 15 - [Show HN: Hat-syslog – Syslog Server with real time web UI](https://github.com/hat-open/hat-syslog)
+- May 15 - [Early Computer Art in the 50s and 60s](https://www.amygoodchild.com/blog/computer-art-50s-and-60s)
+- May 15 - [StarCoder and StarCoderBase: 15.5B parameter models with 8K context length](https://arxiv.org/abs/2305.06161)
+- May 15 - [Case study: fake hardware cryptowallet](https://www.kaspersky.com/blog/fake-trezor-hardware-crypto-wallet/48155/)
 <!--END_SECTION:hn-->
 
 <!--
