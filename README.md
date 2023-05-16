@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 15 - [Successful first flight trial completion of unmanned aerial vehicle, MAGMA](https://www.baesystems.com/en/article/first-magma-flight-trials)
-- May 15 - [Show HN: Hat-syslog – Syslog Server with real time web UI](https://github.com/hat-open/hat-syslog)
-- May 15 - [Early Computer Art in the 50s and 60s](https://www.amygoodchild.com/blog/computer-art-50s-and-60s)
-- May 15 - [StarCoder and StarCoderBase: 15.5B parameter models with 8K context length](https://arxiv.org/abs/2305.06161)
-- May 15 - [Case study: fake hardware cryptowallet](https://www.kaspersky.com/blog/fake-trezor-hardware-crypto-wallet/48155/)
+- May 16 - [A promised audit of Twitter&#x27;s encrypted DMs didn&#x27;t occur](https://www.platformer.news/p/why-you-cant-trust-twitters-encrypted)
+- May 16 - [Consumer Credit and the Removal of Medical Collections from Credit Reports](https://www.consumerfinance.gov/data-research/research-reports/consumer-credit-and-the-removal-of-medical-collections-from-credit-reports/)
+- May 16 - [Ultimate Electronics](https://ultimateelectronicsbook.com/)
+- May 16 - [Peoplebox (YC S22) Is Hiring a Principal Engineer (Back End)](https://www.ycombinator.com/companies/peoplebox/jobs/kpFkrzX-principal-engineer)
+- May 16 - [LMQL: A query language for programming (large) language models](https://github.com/eth-sri/lmql)
 <!--END_SECTION:hn-->
 
 <!--
