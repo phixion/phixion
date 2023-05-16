@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 16 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- May 16 - [Ask HN: Has journaling improved your life?](https://news.ycombinator.com/item?id=35960139)
-- May 16 - [OpenAI chief goes before US Congress to propose licenses for building AI](https://www.reuters.com/technology/openai-chief-goes-before-us-congress-propose-licenses-building-ai-2023-05-16/)
-- May 16 - [Widely used chemical strongly linked to Parkinson’s disease](https://www.science.org/content/article/widely-used-chemical-strongly-linked-parkinson-s-disease)
-- May 16 - [Optimization Without Derivatives: Prima Fortran Version and Inclusion in SciPy](https://fortran-lang.discourse.group/t/optimization-without-using-derivatives-the-prima-package-its-fortran-implementation-and-its-inclusion-in-scipy/5798)
+- May 16 - [Texas professor fails entire class from graduating- claiming they used ChatGTP](https://old.reddit.com/r/ChatGPT/comments/13isibz/texas_am_commerce_professor_fails_entire_class_of/)
+- May 16 - [Warren Buffett’s Berkshire Hathaway sells entire stake in TSMC](https://www.cnn.com/2023/05/16/investing/berkshire-hathaway-taiwan-tsmc-stock-exit-hnk-intl/index.html)
+- May 16 - [ChatGPT’s Sam Altman Calls on Congress to Adopt Safety Standards for AI Systems](https://www.wsj.com/articles/chatgpts-sam-altman-faces-senate-panel-examining-artificial-intelligence-4bb6942a)
+- May 16 - [SQLite Release 3.42.0](https://sqlite.org/releaselog/3_42_0.html)
+- May 16 - [Rational Magic](https://www.thenewatlantis.com/publications/rational-magic)
 <!--END_SECTION:hn-->
 
 <!--
