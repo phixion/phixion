@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 16 - [A promised audit of Twitter&#x27;s encrypted DMs didn&#x27;t occur](https://www.platformer.news/p/why-you-cant-trust-twitters-encrypted)
-- May 16 - [Consumer Credit and the Removal of Medical Collections from Credit Reports](https://www.consumerfinance.gov/data-research/research-reports/consumer-credit-and-the-removal-of-medical-collections-from-credit-reports/)
-- May 16 - [Ultimate Electronics](https://ultimateelectronicsbook.com/)
-- May 16 - [Peoplebox (YC S22) Is Hiring a Principal Engineer (Back End)](https://www.ycombinator.com/companies/peoplebox/jobs/kpFkrzX-principal-engineer)
-- May 16 - [LMQL: A query language for programming (large) language models](https://github.com/eth-sri/lmql)
+- May 16 - [Airbnb is making life hell for young renters in tourist hotspots](https://www.dazeddigital.com/life-culture/article/59744/1/airbnb-is-making-life-hell-for-young-renters-in-tourist-hotspots-cornwall)
+- May 16 - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=35958531)
+- May 16 - [Colossus: The Forbin Project (1970) [video]](https://archive.org/details/colossus-the-forbin-project-1970)
+- May 16 - [Seaflooding](https://unchartedterritories.tomaspueyo.com/p/seaflooding)
+- May 16 - [CS 61B Data Structures, Spring 2023 UC Berkeley](https://sp23.datastructur.es/)
 <!--END_SECTION:hn-->
 
 <!--
