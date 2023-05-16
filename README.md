@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 16 - [Airbnb is making life hell for young renters in tourist hotspots](https://www.dazeddigital.com/life-culture/article/59744/1/airbnb-is-making-life-hell-for-young-renters-in-tourist-hotspots-cornwall)
-- May 16 - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=35958531)
-- May 16 - [Colossus: The Forbin Project (1970) [video]](https://archive.org/details/colossus-the-forbin-project-1970)
-- May 16 - [Seaflooding](https://unchartedterritories.tomaspueyo.com/p/seaflooding)
-- May 16 - [CS 61B Data Structures, Spring 2023 UC Berkeley](https://sp23.datastructur.es/)
+- May 16 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- May 16 - [Ask HN: Has journaling improved your life?](https://news.ycombinator.com/item?id=35960139)
+- May 16 - [OpenAI chief goes before US Congress to propose licenses for building AI](https://www.reuters.com/technology/openai-chief-goes-before-us-congress-propose-licenses-building-ai-2023-05-16/)
+- May 16 - [Widely used chemical strongly linked to Parkinson’s disease](https://www.science.org/content/article/widely-used-chemical-strongly-linked-parkinson-s-disease)
+- May 16 - [Optimization Without Derivatives: Prima Fortran Version and Inclusion in SciPy](https://fortran-lang.discourse.group/t/optimization-without-using-derivatives-the-prima-package-its-fortran-implementation-and-its-inclusion-in-scipy/5798)
 <!--END_SECTION:hn-->
 
 <!--
