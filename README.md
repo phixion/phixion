@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 17 - [Theranos founder Elizabeth Holmes must go to prison while she appeals sentence](https://www.theguardian.com/technology/2023/may/17/court-rules-theranos-founder-elizabeth-holmes-must-go-to-prison-while-she-appeals-sentence)
-- May 17 - [Earth Primer](https://www.earthprimer.com/)
-- May 17 - [WebGPU hits 40% availability 2 weeks after Chrome releases support](https://web3dsurvey.com/webgpu)
-- May 17 - [Advocating for Open Models in AI Oversight: Stability AI&#x27;s Letter to U.S. Senate](https://stability.ai/blog/stability-ai-letter-us-senate-ai-oversight)
-- May 16 - [USB MIDI interface for the NeXTCube – ISPW board](https://0110.be/posts/USB_MIDI_interface_for_the_NeXTCube_-_ISPW_board)
+- May 17 - [Valve Sued by Immersion over Steam Deck and Index Rumble](https://www.theverge.com/2023/5/16/23726295/valve-immersion-rumble-lawsuit)
+- May 17 - [Pandas vs. Julia – cheat sheet and comparison](https://datascientyst.com/pandas-vs-julia-comparison-cheat-sheet/)
+- May 17 - [Quad9’s Opinion of the Recent Court Ruling in Leipzig](https://quad9.net/news/press/quad9-s-opinion-of-the-recent-court-ruling-in-leipzig/)
+- May 17 - [Traders Do Less Crime at Home](https://www.bloomberg.com/opinion/articles/2023-05-16/traders-do-less-crime-at-home)
+- May 17 - [BratGPT: The evil older sibling of ChatGPT](https://bratgpt.com)
 <!--END_SECTION:hn-->
 
 <!--
