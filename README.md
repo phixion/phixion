@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 16 - [Big Tech Resumed Hiring Foreign Workers Just Weeks After Layoffs](https://www.leefang.com/p/big-tech-resumed-hiring-foreign-workers)
-- May 16 - [Beware Offers of “Help” with Your Projects](http://misc-stuff.terraaeon.com/articles/beware-help.html)
+- May 17 - [Theranos founder Elizabeth Holmes must go to prison while she appeals sentence](https://www.theguardian.com/technology/2023/may/17/court-rules-theranos-founder-elizabeth-holmes-must-go-to-prison-while-she-appeals-sentence)
+- May 17 - [Earth Primer](https://www.earthprimer.com/)
+- May 17 - [WebGPU hits 40% availability 2 weeks after Chrome releases support](https://web3dsurvey.com/webgpu)
+- May 17 - [Advocating for Open Models in AI Oversight: Stability AI&#x27;s Letter to U.S. Senate](https://stability.ai/blog/stability-ai-letter-us-senate-ai-oversight)
 - May 16 - [USB MIDI interface for the NeXTCube – ISPW board](https://0110.be/posts/USB_MIDI_interface_for_the_NeXTCube_-_ISPW_board)
-- May 16 - [ChatGPT is not ‘artificial intelligence.’ It’s theft](https://www.americamagazine.org/faith/2023/05/15/chatgpt-artificial-intelligence-theft-245283)
-- May 16 - [On the foolishness of “natural language programming” (1979)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD667.html)
 <!--END_SECTION:hn-->
 
 <!--
