@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 16 - [John Conway&#x27;s FRACTRAN, a ridiculous, yet surprisingly deep language (2020)](http://raganwald.com/2020/05/03/fractran.html)
-- May 16 - [Updating our inactive account policies](https://blog.google/technology/safety-security/updating-our-inactive-account-policies/)
-- May 16 - [Majority of EU countries support scanning of audio communications](https://www.euractiv.com/section/law-enforcement/news/majority-of-eu-countries-support-scanning-of-audio-communications/)
-- May 16 - [One man&#x27;s rare Alzheimer’s mutation delayed its onset](https://www.nature.com/articles/d41586-023-01610-z)
-- May 16 - [Colossal Biosciences Aims to ‘De-Extinct’ the Woolly Mammoth](https://blogs.nvidia.com/blog/2023/05/16/colossal-biosciences-de-extinct-woolly-mammoth-parabricks/)
+- May 16 - [Big Tech Resumed Hiring Foreign Workers Just Weeks After Layoffs](https://www.leefang.com/p/big-tech-resumed-hiring-foreign-workers)
+- May 16 - [Beware Offers of “Help” with Your Projects](http://misc-stuff.terraaeon.com/articles/beware-help.html)
+- May 16 - [USB MIDI interface for the NeXTCube – ISPW board](https://0110.be/posts/USB_MIDI_interface_for_the_NeXTCube_-_ISPW_board)
+- May 16 - [ChatGPT is not ‘artificial intelligence.’ It’s theft](https://www.americamagazine.org/faith/2023/05/15/chatgpt-artificial-intelligence-theft-245283)
+- May 16 - [On the foolishness of “natural language programming” (1979)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD667.html)
 <!--END_SECTION:hn-->
 
 <!--
