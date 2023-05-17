@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 17 - [Report reveals Android users switching to iPhone at 5-year high](https://9to5mac.com/2023/05/17/android-switching-to-iphone-highest-level/)
-- May 17 - [Controlled burns help prevent wildfires. Regulations make them nearly impossible](https://boulderbeat.news/2023/05/12/controlled-burn-rules/)
-- May 17 - [Catfishing on an Industrial Scale](https://www.wired.com/story/catfishing-customer-support-love/)
-- May 17 - [Wizards of the Coast Raids YouTuber’s House to Take Back Magic Cards](https://kotaku.com/mtg-aftermath-leaks-pinkertons-wotc-magic-the-gathering-1850368923)
-- May 17 - [The Regenerating Power of Big Basin’s Redwoods](https://worldsensorium.com/the-regenerating-power-of-big-basins-redwoods/)
+- May 17 - [International Music Score Library Project (IMSLP)](https://imslp.org/)
+- May 17 - [DuckDuckGo owns the #2 position in mobile market share in the US](https://help.duckduckgo.com/duckduckgo-help-pages/company/advertise-on-duckduckgo-search/)
+- May 17 - [Has HN Changed? I assume it&#x27;s just me](https://news.ycombinator.com/item?id=35979692)
+- May 17 - [Numbers every LLM Developer should know](https://github.com/ray-project/llm-numbers)
+- May 17 - [Understanding Database Indexes in PostgreSQL](https://blog.mastermind.dev/indexes-in-postgresql)
 <!--END_SECTION:hn-->
 
 <!--
