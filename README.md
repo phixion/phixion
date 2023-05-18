@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 18 - [DuckDB 0.8.0](https://duckdb.org/2023/05/17/announcing-duckdb-080.html)
-- May 18 - [New York City May Be Sinking Under the Weight of Its Skyscrapers](https://www.architecturaldigest.com/story/new-york-city-may-be-sinking-under-weight-skyscrapers)
-- May 18 - [85% of jobs are filled via networking](https://www.zippia.com/advice/networking-statistics/)
-- May 18 - [Colima: Container runtimes on macOS (and Linux) with minimal setup](https://github.com/abiosoft/colima)
-- May 18 - [Read Every Single Error](https://www.pulumi.com/blog/reducing-our-error-rate/)
+- May 18 - [One million cancel broadband as living costs rise (UK)](https://www.bbc.com/news/technology-65622403)
+- May 18 - [Companies in Apple’s repair program say they can’t compete with tech giant](https://www.theguardian.com/technology/2023/may/18/we-are-losing-money-companies-in-apples-repair-program-say-they-cant-compete-with-tech-giant)
+- May 18 - [ACM Sigplan ICFP will be in Seattle, WA, USA on 4–9 September 2023](https://icfp23.sigplan.org/)
+- May 18 - [The Work of the Audiobook](https://lareviewofbooks.org/article/the-work-of-the-audiobook/)
+- May 18 - [Graphical Unix has always had desktop environments](https://utcc.utoronto.ca/~cks/space/blog/unix/DesktopsAlwaysThere)
 <!--END_SECTION:hn-->
 
 <!--
