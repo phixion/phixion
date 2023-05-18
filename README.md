@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 17 - [Simulated Hospital](https://github.com/google/simhospital)
-- May 17 - [Using Bun.js as a Bundler](https://shaneosullivan.wordpress.com/2023/05/17/using-bun-js-as-a-bundler/)
-- May 17 - [The US post office is spying on the mail – senators want to stop it](https://www.wired.com/story/usps-mail-surveillance-letter/)
-- May 17 - [Show HN: Postgres query lock explainer](https://github.com/AdmTal/PostgreSQL-Query-Lock-Explainer)
-- May 17 - [Degrowth and the monkey&#x27;s paw](https://www.worksinprogress.news/p/degrowth-and-the-monkeys-paw)
+- May 18 - [DuckDB 0.8.0](https://duckdb.org/2023/05/17/announcing-duckdb-080.html)
+- May 18 - [New York City May Be Sinking Under the Weight of Its Skyscrapers](https://www.architecturaldigest.com/story/new-york-city-may-be-sinking-under-weight-skyscrapers)
+- May 18 - [85% of jobs are filled via networking](https://www.zippia.com/advice/networking-statistics/)
+- May 18 - [Colima: Container runtimes on macOS (and Linux) with minimal setup](https://github.com/abiosoft/colima)
+- May 18 - [Read Every Single Error](https://www.pulumi.com/blog/reducing-our-error-rate/)
 <!--END_SECTION:hn-->
 
 <!--
