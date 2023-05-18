@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 18 - [Unit Testing eBPF Programs](https://who.ldelossa.is/posts/unit-testing-ebpf/)
-- May 18 - [The Great CPU Stagnation](http://databasearchitects.blogspot.com/2023/04/the-great-cpu-stagnation.html)
-- May 18 - [SpaceTop, an innovative laptop without a screen](https://www.pcworld.com/article/1919392/spacetop-is-the-first-laptop-without-a-screen.html)
-- May 18 - [The Alan Turing Institute has failed to develop modern AI in the UK](https://rssdsaisection.substack.com/p/the-alan-turing-institute-has-failed)
-- May 18 - [Quid Pro Crow](https://languagelog.ldc.upenn.edu/nll/?p=58724)
+- May 18 - [Disney scraps plans for new Florida campus, mass employee relocation](https://www.cnbc.com/2023/05/18/disney-scraps-lake-nona-florida-campus.html)
+- May 18 - [Linux Software Map](https://xteddy.org/lsm/)
+- May 18 - [The Autobiography of Nikola Tesla](https://archive.org/details/MyInventionsNikolaTesla)
+- May 18 - [First portable quantum computers on sale in Japan: Prices start at $8.7k](https://tech.news.am/eng/news/510/worlds-first-portable-quantum-computers-on-sale-in-japan-prices-start-at-$8700.html)
+- May 18 - [ChatGPT vs. open source on harder tasks](https://github.com/microsoft/guidance/blob/main/notebooks/chatgpt_vs_open_source_on_harder_tasks.ipynb)
 <!--END_SECTION:hn-->
 
 <!--
