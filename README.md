@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 18 - [One million cancel broadband as living costs rise (UK)](https://www.bbc.com/news/technology-65622403)
-- May 18 - [Companies in Apple’s repair program say they can’t compete with tech giant](https://www.theguardian.com/technology/2023/may/18/we-are-losing-money-companies-in-apples-repair-program-say-they-cant-compete-with-tech-giant)
-- May 18 - [ACM Sigplan ICFP will be in Seattle, WA, USA on 4–9 September 2023](https://icfp23.sigplan.org/)
-- May 18 - [The Work of the Audiobook](https://lareviewofbooks.org/article/the-work-of-the-audiobook/)
-- May 18 - [Graphical Unix has always had desktop environments](https://utcc.utoronto.ca/~cks/space/blog/unix/DesktopsAlwaysThere)
+- May 18 - [Rolls-Royce tests &#x27;game-changing&#x27; greener UltraFan engine](https://www.bbc.com/news/uk-england-derbyshire-65633884)
+- May 18 - [Ask HN: Contradicting licensing information on .NET &#x2F; Visual Studio libraries](https://developercommunity.visualstudio.com/t/Contradicting-licensing-information-on-/10367059)
+- May 18 - [How a Secretive Swiss Dealer Is Enabling Israeli Spy Firms](https://www.haaretz.com/israel-news/security-aviation/2023-05-14/ty-article-magazine/.highlight/global-surveillance-the-secretive-swiss-dealer-enabling-israeli-spy-firms/00000188-0005-dc7e-a3fe-22cdf2900000)
+- May 18 - [Ireland’s DPC set to hit Meta with record privacy fine over US data transfers](https://www.irishtimes.com/business/2023/05/17/irelands-dpc-said-to-hit-meta-with-record-privacy-fine-over-us-data-transfers/)
+- May 18 - [European standards bodies are inaccessible to Open Source projects](https://blog.opensource.org/another-issue-with-the-cyber-resilience-act-european-standards-bodies-are-inaccessible-to-open-source-projects/)
 <!--END_SECTION:hn-->
 
 <!--
