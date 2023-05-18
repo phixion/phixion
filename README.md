@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 18 - [Rolls-Royce tests &#x27;game-changing&#x27; greener UltraFan engine](https://www.bbc.com/news/uk-england-derbyshire-65633884)
-- May 18 - [Ask HN: Contradicting licensing information on .NET &#x2F; Visual Studio libraries](https://developercommunity.visualstudio.com/t/Contradicting-licensing-information-on-/10367059)
-- May 18 - [How a Secretive Swiss Dealer Is Enabling Israeli Spy Firms](https://www.haaretz.com/israel-news/security-aviation/2023-05-14/ty-article-magazine/.highlight/global-surveillance-the-secretive-swiss-dealer-enabling-israeli-spy-firms/00000188-0005-dc7e-a3fe-22cdf2900000)
-- May 18 - [Ireland’s DPC set to hit Meta with record privacy fine over US data transfers](https://www.irishtimes.com/business/2023/05/17/irelands-dpc-said-to-hit-meta-with-record-privacy-fine-over-us-data-transfers/)
-- May 18 - [European standards bodies are inaccessible to Open Source projects](https://blog.opensource.org/another-issue-with-the-cyber-resilience-act-european-standards-bodies-are-inaccessible-to-open-source-projects/)
+- May 18 - [Unit Testing eBPF Programs](https://who.ldelossa.is/posts/unit-testing-ebpf/)
+- May 18 - [The Great CPU Stagnation](http://databasearchitects.blogspot.com/2023/04/the-great-cpu-stagnation.html)
+- May 18 - [SpaceTop, an innovative laptop without a screen](https://www.pcworld.com/article/1919392/spacetop-is-the-first-laptop-without-a-screen.html)
+- May 18 - [The Alan Turing Institute has failed to develop modern AI in the UK](https://rssdsaisection.substack.com/p/the-alan-turing-institute-has-failed)
+- May 18 - [Quid Pro Crow](https://languagelog.ldc.upenn.edu/nll/?p=58724)
 <!--END_SECTION:hn-->
 
 <!--
