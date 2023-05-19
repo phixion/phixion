@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 19 - [To save on rent, Berkeley student lives in LA, commutes by plane for entire year](https://old.reddit.com/r/berkeley/comments/13hv95y/i_survived_living_in_la_and_commuting_to_cal_by/)
-- May 19 - [12-Year-Old to Graduate from College with Five Degrees](https://www.nbclosangeles.com/news/local/12-year-old-boy-graduate-fullerton-college-five-degrees/3155497/)
-- May 19 - [Google banned me – open sourcing all my apps](https://old.reddit.com/r/androiddev/comments/13lf6jb/open_sourcing_all_my_apps_quitting_android_dev/)
-- May 18 - [A $200 mini-laptop with a Intel 8088 chip and 640KB](https://liliputing.com/past-meets-present-in-this-200-mini-laptop-with-a-intel-8088-chip-and-640kb-of-memory/)
-- May 18 - [High-performance tidy trees visualization (2022)](https://www.zxch3n.com/tidy/tidy/)
+- May 19 - [Andy Rourke: The Smiths bassist dies aged 59](https://www.bbc.co.uk/news/entertainment-arts-65644596)
+- May 19 - [Memfault (YC W19) is hiring a first product designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
+- May 19 - [MegaWang 2000 Turbo Edition hardware](https://martin-piper.itch.io/bomb-jack-display-hardware)
+- May 19 - [Ask HN: Is Moore&#x27;s Law over, or not?](https://news.ycombinator.com/item?id=35997975)
+- May 19 - [Let ChatGPT visit a website and have your email stolen](https://twitter.com/wunderwuzzi23/status/1659411665853779971)
 <!--END_SECTION:hn-->
 
 <!--
