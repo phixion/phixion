@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 18 - [High-performance tidy trees visualization](https://www.zxch3n.com/tidy/tidy/)
-- May 18 - [Bevy and WebGPU](https://bevyengine.org/news/bevy-webgpu/)
-- May 18 - [CLI tools for working with ChatGPT and other LLMs](https://simonwillison.net/2023/May/18/cli-tools-for-llms/)
-- May 18 - [Recreating Medieval English Ales (1998)](https://www.cs.cmu.edu/~pwp/tofi/medieval_english_ale.html)
-- May 18 - [Ts-morph – programmatically manipulate TypeScript source code with TypeScript](https://www.npmjs.com/package/ts-morph)
+- May 19 - [To save on rent, Berkeley student lives in LA, commutes by plane for entire year](https://old.reddit.com/r/berkeley/comments/13hv95y/i_survived_living_in_la_and_commuting_to_cal_by/)
+- May 19 - [12-Year-Old to Graduate from College with Five Degrees](https://www.nbclosangeles.com/news/local/12-year-old-boy-graduate-fullerton-college-five-degrees/3155497/)
+- May 19 - [Google banned me – open sourcing all my apps](https://old.reddit.com/r/androiddev/comments/13lf6jb/open_sourcing_all_my_apps_quitting_android_dev/)
+- May 18 - [A $200 mini-laptop with a Intel 8088 chip and 640KB](https://liliputing.com/past-meets-present-in-this-200-mini-laptop-with-a-intel-8088-chip-and-640kb-of-memory/)
+- May 18 - [High-performance tidy trees visualization (2022)](https://www.zxch3n.com/tidy/tidy/)
 <!--END_SECTION:hn-->
 
 <!--
