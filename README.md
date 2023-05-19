@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 18 - [Disney scraps plans for new Florida campus, mass employee relocation](https://www.cnbc.com/2023/05/18/disney-scraps-lake-nona-florida-campus.html)
-- May 18 - [Linux Software Map](https://xteddy.org/lsm/)
-- May 18 - [The Autobiography of Nikola Tesla](https://archive.org/details/MyInventionsNikolaTesla)
-- May 18 - [First portable quantum computers on sale in Japan: Prices start at $8.7k](https://tech.news.am/eng/news/510/worlds-first-portable-quantum-computers-on-sale-in-japan-prices-start-at-$8700.html)
-- May 18 - [ChatGPT vs. open source on harder tasks](https://github.com/microsoft/guidance/blob/main/notebooks/chatgpt_vs_open_source_on_harder_tasks.ipynb)
+- May 18 - [High-performance tidy trees visualization](https://www.zxch3n.com/tidy/tidy/)
+- May 18 - [Bevy and WebGPU](https://bevyengine.org/news/bevy-webgpu/)
+- May 18 - [CLI tools for working with ChatGPT and other LLMs](https://simonwillison.net/2023/May/18/cli-tools-for-llms/)
+- May 18 - [Recreating Medieval English Ales (1998)](https://www.cs.cmu.edu/~pwp/tofi/medieval_english_ale.html)
+- May 18 - [Ts-morph – programmatically manipulate TypeScript source code with TypeScript](https://www.npmjs.com/package/ts-morph)
 <!--END_SECTION:hn-->
 
 <!--
