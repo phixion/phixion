@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 19 - [US Supreme Court leaves protections for internet companies unscathed](https://www.reuters.com/legal/us-supreme-court-lets-twitter-off-hook-terrorism-lawsuit-over-istanbul-massacre-2023-05-18/)
-- May 19 - [Venture Predation: Using venture finance to price below costs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4437360)
-- May 19 - [A new chapter for CodeWeavers and myself – trust me](https://www.codeweavers.com/blog/jwhite/2023/5/19/a-new-chapter-for-codeweavers-and-myself-trust-me)
-- May 19 - [NodePad: LLM-aided graph based note-taking and brainstorming tool](https://nodepad.space/)
-- May 19 - [Here’s How AI Will Come for Your Job](https://www.theatlantic.com/technology/archive/2023/05/ai-chatgpt-productivity-work/674090/)
+- May 19 - [Debugging a FUSE deadlock in the Linux kernel](https://netflixtechblog.com/debugging-a-fuse-deadlock-in-the-linux-kernel-c75cd7989b6d?gi=f4c590ed3fe6)
+- May 19 - [Switching from QWERTY to Colemak and Back](https://oppositeinvictus.com/switching-from-qwerty-to-colemak-and-back)
+- May 19 - [US Air Force Shoots Down Drone Swarm with THOR Microwave Weapon](https://www.thedefensepost.com/2023/05/18/us-drone-swarm-thor/)
+- May 19 - [Road to Reality Executable Essay](https://reality.mentat.org/essays/reality/introduction)
+- May 19 - [Secret Messages Can Hide in AI-Generated Media](https://www.quantamagazine.org/secret-messages-can-hide-in-ai-generated-media-20230518/)
 <!--END_SECTION:hn-->
 
 <!--
