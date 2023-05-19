@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 19 - [Google Photorealistic 3D Tiles and Unreal Engine](https://nilsbakker.nl/portfolio/3d-tiles/)
-- May 19 - [First Solar Bike Path in Germany Is Now Live](https://cleantechnica.com/2023/05/16/1st-solar-bike-path-in-germany-is-now-live/)
-- May 19 - [Poll: Do you get along with your parents?](https://news.ycombinator.com/item?id=36000310)
-- May 19 - [Typescale: A Tool for Easy CSS Typography](https://typescale.com)
-- May 19 - [CppCon 2022 Best Practices Every C++ Programmer Needs to Follow – Oz Syed](https://isocpp.org//blog/2023/05/cppcon-2022-best-practices-every-cpp-programmer-needs-to-follow-oz-syed)
+- May 19 - [US Supreme Court leaves protections for internet companies unscathed](https://www.reuters.com/legal/us-supreme-court-lets-twitter-off-hook-terrorism-lawsuit-over-istanbul-massacre-2023-05-18/)
+- May 19 - [Venture Predation: Using venture finance to price below costs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4437360)
+- May 19 - [A new chapter for CodeWeavers and myself – trust me](https://www.codeweavers.com/blog/jwhite/2023/5/19/a-new-chapter-for-codeweavers-and-myself-trust-me)
+- May 19 - [NodePad: LLM-aided graph based note-taking and brainstorming tool](https://nodepad.space/)
+- May 19 - [Here’s How AI Will Come for Your Job](https://www.theatlantic.com/technology/archive/2023/05/ai-chatgpt-productivity-work/674090/)
 <!--END_SECTION:hn-->
 
 <!--
