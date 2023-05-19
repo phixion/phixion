@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 19 - [Andy Rourke: The Smiths bassist dies aged 59](https://www.bbc.co.uk/news/entertainment-arts-65644596)
-- May 19 - [Memfault (YC W19) is hiring a first product designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
-- May 19 - [MegaWang 2000 Turbo Edition hardware](https://martin-piper.itch.io/bomb-jack-display-hardware)
-- May 19 - [Ask HN: Is Moore&#x27;s Law over, or not?](https://news.ycombinator.com/item?id=35997975)
-- May 19 - [Let ChatGPT visit a website and have your email stolen](https://twitter.com/wunderwuzzi23/status/1659411665853779971)
+- May 19 - [Google Photorealistic 3D Tiles and Unreal Engine](https://nilsbakker.nl/portfolio/3d-tiles/)
+- May 19 - [First Solar Bike Path in Germany Is Now Live](https://cleantechnica.com/2023/05/16/1st-solar-bike-path-in-germany-is-now-live/)
+- May 19 - [Poll: Do you get along with your parents?](https://news.ycombinator.com/item?id=36000310)
+- May 19 - [Typescale: A Tool for Easy CSS Typography](https://typescale.com)
+- May 19 - [CppCon 2022 Best Practices Every C++ Programmer Needs to Follow – Oz Syed](https://isocpp.org//blog/2023/05/cppcon-2022-best-practices-every-cpp-programmer-needs-to-follow-oz-syed)
 <!--END_SECTION:hn-->
 
 <!--
