@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 19 - [HP 15C Collector’s Edition (preorder)](https://hpcalcs.com/product/hp-15c-collectors-edition/)
-- May 19 - [Tunnel via Cloudflare to any TCP service](https://iq.thc.org/tunnel-via-cloudflare-to-any-tcp-service)
-- May 19 - [Show HN: Weekle – a web app to learn how to calculate the day of the week](https://benjoffe.com/weekle)
-- May 19 - [It’s Time to Embrace Slow Productivity](https://www.newyorker.com/culture/office-space/its-time-to-embrace-slow-productivity)
-- May 19 - [PyTorch for WebGPU](https://praeclarum.org/2023/05/19/webgpu-torch.html)
+- May 20 - [Where Do Great Ideas Come From?](https://www.generalist.com/briefing/where-do-great-ideas-come-from)
+- May 20 - [ErlMUD Commentary](https://zxq9.com/erlmud/html/index.html)
+- May 20 - [GlitchTip: An open source, Sentry API compatible error tracking platform](https://gitlab.com/glitchtip/glitchtip-backend/-/blob/master/README.md)
+- May 20 - [Axle OS](https://axleos.com/)
+- May 20 - [Generally Intelligent (YC S17) Is Hiring Infrastructure Engineers](https://news.ycombinator.com/item?id=36008446)
 <!--END_SECTION:hn-->
 
 <!--
