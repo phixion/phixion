@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 20 - [Meticulous (YC S21) is hiring founding engineer to build AI for testing](https://news.ycombinator.com/item?id=36011172)
+- May 20 - [People who die by suicide want to stop suffering, not to stop living](https://english.elpais.com/science-tech/2023-05-20/psychologist-enrique-echeburua-people-who-die-by-suicide-want-to-stop-suffering-not-to-stop-living.html)
+- May 20 - [S3 (Missile)](https://en.wikipedia.org/wiki/S3_(missile))
+- May 20 - [People in the U.S. Think They Are Better Than They Are. Asians Don’t](https://www.scientificamerican.com/article/people-in-the-u-s-think-they-are-better-than-they-actually-are-people-in-asia-dont/)
 - May 20 - [Hitler’s Antarctic base: the myth and the reality [pdf]](https://www.histarmar.com.ar/Antartida/Base-Hitler/LaBaseAntarticadeHitler.pdf)
-- May 20 - [The long life of Apache httpd 2.4](https://utcc.utoronto.ca/~cks/space/blog/web/Apache24LongLife)
-- May 20 - [Show HN: YouTube Full Text Search – Search all of a channel from the commandline](https://github.com/NotJoeMartinez/yt-fts)
-- May 20 - [U.S. Universities Are Building a New Semiconductor Workforce](https://spectrum.ieee.org/chips-act-workforce-development)
-- May 20 - [Counterintuitive Properties of High Dimensional Space](https://marckhoury.github.io/blog/counterintuitive-properties-of-high-dimensional-space/)
 <!--END_SECTION:hn-->
 
 <!--
