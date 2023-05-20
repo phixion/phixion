@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 20 - [The Fanfic Sex Trope That Caught a Plundering AI Red-Handed](https://www.wired.com/story/fanfiction-omegaverse-sex-trope-artificial-intelligence-knotting/)
-- May 20 - [Don Knuth Plays with ChatGPT](https://cs.stanford.edu/~knuth/chatGPT20.txt)
-- May 20 - [Thales seizes control of ESA demonstration satellite in cybersecurity exercise](https://www.thalesgroup.com/en/worldwide/security/press_release/thales-seizes-control-esa-demonstration-satellite-first)
-- May 20 - [Using Advanced Camera Tech and AI to Target the Poor](https://petapixel.com/2023/05/19/big-brother-is-using-advanced-camera-tech-and-ai-to-target-the-poor/)
-- May 20 - [A digital payments revolution in India](https://www.economist.com/special-report/2023/05/15/a-digital-payments-revolution-in-india)
+- May 20 - [Martin Amis, era-defining British novelist, dies aged 73](https://www.theguardian.com/books/2023/may/20/martin-amis-era-defining-british-novelist-dies-aged-73)
+- May 20 - [Gfycat has been down for two days due to an expired SSL certificate](https://old.reddit.com/r/gfycat/comments/13kj3u7/has_gfycat_suddenly_gone_down_for_anyone_else/)
+- May 20 - [Neeva (search engine with a privacy and AI focus) is shutting down](https://neeva.com/blog/may-announcement)
+- May 20 - [Using ChatGPT for Home Automation](https://www.atomic14.com/2023/05/14/is-this-the-future-of-home-automation.html)
+- May 20 - [Review: Energy and Civilization, by Vaclav Smil](https://www.thepsmiths.com/p/review-energy-and-civilization-by)
 <!--END_SECTION:hn-->
 
 <!--
