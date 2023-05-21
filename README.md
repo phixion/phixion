@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 21 - [Feynman Lectures on Physics now online](https://www.feynmanlectures.caltech.edu/)
-- May 21 - [Just Calm Down About GPT-4 Already](https://spectrum.ieee.org/gpt-4-calm-down)
-- May 20 - [Japanese police make first YouTuber arrest for uploading video game gameplay](https://japantoday.com/category/crime/japanese-police-make-first-ever-youtuber-arrest-for-uploading-video-game-gameplay-videos)
-- May 20 - [Symbolics Lisp Machines Graphics Demo (1990) [video]](https://www.youtube.com/watch?v=RQKlgza_HgE)
-- May 20 - [Apple-1 ELIZA chatbot vs. ChatGPT](https://www.youtube.com/watch?v=1yZRNt25Wdo)
+- May 21 - [DarkBERT: A Language Model for the Dark Side of the Internet](https://arxiv.org/abs/2305.08596)
+- May 21 - [Writing Python like it&#x27;s Rust](https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html)
+- May 21 - [Best Linux Books for Different Target Groups and Use Cases](https://linuxstans.com/linux-books/)
+- May 21 - [The AI revolution already transforming education](https://www.ft.com/content/47fd20c6-240d-4ffa-a0de-70717712ed1c)
+- May 21 - [America’s skepticism toward the first automobiles (1930)](https://www.saturdayeveningpost.com/2017/01/get-horse-americas-skepticism-toward-first-automobiles/)
 <!--END_SECTION:hn-->
 
 <!--
