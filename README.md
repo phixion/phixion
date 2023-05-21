@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 20 - [Google blew it with open source layoffs](https://www.infoworld.com/article/3686511/google-blew-it-with-open-source-layoffs.html)
-- May 20 - [Neeva, would-be Google competitor, is shutting down its search engine](https://www.theverge.com/2023/5/20/23731397/neeva-search-engine-google-shutdown)
-- May 20 - [China overtakes United States on contribution to research in Nature Index](https://www.nature.com/articles/d41586-023-01705-7)
-- May 20 - [The 0+ HFT Strategy](https://blog.everstrike.io/the-0-hft-strategy/)
-- May 20 - [Popular Pirate Bay Proxy Site Disappears from GitHub](https://torrentfreak.com/popular-pirate-bay-proxy-site-disappears-from-github-230520/)
+- May 21 - [Feynman Lectures on Physics now online](https://www.feynmanlectures.caltech.edu/)
+- May 21 - [Just Calm Down About GPT-4 Already](https://spectrum.ieee.org/gpt-4-calm-down)
+- May 20 - [Japanese police make first YouTuber arrest for uploading video game gameplay](https://japantoday.com/category/crime/japanese-police-make-first-ever-youtuber-arrest-for-uploading-video-game-gameplay-videos)
+- May 20 - [Symbolics Lisp Machines Graphics Demo (1990) [video]](https://www.youtube.com/watch?v=RQKlgza_HgE)
+- May 20 - [Apple-1 ELIZA chatbot vs. ChatGPT](https://www.youtube.com/watch?v=1yZRNt25Wdo)
 <!--END_SECTION:hn-->
 
 <!--
