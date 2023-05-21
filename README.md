@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 21 - [Tell HN: Be aware of people trying to scam contractors](https://news.ycombinator.com/item?id=36023656)
+- May 21 - [Optery (YC W22) Hiring in Sales, Marketing, Customer Success, Business Ops](https://www.ycombinator.com/companies/optery/jobs)
+- May 21 - [Recreating RP2040 PIO Interface in an FPGA](https://github.com/lawrie/fpga_pio)
+- May 21 - [High-Performance Graph Databases](https://arxiv.org/abs/2305.11162)
 - May 21 - [The Drakon Language](https://drakonhub.com/en/drakon)
-- May 21 - [The end of the accounting search](https://lwn.net/Articles/925782/)
-- May 21 - [PGP signatures on PyPI: worse than useless](https://blog.yossarian.net/2023/05/21/PGP-signatures-on-PyPI-worse-than-useless)
-- May 21 - [Paris’s Centre Pompidou to Close for Five Years Starting in 2025](https://www.artnews.com/art-news/news/centre-pompidou-closing-five-years-2025-1234667508/)
-- May 21 - [Show HN: Trogon – An automatic TUI for command line apps](https://github.com/Textualize/trogon)
 <!--END_SECTION:hn-->
 
 <!--
