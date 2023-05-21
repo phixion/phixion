@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 20 - [Martin Amis, era-defining British novelist, dies aged 73](https://www.theguardian.com/books/2023/may/20/martin-amis-era-defining-british-novelist-dies-aged-73)
-- May 20 - [Gfycat has been down for two days due to an expired SSL certificate](https://old.reddit.com/r/gfycat/comments/13kj3u7/has_gfycat_suddenly_gone_down_for_anyone_else/)
-- May 20 - [Neeva (search engine with a privacy and AI focus) is shutting down](https://neeva.com/blog/may-announcement)
-- May 20 - [Using ChatGPT for Home Automation](https://www.atomic14.com/2023/05/14/is-this-the-future-of-home-automation.html)
-- May 20 - [Review: Energy and Civilization, by Vaclav Smil](https://www.thepsmiths.com/p/review-energy-and-civilization-by)
+- May 20 - [Google blew it with open source layoffs](https://www.infoworld.com/article/3686511/google-blew-it-with-open-source-layoffs.html)
+- May 20 - [Neeva, would-be Google competitor, is shutting down its search engine](https://www.theverge.com/2023/5/20/23731397/neeva-search-engine-google-shutdown)
+- May 20 - [China overtakes United States on contribution to research in Nature Index](https://www.nature.com/articles/d41586-023-01705-7)
+- May 20 - [The 0+ HFT Strategy](https://blog.everstrike.io/the-0-hft-strategy/)
+- May 20 - [Popular Pirate Bay Proxy Site Disappears from GitHub](https://torrentfreak.com/popular-pirate-bay-proxy-site-disappears-from-github-230520/)
 <!--END_SECTION:hn-->
 
 <!--
