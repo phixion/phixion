@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 21 - [Tell HN: Be aware of people trying to scam contractors](https://news.ycombinator.com/item?id=36023656)
-- May 21 - [Optery (YC W22) Hiring in Sales, Marketing, Customer Success, Business Ops](https://www.ycombinator.com/companies/optery/jobs)
-- May 21 - [Recreating RP2040 PIO Interface in an FPGA](https://github.com/lawrie/fpga_pio)
-- May 21 - [High-Performance Graph Databases](https://arxiv.org/abs/2305.11162)
-- May 21 - [The Drakon Language](https://drakonhub.com/en/drakon)
+- May 21 - [Ask HN: What&#x27;s your favorite software testing framework and why?](https://news.ycombinator.com/item?id=36025278)
+- May 21 - [LLVM&#x27;s Libc Gets Much Faster memcpy For RISC-V](https://www.phoronix.com/news/LLVM-libc-Faster-memcpy)
+- May 21 - [Cloud GPU Resources and Pricing](https://fullstackdeeplearning.com/cloud-gpus/)
+- May 21 - [For chemists, the AI revolution has yet to happen](https://www.nature.com/articles/d41586-023-01612-x)
+- May 21 - [Noise is all around us](https://thewalrus.ca/noise-ethics/)
 <!--END_SECTION:hn-->
 
 <!--
