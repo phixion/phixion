@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 22 - [Why Salvador Dalí is the most faked artist in the world](https://thehustle.co/why-salvador-dali-is-the-most-faked-artist-in-the-world/)
-- May 22 - [Ask HN: Is anyone hosting their own Jitsi server?](https://news.ycombinator.com/item?id=36032224)
-- May 22 - [Stippling and Blue Noise (2011)](https://www.joesfer.com/?p=108)
-- May 22 - [Black holes might be defects in spacetime](https://phys.org/news/2023-05-black-holes-defects-spacetime.html)
-- May 22 - [Io Uring](https://nick-black.com/dankwiki/index.php/Io_uring)
+- May 22 - [Leaked government document shows Spain wants to ban end-to-end encryption](https://www.wired.com/story/europe-break-encryption-leaked-document-csa-law/)
+- May 22 - [Modern work requires attention – constant alerts steal it](https://stackoverflow.blog/2023/05/22/modern-work-requires-attention-constant-alerts-steal-it/)
+- May 22 - [What if you did the exact opposite, like rogue bees do (2020)](https://www.mrdbourke.com/what-if-you-did-the-exact-opposite-like-the-rogue-bees-do/)
+- May 22 - [Meta AI announces Massive Multilingual Speech code,  models for 1000+ languages](https://github.com/facebookresearch/fairseq/tree/main/examples/mms)
+- May 22 - [iPhone maker Wistron quits, saying Apple didn&#x27;t let it make a profit](https://9to5mac.com/2023/05/22/iphone-maker-wistron-quits/)
 <!--END_SECTION:hn-->
 
 <!--
