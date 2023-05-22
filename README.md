@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 22 - [Meta preps new social app](https://liahaberman.substack.com/p/icymi-instagrams-new-app-could-be)
-- May 22 - [SR-71 pilot, photographer and storyteller Brian Shul dies at 75](https://newatlas.com/remarkable-people/brian-shul-death/)
-- May 22 - [qb-escape – QuickBooks to GnuCash migration scripts](https://github.com/erikmack/qb-escape)
-- May 22 - [Investigating the impact of HTTP3 on network latency for search](https://dropbox.tech/frontend/investigating-the-impact-of-http3-on-network-latency-for-search)
-- May 22 - [How to Be a Know-It-All (2017)](https://www.newyorker.com/magazine/2017/10/16/how-to-be-a-know-it-all)
+- May 22 - [Russia’s army is learning and improving on the battlefield](https://www.economist.com/europe/2023/05/21/russias-army-is-learning-on-the-battlefield)
+- May 22 - [PSA: Cancelling HP Instant Ink subscription prevents cartridges from being used](https://news.ycombinator.com/item?id=36030156)
+- May 22 - [Ask HN: Engineering managers, how do you onboard new hires?](https://news.ycombinator.com/item?id=36029409)
+- May 22 - [Pytrees](https://jax.readthedocs.io/en/latest/pytrees.html)
+- May 22 - [The Many Faces of Distinct in PostgreSQL](https://hakibenita.com/the-many-faces-of-distinct-in-postgre-sql)
 <!--END_SECTION:hn-->
 
 <!--
