@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 22 - [Russia’s army is learning and improving on the battlefield](https://www.economist.com/europe/2023/05/21/russias-army-is-learning-on-the-battlefield)
-- May 22 - [PSA: Cancelling HP Instant Ink subscription prevents cartridges from being used](https://news.ycombinator.com/item?id=36030156)
-- May 22 - [Ask HN: Engineering managers, how do you onboard new hires?](https://news.ycombinator.com/item?id=36029409)
-- May 22 - [Pytrees](https://jax.readthedocs.io/en/latest/pytrees.html)
-- May 22 - [The Many Faces of Distinct in PostgreSQL](https://hakibenita.com/the-many-faces-of-distinct-in-postgre-sql)
+- May 22 - [Why Salvador Dalí is the most faked artist in the world](https://thehustle.co/why-salvador-dali-is-the-most-faked-artist-in-the-world/)
+- May 22 - [Ask HN: Is anyone hosting their own Jitsi server?](https://news.ycombinator.com/item?id=36032224)
+- May 22 - [Stippling and Blue Noise (2011)](https://www.joesfer.com/?p=108)
+- May 22 - [Black holes might be defects in spacetime](https://phys.org/news/2023-05-black-holes-defects-spacetime.html)
+- May 22 - [Io Uring](https://nick-black.com/dankwiki/index.php/Io_uring)
 <!--END_SECTION:hn-->
 
 <!--
