@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 21 - [Ask HN: What&#x27;s your favorite software testing framework and why?](https://news.ycombinator.com/item?id=36025278)
-- May 21 - [LLVM&#x27;s Libc Gets Much Faster memcpy For RISC-V](https://www.phoronix.com/news/LLVM-libc-Faster-memcpy)
-- May 21 - [Cloud GPU Resources and Pricing](https://fullstackdeeplearning.com/cloud-gpus/)
-- May 21 - [For chemists, the AI revolution has yet to happen](https://www.nature.com/articles/d41586-023-01612-x)
-- May 21 - [Noise is all around us](https://thewalrus.ca/noise-ethics/)
+- May 22 - [Same Stop: Life after 26 years as a programmer for Apple](https://www.engineersneedart.com/blog/samestop/samestop.html)
+- May 22 - [Deep Sleep May Be the Best Defense Against Alzheimer’s](https://www.wsj.com/articles/deep-sleep-may-be-the-best-defense-against-alzheimers-memory-amlyoid-1524dbd7)
+- May 22 - [Apple is rewriting Foundation in Swift](https://github.com/apple/swift-foundation)
+- May 22 - [Ask HN: Is there a webapp to input&#x2F;store your blood test results?](https://news.ycombinator.com/item?id=36025977)
+- May 21 - [Beej&#x27;s Guide to Network Programming](https://beej.us/guide/bgnet/)
 <!--END_SECTION:hn-->
 
 <!--
