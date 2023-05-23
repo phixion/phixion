@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 23 - [Tesorio (YC S15) Is Hiring Back End Engineers and DevOps](https://www.tesorio.com/careers#job-openings)
-- May 23 - [Microtiming in Metallica&#x27;s “Master of Puppets”](https://metalintheory.com/metallica-master-of-puppets/)
-- May 23 - [How to Fix a ReDoS](https://github.blog/2023-05-09-how-to-fix-a-redos/)
-- May 23 - [How Microsoft faked errors in Windows 3 on top of DR DOS](https://www.geoffchappell.com/notes/windows/archive/aard/drdos/index.htm)
-- May 23 - [Yoshua Bengio: How Rogue AIs May Arise](https://yoshuabengio.org/2023/05/22/how-rogue-ais-may-arise/)
+- May 23 - [Congress wants AM radio in all new cars–trade groups say that’s a mistake](https://arstechnica.com/cars/2023/05/ev-advocates-join-tech-groups-and-automakers-to-oppose-am-radio-mandate/)
+- May 23 - [Google Bans ‘Downloader’ App: TV Outfits Claim Browser Violates Injunction](https://torrentfreak.com/google-bans-downloader-app-tv-outfits-claim-browser-violates-injunction-230523/)
+- May 23 - [Apple Announces Multibillion Deal with Broadcom to Make Components in the USA](https://www.macrumors.com/2023/05/23/apple-announces-deal-to-make-components-in-the-usa/)
+- May 23 - [EU rules allowing use of spyware against journalists need “fine-tuning”](https://www.statewatch.org/news/2023/may/eu-rules-allowing-exceptional-use-of-spyware-against-journalists-need-fine-tuning/)
+- May 23 - [Almost 200k Job Cuts in Tech Pushes New Grads to Wall Street](https://www.bloomberg.com/news/articles/2023-05-23/how-to-get-a-job-in-2023-young-workers-eye-finance-with-tech-struggling)
 <!--END_SECTION:hn-->
 
 <!--
