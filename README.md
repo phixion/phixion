@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 23 - [Updates to Kagi pricing plans – More searches, unrestricted AI tools](https://blog.kagi.com/plan-changes)
-- May 23 - [r&#x2F;all removals over time](https://i.redd.it/r68fgiisk3sa1.jpg)
-- May 23 - [Demystifying Tupper&#x27;s Formula](https://eli.thegreenplace.net/2023/demystifying-tuppers-formula/)
-- May 23 - [Vanilla OS 2.0 Orchid base is changing from Ubuntu to Debian](https://vanillaos.org/2023/03/07/vanilla-os-2.0-orchid-initial-work.html)
-- May 23 - [SimCity 4, the greatest citybuilder of all time, was released 20 years ago](https://www.rockpapershotgun.com/simcity-4-the-greatest-citybuilder-of-all-time-was-released-20-years-ago)
+- May 23 - [Tesorio (YC S15) Is Hiring Back End Engineers and DevOps](https://www.tesorio.com/careers#job-openings)
+- May 23 - [Microtiming in Metallica&#x27;s “Master of Puppets”](https://metalintheory.com/metallica-master-of-puppets/)
+- May 23 - [How to Fix a ReDoS](https://github.blog/2023-05-09-how-to-fix-a-redos/)
+- May 23 - [How Microsoft faked errors in Windows 3 on top of DR DOS](https://www.geoffchappell.com/notes/windows/archive/aard/drdos/index.htm)
+- May 23 - [Yoshua Bengio: How Rogue AIs May Arise](https://yoshuabengio.org/2023/05/22/how-rogue-ais-may-arise/)
 <!--END_SECTION:hn-->
 
 <!--
