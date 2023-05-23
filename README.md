@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 22 - [Show HN: Blotter – An interactive, never ending music video](https://www.twitch.tv/blotterstream)
+- May 22 - [Compromising LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/abs/2302.12173)
+- May 22 - [The Open Buddhist University](https://buddhistuniversity.net/)
+- May 22 - [More Than 600k Students and Teachers Use Z-Library](https://torrentfreak.com/more-than-600000-students-and-teachers-use-z-library-230522/)
 - May 22 - [Leaked government document shows Spain wants to ban end-to-end encryption](https://www.wired.com/story/europe-break-encryption-leaked-document-csa-law/)
-- May 22 - [Modern work requires attention – constant alerts steal it](https://stackoverflow.blog/2023/05/22/modern-work-requires-attention-constant-alerts-steal-it/)
-- May 22 - [What if you did the exact opposite, like rogue bees do (2020)](https://www.mrdbourke.com/what-if-you-did-the-exact-opposite-like-the-rogue-bees-do/)
-- May 22 - [Meta AI announces Massive Multilingual Speech code,  models for 1000+ languages](https://github.com/facebookresearch/fairseq/tree/main/examples/mms)
-- May 22 - [iPhone maker Wistron quits, saying Apple didn&#x27;t let it make a profit](https://9to5mac.com/2023/05/22/iphone-maker-wistron-quits/)
 <!--END_SECTION:hn-->
 
 <!--
