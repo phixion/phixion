@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 24 - [Abolish Venture Capitalism](https://www.thenation.com/article/economy/abolish-venture-capitalism/)
-- May 24 - [Man Cures Acid Reflux By Eating Upside-Down](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9106553/)
-- May 24 - [A Student-Loan Payment Pause Led Borrowers to Take on More Debt](https://marginalrevolution.com/marginalrevolution/2023/05/the-student-loan-payment-pause-led-borrowers-to-take-on-more-debt.html)
-- May 24 - [SFPD Obtained Live Access to Business Camera Network in Anticipation of Protest](https://www.eff.org/deeplinks/2023/05/sfpd-obtained-live-access-business-camera-network-anticipation-tyre-nichols)
-- May 24 - [VanillaNet: The Power of Minimalism in Deep Learning](https://arxiv.org/abs/2305.12972)
+- May 24 - [Tina Turner has died](https://www.independent.co.uk/arts-entertainment/music/news/tina-turner-dies-illness-b2345195.html)
+- May 24 - [Analog Lorenz Attractor Computer.io](https://hackaday.io/project/191142-analog-lorenz-attractor-computer)
+- May 24 - [The long road to recover Frogger 2 source from tape drives](https://github.com/Kneesnap/onstream-data-recovery/blob/main/info/INTRO.MD)
+- May 24 - [PyPI Was Subpoenaed](https://blog.pypi.org/posts/2023-05-24-pypi-was-subpoenaed/)
+- May 24 - [Launch HN: Dittofeed (YC S22) – open-source customer engagement platform](https://news.ycombinator.com/item?id=36061344)
 <!--END_SECTION:hn-->
 
 <!--
