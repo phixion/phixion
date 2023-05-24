@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 24 - [Meta Open-Sources Computer Vision Foundation Model DINOv2](https://www.infoq.com/news/2023/05/meta-dinov2-vision/)
-- May 24 - [Container Shipping Has Cratered](https://www.wsj.com/articles/ocean-freight-rates-slump-as-demand-for-apparel-and-electronics-weakens-460d0a0c)
-- May 24 - [A Housing Bust Comes for Thousands of Small-Time Investors](https://www.wsj.com/articles/a-housing-bust-comes-for-thousands-of-small-time-investors-3934beb3)
-- May 23 - [Amazon corporate workers plan walkout next week over return-to-office policies](https://www.cnn.com/2023/05/23/tech/amazon-walkout/index.html)
-- May 23 - [Regent – 100% Electric Coastal Travel](https://www.regentcraft.com/)
+- May 24 - [A Guide to Closures in Rust](https://hashrust.com/blog/a-guide-to-closures-in-rust/)
+- May 24 - [SQLite builds for WASI since 3.41.0](https://wasmlabs.dev/articles/sqlite-wasi-support/)
+- May 24 - [A Novel the CIA Spent a Fortune to Suppress](https://www.publicbooks.org/a-novel-the-cia-spent-a-fortune-to-suppress/)
+- May 24 - [SCOTUS Declines to Hear Challenge to Warrantless Pole Camera Surveillance](https://www.aclu.org/press-releases/u-s-supreme-court-declines-to-hear-challenge-to-warrantless-pole-camera-surveillance)
+- May 24 - [Meta AI Unleashes Megabyte, a Revolutionary Scalable Model Architecture](https://www.artisana.ai/articles/meta-ai-unleashes-megabyte-a-revolutionary-scalable-model-architecture)
 <!--END_SECTION:hn-->
 
 <!--
