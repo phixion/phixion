@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 24 - [A Guide to Closures in Rust](https://hashrust.com/blog/a-guide-to-closures-in-rust/)
-- May 24 - [SQLite builds for WASI since 3.41.0](https://wasmlabs.dev/articles/sqlite-wasi-support/)
-- May 24 - [A Novel the CIA Spent a Fortune to Suppress](https://www.publicbooks.org/a-novel-the-cia-spent-a-fortune-to-suppress/)
-- May 24 - [SCOTUS Declines to Hear Challenge to Warrantless Pole Camera Surveillance](https://www.aclu.org/press-releases/u-s-supreme-court-declines-to-hear-challenge-to-warrantless-pole-camera-surveillance)
-- May 24 - [Meta AI Unleashes Megabyte, a Revolutionary Scalable Model Architecture](https://www.artisana.ai/articles/meta-ai-unleashes-megabyte-a-revolutionary-scalable-model-architecture)
+- May 24 - [GiveCampus (YC S15) Is Hiring Senior Software Engineers for Education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+- May 24 - [Peloton CEO Quit After Laying Off 2,800. Its a Bad Lesson About How Not to Lead](https://www.inc.com/jason-aten/pelotons-ceo-john-foley-quit-q2-2022-earnings-laying-off-2800-people.html)
+- May 24 - [You don&#x27;t need a modal window](https://youdontneedamodalwindow.dev/)
+- May 24 - [Shortage of COBOL developers in insurance and banks](https://www.lemonde.fr/economie/article/2023/05/23/informatique-le-secteur-bancaire-manque-de-specialistes-du-cobol_6174417_3234.html)
+- May 24 - [Venus is not Earth’s closest neighbor](https://fermatslibrary.com/s/venus-is-not-earth-s-closest-neighbor)
 <!--END_SECTION:hn-->
 
 <!--
