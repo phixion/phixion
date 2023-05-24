@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 24 - [Meta Open-Sources Computer Vision Foundation Model DINOv2](https://www.infoq.com/news/2023/05/meta-dinov2-vision/)
+- May 24 - [Container Shipping Has Cratered](https://www.wsj.com/articles/ocean-freight-rates-slump-as-demand-for-apparel-and-electronics-weakens-460d0a0c)
+- May 24 - [A Housing Bust Comes for Thousands of Small-Time Investors](https://www.wsj.com/articles/a-housing-bust-comes-for-thousands-of-small-time-investors-3934beb3)
 - May 23 - [Amazon corporate workers plan walkout next week over return-to-office policies](https://www.cnn.com/2023/05/23/tech/amazon-walkout/index.html)
 - May 23 - [Regent – 100% Electric Coastal Travel](https://www.regentcraft.com/)
-- May 23 - [50 years in filesystems: towards 2004 – LFS](https://blog.koehntopp.info/2023/05/17/50-years-in-filesystems-towards-2004-lfs.html)
-- May 23 - [New Nightmare, the Hammerhead Worm](https://www.texasmonthly.com/travel/meet-nightmare-hammerhead-worm/)
-- May 23 - [Philip K. Dick&#x27;s Substance Abuse and Psychosis](https://www.thecompanion.app/philip-k-dick-psychosis/)
 <!--END_SECTION:hn-->
 
 <!--
