@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 23 - [Correct Horse Battery Staple: Secure Password Generator](https://www.correcthorsebatterystaple.net/index.html)
-- May 23 - [Comprehensive Rust: course used by the Android team at Google](https://github.com/google/comprehensive-rust)
-- May 23 - [Kanboard is a free and open source Kanban project management software](https://kanboard.org/)
-- May 23 - [Nginx 1.25.0: experimental HTTP&#x2F;3 support](http://nginx.org/en/CHANGES)
-- May 23 - [Nintendo updates 3DS to block Bannerbomb3 despite eShop discontinuation](https://www.3dbrew.org/wiki/11.17.0-50)
+- May 23 - [Amazon corporate workers plan walkout next week over return-to-office policies](https://www.cnn.com/2023/05/23/tech/amazon-walkout/index.html)
+- May 23 - [Regent – 100% Electric Coastal Travel](https://www.regentcraft.com/)
+- May 23 - [50 years in filesystems: towards 2004 – LFS](https://blog.koehntopp.info/2023/05/17/50-years-in-filesystems-towards-2004-lfs.html)
+- May 23 - [New Nightmare, the Hammerhead Worm](https://www.texasmonthly.com/travel/meet-nightmare-hammerhead-worm/)
+- May 23 - [Philip K. Dick&#x27;s Substance Abuse and Psychosis](https://www.thecompanion.app/philip-k-dick-psychosis/)
 <!--END_SECTION:hn-->
 
 <!--
