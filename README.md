@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 25 - [VanJS (Vanilla JavaScript): smallest reactive UI framework](https://github.com/vanjs-org/van)
-- May 25 - [Keyval (YC W23) Is Hiring Founding Back End Engineer](https://www.ycombinator.com/companies/keyval/jobs/gc3sdVX-founding-backend-engineer)
-- May 25 - [IUP – Cross platform C GUI library](https://www.tecgraf.puc-rio.br/iup/)
-- May 25 - [Psychiatric detentions rise in first year of 988 hotline](https://www.madinamerica.com/2023/05/psychiatric-detentions-rise-988/)
-- May 25 - [Comb jellies proven to be the sibling group to all other animals](https://news.ucsc.edu/2023/05/animal-siblings.html)
+- May 25 - [Cory Doctorow: How Big Tech Captured Culture [video]](https://www.youtube.com/watch?v=kiIovIKzBlc)
+- May 25 - [Sam Altman Says OpenAI Will Leave the EU If There&#x27;s Any Real AI Regulation](https://gizmodo.com/sam-altman-openai-gpt-chatbot-chatgpt-gpt4-1850471865)
+- May 25 - [Better cognitive ability from less snacking of processed carbohydrates](https://studyfinds.org/snacking-processed-foods-brain/)
+- May 25 - [Deno 1.34: Deno compile supports NPM packages](https://deno.com/blog/v1.34)
+- May 25 - [How to Finetune GPT Like Large Language Models on a Custom Dataset](https://lightning.ai/pages/blog/how-to-finetune-gpt-like-large-language-models-on-a-custom-dataset/)
 <!--END_SECTION:hn-->
 
 <!--
