@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 25 - [Cory Doctorow: How Big Tech Captured Culture [video]](https://www.youtube.com/watch?v=kiIovIKzBlc)
-- May 25 - [Sam Altman Says OpenAI Will Leave the EU If There&#x27;s Any Real AI Regulation](https://gizmodo.com/sam-altman-openai-gpt-chatbot-chatgpt-gpt4-1850471865)
-- May 25 - [Better cognitive ability from less snacking of processed carbohydrates](https://studyfinds.org/snacking-processed-foods-brain/)
-- May 25 - [Deno 1.34: Deno compile supports NPM packages](https://deno.com/blog/v1.34)
-- May 25 - [How to Finetune GPT Like Large Language Models on a Custom Dataset](https://lightning.ai/pages/blog/how-to-finetune-gpt-like-large-language-models-on-a-custom-dataset/)
+- May 25 - [Electric cars prove we need to rethink brake lights](https://www.youtube.com/watch?v=U0YW7x9U5TQ)
+- May 25 - [New superbug-killing antibiotic discovered using AI](https://www.bbc.com/news/health-65709834)
+- May 25 - [Show HN: HN Follow – Follow Your Friends on HN](https://www.val.town/v/rodrigotello.hnFollow)
+- May 25 - [The forces at play in de-dollarisation](https://www.reuters.com/markets/currencies/end-king-dollar-forces-play-de-dollarisation-2023-05-25/)
+- May 25 - [Alien was released 44 years ago today](https://twitter.com/ATRightMovies/status/1661664750273527810)
 <!--END_SECTION:hn-->
 
 <!--
