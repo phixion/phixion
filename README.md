@@ -21,7 +21,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - May 24 - [The tiny corp raised $5.1M](https://geohot.github.io//blog/jekyll/update/2023/05/24/the-tiny-corp-raised-5M.html)
 - May 24 - [SectorC: A C Compiler in 512 bytes](https://xorvoid.com/sectorc.html)
-- May 24 - [Minix development has been abandoned, with no updates in almost 5 years](https://git.minix3.org/index.cgi?p=minix.git;a=summary)
+- May 24 - [Minix development has been abandoned?](https://git.minix3.org/index.cgi?p=minix.git;a=summary)
 - May 24 - [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
 - May 24 - [UCLA Computer Grad Constructs “Crown Jewel of Cryptography”](https://www.acm.org/media-center/2023/may/dissertation-award-2022)
 <!--END_SECTION:hn-->
