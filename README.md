@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 25 - [Electric cars prove we need to rethink brake lights](https://www.youtube.com/watch?v=U0YW7x9U5TQ)
-- May 25 - [New superbug-killing antibiotic discovered using AI](https://www.bbc.com/news/health-65709834)
-- May 25 - [Show HN: HN Follow – Follow Your Friends on HN](https://www.val.town/v/rodrigotello.hnFollow)
-- May 25 - [The forces at play in de-dollarisation](https://www.reuters.com/markets/currencies/end-king-dollar-forces-play-de-dollarisation-2023-05-25/)
-- May 25 - [Alien was released 44 years ago today](https://twitter.com/ATRightMovies/status/1661664750273527810)
+- May 25 - [AI chip boom sends Nvidia’s stock surging after whopper of a quarter](https://www.cnn.com/2023/05/25/tech/nvidia-earnings-ai/index.html)
+- May 25 - [Canary domain – use-application-dns.net](https://support.mozilla.org/en-US/kb/canary-domain-use-application-dnsnet)
+- May 25 - [War Is a Racket (1935)](https://archive.org/details/WarIsARacket)
+- May 25 - [Aurora Store Accounts Blocked by Google](https://gitlab.com/AuroraOSS/AuroraStore/-/issues/912)
+- May 25 - [Super Colliding Nix Stores: Nix Flakes for Millions of Developers](https://blog.replit.com/super-colliding-nix-stores)
 <!--END_SECTION:hn-->
 
 <!--
