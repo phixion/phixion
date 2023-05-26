@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 26 - [Why is Betelgeuse glowing so brightly and behaving so strangely?](https://www.theguardian.com/science/2023/may/26/its-new-territory-why-is-betelgeuse-is-glowing-so-brightly-and-behaving-so-strangely)
-- May 26 - [Am I the Unethical One?](https://dailynous.com/2023/05/25/am-i-the-unethical-one-a-philosophy-professor-his-cheating-students/)
-- May 26 - [George Takei recalls his childhood in an internment camp](https://www.bbc.com/reel/video/p0fqggwq/george-takei-recalls-his-childhood-in-an-internment-camp)
-- May 26 - [Show HN: Hacker News user experience enhancement browser extension](https://carina.app/hnux)
-- May 26 - [Killer whales wreck boat in latest attack off Spain](https://www.reuters.com/world/europe/killer-whales-wreck-boat-latest-attack-off-spain-2023-05-25/)
+- May 26 - [Mozilla stops Firefox fullscreen VPN ads after user outrage](https://www.bleepingcomputer.com/news/security/mozilla-stops-firefox-fullscreen-vpn-ads-after-user-outrage/)
+- May 26 - [Tree of Thoughts](https://github.com/kyegomez/tree-of-thoughts)
+- May 26 - [Stripe Launches PayPal Integration In Europe](https://stripe.com/docs/payments/paypal)
+- May 26 - [NASA safety panel skeptical of Starliner readiness for crewed flight](https://spacenews.com/nasa-safety-panel-skeptical-of-starliner-readiness-for-crewed-flight/)
+- May 26 - [Ask HN: Have any managers&#x2F;team leads been asked to layoff staff b&#x2F;c of AI?](https://news.ycombinator.com/item?id=36085310)
 <!--END_SECTION:hn-->
 
 <!--
