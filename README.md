@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 26 - [Mozilla stops Firefox fullscreen VPN ads after user outrage](https://www.bleepingcomputer.com/news/security/mozilla-stops-firefox-fullscreen-vpn-ads-after-user-outrage/)
-- May 26 - [Tree of Thoughts](https://github.com/kyegomez/tree-of-thoughts)
-- May 26 - [Stripe Launches PayPal Integration In Europe](https://stripe.com/docs/payments/paypal)
-- May 26 - [NASA safety panel skeptical of Starliner readiness for crewed flight](https://spacenews.com/nasa-safety-panel-skeptical-of-starliner-readiness-for-crewed-flight/)
-- May 26 - [Ask HN: Have any managers&#x2F;team leads been asked to layoff staff b&#x2F;c of AI?](https://news.ycombinator.com/item?id=36085310)
+- May 26 - [0AD, an open source historical RTS in development for 22 years](https://play0ad.com/)
+- May 26 - [Show HN: I made an in-browser code editor with code replay and REPL](https://logicboard.com/demo)
+- May 26 - [Can we create a thread for some of the best materials on CS available online?](https://news.ycombinator.com/item?id=36088224)
+- May 26 - [The reality of Wayland input methods in 2022 (2022)](https://nimfsoft.art/blog/the-reality-of-wayland-input-methods-in-2022/)
+- May 26 - [Ispace Announces Results of the “Hakuto-R” Mission 1 Lunar Landing](https://ispace-inc.com/news-en/?p=4691)
 <!--END_SECTION:hn-->
 
 <!--
