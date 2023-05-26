@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 26 - [A Short History of Chaosnet](https://twobithistory.org/2018/09/30/chaosnet.html)
-- May 26 - [Tesla Model Y overtakes Corolla to be world’s best-selling car in 2023](https://thedriven.io/2023/05/26/tesla-model-y-overtakes-corolla-to-be-worlds-best-selling-car-in-2023/)
-- May 26 - [Ford EV Customers to Gain Access to 12,000 Tesla Superchargers](https://media.ford.com/content/fordmedia/fna/us/en/news/2023/05/25/ford-ev-customers-to-gain-access-to-12-000-tesla-superchargers--.html)
-- May 26 - [MIT Course: Generative AI for Constructive Communication](https://ai4comm.media.mit.edu/)
-- May 26 - [The Silent (R)evolution of SAT](https://cacm.acm.org/magazines/2023/6/273222-the-silent-revolution-of-sat/fulltext)
+- May 26 - [A PhD student&#x27;s perspective on research in NLP in the era of LLMs](https://arxiv.org/abs/2305.12544)
+- May 26 - [Record whistleblower award went to a tipster on Ericsson](https://www.wsj.com/articles/record-279-million-whistleblower-award-went-to-a-tipster-on-ericsson-5af40b98)
+- May 26 - [Wardley Maps–illustrated through Gerstner](https://juliusgamanyi.com/2020/06/25/wardley-maps-illustrated-through-gerstner-part-3-loop-2/)
+- May 26 - [Weird, Rare, and Everywhere](https://hakaimagazine.com/features/weird-rare-and-everywhere/)
+- May 26 - [New work helps to explain how chronic stress can inflame the gut](https://www.nature.com/articles/d41586-023-01700-y)
 <!--END_SECTION:hn-->
 
 <!--
