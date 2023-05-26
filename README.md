@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 25 - [AI chip boom sends Nvidia’s stock surging after whopper of a quarter](https://www.cnn.com/2023/05/25/tech/nvidia-earnings-ai/index.html)
-- May 25 - [Canary domain – use-application-dns.net](https://support.mozilla.org/en-US/kb/canary-domain-use-application-dnsnet)
-- May 25 - [War Is a Racket (1935)](https://archive.org/details/WarIsARacket)
-- May 25 - [Aurora Store Accounts Blocked by Google](https://gitlab.com/AuroraOSS/AuroraStore/-/issues/912)
-- May 25 - [Super Colliding Nix Stores: Nix Flakes for Millions of Developers](https://blog.replit.com/super-colliding-nix-stores)
+- May 25 - [58% of US adults have heard of ChatGPT; 14% have tried it](https://www.pewresearch.org/short-reads/2023/05/24/a-majority-of-americans-have-heard-of-chatgpt-but-few-have-tried-it-themselves/)
+- May 25 - [Firefox displayed a pop-up ad for Mozilla VPN over an unrelated page](https://bugzilla.mozilla.org/show_bug.cgi?id=1835158)
+- May 25 - [DARPA’s silent MHD magnetic drives for replacing naval propellers](https://www.naval-technology.com/features/darpa-silent-mhd-magnetic-drives-for-replacing-naval-propellers/)
+- May 25 - [JobRunr: A library for background processing in Java](https://www.jobrunr.io/en/)
+- May 25 - [Neanderthal Flute](https://www.nms.si:443/en/collections/highlights/343-Neanderthal-flute)
 <!--END_SECTION:hn-->
 
 <!--
