@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 27 - [You can now share your ChatGPT conversations publicly](https://chat.openai.com/share/66169853-d00a-4b05-abce-8f82c6d8c868)
+- May 27 - [Large Language Models Are Few-Shot Health Learners](https://arxiv.org/abs/2305.15525)
+- May 26 - [Dolphin on Steam Indefinitely Postponed Due to Nintendo DMCA](https://dolphin-emu.org/blog/2023/05/27/dolphin-steam-indefinitely-postponed/)
 - May 26 - [Raspberry Pi&#x2F;PlatformIO conflict blocks support for Pico-Arduino toolchain](https://github.com/platformio/platform-raspberrypi/pull/36)
-- May 26 - [[418] I&#x27;m a Teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
-- May 26 - [Fontemon: Video Game in a Font](https://www.coderelay.io/fontemon.html)
-- May 26 - [What Neeva&#x27;s quiet exit tells us about the future of AI startups](https://www.supervised.news/p/what-neevas-quiet-exit-tells-us-about)
-- May 26 - [Times New Bastard](https://github.com/weiweihuanghuang/Times-New-Bastard)
+- May 26 - [418 I&#x27;m a teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
 <!--END_SECTION:hn-->
 
 <!--
