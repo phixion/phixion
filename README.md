@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 27 - [Ask HN: Suggestions to host 10TB data with a monthly +100TB bandwidth](https://news.ycombinator.com/item?id=36095289)
-- May 27 - [Defining a new HTTP method: HTTP Search (2021)](https://httptoolkit.com/blog/http-search-method/)
-- May 27 - [Hot Pixel&#x27; Attack Steals Data from Apple, Intel, Nvidia, and AMD Chips](https://www.tomshardware.com/news/hot-pixel-attack-steals-data-from-apple-and-nvidia-chips-using-frequency-power-and-temperature-info)
-- May 27 - [State Farm halts new property insurance policies in California](https://www.ocregister.com/2023/05/26/state-farm-says-no-new-property-insurance-clients-in-california/)
-- May 27 - [Meteorologists face unprecedented harassment from conspiracy theorists](https://www.cnn.com/2023/05/27/world/meteorologists-conspiracy-harassment-abuse-climate-intl/index.html)
+- May 27 - [Integrating Zig and SwiftUI](https://mitchellh.com/writing/zig-and-swiftui)
+- May 27 - [Notes on Stanford Linear Accelerator Center](https://charlieharrington.com/notes-on-slac/)
+- May 27 - [Show HN: RASCII, an advanced ASCII art generator made using Rust](https://github.com/KoBruhh/RASCII)
+- May 27 - [The First Social-Media Babies Are Growing Up–and They’re Horrified](https://www.theatlantic.com/technology/archive/2023/05/parents-posting-kids-online-tiktok-social-media/674137/)
+- May 27 - [WebXR](https://immersiveweb.dev/)
 <!--END_SECTION:hn-->
 
 <!--
