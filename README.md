@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 27 - [You can now share your ChatGPT conversations publicly](https://chat.openai.com/share/66169853-d00a-4b05-abce-8f82c6d8c868)
-- May 27 - [Large Language Models Are Few-Shot Health Learners](https://arxiv.org/abs/2305.15525)
-- May 26 - [Dolphin on Steam Indefinitely Postponed Due to Nintendo DMCA](https://dolphin-emu.org/blog/2023/05/27/dolphin-steam-indefinitely-postponed/)
-- May 26 - [Raspberry Pi&#x2F;PlatformIO conflict blocks support for Pico-Arduino toolchain](https://github.com/platformio/platform-raspberrypi/pull/36)
-- May 26 - [418 I&#x27;m a teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
+- May 27 - [Building a Personal VoIP System](https://www.sacredheartsc.com/blog/building-a-personal-voip-system/)
+- May 27 - [Experiences Won’t Make You Happier Than Possessions](https://every.to/p/buying-experiences-doesn-t-make-you-happier-than-possessions)
+- May 27 - [Can SGI’s enthusiast community bring IRIX back to life?](https://tedium.co/2023/05/27/sgi-irix-revival-efforts/)
+- May 27 - [Ask HN: What are some of the best papers on AI, ML, DL and their applications?](https://news.ycombinator.com/item?id=36092156)
+- May 27 - [ChatGPT conversations can be shared publicly](https://chat.openai.com/share/66169853-d00a-4b05-abce-8f82c6d8c868)
 <!--END_SECTION:hn-->
 
 <!--
