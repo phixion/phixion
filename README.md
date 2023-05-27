@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 26 - [0AD, an open source historical RTS in development for 22 years](https://play0ad.com/)
-- May 26 - [Show HN: I made an in-browser code editor with code replay and REPL](https://logicboard.com/demo)
-- May 26 - [Can we create a thread for some of the best materials on CS available online?](https://news.ycombinator.com/item?id=36088224)
-- May 26 - [The reality of Wayland input methods in 2022 (2022)](https://nimfsoft.art/blog/the-reality-of-wayland-input-methods-in-2022/)
-- May 26 - [Ispace Announces Results of the “Hakuto-R” Mission 1 Lunar Landing](https://ispace-inc.com/news-en/?p=4691)
+- May 26 - [Raspberry Pi&#x2F;PlatformIO conflict blocks support for Pico-Arduino toolchain](https://github.com/platformio/platform-raspberrypi/pull/36)
+- May 26 - [[418] I&#x27;m a Teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
+- May 26 - [Fontemon: Video Game in a Font](https://www.coderelay.io/fontemon.html)
+- May 26 - [What Neeva&#x27;s quiet exit tells us about the future of AI startups](https://www.supervised.news/p/what-neevas-quiet-exit-tells-us-about)
+- May 26 - [Times New Bastard](https://github.com/weiweihuanghuang/Times-New-Bastard)
 <!--END_SECTION:hn-->
 
 <!--
