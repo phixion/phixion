@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 27 - [Direct air capture: our technology to capture CO₂](https://climeworks.com/direct-air-capture)
-- May 27 - [Henry Kissinger turns 100 today](https://en.wikipedia.org/wiki/Henry_Kissinger)
-- May 27 - [A free Windows-compatible Operating System](https://github.com/reactos/reactos)
-- May 27 - [Servo, the parallel browser engine written in Rust](https://servo.org/)
-- May 27 - [Ask HN: What is a AI chip and how does it work?](https://news.ycombinator.com/item?id=36092831)
+- May 27 - [Ask HN: Suggestions to host 10TB data with a monthly +100TB bandwidth](https://news.ycombinator.com/item?id=36095289)
+- May 27 - [Defining a new HTTP method: HTTP Search (2021)](https://httptoolkit.com/blog/http-search-method/)
+- May 27 - [Hot Pixel&#x27; Attack Steals Data from Apple, Intel, Nvidia, and AMD Chips](https://www.tomshardware.com/news/hot-pixel-attack-steals-data-from-apple-and-nvidia-chips-using-frequency-power-and-temperature-info)
+- May 27 - [State Farm halts new property insurance policies in California](https://www.ocregister.com/2023/05/26/state-farm-says-no-new-property-insurance-clients-in-california/)
+- May 27 - [Meteorologists face unprecedented harassment from conspiracy theorists](https://www.cnn.com/2023/05/27/world/meteorologists-conspiracy-harassment-abuse-climate-intl/index.html)
 <!--END_SECTION:hn-->
 
 <!--
