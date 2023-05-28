@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 27 - [Integrating Zig and SwiftUI](https://mitchellh.com/writing/zig-and-swiftui)
-- May 27 - [Notes on Stanford Linear Accelerator Center](https://charlieharrington.com/notes-on-slac/)
-- May 27 - [Show HN: RASCII, an advanced ASCII art generator made using Rust](https://github.com/KoBruhh/RASCII)
-- May 27 - [The First Social-Media Babies Are Growing Up–and They’re Horrified](https://www.theatlantic.com/technology/archive/2023/05/parents-posting-kids-online-tiktok-social-media/674137/)
-- May 27 - [WebXR](https://immersiveweb.dev/)
+- May 27 - [State Farm to stop accepting homeowners insurance applications in California](https://www.cnbc.com/2023/05/27/state-farm-to-stop-accepting-homeowners-insurance-applications-in-california.html)
+- May 27 - [The Relay That Changed the Power Industry](https://spectrum.ieee.org/relay-changed-the-power-industry)
+- May 27 - [Google account deleted after 2 hours of Aurora](https://old.reddit.com/r/degoogle/comments/13td3iq/google_account_deleted_after_2_hours_of_aurora/)
+- May 27 - [Unbounded memory usage by Linux TCP for receive buffers, and how we fixed it](https://blog.cloudflare.com/unbounded-memory-usage-by-tcp-for-receive-buffers-and-how-we-fixed-it/)
+- May 27 - [Twitter engineering boss Foad Dabiri quits day after DeSantis launch glitches](https://www.bbc.com/news/business-65717731)
 <!--END_SECTION:hn-->
 
 <!--
