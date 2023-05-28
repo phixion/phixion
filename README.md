@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 28 - [CISA bulletin – PRC state-sponsored cyber actor techniques [pdf]](https://media.defense.gov/2023/May/24/2003229517/-1/-1/0/CSA_Living_off_the_Land.PDF)
-- May 28 - [Ask HN: What&#x27;s the Best Book on Religion](https://news.ycombinator.com/item?id=36104616)
-- May 28 - [Bcrypt at 25: A Retrospective on Password Security](https://www.usenix.org/publications/loginonline/bcrypt-25-retrospective-password-security)
-- May 28 - [The Gemini protocol as seen by curl maintainer](https://daniel.haxx.se/blog/2023/05/28/the-gemini-protocol-seen-by-this-http-client-person/)
-- May 28 - [SAR Values of Commercially Available Mobile Phones](https://www.bfs.de/SiteGlobals/Forms/Suche/BfS/EN/SARsuche_Formular.html?queryResultId=null&pageNo=0)
+- May 28 - [Steel Bank Common Lisp 2.3.5 released](https://sbcl.org/news.html)
+- May 28 - [Rust: The wrong people are resigning](https://gist.github.com/fasterthanlime/42da9378768aebef662dd26dddf04849)
+- May 28 - [Music Company Asks Google to Delist &#x27;YouTube Downloader&#x27; Wikipedia Article](https://torrentfreak.com/music-company-asks-google-to-delist-youtube-downloader-wikipedia-article-230528/)
+- May 28 - [Google Cloud Workstations managed development environment is now GA](https://cloud.google.com/blog/products/application-development/cloud-workstations-managed-development-environment-is-now-ga)
+- May 28 - [Apache Baremaps: online maps toolkit](https://baremaps.apache.org/)
 <!--END_SECTION:hn-->
 
 <!--
