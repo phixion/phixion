@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 28 - [China’s first domestically made passenger plane completes maiden flight](https://apnews.com/article/china-comac-c919-first-commercial-flight-6c2208ac5f1ed13e18a5b311f4d8e1ad)
-- May 28 - [Show HN: HNRelevant – Show related HN submissions in an integrated sidebar](https://github.com/imdj/HNRelevant)
-- May 28 - [ARM’s Cortex A53: Tiny but Important](https://chipsandcheese.com/2023/05/28/arms-cortex-a53-tiny-but-important/)
-- May 28 - [Txti is shutting down](https://txti.es)
-- May 28 - [Venetians are pondering raising their entire city](https://www.economist.com/science-and-technology/2023/05/24/why-venetians-are-pondering-raising-their-entire-city)
+- May 28 - [CISA bulletin – PRC state-sponsored cyber actor techniques [pdf]](https://media.defense.gov/2023/May/24/2003229517/-1/-1/0/CSA_Living_off_the_Land.PDF)
+- May 28 - [Ask HN: What&#x27;s the Best Book on Religion](https://news.ycombinator.com/item?id=36104616)
+- May 28 - [Bcrypt at 25: A Retrospective on Password Security](https://www.usenix.org/publications/loginonline/bcrypt-25-retrospective-password-security)
+- May 28 - [The Gemini protocol as seen by curl maintainer](https://daniel.haxx.se/blog/2023/05/28/the-gemini-protocol-seen-by-this-http-client-person/)
+- May 28 - [SAR Values of Commercially Available Mobile Phones](https://www.bfs.de/SiteGlobals/Forms/Suche/BfS/EN/SARsuche_Formular.html?queryResultId=null&pageNo=0)
 <!--END_SECTION:hn-->
 
 <!--
