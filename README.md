@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 27 - [State Farm to stop accepting homeowners insurance applications in California](https://www.cnbc.com/2023/05/27/state-farm-to-stop-accepting-homeowners-insurance-applications-in-california.html)
-- May 27 - [The Relay That Changed the Power Industry](https://spectrum.ieee.org/relay-changed-the-power-industry)
-- May 27 - [Google account deleted after 2 hours of Aurora](https://old.reddit.com/r/degoogle/comments/13td3iq/google_account_deleted_after_2_hours_of_aurora/)
-- May 27 - [Unbounded memory usage by Linux TCP for receive buffers, and how we fixed it](https://blog.cloudflare.com/unbounded-memory-usage-by-tcp-for-receive-buffers-and-how-we-fixed-it/)
-- May 27 - [Twitter engineering boss Foad Dabiri quits day after DeSantis launch glitches](https://www.bbc.com/news/business-65717731)
+- May 28 - [Ask HN: My GPT project has become a local hit but I can&#x27;t afford the bill](https://news.ycombinator.com/item?id=36100808)
+- May 28 - [Creating a sperm or egg from any cell? Reproduction revolution on the horizon](https://www.npr.org/sections/health-shots/2023/05/27/1177191913/sperm-or-egg-in-lab-breakthrough-in-reproduction-designer-babies-ivg)
+- May 28 - [Bombings of Hiroshima and Nagasaki (2014)](https://ahf.nuclearmuseum.org/ahf/history/bombings-hiroshima-and-nagasaki-1945/)
+- May 28 - [Couple May Need to Pay $250k to Have Banksy Mural Removed from Their Home](https://www.artnews.com/art-news/news/couple-may-pay-removal-banksy-home-1234669604/)
+- May 27 - [A relay that changed the power industry](https://spectrum.ieee.org/relay-changed-the-power-industry)
 <!--END_SECTION:hn-->
 
 <!--
