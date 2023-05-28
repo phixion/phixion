@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 28 - [Ask HN: My GPT project has become a local hit but I can&#x27;t afford the bill](https://news.ycombinator.com/item?id=36100808)
-- May 28 - [Creating a sperm or egg from any cell? Reproduction revolution on the horizon](https://www.npr.org/sections/health-shots/2023/05/27/1177191913/sperm-or-egg-in-lab-breakthrough-in-reproduction-designer-babies-ivg)
-- May 28 - [Bombings of Hiroshima and Nagasaki (2014)](https://ahf.nuclearmuseum.org/ahf/history/bombings-hiroshima-and-nagasaki-1945/)
-- May 28 - [Couple May Need to Pay $250k to Have Banksy Mural Removed from Their Home](https://www.artnews.com/art-news/news/couple-may-pay-removal-banksy-home-1234669604/)
-- May 27 - [A relay that changed the power industry](https://spectrum.ieee.org/relay-changed-the-power-industry)
+- May 28 - [Unnatural Keys – Nature doesn’t come with identifiers](https://matt-schellhas.medium.com/unnatural-keys-425a68ee350c)
+- May 28 - [Large language models do not recognize identifier swaps in Python](https://arxiv.org/abs/2305.15507)
+- May 28 - [Inner workings revealed for “Predator,” Android malware that exploited 5 0-days](https://arstechnica.com/information-technology/2023/05/inner-workings-revealed-for-predator-the-android-malware-that-exploited-5-0-days/)
+- May 28 - [Private Spies Hired by FBI and Corporations Infiltrate Discord, Reddit, WhatsApp](https://www.leefang.com/p/private-spies-hired-by-the-fbi-and)
+- May 28 - [About Dolly Parton’s Imagination Library](https://imaginationlibrary.com/about-us/)
 <!--END_SECTION:hn-->
 
 <!--
