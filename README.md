@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 28 - [Unnatural Keys – Nature doesn’t come with identifiers](https://matt-schellhas.medium.com/unnatural-keys-425a68ee350c)
-- May 28 - [Large language models do not recognize identifier swaps in Python](https://arxiv.org/abs/2305.15507)
-- May 28 - [Inner workings revealed for “Predator,” Android malware that exploited 5 0-days](https://arstechnica.com/information-technology/2023/05/inner-workings-revealed-for-predator-the-android-malware-that-exploited-5-0-days/)
-- May 28 - [Private Spies Hired by FBI and Corporations Infiltrate Discord, Reddit, WhatsApp](https://www.leefang.com/p/private-spies-hired-by-the-fbi-and)
-- May 28 - [About Dolly Parton’s Imagination Library](https://imaginationlibrary.com/about-us/)
+- May 28 - [China’s first domestically made passenger plane completes maiden flight](https://apnews.com/article/china-comac-c919-first-commercial-flight-6c2208ac5f1ed13e18a5b311f4d8e1ad)
+- May 28 - [Show HN: HNRelevant – Show related HN submissions in an integrated sidebar](https://github.com/imdj/HNRelevant)
+- May 28 - [ARM’s Cortex A53: Tiny but Important](https://chipsandcheese.com/2023/05/28/arms-cortex-a53-tiny-but-important/)
+- May 28 - [Txti is shutting down](https://txti.es)
+- May 28 - [Venetians are pondering raising their entire city](https://www.economist.com/science-and-technology/2023/05/24/why-venetians-are-pondering-raising-their-entire-city)
 <!--END_SECTION:hn-->
 
 <!--
