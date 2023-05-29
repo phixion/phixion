@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 29 - [New Arm Cores Deliver Up to 40% Better Performance](https://www.phonescoop.com/articles/article.php?a=23023)
+- May 29 - [WordPress Turns 20](https://ma.tt/2023/05/wp20-audrey-scholars/)
 - May 28 - [Easy Effects: Audio effects for PipeWire applications](https://github.com/wwmm/easyeffects)
-- May 28 - [Profit-Obsessed Private Equity Is Now Dominating the US Hospice System](https://jacobin.com/2023/05/private-equity-hospice-care-profit-regulation)
-- May 28 - [Functional Programming in Lean – a book on using Lean 4 to write programs](https://leanprover.github.io/functional_programming_in_lean/)
-- May 28 - [State of Space-Based Solar Radiation Management [pdf]](https://static1.squarespace.com/static/60d495bac7a14f7e7507d20b/t/640f43622e4d792d408acfee/1678721894552/PSF+-+State+of+Space+-+Print+Version.pdf)
-- May 28 - [A measles vaccine painlessly delivered via sticker shows promising early results](https://www.npr.org/sections/goatsandsoda/2023/05/26/1177678380/virtually-ouch-free-promising-early-data-on-a-measles-vaccine-delivered-via-stic)
+- May 28 - [Group accused in $225K &#x27;dice sliding&#x27; cheating scheme at Las Vegas casino](https://www.8newsnow.com/investigators/group-accused-in-225k-dice-sliding-cheating-scheme-at-las-vegas-casino/)
+- May 28 - [Private Equity Is Now Dominating the US Hospice System](https://jacobin.com/2023/05/private-equity-hospice-care-profit-regulation)
 <!--END_SECTION:hn-->
 
 <!--
