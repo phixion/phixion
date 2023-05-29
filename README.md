@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 29 - [Japan will try to beam solar power from space by 2025](https://www.engadget.com/japan-will-try-to-beam-solar-power-from-space-by-2025-214338244.html)
-- May 29 - [Circles Rolling on Circles (2014)](https://plus.maths.org/content/circles-rolling-circles)
-- May 29 - [Donut: OCR-Free Document Understanding Transformer](https://github.com/clovaai/donut)
-- May 29 - [AI will slightly drain the swamp of higher ed](https://betonit.substack.com/p/how-ai-will-change-higher-education)
-- May 29 - [No A&#x2F;C? No problem, if buildings copy networked tunnels of termite mounds](https://arstechnica.com/science/2023/05/intricate-tunnels-of-termite-mounds-could-be-key-to-energy-efficient-buildings/)
+- May 29 - [C++17’s useful features for embedded systems](https://interrupt.memfault.com/blog/cpp-17-for-embedded)
+- May 29 - [XFS Metadata Corruption on Linux 6.3 Tracked Down to One Missing One-Line Patch](https://www.phoronix.com/news/XFS-Patch-For-Linux-6.3)
+- May 29 - [Thanks, David Peter](https://duncanlock.net/blog/2023/05/28/thanks-david-peter/)
+- May 29 - [Show HN: A weekly newsletter that explain tech terms in plain, everyday language](https://codictionary.com/)
+- May 29 - [India ruling party&#x27;s IT cell used AI to show smile on arrested protesters&#x27; faces](https://www.altnews.in/wrestlers-detained-in-delhi-ai-image-of-smiling-vinesh-sangeeta-phogat-viral/)
 <!--END_SECTION:hn-->
 
 <!--
