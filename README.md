@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 29 - [New Arm Cores Deliver Up to 40% Better Performance](https://www.phonescoop.com/articles/article.php?a=23023)
-- May 29 - [WordPress Turns 20](https://ma.tt/2023/05/wp20-audrey-scholars/)
-- May 28 - [Easy Effects: Audio effects for PipeWire applications](https://github.com/wwmm/easyeffects)
-- May 28 - [Group accused in $225K &#x27;dice sliding&#x27; cheating scheme at Las Vegas casino](https://www.8newsnow.com/investigators/group-accused-in-225k-dice-sliding-cheating-scheme-at-las-vegas-casino/)
-- May 28 - [Private Equity Is Now Dominating the US Hospice System](https://jacobin.com/2023/05/private-equity-hospice-care-profit-regulation)
+- May 29 - [Commodore 64 Web server [video]](https://www.youtube.com/watch?v=O2cMnxShCVQ)
+- May 29 - [Fitting 44% More Data on a C64&#x2F;1541 Floppy Disk](https://www.pagetable.com/?p=1107)
+- May 29 - [Media Queries and Responsive Design](https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-design/)
+- May 29 - [Let us serve you, but don&#x27;t bring us down](https://blog.archive.org/2023/05/29/let-us-serve-you-but-dont-bring-us-down/)
+- May 29 - [Container Runtimes and WasmEdge benchmarking on Arm](https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/container-runtimes-wasmedge-arm)
 <!--END_SECTION:hn-->
 
 <!--
