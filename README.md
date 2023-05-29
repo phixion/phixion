@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 29 - [C++17’s useful features for embedded systems](https://interrupt.memfault.com/blog/cpp-17-for-embedded)
-- May 29 - [XFS Metadata Corruption on Linux 6.3 Tracked Down to One Missing One-Line Patch](https://www.phoronix.com/news/XFS-Patch-For-Linux-6.3)
-- May 29 - [Thanks, David Peter](https://duncanlock.net/blog/2023/05/28/thanks-david-peter/)
-- May 29 - [Show HN: A weekly newsletter that explain tech terms in plain, everyday language](https://codictionary.com/)
-- May 29 - [India ruling party&#x27;s IT cell used AI to show smile on arrested protesters&#x27; faces](https://www.altnews.in/wrestlers-detained-in-delhi-ai-image-of-smiling-vinesh-sangeeta-phogat-viral/)
+- May 29 - [CPR&#x27;s true survival rate is lower than many people think](https://www.npr.org/sections/health-shots/2023/05/29/1177914622/a-natural-death-may-be-preferable-for-many-than-enduring-cpr)
+- May 29 - [I don&#x27;t need to clean up my desktop and downloads folders in macOS (2021)](https://www.stefanjudis.com/blog/why-i-dont-need-to-clean-up-my-desktop-and-downloads-folder-in-macos/)
+- May 29 - [GDP is the wrong tool for measuring what matters (2020)](https://www.scientificamerican.com/article/gdp-is-the-wrong-tool-for-measuring-what-matters/)
+- May 29 - [Nvidia&#x27;s next DGX supercomputer is all about generative AI](https://www.tomshardware.com/news/nvidia-unveils-dgx-gh200-supercomputer-and-mgx-systems-grace-hopper-superchips-in-production)
+- May 29 - [Hold the postmortem: The metaverse was never alive in the first place](https://fastcompanyme.com/technology/hold-the-postmortem-the-metaverse-was-never-alive-in-the-first-place/)
 <!--END_SECTION:hn-->
 
 <!--
