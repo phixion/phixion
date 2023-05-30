@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 30 - [401(k) Hardship Withdrawals Tick Up as Inflation Stays High](https://www.nytimes.com/2023/05/27/business/401k-hardship-withdrawals-retirement.html)
-- May 30 - [React is 10 years old](https://twitter.com/dan_abramov/status/1663263814333153286)
-- May 30 - [WASIX, the Superset of WASI Supporting Threads, Processes and Sockets](https://wasmer.io/posts/announcing-wasix)
-- May 30 - [Germany’s solar power generation hit record high at weekend](https://www.bloomberg.com/news/articles/2023-05-29/germany-s-solar-power-generation-hit-record-high-at-weekend)
-- May 30 - [Halton Sequence](https://en.wikipedia.org/wiki/Halton_sequence)
+- May 30 - [New horror revealed in sargassum blob](https://caymannewsservice.com/2023/05/new-horror-revealed-in-sargassum-blob/)
+- May 30 - [UseHooks – A Collection of Server Component Safe React Hooks](https://usehooks.com/)
+- May 30 - [Turds in AI Generated Art](https://novalis.org/blog/2023-05-30-turds.html)
+- May 30 - [A Sun-like star orbiting a boson star](https://arxiv.org/abs/2304.09140)
+- May 30 - [MAS.862: The Physics of Information Technology](https://fab.cba.mit.edu/classes/862.22/index.html)
 <!--END_SECTION:hn-->
 
 <!--
