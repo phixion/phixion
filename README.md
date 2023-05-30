@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 30 - [Twitter&#x27;s Algorithm: Amplifying Anger, Animosity, and Affective Polarization](https://arxiv.org/abs/2305.16941)
+- May 30 - [MindsDB (YC W20) Is Hiring a Product Designer](https://jobs.lever.co/mindsdb/accfd609-8453-42a5-a4c8-1386d954bc85)
+- May 30 - [The FBI as advanced persistent threat](https://www.theregister.com/2023/05/30/column/)
+- May 30 - [Statement on AI Risk](https://www.safe.ai/statement-on-ai-risk)
+- May 30 - [Rust has been forked to the Crab Language](https://github.com/crablang/crab)
 - May 30 - [Dynamic Forms with LiveView Streams](https://fly.io/phoenix-files/dynamic-forms-with-streams/)
-- May 30 - [NASA&#x27;s Laser Link Boasts Record-Breaking 200 Gbps Speed](https://spectrum.ieee.org/laser-communications)
-- May 30 - [I gave commit rights to someone I didn&#x27;t know (2016)](https://tech.davis-hansson.com/p/clickbait/)
-- May 30 - [Macro-ts: TypeScript compiler with typesafe syntactic macros (2022)](https://blainehansen.me/post/macro-ts/)
 <!--END_SECTION:hn-->
 
 <!--
