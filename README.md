@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 30 - [MindsDB (YC W20) Is Hiring a Product Designer](https://jobs.lever.co/mindsdb/accfd609-8453-42a5-a4c8-1386d954bc85)
-- May 30 - [The FBI as advanced persistent threat](https://www.theregister.com/2023/05/30/column/)
-- May 30 - [Statement on AI Risk](https://www.safe.ai/statement-on-ai-risk)
-- May 30 - [Rust has been forked to the Crab Language](https://github.com/crablang/crab)
-- May 30 - [Dynamic Forms with LiveView Streams](https://fly.io/phoenix-files/dynamic-forms-with-streams/)
+- May 30 - [401(k) Hardship Withdrawals Tick Up as Inflation Stays High](https://www.nytimes.com/2023/05/27/business/401k-hardship-withdrawals-retirement.html)
+- May 30 - [React is 10 years old](https://twitter.com/dan_abramov/status/1663263814333153286)
+- May 30 - [WASIX, the Superset of WASI Supporting Threads, Processes and Sockets](https://wasmer.io/posts/announcing-wasix)
+- May 30 - [Germany’s solar power generation hit record high at weekend](https://www.bloomberg.com/news/articles/2023-05-29/germany-s-solar-power-generation-hit-record-high-at-weekend)
+- May 30 - [Halton Sequence](https://en.wikipedia.org/wiki/Halton_sequence)
 <!--END_SECTION:hn-->
 
 <!--
