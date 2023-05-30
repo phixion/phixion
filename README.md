@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 29 - [CPR&#x27;s true survival rate is lower than many people think](https://www.npr.org/sections/health-shots/2023/05/29/1177914622/a-natural-death-may-be-preferable-for-many-than-enduring-cpr)
-- May 29 - [I don&#x27;t need to clean up my desktop and downloads folders in macOS (2021)](https://www.stefanjudis.com/blog/why-i-dont-need-to-clean-up-my-desktop-and-downloads-folder-in-macos/)
-- May 29 - [GDP is the wrong tool for measuring what matters (2020)](https://www.scientificamerican.com/article/gdp-is-the-wrong-tool-for-measuring-what-matters/)
-- May 29 - [Nvidia&#x27;s next DGX supercomputer is all about generative AI](https://www.tomshardware.com/news/nvidia-unveils-dgx-gh200-supercomputer-and-mgx-systems-grace-hopper-superchips-in-production)
-- May 29 - [Hold the postmortem: The metaverse was never alive in the first place](https://fastcompanyme.com/technology/hold-the-postmortem-the-metaverse-was-never-alive-in-the-first-place/)
+- May 29 - [Most Bitcoin Inscriptions belong to a single person](https://block21m.substack.com/p/most-bitcoin-inscriptions-belong-d6d)
+- May 29 - [An open-source alternative to QuickBooks](https://bigcapital.ly)
+- May 29 - [Ask HN: Tired of being a software engineer, what next?](https://news.ycombinator.com/item?id=36118918)
+- May 29 - [Sigils are an underappreciated programming technology](https://raku-advent.blog/2022/12/20/sigils/)
+- May 29 - [DNSSEC KSK rollover breaks DNS resolution for .nz domains](https://status.internetnz.nz/incidents/gq1c6slz3198)
 <!--END_SECTION:hn-->
 
 <!--
