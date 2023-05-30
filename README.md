@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 30 - [HDF5eis: Storage IO solution for big multidimensional time series sensor data](https://pubs.geoscienceworld.org/geophysics/article-abstract/88/3/F29/622154/HDF5eis-A-storage-and-input-output-solution-for?redirectedFrom=fulltext)
+- May 30 - [How to hire a pop star for your private party](https://www.newyorker.com/magazine/2023/06/05/how-to-hire-a-pop-star-for-your-private-party)
+- May 30 - [A chiral aperiodic monotile](https://arxiv.org/abs/2305.17743)
+- May 29 - [You can serve static data over HTTP](https://ignore.pl/you_can_serve_static_data_over_http.html)
 - May 29 - [Most Bitcoin Inscriptions belong to a single person](https://block21m.substack.com/p/most-bitcoin-inscriptions-belong-d6d)
-- May 29 - [An open-source alternative to QuickBooks](https://bigcapital.ly)
-- May 29 - [Ask HN: Tired of being a software engineer, what next?](https://news.ycombinator.com/item?id=36118918)
-- May 29 - [Sigils are an underappreciated programming technology](https://raku-advent.blog/2022/12/20/sigils/)
-- May 29 - [DNSSEC KSK rollover breaks DNS resolution for .nz domains](https://status.internetnz.nz/incidents/gq1c6slz3198)
 <!--END_SECTION:hn-->
 
 <!--
