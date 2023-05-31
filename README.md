@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- May 30 - [Polish Credentials - 1,204,870 breached accounts](https://haveibeenpwned.com/PwnedWebsites#PolishCredentials)
 - May 19 - [Luxottica - 77,093,812 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Luxottica)
 - May 10 - [RentoMojo - 2,185,697 breached accounts](https://haveibeenpwned.com/PwnedWebsites#RentoMojo)
 - Apr 24 - [MEO - 8,227 breached accounts](https://haveibeenpwned.com/PwnedWebsites#MEO)
 - Apr 23 - [Terravision - 2,075,625 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Terravision)
-- Apr 14 - [OGUsers (2022 breach) - 529,020 breached accounts](https://haveibeenpwned.com/PwnedWebsites#OGUsers2022)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 30 - [New horror revealed in sargassum blob](https://caymannewsservice.com/2023/05/new-horror-revealed-in-sargassum-blob/)
-- May 30 - [UseHooks – A Collection of Server Component Safe React Hooks](https://usehooks.com/)
-- May 30 - [Turds in AI Generated Art](https://novalis.org/blog/2023-05-30-turds.html)
-- May 30 - [A Sun-like star orbiting a boson star](https://arxiv.org/abs/2304.09140)
-- May 30 - [MAS.862: The Physics of Information Technology](https://fab.cba.mit.edu/classes/862.22/index.html)
+- May 30 - [Tiny Transformer trained for addition learns bizarre addition algorithm](https://www.alignmentforum.org/posts/N6WM6hs7RQMKDhYjB/a-mechanistic-interpretability-analysis-of-grokking)
+- May 30 - [Noncompete Clauses Violate Labor Law, NLRB Lawyer Says](https://www.wsj.com/articles/noncompete-clauses-violate-labor-law-nlrb-lawyer-says-459fc081)
+- May 30 - [The role of cat eye narrowing movements in cat–human communication (2020)](https://www.nature.com/articles/s41598-020-73426-0)
+- May 30 - [IRS Can get financial Info of third parties without notice to third parties [pdf]](https://www.supremecourt.gov/opinions/22pdf/21-1599_l5gm.pdf)
+- May 30 - [Mandatory Certification Regarding Generative Artificial Intelligence](https://www.txnd.uscourts.gov/judge/judge-brantley-starr)
 <!--END_SECTION:hn-->
 
 <!--
