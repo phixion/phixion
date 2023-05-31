@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 30 - [Tiny Transformer trained for addition learns bizarre addition algorithm](https://www.alignmentforum.org/posts/N6WM6hs7RQMKDhYjB/a-mechanistic-interpretability-analysis-of-grokking)
-- May 30 - [Noncompete Clauses Violate Labor Law, NLRB Lawyer Says](https://www.wsj.com/articles/noncompete-clauses-violate-labor-law-nlrb-lawyer-says-459fc081)
-- May 30 - [The role of cat eye narrowing movements in cat–human communication (2020)](https://www.nature.com/articles/s41598-020-73426-0)
-- May 30 - [IRS Can get financial Info of third parties without notice to third parties [pdf]](https://www.supremecourt.gov/opinions/22pdf/21-1599_l5gm.pdf)
-- May 30 - [Mandatory Certification Regarding Generative Artificial Intelligence](https://www.txnd.uscourts.gov/judge/judge-brantley-starr)
+- May 31 - [Feedback: I try to answer “how to become a systems engineer”](https://rachelbythebay.com/w/2023/05/30/eng/)
+- May 31 - [Nvidia DGX GH200: 100 Terabyte GPU Memory System](https://developer.nvidia.com/blog/announcing-nvidia-dgx-gh200-first-100-terabyte-gpu-memory-system/)
+- May 30 - [Why F# evangelism isn&#x27;t working (2015)](https://ericsink.com/entries/fsharp_chasm.html)
+- May 30 - [A Mechanistic Interpretability Analysis of Grokking](https://www.alignmentforum.org/posts/N6WM6hs7RQMKDhYjB/a-mechanistic-interpretability-analysis-of-grokking)
+- May 30 - [Noncompete clauses violate labor law, NLRB lawyer says](https://www.wsj.com/articles/noncompete-clauses-violate-labor-law-nlrb-lawyer-says-459fc081)
 <!--END_SECTION:hn-->
 
 <!--
