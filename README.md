@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 31 - [AVX512 intrinsics for JDK’s Arrays.sort methods](https://github.com/openjdk/jdk/pull/14227)
-- May 31 - [Paragon Graphite is a Pegasus spyware clone used in the US](https://www.gamingdeputy.com/paragon-graphite-is-a-pegasus-spyware-clone-used-in-the-us/)
-- May 31 - [Shepherd&#x27;s Oasis Statement on Rustconf and Introspection](https://soasis.org/posts/statement-on-rustconf-compile-time-introspection/)
-- May 31 - [Ask HN: Is it just me or GPT-4&#x27;s quality has significantly deteriorated lately?](https://news.ycombinator.com/item?id=36134249)
-- May 31 - [I try to answer “how to become a systems engineer”](https://rachelbythebay.com/w/2023/05/30/eng/)
+- May 31 - [Skio (Subscriptions for Shopify, ReCharge migrations) is hiring](https://skio.com/careers/)
+- May 31 - [Rarbg Is No More](https://web.archive.org/web/20230531105653/https://rarbg.to/index80.php)
+- May 31 - [Arm announces the Cortex X4 for 2024, plus a 14-core M2-fighter](https://arstechnica.com/gadgets/2023/05/arm-announces-the-cortex-x4-for-2024-plus-a-14-core-m2-fighter/)
+- May 31 - [Beating the heat: These plant-based iridescent films stay cool in the sun](https://arstechnica.com/science/2023/05/beating-the-heat-these-plant-based-iridescent-films-stay-cool-in-the-sun/)
+- May 31 - [Zeal is an offline documentation browser for software developers](https://zealdocs.org/)
 <!--END_SECTION:hn-->
 
 <!--
