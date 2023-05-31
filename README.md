@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 31 - [AI Camera with No Lens](https://www.theprompt.io/p/ai-camera-no-lens)
-- May 31 - [The Rise and Fall of Getting Things Done](https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done)
-- May 31 - [AI intensifies fight against ‘paper mills’ that churn out fake research](https://www.nature.com/articles/d41586-023-01780-w)
-- May 31 - [Auschwitz museum criticizes use of death camp in politics](https://apnews.com/article/poland-ruling-party-tusk-march-auschwitz-e1d2e7c082dd61dedb2d7cb1c22ee4ac)
-- May 31 - [Show HN: Front end-Only-Authorization – A new web standard](https://foaz.io/)
+- May 31 - [Old Reddit is open source](https://github.com/reddit-archive/reddit)
+- May 31 - [Tesla Confirms Automated Driving Systems Were Engaged During Fatal Crash](https://jalopnik.com/tesla-confirm-automated-driving-engaged-fatal-crash-1850347917)
+- May 31 - [Popular Reddit App Apollo Would Need to Pay $20M per Year Under New API Pricing](https://www.macrumors.com/2023/05/31/reddit-api-changes-pricing-apollo/)
+- May 31 - [Reddit API Pricing Would Cost Apollo Developer $20M per Year](https://daringfireball.net/linked/2023/05/31/reddit-apollo-api-pricing)
+- May 31 - [macOS Like Fonts on Manjaro&#x2F;Arch Linux](https://aswinmohan.me/better-fonts-on-linux)
 <!--END_SECTION:hn-->
 
 <!--
