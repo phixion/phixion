@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 31 - [Skio (Subscriptions for Shopify, ReCharge migrations) is hiring](https://skio.com/careers/)
-- May 31 - [Rarbg Is No More](https://web.archive.org/web/20230531105653/https://rarbg.to/index80.php)
-- May 31 - [Arm announces the Cortex X4 for 2024, plus a 14-core M2-fighter](https://arstechnica.com/gadgets/2023/05/arm-announces-the-cortex-x4-for-2024-plus-a-14-core-m2-fighter/)
-- May 31 - [Beating the heat: These plant-based iridescent films stay cool in the sun](https://arstechnica.com/science/2023/05/beating-the-heat-these-plant-based-iridescent-films-stay-cool-in-the-sun/)
-- May 31 - [Zeal is an offline documentation browser for software developers](https://zealdocs.org/)
+- May 31 - [AI Camera with No Lens](https://www.theprompt.io/p/ai-camera-no-lens)
+- May 31 - [The Rise and Fall of Getting Things Done](https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done)
+- May 31 - [AI intensifies fight against ‘paper mills’ that churn out fake research](https://www.nature.com/articles/d41586-023-01780-w)
+- May 31 - [Auschwitz museum criticizes use of death camp in politics](https://apnews.com/article/poland-ruling-party-tusk-march-auschwitz-e1d2e7c082dd61dedb2d7cb1c22ee4ac)
+- May 31 - [Show HN: Front end-Only-Authorization – A new web standard](https://foaz.io/)
 <!--END_SECTION:hn-->
 
 <!--
