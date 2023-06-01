@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 01 - [June (YC W21) Is Hiring](https://www.ycombinator.com/companies/june/jobs/SHd7fFLYG-product-engineer-3)
-- Jun 01 - [Distcc: A fast, free distributed C&#x2F;C++ compiler](https://www.distcc.org/)
-- Jun 01 - [Show HN: Git credential helper using OAuth in browser](https://github.com/hickford/git-credential-oauth)
-- Jun 01 - [AI Horde’s AGPL3 hordelib receives DMCA take-down from hlky](https://dbzer0.com/blog/ai-hordes-agpl3-hordelib-receives-dmca-take-down-from-hlky/)
-- Jun 01 - [DNSSEC failures are how you get people to disable DNSSEC](https://utcc.utoronto.ca/~cks/space/blog/tech/DNSSECFailureDrivesDisablement)
+- Jun 01 - [Israeli Translator Destroys ChatGPT Hebrew Translation of the Great Gatsby](https://www.youtube.com/watch?v=ZNBjTY_mRio)
+- Jun 01 - [Industry docs reveal makers of &#x27;forever chemicals&#x27; covered up health dangers](https://phys.org/news/2023-05-secret-industry-documents-reveal-makers.html)
+- Jun 01 - [I think Zig is hard but worth it](http://ratfactor.com/zig/hard)
+- Jun 01 - [EPYC 7002 CPUs may hang after 1042 days of uptime](https://old.reddit.com/r/sysadmin/comments/13wmowy/psa_epyc_7002_cpus_may_hang_after_1042_days_of/)
+- Jun 01 - [Security.txt file now mandatory for Dutch government websites](https://netherlands.postsen.com/trends/198695/Securitytxt-now-mandatory-for-Dutch-government-websites.html)
 <!--END_SECTION:hn-->
 
 <!--
