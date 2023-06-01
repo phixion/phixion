@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 01 - [Israeli Translator Destroys ChatGPT Hebrew Translation of the Great Gatsby](https://www.youtube.com/watch?v=ZNBjTY_mRio)
-- Jun 01 - [Industry docs reveal makers of &#x27;forever chemicals&#x27; covered up health dangers](https://phys.org/news/2023-05-secret-industry-documents-reveal-makers.html)
-- Jun 01 - [I think Zig is hard but worth it](http://ratfactor.com/zig/hard)
-- Jun 01 - [EPYC 7002 CPUs may hang after 1042 days of uptime](https://old.reddit.com/r/sysadmin/comments/13wmowy/psa_epyc_7002_cpus_may_hang_after_1042_days_of/)
-- Jun 01 - [Security.txt file now mandatory for Dutch government websites](https://netherlands.postsen.com/trends/198695/Securitytxt-now-mandatory-for-Dutch-government-websites.html)
+- Jun 01 - [Measuring the productivity impact of generative AI](https://www.nber.org/digest/measuring-productivity-impact-generative-ai)
+- Jun 01 - [Show HN: Discipline.io – Make binding commitments to your better self](https://discipline.io/)
+- Jun 01 - [Ask HN: Who is hiring? (June 2023)](https://news.ycombinator.com/item?id=36152014)
+- Jun 01 - [Why Scientists Need to Get High](https://nautil.us/why-scientists-need-to-get-high-305830/)
+- Jun 01 - [Using Adapt and Beam for Effective Data Modeling](https://airbyte.com/blog/data-modeling-unsung-hero-data-engineering-architecture-pattern-tools)
 <!--END_SECTION:hn-->
 
 <!--
