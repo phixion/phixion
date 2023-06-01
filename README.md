@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 01 - [Measuring the productivity impact of generative AI](https://www.nber.org/digest/measuring-productivity-impact-generative-ai)
-- Jun 01 - [Show HN: Discipline.io – Make binding commitments to your better self](https://discipline.io/)
-- Jun 01 - [Ask HN: Who is hiring? (June 2023)](https://news.ycombinator.com/item?id=36152014)
-- Jun 01 - [Why Scientists Need to Get High](https://nautil.us/why-scientists-need-to-get-high-305830/)
-- Jun 01 - [Using Adapt and Beam for Effective Data Modeling](https://airbyte.com/blog/data-modeling-unsung-hero-data-engineering-architecture-pattern-tools)
+- Jun 01 - [New Device Generates Electricity from Thin Air](https://www.smithsonianmag.com/smart-news/this-new-device-generates-electricity-from-thin-air-180982263/)
+- Jun 01 - [WordPress.com launches paid newsletters](https://wordpress.com/blog/2023/06/01/newsletters-paid-subscriptions/)
+- Jun 01 - [Was modern art a CIA psy-op? (2020)](https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/)
+- Jun 01 - [Exterminate your desk: How to remove your mouse](https://nickbusey.com/article/2023-06-01-removing-your-mouse/)
+- Jun 01 - [How the tongue shaped life on Earth](https://www.science.org/content/article/how-tongue-shaped-life-on-earth)
 <!--END_SECTION:hn-->
 
 <!--
