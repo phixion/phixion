@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 31 - [Old Reddit is open source](https://github.com/reddit-archive/reddit)
-- May 31 - [Tesla Confirms Automated Driving Systems Were Engaged During Fatal Crash](https://jalopnik.com/tesla-confirm-automated-driving-engaged-fatal-crash-1850347917)
-- May 31 - [Popular Reddit App Apollo Would Need to Pay $20M per Year Under New API Pricing](https://www.macrumors.com/2023/05/31/reddit-api-changes-pricing-apollo/)
-- May 31 - [Reddit API Pricing Would Cost Apollo Developer $20M per Year](https://daringfireball.net/linked/2023/05/31/reddit-apollo-api-pricing)
-- May 31 - [macOS Like Fonts on Manjaro&#x2F;Arch Linux](https://aswinmohan.me/better-fonts-on-linux)
+- May 31 - [Falcon 40B LLM (which beats Llama) now Apache 2.0](https://twitter.com/Thom_Wolf/status/1663986216771936263)
+- May 31 - [OpenAPI v4 (aka Moonwalk) Proposal](https://github.com/OAI/moonwalk)
+- May 31 - [Show HN: Lance – Alternative to Parquet for ML data](https://github.com/lancedb/lance)
+- May 31 - [Japan Goes All In: Copyright Doesn’t Apply to AI Training](https://technomancers.ai/japan-goes-all-in-copyright-doesnt-apply-to-ai-training/)
+- May 31 - [Teddit – An alternative Reddit front-end focused on privacy](https://codeberg.org/teddit/teddit)
 <!--END_SECTION:hn-->
 
 <!--
