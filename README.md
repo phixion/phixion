@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 01 - [Lost John Coltrane recording, from experimental phase with Eric Dolphy, emerges](https://www.npr.org/2023/05/31/1179098682/john-coltrane-eric-dolphy-village-gate-1961-lost-album)
-- Jun 01 - [Tell HN: The dragon compiler book (2nd edition) is a great book](https://news.ycombinator.com/item?id=36146877)
-- Jun 01 - [FAA seeks public input on drone operations](https://www.faa.gov/newsroom/faa-seeks-public-input-drone-operations)
-- Jun 01 - [More malicious extensions in Chrome Web Store](https://palant.info/2023/05/31/more-malicious-extensions-in-chrome-web-store/)
-- May 31 - [DARPA hacked a science writer’s brain and turned her into a sharpshooter](https://thebulletin.org/2023/05/qa-how-darpa-hacked-a-science-writers-brain-and-turned-her-into-a-sharpshooter/)
+- Jun 01 - [June (YC W21) Is Hiring](https://www.ycombinator.com/companies/june/jobs/SHd7fFLYG-product-engineer-3)
+- Jun 01 - [Distcc: A fast, free distributed C&#x2F;C++ compiler](https://www.distcc.org/)
+- Jun 01 - [Show HN: Git credential helper using OAuth in browser](https://github.com/hickford/git-credential-oauth)
+- Jun 01 - [AI Horde’s AGPL3 hordelib receives DMCA take-down from hlky](https://dbzer0.com/blog/ai-hordes-agpl3-hordelib-receives-dmca-take-down-from-hlky/)
+- Jun 01 - [DNSSEC failures are how you get people to disable DNSSEC](https://utcc.utoronto.ca/~cks/space/blog/tech/DNSSECFailureDrivesDisablement)
 <!--END_SECTION:hn-->
 
 <!--
