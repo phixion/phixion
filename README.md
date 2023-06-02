@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 02 - [You can watermark GPT&#x27;s outputs discreetly](https://eprint.iacr.org/2023/763)
-- Jun 02 - [Ask HN: Who Got Hired?](https://news.ycombinator.com/item?id=36160198)
-- Jun 02 - [Rust to Assembly: Understanding the Inner Workings of Rust](https://eventhelix.com/rust/)
-- Jun 02 - [Presence of nicotine and antidepressants detected in Antarctic waters](https://www.bionity.com/en/news/1180593/presence-of-nicotine-and-antidepressants-detected-in-antarctic-waters.html)
-- Jun 02 - [Health System in Minnesota Cuts Off Patients with Medical Debt](https://www.nytimes.com/2023/06/01/business/allina-health-hospital-debt.html)
+- Jun 02 - [Radiation-hardened Quine: A quine that works after any one character is deleted](https://github.com/mame/radiation-hardened-quine)
+- Jun 02 - [California Spent $17B on Homelessness. It’s Not Working](https://www.wsj.com/articles/california-homeless-population-oakland-wood-street-encampment-78d42cc3)
+- Jun 02 - [Yes, everything is horrible and fucked up, but](https://www.smbc-comics.com/comic/horrible)
+- Jun 02 - [Memfault (YC W19) Is Hiring a Product Manager in Berlin – DevOps for Hardware](https://jobs.lever.co/memfault/4a93e014-cf06-4a7a-a1a4-46152324c3d2)
+- Jun 02 - [Targeted attack on our management with the Triangulation Trojan](https://usa.kaspersky.com/blog/triangulation-attack-on-ios/28444/)
 <!--END_SECTION:hn-->
 
 <!--
