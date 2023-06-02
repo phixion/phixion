@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 01 - [Chief executives cannot shut up about AI](https://www.economist.com/business/2023/06/01/chief-executives-cannot-shut-up-about-ai)
-- Jun 01 - [The last days of Berlin’s gas streetlamps](https://www.atlasobscura.com/articles/gas-streetlamps-berlin)
-- Jun 01 - [Usenet over NNCP](https://www.complete.org/usenet-over-nncp/)
-- Jun 01 - [Vectorization: Introduction](https://cvw.cac.cornell.edu/vector/default)
-- Jun 01 - [OpenAI Employee: GPT-4 has been static since March](https://twitter.com/OfficialLoganK/status/1663934947931897857)
+- Jun 02 - [You can watermark GPT&#x27;s outputs discreetly](https://eprint.iacr.org/2023/763)
+- Jun 02 - [Ask HN: Who Got Hired?](https://news.ycombinator.com/item?id=36160198)
+- Jun 02 - [Rust to Assembly: Understanding the Inner Workings of Rust](https://eventhelix.com/rust/)
+- Jun 02 - [Presence of nicotine and antidepressants detected in Antarctic waters](https://www.bionity.com/en/news/1180593/presence-of-nicotine-and-antidepressants-detected-in-antarctic-waters.html)
+- Jun 02 - [Health System in Minnesota Cuts Off Patients with Medical Debt](https://www.nytimes.com/2023/06/01/business/allina-health-hospital-debt.html)
 <!--END_SECTION:hn-->
 
 <!--
