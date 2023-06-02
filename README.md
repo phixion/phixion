@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 02 - [Agave (YC W22) is hiring Founding Eng to build data infra for construction](https://news.ycombinator.com/item?id=36163970)
-- Jun 02 - [Neverflow: Set of C macros that guard against buffer overflows](https://github.com/skullchap/neverflow)
-- Jun 02 - [Speeduino – Arduino based engine management](https://github.com/noisymime/speeduino)
-- Jun 02 - [PostgreSQL and SQL:2023](http://peter.eisentraut.org/blog/2023/04/18/postgresql-and-sql-2023)
-- Jun 02 - [27 years later and the Psion 3a is still wonderful](https://mcgst.com/2020/12/01/27-years-later-and-the-psion-3a-is-still-wonderful/)
+- Jun 02 - [Woman with untreated TB finally in custody – held in “negative pressure” room](https://arstechnica.com/health/2023/06/woman-with-untreated-tb-finally-in-custody-held-in-negative-pressure-room/)
+- Jun 02 - [Workers rely on medieval era tech to reconstruct the Notre Dame](https://www.popsci.com/technology/notre-dame-reconstruction-medieval-tools/)
+- Jun 02 - [System76's Coreboot Open Firmware Manages to Disable Intel Me for Raptor Lake](https://www.phoronix.com/news/System76-Disable-ME-RPL)
+- Jun 02 - [Skybox AI: Use AI to generate 3D worlds](https://skybox.blockadelabs.com/)
+- Jun 02 - [North America is now the growth leader for new battery factories](https://electrek.co/2023/05/31/north-america-battery-factories/)
 <!--END_SECTION:hn-->
 
 <!--
