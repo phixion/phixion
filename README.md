@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 02 - [Radiation-hardened Quine: A quine that works after any one character is deleted](https://github.com/mame/radiation-hardened-quine)
-- Jun 02 - [California Spent $17B on Homelessness. It’s Not Working](https://www.wsj.com/articles/california-homeless-population-oakland-wood-street-encampment-78d42cc3)
-- Jun 02 - [Yes, everything is horrible and fucked up, but](https://www.smbc-comics.com/comic/horrible)
-- Jun 02 - [Memfault (YC W19) Is Hiring a Product Manager in Berlin – DevOps for Hardware](https://jobs.lever.co/memfault/4a93e014-cf06-4a7a-a1a4-46152324c3d2)
-- Jun 02 - [Targeted attack on our management with the Triangulation Trojan](https://usa.kaspersky.com/blog/triangulation-attack-on-ios/28444/)
+- Jun 02 - [Agave (YC W22) is hiring Founding Eng to build data infra for construction](https://news.ycombinator.com/item?id=36163970)
+- Jun 02 - [Neverflow: Set of C macros that guard against buffer overflows](https://github.com/skullchap/neverflow)
+- Jun 02 - [Speeduino – Arduino based engine management](https://github.com/noisymime/speeduino)
+- Jun 02 - [PostgreSQL and SQL:2023](http://peter.eisentraut.org/blog/2023/04/18/postgresql-and-sql-2023)
+- Jun 02 - [27 years later and the Psion 3a is still wonderful](https://mcgst.com/2020/12/01/27-years-later-and-the-psion-3a-is-still-wonderful/)
 <!--END_SECTION:hn-->
 
 <!--
