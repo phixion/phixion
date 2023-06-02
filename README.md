@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 01 - [New Device Generates Electricity from Thin Air](https://www.smithsonianmag.com/smart-news/this-new-device-generates-electricity-from-thin-air-180982263/)
-- Jun 01 - [WordPress.com launches paid newsletters](https://wordpress.com/blog/2023/06/01/newsletters-paid-subscriptions/)
-- Jun 01 - [Was modern art a CIA psy-op? (2020)](https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/)
-- Jun 01 - [Exterminate your desk: How to remove your mouse](https://nickbusey.com/article/2023-06-01-removing-your-mouse/)
-- Jun 01 - [How the tongue shaped life on Earth](https://www.science.org/content/article/how-tongue-shaped-life-on-earth)
+- Jun 01 - [Chief executives cannot shut up about AI](https://www.economist.com/business/2023/06/01/chief-executives-cannot-shut-up-about-ai)
+- Jun 01 - [The last days of Berlin’s gas streetlamps](https://www.atlasobscura.com/articles/gas-streetlamps-berlin)
+- Jun 01 - [Usenet over NNCP](https://www.complete.org/usenet-over-nncp/)
+- Jun 01 - [Vectorization: Introduction](https://cvw.cac.cornell.edu/vector/default)
+- Jun 01 - [OpenAI Employee: GPT-4 has been static since March](https://twitter.com/OfficialLoganK/status/1663934947931897857)
 <!--END_SECTION:hn-->
 
 <!--
