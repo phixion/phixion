@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 02 - [Woman with untreated TB finally in custody – held in “negative pressure” room](https://arstechnica.com/health/2023/06/woman-with-untreated-tb-finally-in-custody-held-in-negative-pressure-room/)
-- Jun 02 - [Workers rely on medieval era tech to reconstruct the Notre Dame](https://www.popsci.com/technology/notre-dame-reconstruction-medieval-tools/)
-- Jun 02 - [System76's Coreboot Open Firmware Manages to Disable Intel Me for Raptor Lake](https://www.phoronix.com/news/System76-Disable-ME-RPL)
-- Jun 02 - [Skybox AI: Use AI to generate 3D worlds](https://skybox.blockadelabs.com/)
-- Jun 02 - [North America is now the growth leader for new battery factories](https://electrek.co/2023/05/31/north-america-battery-factories/)
+- Jun 02 - [Systems Explained by Humberto Maturana](https://www.open.edu/openlearn/money-management/management/leadership-and-management/managing/systems-explained-humberto-maturana)
+- Jun 02 - [Proven (Dot Lol)](https://omglol.news/2023/04/14/introducing-proven-dot-lol)
+- Jun 02 - [AI to Assist Mathematical Reasoning: A Workshop](https://terrytao.wordpress.com/2023/06/02/ai-to-assist-mathematical-reasoning-a-workshop/)
+- Jun 02 - [Speed running Monkey Island](https://www.grumpygamer.com/speed_running_mi)
+- Jun 02 - [SiFive Gives Its WorldGuard Security Model to the RISC-V Community](https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model-to-the-risc-v-community/)
 <!--END_SECTION:hn-->
 
 <!--
