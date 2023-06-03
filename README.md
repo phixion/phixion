@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 03 - [How the CIA used Crypto AG encryption devices to spy on countries for decades](https://www.washingtonpost.com/graphics/2020/world/national-security/cia-crypto-encryption-machines-espionage/)
-- Jun 03 - [Stop Eliminating Perfectly Good Candidates by Asking Them the Wrong Questions](https://hbr.org/2019/03/stop-eliminating-perfectly-good-candidates-by-asking-them-the-wrong-questions)
-- Jun 03 - [School district sues Meta, Google, and TikTok over ‘mental health crisis’](https://www.theverge.com/2023/6/2/23746904/maryland-school-meta-google-tiktok-snap-lawsuit)
-- Jun 03 - [Fq: Jq for Binary Formats](https://github.com/wader/fq)
-- Jun 03 - [Mementos: System Support for Long-Running Computation on RFID-Scale Devices](https://web.cs.umass.edu/publication/docs/2010/UM-CS-2010-060.pdf?ssp=1&setlang=sv-SE&safesearch=off)
+- Jun 03 - [New Security Warning Issued for Google's 1.8B Gmail Users](https://www.forbes.com/sites/gordonkelly/2023/06/03/google-gmail-problem-new-security-warning-sender-verification/)
+- Jun 03 - [Framework Laptop 16 Deep Dive: Display](https://frame.work/blog/framework-laptop-16-deep-dive---display)
+- Jun 03 - [Ask HN: Did Anyone Else Here Simply Not Do Well at School?](https://news.ycombinator.com/item?id=36177166)
+- Jun 03 - [100% Open Source CS:Go](https://lwss.github.io/Kisak-Strike/)
+- Jun 03 - [Fallen Pizza Startup Zume Shuts Down After Raising Millions](https://www.bloomberg.com/news/articles/2023-06-03/fallen-pizza-startup-zume-shuts-down-after-raising-millions)
 <!--END_SECTION:hn-->
 
 <!--
