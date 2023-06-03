@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 02 - [Systems Explained by Humberto Maturana](https://www.open.edu/openlearn/money-management/management/leadership-and-management/managing/systems-explained-humberto-maturana)
-- Jun 02 - [Proven (Dot Lol)](https://omglol.news/2023/04/14/introducing-proven-dot-lol)
-- Jun 02 - [AI to Assist Mathematical Reasoning: A Workshop](https://terrytao.wordpress.com/2023/06/02/ai-to-assist-mathematical-reasoning-a-workshop/)
-- Jun 02 - [Speed running Monkey Island](https://www.grumpygamer.com/speed_running_mi)
-- Jun 02 - [SiFive Gives Its WorldGuard Security Model to the RISC-V Community](https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model-to-the-risc-v-community/)
+- Jun 02 - [Brazil Develops Tropical Wheat and Predicts Self-Sufficiency in 5 Years](https://ukragroconsult.com/en/news/brazil-develops-tropical-wheat-and-predicts-self-sufficiency-in-5-years/)
+- Jun 02 - [Supreme Court sides with Slack, putting direct listings in jeopardy](https://www.axios.com/2023/06/02/supreme-court-sides-with-slack-putting-direct-listings-in-jeopardy)
+- Jun 02 - [Christopher Strachey and the dawn of interactive text](https://if50.substack.com/p/christopher-strachey-and-the-dawn)
+- Jun 02 - [OneSignal (YC S11) is hiring a data and analytics specialist](https://onesignal.com/careers/4007708006)
+- Jun 02 - [Photography's new bag of tricks (1984)](https://www.nytimes.com/1984/11/04/magazine/photography-s-new-bag-of-tricks.html)
 <!--END_SECTION:hn-->
 
 <!--
