@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 04 - [GNU poke: an extensible editor for structured binary data](http://www.jemarch.net/poke)
-- Jun 04 - [Atomic Wallet exploited, users report loss of entire portfolios](https://cointelegraph.com/news/atomic-wallet-exploited-users-report-loss-of-entire-portfolios)
-- Jun 04 - [It Will Cost More Than Total Future Production to Clean Up California Oil Sites](https://www.propublica.org/article/cost-of-california-oil-cleanup-exceeds-industry-profits)
-- Jun 03 - [Thought Cloning: Learning to think while acting by imitating human thinking](https://arxiv.org/abs/2306.00323)
+- Jun 04 - [.ga domain names soon to return to Gabonese management (from Freenom) [pdf]](https://www.afnic.fr/wp-media/uploads/2023/05/ga-domain-names-soon-to-return-to-Gabonese-management-1.pdf)
+- Jun 04 - [Why do railway tracks have crushed stones alongside them?](https://www.alpharail.co.nz/why-do-railway-tracks-have-crushed-stones-alongside-them/)
+- Jun 04 - [It could cost $21B to clean up California’s oil sites, study finds](https://www.propublica.org/article/cost-of-california-oil-cleanup-exceeds-industry-profits)
+- Jun 03 - [OpenAI's plans according to Sam Altman](https://web.archive.org/web/20230601000258/https://website-nm4keew22-humanloopml.vercel.app/blog/openai-plans)
 - Jun 03 - [Induction of a torpor-like state in rodents by ultrasound](https://www.livescience.com/health/consciousness/scientists-may-be-able-to-put-mars-bound-astronauts-into-suspended-animation-using-sound-waves-mouse-study-suggests)
 <!--END_SECTION:hn-->
 
