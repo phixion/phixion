@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 03 - [Still Love Telnet](https://bash-prompt.net/guides/telnet/)
-- Jun 03 - [Covid-19 vaccination-related myocarditis: A Korean nationwide study](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehad339/7188747)
-- Jun 03 - [Why Is GPS Free?](https://old.reddit.com/r/AskHistorians/comments/13y7ee7/why_is_gps_free/)
-- Jun 03 - [Setting time on fire and the temptation of The Button](https://www.oneusefulthing.org/p/setting-time-on-fire-and-the-temptation)
-- Jun 03 - [Ask HN: What’s the deal with random people sending me money over PayPal?](https://news.ycombinator.com/item?id=36179196)
+- Jun 03 - [Thought Cloning: Learning to think while acting by imitating human thinking](https://arxiv.org/abs/2306.00323)
+- Jun 03 - [Induction of a torpor-like state in rodents by ultrasound](https://www.livescience.com/health/consciousness/scientists-may-be-able-to-put-mars-bound-astronauts-into-suspended-animation-using-sound-waves-mouse-study-suggests)
+- Jun 03 - [Science and Technogy links (June 3 2023)](https://lemire.me/blog/2023/06/03/science-and-technogy-links-june-3-2023/)
+- Jun 03 - [GPS (2022)](https://ciechanow.ski/gps/)
+- Jun 03 - [Sick Workers Connected to 41 Percent of Food Poisoning Outbreaks, CDC Reports](https://www.smithsonianmag.com/smart-news/sick-workers-connected-to-41-percent-of-food-poisoning-outbreaks-cdc-reports-180982283/)
 <!--END_SECTION:hn-->
 
 <!--
