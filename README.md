@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 04 - [Iceland: The emerging tech-ecosystem of the Nordics](https://erikdestefanis.substack.com/p/iceland-the-emerging-tech-ecosystem)
-- Jun 04 - [Show HN: Rarbg on IPFS](https://ipfs.io/ipfs/QmbpRxBZ5HDZDVRoeAU8xFYnoP4r5eGCxdkmfFW3JbA6mq/)
-- Jun 04 - [Anything can be a message queue if you use it wrongly enough](https://xeiaso.net/blog/anything-message-queue)
-- Jun 04 - [High Prices Make Textbook ‘Piracy’ Acceptable to Most Students](https://torrentfreak.com/high-prices-make-textbook-piracy-acceptable-to-most-students-230604/)
-- Jun 04 - [Was This the Most Dangerous Children's Toy Ever?](https://keith-mcnulty.medium.com/was-this-the-most-dangerous-childrens-toy-ever-2bb31607b9a8)
+- Jun 04 - [OpenAI is getting sued for being biased with Y Combinator](https://twitter.com/short_straw/status/1655352280202313734)
+- Jun 04 - [Over 70% of US household Covid spread started with a child](https://www.cidrap.umn.edu/covid-19/more-70-us-household-covid-spread-started-child-study-suggests)
+- Jun 04 - [It’s infuriatingly hard to understand how closed models train on their input](https://simonwillison.net/2023/Jun/4/closed-model-training/)
+- Jun 04 - [Optery (YC W22) Hiring in Sales, Marketing, Customer Success, Business Ops](https://www.ycombinator.com/companies/optery/jobs)
+- Jun 04 - [AMD’s RX 7600: Small RDNA 3 Appears](https://chipsandcheese.com/2023/06/04/amds-rx-7600-small-rdna-3-appears/)
 <!--END_SECTION:hn-->
 
 <!--
