@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 05 - [The Rust I wanted had no future](https://graydon2.dreamwidth.org/307291.html)
-- Jun 05 - [Sandstorm: Open-source platform for self-hosting web apps](https://sandstorm.io/)
-- Jun 05 - [Moderation strike](https://meta.stackexchange.com/questions/389811/moderation-strike-stack-overflow-inc-cannot-consistently-ignore-mistreat-an)
-- Jun 05 - [Generative AI learning path](https://www.cloudskillsboost.google/paths/118)
-- Jun 05 - [Mystery math whiz and novelist advance permutation problem](https://www.quantamagazine.org/sci-fi-writer-greg-egan-and-anonymous-math-whiz-advance-permutation-problem-20181105/)
+- Jun 05 - [Thousands of early-career NIH researchers forming union for first time](https://www.nature.com/articles/d41586-023-01845-w)
+- Jun 05 - [Implementing Cosine in C from Scratch](https://web.archive.org/web/20210513043002/http://web.eecs.utk.edu/~azh/blog/cosine.html)
+- Jun 05 - [Why Lisp Syntax Works](https://borretti.me/article/why-lisp-syntax-works)
+- Jun 05 - [Capita hack: 90 organisations report data breaches to watchdog](https://www.bbc.com/news/technology-65746518)
+- Jun 05 - [Raspberry Pi production rate rising to a million a month](https://www.theregister.com/2023/06/05/raspberry_pi_shipments_rise/)
 <!--END_SECTION:hn-->
 
 <!--
