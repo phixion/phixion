@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 05 - [Sail 7B: New Fine Tuned LLM Outperforms ChatGPT and Vicuna with Search](https://old.reddit.com/r/AI_Agents/comments/140e03v/sail_7b_new_fine_tuned_language_model_outperforms/)
-- Jun 05 - [Launch HN: Nucleus (YC W23) – Kubernetes platform for both devs and ops](https://news.ycombinator.com/item?id=36197880)
-- Jun 05 - [Customer Ratings Have Become Meaningless. ‘People Give 5 Stars Like It’s Candy.’](https://www.wsj.com/articles/uber-airbnb-ratings-perfect-scores-customers-93686deb)
-- Jun 05 - [SEC Sues Binance and CEO Zhao for Breaking US Securities Rules](https://www.bloomberg.com/news/articles/2023-06-05/sec-sues-binance-and-ceo-zhao-for-breaking-us-securities-rule)
-- Jun 05 - [SEC Accuses Binance of Mishandling Funds and Lying to Regulators](https://www.nytimes.com/2023/06/05/business/sec-binance-charges.html)
+- Jun 05 - [macOS 14 will support JPEG XL](https://twitter.com/jonsneyers/status/1665792517613256705)
+- Jun 05 - [Apple Vision Pro](https://www.apple.com/apple-vision-pro/)
+- Jun 05 - [Apple Vision Pro: Apple’s first spatial computer](https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/)
+- Jun 05 - [Apple reveals Vision Pro, a AR/VR headset unlike any other](https://arstechnica.com/gadgets/2023/06/apple-reveals-reality-pro-a-ar-vr-headset-unlike-any-other/)
+- Jun 05 - [iOS 17 makes iPhone more personal and intuitive](https://www.apple.com/newsroom/2023/06/ios-17-makes-iphone-more-personal-and-intuitive/)
 <!--END_SECTION:hn-->
 
 <!--
