@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 04 - [OpenAI is getting sued for being biased with Y Combinator](https://twitter.com/short_straw/status/1655352280202313734)
-- Jun 04 - [Over 70% of US household Covid spread started with a child](https://www.cidrap.umn.edu/covid-19/more-70-us-household-covid-spread-started-child-study-suggests)
-- Jun 04 - [It’s infuriatingly hard to understand how closed models train on their input](https://simonwillison.net/2023/Jun/4/closed-model-training/)
-- Jun 04 - [Optery (YC W22) Hiring in Sales, Marketing, Customer Success, Business Ops](https://www.ycombinator.com/companies/optery/jobs)
-- Jun 04 - [AMD’s RX 7600: Small RDNA 3 Appears](https://chipsandcheese.com/2023/06/04/amds-rx-7600-small-rdna-3-appears/)
+- Jun 04 - [Book Review: Applied Math for Security](https://dustri.org/b/book-review-applied-math-for-security.html)
+- Jun 04 - [Do we need copyright? (2012)](https://lemire.me/blog/2012/03/22/do-we-need-copyright/)
+- Jun 04 - [The culture map: How to navigate foreign cultures in business](https://ahalbert.com/reviews/2023/06/04/the_culture_map.html)
+- Jun 04 - [Social media for AI bots: “No humans allowed”](https://www.fry-ai.com/p/social-media-no-humans-allowed)
+- Jun 04 - [Live dashboard of carbon dioxide removal purchases](https://www.cdr.fyi/)
 <!--END_SECTION:hn-->
 
 <!--
