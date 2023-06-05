@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 05 - [Thousands of early-career NIH researchers forming union for first time](https://www.nature.com/articles/d41586-023-01845-w)
-- Jun 05 - [Implementing Cosine in C from Scratch](https://web.archive.org/web/20210513043002/http://web.eecs.utk.edu/~azh/blog/cosine.html)
-- Jun 05 - [Why Lisp Syntax Works](https://borretti.me/article/why-lisp-syntax-works)
-- Jun 05 - [Capita hack: 90 organisations report data breaches to watchdog](https://www.bbc.com/news/technology-65746518)
-- Jun 05 - [Raspberry Pi production rate rising to a million a month](https://www.theregister.com/2023/06/05/raspberry_pi_shipments_rise/)
+- Jun 05 - [Sail 7B: New Fine Tuned LLM Outperforms ChatGPT and Vicuna with Search](https://old.reddit.com/r/AI_Agents/comments/140e03v/sail_7b_new_fine_tuned_language_model_outperforms/)
+- Jun 05 - [Launch HN: Nucleus (YC W23) – Kubernetes platform for both devs and ops](https://news.ycombinator.com/item?id=36197880)
+- Jun 05 - [Customer Ratings Have Become Meaningless. ‘People Give 5 Stars Like It’s Candy.’](https://www.wsj.com/articles/uber-airbnb-ratings-perfect-scores-customers-93686deb)
+- Jun 05 - [SEC Sues Binance and CEO Zhao for Breaking US Securities Rules](https://www.bloomberg.com/news/articles/2023-06-05/sec-sues-binance-and-ceo-zhao-for-breaking-us-securities-rule)
+- Jun 05 - [SEC Accuses Binance of Mishandling Funds and Lying to Regulators](https://www.nytimes.com/2023/06/05/business/sec-binance-charges.html)
 <!--END_SECTION:hn-->
 
 <!--
