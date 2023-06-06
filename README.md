@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 06 - [Corsix – A whirlwind tour of AArch64 vector instructions](https://www.corsix.org/content/whirlwind-tour-aarch64-vector-instructions)
-- Jun 06 - ['Guilt Tipping': Pressure to tip has gotten out of control](https://nypost.com/2022/04/08/guilt-tipping-pressure-to-tip-has-gotten-out-of-control/)
-- Jun 06 - [Counterexamples in Type Systems: programs that crash, segfault or explode (2021)](https://counterexamples.org/intro.html)
-- Jun 06 - [The ingredients of our devtool rebrand](https://www.mux.com/blog/rebranding-during-a-recession)
-- Jun 06 - [We reported a security issue in AWS CDK’s eks.Cluster component](https://garden.io/blog/aws-security-issue)
+- Jun 06 - [Early dispersal of domestic horses into the Great Plains and northern Rockies](https://fermatslibrary.com/s/early-dispersal-of-domestic-horses-into-the-great-plains-and-northern-rockies)
+- Jun 06 - [International Obfuscated Python Code Competition: Submissions Open](https://pyobfusc.com)
+- Jun 06 - [Ruff: A Fast Python Linter](https://lwn.net/Articles/930487/)
+- Jun 06 - [Octopuses, crabs and lobsters to be recognised as sentient beings under UK law](https://www.lse.ac.uk/News/Latest-news-from-LSE/2021/k-November-21/Octopuses-crabs-and-lobsters-welfare-protection)
+- Jun 06 - [MeZO: Fine-Tuning Language Models with Just Forward Passes](https://github.com/princeton-nlp/MeZO)
 <!--END_SECTION:hn-->
 
 <!--
