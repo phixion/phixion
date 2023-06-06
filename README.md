@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 05 - [Poor people often don’t survive to become seniors who vote](https://nymag.com/intelligencer/2018/05/poor-people-often-dont-survive-to-become-seniors-who-vote.html)
-- Jun 05 - [Tutorial: Teaching and Learning Compilers Incrementally](https://iucompilercourse.github.io/tutorial-web-page/)
-- Jun 05 - [Demo: Fully P2P and open source Reddit alternative](https://plebbit-test.netlify.app)
-- Jun 05 - [iOS Reddit App Apollo's Developer Surprised by WWDC Callout](https://old.reddit.com/r/apple/comments/141kfmi/wwdc_2023_event_megathread/)
-- Jun 05 - [Is there a wider internet outage today?](https://www.thousandeyes.com/outages/)
+- Jun 06 - [First impressions: Yes, Apple Vision Pro works and yes, it’s good](https://techcrunch.com/2023/06/05/first-impressions-yes-apple-vision-pro-works-and-yes-its-good/)
+- Jun 06 - [A 27-inch display in a briefcase](https://liliputing.com/lg-stanbyme-go-is-a-27-inch-portable-adjustable-display-in-a-briefacase/)
+- Jun 06 - [What Hallucinogens Will Make You See](https://nautil.us/what-hallucinogens-will-make-you-see-308247/)
+- Jun 06 - [Grail wrongly told hundreds of people they might have cancer](https://www.cbsnews.com/news/grail-cancer-test-mistake-letter/)
+- Jun 06 - [Wait Until 8TH](https://www.waituntil8th.org)
 <!--END_SECTION:hn-->
 
 <!--
