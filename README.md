@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 06 - [Svix (YC W21) Is Hiring an Account Executive (US Remote)](https://www.svix.com/careers/)
-- Jun 06 - [Sequoia Is Splitting into Three VC Firms](https://www.forbes.com/sites/alexkonrad/2023/06/06/sequoia-splits-into-three-firms/)
-- Jun 06 - [Reddit’s plan to kill third-party apps sparks widespread protests](https://arstechnica.com/gadgets/2023/06/reddits-plan-to-kill-third-party-apps-sparks-widespread-protests/)
-- Jun 06 - [Hyperparameter Optimization for LLMs via Scaling Laws](https://arxiv.org/abs/2302.00441)
-- Jun 06 - [Digg's v4 launch: an optimism born of necessity (2018)](https://lethain.com/digg-v4/)
+- Jun 06 - [Corsix – A whirlwind tour of AArch64 vector instructions](https://www.corsix.org/content/whirlwind-tour-aarch64-vector-instructions)
+- Jun 06 - ['Guilt Tipping': Pressure to tip has gotten out of control](https://nypost.com/2022/04/08/guilt-tipping-pressure-to-tip-has-gotten-out-of-control/)
+- Jun 06 - [Counterexamples in Type Systems: programs that crash, segfault or explode (2021)](https://counterexamples.org/intro.html)
+- Jun 06 - [The ingredients of our devtool rebrand](https://www.mux.com/blog/rebranding-during-a-recession)
+- Jun 06 - [We reported a security issue in AWS CDK’s eks.Cluster component](https://garden.io/blog/aws-security-issue)
 <!--END_SECTION:hn-->
 
 <!--
