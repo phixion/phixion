@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 06 - [First impressions: Yes, Apple Vision Pro works and yes, it’s good](https://techcrunch.com/2023/06/05/first-impressions-yes-apple-vision-pro-works-and-yes-its-good/)
-- Jun 06 - [A 27-inch display in a briefcase](https://liliputing.com/lg-stanbyme-go-is-a-27-inch-portable-adjustable-display-in-a-briefacase/)
-- Jun 06 - [What Hallucinogens Will Make You See](https://nautil.us/what-hallucinogens-will-make-you-see-308247/)
-- Jun 06 - [Grail wrongly told hundreds of people they might have cancer](https://www.cbsnews.com/news/grail-cancer-test-mistake-letter/)
-- Jun 06 - [Wait Until 8TH](https://www.waituntil8th.org)
+- Jun 06 - [Passkeys now support external providers](https://developer.apple.com/passkeys/)
+- Jun 06 - [Single chat group with 8 Billion people](https://chat8b.fly.dev/)
+- Jun 06 - [Homesepot $44K pre-fab house](https://www.homedepot.com/p/Getaway-Pad-540-sq-ft-1-Bed-and-Roof-Deck-Tiny-Home-Steel-Frame-Building-Kit-ADU-Cabin-Guest-house-GPRD540/320746688)
+- Jun 06 - [The Linux kernel will fix some peculiar argv usage in execve(2)](https://utcc.utoronto.ca/~cks/space/blog/linux/KernelArgvFixup)
+- Jun 06 - [Apple releasing segmentation/pose for humans and animals, embedding for 27 lang](https://developer.apple.com/wwdc23/topics/ml-vision/)
 <!--END_SECTION:hn-->
 
 <!--
