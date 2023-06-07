@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 07 - [Aptible (YC S14) Is Hiring: Security Engineer](https://news.ycombinator.com/item?id=36223766)
-- Jun 07 - [“csinc”, the AArch64 instruction you didn’t know you wanted](https://danlark.org/2023/06/06/csinc-the-arm-instruction-you-didnt-know-you-wanted/)
-- Jun 07 - [The Hindu supremacist movement is a growing threat in the U.S.](https://prismreports.org/2023/05/30/hindu-supremacist-movement-growing-threat/)
-- Jun 07 - [The Birth of the Grid](https://www.construction-physics.com/p/the-birth-of-the-grid)
-- Jun 07 - [Royal Navy says quantum navigation test a success](https://thequantuminsider.com/2023/06/06/royal-navy-says-quantum-navigation-test-a-success/)
+- Jun 07 - [Launch HN: Fastgen (YC W23) – Visual Low-Code Backend Builder](https://news.ycombinator.com/item?id=36225520)
+- Jun 07 - [FF4J – Feature Flags for Java](https://ff4j.github.io/)
+- Jun 07 - [Open Source Business Challenges and Reality, Rui Ueyama (Creator of Mold Linker)](https://gist.github.com/lleyton/9c0b75d065f37333ea9851b6cad1d1e6)
+- Jun 07 - [cuneicode, and the Future of Text in C](https://thephd.dev/cuneicode-and-the-future-of-text-in-c)
+- Jun 07 - [Ask HN: Code review as part of the peer review process?](https://news.ycombinator.com/item?id=36224703)
 <!--END_SECTION:hn-->
 
 <!--
