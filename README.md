@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 06 - [Notes on Vision Pro](https://notes.andymatuschak.org/Vision%20Pro)
-- Jun 06 - [Swift Ownership Manifesto](https://github.com/apple/swift/blob/main/docs/OwnershipManifesto.md)
-- Jun 06 - [Tesorio (YC S15) Is Hiring Back End Engineers, DevOps and Head of Marketing](https://www.tesorio.com/careers#job-openings)
-- Jun 06 - [SEC asks for emergency order to freeze Binance US assets anywhere in the world](https://www.cnbc.com/2023/06/06/sec-asks-for-emergency-order-to-freeze-binance-us-assets-anywhere-in-the-world.html)
-- Jun 06 - [Apple Releases New Static Linker](https://twitter.com/davidecci/status/1665835119331135488)
+- Jun 07 - [DirectX 12 Support on macOS](https://twitter.com/andytizer/status/1666131239575728130)
+- Jun 07 - [Microsoft has no shame: Bing spit on my ‘Chrome’ search with a fake AI answer](https://www.theverge.com/2023/6/6/23736289/microsoft-bing-chrome-search-fake-ai-chatbot)
+- Jun 07 - [Linux Audio Noise suppression using deep filtering in Rust](https://github.com/Rikorose/DeepFilterNet)
+- Jun 07 - [Santé (YC S23) Is Hiring – Build a Modern POS](https://www.ycombinator.com/companies/sante/jobs/Q1i7Iz0-founding-engineer-full-stack)
+- Jun 07 - [TelaMalloc: Efficient On-Chip Memory Allocation for Production ML Accelerators](https://www.micahlerner.com/2023/04/16/telamalloc-efficient-on-chip-memory-allocation-for-production-machine-learning-accelerators.html)
 <!--END_SECTION:hn-->
 
 <!--
