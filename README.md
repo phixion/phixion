@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 08 - [iOS 17 automatically removes tracking parameters from links you click on](https://9to5mac.com/2023/06/08/ios-17-link-tracking-protection/)
-- Jun 08 - [The paper that came up with Apple Vision Pro's outward-facing display [pdf]](https://www.medien.ifi.lmu.de/pubdb/publications/pub/mai2017mum/mai2017mum.pdf)
-- Jun 08 - [Intravenous Caffeine](https://www.sexdrugsandsuicide.com/p/intravenous-caffeine)
-- Jun 08 - [Tesla plans for 375,000 Cybertrucks per year](https://electrek.co/2023/06/08/tesla-plans-375000-cybertrucks-per-year-release-candidates-late-august/)
-- Jun 08 - [Weird GPT-4 behavior for the specific string “ davidjl”](https://twitter.com/goodside/status/1666598580319035392)
+- Jun 08 - [From simp to soldier: How the military is using e-girls to recruit Gen Z](https://mronline.org/2023/06/08/from-simp-to-soldier/)
+- Jun 08 - [Ask HN: How many of you have been laid of twice this year already?](https://news.ycombinator.com/item?id=36246816)
+- Jun 08 - [Taurine Deficiency as a Driver of Aging](https://www.science.org/doi/10.1126/science.abn9257)
+- Jun 08 - [Show HN: Visibly – More Collaborative and Efficient Code Reviews on GitHub](https://visibly.dev)
+- Jun 08 - [Synthesis Tutor – Your child’s own superhuman math tutor](https://www.synthesis.com/tutor)
 <!--END_SECTION:hn-->
 
 <!--
