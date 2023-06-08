@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 08 - [GiveCampus (YC S15) Is Hiring Senior Software Engineers for Education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- Jun 08 - [New version of Monica, codename Chandler, is available in beta](https://www.monicahq.com/blog/chandler-is-in-beta)
-- Jun 08 - [I ditched my car – and improved my fitness, sleep and bank balance](https://www.theguardian.com/lifeandstyle/2023/jun/07/a-moment-that-changed-me-i-ditched-my-car-and-improved-my-fitness-sleep-and-bank-balance)
-- Jun 08 - [Patterns of mean-level change in personality traits across the life course](https://pubmed.ncbi.nlm.nih.gov/16435954/)
-- Jun 08 - [The guide to software development with Guix](https://guix.gnu.org/blog/2023/from-development-environments-to-continuous-integrationthe-ultimate-guide-to-software-development-with-guix/)
+- Jun 08 - [iOS 17 automatically removes tracking parameters from links you click on](https://9to5mac.com/2023/06/08/ios-17-link-tracking-protection/)
+- Jun 08 - [The paper that came up with Apple Vision Pro's outward-facing display [pdf]](https://www.medien.ifi.lmu.de/pubdb/publications/pub/mai2017mum/mai2017mum.pdf)
+- Jun 08 - [Intravenous Caffeine](https://www.sexdrugsandsuicide.com/p/intravenous-caffeine)
+- Jun 08 - [Tesla plans for 375,000 Cybertrucks per year](https://electrek.co/2023/06/08/tesla-plans-375000-cybertrucks-per-year-release-candidates-late-august/)
+- Jun 08 - [Weird GPT-4 behavior for the specific string “ davidjl”](https://twitter.com/goodside/status/1666598580319035392)
 <!--END_SECTION:hn-->
 
 <!--
