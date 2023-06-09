@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 09 - [Apollo Back end just made public](https://old.reddit.com/r/apolloapp/comments/144l6se/apollo_backend_just_made_public_the_goal_of/)
-- Jun 09 - [Army tested 'germ warfare' on NYC subway by smashing lightbulbs full of bacteria](https://www.businessinsider.com/biological-agents-were-tested-on-the-new-york-city-subway-2015-11)
-- Jun 09 - [Google un-bans Downloader app, but developer still mad about “broken” DMCA](https://arstechnica.com/tech-policy/2023/06/google-un-bans-downloader-app-but-developer-still-mad-about-broken-dmca/)
-- Jun 09 - [ArchiveTeam has saved over 11.2B Reddit links so far. We need your help](https://old.reddit.com/r/DataHoarder/comments/142l1i0/archiveteam_has_saved_over_108_billion_reddit/)
-- Jun 09 - [Microsoft DeviceScript – TypeScript for Tiny IoT Devices](https://github.com/microsoft/devicescript)
+- Jun 09 - [Microsoft’s Azure portal down following new claims of DDoS attacks](https://www.bleepingcomputer.com/news/microsoft/microsofts-azure-portal-down-following-new-claims-of-ddos-attacks/)
+- Jun 09 - [3M Heads to Trial in ‘Existential’ $143B Forever-Chemicals Litigation](https://www.bloomberg.com/news/articles/2023-06-02/3m-heads-to-trial-in-existential-143-billion-pfas-litigation)
+- Jun 09 - [How the DEA Scrubbed Thomas Jefferson's Poppy Garden from Public Memory](https://www.alternet.org/2010/03/how_the_dea_scrubbed_thomas_jeffersons_monticello_poppy_garden_from_public_memory)
+- Jun 09 - [Who is working on forward and backward compatibility for LLMs?](https://huyenchip.com/2023/04/11/llm-engineering.html#backward_and_forward_compatibility)
+- Jun 09 - [Self-hosting the Tor Project users forum](https://blog.torproject.org/tor-project-forum-migration/)
 <!--END_SECTION:hn-->
 
 <!--
