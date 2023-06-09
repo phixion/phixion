@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 09 - [The US is getting its first new nuclear reactor in 40 years](https://grist.org/energy/first-us-nuclear-reactor-40-years-online-georgia/)
-- Jun 08 - [Google uses in-person office attendance as part of employee performance reviews](https://fortune.com/2023/06/08/google-remote-work-office-attendance-performance-review/)
-- Jun 08 - [The dog cull of 1760 divided London](https://www.historytoday.com/archive/history-matters/war-dogs)
-- Jun 08 - [Mechanical Apple Watch from real e-waste Apple Watch](https://www.instructables.com/Mechanical-Apple-Watch-From-Real-E-Waste-Apple-Wat/)
-- Jun 08 - [The TI (Lisp) Explorer Project](https://shanen.medium.com/the-ti-lisp-explorer-project-5fc53a90fb11)
+- Jun 09 - [ArchiveTeam has saved over 11.2B Reddit links so far. We need your help](https://old.reddit.com/r/DataHoarder/comments/142l1i0/archiveteam_has_saved_over_108_billion_reddit/)
+- Jun 09 - [Reddark: Website to watch subreddits going dark](https://reddark.netlify.app/)
+- Jun 09 - [Free-types: Higher kinded types in TypeScript](https://github.com/geoffreytools/free-types)
+- Jun 09 - [Flipper Zero Self Destructs an Electricity Smart Meter](https://www.rtl-sdr.com/flipper-zero-self-destructs-an-electricity-smart-meter/)
+- Jun 09 - [Adventures in Debian's Qt Land](https://perezmeyer.com.ar/blog/2023/06/08/adventures_in_debian_s_qt_land/)
 <!--END_SECTION:hn-->
 
 <!--
