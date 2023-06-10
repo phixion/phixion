@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 10 - [The Accidental HFT Firm](https://web.archive.org/web/20210205014443/https://meanderful.blogspot.com/2018/01/the-accidental-hft-firm.html)
-- Jun 10 - [A Case of the Mumps (2007)](https://thedailywtf.com/articles/A_Case_of_the_MUMPS)
-- Jun 10 - [Reddit bans subreddit detailing how to move to competitor Kbin](https://old.reddit.com/r/KbinMigration)
-- Jun 10 - [PlayHT (YC W23) Is Hiring a Senior ML Engineer (LLMs/Generative Models)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
-- Jun 10 - [Zig Language Server and Cancellation](https://matklad.github.io/2023/05/06/zig-language-server-and-cancellation.html)
+- Jun 10 - [Palantir CEO Rejects Calls to Pause AI Development](https://newsnotfound.com/palantir-ceo-rejects-calls-to-pause-ai-development-amid-global-debate/)
+- Jun 10 - [LLM.int8(): 8-Bit Matrix Multiplication for Transformers at Scale (2022)](https://arxiv.org/abs/2208.07339)
+- Jun 10 - [Wind-to-Hydrogen Production Reaches Deep Water](https://spectrum.ieee.org/green-hydrogen-offshore-wind)
+- Jun 10 - [Golang’s best-kept secret: ‘executable examples’](https://bitfieldconsulting.com/golang/examples)
+- Jun 10 - [UK hobbyist stuns math world with 'amazing' new shapes](https://phys.org/news/2023-06-uk-hobbyist-stuns-math-world.html)
 <!--END_SECTION:hn-->
 
 <!--
