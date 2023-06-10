@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 09 - [Artificial brains help understand real brains](https://www.economist.com/science-and-technology/2023/05/24/artificial-brains-are-helping-scientists-study-the-real-thing)
-- Jun 09 - [Ask HN: Is it time to resurrect a Usenet clone?](https://news.ycombinator.com/item?id=36262821)
-- Jun 09 - [Nix/NixOS S3 Update and Recap of Community Call](https://discourse.nixos.org/t/s3-update-and-recap-of-community-call/28942)
-- Jun 09 - [Turkish citizens' personal data offered online after government site hacked](https://balkaninsight.com/2023/06/09/turkish-citizens-personal-data-offered-online-after-govt-site-hacked/)
-- Jun 09 - [Store your epoch times as 64-bit floats](https://www.leebutterman.com/2021/02/01/store-your-unix-epoch-times-as-float64.html)
+- Jun 09 - [We Don’t Trade with Ants](https://worldspiritsockpuppet.com/2023/01/10/we-dont-trade-with-ants.html)
+- Jun 09 - [The Mao-Kissinger Meeting of 1973](https://gaodawei.wordpress.com/2023/06/08/1973-prc-notes-on-mao-kissinger-meeting-of-february-17-1973/)
+- Jun 09 - [A Gallop Through a Horse’s Pedigree](https://3quarksdaily.com/3quarksdaily/2023/06/a-gallup-through-a-horses-pedigree.html)
+- Jun 09 - [Edmund Burke was a more complicated thinker than realized](https://www.newstatesman.com/ideas/2023/06/influence-edmund-burke-national-conservatism-intellectual-jewish)
+- Jun 09 - [Wow, is Apple’s Vision Pro loaded with pixels](https://spectrum.ieee.org/apple-vision-pro)
 <!--END_SECTION:hn-->
 
 <!--
