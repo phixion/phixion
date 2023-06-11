@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 11 - [Thousands of subreddits pledge to go dark after the Reddit CEO’s recent remarks](https://www.theverge.com/2023/6/10/23756476/reddit-protest-api-changes-apollo-third-party-apps)
-- Jun 11 - [Searchable and sortable H1B salary database](https://jobsort.com/h1b)
-- Jun 11 - [The curious death of Oppenheimer’s mistress (2015)](https://blog.nuclearsecrecy.com/2015/12/11/the-curious-death-of-oppenheimers-mistress/)
-- Jun 11 - [Fluent – A localization system for natural-sounding translations](https://projectfluent.org/)
-- Jun 10 - [Inside the Wuhan lab weeks before Covid](https://www.thetimes.co.uk/article/inside-wuhan-lab-covid-pandemic-china-america-qhjwwwvm0)
+- Jun 11 - [Twitter is refusing to pay its Google Cloud bills](https://tech.seposts.com/2023/06/twitter-is-refusing-to-pay-its-google.html)
+- Jun 11 - [Black Boxes Are Key to Solving Plane Crashes–Why Aren't They Better?](https://www.afar.com/magazine/how-black-boxes-changed-air-travel)
+- Jun 11 - [Electric cars are better for the environment, no matter the power source](https://www.popsci.com/technology/are-electric-cars-better-for-the-environment/)
+- Jun 11 - [Before he was the Unabomber, Ted Kaczynski was a mind-control test subject](https://www.washingtonpost.com/history/2023/06/11/unabomber-ted-kaczynski-harvard-experiment/)
+- Jun 11 - [Can you trust ChatGPT’s package recommendations?](https://vulcan.io/blog/ai-hallucinations-package-risk)
 <!--END_SECTION:hn-->
 
 <!--
