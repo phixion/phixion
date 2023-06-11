@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 11 - [ICDStories: Unraveling Medical Mysteries Through the Lens of ICD-10 Codes](https://icdstories.substack.com/)
+- Jun 11 - [Thousands of subreddits pledge to go dark after the Reddit CEO’s recent remarks](https://www.theverge.com/2023/6/10/23756476/reddit-protest-api-changes-apollo-third-party-apps)
+- Jun 11 - [Searchable and sortable H1B salary database](https://jobsort.com/h1b)
+- Jun 11 - [The curious death of Oppenheimer’s mistress (2015)](https://blog.nuclearsecrecy.com/2015/12/11/the-curious-death-of-oppenheimers-mistress/)
 - Jun 11 - [Fluent – A localization system for natural-sounding translations](https://projectfluent.org/)
-- Jun 10 - [Turn dumb tweets into cuneiform tablets](https://dumbcuneiform.com/)
-- Jun 10 - [Arrested for using Linux and encryption in France [video]](https://www.youtube.com/watch?v=cyFL7KJGcC0)
-- Jun 10 - [Peanut Butter Jellyfin Time](https://gebir.ge/blog/peanut-butter-jellyfin-time/)
+- Jun 10 - [Inside the Wuhan lab weeks before Covid](https://www.thetimes.co.uk/article/inside-wuhan-lab-covid-pandemic-china-america-qhjwwwvm0)
 <!--END_SECTION:hn-->
 
 <!--
