@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 11 - [Twitter is refusing to pay its Google Cloud bills](https://tech.seposts.com/2023/06/twitter-is-refusing-to-pay-its-google.html)
-- Jun 11 - [Black Boxes Are Key to Solving Plane Crashes–Why Aren't They Better?](https://www.afar.com/magazine/how-black-boxes-changed-air-travel)
-- Jun 11 - [Electric cars are better for the environment, no matter the power source](https://www.popsci.com/technology/are-electric-cars-better-for-the-environment/)
-- Jun 11 - [Before he was the Unabomber, Ted Kaczynski was a mind-control test subject](https://www.washingtonpost.com/history/2023/06/11/unabomber-ted-kaczynski-harvard-experiment/)
-- Jun 11 - [Can you trust ChatGPT’s package recommendations?](https://vulcan.io/blog/ai-hallucinations-package-risk)
+- Jun 11 - [“Blue Mind Theory”](https://www.insidehook.com/daily_brief/health-and-fitness/blue-mind-theory-water-relaxation)
+- Jun 11 - [ChatGPT Changed How I Write Software](https://www.readysetcloud.io/blog/allen.helton/chatgpt-changed-how-i-write-software/)
+- Jun 11 - [If We’re Not Careful, the AI Revolution Could Become the ‘Great Homogenization’](https://www.nasdaq.com/articles/if-were-not-careful-the-ai-revolution-could-become-the-great-homogenization)
+- Jun 11 - [A compact overview of JDK 21’s “frozen” feature list](https://vived.io/a-compact-overview-of-jdk-21s-frozen-feature-list-jvm-weekly-vol-138/)
+- Jun 11 - [A Tradecraft Primer (2009)](https://www.cia.gov/resources/csi/books-monographs/a-tradecraft-primer/)
 <!--END_SECTION:hn-->
 
 <!--
