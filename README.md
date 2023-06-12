@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 11 - [Why are blocks on Bluesky public?](https://atproto.com/blog/block-implementation)
-- Jun 11 - [GrayC: Greybox Fuzzing of Compilers and Analysers for C [pdf]](https://srg.doc.ic.ac.uk/files/papers/grayc-issta-23.pdf)
-- Jun 11 - [A Brief History of the Corporation: 1600 to 2100 (2011)](https://www.ribbonfarm.com/2011/06/08/a-brief-history-of-the-corporation-1600-to-2100/)
-- Jun 11 - [JPEG XL against AVIF tested on ImageEngine](https://mastodon.online/@jonarnes/110514451857948151)
-- Jun 11 - [Show HN: Java REST without annotations, DI nor reactive streams](https://github.com/MartinGeisse/grumpyrest)
+- Jun 11 - [Surging stockmarkets are powered by artificial intelligence](https://www.economist.com/finance-and-economics/2023/06/07/surging-stockmarkets-are-powered-by-artificial-intelligence)
+- Jun 11 - [Intel Is All-In on Backside Power Delivery](https://spectrum.ieee.org/backside-power-delivery)
+- Jun 11 - [Code and Programming Projects](https://www.chrisgregory.me/code)
+- Jun 11 - [The Value of Personal Data in Internet Commerce](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3962157)
+- Jun 11 - [El Paquete Semanal](https://en.wikipedia.org/wiki/El_Paquete_Semanal)
 <!--END_SECTION:hn-->
 
 <!--
