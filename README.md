@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 12 - [Show HN: Open-Source vs. OpenAI. 8 Best Open-Source Alternatives to GPT](https://neoteric.eu/blog/open-source-vs-openai-8-best-open-source-alternatives-to-gpt/)
-- Jun 12 - [An America-Less Internet](https://www.nthbrock.com/posts/americaless-internet/)
-- Jun 12 - [Debian GNU/Hurd 2023 released](https://www.gnu.org/software/hurd/news/2023-06-11-debian_gnu_hurd_2023.html)
-- Jun 12 - [Amazon's First Job Listing](https://groups.google.com/g/ba.jobs.offered/c/-rvJUMBbZ18)
-- Jun 12 - [Fark redesign is now live (2007)](https://www.fark.com/comments/2762299/Fark-site-redesign-is-now-live-Hope-nothing-breaks-were-all-out-drinking)
+- Jun 12 - [WHO advises against use of artificial sweeteners](https://news.un.org/en/story/2023/05/1136667)
+- Jun 12 - [Edge sends images you view online to Microsoft](https://www.neowin.net/news/edge-sends-images-you-view-online-to-microsoft-here-is-how-to-disable-that/)
+- Jun 12 - [Cloudflare Is Having Issues](https://www.cloudflarestatus.com)
+- Jun 12 - [Amazon accuses customer of racism and shuts down their smart home](https://www.youtube.com/watch?v=NfiIXooD77s)
+- Jun 12 - [Reddit.com appears to be having an outage](https://news.ycombinator.com/item?id=36294244)
 <!--END_SECTION:hn-->
 
 <!--
