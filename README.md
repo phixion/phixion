@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 12 - [Upgrading my Chumby 8 kernel part 5: graphics](https://www.downtowndougbrown.com/2023/06/upgrading-my-chumby-8-kernel-part-5-graphics/)
-- Jun 12 - [The Surprising Power of Documentation](https://vadimkravcenko.com/shorts/proper-documentation/)
-- Jun 12 - [Stack Overflow Moderation Strike Update](https://meta.stackexchange.com/questions/390106/moderation-strike-update-data-dumps-choosing-representatives-gpt-data-and-wh)
-- Jun 12 - [Reddit experiments on users, forcing them to install app or else not use Reddit](https://old.reddit.com/r/help/comments/135tly1/helpdid_reddit_just_destroy_mobile_browser_access/)
-- Jun 11 - [Intel is all-in on backside power delivery](https://spectrum.ieee.org/backside-power-delivery)
+- Jun 12 - [Ask HN: Anyone at Reddit can confirm a traffic dip?](https://news.ycombinator.com/item?id=36289290)
+- Jun 12 - [Before Reddit and Digg, there was Fark. Then a user-hostile redesign killed it](https://www.fark.com/comments/2762299/Fark-site-redesign-is-now-live-Hope-nothing-breaks-were-all-out-drinking)
+- Jun 12 - [Judge denies Amazon’s, Apple’s motions to dismiss class action price-fixing suit](https://arstechnica.com/tech-policy/2023/06/judge-allows-apple-and-amazon-price-fixing-lawsuit-to-move-forward/)
+- Jun 12 - [Video to Video with Stable Diffusion (Step-by-Step) – Stable Diffusion Art](https://stable-diffusion-art.com/video-to-video/)
+- Jun 12 - [Livestream of Reddit subreddits going private in protest](https://www.twitch.tv/reddark_247)
 <!--END_SECTION:hn-->
 
 <!--
