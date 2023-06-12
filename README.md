@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 11 - [Surging stockmarkets are powered by artificial intelligence](https://www.economist.com/finance-and-economics/2023/06/07/surging-stockmarkets-are-powered-by-artificial-intelligence)
-- Jun 11 - [Intel Is All-In on Backside Power Delivery](https://spectrum.ieee.org/backside-power-delivery)
-- Jun 11 - [Code and Programming Projects](https://www.chrisgregory.me/code)
-- Jun 11 - [The Value of Personal Data in Internet Commerce](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3962157)
-- Jun 11 - [El Paquete Semanal](https://en.wikipedia.org/wiki/El_Paquete_Semanal)
+- Jun 12 - [Upgrading my Chumby 8 kernel part 5: graphics](https://www.downtowndougbrown.com/2023/06/upgrading-my-chumby-8-kernel-part-5-graphics/)
+- Jun 12 - [The Surprising Power of Documentation](https://vadimkravcenko.com/shorts/proper-documentation/)
+- Jun 12 - [Stack Overflow Moderation Strike Update](https://meta.stackexchange.com/questions/390106/moderation-strike-update-data-dumps-choosing-representatives-gpt-data-and-wh)
+- Jun 12 - [Reddit experiments on users, forcing them to install app or else not use Reddit](https://old.reddit.com/r/help/comments/135tly1/helpdid_reddit_just_destroy_mobile_browser_access/)
+- Jun 11 - [Intel is all-in on backside power delivery](https://spectrum.ieee.org/backside-power-delivery)
 <!--END_SECTION:hn-->
 
 <!--
