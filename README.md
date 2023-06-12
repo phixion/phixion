@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 12 - [WHO advises against use of artificial sweeteners](https://news.un.org/en/story/2023/05/1136667)
-- Jun 12 - [Edge sends images you view online to Microsoft](https://www.neowin.net/news/edge-sends-images-you-view-online-to-microsoft-here-is-how-to-disable-that/)
-- Jun 12 - [Cloudflare Is Having Issues](https://www.cloudflarestatus.com)
-- Jun 12 - [Amazon accuses customer of racism and shuts down their smart home](https://www.youtube.com/watch?v=NfiIXooD77s)
-- Jun 12 - [Reddit.com appears to be having an outage](https://news.ycombinator.com/item?id=36294244)
+- Jun 12 - [Show HN: FlingUp, a Reddit-like platform Ive been building for the last 2 years](https://flingup.com)
+- Jun 12 - [Reddit crashed because of the growing subreddit blackout](https://www.theverge.com/2023/6/12/23758002/reddit-crashing-api-protest-subreddit-private-going-dark)
+- Jun 12 - [Earth's rotation, with the camera locked to the sky instead of the ground](https://mastodon.social/@coreyspowell/110531182569820738)
+- Jun 12 - [Escape from Silicon Valley (alternative visions of computation)](https://monroelab.net/escape-from-silicon-valley-alternative-visions-of-computation)
+- Jun 12 - [The continuing tragedy of CSS](https://paulrobertlloyd.com/2023/162/a1/css_day/)
 <!--END_SECTION:hn-->
 
 <!--
