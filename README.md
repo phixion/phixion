@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 12 - [Show HN: FlingUp, a Reddit-like platform Ive been building for the last 2 years](https://flingup.com)
-- Jun 12 - [Reddit crashed because of the growing subreddit blackout](https://www.theverge.com/2023/6/12/23758002/reddit-crashing-api-protest-subreddit-private-going-dark)
-- Jun 12 - [Earth's rotation, with the camera locked to the sky instead of the ground](https://mastodon.social/@coreyspowell/110531182569820738)
-- Jun 12 - [Escape from Silicon Valley (alternative visions of computation)](https://monroelab.net/escape-from-silicon-valley-alternative-visions-of-computation)
-- Jun 12 - [The continuing tragedy of CSS](https://paulrobertlloyd.com/2023/162/a1/css_day/)
+- Jun 12 - [Westfield Gives Up Downtown San Francisco Mall](https://sfstandard.com/business/westfield-gives-up-downtown-san-francisco-mall/)
+- Jun 12 - [US Rural Hospital Closures Since 2005](https://www.shepscenter.unc.edu/programs-projects/rural-health/rural-hospital-closures/)
+- Jun 12 - [Why sqlite3 temp files were renamed 'etilqs_*' (2006)](https://github.com/mackyle/sqlite/blob/18cf47156abe94255ae1495ba2da84517dce6081/src/os.h)
+- Jun 12 - [A New Experiment Casts Doubt on the Leading Theory of the Nucleus](https://www.quantamagazine.org/a-new-experiment-casts-doubt-on-the-leading-theory-of-the-nucleus-20230612/)
+- Jun 12 - [Don't use custom CSS scrollbars](https://ericwbailey.website/published/dont-use-custom-css-scrollbars/)
 <!--END_SECTION:hn-->
 
 <!--
