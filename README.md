@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 13 - [Xerox scanners randomly alter numbers in scanned documents](https://www.dkriesel.com/en/blog/2013/0802_xerox-workcentres_are_switching_written_numbers_when_scanning)
-- Jun 13 - [Meta to Buy Almost 7M Carbon Credits](https://carboncredits.com/meta-to-buy-almost-7-million-carbon-credits-from-aspiration/)
-- Jun 13 - [Llama.cpp: Full CUDA GPU Acceleration](https://github.com/ggerganov/llama.cpp/pull/1827)
-- Jun 13 - [Vintage National Geographic Photos](https://vintagenatgeographic.tumblr.com/)
-- Jun 13 - [MrBeast has become a viral sensation for his acts of altruism](https://www.nytimes.com/2023/06/12/magazine/mrbeast-youtube.html)
+- Jun 13 - [My Day Away from Reddit](https://unsupervision.com/my-day-away-from-reddit/)
+- Jun 13 - [Hacking root EPP servers to take control of zones](https://hackcompute.com/hacking-epp-servers/)
+- Jun 13 - [Oyster: Towards Unsupervised Object Detection from Lidar Point Clouds](https://waabi.ai/oyster/)
+- Jun 13 - [SnapFusion: Text-to-Image Diffusion Model on Mobile Devices Within Two Seconds](https://snap-research.github.io/SnapFusion/)
+- Jun 13 - [Xerox scanners randomly alter numbers in scanned documents (2013)](https://www.dkriesel.com/en/blog/2013/0802_xerox-workcentres_are_switching_written_numbers_when_scanning)
 <!--END_SECTION:hn-->
 
 <!--
