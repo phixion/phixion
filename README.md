@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 13 - [Apollo’s Christian Selig explains his fight with Reddit – and why users revolted](https://www.theverge.com/2023/6/13/23759180/reddit-protest-private-apollo-christian-selig-subreddit)
-- Jun 13 - [Obsidian-Copilot: A Prototype Assistant for Writing and Thinking](https://eugeneyan.com/writing/obsidian-copilot/)
-- Jun 13 - [Microsoft is bringing GPT-4 to US Government agencies](https://www.bloomberg.com/news/articles/2023-06-07/microsoft-offers-powerful-openai-technology-to-us-government-cloud-customers)
-- Jun 13 - [Hackers can steal cryptographic keys by video-recording power LEDs 60 feet away](https://arstechnica.com/information-technology/2023/06/hackers-can-steal-cryptographic-keys-by-video-recording-connected-power-leds-60-feet-away/)
-- Jun 13 - [Microsoft Office security signatures are 'practically worthless'](https://www.theregister.com/2023/06/13/office_open_xml_signatures/)
+- Jun 13 - [A microblog powered by The Onion Router (Tor)](https://play.google.com/store/apps/details?id=app.Blackpage.Blackpage&hl=en_US)
+- Jun 13 - [JupyterLab 4.0](https://blog.jupyter.org/jupyterlab-4-0-is-here-388d05e03442?gi=692635ec8178)
+- Jun 13 - [AWS us-east-1 down](https://news.ycombinator.com/item?id=36315300)
+- Jun 13 - [If you want people to show up, data shows these are the best meeting times](https://blog.boomerangapp.com/2023/06/4-myths-and-1-truth-about-scheduling-meetings/)
+- Jun 13 - [AMD Expands AI Product Lineup with GPU-Only Instinct Mi300X with 192GB Memory](https://www.anandtech.com/show/18915/amd-expands-mi300-family-with-mi300x-gpu-only-192gb-memory)
 <!--END_SECTION:hn-->
 
 <!--
