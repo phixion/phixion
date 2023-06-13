@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 13 - [Opinion: Geoengineering Is Shockingly Inexpensive](https://phys.org/news/2023-06-opinion-geoengineering-inexpensive.html)
-- Jun 13 - [Johnny Decimal](https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction/)
-- Jun 13 - [Scientists beam solar power to Earth from space for first time ever](https://www.space.com/space-solar-power-satellite-beams-energy-1st-time)
-- Jun 13 - [Why not tell people to “simply” use pyenv, poetry or anaconda](https://www.bitecode.dev/p/why-not-tell-people-to-simply-use)
-- Jun 13 - [Hacking root EPP servers to take control of zones](https://hackcompute.com/hacking-epp-servers/)
+- Jun 13 - [Apollo’s Christian Selig explains his fight with Reddit – and why users revolted](https://www.theverge.com/2023/6/13/23759180/reddit-protest-private-apollo-christian-selig-subreddit)
+- Jun 13 - [Obsidian-Copilot: A Prototype Assistant for Writing and Thinking](https://eugeneyan.com/writing/obsidian-copilot/)
+- Jun 13 - [Microsoft is bringing GPT-4 to US Government agencies](https://www.bloomberg.com/news/articles/2023-06-07/microsoft-offers-powerful-openai-technology-to-us-government-cloud-customers)
+- Jun 13 - [Hackers can steal cryptographic keys by video-recording power LEDs 60 feet away](https://arstechnica.com/information-technology/2023/06/hackers-can-steal-cryptographic-keys-by-video-recording-connected-power-leds-60-feet-away/)
+- Jun 13 - [Microsoft Office security signatures are 'practically worthless'](https://www.theregister.com/2023/06/13/office_open_xml_signatures/)
 <!--END_SECTION:hn-->
 
 <!--
