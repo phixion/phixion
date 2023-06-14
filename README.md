@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 14 - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-- Jun 14 - [New Functionality: Bluetooth for Raspberry Pi Pico W](https://www.raspberrypi.com/news/new-functionality-bluetooth-for-pico-w/)
-- Jun 14 - [EU suggests breaking up Google's ad business in preliminary antitrust ruling](https://www.theverge.com/2023/6/14/23759094/european-commission-google-antitrust-advertising-market-antitrust)
-- Jun 14 - [Consciousness and Anaesthesia (2009)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2743249/)
-- Jun 14 - [How to Listen to Database Changes Using Postgres Triggers in Elixir](https://www.peterullrich.com/listen-to-database-changes-with-postgres-triggers-and-elixir)
+- Jun 14 - [The Reddit blackout has left Google barren and full of holes – TechRadar](https://www.techradar.com/opinion/the-reddit-blackout-has-left-google-barren-and-full-of-holes)
+- Jun 14 - [France’s Mistral AI blows in with a $113M seed round to take on OpenAI](https://techcrunch.com/2023/06/13/frances-mistral-ai-blows-in-with-a-113m-seed-round-at-a-260m-valuation-to-take-on-openai/)
+- Jun 14 - [SimulaVR's Reaction to Apple](https://simulavr.com/blog/seeking-investment/)
+- Jun 14 - [Launch HN: Credal.ai (YC W23) – Data Safety for Enterprise AI](https://news.ycombinator.com/item?id=36326525)
+- Jun 14 - [Dumb and Gets Things Done](https://www.johndcook.com/blog/2010/12/27/dumb-and-gets-things-done/)
 <!--END_SECTION:hn-->
 
 <!--
