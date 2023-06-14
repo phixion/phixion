@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 14 - [Microsoft's CEO Satya Nadella: All-In on AI for Future Success](https://atlasalpha.serenebase.com/post?recordId=rec3BKQxylhLE3fqD)
-- Jun 14 - [OpenAI Releases Function Calling for GPT-3.5 & GPT-4](https://platform.openai.com/docs/guides/gpt/function-calling)
-- Jun 14 - [Aleister Crowley and William Butler Yeats Get into an Occult Battle](https://www.openculture.com/2016/10/aleister-crowley-william-butler-yeats-get-into-an-occult-battle.html)
-- Jun 13 - [Effective June 7, 2026, Autodesk will no longer sell nor support EAGLE](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Autodesk-EAGLE-Announcement-Next-steps-and-FAQ.html)
-- Jun 13 - [The Curse of Recursion: Training on Generated Data Makes Models Forget](https://arxiv.org/abs/2305.17493)
+- Jun 14 - [Serotonin booster leads to increased functional brain connectivity](https://www.alphagalileo.org/en-gb/Item-Display/ItemId/234406?returnurl=https://www.alphagalileo.org/en-gb/Item-Display/ItemId/234406)
+- Jun 14 - [The Reddit blackout will continue](https://old.reddit.com/r/ModCoord/comments/148ks6u/indefinite_blackout_next_steps_polling_your/)
+- Jun 14 - [Toward a More Useful Keyboard](https://github.com/jasonrudolph/keyboard)
+- Jun 14 - [New RAM card, prototype Mac Portable, demo System 7](http://oldvcr.blogspot.com/2023/06/new-ram-card-prototype-mac-portable.html)
+- Jun 14 - [Making a RISC-V Operating System Using Rust](https://osblog.stephenmarz.com/)
 <!--END_SECTION:hn-->
 
 <!--
