@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 14 - [The Reddit blackout has left Google barren and full of holes – TechRadar](https://www.techradar.com/opinion/the-reddit-blackout-has-left-google-barren-and-full-of-holes)
-- Jun 14 - [France’s Mistral AI blows in with a $113M seed round to take on OpenAI](https://techcrunch.com/2023/06/13/frances-mistral-ai-blows-in-with-a-113m-seed-round-at-a-260m-valuation-to-take-on-openai/)
-- Jun 14 - [SimulaVR's Reaction to Apple](https://simulavr.com/blog/seeking-investment/)
-- Jun 14 - [Launch HN: Credal.ai (YC W23) – Data Safety for Enterprise AI](https://news.ycombinator.com/item?id=36326525)
-- Jun 14 - [Dumb and Gets Things Done](https://www.johndcook.com/blog/2010/12/27/dumb-and-gets-things-done/)
+- Jun 14 - [Enforced bounds checking for frozen C function interfaces](https://gustedt.wordpress.com/2023/06/10/enforced-bounds-checking-for-frozen-function-interfaces/)
+- Jun 14 - [AMD openSIL open source firmware proof of concept](https://github.com/openSIL/openSIL)
+- Jun 14 - [Native JSON Output from GPT-4](https://yonom.substack.com/p/native-json-output-from-gpt-4)
+- Jun 14 - [Twitter is being evicted from its Boulder office over unpaid rent](https://techcrunch.com/2023/06/14/twitter-is-being-evicted-from-its-boulder-office-over-unpaid-rent/)
+- Jun 14 - [Phoenix LiveView: Async Assign Pattern](http://blog.andyglassman.com/2023/06/phoenix-liveview-async-assign-pattern.html)
 <!--END_SECTION:hn-->
 
 <!--
