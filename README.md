@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 15 - [Reddit’s blackout protest is set to continue indefinitely](https://old.reddit.com/r/technology/comments/149zmar/reddits_blackout_protest_is_set_to_continue/)
-- Jun 15 - [W3C announces new Web standard for online payments](https://www.applemust.com/w3c-announces-new-web-standard-for-online-payments/)
-- Jun 15 - [Unihiker, an $80 single-board PC with 2.8“ touchscreen, quad-core ARM Cortex-A35](https://www.unihiker.com/)
-- Jun 15 - [Zluda: Run CUDA code on Intel GPUs, unmodified](https://github.com/vosen/ZLUDA)
-- Jun 15 - [Google warns own staff about entering data into, using code from, chatbots](https://www.reuters.com/technology/google-one-ais-biggest-backers-warns-own-staff-about-chatbots-2023-06-15/)
+- Jun 15 - [Tell HN: Google search sucks even more during Reddit blackout](https://news.ycombinator.com/item?id=36345345)
+- Jun 15 - [Ask HN: What are some of the best Reddit alternatives?](https://news.ycombinator.com/item?id=36345288)
+- Jun 15 - [Engravings Made by Non-Human Hominids ~300K Years Ago](https://www.biorxiv.org/content/10.1101/2023.06.01.543133v1)
+- Jun 15 - [Gently Down the Stream – A gentle introduction to Apache Kafka (2021)](https://www.gentlydownthe.stream/)
+- Jun 15 - [UnsuckJS: Progressively enhance HTML with lightweight JavaScript libraries](https://unsuckjs.com/)
 <!--END_SECTION:hn-->
 
 <!--
