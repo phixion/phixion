@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 14 - [Enforced bounds checking for frozen C function interfaces](https://gustedt.wordpress.com/2023/06/10/enforced-bounds-checking-for-frozen-function-interfaces/)
-- Jun 14 - [AMD openSIL open source firmware proof of concept](https://github.com/openSIL/openSIL)
-- Jun 14 - [Native JSON Output from GPT-4](https://yonom.substack.com/p/native-json-output-from-gpt-4)
-- Jun 14 - [Twitter is being evicted from its Boulder office over unpaid rent](https://techcrunch.com/2023/06/14/twitter-is-being-evicted-from-its-boulder-office-over-unpaid-rent/)
-- Jun 14 - [Phoenix LiveView: Async Assign Pattern](http://blog.andyglassman.com/2023/06/phoenix-liveview-async-assign-pattern.html)
+- Jun 14 - [Scientists Discover Phosphorus on Enceladus](https://tlpnetwork.com/news/2023/06/scientists-discover-phosphorus-on-enceladus)
+- Jun 14 - [Nvidia H100 and A100 GPUs – comparing available capacity at GPU cloud providers](https://llm-utils.org/Nvidia+H100+and+A100+GPUs+-+comparing+available+capacity+at+GPU+cloud+providers)
+- Jun 14 - [Gorilla: Large Language Model Connected with APIs](https://shishirpatil.github.io/gorilla/)
+- Jun 14 - [Why does nuclear power plant construction cost so much?](https://progress.institute/nuclear-power-plant-construction-costs/)
+- Jun 14 - [Myths Programmers Believe about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/)
 <!--END_SECTION:hn-->
 
 <!--
