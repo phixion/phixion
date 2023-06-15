@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 15 - [JetPack Aviation (YC W19) Is Hiring](https://www.ycombinator.com/companies/jetpack-aviation/jobs/vZY8DUc-chief-engineer-turbine-powered-vtol-aircraft)
-- Jun 15 - [The Instant Pot Failed Because It Was a Good Product](https://www.theatlantic.com/technology/archive/2023/06/instant-pot-bankrupt-private-equity/674414/)
-- Jun 15 - [Germany wants to legalize quality control of illegal drugs](https://www.spiegel.de/politik/deutschland/arzneimittel-reform-karl-lauterbach-will-drugchecking-bundesweit-einfuehren-a-b642b609-9149-47bc-a013-11476d54e96f)
-- Jun 15 - [The Guardian bans all gambling advertising](https://www.theguardian.com/society/2023/jun/15/guardian-bans-all-gambling-advertising)
-- Jun 15 - [Effective Rust](https://www.lurklurk.org/effective-rust/)
+- Jun 15 - [Reddit’s blackout protest is set to continue indefinitely](https://old.reddit.com/r/technology/comments/149zmar/reddits_blackout_protest_is_set_to_continue/)
+- Jun 15 - [W3C announces new Web standard for online payments](https://www.applemust.com/w3c-announces-new-web-standard-for-online-payments/)
+- Jun 15 - [Unihiker, an $80 single-board PC with 2.8“ touchscreen, quad-core ARM Cortex-A35](https://www.unihiker.com/)
+- Jun 15 - [Zluda: Run CUDA code on Intel GPUs, unmodified](https://github.com/vosen/ZLUDA)
+- Jun 15 - [Google warns own staff about entering data into, using code from, chatbots](https://www.reuters.com/technology/google-one-ais-biggest-backers-warns-own-staff-about-chatbots-2023-06-15/)
 <!--END_SECTION:hn-->
 
 <!--
