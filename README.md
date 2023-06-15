@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 15 - [June (YC W21) Is Hiring Engineer #3 – Remote CET](https://www.ycombinator.com/companies/june/jobs/SHd7fFLYG-product-engineer-3)
-- Jun 15 - [This Week in Rust 499](https://this-week-in-rust.org/blog/2023/06/14/this-week-in-rust-499/)
-- Jun 15 - [Lessons Learned from 11 Years of Hosting a SaaS](https://ghiculescu.substack.com/p/11-years-of-hosting-a-saas)
-- Jun 15 - [ESP32-C3 Wireless Adventure: A Comprehensive Guide to IoT [pdf]](https://www.espressif.com/sites/default/files/documentation/ESP32-C3%20Wireless%20Adventure.pdf)
-- Jun 15 - [Man found UC Berkeley skeleton in 2021](https://www.berkeleyscanner.com/2023/06/12/uc-berkeley-crime/uc-berkeley-skeleton-found-2021-clark-kerr-human-remains/)
+- Jun 15 - [JetPack Aviation (YC W19) Is Hiring](https://www.ycombinator.com/companies/jetpack-aviation/jobs/vZY8DUc-chief-engineer-turbine-powered-vtol-aircraft)
+- Jun 15 - [The Instant Pot Failed Because It Was a Good Product](https://www.theatlantic.com/technology/archive/2023/06/instant-pot-bankrupt-private-equity/674414/)
+- Jun 15 - [Germany wants to legalize quality control of illegal drugs](https://www.spiegel.de/politik/deutschland/arzneimittel-reform-karl-lauterbach-will-drugchecking-bundesweit-einfuehren-a-b642b609-9149-47bc-a013-11476d54e96f)
+- Jun 15 - [The Guardian bans all gambling advertising](https://www.theguardian.com/society/2023/jun/15/guardian-bans-all-gambling-advertising)
+- Jun 15 - [Effective Rust](https://www.lurklurk.org/effective-rust/)
 <!--END_SECTION:hn-->
 
 <!--
