@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 15 - [Localrf – Nerf from casual shaky videos](https://localrf.github.io/)
-- Jun 15 - [Diablo Pitch Document (1994) [pdf]](http://www.graybeardgames.com/download/diablo_pitch.pdf)
-- Jun 15 - [Tell HN: Messages from Another Azure Customer Are Appearing in My Queue](https://news.ycombinator.com/item?id=36347915)
-- Jun 15 - [Reddit Threatens to Remove Moderators from Subreddits Continuing Blackouts](https://www.macrumors.com/2023/06/15/reddit-threatens-to-remove-subreddit-moderators/)
-- Jun 15 - [The Online Books Page](https://onlinebooks.library.upenn.edu/)
+- Jun 16 - [io_uring disabled across Google platforms](https://security.googleblog.com/2023/06/learnings-from-kctf-vrps-42-linux.html)
+- Jun 16 - [Guidance for Scaling – Reversible vs. Irreversible Decisions](https://www.craigkerstiens.com/2021/12/29/guidance-for-scaling-reversible-vs.-irreversible-decisions/)
+- Jun 16 - [Show HN: Chronological List of All the James Webb Telescope Discoveries](https://www.jameswebbdiscovery.com)
+- Jun 16 - [Metformin shown to prevent long Covid](https://www.cidrap.umn.edu/covid-19/common-diabetes-drug-shown-prevent-long-covid)
+- Jun 16 - [CUDA Accelerated Raytracer](https://github.com/maxilevi/raytracer)
 <!--END_SECTION:hn-->
 
 <!--
