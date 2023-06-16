@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 16 - [io_uring disabled across Google platforms](https://security.googleblog.com/2023/06/learnings-from-kctf-vrps-42-linux.html)
-- Jun 16 - [Guidance for Scaling – Reversible vs. Irreversible Decisions](https://www.craigkerstiens.com/2021/12/29/guidance-for-scaling-reversible-vs.-irreversible-decisions/)
-- Jun 16 - [Show HN: Chronological List of All the James Webb Telescope Discoveries](https://www.jameswebbdiscovery.com)
-- Jun 16 - [Metformin shown to prevent long Covid](https://www.cidrap.umn.edu/covid-19/common-diabetes-drug-shown-prevent-long-covid)
-- Jun 16 - [CUDA Accelerated Raytracer](https://github.com/maxilevi/raytracer)
+- Jun 16 - [Keys for unattended decryption of LUKS volumes are exposed during race condition](https://census-labs.com/news/2023/06/15/race-tang/)
+- Jun 16 - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=36352549)
+- Jun 16 - [OpenSSL 1.1.1 End of Life Approaching](https://www.openssl.org/blog/blog/2023/06/15/1.1.1-EOL-Reminder/)
+- Jun 16 - [CL0P Ransomware Gang Exploits CVE-2023-34362 MOVEit Vulnerability](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-158a)
+- Jun 16 - [Do Foundation Model Providers Comply with the EU AI Act?](https://crfm.stanford.edu/2023/06/15/eu-ai-act.html)
 <!--END_SECTION:hn-->
 
 <!--
