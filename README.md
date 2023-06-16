@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 16 - [Surges of cosmic radiation from space directly linked to earthquakes](https://www.earth.com/news/breakthrough-surges-of-cosmic-radiation-from-space-directly-linked-to-earthquakes/)
-- Jun 16 - [Reddit App – Suspicious high number of recent 5 star, one word reviews](https://old.reddit.com/r/Save3rdPartyApps/comments/14at885/the_reddit_app_has_a_suspiciously_high_number_of/)
-- Jun 16 - [Why Does Google Kill So Many Products?](https://matt-rickard.com/why-does-google-kill-so-many-products)
-- Jun 16 - [The new US border wall is an app](https://www.technologyreview.com/2023/06/16/1074039/border-wall-app/)
-- Jun 16 - [Free unlimited storage, store your files in pi – pi File System](https://github.com/philipl/pifs)
+- Jun 16 - [Miraheze to shut down](https://meta.miraheze.org/wiki/Board/Policies/20230615-Statement)
+- Jun 16 - [Canada's Population Reaches 40M](https://www.statcan.gc.ca/en/subjects-start/population_and_demography/40-million)
+- Jun 16 - [Why did Nix adopt Flakes?](https://www.jetpack.io/blog/why-did-nix-adopt-flakes/)
+- Jun 16 - [European Union votes to bring back replaceable phone batteries](https://www.techspot.com/news/99102-european-union-votes-bring-back-replaceable-phone-batteries.html)
+- Jun 16 - [Techmeme now links to Hacker News threads and other “forums” under its headlines](https://techmeme.com/)
 <!--END_SECTION:hn-->
 
 <!--
