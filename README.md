@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 15 - [Tell HN: Google search sucks even more during Reddit blackout](https://news.ycombinator.com/item?id=36345345)
-- Jun 15 - [Ask HN: What are some of the best Reddit alternatives?](https://news.ycombinator.com/item?id=36345288)
-- Jun 15 - [Engravings Made by Non-Human Hominids ~300K Years Ago](https://www.biorxiv.org/content/10.1101/2023.06.01.543133v1)
-- Jun 15 - [Gently Down the Stream – A gentle introduction to Apache Kafka (2021)](https://www.gentlydownthe.stream/)
-- Jun 15 - [UnsuckJS: Progressively enhance HTML with lightweight JavaScript libraries](https://unsuckjs.com/)
+- Jun 15 - [Localrf – Nerf from casual shaky videos](https://localrf.github.io/)
+- Jun 15 - [Diablo Pitch Document (1994) [pdf]](http://www.graybeardgames.com/download/diablo_pitch.pdf)
+- Jun 15 - [Tell HN: Messages from Another Azure Customer Are Appearing in My Queue](https://news.ycombinator.com/item?id=36347915)
+- Jun 15 - [Reddit Threatens to Remove Moderators from Subreddits Continuing Blackouts](https://www.macrumors.com/2023/06/15/reddit-threatens-to-remove-subreddit-moderators/)
+- Jun 15 - [The Online Books Page](https://onlinebooks.library.upenn.edu/)
 <!--END_SECTION:hn-->
 
 <!--
