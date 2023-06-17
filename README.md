@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 17 - [Japanese biomass venture using microorganisms to tackle waste disposal](https://mainichi.jp/english/articles/20230428/p2g/00m/0bu/057000c)
-- Jun 17 - [Ask HN: Has Google search switched to infinite scrolling for you too now?](https://news.ycombinator.com/item?id=36370725)
-- Jun 17 - [White supremacist changes beliefs after taking MDMA for a study](https://www.insider.com/white-supremacist-took-mdma-renounces-beliefs-study-2023-6)
-- Jun 17 - [Ask HN: What are some of the most elegant codebases in your favorite language?](https://news.ycombinator.com/item?id=36370684)
-- Jun 17 - [Open Source-Based Over-the-Air 5G New Radio Sidelink Testbed](https://arxiv.org/abs/2306.09286)
+- Jun 17 - [Open source Diablo 1 engine – DevilutionX 1.5.0 released](https://github.com/diasurgical/devilutionX/releases/tag/1.5.0)
+- Jun 17 - [Westfield’s San Francisco Centre Mall Lost 46% of Its Stores Since 2020](https://sfstandard.com/business/westfield-mall-san-francisco-centre-union-square-stores-closing/)
+- Jun 17 - [Bullshit Jobs by David Graeber (2018)](https://theanarchistlibrary.org/library/david-graeber-bullshit-jobs)
+- Jun 17 - [GPT-4 Outperforms Humans in Pitch Deck Effectiveness](https://clarifycapital.com/the-future-of-investment-pitching)
+- Jun 17 - [GB Studio: Drag and drop retro game creator for GameBoy](https://www.gbstudio.dev/)
 <!--END_SECTION:hn-->
 
 <!--
