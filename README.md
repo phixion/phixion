@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 17 - [Bitmovin (YC S15) Is Hiring an Engineering Manager for Encoding in Berlin](https://bitmovin.com/careers/engineering-manager-encoding-6787621002/)
+- Jun 17 - [Reddit 1.0 was written in Lisp](https://github.com/reddit-archive/reddit1.0)
+- Jun 17 - [What Kind of Asynchronous Is Right for You?](https://www.reactivesystems.eu/2023/06/15/what-kind-of-asynchronous-is-right-for-you.html)
+- Jun 17 - [Poop: Performance Optimizer Observation Platform](https://github.com/andrewrk/poop)
 - Jun 17 - [Humans have pumped enough groundwater to change the tilt of the Earth](https://e360.yale.edu/digest/groundwater-depletion-earths-axis)
-- Jun 17 - [Smart Guy Productivity Pitfalls (2013)](https://waivek.github.io/website/tooltip.html)
-- Jun 17 - [Generally Intelligent (YC S17) Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=36366062)
-- Jun 17 - [Merging bcachefs](https://lwn.net/SubscriberLink/934692/5046d466490d9220/)
-- Jun 17 - [Ancient astronaut theorists faked a Hindu nuclear explosion (2013)](https://www.jasoncolavito.com/the-case-of-the-false-quotes.html)
 <!--END_SECTION:hn-->
 
 <!--
