@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 17 - [Bitmovin (YC S15) Is Hiring an Engineering Manager for Encoding in Berlin](https://bitmovin.com/careers/engineering-manager-encoding-6787621002/)
-- Jun 17 - [Reddit 1.0 was written in Lisp](https://github.com/reddit-archive/reddit1.0)
-- Jun 17 - [What Kind of Asynchronous Is Right for You?](https://www.reactivesystems.eu/2023/06/15/what-kind-of-asynchronous-is-right-for-you.html)
-- Jun 17 - [Poop: Performance Optimizer Observation Platform](https://github.com/andrewrk/poop)
-- Jun 17 - [Humans have pumped enough groundwater to change the tilt of the Earth](https://e360.yale.edu/digest/groundwater-depletion-earths-axis)
+- Jun 17 - [MindsDB (YC W20) Is Hiring a Content Marketing Specialist](https://www.ycombinator.com/companies/mindsdb/jobs/xiHw6uY-content-marketing-specialist-developers-ai-field)
+- Jun 17 - [I don't need your query language](https://antonz.org/fancy-ql/)
+- Jun 17 - [Recurring Revenue: Engineers](https://news.ycombinator.com/item?id=36368891)
+- Jun 17 - [Astronomy Picture of the Day is is 28 years old today](https://mastodon.social/@mcnees/110554495980083260)
+- Jun 17 - [Review of Hetzner ARM64 Servers and Experience of WebP Cloud Services on Them](https://blog.webp.se/hetzner-arm64-en/)
 <!--END_SECTION:hn-->
 
 <!--
