@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 17 - [MindsDB (YC W20) Is Hiring a Content Marketing Specialist](https://www.ycombinator.com/companies/mindsdb/jobs/xiHw6uY-content-marketing-specialist-developers-ai-field)
-- Jun 17 - [I don't need your query language](https://antonz.org/fancy-ql/)
-- Jun 17 - [Recurring Revenue: Engineers](https://news.ycombinator.com/item?id=36368891)
-- Jun 17 - [Astronomy Picture of the Day is is 28 years old today](https://mastodon.social/@mcnees/110554495980083260)
-- Jun 17 - [Review of Hetzner ARM64 Servers and Experience of WebP Cloud Services on Them](https://blog.webp.se/hetzner-arm64-en/)
+- Jun 17 - [Japanese biomass venture using microorganisms to tackle waste disposal](https://mainichi.jp/english/articles/20230428/p2g/00m/0bu/057000c)
+- Jun 17 - [Ask HN: Has Google search switched to infinite scrolling for you too now?](https://news.ycombinator.com/item?id=36370725)
+- Jun 17 - [White supremacist changes beliefs after taking MDMA for a study](https://www.insider.com/white-supremacist-took-mdma-renounces-beliefs-study-2023-6)
+- Jun 17 - [Ask HN: What are some of the most elegant codebases in your favorite language?](https://news.ycombinator.com/item?id=36370684)
+- Jun 17 - [Open Source-Based Over-the-Air 5G New Radio Sidelink Testbed](https://arxiv.org/abs/2306.09286)
 <!--END_SECTION:hn-->
 
 <!--
