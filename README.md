@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 16 - [Show HN: 77 Year old launches SaaS platform today. Seeks feedback](https://propbox.co)
-- Jun 16 - [FBI groomed a 16-year-old with “brain development issues” to become a terrorist](https://theintercept.com/2023/06/15/fbi-undercover-isis-teenager-terrorist/)
-- Jun 16 - [Every Louisiana driver's license holder exposed in cyberattack](https://www.theguardian.com/us-news/2023/jun/16/louisiana-drivers-license-hack-cyber-attack)
-- Jun 16 - [Miraheze to shut down](https://meta.miraheze.org/wiki/Board/Policies/20230615-Statement)
-- Jun 16 - [Why did Nix adopt Flakes?](https://www.jetpack.io/blog/why-did-nix-adopt-flakes/)
+- Jun 17 - [Humans have pumped enough groundwater to change the tilt of the Earth](https://e360.yale.edu/digest/groundwater-depletion-earths-axis)
+- Jun 17 - [Smart Guy Productivity Pitfalls (2013)](https://waivek.github.io/website/tooltip.html)
+- Jun 17 - [Generally Intelligent (YC S17) Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=36366062)
+- Jun 17 - [Merging bcachefs](https://lwn.net/SubscriberLink/934692/5046d466490d9220/)
+- Jun 17 - [Ancient astronaut theorists faked a Hindu nuclear explosion (2013)](https://www.jasoncolavito.com/the-case-of-the-false-quotes.html)
 <!--END_SECTION:hn-->
 
 <!--
