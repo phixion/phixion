@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 16 - [Show HN: 77 Year old launches SaaS platform today. Seeks feedback](https://propbox.co)
+- Jun 16 - [FBI groomed a 16-year-old with “brain development issues” to become a terrorist](https://theintercept.com/2023/06/15/fbi-undercover-isis-teenager-terrorist/)
+- Jun 16 - [Every Louisiana driver's license holder exposed in cyberattack](https://www.theguardian.com/us-news/2023/jun/16/louisiana-drivers-license-hack-cyber-attack)
 - Jun 16 - [Miraheze to shut down](https://meta.miraheze.org/wiki/Board/Policies/20230615-Statement)
-- Jun 16 - [Canada's Population Reaches 40M](https://www.statcan.gc.ca/en/subjects-start/population_and_demography/40-million)
 - Jun 16 - [Why did Nix adopt Flakes?](https://www.jetpack.io/blog/why-did-nix-adopt-flakes/)
-- Jun 16 - [European Union votes to bring back replaceable phone batteries](https://www.techspot.com/news/99102-european-union-votes-bring-back-replaceable-phone-batteries.html)
-- Jun 16 - [Techmeme now links to Hacker News threads and other “forums” under its headlines](https://techmeme.com/)
 <!--END_SECTION:hn-->
 
 <!--
