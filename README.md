@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 18 - [W3C and My RSS Spec](http://scripting.com/2023/06/17/193133.html)
-- Jun 18 - [Sennheiser HD 555 to HD 595 Mod](http://mikebeauchamp.com/misc/sennheiser-hd-555-to-hd-595-mod/)
-- Jun 18 - [I have received a $100k sponsorship for Ladybird browser](https://twitter.com/awesomekling/status/1670298370550779905)
-- Jun 18 - [Milk-V Duo: A $9 RISC-V Computer](https://milkv.io/duo)
-- Jun 18 - [Squeezing a Little More Performance Out of Bytecode Interpreters](https://stefan-marr.de/2023/06/squeezing-a-little-more-performance-out-of-bytecode-interpreters/)
+- Jun 18 - [Stopping MDNSResponder from Sneakily Using DoH for DNS Lookups on macOS Ventura](https://fincham.dreamwidth.org/669.html)
+- Jun 18 - [BlackCat claims they hacked Reddit and will leak the data](https://www.databreaches.net/blackcat-claims-they-hacked-reddit-and-will-leak-the-data/)
+- Jun 18 - [A complete guide to getting what you want](https://www.raptitude.com/2018/06/getting-what-you-want/)
+- Jun 18 - [Fruit-Bat/Pico-Zxspectrum: ZX Spectrum for Raspberry Pico Pi RP2040](https://github.com/fruit-bat/pico-zxspectrum)
+- Jun 18 - [Jellyfin: The Free Software Media System](https://github.com/jellyfin/jellyfin)
 <!--END_SECTION:hn-->
 
 <!--
