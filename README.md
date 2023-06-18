@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 17 - [Open source Diablo 1 engine – DevilutionX 1.5.0 released](https://github.com/diasurgical/devilutionX/releases/tag/1.5.0)
-- Jun 17 - [Westfield’s San Francisco Centre Mall Lost 46% of Its Stores Since 2020](https://sfstandard.com/business/westfield-mall-san-francisco-centre-union-square-stores-closing/)
-- Jun 17 - [Bullshit Jobs by David Graeber (2018)](https://theanarchistlibrary.org/library/david-graeber-bullshit-jobs)
-- Jun 17 - [GPT-4 Outperforms Humans in Pitch Deck Effectiveness](https://clarifycapital.com/the-future-of-investment-pitching)
-- Jun 17 - [GB Studio: Drag and drop retro game creator for GameBoy](https://www.gbstudio.dev/)
+- Jun 17 - [It's Companies' Fault we don't want to Return to the Office](https://innovationnation.blog/p/its-companies-fault-we-dont-want)
+- Jun 17 - [Modern CSS for Dynamic Component-Based Architecture](https://moderncss.dev/modern-css-for-dynamic-component-based-architecture/)
+- Jun 17 - [The Staggering Frontiers of CSS](https://buttondown.email/robinrendle/archive/the-many-frontiers-of-css/)
+- Jun 17 - [Rust vs Zig Benchmarks](https://programming-language-benchmarks.vercel.app/rust-vs-zig)
+- Jun 17 - [The Secret Sauce behind 100K context window in LLMs: all tricks in one place](https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c)
 <!--END_SECTION:hn-->
 
 <!--
