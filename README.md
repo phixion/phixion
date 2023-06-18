@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 18 - [Stopping MDNSResponder from Sneakily Using DoH for DNS Lookups on macOS Ventura](https://fincham.dreamwidth.org/669.html)
-- Jun 18 - [BlackCat claims they hacked Reddit and will leak the data](https://www.databreaches.net/blackcat-claims-they-hacked-reddit-and-will-leak-the-data/)
-- Jun 18 - [A complete guide to getting what you want](https://www.raptitude.com/2018/06/getting-what-you-want/)
-- Jun 18 - [Fruit-Bat/Pico-Zxspectrum: ZX Spectrum for Raspberry Pico Pi RP2040](https://github.com/fruit-bat/pico-zxspectrum)
-- Jun 18 - [Jellyfin: The Free Software Media System](https://github.com/jellyfin/jellyfin)
+- Jun 18 - [Archives.design: curated graphic design from Internet Archive](https://archives.design)
+- Jun 18 - [AzireVPN now supports port-forwarding (WireGuard)](https://blog.azirevpn.com/port-forwarding/)
+- Jun 18 - [Imaginary Problems Are the Root of Bad Software](https://cerebralab.com/Imaginary_Problems_Are_the_Root_of_Bad_Software)
+- Jun 18 - [Political Polarization Comes for Marriage Prospects](https://www.theatlantic.com/ideas/archive/2023/06/us-marriage-rate-different-political-views/674358/)
+- Jun 18 - [Moldable Live Programming for Clojure](https://github.com/nextjournal/clerk)
 <!--END_SECTION:hn-->
 
 <!--
