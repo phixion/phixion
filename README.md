@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 18 - [Hybrid SDF-Voxel Traversal](https://www.shadertoy.com/view/dtVSzw)
-- Jun 18 - [Scientists create contained ball of turbulence in a tank](https://news.uchicago.edu/story/tempest-teacup-uchicago-physicists-make-breakthrough-creating-turbulence)
-- Jun 18 - [Show HN: Follow every MLB game. Real time. New score alerts](https://mlb.watchbotapp.com)
-- Jun 18 - [How a Single Line of Code Made a 24-Core Server Slower Than a Laptop](https://pkolaczk.github.io/server-slower-than-a-laptop/)
-- Jun 18 - [Falcon LLM – A 40B Model](https://falconllm.tii.ae/)
+- Jun 18 - [W3C and My RSS Spec](http://scripting.com/2023/06/17/193133.html)
+- Jun 18 - [Sennheiser HD 555 to HD 595 Mod](http://mikebeauchamp.com/misc/sennheiser-hd-555-to-hd-595-mod/)
+- Jun 18 - [I have received a $100k sponsorship for Ladybird browser](https://twitter.com/awesomekling/status/1670298370550779905)
+- Jun 18 - [Milk-V Duo: A $9 RISC-V Computer](https://milkv.io/duo)
+- Jun 18 - [Squeezing a Little More Performance Out of Bytecode Interpreters](https://stefan-marr.de/2023/06/squeezing-a-little-more-performance-out-of-bytecode-interpreters/)
 <!--END_SECTION:hn-->
 
 <!--
