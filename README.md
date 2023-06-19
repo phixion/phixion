@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 19 - [We need more of Richard Stallman, not less](https://ploum.net/2023-06-19-more-rms.html)
-- Jun 19 - [Compromise Creates Values](https://blog.briankitano.com/compromise-values/)
-- Jun 19 - [Display brighter-than-white color on Apple devices](https://github.com/dtinth/superwhite)
-- Jun 19 - [MusicGen-Looper: Generate fixed-bpm loops from text prompts](https://replicate.com/andreasjansson/musicgen-looper)
-- Jun 19 - [We tried to book a train ticket and ended up with a 245,000 records data breach](https://zerforschung.org/posts/freundschaftspass-en/)
+- Jun 19 - [Tourist submarine goes missing on dive to wreck of Titanic](https://www.theguardian.com/uk-news/2023/jun/19/titanic-tourist-submarine-missing-north-atlantic)
+- Jun 19 - [KDE Plasma 6 Has Reached the Point of Being “Fairly Livable”](https://www.phoronix.com/news/KDE-Plasma-6-Fairly-Livable)
+- Jun 19 - [Reforming the free software message](https://drewdevault.com/2023/06/19/Reforming-the-free-software-message.html)
+- Jun 19 - [Iridium: Open-source customer identity and access management](https://github.com/IridiumIdentity/iridium)
+- Jun 19 - [Titanic tourist sub goes missing sparking search](https://www.bbc.com/news/world-us-canada-65953872)
 <!--END_SECTION:hn-->
 
 <!--
