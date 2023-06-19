@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 19 - [OpenLLM](https://github.com/bentoml/OpenLLM)
-- Jun 19 - [Canva saves millions annually in Amazon S3 costs](https://www.canva.dev/blog/engineering/optimising-s3-savings/)
-- Jun 19 - [My First Impressions of Nix](https://mtlynch.io/notes/nix-first-impressions/)
-- Jun 19 - [Building a Networked Key-Value-Store on an FPGA](https://adamwalker.github.io/Building-FPGA-KVS/)
-- Jun 19 - [How to compute a 256 bit elliptic curve key with 50M Toffoli gates](https://arxiv.org/abs/2306.08585)
+- Jun 19 - [We need more of Richard Stallman, not less](https://ploum.net/2023-06-19-more-rms.html)
+- Jun 19 - [Compromise Creates Values](https://blog.briankitano.com/compromise-values/)
+- Jun 19 - [Display brighter-than-white color on Apple devices](https://github.com/dtinth/superwhite)
+- Jun 19 - [MusicGen-Looper: Generate fixed-bpm loops from text prompts](https://replicate.com/andreasjansson/musicgen-looper)
+- Jun 19 - [We tried to book a train ticket and ended up with a 245,000 records data breach](https://zerforschung.org/posts/freundschaftspass-en/)
 <!--END_SECTION:hn-->
 
 <!--
