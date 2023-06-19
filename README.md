@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 18 - [You Can't Kickstart a Conference](https://abnercoimbre.com/post/why-you-cant-kickstart-a-conference/)
-- Jun 18 - [ChatGPT, Google Bard Generates Generic Windows 11, Windows 10 Pro Keys](https://www.tomshardware.com/news/chatgpt-generates-windows-11-pro-keys)
-- Jun 18 - [Keycloak – Open-Source Identity and Access Management Interview](https://console.substack.com/i/128451029/interview-with-michal-of-keycloak-open-source-identity-and-access-management-for-modern-applications)
-- Jun 18 - [HDR QR Code](https://notes.dt.in.th/HDRQRCode)
-- Jun 18 - [Sponge spicule](https://en.wikipedia.org/wiki/Sponge_spicule)
+- Jun 19 - [I don't trust Signal](https://blog.dijit.sh//i-don-t-trust-signal)
+- Jun 19 - [Miraheze is not shutting down](https://meta.miraheze.org/wiki/Miraheze_is_Not_Shutting_Down)
+- Jun 19 - [GPU Programming: When, Why and How?](https://enccs.github.io/gpu-programming/)
+- Jun 19 - [Neural networks in the 1990s](https://twitter.com/id_aa_carmack/status/1670558589746905090)
+- Jun 18 - [Why you can't Kickstart a conference](https://abnercoimbre.com/post/why-you-cant-kickstart-a-conference/)
 <!--END_SECTION:hn-->
 
 <!--
