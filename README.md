@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 19 - [Tourist submarine goes missing on dive to wreck of Titanic](https://www.theguardian.com/uk-news/2023/jun/19/titanic-tourist-submarine-missing-north-atlantic)
-- Jun 19 - [KDE Plasma 6 Has Reached the Point of Being “Fairly Livable”](https://www.phoronix.com/news/KDE-Plasma-6-Fairly-Livable)
-- Jun 19 - [Reforming the free software message](https://drewdevault.com/2023/06/19/Reforming-the-free-software-message.html)
-- Jun 19 - [Iridium: Open-source customer identity and access management](https://github.com/IridiumIdentity/iridium)
-- Jun 19 - [Titanic tourist sub goes missing sparking search](https://www.bbc.com/news/world-us-canada-65953872)
+- Jun 19 - [Right to access information/logic about automated decision making in GDPR Art 15](https://gdpr-info.eu/art-15-gdpr/)
+- Jun 19 - [Metaprogramming in Zig and Parsing CSS](https://notes.eatonphil.com/2023-06-19-metaprogramming-in-zig-and-parsing-css.html)
+- Jun 19 - [Sea Change](https://www.oaktreecapital.com/insights/memo/sea-change)
+- Jun 19 - [Effekt: Lightweight Effect Polymorphism for Handlers (2020) [pdf]](https://se.cs.uni-tuebingen.de/publications/brachthaeuser20effekt.pdf)
+- Jun 19 - [AI: First New UI Paradigm in 60 Years, Jakob Nielsen](https://www.nngroup.com/articles/ai-paradigm/)
 <!--END_SECTION:hn-->
 
 <!--
