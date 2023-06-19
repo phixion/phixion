@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 18 - [Linguists have identified a new English dialect that’s emerging in South Florida](https://theconversation.com/linguists-have-identified-a-new-english-dialect-thats-emerging-in-south-florida-205620)
-- Jun 18 - [Does Lemmy benefit from Rust? Is code execution speed the bottleneck?](https://programming.dev/post/50696)
-- Jun 18 - [The WFH Future Is Destroying Bosses' Brains](https://wheresyoured.at/p/the-work-from-home-future-is-destroying)
-- Jun 18 - [Swing VPN app is a DDoS botnet](https://lecromee.github.io/posts/swing_vpn_ddosing_sites/)
-- Jun 18 - [I left the startup I founded. This is how I feel](https://www.aquiles.me/how-it-feels-quitting-your-own-startup/)
+- Jun 18 - [You Can't Kickstart a Conference](https://abnercoimbre.com/post/why-you-cant-kickstart-a-conference/)
+- Jun 18 - [ChatGPT, Google Bard Generates Generic Windows 11, Windows 10 Pro Keys](https://www.tomshardware.com/news/chatgpt-generates-windows-11-pro-keys)
+- Jun 18 - [Keycloak – Open-Source Identity and Access Management Interview](https://console.substack.com/i/128451029/interview-with-michal-of-keycloak-open-source-identity-and-access-management-for-modern-applications)
+- Jun 18 - [HDR QR Code](https://notes.dt.in.th/HDRQRCode)
+- Jun 18 - [Sponge spicule](https://en.wikipedia.org/wiki/Sponge_spicule)
 <!--END_SECTION:hn-->
 
 <!--
