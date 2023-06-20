@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 20 - [Zero downtime major PostgreSQL version upgrades with pg_easy_replicate](https://github.com/shayonj/pg_easy_replicate)
-- Jun 20 - [Goodbye, San Francisco](https://yolken.net/blog/goodbye-san-francisco)
-- Jun 20 - [Gannett CEO: Here's why we are suing Google for deceptive business practices](https://www.usatoday.com/story/opinion/2023/06/20/gannett-ceo-why-we-are-suing-google-for-its-business-practices/70336910007/)
-- Jun 20 - [Stackoverflow is investing into baking GenAI](https://stackoverflow.co/labs/)
-- Jun 20 - [Undb – Private first, unified, self-hosted no code database](https://github.com/undb-xyz/undb)
+- Jun 20 - [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
+- Jun 20 - [Missing Titanic Sub Faced Lawsuit over Depths It Could Safely Travel To](https://newrepublic.com/post/173802/missing-titanic-sub-faced-lawsuit-depths-safely-travel-oceangate)
+- Jun 20 - [A Bayesian View of Amazon Resellers](https://www.johndcook.com/blog/2011/09/27/bayesian-amazon/)
+- Jun 20 - [Show HN: Autolabel, a Python library to label and enrich text data with LLMs](https://github.com/refuel-ai/autolabel)
+- Jun 20 - [Investor social networking website (Patent)](https://patents.google.com/patent/US8458084B2/en)
 <!--END_SECTION:hn-->
 
 <!--
