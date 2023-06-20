@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 19 - [Right to access information/logic about automated decision making in GDPR Art 15](https://gdpr-info.eu/art-15-gdpr/)
-- Jun 19 - [Metaprogramming in Zig and Parsing CSS](https://notes.eatonphil.com/2023-06-19-metaprogramming-in-zig-and-parsing-css.html)
-- Jun 19 - [Sea Change](https://www.oaktreecapital.com/insights/memo/sea-change)
-- Jun 19 - [Effekt: Lightweight Effect Polymorphism for Handlers (2020) [pdf]](https://se.cs.uni-tuebingen.de/publications/brachthaeuser20effekt.pdf)
-- Jun 19 - [AI: First New UI Paradigm in 60 Years, Jakob Nielsen](https://www.nngroup.com/articles/ai-paradigm/)
+- Jun 19 - [SFO United Staff Accused of Stealing Marijuana from Checked Bags](https://sfstandard.com/criminal-justice/sfo-united-staff-accused-of-stealing-marijuana-from-checked-bags/)
+- Jun 19 - [The Federated App Problem](https://plug-world.com/posts/the-federated-app-problem/)
+- Jun 19 - [Mum’s microbes might boost brain development of C-section babies](https://www.nature.com/articles/d41586-023-01972-4)
+- Jun 19 - [Scaling Memcache at Facebook](https://www.micahlerner.com/2021/05/31/scaling-memcache-at-facebook.html)
+- Jun 19 - [Gopher Wrangling. Effective error handling in Go](https://stephenn.com/2023/06/gopher-wrangling.-effective-error-handling-in-go/)
 <!--END_SECTION:hn-->
 
 <!--
