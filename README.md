@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 21 - [Tesorio (YC S15) Is a Head of Marketing – join our 100% distributed team](https://www.tesorio.com/careers#job-openings)
-- Jun 21 - [Ask HN: Best Practices Guides You're Aware Of](https://news.ycombinator.com/item?id=36416727)
-- Jun 21 - [Ego and Math – 3B1B 2023 Stanford Math Department Commencement Speech [video]](https://www.youtube.com/watch?v=z7GVHB2wiyg)
-- Jun 21 - [See the pitch memo that raised €105M for four-week-old startup Mistral](https://sifted.eu/articles/pitch-deck-mistral)
-- Jun 21 - [Apple could force a 111-year-old fruit company to change its Apple logo](https://www.androidauthority.com/apple-swiss-fruit-company-change-logo-3336622/)
+- Jun 21 - [AI Workbooks – A notebook interface for LLMs, image and audio models](https://lastmileai.dev/workbooks/clj2y933l000mr0avd2ck42s9)
+- Jun 21 - [Handles Are the Better Pointers](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
+- Jun 21 - [Amazon Allegedly Tricked Users into Prime and Sabotaged Their Attempts to Cancel](https://gizmodo.com/amazon-prime-subscription-cancel-ftc-sues-tricks-1850559742)
+- Jun 21 - [System Initiative: Second Wave DevOps](https://www.systeminit.com/blog-second-wave-devops/)
+- Jun 21 - [Email proves Microsoft's Activision bid is designed to eliminate Playstation](https://www.axios.com/2023/06/20/exhibit-k-microsoft-activision)
 <!--END_SECTION:hn-->
 
 <!--
