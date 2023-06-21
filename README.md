@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 21 - [AI Workbooks – A notebook interface for LLMs, image and audio models](https://lastmileai.dev/workbooks/clj2y933l000mr0avd2ck42s9)
-- Jun 21 - [Handles Are the Better Pointers](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
-- Jun 21 - [Amazon Allegedly Tricked Users into Prime and Sabotaged Their Attempts to Cancel](https://gizmodo.com/amazon-prime-subscription-cancel-ftc-sues-tricks-1850559742)
-- Jun 21 - [System Initiative: Second Wave DevOps](https://www.systeminit.com/blog-second-wave-devops/)
-- Jun 21 - [Email proves Microsoft's Activision bid is designed to eliminate Playstation](https://www.axios.com/2023/06/20/exhibit-k-microsoft-activision)
+- Jun 21 - [Free Organ](https://www.organclearinghouse.com/organs-for-sale#/3141-austin-san-francisco)
+- Jun 21 - [How I installed TrueNAS on my new ASUSTOR NAS](https://www.jeffgeerling.com/blog/2023/how-i-installed-truenas-on-my-new-asustor-nas)
+- Jun 21 - [Show HN: gpt-engineer – platform for devs to tinker with AI programming tools](https://news.ycombinator.com/item?id=36422730)
+- Jun 21 - [Microsoft rewrote Q# compiler in Rust](https://github.com/microsoft/qsharp)
+- Jun 21 - [Object-oriented Programming with ANSI-C (1993) [pdf]](https://www.mclibre.org/descargar/docs/libros/ooc-ats.pdf)
 <!--END_SECTION:hn-->
 
 <!--
