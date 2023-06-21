@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 20 - [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
-- Jun 20 - [Missing Titanic Sub Faced Lawsuit over Depths It Could Safely Travel To](https://newrepublic.com/post/173802/missing-titanic-sub-faced-lawsuit-depths-safely-travel-oceangate)
-- Jun 20 - [A Bayesian View of Amazon Resellers](https://www.johndcook.com/blog/2011/09/27/bayesian-amazon/)
-- Jun 20 - [Show HN: Autolabel, a Python library to label and enrich text data with LLMs](https://github.com/refuel-ai/autolabel)
-- Jun 20 - [Investor social networking website (Patent)](https://patents.google.com/patent/US8458084B2/en)
+- Jun 20 - [Defer for Shell](https://cedwards.xyz/defer-for-shell/)
+- Jun 20 - [YouTube: Sort by oldest is back baby](https://news.ycombinator.com/item?id=36410777)
+- Jun 20 - [Welcome Lemmy.world](https://blog.mastodon.world/welcome-lemmy-world)
+- Jun 20 - [Finley (YC W21) is hiring to reimagine business credit (US remote)](https://news.ycombinator.com/item?id=36410522)
+- Jun 20 - [Gear Patrol has acquired DPReview](https://www.dpreview.com/site-news/8298318614/dpreview-com-looks-forward-to-a-new-chapter-with-gear-patrol)
 <!--END_SECTION:hn-->
 
 <!--
