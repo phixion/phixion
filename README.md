@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 21 - [React to LiveView for Performance](https://podcast.thinkingelixir.com/156)
-- Jun 21 - [Document AdoptNode() Method](https://developer.mozilla.org/en-US/docs/Web/API/Document/adoptNode)
-- Jun 21 - [Textbooks are all you need](https://arxiv.org/abs/2306.11644)
-- Jun 21 - [What to Do If Your House Is Overflowing with Books](https://lithub.com/what-to-do-if-your-house-is-overflowing-with-books/)
-- Jun 21 - [GPT4 is 8 x 220B params = 1.7T params](https://twitter.com/swyx/status/1671272883379908608)
+- Jun 21 - [I won't pay on your website](https://github.com/juspay/hyperswitch/wiki/Why-I-won%27t-pay-on-your-website)
+- Jun 21 - [Ask HN: Is it feasible to launch crowdfunding for a dog shelter in Central Asia?](https://news.ycombinator.com/item?id=36414998)
+- Jun 21 - [Moog sells its business to InMusic](https://ra.co/news/79174)
+- Jun 21 - [Study drugs make people worse at problem solving, not better](https://www.economist.com/science-and-technology/2023/06/20/study-drugs-make-people-worse-at-problem-solving-not-better)
+- Jun 21 - [Strong Solar Flare Erupts from Sun on Jun 20, 2023](https://blogs.nasa.gov/solarcycle25/2023/06/20/271/)
 <!--END_SECTION:hn-->
 
 <!--
