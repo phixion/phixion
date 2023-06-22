@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 22 - [SigNoz (YC W21): Open-Source Observability Platform – Is Hiring Senior Front End Dev](https://www.ycombinator.com/companies/signoz/jobs/OQNtxYk-senior-frontend-engineer-remote)
-- Jun 22 - [French govt. says users of uBlock Origin, Signal etc. are potential terrorists](https://www.laquadrature.net/2023/06/05/affaire-du-8-decembre-le-chiffrement-des-communications-assimile-a-un-comportement-terroriste/)
-- Jun 22 - [Coroutines make robot code easy for high schoolers](https://bvisness.me/coroutines/)
-- Jun 22 - [How to do the thing you've been avoiding](https://jasonfeifer.beehiiv.com/p/the-thing-that-seems-like-a-bad-idea-maybe-try-it)
-- Jun 22 - [Thoughts on Svelte(Kit), one year and 3B requests later](https://claudioholanda.ch/en/blog/svelte-kit-after-3-billion-requests/)
+- Jun 22 - [UpCodes (YC S17) is doubling engineering and hiring other roles too](https://up.codes/careers)
+- Jun 22 - [Google's reCAPTCHA likely illegal in Europe?](https://wideangle.co/blog/is-recaptcha-illegal-under-gdpr)
+- Jun 22 - [Apple Vision Pro – Why It May Be Lousy for Watching Movies on a Plane](https://kguttag.com/2023/06/21/apple-vision-pro-part-3-why-it-may-be-lousy-for-watching-movies-on-a-plane/)
+- Jun 22 - [GCC Adopts a Code of Conduct](https://www.phoronix.com/news/GCC-Code-of-Conduct)
+- Jun 22 - [Unexpected downsides of UUID keys in PostgreSQL](https://www.cybertec-postgresql.com/en/unexpected-downsides-of-uuid-keys-in-postgresql/)
 <!--END_SECTION:hn-->
 
 <!--
