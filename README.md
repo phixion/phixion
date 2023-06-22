@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 22 - [Science and Statistics (1976) [pdf]](https://www-sop.inria.fr/members/Ian.Jermyn/philosophy/writings/Boxonmaths.pdf)
+- Jun 22 - [1Password rolling out “privacy-preserving” telemetry system](https://blog.1password.com/telemetry-system-roll-out/)
+- Jun 22 - [Even more hindsight on Vim, Helix and Kakoune](https://phaazon.net/blog/more-hindsight-vim-helix-kakoune)
+- Jun 21 - [Amazon duped millions of consumers into enrolling in Prime, US FTC says](https://www.reuters.com/legal/amazon-duped-millions-consumers-into-enrolling-prime-ftc-2023-06-21/)
 - Jun 21 - [Tree-Ring Watermark: Invisible Robust Fingerprints of Diffusion Images](https://arxiv.org/abs/2305.20030)
-- Jun 21 - [Ruby Hacking Guide](https://ruby-hacking-guide.github.io)
-- Jun 21 - [Did I receive fraudulent DMCA takedowns?](https://incoherency.co.uk/blog/stories/hardbin-fake-takedowns.html)
-- Jun 21 - [Giving LLM’s a <Backspace> Token](https://arxiv.org/abs/2306.05426)
-- Jun 21 - [Functional Programming in Coq](https://softwarefoundations.cis.upenn.edu/lf-current/Basics.html)
 <!--END_SECTION:hn-->
 
 <!--
