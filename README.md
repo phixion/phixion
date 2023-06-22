@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 22 - [UpCodes (YC S17) is doubling engineering and hiring other roles too](https://up.codes/careers)
-- Jun 22 - [Google's reCAPTCHA likely illegal in Europe?](https://wideangle.co/blog/is-recaptcha-illegal-under-gdpr)
-- Jun 22 - [Apple Vision Pro – Why It May Be Lousy for Watching Movies on a Plane](https://kguttag.com/2023/06/21/apple-vision-pro-part-3-why-it-may-be-lousy-for-watching-movies-on-a-plane/)
-- Jun 22 - [GCC Adopts a Code of Conduct](https://www.phoronix.com/news/GCC-Code-of-Conduct)
-- Jun 22 - [Unexpected downsides of UUID keys in PostgreSQL](https://www.cybertec-postgresql.com/en/unexpected-downsides-of-uuid-keys-in-postgresql/)
+- Jun 22 - ['Incredibly noticeable': alcohol ban cut family violence, crime in Alice Springs](https://www.theguardian.com/australia-news/2023/jun/23/incredibly-noticeable-alcohol-bans-have-cut-family-violence-and-in-alice-springs-advocates-say)
+- Jun 22 - [Military AI’s Next Frontier: Your Work Computer](https://www.wired.com/story/military-ais-next-frontier-your-work-computer/)
+- Jun 22 - [New record anomaly for North Atlantic sea surface temperatures](https://twitter.com/EliotJacobson/status/1671603838770626563)
+- Jun 22 - [Ask HN: Alternative to Firebase FCM](https://news.ycombinator.com/item?id=36433699)
+- Jun 22 - [How VSCode made bracket pair colorization 10,000x faster](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization)
 <!--END_SECTION:hn-->
 
 <!--
