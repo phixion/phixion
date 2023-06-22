@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 22 - ['Incredibly noticeable': alcohol ban cut family violence, crime in Alice Springs](https://www.theguardian.com/australia-news/2023/jun/23/incredibly-noticeable-alcohol-bans-have-cut-family-violence-and-in-alice-springs-advocates-say)
-- Jun 22 - [Military AI’s Next Frontier: Your Work Computer](https://www.wired.com/story/military-ais-next-frontier-your-work-computer/)
-- Jun 22 - [New record anomaly for North Atlantic sea surface temperatures](https://twitter.com/EliotJacobson/status/1671603838770626563)
-- Jun 22 - [Ask HN: Alternative to Firebase FCM](https://news.ycombinator.com/item?id=36433699)
-- Jun 22 - [How VSCode made bracket pair colorization 10,000x faster](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization)
+- Jun 22 - [Oceangate Statement, “We now believe that [all crew] have sadly been lost.”](https://twitter.com/GioBenitez/status/1671954007261151237)
+- Jun 22 - [Framework Laptop 16 Deep Dive – Enclosure](https://frame.work/ca/en/blog/framework-laptop-16-deep-dive---enclosure)
+- Jun 22 - [Dear Red Hat: Are you dumb?](https://www.jeffgeerling.com/blog/2023/dear-red-hat-are-you-dumb)
+- Jun 22 - [OneSignal (YC S11) Is Hiring a Data and Analytics Lead](https://onesignal.com/careers/4007708006)
+- Jun 22 - [Do You Know How Much Your Computer Can Do in a Second?](https://computers-are-fast.github.io)
 <!--END_SECTION:hn-->
 
 <!--
