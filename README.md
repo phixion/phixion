@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 21 - [Free Organ](https://www.organclearinghouse.com/organs-for-sale#/3141-austin-san-francisco)
-- Jun 21 - [How I installed TrueNAS on my new ASUSTOR NAS](https://www.jeffgeerling.com/blog/2023/how-i-installed-truenas-on-my-new-asustor-nas)
-- Jun 21 - [Show HN: gpt-engineer – platform for devs to tinker with AI programming tools](https://news.ycombinator.com/item?id=36422730)
-- Jun 21 - [Microsoft rewrote Q# compiler in Rust](https://github.com/microsoft/qsharp)
-- Jun 21 - [Object-oriented Programming with ANSI-C (1993) [pdf]](https://www.mclibre.org/descargar/docs/libros/ooc-ats.pdf)
+- Jun 21 - [Tree-Ring Watermark: Invisible Robust Fingerprints of Diffusion Images](https://arxiv.org/abs/2305.20030)
+- Jun 21 - [Ruby Hacking Guide](https://ruby-hacking-guide.github.io)
+- Jun 21 - [Did I receive fraudulent DMCA takedowns?](https://incoherency.co.uk/blog/stories/hardbin-fake-takedowns.html)
+- Jun 21 - [Giving LLM’s a <Backspace> Token](https://arxiv.org/abs/2306.05426)
+- Jun 21 - [Functional Programming in Coq](https://softwarefoundations.cis.upenn.edu/lf-current/Basics.html)
 <!--END_SECTION:hn-->
 
 <!--
