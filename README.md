@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 22 - [Generating SQL with LLMs for fun and profit](https://iamnotarobot.substack.com/p/generating-sql-with-llms-for-fun)
-- Jun 22 - [Next.js App Router Update](https://nextjs.org/blog/june-2023-update)
-- Jun 22 - [Rocky Linux Expresses Confidence Despite Red Hat's Announcement](https://rockylinux.org/news/2023-06-22-press-release/)
-- Jun 22 - [eBPF Verification Is Untenable](https://twitter.com/tianyin_xu/status/1671857283263868930)
-- Jun 22 - [My ranking of every Shakespeare play](https://nullprogram.com/blog/2023/06/22/)
+- Jun 23 - [Open and Closed, Omission and Collapse](https://brooker.co.za/blog/2023/05/10/open-closed.html)
+- Jun 23 - [Anime.js – A lightweight JavaScript animation library](https://animejs.com/)
+- Jun 23 - [UW CSE 391 – System and Software Tools](https://courses.cs.washington.edu/courses/cse391/23sp/)
+- Jun 23 - [Scientists unfroze rat organs and transplanted them](https://www.statnews.com/2023/06/21/cryogenic-organ-preservation-transplants/)
+- Jun 23 - [So you want to write a GUI framework (2021)](http://www.cmyr.net/blog/gui-framework-ingredients.html)
 <!--END_SECTION:hn-->
 
 <!--
