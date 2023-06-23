@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 22 - [Oceangate Statement, “We now believe that [all crew] have sadly been lost.”](https://twitter.com/GioBenitez/status/1671954007261151237)
-- Jun 22 - [Framework Laptop 16 Deep Dive – Enclosure](https://frame.work/ca/en/blog/framework-laptop-16-deep-dive---enclosure)
-- Jun 22 - [Dear Red Hat: Are you dumb?](https://www.jeffgeerling.com/blog/2023/dear-red-hat-are-you-dumb)
-- Jun 22 - [OneSignal (YC S11) Is Hiring a Data and Analytics Lead](https://onesignal.com/careers/4007708006)
-- Jun 22 - [Do You Know How Much Your Computer Can Do in a Second?](https://computers-are-fast.github.io)
+- Jun 22 - [Generating SQL with LLMs for fun and profit](https://iamnotarobot.substack.com/p/generating-sql-with-llms-for-fun)
+- Jun 22 - [Next.js App Router Update](https://nextjs.org/blog/june-2023-update)
+- Jun 22 - [Rocky Linux Expresses Confidence Despite Red Hat's Announcement](https://rockylinux.org/news/2023-06-22-press-release/)
+- Jun 22 - [eBPF Verification Is Untenable](https://twitter.com/tianyin_xu/status/1671857283263868930)
+- Jun 22 - [My ranking of every Shakespeare play](https://nullprogram.com/blog/2023/06/22/)
 <!--END_SECTION:hn-->
 
 <!--
