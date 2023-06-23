@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 23 - [GiveCampus (YC S15) hiring rails engineers passionate about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- Jun 23 - [From Word Models to World Models](https://arxiv.org/abs/2306.12672)
-- Jun 23 - [Update All Your Apple Devices ASAP](https://lifehacker.com/update-all-your-apple-devices-asap-1850565238)
-- Jun 23 - [Why is it so rare to hear about Western cyber-attacks?](https://www.bbc.com/news/technology-65977742)
-- Jun 23 - [GitHub: “Human eyes” will never see the contents of your private repositories](https://docs.github.com/en/get-started/privacy-on-github/about-githubs-use-of-your-data)
+- Jun 23 - [An Open Source Mouse and Trackpad Utility for Mac](https://linearmouse.app/)
+- Jun 23 - [How to create a game using hyperbolic geometry?](http://roguetemple.com/z/hyper/dev.php)
+- Jun 23 - [Framework Laptop 16 Deep Dive – 180W Power Adapter](https://frame.work/gb/en/blog/framework-laptop-16-deep-dive---180w-power-adapter)
+- Jun 23 - [Show HN: I made a gallery of graphs built with React and D3.js](https://www.react-graph-gallery.com)
+- Jun 23 - [Show HN: I built a package manager for AI plugins](https://openpm.ai/)
 <!--END_SECTION:hn-->
 
 <!--
