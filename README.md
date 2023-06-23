@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 23 - [Open and Closed, Omission and Collapse](https://brooker.co.za/blog/2023/05/10/open-closed.html)
+- Jun 23 - [Amazon cancels my account after exposing account lockout for “racist doorbell” [video]](https://www.youtube.com/watch?v=Kcohq313q00)
+- Jun 23 - [Around the World with SQLite3 and Rsync](https://fly.io/ruby-dispatch/smooth-fly-dev/)
+- Jun 23 - [OpenSUSE – Closing the Leap Gap (2021)](https://www.suse.com/c/closing-the-leap-gap-src/)
+- Jun 23 - [How AI can distort human beliefs](https://www.science.org/doi/10.1126/science.adi0248)
 - Jun 23 - [Anime.js – A lightweight JavaScript animation library](https://animejs.com/)
-- Jun 23 - [UW CSE 391 – System and Software Tools](https://courses.cs.washington.edu/courses/cse391/23sp/)
-- Jun 23 - [Scientists unfroze rat organs and transplanted them](https://www.statnews.com/2023/06/21/cryogenic-organ-preservation-transplants/)
-- Jun 23 - [So you want to write a GUI framework (2021)](http://www.cmyr.net/blog/gui-framework-ingredients.html)
 <!--END_SECTION:hn-->
 
 <!--
