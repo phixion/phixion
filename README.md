@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 23 - [Amazon cancels my account after exposing account lockout for “racist doorbell” [video]](https://www.youtube.com/watch?v=Kcohq313q00)
-- Jun 23 - [Around the World with SQLite3 and Rsync](https://fly.io/ruby-dispatch/smooth-fly-dev/)
-- Jun 23 - [OpenSUSE – Closing the Leap Gap (2021)](https://www.suse.com/c/closing-the-leap-gap-src/)
-- Jun 23 - [How AI can distort human beliefs](https://www.science.org/doi/10.1126/science.adi0248)
-- Jun 23 - [Anime.js – A lightweight JavaScript animation library](https://animejs.com/)
+- Jun 23 - [GiveCampus (YC S15) hiring rails engineers passionate about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+- Jun 23 - [From Word Models to World Models](https://arxiv.org/abs/2306.12672)
+- Jun 23 - [Update All Your Apple Devices ASAP](https://lifehacker.com/update-all-your-apple-devices-asap-1850565238)
+- Jun 23 - [Why is it so rare to hear about Western cyber-attacks?](https://www.bbc.com/news/technology-65977742)
+- Jun 23 - [GitHub: “Human eyes” will never see the contents of your private repositories](https://docs.github.com/en/get-started/privacy-on-github/about-githubs-use-of-your-data)
 <!--END_SECTION:hn-->
 
 <!--
