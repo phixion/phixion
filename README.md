@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 24 - [New rule would give electric utilities incentives for investing in cybersecurity](https://www.federalregister.gov/documents/2023/05/03/2023-08929/incentives-for-advanced-cybersecurity-investment)
-- Jun 24 - [North Korean Market Prices Suggest Serious Food Shortages](https://www.38north.org/2023/06/north-korean-market-prices-suggest-serious-food-shortages/)
-- Jun 24 - [Behind the Curtains of Wikipedia Redesign](https://www.smashingmagazine.com/2023/06/behind-curtains-wikipedia-redesign/)
-- Jun 24 - [Inflation is as corrosive to investing as it is to the real economy](https://www.economist.com/briefing/2023/06/21/inflation-is-as-corrosive-to-investing-as-it-is-to-the-real-economy)
-- Jun 24 - [Simple Statistics: Statistical methods in JavaScript for browsers and servers](https://simple-statistics.github.io/)
+- Jun 24 - [Every Mastodon User Has an RSS Feed](https://www.rssboard.org/news/211/every-mastodon-user-has-rss-feed)
+- Jun 24 - [Do, or do not. There is no try](https://github.com/binpash/try)
+- Jun 24 - [US vendor accused of violating GDPR by reputation-scoring EU citizens](https://www.theregister.com/2023/06/23/telesign_gdpr_complaint/)
+- Jun 24 - [$900k Median Package for Engineers at OpenAI](https://www.levels.fyi/companies/openai/salaries/software-engineer)
+- Jun 24 - [Creating an autonomous system for fun and profit (2017)](https://blog.thelifeofkenneth.com/2017/11/creating-autonomous-system-for-fun-and.html)
 <!--END_SECTION:hn-->
 
 <!--
