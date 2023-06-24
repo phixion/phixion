@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 24 - [Why thousands of board games are buried beneath Mankato](https://www.startribune.com/anti-monopoly-mankato-landfill-board-game-history/600279625/)
-- Jun 24 - [An open source web-based flashcard studying system](https://github.com/hwgilbert16/scholarsome)
-- Jun 24 - [PDF Subpage Navigation](https://nibblestew.blogspot.com/2023/06/pdf-subpage-navigation.html)
-- Jun 24 - [Doctor Droid (YC W23) Is Hiring Back End Engineer (7 Years Exp)](https://www.ycombinator.com/companies/doctor-droid/jobs/euNMtT4-senior-backend-7-yrs)
-- Jun 23 - [The rule says, “No vehicles in the park”](https://novehiclesinthepark.com/)
+- Jun 24 - [Maker's schedule, Manager's schedule (2009)](http://www.paulgraham.com/makersschedule.html)
+- Jun 24 - [History is just one damn thing after another](https://collabfund.com/blog/how-this-all-happened/)
+- Jun 24 - [A large crash spike affecting Firefox users on Linux](https://fosstodon.org/@gabrielesvelto/110592904713090347)
+- Jun 24 - [OpenSuse Tumbleweed: State-of-the-art desktop and server operating system](https://get.opensuse.org/tumbleweed/)
+- Jun 24 - [Go 1.21 will (probably) download newer toolchains on demand by default](https://utcc.utoronto.ca/~cks/space/blog/programming/Go121ToolchainDownloads)
 <!--END_SECTION:hn-->
 
 <!--
