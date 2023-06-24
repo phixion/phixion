@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 24 - [Why doesn't TypeScript properly type Object.keys?](https://alexharri.com/blog/typescript-structural-typing)
-- Jun 24 - [The Case Against Travel](https://www.newyorker.com/culture/the-weekend-essay/the-case-against-travel)
-- Jun 24 - [GCC 14 Adds Initial “-std=C++26” Plumbing](https://www.phoronix.com/news/GCC-Lands-Std-CPP26-GNU26)
-- Jun 24 - [Decades-long bet on consciousness ends – it’s philosopher 1, neuroscientist 0](https://www.nature.com/articles/d41586-023-02120-8)
-- Jun 24 - [Wearable device that records your voice for legal defense](https://news.ycombinator.com/item?id=36457266)
+- Jun 24 - [New rule would give electric utilities incentives for investing in cybersecurity](https://www.federalregister.gov/documents/2023/05/03/2023-08929/incentives-for-advanced-cybersecurity-investment)
+- Jun 24 - [North Korean Market Prices Suggest Serious Food Shortages](https://www.38north.org/2023/06/north-korean-market-prices-suggest-serious-food-shortages/)
+- Jun 24 - [Behind the Curtains of Wikipedia Redesign](https://www.smashingmagazine.com/2023/06/behind-curtains-wikipedia-redesign/)
+- Jun 24 - [Inflation is as corrosive to investing as it is to the real economy](https://www.economist.com/briefing/2023/06/21/inflation-is-as-corrosive-to-investing-as-it-is-to-the-real-economy)
+- Jun 24 - [Simple Statistics: Statistical methods in JavaScript for browsers and servers](https://simple-statistics.github.io/)
 <!--END_SECTION:hn-->
 
 <!--
