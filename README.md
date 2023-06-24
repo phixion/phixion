@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 24 - [Why thousands of board games are buried beneath Mankato](https://www.startribune.com/anti-monopoly-mankato-landfill-board-game-history/600279625/)
+- Jun 24 - [An open source web-based flashcard studying system](https://github.com/hwgilbert16/scholarsome)
+- Jun 24 - [PDF Subpage Navigation](https://nibblestew.blogspot.com/2023/06/pdf-subpage-navigation.html)
+- Jun 24 - [Doctor Droid (YC W23) Is Hiring Back End Engineer (7 Years Exp)](https://www.ycombinator.com/companies/doctor-droid/jobs/euNMtT4-senior-backend-7-yrs)
 - Jun 23 - [The rule says, “No vehicles in the park”](https://novehiclesinthepark.com/)
-- Jun 23 - ['Scary moment' as orcas disrupt ocean boat race](https://www.cbc.ca/sports/orcas-ramming-boats-spain-portugal-1.6886891)
-- Jun 23 - [Millions of GitHub repos likely vulnerable to RepoJacking, researchers say](https://www.bleepingcomputer.com/news/security/millions-of-github-repos-likely-vulnerable-to-repojacking-researchers-say/)
-- Jun 23 - [How I landed a model rocket [video]](https://www.youtube.com/watch?v=1GanrexRyVY)
-- Jun 23 - [Real-time messaging](https://slack.engineering/real-time-messaging/)
 <!--END_SECTION:hn-->
 
 <!--
