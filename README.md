@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 24 - [Maker's schedule, Manager's schedule (2009)](http://www.paulgraham.com/makersschedule.html)
-- Jun 24 - [History is just one damn thing after another](https://collabfund.com/blog/how-this-all-happened/)
-- Jun 24 - [A large crash spike affecting Firefox users on Linux](https://fosstodon.org/@gabrielesvelto/110592904713090347)
-- Jun 24 - [OpenSuse Tumbleweed: State-of-the-art desktop and server operating system](https://get.opensuse.org/tumbleweed/)
-- Jun 24 - [Go 1.21 will (probably) download newer toolchains on demand by default](https://utcc.utoronto.ca/~cks/space/blog/programming/Go121ToolchainDownloads)
+- Jun 24 - [Why doesn't TypeScript properly type Object.keys?](https://alexharri.com/blog/typescript-structural-typing)
+- Jun 24 - [The Case Against Travel](https://www.newyorker.com/culture/the-weekend-essay/the-case-against-travel)
+- Jun 24 - [GCC 14 Adds Initial “-std=C++26” Plumbing](https://www.phoronix.com/news/GCC-Lands-Std-CPP26-GNU26)
+- Jun 24 - [Decades-long bet on consciousness ends – it’s philosopher 1, neuroscientist 0](https://www.nature.com/articles/d41586-023-02120-8)
+- Jun 24 - [Wearable device that records your voice for legal defense](https://news.ycombinator.com/item?id=36457266)
 <!--END_SECTION:hn-->
 
 <!--
