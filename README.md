@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 24 - [Every Mastodon User Has an RSS Feed](https://www.rssboard.org/news/211/every-mastodon-user-has-rss-feed)
-- Jun 24 - [Do, or do not. There is no try](https://github.com/binpash/try)
-- Jun 24 - [US vendor accused of violating GDPR by reputation-scoring EU citizens](https://www.theregister.com/2023/06/23/telesign_gdpr_complaint/)
-- Jun 24 - [$900k Median Package for Engineers at OpenAI](https://www.levels.fyi/companies/openai/salaries/software-engineer)
-- Jun 24 - [Creating an autonomous system for fun and profit (2017)](https://blog.thelifeofkenneth.com/2017/11/creating-autonomous-system-for-fun-and.html)
+- Jun 25 - [WeeChat Version 4.0.0](https://blog.weechat.org/post/2023/06/24/Version-4.0.0)
+- Jun 24 - [MIT Responds to “ Exploring the MIT Mathematics and EECS Curriculum Using LLMs” [pdf]](https://people.csail.mit.edu/asolar/CoursesPaperStatement.pdf)
+- Jun 24 - [Interactive CommonMark Tutorial](https://commonmark.org/help/tutorial/index.html)
+- Jun 24 - [All EU Members are committed to achieving full climate neutrality by 2050](https://www.ff55.info/about/)
+- Jun 24 - [NHTSA: Car crashes cost Americans $340B](https://www.nhtsa.gov/press-releases/traffic-crashes-cost-america-billions-2019)
 <!--END_SECTION:hn-->
 
 <!--
