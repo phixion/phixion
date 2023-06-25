@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Jun 25 - [BreachForums Clone - 4,204 breached accounts](https://haveibeenpwned.com/PwnedWebsites#BreachForumsClone)
 - Jun 10 - [Zacks - 8,929,503 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Zacks)
 - Jun 05 - [JD Group - 521,878 breached accounts](https://haveibeenpwned.com/PwnedWebsites#JDGroup)
 - May 31 - [RaidForums - 478,604 breached accounts](https://haveibeenpwned.com/PwnedWebsites#RaidForums)
 - May 30 - [Polish Credentials - 1,204,870 breached accounts](https://haveibeenpwned.com/PwnedWebsites#PolishCredentials)
-- May 19 - [Luxottica - 77,093,812 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Luxottica)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 25 - [BrowserBox Pro goes open-source](https://github.com/dosyago/BrowserBoxPro)
-- Jun 25 - [Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/)
-- Jun 25 - [Ask HN: Is GNU pass and Yubikey (via NFC) supported on iPhone?](https://news.ycombinator.com/item?id=36464531)
-- Jun 25 - [Netflix Canada just got rid of its cheapest ad-free plan without even a heads up](https://www.narcity.com/netflix-canada-got-rid-of-cheapest-ad-free-subscription)
-- Jun 25 - [WeeChat Version 4.0.0](https://blog.weechat.org/post/2023/06/24/Version-4.0.0)
+- Jun 25 - [Everything that uses configuration files should report where they're located](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ReportConfigFileLocations)
+- Jun 25 - [Sweden adopts new fossil-free target, making way for nuclear](https://www.power-technology.com/news/sweden-adopts-new-fossil-free-target-making-way-for-nuclear/)
+- Jun 25 - [Zotero Better Notes – Knowledge management inside Zotero](https://github.com/windingwind/zotero-better-notes)
+- Jun 25 - [How platform engineering works](https://chadxz.dev/platform/)
+- Jun 25 - [Tilia – regulation-compliant (but US-only) money transmitter for gaming](https://www.tilia.io/about)
 <!--END_SECTION:hn-->
 
 <!--
