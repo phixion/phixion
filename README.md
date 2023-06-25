@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 25 - [Everything that uses configuration files should report where they're located](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ReportConfigFileLocations)
-- Jun 25 - [Sweden adopts new fossil-free target, making way for nuclear](https://www.power-technology.com/news/sweden-adopts-new-fossil-free-target-making-way-for-nuclear/)
-- Jun 25 - [Zotero Better Notes – Knowledge management inside Zotero](https://github.com/windingwind/zotero-better-notes)
-- Jun 25 - [How platform engineering works](https://chadxz.dev/platform/)
-- Jun 25 - [Tilia – regulation-compliant (but US-only) money transmitter for gaming](https://www.tilia.io/about)
+- Jun 25 - [Office real estate crash will be so sharp, values unlikely to recover by 2040](https://fortune.com/2023/06/23/commercial-real-estate-crash-office-values-unlikely-to-recover-by-2040-says-capital-economics/)
+- Jun 25 - [Son Doong Cave Is So Big It Has Its Own Rainforest (2019)](https://www.discovery.com/exploration/Son-Doong-Cave)
+- Jun 25 - [Upload a Godot HTML5 Game to Itch.io with GitHub Actions](https://simondalvai.com/blog/godot-itchio-upload/)
+- Jun 25 - [No Markdown support in Google Drive after all these years](https://news.ycombinator.com/item?id=36466406)
+- Jun 25 - [Web-based cryptography is always snake oil](https://www.devever.net/~hl/webcrypto)
 <!--END_SECTION:hn-->
 
 <!--
