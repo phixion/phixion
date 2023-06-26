@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 25 - [How the Y chromosome makes some cancers more deadly for men](https://www.nature.com/articles/d41586-023-01987-x)
+- Jun 26 - [NRF52840 Connect Kit – Rapid prototyping kit for your next connected projects](https://github.com/makerdiary/nrf52840-connectkit)
+- Jun 26 - [Mycelite: SQLite extension to synchronize changes across SQLite instances](https://github.com/mycelial/mycelite)
+- Jun 26 - [Tokens, the secret language of AI](https://omarkama.li/blog/tokens-the-secret-language-of-ai)
+- Jun 26 - [Estimated U.S. deer population, 1450 to 2016](https://www.researchgate.net/figure/Estimated-US-Deer-Population-1450-to-2016-Year-2000-to-2016-estimated-from-combined_fig3_344865578)
 - Jun 25 - [FAA issues ground stop for all DC-area airports due to equipment fire](https://www.fox5dc.com/news/faa-issues-ground-stop-for-all-dc-area-airports-due-to-equipment-fire-federal-avaiation-administration-dca-iad-bwi-ric)
-- Jun 25 - [“Elemental” Is a Tearful Metaphor for Pixar’s Decline](https://www.newyorker.com/culture/cultural-comment/elemental-is-a-tearful-metaphor-for-pixars-decline)
-- Jun 25 - [How the most popular cars in the US track drivers](https://www.wired.com/story/car-data-privacy-toyota-honda-ford/)
-- Jun 25 - [Counting the Hard Way](https://rupertmckay.com/blog/counting-to-ten/)
 <!--END_SECTION:hn-->
 
 <!--
