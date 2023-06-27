@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 26 - [Modern TLS/SSL on 16-bit Windows](https://www.dialup.net/wingpt/tls.html)
-- Jun 26 - [Through a Glass Darkly](https://asteriskmag.com/issues/03/through-a-glass-darkly)
-- Jun 26 - [Discovering that a Bluetooth car battery monitor is siphoning location data](https://doubleagent.net/2023/05/21/a-car-battery-monitor-tracking-your-location)
-- Jun 26 - [Exposing Floating Point (2019)](https://ciechanow.ski/exposing-floating-point/)
-- Jun 26 - [The Magic Nix Cache, a GitHub Action for speeding up your Nix workflows](https://determinate.systems/posts/magic-nix-cache)
+- Jun 27 - [Breaking the Limits: How Folia Made 1,000 Player Minecraft Server a Reality](https://cubxity.dev/blog/folia-test-june-2023)
+- Jun 27 - [It’s Time To Subsidize E-bikes](https://clivethompson.medium.com/its-time-to-subsidize-e-bikes-900a862b8e76)
+- Jun 27 - [Build Your Own Docker with Linux Namespaces, Cgroups, and Chroot](https://akashrajpurohit.com/blog/build-your-own-docker-with-linux-namespaces-cgroups-and-chroot-handson-guide/)
+- Jun 27 - [Domain-Oriented Microservice Architecture (2020)](https://www.uber.com/blog/microservice-architecture/)
+- Jun 27 - [OPNsense a true open-source security platform and more](https://opnsense.org/)
 <!--END_SECTION:hn-->
 
 <!--
