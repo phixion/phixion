@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 27 - [Text Blaze (YC W21) Is Hiring a Growth Engineer to Pioneer LLM Driven Strategies](https://news.ycombinator.com/item?id=36491647)
-- Jun 27 - [The Deep Sea](https://neal.fun/deep-sea/)
-- Jun 27 - [Wolfi: A community Linux OS designed for the container and cloud-native era](https://github.com/wolfi-dev)
-- Jun 27 - [Optimizing a ring buffer for throughput (2021)](https://rigtorp.se/ringbuffer/)
-- Jun 27 - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
+- Jun 27 - [Blender 3.6 LTS Released](https://www.blender.org/download/releases/3-6/)
+- Jun 27 - [Ask HN: Why Delaware and Not Dubai?](https://news.ycombinator.com/item?id=36493907)
+- Jun 27 - [AMD Introduces World’s Largest FPGA-Based Adaptive SoC for Emulation](https://ir.amd.com/news-events/press-releases/detail/1141/amd-introduces-worlds-largest-fpga-based-adaptive-soc)
+- Jun 27 - [The Password Game](https://neal.fun/password-game/)
+- Jun 27 - [The Precipitation Problem](https://firststreet.org/research-lab/published-research/article-highlights-from-the-precipitation-problem/)
 <!--END_SECTION:hn-->
 
 <!--
