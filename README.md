@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 26 - [Kor: Extract structured data using LLMs](https://github.com/eyurtsev/kor)
-- Jun 26 - [Magit](https://magit.vc)
-- Jun 26 - [P1030680: Unbroken Enigma message (U534, 01 May 1945)](https://enigma.hoerenberg.com/index.php?cat=Unbroken&page=P1030680)
-- Jun 26 - [Corporate profits account for almost half the increase in Europe’s inflation](https://www.imf.org/en/Blogs/Articles/2023/06/26/europes-inflation-outlook-depends-on-how-corporate-profits-absorb-wage-gains)
-- Jun 26 - [Engineering Assessment of the OceanGate Titan Failure](https://www.captainsjournal.com/2023/06/25/engineering-assessment-of-the-oceangate-titan-failure/)
+- Jun 26 - [Modern TLS/SSL on 16-bit Windows](https://www.dialup.net/wingpt/tls.html)
+- Jun 26 - [Through a Glass Darkly](https://asteriskmag.com/issues/03/through-a-glass-darkly)
+- Jun 26 - [Discovering that a Bluetooth car battery monitor is siphoning location data](https://doubleagent.net/2023/05/21/a-car-battery-monitor-tracking-your-location)
+- Jun 26 - [Exposing Floating Point (2019)](https://ciechanow.ski/exposing-floating-point/)
+- Jun 26 - [The Magic Nix Cache, a GitHub Action for speeding up your Nix workflows](https://determinate.systems/posts/magic-nix-cache)
 <!--END_SECTION:hn-->
 
 <!--
