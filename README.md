@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 27 - [Optimizing a Ring Buffer for Throughput](https://rigtorp.se/ringbuffer/)
+- Jun 27 - [Text Blaze (YC W21) Is Hiring a Growth Engineer to Pioneer LLM Driven Strategies](https://news.ycombinator.com/item?id=36491647)
+- Jun 27 - [The Deep Sea](https://neal.fun/deep-sea/)
+- Jun 27 - [Wolfi: A community Linux OS designed for the container and cloud-native era](https://github.com/wolfi-dev)
+- Jun 27 - [Optimizing a ring buffer for throughput (2021)](https://rigtorp.se/ringbuffer/)
 - Jun 27 - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
-- Jun 27 - [Show HN: An Interactive Guide to Teach Derivatives and Backpropagation](https://x0axz.com/blog/autograd.html)
-- Jun 27 - [Testing a 1,000 player Minecraft server with Folia](https://cubxity.dev/blog/folia-test-june-2023)
-- Jun 27 - [Build your own Docker with Linux namespaces, cgroups, and chroot](https://akashrajpurohit.com/blog/build-your-own-docker-with-linux-namespaces-cgroups-and-chroot-handson-guide/)
 <!--END_SECTION:hn-->
 
 <!--
