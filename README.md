@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 27 - [Blender 3.6 LTS Released](https://www.blender.org/download/releases/3-6/)
-- Jun 27 - [Ask HN: Why Delaware and Not Dubai?](https://news.ycombinator.com/item?id=36493907)
-- Jun 27 - [AMD Introduces World’s Largest FPGA-Based Adaptive SoC for Emulation](https://ir.amd.com/news-events/press-releases/detail/1141/amd-introduces-worlds-largest-fpga-based-adaptive-soc)
-- Jun 27 - [The Password Game](https://neal.fun/password-game/)
-- Jun 27 - [The Precipitation Problem](https://firststreet.org/research-lab/published-research/article-highlights-from-the-precipitation-problem/)
+- Jun 27 - [Show HN: Flux Copilot – Generative AI for hardware design](https://www.flux.ai/p/blog/generative-ai-for-hardware-design)
+- Jun 27 - [Show HN: Endless – An attempt to unify the social media experience](https://github.com/kaangiray26/endless)
+- Jun 27 - [Docker Acquires Mutagen](https://www.docker.com/blog/mutagen-acquisition/)
+- Jun 27 - [OpenRC is a dependency-based init system for Unix-like systems](https://wiki.gentoo.org/wiki/OpenRC)
+- Jun 27 - [InfluxDB 3.0 System Architecture](https://www.influxdata.com/blog/influxdb-3-0-system-architecture/)
 <!--END_SECTION:hn-->
 
 <!--
