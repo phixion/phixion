@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 27 - [FreeBSD Jails Containers](https://vermaden.wordpress.com/2023/06/28/freebsd-jails-containers/)
-- Jun 27 - [Cooklang – Recipe Markup Language](https://cooklang.org)
-- Jun 27 - [Google does little to reduce advertisers costs](https://simpleblog.ai/blog/google-ads-can-do-more-for-customers/)
-- Jun 27 - [Human Or Not: Guess if you're chatting with an AI or a Human](https://app.humanornot.ai/)
-- Jun 27 - [The hidden cost of air quality monitoring](https://www.airgradient.com/blog/hidden-costs-of-air-quality-monitoring/)
+- Jun 28 - [Every Flashing Element on Your Site Alienates and Enrages Users](https://astralcodexten.substack.com/p/every-flashing-element-on-your-site)
+- Jun 28 - [Inaugural YC Top Companies List by Revenue](https://www.ycombinator.com/blog/yc-top-companies-list-by-revenue)
+- Jun 28 - [How not to write a pipeline](https://cohost.org/tef/post/1764930-how-not-to-write-a)
+- Jun 28 - [Working with CSV files on shell/terminal](https://muhammadraza.me/2022/data-oneliners/)
+- Jun 28 - [Trinity Desktop Environment – a modern KDE3 fork](https://www.trinitydesktop.org/)
 <!--END_SECTION:hn-->
 
 <!--
