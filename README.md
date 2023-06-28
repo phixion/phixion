@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 28 - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-- Jun 28 - [Ask HN: How to navigate the wordl as a brain-damaged 17 year old?](https://news.ycombinator.com/item?id=36505122)
-- Jun 28 - [Electrifying everything at the rate required to meet our climate goals](https://www.rewiringamerica.org/pace)
-- Jun 28 - [Vincent van Gogh's paintings and drawings](https://www.vangoghmuseum.nl/en/collection?q=&artist=Vincent+van+Gogh)
-- Jun 28 - [Fast machines, slow machines](https://jmmv.dev/2023/06/fast-machines-slow-machines.html)
+- Jun 28 - [Proton Pass end-to-end encrypted password manager is here and free for everyone](https://9to5mac.com/2023/06/28/proton-pass-encrypted-password-manager-free/)
+- Jun 28 - [The Secretive Surveillance Wizards Helping ICE Wiretap Facebook and Google Users](https://www.forbes.com/sites/thomasbrewster/2022/02/23/meet-the-secretive-surveillance-wizards-helping-the-fbi-and-ice-wiretap-facebook-and-google-users/)
+- Jun 28 - [The idea maze for AI startups (2015)](https://cdixon.org/2015/02/01/the-ai-startup-idea-maze/)
+- Jun 28 - [Testing the memory safe Rust implementation of Sudo/Su](https://ferrous-systems.com/blog/testing-sudo-rs/)
+- Jun 28 - [We raised a bunch of money](https://fly.io/blog/we-raised-a-bunch-of-money/)
 <!--END_SECTION:hn-->
 
 <!--
