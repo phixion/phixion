@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 27 - [Show HN: Flux Copilot – Generative AI for hardware design](https://www.flux.ai/p/blog/generative-ai-for-hardware-design)
-- Jun 27 - [Show HN: Endless – An attempt to unify the social media experience](https://github.com/kaangiray26/endless)
-- Jun 27 - [Docker Acquires Mutagen](https://www.docker.com/blog/mutagen-acquisition/)
-- Jun 27 - [OpenRC is a dependency-based init system for Unix-like systems](https://wiki.gentoo.org/wiki/OpenRC)
-- Jun 27 - [InfluxDB 3.0 System Architecture](https://www.influxdata.com/blog/influxdb-3-0-system-architecture/)
+- Jun 27 - [FreeBSD Jails Containers](https://vermaden.wordpress.com/2023/06/28/freebsd-jails-containers/)
+- Jun 27 - [Cooklang – Recipe Markup Language](https://cooklang.org)
+- Jun 27 - [Google does little to reduce advertisers costs](https://simpleblog.ai/blog/google-ads-can-do-more-for-customers/)
+- Jun 27 - [Human Or Not: Guess if you're chatting with an AI or a Human](https://app.humanornot.ai/)
+- Jun 27 - [The hidden cost of air quality monitoring](https://www.airgradient.com/blog/hidden-costs-of-air-quality-monitoring/)
 <!--END_SECTION:hn-->
 
 <!--
