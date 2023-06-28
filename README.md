@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 28 - [Every Flashing Element on Your Site Alienates and Enrages Users](https://astralcodexten.substack.com/p/every-flashing-element-on-your-site)
-- Jun 28 - [Inaugural YC Top Companies List by Revenue](https://www.ycombinator.com/blog/yc-top-companies-list-by-revenue)
-- Jun 28 - [How not to write a pipeline](https://cohost.org/tef/post/1764930-how-not-to-write-a)
-- Jun 28 - [Working with CSV files on shell/terminal](https://muhammadraza.me/2022/data-oneliners/)
-- Jun 28 - [Trinity Desktop Environment – a modern KDE3 fork](https://www.trinitydesktop.org/)
+- Jun 28 - [Supabase (YC S20) Is Hiring a Rust Developer](https://boards.greenhouse.io/supabase/jobs/4917893004)
+- Jun 28 - [Welcoming Shopify as a Ladybird sponsor](https://awesomekling.substack.com/p/welcoming-shopify-as-a-ladybird-sponsor)
+- Jun 28 - [A proto-pizza emerges from a fresco on a Pompeii wall](http://pompeiisites.org/en/comunicati/pompeii-a-still-life-discovered-by-the-new-excavations-of-regio-ix/)
+- Jun 28 - [Plastics are poisoning us](https://www.newyorker.com/magazine/2023/07/03/book-reviews-plastic-waste)
+- Jun 28 - [What AMD Learned from Its Big Chiplet Push](https://spectrum.ieee.org/chiplet)
 <!--END_SECTION:hn-->
 
 <!--
