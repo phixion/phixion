@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 28 - [Supabase (YC S20) Is Hiring a Rust Developer](https://boards.greenhouse.io/supabase/jobs/4917893004)
-- Jun 28 - [Welcoming Shopify as a Ladybird sponsor](https://awesomekling.substack.com/p/welcoming-shopify-as-a-ladybird-sponsor)
-- Jun 28 - [A proto-pizza emerges from a fresco on a Pompeii wall](http://pompeiisites.org/en/comunicati/pompeii-a-still-life-discovered-by-the-new-excavations-of-regio-ix/)
-- Jun 28 - [Plastics are poisoning us](https://www.newyorker.com/magazine/2023/07/03/book-reviews-plastic-waste)
-- Jun 28 - [What AMD Learned from Its Big Chiplet Push](https://spectrum.ieee.org/chiplet)
+- Jun 28 - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- Jun 28 - [Ask HN: How to navigate the wordl as a brain-damaged 17 year old?](https://news.ycombinator.com/item?id=36505122)
+- Jun 28 - [Electrifying everything at the rate required to meet our climate goals](https://www.rewiringamerica.org/pace)
+- Jun 28 - [Vincent van Gogh's paintings and drawings](https://www.vangoghmuseum.nl/en/collection?q=&artist=Vincent+van+Gogh)
+- Jun 28 - [Fast machines, slow machines](https://jmmv.dev/2023/06/fast-machines-slow-machines.html)
 <!--END_SECTION:hn-->
 
 <!--
