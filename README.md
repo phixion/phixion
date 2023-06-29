@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 29 - [Delta flight lands in Charlotte without front landing gear](https://www.wbtv.com/2023/06/28/plane-lands-charlotte-douglas-international-airport-after-dealing-with-mechanical-issues/)
-- Jun 29 - [Baseball-Sized Hail Smashing into Panels at 150 MPH Destroys Solar Farm](https://cowboystatedaily.com/2023/06/27/baseball-sized-hail-smashing-into-panels-at-150-mph-destroys-scottsbluff-solar-farm/)
-- Jun 29 - [NXP has messed up their password form validation](https://peterme.net/scraps/nxp-has-messed-up-their-password-form-validation.html)
-- Jun 29 - [Every new DMD version breaks some of my code](https://forum.dlang.org/thread/ijbtgciijtxmlfzganpd@forum.dlang.org)
-- Jun 29 - [Practical Procedural Macros in Rust](https://xy2.dev/blog/simple-proc-macro/)
+- Jun 29 - [Clog – The Common Lisp Omnificent GUI](https://github.com/rabbibotton/clog)
+- Jun 29 - [Monster gravitational waves spotted for first time](https://www.nature.com/articles/d41586-023-02167-7)
+- Jun 29 - [Supreme Court strikes down affirmative action in college admissions](https://www.latimes.com/politics/story/2023-06-29/supreme-court-strikes-down-affirmative-action-in-college-admissions)
+- Jun 29 - [Show HN: Build a discord/Slack bot to answer questions with your docs and GPT4](https://www.windmill.dev/blog/knowledge-base-discord-bot)
+- Jun 29 - [Programming languages going above and beyond](https://whileydave.com/2023/06/27/programming-languages-going-above-and-beyond/)
 <!--END_SECTION:hn-->
 
 <!--
