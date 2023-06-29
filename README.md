@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 29 - [The Awk Programming Language, Second Edition](https://awk.dev/)
-- Jun 29 - [Kagi raises $670k](https://blog.kagi.com/safe-round)
-- Jun 29 - [Google is about to make life more difficult for custom ROM fans](https://www.androidauthority.com/google-kill-android-aosp-dialer-messages-app-3334980/)
-- Jun 29 - [Canada’s new tech talent strategy](https://www.canada.ca/en/immigration-refugees-citizenship/news/2023/06/minister-fraser-launches-canadas-first-ever-tech-talent-strategy-at-collision-2023.html)
-- Jun 29 - [Use pygwalker to build visual analysis app in streamlit](https://docs.kanaries.net/pygwalker/use-pygwalker-with-streamlit.en)
+- Jun 29 - [Delta flight lands in Charlotte without front landing gear](https://www.wbtv.com/2023/06/28/plane-lands-charlotte-douglas-international-airport-after-dealing-with-mechanical-issues/)
+- Jun 29 - [Baseball-Sized Hail Smashing into Panels at 150 MPH Destroys Solar Farm](https://cowboystatedaily.com/2023/06/27/baseball-sized-hail-smashing-into-panels-at-150-mph-destroys-scottsbluff-solar-farm/)
+- Jun 29 - [NXP has messed up their password form validation](https://peterme.net/scraps/nxp-has-messed-up-their-password-form-validation.html)
+- Jun 29 - [Every new DMD version breaks some of my code](https://forum.dlang.org/thread/ijbtgciijtxmlfzganpd@forum.dlang.org)
+- Jun 29 - [Practical Procedural Macros in Rust](https://xy2.dev/blog/simple-proc-macro/)
 <!--END_SECTION:hn-->
 
 <!--
