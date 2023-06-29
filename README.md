@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 29 - [OpenOrca: open source dataset and instruct-tuned LLMs](https://erichartford.com/openorca)
-- Jun 29 - [XGen-7B, a new 7B foundational model trained on up to 8K length for 1.5T tokens](https://blog.salesforceairesearch.com/xgen/)
-- Jun 29 - [In a major discovery, scientists say space-time churns like a choppy sea](https://www.washingtonpost.com/science/2023/06/28/gravitational-wave-background-nanograv/)
-- Jun 28 - [Deep Learning Digs Deep: AI Unveils New Large-Scale Images in Peruvian Desert](https://blogs.nvidia.com/blog/2023/06/23/geoglyphs-in-peru/)
-- Jun 28 - [Junk websites filled w AI-generated text pulling in money from programmatic ads](https://www.technologyreview.com/2023/06/26/1075504/junk-websites-filled-with-ai-generated-text-are-pulling-in-money-from-programmatic-ads/)
+- Jun 29 - [The Awk Programming Language, Second Edition](https://awk.dev/)
+- Jun 29 - [Kagi raises $670k](https://blog.kagi.com/safe-round)
+- Jun 29 - [Google is about to make life more difficult for custom ROM fans](https://www.androidauthority.com/google-kill-android-aosp-dialer-messages-app-3334980/)
+- Jun 29 - [Canada’s new tech talent strategy](https://www.canada.ca/en/immigration-refugees-citizenship/news/2023/06/minister-fraser-launches-canadas-first-ever-tech-talent-strategy-at-collision-2023.html)
+- Jun 29 - [Use pygwalker to build visual analysis app in streamlit](https://docs.kanaries.net/pygwalker/use-pygwalker-with-streamlit.en)
 <!--END_SECTION:hn-->
 
 <!--
