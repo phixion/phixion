@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 29 - [OpenOrca: open source dataset and instruct-tuned LLMs](https://erichartford.com/openorca)
+- Jun 29 - [XGen-7B, a new 7B foundational model trained on up to 8K length for 1.5T tokens](https://blog.salesforceairesearch.com/xgen/)
+- Jun 29 - [In a major discovery, scientists say space-time churns like a choppy sea](https://www.washingtonpost.com/science/2023/06/28/gravitational-wave-background-nanograv/)
+- Jun 28 - [Deep Learning Digs Deep: AI Unveils New Large-Scale Images in Peruvian Desert](https://blogs.nvidia.com/blog/2023/06/23/geoglyphs-in-peru/)
 - Jun 28 - [Junk websites filled w AI-generated text pulling in money from programmatic ads](https://www.technologyreview.com/2023/06/26/1075504/junk-websites-filled-with-ai-generated-text-are-pulling-in-money-from-programmatic-ads/)
-- Jun 28 - [To Save Money on Insurance, Drivers Agree to Intrusive Monitoring Technology](https://money.com/usage-based-car-insurance-gaining-customers/)
-- Jun 28 - [National Geographic lays off its last remaining staff writers](https://www.washingtonpost.com/media/2023/06/28/national-geographic-staff-writers-laid-off/)
-- Jun 28 - [Visa to acquire Brazilian startup Pismo for $1bi](https://www.pismo.io/blog/visa-to-acquire-pismo/)
-- Jun 28 - [The bathyscaph Trieste: technological and operational aspects, 1958-1961](https://archive.org/details/bathyscaphtriest00wals)
 <!--END_SECTION:hn-->
 
 <!--
