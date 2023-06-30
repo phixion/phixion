@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 29 - [Physicists Produce Neutrino Images of Milky Way Galaxy](https://drexel.edu/news/archive/2023/June/Drexel-Physicists-Produce-New-Images-of-Milky-Way-Galaxy)
-- Jun 29 - [The KDE Free Qt Foundation: 25 Years of Celebration](https://www.qt.io/blog/the-kde-free-qt-foundation-25-years-of-celebration)
-- Jun 29 - [Ask HN: How to switch software engineering domains](https://news.ycombinator.com/item?id=36524895)
-- Jun 29 - [Google and Meta will stop showing Canadian sourced news](https://www.ctvnews.ca/politics/google-set-to-remove-news-links-in-canada-meta-ends-contract-for-journalism-fellowship-as-bill-c-18-fallout-continues-1.6461557)
-- Jun 29 - [Gitlab AI is going head to head with GitHub Copilot](https://about.gitlab.com/solutions/code-suggestions/)
+- Jun 29 - [The False Promise of Open-sourced LLMs context length](https://lmsys.org/blog/2023-06-29-longchat/)
+- Jun 29 - [Google's Epic Multi-Billion Dollar Ad Scam Makes Sense to Us](https://checkmyads.org/branded/googles-epic-multi-billion-dollar-ad-scam-makes-sense-to-us/)
+- Jun 29 - [Concord bank offers a 100-year CD](https://www.concordmonitor.com/100-year-CD-walden-mutual-bank-new-hampshire-51306578)
+- Jun 29 - [BART ridership is still down nearly 70% from pre-Covid levels](https://statecraft.beehiiv.com/p/public-transit-recovery)
+- Jun 29 - [English as the new programming language for Apache spark](https://www.databricks.com/blog/introducing-english-new-programming-language-apache-spark)
 <!--END_SECTION:hn-->
 
 <!--
