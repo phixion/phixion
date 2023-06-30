@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 30 - [RF Spectrum Mapping](https://www.he360.com/products/rfgeo-radio-frequency-signal-mapping/)
-- Jun 30 - [Flea market find is medieval hand cannon](http://www.thehistoryblog.com/archives/67580)
-- Jun 30 - [Hipólito Mora, vigilante crusader against Mexico’s cartels, killed in ambush](https://www.theguardian.com/world/2023/jun/29/hipolito-mora-killed-mexico-drug-cartel-foe)
-- Jun 30 - [LLM Tech and a Lot More: Version 13.3 of Wolfram Language and Mathematica](https://writings.stephenwolfram.com/2023/06/llm-tech-and-a-lot-more-version-13-3-of-wolfram-language-and-mathematica/#llm-tech-comes-to-wolfram-language)
-- Jun 30 - [File for Divorce from LLVM](https://github.com/ziglang/zig/issues/16270)
+- Jun 30 - [How the Great Firewall of China Detects and Blocks Fully Encrypted Traffic [pdf]](https://gfw.report/publications/usenixsecurity23/data/paper/paper.pdf)
+- Jun 30 - [All Twitter content seems to be behind a login wall today](https://masto.ai/@mg/110631881391528778)
+- Jun 30 - [Anna’s Archive: Open-source data library](https://annas-archive.org/)
+- Jun 30 - [NJ Supreme Court says cops need a wiretap to eavesdrop on your Facebook posts](https://newjerseymonitor.com/2023/06/29/n-j-supreme-court-says-cops-need-a-wiretap-to-eavesdrop-on-your-facebook-posts/)
+- Jun 30 - [The Man Who Broke Bowling](https://www.gq.com/story/jason-belmonte-bowling-profile)
 <!--END_SECTION:hn-->
 
 <!--
