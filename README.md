@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 30 - [Roboflow (YC S20) Is Hiring Engineers to Democratize Computer Vision](https://roboflow.com/careers?ref=hn723)
-- Jun 30 - [Terrible real estate agent photographs](https://terriblerealestateagentphotos.com)
-- Jun 30 - [Fidelity deepens valuation cut for Reddit and Discord](https://techcrunch.com/2023/06/30/fidelity-deepens-valuation-cut-for-reddit-and-discord/)
-- Jun 30 - [Fastmail Is Down](https://fastmailstatus.com/)
-- Jun 30 - [The downfall of National Geographic](https://jjpryor.substack.com/p/the-tragic-downfall-of-national-geographic)
+- Jun 30 - [Niantic lays off 230 employees, cancels NBA and Marvel games](https://techcrunch.com/2023/06/29/niantic-lays-off-230-employees-cancels-nba-and-marvel-games/)
+- Jun 30 - [AlmaLinux – Our Value Is Our Values](https://almalinux.org/blog/our-value-is-our-values/)
+- Jun 30 - [Show HN: Halloy – A GUI Application in Rust for IRC](https://github.com/squidowl/halloy)
+- Jun 30 - [Rise of pill-popping tech execs](https://www.axios.com/2023/06/30/pill-popping-tech-execs)
+- Jun 30 - [How does Linux handle writes?](https://www.cyberdemon.org/2023/06/27/file-writes.html)
 <!--END_SECTION:hn-->
 
 <!--
