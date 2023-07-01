@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 01 - [gping – ping, but with a graph](https://github.com/orf/gping)
-- Jul 01 - [YouTube's copyright system isn't broken. The world's is](https://www.youtube.com/watch?v=1Jwo5qc78QU)
-- Jul 01 - [TabDB: Using browser tabs as a database like only a maniac would](https://github.com/kkuchta/tabdb)
-- Jul 01 - [Over 900 Rarbg Magnet Link Repos Anonymously Nuked from GitHub](https://torrentfreak.com/over-900-rarbg-magnet-link-repos-anonymously-nuked-from-github-230701/)
-- Jul 01 - [Louis Rossmann: Autodesk turns lifetime licenses into subscriptions [video]](https://www.youtube.com/watch?v=OHY9K8X45XA)
+- Jul 01 - [Orca Rams into Yacht Near Scotland, Suggesting the Behavior May Be Spreading](https://www.smithsonianmag.com/smart-news/orca-rams-into-yacht-near-scotland-behavior-may-be-spreading-180982429/)
+- Jul 01 - [How to Do Great Work](http://paulgraham.com/greatwork.html)
+- Jul 01 - [A child’s privacy is worth more than likes (2022)](https://www.theprivacywhisperer.com/p/your-childs-privacy-is-worth-more)
+- Jul 01 - [Lesser known tricks, quirks and features of C](https://jorengarenar.github.io/blog/less-known-c)
+- Jul 01 - [Sqlpkg – SQLite Package Registry](https://sqlpkg.org/)
 <!--END_SECTION:hn-->
 
 <!--
