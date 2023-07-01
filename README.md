@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 30 - [Dolphins use “baby talk” too](https://www.pnas.org/doi/abs/10.1073/pnas.2300262120)
-- Jun 30 - [Why is there a drink called 手打柠檬鸭屎香 = “hand-made lemon duck-feces fragrance”?](https://chinese.stackexchange.com/questions/54741/why-is-there-a-drink-called-%e6%89%8b%e6%89%93%e6%9f%a0%e6%aa%ac%e9%b8%ad%e5%b1%8e%e9%a6%99-hand-made-lemon-duck-feces-fragrance)
-- Jun 30 - [All Pocket accounts will be converted to Firefox accounts](https://blog.mozilla.org/en/products/pocket/signing-in-to-pocket-just-got-even-more-secure/)
-- Jun 30 - [Ask HN: How much do you work, what's your salary and how experienced are you?](https://news.ycombinator.com/item?id=36540289)
-- Jun 30 - [The One Ring card, Magic: The Gathering’s coveted collectible, has been found](https://www.polygon.com/23779892/mtg-the-one-ring-found-how-much-price-spain)
+- Jun 30 - [Be worried about what’s going on at Turner Classic Movies](https://www.npr.org/2023/06/28/1184544944/tcm-turner-classic-movies-david-zaslav)
+- Jun 30 - [Apollo is dead. Long live Apollo](https://news.ycombinator.com/item?id=36543894)
+- Jun 30 - [Maximum size of a PDF, version 7: 381 km × 381 km](https://commons.wikimedia.org/wiki/File:Seitengr%C3%B6%C3%9Fe_PDF_7.svg)
+- Jun 30 - [Show HN: Tabserve.dev. HTTPS proxy using Web Workers and a Cloudflare Worker](https://tabserve.dev)
+- Jun 30 - [GitHub – kkuchta/CSS-only-chat: A monstrous async web chat using no JavaScript](https://github.com/kkuchta/css-only-chat)
 <!--END_SECTION:hn-->
 
 <!--
