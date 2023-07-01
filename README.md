@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 01 - [Orca Rams into Yacht Near Scotland, Suggesting the Behavior May Be Spreading](https://www.smithsonianmag.com/smart-news/orca-rams-into-yacht-near-scotland-behavior-may-be-spreading-180982429/)
-- Jul 01 - [How to Do Great Work](http://paulgraham.com/greatwork.html)
-- Jul 01 - [A child’s privacy is worth more than likes (2022)](https://www.theprivacywhisperer.com/p/your-childs-privacy-is-worth-more)
-- Jul 01 - [Lesser known tricks, quirks and features of C](https://jorengarenar.github.io/blog/less-known-c)
-- Jul 01 - [Sqlpkg – SQLite Package Registry](https://sqlpkg.org/)
+- Jul 01 - [Bluesky facing degraded performance due to record high traffic](https://bsky.app/profile/bsky.app/post/3jzi4yw3nqu2h)
+- Jul 01 - [Workers with less experience gain the most from generative AI](https://mitsloan.mit.edu/ideas-made-to-matter/workers-less-experience-gain-most-generative-ai)
+- Jul 01 - [“It appears that Twitter is DDoSing itself”](https://sfba.social/@sysop408/110639474671754723)
+- Jul 01 - [The complex history of the Intel i960 RISC processor](http://www.righto.com/2023/07/the-complex-history-of-intel-i960-risc.html)
+- Jul 01 - [Tell HN: Twitter switched temporarily to rate limited mode](https://news.ycombinator.com/item?id=36552324)
 <!--END_SECTION:hn-->
 
 <!--
