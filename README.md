@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 30 - [Be worried about what’s going on at Turner Classic Movies](https://www.npr.org/2023/06/28/1184544944/tcm-turner-classic-movies-david-zaslav)
-- Jun 30 - [Apollo is dead. Long live Apollo](https://news.ycombinator.com/item?id=36543894)
-- Jun 30 - [Maximum size of a PDF, version 7: 381 km × 381 km](https://commons.wikimedia.org/wiki/File:Seitengr%C3%B6%C3%9Fe_PDF_7.svg)
-- Jun 30 - [Show HN: Tabserve.dev. HTTPS proxy using Web Workers and a Cloudflare Worker](https://tabserve.dev)
-- Jun 30 - [GitHub – kkuchta/CSS-only-chat: A monstrous async web chat using no JavaScript](https://github.com/kkuchta/css-only-chat)
+- Jul 01 - [Maine becomes first state to decriminalize selling sex](https://www.seattletimes.com/nation-world/maine-becomes-first-state-to-decriminalize-selling-sex/)
+- Jul 01 - [Don Lancaster Has Died](https://gilaherald.com/obituary-for-don-lancaster/)
+- Jul 01 - [You Might Not Own the Data of Your Air Quality Monitor](https://www.airgradient.com/blog/when-you-own-a-monitor-but-not-its-data/)
+- Jul 01 - [Freedom Respecting Technology: Next Generation Open Source and Open Knowledge](https://makesourcenotcode.github.io/freedom_respecting_technology.html)
+- Jul 01 - [Kaboom.js 3000](https://kaboomjs.com/blog/3000)
 <!--END_SECTION:hn-->
 
 <!--
