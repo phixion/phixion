@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 01 - [Bluesky facing degraded performance due to record high traffic](https://bsky.app/profile/bsky.app/post/3jzi4yw3nqu2h)
-- Jul 01 - [Workers with less experience gain the most from generative AI](https://mitsloan.mit.edu/ideas-made-to-matter/workers-less-experience-gain-most-generative-ai)
-- Jul 01 - [“It appears that Twitter is DDoSing itself”](https://sfba.social/@sysop408/110639474671754723)
-- Jul 01 - [The complex history of the Intel i960 RISC processor](http://www.righto.com/2023/07/the-complex-history-of-intel-i960-risc.html)
-- Jul 01 - [Tell HN: Twitter switched temporarily to rate limited mode](https://news.ycombinator.com/item?id=36552324)
+- Jul 01 - [C++ GPT-2 inference engine](https://github.com/a1k0n/a1gpt)
+- Jul 01 - [Beyond Markdown](https://johnmacfarlane.net/beyond-markdown.html)
+- Jul 01 - [Fake reviews are illegal and subject to big fines under new FTC rules](https://www.washingtonpost.com/technology/2023/06/30/fake-reviews-online-ftc/)
+- Jul 01 - [How I changed my D-Link camera from cloud camera to a locally managed IP camera](https://github.com/bmork/defogger)
+- Jul 01 - [A brief example of tailoring words for listeners: engineers and managers](https://lmy.medium.com/a-brief-example-of-tailoring-words-for-different-listeners-engineers-and-managers-1d9610666cda)
 <!--END_SECTION:hn-->
 
 <!--
