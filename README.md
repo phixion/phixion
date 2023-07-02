@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 02 - [The moral behavior of ethics professors: A replication-extension](https://www.tandfonline.com/doi/full/10.1080/09515089.2019.1587912)
-- Jul 02 - [A Look at Bluesky](https://juliette.page/blog/bluesky.html)
-- Jul 02 - [After September 1, 2023, all Gfycat content and data will be deleted](https://gfycat.com/)
-- Jul 02 - [Intro to Cryptography [pdf] (2011)](https://www.cs.umd.edu/~waa/414-F11/IntroToCrypto.pdf)
-- Jul 02 - [Using WebAssembly to turn Rust crates into fast TypeScript libraries](https://rybicki.io/blog/2023/06/27/rust-crate-into-typescript-library.html)
+- Jul 02 - [UK retail electricity prices hit -19p/kWh today](https://github.com/jonatron/randomstuff/blob/main/agile_prices.png)
+- Jul 02 - [A Functional Introduction To Computer Science](https://cs.uwaterloo.ca/~plragde/flaneries/FICS/)
+- Jul 02 - [Why do Ivy League students self-sabotage?](https://movingthelimit.com/why-do-ivy-league-students-self-sabotage/)
+- Jul 02 - [Decoy Defenses: How Honeypots Sweeten Cybersecurity Strategies](https://www.thefinalhop.com/decoy-defenses-how-honeypots-sweeten-cybersecurity-strategies/)
+- Jul 02 - [GPT-Migrate converts repos from one lang/framework to another](https://github.com/0xpayne/gpt-migrate)
 <!--END_SECTION:hn-->
 
 <!--
