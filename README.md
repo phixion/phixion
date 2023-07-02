@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 02 - [Stanford A.I. Courses](https://ai.stanford.edu/courses/)
-- Jul 02 - [Embattled physicist files patent for unprecedented ambient superconductor](https://www.science.org/content/article/embattled-physicist-files-patent-unprecedented-ambient-superconductor)
-- Jul 02 - [Cyclorotor](https://en.wikipedia.org/wiki/Cyclorotor)
-- Jul 02 - [My Meeting with David Bohm, Tormented Quantum Visionary](https://johnhorgan.org/cross-check/my-meeting-with-david-bohm-tormented-quantum-visionary)
-- Jul 02 - [Parsing time stamps faster with SIMD instructions](https://lemire.me/blog/2023/07/01/parsing-time-stamps-faster-with-simd-instructions/)
+- Jul 02 - [Recession canceled? U.S. stock market 'frothy' after S&P 500's strong first half](https://www.marketwatch.com/story/recession-canceled-u-s-stock-market-pretty-frothy-after-s-p-500s-strongest-first-half-since-2019-2b75f7a2)
+- Jul 02 - [Forgotten Tragedy of Italian War Detainees](https://www3.nhk.or.jp/nhkworld/en/news/backstories/816/)
+- Jul 02 - [Why Commuters Prefer Origin to Destination Transfers](https://pedestrianobservations.com/2023/06/30/why-commuters-prefer-origin-to-destination-transfers/)
+- Jul 02 - [Relay Mining: Verifiable Multi-Tenant Distributed Rate Limiting](https://arxiv.org/abs/2305.10672)
+- Jul 02 - [Google Search's Death by a Thousand Cuts](https://matt-rickard.com/google-searchs-death-by-a-thousand-cuts)
 <!--END_SECTION:hn-->
 
 <!--
