@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 01 - [C++ GPT-2 inference engine](https://github.com/a1k0n/a1gpt)
-- Jul 01 - [Beyond Markdown](https://johnmacfarlane.net/beyond-markdown.html)
-- Jul 01 - [Fake reviews are illegal and subject to big fines under new FTC rules](https://www.washingtonpost.com/technology/2023/06/30/fake-reviews-online-ftc/)
-- Jul 01 - [How I changed my D-Link camera from cloud camera to a locally managed IP camera](https://github.com/bmork/defogger)
-- Jul 01 - [A brief example of tailoring words for listeners: engineers and managers](https://lmy.medium.com/a-brief-example-of-tailoring-words-for-different-listeners-engineers-and-managers-1d9610666cda)
+- Jul 02 - [The moral behavior of ethics professors: A replication-extension](https://www.tandfonline.com/doi/full/10.1080/09515089.2019.1587912)
+- Jul 02 - [A Look at Bluesky](https://juliette.page/blog/bluesky.html)
+- Jul 02 - [After September 1, 2023, all Gfycat content and data will be deleted](https://gfycat.com/)
+- Jul 02 - [Intro to Cryptography [pdf] (2011)](https://www.cs.umd.edu/~waa/414-F11/IntroToCrypto.pdf)
+- Jul 02 - [Using WebAssembly to turn Rust crates into fast TypeScript libraries](https://rybicki.io/blog/2023/06/27/rust-crate-into-typescript-library.html)
 <!--END_SECTION:hn-->
 
 <!--
