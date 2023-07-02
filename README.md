@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 02 - [Bonilla hasn’t played for over 20 years. NY Mets pay him $1.2M a year until 2035](https://www.cnn.com/2020/07/01/us/bobby-bonilla-day-mets-mlb-spt-trnd/index.html)
-- Jul 02 - [Writing as a Form of Thinking](https://lopespm.com/notes/2023/07/02/writing-as-a-form-of-thinking.html)
-- Jul 02 - [Windows 10 on the Xiaomi PocoPhone F1](https://virtuallyfun.com/2023/07/01/64bit-computing-on-a-budget/)
-- Jul 02 - [Drastic increase in Tor clients from Germany](https://metrics.torproject.org/userstats-relay-country.html?start=2019-01-01&end=2023-07-02&country=de&events=off)
-- Jul 02 - [Entropy: The Most Misunderstood Concept in Physics [video by Veritasium]](https://www.youtube.com/watch?v=DxL2HoqLbyA)
+- Jul 02 - [Stanford A.I. Courses](https://ai.stanford.edu/courses/)
+- Jul 02 - [Embattled physicist files patent for unprecedented ambient superconductor](https://www.science.org/content/article/embattled-physicist-files-patent-unprecedented-ambient-superconductor)
+- Jul 02 - [Cyclorotor](https://en.wikipedia.org/wiki/Cyclorotor)
+- Jul 02 - [My Meeting with David Bohm, Tormented Quantum Visionary](https://johnhorgan.org/cross-check/my-meeting-with-david-bohm-tormented-quantum-visionary)
+- Jul 02 - [Parsing time stamps faster with SIMD instructions](https://lemire.me/blog/2023/07/01/parsing-time-stamps-faster-with-simd-instructions/)
 <!--END_SECTION:hn-->
 
 <!--
