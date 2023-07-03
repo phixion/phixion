@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 02 - [Implementing a C-like for loop in Python](https://tushar.lol/post/cursed-for/)
-- Jul 02 - [Lumia WOA Project – Windows 10 or Windows 11 Desktop OS for Lumia 950/XL](https://woa-project.github.io/LumiaWOA/)
-- Jul 02 - [Rings.social – Reddit-API compatible and Open Source content-voting platform](https://rings.social)
-- Jul 02 - [Illegal Life Pro Tip: Want to ruin your competitors business?](https://oppositeinvictus.com/illegal-life-pro-tip-want-to-ruin-your-competitors-business)
-- Jul 02 - [AI and the Automation of Work](https://www.ben-evans.com/benedictevans/2023/7/2/working-with-ai)
+- Jul 03 - [55 GiB/s FizzBuzz (2021)](https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630)
+- Jul 03 - [Active Knowledge](https://surfingcomplexity.blog/2023/06/26/active-knowledge/)
+- Jul 03 - [Ask HN: As people in “tech”, are we inside an AI echo chamber?](https://news.ycombinator.com/item?id=36567918)
+- Jul 03 - [Tesla on track to smash targets after producing almost a million EVs in 6 months](https://thedriven.io/2023/07/03/tesla-on-track-to-smash-targets-after-producing-almost-a-million-evs-in-first-6-months/)
+- Jul 03 - [Show HN: Prototype for ETH Signing for endorsing Wikipedia updates](https://www.loom.com/share/42e8a049faa64dcd9e4b8753a0bffb9c)
 <!--END_SECTION:hn-->
 
 <!--
