@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 03 - [DeltaTouch, a community created client for Ubuntu Touch](https://delta.chat/en/2023-07-02-deltatouch)
-- Jul 03 - [Automate Your Network](https://github.com/automateyournetwork/automate_your_network)
-- Jul 03 - [Disabling Matrix Portalling](https://libera.chat/news/matrix-deportalling)
-- Jul 03 - [Vietnam bans 'Barbie' movie over South China Sea map](https://www.reuters.com/world/asia-pacific/vietnam-bans-barbie-movie-over-south-china-sea-map-2023-07-03/)
-- Jul 03 - [Ask HN: Who is hiring? (July 2023)](https://news.ycombinator.com/item?id=36573871)
+- Jul 03 - [Show HN: Using C++23 <stacktrace> to get proper crash logs in C++ programs](https://github.com/TylerGlaiel/Crashlogs)
+- Jul 03 - [On the State of the Web](https://manuelmoreale.com/on-the-state-of-the-web)
+- Jul 03 - [A Hand Wavy Defense of Domaining](https://floverfelt.org/posts/a-hand-wavy-defense-of-domaining.html)
+- Jul 03 - [A Dive into the Math Behind Bitcoin Schnorr Signatures](https://conduition.io/cryptography/schnorr/)
+- Jul 03 - [MartyPC, cycle accurate IBM PC/XT emulator](https://www.vogons.org/viewtopic.php?t=94972)
 <!--END_SECTION:hn-->
 
 <!--
