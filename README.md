@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 02 - [Recession canceled? U.S. stock market 'frothy' after S&P 500's strong first half](https://www.marketwatch.com/story/recession-canceled-u-s-stock-market-pretty-frothy-after-s-p-500s-strongest-first-half-since-2019-2b75f7a2)
-- Jul 02 - [Forgotten Tragedy of Italian War Detainees](https://www3.nhk.or.jp/nhkworld/en/news/backstories/816/)
-- Jul 02 - [Why Commuters Prefer Origin to Destination Transfers](https://pedestrianobservations.com/2023/06/30/why-commuters-prefer-origin-to-destination-transfers/)
-- Jul 02 - [Relay Mining: Verifiable Multi-Tenant Distributed Rate Limiting](https://arxiv.org/abs/2305.10672)
-- Jul 02 - [Google Search's Death by a Thousand Cuts](https://matt-rickard.com/google-searchs-death-by-a-thousand-cuts)
+- Jul 02 - [Implementing a C-like for loop in Python](https://tushar.lol/post/cursed-for/)
+- Jul 02 - [Lumia WOA Project – Windows 10 or Windows 11 Desktop OS for Lumia 950/XL](https://woa-project.github.io/LumiaWOA/)
+- Jul 02 - [Rings.social – Reddit-API compatible and Open Source content-voting platform](https://rings.social)
+- Jul 02 - [Illegal Life Pro Tip: Want to ruin your competitors business?](https://oppositeinvictus.com/illegal-life-pro-tip-want-to-ruin-your-competitors-business)
+- Jul 02 - [AI and the Automation of Work](https://www.ben-evans.com/benedictevans/2023/7/2/working-with-ai)
 <!--END_SECTION:hn-->
 
 <!--
