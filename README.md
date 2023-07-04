@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 04 - [Why there may never be a libjpeg-turbo 3.1](https://groups.google.com/g/libjpeg-turbo-announce/c/YZ2wRgB0zIE)
-- Jul 04 - [The Lone Banana Problem in AI](https://www.digital-science.com/tldr/article/the-lone-banana-problem-or-the-new-programming-speaking-ai/)
-- Jul 04 - [$1 Billion That Nobody Wants (2011)](https://www.npr.org/2011/06/28/137394348/-1-billion-that-nobody-wants)
-- Jul 04 - [Show HN: Degrees What?](https://degreeswhat.com)
-- Jul 04 - [OpenAI temporarily disables the Browse with Bing beta feature](https://help.openai.com/en/articles/8077698-how-do-i-use-chatgpt-browse-with-bing-to-search-the-web)
+- Jul 04 - [A civil rights group is challenging legacy admissions at Harvard University](https://apnews.com/article/legacy-admissions-affirmative-action-colleges-4a4e1191274e91e695e0631ff5156875)
+- Jul 04 - [An Architectural Overview of QNX – inside the industry's only true microkernel [pdf]](https://cseweb.ucsd.edu/~voelker/cse221/papers/qnx-paper92.pdf)
+- Jul 04 - [Sourcegraph is no longer Open Source](https://github.com/sourcegraph/sourcegraph/blob/main/CHANGELOG.md)
+- Jul 04 - [Why Physicists Tried to Put a Ferret in a Particle Accelerator](https://www.atlasobscura.com/articles/felicia-ferret-particle-accelerator-fermilab)
+- Jul 04 - [Passwords Are Fine](https://herman.bearblog.dev/passwords-are-fine/)
 <!--END_SECTION:hn-->
 
 <!--
