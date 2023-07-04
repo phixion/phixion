@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 04 - [ZFS 2.2.0 (RC): Block Cloning merged](https://github.com/openzfs/zfs/pull/13392)
-- Jul 04 - [One of the parallel worlds cannot be extremely different from the other](https://www.tsukuba.ac.jp/en/research-news/20230508140000.html)
-- Jul 04 - [Writing about writing about programming](https://axleos.com/writing-about-writing-about-programming/)
-- Jul 04 - [Makie, a modern and fast plotting library for Julia](https://makie.org)
-- Jul 04 - [Google and HTTP](http://this.how/googleAndHttp/)
+- Jul 04 - [Type system updates: moving from research into development](https://elixir-lang.org/blog/2023/06/22/type-system-updates-research-dev/)
+- Jul 04 - [Mozilla restricts extensions on some domains on Firefox 115](https://www.askvg.com/fix-some-extensions-are-not-allowed-in-firefox-115-and-later/)
+- Jul 04 - [Designing a Language Without a Parser](https://thunderseethe.dev/posts/type-inference/)
+- Jul 04 - [Svix (YC W21) Is Hiring a Founding Account Executive (US Remote)](https://www.svix.com/careers/)
+- Jul 04 - [How to build a website without frameworks and tons of libraries](https://www.kodingkitty.com/blog/how-to-build-a-website/)
 <!--END_SECTION:hn-->
 
 <!--
