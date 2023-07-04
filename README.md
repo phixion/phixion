@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 03 - [Show HN: Using C++23 <stacktrace> to get proper crash logs in C++ programs](https://github.com/TylerGlaiel/Crashlogs)
-- Jul 03 - [On the State of the Web](https://manuelmoreale.com/on-the-state-of-the-web)
-- Jul 03 - [A Hand Wavy Defense of Domaining](https://floverfelt.org/posts/a-hand-wavy-defense-of-domaining.html)
-- Jul 03 - [A Dive into the Math Behind Bitcoin Schnorr Signatures](https://conduition.io/cryptography/schnorr/)
-- Jul 03 - [MartyPC, cycle accurate IBM PC/XT emulator](https://www.vogons.org/viewtopic.php?t=94972)
+- Jul 03 - [Leaking Bitwarden's Vault with a Nginx vulnerability](https://labs.hakaioffsec.com/nginx-alias-traversal/)
+- Jul 03 - [Booting RISC-V Linux on Star64 JH7110 SBC](https://lupyuen.codeberg.page/articles/linux.html)
+- Jul 03 - [Velt (YC W22) Is Hiring Founding Frontend Engineer in US](https://www.ycombinator.com/companies/velt/jobs/iC33Kfh-founding-frontend-engineer-web-us-only)
+- Jul 03 - [Norway discovers Phosphate deposit large enough to supply world for 100 years](https://www.independent.co.uk/tech/battery-solar-panels-norway-phosphate-b2368444.html)
+- Jul 03 - [Can Dell’s 6K monitor beat their 8K monitor?](https://michael.stapelberg.ch/posts/2023-07-03-dell-u3224kba-32-inch-6k-monitor/)
 <!--END_SECTION:hn-->
 
 <!--
