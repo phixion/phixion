@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 04 - [A civil rights group is challenging legacy admissions at Harvard University](https://apnews.com/article/legacy-admissions-affirmative-action-colleges-4a4e1191274e91e695e0631ff5156875)
-- Jul 04 - [An Architectural Overview of QNX – inside the industry's only true microkernel [pdf]](https://cseweb.ucsd.edu/~voelker/cse221/papers/qnx-paper92.pdf)
-- Jul 04 - [Sourcegraph is no longer Open Source](https://github.com/sourcegraph/sourcegraph/blob/main/CHANGELOG.md)
-- Jul 04 - [Why Physicists Tried to Put a Ferret in a Particle Accelerator](https://www.atlasobscura.com/articles/felicia-ferret-particle-accelerator-fermilab)
-- Jul 04 - [Passwords Are Fine](https://herman.bearblog.dev/passwords-are-fine/)
+- Jul 04 - [ZFS 2.2.0 (RC): Block Cloning merged](https://github.com/openzfs/zfs/pull/13392)
+- Jul 04 - [One of the parallel worlds cannot be extremely different from the other](https://www.tsukuba.ac.jp/en/research-news/20230508140000.html)
+- Jul 04 - [Writing about writing about programming](https://axleos.com/writing-about-writing-about-programming/)
+- Jul 04 - [Makie, a modern and fast plotting library for Julia](https://makie.org)
+- Jul 04 - [Google and HTTP](http://this.how/googleAndHttp/)
 <!--END_SECTION:hn-->
 
 <!--
