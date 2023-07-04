@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 04 - [Threads.net](https://www.threads.net/)
-- Jul 04 - [Learning needs to be effortful to be effective](https://giansegato.com/essays/edutainment-is-not-learning)
-- Jul 03 - [Leaking Bitwarden's Vault with a Nginx vulnerability](https://labs.hakaioffsec.com/nginx-alias-traversal/)
-- Jul 03 - [Threads, an Instagram app](https://apps.apple.com/us/app/threads-an-instagram-app/id6446901002)
-- Jul 03 - [CPU Utilization Is Wrong (2017)](https://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html)
+- Jul 04 - [Why there may never be a libjpeg-turbo 3.1](https://groups.google.com/g/libjpeg-turbo-announce/c/YZ2wRgB0zIE)
+- Jul 04 - [The Lone Banana Problem in AI](https://www.digital-science.com/tldr/article/the-lone-banana-problem-or-the-new-programming-speaking-ai/)
+- Jul 04 - [$1 Billion That Nobody Wants (2011)](https://www.npr.org/2011/06/28/137394348/-1-billion-that-nobody-wants)
+- Jul 04 - [Show HN: Degrees What?](https://degreeswhat.com)
+- Jul 04 - [OpenAI temporarily disables the Browse with Bing beta feature](https://help.openai.com/en/articles/8077698-how-do-i-use-chatgpt-browse-with-bing-to-search-the-web)
 <!--END_SECTION:hn-->
 
 <!--
