@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 05 - [PiinPoint (YC W14) Is Hiring for Data Science, Remote Within Canada](https://www.ycombinator.com/companies/piinpoint/jobs/4jPeUKT-data-scientist)
-- Jul 05 - [Germany Achieves Record 57.7% Renewable Energy Share for First Half of 2023](https://www.ise.fraunhofer.de/en/press-media/press-releases/2023/german-net-power-generation-in-first-half-of-2023-renewable-energy-share-of-57-percent.html)
-- Jul 05 - [Driving London to Bath 60 years ago](https://www.youtube.com/watch?v=Qp-Sv_lXWvU)
-- Jul 05 - [The Evolution of the Unix Time-Sharing System by Dennis M. Ritchie [pdf]](https://www.bell-labs.com/usr/dmr/www/hist.pdf)
-- Jul 05 - [Ariane 5 User's Manual [pdf]](https://www.arianespace.com/wp-content/uploads/2015/09/Ariane5_users_manual_Issue5_July2011.pdf)
+- Jul 05 - [AI weights are not open “source”](https://opencoreventures.com/blog/2023-06-27-ai-weights-are-not-open-source/)
+- Jul 05 - [Microsoft denies data breach, theft of 30M customer accounts](https://www.bleepingcomputer.com/news/security/microsoft-denies-data-breach-theft-of-30-million-customer-accounts/)
+- Jul 05 - [How to foster shoshin](https://psyche.co/guides/how-to-cultivate-shoshin-or-a-beginners-mind)
+- Jul 05 - [Artificial General Intelligence remains a distant dream despite LLM boom](https://www.theregister.com/2023/07/04/agi_llm_distant_dream/)
+- Jul 05 - [GPT-4’s secret](https://thealgorithmicbridge.substack.com/p/gpt-4s-secret-has-been-revealed)
 <!--END_SECTION:hn-->
 
 <!--
