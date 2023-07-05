@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 04 - [I Hate the News](http://www.aaronsw.com/weblog/hatethenews)
-- Jul 04 - [Your startup idea probably isn’t venture-scale](https://www.lennysnewsletter.com/p/your-startup-idea-probably-isnt-venture)
-- Jul 04 - [Bottles – Easily run Windows software on Linux](https://usebottles.com/)
-- Jul 04 - [Engineers at UMass Amherst harvest clean energy from thin air](https://www.umass.edu/news/article/engineers-umass-amherst-harvest-abundant-clean-energy-thin-air-247)
-- Jul 04 - [LXD is now under Canonical](https://linuxcontainers.org/lxd/)
+- Jul 05 - [Lobotomizing Gnome](https://eklitzke.org/lobotomizing-gnome)
+- Jul 05 - [A Slack clone in 5 lines of bash](https://the-dam.org/docs/explanations/suc.html)
+- Jul 05 - [Our Journey with Apache Arrow (Part 2): Adaptive Schemas and Sorting](https://arrow.apache.org/blog/2023/06/26/our-journey-at-f5-with-apache-arrow-part-2/)
+- Jul 05 - [Healing of acute ACL tear on MRI following non-surgical bracing protocol [pdf]](https://bjsm.bmj.com/content/bjsports/early/2023/06/13/bjsports-2023-106931.full.pdf?with-ds=yes)
+- Jul 04 - [How many people have ever lived on Earth?](https://www.prb.org/articles/how-many-people-have-ever-lived-on-earth/)
 <!--END_SECTION:hn-->
 
 <!--
