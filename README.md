@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 05 - [AI weights are not open “source”](https://opencoreventures.com/blog/2023-06-27-ai-weights-are-not-open-source/)
-- Jul 05 - [Microsoft denies data breach, theft of 30M customer accounts](https://www.bleepingcomputer.com/news/security/microsoft-denies-data-breach-theft-of-30-million-customer-accounts/)
-- Jul 05 - [How to foster shoshin](https://psyche.co/guides/how-to-cultivate-shoshin-or-a-beginners-mind)
-- Jul 05 - [Artificial General Intelligence remains a distant dream despite LLM boom](https://www.theregister.com/2023/07/04/agi_llm_distant_dream/)
-- Jul 05 - [GPT-4’s secret](https://thealgorithmicbridge.substack.com/p/gpt-4s-secret-has-been-revealed)
+- Jul 05 - [Fast](https://patrickcollison.com/fast)
+- Jul 05 - [Show HN: People forget that you can stick any data at the end of a bash script](https://news.ycombinator.com/item?id=36605869)
+- Jul 05 - [A table that looks good on mobile and desktop](https://many.pw/)
+- Jul 05 - [With plugins, GPT-4 posts GitHub issue without instructions to](https://chat.openai.com/share/ed8044da-22c5-4c5e-ba82-4353f67d553f)
+- Jul 05 - [Graphical Python Profiler](https://functiontrace.com)
 <!--END_SECTION:hn-->
 
 <!--
