@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 06 - [UpCodes (YC S17) is hiring engineers to automate building code compliance](https://up.codes/careers)
-- Jul 06 - [Ask HN: Stuck as a developer for 15 years. How to become a manager?](https://news.ycombinator.com/item?id=36614262)
-- Jul 06 - [Godot 4.1 Is Released](https://godotengine.org/article/godot-4-1-is-here/)
-- Jul 06 - [/Uses: A list of /uses pages detailing developer setups, gear, software, configs](https://uses.tech)
-- Jul 06 - [Declarative Enhancement for HTML](https://twinspark.js.org/)
+- Jul 06 - [PlanetScale Scaler Pro](https://planetscale.com/blog/announcing-scaler-pro)
+- Jul 06 - [Nearly half of the tap water in the US is contaminated with ‘forever chemicals,’](https://www.cnn.com/2023/07/05/health/pfas-nearly-half-us-tap-water-wellness/index.html)
+- Jul 06 - [Demystifying Text Data with the Unstructured Python Library](https://saeedesmaili.com/demystifying-text-data-with-the-unstructured-python-library/)
+- Jul 06 - [Tuesday set an unofficial record for the hottest day on Earth](https://apnews.com/article/global-record-breaking-heat-july-27069b5380117534d78f1f40a6edc7a0)
+- Jul 06 - [Lego building instructions](https://archive.org/details/lego-set-instructions)
 <!--END_SECTION:hn-->
 
 <!--
