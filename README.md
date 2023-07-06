@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 06 - [Threads has 10M sign ups in seven hours](https://www.threads.net/t/CuWGPjwrfq9)
-- Jul 06 - [InternLM – new open source 7B LLM](https://github.com/InternLM/InternLM)
-- Jul 06 - [SigNoz (YC W21): Open-Source Observability Platform – Is Hiring Sr Back End Dev](https://www.ycombinator.com/companies/signoz/jobs/uCt5BQw-sr-backend-engineer-go-remote)
-- Jul 06 - [Joplin – An open-source note taking and to-do application with synchronisation](https://github.com/laurent22/joplin)
-- Jul 06 - [Cory Doctorow: Platform Capitalism and the Curse of “Enshittification” [audio]](https://podtail.com/podcast/future-tense-full-program-podcast/cory-doctorow-platform-capitalism-and-the-curse-of/)
+- Jul 06 - [UpCodes (YC S17) is hiring engineers to automate building code compliance](https://up.codes/careers)
+- Jul 06 - [Ask HN: Stuck as a developer for 15 years. How to become a manager?](https://news.ycombinator.com/item?id=36614262)
+- Jul 06 - [Godot 4.1 Is Released](https://godotengine.org/article/godot-4-1-is-here/)
+- Jul 06 - [/Uses: A list of /uses pages detailing developer setups, gear, software, configs](https://uses.tech)
+- Jul 06 - [Declarative Enhancement for HTML](https://twinspark.js.org/)
 <!--END_SECTION:hn-->
 
 <!--
