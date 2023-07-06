@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 05 - [New Zealand teachers shocked at leaked curriculumn – 'Where's the science?'](https://www.nzherald.co.nz/nz/teachers-shocked-at-leaked-draft-of-science-curriculum-wheres-the-science/6RWY3ZZTCBA4RDSDXEJIGUKVCA/)
-- Jul 05 - [Rejected GitHub profile achievements](https://github.com/Flet/rejected-github-profile-achievements)
-- Jul 05 - [Tabby: A terminal for a more modern age](https://github.com/Eugeny/tabby)
-- Jul 05 - [Starting design work in a spreadsheet](https://clearleft.com/thinking/starting-design-work-in-a-spreadsheet)
-- Jul 05 - [The U.S. Copyright Office requires libraries to lie about fair use rights?](https://scholarlykitchen.sspnet.org/2023/07/05/why-does-the-u-s-copyright-office-require-libraries-to-lie-to-users-about-their-fair-use-rights-they-wont-say/)
+- Jul 06 - [My Problem with the Four-Document Model](https://www.hillelwayne.com/post/problems-with-the-4doc-model/)
+- Jul 06 - [Threads hits 5M signups in the first four hours](https://www.threads.net/t/CuVxMmvLNsG)
+- Jul 06 - [Cloud Backed SQLite](https://sqlite.org/cloudsqlite/doc/trunk/www/index.wiki)
+- Jul 06 - [Wash trading gone wrong – how a $100M/day crypto exchange bankrupted itself](https://blog.everstrike.io/wash-trading-gone-wrong-how-a-crypto-exchange-accidentally-obliterated-itself/)
+- Jul 06 - [Tell HN: Nearly all of Evernote’s remaining staff has been laid off](https://news.ycombinator.com/item?id=36609641)
 <!--END_SECTION:hn-->
 
 <!--
