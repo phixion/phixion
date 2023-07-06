@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 06 - [PlanetScale Scaler Pro](https://planetscale.com/blog/announcing-scaler-pro)
-- Jul 06 - [Nearly half of the tap water in the US is contaminated with ‘forever chemicals,’](https://www.cnn.com/2023/07/05/health/pfas-nearly-half-us-tap-water-wellness/index.html)
-- Jul 06 - [Demystifying Text Data with the Unstructured Python Library](https://saeedesmaili.com/demystifying-text-data-with-the-unstructured-python-library/)
-- Jul 06 - [Tuesday set an unofficial record for the hottest day on Earth](https://apnews.com/article/global-record-breaking-heat-july-27069b5380117534d78f1f40a6edc7a0)
-- Jul 06 - [Lego building instructions](https://archive.org/details/lego-set-instructions)
+- Jul 06 - [Marjorie Taylor Greene no longer member of Freedom Caucus after vote last month](https://www.politico.com/minutes/congress/07-6-2023/mtg-freedom-caucus-ouster/)
+- Jul 06 - [Twitter is threatening to sue Meta over Threads [pdf]](https://cdn.sanity.io/files/ifn0l6bs/production/27109f01431939c8177d408d3c9848c3b46632cd.pdf)
+- Jul 06 - [Threads profiles can't be deleted without removing your entire Instagram account](https://www.theverge.com/2023/7/6/23786029/instagram-threads-profiles-deleted-removing)
+- Jul 06 - [Zink brings conformant OpenGL on Imagination GPUs](https://www.collabora.com/news-and-blog/news-and-events/zink-on-imagination-gpus.html)
+- Jul 06 - [I'm a paid user of Threads[.com] – No trademark?](https://threads.com/)
 <!--END_SECTION:hn-->
 
 <!--
