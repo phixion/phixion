@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 06 - [Marjorie Taylor Greene no longer member of Freedom Caucus after vote last month](https://www.politico.com/minutes/congress/07-6-2023/mtg-freedom-caucus-ouster/)
-- Jul 06 - [Twitter is threatening to sue Meta over Threads [pdf]](https://cdn.sanity.io/files/ifn0l6bs/production/27109f01431939c8177d408d3c9848c3b46632cd.pdf)
-- Jul 06 - [Threads profiles can't be deleted without removing your entire Instagram account](https://www.theverge.com/2023/7/6/23786029/instagram-threads-profiles-deleted-removing)
-- Jul 06 - [Zink brings conformant OpenGL on Imagination GPUs](https://www.collabora.com/news-and-blog/news-and-events/zink-on-imagination-gpus.html)
-- Jul 06 - [I'm a paid user of Threads[.com] – No trademark?](https://threads.com/)
+- Jul 07 - [Attention Caplanites: School Is Less Wasteful Than You Think](https://infovores.substack.com/p/attention-caplanites-school-is-less)
+- Jul 06 - [Show HN: I built a dashboard tracking the number of Threads users](https://www.quiverquant.com/threadstracker/)
+- Jul 06 - [C: Best System Language Ever or Bad by Design? (2015)](https://pastebin.com/UAQaWuWG)
+- Jul 06 - [Why Nvidia Keeps Winning: The Rise of an AI Giant](https://www.chinatalk.media/p/why-nvidia-keeps-winning-the-rise)
+- Jul 06 - [Air France Denied My Delay Compensation, So I Challenged Them and Won](https://airdisputes.com/air-france-denied-my-delay-compensation-so-i-challenged-them-and-won/)
 <!--END_SECTION:hn-->
 
 <!--
