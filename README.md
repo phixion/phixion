@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 07 - [Openworm – a biological simulation of a worm with 302 neurons](https://github.com/openworm/OpenWorm)
-- Jul 07 - [Homebrew's analytics have moved to the EU and away from Google](https://docs.brew.sh/Analytics)
-- Jul 07 - [Google Street View returns to Germany after 10 Years](https://www.androidpolice.com/google-street-view-germany-after-10-years-privacy-outcry/)
-- Jul 07 - [In Defence of DOM­Content­Loaded](https://csswizardry.com/2023/07/in-defence-of-domcontentloaded/)
-- Jul 07 - [WebAssembly and Replayable Functions](https://www.bartoszsypytkowski.com/wasm-replayable-functions/)
+- Jul 07 - [Finley (YC W21) is a financial software company hiring for sales and engineering](https://www.finleycms.com/careers/)
+- Jul 07 - [Fedora considers “privacy-preserving” telemetry](https://lwn.net/Articles/937528/)
+- Jul 07 - [Tell HN: Books Printed by Amazon](https://news.ycombinator.com/item?id=36629879)
+- Jul 07 - [Charter schools, social norming and zero-sum games](http://educationandstatistics.blogspot.com/2010/10/charter-schools-social-norming-and-zero.html)
+- Jul 07 - [Mechanical Turk workers are using AI to automate being human](https://techcrunch.com/2023/06/14/mechanical-turk-workers-are-using-ai-to-automate-being-human/)
 <!--END_SECTION:hn-->
 
 <!--
