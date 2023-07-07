@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 07 - [DoorDash, Grubhub and Uber sue New York City over minimum wage law](https://www.cnn.com/2023/07/06/business/doordash-grubhub-uber-sue-new-york-minimum-wage-law/index.html)
-- Jul 07 - [Bluesky partners with Namecheap to power domains as usernames](https://blueskyweb.xyz/blog/7-05-2023-namecheap)
-- Jul 07 - [Microsoft Edge Pre-Installing Google Docs Offline Extension](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel)
-- Jul 07 - [Tailwind and the Beauty of Ugly Code](https://boot-and-shoe.vercel.app/posts/skeptics-guide-to-tailwind)
-- Jul 07 - [Understanding Cybersecurity Frameworks: NIST, ISO, and More](https://www.thefinalhop.com/understanding-cybersecurity-frameworks-nist-iso-and-more/)
+- Jul 07 - [Openworm – a biological simulation of a worm with 302 neurons](https://github.com/openworm/OpenWorm)
+- Jul 07 - [Homebrew's analytics have moved to the EU and away from Google](https://docs.brew.sh/Analytics)
+- Jul 07 - [Google Street View returns to Germany after 10 Years](https://www.androidpolice.com/google-street-view-germany-after-10-years-privacy-outcry/)
+- Jul 07 - [In Defence of DOM­Content­Loaded](https://csswizardry.com/2023/07/in-defence-of-domcontentloaded/)
+- Jul 07 - [WebAssembly and Replayable Functions](https://www.bartoszsypytkowski.com/wasm-replayable-functions/)
 <!--END_SECTION:hn-->
 
 <!--
