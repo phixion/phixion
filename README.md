@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 07 - [Attention Caplanites: School Is Less Wasteful Than You Think](https://infovores.substack.com/p/attention-caplanites-school-is-less)
-- Jul 06 - [Show HN: I built a dashboard tracking the number of Threads users](https://www.quiverquant.com/threadstracker/)
-- Jul 06 - [C: Best System Language Ever or Bad by Design? (2015)](https://pastebin.com/UAQaWuWG)
-- Jul 06 - [Why Nvidia Keeps Winning: The Rise of an AI Giant](https://www.chinatalk.media/p/why-nvidia-keeps-winning-the-rise)
-- Jul 06 - [Air France Denied My Delay Compensation, So I Challenged Them and Won](https://airdisputes.com/air-france-denied-my-delay-compensation-so-i-challenged-them-and-won/)
+- Jul 07 - [DoorDash, Grubhub and Uber sue New York City over minimum wage law](https://www.cnn.com/2023/07/06/business/doordash-grubhub-uber-sue-new-york-minimum-wage-law/index.html)
+- Jul 07 - [Bluesky partners with Namecheap to power domains as usernames](https://blueskyweb.xyz/blog/7-05-2023-namecheap)
+- Jul 07 - [Microsoft Edge Pre-Installing Google Docs Offline Extension](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel)
+- Jul 07 - [Tailwind and the Beauty of Ugly Code](https://boot-and-shoe.vercel.app/posts/skeptics-guide-to-tailwind)
+- Jul 07 - [Understanding Cybersecurity Frameworks: NIST, ISO, and More](https://www.thefinalhop.com/understanding-cybersecurity-frameworks-nist-iso-and-more/)
 <!--END_SECTION:hn-->
 
 <!--
