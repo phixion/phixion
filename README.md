@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 07 - [California strikes deal with engine makers on zero-emissions trucking by 2036](https://www.sacbee.com/news/politics-government/capitol-alert/article277068878.html)
-- Jul 07 - [Charger outages leave northern Ontario EV drivers stranded](https://www.cbc.ca/news/canada/thunder-bay/ev-charger-outtages-northern-ontario-1.6895863)
-- Jul 07 - [Closure, from why the lucky stiff (2013)](https://github.com/steveklabnik/CLOSURE)
-- Jul 07 - [Civic honesty around the globe](https://www.science.org/doi/10.1126/science.aau8712)
-- Jul 07 - [Amazon’s electric Rivian vans have delivered 150M packages](https://arstechnica.com/cars/2023/07/amazon-has-5000-rivian-ev-delivery-vans-on-the-road/)
+- Jul 07 - [TypeScript please give us types](https://github.com/akutruff/typescript-needs-types)
+- Jul 07 - [Sinkholed: A DNS Horror Story (2019)](https://susam.net/blog/sinkholed.html)
+- Jul 07 - [DARPA Seeks to Shield Blood from Fungal and Bacterial Pathogens](https://www.darpa.mil/news-events/2023-06-29)
+- Jul 07 - [ChatGPT loses users for first time, shaking faith in AI revolution](https://www.washingtonpost.com/technology/2023/07/07/chatgpt-users-decline-future-ai-openai/)
+- Jul 07 - [Meta releases Intermediate Graphics Library](https://www.khronos.org/blog/meta-uses-khronos-open-standards-in-new-intermediate-graphics-library)
 <!--END_SECTION:hn-->
 
 <!--
