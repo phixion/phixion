@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 08 - [How the Tour de France became a $100M business](https://huddleup.substack.com/p/tour-de-france-how-the-worlds-most)
-- Jul 08 - [Spying on a smartphone remotely by the authorities: feasibility and operation](https://security.stackexchange.com/questions/271146/spying-on-a-smartphone-remotely-by-the-authorities-feasibility-and-operation)
-- Jul 08 - [When an app asks for permissions, it should have a “feed fake data” option](https://mastodon.gamedev.place/@Nifflas/110668040598715116)
-- Jul 08 - [The ants go marching methodically](https://news.arizona.edu/story/ants-go-marching-%E2%80%A6-methodically)
-- Jul 08 - [A $182B Chip Maker: AMD's Labs – Full Documentary [video]](https://www.youtube.com/watch?v=7H4eg2jOvVw)
+- Jul 08 - [A mysterious grey-hat is patching people's outdated MikroTik routers (2018)](https://www.zdnet.com/article/a-mysterious-grey-hat-is-patching-peoples-outdated-mikrotik-routers/)
+- Jul 08 - [Learn Electronics by Practice](https://beletronics.wordpress.com/)
+- Jul 08 - [Container Training](https://container.training/)
+- Jul 08 - [Why Use Pascal?](https://castle-engine.io/why_pascal)
+- Jul 08 - [How and Why I Stopped Buying New Laptops (2020)](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops/)
 <!--END_SECTION:hn-->
 
 <!--
