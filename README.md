@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 07 - [TypeScript please give us types](https://github.com/akutruff/typescript-needs-types)
-- Jul 07 - [Sinkholed: A DNS Horror Story (2019)](https://susam.net/blog/sinkholed.html)
-- Jul 07 - [DARPA Seeks to Shield Blood from Fungal and Bacterial Pathogens](https://www.darpa.mil/news-events/2023-06-29)
-- Jul 07 - [ChatGPT loses users for first time, shaking faith in AI revolution](https://www.washingtonpost.com/technology/2023/07/07/chatgpt-users-decline-future-ai-openai/)
-- Jul 07 - [Meta releases Intermediate Graphics Library](https://www.khronos.org/blog/meta-uses-khronos-open-standards-in-new-intermediate-graphics-library)
+- Jul 07 - [ProtonMail Rewrites Your Emails](http://jfloren.net/b/2023/7/7/0)
+- Jul 07 - [Show HN: My platforming game written in C 89](https://zamfofex.neocities.org/mimimi/)
+- Jul 07 - [ServiceNow Insecure Access Control to Full Admin Takeover](https://x64.sh/posts/ServiceNow-Insecure-access-control-to-admin/)
+- Jul 07 - [A FactoryFactoryFactory in Production](https://stevenheidel.medium.com/a-factoryfactoryfactory-in-production-822478b5afbd)
+- Jul 07 - [Intel VT-rp – Part 1. remapping attack and HLAT](https://tandasat.github.io/blog/2023/07/05/intel-vt-rp-part-1.html)
 <!--END_SECTION:hn-->
 
 <!--
