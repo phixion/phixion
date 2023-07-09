@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 08 - [A mysterious grey-hat is patching people's outdated MikroTik routers (2018)](https://www.zdnet.com/article/a-mysterious-grey-hat-is-patching-peoples-outdated-mikrotik-routers/)
-- Jul 08 - [Learn Electronics by Practice](https://beletronics.wordpress.com/)
-- Jul 08 - [Container Training](https://container.training/)
-- Jul 08 - [Why Use Pascal?](https://castle-engine.io/why_pascal)
-- Jul 08 - [How and Why I Stopped Buying New Laptops (2020)](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops/)
+- Jul 08 - [Apple M1 Mac as a Service](https://www.scaleway.com/en/hello-m1/)
+- Jul 08 - [Pocket: It gets worse the more you use it](https://web.archive.org/web/20190512092903/https://old.reddit.com/r/dredmorbius/comments/5x2sfx/pocket_it_gets_worse_the_more_you_use_it/)
+- Jul 08 - [The First Machine Unlearning Challenge – Google Research Blog](https://ai.googleblog.com/2023/06/announcing-first-machine-unlearning.html)
+- Jul 08 - [Global heat in ‘uncharted territory’: 2023 could be the hottest year on record](https://www.cnn.com/2023/07/08/world/extreme-global-temperature-heat-records-climate/index.html)
+- Jul 08 - [Bluesky: Building a Social Internet](https://blueskyweb.xyz/)
 <!--END_SECTION:hn-->
 
 <!--
