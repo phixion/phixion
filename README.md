@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 09 - [The internet's “town square” is dead](https://www.theintrinsicperspective.com/p/the-internets-town-square-is-dead)
-- Jul 09 - [Color Appearance and the End of Hering’s Opponent-Colors Theory](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(23)00147-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS136466132300147X%3Fshowall%3Dtrue)
-- Jul 09 - [Don't Take VC Funding – It Will Destroy Your Company](https://www.eidel.io/2023/07/09/vc-funding/)
-- Jul 09 - [Open Weights](https://github.com/Open-Weights/Definition)
-- Jul 09 - [A solar storm on Thu is expected to make Northern Lights visible in 17 states](https://apnews.com/article/auroras-northern-lights-solar-storm-58f8d99d746bed1c656170a4a38d6362)
+- Jul 09 - [Bevy 0.11: ECS-driven game engine built in Rust](https://bevyengine.org/news/bevy-0-11/)
+- Jul 09 - [Ask HN: When were flagged submissions/comments added to the profile page?](https://news.ycombinator.com/item?id=36657663)
+- Jul 09 - [Sarah Silverman is suing OpenAI and Meta for copyright infringement](https://www.theverge.com/2023/7/9/23788741/sarah-silverman-openai-meta-chatgpt-llama-copyright-infringement-chatbots-artificial-intelligence-ai)
+- Jul 09 - [Amateurs obsess over tools, pros over mastery](https://adamsinger.substack.com/p/amateurs-obsess-over-tools-pros-over)
+- Jul 09 - [The End of the Magic World’s 50-Year Grudge](https://www.nytimes.com/2023/07/08/business/uri-geller-magic-deep-fakes.html)
 <!--END_SECTION:hn-->
 
 <!--
