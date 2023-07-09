@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 09 - [AMD Ryzen 7 7840U Performance Benchmarks on Linux](https://www.phoronix.com/review/amd-ryzen7-7840u)
-- Jul 09 - [The HTTP status code for a web server's default “hello” front page](https://utcc.utoronto.ca/~cks/space/blog/web/WebServerDefaultNotThere)
-- Jul 09 - [Google's Privacy Policy Now Admits to Collecting All Your Data for AI Training](https://www.pcgamer.com/in-case-there-was-any-doubt-googles-privacy-policy-now-explicitly-states-that-its-going-to-suck-up-all-your-data-to-train-its-ai/)
-- Jul 09 - [KDE for Travelers](https://kde.org/for/travelers/)
-- Jul 09 - [Specular Holography: How (2010)](http://zintaglio.com/how.html)
+- Jul 09 - [A new method for packing objects inside a rigid container](https://techxplore.com/news/2023-07-method-dense-placement-rigid.html)
+- Jul 09 - [Fairphone 4–the repairable, sustainable smartphone–is coming to the US](https://arstechnica.com/gadgets/2023/07/fairphone-is-coming-to-america/)
+- Jul 09 - [“C is quirky, flawed, and an enormous success” – Dennis Ritchie (1993)](https://www.bell-labs.com/usr/dmr/www/chist.html)
+- Jul 09 - [How small is the smallest .NET Hello World binary?](https://blog.washi.dev/posts/tinysharp/)
+- Jul 09 - [Test Against Reality](https://borretti.me/article/test-against-reality)
 <!--END_SECTION:hn-->
 
 <!--
