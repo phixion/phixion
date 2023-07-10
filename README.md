@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 09 - [Bevy 0.11: ECS-driven game engine built in Rust](https://bevyengine.org/news/bevy-0-11/)
-- Jul 09 - [Ask HN: When were flagged submissions/comments added to the profile page?](https://news.ycombinator.com/item?id=36657663)
-- Jul 09 - [Sarah Silverman is suing OpenAI and Meta for copyright infringement](https://www.theverge.com/2023/7/9/23788741/sarah-silverman-openai-meta-chatgpt-llama-copyright-infringement-chatbots-artificial-intelligence-ai)
-- Jul 09 - [Amateurs obsess over tools, pros over mastery](https://adamsinger.substack.com/p/amateurs-obsess-over-tools-pros-over)
-- Jul 09 - [The End of the Magic World’s 50-Year Grudge](https://www.nytimes.com/2023/07/08/business/uri-geller-magic-deep-fakes.html)
+- Jul 09 - [Wayland on OpenBSD](https://xenocara.org/Wayland_on_OpenBSD.html)
+- Jul 09 - [Mozilla ending support for Windows 7](https://blog.mozilla.org/futurereleases/2023/07/06/firefox-support-for-windows-7-8-and-8-1/)
+- Jul 09 - [PinePhone Modem SDK](https://github.com/the-modem-distro/pinephone_modem_sdk)
+- Jul 09 - [Polynomial Functors: A Mathematical Theory of Interaction [pdf]](https://topos.site/poly-book.pdf)
+- Jul 09 - [It Took Me a Decade to Find the Perfect Personal Website Stack – Ghost+Fathom](https://davidgomes.com/it-took-me-a-decade-to-find-the-perfect-personal-website-stack/)
 <!--END_SECTION:hn-->
 
 <!--
