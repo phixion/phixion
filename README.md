@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 09 - [Wayland on OpenBSD](https://xenocara.org/Wayland_on_OpenBSD.html)
-- Jul 09 - [Mozilla ending support for Windows 7](https://blog.mozilla.org/futurereleases/2023/07/06/firefox-support-for-windows-7-8-and-8-1/)
-- Jul 09 - [PinePhone Modem SDK](https://github.com/the-modem-distro/pinephone_modem_sdk)
-- Jul 09 - [Polynomial Functors: A Mathematical Theory of Interaction [pdf]](https://topos.site/poly-book.pdf)
-- Jul 09 - [It Took Me a Decade to Find the Perfect Personal Website Stack – Ghost+Fathom](https://davidgomes.com/it-took-me-a-decade-to-find-the-perfect-personal-website-stack/)
+- Jul 10 - [Harvard professor Avi Loeb believes he's found fragments of alien technology](https://abc11.com/alien-technology-avi-loeb-harvard-professor-spheres/13482644/)
+- Jul 10 - [Car rental throwing away money?](https://games.greggman.com/game/stupid-car-rental/)
+- Jul 10 - [Show HN: React95 – a React components library recreating the look of Windows 95](https://github.com/React95/React95)
+- Jul 10 - [3M reaches $10.3B settlement over PFAS contamination of water systems](https://www.npr.org/2023/06/22/1183922303/3m-reaches-10-3-billion-settlement-over-contamination-of-water-systems)
+- Jul 10 - ['Forever chemicals' could be in nearly half of US tap water, federal study finds](https://www.ijpr.org/npr-news/2023-07-06/forever-chemicals-could-be-in-nearly-half-of-u-s-tap-water-a-federal-study-finds)
 <!--END_SECTION:hn-->
 
 <!--
