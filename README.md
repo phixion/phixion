@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 10 - [Harvard professor Avi Loeb believes he's found fragments of alien technology](https://abc11.com/alien-technology-avi-loeb-harvard-professor-spheres/13482644/)
-- Jul 10 - [Car rental throwing away money?](https://games.greggman.com/game/stupid-car-rental/)
-- Jul 10 - [Show HN: React95 – a React components library recreating the look of Windows 95](https://github.com/React95/React95)
-- Jul 10 - [3M reaches $10.3B settlement over PFAS contamination of water systems](https://www.npr.org/2023/06/22/1183922303/3m-reaches-10-3-billion-settlement-over-contamination-of-water-systems)
-- Jul 10 - ['Forever chemicals' could be in nearly half of US tap water, federal study finds](https://www.ijpr.org/npr-news/2023-07-06/forever-chemicals-could-be-in-nearly-half-of-u-s-tap-water-a-federal-study-finds)
+- Jul 10 - [Kubernetes SidecarContainers feature is merged](https://github.com/kubernetes/kubernetes/pull/116429)
+- Jul 10 - [Evernote has laid off most of its US staff and will move operations to Europe](https://www.theverge.com/2023/7/9/23789012/evernote-layoff-us-staff-bending-spoons-note-taking-app)
+- Jul 10 - [Show HN: Workout.lol – a web app to easily create a workout routine](https://workout.lol)
+- Jul 10 - [Japanese textile factory still uses tape cassette and punch cards [video]](https://www.youtube.com/watch?v=zWJZFQHklBg)
+- Jul 10 - [Mistakes with Rust smart pointers: when Deref goes wrong](https://www.fuzzypixelz.com/blog/deref-confusion/)
 <!--END_SECTION:hn-->
 
 <!--
