@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 11 - [Most plastic products release estrogenic chemicals (2011)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3222987/)
-- Jul 11 - [GPT-4 Details Leaked](https://threadreaderapp.com/thread/1678545170508267522.html)
-- Jul 11 - [XFS online filesystem check and repair](https://lwn.net/Articles/934561/)
-- Jul 11 - [GPS Log: Tracking Wood Movement Down the McKenzie River Live June 8th](https://gpslogdrive.com/)
-- Jul 10 - [Frame generation essentials: Interpolation, extrapolation, and reprojection](https://blurbusters.com/frame-generation-essentials-interpolation-extrapolation-and-reprojection/)
+- Jul 11 - [GPT-Prompt-Engineer](https://github.com/mshumer/gpt-prompt-engineer)
+- Jul 11 - [Meta’s Microservice Architecture [pdf]](https://www.usenix.org/system/files/atc23-huye.pdf)
+- Jul 11 - [Fungi stores 1/3 carbon from fossil fuel emits: essential to net zero – study](https://www.eurekalert.org/news-releases/991288)
+- Jul 11 - [Show HN: Laser, a new game played on a chess board](https://playlaser.xyz)
+- Jul 11 - [You're So Vain, You Probably Think This App Is About You: On Meta and Mastodon](https://micro.coyotetracks.org/2023/07/10/youre-so-vain.html)
 <!--END_SECTION:hn-->
 
 <!--
