@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 11 - [How Cloudflare Images addressed the aCropalypse vulnerability](https://blog.cloudflare.com/how-cloudflare-images-addressed-the-acropalypse-vulnerability/)
-- Jul 11 - [PhotoPrism: Browse Your Life in Pictures](https://github.com/photoprism/photoprism)
-- Jul 11 - [Big Tech can transfer Europeans’ data to US in win for Facebook and Google](https://arstechnica.com/tech-policy/2023/07/big-tech-can-transfer-europeans-data-to-us-in-win-for-facebook-and-google/)
-- Jul 11 - [SpaceX is stretching the lifetime of its reusable Falcon 9 boosters](https://arstechnica.com/space/2023/07/spacex-launches-its-fleet-leading-rocket-booster-for-record-16th-time/)
-- Jul 11 - [Working memory: metric for state a programmer needs to keep in their head (2022)](https://sourcery.ai/blog/measuring_working_memory/)
+- Jul 11 - [Emacs GUI Library](https://andreyor.st/posts/2023-07-11-emacs-gui-library/)
+- Jul 11 - [Google's new metrics: Interaction to Next Paint (INP)](https://web.dev/inp/)
+- Jul 11 - [Windows 9x and Word 9x at 800x600 resolution. Spacious. Comfy](https://oldbytes.space/@48kRAM/110695813509755748)
+- Jul 11 - [Shop Class 2.0: Rethinking High School to Accelerate Electrification](https://volted.substack.com/p/rethinking-high-school-to-electrify-everything)
+- Jul 11 - [Microsoft wins FTC fight to buy Activision Blizzard](https://www.theverge.com/2023/7/11/23779039/microsoft-activision-blizzard-ftc-trial-win)
 <!--END_SECTION:hn-->
 
 <!--
