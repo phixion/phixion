@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 10 - [Frame Generation Essentials: Interpolation, Extrapolation, and Reprojection](https://blurbusters.com/frame-generation-essentials-interpolation-extrapolation-and-reprojection/)
-- Jul 10 - [Show HN: Learn Japanese by Reading on iOS and macOS (SwiftUI)](https://reader.manabi.io/#page-top)
-- Jul 10 - [Easy HTTPS for your private networks](https://www.getlocalcert.net/)
-- Jul 10 - [Brian Eno Albums Available in Dolby Atmos and Spatial for the First Time](https://www.udiscovermusic.com/news/brian-eno-albums-dolby-atmos-first-time/)
-- Jul 10 - [MicroVM by QEMU](https://qemu.readthedocs.io/en/latest/system/i386/microvm.html)
+- Jul 11 - [Most plastic products release estrogenic chemicals (2011)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3222987/)
+- Jul 11 - [GPT-4 Details Leaked](https://threadreaderapp.com/thread/1678545170508267522.html)
+- Jul 11 - [XFS online filesystem check and repair](https://lwn.net/Articles/934561/)
+- Jul 11 - [GPS Log: Tracking Wood Movement Down the McKenzie River Live June 8th](https://gpslogdrive.com/)
+- Jul 10 - [Frame generation essentials: Interpolation, extrapolation, and reprojection](https://blurbusters.com/frame-generation-essentials-interpolation-extrapolation-and-reprojection/)
 <!--END_SECTION:hn-->
 
 <!--
