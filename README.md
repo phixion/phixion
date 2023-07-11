@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 11 - [Emacs GUI Library](https://andreyor.st/posts/2023-07-11-emacs-gui-library/)
-- Jul 11 - [Google's new metrics: Interaction to Next Paint (INP)](https://web.dev/inp/)
-- Jul 11 - [Windows 9x and Word 9x at 800x600 resolution. Spacious. Comfy](https://oldbytes.space/@48kRAM/110695813509755748)
-- Jul 11 - [Shop Class 2.0: Rethinking High School to Accelerate Electrification](https://volted.substack.com/p/rethinking-high-school-to-electrify-everything)
-- Jul 11 - [Microsoft wins FTC fight to buy Activision Blizzard](https://www.theverge.com/2023/7/11/23779039/microsoft-activision-blizzard-ftc-trial-win)
+- Jul 11 - [Storing Data in Control Flow](https://research.swtch.com/pcdata)
+- Jul 11 - [Bubblewrap – Low-level unprivileged sandboxing tool used by Flatpak](https://github.com/containers/bubblewrap)
+- Jul 11 - [A Petabyte of Health Insurance Prices Per Month – Why is there so much data?](https://blog.turquoise.health/a-petabyte-of-health-insurance-rates-a-month/)
+- Jul 11 - [The Pile: a dataset for language modeling [pdf]](https://arxiv.org/abs/2101.00027)
+- Jul 11 - [Cancer’s origin story features predictable plot line, researchers find](https://med.stanford.edu/news/all-news/2023/07/pre-cancer-evolution.html)
 <!--END_SECTION:hn-->
 
 <!--
