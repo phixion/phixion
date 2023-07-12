@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 12 - [The English Programming Language](https://github.com/theletterf/english-lang)
-- Jul 12 - [How the design of Disney parks affects our perspective](https://disneycicerone.com/how-the-design-of-disney-parks-affects-our-perspective/)
-- Jul 12 - [Rebellious birds make nests out of anti-bird pins](https://www.naturalis.nl/en/about-us/media/press-releases/rebellious-birds-make-nests-out-of-anti-bird-pins)
-- Jul 12 - [Dr. Gwynne Dyer – Geopolitics in a Hotter World – UBC Talk Transcribed (2010)](https://spaswell.wordpress.com/2016/11/18/dr-gwynne-dyer-geopolitics-in-a-hotter-world-ubc-talk-transcribed-sept-2010/)
-- Jul 11 - [Elo for VC – Founder's Choice](https://www.founderschoicevc.com/)
+- Jul 12 - [Thunderbird 115 Now Available and It Looks Fantastic](https://www.phoronix.com/news/Thunderbird-115)
+- Jul 12 - [Geddit: Open-source, Reddit client for Android without using API](https://github.com/kaangiray26/geddit-app)
+- Jul 12 - [Vale's First Prototype for Immutable Region Borrowing](https://verdagon.dev/blog/first-regions-prototype)
+- Jul 12 - [Hardening Emulated Devices in OpenBSD's Vmd(8) Hypervisor [pdf]](https://www.openbsd.org/papers/asiabsdcon2023-hardening_vmd_devices.pdf)
+- Jul 12 - [RPCS3 – The Open Source Playstation 3 Emulator](https://rpcs3.net/)
 <!--END_SECTION:hn-->
 
 <!--
