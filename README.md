@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 12 - [GiveCampus (YC S15) Hiring Rails engineers who care about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- Jul 12 - [Bcachefs File-System Plans to Try Again to Land in Linux 6.6](https://www.phoronix.com/news/Bcachefs-Plans-For-Linux-6.6)
-- Jul 12 - [TimeMaps](https://vincentmeertens.com/project/timemaps/)
-- Jul 12 - [Threads: The BBC drama which affected a generation of viewers](https://www.bbc.com/news/uk-england-south-yorkshire-66122775)
-- Jul 12 - [I Am Leaving](https://briefs.video/videos/i-am-leaving/)
+- Jul 12 - [Windows is the malware compatibility layer for everything](https://twitter.com/matthew_d_green/status/1679135426806784004)
+- Jul 12 - [Grammarly will discontinue the Text Editor SDK](https://developer.grammarly.com/sdk-deprecation)
+- Jul 12 - [Computation and State Machines (2008) [pdf]](https://lamport.azurewebsites.net/pubs/state-machine.pdf)
+- Jul 12 - [Beagleboard BeagleV-Ahead RISC-V brd released](https://beagleboard.org/beaglev-ahead)
+- Jul 12 - [Official Mastodon server of the Dutch government](https://social.overheid.nl/@avhuffelen/110700825255524685)
 <!--END_SECTION:hn-->
 
 <!--
