@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 12 - [Thunderbird 115 Now Available and It Looks Fantastic](https://www.phoronix.com/news/Thunderbird-115)
-- Jul 12 - [Geddit: Open-source, Reddit client for Android without using API](https://github.com/kaangiray26/geddit-app)
-- Jul 12 - [Vale's First Prototype for Immutable Region Borrowing](https://verdagon.dev/blog/first-regions-prototype)
-- Jul 12 - [Hardening Emulated Devices in OpenBSD's Vmd(8) Hypervisor [pdf]](https://www.openbsd.org/papers/asiabsdcon2023-hardening_vmd_devices.pdf)
-- Jul 12 - [RPCS3 – The Open Source Playstation 3 Emulator](https://rpcs3.net/)
+- Jul 12 - [GiveCampus (YC S15) Hiring Rails engineers who care about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+- Jul 12 - [Bcachefs File-System Plans to Try Again to Land in Linux 6.6](https://www.phoronix.com/news/Bcachefs-Plans-For-Linux-6.6)
+- Jul 12 - [TimeMaps](https://vincentmeertens.com/project/timemaps/)
+- Jul 12 - [Threads: The BBC drama which affected a generation of viewers](https://www.bbc.com/news/uk-england-south-yorkshire-66122775)
+- Jul 12 - [I Am Leaving](https://briefs.video/videos/i-am-leaving/)
 <!--END_SECTION:hn-->
 
 <!--
