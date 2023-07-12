@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 11 - [The ad-based internet is dying, and it's getting worse in the process](https://tilvids.com/videos/watch/41f5284e-b79e-4c84-97e5-664a6ac5a1ee)
-- Jul 11 - [Breaking java.lang.String](https://wouter.coekaerts.be/2023/breaking-string)
-- Jul 11 - [Darwin: A framework for evolving decentralized web apps](https://evolutionary.arweave.dev/)
-- Jul 11 - [The Free Movie](https://thefreemovie.buzz/)
-- Jul 11 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- Jul 12 - [The English Programming Language](https://github.com/theletterf/english-lang)
+- Jul 12 - [How the design of Disney parks affects our perspective](https://disneycicerone.com/how-the-design-of-disney-parks-affects-our-perspective/)
+- Jul 12 - [Rebellious birds make nests out of anti-bird pins](https://www.naturalis.nl/en/about-us/media/press-releases/rebellious-birds-make-nests-out-of-anti-bird-pins)
+- Jul 12 - [Dr. Gwynne Dyer – Geopolitics in a Hotter World – UBC Talk Transcribed (2010)](https://spaswell.wordpress.com/2016/11/18/dr-gwynne-dyer-geopolitics-in-a-hotter-world-ubc-talk-transcribed-sept-2010/)
+- Jul 11 - [Elo for VC – Founder's Choice](https://www.founderschoicevc.com/)
 <!--END_SECTION:hn-->
 
 <!--
