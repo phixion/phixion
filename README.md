@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 11 - [Storing Data in Control Flow](https://research.swtch.com/pcdata)
-- Jul 11 - [Bubblewrap – Low-level unprivileged sandboxing tool used by Flatpak](https://github.com/containers/bubblewrap)
-- Jul 11 - [A Petabyte of Health Insurance Prices Per Month – Why is there so much data?](https://blog.turquoise.health/a-petabyte-of-health-insurance-rates-a-month/)
-- Jul 11 - [The Pile: a dataset for language modeling [pdf]](https://arxiv.org/abs/2101.00027)
-- Jul 11 - [Cancer’s origin story features predictable plot line, researchers find](https://med.stanford.edu/news/all-news/2023/07/pre-cancer-evolution.html)
+- Jul 11 - [The ad-based internet is dying, and it's getting worse in the process](https://tilvids.com/videos/watch/41f5284e-b79e-4c84-97e5-664a6ac5a1ee)
+- Jul 11 - [Breaking java.lang.String](https://wouter.coekaerts.be/2023/breaking-string)
+- Jul 11 - [Darwin: A framework for evolving decentralized web apps](https://evolutionary.arweave.dev/)
+- Jul 11 - [The Free Movie](https://thefreemovie.buzz/)
+- Jul 11 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 <!--END_SECTION:hn-->
 
 <!--
