@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 13 - [Invertible Bloom Lookup Tables with Less Randomness and Memory](https://arxiv.org/abs/2306.07583)
+- Jul 13 - [Anchor Brewing Was San Francisco](https://defector.com/anchor-brewing-was-san-francisco)
+- Jul 13 - [Thunderbird 115 “Supernova”](https://blog.thunderbird.net/2023/07/our-fastest-most-beautiful-release-ever-thunderbird-115-supernova-is-here/)
 - Jul 12 - [Figma Is a File Editor](https://digest.browsertech.com/archive/browsertech-digest-figma-is-a-file-editor/)
 - Jul 12 - [Recreate the cavity-preventing GMO bacteria BCS3-L1 from precursor](https://manifund.org/projects/recreate-the-cavity-preventing-gmo-bacteria-bcs3-l1-from-precursor-)
-- Jul 12 - [Xenia: Xbox 360 Emulator](https://xenia.jp/)
-- Jul 12 - [Uber Eats Canada Ran Production in a MacBook Air](https://twitter.com/Altimor/status/1679235946334781440)
-- Jul 12 - [Maker Faire Bay Area Returns](https://makerfaire.com/bay-area/call-for-makers/)
 <!--END_SECTION:hn-->
 
 <!--
