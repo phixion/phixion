@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 13 - [Invertible Bloom Lookup Tables with Less Randomness and Memory](https://arxiv.org/abs/2306.07583)
-- Jul 13 - [Anchor Brewing Was San Francisco](https://defector.com/anchor-brewing-was-san-francisco)
-- Jul 13 - [Thunderbird 115 “Supernova”](https://blog.thunderbird.net/2023/07/our-fastest-most-beautiful-release-ever-thunderbird-115-supernova-is-here/)
-- Jul 12 - [Figma Is a File Editor](https://digest.browsertech.com/archive/browsertech-digest-figma-is-a-file-editor/)
-- Jul 12 - [Recreate the cavity-preventing GMO bacteria BCS3-L1 from precursor](https://manifund.org/projects/recreate-the-cavity-preventing-gmo-bacteria-bcs3-l1-from-precursor-)
+- Jul 13 - [Dutch E-Bike startup VanMoof unable to pay the bills](https://techcrunch.com/2023/07/12/report-vanmoof-has-filed-for-bankruptcy-protection-in-holland/)
+- Jul 13 - [Dt: Duck tape for your Unix pipes](https://dt.plumbing/)
+- Jul 13 - [Xbox360 –> Windows Executable Converter (2017)](https://github.com/rexdex/recompiler)
+- Jul 13 - [Scientists have identified the potato pathogen that devastated Ireland (2013)](https://www.history.com/news/after-168-years-potato-famine-mystery-solved)
+- Jul 13 - [The Mac Sonoma sure is starting to look like the iPhone](https://www.theverge.com/2023/7/12/23792490/macos-sonoma-public-beta-preview)
 <!--END_SECTION:hn-->
 
 <!--
