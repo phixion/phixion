@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 13 - [Founder of crypto lender Celsius Network arrested, charged with fraud](https://www.reuters.com/markets/us-sec-sues-celsius-network-its-founder-2023-07-13/)
-- Jul 13 - [Manuscript Textiles: Weaving the Thread of Faith](https://blogs.bl.uk/asian-and-african/2023/07/manuscript-textiles-weaving-the-thread-of-faith.html)
-- Jul 13 - [Faster Neural Networks Straight from JPEG](https://www.uber.com/blog/neural-networks-jpeg/)
-- Jul 13 - [FDA Approves First Nonprescription Daily Oral Contraceptive](https://www.fda.gov/news-events/press-announcements/fda-approves-first-nonprescription-daily-oral-contraceptive)
-- Jul 13 - [Bard’s latest update: more features, languages and countries](https://blog.google/products/bard/google-bard-new-features-update-july-2023/)
+- Jul 13 - [Patching GCC to Build Portable Executables](https://ahgamut.github.io/2023/07/13/patching-gcc-cosmo/)
+- Jul 13 - [Buddy Pond Cloud Desktop](https://buddypond.com/)
+- Jul 13 - [Age of universe at 26.7B years, nearly twice as old as previously believed](https://phys.org/news/2023-07-age-universe-billion-years-previously.html)
+- Jul 13 - [Celsius Was Lying](https://www.bloomberg.com/opinion/articles/2023-07-13/celsius-was-lying)
+- Jul 13 - [New in Chrome 115](https://developer.chrome.com/blog/new-in-chrome-115/)
 <!--END_SECTION:hn-->
 
 <!--
