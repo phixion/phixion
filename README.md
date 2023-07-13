@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 13 - [Dutch E-Bike startup VanMoof unable to pay the bills](https://techcrunch.com/2023/07/12/report-vanmoof-has-filed-for-bankruptcy-protection-in-holland/)
-- Jul 13 - [Dt: Duck tape for your Unix pipes](https://dt.plumbing/)
-- Jul 13 - [Xbox360 –> Windows Executable Converter (2017)](https://github.com/rexdex/recompiler)
-- Jul 13 - [Scientists have identified the potato pathogen that devastated Ireland (2013)](https://www.history.com/news/after-168-years-potato-famine-mystery-solved)
-- Jul 13 - [The Mac Sonoma sure is starting to look like the iPhone](https://www.theverge.com/2023/7/12/23792490/macos-sonoma-public-beta-preview)
+- Jul 13 - [DSReality: Turns a DS game into a 3D image that floats above your controller](https://github.com/zhuowei/DSReality)
+- Jul 13 - [Three signs that Wayland is becoming the favored way to get a GUI on Linux](https://www.theregister.com/2023/07/13/wayland_is_coming/)
+- Jul 13 - [Ask HN: Is the Market Recovering?](https://news.ycombinator.com/item?id=36707404)
+- Jul 13 - [CWE Top Most Dangerous Software Weaknesses](https://cwe.mitre.org/top25/index.html)
+- Jul 13 - [C++23’s Deducing this: what it is, why it is, how to use it](https://devblogs.microsoft.com/cppblog/cpp23-deducing-this/)
 <!--END_SECTION:hn-->
 
 <!--
