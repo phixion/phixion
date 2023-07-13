@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 12 - [Simone Weil’s Great Awakening](https://www.newstatesman.com/ideas/2023/07/simone-weil-great-awakening-wolfram-eilenberger)
-- Jul 12 - [Instagram Threads: The Problem with the “Everything for Everyone” Approach](https://thisisunpacked.substack.com/p/instagram-threads-the-problem-with)
-- Jul 12 - [Windows 11 Insider Preview Build 25905 brings a bit of Rust in the kernel](https://blogs.windows.com/windows-insider/2023/07/12/announcing-windows-11-insider-preview-build-25905/)
-- Jul 12 - [MuseScore 4.1 is now available](https://musescore.org/en/4.1)
-- Jul 12 - [Telling the Bees](https://en.wikipedia.org/wiki/Telling_the_bees)
+- Jul 12 - [Figma Is a File Editor](https://digest.browsertech.com/archive/browsertech-digest-figma-is-a-file-editor/)
+- Jul 12 - [Recreate the cavity-preventing GMO bacteria BCS3-L1 from precursor](https://manifund.org/projects/recreate-the-cavity-preventing-gmo-bacteria-bcs3-l1-from-precursor-)
+- Jul 12 - [Xenia: Xbox 360 Emulator](https://xenia.jp/)
+- Jul 12 - [Uber Eats Canada Ran Production in a MacBook Air](https://twitter.com/Altimor/status/1679235946334781440)
+- Jul 12 - [Maker Faire Bay Area Returns](https://makerfaire.com/bay-area/call-for-makers/)
 <!--END_SECTION:hn-->
 
 <!--
