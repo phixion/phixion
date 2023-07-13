@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 13 - [DSReality: Turns a DS game into a 3D image that floats above your controller](https://github.com/zhuowei/DSReality)
-- Jul 13 - [Three signs that Wayland is becoming the favored way to get a GUI on Linux](https://www.theregister.com/2023/07/13/wayland_is_coming/)
-- Jul 13 - [Ask HN: Is the Market Recovering?](https://news.ycombinator.com/item?id=36707404)
-- Jul 13 - [CWE Top Most Dangerous Software Weaknesses](https://cwe.mitre.org/top25/index.html)
-- Jul 13 - [C++23’s Deducing this: what it is, why it is, how to use it](https://devblogs.microsoft.com/cppblog/cpp23-deducing-this/)
+- Jul 13 - [Founder of crypto lender Celsius Network arrested, charged with fraud](https://www.reuters.com/markets/us-sec-sues-celsius-network-its-founder-2023-07-13/)
+- Jul 13 - [Manuscript Textiles: Weaving the Thread of Faith](https://blogs.bl.uk/asian-and-african/2023/07/manuscript-textiles-weaving-the-thread-of-faith.html)
+- Jul 13 - [Faster Neural Networks Straight from JPEG](https://www.uber.com/blog/neural-networks-jpeg/)
+- Jul 13 - [FDA Approves First Nonprescription Daily Oral Contraceptive](https://www.fda.gov/news-events/press-announcements/fda-approves-first-nonprescription-daily-oral-contraceptive)
+- Jul 13 - [Bard’s latest update: more features, languages and countries](https://blog.google/products/bard/google-bard-new-features-update-july-2023/)
 <!--END_SECTION:hn-->
 
 <!--
