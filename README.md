@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 13 - [Patching GCC to Build Portable Executables](https://ahgamut.github.io/2023/07/13/patching-gcc-cosmo/)
-- Jul 13 - [Buddy Pond Cloud Desktop](https://buddypond.com/)
-- Jul 13 - [Age of universe at 26.7B years, nearly twice as old as previously believed](https://phys.org/news/2023-07-age-universe-billion-years-previously.html)
-- Jul 13 - [Celsius Was Lying](https://www.bloomberg.com/opinion/articles/2023-07-13/celsius-was-lying)
-- Jul 13 - [New in Chrome 115](https://developer.chrome.com/blog/new-in-chrome-115/)
+- Jul 13 - [Japanese steakhouse in Florida closes after customers test positive for meth](https://www.usatoday.com/story/news/nation/2023/07/12/florida-japanese-steakhouse-meth-poisoning-allegations/70404958007/)
+- Jul 13 - [Someone crafted a redstone PC in Minecraft to play Minecraft inside Minecraft](https://www.pcgamer.com/minecraftception-redstone-pc-chungus/)
+- Jul 13 - [The Future of AlmaLinux is Bright](https://almalinux.org/blog/future-of-almalinux/)
+- Jul 13 - [What Makes Something an Heirloom?](https://putthison.com/what-makes-something-an-heirloom/)
+- Jul 13 - [Benefit Layers: How to avoid sales fluff in devtools](https://dx.tips/benefit-layers)
 <!--END_SECTION:hn-->
 
 <!--
