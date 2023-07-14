@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 14 - [AlmaLinux No Longer Aims for 1:1 Compatibility with RHEL](https://www.phoronix.com/news/AlmaLinux-No-1-1-RHEL)
+- Jul 14 - [Margaret Hamilton Led the NASA Software Team That Landed Astronauts on the Moon](https://www.smithsonianmag.com/smithsonian-institution/margaret-hamilton-led-nasa-software-team-landed-astronauts-moon-180971575/)
+- Jul 14 - [Intuitionism](https://en.wikipedia.org/wiki/Intuitionism)
+- Jul 14 - [A change of typeface: Microsoft’s new default font has arrived](https://medium.com/microsoft-design/a-change-of-typeface-microsofts-new-default-font-has-arrived-f200eb16718d)
+- Jul 14 - [VanMoof encryption key exporter](https://github.com/grossartig/vanmoof-encryption-key-exporter)
 - Jul 14 - [There is no data engineering roadmap](https://www.alasdairb.com/posts/there-is-no-data-engineering-roadmap/)
-- Jul 14 - [On personal relations as a manager](https://fev.al/posts/personal-relations/)
-- Jul 13 - [FTC investigating ChatGPT over potential consumer harm](https://www.npr.org/2023/07/13/1187532997/ftc-investigating-chatgpt-over-potential-consumer-harm)
-- Jul 13 - [Someone crafted a redstone PC in Minecraft to play Minecraft inside Minecraft](https://www.pcgamer.com/minecraftception-redstone-pc-chungus/)
 <!--END_SECTION:hn-->
 
 <!--
