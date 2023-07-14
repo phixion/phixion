@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 14 - [Super Mario 64 – Watch for Rolling Rocks – 0.5x a Presses [video]](https://www.youtube.com/watch?v=kpk2tdsPh0A)
-- Jul 14 - [Cosmic Skies of a Colorado July](https://blog.system76.com/post/cosmic-skies-of-a-colorado-july-2023/)
-- Jul 14 - [Meta to release open-source commercial AI model](https://www.zdnet.com/article/meta-to-release-open-source-commercial-ai-model-to-compete-with-openai-and-google/)
-- Jul 14 - [Dropped iPad implicated in fatal Rotak Chinook helicopter crash](https://verticalmag.com/news/dropped-ipad-implicated-in-fatal-chinook-helicopter-crash/)
-- Jul 14 - [Podman Desktop 1.2 Released: Compose and Kubernetes Support](https://podman-desktop.io/blog/podman-desktop-release-1.2)
+- Jul 14 - [Internet Archive expands Flash support](https://mastodon.archive.org/@textfiles/110697893762381822)
+- Jul 14 - [Sniffnet – Comfortably monitor your Internet traffic (Like Wireshark)](https://www.sniffnet.net/)
+- Jul 14 - [Bank Transfers as a Payment Method](https://www.bitsaboutmoney.com/archive/bank-transfers-as-a-payment-method/)
+- Jul 14 - [FDA says aspartame is safe, disagreeing with WHO finding](https://www.cnbc.com/2023/07/14/fda-says-aspartame-is-safe-disagrees-with-who-on-possible-cancer-link.html)
+- Jul 14 - [Libxo: Easy way to generate text, XML, JSON, and HTML](https://juniper.github.io/libxo/libxo-manual.html)
 <!--END_SECTION:hn-->
 
 <!--
