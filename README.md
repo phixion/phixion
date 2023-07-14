@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 13 - [Japanese steakhouse in Florida closes after customers test positive for meth](https://www.usatoday.com/story/news/nation/2023/07/12/florida-japanese-steakhouse-meth-poisoning-allegations/70404958007/)
+- Jul 14 - [AlmaLinux No Longer Aims for 1:1 Compatibility with RHEL](https://www.phoronix.com/news/AlmaLinux-No-1-1-RHEL)
+- Jul 14 - [There is no data engineering roadmap](https://www.alasdairb.com/posts/there-is-no-data-engineering-roadmap/)
+- Jul 14 - [On personal relations as a manager](https://fev.al/posts/personal-relations/)
+- Jul 13 - [FTC investigating ChatGPT over potential consumer harm](https://www.npr.org/2023/07/13/1187532997/ftc-investigating-chatgpt-over-potential-consumer-harm)
 - Jul 13 - [Someone crafted a redstone PC in Minecraft to play Minecraft inside Minecraft](https://www.pcgamer.com/minecraftception-redstone-pc-chungus/)
-- Jul 13 - [The Future of AlmaLinux is Bright](https://almalinux.org/blog/future-of-almalinux/)
-- Jul 13 - [What Makes Something an Heirloom?](https://putthison.com/what-makes-something-an-heirloom/)
-- Jul 13 - [Benefit Layers: How to avoid sales fluff in devtools](https://dx.tips/benefit-layers)
 <!--END_SECTION:hn-->
 
 <!--
