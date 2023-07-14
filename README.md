@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 14 - [India's Chandrayaan-3 launches to explore moons water rich South Pole](https://www.newscientist.com/article/2382565-indias-chandrayaan-3-launches-to-explore-moons-water-rich-south-pole/)
-- Jul 14 - [On Becoming a VP of Engineering](https://www.honeycomb.io/blog/becoming-vp-of-engineering-pt1)
-- Jul 14 - [Why software projects take longer than you think: a statistical model (2019)](https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html)
-- Jul 14 - [Intuitionism](https://en.wikipedia.org/wiki/Intuitionism)
-- Jul 14 - [Publishing in a Medieval Monastery](https://www.cambridge.org/core/elements/publishing-in-a-medieval-monastery/17B31679A5EF213BFCAF283BBB4C6440)
+- Jul 14 - [Super Mario 64 – Watch for Rolling Rocks – 0.5x a Presses [video]](https://www.youtube.com/watch?v=kpk2tdsPh0A)
+- Jul 14 - [Cosmic Skies of a Colorado July](https://blog.system76.com/post/cosmic-skies-of-a-colorado-july-2023/)
+- Jul 14 - [Meta to release open-source commercial AI model](https://www.zdnet.com/article/meta-to-release-open-source-commercial-ai-model-to-compete-with-openai-and-google/)
+- Jul 14 - [Dropped iPad implicated in fatal Rotak Chinook helicopter crash](https://verticalmag.com/news/dropped-ipad-implicated-in-fatal-chinook-helicopter-crash/)
+- Jul 14 - [Podman Desktop 1.2 Released: Compose and Kubernetes Support](https://podman-desktop.io/blog/podman-desktop-release-1.2)
 <!--END_SECTION:hn-->
 
 <!--
