@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 14 - [Internet Archive expands Flash support](https://mastodon.archive.org/@textfiles/110697893762381822)
-- Jul 14 - [Sniffnet – Comfortably monitor your Internet traffic (Like Wireshark)](https://www.sniffnet.net/)
-- Jul 14 - [Bank Transfers as a Payment Method](https://www.bitsaboutmoney.com/archive/bank-transfers-as-a-payment-method/)
-- Jul 14 - [FDA says aspartame is safe, disagreeing with WHO finding](https://www.cnbc.com/2023/07/14/fda-says-aspartame-is-safe-disagrees-with-who-on-possible-cancer-link.html)
-- Jul 14 - [Libxo: Easy way to generate text, XML, JSON, and HTML](https://juniper.github.io/libxo/libxo-manual.html)
+- Jul 14 - [Lies, damned lies: debunking Cloudflare’s recent performance tests](https://www.fastly.com/blog/debunking-cloudflares-recent-performance-tests)
+- Jul 14 - [Fudge: Reverse Tetris](https://vividfax.itch.io/fudge)
+- Jul 14 - [Food companies ‘sweetened the world’ and increased the risk of disease](https://www.theguardian.com/global-development/2023/jul/14/how-food-companies-sweetened-the-world-and-increased-the-risk-of-disease-acc)
+- Jul 14 - [Polyhedral Splines](https://uf-cise-surflab.github.io/blender-polyhedral-splines-web/)
+- Jul 14 - [Generate RSS feed for any website using CSS selectors](https://rss-bridge.org/bridge01/#bridge-CssSelectorBridge)
 <!--END_SECTION:hn-->
 
 <!--
