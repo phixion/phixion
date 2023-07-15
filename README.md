@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 15 - [Snakemake – A framework for reproducible data analysis](https://snakemake.github.io/)
-- Jul 15 - [New Emojis in 2023-2024](https://blog.emojipedia.org/new-emojis-in-2023/)
-- Jul 15 - [Matrices and Graph](https://thepalindrome.org/p/matrices-and-graphs)
-- Jul 15 - [JDF.jl – Julia DataFrames serialization format](https://github.com/xiaodaigh/JDF.jl)
-- Jul 15 - [The Uxn Ecosystem](https://100r.co/site/uxn.html)
+- Jul 15 - [Dairyland (blogging platform from '99) is still going?](https://members.diaryland.com/edit/)
+- Jul 15 - [Signal's president vows to reject UK law on message scanning before encryption](https://fortune.com/2023/07/13/signal-president-mass-surveillance-uk-law/)
+- Jul 15 - [Threads, a Slack alternative unrelated to Instagram, has seen downloads surge](https://techcrunch.com/2023/07/15/threads-a-slack-alternative-completely-unrelated-to-instagram-has-seen-downloads-surge/)
+- Jul 15 - [“Our paying customers need X, when will you fix it?”](https://twitter.com/maximilianhils/status/1680193548212228097)
+- Jul 15 - [‘I know about lying, I do it for a living’: Ben McKenzie as crypto critic](https://www.theguardian.com/tv-and-radio/2023/jul/15/ben-mckenzie-interview-oc-cryptocurrency)
 <!--END_SECTION:hn-->
 
 <!--
