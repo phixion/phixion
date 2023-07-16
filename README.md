@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 16 - [Taskfile: A Modern Alternative to Makefile](https://cloudnativeengineer.substack.com/p/ep-5-taskfile-a-modern-alternative)
-- Jul 16 - [Hundreds of drones plunge into Melbourne’s Yarra River](https://www.abc.net.au/news/2023-07-16/hundreds-of-drones-plunge-into-yarra-river/102607576)
-- Jul 16 - [How I run my servers](https://blog.wesleyac.com/posts/how-i-run-my-servers)
-- Jul 16 - [How to Use AI to Do Stuff: An Opinionated Guide](https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated)
-- Jul 16 - [Are you a “harbinger of failure”? (2015)](https://news.mit.edu/2015/harbinger-failure-consumers-unpopular-products-1223)
+- Jul 16 - [Todo apps are meant for robots](https://frantic.im/todo-for-robots/)
+- Jul 16 - [Threads 24% likely to overtake Twitter, down from 49% say prediction markets](https://www.baseratetimes.com/#Twitter)
+- Jul 16 - [No CSS Club – because no JavaScript was not hardcore enough](https://nocss.club/)
+- Jul 16 - [CSS Findings from the Threads App](https://ishadeed.com/article/threads-app-css/)
+- Jul 16 - [Mk: A Successor to Make [pdf]](http://doc.cat-v.org/bell_labs/mk/mk.pdf)
 <!--END_SECTION:hn-->
 
 <!--
