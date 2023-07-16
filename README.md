@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 16 - [Forth: The programming language that writes itself: The Web Page](http://ratfactor.com/forth/the_programming_language_that_writes_itself.html)
-- Jul 16 - [The Pacific Northwest Tree Octopus](https://zapatopi.net/treeoctopus/)
-- Jul 16 - [Who employs your doctor? Increasingly, a private equity firm](https://www.nytimes.com/2023/07/10/upshot/private-equity-doctors-offices.html)
-- Jul 16 - [SVGmix is a massive collection of free SVG icons and brand logos](https://svgmix.com/)
-- Jul 16 - [What makes developers productive?](https://jeremymikkola.com/posts/developer_productivity.html)
+- Jul 16 - [SEC Formally Accepts BlackRock Spot Bitcoin ETF Application for Review](https://decrypt.co/148752/sec-blackrock-spot-bitcoin-etf-application)
+- Jul 16 - [Shell Script RSS Publishing](https://shinobi.bt.ht/)
+- Jul 16 - [ChatGPT use declines as users complain about ‘dumber’ answers](https://www.techradar.com/computing/artificial-intelligence/chatgpt-use-declines-as-users-complain-about-dumber-answers-and-the-reason-might-be-ais-biggest-threat-for-the-future)
+- Jul 16 - [Google SoundStorm: Efficient Parallel Audio Generation](https://google-research.github.io/seanet/soundstorm/examples/)
+- Jul 16 - [A tutorial quantum interpreter in 150 lines of Lisp](https://www.stylewarning.com/posts/quantum-interpreter/)
 <!--END_SECTION:hn-->
 
 <!--
