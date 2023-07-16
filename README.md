@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 16 - [Todo apps are meant for robots](https://frantic.im/todo-for-robots/)
-- Jul 16 - [Threads 24% likely to overtake Twitter, down from 49% say prediction markets](https://www.baseratetimes.com/#Twitter)
-- Jul 16 - [No CSS Club – because no JavaScript was not hardcore enough](https://nocss.club/)
-- Jul 16 - [CSS Findings from the Threads App](https://ishadeed.com/article/threads-app-css/)
-- Jul 16 - [Mk: A Successor to Make [pdf]](http://doc.cat-v.org/bell_labs/mk/mk.pdf)
+- Jul 16 - [Forth: The programming language that writes itself: The Web Page](http://ratfactor.com/forth/the_programming_language_that_writes_itself.html)
+- Jul 16 - [The Pacific Northwest Tree Octopus](https://zapatopi.net/treeoctopus/)
+- Jul 16 - [Who employs your doctor? Increasingly, a private equity firm](https://www.nytimes.com/2023/07/10/upshot/private-equity-doctors-offices.html)
+- Jul 16 - [SVGmix is a massive collection of free SVG icons and brand logos](https://svgmix.com/)
+- Jul 16 - [What makes developers productive?](https://jeremymikkola.com/posts/developer_productivity.html)
 <!--END_SECTION:hn-->
 
 <!--
