@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 16 - [Teddit Is Shutting Down](https://tedd.it/shutdown)
-- Jul 16 - [WormGPT – The Generative AI Tool Cybercriminals Are Using](https://slashnext.com/blog/wormgpt-the-generative-ai-tool-cybercriminals-are-using-to-launch-business-email-compromise-attacks/)
-- Jul 16 - [A Month on Chimera Linux](https://bitcannon.net/post/a-month-with-chimera-linux/)
-- Jul 16 - [How does Sonic and Knuckles' “Lock-On Technology” work? (2016)](https://retrocomputing.stackexchange.com/questions/1514/how-exactly-does-sonic-knuckles-lock-on-technology-work)
-- Jul 16 - [New study gives clues on why exercise helps with inflammation](https://www.sciencedaily.com/releases/2023/06/230615183114.htm)
+- Jul 16 - [Taskfile: A Modern Alternative to Makefile](https://cloudnativeengineer.substack.com/p/ep-5-taskfile-a-modern-alternative)
+- Jul 16 - [Hundreds of drones plunge into Melbourne’s Yarra River](https://www.abc.net.au/news/2023-07-16/hundreds-of-drones-plunge-into-yarra-river/102607576)
+- Jul 16 - [How I run my servers](https://blog.wesleyac.com/posts/how-i-run-my-servers)
+- Jul 16 - [How to Use AI to Do Stuff: An Opinionated Guide](https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated)
+- Jul 16 - [Are you a “harbinger of failure”? (2015)](https://news.mit.edu/2015/harbinger-failure-consumers-unpopular-products-1223)
 <!--END_SECTION:hn-->
 
 <!--
