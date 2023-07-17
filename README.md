@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 16 - [SEC Formally Accepts BlackRock Spot Bitcoin ETF Application for Review](https://decrypt.co/148752/sec-blackrock-spot-bitcoin-etf-application)
-- Jul 16 - [Shell Script RSS Publishing](https://shinobi.bt.ht/)
-- Jul 16 - [ChatGPT use declines as users complain about ‘dumber’ answers](https://www.techradar.com/computing/artificial-intelligence/chatgpt-use-declines-as-users-complain-about-dumber-answers-and-the-reason-might-be-ais-biggest-threat-for-the-future)
-- Jul 16 - [Google SoundStorm: Efficient Parallel Audio Generation](https://google-research.github.io/seanet/soundstorm/examples/)
-- Jul 16 - [A tutorial quantum interpreter in 150 lines of Lisp](https://www.stylewarning.com/posts/quantum-interpreter/)
+- Jul 16 - [Symbolics CGI production notes: How Stanley and Stella came together (1988)](https://archive.org/details/how-stanley-and-stella-came-together-sgd-s-news-march-1988)
+- Jul 16 - [Red Programming Language](https://www.red-lang.org/p/about.html)
+- Jul 16 - [Undocumented 8086 instructions, explained by the microcode](https://www.righto.com/2023/07/undocumented-8086-instructions.html)
+- Jul 16 - [Grav is a modern open-source flat-file CMS](https://getgrav.org/)
+- Jul 16 - [WebGPU – All of the cores, none of the canvas](https://surma.dev/things/webgpu/)
 <!--END_SECTION:hn-->
 
 <!--
