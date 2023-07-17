@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 16 - [Symbolics CGI production notes: How Stanley and Stella came together (1988)](https://archive.org/details/how-stanley-and-stella-came-together-sgd-s-news-march-1988)
-- Jul 16 - [Red Programming Language](https://www.red-lang.org/p/about.html)
-- Jul 16 - [Undocumented 8086 instructions, explained by the microcode](https://www.righto.com/2023/07/undocumented-8086-instructions.html)
-- Jul 16 - [Grav is a modern open-source flat-file CMS](https://getgrav.org/)
-- Jul 16 - [WebGPU – All of the cores, none of the canvas](https://surma.dev/things/webgpu/)
+- Jul 17 - [Frank fabricated 4.25M customers in JP Morgan fraud case](https://www.nbcnews.com/news/crime-courts/second-frank-financial-aid-executive-charged-jpmorgan-fraud-case-rcna94564)
+- Jul 17 - [LazyVim](https://www.lazyvim.org/)
+- Jul 17 - [Camneerg: The Mac Plus Web Server](https://www.spacerogue.net/Camneerg/)
+- Jul 17 - [Johnson and Johnson sues researchers who linked talc to cancer](https://www.reuters.com/legal/litigation/johnson-johnson-sues-researchers-who-linked-talc-cancer-2023-07-13/)
+- Jul 16 - [LOGO Manual by Abelson, Goodman, and Rudolph (1974) [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/6226/AIM-313.pdf)
 <!--END_SECTION:hn-->
 
 <!--
