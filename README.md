@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 17 - [Facebook, Instagram face Norwegian ban from tracking users for ads](https://www.politico.eu/article/facebook-instagram-norway-ban-track-users-ads/)
-- Jul 17 - [You can deactivate anyone's WhatsApp account by simply sending an email](https://twitter.com/JakeMooreUK/status/1680962682726363136)
-- Jul 17 - [Coroutines for Go](https://research.swtch.com/coro)
-- Jul 17 - [WHO Aspartame Brouhaha](https://dynomight.net/aspartame-brouhaha/)
-- Jul 17 - [Crystal 1.9.1 Is Released](https://crystal-lang.org/2023/07/17/1.9.1-released/)
+- Jul 17 - [Never waste your midlife crisis](https://austinkleon.com/2023/07/10/never-waste-a-midlife-crisis/)
+- Jul 17 - [Couples with Joint Checking Accounts Are Happier](https://academic.oup.com/jcr/advance-article-abstract/doi/10.1093/jcr/ucad020/7077142)
+- Jul 17 - [Incumbents vs. Startups in the AI Race](https://blog.autopilot.fund/incumbents-vs-startups-in-the-ai-race/)
+- Jul 17 - [Official Chrome extension to use iCloud Keychain Passwords](https://chrome.google.com/webstore/detail/icloud-passwords/pejdijmoenmkgeppbflobdenhhabjlaj)
+- Jul 17 - [US vs. Poller: Ruling says police can use iPhones to circumvent tinted windows](https://drive.google.com/file/d/1tFS1wmG8LtYdpvz_w-qnwYwa9Rac8DsZ/view)
 <!--END_SECTION:hn-->
 
 <!--
