@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 18 - [Opening the Codebase Up to Everyone](https://ghiculescu.substack.com/p/opening-the-codebase-up-to-everyone)
-- Jul 18 - [Swig – Connect C/C++ programs with high-level programming languages](https://www.swig.org/)
-- Jul 18 - [Stalwart All-in-One Mail Server (IMAP, JMAP, SMTP)](https://github.com/stalwartlabs/mail-server)
-- Jul 18 - [Generative AI space and the mental imagery of alien minds](https://writings.stephenwolfram.com/2023/07/generative-ai-space-and-the-mental-imagery-of-alien-minds/)
-- Jul 18 - [The Businessmen Broke Hollywood](https://www.theatlantic.com/ideas/archive/2023/07/hollywoods-cruel-strategy/674730/)
+- Jul 18 - [Launch HN: Highlight.io (YC W23) – Open-source, full stack web app monitoring](https://news.ycombinator.com/item?id=36774611)
+- Jul 18 - [Whitewater Rafting on the Selway River in Idaho](https://fromthedesk.substack.com/p/trip-report-rafting-the-selway-to)
+- Jul 18 - [Does MIT consider legacy?](https://mitadmissions.org/help/faq/legacy/)
+- Jul 18 - [The office is a theatre for work (2019)](https://tomcritchlow.com/2019/11/18/yes-and/)
+- Jul 18 - [Framework Laptop 16 pre-orders are now open](https://community.frame.work/t/framework-laptop-16-pre-orders-are-now-open/33828)
 <!--END_SECTION:hn-->
 
 <!--
