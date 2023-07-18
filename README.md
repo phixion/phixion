@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 18 - [Launch HN: Highlight.io (YC W23) – Open-source, full stack web app monitoring](https://news.ycombinator.com/item?id=36774611)
-- Jul 18 - [Whitewater Rafting on the Selway River in Idaho](https://fromthedesk.substack.com/p/trip-report-rafting-the-selway-to)
-- Jul 18 - [Does MIT consider legacy?](https://mitadmissions.org/help/faq/legacy/)
-- Jul 18 - [The office is a theatre for work (2019)](https://tomcritchlow.com/2019/11/18/yes-and/)
-- Jul 18 - [Framework Laptop 16 pre-orders are now open](https://community.frame.work/t/framework-laptop-16-pre-orders-are-now-open/33828)
+- Jul 18 - [Vx32: Portable, efficient, safe user-space execution of untrusted x86 code](https://pdos.csail.mit.edu/~baford/vm/)
+- Jul 18 - [Nintendo 64 Test Cart ROM](https://www.gamingalexandria.com/wp/2023/07/nintendo-64-test-cart-rom/)
+- Jul 18 - [The World Bakes Under Extreme Heat](https://www.wsj.com/articles/extreme-heat-waves-across-the-world-photos-7cc1544d)
+- Jul 18 - [Data Parallel, Task Parallel, and Agent Actor Architectures](https://bytewax.io/blog/data-parallel-task-parallel-and-agent-actor-architectures)
+- Jul 18 - [Citus 12: Schema-based sharding for PostgreSQL](https://www.citusdata.com/blog/2023/07/18/citus-12-schema-based-sharding-for-postgres/)
 <!--END_SECTION:hn-->
 
 <!--
