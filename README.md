@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Jul 18 - [Roblox Developer Conference - 3,943 breached accounts](https://haveibeenpwned.com/PwnedWebsites#RobloxDeveloperConference)
 - Jul 11 - [Vermillion - 8,106 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Vermillion)
 - Jul 10 - [Locally - 362,619 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Locally)
 - Jun 25 - [BreachForums Clone - 4,204 breached accounts](https://haveibeenpwned.com/PwnedWebsites#BreachForumsClone)
 - Jun 10 - [Zacks - 8,929,503 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Zacks)
-- Jun 05 - [JD Group - 521,878 breached accounts](https://haveibeenpwned.com/PwnedWebsites#JDGroup)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 18 - [Vx32: Portable, efficient, safe user-space execution of untrusted x86 code](https://pdos.csail.mit.edu/~baford/vm/)
-- Jul 18 - [Nintendo 64 Test Cart ROM](https://www.gamingalexandria.com/wp/2023/07/nintendo-64-test-cart-rom/)
-- Jul 18 - [The World Bakes Under Extreme Heat](https://www.wsj.com/articles/extreme-heat-waves-across-the-world-photos-7cc1544d)
-- Jul 18 - [Data Parallel, Task Parallel, and Agent Actor Architectures](https://bytewax.io/blog/data-parallel-task-parallel-and-agent-actor-architectures)
-- Jul 18 - [Citus 12: Schema-based sharding for PostgreSQL](https://www.citusdata.com/blog/2023/07/18/citus-12-schema-based-sharding-for-postgres/)
+- Jul 18 - [Ask HN: Anyone else notice that HN isn’t full of JavaScript frameworks lately?](https://news.ycombinator.com/item?id=36780295)
+- Jul 18 - [Gym Class VR (YC W22) Is Hiring Back End Engineering](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-backend-engineer)
+- Jul 18 - [Quantum physicists explained earth’s oscillating weather patterns](https://www.quantamagazine.org/how-quantum-physics-describes-earths-weather-patterns-20230718/)
+- Jul 18 - [Lazydocker: a lazier way to manage everything Docker](https://github.com/jesseduffield/lazydocker)
+- Jul 18 - [Cython 3.0 Released](https://cython.readthedocs.io/en/latest/src/changes.html)
 <!--END_SECTION:hn-->
 
 <!--
