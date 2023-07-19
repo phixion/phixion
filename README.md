@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 18 - [Ask HN: Anyone else notice that HN isn’t full of JavaScript frameworks lately?](https://news.ycombinator.com/item?id=36780295)
-- Jul 18 - [Gym Class VR (YC W22) Is Hiring Back End Engineering](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-backend-engineer)
-- Jul 18 - [Quantum physicists explained earth’s oscillating weather patterns](https://www.quantamagazine.org/how-quantum-physics-describes-earths-weather-patterns-20230718/)
-- Jul 18 - [Lazydocker: a lazier way to manage everything Docker](https://github.com/jesseduffield/lazydocker)
-- Jul 18 - [Cython 3.0 Released](https://cython.readthedocs.io/en/latest/src/changes.html)
+- Jul 19 - [What Happened to Jai Alai? (2013)](https://www.sbnation.com/longform/2013/2/28/4036934/jai-alai-sport-in-america-miami)
+- Jul 19 - [Intel and ASUS Agree to Term Sheet to Take NUC Systems Product Line Forward](https://www.intel.com/content/www/us/en/newsroom/news/intel-nuc-systems-agreement.html)
+- Jul 19 - [Why Marketers Are Afraid of Kindness](https://www.admdnewsletter.com/p/why-marketers-are-afraid-of-kindness)
+- Jul 19 - [(Databricks cofounder) How Is ChatGPT’s Behavior Changing over Time?](https://arxiv.org/abs/2307.09009)
+- Jul 18 - [Enigma Crypto Transmission from KPH at 426 KHz and Shortwave](https://www.radiomarine.org/mrhs-events)
 <!--END_SECTION:hn-->
 
 <!--
