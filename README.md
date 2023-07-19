@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 19 - [Carnegie Mellon, University of Pittsburgh end use of legacy status in admissions](https://triblive.com/news/children-relatives-of-alumni-no-longer-have-admissions-edge-at-carnegie-mellon-pitt/)
-- Jul 19 - [Ask HN: How are you improving your use of LLMs in production?](https://news.ycombinator.com/item?id=36787924)
-- Jul 19 - [Netflix Removes “Basic” Ad-Free Plan in U.S. and U.K](https://www.hollywoodreporter.com/business/digital/netflix-pulls-basic-plan-us-advertising-push-1235539481/)
-- Jul 19 - [Postman acquires Akita for automated API observability](https://blog.postman.com/postman-acquires-akita-for-automated-api-observability/)
-- Jul 19 - [‘No way out’: how video games use tricks from gambling to attract big spenders](https://www.theguardian.com/society/2023/jul/14/video-games-gambling-big-spenders)
+- Jul 19 - [Cucumber: BDD Testing and Collaboration Tools](https://cucumber.io)
+- Jul 19 - [India’s sex workers turn to WhatsApp, Instagram to find clients safely](https://restofworld.org/2023/india-sex-workers-online-safety/)
+- Jul 19 - [Language history and we: the case of “like”](https://blog.oup.com/2023/07/language-history-and-we-the-case-of-like/)
+- Jul 19 - [The single most impor­tant factor that dif­fer­enti­ates front-end frame­works](https://themer.dev/blog/the-single-most-important-factor-that-differentiates-front-end-frameworks)
+- Jul 19 - [Full-text search engine with PostgreSQL (part 2): Postgres vs. Elasticsearch](https://xata.io/blog/postgres-full-text-search-postgres-vs-elasticsearch)
 <!--END_SECTION:hn-->
 
 <!--
