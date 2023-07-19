@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 19 - [What Happened to Jai Alai? (2013)](https://www.sbnation.com/longform/2013/2/28/4036934/jai-alai-sport-in-america-miami)
-- Jul 19 - [Intel and ASUS Agree to Term Sheet to Take NUC Systems Product Line Forward](https://www.intel.com/content/www/us/en/newsroom/news/intel-nuc-systems-agreement.html)
-- Jul 19 - [Why Marketers Are Afraid of Kindness](https://www.admdnewsletter.com/p/why-marketers-are-afraid-of-kindness)
-- Jul 19 - [(Databricks cofounder) How Is ChatGPT’s Behavior Changing over Time?](https://arxiv.org/abs/2307.09009)
-- Jul 18 - [Enigma Crypto Transmission from KPH at 426 KHz and Shortwave](https://www.radiomarine.org/mrhs-events)
+- Jul 19 - [Bitmovin (YC S15) Is Hiring a Senior Software Engineer (Java) in Austria](https://bitmovin.com/careers/senior-software-engineer-java-6834404002/)
+- Jul 19 - [Microsoft faces antitrust scrutiny from the EU over Teams, Office 365](https://www.windowscentral.com/microsoft/microsoft-faces-antitrust-scrutiny-from-the-european-union)
+- Jul 19 - [Async rust – are we doing it all wrong?](https://maciej.codes/2022-06-09-local-async.html)
+- Jul 19 - [Netscape and Sun announce JavaScript (1995)](https://web.archive.org/web/20070916144913/https://wp.netscape.com/newsref/pr/newsrelease67.html)
+- Jul 19 - [Lazygit: Simple terminal UI for Git commands](https://github.com/jesseduffield/lazygit)
 <!--END_SECTION:hn-->
 
 <!--
