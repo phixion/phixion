@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 20 - [UpCodes (YC S17) is hiring a Growth Marketer to make construction efficient](https://up.codes/careers)
-- Jul 20 - [Unshackle: A tool to bypass windows password logins](https://github.com/Fadi002/unshackle)
-- Jul 20 - [The past is not true](https://sive.rs/pnt)
-- Jul 20 - [Hearing aids may cut risk of cognitive decline by nearly half](https://www.washingtonpost.com/wellness/2023/07/19/hearing-loss-hearing-aids-dementia-study/)
-- Jul 20 - [Why project-based learning fails (2018)](https://www.pathsensitive.com/2018/02/the-practice-is-not-performance-why.html)
+- Jul 20 - [Uncensored Library: Banned Journalism Housed in Virtual Minecraft Architecture](https://99percentinvisible.org/article/uncensored-library-virtual-minecraft-architecture-houses-banned-journalism/)
+- Jul 20 - [Fed Opens Service That Dramatically Speeds Up U.S. Payments](https://www.coindesk.com/policy/2023/07/20/us-federal-reserve-kickstarts-fednow-instant-payments/)
+- Jul 20 - [Azorius 0.1](https://flak.tedunangst.com/post/azorius-01)
+- Jul 20 - [FedNow Is Live](https://www.federalreserve.gov/newsevents/pressreleases/other20230720a.htm)
+- Jul 20 - [JPEG XL: How It Started, How It’s Going](https://cloudinary.com/blog/jpeg-xl-how-it-started-how-its-going)
 <!--END_SECTION:hn-->
 
 <!--
