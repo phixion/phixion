@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 20 - [Sidebery – A Firefox extension for managing tabs and bookmarks in sidebar](https://github.com/mbnuqw/sidebery)
-- Jul 20 - [Spy Kids](https://www.cia.gov/spy-kids/games/index.html)
-- Jul 19 - [Kevin Mitnick has died](https://www.dignitymemorial.com/obituaries/las-vegas-nv/kevin-mitnick-11371668)
-- Jul 19 - [The Danger of Popcorn Polymer: Incident at the TPC Group Chemical Plant [video]](https://www.youtube.com/watch?v=6-3BFXpBcjc)
-- Jul 19 - [Novel method of cold water immersion for heat stroke](https://onlinelibrary.wiley.com/doi/epdf/10.1002/emp2.12007)
+- Jul 20 - [SigNoz (YC W21): Open-Source Observability Platform – Is Hiring DevRel Engineers](https://www.ycombinator.com/companies/signoz/jobs/emmP9Zs-developer-relations-engineer-remote-india)
+- Jul 20 - [Something in space has been lighting up every 20 minutes since 1988](https://arstechnica.com/science/2023/07/new-slow-repeating-radio-source-we-have-no-idea-what-it-is/)
+- Jul 20 - [In Memoriam: Hans Petter William Sirevåg Selasky](https://lists.freebsd.org/archives/freebsd-announce/2023-July/000076.html)
+- Jul 20 - [Minigpt4 Inference on CPU](https://github.com/Maknee/minigpt4.cpp)
+- Jul 20 - [This alien-looking airship design used a propulsion method unlike any other](https://www.thedrive.com/the-war-zone/this-alien-looking-airship-design-used-a-propulsion-method-unlike-any-other)
 <!--END_SECTION:hn-->
 
 <!--
