@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 20 - [Sidebery – A Firefox extension for managing tabs and bookmarks in sidebar](https://github.com/mbnuqw/sidebery)
+- Jul 20 - [Spy Kids](https://www.cia.gov/spy-kids/games/index.html)
 - Jul 19 - [Kevin Mitnick has died](https://www.dignitymemorial.com/obituaries/las-vegas-nv/kevin-mitnick-11371668)
 - Jul 19 - [The Danger of Popcorn Polymer: Incident at the TPC Group Chemical Plant [video]](https://www.youtube.com/watch?v=6-3BFXpBcjc)
 - Jul 19 - [Novel method of cold water immersion for heat stroke](https://onlinelibrary.wiley.com/doi/epdf/10.1002/emp2.12007)
-- Jul 19 - [Top Software Trends Reports for 2023](http://www.ofbizian.com/2023/07/top-20-must-read-software-reports.html)
-- Jul 19 - [The open source learning curve for AI researchers](https://www.supervised.news/p/the-open-source-learning-curve-for)
 <!--END_SECTION:hn-->
 
 <!--
