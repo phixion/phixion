@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 20 - [SigNoz (YC W21): Open-Source Observability Platform – Is Hiring DevRel Engineers](https://www.ycombinator.com/companies/signoz/jobs/emmP9Zs-developer-relations-engineer-remote-india)
-- Jul 20 - [Something in space has been lighting up every 20 minutes since 1988](https://arstechnica.com/science/2023/07/new-slow-repeating-radio-source-we-have-no-idea-what-it-is/)
-- Jul 20 - [In Memoriam: Hans Petter William Sirevåg Selasky](https://lists.freebsd.org/archives/freebsd-announce/2023-July/000076.html)
-- Jul 20 - [Minigpt4 Inference on CPU](https://github.com/Maknee/minigpt4.cpp)
-- Jul 20 - [This alien-looking airship design used a propulsion method unlike any other](https://www.thedrive.com/the-war-zone/this-alien-looking-airship-design-used-a-propulsion-method-unlike-any-other)
+- Jul 20 - [UpCodes (YC S17) is hiring a Growth Marketer to make construction efficient](https://up.codes/careers)
+- Jul 20 - [Unshackle: A tool to bypass windows password logins](https://github.com/Fadi002/unshackle)
+- Jul 20 - [The past is not true](https://sive.rs/pnt)
+- Jul 20 - [Hearing aids may cut risk of cognitive decline by nearly half](https://www.washingtonpost.com/wellness/2023/07/19/hearing-loss-hearing-aids-dementia-study/)
+- Jul 20 - [Why project-based learning fails (2018)](https://www.pathsensitive.com/2018/02/the-practice-is-not-performance-why.html)
 <!--END_SECTION:hn-->
 
 <!--
