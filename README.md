@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 20 - [IRS moves forward with a new free-file tax return system](https://www.pbs.org/newshour/politics/irs-moves-forward-with-a-new-free-file-tax-return-system-that-has-both-supporters-and-critics-mobilizing)
-- Jul 20 - [Shelter Protocol: End-to-End Encrypted, Federated, User-Friendly Web Apps](https://shelterprotocol.net)
-- Jul 20 - [In 1961 a Gallup poll showed only 33% of Americans in favor of moon landing](https://newsletter.pessimistsarchive.org/p/the-moon-landing-was-opposed-by-majority)
-- Jul 20 - [Wiio’s laws: Communication usually fails, except by accident](https://en.wikipedia.org/wiki/Wiio%27s_laws)
-- Jul 20 - [Custom Instructions for ChatGPT](https://openai.com/blog/custom-instructions-for-chatgpt)
+- Jul 20 - [Hollywood Movie Aside, Just How Good a Physicist Was Oppenheimer?](https://www.science.org/content/article/movie-adds-oppenheimer-s-celebrity-just-how-good-physicist-was-he)
+- Jul 20 - [An Invitation to a Secret Society](https://www.experimental-history.com/p/an-invitation-to-a-secret-society)
+- Jul 20 - [A 17th-century font in a 21st-century thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
+- Jul 20 - [My Beautiful Friend](https://thepointmag.com/examined-life/my-beautiful-friend/)
+- Jul 20 - [Good code is like a love letter to the next developer who will maintain it](https://addyosmani.com/blog/good-code/)
 <!--END_SECTION:hn-->
 
 <!--
