@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 21 - [EU AI Act, the first ML law, is expected to come into force by early 2024](https://www.infoq.com/news/2023/07/eu-ai-act/)
-- Jul 21 - [Proofs from the Book](https://en.wikipedia.org/wiki/Proofs_from_THE_BOOK)
-- Jul 21 - [Tell HN: Upgrade your Metabase installation immediately](https://github.com/metabase/metabase/releases/tag/v0.46.6.1)
-- Jul 21 - [Small Joys with Odin](http://www.zannzen.com/blog/small_joys_with_odin_1/)
-- Jul 21 - [I have written a JVM in Rust](https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/)
+- Jul 21 - [Farmworkers thought a new overtime law would help them. Now, they want it gone](https://text.npr.org/1188258994)
+- Jul 21 - [Busiest day ever for electric vehicle charging predicted on UK roads](https://www.fleetnews.co.uk/news/latest-fleet-news/electric-fleet-news/2023/07/20/busiest-day-ever-for-electric-vehicle-charging-predicted-on-uk-roads)
+- Jul 21 - [By 2028 there must be fast chargers every 60 km on the EU’s key motorways](https://www.fleeteurope.com/en/new-energies/europe/article/fast-chargers-every-60-km-key-eu-motorways?a=FJA05&t%5B0%5D=Charging&curl=1)
+- Jul 21 - [India’s ban on rice exports raises fear of global food price rises](https://www.theguardian.com/business/2023/jul/21/india-ban-on-rice-exports-raises-fear-of-global-food-price-rises)
+- Jul 21 - [The 115F Heat Is Killing Phones in Sardinia](https://www.bloomberg.com/news/articles/2023-07-19/dying-phones-wilting-cyclists-epicenter-of-europe-heat-wave-has-grim-warnings)
 <!--END_SECTION:hn-->
 
 <!--
