@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 21 - [Ask HN: What are some low cost payment processing alternatives to Stripe?](https://news.ycombinator.com/item?id=36811026)
-- Jul 21 - [Nanosecond timestamp collisions are common](https://www.evanjones.ca/nanosecond-collisions.html)
-- Jul 21 - [LLM Constellation](https://llmconstellation.olafblitz.repl.co/)
-- Jul 21 - [Amazon shuts down customer’s smart home](https://forums.macrumors.com/threads/amazon-shuts-down-customers-smart-home.2392704/)
-- Jul 21 - [Study finds billions of nanoplastics released when microwaving containers](https://news.unl.edu/newsrooms/today/article/nebraska-study-finds-billions-of-nanoplastics-released-when-microwaving/)
+- Jul 21 - [EU AI Act, the first ML law, is expected to come into force by early 2024](https://www.infoq.com/news/2023/07/eu-ai-act/)
+- Jul 21 - [Proofs from the Book](https://en.wikipedia.org/wiki/Proofs_from_THE_BOOK)
+- Jul 21 - [Tell HN: Upgrade your Metabase installation immediately](https://github.com/metabase/metabase/releases/tag/v0.46.6.1)
+- Jul 21 - [Small Joys with Odin](http://www.zannzen.com/blog/small_joys_with_odin_1/)
+- Jul 21 - [I have written a JVM in Rust](https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/)
 <!--END_SECTION:hn-->
 
 <!--
