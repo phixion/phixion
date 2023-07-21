@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 21 - [Farmworkers thought a new overtime law would help them. Now, they want it gone](https://text.npr.org/1188258994)
-- Jul 21 - [Busiest day ever for electric vehicle charging predicted on UK roads](https://www.fleetnews.co.uk/news/latest-fleet-news/electric-fleet-news/2023/07/20/busiest-day-ever-for-electric-vehicle-charging-predicted-on-uk-roads)
-- Jul 21 - [By 2028 there must be fast chargers every 60 km on the EU’s key motorways](https://www.fleeteurope.com/en/new-energies/europe/article/fast-chargers-every-60-km-key-eu-motorways?a=FJA05&t%5B0%5D=Charging&curl=1)
-- Jul 21 - [India’s ban on rice exports raises fear of global food price rises](https://www.theguardian.com/business/2023/jul/21/india-ban-on-rice-exports-raises-fear-of-global-food-price-rises)
-- Jul 21 - [The 115F Heat Is Killing Phones in Sardinia](https://www.bloomberg.com/news/articles/2023-07-19/dying-phones-wilting-cyclists-epicenter-of-europe-heat-wave-has-grim-warnings)
+- Jul 21 - [Slackware Linux Distribution Turns 30 Years Old](https://www.theregister.com/2023/07/20/slackware_turns_30/)
+- Jul 21 - [Why Did Meta Open-Source Llama 2?](https://matt-rickard.com/why-did-meta-open-source-llama)
+- Jul 21 - [IMAX emulates PalmPilot software to power Oppenheimer’s 70 mm release](https://arstechnica.com/gadgets/2023/07/imax-emulates-palmpilot-software-to-power-oppenheimers-70-mm-release/)
+- Jul 21 - [As AI porn generators get better, the stakes get higher](https://techcrunch.com/2023/07/21/as-ai-porn-generators-get-better-the-stakes-raise/)
+- Jul 21 - [Stay or Leave: Manager Admitted I am on PIP because quota](https://www.teamblind.com/post/Stay-or-Leave-Manager-Admitted-I-am-on-PIP-because-quota-QVfiZ64y)
 <!--END_SECTION:hn-->
 
 <!--
