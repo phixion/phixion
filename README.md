@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 21 - [An A.I. Supercomputer Whirs to Life, Powered by Giant Computer Chips](https://www.nytimes.com/2023/07/20/technology/an-ai-supercomputer-whirs-to-life-powered-by-giant-computer-chips.html)
-- Jul 21 - [Crockford on JSON license (2011)](https://gist.github.com/kemitchell/fdc179d60dc88f0c9b76e5d38fe47076)
-- Jul 21 - [Hardware Hacking (2004) [pdf]](http://www.nicolascollins.com/texts/originalhackingmanual.pdf)
-- Jul 21 - [FTC warns board game content creators, publishers to disclose relationships](https://boardgamewire.com/index.php/2023/07/17/ftc-warns-board-game-influencers-publishers-over-failing-to-properly-disclose-relationships-free-gifts/)
-- Jul 20 - [Fly.io Postgres cluster down for 3 days, no word from them about it](https://webcache.googleusercontent.com/search?q=cache:2T9NpG8thZgJ:https://community.fly.io/t/service-interruption-cant-destroy-machine-deploy-or-restart/14227&cd=9&hl=en&ct=clnk&gl=au)
+- Jul 21 - [Ask HN: What are some low cost payment processing alternatives to Stripe?](https://news.ycombinator.com/item?id=36811026)
+- Jul 21 - [Nanosecond timestamp collisions are common](https://www.evanjones.ca/nanosecond-collisions.html)
+- Jul 21 - [LLM Constellation](https://llmconstellation.olafblitz.repl.co/)
+- Jul 21 - [Amazon shuts down customer’s smart home](https://forums.macrumors.com/threads/amazon-shuts-down-customers-smart-home.2392704/)
+- Jul 21 - [Study finds billions of nanoplastics released when microwaving containers](https://news.unl.edu/newsrooms/today/article/nebraska-study-finds-billions-of-nanoplastics-released-when-microwaving/)
 <!--END_SECTION:hn-->
 
 <!--
