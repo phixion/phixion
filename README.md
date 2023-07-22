@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 21 - [Hollywood is on strike because CEOs fell for Silicon Valley’s magical thinking](https://www.latimes.com/business/technology/story/2023-07-21/column-hollywood-sag-aftra-strike-strike-silicon-valleys-magical-thinking)
-- Jul 21 - [Computer chip with built-in human brain tissue gets military funding](https://newatlas.com/computers/human-brain-chip-ai/)
-- Jul 21 - [Cooking Air Quality](https://www.jefftk.com/p/cooking-air-quality)
-- Jul 21 - [NativePHP: A framework for building desktop apps using PHP](https://nativephp.com/docs/1/getting-started/introduction)
-- Jul 21 - [Managing Kitchen Fruit Flies with a Little Shop of Horrors](https://blog.zaccohn.com/Fruitflies-and-the-Little-Shop-of-Horrors/)
+- Jul 22 - [Internet Search Tips](https://gwern.net/search)
+- Jul 22 - [FBI improperly used 702 surveillance powers on US senator](https://thehill.com/homenews/administration/4110850-fbi-improperly-used-702-surveillance-powers-on-us-senator/)
+- Jul 22 - [Discovery: Metals can heal themselves](https://newsreleases.sandia.gov/healing_metals/)
+- Jul 22 - [Facebook denies cookie tracking allegations (2011)](https://www.zdnet.com/article/facebook-denies-cookie-tracking-allegations/)
+- Jul 22 - [Using Prolog in Windows NT Network Configuration (1996)](https://web.archive.org/web/20030218034509/http://www.research.microsoft.com/research/dtg/davidhov/pap.htm)
 <!--END_SECTION:hn-->
 
 <!--
