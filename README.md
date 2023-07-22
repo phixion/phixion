@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 21 - [Slackware Linux Distribution Turns 30 Years Old](https://www.theregister.com/2023/07/20/slackware_turns_30/)
-- Jul 21 - [Why Did Meta Open-Source Llama 2?](https://matt-rickard.com/why-did-meta-open-source-llama)
-- Jul 21 - [IMAX emulates PalmPilot software to power Oppenheimer’s 70 mm release](https://arstechnica.com/gadgets/2023/07/imax-emulates-palmpilot-software-to-power-oppenheimers-70-mm-release/)
-- Jul 21 - [As AI porn generators get better, the stakes get higher](https://techcrunch.com/2023/07/21/as-ai-porn-generators-get-better-the-stakes-raise/)
-- Jul 21 - [Stay or Leave: Manager Admitted I am on PIP because quota](https://www.teamblind.com/post/Stay-or-Leave-Manager-Admitted-I-am-on-PIP-because-quota-QVfiZ64y)
+- Jul 21 - [Hollywood is on strike because CEOs fell for Silicon Valley’s magical thinking](https://www.latimes.com/business/technology/story/2023-07-21/column-hollywood-sag-aftra-strike-strike-silicon-valleys-magical-thinking)
+- Jul 21 - [Computer chip with built-in human brain tissue gets military funding](https://newatlas.com/computers/human-brain-chip-ai/)
+- Jul 21 - [Cooking Air Quality](https://www.jefftk.com/p/cooking-air-quality)
+- Jul 21 - [NativePHP: A framework for building desktop apps using PHP](https://nativephp.com/docs/1/getting-started/introduction)
+- Jul 21 - [Managing Kitchen Fruit Flies with a Little Shop of Horrors](https://blog.zaccohn.com/Fruitflies-and-the-Little-Shop-of-Horrors/)
 <!--END_SECTION:hn-->
 
 <!--
