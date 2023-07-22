@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 22 - [Climate records tumble, leaving Earth in uncharted territory – scientists](https://www.bbc.com/news/science-environment-66229065)
-- Jul 22 - [Bun v0.7.0](https://bun.sh/blog/bun-v0.7.0)
-- Jul 22 - [Putting the “You” in CPU](https://cpu.land/)
-- Jul 22 - [Apple's interactive television box: Hacking the set top box System 7.1 in ROM](http://oldvcr.blogspot.com/2023/07/apples-interactive-television-box.html)
-- Jul 22 - [ElKaWe – Electrocaloric heat pumps](https://www.fraunhofer.de/en/research/lighthouse-projects-fraunhofer-initiatives/fraunhofer-lighthouse-projects/elkawe.html)
+- Jul 22 - [Simpson Fan Grows Tomacco](https://www.simpsonsarchive.com/news/tomacco.html)
+- Jul 22 - [Over-grazing and desertification in the Syrian steppe root causes of war (2015)](https://theecologist.org/2015/jun/05/over-grazing-and-desertification-syrian-steppe-are-root-causes-war)
+- Jul 22 - [Octos – HTML live wallpaper engine](https://github.com/underpig1/octos)
+- Jul 22 - [Plane – open-source Jira alternative](https://plane.so)
+- Jul 22 - [Biotumen: Bitumen Reinvented](https://biofabrik.com/biotumen/)
 <!--END_SECTION:hn-->
 
 <!--
