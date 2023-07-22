@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 22 - [Internet Search Tips](https://gwern.net/search)
-- Jul 22 - [FBI improperly used 702 surveillance powers on US senator](https://thehill.com/homenews/administration/4110850-fbi-improperly-used-702-surveillance-powers-on-us-senator/)
-- Jul 22 - [Discovery: Metals can heal themselves](https://newsreleases.sandia.gov/healing_metals/)
-- Jul 22 - [Facebook denies cookie tracking allegations (2011)](https://www.zdnet.com/article/facebook-denies-cookie-tracking-allegations/)
-- Jul 22 - [Using Prolog in Windows NT Network Configuration (1996)](https://web.archive.org/web/20030218034509/http://www.research.microsoft.com/research/dtg/davidhov/pap.htm)
+- Jul 22 - [Climate records tumble, leaving Earth in uncharted territory – scientists](https://www.bbc.com/news/science-environment-66229065)
+- Jul 22 - [Bun v0.7.0](https://bun.sh/blog/bun-v0.7.0)
+- Jul 22 - [Putting the “You” in CPU](https://cpu.land/)
+- Jul 22 - [Apple's interactive television box: Hacking the set top box System 7.1 in ROM](http://oldvcr.blogspot.com/2023/07/apples-interactive-television-box.html)
+- Jul 22 - [ElKaWe – Electrocaloric heat pumps](https://www.fraunhofer.de/en/research/lighthouse-projects-fraunhofer-initiatives/fraunhofer-lighthouse-projects/elkawe.html)
 <!--END_SECTION:hn-->
 
 <!--
