@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 23 - [Ask HN: Why do web sites not place the cursor for input?](https://news.ycombinator.com/item?id=36836189)
-- Jul 23 - [Don't Learn Value from Society](https://www.palladiummag.com/2023/07/13/dont-learn-your-values-from-society/)
-- Jul 23 - [What Happened the Night an Audience Member Filled in for Keith Moon (2016)](https://www.loudersound.com/features/what-happened-the-night-an-audience-member-filled-in-for-keith-moon)
-- Jul 23 - [‘Training My Replacement’: Inside a Call Center Worker’s Battle with A.I](https://www.nytimes.com/2023/07/19/business/call-center-workers-battle-with-ai.html)
-- Jul 23 - [MOVEit body count closes in on 400 orgs, 20M+ individuals](https://www.theregister.com/2023/07/20/moveit_victim_count/)
+- Jul 23 - [Llama2.c: inference llama 2 in one file of pure C](https://github.com/karpathy/llama2.c)
+- Jul 23 - [Queen guitarist and astrophysicist Brian May to release 3D atlas of asteroid](https://www.theguardian.com/science/2023/jul/23/queen-brian-may-3d-atlas-bennu-asteroid)
+- Jul 23 - [Why Host Datacenter in Kosovo?](https://basehost.eu/)
+- Jul 23 - [Show HN: High school transcript generator for homeschoolers](https://www.greatbookshomeschool.com/free-high-school-transcript-generator)
+- Jul 23 - [Want fewer car accidents? Remove traffic signals and road signs (2017)](https://bigthink.com/the-present/want-less-car-accidents-get-rid-of-traffic-signals-road-signs/)
 <!--END_SECTION:hn-->
 
 <!--
