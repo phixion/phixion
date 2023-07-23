@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 23 - [Stable Diffusion and ControlNet: “Hidden” Text (see thumbnail vs. full image)](https://old.reddit.com/r/StableDiffusion/comments/1561k15/free_tool_to_generate_hidden_text_using_stable/)
+- Jul 23 - [Researchers Say They Found IP Addresses for ‘Anonymous’ Econ Forum Posts](https://www.insidehighered.com/news/faculty-issues/diversity-equity/2023/07/20/study-says-it-found-ip-addresses-anonymous-ejmr)
+- Jul 23 - [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/abs/2307.08621)
+- Jul 23 - [Jaron Lanier – What My Musical Instruments Have Taught Me](https://www.newyorker.com/culture/the-weekend-essay/what-my-musical-instruments-have-taught-me)
 - Jul 22 - [CoQ4 is a functional substitute for CoQ10 and can be targeted to mitochondria](https://www.biorxiv.org/content/10.1101/2023.07.20.549963v2)
-- Jul 22 - [AOL pulls Nullsoft file-sharing software WASTE (2003)](https://web.archive.org/web/20030810194502/http://news.com.com/2100-1032_3-1011585.html)
-- Jul 22 - [Reinventing the E.R. for America’s mental-health crisis](https://www.newyorker.com/science/annals-of-medicine/reinventing-the-er-for-americas-mental-health-crisis)
-- Jul 22 - [Were small-brained early humans intelligent? Row erupts over scientists’ claim](https://www.theguardian.com/science/2023/jul/22/small-brained-early-humans-homo-naledi-cleverer-storm)
-- Jul 22 - [Vimspector – the Vim debugger rules all](https://puremourning.github.io/vimspector-web/)
 <!--END_SECTION:hn-->
 
 <!--
