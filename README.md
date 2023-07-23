@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 23 - [South Pole Signage](https://brr.fyi/posts/south-pole-signage)
-- Jul 23 - [A History of Neural Networks](https://royalsocietypublishing.org/doi/10.1098/rsos.221454)
-- Jul 23 - [EasyGraph: A Comprehensive Tool for Graph Analysis and Social Computing](https://github.com/easy-graph/Easy-Graph)
-- Jul 23 - [Stable Diffusion and ControlNet: “Hidden” Text (see thumbnail vs. full image)](https://old.reddit.com/r/StableDiffusion/comments/1561k15/free_tool_to_generate_hidden_text_using_stable/)
-- Jul 23 - [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/abs/2307.08621)
+- Jul 23 - [Down and Out in the Magic Kingdom](https://www.gutenberg.org/files/8086/8086-h/8086-h.htm)
+- Jul 23 - [Deutsche Bank's “dysfunctional” IT division (2018)](https://www.efinancialcareers.co.uk/news/2018/04/technology-at-deutsche-bank)
+- Jul 23 - [Scientists hit with massive bills after speaking at COVID-19 ‘webinars’](https://www.science.org/content/article/costly-invite-scientists-hit-with-massive-bills-after-speaking-at-covid-19-conferences)
+- Jul 23 - [50 Years of Text Games parses the rich history of a foundational genre](https://arstechnica.com/gaming/2023/06/50-years-of-text-games-parses-the-rich-history-of-a-foundational-genre/)
+- Jul 23 - [What every IT person needs to know about OpenBSD](https://nxdomain.no/~peter/what_every_it_person_needs_to_know_about_openbsd.html)
 <!--END_SECTION:hn-->
 
 <!--
