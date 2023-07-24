@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 24 - [The “Three Things” Exercise for getting things out of talks](https://math.stanford.edu/~vakil/threethings.html)
-- Jul 24 - [Court strikes down limits on filming of police in Arizona](https://apnews.com/article/arizona-cant-limit-filming-of-police-a7a7ad0fe5b421d416ec3477d0795707)
-- Jul 24 - [Welcome Debian riscv64](https://blog.aurel32.net/welcome-debian-riscv64.html)
-- Jul 24 - [U.S. Senate bill crafted with DEA targets end-to-end encryption](https://therecord.media/senate-dea-bill-targets-end-to-end-encryption-requires-companies-to-report-drugs)
-- Jul 23 - [VirtualBox 7.0.10 download links have disappeared](https://web.archive.org/web/20230723100307/https://www.virtualbox.org/wiki/Downloads)
+- Jul 24 - [Inkscape 1.3](https://inkscape.org/news/2023/07/23/inkscape-launches-version-13-focus-organizing-work/)
+- Jul 24 - [Ubisoft account -including games- can be permanently deleted for inactivity](https://www.pcgamer.com/your-ubisoft-account-can-be-suspended-and-subsequently-permanently-deleted-for-inactivity-taking-your-games-library-with-it/)
+- Jul 24 - [Kareem Abdul-Jabbar: Bruce Lee and Me](https://kareem.substack.com/p/bruce-lee-and-me)
+- Jul 24 - [Sam Altman’s Worldcoin Token to Launch Monday](https://www.bloomberg.com/news/articles/2023-07-24/sam-altman-s-worldcoin-token-to-launch-monday-semafor-reports)
+- Jul 24 - [Optimism, Hubris, and Strategic Misrepresentation](https://albertcory50.substack.com/p/optimism-hubris-and-strategic-misrepresentation)
 <!--END_SECTION:hn-->
 
 <!--
