@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 23 - [Llama2.c: inference llama 2 in one file of pure C](https://github.com/karpathy/llama2.c)
-- Jul 23 - [Queen guitarist and astrophysicist Brian May to release 3D atlas of asteroid](https://www.theguardian.com/science/2023/jul/23/queen-brian-may-3d-atlas-bennu-asteroid)
-- Jul 23 - [Why Host Datacenter in Kosovo?](https://basehost.eu/)
-- Jul 23 - [Show HN: High school transcript generator for homeschoolers](https://www.greatbookshomeschool.com/free-high-school-transcript-generator)
-- Jul 23 - [Want fewer car accidents? Remove traffic signals and road signs (2017)](https://bigthink.com/the-present/want-less-car-accidents-get-rid-of-traffic-signals-road-signs/)
+- Jul 23 - [Why Frames Tilt Forward (2015)](https://chcollins.com/100Billion/2015/02/why-frames-tilt-forward/)
+- Jul 23 - [Is a ‘polyepidemic’ humanity’s next big threat?](https://www.science.org/content/article/polyepidemic-humanity-s-next-big-threat-childhood-vaccine-crusader-shares-concerns)
+- Jul 23 - [In Which I Claim Rich Hickey Is Wrong (2020)](https://blog.jonstodle.com/in-which-i-claim-rich-hickey-is-wrong/)
+- Jul 23 - [All Foster Kids in California Can Now Attend Any State College for Free](https://themessenger.com/news/all-foster-kids-in-california-can-now-attend-any-state-college-for-free)
+- Jul 23 - [Never run ldd on unknown executables](https://catonmat.net/ldd-arbitrary-code-execution)
 <!--END_SECTION:hn-->
 
 <!--
