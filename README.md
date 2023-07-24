@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 23 - [Why Frames Tilt Forward (2015)](https://chcollins.com/100Billion/2015/02/why-frames-tilt-forward/)
-- Jul 23 - [Is a ‘polyepidemic’ humanity’s next big threat?](https://www.science.org/content/article/polyepidemic-humanity-s-next-big-threat-childhood-vaccine-crusader-shares-concerns)
-- Jul 23 - [In Which I Claim Rich Hickey Is Wrong (2020)](https://blog.jonstodle.com/in-which-i-claim-rich-hickey-is-wrong/)
-- Jul 23 - [All Foster Kids in California Can Now Attend Any State College for Free](https://themessenger.com/news/all-foster-kids-in-california-can-now-attend-any-state-college-for-free)
-- Jul 23 - [Never run ldd on unknown executables](https://catonmat.net/ldd-arbitrary-code-execution)
+- Jul 24 - [The “Three Things” Exercise for getting things out of talks](https://math.stanford.edu/~vakil/threethings.html)
+- Jul 24 - [Court strikes down limits on filming of police in Arizona](https://apnews.com/article/arizona-cant-limit-filming-of-police-a7a7ad0fe5b421d416ec3477d0795707)
+- Jul 24 - [Welcome Debian riscv64](https://blog.aurel32.net/welcome-debian-riscv64.html)
+- Jul 24 - [U.S. Senate bill crafted with DEA targets end-to-end encryption](https://therecord.media/senate-dea-bill-targets-end-to-end-encryption-requires-companies-to-report-drugs)
+- Jul 23 - [VirtualBox 7.0.10 download links have disappeared](https://web.archive.org/web/20230723100307/https://www.virtualbox.org/wiki/Downloads)
 <!--END_SECTION:hn-->
 
 <!--
