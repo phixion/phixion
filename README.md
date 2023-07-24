@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 24 - [The IBM mainframe: How it runs and why it survives](https://arstechnica.com/information-technology/2023/07/the-ibm-mainframe-how-it-runs-and-why-it-survives/)
+- Jul 24 - [Unicode Character “𝕏” (U+1D54F)](https://www.compart.com/en/unicode/U+1D54F)
+- Jul 24 - [Twitter has officially changed its logo to ‘X’](https://techcrunch.com/2023/07/24/twitter-has-officially-changed-its-logo-to-x/)
+- Jul 24 - [Ask HN: Looking for a Firefox compatible extension for voice controlled actions](https://news.ycombinator.com/item?id=36844415)
 - Jul 24 - [Inkscape 1.3](https://inkscape.org/news/2023/07/23/inkscape-launches-version-13-focus-organizing-work/)
-- Jul 24 - [Ubisoft account -including games- can be permanently deleted for inactivity](https://www.pcgamer.com/your-ubisoft-account-can-be-suspended-and-subsequently-permanently-deleted-for-inactivity-taking-your-games-library-with-it/)
-- Jul 24 - [Kareem Abdul-Jabbar: Bruce Lee and Me](https://kareem.substack.com/p/bruce-lee-and-me)
-- Jul 24 - [Sam Altman’s Worldcoin Token to Launch Monday](https://www.bloomberg.com/news/articles/2023-07-24/sam-altman-s-worldcoin-token-to-launch-monday-semafor-reports)
-- Jul 24 - [Optimism, Hubris, and Strategic Misrepresentation](https://albertcory50.substack.com/p/optimism-hubris-and-strategic-misrepresentation)
 <!--END_SECTION:hn-->
 
 <!--
