@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 24 - [X, the moonshot factory](https://x.company/)
-- Jul 24 - [You Don't Know Jack about Application Performance](https://queue.acm.org/detail.cfm?id=3595862)
-- Jul 24 - [Publishers want billions, not millions, from AI](https://www.semafor.com/article/07/23/2023/publishers-want-billions-not-millions-from-ai)
-- Jul 24 - [TikTok is adding text posts](https://www.theverge.com/2023/7/24/23805530/tiktok-text-posts-micro-blogging-twitter-threads)
-- Jul 24 - [Wasm_of_OCaml](https://github.com/ocaml-wasm/wasm_of_ocaml)
+- Jul 24 - [Time, Clocks, and the Ordering of Events in a Distributed System – Paper Review](https://percisely.xyz/syncronicity)
+- Jul 24 - [Show HN: Browser extension replacing the X with the original Twitter logo](https://github.com/emvi/xbegone)
+- Jul 24 - [A simple guide to fine-tuning Llama 2](https://brev.dev/blog/fine-tuning-llama-2)
+- Jul 24 - [Scientists invent double-sided solar panel that generates way more electricity](https://www.independent.co.uk/tech/solar-panel-perovskite-double-sided-b2378337.html)
+- Jul 24 - [Elixir Is (Still) Safe](https://paraxial.io/blog/still-safe)
 <!--END_SECTION:hn-->
 
 <!--
