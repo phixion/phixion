@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 25 - [YouTube is banning links to filmmusic (free music provider), appeal doesn't work](https://news.ycombinator.com/item?id=36858642)
+- Jul 25 - [Textual Paint – MS Paint in your terminal](https://github.com/1j01/textual-paint)
+- Jul 25 - [From Python to Elixir Machine Learning](https://www.thestackcanary.com/from-python-pytorch-to-elixir-nx/)
+- Jul 25 - [I've skimmed 66520 newsgroups trying to find some life on the Usenet (2020)](https://mastodon.sdf.org/@cfenollosa/103469996345323076)
 - Jul 25 - [The 1990s Amiga with Video Toaster has a VFX cool factor that endures today](https://cdm.link/2023/07/amiga-video-toaster-cool-factor/)
-- Jul 25 - [Contributor to Google's WEI repo: So, you don't like a web platform proposal](https://blog.yoav.ws/posts/web_platform_change_you_do_not_like/)
 - Jul 25 - [Parents, environmentalists to Google: stop Chromebooks from expiring this summer](https://pirg.org/edfund/resources/chromebook-expiration-full-letter/)
-- Jul 25 - [Got called to a professor’s office after a complaint his SPARC4 was running slow](https://infosec.exchange/@paco/110772422266480371)
 <!--END_SECTION:hn-->
 
 <!--
