@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 25 - [Mozilla Standards Positions Opposes Web Integrity API](https://github.com/mozilla/standards-positions/issues/852)
+- Jul 25 - [Researchers find evidence of a 2000 year old curry, oldest ever found in SE Asia](https://phys.org/news/2023-07-evidence-year-old-curry-oldest-southeast.html)
+- Jul 25 - [Twitter’s Rebrand to X Could Be a Trademark Nightmare Thanks to Microsoft](https://themessenger.com/tech/twitters-rebrand-to-x-could-be-a-trademark-nightmare-thanks-to-microsoft)
 - Jul 24 - [Byron Bay data breach victim told to pay Adidas, NBA $1.2M by US courts](https://www.abc.net.au/news/2023-07-25/byron-bay-data-breach-victim-adidas-nab-us-court-action-damages/102575726)
 - Jul 24 - [Vscode.dev: Local Development with Cloud Tools](https://vscode.dev/)
-- Jul 24 - [JSON Feed: An Atom/RSS feed alternative](https://www.jsonfeed.org/)
-- Jul 24 - [Cephalopods use RNA editing to modify their nervous sytems](https://pubmed.ncbi.nlm.nih.gov/28388405/)
-- Jul 24 - [Evolution of the Unix System Architecture: An Exploratory Case Study](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8704965#fromHistory)
 <!--END_SECTION:hn-->
 
 <!--
