@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 26 - [Lago (YC S21) – Open-Source Stripe Billing and Chargebee Alternative Is Hiring](https://www.ycombinator.com/companies/lago/jobs)
-- Jul 26 - [Show HN: Django Admin Site Customization Tutorial](https://appliku.com/post/customize-django-admin-interface)
-- Jul 26 - [How MOS 6502 Illegal Opcodes work](https://www.pagetable.com/?p=39)
-- Jul 26 - [NASA funds 11 moon projects to help mission to 'live off the land](https://www.washingtonpost.com/technology/2023/07/25/nasa-moon-artemis/)
-- Jul 26 - [Google engineers want to make ad-blocking (near) impossible](https://stackdiary.com/web-environment-integrity/)
+- Jul 26 - [Live: UFO/UAP Congressional Hearings](https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates)
+- Jul 26 - [Ask HN: Visiting SF on a Budget?](https://news.ycombinator.com/item?id=36879141)
+- Jul 26 - [Quad9 Blocks Pirate Site Globally After Sony Demanded €10k Fine](https://torrentfreak.com/quad9-blocks-pirate-site-globally-after-sony-demanded-e10000-fine-230725/)
+- Jul 26 - [As Actors Strike for AI Protections, Netflix Lists $900k AI Job](https://theintercept.com/2023/07/25/strike-hollywood-ai-disney-netflix/)
+- Jul 26 - [Norwegian shipping company bans electric cars on board classic ferry route](https://ctif.org/news/norwegian-shipping-company-bans-electric-cars-board-classic-ferry-route)
 <!--END_SECTION:hn-->
 
 <!--
