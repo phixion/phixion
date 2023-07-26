@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 26 - [Big Tech's Takeover and Destruction of Open Protocols and Networks](https://cheapskatesguide.org/articles/big-tech-takeovers.html)
-- Jul 26 - [Generation of MT magnetic fields by intense-laser-driven microtube implosions](https://arxiv.org/abs/2009.00828)
+- Jul 26 - [Systemctl –Force –Force Reboot](https://news.ycombinator.com/item?id=36873927)
+- Jul 26 - [Scientists Say Recycling Has Backfired Spectacularly](https://futurism.com/the-byte/scientists-recycling-backfired)
+- Jul 26 - [Netlify accounts are being suspended with no recourse](https://answers.netlify.com/t/my-netlify-account-ha-been-suspended-i-dont-know-why/97537)
 - Jul 26 - [HBM’s Future: Necessary but Expensive](https://semiengineering.com/hbms-future-necessary-but-expensive/)
-- Jul 26 - [FTC readies lawsuit that could break up Amazon](https://www.politico.com/news/2023/07/25/ftc-lawsuit-break-up-amazon-00108130)
 - Jul 26 - [Google abandons work to move Assistant smart speakers to Fuchsia](https://9to5google.com/2023/07/25/google-abandons-assistant-speakers-fuchsia/)
 <!--END_SECTION:hn-->
 
