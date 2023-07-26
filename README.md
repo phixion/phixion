@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 26 - [Live: UFO/UAP Congressional Hearings](https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates)
-- Jul 26 - [Ask HN: Visiting SF on a Budget?](https://news.ycombinator.com/item?id=36879141)
-- Jul 26 - [Quad9 Blocks Pirate Site Globally After Sony Demanded €10k Fine](https://torrentfreak.com/quad9-blocks-pirate-site-globally-after-sony-demanded-e10000-fine-230725/)
-- Jul 26 - [As Actors Strike for AI Protections, Netflix Lists $900k AI Job](https://theintercept.com/2023/07/25/strike-hollywood-ai-disney-netflix/)
-- Jul 26 - [Norwegian shipping company bans electric cars on board classic ferry route](https://ctif.org/news/norwegian-shipping-company-bans-electric-cars-board-classic-ferry-route)
+- Jul 26 - [Staying ahead of the AMD vulnerability known as “Zenbleed”](https://blog.cloudflare.com/zenbleed-vulnerability/)
+- Jul 26 - [US conducted ‘multi-decade’ secret UFO program, ex-intelligence official says](https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch)
+- Jul 26 - [How to build toxic software teams](https://badsoftwareadvice.substack.com/p/how-to-build-toxic-software-teams)
+- Jul 26 - [Apple's infamously strict on App Store rules but gives WeChat a free pass (2020)](https://reclaimthenet.org/apple-app-store-wechat-china)
+- Jul 26 - [BasicBlocker: ISA Redesign to Make Spectre-Immune CPUs Faster (2021)](https://arxiv.org/abs/2007.15919)
 <!--END_SECTION:hn-->
 
 <!--
