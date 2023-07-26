@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 25 - [Man spoofs threatening texts from ex-gf, gets her jailed multiple times (2020)](https://www.justice.gov/usao-md/pr/pasadena-man-pleads-guilty-federal-charges-cyberstalking-and-causing-intentional-damage)
-- Jul 25 - [Seattle in Progress](https://www.seattleinprogress.com/)
-- Jul 25 - [Whom the gods would destroy, they first give real-time analytics (2013)](https://mcfunley.com/whom-the-gods-would-destroy-they-first-give-real-time-analytics)
-- Jul 25 - [Stone knives and bear skins – there is no money in tools](https://queue.acm.org/detail.cfm?id=3606027)
-- Jul 25 - [The Mathematica Journal is no longer accepting submissions](https://www.mathematica-journal.com/)
+- Jul 26 - [Big Tech's Takeover and Destruction of Open Protocols and Networks](https://cheapskatesguide.org/articles/big-tech-takeovers.html)
+- Jul 26 - [Generation of MT magnetic fields by intense-laser-driven microtube implosions](https://arxiv.org/abs/2009.00828)
+- Jul 26 - [HBM’s Future: Necessary but Expensive](https://semiengineering.com/hbms-future-necessary-but-expensive/)
+- Jul 26 - [FTC readies lawsuit that could break up Amazon](https://www.politico.com/news/2023/07/25/ftc-lawsuit-break-up-amazon-00108130)
+- Jul 26 - [Google abandons work to move Assistant smart speakers to Fuchsia](https://9to5google.com/2023/07/25/google-abandons-assistant-speakers-fuchsia/)
 <!--END_SECTION:hn-->
 
 <!--
