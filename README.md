@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 25 - [Texas A&M suspended professor accused of criticizing Lt. Gov. Patrick in lecture](https://www.texastribune.org/2023/07/25/texas-a-m-professor-opioids-dan-patrick/)
-- Jul 25 - [PRQL: Pipelined Relational Query Language](https://github.com/PRQL/prql)
-- Jul 25 - [Show HN: RealAboutInstagram – a replica highlighting harmful strategies](https://realaboutinstagram.netlify.app/)
-- Jul 25 - [Hyperlink Maximalism (2022)](https://thesephist.com/posts/hyperlink/)
-- Jul 25 - [Unix-like OS in Rust inspired by xv6-riscv](https://github.com/o8vm/octox)
+- Jul 25 - [Man spoofs threatening texts from ex-gf, gets her jailed multiple times (2020)](https://www.justice.gov/usao-md/pr/pasadena-man-pleads-guilty-federal-charges-cyberstalking-and-causing-intentional-damage)
+- Jul 25 - [Seattle in Progress](https://www.seattleinprogress.com/)
+- Jul 25 - [Whom the gods would destroy, they first give real-time analytics (2013)](https://mcfunley.com/whom-the-gods-would-destroy-they-first-give-real-time-analytics)
+- Jul 25 - [Stone knives and bear skins – there is no money in tools](https://queue.acm.org/detail.cfm?id=3606027)
+- Jul 25 - [The Mathematica Journal is no longer accepting submissions](https://www.mathematica-journal.com/)
 <!--END_SECTION:hn-->
 
 <!--
