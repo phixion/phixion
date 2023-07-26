@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 26 - [Systemctl –Force –Force Reboot](https://news.ycombinator.com/item?id=36873927)
-- Jul 26 - [Scientists Say Recycling Has Backfired Spectacularly](https://futurism.com/the-byte/scientists-recycling-backfired)
-- Jul 26 - [Netlify accounts are being suspended with no recourse](https://answers.netlify.com/t/my-netlify-account-ha-been-suspended-i-dont-know-why/97537)
-- Jul 26 - [HBM’s Future: Necessary but Expensive](https://semiengineering.com/hbms-future-necessary-but-expensive/)
-- Jul 26 - [Google abandons work to move Assistant smart speakers to Fuchsia](https://9to5google.com/2023/07/25/google-abandons-assistant-speakers-fuchsia/)
+- Jul 26 - [Lago (YC S21) – Open-Source Stripe Billing and Chargebee Alternative Is Hiring](https://www.ycombinator.com/companies/lago/jobs)
+- Jul 26 - [Show HN: Django Admin Site Customization Tutorial](https://appliku.com/post/customize-django-admin-interface)
+- Jul 26 - [How MOS 6502 Illegal Opcodes work](https://www.pagetable.com/?p=39)
+- Jul 26 - [NASA funds 11 moon projects to help mission to 'live off the land](https://www.washingtonpost.com/technology/2023/07/25/nasa-moon-artemis/)
+- Jul 26 - [Google engineers want to make ad-blocking (near) impossible](https://stackdiary.com/web-environment-integrity/)
 <!--END_SECTION:hn-->
 
 <!--
