@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 27 - [Radioactivity in Food (Organic Food)](https://www.nrc.gov/about-nrc/radiation/around-us/doses-daily-lives.html)
-- Jul 27 - [Launch HN: PeerDB (YC S23) – Fast, Native ETL/ELT for Postgres](https://news.ycombinator.com/item?id=36895220)
-- Jul 27 - [Fiber-infused ink enables 3D-printed heart muscle to beat](https://seas.harvard.edu/news/2023/07/fiber-infused-ink-enables-3d-printed-heart-muscle-beat)
-- Jul 27 - [Room Temperature, Ambient Pressure Superconductivity–This Time for Real?](https://scanalyst.fourmilab.ch/t/room-temperature-ambient-pressure-superconductivity-this-time-for-real/3512)
-- Jul 27 - [Understanding Battery Performance of IoT Devices](https://interrupt.memfault.com/blog/monitoring-battery-life)
+- Jul 27 - [Austral Programming Language](https://austral-lang.org)
+- Jul 27 - [Techdirt has been deleted from Bing and DuckDuckGo](https://www.techdirt.com/2023/07/27/techdirt-has-been-deleted-from-bing-and-duckduckgo/)
+- Jul 27 - [Some alloys don't change size when heated – recent work on why](https://www.caltech.edu/about/news/some-alloys-dont-change-size-when-heated-we-now-know-why)
+- Jul 27 - [LK-99](https://en.wikipedia.org/wiki/LK-99)
+- Jul 27 - [Ashby (YC W19) is hiring an engineering director to build a product-focused team](https://www.ashbyhq.com/careers?ashby_jid=2b130850-9e04-4072-942b-65d9e1609813)
 <!--END_SECTION:hn-->
 
 <!--
