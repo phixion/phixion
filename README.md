@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Jul 26 - [BreachForums - 212,156 breached accounts](https://haveibeenpwned.com/PwnedWebsites#BreachForums)
 - Jul 25 - [BookCrossing - 1,582,323 breached accounts](https://haveibeenpwned.com/PwnedWebsites#BookCrossing)
 - Jul 24 - [Tigo - 700,394 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Tigo)
 - Jul 23 - [Roblox - 52,458 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Roblox)
 - Jul 18 - [Roblox Developer Conference - 3,943 breached accounts](https://haveibeenpwned.com/PwnedWebsites#RobloxDeveloperConference)
-- Jul 11 - [Vermillion - 8,106 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Vermillion)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 26 - [Staying ahead of the AMD vulnerability known as “Zenbleed”](https://blog.cloudflare.com/zenbleed-vulnerability/)
-- Jul 26 - [US conducted ‘multi-decade’ secret UFO program, ex-intelligence official says](https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch)
-- Jul 26 - [How to build toxic software teams](https://badsoftwareadvice.substack.com/p/how-to-build-toxic-software-teams)
-- Jul 26 - [Apple's infamously strict on App Store rules but gives WeChat a free pass (2020)](https://reclaimthenet.org/apple-app-store-wechat-china)
-- Jul 26 - [BasicBlocker: ISA Redesign to Make Spectre-Immune CPUs Faster (2021)](https://arxiv.org/abs/2007.15919)
+- Jul 26 - [Whistleblower tells Congress US is concealing 'multi-decade' UFO capture program](https://www.washingtonpost.com/politics/2023/07/26/ufos-uaps-congress-whistleblower-spy-aliens/01081d9a-2bce-11ee-a948-a5b8a9b62d84_story.html)
+- Jul 26 - [TiddlyPWA: putting TiddlyWiki on modern web app steroids](https://val.packett.cool/blog/tiddlypwa/)
+- Jul 26 - [A beautiful, broken America: what I learned on a 2,800-mile bus ride](https://www.theguardian.com/travel/2023/jul/26/america-roadtrip-greyhound-bus)
+- Jul 26 - [How “It works in my machine” turns to “It works in my container”](https://dwdraju.medium.com/how-it-works-in-my-machine-turns-it-works-in-my-container-1b9a340ca43d)
+- Jul 26 - [Kids Online Safety Act is still a danger to our rights online](https://www.eff.org/deeplinks/2023/05/kids-online-safety-act-still-huge-danger-our-rights-online)
 <!--END_SECTION:hn-->
 
 <!--
