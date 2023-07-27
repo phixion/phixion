@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 27 - [Memfault (YC W19) Is Hiring an Embedded Linux Engineer](https://jobs.lever.co/memfault/5bcd5431-5d94-4a3c-a99a-950ffd85851b)
-- Jul 27 - [How I test site speed changes using Chrome's local overrides (2021)](https://tryblackbird.com/blog/local-overrides)
-- Jul 27 - [Venetian glass beads may be oldest European artifacts in North America (2021)](https://www.smithsonianmag.com/smart-news/tiny-blue-beads-european-artifact-north-america-old-180976966/)
-- Jul 27 - [How to scale LLMs better with an alternative to transformers](https://hazyresearch.stanford.edu/blog/2023-07-25-m2-bert)
-- Jul 27 - [Stack Overflow's CEO Doesn't Understand Stack Overflow](https://jlericson.com/2023/07/26/not_understanding.html)
+- Jul 27 - [Radioactivity in Food (Organic Food)](https://www.nrc.gov/about-nrc/radiation/around-us/doses-daily-lives.html)
+- Jul 27 - [Launch HN: PeerDB (YC S23) – Fast, Native ETL/ELT for Postgres](https://news.ycombinator.com/item?id=36895220)
+- Jul 27 - [Fiber-infused ink enables 3D-printed heart muscle to beat](https://seas.harvard.edu/news/2023/07/fiber-infused-ink-enables-3d-printed-heart-muscle-beat)
+- Jul 27 - [Room Temperature, Ambient Pressure Superconductivity–This Time for Real?](https://scanalyst.fourmilab.ch/t/room-temperature-ambient-pressure-superconductivity-this-time-for-real/3512)
+- Jul 27 - [Understanding Battery Performance of IoT Devices](https://interrupt.memfault.com/blog/monitoring-battery-life)
 <!--END_SECTION:hn-->
 
 <!--
