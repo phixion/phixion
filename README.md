@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 26 - [Whistleblower tells Congress US is concealing 'multi-decade' UFO capture program](https://www.washingtonpost.com/politics/2023/07/26/ufos-uaps-congress-whistleblower-spy-aliens/01081d9a-2bce-11ee-a948-a5b8a9b62d84_story.html)
-- Jul 26 - [TiddlyPWA: putting TiddlyWiki on modern web app steroids](https://val.packett.cool/blog/tiddlypwa/)
-- Jul 26 - [A beautiful, broken America: what I learned on a 2,800-mile bus ride](https://www.theguardian.com/travel/2023/jul/26/america-roadtrip-greyhound-bus)
-- Jul 26 - [How “It works in my machine” turns to “It works in my container”](https://dwdraju.medium.com/how-it-works-in-my-machine-turns-it-works-in-my-container-1b9a340ca43d)
-- Jul 26 - [Kids Online Safety Act is still a danger to our rights online](https://www.eff.org/deeplinks/2023/05/kids-online-safety-act-still-huge-danger-our-rights-online)
+- Jul 27 - [Data diffs: Algorithms for explaining what changed in a dataset (2022)](https://blog.marcua.net/2022/02/20/data-diffs-algorithms-for-explaining-what-changed-in-a-dataset.html)
+- Jul 27 - [White Flight from Asian Immigration: Evidence from California Public Schools](https://www.nber.org/papers/w31434)
+- Jul 27 - [Pix surpasses credit and debit card transactions in Brazil](https://philaverse.substack.com/p/report-pix-surpasses-credit-and-debit)
+- Jul 27 - [Pull of the Undercurl](https://ryantravitz.com/blog/2023-02-18-pull-of-the-undercurl/)
+- Jul 27 - [Show HN: Litellm – simple library to standardize OpenAI, Cohere, Azure LLM I/O](https://github.com/BerriAI/litellm)
 <!--END_SECTION:hn-->
 
 <!--
