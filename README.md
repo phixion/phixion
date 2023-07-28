@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 28 - [Heat Pumps: Mythology and Actuality](https://www.thegwpf.org/content/uploads/2023/07/Montford-Heat-Pumps.pdf)
-- Jul 28 - ['Swine flu' strain has passed from humans to swine ~400 times since 2009: study](https://medicalxpress.com/news/2023-07-swine-flu-strain-humans.html)
+- Jul 28 - [The Dark Side of A.I.: Understanding the Dangers of Deepfake Images](https://blog.theabhishek.dev/the-dark-side-of-ai-understanding-the-dangers-of-deepfake-images)
+- Jul 28 - [Implementing Fast Barriers for a Shared-Memory Cluster of 1024 RISC-V Cores](https://semiengineering.com/implementing-fast-barriers-for-a-shared-memory-cluster-of-1024-risc-v-cores/)
 - Jul 28 - [The moral character of cryptographic work (2015)](https://web.cs.ucdavis.edu/~rogaway/papers/moral.html)
+- Jul 28 - [WebArena: A realistic web environment for building autonomous agents](https://webarena.dev/)
 - Jul 27 - [Faster filesystem access with Directfs](https://gvisor.dev/blog/2023/06/27/directfs/)
-- Jul 27 - [Graphite: Open-source raster and vector 2D graphics editor](https://graphite.rs/)
 <!--END_SECTION:hn-->
 
 <!--
