@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 27 - [Austral Programming Language](https://austral-lang.org)
-- Jul 27 - [Techdirt has been deleted from Bing and DuckDuckGo](https://www.techdirt.com/2023/07/27/techdirt-has-been-deleted-from-bing-and-duckduckgo/)
-- Jul 27 - [Some alloys don't change size when heated – recent work on why](https://www.caltech.edu/about/news/some-alloys-dont-change-size-when-heated-we-now-know-why)
-- Jul 27 - [LK-99](https://en.wikipedia.org/wiki/LK-99)
-- Jul 27 - [Ashby (YC W19) is hiring an engineering director to build a product-focused team](https://www.ashbyhq.com/careers?ashby_jid=2b130850-9e04-4072-942b-65d9e1609813)
+- Jul 27 - [Faster Filesystem Access with Directfs](https://gvisor.dev/blog/2023/06/27/directfs/)
+- Jul 27 - [Llama and ChatGPT Are Not Open-Source](https://spectrum.ieee.org/openai-not-open)
+- Jul 27 - [ICML 2023 Outstanding Paper Awards](https://icml.cc/Conferences/2023/Awards)
+- Jul 27 - [LeMUR: LLMs for Audio and Speech](https://www.assemblyai.com/blog/lemur/)
+- Jul 27 - [Svix (YC W21) Is Hiring a Founding Account Executive (US Remote)](https://www.svix.com/careers/)
 <!--END_SECTION:hn-->
 
 <!--
