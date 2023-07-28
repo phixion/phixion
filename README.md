@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 28 - [Intel Accelerates AI Development with Reference Kits](https://cioinfluence.com/machine-learning/intel-accelerates-ai-development-with-reference-kits/)
-- Jul 28 - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=36908574)
-- Jul 28 - [Cap'n Proto 1.0](https://capnproto.org/news/2023-07-28-capnproto-1.0.html)
-- Jul 28 - [Microsoft's AI shopping announcement contains hallucinations in the demo](https://www.perfectrec.com/posts/microsoft-ai-shopping-announcement-contains-hallucinations-in-the-demo)
-- Jul 28 - [California moves to silence Stanford researchers who got data to study education](https://edsource.org/2023/california-moves-to-silence-stanford-researchers-who-got-state-data-to-study-education-issues/694920)
+- Jul 28 - [Free prison phone calls boost family ties, rehabilitation](https://www.latimes.com/politics/story/2023-07-27/free-calls-restore-inmates-ties-with-the-outside-can-they-reform-californias-prisons-too)
+- Jul 28 - [Play deprivation is a major cause of the teen mental health crisis](https://jonathanhaidt.substack.com/p/the-play-deficit)
+- Jul 28 - [“Web Environment Integrity” is an attack on the free Internet](https://www.fsf.org/blogs/community/web-environment-integrity-is-an-all-out-attack-on-the-free-internet)
+- Jul 28 - [Skio (YC S20) is hiring – Subscriptions for Shopify, ReCharge migrations](https://skio.com/careers/)
+- Jul 28 - [An ultra-sensitive on-off switch helps axolotls regrow limbs](https://scopeblog.stanford.edu/2023/07/26/how-an-ultra-sensitive-on-off-switch-helps-axolotls-regrow-limbs/)
 <!--END_SECTION:hn-->
 
 <!--
