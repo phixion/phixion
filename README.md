@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 28 - [Finley (YC W21) Is Hiring to Rethink Capital Markets Infrastructure (US Remote)](https://www.finleycms.com/careers/)
-- Jul 28 - [Apple cracking down on 'fingerprinting' with new App Store API rules](https://www.engadget.com/apple-cracking-down-on-fingerprinting-with-new-app-store-api-rules-080007498.html)
-- Jul 28 - [What is RT-2? Google DeepMind’s vision-language-action model for robotics](https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/)
-- Jul 28 - [VyOS From Scratch – Edition 1 (set up your own router)](https://blog.kroy.io/2020/05/04/vyos-from-scratch-edition-1/)
-- Jul 28 - [Flags for fchmodat()](https://lwn.net/SubscriberLink/939217/6c6ec0264dcf28f7/)
+- Jul 28 - [Intel Accelerates AI Development with Reference Kits](https://cioinfluence.com/machine-learning/intel-accelerates-ai-development-with-reference-kits/)
+- Jul 28 - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=36908574)
+- Jul 28 - [Cap'n Proto 1.0](https://capnproto.org/news/2023-07-28-capnproto-1.0.html)
+- Jul 28 - [Microsoft's AI shopping announcement contains hallucinations in the demo](https://www.perfectrec.com/posts/microsoft-ai-shopping-announcement-contains-hallucinations-in-the-demo)
+- Jul 28 - [California moves to silence Stanford researchers who got data to study education](https://edsource.org/2023/california-moves-to-silence-stanford-researchers-who-got-state-data-to-study-education-issues/694920)
 <!--END_SECTION:hn-->
 
 <!--
