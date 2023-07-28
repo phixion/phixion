@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 27 - [Faster Filesystem Access with Directfs](https://gvisor.dev/blog/2023/06/27/directfs/)
-- Jul 27 - [Llama and ChatGPT Are Not Open-Source](https://spectrum.ieee.org/openai-not-open)
-- Jul 27 - [ICML 2023 Outstanding Paper Awards](https://icml.cc/Conferences/2023/Awards)
-- Jul 27 - [LeMUR: LLMs for Audio and Speech](https://www.assemblyai.com/blog/lemur/)
-- Jul 27 - [Svix (YC W21) Is Hiring a Founding Account Executive (US Remote)](https://www.svix.com/careers/)
+- Jul 28 - [Heat Pumps: Mythology and Actuality](https://www.thegwpf.org/content/uploads/2023/07/Montford-Heat-Pumps.pdf)
+- Jul 28 - ['Swine flu' strain has passed from humans to swine ~400 times since 2009: study](https://medicalxpress.com/news/2023-07-swine-flu-strain-humans.html)
+- Jul 28 - [The moral character of cryptographic work (2015)](https://web.cs.ucdavis.edu/~rogaway/papers/moral.html)
+- Jul 27 - [Faster filesystem access with Directfs](https://gvisor.dev/blog/2023/06/27/directfs/)
+- Jul 27 - [Graphite: Open-source raster and vector 2D graphics editor](https://graphite.rs/)
 <!--END_SECTION:hn-->
 
 <!--
