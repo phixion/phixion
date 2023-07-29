@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 29 - [IBM Blue Lightning: World’s Fastest 386?](https://www.os2museum.com/wp/ibm-blue-lightning-worlds-fastest-386/comment-page-1/)
+- Jul 29 - [Argonne National Lab is attempting to replicate LK-99](https://www.science.org/content/article/spectacular-superconductor-claim-making-news-here-s-why-experts-are-doubtful)
+- Jul 29 - [LPython: Novel, Fast, Retargetable Python Compiler](https://lpython.org/blog/2023/07/lpython-novel-fast-retargetable-python-compiler/)
+- Jul 29 - [Plans Develop for High-Speed Rail in the PNW](https://southseattleemerald.com/2023/07/18/plans-develop-for-high-speed-rail-in-the-pnw/)
 - Jul 29 - [RISC-V CPU formal specification F# edition](https://github.com/mrLSD/riscv-fs)
-- Jul 28 - [Dream First Bank Assumes All of the Deposits of Heartland Tri-State Bank](https://www.fdic.gov/news/press-releases/2023/pr23058.html)
-- Jul 28 - [No-GIL mode coming for Python](https://lwn.net/Articles/939568/)
-- Jul 28 - [Electric recumbent bikes are 80 more efficient than EV](https://www.lowtechmagazine.com/les-v%C3%A9lomobiles-electriques-aussi-rapides-et-confortables-que-les-automobiles-mais-80-fois-plus-efficaces.html)
-- Jul 28 - [Ring is having a major outage](https://status.ring.com)
 <!--END_SECTION:hn-->
 
 <!--
