@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 28 - [Free prison phone calls boost family ties, rehabilitation](https://www.latimes.com/politics/story/2023-07-27/free-calls-restore-inmates-ties-with-the-outside-can-they-reform-californias-prisons-too)
-- Jul 28 - [Play deprivation is a major cause of the teen mental health crisis](https://jonathanhaidt.substack.com/p/the-play-deficit)
-- Jul 28 - [“Web Environment Integrity” is an attack on the free Internet](https://www.fsf.org/blogs/community/web-environment-integrity-is-an-all-out-attack-on-the-free-internet)
-- Jul 28 - [Skio (YC S20) is hiring – Subscriptions for Shopify, ReCharge migrations](https://skio.com/careers/)
-- Jul 28 - [An ultra-sensitive on-off switch helps axolotls regrow limbs](https://scopeblog.stanford.edu/2023/07/26/how-an-ultra-sensitive-on-off-switch-helps-axolotls-regrow-limbs/)
+- Jul 29 - [RISC-V CPU formal specification F# edition](https://github.com/mrLSD/riscv-fs)
+- Jul 28 - [Dream First Bank Assumes All of the Deposits of Heartland Tri-State Bank](https://www.fdic.gov/news/press-releases/2023/pr23058.html)
+- Jul 28 - [No-GIL mode coming for Python](https://lwn.net/Articles/939568/)
+- Jul 28 - [Electric recumbent bikes are 80 more efficient than EV](https://www.lowtechmagazine.com/les-v%C3%A9lomobiles-electriques-aussi-rapides-et-confortables-que-les-automobiles-mais-80-fois-plus-efficaces.html)
+- Jul 28 - [Ring is having a major outage](https://status.ring.com)
 <!--END_SECTION:hn-->
 
 <!--
