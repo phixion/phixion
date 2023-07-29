@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 29 - [Larne Craigyhill bonfire: 17000 pallets](https://www.belfastlive.co.uk/news/larne-craigyhill-bonfire-more-17000-20989400)
-- Jul 29 - [Hugging Face, GitHub and more unite to defend open source in EU AI legislation](https://venturebeat.com/ai/hugging-face-github-and-more-unite-to-defend-open-source-in-eu-ai-legislation/)
-- Jul 29 - [U.S. Marine Corps Antenna Handbook (1999) [pdf]](https://www.marines.mil/Portals/1/MCRP%203-40.3C%20With%20Erratum%20z.pdf)
-- Jul 29 - [Ingest OpenTelemetry metrics with Prometheus natively](https://last9.io/blog/native-support-for-opentelemetry-metrics-in-prometheus/)
-- Jul 29 - [Is everything we eat associated with cancer? A systematic cookbook review (2013)](https://pubmed.ncbi.nlm.nih.gov/23193004/)
+- Jul 29 - [Booking a Ryanair flight via an online travel agent might hold a nasty surprise](https://noyb.eu/en/booking-ryanair-flight-through-online-travel-agent-might-hold-nasty-surprise)
+- Jul 29 - [Apple demands app makers explain use of sensitive APIs](https://www.theregister.com/2023/07/29/apple_developer_api/)
+- Jul 29 - [IRC is the only viable chat protocol](https://koshka.love/babel/irc-forever.html)
+- Jul 29 - [Would We Recognize Extraterrestrial Technology If We Saw It?](https://hackaday.com/2023/07/28/would-we-recognize-extraterrestrial-technology-if-we-saw-it/)
+- Jul 29 - [‘Something weird is going on’: Antarctic sea ice stays at historic lows](https://www.theguardian.com/world/2023/jul/29/something-weird-is-going-on-search-for-answers-as-antarctic-sea-ice-stays-at-historic-lows)
 <!--END_SECTION:hn-->
 
 <!--
