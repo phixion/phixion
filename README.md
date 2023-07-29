@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 29 - [Booking a Ryanair flight via an online travel agent might hold a nasty surprise](https://noyb.eu/en/booking-ryanair-flight-through-online-travel-agent-might-hold-nasty-surprise)
-- Jul 29 - [Apple demands app makers explain use of sensitive APIs](https://www.theregister.com/2023/07/29/apple_developer_api/)
-- Jul 29 - [IRC is the only viable chat protocol](https://koshka.love/babel/irc-forever.html)
-- Jul 29 - [Would We Recognize Extraterrestrial Technology If We Saw It?](https://hackaday.com/2023/07/28/would-we-recognize-extraterrestrial-technology-if-we-saw-it/)
-- Jul 29 - [‘Something weird is going on’: Antarctic sea ice stays at historic lows](https://www.theguardian.com/world/2023/jul/29/something-weird-is-going-on-search-for-answers-as-antarctic-sea-ice-stays-at-historic-lows)
+- Jul 29 - [HuggingFace Text Generation License No Longer Open-Source](https://github.com/huggingface/text-generation-inference/issues/726)
+- Jul 29 - [Automatic Music Playlist Generation via Simulation-Based Reinforcement Learning](https://research.atspotify.com/2023/07/automatic-music-playlist-generation-via-simulation-based-reinforcement-learning/)
+- Jul 29 - [The Rise of AI Girlfriends](https://innovationnation.blog/p/the-rise-of-ai-girlfriends)
+- Jul 29 - [How critical theory is radicalizing high school debate](https://www.slowboring.com/p/how-critical-theory-is-radicalizing)
+- Jul 29 - [Not paying electricity for an entire year with Tesla Solar Roof [video]](https://www.youtube.com/watch?v=UJeSWbR6W04)
 <!--END_SECTION:hn-->
 
 <!--
