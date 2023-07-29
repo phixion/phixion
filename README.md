@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 29 - [HuggingFace Text Generation License No Longer Open-Source](https://github.com/huggingface/text-generation-inference/issues/726)
-- Jul 29 - [Automatic Music Playlist Generation via Simulation-Based Reinforcement Learning](https://research.atspotify.com/2023/07/automatic-music-playlist-generation-via-simulation-based-reinforcement-learning/)
-- Jul 29 - [The Rise of AI Girlfriends](https://innovationnation.blog/p/the-rise-of-ai-girlfriends)
-- Jul 29 - [How critical theory is radicalizing high school debate](https://www.slowboring.com/p/how-critical-theory-is-radicalizing)
-- Jul 29 - [Not paying electricity for an entire year with Tesla Solar Roof [video]](https://www.youtube.com/watch?v=UJeSWbR6W04)
+- Jul 29 - [Psychopathic Tendencies Help Some People Succeed in Business](https://www.scientificamerican.com/article/psychopathic-tendencies-help-some-people-succeed-in-business/)
+- Jul 29 - [Counterterrorism internet surveillance is being retargeted at sex workers](https://theintercept.com/2023/07/29/skull-games-surveillance-sex-workers/)
+- Jul 29 - [Open Source Outdoor Air Quality Monitor](https://www.airgradient.com/open-air/)
+- Jul 29 - [US Army Field Manual on Leadership (1990) [pdf]](https://armyoe.files.wordpress.com/2018/03/1990-fm-22-100.pdf)
+- Jul 29 - [Freshpaint (YC S19) is hiring engineers to safeguard health data](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 <!--END_SECTION:hn-->
 
 <!--
