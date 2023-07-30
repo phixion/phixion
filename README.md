@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 30 - [An Introduction to APIs](https://zapier.com/resources/guides/apis)
-- Jul 30 - [I feel hopeless, rejected, and a burden on society-one week of empathy training](https://shkspr.mobi/blog/2019/07/i-feel-hopeless-rejected-and-a-burden-on-society-one-week-of-empathy-training/)
-- Jul 30 - [The Secretive World of Penile Enlargement](https://www.propublica.org/article/penis-enlargement-enhancement-procedures-implants)
-- Jul 30 - [Why has Britain become so poor?](https://www.thetimes.co.uk/article/why-has-britain-become-so-poor-lw22lhvkh)
-- Jul 30 - [AMD Ryzen 8000 Strix Point APUs Utilize 12-Core Zen 5 and Zen 5C Hybrid Config](https://wccftech.com/amd-ryzen-8000-strix-point-apus-utilize-12-core-zen-5-zen-5c-hybrid-config-strix-halo-with-16-core-chiplet-design/)
+- Jul 30 - [Documentation as Code for Cloud Using PlantUML](https://blog.dornea.nu/2023/07/30/documentation-as-code-for-cloud-plantuml/)
+- Jul 30 - [Show HN: WordPress, Ghost alternative at $29/Year](https://esyblog.com)
+- Jul 30 - [The death of privacy front ends?](https://tux.pizza/posts/service2/)
+- Jul 30 - [Logging in Ruby: (Almost) Everything You Need to Know](https://www.akshaykhot.com/logging-in-ruby/)
+- Jul 30 - [Ethereum Launches (2015)](https://blog.ethereum.org/2015/07/30/ethereum-launches)
 <!--END_SECTION:hn-->
 
 <!--
