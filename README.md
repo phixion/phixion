@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 30 - [The Problem of Excess Genius, by David Banks (1997)](https://www.visakanv.com/archives/2021/02/14/the-problem-of-excess-genius-by-david-banks-1997/)
-- Jul 30 - [Korea Superconductor Papers Published ‘Without Consent’ – Yonhap](https://www.asiafinancial.com/korea-superconductor-papers-published-without-consent-yonhap)
-- Jul 30 - [GNU Boot sent a cease and desist to Libreboot](https://libreboot.org/news/gnuboot.html#gnu-boot-cease-and-desist-email)
-- Jul 30 - [Snowflake](https://snowflake.torproject.org/)
-- Jul 30 - [Apple Pencils don’t draw straight on replaced iPad screens](https://arstechnica.com/gadgets/2023/07/apple-pencils-cant-draw-straight-on-third-party-replacement-ipad-screens/)
+- Jul 30 - [PlayHT (YC W23) Is Hiring ML Engineers (LLMs, Generative AI)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
+- Jul 30 - [Fighting for the Open Web [image]](https://www.davidrevoy.com/article982/fighting-for-the-open-web)
+- Jul 30 - [Why I use the D programming language for scripting (2021)](https://opensource.com/article/21/1/d-scripting)
+- Jul 30 - [What I Would Do If I Ran Tarsnap](https://www.kalzumeus.com/2014/04/03/fantasy-tarsnap/)
+- Jul 30 - [Comma 3X](https://www.comma.ai/)
 <!--END_SECTION:hn-->
 
 <!--
