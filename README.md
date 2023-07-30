@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 29 - [Psychopathic Tendencies Help Some People Succeed in Business](https://www.scientificamerican.com/article/psychopathic-tendencies-help-some-people-succeed-in-business/)
-- Jul 29 - [Counterterrorism internet surveillance is being retargeted at sex workers](https://theintercept.com/2023/07/29/skull-games-surveillance-sex-workers/)
-- Jul 29 - [Open Source Outdoor Air Quality Monitor](https://www.airgradient.com/open-air/)
-- Jul 29 - [US Army Field Manual on Leadership (1990) [pdf]](https://armyoe.files.wordpress.com/2018/03/1990-fm-22-100.pdf)
-- Jul 29 - [Freshpaint (YC S19) is hiring engineers to safeguard health data](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+- Jul 29 - [Where programs live? Vague spaces and software systems](https://tomasp.net/blog/2023/vague-spaces/)
+- Jul 29 - [Ways to print hello world in assembler on a Raspberry Pi](https://github.com/ksaj/helloworld)
+- Jul 29 - [Big Tobacco knew radioactive Po210 in cigarettes posed cancer risk, kept quiet](https://www.uclahealth.org/news/big-tobacco-knew-radioactive-particles-in-cigarettes)
+- Jul 29 - [Red algae proteins grafted into tobacco double plant growth](https://news.cornell.edu/stories/2023/07/red-algae-proteins-grafted-tobacco-double-plant-growth)
+- Jul 29 - [Meticulous (YC S21) is hiring #3 engineer to build future of testing](https://news.ycombinator.com/item?id=36924518)
 <!--END_SECTION:hn-->
 
 <!--
