@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 30 - [PlayHT (YC W23) Is Hiring ML Engineers (LLMs, Generative AI)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
-- Jul 30 - [Fighting for the Open Web [image]](https://www.davidrevoy.com/article982/fighting-for-the-open-web)
-- Jul 30 - [Why I use the D programming language for scripting (2021)](https://opensource.com/article/21/1/d-scripting)
-- Jul 30 - [What I Would Do If I Ran Tarsnap](https://www.kalzumeus.com/2014/04/03/fantasy-tarsnap/)
-- Jul 30 - [Comma 3X](https://www.comma.ai/)
+- Jul 30 - [Emacs 29.1 Released](https://emacsredux.com/blog/2023/07/30/emacs-29-1-released/)
+- Jul 30 - [Ffmprovisr – Making FFmpeg Easier](https://amiaopensource.github.io/ffmprovisr/)
+- Jul 30 - [“We are not cheating” (YH Kwon superconductor comments)](https://twitter.com/8teAPi/status/1685294623449874432)
+- Jul 30 - [How the Rich Reap Huge Tax Breaks From Private Nonprofits](https://www.propublica.org/article/how-private-nonprofits-ultrawealthy-tax-deductions-museums-foundation-art)
+- Jul 30 - [Chicago95 – Windows 95 Theme for Linux](https://github.com/grassmunk/Chicago95)
 <!--END_SECTION:hn-->
 
 <!--
