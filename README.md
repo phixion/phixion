@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 29 - [Where programs live? Vague spaces and software systems](https://tomasp.net/blog/2023/vague-spaces/)
-- Jul 29 - [Ways to print hello world in assembler on a Raspberry Pi](https://github.com/ksaj/helloworld)
-- Jul 29 - [Big Tobacco knew radioactive Po210 in cigarettes posed cancer risk, kept quiet](https://www.uclahealth.org/news/big-tobacco-knew-radioactive-particles-in-cigarettes)
-- Jul 29 - [Red algae proteins grafted into tobacco double plant growth](https://news.cornell.edu/stories/2023/07/red-algae-proteins-grafted-tobacco-double-plant-growth)
-- Jul 29 - [Meticulous (YC S21) is hiring #3 engineer to build future of testing](https://news.ycombinator.com/item?id=36924518)
+- Jul 30 - [The Problem of Excess Genius, by David Banks (1997)](https://www.visakanv.com/archives/2021/02/14/the-problem-of-excess-genius-by-david-banks-1997/)
+- Jul 30 - [Korea Superconductor Papers Published ‘Without Consent’ – Yonhap](https://www.asiafinancial.com/korea-superconductor-papers-published-without-consent-yonhap)
+- Jul 30 - [GNU Boot sent a cease and desist to Libreboot](https://libreboot.org/news/gnuboot.html#gnu-boot-cease-and-desist-email)
+- Jul 30 - [Snowflake](https://snowflake.torproject.org/)
+- Jul 30 - [Apple Pencils don’t draw straight on replaced iPad screens](https://arstechnica.com/gadgets/2023/07/apple-pencils-cant-draw-straight-on-third-party-replacement-ipad-screens/)
 <!--END_SECTION:hn-->
 
 <!--
