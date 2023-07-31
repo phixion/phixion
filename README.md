@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 31 - [Show HN: LearnLingo – Converse with an AI-powered language tutor](https://www.learnlingo.dev)
-- Jul 31 - [SEC asked Coinbase to halt trading in everything except bitcoin, CEO says](https://www.ft.com/content/1f873dd5-df8f-4cfc-bb21-ef83ed11fb4d)
-- Jul 31 - [AI and the Frontier Paradox](https://www.sequoiacap.com/article/ai-paradox-perspective/)
-- Jul 31 - [Conduit: Simple, fast and reliable chat server powered by Matrix](https://conduit.rs/)
-- Jul 31 - [The Screwed-O-Meter (2013)](https://rachelbythebay.com/fun/som/)
+- Jul 31 - [UK Online Safety Bill – some futures](https://www.regulate.tech/online-safety-bill-some-futures-25th-july-2023/)
+- Jul 31 - [Is anyone using PyPy for real work?](https://news.ycombinator.com/item?id=36940871)
+- Jul 31 - [NASA mistakenly severs communication to Voyager 2](https://www.theregister.com/2023/07/31/nasa_mistakenly_disconnects_voyager_2/)
+- Jul 31 - [Microsoft is trying too hard with Edge](https://www.xda-developers.com/microsoft-trying-too-hard-edge/)
+- Jul 31 - [Curl Command Line Variables](https://daniel.haxx.se/blog/2023/07/31/introducing-curl-command-line-variables/)
 <!--END_SECTION:hn-->
 
 <!--
