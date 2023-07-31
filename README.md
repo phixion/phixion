@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 31 - [BBC starts trial with the Fediverse, running its own Mastodon instance](https://social.bbc/about)
-- Jul 31 - [Is Reviving a Private Police Agency in SF the Solution to the City’s Crime Woes?](https://sfstandard.com/2023/07/31/is-reviving-a-private-police-agency-in-san-francisco-the-solution-to-the-citys-crime-woes/)
-- Jul 31 - [Free and open source software projects are in transition](https://www.baldurbjarnason.com/2023/the-floss-transition/)
-- Jul 31 - [BBC on Mastodon: experimenting with distributed and decentralised social media](https://www.bbc.co.uk/rd/blog/2023-07-mastodon-distributed-decentralised-fediverse-activitypub)
-- Jul 31 - [Battery-electric “Infinity Train” will charge itself using gravity (2022)](https://newatlas.com/transport/fortescue-wae-infinity-train-electric/)
+- Jul 31 - [First new US nuclear reactor in decades enters commercial operation in Georgia](https://apnews.com/article/georgia-power-nuclear-reactor-vogtle-9555e3f9169f2d58161056feaa81a425)
+- Jul 31 - [Plans to plant billions of trees threatened by undersupply of seedlings](https://www.uvm.edu/news/story/plans-plant-billions-trees-threatened-massive-undersupply-seedlings)
+- Jul 31 - [Quick thoughts on research](https://michaelnotebook.com/qtr/index.html)
+- Jul 31 - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+- Jul 31 - [Building Nikola Tesla's Bladeless Turbine [video]](https://www.youtube.com/watch?v=Tuzh9mHvzkk)
 <!--END_SECTION:hn-->
 
 <!--
