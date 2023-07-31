@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 31 - [Conduit: Simple, fast and reliable chat server powered by matrix](https://conduit.rs/)
-- Jul 31 - [The Screwed-O-Meter](https://rachelbythebay.com/fun/som/)
-- Jul 31 - [Mac Mouse Fix: Do the things you do on a trackpad. Without a trackpad](https://mousefix.org/)
-- Jul 31 - [Free Public WiFi](https://computer.rip/2023-07-29-Free-Public-WiFi.html)
-- Jul 31 - [AI search of Neanderthal proteins resurrects ‘extinct’ antibiotics](https://www.nature.com/articles/d41586-023-02403-0)
+- Jul 31 - [Show HN: LearnLingo – Converse with an AI-powered language tutor](https://www.learnlingo.dev)
+- Jul 31 - [SEC asked Coinbase to halt trading in everything except bitcoin, CEO says](https://www.ft.com/content/1f873dd5-df8f-4cfc-bb21-ef83ed11fb4d)
+- Jul 31 - [AI and the Frontier Paradox](https://www.sequoiacap.com/article/ai-paradox-perspective/)
+- Jul 31 - [Conduit: Simple, fast and reliable chat server powered by Matrix](https://conduit.rs/)
+- Jul 31 - [The Screwed-O-Meter (2013)](https://rachelbythebay.com/fun/som/)
 <!--END_SECTION:hn-->
 
 <!--
