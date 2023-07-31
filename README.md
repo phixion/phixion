@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 30 - [A Year in Review of 0-days Exploited In-the-Wild in 2022](https://security.googleblog.com/2023/07/the-ups-and-downs-of-0-days-year-in.html)
+- Jul 30 - [How to not get rejected from YC's Early AI interview batch](https://hermitian.substack.com/p/how-to-not-get-rejected-from-ycs)
+- Jul 30 - [Regular use of Vitamin D supplement is associated with fewer melanoma cases](https://pubmed.ncbi.nlm.nih.gov/36580363/)
+- Jul 30 - [HFS Origins: The Turbo File System (2017)](https://macgui.com/news/article.php?t=443)
 - Jul 30 - [Documentation as Code for Cloud Using PlantUML](https://blog.dornea.nu/2023/07/30/documentation-as-code-for-cloud-plantuml/)
-- Jul 30 - [Show HN: WordPress, Ghost alternative at $29/Year](https://esyblog.com)
-- Jul 30 - [The death of privacy front ends?](https://tux.pizza/posts/service2/)
-- Jul 30 - [Logging in Ruby: (Almost) Everything You Need to Know](https://www.akshaykhot.com/logging-in-ruby/)
-- Jul 30 - [Ethereum Launches (2015)](https://blog.ethereum.org/2015/07/30/ethereum-launches)
 <!--END_SECTION:hn-->
 
 <!--
