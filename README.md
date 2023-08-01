@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 01 - [GiveCampus (YC S15) Hiring Rails engineers in education software](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- Aug 01 - [IronOS: Open-source soldering iron firmware](https://github.com/Ralim/IronOS)
-- Aug 01 - [First claimed successful replication of LK-99](https://twitter.com/Andercot/status/1686286684424691712)
-- Aug 01 - [Room-Temperature Ambient-Pressure Superconductor LK-99 preprint revision 2](https://arxiv.org/abs/2307.12037)
-- Aug 01 - [Systemd auto-restarts of units can hide problems from you](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdRestartHidesProblems)
+- Aug 01 - [Sigh, this is what browsing the web in the EU looks like nowadays (2021)](https://mmazzarolo.com/blog/2021-09-10-browsing-the-web-from-eu/)
+- Aug 01 - [Launch HN: Tiptap (YC S23) – Toolkit for developing collaborative editors](https://news.ycombinator.com/item?id=36957204)
+- Aug 01 - [Ask HN: Who is hiring? (August 2023)](https://news.ycombinator.com/item?id=36956867)
+- Aug 01 - [Ask HN: Freelancer? Seeking freelancer? (August 2023)](https://news.ycombinator.com/item?id=36956866)
+- Aug 01 - [Ask HN: Who wants to be hired? (August 2023)](https://news.ycombinator.com/item?id=36956865)
 <!--END_SECTION:hn-->
 
 <!--
