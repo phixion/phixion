@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 31 - [Temple OS Theme for Arch Linux](https://github.com/PhilipPanda/TempleOS_Theme)
-- Jul 31 - [Occluding Contour Breakthroughs, Part 1: A Surprisingly Hard Problem](https://aaronhertzmann.com/2023/07/31/occluding-contours-part-1.html)
-- Jul 31 - [Help the Library of Congress create games to improve public knowledge of civics](https://blogs.loc.gov/law/2023/06/help-the-library-of-congress-create-video-games-that-improve-public-knowledge-of-civics/)
-- Jul 31 - [Retrieving your browsing history through a CAPTCHA (2022)](https://varun.ch/history)
-- Jul 31 - [Glass Health (YC W23) is hiring a full-stack engineer in SF to build for doctors](https://news.ycombinator.com/item?id=36948763)
+- Aug 01 - [Origin of correlated isolated flat bands in LK99](https://arxiv.org/abs/2307.16892)
+- Aug 01 - [For the Love of God, Stop Microwaving Plastic](https://www.wired.com/story/for-the-love-of-god-stop-microwaving-plastic/)
+- Aug 01 - [Philosophy of Science 101: What Is the Problem of Induction?](https://www.thecollector.com/problem-of-induction-philosophy-of-science/)
+- Aug 01 - [The Worst API Ever Made](https://caseymuratori.com/blog_0025)
+- Aug 01 - [Semiconducting Transport in LK99 reproduction attempt](https://arxiv.org/abs/2307.16802)
 <!--END_SECTION:hn-->
 
 <!--
