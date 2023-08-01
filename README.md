@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 31 - [First new US nuclear reactor in decades enters commercial operation in Georgia](https://apnews.com/article/georgia-power-nuclear-reactor-vogtle-9555e3f9169f2d58161056feaa81a425)
-- Jul 31 - [Plans to plant billions of trees threatened by undersupply of seedlings](https://www.uvm.edu/news/story/plans-plant-billions-trees-threatened-massive-undersupply-seedlings)
-- Jul 31 - [Quick thoughts on research](https://michaelnotebook.com/qtr/index.html)
-- Jul 31 - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
-- Jul 31 - [Building Nikola Tesla's Bladeless Turbine [video]](https://www.youtube.com/watch?v=Tuzh9mHvzkk)
+- Jul 31 - [Temple OS Theme for Arch Linux](https://github.com/PhilipPanda/TempleOS_Theme)
+- Jul 31 - [Occluding Contour Breakthroughs, Part 1: A Surprisingly Hard Problem](https://aaronhertzmann.com/2023/07/31/occluding-contours-part-1.html)
+- Jul 31 - [Help the Library of Congress create games to improve public knowledge of civics](https://blogs.loc.gov/law/2023/06/help-the-library-of-congress-create-video-games-that-improve-public-knowledge-of-civics/)
+- Jul 31 - [Retrieving your browsing history through a CAPTCHA (2022)](https://varun.ch/history)
+- Jul 31 - [Glass Health (YC W23) is hiring a full-stack engineer in SF to build for doctors](https://news.ycombinator.com/item?id=36948763)
 <!--END_SECTION:hn-->
 
 <!--
