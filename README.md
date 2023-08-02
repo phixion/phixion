@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 01 - [Alfred-40B, an OSS RLHF version of Falcon40B](https://www.lighton.ai/blog/lighton-s-blog-4/introducing-alfred-40b-0723-38)
-- Aug 01 - [“Web Environment Integrity”: Locking Down the Web](https://brave.com/web-standards-at-brave/9-web-environment-integrity/)
-- Aug 01 - [Miyazaki’s Magical Food: An Ode to Anime’s Best Cooking Scenes](https://www.seriouseats.com/studio-ghibli-anime-best-food-scenes)
-- Aug 01 - [Emacs is my new window manager](https://howardism.org/Technical/Emacs/new-window-manager.html)
-- Aug 01 - [Show HN: imessage-exporter, a full-featured CLI app and library](https://github.com/ReagentX/imessage-exporter)
+- Aug 01 - [Fitch Downgrades the US Rating to 'AA+'](https://www.fitchratings.com/research/sovereigns/fitch-downgrades-united-states-long-term-ratings-to-aa-from-aaa-outlook-stable-01-08-2023)
+- Aug 01 - [Help I accidently enabled HSTS–on localhost](https://bartwullems.blogspot.com/2023/07/help-i-accidently-enabled-hstson.html)
+- Aug 01 - [“Once” one-time concurrent initialization with an integer](https://nullprogram.com/blog/2023/07/31/)
+- Aug 01 - [ServiceRouter: Hyperscale and Minimal Cost Service Mesh at Meta [pdf]](https://www.usenix.org/system/files/osdi23-saokar.pdf)
+- Aug 01 - [Transform your Android device into a Linux desktop](https://mrs-t.medium.com/transform-your-android-device-into-a-linux-desktop-110a3d084ac6)
 <!--END_SECTION:hn-->
 
 <!--
