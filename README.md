@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 01 - [Fitch Downgrades the US Rating to 'AA+'](https://www.fitchratings.com/research/sovereigns/fitch-downgrades-united-states-long-term-ratings-to-aa-from-aaa-outlook-stable-01-08-2023)
-- Aug 01 - [Help I accidently enabled HSTS–on localhost](https://bartwullems.blogspot.com/2023/07/help-i-accidently-enabled-hstson.html)
-- Aug 01 - [“Once” one-time concurrent initialization with an integer](https://nullprogram.com/blog/2023/07/31/)
-- Aug 01 - [ServiceRouter: Hyperscale and Minimal Cost Service Mesh at Meta [pdf]](https://www.usenix.org/system/files/osdi23-saokar.pdf)
-- Aug 01 - [Transform your Android device into a Linux desktop](https://mrs-t.medium.com/transform-your-android-device-into-a-linux-desktop-110a3d084ac6)
+- Aug 02 - [I'm Betting on HTML](https://catskull.net/html.html)
+- Aug 02 - [Enu – 3D live coding, implemented in Nim](https://github.com/dsrw/enu)
+- Aug 02 - [Patterns for Building LLM-Based Systems and Products](https://eugeneyan.com/writing/llm-patterns/)
+- Aug 02 - [The Psychology of Cults – Syllabus (Harvard)](https://harvard.simplesyllabus.com/en-US/doc/1qjc9dp1v)
+- Aug 02 - [Electronic Structure of LK-99](https://arxiv.org/abs/2308.00676)
 <!--END_SECTION:hn-->
 
 <!--
