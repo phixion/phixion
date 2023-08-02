@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 02 - [I'm Betting on HTML](https://catskull.net/html.html)
-- Aug 02 - [Enu – 3D live coding, implemented in Nim](https://github.com/dsrw/enu)
-- Aug 02 - [Patterns for Building LLM-Based Systems and Products](https://eugeneyan.com/writing/llm-patterns/)
-- Aug 02 - [The Psychology of Cults – Syllabus (Harvard)](https://harvard.simplesyllabus.com/en-US/doc/1qjc9dp1v)
-- Aug 02 - [Electronic Structure of LK-99](https://arxiv.org/abs/2308.00676)
+- Aug 02 - [Bitmovin (YC S15) Is Hiring in Austria](https://bitmovin.com/careers/)
+- Aug 02 - [One thing that has changed in the professional game industry is that](https://mastodon.social/@pervognsen/110818513161468960)
+- Aug 02 - [The Beetle That Heads for the ‘Back Door’ When Eaten by a Frog](https://www.smithsonianmag.com/smart-news/when-beetle-gets-eaten-frog-it-forces-its-way-out-back-door-180975484/)
+- Aug 02 - [Reading SEC filings using LLMs](https://www.beatandraise.com/)
+- Aug 02 - [I'm betting on HTML](https://catskull.net/html.html)
 <!--END_SECTION:hn-->
 
 <!--
