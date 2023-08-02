@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 02 - [Bitmovin (YC S15) Is Hiring in Austria](https://bitmovin.com/careers/)
-- Aug 02 - [One thing that has changed in the professional game industry is that](https://mastodon.social/@pervognsen/110818513161468960)
-- Aug 02 - [The Beetle That Heads for the ‘Back Door’ When Eaten by a Frog](https://www.smithsonianmag.com/smart-news/when-beetle-gets-eaten-frog-it-forces-its-way-out-back-door-180975484/)
-- Aug 02 - [Reading SEC filings using LLMs](https://www.beatandraise.com/)
-- Aug 02 - [I'm betting on HTML](https://catskull.net/html.html)
+- Aug 02 - [Why Edge Detection Doesn’t Explain Line Drawing](https://aaronhertzmann.com/2020/04/19/lines-as-edges.html)
+- Aug 02 - [Ask HN: Why is LK-99 public?](https://news.ycombinator.com/item?id=36969412)
+- Aug 02 - [Fitch downgrades U.S. after debt limit stalemate](https://www.politico.com/news/2023/08/01/fitch-downgrades-u-s-debt-00109288)
+- Aug 02 - [South America is living one of the climate extreme events](https://twitter.com/extremetemps/status/1686485331539820545)
+- Aug 02 - [Harvard professor Francesca Gino was accused of faking data](https://www.businessinsider.com/harvard-francesca-gino-fake-data-fraud-allegations-scholar-2023-7)
 <!--END_SECTION:hn-->
 
 <!--
