@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 02 - [Why Edge Detection Doesn’t Explain Line Drawing](https://aaronhertzmann.com/2020/04/19/lines-as-edges.html)
-- Aug 02 - [Ask HN: Why is LK-99 public?](https://news.ycombinator.com/item?id=36969412)
-- Aug 02 - [Fitch downgrades U.S. after debt limit stalemate](https://www.politico.com/news/2023/08/01/fitch-downgrades-u-s-debt-00109288)
-- Aug 02 - [South America is living one of the climate extreme events](https://twitter.com/extremetemps/status/1686485331539820545)
-- Aug 02 - [Harvard professor Francesca Gino was accused of faking data](https://www.businessinsider.com/harvard-francesca-gino-fake-data-fraud-allegations-scholar-2023-7)
+- Aug 02 - [STL: The Vector](https://devblogs.microsoft.com/oldnewthing/20230802-00/?p=108524)
+- Aug 02 - [Meta Open Sources AudioCraft: Generative AI for Audio](https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/)
+- Aug 02 - [A Non-Mathematical Introduction to Kalman Filters for Programmers](https://praveshkoirala.com/2023/06/13/a-non-mathematical-introduction-to-kalman-filters-for-programmers/)
+- Aug 02 - [“The Onion” founder explains his strategy for sparking creativity](https://bigthink.com/the-learning-curve/the-onion-founder-strategies-sparking-creativity/)
+- Aug 02 - [How I discovered the underground world of credit card network exploitation](https://chargebackstop.com/blog/card-networks-exploitation/)
 <!--END_SECTION:hn-->
 
 <!--
