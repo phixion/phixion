@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 03 - [SMS Pumping Attack](https://support.twilio.com/hc/en-us/articles/8360406023067-SMS-Traffic-Pumping-Fraud)
-- Aug 03 - [With merge of this pull request, Brave Browser disables WebEnvironmentIntegrity](https://github.com/brave/brave-core/pull/19476)
-- Aug 03 - [Fitch Downgrades US Debt](https://www.bbc.com/news/business-66379366)
-- Aug 03 - [Life at the Margin: How I got $25,000 in debt](https://www.natecation.com/life-at-the-margin-credit-card-debt/)
-- Aug 03 - [200k Compromised OpenAI Credentials Available for Purchase on the Dark Web](https://www.cpomagazine.com/cyber-security/over-200000-compromised-openai-credentials-available-for-purchase-on-the-dark-web/)
+- Aug 03 - [A list of recent hostile moves by Google's Chrome team](https://mastodon.social/@nekohayo/110775656176571435)
+- Aug 03 - [Google’s Plan to DRM the Web Goes Against Everything Google Once Stood For](https://www.techdirt.com/2023/08/02/googles-plan-to-drm-the-web-goes-against-everything-google-once-stood-for/)
+- Aug 03 - [Tell HN: ai.com used to redirect to chat.openai.com, now it redirects to x.ai](https://news.ycombinator.com/item?id=36981860)
+- Aug 03 - [LTS == 15 Years Not 5](https://www.logikalsolutions.com/wordpress/information-technology/lts/)
+- Aug 03 - [System settings that aren’t in System Settings](https://eclecticlight.co/2023/07/29/system-settings-that-arent-in-system-settings/)
 <!--END_SECTION:hn-->
 
 <!--
