@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 03 - [UpCodes (YC S17) is hiring engineers to automate construction compliance](https://up.codes/careers)
-- Aug 03 - [Pgvector: Fewer Dimensions Are Better](https://supabase.com/blog/fewer-dimensions-are-better-pgvector)
-- Aug 03 - [Man Spends Entire Career Mastering Crappy Codebase](https://taylor.town/entire-career)
-- Aug 03 - [Network Protocols for Anyone Who Knows a Programming Language](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
-- Aug 03 - [Briefcase: Convert a Python project into a standalone native application](https://briefcase.readthedocs.io/en/stable/)
+- Aug 03 - [The Cartel That Controls the US Food System](https://statecraft.beehiiv.com/p/the-cartel-that-controls-us-meat)
+- Aug 03 - [GNU Units](https://www.gnu.org/software/units/)
+- Aug 03 - [Kenyan moderators decry toll of training of AI](https://www.theguardian.com/technology/2023/aug/02/ai-chatbot-training-human-toll-content-moderator-meta-openai)
+- Aug 03 - [Elixir for Cynical Curmudgeons](https://wiki.alopex.li/ElixirForCynicalCurmudgeons)
+- Aug 03 - [Cloudflare Registrar now supports .dev domains](https://twitter.com/eastdakota/status/1686513213503127557)
 <!--END_SECTION:hn-->
 
 <!--
