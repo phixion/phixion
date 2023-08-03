@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 03 - [The Cartel That Controls the US Food System](https://statecraft.beehiiv.com/p/the-cartel-that-controls-us-meat)
-- Aug 03 - [GNU Units](https://www.gnu.org/software/units/)
-- Aug 03 - [Kenyan moderators decry toll of training of AI](https://www.theguardian.com/technology/2023/aug/02/ai-chatbot-training-human-toll-content-moderator-meta-openai)
-- Aug 03 - [Elixir for Cynical Curmudgeons](https://wiki.alopex.li/ElixirForCynicalCurmudgeons)
-- Aug 03 - [Cloudflare Registrar now supports .dev domains](https://twitter.com/eastdakota/status/1686513213503127557)
+- Aug 03 - [Cognitive AI for ADHD](https://www.comigo.ai)
+- Aug 03 - [Commercial quantum computer identifies molecular candidate for better solar cell](https://www.ornl.gov/news/researchers-use-commercial-quantum-computer-identify-molecular-candidate-development-more)
+- Aug 03 - [The Holocaust Bomb: A Question of Time [2007]](https://sgp.fas.org/eprint/morland.html)
+- Aug 03 - [FCC fines robocaller a record $300M after blocking billions of their scam calls](https://techcrunch.com/2023/08/03/fcc-fines-robocaller-a-record-300m-after-blocking-billions-of-their-scam-calls/)
+- Aug 03 - [AWS to Begin Charging for Public IPv4 Addresses](https://www.infoq.com/news/2023/08/aws-ec2-public-ipv4/)
 <!--END_SECTION:hn-->
 
 <!--
