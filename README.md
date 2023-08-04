@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 04 - [Customers report missing deposits from Wells Fargo bank accounts](https://www.cnn.com/2023/08/03/business/wells-fargo-technical-issue-direct-deposits/index.html)
-- Aug 04 - [Comcast, Centurylink Fail to Derail Utah Community-Owned Gigabit Fiber Network](https://www.techdirt.com/2023/08/04/comcast-centurylink-fail-to-derail-community-owned-gigabit-fiber-network-in-bountiful-utah/)
-- Aug 04 - [Virtualizing Development Environments in 2023](https://hocus.dev/blog/virtualizing-development-environments/)
-- Aug 04 - [Remote work requires communicating more, but less frequently](https://ben.balter.com/2023/08/04/remote-work-communicate-more-with-less/)
-- Aug 04 - [How to add an AI Code Copilot to your product using GPT4](https://www.windmill.dev/blog/windmill-ai)
+- Aug 04 - [Show HN: Gdańsk AI – full stack AI voice chatbot (STT, LLM, TTS, auth, payments)](https://github.com/jmaczan/gdansk-ai)
+- Aug 04 - [Heat-assisted detection and ranging (HADAR)](https://www.nature.com/articles/s41586-023-06174-6)
+- Aug 04 - [Ten Ways to Teach Kids to Code](https://web.archive.org/web/20220810201855/https://transmission.vehikl.com/ten-ways-to-teach-kids-to-code/)
+- Aug 04 - [Melatonin, a sleep aid, is a surprising treatment for food waste](https://www.anthropocenemagazine.org/2023/08/melatonin-a-sleep-aid-is-a-surprising-treatment-for-food-waste/)
+- Aug 04 - [Throw away your first draft of your code](https://ntietz.com/blog/throw-away-your-first-draft/)
 <!--END_SECTION:hn-->
 
 <!--
