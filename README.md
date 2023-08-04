@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 04 - [PicoLisp Tutorials](https://picolisp-explored.com)
-- Aug 04 - [Zig 0.11](https://ziglang.org/download/0.11.0/release-notes.html)
-- Aug 04 - [Successful room temperature ambient-pressure magnetic levitation of LK-99](https://arxiv.org/abs/2308.01516)
-- Aug 04 - [Some remarks on possible superconductivity of composition Pb9CuP6O25](https://arxiv.org/abs/2308.01723)
-- Aug 04 - [Storing dead people at -196°C [video]](https://www.youtube.com/watch?v=85BykUan6pw)
+- Aug 04 - [MindsDB (YC W20) Is Hiring a Developer Advocate](https://jobs.lever.co/mindsdb/df8af46c-7168-4a11-bc04-52638b694833?lever-origin=applied&lever-source%5B%5D=Hackernews)
+- Aug 04 - [Painting the Eiffel Tower](https://www.toureiffel.paris/en/the-monument/painting-eiffel-tower)
+- Aug 04 - [Even people who bought Meta’s Ray-Ban smart glasses don’t want to use them](https://arstechnica.com/gadgets/2023/08/even-people-who-bought-metas-ray-ban-smart-glasses-dont-want-to-use-them/)
+- Aug 04 - [Ocean Heat Record Broken](https://www.bbc.com/news/science-environment-66387537)
+- Aug 04 - [Andrew McCalip demonstrates synthesis of LK99](https://twitter.com/andrewmccalip/status/1687405505604734978)
 <!--END_SECTION:hn-->
 
 <!--
