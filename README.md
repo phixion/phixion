@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 04 - [MindsDB (YC W20) Is Hiring a Developer Advocate](https://jobs.lever.co/mindsdb/df8af46c-7168-4a11-bc04-52638b694833?lever-origin=applied&lever-source%5B%5D=Hackernews)
-- Aug 04 - [Painting the Eiffel Tower](https://www.toureiffel.paris/en/the-monument/painting-eiffel-tower)
-- Aug 04 - [Even people who bought Meta’s Ray-Ban smart glasses don’t want to use them](https://arstechnica.com/gadgets/2023/08/even-people-who-bought-metas-ray-ban-smart-glasses-dont-want-to-use-them/)
-- Aug 04 - [Ocean Heat Record Broken](https://www.bbc.com/news/science-environment-66387537)
-- Aug 04 - [Andrew McCalip demonstrates synthesis of LK99](https://twitter.com/andrewmccalip/status/1687405505604734978)
+- Aug 04 - [Customers report missing deposits from Wells Fargo bank accounts](https://www.cnn.com/2023/08/03/business/wells-fargo-technical-issue-direct-deposits/index.html)
+- Aug 04 - [Comcast, Centurylink Fail to Derail Utah Community-Owned Gigabit Fiber Network](https://www.techdirt.com/2023/08/04/comcast-centurylink-fail-to-derail-community-owned-gigabit-fiber-network-in-bountiful-utah/)
+- Aug 04 - [Virtualizing Development Environments in 2023](https://hocus.dev/blog/virtualizing-development-environments/)
+- Aug 04 - [Remote work requires communicating more, but less frequently](https://ben.balter.com/2023/08/04/remote-work-communicate-more-with-less/)
+- Aug 04 - [How to add an AI Code Copilot to your product using GPT4](https://www.windmill.dev/blog/windmill-ai)
 <!--END_SECTION:hn-->
 
 <!--
