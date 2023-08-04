@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 03 - [Cognitive AI for ADHD](https://www.comigo.ai)
-- Aug 03 - [Commercial quantum computer identifies molecular candidate for better solar cell](https://www.ornl.gov/news/researchers-use-commercial-quantum-computer-identify-molecular-candidate-development-more)
-- Aug 03 - [The Holocaust Bomb: A Question of Time [2007]](https://sgp.fas.org/eprint/morland.html)
-- Aug 03 - [FCC fines robocaller a record $300M after blocking billions of their scam calls](https://techcrunch.com/2023/08/03/fcc-fines-robocaller-a-record-300m-after-blocking-billions-of-their-scam-calls/)
-- Aug 03 - [AWS to Begin Charging for Public IPv4 Addresses](https://www.infoq.com/news/2023/08/aws-ec2-public-ipv4/)
+- Aug 03 - [Java: New Draft JEP: “Computed Constants”](http://minborgsjavapot.blogspot.com/2023/08/java-new-draft-jep-computed-constants.html)
+- Aug 03 - [Royal Mail to Issue “Terry Pratchett’s Discworld” Stamps](https://file770.com/royal-mail-to-issue-terry-pratchetts-discworld-stamps/)
+- Aug 03 - [Nuked-MD-FPGA – accurate Sega Genesis re-implementation based on decapped chips](https://github.com/nukeykt/Nuked-MD-FPGA)
+- Aug 03 - [As ocean oxygen levels dip, fish face an uncertain future](https://e360.yale.edu/features/as-ocean-oxygen-levels-dip-fish-face-an-uncertain-future)
+- Aug 03 - [Magic123: One Image to High-Quality 3D Object Generation](https://guochengqian.github.io/project/magic123/)
 <!--END_SECTION:hn-->
 
 <!--
