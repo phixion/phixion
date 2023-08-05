@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 05 - [Digitization of “The Most Beautiful of All Printed Books,” the Kelmscott Chaucer](https://www.openculture.com/2023/08/behold-a-digitization-of-the-most-beautiful-of-all-printed-books-the-kelmscott-chaucer.html)
-- Aug 05 - [Reduction of sulfur emissions from ships may be causing rising sea temperatures](https://twitter.com/hankgreen/status/1687535525169930241)
-- Aug 05 - [Double neural bypass restores movement, sense of touch after paralysis](https://feinstein.northwell.edu/news/the-latest/bioelectronic-medicine-researchers-restore-feeling-lasting-movement-in-man-living-with-quadriplegia)
-- Aug 04 - [Math Exposition on YouTube](https://dustingmixon.wordpress.com/2023/08/04/math-exposition-on-youtube/)
-- Aug 04 - [Pay no attention to the USB port behind the “no USB” sticker](https://www.theverge.com/2023/8/4/23820710/pay-no-attention-to-the-usb-port-behind-the-no-usb-sticker)
+- Aug 05 - [Raycast (YC W20) Is Hiring a macOS Engineer (Remote, UTC ± 3 Hours)](https://www.raycast.com/jobs/software-engineer-macos)
+- Aug 05 - [Archive.today: on the trail of mysterious guerrilla archivists of the Internet](https://gyrovague.com/2023/08/05/archive-today-on-the-trail-of-the-mysterious-guerrilla-archivist-of-the-internet/)
+- Aug 05 - [Try the Last Internet Kermit Server](https://changelog.complete.org/archives/10555-try-the-last-internet-kermit-server)
+- Aug 05 - [Eventual Business Consistency](https://tidyfirst.substack.com/p/eventual-business-consistency)
+- Aug 05 - [NASA has reestablished full communications with Voyager 2](https://www.jpl.nasa.gov/news/nasa-mission-update-voyager-2-communications-pause)
 <!--END_SECTION:hn-->
 
 <!--
