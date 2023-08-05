@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 05 - [Raycast (YC W20) Is Hiring a macOS Engineer (Remote, UTC ± 3 Hours)](https://www.raycast.com/jobs/software-engineer-macos)
-- Aug 05 - [Archive.today: on the trail of mysterious guerrilla archivists of the Internet](https://gyrovague.com/2023/08/05/archive-today-on-the-trail-of-the-mysterious-guerrilla-archivist-of-the-internet/)
-- Aug 05 - [Try the Last Internet Kermit Server](https://changelog.complete.org/archives/10555-try-the-last-internet-kermit-server)
-- Aug 05 - [Eventual Business Consistency](https://tidyfirst.substack.com/p/eventual-business-consistency)
-- Aug 05 - [NASA has reestablished full communications with Voyager 2](https://www.jpl.nasa.gov/news/nasa-mission-update-voyager-2-communications-pause)
+- Aug 05 - [Italy Is Betting Big on Train Travel](https://www.smithsonianmag.com/smart-news/italy-tourist-trains-180982657/)
+- Aug 05 - [Intel x86 Documentation Has More Pages Than The 6502 Has Transistors (2013)](http://www.righto.com/2013/09/intel-x86-documentation-has-more-pages.html)
+- Aug 05 - [He Dropped Out to Become a Poet. Now He’s Won a Fields Medal (2022)](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/#repost)
+- Aug 05 - [Flux Pinning in sample of LK-99](https://twitter.com/andercot/status/1687740396691185664)
+- Aug 05 - [GitHub Actions and Vanity Metrics](https://jamesconroyfinn.com/github-actions-and-vanity-metrics)
 <!--END_SECTION:hn-->
 
 <!--
