@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 06 - [Cult of the Dead Cow Wants to Save Internet Privacy with New Encryption Protocol](https://gizmodo.com/cult-of-the-dead-cow-launches-veilid-encryption-project-1850699803)
-- Aug 06 - [Area 51 FBI Raid (2023)](https://www.area51fbiraid.com/)
-- Aug 06 - [The way out of burnout (2016)](https://www.economist.com/1843/2016/07/28/the-way-out-of-burnout)
-- Aug 06 - [Types of Garden Hoe](https://www.easydigging.com/garden-hoes/articles/types-of-hoes.html)
-- Aug 06 - [George Church lab creates functional ovary tissue from adult human stem cells](https://elifesciences.org/articles/83291)
+- Aug 06 - [The Sad Bastard Cookbook: Food you can make so you don't die](https://traumbooks.itch.io/the-sad-bastard-cookbook)
+- Aug 06 - [Euros Bills Drawn Not to Represent Real Bridges. He Built Them All on This River](https://www.boredpanda.com/euro-notes-real-bridges-comparison-robin-stam/)
+- Aug 06 - [Write Elixir NIFs in Rust](https://docs.rs/crate/rustler/latest)
+- Aug 06 - [People who've received a black bar on Hacker News](https://bear.willmeyers.net/whos-received-a-black-bar/)
+- Aug 06 - [Cult of the Dead Cow wants to save internet privacy with new encryption protocol](https://gizmodo.com/cult-of-the-dead-cow-launches-veilid-encryption-project-1850699803)
 <!--END_SECTION:hn-->
 
 <!--
