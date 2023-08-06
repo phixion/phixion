@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 06 - [Ironically, Zoom tells employees to return to office for work](https://nypost.com/2023/08/05/zoom-tells-employees-to-return-to-office-for-work/)
-- Aug 06 - [‘Baldur’s Gate 3’ Prepared for 100k Concurrent Players, They’ve Gotten 700K](https://www.forbes.com/sites/paultassi/2023/08/06/baldurs-gate-3-prepared-for-100000-concurrent-players-theyve-gotten-700000/)
-- Aug 06 - [I Went to 50 Different Dentists: Almost All Gave a Different Diagnosis](https://www.rd.com/article/how-honest-are-dentists/)
-- Aug 06 - [Offshore wind potential in the US is huge but untapped](https://www.theverge.com/2023/8/1/23815450/us-offshore-wind-potential-berkley-report)
-- Aug 06 - [China's Zombie Economy](https://newleftreview.org/sidecar/posts/zombie-economy)
+- Aug 06 - [Barco: Linux Containers from Scratch in C](https://github.com/lucavallin/barco)
+- Aug 06 - [Eight Months Pregnant and Arrested After False Facial Recognition Match](https://www.nytimes.com/2023/08/06/technology/facial-recognition-false-arrest.html)
+- Aug 06 - [We Are All Animals at Night](https://hazlitt.net/feature/we-are-all-animals-night)
+- Aug 06 - [My history with Forth, and stack machines (2010)](https://yosefk.com/blog/my-history-with-forth-stack-machines.html)
+- Aug 06 - [Meta Blocking News Links in Canada](https://www.michaelgeist.ca/2023/08/metablockslinks/)
 <!--END_SECTION:hn-->
 
 <!--
