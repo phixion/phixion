@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 06 - [Venture-backed startups are failing at record rates](https://www.fastcompany.com/90933648/venture-backed-startups-are-failing-at-record-rates)
-- Aug 06 - [Show HN: Postgres Language Server](https://github.com/supabase/postgres_lsp)
-- Aug 06 - [Project: Police Flasher and 7-Segment LED Clock Through-Hole Soldering Kits](https://goughlui.com/2023/08/06/project-police-flasher-7-segment-led-clock-through-hole-soldering-kits/)
-- Aug 06 - [Error Handling in Zig](https://www.aolium.com/karlseguin/4013ac14-2457-479b-e59b-e603c04673c8)
-- Aug 06 - [Show HN: Archsense – Accurately generated architecture from the source code](https://www.archsense.dev)
+- Aug 06 - [Ironically, Zoom tells employees to return to office for work](https://nypost.com/2023/08/05/zoom-tells-employees-to-return-to-office-for-work/)
+- Aug 06 - [‘Baldur’s Gate 3’ Prepared for 100k Concurrent Players, They’ve Gotten 700K](https://www.forbes.com/sites/paultassi/2023/08/06/baldurs-gate-3-prepared-for-100000-concurrent-players-theyve-gotten-700000/)
+- Aug 06 - [I Went to 50 Different Dentists: Almost All Gave a Different Diagnosis](https://www.rd.com/article/how-honest-are-dentists/)
+- Aug 06 - [Offshore wind potential in the US is huge but untapped](https://www.theverge.com/2023/8/1/23815450/us-offshore-wind-potential-berkley-report)
+- Aug 06 - [China's Zombie Economy](https://newleftreview.org/sidecar/posts/zombie-economy)
 <!--END_SECTION:hn-->
 
 <!--
