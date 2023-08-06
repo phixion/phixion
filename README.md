@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 06 - [The Sad Bastard Cookbook: Food you can make so you don't die](https://traumbooks.itch.io/the-sad-bastard-cookbook)
-- Aug 06 - [Euros Bills Drawn Not to Represent Real Bridges. He Built Them All on This River](https://www.boredpanda.com/euro-notes-real-bridges-comparison-robin-stam/)
-- Aug 06 - [Write Elixir NIFs in Rust](https://docs.rs/crate/rustler/latest)
-- Aug 06 - [People who've received a black bar on Hacker News](https://bear.willmeyers.net/whos-received-a-black-bar/)
-- Aug 06 - [Cult of the Dead Cow wants to save internet privacy with new encryption protocol](https://gizmodo.com/cult-of-the-dead-cow-launches-veilid-encryption-project-1850699803)
+- Aug 06 - [Venture-backed startups are failing at record rates](https://www.fastcompany.com/90933648/venture-backed-startups-are-failing-at-record-rates)
+- Aug 06 - [Show HN: Postgres Language Server](https://github.com/supabase/postgres_lsp)
+- Aug 06 - [Project: Police Flasher and 7-Segment LED Clock Through-Hole Soldering Kits](https://goughlui.com/2023/08/06/project-police-flasher-7-segment-led-clock-through-hole-soldering-kits/)
+- Aug 06 - [Error Handling in Zig](https://www.aolium.com/karlseguin/4013ac14-2457-479b-e59b-e603c04673c8)
+- Aug 06 - [Show HN: Archsense – Accurately generated architecture from the source code](https://www.archsense.dev)
 <!--END_SECTION:hn-->
 
 <!--
