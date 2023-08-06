@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 05 - [Mass Editing Memory in a Transformer](https://arxiv.org/abs/2210.07229)
-- Aug 05 - [Searching for Paul C. Pratt](https://www.bigmessowires.com/2023/08/05/searching-for-paul-c-pratt/)
-- Aug 05 - [Jeremy Vaught spent 16 years to build @music on Twitter, then X took it away](https://syzito.xyz/@selzero/110837319716739179)
-- Aug 05 - [E-scooter startup Spin apparently uses RasPi 4s inside their scooters](https://abolish.social/@_/110828271798284741)
-- Aug 05 - [Tim Hunkin (Secret Lives of Machines)](https://www.timhunkin.com/control/o_about_the_site.htm)
+- Aug 06 - [Cult of the Dead Cow Wants to Save Internet Privacy with New Encryption Protocol](https://gizmodo.com/cult-of-the-dead-cow-launches-veilid-encryption-project-1850699803)
+- Aug 06 - [Area 51 FBI Raid (2023)](https://www.area51fbiraid.com/)
+- Aug 06 - [The way out of burnout (2016)](https://www.economist.com/1843/2016/07/28/the-way-out-of-burnout)
+- Aug 06 - [Types of Garden Hoe](https://www.easydigging.com/garden-hoes/articles/types-of-hoes.html)
+- Aug 06 - [George Church lab creates functional ovary tissue from adult human stem cells](https://elifesciences.org/articles/83291)
 <!--END_SECTION:hn-->
 
 <!--
