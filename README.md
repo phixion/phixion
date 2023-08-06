@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 05 - [nic.funet.fi: Serving freely distributable files with FTP since 1990](https://www.funet.fi/)
-- Aug 05 - [IBM and NASA open-source largest geospatial AI foundation model on Hugging Face](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face?sf180690117=1)
-- Aug 05 - [We’re closer to ‘engineering’ blood vessels](https://pursuit.unimelb.edu.au/articles/we-re-closer-to-engineering-blood-vessels)
-- Aug 05 - [Replacing the bad flyback transformer in Apple's Studio Display 17"](https://www.riveducha.com/fix-apple-studio-display-flyback)
-- Aug 05 - [From Cyberdog to dataless files: a brief history of iCloud](https://eclecticlight.co/2023/08/05/from-cyberdog-to-dataless-files-a-brief-history-of-icloud/)
+- Aug 05 - [Mass Editing Memory in a Transformer](https://arxiv.org/abs/2210.07229)
+- Aug 05 - [Searching for Paul C. Pratt](https://www.bigmessowires.com/2023/08/05/searching-for-paul-c-pratt/)
+- Aug 05 - [Jeremy Vaught spent 16 years to build @music on Twitter, then X took it away](https://syzito.xyz/@selzero/110837319716739179)
+- Aug 05 - [E-scooter startup Spin apparently uses RasPi 4s inside their scooters](https://abolish.social/@_/110828271798284741)
+- Aug 05 - [Tim Hunkin (Secret Lives of Machines)](https://www.timhunkin.com/control/o_about_the_site.htm)
 <!--END_SECTION:hn-->
 
 <!--
