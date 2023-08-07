@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 07 - [Why San Francisco Is a Homeless Mecca](https://www.wsj.com/articles/why-san-francisco-is-a-homeless-mecca-drug-prosecutions-treatment-344aac97)
-- Aug 07 - [Bordeaux should be a climate change red flag for the wine industry](https://www.softwine.ai/bordeaux-the-canary-in-the-cellar)
-- Aug 07 - [How to generate tested software packages using LLMs, a sandbox and a while loop](https://github.com/modal-labs/devlooper)
-- Aug 07 - [Simple Networking in Linux](https://insanity.industries/post/simple-networking/)
-- Aug 07 - [Snappy UIs with WebAssembly and Web Workers](https://mofi.loud.red/blog/wasm-and-workers)
+- Aug 07 - [There Is No Housing Crisis](https://thewalrus.ca/there-is-no-housing-crisis/)
+- Aug 07 - [Open-source canvas drawing web app, built using React](https://github.com/diogocapela/flatdraw)
+- Aug 07 - [Zoom's TOS Permit Training AI on User Content Without Opt-Out](https://stackdiary.com/zoom-terms-now-allow-training-ai-on-user-content-with-no-opt-out/)
+- Aug 07 - [A beginner's guide to Git version control](https://developers.redhat.com/articles/2023/08/02/beginners-guide-git-version-control)
+- Aug 07 - [The combined power of F# and C#](https://steven-giesel.com/blogPost/2f70d926-ec92-4dfe-b278-18f78078253d)
 <!--END_SECTION:hn-->
 
 <!--
