@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 07 - [A new chip shortage mid 2023 is hitting Australia hard – how long will it last?](https://www.sbs.com.au/news/article/whats-causing-australias-frozen-chip-shortage-and-how-long-will-it-last/ljhcvjctq)
-- Aug 07 - [My Frugal Indie Dev Startup Stack](https://getwaitlist.com/blog/solo-dev-startup-stack)
-- Aug 07 - [Ongoing compilation table of LK-99 reproduction claims](https://forums.spacebattles.com/threads/claims-of-room-temperature-and-ambient-pressure-superconductor.1106083/page-13)
-- Aug 07 - [Orb is a free and open source web desktop](https://gitlab.com/hsleisink/orb)
-- Aug 07 - [GPTBot – OpenAI’s Web Crawler](https://platform.openai.com/docs/gptbot)
+- Aug 07 - [Why San Francisco Is a Homeless Mecca](https://www.wsj.com/articles/why-san-francisco-is-a-homeless-mecca-drug-prosecutions-treatment-344aac97)
+- Aug 07 - [Bordeaux should be a climate change red flag for the wine industry](https://www.softwine.ai/bordeaux-the-canary-in-the-cellar)
+- Aug 07 - [How to generate tested software packages using LLMs, a sandbox and a while loop](https://github.com/modal-labs/devlooper)
+- Aug 07 - [Simple Networking in Linux](https://insanity.industries/post/simple-networking/)
+- Aug 07 - [Snappy UIs with WebAssembly and Web Workers](https://mofi.loud.red/blog/wasm-and-workers)
 <!--END_SECTION:hn-->
 
 <!--
