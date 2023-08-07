@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 06 - [Show HN: Tarot Arcana—AI tarot card readings](https://apps.apple.com/us/app/tarot-arcana/id1539747669)
-- Aug 06 - [The Optics Library](http://markelz.physics.buffalo.edu/node/411)
-- Aug 06 - [Serial murders have dwindled, thanks to improved technology](https://www.nytimes.com/2023/08/06/nyregion/serial-killers-gilgo-beach-rex-heuermann.html)
-- Aug 06 - [Every reported mistaken arrest using facial recognition, person has been Black](https://www.businessinsider.com/in-every-reported-false-arrests-based-on-facial-recognition-that-person-has-been-black-2023-8)
-- Aug 06 - [Timo Noko – The Professional Hobo](https://timonoko.github.io/)
+- Aug 07 - [Scientists develop pill able to kill all solid tumors in preclinical research](https://www.cityofhope.org/city-hope-scientists-develop-targeted-chemotherapy-able-kill-all-solid-tumors-preclinical-research)
+- Aug 07 - [Uber CEO Stunned When He Heard Cost of 3-Mile Uber Ride](https://futurism.com/the-byte/uber-ceo-ride-cost)
+- Aug 07 - [Java’s Floating-Point Hurts Everyone Everywhere [pdf]](https://people.eecs.berkeley.edu/~wkahan/JAVAhurt.pdf)
+- Aug 06 - [Cloth Simulation](https://oimo.io/works/cloth/)
+- Aug 06 - [Ravenchord – A Radical Redesign of the Piano](https://whipsaw.com/2023/06/05/unveiling-ravenchord-a-radical-piano-redesign-from-dan-harden/)
 <!--END_SECTION:hn-->
 
 <!--
