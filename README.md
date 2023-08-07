@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 06 - [Barco: Linux Containers from Scratch in C](https://github.com/lucavallin/barco)
-- Aug 06 - [Eight Months Pregnant and Arrested After False Facial Recognition Match](https://www.nytimes.com/2023/08/06/technology/facial-recognition-false-arrest.html)
-- Aug 06 - [We Are All Animals at Night](https://hazlitt.net/feature/we-are-all-animals-night)
-- Aug 06 - [My history with Forth, and stack machines (2010)](https://yosefk.com/blog/my-history-with-forth-stack-machines.html)
-- Aug 06 - [Meta Blocking News Links in Canada](https://www.michaelgeist.ca/2023/08/metablockslinks/)
+- Aug 06 - [Show HN: Tarot Arcana—AI tarot card readings](https://apps.apple.com/us/app/tarot-arcana/id1539747669)
+- Aug 06 - [The Optics Library](http://markelz.physics.buffalo.edu/node/411)
+- Aug 06 - [Serial murders have dwindled, thanks to improved technology](https://www.nytimes.com/2023/08/06/nyregion/serial-killers-gilgo-beach-rex-heuermann.html)
+- Aug 06 - [Every reported mistaken arrest using facial recognition, person has been Black](https://www.businessinsider.com/in-every-reported-false-arrests-based-on-facial-recognition-that-person-has-been-black-2023-8)
+- Aug 06 - [Timo Noko – The Professional Hobo](https://timonoko.github.io/)
 <!--END_SECTION:hn-->
 
 <!--
