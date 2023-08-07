@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 07 - [Nvidia's CUDA Monopoly](https://matt-rickard.com/nvidias-cuda-monopoly)
-- Aug 07 - [EurKEY: The European Keyboard Layout – For Europeans, Coders and Translators](https://eurkey.steffen.bruentjen.eu/)
+- Aug 07 - [A new chip shortage mid 2023 is hitting Australia hard – how long will it last?](https://www.sbs.com.au/news/article/whats-causing-australias-frozen-chip-shortage-and-how-long-will-it-last/ljhcvjctq)
+- Aug 07 - [My Frugal Indie Dev Startup Stack](https://getwaitlist.com/blog/solo-dev-startup-stack)
+- Aug 07 - [Ongoing compilation table of LK-99 reproduction claims](https://forums.spacebattles.com/threads/claims-of-room-temperature-and-ambient-pressure-superconductor.1106083/page-13)
+- Aug 07 - [Orb is a free and open source web desktop](https://gitlab.com/hsleisink/orb)
 - Aug 07 - [GPTBot – OpenAI’s Web Crawler](https://platform.openai.com/docs/gptbot)
-- Aug 07 - [British gas starts to turn off Hive smart home devices forever](https://www.t3.com/news/british-gas-starts-to-turn-off-hive-smart-home-devices-forever)
-- Aug 07 - [Sedmario: NES Super Mario Bros level 1 written in pure sed](https://github.com/chebykinn/sedmario)
 <!--END_SECTION:hn-->
 
 <!--
