@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 07 - [AI-generated books create a dumpster fire on Amazon and Goodreads](https://janefriedman.com/i-would-rather-see-my-books-pirated/)
-- Aug 07 - [Thoughts on Mark “diveintomark” Pilgrim's and _why's infosuicides (2011)](https://www.hanselman.com/blog/410-gone-thoughts-on-mark-diveintomark-pilgrims-and-whys-infosuicides)
-- Aug 07 - [Overworked and Underpaid, VFX Workers Vote to Unionize at Marvel](https://www.vulture.com/2023/08/vfx-workers-vote-to-unionize-at-marvel-for-the-first-time.html)
-- Aug 07 - [Emerge Tools (YC W21) is hiring an engineer to lead front end development](https://www.ycombinator.com/companies/emerge-tools/jobs/zDcS7ia-senior-software-engineer-frontend-lead)
-- Aug 07 - [CISA Releases Its Cybersecurity Strategic Plan](https://www.cisa.gov/news-events/alerts/2023/08/04/cisa-releases-its-cybersecurity-strategic-plan)
+- Aug 08 - [Lacros on Chromebooks transition plan won’t be quick](https://www.aboutchromebooks.com/news/lacros-on-chromebooks-transition-plan-wont-be-quick/)
+- Aug 08 - [Ubiquitous Superconducting Diode Effect in Superconductor Thin Films](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.027001)
+- Aug 08 - [Ferromagnetic half levitation of LK-99-like synthetic samples](https://arxiv.org/abs/2308.03110)
+- Aug 08 - [Computers Are Broken](https://computer.rip/2023-08-07-STIRred-AND-SHAKEN.html)
+- Aug 08 - [Absence of superconductivity in LK-99 at ambient conditions](https://arxiv.org/abs/2308.03544)
 <!--END_SECTION:hn-->
 
 <!--
