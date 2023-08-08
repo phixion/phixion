@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 08 - [Go 1.21 Released](https://go.dev/doc/go1.21)
-- Aug 08 - [Svelte 5 is going to be radical](https://twitter.com/Rich_Harris/status/1688581184018583558)
-- Aug 08 - [Homo sapiens declared extinct (1999)](https://bruces.medium.com/homo-sapiens-declared-extinct-by-bruce-sterling-1999-cc8b0f94b195)
-- Aug 08 - [EFF denounces Google's WEI proposal](https://www.eff.org/deeplinks/2023/08/your-computer-should-say-what-you-tell-it-say-1)
-- Aug 08 - [Italy approves 40% windfall tax on banks for 2023 as profits soar](https://www.theguardian.com/world/2023/aug/08/italy-approves-40-windfall-tax-on-banks-for-2023-as-profits-soar)
+- Aug 08 - [See where your house was 66M years ago](https://dinosaurpictures.org/ancient-earth#66)
+- Aug 08 - [The Microcontroller That Just Won’t Die](https://www.eejournal.com/article/the-microcontroller-that-just-wont-die/)
+- Aug 08 - [Show HN: Easyful – A Free Gumroad Alternative](https://www.easyful.com/)
+- Aug 08 - [Low-cost Smartwatch powered by ESP32 module](https://linuxgizmos.com/low-cost-smartwatch-powered-by-esp32-s3-module/)
+- Aug 08 - [What happened in this GPT-3 conversation?](https://chat.openai.com/share/f5341665-7f08-4fca-9639-04201363506e)
 <!--END_SECTION:hn-->
 
 <!--
