@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 09 - [Using GPT as an HVAC control system](https://arxiv.org/abs/2308.03028)
-- Aug 09 - [Swap_8_and_9: A simple import can modify the Python interpreter](https://kenschutte.com/python-swap-ints/)
-- Aug 09 - [Plunder and Urbit](https://gist.github.com/wicrum-wicrun/b308b298721ccbe0de9c6c73a6ee4242)
-- Aug 09 - [Testing Intel’s Arc A770 GPU for Deep Learning](https://christianjmills.com/posts/arc-a770-testing/part-2/)
-- Aug 09 - [Rising ill-health and economic inactivity from long-term sickness: 2019 to 2023](https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/economicinactivity/articles/risingillhealthandeconomicinactivitybecauseoflongtermsicknessuk/2019to2023)
+- Aug 09 - [Reflecting on My Failure to Build a Billion-Dollar Company (2019)](https://sahillavingia.com/reflecting)
+- Aug 09 - [Amazon has more than half of all Arm server CPUs in the world](https://www.theregister.com/2023/08/08/amazon_arm_servers/)
+- Aug 09 - [A Critical Problem – This photo gives me the creeps](https://nucleardiner.wordpress.com/2017/06/19/a-critical-problem/)
+- Aug 09 - [Happy Birthday OpenStreetMap](https://blog.openstreetmap.org/2023/08/09/happy-birthday-openstreetmap-2/)
+- Aug 09 - [Llama from Scratch (or how to implement a paper without crying)](https://blog.briankitano.com/llama-from-scratch/)
 <!--END_SECTION:hn-->
 
 <!--
