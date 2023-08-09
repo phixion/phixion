@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 08 - [See where your house was 66M years ago](https://dinosaurpictures.org/ancient-earth#66)
-- Aug 08 - [The Microcontroller That Just Won’t Die](https://www.eejournal.com/article/the-microcontroller-that-just-wont-die/)
-- Aug 08 - [Show HN: Easyful – A Free Gumroad Alternative](https://www.easyful.com/)
-- Aug 08 - [Low-cost Smartwatch powered by ESP32 module](https://linuxgizmos.com/low-cost-smartwatch-powered-by-esp32-s3-module/)
-- Aug 08 - [What happened in this GPT-3 conversation?](https://chat.openai.com/share/f5341665-7f08-4fca-9639-04201363506e)
+- Aug 08 - [Unity Weta Tools](https://unity.com/solutions/unity-weta-tools)
+- Aug 08 - [LK-99: Phonon Bands, Localized Flat Band Magnetism, Models, & Chemical Analysis](https://drive.google.com/file/d/1ekD2KVV_SUid2wH__o1ODS3hTl1GUFb5/view)
+- Aug 08 - [Android 14 introduces cellular connectivity security features](https://security.googleblog.com/2023/08/android-14-introduces-first-of-its-kind.html)
+- Aug 08 - [Aviator (YC S21) is hiring engineers to build dev productivity platform](https://www.ycombinator.com/companies/aviator/jobs)
+- Aug 08 - [PackagingCon – a conference only for software package management](https://packaging-con.org)
 <!--END_SECTION:hn-->
 
 <!--
