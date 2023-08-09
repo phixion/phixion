@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 08 - [Unity Weta Tools](https://unity.com/solutions/unity-weta-tools)
-- Aug 08 - [LK-99: Phonon Bands, Localized Flat Band Magnetism, Models, & Chemical Analysis](https://drive.google.com/file/d/1ekD2KVV_SUid2wH__o1ODS3hTl1GUFb5/view)
-- Aug 08 - [Android 14 introduces cellular connectivity security features](https://security.googleblog.com/2023/08/android-14-introduces-first-of-its-kind.html)
-- Aug 08 - [Aviator (YC S21) is hiring engineers to build dev productivity platform](https://www.ycombinator.com/companies/aviator/jobs)
-- Aug 08 - [PackagingCon – a conference only for software package management](https://packaging-con.org)
+- Aug 09 - [Using GPT as an HVAC control system](https://arxiv.org/abs/2308.03028)
+- Aug 09 - [Swap_8_and_9: A simple import can modify the Python interpreter](https://kenschutte.com/python-swap-ints/)
+- Aug 09 - [Plunder and Urbit](https://gist.github.com/wicrum-wicrun/b308b298721ccbe0de9c6c73a6ee4242)
+- Aug 09 - [Testing Intel’s Arc A770 GPU for Deep Learning](https://christianjmills.com/posts/arc-a770-testing/part-2/)
+- Aug 09 - [Rising ill-health and economic inactivity from long-term sickness: 2019 to 2023](https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/economicinactivity/articles/risingillhealthandeconomicinactivitybecauseoflongtermsicknessuk/2019to2023)
 <!--END_SECTION:hn-->
 
 <!--
