@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 09 - [Show HN: Get notified when sites update their terms of service](https://tosnotify.com/)
-- Aug 09 - [Why heart attacks are rising in young adults–and what to watch out for](https://www.nationalgeographic.com/premium/article/heart-attacks-rising-young-adults-risk-factors)
-- Aug 09 - [I don't want to host services (but I do)](https://ergaster.org/posts/2023/08/09-i-dont-want-to-host-services-but-i-do/)
-- Aug 09 - [B.C. woman buried in Amazon packages she did not ask for and does not want](https://www.cbc.ca/news/canada/british-columbia/amazon-shoe-packages-1.6926200)
-- Aug 09 - [Archive of novelty answering machine recordings](http://www.noveltyansweringmachine.com/audio/index.html)
+- Aug 09 - [Living Wage Calculator](https://livingwage.mit.edu/)
+- Aug 09 - [Govt warns kenyans about Worldcoin](https://www.kenyans.co.ke/news/91702-govt-warns-kenyans-about-worldcoin)
+- Aug 09 - [Histoire: A new way to write stories, powered by Vite](https://histoire.dev/)
+- Aug 09 - [Temptations of an open-source Chrome extension developer](https://github.com/extesy/hoverzoom/discussions/670)
+- Aug 09 - [Aptible (YC S14) Is Hiring: Security Compliance Manager and Product-Led Sales Lead](https://www.aptible.com/culture-hub/careers)
 <!--END_SECTION:hn-->
 
 <!--
