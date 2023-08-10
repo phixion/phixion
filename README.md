@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 09 - [Who Was Duns Scotus?](https://aeon.co/essays/duns-scotus-was-no-fool-but-a-brilliant-enigmatic-thinker)
-- Aug 09 - [Is ChatGPT a Bit Unsporting?](https://www.kmjn.org/notes/chatgpt_unsporting.html)
-- Aug 09 - [CNET is deleting old articles to try to improve its Google Search ranking](https://www.theverge.com/2023/8/9/23826342/cnet-content-pruning-deleting-articles-google-seo)
-- Aug 09 - [BuildZoom (YC W13) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- Aug 09 - [Optimization Techniques for GPU Programming [pdf]](https://dl.acm.org/doi/pdf/10.1145/3570638)
+- Aug 10 - [Doctors on TikTok: The Dark Side of Medical Influencers](https://thewalrus.ca/medical-tiktok/)
+- Aug 10 - [Show HN: Bubblic – end loneliness together using the power of your voice](https://bubblic.co/)
+- Aug 10 - [What Is Happening with ChatGPT?](https://chat.openai.com/share/ca5e0c33-7a19-41a1-8f8a-b146b68e2d1a)
+- Aug 10 - [Seattle becomes first in U.S. to protect gig workers from sudden 'deactivation'](https://kuow.org/stories/seattle-becomes-first-in-u-s-to-protect-gig-workers-from-sudden-deactivation)
+- Aug 10 - [UChicago scientists see first evidence of 'quantum superchemistry' in the lab](https://news.uchicago.edu/story/uchicago-scientists-observe-first-evidence-quantum-superchemistry-laboratory)
 <!--END_SECTION:hn-->
 
 <!--
