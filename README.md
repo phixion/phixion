@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 09 - [Living Wage Calculator](https://livingwage.mit.edu/)
-- Aug 09 - [Govt warns kenyans about Worldcoin](https://www.kenyans.co.ke/news/91702-govt-warns-kenyans-about-worldcoin)
-- Aug 09 - [Histoire: A new way to write stories, powered by Vite](https://histoire.dev/)
-- Aug 09 - [Temptations of an open-source Chrome extension developer](https://github.com/extesy/hoverzoom/discussions/670)
-- Aug 09 - [Aptible (YC S14) Is Hiring: Security Compliance Manager and Product-Led Sales Lead](https://www.aptible.com/culture-hub/careers)
+- Aug 09 - [Who Was Duns Scotus?](https://aeon.co/essays/duns-scotus-was-no-fool-but-a-brilliant-enigmatic-thinker)
+- Aug 09 - [Is ChatGPT a Bit Unsporting?](https://www.kmjn.org/notes/chatgpt_unsporting.html)
+- Aug 09 - [CNET is deleting old articles to try to improve its Google Search ranking](https://www.theverge.com/2023/8/9/23826342/cnet-content-pruning-deleting-articles-google-seo)
+- Aug 09 - [BuildZoom (YC W13) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- Aug 09 - [Optimization Techniques for GPU Programming [pdf]](https://dl.acm.org/doi/pdf/10.1145/3570638)
 <!--END_SECTION:hn-->
 
 <!--
