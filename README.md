@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 10 - [Gym Class VR (YC W22) Is Hiring Unity Tooling Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/futIIml-unity-engineer-tools)
-- Aug 10 - [What’s causing the rise of hoarding disorder?](https://daily.jstor.org/whats-causing-the-rise-of-hoarding-disorder/)
-- Aug 10 - [The Future of the Vim Project](https://groups.google.com/g/vim_dev/c/dq9Wu5jqVTw)
-- Aug 10 - [The average Manhattan rent just hit a new record of $5,588 a month](https://www.cnbc.com/2023/08/10/the-average-manhattan-rent-just-hit-a-new-record-of-5588-a-month.html)
-- Aug 10 - [The Yandex Leak: How a Russian Search Giant Uses Consumer Data](https://www.confiant.com/news/the-yandex-leak-how-a-russian-search-giant-uses-consumer-data)
+- Aug 10 - [Maybe the problem is that Harvard exists](https://dynomight.net/harvard/)
+- Aug 10 - [Two Students Shoot Down a Widely Believed Math Conjecture](https://www.quantamagazine.org/two-students-shoot-down-a-widely-believed-math-conjecture-20230810/)
+- Aug 10 - [Launch HN: Rubbrband (YC W23) – Deformity detection for AI-generated images](https://news.ycombinator.com/item?id=37076693)
+- Aug 10 - [MS Teams channels cannot contain MS-DOS device names](https://learn.microsoft.com/en-us/microsoftteams/limits-specifications-teams)
+- Aug 10 - [Nanoscale 'tattoos' for individual cells could provide early health warnings](https://phys.org/news/2023-08-nanoscale-tattoos-individual-cells-early.html)
 <!--END_SECTION:hn-->
 
 <!--
