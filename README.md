@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 10 - [Doctors on TikTok: The Dark Side of Medical Influencers](https://thewalrus.ca/medical-tiktok/)
-- Aug 10 - [Show HN: Bubblic – end loneliness together using the power of your voice](https://bubblic.co/)
-- Aug 10 - [What Is Happening with ChatGPT?](https://chat.openai.com/share/ca5e0c33-7a19-41a1-8f8a-b146b68e2d1a)
-- Aug 10 - [Seattle becomes first in U.S. to protect gig workers from sudden 'deactivation'](https://kuow.org/stories/seattle-becomes-first-in-u-s-to-protect-gig-workers-from-sudden-deactivation)
-- Aug 10 - [UChicago scientists see first evidence of 'quantum superchemistry' in the lab](https://news.uchicago.edu/story/uchicago-scientists-observe-first-evidence-quantum-superchemistry-laboratory)
+- Aug 10 - [Has Google Translate been fixed yet?](https://isgooglefixed.tw/)
+- Aug 10 - [Scripps Institution of Oceanography’s FLIP vessel decommissioned after 60 years](https://maritime-executive.com/article/world-s-strangest-research-vessel-heads-for-scrapyard-after-51-years)
+- Aug 10 - [Supermarket AI meal planner app suggests recipe that would create chlorine gas](https://www.theguardian.com/world/2023/aug/10/pak-n-save-savey-meal-bot-ai-app-malfunction-recipes)
+- Aug 10 - [Manias and Mimesis: Applying René Girard’s Mimetic Theory to Financial Bubbles](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3469465)
+- Aug 10 - [Doctors on TikTok](https://thewalrus.ca/medical-tiktok/)
 <!--END_SECTION:hn-->
 
 <!--
