@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 10 - [Has Google Translate been fixed yet?](https://isgooglefixed.tw/)
-- Aug 10 - [Scripps Institution of Oceanography’s FLIP vessel decommissioned after 60 years](https://maritime-executive.com/article/world-s-strangest-research-vessel-heads-for-scrapyard-after-51-years)
-- Aug 10 - [Supermarket AI meal planner app suggests recipe that would create chlorine gas](https://www.theguardian.com/world/2023/aug/10/pak-n-save-savey-meal-bot-ai-app-malfunction-recipes)
-- Aug 10 - [Manias and Mimesis: Applying René Girard’s Mimetic Theory to Financial Bubbles](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3469465)
-- Aug 10 - [Doctors on TikTok](https://thewalrus.ca/medical-tiktok/)
+- Aug 10 - [Gym Class VR (YC W22) Is Hiring Unity Tooling Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/futIIml-unity-engineer-tools)
+- Aug 10 - [What’s causing the rise of hoarding disorder?](https://daily.jstor.org/whats-causing-the-rise-of-hoarding-disorder/)
+- Aug 10 - [The Future of the Vim Project](https://groups.google.com/g/vim_dev/c/dq9Wu5jqVTw)
+- Aug 10 - [The average Manhattan rent just hit a new record of $5,588 a month](https://www.cnbc.com/2023/08/10/the-average-manhattan-rent-just-hit-a-new-record-of-5588-a-month.html)
+- Aug 10 - [The Yandex Leak: How a Russian Search Giant Uses Consumer Data](https://www.confiant.com/news/the-yandex-leak-how-a-russian-search-giant-uses-consumer-data)
 <!--END_SECTION:hn-->
 
 <!--
