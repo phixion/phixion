@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 11 - [The Life of a Lawyer in the Late Roman Republic](https://www.thecollector.com/life-lawyer-late-roman-republic/)
+- Aug 11 - [Browsers barely care what HTTP status code your web pages are served with](https://utcc.utoronto.ca/~cks/space/blog/web/BrowsersAndHTTPStatusCodes)
+- Aug 11 - [Websites and APIs on Render are unavailable due to Cloudflare network errors](https://status.render.com/incidents/cshql6qwnldj)
 - Aug 11 - [Firefox desktop extensions coming soon for the upcoming Android release](https://blog.mozilla.org/addons/2023/08/10/prepare-your-firefox-desktop-extension-for-the-upcoming-android-release/)
-- Aug 11 - [git-appraise – Distributed Code Review for Git](https://github.com/google/git-appraise)
-- Aug 11 - [I fixed a bug the other day](https://www.javiergonzalez.io/blog/i-fixed-a-bug/)
-- Aug 10 - [SQLite Functions for Working with JSON](https://www.sqlite.org/json1.html)
-- Aug 10 - [Source code for Quake 2 rerelease](https://github.com/id-Software/quake2-rerelease-dll)
+- Aug 11 - [Git-appraise – Distributed Code Review for Git](https://github.com/google/git-appraise)
 <!--END_SECTION:hn-->
 
 <!--
