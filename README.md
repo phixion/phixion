@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 11 - [Tailscale vs. Narrowlink](https://narrowlink.com/docs/comparisons/tailscale)
-- Aug 11 - [One car per green: Why the lights on freeway onramps can’t end traffic jams](https://www.latimes.com/california/story/2023-08-01/why-highway-ramp-meters-dont-seem-to-reduce-congestion)
-- Aug 11 - [The crash of Air France flight 447 (2021)](https://admiralcloudberg.medium.com/the-long-way-down-the-crash-of-air-france-flight-447-8a7678c37982)
-- Aug 11 - [Want to pwn a satellite? Turns out it's surprisingly easy](https://www.theregister.com/2023/08/11/satellite_hacking_black_hat/)
-- Aug 11 - [OpenTerraform – an MPL fork of Terraform after HashiCorp's license change](https://github.com/diggerhq/open-terraform)
+- Aug 11 - [Sam Bankman-Fried to Be Sent to Jail After Judge Revokes Bail](https://www.nytimes.com/2023/08/11/technology/sam-bankman-fried-to-be-sent-to-jail-after-judge-revokes-bail.html)
+- Aug 11 - [Judge to revoke bail for FTX founder Sam Bankman-Fried over witness tampering](https://www.cnbc.com/2023/08/11/judge-to-revoke-bail-for-ftx-founder-sam-bankman-fried-over-witness-tampering.html)
+- Aug 11 - [The inability to simultaneously verify sentience, location, and identity](https://arxiv.org/abs/2308.02202)
+- Aug 11 - [Wendelstein 7-X: Gigajoule energy turnover generated for eight minutes](https://www.ipp.mpg.de/5322229/01_23)
+- Aug 11 - [Why is division so much more complex than other arithmetic operations?](https://scicomp.stackexchange.com/questions/187/why-is-division-so-much-more-complex-than-other-arithmetic-operations)
 <!--END_SECTION:hn-->
 
 <!--
