@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Aug 10 - [Rightbiz - 65,376 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Rightbiz)
 - Aug 08 - [CraftRise - 2,532,527 breached accounts](https://haveibeenpwned.com/PwnedWebsites#CraftRise)
 - Aug 02 - [MagicDuel - 138,443 breached accounts](https://haveibeenpwned.com/PwnedWebsites#MagicDuel)
 - Jul 26 - [BreachForums - 212,156 breached accounts](https://haveibeenpwned.com/PwnedWebsites#BreachForums)
 - Jul 25 - [BookCrossing - 1,582,323 breached accounts](https://haveibeenpwned.com/PwnedWebsites#BookCrossing)
-- Jul 24 - [Tigo - 700,394 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Tigo)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 10 - [Turns out lowly thymus may be saving your life](https://news.harvard.edu/gazette/story/2023/08/turns-out-lowly-thymus-may-be-saving-your-life/)
-- Aug 10 - [Median Center of Population for the United States: 1880 to 2020 (2020)](https://www.census.gov/library/visualizations/2020/geo/center-of-population-1880-2020.html)
-- Aug 10 - [Nick Cave on ChatGPT and the creative process](https://www.theredhandfiles.com/chatgpt-making-things-faster-and-easier/)
-- Aug 10 - [Aurora I/O optimized config saved 90% DB cost](https://graphite.dev/blog/how-an-aws-aurora-feature-cut-db-costs)
-- Aug 10 - [Water Cooled Rooftop Solar Panels](https://evergreenoffgrid.com/water-cooled-rooftop-solar-panels/)
+- Aug 10 - [SQLite Functions for Working with JSON](https://www.sqlite.org/json1.html)
+- Aug 10 - [Source code for Quake 2 rerelease](https://github.com/id-Software/quake2-rerelease-dll)
+- Aug 10 - [Git scraping: track changes over time by scraping to a Git repository](https://simonwillison.net/2020/Oct/9/git-scraping/)
+- Aug 10 - [Llama 2 on ONNX runs locally](https://github.com/microsoft/Llama-2-Onnx)
+- Aug 10 - [A Modern C Development Environment](https://interrupt.memfault.com/blog/a-modern-c-dev-env)
 <!--END_SECTION:hn-->
 
 <!--
