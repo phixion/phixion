@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 11 - [Shamir Secret Sharing – how PayPal nearly died](https://max.levch.in/post/724289457144070144/shamir-secret-sharing-its-3am-paul-the-head-of)
-- Aug 11 - [Fastest Branchless Binary Search](https://mhdm.dev/posts/sb_lower_bound/)
-- Aug 11 - [George Hotz: There is no hard takeoff](https://geohot.github.io//blog/jekyll/update/2023/08/10/there-is-no-hard-takeoff.html)
-- Aug 11 - [Artificial General Intelligence – A gentle introduction](https://cis.temple.edu/~pwang/AGI-Intro.html)
-- Aug 11 - [The Bipolar Lisp Programmer (2007)](https://www.marktarver.com/bipolar.html)
+- Aug 11 - [Tailscale vs. Narrowlink](https://narrowlink.com/docs/comparisons/tailscale)
+- Aug 11 - [One car per green: Why the lights on freeway onramps can’t end traffic jams](https://www.latimes.com/california/story/2023-08-01/why-highway-ramp-meters-dont-seem-to-reduce-congestion)
+- Aug 11 - [The crash of Air France flight 447 (2021)](https://admiralcloudberg.medium.com/the-long-way-down-the-crash-of-air-france-flight-447-8a7678c37982)
+- Aug 11 - [Want to pwn a satellite? Turns out it's surprisingly easy](https://www.theregister.com/2023/08/11/satellite_hacking_black_hat/)
+- Aug 11 - [OpenTerraform – an MPL fork of Terraform after HashiCorp's license change](https://github.com/diggerhq/open-terraform)
 <!--END_SECTION:hn-->
 
 <!--
