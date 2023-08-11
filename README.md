@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 11 - [Firefox desktop extensions coming soon for the upcoming Android release](https://blog.mozilla.org/addons/2023/08/10/prepare-your-firefox-desktop-extension-for-the-upcoming-android-release/)
+- Aug 11 - [git-appraise – Distributed Code Review for Git](https://github.com/google/git-appraise)
+- Aug 11 - [I fixed a bug the other day](https://www.javiergonzalez.io/blog/i-fixed-a-bug/)
 - Aug 10 - [SQLite Functions for Working with JSON](https://www.sqlite.org/json1.html)
 - Aug 10 - [Source code for Quake 2 rerelease](https://github.com/id-Software/quake2-rerelease-dll)
-- Aug 10 - [Git scraping: track changes over time by scraping to a Git repository](https://simonwillison.net/2020/Oct/9/git-scraping/)
-- Aug 10 - [Llama 2 on ONNX runs locally](https://github.com/microsoft/Llama-2-Onnx)
-- Aug 10 - [A Modern C Development Environment](https://interrupt.memfault.com/blog/a-modern-c-dev-env)
 <!--END_SECTION:hn-->
 
 <!--
