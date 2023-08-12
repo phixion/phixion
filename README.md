@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 12 - [Beginner's Guide to Llama Models](https://agi-sphere.com/llama-guide/)
-- Aug 12 - [Multiple Incidents: B789 deviated from localizer, descended below safe altitude](https://avherald.com/h?article=4d42d0b5)
-- Aug 12 - [Sapphire Rapids Core-to-Core Latency](https://jprahman.substack.com/p/sapphire-rapids-core-to-core-latency)
-- Aug 12 - [Do we really need a specialized vector database?](https://modelz.ai/blog/pgvector)
-- Aug 12 - [Leave It to the Beavers](https://isthmus.com/news/news/leave-it-to-the-beavers/)
+- Aug 12 - [Skio (Subscriptions for Shopify, ReCharge migrations) is hiring](https://skio.com/careers/)
+- Aug 12 - [tRPC – Move Fast and Break Nothing. End-to-end typesafe APIs made easy](https://trpc.io/)
+- Aug 12 - [Build declaratively back ends and APIs with GraphQL or REST](https://github.com/metatypedev/metatype)
+- Aug 12 - [I feel like I made a mistake investing professionally into Flutter](https://old.reddit.com/r/FlutterDev/comments/15njq61/i_feel_like_i_mad_a_mistake_investing/)
+- Aug 12 - [How a startup loses its spark](https://blog.johnqian.com/startup-spark)
 <!--END_SECTION:hn-->
 
 <!--
