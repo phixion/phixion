@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 11 - [We Need Scientific Dissidents Now More Than Ever](https://www.chronicle.com/article/we-need-scientific-dissidents-now-more-than-ever)
-- Aug 11 - [Expander graphs and their applications (2006) [pdf]](https://www.ams.org/journals/bull/2006-43-04/S0273-0979-06-01126-8/S0273-0979-06-01126-8.pdf)
-- Aug 11 - [Extracellular communication between brain cells through transfer of mRNA](https://www.biorxiv.org/content/10.1101/2023.01.29.525937v1)
-- Aug 11 - [Pijul: Version-Control Post-Git • Goto 2023](https://www.youtube.com/watch?v=7MpdZkGj5AI)
-- Aug 11 - [An Introduction to Graph Theory](https://arxiv.org/abs/2308.04512)
+- Aug 12 - [Fooocus: OSS for image generation by ControlNet author](https://github.com/lllyasviel/Fooocus)
+- Aug 12 - [Our fight is far from over](https://blog.archive.org/2023/08/11/our-fight-is-far-from-over/)
+- Aug 12 - [Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=37095849)
+- Aug 12 - [Optimization Algorithms for Planar Graphs](https://planarity.org/)
+- Aug 12 - [If it can be designed on a computer, it can be built by robots](https://www.economist.com/science-and-technology/2023/08/09/if-it-can-be-designed-on-a-computer-it-can-be-built-by-robots)
 <!--END_SECTION:hn-->
 
 <!--
