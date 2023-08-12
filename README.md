@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 11 - [Sam Bankman-Fried to Be Sent to Jail After Judge Revokes Bail](https://www.nytimes.com/2023/08/11/technology/sam-bankman-fried-to-be-sent-to-jail-after-judge-revokes-bail.html)
-- Aug 11 - [Judge to revoke bail for FTX founder Sam Bankman-Fried over witness tampering](https://www.cnbc.com/2023/08/11/judge-to-revoke-bail-for-ftx-founder-sam-bankman-fried-over-witness-tampering.html)
-- Aug 11 - [The inability to simultaneously verify sentience, location, and identity](https://arxiv.org/abs/2308.02202)
-- Aug 11 - [Wendelstein 7-X: Gigajoule energy turnover generated for eight minutes](https://www.ipp.mpg.de/5322229/01_23)
-- Aug 11 - [Why is division so much more complex than other arithmetic operations?](https://scicomp.stackexchange.com/questions/187/why-is-division-so-much-more-complex-than-other-arithmetic-operations)
+- Aug 11 - [We Need Scientific Dissidents Now More Than Ever](https://www.chronicle.com/article/we-need-scientific-dissidents-now-more-than-ever)
+- Aug 11 - [Expander graphs and their applications (2006) [pdf]](https://www.ams.org/journals/bull/2006-43-04/S0273-0979-06-01126-8/S0273-0979-06-01126-8.pdf)
+- Aug 11 - [Extracellular communication between brain cells through transfer of mRNA](https://www.biorxiv.org/content/10.1101/2023.01.29.525937v1)
+- Aug 11 - [Pijul: Version-Control Post-Git • Goto 2023](https://www.youtube.com/watch?v=7MpdZkGj5AI)
+- Aug 11 - [An Introduction to Graph Theory](https://arxiv.org/abs/2308.04512)
 <!--END_SECTION:hn-->
 
 <!--
