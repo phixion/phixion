@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 12 - [Securing Your PostgreSQL DB with Roles and Privileges](https://rlopzc.com/posts/securing-your-postgresql-db-with-roles--privileges/)
-- Aug 12 - [NASA's Software Catalog offers hundreds of new software programs for free](https://software.nasa.gov/)
-- Aug 12 - [The Carrot Problem](https://www.atvbt.com/the-carrot-problem/)
-- Aug 12 - [Chinese Trust Companies on the Brink](https://www.asiamarkets.com/chinese-trust-companies-on-the-brink-looming-bankruptcies-bigger-than-evergrande/)
-- Aug 12 - [Record Labels Hit Internet Archive with New $400M+ Copyright Lawsuit](https://torrentfreak.com/record-labels-hit-internet-archive-with-new-400m-copyright-lawsuit-230812/)
+- Aug 12 - [Learning Algorithms](https://paedubucher.ch/articles/2023-07-29-learning-algorithms.html)
+- Aug 12 - [The US government is taking a step toward space-based nuclear propulsion](https://arstechnica.com/space/2023/07/nasa-seeks-to-launch-a-nuclear-powered-rocket-engine-in-four-years/)
+- Aug 12 - [Tracing the roots of the 8086 instruction set to the Datapoint 2200 minicomputer](https://www.righto.com/2023/08/datapoint-to-8086.html)
+- Aug 12 - [A conversation with a newspaper owner raided by cops](https://thehandbasket.substack.com/p/a-conversation-with-the-newspaper)
+- Aug 12 - [Motion (YC W20) Is Hiring Software Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
 <!--END_SECTION:hn-->
 
 <!--
