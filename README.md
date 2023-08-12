@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 12 - [Fooocus: OSS for image generation by ControlNet author](https://github.com/lllyasviel/Fooocus)
-- Aug 12 - [Our fight is far from over](https://blog.archive.org/2023/08/11/our-fight-is-far-from-over/)
-- Aug 12 - [Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=37095849)
-- Aug 12 - [Optimization Algorithms for Planar Graphs](https://planarity.org/)
-- Aug 12 - [If it can be designed on a computer, it can be built by robots](https://www.economist.com/science-and-technology/2023/08/09/if-it-can-be-designed-on-a-computer-it-can-be-built-by-robots)
+- Aug 12 - [Beginner's Guide to Llama Models](https://agi-sphere.com/llama-guide/)
+- Aug 12 - [Multiple Incidents: B789 deviated from localizer, descended below safe altitude](https://avherald.com/h?article=4d42d0b5)
+- Aug 12 - [Sapphire Rapids Core-to-Core Latency](https://jprahman.substack.com/p/sapphire-rapids-core-to-core-latency)
+- Aug 12 - [Do we really need a specialized vector database?](https://modelz.ai/blog/pgvector)
+- Aug 12 - [Leave It to the Beavers](https://isthmus.com/news/news/leave-it-to-the-beavers/)
 <!--END_SECTION:hn-->
 
 <!--
