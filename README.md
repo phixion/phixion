@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 13 - [Meticulous (YC S21) Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=37107358)
-- Aug 13 - [Render nuked my entire account with no notice](https://news.ycombinator.com/item?id=37107298)
-- Aug 13 - [Generative AI – A curated list of Generative AI projects and services](https://github.com/steven2358/awesome-generative-ai)
-- Aug 13 - [Rust vs. Go in 2023](https://bitfieldconsulting.com/golang/rust-vs-go)
-- Aug 13 - [When the Government Tried to Flood the Grand Canyon](https://daily.jstor.org/when-the-government-tried-to-flood-the-grand-canyon/)
+- Aug 13 - [We're All Wrong About AI](https://arnoldkling.substack.com/p/were-all-wrong-about-ai)
+- Aug 13 - [What Should You Do with an Oil Fortune?](https://www.newyorker.com/magazine/2023/08/14/what-should-you-do-with-an-oil-fortune)
+- Aug 13 - [People Drawn to Conspiracy Theories Share Psychological Features (2019)](https://www.scientificamerican.com/article/people-drawn-to-conspiracy-theories-share-a-cluster-of-psychological-features/)
+- Aug 13 - [Astro: All-in-one web framework designed for speed](https://astro.build/)
+- Aug 13 - [Cargo Cult Science by Richard P. Feynman (1974) [pdf]](https://calteches.library.caltech.edu/51/2/CargoCult.pdf)
 <!--END_SECTION:hn-->
 
 <!--
