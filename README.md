@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 13 - [Are Naps Good for You?](https://www.scientificamerican.com/article/are-naps-good-for-you/)
-- Aug 13 - [I’ll Never Be an Astronaut](https://shaunoconnell.com/2023/08/10/ill-never-be-an-astronaut/)
-- Aug 13 - [The complex simplicity of my static websites](https://alinpanaitiu.com/blog/complex-simplicity-of-static-websites/)
-- Aug 13 - [Pdftool.org: modify pdfs offline in the browser](https://www.pdftool.org)
-- Aug 13 - [The video call revolution is dead](https://www.theverge.com/2023/8/12/23828781/video-call-chat-revolution-dead-zoom-google-meet-apps)
+- Aug 13 - [Judge denies HP's plea to throw out all-in-one printer lockdown lawsuit](https://www.theregister.com/2023/08/11/judge_denies_hps_request_to/)
+- Aug 13 - [Metro 2033 author Dmitry Glukhovsky sentenced to 8 years in prison](https://www.pcgamer.com/metro-2033-author-dmitry-glukhovsky-sentenced-to-8-years-in-prison-for-criticizing-russias-invasion-of-ukraine/)
+- Aug 13 - [Dolphin Emulator Progress Report: May, June, and July 2023](https://dolphin-emu.org/blog/2023/08/13/dolphin-progress-report-may-june-and-july-2023/)
+- Aug 13 - [Azure ChatGPT: Private and secure ChatGPT for internal enterprise use](https://github.com/microsoft/azurechatgpt)
+- Aug 13 - [‘I've got nothing to hide’ and other misunderstandings of privacy (2007)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565)
 <!--END_SECTION:hn-->
 
 <!--
