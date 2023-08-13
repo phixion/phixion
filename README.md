@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 13 - [We're All Wrong About AI](https://arnoldkling.substack.com/p/were-all-wrong-about-ai)
-- Aug 13 - [What Should You Do with an Oil Fortune?](https://www.newyorker.com/magazine/2023/08/14/what-should-you-do-with-an-oil-fortune)
-- Aug 13 - [People Drawn to Conspiracy Theories Share Psychological Features (2019)](https://www.scientificamerican.com/article/people-drawn-to-conspiracy-theories-share-a-cluster-of-psychological-features/)
-- Aug 13 - [Astro: All-in-one web framework designed for speed](https://astro.build/)
-- Aug 13 - [Cargo Cult Science by Richard P. Feynman (1974) [pdf]](https://calteches.library.caltech.edu/51/2/CargoCult.pdf)
+- Aug 13 - [Are Naps Good for You?](https://www.scientificamerican.com/article/are-naps-good-for-you/)
+- Aug 13 - [I’ll Never Be an Astronaut](https://shaunoconnell.com/2023/08/10/ill-never-be-an-astronaut/)
+- Aug 13 - [The complex simplicity of my static websites](https://alinpanaitiu.com/blog/complex-simplicity-of-static-websites/)
+- Aug 13 - [Pdftool.org: modify pdfs offline in the browser](https://www.pdftool.org)
+- Aug 13 - [The video call revolution is dead](https://www.theverge.com/2023/8/12/23828781/video-call-chat-revolution-dead-zoom-google-meet-apps)
 <!--END_SECTION:hn-->
 
 <!--
