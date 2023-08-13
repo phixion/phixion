@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 12 - [Out-of-Distribution](https://github.com/continuousml/Awesome-Out-Of-Distribution-Detection)
-- Aug 12 - [OP drew these corals with mathematical equations](https://twitter.com/naderi_yeganeh/status/1690296100496838656)
-- Aug 12 - [Freshpaint (YC S19) Is Hiring Engineers to Build a HIPAA Compliant Data Platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
-- Aug 12 - [Auditory illusions with examples from Daft Punk](https://www.ugu.rs/blog/auditory-illusions-with-samples-from-daft-punk/)
-- Aug 12 - [Tijuana's illegal sewer hookups linked to cross-border pollution](https://www.kpbs.org/news/border-immigration/2023/08/10/tijuanas-illegal-sewer-hookups-linked-to-cross-border-pollution)
+- Aug 13 - [Infiuss Health (YC S21) Is Hiring a Project Manager](https://news.ycombinator.com/item?id=37106369)
+- Aug 13 - [Ytree; a Unix Filemanager](https://www.han.de/~werner/ytree.html)
+- Aug 13 - [Cruise blames Outside Lands for driverless car traffic fiasco in San Francisco](https://www.sfchronicle.com/bayarea/article/robotaxi-backup-18293208.php)
+- Aug 13 - [VirGL](https://docs.mesa3d.org/drivers/virgl)
+- Aug 13 - [John's Nautical and Boatbuilding Page](http://www.boat-links.com/)
 <!--END_SECTION:hn-->
 
 <!--
