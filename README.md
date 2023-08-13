@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 13 - [Infiuss Health (YC S21) Is Hiring a Project Manager](https://news.ycombinator.com/item?id=37106369)
-- Aug 13 - [Ytree; a Unix Filemanager](https://www.han.de/~werner/ytree.html)
-- Aug 13 - [Cruise blames Outside Lands for driverless car traffic fiasco in San Francisco](https://www.sfchronicle.com/bayarea/article/robotaxi-backup-18293208.php)
-- Aug 13 - [VirGL](https://docs.mesa3d.org/drivers/virgl)
-- Aug 13 - [John's Nautical and Boatbuilding Page](http://www.boat-links.com/)
+- Aug 13 - [Meticulous (YC S21) Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=37107358)
+- Aug 13 - [Render nuked my entire account with no notice](https://news.ycombinator.com/item?id=37107298)
+- Aug 13 - [Generative AI – A curated list of Generative AI projects and services](https://github.com/steven2358/awesome-generative-ai)
+- Aug 13 - [Rust vs. Go in 2023](https://bitfieldconsulting.com/golang/rust-vs-go)
+- Aug 13 - [When the Government Tried to Flood the Grand Canyon](https://daily.jstor.org/when-the-government-tried-to-flood-the-grand-canyon/)
 <!--END_SECTION:hn-->
 
 <!--
