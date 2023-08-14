@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 14 - [A Quickstart Guide to Privacy](https://www.hai.haus/blog/privacy-quickstart-2023.html)
-- Aug 14 - [Non-Thoughts on the Open Source Initiative](https://yakshav.es/non-thoughts-on-the-osi/)
-- Aug 14 - [Caught by MuseScore's Dark Patterns (2021)](https://gadanidis.ca/posts/2021-11-09-musescore.html)
-- Aug 14 - [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html)
-- Aug 14 - [Inside The Decline of Stack Exchange](https://www.thediff.co/archive/inside-the-decline-of-stack-exchange/)
+- Aug 14 - [Bezos Earth Fund Grants $400M for Greening Underserved Urban U.S. Communities](https://www.bezosearthfund.org/news-and-insights/announcing-400-million-greening-americas-cities)
+- Aug 14 - [Navigating the timezone nightmare in product development](https://www.getlago.com/blog/time-zone-nightmares)
+- Aug 14 - [Study shows dementia more common in older adults with vision issues](https://www.michiganmedicine.org/health-lab/study-shows-dementia-more-common-older-adults-vision-issues)
+- Aug 14 - [Videos from Python Web Conf 2023 Available on YouTube](https://sixfeetup.com/company/news/80-talks-and-tutorials-from-2023-python-web-conference-released)
+- Aug 14 - [Show HN: LLMs can generate valid JSON 100% of the time](https://github.com/normal-computing/outlines)
 <!--END_SECTION:hn-->
 
 <!--
