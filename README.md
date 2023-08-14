@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 14 - [The Dance of Śiva](https://www.asymptotejournal.com/blog/2023/08/09/the-dance-of-siva/)
-- Aug 14 - [Jitsi Meet Flutter SDK](https://jitsi.org/blog/introducing-the-jitsi-meet-flutter-sdk/)
-- Aug 14 - [The world in which IPv6 was a good design (2017)](https://apenwarr.ca/log/20170810)
-- Aug 14 - [LangChain Agent Simulation – Multi-Player Dungeons and Dragons](https://python.langchain.com/docs/use_cases/agent_simulations/two_player_dnd)
-- Aug 13 - [A video game where you are an operating system](https://plbrault.com/blog-posts/i-created-the-nerdierst-game-ever-en/)
+- Aug 14 - [Momentum, a DIY 12-voice virtual analogue polyphonic synthesizer based on TSynth](http://electrotechnique.cc/Momentum.html)
+- Aug 14 - [Veilid is an open-source, P2P, mobile-ﬁrst, networked application framework](https://veilid.com/)
+- Aug 14 - [Fediverse and Naive Bayes: The Grandfather of Spam Filters Still Making Waves](https://pixelfed.blog/p/2023/feature/autospam-and-naive-bayes-the-grandfather-of-spam-filters-still-making-waves)
+- Aug 14 - [Things UNIX can do atomically (2010)](https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html)
+- Aug 14 - [Samo Burja: Great Founder Theory](https://www.samoburja.com/gft/)
 <!--END_SECTION:hn-->
 
 <!--
