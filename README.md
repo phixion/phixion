@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 14 - [D J Bernstein – The IPv6 mess](http://cr.yp.to/djbdns/ipv6mess.html)
-- Aug 14 - [Launch HN: Serra (YC S23) – Open-source, Python-based dbt alternative](https://news.ycombinator.com/item?id=37119311)
-- Aug 14 - [Testing on production](https://marcochiappetta.medium.com/yes-you-should-test-on-production-61f6dc61908b)
-- Aug 14 - [Write about what you learn. It pushes you to understand topics better](https://addyosmani.com/blog/write-learn/)
-- Aug 14 - [Python: Just Write SQL](https://joaodlf.com/python-just-write-sql)
+- Aug 14 - [A Quickstart Guide to Privacy](https://www.hai.haus/blog/privacy-quickstart-2023.html)
+- Aug 14 - [Non-Thoughts on the Open Source Initiative](https://yakshav.es/non-thoughts-on-the-osi/)
+- Aug 14 - [Caught by MuseScore's Dark Patterns (2021)](https://gadanidis.ca/posts/2021-11-09-musescore.html)
+- Aug 14 - [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html)
+- Aug 14 - [Inside The Decline of Stack Exchange](https://www.thediff.co/archive/inside-the-decline-of-stack-exchange/)
 <!--END_SECTION:hn-->
 
 <!--
