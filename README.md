@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 14 - [Bezos Earth Fund Grants $400M for Greening Underserved Urban U.S. Communities](https://www.bezosearthfund.org/news-and-insights/announcing-400-million-greening-americas-cities)
-- Aug 14 - [Navigating the timezone nightmare in product development](https://www.getlago.com/blog/time-zone-nightmares)
-- Aug 14 - [Study shows dementia more common in older adults with vision issues](https://www.michiganmedicine.org/health-lab/study-shows-dementia-more-common-older-adults-vision-issues)
-- Aug 14 - [Videos from Python Web Conf 2023 Available on YouTube](https://sixfeetup.com/company/news/80-talks-and-tutorials-from-2023-python-web-conference-released)
-- Aug 14 - [Show HN: LLMs can generate valid JSON 100% of the time](https://github.com/normal-computing/outlines)
+- Aug 14 - [Show HN: AI-town, run your own custom AI world SIM with JavaScript](https://github.com/a16z-infra/ai-town)
+- Aug 14 - [Montana loses fight against youth climate activists in landmark ruling](https://arstechnica.com/tech-policy/2023/08/montana-loses-fight-against-youth-climate-activists-in-landmark-ruling/)
+- Aug 14 - [My (Herb Sutter's) C++ Now 2023 talk is online: “A TypeScript for C++”](https://herbsutter.com/2023/08/13/my-c-now-2023-talk-is-online-a-typescript-for-c/)
+- Aug 14 - [Java 21: First Release Candidate](https://openjdk.org/projects/jdk/21/)
+- Aug 14 - [Peter Shor's MIT Fall 2022 course lecture notes on quantum computing](https://math.mit.edu/~shor/435-LN/)
 <!--END_SECTION:hn-->
 
 <!--
