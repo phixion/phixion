@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 15 - [The small steps that lead to dystopia](https://mindmatters.ai/2023/08/the-small-steps-that-lead-to-dystopia/)
+- Aug 15 - [Webvan: The Dotcom Bubble’s Biggest Bust](https://streetfins.com/webvan-the-dotcom-bubbles-biggest-bust/)
+- Aug 15 - [Lynn Conway's Story (2000)](https://ai.eecs.umich.edu/people/conway/LynnsStory.html)
 - Aug 14 - [Show HN: AI-town, run your own custom AI world SIM with JavaScript](https://github.com/a16z-infra/ai-town)
-- Aug 14 - [Montana loses fight against youth climate activists in landmark ruling](https://arstechnica.com/tech-policy/2023/08/montana-loses-fight-against-youth-climate-activists-in-landmark-ruling/)
-- Aug 14 - [My (Herb Sutter's) C++ Now 2023 talk is online: “A TypeScript for C++”](https://herbsutter.com/2023/08/13/my-c-now-2023-talk-is-online-a-typescript-for-c/)
-- Aug 14 - [Java 21: First Release Candidate](https://openjdk.org/projects/jdk/21/)
-- Aug 14 - [Peter Shor's MIT Fall 2022 course lecture notes on quantum computing](https://math.mit.edu/~shor/435-LN/)
+- Aug 14 - [Dell fined $6.5M after admitting it made overpriced monitors look discounted](https://arstechnica.com/gadgets/2023/08/dell-fined-6-5m-after-admitting-it-made-overpriced-monitors-look-discounted/)
 <!--END_SECTION:hn-->
 
 <!--
