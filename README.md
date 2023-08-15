@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 15 - [Predatory journals entrap unsuspecting scientists](https://www.nature.com/articles/d41586-023-02553-1)
-- Aug 15 - [Ball milling destroys PFAS in contaminated soil](https://phys.org/news/2023-08-chemicals.html)
-- Aug 15 - [Code Is Not Literature (2014)](https://gigamonkeys.com/code-reading/)
-- Aug 15 - [Schizophrenia drugs may have been off target for decades, study finds](https://www.msn.com/en-us/health/medical/schizophrenia-drugs-may-have-been-off-target-for-decades-study-finds/ar-AA1fh9Nt)
-- Aug 15 - [Disney’s Taylor Swift Era](https://stratechery.com/2023/disneys-taylor-swift-era/)
+- Aug 15 - [Asteroid ZTm0038 with a >3% impact probability](https://newton.spacedys.com/neodys2/NEOScan/risk_page/ZTm0038/index_summary_ZTm0038.html)
+- Aug 15 - [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
+- Aug 15 - [The Future of Terraform Must Be Open](https://blog.gruntwork.io/the-future-of-terraform-must-be-open-ab0b9ba65bca?gi=c07f9cd96456)
+- Aug 15 - [Employees in Asia are spending most time looking busy at work, says Slack report](https://www.cnbc.com/2023/08/14/employees-in-asia-are-spending-the-most-time-looking-busy-at-work.html)
+- Aug 15 - [Phone radiation causes brain tumors, should be classified as a carcinogen (2A)](https://www.spandidos-publications.com/10.3892/ijo.2015.2908)
 <!--END_SECTION:hn-->
 
 <!--
