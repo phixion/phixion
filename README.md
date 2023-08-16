@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 16 - [NetMaker: Connect Everything with a WireGuard VPN](https://www.netmaker.io/)
-- Aug 16 - [Debugging a Futex Crash](https://rustylife.github.io/2023/08/15/futex-crash.html)
-- Aug 16 - [Chrome was delivered without any sprints at all (2021)](https://threadreaderapp.com/thread/1427137725119959046.html)
-- Aug 16 - [Five Years of LLM Progress](https://finbarr.ca/five-years-of-gpt-progress/)
-- Aug 16 - [AMD Inception Mitigations Cause 20% Performance Drop in Database Servers](https://www.phoronix.com/review/amd-inception-benchmarks)
+- Aug 16 - [Thinking about God increases acceptance of AI in decision-making](https://www.pnas.org/doi/10.1073/pnas.2218961120)
+- Aug 16 - [Russian empire aerospace refugees (2021)](https://scottlocklin.wordpress.com/2021/03/05/russian-empire-aerospace-refugees/)
+- Aug 16 - [Today I learned that random people can send you money on PayPal and disputed it](https://twitter.com/0xRokku/status/1691541352650272771)
+- Aug 16 - [Carl Sagan testifying before Congress in 1985 on climate change [video]](https://www.youtube.com/watch?v=Wp-WiNXH6hI)
+- Aug 16 - [Diligere, Equity-Invest Are New Firms of U.K. Con Man](https://krebsonsecurity.com/2023/08/diligere-equity-invest-are-new-firms-of-u-k-con-man/)
 <!--END_SECTION:hn-->
 
 <!--
