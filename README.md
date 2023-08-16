@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 15 - [Google Deprecates Google Domains, Sells It to Squarespace](https://support.google.com/domains/answer/13689670?hl=en)
-- Aug 15 - [Ted's Notes on Pawpaws](https://toyrus.ngrok.io/~ted/pawpaws/)
-- Aug 15 - [Bank of Ireland IT blunder allows customers who have no money get access to cash](https://www.independent.ie/business/personal-finance/bank-of-ireland-it-blunder-allows-customers-who-have-no-money-get-access-to-cash-at-atms/a510070628.html)
-- Aug 15 - [We Call on FOSS Contributors to “Exit Zoom”](https://sfconservancy.org/news/2023/aug/15/exit-zoom/)
-- Aug 15 - [Modern CSV version 2 is now available](https://www.moderncsv.com/modern-csv-2-is-now-available/)
+- Aug 16 - [NetMaker: Connect Everything with a WireGuard VPN](https://www.netmaker.io/)
+- Aug 16 - [Debugging a Futex Crash](https://rustylife.github.io/2023/08/15/futex-crash.html)
+- Aug 16 - [Chrome was delivered without any sprints at all (2021)](https://threadreaderapp.com/thread/1427137725119959046.html)
+- Aug 16 - [Five Years of LLM Progress](https://finbarr.ca/five-years-of-gpt-progress/)
+- Aug 16 - [AMD Inception Mitigations Cause 20% Performance Drop in Database Servers](https://www.phoronix.com/review/amd-inception-benchmarks)
 <!--END_SECTION:hn-->
 
 <!--
