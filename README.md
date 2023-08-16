@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 16 - [Nintendo Is Trying to Patent Some Broad Tears of the Kingdom Mechanics](https://kotaku.com/nintendo-is-trying-to-patent-some-really-broad-tears-of-1850730637)
-- Aug 16 - [Htmx is part of the GitHub Accelerator](https://htmx.org/posts/2023-06-06-htmx-github-accelerator/)
-- Aug 16 - [Show HN: Repo with a list of 80 decent companies hiring remotely in Europe](https://github.com/EuropeanRemote/european-remote-software-companies)
-- Aug 16 - [On to Elixir](https://thraxil.org/users/anders/posts/2023/08/05/on-to-elixir)
-- Aug 16 - [Is this a good book for me, now?](https://maryrosecook.com/blog/post/is-this-a-good-book-for-me-now)
+- Aug 16 - [Ask HN: If we train an LLM with “data” instead of “language” tokens](https://news.ycombinator.com/item?id=37148240)
+- Aug 16 - [Math Proof Draws New Boundaries Around Black Hole Formation](https://www.quantamagazine.org/math-proof-draws-new-boundaries-around-black-hole-formation-20230816/)
+- Aug 16 - [Twitter's response to US Government search warrant (turned over deleted DMs) [pdf]](https://www.dcd.uscourts.gov/sites/dcd/files/23sc31%20Attachment%20A%20-%20Documents%20unsealed%20with%20redactions.pdf)
+- Aug 16 - [Spring 6.1 now compatible with virtual threads and JDK 21 overall](https://github.com/spring-projects/spring-framework/wiki/What%27s-New-in-Spring-Framework-6.x)
+- Aug 16 - [Major U.S. energy org targeted in QR code phishing attack](https://www.bleepingcomputer.com/news/security/major-us-energy-org-targeted-in-qr-code-phishing-attack/)
 <!--END_SECTION:hn-->
 
 <!--
