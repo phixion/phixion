@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 15 - [Asteroid ZTm0038 with a >3% impact probability](https://newton.spacedys.com/neodys2/NEOScan/risk_page/ZTm0038/index_summary_ZTm0038.html)
-- Aug 15 - [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
-- Aug 15 - [The Future of Terraform Must Be Open](https://blog.gruntwork.io/the-future-of-terraform-must-be-open-ab0b9ba65bca?gi=c07f9cd96456)
-- Aug 15 - [Employees in Asia are spending most time looking busy at work, says Slack report](https://www.cnbc.com/2023/08/14/employees-in-asia-are-spending-the-most-time-looking-busy-at-work.html)
-- Aug 15 - [Phone radiation causes brain tumors, should be classified as a carcinogen (2A)](https://www.spandidos-publications.com/10.3892/ijo.2015.2908)
+- Aug 15 - [Google Deprecates Google Domains, Sells It to Squarespace](https://support.google.com/domains/answer/13689670?hl=en)
+- Aug 15 - [Ted's Notes on Pawpaws](https://toyrus.ngrok.io/~ted/pawpaws/)
+- Aug 15 - [Bank of Ireland IT blunder allows customers who have no money get access to cash](https://www.independent.ie/business/personal-finance/bank-of-ireland-it-blunder-allows-customers-who-have-no-money-get-access-to-cash-at-atms/a510070628.html)
+- Aug 15 - [We Call on FOSS Contributors to “Exit Zoom”](https://sfconservancy.org/news/2023/aug/15/exit-zoom/)
+- Aug 15 - [Modern CSV version 2 is now available](https://www.moderncsv.com/modern-csv-2-is-now-available/)
 <!--END_SECTION:hn-->
 
 <!--
