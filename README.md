@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 16 - [How to Produce Green Hydrogen for $1/Kg – Terraform Industries Blog](https://terraformindustries.wordpress.com/2023/08/16/how-to-produce-green-hydrogen-for-1-kg/)
-- Aug 16 - [Intel QuickAssist Technology Zstandard Plugin for Zstandard](https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Intel-QuickAssist-Technology-Zstandard-Plugin-an-External/post/1509818)
-- Aug 16 - [2,000-year-old synagogue found in southern Russia](http://www.thehistoryblog.com/archives/68050)
-- Aug 16 - [$70 device can spoof an Apple device and trick you into sharing your password](https://techcrunch.com/2023/08/16/this-70-device-can-spoof-an-apple-device-and-trick-you-into-sharing-your-password/)
-- Aug 16 - [Naomi Wu and the Silence That Speaks Volumes](https://www.hackingbutlegal.com/naomi-wu-and-the-silence-that-speaks-volumes/)
+- Aug 17 - [NP-hard does not mean hard (2017)](https://jeremykun.com/2017/12/29/np-hard-does-not-mean-hard/)
+- Aug 17 - [Harvard Tells Grad Students to Get Food Stamps](https://www.vice.com/en/article/93kwaa/harvard-tells-grad-students-to-get-food-stamps-to-supplement-the-unlivable-wages-it-pays-them)
+- Aug 17 - [The Princeton Companion to Mathematics [pdf]](https://sites.math.rutgers.edu/~zeilberg/akherim/PCM.pdf)
+- Aug 17 - [A Search for Technosignatures Around 11,680 Nearby Stars](https://arxiv.org/abs/2308.02712)
+- Aug 17 - [Ask HN: Any interesting books you have read lately?](https://news.ycombinator.com/item?id=37156372)
 <!--END_SECTION:hn-->
 
 <!--
