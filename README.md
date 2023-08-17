@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 17 - [UpCodes (YC S17) is hiring fullstack engineers to help make cheaper buildings](https://up.codes/careers)
-- Aug 17 - [Fusion Foolery](https://dothemath.ucsd.edu/2023/08/fusion-foolery/)
-- Aug 17 - [Managing Difficult Software Engineers](https://vadimkravcenko.com/shorts/managing-bad-engineers/)
-- Aug 17 - [Software Engineering Lessons from RCAs of greatest disasters](https://anoopdixith.com/disasters/)
-- Aug 17 - [DIY Espresso (2020)](https://www.fourbardesign.com/2020/10/diy-espresso.html)
+- Aug 17 - [Turmoil, a framework for developing and testing distributed systems](https://tokio.rs/blog/2023-01-03-announcing-turmoil)
+- Aug 17 - [AMD Ryzen APU turned into a 16GB VRAM GPU and it can run Stable Diffusion](https://old.reddit.com/r/Amd/comments/15t0lsm/i_turned_a_95_amd_apu_into_a_16gb_vram_gpu_and_it/)
+- Aug 17 - [Inflation Reduction Act impacts on the economics of hydrogen and liquid fuels](https://arxiv.org/abs/2305.00946)
+- Aug 17 - [The TextFX Project](https://textfx.withgoogle.com/)
+- Aug 17 - [Show HN: Strich – Barcode scanning for web apps](https://strich.io)
 <!--END_SECTION:hn-->
 
 <!--
