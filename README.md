@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 17 - [Turmoil, a framework for developing and testing distributed systems](https://tokio.rs/blog/2023-01-03-announcing-turmoil)
-- Aug 17 - [AMD Ryzen APU turned into a 16GB VRAM GPU and it can run Stable Diffusion](https://old.reddit.com/r/Amd/comments/15t0lsm/i_turned_a_95_amd_apu_into_a_16gb_vram_gpu_and_it/)
-- Aug 17 - [Inflation Reduction Act impacts on the economics of hydrogen and liquid fuels](https://arxiv.org/abs/2305.00946)
-- Aug 17 - [The TextFX Project](https://textfx.withgoogle.com/)
-- Aug 17 - [Show HN: Strich – Barcode scanning for web apps](https://strich.io)
+- Aug 17 - [Ancient Fires Drove Large Mammals Extinct, Study Suggests](https://www.nytimes.com/2023/08/17/science/climate-paleontology-mammals.html)
+- Aug 17 - [JobCorps.Gov: free job training, food, housing and living allowance](https://www.jobcorps.gov/)
+- Aug 17 - [SpaceX Revenue Doubled to $4.6B in 2022 Versus 2021](https://www.wsj.com/tech/behind-the-curtain-of-elon-musks-secretive-spacex-revenue-growth-and-rising-costs-2c828e2b)
+- Aug 17 - [Policy Engines: Open Policy Agent vs. AWS Cedar vs. Google Zanzibar](https://www.permit.io/blog/policy-engines)
+- Aug 17 - [Beautiful data visualization of the US stock market](https://marketmap.one)
 <!--END_SECTION:hn-->
 
 <!--
