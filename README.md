@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 18 - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=37174474)
-- Aug 18 - [Why Japan has so many ‘never travelers’](https://www.cnn.com/travel/article/japan-never-traveler-culture-cmb/index.html)
-- Aug 18 - [WTF is going on with R7RS Large?](http://dpk.io/r7rswtf)
-- Aug 18 - [Career advice for young system programmers](https://glaubercosta-11125.medium.com/career-advice-for-young-system-programmers-c7443f2d3edf)
-- Aug 18 - [Pg_later: Asynchronous Queries for Postgres](https://tembo.io/blog/introducing-pg-later/)
+- Aug 18 - [Deja Vu: The FBI Proves Again It Can’t Be Trusted with Section 702](https://www.eff.org/deeplinks/2023/07/deja-vu-fbi-proves-again-it-cant-be-trusted-section-702)
+- Aug 18 - [Ask vs. Guess Culture](https://jeanhsu.substack.com/p/ask-vs-guess-culture)
+- Aug 18 - [Microsoft's backwards compatibility is insane](https://twitter.com/mikko/status/1692503249595584526)
+- Aug 18 - [Revealed: WHO aspartame safety panel linked to alleged Coca-Cola front group](https://www.theguardian.com/business/2023/aug/17/who-panel-aspartame-diet-coke-guidelines)
+- Aug 18 - [Show HN: A website for remote workers to find Airbnb's with good Internet](https://thewirednomad.com)
 <!--END_SECTION:hn-->
 
 <!--
