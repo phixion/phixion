@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 18 - [Deja Vu: The FBI Proves Again It Can’t Be Trusted with Section 702](https://www.eff.org/deeplinks/2023/07/deja-vu-fbi-proves-again-it-cant-be-trusted-section-702)
-- Aug 18 - [Ask vs. Guess Culture](https://jeanhsu.substack.com/p/ask-vs-guess-culture)
-- Aug 18 - [Microsoft's backwards compatibility is insane](https://twitter.com/mikko/status/1692503249595584526)
-- Aug 18 - [Revealed: WHO aspartame safety panel linked to alleged Coca-Cola front group](https://www.theguardian.com/business/2023/aug/17/who-panel-aspartame-diet-coke-guidelines)
-- Aug 18 - [Show HN: A website for remote workers to find Airbnb's with good Internet](https://thewirednomad.com)
+- Aug 18 - [Apple searlized the iPhone 14 backglass [video]](https://www.youtube.com/shorts/fLEOiQdDkzk)
+- Aug 18 - [Dirty downside of 'return to office'; ending WFH could make climate crisis worse](https://www.businessinsider.com/return-to-office-remote-work-from-home-commute-companies-climate-2023-8)
+- Aug 18 - [Blue-light filtering spectacles probably make no difference to sleep quality](https://medicalxpress.com/news/2023-08-blue-light-filtering-spectacles-difference-eye.html)
+- Aug 18 - [Show HN: Poozle – open-source Plaid for LLMs](https://github.com/poozlehq/poozle)
+- Aug 18 - [Earth’s hottest month: these charts show what happened in July; what comes next](https://www.nature.com/articles/d41586-023-02552-2)
 <!--END_SECTION:hn-->
 
 <!--
