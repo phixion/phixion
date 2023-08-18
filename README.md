@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Aug 17 - [iMenu360 - 3,425,860 breached accounts](https://haveibeenpwned.com/PwnedWebsites#iMenu360)
 - Aug 15 - [Manipulated Caiman - 39,901,389 breached accounts](https://haveibeenpwned.com/PwnedWebsites#ManipulatedCaiman)
 - Aug 15 - [Jobzone - 29,708 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Jobzone)
 - Aug 10 - [Rightbiz - 65,376 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Rightbiz)
 - Aug 08 - [CraftRise - 2,532,527 breached accounts](https://haveibeenpwned.com/PwnedWebsites#CraftRise)
-- Aug 02 - [MagicDuel - 138,443 breached accounts](https://haveibeenpwned.com/PwnedWebsites#MagicDuel)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 17 - [Ancient Fires Drove Large Mammals Extinct, Study Suggests](https://www.nytimes.com/2023/08/17/science/climate-paleontology-mammals.html)
-- Aug 17 - [JobCorps.Gov: free job training, food, housing and living allowance](https://www.jobcorps.gov/)
-- Aug 17 - [SpaceX Revenue Doubled to $4.6B in 2022 Versus 2021](https://www.wsj.com/tech/behind-the-curtain-of-elon-musks-secretive-spacex-revenue-growth-and-rising-costs-2c828e2b)
-- Aug 17 - [Policy Engines: Open Policy Agent vs. AWS Cedar vs. Google Zanzibar](https://www.permit.io/blog/policy-engines)
-- Aug 17 - [Beautiful data visualization of the US stock market](https://marketmap.one)
+- Aug 17 - [Benefits of Inconvenience (“Fuben-Eki”)](https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2046153/)
+- Aug 17 - [A Blood Factor Can Rejuvenate the Aging Brain](https://www.insideprecisionmedicine.com/topics/molecular-dx-topic/a-blood-factor-can-rejuvenate-the-aging-brain/)
+- Aug 17 - [SUSE to Go Private](https://opensourcewatch.beehiiv.com/p/suse-go-private)
+- Aug 17 - [The Aging Brain: Is Misplaced DNA to Blame?](https://www.science.org/content/blog-post/aging-brain-misplaced-dna-blame)
+- Aug 17 - [YouTube Ads May Have Led to Online Tracking of Children, Research Says](https://www.nytimes.com/2023/08/17/technology/youtube-google-children-privacy.html)
 <!--END_SECTION:hn-->
 
 <!--
