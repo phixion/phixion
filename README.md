@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 18 - [Functional Programming Library for Golang by IBM](https://github.com/IBM/fp-go)
-- Aug 18 - [Microplastics Detected in the Marine Air from Norway to the High Arctic](https://scienceswitch.com/2023/08/18/microplastics-detected-in-the-marine-air-from-norway-to-the-high-arctic/)
-- Aug 18 - [FreeBSD Bhyve Virtualization](https://vermaden.wordpress.com/2023/08/18/freebsd-bhyve-virtualization/)
-- Aug 18 - [The modern sea spider had started to diversify by the Jurassic, study finds](https://www.bristol.ac.uk/news/2023/august/sea-spider-had-started-to-diversify-by-jurassic.html)
-- Aug 18 - [New type of star gives clues to mysterious origin of magnetars](https://www.eso.org/public/news/eso2313/)
+- Aug 18 - [ProtonMail Complied with 5,957 Data Requests in 2022 – Still Secure and Private?](https://restoreprivacy.com/protonmail-data-requests-user-logs/)
+- Aug 18 - [Microsoft AI suggests Ottawa food bank as a “cannot miss” tourist spot](https://arstechnica.com/information-technology/2023/08/microsoft-ai-suggests-food-bank-as-a-cannot-miss-tourist-spot-in-canada/)
+- Aug 18 - [Railway Oriented Programming](https://fsharpforfunandprofit.com/rop/)
+- Aug 18 - [TypeScript Is Surprisingly OK for Compilers](https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html)
+- Aug 18 - [micro – A Modern Alternative to nano](https://micro-editor.github.io/)
 <!--END_SECTION:hn-->
 
 <!--
