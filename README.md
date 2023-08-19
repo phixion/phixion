@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 19 - [The Lab-Leak Illusion](https://quillette.com/2023/08/19/the-lab-leak-illusion/)
-- Aug 19 - [China’s defeated youth: Young Chinese have little hope for the future](https://www.economist.com/briefing/2023/08/17/chinas-defeated-youth)
-- Aug 19 - [Speakers of different languages remember visual scenes differently](https://www.science.org/doi/10.1126/sciadv.adh0064)
-- Aug 19 - [Rust devs push back as Serde project ships precompiled binaries](https://www.bleepingcomputer.com/news/security/rust-devs-push-back-as-serde-project-ships-precompiled-binaries/)
-- Aug 19 - [AI-Generated Art Lacks Copyright Protection, D.C. Court Says](https://news.bloomberglaw.com/ip-law/ai-generated-art-lacks-copyright-protection-d-c-court-rules)
+- Aug 19 - [Police urged to investigate hospital bosses for corporate manslaughter](https://www.theguardian.com/uk-news/2023/aug/19/lucy-letby-police-urged-to-investigate-hospital-bosses-for-corporate-manslaughter)
+- Aug 19 - [High-Dosage NMN Promotes Ferroptosis to Suppress Lung Adenocarcinoma in Mice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10177531/)
+- Aug 19 - [Air Force funds ‘blended wing body’ design for long-range, fuel-efficient flight](https://www.popsci.com/technology/air-force-blended-wing-body/)
+- Aug 19 - [New plant-based pork ribs to feature edible vegan bones](https://www.theguardian.com/food/2023/aug/17/new-plant-based-pork-ribs-to-feature-edible-vegan-bones)
+- Aug 19 - [First Hurricane to hit California in 84 years; ‘catastrophic’ flooding feared](https://www.washingtonpost.com/weather/2023/08/19/hurricane-hilary-southern-california-rain-floods-forecast/)
 <!--END_SECTION:hn-->
 
 <!--
