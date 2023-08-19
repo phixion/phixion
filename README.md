@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 19 - [Ask HN: How to contract for US companies as EU national](https://news.ycombinator.com/item?id=37187320)
-- Aug 19 - [Spotify Annoyed by People Uploading Hours of White Noise](https://futurism.com/the-byte/spotify-white-noise)
-- Aug 19 - [Comparing Windows uninstallers, getting upset and then deciding to make my own](https://jv16powertools.com/blog/comparing-windows-uninstallers-and-making-uninstalr/)
-- Aug 19 - [Important CIA Contributions to Modern Technology](https://www.cia.gov/stories/story/cia-contributions-to-modern-technology-75-years/)
-- Aug 19 - [PlayHT (YC W23) Is Hiring Senior ML Engineer (Large Language Models)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
+- Aug 19 - [The Lab-Leak Illusion](https://quillette.com/2023/08/19/the-lab-leak-illusion/)
+- Aug 19 - [China’s defeated youth: Young Chinese have little hope for the future](https://www.economist.com/briefing/2023/08/17/chinas-defeated-youth)
+- Aug 19 - [Speakers of different languages remember visual scenes differently](https://www.science.org/doi/10.1126/sciadv.adh0064)
+- Aug 19 - [Rust devs push back as Serde project ships precompiled binaries](https://www.bleepingcomputer.com/news/security/rust-devs-push-back-as-serde-project-ships-precompiled-binaries/)
+- Aug 19 - [AI-Generated Art Lacks Copyright Protection, D.C. Court Says](https://news.bloomberglaw.com/ip-law/ai-generated-art-lacks-copyright-protection-d-c-court-rules)
 <!--END_SECTION:hn-->
 
 <!--
