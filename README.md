@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 18 - [2009scape](https://2009scape.org/)
-- Aug 18 - [Radiation Spikes at Chernobyl: A Mystery Few Seem Interested in Solving](https://zetter.substack.com/p/radiation-spikes-at-chernobyl-a-mystery)
-- Aug 18 - [Pines’ demon observed as a 3D acoustic plasmon in Sr2RuO4](https://www.nature.com/articles/s41586-023-06318-8)
-- Aug 18 - [Analysis: Health care CEOs hauled in $4B last year as inflation pinched workers](https://www.statnews.com/2023/08/17/health-ceo-salaries-compensation/)
-- Aug 18 - [ARM’s Neoverse N2: Cortex A710 for Servers](https://chipsandcheese.com/2023/08/18/arms-neoverse-n2-cortex-a710-for-servers/)
+- Aug 19 - [Cruise told by CA DMV to reduce robotaxi fleet 50% following crash](https://techcrunch.com/2023/08/18/cruise-told-by-regulators-to-immediately-reduce-robotaxi-fleet-50-following-crash/)
+- Aug 19 - [How to Roman Republic 101, Part IIIb: Imperium](https://acoup.blog/2023/08/18/collections-how-to-roman-republic-101-part-iiib-imperium/)
+- Aug 19 - [TSMC – the world's most important company. And everyone wants control of it](https://www.abc.net.au/news/2023-08-19/tsmc-the-most-important-company-in-the-world/102728172)
+- Aug 19 - [Cyberattack shutters major NSF-funded telescopes for more than 2 weeks](https://www.science.org/content/article/cyberattack-shutters-major-nsf-funded-telescopes-more-2-weeks)
+- Aug 19 - [Metazooa](https://metazooa.com/game)
 <!--END_SECTION:hn-->
 
 <!--
