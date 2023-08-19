@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 18 - [Apple searlized the iPhone 14 backglass [video]](https://www.youtube.com/shorts/fLEOiQdDkzk)
-- Aug 18 - [Dirty downside of 'return to office'; ending WFH could make climate crisis worse](https://www.businessinsider.com/return-to-office-remote-work-from-home-commute-companies-climate-2023-8)
-- Aug 18 - [Blue-light filtering spectacles probably make no difference to sleep quality](https://medicalxpress.com/news/2023-08-blue-light-filtering-spectacles-difference-eye.html)
-- Aug 18 - [Show HN: Poozle – open-source Plaid for LLMs](https://github.com/poozlehq/poozle)
-- Aug 18 - [Earth’s hottest month: these charts show what happened in July; what comes next](https://www.nature.com/articles/d41586-023-02552-2)
+- Aug 18 - [2009scape](https://2009scape.org/)
+- Aug 18 - [Radiation Spikes at Chernobyl: A Mystery Few Seem Interested in Solving](https://zetter.substack.com/p/radiation-spikes-at-chernobyl-a-mystery)
+- Aug 18 - [Pines’ demon observed as a 3D acoustic plasmon in Sr2RuO4](https://www.nature.com/articles/s41586-023-06318-8)
+- Aug 18 - [Analysis: Health care CEOs hauled in $4B last year as inflation pinched workers](https://www.statnews.com/2023/08/17/health-ceo-salaries-compensation/)
+- Aug 18 - [ARM’s Neoverse N2: Cortex A710 for Servers](https://chipsandcheese.com/2023/08/18/arms-neoverse-n2-cortex-a710-for-servers/)
 <!--END_SECTION:hn-->
 
 <!--
