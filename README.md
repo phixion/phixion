@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 19 - [Police urged to investigate hospital bosses for corporate manslaughter](https://www.theguardian.com/uk-news/2023/aug/19/lucy-letby-police-urged-to-investigate-hospital-bosses-for-corporate-manslaughter)
-- Aug 19 - [High-Dosage NMN Promotes Ferroptosis to Suppress Lung Adenocarcinoma in Mice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10177531/)
-- Aug 19 - [Air Force funds ‘blended wing body’ design for long-range, fuel-efficient flight](https://www.popsci.com/technology/air-force-blended-wing-body/)
-- Aug 19 - [New plant-based pork ribs to feature edible vegan bones](https://www.theguardian.com/food/2023/aug/17/new-plant-based-pork-ribs-to-feature-edible-vegan-bones)
-- Aug 19 - [First Hurricane to hit California in 84 years; ‘catastrophic’ flooding feared](https://www.washingtonpost.com/weather/2023/08/19/hurricane-hilary-southern-california-rain-floods-forecast/)
+- Aug 19 - [Mousetrap.jl: a GUI library for Julia and C++ that fully wrap GTK4](https://github.com/Clemapfel/mousetrap.jl)
+- Aug 19 - [Cellebrite asks cops to keep its phone hacking tech ‘hush hush’](https://techcrunch.com/2023/08/19/cellebrite-asks-cops-to-keep-its-phone-hacking-tech-hush-hush/)
+- Aug 19 - [The Authors Whose Pirated Books Are Powering Generative AI](https://www.theatlantic.com/technology/archive/2023/08/books3-ai-meta-llama-pirated-books/675063/)
+- Aug 19 - [The Rimac Nevera Has Broken the Production EV Nurburgring Lap Record](https://www.thedrive.com/news/the-rimac-nevera-has-broken-the-production-ev-nurburgring-lap-record)
+- Aug 19 - [Landlords Are Pushing the Supreme Court to End Rent Control](https://jacobin.com/2023/08/supreme-court-landlords-rent-control-harlan-crow-clarence-thomas/)
 <!--END_SECTION:hn-->
 
 <!--
