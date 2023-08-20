@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 20 - [Raycast (YC W20) Is Hiring a macOS Engineer (Remote, UTC ± 3 Hours)](https://www.raycast.com/jobs/software-engineer-macos)
-- Aug 20 - [Welcome to Datasette Cloud](https://www.datasette.cloud/blog/2023/welcome/)
-- Aug 20 - [The ReMarkable Streaming Tool v2: Elevating Remote Work Efficiency](https://blog.owulveryck.info/2023/07/25/evolving-the-game-a-clientless-streaming-tool-for-remarkable-2.html)
-- Aug 20 - [MacPaint and QuickDraw Source Code – CHM](https://computerhistory.org/blog/macpaint-and-quickdraw-source-code/)
-- Aug 20 - [Gov. Newsom declares state of emergency for southern California](https://www.cnn.com/2023/08/19/weather/hurricane-hilary-california-southwest-tropical-storm-saturday/index.html)
+- Aug 20 - [AI-generated art cannot be copyrighted, rules a US Federal Judge](https://www.theverge.com/2023/8/19/23838458/ai-generated-art-no-copyright-district-court)
+- Aug 20 - [Without Belief in a God, but Never Without Belief in a Devil](https://www.robkhenderson.com/p/without-belief-in-a-god-but-never)
+- Aug 20 - [Finland ends homelessness and provides shelter for all in need (2020)](https://scoop.me/housing-first-finland-homelessness/)
+- Aug 20 - [The Pattern Language of Project Xanadu](https://maggieappleton.com/xanadu-patterns)
+- Aug 20 - [Don’t Build a General Purpose API to Power Your Own Front End (2021)](https://max.engineer/server-informed-ui)
 <!--END_SECTION:hn-->
 
 <!--
