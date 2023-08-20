@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 20 - [Kris Nova passed away](https://nivenly.org/blog/2023/08/19/an-announcement-regarding-kris-n%C3%B3va/)
-- Aug 20 - [The Never Ending Now](https://perell.com/essay/never-ending-now/)
-- Aug 20 - [Shouldn't distant objects appear magnified](https://astronomy.stackexchange.com/questions/54499/shouldnt-very-very-distant-objects-appear-magnified)
-- Aug 20 - [Infrequently Asked Questions in Comp.lang.c (1999)](https://www.seebs.net/faqs/c-iaq.html)
-- Aug 20 - [A supramolecular organo-ionic electrolyte that can be liquidated for recycling](https://techxplore.com/news/2023-08-supramolecular-organo-ionic-electrolyte-liquidated-recycling.html)
+- Aug 20 - [Heat Your House with a Mechanical Windmill](https://solar.lowtechmagazine.com/2019/02/heat-your-house-with-a-mechanical-windmill/)
+- Aug 20 - [The missing C++ smart pointer](https://blog.matthieud.me/2023/the-missing-cpp-smart-pointer/)
+- Aug 20 - [Run a macOS VM on Apple Silicon from a double-click with Vimy](https://eclecticlight.co/2023/08/17/run-a-macos-vm-on-apple-silicon-from-a-double-click-with-vimy/)
+- Aug 20 - [Scientists trap light inside a magnet](https://www.ccny.cuny.edu/news/ccny-scientists-trap-light-inside-magnet)
+- Aug 20 - [So You Want to Learn Physics](https://www.susanrigetti.com/physics)
 <!--END_SECTION:hn-->
 
 <!--
