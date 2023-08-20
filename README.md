@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 19 - [Mousetrap.jl: a GUI library for Julia and C++ that fully wrap GTK4](https://github.com/Clemapfel/mousetrap.jl)
-- Aug 19 - [Cellebrite asks cops to keep its phone hacking tech ‘hush hush’](https://techcrunch.com/2023/08/19/cellebrite-asks-cops-to-keep-its-phone-hacking-tech-hush-hush/)
-- Aug 19 - [The Authors Whose Pirated Books Are Powering Generative AI](https://www.theatlantic.com/technology/archive/2023/08/books3-ai-meta-llama-pirated-books/675063/)
-- Aug 19 - [The Rimac Nevera Has Broken the Production EV Nurburgring Lap Record](https://www.thedrive.com/news/the-rimac-nevera-has-broken-the-production-ev-nurburgring-lap-record)
-- Aug 19 - [Landlords Are Pushing the Supreme Court to End Rent Control](https://jacobin.com/2023/08/supreme-court-landlords-rent-control-harlan-crow-clarence-thomas/)
+- Aug 20 - [Executive Function Theft](https://hedgehoglibrarian.com/2023/08/14/executive-function-theft/)
+- Aug 20 - [A Critique of the Cap'n Proto Schema Language](https://zenhack.net/2019/06/25/a-critique-of-the-capnproto-schema-language.html)
+- Aug 20 - [Project Valhalla, Simple as it can be, but not simpler](https://cr.openjdk.org/~jrose/values/larval-values.html)
+- Aug 20 - [AMD's 7900 XTX achieves better value for Stable Diffusion than Nvidia RTX 4080](https://wccftech.com/amd-radeon-7900-xtx-offers-higher-generative-ai-performance-per-dollar-than-nvidia-rtx-4080-after-990-speedup/)
+- Aug 20 - [Large Language Models: Compilers for the 4th Gen of Programming Languages? [pdf]](https://drops.dagstuhl.de/opus/volltexte/2023/18524/pdf/OASIcs-SLATE-2023-10.pdf)
 <!--END_SECTION:hn-->
 
 <!--
