@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 20 - [AI-generated art cannot be copyrighted, rules a US Federal Judge](https://www.theverge.com/2023/8/19/23838458/ai-generated-art-no-copyright-district-court)
-- Aug 20 - [Without Belief in a God, but Never Without Belief in a Devil](https://www.robkhenderson.com/p/without-belief-in-a-god-but-never)
-- Aug 20 - [Finland ends homelessness and provides shelter for all in need (2020)](https://scoop.me/housing-first-finland-homelessness/)
-- Aug 20 - [The Pattern Language of Project Xanadu](https://maggieappleton.com/xanadu-patterns)
-- Aug 20 - [Don’t Build a General Purpose API to Power Your Own Front End (2021)](https://max.engineer/server-informed-ui)
+- Aug 20 - [Kris Nova passed away](https://nivenly.org/blog/2023/08/19/an-announcement-regarding-kris-n%C3%B3va/)
+- Aug 20 - [The Never Ending Now](https://perell.com/essay/never-ending-now/)
+- Aug 20 - [Shouldn't distant objects appear magnified](https://astronomy.stackexchange.com/questions/54499/shouldnt-very-very-distant-objects-appear-magnified)
+- Aug 20 - [Infrequently Asked Questions in Comp.lang.c (1999)](https://www.seebs.net/faqs/c-iaq.html)
+- Aug 20 - [A supramolecular organo-ionic electrolyte that can be liquidated for recycling](https://techxplore.com/news/2023-08-supramolecular-organo-ionic-electrolyte-liquidated-recycling.html)
 <!--END_SECTION:hn-->
 
 <!--
