@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 21 - [Don't Fire Your Illustrator](https://sambleckley.com/writing/dont-fire-your-illustrator.html)
-- Aug 21 - [Kansas Bureau of Investigation takes lead following police raid of newspaper](https://www.kansascity.com/news/politics-government/article278253028.html)
-- Aug 21 - [''Vinegar Syndrome'' Decaying Archives of Cellulose Acetate Microfilm Stock](https://www.cbc.ca/news/canada/toronto/vinegar-syndrome-acetate-film-1.6939032)
-- Aug 21 - [Flatpak is not the future (2021)](https://ludocode.com/blog/flatpak-is-not-the-future)
-- Aug 21 - [All of the vehicle license plates available in America](https://www.beautifulpublicdata.com/all-of-the-license-plates-in-the-united-states/)
+- Aug 21 - [Why Open Source?](https://getconvoy.io/blog/why-open-source/)
+- Aug 21 - [Eighteen150 A residence program for solo immigrant founders](https://www.unshackledvc.com/eighteen150)
+- Aug 21 - [How the rich get richer (2020)](https://www.imf.org/en/Blogs/Articles/2020/11/30/how-the-rich-get-richer)
+- Aug 21 - [Show HN: VisionScript, abstract programming language for computer vision](https://github.com/capjamesg/visionscript)
+- Aug 21 - [5 years ago Valve released Proton](https://www.gamingonlinux.com/2023/08/5-years-ago-valve-released-proton-forever-changing-linux-gaming/)
 <!--END_SECTION:hn-->
 
 <!--
