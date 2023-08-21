@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 20 - [Heat Your House with a Mechanical Windmill](https://solar.lowtechmagazine.com/2019/02/heat-your-house-with-a-mechanical-windmill/)
-- Aug 20 - [The missing C++ smart pointer](https://blog.matthieud.me/2023/the-missing-cpp-smart-pointer/)
-- Aug 20 - [Run a macOS VM on Apple Silicon from a double-click with Vimy](https://eclecticlight.co/2023/08/17/run-a-macos-vm-on-apple-silicon-from-a-double-click-with-vimy/)
-- Aug 20 - [Scientists trap light inside a magnet](https://www.ccny.cuny.edu/news/ccny-scientists-trap-light-inside-magnet)
-- Aug 20 - [So You Want to Learn Physics](https://www.susanrigetti.com/physics)
+- Aug 20 - [Cell therapy repairs cornea damage with patient's stem cells gives trial results](https://medicalxpress.com/news/2023-08-cell-therapy-cornea-patient-stem.html)
+- Aug 20 - [TimeGuessr: Guess what year a photograph was taken](https://timeguessr.com/)
+- Aug 20 - [JSON Schema Store](https://www.schemastore.org/json/)
+- Aug 20 - [OpenCopilot – AI Copilot (sidekick) for your own SaaS product](https://github.com/openchatai/OpenCopilot)
+- Aug 20 - [A raid on a Kansas newspaper likely broke the law, experts say. But which one?](https://abcnews.go.com/US/wireStory/raid-kansas-newspaper-broke-law-experts-102390880)
 <!--END_SECTION:hn-->
 
 <!--
