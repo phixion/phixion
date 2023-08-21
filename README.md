@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 21 - [A man who can talk backwards](https://linguischtick.wordpress.com/2017/04/06/the-man-who-can-talk-backwards/)
-- Aug 21 - [We’re All Just Temporarily Abled](https://blog.jim-nielsen.com/2023/temporarily-abled/)
-- Aug 21 - [Out-of-memory victim selection with BPF](https://lwn.net/SubscriberLink/941614/f873a0ec485e01c5/)
-- Aug 21 - [Precompiled binaries removed from serde v1.0.184](https://github.com/serde-rs/serde/releases/tag/v1.0.184)
-- Aug 21 - [FreeBSD replaces bubblesort with mergesort on SYSINTs](https://twitter.com/cperciva/status/1693127769901969772)
+- Aug 21 - [GNU Parallel, where have you been all my life?](https://alexplescan.com/posts/2023/08/20/gnu-parallel/)
+- Aug 21 - [Most companies do not need Snowflake or Databricks](https://kjhealey.medium.com/cached-takes-80-of-companies-do-not-need-snowflake-or-databricks-5ebda64c0853)
+- Aug 21 - [Last rites for the UK Online Safety Bill, an idea too stupid to notice it's dead](https://www.theregister.com/2023/08/21/opinion_column_monday/)
+- Aug 21 - [Be careful of the examples you use. They stick](https://blog.thinkst.com/2023/08/default-behaviour-sticks-and-so-do-examples.html)
+- Aug 21 - [A man who can talk backwards (2017)](https://linguischtick.wordpress.com/2017/04/06/the-man-who-can-talk-backwards/)
 <!--END_SECTION:hn-->
 
 <!--
