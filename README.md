@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 21 - [Texas electricity prices soar 6k% as heat wave is expected to shatter records](https://desdemonadespair.net/2023/08/texas-electricity-prices-soar-6000-percent-as-a-fresh-heat-wave-is-expected-to-shatter-records-spot-electricity-prices-jumped-to-4750-per-megawatt-hour-from-the-average-of-75.html)
-- Aug 21 - [FreeBSD replaces bubblesort with mergesort on SYSINTs, results in 100x speed](https://twitter.com/cperciva/status/1693127769901969772)
-- Aug 21 - [Anxious brains redirect emotion regulation](https://www.nature.com/articles/s41467-023-40666-3)
-- Aug 21 - [StableVideo: Text-Driven Consistency-Aware Diffusion Video Editing](https://rese1f.github.io/StableVideo/)
-- Aug 21 - [Probability Can Bite](https://www.maa.org/external_archive/devlin/devlin_04_10.html)
+- Aug 21 - [A man who can talk backwards](https://linguischtick.wordpress.com/2017/04/06/the-man-who-can-talk-backwards/)
+- Aug 21 - [We’re All Just Temporarily Abled](https://blog.jim-nielsen.com/2023/temporarily-abled/)
+- Aug 21 - [Out-of-memory victim selection with BPF](https://lwn.net/SubscriberLink/941614/f873a0ec485e01c5/)
+- Aug 21 - [Precompiled binaries removed from serde v1.0.184](https://github.com/serde-rs/serde/releases/tag/v1.0.184)
+- Aug 21 - [FreeBSD replaces bubblesort with mergesort on SYSINTs](https://twitter.com/cperciva/status/1693127769901969772)
 <!--END_SECTION:hn-->
 
 <!--
