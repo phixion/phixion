@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 21 - [GNU Parallel, where have you been all my life?](https://alexplescan.com/posts/2023/08/20/gnu-parallel/)
-- Aug 21 - [Most companies do not need Snowflake or Databricks](https://kjhealey.medium.com/cached-takes-80-of-companies-do-not-need-snowflake-or-databricks-5ebda64c0853)
-- Aug 21 - [Last rites for the UK Online Safety Bill, an idea too stupid to notice it's dead](https://www.theregister.com/2023/08/21/opinion_column_monday/)
-- Aug 21 - [Be careful of the examples you use. They stick](https://blog.thinkst.com/2023/08/default-behaviour-sticks-and-so-do-examples.html)
-- Aug 21 - [A man who can talk backwards (2017)](https://linguischtick.wordpress.com/2017/04/06/the-man-who-can-talk-backwards/)
+- Aug 21 - [Don't Fire Your Illustrator](https://sambleckley.com/writing/dont-fire-your-illustrator.html)
+- Aug 21 - [Kansas Bureau of Investigation takes lead following police raid of newspaper](https://www.kansascity.com/news/politics-government/article278253028.html)
+- Aug 21 - [''Vinegar Syndrome'' Decaying Archives of Cellulose Acetate Microfilm Stock](https://www.cbc.ca/news/canada/toronto/vinegar-syndrome-acetate-film-1.6939032)
+- Aug 21 - [Flatpak is not the future (2021)](https://ludocode.com/blog/flatpak-is-not-the-future)
+- Aug 21 - [All of the vehicle license plates available in America](https://www.beautifulpublicdata.com/all-of-the-license-plates-in-the-united-states/)
 <!--END_SECTION:hn-->
 
 <!--
