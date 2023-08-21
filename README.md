@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 20 - [Cell therapy repairs cornea damage with patient's stem cells gives trial results](https://medicalxpress.com/news/2023-08-cell-therapy-cornea-patient-stem.html)
-- Aug 20 - [TimeGuessr: Guess what year a photograph was taken](https://timeguessr.com/)
-- Aug 20 - [JSON Schema Store](https://www.schemastore.org/json/)
-- Aug 20 - [OpenCopilot – AI Copilot (sidekick) for your own SaaS product](https://github.com/openchatai/OpenCopilot)
-- Aug 20 - [A raid on a Kansas newspaper likely broke the law, experts say. But which one?](https://abcnews.go.com/US/wireStory/raid-kansas-newspaper-broke-law-experts-102390880)
+- Aug 21 - [Texas electricity prices soar 6k% as heat wave is expected to shatter records](https://desdemonadespair.net/2023/08/texas-electricity-prices-soar-6000-percent-as-a-fresh-heat-wave-is-expected-to-shatter-records-spot-electricity-prices-jumped-to-4750-per-megawatt-hour-from-the-average-of-75.html)
+- Aug 21 - [FreeBSD replaces bubblesort with mergesort on SYSINTs, results in 100x speed](https://twitter.com/cperciva/status/1693127769901969772)
+- Aug 21 - [Anxious brains redirect emotion regulation](https://www.nature.com/articles/s41467-023-40666-3)
+- Aug 21 - [StableVideo: Text-Driven Consistency-Aware Diffusion Video Editing](https://rese1f.github.io/StableVideo/)
+- Aug 21 - [Probability Can Bite](https://www.maa.org/external_archive/devlin/devlin_04_10.html)
 <!--END_SECTION:hn-->
 
 <!--
