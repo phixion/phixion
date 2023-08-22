@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 22 - [Show HN: FlakeHub – Discover and publish Nix flakes](https://flakehub.com/)
-- Aug 22 - [The first conformant M1 GPU driver](https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html)
-- Aug 22 - [Show HN: OpenCopilot – Build Your Open-Source Copilot in a Single Day](https://github.com/opencopilotdev/opencopilot)
-- Aug 22 - [Show HN: Cosmic Media – Search millions of stock photos and videos](https://news.ycombinator.com/item?id=37223580)
-- Aug 22 - [1919 Cartoon Depicting the Use of a ‘Pocket Telephone’](https://www.vintag.es/2023/08/the-pocket-telephone.html)
+- Aug 22 - [Experian fined $650k for not letting you opt out of its spammy emails](https://www.theverge.com/2023/8/22/23841646/experian-fined-spam-emails-ftc-doj)
+- Aug 22 - [GPT-3.5 Turbo fine-tuning and API updates](https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates)
+- Aug 22 - [Godly – Astronomically good web design inspiration](https://godly.website/)
+- Aug 22 - [Asyncio, twisted, tornado, gevent walk into a bar](https://www.bitecode.dev/p/asyncio-twisted-tornado-gevent-walk)
+- Aug 22 - [Figma makes 200 fixes and improvements to Dev Mode](https://figma.com/blog/dev-mode-fast-follows-200-new-features-and-fixes/)
 <!--END_SECTION:hn-->
 
 <!--
