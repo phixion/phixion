@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 21 - [Why Open Source?](https://getconvoy.io/blog/why-open-source/)
-- Aug 21 - [Eighteen150 A residence program for solo immigrant founders](https://www.unshackledvc.com/eighteen150)
-- Aug 21 - [How the rich get richer (2020)](https://www.imf.org/en/Blogs/Articles/2020/11/30/how-the-rich-get-richer)
-- Aug 21 - [Show HN: VisionScript, abstract programming language for computer vision](https://github.com/capjamesg/visionscript)
-- Aug 21 - [5 years ago Valve released Proton](https://www.gamingonlinux.com/2023/08/5-years-ago-valve-released-proton-forever-changing-linux-gaming/)
+- Aug 21 - [Podman Desktop celebrates 500k downloads](https://blog.podman.io/2023/08/celebrating-500k-downloads-the-podman-desktop-journey-%f0%9f%8e%89/)
+- Aug 21 - [Growing share of Americans favor more nuclear power](https://www.pewresearch.org/short-reads/2023/08/18/growing-share-of-americans-favor-more-nuclear-power/)
+- Aug 21 - [Ego Death](https://krisnova.net/posts/ego-death/)
+- Aug 21 - [Associated Press clarifies standards around generative AI](https://www.niemanlab.org/2023/08/not-a-replacement-of-journalists-in-any-way-ap-clarifies-standards-around-generative-ai/)
+- Aug 21 - [uBlock Origin Lite now available on Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin-lite/)
 <!--END_SECTION:hn-->
 
 <!--
