@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 22 - [GiveCampus (YC S15) Is Hiring Rails engineers passionate about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- Aug 22 - [US must land astronauts on the Moon again](https://www.theregister.com/2023/08/09/nasa_artemis_2_update/)
-- Aug 22 - [Simple PowerShell things allowing you to dig a bit deeper than usual](https://github.com/gtworek/PSBits)
-- Aug 22 - [Prompting, realized, and unrealized bias in generative AI](http://marble.onl/posts/code_of_practice_and_bias.html)
-- Aug 22 - [New JWST data confirms, worsens the Hubble tension](https://bigthink.com/starts-with-a-bang/jwst-confirms-worsens-hubble-tension/)
+- Aug 22 - [Show HN: FlakeHub – Discover and publish Nix flakes](https://flakehub.com/)
+- Aug 22 - [The first conformant M1 GPU driver](https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html)
+- Aug 22 - [Show HN: OpenCopilot – Build Your Open-Source Copilot in a Single Day](https://github.com/opencopilotdev/opencopilot)
+- Aug 22 - [Show HN: Cosmic Media – Search millions of stock photos and videos](https://news.ycombinator.com/item?id=37223580)
+- Aug 22 - [1919 Cartoon Depicting the Use of a ‘Pocket Telephone’](https://www.vintag.es/2023/08/the-pocket-telephone.html)
 <!--END_SECTION:hn-->
 
 <!--
