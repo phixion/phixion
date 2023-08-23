@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 23 - [Resistor–Transistor Logic (RTL)](https://en.wikipedia.org/wiki/Resistor%E2%80%93transistor_logic)
-- Aug 23 - [Permutation iteration and random access](https://blog.demofox.org/2023/08/22/permutation-iteration-and-random-access/)
-- Aug 23 - [Enhance Rust errors with file and line details](https://crates.io/crates/wherr)
-- Aug 23 - [Zrepl – ZFS replication](https://zrepl.github.io/)
-- Aug 23 - [McNealy's bittersweet memo bids good-bye to Sun (2010)](https://www.cnet.com/culture/mcnealys-bittersweet-memo-bids-good-bye-to-sun-20000017/)
+- Aug 23 - [Server-Side Rendering Is a Thiel Truth (2020)](https://www.timr.co/server-side-rendering-is-a-thiel-truth/)
+- Aug 23 - [Ask HN: Where to find open source house plans?](https://news.ycombinator.com/item?id=37234111)
+- Aug 23 - [Why the vagus nerve is so exciting to scientists](https://www.theguardian.com/society/2023/aug/23/the-key-to-depression-obesity-alcoholism-and-more-why-the-vagus-nerve-is-so-exciting-to-scientists)
+- Aug 23 - [Live telecast of Chandrayaan-3 Soft-landing](https://www.isro.gov.in/LIVE_telecast_of_Soft_landing.html)
+- Aug 23 - [macOS 13.5 no longer allows setting system wide ulimits](https://developer.apple.com/forums/thread/735798)
 <!--END_SECTION:hn-->
 
 <!--
