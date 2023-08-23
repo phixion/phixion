@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 22 - [A State Official Refused to Release Water for West Maui Fires](https://www.civilbeat.org/2023/08/a-state-official-refused-to-release-water-for-west-maui-fires-until-it-was-too-late/)
-- Aug 22 - [Dashworks is hiring ML and fullstack engineers](https://www.dashworks.ai/company#jobs)
-- Aug 22 - [OpenSAFELY is a secure, open-source platform for analysis of health records data](https://www.opensafely.org/about/#core-design-features-for-privacy-transparency-and-open-working)
-- Aug 22 - [Skiff – Privacy-first end-to-end encrypted email](https://skiff.com)
-- Aug 22 - [Thoughts on Flash (2010)](https://web.archive.org/web/20170615060422/https://www.apple.com/hotnews/thoughts-on-flash/)
+- Aug 23 - [Ask HN: Nicknames for Computer Science Books?](https://news.ycombinator.com/item?id=37230995)
+- Aug 23 - [What Happened to Wirecutter?](https://www.theatlantic.com/technology/archive/2023/08/wirecutter-recommendations-worse-new-york-times/675075/)
+- Aug 23 - [AdNauseam: uBlock Origin fork silently clicking ads on behalf of users](https://github.com/dhowe/AdNauseam)
+- Aug 23 - [Eye scans detect signs of Parkinson’s disease up to seven years before diagnosis](https://www.moorfields.nhs.uk/news/eye-scans-detect-signs-parkinson-s-disease-seven-years-diagnosis)
+- Aug 23 - [My SSD suddenly died. I only lost 10 minutes of data, thanks to ZFS](https://mastodon.social/@chromakode/110936177254839251)
 <!--END_SECTION:hn-->
 
 <!--
