@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 23 - [Server-Side Rendering Is a Thiel Truth (2020)](https://www.timr.co/server-side-rendering-is-a-thiel-truth/)
-- Aug 23 - [Ask HN: Where to find open source house plans?](https://news.ycombinator.com/item?id=37234111)
-- Aug 23 - [Why the vagus nerve is so exciting to scientists](https://www.theguardian.com/society/2023/aug/23/the-key-to-depression-obesity-alcoholism-and-more-why-the-vagus-nerve-is-so-exciting-to-scientists)
-- Aug 23 - [Live telecast of Chandrayaan-3 Soft-landing](https://www.isro.gov.in/LIVE_telecast_of_Soft_landing.html)
-- Aug 23 - [macOS 13.5 no longer allows setting system wide ulimits](https://developer.apple.com/forums/thread/735798)
+- Aug 23 - [AI Real-Time Human Full-Body Photo Generator](https://generated.photos/human-generator/)
+- Aug 23 - [A group of Motherboard folks just spun up their own new independent outlet](https://www.404media.co/welcome-to-404-media/)
+- Aug 23 - [A half-hour to learn Rust (2020)](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
+- Aug 23 - [Odd and Unsafe Baby Car Seats from the Past](https://rarehistoricalphotos.com/unsafe-vintage-baby-car-seat/)
+- Aug 23 - [Wappalyzer no longer open source?](https://news.ycombinator.com/item?id=37236746)
 <!--END_SECTION:hn-->
 
 <!--
