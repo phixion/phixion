@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 24 - [DOJ Sues SpaceX for Discriminating Against Asylees and Refugees in Hiring](https://www.justice.gov/opa/pr/justice-department-sues-spacex-discriminating-against-asylees-and-refugees-hiring)
-- Aug 24 - [Bypassing Bitlocker using a cheap logic analyzer on a Lenovo laptop](https://www.errno.fr/BypassingBitlocker.html)
-- Aug 24 - [Microsoft’s Revocation of the Verisign Class 3 Public Primary G5 Root Cert](https://airlockdigital.com/microsofts-revocation-of-the-verisign-class-3-public-primary-certification-authority-g5-root-certificate/)
-- Aug 24 - [T-Mobile US to Lay Off 5k Employees](https://www.wsj.com/business/telecom/t-mobile-us-to-lay-off-7-of-workforce-df368047)
-- Aug 24 - [Hugging Face raises $235M from investors including Salesforce and Nvidia](https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/)
+- Aug 24 - [FreeBSD on Firecracker](https://www.usenix.org/publications/loginonline/freebsd-firecracker)
+- Aug 24 - [A New Physics Theory of Life](https://www.quantamagazine.org/a-new-thermodynamics-theory-of-the-origin-of-life-20140122/)
+- Aug 24 - [Corrupted Blood Incident](https://en.wikipedia.org/wiki/Corrupted_Blood_incident)
+- Aug 24 - [Show HN: Shimmer – ADHD coaching for adults, now on web](https://www.shimmer.care/blog/web-launch-adhd-coaching)
+- Aug 24 - [Artificial intelligence gave a paralyzed woman her voice back](https://www.ucsf.edu/news/2023/08/425986/how-artificial-intelligence-gave-paralyzed-woman-her-voice-back)
 <!--END_SECTION:hn-->
 
 <!--
