@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 24 - [Show HN: I built this Postgres logger for you guys to check out](https://rocketgraph.io/logger-demo)
-- Aug 24 - [Leaving Haskell Behind](https://journal.infinitenegativeutility.com/leaving-haskell-behind)
-- Aug 24 - [How Modern SQL Databases Are Changing Web Development: Part 1](https://blog.whimslab.io/how-modern-sql-databases-are-changing-web-development-4d1f15b0daea)
-- Aug 24 - [Apparatus for facilitating the birth of a child by centrifugal force (1963)](https://patents.google.com/patent/US3216423A/en)
-- Aug 24 - [Open source LLM with 32k Context Length](https://blog.abacus.ai/blog/2023/08/22/giraffe-long-context-llms/)
+- Aug 24 - [DOJ Sues SpaceX for Discriminating Against Asylees and Refugees in Hiring](https://www.justice.gov/opa/pr/justice-department-sues-spacex-discriminating-against-asylees-and-refugees-hiring)
+- Aug 24 - [Bypassing Bitlocker using a cheap logic analyzer on a Lenovo laptop](https://www.errno.fr/BypassingBitlocker.html)
+- Aug 24 - [Microsoft’s Revocation of the Verisign Class 3 Public Primary G5 Root Cert](https://airlockdigital.com/microsofts-revocation-of-the-verisign-class-3-public-primary-certification-authority-g5-root-certificate/)
+- Aug 24 - [T-Mobile US to Lay Off 5k Employees](https://www.wsj.com/business/telecom/t-mobile-us-to-lay-off-7-of-workforce-df368047)
+- Aug 24 - [Hugging Face raises $235M from investors including Salesforce and Nvidia](https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/)
 <!--END_SECTION:hn-->
 
 <!--
