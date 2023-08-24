@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 23 - [WinRAR 0-day that uses poisoned JPG and TXT files under exploit since April](https://arstechnica.com/security/2023/08/winrar-0-day-that-uses-poisoned-jpg-and-txt-files-under-exploit-since-april/)
+- Aug 23 - [Princeton ‘AI Snake Oil’ authors say GenAI hype has ‘spiraled out of control’](https://venturebeat.com/ai/princeton-university-ai-snake-oil-professors-say-generative-ai-hype-has-spiraled-out-of-control/)
+- Aug 23 - [Life on board a British nuclear submarine (2012)](https://www.theguardian.com/uk/2012/aug/21/life-on-board-nuclear-submarine)
+- Aug 23 - [Nvidia Announces Financial Results for Second Quarter Fiscal 2024](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2024)
+- Aug 23 - [The Early History of Counting](https://www.laphamsquarterly.org/roundtable/early-history-counting)
 - Aug 23 - [Show HN: Dataherald AI – Natural Language to SQL Engine](https://github.com/Dataherald/dataherald)
-- Aug 23 - [An excruciatingly detailed guide to SSH (but only the things I find useful)](https://grahamhelton.com/blog/ssh-cheatsheet/)
-- Aug 23 - [HashiCorp switching to BSL shows a need for open charter companies](https://opencoreventures.com/blog/2023-08-23-hashicorp-switching-bsl-shows-need-for-open-charter-companies/)
-- Aug 23 - [Common mistakes in salary negotiation](https://interviewing.io/blog/sabotage-salary-negotiation-before-even-start)
 <!--END_SECTION:hn-->
 
 <!--
