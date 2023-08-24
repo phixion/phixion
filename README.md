@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 23 - [Princeton ‘AI Snake Oil’ authors say GenAI hype has ‘spiraled out of control’](https://venturebeat.com/ai/princeton-university-ai-snake-oil-professors-say-generative-ai-hype-has-spiraled-out-of-control/)
-- Aug 23 - [Life on board a British nuclear submarine (2012)](https://www.theguardian.com/uk/2012/aug/21/life-on-board-nuclear-submarine)
-- Aug 23 - [Nvidia Announces Financial Results for Second Quarter Fiscal 2024](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2024)
-- Aug 23 - [The Early History of Counting](https://www.laphamsquarterly.org/roundtable/early-history-counting)
-- Aug 23 - [Show HN: Dataherald AI – Natural Language to SQL Engine](https://github.com/Dataherald/dataherald)
+- Aug 24 - [American Satirist C.J. Hopkins Sentenced in German Speech Case](https://www.racket.news/p/madness-american-satirist-cj-hopkins)
+- Aug 24 - [So Long, Twitter and Reddit](https://andrewkelley.me/post/goodbye-twitter-reddit.html)
+- Aug 24 - [Bun v0.8](https://bun.sh/blog/bun-v0.8.0)
+- Aug 24 - [Use web components for what they’re good at](https://nolanlawson.com/2023/08/23/use-web-components-for-what-theyre-good-at/)
+- Aug 24 - [The median return of 2022's SPAC mergers: -82%](https://pranshum.yarn.tech/24dade67-68e3-4e18-b597-94acfab46a61)
 <!--END_SECTION:hn-->
 
 <!--
