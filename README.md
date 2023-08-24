@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 24 - [American Satirist C.J. Hopkins Sentenced in German Speech Case](https://www.racket.news/p/madness-american-satirist-cj-hopkins)
-- Aug 24 - [So Long, Twitter and Reddit](https://andrewkelley.me/post/goodbye-twitter-reddit.html)
+- Aug 24 - [Open source LLM with 32k Context Length](https://blog.abacus.ai/blog/2023/08/22/giraffe-long-context-llms/)
+- Aug 24 - [Show HN: Automate complicated manual business processes](https://www.tooljet.com/workflows)
+- Aug 24 - [Print(“lol”) doubled the speed of my Go function](https://medium.com/@ludirehak/printing-lol-doubled-the-speed-of-my-go-code-e32e02fc3f92)
 - Aug 24 - [Bun v0.8](https://bun.sh/blog/bun-v0.8.0)
 - Aug 24 - [Use web components for what they’re good at](https://nolanlawson.com/2023/08/23/use-web-components-for-what-theyre-good-at/)
-- Aug 24 - [The median return of 2022's SPAC mergers: -82%](https://pranshum.yarn.tech/24dade67-68e3-4e18-b597-94acfab46a61)
 <!--END_SECTION:hn-->
 
 <!--
