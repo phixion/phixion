@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 25 - [Python 3.11.5 (2023)](https://www.python.org/downloads/release/python-3115/)
-- Aug 25 - [Hell freezes over as Apple supports right-to-repair bill](https://arstechnica.com/gadgets/2023/08/hell-freezes-over-as-apple-supports-right-to-repair-bill/)
+- Aug 25 - [The place where no humans will tread for 100k years](https://www.bbc.com/future/article/20230824-the-descent-to-the-worlds-first-waste-nuclear-fuel-storage-site)
+- Aug 25 - [Naked Mole Rat’s Longevity Gene Gives Mice a Longer Life](https://scienceswitch.com/2023/08/25/naked-mole-rats-longevity-gene-gives-mice-a-longer-life/)
+- Aug 25 - [How to Drill Your Own Water Well](https://drillyourownwell.com/)
+- Aug 25 - [Apple supports right-to-repair bill](https://arstechnica.com/gadgets/2023/08/hell-freezes-over-as-apple-supports-right-to-repair-bill/)
 - Aug 25 - [Os.js – open-source JavaScript web desktop platform with a window manager](https://www.os-js.org/)
-- Aug 25 - [Algebraic Topology for Data Scientists](https://arxiv.org/abs/2308.10825)
-- Aug 25 - [America is building chip factories. Now to find the workers](https://www.economist.com/united-states/2023/08/05/america-is-building-chip-factories-now-to-find-the-workers)
 <!--END_SECTION:hn-->
 
 <!--
