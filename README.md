@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 25 - [The place where no humans will tread for 100k years](https://www.bbc.com/future/article/20230824-the-descent-to-the-worlds-first-waste-nuclear-fuel-storage-site)
-- Aug 25 - [Naked Mole Rat’s Longevity Gene Gives Mice a Longer Life](https://scienceswitch.com/2023/08/25/naked-mole-rats-longevity-gene-gives-mice-a-longer-life/)
-- Aug 25 - [How to Drill Your Own Water Well](https://drillyourownwell.com/)
-- Aug 25 - [Apple supports right-to-repair bill](https://arstechnica.com/gadgets/2023/08/hell-freezes-over-as-apple-supports-right-to-repair-bill/)
-- Aug 25 - [Os.js – open-source JavaScript web desktop platform with a window manager](https://www.os-js.org/)
+- Aug 25 - [Factorio: Space Age](https://factorio.com/blog/post/fff-373)
+- Aug 25 - [Finetuning of Falcon-7B LLM Using QLoRA on Mental Health Conversational Dataset](https://github.com/iamarunbrahma/finetuned-qlora-falcon7b-medical)
+- Aug 25 - [An Open Source Mobile Phone Based on the ESP32](https://hackaday.com/2023/08/24/an-open-source-mobile-phone-based-on-the-esp32/)
+- Aug 25 - [Unpacking Elixir: Concurrency](https://underjord.io/unpacking-elixir-concurrency.html)
+- Aug 25 - [A place where no humans will tread for 100k years](https://www.bbc.com/future/article/20230824-the-descent-to-the-worlds-first-waste-nuclear-fuel-storage-site)
 <!--END_SECTION:hn-->
 
 <!--
