@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 24 - [Men charged by U.S. with laundering more than $1B in cryptocurrency](https://www.washingtonpost.com/national-security/2023/08/23/fbi-crypto-launder-tornado-korea/)
-- Aug 24 - [An image preprocessing tool to protect artworks from AI-for-Art based mimicry](https://mist-project.github.io/index_en.html)
-- Aug 24 - [Proof-of-Work Defense for Onion Services](https://blog.torproject.org/introducing-proof-of-work-defense-for-onion-services/)
-- Aug 24 - [SQLite 3.43](https://sqlite.org/releaselog/3_43_0.html)
-- Aug 24 - [Runme – Interactive Runbooks Built with Markdown](https://runme.dev/)
+- Aug 25 - [Python 3.11.5 (2023)](https://www.python.org/downloads/release/python-3115/)
+- Aug 25 - [Hell freezes over as Apple supports right-to-repair bill](https://arstechnica.com/gadgets/2023/08/hell-freezes-over-as-apple-supports-right-to-repair-bill/)
+- Aug 25 - [Os.js – open-source JavaScript web desktop platform with a window manager](https://www.os-js.org/)
+- Aug 25 - [Algebraic Topology for Data Scientists](https://arxiv.org/abs/2308.10825)
+- Aug 25 - [America is building chip factories. Now to find the workers](https://www.economist.com/united-states/2023/08/05/america-is-building-chip-factories-now-to-find-the-workers)
 <!--END_SECTION:hn-->
 
 <!--
