@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 25 - [Why do cats love tuna so much? Scientists may finally know](https://www.science.org/content/article/why-do-cats-love-tuna-so-much-scientists-may-finally-know)
-- Aug 25 - [Gitlab's plan to support ActivityPub for merge requests](https://gitlab.com/groups/gitlab-org/-/epics/11247)
-- Aug 25 - [CVE Is Everything Terrible About the System](https://daniel.haxx.se/blog/2023/08/26/cve-2020-19909-is-everything-that-is-wrong-with-cves/)
-- Aug 25 - [Beating GPT-4 on HumanEval with a fine-tuned CodeLlama-34B](https://www.phind.com/blog/code-llama-beats-gpt4)
-- Aug 25 - [Casio Caleid XM-700 Mobile Navigator (1997)](https://blog.gingerbeardman.com/2023/08/25/casio-caleid-xm700-mobile-navigator-hardware/)
+- Aug 26 - [Interpretable Graph Neural Networks for Tabular Data](https://arxiv.org/abs/2308.08945)
+- Aug 26 - [Generally Intelligent (YC S17) is hiring research scientists](https://news.ycombinator.com/item?id=37268923)
+- Aug 26 - [We are not empty: The concept of the atomic void is a mistake](https://aeon.co/essays/why-the-empty-atom-picture-misunderstands-quantum-theory)
+- Aug 26 - [Training immune cells to remove ‘trash’ helps resolve lung inflammation](https://today.uic.edu/immune-cells-acute-lung-injury/)
+- Aug 26 - [Sidewalk Garden](https://zachklein.com/Sidewalk+Garden)
 <!--END_SECTION:hn-->
 
 <!--
