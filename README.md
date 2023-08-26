@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 26 - [Interpretable Graph Neural Networks for Tabular Data](https://arxiv.org/abs/2308.08945)
-- Aug 26 - [Generally Intelligent (YC S17) is hiring research scientists](https://news.ycombinator.com/item?id=37268923)
-- Aug 26 - [We are not empty: The concept of the atomic void is a mistake](https://aeon.co/essays/why-the-empty-atom-picture-misunderstands-quantum-theory)
-- Aug 26 - [Training immune cells to remove ‘trash’ helps resolve lung inflammation](https://today.uic.edu/immune-cells-acute-lung-injury/)
-- Aug 26 - [Sidewalk Garden](https://zachklein.com/Sidewalk+Garden)
+- Aug 26 - [Gym Class VR (YC W22) is hiring a Unity animator and programmer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-animator-programmer-vr-unity)
+- Aug 26 - [Llama2.c L2E LLM – Multi OS Binary and Unikernel Release](https://github.com/trholding/llama2.c/releases/tag/L2E_v0.1)
+- Aug 26 - [Companies That Union-Bust Must Now Automatically Recognize Union, NLRB Rules](https://www.vice.com/en/article/dy3xej/companies-that-union-bust-must-now-automatically-recognize-union-nlrb-rules)
+- Aug 26 - [FFmpeg Explorer](https://ffmpeg.lav.io)
+- Aug 26 - [Interpretable graph neural networks for tabular data](https://arxiv.org/abs/2308.08945)
 <!--END_SECTION:hn-->
 
 <!--
