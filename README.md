@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 26 - [Gym Class VR (YC W22) is hiring a Unity animator and programmer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-animator-programmer-vr-unity)
-- Aug 26 - [Llama2.c L2E LLM – Multi OS Binary and Unikernel Release](https://github.com/trholding/llama2.c/releases/tag/L2E_v0.1)
-- Aug 26 - [Companies That Union-Bust Must Now Automatically Recognize Union, NLRB Rules](https://www.vice.com/en/article/dy3xej/companies-that-union-bust-must-now-automatically-recognize-union-nlrb-rules)
-- Aug 26 - [FFmpeg Explorer](https://ffmpeg.lav.io)
-- Aug 26 - [Interpretable graph neural networks for tabular data](https://arxiv.org/abs/2308.08945)
+- Aug 26 - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- Aug 26 - [The Albanian town that TikTok emptied](https://www.codastory.com/authoritarian-tech/albania-tiktok-migration-uk/)
+- Aug 26 - [The WordPress 100 Year Plan](https://wordpress.com/100-year/)
+- Aug 26 - [The EU’s Digital Services Act is now in effect](https://www.theverge.com/23845672/eu-digital-services-act-explained)
+- Aug 26 - [Clean mount lists in Linux](https://dbohdan.com/clean-mount-lists)
 <!--END_SECTION:hn-->
 
 <!--
