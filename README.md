@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 26 - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-- Aug 26 - [The Albanian town that TikTok emptied](https://www.codastory.com/authoritarian-tech/albania-tiktok-migration-uk/)
-- Aug 26 - [The WordPress 100 Year Plan](https://wordpress.com/100-year/)
-- Aug 26 - [The EU’s Digital Services Act is now in effect](https://www.theverge.com/23845672/eu-digital-services-act-explained)
-- Aug 26 - [Clean mount lists in Linux](https://dbohdan.com/clean-mount-lists)
+- Aug 26 - [Exxon Knew about Climate Change Almost 40 Years Ago](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/)
+- Aug 26 - [Apple Pay Later: What Are the Crazy Ones Up To?](https://www.softwareplatform.net/2023/04/16/apple-pay-later-what-are-the-crazy-ones-up-to/)
+- Aug 26 - [Let Maintainers Be Maintainers](https://graydon2.dreamwidth.org/306832.html)
+- Aug 26 - [Armed with traffic cones, protesters are immobilizing driverless cars](https://www.npr.org/2023/08/26/1195695051/driverless-cars-san-francisco-waymo-cruise)
+- Aug 26 - [Newly discovered black hole 'speed limit' hints at new laws of physics](https://www.livescience.com/physics-mathematics/newly-discovered-black-hole-speed-limit-hints-at-new-laws-of-physics)
 <!--END_SECTION:hn-->
 
 <!--
