@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 27 - [Scenes from the Solbourne Computer corporate video, March 1992](http://oldvcr.blogspot.com/2023/08/scenes-from-solbourne-computer.html)
-- Aug 27 - [Linux 6.5 Last Minute Fixes a Performance Regression, 34% Drop in a Benchmark](https://www.phoronix.com/news/Linux-6.5-x86-Fix-34p-Drop)
-- Aug 27 - [If you're interested in eye-tracking, I'm interested in funding you](https://twitter.com/paulg/status/1695596853864321055)
-- Aug 26 - [Linux on a Commodore 64](https://github.com/onnokort/semu-c64)
-- Aug 26 - [Martin Miller talks about his mother, Alice Miller (2015)](https://www.contemporarypsychotherapy.org/volume-7-issue-1-summer-2015/interview-martin-miller/)
+- Aug 27 - [OpenWrt Security Advisories](https://openwrt.org/advisory/start)
+- Aug 27 - [Who is driving Germany's far-right poll surge?](https://adamtooze.substack.com/p/chartbook-235-who-is-driving-germanys)
+- Aug 27 - [Ubus (OpenWrt micro bus architecture)](https://openwrt.org/docs/techref/ubus)
+- Aug 27 - [Interactive Hiragana chart with audio](https://japanesecomplete.com/hiragana-chart)
+- Aug 27 - [Happy 25th Birthday to Bugzilla](https://www.bugzilla.org/blog/2023/08/26/bugzilla-celebrates-25-years/)
 <!--END_SECTION:hn-->
 
 <!--
