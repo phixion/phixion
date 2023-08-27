@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 27 - [Things that didn't age well](https://mastodon.social/@damianogerli/110677869558047692)
-- Aug 27 - [Seasonal malaria vaccine-drug combo sees dramatic reductions at 5-year mark](https://www.lshtm.ac.uk/newsevents/news/2023/seasonal-malaria-vaccine-drug-combination-sees-dramatic-reductions-five-year)
-- Aug 27 - [Lie Still in Bed](https://ognjen.io/lie-still-in-bed/)
-- Aug 27 - [Prisoners of Google Android Development](https://solutional.ee/blog/2023-08-26-Prisoners-of-Google-Android-Development.html)
-- Aug 27 - [The Dark History Oppenheimer Didn’t Show](https://www.wired.com/story/the-dark-history-oppenheimer-didnt-show/)
+- Aug 27 - [Some of the error messages produced by Apple's MPW C compiler (2006)](https://www.cs.cmu.edu/~jasonh/personal/humor/compile.html)
+- Aug 27 - [Sal Khan: How AI could save (not destroy) education [video]](https://www.youtube.com/watch?v=hJP5GqnTrNo)
+- Aug 27 - [Mother is arrested in Bangladesh after son in US criticizes government online](https://www.nbcnews.com/news/asian-america/mother-arrested-bangladesh-son-us-criticizes-government-online-rcna101392)
+- Aug 27 - [Consumers complaining on X targeted by scammers after verification changes](https://www.theguardian.com/technology/2023/aug/27/consumers-complaining-x-targeted-scammers-verification-changes-twitter)
+- Aug 27 - [Python Type Hints – *args and **kwargs (2021)](https://adamj.eu/tech/2021/05/11/python-type-hints-args-and-kwargs/)
 <!--END_SECTION:hn-->
 
 <!--
