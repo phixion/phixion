@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 27 - [OpenWrt Security Advisories](https://openwrt.org/advisory/start)
-- Aug 27 - [Who is driving Germany's far-right poll surge?](https://adamtooze.substack.com/p/chartbook-235-who-is-driving-germanys)
-- Aug 27 - [Ubus (OpenWrt micro bus architecture)](https://openwrt.org/docs/techref/ubus)
-- Aug 27 - [Interactive Hiragana chart with audio](https://japanesecomplete.com/hiragana-chart)
-- Aug 27 - [Happy 25th Birthday to Bugzilla](https://www.bugzilla.org/blog/2023/08/26/bugzilla-celebrates-25-years/)
+- Aug 27 - [Things that didn't age well](https://mastodon.social/@damianogerli/110677869558047692)
+- Aug 27 - [Seasonal malaria vaccine-drug combo sees dramatic reductions at 5-year mark](https://www.lshtm.ac.uk/newsevents/news/2023/seasonal-malaria-vaccine-drug-combination-sees-dramatic-reductions-five-year)
+- Aug 27 - [Lie Still in Bed](https://ognjen.io/lie-still-in-bed/)
+- Aug 27 - [Prisoners of Google Android Development](https://solutional.ee/blog/2023-08-26-Prisoners-of-Google-Android-Development.html)
+- Aug 27 - [The Dark History Oppenheimer Didn’t Show](https://www.wired.com/story/the-dark-history-oppenheimer-didnt-show/)
 <!--END_SECTION:hn-->
 
 <!--
