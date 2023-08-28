@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 28 - [MastApple//C, a Mastodon client for the Apple II (//C and ][e)](https://www.colino.net/wordpress/en/binary-release-of-mastodon-for-the-apple-c/)
-- Aug 28 - [SEC brought its first non-fungible token enforcement action](https://www.sec.gov/news/statement/peirce-uyeda-statement-nft-082823)
-- Aug 28 - [Cleaning Up Dead Bodies in AWS IAM](https://www.noq.dev/blog/cleaning-up-dead-bodies-in-aws-iam)
-- Aug 28 - [Unit Test LlamaIndex with DeepEval](https://docs.confident-ai.com/docs/tutorials/evaluating-llamaindex)
-- Aug 28 - [Continue with LocalAI: An alternative to GitHub's Copilot that runs locally](https://old.reddit.com/r/selfhosted/comments/163nxcm/continue_with_localai_an_alternative_to_githubs/)
+- Aug 28 - [Google’s Surveillance](https://simplifiedprivacy.com/googles-surveillance-the-shocking-truth/)
+- Aug 28 - [A JVM in Rust part 5 – Executing instructions](https://andreabergia.com/blog/2023/08/a-jvm-in-rust-part-5-executing-instructions/)
+- Aug 28 - [Raise Less, Build More](https://trohan.com/2023/08/20/raise-less-build-more/)
+- Aug 28 - [Opening of West Point time capsule reveals what cynics said it would: Nothing](https://www.freep.com/story/news/local/michigan/2023/08/28/west-point-time-capsule-kosciuszko-mystery/70697206007/)
+- Aug 28 - [Serial adapter / reboot controller for Apple M1/M2](https://www.tindie.com/products/aaafnraa/serial-adapter-reboot-controller-for-apple-m1m2/)
 <!--END_SECTION:hn-->
 
 <!--
