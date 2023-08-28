@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 28 - [Self-Driving Cars Are a Dangerous Pipe Dream [video]](https://www.youtube.com/watch?v=wCJ7fNoEUsY)
-- Aug 28 - [How to find time to learn after work (2017)](https://www.feststelltaste.de/how-to-find-time-to-learn-after-work/)
-- Aug 28 - [Self-driving cars less likely to detect children and people of color](https://www.businessinsider.com/self-driving-cars-less-likely-detect-kids-people-of-color-2023-8)
-- Aug 28 - [New Images and Video Confirm Austin-Made Tesla Model Y Has Cracked Front Casting](https://www.autoevolution.com/news/new-images-and-video-confirm-austin-made-tesla-model-y-has-cracked-front-casting-220165.html)
-- Aug 28 - [C++ Papercuts](https://www.thecodedmessage.com/posts/c++-papercuts/)
+- Aug 28 - [MastApple//C, a Mastodon client for the Apple II (//C and ][e)](https://www.colino.net/wordpress/en/binary-release-of-mastodon-for-the-apple-c/)
+- Aug 28 - [SEC brought its first non-fungible token enforcement action](https://www.sec.gov/news/statement/peirce-uyeda-statement-nft-082823)
+- Aug 28 - [Cleaning Up Dead Bodies in AWS IAM](https://www.noq.dev/blog/cleaning-up-dead-bodies-in-aws-iam)
+- Aug 28 - [Unit Test LlamaIndex with DeepEval](https://docs.confident-ai.com/docs/tutorials/evaluating-llamaindex)
+- Aug 28 - [Continue with LocalAI: An alternative to GitHub's Copilot that runs locally](https://old.reddit.com/r/selfhosted/comments/163nxcm/continue_with_localai_an_alternative_to_githubs/)
 <!--END_SECTION:hn-->
 
 <!--
