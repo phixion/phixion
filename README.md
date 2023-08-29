@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 29 - [Air pollution greatest global threat to human health, says benchmark study](https://phys.org/news/2023-08-air-pollution-greatest-global-threat.html)
-- Aug 29 - [Starlink's User Terminal Firmware](https://blog.quarkslab.com/starlink.html)
-- Aug 29 - [C.R. Rao: A Life in Statistics (2020)](https://bhavana.org.in/c-r-rao-a-life-in-statistics/)
-- Aug 29 - [Whistleblower alleges Booz Allen was overcharging U.S. taxpayers for losses](https://www.nbcnews.com/news/investigations/marine-sarah-feinberg-whistleblower-booz-allen-69-million-rcna102098)
-- Aug 29 - [Keystroke timing obfuscation added to ssh(1)](https://undeadly.org/cgi?action=article;sid=20230829051257)
+- Aug 29 - [I chose the ThinkPad Z13 Gen1 as my Linux laptop](https://wimpysworld.com/posts/why-i-chose-the-thinkpad-z13-as-my-linux-laptop/)
+- Aug 29 - [Jama: Evidence does not show that common cancer screening tests extend lifetime](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2808648)
+- Aug 29 - [Webstudio: Open-source WYSIWYG adds Radix UI elements](https://webstudio.is/radix)
+- Aug 29 - [Google Announced AlloyDB AI for Building Generative AI Apps with PostgreSQL](https://cloud.google.com/blog/products/databases/helping-developers-build-gen-ai-apps-with-google-cloud-databases)
+- Aug 29 - [Show HN: Why AI data should be self hosted](https://www.layernext.ai//post/why-is-layernext-self-hosted-by-default)
 <!--END_SECTION:hn-->
 
 <!--
