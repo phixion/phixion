@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 29 - [The Heart of W. Edwards Deming](https://hagakure.substack.com/p/the-hagakure-64-the-heart-of-w-edwards)
-- Aug 29 - [Interstellar puzzle based on Graph Theory](https://treksit.com)
-- Aug 29 - [Padlet (YC W13) is hiring in San Francisco and Singapore](https://padlet.jobs)
-- Aug 29 - [New research finds Late Pleistocene glaciations terminated by Earth's axis tilt](https://phys.org/news/2023-08-late-pleistocene-glaciations-terminated-earth.html)
-- Aug 29 - [Fi now opts you into the use of your CPNI by Alphabet affiliates](https://fi.sds.modeaondemand.com/en-us/tutorial/app-googlefi-android-smartphone/latest/feature_privacy_settings_web/)
+- Aug 29 - [Compiling Rust for .NET, using only tea and stubbornness](https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_0_1.html)
+- Aug 29 - [Source: Google Pixel 8 will get more Android OS updates](https://9to5google.com/2023/08/28/google-pixel-8-android-os-updates/)
+- Aug 29 - [A note to young folks: download the things you love](https://birchtree.me/blog/a-note-to-young-folks-download-the-videos-you-love/)
+- Aug 29 - [Germany Is Losing Its Mojo. Finding It Again Won’t Be Easy](https://www.wsj.com/world/europe/germany-is-losing-its-mojo-finding-it-again-wont-be-easy-c4b46761)
+- Aug 29 - [Traffic 101: Packets Mostly Flow](https://slack.engineering/traffic-101-packets-mostly-flow/)
 <!--END_SECTION:hn-->
 
 <!--
