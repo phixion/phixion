@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 28 - [Google’s Surveillance](https://simplifiedprivacy.com/googles-surveillance-the-shocking-truth/)
-- Aug 28 - [A JVM in Rust part 5 – Executing instructions](https://andreabergia.com/blog/2023/08/a-jvm-in-rust-part-5-executing-instructions/)
-- Aug 28 - [Raise Less, Build More](https://trohan.com/2023/08/20/raise-less-build-more/)
-- Aug 28 - [Opening of West Point time capsule reveals what cynics said it would: Nothing](https://www.freep.com/story/news/local/michigan/2023/08/28/west-point-time-capsule-kosciuszko-mystery/70697206007/)
-- Aug 28 - [Serial adapter / reboot controller for Apple M1/M2](https://www.tindie.com/products/aaafnraa/serial-adapter-reboot-controller-for-apple-m1m2/)
+- Aug 28 - [Amazon CEO reportedly told remote employees: It’s probably not going to work out](https://www.theverge.com/2023/8/28/23849754/amazon-ceo-andy-jassy-remote-employees-return-to-office)
+- Aug 28 - [False Canopies on Fighters Work, One Almost Killed Me](https://www.thedrive.com/the-war-zone/false-canopies-on-fighters-work-one-almost-killed-me)
+- Aug 28 - [Water-purifying cup makes drinkable water from creeks and streams](https://cockrell.utexas.edu/news/archive/9720-water-purifying-cup-makes-drinkable-water-from-creeks-and-streams-in-minutes)
+- Aug 28 - [Kodable (YC IK12) is hiring a senior engineer to help us teach kids to code](https://www.indeed.com/job/senior-full-stack-engineer-c38525c084b29fa2?_gl=1*1s9dm2h*_gcl_au*NjI1Nzg0NDk2LjE2OTE0NDA1MDE.)
+- Aug 28 - [Bioregions 2023](https://www.oneearth.org/bioregions-2023/)
 <!--END_SECTION:hn-->
 
 <!--
