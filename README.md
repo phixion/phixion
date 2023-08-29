@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 28 - [Amazon CEO reportedly told remote employees: It’s probably not going to work out](https://www.theverge.com/2023/8/28/23849754/amazon-ceo-andy-jassy-remote-employees-return-to-office)
-- Aug 28 - [False Canopies on Fighters Work, One Almost Killed Me](https://www.thedrive.com/the-war-zone/false-canopies-on-fighters-work-one-almost-killed-me)
-- Aug 28 - [Water-purifying cup makes drinkable water from creeks and streams](https://cockrell.utexas.edu/news/archive/9720-water-purifying-cup-makes-drinkable-water-from-creeks-and-streams-in-minutes)
-- Aug 28 - [Kodable (YC IK12) is hiring a senior engineer to help us teach kids to code](https://www.indeed.com/job/senior-full-stack-engineer-c38525c084b29fa2?_gl=1*1s9dm2h*_gcl_au*NjI1Nzg0NDk2LjE2OTE0NDA1MDE.)
-- Aug 28 - [Bioregions 2023](https://www.oneearth.org/bioregions-2023/)
+- Aug 29 - [The Heart of W. Edwards Deming](https://hagakure.substack.com/p/the-hagakure-64-the-heart-of-w-edwards)
+- Aug 29 - [Interstellar puzzle based on Graph Theory](https://treksit.com)
+- Aug 29 - [Padlet (YC W13) is hiring in San Francisco and Singapore](https://padlet.jobs)
+- Aug 29 - [New research finds Late Pleistocene glaciations terminated by Earth's axis tilt](https://phys.org/news/2023-08-late-pleistocene-glaciations-terminated-earth.html)
+- Aug 29 - [Fi now opts you into the use of your CPNI by Alphabet affiliates](https://fi.sds.modeaondemand.com/en-us/tutorial/app-googlefi-android-smartphone/latest/feature_privacy_settings_web/)
 <!--END_SECTION:hn-->
 
 <!--
