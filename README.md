@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 30 - [SigNoz (YC W21, Open source Observability tool) hiring DevRel engineers (remote)](https://signoz.io/careers/devrel-engineer-in/)
+- Aug 30 - [How to shuffle a big dataset (2018)](https://blog.janestreet.com/how-to-shuffle-a-big-dataset/)
 - Aug 30 - [Bad Apple Font](https://blog.erk.dev/posts/anifont/)
-- Aug 30 - [Jitsi.org has started requiring authentication](https://jitsi.org/blog/authentication-on-meet-jit-si/)
+- Aug 30 - [Authentication on meet.jit.si](https://jitsi.org/blog/authentication-on-meet-jit-si/)
 - Aug 30 - [Applying SRE Principles to CI/CD](https://buildkite.com/blog/applying-sre-principles-to-cicd)
-- Aug 30 - [Discovery of spherules of likely extrasolar composition in the Pacific Ocean [pdf]](https://lweb.cfa.harvard.edu/~loeb/Interstellar_Expedition.pdf)
-- Aug 30 - [Fomos: Experimental OS, built with Rust](https://github.com/Ruddle/Fomos)
 <!--END_SECTION:hn-->
 
 <!--
