@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 30 - [The End of the Googleverse](https://www.theverge.com/23846048/google-search-memes-images-pagerank-altavista-seo-keywords)
-- Aug 30 - [Hacking the LG Monitor's EDID](https://gist.github.com/kj800x/be3001c07c49fdb36970633b0bc6defb)
-- Aug 30 - [Decoupling isn't phoney – The global trading system is starting to rearrange](https://www.noahpinion.blog/p/decoupling-isnt-phoney)
-- Aug 30 - [Tracking Application-Level Consistency with LiteFS](https://fly.io/blog/tracking-consistency-with-litefs/)
-- Aug 30 - [Honda targeting 50% weight reduction with EV solid state batteries](https://www.thedrive.com/news/honda-solid-state-batteries-will-offer-same-energy-density-at-half-the-weight)
+- Aug 30 - [Pharmacist says he has filled Alzheimer's prescriptions for members of Congress](https://www.vox.com/policy-and-politics/2017/10/11/16458142/congress-alzheimers-pharmacist)
+- Aug 30 - [Show HN: I automated 1/2 of my typing](https://github.com/eschluntz/compress)
+- Aug 30 - [FCC refuses to scrap rule requiring ISPs to list every monthly fee](https://arstechnica.com/tech-policy/2023/08/fcc-says-too-bad-to-isps-complaining-that-listing-every-fee-is-too-hard/)
+- Aug 30 - [Yes, people often forget to cancel monthly subscriptions – and the costs add up](https://text.npr.org/1196059950)
+- Aug 30 - [Shocks to the system: Don DeLillo’s novels of the cold war and its aftermath](https://www.bookforum.com/print/3001/don-delillo-s-novels-of-the-cold-war-and-its-aftermath-25202)
 <!--END_SECTION:hn-->
 
 <!--
