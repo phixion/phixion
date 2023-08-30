@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 29 - [Okta Personal – Okta you know and love for work, but now in your personal life](https://www.oktapersonal.com/)
-- Aug 29 - [I’m so sorry for psychology’s loss, whatever it is](https://www.experimental-history.com/p/im-so-sorry-for-psychologys-loss)
-- Aug 29 - [Equation Group Tools](https://github.com/x0rz/EQGRP)
-- Aug 29 - [Pgvector 0.5.0 Feature Highlights and how tos](https://jkatz05.com/post/postgres/pgvector-overview-0.5.0/)
-- Aug 29 - [Home – Database of Databases](https://dbdb.io/)
+- Aug 30 - [Bad Apple Font](https://blog.erk.dev/posts/anifont/)
+- Aug 30 - [Jitsi.org has started requiring authentication](https://jitsi.org/blog/authentication-on-meet-jit-si/)
+- Aug 30 - [Applying SRE Principles to CI/CD](https://buildkite.com/blog/applying-sre-principles-to-cicd)
+- Aug 30 - [Discovery of spherules of likely extrasolar composition in the Pacific Ocean [pdf]](https://lweb.cfa.harvard.edu/~loeb/Interstellar_Expedition.pdf)
+- Aug 30 - [Fomos: Experimental OS, built with Rust](https://github.com/Ruddle/Fomos)
 <!--END_SECTION:hn-->
 
 <!--
