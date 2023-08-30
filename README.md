@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 30 - [Lago – Open-Source Stripe Billing Alternative Is Hiring a Content Lead](https://news.ycombinator.com/item?id=37320729)
-- Aug 30 - [Buffer Overflows in Notepad++](https://securitylab.github.com/advisories/GHSL-2023-092_Notepad__/)
-- Aug 30 - [Politicians, scientists spar over alleged NIH coverup using COVID19 origin paper](https://www.science.org/content/article/politicians-scientists-spar-over-alleged-nih-cover-up-using-covid-19-origin-paper)
-- Aug 30 - [DevTools Tips](https://devtoolstips.org/)
-- Aug 30 - [Fairphone 5](https://shop.fairphone.com/fairphone-5)
+- Aug 30 - [The End of the Googleverse](https://www.theverge.com/23846048/google-search-memes-images-pagerank-altavista-seo-keywords)
+- Aug 30 - [Hacking the LG Monitor's EDID](https://gist.github.com/kj800x/be3001c07c49fdb36970633b0bc6defb)
+- Aug 30 - [Decoupling isn't phoney – The global trading system is starting to rearrange](https://www.noahpinion.blog/p/decoupling-isnt-phoney)
+- Aug 30 - [Tracking Application-Level Consistency with LiteFS](https://fly.io/blog/tracking-consistency-with-litefs/)
+- Aug 30 - [Honda targeting 50% weight reduction with EV solid state batteries](https://www.thedrive.com/news/honda-solid-state-batteries-will-offer-same-energy-density-at-half-the-weight)
 <!--END_SECTION:hn-->
 
 <!--
