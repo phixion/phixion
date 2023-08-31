@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 31 - [South Korea extends natural population fall as fertility rate falls to 0.7](https://www.koreatimes.co.kr/www/nation/2023/08/113_358114.html)
-- Aug 31 - [X wants permission to start collecting your bio data and employment history](https://www.theverge.com/2023/8/31/23853618/x-privacy-policy-update-biometrics-job-history)
-- Aug 31 - [IBM promised to back off facial recognition, then signed a $70M contract for it](https://www.theverge.com/2023/8/31/23852955/ibm-uk-government-contract-biometric-facial-recognition)
-- Aug 31 - [Ghostfolio: Open-source wealth management software](https://ghostfol.io)
-- Aug 31 - [New antifungal therapy for fungal meningitis](https://med.umn.edu/news/u-m-research-team-successfully-tests-new-antifungal-therapy-fungal-meningitis)
+- Aug 31 - [LIBS confirms the presence of sulphur on the lunar surface](https://www.isro.gov.in/LIBSResults.html)
+- Aug 31 - [Nougat: Neural Optical Understanding for Academic Documents](https://facebookresearch.github.io/nougat/)
+- Aug 31 - [Methodus Toolz](https://www.methodus2000.com/methodus3/)
+- Aug 31 - [X-ray CT scans of coffee equipment: Aeropress, Fellow kettle, Moka pot](https://www.scanofthemonth.com/scans/coffee)
+- Aug 31 - [A boy who stole Half-Life 2](https://www.eurogamer.net/the-boy-who-stole-half-life-2-article)
 <!--END_SECTION:hn-->
 
 <!--
