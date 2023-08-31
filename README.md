@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 30 - [Pharmacist says he has filled Alzheimer's prescriptions for members of Congress](https://www.vox.com/policy-and-politics/2017/10/11/16458142/congress-alzheimers-pharmacist)
-- Aug 30 - [Show HN: I automated 1/2 of my typing](https://github.com/eschluntz/compress)
-- Aug 30 - [FCC refuses to scrap rule requiring ISPs to list every monthly fee](https://arstechnica.com/tech-policy/2023/08/fcc-says-too-bad-to-isps-complaining-that-listing-every-fee-is-too-hard/)
-- Aug 30 - [Yes, people often forget to cancel monthly subscriptions – and the costs add up](https://text.npr.org/1196059950)
-- Aug 30 - [Shocks to the system: Don DeLillo’s novels of the cold war and its aftermath](https://www.bookforum.com/print/3001/don-delillo-s-novels-of-the-cold-war-and-its-aftermath-25202)
+- Aug 30 - [Australia will not force age verification due to privacy and security concerns](https://www.theguardian.com/australia-news/2023/aug/31/roadmap-for-age-verification-online-pornographic-material-adult-websites-australia-law)
+- Aug 30 - [Full Speed Ahead: EV Study Reveals Impacts of Fast Charging](https://www.recurrentauto.com/research/impacts-of-fast-charging)
+- Aug 30 - [How to Install Lima(runs command line Ubuntu) on macOS Using 9 Easy Steps](https://www.cyberithub.com/how-to-install-lima-on-macos-using-9-easy-steps/)
+- Aug 30 - [Mux (YC W16) is hiring a Sr Platform Engineer to work on video infra at scale](https://www.mux.com/jobs?j=srplatform)
+- Aug 30 - [At Taser maker Axon, ex-staffers say loyalty meant being tased or tattooed](https://www.reuters.com/investigates/special-report/axon-taser-exposures/)
 <!--END_SECTION:hn-->
 
 <!--
