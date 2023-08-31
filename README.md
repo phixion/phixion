@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 31 - [Firezone (YC W22) is hiring Rust engineers to build secure networks](https://www.ycombinator.com/companies/firezone)
-- Aug 31 - [NASA officials sound alarm over future of the Deep Space Network](https://arstechnica.com/space/2023/08/nasas-artemis-i-mission-nearly-broke-the-deep-space-network/)
-- Aug 31 - [Swedish cities hit by four residential explosions in an hour](https://www.theguardian.com/world/2023/aug/31/bomb-experts-called-in-after-swedish-cities-see-four-explosions-in-just-over-an-hour)
-- Aug 31 - [Microsoft is unbundling Teams from Office in Europe to address regulator concern](https://www.theverge.com/2023/8/31/23853517/microsoft-teams-unbundling-europe)
-- Aug 31 - [Managed to death: How Canada turned its forests into a carbon bomb](https://thebulletin.org/2023/08/managed-to-death-how-canada-turned-its-forests-into-a-carbon-bomb/#post-heading)
+- Aug 31 - [South Korea extends natural population fall as fertility rate falls to 0.7](https://www.koreatimes.co.kr/www/nation/2023/08/113_358114.html)
+- Aug 31 - [X wants permission to start collecting your bio data and employment history](https://www.theverge.com/2023/8/31/23853618/x-privacy-policy-update-biometrics-job-history)
+- Aug 31 - [IBM promised to back off facial recognition, then signed a $70M contract for it](https://www.theverge.com/2023/8/31/23852955/ibm-uk-government-contract-biometric-facial-recognition)
+- Aug 31 - [Ghostfolio: Open-source wealth management software](https://ghostfol.io)
+- Aug 31 - [New antifungal therapy for fungal meningitis](https://med.umn.edu/news/u-m-research-team-successfully-tests-new-antifungal-therapy-fungal-meningitis)
 <!--END_SECTION:hn-->
 
 <!--
