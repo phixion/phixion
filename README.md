@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Aug 31 - [Phished Data via CERT Poland - 67,943 breached accounts](https://haveibeenpwned.com/PwnedWebsites#CERTPolandPhish)
+- Aug 31 - [Pampling - 383,468 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Pampling)
 - Aug 31 - [PlayCyberGames - 3,681,753 breached accounts](https://haveibeenpwned.com/PwnedWebsites#PlayCyberGames)
 - Aug 24 - [SevenRooms - 1,205,385 breached accounts](https://haveibeenpwned.com/PwnedWebsites#SevenRooms)
 - Aug 23 - [Duolingo - 2,676,696 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Duolingo)
-- Aug 22 - [Atmeltomo - 580,177 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Atmeltomo)
-- Aug 17 - [iMenu360 - 3,425,860 breached accounts](https://haveibeenpwned.com/PwnedWebsites#iMenu360)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 31 - [Colorado controversy raises questions over the meaning of the gadsden flag](https://jonathanturley.org/2023/08/30/colorado-controversy-raises-questions-over-the-meaning-of-the-gadsden-flag/)
-- Aug 31 - [Ask HN: How to handle Asian-style “Family name first” when designing interfaces](https://news.ycombinator.com/item?id=37332126)
-- Aug 31 - [Absurd Success](https://www.marginalia.nu/log/87_absurd_success/)
-- Aug 30 - [Mux (YC W16) is hiring a Sr Platform Engineer to work on video infra at scale](https://www.mux.com/jobs?j=srplatform)
-- Aug 30 - [Keisan Casio is shutting down](https://keisan.casio.com/keisan/abolition.php)
+- Aug 31 - [Tell HN: UC Berkeley's CS61A/B/C are the best courses to learn CS and coding](https://news.ycombinator.com/item?id=37333596)
+- Aug 31 - [India Enable Government Surveillance, Creating ‘Backdoor’ for Surveillance](https://dovthelachman.com/indias-laws-enable-government-surveillance-creating-dangerous-backdoor-for-surveillance-companies/)
+- Aug 31 - [UTM – Virtual Machines for iOS and macOS](https://github.com/utmapp/UTM)
+- Aug 31 - [Youtube2Webpage: Create Websites with Text from Videos](https://github.com/obra/Youtube2Webpage)
+- Aug 31 - [Cheetah: A Lightweight Virtual Machine Manager for macOS](https://macspot.net/)
 <!--END_SECTION:hn-->
 
 <!--
