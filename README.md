@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 01 - [Court Rules in Pornhub’s Favor: Age-Verification Law Violates First Amendment](https://variety.com/2023/digital/news/pornhubs-texas-age-verification-law-violates-first-amendment-ruling-1235709902/)
-- Aug 31 - [Independent Guest Virtual Machine (IGVM) File Format](https://github.com/microsoft/igvm)
-- Aug 31 - [Wii Architecture – A Practical Analysis](https://www.copetti.org/writings/consoles/wii/)
-- Aug 31 - [Types versus sets (and what about categories?) (2022)](https://lawrencecpaulson.github.io/2022/03/16/Types_vs_Sets.html)
-- Aug 31 - [Unlocking view transitions in SvelteKit 1.24](https://svelte.dev/blog/view-transitions)
+- Sep 01 - [An introduction to the impact of native planting](https://marisamorby.com/native-planting-intro/)
+- Sep 01 - [Ask HN: How would you raise $600k for a boring software co?](https://news.ycombinator.com/item?id=37346497)
+- Sep 01 - [Animated Knots](https://www.animatedknots.com/)
+- Sep 01 - [BoTorch – Bayesian Optimization in PyTorch](https://botorch.org/)
+- Aug 31 - [Artificial Intelligence and Copyright: Request for comments](https://www.federalregister.gov/documents/2023/08/30/2023-18624/artificial-intelligence-and-copyright)
 <!--END_SECTION:hn-->
 
 <!--
