@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 31 - [LIBS confirms the presence of sulphur on the lunar surface](https://www.isro.gov.in/LIBSResults.html)
-- Aug 31 - [Nougat: Neural Optical Understanding for Academic Documents](https://facebookresearch.github.io/nougat/)
-- Aug 31 - [Methodus Toolz](https://www.methodus2000.com/methodus3/)
-- Aug 31 - [X-ray CT scans of coffee equipment: Aeropress, Fellow kettle, Moka pot](https://www.scanofthemonth.com/scans/coffee)
-- Aug 31 - [A boy who stole Half-Life 2](https://www.eurogamer.net/the-boy-who-stole-half-life-2-article)
+- Sep 01 - [Court Rules in Pornhub’s Favor: Age-Verification Law Violates First Amendment](https://variety.com/2023/digital/news/pornhubs-texas-age-verification-law-violates-first-amendment-ruling-1235709902/)
+- Aug 31 - [Independent Guest Virtual Machine (IGVM) File Format](https://github.com/microsoft/igvm)
+- Aug 31 - [Wii Architecture – A Practical Analysis](https://www.copetti.org/writings/consoles/wii/)
+- Aug 31 - [Types versus sets (and what about categories?) (2022)](https://lawrencecpaulson.github.io/2022/03/16/Types_vs_Sets.html)
+- Aug 31 - [Unlocking view transitions in SvelteKit 1.24](https://svelte.dev/blog/view-transitions)
 <!--END_SECTION:hn-->
 
 <!--
