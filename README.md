@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 01 - [X updates Terms to allow it to use data for AI training](https://stackdiary.com/x-can-now-use-posts-for-ai-training-as-per-terms-of-service/)
-- Sep 01 - [Why Is .US Being Used to Phish So Many of Us?](https://krebsonsecurity.com/2023/09/why-is-us-being-used-to-phish-so-many-of-us/)
-- Sep 01 - [U.S. Department of Defense Launches All-Domain Anomaly Resolution Office Website](https://www.defense.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/)
-- Sep 01 - [How the FBI took down the Qakbot botnet](https://techcrunch.com/2023/09/01/fbi-qakbot-takedown-operation-duck-hunt/)
-- Sep 01 - [Can Programming Languages Boost Each Other via Instruction Tuning? Yes](https://arxiv.org/abs/2308.16824)
+- Sep 01 - [AI Eng Recap: August 2023](https://www.latent.space/p/aug-2023)
+- Sep 01 - [Higher Intakes of Potassium and Magnesium, but Not Lower Sodium, Reduce CVD Risk](https://pubmed.ncbi.nlm.nih.gov/33477824/)
+- Sep 01 - [Hot Chips 2023: Ventana’s Unconventional Veyron V1](https://chipsandcheese.com/2023/09/01/hot-chips-2023-ventanas-unconventional-veyron-v1/)
+- Sep 01 - [U.S. Air Force Selects Fast Microreactor for Nuclear Power Pilot](https://www.powermag.com/u-s-air-force-selects-fast-microreactor-for-nuclear-power-pilot/)
+- Sep 01 - [Mushroom pickers urged: Avoid Amazon foraging books, appear to be written by AI](https://www.theguardian.com/technology/2023/sep/01/mushroom-pickers-urged-to-avoid-foraging-books-on-amazon-that-appear-to-be-written-by-ai)
 <!--END_SECTION:hn-->
 
 <!--
