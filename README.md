@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 01 - [UpCodes is hiring SWEs, SDRs to make construction more productive](https://up.codes/careers)
-- Sep 01 - [Are self-driving cars already safer than human drivers?](https://arstechnica.com/cars/2023/09/are-self-driving-cars-already-safer-than-human-drivers/)
-- Sep 01 - [The technical merits of Wayland are mostly irrelevant](https://utcc.utoronto.ca/~cks/space/blog/unix/WaylandTechnicalMeritsIrrelevant)
-- Sep 01 - [Learning For Mastery (1968) [pdf]](http://www.researchforteachers.org.uk/sites/default/files/Docs/Bloom%20(1968)%20Learning%20for%20Mastery_0.pdf)
-- Sep 01 - [ChangeDetection, monitor any website change](https://github.com/dgtlmoon/changedetection.io)
+- Sep 01 - [X updates Terms to allow it to use data for AI training](https://stackdiary.com/x-can-now-use-posts-for-ai-training-as-per-terms-of-service/)
+- Sep 01 - [Why Is .US Being Used to Phish So Many of Us?](https://krebsonsecurity.com/2023/09/why-is-us-being-used-to-phish-so-many-of-us/)
+- Sep 01 - [U.S. Department of Defense Launches All-Domain Anomaly Resolution Office Website](https://www.defense.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/)
+- Sep 01 - [How the FBI took down the Qakbot botnet](https://techcrunch.com/2023/09/01/fbi-qakbot-takedown-operation-duck-hunt/)
+- Sep 01 - [Can Programming Languages Boost Each Other via Instruction Tuning? Yes](https://arxiv.org/abs/2308.16824)
 <!--END_SECTION:hn-->
 
 <!--
