@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 01 - [An introduction to the impact of native planting](https://marisamorby.com/native-planting-intro/)
-- Sep 01 - [Ask HN: How would you raise $600k for a boring software co?](https://news.ycombinator.com/item?id=37346497)
-- Sep 01 - [Animated Knots](https://www.animatedknots.com/)
-- Sep 01 - [BoTorch – Bayesian Optimization in PyTorch](https://botorch.org/)
-- Aug 31 - [Artificial Intelligence and Copyright: Request for comments](https://www.federalregister.gov/documents/2023/08/30/2023-18624/artificial-intelligence-and-copyright)
+- Sep 01 - [Total Commander](https://www.ghisler.com/)
+- Sep 01 - [Ask Microsoft: Are you using our personal data to train AI?](https://foundation.mozilla.org/en/campaigns/microsoft-ai/)
+- Sep 01 - [Organic Maps](https://organicmaps.app/)
+- Sep 01 - [From Art Nouveau to Bauhaus: How Home Interiors Looked in Popular Art Movements](https://www.archdaily.com/1005570/from-art-nouveau-to-the-bauhaus-how-home-interiors-looked-in-popular-art-movements)
+- Sep 01 - [Geometry](https://mathpages.com/home/igeometr.htm)
 <!--END_SECTION:hn-->
 
 <!--
