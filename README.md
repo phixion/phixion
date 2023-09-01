@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 01 - [Total Commander](https://www.ghisler.com/)
-- Sep 01 - [Ask Microsoft: Are you using our personal data to train AI?](https://foundation.mozilla.org/en/campaigns/microsoft-ai/)
-- Sep 01 - [Organic Maps](https://organicmaps.app/)
-- Sep 01 - [From Art Nouveau to Bauhaus: How Home Interiors Looked in Popular Art Movements](https://www.archdaily.com/1005570/from-art-nouveau-to-the-bauhaus-how-home-interiors-looked-in-popular-art-movements)
-- Sep 01 - [Geometry](https://mathpages.com/home/igeometr.htm)
+- Sep 01 - [UpCodes is hiring SWEs, SDRs to make construction more productive](https://up.codes/careers)
+- Sep 01 - [Are self-driving cars already safer than human drivers?](https://arstechnica.com/cars/2023/09/are-self-driving-cars-already-safer-than-human-drivers/)
+- Sep 01 - [The technical merits of Wayland are mostly irrelevant](https://utcc.utoronto.ca/~cks/space/blog/unix/WaylandTechnicalMeritsIrrelevant)
+- Sep 01 - [Learning For Mastery (1968) [pdf]](http://www.researchforteachers.org.uk/sites/default/files/Docs/Bloom%20(1968)%20Learning%20for%20Mastery_0.pdf)
+- Sep 01 - [ChangeDetection, monitor any website change](https://github.com/dgtlmoon/changedetection.io)
 <!--END_SECTION:hn-->
 
 <!--
