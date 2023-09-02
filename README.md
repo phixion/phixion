@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 01 - [Explaining the Postgres iceberg](https://avestura.dev/blog/explaining-the-postgres-meme)
-- Sep 01 - [Wavacity – a FOSS port of Audacity to the web](https://wavacity.com/)
-- Sep 01 - [Bright (YC W15) Is Hiring](https://www.careersatbright.com/jobs-2/bright-frontend-engineer)
-- Sep 01 - [Wikipedia search-by-vibes through millions of pages offline](https://www.leebutterman.com/2023/06/01/offline-realtime-embedding-search.html)
-- Sep 01 - [Space travel via tether between asteroids](https://blog.cerowrt.org/post/toutatis/)
+- Sep 02 - [The Mystery of the Bloomfield Bridge](https://tylervigen.com/the-mystery-of-the-bloomfield-bridge)
+- Sep 02 - [PlayHT (YC W23) Is Hiring Senior ML Engineers (LLMs, Generative AI)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
+- Sep 02 - [Invariants: A Better Debugger?](https://brooker.co.za/blog/2023/07/28/ds-testing.html)
+- Sep 02 - [How to edit your own lousy writing (2017)](https://stingingfly.org/2017/10/24/edit-lousy-writing/)
+- Sep 02 - [Csound](https://csound.com/get-started.html)
 <!--END_SECTION:hn-->
 
 <!--
