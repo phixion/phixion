@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 02 - [Pooling and Sharing of wealth makes everyone's wealth grow faster](https://ergodicityeconomics.com/2023/08/29/for-to-withhold-is-to-perish/)
+- Sep 02 - [A Critical Analysis of the What3Words Geocoding Algorithm](https://arxiv.org/abs/2308.16025)
+- Sep 02 - [Become fundamentally strong in Data Science and AI](https://edu.machinelearningplus.com/s/pages/ds-career-path)
 - Sep 02 - [The Mystery of the Bloomfield Bridge](https://tylervigen.com/the-mystery-of-the-bloomfield-bridge)
 - Sep 02 - [PlayHT (YC W23) Is Hiring Senior ML Engineers (LLMs, Generative AI)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
-- Sep 02 - [Invariants: A Better Debugger?](https://brooker.co.za/blog/2023/07/28/ds-testing.html)
-- Sep 02 - [How to edit your own lousy writing (2017)](https://stingingfly.org/2017/10/24/edit-lousy-writing/)
-- Sep 02 - [Csound](https://csound.com/get-started.html)
 <!--END_SECTION:hn-->
 
 <!--
