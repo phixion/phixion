@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 02 - [Toml-bench – Which toml package to use in Python?](https://github.com/pwwang/toml-bench)
-- Sep 02 - [Why the Apple phone will fail, and fail badly (2006)](https://web.archive.org/web/20070117233154/https://www.theregister.com/2006/12/23/iphone_will_fail/)
-- Sep 02 - [Show HN: XRss: An RSS Reader and web stack demo powered by Htmx](https://xrss.infogulch.com/)
-- Sep 02 - [Can an Artificial Kidney Finally Free Patients from Dialysis?](https://www.ucsf.edu/news/2023/08/426056/can-artificial-kidney-finally-free-patients-dialysis)
-- Sep 02 - [ForgeFed](https://forgefed.org/)
+- Sep 02 - [DOS Game Club](https://www.dosgameclub.com/)
+- Sep 02 - [Found in a Library Book](https://oaklandlibrary.org/found-in-a-library-book/)
+- Sep 02 - [Show HN: Shaq, a CLI for Shazam](https://blog.yossarian.net/2023/07/27/Introducing-shaq-a-CLI-for-shazam)
+- Sep 02 - [In-memory vs. disk-based DB: Why do you need a larger than memory architecture?](https://memgraph.com/blog/in-memory-vs-disk-based-databases-larger-than-memory-architecture)
+- Sep 02 - [Tax prep companies: $90M lobbying against free tax-filing](https://www.opensecrets.org/news/2023/09/tax-prep-companies-lobbying-against-free-file-face-scrutiny-from-lawmakers/)
 <!--END_SECTION:hn-->
 
 <!--
