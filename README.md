@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 01 - [AI Eng Recap: August 2023](https://www.latent.space/p/aug-2023)
-- Sep 01 - [Higher Intakes of Potassium and Magnesium, but Not Lower Sodium, Reduce CVD Risk](https://pubmed.ncbi.nlm.nih.gov/33477824/)
-- Sep 01 - [Hot Chips 2023: Ventana’s Unconventional Veyron V1](https://chipsandcheese.com/2023/09/01/hot-chips-2023-ventanas-unconventional-veyron-v1/)
-- Sep 01 - [U.S. Air Force Selects Fast Microreactor for Nuclear Power Pilot](https://www.powermag.com/u-s-air-force-selects-fast-microreactor-for-nuclear-power-pilot/)
-- Sep 01 - [Mushroom pickers urged: Avoid Amazon foraging books, appear to be written by AI](https://www.theguardian.com/technology/2023/sep/01/mushroom-pickers-urged-to-avoid-foraging-books-on-amazon-that-appear-to-be-written-by-ai)
+- Sep 01 - [So You're an American?](https://www.state.gov/courses/answeringdifficultquestions/html/app.htm?p=module1_p1.htm)
+- Sep 01 - [Wavacity – a FOSS port of Audacity to the web](https://wavacity.com/)
+- Sep 01 - [Bright (YC W15) Is Hiring](https://www.careersatbright.com/jobs-2/bright-frontend-engineer)
+- Sep 01 - [Wikipedia search-by-vibes through millions of pages offline](https://www.leebutterman.com/2023/06/01/offline-realtime-embedding-search.html)
+- Sep 01 - [Space travel via tether between asteroids](https://blog.cerowrt.org/post/toutatis/)
 <!--END_SECTION:hn-->
 
 <!--
