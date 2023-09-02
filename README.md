@@ -19,7 +19,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 01 - [So You're an American?](https://www.state.gov/courses/answeringdifficultquestions/html/app.htm?p=module1_p1.htm)
+- Sep 01 - [Explaining the Postgres iceberg](https://avestura.dev/blog/explaining-the-postgres-meme)
 - Sep 01 - [Wavacity – a FOSS port of Audacity to the web](https://wavacity.com/)
 - Sep 01 - [Bright (YC W15) Is Hiring](https://www.careersatbright.com/jobs-2/bright-frontend-engineer)
 - Sep 01 - [Wikipedia search-by-vibes through millions of pages offline](https://www.leebutterman.com/2023/06/01/offline-realtime-embedding-search.html)
