@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 02 - [DOS Game Club](https://www.dosgameclub.com/)
-- Sep 02 - [Found in a Library Book](https://oaklandlibrary.org/found-in-a-library-book/)
-- Sep 02 - [Show HN: Shaq, a CLI for Shazam](https://blog.yossarian.net/2023/07/27/Introducing-shaq-a-CLI-for-shazam)
-- Sep 02 - [In-memory vs. disk-based DB: Why do you need a larger than memory architecture?](https://memgraph.com/blog/in-memory-vs-disk-based-databases-larger-than-memory-architecture)
-- Sep 02 - [Tax prep companies: $90M lobbying against free tax-filing](https://www.opensecrets.org/news/2023/09/tax-prep-companies-lobbying-against-free-file-face-scrutiny-from-lawmakers/)
+- Sep 02 - [Hurricane Idalia floodwaters cause Tesla to combust](https://www.usatoday.com/story/news/nation/2023/09/01/tesla-fire-hurricane-idalia-flooding-ev-combustion-issue/70738027007/)
+- Sep 02 - [Rescuing the lost code and stereo sound to Sinistar [video]](https://www.youtube.com/watch?v=ZRDdKZ7V54I)
+- Sep 02 - [MindsDB (YC W20) Is Hiring a Senior Front End Engineer](https://www.ycombinator.com/companies/mindsdb/jobs/wnUfBhO-senior-frontend-engineer)
+- Sep 02 - [Show HN: Menu Bar Calendar on macOS](https://sindresorhus.com/menu-bar-calendar)
+- Sep 02 - [Calibre replacement considerations (2019)](https://anarc.at/software/desktop/calibre/)
 <!--END_SECTION:hn-->
 
 <!--
