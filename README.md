@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 03 - [I don’t want to grow my freelance design studio into an agency](https://neladunato.com/blog/why-wont-grow-freelance-studio-into-agency/)
-- Sep 03 - [HTML Design Principles (2007)](https://www.w3.org/TR/html-design-principles/)
-- Sep 03 - [Climate Change Tracker](https://climatechangetracker.org)
-- Sep 03 - [Harry Browne’s 17 Golden Rules of Financial Safety (2013)](https://thetaoofwealth.wordpress.com/2013/02/17/harry-brownes-17-golden-rules-of-financial-safety/)
-- Sep 03 - [Interfaces for Prototyping Hardware](https://kevinlynagh.com/newsletter/2023_09_hardware_prototyping/)
+- Sep 03 - [Vector Search with OpenAI Embeddings: Lucene Is All You Need](https://arxiv.org/abs/2308.14963)
+- Sep 03 - [I'm Being Stalked and YouTube is Ignoring it [video]](https://www.youtube.com/watch?v=hixwIOd_C44)
+- Sep 03 - [Google Preemptively Banned Hundreds of Millions of 'Pirate' URLs Last Year](https://torrentfreak.com/google-preemptively-banned-hundreds-of-millions-of-pirate-urls-last-year-230903/)
+- Sep 03 - [Tesla FSD Beta tried to kill me last night](https://electrek.co/2023/09/01/tesla-fsd-beta-tried-to-kill-me-last-night/)
+- Sep 03 - [Negative impact of vegetarian and vegan labels](https://doi.org/10.1016/j.appet.2023.106767)
 <!--END_SECTION:hn-->
 
 <!--
