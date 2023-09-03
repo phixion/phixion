@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 03 - [Replit (YC W18) Is Hiring Engineers in AI, Platform, and Product](https://replit.com/site/careers)
-- Sep 03 - [The Curious Case of Hybrids in Watchmaking](https://monochrome-watches.com/a-technical-perspective-defining-and-understanding-hybrid-watches/)
-- Sep 03 - [Why Do We Interface? (2020)](https://whydoweinterface.com)
-- Sep 03 - [The boiling frog of digital freedom](https://gazoche.xyz/posts/boiling-frog/)
-- Sep 03 - [Tolkien, 50 Years On](https://thecritic.co.uk/tolkien-50-years-on/)
+- Sep 03 - [I don’t want to grow my freelance design studio into an agency](https://neladunato.com/blog/why-wont-grow-freelance-studio-into-agency/)
+- Sep 03 - [HTML Design Principles (2007)](https://www.w3.org/TR/html-design-principles/)
+- Sep 03 - [Climate Change Tracker](https://climatechangetracker.org)
+- Sep 03 - [Harry Browne’s 17 Golden Rules of Financial Safety (2013)](https://thetaoofwealth.wordpress.com/2013/02/17/harry-brownes-17-golden-rules-of-financial-safety/)
+- Sep 03 - [Interfaces for Prototyping Hardware](https://kevinlynagh.com/newsletter/2023_09_hardware_prototyping/)
 <!--END_SECTION:hn-->
 
 <!--
