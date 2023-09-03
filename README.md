@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 03 - [Bitmovin (YC S15) Is Hiring Senior Software Engineers in Austria](https://bitmovin.com/careers/senior-software-engineer-java-6834404002/)
-- Sep 03 - [The Musaicum EU-plus 10M resolution image of Europe](https://imagico.de/blog/en/announcing-the-musaicum-eu-plus-10m-resolution-image-of-europe/)
-- Sep 03 - [Hacking the Timex m851](https://lock.cmpxchg8b.com/timex.html)
-- Sep 03 - [How did Stripe come up with its name? (2015)](https://www.quora.com/How-did-Stripe-come-up-with-its-name/answer/Greg-Brockman)
-- Sep 03 - [Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898)
+- Sep 03 - [Replit (YC W18) Is Hiring Engineers in AI, Platform, and Product](https://replit.com/site/careers)
+- Sep 03 - [The Curious Case of Hybrids in Watchmaking](https://monochrome-watches.com/a-technical-perspective-defining-and-understanding-hybrid-watches/)
+- Sep 03 - [Why Do We Interface? (2020)](https://whydoweinterface.com)
+- Sep 03 - [The boiling frog of digital freedom](https://gazoche.xyz/posts/boiling-frog/)
+- Sep 03 - [Tolkien, 50 Years On](https://thecritic.co.uk/tolkien-50-years-on/)
 <!--END_SECTION:hn-->
 
 <!--
