@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 02 - [Hurricane Idalia floodwaters cause Tesla to combust](https://www.usatoday.com/story/news/nation/2023/09/01/tesla-fire-hurricane-idalia-flooding-ev-combustion-issue/70738027007/)
-- Sep 02 - [Rescuing the lost code and stereo sound to Sinistar [video]](https://www.youtube.com/watch?v=ZRDdKZ7V54I)
-- Sep 02 - [MindsDB (YC W20) Is Hiring a Senior Front End Engineer](https://www.ycombinator.com/companies/mindsdb/jobs/wnUfBhO-senior-frontend-engineer)
-- Sep 02 - [Show HN: Menu Bar Calendar on macOS](https://sindresorhus.com/menu-bar-calendar)
-- Sep 02 - [Calibre replacement considerations (2019)](https://anarc.at/software/desktop/calibre/)
+- Sep 03 - [Kermit Project books and articles online](https://www.kermitproject.org/booksonline.html)
+- Sep 03 - [Why Did a Drug Gang Kill 43 Students? Text Messages Hold Clues](https://www.nytimes.com/2023/09/02/world/americas/mexico-iguala-students-kidnapping.html)
+- Sep 03 - [Silicon Valley’s elites can’t be trusted with the future of AI](https://fortune.com/2023/09/01/silicon-valley-elite-trust-future-ai-dominance-dangers-god-complex-wadhwa-gupta/)
+- Sep 03 - [Baresip – An Open Source modular SIP User-Agent with audio and video support](https://github.com/baresip/baresip)
+- Sep 03 - [Vigil, the eternal morally vigilant programming language](https://github.com/munificent/vigil)
 <!--END_SECTION:hn-->
 
 <!--
