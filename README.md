@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 03 - [Kermit Project books and articles online](https://www.kermitproject.org/booksonline.html)
-- Sep 03 - [Why Did a Drug Gang Kill 43 Students? Text Messages Hold Clues](https://www.nytimes.com/2023/09/02/world/americas/mexico-iguala-students-kidnapping.html)
-- Sep 03 - [Silicon Valley’s elites can’t be trusted with the future of AI](https://fortune.com/2023/09/01/silicon-valley-elite-trust-future-ai-dominance-dangers-god-complex-wadhwa-gupta/)
-- Sep 03 - [Baresip – An Open Source modular SIP User-Agent with audio and video support](https://github.com/baresip/baresip)
-- Sep 03 - [Vigil, the eternal morally vigilant programming language](https://github.com/munificent/vigil)
+- Sep 03 - [Bitmovin (YC S15) Is Hiring Senior Software Engineers in Austria](https://bitmovin.com/careers/senior-software-engineer-java-6834404002/)
+- Sep 03 - [The Musaicum EU-plus 10M resolution image of Europe](https://imagico.de/blog/en/announcing-the-musaicum-eu-plus-10m-resolution-image-of-europe/)
+- Sep 03 - [Hacking the Timex m851](https://lock.cmpxchg8b.com/timex.html)
+- Sep 03 - [How did Stripe come up with its name? (2015)](https://www.quora.com/How-did-Stripe-come-up-with-its-name/answer/Greg-Brockman)
+- Sep 03 - [Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898)
 <!--END_SECTION:hn-->
 
 <!--
