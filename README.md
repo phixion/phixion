@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 03 - [Vector Search with OpenAI Embeddings: Lucene Is All You Need](https://arxiv.org/abs/2308.14963)
-- Sep 03 - [I'm Being Stalked and YouTube is Ignoring it [video]](https://www.youtube.com/watch?v=hixwIOd_C44)
-- Sep 03 - [Google Preemptively Banned Hundreds of Millions of 'Pirate' URLs Last Year](https://torrentfreak.com/google-preemptively-banned-hundreds-of-millions-of-pirate-urls-last-year-230903/)
-- Sep 03 - [Tesla FSD Beta tried to kill me last night](https://electrek.co/2023/09/01/tesla-fsd-beta-tried-to-kill-me-last-night/)
-- Sep 03 - [Negative impact of vegetarian and vegan labels](https://doi.org/10.1016/j.appet.2023.106767)
+- Sep 03 - [Bigger, better, faster, more](https://blog.nearlyfreespeech.net/2023/08/22/bigger-better-faster-more/)
+- Sep 03 - [Dihydrogen Monoxide Parody](https://en.wikipedia.org/wiki/Dihydrogen_monoxide_parody)
+- Sep 03 - [Invented Tradition](https://en.wikipedia.org/wiki/Invented_tradition)
+- Sep 03 - [Lego 3-axis styrofoam cutter [video]](https://www.youtube.com/watch?v=gR0SYhG76fw)
+- Sep 03 - [Foxconn's promise to invest $10B in Wisconsin is now a distant memory](https://www.engadget.com/foxconns-promise-to-invest-10-billion-in-wisconsin-is-now-a-distant-memory-090555405.html)
 <!--END_SECTION:hn-->
 
 <!--
