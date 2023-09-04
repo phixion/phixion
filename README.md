@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 03 - [Bigger, better, faster, more](https://blog.nearlyfreespeech.net/2023/08/22/bigger-better-faster-more/)
-- Sep 03 - [Dihydrogen Monoxide Parody](https://en.wikipedia.org/wiki/Dihydrogen_monoxide_parody)
-- Sep 03 - [Invented Tradition](https://en.wikipedia.org/wiki/Invented_tradition)
-- Sep 03 - [Lego 3-axis styrofoam cutter [video]](https://www.youtube.com/watch?v=gR0SYhG76fw)
-- Sep 03 - [Foxconn's promise to invest $10B in Wisconsin is now a distant memory](https://www.engadget.com/foxconns-promise-to-invest-10-billion-in-wisconsin-is-now-a-distant-memory-090555405.html)
+- Sep 04 - [Glove80 Ergonomic Keyboard](https://danieldk.eu/Posts/2023-09-03-Glove80.html)
+- Sep 04 - [Amiga Samplers: Budget dance music in 1990](https://www.youtube.com/watch?v=i9MXYZh1jcs)
+- Sep 04 - [Everything I know about floppy disks](https://thejpster.org.uk/blog/blog-2023-08-28/)
+- Sep 04 - [WiiLink – Japanese Wii channels revived](https://www.wiilink24.com/)
+- Sep 03 - [Beer is great for gut health?](https://www.earth.com/news/beer-may-be-better-for-your-gut-than-probiotics/)
 <!--END_SECTION:hn-->
 
 <!--
