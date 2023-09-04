@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 04 - [Reddit faces content quality concerns after its Great Mod Purge](https://arstechnica.com/gadgets/2023/09/are-reddits-replacement-mods-fit-to-fight-misinformation/)
-- Sep 04 - [TV Museum Will Die in 48 Hours Unless Sony Retracts YouTube Copyright Strikes](https://torrentfreak.com/tv-museum-will-die-in-48-hours-unless-sony-retracts-youtube-copyright-strikes-230904/)
-- Sep 04 - [The curl-wget Venn diagram](https://daniel.haxx.se/blog/2023/09/04/the-curl-wget-venn-diagram/)
-- Sep 04 - [Hardware Random Bit Generator](https://web.jfet.org/hw-rng.html)
-- Sep 04 - [Cuber: Deploy your apps on Kubernetes easily](https://github.com/cuber-cloud/cuber-gem)
+- Sep 04 - [Jitsi Meet Abandons Anonimity Promise](https://reclaimthenet.org/private-zoom-alternative-jitsi-meet-abandons-anonymity-promise)
+- Sep 04 - [Ask HN: In person industry tours and site visits](https://news.ycombinator.com/item?id=37381377)
+- Sep 04 - [Svelte is surprisingly easy to learn](https://kaviisuri.com/you-dont-need-to-learn-svelte)
+- Sep 04 - [Antioxidants such as Vitamin C found to spur cancer growth and metastasis](https://newatlas.com/medical/antioxidants-stimulate-blood-vessel-growth-cancer-tumors/)
+- Sep 04 - [The mobile game funding a revolution in Myanmar](https://www.bbc.com/news/world-asia-65906961)
 <!--END_SECTION:hn-->
 
 <!--
