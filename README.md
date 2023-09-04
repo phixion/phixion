@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 04 - [Glove80 Ergonomic Keyboard](https://danieldk.eu/Posts/2023-09-03-Glove80.html)
-- Sep 04 - [Amiga Samplers: Budget dance music in 1990](https://www.youtube.com/watch?v=i9MXYZh1jcs)
-- Sep 04 - [Everything I know about floppy disks](https://thejpster.org.uk/blog/blog-2023-08-28/)
-- Sep 04 - [WiiLink – Japanese Wii channels revived](https://www.wiilink24.com/)
-- Sep 03 - [Beer is great for gut health?](https://www.earth.com/news/beer-may-be-better-for-your-gut-than-probiotics/)
+- Sep 04 - [War games: Battlefield strategy and the game of chess](https://www.thearticle.com/war-games-battlefield-strategy-and-the-game-of-chess)
+- Sep 04 - [Haskell mini-patterns handbook (2020)](https://kowainik.github.io/posts/haskell-mini-patterns)
+- Sep 04 - [Scientists use quantum device to slow chemical process by factor of 100B](https://www.sydney.edu.au/news-opinion/news/2023/08/29/conical-intersection-simulation-slowed-by-quantum-computer-100-billion-times.html)
+- Sep 04 - [Show HN: MonoDevelop](https://www.monodevelop.com/)
+- Sep 04 - [How we know languages like proto-Indo-European existed [video]](https://www.youtube.com/watch?v=jIgoBRbfkUA)
 <!--END_SECTION:hn-->
 
 <!--
