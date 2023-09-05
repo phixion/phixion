@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 05 - [A currently maintained fork of SSHFS](https://github.com/deadbeefsociety/sshfs)
-- Sep 05 - [HuggingFace Training Cluster as a Service](https://huggingface.co/training-cluster)
-- Sep 05 - [Amiga Systems Programming in 2023](https://www.markround.com/blog/2023/08/30/amiga-systems-programming-in-2023/)
-- Sep 05 - [All About USB-C: Example Circuits](https://hackaday.com/2023/08/07/all-about-usb-c-example-circuits/)
-- Sep 05 - [Global population could peak below 9B in 2050s](https://earth4all.life/news/press-release-global-population-could-peak-below-9-billion-in-2050s/)
+- Sep 05 - [Study shows over time, ChatGPT lost accuracy](https://fortune.com/2023/07/19/chatgpt-accuracy-stanford-study/)
+- Sep 05 - [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676)
+- Sep 05 - [Google Meet’s new AI will be able to go to meetings for you](https://www.theverge.com/2023/8/29/23849056/google-meet-ai-duet-attend-for-me)
+- Sep 05 - [The Cyber Security Glossary](https://tryhackme.com/r/glossary)
+- Sep 05 - [ZSA Voyager: Low profile split keyboard](https://www.zsa.io/voyager/)
 <!--END_SECTION:hn-->
 
 <!--
