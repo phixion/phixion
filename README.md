@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 04 - [Ask HN: Best intro to programming book for 2nd graders?](https://news.ycombinator.com/item?id=37386127)
-- Sep 04 - [Oscilloscope watch ships after 10 years on kickstarter](https://www.tomshardware.com/news/oscilloscope-watch-ships-after-10-years)
-- Sep 04 - [Emacs Bedrock: A minimal Emacs starter kit](https://sr.ht/~ashton314/emacs-bedrock/)
-- Sep 04 - [The Gimmicks of Food Labeling](https://www.newyorker.com/magazine/2023/09/11/the-lies-in-your-grocery-store)
-- Sep 04 - [WASM: Big deal or little deal?](https://www.theregister.com/2023/09/01/web_assembly_wasm_column/)
+- Sep 05 - [Tech workers now doubting decision to move from California to Texas](https://www.chron.com/culture/article/california-texas-tech-workers-18346616.php)
+- Sep 05 - [ZFS for Dummies](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/)
+- Sep 05 - [You have thousands of ancestors from the 1600s](https://kayce.basqu.es/blog/ancestors/)
+- Sep 05 - [Videobug (YC S22) is hiring a founding engineer – automated snapshot testing](https://news.ycombinator.com/item?id=37386711)
+- Sep 05 - [Farms that create habitat key to food security and biodiversity](https://news.stanford.edu/2023/09/04/farming-food-biodiversity/)
 <!--END_SECTION:hn-->
 
 <!--
