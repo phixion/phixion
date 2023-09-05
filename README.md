@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 05 - [Study shows over time, ChatGPT lost accuracy](https://fortune.com/2023/07/19/chatgpt-accuracy-stanford-study/)
-- Sep 05 - [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676)
-- Sep 05 - [Google Meet’s new AI will be able to go to meetings for you](https://www.theverge.com/2023/8/29/23849056/google-meet-ai-duet-attend-for-me)
-- Sep 05 - [The Cyber Security Glossary](https://tryhackme.com/r/glossary)
-- Sep 05 - [ZSA Voyager: Low profile split keyboard](https://www.zsa.io/voyager/)
+- Sep 05 - [Searching for “notepad” on DuckDuckGo yields zero results](https://duckduckgo.com/?t=ffab&q=notepad&ia=web)
+- Sep 05 - [Forming an Edge](https://www.scopeofwork.net/forming-an-edge/)
+- Sep 05 - [Google and The Online Slang Dictionary (2020)](http://onlineslangdictionary.com/pages/google-panda-penalty/)
+- Sep 05 - [Klack – Satisfying sound with every keystroke](https://tryklack.com/)
+- Sep 05 - [If you can use open source, you can build hardware](https://redeem-tomorrow.com/if-you-can-use-open-source-you-can-build-hardware)
 <!--END_SECTION:hn-->
 
 <!--
