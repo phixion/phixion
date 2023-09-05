@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 04 - [Writing a C compiler in 500 lines of Python](https://vgel.me/posts/c500/)
-- Sep 04 - [Spectrolite – Mac app to make colorful risograph prints and zines more easily](https://spectrolite.app)
-- Sep 04 - [Latch bio: “We work six days a week”](https://jobs.lever.co/latch/a82d61c7-63b9-481c-85ad-4ce80031a481)
-- Sep 04 - [Home insurers cut natural disasters from policies as climate risks grow](https://www.washingtonpost.com/business/2023/09/03/natural-disaster-climate-insurance/)
-- Sep 04 - [Tidal Energy Is Not Renewable](https://cs.stanford.edu/people/zjl/tide.html)
+- Sep 04 - [Ask HN: Best intro to programming book for 2nd graders?](https://news.ycombinator.com/item?id=37386127)
+- Sep 04 - [Oscilloscope watch ships after 10 years on kickstarter](https://www.tomshardware.com/news/oscilloscope-watch-ships-after-10-years)
+- Sep 04 - [Emacs Bedrock: A minimal Emacs starter kit](https://sr.ht/~ashton314/emacs-bedrock/)
+- Sep 04 - [The Gimmicks of Food Labeling](https://www.newyorker.com/magazine/2023/09/11/the-lies-in-your-grocery-store)
+- Sep 04 - [WASM: Big deal or little deal?](https://www.theregister.com/2023/09/01/web_assembly_wasm_column/)
 <!--END_SECTION:hn-->
 
 <!--
