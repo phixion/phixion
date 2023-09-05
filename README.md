@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 05 - [Tech workers now doubting decision to move from California to Texas](https://www.chron.com/culture/article/california-texas-tech-workers-18346616.php)
-- Sep 05 - [ZFS for Dummies](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/)
-- Sep 05 - [You have thousands of ancestors from the 1600s](https://kayce.basqu.es/blog/ancestors/)
-- Sep 05 - [Videobug (YC S22) is hiring a founding engineer – automated snapshot testing](https://news.ycombinator.com/item?id=37386711)
-- Sep 05 - [Farms that create habitat key to food security and biodiversity](https://news.stanford.edu/2023/09/04/farming-food-biodiversity/)
+- Sep 05 - [Microsoft blames outage on small staff, automation failures](https://www.theregister.com/2023/09/04/microsoft_australia_outage_incident_report/)
+- Sep 05 - [Learn COBOL in 1 Day](https://www.microfocus.com/en-us/cobol)
+- Sep 05 - [All About USB-C: Example Circuits](https://hackaday.com/2023/08/07/all-about-usb-c-example-circuits/)
+- Sep 05 - [Turning two lives into one, or, things that worry me about Bess, after I’m gone](https://jakeseliger.com/2023/08/30/turning-two-lives-into-one-or-things-that-worry-me-about-bess-after-im-gone/)
+- Sep 05 - [Locking up corpses to keep them from escaping](https://www.nytimes.com/2023/09/05/science/archaeology-burial-ampires-revenants.html)
 <!--END_SECTION:hn-->
 
 <!--
