@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 05 - [Searching for “notepad” on DuckDuckGo yields zero results](https://duckduckgo.com/?t=ffab&q=notepad&ia=web)
-- Sep 05 - [Forming an Edge](https://www.scopeofwork.net/forming-an-edge/)
-- Sep 05 - [Google and The Online Slang Dictionary (2020)](http://onlineslangdictionary.com/pages/google-panda-penalty/)
-- Sep 05 - [Klack – Satisfying sound with every keystroke](https://tryklack.com/)
-- Sep 05 - [If you can use open source, you can build hardware](https://redeem-tomorrow.com/if-you-can-use-open-source-you-can-build-hardware)
+- Sep 05 - [Wage transparency: Everyone’s happy except HR?](https://www.malaymail.com/news/opinion/2023/09/05/wage-transparency-everyones-happy-except-hr/89066)
+- Sep 05 - [Engineer’s Guide to Career Growth: Advice from My Time at Stripe and Facebook](https://review.firstround.com/the-engineers-guide-to-career-growth-advice-from-my-time-at-stripe-and-facebook)
+- Sep 05 - [HashiCorp Did It Backwards](https://galenmarchetti.substack.com/p/hashicorp-did-it-backwards)
+- Sep 05 - [Google was incorporated 25 years ago on September 4 1998](https://about.google/intl/ALL_us/our-story/)
+- Sep 05 - [Emerge (YC W21) is hiring a lead front end engineer (remote, small team)](https://www.workatastartup.com/jobs/61922/)
 <!--END_SECTION:hn-->
 
 <!--
