@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 06 - [Google Chrome pushes browser history-based ad targeting](https://www.theregister.com/2023/09/06/google_privacy_popup_chrome/)
-- Sep 06 - [Molly Holzschlag has died](https://www.tucsonsentinel.com/local/report/090523_molly_holzschlag/tucsons-molly-holzschlag-known-as-the-fairy-godmother-web-dead-60/)
-- Sep 06 - [On the 10th anniversary of the Snowden revelations](https://www.electrospaces.net/2023/06/on-10th-anniversary-of-snowden.html)
-- Sep 06 - [Writing Small CLI Programs in Common Lisp (2021)](https://stevelosh.com/blog/2021/03/small-common-lisp-cli-programs/)
-- Sep 06 - [Fighting API bots with Cloudflare's invisible turnstile](https://www.troyhunt.com/fighting-api-bots-with-cloudflares-invisible-turnstile/)
+- Sep 06 - [Oslo district court rules Meta is violating the right to privacy (Norwegian)](https://nrkbeta.no/2023/09/06/datatilsynet-vant-frem-i-oslo-tingrett-mot-meta/)
+- Sep 06 - [Digital Markets Act: Commission designates six gatekeepers](https://ec.europa.eu/commission/presscorner/detail/en/ip_23_4328)
+- Sep 06 - [Norway court rules against Facebook owner Meta in privacy case](https://www.reuters.com/technology/norway-data-regulator-fine-meta-over-privacy-breaches-2023-08-07/)
+- Sep 06 - [Toyota blames factory shutdown in Japan on ‘insufficient disk space’](https://www.theguardian.com/business/2023/sep/06/toyota-blames-factory-shutdown-in-japan-on-insufficient-disk-space)
+- Sep 06 - [How would you say “She said goodbye too many times before.” in Latin?](https://latin.stackexchange.com/a/21492)
 <!--END_SECTION:hn-->
 
 <!--
