@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 06 - [Basilisk collection (2021)](https://suricrasia.online/unfiction/basilisk/)
+- Sep 06 - [Google Chrome pushes browser history-based ad targeting](https://www.theregister.com/2023/09/06/google_privacy_popup_chrome/)
+- Sep 06 - [Molly Holzschlag has died](https://www.tucsonsentinel.com/local/report/090523_molly_holzschlag/tucsons-molly-holzschlag-known-as-the-fairy-godmother-web-dead-60/)
 - Sep 06 - [On the 10th anniversary of the Snowden revelations](https://www.electrospaces.net/2023/06/on-10th-anniversary-of-snowden.html)
 - Sep 06 - [Writing Small CLI Programs in Common Lisp (2021)](https://stevelosh.com/blog/2021/03/small-common-lisp-cli-programs/)
-- Sep 06 - [Can LLMs learn from a single example?](https://www.fast.ai/posts/2023-09-04-learning-jumps/)
-- Sep 06 - [Cory Doctorow: Interoperability Can Save the Open Web](https://spectrum.ieee.org/doctorow-interoperability)
+- Sep 06 - [Fighting API bots with Cloudflare's invisible turnstile](https://www.troyhunt.com/fighting-api-bots-with-cloudflares-invisible-turnstile/)
 <!--END_SECTION:hn-->
 
 <!--
