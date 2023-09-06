@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 05 - [Wage transparency: Everyone’s happy except HR?](https://www.malaymail.com/news/opinion/2023/09/05/wage-transparency-everyones-happy-except-hr/89066)
-- Sep 05 - [Engineer’s Guide to Career Growth: Advice from My Time at Stripe and Facebook](https://review.firstround.com/the-engineers-guide-to-career-growth-advice-from-my-time-at-stripe-and-facebook)
-- Sep 05 - [HashiCorp Did It Backwards](https://galenmarchetti.substack.com/p/hashicorp-did-it-backwards)
-- Sep 05 - [Google was incorporated 25 years ago on September 4 1998](https://about.google/intl/ALL_us/our-story/)
-- Sep 05 - [Emerge (YC W21) is hiring a lead front end engineer (remote, small team)](https://www.workatastartup.com/jobs/61922/)
+- Sep 06 - [Basilisk collection (2021)](https://suricrasia.online/unfiction/basilisk/)
+- Sep 06 - [On the 10th anniversary of the Snowden revelations](https://www.electrospaces.net/2023/06/on-10th-anniversary-of-snowden.html)
+- Sep 06 - [Writing Small CLI Programs in Common Lisp (2021)](https://stevelosh.com/blog/2021/03/small-common-lisp-cli-programs/)
+- Sep 06 - [Can LLMs learn from a single example?](https://www.fast.ai/posts/2023-09-04-learning-jumps/)
+- Sep 06 - [Cory Doctorow: Interoperability Can Save the Open Web](https://spectrum.ieee.org/doctorow-interoperability)
 <!--END_SECTION:hn-->
 
 <!--
