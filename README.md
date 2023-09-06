@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 06 - [From sex life to politics: car driver data grab presents ‘privacy nightmare'](https://www.theguardian.com/business/2023/sep/06/cars-collect-extensive-personal-data-on-drivers-study-warns)
-- Sep 06 - [Effectiveness of physical activity for improving depression, anxiety, distress](https://bjsm.bmj.com/content/early/2023/07/11/bjsports-2022-106195)
-- Sep 06 - [China Bans iPhone Use for Government Officials at Work](https://stocks.apple.com/A01gybx6UQReBj5eQUppe8g)
-- Sep 06 - [‘Modern cars are a privacy nightmare,’ the worst Mozilla’s seen](https://www.theverge.com/2023/9/6/23861047/car-user-privacy-report-mozilla-foundation-data-collection)
-- Sep 06 - [Now it's PostgreSQL's turn to have a bogus CVE](https://opensourcewatch.beehiiv.com/p/now-postgresqls-turn-bogus-cve)
+- Sep 06 - ['Human Embryo Model' Without Sperm or Egg](https://wis-wander.weizmann.ac.il/life-sciences/human-embryo-models-grown-stem-cells)
+- Sep 06 - [Amazon Andy Jassy shouldn’t make RTO decisions in echo chamber of CEOs feelings](https://fortune.com/2023/09/05/amazon-andy-jassy-return-to-office-decisions-echo-chamber-ceo-feelings-work-gleb-tsipursky/)
+- Sep 06 - [Ask HN: Is there a data loss bug lurking in MS365 backup solutions?](https://news.ycombinator.com/item?id=37408794)
+- Sep 06 - [Results of technical investigations for Storm-0558 key acquisition](https://msrc.microsoft.com/blog/2023/09/results-of-major-technical-investigations-for-storm-0558-key-acquisition/)
+- Sep 06 - [“How About Never” (2014)](https://www.newyorker.com/cartoons/bob-mankoff/the-story-of-how-about-never)
 <!--END_SECTION:hn-->
 
 <!--
