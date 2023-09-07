@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 07 - [Tailscale Has Partnered with Mullvad](https://mullvad.net/en/blog/2023/9/7/tailscale-has-partnered-with-mullvad/)
-- Sep 07 - [Kagi Small Web](https://blog.kagi.com/small-web)
-- Sep 07 - [Mullvad on Tailscale: Privately browse the web](https://tailscale.com/blog/mullvad-integration/)
-- Sep 07 - [California's plastic bag ban is failing](https://www.latimes.com/environment/story/2023-08-24/whats-the-deal-with-single-use-plastic-bag-bans)
-- Sep 07 - [Running a 180B parameter LLM on a single Apple M2 Ultra](https://twitter.com/ggerganov/status/1699791226780975439)
+- Sep 07 - [London Street Trees](https://apps.london.gov.uk/street-trees/)
+- Sep 07 - [Gabor Melli’s Research Knowledge Base](https://www.gabormelli.com/RKB/HomePage)
+- Sep 07 - [Ricochet Robots Solver](https://kevincox.ca/2023/09/02/ricochet-robots-solver/)
+- Sep 07 - [The fight over California community solar: ‘It’s everyone vs. utilities’](https://www.canarymedia.com/articles/solar/the-fight-over-california-community-solar-everyone-vs-the-utilities)
+- Sep 07 - [Humanised kidneys grown inside pigs for the first time](https://www.theguardian.com/science/2023/sep/07/humanised-kidneys-grown-inside-pigs-for-the-first-time)
 <!--END_SECTION:hn-->
 
 <!--
