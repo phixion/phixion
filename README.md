@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 07 - [Tell HN: JPMorgan Chase forcing arbitration agreement to log in](https://twitter.com/walid/status/1697611534074011700)
+- Sep 07 - [US solar installations expected to be a record 32 GW in 2023](https://electrek.co/2023/09/06/us-solar-installations-expected-to-be-a-record-32-gw-in-2023/)
+- Sep 07 - [God writes Haskell](https://hookrace.net/blog/god-writes-haskell/)
+- Sep 07 - [Unreal Engine 5.3](https://www.unrealengine.com/en-US/blog/unreal-engine-5-3-is-now-available)
 - Sep 07 - [My favorite Erlang program (2013)](https://joearms.github.io/#2013-11-21%20My%20favorite%20Erlang%20Program)
-- Sep 07 - [AOL Pretends to Be the Internet](https://thehistoryoftheweb.com/postscript/aol-pretends-to-be-the-internet/)
-- Sep 07 - [Cal Newport: Overstimulation Is Ruining Your Life](https://mindmatters.ai/2023/09/cal-newport-over-stimulation-is-ruining-your-life/)
 - Sep 07 - [National Film Board of Canada](https://www.nfb.ca/)
 <!--END_SECTION:hn-->
 
