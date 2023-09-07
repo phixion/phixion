@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 06 - [Wikimedia DNS](https://meta.wikimedia.org/wiki/Wikimedia_DNS)
-- Sep 06 - [Run ChatGPT-like LLMs on your laptop in 3 lines of code](https://github.com/amaiya/onprem)
-- Sep 06 - [jq 1.7 released](https://github.com/jqlang/jq/releases/tag/jq-1.7)
-- Sep 06 - [Norway rolls back EV incentives while boosting walking and cycling](https://electrek.co/2022/05/17/norway-rolls-back-ev-incentives-while-boosting-walking-and-cycling/)
-- Sep 06 - [Flexport CEO resigns a year after joining logistics company](https://www.geekwire.com/2023/former-amazon-exec-dave-clark-resigns-as-flexport-ceo-a-year-after-joining-logistics-company/)
+- Sep 07 - [Tell HN: JPMorgan Chase forcing arbitration agreement to log in](https://twitter.com/walid/status/1697611534074011700)
+- Sep 07 - [My favorite Erlang program (2013)](https://joearms.github.io/#2013-11-21%20My%20favorite%20Erlang%20Program)
+- Sep 07 - [AOL Pretends to Be the Internet](https://thehistoryoftheweb.com/postscript/aol-pretends-to-be-the-internet/)
+- Sep 07 - [Cal Newport: Overstimulation Is Ruining Your Life](https://mindmatters.ai/2023/09/cal-newport-over-stimulation-is-ruining-your-life/)
+- Sep 07 - [National Film Board of Canada](https://www.nfb.ca/)
 <!--END_SECTION:hn-->
 
 <!--
