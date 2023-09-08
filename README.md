@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Sep 08 - [Dymocks - 836,120 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Dymocks)
 - Aug 31 - [Phished Data via CERT Poland - 67,943 breached accounts](https://haveibeenpwned.com/PwnedWebsites#CERTPolandPhish)
 - Aug 31 - [Pampling - 383,468 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Pampling)
 - Aug 31 - [PlayCyberGames - 3,681,753 breached accounts](https://haveibeenpwned.com/PwnedWebsites#PlayCyberGames)
 - Aug 24 - [SevenRooms - 1,205,385 breached accounts](https://haveibeenpwned.com/PwnedWebsites#SevenRooms)
-- Aug 23 - [Duolingo - 2,676,696 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Duolingo)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 08 - [Lean 4.0](https://github.com/leanprover/lean4/releases/tag/v4.0.0)
-- Sep 08 - [Unpacking Elixir: Syntax](https://underjord.io/unpacking-elixir-syntax.html)
-- Sep 08 - [Federated benchmarking of medical artificial intelligence with MedPerf](https://www.nature.com/articles/s42256-023-00652-2)
-- Sep 08 - [Why isn't chess popular in Japan?](https://lichess.org/@/datajunkie/blog/27-why-isnt-chess-popular-in-japan/UoEDbXUU)
-- Sep 08 - [We built an AI-powered Magic the Gathering card generator](https://txt.cohere.com/urzas-ai/)
+- Sep 08 - [PolicyFly (YC W22) Is Hiring a Senior Solutions Engineer (Remote)](https://www.ycombinator.com/companies/policyfly/jobs/32uV7Bg-senior-solutions-engineer)
+- Sep 08 - [NYPD spent millions to contract with firm banned by Meta for fake profiles](https://www.theguardian.com/us-news/2023/sep/08/new-york-police-tracking-voyager-labs-meta-contract)
+- Sep 08 - [Linux on the Arm-Based ThinkPad X13S: Getting There](https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/)
+- Sep 08 - [Touch Pianist](http://touchpianist.com/)
+- Sep 08 - [Napi: Build compiled Node.js add-ons in Rust](https://napi.rs/)
 <!--END_SECTION:hn-->
 
 <!--
