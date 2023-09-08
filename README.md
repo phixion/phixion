@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 08 - [Texas paid Bitcoin miner more than $31M to cut energy usage](https://www.cbsnews.com/news/bitcoin-mining-cryptocurrency-riot-texas-power-grid/)
-- Sep 08 - [Nature Machine Intelligence: Federated Benchmarking of Medical AI](https://www.nature.com/articles/s42256-023-00652-2)
-- Sep 08 - [“Why isn't chess popular in Japan?”](https://lichess.org/@/datajunkie/blog/27-why-isnt-chess-popular-in-japan/UoEDbXUU)
-- Sep 08 - [More wild Atlantic salmon found in U.S. rivers than any time in the past decade](https://apnews.com/article/salmon-rivers-maine-recovering-endangered-fishing-174eb09c19652bcd54d4d9ee9dec2dae)
-- Sep 08 - [Outage at Square prevents small businesses from accepting credit cards](https://www.sfchronicle.com/bayarea/article/outage-square-prevents-small-businesses-accepting-18353810.php)
+- Sep 08 - [Lean 4.0](https://github.com/leanprover/lean4/releases/tag/v4.0.0)
+- Sep 08 - [Unpacking Elixir: Syntax](https://underjord.io/unpacking-elixir-syntax.html)
+- Sep 08 - [Federated benchmarking of medical artificial intelligence with MedPerf](https://www.nature.com/articles/s42256-023-00652-2)
+- Sep 08 - [Why isn't chess popular in Japan?](https://lichess.org/@/datajunkie/blog/27-why-isnt-chess-popular-in-japan/UoEDbXUU)
+- Sep 08 - [We built an AI-powered Magic the Gathering card generator](https://txt.cohere.com/urzas-ai/)
 <!--END_SECTION:hn-->
 
 <!--
