@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 07 - [Mastering Emacs: What's new in Emacs 29.1](https://www.masteringemacs.org/article/whats-new-in-emacs-29-1)
-- Sep 07 - [Google gets its way, bakes a user-tracking ad platform directly into Chrome](https://arstechnica.com/gadgets/2023/09/googles-widely-opposed-ad-platform-the-privacy-sandbox-launches-in-chrome/)
-- Sep 07 - [Show HN: HackYourNews – AI summaries of the top HN stories](https://hackyournews.com/)
-- Sep 07 - [Opposites don't actually attract: meta-analysis study](https://www.colorado.edu/today/2023/08/31/news-flash-opposites-dont-actually-attract)
-- Sep 07 - [TEMU Is Cleverly Hidden Spyware That Poses an Urgent Security Threat to U.S.](https://grizzlyreports.com/we-believe-pdd-is-a-dying-fraudulent-company-and-its-shopping-app-temu-is-cleverly-hidden-spyware-that-poses-an-urgent-security-threat-to-u-s-national-interests/)
+- Sep 08 - [Texas paid Bitcoin miner more than $31M to cut energy usage](https://www.cbsnews.com/news/bitcoin-mining-cryptocurrency-riot-texas-power-grid/)
+- Sep 08 - [Nature Machine Intelligence: Federated Benchmarking of Medical AI](https://www.nature.com/articles/s42256-023-00652-2)
+- Sep 08 - [“Why isn't chess popular in Japan?”](https://lichess.org/@/datajunkie/blog/27-why-isnt-chess-popular-in-japan/UoEDbXUU)
+- Sep 08 - [More wild Atlantic salmon found in U.S. rivers than any time in the past decade](https://apnews.com/article/salmon-rivers-maine-recovering-endangered-fishing-174eb09c19652bcd54d4d9ee9dec2dae)
+- Sep 08 - [Outage at Square prevents small businesses from accepting credit cards](https://www.sfchronicle.com/bayarea/article/outage-square-prevents-small-businesses-accepting-18353810.php)
 <!--END_SECTION:hn-->
 
 <!--
