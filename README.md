@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 08 - [Procreate Dreams](https://procreate.com/dreams)
-- Sep 08 - [Scientists Discover Practical Use for Leftover Coffee Grounds](https://www.sciencealert.com/scientists-discover-amazing-practical-use-for-leftover-coffee-grounds)
-- Sep 08 - [11,196 Years Jail Sentence for Faruk Özer, CEO of Turkish Crypto Exchange Thodex](https://www.coindesk.com/policy/2023/09/08/11196-years-in-prison-for-faruk-ozer-ceo-of-collapsed-turkish-crypto-exchange-thodex/)
-- Sep 08 - [Bees struggle to find flowers because of air pollution](https://www.birmingham.ac.uk/news/2023/bees-struggle-to-find-flowers-because-of-air-pollution)
-- Sep 08 - [Dating app Grindr loses nearly half its staff after trying to force RTO](https://www.cnn.com/2023/09/08/business/grindr-return-to-office-union/index.html)
+- Sep 08 - [Show HN: Conway's Game of Life in TypeScript's type system](https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts)
+- Sep 08 - [Safety Inspector Fired for Finding Too Many Defects Could Cost Railroad Millions](https://jalopnik.com/safety-inspector-fired-for-finding-too-many-defects-cou-1850817520)
+- Sep 08 - [Why we didn’t get a malaria vaccine sooner](https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner)
+- Sep 08 - [CVE-2023-4809: FreeBSD pf bypass when using IPv6](https://www.enricobassetti.it/2023/09/cve-2023-4809-freebsd-pf-bypass-when-using-ipv6/)
+- Sep 08 - [FTC judge decides Intuit’s ‘free’ TurboTax ads misled consumers](https://www.theverge.com/2023/9/8/23864538/turbotax-intuit-ftc-deceptive-practices-free-tax-filing)
 <!--END_SECTION:hn-->
 
 <!--
