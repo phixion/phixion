@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 07 - [London Street Trees](https://apps.london.gov.uk/street-trees/)
-- Sep 07 - [Gabor Melli’s Research Knowledge Base](https://www.gabormelli.com/RKB/HomePage)
-- Sep 07 - [Ricochet Robots Solver](https://kevincox.ca/2023/09/02/ricochet-robots-solver/)
-- Sep 07 - [The fight over California community solar: ‘It’s everyone vs. utilities’](https://www.canarymedia.com/articles/solar/the-fight-over-california-community-solar-everyone-vs-the-utilities)
-- Sep 07 - [Humanised kidneys grown inside pigs for the first time](https://www.theguardian.com/science/2023/sep/07/humanised-kidneys-grown-inside-pigs-for-the-first-time)
+- Sep 07 - [Mastering Emacs: What's new in Emacs 29.1](https://www.masteringemacs.org/article/whats-new-in-emacs-29-1)
+- Sep 07 - [Google gets its way, bakes a user-tracking ad platform directly into Chrome](https://arstechnica.com/gadgets/2023/09/googles-widely-opposed-ad-platform-the-privacy-sandbox-launches-in-chrome/)
+- Sep 07 - [Show HN: HackYourNews – AI summaries of the top HN stories](https://hackyournews.com/)
+- Sep 07 - [Opposites don't actually attract: meta-analysis study](https://www.colorado.edu/today/2023/08/31/news-flash-opposites-dont-actually-attract)
+- Sep 07 - [TEMU Is Cleverly Hidden Spyware That Poses an Urgent Security Threat to U.S.](https://grizzlyreports.com/we-believe-pdd-is-a-dying-fraudulent-company-and-its-shopping-app-temu-is-cleverly-hidden-spyware-that-poses-an-urgent-security-threat-to-u-s-national-interests/)
 <!--END_SECTION:hn-->
 
 <!--
