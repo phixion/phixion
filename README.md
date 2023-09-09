@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 09 - [The Development of the C Language](http://cm.bell-labs.co/who/dmr/chist.html)
-- Sep 09 - [As wildfires burn across the world, what is the role of Australia's eucalyptus?](https://www.abc.net.au/news/2023-09-09/wildfires-portugal-greece-california-hawaii-euclyptus-trees/102760264)
-- Sep 09 - [Embeddable Common Lisp 23.9.9](https://ecl.common-lisp.dev/posts/ECL-2399-release.html)
-- Sep 09 - [Advanced NLP with SpaCy](https://course.spacy.io/en/)
-- Sep 09 - [Julia and Mojo (Modular) Mandelbrot Benchmark](https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638)
+- Sep 09 - [Dennis Austin, the software developer of PowerPoint, dies at 76](https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/)
+- Sep 09 - [Ask HN: Looking for a resource on Linux kernel module development](https://news.ycombinator.com/item?id=37444184)
+- Sep 09 - [‘Stop Making Sense’ Is Back, and Talking Heads Have More to Say](https://www.nytimes.com/2023/09/09/arts/music/talking-heads-stop-making-sense.html)
+- Sep 09 - [Privacy Nightmare on Wheels’: Every Car Brand Reviewed by Mozilla](https://foundation.mozilla.org/en/blog/privacy-nightmare-on-wheels-every-car-brand-reviewed-by-mozilla-including-ford-volkswagen-and-toyota-flunks-privacy-test/)
+- Sep 09 - [Bare-Metal Kubernetes, Part I: Talos on Hetzner](https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/)
 <!--END_SECTION:hn-->
 
 <!--
