@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 09 - [Australia's labor laws need updating now that remote work is here to stay](https://phys.org/news/2023-09-australia-labor-laws-remote-stay.html)
-- Sep 09 - [DJI Virtual Flight (iOS) has been broken for five months](https://forum.dji.com/thread-293546-1-1.html)
-- Sep 09 - [PAROL6 Desktop Robot Arm](https://github.com/PCrnjak/PAROL6-Desktop-robot-arm)
-- Sep 09 - [Binance is facing liquidity issues on certain blockchains](https://twitter.com/coinfabrik/status/1700495960151912518)
-- Sep 09 - [Investors account for 30 per cent of home buying in Canada, data show](https://www.theglobeandmail.com/business/article-investors-account-for-30-per-cent-of-home-buying-in-canada-data-show/)
+- Sep 09 - [Show HN: Flexport still has 50 open positions](https://www.flexport.com/careers/jobs/)
+- Sep 09 - [Half of Glaciers Vanish with 1.5 Degrees of Warming](https://www.nasa.gov/feature/esnt/2023/nasa-funded-study-half-of-glaciers-vanish-with-1-point-5-degrees-of-warming/)
+- Sep 09 - [Australia to give cats a curfew because they are murdering so many other animals](https://www.insider.com/australia-considers-cat-curfews-household-limits-to-protect-biodiversity-2023-9)
+- Sep 09 - [Show HN: I built a Python web framework from scratch](https://github.com/ZeroIntensity/view.py)
+- Sep 09 - [You might want async in your project](https://notgull.net/why-you-want-async/)
 <!--END_SECTION:hn-->
 
 <!--
