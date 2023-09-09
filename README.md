@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 09 - [FTC judge rules Intuit broke law, must stop advertising TurboTax as “free”](https://arstechnica.com/tech-policy/2023/09/ftc-judge-rules-intuit-broke-law-must-stop-advertising-turbotax-as-free/)
-- Sep 09 - [Generally Intelligent (YC S17) is hiring technical interviewers](https://news.ycombinator.com/item?id=37441168)
-- Sep 08 - [LogoScale – A method for vectorizing small, crappy logos](https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0)
-- Sep 08 - [Morphology and temporal evolution of ground-nesting bee burrows](https://www.sciencedirect.com/science/article/pii/S0016706123003324#s0040)
-- Sep 08 - [Snoop unto them as they snoop unto you](https://blog.dataparty.xyz/blog/snoop-unto-them/)
+- Sep 09 - [The Development of the C Language](http://cm.bell-labs.co/who/dmr/chist.html)
+- Sep 09 - [As wildfires burn across the world, what is the role of Australia's eucalyptus?](https://www.abc.net.au/news/2023-09-09/wildfires-portugal-greece-california-hawaii-euclyptus-trees/102760264)
+- Sep 09 - [Embeddable Common Lisp 23.9.9](https://ecl.common-lisp.dev/posts/ECL-2399-release.html)
+- Sep 09 - [Advanced NLP with SpaCy](https://course.spacy.io/en/)
+- Sep 09 - [Julia and Mojo (Modular) Mandelbrot Benchmark](https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638)
 <!--END_SECTION:hn-->
 
 <!--
