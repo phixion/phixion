@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 08 - [Show HN: Conway's Game of Life in TypeScript's type system](https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts)
-- Sep 08 - [Safety Inspector Fired for Finding Too Many Defects Could Cost Railroad Millions](https://jalopnik.com/safety-inspector-fired-for-finding-too-many-defects-cou-1850817520)
-- Sep 08 - [Why we didn’t get a malaria vaccine sooner](https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner)
-- Sep 08 - [CVE-2023-4809: FreeBSD pf bypass when using IPv6](https://www.enricobassetti.it/2023/09/cve-2023-4809-freebsd-pf-bypass-when-using-ipv6/)
-- Sep 08 - [FTC judge decides Intuit’s ‘free’ TurboTax ads misled consumers](https://www.theverge.com/2023/9/8/23864538/turbotax-intuit-ftc-deceptive-practices-free-tax-filing)
+- Sep 08 - [Snoop unto them as they snoop unto you](https://blog.dataparty.xyz/blog/snoop-unto-them/)
+- Sep 08 - [Differentiation is the only way to win in SaaS](https://ideahub.beehiiv.com/p/how-to-differentiate-your-saas-product)
+- Sep 08 - [Decoded: GNU Coreutils (2018)](https://maizure.org/projects/decoded-gnu-coreutils/)
+- Sep 08 - [The rxv64 Operating System: MIT's xv6, in Rust, for SMP x86_64 machines](https://github.com/dancrossnyc/rxv64)
+- Sep 08 - [Using LD_PRELOAD to cheat, inject features and investigate programs](https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/)
 <!--END_SECTION:hn-->
 
 <!--
