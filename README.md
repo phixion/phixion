@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 10 - [ZF makes magnet-free electric motor uniquely compact and competitive](https://press.zf.com/press/en/releases/release_60480.html)
-- Sep 10 - [New solar energy storage tech opened in Australia](https://reneweconomy.com.au/the-australian-solar-tech-that-may-have-found-a-low-cost-solution-to-deep-storage/)
-- Sep 10 - [Moral Crumple Zones: Cautionary Tales in Human-Robot Interaction](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2757236)
-- Sep 10 - [Magic and Loss, Part 1: Magic in the Cards](https://www.filfre.net/2023/09/magic-and-loss-part-1-magic-in-the-cards/)
-- Sep 10 - [GitHub – GSA/code-gov: An informative repo for all Code.gov repos](https://github.com/GSA/code-gov)
+- Sep 10 - [I wired up my bike's GPS to order me pizza during a gravel race](https://steele.blue/geofence-pizza-ordering/)
+- Sep 10 - [New JFK Assassination Revelation Could Upend the Long-Held “Lone Gunman” Theory](https://www.vanityfair.com/news/2023/09/new-jfk-assassination-revelation-upend-lone-gunman)
+- Sep 10 - [Breathing Life Back into a Minitel 1B with the Minimit](https://blog.jgc.org/2023/09/breathing-life-back-into-minitel-1b.html)
+- Sep 10 - [Nginx Unit – Universal web app server](https://github.com/nginx/unit)
+- Sep 10 - [Show HN: Papersnap – Claude 2-Powered Mind Maps from Research](https://poe.com/universal_link_page?handle=PAPERSNAP)
 <!--END_SECTION:hn-->
 
 <!--
