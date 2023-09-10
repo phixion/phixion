@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 10 - [Peredvizhnikov Engine is a fully lock-free game engine written in C++20](https://github.com/eduard-permyakov/peredvizhnikov-engine)
-- Sep 10 - [The fear of a nuclear fire that would consume Earth](https://www.bbc.com/future/article/20230907-the-fear-of-a-nuclear-fire-that-would-consume-earth)
-- Sep 10 - [Training and Aligning LLMs with RLHF and RLHF Alternatives](https://magazine.sebastianraschka.com/p/llm-training-rlhf-and-its-alternatives)
-- Sep 10 - [How does Linux NAT a ping?](https://devnonsense.com/posts/how-does-linux-nat-a-ping/)
-- Sep 10 - [Google no longer offers new domain registrations](https://domains.google/)
+- Sep 10 - [Five billion people will face extreme heat at least a month each year by 2050](https://www.washingtonpost.com/climate-environment/interactive/2023/extreme-heat-wet-bulb-globe-temperature/)
+- Sep 10 - [Mistakes You Should Never Make (2014)](https://web.archive.org/web/20140803073308/http://sethbannon.com/mistakes-you-should-never-make)
+- Sep 10 - [Why SaaS prices are still going up when companies are spending less](https://www.vendr.com/blog/price-hikes-continue)
+- Sep 10 - [The Decomposition of Rotten Tomatoes](https://longreads.com/2023/09/07/the-decomposition-of-rotten-tomatoes/)
+- Sep 10 - [A Senior Engineer's Check-List (2019)](https://littleblah.com/post/2019-09-01-senior-engineer-checklist/)
 <!--END_SECTION:hn-->
 
 <!--
