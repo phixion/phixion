@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 09 - [Show HN: Flexport still has 50 open positions](https://www.flexport.com/careers/jobs/)
-- Sep 09 - [Half of Glaciers Vanish with 1.5 Degrees of Warming](https://www.nasa.gov/feature/esnt/2023/nasa-funded-study-half-of-glaciers-vanish-with-1-point-5-degrees-of-warming/)
-- Sep 09 - [Australia to give cats a curfew because they are murdering so many other animals](https://www.insider.com/australia-considers-cat-curfews-household-limits-to-protect-biodiversity-2023-9)
-- Sep 09 - [Show HN: I built a Python web framework from scratch](https://github.com/ZeroIntensity/view.py)
-- Sep 09 - [You might want async in your project](https://notgull.net/why-you-want-async/)
+- Sep 09 - [Memories from Old LAN Parties](https://thomask.sdf.org/blog/2023/09/09/memories-from-old-lan-parties.html)
+- Sep 09 - [Jakob Nielsen: The Top Web Design Mistakes of 1999 (1999)](https://www.nngroup.com/articles/the-top-ten-web-design-mistakes-of-1999/)
+- Sep 09 - [Sucking carbon dioxide out of the sky is moving from science fiction to reality](https://www.npr.org/2023/09/08/1198373683/sucking-carbon-dioxide-out-of-the-sky-is-moving-from-science-fiction-to-reality)
+- Sep 09 - [Lithium discovery in US volcano could be biggest deposit ever found](https://www.chemistryworld.com/news/lithium-discovery-in-us-volcano-could-be-biggest-deposit-ever-found/4018032.article)
+- Sep 09 - [Microsoft announces purchase of 315k tonnes of CO2 removal](https://www.heirloomcarbon.com/news/heirloom-and-microsoft-sign-permanent-co2-removal-deal)
 <!--END_SECTION:hn-->
 
 <!--
