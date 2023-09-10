@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 09 - [Memories from Old LAN Parties](https://thomask.sdf.org/blog/2023/09/09/memories-from-old-lan-parties.html)
-- Sep 09 - [Jakob Nielsen: The Top Web Design Mistakes of 1999 (1999)](https://www.nngroup.com/articles/the-top-ten-web-design-mistakes-of-1999/)
-- Sep 09 - [Sucking carbon dioxide out of the sky is moving from science fiction to reality](https://www.npr.org/2023/09/08/1198373683/sucking-carbon-dioxide-out-of-the-sky-is-moving-from-science-fiction-to-reality)
-- Sep 09 - [Lithium discovery in US volcano could be biggest deposit ever found](https://www.chemistryworld.com/news/lithium-discovery-in-us-volcano-could-be-biggest-deposit-ever-found/4018032.article)
-- Sep 09 - [Microsoft announces purchase of 315k tonnes of CO2 removal](https://www.heirloomcarbon.com/news/heirloom-and-microsoft-sign-permanent-co2-removal-deal)
+- Sep 10 - [GitHub – GSA/code-gov: An informative repo for all Code.gov repos](https://github.com/GSA/code-gov)
+- Sep 10 - [I Wrote a String Type](https://mcyoung.xyz/2023/08/09/yarns/)
+- Sep 10 - [Coffee in a Can](https://one-from-nippon.ghost.io/coffee-in-a-can/)
+- Sep 10 - [School of SRE: Curriculum for onboarding non-traditional hires and new grads](https://github.com/linkedin/school-of-sre)
+- Sep 09 - [Memories from old LAN parties](https://thomask.sdf.org/blog/2023/09/09/memories-from-old-lan-parties.html)
 <!--END_SECTION:hn-->
 
 <!--
