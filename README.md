@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 10 - [The New Clubhouse](https://blog.clubhouse.com/the-new-clubhouse/)
-- Sep 10 - [To Make Dishwashers Great Again? (2020)](https://www.greenbuildinglawupdate.com/2020/11/articles/environmental/to-make-dishwashers-great-again/)
-- Sep 10 - [Superbatteries will transform the performance of EVs](https://www.economist.com/science-and-technology/2023/08/23/superbatteries-will-transform-the-performance-of-evs)
-- Sep 10 - [The Awk book’s 60-line version of Make](https://benhoyt.com/writings/awk-make/)
-- Sep 10 - [RISC-V SBI and the full boot process](https://popovicu.com/posts/risc-v-sbi-and-full-boot-process/)
+- Sep 11 - [Localhost Will Inevitably Die](https://ergomake.dev/blog/death-of-localhost/)
+- Sep 11 - [RestGPT](https://github.com/Yifan-Song793/RestGPT)
+- Sep 11 - [A more dynamic software I/O TLB](https://lwn.net/Articles/940973/)
+- Sep 11 - [Microsoft has not stopped forcing Edge on Windows 11 users](https://www.ctrl.blog/entry/windows-system-components-default-edge.html)
+- Sep 10 - [To make dishwashers great again? (2020)](https://www.greenbuildinglawupdate.com/2020/11/articles/environmental/to-make-dishwashers-great-again/)
 <!--END_SECTION:hn-->
 
 <!--
