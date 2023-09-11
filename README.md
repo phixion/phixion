@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 10 - [Five billion people will face extreme heat at least a month each year by 2050](https://www.washingtonpost.com/climate-environment/interactive/2023/extreme-heat-wet-bulb-globe-temperature/)
-- Sep 10 - [Mistakes You Should Never Make (2014)](https://web.archive.org/web/20140803073308/http://sethbannon.com/mistakes-you-should-never-make)
-- Sep 10 - [Why SaaS prices are still going up when companies are spending less](https://www.vendr.com/blog/price-hikes-continue)
-- Sep 10 - [The Decomposition of Rotten Tomatoes](https://longreads.com/2023/09/07/the-decomposition-of-rotten-tomatoes/)
-- Sep 10 - [A Senior Engineer's Check-List (2019)](https://littleblah.com/post/2019-09-01-senior-engineer-checklist/)
+- Sep 10 - [The New Clubhouse](https://blog.clubhouse.com/the-new-clubhouse/)
+- Sep 10 - [To Make Dishwashers Great Again? (2020)](https://www.greenbuildinglawupdate.com/2020/11/articles/environmental/to-make-dishwashers-great-again/)
+- Sep 10 - [Superbatteries will transform the performance of EVs](https://www.economist.com/science-and-technology/2023/08/23/superbatteries-will-transform-the-performance-of-evs)
+- Sep 10 - [The Awk book’s 60-line version of Make](https://benhoyt.com/writings/awk-make/)
+- Sep 10 - [RISC-V SBI and the full boot process](https://popovicu.com/posts/risc-v-sbi-and-full-boot-process/)
 <!--END_SECTION:hn-->
 
 <!--
