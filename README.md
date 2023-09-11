@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 11 - [Removing Garbage Collection from the Rust Language (2013)](http://pcwalton.github.io/_posts/2013-06-02-removing-garbage-collection-from-the-rust-language.html)
-- Sep 11 - [The Top Programming Languages 2023](https://spectrum.ieee.org/the-top-programming-languages-2023)
-- Sep 11 - [Celebrate 30 years of The X-Files with our 30 favorite episodes](https://arstechnica.com/culture/2023/09/the-truth-is-out-there-celebrate-30-years-of-the-x-files-with-our-30-favorite-episodes/)
-- Sep 11 - [Google Chrome just rolled out a new way to track you and serve ads](https://theconversation.com/google-chrome-just-rolled-out-a-new-way-to-track-you-and-serve-ads-heres-what-you-need-to-know-213150)
-- Sep 11 - [Spain’s Lessons for American Decline](https://compactmag.com/article/spain-s-lessons-for-american-decline)
+- Sep 11 - [US rejects AI copyright for famous state fair-winning Midjourney art](https://arstechnica.com/information-technology/2023/09/us-rejects-ai-copyright-for-famous-state-fair-winning-midjourney-art/)
+- Sep 11 - [UK air traffic control meltdown](https://jameshaydon.github.io/nats-fail/)
+- Sep 11 - [MAC Address Vendor Lookup](https://maclookup.app/home2)
+- Sep 11 - [Webb Discovers Methane, Carbon Dioxide in Atmosphere of K2-18B](https://www.nasa.gov/goddard/2023/webb-discovers-methane-carbon-dioxide-in-atmosphere-of-k2-18b/)
+- Sep 11 - [Show HN: C-ocoa, Write iOS/macOS apps in any language, with a generated C API](https://felixk15.github.io/posts/c_ocoa/)
 <!--END_SECTION:hn-->
 
 <!--
