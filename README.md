@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 11 - [Meticulous (YC S21) Is Hiring #3 engineer to build AI for testing](https://news.ycombinator.com/item?id=37463864)
-- Sep 11 - [A group of open source Android apps without ads and unnecessary permissions](https://www.simplemobiletools.com)
-- Sep 11 - [HDMI ISA graphics card for vintage PCs by improving the Graphics Gremlin](https://yeokhengmeng.com/2023/09/hdmi-isa-graphics-card-for-vintage-pcs/)
-- Sep 11 - [How could the early Unix OS comprise so few lines of code?](https://retrocomputing.stackexchange.com/questions/26083/how-could-early-unix-os-comprise-so-few-lines-of-code)
-- Sep 11 - [Japan launches rocket carrying lunar lander and X-ray telescope](https://phys.org/news/2023-09-japan-rocket-lunar-lander-x-ray.html)
+- Sep 11 - [Removing Garbage Collection from the Rust Language (2013)](http://pcwalton.github.io/_posts/2013-06-02-removing-garbage-collection-from-the-rust-language.html)
+- Sep 11 - [The Top Programming Languages 2023](https://spectrum.ieee.org/the-top-programming-languages-2023)
+- Sep 11 - [Celebrate 30 years of The X-Files with our 30 favorite episodes](https://arstechnica.com/culture/2023/09/the-truth-is-out-there-celebrate-30-years-of-the-x-files-with-our-30-favorite-episodes/)
+- Sep 11 - [Google Chrome just rolled out a new way to track you and serve ads](https://theconversation.com/google-chrome-just-rolled-out-a-new-way-to-track-you-and-serve-ads-heres-what-you-need-to-know-213150)
+- Sep 11 - [Spain’s Lessons for American Decline](https://compactmag.com/article/spain-s-lessons-for-american-decline)
 <!--END_SECTION:hn-->
 
 <!--
