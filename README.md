@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 12 - [Jwz: The only planet where 100% of Linux systems have working audio is Mars](https://mastodon.social/@jwz/111048777391239744)
-- Sep 12 - [NASA says distant exoplanet could have rare water ocean, possible hint of life](https://www.theguardian.com/science/2023/sep/11/nasa-planet-ocean-life-james-webb-telescope)
-- Sep 12 - [What’s the Smallest Variety of CHERI? (2022)](https://msrc.microsoft.com/blog/2022/09/whats-the-smallest-variety-of-cheri/)
-- Sep 12 - [Open source P2P alternative to Slack and Discord built on Tor and IPFS](https://github.com/TryQuiet/quiet)
-- Sep 12 - [I2c-USB-hub: An i2C Controllable USB 2.0 Hub](https://github.com/JimHeaney/i2c-usb-hub)
+- Sep 12 - [Treble.ai (YC S19) Is Hiring Spanish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer)
+- Sep 12 - [On Robots Killing People](https://www.schneier.com/blog/archives/2023/09/on-robots-killing-people.html)
+- Sep 12 - [Sweden brings more books and handwriting practice back to its tech-heavy schools](https://apnews.com/article/sweden-digital-education-backlash-reading-writing-1dd964c628f76361c43dbf3964f7dbf4)
+- Sep 12 - [Navigational Instruments (2020)](https://exple.tive.org/blarg/2020/10/25/navigational-instruments/)
+- Sep 12 - [Phoenix 1.7 for Elixir: Edit a Form in a Modal](https://blog.appsignal.com/2023/09/12/phoenix-1-7-for-elixir-edit-a-form-in-a-modal.html)
 <!--END_SECTION:hn-->
 
 <!--
