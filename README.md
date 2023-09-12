@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 12 - [Hacking the Book8088 for better accuracy](https://martypc.blogspot.com/2023/09/hacking-book8088-for-better-accuracy.html)
-- Sep 12 - [Padlet (YC W13) is hiring in Singapore and San Francisco](https://padlet.jobs)
-- Sep 12 - [How I CEO: On taking advice as a leader](https://mercury.com/blog/inside-mercury/how-i-ceo-taking-advice-as-leader)
-- Sep 11 - [Have I Been Pwned? [video]](https://www.youtube.com/watch?v=pxPEdUFdayA)
-- Sep 11 - [Arm’s Neoverse V2](https://chipsandcheese.com/2023/09/11/hot-chips-2023-arms-neoverse-v2/)
+- Sep 12 - [Jwz: The only planet where 100% of Linux systems have working audio is Mars](https://mastodon.social/@jwz/111048777391239744)
+- Sep 12 - [NASA says distant exoplanet could have rare water ocean, possible hint of life](https://www.theguardian.com/science/2023/sep/11/nasa-planet-ocean-life-james-webb-telescope)
+- Sep 12 - [What’s the Smallest Variety of CHERI? (2022)](https://msrc.microsoft.com/blog/2022/09/whats-the-smallest-variety-of-cheri/)
+- Sep 12 - [Open source P2P alternative to Slack and Discord built on Tor and IPFS](https://github.com/TryQuiet/quiet)
+- Sep 12 - [I2c-USB-hub: An i2C Controllable USB 2.0 Hub](https://github.com/JimHeaney/i2c-usb-hub)
 <!--END_SECTION:hn-->
 
 <!--
