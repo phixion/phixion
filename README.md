@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 12 - [Brain hemorrhage transmissible via blood transfusion](https://jamanetwork.com/journals/jama/article-abstract/2809443)
-- Sep 12 - [WTF Happened in 1971?](https://wtfhappenedin1971.com/)
-- Sep 12 - [Vulnerability found in Dutch voting software](https://www.zerocopter.com/blog-en/the-importance-of-post-build-audits-do-you-know-what-you-ship?id=12)
-- Sep 12 - [New world record with an electric racing car: From 0 to 100 in 0.956 seconds](https://ethz.ch/en/news-and-events/eth-news/news/2023/09/from-zero-to-one-hundred-in-0-956-seconds.html)
-- Sep 12 - [Super-Earths in Need for Extremly Big Rockets (2018)](https://arxiv.org/abs/1803.11384)
+- Sep 12 - [Apple’s first ‘carbon neutral’ products are a red herring](https://www.theverge.com/23870317/apples-watch-series-9-carbon-neutral-climate-goal)
+- Sep 12 - [The Death of Unity](https://www.gamedeveloper.com/business/the-death-of-unity)
+- Sep 12 - [Steam is 20 Years Old](https://store.steampowered.com/sale/steam20)
+- Sep 12 - [A small Universe](https://arxiv.org/abs/2309.03272)
+- Sep 12 - [The Rules of Margin Collapse](https://www.joshwcomeau.com/css/rules-of-margin-collapse/)
 <!--END_SECTION:hn-->
 
 <!--
