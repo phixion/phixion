@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 11 - [Ask HN: What is the best way to build a desktop app in Windows in 2023?](https://news.ycombinator.com/item?id=37475047)
-- Sep 11 - [I Can't Believe Neopets Is Still Around](https://www.dualshockers.com/neopets-is-still-active-2023/)
-- Sep 11 - [Onboarding Floating-Point](https://www.altdevarts.com/p/onboarding-floating-point)
-- Sep 11 - [Microsoft to kill off third-party printer drivers in Windows](https://www.theregister.com/2023/09/11/go_native_or_go_home/)
-- Sep 11 - [Advanced x86: Virtualization with  Intel VT-x](https://opensecuritytraining.info/AdvancedX86-VTX.html)
+- Sep 12 - [Hacking the Book8088 for better accuracy](https://martypc.blogspot.com/2023/09/hacking-book8088-for-better-accuracy.html)
+- Sep 12 - [Padlet (YC W13) is hiring in Singapore and San Francisco](https://padlet.jobs)
+- Sep 12 - [How I CEO: On taking advice as a leader](https://mercury.com/blog/inside-mercury/how-i-ceo-taking-advice-as-leader)
+- Sep 11 - [Have I Been Pwned? [video]](https://www.youtube.com/watch?v=pxPEdUFdayA)
+- Sep 11 - [Arm’s Neoverse V2](https://chipsandcheese.com/2023/09/11/hot-chips-2023-arms-neoverse-v2/)
 <!--END_SECTION:hn-->
 
 <!--
