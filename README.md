@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 12 - [Apple’s first ‘carbon neutral’ products are a red herring](https://www.theverge.com/23870317/apples-watch-series-9-carbon-neutral-climate-goal)
-- Sep 12 - [The Death of Unity](https://www.gamedeveloper.com/business/the-death-of-unity)
-- Sep 12 - [Steam is 20 Years Old](https://store.steampowered.com/sale/steam20)
-- Sep 12 - [A small Universe](https://arxiv.org/abs/2309.03272)
-- Sep 12 - [The Rules of Margin Collapse](https://www.joshwcomeau.com/css/rules-of-margin-collapse/)
+- Sep 12 - [Breaking Through Depression](https://www.theguardian.com/books/2023/sep/10/breaking-through-depression-new-treatments-discoveries-for-healing-the-balanced-brain-science-of-mental-health-philip-gold-camilla-nord-reviews)
+- Sep 12 - [Fixing Penn Station](https://commonedge.org/whats-to-become-of-the-mess-that-is-penn-station/)
+- Sep 12 - [Credit Card Debt Collection](https://www.bitsaboutmoney.com/archive/the-waste-stream-of-consumer-finance/)
+- Sep 12 - [What the interns have wrought, 2023 edition](https://blog.janestreet.com/what-the-interns-have-wrought-2023/)
+- Sep 12 - [JustPaid.io (YC W23) is hiring a senior full stack engineer](https://www.justpaid.io/careers)
 <!--END_SECTION:hn-->
 
 <!--
