@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 13 - [Samsung unveils monobloc heat pump for residential applications](https://www.pv-magazine.com/2023/09/12/samsung-unveils-monobloc-heat-pump-for-residential-applications/)
-- Sep 13 - [Madlad-400: A Multilingual and Document-Level Large Audited Dataset](https://github.com/google-research/google-research/tree/master/madlad_400)
-- Sep 13 - [Lessons from YC AI Startups](https://www.ignorance.ai/p/5-lessons-from-139-yc-ai-startups)
-- Sep 13 - [Interactive Map of Linux Kernel](https://makelinux.github.io/kernel/map/)
-- Sep 12 - [How long it took different companies to find product-market fit](https://www.lennysnewsletter.com/p/finding-product-market-fit)
+- Sep 13 - [“This Is a Disaster:” Game Developers Scramble to Deal with Unity’s New Fees](https://www.404media.co/unity-new-fees-prices/)
+- Sep 13 - [70B Llama 2 at 35tokens/second on 4090](https://github.com/turboderp/exllamav2)
+- Sep 13 - [There are now two types of PayPal dollars, and one is better than the other](http://jpkoning.blogspot.com/2023/09/there-are-now-two-types-of-paypal.html)
+- Sep 13 - [S32 Unix Clock](https://www.da.vidbuchanan.co.uk/blog/unix-clock.html)
+- Sep 13 - [Any sufficiently advanced uninstaller is indistinguishable from malware](https://devblogs.microsoft.com/oldnewthing/20230911-00/?p=108749)
 <!--END_SECTION:hn-->
 
 <!--
