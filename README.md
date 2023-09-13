@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 13 - [A $500 DIY near-IR spectrometer that would sell for $10k](https://caoyuan.scripts.mit.edu/ir_spec.html)
-- Sep 13 - [Bitty Engine: A tiny powerful game engine](https://paladin-t.github.io/bitty/)
-- Sep 13 - [OpenBSD Webzine #14](https://webzine.puffy.cafe/issue-14.html)
-- Sep 13 - [Nango.dev (YC W23) is hiring a founding back end engineer (remote)](https://nango.dev/jobs)
-- Sep 13 - [Why people care about PostGIS and Postgres](https://pathtocituscon.transistor.fm/episodes/why-people-care-about-postgis-and-postgres-with-paul-ramsey-regina-obe/transcript)
+- Sep 13 - [Unity Engine to Godot Engine Exporter](https://github.com/Zylann/unity_to_godot_converter)
+- Sep 13 - [Hackers claim it only took a 10-minute phone call to shut down MGM Resorts](https://www.engadget.com/hackers-claim-it-only-took-a-10-minute-phone-call-to-shutdown-mgm-resorts-143147493.html)
+- Sep 13 - [Show HN: Lantern – a PostgreSQL vector database for building AI applications](https://docs.lantern.dev/blog/2023/09/13/hello-world)
+- Sep 13 - [The Uselessness of Phenylephrine (2022)](https://www.science.org/content/blog-post/uselessness-phenylephrine)
+- Sep 13 - [Amazon Ion Specification](https://amazon-ion.github.io/ion-docs/docs/spec.html)
 <!--END_SECTION:hn-->
 
 <!--
