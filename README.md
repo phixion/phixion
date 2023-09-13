@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 13 - [“This Is a Disaster:” Game Developers Scramble to Deal with Unity’s New Fees](https://www.404media.co/unity-new-fees-prices/)
-- Sep 13 - [70B Llama 2 at 35tokens/second on 4090](https://github.com/turboderp/exllamav2)
-- Sep 13 - [There are now two types of PayPal dollars, and one is better than the other](http://jpkoning.blogspot.com/2023/09/there-are-now-two-types-of-paypal.html)
-- Sep 13 - [S32 Unix Clock](https://www.da.vidbuchanan.co.uk/blog/unix-clock.html)
-- Sep 13 - [Any sufficiently advanced uninstaller is indistinguishable from malware](https://devblogs.microsoft.com/oldnewthing/20230911-00/?p=108749)
+- Sep 13 - [Trigger.dev (YC W23) Is Hiring a Senior Full Stack Engineer](https://trigger.dev/hiring)
+- Sep 13 - [Show HN: Deploying subdomain-based routing like github.io](https://github.com/xieyuheng/x-server)
+- Sep 13 - [Stable Audio: Fast Timing-Conditioned Latent Audio Diffusion](https://stability.ai/research/stable-audio-efficient-timing-latent-diffusion)
+- Sep 13 - [Road to NumPy 2.0](https://hackmd.io/@seberg/Bk5P9wJuj)
+- Sep 13 - [LÖVE: a framework to make 2D games in Lua](https://love2d.org/)
 <!--END_SECTION:hn-->
 
 <!--
