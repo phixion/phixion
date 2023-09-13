@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 13 - [Trigger.dev (YC W23) Is Hiring a Senior Full Stack Engineer](https://trigger.dev/hiring)
-- Sep 13 - [Show HN: Deploying subdomain-based routing like github.io](https://github.com/xieyuheng/x-server)
-- Sep 13 - [Stable Audio: Fast Timing-Conditioned Latent Audio Diffusion](https://stability.ai/research/stable-audio-efficient-timing-latent-diffusion)
-- Sep 13 - [Road to NumPy 2.0](https://hackmd.io/@seberg/Bk5P9wJuj)
-- Sep 13 - [LÖVE: a framework to make 2D games in Lua](https://love2d.org/)
+- Sep 13 - [A $500 DIY near-IR spectrometer that would sell for $10k](https://caoyuan.scripts.mit.edu/ir_spec.html)
+- Sep 13 - [Bitty Engine: A tiny powerful game engine](https://paladin-t.github.io/bitty/)
+- Sep 13 - [OpenBSD Webzine #14](https://webzine.puffy.cafe/issue-14.html)
+- Sep 13 - [Nango.dev (YC W23) is hiring a founding back end engineer (remote)](https://nango.dev/jobs)
+- Sep 13 - [Why people care about PostGIS and Postgres](https://pathtocituscon.transistor.fm/episodes/why-people-care-about-postgis-and-postgres-with-paul-ramsey-regina-obe/transcript)
 <!--END_SECTION:hn-->
 
 <!--
