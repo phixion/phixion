@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 14 - [How I stay reasonably anonymous online](https://tmp.bearblog.dev/how-i-stay-reasonably-anonymous-online/)
-- Sep 14 - [This Post Will Not Go Viral](https://www.houseofstrauss.com/p/this-post-will-not-go-viral)
-- Sep 14 - [Buy Cult of the Lamb now, cause we're deleting it on Jan first](https://twitter.com/cultofthelamb/status/1701715971663425897)
-- Sep 14 - [Threads: Meta’s Newest Social App](https://engineering.fb.com/2023/09/07/culture/threads-inside-story-metas-newest-social-app/)
-- Sep 14 - [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180)
+- Sep 14 - [On Writing (or not): Bad habits and why the voice in my head needs to shut up](https://bessstillman.substack.com/p/on-writing-or-not)
+- Sep 14 - [“perpetual motion” device is clever [video]](https://www.youtube.com/watch?v=r_LG8FDt51U)
+- Sep 14 - [Google hid evidence by training workers to avoid words monopolists use, DOJ says](https://arstechnica.com/tech-policy/2023/09/google-hid-evidence-by-training-workers-to-avoid-words-monopolists-use-doj-says/)
+- Sep 14 - [In a Git repository, where do your files live?](https://jvns.ca/blog/2023/09/14/in-a-git-repository--where-do-your-files-live-/)
+- Sep 14 - [High-Tech Cars Might Be More Trouble Than They’re Worth](https://www.scientificamerican.com/article/high-tech-cars-might-be-more-trouble-than-theyre-worth/)
 <!--END_SECTION:hn-->
 
 <!--
