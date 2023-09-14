@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 14 - [Early response to false claims in Wikipedia, 15 years later](https://firstmonday.org/ojs/index.php/fm/article/view/12912/11332)
+- Sep 14 - [The great American eye-exam scam (2019)](https://www.theatlantic.com/ideas/archive/2019/11/great-american-eye-exam-scam/602482/)
+- Sep 14 - [Mathematics of Hurricane Modeling and Forecasting (2008, ppt) [pdf]](https://www.mdc.edu/north/math/pdf/hurricanes-math.pdf)
 - Sep 14 - [Detecting SSH Tunnels (2017)](https://www.trisul.org/blog/detecting-ssh-tunnels/)
-- Sep 14 - [I paid for Sublime Text](https://github.com/kapitanluffy/i-shamefully-paid-for-sublime-text)
-- Sep 14 - [Game Development Post-Unity](https://www.computerenhance.com/p/game-development-post-unity)
+- Sep 13 - [Restoration of an IMSAI 8080](https://retrocmp.de/imsai/imsai_p01_restoration.htm)
 - Sep 13 - [Hutter Prize for compressing human knowledge](http://prize.hutter1.net/)
 <!--END_SECTION:hn-->
 
