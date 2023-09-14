@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 14 - [Firezone (YC W22) is hiring rust engineers to build secure networks](https://www.ycombinator.com/companies/firezone/jobs)
-- Sep 14 - [Ask HN: A network device that doesn't exist?](https://news.ycombinator.com/item?id=37507676)
-- Sep 14 - [Tech Workers Deserve a Union: An Interview with Ethan Marcotte](https://workerorganizing.org/tech-workers-deserve-a-union-6904/)
-- Sep 14 - [Linux Phones (2022)](https://madaidans-insecurities.github.io/linux-phones.html)
-- Sep 14 - [How to Build a IP Geolocation Database from Scratch?](https://ipapi.is/geolocation.html)
+- Sep 14 - [How I stay reasonably anonymous online](https://tmp.bearblog.dev/how-i-stay-reasonably-anonymous-online/)
+- Sep 14 - [This Post Will Not Go Viral](https://www.houseofstrauss.com/p/this-post-will-not-go-viral)
+- Sep 14 - [Buy Cult of the Lamb now, cause we're deleting it on Jan first](https://twitter.com/cultofthelamb/status/1701715971663425897)
+- Sep 14 - [Threads: Meta’s Newest Social App](https://engineering.fb.com/2023/09/07/culture/threads-inside-story-metas-newest-social-app/)
+- Sep 14 - [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180)
 <!--END_SECTION:hn-->
 
 <!--
