@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 13 - [Patrick Collison on solar](https://patrickcollison.com/solar)
+- Sep 14 - [Early response to false claims in Wikipedia, 15 years later](https://firstmonday.org/ojs/index.php/fm/article/view/12912/11332)
+- Sep 14 - [Detecting SSH Tunnels (2017)](https://www.trisul.org/blog/detecting-ssh-tunnels/)
+- Sep 14 - [I paid for Sublime Text](https://github.com/kapitanluffy/i-shamefully-paid-for-sublime-text)
+- Sep 14 - [Game Development Post-Unity](https://www.computerenhance.com/p/game-development-post-unity)
 - Sep 13 - [Hutter Prize for compressing human knowledge](http://prize.hutter1.net/)
-- Sep 13 - [Deforestation in the Amazon rainforest continues to decline](https://news.mongabay.com/2023/09/deforestation-in-the-amazon-rainforest-continues-to-plunge/)
-- Sep 13 - [Don’t mess with a genius (2010)](https://shreevatsa.wordpress.com/2010/06/04/dont-mess-with-a-genius/)
-- Sep 13 - [The stack monoid revisited](https://raphlinus.github.io/gpu/2021/05/13/stack-monoid-revisited.html)
 <!--END_SECTION:hn-->
 
 <!--
