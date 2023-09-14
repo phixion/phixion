@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 13 - [Unity Engine to Godot Engine Exporter](https://github.com/Zylann/unity_to_godot_converter)
-- Sep 13 - [Hackers claim it only took a 10-minute phone call to shut down MGM Resorts](https://www.engadget.com/hackers-claim-it-only-took-a-10-minute-phone-call-to-shutdown-mgm-resorts-143147493.html)
-- Sep 13 - [Show HN: Lantern – a PostgreSQL vector database for building AI applications](https://docs.lantern.dev/blog/2023/09/13/hello-world)
-- Sep 13 - [The Uselessness of Phenylephrine (2022)](https://www.science.org/content/blog-post/uselessness-phenylephrine)
-- Sep 13 - [Amazon Ion Specification](https://amazon-ion.github.io/ion-docs/docs/spec.html)
+- Sep 13 - [Patrick Collison on solar](https://patrickcollison.com/solar)
+- Sep 13 - [Hutter Prize for compressing human knowledge](http://prize.hutter1.net/)
+- Sep 13 - [Deforestation in the Amazon rainforest continues to decline](https://news.mongabay.com/2023/09/deforestation-in-the-amazon-rainforest-continues-to-plunge/)
+- Sep 13 - [Don’t mess with a genius (2010)](https://shreevatsa.wordpress.com/2010/06/04/dont-mess-with-a-genius/)
+- Sep 13 - [The stack monoid revisited](https://raphlinus.github.io/gpu/2021/05/13/stack-monoid-revisited.html)
 <!--END_SECTION:hn-->
 
 <!--
