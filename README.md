@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 15 - [TikTok fined €345M for breaking EU data law on children’s accounts](https://www.theguardian.com/technology/2023/sep/15/tiktok-fined-345m-for-breaking-eu-data-law-on-childrens-accounts)
-- Sep 15 - [UpCodes (YC S17) is hiring remote engineers across the Americas](https://up.codes/careers)
-- Sep 15 - [Show HN: I built a dataset of 25k+ Gumroad products to spot market opportunities](https://gumtrends.com)
-- Sep 15 - [‘Sea is constantly dumping bodies’: fears Libya flood death toll may hit 20k](https://www.theguardian.com/world/2023/sep/13/libya-flood-death-toll)
-- Sep 15 - [C++Builder 11 Community Edition](https://www.embarcadero.com/products/cbuilder/starter)
+- Sep 15 - [Artificial intelligence can revolutionise science](https://www.economist.com/leaders/2023/09/14/how-artificial-intelligence-can-revolutionise-science)
+- Sep 15 - [Repeat after me: building any new homes reduces housing costs for all](https://www.ft.com/content/86836af4-6b52-49e8-a8f0-8aec6181dbc5)
+- Sep 15 - [California lawmakers pass bill to make it easier to delete online personal data](https://www.latimes.com/politics/story/2023-09-14/california-bill-delete-online-personal-data)
+- Sep 15 - [Google to pay $93M in settlement over deceptive location tracking](https://www.theguardian.com/technology/2023/sep/14/google-location-tracking-data-settlement)
+- Sep 15 - [Harnad: The Symbol Grounding Problem (1990) [pdf]](https://www.cs.ox.ac.uk/activities/ieg/e-library/sources/harnad90_sgproblem.pdf)
 <!--END_SECTION:hn-->
 
 <!--
