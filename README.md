@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 15 - [5:01 And Done: No One Wants to Schmooze After Work](https://www.wsj.com/lifestyle/careers/work-happy-hours-office-culture-4c901cfb)
-- Sep 15 - [Claude and LLaMa get basic human anatomy wrong](https://hermitian.substack.com/p/claude-and-llama-get-basic-human)
-- Sep 15 - [Linear code is more readable](https://blog.separateconcerns.com/2023-09-11-linear-code.html)
-- Sep 15 - [A mathematical formalization of dimensional analysis](https://terrytao.wordpress.com/2012/12/29/a-mathematical-formalisation-of-dimensional-analysis/)
-- Sep 15 - [Cannabis use disorder and subsequent risk of depression and bipolar disorder](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2804862)
+- Sep 15 - [Eqtble (YC W21) Is Hiring a Data Analyst](https://www.ycombinator.com/companies/eqtble/jobs/bOX2JJp-junior-data-scientist)
+- Sep 15 - [Libsodium: A modern, portable, easy to use crypto library](https://github.com/jedisct1/libsodium)
+- Sep 15 - [United Auto Workers launches a historic strike against all Big 3 automakers](https://www.npr.org/2023/09/15/1199673197/uaw-strike-big-3-automakers)
+- Sep 15 - [Show HN: I built an app that lets you create and chat with 3D AI characters](https://www.heyastrocyte.com/)
+- Sep 15 - [Human trials of artificial wombs could start soon. Here’s what you need to know](https://www.nature.com/articles/d41586-023-02901-1)
 <!--END_SECTION:hn-->
 
 <!--
