@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 15 - [Eqtble (YC W21) Is Hiring a Data Analyst](https://www.ycombinator.com/companies/eqtble/jobs/bOX2JJp-junior-data-scientist)
-- Sep 15 - [Libsodium: A modern, portable, easy to use crypto library](https://github.com/jedisct1/libsodium)
-- Sep 15 - [United Auto Workers launches a historic strike against all Big 3 automakers](https://www.npr.org/2023/09/15/1199673197/uaw-strike-big-3-automakers)
-- Sep 15 - [Show HN: I built an app that lets you create and chat with 3D AI characters](https://www.heyastrocyte.com/)
-- Sep 15 - [Human trials of artificial wombs could start soon. Here’s what you need to know](https://www.nature.com/articles/d41586-023-02901-1)
+- Sep 15 - [TikTok fined €345M for breaking EU data law on children’s accounts](https://www.theguardian.com/technology/2023/sep/15/tiktok-fined-345m-for-breaking-eu-data-law-on-childrens-accounts)
+- Sep 15 - [UpCodes (YC S17) is hiring remote engineers across the Americas](https://up.codes/careers)
+- Sep 15 - [Show HN: I built a dataset of 25k+ Gumroad products to spot market opportunities](https://gumtrends.com)
+- Sep 15 - [‘Sea is constantly dumping bodies’: fears Libya flood death toll may hit 20k](https://www.theguardian.com/world/2023/sep/13/libya-flood-death-toll)
+- Sep 15 - [C++Builder 11 Community Edition](https://www.embarcadero.com/products/cbuilder/starter)
 <!--END_SECTION:hn-->
 
 <!--
