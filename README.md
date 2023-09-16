@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 15 - [Where did the Carter White House's solar panels go? (2010)](https://www.scientificamerican.com/article/carter-white-house-solar-panel-array/)
-- Sep 15 - [“Most notorious” illegal shadow library (LibGen) sued by textbook publishers](https://arstechnica.com/tech-policy/2023/09/most-notorious-illegal-shadow-library-sued-by-textbook-publishers/)
-- Sep 15 - [MDMA-assisted therapy for PTSD: A randomized, placebo-controlled phase 3 trial](https://www.nature.com/articles/s41591-023-02565-4)
-- Sep 15 - [“Inverse vaccine” shows potential to treat MS and other autoimmune diseases](https://pme.uchicago.edu/news/inverse-vaccine-shows-potential-treat-multiple-sclerosis-and-other-autoimmune-diseases)
-- Sep 15 - [Everyday uses for PVC water pipe](https://tomtilley.net/projects/pvc/)
+- Sep 16 - [Subdomain.center – discover all subdomains for a domain](https://www.subdomain.center/)
+- Sep 16 - [The Suspicion Machine](https://www.wired.com/story/welfare-state-algorithms/)
+- Sep 16 - [enron :: discover the power of WHY (2001)](https://enroncorp.com/corp/index.html)
+- Sep 16 - [Faster Than Llama 2: DeciLM LLM with Variable GQA](https://deci.ai/blog/decilm-15-times-faster-than-llama2-nas-generated-llm-with-variable-gqa/)
+- Sep 15 - [Rule for Beneficial Ownership Reporting (2022)](https://www.fincen.gov/news/news-releases/fincen-issues-final-rule-beneficial-ownership-reporting-support-law-enforcement)
 <!--END_SECTION:hn-->
 
 <!--
