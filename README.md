@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 16 - [Subdomain.center – discover all subdomains for a domain](https://www.subdomain.center/)
-- Sep 16 - [The Suspicion Machine](https://www.wired.com/story/welfare-state-algorithms/)
-- Sep 16 - [enron :: discover the power of WHY (2001)](https://enroncorp.com/corp/index.html)
-- Sep 16 - [Faster Than Llama 2: DeciLM LLM with Variable GQA](https://deci.ai/blog/decilm-15-times-faster-than-llama2-nas-generated-llm-with-variable-gqa/)
-- Sep 15 - [Rule for Beneficial Ownership Reporting (2022)](https://www.fincen.gov/news/news-releases/fincen-issues-final-rule-beneficial-ownership-reporting-support-law-enforcement)
+- Sep 16 - [Converge (YC S23) is hiring a founding product engineer](https://www.ycombinator.com/companies/converge/jobs/vc4Nbeh-founding-product-engineer)
+- Sep 16 - [Pongs](https://pippinbarr.com/pongs/info/)
+- Sep 16 - [How Instagram scaled to 14 million users with only 3 engineers](https://engineercodex.substack.com/p/how-instagram-scaled-to-14-million)
+- Sep 16 - [Relational is more than SQL](https://fauna.com/blog/relational-is-more-than-sql)
+- Sep 16 - [The Meaning of Liberalism (1938)](https://www.roberthjackson.org/speech-and-writing/the-meaning-of-liberalism/)
 <!--END_SECTION:hn-->
 
 <!--
