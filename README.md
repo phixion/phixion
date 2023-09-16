@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 15 - [Ex-Finance developers mock McKinsey's dev productivity metrics](https://www.efinancialcareers.com/news/2023/09/mckinsey-how-to-measure-software-developer-productivity)
-- Sep 15 - [Kopia: Open-Source, Fast and Secure Open-Source Backup Software](https://kopia.io/)
-- Sep 15 - [Loops (YC W22) Is Hiring a Remote Front-End Engineer](https://www.ycombinator.com/companies/loops/jobs/R5lUQcn-front-end-engineer)
-- Sep 15 - [Why my favourite API is a zipfile on the European Central Bank's website](https://csvbase.com/blog/5)
-- Sep 15 - [Optimizing LLMs from a Dataset Perspective](https://sebastianraschka.com/blog/2023/optimizing-LLMs-dataset-perspective.html)
+- Sep 15 - [Where did the Carter White House's solar panels go? (2010)](https://www.scientificamerican.com/article/carter-white-house-solar-panel-array/)
+- Sep 15 - [“Most notorious” illegal shadow library (LibGen) sued by textbook publishers](https://arstechnica.com/tech-policy/2023/09/most-notorious-illegal-shadow-library-sued-by-textbook-publishers/)
+- Sep 15 - [MDMA-assisted therapy for PTSD: A randomized, placebo-controlled phase 3 trial](https://www.nature.com/articles/s41591-023-02565-4)
+- Sep 15 - [“Inverse vaccine” shows potential to treat MS and other autoimmune diseases](https://pme.uchicago.edu/news/inverse-vaccine-shows-potential-treat-multiple-sclerosis-and-other-autoimmune-diseases)
+- Sep 15 - [Everyday uses for PVC water pipe](https://tomtilley.net/projects/pvc/)
 <!--END_SECTION:hn-->
 
 <!--
