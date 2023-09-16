@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 16 - [Converge (YC S23) is hiring a founding product engineer](https://www.ycombinator.com/companies/converge/jobs/vc4Nbeh-founding-product-engineer)
-- Sep 16 - [Pongs](https://pippinbarr.com/pongs/info/)
-- Sep 16 - [How Instagram scaled to 14 million users with only 3 engineers](https://engineercodex.substack.com/p/how-instagram-scaled-to-14-million)
-- Sep 16 - [Relational is more than SQL](https://fauna.com/blog/relational-is-more-than-sql)
-- Sep 16 - [The Meaning of Liberalism (1938)](https://www.roberthjackson.org/speech-and-writing/the-meaning-of-liberalism/)
+- Sep 16 - [Ploomber (YC W22) Is Hiring Software Engineers](https://www.ycombinator.com/companies/ploomber/jobs)
+- Sep 16 - [Habits of top engineers](https://engineercodex.substack.com/p/7-simple-habits-of-the-top-1-of-engineers)
+- Sep 16 - [BtrBlocks: Efficient Columnar Compression for Data Lakes [pdf]](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/btrblocks.pdf)
+- Sep 16 - [Show HN: exaequOS - a new OS running in a web browser](https://www.exaequos.com)
+- Sep 16 - [Percy Ludgate](https://en.wikipedia.org/wiki/Percy_Ludgate)
 <!--END_SECTION:hn-->
 
 <!--
