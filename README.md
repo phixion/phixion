@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 17 - [What Silicon Valley “Gets” about Software Engineers](https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/)
-- Sep 17 - [A High Throughput B+tree for SIMD Architectures (2020) [pdf]](https://www.ece.lsu.edu/lpeng/papers/tpds-20-1.pdf)
-- Sep 17 - [Are the Longevity Benefits of Acarbose Rooted in Its Role on the Gut Microbiota?](https://gethealthspan.com/blog/articles/acarbose-longevity-benefits-gut-microbiota/n3jokanbseg1f1apq7wt3/)
-- Sep 17 - [Americas richest 10% is responsible for 40% of its planet heating pollution](https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000190)
-- Sep 17 - [A look at Apple’s new Transformer-powered predictive text model](https://jackcook.com/2023/09/08/predictive-text.html)
+- Sep 17 - [A trip to the dried-up Kakhovka Reservoir](https://www.spiegel.de/international/world/russia-s-scorched-earth-policy-in-ukraine-a-trip-to-the-dried-up-kakhovka-reservoir-a-992aef1d-f4a7-4fbf-84a2-74c5d93b6566)
+- Sep 17 - [Unity's Trap](https://www.pentadact.com/2023-09-16-unitys-trap/)
+- Sep 17 - [New York Times Doesn’t Want Its Stories Archived](https://theintercept.com/2023/09/17/new-york-times-website-internet-archive/)
+- Sep 17 - [CVE-2022-32947: I hacked macOS](https://asahilina.net/agx-exploit/)
+- Sep 17 - [Fireball over Iceland](https://apod.nasa.gov/apod/ap230916.html)
 <!--END_SECTION:hn-->
 
 <!--
