@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 17 - [A trip to the dried-up Kakhovka Reservoir](https://www.spiegel.de/international/world/russia-s-scorched-earth-policy-in-ukraine-a-trip-to-the-dried-up-kakhovka-reservoir-a-992aef1d-f4a7-4fbf-84a2-74c5d93b6566)
-- Sep 17 - [Unity's Trap](https://www.pentadact.com/2023-09-16-unitys-trap/)
-- Sep 17 - [New York Times Doesn’t Want Its Stories Archived](https://theintercept.com/2023/09/17/new-york-times-website-internet-archive/)
-- Sep 17 - [CVE-2022-32947: I hacked macOS](https://asahilina.net/agx-exploit/)
-- Sep 17 - [Fireball over Iceland](https://apod.nasa.gov/apod/ap230916.html)
+- Sep 17 - [DeepMind cofounder: Generative AI is just a phase. What’s next is interactive AI](https://www.technologyreview.com/2023/09/15/1079624/deepmind-inflection-generative-ai-whats-next-mustafa-suleyman/)
+- Sep 17 - [More writers sue OpenAI for copyright infringement over AI training](https://www.reuters.com/technology/more-writers-sue-openai-copyright-infringement-over-ai-training-2023-09-11/)
+- Sep 17 - [Close to 2k environmental activists killed over last decade](https://e360.yale.edu/digest/environmental-defenders-murdered-2022)
+- Sep 17 - [Comp.lang.c is now full of spam](https://groups.google.com/g/comp.lang.c)
+- Sep 17 - [Changing the Rules of Rust](https://without.boats/blog/changing-the-rules-of-rust/)
 <!--END_SECTION:hn-->
 
 <!--
