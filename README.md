@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 17 - [Pirates of the Caribbean (Metric Edition) (2017)](https://www.nist.gov/blogs/taking-measure/pirates-caribbean-metric-edition)
-- Sep 17 - [Gym Class VR (YC W22) Is Hiring a Lead Back End Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-backend-engineer)
-- Sep 17 - [Spellburst: LLM–Powered Interactive Canvas](https://arxiv.org/abs/2308.03921)
-- Sep 16 - [AMD’s Phoenix SoC](https://chipsandcheese.com/2023/09/16/hot-chips-2023-amds-phoenix-soc/)
-- Sep 16 - [“I want to use this tactically vs. GOOG/AAPL” (2022)](https://twitter.com/TechEmails/status/1703172745893404913)
+- Sep 17 - [What Silicon Valley “Gets” about Software Engineers](https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/)
+- Sep 17 - [A High Throughput B+tree for SIMD Architectures (2020) [pdf]](https://www.ece.lsu.edu/lpeng/papers/tpds-20-1.pdf)
+- Sep 17 - [Are the Longevity Benefits of Acarbose Rooted in Its Role on the Gut Microbiota?](https://gethealthspan.com/blog/articles/acarbose-longevity-benefits-gut-microbiota/n3jokanbseg1f1apq7wt3/)
+- Sep 17 - [Americas richest 10% is responsible for 40% of its planet heating pollution](https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000190)
+- Sep 17 - [A look at Apple’s new Transformer-powered predictive text model](https://jackcook.com/2023/09/08/predictive-text.html)
 <!--END_SECTION:hn-->
 
 <!--
