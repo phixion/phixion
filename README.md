@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 16 - [Running one’s own root Certificate Authority in 2023](https://wejn.org/2023/09/running-ones-own-root-certificate-authority-in-2023/)
-- Sep 16 - [Cache line alignment in C++ – How it makes your program faster](https://ryonaldteofilo.medium.com/cache-line-alignment-in-c-1aac85e4482f)
-- Sep 16 - [Don't be afraid to be wrong](https://nlopes.dev/writing/dont-be-afraid-to-be-wrong)
-- Sep 16 - [Epistemological problem of emergence in complex systems (2018) [pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6207336/pdf/pone.0206489.pdf)
-- Sep 16 - [Single-bladed floating wind turbine promises half the cost, more power](https://newatlas.com/energy/touchwind-floating-wind-turbine/)
+- Sep 17 - [Spellburst: LLM–Powered Interactive Canvas](https://arxiv.org/abs/2308.03921)
+- Sep 16 - [Hot Chips 2023: AMD’s Phoenix SoC](https://chipsandcheese.com/2023/09/16/hot-chips-2023-amds-phoenix-soc/)
+- Sep 16 - [Satya Nadella: “I want to use this tactically vs. GOOG/AAPL” (2022)](https://twitter.com/TechEmails/status/1703172745893404913)
+- Sep 16 - [America's advanced manufacturing problem and how to fix it](https://americanaffairsjournal.org/2023/08/americas-advanced-manufacturing-problem-and-how-to-fix-it/)
+- Sep 16 - [Adobe will charge “credits” for generative AI](https://helpx.adobe.com/firefly/using/generative-credits-faq.html)
 <!--END_SECTION:hn-->
 
 <!--
