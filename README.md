@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 17 - [DeepMind cofounder: Generative AI is just a phase. What’s next is interactive AI](https://www.technologyreview.com/2023/09/15/1079624/deepmind-inflection-generative-ai-whats-next-mustafa-suleyman/)
-- Sep 17 - [More writers sue OpenAI for copyright infringement over AI training](https://www.reuters.com/technology/more-writers-sue-openai-copyright-infringement-over-ai-training-2023-09-11/)
-- Sep 17 - [Close to 2k environmental activists killed over last decade](https://e360.yale.edu/digest/environmental-defenders-murdered-2022)
-- Sep 17 - [Comp.lang.c is now full of spam](https://groups.google.com/g/comp.lang.c)
-- Sep 17 - [Changing the Rules of Rust](https://without.boats/blog/changing-the-rules-of-rust/)
+- Sep 17 - [Running Linux on Xilinx / AMD FPGA Softcore Example Design](https://www.hackster.io/adam-taylor/embedded-linux-on-microblaze-1a7573)
+- Sep 17 - [Lead Toxicity from Ayurvedic Medicines](https://www.cmaj.ca/content/195/30/E1010)
+- Sep 17 - [Planet Wreckers: 20 countries' oil and gas plans risk locking in climate chaos [pdf]](https://priceofoil.org/content/uploads/2023/09/OCI-Planet-Wreckers-Report-Final.pdf)
+- Sep 17 - [NASA's OSIRIS-REx asteroid sample return to Earth: Live updates](https://www.space.com/news/live/nasa-osiris-rex-asteroid-bennu-sample-return-updates)
+- Sep 17 - [LaTeX for tabletop](https://vladar.bearblog.dev/latex-for-tabletop/)
 <!--END_SECTION:hn-->
 
 <!--
