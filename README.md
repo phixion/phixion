@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 17 - [Running Linux on Xilinx / AMD FPGA Softcore Example Design](https://www.hackster.io/adam-taylor/embedded-linux-on-microblaze-1a7573)
-- Sep 17 - [Lead Toxicity from Ayurvedic Medicines](https://www.cmaj.ca/content/195/30/E1010)
-- Sep 17 - [Planet Wreckers: 20 countries' oil and gas plans risk locking in climate chaos [pdf]](https://priceofoil.org/content/uploads/2023/09/OCI-Planet-Wreckers-Report-Final.pdf)
-- Sep 17 - [NASA's OSIRIS-REx asteroid sample return to Earth: Live updates](https://www.space.com/news/live/nasa-osiris-rex-asteroid-bennu-sample-return-updates)
-- Sep 17 - [LaTeX for tabletop](https://vladar.bearblog.dev/latex-for-tabletop/)
+- Sep 17 - [Unity: We Have Heard You](https://twitter.com/unity/status/1703547752205218265?s=46&t=7KCNnmJt82xcCKEkZnoUTQ)
+- Sep 17 - [AWS IPv4 Estate Now Worth $4.5B](https://toonk.io/index.html)
+- Sep 17 - [Hush – Noiseless Browsing for Safari](https://oblador.github.io/hush/)
+- Sep 17 - [Large Language Models for Compiler Optimization](https://arxiv.org/abs/2309.07062)
+- Sep 17 - [Homebrew Website Club](https://indieweb.org/Homebrew_Website_Club)
 <!--END_SECTION:hn-->
 
 <!--
