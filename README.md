@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 18 - [Introduction to Immutable Linux Systems](https://dataswamp.org/~solene/2023-07-12-intro-to-immutable-os.html)
-- Sep 18 - [LAUSD to purchase 180 electric school buses](https://www.dailynews.com/2023/05/02/lausd-to-purchase-180-electric-school-buses/)
-- Sep 18 - [How much garden you would need to survive on](https://lifehacker.com/how-much-garden-you-would-need-to-100-survive-on-1848829190)
-- Sep 18 - [So let’s talk about this Wayland thing](https://pointieststick.com/2023/09/17/so-lets-talk-about-this-wayland-thing/)
-- Sep 18 - [Plants don’t have ears. But they can still detect sound](https://www.economist.com/science-and-technology/2023/09/06/plants-dont-have-ears-but-they-can-still-detect-sound)
+- Sep 18 - [Apple CEO Tim Cook on creating a clean energy future](https://www.cbsnews.com/news/apple-ceo-tim-cook-on-creating-a-clean-energy-future/)
+- Sep 18 - [Pollution in 1/8](https://labs.ripe.net/author/franz/pollution-in-18/)
+- Sep 18 - [Starlink quietly lost over $250M in burned satellites this summer](https://tiblur.com/post/462038779695576304265368)
+- Sep 18 - [iPhone 15 Pro facts and estimates](https://leancrew.com/all-this/2023/09/iphone-15-pro-facts-and-estimates/)
+- Sep 18 - [How FoundationDB works and why it works (2021)](https://blog.the-pans.com/notes-on-the-foundationdb-paper/)
 <!--END_SECTION:hn-->
 
 <!--
