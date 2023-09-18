@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 18 - [Y Combinator Podcast #4: Sam Altman Interviews Elon Musk](https://www.ycombinator.com/blog/elon-musk-on-how-to-build-the-future/)
-- Sep 18 - [California's Delete Act will make erasing consumers' data easier](https://www.techspot.com/news/100180-california-delete-act-make-erasing-consumers-data-easier.html)
-- Sep 18 - [Creators of Argo CD Release New OSS Project Kargo for Next Gen Gitops](https://akuity.io/blog/introducing-kargo/)
-- Sep 18 - [38TB of data accidentally exposed by Microsoft AI researchers](https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers)
-- Sep 18 - [US gov seeking comments on DCAT-US Schema v3.0](https://github.com/DOI-DO/dcat-us)
+- Sep 18 - [Apple TV, now with more Tailscale](https://tailscale.com/blog/apple-tv/)
+- Sep 18 - [Trunk-based development vs. long-lived feature branches](https://ardalis.com/trunk-based-development-vs-long-lived-feature-branches/)
+- Sep 18 - [A Bus Driver Killed a Man, the City Blamed Tech](https://www.theindustry.pw/p/cruise-sf-fire-chief)
+- Sep 18 - [Comparing Datadog and New Relic's support for OpenTelemetry data](https://signoz.io/blog/is-opentelemetry-a-first-class-citizen-in-your-dashboard-a-datadog-and-newrelic-comparison/)
+- Sep 18 - [Paint on Windows is getting layers and transparency support](https://blogs.windows.com/windows-insider/2023/09/18/paint-app-update-adding-support-for-layers-and-transparency-begins-rolling-out-to-windows-insiders/)
 <!--END_SECTION:hn-->
 
 <!--
