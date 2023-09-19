@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 18 - [Apple TV, now with more Tailscale](https://tailscale.com/blog/apple-tv/)
-- Sep 18 - [Trunk-based development vs. long-lived feature branches](https://ardalis.com/trunk-based-development-vs-long-lived-feature-branches/)
-- Sep 18 - [A Bus Driver Killed a Man, the City Blamed Tech](https://www.theindustry.pw/p/cruise-sf-fire-chief)
-- Sep 18 - [Comparing Datadog and New Relic's support for OpenTelemetry data](https://signoz.io/blog/is-opentelemetry-a-first-class-citizen-in-your-dashboard-a-datadog-and-newrelic-comparison/)
-- Sep 18 - [Paint on Windows is getting layers and transparency support](https://blogs.windows.com/windows-insider/2023/09/18/paint-app-update-adding-support-for-layers-and-transparency-begins-rolling-out-to-windows-insiders/)
+- Sep 18 - [U.S. National Debt Tops $33T for First Time](https://www.nytimes.com/2023/09/18/us/politics/us-national-debt.html)
+- Sep 18 - [Tests find many popular omega 3 supplements are rancid](https://medicalxpress.com/news/2023-09-popular-omega-supplements-rancid.html)
+- Sep 18 - [Striking auto workers want a 40% pay increase–the same rate their CEOs’ pay grew](https://www.cnbc.com/2023/09/15/striking-uaw-auto-workers-want-a-40percent-pay-increase-how-much-they-make-now.html)
+- Sep 18 - [Some new snippets from the Snowden documents](https://www.electrospaces.net/2023/09/some-new-snippets-from-snowden-documents.html)
+- Sep 18 - [FTC warns pharma companies about sham patent listings designed to delay generics](https://www.techdirt.com/2023/09/18/ftc-warns-pharma-companies-that-it-may-go-after-them-for-sham-patent-listings-designed-to-delay-generic-competitors/)
 <!--END_SECTION:hn-->
 
 <!--
