@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 19 - [Forty years of GNU and the free software movement](https://www.fsf.org/news/forty-years-of-gnu-and-the-free-software-movement)
-- Sep 19 - [OSS Game Engines are increasing their stars on GitHub due to Unity's missteps](https://twitter.com/OSSInsight/status/1703087927763542305)
-- Sep 19 - [Georgism](https://en.wikipedia.org/wiki/Georgism)
-- Sep 19 - [Seeking help to preserve WWII database on Windows 98](https://twitter.com/mtruslowstorey/status/1703781076689121556?s=46&t=E3U2EI7EXIhlBQmxg6oZ2g)
-- Sep 19 - [Tackling the curse of dimensionality with physics-informed neural networks](https://arxiv.org/abs/2307.12306)
+- Sep 19 - [VCMI: Open-Source Engine for Heroes of Might and Magic III](https://vcmi.eu)
+- Sep 19 - [Web Apps Are Better Than No Apps](https://molodtsov.me/2023/08/web-apps-are-better-than-no-apps/)
+- Sep 19 - [Safety Gate: the EU rapid alert system for dangerous non-food products](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10009444)
+- Sep 19 - [Gitlab Critical Security Release: 16.3.4 and 16.2.7](https://about.gitlab.com/releases/2023/09/18/security-release-gitlab-16-3-4-released/)
+- Sep 19 - [I digitalized Berlin's registration form](https://nicolasbouliane.com/projects/anmeldung-form-filler)
 <!--END_SECTION:hn-->
 
 <!--
