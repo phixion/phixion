@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 18 - [U.S. National Debt Tops $33T for First Time](https://www.nytimes.com/2023/09/18/us/politics/us-national-debt.html)
-- Sep 18 - [Tests find many popular omega 3 supplements are rancid](https://medicalxpress.com/news/2023-09-popular-omega-supplements-rancid.html)
-- Sep 18 - [Striking auto workers want a 40% pay increase–the same rate their CEOs’ pay grew](https://www.cnbc.com/2023/09/15/striking-uaw-auto-workers-want-a-40percent-pay-increase-how-much-they-make-now.html)
-- Sep 18 - [Some new snippets from the Snowden documents](https://www.electrospaces.net/2023/09/some-new-snippets-from-snowden-documents.html)
-- Sep 18 - [FTC warns pharma companies about sham patent listings designed to delay generics](https://www.techdirt.com/2023/09/18/ftc-warns-pharma-companies-that-it-may-go-after-them-for-sham-patent-listings-designed-to-delay-generic-competitors/)
+- Sep 19 - [Tackling the Curse of Dimensionality with Physics-Informed Neural Networks](https://arxiv.org/abs/2307.12306)
+- Sep 19 - [Your WiFi Can See You](https://mrereports.substack.com/p/your-wifi-can-see-you)
+- Sep 19 - [George Orwell Complete Works](http://www.george-orwell.org/)
+- Sep 19 - [The High Cost of Free Parking](https://en.wikipedia.org/wiki/The_High_Cost_of_Free_Parking)
+- Sep 19 - [Mythbusters: Wing Commander I Edition](https://www.wcnews.com/news/update/16279)
 <!--END_SECTION:hn-->
 
 <!--
