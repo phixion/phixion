@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 19 - [Tackling the Curse of Dimensionality with Physics-Informed Neural Networks](https://arxiv.org/abs/2307.12306)
-- Sep 19 - [Your WiFi Can See You](https://mrereports.substack.com/p/your-wifi-can-see-you)
-- Sep 19 - [George Orwell Complete Works](http://www.george-orwell.org/)
-- Sep 19 - [The High Cost of Free Parking](https://en.wikipedia.org/wiki/The_High_Cost_of_Free_Parking)
-- Sep 19 - [Mythbusters: Wing Commander I Edition](https://www.wcnews.com/news/update/16279)
+- Sep 19 - [Forty years of GNU and the free software movement](https://www.fsf.org/news/forty-years-of-gnu-and-the-free-software-movement)
+- Sep 19 - [OSS Game Engines are increasing their stars on GitHub due to Unity's missteps](https://twitter.com/OSSInsight/status/1703087927763542305)
+- Sep 19 - [Georgism](https://en.wikipedia.org/wiki/Georgism)
+- Sep 19 - [Seeking help to preserve WWII database on Windows 98](https://twitter.com/mtruslowstorey/status/1703781076689121556?s=46&t=E3U2EI7EXIhlBQmxg6oZ2g)
+- Sep 19 - [Tackling the curse of dimensionality with physics-informed neural networks](https://arxiv.org/abs/2307.12306)
 <!--END_SECTION:hn-->
 
 <!--
