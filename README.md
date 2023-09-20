@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 20 - [Stellar Sleep (YC S23) Is Hiring a Senior/ Staff SWE in San Francisco](https://www.ycombinator.com/companies/stellar-sleep/jobs/Ubd4rCS-senior-staff-software-engineer)
-- Sep 20 - [Google Settles Account Settings Lawsuit Less Than One Week After Being Filed [pdf]](https://oag.ca.gov/system/files/attachments/press-docs/Filed%20stamped%20Google%20Complaint.pdf)
-- Sep 20 - [Algorithm-assisted discovery of an intrinsic order among mathematical constants](https://fermatslibrary.com/s/algorithm-assisted-discovery-of-an-intrinsic-order-among-mathematical-constants)
-- Sep 20 - [OpenTofu](https://github.com/opentofu)
-- Sep 20 - [SillycoValley: Write Code, Build Your Startup](https://sillycovalley.com/?myscore)
+- Sep 20 - [Why We're Pulling Our Recommendation of Wyze Security Cameras](https://www.nytimes.com/wirecutter/blog/wyze-security-breach/)
+- Sep 20 - [Streaming Databases: Everything You Wanted to Know](https://www.risingwave.com/blog/streaming-databases-everything-you-wanted-to-know/)
+- Sep 20 - [Cancer expert gets experimental treatment for incurable tumour,phenomenal result](https://www.abc.net.au/news/2023-09-20/melanoma-richard-scolyer-georgina-long-early-results/102879818)
+- Sep 20 - [Car allergic to vanilla ice cream](http://www.cs.cmu.edu/~wkw/humour/carproblems.txt)
+- Sep 20 - [Svelte 5: Runes](https://svelte.dev/blog/runes)
 <!--END_SECTION:hn-->
 
 <!--
