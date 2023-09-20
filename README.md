@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 19 - [Circles Do Not Exist](https://nibblestew.blogspot.com/2023/09/circles-do-not-exist.html)
-- Sep 19 - [Apache Pinot 1.0](https://pinot.apache.org/blog/2023/09/19/Annoucing-Apache-Pinot-1-0/)
-- Sep 19 - [Show HN: I'm building a tool to practice numbers in Arabic](https://arabic-numbers.koljapluemer.com/)
-- Sep 19 - [Simple Open-Source Java Virtual Machine in C](https://github.com/phillbush/jvm)
-- Sep 19 - [Fixing for Loops in Go 1.22](https://go.dev/blog/loopvar-preview)
+- Sep 19 - [Writing Is Objectively Superior to Speaking as a Communication Method](https://koshka.love/babel/writing-superior-to-speaking.html)
+- Sep 19 - [Webring Technology](https://brisray.com/web/webring-tech.htm)
+- Sep 19 - [The Genius Bar in a country where iPhones can’t legally be sold](https://restofworld.org/2023/underground-apple-techs-cuba/)
+- Sep 19 - [Can’t send email more than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles)
+- Sep 19 - [Emerge (YC W21) is hiring a lead front end engineer (remote, small team)](https://www.workatastartup.com/jobs/61922/)
 <!--END_SECTION:hn-->
 
 <!--
