@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 20 - [Why We're Pulling Our Recommendation of Wyze Security Cameras](https://www.nytimes.com/wirecutter/blog/wyze-security-breach/)
-- Sep 20 - [Streaming Databases: Everything You Wanted to Know](https://www.risingwave.com/blog/streaming-databases-everything-you-wanted-to-know/)
-- Sep 20 - [Cancer expert gets experimental treatment for incurable tumour,phenomenal result](https://www.abc.net.au/news/2023-09-20/melanoma-richard-scolyer-georgina-long-early-results/102879818)
-- Sep 20 - [Car allergic to vanilla ice cream](http://www.cs.cmu.edu/~wkw/humour/carproblems.txt)
-- Sep 20 - [Svelte 5: Runes](https://svelte.dev/blog/runes)
+- Sep 20 - [Harlequin.sh DuckDB IDE for your terminal](https://harlequin.sh/)
+- Sep 20 - [Generative AI's Act Two](https://www.sequoiacap.com/article/generative-ai-act-two/)
+- Sep 20 - [Show HN: Sheet Music Management App](https://github.com/Airsequel/Airsequel-Sheet-Music)
+- Sep 20 - [Ex-congressman convicted of insider trading before T-Mobile merger with Sprint](https://www.nbcnews.com/politics/politics-news/ex-lawmaker-convicted-insider-trading-t-mobile-merger-rcna74463)
+- Sep 20 - [Archaeologists discover world’s oldest wooden structure](https://news.liverpool.ac.uk/2023/09/20/archaeologists-discover-worlds-oldest-wooden-structure/)
 <!--END_SECTION:hn-->
 
 <!--
