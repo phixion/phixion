@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 19 - [Writing Is Objectively Superior to Speaking as a Communication Method](https://koshka.love/babel/writing-superior-to-speaking.html)
-- Sep 19 - [Webring Technology](https://brisray.com/web/webring-tech.htm)
-- Sep 19 - [The Genius Bar in a country where iPhones can’t legally be sold](https://restofworld.org/2023/underground-apple-techs-cuba/)
-- Sep 19 - [Can’t send email more than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles)
-- Sep 19 - [Emerge (YC W21) is hiring a lead front end engineer (remote, small team)](https://www.workatastartup.com/jobs/61922/)
+- Sep 20 - [Add extra stuff to a “standard” encoding? Sure, why not](https://rachelbythebay.com/w/2023/09/19/badlib/)
+- Sep 20 - [100 Parking Tickets (2004)](https://100parkingtickets.com/)
+- Sep 20 - [Ruby 3.3's YJIT Runs Shopify's Production Code 15% Faster](https://railsatscale.com/2023-09-18-ruby-3-3-s-yjit-runs-shopify-s-production-code-15-faster/)
+- Sep 20 - [A simple web server written in Awk](https://github.com/crossbowerbt/awk-webserver)
+- Sep 20 - [Etleap (YC W13) Is Hiring a Software Engineer (London – OR – San Francisco)](https://etleap.com/careers/software-engineer/)
 <!--END_SECTION:hn-->
 
 <!--
