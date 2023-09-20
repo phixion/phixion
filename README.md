@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 20 - [Add extra stuff to a “standard” encoding? Sure, why not](https://rachelbythebay.com/w/2023/09/19/badlib/)
-- Sep 20 - [100 Parking Tickets (2004)](https://100parkingtickets.com/)
-- Sep 20 - [Ruby 3.3's YJIT Runs Shopify's Production Code 15% Faster](https://railsatscale.com/2023-09-18-ruby-3-3-s-yjit-runs-shopify-s-production-code-15-faster/)
-- Sep 20 - [A simple web server written in Awk](https://github.com/crossbowerbt/awk-webserver)
-- Sep 20 - [Etleap (YC W13) Is Hiring a Software Engineer (London – OR – San Francisco)](https://etleap.com/careers/software-engineer/)
+- Sep 20 - [‘Less than half’ fresh produce sold globally makes any profit](https://www.fruitnet.com/main-navigation/less-than-half-fresh-produce-sold-globally-makes-any-profit/256025.article)
+- Sep 20 - [OpenTF renames itself to OpenTofu](https://github.com/opentofu)
+- Sep 20 - [SillycoValley: Write Code, Build Your Startup](https://sillycovalley.com/?myscore)
+- Sep 20 - [Aldous Huxley's Deep Reflection](https://thereader.mitpress.mit.edu/aldous-huxleys-deep-reflection/)
+- Sep 20 - [First automatic JPEG-XL cloud service](https://www.gumlet.com/blog/jpeg-xl/)
 <!--END_SECTION:hn-->
 
 <!--
