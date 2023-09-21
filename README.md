@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 20 - [Median Household Income After Taxes Fell 8.8% in 2022](https://www.census.gov/library/stories/2023/09/median-household-income.html)
-- Sep 20 - [Meticulous: An FPGA-Based Main Memory Emulator for System Software Studies](https://arxiv.org/abs/2309.06565)
-- Sep 20 - [OpenTofu](https://opentofu.org/)
-- Sep 20 - [Alameda lost tens of millions because of a fat fingering mistake](https://www.adityabaradwaj.com/part-2-the-fat-finger/)
-- Sep 20 - [Harlequin: DuckDB IDE for the terminal](https://harlequin.sh/)
+- Sep 21 - [Organic Maps: An Open-Source Maps App That Doesn't Suck](https://hardfault.life/p/organic-maps-review)
+- Sep 21 - [The UK Parliament Undermined the Privacy, Security, and Freedom of All Internet](https://www.eff.org/deeplinks/2023/09/today-uk-parliament-undermined-privacy-security-and-freedom-all-internet-users)
+- Sep 21 - [My fast JSON library in Go is now even faster and safer](https://github.com/sugawarayuuta/sonnet)
+- Sep 21 - [FTC has named Amazon staffers accused of approving tactics designed to confuse](https://www.theregister.com/2023/09/21/ftc_amazon_prime_amended_complaint/)
+- Sep 21 - [Terry Tao's generals](https://web.math.princeton.edu/generals/tao_terence)
 <!--END_SECTION:hn-->
 
 <!--
