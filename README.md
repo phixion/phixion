@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 21 - [Organic Maps: An Open-Source Maps App That Doesn't Suck](https://hardfault.life/p/organic-maps-review)
-- Sep 21 - [The UK Parliament Undermined the Privacy, Security, and Freedom of All Internet](https://www.eff.org/deeplinks/2023/09/today-uk-parliament-undermined-privacy-security-and-freedom-all-internet-users)
-- Sep 21 - [My fast JSON library in Go is now even faster and safer](https://github.com/sugawarayuuta/sonnet)
-- Sep 21 - [FTC has named Amazon staffers accused of approving tactics designed to confuse](https://www.theregister.com/2023/09/21/ftc_amazon_prime_amended_complaint/)
-- Sep 21 - [Terry Tao's generals](https://web.math.princeton.edu/generals/tao_terence)
+- Sep 21 - [Tesla buys German railway line, now hosting passenger trains](https://www.trains.com/trn/news-reviews/news-wire/tesla-buys-german-railway-line-plans-passenger-trains-2/)
+- Sep 21 - [Total cholesterol and mortality by sex and age:study of 12.8M adults](https://www.nature.com/articles/s41598-018-38461-y)
+- Sep 21 - [Install Windows the Arch Linux Way](https://christitus.com/install-windows-the-arch-linux-way/)
+- Sep 21 - [How Equifax Was Breached in 2017](https://blog.0x7d0.dev/history/how-equifax-was-breached-in-2017/)
+- Sep 21 - [NASA’s New Shortcut to Fusion Power (2022)](https://spectrum.ieee.org/lattice-confinement-fusion)
 <!--END_SECTION:hn-->
 
 <!--
