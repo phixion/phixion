@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Sep 21 - [ApexSMS - 23,246,481 breached accounts](https://haveibeenpwned.com/PwnedWebsites#ApexSMS)
 - Sep 20 - [dBforums - 363,468 breached accounts](https://haveibeenpwned.com/PwnedWebsites#dBforums)
 - Sep 14 - [MalindoAir - 4,328,232 breached accounts](https://haveibeenpwned.com/PwnedWebsites#MalindoAir)
 - Sep 11 - [Viva Air - 932,232 breached accounts](https://haveibeenpwned.com/PwnedWebsites#VivaAir)
 - Sep 08 - [Dymocks - 836,120 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Dymocks)
-- Aug 31 - [Phished Data via CERT Poland - 67,943 breached accounts](https://haveibeenpwned.com/PwnedWebsites#CERTPolandPhish)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 21 - [Sunken temple and sanctuary from ancient Egypt found](https://www.livescience.com/archaeology/ancient-egyptians/sunken-temple-and-sanctuary-from-ancient-egypt-found-brimming-with-treasures-and-secrets)
-- Sep 21 - [The NSA Invented Bitcoin?](https://twitter.com/danroberts0101/status/1702440110002729356)
-- Sep 21 - [Article reply “Godot is not the new Unity” from Juan Linietsky (BDFL of Godot)](https://gist.github.com/reduz/cb05fe96079e46785f08a79ec3b0ef21)
-- Sep 21 - [Wine’s origins](https://www.scientificamerican.com/article/wines-true-origins-are-finally-revealed/)
-- Sep 21 - [The SEC cracks down on greenwashing](https://www.semafor.com/article/09/21/2023/the-sec-cracks-down-on-greenwashing)
+- Sep 21 - [7 year old Kafka Java client bug (2016)](https://issues.apache.org/jira/browse/KAFKA-4090)
+- Sep 21 - [Speeding up the JavaScript ecosystem – Polyfills gone rogue](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-6/)
+- Sep 21 - [NASA’s Webb finds carbon source on surface of Jupiter’s moon Europa](https://webbtelescope.org/contents/news-releases/2023/news-2023-113)
+- Sep 21 - [React Server Components made our site a lot faster](https://frigade.com/blog/bundle-size-reduction-with-rsc-and-frigade)
+- Sep 21 - [Developmental costs associated with early maternal withdrawal (2022)](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdep.12442)
 <!--END_SECTION:hn-->
 
 <!--
