@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 20 - [Harlequin.sh DuckDB IDE for your terminal](https://harlequin.sh/)
-- Sep 20 - [Generative AI's Act Two](https://www.sequoiacap.com/article/generative-ai-act-two/)
-- Sep 20 - [Show HN: Sheet Music Management App](https://github.com/Airsequel/Airsequel-Sheet-Music)
-- Sep 20 - [Ex-congressman convicted of insider trading before T-Mobile merger with Sprint](https://www.nbcnews.com/politics/politics-news/ex-lawmaker-convicted-insider-trading-t-mobile-merger-rcna74463)
-- Sep 20 - [Archaeologists discover world’s oldest wooden structure](https://news.liverpool.ac.uk/2023/09/20/archaeologists-discover-worlds-oldest-wooden-structure/)
+- Sep 20 - [Median Household Income After Taxes Fell 8.8% in 2022](https://www.census.gov/library/stories/2023/09/median-household-income.html)
+- Sep 20 - [Meticulous: An FPGA-Based Main Memory Emulator for System Software Studies](https://arxiv.org/abs/2309.06565)
+- Sep 20 - [OpenTofu](https://opentofu.org/)
+- Sep 20 - [Alameda lost tens of millions because of a fat fingering mistake](https://www.adityabaradwaj.com/part-2-the-fat-finger/)
+- Sep 20 - [Harlequin: DuckDB IDE for the terminal](https://harlequin.sh/)
 <!--END_SECTION:hn-->
 
 <!--
