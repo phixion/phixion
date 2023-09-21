@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 21 - [Tesla buys German railway line, now hosting passenger trains](https://www.trains.com/trn/news-reviews/news-wire/tesla-buys-german-railway-line-plans-passenger-trains-2/)
-- Sep 21 - [Total cholesterol and mortality by sex and age:study of 12.8M adults](https://www.nature.com/articles/s41598-018-38461-y)
-- Sep 21 - [Install Windows the Arch Linux Way](https://christitus.com/install-windows-the-arch-linux-way/)
-- Sep 21 - [How Equifax Was Breached in 2017](https://blog.0x7d0.dev/history/how-equifax-was-breached-in-2017/)
-- Sep 21 - [NASA’s New Shortcut to Fusion Power (2022)](https://spectrum.ieee.org/lattice-confinement-fusion)
+- Sep 21 - [PSA: Storybook sends telemetry data, opt-in by default](https://storybook.js.org/docs/react/configure/telemetry/)
+- Sep 21 - [Is Fortran easier to optimize than C for heavy calculations?](https://stackoverflow.com/questions/146159/is-fortran-easier-to-optimize-than-c-for-heavy-calculations)
+- Sep 21 - [India's biggest tech centers named as cyber crime hotspots](https://www.theregister.com/2023/09/21/india_cybercrime_trends_report/)
+- Sep 21 - [Erlang/OTP 26.1 Released](https://erlangforums.com/t/erlang-otp-26-1-released/2886)
+- Sep 21 - [OpenBSD/ARM64 on Hetzner Cloud](https://www.undeadly.org/cgi?action=article;sid=20230921073556)
 <!--END_SECTION:hn-->
 
 <!--
