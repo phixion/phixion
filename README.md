@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 22 - [Show HN: Paisa – Open-Source Personal Finance Manager](https://paisa.fyi/)
-- Sep 22 - [Java 21: The Nice, the Meh, and the Momentous](https://horstmann.com/unblog/2023-09-19/index.html)
-- Sep 22 - [Working Remotely Can More Than Halve an Office Employee’s Carbon Footprint](https://www.scientificamerican.com/article/working-remotely-can-more-than-halve-an-office-employees-carbon-footprint/)
-- Sep 22 - [Final National Security Guardrails for Chips for America Incentives Program](https://www.nist.gov/news-events/news/2023/09/biden-harris-administration-announces-final-national-security-guardrails)
-- Sep 22 - [Android to take an “upstream first” development model for the Linux kernel](https://arstechnica.com/gadgets/2021/09/android-to-take-an-upstream-first-development-model-for-the-linux-kernel/)
+- Sep 22 - [Ask HN: What are some communities like HN?](https://news.ycombinator.com/item?id=37616919)
+- Sep 22 - [CFPB begins a process to remove medical bills from Americans’ credit reports](https://www.consumerfinance.gov/about-us/newsroom/cfpb-kicks-off-rulemaking-to-remove-medical-bills-from-credit-reports/)
+- Sep 22 - [When half a million Americans died and nobody noticed (2012)](https://theweek.com/us/46535/when-half-million-americans-died-and-nobody-noticed)
+- Sep 22 - [Makefile Tutorial](https://makefiletutorial.com/)
+- Sep 22 - [I'm writing a new CLI text editor, because I can](https://github.com/boutell/tome/blob/main/README.md)
 <!--END_SECTION:hn-->
 
 <!--
