@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 22 - [Amazon to add limited ads to Prime Video starting in early 2024](https://www.marketwatch.com/story/amazon-to-add-limited-ads-to-prime-video-starting-in-early-2024-fd51c85d)
-- Sep 22 - [Signal: The Pqxdh Key Agreement Protocol](https://signal.org/docs/specifications/pqxdh/)
-- Sep 22 - [The Age of the Grift Shift](https://tante.cc/2023/09/21/the-age-of-the-grift-shift/)
-- Sep 22 - [Turning an old car into a powerful generator](https://blog.arduino.cc/2023/09/20/turning-an-old-car-into-a-powerful-generator/)
-- Sep 22 - [Computing History Hub](https://mollymielke.notion.site/Computing-History-Hub-be72f307fc2e4b05abe3dc67eb937521)
+- Sep 22 - [Show HN: Paisa – Open-Source Personal Finance Manager](https://paisa.fyi/)
+- Sep 22 - [Java 21: The Nice, the Meh, and the Momentous](https://horstmann.com/unblog/2023-09-19/index.html)
+- Sep 22 - [Working Remotely Can More Than Halve an Office Employee’s Carbon Footprint](https://www.scientificamerican.com/article/working-remotely-can-more-than-halve-an-office-employees-carbon-footprint/)
+- Sep 22 - [Final National Security Guardrails for Chips for America Incentives Program](https://www.nist.gov/news-events/news/2023/09/biden-harris-administration-announces-final-national-security-guardrails)
+- Sep 22 - [Android to take an “upstream first” development model for the Linux kernel](https://arstechnica.com/gadgets/2021/09/android-to-take-an-upstream-first-development-model-for-the-linux-kernel/)
 <!--END_SECTION:hn-->
 
 <!--
