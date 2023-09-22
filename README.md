@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 22 - [“The Poet Is a Man Who Feigns”](https://daily.jstor.org/the-poet-is-a-man-who-feigns/)
-- Sep 22 - [Suppressing negative thoughts may be good for mental health after all](https://www.cam.ac.uk/research/news/suppressing-negative-thoughts-may-be-good-for-mental-health-after-all-study-suggests)
-- Sep 22 - [Luiz André Barroso has died](https://www.wired.com/story/google-mourns-luiz-andre-barroso-veteran-engineer-invented-the-modern-data-center/)
-- Sep 22 - [Nintendo 3DS Architecture](https://www.copetti.org/writings/consoles/nintendo-3ds/)
-- Sep 22 - [Outperforming larger language models with less training data and smaller models](https://blog.research.google/2023/09/distilling-step-by-step-outperforming.html)
+- Sep 22 - [Seriously Consider Skipping the Drinks](https://www.health.harvard.edu/heart-health/want-a-healthier-heart-seriously-consider-skipping-the-drinks)
+- Sep 22 - [AWS Customers Cannot Escape IPv4](https://tty.neveragain.de/2023/09/21/aws-cannot-escape-ipv4.html)
+- Sep 22 - [I'm fed up with it, so I'm writing a browser](https://adayinthelifeof.nl/2023/09/22/browsers.html)
+- Sep 22 - [Publius Enigma](https://en.wikipedia.org/wiki/Publius_Enigma)
+- Sep 22 - [The Bogus CVE Problem](https://lwn.net/Articles/944209/)
 <!--END_SECTION:hn-->
 
 <!--
