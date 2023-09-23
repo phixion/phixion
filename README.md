@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 22 - [An Update on Prime Video](https://www.aboutamazon.com/news/entertainment/prime-video-update-announces-limited-ads)
-- Sep 22 - [The Radio Station That Bridge Built](https://www.nutsvolts.com/magazine/article/the-radio-station-that-bridge-built)
-- Sep 22 - [Three NorCal Tribes Announce Nation’s First Indigenous Ocean Protection Area](https://lostcoastoutpost.com/2023/sep/22/three-norcal-tribes-announce-first-us-indigenous-m/)
-- Sep 22 - [NASA JPL Open Source Rover That Runs ROS 2](https://github.com/nasa-jpl/open-source-rover)
-- Sep 22 - [Run PostgreSQL. The Kubernetes Way](https://cloudnative-pg.io/)
+- Sep 23 - [Teaching Software Engineering in DLang [pdf]](https://dconf.org/2023/slides/shah_and_students.pdf)
+- Sep 23 - [Why are you better at recognizing upright faces?](https://medicalxpress.com/news/2023-09-upright-clues-person-world-differently.html)
+- Sep 23 - [Imbue (Formerly Generally Intelligent, YC S17) Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=37619709)
+- Sep 23 - [Sidenotes in Web Design](https://gwern.net/sidenote)
+- Sep 22 - [Croc: Easily and securely send things from one computer to another](https://github.com/schollz/croc)
 <!--END_SECTION:hn-->
 
 <!--
