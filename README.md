@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 22 - [Ask HN: What are some communities like HN?](https://news.ycombinator.com/item?id=37616919)
-- Sep 22 - [CFPB begins a process to remove medical bills from Americans’ credit reports](https://www.consumerfinance.gov/about-us/newsroom/cfpb-kicks-off-rulemaking-to-remove-medical-bills-from-credit-reports/)
-- Sep 22 - [When half a million Americans died and nobody noticed (2012)](https://theweek.com/us/46535/when-half-million-americans-died-and-nobody-noticed)
-- Sep 22 - [Makefile Tutorial](https://makefiletutorial.com/)
-- Sep 22 - [I'm writing a new CLI text editor, because I can](https://github.com/boutell/tome/blob/main/README.md)
+- Sep 22 - [An Update on Prime Video](https://www.aboutamazon.com/news/entertainment/prime-video-update-announces-limited-ads)
+- Sep 22 - [The Radio Station That Bridge Built](https://www.nutsvolts.com/magazine/article/the-radio-station-that-bridge-built)
+- Sep 22 - [Three NorCal Tribes Announce Nation’s First Indigenous Ocean Protection Area](https://lostcoastoutpost.com/2023/sep/22/three-norcal-tribes-announce-first-us-indigenous-m/)
+- Sep 22 - [NASA JPL Open Source Rover That Runs ROS 2](https://github.com/nasa-jpl/open-source-rover)
+- Sep 22 - [Run PostgreSQL. The Kubernetes Way](https://cloudnative-pg.io/)
 <!--END_SECTION:hn-->
 
 <!--
