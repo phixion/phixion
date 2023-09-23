@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 23 - [State of HTML 2023 now open](https://lea.verou.me/blog/2023/state-of-html-2023/)
+- Sep 23 - [MIT 6.5940: TinyML and Efficient Deep Learning Computing](https://efficientml.ai/)
 - Sep 23 - [Teaching Software Engineering in DLang [pdf]](https://dconf.org/2023/slides/shah_and_students.pdf)
-- Sep 23 - [Why are you better at recognizing upright faces?](https://medicalxpress.com/news/2023-09-upright-clues-person-world-differently.html)
-- Sep 23 - [Imbue (Formerly Generally Intelligent, YC S17) Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=37619709)
-- Sep 23 - [Sidenotes in Web Design](https://gwern.net/sidenote)
-- Sep 22 - [Croc: Easily and securely send things from one computer to another](https://github.com/schollz/croc)
+- Sep 23 - [FEMA and FCC Plan Nationwide Emergency Alert Test for Oct. 4, 2023](https://www.fema.gov/press-release/20230803/fema-and-fcc-plan-nationwide-emergency-alert-test-oct-4-2023)
+- Sep 23 - [Show HN: ChatGPT for Med-School and Healthcare](https://chat.radiantai.health/)
 <!--END_SECTION:hn-->
 
 <!--
