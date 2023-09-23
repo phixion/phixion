@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 23 - [Landchad: A site dedicated to turn web peasants into Internet LandChads](https://landchad.net)
-- Sep 23 - [Fossil versus Git](https://www.fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki)
-- Sep 23 - [LLMs trained on “A is B” fail to learn “B is A”](https://paperswithcode.com/paper/the-reversal-curse-llms-trained-on-a-is-b)
-- Sep 23 - [US Government may require open source software to use memory safe languages](https://www.federalregister.gov/documents/2023/08/10/2023-17239/request-for-information-on-open-source-software-security-areas-of-long-term-focus-and-prioritization)
-- Sep 23 - [Re: 100k Threads? (2002)](https://lkml.iu.edu/hypermail/linux/kernel/0209.2/1153.html)
+- Sep 23 - [Definitely Do Not Put Plastic in the Microwave](https://www.bonappetit.com/story/can-you-put-plastic-in-the-microwave)
+- Sep 23 - [Why Scalpers Can Get Olivia Rodrigo Tickets and You Can't](https://www.404media.co/why-scalpers-can-get-olivia-rodrigo-tickets-and-fans-cannot/)
+- Sep 23 - [Make Something Wonderful](https://news.ycombinator.com/item?id=37623569)
+- Sep 23 - [Blocking Visual Studio Code embedded reverse shell before it's too late](https://ipfyx.fr/post/visual-studio-code-tunnel/)
+- Sep 23 - [Spyware can infect your phone or computer via the ads you see online – report](https://theconversation.com/spyware-can-infect-your-phone-or-computer-via-the-ads-you-see-online-report-213685)
 <!--END_SECTION:hn-->
 
 <!--
