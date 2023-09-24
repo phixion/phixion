@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 24 - [U.S. has world’s highest rate of children living in single-parent households](https://www.pewresearch.org/short-reads/2019/12/12/u-s-children-more-likely-than-children-in-other-countries-to-live-with-just-one-parent/)
+- Sep 24 - [The AI revolution is rotten to the core [video]](https://www.youtube.com/watch?v=-MUEXGaxFDA)
+- Sep 24 - [Applied Materials Is a Major Reason Computers Keep Getting Faster](https://www.wsj.com/tech/personal-tech/applied-materials-chips-61bbed0e)
+- Sep 24 - [Show HN: Karektar – Bitmap Font Designer](https://karektar.newtrino.ink/)
 - Sep 23 - [Eating Fossils](https://www.palass.org/publications/newsletter/eating-fossils)
 - Sep 23 - [IPFS support got merged into curl](https://twitter.com/bmann/status/1705572964068930010)
-- Sep 23 - [The Unforeseen LSD Overdose of 1972](https://notsoprofound.com/the-unforeseen-lsd-overdose-of-1972/)
-- Sep 23 - [EU fines Intel $400M for blocking AMD's market access](https://www.neowin.net/news/eu-fines-intel-400-million-for-blocking-amds-market-access-through-payments-to-pc-makers/)
 <!--END_SECTION:hn-->
 
 <!--
