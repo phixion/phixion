@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 24 - [Workers who cut countertops are dying of silicosis](https://news.yahoo.com/california-workers-cut-countertops-dying-100021788.html)
-- Sep 24 - [CoRF: Colorizing Radiance Fields Using Knowledge Distillation](https://arxiv.org/abs/2309.07668)
-- Sep 24 - [NASA’s Osiris-Rex capsule lands in Utah with Bennu asteroid sample](https://www.theguardian.com/science/live/2023/sep/24/bennu-asteroid-sample-nasa-osiris-rex-mission-earth-updates)
-- Sep 24 - [PiWrite – Kindle Paperwhite to Write](https://github.com/rberenguel/PiWrite)
-- Sep 24 - [Reverse-engineering the classic MK4116 16-kilobit DRAM chip](https://www.righto.com/2020/11/reverse-engineering-classic-mk4116-16.html)
+- Sep 24 - [“What If Linus Torvalds Gets Hit by a Bus?” – An Empirical Study (2000)](https://web.archive.org/web/20011113013913/http://segfault.org/story.phtml?mode=2&id=38b40d78-087dd360)
+- Sep 24 - [Two photographers captured the same millisecond in time (2018)](https://www.dpreview.com/articles/7338941576/how-two-photographers-captured-the-same-millisecond-in-time)
+- Sep 24 - [US car giants gripped by history-making strike](https://english.elpais.com/economy-and-business/2023-09-24/us-car-giants-gripped-by-history-making-strike.html)
+- Sep 24 - [Brightline Orlando's first train: 125 mph from MCO to MIA [video]](https://www.youtube.com/watch?v=Yu18ZqWgQM4)
+- Sep 24 - [The tomato was thought to be poisonous in late-1700s Europe (2013)](https://www.smithsonianmag.com/arts-culture/why-the-tomato-was-feared-in-europe-for-more-than-200-years-863735/)
 <!--END_SECTION:hn-->
 
 <!--
