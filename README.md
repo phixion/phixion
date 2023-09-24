@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 24 - [Google is killing Gmail's Basic HTML View in early 2024](https://support.google.com/mail/answer/15049?hl=en)
-- Sep 24 - [Fiber in C++: Understanding the Basics](https://agraphicsguynotes.com/posts/fiber_in_cpp_understanding_the_basics/)
-- Sep 24 - [Platform that enables Windows driver development in Rust](https://github.com/microsoft/windows-drivers-rs)
-- Sep 24 - [Modern Linux Tools vs. Unix Classics: Which Would I Choose?](https://meetryanflowers.com/modern-linux-tools-vs-unix-classics-which-would-i-choose/)
-- Sep 24 - [Ash Framework](https://ash-hq.org/)
+- Sep 24 - [I downgraded to an iPhone 11 Pro Max – and there’s not much I’m missing](https://9to5mac.com/2023/08/02/using-iphone-11-pro-max-in-2023/)
+- Sep 24 - [‘Capitalism is dead. Now we have something much worse’](https://www.theguardian.com/world/2023/sep/24/yanis-varoufakis-technofeudalism-capitalism-ukraine-interview)
+- Sep 24 - [Labelling soya foods as ultra-processed is unhelpful](https://www.alprofoundation.org/scientific-updates/labelling-soya-foods-as-ultra-processed-is-unhelpful/)
+- Sep 24 - [Bus Pirate 5 Firmware](https://firmware.buspirate.com/)
+- Sep 24 - [Geometric Algebra to Geometric Computing Software Developers](https://arxiv.org/abs/1705.06668)
 <!--END_SECTION:hn-->
 
 <!--
