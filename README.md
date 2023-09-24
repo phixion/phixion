@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 24 - [The AI revolution is rotten to the core [video]](https://www.youtube.com/watch?v=-MUEXGaxFDA)
-- Sep 24 - [Applied Materials Is a Major Reason Computers Keep Getting Faster](https://www.wsj.com/tech/personal-tech/applied-materials-chips-61bbed0e)
-- Sep 24 - [Show HN: Karektar – Bitmap Font Designer](https://karektar.newtrino.ink/)
-- Sep 23 - [Eating Fossils](https://www.palass.org/publications/newsletter/eating-fossils)
-- Sep 23 - [IPFS support got merged into curl](https://twitter.com/bmann/status/1705572964068930010)
+- Sep 24 - [Google is killing Gmail's Basic HTML View in early 2024](https://support.google.com/mail/answer/15049?hl=en)
+- Sep 24 - [Fiber in C++: Understanding the Basics](https://agraphicsguynotes.com/posts/fiber_in_cpp_understanding_the_basics/)
+- Sep 24 - [Platform that enables Windows driver development in Rust](https://github.com/microsoft/windows-drivers-rs)
+- Sep 24 - [Modern Linux Tools vs. Unix Classics: Which Would I Choose?](https://meetryanflowers.com/modern-linux-tools-vs-unix-classics-which-would-i-choose/)
+- Sep 24 - [Ash Framework](https://ash-hq.org/)
 <!--END_SECTION:hn-->
 
 <!--
