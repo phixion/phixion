@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 23 - [Bottlerocket – Minimal, immutable Linux OS with verified boot](https://bottlerocket.dev)
-- Sep 23 - [GNU/Linux Aviation How To](https://tldp.org/HOWTO/Aviation-HOWTO/index.html)
-- Sep 23 - [The housing market is about to take a hit as student loan payments restart](https://markets.businessinsider.com/news/commodities/housing-market-student-loan-payments-restart-affordability-crisis-mortgage-rates-2023-8)
-- Sep 23 - [Project Gutenberg has implemented one of the worst AI fears of striking actors](https://qz.com/project-gutenberg-ai-to-ebooks-audiobooks-1850856297)
-- Sep 23 - [iCloud Drive silently deletes your content](https://www.dominikmayer.com/2023/09/icloud-drive-silently-deletes-your-content/)
+- Sep 24 - [U.S. has world’s highest rate of children living in single-parent households](https://www.pewresearch.org/short-reads/2019/12/12/u-s-children-more-likely-than-children-in-other-countries-to-live-with-just-one-parent/)
+- Sep 23 - [Eating Fossils](https://www.palass.org/publications/newsletter/eating-fossils)
+- Sep 23 - [IPFS support got merged into curl](https://twitter.com/bmann/status/1705572964068930010)
+- Sep 23 - [The Unforeseen LSD Overdose of 1972](https://notsoprofound.com/the-unforeseen-lsd-overdose-of-1972/)
+- Sep 23 - [EU fines Intel $400M for blocking AMD's market access](https://www.neowin.net/news/eu-fines-intel-400-million-for-blocking-amds-market-access-through-payments-to-pc-makers/)
 <!--END_SECTION:hn-->
 
 <!--
