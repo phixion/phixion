@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 24 - [I downgraded to an iPhone 11 Pro Max – and there’s not much I’m missing](https://9to5mac.com/2023/08/02/using-iphone-11-pro-max-in-2023/)
-- Sep 24 - [‘Capitalism is dead. Now we have something much worse’](https://www.theguardian.com/world/2023/sep/24/yanis-varoufakis-technofeudalism-capitalism-ukraine-interview)
-- Sep 24 - [Labelling soya foods as ultra-processed is unhelpful](https://www.alprofoundation.org/scientific-updates/labelling-soya-foods-as-ultra-processed-is-unhelpful/)
-- Sep 24 - [Bus Pirate 5 Firmware](https://firmware.buspirate.com/)
-- Sep 24 - [Geometric Algebra to Geometric Computing Software Developers](https://arxiv.org/abs/1705.06668)
+- Sep 24 - [Workers who cut countertops are dying of silicosis](https://news.yahoo.com/california-workers-cut-countertops-dying-100021788.html)
+- Sep 24 - [CoRF: Colorizing Radiance Fields Using Knowledge Distillation](https://arxiv.org/abs/2309.07668)
+- Sep 24 - [NASA’s Osiris-Rex capsule lands in Utah with Bennu asteroid sample](https://www.theguardian.com/science/live/2023/sep/24/bennu-asteroid-sample-nasa-osiris-rex-mission-earth-updates)
+- Sep 24 - [PiWrite – Kindle Paperwhite to Write](https://github.com/rberenguel/PiWrite)
+- Sep 24 - [Reverse-engineering the classic MK4116 16-kilobit DRAM chip](https://www.righto.com/2020/11/reverse-engineering-classic-mk4116-16.html)
 <!--END_SECTION:hn-->
 
 <!--
