@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 25 - [Meticulous (YC S21) Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=37640442)
-- Sep 25 - [LaLiga “Talks to Google” About Deleting Piracy Apps from a Million Phones](https://torrentfreak.com/laliga-talks-to-google-about-piracy-apps-from-a-million-phones-230924/)
-- Sep 25 - [EU proposes 10-year renewal for glyphosate herbicide](https://phys.org/news/2023-09-eu-year-renewal-glyphosate-herbicide.html)
-- Sep 25 - [20 Years of Grml.org](https://blog.grml.org/archives/411-20-years-of-grml.org.html)
-- Sep 25 - [WGA and the studios reach tentative deal to end writers' strike](https://www.latimes.com/entertainment-arts/business/story/2023-09-24/writers-strike-over-wga-studios-reach-deal-actors)
+- Sep 25 - [Optery (YC W22) – Full Stack Developer with Node.js Experience (Remote and Israel)](https://optery.breezy.hr/p/a95772ba7d2b-full-stack-developer-nodejs)
+- Sep 25 - [Lego axes plan to make bricks from recycled bottles](https://www.bbc.com/news/business-66910573)
+- Sep 25 - [Show HN: Netmaker – Netmaker Goes Open Source](https://github.com/gravitl/netmaker/blob/master/LICENSE.md)
+- Sep 25 - [Apple will charge you way less to fix cracked back glass on an iPhone 15 Pro](https://arstechnica.com/gadgets/2023/09/apple-will-charge-you-way-less-to-fix-cracked-back-glass-on-an-iphone-15-pro/)
+- Sep 25 - [The Fantilator Page](https://onlyfans.web.cern.ch/)
 <!--END_SECTION:hn-->
 
 <!--
