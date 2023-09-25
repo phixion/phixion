@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 25 - [Optery (YC W22) – Full Stack Developer with Node.js Experience (Remote and Israel)](https://optery.breezy.hr/p/a95772ba7d2b-full-stack-developer-nodejs)
-- Sep 25 - [Lego axes plan to make bricks from recycled bottles](https://www.bbc.com/news/business-66910573)
-- Sep 25 - [Show HN: Netmaker – Netmaker Goes Open Source](https://github.com/gravitl/netmaker/blob/master/LICENSE.md)
-- Sep 25 - [Apple will charge you way less to fix cracked back glass on an iPhone 15 Pro](https://arstechnica.com/gadgets/2023/09/apple-will-charge-you-way-less-to-fix-cracked-back-glass-on-an-iphone-15-pro/)
-- Sep 25 - [The Fantilator Page](https://onlyfans.web.cern.ch/)
+- Sep 25 - [JDK 21 Security Enhancements](https://seanjmullan.org/blog/2023/09/22/jdk21)
+- Sep 25 - [Kotlin Multiplatform for Android and iOS Apps](https://www.rockandnull.com/kotlin-multiplatform-compose-multiplatform-cross-platform-development/)
+- Sep 25 - [It's time to let go, Apache Software Foundation](https://rocket9labs.com/post/its-time-to-let-go-apache-software-foundation/)
+- Sep 25 - [KSP2 is spamming the Windows Registry until the game stops working permanently](https://forum.kerbalspaceprogram.com/topic/219607-ksp2-is-spamming-the-windows-registry-over-weeksmonths-until-the-game-will-stop-working-permanently/)
+- Sep 25 - [Meta and Salesforce are looking to re-hire some workers they just laid off](https://www.businessinsider.com/salesforce-meta-big-tech-companies-rehire-workers-employees-laid-off-2023-9)
 <!--END_SECTION:hn-->
 
 <!--
