@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 25 - [JDK 21 Security Enhancements](https://seanjmullan.org/blog/2023/09/22/jdk21)
-- Sep 25 - [Kotlin Multiplatform for Android and iOS Apps](https://www.rockandnull.com/kotlin-multiplatform-compose-multiplatform-cross-platform-development/)
-- Sep 25 - [It's time to let go, Apache Software Foundation](https://rocket9labs.com/post/its-time-to-let-go-apache-software-foundation/)
-- Sep 25 - [KSP2 is spamming the Windows Registry until the game stops working permanently](https://forum.kerbalspaceprogram.com/topic/219607-ksp2-is-spamming-the-windows-registry-over-weeksmonths-until-the-game-will-stop-working-permanently/)
-- Sep 25 - [Meta and Salesforce are looking to re-hire some workers they just laid off](https://www.businessinsider.com/salesforce-meta-big-tech-companies-rehire-workers-employees-laid-off-2023-9)
+- Sep 25 - [Customization for the Forensic Police (2018)](http://www.sweethome3d.com/blog/2018/12/10/customization_for_the_forensic_police.html)
+- Sep 25 - [Mixin suspends deposits and withdrawals after $200M cryptocurrency heist](https://www.theregister.com/2023/09/25/mixin_200m_heist/)
+- Sep 25 - [Reclaim the Internet with Mozilla](https://blog.mozilla.org/en/mozilla/reclaim-the-internet/)
+- Sep 25 - [Show HN: A Highly Configurable Linux-Based Desktop Notifier for RSS/Atom Feeds](https://github.com/EscherMoore/DitchTheBell)
+- Sep 25 - [Show HN: Minum – A minimal Java web framework](https://github.com/byronka/minum)
 <!--END_SECTION:hn-->
 
 <!--
