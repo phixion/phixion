@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 24 - [Corrosion: Rust Never Sleeps](https://books.worksinprogress.co/book/maintenance-of-everything/vehicles/digression-3-corrosion-rust-never-sleeps/1?ref=thebrowser.com)
-- Sep 24 - [LARPing and Violent Extremism](https://leb.fbi.gov/articles/featured-articles/larping-and-violent-extremism)
-- Sep 24 - [PID Control Challenges](http://janismac.github.io/ControlChallenges/)
-- Sep 24 - [Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
-- Sep 24 - [Our humble attempt at “how much data do you need to fine-tune”](https://barryzhang.substack.com/p/our-humble-attempt-at-fine-tuning)
+- Sep 25 - [WGA and the studios reach tentative deal to end writers' strike](https://www.latimes.com/entertainment-arts/business/story/2023-09-24/writers-strike-over-wga-studios-reach-deal-actors)
+- Sep 25 - [Show HN: Crystaldoc.info – Crystal Shards API Documentation Hosting](https://crystaldoc.info/)
+- Sep 25 - [Why do we need modules at all? (2011)](http://erlang.org/pipermail/erlang-questions/2011-May/058768.html)
+- Sep 25 - [Type 2 diabetes rates in US youth rose 62% after Covid pandemic began](https://www.cidrap.umn.edu/covid-19/type-2-diabetes-rates-us-youth-rose-62-after-covid-pandemic-began-study-suggests)
+- Sep 24 - [The Cutting Room Floor–unearthing unused and cut content from video games](https://tcrf.net/The_Cutting_Room_Floor)
 <!--END_SECTION:hn-->
 
 <!--
