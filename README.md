@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 26 - [Hedge Fund Made a Killing Betting Against Lina Khan](https://www.wsj.com/us-news/law/the-hedge-fund-that-made-a-killing-betting-against-lina-khan-d5b395b1)
-- Sep 26 - [Unity U-turns on controversial runtime fee and begs forgiveness](https://techcrunch.com/2023/09/22/unity-u-turns-on-controversial-runtime-fee-and-begs-forgiveness/)
-- Sep 26 - [Investigation: 78% of carbon offset projects globally are “likely junk“](https://www.power-technology.com/news/report-majority-carbon-offsets-junk-or-useless/)
-- Sep 26 - [ArcEm – The Acorn Archimedes Emulator](https://arcem.sourceforge.net/)
-- Sep 26 - [Apple exec Eddy Cue set to testify in Google trial about $19B search deal](https://www.cnbc.com/2023/09/26/apple-exec-eddy-cue-testify-google-trial-about-19-billion-search-deal.html)
+- Sep 26 - [Rethinking the Luddites in the Age of A.I](https://www.newyorker.com/books/page-turner/rethinking-the-luddites-in-the-age-of-ai)
+- Sep 26 - [The Plot of All Objects in the Universe](https://kottke.org/23/09/the-plot-of-all-objects-in-the-universe)
+- Sep 26 - [Facebook Prophet: library for generating forecasts from any time series data](https://github.com/facebook/prophet)
+- Sep 26 - [Causality for Machine Learning](https://ff13.fastforwardlabs.com/)
+- Sep 26 - [Show HN: Unity like game editor running in pure WASM](https://raverie-us.github.io/raverie-engine/)
 <!--END_SECTION:hn-->
 
 <!--
