@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 25 - [Customization for the Forensic Police (2018)](http://www.sweethome3d.com/blog/2018/12/10/customization_for_the_forensic_police.html)
-- Sep 25 - [Mixin suspends deposits and withdrawals after $200M cryptocurrency heist](https://www.theregister.com/2023/09/25/mixin_200m_heist/)
-- Sep 25 - [Reclaim the Internet with Mozilla](https://blog.mozilla.org/en/mozilla/reclaim-the-internet/)
-- Sep 25 - [Show HN: A Highly Configurable Linux-Based Desktop Notifier for RSS/Atom Feeds](https://github.com/EscherMoore/DitchTheBell)
-- Sep 25 - [Show HN: Minum – A minimal Java web framework](https://github.com/byronka/minum)
+- Sep 25 - [Kids’ Competitive Activities Lead to Debt for 79% of Parents](https://www.lendingtree.com/credit-cards/study/kids-competitive-activities-may-lead-to-debt/)
+- Sep 25 - [Bosses won’t like it but WFH is a happier way to work](https://www.ft.com/content/74b43b83-1af1-4045-9bd1-15fc8556972d)
+- Sep 25 - [Distinguishing features of Long Covid identified through immune profiling](https://www.nature.com/articles/s41586-023-06651-y)
+- Sep 25 - [Is Math Real?](https://maa.org/press/maa-reviews/is-math-real)
+- Sep 25 - [The SR-71 Blackbird Astro-Nav System worked by tracking the stars](https://theaviationgeekclub.com/the-sr-71-blackbird-astro-nav-system-aka-r2-d2-worked-by-tracking-the-stars-and-was-so-powerful-that-it-could-see-the-stars-even-in-daylight/)
 <!--END_SECTION:hn-->
 
 <!--
