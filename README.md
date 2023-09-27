@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 27 - [Writing a Debugger from Scratch: Breakpoints](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-5/)
-- Sep 27 - [Arena Allocator Tips and Tricks](https://nullprogram.com/blog/2023/09/27/)
-- Sep 27 - [Summary of the 2023 WGA MBA](https://www.wgacontract2023.org/the-campaign/summary-of-the-2023-wga-mba)
+- Sep 27 - [Building a defence startup: 6 lessons I’ve learned](https://medium.com/@ErikKannike/building-a-defence-startup-6-lessons-ive-learned-11619b3a514e)
+- Sep 27 - [Essence: A desktop OS built from scratch, for control and simplicity](https://nakst.gitlab.io/essence)
+- Sep 27 - [Writing a debugger from scratch: Breakpoints](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-5/)
+- Sep 27 - [Arena allocator tips and tricks](https://nullprogram.com/blog/2023/09/27/)
 - Sep 27 - [Show HN: XRain – Explore rainfall statistics around the world](https://xrain.info/data/)
-- Sep 27 - [Deconstructing Go Type Parameters](https://go.dev/blog/deconstructing-type-parameters)
 <!--END_SECTION:hn-->
 
 <!--
