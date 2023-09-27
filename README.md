@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 26 - [The Philips Hue ecosystem is collapsing into stupidity](https://rachelbythebay.com/w/2023/09/26/hue/)
+- Sep 26 - [Merlin's Wisdom Project](https://github.com/merlinmann/wisdom/blob/master/wisdom.md)
+- Sep 26 - [Introduction to Sysclean(8) on OpenBSD](https://kapouay.eu.org/notes/sysclean-intro/)
 - Sep 26 - [Rethinking the Luddites in the Age of A.I](https://www.newyorker.com/books/page-turner/rethinking-the-luddites-in-the-age-of-ai)
-- Sep 26 - [The Plot of All Objects in the Universe](https://kottke.org/23/09/the-plot-of-all-objects-in-the-universe)
-- Sep 26 - [Facebook Prophet: library for generating forecasts from any time series data](https://github.com/facebook/prophet)
-- Sep 26 - [Causality for Machine Learning](https://ff13.fastforwardlabs.com/)
-- Sep 26 - [Show HN: Unity like game editor running in pure WASM](https://raverie-us.github.io/raverie-engine/)
+- Sep 26 - [Prophet: Automatic Forecasting Procedure](https://github.com/facebook/prophet)
 <!--END_SECTION:hn-->
 
 <!--
