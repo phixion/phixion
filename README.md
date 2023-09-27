@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 27 - [Live Near Your Friends](https://headlineshq.substack.com/p/issue-no-029-live-near-your-friends)
-- Sep 27 - [Nucor and Helion to Develop 500 MW Fusion Power Plant by 2030](https://nucor.com/news-release/20126)
-- Sep 27 - [Ask HN: I spent months building an app and now I don't know how to get users](https://news.ycombinator.com/item?id=37675989)
-- Sep 27 - [Rust vs Go: A Hands-On Comparison](https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison)
-- Sep 27 - [Desalination system could produce freshwater that is cheaper than tap water](https://www.eurekalert.org/news-releases/1002811)
+- Sep 27 - [Is an All-Meat Diet What Nature Intended?](https://www.newyorker.com/magazine/2023/10/02/is-an-all-meat-diet-what-nature-intended)
+- Sep 27 - [GPT-4 generates simple app from Whiteboard photo](https://twitter.com/mckaywrigley/status/1707101465922453701?s=20)
+- Sep 27 - [OpenBSD PF versus FreeBSD PF](https://mwl.io/archives/23127)
+- Sep 27 - [Meta Quest 3](https://www.meta.com/quest/quest-3/)
+- Sep 27 - [The Tao of Programming (1987)](https://www.mit.edu/~xela/tao.html)
 <!--END_SECTION:hn-->
 
 <!--
