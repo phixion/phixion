@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 27 - [Building a defence startup: 6 lessons I’ve learned](https://medium.com/@ErikKannike/building-a-defence-startup-6-lessons-ive-learned-11619b3a514e)
-- Sep 27 - [Essence: A desktop OS built from scratch, for control and simplicity](https://nakst.gitlab.io/essence)
-- Sep 27 - [Writing a debugger from scratch: Breakpoints](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-5/)
-- Sep 27 - [Arena allocator tips and tricks](https://nullprogram.com/blog/2023/09/27/)
-- Sep 27 - [Show HN: XRain – Explore rainfall statistics around the world](https://xrain.info/data/)
+- Sep 27 - [Live Near Your Friends](https://headlineshq.substack.com/p/issue-no-029-live-near-your-friends)
+- Sep 27 - [Nucor and Helion to Develop 500 MW Fusion Power Plant by 2030](https://nucor.com/news-release/20126)
+- Sep 27 - [Ask HN: I spent months building an app and now I don't know how to get users](https://news.ycombinator.com/item?id=37675989)
+- Sep 27 - [Rust vs Go: A Hands-On Comparison](https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison)
+- Sep 27 - [Desalination system could produce freshwater that is cheaper than tap water](https://www.eurekalert.org/news-releases/1002811)
 <!--END_SECTION:hn-->
 
 <!--
