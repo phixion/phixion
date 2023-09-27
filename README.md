@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 27 - [Writing a Debugger from Scratch: Breakpoints](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-5/)
+- Sep 27 - [Arena Allocator Tips and Tricks](https://nullprogram.com/blog/2023/09/27/)
+- Sep 27 - [Summary of the 2023 WGA MBA](https://www.wgacontract2023.org/the-campaign/summary-of-the-2023-wga-mba)
 - Sep 27 - [Show HN: XRain – Explore rainfall statistics around the world](https://xrain.info/data/)
-- Sep 27 - [Google's 25th Birthday](https://blog.google/inside-google/company-announcements/google-25th-birthday/)
-- Sep 27 - [Why should I care about OpenTofu?](https://opentofu.org/blog/why-should-i-care-about-opentofu/)
-- Sep 27 - [China is flooding Taiwan with disinformation](https://www.economist.com/asia/2023/09/26/china-is-flooding-taiwan-with-disinformation)
 - Sep 27 - [Deconstructing Go Type Parameters](https://go.dev/blog/deconstructing-type-parameters)
 <!--END_SECTION:hn-->
 
