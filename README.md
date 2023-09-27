@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 26 - [The Philips Hue ecosystem is collapsing into stupidity](https://rachelbythebay.com/w/2023/09/26/hue/)
-- Sep 26 - [Merlin's Wisdom Project](https://github.com/merlinmann/wisdom/blob/master/wisdom.md)
-- Sep 26 - [Introduction to Sysclean(8) on OpenBSD](https://kapouay.eu.org/notes/sysclean-intro/)
-- Sep 26 - [Rethinking the Luddites in the Age of A.I](https://www.newyorker.com/books/page-turner/rethinking-the-luddites-in-the-age-of-ai)
-- Sep 26 - [Prophet: Automatic Forecasting Procedure](https://github.com/facebook/prophet)
+- Sep 27 - [Show HN: XRain – Explore rainfall statistics around the world](https://xrain.info/data/)
+- Sep 27 - [Google's 25th Birthday](https://blog.google/inside-google/company-announcements/google-25th-birthday/)
+- Sep 27 - [Why should I care about OpenTofu?](https://opentofu.org/blog/why-should-i-care-about-opentofu/)
+- Sep 27 - [China is flooding Taiwan with disinformation](https://www.economist.com/asia/2023/09/26/china-is-flooding-taiwan-with-disinformation)
+- Sep 27 - [Deconstructing Go Type Parameters](https://go.dev/blog/deconstructing-type-parameters)
 <!--END_SECTION:hn-->
 
 <!--
