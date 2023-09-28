@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 28 - [We finally know for sure what a trilobite ate. Trilobite found with full stomach](https://arstechnica.com/science/2023/09/we-finally-know-for-sure-what-a-trilobite-ate/)
-- Sep 28 - [As We May Think (1945)](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
-- Sep 28 - [Why Do Cats Love Boxes So Much?](https://www.discovermagazine.com/planet-earth/why-do-cats-love-boxes-so-much)
-- Sep 28 - [The German group buying ticket dodgers out of prison](https://www.bbc.com/news/world-europe-66664823)
-- Sep 28 - [Interactive GCC (igcc) is a read-eval-print loop (REPL) for C/C++](https://github.com/alexandru-dinu/igcc)
+- Sep 28 - [Ask HN: How do you use AI to get things done faster?](https://news.ycombinator.com/item?id=37688095)
+- Sep 28 - [The Sacrifices Made by the Declaration of Independence Signers](https://michaelwsmith.com/the-sacrifices-made-by-the-declaration-signers/)
+- Sep 28 - [WebGPU Technical Report](https://chromium.googlesource.com/chromium/src/+/main/docs/security/research/graphics/webgpu_technical_report.md)
+- Sep 28 - [Google Erects Cone of Silence Around Antitrust Case](https://prospect.org/justice/2023-09-26-google-erects-cone-of-silence-around-antitrust-case/)
+- Sep 28 - [Ask HN: Lessons learned from implementing user-facing analytics / dashboards?](https://news.ycombinator.com/item?id=37687798)
 <!--END_SECTION:hn-->
 
 <!--
