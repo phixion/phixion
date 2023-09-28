@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 27 - [There's a mechanical watch feature called a “hack”. Why is it called that?](https://hachyderm.io/@danderson/111136144708450117)
-- Sep 27 - [Tell HN: Please don't print –help to stderr in your CLI tools](https://news.ycombinator.com/item?id=37682859)
-- Sep 27 - [Open Source doesn't win by being cheaper](https://github.com/getlago/lago/wiki/Open-Source-does-not-win-by-being-cheaper)
-- Sep 27 - [Prompt Engineering Is Snake Oil](https://grandiose.substack.com/p/prompt-engineering-is-snake-oil)
-- Sep 27 - [Inflation Bites U.S. Engineering Salaries](https://spectrum.ieee.org/electrical-engineer-salary-2023)
+- Sep 28 - [Detect Quakes with “Raspberry Shakes”](https://spectrum.ieee.org/diy-seismometer)
+- Sep 28 - [Ask HN: How do you store devices with Lithium-Ion batteries for long-term?](https://news.ycombinator.com/item?id=37684026)
+- Sep 28 - [Is There Sunken Treasure Beneath Hell Gate in NYC?](https://www.atlasobscura.com/articles/sunken-treasure-hell-gate-new-york-east-river)
+- Sep 28 - [The Forgotten Generation: Generation X Approaches Retirement](https://www.nirsonline.org/reports/genx/)
+- Sep 27 - [Safely open apps on your Mac](https://support.apple.com/en-us/HT202491)
 <!--END_SECTION:hn-->
 
 <!--
