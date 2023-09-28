@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 28 - [Detect Quakes with “Raspberry Shakes”](https://spectrum.ieee.org/diy-seismometer)
-- Sep 28 - [Ask HN: How do you store devices with Lithium-Ion batteries for long-term?](https://news.ycombinator.com/item?id=37684026)
-- Sep 28 - [Is There Sunken Treasure Beneath Hell Gate in NYC?](https://www.atlasobscura.com/articles/sunken-treasure-hell-gate-new-york-east-river)
-- Sep 28 - [The Forgotten Generation: Generation X Approaches Retirement](https://www.nirsonline.org/reports/genx/)
-- Sep 27 - [Safely open apps on your Mac](https://support.apple.com/en-us/HT202491)
+- Sep 28 - [We finally know for sure what a trilobite ate. Trilobite found with full stomach](https://arstechnica.com/science/2023/09/we-finally-know-for-sure-what-a-trilobite-ate/)
+- Sep 28 - [As We May Think (1945)](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
+- Sep 28 - [Why Do Cats Love Boxes So Much?](https://www.discovermagazine.com/planet-earth/why-do-cats-love-boxes-so-much)
+- Sep 28 - [The German group buying ticket dodgers out of prison](https://www.bbc.com/news/world-europe-66664823)
+- Sep 28 - [Interactive GCC (igcc) is a read-eval-print loop (REPL) for C/C++](https://github.com/alexandru-dinu/igcc)
 <!--END_SECTION:hn-->
 
 <!--
