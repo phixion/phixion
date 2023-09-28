@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 28 - [Ask HN: How do you use AI to get things done faster?](https://news.ycombinator.com/item?id=37688095)
-- Sep 28 - [The Sacrifices Made by the Declaration of Independence Signers](https://michaelwsmith.com/the-sacrifices-made-by-the-declaration-signers/)
-- Sep 28 - [WebGPU Technical Report](https://chromium.googlesource.com/chromium/src/+/main/docs/security/research/graphics/webgpu_technical_report.md)
-- Sep 28 - [Google Erects Cone of Silence Around Antitrust Case](https://prospect.org/justice/2023-09-26-google-erects-cone-of-silence-around-antitrust-case/)
-- Sep 28 - [Ask HN: Lessons learned from implementing user-facing analytics / dashboards?](https://news.ycombinator.com/item?id=37687798)
+- Sep 28 - [WiFi without internet on a Southwest flight](https://jamesbvaughan.com/southwest-wifi/)
+- Sep 28 - [Snap cuts 170 jobs after closing AR Enterprise service division](https://techcrunch.com/2023/09/27/snap-shutters-its-enterprise-services-division-after-less-than-a-year/)
+- Sep 28 - [What a caste discrimination ban means for Americans](https://www.theguardian.com/us-news/2023/sep/27/california-caste-discrimination-law-south-asian-civil-rights)
+- Sep 28 - [Epic Games is laying off 16% of its staff](https://www.bloomberg.com/news/articles/2023-09-28/epic-games-is-cutting-about-900-jobs-or-16-of-staff)
+- Sep 28 - [What if Planet 9 is a Primordial Black Hole? (2019)](https://arxiv.org/abs/1909.11090)
 <!--END_SECTION:hn-->
 
 <!--
