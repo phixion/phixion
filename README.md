@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 28 - [WiFi without internet on a Southwest flight](https://jamesbvaughan.com/southwest-wifi/)
-- Sep 28 - [Snap cuts 170 jobs after closing AR Enterprise service division](https://techcrunch.com/2023/09/27/snap-shutters-its-enterprise-services-division-after-less-than-a-year/)
-- Sep 28 - [What a caste discrimination ban means for Americans](https://www.theguardian.com/us-news/2023/sep/27/california-caste-discrimination-law-south-asian-civil-rights)
-- Sep 28 - [Epic Games is laying off 16% of its staff](https://www.bloomberg.com/news/articles/2023-09-28/epic-games-is-cutting-about-900-jobs-or-16-of-staff)
-- Sep 28 - [What if Planet 9 is a Primordial Black Hole? (2019)](https://arxiv.org/abs/1909.11090)
+- Sep 28 - [BingGPT is now infested with malware](https://www.bleepingcomputer.com/news/security/bing-chat-responses-infiltrated-by-ads-pushing-malware/)
+- Sep 28 - [LibrePCB – Create electronics the easy way](https://librepcb.org/)
+- Sep 28 - [Amtrak Explorer](https://amtrakexplorer.com/)
+- Sep 28 - [Google Ending Support for Jamboard](https://workspaceupdates.googleblog.com/2023/09/the-next-phase-of-digital-whiteboarding-for-google-workspace.html)
+- Sep 28 - [Winklevoss twins secretely withdrew $280M in assets before crypto firm collapsed](https://nypost.com/2023/09/27/winklevoss-twins-secretly-withdrew-282m-in-gemini-assets-before-genesis-collapse-sources/)
 <!--END_SECTION:hn-->
 
 <!--
