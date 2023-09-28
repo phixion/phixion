@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 27 - [Is an All-Meat Diet What Nature Intended?](https://www.newyorker.com/magazine/2023/10/02/is-an-all-meat-diet-what-nature-intended)
-- Sep 27 - [GPT-4 generates simple app from Whiteboard photo](https://twitter.com/mckaywrigley/status/1707101465922453701?s=20)
-- Sep 27 - [OpenBSD PF versus FreeBSD PF](https://mwl.io/archives/23127)
-- Sep 27 - [Meta Quest 3](https://www.meta.com/quest/quest-3/)
-- Sep 27 - [The Tao of Programming (1987)](https://www.mit.edu/~xela/tao.html)
+- Sep 27 - [There's a mechanical watch feature called a “hack”. Why is it called that?](https://hachyderm.io/@danderson/111136144708450117)
+- Sep 27 - [Tell HN: Please don't print –help to stderr in your CLI tools](https://news.ycombinator.com/item?id=37682859)
+- Sep 27 - [Open Source doesn't win by being cheaper](https://github.com/getlago/lago/wiki/Open-Source-does-not-win-by-being-cheaper)
+- Sep 27 - [Prompt Engineering Is Snake Oil](https://grandiose.substack.com/p/prompt-engineering-is-snake-oil)
+- Sep 27 - [Inflation Bites U.S. Engineering Salaries](https://spectrum.ieee.org/electrical-engineer-salary-2023)
 <!--END_SECTION:hn-->
 
 <!--
