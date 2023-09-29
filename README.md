@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 29 - [Supabase (YC S20) Is Hiring a Head of Data (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/4981444004)
-- Sep 29 - [Richard Stallman reveals he has cancer in the GNU 40 Hacker Meeting talk](https://audio-video.gnu.org/video/gnu40/rms-gnu40.webm)
-- Sep 29 - [LeoLM: German-Language LLM Research](https://laion.ai/blog/leo-lm/)
-- Sep 29 - [Costco gold bars are selling out within hours](https://www.cnbc.com/2023/09/27/costco-is-selling-gold-bars-and-they-are-selling-out-within-a-few-hours.html)
-- Sep 29 - [AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model](https://arxiv.org/abs/2309.16058)
+- Sep 29 - [UpCodes (YC S17) is hiring remote SWEs, AES to help make buildings cheaper](https://up.codes/careers)
+- Sep 29 - [Everything authenticated by Microsoft is tainted](https://graz.social/@publicvoit/111147782761723981)
+- Sep 29 - [Visual Node Graph with ImGui](https://gboisse.github.io/posts/node-graph/)
+- Sep 29 - [Node.js – v20.8.0](https://nodejs.org/en/blog/release/v20.8.0)
+- Sep 29 - [Generating chess puzzles with generic algorithms (2022)](https://www.propelauth.com/post/generating-chess-puzzles-with-genetic-algorithms)
 <!--END_SECTION:hn-->
 
 <!--
