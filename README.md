@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 29 - [The point of a game is not to win, and you shouldn't even pretend that it is](https://makopool.com/subgoals.html)
-- Sep 29 - [JAX – NumPy on the CPU, GPU, and TPU, with great automatic differentiation](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html)
-- Sep 29 - [Llama 2 Long](https://arxiv.org/abs/2309.16039)
-- Sep 29 - [Show HN: SapientML – Generative AutoML for Tabular Data](https://github.com/sapientml/sapientml)
-- Sep 29 - [Discovery Steering Committee re Google Antitrust Litigation [pdf]](https://ia804605.us.archive.org/29/items/gov.uscourts.nysd.564903/gov.uscourts.nysd.564903.631.0.pdf)
+- Sep 29 - [Supabase (YC S20) Is Hiring a Head of Data (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/4981444004)
+- Sep 29 - [Richard Stallman reveals he has cancer in the GNU 40 Hacker Meeting talk](https://audio-video.gnu.org/video/gnu40/rms-gnu40.webm)
+- Sep 29 - [LeoLM: German-Language LLM Research](https://laion.ai/blog/leo-lm/)
+- Sep 29 - [Costco gold bars are selling out within hours](https://www.cnbc.com/2023/09/27/costco-is-selling-gold-bars-and-they-are-selling-out-within-a-few-hours.html)
+- Sep 29 - [AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model](https://arxiv.org/abs/2309.16058)
 <!--END_SECTION:hn-->
 
 <!--
