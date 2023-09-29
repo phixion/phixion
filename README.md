@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 28 - [BingGPT is now infested with malware](https://www.bleepingcomputer.com/news/security/bing-chat-responses-infiltrated-by-ads-pushing-malware/)
-- Sep 28 - [LibrePCB – Create electronics the easy way](https://librepcb.org/)
-- Sep 28 - [Amtrak Explorer](https://amtrakexplorer.com/)
-- Sep 28 - [Google Ending Support for Jamboard](https://workspaceupdates.googleblog.com/2023/09/the-next-phase-of-digital-whiteboarding-for-google-workspace.html)
-- Sep 28 - [Winklevoss twins secretely withdrew $280M in assets before crypto firm collapsed](https://nypost.com/2023/09/27/winklevoss-twins-secretly-withdrew-282m-in-gemini-assets-before-genesis-collapse-sources/)
+- Sep 28 - [The＄109T global stock market in one chart](https://www.visualcapitalist.com/the-109-trillion-global-stock-market-in-one-chart/)
+- Sep 28 - [Ads team begging for worse search results so that ads team can hit their goals](https://twitter.com/pdrmnvd/status/1707395736458207430)
+- Sep 28 - [Discord as a filehost will no longer be possible by the end of the year](https://this.alicorn.gay/post/729670550209937408/discord-as-a-filehost-will-no-longer-be-possible)
+- Sep 28 - [Bloomberg: Apple held talks with Microsoft about acquiring Bing in 2020](https://9to5mac.com/2023/09/28/bloomberg-apple-held-talks-with-microsoft-about-acquiring-bing-in-2020/)
+- Sep 28 - [The Timer in WatchOS 10](https://furbo.org/2023/09/28/the-timer-in-watchos-10/)
 <!--END_SECTION:hn-->
 
 <!--
