@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 29 - [Three Arrows Capital co-founder Zhu arrested in Singapore airport](https://techcrunch.com/2023/09/29/three-arrows-capital-co-founder-zhu-arrested-in-singapore-airport-sentenced-four-months-in-prison/)
-- Sep 29 - [Privacy washing: Google claims to support privacy while lobbying against it](https://proton.me/blog/google-lobbying)
-- Sep 29 - [A new era for Arecibo: legendary observatory begins next phase](https://www.nature.com/articles/d41586-023-03021-6)
-- Sep 29 - [Norway wants Facebook behavioral advertising banned across Europe](https://www.theregister.com/2023/09/29/norway_facebook_behavioral_ads/)
-- Sep 29 - [The Kakhovka Dam Disaster Revealed an Archaeological ‘Goldmine’](https://www.atlasobscura.com/articles/kakhovka-dam-chaika-cossack-archaeology)
+- Sep 29 - [Localtunnel – Expose Yourself to the World](https://theboroer.github.io/localtunnel-www/)
+- Sep 29 - [My elderly parents can't resist answering the phone](https://www.bogleheads.org/forum/viewtopic.php?t=413383)
+- Sep 29 - [Show HN: Insomnium – 100% local and privacy-focus fork of Insomnia API client](https://github.com/ArchGPT/insomnium)
+- Sep 29 - [Google RealFill: Authentic Image Completion Using Diffusion Models](https://realfill.github.io/)
+- Sep 29 - [Have a complaint about CVS? So do pharmacists: Many just walked out](https://text.npr.org/1202365487)
 <!--END_SECTION:hn-->
 
 <!--
