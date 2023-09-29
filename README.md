@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 29 - [UpCodes (YC S17) is hiring remote SWEs, AES to help make buildings cheaper](https://up.codes/careers)
-- Sep 29 - [Everything authenticated by Microsoft is tainted](https://graz.social/@publicvoit/111147782761723981)
-- Sep 29 - [Visual Node Graph with ImGui](https://gboisse.github.io/posts/node-graph/)
-- Sep 29 - [Node.js – v20.8.0](https://nodejs.org/en/blog/release/v20.8.0)
-- Sep 29 - [Generating chess puzzles with generic algorithms (2022)](https://www.propelauth.com/post/generating-chess-puzzles-with-genetic-algorithms)
+- Sep 29 - [Three Arrows Capital co-founder Zhu arrested in Singapore airport](https://techcrunch.com/2023/09/29/three-arrows-capital-co-founder-zhu-arrested-in-singapore-airport-sentenced-four-months-in-prison/)
+- Sep 29 - [Privacy washing: Google claims to support privacy while lobbying against it](https://proton.me/blog/google-lobbying)
+- Sep 29 - [A new era for Arecibo: legendary observatory begins next phase](https://www.nature.com/articles/d41586-023-03021-6)
+- Sep 29 - [Norway wants Facebook behavioral advertising banned across Europe](https://www.theregister.com/2023/09/29/norway_facebook_behavioral_ads/)
+- Sep 29 - [The Kakhovka Dam Disaster Revealed an Archaeological ‘Goldmine’](https://www.atlasobscura.com/articles/kakhovka-dam-chaika-cossack-archaeology)
 <!--END_SECTION:hn-->
 
 <!--
