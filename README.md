@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 28 - [The＄109T global stock market in one chart](https://www.visualcapitalist.com/the-109-trillion-global-stock-market-in-one-chart/)
-- Sep 28 - [Ads team begging for worse search results so that ads team can hit their goals](https://twitter.com/pdrmnvd/status/1707395736458207430)
-- Sep 28 - [Discord as a filehost will no longer be possible by the end of the year](https://this.alicorn.gay/post/729670550209937408/discord-as-a-filehost-will-no-longer-be-possible)
-- Sep 28 - [Bloomberg: Apple held talks with Microsoft about acquiring Bing in 2020](https://9to5mac.com/2023/09/28/bloomberg-apple-held-talks-with-microsoft-about-acquiring-bing-in-2020/)
-- Sep 28 - [The Timer in WatchOS 10](https://furbo.org/2023/09/28/the-timer-in-watchos-10/)
+- Sep 29 - [The point of a game is not to win, and you shouldn't even pretend that it is](https://makopool.com/subgoals.html)
+- Sep 29 - [JAX – NumPy on the CPU, GPU, and TPU, with great automatic differentiation](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html)
+- Sep 29 - [Llama 2 Long](https://arxiv.org/abs/2309.16039)
+- Sep 29 - [Show HN: SapientML – Generative AutoML for Tabular Data](https://github.com/sapientml/sapientml)
+- Sep 29 - [Discovery Steering Committee re Google Antitrust Litigation [pdf]](https://ia804605.us.archive.org/29/items/gov.uscourts.nysd.564903/gov.uscourts.nysd.564903.631.0.pdf)
 <!--END_SECTION:hn-->
 
 <!--
