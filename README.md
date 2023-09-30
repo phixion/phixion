@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 30 - [Delphia (YC W18) Is Hiring](https://www.ycombinator.com/companies/delphia/jobs/ZhWTuyK-ai-data-science-lead)
-- Sep 30 - [ChatGPT-4 significantly increased performance of BCG consultants](https://d3.harvard.edu/navigating-the-jagged-technological-frontier/)
-- Sep 30 - [White House warns of ‘unprecedented’ Serbian troop buildup on Kosovo border](https://www.theguardian.com/world/2023/sep/29/kosovo-serbian-troops-buildup-us-uk)
-- Sep 30 - [Bedbug crisis sparks political row in Paris as insect ‘scourge’ continues](https://www.theguardian.com/world/2023/sep/29/bedbug-crisis-political-row-paris-insect-scourge-continues)
-- Sep 30 - [Show HN: kproximate – A Kubernetes node autoscaler for Proxmox](https://github.com/lupinelab/kproximate)
+- Sep 30 - [Drinking diet sodas daily during pregnancy linked to autism in male offspring](https://news.uthscsa.edu/drinking-diet-sodas-and-aspartame-sweetened-beverages-daily-during-pregnancy-linked-to-autism-in-male-offspring/)
+- Sep 30 - [DOJ finally posted that “embarrassing” court doc Google wanted to hide](https://arstechnica.com/tech-policy/2023/09/google-exec-said-users-get-hooked-on-search-engine-like-cigarettes-or-drugs/)
+- Sep 30 - [Rapid Recovery from an Autism Spectrum Disorder After Treatment of Aspergillus](https://pubmed.ncbi.nlm.nih.gov/33132781/)
+- Sep 30 - [Daft Punk Announce Drumless Edition of Random Access Memories](https://pitchfork.com/news/daft-punk-announce-drumless-edition-of-random-access-memories/)
+- Sep 30 - [A Revelation About Trees Is Messing with Climate Calculations](https://web.archive.org/web/20230930090902/https://www.wired.com/story/a-revelation-about-trees-is-messing-with-climate-calculations/)
 <!--END_SECTION:hn-->
 
 <!--
