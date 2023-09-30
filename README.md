@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 29 - [Localtunnel – Expose Yourself to the World](https://theboroer.github.io/localtunnel-www/)
-- Sep 29 - [My elderly parents can't resist answering the phone](https://www.bogleheads.org/forum/viewtopic.php?t=413383)
-- Sep 29 - [Show HN: Insomnium – 100% local and privacy-focus fork of Insomnia API client](https://github.com/ArchGPT/insomnium)
-- Sep 29 - [Google RealFill: Authentic Image Completion Using Diffusion Models](https://realfill.github.io/)
-- Sep 29 - [Have a complaint about CVS? So do pharmacists: Many just walked out](https://text.npr.org/1202365487)
+- Sep 29 - [Rethinking Autonomous Driving with Large Language Models](https://arxiv.org/abs/2307.07162)
+- Sep 29 - [Trains on another level](https://factorio.com/blog/post/fff-378)
+- Sep 29 - [Obscura: A VPN that can't track your activity](https://obscuravpn.io/)
+- Sep 29 - [Soviet computer has been forgotten for 30 years [video]](https://www.youtube.com/watch?v=lVCS99Zep9w)
+- Sep 29 - [Meta in Myanmar](https://erinkissane.com/meta-in-myanmar-part-i-the-setup)
 <!--END_SECTION:hn-->
 
 <!--
