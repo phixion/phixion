@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 29 - [Ferrocene update](https://ferrous-systems.com/blog/ferrocene-update/)
-- Sep 29 - [Trains on another level](https://factorio.com/blog/post/fff-378)
-- Sep 29 - [Soviet computer has been forgotten for 30 years [video]](https://www.youtube.com/watch?v=lVCS99Zep9w)
-- Sep 29 - [Linux Kernel Hardening Checker](https://github.com/a13xp0p0v/kernel-hardening-checker)
-- Sep 29 - [Meta in Myanmar](https://erinkissane.com/meta-in-myanmar-part-i-the-setup)
+- Sep 30 - [My Lobotomy: Howard Dully's Journey (2005)](https://www.npr.org/2005/11/16/5014080/my-lobotomy-howard-dullys-journey)
+- Sep 30 - [Cloudflare launches new AI tools to help customers deploy and run models](https://techcrunch.com/2023/09/27/cloudflare-launches-new-ai-tools-to-help-customers-deploy-and-run-models/)
+- Sep 30 - [How to Use Monadic Operations for `std:optional` in C++23](https://www.cppstories.com/2023/monadic-optional-ops-cpp23/)
+- Sep 30 - [Tesla sued for severe harassment of Black workers at California plant](https://www.theguardian.com/technology/2023/sep/29/tesla-lawsuit-harassment-racism-black-employees-california)
+- Sep 30 - [A couple of messages about changes to ianVisits: Copyright trolls](https://www.ianvisits.co.uk/articles/a-couple-of-messages-about-changes-to-ianvisits-66081/)
 <!--END_SECTION:hn-->
 
 <!--
