@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 30 - [My Lobotomy: Howard Dully's Journey (2005)](https://www.npr.org/2005/11/16/5014080/my-lobotomy-howard-dullys-journey)
-- Sep 30 - [Cloudflare launches new AI tools to help customers deploy and run models](https://techcrunch.com/2023/09/27/cloudflare-launches-new-ai-tools-to-help-customers-deploy-and-run-models/)
-- Sep 30 - [How to Use Monadic Operations for `std:optional` in C++23](https://www.cppstories.com/2023/monadic-optional-ops-cpp23/)
-- Sep 30 - [Tesla sued for severe harassment of Black workers at California plant](https://www.theguardian.com/technology/2023/sep/29/tesla-lawsuit-harassment-racism-black-employees-california)
-- Sep 30 - [A couple of messages about changes to ianVisits: Copyright trolls](https://www.ianvisits.co.uk/articles/a-couple-of-messages-about-changes-to-ianvisits-66081/)
+- Sep 30 - [Delphia (YC W18) Is Hiring](https://www.ycombinator.com/companies/delphia/jobs/ZhWTuyK-ai-data-science-lead)
+- Sep 30 - [ChatGPT-4 significantly increased performance of BCG consultants](https://d3.harvard.edu/navigating-the-jagged-technological-frontier/)
+- Sep 30 - [White House warns of ‘unprecedented’ Serbian troop buildup on Kosovo border](https://www.theguardian.com/world/2023/sep/29/kosovo-serbian-troops-buildup-us-uk)
+- Sep 30 - [Bedbug crisis sparks political row in Paris as insect ‘scourge’ continues](https://www.theguardian.com/world/2023/sep/29/bedbug-crisis-political-row-paris-insect-scourge-continues)
+- Sep 30 - [Show HN: kproximate – A Kubernetes node autoscaler for Proxmox](https://github.com/lupinelab/kproximate)
 <!--END_SECTION:hn-->
 
 <!--
