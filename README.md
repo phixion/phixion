@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 01 - [More than 100 dolphins dead in Amazon as water hits 102 degrees Fahrenheit](https://www.cnn.com/2023/10/01/americas/amazon-river-dolphins-dead-temperatures-drought-intl-hnk/index.html)
-- Oct 01 - [Twitter / X is losing daily active users. CEO Linda Yaccarino confirmed it](https://mashable.com/article/twitter-x-daily-active-users-drop-under-elon-musk)
-- Oct 01 - [We don't have Senior Engineers anymore](https://sibelius.substack.com/p/we-dont-have-seniors-anymore)
-- Oct 01 - [Tire Dust Makes Up the Majority of Ocean Microplastics](https://www.thedrive.com/news/tire-dust-makes-up-the-majority-of-ocean-microplastics-study-finds)
-- Oct 01 - [Germans shrug off economic gloom at booming Oktoberfest](https://www.ft.com/content/c251bdfe-9ba3-4204-b933-b7bd6b514549)
+- Oct 01 - [Celebrity Flights](https://celebrityflight.com/)
+- Oct 01 - [Varoufakis: Capitalism is dead, long live Technofeudalism](https://unherd.com/2023/09/capitalism-is-dead-long-live-technofeudalism/)
+- Oct 01 - [Teens inundated with phone prompts day and night, research finds](https://www.nbcnews.com/health/health-news/teens-inundated-phone-prompts-day-night-research-finds-rcna108044)
+- Oct 01 - [2023 DevOps Is Terrible](https://abidmoon.hashnode.dev/2023-devops-is-terrible)
+- Oct 01 - [Whenever I buy things I try to prioritize cost per use](https://twitter.com/kepano/status/1708499101778923647)
 <!--END_SECTION:hn-->
 
 <!--
