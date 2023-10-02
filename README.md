@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 02 - [Stop Arguing over Elite Schools. Just Make Public Colleges Free](https://www.thenation.com/article/society/tuition-free-public-college/)
-- Oct 02 - [Americans Saved $1.1T Less Than Previously Thought from 2017-2022](https://www.bloomberg.com/news/articles/2023-09-28/americans-saved-1-1-trillion-less-than-thought-from-2017-2022)
-- Oct 02 - [Return to Office Is Bullshit and Everyone Knows It](https://soatok.blog/2023/10/02/return-to-office-is-bullshit-and-everyone-knows-it/)
-- Oct 02 - [Ask HN: Who is hiring? (October 2023)](https://news.ycombinator.com/item?id=37739028)
-- Oct 02 - [Ask HN: Freelancer? Seeking freelancer? (October 2023)](https://news.ycombinator.com/item?id=37739027)
+- Oct 02 - [Wilhelm Reich on pleasure and the genesis of anxiety (2021)](https://epochemagazine.org/44/wilhelm-reich-on-pleasure-and-the-genesis-of-anxiety/)
+- Oct 02 - [Show HN: Anything World – AI for 3D auto-rigging and animation](https://anything.world/)
+- Oct 02 - [ASCII FacePalm](http://www.asciifacepalm.com/)
+- Oct 02 - [Polymath Robotics (YC S22) Is Hiring](https://www.ycombinator.com/companies/polymath-robotics/jobs/NM8JJ8C-robotics-engineer-in-san-francisco)
+- Oct 02 - [Efficient streaming language models with attention sinks](https://github.com/mit-han-lab/streaming-llm)
 <!--END_SECTION:hn-->
 
 <!--
