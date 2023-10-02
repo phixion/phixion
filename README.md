@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 01 - [Maybe Google Is Popular Because It's Good?](https://reason.com/2023/09/27/maybe-google-is-popular-because-its-good/)
-- Oct 01 - [Peter Thiel’s Palantir Pushed Toward the Heart of U.K. Health Care](https://www.nytimes.com/2023/09/29/world/europe/uk-nhs-palantir.html)
-- Oct 01 - [FBI warns “phantom” hacker scams are emptying financial accounts](https://www.tomsguide.com/news/fbi-issues-warning-over-phantom-hacker-scams-dont-fall-for-this)
-- Oct 01 - [My Dearest Data East: Why? Gate of Doom/Dark Seal](https://nicole.express/2023/im-gonna-open-the-doom-gate-now.html)
-- Oct 01 - [Decomp me: Collaboratively decompile code in the browser](https://decomp.me/)
+- Oct 02 - [VeraCrypt: Free, open source, disk encryption for Windows, Mac OS X, Linux](https://www.veracrypt.fr/en/Home.html)
+- Oct 02 - [Bye Sequence, Hello UUIDv7](https://buildkite.com/blog/goodbye-integers-hello-uuids)
+- Oct 02 - [Nvidia Unveils Updated GH200 Grace Hopper with HBM3e Memory, Shipping in Q2'2024](https://www.anandtech.com/show/20001/nvidia-unveils-gh200-grace-hopper-gpu-with-hbm3e-memory)
+- Oct 02 - [Beekeeper Studio SQL editor 4.0 – Import. backup, restore, and bigquery](https://www.beekeeperstudio.io/blog/release-4.0-db-backup-restore-import-export)
+- Oct 01 - [Intimacy does not scale (2021)](https://archive.ph/AUpYp)
 <!--END_SECTION:hn-->
 
 <!--
