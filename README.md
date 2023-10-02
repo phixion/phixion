@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 01 - [Celebrity Flights](https://celebrityflight.com/)
-- Oct 01 - [Varoufakis: Capitalism is dead, long live Technofeudalism](https://unherd.com/2023/09/capitalism-is-dead-long-live-technofeudalism/)
-- Oct 01 - [Teens inundated with phone prompts day and night, research finds](https://www.nbcnews.com/health/health-news/teens-inundated-phone-prompts-day-night-research-finds-rcna108044)
-- Oct 01 - [2023 DevOps Is Terrible](https://abidmoon.hashnode.dev/2023-devops-is-terrible)
-- Oct 01 - [Whenever I buy things I try to prioritize cost per use](https://twitter.com/kepano/status/1708499101778923647)
+- Oct 01 - [Maybe Google Is Popular Because It's Good?](https://reason.com/2023/09/27/maybe-google-is-popular-because-its-good/)
+- Oct 01 - [Peter Thiel’s Palantir Pushed Toward the Heart of U.K. Health Care](https://www.nytimes.com/2023/09/29/world/europe/uk-nhs-palantir.html)
+- Oct 01 - [FBI warns “phantom” hacker scams are emptying financial accounts](https://www.tomsguide.com/news/fbi-issues-warning-over-phantom-hacker-scams-dont-fall-for-this)
+- Oct 01 - [My Dearest Data East: Why? Gate of Doom/Dark Seal](https://nicole.express/2023/im-gonna-open-the-doom-gate-now.html)
+- Oct 01 - [Decomp me: Collaboratively decompile code in the browser](https://decomp.me/)
 <!--END_SECTION:hn-->
 
 <!--
