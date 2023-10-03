@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 03 - [Google open-sources their graph mining library](https://github.com/google/graph-mining)
-- Oct 03 - [I applied to 250 jobs and timed how long each one took](https://www.careerfair.io/online-maze)
-- Oct 03 - [Predictive Policing Software Is Pretty Terrible at Predicting Crimes](https://gizmodo.com/predictive-policing-cops-law-enforcement-predpol-1850893951)
-- Oct 03 - [Picat is my favorite new toolbox language](https://buttondown.email/hillelwayne/archive/picat-is-my-favorite-new-toolbox-language/)
-- Oct 03 - [Running Stable Diffusion XL 1.0 in 298MB of RAM](https://github.com/vitoplantamura/OnnxStream/tree/846da873570a737b49154e8f835704264864b0fe)
+- Oct 03 - [Show HN: Bookmark in Public – Curate and Share Collections of Links Easily](https://linkcollect.io)
+- Oct 03 - [‘Preapproved Narratives’ Corrupt Science](https://www.wsj.com/articles/how-preapproved-narratives-corrupt-science-false-studies-covid-climate-change-5bee0844)
+- Oct 03 - [Study Finds Hybrid Work Improves Mental Health Compared to Remote or In-Office](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9517068/)
+- Oct 03 - [How police use location/search data to find suspects - not always the right ones](https://www.theguardian.com/technology/2023/oct/03/techscape-geofence-warrants)
+- Oct 03 - [Amazon Used Secret ‘Project Nessie’ Algorithm to Raise Prices](https://www.wsj.com/business/retail/amazon-used-secret-project-nessie-algorithm-to-raise-prices-6c593706)
 <!--END_SECTION:hn-->
 
 <!--
