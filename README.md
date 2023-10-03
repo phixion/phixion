@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 02 - [First blood test for dozens of hereditary cancers approved by FDA](https://www.insideprecisionmedicine.com/topics/oncology/first-blood-test-for-dozens-of-hereditary-cancers-approved-by-fda/)
-- Oct 02 - [Microsoft CEO testifies that Google’s power in search is ubiquitous](https://www.nytimes.com/2023/10/02/technology/microsoft-ceo-testifies-google-search.html)
-- Oct 02 - [Dead grandma locket request tricks Bing Chat’s AI into solving security puzzle](https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/)
-- Oct 02 - [Local-first software: You own your data, in spite of the cloud (2019)](https://www.inkandswitch.com/local-first/)
-- Oct 02 - [Wilhelm Reich on pleasure and the genesis of anxiety (2021)](https://epochemagazine.org/44/wilhelm-reich-on-pleasure-and-the-genesis-of-anxiety/)
+- Oct 03 - [The CEO of Airbnb wants you to charge less for your house](https://www.businessinsider.com/airbnb-ceo-hosts-lower-prices-competitive-hotels-brian-chesky-2023-10)
+- Oct 03 - [Ask HN: Is GenAI heading for a crypto-esque bubble pop?](https://news.ycombinator.com/item?id=37747040)
+- Oct 03 - [Redfin Is Leaving the National Association of Realtors](https://www.redfin.com/news/redfin-is-leaving-nar/)
+- Oct 03 - [PicoCalc: A Fully-Functional Clone of VisiCalc](https://www.lexaloffle.com/bbs/?tid=41739)
+- Oct 02 - [MotionLM: Multi-Agent Motion Forecasting as Language Modeling](https://arxiv.org/abs/2309.16534)
 <!--END_SECTION:hn-->
 
 <!--
