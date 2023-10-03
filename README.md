@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 03 - [HMD Global Starts Manufacturing in Europe with the ‘Made in Hungary’ Nokia XR21](https://techcrunch.com/2023/10/03/nokia-hmd-global-europe-smartphone/)
-- Oct 03 - [WeWork Skips $95M in Interest Payments](https://www.nytimes.com/2023/10/02/business/wework-misses-interest-payments.html)
-- Oct 03 - [Ask HN: How are so many fake ads allowed on YouTube?](https://news.ycombinator.com/item?id=37750170)
-- Oct 03 - [As EV sales surge and cars get heavier, parking garages will have to change](https://www.cnbc.com/2023/10/03/as-ev-sales-surge-and-cars-get-heavier-parking-garages-have-to-change.html)
-- Oct 03 - [Show HN: Binance Orderbooks Consumer in C++](https://github.com/xreptoid/viperfish)
+- Oct 03 - [Google open-sources their graph mining library](https://github.com/google/graph-mining)
+- Oct 03 - [I applied to 250 jobs and timed how long each one took](https://www.careerfair.io/online-maze)
+- Oct 03 - [Predictive Policing Software Is Pretty Terrible at Predicting Crimes](https://gizmodo.com/predictive-policing-cops-law-enforcement-predpol-1850893951)
+- Oct 03 - [Picat is my favorite new toolbox language](https://buttondown.email/hillelwayne/archive/picat-is-my-favorite-new-toolbox-language/)
+- Oct 03 - [Running Stable Diffusion XL 1.0 in 298MB of RAM](https://github.com/vitoplantamura/OnnxStream/tree/846da873570a737b49154e8f835704264864b0fe)
 <!--END_SECTION:hn-->
 
 <!--
