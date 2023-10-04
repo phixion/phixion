@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 03 - [Press Reviews of the AMD Ryzen 7040 Framework Laptop 13](https://frame.work/blog/reviews-of-framework-laptop-13-amd-ryzen-7040-series-are-live)
-- Oct 03 - [Semantic Versioning 2.0.0 – Semantic Versioning](https://semver.org/)
-- Oct 03 - [Show HN: Generate JSON mock data for testing/initial app development](https://www.jsongenerator.io/)
-- Oct 03 - [Michael F. Flynn has died](http://tofspot.blogspot.com/2023/10/wonder-and-anticipation-likes-of-which.html)
-- Oct 03 - [Gym Class VR (YC W22) is Hiring a Lead Back End Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-lead-backend-engineering)
+- Oct 04 - [Google User Data Is Police's Top Shortcut for Solving Crimes](https://www.bloomberg.com/news/features/2023-09-28/google-user-data-is-police-s-top-shortcut-for-solving-crimes)
+- Oct 04 - [Ben Fry Resigns from the Processing Foundation](https://twitter.com/ben_fry/status/1709400641456501020)
+- Oct 04 - [RT-X: the largest open-source robot dataset](https://robotics-transformer-x.github.io/)
+- Oct 04 - [Pretty good career and life advice](https://moxie.org/2013/01/07/career-advice.html)
+- Oct 04 - [BBC gives up on Threads, sticks with Mastodon](https://darnell.day/bbc-gives-up-on-threads-by-instagram-sticks-with-mastodon)
 <!--END_SECTION:hn-->
 
 <!--
