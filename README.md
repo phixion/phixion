@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 04 - [Show HN: Facebook pays indie musicians .165% of average](https://www.instagram.com/p/Cx6WuAULrGY/)
-- Oct 04 - [Man ‘forced to drive electric car into police van’ in Scotland after brakes fail](https://www.theguardian.com/uk-news/2023/oct/04/man-forced-to-drive-electric-car-into-police-van-in-scotland-after-brakes-fail)
-- Oct 04 - [Rust is not the language for you if you don't like traits](https://github.com/marshallpierce/rust-base64/issues/213)
-- Oct 04 - [Pixel 8 Pro](https://store.google.com/product/pixel_8_pro?hl=en-US)
-- Oct 04 - [Pixel 8 to have seven years of Android updates](https://www.theverge.com/2023/10/4/23899900/google-pixel-8-pro-android-updates-7-years-security-features)
+- Oct 04 - [Many scientists don’t want to tell the truth about climate change. Here’s why](https://www.wbur.org/cognoscenti/2023/10/03/1-5-degrees-celcius-un-climate-change-report-barbara-moran)
+- Oct 04 - [Expressive Text-to-Image Generation with Rich Text](https://rich-text-to-image.github.io/)
+- Oct 04 - [Show HN: Rust nom parsing Starcraft2 Replays into Arrow for Polars data analysis](https://github.com/sebosp/s2protocol-rs)
+- Oct 04 - [Vespa.ai is spinning out of Yahoo as a separate company](https://blog.vespa.ai/vespa-is-becoming-its-own-company/)
+- Oct 04 - [Ring Attention with Blockwise Transformers for Near-Infinite Context](https://arxiv.org/abs/2310.01889)
 <!--END_SECTION:hn-->
 
 <!--
