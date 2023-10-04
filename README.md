@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 04 - [Emerge (YC W21) is hiring a Senior Android Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-android-engineer)
-- Oct 04 - [Show HN: Shuttle – Build Back Ends Fast](https://github.com/shuttle-hq/shuttle)
-- Oct 04 - [Richard Stallman Talks Red Hat, AI and Ethical Software Licenses at GNU Birthday](https://fossforce.com/2023/10/richard-stallman-talks-red-hat-ai-and-ethical-software-licenses-at-gnu-birthday-event/)
-- Oct 04 - [The FTC Sues to Break Up Amazon over an Economy-Wide “Hidden Tax”](https://www.thebignewsletter.com/p/the-ftc-sues-to-break-up-amazon-over)
-- Oct 04 - [Cloudflare 1.1.1.1 DNS resolving issues](https://www.cloudflarestatus.com/incidents/j3h00yhjyw6p)
+- Oct 04 - [Show HN: Facebook pays indie musicians .165% of average](https://www.instagram.com/p/Cx6WuAULrGY/)
+- Oct 04 - [Man ‘forced to drive electric car into police van’ in Scotland after brakes fail](https://www.theguardian.com/uk-news/2023/oct/04/man-forced-to-drive-electric-car-into-police-van-in-scotland-after-brakes-fail)
+- Oct 04 - [Rust is not the language for you if you don't like traits](https://github.com/marshallpierce/rust-base64/issues/213)
+- Oct 04 - [Pixel 8 Pro](https://store.google.com/product/pixel_8_pro?hl=en-US)
+- Oct 04 - [Pixel 8 to have seven years of Android updates](https://www.theverge.com/2023/10/4/23899900/google-pixel-8-pro-android-updates-7-years-security-features)
 <!--END_SECTION:hn-->
 
 <!--
