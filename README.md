@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 05 - [Pythagorean Theorem Found on Clay Tablet 1k Years Older Than Pythagoras](https://www.iflscience.com/pythagorean-theorem-found-on-clay-tablet-1000-years-older-than-pythagoras-70934)
-- Oct 05 - [President Speaking: Spoofing Alerts in 4G LTE Networks](https://par.nsf.gov/servlets/purl/10150578)
-- Oct 05 - [Meta Reportedly Laying Off Custom Chip Staff](https://www.uploadvr.com/meta-laying-off-custom-silicon-engineers-qualcomm-partnership/)
-- Oct 05 - [LLMs Confabulate Not Hallucinate](https://www.beren.io/2023-03-19-LLMs-confabulate-not-hallucinate/)
-- Oct 05 - [U.S. Tech Workers Are Experiencing a Drop in Salaries in the Bay Area](https://www.forbes.com/sites/jackkelly/2023/10/04/us-tech-workers-are-experiencing-a-drop-in-salaries-and-in-the-number-of-jobs-available-in-the-bay-area/)
+- Oct 05 - [US startup begins producing 40%-efficient thermophotovoltaic cells](https://www.pv-magazine.com/2023/01/25/us-startup-begins-producing-40-efficient-thermophotovoltaic-cells/)
+- Oct 05 - [How Neuralink Keeps Dead Monkey Photos Secret](https://www.wired.com/story/neuralink-uc-davis-monkey-photos-videos-secret/)
+- Oct 05 - [Celestial Reference Frame Department](https://crf.usno.navy.mil/home)
+- Oct 05 - [Domestic cat larynges can produce purring frequencies without neural input](https://www.cell.com/current-biology/fulltext/S0960-9822(23)01230-7)
+- Oct 05 - [Delta finds fake jet aircraft engine parts with forged airworthiness documents](https://fortune.com/2023/10/03/delta-fourth-major-us-airline-fake-jet-aircraft-engine-parts-forged-airworthiness-documents-uk-company-aog/)
 <!--END_SECTION:hn-->
 
 <!--
