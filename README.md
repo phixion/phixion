@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 04 - [Qualcomm’s Hexagon DSP, and Now, NPU](https://chipsandcheese.com/2023/10/04/qualcomms-hexagon-dsp-and-now-npu/)
-- Oct 04 - [Insurance companies fill their networks with ‘ghost’ therapists](https://www.seattletimes.com/seattle-news/mental-health/how-insurance-companies-fill-their-networks-with-ghost-therapists/)
-- Oct 04 - [AI beats human sleuth at finding problematic images in research papers](https://www.nature.com/articles/d41586-023-02920-y)
-- Oct 04 - [Google announces plan to make Gmail “less spammy”: A checklist to help](https://www.thenewsletternewsletter.xyz/post/google-announces-plan-to-make-gmail-less-spammy-a-checklist-to-ensure-you-meet-the-new-sender-requirements)
-- Oct 04 - [Tesorio (YC S15) Is Hiring a Senior Data Engineer and Senior Back End Engineer in Latam](https://www.tesorio.com/careers#job-openings)
+- Oct 05 - [Pythagorean Theorem Found on Clay Tablet 1k Years Older Than Pythagoras](https://www.iflscience.com/pythagorean-theorem-found-on-clay-tablet-1000-years-older-than-pythagoras-70934)
+- Oct 05 - [President Speaking: Spoofing Alerts in 4G LTE Networks](https://par.nsf.gov/servlets/purl/10150578)
+- Oct 05 - [Meta Reportedly Laying Off Custom Chip Staff](https://www.uploadvr.com/meta-laying-off-custom-silicon-engineers-qualcomm-partnership/)
+- Oct 05 - [LLMs Confabulate Not Hallucinate](https://www.beren.io/2023-03-19-LLMs-confabulate-not-hallucinate/)
+- Oct 05 - [U.S. Tech Workers Are Experiencing a Drop in Salaries in the Bay Area](https://www.forbes.com/sites/jackkelly/2023/10/04/us-tech-workers-are-experiencing-a-drop-in-salaries-and-in-the-number-of-jobs-available-in-the-bay-area/)
 <!--END_SECTION:hn-->
 
 <!--
