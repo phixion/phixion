@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 05 - [Microsoft introduces AI meddling to your files with Copilot in OneDrive](https://www.theregister.com/2023/10/04/onedrive_to_acquire_copilot_skills/)
-- Oct 05 - [Lenovo PC boss: 4 in 5 of our devices will be repairable by 2025](https://www.theregister.com/2023/10/05/lenovo_pc_boss_4_in/)
-- Oct 05 - [Ron Patrick's Street-Legal Jet Powered Volkswagen Beetle (2006)](https://www.ronpatrickstuff.com/)
-- Oct 05 - [Where does my computer get the time from?](https://dotat.at/@/2023-05-26-whence-time.html)
-- Oct 05 - [Traveling words: a geometric interpretation of transformers](https://arxiv.org/abs/2309.07315)
+- Oct 05 - [ChromeOS is Linux with Google’s desktop environment](https://www.aboutchromebooks.com/news/now-more-than-ever-chromeos-is-linux-with-googles-desktop-environment/#google_vignette)
+- Oct 05 - [Test Anything Protocol (Tap)](https://testanything.org/)
+- Oct 05 - [I’m not a programmer, and I used AI to build my first bot](https://blog.replit.com/building-my-first-slack-bot)
+- Oct 05 - [Show HN: An app store just for installable web apps](https://store.app)
+- Oct 05 - [How fast are Linux pipes anyway?](https://mazzo.li/posts/fast-pipes.html)
 <!--END_SECTION:hn-->
 
 <!--
