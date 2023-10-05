@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 05 - [Whalesync (YC S21) is hiring remote full-stack software engineers](https://jobs.polymer.co/whalesync/28574)
-- Oct 05 - [HN search engine now shows Google's 404 error page](https://hn.algolia.com/)
-- Oct 05 - [Why HTTP/3 is eating the world](https://blog.apnic.net/2023/09/25/why-http-3-is-eating-the-world/)
-- Oct 05 - [Show HN: Use your familiar Markdown editor to create and publish web pages](https://amarkdown.com/)
-- Oct 05 - [Google Docs adds tracking to links in document exports](https://fosstodon.org/@Joe_0237/111145684757912952)
+- Oct 05 - [Microsoft introduces AI meddling to your files with Copilot in OneDrive](https://www.theregister.com/2023/10/04/onedrive_to_acquire_copilot_skills/)
+- Oct 05 - [Lenovo PC boss: 4 in 5 of our devices will be repairable by 2025](https://www.theregister.com/2023/10/05/lenovo_pc_boss_4_in/)
+- Oct 05 - [Ron Patrick's Street-Legal Jet Powered Volkswagen Beetle (2006)](https://www.ronpatrickstuff.com/)
+- Oct 05 - [Where does my computer get the time from?](https://dotat.at/@/2023-05-26-whence-time.html)
+- Oct 05 - [Traveling words: a geometric interpretation of transformers](https://arxiv.org/abs/2309.07315)
 <!--END_SECTION:hn-->
 
 <!--
