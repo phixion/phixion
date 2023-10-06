@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 06 - [Chinese Netizen Fined over 1M Yuan for Using VPN](https://here.news/post/93c46bbd-ea0d-48e2-bba6-135e58887f81/chinese-netizen-fined-over-1-million-yua)
-- Oct 06 - [Rails 7.1 Released](https://github.com/rails/rails/releases/tag/v7.1.0)
-- Oct 06 - [OpenPubKey and Sigstore](https://blog.sigstore.dev/openpubkey-and-sigstore/)
-- Oct 06 - [Google's agreement with Samsung prevented Branch from launching: testimony](https://www.bigtechontrial.com/p/google-is-clearly-buying-its-way)
-- Oct 06 - [Show HN: Decorate Java stack traces with source code snippets](https://github.com/laech/java-stacksrc)
+- Oct 06 - [Show HN: Another way to use an old tablet as an extra screen](https://github.com/alex028502/extra-screen)
+- Oct 06 - [Productivity has grown faster in Western Europe than in America](https://www.economist.com/graphic-detail/2023/10/04/productivity-has-grown-faster-in-western-europe-than-in-america)
+- Oct 06 - [Opening up access to GOV.UK Forms: an online form builder](https://gds.blog.gov.uk/2023/10/03/how-were-opening-up-access-to-gov-uk-forms/)
+- Oct 06 - [OpenAI’s ChatGPT Is the Whole Game Studio [video]](https://www.youtube.com/watch?v=Zlgkzjndpak)
+- Oct 06 - [Airbnb guest stays at LA rental for 500 days without paying, refuses to leave](https://www.foxla.com/news/airbnb-guest-refuses-to-leave-brentwood-rental-home-after-500-days-without-paying)
 <!--END_SECTION:hn-->
 
 <!--
