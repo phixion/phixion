@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 06 - [Show HN: Another way to use an old tablet as an extra screen](https://github.com/alex028502/extra-screen)
-- Oct 06 - [Productivity has grown faster in Western Europe than in America](https://www.economist.com/graphic-detail/2023/10/04/productivity-has-grown-faster-in-western-europe-than-in-america)
-- Oct 06 - [Opening up access to GOV.UK Forms: an online form builder](https://gds.blog.gov.uk/2023/10/03/how-were-opening-up-access-to-gov-uk-forms/)
-- Oct 06 - [OpenAI’s ChatGPT Is the Whole Game Studio [video]](https://www.youtube.com/watch?v=Zlgkzjndpak)
-- Oct 06 - [Airbnb guest stays at LA rental for 500 days without paying, refuses to leave](https://www.foxla.com/news/airbnb-guest-refuses-to-leave-brentwood-rental-home-after-500-days-without-paying)
+- Oct 06 - [Hubble’s Hitchcock Moment: An Explosion in Unexpected Place](https://scitechdaily.com/hubbles-hitchcock-moment-a-bizarre-explosion-in-unexpected-place/)
+- Oct 06 - [Java 21 VirtualThreads vs. Clojure Lazy Seqs (from Clojure Deref 2023-10-06)](https://clojure.org/news/2023/10/06/deref)
+- Oct 06 - [Petscii Side-Scrolling Platformer by Jimbo](https://jimbo.itch.io/petscii-side-scrolling-platformer)
+- Oct 06 - [Google Faces Grilling over Alleged Unfair Ad Practices in Antitrust Trial](https://www.pymnts.com/cpi_posts/google-faces-grilling-over-alleged-unfair-ad-practices-in-antitrust-trial/)
+- Oct 06 - [Unreal Engine will no longer be free for all](https://www.creativebloq.com/news/epic-games-unreal-engine-charge)
 <!--END_SECTION:hn-->
 
 <!--
