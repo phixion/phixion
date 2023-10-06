@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 05 - [NIST Elliptic Curves Seeds Bounty](https://words.filippo.io/dispatches/seeds-bounty/)
-- Oct 05 - [ChromeOS is Linux with Google’s desktop environment](https://www.aboutchromebooks.com/news/now-more-than-ever-chromeos-is-linux-with-googles-desktop-environment/#google_vignette)
-- Oct 05 - [Test Anything Protocol](https://testanything.org/)
-- Oct 05 - [Gaia-1 a 9B parameter generative world model for autonomous driving](https://wayve.ai/thinking/scaling-gaia-1/)
-- Oct 05 - [I’m not a programmer, and I used AI to build my first bot](https://blog.replit.com/building-my-first-slack-bot)
+- Oct 06 - [OpenPubKey and Sigstore](https://blog.sigstore.dev/openpubkey-and-sigstore/)
+- Oct 06 - [“Google is clearly buying its way to squelch competitors“](https://www.bigtechontrial.com/p/google-is-clearly-buying-its-way)
+- Oct 06 - [Ollama is now available as an official Docker image](https://ollama.ai/blog/ollama-is-now-available-as-an-official-docker-image)
+- Oct 06 - [Ring Is Cashing in on the UFO Craze to Promote Its Surveillance Dystopia](https://www.vice.com/en/article/g5y8m3/ring-is-cashing-in-on-the-ufo-craze-to-promote-its-surveillance-dystopia)
+- Oct 06 - [Gboard Hat Version](https://landing.google.co.jp/caps/)
 <!--END_SECTION:hn-->
 
 <!--
