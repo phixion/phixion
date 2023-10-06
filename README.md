@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 06 - [Hubble’s Hitchcock Moment: An Explosion in Unexpected Place](https://scitechdaily.com/hubbles-hitchcock-moment-a-bizarre-explosion-in-unexpected-place/)
-- Oct 06 - [Java 21 VirtualThreads vs. Clojure Lazy Seqs (from Clojure Deref 2023-10-06)](https://clojure.org/news/2023/10/06/deref)
-- Oct 06 - [Petscii Side-Scrolling Platformer by Jimbo](https://jimbo.itch.io/petscii-side-scrolling-platformer)
-- Oct 06 - [Google Faces Grilling over Alleged Unfair Ad Practices in Antitrust Trial](https://www.pymnts.com/cpi_posts/google-faces-grilling-over-alleged-unfair-ad-practices-in-antitrust-trial/)
-- Oct 06 - [Unreal Engine will no longer be free for all](https://www.creativebloq.com/news/epic-games-unreal-engine-charge)
+- Oct 06 - [More Than 80 Percent of Americans Can't Afford New Cars](https://jalopnik.com/more-than-80-percent-of-americans-can-t-afford-new-cars-1850906956)
+- Oct 06 - [Show HN: A simple Pastebin Clone using Deno](https://github.com/JLCarveth/nutty)
+- Oct 06 - [Show HN: Neobrutalism components – A collection of react-tailwind components](https://github.com/ekmas/neobrutalism-components)
+- Oct 06 - [Chicago independently abolishes subminimum wage for tipped workers](https://www.chicagotribune.com/politics/ct-chicago-council-votes-eliminate-lower-tipped-minimum-wage-20231006-xg5vpkqcxnfqhe5fqogxrpbcua-story.html)
+- Oct 06 - [Phishing 2FA 25 years ago](https://twitter.com/123456/status/1710359310419607976)
 <!--END_SECTION:hn-->
 
 <!--
