@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 07 - [Shell Using Fortnite, TikTok, etc. to Convince Kids Fossil Fuels Are Cool](https://kotaku.com/shell-big-oil-roadtrips-fortnite-map-collab-tiktok-ign-1850907435)
-- Oct 07 - [Subtraction Is Functionally Complete](https://orlp.net/blog/subtraction-is-functionally-complete/)
-- Oct 07 - [The Secretive Company That Might End Privacy as We Know It](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html)
-- Oct 07 - [Auto Xylophone with Homemade Solenoids](https://rachad47.github.io/rwae/Xylophone.html)
-- Oct 07 - [John Carmack and Rich Sutton partner to accelerate development of AGI](https://www.amii.ca/latest-from-amii/john-carmack-and-rich-sutton-agi/)
+- Oct 07 - [The government dug a deep hole for itself with Bills C-11 and C-18](https://www.theglobeandmail.com/opinion/article-the-government-dug-a-deep-hole-for-itself-with-bills-c-11-and-c-18-and/)
+- Oct 07 - [The Smartest Person Who Ever Lived (2015)](https://www.realclearscience.com/blog/2015/01/the_smartest_person_to_have_ever_lived.html)
+- Oct 07 - [Wired has removed "How Google Alters Search Queries" story](https://twitter.com/maldr0id/status/1710625763534201117)
+- Oct 07 - [How Big Pharma Reaps Profits While Hurting Everyday Americans (2019)](https://www.americanprogress.org/article/big-pharma-reaps-profits-hurting-everyday-americans/)
+- Oct 07 - [Sitting all day increase dementia risk – even if you exercise](https://www.washingtonpost.com/wellness/2023/09/27/sitting-sedentary-exercise-dementia/)
 <!--END_SECTION:hn-->
 
 <!--
