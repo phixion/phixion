@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 07 - [The government dug a deep hole for itself with Bills C-11 and C-18](https://www.theglobeandmail.com/opinion/article-the-government-dug-a-deep-hole-for-itself-with-bills-c-11-and-c-18-and/)
-- Oct 07 - [The Smartest Person Who Ever Lived (2015)](https://www.realclearscience.com/blog/2015/01/the_smartest_person_to_have_ever_lived.html)
-- Oct 07 - [Wired has removed "How Google Alters Search Queries" story](https://twitter.com/maldr0id/status/1710625763534201117)
-- Oct 07 - [How Big Pharma Reaps Profits While Hurting Everyday Americans (2019)](https://www.americanprogress.org/article/big-pharma-reaps-profits-hurting-everyday-americans/)
-- Oct 07 - [Sitting all day increase dementia risk – even if you exercise](https://www.washingtonpost.com/wellness/2023/09/27/sitting-sedentary-exercise-dementia/)
+- Oct 07 - [Testing if a port can be reached, using built-in tools other than ol' telnet](https://www.carehart.org/blog/2023/10/1/testing_port_reachability_with_other_than_telnet)
+- Oct 07 - [FTX "insurance fund" calculated by multiplying trading volume by random number](https://twitter.com/molly0xfff/status/1710718416724595187)
+- Oct 07 - [Using Awk and R to parse 25tb (2019)](https://livefreeordichotomize.com/posts/2019-06-04-using-awk-and-r-to-parse-25tb/index.html)
+- Oct 07 - [Doctorow – A Murder Story: Whatever Happened to Interoperability?](https://www.theamericanconservative.com/a-murder-story-whatever-happened-to-interoperability/)
+- Oct 07 - [Is the first cure for advanced rabies near?](https://medicalxpress.com/news/2023-09-advanced-rabies.html)
 <!--END_SECTION:hn-->
 
 <!--
