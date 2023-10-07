@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 06 - [Emacs and Shellcheck](https://amitp.blogspot.com/2023/10/emacs-and-shellcheck.html)
-- Oct 06 - [Universal Core Gains Nvidia Support](https://universal-blue.org/blog/2023/10/06/universal-core-gains-nvidia-support/)
-- Oct 06 - [Android Devices with Backdoored Firmware Found in US Schools](https://www.securityweek.com/android-devices-with-backdoored-firmware-found-in-us-schools/)
-- Oct 06 - [Show HN: Multiplayer game engine with 120fps and 2 second load time on the web](https://dotbigbang.com/game/1af877e9bfdb47088611f55982b7570f/prestons-diamond-wars?mp=playdw)
-- Oct 06 - [ASP.NET Core Blazor](https://learn.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-7.0)
+- Oct 07 - [RISC-V chip technology emerges as new battleground in US-China tech war](https://www.reuters.com/technology/us-china-tech-war-risc-v-chip-technology-emerges-new-battleground-2023-10-06/)
+- Oct 07 - [Imbue (Formerly Generally Intelligent) (YC S17) Is Research Scientists](https://news.ycombinator.com/item?id=37798143)
+- Oct 07 - [Tech giants Meta, Amazon lay off more workers as cuts continue](https://www.sfchronicle.com/tech/article/tech-giants-meta-amazon-lay-workers-cuts-continue-18406560.php)
+- Oct 06 - [Emacs and shellcheck](https://amitp.blogspot.com/2023/10/emacs-and-shellcheck.html)
+- Oct 06 - [Braid Is Dead, Long Live Braid](https://amandapeyton.com/blog/2023/10/braid-is-dead-long-live-braid/)
 <!--END_SECTION:hn-->
 
 <!--
