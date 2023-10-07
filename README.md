@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 07 - [What Is Appropriation in Art?](https://www.thecollector.com/what-is-appropriation-in-art/)
-- Oct 07 - [The Honeypot Diaries: Thousands of Daily Attacks on My Home Network](https://simone.org/honeypot-diaries/)
-- Oct 07 - [Cloudflare is free of CAPTCHAs; Turnstile is free for everyone](https://blog.cloudflare.com/turnstile-ga/)
-- Oct 07 - [Why Git Is Hard](https://roadrunnertwice.dreamwidth.org/596185.html)
-- Oct 07 - [Documented source code for Elite on the NES](https://github.com/markmoxon/nes-elite-beebasm)
+- Oct 07 - [Shell Using Fortnite, TikTok, etc. to Convince Kids Fossil Fuels Are Cool](https://kotaku.com/shell-big-oil-roadtrips-fortnite-map-collab-tiktok-ign-1850907435)
+- Oct 07 - [Subtraction Is Functionally Complete](https://orlp.net/blog/subtraction-is-functionally-complete/)
+- Oct 07 - [The Secretive Company That Might End Privacy as We Know It](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html)
+- Oct 07 - [Auto Xylophone with Homemade Solenoids](https://rachad47.github.io/rwae/Xylophone.html)
+- Oct 07 - [John Carmack and Rich Sutton partner to accelerate development of AGI](https://www.amii.ca/latest-from-amii/john-carmack-and-rich-sutton-agi/)
 <!--END_SECTION:hn-->
 
 <!--
