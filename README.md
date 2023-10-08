@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 08 - [World's fastest sailboat: Two wild designs hit the water for testing](https://newatlas.com/marine/syroco-sp80-testing/)
-- Oct 08 - [Indoor wood burning raises women’s lung cancer risk by 43%](https://www.sciencedirect.com/science/article/pii/S0160412023004014)
-- Oct 08 - [Strong evidence is common (2021)](https://markxu.com/strong-evidence)
-- Oct 08 - [Contour: Modern and Fast Terminal Emulator](https://github.com/contour-terminal/contour)
-- Oct 08 - [Homebrew to deprecate and add caveat for HashiCorp](https://github.com/Homebrew/homebrew-core/pull/139538)
+- Oct 08 - [Learning Nim: Write an Interpreter [video]](https://www.youtube.com/watch?v=48CsjEFzyXQ)
+- Oct 08 - [Amazon launches Project Kuiper satellite internet prototypes](https://www.cnbc.com/2023/10/06/amazon-launch-project-kuiper-satellite-internet-prototypes.html)
+- Oct 08 - [New study confirms gulf stream weakening](https://phys.org/news/2023-09-definitively-gulf-stream-weakening.html)
+- Oct 08 - [Ferrocene – Rust for Critical Systems](https://ferrous-systems.com/ferrocene/)
+- Oct 08 - [Mitigations=off considered harmful or spurious SIGILL on AMD Zen4](https://forum.level1techs.com/t/mitigations-off-considered-harmful-or-spurious-sigill-on-amd-zen4/202049)
 <!--END_SECTION:hn-->
 
 <!--
