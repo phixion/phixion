@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 08 - [USA's Most Successful Union Bankrupted](https://marginalrevolution.com/marginalrevolution/2023/10/union-busted.html)
-- Oct 08 - [Amazon's Alexa Telling Users That 2020 Election Was Rigged](https://themessenger.com/news/ai-alert-alexa-tells-users-2020-election-was-rigged-report)
+- Oct 08 - [Experts warn Letby inquiry of misreading stats to explain 'suspicious' deaths](https://www.thejusticegap.com/experts-warn-letby-inquiry-about-misinterpreting-stats-to-explain-suspicious-clusters-of-hospitals-deaths/)
+- Oct 08 - [A more mature take on stateless Terraform](https://www.bejarano.io/terraform-stateless-critique/)
+- Oct 08 - [Fury: 170x faster than JDK, blazing fast serialization by JIT and Zero-copy](https://github.com/alipay/fury)
 - Oct 08 - [Questions to ask a teenager to start an important conversation](https://www.theguardian.com/lifeandstyle/2023/oct/07/10-questions-to-ask-a-teenager-to-start-an-important-conversation)
 - Oct 08 - [How to Compete with Patreon](https://siderea.dreamwidth.org/1824441.html)
-- Oct 08 - [A new basic taste joins sweet, salty, sour, bitter and umami](https://newatlas.com/biology/tongue-detects-ammonium-chloride-as-a-basic-taste/)
 <!--END_SECTION:hn-->
 
 <!--
