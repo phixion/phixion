@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 08 - [Experts warn Letby inquiry of misreading stats to explain 'suspicious' deaths](https://www.thejusticegap.com/experts-warn-letby-inquiry-about-misinterpreting-stats-to-explain-suspicious-clusters-of-hospitals-deaths/)
-- Oct 08 - [A more mature take on stateless Terraform](https://www.bejarano.io/terraform-stateless-critique/)
-- Oct 08 - [Fury: 170x faster than JDK, blazing fast serialization by JIT and Zero-copy](https://github.com/alipay/fury)
-- Oct 08 - [Questions to ask a teenager to start an important conversation](https://www.theguardian.com/lifeandstyle/2023/oct/07/10-questions-to-ask-a-teenager-to-start-an-important-conversation)
-- Oct 08 - [How to Compete with Patreon](https://siderea.dreamwidth.org/1824441.html)
+- Oct 08 - [World's fastest sailboat: Two wild designs hit the water for testing](https://newatlas.com/marine/syroco-sp80-testing/)
+- Oct 08 - [Indoor wood burning raises women’s lung cancer risk by 43%](https://www.sciencedirect.com/science/article/pii/S0160412023004014)
+- Oct 08 - [Strong evidence is common (2021)](https://markxu.com/strong-evidence)
+- Oct 08 - [Contour: Modern and Fast Terminal Emulator](https://github.com/contour-terminal/contour)
+- Oct 08 - [Homebrew to deprecate and add caveat for HashiCorp](https://github.com/Homebrew/homebrew-core/pull/139538)
 <!--END_SECTION:hn-->
 
 <!--
