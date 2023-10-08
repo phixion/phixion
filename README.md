@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 08 - [Before Skynet and The Matrix, there was Colossus: The Forbin Project](https://www.ign.com/articles/colossus-the-forbin-project-ai-sci-fi-movie)
-- Oct 08 - [An implantable device could enable injection-free control of diabetes](https://news.mit.edu/2023/implantable-device-enable-injection-free-control-diabetes-0918)
-- Oct 08 - [Oil-Canning](http://livingstingy.blogspot.com/2023/08/dude-wheres-my-cybertruck.html)
-- Oct 08 - [Organization probably doesn't want to improve things](https://ludic.mataroa.blog/blog/your-organization-probably-doesnt-want-to-improve-things/)
-- Oct 08 - [Decomposing Language Models into Understandable Components](https://www.anthropic.com/index/decomposing-language-models-into-understandable-components)
+- Oct 08 - [USA's Most Successful Union Bankrupted](https://marginalrevolution.com/marginalrevolution/2023/10/union-busted.html)
+- Oct 08 - [Amazon's Alexa Telling Users That 2020 Election Was Rigged](https://themessenger.com/news/ai-alert-alexa-tells-users-2020-election-was-rigged-report)
+- Oct 08 - [Questions to ask a teenager to start an important conversation](https://www.theguardian.com/lifeandstyle/2023/oct/07/10-questions-to-ask-a-teenager-to-start-an-important-conversation)
+- Oct 08 - [How to Compete with Patreon](https://siderea.dreamwidth.org/1824441.html)
+- Oct 08 - [A new basic taste joins sweet, salty, sour, bitter and umami](https://newatlas.com/biology/tongue-detects-ammonium-chloride-as-a-basic-taste/)
 <!--END_SECTION:hn-->
 
 <!--
