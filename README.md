@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 07 - [Testing if a port can be reached, using built-in tools other than ol' telnet](https://www.carehart.org/blog/2023/10/1/testing_port_reachability_with_other_than_telnet)
-- Oct 07 - [FTX "insurance fund" calculated by multiplying trading volume by random number](https://twitter.com/molly0xfff/status/1710718416724595187)
-- Oct 07 - [Using Awk and R to parse 25tb (2019)](https://livefreeordichotomize.com/posts/2019-06-04-using-awk-and-r-to-parse-25tb/index.html)
-- Oct 07 - [Doctorow – A Murder Story: Whatever Happened to Interoperability?](https://www.theamericanconservative.com/a-murder-story-whatever-happened-to-interoperability/)
-- Oct 07 - [Is the first cure for advanced rabies near?](https://medicalxpress.com/news/2023-09-advanced-rabies.html)
+- Oct 07 - [Permission Slip: Consumer Reports app to take back control of your data](https://permissionslipcr.com/)
+- Oct 07 - [HVM updates: simplifications, finally runs on GPUs, 80x speedup on RTX 4090](https://twitter.com/VictorTaelin/status/1710766199288570079)
+- Oct 07 - [Council of Europe says 5 governments must investigate Pegasus spyware abuse](https://pace.coe.int/en/news/9186/five-member-states-must-investigate-spyware-abuse-says-pace-committee)
+- Oct 07 - [Dockerized local and offline backing up of PostgreSQL with rotation, compression](https://github.com/efrecon/pgbackup)
+- Oct 07 - [More than 10k pre-Columbian earthworks are still hidden throughout Amazonia](https://www.science.org/doi/10.1126/science.ade2541?adobe_mc=MCMID%3D83960885786336698153577677940677830318%7CMCORGID%3D242B6472541199F70A4C98A6%2540AdobeOrg%7CTS%3D1696612291)
 <!--END_SECTION:hn-->
 
 <!--
