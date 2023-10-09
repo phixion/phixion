@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 09 - [HTTPie Desktop: cross-platform API testing client for humans](https://github.com/httpie/desktop)
-- Oct 09 - [Impacts of Lack of Sleep](https://belkarx.github.io/posts/finished/Impacts%20Of%20Lack%20Of%20Sleep.html)
-- Oct 09 - [Review of the .nz DNSSEC Chain Validation Incident on 29-30 May 2023 [pdf]](https://internetnz.nz/assets/Archives/External-report-on-nz-DNSSEC-chain-validation-incident-on-May-2023.pdf)
-- Oct 09 - [My personal C coding style as of late 2023](https://nullprogram.com/blog/2023/10/08/)
-- Oct 09 - [Self-Hosting (Almost) All the Way Down [video]](https://archive.fosdem.org/2023/schedule/event/rv_selfhosting_all_the_way_down/)
+- Oct 09 - [Blackmagic Camera for iPhone](https://www.blackmagicdesign.com/products/blackmagiccamera)
+- Oct 09 - [Why (and How) I Write Code with Pencil and Paper](https://css-tricks.com/why-and-how-i-write-code-with-pencil-and-paper/)
+- Oct 09 - [Flexoki, an inky color scheme for prose and code](https://stephango.com/flexoki)
+- Oct 09 - [Lenovo exec promises 80% of its devices will be consumer-repairable by 2025](https://www.theverge.com/2023/10/6/23884108/lenovo-consumer-repair-pcs-serviceability-framework)
+- Oct 09 - [Language Agent Tree Search Unifies Reasoning Acting and Planning in LMs](https://arxiv.org/abs/2310.04406)
 <!--END_SECTION:hn-->
 
 <!--
