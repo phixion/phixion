@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 09 - [Warp drive's best hope dies, as antimatter falls down](https://bigthink.com/starts-with-a-bang/warp-drives-best-hope-dies/)
-- Oct 09 - [UK Postal Address Oddities (2018)](https://paulplowman.com/stuff/uk-address-oddities/)
-- Oct 09 - [2023 Nobel Prize in economics awarded to Claudia Goldin](https://www.nobelprize.org/prizes/economic-sciences/2023/press-release/)
-- Oct 09 - [Stream Compression in NATS](https://qaze.app/blog/nats-stream-compression/)
-- Oct 09 - [USB inventor explains why the connector was not designed to be reversible](https://www.pcgamer.com/usb-inventor-explains-why-the-connector-was-not-designed-to-be-reversible/)
+- Oct 09 - [The pivot table, the spreadsheet's most powerful tool (2020)](https://qz.com/1903322/why-pivot-tables-are-the-spreadsheets-most-powerful-tool)
+- Oct 09 - [Lawmakers shift gears on TikTok ban](https://www.politico.com/news/2023/10/09/what-happened-to-the-tiktok-ban-00120434)
+- Oct 09 - [Announcing Chapel 1.32](https://chapel-lang.org/blog/posts/announcing-chapel-1.32/)
+- Oct 09 - [Text Showdown: Gap Buffers vs. Ropes](https://coredumped.dev/2023/08/09/text-showdown-gap-buffers-vs-ropes/)
+- Oct 09 - [Mortal Computers](https://gonzoml.substack.com/p/mortal-computers)
 <!--END_SECTION:hn-->
 
 <!--
