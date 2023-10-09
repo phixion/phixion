@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 09 - [The pivot table, the spreadsheet's most powerful tool (2020)](https://qz.com/1903322/why-pivot-tables-are-the-spreadsheets-most-powerful-tool)
-- Oct 09 - [Lawmakers shift gears on TikTok ban](https://www.politico.com/news/2023/10/09/what-happened-to-the-tiktok-ban-00120434)
-- Oct 09 - [Announcing Chapel 1.32](https://chapel-lang.org/blog/posts/announcing-chapel-1.32/)
-- Oct 09 - [Text Showdown: Gap Buffers vs. Ropes](https://coredumped.dev/2023/08/09/text-showdown-gap-buffers-vs-ropes/)
-- Oct 09 - [Mortal Computers](https://gonzoml.substack.com/p/mortal-computers)
+- Oct 09 - [You (Probably) Shouldn't Use a Lookup Table](https://specbranch.com/posts/lookup-tables/)
+- Oct 09 - [LLMs can't self-correct in reasoning tasks, DeepMind study finds](https://bdtechtalks.com/2023/10/09/llm-self-correction-reasoning-failures/)
+- Oct 09 - [Extreme Parkour with Legged Robots](https://extreme-parkour.github.io/)
+- Oct 09 - [EMPShield investing $1.9B with CHIPS support to build factory in Kansas](https://www.kansascommerce.gov/2023/02/governor-kelly-announces-emp-shield-plans-to-build-1-9-billion-1200-job-computer-chip-manufacturing-facility-in-coffey-county/)
+- Oct 09 - [Bare-metal Rust in Android](https://security.googleblog.com/2023/10/bare-metal-rust-in-android.html)
 <!--END_SECTION:hn-->
 
 <!--
