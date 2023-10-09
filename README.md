@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 08 - [Forty years of programming](https://fabiensanglard.net/40/index.html)
-- Oct 08 - [US moves closer to underground testing of nuclear weapons without any explosions](https://qz.com/us-moves-closer-to-underground-testing-of-nuclear-weapo-1850904934)
-- Oct 08 - [Speeding up the JavaScript ecosystem – The barrel file debacle](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-7/)
-- Oct 08 - [Metals Fuse Together in Space](https://www.spacecentre.nz/resources/facts/physics/metals-fuse.html)
-- Oct 08 - [Projects Innovating Around RISC-V](https://thechipletter.substack.com/p/seven-projects-innovating-around)
+- Oct 09 - [HTTPie Desktop: cross-platform API testing client for humans](https://github.com/httpie/desktop)
+- Oct 09 - [Impacts of Lack of Sleep](https://belkarx.github.io/posts/finished/Impacts%20Of%20Lack%20Of%20Sleep.html)
+- Oct 09 - [Review of the .nz DNSSEC Chain Validation Incident on 29-30 May 2023 [pdf]](https://internetnz.nz/assets/Archives/External-report-on-nz-DNSSEC-chain-validation-incident-on-May-2023.pdf)
+- Oct 09 - [My personal C coding style as of late 2023](https://nullprogram.com/blog/2023/10/08/)
+- Oct 09 - [Self-Hosting (Almost) All the Way Down [video]](https://archive.fosdem.org/2023/schedule/event/rv_selfhosting_all_the_way_down/)
 <!--END_SECTION:hn-->
 
 <!--
