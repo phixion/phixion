@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 09 - [You (Probably) Shouldn't Use a Lookup Table](https://specbranch.com/posts/lookup-tables/)
-- Oct 09 - [LLMs can't self-correct in reasoning tasks, DeepMind study finds](https://bdtechtalks.com/2023/10/09/llm-self-correction-reasoning-failures/)
-- Oct 09 - [Extreme Parkour with Legged Robots](https://extreme-parkour.github.io/)
-- Oct 09 - [EMPShield investing $1.9B with CHIPS support to build factory in Kansas](https://www.kansascommerce.gov/2023/02/governor-kelly-announces-emp-shield-plans-to-build-1-9-billion-1200-job-computer-chip-manufacturing-facility-in-coffey-county/)
-- Oct 09 - [Bare-metal Rust in Android](https://security.googleblog.com/2023/10/bare-metal-rust-in-android.html)
+- Oct 09 - [Bitten by the Black Box of iCloud](https://sixcolors.com/post/2023/10/bitten-by-the-black-box-of-icloud/)
+- Oct 09 - [DSLinux – Linux for the Nintendo DS](https://www.dslinux.org/)
+- Oct 09 - [Unity Announces Leadership Transition](https://investors.unity.com/news/news-details/2023/Unity-Announces-Leadership-Transition/default.aspx)
+- Oct 09 - [Replit AI for All](https://blog.replit.com/ai4all)
+- Oct 09 - [The Future of CSS: Easy Light-Dark Mode Color Switching with Light-Dark()](https://www.bram.us/2023/10/09/the-future-of-css-easy-light-dark-mode-color-switching-with-light-dark/)
 <!--END_SECTION:hn-->
 
 <!--
