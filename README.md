@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 10 - [Canada plans to regulate search and social media use of AI](https://www.michaelgeist.ca/2023/10/canada-plans-to-regulate-search-and-social-media-use-of-artificial-intelligence-for-content-moderation-and-discoverability/)
-- Oct 10 - [Sonos verdict vs. Google thrown out](https://www.reuters.com/legal/litigation/google-wins-reprieve-325-mln-verdict-sonos-patent-fight-2023-10-09/)
-- Oct 09 - [ECC RAM on AMD Ryzen 7000 Desktop CPUs](https://sunshowers.io/posts/am5-ryzen-7000-ecc-ram/)
-- Oct 09 - [Stop EU Chat Control](https://stopchatcontrol.eu/)
-- Oct 09 - [DSLinux – Linux for the Nintendo DS](https://www.dslinux.org/)
+- Oct 10 - [How Netflix Really Uses Java](https://www.infoq.com/news/2023/10/java-at-netflix-bakker/)
+- Oct 10 - [Handle.com (YC W19) Is Hiring an ABM Manager](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
+- Oct 10 - [Chuck Feeney has died](https://www.cnn.com/2023/10/09/business/billionaire-duty-free-shoppers-founder-charles-feeney-dead/index.html)
+- Oct 10 - [Firefox tooltip bug fixed after 22 years](https://bugzilla.mozilla.org/show_bug.cgi?id=148624)
+- Oct 10 - [Google wins reprieve from $32M verdict in Sonos patent fight](https://www.reuters.com/legal/litigation/google-wins-reprieve-325-mln-verdict-sonos-patent-fight-2023-10-09/)
 <!--END_SECTION:hn-->
 
 <!--
