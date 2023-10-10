@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 09 - [Bitten by the Black Box of iCloud](https://sixcolors.com/post/2023/10/bitten-by-the-black-box-of-icloud/)
+- Oct 10 - [Canada plans to regulate search and social media use of AI](https://www.michaelgeist.ca/2023/10/canada-plans-to-regulate-search-and-social-media-use-of-artificial-intelligence-for-content-moderation-and-discoverability/)
+- Oct 10 - [Sonos verdict vs. Google thrown out](https://www.reuters.com/legal/litigation/google-wins-reprieve-325-mln-verdict-sonos-patent-fight-2023-10-09/)
+- Oct 09 - [ECC RAM on AMD Ryzen 7000 Desktop CPUs](https://sunshowers.io/posts/am5-ryzen-7000-ecc-ram/)
+- Oct 09 - [Stop EU Chat Control](https://stopchatcontrol.eu/)
 - Oct 09 - [DSLinux – Linux for the Nintendo DS](https://www.dslinux.org/)
-- Oct 09 - [Unity Announces Leadership Transition](https://investors.unity.com/news/news-details/2023/Unity-Announces-Leadership-Transition/default.aspx)
-- Oct 09 - [Replit AI for All](https://blog.replit.com/ai4all)
-- Oct 09 - [The Future of CSS: Easy Light-Dark Mode Color Switching with Light-Dark()](https://www.bram.us/2023/10/09/the-future-of-css-easy-light-dark-mode-color-switching-with-light-dark/)
 <!--END_SECTION:hn-->
 
 <!--
