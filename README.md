@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 10 - [How Netflix Really Uses Java](https://www.infoq.com/news/2023/10/java-at-netflix-bakker/)
-- Oct 10 - [Handle.com (YC W19) Is Hiring an ABM Manager](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
-- Oct 10 - [Chuck Feeney has died](https://www.cnn.com/2023/10/09/business/billionaire-duty-free-shoppers-founder-charles-feeney-dead/index.html)
-- Oct 10 - [Firefox tooltip bug fixed after 22 years](https://bugzilla.mozilla.org/show_bug.cgi?id=148624)
-- Oct 10 - [Google wins reprieve from $32M verdict in Sonos patent fight](https://www.reuters.com/legal/litigation/google-wins-reprieve-325-mln-verdict-sonos-patent-fight-2023-10-09/)
+- Oct 10 - [Lego MRI Scanners donated to hospitals to help children cope with anxiety (2022)](https://www.lego.com/en-us/aboutus/news/2022/february/lego-foundation-donation-mri)
+- Oct 10 - [In First, Archaeologists Extract DNA of Ancient Israelites](https://www.haaretz.com/archaeology/2023-10-09/ty-article/in-first-archaeologists-extract-dna-of-ancient-israelites/0000018b-138a-d2fc-a59f-d39b21fd0000)
+- Oct 10 - [Samsung expected to report 80% profit plunge as losses mount at chip business](https://www.cnbc.com/2023/10/10/samsung-earnings-preview-q3-2023-chip-losses-weigh-on-profit.html)
+- Oct 10 - [Show HN: REST Alternative to GraphQL and tRPC](https://openapistack.co/docs/intro/)
+- Oct 10 - [Wayfire (a Wayland compositor) 0.8.0 announcement](https://wayfire.org/2023/10/07/Wayfire-0-8.html)
 <!--END_SECTION:hn-->
 
 <!--
