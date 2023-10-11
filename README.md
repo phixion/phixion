@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 11 - [Twitter no longer serves as a trustful source of information](https://notes.ghed.in/posts/2023/twitter-no-longer-serve-as-source-of-information/)
-- Oct 11 - [Beej's Guide to Network Programming (1994-2023)](https://beej.us/guide/bgnet/html/)
-- Oct 11 - [Security pros question EU zero-day rule](https://stackdiary.com/security-experts-uneasy-about-european-zero-day-law/)
-- Oct 11 - [Toxiproxy – simulate network and system conditions for chaos testing](https://github.com/Shopify/toxiproxy)
-- Oct 11 - [Newly discovered Terry Pratchett stories published](https://www.theguardian.com/books/2023/oct/11/a-stroke-of-the-pen-by-terry-pratchett-review-newly-discovered-early-stories)
+- Oct 11 - [K3s – Lightweight Kubernetes](https://k3s.io/)
+- Oct 11 - [The Deep Link Equating Math Proofs and Computer Programs](https://www.quantamagazine.org/the-deep-link-equating-math-proofs-and-computer-programs-20231011/)
+- Oct 11 - [The Third Place](https://en.wikipedia.org/wiki/Third_place)
+- Oct 11 - [Bad Speech](https://amadeuspagel.com/p/bad-speech)
+- Oct 11 - [Libraries with individually owned bookshelves spreading in Japan](https://www.japantimes.co.jp/culture/2023/10/03/libraries-individual-bookshelves/)
 <!--END_SECTION:hn-->
 
 <!--
