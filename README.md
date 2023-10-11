@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 11 - [Californians will be able to delete all personal online data in first-in-US law](https://www.theguardian.com/technology/2023/oct/10/california-delete-act-signed-newsom)
-- Oct 11 - [Newsom signs bill that would make it easier to delete online personal data](https://www.latimes.com/california/story/2023-10-10/newsom-bill-delete-online-personal-data)
-- Oct 11 - [Log is the "Pro" in iPhone 15 Pro](https://prolost.com/blog/applelog)
-- Oct 11 - [Pantographia: A Specimen Book of All the Alphabets Known on Earth (1799)](https://publicdomainreview.org/collection/pantographia/)
-- Oct 11 - [CSS Is, in Fact, Awesome](https://css-tricks.com/css-is-in-fact-awesome/)
+- Oct 11 - [You can now hail an Uber without the Uber app](https://www.businessinsider.com/how-to-request-schedule-uber-ride-over-the-phone-2023-5)
+- Oct 11 - [RFC 1925: The Twelve Networking Truths (1996)](https://www.rfc-editor.org/rfc/rfc1925)
+- Oct 11 - [How I Made a Heap Overflow in Curl](https://daniel.haxx.se/blog/2023/10/11/how-i-made-a-heap-overflow-in-curl/)
+- Oct 11 - ["MP3 is dead" missed the real, much better story (2017)](https://marco.org/2017/05/15/mp3-isnt-dead)
+- Oct 11 - [Spacedrive – an open source cross-platform file explorer](https://github.com/spacedriveapp/spacedrive)
 <!--END_SECTION:hn-->
 
 <!--
