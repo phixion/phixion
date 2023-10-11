@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 11 - [K3s – Lightweight Kubernetes](https://k3s.io/)
-- Oct 11 - [The Deep Link Equating Math Proofs and Computer Programs](https://www.quantamagazine.org/the-deep-link-equating-math-proofs-and-computer-programs-20231011/)
-- Oct 11 - [The Third Place](https://en.wikipedia.org/wiki/Third_place)
-- Oct 11 - [Bad Speech](https://amadeuspagel.com/p/bad-speech)
-- Oct 11 - [Libraries with individually owned bookshelves spreading in Japan](https://www.japantimes.co.jp/culture/2023/10/03/libraries-individual-bookshelves/)
+- Oct 11 - [Asphalt-related emissions are a major missing source of air pollution (2020)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7467703/)
+- Oct 11 - [British Sandwiches and Walking 300km of Wainwright's Coast to Coast](https://craigmod.com/ridgeline/167/)
+- Oct 11 - [Awareness at Death](https://community.macmillanlearning.com/t5/talk-psych-blog/awareness-at-death/ba-p/19410)
+- Oct 11 - [Julia leads Rust,Zig,Go and Java in data processing benchmark](https://github.com/jinyus/related_post_gen)
+- Oct 11 - [Inverted Transformers Are Effective for Time Series Forecasting](https://arxiv.org/abs/2310.06625)
 <!--END_SECTION:hn-->
 
 <!--
