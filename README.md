@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 11 - [You can now hail an Uber without the Uber app](https://www.businessinsider.com/how-to-request-schedule-uber-ride-over-the-phone-2023-5)
-- Oct 11 - [RFC 1925: The Twelve Networking Truths (1996)](https://www.rfc-editor.org/rfc/rfc1925)
-- Oct 11 - [How I Made a Heap Overflow in Curl](https://daniel.haxx.se/blog/2023/10/11/how-i-made-a-heap-overflow-in-curl/)
-- Oct 11 - ["MP3 is dead" missed the real, much better story (2017)](https://marco.org/2017/05/15/mp3-isnt-dead)
-- Oct 11 - [Spacedrive – an open source cross-platform file explorer](https://github.com/spacedriveapp/spacedrive)
+- Oct 11 - [Twitter no longer serves as a trustful source of information](https://notes.ghed.in/posts/2023/twitter-no-longer-serve-as-source-of-information/)
+- Oct 11 - [Beej's Guide to Network Programming (1994-2023)](https://beej.us/guide/bgnet/html/)
+- Oct 11 - [Security pros question EU zero-day rule](https://stackdiary.com/security-experts-uneasy-about-european-zero-day-law/)
+- Oct 11 - [Toxiproxy – simulate network and system conditions for chaos testing](https://github.com/Shopify/toxiproxy)
+- Oct 11 - [Newly discovered Terry Pratchett stories published](https://www.theguardian.com/books/2023/oct/11/a-stroke-of-the-pen-by-terry-pratchett-review-newly-discovered-early-stories)
 <!--END_SECTION:hn-->
 
 <!--
