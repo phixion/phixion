@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 10 - [JSONB – Request for evaluation and comment](https://sqlite.org/forum/forumpost/8687d4ad36)
-- Oct 10 - [Isambard Kingdom Brunel](https://en.wikipedia.org/wiki/Isambard_Kingdom_Brunel)
-- Oct 10 - [Handle.com (YC W19) Is Hiring (ABM Manager)](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
-- Oct 10 - [HAProxy is not affected by the HTTP/2 Rapid Reset Attack](https://www.haproxy.com/blog/haproxy-is-not-affected-by-the-http-2-rapid-reset-attack-cve-2023-44487)
-- Oct 10 - [The Evolution of Tunnel Boring Machines](https://www.construction-physics.com/p/the-evolution-of-tunnel-boring-machines)
+- Oct 11 - [Californians will be able to delete all personal online data in first-in-US law](https://www.theguardian.com/technology/2023/oct/10/california-delete-act-signed-newsom)
+- Oct 11 - [Newsom signs bill that would make it easier to delete online personal data](https://www.latimes.com/california/story/2023-10-10/newsom-bill-delete-online-personal-data)
+- Oct 11 - [Log is the "Pro" in iPhone 15 Pro](https://prolost.com/blog/applelog)
+- Oct 11 - [Pantographia: A Specimen Book of All the Alphabets Known on Earth (1799)](https://publicdomainreview.org/collection/pantographia/)
+- Oct 11 - [CSS Is, in Fact, Awesome](https://css-tricks.com/css-is-in-fact-awesome/)
 <!--END_SECTION:hn-->
 
 <!--
