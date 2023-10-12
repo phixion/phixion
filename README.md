@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 12 - [LSP could have been better](https://matklad.github.io/2023/10/12/lsp-could-have-been-better.html)
+- Oct 12 - [Telegram Reveals Remote IP Address When Answering Calls](https://github.com/n0a/telegram-get-remote-ip)
+- Oct 12 - [Using OpenBSD Relayd(8) as an Application Layer Gateway](https://www.tumfatig.net/2023/using-openbsd-relayd8-as-an-application-layer-gateway/)
+- Oct 11 - [Snmalloc: A Message Passing Allocator](https://github.com/microsoft/snmalloc)
 - Oct 11 - [AVX10/128 is a silly idea and should be removed from the specification](https://chipsandcheese.com/2023/10/11/avx10-128-is-a-silly-idea-and-should-be-completely-removed-from-the-specification/)
-- Oct 11 - [US citizens with permanent disabilities get free lifetime pass to National Parks](https://www.nps.gov/subjects/accessibility/interagency-access-pass.htm)
-- Oct 11 - [Evolving ArangoDB's Licensing Model for a Sustainable Future](https://arangodb.com/2023/10/evolving-arangodbs-licensing-model-for-a-sustainable-future/)
-- Oct 11 - [Galaksija: The Soviet-Era, Z80-based microcomputer](https://spectrum.ieee.org/yugoslavia-diy-microcomputer)
-- Oct 11 - [Why single-submission policies need to die (and what to do in the meantime)](https://www.nature.com/articles/d41586-023-03196-y)
 <!--END_SECTION:hn-->
 
 <!--
