@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 12 - [LSP could have been better](https://matklad.github.io/2023/10/12/lsp-could-have-been-better.html)
-- Oct 12 - [Telegram Reveals Remote IP Address When Answering Calls](https://github.com/n0a/telegram-get-remote-ip)
-- Oct 12 - [Using OpenBSD Relayd(8) as an Application Layer Gateway](https://www.tumfatig.net/2023/using-openbsd-relayd8-as-an-application-layer-gateway/)
-- Oct 11 - [Snmalloc: A Message Passing Allocator](https://github.com/microsoft/snmalloc)
-- Oct 11 - [AVX10/128 is a silly idea and should be removed from the specification](https://chipsandcheese.com/2023/10/11/avx10-128-is-a-silly-idea-and-should-be-completely-removed-from-the-specification/)
+- Oct 12 - [A Journey building a fast JSON parser and full JSONPath](https://github.com/ohler55/ojg/blob/develop/design.md)
+- Oct 12 - [Mars helicopter to try for new speed record on Thursday](https://www.theregister.com/2023/10/12/mars_helicopter_speed_record_attempt/)
+- Oct 12 - [Armbian and Devuan = Armvuan](https://github.com/declassed-art/armvuan)
+- Oct 12 - [The little-told story about the BART seat-slashing gang](https://www.sfgate.com/bayarea/article/bart-seat-slasher-hurwitz-service-systems-inc-14544785.php)
+- Oct 12 - [How LSP could have been better](https://matklad.github.io/2023/10/12/lsp-could-have-been-better.html)
 <!--END_SECTION:hn-->
 
 <!--
