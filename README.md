@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 11 - [Asphalt-related emissions are a major missing source of air pollution (2020)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7467703/)
-- Oct 11 - [British Sandwiches and Walking 300km of Wainwright's Coast to Coast](https://craigmod.com/ridgeline/167/)
-- Oct 11 - [Awareness at Death](https://community.macmillanlearning.com/t5/talk-psych-blog/awareness-at-death/ba-p/19410)
-- Oct 11 - [Julia leads Rust,Zig,Go and Java in data processing benchmark](https://github.com/jinyus/related_post_gen)
-- Oct 11 - [Inverted Transformers Are Effective for Time Series Forecasting](https://arxiv.org/abs/2310.06625)
+- Oct 11 - [AVX10/128 is a silly idea and should be removed from the specification](https://chipsandcheese.com/2023/10/11/avx10-128-is-a-silly-idea-and-should-be-completely-removed-from-the-specification/)
+- Oct 11 - [US citizens with permanent disabilities get free lifetime pass to National Parks](https://www.nps.gov/subjects/accessibility/interagency-access-pass.htm)
+- Oct 11 - [Evolving ArangoDB's Licensing Model for a Sustainable Future](https://arangodb.com/2023/10/evolving-arangodbs-licensing-model-for-a-sustainable-future/)
+- Oct 11 - [Galaksija: The Soviet-Era, Z80-based microcomputer](https://spectrum.ieee.org/yugoslavia-diy-microcomputer)
+- Oct 11 - [Why single-submission policies need to die (and what to do in the meantime)](https://www.nature.com/articles/d41586-023-03196-y)
 <!--END_SECTION:hn-->
 
 <!--
