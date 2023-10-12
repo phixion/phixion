@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 12 - [Millions of Homes Still Being Kept Vacant as Housing Costs Surge, Report Finds](https://www.vice.com/en/article/pkam9v/millions-of-homes-still-being-kept-vacant-as-housing-costs-surge-report-finds)
-- Oct 12 - [Microsoft reveals IRS notice asking for $28.9B in back taxes](https://www.engadget.com/microsoft-reveals-irs-notice-asking-for-289-billion-in-back-taxes-055326006.html)
-- Oct 12 - [IRS says Microsoft may owe more than $29B in back taxes; MSFT disagrees](https://apnews.com/article/microsoft-taxes-irs-96eb66abe86de19f1108209a8d57431a)
-- Oct 12 - [47 Anime for 47 Prefectures in Japan](https://www.tokyoweekender.com/art_and_culture/entertainment-art_and_culture/47-anime-locations-47-prefectures-japan/)
-- Oct 12 - [Email and Git = <3](https://git-send-email.io/)
+- Oct 12 - [Woman's Experimental Bionic Hand Passes Major Test with Flying Colors](https://gizmodo.com/bionic-mia-hand-prosthetic-amputee-phantom-pain-1850919751)
+- Oct 12 - ['They know us better than we know ourselves': how Amazon tracked](https://www.theguardian.com/technology/2020/feb/03/amazon-kindle-data-reading-tracking-privacy)
+- Oct 12 - [Why BMI is flawed – and how to redefine obesity](https://www.nature.com/articles/d41586-023-03143-x)
+- Oct 12 - [Want to get started with LLMs? Here's what you need to know](https://flyte.org/blog/getting-started-with-large-language-models-key-things-to-know#what-are-llms)
+- Oct 12 - [The Humans Who Live as Lab Rats](https://www.thefp.com/p/the-human-beings-who-live-as-lab)
 <!--END_SECTION:hn-->
 
 <!--
