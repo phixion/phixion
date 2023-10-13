@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 13 - [Our World in Data (YC W19) Is Hiring a Comms Manager](https://ourworldindata.org/communications-outreach-manager-q4-2023)
-- Oct 13 - [Flexport will lay off 20% of the company starting Friday, leaked memo says](https://www.businessinsider.com/flexport-layoffs-ceo-announces-20-workforce-reduction-2023-10)
-- Oct 13 - [Microsoft gets green light in UK to buy Activision](https://www.bbc.co.uk/news/business-67080391)
-- Oct 13 - [How to fit a large program into a small machine (1999)](https://mud.co.uk/richard/htflpism.htm)
-- Oct 13 - [Ask HN: Anyone Using MacBook Air M2 24GB for Developement?](https://news.ycombinator.com/item?id=37867074)
+- Oct 13 - [Authzed (YC W21) Is Hiring: Customer Success Engineer, Dev Evangelist](https://www.workatastartup.com/companies/authzed)
+- Oct 13 - [New brain atlases will unlock mysteries of the human mind](https://www.dw.com/en/new-brain-atlases-will-unlock-mysteries-of-the-human-mind/a-67078463)
+- Oct 13 - [The Advice SaaS Startup Founders Would Give Their Younger Selves](https://www.justbeepit.com/post/saas-startup-founders-what-advice-would-you-give-your-younger-selves-here-s-what-they-said)
+- Oct 13 - [The Interface of Kai Krause's Software](https://mprove.de/script/99/kai/)
+- Oct 13 - [Cisco Can't Stop Using Hard-Coded Passwords](https://www.schneier.com/blog/archives/2023/10/cisco-cant-stop-using-hard-coded-passwords.html)
 <!--END_SECTION:hn-->
 
 <!--
