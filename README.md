@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 13 - [Apple AirTags stalking led to ruin and murders, lawsuit says](https://arstechnica.com/tech-policy/2023/10/apple-airtags-triggered-explosion-of-stalking-reports-nationwide-lawsuit-says/)
-- Oct 13 - [Not setting up Find My bricked my MacBook](https://www.tokyodev.com/articles/not-setting-up-find-my-bricked-my-macbook)
-- Oct 13 - [LabVIEW abandons Mac after 4 decades](https://appleinsider.com/articles/23/10/11/labview-programming-app-abandons-the-mac-after-four-decades)
-- Oct 13 - [The Rise and Reign of Japanese VCRs [video]](https://www.youtube.com/watch?v=5CMv5V-wxT8)
-- Oct 13 - [Higher Mushroom Consumption Associated with Lower Cancer Risk](https://www.sciencedirect.com/science/article/pii/S2161831322004641)
+- Oct 13 - [Our World in Data (YC W19) Is Hiring a Comms Manager](https://ourworldindata.org/communications-outreach-manager-q4-2023)
+- Oct 13 - [Flexport will lay off 20% of the company starting Friday, leaked memo says](https://www.businessinsider.com/flexport-layoffs-ceo-announces-20-workforce-reduction-2023-10)
+- Oct 13 - [Microsoft gets green light in UK to buy Activision](https://www.bbc.co.uk/news/business-67080391)
+- Oct 13 - [How to fit a large program into a small machine (1999)](https://mud.co.uk/richard/htflpism.htm)
+- Oct 13 - [Ask HN: Anyone Using MacBook Air M2 24GB for Developement?](https://news.ycombinator.com/item?id=37867074)
 <!--END_SECTION:hn-->
 
 <!--
