@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 13 - ['Dumbphones' make a comeback: 'No one calls me anymore'](https://english.elpais.com/technology/2023-10-11/dumbphones-make-a-comeback-no-one-calls-me-anymore.html)
-- Oct 13 - [PC shipments decline slows in Q3 2023, but Apple plunges over 23%](https://techcrunch.com/2023/10/10/pc-shipments-decline-slows-in-q3-2023-but-apple-plunges-over-23/)
-- Oct 13 - [Tesla workers shared sensitive images recorded by customers' cars: Ex-employees](https://www.abc.net.au/news/2023-04-08/tesla-workers-shared-sensitive-images-recorded-by-customer-cars/102202382)
-- Oct 13 - [Removal of Mazda Connected Services Integration](https://www.home-assistant.io/blog/2023/10/13/removal-of-mazda-connected-services-integration/)
-- Oct 13 - ["Hallucinating" AIs sound creative, but let's not celebrate being wrong](https://thereader.mitpress.mit.edu/hallucinating-ais-sound-creative-but-lets-not-celebrate-being-wrong/)
+- Oct 13 - [Cloudy with a Chance of Insanity: Unsticking iCloud Drive](https://tidbits.com/2023/10/12/cloudy-with-a-chance-of-insanity-unsticking-icloud-drive/)
+- Oct 13 - [Kodable (YC IK12) is hiring a Unity game Developer to help teach kids to code](https://www.ycombinator.com/companies/kodable/jobs/67s5cf8-unity-game-developer)
+- Oct 13 - [Playing Pokemon Red with Reinforcement Learning](https://github.com/PWhiddy/PokemonRedExperiments)
+- Oct 13 - [Extinct goat was cold-blooded (2009)](https://phys.org/news/2009-11-extinct-goat-cold-blooded.html)
+- Oct 13 - [TimeGPT-1](https://arxiv.org/abs/2310.03589)
 <!--END_SECTION:hn-->
 
 <!--
