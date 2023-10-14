@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 14 - [Zoltar (YC S22) Is Hiring Founding Full-Stack Engineers in NYC](https://www.ycombinator.com/companies/zoltar-labs/jobs)
-- Oct 14 - [Book Review: How Our Roads Have Become an Invasive Species](https://undark.org/2023/10/13/book-review-crossings/)
-- Oct 14 - [AMD Counter-Strikes Itself, Pulls Driver After Anti-Lag Feature Causes CS2 Bans](https://www.tomshardware.com/news/amd-pulls-drivers-that-cause-counter-strike-2-bans-after-valve-roasted-them)
-- Oct 14 - [PostgresJs: The Fastest full featured PostgreSQL client for Node.js and Deno](https://github.com/porsager/postgres)
-- Oct 14 - [The UK's Association to Horizon Europe and Copernicus](https://ec.europa.eu/commission/presscorner/detail/en/qanda_23_4373)
+- Oct 14 - [What SWE job hunting is like right now](https://news.ycombinator.com/item?id=37881072)
+- Oct 14 - [Apple's new video reactions are making therapy awkward](https://www.theverge.com/2023/10/13/23916475/apple-video-reactions-telehealth-therapy-awkward-simplepractice)
+- Oct 14 - [Anything longer ago than yesterday should just say the actual date](https://mjtsai.com/blog/2023/10/13/relative-time-labels/)
+- Oct 14 - [The Banality of Genius: Notes on Peter Jackson's Get Back (2022)](https://www.ian-leslie.com/p/the-banality-of-genius-notes-on-peter)
+- Oct 14 - [Antarctica: Ice shelves shrinking 'with no sign of recovery](https://www.dw.com/en/antarctica-ice-shelves-shrinking-with-no-sign-of-recovery/a-67084109)
 <!--END_SECTION:hn-->
 
 <!--
