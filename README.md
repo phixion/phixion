@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 14 - [Linux on the Web: Getting a handle on the files in the browser](https://linuxontheweb.github.io/docs/what-it-is.html)
-- Oct 14 - [Real-Time Research: Top Reference Systems (Design Systems and UI Libs) 2023](https://app.excalidraw.com/l/5M4i1z9oaht/2Be9A63OXZt)
-- Oct 14 - [The Scientist and the Warplane That Became Britain's Most Unlikely Airliner](https://www.thedrive.com/the-war-zone/the-nuclear-scientist-and-the-warplane-that-became-britains-most-unlikely-airliner)
-- Oct 14 - [Anti-Anti-Adblocker uBlock filter to get rid of the annoying YouTube message](https://twitter.com/endermanch/status/1713129854818742684)
-- Oct 14 - [Firefox accounts renamed Mozilla accounts](https://support.mozilla.org/en-US/kb/firefox-accounts-renamed-mozilla-accounts)
+- Oct 15 - [Jupe: Off-grid shelters that pop up anywhere on Earth](https://www.jupe.com/get-jupe)
+- Oct 15 - [Gnome developer proposes removing the X11 session](https://www.theregister.com/2023/10/13/gnome_proposes_dropping_x11/)
+- Oct 15 - [The Average New EV Costs $14,000 Less Than It Did a Year Ago: KBB](https://www.thedrive.com/news/the-average-new-ev-costs-14000-less-than-it-did-a-year-ago)
+- Oct 15 - [Synsepalum Dulcificum (Miracle Berry)](https://en.wikipedia.org/wiki/Synsepalum_dulcificum)
+- Oct 15 - [Show HN: 3D Binpacking Algorithm Visualized](https://skusavvy.com/bin-packing-preview)
 <!--END_SECTION:hn-->
 
 <!--
