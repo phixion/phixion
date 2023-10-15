@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 15 - [Jupe: Off-grid shelters that pop up anywhere on Earth](https://www.jupe.com/get-jupe)
-- Oct 15 - [Gnome developer proposes removing the X11 session](https://www.theregister.com/2023/10/13/gnome_proposes_dropping_x11/)
-- Oct 15 - [The Average New EV Costs $14,000 Less Than It Did a Year Ago: KBB](https://www.thedrive.com/news/the-average-new-ev-costs-14000-less-than-it-did-a-year-ago)
-- Oct 15 - [Synsepalum Dulcificum (Miracle Berry)](https://en.wikipedia.org/wiki/Synsepalum_dulcificum)
-- Oct 15 - [Show HN: 3D Binpacking Algorithm Visualized](https://skusavvy.com/bin-packing-preview)
+- Oct 15 - [Google has sent internet into 'spiral of decline', claims DeepMind co-founder](https://www.telegraph.co.uk/business/2023/10/14/google-internet-spiral-of-decline-deepmind-mustafa-suleyman/)
+- Oct 15 - [Supabase (YC S20) Is Hiring a Technical Docs Lead (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/4965064004)
+- Oct 15 - [BeagleV-Ahead open-source RISC-V single board computer](https://www.beagleboard.org/boards/beaglev-ahead)
+- Oct 15 - [The fascist state of Paw Patrol (2021)](https://thecritic.co.uk/the-fascist-state-of-paw-patrol/)
+- Oct 15 - [Transactions and Concurrency in PostgreSQL](https://doadm-notes.blogspot.com/2023/10/transactions-and-concurrency-in.html)
 <!--END_SECTION:hn-->
 
 <!--
