@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 15 - [Sieve (YC W22), the video/audio AI cloud, is hiring systems engineers](https://www.sievedata.com/)
-- Oct 15 - [Ask HN: What is your experience with Nano-Hydroxyapatite toothpaste?](https://news.ycombinator.com/item?id=37888728)
-- Oct 15 - [Cursor – The AI-First Code Editor](https://cursor.sh/)
-- Oct 15 - ["Hacker News" for retro computing and gaming](https://blog.jgc.org/2023/10/hacker-news-for-retro-computing-and.html)
-- Oct 15 - [Cloudflare Sippy: Incrementally Migrate Data from AWS S3 to Reduce Egress Fees](https://www.infoq.com/news/2023/10/cloudflare-sippy-migrate-s3/)
+- Oct 15 - [Causal inference as a blind spot of data scientists](https://dzidas.com/ml/2023/10/15/blind-spot-ds/)
+- Oct 15 - [Scientists begin building AI for scientific discovery using tech behind ChatGPT](https://techxplore.com/news/2023-10-scientists-ai-scientific-discovery-tech.html)
+- Oct 15 - [Ending Junk Fees, the Most Annoying Thing in American Commerce](https://www.thebignewsletter.com/p/ending-junk-fees-the-most-annoying)
+- Oct 15 - [Do authors get paid for ad placement in novels?](https://news.ycombinator.com/item?id=37889933)
+- Oct 15 - [What does friendship look like in America?](https://www.pewresearch.org/short-reads/2023/10/12/what-does-friendship-look-like-in-america/)
 <!--END_SECTION:hn-->
 
 <!--
