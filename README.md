@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 15 - [Google has sent internet into 'spiral of decline', claims DeepMind co-founder](https://www.telegraph.co.uk/business/2023/10/14/google-internet-spiral-of-decline-deepmind-mustafa-suleyman/)
-- Oct 15 - [Supabase (YC S20) Is Hiring a Technical Docs Lead (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/4965064004)
-- Oct 15 - [BeagleV-Ahead open-source RISC-V single board computer](https://www.beagleboard.org/boards/beaglev-ahead)
-- Oct 15 - [The fascist state of Paw Patrol (2021)](https://thecritic.co.uk/the-fascist-state-of-paw-patrol/)
-- Oct 15 - [Transactions and Concurrency in PostgreSQL](https://doadm-notes.blogspot.com/2023/10/transactions-and-concurrency-in.html)
+- Oct 15 - [Sieve (YC W22), the video/audio AI cloud, is hiring systems engineers](https://www.sievedata.com/)
+- Oct 15 - [Ask HN: What is your experience with Nano-Hydroxyapatite toothpaste?](https://news.ycombinator.com/item?id=37888728)
+- Oct 15 - [Cursor – The AI-First Code Editor](https://cursor.sh/)
+- Oct 15 - ["Hacker News" for retro computing and gaming](https://blog.jgc.org/2023/10/hacker-news-for-retro-computing-and.html)
+- Oct 15 - [Cloudflare Sippy: Incrementally Migrate Data from AWS S3 to Reduce Egress Fees](https://www.infoq.com/news/2023/10/cloudflare-sippy-migrate-s3/)
 <!--END_SECTION:hn-->
 
 <!--
