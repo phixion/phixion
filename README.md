@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 15 - [Causal inference as a blind spot of data scientists](https://dzidas.com/ml/2023/10/15/blind-spot-ds/)
-- Oct 15 - [Scientists begin building AI for scientific discovery using tech behind ChatGPT](https://techxplore.com/news/2023-10-scientists-ai-scientific-discovery-tech.html)
-- Oct 15 - [Ending Junk Fees, the Most Annoying Thing in American Commerce](https://www.thebignewsletter.com/p/ending-junk-fees-the-most-annoying)
-- Oct 15 - [Do authors get paid for ad placement in novels?](https://news.ycombinator.com/item?id=37889933)
-- Oct 15 - [What does friendship look like in America?](https://www.pewresearch.org/short-reads/2023/10/12/what-does-friendship-look-like-in-america/)
+- Oct 15 - [The UN Risks Normalizing Internet Censorship](https://www.wired.com/story/united-nations-igf-saudi-arabia-russia/)
+- Oct 15 - [OpenEarable: A new, open-source, Arduino-based platform for ear-based sensing](https://open-earable.teco.edu/)
+- Oct 15 - [American Big Tech Has Enslaved Us – Yanis Varoufakis](https://www.youtube.com/watch?v=VatYrw0uqjU)
+- Oct 15 - [My Google Play Developer account has been terminated](https://medium.com/@raffaelet/my-seven-years-old-google-play-developer-account-has-been-terminated-ed321754cd51)
+- Oct 15 - [Show HN: Pg_yregress, Structured Testing for Postgres](https://github.com/omnigres/omnigres/tree/master/pg_yregress)
 <!--END_SECTION:hn-->
 
 <!--
