@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 14 - [Ask HN: For those trying to hire how hard is it to find people currently?](https://news.ycombinator.com/item?id=37883351)
-- Oct 14 - [Raymond Chen – What happened to the source code for The AppleSoft Compiler? [video]](https://www.youtube.com/watch?v=z7S9S_eW94Y)
-- Oct 14 - [Great Question (YC W21) Is Hiring Senior Account Executives](https://www.ycombinator.com/companies/great-question/jobs/BxfP9Zt-account-executive)
-- Oct 14 - [Germany's terrible trains are no joke for a nation built on efficiency](https://www.theguardian.com/business/2023/oct/14/its-the-same-daily-misery-germanys-terrible-trains-are-no-joke-for-a-nation-built-on-efficiency)
-- Oct 14 - [Escape analysis hates copy elision (2021)](https://quuxplusone.github.io/blog/2021/03/07/copy-elision-borks-escape-analysis/)
+- Oct 14 - [Linux on the Web: Getting a handle on the files in the browser](https://linuxontheweb.github.io/docs/what-it-is.html)
+- Oct 14 - [Real-Time Research: Top Reference Systems (Design Systems and UI Libs) 2023](https://app.excalidraw.com/l/5M4i1z9oaht/2Be9A63OXZt)
+- Oct 14 - [The Scientist and the Warplane That Became Britain's Most Unlikely Airliner](https://www.thedrive.com/the-war-zone/the-nuclear-scientist-and-the-warplane-that-became-britains-most-unlikely-airliner)
+- Oct 14 - [Anti-Anti-Adblocker uBlock filter to get rid of the annoying YouTube message](https://twitter.com/endermanch/status/1713129854818742684)
+- Oct 14 - [Firefox accounts renamed Mozilla accounts](https://support.mozilla.org/en-US/kb/firefox-accounts-renamed-mozilla-accounts)
 <!--END_SECTION:hn-->
 
 <!--
