@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 16 - [Google's dominance under siege: Antitrust trial threatens sweeping changes](https://www.livenowfox.com/news/googles-internet-dominance-under-siege-antitrust-trial-threatens-sweeping-changes)
-- Oct 16 - [SigNoz (YC W21), open source Datadog alternative, hiring Senior Front end Engineer](https://signoz.io/careers/senior-frontend-engineer-in/)
-- Oct 16 - [Some iPhone 15 Pro Max users are reporting OLED screen 'burn in'](https://www.techradar.com/phones/iphone/some-iphone-15-pro-max-users-are-reporting-oled-screen-burn-in)
-- Oct 16 - [EU member states still cannot agree about end-to-end encryption](https://cyberlaw.stanford.edu/blog/2023/06/eu-member-states-still-cannot-agree-about-end-end-encryption)
-- Oct 16 - [How to Build a Universe That Doesn’t Fall Apart Two Days Later](https://urbigenous.net/library/how_to_build.html)
+- Oct 16 - [Verdn (YC W22) Is Hiring Full Stack Engineers in London](https://www.ycombinator.com/companies/verdn/jobs/wJFebb6-full-stack-engineer)
+- Oct 16 - [Stack Overflow announces 28% headcount reduction](https://stackoverflow.blog/2023/10/16/stack-overflow-company-announcement-october-2023/)
+- Oct 16 - [GPU Embedding with GGML](https://bloop.ai/blog/gpu_with_ggml)
+- Oct 16 - [C Is Not a Low-level Language – Your computer is not a fast PDP-11](https://queue.acm.org/detail.cfm?id=3212479)
+- Oct 16 - [Ask HN: Why are there no open source NVMe-native key value stores in 2023?](https://news.ycombinator.com/item?id=37897921)
 <!--END_SECTION:hn-->
 
 <!--
