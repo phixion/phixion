@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 16 - [Cockpit: Web-based graphical interface for servers](https://cockpit-project.org/)
-- Oct 16 - [Semihosting with VS Code on RP2040](https://mcuoneclipse.com/2023/10/14/semihosting-with-vs-code-on-rp2040/)
-- Oct 16 - [Apple plans to update iPhones in-store without opening the boxes](https://appleinsider.com/articles/23/10/15/apple-plans-to-update-iphones-in-store-without-opening-the-boxes)
-- Oct 15 - [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/abs/2310.08560)
-- Oct 15 - [Why decline in generalists leads to disjointed games and harms tool quality](https://gameworldobserver.com/2023/10/09/generalists-vs-specialists-gamedev-tool-quality-tim-cain)
+- Oct 16 - [Google's dominance under siege: Antitrust trial threatens sweeping changes](https://www.livenowfox.com/news/googles-internet-dominance-under-siege-antitrust-trial-threatens-sweeping-changes)
+- Oct 16 - [SigNoz (YC W21), open source Datadog alternative, hiring Senior Front end Engineer](https://signoz.io/careers/senior-frontend-engineer-in/)
+- Oct 16 - [Some iPhone 15 Pro Max users are reporting OLED screen 'burn in'](https://www.techradar.com/phones/iphone/some-iphone-15-pro-max-users-are-reporting-oled-screen-burn-in)
+- Oct 16 - [EU member states still cannot agree about end-to-end encryption](https://cyberlaw.stanford.edu/blog/2023/06/eu-member-states-still-cannot-agree-about-end-end-encryption)
+- Oct 16 - [How to Build a Universe That Doesn’t Fall Apart Two Days Later](https://urbigenous.net/library/how_to_build.html)
 <!--END_SECTION:hn-->
 
 <!--
