@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 16 - [LinkedIn laying off nearly 700, mostly from core engineering teams](https://www.cnbc.com/2023/10/16/microsoft-owned-linkedin-lays-off-nearly-700-read-the-memo-here.html)
-- Oct 16 - [The Fall of Babylon is a warning to AI unicorns](https://www.wired.com/story/babylon-health-warning-ai-unicorns/)
-- Oct 16 - [Goldman Sachs reportedly said Apple Card savings account was a mistake](https://9to5mac.com/2023/10/16/apple-card-savings-account-mistake/)
-- Oct 16 - [Analogue 3D](https://www.analogue.co/3d)
-- Oct 16 - [Microsoft plans to kill off NTLM authentication in Windows 11](https://www.bleepingcomputer.com/news/security/microsoft-plans-to-kill-off-ntlm-authentication-in-windows-11/)
+- Oct 16 - [Vercel employee threatens user over domain similar to own project, gets fired](https://twitter.com/nico_jeannen/status/1713139186474406206)
+- Oct 16 - [Tanzania unveils its first locally assembled aircraft, Skyleader 600](https://townflex.com/tanzania-unveils-first-aircraft-skyleader-600/)
+- Oct 16 - [LinkedIn is laying off nearly 700 employees](https://www.npr.org/2023/10/16/1206158638/linkedin-layoffs)
+- Oct 16 - [If the Economy Is So Strong, Why Are Consumer Stocks Tanking?](https://www.wsj.com/finance/stocks/if-the-economy-is-so-strong-why-are-consumer-stocks-tanking-904fbe7f)
+- Oct 16 - [Colorado Supreme Court Approves Use of Google Search Data in Murder Case](https://www.bloomberg.com/news/articles/2023-10-16/colorado-court-approves-use-of-google-search-data-in-murder-case)
 <!--END_SECTION:hn-->
 
 <!--
