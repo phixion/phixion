@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 15 - [The UN Risks Normalizing Internet Censorship](https://www.wired.com/story/united-nations-igf-saudi-arabia-russia/)
-- Oct 15 - [OpenEarable: A new, open-source, Arduino-based platform for ear-based sensing](https://open-earable.teco.edu/)
-- Oct 15 - [American Big Tech Has Enslaved Us – Yanis Varoufakis](https://www.youtube.com/watch?v=VatYrw0uqjU)
-- Oct 15 - [My Google Play Developer account has been terminated](https://medium.com/@raffaelet/my-seven-years-old-google-play-developer-account-has-been-terminated-ed321754cd51)
-- Oct 15 - [Show HN: Pg_yregress, Structured Testing for Postgres](https://github.com/omnigres/omnigres/tree/master/pg_yregress)
+- Oct 16 - [Likud Govt Emergency Regulations to Imprison Citizens Who 'Harm National Morale'](https://www.haaretz.com/israel-news/2023-10-15/ty-article/.premium/israeli-minister-seeks-to-imprison-citizens-who-harm-national-morale/0000018b-33a7-d0b2-afff-33e788c00000)
+- Oct 15 - [Extroverts more likely to resist vaccines, study shows](https://www.utep.edu/newsfeed/2023/extroverts-more-likely-to-resist-vaccines-study-shows.html)
+- Oct 15 - [Margaret Atwood Reviews a Margaret Atwood Story by AI](https://thewalrus.ca/margaret-atwood-ai/)
+- Oct 15 - [Teaching Apple Cyberdog 1.0 new tricks (featuring OpenDoc)](http://oldvcr.blogspot.com/2023/10/teaching-apple-cyberdog-10-new-tricks.html)
+- Oct 15 - [Microsoft buys Activision – what happens to Infocom's text adventures now?](https://blog.zarfhome.com/2023/10/microsoft-consumes-activision)
 <!--END_SECTION:hn-->
 
 <!--
