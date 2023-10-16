@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 16 - [Likud Govt Emergency Regulations to Imprison Citizens Who 'Harm National Morale'](https://www.haaretz.com/israel-news/2023-10-15/ty-article/.premium/israeli-minister-seeks-to-imprison-citizens-who-harm-national-morale/0000018b-33a7-d0b2-afff-33e788c00000)
-- Oct 15 - [Extroverts more likely to resist vaccines, study shows](https://www.utep.edu/newsfeed/2023/extroverts-more-likely-to-resist-vaccines-study-shows.html)
-- Oct 15 - [Margaret Atwood Reviews a Margaret Atwood Story by AI](https://thewalrus.ca/margaret-atwood-ai/)
-- Oct 15 - [Teaching Apple Cyberdog 1.0 new tricks (featuring OpenDoc)](http://oldvcr.blogspot.com/2023/10/teaching-apple-cyberdog-10-new-tricks.html)
-- Oct 15 - [Microsoft buys Activision – what happens to Infocom's text adventures now?](https://blog.zarfhome.com/2023/10/microsoft-consumes-activision)
+- Oct 16 - [Cockpit: Web-based graphical interface for servers](https://cockpit-project.org/)
+- Oct 16 - [Semihosting with VS Code on RP2040](https://mcuoneclipse.com/2023/10/14/semihosting-with-vs-code-on-rp2040/)
+- Oct 16 - [Apple plans to update iPhones in-store without opening the boxes](https://appleinsider.com/articles/23/10/15/apple-plans-to-update-iphones-in-store-without-opening-the-boxes)
+- Oct 15 - [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/abs/2310.08560)
+- Oct 15 - [Why decline in generalists leads to disjointed games and harms tool quality](https://gameworldobserver.com/2023/10/09/generalists-vs-specialists-gamedev-tool-quality-tim-cain)
 <!--END_SECTION:hn-->
 
 <!--
