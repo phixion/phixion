@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 18 - [C++ Modules: Packaging Story](https://blog.conan.io/2023/10/17/modules-the-packaging-story.html)
-- Oct 18 - [Nitrous oxide: Laughing gas possession to be illegal in three weeks](https://www.bbc.co.uk/news/uk-67141869)
-- Oct 18 - [Nushell 0.86](https://www.nushell.sh/blog/2023-10-17-nushell_0_86.html)
-- Oct 18 - [When was the last time Marc Andreessen talked to a poor person?](https://techcrunch.com/2023/10/17/when-was-the-last-time-marc-andreessen-talked-to-a-poor-person/)
-- Oct 18 - [Barnes and Noble Sets Itself Free](https://www.nytimes.com/2023/10/17/style/barnes-noble-redesign.html)
+- Oct 18 - [Ashby (YC W19) Is Hiring Engineers Who Make Product Decisions](https://www.ashbyhq.com/careers?ashby_jid=f99c1c4a-07f5-42fa-987e-de9a93f945dd)
+- Oct 18 - [Therapy centre hack suspect faces aggravated blackmail, other charges](https://yle.fi/a/74-20055793)
+- Oct 18 - [Ask HN: What are the best / most accessible languages for blind programmers?](https://news.ycombinator.com/item?id=37926926)
+- Oct 18 - [Millennium Bridge workers hang straw bales after ancient bylaw triggered](https://www.theguardian.com/uk-news/2023/oct/18/millennium-bridge-workers-forced-to-hang-straw-bales-after-ancient-bylaw-triggered)
+- Oct 18 - [I'd rather build my house with my own earth than go into debt [video]](https://www.youtube.com/watch?v=f_q1pYl80pc)
 <!--END_SECTION:hn-->
 
 <!--
