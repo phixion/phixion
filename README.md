@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 17 - [Toyota Takes Aim at EVs with Ammonia Engine](https://www.enginelabs.com/engine-tech/engine/corrosion-of-conformity-toyota-takes-aim-at-evs-with-ammonia-engine/)
-- Oct 17 - [Adult Attention-Deficit/Hyperactivity Disorder and the Risk of Dementia](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2810766)
-- Oct 17 - [AI Graphics at JetBrains](https://blog.jetbrains.com/blog/2023/10/16/ai-graphics-at-jetbrains-story/)
-- Oct 17 - [The pneumatic tube mail system in New York City](https://untappedcities.com/2023/10/17/pneumatic-tube-mail-new-york-city/)
-- Oct 17 - ["A Young Lady's Illustrated Primer" Simulated by GPT-4](https://www.andrealyip.com/a-young-ladys-illustrated-primer)
+- Oct 18 - [Microsoft in talks to sign on Amazon as customer in $1B cloud tools deal](https://www.reuters.com/markets/deals/microsoft-sign-amazon-customer-1-bln-cloud-tools-deal-insider-2023-10-17/)
+- Oct 18 - [Qualcomm to Bring RISC-V Based Wearable Platform to Wear OS by Google](https://www.qualcomm.com/news/releases/2023/10/qualcomm-to-bring-risc-v-based-wearable-platform-to--wear-os-by-)
+- Oct 18 - [4K4D: Real-Time 4D View Synthesis at 4K Resolution](https://zju3dv.github.io/4k4d/)
+- Oct 18 - [Psytrance Guide](https://psytranceguide.com/)
+- Oct 18 - [Waymo Layoffs](https://sfstandard.com/2023/10/17/tech-layoffs-waymo-san-francisco-robotaxi/)
 <!--END_SECTION:hn-->
 
 <!--
