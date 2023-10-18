@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Oct 17 - [AndroidLista - 6,640,643 breached accounts](https://haveibeenpwned.com/PwnedWebsites#AndroidLista)
 - Oct 17 - [Phoenix - 74,776 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Phoenix)
 - Oct 09 - [Bureau van Dijk - 27,917,714 breached accounts](https://haveibeenpwned.com/PwnedWebsites#BVD)
 - Oct 08 - [PaySystem.tech (unverified) - 1,410,764 breached accounts](https://haveibeenpwned.com/PwnedWebsites#PaySystemTech)
 - Oct 03 - [Activision - 16,006 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Activision)
-- Oct 02 - [Horse Isle - 27,786 breached accounts](https://haveibeenpwned.com/PwnedWebsites#HorseIsle)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 17 - [IRS will officially launch free online tax filing service for 2024 tax season](https://www.irs.gov/newsroom/irs-advances-innovative-direct-file-project-for-2024-tax-season-free-irs-run-pilot-option-projected-to-be-available-for-eligible-taxpayers-in-13-states)
-- Oct 17 - [Using spaced repetition systems to see through a piece of mathematics](https://cognitivemedium.com/srs-mathematics)
-- Oct 17 - [Superlinear Returns](http://paulgraham.com/superlinear.html)
-- Oct 17 - [ExecuTorch: Run PyTorch programs everywhere](https://pytorch.org/executorch/stable/index.html)
-- Oct 17 - [Ishkur's Guide to Electronic Music](https://music.ishkur.com/)
+- Oct 17 - [Toyota Takes Aim at EVs with Ammonia Engine](https://www.enginelabs.com/engine-tech/engine/corrosion-of-conformity-toyota-takes-aim-at-evs-with-ammonia-engine/)
+- Oct 17 - [Adult Attention-Deficit/Hyperactivity Disorder and the Risk of Dementia](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2810766)
+- Oct 17 - [AI Graphics at JetBrains](https://blog.jetbrains.com/blog/2023/10/16/ai-graphics-at-jetbrains-story/)
+- Oct 17 - [The pneumatic tube mail system in New York City](https://untappedcities.com/2023/10/17/pneumatic-tube-mail-new-york-city/)
+- Oct 17 - ["A Young Lady's Illustrated Primer" Simulated by GPT-4](https://www.andrealyip.com/a-young-ladys-illustrated-primer)
 <!--END_SECTION:hn-->
 
 <!--
