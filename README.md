@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 19 - [I'm banned for life from advertising on Meta. Because I teach Python.](https://lerner.co.il/2023/10/19/im-banned-for-life-from-advertising-on-meta-because-i-teach-python/)
-- Oct 19 - [Google-hosted malvertising leads to fake Keepass site that looks genuine](https://arstechnica.com/security/2023/10/google-hosted-malvertising-leads-to-fake-keepass-site-that-looks-genuine/)
-- Oct 19 - [Bandcamp's Entire Union Bargaining Team Was Laid Off](https://www.404media.co/bandcamps-entire-union-bargaining-team-was-laid-off/)
-- Oct 19 - [Welcome to Bypass Paywalls Chrome Clean](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/issues/1)
-- Oct 19 - [Localsend: Open-Source Airdrop Alternative](https://github.com/localsend/localsend)
+- Oct 19 - [Bright (YC W15) hiring a VP of eng and product](https://www.ycombinator.com/companies/bright/jobs/4WczUz5-vp-of-engineering-and-products)
+- Oct 19 - ["We have a thermal printer hooked up to the internet, you can send us a doodle"](https://guestbook.goodenough.us/)
+- Oct 19 - [Requiem for a Stringref](https://wingolog.org/archives/2023/10/19/requiem-for-a-stringref)
+- Oct 19 - [Build Your Own BitTorrent](https://app.codecrafters.io/courses/bittorrent/overview)
+- Oct 19 - [LocalPilot: Open-source GitHub Copilot on your MacBook](https://github.com/danielgross/localpilot)
 <!--END_SECTION:hn-->
 
 <!--
