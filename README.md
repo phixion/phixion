@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 19 - [Bright (YC W15) hiring a VP of eng and product](https://www.ycombinator.com/companies/bright/jobs/4WczUz5-vp-of-engineering-and-products)
-- Oct 19 - ["We have a thermal printer hooked up to the internet, you can send us a doodle"](https://guestbook.goodenough.us/)
-- Oct 19 - [Requiem for a Stringref](https://wingolog.org/archives/2023/10/19/requiem-for-a-stringref)
-- Oct 19 - [Build Your Own BitTorrent](https://app.codecrafters.io/courses/bittorrent/overview)
-- Oct 19 - [LocalPilot: Open-source GitHub Copilot on your MacBook](https://github.com/danielgross/localpilot)
+- Oct 19 - [Researchers identify largest ever solar storm in 14,300-year-old tree rings](https://phys.org/news/2023-10-largest-solar-storm-ancient-year-old.html)
+- Oct 19 - [Indonesia opens carbon trading market to both skepticism and hope](https://news.mongabay.com/2023/10/indonesia-opens-carbon-trading-market-to-both-skepticism-and-hope/)
+- Oct 19 - [Mikiphone: The First Pocket Record Player](https://rarehistoricalphotos.com/mikiphone/)
+- Oct 19 - [Early Europeans Ate Seaweed for Thousands of Years](https://www.smithsonianmag.com/smart-news/early-europeans-ate-seaweed-and-aquatic-plants-180983102/)
+- Oct 19 - [Linux runtime security agent powered by eBPF](https://github.com/Exein-io/pulsar)
 <!--END_SECTION:hn-->
 
 <!--
