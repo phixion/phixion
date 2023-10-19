@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 19 - [Researchers identify largest ever solar storm in 14,300-year-old tree rings](https://phys.org/news/2023-10-largest-solar-storm-ancient-year-old.html)
-- Oct 19 - [Indonesia opens carbon trading market to both skepticism and hope](https://news.mongabay.com/2023/10/indonesia-opens-carbon-trading-market-to-both-skepticism-and-hope/)
-- Oct 19 - [Mikiphone: The First Pocket Record Player](https://rarehistoricalphotos.com/mikiphone/)
-- Oct 19 - [Early Europeans Ate Seaweed for Thousands of Years](https://www.smithsonianmag.com/smart-news/early-europeans-ate-seaweed-and-aquatic-plants-180983102/)
-- Oct 19 - [Linux runtime security agent powered by eBPF](https://github.com/Exein-io/pulsar)
+- Oct 19 - [Ask HN: How to ask LinkedIn for Cease and Desist order against a website?](https://news.ycombinator.com/item?id=37947804)
+- Oct 19 - [Ask HN: Many of You Use Linktree and](https://news.ycombinator.com/item?id=37947577)
+- Oct 19 - [Alzheimer's microbiota induce deficits in cognition and hippocampal neurogenesis](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awad303/7308687)
+- Oct 19 - [My 82 year old mother found out that fraudsters had emptied her HSBC_UK account](https://twitter.com/AAMortazavi/status/1713265395388252666)
+- Oct 19 - [Signal commit Username Integration Test](https://github.com/signalapp/Signal-Server/commit/0100f0fcc982c937751446aa8228eb9756c72e81)
 <!--END_SECTION:hn-->
 
 <!--
