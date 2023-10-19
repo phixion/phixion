@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 19 - [To YouTube: I'd gladly pay you if your website was de-bloated and fast like this](https://piped.kavin.rocks/trending)
-- Oct 19 - [Instead of YouTube, use Invidious; Instead of subscribing to channels, use RSS](https://old.reddit.com/r/palemoon/comments/uo2ux9/how_to_make_your_life_easier_with_invidious/)
-- Oct 19 - [DRM-free e-books are a big deal (2019)](https://www.libraryjournal.com/story/drm-free-e-books-are-now-available-heres-why-thats-a-big-deal)
-- Oct 19 - [United Airlines plans to board passengers with window seats first](https://www.cbsnews.com/news/united-air-window-seats-economy-class-board-first-wilma-plan/)
-- Oct 19 - [Retroactive: Run Aperture, iPhoto and iTunes on macOS Ventura, Monterey, Big Sur](https://github.com/cormiertyshawn895/Retroactive)
+- Oct 19 - [I'm banned for life from advertising on Meta. Because I teach Python.](https://lerner.co.il/2023/10/19/im-banned-for-life-from-advertising-on-meta-because-i-teach-python/)
+- Oct 19 - [Google-hosted malvertising leads to fake Keepass site that looks genuine](https://arstechnica.com/security/2023/10/google-hosted-malvertising-leads-to-fake-keepass-site-that-looks-genuine/)
+- Oct 19 - [Bandcamp's Entire Union Bargaining Team Was Laid Off](https://www.404media.co/bandcamps-entire-union-bargaining-team-was-laid-off/)
+- Oct 19 - [Welcome to Bypass Paywalls Chrome Clean](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/issues/1)
+- Oct 19 - [Localsend: Open-Source Airdrop Alternative](https://github.com/localsend/localsend)
 <!--END_SECTION:hn-->
 
 <!--
