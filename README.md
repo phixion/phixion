@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 18 - [GitHub stars won't pay your rent (2020)](https://www.kitze.io/posts/github-stars-wont-pay-your-rent)
-- Oct 18 - [An ultra-quiet electric leaf blower, powered by aerospace tech](https://techcrunch.com/2023/10/18/whisper-aero-unveils-ultra-quiet-electric-leaf-blower-powered-by-aerospace-tech/)
-- Oct 18 - [Brave appears to install VPN Services without user consent](https://www.ghacks.net/2023/10/18/brave-is-installing-vpn-services-without-user-consent/)
-- Oct 18 - [The Westminster Declaration](https://westminsterdeclaration.org)
-- Oct 18 - [Gulf Stream weakening now 99% certain, and ramifications will be global](https://www.livescience.com/planet-earth/gulf-stream-weakening-now-99-certain-and-ramifications-will-be-global)
+- Oct 18 - [Tell HN: Chrome OS now has a "camera/microphone in use" icon](https://news.ycombinator.com/item?id=37936443)
+- Oct 18 - [Colorado Supreme Court Upholds Keyword Search Warrant](https://www.eff.org/deeplinks/2023/10/colorado-supreme-court-upholds-keyword-search-warrant)
+- Oct 18 - [xVal: A continuous number encoding for large language models](https://arxiv.org/abs/2310.02989)
+- Oct 18 - [Ask HN: Where to Host a FastAPI App](https://news.ycombinator.com/item?id=37935817)
+- Oct 18 - [Feynman explains degenerate matter [video]](https://twitter.com/1517fund/status/1714766669149532351)
 <!--END_SECTION:hn-->
 
 <!--
