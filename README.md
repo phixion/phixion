@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Oct 20 - [Sphero - 832,255 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Sphero)
 - Oct 17 - [AndroidLista - 6,640,643 breached accounts](https://haveibeenpwned.com/PwnedWebsites#AndroidLista)
 - Oct 17 - [Phoenix - 74,776 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Phoenix)
 - Oct 09 - [Bureau van Dijk - 27,917,714 breached accounts](https://haveibeenpwned.com/PwnedWebsites#BVD)
 - Oct 08 - [PaySystem.tech (unverified) - 1,410,764 breached accounts](https://haveibeenpwned.com/PwnedWebsites#PaySystemTech)
-- Oct 03 - [Activision - 16,006 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Activision)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 20 - [Using extra Firefox profiles to make my life better](https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxExtraProfilesHack)
-- Oct 20 - [Pepper X](https://en.wikipedia.org/wiki/Pepper_X)
-- Oct 20 - [Does Go Have Subtyping?](https://journal.stuffwithstuff.com/2023/10/19/does-go-have-subtyping/)
-- Oct 20 - [OS/2 Warp, PowerPC Edition](http://ps-2.kev009.com/michaln/history/os2ppc/index.html)
-- Oct 20 - [Slack is retiring its status account on X](https://www.theverge.com/2023/10/19/23924662/slack-status-account-retiring-x-twitter)
+- Oct 20 - [UpCodes (YC S17) is hiring remote engineers to help architects with compliance](https://up.codes/careers)
+- Oct 20 - [What's new in C# 12: overview](https://pvs-studio.com/en/blog/posts/csharp/1074/)
+- Oct 20 - [Royal College considers no confidence move after Excel recruitment debacle](https://www.theregister.com/2023/10/20/royal_college_excel_blunder/)
+- Oct 20 - [The Unix Game](https://unixgame.io/unix50)
+- Oct 20 - [A tutorial for the sam command language (1986) [pdf]](http://doc.cat-v.org/bell_labs/sam_lang_tutorial/sam_tut.pdf)
 <!--END_SECTION:hn-->
 
 <!--
