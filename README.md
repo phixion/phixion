@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 19 - [Ask HN: How to ask LinkedIn for Cease and Desist order against a website?](https://news.ycombinator.com/item?id=37947804)
-- Oct 19 - [Ask HN: Many of You Use Linktree and](https://news.ycombinator.com/item?id=37947577)
-- Oct 19 - [Alzheimer's microbiota induce deficits in cognition and hippocampal neurogenesis](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awad303/7308687)
-- Oct 19 - [My 82 year old mother found out that fraudsters had emptied her HSBC_UK account](https://twitter.com/AAMortazavi/status/1713265395388252666)
-- Oct 19 - [Signal commit Username Integration Test](https://github.com/signalapp/Signal-Server/commit/0100f0fcc982c937751446aa8228eb9756c72e81)
+- Oct 19 - [Marines Test Fire Robot Dog Armed with Rocket Launcher](https://www.thedrive.com/the-war-zone/marines-test-fire-robot-dog-armed-with-rocket-launcher)
+- Oct 19 - [Toyota Adopts the North American Charging Standard](https://pressroom.toyota.com/toyota-adopts-the-north-american-charging-standard-to-expand-customer-charging-options/)
+- Oct 19 - [Anna's Archive – LLM Training Data from Shadow Libraries](https://annas-archive.org/llm)
+- Oct 19 - [Please Pay for a Year of Nothing](https://joe-steel.com/2023-10-19-Please-Pay-For-a-Year-of-Nothing.html)
+- Oct 19 - [Clearview doesn't let Europeans delete themselves anymore](https://twitter.com/kashhill/status/1715048994223567281)
 <!--END_SECTION:hn-->
 
 <!--
