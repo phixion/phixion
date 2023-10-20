@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 20 - [Nota is a language for writing documents, like academic papers and blog posts](https://nota-lang.org/#def-nota)
-- Oct 19 - [Toyota adopts the North American charging standard](https://pressroom.toyota.com/toyota-adopts-the-north-american-charging-standard-to-expand-customer-charging-options/)
-- Oct 19 - [Ozone hole goes large again](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Ozone_hole_goes_large_again)
-- Oct 19 - [Anna's Archive – LLM Training Data from Shadow Libraries](https://annas-archive.org/llm)
-- Oct 19 - [Clearview doesn't let Europeans delete themselves anymore](https://twitter.com/kashhill/status/1715048994223567281)
+- Oct 20 - [Using extra Firefox profiles to make my life better](https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxExtraProfilesHack)
+- Oct 20 - [Pepper X](https://en.wikipedia.org/wiki/Pepper_X)
+- Oct 20 - [Does Go Have Subtyping?](https://journal.stuffwithstuff.com/2023/10/19/does-go-have-subtyping/)
+- Oct 20 - [OS/2 Warp, PowerPC Edition](http://ps-2.kev009.com/michaln/history/os2ppc/index.html)
+- Oct 20 - [Slack is retiring its status account on X](https://www.theverge.com/2023/10/19/23924662/slack-status-account-retiring-x-twitter)
 <!--END_SECTION:hn-->
 
 <!--
