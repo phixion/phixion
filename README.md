@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 20 - [UpCodes (YC S17) is hiring remote engineers to help architects with compliance](https://up.codes/careers)
-- Oct 20 - [What's new in C# 12: overview](https://pvs-studio.com/en/blog/posts/csharp/1074/)
-- Oct 20 - [Royal College considers no confidence move after Excel recruitment debacle](https://www.theregister.com/2023/10/20/royal_college_excel_blunder/)
-- Oct 20 - [The Unix Game](https://unixgame.io/unix50)
-- Oct 20 - [A tutorial for the sam command language (1986) [pdf]](http://doc.cat-v.org/bell_labs/sam_lang_tutorial/sam_tut.pdf)
+- Oct 20 - ["<ESC>[31M"? ANSI Terminal security in 2023 and finding 10 CVEs](https://dgl.cx/2023/09/ansi-terminal-security)
+- Oct 20 - [Flappy Bird Implemented in TypeScript Types](https://zackoverflow.dev/writing/flappy-bird-in-type-level-typescript/)
+- Oct 20 - [Eclipse October 2023](https://www.gridstatus.io/dashboards/eclipse-oct-2023)
+- Oct 20 - [Cops Are Suing a Teen for Invasion of Privacy After False Arrest Vid Goes Viral](https://www.vice.com/en/article/jg5a88/cops-sue-teen-invasion-of-privacy-false-arrest)
+- Oct 20 - [Kyoto Statement on End-to-End Encryption](https://www.globalencryption.org/2023/10/kyoto-statement-on-end-to-end-encryption/)
 <!--END_SECTION:hn-->
 
 <!--
