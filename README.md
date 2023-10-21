@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 20 - [Windows 11 Pro's On-by-Default Encryption Slows SSDs Up to 45%](https://www.tomshardware.com/news/windows-software-bitlocker-slows-performance)
-- Oct 20 - [SBF Made $9B Disappear. This Forensic Accountant Found It](https://gizmodo.com/sbf-made-billions-disappear-forensic-accountant-found-1850942819)
-- Oct 20 - [Why America Is Out of Ammunition](https://www.thebignewsletter.com/p/why-america-is-out-of-ammunition)
-- Oct 20 - [Geany 2.0 Is Out](https://www.geany.org/news/geany-20-is-out/)
-- Oct 20 - [Hackers Stole Access Tokens from Okta's Support Unit](https://krebsonsecurity.com/2023/10/hackers-stole-access-tokens-from-oktas-support-unit/)
+- Oct 20 - [The Shortest Papers Ever Published](https://paperpile.com/blog/shortest-papers/)
+- Oct 20 - [Ask HN: Why has no one replaced Ticketmaster?](https://news.ycombinator.com/item?id=37962499)
+- Oct 20 - [Solving the 100GB Game Download](http://venusoft.net/)
+- Oct 20 - [Energy, WiFi and RAM use by Android messaging apps](https://decentim.grafana.net/public-dashboards/92602d3a4aa842ce97812d310077691d)
+- Oct 20 - [Cloudflare mitigated yet another Okta compromise](https://blog.cloudflare.com/how-cloudflare-mitigated-yet-another-okta-compromise/)
 <!--END_SECTION:hn-->
 
 <!--
