@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 20 - [The Shortest Papers Ever Published](https://paperpile.com/blog/shortest-papers/)
-- Oct 20 - [Ask HN: Why has no one replaced Ticketmaster?](https://news.ycombinator.com/item?id=37962499)
-- Oct 20 - [Solving the 100GB Game Download](http://venusoft.net/)
-- Oct 20 - [Energy, WiFi and RAM use by Android messaging apps](https://decentim.grafana.net/public-dashboards/92602d3a4aa842ce97812d310077691d)
-- Oct 20 - [Cloudflare mitigated yet another Okta compromise](https://blog.cloudflare.com/how-cloudflare-mitigated-yet-another-okta-compromise/)
+- Oct 21 - [The next Raptor OpenPOWER systems are coming, but they won't be Power10](https://www.talospace.com/2023/10/the-next-raptor-openpower-systems-are.html)
+- Oct 21 - [Dropbox handing over 25% of San Francisco HQ back to landlord](https://www.cnbc.com/2023/10/20/dropbox-hands-over-25percent-of-san-francisco-headquarters-back-to-landlord-.html)
+- Oct 21 - [NASA's Voyager Team Focuses on Software Patch, Thrusters](https://www.jpl.nasa.gov/news/nasas-voyager-team-focuses-on-software-patch-thrusters)
+- Oct 21 - [How to self study pure math – a step-by-step guide [video]](https://www.youtube.com/watch?v=byNaO_zn2fI)
+- Oct 21 - [Trojitá, a fast Qt IMAP email client](http://trojita.flaska.net/)
 <!--END_SECTION:hn-->
 
 <!--
