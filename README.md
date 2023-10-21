@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 21 - [Tesorio (YC S15) Is Hiring a Sr Data Engineer and Sr Back End Engineer in Latam](https://www.tesorio.com/careers#job-openings)
-- Oct 21 - [Google cuts dozens of jobs in news division](https://www.cnbc.com/2023/10/18/google-cuts-dozens-of-jobs-in-news-division-.html)
-- Oct 21 - [Town Repeatedly Surveilled Man's Yard with Drone Without a Warrant](https://www.404media.co/town-surveilled-mans-yard-without-a-warrant/)
-- Oct 21 - [We have used too many levels of abstractions and now the future looks bleak](https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html)
-- Oct 21 - [O3DE](https://o3de.org/)
+- Oct 21 - [Fish Skin Can Heal Other Animals' Eye Injuries](https://www.scientificamerican.com/article/fish-skin-can-heal-other-animals-eye-injuries/)
+- Oct 21 - [What Every Developer Should Know About GPU Computing](https://codeconfessions.substack.com/p/gpu-computing)
+- Oct 21 - [Cratering motor fuel sales in Norway show the death spiral that can end oil](https://electrek.co/2023/10/20/cratering-motor-fuel-sales-in-norway-show-the-death-spiral-that-can-end-oil/)
+- Oct 21 - [Carbon capture pipeline nixed after widespread opposition](https://arstechnica.com/tech-policy/2023/10/carbon-capture-pipeline-nixed-after-widespread-opposition/)
+- Oct 21 - [Charted: 50 Years of Music Industry Revenues, by Format](https://www.visualcapitalist.com/music-industry-revenues-by-format/)
 <!--END_SECTION:hn-->
 
 <!--
