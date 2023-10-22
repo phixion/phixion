@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 21 - [Man captures 'weird anomaly' of Storm Babet lifting forest floor in Scotland](https://www.theguardian.com/uk-news/2023/oct/21/storm-babet-forest-floor-video-mugdock-stirlingshire-scotland)
-- Oct 21 - [HN RSS feeds per user no longer available](https://news.ycombinator.com/item?id=37971534)
-- Oct 21 - [Clohe: Moving toys in the classroom (automata construction toolkit)](http://www.modernautomatamuseum.com/Clohe/00-CLOHE-EN.htm)
-- Oct 21 - [OpenRefine](https://openrefine.org/)
-- Oct 21 - [The Decline of Computers as a General Purpose Technology (2021)](https://cacm.acm.org/magazines/2021/3/250710-the-decline-of-computers-as-a-general-purpose-technology/fulltext)
+- Oct 22 - [Ask HN: Local Mac Wysiwyg HTML Editor? (for “Lo-fi” website)](https://news.ycombinator.com/item?id=37972452)
+- Oct 22 - [Nvidia Wouldn't Exist If CEO Could Turn the Clock Back 30 Years](https://www.tomshardware.com/news/nvidia-wouldnt-exist-if-ceo-could-turn-the-clock-back-30-years)
+- Oct 22 - [An antiquated law rules mining in the West](https://www.hcn.org/issues/55.8/infographic-mining-an-antiquated-law-rules-mining-in-the-west)
+- Oct 22 - [Startup CTO's Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
+- Oct 22 - [Nghttp3 1.0.0 – HTTP/3 library written in C](https://nghttp2.org/nghttp3/)
 <!--END_SECTION:hn-->
 
 <!--
