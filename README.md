@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 22 - [From the Annals of Preprocessor Hackery](http://www.os2museum.com/wp/from-the-annals-of-preprocessor-hackery/)
-- Oct 22 - [Europe's largest copper producer is the victim of metal swindle worth $198M](https://fortune.com/2023/09/20/europe-largest-copper-producer-aurubis-victim-metal-heist-worth-198-million-insiders-involved/)
-- Oct 22 - [Uber migrates microservices to multi-cloud platform running Kubernetes and Mesos](https://www.infoq.com/news/2023/10/uber-up-cloud-microservices/)
-- Oct 22 - [Bifrost: A peer-to-peer communications engine with pluggable transports](https://github.com/aperturerobotics/bifrost)
-- Oct 22 - [A 15 pound computer to inspire young programmers (2011)](https://www.bbc.co.uk/blogs/thereporters/rorycellanjones/2011/05/a_15_computer_to_inspire_young.html)
+- Oct 22 - [Ubuntu Linux snuck into high-end Dell laptops](https://www.zdnet.com/article/how-ubuntu-linux-snuck-into-high-end-dell-laptops-and-why-its-called-project-sputnik/)
+- Oct 22 - [Great Male Renunciation](https://en.wikipedia.org/wiki/Great_Male_Renunciation)
+- Oct 22 - [Onion Futures Act](https://en.wikipedia.org/wiki/Onion_Futures_Act)
+- Oct 22 - [Western Digital and Kioxia to Announce Merge This Month](https://www.tomshardware.com/news/western-digital-and-kioxia-to-announce-merge-this-month-report)
+- Oct 22 - [The Lessons of Lucasfilm's Habitat (1990)](https://web.stanford.edu/class/history34q/readings/Virtual_Worlds/LucasfilmHabitat.html)
 <!--END_SECTION:hn-->
 
 <!--
