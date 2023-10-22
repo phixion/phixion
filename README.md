@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 22 - [Ask HN: Local Mac Wysiwyg HTML Editor? (for “Lo-fi” website)](https://news.ycombinator.com/item?id=37972452)
+- Oct 22 - [The White Furnace Test](https://lousodrome.net/blog/light/2023/10/21/the-white-furnace-test/)
+- Oct 22 - [Open Source Firmware Conference](https://www.osfc.io/)
+- Oct 22 - [What happened to the dream of the Pan-American highway?](https://daily.jstor.org/the-pan-american-highway-and-the-darien-gap/)
 - Oct 22 - [Nvidia Wouldn't Exist If CEO Could Turn the Clock Back 30 Years](https://www.tomshardware.com/news/nvidia-wouldnt-exist-if-ceo-could-turn-the-clock-back-30-years)
 - Oct 22 - [An antiquated law rules mining in the West](https://www.hcn.org/issues/55.8/infographic-mining-an-antiquated-law-rules-mining-in-the-west)
-- Oct 22 - [Startup CTO's Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
-- Oct 22 - [Nghttp3 1.0.0 – HTTP/3 library written in C](https://nghttp2.org/nghttp3/)
 <!--END_SECTION:hn-->
 
 <!--
