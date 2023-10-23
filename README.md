@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 22 - [Dismantle the Censorship-Industrial Complex: The Westminster Declaration](https://www.racket.news/p/dismantle-the-censorship-industrial)
-- Oct 22 - [First 96-Core AMD Zen 4 Threadripper Tests Show Utter Domination over Intel](https://www.extremetech.com/computing/first-96-core-amd-zen-4-threadripper-tests-show-utter-domination-over-intel)
-- Oct 22 - [Alan Kay: Doing with Images Makes Symbols [video]](https://www.youtube.com/watch?v=p2LZLYcu_JY)
-- Oct 22 - [Atomic Rocket](https://projectrho.com/public_html/rocket/index.php)
-- Oct 22 - [Nanofiche: Small Storage, for Forever](https://www.archmission.org/nanofiche)
+- Oct 23 - [The Japanese city that dominates street food – and no, it's not Tokyo](https://www.cnn.com/travel/fukuoka-japan-street-food-yatai-intl-hnk/index.html)
+- Oct 23 - [Ask HN: How's your job search going in this current economy?](https://news.ycombinator.com/item?id=37981149)
+- Oct 23 - [Police raid mosque in Moscow, forcibly take worshippers to enlistment office](https://meduza.io/en/news/2023/10/22/riot-police-raid-mosque-in-moscow-region-forcibly-taking-worshippers-to-military-enlistment-office)
+- Oct 23 - [The Sun's Magnetic Poles Are Vanishing](https://www.scientificamerican.com/article/the-suns-magnetic-poles-are-vanishing/)
+- Oct 23 - [Killings in the U.S. are dropping at a historic rate](https://www.latimes.com/politics/newsletter/2023-10-20/killings-in-the-u-s-are-dropping-at-an-historic-rate-will-anyone-notice-essential-politics)
 <!--END_SECTION:hn-->
 
 <!--
