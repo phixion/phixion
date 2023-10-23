@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 23 - [Common fungus candida albicans might fuel Alzheimer's onset](https://neurosciencenews.com/alzheimers-fungus-24955/)
-- Oct 23 - [Martin Goetz, recipient of the first software patent, has died](https://www.theregister.com/2023/10/23/martin_goetz_obit/)
-- Oct 23 - [Yarn 4.0](https://yarnpkg.com/blog/release/4.0)
-- Oct 23 - [Introducing MSW 2.0](https://mswjs.io/blog/introducing-msw-2.0/)
-- Oct 23 - [Ask HN: Was any Starfighter postmortem ever published?](https://news.ycombinator.com/item?id=37985450)
+- Oct 23 - [Leaving Twitter](https://www.ben-evans.com/benedictevans/2023/10/23/leaving-twitter)
+- Oct 23 - [Nvidia to make Arm-based PC chips in major new challenge to Intel](https://www.reuters.com/technology/nvidia-make-arm-based-pc-chips-major-new-challenge-intel-2023-10-23/)
+- Oct 23 - [The GitHub Black Market That Helps Coders Cheat the Popularity Contest](https://www.wired.com/story/github-stars-black-market-coders-cheat/)
+- Oct 23 - [Generators are dead, long live coroutines, generators are back](https://blog.rust-lang.org/inside-rust/2023/10/23/coroutines.html)
+- Oct 23 - [Growing AI presence is re-energizing parts of San Francisco](https://www.washingtonpost.com/technology/2023/10/23/artificial-intelligence-san-francisco/)
 <!--END_SECTION:hn-->
 
 <!--
