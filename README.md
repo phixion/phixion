@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 23 - [New Requirements to Travel to Europe](https://travel-europe.europa.eu/etias_en)
-- Oct 23 - [Millions of smart meters will brick it when 2G and 3G turns off](https://www.theregister.com/2023/10/23/millions_of_smart_meters_will/)
-- Oct 23 - [Woman wins 12-year legal battle against Google](https://www.abc.net.au/news/2023-10-23/janice-duffy-wins-12-year-legal-battle-against-google/103008954)
-- Oct 23 - [Shopify Files Lawsuit over Illegal DMCA Takedown Abuse](https://torrentfreak.com/shopify-files-lawsuit-over-illegal-dmca-takedown-abuse-231020/)
-- Oct 23 - [Orcas that hunted alongside humans might be extinct](https://www.livescience.com/animals/orcas-that-hunted-alongside-humans-might-be-extinct)
+- Oct 23 - [Common fungus candida albicans might fuel Alzheimer's onset](https://neurosciencenews.com/alzheimers-fungus-24955/)
+- Oct 23 - [Martin Goetz, recipient of the first software patent, has died](https://www.theregister.com/2023/10/23/martin_goetz_obit/)
+- Oct 23 - [Yarn 4.0](https://yarnpkg.com/blog/release/4.0)
+- Oct 23 - [Introducing MSW 2.0](https://mswjs.io/blog/introducing-msw-2.0/)
+- Oct 23 - [Ask HN: Was any Starfighter postmortem ever published?](https://news.ycombinator.com/item?id=37985450)
 <!--END_SECTION:hn-->
 
 <!--
