@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 23 - [Why Japan Has Blue Traffic Lights Instead of Green](https://www.rd.com/article/heres-japan-blue-traffic-lights/)
-- Oct 23 - [Tailwind vs. Semantic CSS](https://nuejs.org/blog/tailwind-vs-semantic-css/)
-- Oct 23 - [Cortical Labs: "Human neural networks raised in a simulation"](https://corticallabs.com/)
-- Oct 23 - [Cooler Screens](https://computer.rip/2023-10-22-cooler-screens.html)
-- Oct 23 - [Building a unikernel that runs WebAssembly – part 1](https://flavio.castelli.me/2023/02/07/building-a-unikernel-that-runs-webassembly---part-1/)
+- Oct 23 - [New Requirements to Travel to Europe](https://travel-europe.europa.eu/etias_en)
+- Oct 23 - [Millions of smart meters will brick it when 2G and 3G turns off](https://www.theregister.com/2023/10/23/millions_of_smart_meters_will/)
+- Oct 23 - [Woman wins 12-year legal battle against Google](https://www.abc.net.au/news/2023-10-23/janice-duffy-wins-12-year-legal-battle-against-google/103008954)
+- Oct 23 - [Shopify Files Lawsuit over Illegal DMCA Takedown Abuse](https://torrentfreak.com/shopify-files-lawsuit-over-illegal-dmca-takedown-abuse-231020/)
+- Oct 23 - [Orcas that hunted alongside humans might be extinct](https://www.livescience.com/animals/orcas-that-hunted-alongside-humans-might-be-extinct)
 <!--END_SECTION:hn-->
 
 <!--
