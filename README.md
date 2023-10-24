@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 24 - [1Password detects "suspicious activity" in its internal Okta account](https://arstechnica.com/security/2023/10/1password-detects-suspicious-activity-in-its-internal-okta-account/)
-- Oct 24 - [SumatraPDF Reader](https://github.com/sumatrapdfreader/sumatrapdf)
-- Oct 23 - [How to Build Your Own AI-Generated Images with ControlNet and Stable Diffusion](https://www.datature.io/blog/how-to-build-your-own-ai-generated-image-with-controlnet-and-stable-diffusion)
-- Oct 23 - [Port a Unity Game to Your Own Engine: Part 1](https://www.altdevarts.com/p/port-a-unity-game-to-your-own-engine)
-- Oct 23 - [Show HN: Roadmap – A Personal Growth Game for Social Anxiety](https://www.roadmaptogrow.com)
+- Oct 24 - [Show HN: Revert – open-source unified API for product integrations](https://github.com/revertinc/revert)
+- Oct 24 - [Australian Env Scientist – Gagged and grief-stricken, but not without hope](https://www.abc.net.au/news/2023-10-24/odyssey-climate-scientists-suppress-truth-or-risk-funds-careers/102968970)
+- Oct 24 - [Unified versus Split Diff](https://matklad.github.io/2023/10/23/unified-vs-split-diff.html)
+- Oct 24 - [NASA just sent a software update to a spacecraft 12B miles away](https://bgr.com/science/nasa-just-sent-a-software-update-to-a-spacecraft-12-billion-miles-away/)
+- Oct 24 - [Systematic Review of the Neurocognitive Effects of Cannabis Use in Older Adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7259587/)
 <!--END_SECTION:hn-->
 
 <!--
