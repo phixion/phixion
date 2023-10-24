@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 24 - [Show HN: Revert – open-source unified API for product integrations](https://github.com/revertinc/revert)
-- Oct 24 - [Australian Env Scientist – Gagged and grief-stricken, but not without hope](https://www.abc.net.au/news/2023-10-24/odyssey-climate-scientists-suppress-truth-or-risk-funds-careers/102968970)
-- Oct 24 - [Unified versus Split Diff](https://matklad.github.io/2023/10/23/unified-vs-split-diff.html)
-- Oct 24 - [NASA just sent a software update to a spacecraft 12B miles away](https://bgr.com/science/nasa-just-sent-a-software-update-to-a-spacecraft-12-billion-miles-away/)
-- Oct 24 - [Systematic Review of the Neurocognitive Effects of Cannabis Use in Older Adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7259587/)
+- Oct 24 - [I Face Investigation for Terrorism](https://www.craigmurray.org.uk/archives/2023/10/incredibly-i-face-investigation-for-terrorism-defence-funds-appeal/)
+- Oct 24 - [Elephants Are Total Scaredy-Cats Around Bees](https://nautil.us/elephants-are-total-scaredy-cats-around-bees-423763/)
+- Oct 24 - [The "Just One More" Paradox – Kelly Criterion [video]](https://www.youtube.com/watch?v=_FuuYSM7yOo)
+- Oct 24 - [The HP Printer USB Sticker Trick Also Works for Thermaltake PSUs](https://full.pr0gramm.com/2023/10/24/fa4df047de2f8c6f.jpg)
+- Oct 24 - [Show HN: Paclear – A Fun Twist on the 'Clear' Command with Pac-Man Animation](https://github.com/orangekame3/paclear)
 <!--END_SECTION:hn-->
 
 <!--
