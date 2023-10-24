@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 24 - [Meta Sued by States over Harmful Youth Marketing on Facebook, Instagram](https://www.bloomberg.com/news/articles/2023-10-24/meta-sued-by-california-states-over-harmful-youth-marketing)
-- Oct 24 - [Server-side sandboxing: Containers and seccomp](https://www.figma.com/blog/server-side-sandboxing-containers-and-seccomp/#j1WRe)
-- Oct 24 - [Microsoft opens early access to AI assistant for infosec, Security Copilot](https://www.theregister.com/2023/10/23/microsoft_security_copilots_early_access/)
-- Oct 24 - [Halfsies](https://brilliant.org/challenges/halfsies/)
-- Oct 24 - [Nokia to cut up to 14,000 jobs as US demand shrinks, growth uncertain](https://www.reuters.com/business/media-telecom/nokia-sales-drop-slowing-5g-gear-demand-2023-10-19/)
+- Oct 24 - [The Great Train Robbery: Everything We Know So Far](https://www.flexport.com/blog/the-great-train-robbery-everything-we-know-so-far/)
+- Oct 24 - [No federal privacy law? After the 23andMe hack, it's time to take action](https://technical.ly/civic-news/federal-privacy-laws-23andme-hack-cybersecurity/)
+- Oct 24 - [Apple to make tools and parts to fix phones, computers available nationwide](https://www.reuters.com/technology/apple-make-tools-parts-fix-phones-computers-available-nationwide-white-house-2023-10-24/)
+- Oct 24 - [InstallAware First and Only to Source Decentralized Setups on BitTorrent (2019)](https://www.installaware.com/download-torrent.htm)
+- Oct 24 - [California suspends GM Cruise's autonomous vehicle deployment](https://www.reuters.com/business/autos-transportation/california-suspends-gm-cruises-driverless-autonomous-vehicle-permits-2023-10-24/)
 <!--END_SECTION:hn-->
 
 <!--
