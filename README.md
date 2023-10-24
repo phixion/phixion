@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 24 - [I Face Investigation for Terrorism](https://www.craigmurray.org.uk/archives/2023/10/incredibly-i-face-investigation-for-terrorism-defence-funds-appeal/)
-- Oct 24 - [Elephants Are Total Scaredy-Cats Around Bees](https://nautil.us/elephants-are-total-scaredy-cats-around-bees-423763/)
-- Oct 24 - [The "Just One More" Paradox – Kelly Criterion [video]](https://www.youtube.com/watch?v=_FuuYSM7yOo)
-- Oct 24 - [The HP Printer USB Sticker Trick Also Works for Thermaltake PSUs](https://full.pr0gramm.com/2023/10/24/fa4df047de2f8c6f.jpg)
-- Oct 24 - [Show HN: Paclear – A Fun Twist on the 'Clear' Command with Pac-Man Animation](https://github.com/orangekame3/paclear)
+- Oct 24 - [Meta Sued by States over Harmful Youth Marketing on Facebook, Instagram](https://www.bloomberg.com/news/articles/2023-10-24/meta-sued-by-california-states-over-harmful-youth-marketing)
+- Oct 24 - [Server-side sandboxing: Containers and seccomp](https://www.figma.com/blog/server-side-sandboxing-containers-and-seccomp/#j1WRe)
+- Oct 24 - [Microsoft opens early access to AI assistant for infosec, Security Copilot](https://www.theregister.com/2023/10/23/microsoft_security_copilots_early_access/)
+- Oct 24 - [Halfsies](https://brilliant.org/challenges/halfsies/)
+- Oct 24 - [Nokia to cut up to 14,000 jobs as US demand shrinks, growth uncertain](https://www.reuters.com/business/media-telecom/nokia-sales-drop-slowing-5g-gear-demand-2023-10-19/)
 <!--END_SECTION:hn-->
 
 <!--
