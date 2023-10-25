@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 25 - [SpaceX Starship Super Heavy Project at the Boca Chica Launch Site](https://www.faa.gov/space/stakeholder_engagement/spacex_starship)
-- Oct 25 - [Using the FDAP Architecture to Build InfluxDB 3.0: Flight, DataFusion, Arrow](https://www.influxdata.com/blog/flight-datafusion-arrow-parquet-fdap-architecture-influxdb/)
-- Oct 25 - [What Transport for London can learn about us from our mobiles](https://takes.jamesomalley.co.uk/p/its-crazy-how-much-transport-for)
-- Oct 25 - [Critically Acclaimed Horror Film of the 2010s or Your PhD Program?](https://www.mcsweeneys.net/articles/critically-acclaimed-horror-film-of-the-2010s-or-your-phd-program)
-- Oct 25 - [Confessions of a Middle-Class Founder](https://nymag.com/intelligencer/article/venture-capital-backed-startup-founder-confessions.html)
+- Oct 25 - [The Cost of Cloud, a Trillion Dollar Paradox](https://a16z.com/the-cost-of-cloud-a-trillion-dollar-paradox/)
+- Oct 25 - [What are roundabouts? The safety benefits of these circular intersections](https://theconversation.com/what-are-roundabouts-a-transportation-engineer-explains-the-safety-benefits-of-these-circular-intersections-215412)
+- Oct 25 - [Show HN: Mango Mail – The most affordable email host with unlimited addresses](https://mymangomail.com/)
+- Oct 25 - [The Case of a Curious SQL Query](https://buttondown.email/jaffray/archive/the-case-of-a-curious-sql-query/)
+- Oct 25 - [NIST Standard Peanut Butter – $1,107](https://shop.nist.gov/ccrz__ProductDetails?sku=2387&cclcl=en_US)
 <!--END_SECTION:hn-->
 
 <!--
