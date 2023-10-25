@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 24 - [The Great Train Robbery: Everything We Know So Far](https://www.flexport.com/blog/the-great-train-robbery-everything-we-know-so-far/)
-- Oct 24 - [No federal privacy law? After the 23andMe hack, it's time to take action](https://technical.ly/civic-news/federal-privacy-laws-23andme-hack-cybersecurity/)
-- Oct 24 - [Apple to make tools and parts to fix phones, computers available nationwide](https://www.reuters.com/technology/apple-make-tools-parts-fix-phones-computers-available-nationwide-white-house-2023-10-24/)
-- Oct 24 - [InstallAware First and Only to Source Decentralized Setups on BitTorrent (2019)](https://www.installaware.com/download-torrent.htm)
-- Oct 24 - [California suspends GM Cruise's autonomous vehicle deployment](https://www.reuters.com/business/autos-transportation/california-suspends-gm-cruises-driverless-autonomous-vehicle-permits-2023-10-24/)
+- Oct 24 - [Why 10B snow crabs starved to death in the Bering Sea](https://phys.org/news/2023-10-billion-crabs-starved-death-bering.html)
+- Oct 24 - [Bill Watterson's Life After "Calvin and Hobbes"](https://www.newyorker.com/magazine/2023/10/30/the-mysteries-bill-watterson-book-review)
+- Oct 24 - [41 states sue Meta, claiming Instagram, Facebook are addictive, harm kids](https://www.washingtonpost.com/technology/2023/10/24/meta-lawsuit-facebook-instagram-children-mental-health/)
+- Oct 24 - [CVS ditches common cold meds after FDA advisers say they're useless](https://arstechnica.com/health/2023/10/cvs-ditches-useless-cold-meds-but-not-bogus-homeopathic-products/)
+- Oct 24 - [Show HN: RustPython for FreeDOS with W2c2](https://github.com/coolcoder613eb/RustPython)
 <!--END_SECTION:hn-->
 
 <!--
