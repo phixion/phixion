@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 25 - [Consistency Models (2018)](https://jepsen.io/consistency)
-- Oct 25 - [Sunflower (Mathematics)](https://en.wikipedia.org/wiki/Sunflower_(mathematics))
-- Oct 25 - [Whirlwind I](https://en.wikipedia.org/wiki/Whirlwind_I)
-- Oct 25 - [Things I've learned about building CLI tools in Python](https://simonwillison.net/2023/Sep/30/cli-tools-python/)
-- Oct 25 - [MAME 0.260](https://www.mamedev.org/?p=530)
+- Oct 25 - [Show HN: ArtistAssistApp – the web app to paint better with ease](https://artistassistapp.com/)
+- Oct 25 - [Mptcp: An overlooked new feature in Go 1.21](https://www.sobyte.net/post/2023-07/mptcp-go/)
+- Oct 25 - [PhotoRoom Is Hiring a Senior Developer in Paris (Cross-Platform, Rust, Wgpu)](https://jobs.lever.co/photoroom/fc379626-eb33-4eb6-839c-10e5d578e2ed?lever-origin=applied&lever-source%5B%5D=yc)
+- Oct 25 - [On Keeping a Logbook (2010)](https://austinkleon.com/2010/01/31/logbook/)
+- Oct 25 - [50% smaller and 60% faster distilled Stable Diffusion XL](https://huggingface.co/segmind/SSD-1B)
 <!--END_SECTION:hn-->
 
 <!--
