@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 24 - [Why 10B snow crabs starved to death in the Bering Sea](https://phys.org/news/2023-10-billion-crabs-starved-death-bering.html)
-- Oct 24 - [Bill Watterson's Life After "Calvin and Hobbes"](https://www.newyorker.com/magazine/2023/10/30/the-mysteries-bill-watterson-book-review)
-- Oct 24 - [41 states sue Meta, claiming Instagram, Facebook are addictive, harm kids](https://www.washingtonpost.com/technology/2023/10/24/meta-lawsuit-facebook-instagram-children-mental-health/)
-- Oct 24 - [CVS ditches common cold meds after FDA advisers say they're useless](https://arstechnica.com/health/2023/10/cvs-ditches-useless-cold-meds-but-not-bogus-homeopathic-products/)
-- Oct 24 - [Show HN: RustPython for FreeDOS with W2c2](https://github.com/coolcoder613eb/RustPython)
+- Oct 25 - [Otis: Tropical storm to category 5 hurricane in 24h](https://www.nhc.noaa.gov/archive/2023/ep18/ep182023.discus.012.shtml)
+- Oct 25 - [Heated yoga may reduce depression in adults](https://news.harvard.edu/gazette/story/2023/10/heated-yoga-may-reduce-depression-in-adults/)
+- Oct 25 - [LIGO Surpasses the Quantum Limit](https://www.caltech.edu/about/news/ligo-surpasses-the-quantum-limit)
+- Oct 25 - [Toyota Inks Deal to Mass Produce Solid State EV Batteries with 932-Mile Range](https://www.pcmag.com/news/toyota-inks-deal-to-mass-produce-solid-state-ev-batteries-with-932-mile)
+- Oct 24 - [Show HN: Fediverser Portal – Bring your subreddits to Lemmy](https://portal.alien.top)
 <!--END_SECTION:hn-->
 
 <!--
