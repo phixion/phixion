@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 26 - [Reality Labs has lost $11.4B during 2023 (there's still one quarter left)](https://www.gamedeveloper.com/business/reality-labs-has-lost-11-4-billion-during-2023-and-there-s-still-one-quarter-left-)
-- Oct 26 - [Static Analysis Tools for C](https://github.com/analysis-tools-dev/static-analysis)
-- Oct 26 - [Oxide: The Cloud Computer](https://oxide.computer/blog/the-cloud-computer)
-- Oct 26 - [Google's Plan to Stop Apple from Getting Serious About Search](https://www.nytimes.com/2023/10/26/technology/google-apple-search-spotlight.html)
-- Oct 26 - [Dear Google Cloud: Your Deprecation Policy Is Killing You (2020)](https://steve-yegge.medium.com/dear-google-cloud-your-deprecation-policy-is-killing-you-ee7525dc05dc)
+- Oct 26 - [LA County's guaranteed income program to give some foster youth $1k per month](https://abc7.com/guaranteed-income-la-county-dcfs-foster-youth/13960280/)
+- Oct 26 - [I2P: End-to-End encrypted and anonymous Internet](https://github.com/PurpleI2P/i2pd)
+- Oct 26 - [Rob 'CmdrTaco' Malda – Hacker History Podcast](https://hackerhistory.com/podcast/the-history-of-rob-cmdrtaco-malda/)
+- Oct 26 - [Kidney stone breakthrough procedure at UW called 'game changer' for patients](https://komonews.com/news/local/uw-medicine-kidney-stone-breakthrough-procedure-treatment-nasa-mars-astronaut-research-patients-game-changer-seattle-clinical-trial-harborview-medical-center)
+- Oct 26 - [Microsoft seeks EU Digital Market Acts exemption for underdog apps like Edge](https://www.theregister.com/2023/10/26/microsoft_dma_exemption/)
 <!--END_SECTION:hn-->
 
 <!--
