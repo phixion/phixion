@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 25 - [The Cost of Cloud, a Trillion Dollar Paradox](https://a16z.com/the-cost-of-cloud-a-trillion-dollar-paradox/)
-- Oct 25 - [What are roundabouts? The safety benefits of these circular intersections](https://theconversation.com/what-are-roundabouts-a-transportation-engineer-explains-the-safety-benefits-of-these-circular-intersections-215412)
-- Oct 25 - [Show HN: Mango Mail – The most affordable email host with unlimited addresses](https://mymangomail.com/)
-- Oct 25 - [The Case of a Curious SQL Query](https://buttondown.email/jaffray/archive/the-case-of-a-curious-sql-query/)
-- Oct 25 - [NIST Standard Peanut Butter – $1,107](https://shop.nist.gov/ccrz__ProductDetails?sku=2387&cclcl=en_US)
+- Oct 25 - [Was Rust Worth It?](https://jsoverson.medium.com/was-rust-worth-it-f43d171fb1b3)
+- Oct 25 - [How to find a lost phone in a no-cell-coverage camping site?](https://manas.tech/blog/2023/10/25/approaching-unconventional-problems/)
+- Oct 25 - [Keyboard Maestro 11](https://www.stairways.com/press/2023-10-24)
+- Oct 25 - [Living Papers: A Language Toolkit for Augmented Scholarly Communication](https://idl.cs.washington.edu/papers/living-papers/)
+- Oct 25 - [The cost of cloud, a trillion dollar paradox (2021)](https://a16z.com/the-cost-of-cloud-a-trillion-dollar-paradox/)
 <!--END_SECTION:hn-->
 
 <!--
