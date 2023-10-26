@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 26 - [LA County's guaranteed income program to give some foster youth $1k per month](https://abc7.com/guaranteed-income-la-county-dcfs-foster-youth/13960280/)
-- Oct 26 - [I2P: End-to-End encrypted and anonymous Internet](https://github.com/PurpleI2P/i2pd)
-- Oct 26 - [Rob 'CmdrTaco' Malda – Hacker History Podcast](https://hackerhistory.com/podcast/the-history-of-rob-cmdrtaco-malda/)
-- Oct 26 - [Kidney stone breakthrough procedure at UW called 'game changer' for patients](https://komonews.com/news/local/uw-medicine-kidney-stone-breakthrough-procedure-treatment-nasa-mars-astronaut-research-patients-game-changer-seattle-clinical-trial-harborview-medical-center)
-- Oct 26 - [Microsoft seeks EU Digital Market Acts exemption for underdog apps like Edge](https://www.theregister.com/2023/10/26/microsoft_dma_exemption/)
+- Oct 26 - [Bird with GPS flies into typhoon, carried 700 miles, reaching 15000 ft altitude](https://newatlas.com/biology/bird-typhoon-ride/)
+- Oct 26 - [War Thunder game engine released under BSD license](https://github.com/GaijinEntertainment/DagorEngine)
+- Oct 26 - [Synology MFA Fails if Internet is down](https://community.synology.com/enu/forum/2/post/145666)
+- Oct 26 - [OpenAI Preparedness Challenge](https://openai.com/form/preparedness-challenge)
+- Oct 26 - [Near-Earth Asteroid Is a Chunk of the Moon](https://www.spacechatter.com/2023/10/25/moon-fragment-near-earth-asteroid-kamooalewa/)
 <!--END_SECTION:hn-->
 
 <!--
