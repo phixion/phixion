@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 26 - [Running the "Reflections on Trusting Trust" Compiler](https://research.swtch.com/nih)
+- Oct 26 - [Chaucer's Works Go Online](https://blogs.bl.uk/digitisedmanuscripts/2023/10/chaucers-works-go-online.html)
+- Oct 26 - [Jina AI Launches First Open-Source 8K Text Embedding, Rivaling OpenAI](https://jina.ai/news/jina-ai-launches-worlds-first-open-source-8k-text-embedding-rivaling-openai/)
 - Oct 25 - [Was Rust Worth It?](https://jsoverson.medium.com/was-rust-worth-it-f43d171fb1b3)
 - Oct 25 - [How to find a lost phone in a no-cell-coverage camping site?](https://manas.tech/blog/2023/10/25/approaching-unconventional-problems/)
-- Oct 25 - [Keyboard Maestro 11](https://www.stairways.com/press/2023-10-24)
-- Oct 25 - [Living Papers: A Language Toolkit for Augmented Scholarly Communication](https://idl.cs.washington.edu/papers/living-papers/)
-- Oct 25 - [The cost of cloud, a trillion dollar paradox (2021)](https://a16z.com/the-cost-of-cloud-a-trillion-dollar-paradox/)
 <!--END_SECTION:hn-->
 
 <!--
