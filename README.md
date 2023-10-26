@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 26 - [Show HN: Instant API – Build type-safe web APIs with JavaScript](https://github.com/instant-dev/api)
-- Oct 26 - [Addressing Changes to PfSense Plus Home+Lab](https://www.netgate.com/blog/addressing-changes-to-pfsense-plus-homelab)
-- Oct 26 - [Running the "Reflections on Trusting Trust" Compiler](https://research.swtch.com/nih)
-- Oct 26 - [Chaucer's works go online](https://blogs.bl.uk/digitisedmanuscripts/2023/10/chaucers-works-go-online.html)
-- Oct 26 - [Jina AI launches open-source 8k text embedding](https://jina.ai/news/jina-ai-launches-worlds-first-open-source-8k-text-embedding-rivaling-openai/)
+- Oct 26 - [Reality Labs has lost $11.4B during 2023 (there's still one quarter left)](https://www.gamedeveloper.com/business/reality-labs-has-lost-11-4-billion-during-2023-and-there-s-still-one-quarter-left-)
+- Oct 26 - [Static Analysis Tools for C](https://github.com/analysis-tools-dev/static-analysis)
+- Oct 26 - [Oxide: The Cloud Computer](https://oxide.computer/blog/the-cloud-computer)
+- Oct 26 - [Google's Plan to Stop Apple from Getting Serious About Search](https://www.nytimes.com/2023/10/26/technology/google-apple-search-spotlight.html)
+- Oct 26 - [Dear Google Cloud: Your Deprecation Policy Is Killing You (2020)](https://steve-yegge.medium.com/dear-google-cloud-your-deprecation-policy-is-killing-you-ee7525dc05dc)
 <!--END_SECTION:hn-->
 
 <!--
