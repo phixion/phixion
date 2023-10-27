@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 27 - [Limewash (2005) [pdf]](https://www.lime.org/documents/lime_basics/limewash.pdf)
-- Oct 27 - [My Left Kidney](https://www.astralcodexten.com/p/my-left-kidney)
-- Oct 27 - [Cruise pauses driverless operations across all cities](https://twitter.com/Cruise/status/1717707807460393022)
-- Oct 27 - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=38033524)
-- Oct 27 - [Ceasing print publication of ACM journals and transactions](https://www.acm.org/publications/ceasing-print)
+- Oct 27 - [Let me tell you about me Gear Fabrication Syndrome](https://weenoisemaker.com/blog/2023/10/21/gear-fabrication-syndrome.html)
+- Oct 27 - [Apple Faces Potential Watch Import Ban After Federal Trade Ruling](https://www.wsj.com/tech/apple-faces-potential-watch-import-ban-after-federal-trade-ruling-09cdfccd)
+- Oct 27 - [On Bus Arbitration on the Unibus and QBUS (2017)](http://www.froghouse.org/~dab/papers/bus-arbitration/bus-arbitration.html)
+- Oct 27 - [Generating Well-Typed Terms that are not "Useless" [pdf]](https://lemonidas.github.io/pdf/NotUseless.pdf)
+- Oct 27 - [Yugoslavia's Digital Twin – When a country's internet domain outlives the nation](https://www.thedial.world/issue-9/yugolsav-wars-yu-domain-history-icann)
 <!--END_SECTION:hn-->
 
 <!--
