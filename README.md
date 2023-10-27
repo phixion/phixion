@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 26 - [Interactive Intro to Shaders](https://www.mayerowitz.io/blog/a-journey-into-shaders)
-- Oct 26 - [WebSDR – internet connected Software-Defined Radios](http://www.websdr.org/)
-- Oct 26 - [Trying to make sense of why Otis exploded en route to Acapulco this week](https://theeyewall.com/trying-to-make-sense-of-why-otis-exploded-en-route-to-acapulco-this-week/)
-- Oct 26 - [Python Expertise Level – Self-Assessment](https://safjan.com/python-expertise-level-self-assessment/)
-- Oct 26 - [Now add a walrus: Prompt engineering in DALL-E 3](https://simonwillison.net/2023/Oct/26/add-a-walrus/)
+- Oct 27 - [Limewash (2005) [pdf]](https://www.lime.org/documents/lime_basics/limewash.pdf)
+- Oct 27 - [My Left Kidney](https://www.astralcodexten.com/p/my-left-kidney)
+- Oct 27 - [Cruise pauses driverless operations across all cities](https://twitter.com/Cruise/status/1717707807460393022)
+- Oct 27 - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=38033524)
+- Oct 27 - [Ceasing print publication of ACM journals and transactions](https://www.acm.org/publications/ceasing-print)
 <!--END_SECTION:hn-->
 
 <!--
