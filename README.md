@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 27 - [0 To 100 kph in 1 second](https://www.youtube.com/watch?v=XQIu5tZ0vbQ)
-- Oct 27 - [Some Pirate Sites Received More Visitors After Being Blocked](https://torrentfreak.com/some-pirate-sites-received-more-visitors-after-being-blocked-231027/)
-- Oct 27 - [ECB holds key interest rate at 4%](https://www.ft.com/content/56477a7a-ac0a-454c-b690-1fb5738a7f69)
-- Oct 27 - [Lean4 helped Terence Tao discover a small bug in his recent paper](https://mathstodon.xyz/@tao/111287749336059662)
-- Oct 27 - [Let me tell you about me Gear Fabrication Syndrome](https://weenoisemaker.com/blog/2023/10/21/gear-fabrication-syndrome.html)
+- Oct 27 - [Grammarly's OAuth Mistakes](https://fusionauth.io/blog/grammarly-proves-ciam-not-optional)
+- Oct 27 - [The Xiaomi 14 with the new Snapdragon 8 Gen 3 has a 32 to 64-bit translator](https://twitter.com/MishaalRahman/status/1717916987387469842)
+- Oct 27 - [Unprecedented Cryptosporidium Outbreak in UK](https://arstechnica.com/health/2023/10/the-uk-is-bursting-with-diarrheal-disease-cases-3x-higher-than-usual/)
+- Oct 27 - [EPA moves towards banning leaded aviation gas](https://www.federalregister.gov/documents/2023/10/20/2023-23247/finding-that-lead-emissions-from-aircraft-engines-that-operate-on-leaded-fuel-cause-or-contribute-to)
+- Oct 27 - [US needs much more than the IRA to get to net zero by 2050](https://arstechnica.com/science/2023/10/national-academies-the-ira-is-nice-but-we-need-climate-policy-beyond-2030/)
 <!--END_SECTION:hn-->
 
 <!--
