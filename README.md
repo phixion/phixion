@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 26 - [Bird with GPS flies into typhoon, carried 700 miles, reaching 15000 ft altitude](https://newatlas.com/biology/bird-typhoon-ride/)
-- Oct 26 - [War Thunder game engine released under BSD license](https://github.com/GaijinEntertainment/DagorEngine)
-- Oct 26 - [Synology MFA Fails if Internet is down](https://community.synology.com/enu/forum/2/post/145666)
-- Oct 26 - [OpenAI Preparedness Challenge](https://openai.com/form/preparedness-challenge)
-- Oct 26 - [Near-Earth Asteroid Is a Chunk of the Moon](https://www.spacechatter.com/2023/10/25/moon-fragment-near-earth-asteroid-kamooalewa/)
+- Oct 26 - [Interactive Intro to Shaders](https://www.mayerowitz.io/blog/a-journey-into-shaders)
+- Oct 26 - [WebSDR – internet connected Software-Defined Radios](http://www.websdr.org/)
+- Oct 26 - [Trying to make sense of why Otis exploded en route to Acapulco this week](https://theeyewall.com/trying-to-make-sense-of-why-otis-exploded-en-route-to-acapulco-this-week/)
+- Oct 26 - [Python Expertise Level – Self-Assessment](https://safjan.com/python-expertise-level-self-assessment/)
+- Oct 26 - [Now add a walrus: Prompt engineering in DALL-E 3](https://simonwillison.net/2023/Oct/26/add-a-walrus/)
 <!--END_SECTION:hn-->
 
 <!--
