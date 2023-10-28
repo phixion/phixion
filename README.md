@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 27 - [Scientists Simulate Backward Time Travel Using Quantum Entanglement](https://thedebrief.org/scientists-successfully-simulate-backward-time-travel-with-a-25-chance-of-actually-changing-the-past/)
-- Oct 27 - [King Charles III signs off on Online Safety Act with unenforceable spying clause](https://www.theregister.com/2023/10/27/online_safety_act_charles/)
-- Oct 27 - [Can the language of proof assistants be used for general purpose programming?](https://proofassistants.stackexchange.com/questions/1093/can-the-language-of-proof-assistants-be-used-for-general-purpose-programming)
-- Oct 27 - [Large Balloon Reflector: a potentially game-changing antenna design](https://www.nasa.gov/directorates/stmd/nasa-tech-breathes-life-into-potentially-game-changing-antenna-design/)
-- Oct 27 - [SDRangel: Explore the electromagnetic spectrum with open source SDR software](https://github.com/f4exb/sdrangel)
+- Oct 28 - [BP buys $100M worth of Tesla chargers](https://www.cnn.com/2023/10/26/business/bp-buys-usd100-million-worth-of-tesla-chargers/index.html)
+- Oct 28 - [A small warning about UDP based protocols](https://boston.conman.org/2023/10/25.1)
+- Oct 28 - [Wise is deactivating Business cards in the US on Oct. 31st](https://wise.com/help/articles/1Rygn0gaetjmjGcOvyjRZm/were-temporarily-deactivating-wise-business-cards-in-the-us)
+- Oct 28 - [Yup, that was an earthquake outside SF](https://earthquake.usgs.gov/earthquakes/eventpage/nc73952475/executive)
+- Oct 28 - [When Gradient Descent Is a Kernel Method](https://cgad.ski/blog/when-gradient-descent-is-a-kernel-method.html)
 <!--END_SECTION:hn-->
 
 <!--
