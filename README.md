@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 28 - [Samsung disables customer phones remotely, holds data hostage [video]](https://www.youtube.com/watch?v=Ln4rsxWq3WM)
-- Oct 28 - [Why teachers in South Korea are scared of their pupils, and their parents](https://www.cnn.com/2023/10/27/asia/south-korea-teachers-strike-analysis-intl-hnk/index.html)
-- Oct 28 - [The copyright fight over authors and OpenAI's ChatGPT](https://www.vox.com/future-perfect/2023/10/25/23930683/openai-chatgpt-george-rr-martin-john-grisham-ai-safety-artificial-intelligence-copyright-law-chatbot)
-- Oct 28 - [Rydberg Field Measurement System](https://www.rydbergtechnologies.com/products)
-- Oct 28 - [Show HN: Demystifying Advanced RAG Pipelines](https://github.com/pchunduri6/rag-demystified)
+- Oct 28 - [New York State Prisons: How to Avoid Rape in Prison – Men's Orientation [video]](https://www.youtube.com/watch?v=8zYBmsP6fes)
+- Oct 28 - [FCC will vote on plan to remove outdated amateur radio technical restrictions](https://www.radioworld.com/news-and-business/business-and-law/fcc-wants-to-bolster-amateur-radio)
+- Oct 28 - [Arena Allocation in SBCL](https://github.com/sbcl/sbcl/blob/master/doc/internals-notes/arena-allocation.txt)
+- Oct 28 - [Pope tempted by Python. Signs off on coding scheme for kids](https://www.theregister.com/2023/10/28/pope_software_python/)
+- Oct 28 - [Charter Houses – Once you get your first $10M](https://slimemoldtimemold.com/2022/02/17/charter-houses/)
 <!--END_SECTION:hn-->
 
 <!--
