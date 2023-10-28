@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 28 - [The UK's Controversial Online Safety Act Is Now Law](https://www.wired.com/story/the-uks-controversial-online-safety-act-is-now-law/)
+- Oct 28 - [Magnetically Modelling MagSafe](https://kavi.sblmnl.co.za/magnetically-modelling-magsafe/)
+- Oct 28 - [Google agrees to invest up to $2B in OpenAI rival Anthropic](https://www.reuters.com/technology/google-agrees-invest-up-2-bln-openai-rival-anthropic-wsj-2023-10-27/)
 - Oct 28 - [WinterJS](https://wasmer.io/posts/announcing-winterjs-service-workers)
 - Oct 28 - [The fun factor of the video game Uplink](https://vertette.github.io/post/funfactoruplink)
-- Oct 28 - [Meticulous (YC S21) Is Hiring to Build AI for UI Testing](https://news.ycombinator.com/item?id=38047790)
-- Oct 28 - [Cortex X2: ARM aims high](https://chipsandcheese.com/2023/10/27/cortex-x2-arm-aims-high/)
-- Oct 28 - [New Study Says Maybe Helicopter Parenting Is Making Kids Depressed](https://www.techdirt.com/2023/10/26/new-study-in-the-journal-of-pediatrics-says-maybe-its-not-social-media-but-helicopter-parenting-thats-making-kids-depressed/)
 <!--END_SECTION:hn-->
 
 <!--
