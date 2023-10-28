@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 28 - [The UK's Controversial Online Safety Act Is Now Law](https://www.wired.com/story/the-uks-controversial-online-safety-act-is-now-law/)
-- Oct 28 - [Magnetically Modelling MagSafe](https://kavi.sblmnl.co.za/magnetically-modelling-magsafe/)
-- Oct 28 - [Google agrees to invest up to $2B in OpenAI rival Anthropic](https://www.reuters.com/technology/google-agrees-invest-up-2-bln-openai-rival-anthropic-wsj-2023-10-27/)
-- Oct 28 - [WinterJS](https://wasmer.io/posts/announcing-winterjs-service-workers)
-- Oct 28 - [The fun factor of the video game Uplink](https://vertette.github.io/post/funfactoruplink)
+- Oct 28 - [Samsung disables customer phones remotely, holds data hostage [video]](https://www.youtube.com/watch?v=Ln4rsxWq3WM)
+- Oct 28 - [Why teachers in South Korea are scared of their pupils, and their parents](https://www.cnn.com/2023/10/27/asia/south-korea-teachers-strike-analysis-intl-hnk/index.html)
+- Oct 28 - [The copyright fight over authors and OpenAI's ChatGPT](https://www.vox.com/future-perfect/2023/10/25/23930683/openai-chatgpt-george-rr-martin-john-grisham-ai-safety-artificial-intelligence-copyright-law-chatbot)
+- Oct 28 - [Rydberg Field Measurement System](https://www.rydbergtechnologies.com/products)
+- Oct 28 - [Show HN: Demystifying Advanced RAG Pipelines](https://github.com/pchunduri6/rag-demystified)
 <!--END_SECTION:hn-->
 
 <!--
