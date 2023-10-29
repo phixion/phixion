@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 29 - [Research Unix Sixth Edition (WASM)](https://research.swtch.com/v6/)
-- Oct 29 - [Supabase (YC S20) Is Hiring a Technical Product Marketer (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/5005843004)
-- Oct 29 - [Why are you so slow?](https://www.allendowney.com/blog/2023/10/28/why-are-you-so-slow/)
-- Oct 29 - [Project Silica](https://www.microsoft.com/en-us/research/project/project-silica/)
-- Oct 29 - ['It's quite soul-destroying': how we fell out of love with dating apps](https://www.theguardian.com/lifeandstyle/2023/oct/28/its-quite-soul-destroying-how-we-fell-out-of-love-with-dating-apps)
+- Oct 29 - [Great Question (YC W21) Is Hiring](https://www.ycombinator.com/companies/great-question/jobs/BxfP9Zt-account-executive)
+- Oct 29 - [NixOS Reproducible Builds: minimal ISO successfully independently rebuilt](https://discourse.nixos.org/t/nixos-reproducible-builds-minimal-installation-iso-successfully-independently-rebuilt/34756)
+- Oct 29 - [Show HN: YCombinato – A domain-hacked "Hacker News" client](https://news.ycombinato.com/)
+- Oct 29 - [The Pirates Are Back](https://www.pandasecurity.com/en/mediacenter/online-piracy-back/)
+- Oct 29 - [Linux running on RISC-V emulated in Scratch](https://blog.adafruit.com/2023/10/25/wild-linux-running-on-risc-v-emulated-in-scratch-riscv-linux-scratch/)
 <!--END_SECTION:hn-->
 
 <!--
