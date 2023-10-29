@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 29 - [Great Question (YC W21) Is Hiring](https://www.ycombinator.com/companies/great-question/jobs/BxfP9Zt-account-executive)
-- Oct 29 - [NixOS Reproducible Builds: minimal ISO successfully independently rebuilt](https://discourse.nixos.org/t/nixos-reproducible-builds-minimal-installation-iso-successfully-independently-rebuilt/34756)
-- Oct 29 - [Show HN: YCombinato – A domain-hacked "Hacker News" client](https://news.ycombinato.com/)
-- Oct 29 - [The Pirates Are Back](https://www.pandasecurity.com/en/mediacenter/online-piracy-back/)
-- Oct 29 - [Linux running on RISC-V emulated in Scratch](https://blog.adafruit.com/2023/10/25/wild-linux-running-on-risc-v-emulated-in-scratch-riscv-linux-scratch/)
+- Oct 29 - [A Visit to the Physical Internet Archive](https://thenewstack.io/a-visit-to-the-physical-internet-archive/)
+- Oct 29 - [Rare 2,100-year-old gold coin bears name of obscure ruler from pre-Roman Britain](https://www.livescience.com/archaeology/romans/rare-2100-year-old-gold-coin-bears-name-of-obscure-ruler-from-pre-roman-britain)
+- Oct 29 - [Hertz is scaling back its EV ambitions because its Teslas keep getting damaged](https://www.theverge.com/2023/10/27/23934691/hertz-tesla-uber-ev-plans-damage-repair-price-cuts)
+- Oct 29 - [(Learn 'Scheme)](http://jaredkrinke.github.io/learn-scheme/toc.html)
+- Oct 29 - [Which Writers Will We Remember?](https://biblioracle.substack.com/p/which-writers-will-we-remember)
 <!--END_SECTION:hn-->
 
 <!--
