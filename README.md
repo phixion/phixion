@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 29 - [A Visit to the Physical Internet Archive](https://thenewstack.io/a-visit-to-the-physical-internet-archive/)
-- Oct 29 - [Rare 2,100-year-old gold coin bears name of obscure ruler from pre-Roman Britain](https://www.livescience.com/archaeology/romans/rare-2100-year-old-gold-coin-bears-name-of-obscure-ruler-from-pre-roman-britain)
-- Oct 29 - [Hertz is scaling back its EV ambitions because its Teslas keep getting damaged](https://www.theverge.com/2023/10/27/23934691/hertz-tesla-uber-ev-plans-damage-repair-price-cuts)
-- Oct 29 - [(Learn 'Scheme)](http://jaredkrinke.github.io/learn-scheme/toc.html)
-- Oct 29 - [Which Writers Will We Remember?](https://biblioracle.substack.com/p/which-writers-will-we-remember)
+- Oct 29 - [12ft.io has been banned by Vercel](https://twitter.com/thmsmlr/status/1718663563353755982)
+- Oct 29 - [YouTube's Anti-Adblock and uBlock Origin](https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin)
+- Oct 29 - [How many billions of transistors in your iPhone processor?](https://lemire.me/blog/2023/10/18/how-many-billions-of-transistors-in-your-iphone-processor/)
+- Oct 29 - [Carl Sagan's Rules for Bullshit-Busting and Critical Thinking](https://www.themarginalian.org/2014/01/03/baloney-detection-kit-carl-sagan/)
+- Oct 29 - [Sieve (YC W22), the video/audio AI cloud, is hiring AI engineers](https://sievedata.com/about/jobs)
 <!--END_SECTION:hn-->
 
 <!--
