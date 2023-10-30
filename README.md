@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 30 - [GitHub Builds GitHub with GitHub [video]](https://www.youtube.com/watch?v=PMSoHPuD8G8)
-- Oct 30 - [Apple is still getting patents under Steven Jobs name](https://www.greyb.com/blog/new-steve-jobs-patents/)
-- Oct 30 - [The death of a public intellectual](https://thmsmlr.com/public-intellectuals)
-- Oct 30 - [How to Move Your Google Photos](https://www.auckland.ac.nz/en/students/my-tools/googlechanges/Move-your-google-photos.html)
-- Oct 30 - [Web FM synthesizer made with HTML5](https://www.taktech.org/takm/WebFMSynth/)
+- Oct 30 - [Ask HN: To what extent have digital payments replaced cash in your country?](https://news.ycombinator.com/item?id=38068180)
+- Oct 30 - [Executive Order on Safe, Secure, and Trustworthy Artificial Intelligence](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/)
+- Oct 30 - [The History of Microsoft Encarta](https://www.abortretry.fail/p/the-history-of-microsoft-encarta)
+- Oct 30 - [SiFive: The road ahead (post layoffs)](https://www.sifive.com/blog/the-road-ahead--)
+- Oct 30 - [Internal slides on the work of the Google "Ads Quality" team](https://twitter.com/jason_kint/status/1718830641016414657)
 <!--END_SECTION:hn-->
 
 <!--
