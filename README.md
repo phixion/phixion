@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 30 - [Medically assisted deaths constituted 4.1 per cent of all deaths in Canada](https://www.cbc.ca/news/politics/maid-canada-report-2022-1.7009704)
+- Oct 30 - [GitHub Builds GitHub with GitHub [video]](https://www.youtube.com/watch?v=PMSoHPuD8G8)
+- Oct 30 - [Apple is still getting patents under Steven Jobs name](https://www.greyb.com/blog/new-steve-jobs-patents/)
+- Oct 30 - [The death of a public intellectual](https://thmsmlr.com/public-intellectuals)
+- Oct 30 - [How to Move Your Google Photos](https://www.auckland.ac.nz/en/students/my-tools/googlechanges/Move-your-google-photos.html)
 - Oct 30 - [Web FM synthesizer made with HTML5](https://www.taktech.org/takm/WebFMSynth/)
-- Oct 30 - [Spy satellites reveal undiscovered Roman forts](https://phys.org/news/2023-10-spy-satellites-reveal-hundreds-undiscovered.html)
-- Oct 30 - [Biomarkers to detect the heating of fatty acids in residues from pottery use](https://www.sciencedirect.com/science/article/pii/S0305440323001346)
-- Oct 30 - [How deep is the brain? The shallow brain hypothesis](https://www.nature.com/articles/s41583-023-00756-z)
 <!--END_SECTION:hn-->
 
 <!--
