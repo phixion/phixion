@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 30 - [GitLab is down](https://news.ycombinator.com/item?id=38070906)
-- Oct 30 - [Tesla union strike fails in Sweden as workers refused to walk out](https://www.teslarati.com/tesla-union-strike-fails-sweden-workers-refuse-walkout/)
-- Oct 30 - [New York Times Tech Workers to Strike This Afternoon](https://www.bloomberg.com/news/articles/2023-10-30/new-york-times-tech-union-to-strike-over-office-return-contract-delays)
-- Oct 30 - [Replacing WebRTC: real-time latency with WebTransport and WebCodecs](https://quic.video/blog/replacing-webrtc/)
-- Oct 30 - [The costs of microservices (2020)](https://robertovitillo.com/costs-of-microservices/)
+- Oct 30 - [Use YouTube to improve your English pronunciation](https://youglish.com/)
+- Oct 30 - [SCOTUS to Decide If Public Officials Can Block Critics Online](https://www.thefire.org/news/does-first-amendment-allow-public-officials-block-their-critics-online-supreme-court-will-soon)
+- Oct 30 - [Tell HN: Even after layoffs, Flexport continues posting weekly Hiring threads](https://news.ycombinator.com/item?id=38073907)
+- Oct 30 - [Real-Time Latent Consistency Model](https://huggingface.co/spaces/radames/Real-Time-Latent-Consistency-Model)
+- Oct 30 - [Kart: DVC for geospatial and tabular data. Git for GIS](https://kartproject.org/)
 <!--END_SECTION:hn-->
 
 <!--
