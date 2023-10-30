@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 29 - [12ft.io has been banned by Vercel](https://twitter.com/thmsmlr/status/1718663563353755982)
-- Oct 29 - [YouTube's Anti-Adblock and uBlock Origin](https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin)
-- Oct 29 - [How many billions of transistors in your iPhone processor?](https://lemire.me/blog/2023/10/18/how-many-billions-of-transistors-in-your-iphone-processor/)
-- Oct 29 - [Carl Sagan's Rules for Bullshit-Busting and Critical Thinking](https://www.themarginalian.org/2014/01/03/baloney-detection-kit-carl-sagan/)
-- Oct 29 - [Sieve (YC W22), the video/audio AI cloud, is hiring AI engineers](https://sievedata.com/about/jobs)
+- Oct 29 - [My dream job wasn't worth it: Former employees (Meta, McKinsey, JP Morgan) share](https://www.msn.com/en-in/money/topstories/my-dream-job-wasn-t-worth-it-former-employees-at-meta-mckinsey-and-jp-morgan-share-how-they-burned-out-and-left/ar-AA1j2kLG)
+- Oct 29 - [Pi in Other Universes: How the value of pi depends on the definition of distance](https://azeemba.com/posts/pi-in-other-universes.html)
+- Oct 29 - [Alan Wake 2 Is an Unexpected Visual Marvel Even on Older GPUs](https://www.xfire.com/alan-wake-2-performing-well-low-end-pcs/)
+- Oct 29 - [DIY IP-KVM Based on Raspberry Pi](https://github.com/pikvm/pikvm)
+- Oct 29 - [We migrated our back end from Vercel to Fly.io and the challenges we faced](https://www.openstatus.dev/blog/migration-backend-from-vercel-to-fly)
 <!--END_SECTION:hn-->
 
 <!--
