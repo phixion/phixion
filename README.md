@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 31 - [Show HN: I made a web app that tells you if your food is spicy?](https://dieornot.com/)
+- Oct 31 - [A better way to handle errors in JavaScript](https://musicq.gitbook.io/unwrapit/)
+- Oct 31 - [$95 AMD CPU Becomes 16GB GPU to Run AI Software](https://www.tomshardware.com/news/dollar95-amd-cpu-becomes-16gb-gpu-to-run-ai-software)
+- Oct 31 - [Confessions of a Tableside Flambéur](https://www.eater.com/23893292/tableside-presentation-flambee-confessions-fine-dining)
+- Oct 31 - [Southern California Beyond the Freeway](https://www.nytimes.com/2023/10/30/travel/southern-california-driving-tour.html)
 - Oct 31 - [Can you use your "free will"? Try your hand](https://people.ischool.berkeley.edu/~nick/aaronson-oracle/)
-- Oct 31 - [Apple unveils M3, M3 Pro, and M3 Max, the most advanced chips for a PC](https://www.apple.com/newsroom/2023/10/apple-unveils-m3-m3-pro-and-m3-max-the-most-advanced-chips-for-a-personal-computer/)
-- Oct 31 - [Android and RISC-V: What you need to know to be ready](https://opensource.googleblog.com/2023/10/android-and-risc-v-what-you-need-to-know.html)
-- Oct 30 - [World's most popular painter sent his followers after me because of my review](https://news.artnet.com/opinion/devon-rodriguez-parasocial-aesthetics-2380960)
 <!--END_SECTION:hn-->
 
 <!--
