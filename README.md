@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 30 - [I Began with Sound](https://www.publicbooks.org/i-began-with-sound/)
-- Oct 30 - [Judge pares down artists' AI copyright lawsuit against Midjourney, Stability AI](https://www.reuters.com/legal/litigation/judge-pares-down-artists-ai-copyright-lawsuit-against-midjourney-stability-ai-2023-10-30/)
-- Oct 30 - [The Grug Brained Developer (2022)](https://grugbrain.dev/)
-- Oct 30 - [SEC Charges SolarWinds and CISO with Fraud, Internal Control Failures](https://www.sec.gov/news/press-release/2023-227)
-- Oct 30 - [Can I remove my personal data from GenAI training datasets?](https://knowingmachines.org/knowing-legal-machines/legal-explainer/questions/can-i-remove-my-personal-data-from-genai-training-datasets)
+- Oct 31 - [Show HN: I made a web app that tells you if your food is spicy?](https://dieornot.com/)
+- Oct 31 - [Can you use your "free will"? Try your hand](https://people.ischool.berkeley.edu/~nick/aaronson-oracle/)
+- Oct 31 - [Apple unveils M3, M3 Pro, and M3 Max, the most advanced chips for a PC](https://www.apple.com/newsroom/2023/10/apple-unveils-m3-m3-pro-and-m3-max-the-most-advanced-chips-for-a-personal-computer/)
+- Oct 31 - [Android and RISC-V: What you need to know to be ready](https://opensource.googleblog.com/2023/10/android-and-risc-v-what-you-need-to-know.html)
+- Oct 30 - [World's most popular painter sent his followers after me because of my review](https://news.artnet.com/opinion/devon-rodriguez-parasocial-aesthetics-2380960)
 <!--END_SECTION:hn-->
 
 <!--
