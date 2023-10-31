@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 31 - [Artists Lose First Round of AI Art Copyright Infringement Case](https://www.hollywoodreporter.com/business/business-news/artists-copyright-infringement-case-ai-art-generators-1235632929/)
-- Oct 31 - [Bcachefs Merged into the Linux 6.7 Kernel](https://www.phoronix.com/news/Bcachefs-Merged-Linux-6.7)
-- Oct 31 - [Israel was removed from Baidu Maps earlier today](https://twitter.com/shaunmmaguire/status/1719200628990525595)
-- Oct 31 - [Ohm: A library and language for building parsers, interpreters, compilers, etc.](https://github.com/ohmjs/ohm)
-- Oct 31 - [Should you use a Lambda Monolith, a.k.a. Lambdalith, for your API?](https://rehanvdm.com/blog/should-you-use-a-lambda-monolith-lambdalith-for-the-api)
+- Oct 31 - [New wildlife GPS tracker uses kinetic energy for power](https://www.scientificamerican.com/article/new-wildlife-tracker-powers-itself-as-animals-walk-trot-and-run/)
+- Oct 31 - [Comp Sci in 2027 (Short Story by Eliezer Yudkowsky)](https://www.lesswrong.com/posts/gQyphPbaLHBMJoghD/comp-sci-in-2027-short-story-by-eliezer-yudkowsky)
+- Oct 31 - [California employers must reimburse remote workers for all necessary expenses](https://www.nolo.com/legal-encyclopedia/working-from-home-in-california-does-my-employer-have-to-reimburse-me-for-utilities-or-other-expenses.html)
+- Oct 31 - [Penn and Teller's Lab Scam [video] (1990)](https://www.youtube.com/watch?v=fxMKuv0A6z4)
+- Oct 31 - [.io considered harmful](https://www.beep.blog/io/)
 <!--END_SECTION:hn-->
 
 <!--
