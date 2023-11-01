@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 01 - [Reflections on quitting my job](https://mooseyanon.medium.com/reflections-on-quitting-my-job-fe7410e15a6a)
+- Nov 01 - [Show HN: Halloween game to show off my new Terminal](https://joel.tools/halloween/)
 - Oct 31 - [Norwegian ban on Meta behavioral advertising extended to entire EU](https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2023/datatilsynets-vedtak-mot-meta-utvides-til-eueos-og-gjores-permanent/)
 - Oct 31 - [M51: A Feast for the Eyes](https://esawebb.org/images/potm2308a/)
-- Oct 31 - [WeWork plans to file for bankruptcy as early as next week, source says](https://www.reuters.com/markets/deals/wework-plans-file-bankruptcy-early-next-week-wsj-2023-10-31/)
 - Oct 31 - [A giant European telescope rises as U.S. rivals await rescue](https://www.science.org/content/article/giant-european-telescope-rises-u-s-rivals-await-rescue)
-- Oct 31 - [Moonbase Alpha Travel Tube Details](https://catacombs.space1999.net/main/cguide/umtravel.html)
 <!--END_SECTION:hn-->
 
 <!--
