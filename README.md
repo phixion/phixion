@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 01 - [SQLite 3.44: Interactive release notes](https://antonz.org/sqlite-3-44/)
-- Nov 01 - [uBlock Origin 1.53](https://github.com/gorhill/uBlock/releases/tag/1.53.0)
-- Nov 01 - [Distil-Whisper: distilled version of Whisper that is 6 times faster, 49% smaller](https://github.com/huggingface/distil-whisper)
-- Nov 01 - [Show HN: Halloween game to show off my new Terminal](https://joel.tools/halloween/)
-- Oct 31 - [Black 4.0](https://www.culturehustleusa.com/products/black-4-0)
+- Nov 01 - [Govly (YC S21) Is Hiring Fullstack Engineers (Ruby/React)](https://www.govly.com/careers)
+- Nov 01 - [Sentry: From the Beginning](https://cra.mr/sentry-from-the-beginning/)
+- Nov 01 - [Bear Does Analytics with CSS](https://herman.bearblog.dev/how-bear-does-analytics-with-css/)
+- Nov 01 - [What the Goddamn Hell Is Going on in the Tech Industry? – Ludicity](https://ludic.mataroa.blog/blog/what-the-goddamn-hell-is-going-on-in-the-tech-industry/)
+- Nov 01 - [Why ACPI?](https://mjg59.dreamwidth.org/68350.html)
 <!--END_SECTION:hn-->
 
 <!--
