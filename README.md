@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 02 - [Window-swap – open a new window somewhere in the world](https://www.window-swap.com/)
-- Nov 02 - [Etleap (YC W13) Is Hiring a Software Engineer (London – OR – San Francisco)](https://etleap.com/careers/software-engineer/)
-- Nov 02 - [High-level emulator for iPhone OS apps](https://github.com/hikari-no-yume/touchHLE)
-- Nov 02 - [NASA+: Our New Streaming Service](https://www.nasa.gov/plus/)
-- Nov 01 - [Moon-forming impactor as a source of Earth's basal mantle anomalies](https://www.nature.com/articles/s41586-023-06589-1)
+- Nov 02 - [Biohacking Lite](http://karpathy.github.io/2020/06/11/biohacking-lite/)
+- Nov 02 - [EU Digital Identity framework (eIDAS) another kind of chat control? – Mullvad](https://mullvad.net/en/blog/2023/11/2/eu-digital-identity-framework-eidas-another-kind-of-chat-control/)
+- Nov 02 - [GitHub Engineering: When mTLS Is Done Wrong](https://github.blog/2023-08-17-mtls-when-certificate-authentication-is-done-wrong/)
+- Nov 02 - [App: Rak – 21st century grep / find / ack / ag / rg on steroids](https://github.com/lizmat/App-Rak)
+- Nov 02 - [M3 Max Chip Around as Fast as M2 Ultra in Early Benchmark Results](https://www.macrumors.com/2023/11/01/m3-max-chip-benchmark-results/)
 <!--END_SECTION:hn-->
 
 <!--
