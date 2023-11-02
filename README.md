@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 01 - [FCC to propose a minimum 100mbps to qualify as broadband, future goal of 1gbps [pdf]](https://docs.fcc.gov/public/attachments/DOC-398168A1.pdf)
-- Nov 01 - [Establishment of the U.S. Artificial Intelligence Safety Institute](https://www.commerce.gov/news/press-releases/2023/11/direction-president-biden-department-commerce-establish-us-artificial)
-- Nov 01 - [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs)
-- Nov 01 - [Wrangling Monotonic Systems in TLA+](https://ahelwer.ca/post/2023-11-01-tla-finite-monotonic/)
-- Nov 01 - [US consumer spending dashboard built on data from 50M+ cards now on Snowflake](https://app.snowflake.com/marketplace/listing/GZTSZ290BUX40/)
+- Nov 01 - [Moon-forming impactor as a source of Earth's basal mantle anomalies](https://www.nature.com/articles/s41586-023-06589-1)
+- Nov 01 - [A shortage of teachers for computer science classes in California](https://calmatters.org/education/k-12-education/2023/10/computer-science-classes/)
+- Nov 01 - [What causes fainting? Scientists finally have an answer](https://www.nature.com/articles/d41586-023-03450-3)
+- Nov 01 - [Shipwreck Is Everywhere (2017)](https://hudsonreview.com/2017/10/shipwreck-is-everywhere/)
+- Nov 01 - [The business of extracting knowledge from academic publications](https://www.theseedsofscience.pub/p/the-business-of-extracting-knowledge)
 <!--END_SECTION:hn-->
 
 <!--
