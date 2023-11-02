@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 02 - [Biohacking Lite](http://karpathy.github.io/2020/06/11/biohacking-lite/)
-- Nov 02 - [EU Digital Identity framework (eIDAS) another kind of chat control? – Mullvad](https://mullvad.net/en/blog/2023/11/2/eu-digital-identity-framework-eidas-another-kind-of-chat-control/)
-- Nov 02 - [GitHub Engineering: When mTLS Is Done Wrong](https://github.blog/2023-08-17-mtls-when-certificate-authentication-is-done-wrong/)
-- Nov 02 - [App: Rak – 21st century grep / find / ack / ag / rg on steroids](https://github.com/lizmat/App-Rak)
-- Nov 02 - [M3 Max Chip Around as Fast as M2 Ultra in Early Benchmark Results](https://www.macrumors.com/2023/11/01/m3-max-chip-benchmark-results/)
+- Nov 02 - [Activeloop (Database for AI – YC S18) Hiring Fullstack / ML Infrastructure Folks](https://www.notion.so/activeloop/Careers-Activeloop-9dad048520b6452e8954830d61250c5a)
+- Nov 02 - [Hyperlocal air pollution in an urban environment – measured with lowcost sensors](https://www.sciencedirect.com/science/article/pii/S221209552300278X)
+- Nov 02 - [EU data regulator bans personalised advertising on Facebook and Instagram](https://dig.watch/updates/eu-data-regulator-decided-to-ban-personalised-advetising-on-facebook-and-instagram)
+- Nov 02 - [4th edition of Physically Based Rendering is now freely available online](https://pbr-book.org/4ed/contents)
+- Nov 02 - [Tracking SQLite Database Changes in Git](https://garrit.xyz/posts/2023-11-01-tracking-sqlite-database-changes-in-git)
 <!--END_SECTION:hn-->
 
 <!--
