@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 02 - [Starlink has achieved breakeven cash flow](https://twitter.com/elonmusk/status/1720098480037773658)
-- Nov 02 - [Nokia sues Amazon, HP over video compression technology](https://www.streamtvinsider.com/video/nokia-sues-amazon-hp-over-video-compression-technology)
-- Nov 02 - [Mint is shutting down, and it's pushing users toward Credit Karma](https://www.theverge.com/2023/11/2/23943254/mint-intuit-shutting-down-credit-karma)
-- Nov 02 - [Big landlords used software to collude on rent prices, DC lawsuit says](https://arstechnica.com/tech-policy/2023/11/14-big-landlords-used-software-to-collude-on-rent-prices-dc-lawsuit-says/)
-- Nov 02 - [Toyota recalls nearly 1.9M RAV4s to fix batteries that can cause a fire](https://www.cnbc.com/2023/11/02/toyota-recalls-nearly-1point9-million-rav4s-to-fix-batteries-that-can-move-during-hard-turns-and-cause-a-fire.html)
+- Nov 02 - [My side project reached $500 MRR :)](https://aditya8080.substack.com/p/my-side-project-reached-500-mrr)
+- Nov 02 - [The Morris Worm was released 35 years ago today](https://en.wikipedia.org/wiki/Morris_worm)
+- Nov 02 - [Google apparently backs off on WEI](https://android-developers.googleblog.com/2023/11/increasing-trust-for-embedded-media.html)
+- Nov 02 - [Free Speech Is in Trouble](https://www.natesilver.net/p/free-speech-is-in-trouble)
+- Nov 02 - [From S3 to R2: An economic opportunity](https://dansdatathoughts.substack.com/p/from-s3-to-r2-an-economic-opportunity)
 <!--END_SECTION:hn-->
 
 <!--
