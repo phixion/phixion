@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 02 - [Window-swap – open a new window somewhere in the world](https://www.window-swap.com/)
+- Nov 02 - [Etleap (YC W13) Is Hiring a Software Engineer (London – OR – San Francisco)](https://etleap.com/careers/software-engineer/)
+- Nov 02 - [High-level emulator for iPhone OS apps](https://github.com/hikari-no-yume/touchHLE)
+- Nov 02 - [NASA+: Our New Streaming Service](https://www.nasa.gov/plus/)
 - Nov 01 - [Moon-forming impactor as a source of Earth's basal mantle anomalies](https://www.nature.com/articles/s41586-023-06589-1)
-- Nov 01 - [A shortage of teachers for computer science classes in California](https://calmatters.org/education/k-12-education/2023/10/computer-science-classes/)
-- Nov 01 - [What causes fainting? Scientists finally have an answer](https://www.nature.com/articles/d41586-023-03450-3)
-- Nov 01 - [Shipwreck Is Everywhere (2017)](https://hudsonreview.com/2017/10/shipwreck-is-everywhere/)
-- Nov 01 - [The business of extracting knowledge from academic publications](https://www.theseedsofscience.pub/p/the-business-of-extracting-knowledge)
 <!--END_SECTION:hn-->
 
 <!--
