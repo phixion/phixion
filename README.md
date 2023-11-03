@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 03 - [Enable MTE on Pixel 8](https://outflux.net/blog/archives/2023/10/26/enable-mte-on-pixel-8/)
-- Nov 03 - [The Binder Linux driver is being rewritten in Rust](https://lore.kernel.org/rust-for-linux/20231101-rust-binder-v1-0-08ba9197f637@google.com/)
-- Nov 03 - [Bring garbage collected programming languages efficiently to WebAssembly](https://v8.dev/blog/wasm-gc-porting)
-- Nov 03 - [AI Cameras Took over One Small American Town. Now They're Everywhere](https://www.404media.co/fusus-ai-cameras-took-over-town-america/)
-- Nov 03 - [Looks like Google just abandoned its "Web Environment Integrity" API plans](https://old.reddit.com/r/programming/comments/17me5dq/looks_like_google_has_just_abandoned_its_terrible/)
+- Nov 03 - [TrueVault (YC W14) Is Hiring Senior Software Engineers (US Remote)](https://careers.truevault.com/jobs/9007-senior-software-engineer?promotion=254-trackable-share-link-yc-jobs-post-nov-2023)
+- Nov 03 - [How do you get APILayer to stop billing you?](https://news.ycombinator.com/item?id=38127264)
+- Nov 03 - [Proxima Fusion looks to take stellarators commercial](https://www.theengineer.co.uk/content/news/proxima-fusion-looks-to-take-stellarators-commercial/)
+- Nov 03 - [AMD Unveils Ryzen Mobile 7040U Series with Zen 4c Efficiency Cores](https://www.anandtech.com/show/21111/amd-unveils-ryzen-7040u-series-with-zen-4c-smaller-cores-bigger-efficiency)
+- Nov 03 - [Apple: Android is a tracking device [pdf]](https://www.justice.gov/d9/2023-11/417532.pdf)
 <!--END_SECTION:hn-->
 
 <!--
