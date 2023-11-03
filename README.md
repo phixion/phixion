@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 03 - [TrueVault (YC W14) Is Hiring Senior Software Engineers (US Remote)](https://careers.truevault.com/jobs/9007-senior-software-engineer?promotion=254-trackable-share-link-yc-jobs-post-nov-2023)
-- Nov 03 - [How do you get APILayer to stop billing you?](https://news.ycombinator.com/item?id=38127264)
-- Nov 03 - [Proxima Fusion looks to take stellarators commercial](https://www.theengineer.co.uk/content/news/proxima-fusion-looks-to-take-stellarators-commercial/)
-- Nov 03 - [AMD Unveils Ryzen Mobile 7040U Series with Zen 4c Efficiency Cores](https://www.anandtech.com/show/21111/amd-unveils-ryzen-7040u-series-with-zen-4c-smaller-cores-bigger-efficiency)
-- Nov 03 - [Apple: Android is a tracking device [pdf]](https://www.justice.gov/d9/2023-11/417532.pdf)
+- Nov 03 - [Sam Bankman-Fried and the effective altruism delusion](https://www.newstatesman.com/long-reads/2023/11/sam-bankman-fried-crypto-king-effective-altruism)
+- Nov 03 - [Diffractive Solar Sail](https://en.wikipedia.org/wiki/Diffractive_solar_sail)
+- Nov 03 - [GPT-4 Update: 32K Context Window Now for All Users](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/_system-prompts/all_tools.md)
+- Nov 03 - [Guide to Adopting AV1 Encoding](https://bitmovin.com/av1/av1-encoding-guide/)
+- Nov 03 - [Jevons Paradox](https://en.wikipedia.org/wiki/Jevons_paradox)
 <!--END_SECTION:hn-->
 
 <!--
