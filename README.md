@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 03 - [Hearing 'bad grammar' results in physical signs of stress – new study reveals](https://www.birmingham.ac.uk/news/2023/hearing-bad-grammar-results-in-physical-signs-of-stress-new-study-reveals)
-- Nov 03 - [Sam Bankman-Fried: guilty on all charges](https://newsletter.mollywhite.net/p/sam-bankman-fried-guilty-on-all-charges)
-- Nov 03 - [Show HN: Internet Speed Test](https://www.internetspeed.my)
-- Nov 03 - [Email.radio – Free Email Domain for Licensed Ham Radio Operators](https://email.radio/)
-- Nov 03 - [Audacity 3.4](https://www.audacityteam.org/blog/audacity-3-4/)
+- Nov 03 - [Enable MTE on Pixel 8](https://outflux.net/blog/archives/2023/10/26/enable-mte-on-pixel-8/)
+- Nov 03 - [The Binder Linux driver is being rewritten in Rust](https://lore.kernel.org/rust-for-linux/20231101-rust-binder-v1-0-08ba9197f637@google.com/)
+- Nov 03 - [Bring garbage collected programming languages efficiently to WebAssembly](https://v8.dev/blog/wasm-gc-porting)
+- Nov 03 - [AI Cameras Took over One Small American Town. Now They're Everywhere](https://www.404media.co/fusus-ai-cameras-took-over-town-america/)
+- Nov 03 - [Looks like Google just abandoned its "Web Environment Integrity" API plans](https://old.reddit.com/r/programming/comments/17me5dq/looks_like_google_has_just_abandoned_its_terrible/)
 <!--END_SECTION:hn-->
 
 <!--
