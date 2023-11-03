@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 03 - [Sam Bankman-Fried and the effective altruism delusion](https://www.newstatesman.com/long-reads/2023/11/sam-bankman-fried-crypto-king-effective-altruism)
-- Nov 03 - [Diffractive Solar Sail](https://en.wikipedia.org/wiki/Diffractive_solar_sail)
-- Nov 03 - [GPT-4 Update: 32K Context Window Now for All Users](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/_system-prompts/all_tools.md)
-- Nov 03 - [Guide to Adopting AV1 Encoding](https://bitmovin.com/av1/av1-encoding-guide/)
-- Nov 03 - [Jevons Paradox](https://en.wikipedia.org/wiki/Jevons_paradox)
+- Nov 03 - [Wage suppression – not stagnation – is costing workers $10 an hour (2021)](https://thehill.com/opinion/finance/557798-wage-suppression-not-stagnation-is-costing-workers-10-an-hour/)
+- Nov 03 - [We are investigating reports of degraded performance](https://www.githubstatus.com/incidents/xb30mby9fs5x)
+- Nov 03 - [Appeals Court Denies Judicial Immunity to Judge Who Personally Searched Home](https://ij.org/press-release/victory-appeals-court-unanimously-denies-judicial-immunity-to-west-virginia-judge-who-personally-searched-home-ordered-items-removed/)
+- Nov 03 - [Ploopy Adept is an open source, customizable trackball that sells for about $60](https://liliputing.com/ploopy-adept-is-an-open-source-customizable-trackball-that-sells-for-about-60/)
+- Nov 03 - [My "retirement" project: Release 40 years worth of my "source code"](https://dunfield.themindfactory.com/dnldsrc.htm)
 <!--END_SECTION:hn-->
 
 <!--
