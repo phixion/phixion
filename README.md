@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 02 - [My side project reached $500 MRR :)](https://aditya8080.substack.com/p/my-side-project-reached-500-mrr)
-- Nov 02 - [The Morris Worm was released 35 years ago today](https://en.wikipedia.org/wiki/Morris_worm)
-- Nov 02 - [Google apparently backs off on WEI](https://android-developers.googleblog.com/2023/11/increasing-trust-for-embedded-media.html)
-- Nov 02 - [Free Speech Is in Trouble](https://www.natesilver.net/p/free-speech-is-in-trouble)
-- Nov 02 - [From S3 to R2: An economic opportunity](https://dansdatathoughts.substack.com/p/from-s3-to-r2-an-economic-opportunity)
+- Nov 02 - [Sam Bankman-Fried found guilty on all charges](https://www.nytimes.com/live/2023/11/02/business/sam-bankman-fried-trial)
+- Nov 02 - [BillionToOne (YC S17) is hiring scientists and engineers to advance DNA testing](https://boards.greenhouse.io/billiontoone)
+- Nov 02 - [In 1886, the US commissioned watercolor paintings of every known fruit (2019)](https://www.openculture.com/2019/06/the-us-government-commissioned-7500-watercolor-paintings.html)
+- Nov 02 - [Course using F#: Write your own tiny programming system(s)](https://d3s.mff.cuni.cz/teaching/nprg077/)
+- Nov 02 - [How big data carried graph theory into new dimensions](https://www.quantamagazine.org/how-big-data-carried-graph-theory-into-new-dimensions-20210819/)
 <!--END_SECTION:hn-->
 
 <!--
