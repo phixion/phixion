@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Nov 03 - [Fitmart - 214,492 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Fitmart)
 - Oct 30 - [GameSprite - 6,164,643 breached accounts](https://haveibeenpwned.com/PwnedWebsites#GameSprite)
 - Oct 29 - [MemeChat - 4,348,570 breached accounts](https://haveibeenpwned.com/PwnedWebsites#MemeChat)
 - Oct 27 - [Toumei - 76,682 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Toumei)
 - Oct 21 - [Tunngle - 8,192,928 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Tunngle)
-- Oct 20 - [Sphero - 832,255 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Sphero)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 04 - [Historic strike called off after Klarna agrees collective bargaining agreement](https://www.thelocal.se/20231104/historic-strike-called-off-after-klarna-signs-collective-bargaining-agreement)
-- Nov 04 - [The Great Inflation](https://www.federalreservehistory.org/essays/great-inflation)
-- Nov 04 - [Othello Is Solved](https://arxiv.org/abs/2310.19387)
-- Nov 04 - [Always paste without formatting on macOS](https://scottswezey.com/always-paste-without-formatting-macos/)
-- Nov 04 - [In KDE, the Desktop Cube is back](https://www.phoronix.com/news/KDE-Wayland-Color-Mgmt)
+- Nov 04 - [Bevy 0.12](https://bevyengine.org/news/bevy-0-12/)
+- Nov 04 - [Discord will switch to temporary file links to block malware delivery](https://www.bleepingcomputer.com/news/security/discord-will-switch-to-temporary-file-links-to-block-malware-delivery/)
+- Nov 04 - [C++ Sudoku Solver by Singapore PM Lee Hsien Loong](https://twitter.com/adad8m/status/1720822885496049863)
+- Nov 04 - [AI Company Plans to Run Clusters of 10k Nvidia H100 GPUs in International Waters](https://www.extremetech.com/computing/ai-company-plans-to-run-clusters-of-10000-nvidia-h100-gpus-in-international)
+- Nov 04 - [Show HN: Cami.js – A No Build, Web Component Based Reactive Framework](https://github.com/kennyfrc/cami.js)
 <!--END_SECTION:hn-->
 
 <!--
