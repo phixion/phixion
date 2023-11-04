@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 03 - [Wage suppression – not stagnation – is costing workers $10 an hour (2021)](https://thehill.com/opinion/finance/557798-wage-suppression-not-stagnation-is-costing-workers-10-an-hour/)
-- Nov 03 - [We are investigating reports of degraded performance](https://www.githubstatus.com/incidents/xb30mby9fs5x)
-- Nov 03 - [Appeals Court Denies Judicial Immunity to Judge Who Personally Searched Home](https://ij.org/press-release/victory-appeals-court-unanimously-denies-judicial-immunity-to-west-virginia-judge-who-personally-searched-home-ordered-items-removed/)
-- Nov 03 - [Ploopy Adept is an open source, customizable trackball that sells for about $60](https://liliputing.com/ploopy-adept-is-an-open-source-customizable-trackball-that-sells-for-about-60/)
-- Nov 03 - [My "retirement" project: Release 40 years worth of my "source code"](https://dunfield.themindfactory.com/dnldsrc.htm)
+- Nov 03 - [Bayer hit with $332M judgement in Roundup cancer trial](https://fortune.com/2023/11/03/bayer-332-million-judgement-trial-man-cancer-decades-monsanto-roundup-weedkiller/)
+- Nov 03 - [Aerogel Core Fission Fragment Rocket Engine](https://www.nasa.gov/general/aerogel-core-fission-fragment-rocket-engine/)
+- Nov 03 - [The Sega Hitachi HiSaturn Navi Console](https://nfggames.com/games/hisaturn/)
+- Nov 03 - [Surround sound test files for every audio format](https://drive.google.com/drive/folders/1JxmeedtAtgmoafXv9rroiDOS2vEX7N4b)
+- Nov 03 - [Tell HN: Marcus.com' automated fraud detection locked me out of life savings](https://news.ycombinator.com/item?id=38135661)
 <!--END_SECTION:hn-->
 
 <!--
