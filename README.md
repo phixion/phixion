@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 04 - [Emerge (YC W21) is hiring a Senior Android Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-android-engineer)
-- Nov 04 - [GPS Receiver Circuit Board Design](https://mastodon.sdf.org/@keelan/111349948124943603)
-- Nov 04 - [How to stop turmeric from killing people](https://www.economist.com/leaders/2023/11/02/how-to-stop-turmeric-from-killing-people)
-- Nov 04 - [Post Mortem on Cloudflare Control Plane and Analytics Outage](https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/)
-- Nov 04 - [Mozilla tells extension developers to get ready to finally go mobile](https://www.theregister.com/2023/11/03/mozilla_android_extensions/)
+- Nov 04 - [Historic strike called off after Klarna agrees collective bargaining agreement](https://www.thelocal.se/20231104/historic-strike-called-off-after-klarna-signs-collective-bargaining-agreement)
+- Nov 04 - [The Great Inflation](https://www.federalreservehistory.org/essays/great-inflation)
+- Nov 04 - [Othello Is Solved](https://arxiv.org/abs/2310.19387)
+- Nov 04 - [Always paste without formatting on macOS](https://scottswezey.com/always-paste-without-formatting-macos/)
+- Nov 04 - [In KDE, the Desktop Cube is back](https://www.phoronix.com/news/KDE-Wayland-Color-Mgmt)
 <!--END_SECTION:hn-->
 
 <!--
