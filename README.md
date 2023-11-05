@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 05 - [Can solar and wind power Britain? An update of David MacKay's numbers](https://www.sustainabilitybynumbers.com/p/can-solar-and-wind-power-britain)
-- Nov 05 - [Berlin's famed nightclubs, losing customers, face an uncertain future](https://www.npr.org/2023/11/03/1209865472/berlin-clubs-tourism-nightlife-germany-economy)
-- Nov 05 - [ReactOS Newsletter 103 – Late 2023 News](https://reactos.org/blogs/newsletter-103/)
-- Nov 05 - [UN chief warns Nepal's mountains have lost one-third of their ice](https://www.euronews.com/green/2023/10/30/stop-the-madness-un-chief-warns-nepals-mountains-have-lost-one-third-of-their-ice)
-- Nov 05 - [Building a high performance JSON parser](https://dave.cheney.net/paste/gophercon-sg-2023.html)
+- Nov 05 - [Hundreds demonstrate against high rents in Zurich](https://www.swissinfo.ch/eng/business/hundreds-demonstrate-against-high-rents-in-zurich/48953360)
+- Nov 05 - [Website is hosted on ESP32 ($3 chip)](https://esp.khalsalabs.com)
+- Nov 05 - [In a cameras-everywhere culture, science fiction becomes reality (2015)](https://www.latimes.com/business/la-fi-0411-cameras-everywhere-20150412-story.html)
+- Nov 05 - [W3C Community Group Draft Report – WebGPU Explainer](https://gpuweb.github.io/gpuweb/explainer/)
+- Nov 05 - [Why Cities: Skylines 2 performs poorly](https://blog.paavo.me/cities-skylines-2-performance/)
 <!--END_SECTION:hn-->
 
 <!--
