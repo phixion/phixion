@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 04 - [Bevy 0.12](https://bevyengine.org/news/bevy-0-12/)
-- Nov 04 - [Discord will switch to temporary file links to block malware delivery](https://www.bleepingcomputer.com/news/security/discord-will-switch-to-temporary-file-links-to-block-malware-delivery/)
-- Nov 04 - [C++ Sudoku Solver by Singapore PM Lee Hsien Loong](https://twitter.com/adad8m/status/1720822885496049863)
-- Nov 04 - [AI Company Plans to Run Clusters of 10k Nvidia H100 GPUs in International Waters](https://www.extremetech.com/computing/ai-company-plans-to-run-clusters-of-10000-nvidia-h100-gpus-in-international)
-- Nov 04 - [Show HN: Cami.js – A No Build, Web Component Based Reactive Framework](https://github.com/kennyfrc/cami.js)
+- Nov 04 - [Tesla strike widens as Swedish union expands blockade](https://www.thelocal.se/20231103/tesla-strike-widens-as-swedish-union-expands-blockade)
+- Nov 04 - [Disturbed Lands (National Park Service)](https://www.nps.gov/shen/learn/nature/disturbedlands.htm)
+- Nov 04 - [New Microsoft Exchange zero-days allow RCE, data theft attacks](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-exchange-zero-days-allow-rce-data-theft-attacks/)
+- Nov 04 - [How to Do a TypeScript Conversion: an opinionated take on gradual conversions](https://v5.chriskrycho.com/journal/how-to-do-a-typescript-conversion/)
+- Nov 04 - [Interview with a Gladiatrix](https://antigonejournal.com/2023/10/modern-roman-gladiatrix/)
 <!--END_SECTION:hn-->
 
 <!--
