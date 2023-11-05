@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 04 - [Tesla strike widens as Swedish union expands blockade](https://www.thelocal.se/20231103/tesla-strike-widens-as-swedish-union-expands-blockade)
-- Nov 04 - [Disturbed Lands (National Park Service)](https://www.nps.gov/shen/learn/nature/disturbedlands.htm)
-- Nov 04 - [New Microsoft Exchange zero-days allow RCE, data theft attacks](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-exchange-zero-days-allow-rce-data-theft-attacks/)
-- Nov 04 - [How to Do a TypeScript Conversion: an opinionated take on gradual conversions](https://v5.chriskrycho.com/journal/how-to-do-a-typescript-conversion/)
-- Nov 04 - [Interview with a Gladiatrix](https://antigonejournal.com/2023/10/modern-roman-gladiatrix/)
+- Nov 05 - [Right turn on red? With pedestrian deaths rising, US cities are considering bans](https://apnews.com/article/red-light-turn-pedestrian-bicyclist-deaths-7f5bdee9c7b3f4cbf005f1844f486123)
+- Nov 05 - [Max is taking 4K away from its legacy ad-free subscribers](https://www.theverge.com/2023/11/2/23943859/max-4k-hbo-max-ad-free-subscribers)
+- Nov 05 - [Topic: Discord Stealer](https://github.com/topics/discord-stealer)
+- Nov 05 - [Shadows Edge Software](https://www.shadowsedge.mil/What-We-Do/)
+- Nov 05 - [SBF Is Headed to Prison but FTX Will Haunt the Crypto Community for Years](https://gizmodo.com/ftx-fbi-sam-bankman-fried-cryptocurrency-data-1850990825)
 <!--END_SECTION:hn-->
 
 <!--
