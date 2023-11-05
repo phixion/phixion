@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 05 - [LLM companies to access largest Chinese non-fiction book collection](https://annas-blog.org/duxiu-exclusive.html)
-- Nov 05 - [SigNoz (YC W21), open source observability platform, hiring SREs (Remote)](https://signoz.io/careers/site-reliability-engineer/)
-- Nov 05 - [Grok](https://twitter.com/xai/status/1721027348970238035)
-- Nov 05 - [The world nearly adopted a calendar with 13 months of 28 days](https://www.washingtonpost.com/history/2023/11/04/battle-sabbath-13-month-calendar/)
-- Nov 05 - [Topic: Discord Stealer](https://github.com/topics/discord-stealer)
+- Nov 05 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- Nov 05 - [Email Obfuscation Rendered Almost Ineffective Against ChatGPT](https://bulkninja.notion.site/Email-Obfuscation-Rendered-almost-Ineffective-Against-ChatGPT-728fba1b948d42c6b8dfa73cb64984e4)
+- Nov 05 - [Six-hour time-restricted feeding inhibits lung cancer progression](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-023-03131-y)
+- Nov 05 - [EPA plans to limit or eliminate salmon-killing tire chemical found in Alaska](https://alaskabeacon.com/briefs/epa-plans-to-limit-or-eliminate-salmon-killing-tire-chemical-found-preliminary-alaska-sampling/)
+- Nov 05 - [Net neutrality is about more than just blocking and throttling](https://www.brookings.edu/articles/dont-be-fooled-net-neutrality-is-about-more-than-just-blocking-and-throttling/)
 <!--END_SECTION:hn-->
 
 <!--
