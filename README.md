@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 05 - [Right turn on red? With pedestrian deaths rising, US cities are considering bans](https://apnews.com/article/red-light-turn-pedestrian-bicyclist-deaths-7f5bdee9c7b3f4cbf005f1844f486123)
-- Nov 05 - [Max is taking 4K away from its legacy ad-free subscribers](https://www.theverge.com/2023/11/2/23943859/max-4k-hbo-max-ad-free-subscribers)
+- Nov 05 - [LLM companies to access largest Chinese non-fiction book collection](https://annas-blog.org/duxiu-exclusive.html)
+- Nov 05 - [SigNoz (YC W21), open source observability platform, hiring SREs (Remote)](https://signoz.io/careers/site-reliability-engineer/)
+- Nov 05 - [Grok](https://twitter.com/xai/status/1721027348970238035)
+- Nov 05 - [The world nearly adopted a calendar with 13 months of 28 days](https://www.washingtonpost.com/history/2023/11/04/battle-sabbath-13-month-calendar/)
 - Nov 05 - [Topic: Discord Stealer](https://github.com/topics/discord-stealer)
-- Nov 05 - [Shadows Edge Software](https://www.shadowsedge.mil/What-We-Do/)
-- Nov 05 - [SBF Is Headed to Prison but FTX Will Haunt the Crypto Community for Years](https://gizmodo.com/ftx-fbi-sam-bankman-fried-cryptocurrency-data-1850990825)
 <!--END_SECTION:hn-->
 
 <!--
