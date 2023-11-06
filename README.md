@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 06 - [On Letting Go of Spite](https://ewanvalentine.io/blog/on-letting-go-of-spite)
-- Nov 06 - [Men's Shed](https://en.wikipedia.org/wiki/Men%27s_shed)
-- Nov 06 - [Kai Fu Lee's New AI Company: Yi-Open Source](https://www.01.ai/en)
-- Nov 06 - [Racket branch of Chez Scheme merging with mainline Chez Scheme](https://groups.google.com/g/chez-scheme/c/D7g6mIcYLNU)
-- Nov 06 - [milliForth](https://github.com/fuzzballcat/milliForth)
+- Nov 06 - [Google Pays $21B for Search Monopoly: How "Free" Tech Markets Repress](https://tutanota.com/blog/google-search-monopoly)
+- Nov 06 - [Passive SSH Key Compromise via Lattices [pdf]](https://eprint.iacr.org/2023/1711.pdf)
+- Nov 06 - [The First Stable Release of a Rust-Rewrite Sudo Implementation](https://www.memorysafety.org/blog/sudo-first-stable-release/)
+- Nov 06 - [FFmpeg is getting better with multithreaded transcoding pipelines](https://twitter.com/FFmpeg/status/1721275669336707152)
+- Nov 06 - [Adding Roman Numeral Literals to Python (2003)](https://peps.python.org/pep-0313/)
 <!--END_SECTION:hn-->
 
 <!--
