@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 06 - [Starlink achieves cash-flow breakeven, says SpaceX CEO Musk](https://www.reuters.com/technology/elon-musk-says-starlink-has-achieved-breakeven-cash-flow-2023-11-02/)
-- Nov 05 - [Home Sellers Win $1.8B After Jury Finds Conspiracy Among Realtors](https://www.nytimes.com/2023/10/31/realestate/nar-antitrust-lawsuit.html)
-- Nov 05 - [Intel 80386, a Revolutionary CPU](https://www.xtof.info/intel80386.html)
-- Nov 05 - [Solar energy storage breakthrough could make households self-sufficient](https://sifted.eu/articles/solar-energy-breakthrough-solid-hydrogen)
-- Nov 05 - [Show HN: WireHub – easily create and share WireGuard networks](https://www.wirehub.org/)
+- Nov 06 - [Transmiting Power from Star to Star with Gravitational Lensing](https://www.universetoday.com/163994/civilizations-could-use-gravitational-lenses-to-transmit-power-from-star-to-star/)
+- Nov 06 - [Listen to HD radio with a $30 RTL SDR dongle](https://github.com/theori-io/nrsc5)
+- Nov 06 - [Show HN: Jeeves – A Pythonic Alternative to GNU Make](https://jeeves.sh)
+- Nov 05 - [18.S097 Applied Category Theory: Textbook (2019)](https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/resources/18-s097iap19textbook/)
+- Nov 05 - [Show HN: Ts-Chan – Go-Like Concurrency Primitives for TypeScript/JavaScript](https://github.com/joeycumines/ts-chan)
 <!--END_SECTION:hn-->
 
 <!--
