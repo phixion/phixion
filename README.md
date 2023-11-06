@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 06 - [Transmiting Power from Star to Star with Gravitational Lensing](https://www.universetoday.com/163994/civilizations-could-use-gravitational-lenses-to-transmit-power-from-star-to-star/)
-- Nov 06 - [Listen to HD radio with a $30 RTL SDR dongle](https://github.com/theori-io/nrsc5)
-- Nov 06 - [Show HN: Jeeves – A Pythonic Alternative to GNU Make](https://jeeves.sh)
-- Nov 05 - [18.S097 Applied Category Theory: Textbook (2019)](https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/resources/18-s097iap19textbook/)
-- Nov 05 - [Show HN: Ts-Chan – Go-Like Concurrency Primitives for TypeScript/JavaScript](https://github.com/joeycumines/ts-chan)
+- Nov 06 - [On Letting Go of Spite](https://ewanvalentine.io/blog/on-letting-go-of-spite)
+- Nov 06 - [Men's Shed](https://en.wikipedia.org/wiki/Men%27s_shed)
+- Nov 06 - [Kai Fu Lee's New AI Company: Yi-Open Source](https://www.01.ai/en)
+- Nov 06 - [Racket branch of Chez Scheme merging with mainline Chez Scheme](https://groups.google.com/g/chez-scheme/c/D7g6mIcYLNU)
+- Nov 06 - [milliForth](https://github.com/fuzzballcat/milliForth)
 <!--END_SECTION:hn-->
 
 <!--
