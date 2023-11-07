@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 06 - [Show HN: Inshellisense – IDE style shell autocomplete](https://github.com/microsoft/inshellisense)
-- Nov 06 - [Show HN: Open-source model and scorecard for measuring hallucinations in LLMs](https://vectara.com/measuring-hallucinations-in-rag-systems/)
-- Nov 06 - [GPTs: Custom versions of ChatGPT](https://openai.com/blog/introducing-gpts)
-- Nov 06 - [New models and developer products](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)
-- Nov 06 - [UHZ1: NASA Telescopes Discover Record-Breaking Black Hole](https://chandra.si.edu/photo/2023/uhz1/)
+- Nov 06 - [Cruise Knew Its Self-Driving Cars Had Problems Recognizing Children](https://theintercept.com/2023/11/06/cruise-self-driving-cars-children/)
+- Nov 06 - [U.S. net saving as a percentage of gross national income](https://fred.stlouisfed.org/series/W207RC1Q156SBEA)
+- Nov 06 - [Happy 20th Birthday to Inkscape](https://inkscape.gitlab.io/inkscape-docs/awesome-web-pages/20th_anniversary/#frame4804)
+- Nov 06 - [OpenChat: Advancing open-source language models with imperfect data](https://github.com/imoneoi/openchat)
+- Nov 06 - [Bored Ape conference attendees wake up with eye pain, vision loss](https://www.404media.co/bored-ape-yacht-club-conference-eye-pain-vision-loss-yuga-labs/)
 <!--END_SECTION:hn-->
 
 <!--
