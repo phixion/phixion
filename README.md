@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Nov 07 - [LinkedIn Scraped and Faked Data (2023) - 5,820,276 breached accounts](https://haveibeenpwned.com/PwnedWebsites#LinkedInScrape2023)
 - Nov 05 - [GamingMonk - 654,510 breached accounts](https://haveibeenpwned.com/PwnedWebsites#GamingMonk)
 - Nov 03 - [Fitmart - 214,492 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Fitmart)
 - Oct 30 - [GameSprite - 6,164,643 breached accounts](https://haveibeenpwned.com/PwnedWebsites#GameSprite)
 - Oct 29 - [MemeChat - 4,348,570 breached accounts](https://haveibeenpwned.com/PwnedWebsites#MemeChat)
-- Oct 27 - [Toumei - 76,682 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Toumei)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 07 - [AI App Graveyard](https://dang.ai/ai-graveyard)
+- Nov 07 - [Do deepfake videos undermine our epistemic trust?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291668)
+- Nov 07 - [Bhutan sterilised and vaccinated 100% of their street dog population](https://worldanimalnews.com/the-kingdom-of-bhutan-becomes-first-country-in-the-world-to-achieve-100-stray-dog-sterilization-vaccination/)
+- Nov 07 - [NASA's On-Demand Streaming Service, NASA+ (Official Trailer)](https://www.youtube.com/watch?v=TJRiuF8tQJU)
+- Nov 07 - [PostgreSQL Encryption: The Available Options](https://www.hezmatt.org/~mpalmer/blog/2023/11/07/postgresql-encryption-options.html)
 - Nov 07 - [WeWork Goes Bankrupt](https://www.bloomberg.com/news/articles/2023-11-07/wework-goes-bankrupt-capping-co-working-company-s-downfall)
-- Nov 07 - [Mozilla will move Firefox development from Mercurial to Microsoft's GitHub](https://devclass.com/2023/11/07/mozilla-will-move-firefox-development-from-mercurial-to-microsofts-github/)
-- Nov 07 - [Tesla drivers can now disable remote access in privacy win](https://cleanenergyrevolution.co/2023/11/06/tesla-drivers-can-now-disable-remote-access-in-privacy-win/)
-- Nov 07 - [Apple's Trademark Exploit](https://blog.giovanh.com/blog/2023/10/26/apples-trademark-exploit/)
 <!--END_SECTION:hn-->
 
 <!--
