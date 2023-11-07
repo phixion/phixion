@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 07 - [Google ends deal to build 15,000 Bay Area homes due to "market conditions"](https://arstechnica.com/tech-policy/2023/11/google-cost-cutting-ends-deal-to-build-thousands-of-affordable-housing-units/)
-- Nov 07 - [Verizon, AT&T Customers Sue to Undo T-Mobile Merger, Saying It Raised All Prices](https://www.techdirt.com/2023/11/07/verizon-att-customers-sue-to-reverse-t-mobile-merger-saying-it-raised-everybodys-prices/)
-- Nov 07 - [Overheating datacenter stopped 2.5M bank transactions](https://www.theregister.com/2023/11/07/overheating_datacenter_singapore/)
-- Nov 07 - [LAPD considering stronger body camera policy in light of recent scandals](https://www.latimes.com/california/story/2023-10-26/lapd-considering-stronger-body-camera-policy)
-- Nov 07 - [44% of US job postings have salary info in them](https://directlyapply.com/blog/an-update-on-salary-transparency-in-job-posts-november-2023)
+- Nov 07 - [In Switzerland, Most People Rent for Life. Is That What They Want?](https://www.nytimes.com/2023/11/06/realestate/zurich-switzerland-renting-homes.html)
+- Nov 07 - [Go, Containers, and the Linux Scheduler](https://www.riverphillips.dev/blog/go-cfs/)
+- Nov 07 - [Why Golang instead of Rust to develop the Krater desktop app](https://blog.moonguard.dev/why-golang-instead-of-rust-to-develop-the-krater-desktop-app)
+- Nov 07 - [Solar Splitting of CO2 with 3D-Printed Hierarchically Channeled Ceria Structures](https://onlinelibrary.wiley.com/doi/10.1002/admi.202300452)
+- Nov 07 - [I Got the Fed to Release Its 2011 "Treasury Default" Playbook](https://www.crisesnotes.com/i-got-the-fed-to-release-its-2011-treasury-default-playbook-heres-what-it-says-and-why-it-matters/)
 <!--END_SECTION:hn-->
 
 <!--
