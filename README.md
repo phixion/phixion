@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 07 - [In Switzerland, Most People Rent for Life. Is That What They Want?](https://www.nytimes.com/2023/11/06/realestate/zurich-switzerland-renting-homes.html)
-- Nov 07 - [Go, Containers, and the Linux Scheduler](https://www.riverphillips.dev/blog/go-cfs/)
-- Nov 07 - [Why Golang instead of Rust to develop the Krater desktop app](https://blog.moonguard.dev/why-golang-instead-of-rust-to-develop-the-krater-desktop-app)
-- Nov 07 - [Solar Splitting of CO2 with 3D-Printed Hierarchically Channeled Ceria Structures](https://onlinelibrary.wiley.com/doi/10.1002/admi.202300452)
-- Nov 07 - [I Got the Fed to Release Its 2011 "Treasury Default" Playbook](https://www.crisesnotes.com/i-got-the-fed-to-release-its-2011-treasury-default-playbook-heres-what-it-says-and-why-it-matters/)
+- Nov 07 - [Nature retracts controversial superconductivity paper by embattled physicist](https://www.nature.com/articles/d41586-023-03398-4)
+- Nov 07 - [Tumble Forth](http://tumbleforth.hardcoded.net/)
+- Nov 07 - [GPT-4-turbo preliminary benchmark results on code-editing](https://aider.chat/docs/benchmarks-1106.html)
+- Nov 07 - [WasmFX: Effect Handlers for WebAssembly](https://wasmfx.dev/)
+- Nov 07 - [Dietary restriction of isoleucine increases healthspan and lifespan in mice](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(23)00374-1)
 <!--END_SECTION:hn-->
 
 <!--
