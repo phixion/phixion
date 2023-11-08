@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 08 - [Banning E2EE Is Stupid](https://github.com/davidchisnall/banning-e2ee-is-stupid)
-- Nov 08 - [Opusmodus: Common Lisp Music Composition System](https://opusmodus.com/)
-- Nov 08 - [Hard-to-swallow truths they won't tell you about software engineer job](https://www.mensurdurakovic.com/hard-to-swallow-truths-they-wont-tell-you-about-software-engineer-job/)
-- Nov 08 - [Chamberlain blocks smart garage door opener from working with smart homes](https://arstechnica.com/gadgets/2023/11/chamberlain-blocks-smart-garage-door-opener-from-working-with-smart-homes/)
-- Nov 08 - [Trouble Brewing for RISC-V as Issue of Technology Transfer Is Questioned](https://hackaday.com/2023/11/07/trouble-brewing-for-risc-v-as-issue-of-technology-transfer-is-questioned/)
+- Nov 08 - [Quake Brutalist Jam II](https://www.slipseer.com/index.php?resources/quake-brutalist-jam-2.278/)
+- Nov 08 - [Build a Lightweight Code Generator with TypeScript and JSON Imports](https://spin.atomicobject.com/2023/11/08/code-generator-typescript-json/)
+- Nov 08 - [Heavy-seed origin of early supermassive black holes from a z ≈ 10 X-ray quasar](https://www.nature.com/articles/s41550-023-02111-9)
+- Nov 08 - [Swedish unions strike: Blocks mail and package deliveries for Tesla](https://www.seko.se/press-och-aktuellt/nyheter/2023/seko-stoppar-brev-och-paket-till-tesla/)
+- Nov 08 - [Workers in Sweden Will Expand Strike Against Tesla](https://www.nytimes.com/2023/11/07/world/europe/sweden-tesla-strike.html)
 <!--END_SECTION:hn-->
 
 <!--
