@@ -6,7 +6,7 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
-- Nov 07 - [LinkedIn Scraped and Faked Data (2023) - 5,820,276 breached accounts](https://haveibeenpwned.com/PwnedWebsites#LinkedInScrape2023)
+- Nov 07 - [LinkedIn Scraped and Faked Data (2023) - 19,788,753 breached accounts](https://haveibeenpwned.com/PwnedWebsites#LinkedInScrape2023)
 - Nov 05 - [GamingMonk - 654,510 breached accounts](https://haveibeenpwned.com/PwnedWebsites#GamingMonk)
 - Nov 03 - [Fitmart - 214,492 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Fitmart)
 - Oct 30 - [GameSprite - 6,164,643 breached accounts](https://haveibeenpwned.com/PwnedWebsites#GameSprite)
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 08 - [Woman jailed after RentaHitman.com assassin turned out to be – surprise – FBI](https://www.theregister.com/2023/11/07/hitman_for_hire_jail/)
+- Nov 08 - [EU Digital Identity Reform: The Good, Bad and Ugly in the EIDAS Regulation](https://epicenter.works/en/content/eu-digital-identity-reform-the-good-bad-ugly-in-the-eidas-regulation)
+- Nov 08 - [The bash book to rule them all](https://fabiensanglard.net/bash/index.html)
+- Nov 08 - [Stop making every conversation about yourself](https://thoguhts.substack.com/p/stop-making-every-conversation-about)
 - Nov 08 - [Antidepressants or Tolkien](https://antidepressantsortolkien.vercel.app/)
-- Nov 08 - [The Software Engineer's Guidebook](https://www.engguidebook.com/)
-- Nov 08 - [Bing Chat is so hungry for GPUs, Microsoft will rent them from Oracle](https://www.theregister.com/2023/11/07/bing_gpu_oracle/)
-- Nov 07 - [ChipNeMo: Domain-Adapted LLMs for Chip Design](https://arxiv.org/abs/2311.00176)
+- Nov 08 - [Interactive examples for learning jq](https://ishan.page/blog/2023-11-06-jq-by-example/)
 <!--END_SECTION:hn-->
 
 <!--
