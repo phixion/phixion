@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 07 - [Nature retracts controversial superconductivity paper by embattled physicist](https://www.nature.com/articles/d41586-023-03398-4)
-- Nov 07 - [Tumble Forth](http://tumbleforth.hardcoded.net/)
-- Nov 07 - [GPT-4-turbo preliminary benchmark results on code-editing](https://aider.chat/docs/benchmarks-1106.html)
-- Nov 07 - [WasmFX: Effect Handlers for WebAssembly](https://wasmfx.dev/)
-- Nov 07 - [Dietary restriction of isoleucine increases healthspan and lifespan in mice](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(23)00374-1)
+- Nov 08 - [Woman jailed after RentaHitman.com assassin turned out to be – surprise – FBI](https://www.theregister.com/2023/11/07/hitman_for_hire_jail/)
+- Nov 08 - [Antidepressants or Tolkien](https://antidepressantsortolkien.vercel.app/)
+- Nov 08 - [The Software Engineer's Guidebook](https://www.engguidebook.com/)
+- Nov 08 - [Bing Chat is so hungry for GPUs, Microsoft will rent them from Oracle](https://www.theregister.com/2023/11/07/bing_gpu_oracle/)
+- Nov 07 - [ChipNeMo: Domain-Adapted LLMs for Chip Design](https://arxiv.org/abs/2311.00176)
 <!--END_SECTION:hn-->
 
 <!--
