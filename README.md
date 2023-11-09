@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 09 - [Las Vegas Sphere reports $98.4M loss; CFO quits](https://lasvegassun.com/news/2023/nov/08/las-vegas-sphere-reports-984-million-loss-cfo-quit/)
-- Nov 09 - [CLion Nova Explodes onto the C and C++ Development Scene](https://blog.jetbrains.com/clion/2023/11/clion-nova/)
-- Nov 09 - [Olive oil soars, and thieves go after century-old trees in the Mediterranean](https://www.latimes.com/world-nation/story/2023-11-08/olive-oil-price-soars-thieves-target-old-trees)
-- Nov 09 - [You Win or You Learn](https://www.threads.net/@waxpancake/post/CzbS-cVuGgn)
-- Nov 09 - [System76's Lemur Pro Laptop Is Just a Nice Linux Laptop](https://www.wired.com/review/system-76-lemur-pro-laptop/)
+- Nov 09 - [YouTube's Adblock detection might break the law in the EU](https://www.youtube.com/watch?v=fqhPUmyrfGI)
+- Nov 09 - [Thomas Massie Failed to Stop "Kill Switch" Mandate That Could Disable Vehicles](https://reclaimthenet.org/thomas-massie-tried-but-failed-to-stop-kill-switch-mandate-that-could-disable-vehicles)
+- Nov 09 - [A robot in South Korea mistook a man for a box of vegetables and killed him](https://www.bbc.com/news/world-asia-67354709)
+- Nov 09 - [No bar exam required to practice law in Oregon starting next year](https://www.reuters.com/legal/government/no-bar-exam-required-practice-law-oregon-starting-next-year-2023-11-07/)
+- Nov 09 - [Microsoft won't let you close OneDrive in Windows without you explaining it](https://www.neowin.net/news/microsoft-wont-let-you-close-onedrive-in-windows-without-you-explaining-it-first/)
 <!--END_SECTION:hn-->
 
 <!--
