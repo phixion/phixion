@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 09 - [Using GPT-4 Vision with Vimium to browse the web](https://github.com/ishan0102/vimGPT)
-- Nov 09 - [After a $1.8B verdict, the clock is ticking on the 6% realtor commission](https://www.cnn.com/2023/11/05/homes/nar-verdict-real-estate-commission-fee/index.html)
-- Nov 09 - [Omegle founder shuts down site forever?](https://www.omegle.com/)
-- Nov 08 - [On-Crash Backtraces in Swift](https://www.swift.org/blog/swift-5.9-backtraces/)
-- Nov 08 - [Sad clown paradox](https://en.wikipedia.org/wiki/Sad_clown_paradox)
+- Nov 09 - [i386 Assembly Language trick for storing data in .text](https://ratfactor.com/cards/asm-data-in-text)
+- Nov 09 - [A door at a Swedish library was accidentally left open](https://www.zmescience.com/science/news-science/a-door-at-a-swedish-library-was-accidentally-left-open-446-people-came-in-borrowed-245-books-every-single-one-was-returned/)
+- Nov 09 - [Researchers uncover the fastest semiconductor yet](https://spectrum.ieee.org/semiconductor)
+- Nov 09 - [Tested: Black 4.0, the "blackest black" is a lot blacker. 0f1012 vs. 272928](https://i.imgur.com/3njfTJP.jpg)
+- Nov 09 - [Sony announces a9 III: first full-frame global shutter camera](https://www.dpreview.com/news/7271416294/sony-announces-a9-iii-world-s-first-full-frame-global-shutter-camera)
 <!--END_SECTION:hn-->
 
 <!--
