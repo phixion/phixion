@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 09 - [i386 Assembly Language trick for storing data in .text](https://ratfactor.com/cards/asm-data-in-text)
-- Nov 09 - [A door at a Swedish library was accidentally left open](https://www.zmescience.com/science/news-science/a-door-at-a-swedish-library-was-accidentally-left-open-446-people-came-in-borrowed-245-books-every-single-one-was-returned/)
-- Nov 09 - [Researchers uncover the fastest semiconductor yet](https://spectrum.ieee.org/semiconductor)
-- Nov 09 - [Tested: Black 4.0, the "blackest black" is a lot blacker. 0f1012 vs. 272928](https://i.imgur.com/3njfTJP.jpg)
-- Nov 09 - [Sony announces a9 III: first full-frame global shutter camera](https://www.dpreview.com/news/7271416294/sony-announces-a9-iii-world-s-first-full-frame-global-shutter-camera)
+- Nov 09 - [Ploomber (YC W22) Is Hiring Software Engineers](https://www.ycombinator.com/companies/ploomber)
+- Nov 09 - [Steve Wozniak hospitalized after fainting at an event in Mexico City](https://www.cnn.com/2023/11/09/tech/apple-cofounder-steve-wozniak-hospitalized-intl-hnk/index.html)
+- Nov 09 - [Hitler-Mannerheim Recording](https://yle.fi/aihe/artikkeli/2018/06/04/hitlers-secretly-recorded-conversation-in-finland)
+- Nov 09 - [Ask HN: As a first-time solopreneur how would you go about hiring the first team](https://news.ycombinator.com/item?id=38203128)
+- Nov 09 - [Hoppscotch Desktop Application](https://hoppscotch.com/blog/introducing-hoppscotch-desktop-application)
 <!--END_SECTION:hn-->
 
 <!--
