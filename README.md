@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 09 - [Ploomber (YC W22) Is Hiring Software Engineers](https://www.ycombinator.com/companies/ploomber)
-- Nov 09 - [Steve Wozniak hospitalized after fainting at an event in Mexico City](https://www.cnn.com/2023/11/09/tech/apple-cofounder-steve-wozniak-hospitalized-intl-hnk/index.html)
-- Nov 09 - [Hitler-Mannerheim Recording](https://yle.fi/aihe/artikkeli/2018/06/04/hitlers-secretly-recorded-conversation-in-finland)
-- Nov 09 - [Ask HN: As a first-time solopreneur how would you go about hiring the first team](https://news.ycombinator.com/item?id=38203128)
-- Nov 09 - [Hoppscotch Desktop Application](https://hoppscotch.com/blog/introducing-hoppscotch-desktop-application)
+- Nov 09 - [Las Vegas Sphere reports $98.4M loss; CFO quits](https://lasvegassun.com/news/2023/nov/08/las-vegas-sphere-reports-984-million-loss-cfo-quit/)
+- Nov 09 - [CLion Nova Explodes onto the C and C++ Development Scene](https://blog.jetbrains.com/clion/2023/11/clion-nova/)
+- Nov 09 - [Olive oil soars, and thieves go after century-old trees in the Mediterranean](https://www.latimes.com/world-nation/story/2023-11-08/olive-oil-price-soars-thieves-target-old-trees)
+- Nov 09 - [You Win or You Learn](https://www.threads.net/@waxpancake/post/CzbS-cVuGgn)
+- Nov 09 - [System76's Lemur Pro Laptop Is Just a Nice Linux Laptop](https://www.wired.com/review/system-76-lemur-pro-laptop/)
 <!--END_SECTION:hn-->
 
 <!--
