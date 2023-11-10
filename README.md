@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 10 - [Switching to Elixir](https://www.leemeichin.com/posts/switching-to-elixir.html)
-- Nov 10 - [Why does so much government tech investment deliver so little?](https://www.airstreet.com/blog/government-tech-investment)
-- Nov 10 - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=38213590)
-- Nov 10 - [Terminating an employee with a bus factor of 1](https://workplace.stackexchange.com/questions/194162/terminating-an-employee-with-a-bus-factor-of-1)
-- Nov 10 - [Lemmings](https://www.leemeichin.com/posts/lemmings.html)
+- Nov 10 - [Rust – Faster compilation with the parallel front-end in nightly](https://blog.rust-lang.org/2023/11/09/parallel-rustc.html)
+- Nov 10 - [Amazon props Vega to replace Android-based Fire OS on future smart devices](https://goodereader.com/blog/amazon-news/amazon-props-vega-to-replace-android-based-fire-os-on-future-smart-devices)
+- Nov 10 - [Link-Time Optimisation (LTO)](https://convolv.es/guides/lto/)
+- Nov 10 - [EuclideanSpace](https://euclideanspace.com/)
+- Nov 10 - [Cursorless is alien magic from the future](https://xeiaso.net/notes/cursorless-alien-magic/)
 <!--END_SECTION:hn-->
 
 <!--
