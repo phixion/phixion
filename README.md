@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 10 - [At SpaceX, worker injuries soar in Elon Musk's rush to Mars](https://www.reuters.com/investigates/special-report/spacex-musk-safety/)
+- Nov 10 - [Canonical shows how to use Snaps without the Snap Store](https://www.theregister.com/2023/11/10/snap_without_ubuntu_tools/)
+- Nov 10 - [I Skipped to the Ending](https://danangell.com/blog/posts/i-skipped-to-the-ending/)
 - Nov 10 - [Rust – Faster compilation with the parallel front-end in nightly](https://blog.rust-lang.org/2023/11/09/parallel-rustc.html)
 - Nov 10 - [Amazon props Vega to replace Android-based Fire OS on future smart devices](https://goodereader.com/blog/amazon-news/amazon-props-vega-to-replace-android-based-fire-os-on-future-smart-devices)
-- Nov 10 - [Link-Time Optimisation (LTO)](https://convolv.es/guides/lto/)
-- Nov 10 - [EuclideanSpace](https://euclideanspace.com/)
-- Nov 10 - [Cursorless is alien magic from the future](https://xeiaso.net/notes/cursorless-alien-magic/)
 <!--END_SECTION:hn-->
 
 <!--
