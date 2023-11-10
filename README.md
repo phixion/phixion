@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 10 - [The Svalbard fibre optic cable connection](https://spacenorway.no/en/what-we-do/operational-infrastructure/the-svalbard-fibre-optic-cable-connection/)
-- Nov 10 - [Jeff Geerling](https://www.raspberrypi.com/news/meet-jeff-geerling/)
-- Nov 10 - [AWS to start charging for IPv4 usage, but critical services don't support IPv6](https://old.reddit.com/r/aws/comments/17rxig8/aws_wants_to_start_charging_for_all_allocated/)
-- Nov 10 - [EU lawmakers scolded for concealing identities of content-scanning experts](https://www.theregister.com/2023/11/09/eu_casm_expert_identities/)
-- Nov 10 - [FreeBSD 14.0 has reached – RELEASE](https://lists.freebsd.org/archives/dev-commits-src-all/2023-November/033349.html)
+- Nov 10 - [The FCC voted to reimplement net neutrality. Now comes the hard part](https://www.nationaljournal.com/s/723252/the-fcc-voted-to-reimplement-net-neutrality-now-comes-the-hard-part/)
+- Nov 10 - [The Unix timestamp will begin with 17 this Tuesday](https://www.unixtimestamp.com/)
+- Nov 10 - [BitTorrent Pirates Won't Receive ISP Warnings (It Will Be Something Worse)](https://torrentfreak.com/bittorrent-pirates-wont-receive-isp-warnings-it-will-be-something-worse-231110/)
+- Nov 10 - [Cell Reprogramming for Regeneration and Repair of the Nervous System](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9599606/)
+- Nov 10 - [Git cherry-pick and revert use 3-way merge](https://jvns.ca/blog/2023/11/10/how-cherry-pick-and-revert-work/)
 <!--END_SECTION:hn-->
 
 <!--
