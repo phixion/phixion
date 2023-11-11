@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 11 - [Meta, YouTube face criminal spying complaints in Ireland](https://www.theregister.com/2023/11/11/meta_youtube_criminal_charges/)
-- Nov 11 - [Fourteen Years of Go](https://go.dev/blog/14years)
-- Nov 11 - [Ask HN: Top 10 Timeless Software Books That ChangedLife as Software Engineer?](https://news.ycombinator.com/item?id=38228850)
-- Nov 11 - [Show HN: DataSheetGrid, an Airtable-like React component](https://react-datasheet-grid.netlify.app/)
-- Nov 11 - [Gnome Receives €1M from German Government](https://www.omgubuntu.co.uk/2023/11/gnome-sovereign-tech-fund)
+- Nov 11 - [Websites That Changed the World (2006)](https://www.theguardian.com/technology/2006/aug/13/observerreview.onlinesupplement)
+- Nov 11 - [Show HN: I built a Hacker News inspired newsboard for AI and robotics](https://www.gptroad.com/)
+- Nov 11 - ["Never, ever, no matter what, go to a timeshare presentation"](https://www.theatlantic.com/ideas/archive/2023/11/hawaii-timeshare/675974/)
+- Nov 11 - [What If Psychedelics' Hallucinations Are Just a Side Effect?](https://www.theatlantic.com/health/archive/2023/11/non-hallucinogenic-psychedelic-clinical-therapy/675942/)
+- Nov 11 - [Master Foo and the Unix Zealot](http://catb.org/esr/writings/unix-koans/zealot.html)
 <!--END_SECTION:hn-->
 
 <!--
