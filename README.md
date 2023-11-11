@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 11 - [.NET 8 Standalone 50% Smaller On Linux](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-8)
-- Nov 11 - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
-- Nov 11 - [When NASA Used an RC Tiger II to Drill into Space Shuttle Tires](https://tankhistoria.com/experimental/tire-assault-vehicle/)
-- Nov 11 - [Starship’s second flight test](https://www.spacex.com/launches/mission/?missionId=starship-flight-2)
-- Nov 11 - [Google to Implement IETF's Message Layer Security (MLS) Specification RFC 9420](https://security.googleblog.com/2023/07/an-important-step-towards-secure-and.html)
+- Nov 11 - [Meta, YouTube face criminal spying complaints in Ireland](https://www.theregister.com/2023/11/11/meta_youtube_criminal_charges/)
+- Nov 11 - [Fourteen Years of Go](https://go.dev/blog/14years)
+- Nov 11 - [Ask HN: Top 10 Timeless Software Books That ChangedLife as Software Engineer?](https://news.ycombinator.com/item?id=38228850)
+- Nov 11 - [Show HN: DataSheetGrid, an Airtable-like React component](https://react-datasheet-grid.netlify.app/)
+- Nov 11 - [Gnome Receives €1M from German Government](https://www.omgubuntu.co.uk/2023/11/gnome-sovereign-tech-fund)
 <!--END_SECTION:hn-->
 
 <!--
