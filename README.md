@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 12 - [Supabase (YC S20) Is Hiring a RevOps Lead (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/5006313004)
+- Nov 12 - [Ask HN: How many of you still have a Facebook account?](https://news.ycombinator.com/item?id=38237827)
+- Nov 12 - [Ask HN: What are you reading these days?](https://news.ycombinator.com/item?id=38237730)
+- Nov 12 - [Go modules and the domain expiry problem](https://utcc.utoronto.ca/~cks/space/blog/programming/GoModulesAndDomainExpiry)
 - Nov 12 - [Win-Vind: Vim powers with speed of thought throughout Windows 11](https://pit-ray.github.io/win-vind/)
-- Nov 12 - [Tesla's Supercharger cost revealed to be just 1/5th of the competition in bid (2022)](https://electrek.co/2022/04/15/tesla-cost-deploy-superchargers-revealed-one-fifth-competition/)
-- Nov 11 - [Rats have an imagination, new research suggests](https://www.sciencedaily.com/releases/2023/11/231102162557.htm)
-- Nov 11 - [RISC-V Ox64 BL808 SBC: Starting Apache NuttX Real-Time Operating System](https://lupyuen.codeberg.page/articles/ox2.html)
-- Nov 11 - [Fedora Workstation 39](https://fedoraproject.org/workstation/download/)
 <!--END_SECTION:hn-->
 
 <!--
