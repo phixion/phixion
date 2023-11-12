@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 11 - [New Outlook sends passwords, mails and other data to Microsoft](https://mailbox.org/en/post/warning-new-outlook-sends-passwords-mails-and-other-data-to-microsoft?nl=e)
-- Nov 11 - [Men less likely than women to share negative information, says study](https://phys.org/news/2023-11-men-women-negative.html)
-- Nov 11 - [To get off fossil fuels, America is going to need a lot more electricians](https://grist.org/energy/electrician-shortage-electrify-everything-climate-infrastructure-labor/)
-- Nov 11 - [Ask HN: What are good books on SW architecture that don't sell microservices?](https://news.ycombinator.com/item?id=38232930)
-- Nov 11 - [It's still easy for anyone to become you at Experian](https://krebsonsecurity.com/2023/11/its-still-easy-for-anyone-to-become-you-at-experian/)
+- Nov 11 - [Google's New "Help Me Script" Automation](https://techthreedots.com/googles-new-help-me-script)
+- Nov 11 - [SpaceX will launch the X-37B on a Falcon Heavy rocket Dec. 7](https://www.space.com/space-force-x-37b-spacex-falcon-heavy-1st-launch-dec-2023)
+- Nov 11 - [Fedora Workstation 39](https://fedoraproject.org/workstation/download/)
+- Nov 11 - [Show HN: Send me an IRL message and watch it arrive](https://hi.benren.au/)
+- Nov 11 - [A Rusty CHERI – The path to hardware capabilities in Rust [video]](https://archive.fosdem.org/2023/schedule/event/rust_a_rusty_cheri_the_path_to_hardware_capabilities_in_rust/)
 <!--END_SECTION:hn-->
 
 <!--
