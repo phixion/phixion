@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 12 - [Google dragged to UK watchdog over Chrome's upcoming IP address cloaking](https://www.theregister.com/2023/11/11/google_proxy_plan_cma/)
-- Nov 12 - [Yadea unveils 99 MPH electric motorcycle that charges in 10 minutes](https://electrek.co/2023/11/11/yadea-unveils-99-mph-electric-motorcycle-that-charges-in-10-minutes/)
-- Nov 12 - [Matplotlib](https://matplotlib.org/)
-- Nov 12 - [GPU Survival Toolkit for the AI age: The bare minimum every developer must know](https://journal.hexmos.com/gpu-survival-toolkit/)
-- Nov 12 - [Microsoft Temporarily Blocked Internal Access to ChatGPT, Citing Data Concerns](https://www.wsj.com/tech/microsoft-temporarily-blocked-internal-access-to-chatgpt-citing-data-concerns-c1ca475d)
+- Nov 12 - [Lightweight Linux Distributions for Older PCs](https://www.freecodecamp.org/news/lightweight-linux-distributions-for-your-pc/)
+- Nov 12 - [The Conference for High Performance Computing, Networking, Storage, Analysis](https://sc23.supercomputing.org/)
+- Nov 12 - [Cars downloading text messages from phones doesn't violate state privacy law](https://arstechnica.com/tech-policy/2023/11/five-big-carmakers-beat-lawsuits-alleging-infotainment-systems-invade-privacy/)
+- Nov 12 - [Sieve (YC W22), a video/audio AI cloud, is hiring AI / product engineers](https://sievedata.com/about/jobs)
+- Nov 12 - [SanDisk Extreme Pro Failures Result from Design Flaw, Says Researcher](https://www.tomshardware.com/news/sandisk-extreme-pro-failures-are-due-to-design-flaw)
 <!--END_SECTION:hn-->
 
 <!--
