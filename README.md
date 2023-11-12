@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 11 - [Google's New "Help Me Script" Automation](https://techthreedots.com/googles-new-help-me-script)
-- Nov 11 - [SpaceX will launch the X-37B on a Falcon Heavy rocket Dec. 7](https://www.space.com/space-force-x-37b-spacex-falcon-heavy-1st-launch-dec-2023)
+- Nov 12 - [Win-Vind: Vim powers with speed of thought throughout Windows 11](https://pit-ray.github.io/win-vind/)
+- Nov 12 - [Tesla's Supercharger cost revealed to be just 1/5th of the competition in bid (2022)](https://electrek.co/2022/04/15/tesla-cost-deploy-superchargers-revealed-one-fifth-competition/)
+- Nov 11 - [Rats have an imagination, new research suggests](https://www.sciencedaily.com/releases/2023/11/231102162557.htm)
+- Nov 11 - [RISC-V Ox64 BL808 SBC: Starting Apache NuttX Real-Time Operating System](https://lupyuen.codeberg.page/articles/ox2.html)
 - Nov 11 - [Fedora Workstation 39](https://fedoraproject.org/workstation/download/)
-- Nov 11 - [Show HN: Send me an IRL message and watch it arrive](https://hi.benren.au/)
-- Nov 11 - [A Rusty CHERI – The path to hardware capabilities in Rust [video]](https://archive.fosdem.org/2023/schedule/event/rust_a_rusty_cheri_the_path_to_hardware_capabilities_in_rust/)
 <!--END_SECTION:hn-->
 
 <!--
