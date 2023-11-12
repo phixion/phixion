@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 12 - [Supabase (YC S20) Is Hiring a RevOps Lead (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/5006313004)
-- Nov 12 - [Ask HN: How many of you still have a Facebook account?](https://news.ycombinator.com/item?id=38237827)
-- Nov 12 - [Ask HN: What are you reading these days?](https://news.ycombinator.com/item?id=38237730)
-- Nov 12 - [Go modules and the domain expiry problem](https://utcc.utoronto.ca/~cks/space/blog/programming/GoModulesAndDomainExpiry)
-- Nov 12 - [Win-Vind: Vim powers with speed of thought throughout Windows 11](https://pit-ray.github.io/win-vind/)
+- Nov 12 - [How to attach logic probes to tiny SMD components (2021)](https://reddit.com/r/AskElectronics/comments/qxpfxl/how_to_attach_logic_probes_to_tiny_smd_components/)
+- Nov 12 - [Bankman-Fried's parents could face their own legal perils, experts say](https://www.washingtonpost.com/business/2023/11/11/sam-bankman-fried-parents-ftx/)
+- Nov 12 - [Downfall fallout lawsuit: Intel knew AVX chips were insecure and did nothing](https://www.theregister.com/2023/11/09/intel_downfall_lawsuit/)
+- Nov 12 - [Map of Space Invader Mosaics in Paris](https://pnote.eu/projects/invaders/map.html)
+- Nov 12 - [NetBSD 10.0 RC1](https://netbsd.org/releases/formal-10/NetBSD-10.0.html)
 <!--END_SECTION:hn-->
 
 <!--
