@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 13 - [From Aristocratic to Ordinary: Shifting Modes of Elite Distinction (2020)](https://journals.sagepub.com/doi/full/10.1177/0003122420912941)
-- Nov 13 - [Trip Autumn ISO C++ standards meeting](https://herbsutter.com/2023/11/11/trip-report-autumn-iso-c-standards-meeting-kona-hi-usa/)
-- Nov 13 - [10k Bounty for Rewriting Prettier in Rust](https://twitter.com/Vjeux/status/1722733472522142022)
-- Nov 13 - [Run LLMs on my own Mac fast and efficient Only 2 MBs](https://www.secondstate.io/articles/fast-llm-inference/)
-- Nov 13 - [More Dakka in Medicine](https://qualiacomputing.com/2019/09/06/more-dakka-in-medicine/)
+- Nov 13 - [Ask HN: Can we think of DNA as Infrastructure as Code](https://news.ycombinator.com/item?id=38248809)
+- Nov 13 - [Google/IAC/Expedia (2019)](https://www.techemails.com/p/barry-diller-emails-google-exec)
+- Nov 13 - [Lessons I wish I had learned before teaching differential equations [pdf]](https://web.williams.edu/Mathematics/lg5/Rota.pdf)
+- Nov 13 - [Ruby on Rails: The Documentary [video]](https://www.youtube.com/watch?v=HDKUEXBF3B4)
+- Nov 13 - [Don't waste money on a math coprocessor they said](https://virtuallyfun.com/2023/11/12/dont-waste-money-on-a-math-coprocessor-they-said/)
 <!--END_SECTION:hn-->
 
 <!--
