@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 12 - [Geohash](https://en.wikipedia.org/wiki/Geohash)
-- Nov 12 - [Show HN: Open-source digital stylus with six degrees of freedom](https://github.com/Jcparkyn/dpoint)
-- Nov 12 - [Lightweight Linux Distributions for Older PCs](https://www.freecodecamp.org/news/lightweight-linux-distributions-for-your-pc/)
-- Nov 12 - [37, the median value for the second prime factor of an integer](https://grossack.site/2023/11/08/37-median.html)
-- Nov 12 - [Open-interpreter: OpenAI's Code Interpreter in your terminal, running locally](https://github.com/KillianLucas/open-interpreter)
+- Nov 13 - [More Dakka in Medicine](https://qualiacomputing.com/2019/09/06/more-dakka-in-medicine/)
+- Nov 13 - [Tuxedo Pulse Gen 3](https://www.tuxedocomputers.com/en/TUXEDO-Pulse-14-Gen3.tuxedo)
+- Nov 13 - [MLPerf training tests put Nvidia ahead, Intel close, and Google well behind](https://spectrum.ieee.org/generative-ai-training)
+- Nov 13 - [Beg Bounties](https://www.troyhunt.com/beg-bounties/)
+- Nov 13 - [The diamond world takes radical steps to stop a pricing plunge](https://www.bloomberg.com/news/articles/2023-11-11/diamond-prices-miners-take-radical-steps-to-support-the-market)
 <!--END_SECTION:hn-->
 
 <!--
