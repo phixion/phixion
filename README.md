@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 13 - [Ask HN: Can we think of DNA as Infrastructure as Code](https://news.ycombinator.com/item?id=38248809)
-- Nov 13 - [Google/IAC/Expedia (2019)](https://www.techemails.com/p/barry-diller-emails-google-exec)
-- Nov 13 - [Lessons I wish I had learned before teaching differential equations [pdf]](https://web.williams.edu/Mathematics/lg5/Rota.pdf)
-- Nov 13 - [Ruby on Rails: The Documentary [video]](https://www.youtube.com/watch?v=HDKUEXBF3B4)
-- Nov 13 - [Don't waste money on a math coprocessor they said](https://virtuallyfun.com/2023/11/12/dont-waste-money-on-a-math-coprocessor-they-said/)
+- Nov 13 - [HTML Web Components](https://blog.jim-nielsen.com/2023/html-web-components/)
+- Nov 13 - [Nvidia H200 Tensor Core GPU](https://www.nvidia.com/en-gb/data-center/h200/)
+- Nov 13 - [Black goo is the new oscilloscope: Love Hultén's ferrofluid synths](https://cdm.link/2023/11/black-goo-ferrofluid-synths/)
+- Nov 13 - [Unity announces layoffs despite increased revenue and reduced losses](https://www.gamesindustry.biz/unity-announces-layoffs-despite-increased-revenue-and-reduced-losses)
+- Nov 13 - [To free the Baltic grid, old technology is new again](https://spectrum.ieee.org/baltic-power-grid)
 <!--END_SECTION:hn-->
 
 <!--
