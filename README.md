@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 12 - [Geohash](https://en.wikipedia.org/wiki/Geohash)
+- Nov 12 - [Show HN: Open-source digital stylus with six degrees of freedom](https://github.com/Jcparkyn/dpoint)
 - Nov 12 - [Lightweight Linux Distributions for Older PCs](https://www.freecodecamp.org/news/lightweight-linux-distributions-for-your-pc/)
-- Nov 12 - [The Conference for High Performance Computing, Networking, Storage, Analysis](https://sc23.supercomputing.org/)
-- Nov 12 - [Cars downloading text messages from phones doesn't violate state privacy law](https://arstechnica.com/tech-policy/2023/11/five-big-carmakers-beat-lawsuits-alleging-infotainment-systems-invade-privacy/)
-- Nov 12 - [Sieve (YC W22), a video/audio AI cloud, is hiring AI / product engineers](https://sievedata.com/about/jobs)
-- Nov 12 - [SanDisk Extreme Pro Failures Result from Design Flaw, Says Researcher](https://www.tomshardware.com/news/sandisk-extreme-pro-failures-are-due-to-design-flaw)
+- Nov 12 - [37, the median value for the second prime factor of an integer](https://grossack.site/2023/11/08/37-median.html)
+- Nov 12 - [Open-interpreter: OpenAI's Code Interpreter in your terminal, running locally](https://github.com/KillianLucas/open-interpreter)
 <!--END_SECTION:hn-->
 
 <!--
