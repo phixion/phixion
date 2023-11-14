@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 14 - [Constraints On Physical Computers In Holographic Spacetimes](https://arxiv.org/abs/2304.09900)
-- Nov 14 - [Nvidia H200 Tensor Core GPU](https://www.nvidia.com/en-us/data-center/h200/)
-- Nov 14 - [X is changing its algorithm to highlight smaller accounts](https://techcrunch.com/2023/11/13/elon-musk-says-x-is-changing-its-algorithm-to-highlight-smaller-accounts/)
-- Nov 14 - [Rust Without Crates.io](https://thomask.sdf.org/blog/2023/11/14/rust-without-crates-io.html)
-- Nov 14 - [EU Parliament Decides That Your Private Messages Must Not Be Scanned](https://tuta.com/blog/chat-control)
+- Nov 14 - [Electric heat to cost 77 percent more than natural gas, federal agency says](https://denvergazette.com/news/business/federal-agency-predicts-a-77-jump-in-electric-heating-costs/article_3a39bdae-803c-11ee-9763-6babdd47599f.html)
+- Nov 14 - [US Confidence in Higher Education Institutions Continues Long Decline](https://news.gallup.com/poll/508352/americans-confidence-higher-education-down-sharply.aspx)
+- Nov 14 - [Replacing HLS/Dash – Live Mass Fanout with Media over QUIC](https://quic.video/blog/replacing-hls-dash/)
+- Nov 14 - [Ultra-white ceramic cools buildings with record-high 99.6% reflectivity](https://newatlas.com/materials/ultra-white-ceramic-cools-buildings-record-high-reflectivity/)
+- Nov 14 - [Energy Firms Hacked in Largest Coordinated Attack on Denmark's Infrastructure](https://www.securityweek.com/22-energy-firms-hacked-in-largest-coordinated-attack-on-denmarks-critical-infrastructure/)
 <!--END_SECTION:hn-->
 
 <!--
