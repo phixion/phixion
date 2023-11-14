@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 13 - [Supreme Court of the United States Statement Regarding the Code of Conduct [pdf]](https://www.supremecourt.gov/about/Code-of-Conduct-for-Justices_November_13_2023.pdf)
-- Nov 13 - [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)
-- Nov 13 - [The US Supreme Court says it is adopting a code of ethics for the first time](https://apnews.com/article/supreme-court-ethics-code-conflicts-clarence-thomas-64d393ceb6f05402d762dca06f0f4187)
-- Nov 13 - [Ubuntu Pro Shenanigans](https://inteltechniques.com/blog/2023/11/12/ubuntu-pro-shenanigans/)
-- Nov 13 - [Google pays Apple 36% of the revenue it earns from searches in Safari](https://www.bloomberg.com/news/articles/2023-11-13/apple-gets-36-of-google-revenue-from-search-deal-witness-says)
+- Nov 13 - [Levels of AGI: Operationalizing Progress on the Path to AGI](https://arxiv.org/abs/2311.02462)
+- Nov 13 - [Godfather of AI fears what he's buit](https://www.newyorker.com/magazine/2023/11/20/geoffrey-hinton-profile-ai)
+- Nov 13 - [Low current around roots boosts plant growth](https://www.nature.com/articles/d44151-023-00162-5)
+- Nov 13 - [We've learned nothing from the SolarWinds hack](https://www.macchaffee.com/blog/2023/solarwinds-hack-lessons-learned/)
+- Nov 13 - [Zelle finally caves after years of refusing to refund scam victims](https://arstechnica.com/tech-policy/2023/11/zelle-finally-caves-after-years-of-refusing-to-refund-scam-victims/)
 <!--END_SECTION:hn-->
 
 <!--
