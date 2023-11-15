@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 15 - [Life expectancy for men in US falls to 73 – six years less than women, study](https://www.statnews.com/2023/11/13/life-expectancy-men-women/)
-- Nov 15 - [LLM can invade privacy through benign questions depite usual protections](https://arxiv.org/abs/2310.07298)
+- Nov 15 - [13 days before the first eIDAS vote, still no public text](https://last-chance-for-eidas.org/update-151123)
+- Nov 15 - [Gym Class VR (YC W22 – Top Sports VR Game) Hiring Lead Back End Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-lead-backend-engineering)
+- Nov 15 - [Haiku Activity and Contract Report, October 2023](https://www.haiku-os.org/blog/waddlesplash/2023-11-14_haiku_activity_contract_report_october_2023/)
+- Nov 15 - [Beyond Memorization: Violating privacy via inference with LLMs](https://arxiv.org/abs/2310.07298)
 - Nov 15 - [The Architecture of Serverless Data Systems](https://jack-vanlightly.com/blog/2023/11/14/the-architecture-of-serverless-data-systems)
-- Nov 15 - [U.S. reenters the nuclear fuel game](https://spectrum.ieee.org/nuclear-power-plant-2666199640)
-- Nov 15 - [ML for Beginners GitHub](https://github.com/microsoft/ML-For-Beginners)
 <!--END_SECTION:hn-->
 
 <!--
