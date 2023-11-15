@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 15 - [Mux (YC W16) Is Hiring a Senior Distributed Systems Engineer](https://mux.com/jobs?j=dse)
-- Nov 15 - [Gut epithelial barrier damage caused by dishwasher detergents and rinse aids](https://www.sciencedirect.com/science/article/pii/S0091674922014774)
-- Nov 15 - [Use Timestamps](https://jankremer.eu/micro/timestamps/)
-- Nov 15 - [Hacking ADHD: Strategies for the modern developer](https://www.ledger.com/blog/hacking-adhd-strategies-for-the-modern-developer)
-- Nov 15 - [Orthodox Privilege (2020)](http://www.paulgraham.com/orth.html)
+- Nov 15 - [Trust climate predictions from climate models that cannot reproduce the past?](https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2022.0193)
+- Nov 15 - [AI outperforms conventional weather forecasting for the first time: Google study](https://arstechnica.com/science/2023/11/ai-outperforms-conventional-weather-forecasting-for-the-first-time-google-study/)
+- Nov 15 - [ChatGPT has entered the classroom: how LLMs could transform education](https://www.nature.com/articles/d41586-023-03507-3)
+- Nov 15 - [Eyes on the Solar System/JPL](https://eyes.nasa.gov/apps/solar-system/)
+- Nov 15 - [FBI Director: FISA Section 702 warrant requirement a 'de facto ban'](https://www.theregister.com/2023/11/15/fbi_director_fisa_section_702/)
 <!--END_SECTION:hn-->
 
 <!--
