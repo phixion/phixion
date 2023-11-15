@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 14 - [Ara2: RVV 1.0 Compliant Open-Source Processor](https://arxiv.org/abs/2311.07493)
-- Nov 14 - [Inko Programming Language](https://inko-lang.org)
-- Nov 14 - [IcePanel (YC W23) is hiring in Vancouver, Canada](https://icepanel.io/careers)
-- Nov 14 - [319 Leona](https://en.wikipedia.org/wiki/319_Leona)
-- Nov 14 - [Bpftime: Userspace eBPF runtime for fast Uprobe and Syscall hook and Plugins](https://github.com/eunomia-bpf/bpftime)
+- Nov 15 - [Life expectancy for men in US falls to 73 – six years less than women, study](https://www.statnews.com/2023/11/13/life-expectancy-men-women/)
+- Nov 15 - [LLM can invade privacy through benign questions depite usual protections](https://arxiv.org/abs/2310.07298)
+- Nov 15 - [The Architecture of Serverless Data Systems](https://jack-vanlightly.com/blog/2023/11/14/the-architecture-of-serverless-data-systems)
+- Nov 15 - [U.S. reenters the nuclear fuel game](https://spectrum.ieee.org/nuclear-power-plant-2666199640)
+- Nov 15 - [ML for Beginners GitHub](https://github.com/microsoft/ML-For-Beginners)
 <!--END_SECTION:hn-->
 
 <!--
