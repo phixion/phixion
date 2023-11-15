@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 15 - [Trust climate predictions from climate models that cannot reproduce the past?](https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2022.0193)
-- Nov 15 - [AI outperforms conventional weather forecasting for the first time: Google study](https://arstechnica.com/science/2023/11/ai-outperforms-conventional-weather-forecasting-for-the-first-time-google-study/)
-- Nov 15 - [ChatGPT has entered the classroom: how LLMs could transform education](https://www.nature.com/articles/d41586-023-03507-3)
-- Nov 15 - [Eyes on the Solar System/JPL](https://eyes.nasa.gov/apps/solar-system/)
-- Nov 15 - [FBI Director: FISA Section 702 warrant requirement a 'de facto ban'](https://www.theregister.com/2023/11/15/fbi_director_fisa_section_702/)
+- Nov 15 - [Feds Have No Idea How Many Times Cruise Driverless Cars Hit Pedestrians](https://www.404media.co/feds-have-no-idea-how-many-times-cruise-driverless-cars-hit-pedestrians/)
+- Nov 15 - [Firefox Is Going to Try and Ship with Wayland Enabled by Default](https://www.phoronix.com/news/Firefox-Change-Wayland-Release)
+- Nov 15 - [Australia's overuse of antibiotics driving rate of drug-resistant infections](https://www.theguardian.com/society/2023/nov/16/australia-antibiotics-overuse-drug-resistant-infections)
+- Nov 15 - [David Attenborough is now narrating my life](https://twitter.com/charliebholtz/status/1724815159590293764)
+- Nov 15 - [Azure announces new AI optimized VM series featuring AMD's flagship MI300X GPU](https://techcommunity.microsoft.com/t5/azure-high-performance-computing/azure-announces-new-ai-optimized-vm-series-featuring-amd-s/ba-p/3980770)
 <!--END_SECTION:hn-->
 
 <!--
