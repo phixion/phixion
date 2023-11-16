@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 15 - [Push ifs up and fors down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
-- Nov 15 - [Language models and linguistic theories beyond words](https://www.nature.com/articles/s42256-023-00703-8)
-- Nov 15 - [Porting Stunt Car Racer to the Apple II](https://cobbpg.github.io/articles/stunt-car-racer-apple2-port.html)
-- Nov 15 - [Blender 16yo winner of UK young animator of the year](https://younganimator.uk/winner/1699875910225x437970782709919500)
-- Nov 15 - [Is my toddler a stochastic parrot?](https://www.newyorker.com/humor/sketchbook/is-my-toddler-a-stochastic-parrot)
+- Nov 16 - [How to Build Trust as a New Engineering Manager](https://becomingaleader.substack.com/p/how-to-build-trust)
+- Nov 16 - [The Design of SQLite4 (2014)](https://sqlite.org/src4/doc/trunk/www/design.wiki)
+- Nov 16 - [Investigating the Impact of Cold Plunges on Brain Activity Using EEG](https://neurofusionresearchinc.notion.site/Investigating-the-Impact-of-Cold-Plunges-on-Brain-Activity-99cdaa69889542fc8ef123ee9fe5130c?pvs=4)
+- Nov 15 - [Scintillocartography](https://ivan.sanchezortega.es/development/2023/11/13/scintillocartography.html)
+- Nov 15 - ["Grand Ball Given by the Whales," Vanity Fair, April 20, 1861](https://energyhistory.yale.edu/grand-ball-given-by-the-whales-vanity-fair-april-20-1861/)
 <!--END_SECTION:hn-->
 
 <!--
