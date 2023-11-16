@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 16 - [OiNK's Pink Palace was shut down 16 years ago](https://en.wikipedia.org/wiki/Oink%27s_Pink_Palace)
-- Nov 16 - [I think I need to go lie down](https://twitter.com/multikev/status/1724908185361011108)
-- Nov 16 - [Show HN: GPT-4 Turbo with integrated DALL-E 3](https://flowch.ai/shared/840bff3d-0e55-4793-8397-b9fcd81bc3ed)
-- Nov 16 - [The Extreme Ambitions of West Bank Settlers](https://www.newyorker.com/news/q-and-a/the-extreme-ambitions-of-west-bank-settlers)
-- Nov 16 - ['No one else is saving it': the fight to protect a historic music collection](https://www.theguardian.com/music/2023/nov/16/archive-of-contemporary-music-new-york)
+- Nov 16 - [Mom and pop shops are cutting software spending, creating jitters on Wall Street](https://www.cnbc.com/2023/11/16/mom-and-pop-shops-cut-software-spending-creating-wall-street-jitters.html)
+- Nov 16 - [Melatonin use soars among children, with unknown risks](https://www.colorado.edu/today/2023/11/13/melatonin-use-soars-among-children-unknown-risks)
+- Nov 16 - [Show HN: Beak.js – Custom conversational assistants for your React app](https://github.com/mme/beakjs)
+- Nov 16 - [From email to phone number, a new OSINT approach](https://www.martinvigo.com/email2phonenumber/)
+- Nov 16 - [Never Event](https://en.wikipedia.org/wiki/Never_event)
 <!--END_SECTION:hn-->
 
 <!--
