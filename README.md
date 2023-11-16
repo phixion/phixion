@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 16 - [Mom and pop shops are cutting software spending, creating jitters on Wall Street](https://www.cnbc.com/2023/11/16/mom-and-pop-shops-cut-software-spending-creating-wall-street-jitters.html)
-- Nov 16 - [Melatonin use soars among children, with unknown risks](https://www.colorado.edu/today/2023/11/13/melatonin-use-soars-among-children-unknown-risks)
-- Nov 16 - [Show HN: Beak.js – Custom conversational assistants for your React app](https://github.com/mme/beakjs)
-- Nov 16 - [From email to phone number, a new OSINT approach](https://www.martinvigo.com/email2phonenumber/)
-- Nov 16 - [Never Event](https://en.wikipedia.org/wiki/Never_event)
+- Nov 16 - [Federated Finetuning of OpenAI's Whisper on Raspberry Pi 5](https://flower.dev/blog/2023-11-15-federated-finetuning-of-openai-whisper-with-flower/)
+- Nov 16 - [Hackers know everything is securities fraud](https://www.bloomberg.com/opinion/articles/2023-11-16/hackers-know-everything-is-securities-fraud)
+- Nov 16 - [Amazon announces online car sales for the first time, starting with Hyundai](https://www.theverge.com/2023/11/16/23964233/amazon-car-online-sale-hyundai-dealer-alexa)
+- Nov 16 - [Air Accident Investigation Branch: film lights caused window damage on A321neo](https://www.flightradar24.com/blog/aaib-says-film-lights-caused-window-damage-on-titan-a321neo/)
+- Nov 16 - [Apple to support RCS messaging standard next year](https://www.techradar.com/phones/iphone/breaking-apple-will-support-rcs-in-2024)
 <!--END_SECTION:hn-->
 
 <!--
