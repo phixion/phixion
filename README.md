@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 15 - [Feds Have No Idea How Many Times Cruise Driverless Cars Hit Pedestrians](https://www.404media.co/feds-have-no-idea-how-many-times-cruise-driverless-cars-hit-pedestrians/)
-- Nov 15 - [Firefox Is Going to Try and Ship with Wayland Enabled by Default](https://www.phoronix.com/news/Firefox-Change-Wayland-Release)
-- Nov 15 - [Australia's overuse of antibiotics driving rate of drug-resistant infections](https://www.theguardian.com/society/2023/nov/16/australia-antibiotics-overuse-drug-resistant-infections)
-- Nov 15 - [David Attenborough is now narrating my life](https://twitter.com/charliebholtz/status/1724815159590293764)
-- Nov 15 - [Azure announces new AI optimized VM series featuring AMD's flagship MI300X GPU](https://techcommunity.microsoft.com/t5/azure-high-performance-computing/azure-announces-new-ai-optimized-vm-series-featuring-amd-s/ba-p/3980770)
+- Nov 15 - [Push ifs up and fors down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
+- Nov 15 - [Language models and linguistic theories beyond words](https://www.nature.com/articles/s42256-023-00703-8)
+- Nov 15 - [Porting Stunt Car Racer to the Apple II](https://cobbpg.github.io/articles/stunt-car-racer-apple2-port.html)
+- Nov 15 - [Blender 16yo winner of UK young animator of the year](https://younganimator.uk/winner/1699875910225x437970782709919500)
+- Nov 15 - [Is my toddler a stochastic parrot?](https://www.newyorker.com/humor/sketchbook/is-my-toddler-a-stochastic-parrot)
 <!--END_SECTION:hn-->
 
 <!--
