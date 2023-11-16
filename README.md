@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 16 - [Solitude as the antidote to misanthropy](https://www.christopherketcham.com/?p=441)
-- Nov 16 - [WordPress plugins are a little sad?](https://chriscoyier.net/2023/11/13/the-top-wordpress-plugins-are-a-little-sad/)
-- Nov 16 - [Last Post, Please Read](http://zandarvts.blogspot.com/2023/11/last-post-please-read.html)
-- Nov 16 - [C++: The most important complexities](https://www.sandordargo.com/blog/2023/11/15/most-important-complexities)
-- Nov 16 - [Rolls-royce confirms all of its current engines can run on 100 percent SAF](https://www.flyingmag.com/rolls-royce-confirms-all-of-its-current-engines-can-run-on-100-percent-saf/)
+- Nov 16 - [OiNK's Pink Palace was shut down 16 years ago](https://en.wikipedia.org/wiki/Oink%27s_Pink_Palace)
+- Nov 16 - [I think I need to go lie down](https://twitter.com/multikev/status/1724908185361011108)
+- Nov 16 - [Show HN: GPT-4 Turbo with integrated DALL-E 3](https://flowch.ai/shared/840bff3d-0e55-4793-8397-b9fcd81bc3ed)
+- Nov 16 - [The Extreme Ambitions of West Bank Settlers](https://www.newyorker.com/news/q-and-a/the-extreme-ambitions-of-west-bank-settlers)
+- Nov 16 - ['No one else is saving it': the fight to protect a historic music collection](https://www.theguardian.com/music/2023/nov/16/archive-of-contemporary-music-new-york)
 <!--END_SECTION:hn-->
 
 <!--
