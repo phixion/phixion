@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 16 - [How to Build Trust as a New Engineering Manager](https://becomingaleader.substack.com/p/how-to-build-trust)
-- Nov 16 - [The Design of SQLite4 (2014)](https://sqlite.org/src4/doc/trunk/www/design.wiki)
-- Nov 16 - [Investigating the Impact of Cold Plunges on Brain Activity Using EEG](https://neurofusionresearchinc.notion.site/Investigating-the-Impact-of-Cold-Plunges-on-Brain-Activity-99cdaa69889542fc8ef123ee9fe5130c?pvs=4)
-- Nov 15 - [Scintillocartography](https://ivan.sanchezortega.es/development/2023/11/13/scintillocartography.html)
-- Nov 15 - ["Grand Ball Given by the Whales," Vanity Fair, April 20, 1861](https://energyhistory.yale.edu/grand-ball-given-by-the-whales-vanity-fair-april-20-1861/)
+- Nov 16 - [Solitude as the antidote to misanthropy](https://www.christopherketcham.com/?p=441)
+- Nov 16 - [WordPress plugins are a little sad?](https://chriscoyier.net/2023/11/13/the-top-wordpress-plugins-are-a-little-sad/)
+- Nov 16 - [Last Post, Please Read](http://zandarvts.blogspot.com/2023/11/last-post-please-read.html)
+- Nov 16 - [C++: The most important complexities](https://www.sandordargo.com/blog/2023/11/15/most-important-complexities)
+- Nov 16 - [Rolls-royce confirms all of its current engines can run on 100 percent SAF](https://www.flyingmag.com/rolls-royce-confirms-all-of-its-current-engines-can-run-on-100-percent-saf/)
 <!--END_SECTION:hn-->
 
 <!--
