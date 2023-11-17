@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 17 - [Chrome Users Beware: Manifest V3 Is Deceitful and Threatening – EFF](https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening)
-- Nov 17 - [The Lack of Compensation in Open Source Software Is Unsustainable](https://trstringer.com/oss-compensation-broken/)
-- Nov 17 - [Emacs-ng: A project to integrate Deno and WebRender into Emacs](https://github.com/emacs-ng/emacs-ng)
-- Nov 17 - ['Energy independent' Uruguay runs on 100% renewables for four straight months](https://theprogressplaybook.com/2023/10/19/energy-independent-uruguay-runs-on-100-renewables-for-four-straight-months/)
-- Nov 17 - [Show HN: I made a 30-day social anxiety challenge](https://www.socialanxietychallenge.com/)
+- Nov 17 - [Bits of Advice for 30 Years](https://arne.me/articles/30-bits-of-advice-for-30-years)
+- Nov 17 - [Amazon will cut 'several hundred' Alexa jobs as it ends unspecified initiatives](https://www.geekwire.com/2023/amazon-will-cut-several-hundred-more-jobs-on-alexa-team-as-it-discontinues-some-initiatives/)
+- Nov 17 - [Amazon cuts 'several hundred' jobs in Alexa division](https://www.cnbc.com/2023/11/17/amazon-cuts-several-hundred-jobs-in-alexa-division.html)
+- Nov 17 - [Made in China 2025](https://en.wikipedia.org/wiki/Made_in_China_2025)
+- Nov 17 - [Show HN: Build and deploy a managed Postgres database from ChatGPT](https://chat.openai.com/g/g-A3ueeULl8-database-builder)
 <!--END_SECTION:hn-->
 
 <!--
