@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 17 - [Bits of Advice for 30 Years](https://arne.me/articles/30-bits-of-advice-for-30-years)
-- Nov 17 - [Amazon will cut 'several hundred' Alexa jobs as it ends unspecified initiatives](https://www.geekwire.com/2023/amazon-will-cut-several-hundred-more-jobs-on-alexa-team-as-it-discontinues-some-initiatives/)
-- Nov 17 - [Amazon cuts 'several hundred' jobs in Alexa division](https://www.cnbc.com/2023/11/17/amazon-cuts-several-hundred-jobs-in-alexa-division.html)
-- Nov 17 - [Made in China 2025](https://en.wikipedia.org/wiki/Made_in_China_2025)
-- Nov 17 - [Show HN: Build and deploy a managed Postgres database from ChatGPT](https://chat.openai.com/g/g-A3ueeULl8-database-builder)
+- Nov 17 - [Google Photos Replacement](https://selfhosted.show/110?t=1198)
+- Nov 17 - [Stanford Blacklist](https://stanfordreview.org/the-2020-stanford-blacklist/)
+- Nov 17 - [Half-Life 25th Anniversary Update](https://www.half-life.com/en/halflife25/)
+- Nov 17 - [Ask HN: What are the most interesting takes on Generative AI you've come across?](https://news.ycombinator.com/item?id=38307711)
+- Nov 17 - [Google's ChatGPT Competitor Will Have to Wait](https://gizmodo.com/google-s-chatgpt-competitor-will-have-to-wait-1851030761)
 <!--END_SECTION:hn-->
 
 <!--
