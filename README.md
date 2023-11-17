@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 16 - [Anomalous propagation and the sinking of the Russian warship Moskva](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-23-0113.1/BAMS-D-23-0113.1.xml)
-- Nov 16 - [Justice Dept Says Collusion Suit Against Apartment Owners Should Move Forward](https://www.wsj.com/us-news/law/justice-department-clears-the-way-for-collusion-suit-against-apartment-owners-e545f260)
-- Nov 16 - [In-person YC Startup Tech Talk and hiring mixer on 12/4 in SF](https://news.ycombinator.com/item?id=38295638)
-- Nov 16 - [OCapN, Interoperable Capabilities over the Network](https://spritely.institute/news/introducing-ocapn-interoperable-capabilities-over-the-network.html)
-- Nov 16 - [Show HN: Tiny LLMs – Browser-based private AI models for a wide array of tasks](https://tinyllms.vercel.app/dashboard)
+- Nov 17 - [No Bing, no Edge, no upselling: De-crufted Windows 11 coming to Europe soon](https://arstechnica.com/gadgets/2023/11/europeans-can-soon-strip-bing-edge-other-microsoft-cruft-from-windows-11/)
+- Nov 17 - [Arithmetic in Computer Hardware](https://thelast19digitsofpi.github.io/hardware-explorations/dist/index.html)
+- Nov 17 - [YouTube Dream Track AI Music Experiment (clones pop stars voices)](https://blog.youtube/inside-youtube/ai-and-music-experiment/)
+- Nov 17 - [Old Manifest V2 Chrome extensions will be disabled in 2024](https://9to5google.com/2023/11/16/chrome-extensions-disabled/)
+- Nov 17 - [Portugal just ran on 100% renewables for six days in a row](https://www.canarymedia.com/articles/clean-energy/portugal-just-ran-on-100-renewables-for-six-days-in-a-row)
 <!--END_SECTION:hn-->
 
 <!--
