@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 17 - [Google Photos Replacement](https://selfhosted.show/110?t=1198)
-- Nov 17 - [Stanford Blacklist](https://stanfordreview.org/the-2020-stanford-blacklist/)
-- Nov 17 - [Half-Life 25th Anniversary Update](https://www.half-life.com/en/halflife25/)
-- Nov 17 - [Ask HN: What are the most interesting takes on Generative AI you've come across?](https://news.ycombinator.com/item?id=38307711)
-- Nov 17 - [Google's ChatGPT Competitor Will Have to Wait](https://gizmodo.com/google-s-chatgpt-competitor-will-have-to-wait-1851030761)
+- Nov 18 - [Greg Brockman of OpenAI Quits](https://twitter.com/gdb/status/1725667410387378559?s=46&t=BBEvy3cvqJ6LT35SuLG75w)
+- Nov 18 - [Greg Brockman Quits OpenAI](https://twitter.com/gdb/status/1725667410387378559)
+- Nov 18 - [Greg Brockman Quits OpenAI](https://twitter.com/gdb/status/1725667410387378559?s=20)
+- Nov 17 - [Microsoft was blindsided by OpenAI's ouster of CEO Sam Altman](https://www.axios.com/2023/11/17/microsoft-openai-sam-altman-ouster)
+- Nov 17 - [Satya Nadella's Statement on OpenAI](https://blogs.microsoft.com/blog/2023/11/17/a-statement-from-microsoft-chairman-and-ceo-satya-nadella/)
 <!--END_SECTION:hn-->
 
 <!--
