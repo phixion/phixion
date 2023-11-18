@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 18 - [Sutskever: OpenAI board doing its mission to build AGI that benefits all](https://twitter.com/GaryMarcus/status/1725707548106580255)
-- Nov 18 - [Ilya Sutskever "at the center" of Altman firing](https://twitter.com/karaswisher/status/1725702501435941294)
-- Nov 18 - ["Parental controls? What parental controls?"](https://gabrielsieben.tech/2023/11/15/parental-controls-are-unusable-and-its-why-congress-is-stepping-in/)
-- Nov 18 - [Ask HN: Are job referrals worthless now?](https://news.ycombinator.com/item?id=38313747)
-- Nov 18 - [LMAX Disruptor – High Performance Inter-Thread Messaging Library](https://lmax-exchange.github.io/disruptor/)
+- Nov 18 - [Three senior researchers have resigned from OpenAI](https://news.ycombinator.com/item?id=38316378)
+- Nov 18 - [Show HN: Grigora.co – A Blogger's Answer to Secure, Simple Web Building](https://grigora.co)
+- Nov 18 - [TrasHTTPandas – Trash Panda HTTP Responses](https://httpraccoons.com/)
+- Nov 18 - [Board Members (2014)](https://blog.samaltman.com/board-members)
+- Nov 18 - [Text adventure ported to social media](https://www.threads.net/@80snostalgia/post/CzpPPuxNgDj)
 <!--END_SECTION:hn-->
 
 <!--
