@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 18 - [Greg Brockman of OpenAI Quits](https://twitter.com/gdb/status/1725667410387378559?s=46&t=BBEvy3cvqJ6LT35SuLG75w)
-- Nov 18 - [Greg Brockman Quits OpenAI](https://twitter.com/gdb/status/1725667410387378559)
-- Nov 18 - [Greg Brockman Quits OpenAI](https://twitter.com/gdb/status/1725667410387378559?s=20)
-- Nov 17 - [Microsoft was blindsided by OpenAI's ouster of CEO Sam Altman](https://www.axios.com/2023/11/17/microsoft-openai-sam-altman-ouster)
-- Nov 17 - [Satya Nadella's Statement on OpenAI](https://blogs.microsoft.com/blog/2023/11/17/a-statement-from-microsoft-chairman-and-ceo-satya-nadella/)
+- Nov 18 - [Sutskever: OpenAI board doing its mission to build AGI that benefits all](https://twitter.com/GaryMarcus/status/1725707548106580255)
+- Nov 18 - [Ilya Sutskever "at the center" of Altman firing](https://twitter.com/karaswisher/status/1725702501435941294)
+- Nov 18 - ["Parental controls? What parental controls?"](https://gabrielsieben.tech/2023/11/15/parental-controls-are-unusable-and-its-why-congress-is-stepping-in/)
+- Nov 18 - [Ask HN: Are job referrals worthless now?](https://news.ycombinator.com/item?id=38313747)
+- Nov 18 - [LMAX Disruptor – High Performance Inter-Thread Messaging Library](https://lmax-exchange.github.io/disruptor/)
 <!--END_SECTION:hn-->
 
 <!--
