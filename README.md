@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 18 - [Masterpiece Was Hanging Above an Elderly French Woman's Hot Plate](https://www.smithsonianmag.com/smart-news/forgotten-268-million-cimabue-painting-found-in-an-elderly-womans-home-heads-to-the-louvre-180983280/)
-- Nov 18 - [Simple streetlight hack could protect astronomy from urban light pollution](https://www.space.com/astronomy-light-pollution-streetlight-hack)
-- Nov 18 - [Screens Are Good, Actually](https://www.theverge.com/23965540/humane-ai-pin-screen-phone-ambient-computing)
-- Nov 18 - [Google plans to disable legacy V2 browser extensions next June](https://www.theregister.com/2023/11/18/google_kills_legacy_extensions/)
-- Nov 18 - [Death by AI – a free Jackbox style party game. AI judges your plans to survive](https://deathbyai.gg)
+- Nov 18 - [Lockheed is now tracking phones and walkie-talkies from space](https://jackpoulson.substack.com/p/lockheed-is-now-tracking-phones-and)
+- Nov 18 - [Mysterious 'Tasmanian devil' space explosion baffles astronomers](https://www.nature.com/articles/d41586-023-03569-3)
+- Nov 18 - [Nanoplastics Promote Conditions for Parkinson](https://corporate.dukehealth.org/news/nanoplastics-promote-conditions-parkinsons-across-various-lab-models)
+- Nov 18 - [BC Looks to Standardize a New ''Vancouver Special'' Housing Design](https://www.todayinbc.com/news/b-c-looks-to-standardize-multiplex-designs-as-latest-fix-to-housing-crisis/)
+- Nov 18 - [Berkeley Mono Typeface](https://berkeleygraphics.com/typefaces/berkeley-mono/)
 <!--END_SECTION:hn-->
 
 <!--
