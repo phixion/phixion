@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 18 - [Lockheed is now tracking phones and walkie-talkies from space](https://jackpoulson.substack.com/p/lockheed-is-now-tracking-phones-and)
-- Nov 18 - [Mysterious 'Tasmanian devil' space explosion baffles astronomers](https://www.nature.com/articles/d41586-023-03569-3)
-- Nov 18 - [Nanoplastics Promote Conditions for Parkinson](https://corporate.dukehealth.org/news/nanoplastics-promote-conditions-parkinsons-across-various-lab-models)
-- Nov 18 - [BC Looks to Standardize a New ''Vancouver Special'' Housing Design](https://www.todayinbc.com/news/b-c-looks-to-standardize-multiplex-designs-as-latest-fix-to-housing-crisis/)
-- Nov 18 - [Berkeley Mono Typeface](https://berkeleygraphics.com/typefaces/berkeley-mono/)
+- Nov 18 - [Ousted OpenAI CEO Makes Plans for New Artificial Intelligence Company](https://www.nytimes.com/2023/11/18/technology/ousted-openai-ceo-makes-plans-for-new-artificial-intelligence-company.html)
+- Nov 18 - [OpenAI Investors Scramble to Reinstate Sam Altman as CEO](https://www.forbes.com/sites/alexkonrad/2023/11/18/openai-investors-scramble-to-reinstate-sam-altman-as-ceo/)
+- Nov 18 - [OpenAI board in discussions with Sam Altman to return as CEO](https://www.theverge.com/2023/11/18/23967199/breaking-openai-board-in-discussions-with-sam-altman-to-return-as-ceo)
+- Nov 18 - [An Asteroid Will Occult Betelgeuse on December 12th](https://www.universetoday.com/164299/an-asteroid-will-occult-betelgeuse-on-december-12th/)
+- Nov 18 - [A software epiphany](https://johnwhiles.com/posts/programming-as-theory)
 <!--END_SECTION:hn-->
 
 <!--
