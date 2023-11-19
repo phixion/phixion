@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 19 - [HandBrake 1.7.0 – The open source video transcoder](https://forum.handbrake.fr/viewtopic.php?t=43311)
-- Nov 19 - [ASCII-Gen, a CLI tool that converts images to ASCII art](https://github.com/thed24/ascii-gen)
-- Nov 19 - [Ask HN: How do you keep going without burning out?](https://news.ycombinator.com/item?id=38329657)
-- Nov 19 - [Redlining](https://selectfromwhereand.com/posts/redlining/)
-- Nov 19 - [Americans' Trust in Scientists, Positive Views of Science Continue to Decline](https://www.pewresearch.org/science/2023/11/14/americans-trust-in-scientists-positive-views-of-science-continue-to-decline/)
+- Nov 19 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- Nov 19 - [Ask HN: Any comprehensive courses on Auth?](https://news.ycombinator.com/item?id=38331501)
+- Nov 19 - [Why Dumb Ideas Capture Smart and Successful People](https://www.robkhenderson.com/p/how-dumb-ideas-capture-smart-and)
+- Nov 19 - [Using YouTube as Unlimited Cloud Storage? [video]](https://www.youtube.com/watch?v=_w6PCHutmb4)
+- Nov 19 - [Rational Ritual: Why Everyone Needs to Know What Everyone Knows](https://www.ian-leslie.com/p/the-ruffian-special-edition-book)
 <!--END_SECTION:hn-->
 
 <!--
