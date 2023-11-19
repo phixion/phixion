@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 19 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- Nov 19 - [Ask HN: Any comprehensive courses on Auth?](https://news.ycombinator.com/item?id=38331501)
-- Nov 19 - [Why Dumb Ideas Capture Smart and Successful People](https://www.robkhenderson.com/p/how-dumb-ideas-capture-smart-and)
-- Nov 19 - [Using YouTube as Unlimited Cloud Storage? [video]](https://www.youtube.com/watch?v=_w6PCHutmb4)
-- Nov 19 - [Rational Ritual: Why Everyone Needs to Know What Everyone Knows](https://www.ian-leslie.com/p/the-ruffian-special-edition-book)
+- Nov 19 - [I cancelled my Replit subscription](https://journal.paoloamoroso.com/why-i-cancelled-my-replit-subscription)
+- Nov 19 - [Help HN: Google has blocked our entire domain for harmful programs](https://news.ycombinator.com/item?id=38333127)
+- Nov 19 - [It's time for a change: datetime.utcnow() is now deprecated](https://blog.miguelgrinberg.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated)
+- Nov 19 - [Cats Are No Match for New York City's Rats (2018)](https://www.theatlantic.com/science/archive/2018/09/cats-vs-rats-new-york/571414/)
+- Nov 19 - [Should I replace my 56k modem with a 28.8K Modem? (2001)](https://forums.anandtech.com/threads/should-i-replace-my-56k-modem-with-a-28-8k-modem.437516/)
 <!--END_SECTION:hn-->
 
 <!--
