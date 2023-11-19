@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 19 - [I cancelled my Replit subscription](https://journal.paoloamoroso.com/why-i-cancelled-my-replit-subscription)
-- Nov 19 - [Help HN: Google has blocked our entire domain for harmful programs](https://news.ycombinator.com/item?id=38333127)
-- Nov 19 - [It's time for a change: datetime.utcnow() is now deprecated](https://blog.miguelgrinberg.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated)
-- Nov 19 - [Cats Are No Match for New York City's Rats (2018)](https://www.theatlantic.com/science/archive/2018/09/cats-vs-rats-new-york/571414/)
-- Nov 19 - [Should I replace my 56k modem with a 28.8K Modem? (2001)](https://forums.anandtech.com/threads/should-i-replace-my-56k-modem-with-a-28-8k-modem.437516/)
+- Nov 19 - [Steven Spielberg Predicts 'Implosion' of Film Industry (2013)](https://www.hollywoodreporter.com/news/general-news/steven-spielberg-predicts-implosion-film-567604/)
+- Nov 19 - [How to identify ugly mass tourism places before you visit them?](https://twitter.com/faborio/status/1725631676309463137)
+- Nov 19 - [Underage Workers Are Training AI](https://www.wired.com/story/artificial-intelligence-data-labeling-children/)
+- Nov 19 - [Altman sought billions for AI chip venture before OpenAI ouster](https://www.bloomberg.com/news/articles/2023-11-19/altman-sought-billions-for-ai-chip-venture-before-openai-ouster)
+- Nov 19 - [Ex-IBM sales veteran sues for access to health benefits](https://www.theregister.com/2023/11/19/ibm_sales_veteran_healthcare_lawsuit/)
 <!--END_SECTION:hn-->
 
 <!--
