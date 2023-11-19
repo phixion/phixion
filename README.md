@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 19 - [Show HN: YouTube banned adblockers so I built an extension to skip their ads](https://news.ycombinator.com/item?id=38327017)
-- Nov 19 - [Source code to infocom's text adventure engines released (zcode interpreters)](https://github.com/erkyrath/infocom-zcode-terps)
-- Nov 19 - [AI Girlfriend Went Down After CEO Jailed for Setting His Apartment on Fire](https://themessenger.com/news/people-cant-access-their-ai-girlfriend-because-the-service-went-down-after-ceo-jailed-for-setting-his-apartment-on-fire)
-- Nov 18 - [Why aren't motherboards mostly USB-C by now? (2021)](https://philip.greenspun.com/blog/2021/03/22/why-arent-motherboards-mostly-usb-c-by-now/)
-- Nov 18 - [OpenAI board in discussions with Sam Altman to return as CEO](https://www.theverge.com/2023/11/18/23967199/breaking-openai-board-in-discussions-with-sam-altman-to-return-as-ceo)
+- Nov 19 - [HandBrake 1.7.0 – The open source video transcoder](https://forum.handbrake.fr/viewtopic.php?t=43311)
+- Nov 19 - [ASCII-Gen, a CLI tool that converts images to ASCII art](https://github.com/thed24/ascii-gen)
+- Nov 19 - [Ask HN: How do you keep going without burning out?](https://news.ycombinator.com/item?id=38329657)
+- Nov 19 - [Redlining](https://selectfromwhereand.com/posts/redlining/)
+- Nov 19 - [Americans' Trust in Scientists, Positive Views of Science Continue to Decline](https://www.pewresearch.org/science/2023/11/14/americans-trust-in-scientists-positive-views-of-science-continue-to-decline/)
 <!--END_SECTION:hn-->
 
 <!--
