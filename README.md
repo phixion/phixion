@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 19 - [Uber paid 58 Australians $1350 to have One Less Car](https://www.forbes.com.au/news/lifestyle/uber-paid-58-australians-to-have-one-less-car/)
-- Nov 19 - [Argentina elects 'shock therapy' libertarian Javier Milei as president](https://www.reuters.com/world/americas/argentina-readies-vote-likely-presidential-election-thriller-2023-11-19/)
-- Nov 19 - [Milei wins elections and dollarization of Argentinian economy is on the way](https://www.lanacion.com.ar/politica/balotaje-2023-cerraron-los-comicios-y-se-esperan-los-primeros-resultados-para-las-21-nid19112023/)
-- Nov 19 - [Backlash as Netflix cancels five shows at once including its 'best series'](https://www.independent.co.uk/arts-entertainment/tv/news/shadow-and-bone-cancelled-season-3-netflix-b2449902.html)
-- Nov 19 - [A Tour of the Tektronix Ceramic CRT "Catacombs"](https://vintagetek.org/tour-crt-catacombs/)
+- Nov 20 - [Australian Telco Optus CEO Kelly Bayer Rosmarin resigns after network outage](https://www.theguardian.com/business/2023/nov/20/optus-ceo-kelly-bayer-rosmarin-resigns-network-outage-australia)
+- Nov 20 - [Today I resigned from my position as CEO of Cruise](https://twitter.com/kvogt/status/1726428099217400178)
+- Nov 20 - [Cruise co-founder and CEO Kyle Vogt resigns](https://techcrunch.com/2023/11/19/cruise-co-founder-and-ceo-kyle-vogt-resigns/)
+- Nov 20 - [The growing energy footprint of artificial intelligence ("AI") [pdf]](https://www.cell.com/joule/pdf/S2542-4351%2823%2900365-3.pdf)
+- Nov 20 - [Cosmopolitan v3.1](https://twitter.com/justinetunney/status/1726141024597324189?s=46&t=K1nIh-2Y7JjaoOc9Y6bUzA)
 <!--END_SECTION:hn-->
 
 <!--
