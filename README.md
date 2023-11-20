@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 20 - [Sam Altman, Greg Brockman and others to join Microsoft](https://twitter.com/satyanadella/status/1726509045803336122)
-- Nov 20 - [RSS can be used to distribute all sorts of information](https://colinwalker.blog/blog/?date=2023-11-19)
-- Nov 20 - [TIL you could make xkcd-like plots with matplotlib](https://matplotlib.org/stable/gallery/showcase/xkcd.html)
-- Nov 20 - [Emmett Shear becomes interim OpenAI CEO as Altman talks break down](https://www.theverge.com/2023/11/20/23967515/sam-altman-openai-board-fired-new-ceo)
-- Nov 20 - [Setenv Is Not Thread Safe and C Doesn't Want to Fix It](https://www.evanjones.ca/setenv-is-not-thread-safe.html)
+- Nov 20 - [YouTube artificially slows down video load times when using Firefox](https://old.reddit.com/r/youtube/login/)
+- Nov 20 - [Emmet Shear statement as Interim CEO of OpenAI](https://twitter.com/eshear/status/1726526112019382275?s=46&t=a8Pjw_2Gzth_zpOPBTHQaw)
+- Nov 20 - [Z80 vs. 8088 Speed](https://groups.google.com/g/comp.os.cpm/c/OG4tTERPtto/m/yC5iUh79CQAJ)
+- Nov 20 - [The Bluffers Guide to the Mythical Man Month](https://codemanship.wordpress.com/2023/11/20/the-bluffers-guide-to-the-mythical-man-month/)
+- Nov 20 - [The Death Star and the Final Trench Run (2017)](http://fxrant.blogspot.com/2017/01/the-death-star-and-final-trench-run.html)
 <!--END_SECTION:hn-->
 
 <!--
