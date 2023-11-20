@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 20 - [Former Mozilla exec: Google has sabotaged Firefox for years (2019)](https://www.zdnet.com/article/former-mozilla-exec-google-has-sabotaged-firefox-for-years/)
-- Nov 20 - ["Et Tu, Ilya?"](https://techarena.substack.com/p/et-tu-ilya)
-- Nov 20 - [Microsoft Swallows OpenAI's Core Team – GPU Capacity, Incentives, IP](https://www.semianalysis.com/p/microsoft-swallows-openais-core-team)
-- Nov 20 - [Microsoft Is Eating the World](https://aisupremacy.substack.com/p/microsoft-is-eating-the-world)
-- Nov 20 - [Canada Inches Closer to 'Right to Repair' Reform](https://www.techdirt.com/2023/11/20/canada-inches-closer-to-right-to-repair-reform/)
+- Nov 20 - [LLMs cannot find reasoning errors, but can correct them](https://arxiv.org/abs/2311.08516)
+- Nov 20 - [Venmo, Cash App users sue Apple over peer-to-peer payment fees](https://www.reuters.com/legal/transactional/venmo-cash-app-users-sue-apple-over-peer-to-peer-payment-fees-2023-11-20/)
+- Nov 20 - [Sam Altman is still trying to return as OpenAI CEO](https://www.theverge.com/2023/11/20/23969586/sam-altman-plotting-return-open-ai-microsoft)
+- Nov 20 - [Google quietly open sourced a 1.6T parameter MOE model](https://old.reddit.com/r/LocalLLaMA/comments/17zo2ml/google_quietly_open_sourced_a_16_trillion/)
+- Nov 20 - [Tuning the Linux kernel with AI, according to ByteDance](https://www.zdnet.com/article/tuning-the-linux-kernel-with-ai-according-to-bytedance/)
 <!--END_SECTION:hn-->
 
 <!--
