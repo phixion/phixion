@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 19 - [Steven Spielberg Predicts 'Implosion' of Film Industry (2013)](https://www.hollywoodreporter.com/news/general-news/steven-spielberg-predicts-implosion-film-567604/)
-- Nov 19 - [How to identify ugly mass tourism places before you visit them?](https://twitter.com/faborio/status/1725631676309463137)
-- Nov 19 - [Underage Workers Are Training AI](https://www.wired.com/story/artificial-intelligence-data-labeling-children/)
-- Nov 19 - [Altman sought billions for AI chip venture before OpenAI ouster](https://www.bloomberg.com/news/articles/2023-11-19/altman-sought-billions-for-ai-chip-venture-before-openai-ouster)
-- Nov 19 - [Ex-IBM sales veteran sues for access to health benefits](https://www.theregister.com/2023/11/19/ibm_sales_veteran_healthcare_lawsuit/)
+- Nov 19 - [Uber paid 58 Australians $1350 to have One Less Car](https://www.forbes.com.au/news/lifestyle/uber-paid-58-australians-to-have-one-less-car/)
+- Nov 19 - [Argentina elects 'shock therapy' libertarian Javier Milei as president](https://www.reuters.com/world/americas/argentina-readies-vote-likely-presidential-election-thriller-2023-11-19/)
+- Nov 19 - [Milei wins elections and dollarization of Argentinian economy is on the way](https://www.lanacion.com.ar/politica/balotaje-2023-cerraron-los-comicios-y-se-esperan-los-primeros-resultados-para-las-21-nid19112023/)
+- Nov 19 - [Backlash as Netflix cancels five shows at once including its 'best series'](https://www.independent.co.uk/arts-entertainment/tv/news/shadow-and-bone-cancelled-season-3-netflix-b2449902.html)
+- Nov 19 - [A Tour of the Tektronix Ceramic CRT "Catacombs"](https://vintagetek.org/tour-crt-catacombs/)
 <!--END_SECTION:hn-->
 
 <!--
