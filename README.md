@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 21 - [Framework Laptop prices go as low as $639 thanks to refurbs and factory seconds](https://arstechnica.com/gadgets/2023/11/framework-laptop-prices-go-as-low-as-639-thanks-to-refurbs-and-factory-seconds/)
-- Nov 21 - [Sorry doubters, Starship had a remarkably successful flight](https://arstechnica.com/space/2023/11/heres-why-this-weekends-starship-launch-was-actually-a-huge-success/)
-- Nov 21 - [Tesla Model 3 fault rate is the highest of any car: report](https://cleanenergyrevolution.co/2023/11/20/tesla-model-3-fault-rate-is-the-highest-of-any-car-report/)
-- Nov 21 - [How many jacaranda trees are there in Sydney?](https://observablehq.com/@ldgrp/sydney-trees-jacaranda)
-- Nov 21 - [My Free Speech Means You Have to Shut Up](https://popehat.substack.com/p/my-free-speech-means-you-have-to)
+- Nov 21 - [OpenAI board stands firm in face of staff revolt over Sam Altman's ouster](https://www.ft.com/content/7215167b-b3dc-4a09-b8db-b6b20b79239e)
+- Nov 21 - [Linda Yaccarino: no single authentic user saw this content alongside IBM's ads](https://twitter.com/lindayaX/status/1726747531843915965)
+- Nov 21 - [China's New(ish) SW26010-Pro Supercomputer at SC23](https://chipsandcheese.com/2023/11/20/chinas-newish-sw26010-pro-supercomputer-at-sc23/)
+- Nov 21 - [How to Escape North Korea](https://unherd.com/2023/11/how-to-escape-north-korea/)
+- Nov 21 - [Earth likely briefly passed critical warming threshold on Friday and Saturday](https://www.axios.com/2023/11/20/earth-2c-warming-threshold-passed-report)
 <!--END_SECTION:hn-->
 
 <!--
