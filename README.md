@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 21 - [OpenAI board stands firm in face of staff revolt over Sam Altman's ouster](https://www.ft.com/content/7215167b-b3dc-4a09-b8db-b6b20b79239e)
-- Nov 21 - [Linda Yaccarino: no single authentic user saw this content alongside IBM's ads](https://twitter.com/lindayaX/status/1726747531843915965)
-- Nov 21 - [China's New(ish) SW26010-Pro Supercomputer at SC23](https://chipsandcheese.com/2023/11/20/chinas-newish-sw26010-pro-supercomputer-at-sc23/)
-- Nov 21 - [How to Escape North Korea](https://unherd.com/2023/11/how-to-escape-north-korea/)
-- Nov 21 - [Earth likely briefly passed critical warming threshold on Friday and Saturday](https://www.axios.com/2023/11/20/earth-2c-warming-threshold-passed-report)
+- Nov 21 - [How blogging is different from tweeting](https://markcarrigan.net/2023/05/22/how-blogging-is-different-from-tweeting/)
+- Nov 21 - [Orca 2: Teaching Small Language Models How to Reason](https://arxiv.org/abs/2311.11045)
+- Nov 21 - [Sam Altman Exposes the Charade of AI Accountability](https://www.bloomberg.com/opinion/articles/2023-11-20/openai-sam-altman-exposes-the-charade-of-ai-accountability)
+- Nov 21 - [Nothing's iMessage app was a security catastrophe, taken down in 24 hours](https://arstechnica.com/gadgets/2023/11/nothings-imessage-app-was-a-security-catastrophe-taken-down-in-24-hours/)
+- Nov 21 - [11.8M CHF for clinical trials of novel arthritis repair](https://www.unibas.ch/en/University/Fundraising/Fundraising-News/12-Million-CHF-for-clinical-trials-of-novel-arthritis-repair.html)
 <!--END_SECTION:hn-->
 
 <!--
