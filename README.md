@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 21 - [Google admits Spotify pays no Play Store fees because of a secret deal](https://techcrunch.com/2023/11/20/google-admits-spotify-pays-no-play-store-fees-because-of-a-secret-deal/)
-- Nov 21 - [YouTube punishes ad-blocker users with slower videos on non-Chrome browsers](https://www.androidcentral.com/apps-software/youtube-loads-slower-on-firefox)
-- Nov 21 - [Candela P-12 taking off – Electric hydrofoiling passenger vessel [video]](https://www.youtube.com/watch?v=XSkjdfaHxhw)
-- Nov 21 - [If needed, you have a role at Microsoft that matches your compensation](https://twitter.com/kevin_scott/status/1726971608706031670)
-- Nov 21 - [GameMaker to be free for non-commercial purposes and have one-time fee license](https://gamemaker.io/en/blog/gamemaker-free-platforms)
+- Nov 21 - [Show HN: Neum AI – Open-source large-scale RAG framework](https://github.com/NeumTry/NeumAI)
+- Nov 21 - [Maryland will hand out 133k Chromebooks to the public](https://statescoop.com/maryland-will-hand-out-133000-chromebooks-to-the-public/)
+- Nov 21 - [Stable Video Diffusion](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)
+- Nov 21 - [An Attempted Taxonomy of Web Components](https://www.zachleat.com/web/a-taxonomy-of-web-component-types/)
+- Nov 21 - [Streamlining CI/CD Pipelines with Code: A Developer's Guide](https://blog.matiaspan.dev/posts/exploring-dagger-streamlining-ci-cd-pipelines-with-code/)
 <!--END_SECTION:hn-->
 
 <!--
