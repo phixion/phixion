@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 21 - [How blogging is different from tweeting](https://markcarrigan.net/2023/05/22/how-blogging-is-different-from-tweeting/)
-- Nov 21 - [Orca 2: Teaching Small Language Models How to Reason](https://arxiv.org/abs/2311.11045)
-- Nov 21 - [Sam Altman Exposes the Charade of AI Accountability](https://www.bloomberg.com/opinion/articles/2023-11-20/openai-sam-altman-exposes-the-charade-of-ai-accountability)
-- Nov 21 - [Nothing's iMessage app was a security catastrophe, taken down in 24 hours](https://arstechnica.com/gadgets/2023/11/nothings-imessage-app-was-a-security-catastrophe-taken-down-in-24-hours/)
-- Nov 21 - [11.8M CHF for clinical trials of novel arthritis repair](https://www.unibas.ch/en/University/Fundraising/Fundraising-News/12-Million-CHF-for-clinical-trials-of-novel-arthritis-repair.html)
+- Nov 21 - [Google admits Spotify pays no Play Store fees because of a secret deal](https://techcrunch.com/2023/11/20/google-admits-spotify-pays-no-play-store-fees-because-of-a-secret-deal/)
+- Nov 21 - [YouTube punishes ad-blocker users with slower videos on non-Chrome browsers](https://www.androidcentral.com/apps-software/youtube-loads-slower-on-firefox)
+- Nov 21 - [Candela P-12 taking off – Electric hydrofoiling passenger vessel [video]](https://www.youtube.com/watch?v=XSkjdfaHxhw)
+- Nov 21 - [If needed, you have a role at Microsoft that matches your compensation](https://twitter.com/kevin_scott/status/1726971608706031670)
+- Nov 21 - [GameMaker to be free for non-commercial purposes and have one-time fee license](https://gamemaker.io/en/blog/gamemaker-free-platforms)
 <!--END_SECTION:hn-->
 
 <!--
