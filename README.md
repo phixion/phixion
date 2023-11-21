@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 20 - [Satya Nadella says OpenAI governance needs to change](https://www.cnbc.com/2023/11/20/microsoft-ceo-nadella-says-openai-governance-needs-to-change-no-matter-where-altman-ends-up.html)
-- Nov 20 - [Cyberattack: British Library Has Been Offline for Three Weeks, No End in Sight](https://twitter.com/britishlibrary/status/1726618361398722754)
-- Nov 20 - [Nvidia introduces the H200 an AI-crunching monster GPU that may speed up ChatGPT](https://arstechnica.com/information-technology/2023/11/nvidia-introduces-its-most-powerful-gpu-yet-designed-for-accelerating-ai/)
-- Nov 20 - [OpenAI's employees were given two explanations for why Sam Altman was fired](https://www.businessinsider.com/openais-employees-given-explanations-why-sam-altman-out-2023-11)
-- Nov 20 - [SEC charges Kraken for operating as an unregistered securities exchange](https://www.sec.gov/news/press-release/2023-237)
+- Nov 21 - [Framework Laptop prices go as low as $639 thanks to refurbs and factory seconds](https://arstechnica.com/gadgets/2023/11/framework-laptop-prices-go-as-low-as-639-thanks-to-refurbs-and-factory-seconds/)
+- Nov 21 - [Sorry doubters, Starship had a remarkably successful flight](https://arstechnica.com/space/2023/11/heres-why-this-weekends-starship-launch-was-actually-a-huge-success/)
+- Nov 21 - [Tesla Model 3 fault rate is the highest of any car: report](https://cleanenergyrevolution.co/2023/11/20/tesla-model-3-fault-rate-is-the-highest-of-any-car-report/)
+- Nov 21 - [How many jacaranda trees are there in Sydney?](https://observablehq.com/@ldgrp/sydney-trees-jacaranda)
+- Nov 21 - [My Free Speech Means You Have to Shut Up](https://popehat.substack.com/p/my-free-speech-means-you-have-to)
 <!--END_SECTION:hn-->
 
 <!--
