@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 22 - [Sam Back at OpenAI](https://www.theverge.com/2023/11/22/23967223/sam-altman-returns-ceo-open-ai)
-- Nov 22 - [We have reached an agreement in principle for Sam to return to OpenAI as CEO](https://twitter.com/openai/status/1727206187077370115)
-- Nov 22 - [How does Cave/Glade Generator Work](https://www.boristhebrave.com/2023/11/19/how-does-cave-glade-generator-work/)
-- Nov 22 - [FTC authorizes compulsory process for AI-related products and services](https://www.ftc.gov/news-events/news/press-releases/2023/11/ftc-authorizes-compulsory-process-ai-related-products-services)
-- Nov 22 - [Bacteria store memories and pass them on for generations](https://news.utexas.edu/2023/11/21/bacteria-store-memories-and-pass-them-on-for-generations/)
+- Nov 22 - [LM Studio – Discover, download, and run local LLMs](https://lmstudio.ai/)
+- Nov 22 - [Just remove the Duck (2013)](https://rachelbythebay.com/w/2013/06/05/duck/)
+- Nov 22 - [Ruby Tip – Interactive debugging without the need for gems](https://a-chacon.com/en/ruby/irb/tip/2023/11/20/ruby-tip-binding-irb.html)
+- Nov 22 - [Show HN: Deepmark AI- LLM assessment tool for task-specific metrics on your data](https://github.com/IngestAI/deepmark)
+- Nov 22 - [Running Windows 98 on the Browser](https://copy.sh/v86/?profile=windows98)
 <!--END_SECTION:hn-->
 
 <!--
