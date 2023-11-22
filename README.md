@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 21 - [Before Altman's Ouster, OpenAI's Board Was Divided and Feuding (NYT)](https://archive.li/eN5PY#selection-321.0-324.0)
-- Nov 21 - [Is it legal to mix cash in a jar?](http://jpkoning.blogspot.com/2023/11/is-it-legal-to-mix-cash-in-jar.html)
-- Nov 21 - [In the Gut's 'Second Brain,' Key Agents of Health Emerge](https://www.quantamagazine.org/in-the-guts-second-brain-key-agents-of-health-emerge-20231121)
-- Nov 21 - [Why does the moon change size when you snipe it in GTA?](https://insiderockstarnorth.blogspot.com/2023/11/why-does-moon-change-size-when-you.html)
-- Nov 21 - [OpenAI API and ChatGTP Outage](https://status.openai.com/incidents/n254wyd7nml7)
+- Nov 22 - [How Does a Cave Generator Work](https://www.boristhebrave.com/2023/11/19/how-does-cave-glade-generator-work/)
+- Nov 22 - [Bard Extensions](https://bard.google.com/extensions?hl=en)
+- Nov 22 - [FTC authorizes compulsory process for AI-related products and services](https://www.ftc.gov/news-events/news/press-releases/2023/11/ftc-authorizes-compulsory-process-ai-related-products-services)
+- Nov 22 - [Bacteria store memories and pass them on for generations](https://news.utexas.edu/2023/11/21/bacteria-store-memories-and-pass-them-on-for-generations/)
+- Nov 21 - [Before Altman’s ouster, OpenAI’s board was divided and feuding](https://www.nytimes.com/2023/11/21/technology/openai-altman-board-fight.html)
 <!--END_SECTION:hn-->
 
 <!--
