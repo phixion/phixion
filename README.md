@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 22 - [The AI industry turns against its favorite philosophy](https://www.semafor.com/article/11/21/2023/how-effective-altruism-led-to-a-crisis-at-openai)
-- Nov 22 - [Inflection-2: the next step up](https://inflection.ai/inflection-2)
-- Nov 22 - [ZFS 2.2.1: Block Cloning disabled due to data corruption](https://github.com/openzfs/zfs/releases/tag/zfs-2.2.1)
-- Nov 22 - [185,000 Individuals Impacted by MOVEit Hack at Car Parts Giant AutoZone](https://www.securityweek.com/185000-individuals-impacted-by-moveit-hack-at-car-parts-giant-autozone/)
-- Nov 22 - [EP–133](https://teenage.engineering/products/ep-133)
+- Nov 22 - [If you get cited in someone else's anti-trust Apple deactivate developer account](https://twitter.com/evankaloudis/status/1727336468920864844)
+- Nov 22 - [Fast self-hostable open-source workflow engine](https://www.windmill.dev/blog/launch-week-1/fastest-workflow-engine)
+- Nov 22 - [Gemini sued over $689M in customer withdrawals](https://nypost.com/2023/11/22/business/winklevoss-twins-crypto-firm-gemini-sued-over-689m-in-customer-withdrawals/)
+- Nov 22 - [Researchers Develop a Flat Metalens That Can Change Its Focal Length](https://petapixel.com/2023/11/21/researchers-develop-a-flat-metalens-that-can-change-its-focal-length/)
+- Nov 22 - [A writer's experience creating human-sounding articles using Claude AI](https://idratherbewriting.com/blog/writing-full-length-articles-with-claude-ai)
 <!--END_SECTION:hn-->
 
 <!--
