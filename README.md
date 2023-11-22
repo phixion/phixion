@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 22 - [LM Studio – Discover, download, and run local LLMs](https://lmstudio.ai/)
-- Nov 22 - [Just remove the Duck (2013)](https://rachelbythebay.com/w/2013/06/05/duck/)
-- Nov 22 - [Ruby Tip – Interactive debugging without the need for gems](https://a-chacon.com/en/ruby/irb/tip/2023/11/20/ruby-tip-binding-irb.html)
-- Nov 22 - [Show HN: Deepmark AI- LLM assessment tool for task-specific metrics on your data](https://github.com/IngestAI/deepmark)
-- Nov 22 - [Running Windows 98 on the Browser](https://copy.sh/v86/?profile=windows98)
+- Nov 22 - [The AI industry turns against its favorite philosophy](https://www.semafor.com/article/11/21/2023/how-effective-altruism-led-to-a-crisis-at-openai)
+- Nov 22 - [Inflection-2: the next step up](https://inflection.ai/inflection-2)
+- Nov 22 - [ZFS 2.2.1: Block Cloning disabled due to data corruption](https://github.com/openzfs/zfs/releases/tag/zfs-2.2.1)
+- Nov 22 - [185,000 Individuals Impacted by MOVEit Hack at Car Parts Giant AutoZone](https://www.securityweek.com/185000-individuals-impacted-by-moveit-hack-at-car-parts-giant-autozone/)
+- Nov 22 - [EP–133](https://teenage.engineering/products/ep-133)
 <!--END_SECTION:hn-->
 
 <!--
