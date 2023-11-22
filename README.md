@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 21 - [Show HN: Neum AI – Open-source large-scale RAG framework](https://github.com/NeumTry/NeumAI)
-- Nov 21 - [Maryland will hand out 133k Chromebooks to the public](https://statescoop.com/maryland-will-hand-out-133000-chromebooks-to-the-public/)
-- Nov 21 - [Stable Video Diffusion](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)
-- Nov 21 - [An Attempted Taxonomy of Web Components](https://www.zachleat.com/web/a-taxonomy-of-web-component-types/)
-- Nov 21 - [Streamlining CI/CD Pipelines with Code: A Developer's Guide](https://blog.matiaspan.dev/posts/exploring-dagger-streamlining-ci-cd-pipelines-with-code/)
+- Nov 21 - [Before Altman's Ouster, OpenAI's Board Was Divided and Feuding (NYT)](https://archive.li/eN5PY#selection-321.0-324.0)
+- Nov 21 - [Is it legal to mix cash in a jar?](http://jpkoning.blogspot.com/2023/11/is-it-legal-to-mix-cash-in-jar.html)
+- Nov 21 - [In the Gut's 'Second Brain,' Key Agents of Health Emerge](https://www.quantamagazine.org/in-the-guts-second-brain-key-agents-of-health-emerge-20231121)
+- Nov 21 - [Why does the moon change size when you snipe it in GTA?](https://insiderockstarnorth.blogspot.com/2023/11/why-does-moon-change-size-when-you.html)
+- Nov 21 - [OpenAI API and ChatGTP Outage](https://status.openai.com/incidents/n254wyd7nml7)
 <!--END_SECTION:hn-->
 
 <!--
