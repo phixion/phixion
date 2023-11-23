@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 22 - [If you get cited in someone else's anti-trust Apple deactivate developer account](https://twitter.com/evankaloudis/status/1727336468920864844)
-- Nov 22 - [Fast self-hostable open-source workflow engine](https://www.windmill.dev/blog/launch-week-1/fastest-workflow-engine)
-- Nov 22 - [Gemini sued over $689M in customer withdrawals](https://nypost.com/2023/11/22/business/winklevoss-twins-crypto-firm-gemini-sued-over-689m-in-customer-withdrawals/)
-- Nov 22 - [Researchers Develop a Flat Metalens That Can Change Its Focal Length](https://petapixel.com/2023/11/21/researchers-develop-a-flat-metalens-that-can-change-its-focal-length/)
-- Nov 22 - [A writer's experience creating human-sounding articles using Claude AI](https://idratherbewriting.com/blog/writing-full-length-articles-with-claude-ai)
+- Nov 22 - [Zoom Fatigue Is Real, According to Brain Scans](https://spectrum.ieee.org/zoom-fatigue)
+- Nov 22 - [ChatGPT generates fake data set to support scientific hypothesis](https://www.nature.com/articles/d41586-023-03635-w)
+- Nov 22 - [Sam Altman's ouster was precipitated by letter to board about AI breakthrough](https://www.reuters.com/technology/sam-altmans-ouster-openai-was-precipitated-by-letter-board-about-ai-breakthrough-2023-11-22/)
+- Nov 22 - [Tesla workers report explosions, concussions and robot injuries at Texas factory](https://www.theverge.com/2023/11/21/23971138/tesla-gigafactory-austin-texas-injury-reports-robot-claw-explosion)
+- Nov 22 - [Gabe Newell forced to testify in person in Steam antitrust case [pdf]](https://cases.justia.com/federal/district-courts/washington/wawdce/2:2021cv00563/298754/170/0.pdf)
 <!--END_SECTION:hn-->
 
 <!--
