@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 23 - [Threat to humanity: The mystery letter that may have sparked the OpenAI chaos](https://www.smh.com.au/business/companies/threat-to-humanity-the-mystery-letter-that-may-have-sparked-the-openai-chaos-20231123-p5em8z.html)
-- Nov 23 - [A.I. Belongs to the Capitalists Now](https://www.nytimes.com/2023/11/22/technology/openai-board-capitalists.html)
-- Nov 23 - [Auroratone, a Psychedelic 1940s Film, That Helped WWII Vets Overcome PTSD](https://www.openculture.com/2023/11/watch-an-auroratone-a-psychedelic-1940s-film.html)
-- Nov 23 - [Computational Modelling of Terrains](https://tudelft3d.github.io/terrainbook/)
-- Nov 23 - [A gentle introduction to two's complement](https://imapenguin.com/2023/11/a-gentle-introduction-to-twos-complement/)
+- Nov 23 - [This Louisiana Town Runs Largely on Traffic Fines. The Mayor Is Your Judge.](https://www.propublica.org/article/fenton-louisiana-brought-in-1-million-through-mayors-court)
+- Nov 23 - [Fast Llama 2 on CPUs with Sparse Fine-Tuning and DeepSparse](https://neuralmagic.com/blog/fast-llama-2-on-cpus-with-sparse-fine-tuning-and-deepsparse/)
+- Nov 23 - [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
+- Nov 23 - [Intro to Large Language Models [Video]](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+- Nov 23 - [Auroratone, a psychedelic 1940s film that helped WWII vets overcome PTSD](https://www.openculture.com/2023/11/watch-an-auroratone-a-psychedelic-1940s-film.html)
 <!--END_SECTION:hn-->
 
 <!--
