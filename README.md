@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 23 - [Large amounts of carbon capture as a solution is an 'illusion'](https://electrek.co/2023/11/23/large-amounts-of-carbon-capture-as-a-solution-is-an-illusion-iea/)
-- Nov 23 - [Rumours of SR-71 Blackbird Successor from Lockheed's Skunkworks](https://www.sandboxx.us/news/sr-72-hints-of-a-new-skunk-works-spy-plane-reignite-rumors-of-a-blackbird-successor/)
-- Nov 23 - [Luiz André Barroso has died](https://spectrum.ieee.org/in-memoriam-nov-2023)
-- Nov 23 - [Writing a Debugger from Scratch: Stacks](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-6/)
-- Nov 23 - [Pierre de Fermat's Link to a High School Student's Prime Math Proof](https://www.quantamagazine.org/pierre-de-fermats-link-to-a-high-school-students-prime-math-proof-20231122/)
+- Nov 23 - [OpenAI was working on advanced model so powerful it alarmed staff](https://www.theguardian.com/business/2023/nov/23/openai-was-working-on-advanced-model-so-powerful-it-alarmed-staff)
+- Nov 23 - [C diff spores resist bleach and remain viable on surgical scrubs andgown fabrics](https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.001418)
+- Nov 23 - [Enums in Rust – and why they feel better](https://www.shuttle.rs/blog/2023/11/23/enums-in-rust)
+- Nov 23 - [Git Branches: Intuition and Reality](https://jvns.ca/blog/2023/11/23/branches-intuition-reality/)
+- Nov 23 - [US govt pays AT&T to let cops search Americans' phone records without warrant](https://www.theregister.com/2023/11/22/wyden_hemisphere_letter/)
 <!--END_SECTION:hn-->
 
 <!--
