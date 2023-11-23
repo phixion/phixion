@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 23 - [This Louisiana Town Runs Largely on Traffic Fines. The Mayor Is Your Judge.](https://www.propublica.org/article/fenton-louisiana-brought-in-1-million-through-mayors-court)
-- Nov 23 - [Fast Llama 2 on CPUs with Sparse Fine-Tuning and DeepSparse](https://neuralmagic.com/blog/fast-llama-2-on-cpus-with-sparse-fine-tuning-and-deepsparse/)
-- Nov 23 - [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
-- Nov 23 - [Intro to Large Language Models [Video]](https://www.youtube.com/watch?v=zjkBMFhNj_g)
-- Nov 23 - [Auroratone, a psychedelic 1940s film that helped WWII vets overcome PTSD](https://www.openculture.com/2023/11/watch-an-auroratone-a-psychedelic-1940s-film.html)
+- Nov 23 - [Large amounts of carbon capture as a solution is an 'illusion'](https://electrek.co/2023/11/23/large-amounts-of-carbon-capture-as-a-solution-is-an-illusion-iea/)
+- Nov 23 - [Rumours of SR-71 Blackbird Successor from Lockheed's Skunkworks](https://www.sandboxx.us/news/sr-72-hints-of-a-new-skunk-works-spy-plane-reignite-rumors-of-a-blackbird-successor/)
+- Nov 23 - [Luiz André Barroso has died](https://spectrum.ieee.org/in-memoriam-nov-2023)
+- Nov 23 - [Writing a Debugger from Scratch: Stacks](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-6/)
+- Nov 23 - [Pierre de Fermat's Link to a High School Student's Prime Math Proof](https://www.quantamagazine.org/pierre-de-fermats-link-to-a-high-school-students-prime-math-proof-20231122/)
 <!--END_SECTION:hn-->
 
 <!--
