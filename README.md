@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 22 - [Zoom Fatigue Is Real, According to Brain Scans](https://spectrum.ieee.org/zoom-fatigue)
-- Nov 22 - [ChatGPT generates fake data set to support scientific hypothesis](https://www.nature.com/articles/d41586-023-03635-w)
-- Nov 22 - [Sam Altman's ouster was precipitated by letter to board about AI breakthrough](https://www.reuters.com/technology/sam-altmans-ouster-openai-was-precipitated-by-letter-board-about-ai-breakthrough-2023-11-22/)
-- Nov 22 - [Tesla workers report explosions, concussions and robot injuries at Texas factory](https://www.theverge.com/2023/11/21/23971138/tesla-gigafactory-austin-texas-injury-reports-robot-claw-explosion)
-- Nov 22 - [Gabe Newell forced to testify in person in Steam antitrust case [pdf]](https://cases.justia.com/federal/district-courts/washington/wawdce/2:2021cv00563/298754/170/0.pdf)
+- Nov 23 - [Threat to humanity: The mystery letter that may have sparked the OpenAI chaos](https://www.smh.com.au/business/companies/threat-to-humanity-the-mystery-letter-that-may-have-sparked-the-openai-chaos-20231123-p5em8z.html)
+- Nov 23 - [A.I. Belongs to the Capitalists Now](https://www.nytimes.com/2023/11/22/technology/openai-board-capitalists.html)
+- Nov 23 - [Auroratone, a Psychedelic 1940s Film, That Helped WWII Vets Overcome PTSD](https://www.openculture.com/2023/11/watch-an-auroratone-a-psychedelic-1940s-film.html)
+- Nov 23 - [Computational Modelling of Terrains](https://tudelft3d.github.io/terrainbook/)
+- Nov 23 - [A gentle introduction to two's complement](https://imapenguin.com/2023/11/a-gentle-introduction-to-twos-complement/)
 <!--END_SECTION:hn-->
 
 <!--
