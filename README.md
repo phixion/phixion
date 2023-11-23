@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 23 - [OpenAI was working on advanced model so powerful it alarmed staff](https://www.theguardian.com/business/2023/nov/23/openai-was-working-on-advanced-model-so-powerful-it-alarmed-staff)
-- Nov 23 - [C diff spores resist bleach and remain viable on surgical scrubs andgown fabrics](https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.001418)
-- Nov 23 - [Enums in Rust – and why they feel better](https://www.shuttle.rs/blog/2023/11/23/enums-in-rust)
-- Nov 23 - [Git Branches: Intuition and Reality](https://jvns.ca/blog/2023/11/23/branches-intuition-reality/)
-- Nov 23 - [US govt pays AT&T to let cops search Americans' phone records without warrant](https://www.theregister.com/2023/11/22/wyden_hemisphere_letter/)
+- Nov 23 - [Bluetooth stack modifications to improve audio quality on headphones without AA](https://habr.com/en/articles/456476/)
+- Nov 23 - [Possibility That an SEC Investigation of Altman and Nadella May Soon Be Filed](https://michigan-post.com/redditors-from-r-wallstreetbets-call-attention-to-possibility-that-an-sec-investigation-of-openai-ceo-sam-altman-and-microsoft-ceo-satya-nadella-may-soon-be-filed/)
+- Nov 23 - [Shellcheck finds bugs in your shell scripts](https://www.shellcheck.net/)
+- Nov 23 - [After OpenAI's Blowup, It Seems Pretty Clear That 'AI Safety' Isn't a Real Thing](https://gizmodo.com/ai-safety-openai-sam-altman-ouster-back-microsoft-1851038439)
+- Nov 23 - [Pepper (YC S19) Is Hiring Founding Data Product Engineer](https://www.ycombinator.com/companies/pepper/jobs/HiLVjDL-founding-data-product-engineer)
 <!--END_SECTION:hn-->
 
 <!--
