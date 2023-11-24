@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 24 - [Learn Machine Learning](https://www.tensorflow.org/resources/learn-ml)
-- Nov 24 - [Spinning Up in Deep RL by OpenAI](https://spinningup.openai.com/en/latest/)
-- Nov 24 - [The BPF-programmable network device](https://lwn.net/Articles/949960/)
-- Nov 24 - [Things you're allowed to do (2020)](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
-- Nov 24 - [Imbue (Formerly Generally Intelligent) (YC S17) Is hiring an Engineering Manager](https://news.ycombinator.com/item?id=38399650)
+- Nov 24 - [Odigos (YC W23) Is Hiring eBPF Engineer](https://www.ycombinator.com/companies/keyval/jobs/6pSjpry-ebpf-engineer)
+- Nov 24 - [Earth Running Out of Food](https://www.theworldcounts.com/challenges/planet-earth/state-of-the-planet/is-the-world-running-out-of-food)
+- Nov 24 - [Flutter seems to be having bad times internally](https://twitter.com/timsneath/status/1727852099407622163)
+- Nov 24 - ['Sunspot archipelago' 15 times wider than Earth could soon bombard us](https://www.livescience.com/space/the-sun/enormous-sunspot-archipelago-15-times-wider-than-earth-could-soon-bombard-us-with-solar-flares)
+- Nov 24 - [Bosque Programming Language](https://www.microsoft.com/en-us/research/project/bosque-programming-language/)
 <!--END_SECTION:hn-->
 
 <!--
