@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 24 - [Odigos (YC W23) Is Hiring eBPF Engineer](https://www.ycombinator.com/companies/keyval/jobs/6pSjpry-ebpf-engineer)
-- Nov 24 - [Earth Running Out of Food](https://www.theworldcounts.com/challenges/planet-earth/state-of-the-planet/is-the-world-running-out-of-food)
-- Nov 24 - [Flutter seems to be having bad times internally](https://twitter.com/timsneath/status/1727852099407622163)
-- Nov 24 - ['Sunspot archipelago' 15 times wider than Earth could soon bombard us](https://www.livescience.com/space/the-sun/enormous-sunspot-archipelago-15-times-wider-than-earth-could-soon-bombard-us-with-solar-flares)
-- Nov 24 - [Bosque Programming Language](https://www.microsoft.com/en-us/research/project/bosque-programming-language/)
+- Nov 24 - [Langfuse (YC W23) is hiring a founding engineer to build LLM observability](https://www.workatastartup.com/jobs/62929)
+- Nov 24 - [Population of England and Wales grows at fastest rate since 1962](https://www.thisislocallondon.co.uk/news/national/23943664.population-england-wales-grows-fastest-rate-since-1962/)
+- Nov 24 - [The Feds' Vehicle 'Kill Switch' Mandate Is a Gross Violation of Privacy](https://fee.org/articles/the-feds-vehicle-kill-switch-mandate-is-a-gross-and-dangerous-violation-of-privacy/)
+- Nov 24 - [The Failed Commodification of Technical Work](https://ludic.mataroa.blog/blog/the-failed-commodification-of-technical-work/)
+- Nov 24 - [DDG founder says Google's phone, manufacturing partnerships thwart competition](https://apnews.com/article/google-antitrust-trial-search-engine-duckduckgo-b3d81d41a5cbf8d7c2cef824663f1f8a)
 <!--END_SECTION:hn-->
 
 <!--
