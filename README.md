@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 23 - [What do Apple, Meta, TikTok have in common? Fighting Europe's antitrust rules](https://www.theregister.com/2023/11/17/apple_ec_dma/)
-- Nov 23 - [15 years ago, I helped design Google Maps](https://twitter.com/elizlaraki/status/1727351922254852182)
-- Nov 23 - [Experimental tree-based writing interface for GPT-3](https://github.com/socketteer/loom)
-- Nov 23 - [PostgreSQL on S390x](https://www.cybertec-postgresql.com/en/postgresql-on-s390x/)
-- Nov 23 - [ESA’s new Ariane 6 rocket passed a major full-scale rehearsal](https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Hot_fire_Ariane_6_ready_to_rumble)
+- Nov 24 - [Learn Machine Learning](https://www.tensorflow.org/resources/learn-ml)
+- Nov 24 - [Spinning Up in Deep RL by OpenAI](https://spinningup.openai.com/en/latest/)
+- Nov 24 - [The BPF-programmable network device](https://lwn.net/Articles/949960/)
+- Nov 24 - [Things you're allowed to do (2020)](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
+- Nov 24 - [Imbue (Formerly Generally Intelligent) (YC S17) Is hiring an Engineering Manager](https://news.ycombinator.com/item?id=38399650)
 <!--END_SECTION:hn-->
 
 <!--
