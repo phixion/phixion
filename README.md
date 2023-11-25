@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 25 - [Is there something similar to “distroless” images built with Nix?](https://discourse.nixos.org/t/oci-images-is-there-something-similar-to-distroless-images-built-with-nix/35957)
+- Nov 25 - [Pythonicity: Composition vs. Inheritance](https://coady.github.io/posts/composition-vs-inheritance.html)
+- Nov 25 - [Git Discussion Bingo](https://wizardzines.com/comics/git-discussion-bingo/)
 - Nov 24 - [Things We Always Remind Ourselves While Coding](https://changelog.com/posts/things-we-always-remind-ourselves-while-coding)
 - Nov 24 - [PacketMill: Toward per-Core 100-Gbps networking](https://dl.acm.org/doi/abs/10.1145/3445814.3446724)
-- Nov 24 - [Minecraft rewritten from scratch in Kotlin, hypixel works](https://gitlab.bixilon.de/bixilon/minosoft)
-- Nov 24 - [FastClick: A new architecture for programmable network infrastructure](https://github.com/tbarbette/fastclick)
-- Nov 24 - [Show HN: IP Guide – info on IP addresses, Networks, and ASNs](https://ip.guide)
 <!--END_SECTION:hn-->
 
 <!--
