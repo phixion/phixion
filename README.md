@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 25 - [Why 56k is the fastest dial up modem speed](https://www.10stripe.com/articles/why-is-56k-the-fastest-dialup-modem-speed.php)
-- Nov 25 - [Anti-tumor activity of all-trans retinoic acid in gastric-cancer](https://pubmed.ncbi.nlm.nih.gov/37951921/)
-- Nov 25 - [Shh: Simple Shell Scripting from Haskell](https://github.com/luke-clifton/shh)
-- Nov 25 - [Lago – Open-source Stripe Billing alternative – is hiring a Data Scientist](https://news.ycombinator.com/item?id=38412976)
-- Nov 25 - [Offpunk 2.0](https://ploum.net/2023-11-25-offpunk2.html)
+- Nov 25 - [Nvidia sued for stealing trade secrets: blunder showed rival company's code](https://www.engadget.com/nvidia-sued-for-stealing-trade-secrets-after-screensharing-blunder-showed-rival-companys-code-063009605.html)
+- Nov 25 - ['Treasure trove' of new CRISPR systems holds promise for genome editing](https://www.nature.com/articles/d41586-023-03697-w)
+- Nov 25 - [The Dunning-Kruger Effect Is Autocorrelation](https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/)
+- Nov 25 - [XPAK 400](https://kustomrama.com/wiki/XPAK_400)
+- Nov 25 - [Sqids – Generate Short Unique IDs from Numbers](https://sqids.org/)
 <!--END_SECTION:hn-->
 
 <!--
