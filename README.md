@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 25 - [Is there something similar to “distroless” images built with Nix?](https://discourse.nixos.org/t/oci-images-is-there-something-similar-to-distroless-images-built-with-nix/35957)
-- Nov 25 - [Pythonicity: Composition vs. Inheritance](https://coady.github.io/posts/composition-vs-inheritance.html)
-- Nov 25 - [Git Discussion Bingo](https://wizardzines.com/comics/git-discussion-bingo/)
-- Nov 24 - [Things We Always Remind Ourselves While Coding](https://changelog.com/posts/things-we-always-remind-ourselves-while-coding)
-- Nov 24 - [PacketMill: Toward per-Core 100-Gbps networking](https://dl.acm.org/doi/abs/10.1145/3445814.3446724)
+- Nov 25 - [ArchiveTeam is downloading and saving content from Blogger](https://wiki.archiveteam.org/index.php/Blogger)
+- Nov 25 - [Tesla Normal Operating Sounds](https://www.tesla.com/ownersmanual/model3/en_us/GUID-AA58ED67-9C93-4EE6-8B19-9FDABE018787.html)
+- Nov 25 - [The Bond villain compliance strategy](https://www.bitsaboutmoney.com/archive/bond-villain-compliance-strategy/)
+- Nov 25 - [There are no strings on me](https://www.scattered-thoughts.net/writing/there-are-no-strings-on-me/)
+- Nov 25 - [Workarounds to Computer Access in Healthcare: Password or a Dead Patient? (2015)](https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf)
 <!--END_SECTION:hn-->
 
 <!--
