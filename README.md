@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 26 - [The Flix Programming Language](https://flix.dev/)
-- Nov 26 - [At Meta, Underage Users Were an 'Open Secret,' States Say](https://www.nytimes.com/2023/11/25/technology/instagram-meta-children-privacy.html)
-- Nov 26 - [We have lost access to approximately €6k in bounties](https://newpipe.net/blog/pinned/announcement/we-have-lost-access-to-bountysource/)
-- Nov 26 - [The Curse of Docker](https://computer.rip/2023-11-25-the-curse-of-docker.html)
-- Nov 26 - [Naev – open-source game about space exploration, trade and combat](https://naev.org/)
+- Nov 26 - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- Nov 26 - [The most powerful cosmic ray since the Oh-My-God particle puzzles scientists](https://www.nature.com/articles/d41586-023-03677-0)
+- Nov 26 - [Can a Passenger Hack an Airplane?](https://blog.1password.com/can-you-hack-plane-ken-munro-interview/)
+- Nov 26 - [Daily Coffee Habits May Affect Brain Plasticity and Learning](https://neurosciencenews.com/caffeine-neuoplasticity-ltp-25255/)
+- Nov 26 - [VectorDB: Vector Database Built by Kagi Search](https://vectordb.com/)
 <!--END_SECTION:hn-->
 
 <!--
