@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 26 - [First Is the Worst: Nintendo's Color TV Game 6 and 15](https://nicole.express/2023/not-another-color-post-i-swear.html)
-- Nov 26 - [A ChatBot for Interacting with Hacker News](https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fnewsnerdhackerbot.streamlit.app%2F)
-- Nov 26 - [Is there an updated list for verified good USB-C cables?](https://old.reddit.com/r/UsbCHardware/comments/vkfwug/is_there_an_updated_list_for_verified_good_usbc/)
-- Nov 26 - [In-depth comparison of LLM frameworks](https://arxiv.org/abs/2311.12785)
-- Nov 26 - [Linux being secure is a common misconception](https://madaidans-insecurities.github.io/linux.html)
+- Nov 26 - [HP says I should have known its £399 laptop bargain was too good to be true](https://www.theguardian.com/money/2023/nov/23/hp-says-i-should-have-known-its-399-laptop-bargain-was-too-good-to-be-true)
+- Nov 26 - [Does GPT-4 Pass the Turing Test?](https://arxiv.org/abs/2310.20216)
+- Nov 26 - [Fish – Update on the Rust Port](https://github.com/fish-shell/fish-shell/discussions/10123)
+- Nov 26 - [PipeWire 1.0.0](https://gitlab.freedesktop.org/pipewire/pipewire/-/releases/1.0.0)
+- Nov 26 - [Titled Tuesday [Chess] Cheating](https://dorianquelle.github.io/blog/How-To-Catch-Smart-Cheaters/)
 <!--END_SECTION:hn-->
 
 <!--
