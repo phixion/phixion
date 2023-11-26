@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 26 - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-- Nov 26 - [The most powerful cosmic ray since the Oh-My-God particle puzzles scientists](https://www.nature.com/articles/d41586-023-03677-0)
-- Nov 26 - [Can a Passenger Hack an Airplane?](https://blog.1password.com/can-you-hack-plane-ken-munro-interview/)
-- Nov 26 - [Daily Coffee Habits May Affect Brain Plasticity and Learning](https://neurosciencenews.com/caffeine-neuoplasticity-ltp-25255/)
-- Nov 26 - [VectorDB: Vector Database Built by Kagi Search](https://vectordb.com/)
+- Nov 26 - [First Is the Worst: Nintendo's Color TV Game 6 and 15](https://nicole.express/2023/not-another-color-post-i-swear.html)
+- Nov 26 - [A ChatBot for Interacting with Hacker News](https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fnewsnerdhackerbot.streamlit.app%2F)
+- Nov 26 - [Is there an updated list for verified good USB-C cables?](https://old.reddit.com/r/UsbCHardware/comments/vkfwug/is_there_an_updated_list_for_verified_good_usbc/)
+- Nov 26 - [In-depth comparison of LLM frameworks](https://arxiv.org/abs/2311.12785)
+- Nov 26 - [Linux being secure is a common misconception](https://madaidans-insecurities.github.io/linux.html)
 <!--END_SECTION:hn-->
 
 <!--
