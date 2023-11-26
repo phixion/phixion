@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 25 - [Ask HN: How can my mom downshift as a SQL developer?](https://news.ycombinator.com/item?id=38417444)
+- Nov 26 - [The Curse of Docker](https://computer.rip/2023-11-25-the-curse-of-docker.html)
+- Nov 26 - [Naev – open-source game about space exploration, trade and combat](https://naev.org/)
+- Nov 26 - [Raiders of the Lost Ark Story Conference Transcript](https://indiefilmhustle.com/tag/raiders-of-the-lost-ark-story-conference-transcript/)
 - Nov 25 - [Aerial refuelling without human intervention](https://www.airbus.com/en/newsroom/stories/2023-11-aerial-refuelling-without-human-intervention)
 - Nov 25 - [Postgres: Extensions Shape the Future [pdf]](https://blog.rustprooflabs.com/static/docs/pass2023--Extensions-Shape-the-Future.pdf)
-- Nov 25 - [Reflections on learning programming](https://blog.osm-ai.net/thinking/2023/10/26/novice-mistakes.html)
-- Nov 25 - [A chatbot that can't say anything controversial isn't worth much](https://www.theatlantic.com/ideas/archive/2023/11/ai-safety-regulations-uncensored-models/676076/)
 <!--END_SECTION:hn-->
 
 <!--
