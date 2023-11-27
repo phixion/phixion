@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 27 - [Nutrient found in beef and dairy improves immune response to cancer](https://biologicalsciences.uchicago.edu/news/tva-nutrient-cancer-immunity)
-- Nov 27 - [AirJet makes a MacBook Air perform like a MacBook Pro](https://www.macworld.com/article/2150862/airjet-makes-a-macbook-air-perform-like-a-macbook-pro.html)
-- Nov 27 - [Robot Dad](https://blog.untrod.com/2023/11/robot-dad.html)
-- Nov 27 - [Ask HN: What to Do After Burnout?](https://news.ycombinator.com/item?id=38433302)
-- Nov 27 - [Favorite Database T-Shirts](https://www.cs.cmu.edu/~pavlo/blog/2016/07/my-favorite-database-shirts.html)
+- Nov 27 - [The official Rails job board is live](https://rubyonrails.org/2023/11/27/rails-job-board-is-live)
+- Nov 27 - [Sports Illustrated Published Articles by Fake, AI-Generated Writers](https://futurism.com/sports-illustrated-ai-generated-writers)
+- Nov 27 - [Broadcom lays off many VMware employees after closing acquisition](https://www.businessinsider.com/broadcom-vmware-layoffs-employees-face-job-cuts-acquisition-2023-11)
+- Nov 27 - [My toddler loves planes, so I built her a radar](https://jacobbartlett.substack.com/p/my-toddler-loves-planes-so-i-built)
+- Nov 27 - [Former Coal Towns Get Money for Clean-Energy Factories](https://www.nytimes.com/2023/11/27/climate/clean-energy-funding-coal-communities.html)
 <!--END_SECTION:hn-->
 
 <!--
