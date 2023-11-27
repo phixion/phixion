@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 27 - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
-- Nov 27 - [Tesla sues Swedish state agency over number plate blockage](https://www.thelocal.se/20231127/tesla-sues-swedish-transport-agency-over-number-plate-blockage)
-- Nov 27 - [German Autobahn speed limit would bring €1bn in benefits](https://www.carbonbrief.org/autobahn-speed-limit-would-cut-carbon-and-bring-e1bn-in-benefits-study-says/)
-- Nov 27 - [Tata Consultancy Services ordered to cough up $210M in code theft trial](https://www.theregister.com/2023/11/24/tata_210m_code_theft/)
-- Nov 27 - [Ransomware-hit British Library: Too open for business, or not open enough?](https://www.theregister.com/2023/11/27/british_library_opinion_column/)
+- Nov 27 - [Nutrient found in beef and dairy improves immune response to cancer](https://biologicalsciences.uchicago.edu/news/tva-nutrient-cancer-immunity)
+- Nov 27 - [AirJet makes a MacBook Air perform like a MacBook Pro](https://www.macworld.com/article/2150862/airjet-makes-a-macbook-air-perform-like-a-macbook-pro.html)
+- Nov 27 - [Robot Dad](https://blog.untrod.com/2023/11/robot-dad.html)
+- Nov 27 - [Ask HN: What to Do After Burnout?](https://news.ycombinator.com/item?id=38433302)
+- Nov 27 - [Favorite Database T-Shirts](https://www.cs.cmu.edu/~pavlo/blog/2016/07/my-favorite-database-shirts.html)
 <!--END_SECTION:hn-->
 
 <!--
