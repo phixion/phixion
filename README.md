@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 26 - [HP says I should have known its £399 laptop bargain was too good to be true](https://www.theguardian.com/money/2023/nov/23/hp-says-i-should-have-known-its-399-laptop-bargain-was-too-good-to-be-true)
-- Nov 26 - [Does GPT-4 Pass the Turing Test?](https://arxiv.org/abs/2310.20216)
-- Nov 26 - [Fish – Update on the Rust Port](https://github.com/fish-shell/fish-shell/discussions/10123)
-- Nov 26 - [PipeWire 1.0.0](https://gitlab.freedesktop.org/pipewire/pipewire/-/releases/1.0.0)
-- Nov 26 - [Titled Tuesday [Chess] Cheating](https://dorianquelle.github.io/blog/How-To-Catch-Smart-Cheaters/)
+- Nov 26 - [Cisco aids Ukraine defense with modified switches to counter Russian attacks](https://www.itworldcanada.com/post/cisco-aids-ukraine-in-cyber-defense-with-modified-switches-to-counter-russian-attacks)
+- Nov 26 - [The N.Y.P.D. Is Upgrading Its Radios. The Public Won't Be Able to Tune In.](https://www.nytimes.com/2023/11/19/nyregion/nypd-police-scanner-radio.html)
+- Nov 26 - [The Death of a Relic Hunter](https://www.newyorker.com/news/letter-from-the-south/the-death-of-a-relic-hunter)
+- Nov 26 - [Yann LeCun on why AI must be open source [video]](https://www.youtube.com/watch?v=EGDG3hgPNp8)
+- Nov 26 - [Build Your Own Hi-Fi Ear Defenders](https://spectrum.ieee.org/hi-fi-ear-defenders)
 <!--END_SECTION:hn-->
 
 <!--
