@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 27 - [Brother [printers] have gotten to where they are now, by NOT innovating](https://retro.social/@ifixcoinops/111480744130939877)
-- Nov 27 - [No-Bullshit Games](https://nobsgames.stavros.io/)
-- Nov 27 - [Show HN: I built a guided Build your own DNS Server challenge](https://app.codecrafters.io/courses/dns-server/overview)
-- Nov 27 - [Getting Started with Orca-2-13B](https://www.secondstate.io/articles/orca-2-13b/)
-- Nov 27 - [Google Drive files suddenly disappeared](https://support.google.com/drive/thread/245055606/google-drive-files-suddenly-disappeared-the-drive-literally-went-back-to-condition-in-may-2023?hl=en)
+- Nov 27 - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
+- Nov 27 - [Tesla sues Swedish state agency over number plate blockage](https://www.thelocal.se/20231127/tesla-sues-swedish-transport-agency-over-number-plate-blockage)
+- Nov 27 - [German Autobahn speed limit would bring €1bn in benefits](https://www.carbonbrief.org/autobahn-speed-limit-would-cut-carbon-and-bring-e1bn-in-benefits-study-says/)
+- Nov 27 - [Tata Consultancy Services ordered to cough up $210M in code theft trial](https://www.theregister.com/2023/11/24/tata_210m_code_theft/)
+- Nov 27 - [Ransomware-hit British Library: Too open for business, or not open enough?](https://www.theregister.com/2023/11/27/british_library_opinion_column/)
 <!--END_SECTION:hn-->
 
 <!--
