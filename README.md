@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 26 - [Cisco aids Ukraine defense with modified switches to counter Russian attacks](https://www.itworldcanada.com/post/cisco-aids-ukraine-in-cyber-defense-with-modified-switches-to-counter-russian-attacks)
-- Nov 26 - [The N.Y.P.D. Is Upgrading Its Radios. The Public Won't Be Able to Tune In.](https://www.nytimes.com/2023/11/19/nyregion/nypd-police-scanner-radio.html)
-- Nov 26 - [The Death of a Relic Hunter](https://www.newyorker.com/news/letter-from-the-south/the-death-of-a-relic-hunter)
-- Nov 26 - [Yann LeCun on why AI must be open source [video]](https://www.youtube.com/watch?v=EGDG3hgPNp8)
-- Nov 26 - [Build Your Own Hi-Fi Ear Defenders](https://spectrum.ieee.org/hi-fi-ear-defenders)
+- Nov 27 - [Americans think the American dream is dying](https://www.axios.com/2023/11/25/american-dream-poll-wealth-inequality)
+- Nov 27 - [Beej's Guide to Interprocess Communication](https://beej.us/guide/bgipc/html/)
+- Nov 27 - [Pixel 8 Pro owners complain about display bumps](https://me.mashable.com/mobile/35238/pixel-8-pro-owners-complain-about-display-bumps-google-says-there-is-no-functional-impact)
+- Nov 27 - [Reading List for Andrej Karpathy's "Intro to Large Language Models" Video](https://blog.oxen.ai/reading-list-for-andrej-karpathys-intro-to-large-language-models-video/)
+- Nov 27 - [LaTeX Talks from the Tug Conference 2023 in Bonn](https://www.latex-project.org/news/2023/11/25/TUG-online-talks-2023/)
 <!--END_SECTION:hn-->
 
 <!--
