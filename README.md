@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 27 - [How could Al Bundy afford a house when he was making minimum wage?](https://old.reddit.com/r/AskHistorians/comments/ggozng/in_the_sitcom_married_with_children_protagonist/)
-- Nov 27 - [After 151 years, Popular Science will no longer offer a magazine](https://www.theverge.com/2023/11/27/23978042/popular-science-digital-magazine-discontinued)
-- Nov 27 - [Shein Files for U.S. IPO](https://www.cnbc.com/2023/11/27/shein-files-for-us-ipo-as-fast-fashion-giant-looks-to-expand-its-global-reach.html)
-- Nov 27 - [Range Energy's electric trailer can improve semi-truck mpg by 36%](https://electrek.co/2023/11/27/range-energys-electric-trailer-can-improve-semi-truck-mpg-by-36/)
-- Nov 27 - [Let's try to understand AI monosemanticity](https://www.astralcodexten.com/p/god-help-us-lets-try-to-understand)
+- Nov 28 - [The `hanging-punctuation property` in CSS](https://chriscoyier.net/2023/11/27/the-hanging-punctuation-property-in-css/)
+- Nov 28 - [New Outlook is good, both for yourself and 766 third parties](https://godforsaken.website/@Shrigglepuss/111482466182637440)
+- Nov 28 - [RPG Engine for the Nintendo 64](https://github.com/breadbored/N64-RPG)
+- Nov 28 - [Show HN: SwaraNotebook – a notation editor for Indian classical music](https://swaranotebook.com/)
+- Nov 28 - [Etleap (YC W13) Is Hiring a Software Engineer (London – OR – San Francisco)](https://etleap.com/careers/software-engineer/)
 <!--END_SECTION:hn-->
 
 <!--
