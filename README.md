@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 28 - [Court: Cloudflare Is Liable for Pirate Site, but Not as a DNS Provider](https://torrentfreak.com/court-cloudflare-is-liable-for-pirate-site-but-not-as-a-dns-provider-231127/)
-- Nov 28 - [PeerTube v6 is out, and powered by your ideas](https://framablog.org/2023/11/28/peertube-v6-is-out-and-powered-by-your-ideas/)
-- Nov 28 - [Ask HN: Is Knuth's TAOCP worth the time and effort? (2023)](https://news.ycombinator.com/item?id=38443668)
-- Nov 28 - [The Hunt for Life in Alpha Centauri](https://daily.jstor.org/the-hunt-for-life-in-alpha-centauri/)
-- Nov 28 - [Designing a SIMD Algorithm from Scratch](https://mcyoung.xyz/2023/11/27/simd-base64/)
+- Nov 28 - [Google's new geothermal energy project is up and running](https://www.theverge.com/2023/11/28/23972940/google-data-center-geothermal-energy)
+- Nov 28 - [How to Read a Paper [pdf]](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
+- Nov 28 - [Keras 3.0](https://keras.io/keras_3/)
+- Nov 28 - [Hackers spent 2 years looting secrets of chipmaker NXP before being detected](https://arstechnica.com/security/2023/11/hackers-spent-2-years-looting-secrets-of-chipmaker-nxp-before-being-detected/)
+- Nov 28 - [General Availability of the AWS SDK for Rust](https://aws.amazon.com/blogs/developer/announcing-general-availability-of-the-aws-sdk-for-rust/)
 <!--END_SECTION:hn-->
 
 <!--
