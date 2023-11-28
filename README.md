@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 28 - [Noyb files GDPR complaint against Meta over "Pay or Okay"](https://noyb.eu/en/noyb-files-gdpr-complaint-against-meta-over-pay-or-okay)
+- Nov 28 - [Court: Cloudflare Is Liable for Pirate Site, but Not as a DNS Provider](https://torrentfreak.com/court-cloudflare-is-liable-for-pirate-site-but-not-as-a-dns-provider-231127/)
+- Nov 28 - [PeerTube v6 is out, and powered by your ideas](https://framablog.org/2023/11/28/peertube-v6-is-out-and-powered-by-your-ideas/)
+- Nov 28 - [Ask HN: Is Knuth's TAOCP worth the time and effort? (2023)](https://news.ycombinator.com/item?id=38443668)
+- Nov 28 - [The Hunt for Life in Alpha Centauri](https://daily.jstor.org/the-hunt-for-life-in-alpha-centauri/)
 - Nov 28 - [Designing a SIMD Algorithm from Scratch](https://mcyoung.xyz/2023/11/27/simd-base64/)
-- Nov 28 - [Simplifying Transformer Blocks](https://arxiv.org/abs/2311.01906)
-- Nov 28 - [Semaglutide treatment associated with high reduction in Alcohol Use Disorder](https://www.eurekalert.org/news-releases/1009292)
-- Nov 28 - [That time Verisign typo-squatted all of .com and .net](http://rachelbythebay.com/w/2023/11/27/sitefinder/)
 <!--END_SECTION:hn-->
 
 <!--
