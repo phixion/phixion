@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 28 - [The `hanging-punctuation property` in CSS](https://chriscoyier.net/2023/11/27/the-hanging-punctuation-property-in-css/)
-- Nov 28 - [New Outlook is good, both for yourself and 766 third parties](https://godforsaken.website/@Shrigglepuss/111482466182637440)
-- Nov 28 - [RPG Engine for the Nintendo 64](https://github.com/breadbored/N64-RPG)
-- Nov 28 - [Show HN: SwaraNotebook – a notation editor for Indian classical music](https://swaranotebook.com/)
-- Nov 28 - [Etleap (YC W13) Is Hiring a Software Engineer (London – OR – San Francisco)](https://etleap.com/careers/software-engineer/)
+- Nov 28 - [Noyb files GDPR complaint against Meta over "Pay or Okay"](https://noyb.eu/en/noyb-files-gdpr-complaint-against-meta-over-pay-or-okay)
+- Nov 28 - [Designing a SIMD Algorithm from Scratch](https://mcyoung.xyz/2023/11/27/simd-base64/)
+- Nov 28 - [Simplifying Transformer Blocks](https://arxiv.org/abs/2311.01906)
+- Nov 28 - [Semaglutide treatment associated with high reduction in Alcohol Use Disorder](https://www.eurekalert.org/news-releases/1009292)
+- Nov 28 - [That time Verisign typo-squatted all of .com and .net](http://rachelbythebay.com/w/2023/11/27/sitefinder/)
 <!--END_SECTION:hn-->
 
 <!--
