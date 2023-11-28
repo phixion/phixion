@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 28 - [Google's new geothermal energy project is up and running](https://www.theverge.com/2023/11/28/23972940/google-data-center-geothermal-energy)
-- Nov 28 - [How to Read a Paper [pdf]](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
-- Nov 28 - [Keras 3.0](https://keras.io/keras_3/)
-- Nov 28 - [Hackers spent 2 years looting secrets of chipmaker NXP before being detected](https://arstechnica.com/security/2023/11/hackers-spent-2-years-looting-secrets-of-chipmaker-nxp-before-being-detected/)
-- Nov 28 - [General Availability of the AWS SDK for Rust](https://aws.amazon.com/blogs/developer/announcing-general-availability-of-the-aws-sdk-for-rust/)
+- Nov 28 - [OpenAI: Increased errors across API and ChatGPT](https://status.openai.com/incidents/q58417g6n5r7)
+- Nov 28 - [Most AI startups are doomed](https://weightythoughts.com/p/most-ai-startups-are-doomed)
+- Nov 28 - [Company founded by University of Bristol develops revolutionary fusion reactor](https://www.bristol.ac.uk/news/2023/november/astral-fusion-reactor.html)
+- Nov 28 - [S3 Express Is All You Need](https://www.warpstream.com/blog/s3-express-is-all-you-need)
+- Nov 28 - [Meditron: A suite of open-source medical Large Language Models](https://github.com/epfLLM/meditron)
 <!--END_SECTION:hn-->
 
 <!--
