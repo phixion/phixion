@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 28 - [OpenAI: Increased errors across API and ChatGPT](https://status.openai.com/incidents/q58417g6n5r7)
-- Nov 28 - [Most AI startups are doomed](https://weightythoughts.com/p/most-ai-startups-are-doomed)
-- Nov 28 - [Company founded by University of Bristol develops revolutionary fusion reactor](https://www.bristol.ac.uk/news/2023/november/astral-fusion-reactor.html)
-- Nov 28 - [S3 Express Is All You Need](https://www.warpstream.com/blog/s3-express-is-all-you-need)
-- Nov 28 - [Meditron: A suite of open-source medical Large Language Models](https://github.com/epfLLM/meditron)
+- Nov 29 - [Facebook Approved Israeli Ad Calling for Assassination of Pro-Palestine Activist](https://theintercept.com/2023/11/21/facebook-ad-israel-palestine-violence/)
+- Nov 28 - [How scientists are trying to save the insects that make life possible](https://www.npr.org/2023/11/28/1215513285/how-scientists-are-trying-to-save-the-insects-that-make-life-possible)
+- Nov 28 - [My $500M Mars Rover Mistake: A Failure Story](https://www.chrislewicki.com/articles/failurestory)
+- Nov 28 - [Apple pulls plug on Goldman credit-card partnership](https://www.wsj.com/finance/banking/apple-pulls-plug-on-goldman-credit-card-partnership-ca1dfb45)
+- Nov 28 - [Shutting down the Matrix bridge to Libera chat](https://matrix.org/blog/2023/11/28/shutting-down-bridge-to-libera-chat/)
 <!--END_SECTION:hn-->
 
 <!--
