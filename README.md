@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 29 - [Convictional (YC W19) Is Hiring](https://jobs.ashbyhq.com/convictional/e96f8d12-906d-4bfb-8d87-08017ae5cc91)
-- Nov 29 - [Architecture Antipatterns](https://architecture-antipatterns.tech/)
-- Nov 29 - [Open source email pioneer Roundcube joins the Nextcloud family](https://nextcloud.com/blog/open-source-email-pioneer-roundcube-comes-aboard-nextcloud/)
-- Nov 29 - [Freetar – an alternative front end for ultimate-guitar.com](https://github.com/kmille/freetar)
-- Nov 29 - [Rust std fs slower than Python](https://xuanwo.io/2023/04-rust-std-fs-slower-than-python/)
+- Nov 29 - [Rolls-Royce calls off bets on electric planes, says low-carbon fuel is future](https://electrek.co/2023/11/29/rolls-royce-calls-off-bets-on-electric-planes-says-low-carbon-fuel-is-the-future/)
+- Nov 29 - [Oral History of Robert P. Colwell – Chief Architect for Intel's IA32 [pdf]](https://www.sigmicro.org/media/oralhistories/colwell.pdf)
+- Nov 29 - [MusicXML](https://www.musicxml.com/)
+- Nov 29 - [Meta sued by privacy group over pay up or click OK model](https://www.theregister.com/2023/11/28/metas_eu_privacy_fee_triggers/)
+- Nov 29 - [Paperless-Ngx v2.0.0](https://github.com/paperless-ngx/paperless-ngx/releases/tag/v2.0.0)
 <!--END_SECTION:hn-->
 
 <!--
