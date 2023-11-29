@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 29 - [Facebook Approved Israeli Ad Calling for Assassination of Pro-Palestine Activist](https://theintercept.com/2023/11/21/facebook-ad-israel-palestine-violence/)
-- Nov 28 - [How scientists are trying to save the insects that make life possible](https://www.npr.org/2023/11/28/1215513285/how-scientists-are-trying-to-save-the-insects-that-make-life-possible)
-- Nov 28 - [My $500M Mars Rover Mistake: A Failure Story](https://www.chrislewicki.com/articles/failurestory)
-- Nov 28 - [Apple pulls plug on Goldman credit-card partnership](https://www.wsj.com/finance/banking/apple-pulls-plug-on-goldman-credit-card-partnership-ca1dfb45)
-- Nov 28 - [Shutting down the Matrix bridge to Libera chat](https://matrix.org/blog/2023/11/28/shutting-down-bridge-to-libera-chat/)
+- Nov 29 - [It's All Bullshit: Performing Productivity at Google](https://thebaffler.com/latest/its-all-bullshit-tan)
+- Nov 29 - [Shopify Ruby on Rails distributed monolith runs 19M queries per second on MySQL](https://twitter.com/ShopifyEng/status/1729500623773573265)
+- Nov 29 - [Okta Says Hackers Stole Data for All Customer Support Users](https://www.bloomberg.com/news/articles/2023-11-29/okta-says-hackers-stole-data-for-all-customer-support-users)
+- Nov 29 - [Wozmon for x86-64](https://github.com/IanSeyler/wozmon_x86-64)
+- Nov 29 - [Cyberattack – November 2023](https://www.blender.org/news/cyberattack-november-2023/)
 <!--END_SECTION:hn-->
 
 <!--
