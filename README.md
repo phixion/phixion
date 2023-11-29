@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 29 - [It's All Bullshit: Performing Productivity at Google](https://thebaffler.com/latest/its-all-bullshit-tan)
+- Nov 29 - [A rural post office was told to prioritize Amazon packages. Chaos ensued](https://www.washingtonpost.com/technology/2023/11/28/amazon-missed-mail-rural-towns/)
+- Nov 29 - [It's Still Funny That 1k People Gave Tesla $250k for a Roadster Six Years Ago](https://jalopnik.com/its-still-very-funny-that-1-000-people-gave-tesla-250-1851038764)
+- Nov 29 - [Unity Software with a 'company reset' walks away from film VFX and the Wētā Deal](https://www.fxguide.com/quicktakes/unity-software-with-a-company-reset-walks-away-from-film-vfx-and-the-weta-deal/)
+- Nov 29 - [An ex-Googler's guide to dev tools (2020)](https://sourcegraph.com/blog/ex-googler-guide-dev-tools)
 - Nov 29 - [Shopify Ruby on Rails distributed monolith runs 19M queries per second on MySQL](https://twitter.com/ShopifyEng/status/1729500623773573265)
-- Nov 29 - [Okta Says Hackers Stole Data for All Customer Support Users](https://www.bloomberg.com/news/articles/2023-11-29/okta-says-hackers-stole-data-for-all-customer-support-users)
-- Nov 29 - [Wozmon for x86-64](https://github.com/IanSeyler/wozmon_x86-64)
-- Nov 29 - [Cyberattack – November 2023](https://www.blender.org/news/cyberattack-november-2023/)
 <!--END_SECTION:hn-->
 
 <!--
