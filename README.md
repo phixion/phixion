@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 30 - [Airbnb's Silent Killer](https://www.nbcnews.com/tech/tech-news/airbnb-carbon-monoxide-poisonings-detectors-rcna105634)
-- Nov 30 - [Astronomers find six planets orbiting in resonance](https://www.astronomy.com/science/astronomers-find-six-planets-orbiting-in-resonance/)
-- Nov 30 - [The University of California has all but dropped carbon offsets](https://www.technologyreview.com/2023/11/30/1084104/the-university-of-california-has-all-but-dropped-carbon-offsets-and-thinks-you-should-too/)
-- Nov 30 - [Proxmox VE Helper-Scripts – Scripts for Streamlining Your Homelab with Proxmox](https://tteck.github.io/Proxmox/)
-- Nov 30 - [Yabai – A tiling window manager for macOS](https://github.com/koekeishiya/yabai)
+- Nov 30 - [Chicken Hypnotism](https://en.wikipedia.org/wiki/Chicken_hypnotism)
+- Nov 30 - [Visual Anagrams: Generating Optical Illusions with Diffusion Models](https://dangeng.github.io/visual_anagrams/)
+- Nov 30 - [Accelerating Generative AI with PyTorch II: GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)
+- Nov 30 - [The weirdest bug I've seen yet](https://engineering.gusto.com/the-weirdest-bug-ive-seen-yet/)
+- Nov 30 - [You do need a technical co-founder](https://www.ycombinator.com/blog/why-you-really-do-need-a-technical-co-founder/)
 <!--END_SECTION:hn-->
 
 <!--
