@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 30 - [Can Generalist Foundation Models Beat Special-Purpose Tuning?Medicine Case Study](https://arxiv.org/abs/2311.16452)
-- Nov 30 - [In OpenZFS and Btrfs, everyone was just guessing](https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/1424461-openzfs-is-still-battling-a-data-corruption-issue/page2)
-- Nov 30 - [Ripgrep is faster than grep, ag, Git grep, ucg, pt, sift (2016)](https://blog.burntsushi.net/ripgrep/)
-- Nov 30 - [I worked in Amazon HR and was disgusted at what I was seeing with PIP plans](https://www.businessinsider.com/amazon-hr-performance-improvement-plans-pip-pivot-had-to-quit-2023-11)
-- Nov 30 - [XCurl](https://daniel.haxx.se/blog/2023/11/30/xcurl/)
+- Nov 30 - [Airbnb's Silent Killer](https://www.nbcnews.com/tech/tech-news/airbnb-carbon-monoxide-poisonings-detectors-rcna105634)
+- Nov 30 - [Astronomers find six planets orbiting in resonance](https://www.astronomy.com/science/astronomers-find-six-planets-orbiting-in-resonance/)
+- Nov 30 - [The University of California has all but dropped carbon offsets](https://www.technologyreview.com/2023/11/30/1084104/the-university-of-california-has-all-but-dropped-carbon-offsets-and-thinks-you-should-too/)
+- Nov 30 - [Proxmox VE Helper-Scripts – Scripts for Streamlining Your Homelab with Proxmox](https://tteck.github.io/Proxmox/)
+- Nov 30 - [Yabai – A tiling window manager for macOS](https://github.com/koekeishiya/yabai)
 <!--END_SECTION:hn-->
 
 <!--
