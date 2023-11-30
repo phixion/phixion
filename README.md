@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 29 - [The End Of History: Academic historians are destroying their own discipline](https://www.ian-leslie.com/p/the-end-of-history)
-- Nov 29 - [Loongson releases next-generation CPU](https://www.ecns.cn/news/sci-tech/2023-11-29/detail-ihcvixpi0428703.shtml)
-- Nov 29 - [Amazon Unveils Graviton4: A 96-Core ARM CPU with 536.7 GBps Memory Bandwidth](https://www.anandtech.com/show/21172/amazon-unveils-graviton4-a-96core-cpu-with-5367-gbs-memory-bandwidth)
-- Nov 29 - [Jerry (YC S17) Is Hiring VP Product (& Other Engineer and PM Roles)](https://jobs.ashbyhq.com/Jerry/921d3846-04e1-4430-a515-b91192a4993c)
-- Nov 29 - [The Unix-Haters Handbook (1994) [pdf]](https://web.mit.edu/~simsong/www/ugh.pdf)
+- Nov 30 - [Interview: Sam Altman on being fired and rehired by OpenAI](https://www.theverge.com/2023/11/29/23982046/sam-altman-interview-openai-ceo-rehired)
+- Nov 30 - [U.S. GDP Grew at a 5.2% Rate in the Third Quarter, Even Stronger Than Indicated](https://www.cnbc.com/2023/11/29/us-gdp-grew-at-a-5point2percent-rate-in-the-third-quarter-even-stronger-than-first-indicated.html)
+- Nov 30 - [Henry Kissinger Has Died](https://www.bbc.com/news/world-us-canada-67574495)
+- Nov 30 - [Sam Altman returns as CEO, OpenAI has a new initial board](https://openai.com/blog/sam-altman-returns-as-ceo-openai-has-a-new-initial-board)
+- Nov 29 - [Understanding rapid tendon regeneration in newts may one day help human athletes](https://bioengineer.org/understanding-rapid-tendon-regeneration-in-newts-may-one-day-help-human-athletes/)
 <!--END_SECTION:hn-->
 
 <!--
