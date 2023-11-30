@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Nov 30 - [Go Ninja - 4,999,001 breached accounts](https://haveibeenpwned.com/PwnedWebsites#GoNinja)
 - Nov 29 - [Estante Virtual - 5,412,603 breached accounts](https://haveibeenpwned.com/PwnedWebsites#EstanteVirtual)
 - Nov 29 - [Bleach Anime Forum - 143,711 breached accounts](https://haveibeenpwned.com/PwnedWebsites#BleachAnime)
 - Nov 27 - [IndiHome - 12,629,245 breached accounts](https://haveibeenpwned.com/PwnedWebsites#IndiHome)
 - Nov 27 - [Jam Tangan - 434,784 breached accounts](https://haveibeenpwned.com/PwnedWebsites#JamTangan)
-- Nov 24 - [KitchenPal - 98,726 breached accounts](https://haveibeenpwned.com/PwnedWebsites#KitchenPal)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 30 - [Losing Metaphors: Zip and Paste](https://www.jefftk.com/p/losing-metaphors-zip-and-paste)
-- Nov 30 - [Henry Kissinger Has Died](https://www.nytimes.com/2023/11/29/us/henry-kissinger-dead.html)
-- Nov 30 - [Sam Altman returns as CEO, OpenAI has a new initial board](https://openai.com/blog/sam-altman-returns-as-ceo-openai-has-a-new-initial-board)
-- Nov 29 - [Ballerburg SDL – Play classical castle combat game from 1987 in the browser](https://baller.tuxfamily.org/online/)
-- Nov 29 - [Loongson releases next-generation CPU](https://www.ecns.cn/news/sci-tech/2023-11-29/detail-ihcvixpi0428703.shtml)
+- Nov 30 - [Can Generalist Foundation Models Beat Special-Purpose Tuning?Medicine Case Study](https://arxiv.org/abs/2311.16452)
+- Nov 30 - [In OpenZFS and Btrfs, everyone was just guessing](https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/1424461-openzfs-is-still-battling-a-data-corruption-issue/page2)
+- Nov 30 - [Ripgrep is faster than grep, ag, Git grep, ucg, pt, sift (2016)](https://blog.burntsushi.net/ripgrep/)
+- Nov 30 - [I worked in Amazon HR and was disgusted at what I was seeing with PIP plans](https://www.businessinsider.com/amazon-hr-performance-improvement-plans-pip-pivot-had-to-quit-2023-11)
+- Nov 30 - [XCurl](https://daniel.haxx.se/blog/2023/11/30/xcurl/)
 <!--END_SECTION:hn-->
 
 <!--
