@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Nov 29 - [Estante Virtual - 5,412,603 breached accounts](https://haveibeenpwned.com/PwnedWebsites#EstanteVirtual)
 - Nov 29 - [Bleach Anime Forum - 143,711 breached accounts](https://haveibeenpwned.com/PwnedWebsites#BleachAnime)
 - Nov 27 - [IndiHome - 12,629,245 breached accounts](https://haveibeenpwned.com/PwnedWebsites#IndiHome)
 - Nov 27 - [Jam Tangan - 434,784 breached accounts](https://haveibeenpwned.com/PwnedWebsites#JamTangan)
 - Nov 24 - [KitchenPal - 98,726 breached accounts](https://haveibeenpwned.com/PwnedWebsites#KitchenPal)
-- Nov 20 - [OMGPOP - 7,071,293 breached accounts](https://haveibeenpwned.com/PwnedWebsites#OMGPOP)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 29 - [Write shaders for the (sim) Vegas sphere](https://whenistheweekend.com/theSphere.html)
-- Nov 29 - [Together AI raises a $102.5M Series A](https://www.together.ai/blog/series-a)
-- Nov 29 - [Show HN: Custom GPTs for Developers](https://chat.openai.com/g/g-91MAzeHrG-tsdoc-generator)
-- Nov 29 - [Visualizing Pokémon Red and Blue Connections (2020)](http://peterhajas.com/blog/pokemon_rb_connections.html)
-- Nov 29 - [What should I do if I suspect one of the journal reviews I got is AI-generated?](https://academia.stackexchange.com/questions/204370/what-should-i-do-if-i-suspect-one-of-the-journal-reviews-i-got-is-al-generated)
+- Nov 29 - [The End Of History: Academic historians are destroying their own discipline](https://www.ian-leslie.com/p/the-end-of-history)
+- Nov 29 - [Loongson releases next-generation CPU](https://www.ecns.cn/news/sci-tech/2023-11-29/detail-ihcvixpi0428703.shtml)
+- Nov 29 - [Amazon Unveils Graviton4: A 96-Core ARM CPU with 536.7 GBps Memory Bandwidth](https://www.anandtech.com/show/21172/amazon-unveils-graviton4-a-96core-cpu-with-5367-gbs-memory-bandwidth)
+- Nov 29 - [Jerry (YC S17) Is Hiring VP Product (& Other Engineer and PM Roles)](https://jobs.ashbyhq.com/Jerry/921d3846-04e1-4430-a515-b91192a4993c)
+- Nov 29 - [The Unix-Haters Handbook (1994) [pdf]](https://web.mit.edu/~simsong/www/ugh.pdf)
 <!--END_SECTION:hn-->
 
 <!--
