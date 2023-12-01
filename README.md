@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 01 - [My insulin pump controller has a bug](https://twitter.com/morganherlocker/status/1730455721815527429)
-- Dec 01 - [10 Weird HTML Hacks That Shaped the Internet](https://tedium.co/2023/11/24/weird-html-hacks-history/)
-- Dec 01 - [99 Years of Charlie Munger Wisdom in 44 Minutes [video]](https://www.youtube.com/watch?v=ySErrOs093o)
-- Dec 01 - [Federal judge blocks Montana's TikTok ban before it takes effect](https://www.npr.org/2023/11/30/1205735647/montana-tiktok-ban-blocked-state)
-- Dec 01 - [Segment Anything Model (Sam) Visualized](https://flowforward.simple.ink/)
+- Dec 01 - [Apple's chip lab, home to the most 'profound change' in decades](https://www.cnbc.com/2023/12/01/how-apple-makes-its-own-chips-for-iphone-and-mac-edging-out-intel.html)
+- Dec 01 - [Seamless: Meta's New Speech Models](https://ai.meta.com/research/seamless-communication/)
+- Dec 01 - [The Persistent Myth That Most Americans Are Miserable at Work](https://www.theatlantic.com/ideas/archive/2023/12/great-resignation-myth-polls/676189/)
+- Dec 01 - [Return to office is 'dead,' Stanford economist says](https://www.cnbc.com/2023/11/30/return-to-office-is-dead-stanford-economist-says-heres-why.html)
+- Dec 01 - ["Useless Ruby sugar": Endless (one-line) methods](https://zverok.space/blog/2023-12-01-syntax-sugar5-endless-methods.html)
 <!--END_SECTION:hn-->
 
 <!--
