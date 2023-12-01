@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 01 - [Show HN: Australian Acoustic Observatory Search](https://search.acousticobservatory.org/)
-- Dec 01 - [The Stroad](https://www.strongtowns.org/journal/2017/10/30/the-stroad)
-- Dec 01 - [Anduril announces Roadrunner, jet-powered VTOL drone](https://www.anduril.com/roadrunner/)
-- Dec 01 - [Code is run more than read](https://olano.dev/2023-11-30-code-is-run-more-than-read/)
-- Dec 01 - [How to pick more beautiful colors for your data visualizations (2020)](https://blog.datawrapper.de/beautifulcolors/)
+- Dec 01 - [My insulin pump controller has a bug](https://twitter.com/morganherlocker/status/1730455721815527429)
+- Dec 01 - [10 Weird HTML Hacks That Shaped the Internet](https://tedium.co/2023/11/24/weird-html-hacks-history/)
+- Dec 01 - [99 Years of Charlie Munger Wisdom in 44 Minutes [video]](https://www.youtube.com/watch?v=ySErrOs093o)
+- Dec 01 - [Federal judge blocks Montana's TikTok ban before it takes effect](https://www.npr.org/2023/11/30/1205735647/montana-tiktok-ban-blocked-state)
+- Dec 01 - [Segment Anything Model (Sam) Visualized](https://flowforward.simple.ink/)
 <!--END_SECTION:hn-->
 
 <!--
