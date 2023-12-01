@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 01 - [Apple's chip lab, home to the most 'profound change' in decades](https://www.cnbc.com/2023/12/01/how-apple-makes-its-own-chips-for-iphone-and-mac-edging-out-intel.html)
-- Dec 01 - [Seamless: Meta's New Speech Models](https://ai.meta.com/research/seamless-communication/)
-- Dec 01 - [The Persistent Myth That Most Americans Are Miserable at Work](https://www.theatlantic.com/ideas/archive/2023/12/great-resignation-myth-polls/676189/)
-- Dec 01 - [Return to office is 'dead,' Stanford economist says](https://www.cnbc.com/2023/11/30/return-to-office-is-dead-stanford-economist-says-heres-why.html)
-- Dec 01 - ["Useless Ruby sugar": Endless (one-line) methods](https://zverok.space/blog/2023-12-01-syntax-sugar5-endless-methods.html)
+- Dec 01 - [What Is Retrieval-Augmented Generation a.k.a. RAG?](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/)
+- Dec 01 - [Salad Fingers and the dawn of ‘weird YouTube’](https://theconversation.com/salad-fingers-wasnt-just-strange-it-was-art-heres-how-its-still-influencing-the-weird-part-of-youtube-2-decades-on-216911)
+- Dec 01 - [Automakers must build cheaper, smaller EVs to spur adoption, report says](https://arstechnica.com/cars/2023/12/automakers-must-build-cheaper-smaller-evs-to-spur-adoption-report-says/)
+- Dec 01 - [Ask HN: Who is hiring? (December 2023)](https://news.ycombinator.com/item?id=38490811)
+- Dec 01 - [Ask HN: Freelancer? Seeking freelancer? (December 2023)](https://news.ycombinator.com/item?id=38490810)
 <!--END_SECTION:hn-->
 
 <!--
