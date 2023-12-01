@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 30 - [Chicken Hypnotism](https://en.wikipedia.org/wiki/Chicken_hypnotism)
-- Nov 30 - [Visual Anagrams: Generating Optical Illusions with Diffusion Models](https://dangeng.github.io/visual_anagrams/)
-- Nov 30 - [Accelerating Generative AI with PyTorch II: GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)
-- Nov 30 - [The weirdest bug I've seen yet](https://engineering.gusto.com/the-weirdest-bug-ive-seen-yet/)
-- Nov 30 - [You do need a technical co-founder](https://www.ycombinator.com/blog/why-you-really-do-need-a-technical-co-founder/)
+- Nov 30 - [Broadcom to Cut Almost 1,300 VMware Jobs in California After Takeover](https://www.bloomberg.com/news/articles/2023-11-30/broadcom-to-cut-almost-1-300-vmware-jobs-in-california-after-takeover)
+- Nov 30 - [Tesla Cybertruck Pricing and Specs](https://www.tesla.com/cybertruck/design)
+- Nov 30 - [Compiler Options Hardening Guide for C and C++](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
+- Nov 30 - [Retro.directory](http://retro.directory/)
+- Nov 30 - [How I made Bomb Rush Cyberfunk multiplayer](https://notnite.com/blog/slop-crew)
 <!--END_SECTION:hn-->
 
 <!--
