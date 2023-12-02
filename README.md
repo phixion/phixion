@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 02 - [Emerge (YC W21) is hiring a Senior Android Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-android-engineer)
+- Dec 02 - [You don't need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
+- Dec 02 - [Show HN: Advent of Code CLI](https://github.com/tobias-walle/advent-of-code-cli)
 - Dec 02 - [Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/abs/2311.17035)
-- Dec 02 - [Review: A Dive into MikroTik's Weird SmartNIC (CCR2004-1G-2XS-PCIe)](https://alyx.sh/posts/mikrotiks-weird-smartnic/)
-- Dec 02 - [Researchers create humanitarian law digital emblem for the Red Cross](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/digital-emblem-for-humanitarian-law-in-cyberspace.html)
-- Dec 02 - [COP28: Countries launch declaration to triple nuclear energy by 2050](https://www.energy.gov/articles/cop28-countries-launch-declaration-triple-nuclear-energy-capacity-2050-recognizing-key)
-- Dec 02 - [Advent of Code 2023 Day 2: Cube Conundrum](https://adventofcode.com/2023/day/2)
+- Dec 02 - [Designing a Distributed SQL Engine: Challenges and Decisions](https://en.oceanbase.com/blog/2596985600)
 <!--END_SECTION:hn-->
 
 <!--
