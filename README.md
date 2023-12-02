@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 01 - [What Is Retrieval-Augmented Generation a.k.a. RAG?](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/)
-- Dec 01 - [Salad Fingers and the dawn of ‘weird YouTube’](https://theconversation.com/salad-fingers-wasnt-just-strange-it-was-art-heres-how-its-still-influencing-the-weird-part-of-youtube-2-decades-on-216911)
-- Dec 01 - [Automakers must build cheaper, smaller EVs to spur adoption, report says](https://arstechnica.com/cars/2023/12/automakers-must-build-cheaper-smaller-evs-to-spur-adoption-report-says/)
-- Dec 01 - [Ask HN: Who is hiring? (December 2023)](https://news.ycombinator.com/item?id=38490811)
-- Dec 01 - [Ask HN: Freelancer? Seeking freelancer? (December 2023)](https://news.ycombinator.com/item?id=38490810)
+- Dec 01 - [Nothing Personal: How Ideas Made Derek Parfit](https://hedgehogreview.com/issues/markets-and-the-good/articles/nothing-personal)
+- Dec 01 - [Uber Joins the S&P 500](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-12-01-2023/card/uber-technologies-joins-the-s-p-500-JUPoBf8HFZP8ZeoZRZ6x)
+- Dec 01 - [300-year-old Tokyo comb company sells 30k-yen ($200) wooden hair combs](https://soranews24.com/2023/10/29/300-year-old-tokyo-comb-company-sells-30000-yen-wooden-hair-combs-are-they-worth-it/)
+- Dec 01 - [Britain's scariest libel firm can pursue anyone, anywhere](https://www.economist.com/1843/2023/12/01/britains-scariest-libel-firm-can-pursue-anyone-anywhere)
+- Dec 01 - [The skyhook solution](https://aeon.co/essays/space-junk-could-have-a-transcendent-purposeful-afterlife)
 <!--END_SECTION:hn-->
 
 <!--
