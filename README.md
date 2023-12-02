@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 02 - [Emerge (YC W21) is hiring a Senior Android Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-android-engineer)
-- Dec 02 - [You don't need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
-- Dec 02 - [Show HN: Advent of Code CLI](https://github.com/tobias-walle/advent-of-code-cli)
-- Dec 02 - [Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/abs/2311.17035)
-- Dec 02 - [Designing a Distributed SQL Engine: Challenges and Decisions](https://en.oceanbase.com/blog/2596985600)
+- Dec 02 - [Tell HN: EmacsConf Live Now](https://emacsconf.org)
+- Dec 02 - [Ask HN: What are some unpopular technologies you wish people knew more about?](https://news.ycombinator.com/item?id=38499134)
+- Dec 02 - [The more things go wrong, the more things going wrong](https://jakeseliger.com/2023/11/14/the-more-things-go-wrong-the-more-things-going-wrong/)
+- Dec 02 - [Is Ada safer than Rust?](https://old.reddit.com/r/rust/comments/17miqiu/is_ada_safer_than_rust/)
+- Dec 02 - [Tiger Global's Biggest Venture Fund Has 18% Loss After Markdowns](https://www.bloomberg.com/news/articles/2023-11-30/tiger-global-s-biggest-venture-fund-has-18-loss-after-markdowns)
 <!--END_SECTION:hn-->
 
 <!--
