@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 01 - [Nothing Personal: How Ideas Made Derek Parfit](https://hedgehogreview.com/issues/markets-and-the-good/articles/nothing-personal)
-- Dec 01 - [Uber Joins the S&P 500](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-12-01-2023/card/uber-technologies-joins-the-s-p-500-JUPoBf8HFZP8ZeoZRZ6x)
-- Dec 01 - [300-year-old Tokyo comb company sells 30k-yen ($200) wooden hair combs](https://soranews24.com/2023/10/29/300-year-old-tokyo-comb-company-sells-30000-yen-wooden-hair-combs-are-they-worth-it/)
-- Dec 01 - [Britain's scariest libel firm can pursue anyone, anywhere](https://www.economist.com/1843/2023/12/01/britains-scariest-libel-firm-can-pursue-anyone-anywhere)
-- Dec 01 - [The skyhook solution](https://aeon.co/essays/space-junk-could-have-a-transcendent-purposeful-afterlife)
+- Dec 02 - [Ozempic could change the economy as we know it](https://www.businessinsider.com/semaglutide-wegovy-ozempic-weight-loss-healthcare-airlines-economy-productivity-2023-11)
+- Dec 02 - [To protect kids, the EPA wants total removal of lead pipes](https://www.washingtonpost.com/climate-environment/2023/11/30/lead-pipe-poisoning-biden-epa/)
+- Dec 01 - [Nothing Personal: How ideas made Derek Parfit](https://hedgehogreview.com/issues/markets-and-the-good/articles/nothing-personal)
+- Dec 01 - [Deep Dive into the Vision Transformers Paper](https://blog.oxen.ai/arxiv-dives-vision-transformers-vit/)
+- Dec 01 - [Aging societies more vulnerable to collapse](https://santafe.edu/news-center/news/aging-societies-more-vulnerable-collapse#)
 <!--END_SECTION:hn-->
 
 <!--
