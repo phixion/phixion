@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 02 - [Tell HN: EmacsConf Live Now](https://emacsconf.org)
-- Dec 02 - [Ask HN: What are some unpopular technologies you wish people knew more about?](https://news.ycombinator.com/item?id=38499134)
-- Dec 02 - [The more things go wrong, the more things going wrong](https://jakeseliger.com/2023/11/14/the-more-things-go-wrong-the-more-things-going-wrong/)
-- Dec 02 - [Is Ada safer than Rust?](https://old.reddit.com/r/rust/comments/17miqiu/is_ada_safer_than_rust/)
-- Dec 02 - [Tiger Global's Biggest Venture Fund Has 18% Loss After Markdowns](https://www.bloomberg.com/news/articles/2023-11-30/tiger-global-s-biggest-venture-fund-has-18-loss-after-markdowns)
+- Dec 02 - [Show HN: Ambient scene builder – comfy, cozy, & ad-free on woolie.tv](https://www.woolie.tv/)
+- Dec 02 - [LLMs are a revolution in open source](https://the.scapegoat.dev/llms-are-a-revolution-in-open-source/)
+- Dec 02 - [Singing to babies is vital to help them learn language, say scientists](https://www.theguardian.com/science/2023/dec/01/singing-to-babies-is-vital-to-help-them-understand-language-say-scientists)
+- Dec 02 - [Porting Hare to OpenBSD](https://harelang.org/blog/2023-12-01-porting-hare-to-openbsd/)
+- Dec 02 - [Galactic Algorithm](https://en.wikipedia.org/wiki/Galactic_algorithm)
 <!--END_SECTION:hn-->
 
 <!--
