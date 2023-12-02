@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 02 - [Ozempic could change the economy as we know it](https://www.businessinsider.com/semaglutide-wegovy-ozempic-weight-loss-healthcare-airlines-economy-productivity-2023-11)
-- Dec 02 - [To protect kids, the EPA wants total removal of lead pipes](https://www.washingtonpost.com/climate-environment/2023/11/30/lead-pipe-poisoning-biden-epa/)
-- Dec 01 - [Nothing Personal: How ideas made Derek Parfit](https://hedgehogreview.com/issues/markets-and-the-good/articles/nothing-personal)
-- Dec 01 - [Deep Dive into the Vision Transformers Paper](https://blog.oxen.ai/arxiv-dives-vision-transformers-vit/)
-- Dec 01 - [Aging societies more vulnerable to collapse](https://santafe.edu/news-center/news/aging-societies-more-vulnerable-collapse#)
+- Dec 02 - [Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/abs/2311.17035)
+- Dec 02 - [Review: A Dive into MikroTik's Weird SmartNIC (CCR2004-1G-2XS-PCIe)](https://alyx.sh/posts/mikrotiks-weird-smartnic/)
+- Dec 02 - [Researchers create humanitarian law digital emblem for the Red Cross](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/digital-emblem-for-humanitarian-law-in-cyberspace.html)
+- Dec 02 - [COP28: Countries launch declaration to triple nuclear energy by 2050](https://www.energy.gov/articles/cop28-countries-launch-declaration-triple-nuclear-energy-capacity-2050-recognizing-key)
+- Dec 02 - [Advent of Code 2023 Day 2: Cube Conundrum](https://adventofcode.com/2023/day/2)
 <!--END_SECTION:hn-->
 
 <!--
