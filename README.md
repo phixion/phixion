@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 02 - [Show HN: Ambient scene builder – comfy, cozy, & ad-free on woolie.tv](https://www.woolie.tv/)
-- Dec 02 - [LLMs are a revolution in open source](https://the.scapegoat.dev/llms-are-a-revolution-in-open-source/)
-- Dec 02 - [Singing to babies is vital to help them learn language, say scientists](https://www.theguardian.com/science/2023/dec/01/singing-to-babies-is-vital-to-help-them-understand-language-say-scientists)
-- Dec 02 - [Porting Hare to OpenBSD](https://harelang.org/blog/2023-12-01-porting-hare-to-openbsd/)
-- Dec 02 - [Galactic Algorithm](https://en.wikipedia.org/wiki/Galactic_algorithm)
+- Dec 03 - [You are not a real engineer](https://twitchard.github.io/posts/2019-05-29-not-a-real-engineer.html)
+- Dec 02 - [The Eyepopping Factory Construction Boom in the US](https://wolfstreet.com/2023/12/02/the-eyepopping-factory-construction-boom-in-the-us/)
+- Dec 02 - [LibreChat](https://github.com/danny-avila/LibreChat)
+- Dec 02 - [Filmic's entire staff laid off by parent company Bending Spoons](https://petapixel.com/2023/12/01/filmics-entire-staff-laid-off-by-parent-company-bending-spoons/)
+- Dec 02 - [Can't sign in with FIDO2 key on office.com](https://bugzilla.mozilla.org/show_bug.cgi?id=1824831)
 <!--END_SECTION:hn-->
 
 <!--
