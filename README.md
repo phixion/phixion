@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 03 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- Dec 03 - [1960s chatbot ELIZA beat OpenAI's GPT-3.5 in a recent Turing test study](https://arstechnica.com/information-technology/2023/12/real-humans-appeared-human-63-of-the-time-in-recent-turing-test-ai-study/)
-- Dec 03 - [Images of Change](https://climate.nasa.gov/images-of-change/)
-- Dec 03 - [A Personal History of APL (1982)](https://ed-thelen.org/comp-hist/APL-hist.html)
-- Dec 03 - [The analog computer for the Nike missile system (2001)](https://www.ed-thelen.org/computer.html)
+- Dec 03 - [LLM Visualization](https://bbycroft.net/llm)
+- Dec 03 - [Build your own WebAssembly Compiler](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
+- Dec 03 - [Why Life Does Not Really Exist (2013)](https://blogs.scientificamerican.com/brainwaves/why-life-does-not-really-exist/)
+- Dec 03 - [Show HN: Onsites.fyi - Curated Big Tech Interview Experiences](https://www.onsites.fyi/)
+- Dec 03 - [Is technology harming our brains?](https://uxdesign.cc/is-technology-harming-our-brains-181512c76d4c)
 <!--END_SECTION:hn-->
 
 <!--
