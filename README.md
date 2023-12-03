@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 03 - [LLM Visualization](https://bbycroft.net/llm)
-- Dec 03 - [Build your own WebAssembly Compiler](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
-- Dec 03 - [Why Life Does Not Really Exist (2013)](https://blogs.scientificamerican.com/brainwaves/why-life-does-not-really-exist/)
-- Dec 03 - [Show HN: Onsites.fyi - Curated Big Tech Interview Experiences](https://www.onsites.fyi/)
-- Dec 03 - [Is technology harming our brains?](https://uxdesign.cc/is-technology-harming-our-brains-181512c76d4c)
+- Dec 03 - [Why does sleep becomes more elusive as we age? Shifts in "sleep architecture"](https://www.salon.com/2023/12/02/why-does-sleep-become-more-elusive-as-we-age-it-has-to-do-with-shifts-in-sleep-architecture/)
+- Dec 03 - [Chasquid – SMTP server focused on simplicity](https://blitiri.com.ar/p/chasquid/)
+- Dec 03 - [GDlog: A GPU-Accelerated Deductive Engine](https://arxiv.org/abs/2311.02206)
+- Dec 03 - [Show HN: Audio plugin for circuit-bent MP3 compression sounds](https://wildergardenaudio.com/maim/)
+- Dec 03 - [Medicare Advantage Popular with Seniors – But Not Hospitals and Doctors](https://kffhealthnews.org/news/article/medicare-advantage-payment-rates-friction/)
 <!--END_SECTION:hn-->
 
 <!--
