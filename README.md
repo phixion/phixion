@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 03 - [WikiReader](https://en.wikipedia.org/wiki/WikiReader)
-- Dec 03 - [Simple Mobile Tools suite to be acquired by Israeli adware company](https://github.com/SimpleMobileTools/General-Discussion/issues/241)
+- Dec 03 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- Dec 03 - [1960s chatbot ELIZA beat OpenAI's GPT-3.5 in a recent Turing test study](https://arstechnica.com/information-technology/2023/12/real-humans-appeared-human-63-of-the-time-in-recent-turing-test-ai-study/)
+- Dec 03 - [Images of Change](https://climate.nasa.gov/images-of-change/)
 - Dec 03 - [A Personal History of APL (1982)](https://ed-thelen.org/comp-hist/APL-hist.html)
 - Dec 03 - [The analog computer for the Nike missile system (2001)](https://www.ed-thelen.org/computer.html)
-- Dec 03 - [A new approach to domain ranking](https://www.marginalia.nu/log/73-new-approach-to-ranking/)
 <!--END_SECTION:hn-->
 
 <!--
