@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 04 - [Spotify will reduce total headcount by 17% across the company](https://newsroom.spotify.com/2023-12-04/an-update-on-december-2023-organizational-changes/)
+- Dec 04 - [The 8-Bit Era: Eight Iconic Processor Designs – By Babbage](https://thechipletter.substack.com/p/the-virtues-of-the-8-bit-era-eight)
+- Dec 04 - [Spotify cuts almost 1,600 jobs amid rising costs](https://www.theguardian.com/technology/2023/dec/04/spotify-cut-jobs-amid-rising)
+- Dec 04 - [HTML attributes for improved accessibility and user experience](https://www.htmhell.dev/adventcalendar/2023/4/)
+- Dec 04 - [Kramdown-man: A Kramdown convert for converting Markdown files into man pages](https://github.com/postmodern/kramdown-man)
 - Dec 04 - [Relative shell script includes with realpath on FreeBSD](https://patmaddox.com/doc/trunk/www/2023-12-sh-relative-shell-script-includes-with-realpath-on-freebsd/)
-- Dec 04 - [Lack of sunlight during the day is worse than electric lighting at night](https://english.elpais.com/health/2023-12-01/chronobiologist-and-nobel-laureate-in-medicine-michael-rosbash-lack-of-sunlight-during-the-day-is-worse-than-electric-lighting-at-night.html)
-- Dec 04 - [Experts revive ancient techniques to make concrete more sustainable](https://techxplore.com/news/2023-11-experts-revive-ancient-techniques-concrete.html)
-- Dec 04 - [Paper vs. Devices: Brain Activation Differences During Memory Retrieval](https://www.frontiersin.org/articles/10.3389/fnbeh.2021.634158/full)
 <!--END_SECTION:hn-->
 
 <!--
