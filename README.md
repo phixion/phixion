@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 04 - [Gemini Postponed, "in some respects" as good as GPT-4](https://old.reddit.com/r/mlscaling/comments/189jwne/gemini_postponed_in_some_respects_as_good_as_gpt4/)
-- Dec 04 - [When product markets become collective traps: The case of social media](https://bfi.uchicago.edu/insight/research-summary/when-product-markets-become-collective-traps-the-case-of-social-media/)
-- Dec 04 - [Writing a file system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
-- Dec 03 - [The Fediverse is an opportunity learned societies can't ignore](https://blogs.lse.ac.uk/impactofsocialsciences/2023/11/30/the-fediverse-is-an-opportunity-learned-societies-cant-ignore/)
-- Dec 03 - [Ask HN: What side projects landed you a job?](https://news.ycombinator.com/item?id=38511280)
+- Dec 04 - [Spotify will reduce total headcount by 17% across the company](https://newsroom.spotify.com/2023-12-04/an-update-on-december-2023-organizational-changes/)
+- Dec 04 - [Relative shell script includes with realpath on FreeBSD](https://patmaddox.com/doc/trunk/www/2023-12-sh-relative-shell-script-includes-with-realpath-on-freebsd/)
+- Dec 04 - [Lack of sunlight during the day is worse than electric lighting at night](https://english.elpais.com/health/2023-12-01/chronobiologist-and-nobel-laureate-in-medicine-michael-rosbash-lack-of-sunlight-during-the-day-is-worse-than-electric-lighting-at-night.html)
+- Dec 04 - [Experts revive ancient techniques to make concrete more sustainable](https://techxplore.com/news/2023-11-experts-revive-ancient-techniques-concrete.html)
+- Dec 04 - [Paper vs. Devices: Brain Activation Differences During Memory Retrieval](https://www.frontiersin.org/articles/10.3389/fnbeh.2021.634158/full)
 <!--END_SECTION:hn-->
 
 <!--
