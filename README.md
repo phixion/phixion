@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 04 - [The 8-Bit Era: Eight Iconic Processor Designs – By Babbage](https://thechipletter.substack.com/p/the-virtues-of-the-8-bit-era-eight)
-- Dec 04 - [Spotify cuts almost 1,600 jobs amid rising costs](https://www.theguardian.com/technology/2023/dec/04/spotify-cut-jobs-amid-rising)
-- Dec 04 - [HTML attributes for improved accessibility and user experience](https://www.htmhell.dev/adventcalendar/2023/4/)
-- Dec 04 - [Kramdown-man: A Kramdown convert for converting Markdown files into man pages](https://github.com/postmodern/kramdown-man)
-- Dec 04 - [Relative shell script includes with realpath on FreeBSD](https://patmaddox.com/doc/trunk/www/2023-12-sh-relative-shell-script-includes-with-realpath-on-freebsd/)
+- Dec 04 - [Lego latest retailer to leave troubled San Francisco Centre](https://www.sfchronicle.com/bayarea/article/lego-san-francisco-centre-18530623.php)
+- Dec 04 - [Oxford Word of the Year](https://languages.oup.com/word-of-the-year/2023/)
+- Dec 04 - [Feds dial up another crackdown on Boston-area pirate radio stations](https://www.universalhub.com/2023/feds-dial-another-crackdown-boston-area-pirate#comments)
+- Dec 04 - [Django 5.0 Is Released](https://www.djangoproject.com/weblog/2023/dec/04/django-50-released/)
+- Dec 04 - [AI and Trust](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
 <!--END_SECTION:hn-->
 
 <!--
