@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 05 - [Launch HN: Openlayer (YC S21) – Testing and Evaluation for AI](https://news.ycombinator.com/item?id=38532593)
-- Dec 05 - [Innovative wireless light switch could cut house wiring costs in half](https://www.ualberta.ca/folio/2023/11/innovative-light-switch-could-cut-house-wiring-costs-in-half.html)
-- Dec 05 - [How Beeper Mini Works](https://blog.beeper.com/p/how-beeper-mini-works)
-- Dec 05 - [BMW EV achieves 1000km in range using Dual-Chemistry batteries](https://www.forbes.com/sites/samabuelsamid/2023/11/30/our-next-energy-dual-chemistry-battery-achieves-over-600-mile-range/)
-- Dec 05 - [Show HN: How did YOUR computer reach my server?](https://how-did-i-get-here.net/)
+- Dec 05 - [Show HN: Dropbase – Build internal web apps with just Python](https://github.com/DropbaseHQ/dropbase)
+- Dec 05 - [SigNoz (YC W21), Open Source Datadog, Is Hiring SREs (Remote)](https://signoz.io/careers/site-reliability-engineer/)
+- Dec 05 - [Fine-tuning Mistral 7B on Magic the Gathering Draft](https://generallyintelligent.substack.com/p/fine-tuning-mistral-7b-on-magic-the)
+- Dec 05 - [Show HN: Desert Atlas, a Fully Self-Hosted OpenStreetMap App for Sandstorm](https://sandstorm.org/news/2023-12-05-osm-on-sandstorm)
+- Dec 05 - [Common Voice](https://commonvoice.mozilla.org/en)
 <!--END_SECTION:hn-->
 
 <!--
