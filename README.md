@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 04 - [Lego latest retailer to leave troubled San Francisco Centre](https://www.sfchronicle.com/bayarea/article/lego-san-francisco-centre-18530623.php)
-- Dec 04 - [Oxford Word of the Year](https://languages.oup.com/word-of-the-year/2023/)
-- Dec 04 - [Feds dial up another crackdown on Boston-area pirate radio stations](https://www.universalhub.com/2023/feds-dial-another-crackdown-boston-area-pirate#comments)
-- Dec 04 - [Django 5.0 Is Released](https://www.djangoproject.com/weblog/2023/dec/04/django-50-released/)
-- Dec 04 - [AI and Trust](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
+- Dec 04 - [System-wide Open Source Ad Blocker for Mac, Windows, and Linux](https://github.com/anfragment/zen)
+- Dec 04 - [Towards Accurate Differential Diagnosis with Large Language Models](https://arxiv.org/abs/2312.00164)
+- Dec 04 - [2023 WebMD Wrapped](https://www.mcsweeneys.net/articles/your-2023-webmd-wrapped)
+- Dec 04 - [Joint initiative for trustworthy AI](https://actu.epfl.ch/news/joint-initiative-for-trustworthy-ai/)
+- Dec 04 - [YouTuber sentenced to 6 months in prison for obstructing probe into plane crash](https://www.justice.gov/usao-cdca/pr/santa-barbara-county-man-sentenced-6-months-prison-obstructing-federal-probe-plane)
 <!--END_SECTION:hn-->
 
 <!--
