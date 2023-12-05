@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 04 - [System-wide Open Source Ad Blocker for Mac, Windows, and Linux](https://github.com/anfragment/zen)
-- Dec 04 - [Towards Accurate Differential Diagnosis with Large Language Models](https://arxiv.org/abs/2312.00164)
-- Dec 04 - [2023 WebMD Wrapped](https://www.mcsweeneys.net/articles/your-2023-webmd-wrapped)
-- Dec 04 - [Joint initiative for trustworthy AI](https://actu.epfl.ch/news/joint-initiative-for-trustworthy-ai/)
-- Dec 04 - [YouTuber sentenced to 6 months in prison for obstructing probe into plane crash](https://www.justice.gov/usao-cdca/pr/santa-barbara-county-man-sentenced-6-months-prison-obstructing-federal-probe-plane)
+- Dec 05 - [When Google Fiber Abandons Your City as a Failed Experiment (2019)](https://gizmodo.com/when-google-fiber-abandons-your-city-as-a-failed-experi-1833244198)
+- Dec 05 - [Study shows inoculating soil with mycorrhizal fungi can increase yield by 40%](https://phys.org/news/2023-11-inoculating-soil-mycorrhizal-fungi-yield.html)
+- Dec 05 - [Before QR Codes, there was the CueCat (2006)](https://www.hanselman.com/blog/coding4fun-hardware-boneyard-using-the-cuecat-with-net)
+- Dec 05 - [Chrome.userScripts API requires developer mode](https://developer.chrome.com/docs/extensions/reference/api/userScripts)
+- Dec 05 - [Show HN: TSDiagram – Diagrams as Code with TypeScript](https://tsdiagram.com)
 <!--END_SECTION:hn-->
 
 <!--
