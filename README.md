@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 06 - [An Open Letter to the Python Software Foundation](https://pythonafrica.blogspot.com/2023/12/an-open-letter-to-python-software_5.html)
-- Dec 06 - [EU Integrity Watch](https://www.integritywatch.eu/)
-- Dec 06 - [World's largest tokamak fusion reactor powers up](https://newatlas.com/energy/worlds-largest-tokamak-fusion-reactor-powers-up/)
-- Dec 06 - [Second Life UPS Mark II](https://pop.fsck.pl/projects/secondlife-ups-MkII.html)
-- Dec 06 - [Microsoft Outlook Blocking All Email from Tutanota.com Domain as Spam](https://tuta.com/blog/posts/outlook-falsely-marks-tutanota-emails-as-junk)
+- Dec 06 - [Getting Started with Axum – Rust's Most Popular Web Framework](https://www.shuttle.rs/blog/2023/12/06/using-axum-rust)
+- Dec 06 - [Show HN: CopilotKit- Build in-app AI chatbots and AI-powered Textareas](https://github.com/CopilotKit/CopilotKit)
+- Dec 06 - [Enabling next-generation AI workloads: Announcing TPU v5p and AI Hypercomputer](https://cloud.google.com/blog/products/ai-machine-learning/introducing-cloud-tpu-v5p-and-ai-hypercomputer)
+- Dec 06 - [Gemini: Google's most capable AI model yet](https://blog.google/technology/ai/google-gemini-ai/)
+- Dec 06 - [Gemini – Google DeepMind](https://deepmind.google/technologies/gemini/)
 <!--END_SECTION:hn-->
 
 <!--
