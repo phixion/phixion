@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 06 - [Loco. The one-person framework for Rust for side-projects and startups](https://loco.rs/)
-- Dec 06 - [New in Chrome 120 back button detection](https://developer.chrome.com/blog/new-in-chrome-120)
-- Dec 06 - [A new quantum algorithm for classical mechanics with an exponential speedup](https://blog.research.google/2023/12/a-new-quantum-algorithm-for-classical.html)
-- Dec 06 - [Go Testing by Example [video]](https://research.swtch.com/testing)
-- Dec 05 - [Virtual Machine as a core Android Primitive](https://android-developers.googleblog.com/2023/12/virtual-machines-as-core-android-primitive.html)
+- Dec 06 - [Leaked document shows how Amazon amasses influence in the Inland Empire](https://www.latimes.com/business/story/2023-12-05/leaked-document-offers-glimpse-into-how-amazon-amasses-influence-in-the-inland-empire)
+- Dec 06 - [HP exec says quiet part out loud when it comes to locking in print customers](https://www.theregister.com/2023/12/04/hp_printer_lockin/)
+- Dec 06 - [Why Is Jepsen Written in Clojure?](https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure)
+- Dec 06 - [After the Plague: Health and History in Medieval England](https://www.aftertheplague.org)
+- Dec 06 - [JSONB has landed](https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97)
 <!--END_SECTION:hn-->
 
 <!--
