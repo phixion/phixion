@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 05 - [Does uBlock Origin (uBO) currently bypass YouTube's adblock detection?](https://drhyperion451.github.io/does-uBO-bypass-yt/)
-- Dec 05 - [Playstation is erasing 1,318 seasons of Discovery shows from customer libraries](https://arstechnica.com/gadgets/2023/12/playstation-is-erasing-1318-seasons-of-discovery-shows-from-customer-libraries/)
-- Dec 05 - [Governor of Amazonas wants to charge Amazon royalties for use of the brand](https://www.nordinvestimentos.com.br/blog/governador-do-amazonas/)
-- Dec 05 - [Virtual Machine as a Core Android Primitive](https://android-developers.googleblog.com/2023/12/virtual-machines-as-core-android-primitive.html)
-- Dec 05 - [Report: YouTube adding user-traceable ID tag to links shared off-platform](https://twitter.com/OldRowSwig/status/1732112446943269347?s=20)
+- Dec 06 - [Loco. The one-person framework for Rust for side-projects and startups](https://loco.rs/)
+- Dec 06 - [New in Chrome 120 back button detection](https://developer.chrome.com/blog/new-in-chrome-120)
+- Dec 06 - [A new quantum algorithm for classical mechanics with an exponential speedup](https://blog.research.google/2023/12/a-new-quantum-algorithm-for-classical.html)
+- Dec 06 - [Go Testing by Example [video]](https://research.swtch.com/testing)
+- Dec 05 - [Virtual Machine as a core Android Primitive](https://android-developers.googleblog.com/2023/12/virtual-machines-as-core-android-primitive.html)
 <!--END_SECTION:hn-->
 
 <!--
