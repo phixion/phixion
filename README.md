@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 06 - [Leaked document shows how Amazon amasses influence in the Inland Empire](https://www.latimes.com/business/story/2023-12-05/leaked-document-offers-glimpse-into-how-amazon-amasses-influence-in-the-inland-empire)
-- Dec 06 - [HP exec says quiet part out loud when it comes to locking in print customers](https://www.theregister.com/2023/12/04/hp_printer_lockin/)
-- Dec 06 - [Why Is Jepsen Written in Clojure?](https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure)
-- Dec 06 - [After the Plague: Health and History in Medieval England](https://www.aftertheplague.org)
-- Dec 06 - [JSONB has landed](https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97)
+- Dec 06 - [An Open Letter to the Python Software Foundation](https://pythonafrica.blogspot.com/2023/12/an-open-letter-to-python-software_5.html)
+- Dec 06 - [EU Integrity Watch](https://www.integritywatch.eu/)
+- Dec 06 - [World's largest tokamak fusion reactor powers up](https://newatlas.com/energy/worlds-largest-tokamak-fusion-reactor-powers-up/)
+- Dec 06 - [Second Life UPS Mark II](https://pop.fsck.pl/projects/secondlife-ups-MkII.html)
+- Dec 06 - [Microsoft Outlook Blocking All Email from Tutanota.com Domain as Spam](https://tuta.com/blog/posts/outlook-falsely-marks-tutanota-emails-as-junk)
 <!--END_SECTION:hn-->
 
 <!--
