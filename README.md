@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 06 - [Getting Started with Axum – Rust's Most Popular Web Framework](https://www.shuttle.rs/blog/2023/12/06/using-axum-rust)
-- Dec 06 - [Show HN: CopilotKit- Build in-app AI chatbots and AI-powered Textareas](https://github.com/CopilotKit/CopilotKit)
-- Dec 06 - [Enabling next-generation AI workloads: Announcing TPU v5p and AI Hypercomputer](https://cloud.google.com/blog/products/ai-machine-learning/introducing-cloud-tpu-v5p-and-ai-hypercomputer)
-- Dec 06 - [Gemini: Google's most capable AI model yet](https://blog.google/technology/ai/google-gemini-ai/)
-- Dec 06 - [Gemini – Google DeepMind](https://deepmind.google/technologies/gemini/)
+- Dec 06 - [Quad9 wins appeal against Sony](https://quad9.net/news/blog/quad9-turns-the-sony-case-around-in-dresden/)
+- Dec 06 - [Wikifunctions](https://wikimediafoundation.org/news/2023/12/05/introducing-wikifunctions-first-wikimedia-project-to-launch-in-a-decade-creates-new-forms-of-knowledge/)
+- Dec 06 - [Data-Oriented Design](https://www.dataorienteddesign.com/dodbook/)
+- Dec 06 - [OpenAI Switch Kit: Swap OpenAI with any open-source model](https://postgresml.org/blog/introducing-the-openai-switch-kit-move-from-closed-to-open-source-ai-in-minutes)
+- Dec 06 - [Show HN: Lume – automate data mappings using AI](https://www.lume.ai/)
 <!--END_SECTION:hn-->
 
 <!--
