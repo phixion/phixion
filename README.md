@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 05 - [Show HN: Dropbase – Build internal web apps with just Python](https://github.com/DropbaseHQ/dropbase)
-- Dec 05 - [SigNoz (YC W21), Open Source Datadog, Is Hiring SREs (Remote)](https://signoz.io/careers/site-reliability-engineer/)
-- Dec 05 - [Fine-tuning Mistral 7B on Magic the Gathering Draft](https://generallyintelligent.substack.com/p/fine-tuning-mistral-7b-on-magic-the)
-- Dec 05 - [Show HN: Desert Atlas, a Fully Self-Hosted OpenStreetMap App for Sandstorm](https://sandstorm.org/news/2023-12-05-osm-on-sandstorm)
-- Dec 05 - [Common Voice](https://commonvoice.mozilla.org/en)
+- Dec 05 - [Does uBlock Origin (uBO) currently bypass YouTube's adblock detection?](https://drhyperion451.github.io/does-uBO-bypass-yt/)
+- Dec 05 - [Playstation is erasing 1,318 seasons of Discovery shows from customer libraries](https://arstechnica.com/gadgets/2023/12/playstation-is-erasing-1318-seasons-of-discovery-shows-from-customer-libraries/)
+- Dec 05 - [Governor of Amazonas wants to charge Amazon royalties for use of the brand](https://www.nordinvestimentos.com.br/blog/governador-do-amazonas/)
+- Dec 05 - [Virtual Machine as a Core Android Primitive](https://android-developers.googleblog.com/2023/12/virtual-machines-as-core-android-primitive.html)
+- Dec 05 - [Report: YouTube adding user-traceable ID tag to links shared off-platform](https://twitter.com/OldRowSwig/status/1732112446943269347?s=20)
 <!--END_SECTION:hn-->
 
 <!--
