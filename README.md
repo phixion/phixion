@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 06 - [Merlin Sound ID – Identify Birds Using Your Phone (How It Works)](https://www.macaulaylibrary.org/2021/06/22/behind-the-scenes-of-sound-id-in-merlin/)
-- Dec 06 - [Anthropic Claude performance depends heavily on prompt style](https://www.anthropic.com/index/claude-2-1-prompting)
-- Dec 06 - [Gordon Freeman at the Olympic Games](https://moonbase.lgbt/blog/100m-accelerated-backhopping/)
-- Dec 06 - [Danish pension fund to sell its Tesla shares over union dispute](https://www.reuters.com/sustainability/danish-pension-fund-sell-its-tesla-shares-over-union-dispute-2023-12-06/)
-- Dec 06 - [AMD MI300 Performance – Faster Than H100, but How Much?](https://www.semianalysis.com/p/amd-mi300-performance-faster-than)
+- Dec 07 - [Bungie Devs Atmosphere 'Soul-Crushing' Amid Layoffs, Cuts, Fear of Sony Takeover](https://www.ign.com/articles/bungie-devs-say-atmosphere-is-soul-crushing-amid-layoffs-cuts-and-fear-of-total-sony-takeover)
+- Dec 07 - [Mistral LLM on Apple Silicon Using Apple's MLX Framework Runs Instantaneously](https://github.com/ml-explore/mlx-examples/tree/main/mistral)
+- Dec 07 - [Windows 11 is last in gaming performance tests against 3 Linux gaming distros](https://www.notebookcheck.net/Windows-11-scores-dead-last-in-gaming-performance-tests-against-3-Linux-gaming-distros.778624.0.html)
+- Dec 07 - [Launching Default End-to-End Encryption on Messenger](https://messengernews.fb.com/2023/12/06/launching-default-end-to-end-encryption-on-messenger/)
+- Dec 07 - [23andMe updates their TOS to force binding arbitration](https://stackdiary.com/23andme-updates-tos-to-force-binding-arbitration/)
 <!--END_SECTION:hn-->
 
 <!--
