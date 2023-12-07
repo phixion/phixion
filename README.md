@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 07 - [Robinhood launches crypto trading in the European Union](https://newsroom.aboutrobinhood.com/robinhood-launches-crypto-trading-in-the-eu/)
+- Dec 07 - [Ploomber (YC W22) Is Hiring Software Engineers in NYC](https://www.ycombinator.com/companies/ploomber/jobs)
+- Dec 07 - [The Qatargate Files](https://www.politico.eu/article/european-parliament-qatargate-corruption-scandal-leaked-documents-pier-antonio-panzeri-francesco-giorgi-eva-kaili/)
+- Dec 07 - [He blew the whistle on Amazon. He's still paying the price](https://www.ft.com/content/de5fea12-2938-4c20-b394-10ca258a5fa1)
 - Dec 07 - [Cabinets of curiosities laid the foundation for modern museums](https://www.smithsonianmag.com/history/how-cabinets-of-curiosities-laid-the-foundation-for-modern-museums-180983265/)
-- Dec 07 - [Tell HN: ZFS silent data corruption bugfix – my research results](https://news.ycombinator.com/item?id=38553008)
 - Dec 07 - [Building end-to-end security for Messenger](https://engineering.fb.com/2023/12/06/security/building-end-to-end-security-for-messenger/)
-- Dec 07 - [A slightly longer Lean 4 proof tour](https://terrytao.wordpress.com/2023/12/05/a-slightly-longer-lean-4-proof-tour/)
 <!--END_SECTION:hn-->
 
 <!--
