@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 07 - [Ploomber (YC W22) Is Hiring Software Engineers in NYC](https://www.ycombinator.com/companies/ploomber/jobs)
-- Dec 07 - [The Qatargate Files](https://www.politico.eu/article/european-parliament-qatargate-corruption-scandal-leaked-documents-pier-antonio-panzeri-francesco-giorgi-eva-kaili/)
-- Dec 07 - [He blew the whistle on Amazon. He's still paying the price](https://www.ft.com/content/de5fea12-2938-4c20-b394-10ca258a5fa1)
-- Dec 07 - [Cabinets of curiosities laid the foundation for modern museums](https://www.smithsonianmag.com/history/how-cabinets-of-curiosities-laid-the-foundation-for-modern-museums-180983265/)
-- Dec 07 - [Building end-to-end security for Messenger](https://engineering.fb.com/2023/12/06/security/building-end-to-end-security-for-messenger/)
+- Dec 07 - [Data Engineering Design Patterns (DEDP)](https://www.dedp.online/)
+- Dec 07 - [Ask HN: What other good forums are out there?](https://news.ycombinator.com/item?id=38557327)
+- Dec 07 - [Spotify CFO cashes in £7.2M in shares after value surges on news of job cuts](https://www.theguardian.com/technology/2023/dec/07/spotify-cfo-cashes-in-72m-in-shares-after-value-surges-on-news-of-job-cuts)
+- Dec 07 - [Fake chips, I got stung](https://linuxjedi.co.uk/2023/12/01/fake-chips-i-got-stung/)
+- Dec 07 - [Swedish Tesla strike goes international as Norwegian and Danish unions join in](https://www.theregister.com/2023/12/07/swedish_tesla_strike_international/)
 <!--END_SECTION:hn-->
 
 <!--
