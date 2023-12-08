@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 08 - [Kagi Search – Paywalled articles indicator and improved weather widget](https://kagi.com/changelog)
-- Dec 08 - [Reviving decade-old Macs with antiX and MX Linux (2022)](https://sts10.github.io/2022/12/14/antix-on-2008-macbook-5-1.html)
-- Dec 08 - [We investigated France's mass profiling machine](https://www.lighthousereports.com/methodology/how-we-investigated-frances-mass-profiling-machine/)
-- Dec 08 - [Show HN: Homebrew 16bit CPU from 74HC logic with C compiler and Unix-like OS](http://www.sol-1.org/index.php)
-- Dec 08 - [The Omnichord will be re-produced to commemorate our 70th anniversary](https://suzukimusic-global.com/products_single.php?parent_cate_cd=3&products_cate_cd=34&products_cd=315)
+- Dec 08 - [Rollstack (YC W23) is hiring a senior software engineer in Brazil](https://www.ycombinator.com/companies/rollstack-2/jobs)
+- Dec 08 - [Beyond "Abolish the FDA"](https://www.astralcodexten.com/p/beyond-abolish-the-fda)
+- Dec 08 - [Dieselgate, but for trains – some heavyweight hardware hacking](https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking/)
+- Dec 08 - [Tesla loses legal action in Sweden as dispute with Nordic unions escalates](https://www.theguardian.com/technology/2023/dec/07/tesla-loses-legal-action-sweden-nordic-unions-licence-plates-collective-bargaining)
+- Dec 08 - [X.com is Twitter, but what are [a-z].com?](https://nerology.substack.com/p/xcom-is-twitter-but-what-are-a-zcom)
 <!--END_SECTION:hn-->
 
 <!--
