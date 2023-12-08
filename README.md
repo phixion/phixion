@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 08 - [The Onyx Programming Language](https://onyxlang.io/)
-- Dec 08 - [jc: Converts the output of popular command-line tools to JSON](https://github.com/kellyjonbrazil/jc)
-- Dec 08 - [TXR Lisp](https://www.nongnu.org/txr/txr-lisp.html)
-- Dec 08 - [London trains see power cut as thousands stranded in dark for hours](https://metro.co.uk/2023/12/08/thousands-stranded-cold-dark-london-trains-hours-power-cut-19944985/)
-- Dec 08 - [How to think about OpenAI's rumored (and overhyped) Q* project](https://arstechnica.com/ai/2023/12/the-real-research-behind-the-wild-rumors-about-openais-q-project/)
+- Dec 08 - [DNA companies should receive the death penalty for getting hacked](https://techcrunch.com/2023/12/08/protect-or-perish/)
+- Dec 08 - [Apps That Use AI to Undress Women in Photos Soaring in Use](https://www.bloomberg.com/news/articles/2023-12-08/ai-nudify-apps-that-undress-women-in-photos-soaring-in-use)
+- Dec 08 - [Want to apply for YC W24? We’re opening some last-minute spots](https://news.ycombinator.com/item?id=38572504)
+- Dec 08 - [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/abs/1701.06538)
+- Dec 08 - [FDA approves a CRISPR-based medicine for treatment of sickle cell disease](https://www.statnews.com/2023/12/08/fda-approves-casgevy-crispr-based-medicine-for-treatment-of-sickle-cell-disease/)
 <!--END_SECTION:hn-->
 
 <!--
