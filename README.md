@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Dec 08 - [Movie Forums - 39,914 breached accounts](https://haveibeenpwned.com/PwnedWebsites#MovieForums)
 - Dec 07 - [JoyGames - 4,461,787 breached accounts](https://haveibeenpwned.com/PwnedWebsites#JoyGames)
 - Dec 05 - [RailYatri - 23,209,732 breached accounts](https://haveibeenpwned.com/PwnedWebsites#RailYatri)
 - Dec 03 - [SoarGames - 4,774,445 breached accounts](https://haveibeenpwned.com/PwnedWebsites#SoarGames)
 - Nov 30 - [Go Ninja - 4,999,001 breached accounts](https://haveibeenpwned.com/PwnedWebsites#GoNinja)
-- Nov 29 - [Estante Virtual - 5,412,603 breached accounts](https://haveibeenpwned.com/PwnedWebsites#EstanteVirtual)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 07 - [Greedflation: Corporate profiteering 'significantly' boosted global prices,study](https://www.theguardian.com/business/2023/dec/07/greedflation-corporate-profiteering-boosted-global-prices-study)
-- Dec 07 - [Google calls Drive data loss "fixed," locks forum threads saying otherwise](https://arstechnica.com/gadgets/2023/12/google-calls-drive-data-loss-fixed-locks-forum-threads-saying-otherwise/)
-- Dec 07 - [How Many Hobbits? A Demographic Analysis of Middle Earth](https://medium.com/@lymanstone/how-many-hobbits-a-demographic-analysis-of-middle-earth-cd53b91d141f)
-- Dec 07 - [Helen Toner shares her side](https://www.wsj.com/tech/ai/helen-toner-openai-board-2e4031ef)
-- Dec 07 - [Hanukkah of Data: Practice your data skills with 8 free data puzzles](https://hanukkah.bluebird.sh/5784/)
+- Dec 08 - [We Investigated France's Mass Profiling Machine](https://www.lighthousereports.com/methodology/how-we-investigated-frances-mass-profiling-machine/)
+- Dec 08 - [Show HN: Homebrew 16bit CPU from 74HC logic with C compiler and Unix-like OS](http://www.sol-1.org/index.php)
+- Dec 08 - [Tolstoy: How much Land does a man need](https://www.online-literature.com/tolstoy/2738/)
+- Dec 08 - [The Omnichord will be re-produced to commemorate our 70th anniversary](https://suzukimusic-global.com/products_single.php?parent_cate_cd=3&products_cate_cd=34&products_cd=315)
+- Dec 07 - [A genetically modified bacterium that outcompetes bacteria causing tooth decay](https://www.astralcodexten.com/p/defying-cavity-lantern-bioworks-faq)
 <!--END_SECTION:hn-->
 
 <!--
