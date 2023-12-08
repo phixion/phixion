@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 08 - [Rollstack (YC W23) is hiring a senior software engineer in Brazil](https://www.ycombinator.com/companies/rollstack-2/jobs)
-- Dec 08 - [Beyond "Abolish the FDA"](https://www.astralcodexten.com/p/beyond-abolish-the-fda)
-- Dec 08 - [Dieselgate, but for trains – some heavyweight hardware hacking](https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking/)
-- Dec 08 - [Tesla loses legal action in Sweden as dispute with Nordic unions escalates](https://www.theguardian.com/technology/2023/dec/07/tesla-loses-legal-action-sweden-nordic-unions-licence-plates-collective-bargaining)
-- Dec 08 - [X.com is Twitter, but what are [a-z].com?](https://nerology.substack.com/p/xcom-is-twitter-but-what-are-a-zcom)
+- Dec 08 - [The Onyx Programming Language](https://onyxlang.io/)
+- Dec 08 - [jc: Converts the output of popular command-line tools to JSON](https://github.com/kellyjonbrazil/jc)
+- Dec 08 - [TXR Lisp](https://www.nongnu.org/txr/txr-lisp.html)
+- Dec 08 - [London trains see power cut as thousands stranded in dark for hours](https://metro.co.uk/2023/12/08/thousands-stranded-cold-dark-london-trains-hours-power-cut-19944985/)
+- Dec 08 - [How to think about OpenAI's rumored (and overhyped) Q* project](https://arstechnica.com/ai/2023/12/the-real-research-behind-the-wild-rumors-about-openais-q-project/)
 <!--END_SECTION:hn-->
 
 <!--
