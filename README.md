@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 09 - [Wine 9.0 RC1 – Run Windows Applications on Linux, BSD, Solaris and macOS](https://www.winehq.org/announce/9.0-rc1)
-- Dec 09 - [Putin seeks to extend his rule](https://www.npr.org/2023/12/08/1218154464/putin-russia-presidential-elections)
-- Dec 09 - [Show HN: Open-source alternatives to tools You pay for](https://osssoftware.org/)
-- Dec 09 - [Gaussian Explosion](https://aras-p.info/blog/2023/12/08/Gaussian-explosion/)
-- Dec 08 - [Verizon fell for fake "search warrant," gave victim's phone data to stalker](https://arstechnica.com/tech-policy/2023/12/verizon-fell-for-fake-search-warrant-gave-victims-phone-data-to-stalker/)
+- Dec 09 - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+- Dec 09 - [PysimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
+- Dec 09 - [OpenBao – FOSS Fork of HashiCorp Vault](https://github.com/openbao/openbao/tree/development)
+- Dec 09 - [Light No Fire – A Fantasy Game from the Makers of No Man's Sky](https://lightnofire.com/)
+- Dec 09 - [Nebula Genomics – First to offer consumer anonymous sequencing](https://nebula.org/anonymous-seq/)
 <!--END_SECTION:hn-->
 
 <!--
