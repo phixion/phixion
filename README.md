@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 09 - [Langfuse (YC W23) is hiring its first engineer](https://www.workatastartup.com/jobs/62929)
-- Dec 09 - [W4 Games raises $15M to drive video game development with Godot Engine](https://w4games.com/2023/12/07/w4-games-raises-15m-to-drive-video-game-development-inflection-with-godot-engine/)
-- Dec 09 - [Spain expels two US spies for infiltrating secret service](https://english.elpais.com/spain/2023-12-08/spain-expels-two-us-spies-for-infiltrating-secret-service.html)
-- Dec 09 - [If buying isn't owning, piracy isn't stealing](https://pluralistic.net/2023/12/08/playstationed/#tyler-james-hill)
-- Dec 09 - [A connection between after-hours work and decreased productivity](https://slack.com/blog/news/the-surprising-connection-between-after-hours-work-and-decreased-productivity)
+- Dec 09 - [The EU Just Passed Sweeping New Rules to Regulate AI](https://www.wired.com/story/eu-ai-act/)
+- Dec 09 - [Apple to move key iPad engineering resources to Vietnam](https://asia.nikkei.com/Spotlight/Supply-Chain/Apple-to-move-key-iPad-engineering-resources-to-Vietnam)
+- Dec 09 - [Scrambling Eggs for Spotify with Knuth's Fibonacci Hashing](https://pncnmnp.github.io/blogs/fibonacci-hashing.html)
+- Dec 09 - [Murder is a pixel art ECS game engine in C#](https://github.com/isadorasophia/murder)
+- Dec 09 - [Advent of Technical Writing: Style](https://jamesg.blog/2023/12/09/style/)
 <!--END_SECTION:hn-->
 
 <!--
