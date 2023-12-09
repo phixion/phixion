@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 09 - [The EU Just Passed Sweeping New Rules to Regulate AI](https://www.wired.com/story/eu-ai-act/)
-- Dec 09 - [Apple to move key iPad engineering resources to Vietnam](https://asia.nikkei.com/Spotlight/Supply-Chain/Apple-to-move-key-iPad-engineering-resources-to-Vietnam)
-- Dec 09 - [Scrambling Eggs for Spotify with Knuth's Fibonacci Hashing](https://pncnmnp.github.io/blogs/fibonacci-hashing.html)
-- Dec 09 - [Murder is a pixel art ECS game engine in C#](https://github.com/isadorasophia/murder)
-- Dec 09 - [Advent of Technical Writing: Style](https://jamesg.blog/2023/12/09/style/)
+- Dec 09 - [Ask HN: What sub $200 product improved your 2023](https://news.ycombinator.com/item?id=38585109)
+- Dec 09 - [Is Grok Basically Just an OpenAI Wrapper?](https://twitter.com/JaxWinterbourne/status/1733360575252517001)
+- Dec 09 - [Dynamic music and sound techniques for video games](https://blog.gingerbeardman.com/2023/12/09/dynamic-music-and-sound-techniques-for-video-games/)
+- Dec 09 - [Amazon Has an Honesty Issue](https://www.bentasker.co.uk/posts/blog/opinion/amazon-parcel-contents-get-stolen-and-then-amazon-tries-to-keep-payment.html)
+- Dec 09 - [Mistral's mixtral-8x7B-32kseqlen on vercel](https://twitter.com/rauchg/status/1733540995546190048)
 <!--END_SECTION:hn-->
 
 <!--
