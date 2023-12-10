@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 10 - [Canada's surging cost of living fuels reverse immigration](https://www.reuters.com/world/americas/canadas-surging-cost-living-fuels-reverse-immigration-2023-12-09/)
+- Dec 10 - [Cramming a Tiny Program into a Tiny ELF File: A Case Study](https://tmpout.sh/3/22.html)
+- Dec 10 - [Factors driving a productivity explosion](https://fortune.com/2023/12/09/what-is-fueling-productivity-boom-four-reasons/)
 - Dec 09 - [65% increase in "significant" Air Traffic Control incidents in 2023](https://www.nytimes.com/2023/12/02/business/air-traffic-controllers-safety.html)
 - Dec 09 - [Nokia Bell Labs Is Moving to Helix in New Brunswick](https://www.roi-nj.com/2023/12/08/real_estate/nokia-bell-labs-is-moving-to-helix-in-new-brunswick/)
-- Dec 09 - [Show HN: Open source alternative to ChatGPT and ChatPDF-like AI tools](https://github.com/SecureAI-Tools/SecureAI-Tools)
-- Dec 09 - [Three things that LLMs have made us rethink](https://rodneybrooks.com/three-things-that-llms-have-made-us-rethink/)
-- Dec 09 - [A Matter of Millimeters: The story of Qantas flight 32](https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7)
 <!--END_SECTION:hn-->
 
 <!--
