@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 10 - [Canada's surging cost of living fuels reverse immigration](https://www.reuters.com/world/americas/canadas-surging-cost-living-fuels-reverse-immigration-2023-12-09/)
-- Dec 10 - [Cramming a Tiny Program into a Tiny ELF File: A Case Study](https://tmpout.sh/3/22.html)
-- Dec 10 - [Factors driving a productivity explosion](https://fortune.com/2023/12/09/what-is-fueling-productivity-boom-four-reasons/)
-- Dec 09 - [65% increase in "significant" Air Traffic Control incidents in 2023](https://www.nytimes.com/2023/12/02/business/air-traffic-controllers-safety.html)
-- Dec 09 - [Nokia Bell Labs Is Moving to Helix in New Brunswick](https://www.roi-nj.com/2023/12/08/real_estate/nokia-bell-labs-is-moving-to-helix-in-new-brunswick/)
+- Dec 10 - [Ask HN: What's the best hardware to run small/medium models locally?](https://news.ycombinator.com/item?id=38589520)
+- Dec 10 - [Moore vs. United States: Tax Unrealized Income Case](https://taxfoundation.org/research/all/federal/moore-v-united-states-tax-unrealized-income/)
+- Dec 10 - [Linux: Ext4 data corruption in 6.1.64-1](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1057843)
+- Dec 10 - [Visual Basic for Applications Language Specification [pdf]](https://msopenspecs.azureedge.net/files/MS-VBAL/%5bMS-VBAL%5d.pdf)
+- Dec 10 - [What Is L4S?](https://www.theverge.com/23655762/l4s-internet-apple-comcast-latency-speed-bandwidth)
 <!--END_SECTION:hn-->
 
 <!--
