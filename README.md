@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 10 - [Lago (Open-Source Stripe Billing) Is Hiring Back-End Ruby Engineers in EU](https://www.ycombinator.com/companies/lago/jobs/RvvzKuM-sr-back-end-ruby-engineer)
-- Dec 10 - [Stealthy Linux rootkit found in the wild after going undetected for 2 years](https://arstechnica.com/security/2023/12/stealthy-linux-rootkit-found-in-the-wild-after-going-undetected-for-2-years/)
-- Dec 10 - [Ask HN: Should I subscribe to ChatGPT Plus if we can get it for free on Bing?](https://news.ycombinator.com/item?id=38590313)
-- Dec 10 - [Fuzzy Finding with Emacs Instead of Fzf](https://www.masteringemacs.org/article/fuzzy-finding-emacs-instead-of-fzf)
-- Dec 10 - [Trust-Based Moderation Systems](https://cblgh.org/trustnet/)
+- Dec 10 - [The Curious Case of Claudine Gay](https://www.karlstack.com/p/the-curious-case-of-claudine-gay)
+- Dec 10 - [Ask HN: Anyone Interested in Taking over Jsweet.org?](https://news.ycombinator.com/item?id=38592087)
+- Dec 10 - [Tech firms failing to 'walk the walk' on ethical AI, report says](https://www.aljazeera.com/news/2023/12/8/tech-firms-failing-to-walk-the-walk-on-ethical-ai-report-says)
+- Dec 10 - [Created a free website that simplifies stock analysis](https://stocknear.com/)
+- Dec 10 - [Tyrannosaur's Stomach Contents Have Been Found](https://www.scientificamerican.com/article/tyrannosaurs-stomach-contents-have-been-found-for-the-first-time/)
 <!--END_SECTION:hn-->
 
 <!--
