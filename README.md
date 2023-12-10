@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 10 - [The Curious Case of Claudine Gay](https://www.karlstack.com/p/the-curious-case-of-claudine-gay)
-- Dec 10 - [Ask HN: Anyone Interested in Taking over Jsweet.org?](https://news.ycombinator.com/item?id=38592087)
-- Dec 10 - [Tech firms failing to 'walk the walk' on ethical AI, report says](https://www.aljazeera.com/news/2023/12/8/tech-firms-failing-to-walk-the-walk-on-ethical-ai-report-says)
-- Dec 10 - [Created a free website that simplifies stock analysis](https://stocknear.com/)
-- Dec 10 - [Tyrannosaur's Stomach Contents Have Been Found](https://www.scientificamerican.com/article/tyrannosaurs-stomach-contents-have-been-found-for-the-first-time/)
+- Dec 10 - [FFM (Foreign Function and Memory API) Goes Final](https://mail.openjdk.org/pipermail/panama-dev/2023-October/020095.html)
+- Dec 10 - [Columbia and NYU Would Lose $327M in Tax Breaks Under Proposal](https://www.nytimes.com/2023/12/10/nyregion/columbia-nyu-property-tax-exemptions-legislation.html)
+- Dec 10 - [You Can Select Multiple Tabs in Safari, Chrome, Firefox](https://daringfireball.net/linked/2023/12/07/safari-chrome-firebox-multiple-tab-selection)
+- Dec 10 - [Ratatui](https://github.com/ratatui-org/ratatui)
+- Dec 10 - [Ask HN: Assuming this 2023 LtG paper is correct, how do you prepare?](https://onlinelibrary.wiley.com/doi/full/10.1111/jiec.13442)
 <!--END_SECTION:hn-->
 
 <!--
