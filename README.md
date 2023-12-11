@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 11 - [Show HN: I Remade the Fake Google Gemini Demo, Except Using GPT-4 and It's Real](https://sagittarius.greg.technology/)
-- Dec 11 - [John Carmack and John Romero reunited to talk DOOM on its 30th Anniversary](https://www.pcgamer.com/for-dooms-30th-anniversary-the-johns-romero-and-carmack-reunited-to-celebrate-the-fps-that-changed-everything-i-want-to-thank-everybody-in-the-doom-community-for-keeping-this-game-alive/)
-- Dec 11 - [Could We Stop Yellowstone from Erupting with a Giant Geothermal Power Plant?](https://www.construction-physics.com/p/could-we-stop-yellowstone-from-erupting)
-- Dec 11 - [Pitivi – Free video editor with a beautiful and intuitive user interface](https://www.pitivi.org/)
-- Dec 11 - [Littlefs – a little fail-safe filesystem designed for microcontrollers](https://github.com/littlefs-project/littlefs)
+- Dec 11 - [Fixing Classical Cats: How I Got Tricked by 28-Year-Old Defensive Programming](https://www.mistys-internet.website/blog/blog/2023/12/10/fixing-classical-cats-or/)
+- Dec 11 - [Low Latency, Low Loss, and Scalable Throughput (L4S) Internet Service: RFC 9330](https://datatracker.ietf.org/doc/rfc9330/)
+- Dec 11 - [Templ: A language for writing HTML user interfaces in Go](https://github.com/a-h/templ)
+- Dec 11 - [HN-comments-drawer: one line HN comments integration into sites](https://github.com/prakhar897/hn-comments-drawer)
+- Dec 11 - [NeurIPS 2023: Expo Day](https://mlcontests.com/neurips-2023/expo-day/)
 <!--END_SECTION:hn-->
 
 <!--
