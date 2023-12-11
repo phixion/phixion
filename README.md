@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 11 - [Text Editor Data Structures: Rethinking Undo](https://cdacamar.github.io/data%20structures/algorithms/benchmarking/text%20editors/c++/rethinking-undo/)
-- Dec 11 - [Attacking Journalists as Terrorists](https://www.craigmurray.org.uk/archives/2023/12/attacking-journalists-as-terrorists/)
-- Dec 11 - [Marmot: Multi-writer distributed SQLite based on NATS](https://github.com/maxpert/marmot)
-- Dec 11 - [Anti-aging drug for dogs moves closer to gaining FDA approval](https://www.foxnews.com/health/anti-aging-drug-dogs-san-francisco-firm-moves-closer-gaining-fda-approval)
-- Dec 11 - [Whirlygig Volumetric Display LPC1768 Demo (2014) [video]](https://www.youtube.com/watch?v=8MFhoGbUYPY)
+- Dec 11 - [Show HN: I built an OSS alternative to Azure OpenAI services](https://github.com/bricks-cloud/BricksLLM)
+- Dec 11 - [Google Fiber - 20 Gig + Wi-Fi 7 will be available to select customers](https://fiber.google.com/blog/2023/12/your-most-exciting-invitation-this.html)
+- Dec 11 - [GigaGPT: GPT-3 sized models in 565 lines of code](https://www.cerebras.net/blog/introducing-gigagpt-gpt-3-sized-models-in-565-lines-of-code)
+- Dec 11 - [Web Browser Telemetry](http://sizeof.cat/post/web-browser-telemetry/)
+- Dec 11 - [Photorealistic Video Generation with Diffusion Models](https://walt-video-diffusion.github.io/)
 <!--END_SECTION:hn-->
 
 <!--
