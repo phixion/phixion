@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 11 - [Fixing Classical Cats: How I Got Tricked by 28-Year-Old Defensive Programming](https://www.mistys-internet.website/blog/blog/2023/12/10/fixing-classical-cats-or/)
-- Dec 11 - [Low Latency, Low Loss, and Scalable Throughput (L4S) Internet Service: RFC 9330](https://datatracker.ietf.org/doc/rfc9330/)
-- Dec 11 - [Templ: A language for writing HTML user interfaces in Go](https://github.com/a-h/templ)
-- Dec 11 - [HN-comments-drawer: one line HN comments integration into sites](https://github.com/prakhar897/hn-comments-drawer)
-- Dec 11 - [NeurIPS 2023: Expo Day](https://mlcontests.com/neurips-2023/expo-day/)
+- Dec 11 - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- Dec 11 - [Is Northern Ireland a failed state?](https://www.thefitzwilliam.com/p/is-northern-ireland-a-failed-state)
+- Dec 11 - [$35 smart calculator for small shops](https://smart.tohands.in/)
+- Dec 11 - [Magical Fibonacci Formulae](https://orlp.net/blog/magical-fibonacci-formulae/)
+- Dec 11 - [Books of 2023, as Chosen by The Economist](https://www.economist.com/culture/2023/12/01/the-best-books-of-2023-as-chosen-by-the-economist)
 <!--END_SECTION:hn-->
 
 <!--
