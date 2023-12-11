@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 10 - [Wasabi linked to "substantial" boost in memory, Japanese study finds](https://www.cbsnews.com/news/wasabi-memory-boost-japanese-study-finds/)
-- Dec 10 - [Please, Expose Your RSS](https://rknight.me/please-expose-your-rss/)
-- Dec 10 - [The Bare Minimum Video Game: The Odyssey 100](https://nicole.express/2023/special-thanks-to-homer.html)
-- Dec 10 - [BSD on Windows: Things I wish I knew existed](https://virtuallyfun.com/2023/12/08/bsd-on-windows-things-i-wish-i-knew-existed/)
-- Dec 10 - [The surprising connection between after-hours work and decreased productivity](https://slack.com/intl/en-gb/blog/news/the-surprising-connection-between-after-hours-work-and-decreased-productivity?nojsmode=1)
+- Dec 11 - [Show HN: I Remade the Fake Google Gemini Demo, Except Using GPT-4 and It's Real](https://sagittarius.greg.technology/)
+- Dec 11 - [John Carmack and John Romero reunited to talk DOOM on its 30th Anniversary](https://www.pcgamer.com/for-dooms-30th-anniversary-the-johns-romero-and-carmack-reunited-to-celebrate-the-fps-that-changed-everything-i-want-to-thank-everybody-in-the-doom-community-for-keeping-this-game-alive/)
+- Dec 11 - [Could We Stop Yellowstone from Erupting with a Giant Geothermal Power Plant?](https://www.construction-physics.com/p/could-we-stop-yellowstone-from-erupting)
+- Dec 11 - [Pitivi – Free video editor with a beautiful and intuitive user interface](https://www.pitivi.org/)
+- Dec 11 - [Littlefs – a little fail-safe filesystem designed for microcontrollers](https://github.com/littlefs-project/littlefs)
 <!--END_SECTION:hn-->
 
 <!--
