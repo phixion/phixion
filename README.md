@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 12 - [Telecom Industry Is Mad Because the FCC Might Examine High Broadband Prices](https://www.techdirt.com/2023/12/12/the-telecom-industry-is-very-mad-because-the-fcc-might-examine-high-broadband-prices/)
-- Dec 12 - [DeciLM-7B: The Fastest and Most Accurate 7B-Parameter LLM to Date](https://deci.ai/blog/introducing-decilm-7b-the-fastest-and-most-accurate-7b-large-language-model-to-date/)
-- Dec 12 - [23andMe frantically changed its terms of service to prevent customers from suing](https://www.engadget.com/23andme-frantically-changed-its-terms-of-service-to-prevent-hacked-customers-from-suing-152434306.html)
-- Dec 12 - [You Should Be Concerned About the Bill to Remove Section 230 Protections from AI](https://dealbreaker.com/2023/12/even-if-you-hate-both-ai-and-section-230-you-should-be-concerned-about-the-hawley-blumenthal-bill-to-remove-230-protections-from-ai-)
-- Dec 12 - [E3 Is Officially Permanently Over](https://twitter.com/E3/status/1734583493592498437)
+- Dec 12 - [Hardening Cellular Basebands in Android](https://security.googleblog.com/2023/12/hardening-cellular-basebands-in-android.html)
+- Dec 12 - [What Will Enter the Public Domain in 2024?](https://publicdomainreview.org/features/entering-the-public-domain/2024/)
+- Dec 12 - [Edge Functions: Node and native NPM compatibility](https://supabase.com/blog/edge-functions-node-npm)
+- Dec 12 - [Motorola's Pioneering 8-bit 6800: Origins and Architecture](https://thechipletter.substack.com/p/motorolas-pioneering-8-bit-6800-origins)
+- Dec 12 - ['Like we were lesser humans': Gaza boys, men recall Israeli arrest, torture](https://www.aljazeera.com/features/2023/12/12/like-we-were-lesser-humans-gaza-boys-men-recall-israeli-arrests-torture)
 <!--END_SECTION:hn-->
 
 <!--
