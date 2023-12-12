@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 11 - [Show HN: I built an OSS alternative to Azure OpenAI services](https://github.com/bricks-cloud/BricksLLM)
-- Dec 11 - [Google Fiber - 20 Gig + Wi-Fi 7 will be available to select customers](https://fiber.google.com/blog/2023/12/your-most-exciting-invitation-this.html)
-- Dec 11 - [GigaGPT: GPT-3 sized models in 565 lines of code](https://www.cerebras.net/blog/introducing-gigagpt-gpt-3-sized-models-in-565-lines-of-code)
-- Dec 11 - [Web Browser Telemetry](http://sizeof.cat/post/web-browser-telemetry/)
-- Dec 11 - [Photorealistic Video Generation with Diffusion Models](https://walt-video-diffusion.github.io/)
+- Dec 11 - [I turned my side hustle into a cleaning business](https://dollarsanity.com/how-i-turned-my-side-hustle-into-650k-a-year-cleaning-business/)
+- Dec 11 - [AdaptNet: Policy Adaptation for Physics-Based Character Control](https://arxiv.org/abs/2310.00239)
+- Dec 11 - [Mamba outperforms transformers "everywhere we tried"](https://old.reddit.com/r/singularity/comments/18asto2/announcing_mamba_a_new_ssm_arch_that_has/)
+- Dec 11 - [The Secret Behind Qualcomm's Margins? Patents](https://blog.withedge.com/p/the-secret-behind-qualcomms-margins)
+- Dec 11 - [What if an SQL statement returned a database?](https://arxiv.org/abs/2312.00638)
 <!--END_SECTION:hn-->
 
 <!--
