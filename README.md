@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 12 - [Kids with cats have double the risk of developing schizophrenia](https://medicalxpress.com/news/2023-12-kids-cats-schizophrenia.html)
-- Dec 12 - [Epic vs. Google Trial Verdict, a Win for All Developers](https://www.epicgames.com/site/en-US/news/epic-v-google-trial-verdict-a-win-for-all-developers)
-- Dec 12 - [2×4 Lumber Sizes – The History Behind the Mystery](https://workingforest.com/2x4-lumber-size-the-history-behind-the-mystery/)
-- Dec 12 - [FTC wants Microsoft's relationship with OpenAI under the microscope](https://www.theregister.com/2023/12/11/microsoft_openai_investment_ftc/)
-- Dec 12 - [Epic vs. Google: Google Loses](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates#stream-entry-65d34a06-1fa5-4eab-abf6-ce450441b543)
+- Dec 12 - [Tell/Ask HN: HN WebSite is/was down. I'm curious why?](https://hn.hund.io/)
+- Dec 12 - [BF-SYS: A fantasy computer that uses Brainfuck as its instruction set](https://brainfuck.zptr.cc/)
+- Dec 12 - [The Professionalization of Cryptology in Sixteenth-Century Venice (2018) [pdf]](https://www.researchgate.net/publication/327847251_The_Professionalization_of_Cryptology_in_Sixteenth-Century_Venice)
+- Dec 12 - [Building a Web Game in C](https://anguscheng.com/post/2023-12-12-wasm-game-in-c-raylib/)
+- Dec 12 - [The mysterious second parameter to the x86 ENTER instruction](https://devblogs.microsoft.com/oldnewthing/20231211-00/?p=109126)
 <!--END_SECTION:hn-->
 
 <!--
