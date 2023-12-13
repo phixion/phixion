@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 12 - [Hardening Cellular Basebands in Android](https://security.googleblog.com/2023/12/hardening-cellular-basebands-in-android.html)
-- Dec 12 - [What Will Enter the Public Domain in 2024?](https://publicdomainreview.org/features/entering-the-public-domain/2024/)
-- Dec 12 - [Edge Functions: Node and native NPM compatibility](https://supabase.com/blog/edge-functions-node-npm)
-- Dec 12 - [Motorola's Pioneering 8-bit 6800: Origins and Architecture](https://thechipletter.substack.com/p/motorolas-pioneering-8-bit-6800-origins)
-- Dec 12 - ['Like we were lesser humans': Gaza boys, men recall Israeli arrest, torture](https://www.aljazeera.com/features/2023/12/12/like-we-were-lesser-humans-gaza-boys-men-recall-israeli-arrests-torture)
+- Dec 12 - [Tools for Learning LLVM TableGen](https://blog.llvm.org/posts/2023-12-07-tools-for-learning-llvm-tablegen/)
+- Dec 12 - [LXD now re-licensed and under a CLA](https://stgraber.org/2023/12/12/lxd-now-re-licensed-and-under-a-cla/)
+- Dec 12 - [Claude for Google Sheets](https://docs.anthropic.com/claude/docs/using-claude-for-sheets)
+- Dec 12 - [What We Watched: A Netflix engagement report](https://about.netflix.com/en/news/what-we-watched-a-netflix-engagement-report)
+- Dec 12 - [Hardening cellular basebands in Android](https://security.googleblog.com/2023/12/hardening-cellular-basebands-in-android.html)
 <!--END_SECTION:hn-->
 
 <!--
