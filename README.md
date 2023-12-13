@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 13 - [Tesla Recalls 2M Cars to Fix Autopilot Safety Flaws](https://www.bloomberg.com/news/articles/2023-12-13/tesla-autopilot-recall-2-million-cars-need-software-fix)
-- Dec 13 - [Tesla FSD Timeline](https://motherfrunker.ca/fsd/)
-- Dec 13 - [Plane, an open-source alternative to Jira, got to the #1 on GitHub](https://plane.so/blog/how-we-got-to-20k-github-stars)
-- Dec 13 - [Arc browser launches its Windows client in beta](https://techcrunch.com/2023/12/11/arc-browser-launches-its-windows-client-in-beta/)
-- Dec 13 - [Ask HN: What apps have you created for your own use?](https://news.ycombinator.com/item?id=38623695)
+- Dec 13 - [US agency will not reinstate $900M subsidy for SpaceX Starlink unit](https://www.reuters.com/technology/space/us-agency-will-not-reinstate-900-mln-subsidy-spacex-starlink-unit-2023-12-13/)
+- Dec 13 - [Polish Hackers that repaired DRM trains threatened by train company](https://www.404media.co/polish-hackers-repaired-trains-the-manufacturer-artificially-bricked-now-the-train-company-is-threatening-them/)
+- Dec 13 - [Cortex A57, Nintendo Switch's CPU](https://chipsandcheese.com/2023/12/12/cortex-a57-nintendo-switchs-cpu/)
+- Dec 13 - [Google Gemini Pro API Available Through AI Studio](https://ai.google.dev/)
+- Dec 13 - [Google Imagen 2](https://deepmind.google/technologies/imagen-2/)
 <!--END_SECTION:hn-->
 
 <!--
