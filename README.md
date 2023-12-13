@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 13 - [US agency will not reinstate $900M subsidy for SpaceX Starlink unit](https://www.reuters.com/technology/space/us-agency-will-not-reinstate-900-mln-subsidy-spacex-starlink-unit-2023-12-13/)
-- Dec 13 - [Polish Hackers that repaired DRM trains threatened by train company](https://www.404media.co/polish-hackers-repaired-trains-the-manufacturer-artificially-bricked-now-the-train-company-is-threatening-them/)
-- Dec 13 - [Cortex A57, Nintendo Switch's CPU](https://chipsandcheese.com/2023/12/12/cortex-a57-nintendo-switchs-cpu/)
-- Dec 13 - [Google Gemini Pro API Available Through AI Studio](https://ai.google.dev/)
-- Dec 13 - [Google Imagen 2](https://deepmind.google/technologies/imagen-2/)
+- Dec 13 - [Show HN: A pure C89 implementation of Go channels, with blocking selects](https://github.com/rochus-keller/CspChan)
+- Dec 13 - [Next Gen Game Engines](https://a16z.com/unbundling-the-game-engine/)
+- Dec 13 - [SMERF: Streamable Memory Efficient Radiance Fields](https://smerf-3d.github.io/)
+- Dec 13 - [Lithium-Ion Battery Pack Prices Hit Record Low of $139/KWh](https://about.bnef.com/blog/lithium-ion-battery-pack-prices-hit-record-low-of-139-kwh/)
+- Dec 13 - [QMoE: Practical Sub-1-Bit Compression of Trillion-Parameter Models](https://arxiv.org/abs/2310.16795)
 <!--END_SECTION:hn-->
 
 <!--
