@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 13 - [Firefox slow to load YouTube? Just another front in Google's war on ad blockers](https://www.theregister.com/2023/11/21/ad_block_google/)
+- Dec 13 - [A human embryonic limb cell atlas resolved in space and time](https://www.nature.com/articles/s41586-023-06806-x)
+- Dec 13 - [Professor in Jordan sues sleuth who exposed citation anomalies](https://retractionwatch.com/2023/11/29/professor-in-jordan-sues-sleuth-who-exposed-citation-anomalies/)
+- Dec 13 - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=38621289)
 - Dec 12 - [Tools for Learning LLVM TableGen](https://blog.llvm.org/posts/2023-12-07-tools-for-learning-llvm-tablegen/)
-- Dec 12 - [LXD now re-licensed and under a CLA](https://stgraber.org/2023/12/12/lxd-now-re-licensed-and-under-a-cla/)
-- Dec 12 - [Claude for Google Sheets](https://docs.anthropic.com/claude/docs/using-claude-for-sheets)
-- Dec 12 - [What We Watched: A Netflix engagement report](https://about.netflix.com/en/news/what-we-watched-a-netflix-engagement-report)
-- Dec 12 - [Hardening cellular basebands in Android](https://security.googleblog.com/2023/12/hardening-cellular-basebands-in-android.html)
 <!--END_SECTION:hn-->
 
 <!--
