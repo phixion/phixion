@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 13 - [Firefox slow to load YouTube? Just another front in Google's war on ad blockers](https://www.theregister.com/2023/11/21/ad_block_google/)
-- Dec 13 - [A human embryonic limb cell atlas resolved in space and time](https://www.nature.com/articles/s41586-023-06806-x)
-- Dec 13 - [Professor in Jordan sues sleuth who exposed citation anomalies](https://retractionwatch.com/2023/11/29/professor-in-jordan-sues-sleuth-who-exposed-citation-anomalies/)
-- Dec 13 - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=38621289)
-- Dec 12 - [Tools for Learning LLVM TableGen](https://blog.llvm.org/posts/2023-12-07-tools-for-learning-llvm-tablegen/)
+- Dec 13 - [Apple Is Holding the Final Nail for X’s Coffin](https://www.bloomberg.com/opinion/articles/2023-12-12/apple-is-holding-the-final-nail-for-x-s-coffin)
+- Dec 13 - [Interview: Epic CEO Tim Sweeney after Google antitrust win](https://www.theverge.com/23996474/epic-tim-sweeney-interview-win-google-antitrust-lawsuit-district-court)
+- Dec 13 - [Apple now requires a judge's consent to hand over push notification data](https://www.reuters.com/technology/apple-now-requires-judges-consent-hand-over-push-notification-data-2023-12-12/)
+- Dec 13 - [GM says it's dropping Apple CarPlay and Android Auto because they're unsafe](https://jalopnik.com/gm-drops-apple-carplay-android-auto-unsafe-phone-1851093013)
+- Dec 13 - [Apple's new iPhone security setting keeps thieves out of your digital accounts](https://www.theverge.com/2023/12/12/23998665/apple-stolen-device-protection-face-touch-id-icloud-account-vulnerability-ios-17-3-beta)
 <!--END_SECTION:hn-->
 
 <!--
