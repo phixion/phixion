@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 13 - [Apple Is Holding the Final Nail for X’s Coffin](https://www.bloomberg.com/opinion/articles/2023-12-12/apple-is-holding-the-final-nail-for-x-s-coffin)
-- Dec 13 - [Interview: Epic CEO Tim Sweeney after Google antitrust win](https://www.theverge.com/23996474/epic-tim-sweeney-interview-win-google-antitrust-lawsuit-district-court)
-- Dec 13 - [Apple now requires a judge's consent to hand over push notification data](https://www.reuters.com/technology/apple-now-requires-judges-consent-hand-over-push-notification-data-2023-12-12/)
-- Dec 13 - [GM says it's dropping Apple CarPlay and Android Auto because they're unsafe](https://jalopnik.com/gm-drops-apple-carplay-android-auto-unsafe-phone-1851093013)
-- Dec 13 - [Apple's new iPhone security setting keeps thieves out of your digital accounts](https://www.theverge.com/2023/12/12/23998665/apple-stolen-device-protection-face-touch-id-icloud-account-vulnerability-ios-17-3-beta)
+- Dec 13 - [Tesla Recalls 2M Cars to Fix Autopilot Safety Flaws](https://www.bloomberg.com/news/articles/2023-12-13/tesla-autopilot-recall-2-million-cars-need-software-fix)
+- Dec 13 - [Tesla FSD Timeline](https://motherfrunker.ca/fsd/)
+- Dec 13 - [Plane, an open-source alternative to Jira, got to the #1 on GitHub](https://plane.so/blog/how-we-got-to-20k-github-stars)
+- Dec 13 - [Arc browser launches its Windows client in beta](https://techcrunch.com/2023/12/11/arc-browser-launches-its-windows-client-in-beta/)
+- Dec 13 - [Ask HN: What apps have you created for your own use?](https://news.ycombinator.com/item?id=38623695)
 <!--END_SECTION:hn-->
 
 <!--
