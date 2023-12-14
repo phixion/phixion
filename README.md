@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 14 - [Mohammad Alotol (From YC S22 Cohort) Killed in Gaza](https://twitter.com/teammanara/status/1734966168262148511?s=46)
+- Dec 14 - [Jerry (YC S17) is hiring senior software engineers and other roles (remote)](https://jobs.ashbyhq.com/Jerry/62e5f7b1-0a09-460a-8135-bf1f091a9394)
+- Dec 14 - [Do black holes have singularities?](https://arxiv.org/abs/2312.00841)
 - Dec 13 - [Show HN: I scraped 25M Shopify products to build a search engine](https://www.searchagora.com/)
-- Dec 13 - [New insights into neural end-of-life](https://neurosciencenews.com/death-brain-neuroscience-25356/)
-- Dec 13 - [The limitations of deep learning (2017)](https://blog.keras.io/the-limitations-of-deep-learning.html)
-- Dec 13 - [Remembering things that haven't happened yet](https://bessstillman.substack.com/p/remembering-things-that-havent-happened)
-- Dec 13 - [Debugging a Failing Hotkey](https://tratt.net/laurie/blog/2023/debugging_a_failing_hotkey.html)
+- Dec 13 - [Biscuit authorization](https://www.biscuitsec.org/)
 <!--END_SECTION:hn-->
 
 <!--
