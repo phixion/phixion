@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 15 - [OneSignal (YC S11) Is Hiring Engineers for It's SMS Platform Team](https://onesignal.com/careers/4303015006)
-- Dec 15 - [WebP is so great except it's not](https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/)
-- Dec 15 - [The Emergence of Full-Body Gaussian Splat Deepfake Humans](https://blog.metaphysic.ai/the-emergence-of-full-body-gaussian-splat-deepfake-humans/)
-- Dec 15 - [Interactive Tour of James Clerk Maxwell's House](https://clerkmaxwellfoundation.org/india-street/housetour.html)
-- Dec 15 - [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
+- Dec 15 - [Database Fundamentals](https://tontinton.com/posts/database-fundementals/)
+- Dec 15 - [Scheme in Scheme on WASM in the Browser](https://spritely.institute/news/scheme-in-scheme-on-wasm-in-the-browser.html)
+- Dec 15 - [Cognitive Distortions That Undermine Clear Thinking](https://www.leadingsapiens.com/cognitive-distortions-leaders/)
+- Dec 15 - [Double-Mirror Illusion](https://journalofillusion.net/index.php/joi/article/view/9839/16407)
+- Dec 15 - [Delta Dental says data breach exposed info of 7M people](https://www.bleepingcomputer.com/news/security/delta-dental-says-data-breach-exposed-info-of-7-million-people/)
 <!--END_SECTION:hn-->
 
 <!--
