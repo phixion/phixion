@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 15 - [Fragmentation](http://theprogrammersparadox.blogspot.com/2023/12/fragmentation.html)
-- Dec 15 - [AMD's Next GPU Is a 3D-Integrated Superchip](https://spectrum.ieee.org/amd-mi300)
-- Dec 15 - [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
-- Dec 15 - [Researchers create transparent magnetic materials using laser heating](http://www.tohoku.ac.jp/en/press/new_transparent_magnetic_material_created_by_adding_heat_with_a_laser.html)
-- Dec 15 - [Show HN: My Go SQLite driver did poorly on a benchmark, so I fixed it](https://github.com/ncruces/go-sqlite-bench)
+- Dec 15 - [OneSignal (YC S11) Is Hiring Engineers for It's SMS Platform Team](https://onesignal.com/careers/4303015006)
+- Dec 15 - [WebP is so great except it's not](https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/)
+- Dec 15 - [The Emergence of Full-Body Gaussian Splat Deepfake Humans](https://blog.metaphysic.ai/the-emergence-of-full-body-gaussian-splat-deepfake-humans/)
+- Dec 15 - [Interactive Tour of James Clerk Maxwell's House](https://clerkmaxwellfoundation.org/india-street/housetour.html)
+- Dec 15 - [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
 <!--END_SECTION:hn-->
 
 <!--
