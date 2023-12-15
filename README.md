@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 15 - [Database Fundamentals](https://tontinton.com/posts/database-fundementals/)
-- Dec 15 - [Scheme in Scheme on WASM in the Browser](https://spritely.institute/news/scheme-in-scheme-on-wasm-in-the-browser.html)
-- Dec 15 - [Cognitive Distortions That Undermine Clear Thinking](https://www.leadingsapiens.com/cognitive-distortions-leaders/)
-- Dec 15 - [Double-Mirror Illusion](https://journalofillusion.net/index.php/joi/article/view/9839/16407)
-- Dec 15 - [Delta Dental says data breach exposed info of 7M people](https://www.bleepingcomputer.com/news/security/delta-dental-says-data-breach-exposed-info-of-7-million-people/)
+- Dec 15 - [Prince Harry wins landmark phone hacking case against Britain's major tabloids](https://text.npr.org/1219536863)
+- Dec 15 - [McDonald's Ice Cream Machine Hackers Say They Found 'Smoking Gun'](https://www.wired.com/story/kytch-taylor-mcdonalds-ice-cream-machine-smoking-gun/)
+- Dec 15 - [I bricked my Christmas lights](https://www.whizzy.org/2023-12-14-bricked-xmas/)
+- Dec 15 - [OpenAI: Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
+- Dec 15 - [Show HN: Ottehr is a modern, open-source EHR](https://github.com/masslight/ottehr)
 <!--END_SECTION:hn-->
 
 <!--
