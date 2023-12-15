@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 15 - [Scratch Data (YC S21) Is Hiring](https://www.ycombinator.com/companies/scratch-data/jobs/fyTdOHH-founding-software-engineer)
-- Dec 15 - [Google Groups ending support for Usenet](https://support.google.com/groups/answer/11036538?hl=en)
-- Dec 14 - [The Stanford Prison Experiment was hugely influential. We learned it was a fraud (2018)](https://www.vox.com/2018/6/13/17449118/stanford-prison-experiment-fraud-psychology-replication)
-- Dec 14 - [Show HN: Airdraw](https://www.airdraw.io/)
-- Dec 14 - [Mitchell reflects as he departs HashiCorp](https://www.hashicorp.com/blog/mitchell-reflects-as-he-departs-hashicorp)
+- Dec 15 - [Fragmentation](http://theprogrammersparadox.blogspot.com/2023/12/fragmentation.html)
+- Dec 15 - [AMD's Next GPU Is a 3D-Integrated Superchip](https://spectrum.ieee.org/amd-mi300)
+- Dec 15 - [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
+- Dec 15 - [Researchers create transparent magnetic materials using laser heating](http://www.tohoku.ac.jp/en/press/new_transparent_magnetic_material_created_by_adding_heat_with_a_laser.html)
+- Dec 15 - [Show HN: My Go SQLite driver did poorly on a benchmark, so I fixed it](https://github.com/ncruces/go-sqlite-bench)
 <!--END_SECTION:hn-->
 
 <!--
