@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 16 - [Stop Planting Trees, Says Guy Who Inspired World to Plant a Trillion Trees](https://www.wired.com/story/stop-planting-trees-thomas-crowther/)
-- Dec 16 - [How the nutritional value of staple crops dropped by 50% since the 1960s](https://jeroenvanbaar.substack.com/p/data-dispatch-4-the-falling-nutritional)
-- Dec 16 - [SSH3: SSH using HTTP/3 and QUIC](https://github.com/francoismichel/ssh3)
-- Dec 16 - [A Beautiful library of SVG logos](https://svgl.vercel.app/)
-- Dec 16 - [Hitchhiker's Guide to Moving from Relational Data to Events](https://event-driven.io/en/the_end_is_near_for_crud_data/)
+- Dec 16 - [AMD FSR is the building block for Apple's hybrid MetalFX upscaling tech](https://www.tomshardware.com/pc-components/gpus/amd-fsr-is-the-building-block-for-apples-metalfx-upscaling-tech-the-apps-legal-info-references-the-usage-of-amd-fsr)
+- Dec 16 - [What is the point of a public key fingerprint?](https://www.johndcook.com/blog/2023/12/15/pgp-fingerprint/)
+- Dec 16 - [Sydney man dubbed the 'Annihilator' wins spreadsheet world championship](https://www.theguardian.com/australia-news/2023/dec/15/you-didnt-just-succeed-you-exceled-sydney-man-dubbed-the-annihilator-wins-excel-world-championship)
+- Dec 16 - [Atree: A simple and efficient pointer-free tree implementation](https://github.com/tlack/atree)
+- Dec 16 - [The New Essential Guide to Electronics in Shenzhen](https://www.bunniestudios.com/blog/?p=6886)
 <!--END_SECTION:hn-->
 
 <!--
