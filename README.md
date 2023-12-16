@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 16 - [Advancements in machine learning for machine learning](https://blog.research.google/2023/12/advancements-in-machine-learning-for.html)
-- Dec 16 - [CVE-2023-45866: Bluetooth keystroke-injection in Android, Linux, macOS and iOS](https://github.com/skysafe/reblog/tree/main/cve-2023-45866)
-- Dec 16 - [InpharmD (YC W21) Is Hiring – NLP/ML Engineer](https://www.inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer)
-- Dec 16 - [City Council Passes Bill Enabling Tenants to Report Vacant Apartments](https://www.thecity.nyc/2023/12/06/warehousing-vacant-apartments-report-council/)
-- Dec 16 - [Location history data in Google Maps will soon be stored on user devices](https://www.businessinsider.com/google-maps-location-data-history-stored-locally-2023-12)
+- Dec 16 - [OpenAI suspends ByteDance's account after it used GPT to train its own AI model](https://www.theverge.com/2023/12/15/24003542/openai-suspends-bytedances-account-after-it-used-gpt-to-train-its-own-ai-model)
+- Dec 16 - [Transactional Email Delivery Made Easy](https://maileroo.com/)
+- Dec 16 - [Show HN: DynamiCrafter: Animating Open-Domain Images with Video Diffusion Priors](https://github.com/Doubiiu/DynamiCrafter)
+- Dec 16 - [Astronomers detect almost 100 new extremely-metal poor galaxies](https://phys.org/news/2023-12-astronomers-extremely-metal-poor-galaxies.html)
+- Dec 16 - [The music player you wish you had in the early 2000s](https://www.crowdsupply.com/cool-tech-zone/tangara)
 <!--END_SECTION:hn-->
 
 <!--
