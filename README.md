@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 16 - [UK court allows ANN patent saying computer programs exclusion does not apply](https://www.bailii.org/ew/cases/EWHC/Ch/2023/2948.html)
-- Dec 16 - [OpenAI suspends ByteDance's account after it used GPT to train its own AI model](https://www.theverge.com/2023/12/15/24003542/openai-suspends-bytedances-account-after-it-used-gpt-to-train-its-own-ai-model)
-- Dec 16 - [Show HN: DynamiCrafter: Animating Open-Domain Images with Video Diffusion Priors](https://github.com/Doubiiu/DynamiCrafter)
-- Dec 16 - [25 hours of Xcode Cloud now included with the Apple Developer Program](https://developer.apple.com/news/?id=ik9z4ll6)
-- Dec 16 - [Astronomers detect almost 100 new extremely-metal poor galaxies](https://phys.org/news/2023-12-astronomers-extremely-metal-poor-galaxies.html)
+- Dec 16 - [Stop Planting Trees, Says Guy Who Inspired World to Plant a Trillion Trees](https://www.wired.com/story/stop-planting-trees-thomas-crowther/)
+- Dec 16 - [How the nutritional value of staple crops dropped by 50% since the 1960s](https://jeroenvanbaar.substack.com/p/data-dispatch-4-the-falling-nutritional)
+- Dec 16 - [SSH3: SSH using HTTP/3 and QUIC](https://github.com/francoismichel/ssh3)
+- Dec 16 - [A Beautiful library of SVG logos](https://svgl.vercel.app/)
+- Dec 16 - [Hitchhiker's Guide to Moving from Relational Data to Events](https://event-driven.io/en/the_end_is_near_for_crud_data/)
 <!--END_SECTION:hn-->
 
 <!--
