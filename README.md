@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 15 - [Discord Down](https://discordstatus.com/incidents/g1wscdngpyx9)
-- Dec 15 - [Tortured conference series thriving in Computer Science](https://hal.science/hal-04311585v1)
-- Dec 15 - [New plans for self-hosted Zulip customers](https://blog.zulip.com/2023/12/15/new-plans-for-self-hosted-customers/)
-- Dec 15 - [Cloudflare is experiencing elevated 5xx responses](https://news.ycombinator.com/item?id=38659404)
-- Dec 15 - [Noteable.io Is Shutting Down](https://community.noteable.io/c/announcements-4da7da/noteable-is-terminating-its-platform-and-services)
+- Dec 16 - [Advancements in machine learning for machine learning](https://blog.research.google/2023/12/advancements-in-machine-learning-for.html)
+- Dec 16 - [CVE-2023-45866: Bluetooth keystroke-injection in Android, Linux, macOS and iOS](https://github.com/skysafe/reblog/tree/main/cve-2023-45866)
+- Dec 16 - [InpharmD (YC W21) Is Hiring – NLP/ML Engineer](https://www.inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer)
+- Dec 16 - [City Council Passes Bill Enabling Tenants to Report Vacant Apartments](https://www.thecity.nyc/2023/12/06/warehousing-vacant-apartments-report-council/)
+- Dec 16 - [Location history data in Google Maps will soon be stored on user devices](https://www.businessinsider.com/google-maps-location-data-history-stored-locally-2023-12)
 <!--END_SECTION:hn-->
 
 <!--
