@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 17 - [Steve Jobs Rigged the First iPhone Demo by Faking Full Signal Strength](https://finance.yahoo.com/news/steve-jobs-rigged-first-iphone-152527272.html)
-- Dec 17 - [Freight Trains: Last Week Tonight](https://www.youtube.com/watch?v=AJ2keSJzYyY)
-- Dec 17 - [Augmenting long-term memory (2018)](https://augmentingcognition.com/ltm.html)
-- Dec 17 - [Show HN: NowDo – a super-simple todo app for procrastinators (macOS)](https://nowdo.org/)
-- Dec 17 - [Unlogged (YC S22) is hiring to automate regression testing](https://news.ycombinator.com/item?id=38669395)
+- Dec 17 - [Show HN: Made a forum for depressed founders to confide](https://www.depressedfounders.com/)
+- Dec 17 - [The Apollo Syndrome](https://www.teamtechnology.co.uk/tt/t-articl/apollo.htm)
+- Dec 17 - [Internet Explorer is Evil: The Story (2010)](http://toastytech.com/evil/ieisevilstory.html)
+- Dec 17 - [Ask HN: Terrified I wont find another job](https://news.ycombinator.com/item?id=38670712)
+- Dec 17 - [AI bots are now outperforming humans in solving CAPTCHAs](https://arxiv.org/abs/2307.12108)
 <!--END_SECTION:hn-->
 
 <!--
