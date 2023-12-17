@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 16 - [Epic Games, Google and App Store Monopolies](https://thisisunpacked.substack.com/p/epic-games-google-and-app-store-monopolies)
-- Dec 16 - [Would it be possible to detect an industrial civilization in geological record?](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/silurian-hypothesis-would-it-be-possible-to-detect-an-industrial-civilization-in-the-geological-record/77818514AA6907750B8F4339F7C70EC6)
-- Dec 16 - [Transformers on Chips](https://www.etched.ai)
-- Dec 16 - [Intel, Samsung, and TSMC Demo 3D-Stacked Transistors](https://spectrum.ieee.org/cfet-intel-samsung-tsmc)
-- Dec 16 - [Is there a black hole in the center of the Sun?](https://arxiv.org/abs/2312.07647)
+- Dec 17 - [Steve Jobs Rigged the First iPhone Demo by Faking Full Signal Strength](https://finance.yahoo.com/news/steve-jobs-rigged-first-iphone-152527272.html)
+- Dec 17 - [Freight Trains: Last Week Tonight](https://www.youtube.com/watch?v=AJ2keSJzYyY)
+- Dec 17 - [Augmenting long-term memory (2018)](https://augmentingcognition.com/ltm.html)
+- Dec 17 - [Show HN: NowDo – a super-simple todo app for procrastinators (macOS)](https://nowdo.org/)
+- Dec 17 - [Unlogged (YC S22) is hiring to automate regression testing](https://news.ycombinator.com/item?id=38669395)
 <!--END_SECTION:hn-->
 
 <!--
