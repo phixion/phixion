@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 17 - [Show HN: Made a forum for depressed founders to confide](https://www.depressedfounders.com/)
+- Dec 17 - [Texas power plants have no responsibility to provide electricity in emergencies](https://www.kut.org/energy-environment/2023-12-15/texas-power-plants-have-no-responsibility-to-provide-electricity-in-emergencies-judges-rule)
+- Dec 17 - [Retailers have a crime problem. It's in the numbers](https://www.retaildive.com/news/retailers-crime-problem-numbers/699107/)
+- Dec 17 - [The origin of the law of torture: A cautionary tale](https://daviddfriedman.substack.com/p/torture)
+- Dec 17 - [Hylomorphism](https://1000wordphilosophy.com/2023/12/04/hylomorphism/)
 - Dec 17 - [The Apollo Syndrome](https://www.teamtechnology.co.uk/tt/t-articl/apollo.htm)
-- Dec 17 - [Internet Explorer is Evil: The Story (2010)](http://toastytech.com/evil/ieisevilstory.html)
-- Dec 17 - [Ask HN: Terrified I wont find another job](https://news.ycombinator.com/item?id=38670712)
-- Dec 17 - [AI bots are now outperforming humans in solving CAPTCHAs](https://arxiv.org/abs/2307.12108)
 <!--END_SECTION:hn-->
 
 <!--
