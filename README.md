@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 16 - [AMD FSR is the building block for Apple's hybrid MetalFX upscaling tech](https://www.tomshardware.com/pc-components/gpus/amd-fsr-is-the-building-block-for-apples-metalfx-upscaling-tech-the-apps-legal-info-references-the-usage-of-amd-fsr)
-- Dec 16 - [What is the point of a public key fingerprint?](https://www.johndcook.com/blog/2023/12/15/pgp-fingerprint/)
-- Dec 16 - [Sydney man dubbed the 'Annihilator' wins spreadsheet world championship](https://www.theguardian.com/australia-news/2023/dec/15/you-didnt-just-succeed-you-exceled-sydney-man-dubbed-the-annihilator-wins-excel-world-championship)
-- Dec 16 - [Atree: A simple and efficient pointer-free tree implementation](https://github.com/tlack/atree)
-- Dec 16 - [The New Essential Guide to Electronics in Shenzhen](https://www.bunniestudios.com/blog/?p=6886)
+- Dec 16 - [Epic Games, Google and App Store Monopolies](https://thisisunpacked.substack.com/p/epic-games-google-and-app-store-monopolies)
+- Dec 16 - [Would it be possible to detect an industrial civilization in geological record?](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/silurian-hypothesis-would-it-be-possible-to-detect-an-industrial-civilization-in-the-geological-record/77818514AA6907750B8F4339F7C70EC6)
+- Dec 16 - [Transformers on Chips](https://www.etched.ai)
+- Dec 16 - [Intel, Samsung, and TSMC Demo 3D-Stacked Transistors](https://spectrum.ieee.org/cfet-intel-samsung-tsmc)
+- Dec 16 - [Is there a black hole in the center of the Sun?](https://arxiv.org/abs/2312.07647)
 <!--END_SECTION:hn-->
 
 <!--
