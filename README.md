@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 17 - [Tracking Java Native Memory with JDK Flight Recorder](https://www.morling.dev/blog/tracking-java-native-memory-with-jdk-flight-recorder/)
-- Dec 17 - [Reindeer can see UV light](https://journals.sagepub.com/doi/full/10.1177/20416695231218520)
-- Dec 17 - [Qatar Airways Bans YouTuber for Negative Review](https://onemileatatime.com/news/qatar-airways-bans-youtuber-negative-review/)
-- Dec 17 - ["Yes" Means "No": The Curious Language of Venture Capitalists](https://jacobbartlett.substack.com/p/yes-actually-means-no-the-curious)
-- Dec 17 - [OpenAI employee: GPT-4.5 rumor was a hallucination](https://twitter.com/willdepue/status/1736470540351950867)
+- Dec 18 - [Why liberalism and leftism are increasingly at odds](https://www.natesilver.net/p/why-liberalism-and-leftism-are-increasingly)
+- Dec 18 - [Pilots hide mental health problems so they don't lose their licenses](https://www.washingtonpost.com/travel/2023/12/15/pilots-mental-health-faa-certification/)
+- Dec 18 - [Bricks Can Absorb Traffic Noise – Thesis Preso on Helmholtz Resonators [video]](https://www.youtube.com/watch?v=y9-p4AkgVU8)
+- Dec 18 - [AMD MI300X 30% higher performance than Nvidia H100, even with optimized stack](https://www.tomshardware.com/pc-components/gpus/amd-strikes-back-at-nvidia-with-new-mi300x-benchmarks-mi300x-shows-30-higher-performance-than-h100-even-with-an-optimized-software-stack)
+- Dec 18 - [Mickey, Disney, and the public domain: A 95-year love triangle](https://web.law.duke.edu/cspd/mickey/)
 <!--END_SECTION:hn-->
 
 <!--
