@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 18 - [Show HN: Microagents: Agents capable of self-editing their prompts / Python code](https://github.com/aymenfurter/microagents)
-- Dec 18 - [Small offline large language model – TinyChatEngine from MIT](https://graphthinking.blogspot.com/2023/12/small-offline-large-language-model.html)
-- Dec 18 - [Autonomous subs use AI to wayfind without GPS](https://spectrum.ieee.org/reinforcement-learning-autonomous-submarines)
-- Dec 18 - [Bricks Can Absorb Traffic Noise – Thesis Preso on Helmholtz Resonators [video]](https://www.youtube.com/watch?v=y9-p4AkgVU8)
-- Dec 18 - [AMD MI300X 30% higher performance than Nvidia H100, even with optimized stack](https://www.tomshardware.com/pc-components/gpus/amd-strikes-back-at-nvidia-with-new-mi300x-benchmarks-mi300x-shows-30-higher-performance-than-h100-even-with-an-optimized-software-stack)
+- Dec 18 - [Commission opens formal proceedings against X under the Digital Services Act](https://ec.europa.eu/commission/presscorner/detail/en/ip_23_6709)
+- Dec 18 - [Interactive Code Cells](https://antonz.org/code-cells/)
+- Dec 18 - [Fritzbox: AVM is threatened with a sales ban due to violations of Huawei patents](https://www.aroged.com/2023/12/15/fritzbox-avm-is-threatened-with-a-sales-ban-due-to-violations-of-huaweis-wlan-patents/)
+- Dec 18 - [Continue will generate, refactor, and explain entire sections of code](https://continue.dev/)
+- Dec 18 - [Show HN: SPF Deconstructor in Rust](https://github.com/Bas-Man/rust-decon-spf)
 <!--END_SECTION:hn-->
 
 <!--
