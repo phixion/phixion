@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 18 - [Commission opens formal proceedings against X under the Digital Services Act](https://ec.europa.eu/commission/presscorner/detail/en/ip_23_6709)
-- Dec 18 - [Interactive Code Cells](https://antonz.org/code-cells/)
-- Dec 18 - [Fritzbox: AVM is threatened with a sales ban due to violations of Huawei patents](https://www.aroged.com/2023/12/15/fritzbox-avm-is-threatened-with-a-sales-ban-due-to-violations-of-huaweis-wlan-patents/)
-- Dec 18 - [Continue will generate, refactor, and explain entire sections of code](https://continue.dev/)
-- Dec 18 - [Show HN: SPF Deconstructor in Rust](https://github.com/Bas-Man/rust-decon-spf)
+- Dec 18 - [Progress toward a GCC-based Rust compiler](https://lwn.net/SubscriberLink/954787/41470c731eda02a4/)
+- Dec 18 - [Why Are Things Expensive?](https://www.why-expensive.com/)
+- Dec 18 - [US Steel, once the largest corporation, agrees to sell to Nippon Steel](https://www.cnn.com/2023/12/18/investing/us-steel-nippon-steel-deal/index.html)
+- Dec 18 - [Send Me to Heaven](https://en.wikipedia.org/wiki/Send_Me_To_Heaven)
+- Dec 18 - [Beeper vs. Apple battle intensifies: Lawmakers demand DOJ investigation](https://www.androidauthority.com/beeper-vs-apple-us-senators-letter-doj-3395333/)
 <!--END_SECTION:hn-->
 
 <!--
