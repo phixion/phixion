@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 19 - [Google podcasts is shutting down](https://support.google.com/youtubemusic/answer/14151168?hl=en)
-- Dec 19 - [The Inner Ring (1944)](https://www.lewissociety.org/innerring/)
-- Dec 19 - [Improve Jupyter Notebook Reruns by Caching Cells](https://github.com/xetdata/xetcache)
-- Dec 19 - [Fedora Asahi Remix](https://asahilinux.org/fedora/)
-- Dec 19 - [The day I started believing in unit tests](https://mental-reverb.com/blog.php?id=42)
+- Dec 19 - [Stupid by Choice](https://www.alexmolas.com/2023/09/18/embracing-dumbness.html)
+- Dec 19 - [Asyncio Task Cancellation Best Practices](https://superfastpython.com/asyncio-task-cancellation-best-practices/)
+- Dec 19 - [At Least 15% of Reddit Content Is Corporate Trolls Manipulating Public Opinion](https://medium.com/collapsenews/new-study-at-least-15-of-all-reddit-content-is-corporate-trolls-trying-to-manipulate-public-b249bd42ab42)
+- Dec 19 - [Mercedes adds a new car light color: Blue for self-driving](https://www.cnn.com/2023/12/19/business/mercedes-adds-new-light-color-blue-for-self-driving/index.html)
+- Dec 19 - [Bit banging a 3.5" Floppy Drive](https://floppy.cafe/)
 <!--END_SECTION:hn-->
 
 <!--
