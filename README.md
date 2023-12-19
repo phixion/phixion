@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 19 - [FOSDEM 2024 Schedule](https://fosdem.org/2024/schedule/)
-- Dec 19 - [RFC 9518 – What can internet standards do about centralisation?](https://www.mnot.net/blog/2023/12/19/standards-and-centralization)
-- Dec 19 - [Hardware Intrinsics in .NET 8](https://devblogs.microsoft.com/dotnet/dotnet-8-hardware-intrinsics/)
-- Dec 19 - [Marvin Attack on RSA (Rust): potential key recovery through timing sidechannels](https://github.com/RustCrypto/RSA/security/advisories/GHSA-c38w-74pg-36hr)
-- Dec 19 - [Qt 6.6 and 6.7 Make QML Faster Than Ever: A New Benchmark and Analysis](https://www.qt.io/blog/qt-6.6-and-6.7-make-qml-faster-than-ever-a-new-benchmark-and-analysis)
+- Dec 19 - [Google podcasts is shutting down](https://support.google.com/youtubemusic/answer/14151168?hl=en)
+- Dec 19 - [The Inner Ring (1944)](https://www.lewissociety.org/innerring/)
+- Dec 19 - [Improve Jupyter Notebook Reruns by Caching Cells](https://github.com/xetdata/xetcache)
+- Dec 19 - [Fedora Asahi Remix](https://asahilinux.org/fedora/)
+- Dec 19 - [The day I started believing in unit tests](https://mental-reverb.com/blog.php?id=42)
 <!--END_SECTION:hn-->
 
 <!--
