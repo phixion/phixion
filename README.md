@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 19 - [She Gave a Hotel a Mediocre Review. Then Came the Badgering](https://www.wsj.com/business/online-reviews-positive-customers-pressured-to-leave-9efbade7)
-- Dec 19 - [Zombie fly fungus lures healthy male flies to mate with female corpses (2022)](https://phys.org/news/2022-07-zombie-fungus-lures-healthy-male.html)
-- Dec 19 - [The first experimental support for LK99-type superconductivity](https://arxiv.org/abs/2312.10391)
-- Dec 19 - [Unbricking my MacBook took an email to Tim Cook (and a #1 post on Hacker News)](https://www.tokyodev.com/articles/unbricking-my-macbook-took-an-email-to-tim-cook)
-- Dec 18 - [Google's True Moonshot](https://stratechery.com/2023/googles-true-moonshot/)
+- Dec 19 - [Gokrazy – Go Appliances](https://gokrazy.org/)
+- Dec 19 - [The Illustrated GPT-2: Visualizing Transformer Language Models (2019)](https://jalammar.github.io/illustrated-gpt2/)
+- Dec 19 - [Why do programmers need private offices with doors? (Do Not Disturb)](https://blobstreaming.org/why-do-programmers-need-private-offices-with-doors-do-not-disturb/)
+- Dec 19 - [3D Printer Auto Bed Leveling Mesh Visualizer](https://i.chillrain.com/index.php/3d-printer-auto-bed-leveling-mesh-visualizer/)
+- Dec 19 - [Unbricking my MacBook took an email to Tim Cook](https://www.tokyodev.com/articles/unbricking-my-macbook-took-an-email-to-tim-cook)
 <!--END_SECTION:hn-->
 
 <!--
