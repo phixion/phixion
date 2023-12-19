@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 18 - [Grindavik [video]](https://www.youtube.com/watch?v=hvcP4kVVOnk)
-- Dec 18 - [Lessons from a never-ending personal project](https://siddhesh.substack.com/p/projects)
-- Dec 18 - [LLMLingua: Compressing Prompts for Faster Inferencing](https://github.com/microsoft/LLMLingua)
-- Dec 18 - [Volcanic eruption started just north of the town of Grindavik, Iceland](https://www.visir.is/g/20232505181d/eld-gos-hafid-a-reykja-nes-skaga)
-- Dec 18 - [Cal Newport: It's Time to Dismantle the Technopoly](https://www.newyorker.com/tech/annals-of-technology/its-time-to-dismantle-the-technopoly)
+- Dec 19 - [She Gave a Hotel a Mediocre Review. Then Came the Badgering](https://www.wsj.com/business/online-reviews-positive-customers-pressured-to-leave-9efbade7)
+- Dec 19 - [Zombie fly fungus lures healthy male flies to mate with female corpses (2022)](https://phys.org/news/2022-07-zombie-fungus-lures-healthy-male.html)
+- Dec 19 - [The first experimental support for LK99-type superconductivity](https://arxiv.org/abs/2312.10391)
+- Dec 19 - [Unbricking my MacBook took an email to Tim Cook (and a #1 post on Hacker News)](https://www.tokyodev.com/articles/unbricking-my-macbook-took-an-email-to-tim-cook)
+- Dec 18 - [Google's True Moonshot](https://stratechery.com/2023/googles-true-moonshot/)
 <!--END_SECTION:hn-->
 
 <!--
