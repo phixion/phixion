@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 19 - [EmberGen – Create Fire, Smoke, and Explosions in Real-Time](https://jangafx.com/software/embergen/)
-- Dec 19 - [Performance of llama.cpp on Apple Silicon A-series](https://github.com/ggerganov/llama.cpp/discussions/4508)
-- Dec 19 - [Beeper's esoteric fix for iMessage access suggests why it's pushing politically](https://arstechnica.com/gadgets/2023/12/beepers-esoteric-fix-for-imessage-access-suggests-why-its-pushing-politically/)
-- Dec 19 - [Tell HN: Microsoft.com added 192.168.1.1 to their DNS record](https://news.ycombinator.com/item?id=38702783)
-- Dec 19 - [The Linux graphics stack in a nutshell](https://lwn.net/SubscriberLink/955376/b3fba3bbfabbc411/)
+- Dec 20 - [All Our Patent Are Belong to You (2014)](https://www.tesla.com/blog/all-our-patent-are-belong-you)
+- Dec 20 - [Rite Aid Banned from Using AI Facial Recognition for Five Years](https://www.ftc.gov/news-events/news/press-releases/2023/12/rite-aid-banned-using-ai-facial-recognition-after-ftc-says-retailer-deployed-technology-without)
+- Dec 20 - [Sam Altman got $75M from the University of Michigan for a new VC fund](https://fortune.com/2023/12/19/sam-altman-university-michigan-venture-fund/)
+- Dec 20 - [The Private Equity Firm Tapping America's Spring Water](https://www.bloomberg.com/features/2023-california-spring-water-bluetriton/)
+- Dec 20 - [An update on HDR and color management in KWin](https://zamundaaa.github.io/wayland/2023/12/18/update-on-hdr-and-colormanagement-in-plasma.html)
 <!--END_SECTION:hn-->
 
 <!--
