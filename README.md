@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 20 - [All Our Patent Are Belong to You (2014)](https://www.tesla.com/blog/all-our-patent-are-belong-you)
-- Dec 20 - [Rite Aid Banned from Using AI Facial Recognition for Five Years](https://www.ftc.gov/news-events/news/press-releases/2023/12/rite-aid-banned-using-ai-facial-recognition-after-ftc-says-retailer-deployed-technology-without)
-- Dec 20 - [Sam Altman got $75M from the University of Michigan for a new VC fund](https://fortune.com/2023/12/19/sam-altman-university-michigan-venture-fund/)
-- Dec 20 - [The Private Equity Firm Tapping America's Spring Water](https://www.bloomberg.com/features/2023-california-spring-water-bluetriton/)
+- Dec 20 - [Show HN: I built an open source AI video search engine to learn more about AI](https://avse.vercel.app)
+- Dec 20 - [LLM in a Flash: Efficient LLM Inference with Limited Memory](https://huggingface.co/papers/2312.11514)
+- Dec 20 - [Rite Aid banned from using AI facial recognition for five years](https://www.ftc.gov/news-events/news/press-releases/2023/12/rite-aid-banned-using-ai-facial-recognition-after-ftc-says-retailer-deployed-technology-without)
+- Dec 20 - [An underground delivery train comes to the Atlanta suburbs](https://www.bloomberg.com/news/articles/2023-12-14/are-underground-tubes-the-future-of-home-delivery-this-startup-hopes-so)
 - Dec 20 - [An update on HDR and color management in KWin](https://zamundaaa.github.io/wayland/2023/12/18/update-on-hdr-and-colormanagement-in-plasma.html)
 <!--END_SECTION:hn-->
 
