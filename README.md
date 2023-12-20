@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 20 - [Notesnook – open-source and zero knowledge private note taking app](https://notesnook.com/)
-- Dec 20 - [Elite: "The game that couldn't be written" [video]](https://www.youtube.com/watch?v=lC4YLMLar5I)
-- Dec 20 - [Why if TYPE_CHECKING?](https://vickiboykis.com/2023/12/11/why-if-type_checking/)
-- Dec 20 - [Advice for new software devs who've read all those other advice essays](https://buttondown.email/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/)
-- Dec 20 - [End of an era for electronics giant Toshiba](https://www.bbc.com/news/business-67757333)
+- Dec 20 - [Volkswagen, Porsche, and Audi finally say they will use Tesla's EV charging plug](https://www.theverge.com/2023/12/19/24008426/volkswagen-audi-porsche-tesla-nacs-ev-charging-plug)
+- Dec 20 - [Show HN: I made a dead simple logo maker](https://shipfa.st/tools/logo-fast)
+- Dec 20 - [Podman Desktop 1.6 released: Even more Kubernetes and Containers features](https://podman-desktop.io/blog/podman-desktop-release-1.6)
+- Dec 20 - [Netlify's disingenuous survey-based attack on Next.js (and eleventy, too)](https://www.zachleat.com/web/netlify-and-nextjs/)
+- Dec 20 - [Minimal implementation of Mamba, the new LLM architecture, in 1 file of PyTorch](https://github.com/johnma2006/mamba-minimal)
 <!--END_SECTION:hn-->
 
 <!--
