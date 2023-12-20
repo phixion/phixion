@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 20 - [Volkswagen, Porsche, and Audi finally say they will use Tesla's EV charging plug](https://www.theverge.com/2023/12/19/24008426/volkswagen-audi-porsche-tesla-nacs-ev-charging-plug)
-- Dec 20 - [Show HN: I made a dead simple logo maker](https://shipfa.st/tools/logo-fast)
-- Dec 20 - [Podman Desktop 1.6 released: Even more Kubernetes and Containers features](https://podman-desktop.io/blog/podman-desktop-release-1.6)
-- Dec 20 - [Netlify's disingenuous survey-based attack on Next.js (and eleventy, too)](https://www.zachleat.com/web/netlify-and-nextjs/)
-- Dec 20 - [Minimal implementation of Mamba, the new LLM architecture, in 1 file of PyTorch](https://github.com/johnma2006/mamba-minimal)
+- Dec 20 - [Tesla blamed drivers for failures of parts it long knew were defective](https://www.reuters.com/world/tesla-blamed-drivers-failures-parts-it-long-knew-were-defective-2023-12-20/)
+- Dec 20 - [Bird, once valued at $2.5B, just filed for bankruptcy](https://www.businessinsider.com/bird-silicon-valley-electric-scooter-startup-files-for-bankruptcy-2023-12)
+- Dec 20 - [The Machiavellian Maze](https://www.robkhenderson.com/p/the-machiavellian-maze)
+- Dec 20 - [An AI that learns about chemical reactions and designs a procedure to make them](https://new.nsf.gov/science-matters/meet-coscientist-your-ai-lab-partner)
+- Dec 20 - [What's next for Tor and privacy online?](https://blog.torproject.org/tor-in-2023/)
 <!--END_SECTION:hn-->
 
 <!--
