@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 20 - [Show HN: I built an open source AI video search engine to learn more about AI](https://avse.vercel.app)
-- Dec 20 - [LLM in a Flash: Efficient LLM Inference with Limited Memory](https://huggingface.co/papers/2312.11514)
-- Dec 20 - [Rite Aid banned from using AI facial recognition for five years](https://www.ftc.gov/news-events/news/press-releases/2023/12/rite-aid-banned-using-ai-facial-recognition-after-ftc-says-retailer-deployed-technology-without)
-- Dec 20 - [An underground delivery train comes to the Atlanta suburbs](https://www.bloomberg.com/news/articles/2023-12-14/are-underground-tubes-the-future-of-home-delivery-this-startup-hopes-so)
-- Dec 20 - [An update on HDR and color management in KWin](https://zamundaaa.github.io/wayland/2023/12/18/update-on-hdr-and-colormanagement-in-plasma.html)
+- Dec 20 - [Notesnook – open-source and zero knowledge private note taking app](https://notesnook.com/)
+- Dec 20 - [Elite: "The game that couldn't be written" [video]](https://www.youtube.com/watch?v=lC4YLMLar5I)
+- Dec 20 - [Why if TYPE_CHECKING?](https://vickiboykis.com/2023/12/11/why-if-type_checking/)
+- Dec 20 - [Advice for new software devs who've read all those other advice essays](https://buttondown.email/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/)
+- Dec 20 - [End of an era for electronics giant Toshiba](https://www.bbc.com/news/business-67757333)
 <!--END_SECTION:hn-->
 
 <!--
