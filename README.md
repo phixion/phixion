@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 19 - [Stupid by Choice](https://www.alexmolas.com/2023/09/18/embracing-dumbness.html)
-- Dec 19 - [Asyncio Task Cancellation Best Practices](https://superfastpython.com/asyncio-task-cancellation-best-practices/)
-- Dec 19 - [At Least 15% of Reddit Content Is Corporate Trolls Manipulating Public Opinion](https://medium.com/collapsenews/new-study-at-least-15-of-all-reddit-content-is-corporate-trolls-trying-to-manipulate-public-b249bd42ab42)
-- Dec 19 - [Mercedes adds a new car light color: Blue for self-driving](https://www.cnn.com/2023/12/19/business/mercedes-adds-new-light-color-blue-for-self-driving/index.html)
-- Dec 19 - [Bit banging a 3.5" Floppy Drive](https://floppy.cafe/)
+- Dec 19 - [EmberGen – Create Fire, Smoke, and Explosions in Real-Time](https://jangafx.com/software/embergen/)
+- Dec 19 - [Performance of llama.cpp on Apple Silicon A-series](https://github.com/ggerganov/llama.cpp/discussions/4508)
+- Dec 19 - [Beeper's esoteric fix for iMessage access suggests why it's pushing politically](https://arstechnica.com/gadgets/2023/12/beepers-esoteric-fix-for-imessage-access-suggests-why-its-pushing-politically/)
+- Dec 19 - [Tell HN: Microsoft.com added 192.168.1.1 to their DNS record](https://news.ycombinator.com/item?id=38702783)
+- Dec 19 - [The Linux graphics stack in a nutshell](https://lwn.net/SubscriberLink/955376/b3fba3bbfabbc411/)
 <!--END_SECTION:hn-->
 
 <!--
