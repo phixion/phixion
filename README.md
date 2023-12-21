@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 20 - [NRF retracts its assertion that organized retail crime led to 50% of losses](https://stateline.org/2023/12/19/smash-and-grab-robberies-fuel-new-laws-but-critics-question-the-need/)
-- Dec 20 - [iMessage Key Verification](https://support.apple.com/en-gb/HT213465)
-- Dec 20 - [Rolex fined $100M for preventing its watches being sold online](https://usa.watchpro.com/rolex-fined-100-million-for-preventing-its-watches-being-sold-online/)
-- Dec 20 - [How to Escape a Container](https://www.panoptica.app/research/7-ways-to-escape-a-container)
-- Dec 20 - [Text-to-CAD](https://zoo.dev/blog/introducing-text-to-cad)
+- Dec 21 - [HP raising Instant Ink subscription pricing significantly](https://www.ghacks.net/2023/12/20/hp-raising-instant-ink-subscription-pricing-significantly/)
+- Dec 21 - [U.S. workers say banned weed killer in 50 countries is giving them Parkinson's](https://www.latimes.com/environment/story/2023-12-20/california-workers-say-herbicide-is-giving-them-parkinsons)
+- Dec 21 - [A closer look at e/OS: Murena's privacy-first 'deGoogled' Android alternative](https://techcrunch.com/2023/09/05/murena-eos-fairphone-4/)
+- Dec 21 - [OpenAI Begins Tackling ChatGPT Data Leak Vulnerability](https://embracethered.com/blog/posts/2023/openai-data-exfiltration-first-mitigations-implemented/)
+- Dec 21 - [Catalyst – Tailwind CSS Application UI Kit](https://tailwindui.com/templates/catalyst)
 <!--END_SECTION:hn-->
 
 <!--
