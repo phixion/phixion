@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 21 - [1992 – Interest rate 500% – the Swedish krona floats](https://www.riksbank.se/en-gb/about-the-riksbank/history/historical-timeline/1900-1999/interest-rate-500--the-krona-floats/)
-- Dec 21 - [WASM Container Orchestration with Visual Flows](https://medium.com/@prajzler/webassembly-orchestration-with-visual-flows-eef4df56bde2)
-- Dec 21 - [Gleam v0.33 – Exhaustive Gleam](https://gleam.run/news/v0.33-exhaustive-gleam/)
-- Dec 21 - [7.1M miles, 3 minor injuries: Waymo's safety data looks good](https://arstechnica.com/cars/2023/12/human-drivers-crash-a-lot-more-than-waymos-software-data-shows/)
-- Dec 21 - [Rust to stabilize `async fn` and return-position `impl Trait` in traits](https://blog.rust-lang.org/2023/12/21/async-fn-rpit-in-traits.html)
+- Dec 21 - [Hyperloop One to Shut Down After Failing to Reinvent Transit](https://www.bloomberg.com/news/articles/2023-12-21/hyperloop-one-to-shut-down-after-raising-millions-to-reinvent-transit)
+- Dec 21 - [The CEO and the Three Envelopes (2010)](https://kevinkruse.com/the-ceo-and-the-three-envelopes/)
+- Dec 21 - [Apple wants AI to run directly on its hardware instead of in the cloud](https://arstechnica.com/apple/2023/12/apple-wants-ai-to-run-directly-on-its-hardware-instead-of-in-the-cloud/)
+- Dec 21 - [I salute everyone on call/working production support through the holidays](https://news.ycombinator.com/item?id=38725015)
+- Dec 21 - [Introducing The New Wasmer JavaScript SDK](https://wasmer.io/posts/introducing-the-wasmer-js-sdk)
 <!--END_SECTION:hn-->
 
 <!--
