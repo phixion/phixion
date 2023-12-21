@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 21 - [The Great Cousin Decline](https://www.theatlantic.com/family/archive/2023/12/cousin-relationships-fertility-rate/676892/)
-- Dec 21 - [38% of VCs disappeared from dealmaking in 2023](https://pitchbook.com/news/articles/active-VC-investors-decline)
-- Dec 21 - [Today I'm launching Flare, a video sharing site built on Nostr Like YouTube](https://njump.me/nevent1qqs9tsvza8x5t93jtyh3ktmwsdkxpwarcwstadlr0fc0rcxfvn5umzqzyqthz7k56g8z5sjumg9zr9tzfg9y5u7y76t47943tyluslayduk4sr3946l)
-- Dec 21 - [Fireworks: Function Calling Model and API](https://blog.fireworks.ai/fireworks-raises-the-quality-bar-with-function-calling-model-and-api-release-e7f49d1e98e9)
-- Dec 21 - [Couch surfing predator: how a group of drugged and assaulted women fought back](https://www.theguardian.com/society/2023/dec/21/the-couch-surfing-predator-how-a-group-of-women-were-drugged-and-assaulted-then-fought-back)
+- Dec 21 - [1992 – Interest rate 500% – the Swedish krona floats](https://www.riksbank.se/en-gb/about-the-riksbank/history/historical-timeline/1900-1999/interest-rate-500--the-krona-floats/)
+- Dec 21 - [WASM Container Orchestration with Visual Flows](https://medium.com/@prajzler/webassembly-orchestration-with-visual-flows-eef4df56bde2)
+- Dec 21 - [Gleam v0.33 – Exhaustive Gleam](https://gleam.run/news/v0.33-exhaustive-gleam/)
+- Dec 21 - [7.1M miles, 3 minor injuries: Waymo's safety data looks good](https://arstechnica.com/cars/2023/12/human-drivers-crash-a-lot-more-than-waymos-software-data-shows/)
+- Dec 21 - [Rust to stabilize `async fn` and return-position `impl Trait` in traits](https://blog.rust-lang.org/2023/12/21/async-fn-rpit-in-traits.html)
 <!--END_SECTION:hn-->
 
 <!--
