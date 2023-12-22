@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 22 - [From Nand to Tetris: Building a Modern Computer from First Principles](https://www.nand2tetris.org)
-- Dec 22 - [The Hyperloop was always a scam](https://www.disconnect.blog/p/the-hyperloop-was-always-a-scam)
-- Dec 22 - [Show HN: Heynote – A Dedicated Scratchpad for Developers](https://heynote.com/)
-- Dec 22 - [How to Install Windows 11 On A Device That Does Not Meet Windows 11 Requirements](https://support.microsoft.com/en-us/windows/ways-to-install-windows-11-e0edbbfb-cfc5-4011-868b-2ce77ac7c70e)
-- Dec 22 - [In the long run, we're all Dad](https://www.astralcodexten.com/p/in-the-long-run-were-all-dad)
+- Dec 22 - [Google Searches can, and will, be held against you](https://twitter.com/alanfeuer/status/1737845283126730858)
+- Dec 22 - [Direct initialization of transformers using larger pretrained ones](https://arxiv.org/abs/2312.09299)
+- Dec 22 - ["Nightmare Tenant" Story Amplified by Seattle Times Crumbles Under Scrutiny](https://publicola.com/2023/12/22/nightmare-tenant-story-amplified-by-seattle-times-right-wing-media-crumbles-under-scrutiny/)
+- Dec 22 - [Shitflation, Shrinkflation, Inflation Database](https://jonatron.github.io/shitflation/)
+- Dec 22 - [WebGPU now available for testing in Safari Technology Preview](https://webkit.org/blog/14879/webgpu-now-available-for-testing-in-safari-technology-preview/)
 <!--END_SECTION:hn-->
 
 <!--
