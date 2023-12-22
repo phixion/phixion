@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 22 - [Show HN: Emu2 – A Gemini-like open-source 37B Multimodal Model](https://news.ycombinator.com/item?id=38730143)
-- Dec 22 - [NLP Research in the Era of LLMs](https://nlpnewsletter.substack.com/p/nlp-research-in-the-era-of-llms)
-- Dec 22 - [Meccano Build of Leonardo da Vinci's Self-Powered Cart](https://selmec.org.uk/articles/112-leonardo-da-vinci-s-self-powered-cart)
-- Dec 22 - [What Is OIDC?](https://fusionauth.io/articles/identity-basics/what-is-oidc)
-- Dec 22 - [WARC'in the Crawler](https://www.marginalia.nu/log/94_warc_warc/)
+- Dec 22 - [What We Need Instead of "Web Components"](https://blog.carlana.net/post/2023/web-component-alternative-futures/)
+- Dec 22 - [A structured note-taking app for personal use](https://github.com/penxio/penx)
+- Dec 22 - [FreeBasic](https://www.freebasic.net/)
+- Dec 22 - [Open-source AI knowledge database with web UI and Enterprise SSO](https://github.com/casibase/casibase)
+- Dec 22 - [3D-GPT: Procedural 3D Modeling with Large Language Models](https://chuny1.github.io/3DGPT/3dgpt.html)
 <!--END_SECTION:hn-->
 
 <!--
