@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 21 - [Deep Cloning Objects in JavaScript, the Modern Way](https://www.builder.io/blog/structured-clone)
-- Dec 21 - [Food price hikes are no longer outpacing overall inflation](https://www.cnn.com/2023/12/12/economy/food-inflation-november-cpi/index.html)
-- Dec 21 - [How to Turn Off Google's "Privacy Sandbox" Ad Tracking–and Why You Should](https://www.eff.org/deeplinks/2023/09/how-turn-googles-privacy-sandbox-ad-tracking-and-why-you-should)
-- Dec 21 - [SMTP Smuggling – Spoofing Emails Worldwide](https://sec-consult.com/blog/detail/smtp-smuggling-spoofing-e-mails-worldwide/)
-- Dec 21 - [Eqtble (YC W21) is hiring a software engineer](https://www.ycombinator.com/companies/eqtble/jobs/uXrVcaj-full-stack-engineer)
+- Dec 22 - [Show HN: Emu2 – A Gemini-like open-source 37B Multimodal Model](https://news.ycombinator.com/item?id=38730143)
+- Dec 22 - [NLP Research in the Era of LLMs](https://nlpnewsletter.substack.com/p/nlp-research-in-the-era-of-llms)
+- Dec 22 - [Meccano Build of Leonardo da Vinci's Self-Powered Cart](https://selmec.org.uk/articles/112-leonardo-da-vinci-s-self-powered-cart)
+- Dec 22 - [What Is OIDC?](https://fusionauth.io/articles/identity-basics/what-is-oidc)
+- Dec 22 - [WARC'in the Crawler](https://www.marginalia.nu/log/94_warc_warc/)
 <!--END_SECTION:hn-->
 
 <!--
