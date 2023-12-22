@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 22 - [What We Need Instead of "Web Components"](https://blog.carlana.net/post/2023/web-component-alternative-futures/)
-- Dec 22 - [A structured note-taking app for personal use](https://github.com/penxio/penx)
-- Dec 22 - [FreeBasic](https://www.freebasic.net/)
-- Dec 22 - [Open-source AI knowledge database with web UI and Enterprise SSO](https://github.com/casibase/casibase)
-- Dec 22 - [3D-GPT: Procedural 3D Modeling with Large Language Models](https://chuny1.github.io/3DGPT/3dgpt.html)
+- Dec 22 - [Sieve (YC W22), the video/audio AI cloud, is hiring ML infrastructure engineers](https://sievedata.com/about/jobs)
+- Dec 22 - [Anthropocene traps that challenge global sustainability](https://royalsocietypublishing.org/doi/10.1098/rstb.2022.0261)
+- Dec 22 - [Challenges with Unsupervised LLM Knowledge Discovery](https://www.lesswrong.com/posts/wtfvbsYjNHYYBmT3k/discussion-challenges-with-unsupervised-llm-knowledge-1)
+- Dec 22 - [FTC suggests new rules to shift parents' burden of protecting kids to websites](https://arstechnica.com/tech-policy/2023/12/ftc-moves-to-block-platforms-from-making-money-off-data-of-children/)
+- Dec 22 - [Do I need to get out the soldering-iron again? (2018)](https://www.naughtycomputer.uk/do_i_really_need_to_get_out_the_soldering_iron_again.html)
 <!--END_SECTION:hn-->
 
 <!--
