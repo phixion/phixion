@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
-- Dec 12 - [InflateVids - 13,405 breached accounts](https://haveibeenpwned.com/PwnedWebsites#InflateVids)
 - Dec 09 - [Kaneva - 3,901,179 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Kaneva)
 - Dec 09 - [Gemplex - 4,563,166 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Gemplex)
 - Dec 08 - [Movie Forums - 39,914 breached accounts](https://haveibeenpwned.com/PwnedWebsites#MovieForums)
 - Dec 07 - [JoyGames - 4,461,787 breached accounts](https://haveibeenpwned.com/PwnedWebsites#JoyGames)
+- Dec 05 - [RailYatri - 23,209,732 breached accounts](https://haveibeenpwned.com/PwnedWebsites#RailYatri)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 23 - [Ask HN: What's the coolest non standard application of LLMs you've seen?](https://news.ycombinator.com/item?id=38742311)
-- Dec 23 - [They want you to forget what a film looks like](https://aftermath.site/true-lies-4k-uhd-blu-ray-james-cameron-peter-jackson-park-road-post)
-- Dec 23 - [Is Tetr.io Legal?](https://blog.osk.sh/post.php?p=643dbb578e1ba3.57021842)
-- Dec 23 - [Researchers discover neuronal biomarkers of schizophrenia in the blood](https://hmri.org.au/news-article/researchers-discover-neuronal-biomarkers-schizophrenia-blood)
-- Dec 22 - [How big is YouTube?](https://ethanzuckerman.com/2023/12/22/how-big-is-youtube/)
+- Dec 23 - [Vocode (YC W23) is hiring to build realistic voice bots](https://vocode.notion.site/Vocode-Careers-47f27748419d48f9bcc3bbbb54118afa)
+- Dec 23 - [Was BASIC that horrible or better?](https://retrofun.pl/2023/12/18/was-basic-that-horrible-or-better/)
+- Dec 23 - [Show HN: 4d-Modeller – R library to make Bayesian spatiotemporal modeling easy](https://4dmodeller.github.io/fdmr/)
+- Dec 23 - [DIY ventilation heat exchanger (2010)](https://ecorenovator.org/forum/showthread.php?s=41c17447383e29b03903f4e0136e55be&p=5792)
+- Dec 23 - [Pinterest's simple tech stack to scale to 11M monthly users](https://read.engineerscodex.com/p/how-pinterest-scaled-to-11-million)
 <!--END_SECTION:hn-->
 
 <!--
