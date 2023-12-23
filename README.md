@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 22 - [Google Searches can, and will, be held against you](https://twitter.com/alanfeuer/status/1737845283126730858)
-- Dec 22 - [Direct initialization of transformers using larger pretrained ones](https://arxiv.org/abs/2312.09299)
-- Dec 22 - ["Nightmare Tenant" Story Amplified by Seattle Times Crumbles Under Scrutiny](https://publicola.com/2023/12/22/nightmare-tenant-story-amplified-by-seattle-times-right-wing-media-crumbles-under-scrutiny/)
-- Dec 22 - [Shitflation, Shrinkflation, Inflation Database](https://jonatron.github.io/shitflation/)
-- Dec 22 - [WebGPU now available for testing in Safari Technology Preview](https://webkit.org/blog/14879/webgpu-now-available-for-testing-in-safari-technology-preview/)
+- Dec 22 - [Scientists have 20-minute "conversation" with a humpback whale named Twain](https://www.earth.com/news/scientists-have-20-minute-conversation-with-a-humpback-whale-named-twain/)
+- Dec 22 - [Seven Years of Factorio Friday Facts (2020)](https://spieswl.github.io/blog/2020/seven-years-of-factorio-friday-facts)
+- Dec 22 - [Groqchat](https://chat.groq.com/)
+- Dec 22 - [Bluesky makes web view public, login no longer required to read posts](https://bsky.app/profile/bsky.app/post/3kh5rbndrjd2x)
+- Dec 22 - [2023: A year of groundbreaking advances in AI and computing](https://blog.research.google/2023/12/2023-year-of-groundbreaking-advances-in.html)
 <!--END_SECTION:hn-->
 
 <!--
