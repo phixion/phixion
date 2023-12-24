@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 24 - [Unveiling the big leap in Ruby 3.3's IRB](https://railsatscale.com/2023-12-19-irb-for-ruby-3-3/)
-- Dec 24 - [Can Microsoft Flight Simulator help me learn to fly (or make me a better pilot)?](https://aviation.stackexchange.com/questions/738/can-microsoft-flight-simulator-help-me-learn-to-fly-or-make-me-a-better-pilot)
-- Dec 24 - [The Limits to Growth–Now Available to Read Online](https://donellameadows.org/the-limits-to-growth-now-available-to-read-online/)
-- Dec 24 - [San Francisco’s rent prices have never returned to pre-2020 levels](https://www.sfchronicle.com/realestate/article/sf-rent-prices-18534829.php)
-- Dec 23 - [Ask yourself dumb questions and answer them (2020)](https://terrytao.wordpress.com/career-advice/ask-yourself-dumb-questions-and-answer-them/)
+- Dec 24 - [Beeper Mini Removed from Google Play](https://play.google.com/store/apps/details?id=com.beeper.ima)
+- Dec 24 - [Langfuse (YC W23) is hiring a founding engineer in Berlin](https://www.workatastartup.com/jobs/62929)
+- Dec 24 - [Bill Watterson Commencement Speech (1990)](https://web.mit.edu/jmorzins/www/C-H-speech.html)
+- Dec 24 - [Storyteller: Self-hosted platform to automatically sync ebooks and audiobooks](https://smoores.gitlab.io/storyteller/)
+- Dec 24 - [When the Power Macintosh Ran NetWare (Featuring Wormhole and Cyberpunk)](http://oldvcr.blogspot.com/2023/12/when-power-macintosh-ran-netware.html)
 <!--END_SECTION:hn-->
 
 <!--
