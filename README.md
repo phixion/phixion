@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 23 - [Ask yourself dumb questions – and answer them](https://terrytao.wordpress.com/career-advice/ask-yourself-dumb-questions-and-answer-them/)
-- Dec 23 - [StreamDiffusion: Over 100fps Stable Diffusion on a 4090](https://github.com/cumulo-autumn/StreamDiffusion)
-- Dec 23 - [Crown Shyness](https://en.wikipedia.org/wiki/Crown_shyness)
-- Dec 23 - [NY Governor vetoes ban on noncompete clauses, waters down LLC transparency bill](https://gothamist.com/news/ny-gov-hochul-vetoes-ban-on-noncompete-clauses-waters-down-llc-transparency-bill)
-- Dec 23 - [Julia GPU-based ODE solver 20x-100x faster than those in Jax and PyTorch](https://arxiv.org/abs/2304.06835)
+- Dec 24 - [Unveiling the big leap in Ruby 3.3's IRB](https://railsatscale.com/2023-12-19-irb-for-ruby-3-3/)
+- Dec 24 - [Can Microsoft Flight Simulator help me learn to fly (or make me a better pilot)?](https://aviation.stackexchange.com/questions/738/can-microsoft-flight-simulator-help-me-learn-to-fly-or-make-me-a-better-pilot)
+- Dec 24 - [The Limits to Growth–Now Available to Read Online](https://donellameadows.org/the-limits-to-growth-now-available-to-read-online/)
+- Dec 24 - [San Francisco’s rent prices have never returned to pre-2020 levels](https://www.sfchronicle.com/realestate/article/sf-rent-prices-18534829.php)
+- Dec 23 - [Ask yourself dumb questions and answer them (2020)](https://terrytao.wordpress.com/career-advice/ask-yourself-dumb-questions-and-answer-them/)
 <!--END_SECTION:hn-->
 
 <!--
