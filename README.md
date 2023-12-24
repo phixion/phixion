@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 24 - [Beeper Mini Removed from Google Play](https://play.google.com/store/apps/details?id=com.beeper.ima)
-- Dec 24 - [Langfuse (YC W23) is hiring a founding engineer in Berlin](https://www.workatastartup.com/jobs/62929)
-- Dec 24 - [Bill Watterson Commencement Speech (1990)](https://web.mit.edu/jmorzins/www/C-H-speech.html)
-- Dec 24 - [Storyteller: Self-hosted platform to automatically sync ebooks and audiobooks](https://smoores.gitlab.io/storyteller/)
-- Dec 24 - [When the Power Macintosh Ran NetWare (Featuring Wormhole and Cyberpunk)](http://oldvcr.blogspot.com/2023/12/when-power-macintosh-ran-netware.html)
+- Dec 24 - [North America: Hand-Drawn Portrait of a Continent](https://www.antonthomasart.com/the-north-american-continent.html)
+- Dec 24 - [Is Bach the greatest achiever of all time?](https://marginalrevolution.com/marginalrevolution/2023/09/is-bach-the-greatest-achiever-of-all-time.html)
+- Dec 24 - [Pixelating Live with SVG](https://meyerweb.com/eric/thoughts/2023/12/21/pixelating-live-with-svg/)
+- Dec 24 - [Generals.io – Capture enemy generals to defeat them](https://generals.io/)
+- Dec 24 - [Meilisearch Expands Search Power with Arroy's Filtered Disk ANN](https://blog.kerollmops.com/meilisearch-expands-search-power-with-arroy-s-filtered-disk-ann)
 <!--END_SECTION:hn-->
 
 <!--
