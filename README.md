@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 24 - [North America: Hand-Drawn Portrait of a Continent](https://www.antonthomasart.com/the-north-american-continent.html)
-- Dec 24 - [Is Bach the greatest achiever of all time?](https://marginalrevolution.com/marginalrevolution/2023/09/is-bach-the-greatest-achiever-of-all-time.html)
-- Dec 24 - [Pixelating Live with SVG](https://meyerweb.com/eric/thoughts/2023/12/21/pixelating-live-with-svg/)
-- Dec 24 - [Generals.io – Capture enemy generals to defeat them](https://generals.io/)
-- Dec 24 - [Meilisearch Expands Search Power with Arroy's Filtered Disk ANN](https://blog.kerollmops.com/meilisearch-expands-search-power-with-arroy-s-filtered-disk-ann)
+- Dec 24 - [Putting the "J" in the RPG, Part 3: Playing Final Fantasy VII](https://www.filfre.net/2023/12/putting-the-j-in-the-rpg-part-3-playing-final-fantasy-vii-or-old-man-yells-at-jrpg/)
+- Dec 24 - [A circular 3D-printed concrete bridge](https://informedinfrastructure.com/91930/holcim-launches-phoenix-the-first-of-its-kind-circular-3d-printed-concrete-bridge/)
+- Dec 24 - [2024 Quadrantid meteor shower to peak January 3-4](https://earthsky.org/astronomy-essentials/everything-you-need-to-know-quadrantid-meteor-shower/)
+- Dec 24 - [Germany hits 80 GW milestone](https://www.pv-magazine.com/2023/12/21/germany-hits-80-gw-milestone/)
+- Dec 24 - [Dolphin-2_6-Phi-2](https://huggingface.co/cognitivecomputations/dolphin-2_6-phi-2)
 <!--END_SECTION:hn-->
 
 <!--
