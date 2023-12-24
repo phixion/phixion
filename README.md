@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 24 - [Putting the "J" in the RPG, Part 3: Playing Final Fantasy VII](https://www.filfre.net/2023/12/putting-the-j-in-the-rpg-part-3-playing-final-fantasy-vii-or-old-man-yells-at-jrpg/)
-- Dec 24 - [A circular 3D-printed concrete bridge](https://informedinfrastructure.com/91930/holcim-launches-phoenix-the-first-of-its-kind-circular-3d-printed-concrete-bridge/)
-- Dec 24 - [2024 Quadrantid meteor shower to peak January 3-4](https://earthsky.org/astronomy-essentials/everything-you-need-to-know-quadrantid-meteor-shower/)
-- Dec 24 - [Germany hits 80 GW milestone](https://www.pv-magazine.com/2023/12/21/germany-hits-80-gw-milestone/)
-- Dec 24 - [Dolphin-2_6-Phi-2](https://huggingface.co/cognitivecomputations/dolphin-2_6-phi-2)
+- Dec 24 - [Let the (terminal) bells ring out](https://muxup.com/2023q4/let-the-terminal-bells-ring-out)
+- Dec 24 - [How can Santa keep his lists when the GDPR is around?](https://worldbuilding.stackexchange.com/questions/114033/how-can-santa-keep-his-lists-when-the-gdpr-is-around)
+- Dec 24 - [Damian Lewis as Antony in Julius Caesar: 'Friends, Romans, Countrymen' [video]](https://www.youtube.com/watch?v=q89MLuLSJgk)
+- Dec 24 - [Did English ever have a formal version of "you"?](https://english.stackexchange.com/questions/9780/did-english-ever-have-a-formal-version-of-you)
+- Dec 24 - [Synthesis Methods Explained: What Is FM Synthesis?](https://www.perfectcircuit.com/signal/what-is-fm-synthesis)
 <!--END_SECTION:hn-->
 
 <!--
