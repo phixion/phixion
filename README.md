@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 24 - [Mexico is now the 12th largest economy in the world](https://mexiconewsdaily.com/business/mexico-is-now-the-12th-largest-economy-in-the-world/)
-- Dec 24 - [The History of Xenix](https://www.abortretry.fail/p/the-history-of-xenix)
-- Dec 24 - [Time Is Encoded in the Weights of Finetuned Language Models](https://arxiv.org/abs/2312.13401)
-- Dec 24 - [How the weak win wars: A theory of asymmetric conflict (2021) [pdf]](https://web.archive.org/web/20210827053020id_/https://watermark.silverchair.com/016228801753212868.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAtAwggLMBgkqhkiG9w0BBwagggK9MIICuQIBADCCArIGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMsFx_L4GNlU2N202gAgEQgIICg0JcfB_c0FpMcWGV1VmX2fx4NNs5ndOi5wzFx9l8AWBAd_KVbp5AuElpYXEUZSE8F28zUGJJ_pUhQ4dEjJfL8dH2EjaBPxsbstLCOyMPeXUuRQmDLLAPu5_cFf_NlscYvuanjGvnS3TpcYzjA6FHJaP9Y9OnjKkDpejzsEQeFy_aBOGujlgKU94alIeBgxrvxgXAFpLfHYsk3F4LNvKuWPw-AFvADltfKSnF77-4hJFj2oJOUsKSWIiLYmGnPRbP_kvawXfdyhg5W_Rt8KogNPKq4oLodfOokuGEoVdzLEmaX0FcOv_0Zz5LTrbWVG0NufNTglqp6XG3bG29XcXq-Zn5h4QzCudPhaj0_wps0WCgzM5SUjeGevsbRmLtkRHAY2xYrQDivd8RmF7cw3tucjBDxt8l-11KEEp9j5UANFhn5lQDObRsQcbaBGdNXO1SrYRwblxUFzSqgz160x05gFfdfipS1-xxbq2appUBYwS72GmFFROzKRToZy4MbNliSX-KCqXhJW6a6wz4RaL9z-38Xp0pIeYWn1pibF7vj6WF6eLSAU6u-95ufNY7o4aL83JJuhPJLeaowmfWnF4TsOaPNcYr6CfYgh0WAd-SK7gjoAxkZXWV9QpgOInzhgT9DNiD6CxK3UjJRQPxCyQrGUehvwRKmIwMbLrwViTGU60fJcCJxl-ZYbCsUAD8LqRnsDeMY40DE0h9pBQ-AlS5GEfwHmsKXiPgx04LEBz97wt-bEjL6RKBTrzGftTNlHPWpRXQ2QNGMVTtzSyUNUU-3Ci43zjcila8kT298HrAc8wGbX3gWzPMiEGBD8h4bCxToe8xLBH2NZ1jlsETYAsUqWJc9Ds)
-- Dec 24 - ["Attention", "Transformers", in Neural Network "Large Language Models"](http://bactra.org/notebooks/nn-attention-and-transformers.html)
+- Dec 25 - [Most people think the U.S. crime rate is rising. They're wrong](https://www.nbcnews.com/news/us-news/people-think-crime-rate-up-actually-down-rcna129585)
+- Dec 25 - [GTA 5 source code leaks online](https://www.sportskeeda.com/gta/news-gta-5-source-code-leaks-online-giving-rockstar-huge-blow-christmas-report)
+- Dec 25 - [Post-apocalyptic life in American health care](https://metarationality.com/post-apocalyptic-health-care)
+- Dec 25 - [Retro-Computing Society of Rhode Island](https://rcsri.org/rcs-info.shtml)
+- Dec 25 - [Cray-1 vs Raspberry Pi](http://www.roylongbottom.org.uk/Cray%201%20Supercomputer%20Performance%20Comparisons%20With%20Home%20Computers%20Phones%20and%20Tablets.htm)
 <!--END_SECTION:hn-->
 
 <!--
