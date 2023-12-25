@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 25 - [Unblocking User Freedom: the right to use adblockers](https://fsfe.org/news/2023/news-20231220-01.en.html)
-- Dec 25 - [Non-interactive SSH password authentication](https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass)
-- Dec 25 - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-- Dec 25 - [A nano like text editor built with pure C](https://github.com/proh14/ptext)
-- Dec 25 - [Breakdown of AV1 Video Codec](https://github.com/QuPengfei/Technical-Overview-Of-AV1-Spec)
+- Dec 25 - [Sky Soldier makes history as first active-duty female Army sniper](https://www.army.mil/article/272115/sky_soldier_makes_history_as_first_active_duty_female_army_sniper)
+- Dec 25 - [DIY Night Clock Projector](https://microengineer.eu/2018/05/01/diy-night-clock-projector/)
+- Dec 25 - [2023: The Year of AI](https://journal.everypixel.com/2023-the-year-of-ai)
+- Dec 25 - [Woman pregnant in each of her two uteruses gives birth to twins](https://www.cnn.com/2023/12/24/health/woman-two-uteruses-birth-twins/index.html)
+- Dec 25 - [GTA 5 source code reportedly leaked online a year after RockStar hack](https://www.bleepingcomputer.com/news/security/gta-5-source-code-reportedly-leaked-online-a-year-after-rockstar-hack/)
 <!--END_SECTION:hn-->
 
 <!--
