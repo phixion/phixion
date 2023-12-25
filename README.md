@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 25 - [SQL as API](https://valentin.willscher.de/posts/sql-api/)
-- Dec 25 - [Ruby 3.3](https://www.ruby-lang.org/en/news/2023/12/25/ruby-3-3-0-released/)
-- Dec 25 - [Petrov: A man who lived in the woods of Mendocino County](https://www.ukiahdailyjournal.com/2022/08/02/petrov-the-man-who-lived-in-the-woods/)
-- Dec 25 - [Constellations are younger than continents](https://www.lesswrong.com/posts/YMakfmwZsoLdXAZhb/constellations-are-younger-than-continents)
-- Dec 25 - [Ask HN: How do I train a custom LLM/ChatGPT on my own documents in Dec 2023?](https://news.ycombinator.com/item?id=38759877)
+- Dec 25 - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- Dec 25 - [What is 10x better than Calendly?](https://news.ycombinator.com/item?id=38761243)
+- Dec 25 - [T-Mobile introduce fines from Jan 1 for "Code of Conduct" violations](https://support.bandwidth.com/hc/en-us/articles/19939626519575-New-non-compliance-fees-on-January-1)
+- Dec 25 - [Breakdown of faults by car brand: Tesla has replaced Dacia at the bottom](https://www.tuvsud.com/en/press-and-media/2023/november/regular-servicing-makes-all-the-difference)
+- Dec 25 - [Zotero for Android available for beta tests](https://forums.zotero.org/discussion/110371/available-for-beta-testing-zotero-for-android)
 <!--END_SECTION:hn-->
 
 <!--
