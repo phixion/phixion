@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 25 - [Unblocking User Freedom: the right to use adblockers](https://fsfe.org/news/2023/news-20231220-01.en.html)
+- Dec 25 - [Non-interactive SSH password authentication](https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass)
 - Dec 25 - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-- Dec 25 - [What is 10x better than Calendly?](https://news.ycombinator.com/item?id=38761243)
-- Dec 25 - [T-Mobile introduce fines from Jan 1 for "Code of Conduct" violations](https://support.bandwidth.com/hc/en-us/articles/19939626519575-New-non-compliance-fees-on-January-1)
-- Dec 25 - [Breakdown of faults by car brand: Tesla has replaced Dacia at the bottom](https://www.tuvsud.com/en/press-and-media/2023/november/regular-servicing-makes-all-the-difference)
-- Dec 25 - [Zotero for Android available for beta tests](https://forums.zotero.org/discussion/110371/available-for-beta-testing-zotero-for-android)
+- Dec 25 - [A nano like text editor built with pure C](https://github.com/proh14/ptext)
+- Dec 25 - [Breakdown of AV1 Video Codec](https://github.com/QuPengfei/Technical-Overview-Of-AV1-Spec)
 <!--END_SECTION:hn-->
 
 <!--
