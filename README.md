@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 25 - [Most people think the U.S. crime rate is rising. They're wrong](https://www.nbcnews.com/news/us-news/people-think-crime-rate-up-actually-down-rcna129585)
-- Dec 25 - [GTA 5 source code leaks online](https://www.sportskeeda.com/gta/news-gta-5-source-code-leaks-online-giving-rockstar-huge-blow-christmas-report)
-- Dec 25 - [Post-apocalyptic life in American health care](https://metarationality.com/post-apocalyptic-health-care)
-- Dec 25 - [Retro-Computing Society of Rhode Island](https://rcsri.org/rcs-info.shtml)
-- Dec 25 - [Cray-1 vs Raspberry Pi](http://www.roylongbottom.org.uk/Cray%201%20Supercomputer%20Performance%20Comparisons%20With%20Home%20Computers%20Phones%20and%20Tablets.htm)
+- Dec 25 - [SQL as API](https://valentin.willscher.de/posts/sql-api/)
+- Dec 25 - [Ruby 3.3](https://www.ruby-lang.org/en/news/2023/12/25/ruby-3-3-0-released/)
+- Dec 25 - [Petrov: A man who lived in the woods of Mendocino County](https://www.ukiahdailyjournal.com/2022/08/02/petrov-the-man-who-lived-in-the-woods/)
+- Dec 25 - [Constellations are younger than continents](https://www.lesswrong.com/posts/YMakfmwZsoLdXAZhb/constellations-are-younger-than-continents)
+- Dec 25 - [Ask HN: How do I train a custom LLM/ChatGPT on my own documents in Dec 2023?](https://news.ycombinator.com/item?id=38759877)
 <!--END_SECTION:hn-->
 
 <!--
