@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 25 - [NYU Student Owns a $6M Crypto Mine. His Secret Is Out](https://www.nytimes.com/2023/12/25/technology/bitrush-bitcoin-cryptocurrency-china.html)
-- Dec 25 - [Internet Reset Button](https://twitter.com/ErrataRob/status/1739132876732674539)
-- Dec 25 - [California Solar Duck Curve Gets Bigger](https://cleantechnica.com/2023/12/19/california-solar-duck-curve-gets-bigger/)
-- Dec 25 - [Nintendo Network shutdown – The beginning of the end](https://pretendo.network/blog/12-23-23)
-- Dec 25 - [Evolving Reservoirs for Meta Reinforcement Learning](https://arxiv.org/abs/2312.06695)
+- Dec 26 - [Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html)
+- Dec 26 - [Let it snow()](https://discourse.julialang.org/t/let-it-snow/72950)
+- Dec 26 - [Maildir-utils: index, search and manage Maildir mailboxes](https://www.djcbsoftware.nl/code/mu/)
+- Dec 26 - [What are farm animals thinking?](https://www.science.org/content/article/not-dumb-creatures-livestock-surprise-scientists-their-complex-emotional-minds/?src=longreads)
+- Dec 26 - ["Simple Made Easy" – Rich Hickey (2011) [video]](https://www.youtube.com/watch?v=SxdOUGdseq4)
 <!--END_SECTION:hn-->
 
 <!--
