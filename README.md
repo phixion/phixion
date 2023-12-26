@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 26 - [UK becomes first G20 country to halve its carbon emissions](https://www.spectator.co.uk/article/uk-becomes-first-g20-country-to-halve-its-carbon-emissions/)
-- Dec 26 - [A data corruption bug in OpenZFS?](https://despairlabs.com/blog/posts/2023-12-25-openzfs-data-corruption-bug/)
-- Dec 26 - [It's All Bullshit](https://thebaffler.com/latest/its-all-bullshit-tan)
-- Dec 26 - [A copy-and-patch JIT compiler for CPython](https://github.com/python/cpython/pull/113465)
-- Dec 26 - [Croquet: Live, network-transparent 3D gaming](https://www.theregister.com/2023/03/23/croquet_for_unity/)
+- Dec 26 - [Holiday Spending Increased, Defying Fears of a Decline](https://www.nytimes.com/2023/12/26/business/economy/christmas-holiday-spending-retail.html)
+- Dec 26 - [Shelf life: novelist Hanya Yanagihara on living with 12,000 books (2017)](https://www.theguardian.com/books/2017/aug/12/homes-author-hanya-yanagihara-new-york-12000-books)
+- Dec 26 - [Obsidian 1.5 Desktop (Public)](https://obsidian.md/changelog/2023-12-26-desktop-v1.5.3/)
+- Dec 26 - [Website Search Hurts My Feelings](https://www.openmymind.net/Your-Website-Search-Hurts-My-Feelings/)
+- Dec 26 - [Apple is officially no longer selling the newest Apple Watch in America](https://www.cnn.com/2023/12/26/tech/apple-watch-ban/index.html)
 <!--END_SECTION:hn-->
 
 <!--
