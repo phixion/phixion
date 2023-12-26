@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 25 - [Sky Soldier makes history as first active-duty female Army sniper](https://www.army.mil/article/272115/sky_soldier_makes_history_as_first_active_duty_female_army_sniper)
-- Dec 25 - [DIY Night Clock Projector](https://microengineer.eu/2018/05/01/diy-night-clock-projector/)
-- Dec 25 - [2023: The Year of AI](https://journal.everypixel.com/2023-the-year-of-ai)
-- Dec 25 - [Woman pregnant in each of her two uteruses gives birth to twins](https://www.cnn.com/2023/12/24/health/woman-two-uteruses-birth-twins/index.html)
-- Dec 25 - [GTA 5 source code reportedly leaked online a year after RockStar hack](https://www.bleepingcomputer.com/news/security/gta-5-source-code-reportedly-leaked-online-a-year-after-rockstar-hack/)
+- Dec 25 - [NYU Student Owns a $6M Crypto Mine. His Secret Is Out](https://www.nytimes.com/2023/12/25/technology/bitrush-bitcoin-cryptocurrency-china.html)
+- Dec 25 - [Internet Reset Button](https://twitter.com/ErrataRob/status/1739132876732674539)
+- Dec 25 - [California Solar Duck Curve Gets Bigger](https://cleantechnica.com/2023/12/19/california-solar-duck-curve-gets-bigger/)
+- Dec 25 - [Nintendo Network shutdown – The beginning of the end](https://pretendo.network/blog/12-23-23)
+- Dec 25 - [Evolving Reservoirs for Meta Reinforcement Learning](https://arxiv.org/abs/2312.06695)
 <!--END_SECTION:hn-->
 
 <!--
