@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 26 - [Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html)
-- Dec 26 - [Let it snow()](https://discourse.julialang.org/t/let-it-snow/72950)
-- Dec 26 - [Maildir-utils: index, search and manage Maildir mailboxes](https://www.djcbsoftware.nl/code/mu/)
-- Dec 26 - [What are farm animals thinking?](https://www.science.org/content/article/not-dumb-creatures-livestock-surprise-scientists-their-complex-emotional-minds/?src=longreads)
-- Dec 26 - ["Simple Made Easy" – Rich Hickey (2011) [video]](https://www.youtube.com/watch?v=SxdOUGdseq4)
+- Dec 26 - [Croquet: Live, network-transparent 3D gaming](https://www.theregister.com/2023/03/23/croquet_for_unity/)
+- Dec 26 - [Steve Jobs emails Eric Schmidt (2007)](https://twitter.com/TechEmails/status/1443263744906305543)
+- Dec 26 - [All I want for Christmas is 1TW of solar deployed annually](https://pv-magazine-usa.com/2023/12/25/all-i-want-for-christmas-is-one-terawatt-of-solar-deployed-annually/)
+- Dec 26 - [The life and death of open source companies](https://lucumr.pocoo.org/2023/12/25/life-and-death-of-open-source/)
+- Dec 26 - [Challenging projects every programmer should try (2019)](https://austinhenley.com/blog/challengingprojects.html)
 <!--END_SECTION:hn-->
 
 <!--
