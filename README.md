@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 26 - [Reckless DMCA Deindexing Pushes NASA's Artemis Towards Black Hole](https://torrentfreak.com/reckless-dmca-deindexing-pushes-nasas-artemis-towards-black-hole-231226/)
-- Dec 26 - [Schedule 37th Chaos Communication Congress](https://fahrplan.events.ccc.de/congress/2023/fahrplan/timeline.html)
-- Dec 26 - [Amazon Prime Video starts showing ads in January unless you pay $2.99/month xtra](https://9to5google.com/2023/12/26/amazon-prime-video-ads-january-2024/)
-- Dec 26 - [History of Alice and Bob (2017)](http://cryptocouple.com/)
-- Dec 26 - [Game Boy / Color Architecture](https://www.copetti.org/writings/consoles/game-boy/)
+- Dec 27 - [Unlock Complex Time Series Analysis in SQL with Range Queries](https://greptime.com/blogs/2023-12-26-range-query)
+- Dec 27 - [History-making SpaceX booster mostly destroyed in post-flight topple](http://www.collectspace.com/news/news-122623a-spacex-falcon-9-first-stage-1058-lost-recovery.html)
+- Dec 27 - [Apollo 11 vs. USB-C Chargers](https://forrestheller.com/Apollo-11-Computer-vs-USB-C-chargers.html)
+- Dec 27 - [Donald Knuth’s 2023 Christmas Lecture: Making the Cells Dance](https://thenewstack.io/donald-knuths-2023-christmas-lecture-make-the-cells-dance/)
+- Dec 27 - [Open Source Clones of Games](https://osgameclones.com/)
 <!--END_SECTION:hn-->
 
 <!--
