@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 27 - [Ask HN: Should I medicate my ADHD?](https://news.ycombinator.com/item?id=38780642)
-- Dec 27 - [37c3 Live Streams](https://streaming.media.ccc.de/37c3)
-- Dec 27 - [2023: Focusing on a single product pays off](https://maxrozen.com/2023-focus-single-product-pays-off)
-- Dec 27 - [Hrvach/Deskhop: Fast Desktop Switching Device](https://github.com/hrvach/deskhop)
-- Dec 27 - [Light-induced whole-molecule vibration can rupture melanoma cells’ membrane](https://news.rice.edu/news/2023/molecular-jackhammers-good-vibrations-eradicate-cancer-cells)
+- Dec 27 - [A National Evil – the curse of the goitre in Switzerland](https://www.lrb.co.uk/the-paper/v45/n23/jonah-goodman/a-national-evil)
+- Dec 27 - [We Turned the Tide in the Roach Wars](https://www.theatlantic.com/podcasts/archive/2023/11/cockroach-bait-invention-combat/676167/)
+- Dec 27 - [Reindeer Sleep and Eat Simultaneously](https://www.smithsonianmag.com/science-nature/reindeer-sleep-and-eat-simultaneously-saving-precious-time-in-the-short-arctic-summer-180983495/)
+- Dec 27 - [Pushing ChatGPT's Structured Data Support to Its Limits](https://minimaxir.com/2023/12/chatgpt-structured-data/)
+- Dec 27 - [Scientists discover the first new antibiotics in over 60 years using AI](https://www.euronews.com/next/2023/12/20/scientists-discover-the-first-new-antibiotics-in-over-60-years-using-ai)
 <!--END_SECTION:hn-->
 
 <!--
