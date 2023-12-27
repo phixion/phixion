@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 27 - [A National Evil – the curse of the goitre in Switzerland](https://www.lrb.co.uk/the-paper/v45/n23/jonah-goodman/a-national-evil)
-- Dec 27 - [We Turned the Tide in the Roach Wars](https://www.theatlantic.com/podcasts/archive/2023/11/cockroach-bait-invention-combat/676167/)
-- Dec 27 - [Reindeer Sleep and Eat Simultaneously](https://www.smithsonianmag.com/science-nature/reindeer-sleep-and-eat-simultaneously-saving-precious-time-in-the-short-arctic-summer-180983495/)
-- Dec 27 - [Pushing ChatGPT's Structured Data Support to Its Limits](https://minimaxir.com/2023/12/chatgpt-structured-data/)
-- Dec 27 - [Scientists discover the first new antibiotics in over 60 years using AI](https://www.euronews.com/next/2023/12/20/scientists-discover-the-first-new-antibiotics-in-over-60-years-using-ai)
+- Dec 27 - [California Pizza Huts lay off all delivery drivers ahead of minimum wage increas](https://www.usatoday.com/story/money/2023/12/26/pizza-hut-layoffs-california-minimum-wage/72033582007/)
+- Dec 27 - [Scientists Destroy 99% of Cancer Cells in the Lab Using Vibrating Molecules](https://www.sciencealert.com/scientists-destroy-99-of-cancer-cells-in-the-lab-using-vibrating-molecules)
+- Dec 27 - [Nearly half of Americans age 18 to 29 are living with their parents](https://blobstreaming.org/nearly-half-of-americans-age-18-to-29-are-living-with-their-parents/)
+- Dec 27 - [Show HN: Scan QR codes to check-in guests registered via Google Forms™](https://workspace.google.com/marketplace/app/qr_code_ticket_for_attendance/9398047938)
+- Dec 27 - [HyperRogue, a open-source non-Euclidean roguelike: new weapons](http://zenorogue.blogspot.com/2023/12/hyperrogue-130.html)
 <!--END_SECTION:hn-->
 
 <!--
