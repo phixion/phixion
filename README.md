@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 26 - [Colorado wolf reintroduction to move forward as ranchers' legal effort fails](https://phys.org/news/2023-12-colorado-wolf-reintroduction-ranchers-legal.html)
-- Dec 26 - [Using Make – writing less Makefile](https://text.causal.agency/001-make.txt)
-- Dec 26 - [How to Perfectly Crack an Egg (With One Hand) [video]](https://www.youtube.com/watch?v=AE-XeZ3R98U)
-- Dec 26 - [A list of Hacker News's undocumented features and behaviors](https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md)
-- Dec 26 - [12VO power standard appears to be gaining steam, will reduce PC cabling, costs](https://www.tomshardware.com/pc-components/power-supplies/the-12vo-power-standard-appears-to-be-gaining-steam-new-standard-will-reduce-pc-cabling-and-costs)
+- Dec 26 - [Reckless DMCA Deindexing Pushes NASA's Artemis Towards Black Hole](https://torrentfreak.com/reckless-dmca-deindexing-pushes-nasas-artemis-towards-black-hole-231226/)
+- Dec 26 - [Schedule 37th Chaos Communication Congress](https://fahrplan.events.ccc.de/congress/2023/fahrplan/timeline.html)
+- Dec 26 - [Amazon Prime Video starts showing ads in January unless you pay $2.99/month xtra](https://9to5google.com/2023/12/26/amazon-prime-video-ads-january-2024/)
+- Dec 26 - [History of Alice and Bob (2017)](http://cryptocouple.com/)
+- Dec 26 - [Game Boy / Color Architecture](https://www.copetti.org/writings/consoles/game-boy/)
 <!--END_SECTION:hn-->
 
 <!--
