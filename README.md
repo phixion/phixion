@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 27 - [Unlock Complex Time Series Analysis in SQL with Range Queries](https://greptime.com/blogs/2023-12-26-range-query)
+- Dec 27 - [Reminiscing CGI Scripts](https://rednafi.com/go/reminiscing_cgi_scripts/)
+- Dec 27 - [A programming language coding in a grid](https://github.com/SPLWare/esProc/wiki/A-programming-language-coding-in-a-grid)
 - Dec 27 - [History-making SpaceX booster mostly destroyed in post-flight topple](http://www.collectspace.com/news/news-122623a-spacex-falcon-9-first-stage-1058-lost-recovery.html)
-- Dec 27 - [Apollo 11 vs. USB-C Chargers](https://forrestheller.com/Apollo-11-Computer-vs-USB-C-chargers.html)
+- Dec 27 - [Apollo 11 vs. USB-C Chargers (2020)](https://forrestheller.com/Apollo-11-Computer-vs-USB-C-chargers.html)
 - Dec 27 - [Donald Knuth’s 2023 Christmas Lecture: Making the Cells Dance](https://thenewstack.io/donald-knuths-2023-christmas-lecture-make-the-cells-dance/)
-- Dec 27 - [Open Source Clones of Games](https://osgameclones.com/)
 <!--END_SECTION:hn-->
 
 <!--
