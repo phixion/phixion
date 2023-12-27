@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 27 - [Reminiscing CGI Scripts](https://rednafi.com/go/reminiscing_cgi_scripts/)
-- Dec 27 - [A programming language coding in a grid](https://github.com/SPLWare/esProc/wiki/A-programming-language-coding-in-a-grid)
-- Dec 27 - [History-making SpaceX booster mostly destroyed in post-flight topple](http://www.collectspace.com/news/news-122623a-spacex-falcon-9-first-stage-1058-lost-recovery.html)
-- Dec 27 - [Apollo 11 vs. USB-C Chargers (2020)](https://forrestheller.com/Apollo-11-Computer-vs-USB-C-chargers.html)
-- Dec 27 - [Donald Knuth’s 2023 Christmas Lecture: Making the Cells Dance](https://thenewstack.io/donald-knuths-2023-christmas-lecture-make-the-cells-dance/)
+- Dec 27 - [Ask HN: Should I medicate my ADHD?](https://news.ycombinator.com/item?id=38780642)
+- Dec 27 - [37c3 Live Streams](https://streaming.media.ccc.de/37c3)
+- Dec 27 - [2023: Focusing on a single product pays off](https://maxrozen.com/2023-focus-single-product-pays-off)
+- Dec 27 - [Hrvach/Deskhop: Fast Desktop Switching Device](https://github.com/hrvach/deskhop)
+- Dec 27 - [Light-induced whole-molecule vibration can rupture melanoma cells’ membrane](https://news.rice.edu/news/2023/molecular-jackhammers-good-vibrations-eradicate-cancer-cells)
 <!--END_SECTION:hn-->
 
 <!--
