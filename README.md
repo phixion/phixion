@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 28 - [Ashby (YC W19) Hiring Eng Managers to Rethink Eng Culture (EMEA and Americas)](https://www.ashbyhq.com/careers?utm_source=hn)
-- Dec 28 - [37C3 Video List](https://media.ccc.de/b/congress/2023)
-- Dec 28 - [You've just been fucked by psyops [video]](https://media.ccc.de/v/37c3-12326-you_ve_just_been_fucked_by_psyops)
-- Dec 28 - [Outlook/Hotmail is no longer blocking my mail server](https://taoshu.in/net/outlook-delist.html)
-- Dec 28 - [4B If Statements](https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html)
+- Dec 28 - [Show HN: Vocab Miner – find new words in Spanish from texts](https://vocabminer.com/)
+- Dec 28 - [Amazon receives FDA warning letter for supplements with undeclared ingredients](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/amazoncom-inc-662503-12202023)
+- Dec 28 - [New U.S. immigration rules spur more visa approvals for STEM workers](https://www.science.org/content/article/new-u-s-immigration-rules-spur-more-visa-approvals-stem-workers)
+- Dec 28 - [The Most Compelling Reason to Use Firefox Is Sync That Works](https://www.howtogeek.com/the-best-reason-to-use-firefox-is-sync-that-actually-works/)
+- Dec 28 - [Foundations – Greg Egan](https://www.gregegan.net/FOUNDATIONS/)
 <!--END_SECTION:hn-->
 
 <!--
