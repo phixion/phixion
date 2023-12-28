@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 28 - [Unix as IDE (2012)](https://blog.sanctum.geek.nz/series/unix-as-ide/)
-- Dec 28 - [Generation Junk](https://walterkirn.substack.com/p/generation-junk)
-- Dec 28 - [Book list for streetfighting computer scientists](https://nick-black.com/dankwiki/index.php/Book_list_for_streetfighting_computer_scientists)
-- Dec 28 - [Docs Deserve More Respect](https://www.ramijames.com/thoughts/docs-deserve-more-respect)
-- Dec 28 - [Jerry (YC S17) Is Hiring PMs, Engineers, Data Roles (Remote)](https://getjerry.com/careers)
+- Dec 28 - [Para-infectious brain injury in Covid-19 persists at follow-up](https://www.nature.com/articles/s41467-023-42320-4)
+- Dec 28 - [4B If Statements](https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html)
+- Dec 28 - [New Photonic Chip Is the Full Package](https://spectrum.ieee.org/photonic-chip)
+- Dec 28 - [NY Times copyright suit wants OpenAI to delete all GPT instances](https://arstechnica.com/tech-policy/2023/12/ny-times-sues-open-ai-microsoft-over-copyright-infringement/)
+- Dec 28 - [Little File Explorer – File Manager for Android 1.0 and above](https://github.com/martinmimigames/little-file-explorer)
 <!--END_SECTION:hn-->
 
 <!--
