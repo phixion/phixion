@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 28 - [Para-infectious brain injury in Covid-19 persists at follow-up](https://www.nature.com/articles/s41467-023-42320-4)
+- Dec 28 - [Ashby (YC W19) Hiring Eng Managers to Rethink Eng Culture (EMEA and Americas)](https://www.ashbyhq.com/careers?utm_source=hn)
+- Dec 28 - [37C3 Video List](https://media.ccc.de/b/congress/2023)
+- Dec 28 - [You've just been fucked by psyops [video]](https://media.ccc.de/v/37c3-12326-you_ve_just_been_fucked_by_psyops)
+- Dec 28 - [Outlook/Hotmail is no longer blocking my mail server](https://taoshu.in/net/outlook-delist.html)
 - Dec 28 - [4B If Statements](https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html)
-- Dec 28 - [New Photonic Chip Is the Full Package](https://spectrum.ieee.org/photonic-chip)
-- Dec 28 - [NY Times copyright suit wants OpenAI to delete all GPT instances](https://arstechnica.com/tech-policy/2023/12/ny-times-sues-open-ai-microsoft-over-copyright-infringement/)
-- Dec 28 - [Little File Explorer – File Manager for Android 1.0 and above](https://github.com/martinmimigames/little-file-explorer)
 <!--END_SECTION:hn-->
 
 <!--
