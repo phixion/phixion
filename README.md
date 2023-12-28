@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 27 - [California Pizza Huts lay off all delivery drivers ahead of minimum wage increas](https://www.usatoday.com/story/money/2023/12/26/pizza-hut-layoffs-california-minimum-wage/72033582007/)
-- Dec 27 - [Scientists Destroy 99% of Cancer Cells in the Lab Using Vibrating Molecules](https://www.sciencealert.com/scientists-destroy-99-of-cancer-cells-in-the-lab-using-vibrating-molecules)
-- Dec 27 - [Nearly half of Americans age 18 to 29 are living with their parents](https://blobstreaming.org/nearly-half-of-americans-age-18-to-29-are-living-with-their-parents/)
-- Dec 27 - [Show HN: Scan QR codes to check-in guests registered via Google Forms™](https://workspace.google.com/marketplace/app/qr_code_ticket_for_attendance/9398047938)
-- Dec 27 - [HyperRogue, a open-source non-Euclidean roguelike: new weapons](http://zenorogue.blogspot.com/2023/12/hyperrogue-130.html)
+- Dec 27 - [Valetudo – Cloud replacement for vacuum robots enabling local-only operation](https://valetudo.cloud/)
+- Dec 27 - [No new iPhone? No secure iOS: Looking at an unfixed iOS vulnerability](https://joshua.hu/apple-ios-patched-unpatched-vulnerabilities)
+- Dec 27 - [Show HN: Rem: Remember Everything (open source)](https://github.com/jasonjmcghee/rem)
+- Dec 27 - [Debian Statement on the Cyber Resilience Act](https://lwn.net/Articles/956187/)
+- Dec 27 - [3D Map of Shinjuku Station in Three.js](https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/)
 <!--END_SECTION:hn-->
 
 <!--
