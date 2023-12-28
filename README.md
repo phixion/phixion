@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 28 - [Show HN: Vocab Miner – find new words in Spanish from texts](https://vocabminer.com/)
-- Dec 28 - [Amazon receives FDA warning letter for supplements with undeclared ingredients](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/amazoncom-inc-662503-12202023)
-- Dec 28 - [New U.S. immigration rules spur more visa approvals for STEM workers](https://www.science.org/content/article/new-u-s-immigration-rules-spur-more-visa-approvals-stem-workers)
-- Dec 28 - [The Most Compelling Reason to Use Firefox Is Sync That Works](https://www.howtogeek.com/the-best-reason-to-use-firefox-is-sync-that-actually-works/)
-- Dec 28 - [Foundations – Greg Egan](https://www.gregegan.net/FOUNDATIONS/)
+- Dec 28 - [Dark Visitors – A list of known AI agents on the internet](https://darkvisitors.com)
+- Dec 28 - [Original Sling'n'shoot Worms Game](http://www.liero.be/)
+- Dec 28 - [Ask HN: What are ethical companies like Patagonia and some digital counterparts?](https://news.ycombinator.com/item?id=38796842)
+- Dec 28 - [Lapce: Fast and Powerful Code Editor Written in Rust](https://github.com/lapce/lapce)
+- Dec 28 - [Doola a "Business-in-a-Box" (YC S20) Is Hiring a CPA](https://x.com/ArjunMahadevan/status/1737555905900658815?s=20)
 <!--END_SECTION:hn-->
 
 <!--
