@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 27 - [Valetudo – Cloud replacement for vacuum robots enabling local-only operation](https://valetudo.cloud/)
-- Dec 27 - [No new iPhone? No secure iOS: Looking at an unfixed iOS vulnerability](https://joshua.hu/apple-ios-patched-unpatched-vulnerabilities)
-- Dec 27 - [Show HN: Rem: Remember Everything (open source)](https://github.com/jasonjmcghee/rem)
-- Dec 27 - [Debian Statement on the Cyber Resilience Act](https://lwn.net/Articles/956187/)
-- Dec 27 - [3D Map of Shinjuku Station in Three.js](https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/)
+- Dec 28 - [Unix as IDE (2012)](https://blog.sanctum.geek.nz/series/unix-as-ide/)
+- Dec 28 - [Generation Junk](https://walterkirn.substack.com/p/generation-junk)
+- Dec 28 - [Book list for streetfighting computer scientists](https://nick-black.com/dankwiki/index.php/Book_list_for_streetfighting_computer_scientists)
+- Dec 28 - [Docs Deserve More Respect](https://www.ramijames.com/thoughts/docs-deserve-more-respect)
+- Dec 28 - [Jerry (YC S17) Is Hiring PMs, Engineers, Data Roles (Remote)](https://getjerry.com/careers)
 <!--END_SECTION:hn-->
 
 <!--
