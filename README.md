@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 28 - [Dark Visitors – A list of known AI agents on the internet](https://darkvisitors.com)
-- Dec 28 - [Original Sling'n'shoot Worms Game](http://www.liero.be/)
-- Dec 28 - [Ask HN: What are ethical companies like Patagonia and some digital counterparts?](https://news.ycombinator.com/item?id=38796842)
-- Dec 28 - [Lapce: Fast and Powerful Code Editor Written in Rust](https://github.com/lapce/lapce)
-- Dec 28 - [Doola a "Business-in-a-Box" (YC S20) Is Hiring a CPA](https://x.com/ArjunMahadevan/status/1737555905900658815?s=20)
+- Dec 28 - [Bram Moolenaar passed away in 2023. Consider donating to ICCF in his honor](https://vimhelp.org/uganda.txt.html)
+- Dec 28 - [Smallest Typeface (3x3)](http://luc.devroye.org/fonts-51468.html)
+- Dec 28 - [GraphWords: Visual Dictionary and Thesaurus](https://graphwords.com)
+- Dec 28 - [Multiplayer Online Science](http://mmos.ch/)
+- Dec 28 - [BCHS software stack: BSD, C, httpd, SQLite](https://learnbchs.org/)
 <!--END_SECTION:hn-->
 
 <!--
