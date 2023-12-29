@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 29 - [Dyte (YC W21) Is Hiring a Support Engineer (Latin America)](https://jobs.lever.co/dyte-io/e8c32043-b478-4c91-ab5e-634c15690236)
-- Dec 29 - [Copyright is not a moral right, it's a monetization strategy](https://twitter.com/Plinz/status/1740597001652461895)
-- Dec 29 - [Salt and salary: were Roman soldiers paid in salt? (2017)](http://kiwihellenist.blogspot.com/2017/01/salt-and-salary.html)
-- Dec 29 - [Why are Apple Silicon VMs so different?](https://eclecticlight.co/2023/12/29/why-are-apple-silicon-vms-so-different/)
-- Dec 29 - [Ask HN: What are good books/blogs to read for a first time CTO](https://news.ycombinator.com/item?id=38803092)
+- Dec 29 - [Derinkuyu: Mysterious underground city in Turkey found in man's basement](https://bigthink.com/strange-maps/derinkuyu-underground-city/)
+- Dec 29 - [Every Major Pharmacy Chain Giving Government Warrantless Medical Record Access](https://www.techdirt.com/2023/12/28/every-major-pharmacy-chain-is-giving-the-government-warrantless-access-to-medical-records/)
+- Dec 29 - [One man saved a generation of premature babies (2016)](https://www.bbc.com/news/magazine-36321692)
+- Dec 29 - [The Linux Backdoor Attempt of 2003](https://freedom-to-tinker.com/2013/10/09/the-linux-backdoor-attempt-of-2003/)
+- Dec 29 - [How the append-only btree works](https://www.bzero.se/ldapd/btree.html)
 <!--END_SECTION:hn-->
 
 <!--
