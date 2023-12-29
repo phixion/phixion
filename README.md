@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 29 - [Derinkuyu: Mysterious underground city in Turkey found in man's basement](https://bigthink.com/strange-maps/derinkuyu-underground-city/)
-- Dec 29 - [Every Major Pharmacy Chain Giving Government Warrantless Medical Record Access](https://www.techdirt.com/2023/12/28/every-major-pharmacy-chain-is-giving-the-government-warrantless-access-to-medical-records/)
-- Dec 29 - [One man saved a generation of premature babies (2016)](https://www.bbc.com/news/magazine-36321692)
-- Dec 29 - [The Linux Backdoor Attempt of 2003](https://freedom-to-tinker.com/2013/10/09/the-linux-backdoor-attempt-of-2003/)
-- Dec 29 - [How the append-only btree works](https://www.bzero.se/ldapd/btree.html)
+- Dec 29 - [The companies employees don't want to leave in 2023](https://resume.io/blog/the-companies-employees-dont-want-to-leave-in-2023)
+- Dec 29 - [Blot Turns a Folder into a Website](https://blot.im/how)
+- Dec 29 - [Homicides in U.S. to drop by record numbers in 2023](https://www.axios.com/2023/12/28/us-murder-violent-crime-rates-drop)
+- Dec 29 - [Social media companies made $11B in US ad revenue from minors, study finds](https://apnews.com/article/tiktok-meta-instagram-revenue-teens-harvard-cc9bf875d6f7259ba2aee8805ccdaf3d)
+- Dec 29 - [Increasing purchases at farmers markets using point‐of‐sale scanner data](https://onlinelibrary.wiley.com/doi/10.1002/jaa2.96)
 <!--END_SECTION:hn-->
 
 <!--
