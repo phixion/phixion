@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 29 - [Novel helmet liner 30 times better at stopping concussions](https://newatlas.com/medical/carbon-nanotube-foam-helmet-liner-concussion/)
-- Dec 29 - [Kaspersky discloses iPhone hardware feature vital in Operation Triangulation](https://www.kaspersky.com/about/press-releases/2023_kaspersky-discloses-iphone-hardware-feature-vital-in-operation-triangulation-case)
-- Dec 28 - [Smallest Typeface](http://luc.devroye.org/fonts-51468.html)
-- Dec 28 - [Electronics Flea Market](https://www.electronicsfleamarket.com)
-- Dec 28 - [GraphWords: Visual Dictionary and Thesaurus](https://graphwords.com)
+- Dec 29 - [40% of US electricity is now emissions-free](https://arstechnica.com/science/2023/12/40-of-us-electricity-is-now-emissions-free/)
+- Dec 29 - [Ideal Monitor Rotation for Programmers (2021)](https://sprocketfox.io/xssfox/2021/12/02/xrandr/)
+- Dec 29 - [Autorize – Authorization enforcement detection extension for Burp Suite](https://github.com/Quitten/Autorize)
+- Dec 29 - [Linux is the only OS to support diagonal PC monitor mode](https://www.tomshardware.com/monitors/linux-is-the-only-os-to-support-diagonal-pc-monitor-mode-dev-champions-the-case-for-22-degree-rotation-computing)
+- Dec 29 - [Sticking to 8192 signatures per slot post-SSF: how and why](https://ethresear.ch/t/sticking-to-8192-signatures-per-slot-post-ssf-how-and-why/17989)
 <!--END_SECTION:hn-->
 
 <!--
