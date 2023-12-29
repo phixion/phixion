@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 28 - [Bram Moolenaar passed away in 2023. Consider donating to ICCF in his honor](https://vimhelp.org/uganda.txt.html)
-- Dec 28 - [Smallest Typeface (3x3)](http://luc.devroye.org/fonts-51468.html)
+- Dec 29 - [Novel helmet liner 30 times better at stopping concussions](https://newatlas.com/medical/carbon-nanotube-foam-helmet-liner-concussion/)
+- Dec 29 - [Kaspersky discloses iPhone hardware feature vital in Operation Triangulation](https://www.kaspersky.com/about/press-releases/2023_kaspersky-discloses-iphone-hardware-feature-vital-in-operation-triangulation-case)
+- Dec 28 - [Smallest Typeface](http://luc.devroye.org/fonts-51468.html)
+- Dec 28 - [Electronics Flea Market](https://www.electronicsfleamarket.com)
 - Dec 28 - [GraphWords: Visual Dictionary and Thesaurus](https://graphwords.com)
-- Dec 28 - [Multiplayer Online Science](http://mmos.ch/)
-- Dec 28 - [BCHS software stack: BSD, C, httpd, SQLite](https://learnbchs.org/)
 <!--END_SECTION:hn-->
 
 <!--
