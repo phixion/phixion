@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 29 - [The companies employees don't want to leave in 2023](https://resume.io/blog/the-companies-employees-dont-want-to-leave-in-2023)
-- Dec 29 - [Blot Turns a Folder into a Website](https://blot.im/how)
-- Dec 29 - [Homicides in U.S. to drop by record numbers in 2023](https://www.axios.com/2023/12/28/us-murder-violent-crime-rates-drop)
-- Dec 29 - [Social media companies made $11B in US ad revenue from minors, study finds](https://apnews.com/article/tiktok-meta-instagram-revenue-teens-harvard-cc9bf875d6f7259ba2aee8805ccdaf3d)
-- Dec 29 - [Increasing purchases at farmers markets using point‐of‐sale scanner data](https://onlinelibrary.wiley.com/doi/10.1002/jaa2.96)
+- Dec 29 - [Using linear programming to assess spatial access](https://andrewpwheeler.com/2022/07/01/using-linear-programming-to-assess-spatial-access/)
+- Dec 29 - [Show HN: Vowl daily word guessing game](https://vowlgame.com)
+- Dec 29 - [Natural Language Corpus Data: Beautiful Data (2009)](https://norvig.com/ngrams/)
+- Dec 29 - [Koka: Strongly typed functional-style language with effect types and handlers](https://koka-lang.github.io/koka/doc/index.html)
+- Dec 29 - [Show HN: Inbox Zero – open-source email assistant](https://www.getinboxzero.com)
 <!--END_SECTION:hn-->
 
 <!--
