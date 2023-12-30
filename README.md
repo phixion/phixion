@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 30 - [Emerge (YC W21) is hiring a Senior Android Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-android-engineer)
-- Dec 30 - [Things are about to get a lot worse for Generative AI](https://garymarcus.substack.com/p/things-are-about-to-get-a-lot-worse)
-- Dec 30 - [Stoßlüften: Shock Ventilation](https://www.thelocal.de/20190117/stolften)
-- Dec 30 - [The value of canonicity (2020)](https://building.nubank.com.br/the-value-of-canonicity/)
-- Dec 30 - [The case for a pipe assignment operator in R](http://hughjonesd.github.io/case-for-pipe-assignment.html)
+- Dec 30 - [ScummVM officially released in the App Store](https://apps.apple.com/us/app/scummvm/id6446184412)
+- Dec 30 - [Show HN: LinuxDAW – Quality audio software for Linux](https://linuxdaw.org/)
+- Dec 30 - [New theory seeks to unite Einstein's gravity with quantum mechanics](https://www.ucl.ac.uk/news/2023/dec/new-theory-seeks-unite-einsteins-gravity-quantum-mechanics)
+- Dec 30 - [Driverless cars immune from traffic tickets in California under current laws](https://www.nbcnews.com/business/business-news/can-driverless-cars-get-tickets-california-law-rcna131538)
+- Dec 30 - [The art of high performance computing](https://theartofhpc.com/)
 <!--END_SECTION:hn-->
 
 <!--
