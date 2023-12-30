@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 30 - [Emerge (YC W21) is hiring a Senior Android Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-android-engineer)
+- Dec 30 - [Things are about to get a lot worse for Generative AI](https://garymarcus.substack.com/p/things-are-about-to-get-a-lot-worse)
+- Dec 30 - [Stoßlüften: Shock Ventilation](https://www.thelocal.de/20190117/stolften)
+- Dec 30 - [The value of canonicity (2020)](https://building.nubank.com.br/the-value-of-canonicity/)
 - Dec 30 - [The case for a pipe assignment operator in R](http://hughjonesd.github.io/case-for-pipe-assignment.html)
-- Dec 30 - [Wikipedia daily most viewed pages](https://pageviews.wmcloud.org/topviews/?project=en.wikipedia.org&platform=all-access&date=2023-12-29&excludes=)
-- Dec 30 - [Show HN: FreshTube – show latest videos from YouTube channels](https://github.com/porjo/freshtube)
-- Dec 30 - [Show HN: I built ContainerCVE – a web tool to scan public Docker images](https://containercve.com)
-- Dec 30 - [The Art and Science of PCB Design](https://pcb.mit.edu/)
 <!--END_SECTION:hn-->
 
 <!--
