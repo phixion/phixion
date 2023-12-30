@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 30 - [ScummVM officially released in the App Store](https://apps.apple.com/us/app/scummvm/id6446184412)
-- Dec 30 - [Show HN: LinuxDAW – Quality audio software for Linux](https://linuxdaw.org/)
-- Dec 30 - [New theory seeks to unite Einstein's gravity with quantum mechanics](https://www.ucl.ac.uk/news/2023/dec/new-theory-seeks-unite-einsteins-gravity-quantum-mechanics)
-- Dec 30 - [Driverless cars immune from traffic tickets in California under current laws](https://www.nbcnews.com/business/business-news/can-driverless-cars-get-tickets-california-law-rcna131538)
-- Dec 30 - [The art of high performance computing](https://theartofhpc.com/)
+- Dec 30 - ['Suicide pod' is completely legal and approved for use in Switzerland](https://www.unilad.com/news/world-news/suicide-pod-legal-switzerland-330617-20231229)
+- Dec 30 - [The Google 0-day all Infostealer groups are exploiting](https://www.infostealers.com/article/the-0-day-all-infostealer-groups-are-exploiting/)
+- Dec 30 - [Spain confirms nuclear power phase-out, extends renewable projects deadlines](https://www.reuters.com/business/energy/spain-confirms-nuclear-power-phase-out-extends-renewable-projects-deadlines-2023-12-27/)
+- Dec 30 - [Tether Reveals Partnerships with Secret Service, FBI](https://finance.yahoo.com/news/tether-reveals-partnerships-secret-fbi-053041589.html)
+- Dec 30 - [Reams of secret poetry by pioneering British scientist come to light](https://www.theguardian.com/science/2023/dec/30/reams-of-secret-poetry-by-a-sir-humphry-davy-british-scientist-finally-come-to-light)
 <!--END_SECTION:hn-->
 
 <!--
