@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 30 - [The case for a pipe assignment operator in R](http://hughjonesd.github.io/case-for-pipe-assignment.html)
+- Dec 30 - [Wikipedia daily most viewed pages](https://pageviews.wmcloud.org/topviews/?project=en.wikipedia.org&platform=all-access&date=2023-12-29&excludes=)
+- Dec 30 - [Show HN: FreshTube – show latest videos from YouTube channels](https://github.com/porjo/freshtube)
 - Dec 30 - [Show HN: I built ContainerCVE – a web tool to scan public Docker images](https://containercve.com)
 - Dec 30 - [The Art and Science of PCB Design](https://pcb.mit.edu/)
-- Dec 30 - [Getting Started with Fail2Ban on Linux](https://ittavern.com/getting-started-with-fail2ban-on-linux/)
-- Dec 29 - [Understanding Parquet, Iceberg and Data Lakehouses](https://davidgomes.com/understanding-parquet-iceberg-and-data-lakehouses-at-broad/)
-- Dec 29 - [Using linear programming to assess spatial access](https://andrewpwheeler.com/2022/07/01/using-linear-programming-to-assess-spatial-access/)
 <!--END_SECTION:hn-->
 
 <!--
