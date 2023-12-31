@@ -19,9 +19,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 31 - [Maersk Ship Hit by Missile in the Red Sea](https://gcaptain.com/maersk-ship-hit-by-missile-in-the-red-sea/)
-- Dec 31 - [How bad are search results? Compare Google, Bing, Marginalia, Kagi, and ChatGPT](https://danluu.com/seo-spam/)
-- Dec 31 - [Building ColdFusion for the Web](https://thehistoryoftheweb.com/building-coldfusion-for-the-web/)
+- Dec 31 - [Pascal in Forth (1983)](http://tangentstorm.github.io/winfield-pascal-83.html)
+- Dec 31 - [Design Principles Behind Smalltalk (1981)](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
+- Dec 31 - [Compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://danluu.com/seo-spam/)
 - Dec 31 - [Show HN: Spindle, a cross between Wordle and a Rubik's Cube made in PHP](https://playspindle.com/)
 - Dec 31 - [Cuis-Smalltalk](https://cuis.st/)
 <!--END_SECTION:hn-->
