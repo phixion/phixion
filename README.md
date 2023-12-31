@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 31 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- Dec 31 - [A 1690s Peanut is Reborn](https://nationalpeanutboard.org/news/a-1690s-peanut-is-reborn/)
-- Dec 31 - [Emacs-copilot: Large language model code completion for Emacs](https://github.com/jart/emacs-copilot)
-- Dec 31 - [Pascal in Forth (1983)](http://tangentstorm.github.io/winfield-pascal-83.html)
-- Dec 31 - [Design Principles Behind Smalltalk (1981)](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
+- Dec 31 - [Farewell, Java stingaree: Scientist declare the first marine fish extinction](https://news.mongabay.com/2023/12/farewell-java-stingaree-scientist-declare-the-first-marine-fish-extinction/)
+- Dec 31 - [Instant Messaging: Protocols Are "Commons", Let's Take Them Seriously](https://www.process-one.net/blog/instant-messaging-protocols-are-commons-lets-take-them-seriously/)
+- Dec 31 - [Email addresses are not good 'permanent' identifiers for accounts](https://utcc.utoronto.ca/~cks/space/blog/tech/EmailAddressesBadPermanentIDs)
+- Dec 31 - [The Forecasting Fallacy](https://www.alexmurrell.co.uk/articles/the-forecasting-fallacy)
+- Dec 31 - [Sweden Solar System](https://en.wikipedia.org/wiki/Sweden_Solar_System)
 <!--END_SECTION:hn-->
 
 <!--
