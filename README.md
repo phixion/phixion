@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 31 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- Dec 31 - [A 1690s Peanut is Reborn](https://nationalpeanutboard.org/news/a-1690s-peanut-is-reborn/)
+- Dec 31 - [Emacs-copilot: Large language model code completion for Emacs](https://github.com/jart/emacs-copilot)
 - Dec 31 - [Pascal in Forth (1983)](http://tangentstorm.github.io/winfield-pascal-83.html)
 - Dec 31 - [Design Principles Behind Smalltalk (1981)](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
-- Dec 31 - [Compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://danluu.com/seo-spam/)
-- Dec 31 - [Show HN: Spindle, a cross between Wordle and a Rubik's Cube made in PHP](https://playspindle.com/)
-- Dec 31 - [Cuis-Smalltalk](https://cuis.st/)
 <!--END_SECTION:hn-->
 
 <!--
