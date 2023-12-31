@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 30 - [Ask HN: Online BS – Grey Beard needs advice](https://news.ycombinator.com/item?id=38820460)
-- Dec 30 - [Android Data Encryption in depth](https://blog.quarkslab.com/android-data-encryption-in-depth.html)
-- Dec 30 - [An Elegy for the Jewish Retirees of Miami Beach](https://www.newyorker.com/culture/photo-booth/an-elegy-for-the-jewish-retirees-of-miami-beach)
-- Dec 30 - [More fun with Apple's internal tools: creating a PDS card](https://www.downtowndougbrown.com/2023/12/more-fun-with-apples-internal-tools-creating-a-pds-card/)
-- Dec 30 - [Ugrep – a more powerful, fast, user-friendly, compatible grep](https://ugrep.com/)
+- Dec 31 - [Maersk Ship Hit by Missile in the Red Sea](https://gcaptain.com/maersk-ship-hit-by-missile-in-the-red-sea/)
+- Dec 31 - [How bad are search results? Compare Google, Bing, Marginalia, Kagi, and ChatGPT](https://danluu.com/seo-spam/)
+- Dec 31 - [Building ColdFusion for the Web](https://thehistoryoftheweb.com/building-coldfusion-for-the-web/)
+- Dec 31 - [Show HN: Spindle, a cross between Wordle and a Rubik's Cube made in PHP](https://playspindle.com/)
+- Dec 31 - [Cuis-Smalltalk](https://cuis.st/)
 <!--END_SECTION:hn-->
 
 <!--
