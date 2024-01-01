@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 31 - [Test Smarter, Not Harder: Focus on Outcomes, Not Outputs](https://markus.oberlehner.net/blog/test-smarter-not-harder-focus-on-outcomes-not-outputs/)
-- Dec 31 - [Meta could pull off the most extraordinary pivot in tech history](https://www.fromjason.xyz/p/notebook/copy-acquire-kill-how-meta-could-pull-off-the-most-extraordinary-pivot-in-tech-history/)
-- Dec 31 - [I want a city, not a museum](https://www.nytimes.com/2023/12/30/opinion/new-york-housing-costs.html)
+- Dec 31 - [A Cypherpunk's Manifesto (1993)](https://www.activism.net/cypherpunk/manifesto.html)
+- Dec 31 - [Bazzite – a SteamOS-like OCI image for desktop, living room, and handheld PCs](https://github.com/ublue-os/bazzite)
+- Dec 31 - [Molecular jackhammers eradicate cancer cells by vibronic-driven action](https://www.nature.com/articles/s41557-023-01383-y)
+- Dec 31 - [O(1) Build File](https://matklad.github.io/2023/12/31/O(1)-build-file.html#O-1-Build-File)
 - Dec 31 - [Happy New Year HN!](https://news.ycombinator.com/item?id=38826283)
-- Dec 31 - [Interesting double-poly latches inside AMD's vintage LANCE Ethernet chip](https://www.righto.com/2023/12/amd-lance-ethernet-double-poly.html)
 <!--END_SECTION:hn-->
 
 <!--
