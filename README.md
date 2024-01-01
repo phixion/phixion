@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 31 - [A Cypherpunk's Manifesto (1993)](https://www.activism.net/cypherpunk/manifesto.html)
-- Dec 31 - [Bazzite – a SteamOS-like OCI image for desktop, living room, and handheld PCs](https://github.com/ublue-os/bazzite)
-- Dec 31 - [Molecular jackhammers eradicate cancer cells by vibronic-driven action](https://www.nature.com/articles/s41557-023-01383-y)
-- Dec 31 - [O(1) Build File](https://matklad.github.io/2023/12/31/O(1)-build-file.html#O-1-Build-File)
-- Dec 31 - [Happy New Year HN!](https://news.ycombinator.com/item?id=38826283)
+- Jan 01 - [Show HN: Pokemon prototype game made with JavaScript and p5.js](https://github.com/JSLegendDev/Pokemon-p5js)
+- Jan 01 - [Merkle Town: Explore the certificate transparency ecosystem](https://ct.cloudflare.com/)
+- Jan 01 - [Show HN: Raiseto – Discover and Share Ideas](https://raiseto.com/)
+- Jan 01 - [Ask HN: Is there a data set for GitHub repos associated with academic papers?](https://news.ycombinator.com/item?id=38828739)
+- Jan 01 - [Ask HN: What software/tech blogs/magazines should I be reading in 2024?](https://news.ycombinator.com/item?id=38828682)
 <!--END_SECTION:hn-->
 
 <!--
