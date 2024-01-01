@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 01 - [Orange Site Hit](https://blog.davep.org/2024/01/01/oshit.html)
-- Jan 01 - [Japan issues tsunami warnings after a series of strong earthquakes](https://english.elpais.com/international/2024-01-01/japan-issues-tsunami-warnings-after-a-series-of-strong-earthquakes-on-sea-of-japan-coast.html)
-- Jan 01 - [Taligent's Guide to Designing Programs [pdf]](https://bitsavers.org/pdf/apple/mac/pink/Taligent_-_Taligents_Guide_to_Designing_Programs_1994.pdf)
-- Jan 01 - [Show HN: Durdraw – a modern ANSI art editor for modern Unix terminals](https://github.com/cmang/durdraw)
-- Jan 01 - [Use any web browser as GUI, with Zig in the back end and HTML5 in the front end](https://github.com/webui-dev/zig-webui)
+- Jan 01 - [ChatGPT 3 validates misinformation, research finds](https://uwaterloo.ca/news/media/large-language-models-validate-misinformation-research-finds)
+- Jan 01 - [Archaeologists reconstructed the burning of Jerusalem in 586 BCE](https://arstechnica.com/science/2023/12/how-archaeologists-reconstructed-the-burning-of-jerusalem-in-586-bce/)
+- Jan 01 - [Show HN: Page Replica – Tool for Web Scraping, Prerendering, and SEO Boost](https://github.com/html5-ninja/page-replica)
+- Jan 01 - [Generative AI flooding online crocheting spaces with unrealistic amigurumi pics](https://twitter.com/LauraRbnsn/status/1741494511849578753)
+- Jan 01 - [Show HN: I made TV Sort, a web-based game for ranking TV show episodes](https://tvsort.com/)
 <!--END_SECTION:hn-->
 
 <!--
