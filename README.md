@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 01 - [Show HN: Pokemon prototype game made with JavaScript and p5.js](https://github.com/JSLegendDev/Pokemon-p5js)
-- Jan 01 - [Merkle Town: Explore the certificate transparency ecosystem](https://ct.cloudflare.com/)
-- Jan 01 - [Show HN: Raiseto – Discover and Share Ideas](https://raiseto.com/)
-- Jan 01 - [Ask HN: Is there a data set for GitHub repos associated with academic papers?](https://news.ycombinator.com/item?id=38828739)
-- Jan 01 - [Ask HN: What software/tech blogs/magazines should I be reading in 2024?](https://news.ycombinator.com/item?id=38828682)
+- Jan 01 - [Disney's Mickey Mouse enter public domain](https://www.bbc.com/news/entertainment-arts-67833411)
+- Jan 01 - [Steamboat Willie [video]](https://www.youtube.com/watch?v=hmzO--ox7X0)
+- Jan 01 - [Website Impersonating a Desktop Environment](https://dustinbrett.com/)
+- Jan 01 - [27 Years Ago, Steve Jobs Said the Best Employees Focus on Content, Not Process](https://www.inc.com/jeff-haden/27-years-ago-steve-jobs-said-best-employees-focus-on-content-not-process-workplace-research-shows-he-was-right.html)
+- Jan 01 - [Beginner dev looks at how YouTube sends videos](https://vincentsg.dev/dec31?)
 <!--END_SECTION:hn-->
 
 <!--
