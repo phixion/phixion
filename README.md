@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 01 - [ChatGPT 3 validates misinformation, research finds](https://uwaterloo.ca/news/media/large-language-models-validate-misinformation-research-finds)
-- Jan 01 - [Archaeologists reconstructed the burning of Jerusalem in 586 BCE](https://arstechnica.com/science/2023/12/how-archaeologists-reconstructed-the-burning-of-jerusalem-in-586-bce/)
-- Jan 01 - [Show HN: Page Replica – Tool for Web Scraping, Prerendering, and SEO Boost](https://github.com/html5-ninja/page-replica)
-- Jan 01 - [Generative AI flooding online crocheting spaces with unrealistic amigurumi pics](https://twitter.com/LauraRbnsn/status/1741494511849578753)
-- Jan 01 - [Show HN: I made TV Sort, a web-based game for ranking TV show episodes](https://tvsort.com/)
+- Jan 01 - [Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory](https://arxiv.org/abs/2310.20360)
+- Jan 01 - [Microdot: Yet Another Python Web Framework](https://blog.miguelgrinberg.com/post/microdot-yet-another-python-web-framework)
+- Jan 01 - [2024's public domain is a banger](https://pluralistic.net/2023/12/20/em-oh-you-ess-ee/)
+- Jan 01 - [Writing a TrueType font renderer](https://axleos.com/writing-a-truetype-font-renderer/)
+- Jan 01 - [A* Tricks for Videogame Path Finding](https://timmastny.com/blog/a-star-tricks-for-videogame-path-finding/)
 <!--END_SECTION:hn-->
 
 <!--
