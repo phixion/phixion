@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 02 - [Eating fewer calories can ward off ageing](https://www.economist.com/technology-quarterly/2023/09/25/eating-fewer-calories-can-ward-off-ageing)
-- Jan 02 - [Push Notifications – What to Push, What Not to Push, and How Often](https://eugeneyan.com/writing/push/)
-- Jan 02 - [Creative Destruction in Small Business Bankruptcy](https://www.creditslips.org/creditslips/2023/08/creative-destruction-in-small-business-bankruptcy.html)
-- Jan 02 - [New Ultra Fast Lossless Audio Codec (HALAC)](https://hydrogenaud.io/index.php/topic,125248.0.html?PHPSESSID=su12fvq4ar7cordpr8p1uoa7p0)
-- Jan 02 - [Sodium's high-pressure transformation shows the interiors of stars, planets](https://phys.org/news/2023-12-sodium-high-pressure-interiors-stars-planets.html)
+- Jan 02 - [Elizabeth line testing ways of banishing its "ghosts in the walls"](https://www.ianvisits.co.uk/articles/elizabeth-line-testing-ways-of-banishing-its-ghosts-in-the-walls-68642/)
+- Jan 02 - [Why does integer representation of a floating point approximate its logarithm?](https://stackoverflow.com/questions/75772363/why-does-the-integer-representation-of-a-floating-point-number-offer-a-piecewise)
+- Jan 02 - [Ask HN: What are your founder's resolutions for 2024?](https://news.ycombinator.com/item?id=38840007)
+- Jan 02 - [Japan Airlines plane catches fire while landing at Tokyo airport runway](https://www.mirror.co.uk/news/world-news/breaking-plane-catches-fire-taking-31786520)
+- Jan 02 - [Salim Kara stole $2M in coins with a magnet and a car antenna](https://www.nofreelunch.co.uk/blog/salim-kara-lrt-scam/)
 <!--END_SECTION:hn-->
 
 <!--
