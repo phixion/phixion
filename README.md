@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 02 - [Wealthiest Californians are leaving the state. It's bad news for the economy](https://www.latimes.com/business/story/2023-12-19/the-wealthiest-californians-are-fleeing-the-state-why-thats-very-bad-news-for-the-economy)
-- Jan 01 - [Fireworks likely caused water contamination at Mount Rushmore (2016)](https://www.usgs.gov/news/national-news-release/fireworks-likely-caused-water-contamination-mount-rushmore)
-- Jan 01 - [NERV Disaster Prevention](https://nerv.app/en/)
-- Jan 01 - [Displaying Content as a Graph](https://thisisimportant.net/posts/content-as-a-graph/)
-- Jan 01 - [Fail2ban Sucks (2020)](https://j3s.sh/thought/fail2ban-sux.html)
+- Jan 02 - [Zig cookbook: collection of simple Zig programs that demonstrate good practices](https://github.com/zigcc/zig-cookbook)
+- Jan 02 - [$450 for a School Bag?](https://one-from-nippon.ghost.io/randoseru/)
+- Jan 02 - [Why Is There a 'Strand of DNA' on Massachusetts License Plates?](https://www.wgbh.org/lifestyle/2018-03-06/why-is-there-a-strand-of-dna-on-massachusetts-license-plates)
+- Jan 02 - [Odin Programming Language](https://odin-lang.org/)
+- Jan 01 - [Calculating Logarithms by Hand [pdf]](https://fiziko.bureau42.com/teaching_tidbits/manual_logarithms.pdf)
 <!--END_SECTION:hn-->
 
 <!--
