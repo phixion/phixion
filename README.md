@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 02 - [Japan Goes All In: Copyright Doesn't Apply to AI Training](https://www.biia.com/japan-goes-all-in-copyright-doesnt-apply-to-ai-training/)
-- Jan 02 - [The Infinite/Eternal Jukebox has been revived](https://jukebox.davi.gq/jukebox_search.html)
-- Jan 02 - [Best paper awards in computer science over the past 28 years (1996-2023)](https://jeffhuang.com/best_paper_awards/)
-- Jan 02 - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=38842297)
-- Jan 02 - [Antimacassar](https://en.wikipedia.org/wiki/Antimacassar)
+- Jan 02 - [LLM spews nonsense in CVE report for curl](https://hackerone.com/reports/2298307)
+- Jan 02 - [Show HN: Better Seater: Wedding Seating Chart Optimizer](https://seater.steam-oven.net/)
+- Jan 02 - [Realtime Annotations and Visualizations in Live Coding Performance](https://charlieroberts.github.io/annotationsAndVisualizations/)
+- Jan 02 - [1D Pac-Man](https://abagames.github.io/crisp-game-lib-11-games/?pakupaku)
+- Jan 02 - [Improving Text Embeddings with Large Language Models](https://arxiv.org/abs/2401.00368)
 <!--END_SECTION:hn-->
 
 <!--
