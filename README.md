@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 03 - [A lightweight Lisp interpreter in Malbolge Unshackled](https://github.com/kspalaiologos/malbolge-lisp)
-- Jan 03 - [Benchmarking 20 programming languages on N-queens and matrix multiplication](https://github.com/attractivechaos/plb2)
-- Jan 03 - [GCC Specs: An Introduction](https://wozniak.ca/blog/2024/01/02/1/index.html)
-- Jan 03 - [Sieve is simpler than LRU](https://cachemon.github.io/SIEVE-website/blog/2023/12/17/sieve-is-simpler-than-lru/)
-- Jan 02 - [Can a pill prevent deaths from venomous snakebites?](https://www.latimes.com/environment/story/2023-12-24/can-a-pill-prevent-deaths-from-venomous-snake-bites)
+- Jan 03 - [Provision (YC S22) Is Hiring a Fullstack Software Engineer](https://provision-software.notion.site/Provision-is-Hiring-8b53cc10bbd04af39bf3d3c7ab181cac?pvs=4)
+- Jan 03 - [UK 2022 rail station flow images](https://github.com/anisotropi4/kingfisher/blob/main/station.md)
+- Jan 03 - [Making the Micropipette](https://press.asimov.com/resources/making-the-micropipette)
+- Jan 03 - [Britain's got some of Europe's toughest surveillance laws. Now it wants more](https://www.politico.eu/article/uk-bulking-up-spying-regime-breakneck-speed/)
+- Jan 03 - [Maestro: A Linux-compatible kernel in Rust](https://blog.lenot.re/a/introduction)
 <!--END_SECTION:hn-->
 
 <!--
