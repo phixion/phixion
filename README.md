@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 03 - [Provision (YC S22) Is Hiring a Fullstack Software Engineer](https://provision-software.notion.site/Provision-is-Hiring-8b53cc10bbd04af39bf3d3c7ab181cac?pvs=4)
-- Jan 03 - [UK 2022 rail station flow images](https://github.com/anisotropi4/kingfisher/blob/main/station.md)
-- Jan 03 - [Making the Micropipette](https://press.asimov.com/resources/making-the-micropipette)
-- Jan 03 - [Britain's got some of Europe's toughest surveillance laws. Now it wants more](https://www.politico.eu/article/uk-bulking-up-spying-regime-breakneck-speed/)
-- Jan 03 - [Maestro: A Linux-compatible kernel in Rust](https://blog.lenot.re/a/introduction)
+- Jan 03 - [Rawjs – you may not need React anymore](https://www.squaresapp.org/rawjs/)
+- Jan 03 - [Show HN: FrameOS – operating system for single function smart frames](https://frameos.net/)
+- Jan 03 - [Operation Triangulation What You Get When Attack iPhones of Researchers [video]](https://media.ccc.de/v/37c3-11859-operation_triangulation_what_you_get_when_attack_iphones_of_researchers)
+- Jan 03 - [Japan to test datacenter powered by reused hydrogen fuel cells](https://www.theregister.com/2024/01/03/japan_to_test_datacenter_powered/)
+- Jan 03 - [Thorium – Radioactive Chromium Fork](https://github.com/Alex313031/thorium)
 <!--END_SECTION:hn-->
 
 <!--
