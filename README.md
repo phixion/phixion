@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 03 - [Lambdasort: Quicksort written in Python only using lambdas](https://lucasoshiro.github.io/software-en/2020-06-06-lambdasort/)
+- Jan 03 - [GCC Specs: An Introduction](https://wozniak.ca/blog/2024/01/02/1/index.html)
+- Jan 03 - [More Americans can now get insulin for $35](https://www.cnn.com/2024/01/01/politics/insulin-price-cap/index.html)
+- Jan 03 - [Suicide Rates Are Up for Gen Z Across the Anglosphere, Especially for Girls](https://www.afterbabel.com/p/anglo-teen-suicide)
 - Jan 02 - [Can a pill prevent deaths from venomous snakebites?](https://www.latimes.com/environment/story/2023-12-24/can-a-pill-prevent-deaths-from-venomous-snake-bites)
-- Jan 02 - [Delete or hide life-wasting apps](https://practicalbetterments.com/delete-or-hide-life-wasting-apps/)
-- Jan 02 - [Thoughts on PostgreSQL in 2024](https://jkatz05.com/post/postgres/postgresql-2024/)
-- Jan 02 - [Show HN: Resurrecting the Dillo Browser](https://dillo-browser.github.io/)
+- Jan 02 - [Show HN: Hacker News Year in Review: 2023](https://public.tableau.com/app/profile/isna/viz/HackerNewsDashboard_17042353296150/HackerNewsYearinReview2023)
 <!--END_SECTION:hn-->
 
 <!--
