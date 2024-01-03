@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 03 - [A lightweight Lisp interpreter in Malbolge Unshackled](https://github.com/kspalaiologos/malbolge-lisp)
+- Jan 03 - [Benchmarking 20 programming languages on N-queens and matrix multiplication](https://github.com/attractivechaos/plb2)
 - Jan 03 - [GCC Specs: An Introduction](https://wozniak.ca/blog/2024/01/02/1/index.html)
-- Jan 03 - [More Americans can now get insulin for $35](https://www.cnn.com/2024/01/01/politics/insulin-price-cap/index.html)
-- Jan 03 - [Suicide Rates Are Up for Gen Z Across the Anglosphere, Especially for Girls](https://www.afterbabel.com/p/anglo-teen-suicide)
+- Jan 03 - [Sieve is simpler than LRU](https://cachemon.github.io/SIEVE-website/blog/2023/12/17/sieve-is-simpler-than-lru/)
 - Jan 02 - [Can a pill prevent deaths from venomous snakebites?](https://www.latimes.com/environment/story/2023-12-24/can-a-pill-prevent-deaths-from-venomous-snake-bites)
-- Jan 02 - [Show HN: Hacker News Year in Review: 2023](https://public.tableau.com/app/profile/isna/viz/HackerNewsDashboard_17042353296150/HackerNewsYearinReview2023)
 <!--END_SECTION:hn-->
 
 <!--
