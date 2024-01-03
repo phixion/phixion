@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 02 - [LLM spews nonsense in CVE report for curl](https://hackerone.com/reports/2298307)
-- Jan 02 - [Show HN: Better Seater: Wedding Seating Chart Optimizer](https://seater.steam-oven.net/)
-- Jan 02 - [Realtime Annotations and Visualizations in Live Coding Performance](https://charlieroberts.github.io/annotationsAndVisualizations/)
-- Jan 02 - [1D Pac-Man](https://abagames.github.io/crisp-game-lib-11-games/?pakupaku)
-- Jan 02 - [Improving Text Embeddings with Large Language Models](https://arxiv.org/abs/2401.00368)
+- Jan 03 - [Lambdasort: Quicksort written in Python only using lambdas](https://lucasoshiro.github.io/software-en/2020-06-06-lambdasort/)
+- Jan 02 - [Can a pill prevent deaths from venomous snakebites?](https://www.latimes.com/environment/story/2023-12-24/can-a-pill-prevent-deaths-from-venomous-snake-bites)
+- Jan 02 - [Delete or hide life-wasting apps](https://practicalbetterments.com/delete-or-hide-life-wasting-apps/)
+- Jan 02 - [Thoughts on PostgreSQL in 2024](https://jkatz05.com/post/postgres/postgresql-2024/)
+- Jan 02 - [Show HN: Resurrecting the Dillo Browser](https://dillo-browser.github.io/)
 <!--END_SECTION:hn-->
 
 <!--
