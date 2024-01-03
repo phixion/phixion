@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 03 - [Rawjs – you may not need React anymore](https://www.squaresapp.org/rawjs/)
-- Jan 03 - [Show HN: FrameOS – operating system for single function smart frames](https://frameos.net/)
-- Jan 03 - [Operation Triangulation What You Get When Attack iPhones of Researchers [video]](https://media.ccc.de/v/37c3-11859-operation_triangulation_what_you_get_when_attack_iphones_of_researchers)
-- Jan 03 - [Japan to test datacenter powered by reused hydrogen fuel cells](https://www.theregister.com/2024/01/03/japan_to_test_datacenter_powered/)
-- Jan 03 - [Thorium – Radioactive Chromium Fork](https://github.com/Alex313031/thorium)
+- Jan 03 - [Show HN: A Who is Hiring app with AI filters – January 2024 update](https://bernawil.github.io/hn-who-is-hiring/)
+- Jan 03 - [Niklaus Wirth has died](https://twitter.com/Bertrand_Meyer/status/1742613897675178347)
+- Jan 03 - [Porsche Design System v3](https://designsystem.porsche.com/v3/)
+- Jan 03 - [The drive stats of Backblaze storage pods](https://www.backblaze.com/blog/the-drive-stats-of-backblaze-storage-pods/)
+- Jan 03 - [Show HN: Ambiphone, no-nonsense ambient music and white noise](https://ambiph.one?hn)
 <!--END_SECTION:hn-->
 
 <!--
