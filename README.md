@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 04 - [Patriot Missile Floating Point Software Problem Led to Deaths of 28 Americans](https://www.cs.unc.edu/%7Esmp/COMP205/LECTURES/ERROR/lec23/node4.html)
+- Jan 04 - [Ten years isn't long enough for maximum age settings](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/TenYearsNotLongEnough)
+- Jan 04 - [A Science of Concurrent Programs [pdf]](https://lamport.azurewebsites.net/tla/science.pdf)
+- Jan 04 - [Lilygo T-Deck: 2.8-inch IPS LCD display, mini keyboard, and ESP32 processor](https://www.lilygo.cc/products/t-deck)
 - Jan 04 - [Alan Turing – The Delilah Project](https://www.bonhams.com/auction/28322/lot/45/turing-alan-the-delilah-project-the-papers-of-alan-turing-and-donald-bayley-relating-to-the-delilah-project/)
-- Jan 04 - [SpaceX Illegally Fired Workers Critical of Musk, Federal Agency Says](https://www.nytimes.com/2024/01/03/business/spacex-elon-musk-nlrb-workers.html)
-- Jan 04 - [CAS 761: Generative Programming (Winter 2024)](http://www.cas.mcmaster.ca/~carette/CAS761/W2024/index.html)
 - Jan 04 - [Think more about what to focus on](https://www.henrikkarlsson.xyz/p/multi-armed-bandit)
 <!--END_SECTION:hn-->
 
