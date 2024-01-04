@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 04 - [Ten years isn't long enough for maximum age settings](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/TenYearsNotLongEnough)
-- Jan 04 - [A Science of Concurrent Programs [pdf]](https://lamport.azurewebsites.net/tla/science.pdf)
-- Jan 04 - [Lilygo T-Deck: 2.8-inch IPS LCD display, mini keyboard, and ESP32 processor](https://www.lilygo.cc/products/t-deck)
-- Jan 04 - [Alan Turing – The Delilah Project](https://www.bonhams.com/auction/28322/lot/45/turing-alan-the-delilah-project-the-papers-of-alan-turing-and-donald-bayley-relating-to-the-delilah-project/)
-- Jan 04 - [Think more about what to focus on](https://www.henrikkarlsson.xyz/p/multi-armed-bandit)
+- Jan 04 - [Power over Fibre (3v 180mA)](https://chaos.social/@f4grx/111697027153656114)
+- Jan 04 - [AI and satellite imagery used to create clearest map of human activity at sea](https://www.theverge.com/2024/1/3/24018797/ocean-maps-ai-satellite-imagery-radar-fishing-vessels-offshore-energy-wind-oil)
+- Jan 04 - [Software Technical Writing: A Guidebook [pdf]](https://jamesg.blog/book.pdf)
+- Jan 04 - [Whistleblower Aid](https://whistlebloweraid.org/)
+- Jan 04 - [We are turning into subscription slaves (2023)](https://medium.com/festival-of-dangerous-ideas/we-are-turning-into-subscription-slaves-b9957df37d88)
 <!--END_SECTION:hn-->
 
 <!--
