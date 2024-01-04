@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 03 - [Airplane acquired by Airtable and is shutting down](https://www.airplane.dev/blog/airtable)
-- Jan 03 - [The Curious Case of MD5](https://katelynsills.com/law/the-curious-case-of-md5/)
-- Jan 03 - [Understand how transformers work by demystifying the math behind them](https://osanseviero.github.io/hackerllama/blog/posts/random_transformer/)
-- Jan 03 - [Asian Arowana: The most expensive pet fish](https://thehustle.co/asian-arowana-most-expensive-fish/)
-- Jan 03 - [Laylo (YC S20) is hiring a live events and music account executive](https://www.ycombinator.com/companies/laylo/jobs/x3d7mtv-live-events-music-account-executive)
+- Jan 04 - [Patriot Missile Floating Point Software Problem Led to Deaths of 28 Americans](https://www.cs.unc.edu/%7Esmp/COMP205/LECTURES/ERROR/lec23/node4.html)
+- Jan 04 - [Alan Turing – The Delilah Project](https://www.bonhams.com/auction/28322/lot/45/turing-alan-the-delilah-project-the-papers-of-alan-turing-and-donald-bayley-relating-to-the-delilah-project/)
+- Jan 04 - [SpaceX Illegally Fired Workers Critical of Musk, Federal Agency Says](https://www.nytimes.com/2024/01/03/business/spacex-elon-musk-nlrb-workers.html)
+- Jan 04 - [CAS 761: Generative Programming (Winter 2024)](http://www.cas.mcmaster.ca/~carette/CAS761/W2024/index.html)
+- Jan 04 - [Think more about what to focus on](https://www.henrikkarlsson.xyz/p/multi-armed-bandit)
 <!--END_SECTION:hn-->
 
 <!--
