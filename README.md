@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 03 - [Show HN: A Who is Hiring app with AI filters – January 2024 update](https://bernawil.github.io/hn-who-is-hiring/)
-- Jan 03 - [Niklaus Wirth has died](https://twitter.com/Bertrand_Meyer/status/1742613897675178347)
-- Jan 03 - [Porsche Design System v3](https://designsystem.porsche.com/v3/)
-- Jan 03 - [The drive stats of Backblaze storage pods](https://www.backblaze.com/blog/the-drive-stats-of-backblaze-storage-pods/)
-- Jan 03 - [Show HN: Ambiphone, no-nonsense ambient music and white noise](https://ambiph.one?hn)
+- Jan 03 - [Airplane acquired by Airtable and is shutting down](https://www.airplane.dev/blog/airtable)
+- Jan 03 - [The Curious Case of MD5](https://katelynsills.com/law/the-curious-case-of-md5/)
+- Jan 03 - [Understand how transformers work by demystifying the math behind them](https://osanseviero.github.io/hackerllama/blog/posts/random_transformer/)
+- Jan 03 - [Asian Arowana: The most expensive pet fish](https://thehustle.co/asian-arowana-most-expensive-fish/)
+- Jan 03 - [Laylo (YC S20) is hiring a live events and music account executive](https://www.ycombinator.com/companies/laylo/jobs/x3d7mtv-live-events-music-account-executive)
 <!--END_SECTION:hn-->
 
 <!--
