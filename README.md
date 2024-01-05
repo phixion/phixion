@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 05 - [Multigenerational Living Often Makes Sense. That Doesn't Make It Easy](https://thewalrus.ca/multigenerational-living-often-makes-sense-that-doesnt-make-it-easy/)
-- Jan 05 - [Meta-analysis: On average undergraduate students intelligence is merely average](https://www.frontiersin.org/articles/10.3389/fpsyg.2024.1309142/abstract)
-- Jan 05 - [Show HN: I made a game to improve my typing speed](https://keysmash.no)
-- Jan 05 - [Archiving Steam games for fun and profit](https://lorendb.dev/posts/archiving-steam-games-for-fun-and-profit/)
-- Jan 05 - [Researchers Create First Functional Semiconductor Made from Graphene](https://research.gatech.edu/feature/researchers-create-first-functional-semiconductor-made-graphene)
+- Jan 05 - [Hard disk LEDs and noisy machines](https://blogsystem5.substack.com/p/hard-disk-leds-and-noisy-machines)
+- Jan 05 - [U.S. moves closer to filing antitrust case against Apple](https://www.nytimes.com/2024/01/05/technology/antitrust-apple-lawsuit-us.html)
+- Jan 05 - [In Europe, Trains Are Full, and More Are on the Way](https://www.nytimes.com/2024/01/04/travel/europe-new-trains.html)
+- Jan 05 - [A rocket a day keeps the high costs away (1993)](https://www.fourmilab.ch/documents/aRocketAday.txt)
+- Jan 05 - [How to build a thinking AI](https://aithought.com/)
 <!--END_SECTION:hn-->
 
 <!--
