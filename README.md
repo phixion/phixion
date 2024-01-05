@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 04 - [Google illegally refusing to bargain with employee union, says NLRB](https://www.theregister.com/2024/01/04/google_illegally_refusing_to_bargain/)
+- Jan 05 - [Australia's 'Bluey' conquered childrens' entertainment](https://www.ft.com/content/0a3c9806-8b0f-4cca-a4e5-e1e6dd6d395b)
+- Jan 05 - [Standard Ebooks Serves millions of Requests per Month with a 2GB VPS (2022)](https://alexcabal.com/posts/standard-ebooks-and-classic-web-tech)
+- Jan 05 - [SIMD in Pure Python](https://www.da.vidbuchanan.co.uk/blog/python-swar.html)
+- Jan 05 - ['everything' blocks devs from removing their own NPM packages](https://www.bleepingcomputer.com/news/security/everything-blocks-devs-from-removing-their-own-npm-packages/)
 - Jan 04 - [You shouldn't run NSA-grade Wi-Fi at home. Here's how to do it](https://smallstep.com/blog/home-network-eap-tls-wifi/)
-- Jan 04 - [Go: What we got right, what we got wrong](https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html)
-- Jan 04 - [Clicks – Physical keyboard for iPhone](https://www.clicks.tech/)
-- Jan 04 - [Databases in 2023: A Year in Review](https://ottertune.com/blog/2023-databases-retrospective)
 <!--END_SECTION:hn-->
 
 <!--
