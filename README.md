@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 05 - [An app can be a home-cooked meal](https://www.robinsloan.com/notes/home-cooked-app/)
-- Jan 05 - [YouTube demonetizes public domain 'Steamboat Willie' video after copyright claim](https://mashable.com/article/youtube-demontizes-public-domain-steamboat-willie-disney-copyright-claim)
-- Jan 05 - [Bodycams for civilians](https://www.core77.com/posts/126756/Hell-in-a-Handbasket-Bodycams-for-Civilians)
-- Jan 05 - [Portable Efficient Assembly Code-Generator in Higher-Level Python (PeachPy)](https://github.com/Maratyszcza/PeachPy)
-- Jan 05 - ['Rich Dad, Poor Dad' author Robert Kiyosaki reveals he's $1B in debt](https://fortune.com/2024/01/04/robert-kiyosaki-rich-dad-poor-dad-author-debt/)
+- Jan 05 - [Multigenerational Living Often Makes Sense. That Doesn't Make It Easy](https://thewalrus.ca/multigenerational-living-often-makes-sense-that-doesnt-make-it-easy/)
+- Jan 05 - [Meta-analysis: On average undergraduate students intelligence is merely average](https://www.frontiersin.org/articles/10.3389/fpsyg.2024.1309142/abstract)
+- Jan 05 - [Show HN: I made a game to improve my typing speed](https://keysmash.no)
+- Jan 05 - [Archiving Steam games for fun and profit](https://lorendb.dev/posts/archiving-steam-games-for-fun-and-profit/)
+- Jan 05 - [Researchers Create First Functional Semiconductor Made from Graphene](https://research.gatech.edu/feature/researchers-create-first-functional-semiconductor-made-graphene)
 <!--END_SECTION:hn-->
 
 <!--
