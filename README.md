@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 04 - [News85% of Americans Fear Job Loss in 2024](https://finance.yahoo.com/news/85-fear-job-loss-2024-222143676.html)
-- Jan 04 - [Awesome Cold Showers](https://github.com/hwayne/awesome-cold-showers)
-- Jan 04 - [Lower Obesity Rate During Residence at High Altitude Among a Military Population](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0093493)
-- Jan 04 - [AMD Proposes an FPGA Subsystem User-Space Interface for Linux](https://www.phoronix.com/news/FPGA-User-Space-Interface-AMD)
-- Jan 04 - [GPT Store Launch](https://news.ycombinator.com/item?id=38870249)
+- Jan 04 - [Google illegally refusing to bargain with employee union, says NLRB](https://www.theregister.com/2024/01/04/google_illegally_refusing_to_bargain/)
+- Jan 04 - [You shouldn't run NSA-grade Wi-Fi at home. Here's how to do it](https://smallstep.com/blog/home-network-eap-tls-wifi/)
+- Jan 04 - [Go: What we got right, what we got wrong](https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html)
+- Jan 04 - [Clicks – Physical keyboard for iPhone](https://www.clicks.tech/)
+- Jan 04 - [Databases in 2023: A Year in Review](https://ottertune.com/blog/2023-databases-retrospective)
 <!--END_SECTION:hn-->
 
 <!--
