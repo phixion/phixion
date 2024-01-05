@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 05 - [Australia's 'Bluey' conquered childrens' entertainment](https://www.ft.com/content/0a3c9806-8b0f-4cca-a4e5-e1e6dd6d395b)
-- Jan 05 - [Standard Ebooks Serves millions of Requests per Month with a 2GB VPS (2022)](https://alexcabal.com/posts/standard-ebooks-and-classic-web-tech)
-- Jan 05 - [SIMD in Pure Python](https://www.da.vidbuchanan.co.uk/blog/python-swar.html)
-- Jan 05 - ['everything' blocks devs from removing their own NPM packages](https://www.bleepingcomputer.com/news/security/everything-blocks-devs-from-removing-their-own-npm-packages/)
-- Jan 04 - [You shouldn't run NSA-grade Wi-Fi at home. Here's how to do it](https://smallstep.com/blog/home-network-eap-tls-wifi/)
+- Jan 05 - [Did you compare the cost of using a GPT plus subscription and use GPT by API?](https://news.ycombinator.com/item?id=38876419)
+- Jan 05 - [Apple's classic Pascal poster, remade as a vector image [pdf]](http://www.danamania.com/print/Apple%20Pascal%20Poster/PascalPosterV3%20A1.pdf)
+- Jan 05 - [WebRTC for the Curious (2020)](https://webrtcforthecurious.com/)
+- Jan 05 - [Learning bimanual mobile manipulation with low-cost whole-body teleoperation](https://mobile-aloha.github.io)
+- Jan 05 - [Don't pass structs bigger than 16 bytes on AMD64](https://gist.github.com/FeepingCreature/5dff669aad380a123b15659e195fb96c)
 <!--END_SECTION:hn-->
 
 <!--
