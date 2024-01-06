@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 05 - [Show HN: Seedling – A Decentralised Medium](https://seedling-d.app)
-- Jan 05 - [Looo.lol – a binary math site](https://looo.lol/)
-- Jan 05 - [Revitalizing US Navy Shipbuilding](https://austinvernon.site/blog/navyshipbuilding.html)
-- Jan 05 - [Dennis Ritchie on the priorities of && || vs. == etc. (1982)](https://www.lysator.liu.se/c/dmr-on-or.html)
-- Jan 05 - [Pikchr: A PIC-like markup language for diagrams in technical documentation](https://pikchr.org/home/doc/trunk/homepage.md)
+- Jan 06 - [Alaska Airlines 737 Max Makes Emergency Landing Due to Depressurization](https://twitter.com/flightradar24/status/1743460035135476030)
+- Jan 06 - [Nitro: A fast, lightweight 3MB inference server with OpenAI-Compatible API](https://nitro.jan.ai/)
+- Jan 06 - [Show HN: Hashmap.me – Simple HTTP-Based Data Storage and Retrieval](https://hashmap.me)
+- Jan 06 - [Carta doing unsolicited tender offer outreach to their customers' investors](https://twitter.com/karrisaarinen/status/1743398553500971331)
+- Jan 06 - [2024-01-01 Emacs News](https://sachachua.com/blog/2024/01/2024-01-01-emacs-news/)
 <!--END_SECTION:hn-->
 
 <!--
