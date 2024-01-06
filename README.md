@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 05 - [Hard disk LEDs and noisy machines](https://blogsystem5.substack.com/p/hard-disk-leds-and-noisy-machines)
-- Jan 05 - [U.S. moves closer to filing antitrust case against Apple](https://www.nytimes.com/2024/01/05/technology/antitrust-apple-lawsuit-us.html)
-- Jan 05 - [In Europe, Trains Are Full, and More Are on the Way](https://www.nytimes.com/2024/01/04/travel/europe-new-trains.html)
-- Jan 05 - [A rocket a day keeps the high costs away (1993)](https://www.fourmilab.ch/documents/aRocketAday.txt)
-- Jan 05 - [How to build a thinking AI](https://aithought.com/)
+- Jan 05 - [Show HN: Seedling – A Decentralised Medium](https://seedling-d.app)
+- Jan 05 - [Looo.lol – a binary math site](https://looo.lol/)
+- Jan 05 - [Revitalizing US Navy Shipbuilding](https://austinvernon.site/blog/navyshipbuilding.html)
+- Jan 05 - [Dennis Ritchie on the priorities of && || vs. == etc. (1982)](https://www.lysator.liu.se/c/dmr-on-or.html)
+- Jan 05 - [Pikchr: A PIC-like markup language for diagrams in technical documentation](https://pikchr.org/home/doc/trunk/homepage.md)
 <!--END_SECTION:hn-->
 
 <!--
