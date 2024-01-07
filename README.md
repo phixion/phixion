@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 06 - [Ultima](https://www.filfre.net/2012/02/ultima-part-1/)
-- Jan 06 - [LLaMA-Pro-8B](https://huggingface.co/TencentARC/LLaMA-Pro-8B)
-- Jan 06 - [LinkedIn Isn't Just for Jobs Anymore. It's Now a Dating App Too](https://www.businessinsider.com/linkedin-is-a-dating-app-remote-work-online-romance-2024-1)
-- Jan 06 - [FAA orders grounding of more than 170 Boeing 737 Max 9s](https://www.cnbc.com/2024/01/06/boeing-737-max-9-grounding-after-alaska-airlines-door-blows-midflight.html)
-- Jan 06 - [Benchmarking Mojo: A Deep Dive into Performance and Practicality](https://medium.com/@p88h/advent-of-mojo-part-1-c1bcaa367fcb)
+- Jan 06 - [On building a semantic search engine](https://vickiboykis.com/2024/01/05/retro-on-viberary/)
+- Jan 06 - [Libwebsockets: pure C library for http, websockets, MQTT](https://github.com/warmcat/libwebsockets)
+- Jan 06 - [Ten Noteworthy AI Research Papers of 2023](https://magazine.sebastianraschka.com/p/10-ai-research-papers-2023)
+- Jan 06 - [Chess-GPT's Internal World Model](https://github.com/adamkarvonen/chess_llm_interpretability)
+- Jan 06 - [UIDesignDaily 4 years later, 1600 open-source designs](https://www.uidesigndaily.com/)
 <!--END_SECTION:hn-->
 
 <!--
