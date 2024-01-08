@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 08 - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-- Jan 08 - ["Dutch engineer carried out Iranian nuclear sabotage": VK](https://www.dutchnews.nl/2024/01/dutch-engineer-carried-out-iranian-nuclear-sabotage-vk/)
-- Jan 08 - [Show HN: I've updated my food delivery repo. Feedback Welcome](https://github.com/ninjas-code-official/food-delivery-multivendor)
-- Jan 08 - [Value of life](https://en.wikipedia.org/wiki/Value_of_life)
-- Jan 08 - [Why use strace in 2023? [video]](https://media.ccc.de/v/all-systems-go-2023-228-why-would-you-still-want-to-use-strace-in-2023-)
+- Jan 08 - [Tuna species popular in sashimi and poke bowls in sharp decline](https://phys.org/news/2024-01-tuna-species-popular-sashimi-bowls.html)
+- Jan 08 - [Alaska 737 cockpit voice recorder data erasure renews safety debate](https://www.reuters.com/business/aerospace-defense/alaska-737-cockpit-voice-recorder-data-erasure-renews-industry-safety-debate-2024-01-08/)
+- Jan 08 - [Ask HN: What alternatives exist to a Mac mini but for Windows?](https://news.ycombinator.com/item?id=38912764)
+- Jan 08 - [Web CGI programs aren't particularly slow these days](https://utcc.utoronto.ca/~cks/space/blog/web/CGINotSlow)
+- Jan 08 - [Jeff Lawson Steps Down as CEO of Twilio](https://investors.twilio.com/news/news-details/2024/Twilio-Announces-CEO-Transition/default.aspx)
 <!--END_SECTION:hn-->
 
 <!--
