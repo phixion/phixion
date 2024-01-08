@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 07 - [Higher fees, more ads: streaming cashes in by using the old tactics of cable TV](https://theconversation.com/with-higher-fees-and-more-ads-streaming-services-like-netflix-disney-and-hulu-are-cashing-in-by-using-the-old-tactics-of-cable-tv-215048)
-- Jan 07 - [Tiny Computers from Texas: The Early History of the Microcontroller](https://thechipletter.substack.com/p/tiny-computers-from-texas)
-- Jan 07 - [Isomorphic labs deals with pharma companies](https://endpts.com/alphabets-ai-unit-isomorphic-inks-drug-discovery-deals-with-eli-lilly-novartis-for-up-to-3b/)
-- Jan 07 - [How the first fourth-generation nuclear power plant works](https://news.cgtn.com/news/2024-01-06/How-the-world-s-first-fourth-generation-nuclear-power-plant-works-1q8JzrGNrj2/p.html)
-- Jan 07 - [Windows XP 2024 Edition is everything I want from a new OS](https://overclock3d.net/news/software/windows-xp-2024-edition-is-everything-i-want-from-a-new-os/)
+- Jan 07 - [What Does the Cerebellum Do?](https://sarahconstantin.substack.com/p/what-does-the-cerebellum-do-anyway)
+- Jan 07 - [Cycling Doping Fallacies](https://thenewleafjournal.com/cycling-doping-fallacies/)
+- Jan 07 - [The optimal amount of fraud is non-zero (2022)](https://www.bitsaboutmoney.com/archive/optimal-amount-of-fraud/)
+- Jan 07 - [Dumbphone Finder](https://josebriones.org/dumbphone-finder)
+- Jan 07 - [When random numbers are too random: Low discrepancy sequences (2017)](https://blog.demofox.org/2017/05/29/when-random-numbers-are-too-random-low-discrepancy-sequences/)
 <!--END_SECTION:hn-->
 
 <!--
