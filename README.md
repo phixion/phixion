@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 08 - [Tuna species popular in sashimi and poke bowls in sharp decline](https://phys.org/news/2024-01-tuna-species-popular-sashimi-bowls.html)
-- Jan 08 - [Alaska 737 cockpit voice recorder data erasure renews safety debate](https://www.reuters.com/business/aerospace-defense/alaska-737-cockpit-voice-recorder-data-erasure-renews-industry-safety-debate-2024-01-08/)
-- Jan 08 - [Ask HN: What alternatives exist to a Mac mini but for Windows?](https://news.ycombinator.com/item?id=38912764)
-- Jan 08 - [Web CGI programs aren't particularly slow these days](https://utcc.utoronto.ca/~cks/space/blog/web/CGINotSlow)
-- Jan 08 - [Jeff Lawson Steps Down as CEO of Twilio](https://investors.twilio.com/news/news-details/2024/Twilio-Announces-CEO-Transition/default.aspx)
+- Jan 08 - [What is a standard error? [pdf]](http://www.stat.columbia.edu/~gelman/research/published/standarderror.pdf)
+- Jan 08 - [Trade-offs between Different CRDTs](https://interjectedfuture.com/trade-offs-between-different-crdts/)
+- Jan 08 - [Async file IO in Java is not truly async [Resource, Tech blog]](https://cmhteixeira.com/concurrency/asyncfileio.html)
+- Jan 08 - [Solver Performance: 1989 vs. 2024](https://www.solvermax.com/blog/solver-performance-1989-vs-2024)
+- Jan 08 - [Show HN: Auto Wiki – Turn your codebase into a Wiki](https://wiki.mutable.ai)
 <!--END_SECTION:hn-->
 
 <!--
