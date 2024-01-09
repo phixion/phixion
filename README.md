@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 08 - [What is a standard error? [pdf]](http://www.stat.columbia.edu/~gelman/research/published/standarderror.pdf)
-- Jan 08 - [Trade-offs between Different CRDTs](https://interjectedfuture.com/trade-offs-between-different-crdts/)
-- Jan 08 - [Async file IO in Java is not truly async [Resource, Tech blog]](https://cmhteixeira.com/concurrency/asyncfileio.html)
-- Jan 08 - [Solver Performance: 1989 vs. 2024](https://www.solvermax.com/blog/solver-performance-1989-vs-2024)
-- Jan 08 - [Show HN: Auto Wiki – Turn your codebase into a Wiki](https://wiki.mutable.ai)
+- Jan 08 - [Polars](https://pola.rs/)
+- Jan 08 - [Turing Complete Transformers: Two Transformers Are More Powerful Than One](https://openreview.net/forum?id=MGWsPGogLH)
+- Jan 08 - [OpenBSD Release Songs](https://www.openbsd.org/lyrics.html)
+- Jan 08 - ["Are you having fun, son?"](https://visakanv.substack.com/p/are-you-having-fun-son)
+- Jan 08 - [Show HN: Merkdir – create Merkle trees from your directories](https://github.com/makew0rld/merkdir)
 <!--END_SECTION:hn-->
 
 <!--
