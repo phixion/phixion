@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 09 - [Finley (YC W21) Is Hiring for Business Operations and Strategy](https://jobs.lever.co/FinleyTechnologies/f3b6fed8-795f-433e-a3f8-7fdec5e85745)
-- Jan 09 - [United Airlines finds loose bolts on multiple Boeing 737 Max 9 planes](https://www.theguardian.com/world/2024/jan/08/united-finds-loose-bolts-boeing-737-max-planes)
-- Jan 09 - [Practising Programming](https://tratt.net/laurie/blog/2022/practising_programming.html)
-- Jan 09 - [Google breaks search for Firefox users because of bad UA string sniffing](https://github.com/webcompat/web-bugs/issues/131916)
-- Jan 09 - [Heat pumps, more than you wanted to know (2023)](https://calv.info/heat-pumps)
+- Jan 09 - [GenAI could make KYC effectively useless](https://techcrunch.com/2024/01/08/gen-ai-could-make-kyc-effectively-useless/)
+- Jan 09 - [News could end up as Art important to few elites marginal to the rest](https://www.niemanlab.org/2023/12/ignore-the-coming-election-bump/)
+- Jan 09 - [Nielsen's Ten Usability Heuristics [pdf]](https://media.nngroup.com/media/articles/attachments/Heuristic_Summary1-compressed.pdf)
+- Jan 09 - [NASA Peregrine 1: US lander will not make it to moon's surface due to fuel leak](https://www.theguardian.com/science/2024/jan/09/nasa-peregrine-1-us-lander-will-not-make-it-to-the-moons-surface-due-to-fuel-leak)
+- Jan 09 - [Apple tells EU it has five different App Stores, not just one](https://9to5mac.com/2024/01/09/five-different-app-stores/)
 <!--END_SECTION:hn-->
 
 <!--
