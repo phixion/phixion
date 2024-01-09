@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 08 - [Polars](https://pola.rs/)
-- Jan 08 - [Turing Complete Transformers: Two Transformers Are More Powerful Than One](https://openreview.net/forum?id=MGWsPGogLH)
-- Jan 08 - [OpenBSD Release Songs](https://www.openbsd.org/lyrics.html)
-- Jan 08 - ["Are you having fun, son?"](https://visakanv.substack.com/p/are-you-having-fun-son)
-- Jan 08 - [Show HN: Merkdir – create Merkle trees from your directories](https://github.com/makew0rld/merkdir)
+- Jan 09 - [Mixtral 8x7B: A Sparse Mixture of Experts language model](https://arxiv.org/abs/2401.04088)
+- Jan 09 - [Mode7 Graphics Library for Playdate](https://github.com/risolvipro/playdate-mode7)
+- Jan 09 - [Why does holding a key fob to your head increase its range?](https://physics.stackexchange.com/questions/101913/why-does-a-remote-car-key-work-when-held-to-your-head-body)
+- Jan 09 - [Carta to exit secondary trading business](https://henrysward.medium.com/should-carta-facilitate-secondary-trading-c319e0c9f080)
+- Jan 09 - [Macs can now inform Apple if any liquids have been detected in the USB-C ports](https://9to5mac.com/2023/11/03/macs-liquids-detected-in-usb-c-ports/)
 <!--END_SECTION:hn-->
 
 <!--
