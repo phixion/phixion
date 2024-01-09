@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 09 - [GenAI could make KYC effectively useless](https://techcrunch.com/2024/01/08/gen-ai-could-make-kyc-effectively-useless/)
-- Jan 09 - [News could end up as Art important to few elites marginal to the rest](https://www.niemanlab.org/2023/12/ignore-the-coming-election-bump/)
-- Jan 09 - [Nielsen's Ten Usability Heuristics [pdf]](https://media.nngroup.com/media/articles/attachments/Heuristic_Summary1-compressed.pdf)
-- Jan 09 - [NASA Peregrine 1: US lander will not make it to moon's surface due to fuel leak](https://www.theguardian.com/science/2024/jan/09/nasa-peregrine-1-us-lander-will-not-make-it-to-the-moons-surface-due-to-fuel-leak)
-- Jan 09 - [Apple tells EU it has five different App Stores, not just one](https://9to5mac.com/2024/01/09/five-different-app-stores/)
+- Jan 09 - [YouTube Bans True Crime Videos That Reanimate Dead Children with AI](https://gizmodo.com/youtube-bans-ai-reanimated-dead-kids-true-crime-videos-1851150159)
+- Jan 09 - [Rabbit: LLM-First Mobile Phone](https://www.rabbit.tech/keynote)
+- Jan 09 - [Ex Post Office CEO hands back award after IT failures lead to false convictions](https://www.bbc.com/news/uk-67925304)
+- Jan 09 - [Study Finds Microplastics in Nearly 90% of Proteins Sampled](https://oceanconservancy.org/news/its-not-just-seafood-new-study-finds-microplastics-in-nearly-90-of-proteins-sampled-including-plant-based-meat-alternatives/)
+- Jan 09 - [DeepFlow – open-source eBPF Distributed Tracing](https://deepflow.io/)
 <!--END_SECTION:hn-->
 
 <!--
