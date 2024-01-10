@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 09 - [The faulty digital clock problem (2021)](http://andersource.dev/2021/04/29/faulty_digital_clock.html)
-- Jan 09 - [Amazon's Twitch to Cut 500 Employees, About 35% of Staff](https://www.bloomberg.com/news/articles/2024-01-09/amazon-s-twitch-to-cut-500-employees-about-35-of-staff)
-- Jan 09 - [Potent psychedelic drug banishes PTSD](https://www.nature.com/articles/d41586-024-00012-z)
-- Jan 09 - [Wikihouse: Open-Source Houses](https://www.wikihouse.cc/)
-- Jan 09 - [SEC's X Account Hacked, Bitcoin Spot ETFs Not yet Approved](https://en.bitcoinsistemi.com/breaking-gary-gensler-says-secs-x-account-hacked-bitcoin-spot-etfs-not-yet-approved/)
+- Jan 10 - [The Teen Mental Illness Epidemic Is International](https://www.afterbabel.com/p/international-mental-illness-part-one)
+- Jan 10 - [How Corruption and Greed Led to the Downfall of Rock Music](https://starsafterstarsafterstars.substack.com/p/investigating-rock-radio-with-rick)
+- Jan 10 - [If Carpenters Were Hired Like Programmers](https://jasonbock.substack.com/p/if-carpenters-were-hired-like-programmers)
+- Jan 10 - [Let's make the indie web easier](https://gilest.org/indie-easy.html)
+- Jan 10 - [I quit my job to work full time on my open source project [Atuin]](https://ellie.wtf/posts/i-quit-my-job-to-work-full-time-on-my-open-source-project)
 <!--END_SECTION:hn-->
 
 <!--
