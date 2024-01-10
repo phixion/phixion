@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 09 - [YouTube Bans True Crime Videos That Reanimate Dead Children with AI](https://gizmodo.com/youtube-bans-ai-reanimated-dead-kids-true-crime-videos-1851150159)
-- Jan 09 - [Rabbit: LLM-First Mobile Phone](https://www.rabbit.tech/keynote)
-- Jan 09 - [Ex Post Office CEO hands back award after IT failures lead to false convictions](https://www.bbc.com/news/uk-67925304)
-- Jan 09 - [Study Finds Microplastics in Nearly 90% of Proteins Sampled](https://oceanconservancy.org/news/its-not-just-seafood-new-study-finds-microplastics-in-nearly-90-of-proteins-sampled-including-plant-based-meat-alternatives/)
-- Jan 09 - [DeepFlow – open-source eBPF Distributed Tracing](https://deepflow.io/)
+- Jan 09 - [The faulty digital clock problem (2021)](http://andersource.dev/2021/04/29/faulty_digital_clock.html)
+- Jan 09 - [Amazon's Twitch to Cut 500 Employees, About 35% of Staff](https://www.bloomberg.com/news/articles/2024-01-09/amazon-s-twitch-to-cut-500-employees-about-35-of-staff)
+- Jan 09 - [Potent psychedelic drug banishes PTSD](https://www.nature.com/articles/d41586-024-00012-z)
+- Jan 09 - [Wikihouse: Open-Source Houses](https://www.wikihouse.cc/)
+- Jan 09 - [SEC's X Account Hacked, Bitcoin Spot ETFs Not yet Approved](https://en.bitcoinsistemi.com/breaking-gary-gensler-says-secs-x-account-hacked-bitcoin-spot-etfs-not-yet-approved/)
 <!--END_SECTION:hn-->
 
 <!--
