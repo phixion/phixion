@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 10 - [The Teen Mental Illness Epidemic Is International](https://www.afterbabel.com/p/international-mental-illness-part-one)
-- Jan 10 - [How Corruption and Greed Led to the Downfall of Rock Music](https://starsafterstarsafterstars.substack.com/p/investigating-rock-radio-with-rick)
-- Jan 10 - [If Carpenters Were Hired Like Programmers](https://jasonbock.substack.com/p/if-carpenters-were-hired-like-programmers)
-- Jan 10 - [Let's make the indie web easier](https://gilest.org/indie-easy.html)
-- Jan 10 - [I quit my job to work full time on my open source project [Atuin]](https://ellie.wtf/posts/i-quit-my-job-to-work-full-time-on-my-open-source-project)
+- Jan 10 - [Vcc – The Vulkan Clang Compiler](https://shady-gang.github.io/vcc/)
+- Jan 10 - [How to defend your website with ZIP bombs (2017)](https://blog.haschek.at/2017/how-to-defend-your-website-with-zip-bombs.html)
+- Jan 10 - ["I Contribute to the Windows Kernel. We Are Slower Than Other Operating Systems"](http://blog.zorinaq.com/i-contribute-to-the-windows-kernel-we-are-slower-than-other-oper/)
+- Jan 10 - [Linkhut: A Social Bookmarking Site](https://ln.ht/)
+- Jan 10 - [The teen mental illness epidemic is international](https://www.afterbabel.com/p/international-mental-illness-part-one)
 <!--END_SECTION:hn-->
 
 <!--
