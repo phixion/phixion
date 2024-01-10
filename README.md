@@ -19,9 +19,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 10 - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+- Jan 10 - [Does DNA have the equivalent of IF-statements, WHILE loops, or function calls?](https://biology.stackexchange.com/questions/30116/does-dna-have-the-equivalent-of-if-statements-while-loops-or-function-calls-h)
 - Jan 10 - [Vcc – The Vulkan Clang Compiler](https://shady-gang.github.io/vcc/)
-- Jan 10 - [How to defend your website with ZIP bombs (2017)](https://blog.haschek.at/2017/how-to-defend-your-website-with-zip-bombs.html)
-- Jan 10 - ["I Contribute to the Windows Kernel. We Are Slower Than Other Operating Systems"](http://blog.zorinaq.com/i-contribute-to-the-windows-kernel-we-are-slower-than-other-oper/)
 - Jan 10 - [Linkhut: A Social Bookmarking Site](https://ln.ht/)
 - Jan 10 - [The teen mental illness epidemic is international](https://www.afterbabel.com/p/international-mental-illness-part-one)
 <!--END_SECTION:hn-->
