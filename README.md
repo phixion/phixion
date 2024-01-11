@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 10 - [The biggest losers: Metabolic damage or constrained energy?](https://physiqonomics.com/biggest-losers/)
-- Jan 10 - [Snapdocs (YC W14) Is Hiring](https://boards.greenhouse.io/snapdocs/jobs/5053815004)
-- Jan 10 - [Does DNA have the equivalent of IF-statements, WHILE loops, or function calls?](https://biology.stackexchange.com/questions/30116/does-dna-have-the-equivalent-of-if-statements-while-loops-or-function-calls-h)
-- Jan 10 - [Vcc – The Vulkan Clang Compiler](https://shady-gang.github.io/vcc/)
-- Jan 10 - [The teen mental illness epidemic is international (2023)](https://www.afterbabel.com/p/international-mental-illness-part-one)
+- Jan 10 - [Drawing.garden](https://drawing.garden/)
+- Jan 10 - [Franz Morat KG TV-computersystem 6800](https://randoc.wordpress.com/2024/01/03/franz-morat-kg-tv-computersystem-6800/)
+- Jan 10 - [The memory remains: Permanent memory with systemd and a Rust allocator](https://darkcoding.net/software/rust-systemd-memory-remains/)
+- Jan 10 - [Metahead – An enterprise-grade, Git-based metarepo](https://www.metahead.dev/)
+- Jan 10 - [Signs that it's time to leave a company](https://adrianco.medium.com/signs-that-its-time-to-leave-a-company-5f8759ad018e)
 <!--END_SECTION:hn-->
 
 <!--
