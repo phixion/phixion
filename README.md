@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 11 - [Outlook is Microsoft's new data collection service](https://proton.me/blog/outlook-is-microsofts-new-data-collection-service)
-- Jan 11 - [Meetup has been acquired by Bending Spoons](https://www.meetup.com/blog/a-new-home-for-meetup/)
-- Jan 11 - [The Internet Is Full of AI Dogshit](https://aftermath.site/the-internet-is-full-of-ai-dogshit)
-- Jan 11 - [Is htmx Just Another JavaScript Framework?](https://htmx.org/essays/is-htmx-another-javascript-framework/)
-- Jan 11 - [Ask HN: How do you document your hardware projects?](https://news.ycombinator.com/item?id=38952168)
+- Jan 11 - [Amazon cuts 5% of Audible division's workforce](https://www.reuters.com/technology/amazon-cuts-5-audible-divisions-workforce-business-insider-2024-01-11/)
+- Jan 11 - [Ask HN: IRS section 174 – cause of layoffs?](https://news.ycombinator.com/item?id=38957651)
+- Jan 11 - [A Philosophical Introduction to Language Models](https://arxiv.org/abs/2401.03910)
+- Jan 11 - [Wi-Fi 7 took off while everyone was looking at AI](https://www.theverge.com/2024/1/11/24033022/wi-fi-7-laptops-gaming-ces-2024-lenovo-alienware-razer-msi-asus)
+- Jan 11 - [Generating SVG for the Prime Knots](https://prideout.net/blog/svg_knots/)
 <!--END_SECTION:hn-->
 
 <!--
