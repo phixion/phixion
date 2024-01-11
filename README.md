@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 11 - [Great Question (YC W21) Is Hiring for Sales](https://www.ycombinator.com/companies/great-question/jobs/Jyl8JbP-senior-account-executive)
-- Jan 11 - [Meta unlawfully ignores the users' right to easily withdraw consent](https://noyb.eu/en/meta-ignores-users-right-easily-withdraw-consent)
-- Jan 11 - [Building a baseline JIT for Lua automatically](https://sillycross.github.io/2023/05/12/2023-05-12/)
-- Jan 11 - [HTML Spirograph (2021)](http://htmlspirograph.com/)
-- Jan 11 - [Google Cuts Jobs in Engineering and Other Divisions](https://www.nytimes.com/2024/01/11/technology/google-layoffs.html)
+- Jan 11 - [Outlook is Microsoft's new data collection service](https://proton.me/blog/outlook-is-microsofts-new-data-collection-service)
+- Jan 11 - [Meetup has been acquired by Bending Spoons](https://www.meetup.com/blog/a-new-home-for-meetup/)
+- Jan 11 - [The Internet Is Full of AI Dogshit](https://aftermath.site/the-internet-is-full-of-ai-dogshit)
+- Jan 11 - [Is htmx Just Another JavaScript Framework?](https://htmx.org/essays/is-htmx-another-javascript-framework/)
+- Jan 11 - [Ask HN: How do you document your hardware projects?](https://news.ycombinator.com/item?id=38952168)
 <!--END_SECTION:hn-->
 
 <!--
