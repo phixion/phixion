@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 11 - [Tokyo's 'oldest man' had been dead for 30 years (2010)](https://www.bbc.com/news/world-asia-pacific-10809128.amp)
+- Jan 11 - [Great Question (YC W21) Is Hiring for Sales](https://www.ycombinator.com/companies/great-question/jobs/Jyl8JbP-senior-account-executive)
+- Jan 11 - [Meta unlawfully ignores the users' right to easily withdraw consent](https://noyb.eu/en/meta-ignores-users-right-easily-withdraw-consent)
+- Jan 11 - [Building a baseline JIT for Lua automatically](https://sillycross.github.io/2023/05/12/2023-05-12/)
 - Jan 11 - [HTML Spirograph (2021)](http://htmlspirograph.com/)
 - Jan 11 - [Google Cuts Jobs in Engineering and Other Divisions](https://www.nytimes.com/2024/01/11/technology/google-layoffs.html)
-- Jan 11 - [The golden age of Kotlin and its uncertain future](https://shiftmag.dev/kotlin-vs-java-2392/)
-- Jan 11 - [epoll: The API that powers the modern internet (2022)](https://darkcoding.net/software/epoll-the-api-that-powers-the-modern-internet/)
 <!--END_SECTION:hn-->
 
 <!--
