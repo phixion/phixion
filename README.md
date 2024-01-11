@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 11 - [Google lays off hundreds working on its voice-activated assistant – Semafor](https://www.semafor.com/article/01/10/2024/google-lays-off-hundreds-working-on-its-voice-activated-assistant)
-- Jan 11 - [How to get coworkers to stop giving me ChatGPT-generated suggestions?](https://workplace.stackexchange.com/questions/194969/how-to-get-coworkers-to-stop-giving-me-chatgpt-generated-suggestions)
-- Jan 11 - [Jerry (YC S17) Is Hiring PMs, Engs, Data, BizOps (Remote)](https://getjerry.com/careers)
-- Jan 11 - [Super Mario 64 on the Web](https://probablykam.github.io/Mario64webgl/)
-- Jan 10 - [Drawing.garden](https://drawing.garden/)
+- Jan 11 - [Tokyo's 'oldest man' had been dead for 30 years (2010)](https://www.bbc.com/news/world-asia-pacific-10809128.amp)
+- Jan 11 - [HTML Spirograph (2021)](http://htmlspirograph.com/)
+- Jan 11 - [Google Cuts Jobs in Engineering and Other Divisions](https://www.nytimes.com/2024/01/11/technology/google-layoffs.html)
+- Jan 11 - [The golden age of Kotlin and its uncertain future](https://shiftmag.dev/kotlin-vs-java-2392/)
+- Jan 11 - [epoll: The API that powers the modern internet (2022)](https://darkcoding.net/software/epoll-the-api-that-powers-the-modern-internet/)
 <!--END_SECTION:hn-->
 
 <!--
