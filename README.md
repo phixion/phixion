@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 11 - [Pixar to undergo 20% layoffs in 2024](https://techcrunch.com/2024/01/11/as-disney-pushes-towards-streaming-profitability-pixar-to-undergo-layoffs-in-2024/)
-- Jan 11 - [Tennessee after-school Satan club holds first meeting despite protests](https://www.theguardian.com/us-news/2024/jan/11/tennessee-after-school-satan-club-satanic-temple)
-- Jan 11 - [Tell HN: WARN Act may provide prior notice of layoffs](https://news.ycombinator.com/item?id=38960496)
-- Jan 11 - [Sourcehut and Codeberg are both currently experiencing a DDoS attack](https://fosstodon.org/@drewdevault/111739063243946284)
-- Jan 11 - [Google lays off Bay Area workers, closes Mtn View child care center](https://www.sfgate.com/tech/article/google-layoffs-child-care-center-engineering-18602833.php)
+- Jan 12 - [Remote Workers Are Losing Out on Promotions](https://www.wsj.com/lifestyle/careers/remote-workers-are-losing-out-on-promotions-8219ec63)
+- Jan 12 - [Bare Bones Software – BBEdit 15 is here](https://www.barebones.com/products/bbedit/bbedit15.html)
+- Jan 12 - [Introducing Exploit Observer — More than Shodan Exploits, Less than Vulners](https://blog.arpsyndicate.io/introducing-exploit-observer-more-than-shodan-exploits-less-than-vulners-23eaea466e4a)
+- Jan 12 - [High-Throughput, Formal-Methods-Assisted Fuzzing for LLVM [pdf]](https://users.cs.utah.edu/~regehr/papers/cgo24.pdf)
+- Jan 12 - [Coral Dev Board Micro](https://coral.ai/products/dev-board-micro)
 <!--END_SECTION:hn-->
 
 <!--
