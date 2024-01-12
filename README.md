@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 12 - [CLI user experience case study](https://www.tweag.io/blog/2023-10-05-cli-ux-in-topiary/)
-- Jan 12 - [IAC sold 17 apps to Bending Spoons. $100M deal, all 330 employees fired](https://twitter.com/rjonesy/status/1745567200600076531)
-- Jan 12 - [Statement regarding the ongoing Sourcehut outage](https://outage.sr.ht/)
-- Jan 12 - [We removed advertising cookies, here's what happened](https://blog.sentry.io/we-removed-advertising-cookies-heres-what-happened/)
-- Jan 12 - [Ring of galaxies challenges thinking on cosmos](https://www.bbc.co.uk/news/science-environment-67950749)
+- Jan 12 - [A vision for the alleviation of water scarcity in the US Southwest](https://caseyhandmer.wordpress.com/2024/01/09/a-vision-for-the-alleviation-of-water-scarcity-in-the-us-southwest-and-the-revitalization-of-the-salton-sea/)
+- Jan 12 - [Epistemic Learned Helplessness](https://slatestarcodex.com/2019/06/03/repost-epistemic-learned-helplessness/)
+- Jan 12 - [On the Pleb Filter (2023)](https://fantasticanachronism.com/2023/02/06/on-the-pleb-filter/)
+- Jan 12 - ['Meditations' by Marcus Aurelius – Stoicism in Modern Language [video]](https://www.youtube.com/watch?v=f3hLZCuh8yM)
+- Jan 12 - [Citigroup Plans to Cut 20k Jobs](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-bank-earnings-01-12-2024/card/citigroup-plans-to-cut-20-000-jobs-KCIfucmQx18qn9TfDESs)
 <!--END_SECTION:hn-->
 
 <!--
