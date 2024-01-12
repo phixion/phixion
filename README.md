@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 12 - [A vision for the alleviation of water scarcity in the US Southwest](https://caseyhandmer.wordpress.com/2024/01/09/a-vision-for-the-alleviation-of-water-scarcity-in-the-us-southwest-and-the-revitalization-of-the-salton-sea/)
-- Jan 12 - [Epistemic Learned Helplessness](https://slatestarcodex.com/2019/06/03/repost-epistemic-learned-helplessness/)
-- Jan 12 - [On the Pleb Filter (2023)](https://fantasticanachronism.com/2023/02/06/on-the-pleb-filter/)
-- Jan 12 - ['Meditations' by Marcus Aurelius – Stoicism in Modern Language [video]](https://www.youtube.com/watch?v=f3hLZCuh8yM)
-- Jan 12 - [Citigroup Plans to Cut 20k Jobs](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-bank-earnings-01-12-2024/card/citigroup-plans-to-cut-20-000-jobs-KCIfucmQx18qn9TfDESs)
+- Jan 12 - [OpenAI Deletes Ban on Using ChatGPT for "Military and Warfare"](https://theintercept.com/2024/01/12/open-ai-military-ban-chatgpt/)
+- Jan 12 - [There has never been a better time to game on Linux](https://tildes.net/~games/1dcj/there_has_never_been_a_better_time_to_game_on_linux)
+- Jan 12 - [DevDocs](https://devdocs.io)
+- Jan 12 - [Show HN: Marimo – an open-source reactive notebook for Python](https://github.com/marimo-team/marimo)
+- Jan 12 - [Apple knew AirDrop users could be identified and tracked as early as 2019](https://edition.cnn.com/2024/01/12/tech/china-apple-airdrop-user-encryption-vulnerability-hnk-intl/index.html)
 <!--END_SECTION:hn-->
 
 <!--
