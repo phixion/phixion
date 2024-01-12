@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 12 - [Remote Workers Are Losing Out on Promotions](https://www.wsj.com/lifestyle/careers/remote-workers-are-losing-out-on-promotions-8219ec63)
-- Jan 12 - [Bare Bones Software – BBEdit 15 is here](https://www.barebones.com/products/bbedit/bbedit15.html)
-- Jan 12 - [Introducing Exploit Observer — More than Shodan Exploits, Less than Vulners](https://blog.arpsyndicate.io/introducing-exploit-observer-more-than-shodan-exploits-less-than-vulners-23eaea466e4a)
-- Jan 12 - [High-Throughput, Formal-Methods-Assisted Fuzzing for LLVM [pdf]](https://users.cs.utah.edu/~regehr/papers/cgo24.pdf)
-- Jan 12 - [Coral Dev Board Micro](https://coral.ai/products/dev-board-micro)
+- Jan 12 - [ByteDance MagicVideo V2](https://magicvideov2.github.io/)
+- Jan 12 - [CurlyQ: Command line helper for curl and web scraping](https://github.com/ttscoff/curlyq)
+- Jan 12 - [Fly through your shell history](https://github.com/cantino/mcfly)
+- Jan 12 - [Unity's Open-Source Double Standard: The Ban of VLC](https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html)
+- Jan 12 - [CircuitHub (YC W12) Is Hiring – Haskell / Robotics / Remote](https://discourse.haskell.org/t/circuithub-is-hiring-haskell-engineers-remote/8519)
 <!--END_SECTION:hn-->
 
 <!--
