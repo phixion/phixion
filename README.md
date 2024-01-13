@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 13 - [Ashby (YC W19) Is Hiring Engineers Who Can Design (EMEA Remote)](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=0b7a2d09-b3ee-4181-a1df-be1ea3fff54e)
+- Jan 13 - [Shadcn: Components that you can copy-paste into your apps](https://ui.shadcn.com/)
+- Jan 13 - [Triplit: Open-source DB that syncs data between server and browser in real-time](https://github.com/aspen-cloud/triplit)
+- Jan 13 - [A decade-old Steam bug](https://blog.freudenjmp.com/posts/no-user-logon/)
 - Jan 13 - [Midlibrary: Library of 4000 Midjourney artistic styles](https://midlibrary.io/styles)
-- Jan 13 - [Etleap (YC W13) Is Hiring a Software Engineer (London or San Francisco)](https://etleap.com/careers/software-engineer/)
-- Jan 13 - [K-Means Clustering](https://github.com/derrickburns/generalized-kmeans-clustering)
-- Jan 13 - [AWS Libcrypto for Rust](https://github.com/aws/aws-lc-rs)
-- Jan 12 - [HashLife – A memoized algorithm for Conway's Game of Life and cellular automata](https://en.wikipedia.org/wiki/Hashlife)
 <!--END_SECTION:hn-->
 
 <!--
