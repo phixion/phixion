@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 12 - [Why Legal Immigration Is Nearly Impossible](https://www.cato.org/policy-analysis/why-legal-immigration-nearly-impossible)
-- Jan 12 - [Instagram's co-founders are shutting down their Artifact news app](https://www.theverge.com/2024/1/12/24036539/artifact-shutting-down-kevin-systrom)
-- Jan 12 - [Xbox Multiplayer Analysis Tool](https://github.com/microsoft/xbox-multiplayer-analysis-tool)
-- Jan 12 - [revng translates (i386, x86-64, MIPS, ARM, AArch64, s390x) binaries to LLVM IR](https://github.com/revng/revng)
-- Jan 12 - [Axle (YC S22) is hiring a senior product engineer](https://news.ycombinator.com/item?id=38973998)
+- Jan 13 - [Midlibrary: Library of 4000 Midjourney artistic styles](https://midlibrary.io/styles)
+- Jan 13 - [Etleap (YC W13) Is Hiring a Software Engineer (London or San Francisco)](https://etleap.com/careers/software-engineer/)
+- Jan 13 - [K-Means Clustering](https://github.com/derrickburns/generalized-kmeans-clustering)
+- Jan 13 - [AWS Libcrypto for Rust](https://github.com/aws/aws-lc-rs)
+- Jan 12 - [HashLife – A memoized algorithm for Conway's Game of Life and cellular automata](https://en.wikipedia.org/wiki/Hashlife)
 <!--END_SECTION:hn-->
 
 <!--
