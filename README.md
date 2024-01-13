@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 12 - [OpenAI Deletes Ban on Using ChatGPT for "Military and Warfare"](https://theintercept.com/2024/01/12/open-ai-military-ban-chatgpt/)
-- Jan 12 - [There has never been a better time to game on Linux](https://tildes.net/~games/1dcj/there_has_never_been_a_better_time_to_game_on_linux)
-- Jan 12 - [DevDocs](https://devdocs.io)
-- Jan 12 - [Show HN: Marimo – an open-source reactive notebook for Python](https://github.com/marimo-team/marimo)
-- Jan 12 - [Apple knew AirDrop users could be identified and tracked as early as 2019](https://edition.cnn.com/2024/01/12/tech/china-apple-airdrop-user-encryption-vulnerability-hnk-intl/index.html)
+- Jan 12 - [Why Legal Immigration Is Nearly Impossible](https://www.cato.org/policy-analysis/why-legal-immigration-nearly-impossible)
+- Jan 12 - [Instagram's co-founders are shutting down their Artifact news app](https://www.theverge.com/2024/1/12/24036539/artifact-shutting-down-kevin-systrom)
+- Jan 12 - [Xbox Multiplayer Analysis Tool](https://github.com/microsoft/xbox-multiplayer-analysis-tool)
+- Jan 12 - [revng translates (i386, x86-64, MIPS, ARM, AArch64, s390x) binaries to LLVM IR](https://github.com/revng/revng)
+- Jan 12 - [Axle (YC S22) is hiring a senior product engineer](https://news.ycombinator.com/item?id=38973998)
 <!--END_SECTION:hn-->
 
 <!--
