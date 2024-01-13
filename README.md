@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 13 - [Ashby (YC W19) Is Hiring Engineers Who Can Design (EMEA Remote)](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=0b7a2d09-b3ee-4181-a1df-be1ea3fff54e)
-- Jan 13 - [Shadcn: Components that you can copy-paste into your apps](https://ui.shadcn.com/)
-- Jan 13 - [Triplit: Open-source DB that syncs data between server and browser in real-time](https://github.com/aspen-cloud/triplit)
-- Jan 13 - [A decade-old Steam bug](https://blog.freudenjmp.com/posts/no-user-logon/)
-- Jan 13 - [Midlibrary: Library of 4000 Midjourney artistic styles](https://midlibrary.io/styles)
+- Jan 13 - [Trayd (YC S23) Is Hiring](https://www.ycombinator.com/companies/trayd/jobs/kr4Mx7E-founding-engineer)
+- Jan 13 - [Temperature-Sensing Stirbar with RFID](https://github.com/benkrasnow/Temperature_sensing_stirbar)
+- Jan 13 - [GoatCounter creator is hoping to raise at least €1k for basic living expense](https://github.com/arp242/goatcounter/releases/tag/v2.5.0)
+- Jan 13 - [YouTransfer: Self-hosted file transfer and sharing solution](https://github.com/YouTransfer/YouTransfer)
+- Jan 13 - [Cloudflare Termination Video: A Master Class in How Not to Terminate Someone](https://www.inc.com/suzanne-lucas/viral-cloudflare-termination-video-masterclass-how-not-terminate.html)
 <!--END_SECTION:hn-->
 
 <!--
