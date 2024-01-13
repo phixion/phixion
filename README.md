@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 13 - [A tiny radioactive battery could keep your future phone running for 50 years](https://www.techradar.com/phones/a-tiny-radioactive-battery-could-keep-your-phone-running-for-50-years)
-- Jan 13 - [A site that tracks the price of a Big Mac in every US McDonald's](https://pantryandlarder.com/mccheapest)
-- Jan 13 - [Test Can Tell How Likely a Young Driver Is to Crash](https://www.wsj.com/tech/personal-tech/this-test-can-tell-how-likely-a-young-driver-is-to-crash-4eb692bf)
-- Jan 13 - [Japan ANA Boeing 737-800 flight turns back due to cockpit window crack](https://www.channelnewsasia.com/asia/japan-all-nippon-airways-flight-1182-boeing-737-cockpit-window-crack-4045796)
-- Jan 13 - [The Global Project to Make a General Robotic Brain](https://spectrum.ieee.org/global-robotic-brain)
+- Jan 13 - [AsmBB – a lightweight web forum engine written in assembly language](https://asmbb.org/what-is-asmbb.1/)
+- Jan 13 - [Ask HN: Who else is working on nothing?](https://news.ycombinator.com/item?id=38983067)
+- Jan 13 - [Peer review is an honor-based system](https://lemire.me/blog/2008/08/21/peer-review-is-an-honor-based-system/)
+- Jan 13 - [European Remote Worker Index](https://www.brother.co.uk/business-solutions/hybrid-working/european-remote-worker-index)
+- Jan 13 - [Ping: the atomized social media network](https://ping.hz.tn/p/ca285985-c181-41b6-aacf-2a7b78fe858d/)
 <!--END_SECTION:hn-->
 
 <!--
