@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 14 - [Towards Modern Development of Cloud Applications](https://dl.acm.org/doi/10.1145/3593856.3595909)
+- Jan 14 - [Citadel, a Calibre-compatible eBook management app](https://github.com/every-day-things/citadel)
+- Jan 14 - [Posthog is closing their Slack community in favor of forum](https://posthog.com/blog/slack-closure)
 - Jan 14 - [Show HN: #!/usr/bin/env docker run](https://gist.github.com/adtac/595b5823ef73b329167b815757bbce9f)
 - Jan 14 - ['This Has Been Going on for Years.' Inside Boeing's Manufacturing Mess](https://www.wsj.com/business/airlines/boeing-manufacturing-737-max-alaska-door-plug-spirit-18f7e233)
-- Jan 14 - [Nitter.net Has Disappeared](https://github.com/zedeus/nitter/issues/1150)
-- Jan 14 - [OpenD, a D language fork that is open to your contributions](https://dpldocs.info/this-week-in-d/Blog.Posted_2024_01_01.html)
-- Jan 14 - [Lupus Trigger Discovered](https://www.mpg.de/21374791/lupus-trigger)
 <!--END_SECTION:hn-->
 
 <!--
