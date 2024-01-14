@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 13 - [Decker – A HyperCard Replacement](https://beyondloom.com/decker/)
-- Jan 13 - [Building a fully local LLM voice assistant to control my smart home](https://johnthenerd.com/blog/local-llm-assistant/)
-- Jan 13 - [Celestia: Real-time 3D visualization of space](https://github.com/CelestiaProject/Celestia)
-- Jan 13 - [Water microdroplets have potential to produce hydrogen peroxide](https://www.chemistryworld.com/news/water-surprise-microdroplets-have-potential-to-produce-h2o2/3010950.article)
-- Jan 13 - [Cosmic: The Road to Alpha](https://blog.system76.com/post/cosmic-the-road-to-alpha/)
+- Jan 14 - [Show HN: #!/usr/bin/env docker run](https://gist.github.com/adtac/595b5823ef73b329167b815757bbce9f)
+- Jan 14 - ['This Has Been Going on for Years.' Inside Boeing's Manufacturing Mess](https://www.wsj.com/business/airlines/boeing-manufacturing-737-max-alaska-door-plug-spirit-18f7e233)
+- Jan 14 - [Nitter.net Has Disappeared](https://github.com/zedeus/nitter/issues/1150)
+- Jan 14 - [OpenD, a D language fork that is open to your contributions](https://dpldocs.info/this-week-in-d/Blog.Posted_2024_01_01.html)
+- Jan 14 - [Lupus Trigger Discovered](https://www.mpg.de/21374791/lupus-trigger)
 <!--END_SECTION:hn-->
 
 <!--
