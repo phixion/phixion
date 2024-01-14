@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 14 - [Towards Modern Development of Cloud Applications](https://dl.acm.org/doi/10.1145/3593856.3595909)
-- Jan 14 - [Citadel, a Calibre-compatible eBook management app](https://github.com/every-day-things/citadel)
-- Jan 14 - [Posthog is closing their Slack community in favor of forum](https://posthog.com/blog/slack-closure)
-- Jan 14 - [Show HN: #!/usr/bin/env docker run](https://gist.github.com/adtac/595b5823ef73b329167b815757bbce9f)
-- Jan 14 - ['This Has Been Going on for Years.' Inside Boeing's Manufacturing Mess](https://www.wsj.com/business/airlines/boeing-manufacturing-737-max-alaska-door-plug-spirit-18f7e233)
+- Jan 14 - [When "blocked indefinitely" is not indefinite](https://well-typed.com/blog/2024/01/when-blocked-indefinitely-is-not-indefinite/)
+- Jan 14 - [All PyCon 2023 talks sorted by the view count](https://techtalksweekly.substack.com/p/all-pycon-2023-talks-sorted-by-views)
+- Jan 14 - [Free unexpected MIT courses to kick start the new year](https://medium.com/open-learning/free-unexpected-mit-courses-to-kick-start-the-new-year-c226e444e61a)
+- Jan 14 - [Type information for faster Python C extensions](https://bernsteinbear.com//blog/typed-c-extensions/)
+- Jan 14 - [The Ultimate Docker Cheat Sheet](https://devopscycle.com/blog/the-ultimate-docker-cheat-sheet/)
 <!--END_SECTION:hn-->
 
 <!--
