@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 13 - [AsmBB – a lightweight web forum engine written in assembly language](https://asmbb.org/what-is-asmbb.1/)
-- Jan 13 - [Ask HN: Who else is working on nothing?](https://news.ycombinator.com/item?id=38983067)
-- Jan 13 - [Peer review is an honor-based system](https://lemire.me/blog/2008/08/21/peer-review-is-an-honor-based-system/)
-- Jan 13 - [European Remote Worker Index](https://www.brother.co.uk/business-solutions/hybrid-working/european-remote-worker-index)
-- Jan 13 - [Ping: the atomized social media network](https://ping.hz.tn/p/ca285985-c181-41b6-aacf-2a7b78fe858d/)
+- Jan 13 - [Decker – A HyperCard Replacement](https://beyondloom.com/decker/)
+- Jan 13 - [Building a fully local LLM voice assistant to control my smart home](https://johnthenerd.com/blog/local-llm-assistant/)
+- Jan 13 - [Celestia: Real-time 3D visualization of space](https://github.com/CelestiaProject/Celestia)
+- Jan 13 - [Water microdroplets have potential to produce hydrogen peroxide](https://www.chemistryworld.com/news/water-surprise-microdroplets-have-potential-to-produce-h2o2/3010950.article)
+- Jan 13 - [Cosmic: The Road to Alpha](https://blog.system76.com/post/cosmic-the-road-to-alpha/)
 <!--END_SECTION:hn-->
 
 <!--
