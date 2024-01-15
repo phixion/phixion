@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 15 - [Teach Yourself Programming in Ten Years (1998)](https://norvig.com/21-days.html)
-- Jan 15 - [YouTube begins new wave of slowdowns for users with ad blockers enabled](https://9to5google.com/2024/01/13/youtube-new-wave-slow-downs-ad-blocker/)
-- Jan 15 - [AI comes up with battery design that uses 70 per cent less lithium](https://www.newscientist.com/article/2411374-ai-comes-up-with-battery-design-that-uses-70-per-cent-less-lithium/)
-- Jan 15 - [Lago – open-source Stripe alternative is hiring a Founding Marketer](https://www.ycombinator.com/companies/lago/jobs/twKO87q-founding-marketer)
-- Jan 15 - [Beaver Drop](https://en.wikipedia.org/wiki/Beaver_drop)
+- Jan 15 - [SQLite 3.45 released with JSONB support](https://www.sqlite.org/changes.html#version_3_45_0)
+- Jan 15 - [Going declarative on macOS with Nix and Nix-Darwin](https://nixcademy.com/2024/01/15/nix-on-macos/)
+- Jan 15 - [Ask HN: OCR for 100 year old (German) handwritten cursive script?](https://news.ycombinator.com/item?id=39004755)
+- Jan 15 - [A woman bought a vintage dress. It had a secret pocket with a mysterious note](https://www.cnn.com/2024/01/15/us/antique-dress-maine-encrypted-message-cec/index.html)
+- Jan 15 - ["Paste this post into ChatGPT 4"](https://twitter.com/goodside/status/1746685366952735034)
 <!--END_SECTION:hn-->
 
 <!--
