@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 15 - [Heads up – effectively offline for now](https://lkml.iu.edu/hypermail/linux/kernel/2401.1/06297.html)
-- Jan 15 - [Five richest men double their money as poorest get poorer](https://www.theguardian.com/inequality/2024/jan/15/worlds-five-richest-men-double-their-money-as-poorest-get-poorer)
+- Jan 15 - [Teach Yourself Programming in Ten Years (1998)](https://norvig.com/21-days.html)
+- Jan 15 - [YouTube begins new wave of slowdowns for users with ad blockers enabled](https://9to5google.com/2024/01/13/youtube-new-wave-slow-downs-ad-blocker/)
+- Jan 15 - [AI comes up with battery design that uses 70 per cent less lithium](https://www.newscientist.com/article/2411374-ai-comes-up-with-battery-design-that-uses-70-per-cent-less-lithium/)
+- Jan 15 - [Lago – open-source Stripe alternative is hiring a Founding Marketer](https://www.ycombinator.com/companies/lago/jobs/twKO87q-founding-marketer)
 - Jan 15 - [Beaver Drop](https://en.wikipedia.org/wiki/Beaver_drop)
-- Jan 15 - [Order/license chaos for VMware products after Broadcom takeover](https://borncity.com/win/2024/01/13/order-license-chaos-for-vmware-products-after-broadcom-takeover-jan-2024/)
-- Jan 15 - [Slashing Data Transfer Costs in AWS by 99%](https://www.bitsand.cloud/posts/slashing-data-transfer-costs/)
 <!--END_SECTION:hn-->
 
 <!--
