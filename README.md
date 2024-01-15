@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 14 - [Ask HN: Why do computers/tablets/etc "freeze up" as they get older?](https://news.ycombinator.com/item?id=38995719)
-- Jan 14 - [NixOS: Declarative Builds and Deployments](https://nixos.org/)
+- Jan 15 - [FedEx launches new e-commerce platform to compete with Amazon](https://www.theverge.com/2024/1/14/24038042/fedex-fdx-e-commerce-platform-amazon-rival-shoprunner)
+- Jan 15 - [Could inflammation be the cause of myriad chronic conditions? (2019)](https://www.harvardmagazine.com/2019/04/inflammation-disease-diet)
+- Jan 15 - [Data Brokers Watch: Tracking and mapping the data broker ecosystem](https://databrokerswatch.org/)
 - Jan 14 - [When Random Isn't](https://orlp.net/blog/when-random-isnt/)
-- Jan 14 - [Skiff: Various Privacy Failures](https://www.grepular.com/Skiff_Emails_Various_Privacy_Failures)
-- Jan 14 - [Fast RISC-V-based scripting back end for game engines](https://github.com/fwsGonzo/rvscript)
+- Jan 14 - [Leaving Arizona – the Story of the Motorola 6800 part 2 and creation of the 6502](https://thechipletter.substack.com/p/leaving-arizona)
 <!--END_SECTION:hn-->
 
 <!--
