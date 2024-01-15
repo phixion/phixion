@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 15 - [FedEx launches new e-commerce platform to compete with Amazon](https://www.theverge.com/2024/1/14/24038042/fedex-fdx-e-commerce-platform-amazon-rival-shoprunner)
-- Jan 15 - [Could inflammation be the cause of myriad chronic conditions? (2019)](https://www.harvardmagazine.com/2019/04/inflammation-disease-diet)
-- Jan 15 - [Data Brokers Watch: Tracking and mapping the data broker ecosystem](https://databrokerswatch.org/)
-- Jan 14 - [When Random Isn't](https://orlp.net/blog/when-random-isnt/)
-- Jan 14 - [Leaving Arizona – the Story of the Motorola 6800 part 2 and creation of the 6502](https://thechipletter.substack.com/p/leaving-arizona)
+- Jan 15 - [The Swimmer (1964)](https://www.newyorker.com/magazine/1964/07/18/the-swimmer)
+- Jan 15 - [Escaping from isolated networks using Broadcast DNS](https://medium.com/sensorfu/escaping-isolated-networks-using-broadcast-dns-5aee866bcaff)
+- Jan 15 - [The US grid battery fleet is about to double – again](https://www.canarymedia.com/articles/energy-storage/chart-the-us-grid-battery-fleet-is-about-to-double-again)
+- Jan 15 - [Raspberry Pi is manufacturing 70K Raspberry Pi 5s per week](https://www.tomshardware.com/raspberry-pi/raspberry-pi-is-now-manufacturing-70000-pi-5s-per-week-will-surge-to-90000-in-february)
+- Jan 15 - [FedEx launches new e-commerce platform](https://www.theverge.com/2024/1/14/24038042/fedex-fdx-e-commerce-platform-amazon-rival-shoprunner)
 <!--END_SECTION:hn-->
 
 <!--
