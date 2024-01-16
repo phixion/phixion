@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 16 - [Why do big companies ask unrealistic software engineering questions](https://tomaszs2.medium.com/why-do-big-companies-ask-unrealistic-software-engineering-interview-questions-cb23639ca5d0)
-- Jan 16 - [The 'Startling' Link Between Low Interest Rates and Low Crime (2016)](https://thecrimereport.org/2016/12/06/the-startling-link-between-low-interest-rates-and-low-crime/)
-- Jan 16 - [Show HN: Indiebackers – Back indie projects and earn rewards](https://indiebackers.dev/)
-- Jan 16 - [Open-Source Detector of CISA's Known Exploitable Vulnerabilities](https://github.com/Ostorlab/KEV)
-- Jan 16 - [86-DOS Revisited](http://www.os2museum.com/wp/86-dos-revisited/)
+- Jan 16 - [US Cities Could Verge on Becoming Ghost Towns by 2100, Study Finds](https://www.sciencealert.com/thousands-of-us-cities-could-verge-on-becoming-ghost-towns-by-2100-study-finds)
+- Jan 16 - [Supreme Court Rejects Apple's Bid for Epic App Store Review](https://www.bloomberg.com/news/articles/2024-01-16/supreme-court-rejects-apple-s-request-for-epic-app-store-review)
+- Jan 16 - [Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
+- Jan 16 - [Why Y is pronounced as "igrek"](https://en.wikipedia.org/wiki/Y)
+- Jan 16 - [Filecoin Foundation Successfully Deploys IPFS in Space](https://fil.org/blog/filecoin-foundation-successfully-deploys-interplanetary-file-system-ipfs-in-space/)
 <!--END_SECTION:hn-->
 
 <!--
