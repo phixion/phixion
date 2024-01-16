@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 16 - [US Cities Could Verge on Becoming Ghost Towns by 2100, Study Finds](https://www.sciencealert.com/thousands-of-us-cities-could-verge-on-becoming-ghost-towns-by-2100-study-finds)
-- Jan 16 - [Supreme Court Rejects Apple's Bid for Epic App Store Review](https://www.bloomberg.com/news/articles/2024-01-16/supreme-court-rejects-apple-s-request-for-epic-app-store-review)
-- Jan 16 - [Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
-- Jan 16 - [Why Y is pronounced as "igrek"](https://en.wikipedia.org/wiki/Y)
-- Jan 16 - [Filecoin Foundation Successfully Deploys IPFS in Space](https://fil.org/blog/filecoin-foundation-successfully-deploys-interplanetary-file-system-ipfs-in-space/)
+- Jan 16 - [Supercharge Web AI Model Testing: WebGPU, WebGL, and Headless Chrome](https://developer.chrome.com/blog/supercharge-web-ai-testing)
+- Jan 16 - [Infowars and Goop sell the same exact pseudoscientific "wellness" products](https://qz.com/1010684/all-the-wellness-products-american-love-to-buy-are-sold-on-both-infowars-and-goop)
+- Jan 16 - [LeftoverLocals: A vulnerability that allows data recovery from GPU memory](https://leftoverlocals.com/)
+- Jan 16 - [On being listed as an artist whose work was used to train Midjourney](https://catandgirl.com/4000-of-my-closest-friends/)
+- Jan 16 - [Lilygo T-Keyboard: An ESP32 Bluetooth Blackberry keyboard](https://www.lilygo.cc/products/t-keyboard)
 <!--END_SECTION:hn-->
 
 <!--
