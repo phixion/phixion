@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 15 - [SQLite 3.45 released with JSONB support](https://www.sqlite.org/changes.html#version_3_45_0)
-- Jan 15 - [Going declarative on macOS with Nix and Nix-Darwin](https://nixcademy.com/2024/01/15/nix-on-macos/)
-- Jan 15 - [Ask HN: OCR for 100 year old (German) handwritten cursive script?](https://news.ycombinator.com/item?id=39004755)
-- Jan 15 - [A woman bought a vintage dress. It had a secret pocket with a mysterious note](https://www.cnn.com/2024/01/15/us/antique-dress-maine-encrypted-message-cec/index.html)
-- Jan 15 - ["Paste this post into ChatGPT 4"](https://twitter.com/goodside/status/1746685366952735034)
+- Jan 16 - [The Beauty and Danger in Victorian Glass Fire Grenades](https://museumcrush.org/the-beauty-and-danger-in-victorian-glass-fire-grenades/)
+- Jan 15 - [Watch Free Online Documentaries](https://ihavenotv.com/)
+- Jan 15 - [Oppo Find X7 Ultra: smartphone features the first dual periscope zooms](https://everyonegaming.com/oppo-find-x7-ultra-flagship-smartphone-features-the-worlds-first-dual-periscope-zooms/)
+- Jan 15 - [Amazon R&D spending is more than that of all companies and government of France](https://twitter.com/emollick/status/1746254000914092480)
+- Jan 15 - [Immediate Mode GUI Programming](https://eliasnaur.com/blog/immediate-mode-gui-programming)
 <!--END_SECTION:hn-->
 
 <!--
