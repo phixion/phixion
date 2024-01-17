@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 16 - [Supercharge Web AI Model Testing: WebGPU, WebGL, and Headless Chrome](https://developer.chrome.com/blog/supercharge-web-ai-testing)
-- Jan 16 - [Infowars and Goop sell the same exact pseudoscientific "wellness" products](https://qz.com/1010684/all-the-wellness-products-american-love-to-buy-are-sold-on-both-infowars-and-goop)
-- Jan 16 - [LeftoverLocals: A vulnerability that allows data recovery from GPU memory](https://leftoverlocals.com/)
-- Jan 16 - [On being listed as an artist whose work was used to train Midjourney](https://catandgirl.com/4000-of-my-closest-friends/)
-- Jan 16 - [Lilygo T-Keyboard: An ESP32 Bluetooth Blackberry keyboard](https://www.lilygo.cc/products/t-keyboard)
+- Jan 16 - [Distributing apps in the U.S. external purchase link – Support Developer](https://developer.apple.com/support/storekit-external-entitlement-us/)
+- Jan 16 - [JEP Draft: Deprecate Memory-Access Methods in Sun.misc.Unsafe for Removal](https://openjdk.org/jeps/8323072)
+- Jan 16 - [OpenAI drops ban on military tools to partner with The Pentagon](https://www.semafor.com/article/01/16/2024/openai-is-working-with-the-pentagon-on-cybersecurity-projects)
+- Jan 16 - [Apple revises App Store rules to let developers link to outside payment methods](https://9to5mac.com/2024/01/16/apple-revises-us-app-store-rules-to-let-developers-link-to-outside-payment-methods-but-it-will-still-charge-a-commission/)
+- Jan 16 - [Twin Galaxies restores Billy Mitchell's scores following legal settlement](https://arstechnica.com/gaming/2024/01/twin-galaxies-billy-mitchell-settle-donkey-kong-score-case-before-trial/)
 <!--END_SECTION:hn-->
 
 <!--
