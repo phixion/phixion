@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 17 - [JW Player suffers traffic loss after dynamic piracy blocking blunder](https://torrentfreak.com/jwplayer-suffers-severe-traffic-loss-after-dynamic-piracy-blocking-blunder-240116/)
-- Jan 17 - [Judge Blocks JetBlue from Acquiring Spirit Airlines](https://www.nytimes.com/2024/01/16/business/jetblue-spirit-airlines-ruling-merger.html)
-- Jan 16 - [JEP Draft: Deprecate memory-access methods in sun.misc.unsafe for removal](https://openjdk.org/jeps/8323072)
-- Jan 16 - [OpenAI drops ban on military tools to partner with The Pentagon](https://www.semafor.com/article/01/16/2024/openai-is-working-with-the-pentagon-on-cybersecurity-projects)
-- Jan 16 - ["Amazonian dark earth" was the work of ancient humans](https://www.bbc.com/future/article/20240116-the-dark-earth-revealing-the-amazons-secrets)
+- Jan 17 - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=39024215)
+- Jan 17 - [Cloned rhesus monkey lives to adulthood for first time](https://www.nature.com/articles/d41586-024-00136-2)
+- Jan 17 - [I regret selling my startup](https://www.nothingeasyaboutthis.com/i-regret-selling-my-startup/)
+- Jan 17 - [Flowblade: Open-Source Video Editor](https://jliljebl.github.io/flowblade/)
+- Jan 17 - [From Vexing Uncertainty to Intellectual Humility](https://academic.oup.com/schizophreniabulletin/advance-article/doi/10.1093/schbul/sbad173/7517011)
 <!--END_SECTION:hn-->
 
 <!--
