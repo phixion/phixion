@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 16 - [Distributing apps in the U.S. external purchase link – Support Developer](https://developer.apple.com/support/storekit-external-entitlement-us/)
-- Jan 16 - [JEP Draft: Deprecate Memory-Access Methods in Sun.misc.Unsafe for Removal](https://openjdk.org/jeps/8323072)
+- Jan 17 - [JW Player suffers traffic loss after dynamic piracy blocking blunder](https://torrentfreak.com/jwplayer-suffers-severe-traffic-loss-after-dynamic-piracy-blocking-blunder-240116/)
+- Jan 17 - [Judge Blocks JetBlue from Acquiring Spirit Airlines](https://www.nytimes.com/2024/01/16/business/jetblue-spirit-airlines-ruling-merger.html)
+- Jan 16 - [JEP Draft: Deprecate memory-access methods in sun.misc.unsafe for removal](https://openjdk.org/jeps/8323072)
 - Jan 16 - [OpenAI drops ban on military tools to partner with The Pentagon](https://www.semafor.com/article/01/16/2024/openai-is-working-with-the-pentagon-on-cybersecurity-projects)
-- Jan 16 - [Apple revises App Store rules to let developers link to outside payment methods](https://9to5mac.com/2024/01/16/apple-revises-us-app-store-rules-to-let-developers-link-to-outside-payment-methods-but-it-will-still-charge-a-commission/)
-- Jan 16 - [Twin Galaxies restores Billy Mitchell's scores following legal settlement](https://arstechnica.com/gaming/2024/01/twin-galaxies-billy-mitchell-settle-donkey-kong-score-case-before-trial/)
+- Jan 16 - ["Amazonian dark earth" was the work of ancient humans](https://www.bbc.com/future/article/20240116-the-dark-earth-revealing-the-amazons-secrets)
 <!--END_SECTION:hn-->
 
 <!--
