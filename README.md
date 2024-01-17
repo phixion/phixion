@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 17 - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=39024215)
+- Jan 17 - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers#section-job)
+- Jan 17 - [Why don't schools teach debugging, or, more fundamentally, fundamentals?](https://jakeseliger.com/2024/01/16/why-dont-schools-teach-debugging-or-more-fundamentally-fundamentals/)
+- Jan 17 - [My New Computer](https://blog.taoetc.org/)
+- Jan 17 - [PixieFail: Nine Vulnerabilities UEFI Implementations](https://blog.quarkslab.com/pixiefail-nine-vulnerabilities-in-tianocores-edk-ii-ipv6-network-stack.html)
 - Jan 17 - [Cloned rhesus monkey lives to adulthood for first time](https://www.nature.com/articles/d41586-024-00136-2)
-- Jan 17 - [I regret selling my startup](https://www.nothingeasyaboutthis.com/i-regret-selling-my-startup/)
-- Jan 17 - [Flowblade: Open-Source Video Editor](https://jliljebl.github.io/flowblade/)
-- Jan 17 - [From Vexing Uncertainty to Intellectual Humility](https://academic.oup.com/schizophreniabulletin/advance-article/doi/10.1093/schbul/sbad173/7517011)
 <!--END_SECTION:hn-->
 
 <!--
