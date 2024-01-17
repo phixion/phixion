@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 17 - [Bad stuff going down at the American Sociological Association](https://statmodeling.stat.columbia.edu/2024/01/17/bad-stuff-going-down-at-the-american-sociological-association/)
-- Jan 17 - [Remote work % in industry not correlated with excess productivity growth](https://www.frbsf.org/economic-research/publications/economic-letter/2024/january/does-working-from-home-boost-productivity-growth/)
-- Jan 17 - [Apple built iCloud to store billions of databases](https://read.engineerscodex.com/p/how-apple-built-icloud-to-store-billions)
-- Jan 17 - [What happens when a school bans smartphones? A complete transformation](https://www.theguardian.com/lifeandstyle/2024/jan/17/cellphone-smartphone-bans-schools)
-- Jan 17 - [AI poisoning could turn open models into destructive "sleeper agents"](https://arstechnica.com/information-technology/2024/01/ai-poisoning-could-turn-open-models-into-destructive-sleeper-agents-says-anthropic/)
+- Jan 17 - [Apple Must Stop Selling Watches with Blood Oxygen Feature](https://www.bloomberg.com/news/articles/2024-01-17/apple-must-stop-selling-watches-with-blood-oxygen-feature)
+- Jan 17 - [Doom Released Under GPLv2](https://github.com/id-Software/DOOM/commit/a77dfb96cb91780ca334d0d4cfd86957558007e0)
+- Jan 17 - [Cancer Alley](https://en.wikipedia.org/wiki/Cancer_Alley)
+- Jan 17 - [MRISC32 – An Open 32-Bit RISC/Vector ISA (Suitable for FPGA CPU)](https://mrisc32.bitsnbites.eu/)
+- Jan 17 - [Benchmarking Postgres Vector Search Approaches: Pgvector vs. Lantern](https://tembo.io/blog/postgres-vector-search-pgvector-and-lantern/)
 <!--END_SECTION:hn-->
 
 <!--
