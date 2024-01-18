@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 17 - [Apple Must Stop Selling Watches with Blood Oxygen Feature](https://www.bloomberg.com/news/articles/2024-01-17/apple-must-stop-selling-watches-with-blood-oxygen-feature)
-- Jan 17 - [Doom Released Under GPLv2](https://github.com/id-Software/DOOM/commit/a77dfb96cb91780ca334d0d4cfd86957558007e0)
-- Jan 17 - [Cancer Alley](https://en.wikipedia.org/wiki/Cancer_Alley)
-- Jan 17 - [MRISC32 – An Open 32-Bit RISC/Vector ISA (Suitable for FPGA CPU)](https://mrisc32.bitsnbites.eu/)
-- Jan 17 - [Benchmarking Postgres Vector Search Approaches: Pgvector vs. Lantern](https://tembo.io/blog/postgres-vector-search-pgvector-and-lantern/)
+- Jan 17 - [Apple's bad faith 27% tax on web purchases](https://twitter.com/TimSweeneyEpic/status/1747408148799881390)
+- Jan 17 - [Coming to Grips with Apple's Seemingly Unshakable Sense of Entitlement](https://daringfireball.net/2024/01/coming_to_grips_with_apples_seemingly_unshakable_sense_of_app_store_entitlement)
+- Jan 17 - [Cities are asking SCOTUS for more power to clear homeless encampments (2023)](https://www.vox.com/2023/10/10/23905951/homeless-tent-encampments-grants-pass-martin-boise-unsheltered-housing)
+- Jan 17 - [The Hacker News Top books of 2023](https://hnreads.com/post/top40_2023/)
+- Jan 17 - [FAQ on Leaving Google](https://social.clawhammer.net/blog/posts/2024-01-10-GoogleExitLetter/)
 <!--END_SECTION:hn-->
 
 <!--
