@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 18 - [Gym Class VR (YC W22) Is Hiring Lead Applied AI Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/XG7v8sQ-lead-applied-ai-gaming-engineer)
-- Jan 18 - [Flattr: 404 – Service No Long Exists](https://flattr.com/)
-- Jan 18 - [Fixing Horizon bugs would have been too costly, Post Office inquiry told](https://www.theguardian.com/uk-news/2024/jan/17/post-office-inquiry-fixing-horizon-bugs-fujitsu-developer-gerald-barnes)
-- Jan 18 - [A Million Ways to Die on the Web](https://wiki.archiveteam.org/index.php/A_Million_Ways_to_Die_on_the_Web)
-- Jan 18 - [Self-Consuming Generative Models Go MAD](https://arxiv.org/abs/2307.01850)
+- Jan 18 - [Surprise plant cell discovery unlocks human anti-aging potential](https://newatlas.com/biology/plant-cell-discovery-human-anti-aging/)
+- Jan 18 - [PostgreSQL Operations Cheat Sheet: featuring security, scaling, structure, etc.](https://wiki.postgresql.org/wiki/Operations_cheat_sheet)
+- Jan 18 - [Examples of AI rip-offs making their way into Google News](https://www.404media.co/google-news-is-boosting-garbage-ai-generated-articles/)
+- Jan 18 - [Zig Software Foundation 2024 Financial Report and Fundraiser](https://ziglang.org/news/2024-financials/)
+- Jan 18 - [Launch HN: Talc AI (YC S23) – Test Sets for AI](https://news.ycombinator.com/item?id=39042093)
 <!--END_SECTION:hn-->
 
 <!--
