@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 18 - [Losing my son – Lars Doucet](https://www.fortressofdoors.com/i-lost-my-son/)
-- Jan 18 - [WhisperSpeech – An Open Source text-to-speech system built by inverting Whisper](https://github.com/collabora/WhisperSpeech)
-- Jan 18 - [Portable Web Documents – An Alternative to PDF Based on HTML5 and Web Standards](https://getpolarized.io/2019/05/11/portable-web-documents.html)
-- Jan 18 - [Htmx and Web Components: A Perfect Match](https://binaryigor.com/htmx-and-web-components-a-perfect-match.html)
-- Jan 18 - [Can Ultraviolet lightbulbs end the next pandemic before it starts?](https://www.vox.com/the-highlight/23972651/ultraviolet-disinfection-germicide-far-uv)
+- Jan 18 - [Self-Consuming Generative Models Go MAD](https://arxiv.org/abs/2307.01850)
+- Jan 18 - [Wasmer (YC S19) Is Hiring Rust and Compiler Engineers](https://www.ycombinator.com/companies/wasmer/jobs)
+- Jan 18 - [Automatic class sorting with Prettier](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier)
+- Jan 18 - [Djgpp](https://www.delorie.com/djgpp/)
+- Jan 18 - [Remote work doesn't seem to affect productivity, Fed study finds](https://www.bloomberg.com/news/articles/2024-01-16/remote-work-doesn-t-seem-to-affect-productivity-fed-study-finds)
 <!--END_SECTION:hn-->
 
 <!--
