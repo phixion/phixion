@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 18 - [Surprise plant cell discovery unlocks human anti-aging potential](https://newatlas.com/biology/plant-cell-discovery-human-anti-aging/)
-- Jan 18 - [PostgreSQL Operations Cheat Sheet: featuring security, scaling, structure, etc.](https://wiki.postgresql.org/wiki/Operations_cheat_sheet)
-- Jan 18 - [Examples of AI rip-offs making their way into Google News](https://www.404media.co/google-news-is-boosting-garbage-ai-generated-articles/)
-- Jan 18 - [Zig Software Foundation 2024 Financial Report and Fundraiser](https://ziglang.org/news/2024-financials/)
-- Jan 18 - [Launch HN: Talc AI (YC S23) – Test Sets for AI](https://news.ycombinator.com/item?id=39042093)
+- Jan 18 - [A Lego Model of Corporate Capitalism](https://brettscott.substack.com/p/a-lego-model-of-corporate-capitalism)
+- Jan 18 - [WebGPU is now available on Android](https://developer.chrome.com/blog/new-in-webgpu-121)
+- Jan 18 - [Ditching PaaS: Why I Went Back to Self-Hosting](https://shubhamjain.co/2023/01/18/ditching-paas-why-i-went-back-to-self-hosting/)
+- Jan 18 - [New cancer drug kinder than chemotherapy](https://www.bbc.com/news/health-67793887)
+- Jan 18 - [Haier hits Home Assistant plugin dev with takedown notice](https://www.bleepingcomputer.com/news/security/haier-hits-home-assistant-plugin-dev-with-takedown-notice/)
 <!--END_SECTION:hn-->
 
 <!--
