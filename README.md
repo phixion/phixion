@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 17 - [Apple's bad faith 27% tax on web purchases](https://twitter.com/TimSweeneyEpic/status/1747408148799881390)
-- Jan 17 - [Coming to Grips with Apple's Seemingly Unshakable Sense of Entitlement](https://daringfireball.net/2024/01/coming_to_grips_with_apples_seemingly_unshakable_sense_of_app_store_entitlement)
-- Jan 17 - [Cities are asking SCOTUS for more power to clear homeless encampments (2023)](https://www.vox.com/2023/10/10/23905951/homeless-tent-encampments-grants-pass-martin-boise-unsheltered-housing)
-- Jan 17 - [The Hacker News Top books of 2023](https://hnreads.com/post/top40_2023/)
-- Jan 17 - [FAQ on Leaving Google](https://social.clawhammer.net/blog/posts/2024-01-10-GoogleExitLetter/)
+- Jan 18 - [Losing my son – Lars Doucet](https://www.fortressofdoors.com/i-lost-my-son/)
+- Jan 18 - [WhisperSpeech – An Open Source text-to-speech system built by inverting Whisper](https://github.com/collabora/WhisperSpeech)
+- Jan 18 - [Portable Web Documents – An Alternative to PDF Based on HTML5 and Web Standards](https://getpolarized.io/2019/05/11/portable-web-documents.html)
+- Jan 18 - [Htmx and Web Components: A Perfect Match](https://binaryigor.com/htmx-and-web-components-a-perfect-match.html)
+- Jan 18 - [Can Ultraviolet lightbulbs end the next pandemic before it starts?](https://www.vox.com/the-highlight/23972651/ultraviolet-disinfection-germicide-far-uv)
 <!--END_SECTION:hn-->
 
 <!--
