@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 18 - [YouTube and Spotify won't launch Apple Vision Pro apps, joining Netflix](https://www.bloomberg.com/news/articles/2024-01-18/youtube-and-spotify-join-netflix-in-not-launching-apple-vision-pro-apps)
-- Jan 18 - [My AI costs went from $100 to less than $1/day: Fine-tuning Mixtral with GPT4](https://twitter.com/wenquai/status/1748016021808595242)
-- Jan 18 - [We migrated our PostgreSQL database with 11 seconds downtime](https://gds.blog.gov.uk/2024/01/17/how-we-migrated-our-postgresql-database-with-11-seconds-downtime/)
-- Jan 18 - [Noisy brain may underlie some of autism's sensory features](https://www.thetransmitter.org/spectrum/noisy-brain-may-underlie-some-of-autisms-sensory-features/)
-- Jan 18 - [Cracking the code of Linear B](https://antigonejournal.com/2024/01/decipherment-linear-b/)
+- Jan 19 - [Dave Mills has passed away](https://elists.isoc.org/pipermail/internet-history/2024-January/009265.html)
+- Jan 19 - [Show HN: Quetta – A privacy-first web browser with enhanced ad blocker inside](https://www.quetta.net/)
+- Jan 19 - [Show HN: Lightweight Productivity Tool](https://zlinky.com/)
+- Jan 19 - [One-Pedal Driving Explained](https://www.energy.gov/energysaver/one-pedal-driving-explained)
+- Jan 19 - [Why Holes at the Bottom of the Ocean Disappear and Reappear](https://www.atlasobscura.com/articles/ocean-floor-holes-purposes-eels)
 <!--END_SECTION:hn-->
 
 <!--
