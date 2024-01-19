@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 19 - [File Formats Debunk – Why you should stop rendering to PNG (and use EXR instead)](https://skientia.co/cgi/image-formats)
+- Jan 19 - [Nango (YC W23) Is Hiring Back End Engineers (Remote)](https://nango.dev/jobs)
+- Jan 19 - [Driver hack lets you run Linux after Windows BSODs, no reboot required](https://www.tomshardware.com/software/operating-systems/driver-hack-lets-you-run-linux-after-windows-bsods-no-reboot-required)
+- Jan 19 - [Microsoft limits institutional cloud storage space for environmental reasons](https://scholar.social/@researchfairy/111778617625312456)
+- Jan 19 - [LoaderShip – CSS-Only Loaders](https://www.loadership.com/)
 - Jan 19 - [Google will disable all but OAuth for IMAP, SMTP and POP starting Sept. 30](https://workspaceupdates.googleblog.com/2023/09/winding-down-google-sync-and-less-secure-apps-support.html)
-- Jan 19 - [The Movement to 'Make America Rake Again'](https://reasonstobecheerful.world/make-america-rake-again-leaf-blower-bans/)
-- Jan 19 - [David Mills' Fuzzball](https://github.com/pdp11/fuzzball-operating-system)
-- Jan 19 - [Culture Change at Google](https://social.clawhammer.net/blog/posts/2024-01-19-CultureChange/)
 <!--END_SECTION:hn-->
 
 <!--
