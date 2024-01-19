@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 18 - [A Lego Model of Corporate Capitalism](https://brettscott.substack.com/p/a-lego-model-of-corporate-capitalism)
-- Jan 18 - [WebGPU is now available on Android](https://developer.chrome.com/blog/new-in-webgpu-121)
-- Jan 18 - [Ditching PaaS: Why I Went Back to Self-Hosting](https://shubhamjain.co/2023/01/18/ditching-paas-why-i-went-back-to-self-hosting/)
-- Jan 18 - [New cancer drug kinder than chemotherapy](https://www.bbc.com/news/health-67793887)
-- Jan 18 - [Haier hits Home Assistant plugin dev with takedown notice](https://www.bleepingcomputer.com/news/security/haier-hits-home-assistant-plugin-dev-with-takedown-notice/)
+- Jan 18 - [YouTube and Spotify won't launch Apple Vision Pro apps, joining Netflix](https://www.bloomberg.com/news/articles/2024-01-18/youtube-and-spotify-join-netflix-in-not-launching-apple-vision-pro-apps)
+- Jan 18 - [My AI costs went from $100 to less than $1/day: Fine-tuning Mixtral with GPT4](https://twitter.com/wenquai/status/1748016021808595242)
+- Jan 18 - [We migrated our PostgreSQL database with 11 seconds downtime](https://gds.blog.gov.uk/2024/01/17/how-we-migrated-our-postgresql-database-with-11-seconds-downtime/)
+- Jan 18 - [Noisy brain may underlie some of autism's sensory features](https://www.thetransmitter.org/spectrum/noisy-brain-may-underlie-some-of-autisms-sensory-features/)
+- Jan 18 - [Cracking the code of Linear B](https://antigonejournal.com/2024/01/decipherment-linear-b/)
 <!--END_SECTION:hn-->
 
 <!--
