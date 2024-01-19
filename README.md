@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 19 - [Dave Mills has passed away](https://elists.isoc.org/pipermail/internet-history/2024-January/009265.html)
-- Jan 19 - [Show HN: Quetta – A privacy-first web browser with enhanced ad blocker inside](https://www.quetta.net/)
-- Jan 19 - [Show HN: Lightweight Productivity Tool](https://zlinky.com/)
-- Jan 19 - [One-Pedal Driving Explained](https://www.energy.gov/energysaver/one-pedal-driving-explained)
-- Jan 19 - [Why Holes at the Bottom of the Ocean Disappear and Reappear](https://www.atlasobscura.com/articles/ocean-floor-holes-purposes-eels)
+- Jan 19 - [File Formats Debunk – Why you should stop rendering to PNG (and use EXR instead)](https://skientia.co/cgi/image-formats)
+- Jan 19 - [Google will disable all but OAuth for IMAP, SMTP and POP starting Sept. 30](https://workspaceupdates.googleblog.com/2023/09/winding-down-google-sync-and-less-secure-apps-support.html)
+- Jan 19 - [The Movement to 'Make America Rake Again'](https://reasonstobecheerful.world/make-america-rake-again-leaf-blower-bans/)
+- Jan 19 - [David Mills' Fuzzball](https://github.com/pdp11/fuzzball-operating-system)
+- Jan 19 - [Culture Change at Google](https://social.clawhammer.net/blog/posts/2024-01-19-CultureChange/)
 <!--END_SECTION:hn-->
 
 <!--
