@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 19 - [Nango (YC W23) Is Hiring Back End Engineers (Remote)](https://nango.dev/jobs)
-- Jan 19 - [Driver hack lets you run Linux after Windows BSODs, no reboot required](https://www.tomshardware.com/software/operating-systems/driver-hack-lets-you-run-linux-after-windows-bsods-no-reboot-required)
-- Jan 19 - [Microsoft limits institutional cloud storage space for environmental reasons](https://scholar.social/@researchfairy/111778617625312456)
-- Jan 19 - [LoaderShip – CSS-Only Loaders](https://www.loadership.com/)
-- Jan 19 - [Google will disable all but OAuth for IMAP, SMTP and POP starting Sept. 30](https://workspaceupdates.googleblog.com/2023/09/winding-down-google-sync-and-less-secure-apps-support.html)
+- Jan 19 - [Canadian Man Stuck in Triangle of E-Commerce Fraud](https://krebsonsecurity.com/2024/01/canadian-man-stuck-in-triangle-of-e-commerce-fraud/)
+- Jan 19 - [Live: Japan's first-ever soft lunar landing attempt with SLIM spacecraft [video]](https://www.youtube.com/watch?v=2-yBlZplnKQ)
+- Jan 19 - [Researchers Claim First Functioning Graphene-Based Chip](https://spectrum.ieee.org/graphene-semiconductor)
+- Jan 19 - [Backing up the power grid with green methanol](https://spectrum.ieee.org/methanol-energy-storage)
+- Jan 19 - [SpaceX launches 4 people for private mission to the International Space Station](https://www.npr.org/2024/01/18/1225191541/spacex-nasa-axiom-space-ax-3-international-space-station-iss)
 <!--END_SECTION:hn-->
 
 <!--
