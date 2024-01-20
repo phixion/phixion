@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 20 - [Emergency-Hired Teachers Without Degrees as Effective as Licensed Educators](https://www.the74million.org/article/emergency-hired-teachers-do-just-as-well-as-those-who-go-through-normal-training/)
-- Jan 20 - [Ubisoft Says Out Loud: We Want People to Get Used to Not Owning What They Bought](https://www.techdirt.com/2024/01/19/ubisoft-says-it-out-loud-we-want-people-to-get-used-to-not-owning-what-theyve-bought/)
-- Jan 20 - [Google search is losing the fight with SEO spam](https://arstechnica.com/gadgets/2024/01/google-search-is-losing-the-fight-with-seo-spam-study-says/)
-- Jan 20 - [Lee Kuan Yew on Malta](https://www.karlsnotes.com/lee-kuan-yew-on-malta/)
-- Jan 20 - [Show HN: Coffeehouse, one-on-one voicechat with random HN users](https://coffeehouse.chat/hn)
+- Jan 20 - [Companies Make It Too Easy for Thieves to Impersonate Police and Steal Our Data](https://www.eff.org/deeplinks/2024/01/companies-make-it-too-easy-thieves-impersonate-police-and-steal-our-data)
+- Jan 20 - [Can one make $138,000 HK from shredded banknote pieces using computer vision?](https://arxiv.org/abs/2401.06133)
+- Jan 20 - [Many AI researchers think fakes will become undetectable](https://www.economist.com/science-and-technology/2024/01/17/many-ai-researchers-think-fakes-will-become-undetectable)
+- Jan 20 - [Investigating a vanishing BIOS on the Fujitsu Lifebook AH532](https://blog.timschumi.net/2024/01/20/ah532-bios-investigation.html)
+- Jan 20 - [NASA loses contact with Ingenuity Mars helicopter](https://www.space.com/nasa-loses-contact-ingenuity-mars-helicopter)
 <!--END_SECTION:hn-->
 
 <!--
