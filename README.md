@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 20 - [Why lowercase letters save data](https://endtimes.dev/why-lowercase-letters-save-data/)
-- Jan 20 - [VNote: A pleasant note-taking platform](https://app.vnote.fun/en_us/)
-- Jan 20 - [On Leibniz Notation](https://math.stackexchange.com/questions/3266639/notation-for-partial-derivative-of-functions-of-functions)
-- Jan 20 - [Starlite](https://en.wikipedia.org/wiki/Starlite)
-- Jan 20 - [Most Earth system models are missing element of future climate puzzle](https://phys.org/news/2024-01-earth-key-piece-future-climate.html)
+- Jan 20 - [An Ugly Single-Page Website Makes $5k a Month with Affiliate Marketing](https://medium.com/@petervoica/how-an-ugly-single-page-website-makes-5-000-a-month-with-affiliate-marketing-c4974a8d1d69)
+- Jan 20 - [TSMC 2nm Update: Two Fabs in Construction, One Awaiting Government Approval](https://www.anandtech.com/show/21241/tsmc-2nm-update-two-fabs-in-construction-one-awaiting-government-approval)
+- Jan 20 - [The Sad Bastard Cookbook Removed from Amazon](https://wandering.shop/@youseeatortoise/111782434593735690)
+- Jan 20 - [Tour of new custom M1 macOS runners racks with Christina Warren [video]](https://www.youtube.com/watch?v=I2J2MzKjcqY)
+- Jan 20 - [Google to invest $1B in UK data centre](https://www.reuters.com/technology/google-invest-1-billion-uk-data-centre-2024-01-18/)
 <!--END_SECTION:hn-->
 
 <!--
