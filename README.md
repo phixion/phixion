@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 19 - [Yann LeCun:'Human-level artificial intelligence is going to take a long time'](https://english.elpais.com/technology/2024-01-19/yann-lecun-chief-ai-scientist-at-meta-human-level-artificial-intelligence-is-going-to-take-a-long-time.html)
-- Jan 19 - [Shots: Create Mockups](https://shots.so/)
-- Jan 19 - [Roadmap for the Xilem back end in 2024](https://linebender.org/blog/xilem-backend-roadmap/)
-- Jan 19 - [New York Times Flash-based visualizations work again](https://flowingdata.com/2024/01/10/nyt-flash-based-visualizations-work-again/)
-- Jan 19 - [Fujitsu bugs that sent innocent people to prison were known "from the start"](https://arstechnica.com/tech-policy/2024/01/fujitsu-bugs-that-sent-innocent-people-to-prison-were-known-from-the-start/)
+- Jan 19 - [Intel AMX](https://www.intel.com/content/www/us/en/content-details/785250/accelerate-artificial-intelligence-ai-workloads-with-intel-advanced-matrix-extensions-intel-amx.html)
+- Jan 19 - [Hackers breached Microsoft to find out what Microsoft knows about them](https://techcrunch.com/2024/01/19/hackers-breached-microsoft-to-find-out-what-microsoft-knows-about-them/)
+- Jan 19 - [The bane of my existence: Supporting both async and sync code in Rust](https://nullderef.com/blog/rust-async-sync/)
+- Jan 19 - [Knockoff Iranian drone sold on Alibaba was meant for war, documents show](https://www.vice.com/en/article/3akeqk/knockoff-iranian-drone-sold-on-alibaba-was-meant-for-war-documents-show)
+- Jan 19 - [A pair of DeepMind scientists talking with investors about forming an AI startup](https://www.bloomberg.com/news/articles/2024-01-19/google-deepmind-ai-scientists-in-talks-to-leave-for-french-stealth-startup)
 <!--END_SECTION:hn-->
 
 <!--
