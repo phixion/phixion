@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 21 - [Show HN: Pfuzz, a web fuzzer following the Unix philosophy](https://github.com/codesoap/pfuzz)
-- Jan 21 - [Show HN: Nutrient insights through your grocery receipts](https://nutri.adrianstobbe.com/)
-- Jan 21 - [I believe bestselling author Mark Dawson is a serial plagiarist](https://old.reddit.com/r/books/comments/18n30jn/i_believe_bestselling_author_mark_dawson_is_a/)
-- Jan 21 - [Colorado pastor charged for cryptocurrency scam he perpetrated at God's command](https://web3isgoinggreat.com/single/indxcoin)
-- Jan 21 - [Augmenting the Markdown Language for Great Python Graphical Interfaces](https://www.taipy.io/posts/augmenting-the-markdown-language-for-great-python-graphical-interfaces)
+- Jan 21 - [Free and Open Source Alternative to Airdrop](https://www.sharedrop.io/)
+- Jan 21 - [A Woman Who Spent Five Hundred Days in a Cave](https://www.newyorker.com/magazine/2024/01/29/the-woman-who-spent-five-hundred-days-in-a-cave)
+- Jan 21 - [A QA engineer walks into a bar](https://twitter.com/brenankeller/status/1068615953989087232)
+- Jan 21 - [NASA regains contact with mini-helicopter on Mars](https://phys.org/news/2024-01-nasa-regains-contact-mini-helicopter.amp)
+- Jan 21 - [Google Is Tracking You Even in Incognito Mode, New Disclaimer Is Up](https://news.abplive.com/technology/google-incognito-new-disclaimer-canary-version-you-are-being-tracked-even-in-google-incognito-mode-new-disclaimer-is-up-privacy-lawsuit-1658159)
 <!--END_SECTION:hn-->
 
 <!--
