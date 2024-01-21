@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 21 - [Snobs Are Ruining the Software Development Experience](https://www.thesecretdeveloper.com/blog/snobs-are-ruining-the-software-development-experience)
-- Jan 21 - [Langfuse (YC W23) Is Hiring a Founding Engineer in Berlin (LLM Observability)](https://www.workatastartup.com/jobs/62929)
-- Jan 21 - [The growing inequality of who gets to work from home](https://hbr.org/2023/12/research-the-growing-inequality-of-who-gets-to-work-from-home)
-- Jan 21 - [Collision Detection (2015)](https://www.jeffreythompson.org/collision-detection/index.php)
-- Jan 21 - [Use Midnight Commander like a pro (2015)](https://klimer.eu/2015/05/01/use-midnight-commander-like-a-pro/)
+- Jan 21 - [Show HN: Pfuzz, a web fuzzer following the Unix philosophy](https://github.com/codesoap/pfuzz)
+- Jan 21 - [Show HN: Nutrient insights through your grocery receipts](https://nutri.adrianstobbe.com/)
+- Jan 21 - [I believe bestselling author Mark Dawson is a serial plagiarist](https://old.reddit.com/r/books/comments/18n30jn/i_believe_bestselling_author_mark_dawson_is_a/)
+- Jan 21 - [Colorado pastor charged for cryptocurrency scam he perpetrated at God's command](https://web3isgoinggreat.com/single/indxcoin)
+- Jan 21 - [Augmenting the Markdown Language for Great Python Graphical Interfaces](https://www.taipy.io/posts/augmenting-the-markdown-language-for-great-python-graphical-interfaces)
 <!--END_SECTION:hn-->
 
 <!--
