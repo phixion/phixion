@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 21 - [Free and Open Source Alternative to Airdrop](https://www.sharedrop.io/)
-- Jan 21 - [A Woman Who Spent Five Hundred Days in a Cave](https://www.newyorker.com/magazine/2024/01/29/the-woman-who-spent-five-hundred-days-in-a-cave)
-- Jan 21 - [A QA engineer walks into a bar](https://twitter.com/brenankeller/status/1068615953989087232)
-- Jan 21 - [NASA regains contact with mini-helicopter on Mars](https://phys.org/news/2024-01-nasa-regains-contact-mini-helicopter.amp)
-- Jan 21 - [Google Is Tracking You Even in Incognito Mode, New Disclaimer Is Up](https://news.abplive.com/technology/google-incognito-new-disclaimer-canary-version-you-are-being-tracked-even-in-google-incognito-mode-new-disclaimer-is-up-privacy-lawsuit-1658159)
+- Jan 21 - [C23: A Slightly Better C](https://lemire.me/blog/2024/01/21/c23-a-slightly-better-c/)
+- Jan 21 - [FreeBSD evaluating Rust's adoption into base system](https://mail-archive.freebsd.org/cgi/getmsg.cgi?fetch=414797+0+current/freebsd-hackers)
+- Jan 21 - [The lazy technologist's guide to weight loss](https://dberkholz.com/2024/01/17/the-lazy-technologists-guide-to-weight-loss/)
+- Jan 21 - [Huawei claims HarmonyOS NEXT kernel is more efficient than Linux](https://www.notebookcheck.net/Huawei-claims-HarmonyOS-NEXT-kernel-is-3x-more-efficient-than-Linux.795125.0.html)
+- Jan 21 - ['Cozy' relationship between Boeing and U.S. draws scrutiny amid 737 MAX 9 mess](https://text.npr.org/1225466035)
 <!--END_SECTION:hn-->
 
 <!--
