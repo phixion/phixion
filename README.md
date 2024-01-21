@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 20 - [Different Languages Laugh Online](https://restofworld.org/2023/how-people-laugh-online/)
-- Jan 20 - [Meta Introduces Self-Rewarding Language Model Capable of GPT-4 Level Performance](https://digialps.com/meta-research-introduces-revolutionary-self-rewarding-language-models-capable-of-gpt-4-level-performance/)
-- Jan 20 - [Brig: A user interface toolkit for Node.js, which is based on Qt for rendering](https://github.com/BrigJS/brig)
-- Jan 20 - [Show HN: I built presently.live for better weekend planning and insights](https://presently.live/)
-- Jan 20 - [GraphQL and the Beads on a String](https://blog.luccasiau.com/p/graphql-and-the-beads-on-a-string)
+- Jan 21 - [Adult ADHD Is the Wild West of Psychiatry](https://www.theatlantic.com/health/archive/2023/04/adult-adhd-diagnosis-treatment-adderall-shortage/673719/)
+- Jan 21 - [Gemini: Fast Failure Recovery in Distributed Training with In-Memory Checkpoints [pdf]](https://www.cs.rice.edu/~eugeneng/papers/SOSP23.pdf)
+- Jan 21 - [Common Lisp's Block / Return-From and Unwind-Protect](http://axisofeval.blogspot.com/2024/01/common-lisps-block-return-from-and.html)
+- Jan 21 - [Anime is a $25B industry that pays its animators pennies](https://hitregbroke.com/anime/)
+- Jan 20 - [How different languages laugh online](https://restofworld.org/2023/how-people-laugh-online/)
 <!--END_SECTION:hn-->
 
 <!--
