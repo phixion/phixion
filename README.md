@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 21 - [Adult ADHD Is the Wild West of Psychiatry](https://www.theatlantic.com/health/archive/2023/04/adult-adhd-diagnosis-treatment-adderall-shortage/673719/)
-- Jan 21 - [Gemini: Fast Failure Recovery in Distributed Training with In-Memory Checkpoints [pdf]](https://www.cs.rice.edu/~eugeneng/papers/SOSP23.pdf)
-- Jan 21 - [Common Lisp's Block / Return-From and Unwind-Protect](http://axisofeval.blogspot.com/2024/01/common-lisps-block-return-from-and.html)
-- Jan 21 - [Anime is a $25B industry that pays its animators pennies](https://hitregbroke.com/anime/)
-- Jan 20 - [How different languages laugh online](https://restofworld.org/2023/how-people-laugh-online/)
+- Jan 21 - [Snobs Are Ruining the Software Development Experience](https://www.thesecretdeveloper.com/blog/snobs-are-ruining-the-software-development-experience)
+- Jan 21 - [Langfuse (YC W23) Is Hiring a Founding Engineer in Berlin (LLM Observability)](https://www.workatastartup.com/jobs/62929)
+- Jan 21 - [The growing inequality of who gets to work from home](https://hbr.org/2023/12/research-the-growing-inequality-of-who-gets-to-work-from-home)
+- Jan 21 - [Collision Detection (2015)](https://www.jeffreythompson.org/collision-detection/index.php)
+- Jan 21 - [Use Midnight Commander like a pro (2015)](https://klimer.eu/2015/05/01/use-midnight-commander-like-a-pro/)
 <!--END_SECTION:hn-->
 
 <!--
