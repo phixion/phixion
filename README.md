@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 22 - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-- Jan 22 - [Launch HN: Diversion (YC S22) – Cloud-Native Git Alternative](https://news.ycombinator.com/item?id=39088551)
-- Jan 22 - [Western firms are quaking as China's electric-car industry speeds up](https://www.economist.com/briefing/2024/01/11/western-firms-are-quaking-as-chinas-electric-car-industry-speeds-up)
-- Jan 22 - [Should I Open Source my Company?](https://supabase.com/blog/should-i-open-source-my-company)
-- Jan 22 - [Haier Europe Eases Off on Legal Threat and Seeks Dialogue](https://hackaday.com/2024/01/22/haier-europe-eases-off-on-legal-threat-and-seeks-dialogue/)
+- Jan 22 - [Apple sold an estimated 180K Vision Pro units during the first pre-order weekend](https://medium.com/@mingchikuo/vision-pro%E9%A6%96%E9%80%B1%E6%9C%AB%E9%A0%90%E8%B3%BC%E6%AA%A2%E8%A6%96-%E7%AC%A6%E5%90%88%E9%A0%90%E6%9C%9F%E4%BD%86%E9%9A%B1%E6%86%82%E6%B5%AE%E7%8F%BE-vision-pros-first-weekend-pre-order-review-expectations-in-line-0450c1effe66)
+- Jan 22 - [When America First Dropped Acid](https://www.newyorker.com/magazine/2024/01/29/tripping-on-utopia-margaret-mead-the-cold-war-and-the-troubled-birth-of-psychedelic-science-benjamin-breen-book-review)
+- Jan 22 - [Ford's new 48-inch digital dashboard is a lot of Android for one car](https://www.theverge.com/2024/1/22/24045932/ford-android-screen-display-size-os-apps-gaming-lincoln)
+- Jan 22 - [BiomeJS 2024 Roadmap](https://biomejs.dev/blog/roadmap-2024/)
+- Jan 22 - [Canada's population is booming – access to family doctors hasn't kept pace](https://www.cbc.ca/news/politics/canada-popuation-booming-family-doctor-access-1.7087794)
 <!--END_SECTION:hn-->
 
 <!--
