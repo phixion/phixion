@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 21 - [Apple to Developers: Heads I win, tails you lose (part 2)](https://mobiledevmemo.com/apple-to-developers-heads-i-win-tails-you-lose-part-2/)
-- Jan 21 - [Scientists tame chaotic protein fueling 75% of cancers](https://phys.org/news/2024-01-scientists-chaotic-protein-fueling-cancers.html)
-- Jan 21 - [Flipper Zero: Multi-Tool Device for Geeks](https://flipperzero.one)
-- Jan 21 - [Trunk-Based Development](https://trunkbaseddevelopment.com/)
-- Jan 21 - [Gem adds support for creating state machines for attributes on any Ruby class](https://github.com/state-machines/state_machines)
+- Jan 22 - [U.S. National Park Service API](https://www.nps.gov/subjects/digital/nps-data-api.htm)
+- Jan 22 - [Helium is essential but nonrenewable and difficult to recycle](https://theconversation.com/helium-is-an-essential-material-for-research-and-medical-equipment-but-its-nonrenewable-and-difficult-to-recycle-218668)
+- Jan 22 - [JSON functions stopped working with blobs in SQLite 3.45](https://sqlite.org/forum/forumpost/012136abd5292b8d)
+- Jan 22 - [Scientists discovered perfectly preserved dinosaur embryo inside fossilized egg](https://www.unilad.com/news/world-news/dinosaur-egg-embryo-fossil-213524-20231107)
+- Jan 22 - [Fujitsu will not bid for UK.gov business until Post Office inquiry closes](https://www.theregister.com/2024/01/19/fujitsu_pauses_uk_public_sector_contracts/)
 <!--END_SECTION:hn-->
 
 <!--
