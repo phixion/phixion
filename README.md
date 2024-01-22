@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 22 - [Battery-free self-powered sensor harvests magnetic energy](https://news.mit.edu/2024/self-powered-sensor-harvests-magnetic-energy-0118)
-- Jan 22 - [Why isn't Bluesky a peer-to-peer network?](https://www.pfrazee.com/blog/why-not-p2p)
-- Jan 22 - [GPT-3.5 crashes when it thinks about useRalativeImagePath too much](https://iter.ca/post/gpt-crash/)
-- Jan 22 - [CSS3D Clouds](https://spite.github.io/CSS3DClouds/)
-- Jan 22 - [Boulder VC firm Foundry to shutter after 18 years, 200 investments](https://www.bizjournals.com/denver/news/2024/01/19/boulder-vc-firm-foundry-to-close.html)
+- Jan 22 - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- Jan 22 - [Launch HN: Diversion (YC S22) – Cloud-Native Git Alternative](https://news.ycombinator.com/item?id=39088551)
+- Jan 22 - [Western firms are quaking as China's electric-car industry speeds up](https://www.economist.com/briefing/2024/01/11/western-firms-are-quaking-as-chinas-electric-car-industry-speeds-up)
+- Jan 22 - [Should I Open Source my Company?](https://supabase.com/blog/should-i-open-source-my-company)
+- Jan 22 - [Haier Europe Eases Off on Legal Threat and Seeks Dialogue](https://hackaday.com/2024/01/22/haier-europe-eases-off-on-legal-threat-and-seeks-dialogue/)
 <!--END_SECTION:hn-->
 
 <!--
