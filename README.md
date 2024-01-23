@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 23 - [The Hawai'I Seaglider Initiative – A New Approach to Travel Between the Islands](https://www.hawaiiseaglider.org/)
-- Jan 23 - [Tell HN: Hacker News now supports IPv6](https://news.ycombinator.com/item?id=39099065)
-- Jan 23 - [The end of "Useless Ruby sugar": On intuitions and evolutions](https://zverok.substack.com/p/the-end-of-useless-ruby-sugar-on)
-- Jan 23 - [Dana-Farberications at Harvard University](https://forbetterscience.com/2024/01/02/dana-farberications-at-harvard-university/)
-- Jan 23 - [Arno A. Penzias, 90, Dies; Nobel Physicist Confirmed Big Bang Theory](https://www.nytimes.com/2024/01/22/science/space/arno-a-penzias-dead.html)
+- Jan 23 - [Boeing Whistleblower: Max 9 Production Line Has "Enormous Volume of Defects"](https://viewfromthewing.com/boeing-whistleblower-production-line-has-enormous-volume-of-defects-bolts-on-max-9-werent-installed/)
+- Jan 23 - [Why the fuck are we templating YAML? (2019)](https://leebriggs.co.uk/blog/2019/02/07/why-are-we-templating-yaml)
+- Jan 23 - [Qdrant, the Vector Search Database, raised $28M in a Series A round](https://qdrant.tech/blog/series-a-funding-round/)
+- Jan 23 - [Sonic: Towards a Sea-of-Nodes Inlining Compiler for Smalltalk in Smalltalk [video]](https://www.youtube.com/watch?v=tcnN7yWCPGM)
+- Jan 23 - [The Humble Brilliance of Italy's Moka Coffee Pot](https://www.atlasobscura.com/articles/make-coffee-moka-pot)
 <!--END_SECTION:hn-->
 
 <!--
