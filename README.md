@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 23 - [Framework Laptop 16 Delivers Great Linux Support and Performance](https://www.phoronix.com/review/framework-laptop-16)
+- Jan 23 - [Is the emergence of life an expected phase transition in the evolving universe?](https://arxiv.org/abs/2401.09514)
+- Jan 23 - [Introduction to Loro's Rich Text CRDT](https://www.loro.dev/blog/loro-richtext)
 - Jan 23 - [Boeing Whistleblower: Max 9 Production Line Has "Enormous Volume of Defects"](https://viewfromthewing.com/boeing-whistleblower-production-line-has-enormous-volume-of-defects-bolts-on-max-9-werent-installed/)
-- Jan 23 - [Why the fuck are we templating YAML? (2019)](https://leebriggs.co.uk/blog/2019/02/07/why-are-we-templating-yaml)
-- Jan 23 - [Qdrant, the Vector Search Database, raised $28M in a Series A round](https://qdrant.tech/blog/series-a-funding-round/)
-- Jan 23 - [Sonic: Towards a Sea-of-Nodes Inlining Compiler for Smalltalk in Smalltalk [video]](https://www.youtube.com/watch?v=tcnN7yWCPGM)
-- Jan 23 - [The Humble Brilliance of Italy's Moka Coffee Pot](https://www.atlasobscura.com/articles/make-coffee-moka-pot)
+- Jan 23 - [Free Godot Engine for Official Switch Developers](https://www.rawrlab.com/godot_nintendo_switch_free_port.html)
 <!--END_SECTION:hn-->
 
 <!--
