@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 23 - [The Hawai'I Seaglider Initiative – A New Approach to Travel Between the Islands](https://www.hawaiiseaglider.org/)
 - Jan 23 - [Tell HN: Hacker News now supports IPv6](https://news.ycombinator.com/item?id=39099065)
-- Jan 23 - [German Court Fines Security Researcher for Reporting Company's Vulnerabilities](https://socket.dev/blog/ethical-hacking-on-trial-german-court-fines-security-researcher)
 - Jan 23 - [The end of "Useless Ruby sugar": On intuitions and evolutions](https://zverok.substack.com/p/the-end-of-useless-ruby-sugar-on)
-- Jan 23 - [Cheating scandal rocks Harvard Ivy League teaching hospital from top researchers](https://forbetterscience.com/2024/01/02/dana-farberications-at-harvard-university/)
+- Jan 23 - [Dana-Farberications at Harvard University](https://forbetterscience.com/2024/01/02/dana-farberications-at-harvard-university/)
 - Jan 23 - [Arno A. Penzias, 90, Dies; Nobel Physicist Confirmed Big Bang Theory](https://www.nytimes.com/2024/01/22/science/space/arno-a-penzias-dead.html)
 <!--END_SECTION:hn-->
 
