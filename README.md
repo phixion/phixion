@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 23 - [Framework Laptop 16 Delivers Great Linux Support and Performance](https://www.phoronix.com/review/framework-laptop-16)
-- Jan 23 - [Is the emergence of life an expected phase transition in the evolving universe?](https://arxiv.org/abs/2401.09514)
-- Jan 23 - [Introduction to Loro's Rich Text CRDT](https://www.loro.dev/blog/loro-richtext)
-- Jan 23 - [Boeing Whistleblower: Max 9 Production Line Has "Enormous Volume of Defects"](https://viewfromthewing.com/boeing-whistleblower-production-line-has-enormous-volume-of-defects-bolts-on-max-9-werent-installed/)
-- Jan 23 - [Free Godot Engine for Official Switch Developers](https://www.rawrlab.com/godot_nintendo_switch_free_port.html)
+- Jan 23 - [Apple Dials Back Car's Self-Driving Features and Delays Launch to 2028](https://www.bloomberg.com/news/articles/2024-01-23/apple-car-ev-set-to-debut-in-2028-with-limited-autonomous-driving)
+- Jan 23 - [Direct Pixel-Space Megapixel Image Generation with Diffusion Models](https://crowsonkb.github.io/hourglass-diffusion-transformers/)
+- Jan 23 - [Show HN: Atlas – GIS and interactive maps in the browser](https://atlas.co)
+- Jan 23 - [Brex Layoffs](https://www.brex.com/journal/a-message-from-our-founder)
+- Jan 23 - [Finding unreachable functions with deadcode – The Go Programming Language](https://go.dev/blog/deadcode)
 <!--END_SECTION:hn-->
 
 <!--
