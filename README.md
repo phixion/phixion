@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 24 - [Microsoft crosses $3T in market cap](https://www.cnbc.com/2024/01/24/microsoft-3-trillion-market-cap.html)
-- Jan 24 - [How Euler did it? (by Ed Sandifer)](http://eulerarchive.maa.org/hedi/index.html)
-- Jan 24 - [Out of bounds memory access in V8 in Google Chrome prior to 120.0.6099.224](https://nvd.nist.gov/vuln/detail/CVE-2024-0519)
-- Jan 24 - [My Journey Submitting to Cran](https://andrewpwheeler.com/2022/07/22/my-journey-submitting-to-cran/)
-- Jan 24 - [Scientific journal publishers and editors say they are being offered bribes](https://www.science.org/content/blog-post/just-bribe-everyone-it-s-only-scientific-record)
+- Jan 24 - [OpenAI Scrapped a Promise to Disclose Key Documents to the Public](https://www.wired.com/story/openai-scrapped-promise-disclose-key-documents/)
+- Jan 24 - [How we made an animated movie in 8kB](https://www.ctrl-alt-test.fr/2024/how-we-made-an-animated-movie-in-8kb)
+- Jan 24 - [Standards for Software Liability: Jim Dempsey, Lawfare, UC Berkeley Law](https://www.lawfaremedia.org/article/standards-for-software-liability-focus-on-the-product-for-liability-focus-on-the-process-for-safe-harbor)
+- Jan 24 - [An Illustrated Guide to Post-Orwellian Censorship (2021)](https://thereader.mitpress.mit.edu/an-illustrated-guide-to-post-orwellian-censorship/)
+- Jan 24 - [JEP Draft – Derived Record Creation (Preview) – Java Record "Withers"](https://bugs.openjdk.org/browse/JDK-8321133)
 <!--END_SECTION:hn-->
 
 <!--
