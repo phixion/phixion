@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 24 - [New York City plans to wipe out $2B in medical debt for 500k residents](https://abcnews.go.com/US/wireStory/new-york-city-plans-wipe-2-billion-medical-106570030)
-- Jan 24 - [Balancing engineering cultures: Debate everything vs. just tell me what to build](https://www.fishmanafnewsletter.com/p/balancing-engineering-cultures-debate-vs-do)
-- Jan 24 - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=39112346)
-- Jan 23 - [Appeals Court: FBI's Safe-Deposit Box Seizures Violated Fourth Amendment](https://reason.com/2024/01/23/appeals-court-fbis-safe-deposit-box-seizures-violated-fourth-amendment/)
-- Jan 23 - [SimSIMD: Hardware-accelerated similarity metrics and distance functions](https://github.com/ashvardanian/SimSIMD)
+- Jan 24 - [Learn How to Build Your Own Max for Live Devices](https://elphnt.io/build-your-own-max-for-live-devices/)
+- Jan 24 - [Programming Language Checklist (2011)](https://www.mcmillen.dev/language_checklist.html)
+- Jan 24 - [The United States is producing more oil than any country in history](https://www.cnn.com/2023/12/19/business/us-production-oil-reserves-crude/index.html)
+- Jan 24 - [Show HN: Open-source Rule-based PDF parser for RAG](https://github.com/nlmatics/nlm-ingestor)
+- Jan 24 - [Show HN: I wished for a site with a growing list of math problems, I built it](https://teachyourselfmath.app/)
 <!--END_SECTION:hn-->
 
 <!--
