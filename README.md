@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 24 - [Learn How to Build Your Own Max for Live Devices](https://elphnt.io/build-your-own-max-for-live-devices/)
-- Jan 24 - [Programming Language Checklist (2011)](https://www.mcmillen.dev/language_checklist.html)
-- Jan 24 - [The United States is producing more oil than any country in history](https://www.cnn.com/2023/12/19/business/us-production-oil-reserves-crude/index.html)
+- Jan 24 - [Jamsocket (YC W22) is hiring a senior Rust systems engineer (NYC/remote)](https://jamsocket.com/blog/senior-rust-engineer)
+- Jan 24 - [All the Major Tech Layoffs in 2024 So Far](https://www.visualcapitalist.com/all-the-major-tech-layoffs-in-2024-so-far/)
+- Jan 24 - [Alaska CEO: We found many loose bolts on our Max planes](https://www.nbcnews.com/business/business-news/alaska-airlines-found-more-loose-bolts-boeing-737-max-9-ceo-says-rcna135316)
+- Jan 24 - [Lumiere: A Space-Time Diffusion Model for Realistic Video Generation](https://lumiere-video.github.io/)
 - Jan 24 - [Show HN: Open-source Rule-based PDF parser for RAG](https://github.com/nlmatics/nlm-ingestor)
-- Jan 24 - [Show HN: I wished for a site with a growing list of math problems, I built it](https://teachyourselfmath.app/)
 <!--END_SECTION:hn-->
 
 <!--
