@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 23 - [Apple Dials Back Car's Self-Driving Features and Delays Launch to 2028](https://www.bloomberg.com/news/articles/2024-01-23/apple-car-ev-set-to-debut-in-2028-with-limited-autonomous-driving)
-- Jan 23 - [Direct Pixel-Space Megapixel Image Generation with Diffusion Models](https://crowsonkb.github.io/hourglass-diffusion-transformers/)
-- Jan 23 - [Show HN: Atlas – GIS and interactive maps in the browser](https://atlas.co)
-- Jan 23 - [Brex Layoffs](https://www.brex.com/journal/a-message-from-our-founder)
-- Jan 23 - [Finding unreachable functions with deadcode – The Go Programming Language](https://go.dev/blog/deadcode)
+- Jan 23 - [Google cancels contract with an AI data firm that's helped train Bard](https://www.theverge.com/2024/1/23/24048429/google-appen-cancel-contract-ai-training-bard)
+- Jan 23 - [Netflix is turning into cable TV](https://www.theverge.com/2024/1/23/24047817/netflix-is-turning-into-cable-tv)
+- Jan 23 - [Appeals Court: FBI's Safe-Deposit Box Seizures Violated Fourth Amendment](https://reason.com/2024/01/23/appeals-court-fbis-safe-deposit-box-seizures-violated-fourth-amendment/)
+- Jan 23 - [Mozilla closes 21 years old bug in Firefox](https://bugzilla.mozilla.org/show_bug.cgi?id=221154)
+- Jan 23 - [Waterway Map](https://waterwaymap.org)
 <!--END_SECTION:hn-->
 
 <!--
