@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 24 - [OpenAI Scrapped a Promise to Disclose Key Documents to the Public](https://www.wired.com/story/openai-scrapped-promise-disclose-key-documents/)
-- Jan 24 - [How we made an animated movie in 8kB](https://www.ctrl-alt-test.fr/2024/how-we-made-an-animated-movie-in-8kb)
-- Jan 24 - [Standards for Software Liability: Jim Dempsey, Lawfare, UC Berkeley Law](https://www.lawfaremedia.org/article/standards-for-software-liability-focus-on-the-product-for-liability-focus-on-the-process-for-safe-harbor)
-- Jan 24 - [An Illustrated Guide to Post-Orwellian Censorship (2021)](https://thereader.mitpress.mit.edu/an-illustrated-guide-to-post-orwellian-censorship/)
-- Jan 24 - [JEP Draft – Derived Record Creation (Preview) – Java Record "Withers"](https://bugs.openjdk.org/browse/JDK-8321133)
+- Jan 24 - [Researchers find signs of intelligence among jumping spiders](https://knowablemagazine.org/content/article/mind/2021/are-spiders-intelligent)
+- Jan 24 - [Boeing Halted from Further Max Production Increases by FAA](https://www.bloomberg.com/news/articles/2024-01-24/boeing-halted-from-further-max-production-increases-by-faa)
+- Jan 24 - [Religious 'Nones' are now the largest single group in the U.S.](https://www.npr.org/2024/01/24/1226371734/religious-nones-are-now-the-largest-single-group-in-the-u-s)
+- Jan 24 - [What killed the fight scene?](https://www.fastcompany.com/91008617/what-killed-the-fight-scene-and-is-it-finally-coming-back)
+- Jan 24 - [Majority of America's underground water stores are drying up, study finds](https://thehill.com/policy/equilibrium-sustainability/4426143-majority-of-americas-underground-water-stores-are-drying-up-study-finds/)
 <!--END_SECTION:hn-->
 
 <!--
