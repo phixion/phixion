@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 24 - [Researchers find signs of intelligence among jumping spiders](https://knowablemagazine.org/content/article/mind/2021/are-spiders-intelligent)
-- Jan 24 - [Boeing Halted from Further Max Production Increases by FAA](https://www.bloomberg.com/news/articles/2024-01-24/boeing-halted-from-further-max-production-increases-by-faa)
-- Jan 24 - [Religious 'Nones' are now the largest single group in the U.S.](https://www.npr.org/2024/01/24/1226371734/religious-nones-are-now-the-largest-single-group-in-the-u-s)
-- Jan 24 - [What killed the fight scene?](https://www.fastcompany.com/91008617/what-killed-the-fight-scene-and-is-it-finally-coming-back)
-- Jan 24 - [Majority of America's underground water stores are drying up, study finds](https://thehill.com/policy/equilibrium-sustainability/4426143-majority-of-americas-underground-water-stores-are-drying-up-study-finds/)
+- Jan 25 - [Lucidrains/self-rewarding-lm-PyTorch: Self-Rewarding Language Model, from MetaAI](https://github.com/lucidrains/self-rewarding-lm-pytorch)
+- Jan 25 - [Ollama releases Python and JavaScript Libraries](https://ollama.ai/blog/python-javascript-libraries)
+- Jan 25 - [A Leaked Memo from Google CEO Sundar Pichai Comes Amidst Employee Discontent](https://www.inc.com/nick-hobson/a-leaked-memo-from-google-ceo-sundar-pichai-comes-amidst-employee-discontent-no-ceo-wants-this-for-their-company.html)
+- Jan 25 - [Forkrun: Runs multiple inputs through a command in parallel using bash coprocs](https://github.com/jkool702/forkrun)
+- Jan 25 - [Jerry (YC S17) Is Hiring Eng, PM, Data, Cos, Ops etc. (Remote)](https://getjerry.com/careers)
 <!--END_SECTION:hn-->
 
 <!--
