@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 25 - [Tesla Makes It Harder for Investors to Ignore Its Problems](https://www.wsj.com/business/autos/tesla-makes-it-harder-for-investors-to-ignore-its-problems-511a2c40)
-- Jan 25 - [The Intellectual We Deserve](https://www.currentaffairs.org/2018/03/the-intellectual-we-deserve)
-- Jan 25 - [How AI is changing gymnastics judging](https://www.technologyreview.com/2024/01/16/1086498/ai-gymnastics-judging-jss-world-championships-antwerp-paris-olympics/)
-- Jan 25 - [Only 90s Web Developers Remember This (2014)](https://zachholman.com/posts/only-90s-developers/)
-- Jan 25 - [Idea for a new hand tool: Automatic Wire Twisting Pliers](https://docs.sweeting.me/s/ih75iZv2o)
+- Jan 25 - [Microsoft lays off 1,900 Activision Blizzard and Xbox employees](https://www.theverge.com/2024/1/25/24049050/microsoft-activision-blizzard-layoffs)
+- Jan 25 - [We build X.509 chains so you don't have to](https://blog.trailofbits.com/2024/01/25/we-build-x-509-chains-so-you-dont-have-to/)
+- Jan 25 - [Shouldn't FROM come before SELECT in SQL? (2011)](https://stackoverflow.com/questions/5074044/shouldnt-from-come-before-select-in-sql)
+- Jan 25 - [Proposed UN cybercrime treaty has evolved into an expansive surveillance tool](https://www.eff.org/deeplinks/2024/01/eff-and-more-100-ngos-set-non-negotiable-redlines-ahead-un-cybercrime-treaty)
+- Jan 25 - [Faircamp Is a Free Bandcamp Alternative](https://wedistribute.org/2023/11/introducing-faircamp/)
 <!--END_SECTION:hn-->
 
 <!--
