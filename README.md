@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 25 - [Microsoft lays off 1,900 Activision Blizzard and Xbox employees](https://www.theverge.com/2024/1/25/24049050/microsoft-activision-blizzard-layoffs)
-- Jan 25 - [We build X.509 chains so you don't have to](https://blog.trailofbits.com/2024/01/25/we-build-x-509-chains-so-you-dont-have-to/)
-- Jan 25 - [Shouldn't FROM come before SELECT in SQL? (2011)](https://stackoverflow.com/questions/5074044/shouldnt-from-come-before-select-in-sql)
-- Jan 25 - [Proposed UN cybercrime treaty has evolved into an expansive surveillance tool](https://www.eff.org/deeplinks/2024/01/eff-and-more-100-ngos-set-non-negotiable-redlines-ahead-un-cybercrime-treaty)
-- Jan 25 - [Faircamp Is a Free Bandcamp Alternative](https://wedistribute.org/2023/11/introducing-faircamp/)
+- Jan 25 - [Ex-sheriff's deputy behind SF jail 'fight club' scandal to be rehired](https://missionlocal.org/2024/01/sf-rehire-ex-sheriffs-deputy-fight-club-scandal/)
+- Jan 25 - [Two New Reasoning Methods from Google Research: COSP and USP](https://thesequence.substack.com/p/about-cosp-and-usp-two-new-llm-reasoning)
+- Jan 25 - [Universal Self-Adaptive Prompting](https://arxiv.org/abs/2305.14926)
+- Jan 25 - [The new architecture wars](https://aeon.co/essays/the-architectural-style-wars-have-started-all-over-again)
+- Jan 25 - [The lithium revolution has arrived at California's Salton Sea](https://www.latimes.com/environment/newsletter/2024-01-25/column-the-lithium-revolution-has-arrived-at-californias-salton-sea-boiling-point)
 <!--END_SECTION:hn-->
 
 <!--
