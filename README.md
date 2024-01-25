@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 25 - [NASA System Predicts Impact of a Small Asteroid over Germany](https://www.nasa.gov/solar-system/asteroids/nasa-system-predicts-impact-of-a-very-small-asteroid-over-germany/)
-- Jan 25 - [Placemark is now open source – web-based geospatial data editor](https://github.com/placemark/placemark)
-- Jan 25 - [Crusty, the Indestructible Mac](https://geocities.ws/rehasoft/crusty.html)
-- Jan 25 - [Self-rewarding-lm-PyTorch: Self-Rewarding Language Model from MetaAI](https://github.com/lucidrains/self-rewarding-lm-pytorch)
-- Jan 25 - [What are elliptic curve pairings?](https://www.zellic.io/blog/what-are-elliptic-curve-pairings/)
+- Jan 25 - [Tesla Makes It Harder for Investors to Ignore Its Problems](https://www.wsj.com/business/autos/tesla-makes-it-harder-for-investors-to-ignore-its-problems-511a2c40)
+- Jan 25 - [The Intellectual We Deserve](https://www.currentaffairs.org/2018/03/the-intellectual-we-deserve)
+- Jan 25 - [How AI is changing gymnastics judging](https://www.technologyreview.com/2024/01/16/1086498/ai-gymnastics-judging-jss-world-championships-antwerp-paris-olympics/)
+- Jan 25 - [Only 90s Web Developers Remember This (2014)](https://zachholman.com/posts/only-90s-developers/)
+- Jan 25 - [Idea for a new hand tool: Automatic Wire Twisting Pliers](https://docs.sweeting.me/s/ih75iZv2o)
 <!--END_SECTION:hn-->
 
 <!--
