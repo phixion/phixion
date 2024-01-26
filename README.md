@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 26 - [Optery (YC W22) is hiring a full-stack dev with Node experience (Latin America)](https://app.dover.io/Optery/careers/41840615-ceb2-4629-93a5-42d49fa8987d)
-- Jan 26 - [Dungeons and Dragons turns 50 today](http://grognardia.blogspot.com/2024/01/fifty-years-ago-today.html)
-- Jan 26 - [Don't Talk to People Like They're Chatbots](https://www.schneier.com/essays/archives/2024/01/dont-talk-to-people-like-theyre-chatbots.html)
-- Jan 26 - [ArVid: Russians squeezed 4 hard drives into one VHS tape in the 90s](https://jacobfilipp.com/arvid-vhs/)
-- Jan 26 - [The Japanese philosophy for a no-waste world](https://www.bbc.com/travel/article/20240125-mottainai-in-japan-creativity-is-key-to-a-no-waste-ideal)
+- Jan 26 - [Lossy CSS compression for fun and loss (or profit)](https://blog.danieljanus.pl/2024/01/26/lossy-css-compression/)
+- Jan 26 - [WASI 0.2.0 and Why It Matters](https://wasmcloud.com/blog/wasi-preview-2-officially-launches)
+- Jan 26 - [Oasis – a small, statically-linked Linux system](https://github.com/oasislinux/oasis)
+- Jan 26 - [TinySA – small spectrum analyzer and signal generator](https://www.tinysa.org/wiki/)
+- Jan 26 - [Artist trained rats to take selfies to make a point about social media](https://www.cbc.ca/radio/asithappens/rat-selfies-1.7093886)
 <!--END_SECTION:hn-->
 
 <!--
