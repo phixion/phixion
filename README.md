@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 25 - [Ex-sheriff's deputy behind SF jail 'fight club' scandal to be rehired](https://missionlocal.org/2024/01/sf-rehire-ex-sheriffs-deputy-fight-club-scandal/)
-- Jan 25 - [Two New Reasoning Methods from Google Research: COSP and USP](https://thesequence.substack.com/p/about-cosp-and-usp-two-new-llm-reasoning)
-- Jan 25 - [Universal Self-Adaptive Prompting](https://arxiv.org/abs/2305.14926)
-- Jan 25 - [The new architecture wars](https://aeon.co/essays/the-architectural-style-wars-have-started-all-over-again)
-- Jan 25 - [The lithium revolution has arrived at California's Salton Sea](https://www.latimes.com/environment/newsletter/2024-01-25/column-the-lithium-revolution-has-arrived-at-californias-salton-sea-boiling-point)
+- Jan 25 - [Fortnite to Return to iOS in Europe Following App Store Changes](https://www.macrumors.com/2024/01/25/fortnite-returning-to-ios-in-europe/)
+- Jan 25 - [Show HN: NativeVision, helping React Native devs to build XR apps for any device](https://github.com/NativeVision/viro)
+- Jan 25 - [Show HN: Qwertle, yet another daily word game](https://qwertle.friedman.in)
+- Jan 25 - [Improbable Island, one of the largest and longest-running online text adventures](https://www.improbableisland.com)
+- Jan 25 - [Unsafe at Any Speed: Tradeoffs and Values in the Rust Ecosystem](https://bitbashing.io/rust-http.html)
 <!--END_SECTION:hn-->
 
 <!--
