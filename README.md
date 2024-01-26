@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 25 - [Fortnite to Return to iOS in Europe Following App Store Changes](https://www.macrumors.com/2024/01/25/fortnite-returning-to-ios-in-europe/)
-- Jan 25 - [Show HN: NativeVision, helping React Native devs to build XR apps for any device](https://github.com/NativeVision/viro)
-- Jan 25 - [Show HN: Qwertle, yet another daily word game](https://qwertle.friedman.in)
-- Jan 25 - [Improbable Island, one of the largest and longest-running online text adventures](https://www.improbableisland.com)
-- Jan 25 - [Unsafe at Any Speed: Tradeoffs and Values in the Rust Ecosystem](https://bitbashing.io/rust-http.html)
+- Jan 26 - [Rich People Don't Talk to Robots](https://www.downtownjoshbrown.com/p/rich-people-dont-talk-robots)
+- Jan 26 - [India's courts to rule on who invented butter chicken](https://www.theguardian.com/world/2024/jan/25/indias-courts-to-rule-on-who-invented-butter-chicken)
+- Jan 26 - [Portable EPUBs](https://willcrichton.net/notes/portable-epubs/#epub-content%2FEPUB%2Findex.xhtml$)
+- Jan 26 - [I don't always use LaTeX, but when I do, I compile to HTML (2013)](https://www.peterkrautzberger.org/0136/)
+- Jan 26 - [Doctor Droid (YC W23) Is Hiring in Bangalore](https://www.ycombinator.com/companies/doctor-droid/jobs/YhEZ6dZ-nlp-engineer)
 <!--END_SECTION:hn-->
 
 <!--
