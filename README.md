@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 27 - [ChatGPT clone in 30 minutes on AWS Kubernetes](https://medium.com/@cluster.dev/kubernetes-infrastructure-for-hugging-face-models-and-chat-with-cluster-dev-580050c29db5)
-- Jan 27 - [Building a Password Cracker in 2024](https://www.sevnx.com/blog/post/building-a-password-cracker)
-- Jan 27 - [Zig Roadmap 2024 [video]](https://www.youtube.com/watch?v=5eL_LcxwwHg)
-- Jan 27 - [All 7 planets could fit between Earth and the Moon](https://old.reddit.com/r/woahdude/comments/26i61g/our_seven_fellow_planets_could_fit_end_to_end/)
-- Jan 27 - [Brave Leo now uses Mixtral 8x7B as default](https://brave.com/leo-mixtral/)
+- Jan 27 - [Disney Unveils the HoloTile Floor, Inching Us Closer to a Real-Life Holodeck](https://www.ign.com/articles/disney-unveils-the-holotile-floor-inching-us-closer-to-a-real-life-holodeck)
+- Jan 27 - [Alan Watts, for all his faults, was an imaginative and provocative thinker](https://aeon.co/essays/how-alan-watts-re-imagined-religion-desire-and-life-itself)
+- Jan 27 - [Meta would owe Apple 70M per year just for having Facebook on iOS](https://www.theverge.com/2024/1/26/24051823/apple-third-party-app-stores-50-cent-fee)
+- Jan 27 - [Opening night at the Apollo Theater, 90 years ago](https://untappedcities.com/2024/01/26/opening-night-apollo-theater/)
+- Jan 27 - [The Ur Programming Language Family](http://impredicative.com/ur/)
 <!--END_SECTION:hn-->
 
 <!--
