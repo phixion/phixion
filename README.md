@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 26 - [The NSA buys Americans' internet data, newly released documents show](https://www.cnn.com/2024/01/26/tech/the-nsa-buys-americans-internet-data-newly-released-documents-show/index.html)
-- Jan 26 - [Epic Games CEO Likens Apple's Core Tech Fee to Unity's Disastrous Runtime Fee](https://twitter.com/TimSweeneyEpic/status/1750661023936209400)
-- Jan 26 - [Microsoft Teams outage causes connection issues, message delays](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outage-causes-connection-issues-message-delays/)
-- Jan 26 - [PC Magazine, PC World, and Macworld's Origins, as Told by David Bunnell](https://technologizer.com/2024/01/20/the-inside-story-of-pc-magazine-pc-world-and-macworlds-origins-as-told-by-david-bunnell/)
-- Jan 26 - [Show HN: PHP API Bindings for Open Brewery DB](https://github.com/JoeyMckenzie/openbrewerydb-php-api)
+- Jan 26 - [The Right It: Why So Many Ideas Fail and How to Make Sure Yours Succeed](https://www.albertosavoia.com/therightit.html)
+- Jan 26 - [2024 IEEE Medal of Honor Goes to Bob Kahn](https://spectrum.ieee.org/medal-of-honor-bob-kahn)
+- Jan 26 - [Dangerous chemicals found in recycled plastics, making them unsafe for use](https://theconversation.com/dangerous-chemicals-found-in-recycled-plastics-making-them-unsafe-for-use-experts-explain-the-hazards-220498)
+- Jan 26 - [Netflix Hammers the Last Nail into Linear TV's Coffin](https://www.bloomberg.com/opinion/articles/2024-01-26/netflix-offers-subscribers-a-whole-cable-bundle)
+- Jan 26 - [Modern Treasury (YC S18) Is Hiring a Design Engineer](https://jobs.ashbyhq.com/moderntreasury/279437f2-0671-403c-b9f5-716ed9a54845)
 <!--END_SECTION:hn-->
 
 <!--
