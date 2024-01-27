@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 27 - [ChatGPT clone in 30 minutes on AWS Kubernetes](https://medium.com/@cluster.dev/kubernetes-infrastructure-for-hugging-face-models-and-chat-with-cluster-dev-580050c29db5)
+- Jan 27 - [Building a Password Cracker in 2024](https://www.sevnx.com/blog/post/building-a-password-cracker)
+- Jan 27 - [Zig Roadmap 2024 [video]](https://www.youtube.com/watch?v=5eL_LcxwwHg)
 - Jan 27 - [All 7 planets could fit between Earth and the Moon](https://old.reddit.com/r/woahdude/comments/26i61g/our_seven_fellow_planets_could_fit_end_to_end/)
-- Jan 27 - [Android now lets you transfer eSIMs between your phones](https://www.androidpolice.com/android-esim-transfer-tool/)
-- Jan 27 - [Cruise wasn't hiding accident video from regulators – it had bad internet](https://www.theverge.com/2024/1/25/24050791/cruise-pedestrian-dragging-video-driverless-report)
-- Jan 27 - [The FCC Is Taking Steps to Wind Down the Affordable Connectivity Program](https://www.fcc.gov/fcc-taking-steps-wind-down-affordable-connectivity-program)
-- Jan 27 - [Proposed top-level domain string for private use: ".internal"](https://www.icann.org/en/public-comment/proceeding/proposed-top-level-domain-string-for-private-use-24-01-2024)
+- Jan 27 - [Brave Leo now uses Mixtral 8x7B as default](https://brave.com/leo-mixtral/)
 <!--END_SECTION:hn-->
 
 <!--
