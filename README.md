@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 27 - [Gitlab password reset bug leaves more than 5.3K servers up for grabs](https://www.scmagazine.com/news/gitlab-password-reset-bug-leaves-more-than-5-3k-servers-up-for-grabs)
-- Jan 27 - [Android Studio for Platform](https://developer.android.com/studio/platform)
-- Jan 27 - [Using AI to teach how to code, remember you still need to think for yourself](https://www.theregister.com/2024/01/27/ai_coding_automatic/)
-- Jan 27 - [In major gaffe, hacked Microsoft test account was assigned admin privileges](https://arstechnica.com/security/2024/01/in-major-gaffe-hacked-microsoft-test-account-was-assigned-admin-privileges/)
-- Jan 27 - [Is it insider trading if I bought Boeing puts while inside the wrecked airplane?](https://law.stackexchange.com/questions/98706/is-it-insider-trading-if-i-bought-boeing-puts-while-i-am-inside-the-wrecked-airp)
+- Jan 27 - [Growing number of apps help automate pro-Israel activism online](https://www.washingtonpost.com/technology/2024/01/24/gaza-israel-activism-online/)
+- Jan 27 - [Rising Leqembi Prescriptions Are Straining Clinic Capacity](https://www.alzforum.org/news/community-news/rising-leqembi-prescriptions-are-straining-clinic-capacity)
+- Jan 27 - [The 100MHz 6502 (2022)](https://www.e-basteln.de/computing/65f02/65f02/)
+- Jan 27 - [Nuclear Plant Could Bring 1,600 Jobs to Kemmerer, Wyoming](https://cowboystatedaily.com/2024/01/25/nuclear-plant-could-bring-1-600-jobs-for-kemmerer-pop-2-500/)
+- Jan 27 - [Studying species in the deepest parts of the ocean: A new method of analysis](https://nautil.us/its-like-youre-a-space-explorer-encountering-aliens-500550/)
 <!--END_SECTION:hn-->
 
 <!--
