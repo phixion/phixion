@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 27 - [Growing number of apps help automate pro-Israel activism online](https://www.washingtonpost.com/technology/2024/01/24/gaza-israel-activism-online/)
-- Jan 27 - [Rising Leqembi Prescriptions Are Straining Clinic Capacity](https://www.alzforum.org/news/community-news/rising-leqembi-prescriptions-are-straining-clinic-capacity)
-- Jan 27 - [The 100MHz 6502 (2022)](https://www.e-basteln.de/computing/65f02/65f02/)
-- Jan 27 - [Nuclear Plant Could Bring 1,600 Jobs to Kemmerer, Wyoming](https://cowboystatedaily.com/2024/01/25/nuclear-plant-could-bring-1-600-jobs-for-kemmerer-pop-2-500/)
-- Jan 27 - [Studying species in the deepest parts of the ocean: A new method of analysis](https://nautil.us/its-like-youre-a-space-explorer-encountering-aliens-500550/)
+- Jan 28 - [U.S. Army Drops Requirement for High School Diploma Amid Recruiting Crisis](https://www.military.com/daily-news/2022/06/24/army-drops-requirement-high-school-diploma-amid-recruiting-crisis.html)
+- Jan 28 - [Are we past peak IPv4?](https://www.sidn.nl/en/news-and-blogs/are-we-past-peak-ipv4)
+- Jan 28 - [Solid-State EV Batteries Now Face "Production Hell"](https://spectrum.ieee.org/solid-state-battery-production-challenges)
+- Jan 28 - [Hermit crabs are using trash as shells](https://www.bbc.com/news/science-environment-68071695.amp)
+- Jan 28 - [Nitter Shutting Down](https://nitter.d420.de)
 <!--END_SECTION:hn-->
 
 <!--
