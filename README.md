@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 28 - [In case you missed it: America got much bigger continental shelf](https://bigthink.com/strange-maps/extended-continental-shelf/)
-- Jan 28 - [Breaking SecuROM 7 – A Dissection](https://lostfilearchives.github.io/08/28/Dissection/)
-- Jan 28 - [I looked through attacks in my access logs](https://nishtahir.com/i-looked-through-attacks-in-my-access-logs-heres-what-i-found/)
-- Jan 28 - [SpatiaLite: Library extending SQLite to support Spatial SQL capabilities](https://www.gaia-gis.it/fossil/libspatialite/index)
-- Jan 28 - [Rowhammer Resistant Coding in Sudo](https://github.com/sudo-project/sudo/commit/7873f8334c8d31031f8cfa83bd97ac6029309e4f)
+- Jan 28 - [General purpose MCUs built in to LEDs emulate candle flicker](https://cpldcpu.wordpress.com/2024/01/14/revisiting-candle-flicker-leds-now-with-integrated-timer/)
+- Jan 28 - [I Need to Grow Away from These Roots](https://www.vitling.xyz/i-need-to-grow-away-from-these-roots/)
+- Jan 28 - [Tech Layoffs Not Tied to Economic Struggles, but AI Investments](https://decodetoday.com/tech-layoffs-due-to-ai/)
+- Jan 28 - [Fungi survives outside international space station](https://www.agenciasinc.es/en/News/Antarctic-fungi-survive-Martian-conditions-on-the-International-Space-Station)
+- Jan 28 - [Milwaukee reporter investigates cousin's 1978 car bombing death](https://www.jsonline.com/story/news/investigations/2024/01/17/milwaukee-reporter-investigates-cousins-1978-car-bombing-death/71883074007/)
 <!--END_SECTION:hn-->
 
 <!--
