@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 28 - [Ask HN: Those who've joined a friend's startup as an employee, how did that go?](https://news.ycombinator.com/item?id=39171079)
-- Jan 28 - [GitHub Spam](https://djanes.xyz/spam-on-github-is-getting-crazy-these-days/)
-- Jan 28 - [Navy again lowers requirements as it struggles to meet recruitment goals](https://www.stripes.com/branches/navy/2024-01-26/navy-lowers-education-requirements-recruitment-struggles-12806279.html)
-- Jan 28 - [How the FBI targeted Camus, and then Sartre after the JFK assassination (2013)](https://www.openculture.com/2013/11/the-existentialism-files-how-the-fbi-targeted-camus-and-sartre.html)
-- Jan 28 - [General purpose MCUs built in to LEDs emulate candle flicker](https://cpldcpu.wordpress.com/2024/01/14/revisiting-candle-flicker-leds-now-with-integrated-timer/)
+- Jan 29 - [Ask HN: How to deploy money effectively to save time and build a business?](https://news.ycombinator.com/item?id=39172196)
+- Jan 29 - [Hell is other people: performance management at Big Tech](https://lcamtuf.substack.com/p/hell-is-other-people-performance)
+- Jan 29 - [Ask HN: How to re-kindle my interest in computer science?](https://news.ycombinator.com/item?id=39171586)
+- Jan 28 - [Show HN: Librarian - Semantic Bookmark Search Using Transformers](https://github.com/oto-labs/librarian)
+- Jan 28 - [Two handy GDB breakpoint tricks](https://nullprogram.com/blog/2024/01/28/)
 <!--END_SECTION:hn-->
 
 <!--
