@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 29 - [Paintings of the Traditional Porcelain Process](https://www.derekau.net/blog/2019/07/10/paintings-of-the-traditional-porcelain-process)
-- Jan 29 - [Why focus on AI meeting transcripts if the real problem is bad meeting prep?](https://www.meetrics.ai/)
-- Jan 29 - [Coding on Copilot: Data suggests downward pressure on code quality](https://www.gitclear.com/coding_on_copilot_data_shows_ais_downward_pressure_on_code_quality)
-- Jan 29 - [The Apple Vision Pro’s missing apps](https://stratechery.com/2024/the-apple-vision-pros-missing-apps/)
-- Jan 29 - [Why Walmart pays its truck drivers 6 figures](https://www.freightwaves.com/news/how-walmart-uses-trucking-to-dominate-american-retail)
+- Jan 29 - [Show HN: Boardzilla, a framework for making web-based board games](https://www.boardzilla.io/)
+- Jan 29 - [Darknetlive Sold to Incognito Market](https://darkdot.com/articles/darknetlive-sold/)
+- Jan 29 - [Evergrande, once China's biggest property developer, ordered to liquidate](https://www.wsj.com/articles/evergrande-faces-imminent-liquidation-after-talks-with-top-creditors-break-down-4af5f657)
+- Jan 29 - [The Amiga as a computer built to last 50 years](https://www.datagubbe.se/30yearcomp/)
+- Jan 29 - [Ask HN: What are some homeless shelter innovations?](https://news.ycombinator.com/item?id=39180155)
 <!--END_SECTION:hn-->
 
 <!--
