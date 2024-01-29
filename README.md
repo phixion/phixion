@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 29 - [Ask HN: How to deploy money effectively to save time and build a business?](https://news.ycombinator.com/item?id=39172196)
-- Jan 29 - [Hell is other people: performance management at Big Tech](https://lcamtuf.substack.com/p/hell-is-other-people-performance)
-- Jan 29 - [Ask HN: How to re-kindle my interest in computer science?](https://news.ycombinator.com/item?id=39171586)
-- Jan 28 - [Show HN: Librarian - Semantic Bookmark Search Using Transformers](https://github.com/oto-labs/librarian)
-- Jan 28 - [Two handy GDB breakpoint tricks](https://nullprogram.com/blog/2024/01/28/)
+- Jan 29 - [Ubuntu Looking at Applying Low-Latency Optimizations to Its Generic Kernel](https://www.phoronix.com/news/Ubuntu-Low-Lat-Generic-Kernel)
+- Jan 29 - [Global Room-Temperature Superconductivity in Graphite](https://onlinelibrary.wiley.com/doi/10.1002/qute.202300230)
+- Jan 29 - [Google Crimes](http://xahlee.info/w/google_index.html)
+- Jan 29 - [Why is Maxwell's theory so hard to understand? (2007) [pdf]](https://www.damtp.cam.ac.uk/user/tong/em/dyson.pdf)
+- Jan 29 - [Eagle 7B: Soaring past Transformers](https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers)
 <!--END_SECTION:hn-->
 
 <!--
