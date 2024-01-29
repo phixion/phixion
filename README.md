@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 29 - [Harmonics Explorer](https://teropa.info/harmonics-explorer/)
-- Jan 29 - [Japan: Moon lander Slim comes back to life and resumes mission](https://www.bbc.co.uk/news/world-asia-68125589)
-- Jan 29 - [linefont: Font for rendering line chart data](https://github.com/dy/linefont)
-- Jan 29 - [Modern CSS One-Line Upgrades](https://moderncss.dev/12-modern-css-one-line-upgrades/)
-- Jan 29 - [Ubuntu Looking at Applying Low-Latency Optimizations to Its Generic Kernel](https://www.phoronix.com/news/Ubuntu-Low-Lat-Generic-Kernel)
+- Jan 29 - [Paintings of the Traditional Porcelain Process](https://www.derekau.net/blog/2019/07/10/paintings-of-the-traditional-porcelain-process)
+- Jan 29 - [Why focus on AI meeting transcripts if the real problem is bad meeting prep?](https://www.meetrics.ai/)
+- Jan 29 - [Coding on Copilot: Data suggests downward pressure on code quality](https://www.gitclear.com/coding_on_copilot_data_shows_ais_downward_pressure_on_code_quality)
+- Jan 29 - [The Apple Vision Pro’s missing apps](https://stratechery.com/2024/the-apple-vision-pros-missing-apps/)
+- Jan 29 - [Why Walmart pays its truck drivers 6 figures](https://www.freightwaves.com/news/how-walmart-uses-trucking-to-dominate-american-retail)
 <!--END_SECTION:hn-->
 
 <!--
