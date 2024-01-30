@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 30 - [Pub400.com – Your public IBM I 7.5 server](https://pub400.com/)
-- Jan 30 - [Boeing withdraws bid for safety exemption for Boeing 737 MAX 7](https://www.reuters.com/business/aerospace-defense/boeing-withdraws-bid-safety-exemption-boeing-737-max-7-2024-01-30/)
-- Jan 30 - [Protecting Secrets from Computers (2023)](https://dl.acm.org/doi/10.1145/3623614)
-- Jan 30 - [Dracula Theme for Hacker News](https://draculatheme.com/hacker-news)
-- Jan 30 - [Researchers have found a faster way to do integer linear programming](https://www.quantamagazine.org/researchers-approach-new-speed-limit-for-seminal-problem-20240129/)
+- Jan 30 - [Inside the Music Industry's High-Stakes A.I. Experiments](https://www.newyorker.com/magazine/2024/02/05/inside-the-music-industrys-high-stakes-ai-experiments)
+- Jan 30 - [Show HN: TLD Squatting](https://captnemo.in/tld-squatting/)
+- Jan 30 - [Patients say keto helps with mental illness. Science is racing to understand why](https://www.npr.org/sections/health-shots/2024/01/27/1227062470/keto-ketogenic-diet-mental-illness-bipolar-depression)
+- Jan 30 - [Periodontal Disease Promotes Alzheimer's in Mice](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-023-02821-x)
+- Jan 30 - [Everyone hates the electronic medical record](https://logicmag.io/policy/why-everyone-hates-the-electronic-medical-record/)
 <!--END_SECTION:hn-->
 
 <!--
