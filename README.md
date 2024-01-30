@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 29 - [The FAA's Hiring Scandal: A Quick Overview](https://www.tracingwoodgrains.com/p/the-faas-hiring-scandal-a-quick-overview)
-- Jan 29 - [It looks like AI will kill Quantum Computing](https://www.youtube.com/watch?v=Q8A4wEohqT0)
-- Jan 29 - [Ask HN: Are you using a GPT to prompt-engineer another GPT?](https://news.ycombinator.com/item?id=39184149)
-- Jan 29 - [The first human received an implant from Neuralink yesterday](https://twitter.com/elonmusk/status/1752098683024220632)
-- Jan 29 - [An Introduction to the WARC File](https://archive-it.org/post/the-stack-warc-file/)
+- Jan 30 - [Pub400.com – Your public IBM I 7.5 server](https://pub400.com/)
+- Jan 30 - [Boeing withdraws bid for safety exemption for Boeing 737 MAX 7](https://www.reuters.com/business/aerospace-defense/boeing-withdraws-bid-safety-exemption-boeing-737-max-7-2024-01-30/)
+- Jan 30 - [Protecting Secrets from Computers (2023)](https://dl.acm.org/doi/10.1145/3623614)
+- Jan 30 - [Dracula Theme for Hacker News](https://draculatheme.com/hacker-news)
+- Jan 30 - [Researchers have found a faster way to do integer linear programming](https://www.quantamagazine.org/researchers-approach-new-speed-limit-for-seminal-problem-20240129/)
 <!--END_SECTION:hn-->
 
 <!--
