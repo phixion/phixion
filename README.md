@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 30 - [Ask HN: Would doing a coding bootcamp be a horrible idea?](https://news.ycombinator.com/item?id=39188657)
-- Jan 30 - [Quickemu: Quickly run optimised Windows, macOS and Linux virtual machines](https://github.com/quickemu-project/quickemu)
-- Jan 30 - [Men hand over Bitcoins worth two billion euros to German federal police](https://www.spiegel.de/netzwelt/web/movie2k-to-beschuldigter-uebergibt-bitcoins-im-wert-von-zwei-milliarden-euro-ans-bundeskriminalamt-a-66a34b4a-a01b-4edf-b622-cdbff14596dd)
-- Jan 30 - [Ryzen 8000G review: An integrated GPU that can beat a graphics card, for a price](https://arstechnica.com/gadgets/2024/01/ryzen-8000g-review-an-integrated-gpu-that-can-beat-a-graphics-card-for-a-price/)
-- Jan 30 - [How Will the Golden Age of "Making It Worse" End?](https://defector.com/how-will-the-golden-age-of-making-it-worse-end)
+- Jan 30 - [Hoover Free Flights Promotion](https://en.wikipedia.org/wiki/Hoover_free_flights_promotion)
+- Jan 30 - [Covid Test Data Breach: 1.3M Patient Records Exposed Online](https://www.vpnmentor.com/news/report-coronalab-breach/)
+- Jan 30 - [Safetyism Killed Playtime](https://unherd.com/2024/01/how-safetyism-killed-playtime/)
+- Jan 30 - [John Deere Announces Strategic Partnership with SpaceX](https://www.deere.com/en/news/all-news/john-deere-partnership-with-spacex/)
+- Jan 30 - [How to deal with receiving a cease-and-desist letter from Big Tech](https://12challenges.substack.com/p/how-to-deal-with-receiving-a-cease)
 <!--END_SECTION:hn-->
 
 <!--
