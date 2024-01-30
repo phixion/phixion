@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 30 - [Hoover Free Flights Promotion](https://en.wikipedia.org/wiki/Hoover_free_flights_promotion)
-- Jan 30 - [Covid Test Data Breach: 1.3M Patient Records Exposed Online](https://www.vpnmentor.com/news/report-coronalab-breach/)
-- Jan 30 - [Safetyism Killed Playtime](https://unherd.com/2024/01/how-safetyism-killed-playtime/)
-- Jan 30 - [John Deere Announces Strategic Partnership with SpaceX](https://www.deere.com/en/news/all-news/john-deere-partnership-with-spacex/)
-- Jan 30 - [How to deal with receiving a cease-and-desist letter from Big Tech](https://12challenges.substack.com/p/how-to-deal-with-receiving-a-cease)
+- Jan 30 - [The five Gaits of the Icelandic horse](https://islandshestar.is/the-five-gaits-of-the-icelandic-horse/)
+- Jan 30 - [Gitstr: Send and receive Git patches over Nostr](https://github.com/fiatjaf/gitstr)
+- Jan 30 - [The Soviet 1801VM2 LSI-11 Processor (2021)](https://www.cpushack.com/2021/11/04/the-soviet-1801vm2-lsi-11-processor/)
+- Jan 30 - [Tear up unused parking lots and plant trees](https://danrodricks.com/2024/01/29/tear-up-unused-parking-lots-plant-trees/)
+- Jan 30 - [What the The end of 0% interest rates means for software engineers](https://newsletter.pragmaticengineer.com/p/zirp-software-engineers)
 <!--END_SECTION:hn-->
 
 <!--
