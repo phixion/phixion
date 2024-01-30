@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 29 - [Show HN: Boardzilla, a framework for making web-based board games](https://www.boardzilla.io/)
-- Jan 29 - [Darknetlive Sold to Incognito Market](https://darkdot.com/articles/darknetlive-sold/)
-- Jan 29 - [Evergrande, once China's biggest property developer, ordered to liquidate](https://www.wsj.com/articles/evergrande-faces-imminent-liquidation-after-talks-with-top-creditors-break-down-4af5f657)
-- Jan 29 - [The Amiga as a computer built to last 50 years](https://www.datagubbe.se/30yearcomp/)
-- Jan 29 - [Ask HN: What are some homeless shelter innovations?](https://news.ycombinator.com/item?id=39180155)
+- Jan 29 - [The FAA's Hiring Scandal: A Quick Overview](https://www.tracingwoodgrains.com/p/the-faas-hiring-scandal-a-quick-overview)
+- Jan 29 - [It looks like AI will kill Quantum Computing](https://www.youtube.com/watch?v=Q8A4wEohqT0)
+- Jan 29 - [Ask HN: Are you using a GPT to prompt-engineer another GPT?](https://news.ycombinator.com/item?id=39184149)
+- Jan 29 - [The first human received an implant from Neuralink yesterday](https://twitter.com/elonmusk/status/1752098683024220632)
+- Jan 29 - [An Introduction to the WARC File](https://archive-it.org/post/the-stack-warc-file/)
 <!--END_SECTION:hn-->
 
 <!--
