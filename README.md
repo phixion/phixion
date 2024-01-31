@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 30 - [The five Gaits of the Icelandic horse](https://islandshestar.is/the-five-gaits-of-the-icelandic-horse/)
-- Jan 30 - [Gitstr: Send and receive Git patches over Nostr](https://github.com/fiatjaf/gitstr)
-- Jan 30 - [The Soviet 1801VM2 LSI-11 Processor (2021)](https://www.cpushack.com/2021/11/04/the-soviet-1801vm2-lsi-11-processor/)
-- Jan 30 - [Tear up unused parking lots and plant trees](https://danrodricks.com/2024/01/29/tear-up-unused-parking-lots-plant-trees/)
-- Jan 30 - [What the The end of 0% interest rates means for software engineers](https://newsletter.pragmaticengineer.com/p/zirp-software-engineers)
+- Jan 30 - [Intel's Humbling](https://stratechery.com/2024/intels-humbling/)
+- Jan 30 - [USCIS Announces Strengthened Integrity Measures for H-1B Program](https://www.uscis.gov/newsroom/news-releases/uscis-announces-strengthened-integrity-measures-for-h-1b-program)
+- Jan 30 - [The business of check cashing](https://www.bitsaboutmoney.com/archive/the-business-of-check-cashing/)
+- Jan 30 - [Proton, a fast and lightweight alternative to Apache Flink](https://github.com/timeplus-io/proton)
+- Jan 30 - [NASA's Webb depicts structure in 19 nearby spiral galaxies](https://webbtelescope.org/contents/news-releases/2024/news-2024-105?news=true)
 <!--END_SECTION:hn-->
 
 <!--
