@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 31 - [No One Should Be the Second Person to Die on a Dangerous Street](https://www.strongtowns.org/journal/2024/1/26/no-one-should-be-the-second-person-to-die-on-a-dangerous-street)
-- Jan 31 - [The Average American Spends $3.3M over Their Lifetime](https://www.nasdaq.com/articles/the-average-american-spends-$3.3-million-over-their-lifetime:-see-how-that-breaks-down)
-- Jan 31 - [A Trojan approach to guide and trap light beams via Lagrange points](https://phys.org/news/2024-01-trojan-approach-lagrange.html)
-- Jan 31 - [Google Search Drops Cache Link from Search Results](https://www.seroundtable.com/google-search-drops-cache-link-from-search-results-36787.html)
-- Jan 30 - [Intel's Humbling](https://stratechery.com/2024/intels-humbling/)
+- Jan 31 - [HTTP Area Codes](https://dougsillars.github.io/httpareacodes/)
+- Jan 31 - [XFaaS: Hyperscale and Low Cost Serverless Functions at Meta](https://www.micahlerner.com/2024/01/23/xfaas-hyperscale-and-low-cost-serverless-functions-at-meta.html)
+- Jan 31 - [Satellites Are Becoming the New Cellphone Towers](https://spectrum.ieee.org/satellite-cellphone-starlink)
+- Jan 31 - [Epitaph – Fermi Paradox Simulator](https://mkremins.github.io/epitaph/)
+- Jan 31 - [Getting fitter can reduce prostate cancer risk by 35%, study finds](https://www.theguardian.com/society/2024/jan/30/getting-fitter-can-reduce-prostate-cancer-risk-by-35-study-finds)
 <!--END_SECTION:hn-->
 
 <!--
