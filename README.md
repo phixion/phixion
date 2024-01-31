@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 31 - [Infinite Craft](https://neal.fun/infinite-craft/)
-- Jan 31 - [Jones Act Contributions to Offshore Wind Difficulties](https://www.cato.org/blog/jones-act-contributes-offshore-wind-growing-pains)
-- Jan 31 - [Adobe Gives Up on Web-Design Product to Rival Figma After Deal Collapse](https://www.bloomberg.com/news/articles/2024-01-30/adobe-gives-up-on-xd-after-figma-deal-collapse)
-- Jan 31 - [RavenDB 6.0.2 (A Jepsen Report)](https://jepsen.io/analyses/ravendb-6.0.2)
-- Jan 31 - [Macaroons Escalated Quickly](https://fly.io/blog/macaroons-escalated-quickly/)
+- Jan 31 - [Mistral CEO confirms 'leak' of new open source AI model nearing GPT4 performance](https://venturebeat.com/ai/mistral-ceo-confirms-leak-of-new-open-source-ai-model-nearing-gpt-4-performance/)
+- Jan 31 - [Give AI curiosity, and it will watch TV forever (2018)](https://qz.com/1366484/give-ai-curiosity-and-it-will-watch-tv-forever)
+- Jan 31 - [Kando: The Cross-Platform Pie Menu](https://github.com/kando-menu/kando)
+- Jan 31 - [Hearing aids slow cognitive decline in people at high risk](https://www.nih.gov/news-events/nih-research-matters/hearing-aids-slow-cognitive-decline-people-high-risk)
+- Jan 31 - [Peppermint: Open Source Helpdesk Solution](https://peppermint.sh/)
 <!--END_SECTION:hn-->
 
 <!--
