@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 31 - [No One Should Be the Second Person to Die on a Dangerous Street](https://www.strongtowns.org/journal/2024/1/26/no-one-should-be-the-second-person-to-die-on-a-dangerous-street)
+- Jan 31 - [The Average American Spends $3.3M over Their Lifetime](https://www.nasdaq.com/articles/the-average-american-spends-$3.3-million-over-their-lifetime:-see-how-that-breaks-down)
+- Jan 31 - [A Trojan approach to guide and trap light beams via Lagrange points](https://phys.org/news/2024-01-trojan-approach-lagrange.html)
+- Jan 31 - [Google Search Drops Cache Link from Search Results](https://www.seroundtable.com/google-search-drops-cache-link-from-search-results-36787.html)
 - Jan 30 - [Intel's Humbling](https://stratechery.com/2024/intels-humbling/)
-- Jan 30 - [USCIS Announces Strengthened Integrity Measures for H-1B Program](https://www.uscis.gov/newsroom/news-releases/uscis-announces-strengthened-integrity-measures-for-h-1b-program)
-- Jan 30 - [The business of check cashing](https://www.bitsaboutmoney.com/archive/the-business-of-check-cashing/)
-- Jan 30 - [Proton, a fast and lightweight alternative to Apache Flink](https://github.com/timeplus-io/proton)
-- Jan 30 - [NASA's Webb depicts structure in 19 nearby spiral galaxies](https://webbtelescope.org/contents/news-releases/2024/news-2024-105?news=true)
 <!--END_SECTION:hn-->
 
 <!--
