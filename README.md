@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 01 - [Gary Bowser and gaming's most infamous piracy case](https://www.theguardian.com/games/2024/feb/01/the-man-who-owes-nintendo-14m-gary-bowser-and-gamings-most-infamous-piracy-case)
+- Feb 01 - [Across the country, houses of worship are going solar](https://grist.org/buildings/more-churches-plugging-solar-power/)
+- Feb 01 - [PDF file is its own original soundtrack](https://www.lab6.com/6)
+- Feb 01 - [UK Wind Farms Are Overstating Their Output](https://www.bloomberg.com/graphics/2024-uk-wind-farms-overstate-output/)
 - Feb 01 - [PhotoRoom (YC S20) Is Hiring an API Designer in Paris (Node, Rust)](https://news.ycombinator.com/item?id=39213421)
-- Feb 01 - [Marlon Brando Was a Secret Tech Geek and Photoshop Ace](https://www.yahoo.com/entertainment/marlon-brando-was-a-secret-tech-geek-and-photoshop-124061824672.html)
-- Feb 01 - [RFC: Rust Has Provenance](https://github.com/rust-lang/rfcs/pull/3559)
-- Feb 01 - [Matryoshka Representation Learning](https://arxiv.org/abs/2205.13147)
-- Feb 01 - [Show HN: Lockbox: forward proxy for making third party API calls](https://github.com/mkjt2/lockbox)
 <!--END_SECTION:hn-->
 
 <!--
