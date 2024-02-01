@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 01 - [Bard's latest updates: Access Gemini Pro globally and generate images](https://blog.google/products/bard/google-bard-gemini-pro-image-generation/)
-- Feb 01 - [When the Mac Was a Munition](https://newsletter.pessimistsarchive.org/p/when-the-mac-was-a-munition)
-- Feb 01 - [What Makes for 'Good' Mathematics?](https://www.quantamagazine.org/what-makes-for-good-mathematics-20240201/)
-- Feb 01 - [Lifestance: A mental health rollup headed for a breakdown](https://hindenburgresearch.com/lifestance/)
-- Feb 01 - ['I should not have written 'A Clockwork Orange''](https://english.elpais.com/culture/2024-01-29/i-should-not-have-written-a-clockwork-orange-how-anthony-burgess-came-to-disown-his-own-novel.html)
+- Feb 01 - [U.S. Corporations Are Openly Trying to Destroy Core Public Institutions](https://www.vice.com/en/article/v7bnyb/meta-spacex-lawsuits-declaring-ftc-nlrb-unconstitutional)
+- Feb 01 - [What Is an Electronic Sackbut?](https://spectrum.ieee.org/electronic-music)
+- Feb 01 - [240-Gbit/s sub-THz wireless communications using ultra-low phase noise receiver](https://www.jstage.jst.go.jp/article/elex/advpub/0/advpub_20.20230584/_article)
+- Feb 01 - [CyberChef from GCHQ: The Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/)
+- Feb 01 - [Starlink's Laser System Is Beaming 42 Petabytes of Data per Day](https://www.pcmag.com/news/starlinks-laser-system-is-beaming-42-million-gb-of-data-per-day)
 <!--END_SECTION:hn-->
 
 <!--
