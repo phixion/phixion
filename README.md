@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 31 - [Why You Should Be a Luddite](https://www.currentaffairs.org/2024/01/why-you-should-be-a-luddite)
-- Jan 31 - [Ars Technica used in malware campaign with never-before-seen obfuscation](https://arstechnica.com/security/2024/01/ars-technica-used-in-malware-campaign-with-never-before-seen-obfuscation/)
+- Feb 01 - [Amazon left Roomba with a huge mess to clean up](https://www.theverge.com/2024/1/31/24057077/irobot-amazon-deal-collapse-roomba-uncertain-future)
+- Feb 01 - [Show HN: Lockbox: forward proxy for making third party API calls](https://github.com/mkjt2/lockbox)
+- Feb 01 - [Gnuplotlib: Non-Painful Plotting for NumPy](https://github.com/dkogan/gnuplotlib)
 - Jan 31 - [Making a PDF that's larger than Germany](https://alexwlchan.net/2024/big-pdf/)
 - Jan 31 - [MobileDiffusion: Rapid text-to-image generation on-device](https://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html)
-- Jan 31 - [Visual Analysis of Binary Files](http://binvis.io/#/)
 <!--END_SECTION:hn-->
 
 <!--
