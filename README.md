@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 01 - [Amazon left Roomba with a huge mess to clean up](https://www.theverge.com/2024/1/31/24057077/irobot-amazon-deal-collapse-roomba-uncertain-future)
+- Feb 01 - [PhotoRoom (YC S20) Is Hiring an API Designer in Paris (Node, Rust)](https://news.ycombinator.com/item?id=39213421)
+- Feb 01 - [Marlon Brando Was a Secret Tech Geek and Photoshop Ace](https://www.yahoo.com/entertainment/marlon-brando-was-a-secret-tech-geek-and-photoshop-124061824672.html)
+- Feb 01 - [RFC: Rust Has Provenance](https://github.com/rust-lang/rfcs/pull/3559)
+- Feb 01 - [Matryoshka Representation Learning](https://arxiv.org/abs/2205.13147)
 - Feb 01 - [Show HN: Lockbox: forward proxy for making third party API calls](https://github.com/mkjt2/lockbox)
-- Feb 01 - [Gnuplotlib: Non-Painful Plotting for NumPy](https://github.com/dkogan/gnuplotlib)
-- Jan 31 - [Making a PDF that's larger than Germany](https://alexwlchan.net/2024/big-pdf/)
-- Jan 31 - [MobileDiffusion: Rapid text-to-image generation on-device](https://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html)
 <!--END_SECTION:hn-->
 
 <!--
