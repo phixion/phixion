@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 01 - [Gary Bowser and gaming's most infamous piracy case](https://www.theguardian.com/games/2024/feb/01/the-man-who-owes-nintendo-14m-gary-bowser-and-gamings-most-infamous-piracy-case)
-- Feb 01 - [Across the country, houses of worship are going solar](https://grist.org/buildings/more-churches-plugging-solar-power/)
-- Feb 01 - [PDF file is its own original soundtrack](https://www.lab6.com/6)
-- Feb 01 - [UK Wind Farms Are Overstating Their Output](https://www.bloomberg.com/graphics/2024-uk-wind-farms-overstate-output/)
-- Feb 01 - [PhotoRoom (YC S20) Is Hiring an API Designer in Paris (Node, Rust)](https://news.ycombinator.com/item?id=39213421)
+- Feb 01 - [Bard's latest updates: Access Gemini Pro globally and generate images](https://blog.google/products/bard/google-bard-gemini-pro-image-generation/)
+- Feb 01 - [When the Mac Was a Munition](https://newsletter.pessimistsarchive.org/p/when-the-mac-was-a-munition)
+- Feb 01 - [What Makes for 'Good' Mathematics?](https://www.quantamagazine.org/what-makes-for-good-mathematics-20240201/)
+- Feb 01 - [Lifestance: A mental health rollup headed for a breakdown](https://hindenburgresearch.com/lifestance/)
+- Feb 01 - ['I should not have written 'A Clockwork Orange''](https://english.elpais.com/culture/2024-01-29/i-should-not-have-written-a-clockwork-orange-how-anthony-burgess-came-to-disown-his-own-novel.html)
 <!--END_SECTION:hn-->
 
 <!--
