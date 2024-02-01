@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 31 - [Mistral CEO confirms 'leak' of new open source AI model nearing GPT4 performance](https://venturebeat.com/ai/mistral-ceo-confirms-leak-of-new-open-source-ai-model-nearing-gpt-4-performance/)
-- Jan 31 - [Give AI curiosity, and it will watch TV forever (2018)](https://qz.com/1366484/give-ai-curiosity-and-it-will-watch-tv-forever)
-- Jan 31 - [Kando: The Cross-Platform Pie Menu](https://github.com/kando-menu/kando)
-- Jan 31 - [Hearing aids slow cognitive decline in people at high risk](https://www.nih.gov/news-events/nih-research-matters/hearing-aids-slow-cognitive-decline-people-high-risk)
-- Jan 31 - [Peppermint: Open Source Helpdesk Solution](https://peppermint.sh/)
+- Jan 31 - [Why You Should Be a Luddite](https://www.currentaffairs.org/2024/01/why-you-should-be-a-luddite)
+- Jan 31 - [Ars Technica used in malware campaign with never-before-seen obfuscation](https://arstechnica.com/security/2024/01/ars-technica-used-in-malware-campaign-with-never-before-seen-obfuscation/)
+- Jan 31 - [Making a PDF that's larger than Germany](https://alexwlchan.net/2024/big-pdf/)
+- Jan 31 - [MobileDiffusion: Rapid text-to-image generation on-device](https://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html)
+- Jan 31 - [Visual Analysis of Binary Files](http://binvis.io/#/)
 <!--END_SECTION:hn-->
 
 <!--
