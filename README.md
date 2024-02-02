@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 02 - [The European regulators listened to the Open Source communities](https://blog.opensource.org/the-european-regulators-listened-to-the-open-source-communities/)
-- Feb 02 - [Juice – Oberon JIT browser plugin (1996)](https://www.modulaware.com/mdlt69.htm)
-- Feb 02 - [Bloop (YC S21) is hiring Rust engineers interested in compilers, in London](https://bloop.jobs.personio.com/job/1410410)
-- Feb 02 - [The Retro Web – Database, Docs, BIOS, Drivers, etc. for old PC Hardware](https://theretroweb.com/)
-- Feb 02 - [Juno – A YouTube Client for Vision Pro](https://christianselig.com/2024/02/introducing-juno/)
+- Feb 02 - [Open Source color palettes generator in HSLuv color space](https://github.com/saneef/color-color)
+- Feb 02 - [An alternative cause for the Great Stagnation: the cargo cult company](https://www.shyamsankar.com/p/technology-is-the-problem)
+- Feb 02 - [AWS charge for using IPv4 expected to bring $1B/year and speed up IPv6 adoption](https://www.tomshardware.com/networking/amazons-aws-new-charge-for-using-ipv4-is-expected-to-rake-in-up-to-dollar1b-per-year-change-should-speed-ipv6-adoption)
+- Feb 02 - [Messenger Implosion Shows Journalism Lead by Visionless, Fail-Upward Brunchlords](https://www.techdirt.com/2024/02/02/the-messenger-implosion-once-again-shows-the-real-problem-with-u-s-journalism-is-shitty-management-by-visionless-fail-upward-brunchlords/)
+- Feb 02 - [Bell's V-280 Valor Tiltrotor Picked as Army's Black Hawk Replacement (2022)](https://www.twz.com/bells-v-280-valor-tiltrotor-picked-as-armys-black-hawk-replacement)
 <!--END_SECTION:hn-->
 
 <!--
