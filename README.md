@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 03 - [AT&T applies to end obligation to service landlines in California](https://www.cbsnews.com/sacramento/news/at-t-applies-to-end-obligation-to-service-landlines/)
+- Feb 03 - [Goodbye Non-Kiss Appliances](https://willbush.dev/blog/complex-appliances/)
+- Feb 03 - [Over the Edge: The Use of Design Tactics to Undermine Browser Choice](https://research.mozilla.org/browser-competition/over-the-edge-the-use-of-design-tactics-to-undermine-browser-choice/)
+- Feb 03 - [Full $71M breakdown for The Village by M. Night Shyamalan (2003) [pdf]](https://wlmager.com/wp-content/uploads/2012/10/Budget-The-Village-Shyamalan-copy.pdf)
 - Feb 03 - [Designer News is dead](https://solomon.io/designer-news-is-dead/)
-- Feb 02 - [A decoder-only foundation model for time-series forecasting](https://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html)
-- Feb 02 - [SeaweedFS fast distributed storage system for blobs, objects, files and datalake](https://github.com/seaweedfs/seaweedfs)
-- Feb 02 - [Daunting papers/books and how to read them](https://mathoverflow.net/questions/463287/daunting-papers-books-and-how-to-finally-read-them)
-- Feb 02 - [Carl Weathers has died](https://www.bbc.co.uk/news/world-us-canada-68188746)
 <!--END_SECTION:hn-->
 
 <!--
