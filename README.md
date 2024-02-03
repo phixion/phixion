@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 02 - [Limitarianism: The Case Against Extreme Wealth: Ingrid Robeyns](https://www.hive.co.uk/Product/Ingrid-Robeyns/Limitarianism--The-Case-Against-Extreme-Wealth/28866492)
-- Feb 02 - [New Super Secret Surveillance Court Covering Old Super Secret Surveillance Court](https://www.techdirt.com/2024/02/02/we-shouldnt-allow-a-new-super-secret-surveillance-court-cover-up-the-civil-liberties-problems-of-the-old-super-secret-surveillance-court/)
-- Feb 02 - [Over 2 percent of the US's electricity generation now goes to Bitcoin](https://arstechnica.com/science/2024/02/over-2-percent-of-the-uss-electricity-generation-now-goes-to-bitcoin/)
-- Feb 02 - [Multi-channel Audio Part 2](https://computer.rip/2024-01-31-multi-channel-audio-part-2.html)
-- Feb 02 - [Show HN: The classic Minesweeper on an irregular grid](https://polyreplay.com/minesweepertwist)
+- Feb 02 - [A decoder-only foundation model for time-series forecasting](https://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html)
+- Feb 02 - [Does fluoride in drinking water lower IQ? Question looms large in court battle](https://www.science.org/content/article/does-fluoride-drinking-water-lower-iq-question-looms-large-court-battle)
+- Feb 02 - [SeaweedFS fast distributed storage system for blobs, objects, files and datalake](https://github.com/seaweedfs/seaweedfs)
+- Feb 02 - [Virtual Reality: still not quite there, again. – by Andrej Karpathy](https://karpathy.medium.com/virtual-reality-still-not-quite-there-again-5f51f2b43867)
+- Feb 02 - [Carl Weathers, Apollo Creed from Rocky movies, dies aged 76](https://www.bbc.co.uk/news/world-us-canada-68188746)
 <!--END_SECTION:hn-->
 
 <!--
