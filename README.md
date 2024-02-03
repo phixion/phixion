@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 03 - [Physical cash is dying–and you don't need to be a conspiracist to worry](https://www.prospectmagazine.co.uk/ideas/economics/64492/the-end-of-money-cashless-society)
-- Feb 03 - [Ofsted inspectors 'make up evidence' about a school's performance when IT fails](https://www.theguardian.com/education/2024/feb/03/ofsted-inspectors-make-up-evidence-about-a-schools-performance-when-it-fails)
-- Feb 03 - [Apple releases Pkl – configuration as code language](https://pkl-lang.org/index.html)
-- Feb 03 - [FOSDEM 2024 Live Streams](https://fosdem.org/2024/schedule/streaming/)
-- Feb 03 - [JetBrains' unremovable AI assistant meets irresistible outcry](https://www.theregister.com/2024/02/01/jetbrains_unremovable_ai_assistant/)
+- Feb 03 - [Native Exchange Support is coming to Thunderbird](https://linuxiac.com/thunderbirds-devs-rust-is-coming/)
+- Feb 03 - [Compiling Pattern Matching](https://compiler.club/compiling-pattern-matching/)
+- Feb 03 - [VueJS turns 10 years old](https://twitter.com/vuejs/status/1753678155444101385)
+- Feb 03 - [Superionic Water](https://en.wikipedia.org/wiki/Superionic_water)
+- Feb 03 - [A lesson in dockerizing shell scripts](https://bhupesh.me/publishing-my-first-ever-dockerfile-optimization-ugit/)
 <!--END_SECTION:hn-->
 
 <!--
