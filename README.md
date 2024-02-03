@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 03 - [Native Exchange Support is coming to Thunderbird](https://linuxiac.com/thunderbirds-devs-rust-is-coming/)
-- Feb 03 - [Compiling Pattern Matching](https://compiler.club/compiling-pattern-matching/)
-- Feb 03 - [VueJS turns 10 years old](https://twitter.com/vuejs/status/1753678155444101385)
-- Feb 03 - [Superionic Water](https://en.wikipedia.org/wiki/Superionic_water)
-- Feb 03 - [A lesson in dockerizing shell scripts](https://bhupesh.me/publishing-my-first-ever-dockerfile-optimization-ugit/)
+- Feb 03 - [Researchers Uncover Potential Non-Opioid Treatment for Chronic Pain](https://news.utexas.edu/2024/01/30/researchers-uncover-potential-non-opioid-treatment-for-chronic-pain/)
+- Feb 03 - [Dance mat-style game helps stop older people falling](https://www.newscientist.com/article/2414826-dance-mat-style-game-helps-stop-older-people-falling/)
+- Feb 03 - [Cork Is Displacing Plastics and Creating a Billion-Dollar Industry](https://www.washingtonpost.com/climate-solutions/2024/02/03/cork-sustainable-material/)
+- Feb 03 - [Global cancer cases will jump 77% by 2050, WHO report estimates](https://www.cnn.com/2024/02/02/health/who-cancer-estimates/index.html)
+- Feb 03 - [How much bigger could Earth be before rockets wouldn't work?](https://space.stackexchange.com/questions/14383/how-much-bigger-could-earth-be-before-rockets-wouldnt-work)
 <!--END_SECTION:hn-->
 
 <!--
