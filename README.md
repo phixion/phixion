@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 03 - [Designer News is dead](https://solomon.io/designer-news-is-dead/)
 - Feb 02 - [A decoder-only foundation model for time-series forecasting](https://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html)
-- Feb 02 - [Does fluoride in drinking water lower IQ? Question looms large in court battle](https://www.science.org/content/article/does-fluoride-drinking-water-lower-iq-question-looms-large-court-battle)
 - Feb 02 - [SeaweedFS fast distributed storage system for blobs, objects, files and datalake](https://github.com/seaweedfs/seaweedfs)
-- Feb 02 - [Virtual Reality: still not quite there, again. – by Andrej Karpathy](https://karpathy.medium.com/virtual-reality-still-not-quite-there-again-5f51f2b43867)
-- Feb 02 - [Carl Weathers, Apollo Creed from Rocky movies, dies aged 76](https://www.bbc.co.uk/news/world-us-canada-68188746)
+- Feb 02 - [Daunting papers/books and how to read them](https://mathoverflow.net/questions/463287/daunting-papers-books-and-how-to-finally-read-them)
+- Feb 02 - [Carl Weathers has died](https://www.bbc.co.uk/news/world-us-canada-68188746)
 <!--END_SECTION:hn-->
 
 <!--
