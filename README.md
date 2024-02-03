@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 03 - [AT&T applies to end obligation to service landlines in California](https://www.cbsnews.com/sacramento/news/at-t-applies-to-end-obligation-to-service-landlines/)
-- Feb 03 - [Goodbye Non-Kiss Appliances](https://willbush.dev/blog/complex-appliances/)
-- Feb 03 - [Over the Edge: The Use of Design Tactics to Undermine Browser Choice](https://research.mozilla.org/browser-competition/over-the-edge-the-use-of-design-tactics-to-undermine-browser-choice/)
-- Feb 03 - [Full $71M breakdown for The Village by M. Night Shyamalan (2003) [pdf]](https://wlmager.com/wp-content/uploads/2012/10/Budget-The-Village-Shyamalan-copy.pdf)
-- Feb 03 - [Designer News is dead](https://solomon.io/designer-news-is-dead/)
+- Feb 03 - [Physical cash is dying–and you don't need to be a conspiracist to worry](https://www.prospectmagazine.co.uk/ideas/economics/64492/the-end-of-money-cashless-society)
+- Feb 03 - [Ofsted inspectors 'make up evidence' about a school's performance when IT fails](https://www.theguardian.com/education/2024/feb/03/ofsted-inspectors-make-up-evidence-about-a-schools-performance-when-it-fails)
+- Feb 03 - [Apple releases Pkl – configuration as code language](https://pkl-lang.org/index.html)
+- Feb 03 - [FOSDEM 2024 Live Streams](https://fosdem.org/2024/schedule/streaming/)
+- Feb 03 - [JetBrains' unremovable AI assistant meets irresistible outcry](https://www.theregister.com/2024/02/01/jetbrains_unremovable_ai_assistant/)
 <!--END_SECTION:hn-->
 
 <!--
