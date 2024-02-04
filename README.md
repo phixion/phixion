@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 03 - [Researchers Uncover Potential Non-Opioid Treatment for Chronic Pain](https://news.utexas.edu/2024/01/30/researchers-uncover-potential-non-opioid-treatment-for-chronic-pain/)
-- Feb 03 - [Dance mat-style game helps stop older people falling](https://www.newscientist.com/article/2414826-dance-mat-style-game-helps-stop-older-people-falling/)
-- Feb 03 - [Cork Is Displacing Plastics and Creating a Billion-Dollar Industry](https://www.washingtonpost.com/climate-solutions/2024/02/03/cork-sustainable-material/)
-- Feb 03 - [Global cancer cases will jump 77% by 2050, WHO report estimates](https://www.cnn.com/2024/02/02/health/who-cancer-estimates/index.html)
-- Feb 03 - [How much bigger could Earth be before rockets wouldn't work?](https://space.stackexchange.com/questions/14383/how-much-bigger-could-earth-be-before-rockets-wouldnt-work)
+- Feb 03 - [The DIY Diggers Who Can't Stop Making 'Hobby Tunnels'](https://www.bloomberg.com/news/features/2024-02-03/dig-if-you-will-the-underground-world-of-hobby-tunneling)
+- Feb 03 - [TCC RISC-V Compiler Runs in the Web Browser (Thanks to Zig Compiler)](https://lupyuen.codeberg.page/articles/tcc.html)
+- Feb 03 - [Researchers taking on fraudulent science](https://www.analystnews.org/posts/plagiarism-paper-mills-and-profit-these-scientists-are-fighting-the-epidemic-of-fraudulent-science-research)
+- Feb 03 - [A brief history of the U.S. trying to add backdoors into encrypted data (2016)](https://www.atlasobscura.com/articles/a-brief-history-of-the-nsa-attempting-to-insert-backdoors-into-encrypted-data)
+- Feb 03 - [Cork is displacing plastics and creating a billion-dollar industry](https://www.washingtonpost.com/climate-solutions/2024/02/03/cork-sustainable-material/)
 <!--END_SECTION:hn-->
 
 <!--
