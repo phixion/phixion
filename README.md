@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 04 - [macOS Sonoma 14.4 removes critical functions from the fileproviderctl command](https://forums.macrumors.com/threads/fileproviderctl-on-sonoma-14-4-here-we-f-ng-go-again.2418353/)
-- Feb 04 - [Still no love for JPEG XL: Browser maker love-in snubs next-gen image format](https://www.theregister.com/2024/02/03/jpeg_xl_interop_2024/)
-- Feb 04 - [Humans are living longer than ever no matter where they come from](https://arstechnica.com/science/2024/02/humans-are-living-longer-than-ever-no-matter-where-they-come-from/)
-- Feb 04 - [Rolling Airframe Missile](https://www.navalgazing.net/RAM)
-- Feb 04 - [Gentoo x86-64-v3 binary packages available](https://www.gentoo.org/news/2024/02/04/x86-64-v3.html)
+- Feb 04 - [Compiling Rust Is Testing](https://kobzol.github.io/rust/2024/02/04/compiling-rust-is-testing.html)
+- Feb 04 - [Introduction to Thompson Sampling: The Bernoulli Bandit (2017)](https://gdmarmerola.github.io//ts-for-bernoulli-bandit/)
+- Feb 04 - [Magnetic launching of black hole jets in Perseus A](https://www.mpifr-bonn.mpg.de/pressreleases/2024/4)
+- Feb 04 - [Is Open Source a diversion from what users want?](https://discourse.ardour.org/t/is-open-source-a-diversion-from-what-users-really-want/102665)
+- Feb 04 - [Why Gödel, Escher, Bach is the most influential book in my life](https://philosophygeek.medium.com/why-g%C3%B6del-escher-bach-is-the-most-influential-book-in-my-life-49d785a4e428)
 <!--END_SECTION:hn-->
 
 <!--
