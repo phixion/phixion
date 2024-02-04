@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 03 - [The DIY Diggers Who Can't Stop Making 'Hobby Tunnels'](https://www.bloomberg.com/news/features/2024-02-03/dig-if-you-will-the-underground-world-of-hobby-tunneling)
-- Feb 03 - [TCC RISC-V Compiler Runs in the Web Browser (Thanks to Zig Compiler)](https://lupyuen.codeberg.page/articles/tcc.html)
-- Feb 03 - [Researchers taking on fraudulent science](https://www.analystnews.org/posts/plagiarism-paper-mills-and-profit-these-scientists-are-fighting-the-epidemic-of-fraudulent-science-research)
-- Feb 03 - [A brief history of the U.S. trying to add backdoors into encrypted data (2016)](https://www.atlasobscura.com/articles/a-brief-history-of-the-nsa-attempting-to-insert-backdoors-into-encrypted-data)
-- Feb 03 - [Cork is displacing plastics and creating a billion-dollar industry](https://www.washingtonpost.com/climate-solutions/2024/02/03/cork-sustainable-material/)
+- Feb 04 - [Richard Scolyer: Melanoma doctor's high-stakes gamble to treat his brain cancer](https://www.bbc.com/news/world-australia-67870595)
+- Feb 04 - [AvaloniaUI: Create Multi-Platform Apps with .NET](https://www.avaloniaui.net/)
+- Feb 04 - [Doom Didn't Kill the Amiga](https://www.datagubbe.se/afb/)
+- Feb 04 - [Vision Pro Teardown–Why Those Fake Eyes Look So Weird](https://www.ifixit.com/News/90137/vision-pro-teardown-why-those-fake-eyes-look-so-weird)
+- Feb 04 - [Bernoulli's Principle Applied to Firefighting – Box Alarm Training](https://www.boxalarmtraining.com/blog/bernoullis-principle-applied-to-firefighting-box-alarm-training)
 <!--END_SECTION:hn-->
 
 <!--
