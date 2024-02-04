@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 04 - [You are what you love](https://gspanos.tech/posts/facts-1/)
+- Feb 04 - [How to Replace Your CPAP in Only 666 Days](https://aphyr.com/posts/368-how-to-replace-your-cpap-in-only-666-days)
 - Feb 04 - [Why is the mouse cursor slightly tilted and not straight?](https://ux.stackexchange.com/questions/52336/why-is-the-mouse-cursor-slightly-tilted-and-not-straight)
 - Feb 04 - [The first amateur radio station on the moon](https://www.arrl.org/news/the-first-amateur-radio-station-on-the-moon-js1ymg-is-now-transmitting)
 - Feb 04 - [AvaloniaUI: Create Multi-Platform Apps with .NET](https://www.avaloniaui.net/)
-- Feb 04 - [In 1950, a U.S. troop plane vanished without a trace in the Yukon](https://www.cbc.ca/documentaries/in-1950-a-u-s-troop-plane-carrying-44-passengers-vanished-without-a-trace-in-the-yukon-1.7063704)
-- Feb 04 - [How Doom didn't kill the Amiga](https://www.datagubbe.se/afb/)
 <!--END_SECTION:hn-->
 
 <!--
