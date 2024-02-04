@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 04 - [Richard Scolyer: Melanoma doctor's high-stakes gamble to treat his brain cancer](https://www.bbc.com/news/world-australia-67870595)
+- Feb 04 - [Why is the mouse cursor slightly tilted and not straight?](https://ux.stackexchange.com/questions/52336/why-is-the-mouse-cursor-slightly-tilted-and-not-straight)
+- Feb 04 - [The first amateur radio station on the moon](https://www.arrl.org/news/the-first-amateur-radio-station-on-the-moon-js1ymg-is-now-transmitting)
 - Feb 04 - [AvaloniaUI: Create Multi-Platform Apps with .NET](https://www.avaloniaui.net/)
-- Feb 04 - [Doom Didn't Kill the Amiga](https://www.datagubbe.se/afb/)
-- Feb 04 - [Vision Pro Teardown–Why Those Fake Eyes Look So Weird](https://www.ifixit.com/News/90137/vision-pro-teardown-why-those-fake-eyes-look-so-weird)
-- Feb 04 - [Bernoulli's Principle Applied to Firefighting – Box Alarm Training](https://www.boxalarmtraining.com/blog/bernoullis-principle-applied-to-firefighting-box-alarm-training)
+- Feb 04 - [In 1950, a U.S. troop plane vanished without a trace in the Yukon](https://www.cbc.ca/documentaries/in-1950-a-u-s-troop-plane-carrying-44-passengers-vanished-without-a-trace-in-the-yukon-1.7063704)
+- Feb 04 - [How Doom didn't kill the Amiga](https://www.datagubbe.se/afb/)
 <!--END_SECTION:hn-->
 
 <!--
