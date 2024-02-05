@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 04 - [Compiling Rust Is Testing](https://kobzol.github.io/rust/2024/02/04/compiling-rust-is-testing.html)
-- Feb 04 - [Introduction to Thompson Sampling: The Bernoulli Bandit (2017)](https://gdmarmerola.github.io//ts-for-bernoulli-bandit/)
-- Feb 04 - [Magnetic launching of black hole jets in Perseus A](https://www.mpifr-bonn.mpg.de/pressreleases/2024/4)
-- Feb 04 - [Is Open Source a diversion from what users want?](https://discourse.ardour.org/t/is-open-source-a-diversion-from-what-users-really-want/102665)
-- Feb 04 - [Why Gödel, Escher, Bach is the most influential book in my life](https://philosophygeek.medium.com/why-g%C3%B6del-escher-bach-is-the-most-influential-book-in-my-life-49d785a4e428)
+- Feb 04 - [The pain points of building a copilot](https://austinhenley.com/blog/copilotpainpoints.html)
+- Feb 04 - [Meticulous (YC S21) is hiring to eliminate UI testing](https://news.ycombinator.com/item?id=39254438)
+- Feb 04 - [Solving the Darknet Riddle](https://sizeof.life/posts/darknet-riddle/)
+- Feb 04 - [Mr. Difficult: William Gaddis and the Problem of Hard-to-Read Books (2002)](https://adilegian.com/FranzenGaddis.htm)
+- Feb 04 - [How fast is rolling Karp-Rabin hashing?](https://lemire.me/blog/2024/02/04/how-fast-is-rolling-karp-rabin-hashing/)
 <!--END_SECTION:hn-->
 
 <!--
