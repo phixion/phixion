@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 05 - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-- Feb 05 - [The fastest-growing countries for software development, according to GitHub](https://restofworld.org/2024/github-developer-bangladesh-nigeria-pakistan/)
-- Feb 05 - [Ask HN: How many of you are self employed?](https://news.ycombinator.com/item?id=39259602)
-- Feb 05 - [Parisians vote in favour of tripling parking costs for SUVs](https://www.theguardian.com/world/2024/feb/04/parisians-vote-in-favour-of-tripling-parking-costs-for-suvs)
-- Feb 05 - [Gin, Television, and Social Surplus (2008)](https://gist.github.com/jm3/6724931)
+- Feb 05 - [Working in the Vision Pro [video]](https://www.youtube.com/watch?v=BV9Xy6L_rlM)
+- Feb 05 - [Tenstorrent Engineers Talk Open-Sourced Bare-Metal Stack](https://www.eetimes.com/tenstorrent-engineers-talk-open-sourced-bare-metal-stack/)
+- Feb 05 - [Remote access giant AnyDesk resets passwords and revokes certificates after hack](https://techcrunch.com/2024/02/05/remote-access-giant-anydesk-resets-passwords-and-revokes-certificates-after-hack/)
+- Feb 05 - [Cable Companies, Automakers Try to Derail FTC, FCC Quest to Kill Misleading Fees](https://www.techdirt.com/2024/02/05/cable-companies-automakers-try-to-derail-ftc-fcc-quest-to-kill-misleading-fees/)
+- Feb 05 - [Show HN: Natural-SQL-7B, a strong text-to-SQL model](https://github.com/cfahlgren1/natural-sql)
 <!--END_SECTION:hn-->
 
 <!--
