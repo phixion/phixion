@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 05 - [Working in the Vision Pro [video]](https://www.youtube.com/watch?v=BV9Xy6L_rlM)
-- Feb 05 - [Tenstorrent Engineers Talk Open-Sourced Bare-Metal Stack](https://www.eetimes.com/tenstorrent-engineers-talk-open-sourced-bare-metal-stack/)
-- Feb 05 - [Remote access giant AnyDesk resets passwords and revokes certificates after hack](https://techcrunch.com/2024/02/05/remote-access-giant-anydesk-resets-passwords-and-revokes-certificates-after-hack/)
-- Feb 05 - [Cable Companies, Automakers Try to Derail FTC, FCC Quest to Kill Misleading Fees](https://www.techdirt.com/2024/02/05/cable-companies-automakers-try-to-derail-ftc-fcc-quest-to-kill-misleading-fees/)
-- Feb 05 - [Show HN: Natural-SQL-7B, a strong text-to-SQL model](https://github.com/cfahlgren1/natural-sql)
+- Feb 05 - [Show HN: CLI for generating beautiful PDF for offline reading](https://github.com/dvcoolarun/web2pdf)
+- Feb 05 - [Ask HN: How to find time to learn after full-time job?](https://news.ycombinator.com/item?id=39264751)
+- Feb 05 - [Out-of-bounds read and write in the glibc's qsort()](https://www.openwall.com/lists/oss-security/2024/01/30/7)
+- Feb 05 - [WA House bill would make it illegal for police to lie during interrogations](https://www.seattletimes.com/seattle-news/politics/wa-house-would-make-it-illegal-for-police-to-lie-during-interrogations/)
+- Feb 05 - [Bootstrap or VC? [video]](https://www.youtube.com/watch?v=D81y-kh11oI)
 <!--END_SECTION:hn-->
 
 <!--
