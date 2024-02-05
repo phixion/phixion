@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 05 - [Vanguard economic and market outlook 2024: Global summary](https://www.nl.vanguard/professional/insights/macro-economics/vanguard-economic-and-market-outlook-2024-global-summary)
-- Feb 05 - [WebAssembly Playground](https://observablehq.com/@chaosalchemist/wasm-playground)
-- Feb 05 - [DEF CON 32 Was Canceled. We Un-Canceled it](https://forum.defcon.org/node/248360)
-- Feb 05 - [Apple iPod Shuffle USB interface pinout](https://pinoutguide.com/PortableDevices/ipod_shuffle_pinout.shtml)
-- Feb 05 - [A practical guide to quitting your smartphone](https://www.nytimes.com/2024/02/01/technology/iphone-mental-health-flip-phone.html)
+- Feb 05 - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- Feb 05 - [The fastest-growing countries for software development, according to GitHub](https://restofworld.org/2024/github-developer-bangladesh-nigeria-pakistan/)
+- Feb 05 - [Ask HN: How many of you are self employed?](https://news.ycombinator.com/item?id=39259602)
+- Feb 05 - [Parisians vote in favour of tripling parking costs for SUVs](https://www.theguardian.com/world/2024/feb/04/parisians-vote-in-favour-of-tripling-parking-costs-for-suvs)
+- Feb 05 - [Gin, Television, and Social Surplus (2008)](https://gist.github.com/jm3/6724931)
 <!--END_SECTION:hn-->
 
 <!--
