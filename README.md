@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 04 - [The pain points of building a copilot](https://austinhenley.com/blog/copilotpainpoints.html)
-- Feb 04 - [Meticulous (YC S21) is hiring to eliminate UI testing](https://news.ycombinator.com/item?id=39254438)
-- Feb 04 - [Solving the Darknet Riddle](https://sizeof.life/posts/darknet-riddle/)
-- Feb 04 - [Mr. Difficult: William Gaddis and the Problem of Hard-to-Read Books (2002)](https://adilegian.com/FranzenGaddis.htm)
-- Feb 04 - [How fast is rolling Karp-Rabin hashing?](https://lemire.me/blog/2024/02/04/how-fast-is-rolling-karp-rabin-hashing/)
+- Feb 05 - [Caesars abruptly cancels contract with DEF CON](https://forum.defcon.org/node/248360)
+- Feb 05 - [Apple iPod Shuffle USB interface pinout](https://pinoutguide.com/PortableDevices/ipod_shuffle_pinout.shtml)
+- Feb 05 - [The IRS has all our tax data. Why doesn't its new website use it?](https://www.washingtonpost.com/business/2024/02/04/direct-file-irs-taxes/)
+- Feb 05 - [Apple Ramped Up Autonomous Vehicle Testing Last Year, Filings Show](https://www.wired.com/story/apple-ramped-up-autonomous-vehicle-testing-last-year/)
+- Feb 05 - [How to Quit Your Smartphone](https://www.nytimes.com/2024/02/01/technology/iphone-mental-health-flip-phone.html)
 <!--END_SECTION:hn-->
 
 <!--
