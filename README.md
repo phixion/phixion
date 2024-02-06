@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 05 - [Show HN: CLI for generating beautiful PDF for offline reading](https://github.com/dvcoolarun/web2pdf)
-- Feb 05 - [Ask HN: How to find time to learn after full-time job?](https://news.ycombinator.com/item?id=39264751)
-- Feb 05 - [Out-of-bounds read and write in the glibc's qsort()](https://www.openwall.com/lists/oss-security/2024/01/30/7)
-- Feb 05 - [WA House bill would make it illegal for police to lie during interrogations](https://www.seattletimes.com/seattle-news/politics/wa-house-would-make-it-illegal-for-police-to-lie-during-interrogations/)
-- Feb 05 - [Bootstrap or VC? [video]](https://www.youtube.com/watch?v=D81y-kh11oI)
+- Feb 05 - [The little SSH that (sometimes) couldn't](https://mina.naguib.ca/blog/2012/10/22/the-little-ssh-that-sometimes-couldnt.html)
+- Feb 05 - [My business card runs Linux (and Ultrix), yours can too](https://dmitry.gr/?r=05.Projects&proj=33.+LinuxCard)
+- Feb 05 - [The world has warmed 1.5 °C, according to 300-year-old sponges](https://www.nature.com/articles/d41586-024-00281-8)
+- Feb 05 - [FAA Aviation Maps](https://www.beautifulpublicdata.com/faa-aviation-maps/)
+- Feb 05 - [We've Already Seen Category 6 Hurricanes–Now Scientists Want to Make It Official](https://eos.org/articles/weve-already-seen-category-6-hurricanes-now-scientists-want-to-make-it-official)
 <!--END_SECTION:hn-->
 
 <!--
