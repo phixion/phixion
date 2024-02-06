@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 05 - [The little SSH that (sometimes) couldn't](https://mina.naguib.ca/blog/2012/10/22/the-little-ssh-that-sometimes-couldnt.html)
-- Feb 05 - [My business card runs Linux (and Ultrix), yours can too](https://dmitry.gr/?r=05.Projects&proj=33.+LinuxCard)
-- Feb 05 - [The world has warmed 1.5 °C, according to 300-year-old sponges](https://www.nature.com/articles/d41586-024-00281-8)
-- Feb 05 - [FAA Aviation Maps](https://www.beautifulpublicdata.com/faa-aviation-maps/)
-- Feb 05 - [We've Already Seen Category 6 Hurricanes–Now Scientists Want to Make It Official](https://eos.org/articles/weve-already-seen-category-6-hurricanes-now-scientists-want-to-make-it-official)
+- Feb 06 - [Threads now reaches more than 130M monthly users, up 30M from Q3](https://techcrunch.com/2024/02/01/threads-now-reaches-more-130-million-monthly-users-says-meta-up-30m-from-q3/)
+- Feb 06 - [Zero-knowledge security model: an introduction](https://haybatov.com/blog/zksm-intro/)
+- Feb 06 - [New viruslike entities found in human gut microbes](https://www.science.org/content/article/it-s-insane-new-viruslike-entities-found-human-gut-microbes)
+- Feb 06 - [Panda CSS: build time and type-safe CSS-in-JS](https://panda-css.com/)
+- Feb 06 - [Companies embracing SMS for account logins should be blamed for SIM-swap attacks](https://keydiscussions.com/2024/02/05/sim-swap-attacks-can-be-blamed-on-companies-embracing-sms-based-password-resets/)
 <!--END_SECTION:hn-->
 
 <!--
