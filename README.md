@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 06 - [Threads now reaches more than 130M monthly users, up 30M from Q3](https://techcrunch.com/2024/02/01/threads-now-reaches-more-130-million-monthly-users-says-meta-up-30m-from-q3/)
-- Feb 06 - [Zero-knowledge security model: an introduction](https://haybatov.com/blog/zksm-intro/)
-- Feb 06 - [New viruslike entities found in human gut microbes](https://www.science.org/content/article/it-s-insane-new-viruslike-entities-found-human-gut-microbes)
-- Feb 06 - [Panda CSS: build time and type-safe CSS-in-JS](https://panda-css.com/)
-- Feb 06 - [Companies embracing SMS for account logins should be blamed for SIM-swap attacks](https://keydiscussions.com/2024/02/05/sim-swap-attacks-can-be-blamed-on-companies-embracing-sms-based-password-resets/)
+- Feb 06 - [A method to unilaterally disable all nuclear bombs on Earth [pdf]](https://arxiv.org/pdf/hep-ph/0305062.pdf)
+- Feb 06 - [CERN aims to build €20B collider to unlock secrets of universe](https://www.theguardian.com/science/2024/feb/05/cern-atom-smasher-unlock-secrets-universe-large-hadron-collider)
+- Feb 06 - [OKRs Are Bullshit](https://blog.appliedcomputing.io/p/okrs-are-bullshit)
+- Feb 06 - [Vision 1993](https://www.tbray.org/ongoing/When/202x/2024/02/02/Vision-1993)
+- Feb 06 - [LineageOS is currently installed on 1.5M Android devices](https://9to5google.com/2023/11/20/lineageos-number-of-devices/)
 <!--END_SECTION:hn-->
 
 <!--
