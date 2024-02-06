@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 06 - [A method to unilaterally disable all nuclear bombs on Earth [pdf]](https://arxiv.org/pdf/hep-ph/0305062.pdf)
-- Feb 06 - [CERN aims to build €20B collider to unlock secrets of universe](https://www.theguardian.com/science/2024/feb/05/cern-atom-smasher-unlock-secrets-universe-large-hadron-collider)
-- Feb 06 - [OKRs Are Bullshit](https://blog.appliedcomputing.io/p/okrs-are-bullshit)
-- Feb 06 - [Vision 1993](https://www.tbray.org/ongoing/When/202x/2024/02/02/Vision-1993)
-- Feb 06 - [LineageOS is currently installed on 1.5M Android devices](https://9to5google.com/2023/11/20/lineageos-number-of-devices/)
+- Feb 06 - [Lago: Open-Source Alternative to Stripe Is Hiring a Solution Engineer](https://www.ycombinator.com/companies/lago/jobs/zEAkwhK-solution-engineer-post-sales)
+- Feb 06 - [Some Rare, Real Talk from a Utility About Competition with Rooftop Solar](https://insideclimatenews.org/news/21092023/inside-clean-energy-utilities-rooftop-solar-competition-profits/)
+- Feb 06 - [We might want to regularly keep track of how important each server is](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/TrackingMachineImportance)
+- Feb 06 - [Will Satellite Megaconstellations Weaken Earth's Magnetic Field?](https://spaceweatherarchive.com/2024/02/01/will-satellite-megaconstellations-weaken-earths-magnetic-field/)
+- Feb 06 - [Six Spongy Sea Creatures Suggest Warming Might Be Worse Than Thought](https://www.nytimes.com/2024/02/05/climate/global-warming-sponges.html)
 <!--END_SECTION:hn-->
 
 <!--
