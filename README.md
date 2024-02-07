@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 07 - [Fathom AI Meeting Assistant (YC W21) Is Hiring a Senior Data Analyst (Remote)](https://www.ycombinator.com/companies/fathom/jobs/xOM0Nfl-senior-data-analyst-remote-utc-8-to-13)
-- Feb 07 - [jQuery v4.0 Beta](https://blog.jquery.com/2024/02/06/jquery-4-0-0-beta/)
-- Feb 06 - [Go 1.22 Release Notes](https://go.dev/doc/go1.22)
-- Feb 06 - [Making steel without emitting CO2](https://www.science.org/content/article/electrifying-new-ironmaking-method-could-slash-carbon-emissions)
-- Feb 06 - [The leadership myth in replicated databases (2023)](https://maheshba.bitbucket.io/blog/2023/05/06/Leadership.html)
+- Feb 07 - [Implementing system-versioned tables in Postgres](https://hypirion.com/musings/implementing-system-versioned-tables-in-postgres)
+- Feb 07 - [Deepnote (YC S19) is hiring engineers to build ChatGPT for data (Europe)](https://deepnote.com/join-us)
+- Feb 07 - [EU coal and gas collapse as wind and solar ascend](https://electrek.co/2024/02/06/eu-coal-and-gas-collapse-wind-and-solar-ascend/)
+- Feb 07 - [What if you threw a baseball at nearly light speed? [video]](https://www.youtube.com/watch?v=3EI08o-IGYk)
+- Feb 07 - [BitLocker encryption broken in 43 seconds with sub-$10 Raspberry Pi Pico](https://www.tomshardware.com/pc-components/cpus/youtuber-breaks-bitlocker-encryption-in-less-than-43-seconds-with-sub-dollar10-raspberry-pi-pico)
 <!--END_SECTION:hn-->
 
 <!--
