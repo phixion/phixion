@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 06 - [Mozilla's new service removes your personal info from data brokers](https://techcrunch.com/2024/02/06/mozilla-monitors-new-service-removes-your-personal-info-from-data-broker-sites-automatically/)
-- Feb 06 - [New IBM LinuxONE 4 Express – Rack-mounted pre-configured Linux mainframe](https://newsroom.ibm.com/2024-02-06-New-IBM-LinuxONE-4-Express-to-Offer-Cost-Savings-and-Client-Value-through-a-Cyber-Resilient-Hybrid-Cloud-and-AI-Platform)
-- Feb 06 - [Why I Live in IRC (2015)](https://aaronparecki.com/2015/08/29/8/why-i-live-in-irc)
-- Feb 06 - [Amazon is chopping jobs at its One Medical and Pharmacy units](https://www.businessinsider.com/amazon-one-medical-pharmacy-layoffs-broader-cost-cutting-campaign-2024-2)
-- Feb 06 - [The world is awful. The world is much better. The world can be much better](https://ourworldindata.org/much-better-awful-can-be-better)
+- Feb 06 - [Making steel without emitting CO2](https://www.science.org/content/article/electrifying-new-ironmaking-method-could-slash-carbon-emissions)
+- Feb 06 - [The three million toothbrush botnet story isn't true](https://cyberplace.social/@GossiTheDog/111886558855943676)
+- Feb 06 - [Setting up a secondary Pi-Hole on my home network](https://www.dzombak.com/blog/2024/02/Setting-up-a-secondary-Pi-Hole-on-my-home-network.html)
+- Feb 06 - [SQL for data scientists in 100 queries](https://gvwilson.github.io/sql-tutorial/)
+- Feb 06 - [Alaska Airlines flight 1282 NTSB preliminary report [pdf]](https://www.ntsb.gov/investigations/Documents/DCA24MA063%20Preliminary%20report.pdf)
 <!--END_SECTION:hn-->
 
 <!--
