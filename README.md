@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 07 - [Fathom AI Meeting Assistant (YC W21) Is Hiring a Senior Data Analyst (Remote)](https://www.ycombinator.com/companies/fathom/jobs/xOM0Nfl-senior-data-analyst-remote-utc-8-to-13)
+- Feb 07 - [jQuery v4.0 Beta](https://blog.jquery.com/2024/02/06/jquery-4-0-0-beta/)
+- Feb 06 - [Go 1.22 Release Notes](https://go.dev/doc/go1.22)
 - Feb 06 - [Making steel without emitting CO2](https://www.science.org/content/article/electrifying-new-ironmaking-method-could-slash-carbon-emissions)
-- Feb 06 - [The three million toothbrush botnet story isn't true](https://cyberplace.social/@GossiTheDog/111886558855943676)
-- Feb 06 - [Setting up a secondary Pi-Hole on my home network](https://www.dzombak.com/blog/2024/02/Setting-up-a-secondary-Pi-Hole-on-my-home-network.html)
-- Feb 06 - [SQL for data scientists in 100 queries](https://gvwilson.github.io/sql-tutorial/)
-- Feb 06 - [Alaska Airlines flight 1282 NTSB preliminary report [pdf]](https://www.ntsb.gov/investigations/Documents/DCA24MA063%20Preliminary%20report.pdf)
+- Feb 06 - [The leadership myth in replicated databases (2023)](https://maheshba.bitbucket.io/blog/2023/05/06/Leadership.html)
 <!--END_SECTION:hn-->
 
 <!--
