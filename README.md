@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 07 - [Implementing system-versioned tables in Postgres](https://hypirion.com/musings/implementing-system-versioned-tables-in-postgres)
-- Feb 07 - [Deepnote (YC S19) is hiring engineers to build ChatGPT for data (Europe)](https://deepnote.com/join-us)
-- Feb 07 - [EU coal and gas collapse as wind and solar ascend](https://electrek.co/2024/02/06/eu-coal-and-gas-collapse-wind-and-solar-ascend/)
-- Feb 07 - [What if you threw a baseball at nearly light speed? [video]](https://www.youtube.com/watch?v=3EI08o-IGYk)
-- Feb 07 - [BitLocker encryption broken in 43 seconds with sub-$10 Raspberry Pi Pico](https://www.tomshardware.com/pc-components/cpus/youtuber-breaks-bitlocker-encryption-in-less-than-43-seconds-with-sub-dollar10-raspberry-pi-pico)
+- Feb 07 - ["Wherever you get your podcasts" is a statement](https://www.anildash.com//2024/02/06/wherever-you-get-podcasts/)
+- Feb 07 - [Show HN: YTPics – Download pictures from YouTube videos](https://www.ytpics.com/)
+- Feb 07 - [Orange Pi Neo Coming as a Ryzen 7 and Linux Powered Handheld Device](https://www.phoronix.com/news/Orange-Pi-Neo-Console)
+- Feb 07 - [How would you build an operating system? (SerenityOS with Andreas Kling)](https://corecursive.com/serenity-os-with-andreas-kling/)
+- Feb 07 - [RustPython](https://rustpython.github.io/)
 <!--END_SECTION:hn-->
 
 <!--
