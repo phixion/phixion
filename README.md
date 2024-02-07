@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 07 - ["Wherever you get your podcasts" is a statement](https://www.anildash.com//2024/02/06/wherever-you-get-podcasts/)
-- Feb 07 - [Show HN: YTPics – Download pictures from YouTube videos](https://www.ytpics.com/)
-- Feb 07 - [Orange Pi Neo Coming as a Ryzen 7 and Linux Powered Handheld Device](https://www.phoronix.com/news/Orange-Pi-Neo-Console)
-- Feb 07 - [How would you build an operating system? (SerenityOS with Andreas Kling)](https://corecursive.com/serenity-os-with-andreas-kling/)
-- Feb 07 - [RustPython](https://rustpython.github.io/)
+- Feb 07 - [Latest ChatGPT 4 System prompt (1,700 tokens)](https://pastebin.com/vnxJ7kQk)
+- Feb 07 - [SQLite Isn't Enough](https://ente.io/blog/tech/sqlite-objectbox-isar/)
+- Feb 07 - [States, including CA and NY, sign heat pump memorandum to reduce air pollution](https://www.theverge.com/2024/2/7/24063751/heat-pump-mou-nine-states-california-new-york)
+- Feb 07 - [The ideal PR is 50 lines long](https://graphite.dev/blog/the-ideal-pr-is-50-lines-long)
+- Feb 07 - [How to hire low experience, high potential people](https://worktopia.substack.com/p/how-to-hire-low-experience-high-potential)
 <!--END_SECTION:hn-->
 
 <!--
