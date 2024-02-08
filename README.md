@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 07 - [JavaScript in SVGs](https://www.devdailydigest.tech/javascript-in-svgs/)
-- Feb 07 - [A search engine in 80 lines of Python](https://www.alexmolas.com/2024/02/05/a-search-engine-in-80-lines.html)
-- Feb 07 - [Nix-shell shebang: run any script with arbitrary packages, self-contained](https://nixos.wiki/wiki/Nix-shell_shebang)
-- Feb 07 - [A record number of Americans can't afford rent](https://apnews.com/article/affordable-housing-rent-eviction-price-harvard-congress-f5411012e10fa78d0257c137e60c1be3)
-- Feb 07 - [Lawsuit Accuses Anna's Archive of Hacking WorldCat, Stealing 2.2 TB Data](https://torrentfreak.com/lawsuit-accuses-annas-archive-of-hacking-worldcat-stealing-2-2-tb-data-240207/)
+- Feb 07 - [The Rural Ski Slope Caught Up in an International Scam](https://www.newyorker.com/magazine/2024/02/05/the-rural-ski-slope-caught-up-in-an-international-scam)
+- Feb 07 - [Morale plummets at Google as workers complain bosses are 'inept' and 'boring'](https://www.sfgate.com/tech/article/google-workers-company-culture-pichai-18653877.php)
+- Feb 07 - [Europe's deepest mine to become giant gravity battery](https://www.independent.co.uk/tech/gravity-battery-mine-renewable-energy-b2492087.html)
+- Feb 07 - [FujiwaraChoki/MoneyPrinter: Automate Creation of YouTube Shorts Using MoviePy](https://github.com/FujiwaraChoki/MoneyPrinter)
+- Feb 07 - [Localllm lets you develop gen AI apps on local CPUs](https://cloud.google.com/blog/products/application-development/new-localllm-lets-you-develop-gen-ai-apps-locally-without-gpus)
 <!--END_SECTION:hn-->
 
 <!--
