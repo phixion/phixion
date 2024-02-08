@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 07 - [The Rural Ski Slope Caught Up in an International Scam](https://www.newyorker.com/magazine/2024/02/05/the-rural-ski-slope-caught-up-in-an-international-scam)
-- Feb 07 - [Morale plummets at Google as workers complain bosses are 'inept' and 'boring'](https://www.sfgate.com/tech/article/google-workers-company-culture-pichai-18653877.php)
-- Feb 07 - [Europe's deepest mine to become giant gravity battery](https://www.independent.co.uk/tech/gravity-battery-mine-renewable-energy-b2492087.html)
-- Feb 07 - [FujiwaraChoki/MoneyPrinter: Automate Creation of YouTube Shorts Using MoviePy](https://github.com/FujiwaraChoki/MoneyPrinter)
-- Feb 07 - [Localllm lets you develop gen AI apps on local CPUs](https://cloud.google.com/blog/products/application-development/new-localllm-lets-you-develop-gen-ai-apps-locally-without-gpus)
+- Feb 08 - [Vision Pro Review: Apple's First Headset Lacks Polish and Purpose](https://www.nytimes.com/2024/02/07/technology/personaltech/apple-vision-pro-review.html)
+- Feb 08 - [Google DeepMind Alignment with Online AI Feedback (OAIF)](https://arxiv.org/abs/2402.04792)
+- Feb 08 - [John Walker, founder of Autodesk, has died](https://scanalyst.fourmilab.ch/t/john-walker-1949-2024/4305)
+- Feb 08 - [Novel drug could protect brains from damage after repeat concussions](https://medicalxpress.com/news/2024-02-drug-brains-concussions.html)
+- Feb 08 - [Mimas' surprise: Tiny moon holds young ocean beneath icy shell](https://phys.org/news/2024-02-mimas-tiny-moon-young-ocean.html)
 <!--END_SECTION:hn-->
 
 <!--
