@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 08 - [Simple Precision Time Protocol at Meta](https://engineering.fb.com/2024/02/07/production-engineering/simple-precision-time-protocol-sptp-meta/)
-- Feb 08 - [When "letting it crash" is not enough](https://flawless.dev/essays/when-letting-it-crash-is-not-enough/)
-- Feb 08 - [Concrete.css](https://concrete.style)
-- Feb 08 - [SQLite-Web: Web-based SQLite database browser written in Python](https://github.com/coleifer/sqlite-web)
-- Feb 08 - [Direct Language Model Alignment from Online AI Feedback](https://arxiv.org/abs/2402.04792)
+- Feb 08 - [Nimbus (YC W21) Is Hiring Founding Engineer to Make Datadog Affordable Again](https://www.ycombinator.com/companies/nimbus-3/jobs/TgQFIkz-founding-engineer)
+- Feb 08 - [On whether we're living in a simulation](https://scottaaronson.blog/?p=7774)
+- Feb 08 - [Gemini Ultra Released](https://one.google.com/explore-plan/gemini-advanced)
+- Feb 08 - [3M electric toothbrushes were not used in a DDoS attack](https://www.bleepingcomputer.com/news/security/no-3-million-electric-toothbrushes-were-not-used-in-a-ddos-attack/)
+- Feb 08 - [VirtualBox KVM Public Release](https://cyberus-technology.de/articles/vbox-kvm-public-release)
 <!--END_SECTION:hn-->
 
 <!--
