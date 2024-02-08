@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 08 - [Nimbus (YC W21) Is Hiring Founding Engineer to Make Datadog Affordable Again](https://www.ycombinator.com/companies/nimbus-3/jobs/TgQFIkz-founding-engineer)
-- Feb 08 - [On whether we're living in a simulation](https://scottaaronson.blog/?p=7774)
-- Feb 08 - [Gemini Ultra Released](https://one.google.com/explore-plan/gemini-advanced)
-- Feb 08 - [3M electric toothbrushes were not used in a DDoS attack](https://www.bleepingcomputer.com/news/security/no-3-million-electric-toothbrushes-were-not-used-in-a-ddos-attack/)
-- Feb 08 - [VirtualBox KVM Public Release](https://cyberus-technology.de/articles/vbox-kvm-public-release)
+- Feb 08 - [Launch HN: AgentHub (YC W24) – A no-code automation platform](https://news.ycombinator.com/item?id=39302870)
+- Feb 08 - [Mozilla names new CEO as it pivots to data privacy](https://fortune.com/2024/02/08/mozilla-firefox-ceo-laura-chambers-mitchell-baker-leadership-transition/)
+- Feb 08 - [Show HN: Lookup the school district associated with a street address](https://github.com/codebyamir/school-district-locator)
+- Feb 08 - [Radio station baffled after 200-foot radio tower disappears without a trace](https://nypost.com/2024/02/07/news/radio-station-baffled-after-200-foot-radio-tower-disappears/)
+- Feb 08 - [Dutch Police intelligence services unlawfully spied on whole population groups](https://nltimes.nl/2024/02/08/police-intelligence-services-unlawfully-spied-whole-population-groups)
 <!--END_SECTION:hn-->
 
 <!--
