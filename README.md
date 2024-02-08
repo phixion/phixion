@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 08 - [Launch HN: AgentHub (YC W24) – A no-code automation platform](https://news.ycombinator.com/item?id=39302870)
-- Feb 08 - [Mozilla names new CEO as it pivots to data privacy](https://fortune.com/2024/02/08/mozilla-firefox-ceo-laura-chambers-mitchell-baker-leadership-transition/)
-- Feb 08 - [Show HN: Lookup the school district associated with a street address](https://github.com/codebyamir/school-district-locator)
-- Feb 08 - [Radio station baffled after 200-foot radio tower disappears without a trace](https://nypost.com/2024/02/07/news/radio-station-baffled-after-200-foot-radio-tower-disappears/)
-- Feb 08 - [Dutch Police intelligence services unlawfully spied on whole population groups](https://nltimes.nl/2024/02/08/police-intelligence-services-unlawfully-spied-whole-population-groups)
+- Feb 08 - [Apple Vision Pro review: Eyes on the future](https://sixcolors.com/post/2024/02/apple-vision-pro-review-eyes-on-the-future/)
+- Feb 08 - [Days Since Incident](https://neal.fun/days-since-incident/)
+- Feb 08 - [Physics for Mathematicians – Introduction](https://nicf.net/articles/physics-for-mathematicians/)
+- Feb 08 - [The wealthy are cutting the line at the airport, Disney World and ski resorts](https://www.cnn.com/2024/02/08/business/line-skipping-clear-disney/index.html)
+- Feb 08 - [Eruption on the Reykjanes Peninsula](https://www.ruv.is/english/2024-02-08-eruption-on-the-reykjanes-peninsula-404272)
 <!--END_SECTION:hn-->
 
 <!--
