@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 09 - [What's new in the Postgres 16 query planner (a.k.a. optimizer)](https://www.citusdata.com/blog/2024/02/08/whats-new-in-postgres-16-query-planner-optimizer/)
-- Feb 09 - [Quartz – PKM Oriented SSG for Markdown](https://github.com/jackyzha0/quartz)
+- Feb 09 - [Rust wont save us, but its ideas will](https://glitchbyte.io/posts/rust-wont-save-us/)
+- Feb 09 - [Figure out who's leaving the company: dump, diff, repeat](https://rachelbythebay.com/w/2024/02/08/ldap/)
+- Feb 09 - [What's new in the Postgres 16 query planner](https://www.citusdata.com/blog/2024/02/08/whats-new-in-postgres-16-query-planner-optimizer/)
 - Feb 09 - [The Triumph and Terror of Wang Huning](https://letter.palladiummag.com/p/the-triumph-and-terror-of-wang-huning-3b0)
-- Feb 09 - [Sam Altman Seeks Trillions of Dollars to Reshape Business of Chips and AI](https://www.wsj.com/tech/ai/sam-altman-seeks-trillions-of-dollars-to-reshape-business-of-chips-and-ai-89ab3db0)
 - Feb 09 - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring](https://news.ycombinator.com/item?id=39310059)
 <!--END_SECTION:hn-->
 
