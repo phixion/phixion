@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 08 - [Funimation End of Services](https://help.funimation.com/hc/en-us/articles/23103586580244-Funimation-End-of-services)
-- Feb 08 - [What Does "With Continuation" Mean?](https://forum.snap.berkeley.edu/t/what-does-with-continuation-mean/1518/2)
-- Feb 08 - [Why Elixir Is the Best Language for Building a Bootstrapped, B2B SaaS in 2024](https://www.sleepeasy.app/2024/01/21/elixir-best-language-for-bootstrapped-b2b-saas/)
-- Feb 08 - [Sony is erasing digital libraries that were supposed to be accessible "forever"](https://arstechnica.com/culture/2024/02/funimation-dvds-included-forever-available-digital-copies-forever-ends-april-2/)
-- Feb 08 - [Multics and AS400：DPS8M on IBM PASE for I (OS/400)](https://dps8m.gitlab.io/blog/posts/20240207_DPS8M_AS400/)
+- Feb 09 - [What's new in the Postgres 16 query planner (a.k.a. optimizer)](https://www.citusdata.com/blog/2024/02/08/whats-new-in-postgres-16-query-planner-optimizer/)
+- Feb 09 - [Quartz – PKM Oriented SSG for Markdown](https://github.com/jackyzha0/quartz)
+- Feb 09 - [The Triumph and Terror of Wang Huning](https://letter.palladiummag.com/p/the-triumph-and-terror-of-wang-huning-3b0)
+- Feb 09 - [Sam Altman Seeks Trillions of Dollars to Reshape Business of Chips and AI](https://www.wsj.com/tech/ai/sam-altman-seeks-trillions-of-dollars-to-reshape-business-of-chips-and-ai-89ab3db0)
+- Feb 09 - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring](https://news.ycombinator.com/item?id=39310059)
 <!--END_SECTION:hn-->
 
 <!--
