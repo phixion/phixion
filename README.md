@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 09 - [Rust wont save us, but its ideas will](https://glitchbyte.io/posts/rust-wont-save-us/)
+- Feb 09 - [Circle Medical (YC S15) Is Hiring Ruby Engineers in Montreal](https://www.ycombinator.com/companies/circle-medical/jobs/2RM7yFC-senior-backend-engineer)
+- Feb 09 - [World surpasses key warming threshold across an entire year](https://www.cnbc.com/2024/02/08/climate-world-surpasses-key-warming-threshold-across-an-entire-year.html)
+- Feb 09 - [Russian troops use Starlink licensed and imported from Dubai](https://bulgarianmilitary.com/2024/02/08/russian-troops-use-starlink-licensed-and-imported-from-dubai/)
 - Feb 09 - [Figure out who's leaving the company: dump, diff, repeat](https://rachelbythebay.com/w/2024/02/08/ldap/)
 - Feb 09 - [What's new in the Postgres 16 query planner](https://www.citusdata.com/blog/2024/02/08/whats-new-in-postgres-16-query-planner-optimizer/)
-- Feb 09 - [The Triumph and Terror of Wang Huning](https://letter.palladiummag.com/p/the-triumph-and-terror-of-wang-huning-3b0)
-- Feb 09 - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring](https://news.ycombinator.com/item?id=39310059)
 <!--END_SECTION:hn-->
 
 <!--
