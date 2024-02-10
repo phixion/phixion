@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 10 - [Carl Griffith's 1847 Oregon Trail Sourdough Starter](https://carlsfriends.net/source.html)
-- Feb 10 - [Espressif ESP32: Breaking HW AES with Power Analysis (2023)](https://raelize.com/blog/espressif-systems-esp32-breaking-hw-aes-with-power-analysis/)
-- Feb 10 - [Privacy focused platform Skiff is joining Notion, Skiff to be sunset.](https://www.notion.so/blog/meet-skiff-the-newest-member-of-the-notion-family)
-- Feb 10 - [Creeped Out [pdf]](https://philpapers.org/archive/BERCOY-2.pdf)
-- Feb 09 - [Thinking about high-quality human data](https://lilianweng.github.io/posts/2024-02-05-human-data-quality/)
+- Feb 10 - [Go can only read 1GiB per Read call](https://kgrz.io/go-file-read-max-size-buffer.html)
+- Feb 10 - [Google ZX – A tool for writing better scripts](https://github.com/google/zx)
+- Feb 10 - [Skiff is shutting down in six months](https://skiff.com/data-migration)
+- Feb 10 - [RSS related tools, services, communities and tutorials](https://github.com/AboutRSS/ALL-about-RSS)
+- Feb 10 - [BirdLingo: A birdsong learning game](https://jessicalieb.itch.io/birdlingo)
 <!--END_SECTION:hn-->
 
 <!--
