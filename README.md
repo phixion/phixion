@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 10 - [A rent-stabilized 1 bedroom apartment for $1,100 In NYC? broker's fee is $15K](https://gothamist.com/news/a-rent-stabilized-1-bedroom-apartment-for-1100-in-nyc-the-brokers-fee-is-15k)
-- Feb 10 - [I Was Illegally Fired by Amazon for Speaking Out About a Coworker's Death (2023)](https://jacobin.com/2023/11/i-was-illegally-fired-by-amazon-for-speaking-out-about-a-coworkers-death/)
-- Feb 10 - [Show HN: Now my pet programming language can run in the browser](https://nbittich.github.io/adana/)
-- Feb 10 - [The 'Unthinkable' New Reality About Bedbugs](https://knowablemagazine.org/content/article/health-disease/2024/where-did-bed-bugs-come-from-how-to-get-rid-of-them)
-- Feb 10 - [The Race Is on to Stop Ozempic Muscle Loss](https://www.nytimes.com/2024/02/08/well/live/ozempic-muscle-loss-exercise.html)
+- Feb 10 - [Ivanti discloses fifth vulnerability, doesn't credit researchers who found it](https://www.theregister.com/2024/02/09/ivanti_discloses_fifth_ics_vulnerability/)
+- Feb 10 - [50 Years of Prolog: Becoming More Declarative [video]](https://www.youtube.com/watch?v=Ru2oZGRJTQg)
+- Feb 10 - [Nvidia pursues $30B custom chip opportunity with new unit](https://www.reuters.com/technology/nvidia-chases-30-billion-custom-chip-market-with-new-unit-sources-2024-02-09/)
+- Feb 10 - [Xist ribonucleoproteins promote female sex-biased autoimmunity](https://www.cell.com/cell/fulltext/S0092-8674(24)00002-3)
+- Feb 10 - [Becoming a dungeon master for an interview](https://www.propelauth.com/post/interview-dungeon-master)
 <!--END_SECTION:hn-->
 
 <!--
