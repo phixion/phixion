@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 10 - [Go can only read 1GiB per Read call](https://kgrz.io/go-file-read-max-size-buffer.html)
-- Feb 10 - [Google ZX – A tool for writing better scripts](https://github.com/google/zx)
-- Feb 10 - [Skiff is shutting down in six months](https://skiff.com/data-migration)
-- Feb 10 - [RSS related tools, services, communities and tutorials](https://github.com/AboutRSS/ALL-about-RSS)
-- Feb 10 - [BirdLingo: A birdsong learning game](https://jessicalieb.itch.io/birdlingo)
+- Feb 10 - [Dyte (YC W21) Is Hiring Support Engineers (Latin America)](https://news.ycombinator.com/item?id=39325531)
+- Feb 10 - [Germany's Days as an Industrial Superpower Are Coming to an End](https://www.bloomberg.com/news/features/2024-02-10/why-germany-s-days-as-an-industrial-superpower-are-coming-to-an-end)
+- Feb 10 - [Ruby on the Apple II: Adventures in Retro Programming (video) [2019]](https://www.youtube.com/watch?v=Qn6TCXJmITM)
+- Feb 10 - [Unscrambling the Hidden Secrets of Superpermutations](https://www.quantamagazine.org/unscrambling-the-hidden-secrets-of-superpermutations-20190116/)
+- Feb 10 - [OPML Is Underrated](https://kmaasrud.com/blog/opml-is-underrated.html)
 <!--END_SECTION:hn-->
 
 <!--
