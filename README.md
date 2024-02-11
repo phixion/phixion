@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 10 - [Ivanti discloses fifth vulnerability, doesn't credit researchers who found it](https://www.theregister.com/2024/02/09/ivanti_discloses_fifth_ics_vulnerability/)
-- Feb 10 - [50 Years of Prolog: Becoming More Declarative [video]](https://www.youtube.com/watch?v=Ru2oZGRJTQg)
-- Feb 10 - [Nvidia pursues $30B custom chip opportunity with new unit](https://www.reuters.com/technology/nvidia-chases-30-billion-custom-chip-market-with-new-unit-sources-2024-02-09/)
-- Feb 10 - [Xist ribonucleoproteins promote female sex-biased autoimmunity](https://www.cell.com/cell/fulltext/S0092-8674(24)00002-3)
-- Feb 10 - [Becoming a dungeon master for an interview](https://www.propelauth.com/post/interview-dungeon-master)
+- Feb 10 - [OpenTTD](https://www.openttd.org/about)
+- Feb 10 - [Eugène-François Vidocq and the Birth of the Detective](https://publicdomainreview.org/essay/eugene-francois-vidocq-and-the-birth-of-the-detective/)
+- Feb 10 - [New adhesive tape picks up and sticks down 2D materials easily](https://phys.org/news/2024-02-adhesive-tape-2d-materials-easily.html)
+- Feb 10 - [Global study: Wild megafauna shape ecosystem properties](https://phys.org/news/2024-02-global-wild-megafauna-ecosystem-properties.html)
+- Feb 10 - [Fourays: A Tribute to the AY-3-8910](https://doug.lon.dev/blog/2024/fourays/tribute/)
 <!--END_SECTION:hn-->
 
 <!--
