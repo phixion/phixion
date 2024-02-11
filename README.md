@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 11 - [Show HN: Tweening web visualisation, in Rust – (WASM)](https://rustween.mtassoumt.uk/)
-- Feb 11 - [Keycloak SSO with Docker Compose and Nginx](https://du.nkel.dev/blog/2024-02-10_keycloak-docker-compose-nginx/)
-- Feb 11 - [Show HN: Multi-monitor KVM using just a USB switch](https://github.com/fiddyschmitt/SimpleKVM)
-- Feb 11 - [What it was like working for Gitlab](https://yorickpeterse.com/articles/what-it-was-like-working-for-gitlab/)
-- Feb 11 - [RetroMags: Download Retro Gaming Magazines](https://www.retromags.com)
+- Feb 11 - [RLHF a LLM in <50 lines of Python](https://datadreamer.dev/docs/latest/pages/get_started/quick_tour/aligning.html)
+- Feb 11 - [Sleeping Our Way to Being Productive](https://www.nakedcapitalism.com/2024/02/sleeping-our-way-to-being-productive.html)
+- Feb 11 - [Are we visible to advanced alien civilizations?](https://arxiv.org/abs/2308.08689)
+- Feb 11 - [I Know What Your Password Was Last Summer](https://labs.lares.com/password-analysis/)
+- Feb 11 - [Javalin – a simple web framework for Java and Kotlin](https://javalin.io/)
 <!--END_SECTION:hn-->
 
 <!--
