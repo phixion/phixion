@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 12 - [It Can Be Done](https://multicians.org/andre.html)
-- Feb 12 - [The Nasdaq is in an A.I.-led bubble](https://www.philoinvestor.com/p/downside-at-nvidia-and-the-nasdaq)
-- Feb 12 - [A celebrated cryptography-breaking algorithm just got an upgrade](https://www.quantamagazine.org/celebrated-cryptography-algorithm-gets-an-upgrade-20231214/)
-- Feb 12 - [The Brennan self-balancing monorail [video]](https://www.youtube.com/watch?v=kUYzuAJeg3M)
-- Feb 12 - [Cousins are disappearing. Is this reshaping the experience of childhood?](https://www.cbc.ca/news/canada/cousins-decline-canada-1.7103338)
+- Feb 12 - [28-ton, 1.2-megawatt tidal kite is now exporting power to the grid](https://newatlas.com/energy/minesto-tidal-kite/)
+- Feb 12 - [We need to talk about parentheses](https://andreyor.st/posts/2020-12-03-we-need-to-talk-about-parentheses/)
+- Feb 12 - [It Can Be Done (2003)](https://multicians.org/andre.html)
+- Feb 12 - [FOSDEM 2024: my experience, some notes and tech tips](https://ounapuu.ee/posts/2024/02/12/fosdem-2024/)
+- Feb 12 - [The boring technology behind a one-person Internet company](https://www.listennotes.com/blog/the-boring-technology-behind-a-one-person-23/)
 <!--END_SECTION:hn-->
 
 <!--
