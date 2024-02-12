@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 11 - [Spec Ops: The Line permanently removed from Steam and other digital stores](https://www.theverge.com/2024/1/30/24055807/spec-ops-the-line-delisting-licensing-2k)
-- Feb 11 - [Disney's newest robot demonstrates collaborative cuteness](https://spectrum.ieee.org/disney-robot-2666681104)
-- Feb 11 - [Ｂｉｔｗｉｓｅ Ｌｉｍｉｎａｌ – A Short Film in 256 Bytes of Code](https://killedbyapixel.github.io/TinyCode/256B/BitwiseLiminal/)
-- Feb 11 - [2024: The year of the OpenStreetMap vector maps](https://blog.openstreetmap.org/2024/02/11/2024-announcing-the-year-of-the-openstreetmap-vector-maps/)
-- Feb 11 - [Is the "modern data stack" still a useful idea?](https://roundup.getdbt.com/p/is-the-modern-data-stack-still-a)
+- Feb 12 - [Australian senate passes Right To Disconnect law](https://www.theregister.com/2024/02/12/australia_right_to_disconnect_law/)
+- Feb 12 - [Cousins are disappearing. Is this reshaping the experience of childhood?](https://www.cbc.ca/news/canada/cousins-decline-canada-1.7103338)
+- Feb 12 - [The Value of Open Source Software](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4693148)
+- Feb 11 - [Man who shoveled new channel into Lake Michigan convicted](https://www.msn.com/en-us/news/us/man-who-shoveled-new-channel-into-lake-michigan-convicted/ar-BB1i0t7P)
+- Feb 11 - [Orbit: C/C++ Performance Profiler](https://github.com/google/orbit)
 <!--END_SECTION:hn-->
 
 <!--
