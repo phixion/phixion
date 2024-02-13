@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 13 - [Twenty years of work with the ARM architecture](https://marcin.juszkiewicz.com.pl/2024/02/12/twenty-years-of-my-work-with-arm-architecture/)
-- Feb 13 - [Induced demand is not a useful concept](https://www.bensouthwood.co.uk/p/why-induced-demand-is-fake)
-- Feb 13 - [Instagram account lets you squat in metro homes](https://news.yahoo.com/stealing-channel-2-goes-undercover-164049984.html)
-- Feb 13 - [It Is Somebody's Moral Imperative to Leak "Coyote vs. Acme" to the World](https://aftermath.site/coyote-vs-acme-fuck-david-zaslav)
-- Feb 13 - [OOHtml – Object-Oriented HTML Implementation](https://github.com/webqit/oohtml)
+- Feb 13 - [Door Boeing 737 pre-MAX opens after takeoff, aircraft returns in safety](https://www.luchtvaartnieuws.nl/nieuws/categorie/2/airlines/deur-van-transavia-toestel-vorige-maand-stukje-opengegaan-tijdens-opstijgen)
+- Feb 13 - [AMD's Mild Hybrid Strategy: Ryzen Z1 in Asus's ROG Ally](https://chipsandcheese.com/2024/02/12/amds-mild-hybrid-strategy-ryzen-z1-in-asuss-rog-ally/)
+- Feb 13 - [Supabase (YC S20) Is Hiring a Growth Marketer](https://boards.greenhouse.io/supabase/jobs/5072984004)
+- Feb 13 - [John Locke's recipe for Pancakes (2021)](https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/)
+- Feb 13 - [Math as a habit](https://kidswholovemath.substack.com/p/math-as-a-habit)
 <!--END_SECTION:hn-->
 
 <!--
