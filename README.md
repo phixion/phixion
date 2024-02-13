@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 12 - [FCC gets tough: Telcos must now tell you when your personal info is stolen](https://www.theregister.com/2024/02/12/fcc_gets_tough_on_telcos/)
-- Feb 12 - [US rail safety legislation stalled one year after East Palestine Ohio disaster](https://www.wlbt.com/2024/02/02/rail-safety-legislation-still-stalled-one-year-after-east-palestine-disaster/)
-- Feb 12 - [The myth of big salaries (it's all marketing)](https://seths.blog/2009/03/the-myth-of-big-salaries-its-all-marketing/)
-- Feb 12 - [VDPA: Support for block devices in Linux and QEMU](https://stefano-garzarella.github.io/posts/2024-02-12-vdpa-blk/)
-- Feb 12 - [US Employers Brace for 16M Super Bowl Sick Days](https://www.bloomberg.com/news/articles/2024-02-12/what-time-is-the-super-bowl-not-the-right-time-for-many-workers)
+- Feb 12 - [The Chevy Equinox EV will get 319 miles of range and start at around $35,000](https://www.theverge.com/2024/2/12/24070558/gm-chevy-equinox-ev-price-range-trim-model-date)
+- Feb 12 - [Spotify's layoffs put an end to Every Noise at Once](https://techcrunch.com/2024/02/12/every-noise-shut-down-spotify-layoffs/)
+- Feb 12 - [What If I’m Wrong? (2023)](https://behavioralscientist.org/ive-been-thinking-daniel-dennett-what-if-im-wrong/)
+- Feb 12 - [Time Series Forecasting vs Regression: An informal guide](https://www.amorphousdata.com/blog/time-series-vs-regression)
+- Feb 12 - [Wall found at bottom of Baltic Sea 'may be Europe’s oldest megastructure'](https://www.theguardian.com/science/2024/feb/12/stone-age-wall-found-at-bottom-of-baltic-sea-may-be-europes-oldest-megastructure)
 <!--END_SECTION:hn-->
 
 <!--
