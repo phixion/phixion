@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 12 - [The Chevy Equinox EV will get 319 miles of range and start at around $35,000](https://www.theverge.com/2024/2/12/24070558/gm-chevy-equinox-ev-price-range-trim-model-date)
-- Feb 12 - [Spotify's layoffs put an end to Every Noise at Once](https://techcrunch.com/2024/02/12/every-noise-shut-down-spotify-layoffs/)
-- Feb 12 - [What If I’m Wrong? (2023)](https://behavioralscientist.org/ive-been-thinking-daniel-dennett-what-if-im-wrong/)
-- Feb 12 - [Time Series Forecasting vs Regression: An informal guide](https://www.amorphousdata.com/blog/time-series-vs-regression)
-- Feb 12 - [Wall found at bottom of Baltic Sea 'may be Europe’s oldest megastructure'](https://www.theguardian.com/science/2024/feb/12/stone-age-wall-found-at-bottom-of-baltic-sea-may-be-europes-oldest-megastructure)
+- Feb 13 - [Twenty years of work with the ARM architecture](https://marcin.juszkiewicz.com.pl/2024/02/12/twenty-years-of-my-work-with-arm-architecture/)
+- Feb 13 - [Induced demand is not a useful concept](https://www.bensouthwood.co.uk/p/why-induced-demand-is-fake)
+- Feb 13 - [Instagram account lets you squat in metro homes](https://news.yahoo.com/stealing-channel-2-goes-undercover-164049984.html)
+- Feb 13 - [It Is Somebody's Moral Imperative to Leak "Coyote vs. Acme" to the World](https://aftermath.site/coyote-vs-acme-fuck-david-zaslav)
+- Feb 13 - [OOHtml – Object-Oriented HTML Implementation](https://github.com/webqit/oohtml)
 <!--END_SECTION:hn-->
 
 <!--
