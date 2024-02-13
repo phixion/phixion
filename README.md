@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 13 - [Memfault (YC W19) Is Hiring a Firmware Engineer in NYC/Boston](https://jobs.lever.co/memfault/9fa58d3b-2415-4d80-9e5c-be989f90c2e4)
-- Feb 13 - [Drowning in code: The ever-growing problem of ever-growing codebases](https://www.theregister.com/2024/02/12/drowning_in_code/)
-- Feb 13 - [Non-code contributions are the secret to open source success](https://github.com/readme/featured/open-source-non-code-contributions)
-- Feb 13 - [The Catalogue of UK Entrances to Hell](https://www.entrances2hell.co.uk/)
-- Feb 13 - [So You Think You Know Git – Git Tips and Tricks by Scott Chacon](https://blog.gitbutler.com/git-tips-and-tricks/)
+- Feb 13 - [Tesla worker killed in fiery crash may be first 'Full Self-Driving' fatality](https://www.washingtonpost.com/technology/interactive/2024/tesla-full-self-driving-fatal-crash/)
+- Feb 13 - [Mastering Programming - by Kent Beck (2016)](https://tidyfirst.substack.com/p/mastering-programming)
+- Feb 13 - [Show HN: Statusduck – Website monitoring tool where the data is public](https://statusduck.io/)
+- Feb 13 - [Industry veterans get candid on ageism in gaming](https://kotaku.com/activision-ageism-video-games-cliffy-b-warren-spector-1851220345)
+- Feb 13 - [Apple's iMessage Avoids EU's Digital Markets Act Regulation](https://www.macrumors.com/2024/02/13/imessage-avoids-eu-regulation/)
 <!--END_SECTION:hn-->
 
 <!--
