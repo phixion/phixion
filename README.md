@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 13 - [Tesla worker killed in fiery crash may be first 'Full Self-Driving' fatality](https://www.washingtonpost.com/technology/interactive/2024/tesla-full-self-driving-fatal-crash/)
-- Feb 13 - [Mastering Programming - by Kent Beck (2016)](https://tidyfirst.substack.com/p/mastering-programming)
-- Feb 13 - [Show HN: Statusduck – Website monitoring tool where the data is public](https://statusduck.io/)
-- Feb 13 - [Industry veterans get candid on ageism in gaming](https://kotaku.com/activision-ageism-video-games-cliffy-b-warren-spector-1851220345)
-- Feb 13 - [Apple's iMessage Avoids EU's Digital Markets Act Regulation](https://www.macrumors.com/2024/02/13/imessage-avoids-eu-regulation/)
+- Feb 13 - [Ask HN: How do you come up with side project ideas in 2024?](https://news.ycombinator.com/item?id=39361661)
+- Feb 13 - [Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data](https://depth-anything.github.io/)
+- Feb 13 - [Switching from S3 to Tigris on Fly.io](https://benhoyt.com/writings/flyio-and-tigris/)
+- Feb 13 - [How to center a div in CSS](https://www.joshwcomeau.com/css/center-a-div/)
+- Feb 13 - [Memory and new controls for ChatGPT](https://openai.com/blog/memory-and-new-controls-for-chatgpt)
 <!--END_SECTION:hn-->
 
 <!--
