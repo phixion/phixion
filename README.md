@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 13 - [Ask HN: How do you come up with side project ideas in 2024?](https://news.ycombinator.com/item?id=39361661)
-- Feb 13 - [Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data](https://depth-anything.github.io/)
-- Feb 13 - [Switching from S3 to Tigris on Fly.io](https://benhoyt.com/writings/flyio-and-tigris/)
-- Feb 13 - [How to center a div in CSS](https://www.joshwcomeau.com/css/center-a-div/)
-- Feb 13 - [Memory and new controls for ChatGPT](https://openai.com/blog/memory-and-new-controls-for-chatgpt)
+- Feb 13 - [A bird's eye view of Polars](https://pola.rs/posts/polars_birds_eye_view/)
+- Feb 13 - [A 1.9 solar mass neutron star candidate in a 2-year orbit](https://arxiv.org/abs/2402.06722)
+- Feb 13 - [Fly.io Has GPUs Now](https://fly.io/blog/fly-io-has-gpus-now/)
+- Feb 13 - [Compiling History: A brief tour of C compilers](https://www.deusinmachina.net/p/compiling-history-a-brief-tour-of)
+- Feb 13 - [Tesorio (YC S15) Is Hiring a Head of Infrastructure (100% Remote)](https://www.tesorio.com/careers#job-openings)
 <!--END_SECTION:hn-->
 
 <!--
