@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 14 - [Lightdash (YC S20) Is hiring an analytics engineering advocate](https://www.ycombinator.com/companies/hubble/jobs/IZ0giSa-analytics-engineering-advocate)
-- Feb 14 - [Xonsh: Python-powered, cross-platform, Unix-gazing shell](https://github.com/xonsh/xonsh)
-- Feb 14 - [The Matrix Trashfire](https://blog.koehntopp.info/2024/02/13/the-matrix-trashfire.html)
-- Feb 14 - [Popular XMPP App "Conversations" Removed from PlayStore by Google](https://gultsch.social/@daniel/111929074071688694)
-- Feb 14 - [How to summarize YouTube videos using artificial intelligence](https://implementing.substack.com/p/how-to-summarize-youtube-video-using)
+- Feb 14 - [US Military notifies 20k of data breach after cloud email leak](https://techcrunch.com/2024/02/14/department-defense-data-breach-microsoft-cloud-email/)
+- Feb 14 - [OpenAI experiments with giving ChatGPT a long-term conversation memory](https://arstechnica.com/information-technology/2024/02/amnesia-begone-soon-chatgpt-will-remember-what-you-tell-it-between-sessions/)
+- Feb 14 - [The Argument over a Long-Standing Autism Intervention](https://www.newyorker.com/science/annals-of-medicine/the-argument-over-a-long-standing-autism-intervention)
+- Feb 14 - [Your AI Girlfriend Is a Data-Harvesting Horror Show](https://gizmodo.com/your-ai-girlfriend-is-a-data-harvesting-horror-show-1851253284)
+- Feb 14 - [Tai chi reduces blood pressure better than aerobic exercise](https://www.npr.org/sections/health-shots/2024/02/14/1231232197/tai-chi-aerobics-exercise-blood-pressure-hypertension-mindfulness)
 <!--END_SECTION:hn-->
 
 <!--
