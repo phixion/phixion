@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 14 - [Andrej Karpathy: I left OpenAI yesterday](https://twitter.com/karpathy/status/1757600075281547344)
-- Feb 14 - [Broadcom-owned VMware kills the free version of ESXi virtualization software](https://arstechnica.com/information-technology/2024/02/broadcom-owned-vmware-kills-the-free-version-of-esxi-virtualization-software/)
-- Feb 14 - [100 Years Ago, IBM Was Born](https://spectrum.ieee.org/ibm-history)
-- Feb 14 - [Bioluminescent petunias now available for U.S. market](https://lgrmag.com/news/light-bio-to-introduce-bioluminescent-petunias-into-u-s-market/)
-- Feb 14 - [Show HN: Instantly play the game I'm developing directly on its website](https://athenacrisis.com)
+- Feb 14 - [Apple has not fixed the macOS audio left/right balance bug for nearly 10 years](https://twitter.com/ffaebi/status/1757669861377949930)
+- Feb 14 - [How to summarize YouTube videos using artificial intelligence](https://implementing.substack.com/p/how-to-summarize-youtube-video-using)
+- Feb 14 - [Caching with Redis](https://nintyzeros.substack.com/p/power-of-redis-a-deep-dive-into-caching)
+- Feb 14 - [UC Berkley: World Model on Million-Length Video and Language with RingAttention](https://largeworldmodel.github.io/)
+- Feb 14 - [Quarto](https://quarto.org/)
 <!--END_SECTION:hn-->
 
 <!--
