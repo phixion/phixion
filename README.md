@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 14 - [Apple has not fixed the macOS audio left/right balance bug for nearly 10 years](https://twitter.com/ffaebi/status/1757669861377949930)
+- Feb 14 - [Lightdash (YC S20) Is hiring an analytics engineering advocate](https://www.ycombinator.com/companies/hubble/jobs/IZ0giSa-analytics-engineering-advocate)
+- Feb 14 - [Xonsh: Python-powered, cross-platform, Unix-gazing shell](https://github.com/xonsh/xonsh)
+- Feb 14 - [The Matrix Trashfire](https://blog.koehntopp.info/2024/02/13/the-matrix-trashfire.html)
+- Feb 14 - [Popular XMPP App "Conversations" Removed from PlayStore by Google](https://gultsch.social/@daniel/111929074071688694)
 - Feb 14 - [How to summarize YouTube videos using artificial intelligence](https://implementing.substack.com/p/how-to-summarize-youtube-video-using)
-- Feb 14 - [Caching with Redis](https://nintyzeros.substack.com/p/power-of-redis-a-deep-dive-into-caching)
-- Feb 14 - [UC Berkley: World Model on Million-Length Video and Language with RingAttention](https://largeworldmodel.github.io/)
-- Feb 14 - [Quarto](https://quarto.org/)
 <!--END_SECTION:hn-->
 
 <!--
