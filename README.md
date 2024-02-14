@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 13 - [A bird's eye view of Polars](https://pola.rs/posts/polars_birds_eye_view/)
-- Feb 13 - [A 1.9 solar mass neutron star candidate in a 2-year orbit](https://arxiv.org/abs/2402.06722)
-- Feb 13 - [Fly.io Has GPUs Now](https://fly.io/blog/fly-io-has-gpus-now/)
-- Feb 13 - [Compiling History: A brief tour of C compilers](https://www.deusinmachina.net/p/compiling-history-a-brief-tour-of)
-- Feb 13 - [Tesorio (YC S15) Is Hiring a Head of Infrastructure (100% Remote)](https://www.tesorio.com/careers#job-openings)
+- Feb 14 - [Andrej Karpathy: I left OpenAI yesterday](https://twitter.com/karpathy/status/1757600075281547344)
+- Feb 14 - [Broadcom-owned VMware kills the free version of ESXi virtualization software](https://arstechnica.com/information-technology/2024/02/broadcom-owned-vmware-kills-the-free-version-of-esxi-virtualization-software/)
+- Feb 14 - [100 Years Ago, IBM Was Born](https://spectrum.ieee.org/ibm-history)
+- Feb 14 - [Bioluminescent petunias now available for U.S. market](https://lgrmag.com/news/light-bio-to-introduce-bioluminescent-petunias-into-u-s-market/)
+- Feb 14 - [Show HN: Instantly play the game I'm developing directly on its website](https://athenacrisis.com)
 <!--END_SECTION:hn-->
 
 <!--
