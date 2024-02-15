@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 15 - [Antagonistic AI](https://arxiv.org/abs/2402.07350)
-- Feb 15 - [Nobel Prize winner Gregg Semenza tallies tenth retraction](https://retractionwatch.com/2023/10/02/nobel-prize-winner-gregg-semenza-tallies-tenth-retraction/)
-- Feb 15 - [What you've got is in fact a people problem](https://blog.glyph.im/2024/02/let-me-tell-you-a-secret.html)
-- Feb 15 - [Air Canada is responsible for chatbot's mistake: B.C. tribunal](https://bc.ctvnews.ca/air-canada-s-chatbot-gave-a-b-c-man-the-wrong-information-now-the-airline-has-to-pay-for-the-mistake-1.6769454)
-- Feb 15 - [gpulist – Craigslist for GPUs](https://gpulist.ai/)
+- Feb 15 - [Power grab: the hidden costs of Ireland's datacentre boom](https://www.theguardian.com/world/2024/feb/15/power-grab-hidden-costs-of-ireland-datacentre-boom)
+- Feb 15 - [PhotoRoom (YC S20) Is Hiring an API Designer in Paris (Node, Rust)](https://news.ycombinator.com/item?id=39379882)
+- Feb 15 - [Greybeard's tomb: the lost treasure of language design (2019)](https://michael.orlitzky.com/articles/greybeards_tomb:_the_lost_treasure_of_language_design.xhtml)
+- Feb 15 - [Show HN: Aldi Price Map](https://www.aldipricemap.com/navel_oranges.html)
+- Feb 15 - [Anonymous Block Forwarding in Ruby](https://www.writesoftwarewell.com/anonymous-block-forwarding-in-ruby/)
 <!--END_SECTION:hn-->
 
 <!--
