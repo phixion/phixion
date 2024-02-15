@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 14 - [The Proton, the 'Most Complicated Thing You Could Possibly Imagine](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
-- Feb 14 - [Duolingo Sucks, Now What?](https://ruhua-langblr.tumblr.com/post/739086003139149824/duolingo-sucks-now-what-a-guide)
-- Feb 14 - [BASE TTS (Amazon): The largest text-to-speech model to-date](https://amazon-ltts-paper.com/)
-- Feb 14 - [Show HN: FoldMation – Interactive origami learning and creation](https://foldmation.com)
-- Feb 14 - [Ask HN: What are some actual use cases of AI Agents right now?](https://news.ycombinator.com/item?id=39373662)
+- Feb 15 - [Torching the Google car: Why the growing revolt against big tech just escalated](https://www.bloodinthemachine.com/p/torching-the-google-car-why-the-growing)
+- Feb 14 - [Terence Tao, "Machine Assisted Proof" [video]](https://www.youtube.com/watch?v=AayZuuDDKP0)
+- Feb 14 - [Researchers have developed a beef-rice hybrid](https://www.scimex.org/newsfeed/youve-heard-of-lab-grown-meat-are-you-ready-for-rice-grown-beef)
+- Feb 14 - [Internal tools often make bad startup ideas](https://philosophicalhacker.substack.com/p/internal-tools-often-make-bad-startup)
+- Feb 14 - [Why is Common Lisp not the most popular programming language?](https://daninus14.github.io/posts/Why-is-Common-Lisp-not-the-Most-Popular-Programming-Language.html)
 <!--END_SECTION:hn-->
 
 <!--
