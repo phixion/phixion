@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 15 - [Torching the Google car: Why the growing revolt against big tech just escalated](https://www.bloodinthemachine.com/p/torching-the-google-car-why-the-growing)
-- Feb 14 - [Terence Tao, "Machine Assisted Proof" [video]](https://www.youtube.com/watch?v=AayZuuDDKP0)
-- Feb 14 - [Researchers have developed a beef-rice hybrid](https://www.scimex.org/newsfeed/youve-heard-of-lab-grown-meat-are-you-ready-for-rice-grown-beef)
-- Feb 14 - [Internal tools often make bad startup ideas](https://philosophicalhacker.substack.com/p/internal-tools-often-make-bad-startup)
-- Feb 14 - [Why is Common Lisp not the most popular programming language?](https://daninus14.github.io/posts/Why-is-Common-Lisp-not-the-Most-Popular-Programming-Language.html)
+- Feb 15 - [Antagonistic AI](https://arxiv.org/abs/2402.07350)
+- Feb 15 - [Nobel Prize winner Gregg Semenza tallies tenth retraction](https://retractionwatch.com/2023/10/02/nobel-prize-winner-gregg-semenza-tallies-tenth-retraction/)
+- Feb 15 - [What you've got is in fact a people problem](https://blog.glyph.im/2024/02/let-me-tell-you-a-secret.html)
+- Feb 15 - [Air Canada is responsible for chatbot's mistake: B.C. tribunal](https://bc.ctvnews.ca/air-canada-s-chatbot-gave-a-b-c-man-the-wrong-information-now-the-airline-has-to-pay-for-the-mistake-1.6769454)
+- Feb 15 - [gpulist – Craigslist for GPUs](https://gpulist.ai/)
 <!--END_SECTION:hn-->
 
 <!--
