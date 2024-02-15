@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 15 - [Gemini 1.5 Pro](https://twitter.com/JeffDean/status/1758146022726041615)
-- Feb 15 - [Our next-generation model: Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/)
-- Feb 15 - [Show HN: Dstack – an open-source engine for running GPU workloads](https://dstack.ai/)
-- Feb 15 - [GitHub now officially supports polar.sh as a funding platform](https://twitter.com/birk/status/1758087210211909649)
-- Feb 15 - [How deceptive design is used to compromise your privacy and how to fight back](https://consciousdigital.org/deceptive-design-patterns/)
+- Feb 15 - [uv: Python Packaging in Rust](https://astral.sh/blog/uv)
+- Feb 15 - [Sam Altman owns OpenAI's venture capital fund](https://www.axios.com/2024/02/15/sam-altman-openai-startup-fund)
+- Feb 15 - [PWAs wont replace native iOS apps](https://app.campsite.co/campsite/p/notes/rengvq2txami)
+- Feb 15 - [Problem solving across 100,633 lines of code – Gemini 1.5 Pro Demo [video]](https://www.youtube.com/watch?v=SSnsmqIj1MI)
+- Feb 15 - [Safe and reliable production changes; and how Rivian recently got this wrong](https://blog.substrate.tools/safe-and-reliable-production-changes-for-fast-moving-teams-and-how-rivian-recently-got-this-wrong/)
 <!--END_SECTION:hn-->
 
 <!--
