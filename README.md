@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 16 - [Alexei Navalny Died in Prison](https://www.reuters.com/world/europe/jailed-russian-opposition-leader-navalny-dead-prison-service-2024-02-16/)
+- Feb 16 - [Guix on the Framework 13 AMD](https://wingolog.org/archives/2024/02/16/guix-on-the-framework-13-amd)
+- Feb 16 - [German credit agency earns millions through unlawful customer manipulation](https://noyb.eu/en/german-credit-agency-earns-millions-through-unlawful-customer-manipulation)
+- Feb 16 - [Trading Trust](https://seths.blog/2024/02/trading-trust/)
 - Feb 16 - [Kagi Changelog 2/13: Faster and more accurate instant answers and Wikipedia page](https://kagi.com/changelog#3179)
-- Feb 16 - [EFF's (Extended) Guide to the Internet circa 1994](https://www.whitman.edu/mathematics/eegtti/eeg_toc.html)
-- Feb 16 - [Orgzly Revived: a community-maintained version of Orgzly](https://github.com/orgzly-revived/orgzly-android-revived)
-- Feb 16 - [YouTube Introduces Remixes](https://blog.youtube/news-and-events/youtube-shorts-remix/)
-- Feb 16 - [Think Python, 3rd Edition](https://allendowney.github.io/ThinkPython/)
 <!--END_SECTION:hn-->
 
 <!--
