@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 16 - [Show HN: I made a Pinterest clone using SigLIP image embeddings](https://mood-amber.vercel.app)
-- Feb 16 - [Firefly III: A free and open source personal finance manager](https://www.firefly-iii.org/)
-- Feb 16 - [Foods You Didn't Know You Could Freeze](https://menuaid.co.nz/blog/can-you-freeze/)
-- Feb 16 - [Magika: AI powered fast and efficient file type identification](https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html)
-- Feb 16 - [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators)
+- Feb 16 - [Kagi Changelog 2/13: Faster and more accurate instant answers and Wikipedia page](https://kagi.com/changelog#3179)
+- Feb 16 - [EFF's (Extended) Guide to the Internet circa 1994](https://www.whitman.edu/mathematics/eegtti/eeg_toc.html)
+- Feb 16 - [Orgzly Revived: a community-maintained version of Orgzly](https://github.com/orgzly-revived/orgzly-android-revived)
+- Feb 16 - [YouTube Introduces Remixes](https://blog.youtube/news-and-events/youtube-shorts-remix/)
+- Feb 16 - [Think Python, 3rd Edition](https://allendowney.github.io/ThinkPython/)
 <!--END_SECTION:hn-->
 
 <!--
