@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 15 - [Scientists aghast at AI rat with genitals in peer-reviewed article](https://arstechnica.com/science/2024/02/scientists-aghast-at-bizarre-ai-rat-with-huge-genitals-in-peer-reviewed-article/)
-- Feb 15 - [Show HN: Galactic Compass – an app that points to the galactic center](https://interconnected.org/home/2024/02/15/galactic-compass)
-- Feb 15 - [Remote user impersonation and takeover via cache poisoning in Mastodon](https://arcanican.is/excerpts/cve-2024-23832/discovery.htm)
-- Feb 15 - [Breaking BFT: Quantifying the cost to attack Bitcoin and Ethereum](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4727999)
-- Feb 15 - [Passing stars changed the orbits of planets in the solar system](https://www.universetoday.com/165727/passing-stars-changed-the-orbits-of-planets-in-the-solar-system/)
+- Feb 16 - [Show HN: I made a Pinterest clone using SigLIP image embeddings](https://mood-amber.vercel.app)
+- Feb 16 - [Firefly III: A free and open source personal finance manager](https://www.firefly-iii.org/)
+- Feb 16 - [Foods You Didn't Know You Could Freeze](https://menuaid.co.nz/blog/can-you-freeze/)
+- Feb 16 - [Magika: AI powered fast and efficient file type identification](https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html)
+- Feb 16 - [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators)
 <!--END_SECTION:hn-->
 
 <!--
