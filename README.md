@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 16 - [I'm an Old Fart and AI Makes Me Sad](https://medium.com/@alex.suzuki/im-an-old-fart-and-ai-makes-me-sad-06003bfb6750)
-- Feb 16 - [Amazon joins companies arguing US labor board is unconstitutional](https://www.reuters.com/technology/amazon-joins-companies-arguing-us-labor-board-is-unconstitutional-2024-02-16/)
-- Feb 16 - [My Sixth Year as a Bootstrapped Founder](https://mtlynch.io/solo-developer-year-6/)
-- Feb 16 - [$5 device accurately tests for breast cancer in under 5 seconds](https://studyfinds.org/device-breast-cancer-5-seconds/)
-- Feb 16 - [The Emacsen family, the design of an Emacs and the importance of Lisp (2023)](https://emacsconf.org/2023/talks/emacsen/)
+- Feb 16 - [Unreal Engine 5 now has WebGPU support](https://videocardz.com/newz/upcoming-project-enables-unreal-engine-5-to-run-through-a-web-browser)
+- Feb 16 - [Amazon Joins SpaceX in Mission to Destroy NLRB](https://www.vice.com/en/article/3ake93/amazon-spacex-nlrb-unconstitutional)
+- Feb 16 - [If you're just going to sit there doing nothing, at least do nothing correctly](https://devblogs.microsoft.com/oldnewthing/20240216-00/?p=109409)
+- Feb 16 - [Learning about Debuggers](https://werat.dev/blog/learning-about-debuggers/)
+- Feb 16 - [The seventh most popular easily understood unsolved problem on MathOverflow](https://mathstodon.xyz/@johncarlosbaez/111942324712561452)
 <!--END_SECTION:hn-->
 
 <!--
