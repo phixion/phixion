@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 17 - [Wirebonding is here to stay](https://semiengineering.com/wirebonding-is-here-to-stay/)
-- Feb 17 - [The adult consequences of being bullied in childhood](https://www.sciencedirect.com/science/article/pii/S0277953624001345)
+- Feb 17 - [Raising Children on the Eve of AI](https://juliawise.net/raising-children-on-the-eve-of-ai/)
+- Feb 17 - [Progman: X11 WM modeled after Program Manager from the Windows 3 era](https://github.com/jcs/progman)
+- Feb 17 - [Automated Unit Test Improvement Using Large Language Models at Meta](https://arxiv.org/abs/2402.09171)
+- Feb 17 - [Why diets backfire: A year after weight loss, the desire to eat grows (2018)](https://www.latimes.com/science/sciencenow/la-sci-sn-weight-loss-hunger-20180202-story.html)
 - Feb 17 - [Big Pharma spends billions more on executives and stockholders than on R&D](https://arstechnica.com/science/2024/02/big-pharma-spends-billions-more-on-executives-and-stockholders-than-on-rd/)
-- Feb 16 - [GPlates: Open-source software for interactive visualisation of plate tectonics](https://www.gplates.org/)
-- Feb 16 - [Coding in Vision Pro](https://willem.com/blog/2024-02-16_vision-pro/)
 <!--END_SECTION:hn-->
 
 <!--
