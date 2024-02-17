@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 17 - [I Ended Up with Just 0.15% of My Own Startup](https://news.ycombinator.com/item?id=39410364)
-- Feb 17 - [Show HN: macOS-cross-compiler – Compile binaries for macOS on Linux](https://github.com/shepherdjerred/macos-cross-compiler)
-- Feb 17 - [The Ute Tribe will construct one of the largest solar farms in the US for $1B+](https://www.ksut.org/news/2024-02-15/ute-mountain-ute-tribe-will-construct-one-of-the-largest-solar-farms-in-the-u-s)
-- Feb 17 - [So Long, and Thanks for All the Bytes](https://chethaase.medium.com/so-long-and-thanks-for-all-the-bytes-02a4ef972f65)
-- Feb 17 - [The game theory of seduction and marriage with Jane Austen](https://www.optimallyirrational.com/p/the-game-theory-of-seduction-and)
+- Feb 17 - [Unreal Engine 5 can now run in a web browser](https://www.pcgameshardware.de/Unreal-Engine-Software-239301/News/5-Entwickler-zeigt-Spiel-im-Browser-dank-WebGPU-1440861/)
+- Feb 17 - [Inner Platform Effect](https://en.wikipedia.org/wiki/Inner-platform_effect)
+- Feb 17 - [AI hiring tools may be filtering out the best job applicants](https://www.bbc.com/worklife/article/20240214-ai-recruiting-hiring-software-bias-discrimination)
+- Feb 17 - [Headphone and Amp Impedance (2011)](http://nwavguy.blogspot.com/2011/02/headphone-amp-impedance.html)
+- Feb 17 - [I worry our Copilot is leaving some passengers behind](https://joshcollinsworth.com/blog/copilot)
 <!--END_SECTION:hn-->
 
 <!--
