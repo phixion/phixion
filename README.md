@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 17 - [IPissed: Apple is after web capabilities to protect close-to-100B App Store Tax](https://open-web-advocacy.org/blog/its-official-apple-kills-web-apps-in-the-eu/)
-- Feb 17 - ["Stolen" radio tower missing for at least a year](https://www.radiodiscussions.com/threads/wjlx-wjbe-and-werh-oh-my.769948/#post-6697751)
-- Feb 17 - [Show HN: AI Generated (Not-Real) User Avatar Images for Development Needs](https://avatars.tzador.com/)
-- Feb 17 - [Microsoft bets on Germany in 3.2B euro AI push](https://www.reuters.com/technology/microsoft-invest-32-bln-eur-germany-ai-push-2024-02-15/)
-- Feb 17 - [Spnec fast-tracks ₱200B solar farm in Central Luzon](https://businessmirror.com.ph/2024/01/03/spnec-fast-tracks-p200-b-solar-farm-in-central-luzon/)
+- Feb 17 - [I Ended Up with Just 0.15% of My Own Startup](https://news.ycombinator.com/item?id=39410364)
+- Feb 17 - [Show HN: macOS-cross-compiler – Compile binaries for macOS on Linux](https://github.com/shepherdjerred/macos-cross-compiler)
+- Feb 17 - [The Ute Tribe will construct one of the largest solar farms in the US for $1B+](https://www.ksut.org/news/2024-02-15/ute-mountain-ute-tribe-will-construct-one-of-the-largest-solar-farms-in-the-u-s)
+- Feb 17 - [So Long, and Thanks for All the Bytes](https://chethaase.medium.com/so-long-and-thanks-for-all-the-bytes-02a4ef972f65)
+- Feb 17 - [The game theory of seduction and marriage with Jane Austen](https://www.optimallyirrational.com/p/the-game-theory-of-seduction-and)
 <!--END_SECTION:hn-->
 
 <!--
