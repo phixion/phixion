@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 16 - [Unreal Engine 5 now has WebGPU support](https://videocardz.com/newz/upcoming-project-enables-unreal-engine-5-to-run-through-a-web-browser)
-- Feb 16 - [Amazon Joins SpaceX in Mission to Destroy NLRB](https://www.vice.com/en/article/3ake93/amazon-spacex-nlrb-unconstitutional)
-- Feb 16 - [If you're just going to sit there doing nothing, at least do nothing correctly](https://devblogs.microsoft.com/oldnewthing/20240216-00/?p=109409)
-- Feb 16 - [Learning about Debuggers](https://werat.dev/blog/learning-about-debuggers/)
-- Feb 16 - [The seventh most popular easily understood unsolved problem on MathOverflow](https://mathstodon.xyz/@johncarlosbaez/111942324712561452)
+- Feb 16 - [Amazon and SpaceX are quietly trying to demolish national labor law](https://techcrunch.com/2024/02/16/amazon-and-spacex-are-quietly-trying-to-demolish-national-labor-law/)
+- Feb 16 - [Air Canada ordered to pay customer who was misled by airline's chatbot](https://www.theguardian.com/world/2024/feb/16/air-canada-chatbot-lawsuit)
+- Feb 16 - [Pro CCP 'spamouflage' network pivoting to focus on US election](https://www.isdglobal.org/digital_dispatches/pro-ccp-spamouflage-net-work-focuses-on-us-election/)
+- Feb 16 - [Coding in Vision Pro](https://willem.com/blog/2024-02-16_vision-pro/)
+- Feb 16 - [Plastic industry knew recycling was a farce for decades](https://www.euronews.com/green/2024/02/16/plastic-industry-knew-recycling-was-a-farce-for-decades-yet-deceived-the-public-report-rev)
 <!--END_SECTION:hn-->
 
 <!--
