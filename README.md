@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 16 - [Amazon and SpaceX are quietly trying to demolish national labor law](https://techcrunch.com/2024/02/16/amazon-and-spacex-are-quietly-trying-to-demolish-national-labor-law/)
-- Feb 16 - [Air Canada ordered to pay customer who was misled by airline's chatbot](https://www.theguardian.com/world/2024/feb/16/air-canada-chatbot-lawsuit)
-- Feb 16 - [Pro CCP 'spamouflage' network pivoting to focus on US election](https://www.isdglobal.org/digital_dispatches/pro-ccp-spamouflage-net-work-focuses-on-us-election/)
+- Feb 17 - [Wirebonding is here to stay](https://semiengineering.com/wirebonding-is-here-to-stay/)
+- Feb 17 - [The adult consequences of being bullied in childhood](https://www.sciencedirect.com/science/article/pii/S0277953624001345)
+- Feb 17 - [Big Pharma spends billions more on executives and stockholders than on R&D](https://arstechnica.com/science/2024/02/big-pharma-spends-billions-more-on-executives-and-stockholders-than-on-rd/)
+- Feb 16 - [GPlates: Open-source software for interactive visualisation of plate tectonics](https://www.gplates.org/)
 - Feb 16 - [Coding in Vision Pro](https://willem.com/blog/2024-02-16_vision-pro/)
-- Feb 16 - [Plastic industry knew recycling was a farce for decades](https://www.euronews.com/green/2024/02/16/plastic-industry-knew-recycling-was-a-farce-for-decades-yet-deceived-the-public-report-rev)
 <!--END_SECTION:hn-->
 
 <!--
