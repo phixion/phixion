@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 17 - [Raising Children on the Eve of AI](https://juliawise.net/raising-children-on-the-eve-of-ai/)
-- Feb 17 - [Progman: X11 WM modeled after Program Manager from the Windows 3 era](https://github.com/jcs/progman)
-- Feb 17 - [Automated Unit Test Improvement Using Large Language Models at Meta](https://arxiv.org/abs/2402.09171)
-- Feb 17 - [Why diets backfire: A year after weight loss, the desire to eat grows (2018)](https://www.latimes.com/science/sciencenow/la-sci-sn-weight-loss-hunger-20180202-story.html)
-- Feb 17 - [Big Pharma spends billions more on executives and stockholders than on R&D](https://arstechnica.com/science/2024/02/big-pharma-spends-billions-more-on-executives-and-stockholders-than-on-rd/)
+- Feb 17 - [IPissed: Apple is after web capabilities to protect close-to-100B App Store Tax](https://open-web-advocacy.org/blog/its-official-apple-kills-web-apps-in-the-eu/)
+- Feb 17 - ["Stolen" radio tower missing for at least a year](https://www.radiodiscussions.com/threads/wjlx-wjbe-and-werh-oh-my.769948/#post-6697751)
+- Feb 17 - [Show HN: AI Generated (Not-Real) User Avatar Images for Development Needs](https://avatars.tzador.com/)
+- Feb 17 - [Microsoft bets on Germany in 3.2B euro AI push](https://www.reuters.com/technology/microsoft-invest-32-bln-eur-germany-ai-push-2024-02-15/)
+- Feb 17 - [Spnec fast-tracks ₱200B solar farm in Central Luzon](https://businessmirror.com.ph/2024/01/03/spnec-fast-tracks-p200-b-solar-farm-in-central-luzon/)
 <!--END_SECTION:hn-->
 
 <!--
