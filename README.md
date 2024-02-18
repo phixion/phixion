@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 18 - [Science fiction authors were excluded from awards for fear of offending China](https://www.nbcnews.com/news/world/science-fiction-authors-excluded-hugo-awards-china-rcna139134)
-- Feb 18 - [Berkeley's Upzoning Would Be Among Nation's Largest](https://darrellowens.substack.com/p/berkeleys-upzoning-would-be-among)
-- Feb 18 - [Disconnecting the Playstation 5 from Internet installs DVD games faster](https://old.reddit.com/r/PS5/comments/t6nfyl/question_how_long_does_your_disk_installations/)
-- Feb 17 - [Basic proxy implementation using io_uring](https://git.kernel.dk/cgit/liburing/tree/examples/proxy.c)
-- Feb 17 - [Welding of Plutonium (1958) [pdf]](https://sgp.fas.org/othergov/doe/lanl/lib-www/la-pubs/00414797.pdf)
+- Feb 18 - [Apple Watch Ultra 2 Hacked](https://discussions.apple.com/thread/255453237)
+- Feb 18 - [Tailwind CSS marketing and misinformation engine](https://nuejs.org/blog/tailwind-misinformation-engine/)
+- Feb 18 - [The Layoff](https://xeiaso.net/blog/2024/the-layoff/)
+- Feb 18 - [Ask HN: Which Python type checker should I use?](https://news.ycombinator.com/item?id=39416443)
+- Feb 18 - [Why You're Still Single (2023)](https://thezvi.substack.com/p/dating-roundup-1-this-is-why-youre)
 <!--END_SECTION:hn-->
 
 <!--
