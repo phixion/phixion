@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 17 - [Unreal Engine 5 can now run in a web browser](https://www.pcgameshardware.de/Unreal-Engine-Software-239301/News/5-Entwickler-zeigt-Spiel-im-Browser-dank-WebGPU-1440861/)
-- Feb 17 - [Inner Platform Effect](https://en.wikipedia.org/wiki/Inner-platform_effect)
-- Feb 17 - [AI hiring tools may be filtering out the best job applicants](https://www.bbc.com/worklife/article/20240214-ai-recruiting-hiring-software-bias-discrimination)
-- Feb 17 - [Headphone and Amp Impedance (2011)](http://nwavguy.blogspot.com/2011/02/headphone-amp-impedance.html)
-- Feb 17 - [I worry our Copilot is leaving some passengers behind](https://joshcollinsworth.com/blog/copilot)
+- Feb 17 - [Basic proxy implementation using io_uring by Jens Axboe](https://git.kernel.dk/cgit/liburing/tree/examples/proxy.c)
+- Feb 17 - [TrueType Fonts for OpenTTD](https://www.openttd.org/news/2024/02/17/openttd-truetype-fonts)
+- Feb 17 - [My Notes on Gitlab's Postgres Schema Design (2022)](https://shekhargulati.com/2022/07/08/my-notes-on-gitlabs-postgres-schema-design/)
+- Feb 17 - [JSR first impressions: a JavaScript package manager by the Deno team](https://www.kitsonkelly.com/posts/jsr-first-impressions)
+- Feb 17 - [Releasing my tools under the MIT License was probably a mistake (2023)](https://donatstudios.com/License-Grumbles)
 <!--END_SECTION:hn-->
 
 <!--
