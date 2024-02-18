@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 18 - [No focus, no fights, and a bad back – 16 ways technology has ruined my life](https://www.theguardian.com/technology/2024/feb/17/no-focus-no-fights-and-a-bad-back-16-ways-technology-has-ruined-my-life-tim-dowling)
-- Feb 18 - [The hottest trend in U.S. cities? Changing zoning rules to allow more housing](https://www.npr.org/2024/02/17/1229867031/housing-shortage-zoning-reform-cities)
-- Feb 18 - [Access over 181,000 USGS Historical Topographic Maps](https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/mapping/access-over-181000-usgs-historical-topographic-maps/)
-- Feb 18 - [SPAD: Spatially Aware Multiview Diffusers](https://yashkant.github.io/spad/)
-- Feb 18 - [Show HN: Hacker News Outliers](https://hn.moritz.pm)
+- Feb 18 - [KYC. No, Thanks](https://blog.kycnot.me/p/kyc-no-thanks)
+- Feb 18 - [Implementing Weight-Decomposed Low-Rank Adaptation (DoRA) from Scratch](https://magazine.sebastianraschka.com/p/lora-and-dora-from-scratch)
+- Feb 18 - [Sent – simple plaintext presentation tool](https://tools.suckless.org/sent/)
+- Feb 18 - [Airline Takes Revenge After Bad Review, Posts Passenger's Passport Online](https://viewfromthewing.com/airline-takes-revenge-after-bad-review-posts-passengers-passport-online/)
+- Feb 18 - [Nixing Technological Lock In](https://economicsfromthetopdown.com/2024/02/17/nixing-technological-lock-in/)
 <!--END_SECTION:hn-->
 
 <!--
