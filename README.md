@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 17 - [Basic proxy implementation using io_uring by Jens Axboe](https://git.kernel.dk/cgit/liburing/tree/examples/proxy.c)
-- Feb 17 - [TrueType Fonts for OpenTTD](https://www.openttd.org/news/2024/02/17/openttd-truetype-fonts)
-- Feb 17 - [My Notes on Gitlab's Postgres Schema Design (2022)](https://shekhargulati.com/2022/07/08/my-notes-on-gitlabs-postgres-schema-design/)
-- Feb 17 - [JSR first impressions: a JavaScript package manager by the Deno team](https://www.kitsonkelly.com/posts/jsr-first-impressions)
-- Feb 17 - [Releasing my tools under the MIT License was probably a mistake (2023)](https://donatstudios.com/License-Grumbles)
+- Feb 18 - [Science fiction authors were excluded from awards for fear of offending China](https://www.nbcnews.com/news/world/science-fiction-authors-excluded-hugo-awards-china-rcna139134)
+- Feb 18 - [Berkeley's Upzoning Would Be Among Nation's Largest](https://darrellowens.substack.com/p/berkeleys-upzoning-would-be-among)
+- Feb 18 - [Disconnecting the Playstation 5 from Internet installs DVD games faster](https://old.reddit.com/r/PS5/comments/t6nfyl/question_how_long_does_your_disk_installations/)
+- Feb 17 - [Basic proxy implementation using io_uring](https://git.kernel.dk/cgit/liburing/tree/examples/proxy.c)
+- Feb 17 - [Welding of Plutonium (1958) [pdf]](https://sgp.fas.org/othergov/doe/lanl/lib-www/la-pubs/00414797.pdf)
 <!--END_SECTION:hn-->
 
 <!--
