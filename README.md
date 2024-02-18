@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 18 - [Why the Web Won't Be Nirvana (1995)](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306)
-- Feb 18 - [Wddbfs – Mount a SQLite database as a filesystem](https://adamobeng.com/wddbfs-mount-a-sqlite-database-as-a-filesystem/)
-- Feb 18 - [Pimp Your Board Games](https://brainbaking.com/post/2024/02/pimp-your-boardgame/)
-- Feb 18 - [Apple Watch Ultra 2 Hacked](https://discussions.apple.com/thread/255453237)
-- Feb 18 - [The Layoff](https://xeiaso.net/blog/2024/the-layoff/)
+- Feb 18 - [No focus, no fights, and a bad back – 16 ways technology has ruined my life](https://www.theguardian.com/technology/2024/feb/17/no-focus-no-fights-and-a-bad-back-16-ways-technology-has-ruined-my-life-tim-dowling)
+- Feb 18 - [The hottest trend in U.S. cities? Changing zoning rules to allow more housing](https://www.npr.org/2024/02/17/1229867031/housing-shortage-zoning-reform-cities)
+- Feb 18 - [Access over 181,000 USGS Historical Topographic Maps](https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/mapping/access-over-181000-usgs-historical-topographic-maps/)
+- Feb 18 - [SPAD: Spatially Aware Multiview Diffusers](https://yashkant.github.io/spad/)
+- Feb 18 - [Show HN: Hacker News Outliers](https://hn.moritz.pm)
 <!--END_SECTION:hn-->
 
 <!--
