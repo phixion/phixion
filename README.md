@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 18 - [Why the Web Won't Be Nirvana (1995)](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306)
+- Feb 18 - [Wddbfs – Mount a SQLite database as a filesystem](https://adamobeng.com/wddbfs-mount-a-sqlite-database-as-a-filesystem/)
+- Feb 18 - [Pimp Your Board Games](https://brainbaking.com/post/2024/02/pimp-your-boardgame/)
 - Feb 18 - [Apple Watch Ultra 2 Hacked](https://discussions.apple.com/thread/255453237)
-- Feb 18 - [Tailwind CSS marketing and misinformation engine](https://nuejs.org/blog/tailwind-misinformation-engine/)
 - Feb 18 - [The Layoff](https://xeiaso.net/blog/2024/the-layoff/)
-- Feb 18 - [Ask HN: Which Python type checker should I use?](https://news.ycombinator.com/item?id=39416443)
-- Feb 18 - [Why You're Still Single (2023)](https://thezvi.substack.com/p/dating-roundup-1-this-is-why-youre)
 <!--END_SECTION:hn-->
 
 <!--
