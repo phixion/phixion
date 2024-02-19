@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 18 - [KYC. No, Thanks](https://blog.kycnot.me/p/kyc-no-thanks)
-- Feb 18 - [Implementing Weight-Decomposed Low-Rank Adaptation (DoRA) from Scratch](https://magazine.sebastianraschka.com/p/lora-and-dora-from-scratch)
-- Feb 18 - [Sent – simple plaintext presentation tool](https://tools.suckless.org/sent/)
-- Feb 18 - [Airline Takes Revenge After Bad Review, Posts Passenger's Passport Online](https://viewfromthewing.com/airline-takes-revenge-after-bad-review-posts-passengers-passport-online/)
-- Feb 18 - [Nixing Technological Lock In](https://economicsfromthetopdown.com/2024/02/17/nixing-technological-lock-in/)
+- Feb 18 - [Open Source Games](https://project-awesome.org/michelpereira/awesome-open-source-games)
+- Feb 18 - [Meticulous (YC S21) is hiring to eliminate UI end-to-end tests](https://news.ycombinator.com/item?id=39423303)
+- Feb 18 - [Haskell is Useless (2011) [video]](https://www.youtube.com/watch?v=iSmkqocn0oQ)
+- Feb 18 - [Earth-1217: where every CSV file has two header rows: column names and units](https://hachyderm.io/deck/@gvwilson@mastodon.social/111954365835588784)
+- Feb 18 - [The Internet Scheme Repository](https://legacy.cs.indiana.edu/scheme-repository/)
 <!--END_SECTION:hn-->
 
 <!--
