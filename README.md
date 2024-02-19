@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 18 - [Open Source Games](https://project-awesome.org/michelpereira/awesome-open-source-games)
-- Feb 18 - [Meticulous (YC S21) is hiring to eliminate UI end-to-end tests](https://news.ycombinator.com/item?id=39423303)
-- Feb 18 - [Haskell is Useless (2011) [video]](https://www.youtube.com/watch?v=iSmkqocn0oQ)
-- Feb 18 - [Earth-1217: where every CSV file has two header rows: column names and units](https://hachyderm.io/deck/@gvwilson@mastodon.social/111954365835588784)
-- Feb 18 - [The Internet Scheme Repository](https://legacy.cs.indiana.edu/scheme-repository/)
+- Feb 19 - [Who's winning in Sarah Silverman's copyright suit against OpenAI?](https://www.msn.com/en-us/news/crime/column-who-s-really-winning-in-sarah-silverman-s-copyright-suit-against-openai/ar-BB1inelI)
+- Feb 19 - [VPP on FreeBSD](https://ipng.ch/s/articles/2024/02/17/vpp-freebsd-2.html)
+- Feb 19 - [Serving a Website from a Git Repo Without Cloning It](https://mediocregopher.com/posts/git-proxy)
+- Feb 19 - [Google Cloud's New Assured Open Source Software Service (2022)](https://cloud.google.com/blog/products/identity-security/introducing-assured-open-source-software-service)
+- Feb 18 - [Diseconomies of scale in fraud, spam, support, and moderation](https://danluu.com/diseconomies-scale/)
 <!--END_SECTION:hn-->
 
 <!--
