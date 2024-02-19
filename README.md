@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 19 - [Bits Credit Card (YC S20) Is Hiring](https://www.ycombinator.com/companies/bits/jobs/jJ4l3dY-senior-software-engineer-backend)
-- Feb 19 - [A Plea for Lean Software](https://liam-on-linux.dreamwidth.org/88032.html)
-- Feb 19 - [Castle Engine – free, os, x-platform, 2D/3D game engine using modern Pascal](https://castle-engine.io/)
-- Feb 19 - [Gemini 1.5 outshines GPT-4-Turbo-128K on long code prompts, HVM author](https://old.reddit.com/r/singularity/comments/1atjz9v/ive_put_a_complex_codebase_into_a_single/)
-- Feb 19 - [Show HN: Searchbase – Plug-n-play semantic/fuzzy search for your data](https://searchbase.dev/)
+- Feb 19 - [GoPro Ride Through an Electron Beam Irradiator at Full Beam Power [video]](https://www.youtube.com/watch?v=Uf4Ux4SlyT4)
+- Feb 19 - [GlobalFoundries wins $3.1B in CHIPS Act subsidies for NY, Vermont](https://www.syracuse.com/business/2024/02/globalfoundries-wins-31-billion-in-chips-act-subsidies-for-upstate-ny-vermont-expansion.html)
+- Feb 19 - [Tell HN: Hard to change default search engine in Chrome to DuckDuckGo](https://news.ycombinator.com/item?id=39428633)
+- Feb 19 - [Show HN: PRQL in PostgreSQL](https://github.com/kaspermarstal/plprql)
+- Feb 19 - [First satellite imagery of the Feb-13, 2024 landslide at Çöpler Mine in Turkey](https://eos.org/thelandslideblog/copler-mine-3)
 <!--END_SECTION:hn-->
 
 <!--
