@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 19 - [Tubi Is Reviving a Lost Joy: Watching Really, Really Bad Movies](https://www.nytimes.com/2024/02/14/magazine/tubi-movies.html)
-- Feb 19 - [Working from home can bring big health benefits, study finds](https://www.theguardian.com/business/2024/feb/17/working-from-home-can-bring-big-health-benefits-study-finds)
-- Feb 19 - [AMD Zen 5 CPUs Reportedly Made on TSMC's 3nm Process, Mass Production in Q3](https://wccftech.com/amd-zen-5-cpus-reportedly-made-on-tsmc-3nm-process-q2-mass-production-q3-2024/amp/)
-- Feb 19 - [The case against caffeine](https://zantafakari.substack.com/p/the-case-against-caffeine)
-- Feb 19 - [AstraZeneca unveils successes in treatment of lung cancer](https://www.ft.com/content/b845e8ab-9cbc-482c-aa22-0b5c020be099)
+- Feb 19 - [How Google is killing independent sites like ours](https://housefresh.com/david-vs-digital-goliaths/)
+- Feb 19 - [Show HN: I made a simple daily word puzzle](https://triword.net)
+- Feb 19 - [My productivity app is a never-ending .txt file](https://jeffhuang.com/productivity_text_file/)
+- Feb 19 - [The Feds Just Bet Even Bigger on American-Made Heat Pumps](https://www.wired.com/story/the-feds-just-bet-even-bigger-on-american-made-heat-pumps/)
+- Feb 19 - [EU opens formal investigation into TikTok over possible online content breaches](https://www.reuters.com/technology/eu-opens-formal-proceedings-against-tiktok-under-digital-services-act-2024-02-19/)
 <!--END_SECTION:hn-->
 
 <!--
