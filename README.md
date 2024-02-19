@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 19 - [Who's winning in Sarah Silverman's copyright suit against OpenAI?](https://www.msn.com/en-us/news/crime/column-who-s-really-winning-in-sarah-silverman-s-copyright-suit-against-openai/ar-BB1inelI)
-- Feb 19 - [VPP on FreeBSD](https://ipng.ch/s/articles/2024/02/17/vpp-freebsd-2.html)
-- Feb 19 - [Serving a Website from a Git Repo Without Cloning It](https://mediocregopher.com/posts/git-proxy)
-- Feb 19 - [Google Cloud's New Assured Open Source Software Service (2022)](https://cloud.google.com/blog/products/identity-security/introducing-assured-open-source-software-service)
-- Feb 18 - [Diseconomies of scale in fraud, spam, support, and moderation](https://danluu.com/diseconomies-scale/)
+- Feb 19 - [Bits Credit Card (YC S20) Is Hiring](https://www.ycombinator.com/companies/bits/jobs/jJ4l3dY-senior-software-engineer-backend)
+- Feb 19 - [A Plea for Lean Software](https://liam-on-linux.dreamwidth.org/88032.html)
+- Feb 19 - [Castle Engine – free, os, x-platform, 2D/3D game engine using modern Pascal](https://castle-engine.io/)
+- Feb 19 - [Gemini 1.5 outshines GPT-4-Turbo-128K on long code prompts, HVM author](https://old.reddit.com/r/singularity/comments/1atjz9v/ive_put_a_complex_codebase_into_a_single/)
+- Feb 19 - [Show HN: Searchbase – Plug-n-play semantic/fuzzy search for your data](https://searchbase.dev/)
 <!--END_SECTION:hn-->
 
 <!--
