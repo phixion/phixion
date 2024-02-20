@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 19 - [How Google is killing independent sites like ours](https://housefresh.com/david-vs-digital-goliaths/)
-- Feb 19 - [Show HN: I made a simple daily word puzzle](https://triword.net)
-- Feb 19 - [My productivity app is a never-ending .txt file](https://jeffhuang.com/productivity_text_file/)
-- Feb 19 - [The Feds Just Bet Even Bigger on American-Made Heat Pumps](https://www.wired.com/story/the-feds-just-bet-even-bigger-on-american-made-heat-pumps/)
-- Feb 19 - [EU opens formal investigation into TikTok over possible online content breaches](https://www.reuters.com/technology/eu-opens-formal-proceedings-against-tiktok-under-digital-services-act-2024-02-19/)
+- Feb 19 - [E2EE on the web: is the web that bad?](https://emilymstark.com/2024/02/09/e2ee-on-the-web-is-the-web-really-that-bad.html)
+- Feb 19 - [AI Determines Sex of Person from Brain Scans](https://neurosciencenews.com/ai-gender-identification-25631/)
+- Feb 19 - [Reverse graffiti](https://en.wikipedia.org/wiki/Reverse_graffiti)
+- Feb 19 - [Sony's Playstation Portal hacked, can now emulate PSP games](https://overkill.wtf/sony-playstation-portal-hacked-emulate-psp-games/)
+- Feb 19 - [Endgame: A dashboard exploit for the original Xbox](https://github.com/XboxDev/endgame-exploit)
 <!--END_SECTION:hn-->
 
 <!--
