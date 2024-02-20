@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 20 - [WebKit Switching to Skia for 2D Graphics Rendering](https://blogs.igalia.com/carlosgc/2024/02/19/webkit-switching-to-skia-for-2d-graphics-rendering/)
-- Feb 20 - [Step Away From CNBC. If you want to make money, change this channel](https://slate.com/business/2024/02/cnbc-investing-advice-bad-making-money.html)
-- Feb 20 - [Learning resources for curious software engineers](https://github.com/charlax/professional-programming)
-- Feb 20 - [GALA3D: Towards Text-to-3D Complex Scene Generation](https://gala3d.github.io/)
-- Feb 20 - [Why is Prettier rock solid?](https://mrmr.io/til/prettier/)
+- Feb 20 - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers#section-job)
+- Feb 20 - [Future of 32-bit platform support in FreeBSD](https://lists.freebsd.org/archives/freebsd-announce/2024-February/000117.html)
+- Feb 20 - [Copernicus Interactive Climate Atlas](https://atlas.climate.copernicus.eu/atlas)
+- Feb 20 - [Adding Keyboard Shortcuts to a 24 Year Old Government Website with Userscripts](https://wcedmisten.fyi/post/keyboard-shortcuts-userscripts/)
+- Feb 20 - [Stonelifting Etiquette](https://liftingstones.org/articles/stonelifting-etiquette)
 <!--END_SECTION:hn-->
 
 <!--
