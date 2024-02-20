@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 20 - [WebKit Switching to Skia for 2D Graphics Rendering](https://blogs.igalia.com/carlosgc/2024/02/19/webkit-switching-to-skia-for-2d-graphics-rendering/)
+- Feb 20 - [Step Away From CNBC. If you want to make money, change this channel](https://slate.com/business/2024/02/cnbc-investing-advice-bad-making-money.html)
+- Feb 20 - [Learning resources for curious software engineers](https://github.com/charlax/professional-programming)
+- Feb 20 - [GALA3D: Towards Text-to-3D Complex Scene Generation](https://gala3d.github.io/)
 - Feb 20 - [Why is Prettier rock solid?](https://mrmr.io/til/prettier/)
-- Feb 20 - [Capital One to buy Discover Financial in $35.3B all-stock deal](https://www.reuters.com/markets/deals/capital-one-considers-acquisition-discover-financial-bloomberg-says-2024-02-19/)
-- Feb 20 - [Dead Internet Theory](https://old.reddit.com/r/webdev/comments/1auxufd/dead_internet_theory/)
-- Feb 20 - [Pulsar, the best code editor since Atom](https://optimizedbyotto.com/post/pulsar-best-text-file-and-code-editor/)
-- Feb 20 - [Towards memory safety with ownership checks for C](http://thradams.com/cake/ownership.html)
 <!--END_SECTION:hn-->
 
 <!--
