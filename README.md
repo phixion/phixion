@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 19 - [E2EE on the web: is the web that bad?](https://emilymstark.com/2024/02/09/e2ee-on-the-web-is-the-web-really-that-bad.html)
-- Feb 19 - [AI Determines Sex of Person from Brain Scans](https://neurosciencenews.com/ai-gender-identification-25631/)
-- Feb 19 - [Reverse graffiti](https://en.wikipedia.org/wiki/Reverse_graffiti)
-- Feb 19 - [Sony's Playstation Portal hacked, can now emulate PSP games](https://overkill.wtf/sony-playstation-portal-hacked-emulate-psp-games/)
-- Feb 19 - [Endgame: A dashboard exploit for the original Xbox](https://github.com/XboxDev/endgame-exploit)
+- Feb 20 - [Why is Prettier rock solid?](https://mrmr.io/til/prettier/)
+- Feb 20 - [Capital One to buy Discover Financial in $35.3B all-stock deal](https://www.reuters.com/markets/deals/capital-one-considers-acquisition-discover-financial-bloomberg-says-2024-02-19/)
+- Feb 20 - [Dead Internet Theory](https://old.reddit.com/r/webdev/comments/1auxufd/dead_internet_theory/)
+- Feb 20 - [Pulsar, the best code editor since Atom](https://optimizedbyotto.com/post/pulsar-best-text-file-and-code-editor/)
+- Feb 20 - [Towards memory safety with ownership checks for C](http://thradams.com/cake/ownership.html)
 <!--END_SECTION:hn-->
 
 <!--
