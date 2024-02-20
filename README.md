@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 20 - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers#section-job)
-- Feb 20 - [Future of 32-bit platform support in FreeBSD](https://lists.freebsd.org/archives/freebsd-announce/2024-February/000117.html)
-- Feb 20 - [Copernicus Interactive Climate Atlas](https://atlas.climate.copernicus.eu/atlas)
-- Feb 20 - [Adding Keyboard Shortcuts to a 24 Year Old Government Website with Userscripts](https://wcedmisten.fyi/post/keyboard-shortcuts-userscripts/)
-- Feb 20 - [Stonelifting Etiquette](https://liftingstones.org/articles/stonelifting-etiquette)
+- Feb 20 - [Microsoft Is Spying on Users of Its AI Tools](https://www.schneier.com/blog/archives/2024/02/microsoft-is-spying-on-users-of-its-ai-tools.html)
+- Feb 20 - [Writing a scheduler for Linux in Rust that runs in user-space](http://arighi.blogspot.com/2024/02/writing-scheduler-for-linux-in-rust.html)
+- Feb 20 - [Launch HN: Dart (YC W22) – Project management with automatic report generation](https://news.ycombinator.com/item?id=39442368)
+- Feb 20 - [Vietnam to collect biometrics – even DNA – for new ID cards](https://www.theregister.com/2024/02/20/vietnam_id_cards_dna/)
+- Feb 20 - [Fingerprints can be recreated from the sounds made when you swipe a screen](https://www.tomshardware.com/tech-industry/cyber-security/your-fingerprints-can-be-recreated-from-the-sounds-made-when-you-swipe-on-a-touchscreen-researchers-new-side-channel-attack-can-reproduce-partial-fingerprints-to-enable-attacks)
 <!--END_SECTION:hn-->
 
 <!--
