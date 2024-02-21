@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 21 - [Game Programming Patterns](https://gameprogrammingpatterns.com/)
-- Feb 21 - [So You Want to Ship a Command-Line Tool for macOS](https://becca.ooo/blog/so-you-want-to-ship-a-command-line-tool-for-macos/)
-- Feb 21 - [ChatGPT Has Gone Berserk](https://garymarcus.substack.com/p/chatgpt-has-gone-berserk)
-- Feb 21 - [100kHz to 6GHz 2 port USB based VNA](https://github.com/jankae/LibreVNA)
-- Feb 21 - [DeepComputing ROMA RISC-V Laptop](https://store.deepcomputing.io/products/dc-roma-risc-v-laptop)
+- Feb 21 - [Pijul is a free and open source (GPL2) distributed version control system](https://pijul.org/)
+- Feb 21 - [LaTeX and Neovim for technical note-taking](https://www.ejmastnak.com/tutorials/vim-latex/intro/)
+- Feb 21 - [Scientists Developed a Tool to Reveal Who's at Risk of Burnout, and It's Free](https://www.sciencealert.com/scientists-developed-a-tool-to-reveal-whos-at-risk-of-burnout-and-its-free)
+- Feb 21 - [Stop postponing things by embracing the mess](https://www.deprocrastination.co/blog/stop-postponing-things-by-embracing-the-mess)
+- Feb 21 - [Game Programming Patterns (2014)](https://gameprogrammingpatterns.com/)
 <!--END_SECTION:hn-->
 
 <!--
