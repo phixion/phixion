@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 20 - [Yes Prime Minister, questionnaire design matters](https://www.ipsos.com/en-uk/yes-prime-minister-questionnaire-design-matters)
-- Feb 20 - [Moore's Scofflaws](https://oxide.computer/blog/moores-scofflaws)
-- Feb 20 - [A response to "Erlang – overhyped or underestimated" (2010)](http://jlouisramblings.blogspot.com/2010/12/response-to-erlang-overhyped-or.html)
-- Feb 20 - [Martin Kleppmann talk on local-first (LoFi)](https://bsky.app/profile/martin.kleppmann.com/post/3kltpvnts622e)
-- Feb 20 - [Signal: Keep your phone number private with Signal usernames](https://signal.org/blog/phone-number-privacy-usernames/)
+- Feb 20 - [Court blocks $1B copyright ruling that punished ISP for its users' piracy](https://arstechnica.com/tech-policy/2024/02/court-blocks-1-billion-copyright-ruling-that-punished-isp-for-its-users-piracy/)
+- Feb 20 - [Video Game Module for Flipper Zero](https://shop.flipperzero.one/products/video-game-module-for-flipper-zero)
+- Feb 20 - [Kagi Sidekick (alpha)](https://sidekick.kagi.com/)
+- Feb 20 - [Spine AI (YC S23) Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-lead-applied-ml-scientist)
+- Feb 20 - [An asteroid wiped out dinosaurs – did it help birds flourish?](https://www.nytimes.com/2024/02/12/science/bird-evolution-asteroid-dinosaurs.html)
 <!--END_SECTION:hn-->
 
 <!--
