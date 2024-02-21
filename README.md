@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 21 - [Pijul is a free and open source (GPL2) distributed version control system](https://pijul.org/)
-- Feb 21 - [LaTeX and Neovim for technical note-taking](https://www.ejmastnak.com/tutorials/vim-latex/intro/)
-- Feb 21 - [Scientists Developed a Tool to Reveal Who's at Risk of Burnout, and It's Free](https://www.sciencealert.com/scientists-developed-a-tool-to-reveal-whos-at-risk-of-burnout-and-its-free)
-- Feb 21 - [Stop postponing things by embracing the mess](https://www.deprocrastination.co/blog/stop-postponing-things-by-embracing-the-mess)
-- Feb 21 - [Game Programming Patterns (2014)](https://gameprogrammingpatterns.com/)
+- Feb 21 - [Air Canada Has to Honor a Refund Policy Its Chatbot Made Up](https://www.wired.com/story/air-canada-chatbot-refund-policy)
+- Feb 21 - [Coffee machine camera at Amazon warehouse raises concerns about surveillance](https://sahanjournal.com/business-work/amazon-coffee-machine-camera-surveillance/)
+- Feb 21 - [The Ruby on Rails Podcast Episode 508: YJIT with Maxime Chevalier-Boisvert](https://www.therubyonrailspodcast.com/508)
+- Feb 21 - [ADHD linked to evolutionary success in ancient humans](https://newatlas.com/science/adhd-evolutionary-benefits-foraging-explore-exploit/)
+- Feb 21 - [RFC 9512: YAML Media Type](https://www.rfc-editor.org/rfc/rfc9512.html)
 <!--END_SECTION:hn-->
 
 <!--
