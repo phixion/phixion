@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 21 - [Cool website to remove the paywall on any article](https://www.archivebuttons.com/)
+- Feb 21 - [Japan Bets $67B to Become a Global Chip Powerhouse Once Again](https://finance.yahoo.com/news/japan-bets-67-billion-become-210013021.html)
+- Feb 21 - [The Lifespan of Large Appliances Is Shrinking](https://www.wsj.com/personal-finance/the-lifespan-of-large-appliances-is-shrinking-e5fb205b)
+- Feb 21 - [If Architects had to work like Programmers](http://www.gksoft.com/a/fun/architects.html)
 - Feb 20 - [Court blocks $1B copyright ruling that punished ISP for its users' piracy](https://arstechnica.com/tech-policy/2024/02/court-blocks-1-billion-copyright-ruling-that-punished-isp-for-its-users-piracy/)
-- Feb 20 - [Video Game Module for Flipper Zero](https://shop.flipperzero.one/products/video-game-module-for-flipper-zero)
-- Feb 20 - [Kagi Sidekick (alpha)](https://sidekick.kagi.com/)
-- Feb 20 - [Spine AI (YC S23) Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-lead-applied-ml-scientist)
-- Feb 20 - [An asteroid wiped out dinosaurs – did it help birds flourish?](https://www.nytimes.com/2024/02/12/science/bird-evolution-asteroid-dinosaurs.html)
 <!--END_SECTION:hn-->
 
 <!--
