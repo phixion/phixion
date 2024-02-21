@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 21 - [Cool website to remove the paywall on any article](https://www.archivebuttons.com/)
-- Feb 21 - [Japan Bets $67B to Become a Global Chip Powerhouse Once Again](https://finance.yahoo.com/news/japan-bets-67-billion-become-210013021.html)
-- Feb 21 - [The Lifespan of Large Appliances Is Shrinking](https://www.wsj.com/personal-finance/the-lifespan-of-large-appliances-is-shrinking-e5fb205b)
-- Feb 21 - [If Architects had to work like Programmers](http://www.gksoft.com/a/fun/architects.html)
-- Feb 20 - [Court blocks $1B copyright ruling that punished ISP for its users' piracy](https://arstechnica.com/tech-policy/2024/02/court-blocks-1-billion-copyright-ruling-that-punished-isp-for-its-users-piracy/)
+- Feb 21 - [Game Programming Patterns](https://gameprogrammingpatterns.com/)
+- Feb 21 - [So You Want to Ship a Command-Line Tool for macOS](https://becca.ooo/blog/so-you-want-to-ship-a-command-line-tool-for-macos/)
+- Feb 21 - [ChatGPT Has Gone Berserk](https://garymarcus.substack.com/p/chatgpt-has-gone-berserk)
+- Feb 21 - [100kHz to 6GHz 2 port USB based VNA](https://github.com/jankae/LibreVNA)
+- Feb 21 - [DeepComputing ROMA RISC-V Laptop](https://store.deepcomputing.io/products/dc-roma-risc-v-laptop)
 <!--END_SECTION:hn-->
 
 <!--
