@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 21 - [Air Canada Has to Honor a Refund Policy Its Chatbot Made Up](https://www.wired.com/story/air-canada-chatbot-refund-policy)
-- Feb 21 - [Coffee machine camera at Amazon warehouse raises concerns about surveillance](https://sahanjournal.com/business-work/amazon-coffee-machine-camera-surveillance/)
-- Feb 21 - [The Ruby on Rails Podcast Episode 508: YJIT with Maxime Chevalier-Boisvert](https://www.therubyonrailspodcast.com/508)
-- Feb 21 - [ADHD linked to evolutionary success in ancient humans](https://newatlas.com/science/adhd-evolutionary-benefits-foraging-explore-exploit/)
-- Feb 21 - [RFC 9512: YAML Media Type](https://www.rfc-editor.org/rfc/rfc9512.html)
+- Feb 21 - [The killer app of Gemini Pro 1.5 is video](https://simonwillison.net/2024/Feb/21/gemini-pro-video/)
+- Feb 21 - [Boeing ousts 737 MAX chief](https://www.seattletimes.com/business/boeing-aerospace/boeing-ousts-head-of-737-max-program-reshuffles-leadership-team/)
+- Feb 21 - [AI behavior guardrails should be public](https://twitter.com/ID_AA_Carmack/status/1760360183945965853)
+- Feb 21 - [Useful Uses of Cat](https://two-wrongs.com/useful-uses-of-cat)
+- Feb 21 - [We've been thinking about software integration wrong for the past 50 years](https://nerve-signals.pika.page/posts/we-ve-been-thinking-about-software-integration-wrong-for-the-past-50-years)
 <!--END_SECTION:hn-->
 
 <!--
