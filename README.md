@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 21 - [The killer app of Gemini Pro 1.5 is video](https://simonwillison.net/2024/Feb/21/gemini-pro-video/)
-- Feb 21 - [Boeing ousts 737 MAX chief](https://www.seattletimes.com/business/boeing-aerospace/boeing-ousts-head-of-737-max-program-reshuffles-leadership-team/)
-- Feb 21 - [AI behavior guardrails should be public](https://twitter.com/ID_AA_Carmack/status/1760360183945965853)
-- Feb 21 - [Useful Uses of Cat](https://two-wrongs.com/useful-uses-of-cat)
-- Feb 21 - [We've been thinking about software integration wrong for the past 50 years](https://nerve-signals.pika.page/posts/we-ve-been-thinking-about-software-integration-wrong-for-the-past-50-years)
+- Feb 21 - [Go Run](https://breadchris.com/blog/go-run/)
+- Feb 21 - [Atuin – Magical Shell History](https://atuin.sh)
+- Feb 21 - [An Introduction to the Theory and Practice of Poker (2020)](https://hopkinspokercourse.com/)
+- Feb 21 - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+- Feb 21 - [Moving a billion Postgres rows on a $100 budget](https://blog.peerdb.io/moving-a-billion-postgres-rows-on-a-100-budget)
 <!--END_SECTION:hn-->
 
 <!--
