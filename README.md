@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 22 - [Show HN: Released Chartbrew v3.0 an open source client reporting platform](https://github.com/chartbrew/chartbrew/releases/tag/v3.0.0)
-- Feb 22 - [Polypane 18: Introducing Polypane Portal](https://polypane.app/blog/polypane-18-introducing-polypane-portal/)
-- Feb 22 - [Why Is California the Way It Is?](https://unchartedterritories.tomaspueyo.com/p/why-is-california-the-way-it-is)
-- Feb 22 - [Launch HN: Danswer (YC W24) – Open-source AI search and chat over private data](https://news.ycombinator.com/item?id=39467413)
-- Feb 22 - [Show HN: Pages CMS – A CMS for GitHub](https://pagescms.org)
+- Feb 22 - [Our Company Is Doing So Well That You're All Fired](https://www.mcsweeneys.net/articles/our-company-is-doing-so-well-that-youre-all-fired)
+- Feb 22 - [Phind-70B: Closing the code quality gap with GPT-4 Turbo while running 4x faster](https://www.phind.com/blog/introducing-phind-70b)
+- Feb 22 - [Expanding Our Partnership with Google](https://www.redditinc.com/blog/reddit-and-google-expand-partnership)
+- Feb 22 - [New code for SIGILL faults to help identify misbranches on OpenBSD](https://www.undeadly.org/cgi?action=article;sid=20240222183703)
+- Feb 22 - [Linaro at FOSDEM 2024](https://www.linaro.org/blog/linaro-fosdem-2024/)
 <!--END_SECTION:hn-->
 
 <!--
