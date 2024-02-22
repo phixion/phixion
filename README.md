@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 22 - [Stepful (YC S21) Is Hiring a Product Engineer in New York](https://www.ycombinator.com/companies/stepful/jobs/iLjGDJ0-product-engineer)
-- Feb 22 - [Minimum Volume Ellipsoid](https://www.adrianriv.com/blog/2024/02/19/minimum_volume_ellipsoid/)
-- Feb 22 - [Auth0 OSS alternative Ory Kratos now with passwordless and SMS support](https://github.com/ory/kratos/releases/tag/v1.1.0)
-- Feb 22 - [Gimp 2.99.18 Released: The Last Development Preview Before 3.0](https://www.gimp.org/news/2024/02/21/gimp-2-99-18-released/)
-- Feb 22 - [A Peek at Intel's Future Foundry Tech](https://spectrum.ieee.org/intel-18a)
+- Feb 22 - [Show HN: Released Chartbrew v3.0 an open source client reporting platform](https://github.com/chartbrew/chartbrew/releases/tag/v3.0.0)
+- Feb 22 - [Polypane 18: Introducing Polypane Portal](https://polypane.app/blog/polypane-18-introducing-polypane-portal/)
+- Feb 22 - [Why Is California the Way It Is?](https://unchartedterritories.tomaspueyo.com/p/why-is-california-the-way-it-is)
+- Feb 22 - [Launch HN: Danswer (YC W24) – Open-source AI search and chat over private data](https://news.ycombinator.com/item?id=39467413)
+- Feb 22 - [Show HN: Pages CMS – A CMS for GitHub](https://pagescms.org)
 <!--END_SECTION:hn-->
 
 <!--
