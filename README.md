@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 22 - [Things Unexpectedly Named After People](https://notes.rolandcrosby.com/posts/unexpectedly-eponymous/)
-- Feb 22 - [Japan's Nikkei surpasses 1989 all-time high](https://www.cnbc.com/2024/02/22/japans-nikkei-hits-all-time-high-on-reforms-robust-corporate-earnings.html)
-- Feb 22 - [OpenAI postmortem – Unexpected responses from ChatGPT](https://status.openai.com/incidents/ssg8fh7sfyz3)
-- Feb 21 - [Go Run](https://breadchris.com/blog/go-run/)
-- Feb 21 - [Atuin – Magical Shell History](https://atuin.sh)
+- Feb 22 - [YouTube dominates TV streaming in US, per Nielsen's latest report](https://techcrunch.com/2024/02/20/youtube-dominates-tv-streaming-in-u-s-per-nielsens-latest-report/)
+- Feb 22 - [What Went Wrong at Techstars?](https://www.founderscoop.com/2024/what-went-wrong-at-techstars/)
+- Feb 22 - [A Python Library to 6-7x the inference speed of your HF models](https://github.com/MDK8888/GPTFast)
+- Feb 22 - [Blue Origin has emerged as the likely buyer for United Launch Alliance](https://arstechnica.com/space/2024/02/blue-origin-has-emerged-as-the-likely-buyer-for-united-launch-alliance/)
+- Feb 22 - [Things unexpectedly named after people](https://notes.rolandcrosby.com/posts/unexpectedly-eponymous/)
 <!--END_SECTION:hn-->
 
 <!--
