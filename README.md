@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 22 - [YouTube dominates TV streaming in US, per Nielsen's latest report](https://techcrunch.com/2024/02/20/youtube-dominates-tv-streaming-in-u-s-per-nielsens-latest-report/)
-- Feb 22 - [What Went Wrong at Techstars?](https://www.founderscoop.com/2024/what-went-wrong-at-techstars/)
-- Feb 22 - [A Python Library to 6-7x the inference speed of your HF models](https://github.com/MDK8888/GPTFast)
-- Feb 22 - [Blue Origin has emerged as the likely buyer for United Launch Alliance](https://arstechnica.com/space/2024/02/blue-origin-has-emerged-as-the-likely-buyer-for-united-launch-alliance/)
-- Feb 22 - [Things unexpectedly named after people](https://notes.rolandcrosby.com/posts/unexpectedly-eponymous/)
+- Feb 22 - [Stepful (YC S21) Is Hiring a Product Engineer in New York](https://www.ycombinator.com/companies/stepful/jobs/iLjGDJ0-product-engineer)
+- Feb 22 - [Minimum Volume Ellipsoid](https://www.adrianriv.com/blog/2024/02/19/minimum_volume_ellipsoid/)
+- Feb 22 - [Auth0 OSS alternative Ory Kratos now with passwordless and SMS support](https://github.com/ory/kratos/releases/tag/v1.1.0)
+- Feb 22 - [Gimp 2.99.18 Released: The Last Development Preview Before 3.0](https://www.gimp.org/news/2024/02/21/gimp-2-99-18-released/)
+- Feb 22 - [A Peek at Intel's Future Foundry Tech](https://spectrum.ieee.org/intel-18a)
 <!--END_SECTION:hn-->
 
 <!--
