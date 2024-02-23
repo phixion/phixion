@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 22 - [Our Company Is Doing So Well That You're All Fired](https://www.mcsweeneys.net/articles/our-company-is-doing-so-well-that-youre-all-fired)
-- Feb 22 - [Phind-70B: Closing the code quality gap with GPT-4 Turbo while running 4x faster](https://www.phind.com/blog/introducing-phind-70b)
-- Feb 22 - [Expanding Our Partnership with Google](https://www.redditinc.com/blog/reddit-and-google-expand-partnership)
-- Feb 22 - [New code for SIGILL faults to help identify misbranches on OpenBSD](https://www.undeadly.org/cgi?action=article;sid=20240222183703)
-- Feb 22 - [Linaro at FOSDEM 2024](https://www.linaro.org/blog/linaro-fosdem-2024/)
+- Feb 22 - [Intuitive Machines successfully lands on the Moon](https://www.theguardian.com/science/live/2024/feb/22/nasa-odysseus-moon-landing-intuitive-machines)
+- Feb 22 - [Show HN: Real-time image generation with SDXL Lightning](https://fastsdxl.ai/)
+- Feb 22 - [Htmx vs. React: A Complete Comparison – Semaphore](https://semaphoreci.com/blog/htmx-react)
+- Feb 22 - [What ZIL metrics are exposed by (Open)ZFS on Linux](https://utcc.utoronto.ca/~cks/space/blog/linux/ZFSGlobalZILInformation)
+- Feb 22 - [Show HN: Supermaven, the first code completion tool with 300k token context](https://supermaven.com/blog/introducing-supermaven)
 <!--END_SECTION:hn-->
 
 <!--
