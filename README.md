@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 23 - [FlutterFlow (YC W21) Is Hiring](https://news.ycombinator.com/item?id=39479522)
-- Feb 23 - [Hiroshima fallout debris linked to first solar system condensates](https://phys.org/news/2024-02-hiroshima-fallout-debris-linked-solar.html)
-- Feb 23 - [Thanks FedEx, This Is Why We Keep Getting Phished](https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/)
-- Feb 23 - [Your GitHub pull request workflow is slowing everyone down](https://graphite.dev/blog/your-github-pr-workflow-is-slow)
-- Feb 23 - [Brave's AI assistant now integrates with PDFs and Google Drive](https://brave.com/leo-docsupport/)
+- Feb 23 - [Arms exports to Israel must stop immediately: UN experts](https://www.ohchr.org/en/press-releases/2024/02/arms-exports-israel-must-stop-immediately-un-experts)
+- Feb 23 - [AI Is in the Midst of a Fever Dream and It's Only Getting Worse](https://gizmodo.com/ai-fever-dream-it-s-only-getting-worse-1851279436)
+- Feb 23 - [Fixed-Point Combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator)
+- Feb 23 - [I Spent a Week with Gemini Pro 1.5–It's Fantastic](https://every.to/chain-of-thought/i-spent-a-week-with-gemini-pro-1-5-it-s-fantastic)
+- Feb 23 - [Gemma.cpp: lightweight, standalone C++ inference engine for Gemma models](https://github.com/google/gemma.cpp)
 <!--END_SECTION:hn-->
 
 <!--
