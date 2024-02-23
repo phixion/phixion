@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 23 - [Yishan Wong: "Google's Gemini issue is not about woke/DEI"](https://twitter.com/yishan/status/1760859214875132161)
-- Feb 23 - [Show HN: GPU Prices on eBay](https://gpupricecompare.com)
-- Feb 23 - [The Windows Ubuntu Operating System](https://www.wubuntu.org/)
-- Feb 23 - [Resend – Incident report for February 21st, 2024](https://resend.com/blog/incident-report-for-february-21-2024)
-- Feb 23 - [Facial recognition error message on vending machine sparks concern at University](https://kitchener.ctvnews.ca/facial-recognition-error-message-on-vending-machine-sparks-concern-at-university-of-waterloo-1.6779835)
+- Feb 23 - [FlutterFlow (YC W21) Is Hiring](https://news.ycombinator.com/item?id=39479522)
+- Feb 23 - [Hiroshima fallout debris linked to first solar system condensates](https://phys.org/news/2024-02-hiroshima-fallout-debris-linked-solar.html)
+- Feb 23 - [Thanks FedEx, This Is Why We Keep Getting Phished](https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/)
+- Feb 23 - [Your GitHub pull request workflow is slowing everyone down](https://graphite.dev/blog/your-github-pr-workflow-is-slow)
+- Feb 23 - [Brave's AI assistant now integrates with PDFs and Google Drive](https://brave.com/leo-docsupport/)
 <!--END_SECTION:hn-->
 
 <!--
