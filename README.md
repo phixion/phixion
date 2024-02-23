@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 22 - [Intuitive Machines successfully lands on the Moon](https://www.theguardian.com/science/live/2024/feb/22/nasa-odysseus-moon-landing-intuitive-machines)
-- Feb 22 - [Show HN: Real-time image generation with SDXL Lightning](https://fastsdxl.ai/)
-- Feb 22 - [Htmx vs. React: A Complete Comparison – Semaphore](https://semaphoreci.com/blog/htmx-react)
-- Feb 22 - [What ZIL metrics are exposed by (Open)ZFS on Linux](https://utcc.utoronto.ca/~cks/space/blog/linux/ZFSGlobalZILInformation)
-- Feb 22 - [Show HN: Supermaven, the first code completion tool with 300k token context](https://supermaven.com/blog/introducing-supermaven)
+- Feb 23 - [Vice website is shutting down](https://writing.exchange/@ernie/111977450241144169)
+- Feb 23 - [Kagi Smallweb [a directory of small/personal websites]](https://kagi.com/smallweb/)
+- Feb 23 - [A Distributed File System in Go Cut Average Metadata Memory Usage to 100 Bytes](https://juicefs.com/en/blog/engineering/reduce-metadata-memory-usage)
+- Feb 23 - [The Fed Is Behind the Capital One/Discover Merger](https://www.thebignewsletter.com/p/the-fed-is-behind-the-capital-onediscover)
+- Feb 23 - [FOSDEM 2024: PineTime Talk](https://blog.mlich.cz/2024/02/fosdem-2024/)
 <!--END_SECTION:hn-->
 
 <!--
