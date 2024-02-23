@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 23 - [Arms exports to Israel must stop immediately: UN experts](https://www.ohchr.org/en/press-releases/2024/02/arms-exports-israel-must-stop-immediately-un-experts)
-- Feb 23 - [AI Is in the Midst of a Fever Dream and It's Only Getting Worse](https://gizmodo.com/ai-fever-dream-it-s-only-getting-worse-1851279436)
-- Feb 23 - [Fixed-Point Combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator)
-- Feb 23 - [I Spent a Week with Gemini Pro 1.5–It's Fantastic](https://every.to/chain-of-thought/i-spent-a-week-with-gemini-pro-1-5-it-s-fantastic)
-- Feb 23 - [Gemma.cpp: lightweight, standalone C++ inference engine for Gemma models](https://github.com/google/gemma.cpp)
+- Feb 23 - [Curl HTTP/3 security audit](https://daniel.haxx.se/blog/2024/02/23/curl-http-3-security-audit/)
+- Feb 23 - [Forum reactions to Satoshi's Bitcoin paper](https://www.mail-archive.com/search?l=cryptography%40metzdowd.com&q=subject%3A%22Bitcoin+P2P+e%5C-cash+paper%22&o=oldest&f=1&ref=blog.lopp.net)
+- Feb 23 - [Nvidia open source driver to use NVK and Zink for OpenGL on newer GPUs](https://www.gamingonlinux.com/2024/02/nvidia-open-source-driver-to-use-nvk-zink-for-opengl-on-newer-gpus/)
+- Feb 23 - [Show HN: Little Fixes – a spatial forum to improve your city](https://littlefixes.xyz/)
+- Feb 23 - [Beautiful Probability](https://www.readthesequences.com/Beautiful-Probability)
 <!--END_SECTION:hn-->
 
 <!--
