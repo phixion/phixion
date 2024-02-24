@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 23 - [Curl HTTP/3 security audit](https://daniel.haxx.se/blog/2024/02/23/curl-http-3-security-audit/)
-- Feb 23 - [Forum reactions to Satoshi's Bitcoin paper](https://www.mail-archive.com/search?l=cryptography%40metzdowd.com&q=subject%3A%22Bitcoin+P2P+e%5C-cash+paper%22&o=oldest&f=1&ref=blog.lopp.net)
-- Feb 23 - [Nvidia open source driver to use NVK and Zink for OpenGL on newer GPUs](https://www.gamingonlinux.com/2024/02/nvidia-open-source-driver-to-use-nvk-zink-for-opengl-on-newer-gpus/)
-- Feb 23 - [Show HN: Little Fixes – a spatial forum to improve your city](https://littlefixes.xyz/)
-- Feb 23 - [Beautiful Probability](https://www.readthesequences.com/Beautiful-Probability)
+- Feb 23 - [A former Gizmodo writer changed name to 'Slackbot', stayed undetected for months](https://www.theverge.com/2024/2/23/24081249/slack-slackbot-gizmodo-tom-mckay)
+- Feb 23 - [Generative Models: What do they know? Do they know things? Let's find out](https://intrinsic-lora.github.io/)
+- Feb 23 - [Open Source Motion Capture for Autonomous Drones (2023)](https://joshuabird.com/blog/post/mocap-drones)
+- Feb 23 - [Global biggest industries by revenue in 2024](https://www.ibisworld.com/global/industry-trends/biggest-industries-by-revenue/)
+- Feb 23 - [Meta's new LLM-based test generator is a sneak peek to the future of development](https://read.engineerscodex.com/p/metas-new-llm-based-test-generator)
 <!--END_SECTION:hn-->
 
 <!--
