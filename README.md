@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 24 - [Institutions try to preserve the problem to which they are the solution](https://effectiviology.com/shirky-principle/)
-- Feb 24 - [Understanding, Using, and Finetuning Gemma](https://lightning.ai/lightning-ai/studios/understanding-using-and-finetuning-gemma)
-- Feb 24 - [Microsoft Joins the MapLibre Sponsorship Program](https://maplibre.org/news/2024-02-20-msft-announcement/)
-- Feb 24 - [Everyone seems to forget why GNOME and GNOME 3 and Unity happened (2022)](https://liam-on-linux.dreamwidth.org/85359.html)
-- Feb 24 - [How to think about software quality (2022)](https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html)
+- Feb 24 - [Unidentified balloon belongs to amateur balloonist: US official](https://www.nbcnews.com/politics/national-security/us-monitoring-high-altitude-balloon-west-rcna140275)
+- Feb 24 - [Google helped destroy adoption of RSS feeds (2023)](https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds)
+- Feb 24 - [U.S. rice exports to Haiti have unhealthy levels of arsenic, study finds](https://www.reuters.com/world/americas/us-rice-exports-haiti-have-unhealthy-levels-arsenic-study-finds-2024-02-24/)
+- Feb 24 - [Quantifying the diva-ness of national anthem performances](https://pudding.cool/2024/02/anthems/)
+- Feb 24 - [Candy – a minimalistic functional programming language](https://github.com/candy-lang/candy)
 <!--END_SECTION:hn-->
 
 <!--
