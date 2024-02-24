@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 24 - [Geospatial Nix – create, use and deploy today](https://geospatial-nix.today/)
-- Feb 24 - [A modest update to Qubes OS](https://lwn.net/SubscriberLink/962787/35f1ff3af9031437/)
-- Feb 24 - [Herr Bischoff's Spam Blocklists](https://ipbl.herrbischoff.com/)
-- Feb 24 - [Contributing Scrutiny to Nixpkgs](https://jnsgr.uk/2024/02/contributing-scrutiny-to-nixpkgs/)
-- Feb 24 - [Power Metal: is it really about dragons? (2018)](https://notes.atomutek.org/power-metal-and-dragons.html)
+- Feb 24 - [Institutions try to preserve the problem to which they are the solution](https://effectiviology.com/shirky-principle/)
+- Feb 24 - [Understanding, Using, and Finetuning Gemma](https://lightning.ai/lightning-ai/studios/understanding-using-and-finetuning-gemma)
+- Feb 24 - [Microsoft Joins the MapLibre Sponsorship Program](https://maplibre.org/news/2024-02-20-msft-announcement/)
+- Feb 24 - [Everyone seems to forget why GNOME and GNOME 3 and Unity happened (2022)](https://liam-on-linux.dreamwidth.org/85359.html)
+- Feb 24 - [How to think about software quality (2022)](https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html)
 <!--END_SECTION:hn-->
 
 <!--
