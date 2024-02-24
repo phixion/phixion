@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 24 - [Never-Repeating Tiles Can Safeguard Quantum Information](https://www.quantamagazine.org/never-repeating-tiles-can-safeguard-quantum-information-20240223/)
-- Feb 24 - [Quality is a hard sell in big tech](https://www.pcloadletter.dev/blog/big-tech-quality/)
-- Feb 24 - [Please make your table headings sticky](https://btxx.org/posts/Please_Make_Your_Table_Headings_Sticky/)
-- Feb 24 - [Losing two jobs in one year](https://jbennetcodes.medium.com/how-to-lose-two-jobs-in-one-year-e8e428702b91)
-- Feb 24 - [The Ultimate Guide to PostgreSQL Data Change Tracking](https://exaspark.medium.com/the-ultimate-guide-to-postgresql-data-change-tracking-c3fa88779572)
+- Feb 24 - [Geospatial Nix – create, use and deploy today](https://geospatial-nix.today/)
+- Feb 24 - [A modest update to Qubes OS](https://lwn.net/SubscriberLink/962787/35f1ff3af9031437/)
+- Feb 24 - [Herr Bischoff's Spam Blocklists](https://ipbl.herrbischoff.com/)
+- Feb 24 - [Contributing Scrutiny to Nixpkgs](https://jnsgr.uk/2024/02/contributing-scrutiny-to-nixpkgs/)
+- Feb 24 - [Power Metal: is it really about dragons? (2018)](https://notes.atomutek.org/power-metal-and-dragons.html)
 <!--END_SECTION:hn-->
 
 <!--
