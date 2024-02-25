@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 24 - [Unidentified balloon belongs to amateur balloonist: US official](https://www.nbcnews.com/politics/national-security/us-monitoring-high-altitude-balloon-west-rcna140275)
-- Feb 24 - [Google helped destroy adoption of RSS feeds (2023)](https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds)
-- Feb 24 - [U.S. rice exports to Haiti have unhealthy levels of arsenic, study finds](https://www.reuters.com/world/americas/us-rice-exports-haiti-have-unhealthy-levels-arsenic-study-finds-2024-02-24/)
-- Feb 24 - [Quantifying the diva-ness of national anthem performances](https://pudding.cool/2024/02/anthems/)
-- Feb 24 - [Candy – a minimalistic functional programming language](https://github.com/candy-lang/candy)
+- Feb 24 - [GenAI and erroneous medical references](https://hai.stanford.edu/news/generating-medical-errors-genai-and-erroneous-medical-references)
+- Feb 24 - [Ask HN: How to survive as a homeless programmer in the winter (AB, Canada)?](https://news.ycombinator.com/item?id=39495919)
+- Feb 24 - [Science Fiction Short: Hijack](https://spectrum.ieee.org/hard-science-fiction-computer)
+- Feb 24 - [Does offering ChatGPT a tip cause it to generate better text?](https://minimaxir.com/2024/02/chatgpt-tips-analysis/)
+- Feb 24 - [The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962](http://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html)
 <!--END_SECTION:hn-->
 
 <!--
