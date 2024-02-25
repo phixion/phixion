@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 25 - [Deepest Dive Under Antarctica Reveals a Vibrant World](https://www.nationalgeographic.com/magazine/article/under-antarctica-frozen-beauty-exotic-creatures-penguins)
-- Feb 25 - [Egypt announces $35B deal with UAE to buy premium Mediterranean area](https://www.middleeasteye.net/news/egypt-announces-massive-35-billion-deal-uae-develop-ras-el-hekma-north-coast)
-- Feb 25 - [Zero-Rupee Note](https://en.wikipedia.org/wiki/Zero-rupee_note)
-- Feb 25 - [Osquery: An sqlite3 virtual table exposing operating system data to SQL](https://osquery.io/)
-- Feb 25 - [Chip Defense](https://github.com/ochadenas/cpudefense)
+- Feb 25 - [Console.delight](https://frontendmasters.com/blog/console-delight/)
+- Feb 25 - [Write Dumb Code (2018)](https://matthewrocklin.com/write-dumb-code.html)
+- Feb 25 - [Readability.js](https://github.com/mozilla/readability)
+- Feb 25 - [A Girl and Her ViewBuilder](https://cuteios.dev/2024/01/10/viewbuilder.html)
+- Feb 25 - [Vega-Altair: Declarative Visualization in Python](https://altair-viz.github.io/index.html)
 <!--END_SECTION:hn-->
 
 <!--
