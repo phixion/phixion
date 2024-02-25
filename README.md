@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 25 - [Proposition E and Why San Francisco Voters Should Oppose It](https://www.eff.org/deeplinks/2024/02/what-proposition-e-and-why-should-san-francisco-voters-oppose-it)
-- Feb 25 - [Amazon blocks long-running FireTV capability, Breaking apps with no warning](https://www.aftvnews.com/amazon-blocks-long-running-fire-tv-capability-breaking-popular-apps-with-no-warning-and-giving-developers-the-runaround/)
-- Feb 25 - [Every Model Learned by Gradient Descent Is Approximately a Kernel Machine](https://arxiv.org/abs/2012.00152)
-- Feb 25 - [Utility Classes Aren't the Same as Inline Styles](https://frontstuff.io/no-utility-classes-arent-the-same-as-inline-styles)
-- Feb 24 - [Miracle of Wörgl](https://www.alexstonethinkingstrings.com/446414233)
+- Feb 25 - [Earth just experienced its hottest 12 months in recorded history](https://www.theweathernetwork.com/en/news/climate/impacts/january-2024-hottest-on-record-tops-warmest-12-month-period-in-history)
+- Feb 25 - [Ubisoft Employees In France have gone on a Stike](https://playstationcouch.com/post.php?id=161)
+- Feb 25 - [Microsoft tried to sell Bing to Apple in 2018, according to Google court filings](https://9to5mac.com/2024/02/24/microsoft-sell-bing-to-apple/)
+- Feb 25 - [Documentation for the JSON Lines text file format](https://jsonlines.org/)
+- Feb 25 - [Bought a Prison Laptop on eBay](https://twitter.com/zephray_wenting/status/1761548861896606014)
 <!--END_SECTION:hn-->
 
 <!--
