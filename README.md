@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 25 - [I'm confused: what's with the project descriptions at HTTPS://pkgx.dev/pkgs/?](https://github.com/pkgxdev/pantry/issues/5358)
-- Feb 25 - [Why the world stopped having sex](https://www.telegraph.co.uk/news/2024/02/10/france-sex-lives-lowest-level-britain-japan-korea/)
-- Feb 25 - [What is preventing Bing or Google to copy the techniques marginalia or kagi uses](https://news.ycombinator.com/item?id=39499308)
-- Feb 25 - [Hallucination is inevitable: An innate limitation of large language models](https://arxiv.org/abs/2401.11817)
-- Feb 25 - [A Face Is Exposed for AOL Searcher No. 4417749 (2006)](https://www.nytimes.com/2006/08/09/technology/09aol.html)
+- Feb 25 - [Deepest Dive Under Antarctica Reveals a Vibrant World](https://www.nationalgeographic.com/magazine/article/under-antarctica-frozen-beauty-exotic-creatures-penguins)
+- Feb 25 - [Egypt announces $35B deal with UAE to buy premium Mediterranean area](https://www.middleeasteye.net/news/egypt-announces-massive-35-billion-deal-uae-develop-ras-el-hekma-north-coast)
+- Feb 25 - [Zero-Rupee Note](https://en.wikipedia.org/wiki/Zero-rupee_note)
+- Feb 25 - [Osquery: An sqlite3 virtual table exposing operating system data to SQL](https://osquery.io/)
+- Feb 25 - [Chip Defense](https://github.com/ochadenas/cpudefense)
 <!--END_SECTION:hn-->
 
 <!--
