@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 24 - [GenAI and erroneous medical references](https://hai.stanford.edu/news/generating-medical-errors-genai-and-erroneous-medical-references)
-- Feb 24 - [Ask HN: How to survive as a homeless programmer in the winter (AB, Canada)?](https://news.ycombinator.com/item?id=39495919)
-- Feb 24 - [Science Fiction Short: Hijack](https://spectrum.ieee.org/hard-science-fiction-computer)
-- Feb 24 - [Does offering ChatGPT a tip cause it to generate better text?](https://minimaxir.com/2024/02/chatgpt-tips-analysis/)
-- Feb 24 - [The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962](http://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html)
+- Feb 25 - [Proposition E and Why San Francisco Voters Should Oppose It](https://www.eff.org/deeplinks/2024/02/what-proposition-e-and-why-should-san-francisco-voters-oppose-it)
+- Feb 25 - [Amazon blocks long-running FireTV capability, Breaking apps with no warning](https://www.aftvnews.com/amazon-blocks-long-running-fire-tv-capability-breaking-popular-apps-with-no-warning-and-giving-developers-the-runaround/)
+- Feb 25 - [Every Model Learned by Gradient Descent Is Approximately a Kernel Machine](https://arxiv.org/abs/2012.00152)
+- Feb 25 - [Utility Classes Aren't the Same as Inline Styles](https://frontstuff.io/no-utility-classes-arent-the-same-as-inline-styles)
+- Feb 24 - [Miracle of Wörgl](https://www.alexstonethinkingstrings.com/446414233)
 <!--END_SECTION:hn-->
 
 <!--
