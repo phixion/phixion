@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 26 - [Home Screen Advantage](https://infrequently.org/2024/02/home-screen-advantage/)
-- Feb 26 - [Ask HN: What do I do with my side projects?](https://news.ycombinator.com/item?id=39507831)
-- Feb 26 - [New car buying guide: the algorithm (2021)](https://github.com/kutinden/buyingacar/blob/main/README.md)
-- Feb 26 - [$500 drone live calculates position with camera, Google Maps. No GPS](https://dronenr.com.au/2024/02/19/drone-position-gps-camera-google-maps/)
-- Feb 26 - [FDA approves first medication to reduce allergic reactions to multiple foods](https://www.fda.gov/news-events/press-announcements/fda-approves-first-medication-help-reduce-allergic-reactions-multiple-foods-after-accidental)
+- Feb 26 - [Let's compile like it's 1992 (2014)](https://fabiensanglard.net/Compile_Like_Its_1992/index.php)
+- Feb 26 - [Porting Sweet 16 (2004)](http://www.6502.org/source/interpreters/sweet16.htm)
+- Feb 26 - [Firsty.app – free 300kbit/s eSIM for US/EU](https://www.firsty.app/)
+- Feb 26 - [When Apple takes the European Commission for fools: An initial overview](https://theplatformlaw.blog/2024/01/26/when-apple-takes-the-european-commission-for-fools-an-initial-overview-of-apples-new-terms-and-conditions-for-ios-app-distribution-in-the-eu/)
+- Feb 26 - [An interactive guide to Fourier series (2022)](https://injuly.in/blog/fourier-series/index.html)
 <!--END_SECTION:hn-->
 
 <!--
