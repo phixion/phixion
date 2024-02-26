@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 25 - [Console.delight](https://frontendmasters.com/blog/console-delight/)
-- Feb 25 - [Write Dumb Code (2018)](https://matthewrocklin.com/write-dumb-code.html)
-- Feb 25 - [Readability.js](https://github.com/mozilla/readability)
-- Feb 25 - [A Girl and Her ViewBuilder](https://cuteios.dev/2024/01/10/viewbuilder.html)
-- Feb 25 - [Vega-Altair: Declarative Visualization in Python](https://altair-viz.github.io/index.html)
+- Feb 25 - [Consumers are increasingly pushing back against price increases – and winning](https://thegrio.com/2024/02/25/consumers-respond-to-price-increases/)
+- Feb 25 - [Inside North Korea's Forced Labor Program](https://www.newyorker.com/magazine/2024/03/04/inside-north-koreas-forced-labor-program-in-china)
+- Feb 25 - [Drawing and illustrating in the pre-digital time (2019)](https://www.daube.ch/docu/glossary/drawingtools.html)
+- Feb 25 - [Ask HN: Do LLMs get "better" with more processing power and or time per request?](https://news.ycombinator.com/item?id=39504780)
+- Feb 25 - [Show HN: Nekoweb – a retro static web hosting](https://nekoweb.org/)
 <!--END_SECTION:hn-->
 
 <!--
