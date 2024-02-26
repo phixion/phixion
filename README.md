@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 26 - [Let's compile like it's 1992 (2014)](https://fabiensanglard.net/Compile_Like_Its_1992/index.php)
-- Feb 26 - [Porting Sweet 16 (2004)](http://www.6502.org/source/interpreters/sweet16.htm)
-- Feb 26 - [Firsty.app – free 300kbit/s eSIM for US/EU](https://www.firsty.app/)
-- Feb 26 - [When Apple takes the European Commission for fools: An initial overview](https://theplatformlaw.blog/2024/01/26/when-apple-takes-the-european-commission-for-fools-an-initial-overview-of-apples-new-terms-and-conditions-for-ios-app-distribution-in-the-eu/)
-- Feb 26 - [An interactive guide to Fourier series (2022)](https://injuly.in/blog/fourier-series/index.html)
+- Feb 26 - [Authy Desktop EOL moved from August 2024 to March 19 2024](https://support.authy.com/hc/en-us/articles/17592416719003-Business-customer-guide-End-of-Life-EOL-for-use-of-Authy-API-with-Twilio-Authy-Desktop-apps)
+- Feb 26 - [Senior Boeing employee on why he won't fly a MAX: Just Get me Off This Plane](https://www.politico.com/news/magazine/2024/02/26/former-boeing-employee-speaks-out-00142948)
+- Feb 26 - [A Bad Day at the Office](https://airminded.org/2024/02/20/a-bad-day-at-the-office/)
+- Feb 26 - [What lengths will Chinese companies go to get an Nvidia A100 chip?](https://chinai.substack.com/p/chinai-255-panic-buying-speculative)
+- Feb 26 - [Final images of Ingenuity reveal an entire blade broke off the helicopter](https://arstechnica.com/space/2024/02/final-images-of-ingenuity-reveal-an-entire-blade-broke-off-the-helicopter/)
 <!--END_SECTION:hn-->
 
 <!--
