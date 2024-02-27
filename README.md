@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 27 - [Bemlo (YC W22) Is Hiring React devs to change how healthcare shifts are filled](https://www.ycombinator.com/companies/bemlo/jobs/6QWqjSn-senior-frontend-fullstack-developer-ts-node-react)
-- Feb 27 - [On the importance to make games during the game engine's development](https://www.team-nutshell.dev/nutshellengine/articles/making-games-during-development.html)
-- Feb 27 - [Netlify just sent me a $104K bill for a simple static site](https://reddit.com/r/webdev/comments/1b14bty/netlify_just_sent_me_a_104k_bill_for_a_simple/)
-- Feb 27 - [B.C. lawyer reprimanded for citing fake cases invented by ChatGPT](https://www.cbc.ca/news/canada/british-columbia/lawyer-chatgpt-fake-precedent-1.7126393)
-- Feb 27 - [The creator economy can't rely on Patreon](https://joanwestenberg.com/blog/the-creator-economy-cant-rely-on-patreon)
+- Feb 27 - [Promoted.ai (YC W21) Is Hiring – Flink Expert](https://www.ycombinator.com/companies/promoted/jobs/1dLskWr-apache-flink-expert)
+- Feb 27 - [Software Infrastructure 2.0: A Wishlist](https://erikbern.com/2021/04/19/software-infrastructure-2.0-a-wishlist.html)
+- Feb 27 - [Blender Open Movies. Featuring all the production files, assets, and artwork](https://studio.blender.org/films/)
+- Feb 27 - [I turned my open-source project into a full-time business](https://docs.emailengine.app/how-i-turned-my-open-source-project-into/)
+- Feb 27 - [React Labs: What We've Been Working On – February 2024 – React Compiler](https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024)
 <!--END_SECTION:hn-->
 
 <!--
