@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 27 - [Promoted.ai (YC W21) Is Hiring – Flink Expert](https://www.ycombinator.com/companies/promoted/jobs/1dLskWr-apache-flink-expert)
-- Feb 27 - [Software Infrastructure 2.0: A Wishlist](https://erikbern.com/2021/04/19/software-infrastructure-2.0-a-wishlist.html)
-- Feb 27 - [Blender Open Movies. Featuring all the production files, assets, and artwork](https://studio.blender.org/films/)
-- Feb 27 - [I turned my open-source project into a full-time business](https://docs.emailengine.app/how-i-turned-my-open-source-project-into/)
-- Feb 27 - [React Labs: What We've Been Working On – February 2024 – React Compiler](https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024)
+- Feb 27 - [Heat Pumps Take on Cold Climates](https://spectrum.ieee.org/cold-climate-heat-pump)
+- Feb 27 - [Machine Learning Myths Debunked](https://www.hopsworks.ai/post/5-machine-learning-myths-debunked)
+- Feb 27 - ["Expertise Erosion" from Over-Reliance on AI](https://theconversation.com/what-happens-when-we-outsource-boring-but-important-work-to-ai-research-shows-we-forget-how-to-do-it-ourselves-223981)
+- Feb 27 - [Show HN: Mountaineer – Webapps in Python and React](https://github.com/piercefreeman/mountaineer)
+- Feb 27 - [Blazer: Business Intelligence Made Simple](https://github.com/ankane/blazer)
 <!--END_SECTION:hn-->
 
 <!--
