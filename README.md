@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 27 - [Heat Pumps Take on Cold Climates](https://spectrum.ieee.org/cold-climate-heat-pump)
-- Feb 27 - [Machine Learning Myths Debunked](https://www.hopsworks.ai/post/5-machine-learning-myths-debunked)
-- Feb 27 - ["Expertise Erosion" from Over-Reliance on AI](https://theconversation.com/what-happens-when-we-outsource-boring-but-important-work-to-ai-research-shows-we-forget-how-to-do-it-ourselves-223981)
-- Feb 27 - [Show HN: Mountaineer – Webapps in Python and React](https://github.com/piercefreeman/mountaineer)
-- Feb 27 - [Blazer: Business Intelligence Made Simple](https://github.com/ankane/blazer)
+- Feb 27 - [Has the tech industry still not recovered or am I that bad?](https://old.reddit.com/r/MachineLearning/comments/1b0ia76/d_is_the_tech_industry_still_not_recovered_or_i/)
+- Feb 27 - [Xiaomi bets big on its new electric vehicle – targets 20M premium users](https://www.cnbc.com/2024/02/26/xiaomi-bets-on-new-ev-su7-targets-potential-20-million-premium-users.html)
+- Feb 27 - [Synthetic data generation for tabular data](https://github.com/sdv-dev/SDV)
+- Feb 27 - [Apple Cancels Work on Electric Car, Shifts Team to Generative AI](https://www.bloomberg.com/news/articles/2024-02-27/apple-cancels-work-on-electric-car-shifts-team-to-generative-ai)
+- Feb 27 - [Pure Programming Language](https://agraef.github.io/pure-lang/)
 <!--END_SECTION:hn-->
 
 <!--
