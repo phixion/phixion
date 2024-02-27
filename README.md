@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 26 - [Segmenting Comic Books Using SAM (Segment-Anything)](https://vrroom.github.io/blog/2024/02/23/comic-frame-segmentation.html)
-- Feb 26 - [Ask HN: Why do recommender systems not seem good?](https://news.ycombinator.com/item?id=39517455)
-- Feb 26 - [Why Jalapeño Peppers Are Less Spicy Than Ever (2023)](https://www.dmagazine.com/food-drink/2023/05/why-jalapeno-peppers-less-spicy-blame-aggies/)
-- Feb 26 - [New York medical school eliminates tuition after $1B gift](https://www.bbc.com/news/world-us-canada-68407453)
-- Feb 26 - [Odysseus has less than a day left on the Moon before it freezes to death](https://arstechnica.com/space/2024/02/nasa-found-the-private-lander-on-the-moon-but-its-lifetime-is-running-short/)
+- Feb 27 - [Rapier is a set of 2D and 3D physics engines written in Rust](https://rapier.rs/docs/)
+- Feb 27 - [A Font that Renders 14 types of Charts](https://www.vectrotype.com/chartwell)
+- Feb 27 - [Bpftop: Streamlining eBPF performance optimization](https://netflixtechblog.com/announcing-bpftop-streamlining-ebpf-performance-optimization-6a727c1ae2e5?gi=223d75ac1771)
+- Feb 27 - [Breakdown products of niacin may spur vascular inflammation](https://arstechnica.com/science/2024/02/surprising-link-found-between-niacin-and-risk-of-heart-attack-and-stroke/)
+- Feb 26 - [Segmenting Comic book Frames](https://vrroom.github.io/blog/2024/02/23/comic-frame-segmentation.html)
 <!--END_SECTION:hn-->
 
 <!--
