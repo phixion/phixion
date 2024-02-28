@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 28 - [Man Convicted for Trying to Help Undercover Game Wardens Recover a Deer Drone](https://www.outdoorlife.com/hunting/pennsylvania-drone-sting-conviction/)
-- Feb 28 - [The Tech Industry Doesn't Understand Consent – Opt-Out Is Not Consent](https://soatok.blog/2024/02/27/the-tech-industry-doesnt-understand-consent/)
-- Feb 28 - [US Government Buying Legally Available Consumer Data on US Citizens](https://www.politico.com/news/magazine/2024/02/28/government-buying-your-data-00143742)
-- Feb 28 - [Broadcom CEO pay award jumps 164% to $160.8M](https://www.theregister.com/2024/02/28/broadcom_ceo_pay_award_jumps/)
-- Feb 28 - [Orbital reentry from 17000mph looks like dropping out of hyperspace [video]](https://www.youtube.com/watch?v=qw4DseiPu7E)
+- Feb 28 - [90% of tattoo ink contains chemicals that can cause organ damage](https://pubs.acs.org/doi/10.1021/acs.analchem.3c05687#)
+- Feb 28 - [United States White House Report on Memory Safe Programming [pdf]](https://www.whitehouse.gov/wp-content/uploads/2024/02/Final-ONCD-Technical-Report.pdf)
+- Feb 28 - [Stripe Now Requires Physical Biz Address That Isn't a Ups Box](https://support.stripe.com/questions/2024-updates-to-us-verification-requirements-faqs)
+- Feb 28 - [The Yak Shave](https://www.marginalia.nu/log/a_102_yak_shave/)
+- Feb 28 - [OpenCollective Shutting Down](https://daniel-lange.com/archives/186-Opencollective-shutting-down.html)
 <!--END_SECTION:hn-->
 
 <!--
