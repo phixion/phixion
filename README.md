@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 28 - [To Lose Weight, Eating Less Is Far More Important Than Exercising More (2015)](https://www.nytimes.com/2015/06/16/upshot/to-lose-weight-eating-less-is-far-more-important-than-exercising-more.html)
+- Feb 28 - [Don't Mock Your Machine Learning Models in Unit Tests](https://eugeneyan.com/writing/unit-testing-ml/)
+- Feb 28 - [Blind, Alone, and Confused for 24 Hours Challenge (2020)](https://mattlakeman.org/2020/11/08/the-blind-alone-and-confused-for-24-hours-challenge/)
+- Feb 28 - [Tea.xyz causes a flood of spam pull requests to open source projects](https://www.web3isgoinggreat.com/?id=teaxyz-spam)
+- Feb 28 - [New FCC standards should consider latency](https://broadbandbreakfast.com/untitled-12/)
 - Feb 28 - [Building Unorthodox Deep Learning GPU Machines](https://www.kyleboddy.com/2024/01/28/building-deep-learning-machines-unorthodox-gpus/)
-- Feb 28 - [Show HN: I made an app to use local AI as daily driver](https://recurse.chat/)
-- Feb 28 - [Digital Audio Songbook: A Love Letter to My Unfinished Songs](https://echoes.prototape.fm/p/digital-audio-songbook-a-love-letter)
-- Feb 27 - [JEP 467: Markdown Documentation Comments](https://openjdk.org/jeps/467)
 <!--END_SECTION:hn-->
 
 <!--
