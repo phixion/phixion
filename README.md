@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 28 - [Manuals](https://xkcd.com/1343/)
-- Feb 28 - [Learn to Read Korean in 15 Minutes](https://www.ryanestrada.com/learntoreadkoreanin15minutes/)
-- Feb 28 - [Pingora: build fast, reliable and programmable networked systems](https://github.com/cloudflare/pingora)
-- Feb 28 - [The Era of 1-bit LLMs: ternary parameters for cost-effective computing](https://arxiv.org/abs/2402.17764)
-- Feb 28 - [Mistral: The 9-Month-Old AI Startup Challenging Silicon Valley's Giants](https://www.wsj.com/tech/ai/the-9-month-old-ai-startup-challenging-silicon-valleys-giants-ee2e4c48)
+- Feb 28 - [Man Convicted for Trying to Help Undercover Game Wardens Recover a Deer Drone](https://www.outdoorlife.com/hunting/pennsylvania-drone-sting-conviction/)
+- Feb 28 - [The Tech Industry Doesn't Understand Consent – Opt-Out Is Not Consent](https://soatok.blog/2024/02/27/the-tech-industry-doesnt-understand-consent/)
+- Feb 28 - [US Government Buying Legally Available Consumer Data on US Citizens](https://www.politico.com/news/magazine/2024/02/28/government-buying-your-data-00143742)
+- Feb 28 - [Broadcom CEO pay award jumps 164% to $160.8M](https://www.theregister.com/2024/02/28/broadcom_ceo_pay_award_jumps/)
+- Feb 28 - [Orbital reentry from 17000mph looks like dropping out of hyperspace [video]](https://www.youtube.com/watch?v=qw4DseiPu7E)
 <!--END_SECTION:hn-->
 
 <!--
