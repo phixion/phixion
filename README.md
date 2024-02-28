@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 27 - [Has the tech industry still not recovered or am I that bad?](https://old.reddit.com/r/MachineLearning/comments/1b0ia76/d_is_the_tech_industry_still_not_recovered_or_i/)
-- Feb 27 - [Xiaomi bets big on its new electric vehicle – targets 20M premium users](https://www.cnbc.com/2024/02/26/xiaomi-bets-on-new-ev-su7-targets-potential-20-million-premium-users.html)
-- Feb 27 - [Synthetic data generation for tabular data](https://github.com/sdv-dev/SDV)
-- Feb 27 - [Apple Cancels Work on Electric Car, Shifts Team to Generative AI](https://www.bloomberg.com/news/articles/2024-02-27/apple-cancels-work-on-electric-car-shifts-team-to-generative-ai)
-- Feb 27 - [Pure Programming Language](https://agraef.github.io/pure-lang/)
+- Feb 27 - [JEP 467: Markdown Documentation Comments](https://openjdk.org/jeps/467)
+- Feb 27 - [Testcontainers](https://testcontainers.com/)
+- Feb 27 - [US Used AI to Help Find Middle East Targets for Airstrikes](https://www.bloomberg.com/news/articles/2024-02-26/us-says-it-used-ai-to-help-find-targets-it-hit-in-iraq-syria-and-yemen)
+- Feb 27 - [Dealing with surprising human emotions: desk moves (2017)](https://larahogan.me/blog/desk-moves/)
+- Feb 27 - [U.S. Launches Antitrust Investigation of UnitedHealth](https://www.wsj.com/health/healthcare/u-s-launches-antitrust-investigation-of-healthcare-giant-unitedhealth-ff5a00d2)
 <!--END_SECTION:hn-->
 
 <!--
