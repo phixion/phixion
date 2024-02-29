@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 29 - [The KDE desktop gets an overhaul with Plasma 6](https://lwn.net/SubscriberLink/963851/0c64b8038c62432c/)
-- Feb 29 - [Ask HN: Why is HN so often down?](https://news.ycombinator.com/item?id=39548058)
-- Feb 29 - [Hetzner switches to new billing model](https://docs.hetzner.com/general/others/new-billing-model/)
-- Feb 29 - [CT scans show how Heinz's new ketchup cap depends on shear-thinning principles](https://www.lumafield.com/article/heinzs-sustainable-ketchup-cap)
-- Feb 29 - [New jet engine enables efficiency at every speed for cheaper orbital launches](https://twitter.com/k2pilot/status/1763007610993991722)
+- Feb 29 - [The aerodynamics of a turn: How an airplane turns](https://www.boldmethod.com/learn-to-fly/aerodynamics/the-aerodynamics-of-a-turn-in-an-airplane/)
+- Feb 29 - [Unearthing the Oldest Forest on Earth](https://worldsensorium.com/unearthing-the-oldest-forest-on-earth-two-hours-from-new-york-city-you-can-travel-back-nearly-400-million-years/)
+- Feb 29 - [A lock-free ring-buffer with contiguous reservations (2019)](https://ferrous-systems.com/blog/lock-free-ring-buffer/)
+- Feb 29 - [Rendering protein structures inside cells at the atomic level with Unreal Engine](https://www.biorxiv.org/content/10.1101/2023.12.08.570879v1)
+- Feb 29 - [Esperanto, Toki Pona, Swahili, Indonesian](https://sive.rs/esperanto)
 <!--END_SECTION:hn-->
 
 <!--
