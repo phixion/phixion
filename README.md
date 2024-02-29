@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 29 - [An overseas experience with hypertext and packet switching](https://www.cs.auckland.ac.nz/research/groups/CDMTCS/researchreports/download.php?selected-id=884)
-- Feb 29 - [Talc – A fast and flexible allocator for no_std and WebAssembly](https://github.com/SFBdragon/talc)
-- Feb 29 - [Saturn's Hexagon](https://en.wikipedia.org/wiki/Saturn%27s_hexagon)
-- Feb 28 - [Optimize sgemm on RISC-V platform](https://medium.com/@zhaodongyu/optimize-sgemm-on-risc-v-platform-b0098630b444)
-- Feb 28 - [Scientists find genetic signature of Down syndrome in ancient bones](https://www.nytimes.com/2024/02/20/science/down-syndrome-dna-bones.html)
+- Feb 29 - [CT scans show how Heinz's new ketchup cap depends on shear-thinning principles](https://www.lumafield.com/article/heinzs-sustainable-ketchup-cap)
+- Feb 29 - [TIGForums Independent Gaming and Gamedev Discussions](https://forums.tigsource.com/)
+- Feb 29 - [SEC Investigating Whether OpenAI Investors Were Misled](https://www.wsj.com/tech/sec-investigating-whether-openai-investors-were-misled-9d90b411)
+- Feb 29 - [New jet engine enables efficiency at every speed for cheaper orbital launches](https://twitter.com/k2pilot/status/1763007610993991722)
+- Feb 29 - [I keep making things out of checkboxes (2021)](https://www.bryanbraun.com/2021/09/21/i-keep-making-things-out-of-checkboxes/)
 <!--END_SECTION:hn-->
 
 <!--
