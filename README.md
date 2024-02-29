@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 29 - [The aerodynamics of a turn: How an airplane turns](https://www.boldmethod.com/learn-to-fly/aerodynamics/the-aerodynamics-of-a-turn-in-an-airplane/)
-- Feb 29 - [Unearthing the Oldest Forest on Earth](https://worldsensorium.com/unearthing-the-oldest-forest-on-earth-two-hours-from-new-york-city-you-can-travel-back-nearly-400-million-years/)
-- Feb 29 - [A lock-free ring-buffer with contiguous reservations (2019)](https://ferrous-systems.com/blog/lock-free-ring-buffer/)
-- Feb 29 - [Rendering protein structures inside cells at the atomic level with Unreal Engine](https://www.biorxiv.org/content/10.1101/2023.12.08.570879v1)
-- Feb 29 - [Esperanto, Toki Pona, Swahili, Indonesian](https://sive.rs/esperanto)
+- Feb 29 - [WhatsApp Chats Will Soon Work with Other Encrypted Messaging Apps](https://www.wired.com/story/whatsapp-interoperability-messaging/)
+- Feb 29 - [Money Bubble](https://www.tbray.org/ongoing/When/202x/2024/02/25/Money-AI-Bubble)
+- Feb 29 - [Learning to Be Managed](https://medium.com/@theholy7/learning-to-be-managed-630e31c52282)
+- Feb 29 - [The Board of Directors Is in Charge](https://www.bloomberg.com/opinion/articles/2024-02-29/the-board-of-directors-is-in-charge)
+- Feb 29 - [Show HN: Marimo – open-source reactive Python notebook – running in WASM](https://marimo.app/l/c7h6pz)
 <!--END_SECTION:hn-->
 
 <!--
