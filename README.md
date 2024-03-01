@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 01 - [Meta rebuffs Google's virtual reality tie-up proposal](https://www.reuters.com/technology/meta-rebuffed-google-proposal-virtual-reality-tie-up-information-reports-2024-03-01/)
-- Mar 01 - [Old vs. New Growth Trees and the Wood Products They Make](https://hullworks.com/wood/)
-- Mar 01 - [How we applied advanced fuzzing techniques to cURL](https://blog.trailofbits.com/2024/03/01/toward-more-effective-curl-fuzzing/)
-- Mar 01 - [On the Ocean Conditions of Hycean Worlds](https://arxiv.org/abs/2402.12330)
-- Mar 01 - [A story of a large loop with a long instruction dependency chain](https://johnnysswlab.com/a-story-of-a-very-large-loop-with-a-long-instruction-dependency-chain/)
+- Mar 01 - [A Letter to the European Commission on Apple's Lack of DMA Compliance](https://newsroom.spotify.com/2024-03-01/a-letter-to-the-european-commission-on-apples-lack-of-dma-compliance/)
+- Mar 01 - [I accidentally made my link shortener into a malware honeypot](https://app.y.gy/blog/honeypot)
+- Mar 01 - [Colecovision BASIC compiler: CVBasic v0.1.0](https://forums.atariage.com/topic/362182-colecovision-basic-compiler-cvbasic-v010/)
+- Mar 01 - [Apple reverses course on death of Progressive Web Apps in EU](https://appleinsider.com/articles/24/03/01/apple-reverses-course-on-death-of-progressive-web-apps-in-eu)
+- Mar 01 - [The Humbugs of the World (1866)](https://archive.org/details/humbugsofworldac00barn/page/n1/mode/2up)
 <!--END_SECTION:hn-->
 
 <!--
