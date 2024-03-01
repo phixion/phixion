@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 29 - [WhatsApp Chats Will Soon Work with Other Encrypted Messaging Apps](https://www.wired.com/story/whatsapp-interoperability-messaging/)
-- Feb 29 - [Money Bubble](https://www.tbray.org/ongoing/When/202x/2024/02/25/Money-AI-Bubble)
-- Feb 29 - [Learning to Be Managed](https://medium.com/@theholy7/learning-to-be-managed-630e31c52282)
-- Feb 29 - [The Board of Directors Is in Charge](https://www.bloomberg.com/opinion/articles/2024-02-29/the-board-of-directors-is-in-charge)
-- Feb 29 - [Show HN: Marimo – open-source reactive Python notebook – running in WASM](https://marimo.app/l/c7h6pz)
+- Feb 29 - [Wikipedia downgrades CNET's reliability rating after AI-generated articles](https://arstechnica.com/information-technology/2024/02/wikipedia-downgrades-cnets-reliability-rating-after-ai-generated-articles/)
+- Feb 29 - [Functional ownership through fractional uniqueness](https://arxiv.org/abs/2310.18166)
+- Feb 29 - [Things You Should Never Do, Part I (2000)](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
+- Feb 29 - [Defcon: Preventing overload with graceful feature degradation (2023)](https://www.micahlerner.com/2023/07/23/defcon-preventing-overload-with-graceful-feature-degradation.html)
+- Feb 29 - [Ask HN: Did you encounter any leap year bugs today?](https://news.ycombinator.com/item?id=39554539)
 <!--END_SECTION:hn-->
 
 <!--
