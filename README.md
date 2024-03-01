@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 29 - [Wikipedia downgrades CNET's reliability rating after AI-generated articles](https://arstechnica.com/information-technology/2024/02/wikipedia-downgrades-cnets-reliability-rating-after-ai-generated-articles/)
-- Feb 29 - [Functional ownership through fractional uniqueness](https://arxiv.org/abs/2310.18166)
-- Feb 29 - [Things You Should Never Do, Part I (2000)](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
-- Feb 29 - [Defcon: Preventing overload with graceful feature degradation (2023)](https://www.micahlerner.com/2023/07/23/defcon-preventing-overload-with-graceful-feature-degradation.html)
-- Feb 29 - [Ask HN: Did you encounter any leap year bugs today?](https://news.ycombinator.com/item?id=39554539)
+- Mar 01 - [Meta to Wind Down Its News Feature in the US and Australia](https://www.bloomberg.com/news/articles/2024-03-01/meta-to-wind-down-its-news-feature-in-the-us-and-australia)
+- Mar 01 - [Genode: FOSDEM 2024 Aftermath](https://genodians.org/nfeske/2024-02-15-fosdem-aftermath)
+- Mar 01 - [Study finds link between marijuana use and cardiovascular disease](https://arstechnica.com/science/2024/02/marijuana-use-linked-to-increased-risk-of-heart-attack-stroke-study-finds/)
+- Mar 01 - [Alcohol-Related Deaths Surge to Nearly 500 a Day, CDC Says](https://www.nytimes.com/2024/02/29/health/alcohol-deaths-cdc.html)
+- Mar 01 - [Nokia is replacing Huawei at Deutsche Telekom sites in Germany](https://www.lightreading.com/open-ran/nokia-is-replacing-huawei-at-deutsche-telekom-sites-in-germany)
 <!--END_SECTION:hn-->
 
 <!--
