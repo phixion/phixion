@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 01 - [The Lithium-Ion Battery May Not Be the Best Bet for EVs](https://spectrum.ieee.org/ev-batteries-environment)
-- Mar 01 - [Where I'm at on the whole CSS-Tricks thing](https://chriscoyier.net/2024/02/28/where-im-at-on-the-whole-css-tricks-thing/)
-- Mar 01 - [La Bougie Du Sapeur](https://en.wikipedia.org/wiki/La_Bougie_du_Sapeur)
-- Mar 01 - [Photoroom (YC S20) Is Hiring a Frontend State Architect in Paris (Mobx, React)](https://jobs.lever.co/photoroom/fb70ca3c-632f-4b1b-b6e2-004f0240011d?lever-origin=applied&lever-source%5B%5D=yc)
-- Mar 01 - [Streaming HTML out of order without JavaScript](https://lamplightdev.com/blog/2024/01/10/streaming-html-out-of-order-without-javascript/)
+- Mar 01 - [Meta rebuffs Google's virtual reality tie-up proposal](https://www.reuters.com/technology/meta-rebuffed-google-proposal-virtual-reality-tie-up-information-reports-2024-03-01/)
+- Mar 01 - [Old vs. New Growth Trees and the Wood Products They Make](https://hullworks.com/wood/)
+- Mar 01 - [How we applied advanced fuzzing techniques to cURL](https://blog.trailofbits.com/2024/03/01/toward-more-effective-curl-fuzzing/)
+- Mar 01 - [On the Ocean Conditions of Hycean Worlds](https://arxiv.org/abs/2402.12330)
+- Mar 01 - [A story of a large loop with a long instruction dependency chain](https://johnnysswlab.com/a-story-of-a-very-large-loop-with-a-long-instruction-dependency-chain/)
 <!--END_SECTION:hn-->
 
 <!--
