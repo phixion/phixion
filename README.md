@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 01 - [Meta to Wind Down Its News Feature in the US and Australia](https://www.bloomberg.com/news/articles/2024-03-01/meta-to-wind-down-its-news-feature-in-the-us-and-australia)
-- Mar 01 - [Genode: FOSDEM 2024 Aftermath](https://genodians.org/nfeske/2024-02-15-fosdem-aftermath)
-- Mar 01 - [Study finds link between marijuana use and cardiovascular disease](https://arstechnica.com/science/2024/02/marijuana-use-linked-to-increased-risk-of-heart-attack-stroke-study-finds/)
-- Mar 01 - [Alcohol-Related Deaths Surge to Nearly 500 a Day, CDC Says](https://www.nytimes.com/2024/02/29/health/alcohol-deaths-cdc.html)
+- Mar 01 - [JPEG XL and the Pareto Front](https://cloudinary.com/blog/jpeg-xl-and-the-pareto-front)
+- Mar 01 - [Flexible schemas are the mindkiller](https://ludic.mataroa.blog/blog/flexible-schemas-are-the-mindkiller/)
+- Mar 01 - [The "End of Programming" will look a lot like programming (2023)](https://ben11kehoe.medium.com/the-end-of-programming-will-look-a-lot-like-programming-8b877c8efef8)
 - Mar 01 - [Nokia is replacing Huawei at Deutsche Telekom sites in Germany](https://www.lightreading.com/open-ran/nokia-is-replacing-huawei-at-deutsche-telekom-sites-in-germany)
+- Mar 01 - [Show HN: Struct – A Feed-Centric Chat Platform](https://struct.ai/blog/introducing-the-struct-chat-platform)
 <!--END_SECTION:hn-->
 
 <!--
