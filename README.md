@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 02 - [A Growing List of Unicorns Haven't Raised Funding for 3-Plus Years](https://news.crunchbase.com/venture/unicorn-funding-drought-list-offerup/)
-- Mar 02 - [Avoiding fusion plasma tearing instability with deep reinforcement learning](https://www.nature.com/articles/s41586-024-07024-9)
-- Mar 02 - [Writing a Minecraft server from scratch in Bash (2022)](https://sdomi.pl/weblog/15-witchcraft-minecraft-server-in-bash/)
-- Mar 02 - [Scenes from the last operational Morse-code radio station in North America](https://www.theatlantic.com/magazine/archive/2024/04/ann-hermes-morse-code/677468/)
-- Mar 02 - [Mathematicians prove Pólya's conjecture for the eigenvalues of a disk](https://phys.org/news/2024-03-mathematicians-plya-conjecture-eigenvalues-disk.html)
+- Mar 02 - [MyHeritage debuts OldNews.com, offering access to myriad historical newspapers](https://techcrunch.com/2024/03/01/myheritage-launches-oldnews-com-a-website-with-access-to-millions-of-historical-newspaper-pages/)
+- Mar 02 - [Learning Theory from First Principles [pdf]](https://www.di.ens.fr/%7Efbach/ltfp_book.pdf)
+- Mar 02 - [Minimal phone gets back to basics with E Ink display and real keyboard](https://newatlas.com/mobile-technology/minimal-phone-eink-keyboard/)
+- Mar 02 - [Show HN: DanGPT–Dan Abramov as a GenAI with RAG](https://dangpt.vercel.app/)
+- Mar 02 - [Show HN: When To Shop At Trader Joe's (using a homegrown Java single-page app)](https://frequal.com/Perspectives/WhenToShopAtTraderJoes.html)
 <!--END_SECTION:hn-->
 
 <!--
