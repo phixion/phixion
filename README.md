@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 02 - [Ente: Open-Source, E2E Encrypted, Google Photos Alternative](https://ente.io/)
-- Mar 02 - [Google lays off entire team while they are testifying to the city council](https://mas.to/@yogthos/112020432735682211)
-- Mar 02 - [EV LFP Battery Price War at Less Than $56 per KWh Within Six Months](https://www.nextbigfuture.com/2024/01/ev-lfp-battery-price-war-w-55-in-six-months.html)
-- Mar 02 - [Don't Use Discord for FOSS (2021)](https://drewdevault.com/2021/12/28/Dont-use-Discord-for-FOSS.html)
-- Mar 02 - [Phrack 71 Call for Papers](http://www.phrack.org/)
+- Mar 02 - [The Power of the 0.1x Developer: Unsung Heroes of the Codebase](https://medium.com/@Tom1212121/the-power-of-the-0-1x-developer-unsung-heroes-of-the-codebase-7503d37135e8)
+- Mar 02 - [R: Introduction to Data Science](http://rafalab.dfci.harvard.edu/dsbook-part-1/)
+- Mar 02 - [Cowsay](https://en.wikipedia.org/wiki/Cowsay)
+- Mar 02 - [Weather.gov 2.0](https://github.com/weather-gov/weather.gov)
+- Mar 02 - [Use KeePassXC to sign your Git commits](https://code.mendhak.com/keepassxc-sign-git-commit-with-ssh/)
 <!--END_SECTION:hn-->
 
 <!--
