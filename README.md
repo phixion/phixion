@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 02 - [The Power of the 0.1x Developer: Unsung Heroes of the Codebase](https://medium.com/@Tom1212121/the-power-of-the-0-1x-developer-unsung-heroes-of-the-codebase-7503d37135e8)
-- Mar 02 - [R: Introduction to Data Science](http://rafalab.dfci.harvard.edu/dsbook-part-1/)
-- Mar 02 - [Cowsay](https://en.wikipedia.org/wiki/Cowsay)
-- Mar 02 - [Weather.gov 2.0](https://github.com/weather-gov/weather.gov)
-- Mar 02 - [Use KeePassXC to sign your Git commits](https://code.mendhak.com/keepassxc-sign-git-commit-with-ssh/)
+- Mar 02 - [A Growing List of Unicorns Haven't Raised Funding for 3-Plus Years](https://news.crunchbase.com/venture/unicorn-funding-drought-list-offerup/)
+- Mar 02 - [Avoiding fusion plasma tearing instability with deep reinforcement learning](https://www.nature.com/articles/s41586-024-07024-9)
+- Mar 02 - [Writing a Minecraft server from scratch in Bash (2022)](https://sdomi.pl/weblog/15-witchcraft-minecraft-server-in-bash/)
+- Mar 02 - [Scenes from the last operational Morse-code radio station in North America](https://www.theatlantic.com/magazine/archive/2024/04/ann-hermes-morse-code/677468/)
+- Mar 02 - [Mathematicians prove Pólya's conjecture for the eigenvalues of a disk](https://phys.org/news/2024-03-mathematicians-plya-conjecture-eigenvalues-disk.html)
 <!--END_SECTION:hn-->
 
 <!--
