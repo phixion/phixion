@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 02 - [Google Messages RCS is blocked on rooted, custom ROM Android phones](https://9to5google.com/2024/02/29/google-messages-rcs-rooted/)
-- Mar 02 - [Bash Debugging](https://wizardzines.com/comics/bash-debugging/)
-- Mar 02 - [ArtPrompt: ASCII Art-Based Jailbreak Attacks Against Aligned LLMs](https://arxiv.org/abs/2402.11753)
-- Mar 01 - [Ada 95: The Craft of Object-Oriented Programming](https://adaic.org/resources/add_content/docs/craft/html/contents.htm)
-- Mar 01 - [California Approves Waymo Expansion to Los Angeles and SF Peninsula [pdf]](https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/consumer-protection-and-enforcement-division/documents/tlab/av-programs/waymo-al-2-disposition-letter-20240301_signed.pdf)
+- Mar 02 - [Ente: Open-Source, E2E Encrypted, Google Photos Alternative](https://ente.io/)
+- Mar 02 - [Google lays off entire team while they are testifying to the city council](https://mas.to/@yogthos/112020432735682211)
+- Mar 02 - [EV LFP Battery Price War at Less Than $56 per KWh Within Six Months](https://www.nextbigfuture.com/2024/01/ev-lfp-battery-price-war-w-55-in-six-months.html)
+- Mar 02 - [Don't Use Discord for FOSS (2021)](https://drewdevault.com/2021/12/28/Dont-use-Discord-for-FOSS.html)
+- Mar 02 - [Phrack 71 Call for Papers](http://www.phrack.org/)
 <!--END_SECTION:hn-->
 
 <!--
