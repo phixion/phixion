@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 03 - [Binance: Nigeria orders cryptocurrency firm to pay $10B](https://www.bbc.com/news/world-africa-68451238)
+- Mar 03 - [Homeless Mortality Data](https://calmatters.org/housing/homelessness/2024/02/homeless-mortality-report/)
+- Mar 03 - [Algorithmic Thinking (2nd Edition)](https://nostarch.com/algorithmic-thinking-2nd-edition)
+- Mar 03 - [Generating transparent images using Stable Diffusion XL](https://github.com/layerdiffusion/sd-forge-layerdiffusion)
 - Mar 02 - [ShotSpotter: listening in on the neighborhood](https://computer.rip/2024-03-01-listening-in-on-the-neighborhood.html)
-- Mar 02 - [Colombia's Special Word for "You"](https://www.nytimes.com/2024/03/02/world/americas/colombia-sumerce-mothers-mercy.html)
-- Mar 02 - [Where Is All of the Fediverse?](https://blog.benjojo.co.uk/post/who-hosts-the-fediverse-instances)
-- Mar 02 - [Humanoid Locomotion as Next Token Prediction](https://humanoid-next-token-prediction.github.io/)
-- Mar 02 - [Byte Interviews the Apple Lisa Dev Team (1983)](https://computeradsfromthepast.substack.com/p/byte-interviews-the-apple-lisa-dev)
 <!--END_SECTION:hn-->
 
 <!--
