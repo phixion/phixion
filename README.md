@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 03 - [TikTok is finally on the decline](https://slate.com/technology/2024/02/tiktok-declining-finally-why-universal-ads-search.html)
-- Mar 03 - [The Classic Adventures Solution Archive](https://www.solutionarchive.com/)
-- Mar 03 - [AI startups require new strategies: This time it's different](https://longform.asmartbear.com/ai-startups/)
-- Mar 03 - [Supermium – Chromium fork for Win 2003/XP and newer](https://win32subsystem.live/supermium/)
-- Mar 03 - [Show HN: Hancho – A simple and pleasant build system in ~500 lines of Python](https://github.com/aappleby/hancho)
+- Mar 03 - [The People's Peace Treaty of 1971](https://www.larrysworld.com/peoples-peace-treaty/)
+- Mar 03 - [I'll refrain from providing code that involve concepts as you're under 18](https://gemini.google.com/share/238032386438?hl=en)
+- Mar 03 - [Separating a particle's mass from its momentum](https://arxiv.org/abs/2401.10408)
+- Mar 03 - ["AI will cure cancer" misunderstands both AI and medicine](https://rachel.fast.ai/posts/2024-02-20-ai-medicine/)
+- Mar 03 - [Better PC cooling with Python and Grafana](https://calbryant.uk/blog/better-pc-cooling-with-python/)
 <!--END_SECTION:hn-->
 
 <!--
