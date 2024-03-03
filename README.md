@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 02 - [MyHeritage debuts OldNews.com, offering access to myriad historical newspapers](https://techcrunch.com/2024/03/01/myheritage-launches-oldnews-com-a-website-with-access-to-millions-of-historical-newspaper-pages/)
-- Mar 02 - [Learning Theory from First Principles [pdf]](https://www.di.ens.fr/%7Efbach/ltfp_book.pdf)
-- Mar 02 - [Minimal phone gets back to basics with E Ink display and real keyboard](https://newatlas.com/mobile-technology/minimal-phone-eink-keyboard/)
-- Mar 02 - [Show HN: DanGPT–Dan Abramov as a GenAI with RAG](https://dangpt.vercel.app/)
-- Mar 02 - [Show HN: When To Shop At Trader Joe's (using a homegrown Java single-page app)](https://frequal.com/Perspectives/WhenToShopAtTraderJoes.html)
+- Mar 02 - [ShotSpotter: listening in on the neighborhood](https://computer.rip/2024-03-01-listening-in-on-the-neighborhood.html)
+- Mar 02 - [Colombia's Special Word for "You"](https://www.nytimes.com/2024/03/02/world/americas/colombia-sumerce-mothers-mercy.html)
+- Mar 02 - [Where Is All of the Fediverse?](https://blog.benjojo.co.uk/post/who-hosts-the-fediverse-instances)
+- Mar 02 - [Humanoid Locomotion as Next Token Prediction](https://humanoid-next-token-prediction.github.io/)
+- Mar 02 - [Byte Interviews the Apple Lisa Dev Team (1983)](https://computeradsfromthepast.substack.com/p/byte-interviews-the-apple-lisa-dev)
 <!--END_SECTION:hn-->
 
 <!--
