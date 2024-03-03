@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Mar 03 - [Mr. Green Gaming - 27,176 breached accounts](https://haveibeenpwned.com/PwnedWebsites#MrGreenGaming)
 - Feb 28 - [Cutout.Pro - 19,972,829 breached accounts](https://haveibeenpwned.com/PwnedWebsites#CutoutPro)
 - Feb 28 - [Tangerine - 243,462 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Tangerine)
 - Feb 22 - [Facebook Marketplace - 77,267 breached accounts](https://haveibeenpwned.com/PwnedWebsites#FacebookMarketplace)
 - Feb 05 - [Spoutible - 207,114 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Spoutible)
-- Jan 27 - [MyPertamina - 5,970,416 breached accounts](https://haveibeenpwned.com/PwnedWebsites#MyPertamina)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 03 - [Binance: Nigeria orders cryptocurrency firm to pay $10B](https://www.bbc.com/news/world-africa-68451238)
-- Mar 03 - [Homeless Mortality Data](https://calmatters.org/housing/homelessness/2024/02/homeless-mortality-report/)
-- Mar 03 - [Algorithmic Thinking (2nd Edition)](https://nostarch.com/algorithmic-thinking-2nd-edition)
-- Mar 03 - [Generating transparent images using Stable Diffusion XL](https://github.com/layerdiffusion/sd-forge-layerdiffusion)
-- Mar 02 - [ShotSpotter: listening in on the neighborhood](https://computer.rip/2024-03-01-listening-in-on-the-neighborhood.html)
+- Mar 03 - [Feature: Morphcat Games, the New-Gen NES Devs Pushing the 8-Bit Envelope](https://www.nintendolife.com/features/meet-morphcat-games-the-new-gen-nes-devs-pushing-the-8-bit-envelope)
+- Mar 03 - [Known Meta Sites](https://gitlab.com/J4YC33/metablock/-/blob/main/Meta.txt)
+- Mar 03 - [The One Billion Row Challenge in Go: from 1m45s to 4s in nine solutions](https://benhoyt.com/writings/go-1brc/)
+- Mar 03 - [SpaceX just achieved speed of 17Mb/s from satellite to stock Android phone](https://twitter.com/elonmusk/status/1764032892663906313)
+- Mar 03 - [US prescription market hamstrung for 9 days (so far) by ransomware attack](https://arstechnica.com/security/2024/03/us-prescription-market-hamstrung-for-9-days-so-far-by-ransomware-attack/)
 <!--END_SECTION:hn-->
 
 <!--
