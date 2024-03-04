@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 04 - [Artisan AI (YC W24) Is Hiring a VP of E](https://www.ycombinator.com/companies/artisan-ai/jobs/TXSbyeS-founding-vp-of-engineering)
-- Mar 04 - [The Theorist Who Sees Math in Art, Music and Writing](https://www.quantamagazine.org/the-theorist-who-sees-math-in-art-music-and-writing-20240112/)
-- Mar 04 - [A windowed graph Fourier transform (2012)](https://ieeexplore.ieee.org/abstract/document/6319640)
-- Mar 04 - [What Is a Schur Decomposition?](https://nhigham.com/2022/05/11/what-is-a-schur-decomposition/)
-- Mar 04 - [The Singapore Airlines Concorde: The full story](https://mainlymiles.com/2024/03/03/singapore-airlines-concorde-full-story/)
+- Mar 04 - [Google Trims Jobs in Trust and Safety While Others Work 'Around the Clock'](https://www.bloomberg.com/news/articles/2024-03-01/google-trims-jobs-in-trust-and-safety-while-others-work-around-the-clock)
+- Mar 04 - [Rust for Embedded Systems: Current state, challenges and open problems](https://arxiv.org/abs/2311.05063)
+- Mar 04 - [Show HN: Astro App](https://astro.sshh.io/)
+- Mar 04 - [Claude 3 model family](https://www.anthropic.com/news/claude-3-family)
+- Mar 04 - [More than 2M research papers have disappeared from the Internet](https://www.nature.com/articles/d41586-024-00616-5)
 <!--END_SECTION:hn-->
 
 <!--
