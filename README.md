@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 04 - [Google Trims Jobs in Trust and Safety While Others Work 'Around the Clock'](https://www.bloomberg.com/news/articles/2024-03-01/google-trims-jobs-in-trust-and-safety-while-others-work-around-the-clock)
-- Mar 04 - [Rust for Embedded Systems: Current state, challenges and open problems](https://arxiv.org/abs/2311.05063)
-- Mar 04 - [Show HN: Astro App](https://astro.sshh.io/)
-- Mar 04 - [Claude 3 model family](https://www.anthropic.com/news/claude-3-family)
-- Mar 04 - [More than 2M research papers have disappeared from the Internet](https://www.nature.com/articles/d41586-024-00616-5)
+- Mar 04 - [Sigmoid Loss for Language Image Pre-Training (2023)](https://arxiv.org/abs/2303.15343)
+- Mar 04 - [GTPDOOR – A novel backdoor tailored for covert access over the roaming exchange](https://doubleagent.net/telecommunications/backdoor/gtp/2024/02/27/GTPDOOR-COVERT-TELCO-BACKDOOR)
+- Mar 04 - [Borrow checking without lifetimes](https://smallcultfollowing.com/babysteps/blog/2024/03/04/borrow-checking-without-lifetimes/)
+- Mar 04 - [There are only 12 binaries in Talos Linux](https://www.siderolabs.com/blog/there-are-only-12-binaries-in-talos-linux/)
+- Mar 04 - [Le Grand K (2018)](https://www.atlasobscura.com/places/le-grand-k)
 <!--END_SECTION:hn-->
 
 <!--
