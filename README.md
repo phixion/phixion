@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 03 - [Enough with the dead butterflies (2017)](https://www.emilydamstra.com/please-enough-dead-butterflies/)
-- Mar 03 - [Using a solar oven as a radiant refrigerator at night](http://solarcooking.org/radiant-fridge.htm)
-- Mar 03 - [Commerce Department Proposes Imposing "Know Your Customer" on IaaS Providers](https://www.natlawreview.com/article/us-department-commerce-publishes-proposed-rule-imposing-know-your-customer-and)
-- Mar 03 - [CSS for printing to paper](https://voussoir.net/writing/css_for_printing)
-- Mar 03 - [French artists in 1899 envisioned what life would look like in the year 2000](https://www.openculture.com/2024/02/how-french-artists-in-1899-envisioned-what-life-would-look-like-in-the-year-2000.html)
+- Mar 04 - [Smashmallow, Silicon Valley's Failed Marshmallow Startup](https://www.businessinsider.com/smashmallow-lawsuit-marshmallow-failure-silicon-valley-business-growth-2024-1)
+- Mar 04 - [Move over, AI. Scientists announce a new 'organoid intelligence' field](https://edition.cnn.com/2023/03/02/world/brain-computer-organoids-scn/index.html)
+- Mar 04 - [Nvidia CEO says "coding is a dying profession"](https://www.techradar.com/pro/nvidia-ceo-predicts-the-death-of-coding-jensen-huang-says-ai-will-do-the-work-so-kids-dont-need-to-learn)
+- Mar 04 - [SuperKalam (YC W23) Is Hiring](https://www.ycombinator.com/companies/kalam/jobs/R4P4ZvJ-product-analyst)
+- Mar 04 - [What to avoid building as an early stage startup](https://www.numeric.io/blog/avoid-building-as-an-early-startup)
 <!--END_SECTION:hn-->
 
 <!--
