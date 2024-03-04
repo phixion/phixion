@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 03 - [The People's Peace Treaty of 1971](https://www.larrysworld.com/peoples-peace-treaty/)
-- Mar 03 - [I'll refrain from providing code that involve concepts as you're under 18](https://gemini.google.com/share/238032386438?hl=en)
-- Mar 03 - [Separating a particle's mass from its momentum](https://arxiv.org/abs/2401.10408)
-- Mar 03 - ["AI will cure cancer" misunderstands both AI and medicine](https://rachel.fast.ai/posts/2024-02-20-ai-medicine/)
-- Mar 03 - [Better PC cooling with Python and Grafana](https://calbryant.uk/blog/better-pc-cooling-with-python/)
+- Mar 03 - [Enough with the dead butterflies (2017)](https://www.emilydamstra.com/please-enough-dead-butterflies/)
+- Mar 03 - [Using a solar oven as a radiant refrigerator at night](http://solarcooking.org/radiant-fridge.htm)
+- Mar 03 - [Commerce Department Proposes Imposing "Know Your Customer" on IaaS Providers](https://www.natlawreview.com/article/us-department-commerce-publishes-proposed-rule-imposing-know-your-customer-and)
+- Mar 03 - [CSS for printing to paper](https://voussoir.net/writing/css_for_printing)
+- Mar 03 - [French artists in 1899 envisioned what life would look like in the year 2000](https://www.openculture.com/2024/02/how-french-artists-in-1899-envisioned-what-life-would-look-like-in-the-year-2000.html)
 <!--END_SECTION:hn-->
 
 <!--
