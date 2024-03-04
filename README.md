@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 04 - [Film Companies Seek 'Torrenting History' Related to Redditor](https://torrentfreak.com/film-companies-seek-torrenting-history-related-to-redditor-240220/)
-- Mar 04 - [French Court Issues Damages Award for Violation of GPL](https://heathermeeker.com/2024/02/17/french-court-issues-damages-award-for-violation-of-gpl/)
-- Mar 04 - [Bring back private offices](https://albertcory50.substack.com/p/bring-back-private-offices)
-- Mar 04 - [Motion blur all the way down (2022)](https://www.osar.fr/notes/motionblur/)
-- Mar 04 - [Nearly all of California's reservoir's are above their historical averages](https://cdec.water.ca.gov/resapp/RescondMain)
+- Mar 04 - [Artisan AI (YC W24) Is Hiring a VP of E](https://www.ycombinator.com/companies/artisan-ai/jobs/TXSbyeS-founding-vp-of-engineering)
+- Mar 04 - [The Theorist Who Sees Math in Art, Music and Writing](https://www.quantamagazine.org/the-theorist-who-sees-math-in-art-music-and-writing-20240112/)
+- Mar 04 - [A windowed graph Fourier transform (2012)](https://ieeexplore.ieee.org/abstract/document/6319640)
+- Mar 04 - [What Is a Schur Decomposition?](https://nhigham.com/2022/05/11/what-is-a-schur-decomposition/)
+- Mar 04 - [The Singapore Airlines Concorde: The full story](https://mainlymiles.com/2024/03/03/singapore-airlines-concorde-full-story/)
 <!--END_SECTION:hn-->
 
 <!--
