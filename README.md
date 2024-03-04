@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 04 - [Smashmallow, Silicon Valley's Failed Marshmallow Startup](https://www.businessinsider.com/smashmallow-lawsuit-marshmallow-failure-silicon-valley-business-growth-2024-1)
-- Mar 04 - [Move over, AI. Scientists announce a new 'organoid intelligence' field](https://edition.cnn.com/2023/03/02/world/brain-computer-organoids-scn/index.html)
-- Mar 04 - [Nvidia CEO says "coding is a dying profession"](https://www.techradar.com/pro/nvidia-ceo-predicts-the-death-of-coding-jensen-huang-says-ai-will-do-the-work-so-kids-dont-need-to-learn)
-- Mar 04 - [SuperKalam (YC W23) Is Hiring](https://www.ycombinator.com/companies/kalam/jobs/R4P4ZvJ-product-analyst)
-- Mar 04 - [What to avoid building as an early stage startup](https://www.numeric.io/blog/avoid-building-as-an-early-startup)
+- Mar 04 - [Film Companies Seek 'Torrenting History' Related to Redditor](https://torrentfreak.com/film-companies-seek-torrenting-history-related-to-redditor-240220/)
+- Mar 04 - [French Court Issues Damages Award for Violation of GPL](https://heathermeeker.com/2024/02/17/french-court-issues-damages-award-for-violation-of-gpl/)
+- Mar 04 - [Bring back private offices](https://albertcory50.substack.com/p/bring-back-private-offices)
+- Mar 04 - [Motion blur all the way down (2022)](https://www.osar.fr/notes/motionblur/)
+- Mar 04 - [Nearly all of California's reservoir's are above their historical averages](https://cdec.water.ca.gov/resapp/RescondMain)
 <!--END_SECTION:hn-->
 
 <!--
