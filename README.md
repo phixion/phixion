@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 04 - [Miles Davis and the Recording of a Jazz Masterpiece](https://www.esquire.com/entertainment/music/a46871755/james-kaplan-miles-davis-3-shades-of-blue-excerpt/)
-- Mar 04 - [Mark Russinovich: "There is industry consensus on moving away from C/C++"](https://twitter.com/markrussinovich/status/1764742104339898636)
-- Mar 04 - [How I keep myself alive using Golang](https://www.bytesizego.com/blog/keeping-alive-with-go)
-- Mar 04 - [Show HN: 3 years and 1M users later, I just open-sourced my "Internet OS"](https://github.com/HeyPuter/puter)
-- Mar 04 - [GTPDOOR – A novel backdoor tailored for covert access over the roaming exchange](https://doubleagent.net/telecommunications/backdoor/gtp/2024/02/27/GTPDOOR-COVERT-TELCO-BACKDOOR)
+- Mar 05 - ["I became a writer to get rich" (2013)](https://whatever.scalzi.com/2013/01/25/a-quick-moment-of-financial-clarification/)
+- Mar 05 - [Investigating immune response of a man who received 217 Covid vaccines](https://www.fau.eu/2024/03/05/news/research/researchers-investigate-immune-response-of-a-man-who-received-217-covid-vaccinations/)
+- Mar 05 - [Ubicloud: Open, Free, and Portable Cloud](https://www.ubicloud.com/)
+- Mar 05 - [Natron: Open-Source Alternative to Adobe After Effects](https://www.linuxtechmore.com/2024/03/linux-apps-tour-unveiling-natron-your-open-source-alternative-to-adobe-after-effects.html)
+- Mar 05 - [European crash tester says carmakers must bring back physical controls](https://arstechnica.com/cars/2024/03/carmakers-must-bring-back-buttons-to-get-good-safety-scores-in-europe/)
 <!--END_SECTION:hn-->
 
 <!--
