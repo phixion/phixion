@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 05 - [France enshrines 'freedom' to abortion in Constitution, in world first](https://www.lemonde.fr/en/politics/article/2024/03/04/france-enshrines-freedom-to-abortion-in-constitution-in-world-first_6584252_5.html)
+- Mar 05 - [Open-source project ZLUDA lets CUDA apps run on AMD GPUs](https://www.cgchannel.com/2024/02/open-source-project-zluda-lets-cuda-apps-run-on-amd-gpus/)
+- Mar 05 - [Meta outage](https://metastatus.com/)
+- Mar 05 - [The Shen Programming Language](https://shenlanguage.org/)
+- Mar 05 - [LibraryBox](https://jasongriffey.net/librarybox/)
 - Mar 05 - [Cloudflare Announces Firewall for AI](https://blog.cloudflare.com/firewall-for-ai)
-- Mar 05 - [I spend £8,500 a year to live on a train](https://metro.co.uk/2024/03/03/spend-8-500-a-year-live-a-train-20388001/)
-- Mar 05 - [Hetzner GEX44 with Nvidia GPU](https://www.hetzner.com/dedicated-rootserver/matrix-gpu/)
-- Mar 05 - [Library of Juggling](http://libraryofjuggling.com/)
 <!--END_SECTION:hn-->
 
 <!--
