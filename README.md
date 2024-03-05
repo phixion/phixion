@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 05 - ["I became a writer to get rich" (2013)](https://whatever.scalzi.com/2013/01/25/a-quick-moment-of-financial-clarification/)
-- Mar 05 - [Investigating immune response of a man who received 217 Covid vaccines](https://www.fau.eu/2024/03/05/news/research/researchers-investigate-immune-response-of-a-man-who-received-217-covid-vaccinations/)
-- Mar 05 - [Ubicloud: Open, Free, and Portable Cloud](https://www.ubicloud.com/)
-- Mar 05 - [Natron: Open-Source Alternative to Adobe After Effects](https://www.linuxtechmore.com/2024/03/linux-apps-tour-unveiling-natron-your-open-source-alternative-to-adobe-after-effects.html)
+- Mar 05 - [Linux Crosses 4% Market Share Worldwide](https://linuxiac.com/linux-crosses-four-percent-market-share-worldwide/)
+- Mar 05 - [A moment of financial clarification (2013)](https://whatever.scalzi.com/2013/01/25/a-quick-moment-of-financial-clarification/)
+- Mar 05 - [Sell for half a billion and get nothing (2021)](https://www.fundablestartups.com/blog/half-a-billion)
 - Mar 05 - [European crash tester says carmakers must bring back physical controls](https://arstechnica.com/cars/2024/03/carmakers-must-bring-back-buttons-to-get-good-safety-scores-in-europe/)
+- Mar 05 - [CodeCrafters (YC S22) is hiring an influencer manager (interns welcome)](https://www.ycombinator.com/companies/codecrafters/jobs/M2ELjtC-influencer-partnerships-manager)
 <!--END_SECTION:hn-->
 
 <!--
