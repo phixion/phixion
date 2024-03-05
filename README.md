@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 05 - [Open-source project ZLUDA lets CUDA apps run on AMD GPUs](https://www.cgchannel.com/2024/02/open-source-project-zluda-lets-cuda-apps-run-on-amd-gpus/)
-- Mar 05 - [Meta outage](https://metastatus.com/)
-- Mar 05 - [The Shen Programming Language](https://shenlanguage.org/)
-- Mar 05 - [LibraryBox](https://jasongriffey.net/librarybox/)
-- Mar 05 - [Cloudflare Announces Firewall for AI](https://blog.cloudflare.com/firewall-for-ai)
+- Mar 05 - [JEDEC Publishes GDDR7 Graphics Memory Standard](https://www.jedec.org/news/pressreleases/jedec-publishes-gddr7-graphics-memory-standard)
+- Mar 05 - [Linux Touchpad Like MacBook Update: 2023 Progress on Smooth Scrolling](https://www.gitclear.com/blog/linux_touchpad_like_macbook_2023_update_smooth_scroll)
+- Mar 05 - [Tell HN: Pivotal Tracker removes non-enterprise price tiers](https://news.ycombinator.com/item?id=39607630)
+- Mar 05 - [This Is Knuth 3:16 (2002)](http://www.larry.denenberg.com/Knuth-3-16/)
+- Mar 05 - [JetBrains TeamCity Multiple Authentication Bypass Vulnerabilities (Fixed)](https://www.rapid7.com/blog/post/2024/03/04/etr-cve-2024-27198-and-cve-2024-27199-jetbrains-teamcity-multiple-authentication-bypass-vulnerabilities-fixed/)
 <!--END_SECTION:hn-->
 
 <!--
