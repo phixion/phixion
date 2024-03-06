@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 06 - [The Psychopolitics of Trauma](https://www.astralcodexten.com/p/the-psychopolitics-of-trauma)
-- Mar 06 - [Birmingham council's 'equal pay' bankruptcy provided cover for Oracle disaster](https://theconversation.com/how-birmingham-city-councils-equal-pay-bankruptcy-provided-cover-for-ongoing-oracle-it-disaster-224416)
-- Mar 06 - [Show HN: Piping logs, visualizing in a web app – just suffix "| npx logscreen"](https://github.com/soorajshankar/logScreen)
-- Mar 06 - [YaCy, a distributed Web Search Engine, based on a peer-to-peer network](https://yacy.net/)
-- Mar 06 - [Alan Kay's talk at UCLA – Feb 21, 2024 [video]](https://www.youtube.com/watch?v=dZQ7x0-MZcI)
+- Mar 06 - [OneSignal (YC S11) Is Hiring Full Stack and Back End Engineers](https://onesignal.com/careers#section-job)
+- Mar 06 - [Dada, an Experiement by the Creators of Rust](https://dada-lang.org/)
+- Mar 06 - [Welcome to MARCHintosh](https://www.marchintosh.com/)
+- Mar 06 - [Pg_vectorize: The simplest way to do vector search and RAG on Postgres](https://github.com/tembo-io/pg_vectorize)
+- Mar 06 - [SpaceX just showed us what every day could be like in spaceflight](https://arstechnica.com/space/2024/03/in-less-than-24-hours-spacex-launched-3-rockets-and-tested-another/)
 <!--END_SECTION:hn-->
 
 <!--
