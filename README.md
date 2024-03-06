@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 05 - [European court favors strong encryption, calling it key to privacy rights](https://www.washingtonpost.com/technology/2024/03/05/encryption-eu-human-rights-privacy-ruling/)
-- Mar 05 - [Ace of Aces: or, why you should Do Maths as a game designer](https://paxsims.wordpress.com/2024/03/02/ace-of-aces-or-why-you-should-do-maths-as-a-game-designer/)
-- Mar 05 - [Cracking Meta's Messenger Certificate Pinning on macOS](https://texts.blog/2024/02/20/cracking-metas-messenger-certificate-pinning-on-macos/)
-- Mar 05 - [Array languages vs. the curse of the spreadsheet](https://blog.dhsdevelopments.com/array-languages-vs)
-- Mar 05 - [New Federal Rule Caps Credit Card Late Fees at $8](https://www.nytimes.com/2024/03/05/business/credit-card-late-fees.html)
+- Mar 06 - [Propagation of Error in Geometry Constructions (2018)](https://jdh.hamkins.org/propagation-of-error-in-classical-geometry-constructions/)
+- Mar 06 - [OpenAI and Elon Musk](https://openai.com/blog/openai-elon-musk)
+- Mar 06 - [Embedded Swift on the Raspberry Pi Pico](https://forums.swift.org/t/embedded-swift-on-the-raspberry-pi-pico-rp2040-without-the-pico-sdk/69338)
+- Mar 06 - [Accenture to Acquire Udacity](https://techcrunch.com/2024/03/05/accenture-to-acquire-udacity-to-build-a-learning-platform-focused-on-ai/)
+- Mar 06 - [BlackCat Ransomware Group Implodes After Apparent $22M Payment by Change Health](https://krebsonsecurity.com/2024/03/blackcat-ransomware-group-implodes-after-apparent-22m-ransom-payment-by-change-healthcare/)
 <!--END_SECTION:hn-->
 
 <!--
