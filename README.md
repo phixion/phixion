@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 06 - [Propagation of Error in Geometry Constructions (2018)](https://jdh.hamkins.org/propagation-of-error-in-classical-geometry-constructions/)
-- Mar 06 - [OpenAI and Elon Musk](https://openai.com/blog/openai-elon-musk)
-- Mar 06 - [Embedded Swift on the Raspberry Pi Pico](https://forums.swift.org/t/embedded-swift-on-the-raspberry-pi-pico-rp2040-without-the-pico-sdk/69338)
-- Mar 06 - [Accenture to Acquire Udacity](https://techcrunch.com/2024/03/05/accenture-to-acquire-udacity-to-build-a-learning-platform-focused-on-ai/)
-- Mar 06 - [BlackCat Ransomware Group Implodes After Apparent $22M Payment by Change Health](https://krebsonsecurity.com/2024/03/blackcat-ransomware-group-implodes-after-apparent-22m-ransom-payment-by-change-healthcare/)
+- Mar 06 - [The Psychopolitics of Trauma](https://www.astralcodexten.com/p/the-psychopolitics-of-trauma)
+- Mar 06 - [Birmingham council's 'equal pay' bankruptcy provided cover for Oracle disaster](https://theconversation.com/how-birmingham-city-councils-equal-pay-bankruptcy-provided-cover-for-ongoing-oracle-it-disaster-224416)
+- Mar 06 - [Show HN: Piping logs, visualizing in a web app – just suffix "| npx logscreen"](https://github.com/soorajshankar/logScreen)
+- Mar 06 - [YaCy, a distributed Web Search Engine, based on a peer-to-peer network](https://yacy.net/)
+- Mar 06 - [Alan Kay's talk at UCLA – Feb 21, 2024 [video]](https://www.youtube.com/watch?v=dZQ7x0-MZcI)
 <!--END_SECTION:hn-->
 
 <!--
