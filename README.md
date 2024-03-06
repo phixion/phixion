@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 05 - [JEDEC Publishes GDDR7 Graphics Memory Standard](https://www.jedec.org/news/pressreleases/jedec-publishes-gddr7-graphics-memory-standard)
-- Mar 05 - [Linux Touchpad Like MacBook Update: 2023 Progress on Smooth Scrolling](https://www.gitclear.com/blog/linux_touchpad_like_macbook_2023_update_smooth_scroll)
-- Mar 05 - [Tell HN: Pivotal Tracker removes non-enterprise price tiers](https://news.ycombinator.com/item?id=39607630)
-- Mar 05 - [This Is Knuth 3:16 (2002)](http://www.larry.denenberg.com/Knuth-3-16/)
-- Mar 05 - [JetBrains TeamCity Multiple Authentication Bypass Vulnerabilities (Fixed)](https://www.rapid7.com/blog/post/2024/03/04/etr-cve-2024-27198-and-cve-2024-27199-jetbrains-teamcity-multiple-authentication-bypass-vulnerabilities-fixed/)
+- Mar 05 - [European court favors strong encryption, calling it key to privacy rights](https://www.washingtonpost.com/technology/2024/03/05/encryption-eu-human-rights-privacy-ruling/)
+- Mar 05 - [Ace of Aces: or, why you should Do Maths as a game designer](https://paxsims.wordpress.com/2024/03/02/ace-of-aces-or-why-you-should-do-maths-as-a-game-designer/)
+- Mar 05 - [Cracking Meta's Messenger Certificate Pinning on macOS](https://texts.blog/2024/02/20/cracking-metas-messenger-certificate-pinning-on-macos/)
+- Mar 05 - [Array languages vs. the curse of the spreadsheet](https://blog.dhsdevelopments.com/array-languages-vs)
+- Mar 05 - [New Federal Rule Caps Credit Card Late Fees at $8](https://www.nytimes.com/2024/03/05/business/credit-card-late-fees.html)
 <!--END_SECTION:hn-->
 
 <!--
