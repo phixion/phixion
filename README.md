@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 06 - [OneSignal (YC S11) Is Hiring Full Stack and Back End Engineers](https://onesignal.com/careers#section-job)
-- Mar 06 - [Dada, an Experiement by the Creators of Rust](https://dada-lang.org/)
-- Mar 06 - [Welcome to MARCHintosh](https://www.marchintosh.com/)
-- Mar 06 - [Pg_vectorize: The simplest way to do vector search and RAG on Postgres](https://github.com/tembo-io/pg_vectorize)
-- Mar 06 - [SpaceX just showed us what every day could be like in spaceflight](https://arstechnica.com/space/2024/03/in-less-than-24-hours-spacex-launched-3-rockets-and-tested-another/)
+- Mar 06 - [World War II 'Rumor Clinics' Helped America Battle Wild Gossip](https://www.smithsonianmag.com/history/world-war-ii-rumor-clinics-helped-america-battle-wild-gossip-180983883/)
+- Mar 06 - [Lisa Su Says the "Team Is on It" After Tweet About Open-Source AMD GPU Firmware](https://www.phoronix.com/news/Lisa-Su-Tweet-OSS-Firmware)
+- Mar 06 - [GPS Antenna Mods Make Starlink Terminal Immune to Jammers](https://hackaday.com/2024/03/06/gps-antenna-mods-make-starlink-terminal-immune-to-jammers/)
+- Mar 06 - [How likely are chance resemblances between languages? (2002)](https://www.zompist.com/chance.htm)
+- Mar 06 - [Early American Fire Alarm Systems (2022)](https://www.ffam.org/2022/09/17/early-american-fire-alarm-systems/)
 <!--END_SECTION:hn-->
 
 <!--
