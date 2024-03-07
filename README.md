@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Mar 07 - [Online Trade (Онлайн Трейд) - 3,805,265 breached accounts](https://haveibeenpwned.com/PwnedWebsites#OnlineTrade)
 - Mar 07 - [WoTLabs - 21,994 breached accounts](https://haveibeenpwned.com/PwnedWebsites#WoTLabs)
 - Mar 03 - [Mr. Green Gaming - 27,123 breached accounts](https://haveibeenpwned.com/PwnedWebsites#MrGreenGaming)
 - Feb 28 - [Cutout.Pro - 19,972,829 breached accounts](https://haveibeenpwned.com/PwnedWebsites#CutoutPro)
 - Feb 28 - [Tangerine - 243,462 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Tangerine)
-- Feb 22 - [Facebook Marketplace - 77,267 breached accounts](https://haveibeenpwned.com/PwnedWebsites#FacebookMarketplace)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 07 - [Nikon to Acquire US Cinema Camera Manufacturer Red.com, LLC](https://www.nikon.com/company/news/2024/0307_01.html)
-- Mar 07 - [GTK: On fractional scales, fonts and hinting](https://blog.gtk.org/2024/03/07/on-fractional-scales-fonts-and-hinting/)
-- Mar 07 - [On the Double-Slit Experiment and Quantum Interference in the Wolfram Model](https://www.wolframphysics.org/bulletins/2020/08/a-short-note-on-the-double-slit-experiment-and-other-quantum-interference-effects-in-the-wolfram-model/)
-- Mar 07 - [Australian Net Guide magazines – Issue 1, March 1996](https://blog.decryption.net.au/t/australian-net-guide-issue-1-march-1996-cybersex-indigenous-internet-rights-lgbt-resources/152)
-- Mar 07 - [Well-Known URIs](https://www.iana.org/assignments/well-known-uris/well-known-uris.xhtml)
+- Mar 07 - [UpCodes (YC S17) Is Hiring SWEs Across the Americas](https://up.codes/careers?utm_source=HN)
+- Mar 07 - [Steve Wozniak Unveiled: Apple's Origins and Life Today (2024) [video]](https://www.youtube.com/watch?v=FkeueghEBA4)
+- Mar 07 - [Beautiful SAR images of the ocean reveal shipping lanes, wind farms](https://blog.datadesk.eco/p/sky-lapse-in-two-tone)
+- Mar 07 - [The Digital Markets Act is in force What happens now?](https://open-web-advocacy.org/blog/the-digital-markets-act-is-in-force-what-happens-now/)
+- Mar 07 - [The Dumber Side of Smart People](https://collabfund.com/blog/the-dumber-side-of-smart-people/)
 <!--END_SECTION:hn-->
 
 <!--
