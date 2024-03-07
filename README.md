@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 06 - [The Law of Leaky Abstractions (2002)](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
-- Mar 06 - [Detect when your installed Chrome extensions have changed owners](https://github.com/classvsoftware/under-new-management)
-- Mar 06 - [Zapier Central](https://zapier.com/central)
-- Mar 06 - [You Don't Need a Dedicated Cache Service – PostgreSQL as a Cache (2023)](https://martinheinz.dev/blog/105)
-- Mar 06 - [Ultra Librarian joins Flux to take the hard out of hardware](https://www.flux.ai/blog/ultra-librarian-joins-flux-to-take-the-hard-out-of-hardware)
+- Mar 06 - [NTSB says Boeing is withholding key details about door plug on Alaska 737 MAX 9](https://www.npr.org/2024/03/06/1236277058/boeing-737-max-9-alaska-airlines-door-plug-removed-ntsb-commerce-cantwell-cruz)
+- Mar 06 - [Show HN: Known – Semi-smart plant labels](https://www.knownplants.com/)
+- Mar 06 - [Andrew Johnson's drunk vice-presidential inaugural address](https://en.wikipedia.org/wiki/Andrew_Johnson%27s_drunk_vice-presidential_inaugural_address)
+- Mar 06 - [The Art and History of Lettering Comics](https://kleinletters.com/Blog/the-art-and-history-of-lettering-comics/)
+- Mar 06 - [Show HN: Elodin – A better framework for physics simulation](https://github.com/elodin-sys/elodin)
 <!--END_SECTION:hn-->
 
 <!--
