@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 08 - [My favourite animation trick: exponential smoothing](https://lisyarus.github.io/blog/programming/2023/02/21/exponential-smoothing.html)
-- Mar 08 - [Akira Toriyama has died](https://noisypixel.net/dragon-ball-creator-akira-toriyama-has-passed-away/)
-- Mar 08 - [Fasting-mimicking diet causes markers indicating reduced age and disease risk](https://www.nature.com/articles/s41467-024-45260-9)
-- Mar 08 - [Reentry of International Space Station Batteries into Earth's Atmosphere](https://www.esa.int/Space_Safety/Space_Debris/Reentry_of_International_Space_Station_ISS_batteries_into_Earth_s_atmosphere)
-- Mar 08 - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Systems Engineer](https://news.ycombinator.com/item?id=39636569)
+- Mar 08 - [The AI Gold Rush](https://digitopoly.org/2024/03/07/the-ai-gold-rush/)
+- Mar 08 - [OpenGFW: an open source implementation of China's Great Firewall](https://github.com/apernet/OpenGFW)
+- Mar 08 - [Why does the `reset` command include a delay? (2017)](https://unix.stackexchange.com/questions/335648/why-does-the-reset-command-include-a-delay)
+- Mar 08 - [The Greatest Meme Template](https://www.readtrung.com/p/the-greatest-meme-template-ever-ad8)
+- Mar 08 - [After Astra loses 99 percent of its value, founders take rocket firm private](https://arstechnica.com/space/2024/03/after-astra-loses-99-percent-of-its-value-founders-take-rocket-firm-private/)
 <!--END_SECTION:hn-->
 
 <!--
