@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 08 - [The AI Gold Rush](https://digitopoly.org/2024/03/07/the-ai-gold-rush/)
-- Mar 08 - [OpenGFW: an open source implementation of China's Great Firewall](https://github.com/apernet/OpenGFW)
-- Mar 08 - [Why does the `reset` command include a delay? (2017)](https://unix.stackexchange.com/questions/335648/why-does-the-reset-command-include-a-delay)
-- Mar 08 - [The Greatest Meme Template](https://www.readtrung.com/p/the-greatest-meme-template-ever-ad8)
-- Mar 08 - [After Astra loses 99 percent of its value, founders take rocket firm private](https://arstechnica.com/space/2024/03/after-astra-loses-99-percent-of-its-value-founders-take-rocket-firm-private/)
+- Mar 08 - [Ribbon Health (YC S17) Is Hiring a Web Scraping Tech Lead](https://www.ribbonhealth.com/open-roles?gh_jid=5118848004)
+- Mar 08 - [Learning Lessons From The Cyber-Attack: British Library cyber incident review [pdf]](https://www.bl.uk/home/british-library-cyber-incident-review-8-march-2024.pdf)
+- Mar 08 - [The Ruin of Mumbai–Asterisk](https://asteriskmag.com/issues/05/the-ruin-of-mumbai)
+- Mar 08 - [Show HN: A directory of open source alternatives to proprietary software](https://openalternative.co)
+- Mar 08 - [Thierry Breton: Under DMA, there is no room for threats by gatekeepers](https://twitter.com/ThierryBreton/status/1765793776692326891)
 <!--END_SECTION:hn-->
 
 <!--
