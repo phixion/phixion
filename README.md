@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 08 - [Harnessing chaos in Cloudflare offices](https://blog.cloudflare.com/harnessing-office-chaos)
-- Mar 08 - [Build Initramfs Rootless](https://blog.izissise.net/posts/initramfs/)
-- Mar 08 - [Fishing for oil and meat drives extinction of deepwater sharks and rays](https://www.science.org/doi/10.1126/science.ade9121)
-- Mar 08 - [Launch HN: Relari (YC W24) – Identify the root cause of problems in LLM apps](https://news.ycombinator.com/item?id=39641105)
-- Mar 08 - [Home Lab Beginners guide](https://linuxblog.io/home-lab-beginners-guide-hardware/)
+- Mar 08 - [I'm an idiot. I just gave money to kinda-scammers, not the US government](https://news.ycombinator.com/item?id=39644962)
+- Mar 08 - [Apple Reverses Move to Ban 'Fortnite' Maker from the EU](https://www.bloomberg.com/news/articles/2024-03-08/apple-reverses-move-to-ban-fortnite-maker-from-european-union)
+- Mar 08 - [Linux 6.9 Set to Drop the Old NTFS File-System Driver](https://www.phoronix.com/news/Linux-6.9-Dropping-Old-NTFS)
+- Mar 08 - [Boeing 737 MAX suffers landing gear failure, rolls off runway](https://www.theguardian.com/world/2024/mar/08/boeing-plane-off-runway-houston-texas)
+- Mar 08 - [The First Dune Game 32 Years Later: An LGR Retrospective [video]](https://www.youtube.com/watch?v=JvP3d3QB-4k)
 <!--END_SECTION:hn-->
 
 <!--
