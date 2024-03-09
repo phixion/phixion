@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 09 - [4D Knit Dress](https://selfassemblylab.mit.edu/4d-knit-dress)
-- Mar 09 - [Gallery of Simple Websites](https://deadsimplesites.com/)
-- Mar 09 - [The Acme Klein Bottle (From Cliff Stoll and Family)](https://blog.jgc.org/2024/03/the-acme-klein-bottle-from-cliff-stoll.html)
-- Mar 09 - [A helicopter and boats to perform a rare ceremony at the Tower of London](https://www.ianvisits.co.uk/articles/a-helicopter-and-boats-to-perform-a-rare-ceremony-at-the-tower-of-london-70761/)
-- Mar 09 - [How to Produce Green Hydrogen for $1/kg](https://caseyhandmer.wordpress.com/2023/08/16/how-to-produce-green-hydrogen-for-1-kg/)
+- Mar 09 - [Let's give the Mac Classic 4 megs of RAM [video]](https://www.youtube.com/watch?v=_iE-CKcyR2E)
+- Mar 09 - [Bruno](https://www.usebruno.com/)
+- Mar 09 - [Show HN: React Geiger – performance profiling using sound](https://github.com/kristiandupont/react-geiger)
+- Mar 09 - [What Monks Know about Focus](https://www.millersbookreview.com/p/jamie-kreiner-how-to-focus)
+- Mar 09 - [FDA Designates MM120 (LSD) Breakthrough Therapy for Generalized Anxiety Disorder](https://www.businesswire.com/news/home/20240307733599/en/MindMed-Receives-FDA-Breakthrough-Therapy-Designation-and-Announces-Positive-12-Week-Durability-Data-From-Phase-2B-Study-of-MM120-for-Generalized-Anxiety-Disorder)
 <!--END_SECTION:hn-->
 
 <!--
