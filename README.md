@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 09 - [Sieve (YC W22) Is hiring ML engineers to build AI video models](https://www.sievedata.com/)
-- Mar 09 - [SuperC: Parsing All of C by Taming the Preprocessor [pdf]](https://paulgazzillo.com/papers/pldi12.pdf)
-- Mar 09 - [Anomalous contribution to galactic rotation curves due to stochastic spacetime](https://arxiv.org/abs/2402.19459)
-- Mar 09 - [Sycamore Gap: New life springs from rescued tree](https://www.bbc.com/news/science-environment-68497720)
-- Mar 09 - [Differential: Type safe RPC that feels like local functions](https://www.differential.dev)
+- Mar 09 - [4D Knit Dress](https://selfassemblylab.mit.edu/4d-knit-dress)
+- Mar 09 - [Gallery of Simple Websites](https://deadsimplesites.com/)
+- Mar 09 - [The Acme Klein Bottle (From Cliff Stoll and Family)](https://blog.jgc.org/2024/03/the-acme-klein-bottle-from-cliff-stoll.html)
+- Mar 09 - [A helicopter and boats to perform a rare ceremony at the Tower of London](https://www.ianvisits.co.uk/articles/a-helicopter-and-boats-to-perform-a-rare-ceremony-at-the-tower-of-london-70761/)
+- Mar 09 - [How to Produce Green Hydrogen for $1/kg](https://caseyhandmer.wordpress.com/2023/08/16/how-to-produce-green-hydrogen-for-1-kg/)
 <!--END_SECTION:hn-->
 
 <!--
