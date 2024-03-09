@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 09 - [Top US cybersecurity agency hacked and forced to take some systems offline](https://www.cnn.com/2024/03/08/politics/top-us-cybersecurity-agency-cisa-hacked/index.html)
-- Mar 09 - [Building an Information Retrieval System with One Large Language Model](https://arxiv.org/abs/2403.00801)
-- Mar 09 - [Open-Source Screen Recorder](https://github.com/wkaisertexas/ScreenTimeLapse)
-- Mar 08 - [A simple dice game shines a bit of light on the psychology of regret](https://thereader.mitpress.mit.edu/how-fear-of-regret-influences-our-decisions/)
-- Mar 08 - [Tests show high-temperature superconducting magnets are ready for fusion](https://news.mit.edu/2024/tests-show-high-temperature-superconducting-magnets-fusion-ready-0304)
+- Mar 09 - [MKBHD, Fisker, and "the worst car ever reviewed"](https://twitter.com/MorningBrew/status/1766231831345541571)
+- Mar 09 - [Sycamore Gap: New life springs from rescued tree](https://www.bbc.com/news/science-environment-68497720)
+- Mar 09 - [The Suicide PhD Candidate Huixiang Chen (2019)](https://huixiangvoice.medium.com/the-hidden-story-behind-the-suicide-phd-candidate-huixiang-chen-236cd39f79d3)
+- Mar 09 - [Differential: Type safe RPC that feels like local functions](https://www.differential.dev)
+- Mar 09 - [Self-Retrieval: Building an information retrieval system with one LLM](https://arxiv.org/abs/2403.00801)
 <!--END_SECTION:hn-->
 
 <!--
