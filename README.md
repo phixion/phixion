@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 08 - [I'm an idiot. I just gave money to kinda-scammers, not the US government](https://news.ycombinator.com/item?id=39644962)
-- Mar 08 - [Apple Reverses Move to Ban 'Fortnite' Maker from the EU](https://www.bloomberg.com/news/articles/2024-03-08/apple-reverses-move-to-ban-fortnite-maker-from-european-union)
-- Mar 08 - [Linux 6.9 Set to Drop the Old NTFS File-System Driver](https://www.phoronix.com/news/Linux-6.9-Dropping-Old-NTFS)
-- Mar 08 - [Boeing 737 MAX suffers landing gear failure, rolls off runway](https://www.theguardian.com/world/2024/mar/08/boeing-plane-off-runway-houston-texas)
-- Mar 08 - [The First Dune Game 32 Years Later: An LGR Retrospective [video]](https://www.youtube.com/watch?v=JvP3d3QB-4k)
+- Mar 08 - [Ask HN: Longest Breadstick](https://news.ycombinator.com/item?id=39647907)
+- Mar 08 - [OpenAI investigation says it was wrong to fire Sam Altman](https://www.theverge.com/2024/3/8/24094885/openai-sam-altman-investigation-board-results)
+- Mar 08 - [Tests show high-temperature superconducting magnets are ready for fusion](https://news.mit.edu/2024/tests-show-high-temperature-superconducting-magnets-fusion-ready-0304)
+- Mar 08 - [OpenAI board reappoints Altman and adds three other directors](https://www.reuters.com/technology/sam-altman-return-openais-board-information-reports-2024-03-08/)
+- Mar 08 - [Coroutines in JavaScript for web components](https://lorenzofox.dev/posts/component-as-infinite-loop/)
 <!--END_SECTION:hn-->
 
 <!--
