@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 09 - [Let's give the Mac Classic 4 megs of RAM [video]](https://www.youtube.com/watch?v=_iE-CKcyR2E)
-- Mar 09 - [Bruno](https://www.usebruno.com/)
-- Mar 09 - [Show HN: React Geiger – performance profiling using sound](https://github.com/kristiandupont/react-geiger)
-- Mar 09 - [What Monks Know about Focus](https://www.millersbookreview.com/p/jamie-kreiner-how-to-focus)
-- Mar 09 - [FDA Designates MM120 (LSD) Breakthrough Therapy for Generalized Anxiety Disorder](https://www.businesswire.com/news/home/20240307733599/en/MindMed-Receives-FDA-Breakthrough-Therapy-Designation-and-Announces-Positive-12-Week-Durability-Data-From-Phase-2B-Study-of-MM120-for-Generalized-Anxiety-Disorder)
+- Mar 09 - [mRNA vaccines: let's eradicate herpes, cure cancer, and be sick a whole lot less](https://bessstillman.substack.com/p/mrna-vaccines-lets-be-sick-a-whole)
+- Mar 09 - [The Mystery of Sudden Genius](https://www.psychologytoday.com/us/articles/202403/the-mystery-of-sudden-genius)
+- Mar 09 - [Emerge (YC W21) is hiring a Growth Engineer (remote)](https://www.emergetools.com/careers/jobs/growth-engineer)
+- Mar 09 - [The Purple Streetscape](https://computer.rip/2024-03-09-the-purple-streetscape.html)
+- Mar 09 - [The Programmer's Apprentice Project: A Research Overview (1987) [pdf]](http://www.semdesigns.com/Company/Publications/ProgrammersApprentice-AIM-1004.pdf)
 <!--END_SECTION:hn-->
 
 <!--
