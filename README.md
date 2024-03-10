@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 10 - [Ask HN: Did you turn off Google activity tracking?](https://myactivity.google.com/?continue=https://myactivity.google.com/myactivity)
-- Mar 10 - [Yi: Open Foundation Models by 01.ai](https://arxiv.org/abs/2403.04652)
-- Mar 10 - [Ask HN: When will LLMs be able to interrupt or interject?](https://news.ycombinator.com/item?id=39659087)
-- Mar 10 - [Tenstorrent unveils Grayskull, its RISC-V answer to GPUs](https://www.techradar.com/pro/firm-headed-by-legendary-chip-architect-behind-amd-zen-finally-releases-first-hardware-days-after-being-selected-to-build-the-future-of-ai-in-japan-tenstorrent-unveils-grayskull-its-risc-v-answer-to-gpus)
-- Mar 10 - [Kākāpō – A web bundler for Nix strings with context](https://github.com/adisbladis/kakapo)
+- Mar 10 - [The Fashion Police in 16th-century Italy](https://www.medievalists.net/2014/10/fashion-police-16th-century-italy/)
+- Mar 10 - [Rebuilding Memchess.com from Its Archive](https://grondilu.github.io/memchess/)
+- Mar 10 - [Show HN: Timelock.dev – Send a secret into the future using timelock encryption](https://timelock.dev/)
+- Mar 10 - [How far are we from intelligent visual deductive reasoning?](https://arxiv.org/abs/2403.04732)
+- Mar 10 - [Development of a Low-Density Waste-Based Geopolymer Construction Material](https://www.mdpi.com/2075-5309/14/3/684)
 <!--END_SECTION:hn-->
 
 <!--
