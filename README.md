@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 10 - [Show HN: Aussie startup. Debian Trixie phone. Taiwan contract](https://furilabs.com/blog/?no-amp=1)
+- Mar 10 - [Windows 1.0 site – everything there is to know about the first Windows version](https://win1.krnl386.com/)
+- Mar 10 - [Numbers every programmer should know](https://samwho.dev/numbers/?fo)
 - Mar 10 - [Bell Labs: An Institute of Creative Technology (2015)](https://sts10.github.io/2015/09/14/bell-labs-the-idea-factory.html)
 - Mar 10 - [E-Bikes Overtake Buggies for Some Amish (2021)](https://thisebikelife.com/e-bikes-overtake-buggies-for-some-amis/)
-- Mar 10 - [Justice Dept. opens criminal probe of mid-flight blowout on 737 MAX plane](https://www.washingtonpost.com/transportation/2024/03/09/justice-department-investigation-boeing-max-accident/)
 - Mar 10 - [S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
 <!--END_SECTION:hn-->
 
