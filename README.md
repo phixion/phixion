@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 10 - [Windows 1.0 site – everything there is to know about the first Windows version](https://win1.krnl386.com/)
-- Mar 10 - [Numbers every programmer should know](https://samwho.dev/numbers/?fo)
-- Mar 10 - [Bell Labs: An Institute of Creative Technology (2015)](https://sts10.github.io/2015/09/14/bell-labs-the-idea-factory.html)
-- Mar 10 - [E-Bikes Overtake Buggies for Some Amish (2021)](https://thisebikelife.com/e-bikes-overtake-buggies-for-some-amis/)
-- Mar 10 - [S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
+- Mar 10 - [Ask HN: Did you turn off Google activity tracking?](https://myactivity.google.com/?continue=https://myactivity.google.com/myactivity)
+- Mar 10 - [Yi: Open Foundation Models by 01.ai](https://arxiv.org/abs/2403.04652)
+- Mar 10 - [Ask HN: When will LLMs be able to interrupt or interject?](https://news.ycombinator.com/item?id=39659087)
+- Mar 10 - [Tenstorrent unveils Grayskull, its RISC-V answer to GPUs](https://www.techradar.com/pro/firm-headed-by-legendary-chip-architect-behind-amd-zen-finally-releases-first-hardware-days-after-being-selected-to-build-the-future-of-ai-in-japan-tenstorrent-unveils-grayskull-its-risc-v-answer-to-gpus)
+- Mar 10 - [Kākāpō – A web bundler for Nix strings with context](https://github.com/adisbladis/kakapo)
 <!--END_SECTION:hn-->
 
 <!--
