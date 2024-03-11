@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 11 - [Why does Rust choose not to provide `for` comprehensions?](https://langdev.stackexchange.com/questions/2848/why-does-rust-choose-not-to-provide-for-comprehensions)
-- Mar 11 - [Airbnb is banning indoor security cameras](https://www.theverge.com/2024/3/11/24097107/airbnb-indoor-security-camera-ban)
-- Mar 11 - [Intel Gaudi2 chips outperform Nvidia H100 on diffusion transformers](https://stability.ai/news/putting-the-ai-supercomputer-to-work)
-- Mar 11 - [Launch HN: Onedoc (YC W24) – A better way to create PDFs](https://news.ycombinator.com/item?id=39668962)
-- Mar 11 - [Execute formulas stored in database fields with almost standard SQL](https://www.colbert.nl/formulas-in-fields/)
+- Mar 11 - [Show HN: I made Vinlo – Spinning artwork video for your music](https://vinlo.co)
+- Mar 11 - [Kdenlive 24.02 open source video editor released](https://kdenlive.org/en/2024/03/kdenlive-24-02-0-released/)
+- Mar 11 - [Rnote – An open-source vector-based drawing app](https://rnote.flxzt.net/)
+- Mar 11 - [Gemma doesn't suck anymore – 8 bug fixes](https://colab.research.google.com/drive/1fxDWAfPIbC-bHwDSVj5SBmEJ6KG3bUu5?usp=sharing)
+- Mar 11 - [JSON Canvas – An open file format for infinite canvas data](https://jsoncanvas.org/)
 <!--END_SECTION:hn-->
 
 <!--
