@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 11 - [Fern (YC W23) is hiring a deployed engineer in NYC](https://www.ycombinator.com/companies/fern/jobs/6J4HE6G-deployed-engineer)
-- Mar 11 - [Automakers Are Sharing Consumers' Driving Behavior with Insurance Companies](https://www.nytimes.com/2024/03/11/technology/carmakers-driver-tracking-insurance.html)
-- Mar 11 - [Flowers for Algernon (1965) [pdf]](https://www.sdfo.org/gj/stories/flowersforalgernon.pdf)
-- Mar 11 - [SQLPage – Building a full web application with nothing but SQL queries [video]](https://www.youtube.com/watch?v=mXdgmSdaXkg)
-- Mar 11 - [You don't need a database, a queue, a distributed system: Go is enough](https://simonedutto.github.io/2024-03-09/binary-duel)
+- Mar 11 - [Why does Rust choose not to provide `for` comprehensions?](https://langdev.stackexchange.com/questions/2848/why-does-rust-choose-not-to-provide-for-comprehensions)
+- Mar 11 - [Airbnb is banning indoor security cameras](https://www.theverge.com/2024/3/11/24097107/airbnb-indoor-security-camera-ban)
+- Mar 11 - [Intel Gaudi2 chips outperform Nvidia H100 on diffusion transformers](https://stability.ai/news/putting-the-ai-supercomputer-to-work)
+- Mar 11 - [Launch HN: Onedoc (YC W24) – A better way to create PDFs](https://news.ycombinator.com/item?id=39668962)
+- Mar 11 - [Execute formulas stored in database fields with almost standard SQL](https://www.colbert.nl/formulas-in-fields/)
 <!--END_SECTION:hn-->
 
 <!--
