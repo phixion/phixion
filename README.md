@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 11 - [Did the whole pairdrop repo just vanished? #356](https://github.com/fm-sys/snapdrop-android/issues/356)
-- Mar 11 - [Show HN: RE3 – Reversed Engineered GTA3 Source Code](https://github.com/halpz/re3)
-- Mar 11 - [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
-- Mar 11 - [The Zayed Sustainability Prize has launched a US$600K award for Climate Action](https://www.wired.com/sponsored/story/zayed-sustainability-prize/)
-- Mar 11 - [Open-source Rust-based RAG](https://github.com/devflowinc/trieve)
+- Mar 11 - [Fern (YC W23) is hiring a deployed engineer in NYC](https://www.ycombinator.com/companies/fern/jobs/6J4HE6G-deployed-engineer)
+- Mar 11 - [Automakers Are Sharing Consumers' Driving Behavior with Insurance Companies](https://www.nytimes.com/2024/03/11/technology/carmakers-driver-tracking-insurance.html)
+- Mar 11 - [Flowers for Algernon (1965) [pdf]](https://www.sdfo.org/gj/stories/flowersforalgernon.pdf)
+- Mar 11 - [SQLPage – Building a full web application with nothing but SQL queries [video]](https://www.youtube.com/watch?v=mXdgmSdaXkg)
+- Mar 11 - [You don't need a database, a queue, a distributed system: Go is enough](https://simonedutto.github.io/2024-03-09/binary-duel)
 <!--END_SECTION:hn-->
 
 <!--
