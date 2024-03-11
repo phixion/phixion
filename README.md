@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 10 - [The Fashion Police in 16th-century Italy](https://www.medievalists.net/2014/10/fashion-police-16th-century-italy/)
-- Mar 10 - [Rebuilding Memchess.com from Its Archive](https://grondilu.github.io/memchess/)
-- Mar 10 - [Show HN: Timelock.dev – Send a secret into the future using timelock encryption](https://timelock.dev/)
-- Mar 10 - [How far are we from intelligent visual deductive reasoning?](https://arxiv.org/abs/2403.04732)
-- Mar 10 - [Development of a Low-Density Waste-Based Geopolymer Construction Material](https://www.mdpi.com/2075-5309/14/3/684)
+- Mar 10 - [Joe Biden says he would sign bill banning TikTok](https://news.sky.com/story/joe-biden-says-he-would-sign-bill-banning-tiktok-13090624)
+- Mar 10 - [eBPF Documentary](https://www.brendangregg.com/blog//2024-03-10/ebpf-documentary.html)
+- Mar 10 - [Nvidia is sued by authors over AI use of copyrighted works](https://www.reuters.com/technology/nvidia-is-sued-by-authors-over-ai-use-copyrighted-works-2024-03-10/)
+- Mar 10 - [LocalSend: Open-source, cross-platform file sharing to nearby devices](https://localsend.org)
+- Mar 10 - [Monte-Carlo graph search from first principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md)
 <!--END_SECTION:hn-->
 
 <!--
