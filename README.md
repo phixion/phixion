@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 12 - [The Accidental Discovery of a New Vulnerability in Google's OAuth Implementatio [video]](https://www.youtube.com/watch?v=77doS9hCe8A)
-- Mar 12 - [Deterministic Simulation Testing for Our Entire SaaS](https://www.warpstream.com/blog/deterministic-simulation-testing-for-our-entire-saas)
-- Mar 12 - [Show HN: Comma Separated Values (CSV) to Unicode Separated Values (USV)](https://crates.io/crates/csv-to-usv)
-- Mar 12 - [Ask HN: Problems worth solving with a low-code back end?](https://news.ycombinator.com/item?id=39678929)
-- Mar 12 - [More options for apps distributed in the European Union](https://developer.apple.com/news/?id=8c1m8hqt)
+- Mar 12 - [Fig Is Sunsetting](https://fig.io/blog/post/fig-is-sunsetting)
+- Mar 12 - [FloatCompMandelbrot: What impact does floating point precision have on Mandelbr](https://github.com/ProfJski/FloatCompMandelbrot)
+- Mar 12 - [Quantum Soccer (2009)](https://www.gregegan.net/BORDER/Soccer/Soccer.html)
+- Mar 12 - [Astro DB](https://astro.build/db/)
+- Mar 12 - [Launch HN: Glide (YC W24) – AI-assisted technical design docs](https://news.ycombinator.com/item?id=39682183)
 <!--END_SECTION:hn-->
 
 <!--
