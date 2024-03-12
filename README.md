@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 11 - [See 'horned' comet 12P/Pons-Brooks in the night sky](https://www.space.com/comet-12p-pons-brooks-march-2024)
-- Mar 11 - [Roku data breach: Over 15k accounts affected](https://www.claimdepot.com/data-breach/roku)
-- Mar 11 - [A Swimming Dinosaur? Maybe Not, Study Says](https://www.nytimes.com/2024/03/06/science/spinosaurus-dinosaur-fossil-dive.html)
-- Mar 11 - [Tell HN: NetworkSoltutions.com lost the ability to update root DNS w/ custom DNS](https://news.ycombinator.com/item?id=39673213)
-- Mar 11 - [Webb and Hubble confirm Universe's expansion rate](https://www.esa.int/ESA_Multimedia/Images/2024/03/Webb_Hubble_confirm_Universe_s_expansion_rate)
+- Mar 12 - [Is Cosine-Similarity of Embeddings Really About Similarity?](https://arxiv.org/abs/2403.05440)
+- Mar 12 - [Breaking Down Tasks](https://jacobian.org/2024/mar/11/breaking-down-tasks/)
+- Mar 12 - [Incognito Darknet Market Mass-Extorts Buyers, Sellers](https://krebsonsecurity.com/2024/03/incognito-darknet-market-mass-extorts-buyers-sellers/)
+- Mar 12 - [Nature Conformable to Herself (1992)](https://www.sfipress.org/4-nature-conformable-to-herself)
+- Mar 12 - [The New Science on What Ultra-Processed Food Does to Your Brain](https://www.wsj.com/health/wellness/ultra-processed-food-brain-health-7a3f9827)
 <!--END_SECTION:hn-->
 
 <!--
