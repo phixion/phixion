@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 12 - [Cloning a Laptop over NVMe TCP](https://copyninja.in/blog/clone_laptop_nvmet.html)
-- Mar 12 - [Apple's hysterics over new EU antitrust law have led to two climbdowns already](https://finance.yahoo.com/news/apple-hysterics-over-eu-antitrust-153713345.html)
-- Mar 12 - [An Introduction to Knowledge Graphs](https://textmine.com/post/an-introduction-to-knowledge-graphs)
-- Mar 12 - [Using Promise Theory to solve the distributed consensus problem](https://mark-burgess-oslo-mb.medium.com/using-promise-theory-to-solve-the-distributed-consensus-problem-4cc2116f24e1)
-- Mar 12 - [No installation required: how WebAssembly is changing scientific computing](https://www.nature.com/articles/d41586-024-00725-1)
+- Mar 12 - [A glimpse into the universe where Windows died with the 1980s](https://www.theregister.com/2024/03/11/trying_ms_prerelease_os2_2/)
+- Mar 12 - [Ultratec Technology Timeline](https://www.ultratec.com/about/timeline/)
+- Mar 12 - [The internet is slipping out of our reach](https://injuly.in/blog/darker-internet/index.html)
+- Mar 12 - [Google Announces Stealing Part of a Production Language Model](https://twitter.com/_akhaliq/status/1767384751269150828)
+- Mar 12 - [Shields up: New ideas might make active shielding viable](https://arstechnica.com/science/2024/03/shields-up-new-ideas-might-make-active-shielding-viable/)
 <!--END_SECTION:hn-->
 
 <!--
