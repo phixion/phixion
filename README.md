@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 11 - [Show HN: I made Vinlo – Spinning artwork video for your music](https://vinlo.co)
-- Mar 11 - [Kdenlive 24.02 open source video editor released](https://kdenlive.org/en/2024/03/kdenlive-24-02-0-released/)
-- Mar 11 - [Rnote – An open-source vector-based drawing app](https://rnote.flxzt.net/)
-- Mar 11 - [Gemma doesn't suck anymore – 8 bug fixes](https://colab.research.google.com/drive/1fxDWAfPIbC-bHwDSVj5SBmEJ6KG3bUu5?usp=sharing)
-- Mar 11 - [JSON Canvas – An open file format for infinite canvas data](https://jsoncanvas.org/)
+- Mar 11 - [See 'horned' comet 12P/Pons-Brooks in the night sky](https://www.space.com/comet-12p-pons-brooks-march-2024)
+- Mar 11 - [Roku data breach: Over 15k accounts affected](https://www.claimdepot.com/data-breach/roku)
+- Mar 11 - [A Swimming Dinosaur? Maybe Not, Study Says](https://www.nytimes.com/2024/03/06/science/spinosaurus-dinosaur-fossil-dive.html)
+- Mar 11 - [Tell HN: NetworkSoltutions.com lost the ability to update root DNS w/ custom DNS](https://news.ycombinator.com/item?id=39673213)
+- Mar 11 - [Webb and Hubble confirm Universe's expansion rate](https://www.esa.int/ESA_Multimedia/Images/2024/03/Webb_Hubble_confirm_Universe_s_expansion_rate)
 <!--END_SECTION:hn-->
 
 <!--
