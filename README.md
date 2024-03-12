@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 12 - [A glimpse into the universe where Windows died with the 1980s](https://www.theregister.com/2024/03/11/trying_ms_prerelease_os2_2/)
-- Mar 12 - [Ultratec Technology Timeline](https://www.ultratec.com/about/timeline/)
-- Mar 12 - [The internet is slipping out of our reach](https://injuly.in/blog/darker-internet/index.html)
-- Mar 12 - [Google Announces Stealing Part of a Production Language Model](https://twitter.com/_akhaliq/status/1767384751269150828)
-- Mar 12 - [Shields up: New ideas might make active shielding viable](https://arstechnica.com/science/2024/03/shields-up-new-ideas-might-make-active-shielding-viable/)
+- Mar 12 - [The Accidental Discovery of a New Vulnerability in Google's OAuth Implementatio [video]](https://www.youtube.com/watch?v=77doS9hCe8A)
+- Mar 12 - [Deterministic Simulation Testing for Our Entire SaaS](https://www.warpstream.com/blog/deterministic-simulation-testing-for-our-entire-saas)
+- Mar 12 - [Show HN: Comma Separated Values (CSV) to Unicode Separated Values (USV)](https://crates.io/crates/csv-to-usv)
+- Mar 12 - [Ask HN: Problems worth solving with a low-code back end?](https://news.ycombinator.com/item?id=39678929)
+- Mar 12 - [More options for apps distributed in the European Union](https://developer.apple.com/news/?id=8c1m8hqt)
 <!--END_SECTION:hn-->
 
 <!--
