@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 13 - [Give some new links a chance](https://news.ycombinator.com/newest)
-- Mar 13 - [JIT WireGuard](https://fly.io/blog/jit-wireguard-peers/)
-- Mar 13 - [Insult Passphrase Generator](https://cheswick.com/insults)
-- Mar 13 - [Freenginx: Core Nginx Developer Announces Fork of Popular Web Server](https://www.infoq.com/news/2024/03/freenginx-ngnix-web-server/)
-- Mar 13 - [Technical Manual TM 11-410: The Homing Pigeon (1945)](https://www.gutenberg.org/files/55084/55084-h/55084-h.htm)
+- Mar 13 - [Interview: Linus Torvalds (1999)](https://www.linuxjournal.com/article/3655)
+- Mar 13 - [Japan's Space One rocket explodes shortly after launch](https://www.japantimes.co.jp/news/2024/03/13/japan/science-health/space-one-launch/)
+- Mar 13 - [Giant sequoias are a rapidly growing feature of the UK landscape](https://phys.org/news/2024-03-giant-sequoias-rapidly-feature-uk.html)
+- Mar 13 - [The Cordic Algorithm, Theory and FPGA Uses](https://www.adiuvoengineering.com/post/microzed-chronicles-the-cordic-algorithm)
+- Mar 13 - [Show HN: Query Your Sheets with SheetSQL](https://sheetsql.io/)
 <!--END_SECTION:hn-->
 
 <!--
