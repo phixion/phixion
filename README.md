@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 12 - [A ragtag band of internet friends became the best at forecasting world events](https://www.vox.com/future-perfect/2024/2/13/24070864/samotsvety-forecasting-superforecasters-tetlock)
-- Mar 12 - [Detect Caps Lock with JavaScript](https://davidwalsh.name/detect-caps-lock)
-- Mar 12 - [On Migraine Scintillating Scotomas](https://clairelevans.substack.com/p/brighter-than-a-cloud)
-- Mar 12 - [LOCS: Language developed at age 9 in Z80 machine code (1988)](https://nanochess.org/locs.html)
-- Mar 12 - [40 Years of Programming](https://liw.fi/40/)
+- Mar 13 - [Technical Manual TM 11-410: The Homing Pigeon (1945)](https://www.gutenberg.org/files/55084/55084-h/55084-h.htm)
+- Mar 13 - [The New Audi A3 Is Amess with In-Car Subscriptions](https://www.motor1.com/news/711957/2025-audi-a3-in-car-subscriptions/)
+- Mar 13 - [Apple cider vinegar for weight management](https://nutrition.bmj.com/content/early/2024/01/18/bmjnph-2023-000823)
+- Mar 13 - [Japan's Space One rocket explodes seconds after liftoff](https://twitter.com/BNONews/status/1767735668262752601/video/1)
+- Mar 13 - [Nvtop: Linux Task Monitor for Nvidia, AMD and Intel GPUs](https://github.com/Syllo/nvtop)
 <!--END_SECTION:hn-->
 
 <!--
