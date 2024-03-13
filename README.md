@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 12 - [Fig Is Sunsetting](https://fig.io/blog/post/fig-is-sunsetting)
-- Mar 12 - [FloatCompMandelbrot: What impact does floating point precision have on Mandelbr](https://github.com/ProfJski/FloatCompMandelbrot)
-- Mar 12 - [Quantum Soccer (2009)](https://www.gregegan.net/BORDER/Soccer/Soccer.html)
-- Mar 12 - [Astro DB](https://astro.build/db/)
-- Mar 12 - [Launch HN: Glide (YC W24) – AI-assisted technical design docs](https://news.ycombinator.com/item?id=39682183)
+- Mar 12 - [A ragtag band of internet friends became the best at forecasting world events](https://www.vox.com/future-perfect/2024/2/13/24070864/samotsvety-forecasting-superforecasters-tetlock)
+- Mar 12 - [Detect Caps Lock with JavaScript](https://davidwalsh.name/detect-caps-lock)
+- Mar 12 - [On Migraine Scintillating Scotomas](https://clairelevans.substack.com/p/brighter-than-a-cloud)
+- Mar 12 - [LOCS: Language developed at age 9 in Z80 machine code (1988)](https://nanochess.org/locs.html)
+- Mar 12 - [40 Years of Programming](https://liw.fi/40/)
 <!--END_SECTION:hn-->
 
 <!--
