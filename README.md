@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 13 - [Google SIMA](https://twitter.com/GoogleDeepMind/status/1767918515585994818)
-- Mar 13 - [:syntax off (2016)](https://dudzik.co/digress-into-development/syntax-off/)
-- Mar 13 - [US House passes bill to force ByteDance to divest TikTok or face ban](https://www.reuters.com/technology/us-house-vote-force-bytedance-divest-tiktok-or-face-ban-2024-03-13/)
-- Mar 13 - [So you want to abolish time zones (2015)](https://qntm.org/abolish)
-- Mar 13 - [Auto Makers Are Selling Data on Your Driving Habits to Your Insurer](https://www.techdirt.com/2024/03/13/auto-makers-are-selling-data-on-your-driving-habits-to-your-insurer-without-properly-informing-you/)
+- Mar 13 - [IBM and NASA build language models to make scientific knowledge more accessible](https://research.ibm.com/blog/science-expert-LLM)
+- Mar 13 - [Silicon Valley is pricing academics out of AI research](https://www.washingtonpost.com/technology/2024/03/10/big-tech-companies-ai-research/)
+- Mar 13 - [SnapMagic (YC S15) the AI Copilot for electronics is hiring full-stack engineers](https://careers.snapmagic.com/o/senior-full-stack-engineer-snapmagic-copilot-2)
+- Mar 13 - [Stripe's 2023 Annual Letter](https://stripe.com/en-de/annual-updates/2023)
+- Mar 13 - [Emulating the DMD 5620 Terminal (2018)](https://loomcom.com/blog/emulating-the-dmd-5620-terminal/)
 <!--END_SECTION:hn-->
 
 <!--
