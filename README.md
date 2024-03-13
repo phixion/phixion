@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 13 - [Interview: Linus Torvalds (1999)](https://www.linuxjournal.com/article/3655)
-- Mar 13 - [Japan's Space One rocket explodes shortly after launch](https://www.japantimes.co.jp/news/2024/03/13/japan/science-health/space-one-launch/)
-- Mar 13 - [Giant sequoias are a rapidly growing feature of the UK landscape](https://phys.org/news/2024-03-giant-sequoias-rapidly-feature-uk.html)
-- Mar 13 - [The Cordic Algorithm, Theory and FPGA Uses](https://www.adiuvoengineering.com/post/microzed-chronicles-the-cordic-algorithm)
-- Mar 13 - [Show HN: Query Your Sheets with SheetSQL](https://sheetsql.io/)
+- Mar 13 - [Google SIMA](https://twitter.com/GoogleDeepMind/status/1767918515585994818)
+- Mar 13 - [:syntax off (2016)](https://dudzik.co/digress-into-development/syntax-off/)
+- Mar 13 - [US House passes bill to force ByteDance to divest TikTok or face ban](https://www.reuters.com/technology/us-house-vote-force-bytedance-divest-tiktok-or-face-ban-2024-03-13/)
+- Mar 13 - [So you want to abolish time zones (2015)](https://qntm.org/abolish)
+- Mar 13 - [Auto Makers Are Selling Data on Your Driving Habits to Your Insurer](https://www.techdirt.com/2024/03/13/auto-makers-are-selling-data-on-your-driving-habits-to-your-insurer-without-properly-informing-you/)
 <!--END_SECTION:hn-->
 
 <!--
