@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 14 - [Most HR Data Is Bad Data](https://hbr.org/2015/02/most-hr-data-is-bad-data)
-- Mar 14 - [The 'drinking bird' makes a comeback and could power gadgets with clean energy](https://www.cnn.com/2024/03/14/climate/drinking-bird-energy-power-gadgets-climate-intl/index.html)
-- Mar 14 - [Voyager 1 starts making sense again after months of babble](https://www.theregister.com/2024/03/14/voyager_1_not_dead/)
-- Mar 14 - [Show HN: PyKidos, Teach Your Kid Python in the Browser](https://pykidos.github.io/)
-- Mar 14 - [Swirling Forces, Crushing Pressures Measured in the Proton](https://www.quantamagazine.org/swirling-forces-crushing-pressures-measured-in-the-proton-20240314/)
+- Mar 14 - [Scott Manley: SpaceX Orbit Largest Spacecraft in History [video]](https://www.youtube.com/watch?v=8htMpR7mnaM)
+- Mar 14 - [The Mythical Non-Roboticist](https://generalrobots.substack.com/p/the-mythical-non-roboticist)
+- Mar 14 - [Learning From DNA: a grand challenge in biology](https://hazyresearch.stanford.edu/blog/2024-03-14-evo)
+- Mar 14 - [How Figma's databases team lived to tell the scale](https://www.figma.com/blog/how-figmas-databases-team-lived-to-tell-the-scale/)
+- Mar 14 - [Parsing the Postgres protocol – logging executed statements](https://kviklet.dev/blog/parsing-the-postgres-protocol/)
 <!--END_SECTION:hn-->
 
 <!--
