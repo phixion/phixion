@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 14 - [Spreadsheets are all you need.ai](https://spreadsheets-are-all-you-need.ai/index.html)
-- Mar 14 - [Write for Others but Mostly for Yourself (2022)](https://jack-vanlightly.com/blog/2022/1/25/write-for-others-but-mostly-for-yourself)
-- Mar 14 - [Nicolas Bourbaki](https://en.wikipedia.org/wiki/Nicolas_Bourbaki)
-- Mar 14 - [Chasing Passive Income, Americans Turn to Vending Machines](https://www.wsj.com/personal-finance/passive-income-money-vending-machines-41800d11)
-- Mar 14 - [Care](https://johan.hal.se/wrote/2024/02/28/care/)
+- Mar 14 - [I summarized my understanding of Linux systems](https://github.com/lsc4719/MyViewOfLinuxSystems)
+- Mar 14 - [SXSW Tried to Silence Critics with Bogus Trademark and Copyright Claims](https://www.eff.org/deeplinks/2024/03/sxsw-tried-silence-critics-bogus-trademark-and-copyright-claims-eff-fought-back)
+- Mar 14 - [Vancouver's New Mega-Development](https://macleans.ca/society/sen%cc%93a%e1%b8%b5w-vancouver/)
+- Mar 14 - [Resolume](https://www.resolume.com/)
+- Mar 14 - [BlenderBIM – add-on for beautiful, detailed, and data-rich OpenBIM with Blender](https://blenderbim.org/)
 <!--END_SECTION:hn-->
 
 <!--
