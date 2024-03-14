@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 14 - [Oregon Passes Right to Repair Law Apple Lobbied to Kill](https://www.techdirt.com/2024/03/13/oregon-passes-right-to-repair-law-apple-lobbied-to-kill/)
-- Mar 14 - [Starship's Third Flight Test](https://twitter.com/i/broadcasts/1LyxBnOvzvOxN)
-- Mar 14 - [The Good Soldier Švejk](https://blogs.loc.gov/international-collections/2018/03/the-good-soldier-vejk/)
-- Mar 14 - [March 14 (3/14): Pi Day](https://en.wikipedia.org/wiki/Pi_Day)
-- Mar 14 - [Reverse engineering a car key fob signal](https://0x44.cc/radio/2024/03/13/reversing-a-car-key-fob-signal.html)
+- Mar 14 - [Most HR Data Is Bad Data](https://hbr.org/2015/02/most-hr-data-is-bad-data)
+- Mar 14 - [The 'drinking bird' makes a comeback and could power gadgets with clean energy](https://www.cnn.com/2024/03/14/climate/drinking-bird-energy-power-gadgets-climate-intl/index.html)
+- Mar 14 - [Voyager 1 starts making sense again after months of babble](https://www.theregister.com/2024/03/14/voyager_1_not_dead/)
+- Mar 14 - [Show HN: PyKidos, Teach Your Kid Python in the Browser](https://pykidos.github.io/)
+- Mar 14 - [Swirling Forces, Crushing Pressures Measured in the Proton](https://www.quantamagazine.org/swirling-forces-crushing-pressures-measured-in-the-proton-20240314/)
 <!--END_SECTION:hn-->
 
 <!--
