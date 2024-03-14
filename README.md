@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 13 - [IBM and NASA build language models to make scientific knowledge more accessible](https://research.ibm.com/blog/science-expert-LLM)
-- Mar 13 - [Silicon Valley is pricing academics out of AI research](https://www.washingtonpost.com/technology/2024/03/10/big-tech-companies-ai-research/)
-- Mar 13 - [SnapMagic (YC S15) the AI Copilot for electronics is hiring full-stack engineers](https://careers.snapmagic.com/o/senior-full-stack-engineer-snapmagic-copilot-2)
-- Mar 13 - [Stripe's 2023 Annual Letter](https://stripe.com/en-de/annual-updates/2023)
-- Mar 13 - [Emulating the DMD 5620 Terminal (2018)](https://loomcom.com/blog/emulating-the-dmd-5620-terminal/)
+- Mar 13 - [Michael Saylor's MicroStrategy Raising Another $500M to Buy More Bitcoin](https://www.coindesk.com/business/2024/03/13/michael-saylors-microstrategy-raising-another-500m-to-buy-more-bitcoin/)
+- Mar 13 - [LaVague: Open-source Large Action Model to automate Selenium browsing](https://github.com/lavague-ai/LaVague)
+- Mar 13 - [Projective Geometric Algebra](https://projectivegeometricalgebra.org/)
+- Mar 13 - [Giant 'sand battery' holds a week's heat for a whole town](https://newatlas.com/energy/sand-battery-finland/)
+- Mar 13 - [Death by Neti Pot](https://arstechnica.com/science/2024/03/death-by-neti-pot-why-you-shouldnt-use-tap-water-to-clean-your-sinuses/)
 <!--END_SECTION:hn-->
 
 <!--
