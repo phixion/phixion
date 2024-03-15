@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 14 - [Scott Manley: SpaceX Orbit Largest Spacecraft in History [video]](https://www.youtube.com/watch?v=8htMpR7mnaM)
-- Mar 14 - [The Mythical Non-Roboticist](https://generalrobots.substack.com/p/the-mythical-non-roboticist)
-- Mar 14 - [Learning From DNA: a grand challenge in biology](https://hazyresearch.stanford.edu/blog/2024-03-14-evo)
-- Mar 14 - [How Figma's databases team lived to tell the scale](https://www.figma.com/blog/how-figmas-databases-team-lived-to-tell-the-scale/)
-- Mar 14 - [Parsing the Postgres protocol – logging executed statements](https://kviklet.dev/blog/parsing-the-postgres-protocol/)
+- Mar 14 - [Class Action Against General Motors LLC, OnStar LLC, LexisNexis Risk Solutions [pdf]](https://static01.nyt.com/newsgraphics/documenttools/0a813fc8e0ac1b6c/6c03d310-full.pdf)
+- Mar 14 - [Oregon Outback is now the largest Dark Sky Sanctuary in the world](https://www.hereisoregon.com/experiences/2024/03/oregon-outback-is-now-the-largest-dark-sky-sanctuary-in-the-world.html)
+- Mar 14 - [Admin of darknet drug market demanding every user pays ransom after taking money](https://twitter.com/DrRebeccaTidy/status/1767670379609248180)
+- Mar 14 - [What I learned from looking at 900 most popular open source AI tools](https://huyenchip.com/2024/03/14/ai-oss.html)
+- Mar 14 - [Apple Buys DarwinAI Ahead of Major Generative AI Updates Coming in iOS 18](https://www.macrumors.com/2024/03/14/apple-acquires-darwinai/)
 <!--END_SECTION:hn-->
 
 <!--
