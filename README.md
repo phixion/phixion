@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 15 - [Do It Now](https://stevepavlina.com/blog/2005/11/do-it-now/)
-- Mar 15 - [Reversing for dummies – x86 assembly and C code (Beginner/ADHD friendly)](https://0x44.cc/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html)
-- Mar 15 - [The Miss Julie](https://aeon.co/essays/the-woman-behind-strindbergs-miss-julie-and-her-male-alter-ego)
-- Mar 15 - [Show HN: Matrix Multiplication with Half the Multiplications](https://github.com/trevorpogue/algebraic-nnhw)
-- Mar 15 - [Britain's decade of Art Deco densification](https://www.worksinprogress.news/p/britains-interwar-apartment-boom)
+- Mar 15 - [Norfolk County Council beats Apple in £385M iPhone row](https://www.bbc.co.uk/news/technology-68580235)
+- Mar 15 - [Open Source Alternatives to Popular Cloud Services](https://degooglisons-internet.org/en/)
+- Mar 15 - [A developer portfolio as a 2D top-down walking simulator](https://jslegenddev.github.io/portfolio/)
+- Mar 15 - [FTX's Sam Bankman-Fried Should Serve 40 to 50 Years in Prison, Prosecutors Say](https://www.wsj.com/finance/currencies/ftxs-sam-bankman-fried-should-serve-40-to-50-years-in-prison-prosecutors-say-feb31d42)
+- Mar 15 - [Supreme Court Sets Rules for Blocking Citizens from Officials' Accounts](https://www.nytimes.com/2024/03/15/us/supreme-court-social-media-free-speech.html)
 <!--END_SECTION:hn-->
 
 <!--
