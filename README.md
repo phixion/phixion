@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 16 - [Snapdragon X Elite Multi-Core Superiority Claims over Apple's M3 Were Right](https://wccftech.com/snapdragon-x-elite-vs-m3-single-core-multi-core-early-comparison/)
-- Mar 16 - [Mozilla will be retiring the Mozilla Location Service](https://github.com/mozilla/ichnaea/issues/2065)
-- Mar 16 - [AutoDev: Automated AI-driven development by Microsoft](https://arxiv.org/abs/2403.08299)
-- Mar 16 - [ASCII art elicits harmful responses from 5 major AI chatbots](https://arstechnica.com/security/2024/03/researchers-use-ascii-art-to-elicit-harmful-responses-from-5-major-ai-chatbots/)
-- Mar 16 - [Ad agency boss owned two Ferraris but wouldn't buy a real server](https://www.theregister.com/2024/03/15/on_call/)
+- Mar 16 - [Show HN: Flash Attention in ~100 lines of CUDA](https://github.com/tspeterkim/flash-attention-minimal)
+- Mar 16 - ["It's a Silent Fire": Decaying Digital Movie and TV Shows Are a Hollywood Crisis](https://www.hollywoodreporter.com/business/digital/digital-preservation-film-tv-shows-archives-1235851957/)
+- Mar 16 - [Loongson 3A6000: A Star Among Chinese CPUs](https://chipsandcheese.com/2024/03/13/loongson-3a6000-a-star-among-chinese-cpus/)
+- Mar 16 - [Thebroken (2003)](https://archive.org/details/thebroken_xvid/)
+- Mar 16 - [Cloudflare loses 22% of its domains in Freenom .tk shutdown](https://www.netcraft.com/blog/cloudflare-loses-22-of-its-domains-in-freenom-tk-shutdown/)
 <!--END_SECTION:hn-->
 
 <!--
