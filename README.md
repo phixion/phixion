@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 15 - [Norfolk County Council beats Apple in £385M iPhone row](https://www.bbc.co.uk/news/technology-68580235)
-- Mar 15 - [Open Source Alternatives to Popular Cloud Services](https://degooglisons-internet.org/en/)
-- Mar 15 - [A developer portfolio as a 2D top-down walking simulator](https://jslegenddev.github.io/portfolio/)
-- Mar 15 - [FTX's Sam Bankman-Fried Should Serve 40 to 50 Years in Prison, Prosecutors Say](https://www.wsj.com/finance/currencies/ftxs-sam-bankman-fried-should-serve-40-to-50-years-in-prison-prosecutors-say-feb31d42)
-- Mar 15 - [Supreme Court Sets Rules for Blocking Citizens from Officials' Accounts](https://www.nytimes.com/2024/03/15/us/supreme-court-social-media-free-speech.html)
+- Mar 15 - [Doola (YC S20) Is Hiring a Director of Finance $$$](https://www.workatastartup.com/jobs/55496)
+- Mar 15 - [The End of the Dark Universe?](https://nautil.us/the-end-of-the-dark-universe-531983/)
+- Mar 15 - [Atopile – build electronic circuit boards from code](https://atopile.io/)
+- Mar 15 - [The United States has its first large offshore wind farm, with more to come](https://apnews.com/article/orsted-offshore-wind-new-york-south-fork-climate-cbb9360388d91be1368dd91ba35aa384)
+- Mar 15 - [Sam Bankman-Fried Should Get 40 to 50 Years in Prison, Prosecutors Say](https://www.nytimes.com/2024/03/15/technology/sam-bankman-fried-sentencing.html)
 <!--END_SECTION:hn-->
 
 <!--
