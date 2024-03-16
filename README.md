@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 16 - [Brain Waves Appear to Wash Out Waste During Sleep](https://jamanetwork.com/journals/jama/fullarticle/2816616)
-- Mar 16 - [Abnormal brain structure seen in children with developmental language issues](https://medicalxpress.com/news/2024-03-abnormal-brain-children-developmental-language.html)
-- Mar 15 - [What part of Rust compilation is the bottleneck?](https://kobzol.github.io/rust/rustc/2024/03/15/rustc-what-takes-so-long.html)
-- Mar 15 - [Titanosaurs were the biggest land animals Earth's ever seen](https://phys.org/news/2024-03-titanosaurs-biggest-animals-earth-combining.html)
-- Mar 15 - [Doola (YC S20) Is Hiring a Director of Finance](https://www.workatastartup.com/jobs/55496)
+- Mar 16 - [Snapdragon X Elite Multi-Core Superiority Claims over Apple's M3 Were Right](https://wccftech.com/snapdragon-x-elite-vs-m3-single-core-multi-core-early-comparison/)
+- Mar 16 - [Mozilla will be retiring the Mozilla Location Service](https://github.com/mozilla/ichnaea/issues/2065)
+- Mar 16 - [AutoDev: Automated AI-driven development by Microsoft](https://arxiv.org/abs/2403.08299)
+- Mar 16 - [ASCII art elicits harmful responses from 5 major AI chatbots](https://arstechnica.com/security/2024/03/researchers-use-ascii-art-to-elicit-harmful-responses-from-5-major-ai-chatbots/)
+- Mar 16 - [Ad agency boss owned two Ferraris but wouldn't buy a real server](https://www.theregister.com/2024/03/15/on_call/)
 <!--END_SECTION:hn-->
 
 <!--
