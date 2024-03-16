@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 15 - [Doola (YC S20) Is Hiring a Director of Finance $$$](https://www.workatastartup.com/jobs/55496)
-- Mar 15 - [The End of the Dark Universe?](https://nautil.us/the-end-of-the-dark-universe-531983/)
-- Mar 15 - [Atopile – build electronic circuit boards from code](https://atopile.io/)
-- Mar 15 - [The United States has its first large offshore wind farm, with more to come](https://apnews.com/article/orsted-offshore-wind-new-york-south-fork-climate-cbb9360388d91be1368dd91ba35aa384)
-- Mar 15 - [Sam Bankman-Fried Should Get 40 to 50 Years in Prison, Prosecutors Say](https://www.nytimes.com/2024/03/15/technology/sam-bankman-fried-sentencing.html)
+- Mar 16 - [Abnormal brain structure seen in children with developmental language issues](https://medicalxpress.com/news/2024-03-abnormal-brain-children-developmental-language.html)
+- Mar 16 - [Two-Thirds of U.S. Adults Would Rather Wait to Watch Movies on Streaming](https://www.indiewire.com/news/analysis/movies-on-streaming-not-in-theaters-1234964413/)
+- Mar 16 - [The Coprophagic AI Crisis](https://pluralistic.net/2024/03/14/inhuman-centipede/)
+- Mar 16 - [Is Modern Mass Media a Mind Prison?](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison)
+- Mar 15 - [Titanosaurs were the biggest land animals Earth's ever seen](https://phys.org/news/2024-03-titanosaurs-biggest-animals-earth-combining.html)
 <!--END_SECTION:hn-->
 
 <!--
