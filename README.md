@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 16 - [Brain Waves Appear to Wash Out Waste During Sleep](https://jamanetwork.com/journals/jama/fullarticle/2816616)
 - Mar 16 - [Abnormal brain structure seen in children with developmental language issues](https://medicalxpress.com/news/2024-03-abnormal-brain-children-developmental-language.html)
-- Mar 16 - [Two-Thirds of U.S. Adults Would Rather Wait to Watch Movies on Streaming](https://www.indiewire.com/news/analysis/movies-on-streaming-not-in-theaters-1234964413/)
-- Mar 16 - [The Coprophagic AI Crisis](https://pluralistic.net/2024/03/14/inhuman-centipede/)
-- Mar 16 - [Is Modern Mass Media a Mind Prison?](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison)
+- Mar 15 - [What part of Rust compilation is the bottleneck?](https://kobzol.github.io/rust/rustc/2024/03/15/rustc-what-takes-so-long.html)
 - Mar 15 - [Titanosaurs were the biggest land animals Earth's ever seen](https://phys.org/news/2024-03-titanosaurs-biggest-animals-earth-combining.html)
+- Mar 15 - [Doola (YC S20) Is Hiring a Director of Finance](https://www.workatastartup.com/jobs/55496)
 <!--END_SECTION:hn-->
 
 <!--
