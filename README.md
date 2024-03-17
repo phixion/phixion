@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 17 - [Ahead of IPO, Reddit blends advertising into user posts](https://www.theregister.com/2024/03/16/reddit_promoted_posts/)
-- Mar 17 - [The News Business Is Cratering](https://www.politico.com/news/magazine/2024/01/27/is-the-journalism-death-spasm-finally-here-00138187)
-- Mar 17 - [Mars Has Influence on Earth's Oceans and Climate, Repeating Every 2.4M Years](https://www.smithsonianmag.com/smart-news/mars-has-an-unexpected-influence-on-earths-oceans-and-climate-repeating-every-24-million-years-study-finds-180983952/)
-- Mar 17 - [Dot: Standalone app for local RAG with Mistral 7B](https://github.com/alexpinel/Dot)
-- Mar 17 - [How to mess with your roommate (2018)](https://bernsteinbear.com/blog/how-to-mess-with-your-roommate/)
+- Mar 17 - [Grok](https://github.com/xai-org/grok)
+- Mar 17 - [Homepage Design: 5 Fundamental Principles](https://www.nngroup.com/articles/homepage-design-principles/)
+- Mar 17 - [Superiority by Arthur C. Clarke](https://metallicman.com/laoban4site/superiority-by-arthur-c-clarke-full-text/)
+- Mar 17 - [Compressing Images with Neural Networks](https://mlumiste.com/technical/compression-deep-learning/)
+- Mar 17 - [When Armor Met Lips](https://crookedtimber.org/2024/03/16/occasional-paper-when-armor-met-lips)
 <!--END_SECTION:hn-->
 
 <!--
