@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 16 - [Mintlify GitHub read/write token leak](https://mintlify.com/blog/incident-march-13)
-- Mar 16 - [The language you speak changes your perception of time](https://www.popsci.com/language-time-perception/)
-- Mar 16 - [CXL Is Dead in the AI Era](https://www.semianalysis.com/p/cxl-is-dead-in-the-ai-era)
-- Mar 16 - [How web bloat impacts users with slow devices](https://danluu.com/slow-device/)
-- Mar 16 - [IBM 360 in UK need a home](https://www.ibm360.co.uk/)
+- Mar 17 - [In Cleveland, mushrooms digest entire houses](https://www.bbc.com/future/article/20240314-fungi-can-be-used-to-clean-pollution-and-combat-climate-change)
+- Mar 17 - [Losing Faith on Testing](https://registerspill.thorstenball.com/p/a-few-words-on-testing)
+- Mar 17 - [CitizenX: Invest in Citizenship](https://citizenx.com/)
+- Mar 17 - [Debloat non-rooted Android devices](https://github.com/0x192/universal-android-debloater)
+- Mar 17 - [US prosecutors are investigating how Meta played a part in illegal drug sales](https://www.theverge.com/2024/3/16/24103027/us-investigation-meta-drug-sales-profits)
 <!--END_SECTION:hn-->
 
 <!--
