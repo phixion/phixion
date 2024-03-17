@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 17 - [Imitation Learning](https://geohot.github.io//blog/jekyll/update/2023/11/18/imitation-learning.html)
-- Mar 17 - [Google Scholar search: "certainly, here is" -chatgpt -llm](https://simonwillison.net/2024/Mar/15/certainly-here-is-google-scholar/)
-- Mar 17 - [HashiCorp Exploring Potential Sale](https://www.reuters.com/technology/cloud-software-company-hashicorp-exploring-potential-sale-bloomberg-news-reports-2024-03-15/)
-- Mar 17 - [Thomas Piketty's Failed Revolution](https://unherd.com/2024/03/thomas-pikettys-failed-revolution/)
-- Mar 17 - [LLM4Decompile: Decompiling Binary Code with LLM](https://github.com/albertan017/LLM4Decompile)
+- Mar 17 - [Ahead of IPO, Reddit blends advertising into user posts](https://www.theregister.com/2024/03/16/reddit_promoted_posts/)
+- Mar 17 - [The News Business Is Cratering](https://www.politico.com/news/magazine/2024/01/27/is-the-journalism-death-spasm-finally-here-00138187)
+- Mar 17 - [Mars Has Influence on Earth's Oceans and Climate, Repeating Every 2.4M Years](https://www.smithsonianmag.com/smart-news/mars-has-an-unexpected-influence-on-earths-oceans-and-climate-repeating-every-24-million-years-study-finds-180983952/)
+- Mar 17 - [Dot: Standalone app for local RAG with Mistral 7B](https://github.com/alexpinel/Dot)
+- Mar 17 - [How to mess with your roommate (2018)](https://bernsteinbear.com/blog/how-to-mess-with-your-roommate/)
 <!--END_SECTION:hn-->
 
 <!--
