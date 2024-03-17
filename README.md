@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 17 - [Earth Received a Message Laser-Beamed from 10M Miles Away in NASA Test](https://www.sciencealert.com/earth-received-a-message-laser-beamed-from-10-million-miles-away-in-nasa-test)
+- Mar 17 - [How Microchips Work](https://exclusivearchitecture.com/03-technical-articles-IC-00-table-of-contents.html)
+- Mar 17 - [We were wizards – a foreword to Learning Perl](https://jwgoerlich.com/we-were-wizards-learning-perl/)
+- Mar 17 - [The return of the frame pointers](https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html)
 - Mar 17 - [In Cleveland, mushrooms digest entire houses](https://www.bbc.com/future/article/20240314-fungi-can-be-used-to-clean-pollution-and-combat-climate-change)
-- Mar 17 - [Losing Faith on Testing](https://registerspill.thorstenball.com/p/a-few-words-on-testing)
-- Mar 17 - [CitizenX: Invest in Citizenship](https://citizenx.com/)
-- Mar 17 - [Debloat non-rooted Android devices](https://github.com/0x192/universal-android-debloater)
-- Mar 17 - [US prosecutors are investigating how Meta played a part in illegal drug sales](https://www.theverge.com/2024/3/16/24103027/us-investigation-meta-drug-sales-profits)
 <!--END_SECTION:hn-->
 
 <!--
