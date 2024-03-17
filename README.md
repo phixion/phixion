@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 16 - [20 Years in the Making, GnuCOBOL Is Ready for Industry](https://thenewstack.io/20-years-in-the-making-gnucobol-is-ready-for-industry/)
-- Mar 16 - [Hackintosh Is Almost Dead](https://aplus.rs/2024/hackintosh-almost-dead/)
-- Mar 16 - [Lambda on hard mode: serverless HTTP in Rust](https://modal.com/blog/serverless-http)
-- Mar 16 - [Why African startups don't always need to expand across the continent](https://restofworld.org/2024/3-minutes-with-odun-eweniyi/)
-- Mar 16 - [TV Station Launches Multiple 4K Broadcasts OTA on ATSC 1.0 [video]](https://www.youtube.com/watch?v=e_94q9TCCDY)
+- Mar 16 - [Mintlify GitHub read/write token leak](https://mintlify.com/blog/incident-march-13)
+- Mar 16 - [The language you speak changes your perception of time](https://www.popsci.com/language-time-perception/)
+- Mar 16 - [CXL Is Dead in the AI Era](https://www.semianalysis.com/p/cxl-is-dead-in-the-ai-era)
+- Mar 16 - [How web bloat impacts users with slow devices](https://danluu.com/slow-device/)
+- Mar 16 - [IBM 360 in UK need a home](https://www.ibm360.co.uk/)
 <!--END_SECTION:hn-->
 
 <!--
