@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 18 - [IBM Research: Experience with an Uncommon Lisp (1986) [pdf]](https://dl.acm.org/doi/pdf/10.1145/319838.319849)
-- Mar 17 - [6.2 GHz Intel Core I9-14900KS Review](https://www.tomshardware.com/pc-components/cpus/intel-core-i9-14900ks-cpu-review)
-- Mar 17 - [Show HN: 3DGS.cpp – performant, cross platform Gaussian Splatting with Vulkan](https://github.com/shg8/3DGS.cpp)
-- Mar 17 - [Mysterious Drones Swarmed Langley AFB for Weeks](https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks)
-- Mar 17 - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=39738042)
+- Mar 18 - [AWS Makes Cloud Formation Stack Creation Up to 40% Faster](https://www.infoq.com/news/2024/03/aws-cloud-formation-faster/)
+- Mar 18 - [macOS Sonoma 14.4 might break Java on your machine](https://appleinsider.com/articles/24/03/16/oracle-advises-users-delay-sonoma-update-due-to-java-issue)
+- Mar 18 - [Don Knuth letter about libraries increasingly unable to afford prices (2003) [pdf]](https://cs.stanford.edu/~knuth/joalet.pdf)
+- Mar 18 - [Bats of the Midnight Sun](https://hakaimagazine.com/features/bats-of-the-midnight-sun/)
+- Mar 18 - [Upside-Down-Ternet](http://pete.ex-parrot.com/upside-down-ternet.html)
 <!--END_SECTION:hn-->
 
 <!--
