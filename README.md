@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 18 - [Dear Paul Graham, there is no cookie banner law](https://www.amazingcto.com/cookie-banners-are-not-needed/)
-- Mar 18 - [900 Sites, 125M accounts, 1 Vulnerability](https://env.fail/posts/firewreck-1/)
-- Mar 18 - [Take Ownership of Your Future Self](https://hbr.org/2020/08/take-ownership-of-your-future-self)
-- Mar 18 - [I Turned 72 Today](https://old.reddit.com/r/lifehacks/comments/1bgw44k/i_turned_72_today/)
-- Mar 18 - [In Economics Do We Know What We're Doing? Nobel Prize winner grows disenchanted](https://www.chronicle.com/article/in-economics-do-we-know-what-were-doing)
+- Mar 18 - [Optimizing the Particle Life: From 400 to 4M particles](https://programmingattack.com/articles/optimizing-the-article-life-from-a-thousand-to-a-milion-particles)
+- Mar 18 - [Paris cycling numbers double in one year thanks to investment](https://momentummag.com/paris-cycling-numbers-double/)
+- Mar 18 - [Vitamin D Is a Hormone](https://www.devaboone.com/post/vitamin-d-part-2-shannon-s-story)
+- Mar 18 - [Empty Frames and Other Oddities from the Unsolved Gardner Museum Heist](https://www.nytimes.com/2024/03/18/arts/design/unsolved-gardner-museum-heist.html)
+- Mar 18 - [Tick-killing pill shows promising results in human trial](https://arstechnica.com/science/2024/03/tick-killing-pill-shows-promising-results-in-human-trial/)
 <!--END_SECTION:hn-->
 
 <!--
