@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 18 - [AWS Makes Cloud Formation Stack Creation Up to 40% Faster](https://www.infoq.com/news/2024/03/aws-cloud-formation-faster/)
-- Mar 18 - [macOS Sonoma 14.4 might break Java on your machine](https://appleinsider.com/articles/24/03/16/oracle-advises-users-delay-sonoma-update-due-to-java-issue)
-- Mar 18 - [Don Knuth letter about libraries increasingly unable to afford prices (2003) [pdf]](https://cs.stanford.edu/~knuth/joalet.pdf)
-- Mar 18 - [Bats of the Midnight Sun](https://hakaimagazine.com/features/bats-of-the-midnight-sun/)
-- Mar 18 - [Upside-Down-Ternet](http://pete.ex-parrot.com/upside-down-ternet.html)
+- Mar 18 - [Dear Paul Graham, there is no cookie banner law](https://www.amazingcto.com/cookie-banners-are-not-needed/)
+- Mar 18 - [900 Sites, 125M accounts, 1 Vulnerability](https://env.fail/posts/firewreck-1/)
+- Mar 18 - [Take Ownership of Your Future Self](https://hbr.org/2020/08/take-ownership-of-your-future-self)
+- Mar 18 - [I Turned 72 Today](https://old.reddit.com/r/lifehacks/comments/1bgw44k/i_turned_72_today/)
+- Mar 18 - [In Economics Do We Know What We're Doing? Nobel Prize winner grows disenchanted](https://www.chronicle.com/article/in-economics-do-we-know-what-were-doing)
 <!--END_SECTION:hn-->
 
 <!--
