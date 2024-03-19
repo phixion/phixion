@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 19 - [How to Start Google](https://paulgraham.com/google.html)
-- Mar 19 - [New Intermediate Certificates](https://letsencrypt.org/2024/03/19/new-intermediate-certificates.html)
-- Mar 19 - [Understanding Google's File System (2020)](https://www.micahlerner.com/2020/03/22/understanding-googles-file-system.html)
-- Mar 19 - [Launch HN: Okapi (YC W24) – A new, flexible CRM with good UX](https://news.ycombinator.com/item?id=39755927)
-- Mar 19 - [Show HN: Causal 2.0 – Modern Financial Planning for Startups](https://causal.app)
+- Mar 19 - [Intel 8080 emulator. 19th IOCCC. Best of Show](https://nanochess.org/emulator.html)
+- Mar 19 - [8 years later: A world Go champion's reflections on AlphaGo](https://blog.google/around-the-globe/google-asia/8-years-later-a-world-go-champions-reflections-on-alphago/)
+- Mar 19 - [What does Alan Kay think about LLMs?](https://www.quora.com/What-does-Alan-Kay-think-about-programming-and-teaching-programming-with-copilots-and-LLMs-of-today)
+- Mar 19 - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+- Mar 19 - [Natural language instructions induce generalization in networks of neurons](https://www.nature.com/articles/s41593-024-01607-5)
 <!--END_SECTION:hn-->
 
 <!--
