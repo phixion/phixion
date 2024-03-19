@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 19 - [ESA' Euclid Telescope Has an Ice Problem](https://europeanspaceflight.com/esa-euclid-telescope-has-an-ice-problem/)
-- Mar 19 - [The Timeless Parable of Mr. Market](https://fs.blog/mr-market/)
-- Mar 19 - [Japan ends negative interest rate policy in historic pivot](https://www.cnn.com/2024/03/18/business/japan-boj-negative-interest-rate-ended-intl-hnk/index.html)
-- Mar 19 - [BootLogo: Logo language in 508 bytes of x86 machine code](https://github.com/nanochess/bootLogo)
-- Mar 19 - [Denmark to build one of the most powerful AI supercomputers](https://novonordiskfonden.dk/en/news/denmark-to-build-one-of-the-worlds-most-powerful-ai-supercomputers-accelerating-solutions-to-societal-challenges/)
+- Mar 19 - [How to Start Google](https://paulgraham.com/google.html)
+- Mar 19 - [New Intermediate Certificates](https://letsencrypt.org/2024/03/19/new-intermediate-certificates.html)
+- Mar 19 - [Understanding Google's File System (2020)](https://www.micahlerner.com/2020/03/22/understanding-googles-file-system.html)
+- Mar 19 - [Launch HN: Okapi (YC W24) – A new, flexible CRM with good UX](https://news.ycombinator.com/item?id=39755927)
+- Mar 19 - [Show HN: Causal 2.0 – Modern Financial Planning for Startups](https://causal.app)
 <!--END_SECTION:hn-->
 
 <!--
