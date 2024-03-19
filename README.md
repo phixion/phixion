@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 18 - [How is a company that sells canned water worth $1.4B?](https://www.theatlantic.com/technology/archive/2024/03/liquid-death-canned-water-marketing/677752/)
-- Mar 18 - [You Never Forget Your First One Hundred](https://mattplotecher.substack.com/p/you-never-forget-your-first-one-hundred)
-- Mar 18 - [Waffle House's Magic Marker System](https://kottke.org/24/03/waffle-houses-magic-marker-system)
-- Mar 18 - [Show HN: Next-Gen AI Training: LLM-RLHF-Tuning with PPO and DPO](https://github.com/raghavc/LLM-RLHF-Tuning-with-PPO-and-DPO)
-- Mar 18 - [Oh shit, my app is successful and I didn't think about accessibility](https://jacobbartlett.substack.com/p/oh-sht-my-app-is-successful-and-i)
+- Mar 19 - [Project GR00T by Nvidia](https://twitter.com/DrJimFan/status/1769860044324319658)
+- Mar 18 - [Spent brewer's yeast as a biosorbent for metal recovery from polymetallic waste](https://www.frontiersin.org/articles/10.3389/fbioe.2024.1345112/full)
+- Mar 18 - [Turning Points: A meeting with Enrico Fermi (2020)](https://lilith.fisica.ufmg.br/~dsoares/fdyson.htm)
+- Mar 18 - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- Mar 18 - [Compiling with Constraints](https://www.philipzucker.com/compile_constraints/)
 <!--END_SECTION:hn-->
 
 <!--
