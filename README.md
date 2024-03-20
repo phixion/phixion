@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 20 - [$300B Crypto Price Crash Accelerates as Traders Brace for a Fed Shock](https://www.forbes.com/sites/digital-assets/2024/03/19/300-billion-crypto-price-crash-suddenly-accelerates-as-bitcoin-ethereum-and-xrp-traders-brace-for-a-fed-shock/)
-- Mar 19 - [Htmlq: Like Jq, but for HTML](https://github.com/mgdm/htmlq)
-- Mar 19 - [First 'cyberflasher' convicted under UK's new law, gets more than 5 years prison](https://apnews.com/article/first-cyber-flasher-imprisoned-new-english-law-2cec412fa58c15223b3d4734413d1390)
-- Mar 19 - [Judge demands social media sites prove they didn't help radicalize mass shooter](https://www.theregister.com/2024/03/19/social_media_sites_headed_to/)
-- Mar 19 - [It's official: Europe turns to the Falcon 9 to launch its navigation satellites](https://arstechnica.com/space/2024/03/its-official-europe-turns-to-the-falcon-9-to-launch-its-navigation-satellites/)
+- Mar 20 - [Soul: A SQLite REST and Realtime Server](https://thevahidal.github.io/soul/)
+- Mar 20 - [Show HN: Iteratively Building Virtual Creatures in Minecraft](https://github.com/cfusting/conditional-growth)
+- Mar 20 - [Unpowered cargo gliders on tow ropes promise 65% cheaper air freight](https://newatlas.com/aircraft/towed-cargo-gliders/)
+- Mar 20 - [Memories from when you were a baby might not be gone](https://www.nature.com/articles/d41586-024-00844-9)
+- Mar 20 - [HomeRoom (YC W22) Is Hiring](https://www.ycombinator.com/companies/homeroom/jobs/ZvE5E8b-customer-success-manager)
 <!--END_SECTION:hn-->
 
 <!--
