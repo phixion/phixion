@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 20 - [Lago Is Hiring to Scale the Open-Source Alternative to Stripe Billing](https://news.ycombinator.com/item?id=39765287)
-- Mar 20 - [Google fined €250M in France for breaching intellectual property deal](https://www.theguardian.com/technology/2024/mar/20/google-fined-250m-euros-in-france-for-breaching-intellectual-property-rules)
-- Mar 20 - [Firefox 124 improved on Android and Macs plus adds keyboard navigation of PDFs](https://www.theregister.com/2024/03/19/firefox_124/)
-- Mar 20 - [Trusting Content on the KDE Store](https://blog.davidedmundson.co.uk/blog/kde-store-content/)
-- Mar 20 - [Indonesia's e-bike shops are building their own batteries](https://restofworld.org/2024/homemade-ebike-battery-indonesia/)
+- Mar 20 - [Intel is still top dog: ships 3x more CPUs than AMD and Apple combined](https://www.pcgamer.com/hardware/processors/intel-is-still-top-dog-ships-3x-more-cpus-than-amd-and-apple-combined/)
+- Mar 20 - [US Gov announces $8.5B preliminary CHIPS investment agreement with Intel](https://www.commerce.gov/news/press-releases/2024/03/biden-harris-administration-announces-preliminary-terms-intel-support)
+- Mar 20 - [United Arab Emirates is using cloud seeding tech to make it rain](https://www.cnbc.com/2024/03/18/united-arab-emirates-is-using-cloud-seeding-tech-to-make-it-rain.html)
+- Mar 20 - [In wake of powerful cyclone, remarkable recovery of Pacific island's forests](https://phys.org/news/2024-03-powerful-cyclone-remarkable-recovery-pacific.html)
+- Mar 20 - [ISP's Landmark Piracy Liability Case Doesn't Get a Do-Over in Appeals Court](https://torrentfreak.com/isps-landmark-piracy-liability-case-doesnt-get-a-do-over-in-appeals-court-240320/)
 <!--END_SECTION:hn-->
 
 <!--
