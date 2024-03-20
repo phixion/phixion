@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 20 - [Intel is still top dog: ships 3x more CPUs than AMD and Apple combined](https://www.pcgamer.com/hardware/processors/intel-is-still-top-dog-ships-3x-more-cpus-than-amd-and-apple-combined/)
-- Mar 20 - [US Gov announces $8.5B preliminary CHIPS investment agreement with Intel](https://www.commerce.gov/news/press-releases/2024/03/biden-harris-administration-announces-preliminary-terms-intel-support)
-- Mar 20 - [United Arab Emirates is using cloud seeding tech to make it rain](https://www.cnbc.com/2024/03/18/united-arab-emirates-is-using-cloud-seeding-tech-to-make-it-rain.html)
-- Mar 20 - [In wake of powerful cyclone, remarkable recovery of Pacific island's forests](https://phys.org/news/2024-03-powerful-cyclone-remarkable-recovery-pacific.html)
-- Mar 20 - [ISP's Landmark Piracy Liability Case Doesn't Get a Do-Over in Appeals Court](https://torrentfreak.com/isps-landmark-piracy-liability-case-doesnt-get-a-do-over-in-appeals-court-240320/)
+- Mar 20 - [Is loneliness a threat to Germany's democracy?](https://www.dw.com/en/is-loneliness-a-threat-to-germanys-democracy/a-68513591)
+- Mar 20 - [Claim that private GitHub repos were used in AI dataset](https://post.lurk.org/@emenel/112111014479288871)
+- Mar 20 - [5GSimWaveform: Open Source Common Waveform Simulator for 5G Physical Layer](https://www.qamcom.com/look-into-qamcoms-research-on-5g/)
+- Mar 20 - [OpenAI's chatbot store is filling up with spam](https://techcrunch.com/2024/03/20/openais-chatbot-store-is-filling-up-with-spam/)
+- Mar 20 - [Launch HN: CamelQA (YC W24) – AI that tests mobile apps](https://news.ycombinator.com/item?id=39769412)
 <!--END_SECTION:hn-->
 
 <!--
