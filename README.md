@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 20 - [U.S. No Longer Ranks Among 20 Happiest Countries](https://www.wsj.com/health/wellness/world-happiness-report-americans-top-20-0f59cf98)
-- Mar 20 - [Climate Change Speeds Up as Major Indicators Blow Off the Charts, WMO Warns](https://www.bloomberg.com/news/articles/2024-03-19/climate-change-speeds-up-as-major-indicators-blow-off-the-charts-wmo-warns)
-- Mar 20 - [Ashby (YC W19) Is Hiring Engineering Managers in EMEA](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=7458d4e9-da2e-47bd-98cb-adfda43d42b2)
-- Mar 20 - [Lenovo announced ThinkPads for 'better sustainability and extended repairabilty'](https://news.lenovo.com/pressroom/press-releases/unleashing-innovation-and-better-sustainability-of-lenovos-latest-thinkpad-l-series-and-x-series-laptops/)
-- Mar 20 - [They Praised AI at SXSW–and the Audience Started Booing](https://www.honest-broker.com/p/they-praised-ai-at-sxswand-the-audience)
+- Mar 20 - [Lago Is Hiring to Scale the Open-Source Alternative to Stripe Billing](https://news.ycombinator.com/item?id=39765287)
+- Mar 20 - [Google fined €250M in France for breaching intellectual property deal](https://www.theguardian.com/technology/2024/mar/20/google-fined-250m-euros-in-france-for-breaching-intellectual-property-rules)
+- Mar 20 - [Firefox 124 improved on Android and Macs plus adds keyboard navigation of PDFs](https://www.theregister.com/2024/03/19/firefox_124/)
+- Mar 20 - [Trusting Content on the KDE Store](https://blog.davidedmundson.co.uk/blog/kde-store-content/)
+- Mar 20 - [Indonesia's e-bike shops are building their own batteries](https://restofworld.org/2024/homemade-ebike-battery-indonesia/)
 <!--END_SECTION:hn-->
 
 <!--
