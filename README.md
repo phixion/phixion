@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 19 - [Intel 8080 emulator. 19th IOCCC. Best of Show](https://nanochess.org/emulator.html)
-- Mar 19 - [8 years later: A world Go champion's reflections on AlphaGo](https://blog.google/around-the-globe/google-asia/8-years-later-a-world-go-champions-reflections-on-alphago/)
-- Mar 19 - [What does Alan Kay think about LLMs?](https://www.quora.com/What-does-Alan-Kay-think-about-programming-and-teaching-programming-with-copilots-and-LLMs-of-today)
-- Mar 19 - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
-- Mar 19 - [Natural language instructions induce generalization in networks of neurons](https://www.nature.com/articles/s41593-024-01607-5)
+- Mar 20 - [$300B Crypto Price Crash Accelerates as Traders Brace for a Fed Shock](https://www.forbes.com/sites/digital-assets/2024/03/19/300-billion-crypto-price-crash-suddenly-accelerates-as-bitcoin-ethereum-and-xrp-traders-brace-for-a-fed-shock/)
+- Mar 19 - [Htmlq: Like Jq, but for HTML](https://github.com/mgdm/htmlq)
+- Mar 19 - [First 'cyberflasher' convicted under UK's new law, gets more than 5 years prison](https://apnews.com/article/first-cyber-flasher-imprisoned-new-english-law-2cec412fa58c15223b3d4734413d1390)
+- Mar 19 - [Judge demands social media sites prove they didn't help radicalize mass shooter](https://www.theregister.com/2024/03/19/social_media_sites_headed_to/)
+- Mar 19 - [It's official: Europe turns to the Falcon 9 to launch its navigation satellites](https://arstechnica.com/space/2024/03/its-official-europe-turns-to-the-falcon-9-to-launch-its-navigation-satellites/)
 <!--END_SECTION:hn-->
 
 <!--
