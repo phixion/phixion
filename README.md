@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 21 - [Unverified Q* leak](https://pastebin.com/RkBUQPLb)
-- Mar 21 - [Redis License Changed](https://github.com/redis/redis/blob/unstable/LICENSE.txt)
-- Mar 21 - [Vernor Vinge (1944-2024)](https://file770.com/vernor-vinge-1944-2024/)
-- Mar 21 - [Guiding Principles for the Mormon Church's Use of AI](https://newsroom.churchofjesuschrist.org/article/church-jesus-christ-artificial-intelligence)
-- Mar 21 - [Why did we wait so long for the bicycle? (2019)](https://rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle)
+- Mar 21 - [Trayd (YC S23) Is Growing Hiring Solutions Engineer](https://www.ycombinator.com/companies/trayd/jobs/diovYI2-solutions-engineer)
+- Mar 21 - [Fireside Chat with Mistral CEO, Arthur Mensch [video]](https://www.youtube.com/watch?v=sQpeIuymJZ8)
+- Mar 21 - [Google: Angular and Wiz Are Merging](https://twitter.com/sarah_edo/status/1770478763253379488)
+- Mar 21 - [The baffling intelligence of a single cell: The story of E. coli chemotaxis](https://jsomers.net/e-coli-chemotaxis/)
+- Mar 21 - [Ask HN: How to onboard yourself to a new product/industry in a new job?](https://news.ycombinator.com/item?id=39777223)
 <!--END_SECTION:hn-->
 
 <!--
