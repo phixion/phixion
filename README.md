@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 21 - [Trayd (YC S23) Is Growing Hiring Solutions Engineer](https://www.ycombinator.com/companies/trayd/jobs/diovYI2-solutions-engineer)
-- Mar 21 - [Fireside Chat with Mistral CEO, Arthur Mensch [video]](https://www.youtube.com/watch?v=sQpeIuymJZ8)
-- Mar 21 - [Google: Angular and Wiz Are Merging](https://twitter.com/sarah_edo/status/1770478763253379488)
-- Mar 21 - [The baffling intelligence of a single cell: The story of E. coli chemotaxis](https://jsomers.net/e-coli-chemotaxis/)
-- Mar 21 - [Ask HN: How to onboard yourself to a new product/industry in a new job?](https://news.ycombinator.com/item?id=39777223)
+- Mar 21 - [Hackers Found a Way to Open Any of 3M Hotel Keycard Locks in Seconds](https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/)
+- Mar 21 - [GoFetch: New side-channel attack using data memory-dependent prefetchers](https://gofetch.fail)
+- Mar 21 - [Introducing pgzx: create PostgreSQL extensions using Zig](https://xata.io/blog/introducing-pgzx)
+- Mar 21 - [U.S. sues Apple, accusing it of maintaining an iPhone monopoly](https://www.nytimes.com/2024/03/21/technology/apple-doj-lawsuit-antitrust.html)
+- Mar 21 - [Daily Maps of GPS Interference](https://gpsjam.org/)
 <!--END_SECTION:hn-->
 
 <!--
