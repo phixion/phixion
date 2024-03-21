@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 21 - [FreeCAD Project Association 2023 Annual report and 2024 plans](https://fpa.freecad.org/annualreports/2024.html)
+- Mar 21 - [Unverified Q* leak](https://pastebin.com/RkBUQPLb)
+- Mar 21 - [Redis License Changed](https://github.com/redis/redis/blob/unstable/LICENSE.txt)
+- Mar 21 - [Vernor Vinge (1944-2024)](https://file770.com/vernor-vinge-1944-2024/)
+- Mar 21 - [Guiding Principles for the Mormon Church's Use of AI](https://newsroom.churchofjesuschrist.org/article/church-jesus-christ-artificial-intelligence)
 - Mar 21 - [Why did we wait so long for the bicycle? (2019)](https://rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle)
-- Mar 21 - [Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler](https://github.com/00-Evan/shattered-pixel-dungeon)
-- Mar 20 - [The Physics of Languages](https://physicsworld.com/a/the-physics-of-languages/)
-- Mar 20 - [Teler: Real-Time HTTP Intrusion Detection](https://github.com/kitabisa/teler)
 <!--END_SECTION:hn-->
 
 <!--
