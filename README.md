@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 21 - [Hackers Found a Way to Open Any of 3M Hotel Keycard Locks in Seconds](https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/)
-- Mar 21 - [GoFetch: New side-channel attack using data memory-dependent prefetchers](https://gofetch.fail)
-- Mar 21 - [Introducing pgzx: create PostgreSQL extensions using Zig](https://xata.io/blog/introducing-pgzx)
-- Mar 21 - [U.S. sues Apple, accusing it of maintaining an iPhone monopoly](https://www.nytimes.com/2024/03/21/technology/apple-doj-lawsuit-antitrust.html)
-- Mar 21 - [Daily Maps of GPS Interference](https://gpsjam.org/)
+- Mar 21 - [OpenSplat – 3D gaussian splatting in C++ with CPU and GPU support](https://github.com/pierotofy/OpenSplat)
+- Mar 21 - [Jan: An open source alternative to ChatGPT that runs on the desktop](https://jan.ai/)
+- Mar 21 - [Launch HN: Soundry AI (YC W24) – Music sample generator for music creators](https://soundry.ai/)
+- Mar 21 - [Show HN: DaLMatian – Text2sql that works](https://www.dalmatian.ai/download)
+- Mar 21 - [Together (YC S19) interviewing engineers that can solve this algorithm problem](https://news.ycombinator.com/item?id=39781248)
 <!--END_SECTION:hn-->
 
 <!--
