@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 20 - [Is loneliness a threat to Germany's democracy?](https://www.dw.com/en/is-loneliness-a-threat-to-germanys-democracy/a-68513591)
-- Mar 20 - [Claim that private GitHub repos were used in AI dataset](https://post.lurk.org/@emenel/112111014479288871)
-- Mar 20 - [5GSimWaveform: Open Source Common Waveform Simulator for 5G Physical Layer](https://www.qamcom.com/look-into-qamcoms-research-on-5g/)
-- Mar 20 - [OpenAI's chatbot store is filling up with spam](https://techcrunch.com/2024/03/20/openais-chatbot-store-is-filling-up-with-spam/)
-- Mar 20 - [Launch HN: CamelQA (YC W24) – AI that tests mobile apps](https://news.ycombinator.com/item?id=39769412)
+- Mar 20 - [America's Rental-Market Mystery](https://www.economist.com/finance-and-economics/2024/03/07/americas-rental-market-mystery)
+- Mar 20 - [The Physics of Languages](https://physicsworld.com/a/the-physics-of-languages/)
+- Mar 20 - [Teler: Real-Time HTTP Intrusion Detection](https://github.com/kitabisa/teler)
+- Mar 20 - [Trailing Dots in Domain Names](http://www.dns-sd.org/trailingdotsindomainnames.html)
+- Mar 20 - [Governor signs bills creating EV charging station network across Wisconsin](https://apnews.com/article/wisconsin-electric-vehicles-charging-stations-8f240084670b7b210d162f83b22168d9)
 <!--END_SECTION:hn-->
 
 <!--
