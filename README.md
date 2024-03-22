@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 22 - [Hacker News Rankings. Graphs of HN posts rank on timeline](https://hnrankings.info)
-- Mar 22 - [Gitlab confirms it's removed Suyu, a fork of Nintendo Switch emulator Yuzu](https://www.theverge.com/2024/3/21/24108191/gitlab-suyu-nintendo-switch-emulator-takedown)
-- Mar 22 - [Users say Glassdoor added real names to user profiles without their consent](https://techcrunch.com/2024/03/20/glassdoor-added-real-names-profiles-without-consent/)
-- Mar 22 - [Amazon Chronos: Learning the Language of Time Series](https://arxiv.org/abs/2403.07815)
-- Mar 22 - [Picotron Is a Fantasy Workstation](https://www.lexaloffle.com/picotron.php)
+- Mar 22 - [Aviator (YC S21) is hiring engineers to build the DevEx platform](https://www.ycombinator.com/companies/aviator/jobs/svf18r9-senior-software-engineer-founding-team)
+- Mar 22 - [Germany just legalized recreational marijuana](https://www.spiegel.de/politik/deutschland/cannabis-bundesrat-billigt-legalisierung-a-86ed2890-c788-4ce7-877a-21dced023219)
+- Mar 22 - [Ask HN: What are some of the best user experiences with AI?](https://news.ycombinator.com/item?id=39789250)
+- Mar 22 - [Ask HN: How to run an old-school mailing list?](https://news.ycombinator.com/item?id=39788649)
+- Mar 22 - [OpenAI GPT-4 vs. Groq Mistral-8x7B](https://serpapi.com/blog/openai-gpt-4-vs-groq-mistral/)
 <!--END_SECTION:hn-->
 
 <!--
