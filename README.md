@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 22 - [How the Most Expensive Swords in the World Are Made](https://www.youtube.com/watch?v=Tt6WQYtefXA)
-- Mar 22 - ['Backpacks' attached to neutrophils activate the immune system against cancer](https://medicalxpress.com/news/2024-03-backpacks-neutrophils-immune-cancer.html)
-- Mar 22 - [Tennessee becomes the first state to protect musicians against AI](https://www.npr.org/2024/03/22/1240114159/tennessee-protect-musicians-artists-ai)
-- Mar 22 - [The Bulma CSS framework reaches 1.0](https://github.com/jgthms/bulma/releases/tag/1.0.0)
-- Mar 22 - [Show HN: Free Plain-Text Bookmarking](https://webtag.io)
+- Mar 22 - [Ubuntu on the ThinkPad X13s Review](https://ahoneybun.net/blog/Thinkpad-X13s-review/)
+- Mar 22 - [Police, Prosecutors Used Junk Science to Decide 911 Callers Were Liars](https://www.propublica.org/article/911-call-analysis-fbi-police-courts)
+- Mar 22 - [OpenCat the Open Source Quadruped Robotic Pet Framework](https://www.petoi.com/pages/opencat-open-source-robot-pet-framework)
+- Mar 22 - [Cable ISP fined $10k for lying to FCC about where it offers broadband](https://arstechnica.com/tech-policy/2024/03/cable-isp-fined-10000-for-lying-to-fcc-about-where-it-offers-broadband/)
+- Mar 22 - [General Motors Quits Sharing Driving Behavior with Data Brokers](https://www.nytimes.com/2024/03/22/technology/gm-onstar-driver-data.html)
 <!--END_SECTION:hn-->
 
 <!--
