@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 23 - [Stability AI: Emad Mostaque resigned from his role as CEO](https://stability.ai/news/stabilityai-announcement)
-- Mar 23 - [Soupault: A static website management tool](https://soupault.app/)
-- Mar 23 - [High-speed microscale 3D printing](https://news.stanford.edu/2024/03/13/high-speed-microscale-3d-printing/)
-- Mar 23 - [Google Ordered to Identify Who Watched Certain YouTube Videos](https://www.forbes.com/sites/thomasbrewster/2024/03/22/feds-ordered-google-to-unmask-certain-youtube-users-critics-say-its-terrifying/)
-- Mar 23 - [Arginine Peptides Induce Nucleolar Stress, Ribosomopathy and Aging in Mice](https://www.cell.com/molecular-cell/abstract/S1097-2765(24)00173-4)
+- Mar 23 - [SigNoz (YC W21, Open Source Datadog) Is Hiring Developer Advocate](https://jobs.gem.com/signoz/am9icG9zdDpFuMuTUJDOYgsO29-QrAIM)
+- Mar 23 - [Fundamentals of Object Storage in Elixir](https://underjord.io/fundamentals-of-object-storage.html)
+- Mar 23 - [India's TikTok Ban Is a Cautionary Tale for the U.S.](https://www.wsj.com/world/india/india-tiktok-ban-cautionary-tale-us-congress-e014fc28)
+- Mar 23 - [-2000 Lines of Code](https://www.folklore.org/Negative_2000_Lines_Of_Code.html)
+- Mar 23 - [SceneScript, a novel approach for 3D scene reconstruction](https://ai.meta.com/blog/scenescript-3d-scene-reconstruction-reality-labs-research/)
 <!--END_SECTION:hn-->
 
 <!--
