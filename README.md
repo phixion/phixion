@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 22 - [Ubuntu on the ThinkPad X13s Review](https://ahoneybun.net/blog/Thinkpad-X13s-review/)
-- Mar 22 - [Police, Prosecutors Used Junk Science to Decide 911 Callers Were Liars](https://www.propublica.org/article/911-call-analysis-fbi-police-courts)
-- Mar 22 - [OpenCat the Open Source Quadruped Robotic Pet Framework](https://www.petoi.com/pages/opencat-open-source-robot-pet-framework)
-- Mar 22 - [Cable ISP fined $10k for lying to FCC about where it offers broadband](https://arstechnica.com/tech-policy/2024/03/cable-isp-fined-10000-for-lying-to-fcc-about-where-it-offers-broadband/)
-- Mar 22 - [General Motors Quits Sharing Driving Behavior with Data Brokers](https://www.nytimes.com/2024/03/22/technology/gm-onstar-driver-data.html)
+- Mar 22 - [Micron Samples 256 GB DDR5-8800 MCR DIMMs: Modules for Servers](https://www.anandtech.com/show/21320/micron-samples-256-gb-ddr58800-mcr-dimms-massive-modules-for-massive-servers)
+- Mar 22 - [Apple Turned on 'Discoverable by Others'. You Might Want It Off](https://www.wsj.com/tech/personal-tech/apple-iphone-discoverable-by-others-journaling-suggestions-9d63086d)
+- Mar 22 - [Empirical (YC S23) is hiring interns to build AI-enabled primary care](https://www.workatastartup.com/jobs/65500)
+- Mar 22 - [Finding Little Albert (2011)](https://www.bps.org.uk/psychologist/looking-back-finding-little-albert)
+- Mar 22 - [OpenCat: Open-source robotic pet quadruped framework](https://www.petoi.com/pages/opencat-open-source-robot-pet-framework)
 <!--END_SECTION:hn-->
 
 <!--
