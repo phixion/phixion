@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 23 - [Promoted.ai (YC W21) Is Hiring Enterprise AE (Sales)](https://www.ycombinator.com/companies/promoted/jobs/zfeEVCT-account-executive-sales)
-- Mar 23 - [Show HN: FXYT – Tiny, esoteric, stack-based, postfix, canvas colouring language](https://github.com/susam/fxyt)
-- Mar 23 - [Vasopressin deficiency: driver of social impairment and fluid imbalance in ASD? [pdf]](https://med.stanford.edu/content/dam/sm/parkerlab/documents/da035ad7-7c80-41bd-a9a6-ee03a8bcc58d.pdf)
-- Mar 23 - [Jasmin Paris Becomes First Woman to Finish Hardest Race](https://run.outsideonline.com/news/barkley-marathons-2024-results/)
-- Mar 23 - [SQLite Schema Diagram Generator](https://gitlab.com/Screwtapello/sqlite-schema-diagram)
+- Mar 23 - [Google will start showing AI-powered search results for users who didn't opt-in](https://searchengineland.com/google-starts-testing-ai-overviews-from-sge-in-main-google-search-interface-438680)
+- Mar 23 - [The "Reitoff principle": Why you should add "nothing" to your work-life schedule](https://bigthink.com/business/the-reitoff-principle-why-you-should-add-nothing-to-your-work-life-schedule/)
+- Mar 23 - [Over 440k Starbucks holiday mugs recalled for burn and cut hazards](https://www.nbcnews.com/news/us-news/440000-starbucks-holiday-mugs-recalled-burn-cut-hazards-rcna144618)
+- Mar 23 - [Problem with Vim is that you don't grok vi (2009)](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim)
+- Mar 23 - [A Spark Extinguished](https://chinabooksreview.com/2023/10/19/a-spark-extinguished/)
 <!--END_SECTION:hn-->
 
 <!--
