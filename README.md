@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 23 - [SigNoz (YC W21, Open Source Datadog) Is Hiring Developer Advocate](https://jobs.gem.com/signoz/am9icG9zdDpFuMuTUJDOYgsO29-QrAIM)
-- Mar 23 - [Fundamentals of Object Storage in Elixir](https://underjord.io/fundamentals-of-object-storage.html)
-- Mar 23 - [India's TikTok Ban Is a Cautionary Tale for the U.S.](https://www.wsj.com/world/india/india-tiktok-ban-cautionary-tale-us-congress-e014fc28)
-- Mar 23 - [-2000 Lines of Code](https://www.folklore.org/Negative_2000_Lines_Of_Code.html)
-- Mar 23 - [SceneScript, a novel approach for 3D scene reconstruction](https://ai.meta.com/blog/scenescript-3d-scene-reconstruction-reality-labs-research/)
+- Mar 23 - [Promoted.ai (YC W21) Is Hiring Enterprise AE (Sales)](https://www.ycombinator.com/companies/promoted/jobs/zfeEVCT-account-executive-sales)
+- Mar 23 - [Show HN: FXYT – Tiny, esoteric, stack-based, postfix, canvas colouring language](https://github.com/susam/fxyt)
+- Mar 23 - [Vasopressin deficiency: driver of social impairment and fluid imbalance in ASD? [pdf]](https://med.stanford.edu/content/dam/sm/parkerlab/documents/da035ad7-7c80-41bd-a9a6-ee03a8bcc58d.pdf)
+- Mar 23 - [Jasmin Paris Becomes First Woman to Finish Hardest Race](https://run.outsideonline.com/news/barkley-marathons-2024-results/)
+- Mar 23 - [SQLite Schema Diagram Generator](https://gitlab.com/Screwtapello/sqlite-schema-diagram)
 <!--END_SECTION:hn-->
 
 <!--
