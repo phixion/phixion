@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 22 - [Micron Samples 256 GB DDR5-8800 MCR DIMMs: Modules for Servers](https://www.anandtech.com/show/21320/micron-samples-256-gb-ddr58800-mcr-dimms-massive-modules-for-massive-servers)
-- Mar 22 - [Apple Turned on 'Discoverable by Others'. You Might Want It Off](https://www.wsj.com/tech/personal-tech/apple-iphone-discoverable-by-others-journaling-suggestions-9d63086d)
-- Mar 22 - [Empirical (YC S23) is hiring interns to build AI-enabled primary care](https://www.workatastartup.com/jobs/65500)
-- Mar 22 - [Finding Little Albert (2011)](https://www.bps.org.uk/psychologist/looking-back-finding-little-albert)
-- Mar 22 - [OpenCat: Open-source robotic pet quadruped framework](https://www.petoi.com/pages/opencat-open-source-robot-pet-framework)
+- Mar 23 - [Stability AI: Emad Mostaque resigned from his role as CEO](https://stability.ai/news/stabilityai-announcement)
+- Mar 23 - [Soupault: A static website management tool](https://soupault.app/)
+- Mar 23 - [High-speed microscale 3D printing](https://news.stanford.edu/2024/03/13/high-speed-microscale-3d-printing/)
+- Mar 23 - [Google Ordered to Identify Who Watched Certain YouTube Videos](https://www.forbes.com/sites/thomasbrewster/2024/03/22/feds-ordered-google-to-unmask-certain-youtube-users-critics-say-its-terrifying/)
+- Mar 23 - [Arginine Peptides Induce Nucleolar Stress, Ribosomopathy and Aging in Mice](https://www.cell.com/molecular-cell/abstract/S1097-2765(24)00173-4)
 <!--END_SECTION:hn-->
 
 <!--
