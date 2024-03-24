@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 24 - [Condvars and atomics do not mix](https://zeux.io/2024/03/23/condvars-atomic/)
-- Mar 24 - [Type-Safe Printf() in TypeScript](https://www.typescriptlang.org/play?#code/C4TwDgpgBAypDGUC8UDkATVUA+aDOqA3AFCiSwIAq4EAPDFBAB7AQB26eFE8AfMrEYt2nNJigB+KGwCuAWwBGEAE5QAXIOasOXVAUlQ8wZQEs2Ac3XSIANxUlSNKAAVTbYADMAgsvN5aAGJywPxIxFARUEHAQtqiAAYApAAkAN5mHiqawjrc8AC+aRlZAEoQRvnxBgDacDzUkPS8ADRQAHQdrmaePn60ZUa8ALrq4ZHRsSJc8UVsmaoA+vkp6XNZDFpTeYWr81ADwJU1dfANdDAt7Z1uPb7+B8OjkVDVQw4eMmzwwCYA9mxQMA3DyBYKTXJGNzmXgACg8wQ00VaHTaAEM7houu5vHdQSEAJRQVJjCLwf54X4AGwgbUpv3MMPiZXgEBMdnQUHhMUhZnMGgARGkufl+VBURwxRioGl0X5KviSPliMQAPQqqAASWAeigZGgeFRmQAhMQgd0PDD+QAJCCUumtRJ4NpQRIcgDULo5KFdbX5rX5AHVfspKeg-VAAKytAAsrQAnAqgA)
-- Mar 24 - [Antimatter Propulsion [pdf]](https://ntrs.nasa.gov/api/citations/20200001904/downloads/20200001904.pdf)
-- Mar 24 - [ARM64EC (and ARM64X) Explained](http://www.emulators.com/docs/abc_arm64ec_explained.htm)
-- Mar 24 - [Sieve (YC W22) Is hiring ML engineers to build the future of video AI](https://sievedata.com/about/jobs)
+- Mar 24 - [The new Windows update made me think I'd installed malware](https://www.pcgamer.com/software/windows/the-new-windows-update-made-me-think-id-installed-malware-but-it-was-just-microsofts-latest-attempt-to-try-and-fool-me-into-using-bing/)
+- Mar 24 - [Your customers hate MVPs. Make a SLC instead](https://longform.asmartbear.com/slc/)
+- Mar 24 - [Scientists traced a mysterious Covid case back to six toilets](https://www.technologyreview.com/2024/03/22/1090059/how-scientists-traced-a-mysterious-covid-case-back-to-six-toilets/)
+- Mar 24 - [Majority of web apps could just run on a single server](https://old.reddit.com/r/webdev/comments/1bmfrjm/majority_of_web_apps_could_just_run_on_a_single/)
+- Mar 24 - [GPT-4, without specialized training, beat a GPT-3.5 class model that cost $10M](https://www.threads.net/@ethan_mollick/post/C46AfItO8RS)
 <!--END_SECTION:hn-->
 
 <!--
