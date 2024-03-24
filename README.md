@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 23 - [Ant queens cannibalise infected brood to limit disease spread, recycle nutrients](https://www.researchgate.net/publication/378986659_Ant_queens_cannibalise_infected_brood_to_contain_disease_spread_and_recycle_nutrients)
-- Mar 23 - [A Man Who Bought Pine Bluff, Arkansas (On Hacker News) (2022)](https://maxread.substack.com/p/the-man-who-bought-pine-bluff-arkansas)
-- Mar 23 - [Show HN: Rotary Phone Project](https://github.com/mnutt/rotary)
-- Mar 23 - [The Intel 8088 processor's instruction prefetch circuitry: a look inside](https://www.righto.com/2024/03/8088-prefetch-circuitry.html)
-- Mar 23 - [On Microsoft, the U.S. Government Must Embrace the Stick](https://www.lawfaremedia.org/article/on-microsoft-the-u.s.-government-must-embrace-the-stick-ransomware-disruption)
+- Mar 23 - ["Many in Silicon Valley feel the same about him (David Sacks) as you do."](https://twitter.com/paulg/status/1771640321446683060)
+- Mar 23 - [Why "Freakonomics" failed to transform economics](https://www.economist.com/finance-and-economics/2024/03/21/why-freakonomics-failed-to-transform-economics)
+- Mar 23 - [An approach to design high-power lithium sulfur batteries](https://phys.org/news/2024-03-approach-high-power-lithium-sulfur.html)
+- Mar 23 - [New Aztec Codices Discovered: The Codices of San Andrés Tetepilco](https://tlacuilolli.com/2024/03/21/new-aztec-codices-the-codices-of-san-andres-tetepilco/)
+- Mar 23 - [Hyprland Crash Course](https://xd1.dev/2024/03/hyprland-crash-course)
 <!--END_SECTION:hn-->
 
 <!--
