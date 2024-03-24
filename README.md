@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 23 - ["Many in Silicon Valley feel the same about him (David Sacks) as you do."](https://twitter.com/paulg/status/1771640321446683060)
-- Mar 23 - [Why "Freakonomics" failed to transform economics](https://www.economist.com/finance-and-economics/2024/03/21/why-freakonomics-failed-to-transform-economics)
-- Mar 23 - [An approach to design high-power lithium sulfur batteries](https://phys.org/news/2024-03-approach-high-power-lithium-sulfur.html)
-- Mar 23 - [New Aztec Codices Discovered: The Codices of San Andrés Tetepilco](https://tlacuilolli.com/2024/03/21/new-aztec-codices-the-codices-of-san-andres-tetepilco/)
-- Mar 23 - [Hyprland Crash Course](https://xd1.dev/2024/03/hyprland-crash-course)
+- Mar 24 - [Large Grocers Took Advantage of Pandemic Supply Chain Disruptions, FTC Finds](https://www.nytimes.com/2024/03/21/us/politics/grocery-prices-pandemic-ftc.html)
+- Mar 24 - [CodeCrafters (YC S22) Is Hiring a Bootcamps Partnership Manager](https://www.ycombinator.com/companies/codecrafters/jobs/tH6WSC3-bootcamps-partnerships-manager)
+- Mar 24 - [Linux Crisis Tools](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html)
+- Mar 24 - [After 41 years, my first assembly program on my first computer, the Tomy Tutor](http://oldvcr.blogspot.com/2024/03/after-41-years-my-first-assembly.html)
+- Mar 24 - [Speaking without vocal cords, thanks to a new AI-assisted wearable device](https://newsroom.ucla.edu/releases/speaking-without-vocal-cords-ucla-engineering-wearable-tech)
 <!--END_SECTION:hn-->
 
 <!--
