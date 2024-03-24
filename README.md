@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 24 - [Scythians Between Russia and Ukraine](https://languagelog.ldc.upenn.edu/nll/?p=63123)
-- Mar 24 - [The Biggest Crisis Is the End of Scarcity](https://foreignpolicy.com/2024/03/16/end-of-scarcity-crisis-growth-war/)
-- Mar 24 - [Creating an autopilot in X-Plane using Python](https://austinsnerdythings.com/2021/10/15/creating-an-autopilot-in-x-plane-using-python-part-1/)
-- Mar 24 - [A nostalgic look back at when the Internet still felt joyful](https://www.cnn.com/2024/03/14/style/lan-party-online-gamers-photos/index.html)
-- Mar 24 - [Core I9 14900KF Breaks World Record, Almost Achieves 9.1GHz (2023)](https://www.tomshardware.com/news/core-i9-14900kf-breaks-world-record-almost-achieves-91ghz)
+- Mar 24 - [Sieve (YC W22) Is hiring ML engineers to build the future of video AI](https://sievedata.com/about/jobs)
+- Mar 24 - [LLM pricing comparison tool – [free]](https://www.botgenuity.com/tools/llm-pricing)
+- Mar 24 - [Tinyssh](https://tinyssh.org/)
+- Mar 24 - [Reactive Programming Without Functions](https://programming-journal.org/2024/8/11/)
+- Mar 24 - [Dead Man's Switch](https://www.deadmansswitch.net/)
 <!--END_SECTION:hn-->
 
 <!--
