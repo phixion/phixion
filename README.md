@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 25 - [Supervision: Reusable Computer Vision](https://github.com/roboflow/supervision)
-- Mar 25 - [Mutt on Windows Without WSL](https://blog.djhaskin.com/blog/mutt-on-windows-without-wsl/)
-- Mar 25 - [Northern lights forecasted to be visible into upper United States tonight](https://www.swpc.noaa.gov/products/aurora-viewline-tonight-and-tomorrow-night-experimental)
-- Mar 25 - [Symbolics Sunstone Development Plan (1987) [pdf]](https://wiki.unix-haters.org/lib/exe/fetch.php?media=smbx:1987-sunstone.pdf)
-- Mar 24 - [The Format Dialog in Windows NT](https://twitter.com/davepl1968/status/1772042158046146792)
+- Mar 25 - [Bitmovin (YC S15) Is Hiring a Senior SW Engineer C/C++ in Berlin](https://bitmovin.com/careers/senior-software-engineer-c-7093093002)
+- Mar 25 - [Windows 98 Icons](https://win98icons.alexmeub.com/)
+- Mar 25 - [Best engineering interview question I've gotten](https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/)
+- Mar 25 - [GM stops sharing driver data with brokers amid backlash](https://arstechnica.com/cars/2024/03/gm-stops-sharing-driver-data-with-brokers-amid-backlash/)
+- Mar 25 - [EVGA power supply kills 22TB of customer storage then denies responsibility](https://www.tomshardware.com/pc-components/power-supplies/evga-power-supply-allegedly-blows-up-22tb-of-customer-storage-revised-model-from-rma-had-a-different-pin-layout-and-killed-all-sata-powered-devices)
 <!--END_SECTION:hn-->
 
 <!--
