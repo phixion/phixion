@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 24 - [The new Windows update made me think I'd installed malware](https://www.pcgamer.com/software/windows/the-new-windows-update-made-me-think-id-installed-malware-but-it-was-just-microsofts-latest-attempt-to-try-and-fool-me-into-using-bing/)
-- Mar 24 - [Your customers hate MVPs. Make a SLC instead](https://longform.asmartbear.com/slc/)
-- Mar 24 - [Scientists traced a mysterious Covid case back to six toilets](https://www.technologyreview.com/2024/03/22/1090059/how-scientists-traced-a-mysterious-covid-case-back-to-six-toilets/)
-- Mar 24 - [Majority of web apps could just run on a single server](https://old.reddit.com/r/webdev/comments/1bmfrjm/majority_of_web_apps_could_just_run_on_a_single/)
-- Mar 24 - [GPT-4, without specialized training, beat a GPT-3.5 class model that cost $10M](https://www.threads.net/@ethan_mollick/post/C46AfItO8RS)
+- Mar 24 - [Do Artifacts Have Politics? [pdf]](https://faculty.cc.gatech.edu/~beki/cs4001/Winner.pdf)
+- Mar 24 - ['Quantum tornado' allows scientists to mimic a black hole on Earth](https://www.space.com/quantum-tornado-black-hole-physics-simulation-absolute-zero)
+- Mar 24 - [Austin's Bitcoin Underground](https://www.cnbc.com/2024/03/24/inside-austins-bitcoin-underground.html)
+- Mar 24 - [Nuclear's role in a net-zero world](https://knowablemagazine.org/content/article/food-environment/2024/nuclears-role-in-a-net-zero-world)
+- Mar 24 - [Monolith – CLI tool for saving complete web pages as a single HTML file](https://github.com/Y2Z/monolith)
 <!--END_SECTION:hn-->
 
 <!--
