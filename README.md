@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 25 - [CFEngine's Star Trek and AI Origins (2023)](https://mark-burgess-oslo-mb.medium.com/cfengines-star-trek-and-ai-origins-e99096fe845b)
-- Mar 25 - [United States vs. Apple](https://stratechery.com/2024/united-states-v-apple/)
-- Mar 25 - [Show HN: Jampack – Optimizes static websites as a post-processing step](https://github.com/divriots/jampack)
-- Mar 25 - [Show HN: Detecting adblock, without JavaScript, by abusing HTTP 103 responses](https://github.com/Mechazawa/103-early-anti-adblock)
-- Mar 25 - [Show HN: Flatito, grep for YAML and JSON files](https://github.com/ceritium/flatito)
+- Mar 25 - [ZenHammer: Rowhammer Attacks on AMD Zen-Based Platforms](https://comsec.ethz.ch/research/dram/zenhammer/)
+- Mar 25 - [Show HN: Tracecat – Open-source security alert automation / SOAR alternative](https://github.com/TracecatHQ/tracecat)
+- Mar 25 - [Solving Crew Battle Strategy with Math](https://www.alexirpan.com/2024/03/23/crew-battle.html)
+- Mar 25 - [Patterns (YC S21) is hiring to automate data reporting with LLMs](https://patterns.app/)
+- Mar 25 - [Hotel Hotspot Hijinks](https://peateasea.de/hotel-hotspot-hijinks/)
 <!--END_SECTION:hn-->
 
 <!--
