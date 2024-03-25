@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 24 - [Do Artifacts Have Politics? [pdf]](https://faculty.cc.gatech.edu/~beki/cs4001/Winner.pdf)
-- Mar 24 - ['Quantum tornado' allows scientists to mimic a black hole on Earth](https://www.space.com/quantum-tornado-black-hole-physics-simulation-absolute-zero)
-- Mar 24 - [Austin's Bitcoin Underground](https://www.cnbc.com/2024/03/24/inside-austins-bitcoin-underground.html)
-- Mar 24 - [Nuclear's role in a net-zero world](https://knowablemagazine.org/content/article/food-environment/2024/nuclears-role-in-a-net-zero-world)
-- Mar 24 - [Monolith – CLI tool for saving complete web pages as a single HTML file](https://github.com/Y2Z/monolith)
+- Mar 25 - [Supervision: Reusable Computer Vision](https://github.com/roboflow/supervision)
+- Mar 25 - [Mutt on Windows Without WSL](https://blog.djhaskin.com/blog/mutt-on-windows-without-wsl/)
+- Mar 25 - [Northern lights forecasted to be visible into upper United States tonight](https://www.swpc.noaa.gov/products/aurora-viewline-tonight-and-tomorrow-night-experimental)
+- Mar 25 - [Symbolics Sunstone Development Plan (1987) [pdf]](https://wiki.unix-haters.org/lib/exe/fetch.php?media=smbx:1987-sunstone.pdf)
+- Mar 24 - [The Format Dialog in Windows NT](https://twitter.com/davepl1968/status/1772042158046146792)
 <!--END_SECTION:hn-->
 
 <!--
