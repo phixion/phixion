@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 25 - [Spine AI (YC S23) Is Hiring for a Senior Back End Engineer](https://www.ycombinator.com/companies/spine-ai/jobs/ak6G8jk-senior-backend-engineer)
-- Mar 25 - [Show HN: I made a tool to Find your Startup Name in Seconds.](https://findna.me/)
-- Mar 25 - [SPQR 1.3.0: a production-ready system for horizontal scaling of PostgreSQL](https://github.com/pg-sharding/spqr/discussions/569)
-- Mar 25 - [EU Launches Probes into Apple, Meta, Google Under New Digital Competition Law](https://www.wsj.com/tech/eu-launches-probes-into-apple-meta-google-under-new-digital-competition-law-4d383201)
-- Mar 25 - [Pyenv – lets you easily switch between multiple versions of Python](https://github.com/pyenv/pyenv)
+- Mar 25 - [CFEngine's Star Trek and AI Origins (2023)](https://mark-burgess-oslo-mb.medium.com/cfengines-star-trek-and-ai-origins-e99096fe845b)
+- Mar 25 - [United States vs. Apple](https://stratechery.com/2024/united-states-v-apple/)
+- Mar 25 - [Show HN: Jampack – Optimizes static websites as a post-processing step](https://github.com/divriots/jampack)
+- Mar 25 - [Show HN: Detecting adblock, without JavaScript, by abusing HTTP 103 responses](https://github.com/Mechazawa/103-early-anti-adblock)
+- Mar 25 - [Show HN: Flatito, grep for YAML and JSON files](https://github.com/ceritium/flatito)
 <!--END_SECTION:hn-->
 
 <!--
