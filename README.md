@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 26 - [Porsche Will Stop Selling Boxster, Cayman in Europe Due to Anti-Hacking Law](https://www.thedrive.com/news/porsche-stops-selling-718-boxster-cayman-europe-cybersecurity-law)
-- Mar 26 - [Neorg – organize your life in Neovim](https://github.com/nvim-neorg/neorg)
-- Mar 26 - [Launch HN: Aqua Voice (YC W24) – Voice-driven text editor](https://news.ycombinator.com/item?id=39828686)
-- Mar 26 - [Generating music in the waveform domain (2020)](https://sander.ai/2020/03/24/audio-generation.html)
-- Mar 26 - [Debian/Ubuntu privilege escalation PoC exploit for CVE-2024-1086](https://github.com/Notselwyn/CVE-2024-1086)
+- Mar 26 - [Everything in our universe may be conscious, scientists say](https://www.popularmechanics.com/science/a60229168/panpsychism-everything-has-a-soul/)
+- Mar 26 - [Researchers Discover 40k-Strong EOL Router, IoT Botnet](https://www.securityweek.com/researchers-discover-40000-strong-eol-router-iot-botnet/)
+- Mar 26 - [GPT-4V(ision) Unsuitable for Clinical Care and Education: An Evaluation](https://arxiv.org/abs/2403.12046)
+- Mar 26 - [Weird new electron behaviour in stacked graphene thrills physicists](https://www.nature.com/articles/d41586-024-00832-z)
+- Mar 26 - [Rust data structures with circular references (2021)](https://eli.thegreenplace.net/2021/rust-data-structures-with-circular-references/)
 <!--END_SECTION:hn-->
 
 <!--
