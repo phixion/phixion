@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 26 - [Nimbus (YC W21) Is Hiring Founding Engineer to Make Datadog Affordable Again](https://www.ycombinator.com/companies/nimbus-3/jobs/SqMcSqM-founding-full-stack-engineer)
-- Mar 26 - [Julian Assange granted permission to appeal against extradition to US](https://www.theguardian.com/media/2024/mar/26/julian-assange-granted-permission-to-appeal-against-extradition-to-us)
-- Mar 26 - [Sega Saturn Architecture – A practical analysis](https://www.copetti.org/writings/consoles/sega-saturn/)
-- Mar 26 - [The Francis Scott Key Bridge in Baltimore, Maryland Has Collapsed](https://twitter.com/sentdefender/status/1772514015790477667)
-- Mar 26 - [Packet-Editing Games in Golang (2021)](https://remyhax.xyz/posts/golang-packet-editing/)
+- Mar 26 - [Porsche Will Stop Selling Boxster, Cayman in Europe Due to Anti-Hacking Law](https://www.thedrive.com/news/porsche-stops-selling-718-boxster-cayman-europe-cybersecurity-law)
+- Mar 26 - [Neorg – organize your life in Neovim](https://github.com/nvim-neorg/neorg)
+- Mar 26 - [Launch HN: Aqua Voice (YC W24) – Voice-driven text editor](https://news.ycombinator.com/item?id=39828686)
+- Mar 26 - [Generating music in the waveform domain (2020)](https://sander.ai/2020/03/24/audio-generation.html)
+- Mar 26 - [Debian/Ubuntu privilege escalation PoC exploit for CVE-2024-1086](https://github.com/Notselwyn/CVE-2024-1086)
 <!--END_SECTION:hn-->
 
 <!--
