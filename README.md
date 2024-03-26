@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 26 - [Nix at Scale](https://lwn.net/SubscriberLink/965631/f3db6d3dde3f83cb/)
-- Mar 26 - [Unlocking the Secrets of Myelin Repair](https://neuroscience.stanford.edu/news/unlocking-secrets-myelin-repair)
-- Mar 26 - [Lifelong Disadvantage: How Socioeconomics Affect Brain Function](https://www.jneurosci.org/content/early/2024/03/07/JNEUROSCI.1231-23.2024)
-- Mar 26 - [Publishers Secure Widespread Support in Copyright Battle with Internet Archive](https://torrentfreak.com/publishers-secure-widespread-support-in-landmark-copyright-battle-with-internet-archive-240324/)
-- Mar 26 - [Moirai: A Time Series Foundation Model for Universal Forecasting](https://blog.salesforceairesearch.com/moirai/)
+- Mar 26 - [The Francis Scott Key Bridge in Baltimore, Maryland Has Collapsed](https://twitter.com/sentdefender/status/1772514015790477667)
+- Mar 26 - [Kapa.ai (YC S23) is hiring a full stack engineer (with LLM focus)](https://www.ycombinator.com/companies/kapa-ai/jobs/Mt1W4Mj-full-stack-engineer)
+- Mar 26 - [Packet-Editing Games in Golang (2021)](https://remyhax.xyz/posts/golang-packet-editing/)
+- Mar 26 - [Canva acquires Affinity, its biggest acquisition, to compete with Adobe](https://finance.yahoo.com/news/canva-acquires-affinity-design-suite-004813952.html)
+- Mar 26 - [Scientists rename genes to stop Microsoft Excel from misreading them as dates](https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates)
 <!--END_SECTION:hn-->
 
 <!--
