@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 25 - [Illness Impacting Dairy Cattle Is Confirmed as Highly Pathogenic Avian Flu](https://www.agweb.com/news/livestock/dairy/breaking-mystery-illness-impacting-texas-kansas-dairy-cattle-confirmed-highly)
-- Mar 25 - [Inkjets are for more than just printing](https://spectrum.ieee.org/inkjet-printer)
-- Mar 25 - [How Couples Meet](https://web.stanford.edu/~mrosenfe/Rosenfeld_how_hetero_couples_met_through2021v4.JPG)
-- Mar 25 - [Google's First Tensor Processing Unit: Architecture](https://thechipletter.substack.com/p/googles-first-tpu-architecture)
-- Mar 25 - [UpCodes (YC S17) is hiring remote SWEs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
+- Mar 26 - [Nix at Scale](https://lwn.net/SubscriberLink/965631/f3db6d3dde3f83cb/)
+- Mar 26 - [Unlocking the Secrets of Myelin Repair](https://neuroscience.stanford.edu/news/unlocking-secrets-myelin-repair)
+- Mar 26 - [Lifelong Disadvantage: How Socioeconomics Affect Brain Function](https://www.jneurosci.org/content/early/2024/03/07/JNEUROSCI.1231-23.2024)
+- Mar 26 - [Publishers Secure Widespread Support in Copyright Battle with Internet Archive](https://torrentfreak.com/publishers-secure-widespread-support-in-landmark-copyright-battle-with-internet-archive-240324/)
+- Mar 26 - [Moirai: A Time Series Foundation Model for Universal Forecasting](https://blog.salesforceairesearch.com/moirai/)
 <!--END_SECTION:hn-->
 
 <!--
