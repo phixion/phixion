@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Mar 27 - [GSM Hosting - 2,607,440 breached accounts](https://haveibeenpwned.com/PwnedWebsites#GSMHosting)
 - Mar 26 - [SwordFantasy - 2,690,657 breached accounts](https://haveibeenpwned.com/PwnedWebsites#SwordFantasy)
 - Mar 22 - [MediaWorks - 162,710 breached accounts](https://haveibeenpwned.com/PwnedWebsites#MediaWorks)
 - Mar 19 - [Alleged AT&T (unverified) - 49,102,176 breached accounts](https://haveibeenpwned.com/PwnedWebsites#AllegedATT)
 - Mar 13 - [ClickASnap - 3,262,980 breached accounts](https://haveibeenpwned.com/PwnedWebsites#ClickASnap)
-- Mar 12 - [Flipkart - 552,094 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Flipkart)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 27 - [Nomic](http://legacy.earlham.edu/~peters/nomic.htm)
-- Mar 27 - [MIT Unveils Gen AI Tool That Generates High Res Images 30 Times Faster](https://hothardware.com/news/mit-dmd-image-diffusion)
-- Mar 26 - [A living replacement knee to be tested in clinical trials within five years](https://www.engineering.columbia.edu/news/arpa-h-awards-columbia-researchers-nearly-39m-develop-living-knee-replacement)
-- Mar 26 - [OneText (YC W23) Is Hiring a Lead Design/UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
-- Mar 26 - [After Appalachian hospitals merged, their ERs became much slower](https://kffhealthnews.org/news/article/ballad-health-er-wait-times-copa-monopoly-appalachia-hospitals/)
+- Mar 27 - [Facebook Accused of Using Your Phone to Wiretap Snapchat](https://gizmodo.com/project-ghostbusters-facebook-meta-wiretap-snapchat-1851366093)
+- Mar 27 - [Recent 'MFA Bombing' Attacks Targeting Apple Users](https://krebsonsecurity.com/2024/03/recent-mfa-bombing-attacks-targeting-apple-users/)
+- Mar 27 - [Laudspeaker hiring senior engineer to build open source customer engagement](https://news.ycombinator.com/item?id=39836316)
+- Mar 27 - [Antitrust suit could force Apple to reveal its secrets](https://www.axios.com/2024/03/24/apple-secrets-antitrust-suit)
+- Mar 27 - [First practical SHA-256 collision for 31 steps. fse2024](https://twitter.com/jedisct1/status/1772647350554464448)
 <!--END_SECTION:hn-->
 
 <!--
