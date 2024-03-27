@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 26 - [Everything in our universe may be conscious, scientists say](https://www.popularmechanics.com/science/a60229168/panpsychism-everything-has-a-soul/)
-- Mar 26 - [Researchers Discover 40k-Strong EOL Router, IoT Botnet](https://www.securityweek.com/researchers-discover-40000-strong-eol-router-iot-botnet/)
-- Mar 26 - [GPT-4V(ision) Unsuitable for Clinical Care and Education: An Evaluation](https://arxiv.org/abs/2403.12046)
-- Mar 26 - [Weird new electron behaviour in stacked graphene thrills physicists](https://www.nature.com/articles/d41586-024-00832-z)
-- Mar 26 - [Rust data structures with circular references (2021)](https://eli.thegreenplace.net/2021/rust-data-structures-with-circular-references/)
+- Mar 27 - [Airline says Boeing CEO must have engineering background](https://www.msn.com/en-ae/money/news/boeing-s-new-ceo-must-be-strong-engineering-lead-emirates-boss-says/ar-BB1kyeA1)
+- Mar 26 - [Lego head mugshots add to California's debate on policing and privacy](https://apnews.com/article/california-mugshot-lego-murrieta-police-4493cd7c27cdb42f81dd15fed6da38bb)
+- Mar 26 - [A living replacement knee to be tested in clinical trials within five years](https://www.engineering.columbia.edu/news/arpa-h-awards-columbia-researchers-nearly-39m-develop-living-knee-replacement)
+- Mar 26 - [OneText (YC W23) Is Hiring a Lead Design/UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
+- Mar 26 - [Affinity Is Joining Canva](https://affinity.serif.com/en-us/press/newsroom/canva-statement/)
 <!--END_SECTION:hn-->
 
 <!--
