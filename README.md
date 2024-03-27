@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 27 - [Daniel Kahneman, Psychologist Who Upended Economics, Dies at 90](https://www.bloomberg.com/news/articles/2024-03-27/daniel-kahneman-psychologist-who-upended-economics-dies-at-90)
-- Mar 27 - [AMD EPYC 7C13 Is a Surprisingly Cheap and Good CPU](https://www.servethehome.com/amd-epyc-7c13-is-a-surprisingly-cheap-and-good-cpu/)
-- Mar 27 - [Daniel Kahneman, Nobel-winning economist, dies at 90](https://www.washingtonpost.com/obituaries/2024/03/27/daniel-kahneman-dead/)
-- Mar 27 - [Thames Tideway Tunnel super sewer completed](https://www.bbc.com/news/science-environment-68464798)
-- Mar 27 - [Flatpak builds are not reproducible and why that's a practical problem (2022)](https://ranfdev.com/blog/flatpak-builds-are-not-reproducible/)
+- Mar 27 - [Netflix acquires AI-powered language learning app THINKIN](https://www.cnbc.com/2024/03/27/buy-stocks-on-wednesday-like-nvidia.html)
+- Mar 27 - [Qualcomm demos Baldur's Gate 3 and Control on Snapdragon X Elite laptops](https://www.theverge.com/2024/3/27/24113730/qualcomm-snapdragon-x-elite-gaming-influencers)
+- Mar 27 - [Fisker lost track of millions of dollars in customer payments for months](https://techcrunch.com/2024/03/27/fisker-misplaced-payments-internal-audit-bankruptcy/)
+- Mar 27 - [Launch HN: PointOne (YC W24) – Automated time tracking for lawyers](https://news.ycombinator.com/item?id=39842617)
+- Mar 27 - [Engineering household robots to have a little common sense](https://news.mit.edu/2024/engineering-household-robots-have-little-common-sense-0325)
 <!--END_SECTION:hn-->
 
 <!--
