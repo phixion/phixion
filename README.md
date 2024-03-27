@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 27 - [Facebook Accused of Using Your Phone to Wiretap Snapchat](https://gizmodo.com/project-ghostbusters-facebook-meta-wiretap-snapchat-1851366093)
-- Mar 27 - [Recent 'MFA Bombing' Attacks Targeting Apple Users](https://krebsonsecurity.com/2024/03/recent-mfa-bombing-attacks-targeting-apple-users/)
-- Mar 27 - [Laudspeaker hiring senior engineer to build open source customer engagement](https://news.ycombinator.com/item?id=39836316)
-- Mar 27 - [Antitrust suit could force Apple to reveal its secrets](https://www.axios.com/2024/03/24/apple-secrets-antitrust-suit)
-- Mar 27 - [First practical SHA-256 collision for 31 steps. fse2024](https://twitter.com/jedisct1/status/1772647350554464448)
+- Mar 27 - [Younger Generations Have Larger Brains. Is That Healthier?](https://www.sciencealert.com/younger-generations-have-larger-brains-is-that-healthier)
+- Mar 27 - [Serious security breach hits EU police agency](https://www.politico.eu/article/europol-internal-agency-eu-police-agency-engulfed-in-clean-up-over-missing-files/)
+- Mar 27 - [Show HN: A static site generator that prettifies the output HTML](https://github.com/jdeanwallace/jinjabread)
+- Mar 27 - [How Radicle Works Under the Hood](https://radicle.xyz/guides/protocol)
+- Mar 27 - [Egui 0.27 – easy-to-use immediate mode GUI for Rust](https://github.com/emilk/egui/releases/tag/0.27.0)
 <!--END_SECTION:hn-->
 
 <!--
