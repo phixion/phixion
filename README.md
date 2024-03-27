@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 27 - [Younger Generations Have Larger Brains. Is That Healthier?](https://www.sciencealert.com/younger-generations-have-larger-brains-is-that-healthier)
-- Mar 27 - [Serious security breach hits EU police agency](https://www.politico.eu/article/europol-internal-agency-eu-police-agency-engulfed-in-clean-up-over-missing-files/)
-- Mar 27 - [Show HN: A static site generator that prettifies the output HTML](https://github.com/jdeanwallace/jinjabread)
-- Mar 27 - [How Radicle Works Under the Hood](https://radicle.xyz/guides/protocol)
-- Mar 27 - [Egui 0.27 – easy-to-use immediate mode GUI for Rust](https://github.com/emilk/egui/releases/tag/0.27.0)
+- Mar 27 - [Daniel Kahneman, Psychologist Who Upended Economics, Dies at 90](https://www.bloomberg.com/news/articles/2024-03-27/daniel-kahneman-psychologist-who-upended-economics-dies-at-90)
+- Mar 27 - [AMD EPYC 7C13 Is a Surprisingly Cheap and Good CPU](https://www.servethehome.com/amd-epyc-7c13-is-a-surprisingly-cheap-and-good-cpu/)
+- Mar 27 - [Daniel Kahneman, Nobel-winning economist, dies at 90](https://www.washingtonpost.com/obituaries/2024/03/27/daniel-kahneman-dead/)
+- Mar 27 - [Thames Tideway Tunnel super sewer completed](https://www.bbc.com/news/science-environment-68464798)
+- Mar 27 - [Flatpak builds are not reproducible and why that's a practical problem (2022)](https://ranfdev.com/blog/flatpak-builds-are-not-reproducible/)
 <!--END_SECTION:hn-->
 
 <!--
