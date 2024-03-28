@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 28 - [We've been here before: AI promised humanlike machines – in 1958](https://theconversation.com/weve-been-here-before-ai-promised-humanlike-machines-in-1958-222700)
-- Mar 28 - [ST-DOS](http://sininenankka.dy.fi/~sami/fdshell/doskernel.php)
-- Mar 28 - [Digital signs in Brookline are collecting data from your phone as you walk by](https://brookline.news/digital-signs-around-brookline-are-collecting-data-from-your-phone-as-you-walk-by/)
-- Mar 28 - [Share Openly](https://werd.io/2024/share-openly)
-- Mar 28 - [A step beyond Rust's pattern matching](https://radiki.dev/posts/match-and-bind-patterns/)
+- Mar 28 - [Intel Brags of $152B in Stock Buybacks. Why Does It Need an $8B Subsidy?](https://www.commondreams.org/opinion/intel-subsidy-chips-act-stock-buyback)
+- Mar 28 - [A near 100pct renewable grid for Australia is feasible and affordable](https://reneweconomy.com.au/a-near-100pct-renewable-grid-for-australia-is-feasible-and-affordable-with-just-a-few-hours-of-storage/)
+- Mar 28 - [What is DECT-2020 New Radio (NR), and how big a deal is it?](https://blog.nordicsemi.com/getconnected/what-is-dect-2020-new-radio-nr-and-how-big-a-deal-is-it)
+- Mar 28 - [Go Enums Still Suck](https://www.zarl.dev/articles/enums-take-two)
+- Mar 28 - [Memories are made by breaking DNA – and fixing it](https://www.nature.com/articles/d41586-024-00930-y)
 <!--END_SECTION:hn-->
 
 <!--
