@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 27 - [Netflix acquires AI-powered language learning app THINKIN](https://www.cnbc.com/2024/03/27/buy-stocks-on-wednesday-like-nvidia.html)
-- Mar 27 - [Qualcomm demos Baldur's Gate 3 and Control on Snapdragon X Elite laptops](https://www.theverge.com/2024/3/27/24113730/qualcomm-snapdragon-x-elite-gaming-influencers)
-- Mar 27 - [Fisker lost track of millions of dollars in customer payments for months](https://techcrunch.com/2024/03/27/fisker-misplaced-payments-internal-audit-bankruptcy/)
-- Mar 27 - [Launch HN: PointOne (YC W24) – Automated time tracking for lawyers](https://news.ycombinator.com/item?id=39842617)
-- Mar 27 - [Engineering household robots to have a little common sense](https://news.mit.edu/2024/engineering-household-robots-have-little-common-sense-0325)
+- Mar 27 - [NASA's Europa Clipper Survives and Thrives in 'Outer Space' on Earth](https://www.jpl.nasa.gov/news/nasas-europa-clipper-survives-and-thrives-in-outer-space-on-earth)
+- Mar 27 - [BeagleY-AI: a 4 TOPS-capable $70 board from Beagleboard](https://www.beagleboard.org/boards/beagley-ai)
+- Mar 27 - [Being laid off in 2023-2024 as an early-career developer](https://fpsvogel.com/posts/2024/early-career-developer-job-search-after-layoffs)
+- Mar 27 - [Windows 3.1 Style Clock](https://rmcretro.store/products/windows-3-1-style-clock)
+- Mar 27 - [Digital wallets and the "only Apple Pay does this" mythology](https://birchtree.me/blog/digital-wallets-and-the-only-apple-pay-does-this-mythology/)
 <!--END_SECTION:hn-->
 
 <!--
