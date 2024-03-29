@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 29 - [Arraymancer – Deep Learning Nim Library](https://github.com/mratsim/Arraymancer)
-- Mar 29 - [Math writing is dull when it neglects the human dimension](https://golem.ph.utexas.edu/category/2024/03/why_mathematics_is_boring_1.html)
-- Mar 29 - [Monogon: A Linux userland in pure Go](https://github.com/monogon-dev/monogon)
-- Mar 29 - [Faintest known star system orbiting the Milky Way discovered](https://phys.org/news/2024-03-faintest-star-orbiting-milky.html)
-- Mar 29 - [Thirty Seven](http://thirty-seven.org/)
+- Mar 29 - [Managing Linux Servers with Cockpit](https://lwn.net//Articles/965434/)
+- Mar 29 - [Capi Money (YC S23) Is Hiring](https://www.ycombinator.com/companies/capi-money/jobs/OTaPesL-senior-fullstack-engineer)
+- Mar 29 - [The Great Migration from MongoDB to PostgreSQL](https://infisical.com/blog/postgresql-migration-technical)
+- Mar 29 - [The Chandler Visual Programming Model](https://github.com/EternityForest/KaithemAutomation/wiki/The-Chandler-Visual-Programming-Model)
+- Mar 29 - [Vultr Just Betrayed Us](https://mwl.io/archives/23498)
 <!--END_SECTION:hn-->
 
 <!--
