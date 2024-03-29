@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 29 - [VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild](https://jasonppy.github.io/VoiceCraft_web/)
-- Mar 29 - [U.S. podcast listening reach new high: 47% listened one last month, +12% YoY](https://podnews.net/press-release/infinite-dial-2024)
-- Mar 29 - [A Chronicle reporter went undercover in high school](https://www.sfchronicle.com/vault/article/undercover-reporter-high-school-18677915.php)
-- Mar 29 - [Group buys up large tracts of land in Romania to create 'European Yellowstone'](https://english.elpais.com/international/2024-03-29/philanthropist-group-buys-up-large-tracts-of-land-in-romania-to-create-european-yellowstone.html)
-- Mar 29 - [James Webb Telescope Confirms That the Universe Is Expanding at Different Speeds](https://www.tomorrowsworldtoday.com/space/james-webb-telescope-to-confirms-that-the-universe-is-expanding-at-different-speeds/)
+- Mar 29 - [Yamaha and Lola pair up to enter Formula E next season](https://arstechnica.com/cars/2024/03/yamaha-and-lola-pair-up-to-enter-formula-e-next-season/)
+- Mar 29 - [Launch HN: Lumona (YC W24) – Product search based on Reddit and YouTube reviews](https://news.ycombinator.com/item?id=39867757)
+- Mar 29 - [Apache Guacamole: a clientless remote desktop gateway](https://guacamole.apache.org/)
+- Mar 29 - [Banner Blindness](https://en.wikipedia.org/wiki/Banner_blindness)
+- Mar 29 - [Porting the GCLC to the Web](https://blog.ubavic.rs/9/)
 <!--END_SECTION:hn-->
 
 <!--
