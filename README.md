@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 29 - [Managing Linux Servers with Cockpit](https://lwn.net//Articles/965434/)
-- Mar 29 - [Capi Money (YC S23) Is Hiring](https://www.ycombinator.com/companies/capi-money/jobs/OTaPesL-senior-fullstack-engineer)
-- Mar 29 - [The Great Migration from MongoDB to PostgreSQL](https://infisical.com/blog/postgresql-migration-technical)
-- Mar 29 - [The Chandler Visual Programming Model](https://github.com/EternityForest/KaithemAutomation/wiki/The-Chandler-Visual-Programming-Model)
-- Mar 29 - [Vultr Just Betrayed Us](https://mwl.io/archives/23498)
+- Mar 29 - [Why School Absences Have 'Exploded' Almost Everywhere](https://www.nytimes.com/interactive/2024/03/29/us/chronic-absences.html)
+- Mar 29 - [SSPL Is Bad](https://ssplisbad.com/)
+- Mar 29 - [Song lyrics getting simpler, more repetitive, angry and self-obsessed – study](https://www.theguardian.com/music/2024/mar/29/song-lyrics-getting-simpler-more-repetitive-angry-and-self-obsessed-study)
+- Mar 29 - [Two hundred reasons to not use Azure](https://mastodon.social/@azureshit)
+- Mar 29 - [Software vendors dump open source, go for the cash grab](https://www.computerworld.com/article/3714821/software-vendors-dump-open-source-go-for-the-cash-grab.html)
 <!--END_SECTION:hn-->
 
 <!--
