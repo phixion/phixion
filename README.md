@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 28 - [What Boeing did to all the guys who remember how to build a plane](https://prospect.org/infrastructure/transportation/2024-03-28-suicide-mission-boeing/)
-- Mar 28 - [Why Gmail Users Are Switching to Fastmail](https://www.fastmail.com/blog/why-gmail-users-are-switching-to-fastmail/)
-- Mar 28 - [The Next Big Step in Mojo Open Source](https://www.modular.com/blog/the-next-big-step-in-mojo-open-source)
-- Mar 28 - [Edgar, build a Dyson swarm](https://playedgar.netlify.app/)
-- Mar 28 - [Launch HN: Thorntale (YC W24) – Presentation software that works with your data](https://news.ycombinator.com/item?id=39854921)
+- Mar 28 - [Utah Passes Artificial Intelligence Legislation](https://www.jdsupra.com/legalnews/utah-passes-artificial-intelligence-1386840/)
+- Mar 28 - [Facebook let Netflix see user DMs, quit streaming to keep Netflix happy](https://arstechnica.com/gadgets/2024/03/netflix-ad-spend-led-to-facebook-dm-access-end-of-facebook-streaming-biz-lawsuit/)
+- Mar 28 - [Doom Captcha](https://vivirenremoto.github.io/doomcaptcha/)
+- Mar 28 - [Deep Learning in JavaScript](https://github.com/eduardoleao052/js-torch)
+- Mar 28 - [The race to replace Redis](https://lwn.net/SubscriberLink/966631/6bf2063136effa1e/)
 <!--END_SECTION:hn-->
 
 <!--
