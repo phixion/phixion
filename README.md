@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 29 - [Why School Absences Have 'Exploded' Almost Everywhere](https://www.nytimes.com/interactive/2024/03/29/us/chronic-absences.html)
-- Mar 29 - [SSPL Is Bad](https://ssplisbad.com/)
-- Mar 29 - [Song lyrics getting simpler, more repetitive, angry and self-obsessed – study](https://www.theguardian.com/music/2024/mar/29/song-lyrics-getting-simpler-more-repetitive-angry-and-self-obsessed-study)
-- Mar 29 - [Two hundred reasons to not use Azure](https://mastodon.social/@azureshit)
-- Mar 29 - [Software vendors dump open source, go for the cash grab](https://www.computerworld.com/article/3714821/software-vendors-dump-open-source-go-for-the-cash-grab.html)
+- Mar 29 - [VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild](https://jasonppy.github.io/VoiceCraft_web/)
+- Mar 29 - [U.S. podcast listening reach new high: 47% listened one last month, +12% YoY](https://podnews.net/press-release/infinite-dial-2024)
+- Mar 29 - [A Chronicle reporter went undercover in high school](https://www.sfchronicle.com/vault/article/undercover-reporter-high-school-18677915.php)
+- Mar 29 - [Group buys up large tracts of land in Romania to create 'European Yellowstone'](https://english.elpais.com/international/2024-03-29/philanthropist-group-buys-up-large-tracts-of-land-in-romania-to-create-european-yellowstone.html)
+- Mar 29 - [James Webb Telescope Confirms That the Universe Is Expanding at Different Speeds](https://www.tomorrowsworldtoday.com/space/james-webb-telescope-to-confirms-that-the-universe-is-expanding-at-different-speeds/)
 <!--END_SECTION:hn-->
 
 <!--
