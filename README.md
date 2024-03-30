@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 30 - [OpenAI says it can clone a voice from just 15 seconds of audio](https://www.engadget.com/openai-says-it-can-clone-a-voice-from-just-15-seconds-of-audio-190356431.html)
-- Mar 30 - [App scans your pile of Lego and uses ML to suggest projects](https://boingboing.net/2024/03/29/app-can-scan-your-huge-pile-of-random-lego-bricks-identify-each-one-and-suggest-a-building-project.html)
-- Mar 30 - [Reported Supply Chain Compromise Affecting XZ Utils Data Compression Library](https://www.cisa.gov/news-events/alerts/2024/03/29/reported-supply-chain-compromise-affecting-xz-utils-data-compression-library-cve-2024-3094)
-- Mar 30 - [KasmVNC – WASM Based VNC Server and Client](https://github.com/kasmtech/KasmVNC)
-- Mar 30 - [Prolog language for PostgreSQL proof of concept](https://github.com/tatut/pgprolog)
+- Mar 30 - [Engaging with Developers on Hacker News with Dan Moore [video]](https://redmonk.com/videos/a-redmonk-conversation-engaging-with-developers-on-hacker-news-with-dan-moore/)
+- Mar 30 - [Ask HN: Anybody Using Htmx on the Job?](https://news.ycombinator.com/item?id=39875374)
+- Mar 30 - [How the Atlantic Went from Broke to Profitable in Three Years](https://www.wsj.com/business/media/how-the-atlantic-went-from-broke-to-profitable-in-three-years-03cc3b18)
+- Mar 30 - [US appeals court kills ban on plastic containers contaminated with PFAS](https://www.theguardian.com/us-news/2024/mar/30/pfas-ban-plastic-containers-court)
+- Mar 30 - [How GitHub replaced SourceForge as the dominant code hosting platform](https://graphite.dev/blog/github-monopoly-on-code-hosting)
 <!--END_SECTION:hn-->
 
 <!--
