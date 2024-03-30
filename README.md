@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 29 - [Yamaha and Lola pair up to enter Formula E next season](https://arstechnica.com/cars/2024/03/yamaha-and-lola-pair-up-to-enter-formula-e-next-season/)
-- Mar 29 - [Launch HN: Lumona (YC W24) – Product search based on Reddit and YouTube reviews](https://news.ycombinator.com/item?id=39867757)
-- Mar 29 - [Apache Guacamole: a clientless remote desktop gateway](https://guacamole.apache.org/)
-- Mar 29 - [Banner Blindness](https://en.wikipedia.org/wiki/Banner_blindness)
-- Mar 29 - [Porting the GCLC to the Web](https://blog.ubavic.rs/9/)
+- Mar 29 - [Data research to Russia's misinformation website network](https://informnapalm.org/en/website-networks-in-europe-used-as-tools-for-russian-information-warfare-osint-investigation-informnapalm-insight-news/)
+- Mar 29 - [Suppressing boredom at work hurts future productivity](https://phys.org/news/2024-03-suppressing-boredom-future-productivity.html)
+- Mar 29 - [Amazon's palm-scanning service now lets you sign up from your phone](https://www.theverge.com/2024/3/28/24114499/amazon-one-palm-scanning-mobile-app)
+- Mar 29 - [Running a Raspberry Pi with a read-only root filesystem](https://www.dzombak.com/blog/2024/03/Running-a-Raspberry-Pi-with-a-read-only-root-filesystem.html)
+- Mar 29 - [TnT-LLM: Text Mining at Scale with Large Language Models](https://arxiv.org/abs/2403.12173)
 <!--END_SECTION:hn-->
 
 <!--
