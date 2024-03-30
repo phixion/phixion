@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 30 - [Playboy image from 1972 gets ban from IEEE computer journals](https://arstechnica.com/information-technology/2024/03/playboy-image-from-1972-gets-ban-from-ieee-computer-journals/)
-- Mar 30 - [America's Drivers Agree: LED Headlights Are Just Too Bright](https://www.wsj.com/lifestyle/car-led-headlights-too-bright-safety-driving-df0dd05e)
-- Mar 30 - [Show HN: AI for researching personal health issues](https://www.agenthost.ai/chat/wellness-wise)
-- Mar 30 - [Xz format inadequate for long-term archiving (2022-02-02)](https://www.nongnu.org/lzip/xz_inadequate.html)
-- Mar 30 - [Why Has Figma Reinvented the Wheel with PostgreSQL?](https://medium.com/@magda7817/why-has-figma-reinveted-the-wheel-with-postgresql-3a1cb2e9297c)
+- Mar 30 - [OpenAI says it can clone a voice from just 15 seconds of audio](https://www.engadget.com/openai-says-it-can-clone-a-voice-from-just-15-seconds-of-audio-190356431.html)
+- Mar 30 - [App scans your pile of Lego and uses ML to suggest projects](https://boingboing.net/2024/03/29/app-can-scan-your-huge-pile-of-random-lego-bricks-identify-each-one-and-suggest-a-building-project.html)
+- Mar 30 - [Reported Supply Chain Compromise Affecting XZ Utils Data Compression Library](https://www.cisa.gov/news-events/alerts/2024/03/29/reported-supply-chain-compromise-affecting-xz-utils-data-compression-library-cve-2024-3094)
+- Mar 30 - [KasmVNC – WASM Based VNC Server and Client](https://github.com/kasmtech/KasmVNC)
+- Mar 30 - [Prolog language for PostgreSQL proof of concept](https://github.com/tatut/pgprolog)
 <!--END_SECTION:hn-->
 
 <!--
