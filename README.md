@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 30 - [Police are tagging fleeing cars with GPS darts to avoid dangerous pursuits](https://www.thedrive.com/news/police-tag-fleeing-cars-with-gps-tracking-darts-to-avoid-dangerous-pursuits)
-- Mar 30 - [Paint.net](https://www.getpaint.net/)
-- Mar 30 - [Full-scale file system acceleration on GPU [pdf]](https://dl.gi.de/server/api/core/bitstreams/7c7a8830-fd81-4e56-8507-cd4809020660/content)
-- Mar 30 - [History of JavaScript Interop in Dart](https://medium.com/dartlang/history-of-js-interop-in-dart-98b06991158f)
-- Mar 30 - [World of Spectrum 404 Page](https://worldofspectrum.org/404.html)
+- Mar 30 - [Playboy image from 1972 gets ban from IEEE computer journals](https://arstechnica.com/information-technology/2024/03/playboy-image-from-1972-gets-ban-from-ieee-computer-journals/)
+- Mar 30 - [America's Drivers Agree: LED Headlights Are Just Too Bright](https://www.wsj.com/lifestyle/car-led-headlights-too-bright-safety-driving-df0dd05e)
+- Mar 30 - [Show HN: AI for researching personal health issues](https://www.agenthost.ai/chat/wellness-wise)
+- Mar 30 - [Xz format inadequate for long-term archiving (2022-02-02)](https://www.nongnu.org/lzip/xz_inadequate.html)
+- Mar 30 - [Why Has Figma Reinvented the Wheel with PostgreSQL?](https://medium.com/@magda7817/why-has-figma-reinveted-the-wheel-with-postgresql-3a1cb2e9297c)
 <!--END_SECTION:hn-->
 
 <!--
