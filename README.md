@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 31 - [Totality and non-standard recursion in Idris](https://franklin.dyer.me/post/222)
-- Mar 31 - [The end of Pepper&Carrot and my next project](https://www.davidrevoy.com/article1020/the-end-of-peppercarrot-and-my-next-project)
-- Mar 31 - [Dr. Katalin Karikó](https://www.glamour.com/story/katalin-kariko-biontech-women-of-year-2021)
-- Mar 31 - [Giphy is sharing your IP address and private data to 816 partners](https://twitter.com/illyism/status/1774425117117788223)
-- Mar 31 - [The Illusion of Being Stuck](https://the-simulation-strategists.beehiiv.com/p/being-stuck)
+- Mar 31 - [Show HN: Picohsm, a $5 open-source hsm](https://www.picokeys.com/pico-hsm/)
+- Mar 31 - [Show HN: Libmui is a macOS Classic widget lib for Linux](https://github.com/buserror/libmui)
+- Mar 31 - [Llamafile 0.7 Brings AVX-512 Support: 10x Faster Prompt Eval Times for AMD Zen 4](https://www.phoronix.com/news/Llamafile-0.7)
+- Mar 31 - [Kia recalls over 427K Telluride SUVs because they might roll away while parked](https://abcnews.go.com/Technology/wireStory/kia-recalls-427000-telluride-suvs-roll-parked-108695466)
+- Mar 31 - [A proposal to add signals to JavaScript](https://github.com/proposal-signals/proposal-signals)
 <!--END_SECTION:hn-->
 
 <!--
