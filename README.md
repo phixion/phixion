@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 30 - [Roll-Invert-Unroll: An easier way to replace a duvet cover](https://danverbraganza.com/writings/an-easier-way-to-replace-a-duvet-cover)
-- Mar 30 - [Git as a debugging tool](https://lucasoshiro.github.io/posts-en/2023-02-13-git-debug/)
-- Mar 30 - [Running OCR against PDFs and images directly in the browser](https://simonwillison.net/2024/Mar/30/ocr-pdfs-images/)
-- Mar 30 - [Contributing to Postgres 101: A Beginner's Experience](https://www.crunchydata.com/blog/contributing-to-postgres-101-a-beginners-experience)
-- Mar 30 - [Kolmogorov Complexity and Compression Distance](https://smunshi.net/kolmogorov-complexity-and-compression-distance.html)
+- Mar 30 - [Notes on El Salvador](https://mattlakeman.org/2024/03/30/notes-on-el-salvador/)
+- Mar 30 - [Delirium Tremens](https://en.wikipedia.org/wiki/Delirium_tremens)
+- Mar 30 - [Redox: Significant performance and correctness improvements to the kernel](https://www.redox-os.org/news/kernel-10/)
+- Mar 30 - [The Set-Up-to-Fail Syndrome (1998)](https://hbr.org/1998/03/the-set-up-to-fail-syndrome)
+- Mar 30 - [The jobs being replaced by AI – an analysis of 5M freelancing jobs](https://bloomberry.com/i-analyzed-5m-freelancing-jobs-to-see-what-jobs-are-being-replaced-by-ai/)
 <!--END_SECTION:hn-->
 
 <!--
