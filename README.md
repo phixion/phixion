@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 31 - [Meta's Onavo VPN removed SSL encryption of competitor's analytics traffic](https://www.documentcloud.org/documents/24520332-merged-fb)
-- Mar 31 - [Eternal September](https://en.wikipedia.org/wiki/Eternal_September)
-- Mar 31 - [Show HN: Ragdoll Studio (fka Arthas.AI) is the FOSS alternative to character.ai](https://ragdoll-studio.vercel.app/)
-- Mar 31 - [World Backup Day](https://www.worldbackupday.com/en)
-- Mar 31 - [How the California forest that was Endor in 'Return of the Jedi' was obliterated](https://www.sfgate.com/streaming/article/What-happened-to-Endor-from-Star-Wars-17145105.php)
+- Mar 31 - [Cognition Labs Seeks $2B Valuation](https://www.wsj.com/tech/ai/a-peter-thiel-backed-ai-startup-cognition-labs-seeks-2-billion-valuation-998fa39d)
+- Mar 31 - [Ask HN: How bad is the xz hack?](https://news.ycombinator.com/item?id=39883089)
+- Mar 31 - [How Read-Intensive is The Kernel's Use of RCU?](https://paulmck.livejournal.com/67547.html)
+- Mar 31 - [Show HN: Truncate, a word-based strategy game](https://truncate.town/)
+- Mar 31 - [Guess My RGB](https://susam.net/myrgb.html)
 <!--END_SECTION:hn-->
 
 <!--
