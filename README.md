@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 31 - [Cognition Labs Seeks $2B Valuation](https://www.wsj.com/tech/ai/a-peter-thiel-backed-ai-startup-cognition-labs-seeks-2-billion-valuation-998fa39d)
-- Mar 31 - [Ask HN: How bad is the xz hack?](https://news.ycombinator.com/item?id=39883089)
-- Mar 31 - [How Read-Intensive is The Kernel's Use of RCU?](https://paulmck.livejournal.com/67547.html)
-- Mar 31 - [Show HN: Truncate, a word-based strategy game](https://truncate.town/)
-- Mar 31 - [Guess My RGB](https://susam.net/myrgb.html)
+- Mar 31 - [Totality and non-standard recursion in Idris](https://franklin.dyer.me/post/222)
+- Mar 31 - [The end of Pepper&Carrot and my next project](https://www.davidrevoy.com/article1020/the-end-of-peppercarrot-and-my-next-project)
+- Mar 31 - [Dr. Katalin Karikó](https://www.glamour.com/story/katalin-kariko-biontech-women-of-year-2021)
+- Mar 31 - [Giphy is sharing your IP address and private data to 816 partners](https://twitter.com/illyism/status/1774425117117788223)
+- Mar 31 - [The Illusion of Being Stuck](https://the-simulation-strategists.beehiiv.com/p/being-stuck)
 <!--END_SECTION:hn-->
 
 <!--
