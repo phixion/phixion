@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 31 - [Meta's Onavo VPN removed SSL encryption of competitor's analytics traffic](https://www.documentcloud.org/documents/24520332-merged-fb)
+- Mar 31 - [Eternal September](https://en.wikipedia.org/wiki/Eternal_September)
+- Mar 31 - [Show HN: Ragdoll Studio (fka Arthas.AI) is the FOSS alternative to character.ai](https://ragdoll-studio.vercel.app/)
+- Mar 31 - [World Backup Day](https://www.worldbackupday.com/en)
 - Mar 31 - [How the California forest that was Endor in 'Return of the Jedi' was obliterated](https://www.sfgate.com/streaming/article/What-happened-to-Endor-from-Star-Wars-17145105.php)
-- Mar 31 - [A Microsoft Excel Spreadsheet from Hell Slowed Williams' F1 Cars for Years](https://www.thedrive.com/news/how-a-microsoft-excel-spreadsheet-from-hell-slowed-williams-f1-cars-for-years)
-- Mar 31 - [Nvidia Is Simulating a Copy of the Earth](https://futurism.com/the-byte/nvidia-simulating-copy-earth)
-- Mar 30 - [Notes on El Salvador](https://mattlakeman.org/2024/03/30/notes-on-el-salvador/)
-- Mar 30 - [Significant performance and correctness improvements to the kernel](https://www.redox-os.org/news/kernel-10/)
 <!--END_SECTION:hn-->
 
 <!--
