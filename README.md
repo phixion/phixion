@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 01 - [First-in-human implantation of bionic device to halt Crohn's disease](https://florey.edu.au/news/2023/12/first-in-human-implantation-of-bionic-device-to-halt-crohns-disease/)
+- Apr 01 - [Hosting a Public Website on MS-DOS](https://fsturmat.net/blog/04202022/)
+- Apr 01 - [U.S. dairy cows have tested positive for bird flu](https://text.npr.org/1241897770)
+- Apr 01 - [The failed attempt to backdoor SSH globally – that got caught by chance](https://doublepulsar.com/inside-the-failed-attempt-to-backdoor-ssh-globally-that-got-caught-by-chance-bbfe628fafdd)
 - Apr 01 - [Climate Pulse](https://pulse.climate.copernicus.eu/)
-- Apr 01 - [Killing the Messenger: My Final Days Working at a Disaster](https://nymag.com/intelligencer/2024/02/killing-the-messenger-my-final-days-working-at-a-disaster.html)
-- Apr 01 - [LLaMA Now Goes Faster on CPUs](https://justine.lol/matmul/)
-- Apr 01 - [LLM Paper on Mamba MoE: Jamba Technical Report from AI2](https://arxiv.org/abs/2403.19887)
-- Apr 01 - [Materialious – A Modern Interface for Invidious](https://github.com/WardPearce/Materialious)
 <!--END_SECTION:hn-->
 
 <!--
