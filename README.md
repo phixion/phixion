@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 31 - [America is divided over major efforts to rewrite child labor laws](https://www.washingtonpost.com/business/2024/03/31/us-child-labor-laws-state-bills/)
-- Mar 31 - [XZ Backdoor: Times, damned times, and scams](https://rheaeve.substack.com/p/xz-backdoor-times-damned-times-and)
-- Mar 31 - [Free shipping isn’t really free (2020)](https://www.theatlantic.com/magazine/archive/2020/01/the-myth-of-free-shipping/603031/)
-- Mar 31 - [Modern Git Commands and Features You Should Be Using](https://martinheinz.dev/blog/109)
-- Mar 31 - [Adaptive RAG – dynamic retrieval methods adjustment](https://arxiv.org/abs/2403.14403)
+- Apr 01 - [Climate Pulse](https://pulse.climate.copernicus.eu/)
+- Apr 01 - [Killing the Messenger: My Final Days Working at a Disaster](https://nymag.com/intelligencer/2024/02/killing-the-messenger-my-final-days-working-at-a-disaster.html)
+- Apr 01 - [LLaMA Now Goes Faster on CPUs](https://justine.lol/matmul/)
+- Apr 01 - [LLM Paper on Mamba MoE: Jamba Technical Report from AI2](https://arxiv.org/abs/2403.19887)
+- Apr 01 - [Materialious – A Modern Interface for Invidious](https://github.com/WardPearce/Materialious)
 <!--END_SECTION:hn-->
 
 <!--
