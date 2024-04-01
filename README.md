@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 01 - [Error Handling in Baby Toys](https://brainbaking.com/post/2024/04/error-handling-in-baby-toys/)
-- Apr 01 - [What Caused the Red Sea Submarine Cable Cuts?](https://www.kentik.com/blog/what-caused-the-red-sea-submarine-cable-cuts/)
-- Apr 01 - [The Tale of Daniel](https://www.hillelwayne.com/post/tale-of-daniel/)
-- Apr 01 - [Cancer signs could be spotted years before symptoms, says new research institute](https://www.theguardian.com/science/2024/mar/31/cancer-signs-could-be-spotted-years-before-symptoms-says-new-research-institute)
-- Apr 01 - [Postgres vs. File Systems: A Performance Comparison (2022)](https://www.enterprisedb.com/blog/postgres-vs-file-systems-performance-comparison)
+- Apr 01 - ['Vaccine lettuce' bill (food containing a vaccine is a drug) passes in Tennessee](https://www.wsmv.com/2024/03/29/vaccine-lettuce-bill-aiming-classify-food-containing-vaccine-drug-passes-tennessee/)
+- Apr 01 - [A biased test kept Black people from getting a kidney transplant](https://apnews.com/article/kidney-transplant-race-black-inequity-bias-d4fabf2f3a47aab2fe8e18b2a5432135)
+- Apr 01 - [Book Review: "Tidy First?" By Kent Beck](https://www.pathsensitive.com/2024/04/book-review-tidy-first.html)
+- Apr 01 - [Has Trust in the U.S. Intelligence Community Eroded?](https://www.rand.org/pubs/research_reports/RRA864-1.html)
+- Apr 01 - [Show HN: Exponentile – A match 3 game mixed with 2048](https://www.bellika.dk/exponentile)
 <!--END_SECTION:hn-->
 
 <!--
