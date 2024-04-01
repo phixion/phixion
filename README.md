@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Apr 01 - [Pandabuy - 1,348,407 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Pandabuy)
 - Mar 31 - [Washington State Food Worker Card - 1,594,305 breached accounts](https://haveibeenpwned.com/PwnedWebsites#WashingtonStateFoodWorkerCard)
 - Mar 29 - [England Cricket - 43,299 breached accounts](https://haveibeenpwned.com/PwnedWebsites#ECB)
 - Mar 28 - [Exvagos - 2,121,789 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Exvagos)
 - Mar 27 - [GSM Hosting - 2,607,440 breached accounts](https://haveibeenpwned.com/PwnedWebsites#GSMHosting)
-- Mar 26 - [SwordFantasy - 2,690,657 breached accounts](https://haveibeenpwned.com/PwnedWebsites#SwordFantasy)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 01 - [First-in-human implantation of bionic device to halt Crohn's disease](https://florey.edu.au/news/2023/12/first-in-human-implantation-of-bionic-device-to-halt-crohns-disease/)
-- Apr 01 - [Hosting a Public Website on MS-DOS](https://fsturmat.net/blog/04202022/)
-- Apr 01 - [U.S. dairy cows have tested positive for bird flu](https://text.npr.org/1241897770)
-- Apr 01 - [The failed attempt to backdoor SSH globally – that got caught by chance](https://doublepulsar.com/inside-the-failed-attempt-to-backdoor-ssh-globally-that-got-caught-by-chance-bbfe628fafdd)
-- Apr 01 - [Climate Pulse](https://pulse.climate.copernicus.eu/)
+- Apr 01 - [Would you use a government-issued ID to prove your identity online?](https://www.abc.net.au/news/2024-04-01/government-backed-digital-id-passes-senate/103653648)
+- Apr 01 - [Century-Old Stone "Tsunami Stones" Dot Japan's Coastline](https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/)
+- Apr 01 - [Headline Driven Development](https://www.spakhm.com/headline-development)
+- Apr 01 - [Not so fast, Mr. Fourier](https://lcamtuf.substack.com/p/not-so-fast-mr-fourier)
+- Apr 01 - [Will Any Crap We Put into Graphene Increase Its Electrocatalytic Effect? (2020)](https://pubs.acs.org/doi/pdf/10.1021/acsnano.9b00184)
 <!--END_SECTION:hn-->
 
 <!--
