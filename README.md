@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 31 - [Show HN: Picohsm, a $5 open-source hsm](https://www.picokeys.com/pico-hsm/)
-- Mar 31 - [Show HN: Libmui is a macOS Classic widget lib for Linux](https://github.com/buserror/libmui)
-- Mar 31 - [Llamafile 0.7 Brings AVX-512 Support: 10x Faster Prompt Eval Times for AMD Zen 4](https://www.phoronix.com/news/Llamafile-0.7)
-- Mar 31 - [Kia recalls over 427K Telluride SUVs because they might roll away while parked](https://abcnews.go.com/Technology/wireStory/kia-recalls-427000-telluride-suvs-roll-parked-108695466)
-- Mar 31 - [A proposal to add signals to JavaScript](https://github.com/proposal-signals/proposal-signals)
+- Mar 31 - [America is divided over major efforts to rewrite child labor laws](https://www.washingtonpost.com/business/2024/03/31/us-child-labor-laws-state-bills/)
+- Mar 31 - [XZ Backdoor: Times, damned times, and scams](https://rheaeve.substack.com/p/xz-backdoor-times-damned-times-and)
+- Mar 31 - [Free shipping isn’t really free (2020)](https://www.theatlantic.com/magazine/archive/2020/01/the-myth-of-free-shipping/603031/)
+- Mar 31 - [Modern Git Commands and Features You Should Be Using](https://martinheinz.dev/blog/109)
+- Mar 31 - [Adaptive RAG – dynamic retrieval methods adjustment](https://arxiv.org/abs/2403.14403)
 <!--END_SECTION:hn-->
 
 <!--
