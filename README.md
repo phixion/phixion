@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 02 - [Microchess for the Kim-1 (2006)](http://www.benlo.com/microchess/index.html)
-- Apr 02 - [Myscaledb: Open-source SQL vector database to build AI apps using SQL](https://github.com/myscale/myscaledb)
-- Apr 02 - [Low Cost Robot Arm](https://github.com/AlexanderKoch-Koch/low_cost_robot)
-- Apr 02 - [Lumos: Learning Agents with Unified Data, Modular Design, and Open-Source LLMs](https://allenai.github.io/lumos/)
-- Apr 02 - [Banning open weight models would be a disaster](https://rbren.substack.com/p/banning-open-weight-models-would)
+- Apr 02 - [Emerge (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
+- Apr 02 - [Ask HN: Is AngelList Legit?](https://news.ycombinator.com/item?id=39903773)
+- Apr 02 - [Debian Git Monorepo](https://blog.liw.fi/posts/2024/monorepo/)
+- Apr 02 - [Show HN: OneUptime – open-source Datadog Alternative](https://github.com/OneUptime/oneuptime)
+- Apr 02 - [KraftCloud](https://github.com/unikraft/unikraft)
 <!--END_SECTION:hn-->
 
 <!--
