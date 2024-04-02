@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 01 - ['Vaccine lettuce' bill (food containing a vaccine is a drug) passes in Tennessee](https://www.wsmv.com/2024/03/29/vaccine-lettuce-bill-aiming-classify-food-containing-vaccine-drug-passes-tennessee/)
-- Apr 01 - [A biased test kept Black people from getting a kidney transplant](https://apnews.com/article/kidney-transplant-race-black-inequity-bias-d4fabf2f3a47aab2fe8e18b2a5432135)
-- Apr 01 - [Book Review: "Tidy First?" By Kent Beck](https://www.pathsensitive.com/2024/04/book-review-tidy-first.html)
-- Apr 01 - [Has Trust in the U.S. Intelligence Community Eroded?](https://www.rand.org/pubs/research_reports/RRA864-1.html)
-- Apr 01 - [Show HN: Exponentile – A match 3 game mixed with 2048](https://www.bellika.dk/exponentile)
+- Apr 01 - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- Apr 01 - [OWASP Data Breach Notification](https://owasp.org/blog/2024/03/29/OWASP-data-breach-notification)
+- Apr 01 - [Google to delete records from Incognito tracking](https://www.bbc.com/news/business-68709119)
+- Apr 01 - [What even is a JSON number?](https://blog.trl.sn/blog/what-is-a-json-number/)
+- Apr 01 - [But what is a GPT?  Visual intro to Transformers [video]](https://www.youtube.com/watch?v=wjZofJX0v4M)
 <!--END_SECTION:hn-->
 
 <!--
