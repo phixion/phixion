@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 01 - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-- Apr 01 - [OWASP Data Breach Notification](https://owasp.org/blog/2024/03/29/OWASP-data-breach-notification)
-- Apr 01 - [Google to delete records from Incognito tracking](https://www.bbc.com/news/business-68709119)
-- Apr 01 - [What even is a JSON number?](https://blog.trl.sn/blog/what-is-a-json-number/)
-- Apr 01 - [But what is a GPT?  Visual intro to Transformers [video]](https://www.youtube.com/watch?v=wjZofJX0v4M)
+- Apr 02 - [Banning Open Weight Models Would Be a Disaster](https://rbren.substack.com/p/banning-open-weight-models-would)
+- Apr 02 - [Building GCC 1.27 (first GCC with x86 support) (2019)](http://kristerw.blogspot.com/2019/01/building-gcc-127.html)
+- Apr 02 - [A16Z blogs are just glorified marketing](https://frankzliu.com/blog/a16z-blogs-are-just-glorified-marketing)
+- Apr 01 - [Get a person at the IRS](https://gist.github.com/getaaron/323466af3f489f0e5c55411c930d43a2)
+- Apr 01 - [WireGuard client that exposes itself as a HTTP/SOCKS5 proxy](https://github.com/pufferffish/wireproxy)
 <!--END_SECTION:hn-->
 
 <!--
