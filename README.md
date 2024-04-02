@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 02 - [Banning Open Weight Models Would Be a Disaster](https://rbren.substack.com/p/banning-open-weight-models-would)
-- Apr 02 - [Building GCC 1.27 (first GCC with x86 support) (2019)](http://kristerw.blogspot.com/2019/01/building-gcc-127.html)
-- Apr 02 - [A16Z blogs are just glorified marketing](https://frankzliu.com/blog/a16z-blogs-are-just-glorified-marketing)
-- Apr 01 - [Get a person at the IRS](https://gist.github.com/getaaron/323466af3f489f0e5c55411c930d43a2)
-- Apr 01 - [WireGuard client that exposes itself as a HTTP/SOCKS5 proxy](https://github.com/pufferffish/wireproxy)
+- Apr 02 - [Microchess for the Kim-1 (2006)](http://www.benlo.com/microchess/index.html)
+- Apr 02 - [Myscaledb: Open-source SQL vector database to build AI apps using SQL](https://github.com/myscale/myscaledb)
+- Apr 02 - [Low Cost Robot Arm](https://github.com/AlexanderKoch-Koch/low_cost_robot)
+- Apr 02 - [Lumos: Learning Agents with Unified Data, Modular Design, and Open-Source LLMs](https://allenai.github.io/lumos/)
+- Apr 02 - [Banning open weight models would be a disaster](https://rbren.substack.com/p/banning-open-weight-models-would)
 <!--END_SECTION:hn-->
 
 <!--
