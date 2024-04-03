@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 03 - [Is it safe to use __SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED?](https://github.com/reactjs/react.dev/issues/3896)
-- Apr 03 - [Why will my device lose access to Libby & OverDrive April 15, 2024?](https://help.overdrive.com/en-us/2271.htm)
+- Apr 03 - [Octopus v2: On-device language model for super agent](https://arxiv.org/abs/2404.01744)
+- Apr 03 - [The Rise and Fall of 3M's Floppy Disk](https://spectrum.ieee.org/3m-floppy)
 - Apr 03 - [Intel discloses $7B operating loss for chip-making unit](https://www.reuters.com/technology/intel-discloses-financials-foundry-business-2024-04-02/)
-- Apr 03 - [The Threat of Discontinued Software (2021)](https://almy.us/softwaredeath.html)
+- Apr 03 - [Feds decide to do something about years-old SS7 spy holes phone networks](https://www.theregister.com/2024/04/02/fcc_ss7_security/)
 - Apr 03 - [7.4 earthquake in Taiwan, 34km depth](https://earthquake.usgs.gov/earthquakes/map/?extent=16.34123,-246.42334&extent=28.51697,-223.43994)
 <!--END_SECTION:hn-->
 
