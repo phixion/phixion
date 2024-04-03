@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 03 - [Long-term nuclear waste warning messages](https://en.wikipedia.org/wiki/Long-term_nuclear_waste_warning_messages)
-- Apr 03 - [Every Dunder Method in Python](https://www.pythonmorsels.com/every-dunder-method/)
-- Apr 03 - [PyTorch Library for Running LLM on Intel CPU and GPU](https://github.com/intel-analytics/ipex-llm)
-- Apr 03 - [Redict 7.3.0, a copyleft fork of Redis, is now available](https://redict.io/posts/2024-04-03-redict-7.3.0-released/)
-- Apr 03 - [Reflections on Distrusting xz](https://joeyh.name/blog/entry/reflections_on_distrusting_xz/)
+- Apr 03 - ['Lavender': The AI machine directing Israel's bombing spree in Gaza](https://web.archive.org/web/20240403151726/https://www.972mag.com/lavender-ai-israeli-army-gaza/)
+- Apr 03 - [Fisker's Ocean SUV investigated for doors that won't open](https://techcrunch.com/2024/04/03/fisker-ocean-suv-federal-investigation-safety-doors/)
+- Apr 03 - [GCC 14 Boasts Nice ASCII Art for Visualizing Buffer Overflows](https://www.phoronix.com/news/GCC-14-fanalyzer-Enhancements)
+- Apr 03 - [Truemetrics (YC S23) Hiring a Back End Engineer](https://www.ycombinator.com/companies/truemetrics/jobs/rZNg2Ai-backend-engineer-with-strong-python-and-aws-skills)
+- Apr 03 - ['Mini liver' will grow in person's own lymph node in bold new trial](https://www.nature.com/articles/d41586-024-00975-z)
 <!--END_SECTION:hn-->
 
 <!--
