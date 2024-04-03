@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 02 - [Starbucks is raising prices almost every month now](https://old.reddit.com/r/starbucks/comments/1bta4eh/starbucks_raising_price_almost_every_month_now/)
-- Apr 02 - [Raising the minimum wage? Study using US tax data finds more gain than pain](https://phys.org/news/2024-04-minimum-wage-tax-gain-pain.html)
-- Apr 02 - [Show HN: Generate admin apps without writing a single line of code](https://github.com/dashpresshq/dashpress)
-- Apr 02 - [Show HN: A Product Hunt Alternative for Indie Makers](https://www.indiehunting.com/)
-- Apr 02 - [Discovering Devin, Devika, and OpenDevin](https://news.opensauced.pizza/open-source-projects-that-are-gaining-steam-that-you-havent-heard-of/)
+- Apr 03 - [Is it safe to use __SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED?](https://github.com/reactjs/react.dev/issues/3896)
+- Apr 03 - [Why will my device lose access to Libby & OverDrive April 15, 2024?](https://help.overdrive.com/en-us/2271.htm)
+- Apr 03 - [Intel discloses $7B operating loss for chip-making unit](https://www.reuters.com/technology/intel-discloses-financials-foundry-business-2024-04-02/)
+- Apr 03 - [The Threat of Discontinued Software (2021)](https://almy.us/softwaredeath.html)
+- Apr 03 - [7.4 earthquake in Taiwan, 34km depth](https://earthquake.usgs.gov/earthquakes/map/?extent=16.34123,-246.42334&extent=28.51697,-223.43994)
 <!--END_SECTION:hn-->
 
 <!--
