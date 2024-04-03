@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 03 - [Octopus v2: On-device language model for super agent](https://arxiv.org/abs/2404.01744)
-- Apr 03 - [The Rise and Fall of 3M's Floppy Disk](https://spectrum.ieee.org/3m-floppy)
-- Apr 03 - [Intel discloses $7B operating loss for chip-making unit](https://www.reuters.com/technology/intel-discloses-financials-foundry-business-2024-04-02/)
-- Apr 03 - [Feds decide to do something about years-old SS7 spy holes phone networks](https://www.theregister.com/2024/04/02/fcc_ss7_security/)
-- Apr 03 - [7.4 earthquake in Taiwan, 34km depth](https://earthquake.usgs.gov/earthquakes/map/?extent=16.34123,-246.42334&extent=28.51697,-223.43994)
+- Apr 03 - [Long-term nuclear waste warning messages](https://en.wikipedia.org/wiki/Long-term_nuclear_waste_warning_messages)
+- Apr 03 - [Every Dunder Method in Python](https://www.pythonmorsels.com/every-dunder-method/)
+- Apr 03 - [PyTorch Library for Running LLM on Intel CPU and GPU](https://github.com/intel-analytics/ipex-llm)
+- Apr 03 - [Redict 7.3.0, a copyleft fork of Redis, is now available](https://redict.io/posts/2024-04-03-redict-7.3.0-released/)
+- Apr 03 - [Reflections on Distrusting xz](https://joeyh.name/blog/entry/reflections_on_distrusting_xz/)
 <!--END_SECTION:hn-->
 
 <!--
