@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 03 - ['Lavender': The AI machine directing Israel's bombing spree in Gaza](https://web.archive.org/web/20240403151726/https://www.972mag.com/lavender-ai-israeli-army-gaza/)
-- Apr 03 - [Fisker's Ocean SUV investigated for doors that won't open](https://techcrunch.com/2024/04/03/fisker-ocean-suv-federal-investigation-safety-doors/)
-- Apr 03 - [GCC 14 Boasts Nice ASCII Art for Visualizing Buffer Overflows](https://www.phoronix.com/news/GCC-14-fanalyzer-Enhancements)
-- Apr 03 - [Truemetrics (YC S23) Hiring a Back End Engineer](https://www.ycombinator.com/companies/truemetrics/jobs/rZNg2Ai-backend-engineer-with-strong-python-and-aws-skills)
-- Apr 03 - ['Mini liver' will grow in person's own lymph node in bold new trial](https://www.nature.com/articles/d41586-024-00975-z)
+- Apr 03 - [Terraform makes carbon neutral natural gas](https://terraformindustries.wordpress.com/2024/04/01/terraform-makes-carbon-neutral-natural-gas/)
+- Apr 03 - [Is Economic Deprivation the Real Cause of the Adolescent Mental Health Crisis?](https://www.afterbabel.com/p/financial-crisis)
+- Apr 03 - [WhatsApp Outage](https://downdetector.in/status/whatsapp/)
+- Apr 03 - [JPMorgan to sell customer transaction data to advertisers](https://media.chase.com/news/chase-launches-chase-media-solutions)
+- Apr 03 - [John Barth, writer who pushed storytelling limits, dies at 93](https://www.nytimes.com/2024/04/02/books/john-barth-dead.html)
 <!--END_SECTION:hn-->
 
 <!--
