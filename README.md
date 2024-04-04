@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 04 - [AMD Unveils Their Embedded+ Architecture, Ryzen Embedded with Versal Together](https://www.anandtech.com/show/21254/amd-unveils-their-embedded-architecture-ryzen-embedded-with-versal-together)
-- Apr 04 - [Radxa's SATA HAT makes compact Pi 5 NAS](https://www.jeffgeerling.com/blog/2024/radxas-sata-hat-makes-compact-pi-5-nas)
-- Apr 04 - [PFAS Used in Grease-Proofing Agents for Food Packaging No Longer Sold](https://www.fda.gov/food/cfsan-constituent-updates/fda-announces-pfas-used-grease-proofing-agents-food-packaging-no-longer-being-sold-us)
-- Apr 04 - [The Great American Rail-Trail](https://www.railstotrails.org/site/greatamericanrailtrail/content/route/)
-- Apr 04 - [Are we running out of clean air?](https://news.ycombinator.com/item?id=39930866)
+- Apr 04 - [Language Models as Compilers](https://arxiv.org/abs/2404.02575)
+- Apr 04 - [Develop in Swift Tutorials](https://developer.apple.com/tutorials/develop-in-swift)
+- Apr 04 - [Understanding and managing the impact of machine learning models on the web](https://www.w3.org/reports/ai-web-impact/)
+- Apr 04 - [Ask HN: Most efficient way to fine-tune an LLM in 2024?](https://news.ycombinator.com/item?id=39934480)
+- Apr 04 - [Containers and Unikernels: Similar, different, and intertwined](https://unikraft.io/blog/containers-and-unikernels/)
 <!--END_SECTION:hn-->
 
 <!--
