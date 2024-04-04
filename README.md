@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 03 - [Henry Darger](https://www.moma.org/artists/28600)
+- Apr 03 - [Show HN: I've built a locally running Perplexity clone](https://github.com/nilsherzig/LLocalSearch)
+- Apr 03 - [Logik: Open-source FPGA toolchain by Zero ASIC](https://github.com/zeroasiccorp/logik)
 - Apr 03 - [Terraform makes carbon neutral natural gas](https://terraformindustries.wordpress.com/2024/04/01/terraform-makes-carbon-neutral-natural-gas/)
-- Apr 03 - [Is Economic Deprivation the Real Cause of the Adolescent Mental Health Crisis?](https://www.afterbabel.com/p/financial-crisis)
-- Apr 03 - [WhatsApp Outage](https://downdetector.in/status/whatsapp/)
-- Apr 03 - [JPMorgan to sell customer transaction data to advertisers](https://media.chase.com/news/chase-launches-chase-media-solutions)
-- Apr 03 - [John Barth, writer who pushed storytelling limits, dies at 93](https://www.nytimes.com/2024/04/02/books/john-barth-dead.html)
+- Apr 03 - [MOnSter 6502: a working transistor-scale replica of the classic MOS 6502](https://monster6502.com/)
 <!--END_SECTION:hn-->
 
 <!--
