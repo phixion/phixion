@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 04 - [Hertz's Bet on Teslas Went Horribly Sideways](https://www.bloomberg.com/news/features/2024-04-03/hertz-htz-selling-electric-cars-ends-its-failed-tesla-bet)
-- Apr 04 - [Ukraine's New Factory-Smashing Drone Is a $90k Sport Plane with a Robot At](https://www.forbes.com/sites/davidaxe/2024/04/03/ukraines-new-factory-smashing-drone-is-a-90000-sport-plane-with-a-robot-at-the-controls/)
-- Apr 04 - [Anatomy of a credit card rewards program](https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/)
-- Apr 04 - [Kobold letters: Why HTML emails are a risk to your organization](https://lutrasecurity.com/en/articles/kobold-letters/)
-- Apr 04 - [German state moving 30k PCs to LibreOffice](https://blog.documentfoundation.org/blog/2024/04/04/german-state-moving-30000-pcs-to-libreoffice/)
+- Apr 04 - [AMD Unveils Their Embedded+ Architecture, Ryzen Embedded with Versal Together](https://www.anandtech.com/show/21254/amd-unveils-their-embedded-architecture-ryzen-embedded-with-versal-together)
+- Apr 04 - [Radxa's SATA HAT makes compact Pi 5 NAS](https://www.jeffgeerling.com/blog/2024/radxas-sata-hat-makes-compact-pi-5-nas)
+- Apr 04 - [PFAS Used in Grease-Proofing Agents for Food Packaging No Longer Sold](https://www.fda.gov/food/cfsan-constituent-updates/fda-announces-pfas-used-grease-proofing-agents-food-packaging-no-longer-being-sold-us)
+- Apr 04 - [The Great American Rail-Trail](https://www.railstotrails.org/site/greatamericanrailtrail/content/route/)
+- Apr 04 - [Are we running out of clean air?](https://news.ycombinator.com/item?id=39930866)
 <!--END_SECTION:hn-->
 
 <!--
