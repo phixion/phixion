@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 04 - [The App Store Was Down, Along with Apple TV, Apple Podcasts, and Apple Music](https://www.theverge.com/2024/4/3/24120519/apple-app-store-apple-tv-apple-music-outage)
+- Apr 04 - [How to take down production with a single Helm command](https://ounapuu.ee/posts/2024/04/04/helm-rollbljat/)
+- Apr 04 - [Sei (YC W22) Is Hiring Principal Engineers (On-Site, India)](https://www.ycombinator.com/companies/sei/jobs/EjEA2P9-lead-principal-software-engineer)
 - Apr 04 - [Online Encyclopedia of Integer Sequences](https://oeis.org/)
-- Apr 04 - [Ask HN: Has Anyone Trained a personal LLM using their personal notes?](https://news.ycombinator.com/item?id=39925316)
+- Apr 04 - [Show HN: Logfmtxx – Header only C++23 structured logging library using logfmt](https://github.com/linkdd/logfmtxx)
 - Apr 04 - [A disk so full, it couldn't be restored](https://sixcolors.com/post/2024/03/a-disk-so-full-it-couldnt-be-restored/)
-- Apr 03 - [Henry Darger](https://www.moma.org/artists/28600)
 <!--END_SECTION:hn-->
 
 <!--
