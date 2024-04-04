@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 04 - [How to take down production with a single Helm command](https://ounapuu.ee/posts/2024/04/04/helm-rollbljat/)
-- Apr 04 - [Sei (YC W22) Is Hiring Principal Engineers (On-Site, India)](https://www.ycombinator.com/companies/sei/jobs/EjEA2P9-lead-principal-software-engineer)
-- Apr 04 - [Online Encyclopedia of Integer Sequences](https://oeis.org/)
-- Apr 04 - [Show HN: Logfmtxx – Header only C++23 structured logging library using logfmt](https://github.com/linkdd/logfmtxx)
-- Apr 04 - [A disk so full, it couldn't be restored](https://sixcolors.com/post/2024/03/a-disk-so-full-it-couldnt-be-restored/)
+- Apr 04 - [Hertz's Bet on Teslas Went Horribly Sideways](https://www.bloomberg.com/news/features/2024-04-03/hertz-htz-selling-electric-cars-ends-its-failed-tesla-bet)
+- Apr 04 - [Ukraine's New Factory-Smashing Drone Is a $90k Sport Plane with a Robot At](https://www.forbes.com/sites/davidaxe/2024/04/03/ukraines-new-factory-smashing-drone-is-a-90000-sport-plane-with-a-robot-at-the-controls/)
+- Apr 04 - [Anatomy of a credit card rewards program](https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/)
+- Apr 04 - [Kobold letters: Why HTML emails are a risk to your organization](https://lutrasecurity.com/en/articles/kobold-letters/)
+- Apr 04 - [German state moving 30k PCs to LibreOffice](https://blog.documentfoundation.org/blog/2024/04/04/german-state-moving-30000-pcs-to-libreoffice/)
 <!--END_SECTION:hn-->
 
 <!--
