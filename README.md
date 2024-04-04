@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 04 - [The App Store Was Down, Along with Apple TV, Apple Podcasts, and Apple Music](https://www.theverge.com/2024/4/3/24120519/apple-app-store-apple-tv-apple-music-outage)
+- Apr 04 - [Online Encyclopedia of Integer Sequences](https://oeis.org/)
+- Apr 04 - [Ask HN: Has Anyone Trained a personal LLM using their personal notes?](https://news.ycombinator.com/item?id=39925316)
+- Apr 04 - [A disk so full, it couldn't be restored](https://sixcolors.com/post/2024/03/a-disk-so-full-it-couldnt-be-restored/)
 - Apr 03 - [Henry Darger](https://www.moma.org/artists/28600)
-- Apr 03 - [Show HN: I've built a locally running Perplexity clone](https://github.com/nilsherzig/LLocalSearch)
-- Apr 03 - [Logik: Open-source FPGA toolchain by Zero ASIC](https://github.com/zeroasiccorp/logik)
-- Apr 03 - [Terraform makes carbon neutral natural gas](https://terraformindustries.wordpress.com/2024/04/01/terraform-makes-carbon-neutral-natural-gas/)
-- Apr 03 - [MOnSter 6502: a working transistor-scale replica of the classic MOS 6502](https://monster6502.com/)
 <!--END_SECTION:hn-->
 
 <!--
