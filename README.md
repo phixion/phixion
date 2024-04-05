@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 05 - [Former University of Iowa Hospital employee used fake identity for 35 years](https://www.thegazette.com/crime-courts/former-university-of-iowa-hospital-employee-used-fake-identity-for-35-years/)
-- Apr 05 - [Prostate cancer cases worldwide likely to double by 2040, analysis finds](https://www.theguardian.com/society/2024/apr/04/prostate-cancer-cases-worldwide-diagnoses-deaths-2040-study)
-- Apr 05 - [C++ Coroutines Do Not Spark Joy](https://probablydance.com/2021/10/31/c-coroutines-do-not-spark-joy/)
-- Apr 05 - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Systems Engineer](https://news.ycombinator.com/item?id=39937666)
-- Apr 05 - [Big Tech Is Trying to Prevent Debate About Its Social Harms](https://foreignpolicy.com/2024/04/04/big-tech-digital-trade-regulation/)
+- Apr 05 - [Why Today's Software Sucks?](https://laurentiu-raducu.medium.com/why-todays-software-sucks-42dc8562428c)
+- Apr 05 - [Alcohol Use and Mortality Among Couples in US: Individual and Partner Effects](https://academic.oup.com/gerontologist/article-abstract/64/2/gnad101/7230161)
+- Apr 05 - [FFmpeg 7.0 Released](https://ffmpeg.org//index.html#pr7.0)
+- Apr 05 - [She slept with a violin on her pillow](https://www.nytimes.com/2024/04/04/arts/violin-italy-antonio-stradivari-ayoung-an.html)
+- Apr 05 - [A Japanese hikikomori released a game after 6 years of development [video]](https://www.youtube.com/watch?v=LJBv_hvvbBg)
 <!--END_SECTION:hn-->
 
 <!--
