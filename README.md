@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 05 - [Qwen1.5-32B: Fitting the Capstone of the Qwen1.5 Language Model Series](https://qwenlm.github.io/blog/qwen1.5-32b/)
-- Apr 05 - [Excellent succinct breakdown of the xz mess, from an OpenBSD developer](https://marc.info/?l=openbsd-misc&m=171227941117852&w=2)
-- Apr 05 - [M 4.7 Earthquake 7 km N of Whitehouse Station, New Jersey – USGS](https://earthquake.usgs.gov/earthquakes/eventpage/at00sbh3yv/executive)
-- Apr 05 - [So you wanna de-bog yourself](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself)
-- Apr 05 - [Big Tech's underground race to buy AI training data](https://www.reuters.com/technology/inside-big-techs-underground-race-buy-ai-training-data-2024-04-05/)
+- Apr 05 - [Breakthrough drug trial saw cancer vanish in every patient](https://www.euronews.com/health/2022/06/07/this-breakthrough-drug-trial-saw-cancer-vanish-in-every-patient)
+- Apr 05 - [For twenty years, PostSecret has broadcast suburban America’s hidden truths](https://hazlitt.net/longreads/dark-matter)
+- Apr 05 - [Should employers pay for employees' phones if 2FA apps are required?](https://news.ycombinator.com/item?id=39945375)
+- Apr 05 - [Themes from (and Beyond) Altitude Cyber's 2023 Cybersecurity Year in Review](https://strategyofsecurity.com/themes-from-and-beyond-altitude-cybers-2023-cybersecurity-year-in-review/)
+- Apr 05 - [BeeTrove – OpenAI GPTs Open-Source Dataset](https://beetrove.com/)
 <!--END_SECTION:hn-->
 
 <!--
