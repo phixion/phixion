@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 04 - [Language Models as Compilers](https://arxiv.org/abs/2404.02575)
-- Apr 04 - [Develop in Swift Tutorials](https://developer.apple.com/tutorials/develop-in-swift)
-- Apr 04 - [Understanding and managing the impact of machine learning models on the web](https://www.w3.org/reports/ai-web-impact/)
-- Apr 04 - [Ask HN: Most efficient way to fine-tune an LLM in 2024?](https://news.ycombinator.com/item?id=39934480)
-- Apr 04 - [Containers and Unikernels: Similar, different, and intertwined](https://unikraft.io/blog/containers-and-unikernels/)
+- Apr 04 - [Executives Get Rich Making Poor Decisions – Cold Take [video]](https://www.youtube.com/watch?v=vuIitYcoSiE)
+- Apr 04 - [German state ditches Microsoft for Linux and LibreOffice](https://www.zdnet.com/article/german-state-ditches-microsoft-for-linux-and-libreoffice/)
+- Apr 04 - [Mario meets Pareto: multi-objective optimization of Mario Kart builds](https://www.mayerowitz.io/blog/mario-meets-pareto)
+- Apr 04 - [Reclaim Protocol (YC W21) Is Hiring BDRs](https://www.workatastartup.com/jobs/65710)
+- Apr 04 - [Language models as compilers: Simulating pseudocode execution](https://arxiv.org/abs/2404.02575)
 <!--END_SECTION:hn-->
 
 <!--
