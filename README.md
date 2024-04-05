@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 05 - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
-- Apr 05 - [Almost no one cares if your site is not on social media](https://notes.ghed.in/posts/2024/no-one-cares-site-on-social-media/)
-- Apr 05 - [Infrastructure as Code Is Not the Answer – By Luke Shaughnessy](https://lukeshaughnessy.medium.com/infrastructure-as-code-is-not-the-answer-cfaf4882dcba)
-- Apr 05 - [Ask HN: I want to put free WiFi in schools in my city, how do I go about it?](https://news.ycombinator.com/item?id=39940541)
-- Apr 05 - [Why Don't I Like Git More?](https://matduggan.com/why-dont-i-like-git-more/)
+- Apr 05 - [Qwen1.5-32B: Fitting the Capstone of the Qwen1.5 Language Model Series](https://qwenlm.github.io/blog/qwen1.5-32b/)
+- Apr 05 - [Excellent succinct breakdown of the xz mess, from an OpenBSD developer](https://marc.info/?l=openbsd-misc&m=171227941117852&w=2)
+- Apr 05 - [M 4.7 Earthquake 7 km N of Whitehouse Station, New Jersey – USGS](https://earthquake.usgs.gov/earthquakes/eventpage/at00sbh3yv/executive)
+- Apr 05 - [So you wanna de-bog yourself](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself)
+- Apr 05 - [Big Tech's underground race to buy AI training data](https://www.reuters.com/technology/inside-big-techs-underground-race-buy-ai-training-data-2024-04-05/)
 <!--END_SECTION:hn-->
 
 <!--
