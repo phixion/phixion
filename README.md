@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 06 - [Microsoft blocks even more customization apps in Windows 11 version 24H2](https://www.neowin.net/news/microsoft-blocks-even-more-customization-apps-in-windows-11-version-24h2/)
+- Apr 06 - [The 37signals Guide to Internal Communication](https://37signals.com/how-we-communicate)
+- Apr 06 - [What I think about when I edit (2019)](https://evaparish.com/blog/how-i-edit)
+- Apr 06 - [A History of Source Control Systems: SCCS and RCS](https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/)
+- Apr 06 - [Ownership in Rust](https://smallcultfollowing.com/babysteps/blog/2024/04/05/ownership-in-rust)
 - Apr 06 - [The "Eisenhower matrix" productivity hack](https://bigthink.com/the-learning-curve/why-the-eisenhower-matrix-is-a-fantastic-productivity-hack/)
-- Apr 06 - [NASA knows what knocked Voyager 1 offline, but it will take a while to fix](https://arstechnica.com/space/2024/04/the-diagnosis-is-in-bad-memory-knocked-nasas-aging-voyager-1-offline/)
-- Apr 06 - [Twenty years maintaining the WiX Toolset](https://robmensching.com/blog/posts/2024/04/05/twenty-years-maintaining-the-wix-toolset/)
-- Apr 06 - [NIST researchers use cellphone compass to measure glucose](https://www.nist.gov/news-events/news/2024/04/nist-researchers-use-cellphone-compass-measure-tiny-concentrations)
 <!--END_SECTION:hn-->
 
 <!--
