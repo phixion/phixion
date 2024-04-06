@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 06 - [NIST researchers use cellphone compass to measure glucose](https://www.nist.gov/news-events/news/2024/04/nist-researchers-use-cellphone-compass-measure-tiny-concentrations)
+- Apr 05 - [Why CockroachDB doesn't use EvalPlanQual](https://www.cockroachlabs.com/blog/why-cockroachdb-doesnt-use-evalplanqual/)
 - Apr 05 - [C++ Insights – See your source code with the eyes of a compiler](https://github.com/andreasfertig/cppinsights)
+- Apr 05 - [Roku explores taking over HDMI feeds with ads](https://www.lowpass.cc/p/roku-hdmi-ad-insertion-patent)
 - Apr 05 - [SearXNG is a free internet metasearch engine](https://github.com/searxng/searxng)
-- Apr 05 - [world_sim: LLM prompted to act as a sentient CLI universe simulator](https://worldsim.nousresearch.com/)
-- Apr 05 - [Data brokers are gearing up to fight privacy bills](https://www.theverge.com/2024/4/5/24122079/data-brokers-fisa-extension-nsa-section-702-surveillance-lexis-nexis)
-- Apr 05 - [Apple Updates App Store Guidelines to Permit Game Emulators, EU Music App Links](https://www.macrumors.com/2024/04/05/app-store-guidelines-emulators-music-app-links/)
 <!--END_SECTION:hn-->
 
 <!--
