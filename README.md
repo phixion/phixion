@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 06 - [Insurers Are Spying on Your Home from the Sky](https://www.wsj.com/real-estate/home-insurance-aerial-images-37a18b16)
-- Apr 06 - [Maintenance.md](https://github.com/FiloSottile/FiloSottile/blob/main/maintenance.md)
-- Apr 06 - [eC Programming Language](https://ec-lang.org)
-- Apr 06 - [System/360 – CHM Revolution](https://www.computerhistory.org/revolution/mainframe-computers/7/164)
-- Apr 06 - [Photoshop for Text (2022)](https://stephango.com/photoshop-for-text)
+- Apr 06 - [Brutalist Hacker News](https://github.com/wkyleg/brutalist-hacker-news)
+- Apr 06 - [Faces.js, a JavaScript library for generating vector-based cartoon faces](https://zengm.com/facesjs/)
+- Apr 06 - [CISA publishes 447 page draft of cyber incident reporting rule](https://therecord.media/cisa-publishes-circia-rule-cyber-incident-reporting)
+- Apr 06 - [A Theory of Composing Protocols](https://programming-journal.org/2023/7/6/)
+- Apr 06 - [Cybersecurity Is Broken](https://crankysec.com/blog/broken/)
 <!--END_SECTION:hn-->
 
 <!--
