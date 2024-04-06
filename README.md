@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 06 - [The 37signals Guide to Internal Communication](https://37signals.com/how-we-communicate)
-- Apr 06 - [What I think about when I edit (2019)](https://evaparish.com/blog/how-i-edit)
-- Apr 06 - [A History of Source Control Systems: SCCS and RCS](https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/)
-- Apr 06 - [Ownership in Rust](https://smallcultfollowing.com/babysteps/blog/2024/04/05/ownership-in-rust)
-- Apr 06 - [The "Eisenhower matrix" productivity hack](https://bigthink.com/the-learning-curve/why-the-eisenhower-matrix-is-a-fantastic-productivity-hack/)
+- Apr 06 - [Insurers Are Spying on Your Home from the Sky](https://www.wsj.com/real-estate/home-insurance-aerial-images-37a18b16)
+- Apr 06 - [Maintenance.md](https://github.com/FiloSottile/FiloSottile/blob/main/maintenance.md)
+- Apr 06 - [eC Programming Language](https://ec-lang.org)
+- Apr 06 - [System/360 – CHM Revolution](https://www.computerhistory.org/revolution/mainframe-computers/7/164)
+- Apr 06 - [Photoshop for Text (2022)](https://stephango.com/photoshop-for-text)
 <!--END_SECTION:hn-->
 
 <!--
