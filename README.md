@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 05 - [Breakthrough drug trial saw cancer vanish in every patient](https://www.euronews.com/health/2022/06/07/this-breakthrough-drug-trial-saw-cancer-vanish-in-every-patient)
-- Apr 05 - [For twenty years, PostSecret has broadcast suburban America’s hidden truths](https://hazlitt.net/longreads/dark-matter)
-- Apr 05 - [Should employers pay for employees' phones if 2FA apps are required?](https://news.ycombinator.com/item?id=39945375)
-- Apr 05 - [Themes from (and Beyond) Altitude Cyber's 2023 Cybersecurity Year in Review](https://strategyofsecurity.com/themes-from-and-beyond-altitude-cybers-2023-cybersecurity-year-in-review/)
-- Apr 05 - [BeeTrove – OpenAI GPTs Open-Source Dataset](https://beetrove.com/)
+- Apr 05 - [C++ Insights – See your source code with the eyes of a compiler](https://github.com/andreasfertig/cppinsights)
+- Apr 05 - [SearXNG is a free internet metasearch engine](https://github.com/searxng/searxng)
+- Apr 05 - [world_sim: LLM prompted to act as a sentient CLI universe simulator](https://worldsim.nousresearch.com/)
+- Apr 05 - [Data brokers are gearing up to fight privacy bills](https://www.theverge.com/2024/4/5/24122079/data-brokers-fisa-extension-nsa-section-702-surveillance-lexis-nexis)
+- Apr 05 - [Apple Updates App Store Guidelines to Permit Game Emulators, EU Music App Links](https://www.macrumors.com/2024/04/05/app-store-guidelines-emulators-music-app-links/)
 <!--END_SECTION:hn-->
 
 <!--
