@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 07 - [Bright (YC W15) Is Hiring](https://www.ycombinator.com/companies/bright/jobs/cd8fV1s-ops-customer-service-general-manager)
-- Apr 07 - [Court approves 3M multi-billion dollar settlement over PFAS in drinking water](https://www.cbsnews.com/minnesota/news/3m-pfas-drinking-water-settlement/)
-- Apr 07 - [Did any processor implement an integer square root instruction?](https://retrocomputing.stackexchange.com/questions/29787/did-any-processor-implement-an-integer-square-root-instruction)
-- Apr 07 - [SentenceTransformers: Python framework for sentence, text and image embeddings](https://www.sbert.net/index.html)
-- Apr 07 - [LLMs can't simulate a Turing machine reliably](https://twitter.com/VictorTaelin/status/1776271375814054257)
+- Apr 07 - [What you think about landfill and recycling is probably wrong](https://medium.com/@robertwiblin/what-you-think-about-landfill-and-recycling-is-probably-totally-wrong-3a6cf57049ce)
+- Apr 07 - [Welcome to the VAIO Library](https://vaiolibrary.com/index.php/Welcome_to_the_VAIO_Library)
+- Apr 07 - [Boeing put Wall Street first, safety second ahead of Alaska Air blowout](https://www.seattletimes.com/business/boeing-aerospace/boeings-long-fall-and-how-it-might-recover/)
+- Apr 07 - [Adventures Making Vegemite](https://daveon.design/adventures-making-vegemite.html)
+- Apr 07 - [Mixture-of-Depths: Dynamically allocating compute in transformers](https://arxiv.org/abs/2404.02258)
 <!--END_SECTION:hn-->
 
 <!--
