@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 07 - [What you think about landfill and recycling is probably wrong](https://medium.com/@robertwiblin/what-you-think-about-landfill-and-recycling-is-probably-totally-wrong-3a6cf57049ce)
-- Apr 07 - [Welcome to the VAIO Library](https://vaiolibrary.com/index.php/Welcome_to_the_VAIO_Library)
-- Apr 07 - [Boeing put Wall Street first, safety second ahead of Alaska Air blowout](https://www.seattletimes.com/business/boeing-aerospace/boeings-long-fall-and-how-it-might-recover/)
-- Apr 07 - [Adventures Making Vegemite](https://daveon.design/adventures-making-vegemite.html)
-- Apr 07 - [Mixture-of-Depths: Dynamically allocating compute in transformers](https://arxiv.org/abs/2404.02258)
+- Apr 07 - [Justin Trudeau announces $2.4B for AI investments in Canada](https://www.cbc.ca/news/politics/federal-government-ai-investment-1.7166234)
+- Apr 07 - [Show HN: Bonk, a command-line tool for X11 window management](https://github.com/FascinatedBox/bonk)
+- Apr 07 - [The Bulgarian Computer's Global Reach: On Victor Petrov's "Balkan Cyberia"](https://lareviewofbooks.org/article/the-bulgarian-computers-global-reach-on-victor-petrovs-balkan-cyberia/)
+- Apr 07 - [ActivityPub/Nostr/At-Bluesky Compared](https://nate.mecca1.net/posts/2024-01-30_microblogging-protocols/)
+- Apr 07 - [Xemu: Original Xbox Emulator](https://xemu.app/)
 <!--END_SECTION:hn-->
 
 <!--
