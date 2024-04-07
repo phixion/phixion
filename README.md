@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 06 - [Brutalist Hacker News](https://github.com/wkyleg/brutalist-hacker-news)
-- Apr 06 - [Faces.js, a JavaScript library for generating vector-based cartoon faces](https://zengm.com/facesjs/)
-- Apr 06 - [CISA publishes 447 page draft of cyber incident reporting rule](https://therecord.media/cisa-publishes-circia-rule-cyber-incident-reporting)
-- Apr 06 - [A Theory of Composing Protocols](https://programming-journal.org/2023/7/6/)
-- Apr 06 - [Cybersecurity Is Broken](https://crankysec.com/blog/broken/)
+- Apr 06 - [The xz sshd backdoor rabbithole goes quite a bit deeper](https://twitter.com/bl4sty/status/1776691497506623562)
+- Apr 06 - [WinBtrfs – an open-source btrfs driver for Windows](https://github.com/maharmstone/btrfs)
+- Apr 06 - [Show HN: Online database diagram editor](https://github.com/drawdb-io/drawdb)
+- Apr 06 - [More Agents Is All You Need: LLMs performance scales with the number of agents](https://arxiv.org/abs/2402.05120)
+- Apr 06 - [Porn restrictions are leading to a VPN boom](https://www.popsci.com/technology/vpn-boom/)
 <!--END_SECTION:hn-->
 
 <!--
