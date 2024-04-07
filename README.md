@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 07 - [Lago, Open-Source Stripe Alternative, banks $22M in funding](https://techcrunch.com/2024/03/14/lago-a-paris-based-open-source-billing-platform-banks-22m/)
-- Apr 07 - [How not to write an async runtime in Rust](https://github.com/arun11299/How-not-to-async-rs)
-- Apr 07 - [Ibiza locals living in cars as party island sees rents soar](https://www.bbc.com/news/business-68730891)
-- Apr 07 - [A canonical Hamiltonian formulation of the Navier–Stokes problem](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/canonical-hamiltonian-formulation-of-the-navierstokes-problem/B3EB9389AE700867A6A3EA63A45E69C6)
-- Apr 06 - [The xz sshd backdoor rabbithole goes quite a bit deeper](https://twitter.com/bl4sty/status/1776691497506623562)
+- Apr 07 - [ElephantSQL Is Shutting Down](https://www.elephantsql.com/blog/end-of-life-announcement.html)
+- Apr 07 - [Exposure therapy for arachnophobia can benefit unrelated fears, study finds](https://www.psypost.org/exposure-therapy-for-arachnophobia-can-benefit-unrelated-fears-study-finds/)
+- Apr 07 - [Autodafe: Tools for freeing your project from the clammy grip of autotools](https://gitlab.com/esr/autodafe)
+- Apr 07 - [Best Buy Geek Squad employees report mass layoffs](https://www.theverge.com/2024/4/5/24122542/best-buy-geek-squad-layoffs-ai-restructuring)
+- Apr 07 - [Is the frequency domain a real place?](https://lcamtuf.substack.com/p/is-the-frequency-domain-a-real-place)
 <!--END_SECTION:hn-->
 
 <!--
