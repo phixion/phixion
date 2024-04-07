@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 07 - [ElephantSQL Is Shutting Down](https://www.elephantsql.com/blog/end-of-life-announcement.html)
-- Apr 07 - [Exposure therapy for arachnophobia can benefit unrelated fears, study finds](https://www.psypost.org/exposure-therapy-for-arachnophobia-can-benefit-unrelated-fears-study-finds/)
-- Apr 07 - [Autodafe: Tools for freeing your project from the clammy grip of autotools](https://gitlab.com/esr/autodafe)
-- Apr 07 - [Best Buy Geek Squad employees report mass layoffs](https://www.theverge.com/2024/4/5/24122542/best-buy-geek-squad-layoffs-ai-restructuring)
-- Apr 07 - [Is the frequency domain a real place?](https://lcamtuf.substack.com/p/is-the-frequency-domain-a-real-place)
+- Apr 07 - [Bright (YC W15) Is Hiring](https://www.ycombinator.com/companies/bright/jobs/cd8fV1s-ops-customer-service-general-manager)
+- Apr 07 - [Court approves 3M multi-billion dollar settlement over PFAS in drinking water](https://www.cbsnews.com/minnesota/news/3m-pfas-drinking-water-settlement/)
+- Apr 07 - [Did any processor implement an integer square root instruction?](https://retrocomputing.stackexchange.com/questions/29787/did-any-processor-implement-an-integer-square-root-instruction)
+- Apr 07 - [SentenceTransformers: Python framework for sentence, text and image embeddings](https://www.sbert.net/index.html)
+- Apr 07 - [LLMs can't simulate a Turing machine reliably](https://twitter.com/VictorTaelin/status/1776271375814054257)
 <!--END_SECTION:hn-->
 
 <!--
