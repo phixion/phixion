@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 08 - [Reverst: Reverse Tunnels in Go over HTTP/3 and QUIC](https://github.com/flipt-io/reverst)
-- Apr 08 - [I Tried Tesla FSD](https://werd.io/2024/i-tried-tesla-fsd)
-- Apr 08 - [Exploring Batch Caching of Trees](https://blog.julik.nl/2024/04/batch-caching-of-trees)
-- Apr 08 - [Turchin's Terrifying Predictions](http://donaldclarkplanb.blogspot.com/2024/04/turchins-terrifying-predictions.html)
-- Apr 08 - [Vala Programming Language](https://vala.dev/)
+- Apr 08 - [Direct Nash Optimization: Teaching Language Models to Self-Improve](https://arxiv.org/abs/2404.03715)
+- Apr 08 - [Japanese American Bird Pins](https://www.hcn.org/issues/56-4/the-untold-history-of-japanese-american-bird-pins/)
+- Apr 08 - [The 6502 instruction set as a database](https://gitlab.com/Screwtapello/isa65xx)
+- Apr 08 - [Nightfall: Can Kalgash Exist (2014)](https://arxiv.org/abs/1407.4895)
+- Apr 08 - [ESLint v9.0](https://eslint.org/blog/2024/04/eslint-v9.0.0-released/)
 <!--END_SECTION:hn-->
 
 <!--
