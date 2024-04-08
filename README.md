@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 07 - [Justin Trudeau announces $2.4B for AI investments in Canada](https://www.cbc.ca/news/politics/federal-government-ai-investment-1.7166234)
-- Apr 07 - [Show HN: Bonk, a command-line tool for X11 window management](https://github.com/FascinatedBox/bonk)
-- Apr 07 - [The Bulgarian Computer's Global Reach: On Victor Petrov's "Balkan Cyberia"](https://lareviewofbooks.org/article/the-bulgarian-computers-global-reach-on-victor-petrovs-balkan-cyberia/)
-- Apr 07 - [ActivityPub/Nostr/At-Bluesky Compared](https://nate.mecca1.net/posts/2024-01-30_microblogging-protocols/)
-- Apr 07 - [Xemu: Original Xbox Emulator](https://xemu.app/)
+- Apr 07 - [Groq CEO: 'We No Longer Sell Hardware'](https://www.eetimes.com/groq-ceo-we-no-longer-sell-hardware/)
+- Apr 07 - [Autonomous Weapons: The False Promise of Civilian Protection (2022)](https://www.cigionline.org/articles/autonomous-weapons-the-false-promise-of-civilian-protection/)
+- Apr 07 - [Neurons in the Brain Appear to Follow a Distinct Mathematical Pattern](https://www.msn.com/en-us/health/other/neurons-in-the-brain-appear-to-follow-a-distinct-mathematical-pattern/ar-AA1mhCzO)
+- Apr 07 - [Blind internet users struggle with error-prone AI aids](https://www.ft.com/content/3c877c55-b698-43da-a222-8ae183f53078)
+- Apr 07 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 <!--END_SECTION:hn-->
 
 <!--
