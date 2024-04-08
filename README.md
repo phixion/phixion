@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 08 - [The Disturbing Truth About How Airplanes Are Maintained Today (2015)](https://www.vanityfair.com/news/2015/11/airplane-maintenance-disturbing-truth)
+- Apr 08 - [Infant microbes and metabolites point to childhood neurodevelopmental disorders](https://medicalxpress.com/news/2024-04-autism-adhd-linked-disturbed-gut.html)
+- Apr 08 - [Phytomining – Extracting Minerals via Plants](https://arpa-e.energy.gov/news-and-media/press-releases/us-department-energy-announces-10-million-explore-using-plants)
+- Apr 07 - [When a black hole and a neutron star merge](https://www.mpg.de/21778967/0404-grav-mysterious-object-in-the-gap-152520-x)
 - Apr 07 - [Groq CEO: 'We No Longer Sell Hardware'](https://www.eetimes.com/groq-ceo-we-no-longer-sell-hardware/)
-- Apr 07 - [Autonomous Weapons: The False Promise of Civilian Protection (2022)](https://www.cigionline.org/articles/autonomous-weapons-the-false-promise-of-civilian-protection/)
-- Apr 07 - [Neurons in the Brain Appear to Follow a Distinct Mathematical Pattern](https://www.msn.com/en-us/health/other/neurons-in-the-brain-appear-to-follow-a-distinct-mathematical-pattern/ar-AA1mhCzO)
-- Apr 07 - [Blind internet users struggle with error-prone AI aids](https://www.ft.com/content/3c877c55-b698-43da-a222-8ae183f53078)
-- Apr 07 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 <!--END_SECTION:hn-->
 
 <!--
