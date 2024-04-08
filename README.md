@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 08 - [The Disturbing Truth About How Airplanes Are Maintained Today (2015)](https://www.vanityfair.com/news/2015/11/airplane-maintenance-disturbing-truth)
-- Apr 08 - [Infant microbes and metabolites point to childhood neurodevelopmental disorders](https://medicalxpress.com/news/2024-04-autism-adhd-linked-disturbed-gut.html)
-- Apr 08 - [Phytomining – Extracting Minerals via Plants](https://arpa-e.energy.gov/news-and-media/press-releases/us-department-energy-announces-10-million-explore-using-plants)
-- Apr 07 - [When a black hole and a neutron star merge](https://www.mpg.de/21778967/0404-grav-mysterious-object-in-the-gap-152520-x)
-- Apr 07 - [Groq CEO: 'We No Longer Sell Hardware'](https://www.eetimes.com/groq-ceo-we-no-longer-sell-hardware/)
+- Apr 08 - [Bitmovin (YC S15) Is Hiring a Full Stack Engineer in Austria](https://bitmovin.com/careers/full-stack-engineer-7260509002)
+- Apr 08 - [Just How Much Faster Are the Gnome 46 Terminals?](https://bxt.rs/blog/just-how-much-faster-are-the-gnome-46-terminals/)
+- Apr 08 - [Spotify demonetizes all tracks under 1k streams](https://djmag.com/news/spotify-officially-demonetises-all-tracks-under-1000-streams)
+- Apr 08 - [Show HN: Beyond text splitting – improved file parsing for LLM's](https://github.com/Filimoa/open-parse)
+- Apr 08 - [A list of AI coding tools](https://github.com/sourcegraph/awesome-code-ai)
 <!--END_SECTION:hn-->
 
 <!--
