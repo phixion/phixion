@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 08 - [Sieve (YC W22) Is Hiring ML engineers (small team, high revenue, AI infra)](https://sievedata.com/about/jobs)
-- Apr 08 - [KDE6 release: D-Bus and Polkit Galore](https://security.opensuse.org/2024/04/02/kde6-dbus-polkit.html)
-- Apr 08 - [Blocky – a DNS proxy and ad-blocker for the local network](https://0xerr0r.github.io/blocky/)
-- Apr 08 - [TSMC Gets $11.6B in US Grants, Loans for Three Chip Fabs](https://www.bloomberg.com/news/articles/2024-04-08/tsmc-gets-11-6-billion-in-us-grants-loans-for-three-chip-fabs)
-- Apr 08 - [Building a Managed Postgres Service in Rust](https://tembo.io/blog/managed-postgres-rust)
+- Apr 08 - [Reverst: Reverse Tunnels in Go over HTTP/3 and QUIC](https://github.com/flipt-io/reverst)
+- Apr 08 - [I Tried Tesla FSD](https://werd.io/2024/i-tried-tesla-fsd)
+- Apr 08 - [Exploring Batch Caching of Trees](https://blog.julik.nl/2024/04/batch-caching-of-trees)
+- Apr 08 - [Turchin's Terrifying Predictions](http://donaldclarkplanb.blogspot.com/2024/04/turchins-terrifying-predictions.html)
+- Apr 08 - [Vala Programming Language](https://vala.dev/)
 <!--END_SECTION:hn-->
 
 <!--
