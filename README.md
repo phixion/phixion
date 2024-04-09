@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 08 - [1.18k drawings of plant root systems](https://images.wur.nl/digital/collection/coll13/search)
-- Apr 08 - [Hello OLMo: A truly open LLM](https://blog.allenai.org/hello-olmo-a-truly-open-llm-43f7e7359222?gi=760105621962)
-- Apr 08 - [UpCodes (YC S17) hiring devs to automate construction compliance](https://up.codes/careers?utm_source=HN)
-- Apr 08 - [Llm.c – LLM training in simple, pure C/CUDA](https://github.com/karpathy/llm.c)
-- Apr 08 - [Looking into an apparently scammy looking zsh plugin manager called “zi”](https://recurse.social/@dylnuge/112224580867240812)
+- Apr 09 - [BART to offer final rides on original equipment on April 20](https://www.trains.com/trn/news-reviews/news-wire/bart-to-offer-final-rides-on-original-equipment-on-april-20/)
+- Apr 09 - [Distributed SQLite: Paradigm shift or hype?](https://kerkour.com/distributed-sqlite)
+- Apr 09 - [DRAM mfgrs stop publishing contract DRAM prices after quake, price hike expected](https://www.tomshardware.com/tech-industry/memory-makers-reportedly-stop-publishing-contract-dram-prices-following-taiwan-earthquake-further-price-hikes-are-expected)
+- Apr 09 - [Genesis of the “Golfball” Selectric](https://oztypewriter.blogspot.com/2011/08/on-this-day-in-typewriter-history_14.html)
+- Apr 09 - [TSAC: Low Bitrate Audio Compression](https://bellard.org/tsac/)
 <!--END_SECTION:hn-->
 
 <!--
