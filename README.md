@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 08 - [Direct Nash Optimization: Teaching Language Models to Self-Improve](https://arxiv.org/abs/2404.03715)
-- Apr 08 - [Japanese American Bird Pins](https://www.hcn.org/issues/56-4/the-untold-history-of-japanese-american-bird-pins/)
-- Apr 08 - [The 6502 instruction set as a database](https://gitlab.com/Screwtapello/isa65xx)
-- Apr 08 - [Nightfall: Can Kalgash Exist (2014)](https://arxiv.org/abs/1407.4895)
-- Apr 08 - [ESLint v9.0](https://eslint.org/blog/2024/04/eslint-v9.0.0-released/)
+- Apr 08 - [1.18k drawings of plant root systems](https://images.wur.nl/digital/collection/coll13/search)
+- Apr 08 - [Hello OLMo: A truly open LLM](https://blog.allenai.org/hello-olmo-a-truly-open-llm-43f7e7359222?gi=760105621962)
+- Apr 08 - [UpCodes (YC S17) hiring devs to automate construction compliance](https://up.codes/careers?utm_source=HN)
+- Apr 08 - [Llm.c – LLM training in simple, pure C/CUDA](https://github.com/karpathy/llm.c)
+- Apr 08 - [Looking into an apparently scammy looking zsh plugin manager called “zi”](https://recurse.social/@dylnuge/112224580867240812)
 <!--END_SECTION:hn-->
 
 <!--
