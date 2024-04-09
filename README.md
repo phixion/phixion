@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 09 - [Welcome to the Age of Technofeudalism](https://www.wired.com/story/yanis-varoufakis-technofeudalism-interview/)
-- Apr 09 - [Show HN: I made a discrete logic network card](https://qdiv.dev/posts/eth2/)
-- Apr 09 - [How I Tripped Over the Debian Weak Keys Vulnerability](https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html)
-- Apr 09 - [Show HN: I created automatic subtitling app to boost short videos](https://videofa.st/en/short-video/automatic-subtitles/)
-- Apr 09 - [MapSCII – ASCII world map renderer for your console – enter => telnet mapscii.me](https://github.com/rastapasta/mapscii)
+- Apr 09 - [Social Skill Training with Large Language Models](https://arxiv.org/abs/2404.04204)
+- Apr 09 - [Total eclipse of the Internet: traffic impacts in Mexico, the US, and Canada](https://blog.cloudflare.com/total-eclipse-internet-traffic-impacts-mexico-us-canada)
+- Apr 09 - [Telegram Remote Code Exploit](https://twitter.com/CertiKAlert/status/1777634014049796181)
+- Apr 09 - [How to use my science-based color wheel](https://www.youtube.com/watch?v=alrdClpGHvY)
+- Apr 09 - [BYD is launching its next-gen Blade EV battery – more range and even lower cost](https://electrek.co/2024/04/08/byd-launch-next-gen-ev-battery-more-range-lower-price/)
 <!--END_SECTION:hn-->
 
 <!--
