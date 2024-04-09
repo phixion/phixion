@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 09 - [Social Skill Training with Large Language Models](https://arxiv.org/abs/2404.04204)
-- Apr 09 - [Total eclipse of the Internet: traffic impacts in Mexico, the US, and Canada](https://blog.cloudflare.com/total-eclipse-internet-traffic-impacts-mexico-us-canada)
-- Apr 09 - [Telegram Remote Code Exploit](https://twitter.com/CertiKAlert/status/1777634014049796181)
-- Apr 09 - [How to use my science-based color wheel](https://www.youtube.com/watch?v=alrdClpGHvY)
-- Apr 09 - [BYD is launching its next-gen Blade EV battery – more range and even lower cost](https://electrek.co/2024/04/08/byd-launch-next-gen-ev-battery-more-range-lower-price/)
+- Apr 09 - [Google's Chrome Antitrust Paradox](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4780718)
+- Apr 09 - [Beeper acquired by Automattic (WordPress)](https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/)
+- Apr 09 - [With Vids, Google thinks it has the next big productivity tool for work](https://www.theverge.com/2024/4/9/24124168/google-vids-video-ai-workspace-app)
+- Apr 09 - [Artificial Intelligence's 'Insatiable' Energy Needs Not Sustainable](https://www.wsj.com/tech/ai/artificial-intelligences-insatiable-energy-needs-not-sustainable-arm-ceo-says-a11218c9)
+- Apr 09 - [New Grafana Loki UI: No LogQL Required](https://grafana.com/blog/2024/04/09/find-your-logs-data-with-explore-logs-no-logql-required/)
 <!--END_SECTION:hn-->
 
 <!--
