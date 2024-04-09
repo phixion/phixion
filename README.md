@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 09 - [Google's Chrome Antitrust Paradox](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4780718)
-- Apr 09 - [Beeper acquired by Automattic (WordPress)](https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/)
-- Apr 09 - [With Vids, Google thinks it has the next big productivity tool for work](https://www.theverge.com/2024/4/9/24124168/google-vids-video-ai-workspace-app)
-- Apr 09 - [Artificial Intelligence's 'Insatiable' Energy Needs Not Sustainable](https://www.wsj.com/tech/ai/artificial-intelligences-insatiable-energy-needs-not-sustainable-arm-ceo-says-a11218c9)
-- Apr 09 - [New Grafana Loki UI: No LogQL Required](https://grafana.com/blog/2024/04/09/find-your-logs-data-with-explore-logs-no-logql-required/)
+- Apr 09 - [A MySQL compatible database engine written in pure Go](https://github.com/dolthub/go-mysql-server)
+- Apr 09 - [GPT-4 Turbo with Vision Generally Available](https://platform.openai.com/docs/models/gpt-4-turbo-and-gpt-4)
+- Apr 09 - [Complexity Is the Enemy](https://neugierig.org/software/blog/2011/04/complexity.html)
+- Apr 09 - [Evaluating faithfulness and content selection of LLMs in book-length summaries](https://arxiv.org/abs/2404.01261)
+- Apr 09 - [The Collapse of Small Press Distribution](https://lithub.com/the-small-press-world-is-about-to-fall-apart-on-the-collapse-of-small-press-distribution/)
 <!--END_SECTION:hn-->
 
 <!--
