@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 10 - [Meta Used Monolithic Architecture to Ship Threads in Only Five Months](https://www.infoq.com/news/2024/04/meta-threads-instagram-5-months/)
-- Apr 10 - [New details on F-16, drone collision in banned Arizona airspace](https://dronedj.com/2024/04/09/new-details-on-f-16-drone-collision-in-banned-arizona-airspace/)
-- Apr 10 - [EU's new tech laws are working – small browsers gain market share](https://www.forth.news/threads/66161a684e6a1465f62f6a3b)
-- Apr 10 - [Alibaba founder Jack Ma steps out from shadows with long internal post](https://www.reuters.com/business/retail-consumer/alibaba-founder-jack-ma-steps-out-shadows-with-long-internal-post-2024-04-10/)
-- Apr 10 - [PHP in 2024](https://stitcher.io/blog/php-in-2024)
+- Apr 10 - [Lago – Open-Source Stripe Alternative Is Hiring a Post-Sales Solution Eng(EU)](https://www.ycombinator.com/companies/lago/jobs/zEAkwhK-solution-engineer-post-sales)
+- Apr 10 - [Animal-free egg protein startup Onego Bio is closer to cracking the egg market](https://techcrunch.com/2024/04/01/animal-free-egg-protein-onego-bio-40m/)
+- Apr 10 - [AzerothCore: Self-Hosted World of Warcraft 3.3.5a Server](https://github.com/azerothcore/azerothcore-wotlk)
+- Apr 10 - [Canonical partners with Qualcom for Snapdragon X](https://www.phoronix.com/news/Ubuntu-Qualcomm-2024-Partners)
+- Apr 10 - [How to Stay Sane](https://un.curl.dev/life/stay-sane)
 <!--END_SECTION:hn-->
 
 <!--
