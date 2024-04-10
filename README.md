@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 10 - [The $10k BYD Seagull EV is scaring the U.S. auto industry](https://www.teslarati.com/10000-byd-seagull-us-auto/)
-- Apr 10 - [Ronda Rousey: 'I never wanted to talk about concussion. It felt like a weakness'](https://www.theguardian.com/sport/2024/mar/31/ronda-rousey-i-never-wanted-to-talk-about-concussion-it-felt-like-a-weakness)
-- Apr 10 - [Kobo announces color e-readers](https://www.theverge.com/2024/4/10/24124411/kobo-libra-colour-clara-colour-e-reader-kindle-e-ink)
-- Apr 10 - [Meta MTIA v2](https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/)
-- Apr 10 - [Twitter's pivot to x.com is a gift to phishers](https://krebsonsecurity.com/2024/04/twitters-clumsy-pivot-to-x-com-is-a-gift-to-phishers/)
+- Apr 10 - [Libgourou: A Free Implementation of Adobe's Adept DRM on ePub/PDF Files](https://forge.soutade.fr/soutade/libgourou)
+- Apr 10 - [Lens sort, a masked pixel sort glitch effect](https://github.com/BernardZhao/lenssort)
+- Apr 10 - [Code Search Is Hard](https://blog.val.town/blog/search-notes/)
+- Apr 10 - [Udio: Generate music in your favorite styles with a text prompt](https://twitter.com/udiomusic/status/1778045322654003448)
+- Apr 10 - [Implementation of Google's Griffin Architecture – RNN LLM](https://github.com/google-deepmind/recurrentgemma)
 <!--END_SECTION:hn-->
 
 <!--
