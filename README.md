@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 09 - [Building Reliable Systems Out of Unreliable Agents](https://www.rainforestqa.com/blog/building-reliable-systems-out-of-unreliable-agents)
-- Apr 09 - [The challenges of building modern open source software on PowerPC Mac OS X](http://www.netbsd.org/~nia/tigersrc/)
+- Apr 10 - [The Rise and Impending Fall of the Dental Cavity](https://www.cremieux.xyz/p/the-rise-and-impending-fall-of-the)
+- Apr 10 - [Mistral AI Launches New 8x22B MOE Model](https://twitter.com/MistralAI)
+- Apr 10 - [Why does part of the Windows 98 Setup program look older than the rest? (2020)](https://retrocomputing.stackexchange.com/questions/14903/why-does-part-of-the-windows-98-setup-program-look-older-than-the-rest)
+- Apr 09 - [Building reliable systems out of unreliable agents](https://www.rainforestqa.com/blog/building-reliable-systems-out-of-unreliable-agents)
 - Apr 09 - [Making an RISC-V OS (Part 3): Managing free memory](https://traxys.me/riscv_os_buddy.html)
-- Apr 09 - [Reflections of a bird collision monitor](https://www.audubon.org/es/node/149317)
-- Apr 09 - [A MySQL compatible database engine written in pure Go](https://github.com/dolthub/go-mysql-server)
 <!--END_SECTION:hn-->
 
 <!--
