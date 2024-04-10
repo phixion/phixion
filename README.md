@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 09 - [Building Reliable Systems Out of Unreliable Agents](https://www.rainforestqa.com/blog/building-reliable-systems-out-of-unreliable-agents)
+- Apr 09 - [The challenges of building modern open source software on PowerPC Mac OS X](http://www.netbsd.org/~nia/tigersrc/)
+- Apr 09 - [Making an RISC-V OS (Part 3): Managing free memory](https://traxys.me/riscv_os_buddy.html)
+- Apr 09 - [Reflections of a bird collision monitor](https://www.audubon.org/es/node/149317)
 - Apr 09 - [A MySQL compatible database engine written in pure Go](https://github.com/dolthub/go-mysql-server)
-- Apr 09 - [GPT-4 Turbo with Vision Generally Available](https://platform.openai.com/docs/models/gpt-4-turbo-and-gpt-4)
-- Apr 09 - [Complexity Is the Enemy](https://neugierig.org/software/blog/2011/04/complexity.html)
-- Apr 09 - [Evaluating faithfulness and content selection of LLMs in book-length summaries](https://arxiv.org/abs/2404.01261)
-- Apr 09 - [The Collapse of Small Press Distribution](https://lithub.com/the-small-press-world-is-about-to-fall-apart-on-the-collapse-of-small-press-distribution/)
 <!--END_SECTION:hn-->
 
 <!--
