@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 11 - [Fern (YC W23) Is Hiring a Front End Engineer in Brooklyn, NY](https://www.ycombinator.com/companies/fern/jobs/BfXHkk5-frontend-engineer)
-- Apr 11 - [Conscientious Unbelievers](https://aeon.co/essays/how-scots-freethinkers-managed-to-loosen-christianitys-grip)
-- Apr 11 - [Computer scientist wins Turing Award for seminal work on randomness](https://arstechnica.com/science/2024/04/computer-scientist-wins-turing-award-for-seminal-work-on-randomness/)
-- Apr 11 - [ESA Satellites to Test Razor-Sharp Formation Flying](https://spectrum.ieee.org/satellite-constellation-formation-flying-esa)
-- Apr 11 - [Show HN: Snake-inspired FOSS game Dungeon Rush playable in the browser](https://midzer.de/wasm/dungeonrush/)
+- Apr 11 - [How to cheat at Super Mario Maker and get away with it for years](https://arstechnica.com/gaming/2024/04/how-to-cheat-at-super-mario-maker-and-get-away-with-it-for-years/)
+- Apr 11 - [Harvard will require test scores for admission again](https://www.washingtonpost.com/education/2024/04/11/harvard-reinstates-sat-act-admissions-requirement/)
+- Apr 11 - [Pompeii: Breathtaking new paintings found at ancient city](https://www.bbc.com/news/science-environment-68777741)
+- Apr 11 - [Apple alerts users in 92 nations to mercenary spyware attacks](https://techcrunch.com/2024/04/10/apple-warning-mercenary-spyware-attacks/)
+- Apr 11 - [NYC Rat Sightings (Daily) – Interactive Chart](https://realtime.org/data/nyc-rat-sightings)
 <!--END_SECTION:hn-->
 
 <!--
