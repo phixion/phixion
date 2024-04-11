@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 10 - [OpenGrok: Fast and usable source code search and cross reference engine](https://github.com/oracle/opengrok)
+- Apr 11 - [Naismith's Rule](https://en.wikipedia.org/wiki/Naismith%27s_rule)
+- Apr 11 - [Amazon owes $525M in cloud-storage patent fight, US jury says](https://www.reuters.com/legal/amazon-owes-525-mln-cloud-storage-patent-fight-us-jury-says-2024-04-11/)
+- Apr 11 - [MixRank (YC S11) is hiring global remote software engineers](https://news.ycombinator.com/item?id=39997376)
+- Apr 11 - [Replacing Wires Could Double How Much Electricity the US Grid Can Handle](https://cleantechnica.com/2024/04/10/replacing-wires-could-double-how-much-electricity-the-us-grid-can-handle/)
 - Apr 10 - [ETag and HTTP Caching](https://rednafi.com/misc/etag_and_http_caching/)
-- Apr 10 - [Do You Need IPv4 Anymore?](https://blog.daknob.net/do-you-really-need-ipv4-anymore/)
-- Apr 10 - [Substack Writers Concerned as Subscriptions 'Plummet' Due to Follow Feature](https://www.thewrap.com/substack-follow-feature-problems-subscriptions-down/)
-- Apr 10 - [EPA Says 'Forever Chemicals' Must Be Removed from Tap Water](https://www.nytimes.com/2024/04/10/climate/epa-pfas-drinking-water.html)
 <!--END_SECTION:hn-->
 
 <!--
