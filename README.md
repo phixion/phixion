@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 11 - [If Inheritance is so bad, why does everyone use it?](https://buttondown.email/hillelwayne/archive/if-inheritance-is-so-bad-why-does-everyone-use-it/)
-- Apr 11 - [Udio – Dune the Broadway Musical](https://www.udio.com/songs/eY7xtug1dV6hbfCDhyHJua)
-- Apr 11 - [AI-generated sad girl with piano performs the text of the MIT License](https://suno.com/song/da6d4a83-1001-4694-8c28-648a6e8bad0a/)
-- Apr 11 - [End of the Line? Saudi Arabia to scale back plans for desert megacity](https://www.theguardian.com/world/2024/apr/10/the-line-saudi-arabia-scaling-back-plans-105-mile-long-desert-megacity-crown-prince)
-- Apr 11 - [Going in circles without a real-time clock](https://rachelbythebay.com/w/2024/04/10/rtc/)
+- Apr 11 - [Fern (YC W23) Is Hiring a Front End Engineer in Brooklyn, NY](https://www.ycombinator.com/companies/fern/jobs/BfXHkk5-frontend-engineer)
+- Apr 11 - [Conscientious Unbelievers](https://aeon.co/essays/how-scots-freethinkers-managed-to-loosen-christianitys-grip)
+- Apr 11 - [Computer scientist wins Turing Award for seminal work on randomness](https://arstechnica.com/science/2024/04/computer-scientist-wins-turing-award-for-seminal-work-on-randomness/)
+- Apr 11 - [ESA Satellites to Test Razor-Sharp Formation Flying](https://spectrum.ieee.org/satellite-constellation-formation-flying-esa)
+- Apr 11 - [Show HN: Snake-inspired FOSS game Dungeon Rush playable in the browser](https://midzer.de/wasm/dungeonrush/)
 <!--END_SECTION:hn-->
 
 <!--
