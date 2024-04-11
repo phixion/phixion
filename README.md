@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 11 - [Naismith's Rule](https://en.wikipedia.org/wiki/Naismith%27s_rule)
-- Apr 11 - [Amazon owes $525M in cloud-storage patent fight, US jury says](https://www.reuters.com/legal/amazon-owes-525-mln-cloud-storage-patent-fight-us-jury-says-2024-04-11/)
-- Apr 11 - [MixRank (YC S11) is hiring global remote software engineers](https://news.ycombinator.com/item?id=39997376)
-- Apr 11 - [Replacing Wires Could Double How Much Electricity the US Grid Can Handle](https://cleantechnica.com/2024/04/10/replacing-wires-could-double-how-much-electricity-the-us-grid-can-handle/)
-- Apr 10 - [ETag and HTTP Caching](https://rednafi.com/misc/etag_and_http_caching/)
+- Apr 11 - [If Inheritance is so bad, why does everyone use it?](https://buttondown.email/hillelwayne/archive/if-inheritance-is-so-bad-why-does-everyone-use-it/)
+- Apr 11 - [Udio – Dune the Broadway Musical](https://www.udio.com/songs/eY7xtug1dV6hbfCDhyHJua)
+- Apr 11 - [AI-generated sad girl with piano performs the text of the MIT License](https://suno.com/song/da6d4a83-1001-4694-8c28-648a6e8bad0a/)
+- Apr 11 - [End of the Line? Saudi Arabia to scale back plans for desert megacity](https://www.theguardian.com/world/2024/apr/10/the-line-saudi-arabia-scaling-back-plans-105-mile-long-desert-megacity-crown-prince)
+- Apr 11 - [Going in circles without a real-time clock](https://rachelbythebay.com/w/2024/04/10/rtc/)
 <!--END_SECTION:hn-->
 
 <!--
