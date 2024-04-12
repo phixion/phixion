@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 12 - ["Here's a puzzle game. I call it Reverse the List of Integers."](https://mathstodon.xyz/@two_star/112242224494626411)
-- Apr 12 - [There's a 30-year old dead rabbit in Seven Sisters tube station](https://www.ianvisits.co.uk/articles/theres-a-dead-rabbit-in-seven-sisters-tube-station-71502/)
-- Apr 12 - [Fivefold Slower Compared to Go? Optimizing Rust's Protobuf Decoding Performance](https://www.greptime.com/blogs/2024-04-09-rust-protobuf-performance)
-- Apr 12 - [Threads on Mastodon and the bright future of the Fediverse](https://www.augment.ink/threads-on-mastodon/)
-- Apr 12 - [Abstract Methods and NotImplementedError in Ruby](https://nithinbekal.com/posts/abstract-methods-notimplementederror-ruby/)
+- Apr 12 - [I Lost Faith in Kagi](https://d-shoot.net/kagi.html)
+- Apr 12 - [Fast, Declarative, Reproduble and Composable Developer Environments Using Nix](https://devenv.sh/)
+- Apr 12 - [Tinygrad: Hacked 4090 driver to enable P2P](https://github.com/tinygrad/open-gpu-kernel-modules)
+- Apr 12 - [An open source initiative to share and compare heat pump performance data](https://heatpumpmonitor.org/)
+- Apr 12 - [H-1B visa fraud alive and well amid anti-abuse efforts](https://www.theregister.com/2024/04/09/h1b_visa_fraud/)
 <!--END_SECTION:hn-->
 
 <!--
