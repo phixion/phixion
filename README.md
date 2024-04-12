@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 12 - [NASA's Next Solar Sail Is About to Go to Space](https://www.universetoday.com/166594/nasas-next-solar-sail-is-about-to-go-to-space/)
-- Apr 12 - [How we built JSR](https://deno.com/blog/how-we-built-jsr)
-- Apr 12 - [China Tells Telecom Carriers to Phase Out Foreign Chips in Blow to Intel, AMD](https://www.wsj.com/tech/china-telecom-intel-amd-chips-99ae99a9)
-- Apr 12 - [Researchers find a new organelle evolving](https://arstechnica.com/science/2024/04/researchers-find-a-new-organelle-evolving/)
-- Apr 12 - [Show HN: tu – Convert natural language date/time to UTC](https://github.com/ad-si/tu)
+- Apr 12 - [Hawaii Moves to Ban Short-Term Rentals to Address Housing Crisis](https://substack.perfectunion.us/p/hawaii-moves-to-ban-short-term-rentals)
+- Apr 12 - [ULIDs and Primary Keys](https://blog.daveallie.com/ulid-primary-keys)
+- Apr 12 - [Ford's Battery Flagship Socked by Mold Sickness, Workers Say](https://labornotes.org/2024/02/fords-battery-flagship-socked-mold-sickness-workers-say)
+- Apr 12 - [Google blocks some California news as fight over online journalism bill escalate](https://www.politico.com/news/2024/04/12/google-california-news-journalism-00151873)
+- Apr 12 - [Bypass Paywalls repository is gone](https://news.ycombinator.com/item?id=40015961)
 <!--END_SECTION:hn-->
 
 <!--
