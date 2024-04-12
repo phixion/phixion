@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 11 - [Fine-Tuning Increases LLM Vulnerabilities and Risk](https://arxiv.org/abs/2404.04392)
-- Apr 11 - [Seven seconds: the Tower Bridge Hawker Hunter incident (2016)](https://www.aerialcombat.co.uk/2016/04/seven-seconds-the-tower-bridge-hawker-hunter-incident.html)
-- Apr 11 - [Etleap (YC W13) is hiring an account executive in San Francisco](https://etleap.com/careers/account-executive/)
-- Apr 11 - [Why CISA Is Warning CISOs About a Breach at Sisense](https://krebsonsecurity.com/2024/04/why-cisa-is-warning-cisos-about-a-breach-at-sisense/)
-- Apr 11 - [Descent: A classic 3-D first-person shooter (2012)](http://insectoid.budwin.net/dos/descent/descent.html)
+- Apr 12 - [Discord is nuking Nintendo Switch emulator devs and their entire servers](https://www.theverge.com/2024/4/11/24127545/discord-suyu-sudachi-server-shutdown-account-ban)
+- Apr 12 - [Boaty McBoatface](https://en.wikipedia.org/wiki/Boaty_McBoatface)
+- Apr 12 - [Building a Linux Container Using Namespaces: Part – 1](https://www.polarsparc.com/xhtml/Containers-1.html)
+- Apr 12 - [DwarFS – The Deduplicating Warp-Speed Advanced Read-Only File System](https://github.com/mhx/dwarfs)
+- Apr 12 - [An Introduction to Flow Matching](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
 <!--END_SECTION:hn-->
 
 <!--
