@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Apr 12 - [Giant Tiger - 2,842,669 breached accounts](https://haveibeenpwned.com/PwnedWebsites#GiantTiger)
 - Apr 10 - [Salvadoran Citizens - 946,989 breached accounts](https://haveibeenpwned.com/PwnedWebsites#SalvadoranCitizens)
 - Apr 09 - [Kaspersky Club - 55,971 breached accounts](https://haveibeenpwned.com/PwnedWebsites#KasperskyClub)
 - Apr 08 - [boAt - 7,528,985 breached accounts](https://haveibeenpwned.com/PwnedWebsites#boAt)
 - Apr 02 - [SurveyLama - 4,426,879 breached accounts](https://haveibeenpwned.com/PwnedWebsites#SurveyLama)
-- Apr 01 - [Pandabuy - 1,348,407 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Pandabuy)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 12 - [OpenEQA: Embodied Question Answering in the Era of Foundation Models](https://open-eqa.github.io/)
-- Apr 12 - [YouTube has a new design on desktop and everyone is mad about it](https://www.androidpolice.com/youtube-new-desktop-design-nobody-likes/)
-- Apr 12 - [Defeated CEOs are now conceding hybrid working is here to stay](https://fortune.com/2024/04/12/kpmg-study-us-ceos-accept-hybrid-working-employee-return-to-office/)
-- Apr 12 - [Show HN: Mazelit - My wife and I released our first game](https://news.ycombinator.com/item?id=40017180)
-- Apr 12 - [Palo Alto Networks PAN-OS Zero-Day Exploitation](https://www.volexity.com/blog/2024/04/12/zero-day-exploitation-of-unauthenticated-remote-code-execution-vulnerability-in-globalprotect-cve-2024-3400/)
+- Apr 13 - [EVs are lowering Bay Area's carbon footprint](https://news.berkeley.edu/2024/04/04/evs-are-lowering-bay-area-s-carbon-footprint)
+- Apr 13 - [Your LLM Is a Capable Regressor When Given In-Context Examples](https://arxiv.org/abs/2404.07544)
+- Apr 13 - [Japanese police arrest man for tampering with Pokémon Violet save data](https://www.ign.com/articles/japanese-police-arrest-36-year-old-man-on-suspicion-of-tampering-with-pokemon-violet-save-data)
+- Apr 13 - [I continue to no longer attend vintage computer festivals](http://ascii.textfiles.com/archives/5591)
+- Apr 12 - [Employing Others Is Linked to Wealth and Wellbeing](https://news.gallup.com/poll/643268/employing-others-linked-wealth-wellbeing.aspx)
 <!--END_SECTION:hn-->
 
 <!--
