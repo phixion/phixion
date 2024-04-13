@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 13 - [How to Send an SMS in Haskell (2017)](https://www.twilio.com/en-us/blog/setting-up-your-haskell-developer-environment-with-twilio-html)
-- Apr 13 - [Self-Hosted Is Awesome](https://pixeljets.com/blog/self-hosted-is-awesome/)
-- Apr 13 - [Open Source, Supply Chains, and Bears](https://scottarc.blog/2024/04/04/open-source-supply-chains-and-bears-oh-my/)
-- Apr 13 - [Your LLM Is a Capable Regressor When Given In-Context Examples](https://arxiv.org/abs/2404.07544)
-- Apr 13 - [DES/3DES Algorithm Illustration](https://hereket.com/tiny/des-algorithm/)
+- Apr 13 - [Can you really explain the difference? Subtle nuances of English words](https://lithub.com/yes-but-can-you-really-explain-the-difference-between-morals-and-ethics/)
+- Apr 13 - [Tree-shaking, the horticulturally misguided algorithm](https://wingolog.org/archives/2023/11/24/tree-shaking-the-horticulturally-misguided-algorithm)
+- Apr 13 - [350 tons of of chocolate and wine arrive on world’s largest cargo sailboat](https://untappedcities.com/2024/04/12/grain-de-sail-ll/)
+- Apr 13 - [A disgruntled federal employee's 1980s desk calendar (2018)](https://internationaltimes.it/a-disgruntled-federal-employees-1980s-desk-calendar/)
+- Apr 13 - [Why do some people always get lost?](https://knowablemagazine.org/content/article/society/2024/why-do-some-people-always-get-lost-but-others-dont)
 <!--END_SECTION:hn-->
 
 <!--
