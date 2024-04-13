@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 12 - [Hawaii Moves to Ban Short-Term Rentals to Address Housing Crisis](https://substack.perfectunion.us/p/hawaii-moves-to-ban-short-term-rentals)
-- Apr 12 - [ULIDs and Primary Keys](https://blog.daveallie.com/ulid-primary-keys)
-- Apr 12 - [Ford's Battery Flagship Socked by Mold Sickness, Workers Say](https://labornotes.org/2024/02/fords-battery-flagship-socked-mold-sickness-workers-say)
-- Apr 12 - [Google blocks some California news as fight over online journalism bill escalate](https://www.politico.com/news/2024/04/12/google-california-news-journalism-00151873)
-- Apr 12 - [Bypass Paywalls repository is gone](https://news.ycombinator.com/item?id=40015961)
+- Apr 12 - [OpenEQA: Embodied Question Answering in the Era of Foundation Models](https://open-eqa.github.io/)
+- Apr 12 - [YouTube has a new design on desktop and everyone is mad about it](https://www.androidpolice.com/youtube-new-desktop-design-nobody-likes/)
+- Apr 12 - [Defeated CEOs are now conceding hybrid working is here to stay](https://fortune.com/2024/04/12/kpmg-study-us-ceos-accept-hybrid-working-employee-return-to-office/)
+- Apr 12 - [Show HN: Mazelit - My wife and I released our first game](https://news.ycombinator.com/item?id=40017180)
+- Apr 12 - [Palo Alto Networks PAN-OS Zero-Day Exploitation](https://www.volexity.com/blog/2024/04/12/zero-day-exploitation-of-unauthenticated-remote-code-execution-vulnerability-in-globalprotect-cve-2024-3400/)
 <!--END_SECTION:hn-->
 
 <!--
