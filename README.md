@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 14 - [Hidden dependencies in Linux binaries](http://thelittleengineerthatcould.blogspot.com/2024/04/hidden-dependencies-in-linux-binaries.html)
-- Apr 14 - [Interview with Senior JavaScript Developer 2024 [video]](https://www.youtube.com/watch?v=aWfYxg-Ypm4)
-- Apr 14 - [Hospitals that make profits should pay taxes](https://www.statnews.com/2024/04/14/nonprofit-hospitals-turn-profit-charity-care-tax-exempt-status/)
-- Apr 14 - [Top Europe court chides Switzerland in landmark climate ruling](https://phys.org/news/2024-04-europe-court-chides-switzerland-landmark.html)
-- Apr 14 - [Algae that can fix nitrogen – thanks to a tiny cell structure](https://www.nature.com/articles/d41586-024-01046-z)
+- Apr 14 - [U.S. Steel Shareholders Approve Sale to Japan's Nippon Steel](https://www.wsj.com/business/deals/u-s-steel-shareholders-approve-sale-to-japans-nippon-steel-3e1dec9e)
+- Apr 14 - [I did crack my screen once but it was on purpose](https://twitter.com/mitchellh/status/1779617537162178614)
+- Apr 14 - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=40034480)
+- Apr 14 - [Senate Commerce Committee chair Maria Cantwell upended privacy bills for years](https://www.washingtonpost.com/technology/2024/04/13/congress-maria-cantwell-online-privacy/)
+- Apr 14 - [My cat alerted me to a DDoS attack](https://www.dannyguo.com/blog/my-cat-alerted-me-to-a-ddos-attack)
 <!--END_SECTION:hn-->
 
 <!--
