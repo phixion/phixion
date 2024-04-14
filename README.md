@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 14 - [Taking CO2 out of the air would be an expensive way to fight climate change](https://www.theverge.com/2024/4/11/24127331/carbon-dioxide-removal-costs-rhodium-group-report)
-- Apr 14 - [Many FBI agents are struggling to make ends meet. Housing costs are to blame](https://www.npr.org/2024/04/11/1243982287/fbi-agents-housing-costs)
-- Apr 14 - [The Guide to Stock Options Conversations](https://zaidesanton.substack.com/p/the-guide-to-stock-options-conversations)
-- Apr 14 - [Getting into way too much detail with the Z80 netlist simulation (2021)](https://floooh.github.io/2021/12/06/z80-instruction-timing.html#table-of-content)
-- Apr 14 - [Obituary for a Quiet Life](https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life)
+- Apr 14 - [Hidden dependencies in Linux binaries](http://thelittleengineerthatcould.blogspot.com/2024/04/hidden-dependencies-in-linux-binaries.html)
+- Apr 14 - [Interview with Senior JavaScript Developer 2024 [video]](https://www.youtube.com/watch?v=aWfYxg-Ypm4)
+- Apr 14 - [Hospitals that make profits should pay taxes](https://www.statnews.com/2024/04/14/nonprofit-hospitals-turn-profit-charity-care-tax-exempt-status/)
+- Apr 14 - [Top Europe court chides Switzerland in landmark climate ruling](https://phys.org/news/2024-04-europe-court-chides-switzerland-landmark.html)
+- Apr 14 - [Algae that can fix nitrogen – thanks to a tiny cell structure](https://www.nature.com/articles/d41586-024-01046-z)
 <!--END_SECTION:hn-->
 
 <!--
