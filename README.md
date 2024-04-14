@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 13 - [Summers: Inflation Reached 18% in 2022 Using the Government's Previous Formula](https://www.forbes.com/sites/theapothecary/2024/03/23/summers-inflation-reached-18-in-2022-using-the-governments-previous-formula/)
-- Apr 13 - [The darker side of being a doctor](https://drericlevi.substack.com/p/the-darker-side-of-being-a-doctor)
-- Apr 13 - [Why drivers risk tickets instead of parking in their garages](https://sfstandard.com/2024/04/13/parking-in-driveway-blocking-sidewalk-garage/)
-- Apr 13 - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
-- Apr 13 - [AI-Startup Launches Ever-Expanding Library of Free Stock Photos and Music](https://torrentfreak.com/ai-startup-launches-ever-expanding-library-of-free-stock-photos-and-music-240413/)
+- Apr 13 - [Super Mario 64's Invisible Walls Explained Once and for All](https://www.youtube.com/watch?v=YsXCVsDFiXA)
+- Apr 13 - [IC3PEAK – Marching [video]](https://www.youtube.com/watch?v=xqohApD6Ng8)
+- Apr 13 - [Debugging the little SSH that sometimes couldn't](http://beza1e1.tuxen.de/lore/little_ssh_couldnt.html)
+- Apr 13 - [Kerodon – an online resource for homotopy-coherent mathematics](https://kerodon.net/)
+- Apr 13 - [Who is hiring interns (April 2024)](https://news.ycombinator.com/item?id=40025783)
 <!--END_SECTION:hn-->
 
 <!--
