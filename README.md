@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 13 - [Super Mario 64's Invisible Walls Explained Once and for All](https://www.youtube.com/watch?v=YsXCVsDFiXA)
-- Apr 13 - [IC3PEAK – Marching [video]](https://www.youtube.com/watch?v=xqohApD6Ng8)
-- Apr 13 - [Debugging the little SSH that sometimes couldn't](http://beza1e1.tuxen.de/lore/little_ssh_couldnt.html)
-- Apr 13 - [Kerodon – an online resource for homotopy-coherent mathematics](https://kerodon.net/)
-- Apr 13 - [Who is hiring interns (April 2024)](https://news.ycombinator.com/item?id=40025783)
+- Apr 14 - [Making Truth Social Comply with the AGPL](https://boehs.org/node/truth-social)
+- Apr 14 - [1,800-year-old Roman statue discovered in parking lot](https://www.cnn.com/2024/03/19/style/roman-statue-parking-lot-intl-scn-scli/index.html)
+- Apr 14 - [Show HN: Comprehensive inter-process communication (IPC) toolkit in modern C++](https://github.com/Flow-IPC)
+- Apr 13 - [Dano is a wrapper for FFmpeg that checksums the internal file streams](https://github.com/kimono-koans/dano)
+- Apr 13 - [Super Mario 64's invisible walls explained [video]](https://www.youtube.com/watch?v=YsXCVsDFiXA)
 <!--END_SECTION:hn-->
 
 <!--
