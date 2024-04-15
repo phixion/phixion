@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 15 - [DMCA Notice Targeting 'Bypass Paywalls Clean' Isn't the Thing to Get Angry About](https://torrentfreak.com/dmca-targetting-bypass-paywalls-clean-isnt-what-people-should-be-angry-about-240414/)
-- Apr 15 - [Frank Zappa on Crossfire about censoring rock lyrics (1986) [video]](https://www.youtube.com/watch?v=B9856_xv8gc)
-- Apr 15 - [Construction on "the largest wildlife crossing" starts Monday](https://101wildlifecrossing.org/)
+- Apr 15 - [A shrub in Nepal supplies the raw material for the bank notes used in Japan](https://www.nytimes.com/2024/04/15/world/asia/nepal-japan-yen-argeli.html)
+- Apr 15 - [From L3 to seL4 what have we learnt in 20 years of L4 microkernels? [video]](https://www.youtube.com/watch?v=RdoaFc5-1Rk)
+- Apr 15 - [Sleep apnea: Mouthguards less invasive, just as effective as CPAP](https://newatlas.com/medical/sleep-apnea-mouthguard-cpap-blood-pressure/)
+- Apr 15 - [The Wallis Annenberg Wildlife Crossing](https://101wildlifecrossing.org/)
 - Apr 15 - [Thermoelectric Cooling](https://thermoelectricsolutions.com/how-thermoelectric-cooling-works/)
-- Apr 15 - [Computer-generated holography with ordinary display](https://opg.optica.org/ol/abstract.cfm?uri=ol-49-8-1876)
 <!--END_SECTION:hn-->
 
 <!--
