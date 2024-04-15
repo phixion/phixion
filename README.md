@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 14 - [U.S. Steel Shareholders Approve Sale to Japan's Nippon Steel](https://www.wsj.com/business/deals/u-s-steel-shareholders-approve-sale-to-japans-nippon-steel-3e1dec9e)
-- Apr 14 - [I did crack my screen once but it was on purpose](https://twitter.com/mitchellh/status/1779617537162178614)
+- Apr 15 - [Why is Montreal a stolen car export hub?](https://nationalpost.com/news/canada/why-is-montreal-a-stolen-car-export-hub-jurisdiction-limits-and-size-officials-say)
+- Apr 14 - [Visualizing Attention, a Transformer's Heart [video]](https://www.3blue1brown.com/lessons/attention)
+- Apr 14 - [Swatch Internet Time](https://en.wikipedia.org/wiki/Swatch_Internet_Time)
 - Apr 14 - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=40034480)
 - Apr 14 - [Senate Commerce Committee chair Maria Cantwell upended privacy bills for years](https://www.washingtonpost.com/technology/2024/04/13/congress-maria-cantwell-online-privacy/)
-- Apr 14 - [My cat alerted me to a DDoS attack](https://www.dannyguo.com/blog/my-cat-alerted-me-to-a-ddos-attack)
 <!--END_SECTION:hn-->
 
 <!--
