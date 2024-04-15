@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 15 - [Why is Montreal a stolen car export hub?](https://nationalpost.com/news/canada/why-is-montreal-a-stolen-car-export-hub-jurisdiction-limits-and-size-officials-say)
-- Apr 14 - [Visualizing Attention, a Transformer's Heart [video]](https://www.3blue1brown.com/lessons/attention)
-- Apr 14 - [Swatch Internet Time](https://en.wikipedia.org/wiki/Swatch_Internet_Time)
-- Apr 14 - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=40034480)
-- Apr 14 - [Senate Commerce Committee chair Maria Cantwell upended privacy bills for years](https://www.washingtonpost.com/technology/2024/04/13/congress-maria-cantwell-online-privacy/)
+- Apr 15 - [DMCA Notice Targeting 'Bypass Paywalls Clean' Isn't the Thing to Get Angry About](https://torrentfreak.com/dmca-targetting-bypass-paywalls-clean-isnt-what-people-should-be-angry-about-240414/)
+- Apr 15 - [Frank Zappa on Crossfire about censoring rock lyrics (1986) [video]](https://www.youtube.com/watch?v=B9856_xv8gc)
+- Apr 15 - [Construction on "the largest wildlife crossing" starts Monday](https://101wildlifecrossing.org/)
+- Apr 15 - [Thermoelectric Cooling](https://thermoelectricsolutions.com/how-thermoelectric-cooling-works/)
+- Apr 15 - [Computer-generated holography with ordinary display](https://opg.optica.org/ol/abstract.cfm?uri=ol-49-8-1876)
 <!--END_SECTION:hn-->
 
 <!--
