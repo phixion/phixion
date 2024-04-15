@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 15 - [US House approves FISA renewal – warrantless surveillance and all](https://www.theregister.com/2024/04/15/security_in_brief/)
-- Apr 15 - [Got tinnitus? A device that tickles the tongue helps this musician find relief](https://www.npr.org/sections/health-shots/2024/04/15/1244501055/tinnitus-hearing-loss-ringing-ear-noise)
-- Apr 15 - [Do we need to store all that telemetry?](https://mattklein123.dev/2024/04/10/do-you-need-to-store-that-telemetry/)
-- Apr 15 - [Deliberative Consensus Protocols](https://social-protocols.org/deliberative-consensus-protocols/)
-- Apr 15 - [Building a GPS receiver](https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/)
+- Apr 15 - [Open-Source Passive Radar Taken Down for Regulatory Reasons (2022)](https://hackaday.com/2022/11/19/open-source-passive-radar-taken-down-for-regulatory-reasons/)
+- Apr 15 - [PuTTY vulnerability vuln-p521-bias](https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html)
+- Apr 15 - [XZ Utils Review Notes](https://tukaani.org/xz-backdoor/review.html)
+- Apr 15 - [Judge halts Texas probe into Media Matters' reporting on X](https://arstechnica.com/tech-policy/2024/04/judge-halts-texas-probe-into-media-matters-reporting-on-x/)
+- Apr 15 - [Embezzlers Are Nice People (2017)](https://www.stimmel-law.com/en/articles/story-1-embezzlers-are-nice-people)
 <!--END_SECTION:hn-->
 
 <!--
