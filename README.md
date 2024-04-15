@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 15 - [A shrub in Nepal supplies the raw material for the bank notes used in Japan](https://www.nytimes.com/2024/04/15/world/asia/nepal-japan-yen-argeli.html)
-- Apr 15 - [From L3 to seL4 what have we learnt in 20 years of L4 microkernels? [video]](https://www.youtube.com/watch?v=RdoaFc5-1Rk)
-- Apr 15 - [Sleep apnea: Mouthguards less invasive, just as effective as CPAP](https://newatlas.com/medical/sleep-apnea-mouthguard-cpap-blood-pressure/)
-- Apr 15 - [The Wallis Annenberg Wildlife Crossing](https://101wildlifecrossing.org/)
-- Apr 15 - [Thermoelectric Cooling](https://thermoelectricsolutions.com/how-thermoelectric-cooling-works/)
+- Apr 15 - [Recall.ai (YC W20) Is Hiring Engineer #4 (Rust and Large Scale Infra)](https://www.workatastartup.com/jobs/63615)
+- Apr 15 - [Why No IPv6?](https://whynoipv6.com/)
+- Apr 15 - [EU data shows PHEVs emit 350% more CO2 than tested values](https://europe.autonews.com/environmentemissions/eu-data-shows-phevs-emit-350-more-co2-tested-values)
+- Apr 15 - [Python is Actually Portable (2022)](https://ahgamut.github.io/2021/07/13/ape-python/)
+- Apr 15 - [North Korea Hacked Him. So He Took Down Its Internet (2022)](https://www.wired.com/story/north-korea-hacker-internet-outage/)
 <!--END_SECTION:hn-->
 
 <!--
