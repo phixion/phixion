@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 16 - [US government’s reliance on Microsoft means the company gets a free pass](https://www.wired.com/story/the-us-government-has-a-microsoft-problem/)
-- Apr 16 - [Vaccine breakthrough means no more chasing strains](https://news.ucr.edu/articles/2024/04/15/vaccine-breakthrough-means-no-more-chasing-strains)
-- Apr 16 - [Efficient gas boiler with real-time data](https://emoncms.org/app/view?name=MyBoilerIdealLogicH24OpenthermSAT&readkey=1d29c637a4817acdf6e6e271850c9026)
-- Apr 16 - [Distributed Authorization](https://www.osohq.com/post/distributed-authorization)
-- Apr 16 - [The legal rule that computers are presumed to be operating correctly (2022) [pdf]](https://www.benthamsgaze.org/wp-content/uploads/2022/06/briefing-presumption-that-computers-are-reliable.pdf)
+- Apr 16 - [How the greatest MP3 player undid itself (2017)](https://arstechnica.com/information-technology/2017/07/winamp-how-greatest-mp3-player-undid-itself/)
+- Apr 16 - [Populist anger is 'a gift wrapped in barbed wire' (2016)](https://www.politico.eu/article/populism-is-a-gift-wrapped-in-barbed-wire-david-van-reybrouck/)
+- Apr 16 - [Judge refuses to Ctrl-Z divorce order made by a misclick](https://www.theregister.com/2024/04/16/accidental_divorce_computer_error/)
+- Apr 16 - [Difficulty levels of most European languages for Americans](https://www.atlasobscura.com/articles/language-difficulty-map)
+- Apr 16 - [Why Sweden abandoned its secret A-bomb project](https://www.bbc.com/future/article/20240412-the-secret-scandinavian-a-bomb-project)
 <!--END_SECTION:hn-->
 
 <!--
