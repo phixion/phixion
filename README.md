@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 16 - [California exceeds 100% of energy demand with renewables over a record 30 days](https://electrek.co/2024/04/15/renewables-met-100-percent-california-energy-demand-30-days/)
+- Apr 16 - [Psychiatric risks for worsened mental health after psychedelic use](https://journals.sagepub.com/doi/10.1177/02698811241232548)
 - Apr 16 - [Descent 3 Source Code](https://github.com/kevinbentley/Descent3)
 - Apr 16 - [A curious phenomenon called 'Etak'](https://maphappenings.com/2024/04/11/story-of-etak/)
-- Apr 16 - [Seismologists suspect earthquake on San Andreas Fault is imminent, despite attn](https://phys.org/news/2024-04-seismologists-earthquake-san-andreas-fault.html)
 - Apr 16 - [HonoJS: Small, simple, and ultrafast web framework for the Edges](https://github.com/honojs/hono)
-- Apr 16 - [Object that slammed into Florida home was space junk for ISS, NASA confirms](https://www.space.com/object-crash-florida-home-iss-space-junk-nasa-confirms)
 <!--END_SECTION:hn-->
 
 <!--
