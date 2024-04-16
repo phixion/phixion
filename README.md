@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 15 - [Open-Source Passive Radar Taken Down for Regulatory Reasons (2022)](https://hackaday.com/2022/11/19/open-source-passive-radar-taken-down-for-regulatory-reasons/)
-- Apr 15 - [PuTTY vulnerability vuln-p521-bias](https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html)
-- Apr 15 - [XZ Utils Review Notes](https://tukaani.org/xz-backdoor/review.html)
-- Apr 15 - [Judge halts Texas probe into Media Matters' reporting on X](https://arstechnica.com/tech-policy/2024/04/judge-halts-texas-probe-into-media-matters-reporting-on-x/)
-- Apr 15 - [Embezzlers Are Nice People (2017)](https://www.stimmel-law.com/en/articles/story-1-embezzlers-are-nice-people)
+- Apr 15 - [Show HN: Render audio waveforms to HTML canvas using WebGPU](https://news.ycombinator.com/item?id=40046774)
+- Apr 15 - [Ask HN: How do you track copy changes on websites/emails?](https://news.ycombinator.com/item?id=40046670)
+- Apr 15 - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- Apr 15 - [Nathan Tolbert pushes the limitations of new games on old consoles](https://www.smilepolitely.com/culture/nathan-tolbert-pushes-the-limitations-of-new-games-on-old-consoles/)
+- Apr 15 - [Geometers Engineer New Tools to Wrangle Spacecraft Orbits](https://www.quantamagazine.org/geometers-engineer-new-tools-to-wrangle-spacecraft-orbits-20240415/)
 <!--END_SECTION:hn-->
 
 <!--
