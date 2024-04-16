@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 16 - [California exceeds 100% of energy demand with renewables over a record 30 days](https://electrek.co/2024/04/15/renewables-met-100-percent-california-energy-demand-30-days/)
-- Apr 16 - [Psychiatric risks for worsened mental health after psychedelic use](https://journals.sagepub.com/doi/10.1177/02698811241232548)
-- Apr 16 - [Descent 3 Source Code](https://github.com/kevinbentley/Descent3)
-- Apr 16 - [A curious phenomenon called 'Etak'](https://maphappenings.com/2024/04/11/story-of-etak/)
-- Apr 16 - [HonoJS: Small, simple, and ultrafast web framework for the Edges](https://github.com/honojs/hono)
+- Apr 16 - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers#section-job)
+- Apr 16 - [Thoughts on low latency trading if exchanges went full cloud](https://blog.abctaylor.com/what-would-happen-to-low-latency-trading-if-exchanges-moved-to-the-cloud/)
+- Apr 16 - [AI cloud startup TensorWave bets AMD can beat Nvidia](https://www.theregister.com/2024/04/16/amd_tensorwave_mi300x/)
+- Apr 16 - [Show HN: a Rust based CLI tool 'imgcatr' for displaying images](https://github.com/SilinMeng0510/imgcatr)
+- Apr 16 - [Astronomers discover Milky Way's biggest stellar black hole–33 times size of sun](https://www.theguardian.com/science/2024/apr/16/astronomers-discover-milky-way-biggest-stellar-black-hole-bh3-33-times-size-of-sun)
 <!--END_SECTION:hn-->
 
 <!--
