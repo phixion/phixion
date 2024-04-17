@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 16 - [The US reauthorizing and expanding its surveillance laws](https://www.theguardian.com/us-news/2024/apr/16/house-fisa-government-surveillance-senate)
-- Apr 16 - [Tell HN: We should snapshot a mostly AI output free version of the web](https://news.ycombinator.com/item?id=40058399)
-- Apr 16 - [Tvix – A New Implementation of Nix](https://tvix.dev/)
-- Apr 16 - [Amazon is filled with garbage e-books, this is how they get made](https://www.vox.com/culture/24128560/amazon-trash-ebooks-mikkelsen-twins-ai-publishing-academy-scam)
-- Apr 16 - [Spellbrush (YC W18) hiring an anime-loving distributed systems engineer; Tokyo/SF](https://twitter.com/Cixelyn/status/1780320068817322381)
+- Apr 17 - [Ten years of improvements in PostgreSQL's optimizer](https://rmarcus.info/blog/2024/04/12/pg-over-time.html)
+- Apr 17 - [MKBHDs for Everything](https://stratechery.com/2024/mkbhds-for-everything/)
+- Apr 17 - [Tax consequences of WIN95 team members keeping a piece of software for testing](https://devblogs.microsoft.com/oldnewthing/20240415-47/?p=109663)
+- Apr 17 - [I Nearly Died Drowning. Here's What It's Like to Survive](https://longreads.com/2024/04/02/i-nearly-died-drowning-maggie-slepian/)
+- Apr 16 - [Use Your Potions and Scrolls](https://jerry.wtf/posts/use-your-potions/)
 <!--END_SECTION:hn-->
 
 <!--
