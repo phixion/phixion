@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 17 - [Finley (YC W21) is hiring for capital markets innovators (US remote)](https://www.finleycms.com/careers/)
-- Apr 17 - [I can't use my number pad for 2FA codes](https://shkspr.mobi/blog/2024/04/i-cant-use-my-number-pad-for-2fa-codes/)
-- Apr 17 - [ChatControl: EU ministers want to exempt themselves](https://european-pirateparty.eu/chatcontrol-eu-ministers-want-to-exempt-themselves/)
-- Apr 17 - [Show HN: Open Source TailwindCSS UI Components](https://github.com/EasyFrontend-com/html-tailwindcss-components)
-- Apr 17 - [NetBSD 10: Proper old-school Unix, not like those lazy, decadent Linux types](https://www.theregister.com/2024/04/17/30yo_netbsd_releases_v10/)
+- Apr 17 - [McNamara Fallacy](https://en.wikipedia.org/wiki/McNamara_fallacy)
+- Apr 17 - [US FAA issues ground stop advisory for Alaska Airlines](https://www.reuters.com/business/aerospace-defense/us-faa-issues-ground-stop-advisory-alaska-airlines-2024-04-17/)
+- Apr 17 - [Future of Humanity Institute shuts down](https://www.futureofhumanityinstitute.org)
+- Apr 17 - [The biggest source of waste is untapped skilled pragmatists](https://cutlefish.substack.com/p/tbm-271-the-biggest-untapped-opportunity)
+- Apr 17 - [Stable Diffusion 3 API Now Available](https://stability.ai/news/stable-diffusion-3-api)
 <!--END_SECTION:hn-->
 
 <!--
