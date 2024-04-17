@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 17 - [Covid infections are causing IQ drops and years of brain aging, studies suggest](https://www.cbc.ca/radio/quirks/long-covid-brain-1.7171918)
+- Apr 17 - [Tailscale SSH is now Generally Available](https://tailscale.com/blog/tailscale-ssh-ga)
+- Apr 17 - [The success of EVs is massively underreported](https://www.evuniverse.io/p/evsales2023)
+- Apr 17 - [Caching secrets of the HTTP elders, part 1](https://csvbase.com/blog/8)
 - Apr 17 - [Ten years of improvements in PostgreSQL's optimizer](https://rmarcus.info/blog/2024/04/12/pg-over-time.html)
-- Apr 17 - [MKBHDs for Everything](https://stratechery.com/2024/mkbhds-for-everything/)
-- Apr 17 - [Tax consequences of WIN95 team members keeping a piece of software for testing](https://devblogs.microsoft.com/oldnewthing/20240415-47/?p=109663)
-- Apr 17 - [I Nearly Died Drowning. Here's What It's Like to Survive](https://longreads.com/2024/04/02/i-nearly-died-drowning-maggie-slepian/)
-- Apr 16 - [Use Your Potions and Scrolls](https://jerry.wtf/posts/use-your-potions/)
 <!--END_SECTION:hn-->
 
 <!--
