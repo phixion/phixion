@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 17 - [McNamara Fallacy](https://en.wikipedia.org/wiki/McNamara_fallacy)
-- Apr 17 - [US FAA issues ground stop advisory for Alaska Airlines](https://www.reuters.com/business/aerospace-defense/us-faa-issues-ground-stop-advisory-alaska-airlines-2024-04-17/)
-- Apr 17 - [Future of Humanity Institute shuts down](https://www.futureofhumanityinstitute.org)
-- Apr 17 - [The biggest source of waste is untapped skilled pragmatists](https://cutlefish.substack.com/p/tbm-271-the-biggest-untapped-opportunity)
-- Apr 17 - [Stable Diffusion 3 API Now Available](https://stability.ai/news/stable-diffusion-3-api)
+- Apr 17 - [How Antithesis finds bugs](https://antithesis.com/blog/sdtalk/)
+- Apr 17 - [Collapse of Self-Trained Language Models](https://arxiv.org/abs/2404.02305)
+- Apr 17 - [Show HN: Speeding up LLM inference 2x times (possibly)](https://asciinema.org/a/piP22yYwcaohu5cA2gyuv1W61)
+- Apr 17 - [Reddit is taking over Google](https://www.businessinsider.com/why-reddit-is-taking-over-google-right-now-2024-4)
+- Apr 17 - [AltStore PAL, the first alternative app marketplace on iPhone, is available now](https://mastodon.social/@stroughtonsmith/112287515017810339)
 <!--END_SECTION:hn-->
 
 <!--
