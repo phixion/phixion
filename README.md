@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 18 - [Meta Llama 3](https://llama.meta.com/llama3/)
-- Apr 18 - [OpenMCT: A web based mission control framework](https://github.com/nasa/openmct)
-- Apr 18 - [Chinchilla Scaling: A Replication Attempt](https://arxiv.org/abs/2404.10102)
-- Apr 18 - [Employers feel the side effects of drugmaker control over Wegovy, Ozempic costs](https://www.politico.com/news/2024/04/18/employers-drugmakers-weight-loss-drug-costs-00152927)
-- Apr 18 - [Hermit is a hermetic and reproducible sandbox for running programs](https://github.com/facebookexperimental/hermit)
+- Apr 18 - [Meta and Lavender](https://blog.paulbiggar.com/meta-and-lavender/)
+- Apr 18 - [Cloudflare CEO bought a newspaper to change reporting about his new house plans](https://www.bloomberg.com/news/articles/2024-04-17/cloudflare-billionaire-matthew-prince-fights-utah-locals-over-house-dogs-wall)
+- Apr 18 - [Insatiable: A Life Without Eating](https://longreads.com/2024/04/18/crohns-life-without-eating/)
+- Apr 18 - [El Prado Museum in Unprecedented Detail with New 360º Gigapixel Virtual Tour](https://www.museodelprado.es/visita-virtual-coleccion-2023)
+- Apr 18 - [R3dfox: A fork of Firefox made specifically for Windows 7 and 8 compatibility](https://github.com/Eclipse-Community/r3dfox)
 <!--END_SECTION:hn-->
 
 <!--
