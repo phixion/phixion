@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 17 - [How Antithesis finds bugs](https://antithesis.com/blog/sdtalk/)
-- Apr 17 - [Collapse of Self-Trained Language Models](https://arxiv.org/abs/2404.02305)
-- Apr 17 - [Show HN: Speeding up LLM inference 2x times (possibly)](https://asciinema.org/a/piP22yYwcaohu5cA2gyuv1W61)
-- Apr 17 - [Reddit is taking over Google](https://www.businessinsider.com/why-reddit-is-taking-over-google-right-now-2024-4)
-- Apr 17 - [AltStore PAL, the first alternative app marketplace on iPhone, is available now](https://mastodon.social/@stroughtonsmith/112287515017810339)
+- Apr 17 - [Show HN: A no-watermark video downloader for Any social media](https://www.fastdownload.io/)
+- Apr 17 - [Svix (YC W21) Is Hiring a Tech Lead (US Remote)](https://www.svix.com/careers/)
+- Apr 17 - [Flying Aircraft Carriers (2019)](https://neverwasmag.com/2019/08/flying-aircraft-carriers/)
+- Apr 17 - [Hardest Problem in Computer Science: Centering Things](https://tonsky.me/blog/centering/)
+- Apr 17 - [Cyc: History's Forgotten AI Project](https://outsiderart.substack.com/p/cyc-historys-forgotten-ai-project)
 <!--END_SECTION:hn-->
 
 <!--
