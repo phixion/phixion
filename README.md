@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 17 - [Show HN: A no-watermark video downloader for Any social media](https://www.fastdownload.io/)
-- Apr 17 - [Svix (YC W21) Is Hiring a Tech Lead (US Remote)](https://www.svix.com/careers/)
-- Apr 17 - [Flying Aircraft Carriers (2019)](https://neverwasmag.com/2019/08/flying-aircraft-carriers/)
-- Apr 17 - [Hardest Problem in Computer Science: Centering Things](https://tonsky.me/blog/centering/)
-- Apr 17 - [Cyc: History's Forgotten AI Project](https://outsiderart.substack.com/p/cyc-historys-forgotten-ai-project)
+- Apr 18 - [Goldene: A single atom layer of gold](https://liu.se/en/news-item/ett-atomlager-guld-liu-forskare-skapar-gulden)
+- Apr 18 - [Implementing Natural Conversational Agents with Elixir](https://seanmoriarity.com/2024/02/25/implementing-natural-conversational-agents-with-elixir/)
+- Apr 18 - [Short Stack: World’s smallest Nintendo Wii](https://github.com/loopj/short-stack)
+- Apr 18 - [How Perfectly Can Reality Be Simulated?](https://www.newyorker.com/magazine/2024/04/22/can-the-world-be-simulated)
+- Apr 18 - [Human hair transformed into renewable energy storage](https://news.csu.edu.au/latest-news/breaking-research-human-hair-transformed-into-renewable-energy-storage)
 <!--END_SECTION:hn-->
 
 <!--
