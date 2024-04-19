@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 18 - [Meta and Lavender](https://blog.paulbiggar.com/meta-and-lavender/)
-- Apr 18 - [Cloudflare CEO bought a newspaper to change reporting about his new house plans](https://www.bloomberg.com/news/articles/2024-04-17/cloudflare-billionaire-matthew-prince-fights-utah-locals-over-house-dogs-wall)
-- Apr 18 - [Insatiable: A Life Without Eating](https://longreads.com/2024/04/18/crohns-life-without-eating/)
-- Apr 18 - [El Prado Museum in Unprecedented Detail with New 360º Gigapixel Virtual Tour](https://www.museodelprado.es/visita-virtual-coleccion-2023)
-- Apr 18 - [R3dfox: A fork of Firefox made specifically for Windows 7 and 8 compatibility](https://github.com/Eclipse-Community/r3dfox)
+- Apr 18 - [Women Who Code Closing](https://womenwhocode.com/blog/the-end-of-an-era-women-who-code-closing)
+- Apr 18 - [Calculus Made Easy](https://calculusmadeeasy.org/prologue.html)
+- Apr 18 - [The Rust Calling Convention We Deserve](https://mcyoung.xyz/2024/04/17/calling-convention/)
+- Apr 18 - [Dickey Betts, hit-crafting mainstay of Allman Brothers Band, dies at 80](https://www.washingtonpost.com/obituaries/2024/04/18/dickey-betts-allman-brothers-dead/)
+- Apr 18 - [Long Reviled as 'Ugly,' Sea Lampreys Get Some Respect (2023)](https://e360.yale.edu/features/sea-lampreys-pacific-lampreys-american-rivers-dams)
 <!--END_SECTION:hn-->
 
 <!--
