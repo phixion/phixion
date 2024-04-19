@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 19 - [Daniel Dennett (1942-2024)](https://dailynous.com/2024/04/19/daniel-dennett-death-1942-2024/)
-- Apr 19 - [Presence and collection of DNA from air and air conditioner units](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/elps.202300227)
-- Apr 19 - [Add Depth of Field to Screenshots](https://www.blurmatic.com/)
-- Apr 19 - [3rd Edition of Programming: Principles and Practice Using C++ by Stroustrup](https://www.stroustrup.com/programming.html)
-- Apr 19 - [DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat)
+- Apr 19 - [Why single vendor is the new proprietary](https://opensource.net/why-single-vendor-is-the-new-proprietary/)
+- Apr 19 - [Multipath TCP for Linux (2022)](https://www.mptcp.dev/)
+- Apr 19 - [Quill v2 – Rich text editor](https://quilljs.com/)
+- Apr 19 - [Does light itself have an infinite lifetime?](https://bigthink.com/starts-with-a-bang/light-infinite-lifetime/)
+- Apr 19 - [Paces (YC S22, Climate and AI) Is Hiring Engineers in NYC](https://news.ycombinator.com/item?id=40089234)
 <!--END_SECTION:hn-->
 
 <!--
