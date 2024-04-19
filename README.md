@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 18 - [Women Who Code Closing](https://womenwhocode.com/blog/the-end-of-an-era-women-who-code-closing)
-- Apr 18 - [Calculus Made Easy](https://calculusmadeeasy.org/prologue.html)
-- Apr 18 - [The Rust Calling Convention We Deserve](https://mcyoung.xyz/2024/04/17/calling-convention/)
-- Apr 18 - [Dickey Betts, hit-crafting mainstay of Allman Brothers Band, dies at 80](https://www.washingtonpost.com/obituaries/2024/04/18/dickey-betts-allman-brothers-dead/)
-- Apr 18 - [Long Reviled as 'Ugly,' Sea Lampreys Get Some Respect (2023)](https://e360.yale.edu/features/sea-lampreys-pacific-lampreys-american-rivers-dams)
+- Apr 19 - [Finetune Llama-3 2x faster in a Colab notebook](https://colab.research.google.com/drive/135ced7oHytdxu3N2DNe1Z0kqjyYIkDXp?usp=sharing)
+- Apr 19 - [I Used Netscape Composer in 2024](https://plbrault.com/blog-posts/i-used-netscape-composer-in-2024-en/)
+- Apr 19 - [O1 Visa Hacks for Founders](https://extraordinaryaliens.substack.com/p/o1-visa-hacks-for-founders)
+- Apr 19 - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=40082424)
+- Apr 19 - [SeaMonkey All-in-One Internet Application Suite](https://www.seamonkey-project.org)
 <!--END_SECTION:hn-->
 
 <!--
