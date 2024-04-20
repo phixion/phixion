@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 20 - [Cosmic rays streamed through Earth's atmosphere 41,000 years ago](https://phys.org/news/2024-04-cosmic-rays-streamed-earth-atmosphere.html)
-- Apr 20 - [Wikipedia Has Cancer](https://en.wikipedia.org/wiki/User:Guy_Macon/Wikipedia_has_Cancer)
-- Apr 20 - [Git Bisect-Find](https://kevincox.ca/2024/05/19/git-bisect-find/)
-- Apr 20 - [Magnesium Depletion Score and Metabolic Syndrome in US Adults](https://academic.oup.com/jcem/advance-article/doi/10.1210/clinem/dgae075/7608307)
+- Apr 20 - [Thousands protest against Canary islands' 'unsustainable' tourism model](https://www.theguardian.com/world/2024/apr/20/thousands-protest-canary-islands-unsustainable-tourism)
+- Apr 20 - [On Terry A. Davis](https://schizophrenic.io/blog/on-terry-a-davis)
+- Apr 20 - [The seven secrets of computer power [pdf]](https://www.ece.iastate.edu/~alexs/classes/2023_Fall_281/readings/Register-Machines.pdf)
+- Apr 20 - [Cosmic rays streamed through Earth's atmosphere 41k years ago](https://phys.org/news/2024-04-cosmic-rays-streamed-earth-atmosphere.html)
 - Apr 20 - [Two hunters from the same lodge afflicted with sporadic CJD: is CWD to blame?](https://www.neurology.org/doi/10.1212/WNL.0000000000204407)
 <!--END_SECTION:hn-->
 
