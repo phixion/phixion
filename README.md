@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 20 - [Employers and job candidates are dueling with AI in the hiring process](https://sherwood.news/culture/employers-and-job-candidates-are-using-ai-in-the-hiring-process/)
-- Apr 20 - [U-M finds students with alphabetically lower-ranked names receive lower grades](https://record.umich.edu/articles/study-alphabetical-order-of-surnames-may-affect-grading/)
-- Apr 20 - [Tesla Cybertruck turns into most expensive brick after car wash](https://www.theregister.com/2024/04/20/cybertruck_car_wash_mode/)
-- Apr 20 - [Debugging the Doctor Brain: Who's teaching doctors how to think?](https://bessstillman.substack.com/p/debugging-the-doctor-brain)
-- Apr 20 - [Resend (YC W23) Is Hiring DevOps Engineers (Remote)](https://resend.com/careers/devops-engineer)
+- Apr 20 - [Hilary Cass: I can't travel on public transport after gender report](https://www.thetimes.co.uk/article/hilary-cass-i-cant-travel-on-public-transport-any-more-35pt0mvnh)
+- Apr 20 - [Why We're Doing This](https://www.flickr.org/why-were-doing-this/)
+- Apr 20 - [AltStore. The first Apple approved alternative App Store](https://altstore.io/#Downloads)
+- Apr 20 - [Ask HN: Please recommend how to manage personal serverss](https://news.ycombinator.com/item?id=40099933)
+- Apr 20 - [HelloKitty ransomware rebrands, releases CD Projekt and Cisco data](https://www.bleepingcomputer.com/news/security/hellokitty-ransomware-rebrands-releases-cd-projekt-and-cisco-data/)
 <!--END_SECTION:hn-->
 
 <!--
