@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 20 - [Employers and job candidates are dueling with AI in the hiring process](https://sherwood.news/culture/employers-and-job-candidates-are-using-ai-in-the-hiring-process/)
+- Apr 20 - [U-M finds students with alphabetically lower-ranked names receive lower grades](https://record.umich.edu/articles/study-alphabetical-order-of-surnames-may-affect-grading/)
+- Apr 20 - [Tesla Cybertruck turns into most expensive brick after car wash](https://www.theregister.com/2024/04/20/cybertruck_car_wash_mode/)
+- Apr 20 - [Debugging the Doctor Brain: Who's teaching doctors how to think?](https://bessstillman.substack.com/p/debugging-the-doctor-brain)
 - Apr 20 - [Resend (YC W23) Is Hiring DevOps Engineers (Remote)](https://resend.com/careers/devops-engineer)
-- Apr 20 - [Llama3 is the first open model that can also win text adventures](https://github.com/s-macke/AdventureAI)
-- Apr 20 - [What is screen time doing to children?](https://www.economist.com/science-and-technology/2024/04/17/what-is-screen-time-doing-to-children)
-- Apr 20 - [MuPDF WASM Viewer Demo](https://mupdf.com/wasm/demo/index.html?file=../../docs/mupdf_explored.pdf)
-- Apr 20 - [Ceefax Simulator](https://www.nathanmediaservices.co.uk/ceefax/)
 <!--END_SECTION:hn-->
 
 <!--
