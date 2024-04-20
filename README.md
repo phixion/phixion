@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 20 - [Thousands protest against Canary islands' 'unsustainable' tourism model](https://www.theguardian.com/world/2024/apr/20/thousands-protest-canary-islands-unsustainable-tourism)
-- Apr 20 - [On Terry A. Davis](https://schizophrenic.io/blog/on-terry-a-davis)
-- Apr 20 - [The seven secrets of computer power [pdf]](https://www.ece.iastate.edu/~alexs/classes/2023_Fall_281/readings/Register-Machines.pdf)
-- Apr 20 - [Cosmic rays streamed through Earth's atmosphere 41k years ago](https://phys.org/news/2024-04-cosmic-rays-streamed-earth-atmosphere.html)
-- Apr 20 - [Two hunters from the same lodge afflicted with sporadic CJD: is CWD to blame?](https://www.neurology.org/doi/10.1212/WNL.0000000000204407)
+- Apr 20 - [Resend (YC W23) Is Hiring DevOps Engineers (Remote)](https://resend.com/careers/devops-engineer)
+- Apr 20 - [Llama3 is the first open model that can also win text adventures](https://github.com/s-macke/AdventureAI)
+- Apr 20 - [What is screen time doing to children?](https://www.economist.com/science-and-technology/2024/04/17/what-is-screen-time-doing-to-children)
+- Apr 20 - [MuPDF WASM Viewer Demo](https://mupdf.com/wasm/demo/index.html?file=../../docs/mupdf_explored.pdf)
+- Apr 20 - [Ceefax Simulator](https://www.nathanmediaservices.co.uk/ceefax/)
 <!--END_SECTION:hn-->
 
 <!--
