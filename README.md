@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 20 - [Hilary Cass: I can't travel on public transport after gender report](https://www.thetimes.co.uk/article/hilary-cass-i-cant-travel-on-public-transport-any-more-35pt0mvnh)
-- Apr 20 - [Why We're Doing This](https://www.flickr.org/why-were-doing-this/)
-- Apr 20 - [AltStore. The first Apple approved alternative App Store](https://altstore.io/#Downloads)
-- Apr 20 - [Ask HN: Please recommend how to manage personal serverss](https://news.ycombinator.com/item?id=40099933)
-- Apr 20 - [HelloKitty ransomware rebrands, releases CD Projekt and Cisco data](https://www.bleepingcomputer.com/news/security/hellokitty-ransomware-rebrands-releases-cd-projekt-and-cisco-data/)
+- Apr 20 - [Depression Rates by Country 2024](https://worldpopulationreview.com/country-rankings/depression-rates-by-country)
+- Apr 20 - [A Trivial Llama 3 Jailbreak](https://github.com/haizelabs/llama3-jailbreak)
+- Apr 20 - [I bought 300 emoji domain names from Kazakhstan and built an email service](https://tinyprojects.dev/projects/mailoji)
+- Apr 20 - [How taboo is that question? (by 507 representative Americans)](https://openpsych.net/paper/77/)
+- Apr 20 - [GPT-4 can exploit vulnerabilities by reading CVEs](https://www.theregister.com/2024/04/17/gpt4_can_exploit_real_vulnerabilities/)
 <!--END_SECTION:hn-->
 
 <!--
