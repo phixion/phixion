@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 21 - [Tiny World Map](https://github.com/tinyworldmap/tiny-world-map)
-- Apr 21 - [Do insects have an inner life? Animal consciousness needs a rethink](https://www.nature.com/articles/d41586-024-01144-y)
-- Apr 21 - [Ask HN: Is iCloud a viable alternative to Dropbox? Any other alternatives?](https://news.ycombinator.com/item?id=40104547)
-- Apr 21 - [Alan Kay: principles for funding and organizing breakthrough research](https://twitter.com/geoffreylitt/status/1781714112109572520/)
-- Apr 21 - [Lunatik: Lunatik is a framework for scripting the Linux kernel with Lua](https://github.com/luainkernel/lunatik)
+- Apr 21 - [Microsoft is a national security threat: ex-White House cyber policy director](https://www.theregister.com/2024/04/21/microsoft_national_security_risk/)
+- Apr 21 - [The Design of Everyday APIs (2022)](https://www.roguelynn.com/talks/everyday-apis/)
+- Apr 21 - [All Fritz Box modems have been hijacked](https://crapts.org/2024/04/21/all-fritz-box-modems-have-been-hijacked/)
+- Apr 21 - [I can't stand using VSCode so I wrote my own](https://bold-edit.com/wrote-my-own.html)
+- Apr 21 - [Intermediate Activations – The Forward Hook](https://web.stanford.edu/~nanbhas/blog/forward-hooks-pytorch/)
 <!--END_SECTION:hn-->
 
 <!--
