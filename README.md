@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 20 - [Depression Rates by Country 2024](https://worldpopulationreview.com/country-rankings/depression-rates-by-country)
-- Apr 20 - [A Trivial Llama 3 Jailbreak](https://github.com/haizelabs/llama3-jailbreak)
-- Apr 20 - [I bought 300 emoji domain names from Kazakhstan and built an email service](https://tinyprojects.dev/projects/mailoji)
-- Apr 20 - [How taboo is that question? (by 507 representative Americans)](https://openpsych.net/paper/77/)
-- Apr 20 - [GPT-4 can exploit vulnerabilities by reading CVEs](https://www.theregister.com/2024/04/17/gpt4_can_exploit_real_vulnerabilities/)
+- Apr 21 - [Racket Language](https://racket-lang.org/)
+- Apr 21 - [Influential women's tech network shuts down unexpectedly](https://www.bbc.com/news/articles/cw0769446nyo)
+- Apr 21 - [Pharmaceutical giant Bayer is getting rid of bosses](https://fortune.com/europe/2024/04/11/pharmaceutical-giant-bayer-ceo-bill-anderson-rid-bosses-staff-self-organize-save-2-billion/)
+- Apr 21 - [You might not want to use your fingertip to unlock your phone](https://reason.com/2024/04/19/appeals-court-rules-that-cops-can-physically-make-you-unlock-your-phone/)
+- Apr 21 - [Rust for JavaScript Developers (2019)](https://www.codegram.com/blog/rust-for-js-developers/)
 <!--END_SECTION:hn-->
 
 <!--
