@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 21 - [Programming Is Mostly Thinking](http://agileotter.blogspot.com/2014/09/programming-is-mostly-thinking.html)
-- Apr 21 - [Dataflow Analyses and Compiler Optimizations That Use Them, for Free](https://blog.regehr.org/archives/2578)
-- Apr 21 - [Glibc Buffer Overflow in Iconv](https://www.openwall.com/lists/oss-security/2024/04/18/4)
-- Apr 21 - [Racket Language](https://racket-lang.org/)
-- Apr 21 - [The Psychology of Getting High–A Lot](https://nautil.us/the-psychology-of-getting-high-a-lot-548541/)
+- Apr 21 - [Tiny World Map](https://github.com/tinyworldmap/tiny-world-map)
+- Apr 21 - [Do insects have an inner life? Animal consciousness needs a rethink](https://www.nature.com/articles/d41586-024-01144-y)
+- Apr 21 - [Ask HN: Is iCloud a viable alternative to Dropbox? Any other alternatives?](https://news.ycombinator.com/item?id=40104547)
+- Apr 21 - [Alan Kay: principles for funding and organizing breakthrough research](https://twitter.com/geoffreylitt/status/1781714112109572520/)
+- Apr 21 - [Lunatik: Lunatik is a framework for scripting the Linux kernel with Lua](https://github.com/luainkernel/lunatik)
 <!--END_SECTION:hn-->
 
 <!--
