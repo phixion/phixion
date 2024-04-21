@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 21 - [Microsoft is a national security threat: ex-White House cyber policy director](https://www.theregister.com/2024/04/21/microsoft_national_security_risk/)
-- Apr 21 - [The Design of Everyday APIs (2022)](https://www.roguelynn.com/talks/everyday-apis/)
-- Apr 21 - [All Fritz Box modems have been hijacked](https://crapts.org/2024/04/21/all-fritz-box-modems-have-been-hijacked/)
-- Apr 21 - [I can't stand using VSCode so I wrote my own](https://bold-edit.com/wrote-my-own.html)
-- Apr 21 - [Intermediate Activations – The Forward Hook](https://web.stanford.edu/~nanbhas/blog/forward-hooks-pytorch/)
+- Apr 21 - [The Fading Memories of Youth](https://www.science.org/content/article/are-your-earliest-childhood-memories-still-lurking-your-mind-or-gone-forever)
+- Apr 21 - [California Electricity Mix Live Dashboard](https://www.gridstatus.io/live/caiso)
+- Apr 21 - [Lossless Acceleration of LLM via Adaptive N-Gram Parallel Decoding](https://arxiv.org/abs/2404.08698)
+- Apr 21 - [Understanding What Matters for LLM Ingestion and Preprocessing](https://unstructured.io/blog/understanding-what-matters-for-llm-ingestion-and-preprocessing)
+- Apr 21 - [Simon Tatham's Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
 <!--END_SECTION:hn-->
 
 <!--
