@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 21 - [Programming Is Mostly Thinking](http://agileotter.blogspot.com/2014/09/programming-is-mostly-thinking.html)
+- Apr 21 - [Dataflow Analyses and Compiler Optimizations That Use Them, for Free](https://blog.regehr.org/archives/2578)
+- Apr 21 - [Glibc Buffer Overflow in Iconv](https://www.openwall.com/lists/oss-security/2024/04/18/4)
 - Apr 21 - [Racket Language](https://racket-lang.org/)
-- Apr 21 - [Influential women's tech network shuts down unexpectedly](https://www.bbc.com/news/articles/cw0769446nyo)
-- Apr 21 - [Pharmaceutical giant Bayer is getting rid of bosses](https://fortune.com/europe/2024/04/11/pharmaceutical-giant-bayer-ceo-bill-anderson-rid-bosses-staff-self-organize-save-2-billion/)
-- Apr 21 - [You might not want to use your fingertip to unlock your phone](https://reason.com/2024/04/19/appeals-court-rules-that-cops-can-physically-make-you-unlock-your-phone/)
-- Apr 21 - [Rust for JavaScript Developers (2019)](https://www.codegram.com/blog/rust-for-js-developers/)
+- Apr 21 - [The Psychology of Getting High–A Lot](https://nautil.us/the-psychology-of-getting-high-a-lot-548541/)
 <!--END_SECTION:hn-->
 
 <!--
