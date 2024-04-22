@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 21 - [The Fading Memories of Youth](https://www.science.org/content/article/are-your-earliest-childhood-memories-still-lurking-your-mind-or-gone-forever)
-- Apr 21 - [California Electricity Mix Live Dashboard](https://www.gridstatus.io/live/caiso)
+- Apr 21 - [StreetComplete OSM Contribution App Begins iOS Port](https://gonzoknows.com/posts/streetcomplete-osm-contribution-app-begins-ios-port/)
+- Apr 21 - [Scientists Warn Gulf Stream Slowdown Could Begin as Early as 2025](https://oilprice.com/The-Environment/Global-Warming/Scientists-Warn-Gulf-Stream-Slowdown-Could-Begin-as-Early-as-2025.html)
+- Apr 21 - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 - Apr 21 - [Lossless Acceleration of LLM via Adaptive N-Gram Parallel Decoding](https://arxiv.org/abs/2404.08698)
 - Apr 21 - [Understanding What Matters for LLM Ingestion and Preprocessing](https://unstructured.io/blog/understanding-what-matters-for-llm-ingestion-and-preprocessing)
-- Apr 21 - [Simon Tatham's Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
 <!--END_SECTION:hn-->
 
 <!--
