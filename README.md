@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Apr 22 - [T2 - 85,894 breached accounts](https://haveibeenpwned.com/PwnedWebsites#T2)
 - Apr 18 - [Le Slip Français - 1,495,127 breached accounts](https://haveibeenpwned.com/PwnedWebsites#LeSlipFrancais)
 - Apr 12 - [Giant Tiger - 2,842,669 breached accounts](https://haveibeenpwned.com/PwnedWebsites#GiantTiger)
 - Apr 10 - [Salvadoran Citizens - 946,989 breached accounts](https://haveibeenpwned.com/PwnedWebsites#SalvadoranCitizens)
 - Apr 09 - [Kaspersky Club - 55,971 breached accounts](https://haveibeenpwned.com/PwnedWebsites#KasperskyClub)
-- Apr 08 - [boAt - 7,528,985 breached accounts](https://haveibeenpwned.com/PwnedWebsites#boAt)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 22 - [Bitmovin (YC S15) Is Hiring Software Engineers in Austria](https://bitmovin.com/careers)
+- Apr 22 - [Inside the Super Nintendo cartridges](https://fabiensanglard.net/snes_carts/index.html)
+- Apr 22 - [Ruby vs. Python comes down to the for loop (2021)](https://softwaredoug.com/blog/2021/11/12/ruby-vs-python-for-loop.html)
+- Apr 22 - [A flat map with the least error possible: The Gott-Goldberg-Vanderbei projection](https://vanderbei.princeton.edu/planets_webgl/GottPlanets.html)
 - Apr 22 - [Pico.sh – Hacker Labs](https://github.com/picosh/pico)
-- Apr 22 - [Many-Shot In-Context Learning](https://arxiv.org/abs/2404.11018)
-- Apr 22 - [Walmart joins other big retailers in scaling back on self-checkout](https://www.cbsnews.com/news/walmart-self-checkout-target-dollar-general-costco/)
-- Apr 21 - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
-- Apr 21 - [Dangers of “decentralized” ID systems](https://paper.wf/crypto-agorism/the-dangers-of-decentralized-id-systems)
 <!--END_SECTION:hn-->
 
 <!--
