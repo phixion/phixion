@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 21 - [StreetComplete OSM Contribution App Begins iOS Port](https://gonzoknows.com/posts/streetcomplete-osm-contribution-app-begins-ios-port/)
-- Apr 21 - [Scientists Warn Gulf Stream Slowdown Could Begin as Early as 2025](https://oilprice.com/The-Environment/Global-Warming/Scientists-Warn-Gulf-Stream-Slowdown-Could-Begin-as-Early-as-2025.html)
+- Apr 22 - [Pico.sh – Hacker Labs](https://github.com/picosh/pico)
+- Apr 22 - [Many-Shot In-Context Learning](https://arxiv.org/abs/2404.11018)
+- Apr 22 - [Walmart joins other big retailers in scaling back on self-checkout](https://www.cbsnews.com/news/walmart-self-checkout-target-dollar-general-costco/)
 - Apr 21 - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
-- Apr 21 - [Lossless Acceleration of LLM via Adaptive N-Gram Parallel Decoding](https://arxiv.org/abs/2404.08698)
-- Apr 21 - [Understanding What Matters for LLM Ingestion and Preprocessing](https://unstructured.io/blog/understanding-what-matters-for-llm-ingestion-and-preprocessing)
+- Apr 21 - [Dangers of “decentralized” ID systems](https://paper.wf/crypto-agorism/the-dangers-of-decentralized-id-systems)
 <!--END_SECTION:hn-->
 
 <!--
