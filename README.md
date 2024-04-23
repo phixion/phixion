@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 23 - [After Months of Gibberish, Voyager 1 Is Communicating Well Again](https://www.scientificamerican.com/article/after-months-of-gibberish-voyager-1-is-communicating-well-again/)
-- Apr 23 - [Show HN: Hashquery, a Python library for defining reusable analysis](https://hashquery.dev/)
-- Apr 23 - [Show HN: Getada: rustup-like installer for Ada's toolchain/package manager](https://getada.dev)
-- Apr 23 - [The Beautiful Dissociation of the Japanese Language](https://aethermug.com/posts/the-beautiful-dissociation-of-the-japanese-language)
-- Apr 23 - [Young people benefit from Swiss apprenticeships](https://www.nature.com/articles/d41586-024-01102-8)
+- Apr 23 - [Python Big O: the time complexities of different data structures in Python](https://www.pythonmorsels.com/time-complexities/)
+- Apr 23 - [Network visualization of 50k blogs and links](https://graph.henryn.ca)
+- Apr 23 - [FTC Announces Rule Banning Noncompetes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-announces-rule-banning-noncompetes)
+- Apr 23 - [Spritely Goblins v0.13.0: Object persistence and easier IO](https://spritely.institute/news/spritely-goblins-v0130-object-persistence-and-easier-io.html)
+- Apr 23 - [The death of the 60/40 portfolio](https://www.lynalden.com/april-2024-newsletter/)
 <!--END_SECTION:hn-->
 
 <!--
