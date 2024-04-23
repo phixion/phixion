@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 23 - [Open Source Community Unites to Build EU CRA-Compliant Cybersecurity Processes](https://news.apache.org/foundation/entry/open-source-community-unites-to-build-cra-compliant-cybersecurity-processes)
-- Apr 23 - [It's the End of the Web as We Know It](https://www.theatlantic.com/technology/archive/2024/04/generative-ai-search-llmo/678154/)
-- Apr 23 - [NASA's Voyager 1 Resumes Sending Engineering Updates to Earth](https://www.jpl.nasa.gov/news/nasas-voyager-1-resumes-sending-engineering-updates-to-earth)
-- Apr 23 - [How short can Git abbreviate? (2013)](https://blog.cuviper.com/2013/11/10/how-short-can-git-abbreviate/)
-- Apr 23 - [EURISKO Lives](https://blog.funcall.org/lisp/2024/03/22/eurisko-lives/)
+- Apr 23 - [1build (YC W20) Is Hiring a Marketing Lead](https://www.ycombinator.com/companies/1build/jobs/oW1x2mB-marketing-lead)
+- Apr 23 - [C Isn't a Hangover; Rust Isn't a Hangover Cure](https://medium.com/@john_25313/c-isnt-a-hangover-rust-isn-t-a-hangover-cure-580c9b35b5ce)
+- Apr 23 - [Llama3 running locally on iPhone 15 Pro](https://imgur.com/a/FRiBYSE)
+- Apr 23 - [Segal's Law](https://en.wikipedia.org/wiki/Segal%27s_law)
+- Apr 23 - [Memory-mapped IO registers in Zig. (2021)](https://www.scattered-thoughts.net/writing/mmio-in-zig/)
 <!--END_SECTION:hn-->
 
 <!--
