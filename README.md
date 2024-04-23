@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 23 - [1build (YC W20) Is Hiring a Marketing Lead](https://www.ycombinator.com/companies/1build/jobs/oW1x2mB-marketing-lead)
-- Apr 23 - [C Isn't a Hangover; Rust Isn't a Hangover Cure](https://medium.com/@john_25313/c-isnt-a-hangover-rust-isn-t-a-hangover-cure-580c9b35b5ce)
-- Apr 23 - [Llama3 running locally on iPhone 15 Pro](https://imgur.com/a/FRiBYSE)
-- Apr 23 - [Segal's Law](https://en.wikipedia.org/wiki/Segal%27s_law)
-- Apr 23 - [Memory-mapped IO registers in Zig. (2021)](https://www.scattered-thoughts.net/writing/mmio-in-zig/)
+- Apr 23 - [After Months of Gibberish, Voyager 1 Is Communicating Well Again](https://www.scientificamerican.com/article/after-months-of-gibberish-voyager-1-is-communicating-well-again/)
+- Apr 23 - [Show HN: Hashquery, a Python library for defining reusable analysis](https://hashquery.dev/)
+- Apr 23 - [Show HN: Getada: rustup-like installer for Ada's toolchain/package manager](https://getada.dev)
+- Apr 23 - [The Beautiful Dissociation of the Japanese Language](https://aethermug.com/posts/the-beautiful-dissociation-of-the-japanese-language)
+- Apr 23 - [Young people benefit from Swiss apprenticeships](https://www.nature.com/articles/d41586-024-01102-8)
 <!--END_SECTION:hn-->
 
 <!--
