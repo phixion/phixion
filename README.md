@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 23 - [Open Source Community Unites to Build EU CRA-Compliant Cybersecurity Processes](https://news.apache.org/foundation/entry/open-source-community-unites-to-build-cra-compliant-cybersecurity-processes)
+- Apr 23 - [It's the End of the Web as We Know It](https://www.theatlantic.com/technology/archive/2024/04/generative-ai-search-llmo/678154/)
+- Apr 23 - [NASA's Voyager 1 Resumes Sending Engineering Updates to Earth](https://www.jpl.nasa.gov/news/nasas-voyager-1-resumes-sending-engineering-updates-to-earth)
+- Apr 23 - [How short can Git abbreviate? (2013)](https://blog.cuviper.com/2013/11/10/how-short-can-git-abbreviate/)
 - Apr 23 - [EURISKO Lives](https://blog.funcall.org/lisp/2024/03/22/eurisko-lives/)
-- Apr 23 - [Alienating Tesla Buyers by the Cybertruck-Load](https://ritholtz.com/2024/04/alienating-tesla-buyers/)
-- Apr 23 - [OpenAI Japan](https://openai.com/blog/introducing-openai-japan)
-- Apr 23 - [Phi-3 Technical Report](https://arxiv.org/abs/2404.14219)
-- Apr 23 - [The Seattle Public Library is reducing maximum digital holds](https://shelftalkblog.wordpress.com/2024/03/13/the-seattle-public-library-is-reducing-our-maximum-digital-holds-heres-why/)
 <!--END_SECTION:hn-->
 
 <!--
