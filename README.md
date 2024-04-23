@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 22 - [What Phones Are Doing to Reading](https://www.newyorker.com/news/fault-lines/what-phones-are-doing-to-reading)
-- Apr 22 - [Don't waste your time recycling plastic](https://www.washingtonpost.com/opinions/2024/04/22/stop-recycling-plastic-earth-day/)
-- Apr 22 - [NASA's Voyager 1 Resumes Sending Engineering Updates to Earth](https://blogs.nasa.gov/voyager/2024/04/22/nasas-voyager-1-resumes-sending-engineering-updates-to-earth/)
-- Apr 22 - [North Korean animation outsourcing for Amazon, HBO Max series](https://www.38north.org/2024/04/what-we-learned-inside-a-north-korean-internet-server-how-well-do-you-know-your-partners/)
-- Apr 22 - [The Performance Impact of C++'s `final` Keyword](https://16bpp.net/blog/post/the-performance-impact-of-cpp-final-keyword/)
+- Apr 22 - [Krazam OS](https://www.krazam.tv/)
+- Apr 22 - [Cubic Life: Conway's Game of Life in 3D](https://github.com/ms0g/cubicLife)
+- Apr 22 - [HTML-first, framework-agnostic implementation of shadcn/UI – franken/UI](https://www.franken-ui.dev/)
+- Apr 22 - [Dify, a visual workflow to build/test LLM applications](https://github.com/langgenius/dify)
+- Apr 22 - [FPGA Architecture for Deep Learning: Survey and Future Directions](https://arxiv.org/abs/2404.10076)
 <!--END_SECTION:hn-->
 
 <!--
