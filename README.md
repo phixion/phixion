@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 24 - [The spam came from inside the house: How a smart TV can choke a Windows PC](https://arstechnica.com/gadgets/2024/04/the-spam-came-from-inside-the-house-how-a-smart-tv-can-choke-a-windows-pc/)
-- Apr 23 - [American Flag Sort](https://xlinux.nist.gov/dads/HTML/americanFlagSort.html)
-- Apr 23 - [Cicadas are so noisy in South Carolina that residents are calling the police](https://apnews.com/article/noisy-cicadas-south-carolina-police-39f2bd760a51c8c1d28d88b12473840e)
-- Apr 23 - [California could ban Clear, which lets travelers skip TSA lines](https://www.cbsnews.com/news/airport-security-line-california-clear-ban-tsa/)
-- Apr 23 - [a poem about the Turing halting proof](http://www.lel.ed.ac.uk/~gpullum/loopsnoop.html)
+- Apr 24 - [Maxtext: A simple, performant and scalable Jax LLM](https://github.com/google/maxtext)
+- Apr 24 - [BeeBase, a programmable relational database with graphical user interface](https://beebase.sourceforge.io)
+- Apr 24 - [The Open Compute Project](https://www.opencompute.org/about)
+- Apr 24 - [Simulating Jupiter](https://emildziewanowski.com/flowfields/)
+- Apr 24 - [Apple releases CoreNet, a library for training deep neural networks](https://github.com/apple/corenet)
 <!--END_SECTION:hn-->
 
 <!--
