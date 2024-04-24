@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 24 - [Golang PGO builds using GitHub Actions](https://www.dolthub.com/blog/2024-04-19-golang-pgo-builds-using-github-actions/)
-- Apr 24 - [Maxtext: A simple, performant and scalable Jax LLM](https://github.com/google/maxtext)
-- Apr 24 - [BeeBase, a programmable relational database with graphical user interface](https://beebase.sourceforge.io)
-- Apr 24 - [Simulating Jupiter](https://emildziewanowski.com/flowfields/)
-- Apr 24 - [CoreNet: A library for training deep neural networks](https://github.com/apple/corenet)
+- Apr 24 - [Brainbase (YC W24) Is Hiring for Founding Full-Stack Engineer](https://www.ycombinator.com/companies/brainbase/jobs/qNs5JRo-founding-fullstack-engineer)
+- Apr 24 - [Google delays third-party cookie demise yet again](https://digiday.com/marketing/google-delays-third-party-cookie-demise-yet-again/)
+- Apr 24 - [Reddit Will License Its Data to Train LLMs, We Made a FF Extension to Replace](https://theluddite.org/#!post/reddit-extension)
+- Apr 24 - [Framework won't be just a laptop company anymore](https://www.theverge.com/2024/4/23/24138475/framework-laptop-product-categories-new)
+- Apr 24 - ['Expensive' Streaming Services Are a Key Reason for Americans to 'Pirate'](https://torrentfreak.com/expensive-streaming-services-are-a-key-reason-for-americans-to-pirate-240424/)
 <!--END_SECTION:hn-->
 
 <!--
