@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 24 - [Brainbase (YC W24) Is Hiring for Founding Full-Stack Engineer](https://www.ycombinator.com/companies/brainbase/jobs/qNs5JRo-founding-fullstack-engineer)
-- Apr 24 - [Google delays third-party cookie demise yet again](https://digiday.com/marketing/google-delays-third-party-cookie-demise-yet-again/)
-- Apr 24 - [Reddit Will License Its Data to Train LLMs, We Made a FF Extension to Replace](https://theluddite.org/#!post/reddit-extension)
-- Apr 24 - [Framework won't be just a laptop company anymore](https://www.theverge.com/2024/4/23/24138475/framework-laptop-product-categories-new)
-- Apr 24 - ['Expensive' Streaming Services Are a Key Reason for Americans to 'Pirate'](https://torrentfreak.com/expensive-streaming-services-are-a-key-reason-for-americans-to-pirate-240424/)
+- Apr 24 - [A morning with the Rabbit R1: a fun, funky, unfinished AI gadget](https://www.theverge.com/24138746/rabbit-r1-hands-on-ai-gadget-chatgpt)
+- Apr 24 - [Hackers infect users of antivirus service that delivered updates over HTTP](https://arstechnica.com/security/2024/04/hackers-infect-users-of-antivirus-service-that-delivered-updates-over-http/)
+- Apr 24 - [VideoGigaGAN: Towards Detail-Rich Video Super-Resolution](https://videogigagan.github.io/)
+- Apr 24 - [Nvidia to Acquire Run:AI](https://blogs.nvidia.com/blog/runai/)
+- Apr 24 - [The Basque Country’s Mondragón Corporation is the largest industrial co-op](https://www.theguardian.com/lifeandstyle/2024/apr/24/in-the-us-they-think-were-communists-the-70000-workers-showing-the-world-another-way-to-earn-a-living)
 <!--END_SECTION:hn-->
 
 <!--
