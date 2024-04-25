@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 25 - [Amazon MemoryDB: A fast and durable memory-first cloud database](https://www.amazon.science/publications/amazon-memorydb-a-fast-and-durable-memory-first-cloud-database)
-- Apr 25 - [AI Can Tell Your Political Affiliation Just by Looking at Your Face](https://gizmodo.com/ai-can-tell-your-political-affiliation-just-by-looking-1851430714)
-- Apr 25 - [We have 4 days to contest KYC being required by internet services](https://www.federalregister.gov/documents/2024/01/29/2024-01580/taking-additional-steps-to-address-the-national-emergency-with-respect-to-significant-malicious)
-- Apr 25 - [Package management on macOS with Nix-Darwin](https://davi.sh/blog/2024/01/nix-darwin/)
-- Apr 25 - [Launch HN: Nango (YC W23) – The open-source unified API](https://news.ycombinator.com/item?id=40158481)
+- Apr 25 - [Asian American women are getting lung cancer despite never smoking](https://www.nbcnews.com/news/us-news/asian-american-women-lung-cancer-rcna138895)
+- Apr 25 - [No Abstractions: an Increase API design principle](https://increase.com/articles/no-abstractions)
+- Apr 25 - [Start Your Own ISP](https://startyourownisp.com/)
+- Apr 25 - [Oracle's Jump to Nashville Surprises Austin](https://www.wsj.com/business/oracles-jump-to-nashville-surprises-austin-a4af5e18)
+- Apr 25 - [CatLIP: Clip Vision Accuracy with 2.7x Faster Pre-Training on Web-Scale Data](https://arxiv.org/abs/2404.15653)
 <!--END_SECTION:hn-->
 
 <!--
