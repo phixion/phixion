@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 25 - [Cogram (YC W22) Is Hiring a Customer Success Engineer](https://www.ycombinator.com/companies/cogram/jobs/tB0R5rt-customer-success-engineer)
-- Apr 25 - [A useful front-end confetti animation library](https://github.com/catdad/canvas-confetti)
-- Apr 25 - [More on x86 – The Chip Letter](https://thechipletter.substack.com/p/more-on-x86)
-- Apr 25 - [Leaving Substack](https://www.mostlypython.com/leaving-substack/)
-- Apr 25 - [EPA rules would force coal-fired power plants to capture emissions or shut down](https://abcnews.go.com/US/wireStory/tough-new-epa-rules-force-coal-fired-power-109613509)
+- Apr 25 - [Amazon MemoryDB: A fast and durable memory-first cloud database](https://www.amazon.science/publications/amazon-memorydb-a-fast-and-durable-memory-first-cloud-database)
+- Apr 25 - [AI Can Tell Your Political Affiliation Just by Looking at Your Face](https://gizmodo.com/ai-can-tell-your-political-affiliation-just-by-looking-1851430714)
+- Apr 25 - [We have 4 days to contest KYC being required by internet services](https://www.federalregister.gov/documents/2024/01/29/2024-01580/taking-additional-steps-to-address-the-national-emergency-with-respect-to-significant-malicious)
+- Apr 25 - [Package management on macOS with Nix-Darwin](https://davi.sh/blog/2024/01/nix-darwin/)
+- Apr 25 - [Launch HN: Nango (YC W23) – The open-source unified API](https://news.ycombinator.com/item?id=40158481)
 <!--END_SECTION:hn-->
 
 <!--
