@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 26 - [Multiple Displays on a Mac Sucks](https://wadetregaskis.com/multiple-displays-on-a-mac-sucks/)
-- Apr 26 - [Passkeys: A Shattered Dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/)
-- Apr 26 - [MFJ is ceasing its on-site production](https://mailchi.mp/62e24f2ccc99/a-heavy-sad-heart)
-- Apr 25 - [Visualizing malicious IP addresses](https://romeov.github.io/malicious_ip_addresses/malicious_ip_analysis.html)
-- Apr 25 - [Jeff Lawson buys The Onion](https://www.nytimes.com/2024/04/25/business/media/the-onion-sold.html)
+- Apr 26 - [Aviator (YC S21) is hiring engineers to build a dev productivity platform](https://www.ycombinator.com/companies/aviator/jobs)
+- Apr 26 - [What We Train Our Brains For](https://michaeldehaan.substack.com/p/what-we-train-our-brains-for)
+- Apr 26 - [The Universe as a Computer](https://dabacon.org/pontiff/2024/04/26/the-universe-as-a-computer-john-archibald-wheeler/)
+- Apr 26 - [Qwen1.5-110B](https://qwenlm.github.io/blog/qwen1.5-110b/)
+- Apr 26 - [Pharo 12](https://pharo.org/news/2024-04-26-pharo12-released.html)
 <!--END_SECTION:hn-->
 
 <!--
