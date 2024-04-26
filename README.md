@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 26 - [UK's Investigatory Powers Bill to become law despite tech world opposition](https://www.theregister.com/2024/04/26/investigatory_powers_bill/)
-- Apr 26 - [I'm creating PBR Textures and 3D models since 2018 and sharing them for free](https://www.sharetextures.com/)
-- Apr 26 - [Aviator (YC S21) is hiring engineers to build a dev productivity platform](https://www.ycombinator.com/companies/aviator/jobs)
-- Apr 26 - [PEP 686 – Make UTF-8 mode default](https://peps.python.org/pep-0686/)
-- Apr 26 - [What We Train Our Brains For](https://michaeldehaan.substack.com/p/what-we-train-our-brains-for)
+- Apr 26 - [Reflections on Qualitative Research](https://transformer-circuits.pub/2024/qualitative-essay/index.html)
+- Apr 26 - [Camus, Albert and the Anarchists (2007)](https://theanarchistlibrary.org/library/organise-camus-albert-and-the-anarchists)
+- Apr 26 - [Giving Rust a chance for in-kernel codecs](https://lwn.net/Articles/970565/)
+- Apr 26 - [Leaving Rust gamedev after 3 years](https://loglog.games/blog/leaving-rust-gamedev/)
+- Apr 26 - [Data Breach at Kaiser Permanente Affects 13.4M People](https://restoreprivacy.com/data-breach-at-kaiser-permanente-affects-13-4-million-people/)
 <!--END_SECTION:hn-->
 
 <!--
