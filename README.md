@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 26 - [Multiple Displays on a Mac Sucks](https://wadetregaskis.com/multiple-displays-on-a-mac-sucks/)
+- Apr 26 - [Passkeys: A Shattered Dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/)
 - Apr 26 - [MFJ is ceasing its on-site production](https://mailchi.mp/62e24f2ccc99/a-heavy-sad-heart)
 - Apr 25 - [Visualizing malicious IP addresses](https://romeov.github.io/malicious_ip_addresses/malicious_ip_analysis.html)
-- Apr 25 - [Jeff Lawson Buys The Onion](https://www.nytimes.com/2024/04/25/business/media/the-onion-sold.html)
-- Apr 25 - [Open Sourcing DOS 4](https://www.hanselman.com/blog/open-sourcing-dos-4)
-- Apr 25 - [A Logic Language for Distributed SQL Queries](https://www.osohq.com/post/logic-language-distributed-sql-queries)
+- Apr 25 - [Jeff Lawson buys The Onion](https://www.nytimes.com/2024/04/25/business/media/the-onion-sold.html)
 <!--END_SECTION:hn-->
 
 <!--
