@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 26 - [UK's Investigatory Powers Bill to become law despite tech world opposition](https://www.theregister.com/2024/04/26/investigatory_powers_bill/)
+- Apr 26 - [I'm creating PBR Textures and 3D models since 2018 and sharing them for free](https://www.sharetextures.com/)
 - Apr 26 - [Aviator (YC S21) is hiring engineers to build a dev productivity platform](https://www.ycombinator.com/companies/aviator/jobs)
+- Apr 26 - [PEP 686 – Make UTF-8 mode default](https://peps.python.org/pep-0686/)
 - Apr 26 - [What We Train Our Brains For](https://michaeldehaan.substack.com/p/what-we-train-our-brains-for)
-- Apr 26 - [The Universe as a Computer](https://dabacon.org/pontiff/2024/04/26/the-universe-as-a-computer-john-archibald-wheeler/)
-- Apr 26 - [Qwen1.5-110B](https://qwenlm.github.io/blog/qwen1.5-110b/)
-- Apr 26 - [Pharo 12](https://pharo.org/news/2024-04-26-pharo12-released.html)
 <!--END_SECTION:hn-->
 
 <!--
