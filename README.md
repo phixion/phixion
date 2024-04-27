@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 27 - [The walls of Apple's garden are tumbling down](https://www.theverge.com/24141929/apple-iphone-imessage-antitrust-dma-lock-in)
-- Apr 27 - [Mastodon forms new U.S. non-profit](https://blog.joinmastodon.org/2024/04/mastodon-forms-new-u.s.-non-profit/)
-- Apr 27 - [Oral History of Brian L. Halla [pdf] (2013)](https://archive.computerhistory.org/resources/access/text/2013/09/102746664-05-01-acc.pdf)
-- Apr 27 - [List of people offering their time for free to have a "coffee chat"](https://github.com/fharper/coffeechat)
-- Apr 27 - [Moviecart – Full length color movie and audio cartridges for stock Atari 2600](https://github.com/lodefmode/moviecart)
+- Apr 27 - [Microsoft "doubling down" on cybersecurity](https://www.axios.com/2024/04/26/microsoft-earnings-cybersecurity-hacks)
+- Apr 27 - [Claiming high user satisfaction, IRS will decide on renewing free tax site](https://www.washingtonpost.com/business/2024/04/26/irs-direct-file/)
+- Apr 27 - [VMware outsourcing their support](https://rubenerd.com/vmware-outsourcing-their-support/)
+- Apr 27 - [ArcaneDoor – New campaign found targeting network devices](https://blog.talosintelligence.com/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices/)
+- Apr 27 - [As solar capacity grows, some of America's most productive farmland is at risk](https://www.reuters.com/world/us/solar-capacity-grows-some-americas-most-productive-farmland-is-risk-2024-04-27/)
 <!--END_SECTION:hn-->
 
 <!--
