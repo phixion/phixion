@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 26 - [Reflections on Qualitative Research](https://transformer-circuits.pub/2024/qualitative-essay/index.html)
-- Apr 26 - [Camus, Albert and the Anarchists (2007)](https://theanarchistlibrary.org/library/organise-camus-albert-and-the-anarchists)
-- Apr 26 - [Giving Rust a chance for in-kernel codecs](https://lwn.net/Articles/970565/)
-- Apr 26 - [Leaving Rust gamedev after 3 years](https://loglog.games/blog/leaving-rust-gamedev/)
-- Apr 26 - [Data Breach at Kaiser Permanente Affects 13.4M People](https://restoreprivacy.com/data-breach-at-kaiser-permanente-affects-13-4-million-people/)
+- Apr 26 - [World War I dangers in France's red zones](https://www.atlasobscura.com/articles/red-zones-in-france)
+- Apr 26 - [British Columbia to recriminalize use of drugs in public spaces](https://www.cbc.ca/news/canada/british-columbia/david-eby-public-drug-use-1.7186245)
+- Apr 26 - [A New Sweetener Has Joined the Ranks of Aspartame and Stevia](https://www.theatlantic.com/health/archive/2024/04/sugar-substitutes-brazzein-stevia-aspartame/678192/)
+- Apr 26 - [Cleaning Up Speech Recognition with GPT](https://blog.nawaz.org/posts/2023/Dec/cleaning-up-speech-recognition-with-gpt/)
+- Apr 26 - [Court upholds New York law that says ISPs must offer $15 broadband](https://arstechnica.com/tech-policy/2024/04/court-upholds-new-york-law-that-says-isps-must-offer-15-broadband/)
 <!--END_SECTION:hn-->
 
 <!--
