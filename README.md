@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 26 - [World War I dangers in France's red zones](https://www.atlasobscura.com/articles/red-zones-in-france)
-- Apr 26 - [British Columbia to recriminalize use of drugs in public spaces](https://www.cbc.ca/news/canada/british-columbia/david-eby-public-drug-use-1.7186245)
-- Apr 26 - [A New Sweetener Has Joined the Ranks of Aspartame and Stevia](https://www.theatlantic.com/health/archive/2024/04/sugar-substitutes-brazzein-stevia-aspartame/678192/)
-- Apr 26 - [Cleaning Up Speech Recognition with GPT](https://blog.nawaz.org/posts/2023/Dec/cleaning-up-speech-recognition-with-gpt/)
-- Apr 26 - [Court upholds New York law that says ISPs must offer $15 broadband](https://arstechnica.com/tech-policy/2024/04/court-upholds-new-york-law-that-says-isps-must-offer-15-broadband/)
+- Apr 27 - [Apnic: Cgnat is harming internet innovation (2022)](https://www.theregister.com/2022/01/20/ipv4_nats_slow_ipv6_transition/)
+- Apr 27 - [The Vision Pro is a flop](https://disconnect.blog/the-vision-pro-is-a-big-flop/)
+- Apr 27 - [How to prevent Lyme disease this summer](https://news.harvard.edu/gazette/story/2023/06/how-to-prevent-lyme-disease-this-summer/)
+- Apr 27 - [Clang's -O0 output: branch displacement and size increase](https://maskray.me/blog/2024-04-27-clang-o0-output-branch-displacement-and-size-increase)
+- Apr 26 - [Show HN: React for Circuits](https://github.com/tscircuit/tscircuit/blob/main/README.md)
 <!--END_SECTION:hn-->
 
 <!--
