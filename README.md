@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 28 - [The Better Boarding Method Airlines Won't Use](https://www.youtube.com/watch?v=oAHbLRjF0vo)
-- Apr 28 - [The Princeton Companion to Applied Mathematics](https://nhigham.com/the-princeton-companion-to-applied-mathematics/)
-- Apr 28 - [Install Asdf: One Runtime Manager to Rule All Dev Environments](https://jdsalaro.com/tutorial/asdf-single-package-manager-multiple-dev-environments)
-- Apr 28 - [Plunging Home Prices, Fleeing Companies: Austin's Glow Is Fading](https://www.bloomberg.com/news/articles/2024-04-25/larry-ellison-s-austin-snub-adds-to-city-s-housing-office-woes)
-- Apr 28 - [44% Unicorn Startups in the US were founded by foreign workers](https://twitter.com/IlyaStrebulaev/status/1481662020659257349)
+- Apr 28 - [UpCodes (YC S17) Is Hiring SWEs/PMs to Automate Construction Compliance](https://up.codes/careers?utm_source=HN)
+- Apr 28 - [Zilog Z80 CPU – Modern, free and open source silicon clone](https://github.com/rejunity/z80-open-silicon)
+- Apr 28 - [Autoconf and configure features that people find valuable](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/AutoconfValuableFeatures)
+- Apr 28 - [Jimmy Carter UFO Incident](https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident)
+- Apr 28 - [TfL's simple pop-up message led to a significant drop in paper ticket sales](https://www.ianvisits.co.uk/articles/how-tfls-simple-pop-up-message-led-to-a-significant-drop-in-paper-ticket-sales-71920/)
 <!--END_SECTION:hn-->
 
 <!--
