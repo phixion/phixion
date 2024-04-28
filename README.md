@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 27 - [Microsoft "doubling down" on cybersecurity](https://www.axios.com/2024/04/26/microsoft-earnings-cybersecurity-hacks)
-- Apr 27 - [Claiming high user satisfaction, IRS will decide on renewing free tax site](https://www.washingtonpost.com/business/2024/04/26/irs-direct-file/)
-- Apr 27 - [VMware outsourcing their support](https://rubenerd.com/vmware-outsourcing-their-support/)
-- Apr 27 - [ArcaneDoor – New campaign found targeting network devices](https://blog.talosintelligence.com/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices/)
-- Apr 27 - [As solar capacity grows, some of America's most productive farmland is at risk](https://www.reuters.com/world/us/solar-capacity-grows-some-americas-most-productive-farmland-is-risk-2024-04-27/)
+- Apr 27 - [Let's Embed a Go Program into the Linux Kernel](https://sigma-star.at/blog/2023/07/embedded-go-prog/)
+- Apr 27 - [Burn After Wearing](https://grist.org/international/burn-after-wearing-fashion-waste-chile/)
+- Apr 27 - [Dozens of deaths reveal risks of injecting sedatives into police detainees](https://apnews.com/article/investigation-police-use-of-force-sedation-injections-demetrio-jackson-621909ba7491abc2af8ad2e33ba3415b)
+- Apr 27 - [Microsoft at Work](https://computer.rip/2024-04-26-microsoft-at-work.html)
+- Apr 27 - [Zep AI (YC W24) Is Hiring a Machine Learning Engineer with LLM Experience](https://jobs.gem.com/zep/am9icG9zdDqdSHi4vSPAkX4trFIRMpZn)
 <!--END_SECTION:hn-->
 
 <!--
