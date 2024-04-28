@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 28 - [Tales from an Attic](https://theamericanscholar.org/tales-from-an-attic/)
-- Apr 28 - [The unstallable plane that stalled](https://fearoflanding.com/accidents/accident-reports/the-unstallable-plane-that-stalled/)
-- Apr 28 - [LoRA+: Efficient Low Rank Adaptation of Large Models](https://arxiv.org/abs/2402.12354)
-- Apr 28 - [George Stephenson](https://en.wikipedia.org/wiki/George_Stephenson)
-- Apr 28 - [Zed Decoded: Rope and SumTree](https://zed.dev/blog/zed-decoded-rope-sumtree)
+- Apr 28 - [Wegovy could be covered for at least 3.6M people under new Medicare rules](https://www.kff.org/medicare/issue-brief/a-new-use-for-wegovy-opens-the-door-to-medicare-coverage-for-millions-of-people-with-obesity/)
+- Apr 28 - [The Shitty Technology Adoption Curve](https://pluralistic.net/2022/08/21/great-taylors-ghost/#solidarity-or-bust)
+- Apr 28 - [OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computers](https://os-world.github.io/)
+- Apr 28 - [A small lathe built in a Japanese prison camp](http://www.lathes.co.uk/bradley-pow-lathe/)
+- Apr 28 - [Williams-Sonoma fined $3.18M for falsely labeling products 'Made in USA'](https://www.scrippsnews.com/business/company-news/williams-sonoma-fined-3-18-million-dollars-for-falsely-labeling-products-as-made-in-usa)
 <!--END_SECTION:hn-->
 
 <!--
