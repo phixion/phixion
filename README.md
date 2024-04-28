@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 28 - [Why I Don't Invest in Real Estate](https://unchartedterritories.tomaspueyo.com/p/why-i-dont-invest-in-real-estate)
-- Apr 28 - [How to improve the RISC-V specification](https://alastairreid.github.io/riscv-spec-issues/)
-- Apr 28 - [RFC 7282 – On Consensus and Humming in the IETF (2014)](https://datatracker.ietf.org/doc/html/rfc7282)
-- Apr 27 - [Google made me ruin a perfectly good website (2023)](https://theluddite.org/#!post/google-ads)
-- Apr 27 - [Let's Embed a Go Program into the Linux Kernel](https://sigma-star.at/blog/2023/07/embedded-go-prog/)
+- Apr 28 - [The Better Boarding Method Airlines Won't Use](https://www.youtube.com/watch?v=oAHbLRjF0vo)
+- Apr 28 - [The Princeton Companion to Applied Mathematics](https://nhigham.com/the-princeton-companion-to-applied-mathematics/)
+- Apr 28 - [Install Asdf: One Runtime Manager to Rule All Dev Environments](https://jdsalaro.com/tutorial/asdf-single-package-manager-multiple-dev-environments)
+- Apr 28 - [Plunging Home Prices, Fleeing Companies: Austin's Glow Is Fading](https://www.bloomberg.com/news/articles/2024-04-25/larry-ellison-s-austin-snub-adds-to-city-s-housing-office-woes)
+- Apr 28 - [44% Unicorn Startups in the US were founded by foreign workers](https://twitter.com/IlyaStrebulaev/status/1481662020659257349)
 <!--END_SECTION:hn-->
 
 <!--
