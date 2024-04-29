@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 29 - [The Ivy League and other elite private colleges are losing esteem](https://www.natesilver.net/p/go-to-a-state-school)
-- Apr 29 - [Apple MacBook Air 15-Inch M3 Review](https://www.thurrott.com/mobile/mac-and-macos/301371/apple-macbook-air-15-inch-m3-review)
-- Apr 29 - [FreeBee: AT&T Unix PC emulator](https://www.philpem.me.uk/code/3b1emu)
-- Apr 28 - [6502 – Guideline to Reverse Engineering (how to read die shots) [pdf]](https://downloads.reactivemicro.com/Electronics/Reverse%20Engineering/6502%20-%20Guideline%20to%20Reverse%20Engineering%20v1.0.pdf)
-- Apr 28 - [The Essence of Compiling with Continuations (1993) [pdf]](https://dl.acm.org/doi/pdf/10.1145/173262.155113)
+- Apr 29 - [StableVideo](https://stablevideo.work/)
+- Apr 29 - [Power of Libraries](https://levelupeduc.wordpress.com/2024/04/29/power-of-libraries/)
+- Apr 29 - [ChatGPT provides false information about people, and OpenAI can't correct it](https://noyb.eu/en/chatgpt-provides-false-information-about-people-and-openai-cant-correct-it)
+- Apr 29 - [London Drugs closes stores until further notice due to cyberattack](https://www.cbc.ca/news/canada/british-columbia/london-drugs-closure-western-canada-1.7187615)
+- Apr 29 - [Atomic nucleus excited with laser: A breakthrough after decades](https://www.tuwien.at/en/tu-wien/news/news-articles/news/lange-erhoffter-durchbruch-erstmals-atomkern-mit-laser-angeregt)
 <!--END_SECTION:hn-->
 
 <!--
