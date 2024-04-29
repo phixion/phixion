@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 29 - [StableVideo](https://stablevideo.work/)
-- Apr 29 - [Power of Libraries](https://levelupeduc.wordpress.com/2024/04/29/power-of-libraries/)
-- Apr 29 - [ChatGPT provides false information about people, and OpenAI can't correct it](https://noyb.eu/en/chatgpt-provides-false-information-about-people-and-openai-cant-correct-it)
-- Apr 29 - [London Drugs closes stores until further notice due to cyberattack](https://www.cbc.ca/news/canada/british-columbia/london-drugs-closure-western-canada-1.7187615)
-- Apr 29 - [Atomic nucleus excited with laser: A breakthrough after decades](https://www.tuwien.at/en/tu-wien/news/news-articles/news/lange-erhoffter-durchbruch-erstmals-atomkern-mit-laser-angeregt)
+- Apr 29 - [Unify (YC W23) Is Hiring Contributors to Unify ML](https://www.ycombinator.com/companies/unify/jobs/XoPGc3D-llm-engineer-contributor)
+- Apr 29 - [Memary is a cutting-edge long-term memory system based on a knowledge graph](https://github.com/kingjulio8238/memary)
+- Apr 29 - [Mini ponds are 'tiny universes' of biodiversity for gardens and windowsills](https://www.bbc.com/future/article/20240423-how-to-make-a-mini-wildlife-pond)
+- Apr 29 - [iPadOS Identified as Digital 'Gatekeeper' Under New EU Tech Rules](https://www.macrumors.com/2024/04/29/eu-says-ipados-digital-gatekeeper-dma/)
+- Apr 29 - [Functional Semantics in Imperative Clothing (Richard Feldman)](https://rtfeldman.com/imperative-clothing)
 <!--END_SECTION:hn-->
 
 <!--
