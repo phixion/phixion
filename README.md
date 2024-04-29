@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 29 - [The Ivy League and other elite private colleges are losing esteem](https://www.natesilver.net/p/go-to-a-state-school)
+- Apr 29 - [Apple MacBook Air 15-Inch M3 Review](https://www.thurrott.com/mobile/mac-and-macos/301371/apple-macbook-air-15-inch-m3-review)
+- Apr 29 - [FreeBee: AT&T Unix PC emulator](https://www.philpem.me.uk/code/3b1emu)
 - Apr 28 - [6502 – Guideline to Reverse Engineering (how to read die shots) [pdf]](https://downloads.reactivemicro.com/Electronics/Reverse%20Engineering/6502%20-%20Guideline%20to%20Reverse%20Engineering%20v1.0.pdf)
 - Apr 28 - [The Essence of Compiling with Continuations (1993) [pdf]](https://dl.acm.org/doi/pdf/10.1145/173262.155113)
-- Apr 28 - [Personal computing paves the way for personal library science](https://www.bramadams.dev/issue-55/)
-- Apr 28 - [DEC PDP-1 emulator running "Spacewar", the earliest known digital video game](https://www.masswerk.at/spacewar/index.html)
-- Apr 28 - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=40191915)
 <!--END_SECTION:hn-->
 
 <!--
