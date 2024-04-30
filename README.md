@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 30 - [Borgo is a statically typed language that compiles to Go](https://github.com/borgo-lang/borgo)
-- Apr 30 - [Pyinfra: Automate Infrastructure Using Python](https://pyinfra.com/)
-- Apr 30 - [Bytecode VMs in Surprising Places](https://dubroy.com/blog/bytecode-vms-in-surprising-places/)
-- Apr 30 - [Show HN: I made a CLI tool to create web extensions with no build configuration](https://github.com/cezaraugusto/extension.js)
-- Apr 30 - [Systemd Rolling Out "run0" As sudo Alternative](https://www.phoronix.com/news/systemd-run0)
+- Apr 30 - [Dean Ball on the new California AI bill](https://marginalrevolution.com/marginalrevolution/2024/04/dean-ball-on-the-new-california-ai-bill-from-my-email.html)
+- Apr 30 - [PCIe 5.0 is nearly 4 years old and it's still virtually worthless in gaming PCs](https://www.pcgamer.com/hardware/pcie-50-is-nearly-four-years-old-and-its-still-virtually-worthless-in-gaming-pcs/)
+- Apr 30 - [How ECMO Is Redefining Death](https://www.newyorker.com/science/annals-of-medicine/how-ecmo-is-redefining-death)
+- Apr 30 - [The File Filesystem](https://mgree.github.io/ffs/)
+- Apr 30 - [Good enough is good enough](https://ep2013.europython.eu/conference/talks/good-enough-is-good-enough)
 <!--END_SECTION:hn-->
 
 <!--
