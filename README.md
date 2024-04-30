@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 30 - [Autotab (YC S23) Is Hiring Founding Engineers to Build the Digital Robot](https://www.ycombinator.com/companies/autotab/jobs/V5V8saO-founding-engineer)
-- Apr 30 - [Cats suffer H5N1 brain infections, blindness, death after drinking raw milk](https://arstechnica.com/science/2024/04/concerning-spread-of-bird-flu-from-cows-to-cats-suspected-in-texas/)
-- Apr 30 - [I Rented Out a Movie Theatre (Again) and Used My Steam Deck to Play Co-Op Games](https://old.reddit.com/r/linux/comments/1cggj92/i_rented_out_a_movie_theatre_again_and_used_my/)
-- Apr 30 - [Asynchronous Programming in C#](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
-- Apr 30 - [TL;DR AI are better community-written abstracts for research papers](https://www.tldr-ai.org/)
+- Apr 30 - [Borgo is a statically typed language that compiles to Go](https://github.com/borgo-lang/borgo)
+- Apr 30 - [Pyinfra: Automate Infrastructure Using Python](https://pyinfra.com/)
+- Apr 30 - [Bytecode VMs in Surprising Places](https://dubroy.com/blog/bytecode-vms-in-surprising-places/)
+- Apr 30 - [Show HN: I made a CLI tool to create web extensions with no build configuration](https://github.com/cezaraugusto/extension.js)
+- Apr 30 - [Systemd Rolling Out "run0" As sudo Alternative](https://www.phoronix.com/news/systemd-run0)
 <!--END_SECTION:hn-->
 
 <!--
