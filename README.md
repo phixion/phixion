@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 29 - [FSF to be deposed in SFC vs. Vizio, updates relevant FAQ entry](https://www.fsf.org/news/fsf-to-be-deposed-in-sfc-v-vizio-updates-relevant-faq-entry)
-- Apr 29 - [How an empty S3 bucket can make your AWS bill explode](https://medium.com/@maciej.pocwierz/how-an-empty-s3-bucket-can-make-your-aws-bill-explode-934a383cb8b1)
-- Apr 29 - [FCC Fines Largest Wireless Carriers for Sharing Location Data](https://docs.fcc.gov/public/attachments/DOC-402213A1.txt)
-- Apr 29 - [The Internet Archive's last-ditch effort to save itself](https://lunduke.locals.com/post/5556650/the-internet-archives-last-ditch-effort-to-save-itself)
-- Apr 29 - [Activeloop (YC S18) Hiring a C++ Engineer with a Streaming Data Loader Expertise](https://www.notion.so/activeloop/Senior-C-Engineer-dec6032479644f84aef85e4d8237b55e)
+- Apr 29 - [Winner of $1.3B Powerball jackpot is a immigrant from Laos who has cancer](https://apnews.com/article/oregon-powerball-winner-8200b538497c972624ace5e2fddf56e6)
+- Apr 29 - [Criminals and oligarchs in EU's sights with new bill targeting football fraud](https://www.theguardian.com/football/2024/apr/23/european-union-money-laundering-crime-corruption-uefa)
+- Apr 29 - [Show HN: 3D Framework for the Web. Built on Svelte and Three.js](https://threlte.xyz/)
+- Apr 29 - [Laser excitation of Th-229 nucleus](https://phys.org/news/2024-04-laser-nucleus-classical-quantum-physics.html)
+- Apr 29 - [FireChat was a tool for revolution, then disappeared](https://www.fromjason.xyz/p/notebook/firechat-was-a-tool-for-revolution-then-it-disappeared/)
 <!--END_SECTION:hn-->
 
 <!--
