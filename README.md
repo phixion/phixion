@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 30 - [Save the Web by Being Nice](https://sheep.horse/2024/4/save_the_web_by_being_nice.html)
-- Apr 30 - [Codapi – Interactive code examples for documentation, education and fun](https://github.com/nalgeon/codapi)
-- Apr 30 - [Why SQLite Uses Bytecode](https://sqlite.org/draft/whybytecode.html)
-- Apr 30 - [Electromigration Concerns Grow in Advanced Packages](https://semiengineering.com/electromigration-concerns-grow-in-advanced-packages/)
-- Apr 30 - [Researcher finds that wood frogs evolved rapidly in response to road salts](https://phys.org/news/2024-04-wood-frogs-evolved-rapidly-response.html)
+- Apr 30 - [TL;DR AI are better community-written abstracts for research papers](https://www.tldr-ai.org/)
+- Apr 30 - [Nintendo(1)](http://man.9front.org/1/nintendo)
+- Apr 30 - [Apple must open iPadOS to sideloading within 6 months, EU says](https://arstechnica.com/apple/2024/04/apple-must-open-ipados-to-sideloading-within-6-months-eu-says/)
+- Apr 30 - [Deep Dive into XZ Utils Backdoor – Columbia Engineering Guest Lecture [video]](https://www.youtube.com/watch?v=Q6ovtLdSbEA)
+- Apr 30 - [Hitting every branch on the way down](http://rachelbythebay.com/w/2024/04/29/pb/)
 <!--END_SECTION:hn-->
 
 <!--
