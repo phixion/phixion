@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 01 - [Ashby (YC W19) Is Hiring EMs to Manage Teams Not Products](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a)
-- May 01 - [Better and Faster Large Language Models via Multi-Token Prediction](https://arxiv.org/abs/2404.19737)
-- May 01 - [The drinking fountain button is tragically misunderstood](https://www.theverge.com/24144774/drinking-fountain-bubbler-button-of-the-month)
-- May 01 - [Resistance against London tube map commit history (a.k.a. git merge hell) (2015)](https://www.tugberkugurlu.com/archive/resistance-against-london-tube-map-commit-history-a-k-a--git-merge-hell)
-- May 01 - [Kolmogorov-Arnold Networks](https://github.com/KindXiaoming/pykan)
+- May 01 - [Claude Team plan and iOS app](https://www.anthropic.com/news/team-plan-and-ios)
+- May 01 - [Ask HN: Who is hiring? (May 2024)](https://news.ycombinator.com/item?id=40224213)
+- May 01 - [CenturyLink left users with no service for two months, then billed them $239](https://arstechnica.com/tech-policy/2024/05/centurylink-left-users-with-no-service-for-two-months-then-billed-them-239/)
+- May 01 - [New findings point to an Earth-like environment on ancient Mars](https://discover.lanl.gov/news/0501-ancient-mars/)
+- May 01 - [Tire toxicity faces fresh scrutiny after salmon die-offs](https://phys.org/news/2024-05-toxicity-fresh-scrutiny-salmon-die.html)
 <!--END_SECTION:hn-->
 
 <!--
