@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 01 - [Claude Team plan and iOS app](https://www.anthropic.com/news/team-plan-and-ios)
-- May 01 - [Ask HN: Who is hiring? (May 2024)](https://news.ycombinator.com/item?id=40224213)
-- May 01 - [CenturyLink left users with no service for two months, then billed them $239](https://arstechnica.com/tech-policy/2024/05/centurylink-left-users-with-no-service-for-two-months-then-billed-them-239/)
-- May 01 - [New findings point to an Earth-like environment on ancient Mars](https://discover.lanl.gov/news/0501-ancient-mars/)
-- May 01 - [Tire toxicity faces fresh scrutiny after salmon die-offs](https://phys.org/news/2024-05-toxicity-fresh-scrutiny-salmon-die.html)
+- May 01 - [Dune 3D 1.1.0 Released](https://github.com/dune3d/dune3d/releases/tag/v1.1.0)
+- May 01 - [The Revenge of the Home Page](https://www.newyorker.com/culture/infinite-scroll/the-revenge-of-the-home-page)
+- May 01 - [The AWS S3 Denial of Wallet Amplification Attack](https://blog.limbus-medtec.com/the-aws-s3-denial-of-wallet-amplification-attack-bc5a97cc041d?gi=67ac052cc1ce)
+- May 01 - [Fed Says Inflation Progress Has Stalled, Extends Wait-and-See Stance](https://www.wsj.com/economy/central-banking/fed-says-inflation-progress-has-stalled-and-extends-wait-and-see-rate-stance-51b74bbf)
+- May 01 - [New startup sells coffee through SSH](https://www.terminal.shop/)
 <!--END_SECTION:hn-->
 
 <!--
