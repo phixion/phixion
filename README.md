@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 30 - [Starbucks shares sink 8% as same-store sales fall, quarterly results miss](https://www.cnbc.com/2024/04/30/starbucks-sbux-earnings-q2-2024.html)
-- Apr 30 - [Xbox 360 marketplace will stop accepting purchases per July 29th](https://support.xbox.com/help/xbox-360/store/xbox-360-marketplace-update)
-- Apr 30 - [Google workers fired for protesting Israeli contract file NLRB complaint](https://www.theverge.com/2024/4/30/24145680/google-workers-fired-project-nimbus-protest-nlrb-complaint)
-- Apr 30 - [General Motors Streetcar Conspiracy](https://en.wikipedia.org/wiki/General_Motors_streetcar_conspiracy)
-- Apr 30 - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
+- May 01 - [A CSS framework for recreating Windows 7 UI](https://khang-nd.github.io/7.css/)
+- May 01 - [Express 5.0 – Last Push](https://github.com/expressjs/discussions/issues/233)
+- May 01 - [Boeing engineer tells senate about 'manufacturing shortcuts' [video]](https://www.youtube.com/watch?v=PP0xhIe1LFE)
+- May 01 - [Apple to unveil AI-enabled Safari alongside new operating systems](https://appleinsider.com/articles/24/04/30/apple-to-unveil-ai-enabled-safari-browser-alongside-new-operating-systems)
+- May 01 - [Aboriginal Linux](https://landley.net/aboriginal/about.html)
 <!--END_SECTION:hn-->
 
 <!--
