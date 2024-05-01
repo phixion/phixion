@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 01 - [What if dreaming is the whole point of sleep?](https://www.theguardian.com/books/2024/apr/22/the-big-idea-what-if-dreaming-is-the-whole-point-of-sleepp)
-- May 01 - [A Strong U.S. Dollar Weighs on the World](https://www.nytimes.com/2024/04/29/business/a-strong-us-dollar-weighs-on-the-world.html)
-- May 01 - [Early Bitcoin Investor Roger Ver Charged with Tax Fraud](https://www.justice.gov/opa/pr/early-bitcoin-investor-charged-tax-fraud)
-- May 01 - [Engineer 'builds a GPU from scratch' in two weeks](https://www.tomshardware.com/pc-components/gpus/engineer-builds-a-gpu-from-scratch-in-two-weeks-process-much-harder-than-he-expected)
+- May 01 - [Ashby (YC W19) Is Hiring EMs to Manage Teams Not Products](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a)
+- May 01 - [Better and Faster Large Language Models via Multi-Token Prediction](https://arxiv.org/abs/2404.19737)
+- May 01 - [The drinking fountain button is tragically misunderstood](https://www.theverge.com/24144774/drinking-fountain-bubbler-button-of-the-month)
+- May 01 - [Resistance against London tube map commit history (a.k.a. git merge hell) (2015)](https://www.tugberkugurlu.com/archive/resistance-against-london-tube-map-commit-history-a-k-a--git-merge-hell)
 - May 01 - [Kolmogorov-Arnold Networks](https://github.com/KindXiaoming/pykan)
 <!--END_SECTION:hn-->
 
