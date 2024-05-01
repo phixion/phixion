@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 30 - [Dean Ball on the new California AI bill](https://marginalrevolution.com/marginalrevolution/2024/04/dean-ball-on-the-new-california-ai-bill-from-my-email.html)
-- Apr 30 - [PCIe 5.0 is nearly 4 years old and it's still virtually worthless in gaming PCs](https://www.pcgamer.com/hardware/pcie-50-is-nearly-four-years-old-and-its-still-virtually-worthless-in-gaming-pcs/)
-- Apr 30 - [How ECMO Is Redefining Death](https://www.newyorker.com/science/annals-of-medicine/how-ecmo-is-redefining-death)
-- Apr 30 - [The File Filesystem](https://mgree.github.io/ffs/)
-- Apr 30 - [Good enough is good enough](https://ep2013.europython.eu/conference/talks/good-enough-is-good-enough)
+- Apr 30 - [Starbucks shares sink 8% as same-store sales fall, quarterly results miss](https://www.cnbc.com/2024/04/30/starbucks-sbux-earnings-q2-2024.html)
+- Apr 30 - [Xbox 360 marketplace will stop accepting purchases per July 29th](https://support.xbox.com/help/xbox-360/store/xbox-360-marketplace-update)
+- Apr 30 - [Google workers fired for protesting Israeli contract file NLRB complaint](https://www.theverge.com/2024/4/30/24145680/google-workers-fired-project-nimbus-protest-nlrb-complaint)
+- Apr 30 - [General Motors Streetcar Conspiracy](https://en.wikipedia.org/wiki/General_Motors_streetcar_conspiracy)
+- Apr 30 - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 <!--END_SECTION:hn-->
 
 <!--
