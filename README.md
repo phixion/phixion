@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 02 - [The AI That Plugs Your Product on Reddit in Conversations](https://replyguy.com/)
-- May 02 - [Show HN: An extension to track your Wikipedia adventures](https://chromewebstore.google.com/detail/wiki-journey/lehenbcbjcnkhkikgopniimobmmdcfog)
-- May 02 - [Show HN: I built a tool for repeatable checklists](https://steplist.app/)
-- May 02 - [Professor Megalow's Dinosaur Bones: Richard Owen and Victorian Literature](https://publicdomainreview.org/essay/richard-owen-and-victorian-literature)
-- May 02 - [Johnson & Johnson announces $6.5B settlement over ovarian cancer allegations](https://www.axios.com/2024/05/01/johnson-johnson-talc-baby-powder-settlement-ovarian-cancer)
+- May 02 - [Will Cambridge support free speech? - Peter Singer on expelled Dr Cofnas](https://www.koreaherald.com/view.php?ud=20240415050845)
+- May 02 - [Simple Postgres to ClickHouse replication featuring MinIO](https://blog.peerdb.io/simple-postgres-to-clickhouse-replication-featuring-minio)
+- May 02 - [Microsoft bans U.S. police departments from using enterprise AI tool](https://techcrunch.com/2024/05/02/microsoft-bans-u-s-police-departments-from-using-enterprise-ai-tool/)
+- May 02 - [Asteroid that broke up over Berlin was fastest-spinning one ever seen](https://www.newscientist.com/article/2428473-asteroid-that-broke-up-over-berlin-was-fastest-spinning-one-ever-seen/)
+- May 02 - [Pet parrots prefer live video-calls](https://phys.org/news/2024-05-pet-parrots-video-pre-videos.html)
 <!--END_SECTION:hn-->
 
 <!--
