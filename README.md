@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 02 - [Optery (YC W22) – Engineering Tech Lead with Django and Python Experience (Remote)](https://www.ycombinator.com/companies/optery/jobs/Jwe23jD-engineering-tech-lead-full-time-contract)
-- May 02 - [Are young people smarter than adults? Research shows differences diminishing](https://theconversation.com/are-young-people-smarter-than-older-adults-my-research-shows-cognitive-differences-between-generations-are-diminishing-229132)
-- May 02 - [I'm closing up shop on my Mastodon for the foreseeable future](https://vkc.sh/its-not-you-its-me-taking-a-break-from-mastodon/)
-- May 02 - [Dissecting LockBit v3 Ransomware](https://blog.calif.io/p/dissecting-lockbit-v3-ransomware)
-- May 02 - [Key Consciousness Connections Uncovered](https://neurosciencenews.com/consciousness-neuroimaging-brain-26017/)
+- May 02 - [The AI That Plugs Your Product on Reddit in Conversations](https://replyguy.com/)
+- May 02 - [Show HN: An extension to track your Wikipedia adventures](https://chromewebstore.google.com/detail/wiki-journey/lehenbcbjcnkhkikgopniimobmmdcfog)
+- May 02 - [Show HN: I built a tool for repeatable checklists](https://steplist.app/)
+- May 02 - [Professor Megalow's Dinosaur Bones: Richard Owen and Victorian Literature](https://publicdomainreview.org/essay/richard-owen-and-victorian-literature)
+- May 02 - [Johnson & Johnson announces $6.5B settlement over ovarian cancer allegations](https://www.axios.com/2024/05/01/johnson-johnson-talc-baby-powder-settlement-ovarian-cancer)
 <!--END_SECTION:hn-->
 
 <!--
