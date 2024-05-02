@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 02 - [Typewise (YC S22) is hiring a Full-Stack Engineer for AI writing assistant](https://www.ycombinator.com/companies/typewise/jobs/U40CJ60-senior-full-stack-engineer-f-m-x)
-- May 02 - [Whistle­blow­er who accused Boeing supplier of ignoring defects dies](https://www.aljazeera.com/economy/2024/5/2/whistleblower-joshua-dean-ex-worker-at-boeing-supplier-dies)
-- May 02 - [The Fishy Death of Red Lobster](https://www.businessinsider.com/red-lobster-endless-shrimp-bankruptcy-private-equity-debt-real-estate-2024-5)
-- May 02 - [Why I'm Resigning from the Intercept](https://www.kenklippenstein.com/p/why-im-resigning-from-the-intercept)
-- May 02 - [Ask HN: How do people create those sleek looking demos for startups?](https://news.ycombinator.com/item?id=40231790)
+- May 02 - [Optery (YC W22) – Engineering Tech Lead with Django and Python Experience (Remote)](https://www.ycombinator.com/companies/optery/jobs/Jwe23jD-engineering-tech-lead-full-time-contract)
+- May 02 - [Are young people smarter than adults? Research shows differences diminishing](https://theconversation.com/are-young-people-smarter-than-older-adults-my-research-shows-cognitive-differences-between-generations-are-diminishing-229132)
+- May 02 - [I'm closing up shop on my Mastodon for the foreseeable future](https://vkc.sh/its-not-you-its-me-taking-a-break-from-mastodon/)
+- May 02 - [Dissecting LockBit v3 Ransomware](https://blog.calif.io/p/dissecting-lockbit-v3-ransomware)
+- May 02 - [Key Consciousness Connections Uncovered](https://neurosciencenews.com/consciousness-neuroimaging-brain-26017/)
 <!--END_SECTION:hn-->
 
 <!--
