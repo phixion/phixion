@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 01 - [Dune 3D 1.1.0 Released](https://github.com/dune3d/dune3d/releases/tag/v1.1.0)
-- May 01 - [The Revenge of the Home Page](https://www.newyorker.com/culture/infinite-scroll/the-revenge-of-the-home-page)
-- May 01 - [The AWS S3 Denial of Wallet Amplification Attack](https://blog.limbus-medtec.com/the-aws-s3-denial-of-wallet-amplification-attack-bc5a97cc041d?gi=67ac052cc1ce)
-- May 01 - [Fed Says Inflation Progress Has Stalled, Extends Wait-and-See Stance](https://www.wsj.com/economy/central-banking/fed-says-inflation-progress-has-stalled-and-extends-wait-and-see-rate-stance-51b74bbf)
+- May 01 - [Horizontal running inside circular walls of Moon settlements](https://royalsocietypublishing.org/doi/10.1098/rsos.231906)
+- May 01 - [César Aira's Magic](https://www.thedial.world/issue-15/cesar-aira-profile)
+- May 01 - [The Adwaita Icon Theme no longer follows the FDO spec, breaking e.g. KDE apps](https://cullmann.io/posts/kate-and-icons/)
+- May 01 - [Mux (YC W16) is hiring a Senior Product Designer that's excited about devtools](https://mux.com/jobs?j=product-designer)
 - May 01 - [New startup sells coffee through SSH](https://www.terminal.shop/)
 <!--END_SECTION:hn-->
 
