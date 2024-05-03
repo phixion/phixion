@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 02 - [Google's Synonym Extraction Methods](https://www.mattcutts.com/blog/google-synonyms/)
-- May 02 - [Former Burning Man headquarters building sells at 90% discount](https://sfist.com/2024/04/23/empty-office-building-at-sixth-and-market-which-last-sold-for-62-million-now-sells-for-just-6-5-million/)
-- May 02 - [An analysis of the rabbit R1 APK](https://www.emergetools.com/deep-dives/rabbit-r1)
-- May 02 - [The life and times of an Abstract Syntax Tree](https://blog.trailofbits.com/2024/05/02/the-life-and-times-of-an-abstract-syntax-tree/)
-- May 02 - [YouTube's Legal Team sent me a letter [video]](https://www.youtube.com/watch?v=dqTYg6vnQvw)
+- May 03 - [Hyundai is spending $1B to keep self-driving startup Motional alive](https://techcrunch.com/2024/05/02/hyundai-is-spending-close-to-1-billion-to-keep-self-driving-startup-motional-alive/)
+- May 03 - [Georgia Tech/Meta Create Open Dataset to Advance AI for Carbon Capture](https://news.gatech.edu/news/2024/05/02/georgia-tech-and-meta-create-massive-open-dataset-advance-ai-solutions-carbon)
+- May 03 - [Cardio fitness is a strong, consistent predictor of morbidity and mortality](https://bjsm.bmj.com/content/58/10/556)
+- May 03 - [I'm writing a new vector search SQLite Extension](https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html)
+- May 03 - [Stdx – The Missing Batteries of Rust](https://github.com/brson/stdx)
 <!--END_SECTION:hn-->
 
 <!--
