@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 03 - [Raycast (YC W20) is hiring Rust engineer (Remote, Europe, €104k – €160k)](https://www.raycast.com/jobs/software-engineer-rust)
+- May 03 - [Google's Med-Gemini AI Outperforms GPT-4 in Healthcare](https://www.forbes.com/sites/talpatalon/2024/05/01/med-geminis-lions-roar/)
+- May 03 - ['I will never go back': Ontario doctor says new AI notetaking saved her job](https://globalnews.ca/news/10463535/ontario-family-doctor-artificial-intelligence-notes/)
+- May 03 - [Thirteen year old singularity bug fixed](https://github.com/tgstation/tgstation/pull/83005)
 - May 03 - [Hyundai is spending $1B to keep self-driving startup Motional alive](https://techcrunch.com/2024/05/02/hyundai-is-spending-close-to-1-billion-to-keep-self-driving-startup-motional-alive/)
-- May 03 - [Georgia Tech/Meta Create Open Dataset to Advance AI for Carbon Capture](https://news.gatech.edu/news/2024/05/02/georgia-tech-and-meta-create-massive-open-dataset-advance-ai-solutions-carbon)
-- May 03 - [Cardio fitness is a strong, consistent predictor of morbidity and mortality](https://bjsm.bmj.com/content/58/10/556)
-- May 03 - [I'm writing a new vector search SQLite Extension](https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html)
-- May 03 - [Stdx – The Missing Batteries of Rust](https://github.com/brson/stdx)
 <!--END_SECTION:hn-->
 
 <!--
