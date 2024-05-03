@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 02 - [Will Cambridge support free speech? - Peter Singer on expelled Dr Cofnas](https://www.koreaherald.com/view.php?ud=20240415050845)
-- May 02 - [Simple Postgres to ClickHouse replication featuring MinIO](https://blog.peerdb.io/simple-postgres-to-clickhouse-replication-featuring-minio)
-- May 02 - [Microsoft bans U.S. police departments from using enterprise AI tool](https://techcrunch.com/2024/05/02/microsoft-bans-u-s-police-departments-from-using-enterprise-ai-tool/)
-- May 02 - [Asteroid that broke up over Berlin was fastest-spinning one ever seen](https://www.newscientist.com/article/2428473-asteroid-that-broke-up-over-berlin-was-fastest-spinning-one-ever-seen/)
-- May 02 - [Pet parrots prefer live video-calls](https://phys.org/news/2024-05-pet-parrots-video-pre-videos.html)
+- May 02 - [Google's Synonym Extraction Methods](https://www.mattcutts.com/blog/google-synonyms/)
+- May 02 - [Former Burning Man headquarters building sells at 90% discount](https://sfist.com/2024/04/23/empty-office-building-at-sixth-and-market-which-last-sold-for-62-million-now-sells-for-just-6-5-million/)
+- May 02 - [An analysis of the rabbit R1 APK](https://www.emergetools.com/deep-dives/rabbit-r1)
+- May 02 - [The life and times of an Abstract Syntax Tree](https://blog.trailofbits.com/2024/05/02/the-life-and-times-of-an-abstract-syntax-tree/)
+- May 02 - [YouTube's Legal Team sent me a letter [video]](https://www.youtube.com/watch?v=dqTYg6vnQvw)
 <!--END_SECTION:hn-->
 
 <!--
