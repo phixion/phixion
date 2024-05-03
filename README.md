@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 03 - [Manta Ray Uncrewed Underwater Vehicle Prototype Completes In-Water Testing](https://www.darpa.mil/news-events/2024-05-01)
-- May 03 - [Lithium-free sodium batteries exit the lab and enter US production](https://newatlas.com/energy/natron-sodium-ion-battery-production-startt/)
-- May 03 - [I Spent 24 Hours with GitHub Copilot Workspaces](https://every.to/chain-of-thought/i-spent-24-hours-with-github-copilot-workspaces)
-- May 03 - [Lowercase – A simple way to take and share notes](https://www.lowercase.app/)
-- May 03 - [CSS Text Box Trim](https://github.com/jantimon/text-box-trim-examples)
+- May 03 - ["We live and we die. We control nothing beyond that."](https://americandreaming.substack.com/p/we-live-and-we-die-we-control-nothing)
+- May 03 - [Show HN: BandMatch – "Tinder" but for finding musicians to create bands/collab](https://bandmatch.app)
+- May 03 - [SATO: Stable Text-to-Motion Framework](https://sato-team.github.io/Stable-Text-to-Motion-Framework/)
+- May 03 - [How hard can generating 1024-bit primes be?](https://glitchcomet.com/articles/1024-bit-primes/)
+- May 03 - [Evidence of price-fixing in the oil industry?](https://www.thebignewsletter.com/p/an-oil-price-fixing-conspiracy-caused)
 <!--END_SECTION:hn-->
 
 <!--
