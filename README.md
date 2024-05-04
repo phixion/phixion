@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 04 - [Spotify getting into enterprise IT tools](https://techcrunch.com/2024/04/30/spotifys-getting-serious-about-its-enterprise-and-dev-tools-business-play/)
+- May 04 - [The Mirror Fusion Test Facility (2023)](https://www.beautifulpublicdata.com/the-mirror-fusion-test-facility/)
+- May 04 - [CBMC: C bounded model checker (2021)](http://www.cprover.org/cbmc/)
+- May 04 - [Vulture shortage threatens Zoroastrian burial rites](https://www.theguardian.com/world/article/2024/may/04/vulture-shortage-threatens-zoroastrian-burial-rites-india-iran-pakistan)
 - May 04 - [Trayd (YC S23) Is Hiring Technical Customer Success Associate](https://www.ycombinator.com/companies/trayd/jobs/mWFq6En-technical-customer-success-associate)
-- May 04 - [At some point, JavaScript got good](https://jonbeebe.net/2024/05/javascript-got-good/)
-- May 04 - [UEFI, BIOS, and other confusing x86 PC (firmware) terms](https://utcc.utoronto.ca/~cks/space/blog/tech/UEFIAndBIOSAndOtherPCTerms)
-- May 04 - [Are recruiters better than a coin flip at judging resumes? Here's the data](https://interviewing.io/blog/are-recruiters-better-than-a-coin-flip-at-judging-resumes)
-- May 04 - [How to explore your scientific values and develop a vision for your field](https://www.thetransmitter.org/craft-and-careers/how-to-explore-your-scientific-values-and-develop-a-vision-for-your-field/)
 <!--END_SECTION:hn-->
 
 <!--
