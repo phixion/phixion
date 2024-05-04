@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 04 - [Spotify getting into enterprise IT tools](https://techcrunch.com/2024/04/30/spotifys-getting-serious-about-its-enterprise-and-dev-tools-business-play/)
-- May 04 - [The Mirror Fusion Test Facility (2023)](https://www.beautifulpublicdata.com/the-mirror-fusion-test-facility/)
-- May 04 - [CBMC: C bounded model checker (2021)](http://www.cprover.org/cbmc/)
-- May 04 - [Vulture shortage threatens Zoroastrian burial rites](https://www.theguardian.com/world/article/2024/may/04/vulture-shortage-threatens-zoroastrian-burial-rites-india-iran-pakistan)
-- May 04 - [Trayd (YC S23) Is Hiring Technical Customer Success Associate](https://www.ycombinator.com/companies/trayd/jobs/mWFq6En-technical-customer-success-associate)
+- May 04 - [He Lost $36B in a Week. Now Bill Hwang Is Fighting to Avoid Prison](https://www.bloomberg.com/news/features/2024-05-01/bill-hwang-fights-prison-time-after-hastening-credit-suisse-collapse)
+- May 04 - [Does the American Diabetes Association work for patients or companies?](https://www.theguardian.com/global/commentisfree/2024/may/02/american-diabetes-association-lawsuit)
+- May 04 - [Motion (YC W20) is hiring senior software engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
+- May 04 - [Porting HPC Applications to AMD Instinct MI300A Using Unified Memory and OpenMP](https://arxiv.org/abs/2405.00436)
+- May 04 - [Was the Stone Age the Wood Age?](https://www.nytimes.com/2024/05/04/science/archaeology-neanderthals-wood.html)
 <!--END_SECTION:hn-->
 
 <!--
