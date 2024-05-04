@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 03 - ["We live and we die. We control nothing beyond that."](https://americandreaming.substack.com/p/we-live-and-we-die-we-control-nothing)
-- May 03 - [Show HN: BandMatch – "Tinder" but for finding musicians to create bands/collab](https://bandmatch.app)
-- May 03 - [SATO: Stable Text-to-Motion Framework](https://sato-team.github.io/Stable-Text-to-Motion-Framework/)
-- May 03 - [How hard can generating 1024-bit primes be?](https://glitchcomet.com/articles/1024-bit-primes/)
-- May 03 - [Evidence of price-fixing in the oil industry?](https://www.thebignewsletter.com/p/an-oil-price-fixing-conspiracy-caused)
+- May 03 - [Show HN: I built a free in-browser Llama 3 chatbot powered by WebGPU](https://github.com/abi/secret-llama)
+- May 03 - [Discord Applying Forced Arbitration - opt-out before it is too late!](https://bsky.app/profile/silverwuffamute.bsky.social/post/3kqbd476nvk2i)
+- May 03 - [Finley (YC W21) is hiring securitization and structured finance professionals](https://jobs.lever.co/FinleyTechnologies/70462b30-c31a-4db3-932a-0abb96ec5566)
+- May 03 - [Show HN: Lightsaber Battle – May the Fourth Be with You](https://www.lightsabercursor.com/)
+- May 03 - [Karate physics: How your hand can break concrete without breaking itself (2021)](https://daily.jstor.org/the-physics-of-karate/)
 <!--END_SECTION:hn-->
 
 <!--
