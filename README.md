@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 04 - [A love letter to bicycle maintenance and repair](https://tegowerk.eu/posts/bicycle-repair/)
-- May 04 - [Nintendo blitzes GitHub with over 8k emulator-related DMCA takedowns](https://www.engadget.com/nintendo-blitzes-github-with-over-8000-emulator-related-dmca-takedowns-200021877.html)
-- May 04 - [My secret life as an 11-year-old BBS sysop (2022)](https://arstechnica.com/information-technology/2022/12/my-secret-life-as-an-11-year-old-bbs-sysop/)
-- May 04 - [Insects and other animals have consciousness](https://nautil.us/insects-and-other-animals-have-consciousness-571584/)
-- May 04 - [I never stopped learning from Daniel Dennett](https://nautil.us/i-never-stopped-learning-from-daniel-dennett-569904/)
+- May 04 - [Trayd (YC S23) Is Hiring Technical Customer Success Associate](https://www.ycombinator.com/companies/trayd/jobs/mWFq6En-technical-customer-success-associate)
+- May 04 - [At some point, JavaScript got good](https://jonbeebe.net/2024/05/javascript-got-good/)
+- May 04 - [UEFI, BIOS, and other confusing x86 PC (firmware) terms](https://utcc.utoronto.ca/~cks/space/blog/tech/UEFIAndBIOSAndOtherPCTerms)
+- May 04 - [Are recruiters better than a coin flip at judging resumes? Here's the data](https://interviewing.io/blog/are-recruiters-better-than-a-coin-flip-at-judging-resumes)
+- May 04 - [How to explore your scientific values and develop a vision for your field](https://www.thetransmitter.org/craft-and-careers/how-to-explore-your-scientific-values-and-develop-a-vision-for-your-field/)
 <!--END_SECTION:hn-->
 
 <!--
