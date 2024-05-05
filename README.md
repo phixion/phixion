@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 05 - [Emerge (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
-- May 05 - [Time-Based CSS Animations](https://yuanchuan.dev/time-based-css-animations)
-- May 05 - [Judge mulls sanctions over Google's "shocking" destruction of internal chats](https://arstechnica.com/tech-policy/2024/05/judge-mulls-sanctions-over-googles-shocking-destruction-of-internal-chats/)
-- May 05 - [Cylon: JavaScript framework for robotics, drones, and the Internet of Things](https://github.com/hybridgroup/cylon)
-- May 05 - [Google Fit dev APIs shutdown set, fate of Android, Wear OS apps go unannounced](https://9to5google.com/2024/05/04/google-fit-api-shutdown/)
+- May 05 - [Fern (YC W23) Is Hiring a Back End Engineer in NYC](https://www.ycombinator.com/companies/fern/jobs/9mMCMnY-backend-engineer)
+- May 05 - [Three Scientists Go to Heaven](https://breckyunits.com/aScientistGoesToHeaven.html)
+- May 05 - [Debian 64-bit-time transition](https://wiki.debian.org/ReleaseGoals/64bit-time)
+- May 05 - [Helldivers 2 Removed from Purchase on Steam in over 150 Countries](https://www.thegamer.com/helldivers-2-delisted-on-steam-100-plus-countries-without-psn-due-to-psn-sign-in-requirement-controversy/)
+- May 05 - [They Live](https://en.wikipedia.org/wiki/They_Live)
 <!--END_SECTION:hn-->
 
 <!--
