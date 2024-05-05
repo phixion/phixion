@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 05 - [Small Things](https://rishad.substack.com/p/small-things)
-- May 05 - [Let insects eat your plants](https://www.bbc.com/future/article/20240503-why-you-should-let-insects-eat-your-plants)
-- May 05 - [First 'tooth regrowth medicine' to be tested in Japan from Sept. 2024](https://mainichi.jp/english/articles/20240503/p2a/00m/0sc/012000c)
-- May 05 - [Machine unlearning: ML model minus the information to be unlearned](https://ai.stanford.edu/~kzliu/blog/unlearning)
-- May 05 - [A History of C Compilers – Part 1: Performance, Portability and Freedom](https://thechipletter.substack.com/p/a-history-of-c-compilers-part-1-performance)
+- May 05 - [Bollards: What and Why](https://josh.works/bollards)
+- May 05 - [Israel shuts down local Al Jazeera offices in 'dark day for the media'](https://www.theguardian.com/world/article/2024/may/05/israel-shuts-down-local-al-jazeera-offices-in-dark-day-for-the-media)
+- May 05 - [Designing furniture using the CSS grid (2023)](https://alnvdl.github.io/2023/01/07/designing-furniture-using-the-css-grid.html)
+- May 05 - [Flying planes with a JavaScript autopilot (2023)](https://pomax.github.io/are-we-flying/)
+- May 05 - [Recruiters are going analog to fight the AI application overload](https://www.wired.com/story/recruiters-ai-application-overload/)
 <!--END_SECTION:hn-->
 
 <!--
