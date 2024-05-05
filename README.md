@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 04 - [He Lost $36B in a Week. Now Bill Hwang Is Fighting to Avoid Prison](https://www.bloomberg.com/news/features/2024-05-01/bill-hwang-fights-prison-time-after-hastening-credit-suisse-collapse)
-- May 04 - [Does the American Diabetes Association work for patients or companies?](https://www.theguardian.com/global/commentisfree/2024/may/02/american-diabetes-association-lawsuit)
-- May 04 - [Motion (YC W20) is hiring senior software engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
-- May 04 - [Porting HPC Applications to AMD Instinct MI300A Using Unified Memory and OpenMP](https://arxiv.org/abs/2405.00436)
-- May 04 - [Was the Stone Age the Wood Age?](https://www.nytimes.com/2024/05/04/science/archaeology-neanderthals-wood.html)
+- May 04 - [Vera Rubin's primary mirror gets its first reflective coating](https://www.universetoday.com/166842/vera-rubins-primary-mirror-gets-its-first-reflective-coating/)
+- May 04 - [Love to see the night sky on Mars? This is what it would be like to stargaze](https://www.skyatnightmagazine.com/space-science/what-does-night-sky-look-like-mars)
+- May 04 - [Cathinone and Psilocybin in Cicada Pathogens (2019)](https://www.sciencedirect.com/science/article/pii/S1754504819300352)
+- May 04 - [Multi-million dollar Cheyenne supercomputer auction ends with $480,085 bid](https://www.tomshardware.com/tech-industry/supercomputers/multi-million-dollar-cheyenne-supercomputer-auction-ends-with-480085-bid)
+- May 04 - [Show HN: gpudeploy.com – "Airbnb" for GPUs](https://www.gpudeploy.com)
 <!--END_SECTION:hn-->
 
 <!--
