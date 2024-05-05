@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 05 - [Boeing faces 10 more whistleblowers after sudden death of two](https://www.hindustantimes.com/world-news/us-news/is-boeing-in-big-trouble-worlds-largest-aerospace-firm-faces-10-more-whistleblowers-after-sudden-death-of-two-101714838675908.html)
-- May 05 - [Ghosts in the Machine 2 [video]](https://www.youtube.com/watch?v=V6hu83yVMlU)
-- May 05 - [SEQUOIA: Exact Llama2-70B on an RTX4090 with half-second per-token latency](https://infini-ai-lab.github.io/Sequoia-Page/)
-- May 05 - [Moving the largest camera from California lab to Andes mountaintop](https://www.scientificamerican.com/article/how-to-move-the-worlds-largest-camera-from-a-california-lab-to-an-andes/)
-- May 05 - [Automated integer hash function discovery](https://github.com/skeeto/hash-prospector)
+- May 05 - [Emerge (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
+- May 05 - [Time-Based CSS Animations](https://yuanchuan.dev/time-based-css-animations)
+- May 05 - [Judge mulls sanctions over Google's "shocking" destruction of internal chats](https://arstechnica.com/tech-policy/2024/05/judge-mulls-sanctions-over-googles-shocking-destruction-of-internal-chats/)
+- May 05 - [Cylon: JavaScript framework for robotics, drones, and the Internet of Things](https://github.com/hybridgroup/cylon)
+- May 05 - [Google Fit dev APIs shutdown set, fate of Android, Wear OS apps go unannounced](https://9to5google.com/2024/05/04/google-fit-api-shutdown/)
 <!--END_SECTION:hn-->
 
 <!--
