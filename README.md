@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 06 - [Show HN: Supertone Shift – AI powered Real-time voice changer](https://product.supertone.ai/shift)
-- May 06 - [Remnants of a legendary typeface have been rescued from the Thames](https://news.artnet.com/art-world/doves-typeface-2454807)
-- May 05 - [X.org on NetBSD – The State of Things](https://blog.netbsd.org/tnf/entry/x_org_on_netbsd_the)
-- May 05 - [Drug resistant bacteria found on ISS mutating to become functionally distinct](https://www.nasa.gov/centers-and-facilities/ames/ames-science/ames-space-biosciences/multi-drug-resistant-bacteria-found-on-iss-mutating-to-become-functionally-distinct/)
-- May 05 - [Deep Reinforcement Learning: Zero to Hero](https://github.com/alessiodm/drl-zh)
+- May 06 - [Fern (YC W23) Is Hiring a Customer-Centric Software Engineer](https://www.ycombinator.com/companies/fern/jobs/KmSsgCu-deployed-engineer)
+- May 06 - [Sony overturns Helldivers 2 PSN requirement following backlash](https://www.eurogamer.net/sony-overturns-helldivers-2-psn-requirement-following-backlash)
+- May 06 - [Ask HN: People that use jq extensively, I'd like to talk to you](https://news.ycombinator.com/item?id=40273454)
+- May 06 - [Preview Builds of the Zed Editor Now Available for Linux](https://zed.dev/releases/preview)
+- May 06 - [A Useful Productivity Measure for Software Engineering?](https://www.jamesshore.com/v2/blog/2024/a-useful-productivity-measure)
 <!--END_SECTION:hn-->
 
 <!--
