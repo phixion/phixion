@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 06 - [Remnants of a Legendary Typeface Have Been Rescued from the River Thames](https://news.artnet.com/art-world/doves-typeface-2454807)
+- May 06 - [Shibboleth](https://www.newyorker.com/news/essay/shibboleth-the-role-of-words-in-the-campus-protests)
+- May 05 - [X.org on NetBSD – The State of Things](https://blog.netbsd.org/tnf/entry/x_org_on_netbsd_the)
+- May 05 - [Drug resistant bacteria found on ISS mutating to become functionally distinct](https://www.nasa.gov/centers-and-facilities/ames/ames-science/ames-space-biosciences/multi-drug-resistant-bacteria-found-on-iss-mutating-to-become-functionally-distinct/)
 - May 05 - [Deep Reinforcement Learning: Zero to Hero](https://github.com/alessiodm/drl-zh)
-- May 05 - ["Meta spent almost as much as the Manhattan Project on GPUs in today's dollars"](https://twitter.com/emollick/status/1786213463456448900)
-- May 05 - [Bollards: Why and What](https://josh.works/bollards)
-- May 05 - [Social engineering takeovers of open source projects](https://openssf.org/blog/2024/04/15/open-source-security-openssf-and-openjs-foundations-issue-alert-for-social-engineering-takeovers-of-open-source-projects/)
-- May 05 - [Israel shuts down local Al Jazeera offices](https://www.theguardian.com/world/article/2024/may/05/israel-shuts-down-local-al-jazeera-offices-in-dark-day-for-the-media)
 <!--END_SECTION:hn-->
 
 <!--
