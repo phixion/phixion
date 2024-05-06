@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 06 - [Fern (YC W23) Is Hiring a Customer-Centric Software Engineer](https://www.ycombinator.com/companies/fern/jobs/KmSsgCu-deployed-engineer)
-- May 06 - [Sony overturns Helldivers 2 PSN requirement following backlash](https://www.eurogamer.net/sony-overturns-helldivers-2-psn-requirement-following-backlash)
-- May 06 - [Ask HN: People that use jq extensively, I'd like to talk to you](https://news.ycombinator.com/item?id=40273454)
-- May 06 - [Preview Builds of the Zed Editor Now Available for Linux](https://zed.dev/releases/preview)
-- May 06 - [A Useful Productivity Measure for Software Engineering?](https://www.jamesshore.com/v2/blog/2024/a-useful-productivity-measure)
+- May 06 - [Evaluating bias and noise induced by the U.S. Census Bureau's privacy protection](https://www.science.org/doi/10.1126/sciadv.adl2524)
+- May 06 - [JTAG Hacking with a Raspberry Pi – Introducing the PiFex](https://voidstarsec.com/blog/jtag-pifex)
+- May 06 - [A fourteen-day free trial ain’t gonna cut it](https://keygen.sh/blog/your-14-day-free-trial-aint-gonna-cut-it/)
+- May 06 - [Stack Overflow and OpenAI are partnering](https://stackoverflow.co/company/press/archive/openai-partnership/)
+- May 06 - [Daniel Dennett: 'Where Am I?'](https://thereader.mitpress.mit.edu/daniel-dennett-where-am-i/)
 <!--END_SECTION:hn-->
 
 <!--
