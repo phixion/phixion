@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 06 - [Evaluating bias and noise induced by the U.S. Census Bureau's privacy protection](https://www.science.org/doi/10.1126/sciadv.adl2524)
-- May 06 - [JTAG Hacking with a Raspberry Pi – Introducing the PiFex](https://voidstarsec.com/blog/jtag-pifex)
-- May 06 - [A fourteen-day free trial ain’t gonna cut it](https://keygen.sh/blog/your-14-day-free-trial-aint-gonna-cut-it/)
-- May 06 - [Stack Overflow and OpenAI are partnering](https://stackoverflow.co/company/press/archive/openai-partnership/)
-- May 06 - [Daniel Dennett: 'Where Am I?'](https://thereader.mitpress.mit.edu/daniel-dennett-where-am-i/)
+- May 06 - [Volcanoes and Us (2015) [video]](https://www.youtube.com/watch?v=GlNhaAV5NZ4)
+- May 06 - [New way to have complex discussions](https://cq2.co/blog/the-best-way-to-have-complex-discussions)
+- May 06 - [Results of the Grand C++ Error Explosion Competition (2014)](https://tgceec.tumblr.com/post/74534916370/results-of-the-grand-c-error-explosion)
+- May 06 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- May 06 - [Show HN: Peerdb Streams – Simple, native Postgres change data capture](https://news.ycombinator.com/item?id=40276768)
 <!--END_SECTION:hn-->
 
 <!--
