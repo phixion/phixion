@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 07 - [Google begins enforcement of site reputation abuse policy](https://searchengineland.com/google-begins-enforcement-of-site-reputation-abuse-policy-with-portions-of-sites-being-delisted-440294)
-- May 07 - [New black hole visualization takes viewers beyond the brink](https://phys.org/news/2024-05-black-hole-visualization-viewers-brink.html)
-- May 07 - [Utilities for refactoring and upgrading Ruby code based on ASTs](https://github.com/baweaver/refactor)
-- May 07 - [Boeing Starliner's first crewed mission scrubbed](https://techcrunch.com/2024/05/06/boeing-starliners-first-crewed-mission-scrubbed/)
-- May 07 - [How Python asyncio works: recreating it from scratch](https://jacobpadilla.com/articles/recreating-asyncio)
+- May 07 - [PermitFlow (YC W22) Is Hiring Software Engineers](https://jobs.ashbyhq.com/permitflow)
+- May 07 - [Microsoft Working on 'Far Larger' In-House AI Model](https://www.pymnts.com/artificial-intelligence-2/2024/report-microsoft-working-on-far-larger-in-house-ai-model/)
+- May 07 - [Pyspread – The Most Pythonic Spreadsheet](https://pyspread.gitlab.io/)
+- May 07 - [Dotfiles: Unofficial Guide to Dotfiles on GitHub](https://dotfiles.github.io/)
+- May 07 - [Caniwebview.com – Like Caniuse but for Webviews](https://caniwebview.com/)
 <!--END_SECTION:hn-->
 
 <!--
