@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 07 - [PermitFlow (YC W22) Is Hiring Software Engineers](https://jobs.ashbyhq.com/permitflow)
-- May 07 - [Microsoft Working on 'Far Larger' In-House AI Model](https://www.pymnts.com/artificial-intelligence-2/2024/report-microsoft-working-on-far-larger-in-house-ai-model/)
-- May 07 - [Pyspread – The Most Pythonic Spreadsheet](https://pyspread.gitlab.io/)
-- May 07 - [Dotfiles: Unofficial Guide to Dotfiles on GitHub](https://dotfiles.github.io/)
-- May 07 - [Caniwebview.com – Like Caniuse but for Webviews](https://caniwebview.com/)
+- May 07 - [The Curious Case of Eriogonum Tiehmii](https://www.uvm.edu/cals/plantbiology/curious-case-eriogonum-tiehmii)
+- May 07 - [Conjoined twins who refused to be 'fixed'](https://www.theatlantic.com/health/archive/2024/05/schappell-twins-conjoined-disabled-transgender/678316/)
+- May 07 - [Road resurfacing during the daytime without stopping traffic [video]](https://www.youtube.com/watch?v=ymyIEGRw4-U)
+- May 07 - [Linux When?](https://zed.dev/blog/zed-decoded-linux-when)
+- May 07 - [J.G. Ballard predicted the rise of social media (2016)](https://www.openculture.com/2016/03/j-g-ballard-predicted-the-rise-of-social-media-and-youtube-celebrity-in-1977.html)
 <!--END_SECTION:hn-->
 
 <!--
