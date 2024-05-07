@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 07 - [The Curious Case of Eriogonum Tiehmii](https://www.uvm.edu/cals/plantbiology/curious-case-eriogonum-tiehmii)
-- May 07 - [Conjoined twins who refused to be 'fixed'](https://www.theatlantic.com/health/archive/2024/05/schappell-twins-conjoined-disabled-transgender/678316/)
+- May 07 - [ScrapeGraphAI: Web scraping using LLM and direct graph logic](https://scrapegraph-doc.onrender.com/)
+- May 07 - [The Grateful Dead's Wall of Sound](https://audioacademy.in/the-grateful-deads-wall-of-sound/)
+- May 07 - [Show HN: Convert your Containerfile to a bootable OS](https://github.com/containers/podman-desktop-extension-bootc)
+- May 07 - [Facebook just updated its relationship status with Web Components](https://www.mux.com/blog/facebook-just-updated-it-s-relationship-status-with-web-components)
 - May 07 - [Road resurfacing during the daytime without stopping traffic [video]](https://www.youtube.com/watch?v=ymyIEGRw4-U)
-- May 07 - [Linux When?](https://zed.dev/blog/zed-decoded-linux-when)
-- May 07 - [J.G. Ballard predicted the rise of social media (2016)](https://www.openculture.com/2016/03/j-g-ballard-predicted-the-rise-of-social-media-and-youtube-celebrity-in-1977.html)
 <!--END_SECTION:hn-->
 
 <!--
