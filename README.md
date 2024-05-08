@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 08 - [Launch HN: Baselit (YC W23) – Automatically Reduce Snowflake Costs](https://news.ycombinator.com/item?id=40299556)
-- May 08 - [New capacitor with 19-times energy density](https://www.livescience.com/technology/electronics/ev-batteries-could-last-much-longer-thanks-to-new-capacitor-with-19-times-power-density-that-scientists-created-by-mistake)
-- May 08 - [U.S. libraries are battling high prices for better e-book access](https://www.axios.com/2024/05/06/library-librarians-e-books-license-policies)
-- May 08 - [Show HN: I made a better Perplexity for developers](https://devv.ai)
-- May 08 - [AlphaFold 3 predicts the structure and interactions of all of life's molecules](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/)
+- May 08 - [Model Spec](https://cdn.openai.com/spec/model-spec-2024-05-08.html)
+- May 08 - [Development Notes from xkcd's "Machine"](https://chromakode.com/post/xkcd-machine/)
+- May 08 - [Bun (YC S19) Is Hiring Systems Engineers in San Francisco](https://apply.workable.com/oven/j/A7A1388873/)
+- May 08 - [Show HN: I built a non-linear UI for ChatGPT](https://www.grafychat.com)
+- May 08 - [Steve Albini has died](https://pitchfork.com/news/steve-albini-storied-producer-and-icon-of-the-rock-underground-dies-at-61/)
 <!--END_SECTION:hn-->
 
 <!--
