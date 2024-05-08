@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 08 - [XLSTM: Extended Long Short-Term Memory](https://arxiv.org/abs/2405.04517)
+- May 08 - [U.S. Rules Apple Illegally Interrogated Staff and Confiscated Union Flyers](https://www.forbes.com/sites/antoniopequenoiv/2024/05/06/us-labor-board-rules-apple-illegally-interrogated-staff-and-confiscated-union-flyers/)
+- May 08 - [The C++ Iceberg](https://fouronnes.github.io/cppiceberg/)
 - May 08 - [Show HN: Serverless collaborative notion-level note editor using CRDT in GO](https://github.com/notebox/nbfm)
-- May 08 - [Needle: A DFA Based Regex Library That Compiles to JVM ByteCode](https://justinblank.com/experiments/needle.html)
-- May 07 - [Unix forking the universe by running IBM's free online quantum computer](https://parel.es/blog/quantum-dice)
-- May 07 - [Decker: A fantastic reincarnation of HyperCard with 1-bit graphics](https://www.beyondloom.com/decker/index.html)
-- May 07 - [Qt and C++ Trivial Relocation (Part 1)](https://www.kdab.com/qt-and-trivial-relocation-part-1/)
+- May 08 - [Why use ECC? (2015)](https://danluu.com/why-ecc/)
 <!--END_SECTION:hn-->
 
 <!--
