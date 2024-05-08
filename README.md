@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 08 - [Are You an Anarchist? The Answer May Surprise You by David Graeber](https://theanarchistlibrary.org/library/david-graeber-are-you-an-anarchist-the-answer-may-surprise-you)
-- May 08 - [What do you call a Rust pointer we stole the high bits off? An ointer. (2021)](https://github.com/irrustible/ointers)
-- May 08 - [Hyperworlds – Web Replacement Projects](https://hyperworlds.org/)
-- May 08 - [The search for easier safe systems programming](https://www.sophiajt.com/search-for-easier-safe-systems-programming/)
-- May 08 - [Fly.io Infra log: week-by-week record of what the team does](https://fly.io/infra-log/)
+- May 08 - [Launch HN: Baselit (YC W23) – Automatically Reduce Snowflake Costs](https://news.ycombinator.com/item?id=40299556)
+- May 08 - [New capacitor with 19-times energy density](https://www.livescience.com/technology/electronics/ev-batteries-could-last-much-longer-thanks-to-new-capacitor-with-19-times-power-density-that-scientists-created-by-mistake)
+- May 08 - [U.S. libraries are battling high prices for better e-book access](https://www.axios.com/2024/05/06/library-librarians-e-books-license-policies)
+- May 08 - [Show HN: I made a better Perplexity for developers](https://devv.ai)
+- May 08 - [AlphaFold 3 predicts the structure and interactions of all of life's molecules](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/)
 <!--END_SECTION:hn-->
 
 <!--
