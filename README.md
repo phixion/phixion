@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 09 - [Algebraic Data Types for C99](https://github.com/Hirrolot/datatype99)
-- May 09 - [Show HN: Browser-based knitting (pattern) software](https://github.com/alefore/knit)
-- May 09 - [Boeing 737 crashes during take-off in Senegal](https://www.bbc.co.uk/news/articles/ce5ljpnggp4o)
-- May 09 - [Dell responds to return-to-office resistance with VPN, badge tracking](https://arstechnica.com/information-technology/2024/05/dell-to-monitor-worker-vpn-use-badge-swipes-to-enforce-office-policy/)
-- May 09 - [In software architecture you have to recognize when you're adding a rocket stage](https://toot.cat/@plexus/112403882840794498)
+- May 09 - [the US is propping up gas while the world moves to renewable energy](https://www.theverge.com/2024/5/7/24151375/renewable-energy-global-electricity-report-us-gas)
+- May 09 - [Show HN: Open-Source SlackAI app for those who don't want to pay $10/user/month](https://github.com/meetbryce/open-source-slack-ai)
+- May 09 - [Launch HN: Muddy (YC S19) – Multiplayer browser for getting work done](https://news.ycombinator.com/item?id=40309342)
+- May 09 - [A Brief History of the First Planetarium](https://spectrum.ieee.org/planetarium-history)
+- May 09 - [Microsoft PlayReady – Complete Client Identity Compromise](https://seclists.org/fulldisclosure/2024/May/5)
 <!--END_SECTION:hn-->
 
 <!--
