@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- May 09 - [Tappware - 94,734 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Tappware)
 - Apr 30 - [MovieBoxPro - 6,009,014 breached accounts](https://haveibeenpwned.com/PwnedWebsites#MovieBoxPro)
 - Apr 26 - [Piping Rock - 2,103,100 breached accounts](https://haveibeenpwned.com/PwnedWebsites#PipingRock)
 - Apr 22 - [T2 - 94,584 breached accounts](https://haveibeenpwned.com/PwnedWebsites#T2)
 - Apr 18 - [Le Slip Français - 1,495,127 breached accounts](https://haveibeenpwned.com/PwnedWebsites#LeSlipFrancais)
-- Apr 12 - [Giant Tiger - 2,842,669 breached accounts](https://haveibeenpwned.com/PwnedWebsites#GiantTiger)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 08 - [Show HN: SimBricks – Modular Full-System Simulation for HW-SW Systems](https://simbricks.github.io/)
-- May 08 - [Stack Overflow users deleting answers after OpenAI partnership](https://build5nines.com/stack-overflow-upset-over-users-deleting-answers-after-openai-partnership/)
-- May 08 - [English learners can now practice speaking on Google Search](https://research.google/blog/english-learners-can-now-practice-speaking-on-search/)
-- May 08 - [A Scientific Run-Down of Coffee Blooming](https://www.seriouseats.com/perfect-coffee-bubbles-signs-sounds-6824133)
-- May 08 - [A Portal Connecting NYC to Dublin Opens in Flatiron Today](https://secretnyc.co/the-portal-connecting-nyc-to-dublin/)
+- May 09 - [A look inside illegal drone deliveries at B.C.'s prisons](https://www.vancouverisawesome.com/highlights/watch-a-look-inside-illegal-drone-deliveries-at-bcs-prisons-8706734)
+- May 09 - [The Time I Lied to the CTO and Saved the Day](https://GrumpyOldDev.com/post/the-one-where-i-lie-to-the-cto/)
+- May 08 - [Opening Windows in Linux with sockets, bare hands and 200 lines of C](https://hereket.com/posts/from-scratch-x11-windowing/)
+- May 08 - [A Man Who Raced to Tell the World That Mount Everest Had Been Climbed](https://www.outsideonline.com/outdoor-adventure/everest/everest-hillary-norgay-1953-news/)
+- May 08 - [Securing Git Repositories with Gittuf](https://lwn.net/SubscriberLink/972467/595a68b99f57a87d/)
 <!--END_SECTION:hn-->
 
 <!--
