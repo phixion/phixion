@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 08 - [Model Spec](https://cdn.openai.com/spec/model-spec-2024-05-08.html)
-- May 08 - [Development Notes from xkcd's "Machine"](https://chromakode.com/post/xkcd-machine/)
-- May 08 - [Bun (YC S19) Is Hiring Systems Engineers in San Francisco](https://apply.workable.com/oven/j/A7A1388873/)
-- May 08 - [Show HN: I built a non-linear UI for ChatGPT](https://www.grafychat.com)
-- May 08 - [Steve Albini has died](https://pitchfork.com/news/steve-albini-storied-producer-and-icon-of-the-rock-underground-dies-at-61/)
+- May 08 - [Show HN: SimBricks – Modular Full-System Simulation for HW-SW Systems](https://simbricks.github.io/)
+- May 08 - [Stack Overflow users deleting answers after OpenAI partnership](https://build5nines.com/stack-overflow-upset-over-users-deleting-answers-after-openai-partnership/)
+- May 08 - [English learners can now practice speaking on Google Search](https://research.google/blog/english-learners-can-now-practice-speaking-on-search/)
+- May 08 - [A Scientific Run-Down of Coffee Blooming](https://www.seriouseats.com/perfect-coffee-bubbles-signs-sounds-6824133)
+- May 08 - [A Portal Connecting NYC to Dublin Opens in Flatiron Today](https://secretnyc.co/the-portal-connecting-nyc-to-dublin/)
 <!--END_SECTION:hn-->
 
 <!--
