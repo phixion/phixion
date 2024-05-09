@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 09 - [the US is propping up gas while the world moves to renewable energy](https://www.theverge.com/2024/5/7/24151375/renewable-energy-global-electricity-report-us-gas)
-- May 09 - [Show HN: Open-Source SlackAI app for those who don't want to pay $10/user/month](https://github.com/meetbryce/open-source-slack-ai)
-- May 09 - [Launch HN: Muddy (YC S19) – Multiplayer browser for getting work done](https://news.ycombinator.com/item?id=40309342)
-- May 09 - [A Brief History of the First Planetarium](https://spectrum.ieee.org/planetarium-history)
-- May 09 - [Microsoft PlayReady – Complete Client Identity Compromise](https://seclists.org/fulldisclosure/2024/May/5)
+- May 09 - [NASA's Proposed Plasma Rocket Would Get Us to Mars in 2 Months](https://gizmodo.com/nasa-pulsed-plasma-rocket-advanced-concept-mars-1851463831)
+- May 09 - [DNSecure – a configuration tool of DoT and DoH for iOS and iPadOS](https://github.com/kkebo/DNSecure)
+- May 09 - [It's always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html)
+- May 09 - [Freshpaint (YC S19) is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+- May 09 - [Leaked deck reveals how OpenAI is pitching publisher partnerships](https://www.adweek.com/media/openai-preferred-publisher-program-deck/)
 <!--END_SECTION:hn-->
 
 <!--
