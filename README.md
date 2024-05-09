@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 09 - [CodeStory (YC S23) Is Hiring a Founding Engineer for Building AI-Native IDE](https://www.workatastartup.com/companies/codestory)
-- May 09 - [The Time I Lied to the CTO and Saved the Day](https://GrumpyOldDev.com/post/the-one-where-i-lie-to-the-cto/)
-- May 08 - [Opening Windows in Linux with sockets, bare hands and 200 lines of C](https://hereket.com/posts/from-scratch-x11-windowing/)
-- May 08 - [A Man Who Raced to Tell the World That Mount Everest Had Been Climbed](https://www.outsideonline.com/outdoor-adventure/everest/everest-hillary-norgay-1953-news/)
-- May 08 - [Securing Git Repositories with Gittuf](https://lwn.net/SubscriberLink/972467/595a68b99f57a87d/)
+- May 09 - [Algebraic Data Types for C99](https://github.com/Hirrolot/datatype99)
+- May 09 - [Show HN: Browser-based knitting (pattern) software](https://github.com/alefore/knit)
+- May 09 - [Boeing 737 crashes during take-off in Senegal](https://www.bbc.co.uk/news/articles/ce5ljpnggp4o)
+- May 09 - [Dell responds to return-to-office resistance with VPN, badge tracking](https://arstechnica.com/information-technology/2024/05/dell-to-monitor-worker-vpn-use-badge-swipes-to-enforce-office-policy/)
+- May 09 - [In software architecture you have to recognize when you're adding a rocket stage](https://toot.cat/@plexus/112403882840794498)
 <!--END_SECTION:hn-->
 
 <!--
