@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 10 - [Boeing 737 catches fire and skids off the runway in Senegal](https://apnews.com/article/senegal-dakar-plane-crash-boeing-ca40060696eaedfb69324d9110a55c60)
+- May 10 - [Trip C++Now 2024 – think-cell](https://www.think-cell.com/en/career/devblog/trip-report-cpp-now-2024)
+- May 10 - [Is the largest root of a random polynomial more likely to be real than complex?](https://mathoverflow.net/questions/470951/is-the-largest-root-of-a-random-polynomial-more-likely-to-be-real-than-complex)
 - May 10 - [Bloop (YC S21) Is Hiring AI Engineers. Devin for Legacy Code (London, Onsite)](https://www.ycombinator.com/companies/bloop/jobs/iCrEllp-ai-engineer)
-- May 10 - [Elvish, expressive programming language and a versatile interactive shell](https://elv.sh)
-- May 10 - [Roman Tyrian purple snail dye found in UK for first time](https://www.bbc.com/news/articles/cjje132jvygo)
-- May 10 - [Polestar eliminates the rear window in latest electric car](https://www.dezeen.com/2024/02/06/polestar-4-eliminiates-rear-window/)
-- May 10 - [Player-Driven Emergence in LLM-Driven Game Narrative](https://arxiv.org/abs/2404.17027)
+- May 10 - [I Accidentally Uncovered a Nationwide Scam Run by Fake Hosts on Airbnb (2019)](https://www.vice.com/en/article/43k7z3/nationwide-fake-host-scam-on-airbnb)
 <!--END_SECTION:hn-->
 
 <!--
