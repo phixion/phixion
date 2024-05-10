@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 10 - [Webb Hints at Possible Atmosphere Surrounding Rocky Exoplanet](https://science.nasa.gov/missions/webb/nasas-webb-hints-at-possible-atmosphere-surrounding-rocky-exoplanet/)
-- May 10 - [Weapons in Space Technology, Politics, and the Rise and Fall of SDI](https://direct.mit.edu/books/oa-monograph/5770/Weapons-in-SpaceTechnology-Politics-and-the-Rise)
-- May 10 - [CS388: Natural Language Processing](https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html)
-- May 09 - [Wprs – rootless remote desktop for Wayland (and X11, via XWayland) applications](https://github.com/wayland-transpositor/wprs)
-- May 09 - [A Record of Old Kashgar](https://chinabooksreview.com/2024/05/09/a-record-of-old-kashgar/)
+- May 10 - [Bloop (YC S21) Is Hiring AI Engineers. Devin for Legacy Code (London, Onsite)](https://www.ycombinator.com/companies/bloop/jobs/iCrEllp-ai-engineer)
+- May 10 - [Elvish, expressive programming language and a versatile interactive shell](https://elv.sh)
+- May 10 - [Roman Tyrian purple snail dye found in UK for first time](https://www.bbc.com/news/articles/cjje132jvygo)
+- May 10 - [Polestar eliminates the rear window in latest electric car](https://www.dezeen.com/2024/02/06/polestar-4-eliminiates-rear-window/)
+- May 10 - [Player-Driven Emergence in LLM-Driven Game Narrative](https://arxiv.org/abs/2404.17027)
 <!--END_SECTION:hn-->
 
 <!--
