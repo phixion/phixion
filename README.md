@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 09 - [NASA's Proposed Plasma Rocket Would Get Us to Mars in 2 Months](https://gizmodo.com/nasa-pulsed-plasma-rocket-advanced-concept-mars-1851463831)
-- May 09 - [DNSecure – a configuration tool of DoT and DoH for iOS and iPadOS](https://github.com/kkebo/DNSecure)
-- May 09 - [It's always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html)
-- May 09 - [Freshpaint (YC S19) is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
-- May 09 - [Leaked deck reveals how OpenAI is pitching publisher partnerships](https://www.adweek.com/media/openai-preferred-publisher-program-deck/)
+- May 09 - [The World Has (Probably) Passed Peak Pollution](https://www.sustainabilitybynumbers.com/p/peak-pollution)
+- May 09 - [Cubic millimetre of brain mapped in spectacular detail](https://www.nature.com/articles/d41586-024-01387-9)
+- May 09 - [Sioyek is a PDF viewer with a focus on textbooks and research papers](https://github.com/ahrm/sioyek)
+- May 09 - [Protobuf Editions are here: don't panic](https://buf.build/blog/protobuf-editions-are-here)
+- May 09 - [Being Green: A new book marvels at the strangeness of plants](https://slate.com/culture/2024/05/light-eaters-zoe-schlanger-book-plant-intelligence.html)
 <!--END_SECTION:hn-->
 
 <!--
