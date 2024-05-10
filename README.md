@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 10 - [Mathematician and Investor Jim Simons Dies at 86](https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/)
-- May 10 - [Stack Overflow simply bans folks who don't want their advice used to train AI](https://www.theregister.com/2024/05/09/stack_overflow_banning_users_who/)
-- May 10 - [KeePassXC Debian maintainer has removed all network features](https://fosstodon.org/@keepassxc/112417353193348720)
-- May 10 - [Is AI lying to me? Scientists warn of growing capacity for deception](https://www.theguardian.com/technology/article/2024/may/10/is-ai-lying-to-me-scientists-warn-of-growing-capacity-for-deception)
-- May 10 - [OpenBSD Desktop](https://x61.ar/log/2024/05/06052024135732-openbsd_desktop.html)
+- May 10 - [Climate protesters storm Tesla gigafactory in Europe](https://www.wired.com/story/climate-protestors-storm-teslas-europe-gigafactory/)
+- May 10 - [ElevenLabs Music](https://twitter.com/elevenlabsio/status/1788628171044053386)
+- May 10 - [Spider-Man (Neversoft) Decompilation Project Progress Checkpoint – May 2024](https://krystalgamer.github.io/spidey-decomp-status-may/)
+- May 10 - [Coronal mass ejection impact imminent, Two more earth-directed CMEs](https://www.spaceweatherlive.com/en/news/view/533/20240510-cme-impact-imminent-two-more-earth-directed-cmes.html)
+- May 10 - [Jim Simons has died](https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/)
 <!--END_SECTION:hn-->
 
 <!--
