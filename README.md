@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 10 - [Climate protesters storm Tesla gigafactory in Europe](https://www.wired.com/story/climate-protestors-storm-teslas-europe-gigafactory/)
-- May 10 - [ElevenLabs Music](https://twitter.com/elevenlabsio/status/1788628171044053386)
-- May 10 - [Spider-Man (Neversoft) Decompilation Project Progress Checkpoint – May 2024](https://krystalgamer.github.io/spidey-decomp-status-may/)
-- May 10 - [Coronal mass ejection impact imminent, Two more earth-directed CMEs](https://www.spaceweatherlive.com/en/news/view/533/20240510-cme-impact-imminent-two-more-earth-directed-cmes.html)
-- May 10 - [Jim Simons has died](https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/)
+- May 10 - [Google Cloud accidentally deletes UniSuper's online account](https://www.unisuper.com.au/contact-us/outage-update)
+- May 10 - [Atrazine, an endocrine-disrupting herbicide banned in EU, is widely used in US](https://usrtk.org/pesticides/atrazine/)
+- May 10 - [Most of Europe is glowing pink under the aurora](https://www.foto-webcam.eu/webcam/lucknerhaus/)
+- May 10 - [Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?](https://arxiv.org/abs/2405.05904)
+- May 10 - [One Minute Park](https://oneminutepark.tv/)
 <!--END_SECTION:hn-->
 
 <!--
