@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 11 - [Newsom announces $27.6B budget deficit](https://www.sfchronicle.com/politics/article/newsom-may-budget-19447474.php)
-- May 11 - [Verizon and T-Mobile are trying to gobble up US Cellular](https://www.theverge.com/business/2024/5/9/24153201/verizon-t-mobile-buy-us-cellular-spectrum)
+- May 11 - [Bitmovin (YC S15) Is Hiring Interns in Sales, Engineering, HR in Austria](https://bitmovin.com/careers/)
+- May 11 - [The Derivative of a Number](https://rjlipton.com/2014/08/19/the-derivative-of-a-number/)
+- May 11 - [Thread – the tech we can't use or teach](https://overengineer.dev/blog/2024/05/10/thread/)
+- May 11 - [Adam Curtis on the dangers of self-expression (2017)](https://thecreativeindependent.com/people/adam-curtis-on-the-dangers-of-self-expression/)
 - May 10 - [Most of Europe is glowing pink under the aurora](https://www.foto-webcam.eu/webcam/lucknerhaus/)
-- May 10 - [One Minute Park](https://oneminutepark.tv/)
-- May 10 - [Coronal mass ejection impact imminent, two more earth-directed CMEs](https://www.spaceweatherlive.com/en/news/view/533/20240510-cme-impact-imminent-two-more-earth-directed-cmes.html)
 <!--END_SECTION:hn-->
 
 <!--
