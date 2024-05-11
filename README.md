@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 10 - [Google Cloud accidentally deletes UniSuper's online account](https://www.unisuper.com.au/contact-us/outage-update)
-- May 10 - [Atrazine, an endocrine-disrupting herbicide banned in EU, is widely used in US](https://usrtk.org/pesticides/atrazine/)
+- May 11 - [Newsom announces $27.6B budget deficit](https://www.sfchronicle.com/politics/article/newsom-may-budget-19447474.php)
+- May 11 - [Verizon and T-Mobile are trying to gobble up US Cellular](https://www.theverge.com/business/2024/5/9/24153201/verizon-t-mobile-buy-us-cellular-spectrum)
 - May 10 - [Most of Europe is glowing pink under the aurora](https://www.foto-webcam.eu/webcam/lucknerhaus/)
-- May 10 - [Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?](https://arxiv.org/abs/2405.05904)
 - May 10 - [One Minute Park](https://oneminutepark.tv/)
+- May 10 - [Coronal mass ejection impact imminent, two more earth-directed CMEs](https://www.spaceweatherlive.com/en/news/view/533/20240510-cme-impact-imminent-two-more-earth-directed-cmes.html)
 <!--END_SECTION:hn-->
 
 <!--
