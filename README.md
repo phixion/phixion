@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 11 - [PeaZip: Open-source file compression and encryption software](https://peazip.github.io/)
+- May 11 - [Lessons learned reinventing the Python notebook](https://marimo.io/blog/lessons-learned)
 - May 11 - [Unix Viruses 25th Anniversary Edition](https://tmpout.sh/3/03.html)
-- May 11 - [London's history-making beavers are adapting to life in the capital](https://www.bigissue.com/news/environment/beavers-london-ealing-environment-uk-rewilding/)
 - May 11 - [Show HN: Wag, MFA and Enrollment for WireGuard](https://github.com/NHAS/wag)
 - May 11 - [Why the CORDIC algorithm lives rent-free in my head](https://github.com/francisrstokes/githublog/blob/main/2024/5/10/cordic.md)
-- May 11 - [Bitmovin (YC S15) Is Hiring Interns in Sales, Engineering, HR in Austria](https://bitmovin.com/careers/)
 <!--END_SECTION:hn-->
 
 <!--
