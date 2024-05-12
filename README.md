@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 11 - [Kolmogorov-Arnold Networks: MLP vs. Kan, Math, Universal Approximation Theorem [video]](https://www.youtube.com/watch?v=-PFIkkwWdnM)
-- May 11 - [Vision Transformers Need Registers](https://openreview.net/forum?id=2dnO3LLiJ1)
-- May 11 - [Berlin Tesla activists say civil disobedience is only option](https://www.dw.com/en/berlin-tesla-activists-say-civil-disobedience-is-only-option/a-69054007)
-- May 11 - [Immersive Math](http://immersivemath.com/ila/index.html)
-- May 11 - [Trellis (YC W24) is hiring Founding Eng to build ETL for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/biNfViG-founding-engineers-full-time)
+- May 11 - [The Smartest People in the Room Are All Listening to the Same Podcast](https://www.wsj.com/business/media/acquired-podcast-tech-business-history-strategy-90e73603)
+- May 11 - [Is dark matter's main rival theory dead?](https://theconversation.com/is-dark-matters-main-rival-theory-dead-theres-bad-news-from-the-cassini-spacecraft-and-other-recent-tests-228826)
+- May 11 - [Canadians have been exposed to potentially toxic chemicals](https://www.ctvnews.ca/canada/millions-of-canadians-have-been-exposed-to-potentially-toxic-chemicals-and-they-re-not-going-anywhere-1.6878917)
+- May 11 - [Billions in Dirty Money Flies Under the Radar at Busiest Airports](https://www.wsj.com/business/airlines/heathrow-dubai-airports-billions-dirty-money-9f49cc7f)
+- May 11 - [Fathom (YC W21) is hiring a TPM to prototype new AI features](https://www.ycombinator.com/companies/fathom/jobs/r4HKk2W-product-manager-ai)
 <!--END_SECTION:hn-->
 
 <!--
