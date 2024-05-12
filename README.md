@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 12 - [Solar Storm Knocks Out Farmers' Tractor GPS Systems During Peak Planting Season](https://www.404media.co/solar-storm-knocks-out-tractor-gps-systems-during-peak-planting-season/)
-- May 12 - [UpCodes (YC S17) is hiring remote SWEs, PMs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
-- May 12 - [Show HN: es6_maps, new Elixir syntax feature via runtime compiler hacking](https://github.com/kzemek/es6_maps)
-- May 12 - [Garbage Collectors Are Scary](https://www.enyo.de/fw/notes/garbage-collectors-are-scary.html)
-- May 12 - [Automatically Detecting Under-Trained Tokens in Large Language Models](https://arxiv.org/abs/2405.05417)
+- May 12 - [Show HN: I created an app for you to be a more unpredictable romantic partner](https://www.lovefuel.app)
+- May 12 - [Professional Corner-Cutting](https://blog.ometer.com/2016/05/04/professional-corner-cutting/)
+- May 12 - [Becoming an Amateur Polyglot](https://www.lesswrong.com/posts/BPpeBH8brSCRvZajs/how-to-be-an-amateur-polyglot)
+- May 12 - [FCC explicitly prohibits fast lanes, closing possible net neutrality loophole](https://arstechnica.com/tech-policy/2024/05/fcc-explicitly-prohibits-fast-lanes-closing-possible-net-neutrality-loophole/)
+- May 12 - [Patient dies weeks after kidney transplant from genetically modified pig](https://www.nytimes.com/2024/05/12/health/richard-slayman-death-pig-kidney-transplant.html)
 <!--END_SECTION:hn-->
 
 <!--
