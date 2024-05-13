@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 12 - [Vision Pro has the same effective resolution as Quest 3... Sometimes?](https://douevenknow.us/post/750217547284086784/apple-vision-pro-has-the-same-effective-resolution)
-- May 12 - [Show HN: I made an open-source Loom alternative](https://Cap.so)
-- May 12 - ["'We Cannot in Good Conscience Encourage You to Pursue Our Profession"](https://www.indiewire.com/news/breaking-news/art-directors-guild-ending-production-design-initiative-program-1235002230/)
-- May 12 - [Feynman Symbolic Regression Database](https://space.mit.edu/home/tegmark/aifeynman.html)
-- May 12 - [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
+- May 13 - [Fort Worth's tallest building sells for $12.3M, bought for $137.5M in 2021](https://www.foxbusiness.com/real-estate/fort-worths-tallest-building-sells-just-12-3m-auction-stunning-price-drop)
+- May 13 - [You Can Set Up a Home Security Camera System Without Using the Cloud](https://lifehacker.com/tech/how-to-set-up-a-home-security-camera-system-without-using-the-cloud)
+- May 13 - [An introduction to advanced Rust traits and generics](https://www.shuttle.rs/blog/2024/04/18/using-traits-generics-rust)
+- May 13 - [Open Source YouTube to MP3 Downloader](https://github.com/PackJC/YoutubeToMP3)
+- May 13 - [The Star Destroyer and Imperial Military Doctrine](https://acoup.blog/2024/05/10/fireside-friday-may-10-2024/)
 <!--END_SECTION:hn-->
 
 <!--
