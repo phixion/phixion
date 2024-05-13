@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 12 - [Show HN: I created an app for you to be a more unpredictable romantic partner](https://www.lovefuel.app)
-- May 12 - [Professional Corner-Cutting](https://blog.ometer.com/2016/05/04/professional-corner-cutting/)
-- May 12 - [Becoming an Amateur Polyglot](https://www.lesswrong.com/posts/BPpeBH8brSCRvZajs/how-to-be-an-amateur-polyglot)
-- May 12 - [FCC explicitly prohibits fast lanes, closing possible net neutrality loophole](https://arstechnica.com/tech-policy/2024/05/fcc-explicitly-prohibits-fast-lanes-closing-possible-net-neutrality-loophole/)
-- May 12 - [Patient dies weeks after kidney transplant from genetically modified pig](https://www.nytimes.com/2024/05/12/health/richard-slayman-death-pig-kidney-transplant.html)
+- May 12 - [Vision Pro has the same effective resolution as Quest 3... Sometimes?](https://douevenknow.us/post/750217547284086784/apple-vision-pro-has-the-same-effective-resolution)
+- May 12 - [Show HN: I made an open-source Loom alternative](https://Cap.so)
+- May 12 - ["'We Cannot in Good Conscience Encourage You to Pursue Our Profession"](https://www.indiewire.com/news/breaking-news/art-directors-guild-ending-production-design-initiative-program-1235002230/)
+- May 12 - [Feynman Symbolic Regression Database](https://space.mit.edu/home/tegmark/aifeynman.html)
+- May 12 - [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
 <!--END_SECTION:hn-->
 
 <!--
