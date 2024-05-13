@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 13 - [The rage epidemic: is our modern world fuelling aggression?](https://www.theguardian.com/science/article/2024/may/12/road-rage-epidemic-peter-abbott-abuse-fury)
-- May 13 - [Venture Capitalists Are Using Podcasts to Lure in Founders](https://www.vanityfair.com/news/story/venture-capitalists-using-podcasts-lure-founders)
-- May 13 - [Falcon 2](https://www.tii.ae/news/falcon-2-uaes-technology-innovation-institute-releases-new-ai-model-series-outperforming-metas)
-- May 13 - [Biggest CPU for the Bad System](https://old.reddit.com/r/sysadmin/comments/1cqn3qa/whats_the_biggest_cpu_core_physical_server_i_can/)
-- May 13 - [Micron Ships Crucial-Branded LPCAMM2 Memory Modules: 64GB of LPDDR5X for $330](https://www.anandtech.com/show/21390/micron-ships-crucialbranded-lpcamm2-memory-modules)
+- May 13 - [Google accidentally deleted a $125B pension fund's account](https://qz.com/google-cloud-pension-fund-unisuper-1851472990)
+- May 13 - [Show HN: Pi-C.A.R.D, a Raspberry Pi Voice Assistant](https://github.com/nkasmanoff/pi-card)
+- May 13 - [mRNA cancer vaccine triggers fierce immune response to fight brain tumors](https://ufhealth.org/news/2024/uf-developed-mrna-vaccine-triggers-fierce-immune-response-to-fight-malignant-brain-tumor)
+- May 13 - [Amazon S3 will no longer charge for several HTTP error codes](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-s3-no-charge-http-error-codes/)
+- May 13 - [Colorectal cancer incidence in teens up 300% since 1999](https://news.ddw.org/news/alarming-increases-in-crc-incidence-among-younger-adults/)
 <!--END_SECTION:hn-->
 
 <!--
