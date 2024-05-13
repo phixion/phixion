@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 13 - [Fort Worth's tallest building sells for $12.3M, bought for $137.5M in 2021](https://www.foxbusiness.com/real-estate/fort-worths-tallest-building-sells-just-12-3m-auction-stunning-price-drop)
-- May 13 - [You Can Set Up a Home Security Camera System Without Using the Cloud](https://lifehacker.com/tech/how-to-set-up-a-home-security-camera-system-without-using-the-cloud)
-- May 13 - [An introduction to advanced Rust traits and generics](https://www.shuttle.rs/blog/2024/04/18/using-traits-generics-rust)
-- May 13 - [Open Source YouTube to MP3 Downloader](https://github.com/PackJC/YoutubeToMP3)
-- May 13 - [The Star Destroyer and Imperial Military Doctrine](https://acoup.blog/2024/05/10/fireside-friday-may-10-2024/)
+- May 13 - [Protecting your email address via SVG instead of JavaScript](https://rouninmedia.github.io/protecting-your-email-address-via-svg-instead-of-js/)
+- May 13 - [Meticulous (YC S21) Is Hiring to Eliminate E2E UI Tests](https://news.ycombinator.com/item?id=40340450)
+- May 13 - [State actor blamed for cyberattack on B.C. government systems](https://www.cbc.ca/news/canada/british-columbia/bc-government-cyberattack-state-actor-1.7200735)
+- May 13 - [GNU LibreJS: blocks JavaScript traps](https://www.gnu.org/software/librejs/)
+- May 13 - [PicoMEM by FreddyV – All in One 8-Bit ISA Expansion Card](https://texelec.com/product/picomem/)
 <!--END_SECTION:hn-->
 
 <!--
