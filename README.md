@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 13 - [Google accidentally deleted a $125B pension fund's account](https://qz.com/google-cloud-pension-fund-unisuper-1851472990)
-- May 13 - [Show HN: Pi-C.A.R.D, a Raspberry Pi Voice Assistant](https://github.com/nkasmanoff/pi-card)
-- May 13 - [mRNA cancer vaccine triggers fierce immune response to fight brain tumors](https://ufhealth.org/news/2024/uf-developed-mrna-vaccine-triggers-fierce-immune-response-to-fight-malignant-brain-tumor)
-- May 13 - [Amazon S3 will no longer charge for several HTTP error codes](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-s3-no-charge-http-error-codes/)
-- May 13 - [Colorectal cancer incidence in teens up 300% since 1999](https://news.ddw.org/news/alarming-increases-in-crc-incidence-among-younger-adults/)
+- May 13 - [ChatGPT has EQ now](https://nicholascharriere.com/blog/thoughts-openai-spring-release2/)
+- May 13 - [FDA: Do Not Use Cue Health's Covid-19 Tests Due to Risk of False Results](https://www.fda.gov/medical-devices/safety-communications/do-not-use-cue-healths-covid-19-tests-due-risk-false-results-fda-safety-communication)
+- May 13 - [Australian man says border force made him hand over phone passcode](https://www.theguardian.com/australia-news/article/2024/may/14/australian-man-says-border-force-made-him-hand-over-phone-passcode-by-threatening-to-keep-device-indefinitely)
+- May 13 - [Chatbots tell people what they want to hear](https://hub.jhu.edu/2024/05/13/chatbots-tell-people-what-they-want-to-hear/)
+- May 13 - [Towards accurate and efficient document analytics with large language models](https://arxiv.org/abs/2405.04674)
 <!--END_SECTION:hn-->
 
 <!--
