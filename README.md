@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 14 - [Using ARG in a Dockerfile – beware the gotcha](https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha/)
+- May 14 - [Large Language Models in Containers Locally with Podman AI Lab](https://github.com/containers/podman-desktop-extension-ai-lab)
 - May 14 - [The First Nuclear Microreactor Company Listed in the USA](https://nanonuclearenergy.com/)
 - May 14 - [A review on protein languauge models](https://www.apoorva-srinivasan.com/plms/)
 - May 14 - [Truffle ISLISP](https://arvyy.github.io/islisp-truffle/)
-- May 14 - [Upstreaming Linux kernel support for the Snapdragon X Elite](https://www.qualcomm.com/developer/blog/2024/05/upstreaming-linux-kernel-support-for-the-snapdragon-x-elite)
-- May 14 - [Memory Consistency Models: A Tutorial](https://www.cs.utexas.edu/~bornholt/post/memory-models.html)
 <!--END_SECTION:hn-->
 
 <!--
