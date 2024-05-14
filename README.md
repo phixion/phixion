@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 14 - [Using ARG in a Dockerfile – beware the gotcha](https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha/)
-- May 14 - [Large Language Models in Containers Locally with Podman AI Lab](https://github.com/containers/podman-desktop-extension-ai-lab)
-- May 14 - [The First Nuclear Microreactor Company Listed in the USA](https://nanonuclearenergy.com/)
-- May 14 - [A review on protein languauge models](https://www.apoorva-srinivasan.com/plms/)
-- May 14 - [Truffle ISLISP](https://arvyy.github.io/islisp-truffle/)
+- May 14 - [Unriddle (YC S24) Is Hiring a Founding Engineer](https://www.workatastartup.com/jobs/66506)
+- May 14 - [Heroes of Might and Magic III fan project – VCMI 1.5.0 released](https://vcmi.eu/blog/2024/05/10/vcmi-150-released/)
+- May 14 - [My VM is lighter (and safer) than your container](https://dl.acm.org/doi/10.1145/3132747.3132763)
+- May 14 - [Turn Your Android Tablet into an IDE with VSCode and Nix](https://www.50-nuances-octets.fr/en/posts/turn-android-tablet-into-ide-with-vscode-nix/)
+- May 14 - [The Notifier Pattern for Applications That Use Postgres](https://brandur.org/notifier)
 <!--END_SECTION:hn-->
 
 <!--
