@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 13 - [ChatGPT has EQ now](https://nicholascharriere.com/blog/thoughts-openai-spring-release2/)
-- May 13 - [FDA: Do Not Use Cue Health's Covid-19 Tests Due to Risk of False Results](https://www.fda.gov/medical-devices/safety-communications/do-not-use-cue-healths-covid-19-tests-due-risk-false-results-fda-safety-communication)
-- May 13 - [Australian man says border force made him hand over phone passcode](https://www.theguardian.com/australia-news/article/2024/may/14/australian-man-says-border-force-made-him-hand-over-phone-passcode-by-threatening-to-keep-device-indefinitely)
-- May 13 - [Chatbots tell people what they want to hear](https://hub.jhu.edu/2024/05/13/chatbots-tell-people-what-they-want-to-hear/)
-- May 13 - [Towards accurate and efficient document analytics with large language models](https://arxiv.org/abs/2405.04674)
+- May 14 - [The First Nuclear Microreactor Company Listed in the USA](https://nanonuclearenergy.com/)
+- May 14 - [A review on protein languauge models](https://www.apoorva-srinivasan.com/plms/)
+- May 14 - [Truffle ISLISP](https://arvyy.github.io/islisp-truffle/)
+- May 14 - [Upstreaming Linux kernel support for the Snapdragon X Elite](https://www.qualcomm.com/developer/blog/2024/05/upstreaming-linux-kernel-support-for-the-snapdragon-x-elite)
+- May 14 - [Memory Consistency Models: A Tutorial](https://www.cs.utexas.edu/~bornholt/post/memory-models.html)
 <!--END_SECTION:hn-->
 
 <!--
