@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 15 - [Apple says the majority of Mac users also own an iPad](https://9to5mac.com/2024/05/15/majority-of-mac-users-also-own-ipad/)
-- May 15 - [Adobe Photoshop Source Code (2013)](https://computerhistory.org/blog/adobe-photoshop-source-code/)
-- May 15 - [Show HN: I wrote a symmetry game with a daily puzzle](https://www.hidden-mirrors.com)
-- May 15 - [Jan Leike Resigns from OpenAI](https://twitter.com/janleike/status/1790603862132596961)
-- May 15 - [Show HN: Open-source BI and analytics for engineers](https://github.com/quarylabs/quary)
+- May 15 - [Stop Using Discord](https://usemumble.neocities.org/)
+- May 15 - [Project Gameface Launches on Android](https://developers.googleblog.com/en/project-gameface-launches-on-android/)
+- May 15 - [PaliGemma: Open-Source Multimodal Model by Google](https://blog.roboflow.com/paligemma-multimodal-vision/)
+- May 15 - [An Empirical Evaluation of Columnar Storage Formats [pdf]](https://www.vldb.org/pvldb/vol17/p148-zeng.pdf)
+- May 15 - [Google Blog: Android's theft protection features keep your device and data safe](https://blog.google/products/android/android-theft-protection/)
 <!--END_SECTION:hn-->
 
 <!--
