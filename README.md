@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 15 - [Air Quality Monitors Compared: AirGradient vs. Purple Air](https://www.airgradient.com/blog/airgradient-vs-purple-air/)
-- May 15 - [Parking Reform Legalized Most of the New Homes in Buffalo and Seattle](https://www.sightline.org/2023/04/13/parking-reform-legalized-most-of-the-new-homes-in-buffalo-and-seattle/)
-- May 15 - [Romance author gets locked out of Google Docs for "inappropriate" content](https://www.dexerto.com/tech/romance-author-gets-locked-out-of-google-docs-for-inappropriate-content-2713004/)
-- May 15 - [URLhaus: A database of malicious URLs used for malware distribution](https://urlhaus.abuse.ch/)
-- May 14 - [The most talented person in the world](https://matt.sh/the-most-talented-person)
+- May 15 - [Great Question (YC W21) Is Hiring Product Engineers (Rails/React)](https://www.ycombinator.com/companies/great-question/jobs/WIk0wNz-product-engineer-rails-react)
+- May 15 - [A Philosophy of Software Design [pdf]](https://milkov.tech/assets/psd.pdf)
+- May 15 - [Translation of the Rust's core and alloc crates to Coq for formal verification](https://formal.land/blog/2024/04/26/translation-core-alloc-crates)
+- May 15 - [A low budget consumer hardware espionage implant: a GSM device hidden in](https://ha.cking.ch/s8_data_line_locator/)
+- May 15 - [Show HN: I built a math website the internet loved, I'm back with more features](https://teachyourselfmath.app/?page=1)
 <!--END_SECTION:hn-->
 
 <!--
