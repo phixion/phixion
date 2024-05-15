@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 15 - [Boeing Emails Handed over to Congress in January 2020](https://archive.org/details/boeingemailsocr)
+- May 15 - [Oracle goes vegan: Dumps Terraform for OpenTofu](https://www.thestack.technology/oracle-dumps-terraform-for-opentofu/)
+- May 15 - [Gaussian Blue Noise](https://arxiv.org/abs/2206.07798)
+- May 15 - [Dell leak details next-gen Windows on Arm chips](https://www.theverge.com/2024/5/15/24157120/dell-windows-on-arm-leak-qualcomm-chips-battery-life)
 - May 15 - [Great Question (YC W21) Is Hiring Product Engineers (Rails/React)](https://www.ycombinator.com/companies/great-question/jobs/WIk0wNz-product-engineer-rails-react)
-- May 15 - [A Philosophy of Software Design [pdf]](https://milkov.tech/assets/psd.pdf)
-- May 15 - [Translation of the Rust's core and alloc crates to Coq for formal verification](https://formal.land/blog/2024/04/26/translation-core-alloc-crates)
-- May 15 - [A low budget consumer hardware espionage implant: a GSM device hidden in](https://ha.cking.ch/s8_data_line_locator/)
-- May 15 - [Show HN: I built a math website the internet loved, I'm back with more features](https://teachyourselfmath.app/?page=1)
 <!--END_SECTION:hn-->
 
 <!--
