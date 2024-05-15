@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 14 - [The Most Talented Person in the World](https://matt.sh/the-most-talented-person)
-- May 14 - [The Type of Sprintf](https://ryanbrewer.dev/posts/type-of-sprintf.html)
-- May 14 - [Understanding Container Image Layers](https://www.kenmuse.com/blog/understanding-container-image-layers/)
-- May 14 - [Ilya Sutskever to leave OpenAI](https://twitter.com/ilyasut/status/1790517455628198322)
-- May 14 - [Contact of Containership Dali with the Key Bridge and Subsequent Bridge Collapse [pdf]](https://static01.nyt.com/newsgraphics/documenttools/6119296c8c79713a/0e214c46-full.pdf)
+- May 15 - [Air Quality Monitors Compared: AirGradient vs. Purple Air](https://www.airgradient.com/blog/airgradient-vs-purple-air/)
+- May 15 - [Parking Reform Legalized Most of the New Homes in Buffalo and Seattle](https://www.sightline.org/2023/04/13/parking-reform-legalized-most-of-the-new-homes-in-buffalo-and-seattle/)
+- May 15 - [Romance author gets locked out of Google Docs for "inappropriate" content](https://www.dexerto.com/tech/romance-author-gets-locked-out-of-google-docs-for-inappropriate-content-2713004/)
+- May 15 - [URLhaus: A database of malicious URLs used for malware distribution](https://urlhaus.abuse.ch/)
+- May 14 - [The most talented person in the world](https://matt.sh/the-most-talented-person)
 <!--END_SECTION:hn-->
 
 <!--
