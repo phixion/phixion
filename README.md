@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 16 - [Students invent quieter leaf blower](https://hub.jhu.edu/2024/05/14/quieter-leaf-blower/)
+- May 16 - [Why Bad CEOs Fear Remote Work (2021)](https://scottberkun.com/2021/why-bad-ceos-fear-remote-work/)
+- May 16 - [EU opens child safety probes of Facebook and Instagram, citing addictive design](https://techcrunch.com/2024/05/16/eu-opens-child-safety-probes-of-facebook-and-instagram-citing-addictive-design-concerns/)
 - May 16 - [Typewise (YC S22) is hiring Product Designer for AI writing assistant](https://www.ycombinator.com/companies/typewise/jobs/myJcREP-product-designer-f-m-x)
-- May 16 - [MKUltra](https://en.wikipedia.org/wiki/MKUltra)
-- May 16 - [VCs aren’t your friends](https://www.openvc.app/blog/vcs-arent-your-friends)
-- May 16 - [Kernel.org servers infected with backdoors for two years from 2009](https://arstechnica.com/security/2024/05/ssh-backdoor-has-infected-400000-linux-servers-over-15-years-and-keeps-on-spreading/)
-- May 16 - [Some notes on Rust, mutable aliasing and formal verification](https://graydon2.dreamwidth.org/312681.html)
+- May 16 - [My Sony HB-F1XV](https://thefoggiest.dev/2024/05/16/my-sony-hb-f1xv)
 <!--END_SECTION:hn-->
 
 <!--
