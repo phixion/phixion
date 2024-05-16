@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 15 - [Doctor cancer free after novel glioblastoma self-treatment](https://nypost.com/2024/05/15/lifestyle/australian-doctor-richard-scolyer-cancer-free-year-after-terminal-diagnosis/)
+- May 16 - [Utah Locals Are Getting Cheap 10 Gbps Fiber Thanks to Local Governments](https://www.techdirt.com/2024/05/15/utah-locals-are-getting-cheap-10-gbps-fiber-thanks-to-local-governments/)
 - May 15 - [SSD death, tricky read-only filesystems, and systemd magic?](https://rachelbythebay.com/w/2024/05/15/ro/)
 - May 15 - [Qualcomm's Oryon LLVM Patches](https://chipsandcheese.com/2024/05/15/qualcomms-oryon-llvm-patches/)
 - May 15 - [Making a Postgres query 1k times faster](https://mattermost.com/blog/making-a-postgres-query-1000-times-faster/)
-- May 15 - [It's 2024 and drought is optional](https://asteriskmag.com/issues/06/its-2024-and-drought-is-optional)
+- May 15 - [A 'plague' comes before the fall: lessons from Roman history](https://thebulletin.org/2024/05/a-plague-comes-before-the-fall-lessons-from-roman-history/)
 <!--END_SECTION:hn-->
 
 <!--
