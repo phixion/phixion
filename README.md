@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 16 - [Utah Locals Are Getting Cheap 10 Gbps Fiber Thanks to Local Governments](https://www.techdirt.com/2024/05/15/utah-locals-are-getting-cheap-10-gbps-fiber-thanks-to-local-governments/)
-- May 15 - [SSD death, tricky read-only filesystems, and systemd magic?](https://rachelbythebay.com/w/2024/05/15/ro/)
-- May 15 - [Qualcomm's Oryon LLVM Patches](https://chipsandcheese.com/2024/05/15/qualcomms-oryon-llvm-patches/)
-- May 15 - [Making a Postgres query 1k times faster](https://mattermost.com/blog/making-a-postgres-query-1000-times-faster/)
-- May 15 - [A 'plague' comes before the fall: lessons from Roman history](https://thebulletin.org/2024/05/a-plague-comes-before-the-fall-lessons-from-roman-history/)
+- May 16 - [Typewise (YC S22) is hiring Product Designer for AI writing assistant](https://www.ycombinator.com/companies/typewise/jobs/myJcREP-product-designer-f-m-x)
+- May 16 - [MKUltra](https://en.wikipedia.org/wiki/MKUltra)
+- May 16 - [VCs aren’t your friends](https://www.openvc.app/blog/vcs-arent-your-friends)
+- May 16 - [Kernel.org servers infected with backdoors for two years from 2009](https://arstechnica.com/security/2024/05/ssh-backdoor-has-infected-400000-linux-servers-over-15-years-and-keeps-on-spreading/)
+- May 16 - [Some notes on Rust, mutable aliasing and formal verification](https://graydon2.dreamwidth.org/312681.html)
 <!--END_SECTION:hn-->
 
 <!--
