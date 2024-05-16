@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 16 - [Egypt's Pyramids May Have Been Built on a Long-Lost Branch of the Nile](https://www.nature.com/articles/s43247-024-01379-7)
-- May 16 - [Intel's Thunderbolt Share lets two PCs control each other over a USB cable](https://www.theverge.com/2024/5/15/24156519/intel-thunderbolt-share-app)
-- May 16 - [Deactivating Facebook for just a few weeks reduces belief in fake news](https://english.elpais.com/technology/2024-05-14/deactivating-facebook-for-just-a-few-weeks-reduces-belief-in-fake-news.html)
-- May 16 - [Sprint, T-Mobile Merger Killed Wireless Price Competition in U.S.](https://www.techdirt.com/2024/05/16/report-sprint-t-mobile-merger-immediately-killed-wireless-price-competition-in-u-s/)
-- May 16 - [The spy who flunked it: Kurt Gödel's forgotten part in the atom-bomb story](https://www.nature.com/articles/d41586-024-00644-1)
+- May 16 - [Companies need AI services revenues, not cost savings](https://www.ft.com/content/f8e4dac5-5869-4db9-b4ba-1398408e3962)
+- May 16 - [The most confusing emojis in every US state in 2024](https://preply.com/en/blog/most-confusing-emojis-2024/)
+- May 16 - [You probably don't need to validate UTF-8 strings](https://viralinstruction.com/posts/utf8/)
+- May 16 - [Crypto Brothers Front-Ran the Front-Runners](https://www.bloomberg.com/opinion/articles/2024-05-16/crypto-brothers-front-ran-the-front-runners)
+- May 16 - [I Don't Want to Spend My One Precious Life Dealing with Google's AI Search](https://aftermath.site/google-ai-search-god-no-why)
 <!--END_SECTION:hn-->
 
 <!--
