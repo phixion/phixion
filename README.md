@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 17 - [Zwentendorf Nuclear Power Plant: Finished in 1978 but never used](https://www.atlasobscura.com/places/zwentendorf-nuclear-power-plant)
-- May 17 - [Urban renewal left the U.S. too scared to build](https://darrellowens.substack.com/p/how-urban-renewal-ruined-everything)
-- May 17 - [100 Exercises to Learn Rust](https://rust-exercises.com/)
-- May 17 - [A transport protocol's view of Starlink](https://www.potaroo.net/ispcol/2024-05/starlink-tcp.html)
-- May 16 - [Visualizing algorithms for rate limiting](https://smudge.ai/blog/ratelimit-algorithms)
+- May 17 - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4360841006)
+- May 17 - [NiceGUI – Simple web apps with Python](https://nicegui.io/)
+- May 17 - [Why neural networks struggle with the Game of Life](https://bdtechtalks.com/2020/09/16/deep-learning-game-of-life/)
+- May 17 - [How to read C type declarations (2003)](http://www.unixwiz.net/techtips/reading-cdecl.html)
+- May 17 - [Welcome to the Parallel Future of Computation](https://hvm-page.pages.dev)
 <!--END_SECTION:hn-->
 
 <!--
