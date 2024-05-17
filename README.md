@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 17 - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4360841006)
-- May 17 - [NiceGUI – Simple web apps with Python](https://nicegui.io/)
-- May 17 - [Why neural networks struggle with the Game of Life](https://bdtechtalks.com/2020/09/16/deep-learning-game-of-life/)
-- May 17 - [How to read C type declarations (2003)](http://www.unixwiz.net/techtips/reading-cdecl.html)
-- May 17 - [Welcome to the Parallel Future of Computation](https://hvm-page.pages.dev)
+- May 17 - ['I'm the new Oppenheimer ': Palantir's first-ever AI warfare conference](https://www.theguardian.com/technology/article/2024/may/17/ai-weapons-palantir-war-technology)
+- May 17 - [A Trial HIV Vaccine Triggered Elusive and Essential Antibodies in Humans](https://corporate.dukehealth.org/news/trial-hiv-vaccine-triggered-elusive-and-essential-antibodies-humans)
+- May 17 - [Rust 1.78: Performance Impact of the 128-Bit Memory Alignment Fix](https://codspeed.io/blog/rust-1-78-performance-impact-of-the-128-bit-memory-alignment-fix)
+- May 17 - [Rachel Aviv Wrote That New Yorker Story on Lucy Letby](https://www.niemanlab.org/2024/05/impossible-to-approach-the-reporting-the-way-i-normally-would-how-rachel-aviv-wrote-that-new-yorker-story-on-lucy-letby/)
+- May 17 - [Confronting Another Axis? History, Humility, and Wishful Thinking](https://tnsr.org/2024/05/confronting-another-axis-history-humility-and-wishful-thinking/)
 <!--END_SECTION:hn-->
 
 <!--
