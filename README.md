@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 17 - [Back to the Past: IPv4 Browsing (Egress) Activated via NAT64](https://blog.ipv6.rs/ipv4-activated-via-nat64/)
-- May 17 - [Thinking out loud about 2nd-gen email](https://gabrielsieben.tech/2024/05/17/thinking-out-loud-2nd-gen-email/)
-- May 17 - [Show HN: I built a website to create financial models for any stock online](https://www.useequityval.com/)
-- May 17 - [Glewbot scales buildings like a gecko to inspect wall tiles](https://blog.arduino.cc/2024/05/11/glewbot-scales-buildings-like-a-gecko/)
-- May 17 - [The case against dual axis charts (and what to use instead) (2018)](https://blog.datawrapper.de/dualaxis/)
+- May 17 - [Multi AI Agent Systems Using OpenAI's New GPT-4o Model](https://github.com/metaskills/experts)
+- May 17 - [Ex-OpenAI staff must sign lifetime no-criticism contract or forfeit all equity](https://x.com/KelseyTuoc/status/1791584357184127269)
+- May 17 - [Expedia Group fired their CTO, Rathi Murthy](https://www.phocuswire.com/rathi-murthy-expedia-group-cto)
+- May 17 - [Chrome DevTools now uses Gemini to help with JavaScript Errors in the console](https://developer.chrome.com/docs/devtools/console/understand-messages)
+- May 17 - [ILGPU: Write GPU programs with C# and F#](https://github.com/m4rs-mt/ILGPU)
 <!--END_SECTION:hn-->
 
 <!--
