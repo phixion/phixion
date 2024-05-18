@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 18 - [Truemetrics (YC S23) is hiring a back end engineer](https://www.ycombinator.com/companies/truemetrics/jobs/CyhEPcE-python-developer-with-strong-backend-and-aws-and-data-skills)
+- May 18 - [Write Plain Text Files](https://sive.rs/plaintext)
+- May 18 - [First proof that "plunging regions" exist around black holes in space](https://www.ox.ac.uk/news/2024-05-17-first-proof-plunging-regions-exist-around-black-holes-space)
 - May 18 - [Zoraxy: Open-Source, All in one homelab network routing solution](https://zoraxy.arozos.com/)
-- May 17 - [Multi AI agent systems using OpenAI's assistants API](https://github.com/metaskills/experts)
-- May 17 - [ILGPU: Write GPU programs with C# and F#](https://github.com/m4rs-mt/ILGPU)
-- May 17 - [OpenAI departures: Why can’t former employees talk?](https://www.vox.com/future-perfect/2024/5/17/24158478/openai-departures-sam-altman-employees-chatgpt-release)
-- May 17 - [Thinking out loud about 2nd-gen email](https://gabrielsieben.tech/2024/05/17/thinking-out-loud-2nd-gen-email/)
+- May 18 - [Japanese court rules that AI cannot be issued patents](https://japannews.yomiuri.co.jp/society/crime-courts/20240517-186568/)
 <!--END_SECTION:hn-->
 
 <!--
