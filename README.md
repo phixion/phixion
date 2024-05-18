@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 18 - [Truemetrics (YC S23) is hiring a back end engineer](https://www.ycombinator.com/companies/truemetrics/jobs/CyhEPcE-python-developer-with-strong-backend-and-aws-and-data-skills)
-- May 18 - [Write Plain Text Files](https://sive.rs/plaintext)
-- May 18 - [First proof that "plunging regions" exist around black holes in space](https://www.ox.ac.uk/news/2024-05-17-first-proof-plunging-regions-exist-around-black-holes-space)
-- May 18 - [Zoraxy: Open-Source, All in one homelab network routing solution](https://zoraxy.arozos.com/)
-- May 18 - [Japanese court rules that AI cannot be issued patents](https://japannews.yomiuri.co.jp/society/crime-courts/20240517-186568/)
+- May 18 - [Australian War Crime Whistleblower David McBride Sentenced to Jail](https://www.youtube.com/watch?v=VrFs2_uhz-o)
+- May 18 - [Tegelwippen](https://www.nk-tegelwippen.nl/)
+- May 18 - [Seven Dyson Sphere Candidates](https://www.centauri-dreams.org/2024/05/18/seven-dyson-sphere-candidates/)
+- May 18 - [Ilya Sutskever: “If you learn all of these, you’ll know 90% of what matters”](https://www.reddit.com/r/ArtificialInteligence/comments/1cpbh1s/ilya_sutskever_if_you_really_learn_all_of_these/)
+- May 18 - [NetBSD Bans AI-Generated Code from Commits](https://www.netbsd.org/developers/commit-guidelines.html)
 <!--END_SECTION:hn-->
 
 <!--
