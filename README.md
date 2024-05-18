@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 18 - [Fixing the iterative damping interpolation in video games](https://blog.pkh.me/p/41-fixing-the-iterative-damping-interpolation-in-video-games.html)
-- May 18 - [Working with jumbo/unity builds in C/C++](https://austinmorlan.com/posts/unity_jumbo_build/)
-- May 18 - [Cyber Security: A Pre-War Reality Check](https://berthub.eu/articles/posts/cyber-security-pre-war-reality-check/)
-- May 18 - [Malleable software in the age of LLMs (2023)](https://www.geoffreylitt.com/2023/03/25/llm-end-user-programming.html)
-- May 18 - [Gio UI – Cross-Platform GUI for Go](https://gioui.org/)
+- May 18 - [Personality Changes Associated with Organ Transplants](https://www.mdpi.com/2673-3943/5/1/2)
+- May 18 - [London Webcam](https://londonwebcam.co.uk/)
+- May 18 - [Almost a quarter of kids aged 5-7 have smartphones](https://www.bbc.com/news/technology-68838029)
+- May 18 - [Days since it was DNS](https://dayssince.itwasdns.net/)
+- May 18 - [Psychedelics could treat some of the worst chronic pain in the world](https://www.vox.com/future-perfect/2024/5/15/24156372/psychedelics-chronic-pain-cluster-headache-medicine-lsd-psilocybin)
 <!--END_SECTION:hn-->
 
 <!--
