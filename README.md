@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 17 - [Multi AI Agent Systems Using OpenAI's New GPT-4o Model](https://github.com/metaskills/experts)
-- May 17 - [Ex-OpenAI staff must sign lifetime no-criticism contract or forfeit all equity](https://x.com/KelseyTuoc/status/1791584357184127269)
-- May 17 - [Expedia Group fired their CTO, Rathi Murthy](https://www.phocuswire.com/rathi-murthy-expedia-group-cto)
-- May 17 - [Chrome DevTools now uses Gemini to help with JavaScript Errors in the console](https://developer.chrome.com/docs/devtools/console/understand-messages)
+- May 18 - [Zoraxy: Open-Source, All in one homelab network routing solution](https://zoraxy.arozos.com/)
+- May 17 - [Multi AI agent systems using OpenAI's assistants API](https://github.com/metaskills/experts)
 - May 17 - [ILGPU: Write GPU programs with C# and F#](https://github.com/m4rs-mt/ILGPU)
+- May 17 - [OpenAI departures: Why can’t former employees talk?](https://www.vox.com/future-perfect/2024/5/17/24158478/openai-departures-sam-altman-employees-chatgpt-release)
+- May 17 - [Thinking out loud about 2nd-gen email](https://gabrielsieben.tech/2024/05/17/thinking-out-loud-2nd-gen-email/)
 <!--END_SECTION:hn-->
 
 <!--
