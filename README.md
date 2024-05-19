@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 19 - [Ex-OpenAI employee reported losing 85% of his family's net worth](https://www.lesswrong.com/posts/kovCotfpTFWFXaxwi/simeon_c-s-shortform)
-- May 19 - [Chess and 18th Century artificial intelligence (2013)](https://www.bbc.com/news/magazine-21876120)
-- May 19 - [You could have invented fractional cascading](http://blog.ezyang.com/2012/03/you-could-have-invented-fractional-cascading/)
-- May 19 - [Transforming a QLC SSD into an SLC SSD](https://theoverclockingpage.com/2024/05/13/tutorial-transforming-a-qlc-ssd-into-an-slc-ssd-dramatically-increasing-the-drives-endurance/?lang=en)
-- May 19 - [AI Books4 Dataset for training LLMs further](https://old.reddit.com/r/datasets/comments/1cvi151/ai_books4_dataset_for_training_llms_further/)
+- May 19 - [Helicopter Carrying Iran's President Has Crashed](https://www.nytimes.com/live/2024/05/19/world/iran-president-helicopter-crash)
+- May 19 - [ElixirOS to break and wipe your device](https://xdaforums.com/t/elixiros-to-break-and-wipe-your-device.4672456/)
+- May 19 - [Make Timelapse easily using FFmpeg](https://news.ycombinator.com/item?id=40407526)
+- May 19 - [Nitrogen dioxide exposure due to gas and propane combustion by U.S. stoves](https://www.science.org/doi/10.1126/sciadv.adm8680)
+- May 19 - [Swarming Proxima Centauri: Picospacecraft Swarms over Interstellar Distances](https://astrobiology.com/2024/05/swarming-proxima-centauri-coherent-picospacecraft-swarms-over-interstellar-distances.html)
 <!--END_SECTION:hn-->
 
 <!--
