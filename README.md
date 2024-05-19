@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 19 - [Reading list to join AI field from Hugging Face cofounder](https://thomwolf.io/data/Thom_wolf_reading_list.txt)
-- May 19 - [Mathematicians and the Selection Task](https://eric.ed.gov/?id=ED489556)
-- May 19 - [Show HN: Open-source GeForce NOW alternative with Stadia's social features](https://github.com/netrisdotme/netris)
-- May 19 - [Michelle's List: Glassdoor but for Landlords and Properties](https://www.michelleslist.com/)
-- May 19 - [Microsoft's Emissions Spike 29% as AI Gobbles Up Resources](https://www.pcmag.com/news/microsofts-emissions-spike-29-as-ai-gobbles-up-resources)
+- May 19 - [Emerge Tools (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
+- May 19 - [Will Better Superconductors Transform the World?](https://www.quantamagazine.org/will-better-superconductors-transform-the-world-20240509/)
+- May 19 - [The Iberian lynx doubles its population in just three years](https://english.elpais.com/science-tech/2024-05-17/the-iberian-lynx-doubles-its-population-in-just-three-years-and-reaches-2000-individuals.html)
+- May 19 - [Classic Usenet posts on computer architecture, operating systems and languages](https://yarchive.net/comp/index.html)
+- May 19 - [Katy – 68000 Linux on a Solderless Breadboard](https://www.bigmessowires.com/2014/11/17/68-katy-68000-linux-on-a-solderless-breadboard/)
 <!--END_SECTION:hn-->
 
 <!--
