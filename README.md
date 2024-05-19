@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 18 - [Personality Changes Associated with Organ Transplants](https://www.mdpi.com/2673-3943/5/1/2)
-- May 18 - [London Webcam](https://londonwebcam.co.uk/)
-- May 18 - [Almost a quarter of kids aged 5-7 have smartphones](https://www.bbc.com/news/technology-68838029)
-- May 18 - [Days since it was DNS](https://dayssince.itwasdns.net/)
-- May 18 - [Psychedelics could treat some of the worst chronic pain in the world](https://www.vox.com/future-perfect/2024/5/15/24156372/psychedelics-chronic-pain-cluster-headache-medicine-lsd-psilocybin)
+- May 18 - [Is there a regular expression to detect a valid regular expression? (2008)](https://stackoverflow.com/questions/172303/is-there-a-regular-expression-to-detect-a-valid-regular-expression)
+- May 18 - [Petosemtamab Receives FDA Breakthrough Therapy Designation: Head / Neck Cancers](https://www.onclive.com/view/petosemtamab-receives-fda-breakthrough-therapy-designation-in-pretreated-hnscc)
+- May 18 - [Go Browser Package](https://browser.dineshgowda.com/)
+- May 18 - [Dwarf Fortress starting during apt-get upgrade](https://askubuntu.com/questions/938606/dwarf-fortress-starting-during-apt-get-upgrade)
+- May 18 - [Streak (YC W22) is hiring a staff web UI engineer (remote)](https://www.streak.com/careers/staff-ui-engineer)
 <!--END_SECTION:hn-->
 
 <!--
