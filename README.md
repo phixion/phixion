@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 18 - [Is there a regular expression to detect a valid regular expression? (2008)](https://stackoverflow.com/questions/172303/is-there-a-regular-expression-to-detect-a-valid-regular-expression)
-- May 18 - [Petosemtamab Receives FDA Breakthrough Therapy Designation: Head / Neck Cancers](https://www.onclive.com/view/petosemtamab-receives-fda-breakthrough-therapy-designation-in-pretreated-hnscc)
-- May 18 - [Go Browser Package](https://browser.dineshgowda.com/)
-- May 18 - [Dwarf Fortress starting during apt-get upgrade](https://askubuntu.com/questions/938606/dwarf-fortress-starting-during-apt-get-upgrade)
-- May 18 - [Streak (YC W22) is hiring a staff web UI engineer (remote)](https://www.streak.com/careers/staff-ui-engineer)
+- May 19 - [Reading list to join AI field from Hugging Face cofounder](https://thomwolf.io/data/Thom_wolf_reading_list.txt)
+- May 19 - [Mathematicians and the Selection Task](https://eric.ed.gov/?id=ED489556)
+- May 19 - [Show HN: Open-source GeForce NOW alternative with Stadia's social features](https://github.com/netrisdotme/netris)
+- May 19 - [Michelle's List: Glassdoor but for Landlords and Properties](https://www.michelleslist.com/)
+- May 19 - [Microsoft's Emissions Spike 29% as AI Gobbles Up Resources](https://www.pcmag.com/news/microsofts-emissions-spike-29-as-ai-gobbles-up-resources)
 <!--END_SECTION:hn-->
 
 <!--
