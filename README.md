@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 19 - [Helicopter Carrying Iran's President Has Crashed](https://www.nytimes.com/live/2024/05/19/world/iran-president-helicopter-crash)
-- May 19 - [ElixirOS to break and wipe your device](https://xdaforums.com/t/elixiros-to-break-and-wipe-your-device.4672456/)
-- May 19 - [Make Timelapse easily using FFmpeg](https://news.ycombinator.com/item?id=40407526)
-- May 19 - [Nitrogen dioxide exposure due to gas and propane combustion by U.S. stoves](https://www.science.org/doi/10.1126/sciadv.adm8680)
-- May 19 - [Swarming Proxima Centauri: Picospacecraft Swarms over Interstellar Distances](https://astrobiology.com/2024/05/swarming-proxima-centauri-coherent-picospacecraft-swarms-over-interstellar-distances.html)
+- May 19 - [Am I too old to create a popular programming language?](https://pldb.io/posts/age.html)
+- May 19 - [First Black astronaut candidate, now 90, reaches space in Blue Origin flight](https://www.theguardian.com/science/article/2024/may/19/ed-dwight-blue-origin-first-black-astronaut-candidate)
+- May 19 - [Llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch)
+- May 19 - [Ask HN: Video streaming is expensive yet YouTube "seems" to do it for free. How?](https://news.ycombinator.com/item?id=40408515)
+- May 19 - [Coding My Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript)
 <!--END_SECTION:hn-->
 
 <!--
