@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 20 - [Cognitive reflection, intelligence, and cognitive abilities: A meta-analysis](https://www.sciencedirect.com/science/article/pii/S0160289621000982)
-- May 20 - [CVE-2024-4367 – Arbitrary JavaScript execution in PDF.js](https://codeanlabs.com/blog/research/cve-2024-4367-arbitrary-js-execution-in-pdf-js/)
-- May 20 - [How a 64k intro is made (2017)](https://www.lofibucket.com/articles/64k_intro.html)
-- May 20 - [Grothendieck’s use of equality](https://arxiv.org/abs/2405.10387)
-- May 20 - [3M executives convinced a scientist forever chemicals in human blood were safe](https://www.propublica.org/article/3m-forever-chemicals-pfas-pfos-inside-story)
+- May 20 - [Edited highlights from the evisceration of Craig Wright](https://www.ft.com/content/83dc246e-99ca-4af3-bd07-a815fdafa7c0)
+- May 20 - [Using Postgres for Everything](https://www.timescale.com/blog/how-to-collapse-your-stack-using-postgresql-for-everything/)
+- May 20 - [A New Jersey couple survived the Alaskan wilderness on a homestead](https://www.bbc.com/culture/article/20240517-the-intrepid-new-jersey-couple-that-survived-the-alaskan-wilderness-on-a-homestead)
+- May 20 - [Rethinking Text Resizing on Web](https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881)
+- May 20 - [Introducing Copilot+ PCs](https://blogs.microsoft.com/blog/2024/05/20/introducing-copilot-pcs/)
 <!--END_SECTION:hn-->
 
 <!--
