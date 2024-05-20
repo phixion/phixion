@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 19 - [Am I too old to create a popular programming language?](https://pldb.io/posts/age.html)
-- May 19 - [First Black astronaut candidate, now 90, reaches space in Blue Origin flight](https://www.theguardian.com/science/article/2024/may/19/ed-dwight-blue-origin-first-black-astronaut-candidate)
-- May 19 - [Llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch)
-- May 19 - [Ask HN: Video streaming is expensive yet YouTube "seems" to do it for free. How?](https://news.ycombinator.com/item?id=40408515)
-- May 19 - [Coding My Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript)
+- May 19 - [iPad Pro M4 review: ludicrously good hardware that's total overkill for most](https://www.theguardian.com/technology/article/2024/may/15/ipad-pro-m4-review-ludicrously-good-hardware-thats-total-overkill-for-most)
+- May 19 - [The Lunacy of Artemis](https://idlewords.com/2024/5/the_lunacy_of_artemis.htm)
+- May 19 - [I'm a Former Surgeon General and I Couldn't Believe My $10k Medical Bill](https://scheerpost.com/2024/05/19/im-a-former-surgeon-general-and-i-couldnt-believe-my-10k-medical-bill/)
+- May 19 - [Hertz Charging a Tesla Renter for Gas Was Not an Isolated Incident](https://www.thedrive.com/news/hertz-charging-a-tesla-renter-for-gas-was-not-an-isolated-incident)
+- May 19 - [Ubuntu 24.10 to Default to Wayland for Nvidia Users](https://www.omgubuntu.co.uk/2024/05/ubuntu-24-10-wayland-nvidia)
 <!--END_SECTION:hn-->
 
 <!--
