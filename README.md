@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 19 - [iPad Pro M4 review: ludicrously good hardware that's total overkill for most](https://www.theguardian.com/technology/article/2024/may/15/ipad-pro-m4-review-ludicrously-good-hardware-thats-total-overkill-for-most)
-- May 19 - [The Lunacy of Artemis](https://idlewords.com/2024/5/the_lunacy_of_artemis.htm)
-- May 19 - [I'm a Former Surgeon General and I Couldn't Believe My $10k Medical Bill](https://scheerpost.com/2024/05/19/im-a-former-surgeon-general-and-i-couldnt-believe-my-10k-medical-bill/)
-- May 19 - [Hertz Charging a Tesla Renter for Gas Was Not an Isolated Incident](https://www.thedrive.com/news/hertz-charging-a-tesla-renter-for-gas-was-not-an-isolated-incident)
-- May 19 - [Ubuntu 24.10 to Default to Wayland for Nvidia Users](https://www.omgubuntu.co.uk/2024/05/ubuntu-24-10-wayland-nvidia)
+- May 20 - [Why Fact Checking of Claims About Nuclear Power Projects Is Important](https://neutronbytes.com/2024/05/12/why-fact-checking-of-audacious-claims-about-nuclear-power-projects-is-important/)
+- May 20 - [Avoidance of sun exposure as a risk factor for major causes of death](https://pubmed.ncbi.nlm.nih.gov/26992108/)
+- May 20 - [How to read a book: 10 rules from a reviewer](https://www.washingtonpost.com/books/2024/05/18/how-to-read-book-dirda/)
+- May 20 - [Anthropic: Reflections on Our Responsible Scaling Policy](https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy)
+- May 20 - [Tutorial: Metacompilers Part 1 (2016)](http://www.bayfronttechnologies.com/mc_tutorial.html)
 <!--END_SECTION:hn-->
 
 <!--
