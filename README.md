@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 20 - [Why Fact Checking of Claims About Nuclear Power Projects Is Important](https://neutronbytes.com/2024/05/12/why-fact-checking-of-audacious-claims-about-nuclear-power-projects-is-important/)
-- May 20 - [Avoidance of sun exposure as a risk factor for major causes of death](https://pubmed.ncbi.nlm.nih.gov/26992108/)
-- May 20 - [How to read a book: 10 rules from a reviewer](https://www.washingtonpost.com/books/2024/05/18/how-to-read-book-dirda/)
-- May 20 - [Anthropic: Reflections on Our Responsible Scaling Policy](https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy)
-- May 20 - [Tutorial: Metacompilers Part 1 (2016)](http://www.bayfronttechnologies.com/mc_tutorial.html)
+- May 20 - [How the voices for ChatGPT were chosen](https://openai.com/index/how-the-voices-for-chatgpt-were-chosen/)
+- May 20 - [An identity thief stole $5k from me. I spent two years tracking down how](https://www.msn.com/en-us/news/crime/an-identity-thief-stole-5000-from-me-i-spent-two-years-tracking-down-how/ar-BB1mqh0b)
+- May 20 - [Fact checking of claims about nuclear power projects](https://neutronbytes.com/2024/05/12/why-fact-checking-of-audacious-claims-about-nuclear-power-projects-is-important/)
+- May 20 - [Reflections on our Responsible Scaling Policy](https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy)
+- May 19 - [Show HN: ffmpeg-english "capture from /dev/video0 every 1 second to jpg files"](https://github.com/dheera/scripts/blob/master/ffmpeg-english)
 <!--END_SECTION:hn-->
 
 <!--
