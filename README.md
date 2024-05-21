@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 20 - [SpaceX has grown to 87% of the tonnage to orbit](https://twitter.com/FutureJurvetson/status/1792672666316665198)
-- May 20 - [Enthusiast gets Windows XP running on an i486](https://www.tomshardware.com/software/windows/enthusiast-gets-windows-xp-running-on-an-i486)
-- May 20 - [Thorium: Cross-platform patched Chromium fork](https://github.com/Alex313031/thorium)
-- May 20 - [Statement from Scarlett Johansson on the OpenAI "Sky" voice](https://twitter.com/BobbyAllyn/status/1792679435701014908)
-- May 20 - [Google cuts mystery check to US in bid to sidestep jury trial](https://www.reuters.com/legal/government/google-cuts-mystery-check-us-bid-sidestep-jury-trial-2024-05-20/)
+- May 21 - [Modos Paper Monitor Pre-Launch on Crowd Supply](https://www.modos.tech/blog/modos-paper-monitor-pre-launch-on-crowd-supply)
+- May 21 - [Microsoft Says New Surface Pro Is Faster Than 15" M3 MacBook Air](https://www.macrumors.com/2024/05/20/microsoft-surface-pro-faster-macbook-air/)
+- May 21 - [Stripe increasing "instant payout" fees by 50%](https://support.stripe.com/questions/june-2024-pricing-update-for-instant-payouts-for-businesses-in-the-united-states)
+- May 21 - [Regular Expression Matching Can Be Simple and Fast (2007)](https://swtch.com/%7Ersc/regexp/regexp1.html)
+- May 21 - [Bento3D](https://polar-tadpole-97b.notion.site/Bento3D-e40483712b304d389d7c2da26196e113#d7f452d3ffd94cd1a0a9e70e361efb63)
 <!--END_SECTION:hn-->
 
 <!--
