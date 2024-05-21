@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 21 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- May 21 - [We created the first open source implementation of Meta's TestGen–LLM](https://www.codium.ai/blog/we-created-the-first-open-source-implementation-of-metas-testgen-llm/)
-- May 21 - [Trying out the Panel-of-Experts prompting strategy for LLMs](https://sourcery.ai/blog/panel-of-experts/)
-- May 21 - [One dead as London-Singapore flight hit by turbulence](https://www.bbc.com/news/articles/c8889d7x8j4o)
-- May 21 - [Google announces Firebase Genkit with Ollama support](https://ollama.com/blog/firebase-genkit)
+- May 21 - [Underwater acoustic analysis reveals unique pressure signals – Revisiting MH370](https://www.nature.com/articles/s41598-024-60529-1)
+- May 21 - [Mapping the Mind of a Large Language Model](https://www.anthropic.com/research/mapping-mind-language-model)
+- May 21 - [How Shadow Banning Can Silently Shift Opinion Online](https://insights.som.yale.edu/insights/how-shadow-banning-can-silently-shift-opinion-online)
+- May 21 - [Show HN: I built a game to help you learn neural network architectures](https://graphgame.sabrina.dev/)
+- May 21 - [CADmium: A Local-First CAD Program Built for the Browser](https://mattferraro.dev/posts/cadmium)
 <!--END_SECTION:hn-->
 
 <!--
