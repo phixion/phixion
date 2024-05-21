@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 21 - [Modos Paper Monitor Pre-Launch on Crowd Supply](https://www.modos.tech/blog/modos-paper-monitor-pre-launch-on-crowd-supply)
-- May 21 - [Microsoft Says New Surface Pro Is Faster Than 15" M3 MacBook Air](https://www.macrumors.com/2024/05/20/microsoft-surface-pro-faster-macbook-air/)
-- May 21 - [Stripe increasing "instant payout" fees by 50%](https://support.stripe.com/questions/june-2024-pricing-update-for-instant-payouts-for-businesses-in-the-united-states)
-- May 21 - [Regular Expression Matching Can Be Simple and Fast (2007)](https://swtch.com/%7Ersc/regexp/regexp1.html)
-- May 21 - [Bento3D](https://polar-tadpole-97b.notion.site/Bento3D-e40483712b304d389d7c2da26196e113#d7f452d3ffd94cd1a0a9e70e361efb63)
+- May 21 - [Apple supplier Foxconn among firms asked to cut power use in Vietnam](https://www.reuters.com/technology/apple-supplier-foxconn-among-firms-asked-cut-power-use-vietnam-sources-say-2024-05-21/)
+- May 21 - [Langfuse (YC W23) is hiring engineers in Berlin: open-source LLM devtool](https://github.com/langfuse/langfuse/blob/main/careers)
+- May 21 - [Taking Risk – Startups in UK vs. US](https://tomblomfield.com/post/750852175114174464/taking-risk)
+- May 21 - [How Might We Learn?](https://andymatuschak.org/hmwl/)
+- May 21 - [Shipbreaking](https://www.edwardburtynsky.com/projects/photographs/shipbreaking)
 <!--END_SECTION:hn-->
 
 <!--
