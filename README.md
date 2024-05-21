@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 21 - [Underwater acoustic analysis reveals unique pressure signals – Revisiting MH370](https://www.nature.com/articles/s41598-024-60529-1)
-- May 21 - [Mapping the Mind of a Large Language Model](https://www.anthropic.com/research/mapping-mind-language-model)
-- May 21 - [How Shadow Banning Can Silently Shift Opinion Online](https://insights.som.yale.edu/insights/how-shadow-banning-can-silently-shift-opinion-online)
-- May 21 - [Show HN: I built a game to help you learn neural network architectures](https://graphgame.sabrina.dev/)
-- May 21 - [CADmium: A Local-First CAD Program Built for the Browser](https://mattferraro.dev/posts/cadmium)
+- May 21 - [Storing knowledge in a single long plain text file](https://breckyunits.com/scrollsets.html)
+- May 21 - [Gordon Bell has died](https://arstechnica.com/gadgets/2024/05/gordon-bell-an-architect-of-our-digital-age-dies-at-age-89/)
+- May 21 - [iTerm2 and AI Hype Overload](https://xeiaso.net/notes/2024/ai-hype/)
+- May 21 - [Ask HN: How does modern FreeCAD compare with Solidworks?](https://news.ycombinator.com/item?id=40432337)
+- May 21 - [The curious case of the missing period](https://tjaart.substack.com/p/the-curious-case-of-the-missing-period)
 <!--END_SECTION:hn-->
 
 <!--
