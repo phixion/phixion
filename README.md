@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 22 - [Electric cars more likely to hit pedestrians than petrol vehicles, study finds](https://www.theguardian.com/world/article/2024/may/21/electric-cars-more-likely-to-hit-pedestrians-than-petrol-vehicles-study-finds)
-- May 22 - [A transport protocol's view of Starlink](https://blog.apnic.net/2024/05/17/a-transport-protocols-view-of-starlink/)
-- May 22 - [Alacritty – A fast, cross-platform, OpenGL terminal emulator](https://github.com/alacritty/alacritty)
-- May 22 - [Emory Awards, Then Suspends Students Behind Study-Aide App](https://www.govtech.com/education/higher-ed/emory-awards-then-suspends-students-behind-study-aide-app)
-- May 22 - [Possible firmware issues for Apple Silicon OpenBSD/ARM64 users](https://www.undeadly.org/cgi?action=article;sid=20240522045252)
+- May 22 - [Plane (YC W17) is hiring product engineers (Rails/Remote/Americas)](https://www.ycombinator.com/companies/plane/jobs/6NKkoGo-senior-staff-product-engineer-americas)
+- May 22 - [A comet approaching Earth could become brighter than the stars this fall](https://www.space.com/comet-tsuchinshan-atlas-fall-2024)
+- May 22 - [The Denmark secret: how it became the most trusting country](https://www.theguardian.com/lifeandstyle/article/2024/may/22/the-denmark-secret-how-it-became-the-worlds-most-trusting-country-and-why-that-matters)
+- May 22 - [Viral DNA in the human genome linked to major psychiatric disorders](https://medicalxpress.com/news/2024-05-ancient-viral-dna-human-genome.html)
+- May 22 - [Autonomous AI Robot Creates a Shock-Absorbing Shape No Human Ever Could](https://scitechdaily.com/crushing-it-autonomous-ai-robot-creates-a-shock-absorbing-shape-no-human-ever-could/)
 <!--END_SECTION:hn-->
 
 <!--
