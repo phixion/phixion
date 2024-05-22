@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 22 - [HumaneAI pin maker selling itself for $1B](https://gizmodo.com/humane-ai-pin-selling-billion-1851493143)
-- May 22 - [Why physicists now question the fate of the Universe](https://bigthink.com/starts-with-a-bang/physicists-question-fate-universe/)
-- May 22 - [Show HN: PBT – A property-based testing library for Ruby](https://github.com/ohbarye/pbt)
-- May 22 - [Sal Khan is pioneering innovation in education again](https://www.gatesnotes.com/Brave-New-Words)
-- May 22 - [Mars rover mission will use pioneering nuclear power source](https://www.nature.com/articles/d41586-024-01487-6)
+- May 22 - [Carmakers Will Give Your Location to Police Without a Warrant, Senators Say](https://www.thedrive.com/news/automakers-will-give-your-location-to-police-without-a-warrant-senators-say)
+- May 22 - [Bluesky Adds Direct Messages](https://bsky.social/about/blog/05-22-2024-direct-messages)
+- May 22 - [Try Clojure](https://tryclojure.org/)
+- May 22 - [Show HN: Neosync – Open-Source Data Anonymization for Postgres and MySQL](https://github.com/nucleuscloud/neosync)
+- May 22 - [Show HN: B-field, a novel probabilistic key-value data structure (`rust-bfield`)](https://github.com/onecodex/rust-bfield)
 <!--END_SECTION:hn-->
 
 <!--
