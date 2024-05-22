@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 21 - [Designed to Crash: the story of Antonov An-28 HA-LAJ and its demise](https://admiralcloudberg.medium.com/designed-to-crash-the-bizarre-story-of-antonov-an-28-ha-laj-and-its-demise-169b3720d924)
-- May 21 - [Clever code is probably the worst code you could write](https://read.engineerscodex.com/p/clever-code-is-probably-the-worst)
-- May 21 - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
-- May 21 - [The Stanford Startup and the MIT Startup](http://fpgacomputing.blogspot.com/2013/11/the-stanford-startup-and-mit-startup.html)
-- May 21 - [Wikimedia Enterprise – APIs for LLMs, AI Training, and More](https://enterprise.wikimedia.com/)
+- May 22 - [Why MSFT Copilot+ and AI PCs are the final nail in the coffin of open computing](https://venturebeat.com/ai/ceding-control-how-copilot-and-pcs-could-make-enterprises-beholden-to-microsoft/)
+- May 22 - [Scandal at America's top science fair](https://www.karlstack.com/p/exclusive-scandal-at-americas-top)
+- May 22 - [Tillywork: Open-Source Work Management](https://github.com/tillywork/tillywork)
+- May 22 - [Rockman / Mega Man source code](https://bisqwit.iki.fi/jutut/megamansource/)
+- May 22 - [CodeCrafters (YC S22) Is Hiring a Remote Influencer Partnerships Manager](https://www.ycombinator.com/companies/codecrafters/jobs/7ljWFvU-influencer-partnerships-manager)
 <!--END_SECTION:hn-->
 
 <!--
