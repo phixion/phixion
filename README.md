@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 21 - [Storing knowledge in a single long plain text file](https://breckyunits.com/scrollsets.html)
-- May 21 - [Gordon Bell has died](https://arstechnica.com/gadgets/2024/05/gordon-bell-an-architect-of-our-digital-age-dies-at-age-89/)
-- May 21 - [iTerm2 and AI Hype Overload](https://xeiaso.net/notes/2024/ai-hype/)
-- May 21 - [Ask HN: How does modern FreeCAD compare with Solidworks?](https://news.ycombinator.com/item?id=40432337)
-- May 21 - [The curious case of the missing period](https://tjaart.substack.com/p/the-curious-case-of-the-missing-period)
+- May 21 - [Designed to Crash: the story of Antonov An-28 HA-LAJ and its demise](https://admiralcloudberg.medium.com/designed-to-crash-the-bizarre-story-of-antonov-an-28-ha-laj-and-its-demise-169b3720d924)
+- May 21 - [Clever code is probably the worst code you could write](https://read.engineerscodex.com/p/clever-code-is-probably-the-worst)
+- May 21 - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+- May 21 - [The Stanford Startup and the MIT Startup](http://fpgacomputing.blogspot.com/2013/11/the-stanford-startup-and-mit-startup.html)
+- May 21 - [Wikimedia Enterprise – APIs for LLMs, AI Training, and More](https://enterprise.wikimedia.com/)
 <!--END_SECTION:hn-->
 
 <!--
