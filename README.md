@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 23 - [Microsoft Reportedly Readies $16B Bid to Acquire Valve / Steam](https://www.guru3d.com/story/microsoft-reportedly-readies-billion-bid-to-acquire-valve-steam/)
-- May 23 - [Microplastics detected in human testicles, troubling researchers](https://www.npr.org/sections/health-shots/2024/05/22/1252831827/microplastics-testicles-humans-health)
-- May 23 - [Apple's foldable MacBooks rumored to ship in 2026](https://www.theverge.com/2024/5/23/24163198/apple-foldable-macbooks-shipments-2026-kuo)
-- May 23 - [The Space Quest II Master Disk Blunder](https://lanceewing.github.io/blog/sierra/agi/sq2/2024/05/22/do-you-own-this-space-quest-2-disk.html)
-- May 23 - [amber, a code search & replace tool](https://github.com/dalance/amber)
+- May 23 - [A connection between the northern lights and Hubble's death](https://bigthink.com/starts-with-a-bang/northern-lights-hubble/)
+- May 23 - [US Army researched the health effects of radioactivity in St Louis 1945-1970](https://mospace.umsystem.edu/xmlui/handle/10355/13170)
+- May 23 - [Act on Press](https://twitter.com/ID_AA_Carmack/status/1787850053912064005)
+- May 23 - [Fossil fuels could have been left in the dust 25 years ago](https://timharford.com/2024/05/fossil-fuels-could-have-been-left-in-the-dust-25-years-ago/)
+- May 23 - [Crows "count" the number of self-generated vocalizations](https://www.science.org/doi/10.1126/science.adl0984)
 <!--END_SECTION:hn-->
 
 <!--
