@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- May 23 - [Dota2 - 1,907,205 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Dota2)
 - May 10 - [The Post Millennial - 56,973,345 breached accounts](https://haveibeenpwned.com/PwnedWebsites#ThePostMillennial)
 - May 09 - [Tappware - 94,734 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Tappware)
 - Apr 30 - [MovieBoxPro - 6,009,014 breached accounts](https://haveibeenpwned.com/PwnedWebsites#MovieBoxPro)
 - Apr 26 - [Piping Rock - 2,103,100 breached accounts](https://haveibeenpwned.com/PwnedWebsites#PipingRock)
-- Apr 22 - [T2 - 94,584 breached accounts](https://haveibeenpwned.com/PwnedWebsites#T2)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 23 - [One of the most unusual heists in America seems to be unfolding at Taco Bell](https://www.sfgate.com/food/article/taco-bell-ebay-mark-smith-paintings-19464177.php)
-- May 23 - [Magic UI: UI Library for Design Engineers](https://magicui.design/)
-- May 23 - [WinDirStat – Windows Directory Statistics](https://windirstat.net/)
-- May 23 - [Drone Flying 101 – An Interactive Tutorial for Beginners](https://fpvsim.com/drone-flying-101)
-- May 22 - [OpenAI didn’t copy Scarlett Johansson’s voice for ChatGPT, records show](https://www.washingtonpost.com/technology/2024/05/22/openai-scarlett-johansson-chatgpt-ai-voice/)
+- May 23 - [PermitFlow (YC W22) Is Hiring](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
+- May 23 - [The 'Best' Hidden Y Combinator Page.. You never knew..](https://news.ycombinator.com/best)
+- May 23 - [Microsoft outage affects Bing, Copilot, DuckDuckGo and ChatGPT internet search](https://www.bleepingcomputer.com/news/microsoft/microsoft-outage-affects-bing-copilot-duckduckgo-and-chatgpt-internet-search/)
+- May 23 - [A Theoretical Case Against Education](https://www.astralcodexten.com/p/a-theoretical-case-against-education)
+- May 23 - [Tell HN: DuckDuckGo Search Not Returning Results](https://news.ycombinator.com/item?id=40452795)
 <!--END_SECTION:hn-->
 
 <!--
