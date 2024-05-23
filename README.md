@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 23 - [PermitFlow (YC W22) Is Hiring](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
-- May 23 - [The 'Best' Hidden Y Combinator Page.. You never knew..](https://news.ycombinator.com/best)
-- May 23 - [Microsoft outage affects Bing, Copilot, DuckDuckGo and ChatGPT internet search](https://www.bleepingcomputer.com/news/microsoft/microsoft-outage-affects-bing-copilot-duckduckgo-and-chatgpt-internet-search/)
-- May 23 - [A Theoretical Case Against Education](https://www.astralcodexten.com/p/a-theoretical-case-against-education)
-- May 23 - [Tell HN: DuckDuckGo Search Not Returning Results](https://news.ycombinator.com/item?id=40452795)
+- May 23 - [Microsoft Reportedly Readies $16B Bid to Acquire Valve / Steam](https://www.guru3d.com/story/microsoft-reportedly-readies-billion-bid-to-acquire-valve-steam/)
+- May 23 - [Microplastics detected in human testicles, troubling researchers](https://www.npr.org/sections/health-shots/2024/05/22/1252831827/microplastics-testicles-humans-health)
+- May 23 - [Apple's foldable MacBooks rumored to ship in 2026](https://www.theverge.com/2024/5/23/24163198/apple-foldable-macbooks-shipments-2026-kuo)
+- May 23 - [The Space Quest II Master Disk Blunder](https://lanceewing.github.io/blog/sierra/agi/sq2/2024/05/22/do-you-own-this-space-quest-2-disk.html)
+- May 23 - [amber, a code search & replace tool](https://github.com/dalance/amber)
 <!--END_SECTION:hn-->
 
 <!--
