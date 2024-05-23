@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 23 - [Helium Flash](https://en.wikipedia.org/wiki/Helium_flash)
-- May 23 - [How to do a startup, according to YC data](https://amvizion.org/blog/lessons-learned-from-yc.html)
-- May 22 - [Emacs Easydraw – drawing tool inside Emacs](https://github.com/misohena/el-easydraw)
-- May 22 - [US Justice Department to seek breakup of Live Nation-Ticketmaster](https://www.bloomberg.com/news/articles/2024-05-22/justice-department-to-seek-breakup-of-live-nation-ticketmaster)
-- May 22 - [Leaked OpenAI documents reveal aggressive tactics toward former employees](https://www.vox.com/future-perfect/351132/openai-vested-equity-nda-sam-altman-documents-employees)
+- May 23 - [One of the most unusual heists in America seems to be unfolding at Taco Bell](https://www.sfgate.com/food/article/taco-bell-ebay-mark-smith-paintings-19464177.php)
+- May 23 - [Magic UI: UI Library for Design Engineers](https://magicui.design/)
+- May 23 - [WinDirStat – Windows Directory Statistics](https://windirstat.net/)
+- May 23 - [Drone Flying 101 – An Interactive Tutorial for Beginners](https://fpvsim.com/drone-flying-101)
+- May 22 - [OpenAI didn’t copy Scarlett Johansson’s voice for ChatGPT, records show](https://www.washingtonpost.com/technology/2024/05/22/openai-scarlett-johansson-chatgpt-ai-voice/)
 <!--END_SECTION:hn-->
 
 <!--
