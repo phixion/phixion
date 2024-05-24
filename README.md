@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 24 - [Google AI search feature suggested using glue to keep cheese sticking to a pizza](https://www.businessinsider.com/google-search-ai-overviews-glue-keep-cheese-pizza-2024-5)
+- May 24 - [Binarize CLIP for Multimodal Applications](https://www.marqo.ai/blog/learn-to-binarize-clip-for-multimodal-retrieval-and-ranking)
 - May 23 - [Dehydration associated with poorer performance on attention tasks among adults](https://onlinelibrary.wiley.com/doi/10.1002/ajhb.24051)
-- May 23 - [Professor Mark Riedl poisons Google's LLM-backed search](https://twitter.com/mark_riedl/status/1793375699967054334)
+- May 23 - [CSharpRepl: C# REPL with syntax highlighting and intellisense](https://fuqua.io/CSharpRepl/)
 - May 23 - [Checkr (YC S14) is hiring a staff software engineer for Checkr Pay](https://www.ycombinator.com/companies/checkr/jobs/ixzdle1-staff-software-engineer-checkr-pay)
-- May 23 - [FTX bankruptcy examiner's report [pdf]](https://restructuring.ra.kroll.com/FTX/Home-DownloadPDF?id1=MzExMDk4OQ==&id2=-1)
-- May 23 - [Show HN: Open-Source Real Time Data Framework for LLM Applications](https://getindexify.ai)
 <!--END_SECTION:hn-->
 
 <!--
