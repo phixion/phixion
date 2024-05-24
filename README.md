@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 24 - [Morgan Spurlock, filmmaker behind 'Super Size Me' documentary, dies from cancer](https://abcnews.go.com/US/morgan-spurlock-filmmaker-super-size-documentary-dies-cancer/story?id=110534964)
-- May 24 - [Writing a Unix clone in about a month](https://drewdevault.com/2024/05/24/2024-05-24-Bunnix.html)
-- May 24 - [We Shift Testing Left: A Software Dev Cycle That Doesn't Scale](https://thenewstack.io/why-we-shift-testing-left-a-software-dev-cycle-that-doesnt-scale/)
-- May 24 - [Cosmic Glitch: Scientists Discover an Anomaly in the Universe's Gravity](https://www.businessinsider.com/cosmic-glitch-makes-scientists-rethink-einstein-greatest-theory-2024-5)
-- May 24 - [Move Over, Tractor–The Farmer Wants a Crop-Spraying Drone](https://spectrum.ieee.org/arthur-erickson-drones-profile)
+- May 24 - [Show HN: Spot – Simple, cross-platform, reactive desktop GUI toolkit for Go](https://github.com/roblillack/spot)
+- May 24 - [The Student Syndrome: Delaying until right before deadlines](https://solvingprocrastination.com/student-syndrome/)
+- May 24 - [Mp3tag – The Universal Tag Editor](https://www.mp3tag.de/en/)
+- May 24 - [Financial Statement Analysis with Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311)
+- May 24 - [Flexport (YC W14) is hiring an OR/ML guru to optimize global trade routing](https://boards.greenhouse.io/flexport/jobs/5806177?gh_jid=5806177)
 <!--END_SECTION:hn-->
 
 <!--
