@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 24 - [Motion (YC W20) is hiring senior engineers looking for their next challenge](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
-- May 24 - ["Unacceptable": Spotify bricking Car Thing devices in Dec. without refunds](https://arstechnica.com/gadgets/2024/05/pleas-for-open-sourcing-refunds-as-spotify-plans-to-brick-car-thing-devices/)
-- May 24 - [Apple's M4 Has Reportedly Adopted the ARMv9 Architecture](https://wccftech.com/apple-m4-adopts-armv9-run-complex-workloads-efficiently/)
-- May 24 - [The Washington Post Tells Staff It's Pivoting to AI](https://futurism.com/washington-post-pivot-ai)
-- May 24 - [Anger Does a Lot More Damage to Your Body Than You Realize](https://www.wsj.com/health/wellness/anger-health-effects-risks-heart-brain-mental-f4105ed7)
+- May 24 - [Morgan Spurlock, filmmaker behind 'Super Size Me' documentary, dies from cancer](https://abcnews.go.com/US/morgan-spurlock-filmmaker-super-size-documentary-dies-cancer/story?id=110534964)
+- May 24 - [Writing a Unix clone in about a month](https://drewdevault.com/2024/05/24/2024-05-24-Bunnix.html)
+- May 24 - [We Shift Testing Left: A Software Dev Cycle That Doesn't Scale](https://thenewstack.io/why-we-shift-testing-left-a-software-dev-cycle-that-doesnt-scale/)
+- May 24 - [Cosmic Glitch: Scientists Discover an Anomaly in the Universe's Gravity](https://www.businessinsider.com/cosmic-glitch-makes-scientists-rethink-einstein-greatest-theory-2024-5)
+- May 24 - [Move Over, Tractor–The Farmer Wants a Crop-Spraying Drone](https://spectrum.ieee.org/arthur-erickson-drones-profile)
 <!--END_SECTION:hn-->
 
 <!--
