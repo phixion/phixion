@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 24 - [How private equity rolled Red Lobster](https://www.nbcnews.com/business/consumer/private-equity-rolled-red-lobster-rcna153397)
+- May 24 - [Freshpaint (YC S19) is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+- May 24 - [I uploaded 11 years of my Day One Journal data to GPT-4o](https://www.linkedin.com/posts/darryl-kelly_i-uploaded-11-years-97k-hours-of-transcribed-activity-7198679274046828544-gUrO)
+- May 24 - [Guys what is wrong with ACATS](https://www.bitsaboutmoney.com/archive/how-acats-transfers-work/)
 - May 24 - [Show HN: Spot – Simple, cross-platform, reactive desktop GUI toolkit for Go](https://github.com/roblillack/spot)
-- May 24 - [The Student Syndrome: Delaying until right before deadlines](https://solvingprocrastination.com/student-syndrome/)
-- May 24 - [Mp3tag – The Universal Tag Editor](https://www.mp3tag.de/en/)
-- May 24 - [Financial Statement Analysis with Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311)
-- May 24 - [Flexport (YC W14) is hiring an OR/ML guru to optimize global trade routing](https://boards.greenhouse.io/flexport/jobs/5806177?gh_jid=5806177)
 <!--END_SECTION:hn-->
 
 <!--
