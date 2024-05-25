@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 25 - [Google scrambles to manually remove weird AI answers in search](https://www.theverge.com/2024/5/24/24164119/google-ai-overview-mistakes-search-race-openai)
-- May 25 - [The new visa fees for foreign artists are out. This is not good](https://www.ajournalofmusicalthings.com/the-new-visa-fees-for-foreign-artists-are-out-this-is-not-good/)
-- May 25 - [A shrinking life: Why some Asian youth withdraw from the world](https://www.cnn.com/interactive/2024/05/world/hikikomori-asia-personal-stories-wellness/)
-- May 25 - [Goodix Fingerprint Drivers for Linux (Or at Least Debian)](https://github.com/tcsenpai/goodix-debian-linux-drivers-fingerprint-by-dell)
-- May 25 - [The Prophet Who Failed – After the apocalypse that wasn't](https://harpers.org/archive/2024/06/the-prophet-who-wasnt-after-the-apocalypse-that-failed-emily-harnett/)
+- May 25 - [Canada orders dissolution of two firms, citing national security concerns](https://www.reuters.com/business/canada-orders-dissolution-two-firms-citing-national-security-concerns-2024-05-25/)
+- May 25 - [Cannabis Use Linked to Epigenetic Changes, Study Reveals](https://www.sciencealert.com/cannabis-use-linked-to-epigenetic-changes-study-reveals)
+- May 25 - [Where Are the Builders?](https://near.blog/where-are-the-builders/)
+- May 25 - [`tmux` is worse is better](https://hiandrewquinn.github.io/til-site/posts/tmux-is-worse-is-better/)
+- May 25 - [Lago: Open-Source Usage Based Billing Is Hiring a Founding Product Marketer](https://www.ycombinator.com/companies/lago/jobs/8aqFA2l-product-marketer)
 <!--END_SECTION:hn-->
 
 <!--
