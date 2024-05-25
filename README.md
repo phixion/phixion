@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 25 - [You are lucky Full moon tonight](https://twitter.com/cupiabart/status/1793930355617259811)
-- May 25 - [JetBrains releases RustRover IDE for Rust development](https://www.infoworld.com/article/3715317/jetbrains-releases-rustrover-ide-for-rust-development.html)
-- May 25 - [Feral goldfish are threatening the Great Lakes ecosystem [video]](https://www.pbs.org/newshour/show/how-massive-feral-goldfish-are-threatening-the-great-lakes-ecosystem)
-- May 24 - [ICQ messenger shuts down after almost 28 years](https://www.bleepingcomputer.com/news/software/icq-messenger-shuts-down-after-almost-28-years/)
-- May 24 - [Freshpaint (YC S19) is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+- May 25 - [Signal's Meredith Whittaker on the Telegram security clash](https://techcrunch.com/2024/05/24/signals-meredith-whittaker-on-the-telegram-security-clash-and-the-edge-lords-at-openai/)
+- May 25 - [The solar industrial revolution is the biggest investment opportunity in history](https://caseyhandmer.wordpress.com/2024/05/22/the-solar-industrial-revolution-is-the-biggest-investment-opportunity-in-history/)
+- May 25 - [HackNote](https://hacknote.co/)
+- May 25 - [Don Knuth's MIP, 64 years later](https://nathanbrixius.wordpress.com/2024/04/13/don-knuths-mip-64-years-later/)
+- May 25 - [Signalfd Is Useless](https://ldpreload.com/blog/signalfd-is-useless)
 <!--END_SECTION:hn-->
 
 <!--
