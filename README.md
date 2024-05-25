@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 25 - [Signal's Meredith Whittaker on the Telegram security clash](https://techcrunch.com/2024/05/24/signals-meredith-whittaker-on-the-telegram-security-clash-and-the-edge-lords-at-openai/)
-- May 25 - [The solar industrial revolution is the biggest investment opportunity in history](https://caseyhandmer.wordpress.com/2024/05/22/the-solar-industrial-revolution-is-the-biggest-investment-opportunity-in-history/)
-- May 25 - [HackNote](https://hacknote.co/)
-- May 25 - [Don Knuth's MIP, 64 years later](https://nathanbrixius.wordpress.com/2024/04/13/don-knuths-mip-64-years-later/)
-- May 25 - [Signalfd Is Useless](https://ldpreload.com/blog/signalfd-is-useless)
+- May 25 - [Publishing AI Slop Is a Choice](https://daringfireball.net/linked/2024/05/24/publishing-ai-slop-is-a-choice)
+- May 25 - [Google just updated its algorithm. The Internet will never be the same](https://www.bbc.com/future/article/20240524-how-googles-new-algorithm-will-shape-your-internet)
+- May 25 - [It's cheaper to buy ($33) than rent ($44/year) IPv4s from AWS](https://twitter.com/billfranklinuk/status/1794268011383144518)
+- May 25 - [Lapis: A Web Framework for Lua](https://leafo.net/lapis/)
+- May 25 - [A Woman Who Left Society to Live with Bears Weighs in on "Man or Bear"](https://bikepacking.com/plog/man-or-bear-debate/)
 <!--END_SECTION:hn-->
 
 <!--
