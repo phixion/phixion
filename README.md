@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 26 - [GRC SpinRite](https://computer.rip/2024-05-25-grc-spinrite.html)
 - May 25 - [Startup is about to install bladeless rooftop wind turbines on box buildings](https://electrek.co/2024/05/24/bladeless-rooftop-wind-turbines-box-buildings/)
-- May 25 - [Zellij: A terminal workspace with batteries included](https://zellij.dev/)
 - May 25 - [Fathom AI Notetaker (YC W21) Is Hiring Full-Stack Engineers (Remote)](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote)
-- May 25 - [UltraNet: Revisiting Ultrasound](https://b.h4x.zip/ultranet/)
 - May 25 - [Majorana, the search for the most elusive neutrino of all](https://newscenter.lbl.gov/2012/05/16/majorana-demonstrator/)
+- May 25 - [Taming floating-point sums](https://orlp.net/blog/taming-float-sums/)
 <!--END_SECTION:hn-->
 
 <!--
