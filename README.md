@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 26 - [(FinTech) Synapse has collapsed, 10M consumers, 100s of fintechs in trouble](https://techcrunch.com/2024/05/25/with-a16z-backed-synapses-collapse-baas-fintech-is-a-mess-and-10-million-consumers-could-be-hurt/)
-- May 26 - [Hurl, the Exceptional Language](https://hurl.wtf/)
-- May 26 - [Braid: Synchronization for HTTP](https://braid.org/)
-- May 26 - [Hacking phones is too easy. Time to make it harder](https://www.economist.com/leaders/2024/05/23/hacking-phones-is-too-easy-time-to-make-it-harder)
-- May 26 - [I was at Woodstock '99 and it destroyed my innocence (2022)](https://www.kerrang.com/i-was-at-woodstock-99-and-it-destroyed-my-innocence)
+- May 26 - [UpCodes (YC S17) is hiring remote SWEs, PMs to automate construction compliance](https://up.codes/careers?utm_source=HN)
+- May 26 - [Big (O)Notation Every Developer Should Know](https://medium.com/javarevisited/8-big-o-notation-every-developer-should-know-01426ae5fb7a)
+- May 26 - [Electrically conductive bricks can replace fossil fuels in industrial processes](https://www.bostonglobe.com/2024/05/25/science/race-clean-up-heavy-industry-heats-up/)
+- May 26 - [Understanding how the brain reads code versus language](https://learnhub.top/understanding-how-the-brain-reads-code-versus-language/)
+- May 26 - [Show HN: I made a online free tool to enhance and auto-crop your screenshots](https://socialscreenshots.com)
 <!--END_SECTION:hn-->
 
 <!--
