@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 26 - [UpCodes (YC S17) is hiring remote SWEs, PMs to automate construction compliance](https://up.codes/careers?utm_source=HN)
-- May 26 - [Big (O)Notation Every Developer Should Know](https://medium.com/javarevisited/8-big-o-notation-every-developer-should-know-01426ae5fb7a)
-- May 26 - [Electrically conductive bricks can replace fossil fuels in industrial processes](https://www.bostonglobe.com/2024/05/25/science/race-clean-up-heavy-industry-heats-up/)
-- May 26 - [Understanding how the brain reads code versus language](https://learnhub.top/understanding-how-the-brain-reads-code-versus-language/)
-- May 26 - [Show HN: I made a online free tool to enhance and auto-crop your screenshots](https://socialscreenshots.com)
+- May 26 - [More Falsehoods Programmers Believe About Time (2012)](https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time)
+- May 26 - [Feynman's Garden](https://www.marginalia.nu/log/a_108_feynman_revisited/)
+- May 26 - [Integrating AI CodeGen with Low Code Application Development](https://blog.codesolvent.com/2024/05/integrating-ai-codegen-with-low-code.html)
+- May 26 - [Periodic Table of the Elements, in Pictures and Words](https://elements.wlonk.com/)
+- May 26 - [A Journey to the Medical Netherworld (2016)](https://hazlitt.net/longreads/journey-medical-netherworld)
 <!--END_SECTION:hn-->
 
 <!--
