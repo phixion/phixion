@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 27 - [Resume Tip: Hacking "AI" screening of resumes](https://www.solipsys.co.uk/images/ResumeTip.png)
+- May 27 - [My new PSU burns out I fix it, and torture it by cracking water](https://tomscii.sig7.se/2024/05/PSU-burnout-and-torture-cracking-water)
+- May 27 - [Priced Out of Homeownership](https://www.bbc.com/news/articles/cmj66r4lvzzo)
+- May 27 - [Big data is dead (2023)](https://motherduck.com/blog/big-data-is-dead/)
 - May 27 - [Meticulous (YC S21) is hiring to eliminate E2E tests](https://news.ycombinator.com/item?id=40488372)
-- May 27 - [ESA two-part Proba-3 spacecraft is meant to create artificial solar eclipses](https://www.theverge.com/2024/4/3/24120149/european-space-agency-artificial-solar-eclipse-proba-3-spacecraft-corona-study)
-- May 27 - [A Big Ring on the Sky](https://cosmosmagazine.com/space/astronomy/giant-structure-space-universe/)
-- May 27 - [Alaska's Pristine Waterways Are Turning Orange](https://www.sciencealert.com/alaskas-pristine-waterways-are-turning-a-shocking-orange)
-- May 27 - [Braid-Text: Text Synchronization Libraries over Braid-HTTP](https://github.com/braid-org/braid-text)
 <!--END_SECTION:hn-->
 
 <!--
