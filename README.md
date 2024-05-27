@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 26 - [My $2.2k laptop can't drive two screens](https://notes.nokun.eu/post/2024-05-26-expensive-laptops-dont-pro/)
-- May 26 - [Milk Watcher](https://en.wikipedia.org/wiki/Milk_watcher)
-- May 26 - [llama-fs: A self-organizing file system with llama 3](https://github.com/iyaja/llama-fs)
-- May 26 - [The CompCert C Compiler](https://compcert.org/compcert-C.html)
-- May 26 - [Launch from inside an Apollo capsule (restored in 4K/30 FPS) [video]](https://www.youtube.com/watch?v=v1SGDbpeFFg)
+- May 26 - [Netflix is removing offline downloads from its Windows app](https://twitter.com/ArtemR/status/1794513583650329036)
+- May 26 - [Julia Evans' Git Cheat Sheet [pdf]](https://wizardzines.com/git-cheat-sheet.pdf)
+- May 26 - [API Governance Delivers Quality](https://apichangelog.substack.com/p/api-governance-delivers-quality)
+- May 26 - [Mastering Bitcoin 3rd Edition (2023)](https://github.com/bitcoinbook/bitcoinbook/blob/develop/BOOK.md)
+- May 26 - [Artificial Intelligence and the Skill Premium](https://www.nber.org/papers/w32430)
 <!--END_SECTION:hn-->
 
 <!--
