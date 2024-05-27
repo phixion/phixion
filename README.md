@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 27 - [Should I Use jwts For Authentication Tokens?](https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/)
-- May 27 - [Instead of "auth", we should say "permissions" and "login"](https://ntietz.com/blog/lets-say-instead-of-auth/)
-- May 27 - [My BDFL guiding principles (cURL) – daniel.haxx.se](https://daniel.haxx.se/blog/2024/05/27/my-bdfl-guiding-principles/)
-- May 27 - [Cycling's Silent Epidemic: Labial swelling and pain in women](https://www.bicycling.com/health-nutrition/a60412469/cycling-saddle-pain-women-surgery/)
-- May 27 - [Reclaiming IPv4 Class E's 240.0.0.0/4](https://blog.benjojo.co.uk/post/class-e-addresses-in-the-real-world)
+- May 27 - [More Itertools](https://more-itertools.readthedocs.io/en/stable/)
+- May 27 - [Pixmob IR Reverse Engineering](https://github.com/danielweidman/pixmob-ir-reverse-engineering)
+- May 27 - [Tantivy – full-text search engine library inspired by Apache Lucene](https://github.com/quickwit-oss/tantivy)
+- May 27 - [Brainbase (YC W24) Is Hiring](https://www.ycombinator.com/companies/brainbase/jobs/UUoqH3y-head-of-operations)
+- May 27 - [Controlling the Taylor Swift Eras Tour wristbands with Flipper Zero](https://blog.jgc.org/2024/05/controlling-taylor-swift-eras-tour.html)
 <!--END_SECTION:hn-->
 
 <!--
