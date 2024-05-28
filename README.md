@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 28 - [WP21](https://ma.tt/2024/05/wp21/)
+- May 28 - [La Niña is coming, raising the chances of a dangerous Atlantic hurricane season](https://phys.org/news/2024-05-la-nia-chances-dangerous-atlantic.html)
+- May 28 - [Dlvhdr/gh-dash: A beautiful CLI dashboard for GitHub](https://github.com/dlvhdr/gh-dash)
 - May 27 - [Truth, Math, and Models (Part 8 in a series on the scientific method)](http://blog.rongarret.info/)
 - May 27 - [Grokked Transformers Are Implicit Reasoners](https://arxiv.org/abs/2405.15071)
-- May 27 - [Regular Expression Matching with a Trigram Index (2012)](https://swtch.com/~rsc/regexp/regexp4.html)
-- May 27 - [GTFL – A Graphical Terminal for Common Lisp](http://www.martin-loetzsch.de/gtfl/)
-- May 27 - [More Itertools](https://more-itertools.readthedocs.io/en/stable/)
 <!--END_SECTION:hn-->
 
 <!--
