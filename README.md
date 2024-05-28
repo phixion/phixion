@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 27 - [Truth, Math, and Models (Part 8 in a series on the scientific method)](http://blog.rongarret.info/)
+- May 27 - [Grokked Transformers Are Implicit Reasoners](https://arxiv.org/abs/2405.15071)
+- May 27 - [Regular Expression Matching with a Trigram Index (2012)](https://swtch.com/~rsc/regexp/regexp4.html)
+- May 27 - [GTFL – A Graphical Terminal for Common Lisp](http://www.martin-loetzsch.de/gtfl/)
 - May 27 - [More Itertools](https://more-itertools.readthedocs.io/en/stable/)
-- May 27 - [Pixmob IR Reverse Engineering](https://github.com/danielweidman/pixmob-ir-reverse-engineering)
-- May 27 - [Tantivy – full-text search engine library inspired by Apache Lucene](https://github.com/quickwit-oss/tantivy)
-- May 27 - [Brainbase (YC W24) Is Hiring](https://www.ycombinator.com/companies/brainbase/jobs/UUoqH3y-head-of-operations)
-- May 27 - [Controlling the Taylor Swift Eras Tour wristbands with Flipper Zero](https://blog.jgc.org/2024/05/controlling-taylor-swift-eras-tour.html)
 <!--END_SECTION:hn-->
 
 <!--
