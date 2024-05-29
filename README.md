@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 29 - [You can force employees back to the office, but not the good ones](https://www.rte.ie/brainstorm/2024/0521/1450272-return-to-office-mandates-employees-work-from-home/)
-- May 29 - [Ex-OpenAI board member provides her first detailed account of CEO ouster](https://www.reuters.com/technology/ex-openai-board-member-provides-her-first-detailed-account-ceo-ouster-2024-05-29/)
-- May 29 - [What We Learned from a Year of Building with LLMs](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/)
-- May 29 - [AI headphones let you listen to a single person in crowd, by looking at them](https://www.washington.edu/news/2024/05/23/ai-headphones-noise-cancelling-target-speech-hearing/)
-- May 29 - [App designed by Indigenous people in W. Australia preserves language, culture](https://www.abc.net.au/news/2024-05-27/wa-indigenous-app-linking-science-and-culture/103869762)
+- May 29 - [ProjectPro (YC IK12) Is Hiring](https://www.ycombinator.com/companies/projectpro/jobs/jSqxCg8-account-executive-to-sell-to-analytics-teams)
+- May 29 - [New BYD Hybrid Can Drive Non-Stop for More Than 2k Kilometers](https://www.bloomberg.com/news/articles/2024-05-28/byd-shows-off-new-hybrid-powertrain-capable-of-ultra-long-drive)
+- May 29 - [Google Search document leak reveals inner workings of ranking algorithm](https://searchengineland.com/google-search-document-leak-ranking-442617)
+- May 29 - [Samsung Electronics union announces first-ever strike](https://techxplore.com/news/2024-05-samsung-electronics-union.html)
+- May 29 - [Show HN: Slipshow – A presentation tool not based on slides](https://github.com/panglesd/slipshow)
 <!--END_SECTION:hn-->
 
 <!--
