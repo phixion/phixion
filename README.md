@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 29 - [Smoking weed every day makes me less presentable and less productive. I love it](https://www.theguardian.com/us-news/article/2024/may/29/smoking-weed-every-day)
-- May 29 - [Phone cameras can take in more light than the human eye](https://theconversation.com/phone-cameras-can-take-in-more-light-than-the-human-eye-thats-why-low-light-events-like-the-northern-lights-often-look-better-through-your-phone-camera-230068)
-- May 29 - [In one of the US's hottest deserts, utilities push gas rather than solar](https://www.theguardian.com/us-news/article/2024/may/23/gas-peaker-plant-republicans-fort-mohave-arizona)
-- May 29 - [Today's AI Isn't Sentient](https://time.com/collection/time100-voices/6980134/ai-llm-not-sentient/)
-- May 29 - [The Rise of the Disposable Car](https://www.bloomberg.com/opinion/articles/2024-05-23/more-cars-are-being-totaled-as-repair-costs-used-car-prices-bite)
+- May 29 - [What Scarlett Johansson vs. OpenAI Could Look Like in Court](https://www.wired.com/story/scarlett-johansson-v-openai-could-look-like-in-court/)
+- May 29 - [Nvidia is about to pass Apple in market cap](https://www.reuters.com/technology/ai-darling-nvidias-market-value-surges-closer-apple-2024-05-28/)
+- May 29 - [Let yourself be monitored: EU governments to agree on Chat Control](https://www.patrick-breyer.de/en/let-yourself-be-monitored-eu-governments-to-agree-on-chat-control-with-user-consent/)
+- May 29 - [Era3D: High-Resolution Multiview Diffusion Using Efficient Row-Wise Attention](https://penghtyx.github.io/Era3D/)
+- May 29 - [Outrider: What would happen if a nuclear bomb went off in your backyard](https://outrider.org/nuclear-weapons/interactive/bomb-blast)
 <!--END_SECTION:hn-->
 
 <!--
