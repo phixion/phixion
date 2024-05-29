@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 28 - [API Shouldn't Redirect HTTP to HTTPS](https://jviide.iki.fi/http-redirects)
-- May 28 - [She Was 29. And Doctors Helped Her Die](https://www.thefp.com/p/zoraya-ter-beek-dead-assisted-suicide)
-- May 28 - [Paris's Catacomb Mushrooms (2017)](https://www.atlasobscura.com/articles/paris-catacomb-mushrooms)
-- May 28 - [Tinygrad 0.9.0](https://github.com/tinygrad/tinygrad/releases/tag/v0.9.0)
-- May 28 - [Researchers Cracked an 11-Year-Old Password to a $3M Crypto Wallet](https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/)
+- May 28 - [Ex-OpenAI board member reveals what led to Sam Altman's brief ousting](https://www.businessinsider.com/openai-board-member-details-sam-altman-lied-allegation-ousted-2024-5)
+- May 28 - [Proposal to change default annotation processing policy in JDK 23](https://mail.openjdk.org/pipermail/jdk-dev/2024-May/009028.html)
+- May 28 - [Marc Andreessen wants you to stay in school](https://www.garelick.net/2024/05/28/marc-andreessen-wants-you-to-stay-in-school/)
+- May 28 - [Facebook will soon use your photos, posts and other info to train its AI](https://www.thejournal.ie/facebook-data-ai-6391876-May2024/)
+- May 28 - [Electromagnetic Waves and Antennas (2016)](https://www.ece.rutgers.edu/~orfanidi/ewa/)
 <!--END_SECTION:hn-->
 
 <!--
