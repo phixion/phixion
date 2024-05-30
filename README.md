@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 30 - [SBCL: New in Version 2.4.5](http://sbcl.org/all-news.html?2.4.5#2.4.5)
-- May 30 - [Lisbon, a city dying from its own success](https://english.elpais.com/international/2024-05-29/lisbon-a-city-dying-from-its-own-success.html)
-- May 30 - [PyPy has been working for me for several years now](https://utcc.utoronto.ca/~cks/space/blog/python/PyPyQuietlyWorking)
-- May 30 - [Infections Correlate with Entrepreneurship](https://www.researchgate.net/publication/326608642_Risky_business_Linking_Toxoplasma_gondii_infection_and_entrepreneurship_behaviours_across_individuals_and_countries)
-- May 30 - [I love my wife. My wife is dead (1946)](https://lettersofnote.com/2012/02/15/i-love-my-wife-my-wife-is-dead/)
+- May 30 - [Salesforce Shares Plunge by Most Since 2008 After Weak Outlook](https://www.bloomberg.com/news/articles/2024-05-29/salesforce-gives-weak-sales-outlook-with-slowdown-fears-growing)
+- May 30 - ['Operation Endgame' Hits Malware Delivery Platforms](https://krebsonsecurity.com/2024/05/operation-endgame-hits-malware-delivery-platforms/)
+- May 30 - [Ask HN: How can we open-source a 7 year old SaaS codebase and build a community?](https://news.ycombinator.com/item?id=40524292)
+- May 30 - [Why scientists say we need to send clocks to the moon](https://www.cnn.com/2024/05/30/science/lunar-time-zone-scale-nasa-artemis-scn/index.html)
+- May 30 - [Show HN: Quadra – organize your tasks and notes beautifully](https://quadra-two.vercel.app/)
 <!--END_SECTION:hn-->
 
 <!--
