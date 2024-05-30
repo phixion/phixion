@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 30 - [Meaningful Nonsense: How I generate sentences](https://www.amygoodchild.com/blog/meaningful-nonsense-sentences)
-- May 30 - [How Actors Remember Their Lines](https://thereader.mitpress.mit.edu/how-actors-remember-their-lines/)
-- May 30 - [SVG Gobbler – Find, optimize, edit, and export SVGs](https://github.com/rossmoody/svg-gobbler)
-- May 30 - [A seventh-grader student found a beautiful proof to Thales' Theorem](https://www.cut-the-knot.org/pythagoras/ThalesTheorem.shtml)
-- May 30 - [FrankenPHP: Modern PHP App Server](https://frankenphp.dev/)
+- May 30 - [SBCL: New in Version 2.4.5](http://sbcl.org/all-news.html?2.4.5#2.4.5)
+- May 30 - [Lisbon, a city dying from its own success](https://english.elpais.com/international/2024-05-29/lisbon-a-city-dying-from-its-own-success.html)
+- May 30 - [PyPy has been working for me for several years now](https://utcc.utoronto.ca/~cks/space/blog/python/PyPyQuietlyWorking)
+- May 30 - [Infections Correlate with Entrepreneurship](https://www.researchgate.net/publication/326608642_Risky_business_Linking_Toxoplasma_gondii_infection_and_entrepreneurship_behaviours_across_individuals_and_countries)
+- May 30 - [I love my wife. My wife is dead (1946)](https://lettersofnote.com/2012/02/15/i-love-my-wife-my-wife-is-dead/)
 <!--END_SECTION:hn-->
 
 <!--
