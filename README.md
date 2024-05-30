@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- May 30 - [Operation Endgame - 16,455,383 breached accounts](https://haveibeenpwned.com/PwnedWebsites#OperationEndgame)
 - May 25 - [pcTattletale - 138,751 breached accounts](https://haveibeenpwned.com/PwnedWebsites#pcTattletale)
 - May 23 - [Dota2 - 1,907,205 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Dota2)
 - May 10 - [The Post Millennial - 56,973,345 breached accounts](https://haveibeenpwned.com/PwnedWebsites#ThePostMillennial)
 - May 09 - [Tappware - 94,734 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Tappware)
-- Apr 30 - [MovieBoxPro - 6,009,014 breached accounts](https://haveibeenpwned.com/PwnedWebsites#MovieBoxPro)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 30 - [Show HN: Resource Index – FOSS Git Repository and NPM Package Index](https://res-index.hkit.cc/)
+- May 30 - [Meaningful Nonsense: How I generate sentences](https://www.amygoodchild.com/blog/meaningful-nonsense-sentences)
+- May 30 - [How Actors Remember Their Lines](https://thereader.mitpress.mit.edu/how-actors-remember-their-lines/)
+- May 30 - [SVG Gobbler – Find, optimize, edit, and export SVGs](https://github.com/rossmoody/svg-gobbler)
+- May 30 - [A seventh-grader student found a beautiful proof to Thales' Theorem](https://www.cut-the-knot.org/pythagoras/ThalesTheorem.shtml)
 - May 30 - [FrankenPHP: Modern PHP App Server](https://frankenphp.dev/)
-- May 30 - ["My Bike Is Everything to Me"](https://kottke.org/24/05/my-bike-is-everything-to-me)
-- May 29 - [Kaplay – a JavaScript library that helps you make games fast and fun](https://kaplayjs.com/kaplayjs.com)
-- May 29 - [Google confirms the leaked Search documents are real](https://www.theverge.com/2024/5/29/24167407/google-search-algorithm-documents-leak-confirmation)
 <!--END_SECTION:hn-->
 
 <!--
