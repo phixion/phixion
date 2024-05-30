@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 30 - [Show HN: Resource Index – FOSS Git Repository and NPM Package Index](https://res-index.hkit.cc/)
+- May 30 - [FrankenPHP: Modern PHP App Server](https://frankenphp.dev/)
+- May 30 - ["My Bike Is Everything to Me"](https://kottke.org/24/05/my-bike-is-everything-to-me)
 - May 29 - [Kaplay – a JavaScript library that helps you make games fast and fun](https://kaplayjs.com/kaplayjs.com)
 - May 29 - [Google confirms the leaked Search documents are real](https://www.theverge.com/2024/5/29/24167407/google-search-algorithm-documents-leak-confirmation)
-- May 29 - [Caddy 2.8](https://github.com/caddyserver/caddy/releases/tag/v2.8.0)
-- May 29 - [Bootstrapping a Forth in 40 lines of Lua code](http://angg.twu.net/miniforth-article.html)
-- May 29 - [The Pen Hospital in Kolkata will nurse your broken fountain pen back](https://www.vogue.in/content/pen-hospital-in-kolkata-will-nurse-your-broken-fountain-pen-back-to-health)
 <!--END_SECTION:hn-->
 
 <!--
