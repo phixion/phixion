@@ -6,7 +6,7 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
-- May 30 - [Operation Endgame - 16,455,383 breached accounts](https://haveibeenpwned.com/PwnedWebsites#OperationEndgame)
+- May 30 - [Operation Endgame - 16,466,858 breached accounts](https://haveibeenpwned.com/PwnedWebsites#OperationEndgame)
 - May 25 - [pcTattletale - 138,751 breached accounts](https://haveibeenpwned.com/PwnedWebsites#pcTattletale)
 - May 23 - [Dota2 - 1,907,205 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Dota2)
 - May 10 - [The Post Millennial - 56,973,345 breached accounts](https://haveibeenpwned.com/PwnedWebsites#ThePostMillennial)
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 30 - [Claude AI Claims Anthropic Is Wrong for Charging a Premium Plan for Claude AI](https://targettrend.com/claude-ai-claims-anthropic-is-wrong-for-charging-a-premium-plan-for-claude-ai/)
-- May 30 - [Washing machine chime scandal shows how absurd YouTube copyright abuse can get](https://arstechnica.com/tech-policy/2024/05/washing-machine-chime-scandal-shows-how-absurd-youtube-copyright-abuse-can-get/)
-- May 30 - [A Week with Elixir (Joe Armstrong)](https://joearms.github.io/published/2013-05-31-a-week-with-elixir.html)
-- May 30 - [Asqi: A codebase explorer designed to help navigate and understand Git projects](https://dev.asqi.io/)
-- May 30 - [Is Target selling its excess inventory on eBay and Poshmark?](https://www.modernretail.co/technology/is-target-selling-its-excess-inventory-on-ebay-poshmark/)
+- May 31 - ['It's better for humans in general': The 4-day workweek is closer than you think](https://www.marketwatch.com/amp/story/its-better-for-humans-in-general-the-four-day-workweek-is-closer-than-you-think-b85cc39e)
+- May 31 - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
+- May 31 - [AI Overviews: About last week](https://blog.google/products/search/ai-overviews-update-may-2024/)
+- May 31 - [Ask HN: How to transcribe 1000s of handwritten notes](https://news.ycombinator.com/item?id=40530719)
+- May 31 - [Japan's push to make all research open access](https://www.nature.com/articles/d41586-024-01493-8)
 <!--END_SECTION:hn-->
 
 <!--
