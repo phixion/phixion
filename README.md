@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 31 - ['It's better for humans in general': The 4-day workweek is closer than you think](https://www.marketwatch.com/amp/story/its-better-for-humans-in-general-the-four-day-workweek-is-closer-than-you-think-b85cc39e)
-- May 31 - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
-- May 31 - [AI Overviews: About last week](https://blog.google/products/search/ai-overviews-update-may-2024/)
-- May 31 - [Ask HN: How to transcribe 1000s of handwritten notes](https://news.ycombinator.com/item?id=40530719)
-- May 31 - [Japan's push to make all research open access](https://www.nature.com/articles/d41586-024-01493-8)
+- May 31 - [Manifest V2 phase-out begins](https://blog.chromium.org/2024/05/manifest-v2-phase-out-begins.html)
+- May 31 - [EU countries must implement right to repair laws within two years](https://www.consilium.europa.eu/en/press/press-releases/2024/05/30/circular-economy-council-gives-final-approval-to-right-to-repair-directive/)
+- May 31 - [A man ordered to hide his boat painted the boat on his fence](https://news.artnet.com/art-world/fence-boat-painting-artist-hanif-panni-2487875)
+- May 31 - [Show HN: Wadzilla. Play DOOM in Zork](https://github.com/scottvr/wadzilla/wiki)
+- May 31 - [Every mountain, building and tree shadow in the world simulated for any time](https://shademap.app)
 <!--END_SECTION:hn-->
 
 <!--
