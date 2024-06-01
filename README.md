@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 01 - [Boeing's largest plant in 'panic mode' amid safety crisis, say workers and union](https://www.theguardian.com/business/article/2024/jun/01/boeing-safety-crisis-response-union-busting)
-- Jun 01 - [Napster sparked a file-sharing revolution 25 years ago](https://torrentfreak.com/napster-sparked-a-file-sharing-revolution-25-years-ago-250601/)
-- Jun 01 - [Space secrets leak disclosure](https://huggingface.co/blog/space-secrets-disclosure)
-- Jun 01 - [The USAF's "Upside-Down Air Force"](https://www.twz.com/news-features/the-fascinating-story-of-the-usafs-upside-down-air-force)
-- Jun 01 - [Transformers Represent Belief State Geometry in Their Residual Stream](https://www.lesswrong.com/posts/gTZ2SxesbHckJ3CkF/transformers-represent-belief-state-geometry-in-their)
+- Jun 01 - [The quest to craft the perfect artificial eye through the ages](https://www.popsci.com/health/artificial-eye-history/)
+- Jun 01 - [X is justifiably slow](https://zeux.io/2024/05/31/justifiably-slow/)
+- Jun 01 - [Predictably Bad Investments: Evidence from Venture Capitalists](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4135861)
+- Jun 01 - [Show HN: Tiny Chrome extension to disable images to reduce distractions](https://github.com/kirill-markin/chrome-auto-image-blocker)
+- Jun 01 - [Loss of nearly a full decade of information from early days of Chinese internet](https://chinamediaproject.org/2024/05/27/goldfish-memories/)
 <!--END_SECTION:hn-->
 
 <!--
