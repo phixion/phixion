@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 01 - [When Companies Ask for Your Social Security Number, Try Saying No](https://www.wsj.com/tech/cybersecurity/identity-theft-social-security-number-580f01a4)
-- Jun 01 - [Engines of Sacrality: A Footnote on Randall Collins' Interaction Ritual Chains (2013)](http://abandonedfootnotes.blogspot.com/2013/04/engines-of-sacrality-footnote-on.html)
-- Jun 01 - [Encountering Strangers in Public Places: Goffman and Civil Inattention (2011)](https://www.everydaysociologyblog.com/2011/12/encountering-strangers-in-public-places-goffman-and-civil-inattention.html)
-- Jun 01 - [60 kHz (2022)](https://ben.page/wwvb)
-- May 31 - [Mathematicians Attempt to Glimpse Past the Big Bang](https://www.quantamagazine.org/mathematicians-attempt-to-glimpse-past-the-big-bang-20240531/)
+- Jun 01 - [BYD unveils new hybrid tech as battle with gasoline rivals heats up](https://www.reuters.com/business/autos-transportation/byd-launches-new-hybrid-vehicle-tech-with-lower-fuel-consumption-2024-05-28/)
+- Jun 01 - [Dioxus S23 is hiring a cracked founding engineer (Rust)](https://www.ycombinator.com/companies/dioxus-labs/jobs/dRPOod2-cracked-founding-systems-engineer-rust)
+- Jun 01 - [Ticketmaster confirms data breach with a SEC filing](https://stackdiary.com/ticketmaster-confirms-data-breach-with-a-sec-filing/)
+- Jun 01 - [Nginx Unit: open-source, lightweight and versatile application runtime](https://unit.nginx.org/)
+- Jun 01 - [Helldivers 2 has caused over 20k Steam accounts to be banned](https://www.videogamer.com/news/helldivers-2-has-caused-over-20000-steam-accounts-to-be-banned/)
 <!--END_SECTION:hn-->
 
 <!--
