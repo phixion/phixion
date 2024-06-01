@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 01 - [HuggingFace hacked – Space secrets leak disclosure](https://huggingface.co/blog/space-secrets-disclosure)
+- Jun 01 - [Boeing's largest plant in 'panic mode' amid safety crisis, say workers and union](https://www.theguardian.com/business/article/2024/jun/01/boeing-safety-crisis-response-union-busting)
+- Jun 01 - [Napster sparked a file-sharing revolution 25 years ago](https://torrentfreak.com/napster-sparked-a-file-sharing-revolution-25-years-ago-250601/)
+- Jun 01 - [Space secrets leak disclosure](https://huggingface.co/blog/space-secrets-disclosure)
 - Jun 01 - [The USAF's "Upside-Down Air Force"](https://www.twz.com/news-features/the-fascinating-story-of-the-usafs-upside-down-air-force)
-- Jun 01 - [Is Red Meat Healthy? Multiverse Analysis Has Lessons Beyond Meat](https://www.medscape.com/viewarticle/red-meat-healthy-multiverse-analysis-has-lessons-beyond-meat-2024a10008qv)
-- Jun 01 - [Routers cyber security best practices](https://www.cyber.gc.ca/en/guidance/routers-cyber-security-best-practices-itsap80019)
-- Jun 01 - [Arthur Whitney releases an open-source K with MIT license](https://shakti.com/k)
+- Jun 01 - [Transformers Represent Belief State Geometry in Their Residual Stream](https://www.lesswrong.com/posts/gTZ2SxesbHckJ3CkF/transformers-represent-belief-state-geometry-in-their)
 <!--END_SECTION:hn-->
 
 <!--
