@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 31 - [UI elements with a hand-drawn, sketchy look](https://wiredjs.com/)
-- May 31 - [Recall: Stealing everything you've ever typed or viewed on your own Windows PC](https://doublepulsar.com/recall-stealing-everything-youve-ever-typed-or-viewed-on-your-own-windows-pc-is-now-possible-da3e12e9465e)
-- May 31 - [Cyber house of cards – Politicians' personal details exposed online](https://proton.me/blog/politicians-exposed-dark-web)
-- May 31 - [An Algorithmic Solution to Insomnia](https://ilya.sukhar.com/blog/an-algorithmic-solution-to-insomnia.html)
-- May 31 - [Go: Sentinel errors and errors.Is() slow your code down by 3000%](https://www.dolthub.com/blog/2024-05-31-benchmarking-go-error-handling/)
+- Jun 01 - [When Companies Ask for Your Social Security Number, Try Saying No](https://www.wsj.com/tech/cybersecurity/identity-theft-social-security-number-580f01a4)
+- Jun 01 - [Engines of Sacrality: A Footnote on Randall Collins' Interaction Ritual Chains (2013)](http://abandonedfootnotes.blogspot.com/2013/04/engines-of-sacrality-footnote-on.html)
+- Jun 01 - [Encountering Strangers in Public Places: Goffman and Civil Inattention (2011)](https://www.everydaysociologyblog.com/2011/12/encountering-strangers-in-public-places-goffman-and-civil-inattention.html)
+- Jun 01 - [60 kHz (2022)](https://ben.page/wwvb)
+- May 31 - [Mathematicians Attempt to Glimpse Past the Big Bang](https://www.quantamagazine.org/mathematicians-attempt-to-glimpse-past-the-big-bang-20240531/)
 <!--END_SECTION:hn-->
 
 <!--
