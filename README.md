@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 02 - [A secure embedded operating system for microcontrollers](https://tockos.org/)
-- Jun 02 - [SPI Flash](https://trmm.net/SPI_flash/)
-- Jun 02 - [New head of one of the world’s oldest universities organized a citation cartel](https://english.elpais.com/science-tech/2024-05-31/internal-messages-show-how-the-new-head-of-one-of-the-worlds-oldest-universities-organized-a-citation-cartel.html)
-- Jun 02 - [Footage of Chang'e-6's land on far side of the moon](https://www.cnsa.gov.cn/n6759533/c10541660/content.html)
-- Jun 02 - [Lord Kelvin and His Analog Computer](https://spectrum.ieee.org/tide-predictions)
+- Jun 02 - [The Disappointment Frontier](https://www.theengineeringmanager.com/growth/the-disappointment-frontier/)
+- Jun 02 - [Upgrading my Chumby 8 kernel part 10: RTC](https://www.downtowndougbrown.com/2024/06/upgrading-my-chumby-8-kernel-part-10-rtc/)
+- Jun 02 - [Workmanship standard for crimping, interconnecting cables, harnesses, and wiring](https://standards.nasa.gov/standard/NASA/NASA-STD-87394)
+- Jun 02 - [Parsing JSON Is a Minefield (2018)](https://seriot.ch/projects/parsing_json.html)
+- Jun 02 - [Here comes the Muybridge camera moment but for text](https://interconnected.org/home/2024/05/31/camera)
 <!--END_SECTION:hn-->
 
 <!--
