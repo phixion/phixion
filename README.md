@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 02 - [The Ticketmaster Data Breach May Be Just the Beginning](https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/)
-- Jun 02 - [PyCon US 2024 Recap](https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html)
-- Jun 02 - [Show HN: Fusio 5.0 released – open-source API management platform](https://www.fusio-project.org/)
-- Jun 02 - [Voice analysis shows striking similarity between Scarlett Johansson and ChatGPT](https://www.npr.org/2024/05/31/g-s1-2263/voice-lab-analysis-striking-similarity-scarlett-johansson-chatgpt-sky-openai)
-- Jun 02 - [If A.I. Can Do Your Job, Maybe It Can Also Replace Your CEO](https://www.msn.com/en-us/news/us/if-a-i-can-do-your-job-maybe-it-can-also-replace-your-c-e-o/ar-BB1nbdAX)
+- Jun 02 - [A secure embedded operating system for microcontrollers](https://tockos.org/)
+- Jun 02 - [SPI Flash](https://trmm.net/SPI_flash/)
+- Jun 02 - [New head of one of the world’s oldest universities organized a citation cartel](https://english.elpais.com/science-tech/2024-05-31/internal-messages-show-how-the-new-head-of-one-of-the-worlds-oldest-universities-organized-a-citation-cartel.html)
+- Jun 02 - [Footage of Chang'e-6's land on far side of the moon](https://www.cnsa.gov.cn/n6759533/c10541660/content.html)
+- Jun 02 - [Lord Kelvin and His Analog Computer](https://spectrum.ieee.org/tide-predictions)
 <!--END_SECTION:hn-->
 
 <!--
