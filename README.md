@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 02 - [Parable of the Sofa](https://www.tbray.org/ongoing/When/202x/2024/06/01/Parable-of-the-Sofa)
+- Jun 02 - [Jail time for those caught distributing deepfake porn under new Australian laws](https://www.theguardian.com/australia-news/article/2024/jun/01/creating-or-sharing-deepfake-porn-without-consent-to-be-under-proposed-new-australian-laws)
+- Jun 02 - [Signal: Will leave the EU market rather than undermine our privacy guarantees](https://twitter.com/mer__edith/status/1796508893822238881)
+- Jun 02 - [Unlocking the Duron and Athlon Using the Pencil](http://computer-communication.blogspot.com/2007/06/unlocking-duron-and-athlon-using-pencil_08.html)
 - Jun 02 - [How do our brains adapt to control an extra body part?](https://www.cam.ac.uk/stories/third-thumb)
-- Jun 02 - [Some Americans have stopped tipping. Should you do the same?](https://www.dallasnews.com/arts-entertainment/travel/2024/05/22/some-americans-have-stopped-tipping-should-you-do-the-same/)
-- Jun 02 - [84–24](https://84-24.org/)
-- Jun 02 - [CSS written in pure Go](https://github.com/AccentDesign/gcss)
-- Jun 01 - [Show HN: Open-Source Load Balancer for Llama.cpp](https://github.com/distantmagic/paddler)
 <!--END_SECTION:hn-->
 
 <!--
