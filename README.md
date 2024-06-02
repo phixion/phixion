@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 02 - [Parable of the Sofa](https://www.tbray.org/ongoing/When/202x/2024/06/01/Parable-of-the-Sofa)
-- Jun 02 - [Jail time for those caught distributing deepfake porn under new Australian laws](https://www.theguardian.com/australia-news/article/2024/jun/01/creating-or-sharing-deepfake-porn-without-consent-to-be-under-proposed-new-australian-laws)
-- Jun 02 - [Signal: Will leave the EU market rather than undermine our privacy guarantees](https://twitter.com/mer__edith/status/1796508893822238881)
-- Jun 02 - [Unlocking the Duron and Athlon Using the Pencil](http://computer-communication.blogspot.com/2007/06/unlocking-duron-and-athlon-using-pencil_08.html)
-- Jun 02 - [How do our brains adapt to control an extra body part?](https://www.cam.ac.uk/stories/third-thumb)
+- Jun 02 - [The Ticketmaster Data Breach May Be Just the Beginning](https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/)
+- Jun 02 - [PyCon US 2024 Recap](https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html)
+- Jun 02 - [Show HN: Fusio 5.0 released – open-source API management platform](https://www.fusio-project.org/)
+- Jun 02 - [Voice analysis shows striking similarity between Scarlett Johansson and ChatGPT](https://www.npr.org/2024/05/31/g-s1-2263/voice-lab-analysis-striking-similarity-scarlett-johansson-chatgpt-sky-openai)
+- Jun 02 - [If A.I. Can Do Your Job, Maybe It Can Also Replace Your CEO](https://www.msn.com/en-us/news/us/if-a-i-can-do-your-job-maybe-it-can-also-replace-your-c-e-o/ar-BB1nbdAX)
 <!--END_SECTION:hn-->
 
 <!--
