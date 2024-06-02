@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 02 - [CSS Written in Pure Go](https://github.com/AccentDesign/gcss)
+- Jun 01 - [Survival of the richest: Inside the short-lived fallout shelter bubble](https://thehustle.co/originals/survival-of-the-richest-inside-the-short-lived-fallout-shelter-bubble)
+- Jun 01 - [Lisp: Icing or Cake?](https://dthompson.us/posts/lisp-icing-or-cake.html)
+- Jun 01 - [LLMs aren't "trained on the internet" anymore](https://allenpike.com/2024/llms-trained-on-internet)
 - Jun 01 - [The quest to craft the perfect artificial eye through the ages](https://www.popsci.com/health/artificial-eye-history/)
-- Jun 01 - [X is justifiably slow](https://zeux.io/2024/05/31/justifiably-slow/)
-- Jun 01 - [Predictably Bad Investments: Evidence from Venture Capitalists](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4135861)
-- Jun 01 - [Show HN: Tiny Chrome extension to disable images to reduce distractions](https://github.com/kirill-markin/chrome-auto-image-blocker)
-- Jun 01 - [Loss of nearly a full decade of information from early days of Chinese internet](https://chinamediaproject.org/2024/05/27/goldfish-memories/)
 <!--END_SECTION:hn-->
 
 <!--
