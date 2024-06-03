@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 02 - [Eight years of organizing tech meetups](https://notes.eatonphil.com/eight-years-of-tech-meetups.html)
-- Jun 02 - [MicroPython 1.23 Brings Custom USB Devices, OpenAMP, Much More](https://hackaday.com/2024/06/02/micropython-1-23-brings-custom-usb-devices-openamp-much-more/)
-- Jun 02 - [New material looks like frosted glass but lets in more light than a window](https://www.popsci.com/technology/glass-coating-privacy/)
-- Jun 02 - [How it feels to get an AI email from a friend](https://mrgan.com/ai-email-from-a-friend/)
-- Jun 02 - [Lowering resource usage with foot and systemd](https://rgoswami.me/posts/lowering-resource-usage-foot-systemd/)
+- Jun 03 - [Flow-Matic](https://en.wikipedia.org/wiki/FLOW-MATIC)
+- Jun 03 - [Learn CSS Grid with a virtual garden game](https://cssgridgarden.com/)
+- Jun 03 - [DAK Industries Catalog, Early Fall 1985](https://archive.org/details/1985.fall.dak)
+- Jun 03 - [AMD Instinct MI325X in Q4 2024, 288GB of HBM3E](https://ir.amd.com/news-events/press-releases/detail/1201/amd-accelerates-pace-of-data-center-ai-innovation-and)
+- Jun 03 - [The Intellectual Obesity Crisis](https://www.gurwinder.blog/p/the-intellectual-obesity-crisis)
 <!--END_SECTION:hn-->
 
 <!--
