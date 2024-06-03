@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 03 - [Ogma: Interpretable Symbolic General Problem-Solving Model](https://ogma.framer.website/)
-- Jun 03 - [Show HN: Show HN: Dzero – The fastest globally distributed SQLite database](https://dzero.dev)
-- Jun 03 - [Ask HN: Who is hiring? (June 2024)](https://news.ycombinator.com/item?id=40563283)
-- Jun 03 - [Ask HN: Who wants to be hired? (June 2024)](https://news.ycombinator.com/item?id=40563280)
-- Jun 03 - [Playstation VR2 players can access games on PC with adapter starting on August 7](https://blog.playstation.com/2024/06/03/playstation-vr2-players-can-access-games-on-pc-with-adapter-starting-on-august-7/)
+- Jun 03 - [Oldest largest German Minecraft server shut down and open sourced everything](https://github.com/muxcraftserver/MuxSystem)
+- Jun 03 - [The Moral Economy of the Shire](https://nathangoldwag.wordpress.com/2024/05/31/the-moral-economy-of-the-shire/)
+- Jun 03 - [Fusion tech finds geothermal energy application](https://spectrum.ieee.org/geothermal-energy-gyrotron-quaise)
+- Jun 03 - [Libadwaita: Splitting GTK and Design Language](https://tesk.page/2024/06/03/libadwaita-splitting-gtk-and-design-language/)
+- Jun 03 - [If English was written like Chinese (1999)](https://zompist.com/yingzi/yingzi.htm)
 <!--END_SECTION:hn-->
 
 <!--
