@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 03 - [A Quartz Thermal Trap Harnessed the Sun–and Is About to Change Smelting Forever](https://www.popularmechanics.com/science/green-tech/a60829402/a-quartz-thermal-trap-harnessed-the-sunand-is-about-to-change-smelting-forever/)
-- Jun 03 - [Corporations Learned the Maximum Amount They Can Charge for a Product](https://www.bloomberg.com/news/articles/2024-06-03/corporations-learned-the-maximum-amount-they-can-charge-for-a-product)
-- Jun 03 - [Cis-lunar space and the security dilemma](https://thebulletin.org/premium/2022-01/cis-lunar-space-and-the-security-dilemma/)
-- Jun 03 - [Why Ruby's Timeout is dangerous (and Thread.raise is terrifying) (2015)](https://jvns.ca/blog/2015/11/27/why-rubys-timeout-is-dangerous-and-thread-dot-raise-is-terrifying/)
-- Jun 03 - [Kaspersky releases a malware scanner for Linux systems](https://www.kaspersky.com/blog/kvrt-for-linux/51375/)
+- Jun 03 - [Ogma: Interpretable Symbolic General Problem-Solving Model](https://ogma.framer.website/)
+- Jun 03 - [Show HN: Show HN: Dzero – The fastest globally distributed SQLite database](https://dzero.dev)
+- Jun 03 - [Ask HN: Who is hiring? (June 2024)](https://news.ycombinator.com/item?id=40563283)
+- Jun 03 - [Ask HN: Who wants to be hired? (June 2024)](https://news.ycombinator.com/item?id=40563280)
+- Jun 03 - [Playstation VR2 players can access games on PC with adapter starting on August 7](https://blog.playstation.com/2024/06/03/playstation-vr2-players-can-access-games-on-pc-with-adapter-starting-on-august-7/)
 <!--END_SECTION:hn-->
 
 <!--
