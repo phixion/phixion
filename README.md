@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 03 - [AMD Unveils Ryzen 9000 CPUs for Desktop, Zen 5](https://www.anandtech.com/show/21415/amd-unveils-ryzen-9000-cpus-for-desktop-zen-5-takes-center-stage-at-computex-2024)
-- Jun 03 - [Learn CSS Grid with a virtual garden game](https://cssgridgarden.com/)
-- Jun 03 - [DAK Industries Catalog, Early Fall 1985](https://archive.org/details/1985.fall.dak)
-- Jun 03 - [AMD Instinct MI325X in Q4 2024, 288GB of HBM3E](https://ir.amd.com/news-events/press-releases/detail/1201/amd-accelerates-pace-of-data-center-ai-innovation-and)
-- Jun 03 - [The Intellectual Obesity Crisis (2022)](https://www.gurwinder.blog/p/the-intellectual-obesity-crisis)
+- Jun 03 - [A Quartz Thermal Trap Harnessed the Sun–and Is About to Change Smelting Forever](https://www.popularmechanics.com/science/green-tech/a60829402/a-quartz-thermal-trap-harnessed-the-sunand-is-about-to-change-smelting-forever/)
+- Jun 03 - [Corporations Learned the Maximum Amount They Can Charge for a Product](https://www.bloomberg.com/news/articles/2024-06-03/corporations-learned-the-maximum-amount-they-can-charge-for-a-product)
+- Jun 03 - [Cis-lunar space and the security dilemma](https://thebulletin.org/premium/2022-01/cis-lunar-space-and-the-security-dilemma/)
+- Jun 03 - [Why Ruby's Timeout is dangerous (and Thread.raise is terrifying) (2015)](https://jvns.ca/blog/2015/11/27/why-rubys-timeout-is-dangerous-and-thread-dot-raise-is-terrifying/)
+- Jun 03 - [Kaspersky releases a malware scanner for Linux systems](https://www.kaspersky.com/blog/kvrt-for-linux/51375/)
 <!--END_SECTION:hn-->
 
 <!--
