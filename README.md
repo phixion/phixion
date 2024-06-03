@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 02 - [The Disappointment Frontier](https://www.theengineeringmanager.com/growth/the-disappointment-frontier/)
-- Jun 02 - [Upgrading my Chumby 8 kernel part 10: RTC](https://www.downtowndougbrown.com/2024/06/upgrading-my-chumby-8-kernel-part-10-rtc/)
-- Jun 02 - [Workmanship standard for crimping, interconnecting cables, harnesses, and wiring](https://standards.nasa.gov/standard/NASA/NASA-STD-87394)
-- Jun 02 - [Parsing JSON Is a Minefield (2018)](https://seriot.ch/projects/parsing_json.html)
-- Jun 02 - [Here comes the Muybridge camera moment but for text](https://interconnected.org/home/2024/05/31/camera)
+- Jun 02 - [Eight years of organizing tech meetups](https://notes.eatonphil.com/eight-years-of-tech-meetups.html)
+- Jun 02 - [MicroPython 1.23 Brings Custom USB Devices, OpenAMP, Much More](https://hackaday.com/2024/06/02/micropython-1-23-brings-custom-usb-devices-openamp-much-more/)
+- Jun 02 - [New material looks like frosted glass but lets in more light than a window](https://www.popsci.com/technology/glass-coating-privacy/)
+- Jun 02 - [How it feels to get an AI email from a friend](https://mrgan.com/ai-email-from-a-friend/)
+- Jun 02 - [Lowering resource usage with foot and systemd](https://rgoswami.me/posts/lowering-resource-usage-foot-systemd/)
 <!--END_SECTION:hn-->
 
 <!--
