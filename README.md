@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 04 - [Reverse Z in 3D graphics (and why it's so awesome)](https://tomhultonharrop.com/mathematics/graphics/2023/08/06/reverse-z.html)
-- Jun 04 - [Electing the Doge of Venice: analysis of a 13th Century protocol [pdf] (2007)](https://rangevoting.org/HPL-2007-28R1.pdf)
-- Jun 04 - [Langfuse (YC W23): Hiring Product Engineer (In-Person, Open Source)](https://github.com/langfuse/langfuse/blob/main/careers)
-- Jun 04 - [Why I'm building a Home Lab with K8s on Raspberry Pis](https://iamsafts.com/posts/homelab-intro/)
-- Jun 04 - [Encryption at Rest: Whose Threat Model Is It Anyway?](https://scottarc.blog/2024/06/02/encryption-at-rest-whose-threat-model-is-it-anyway/)
+- Jun 04 - [Particle Accelerators for the Microchip Era](https://www.moore.org/article-detail?newsUrlName=particle-accelerators-for-the-microchip-era)
+- Jun 04 - [TotalRecall: Windows 11 Recall Pwned](https://github.com/xaitax/TotalRecall)
+- Jun 04 - [Skip SDKs in Simple Integrations](https://www.epicweb.dev/skip-sdks-in-simple-integrations)
+- Jun 04 - [Charge Robotics (YC S21) is hiring SWEs to build solar construction robots](https://www.workatastartup.com/jobs/51266)
+- Jun 04 - [Mozilla Builders Accelerator 2024](https://future.mozilla.org/builders/)
 <!--END_SECTION:hn-->
 
 <!--
