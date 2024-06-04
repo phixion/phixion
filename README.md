@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 04 - [Intel Unveils Lunar Lake Architecture: New P and E Cores, Xe2-LPG GPU, NPU 4](https://www.anandtech.com/show/21425/intel-lunar-lake-architecture-deep-dive-lion-cove-xe2-and-npu4)
-- Jun 04 - [Rare and Amusing Insults, Volume 2](https://www.merriam-webster.com/wordplay/top-10-rare-and-amusing-insults-vol-2)
-- Jun 04 - [New telescope images of Jupiter's moon Io rival those from spacecraft](https://phys.org/news/2024-05-glimpses-volcanic-world-telescope-images.html)
-- Jun 04 - [Diffusion on Syntax Trees for Program Synthesis](https://tree-diffusion.github.io/)
-- Jun 03 - [Psychedelics are challenging the standard of randomized controlled trials](https://www.theatlantic.com/health/archive/2024/06/psychedelics-mdma-ptsd-fda-placebo/678588/)
+- Jun 04 - [Ask HN: Going low-level – what to learn next?](https://news.ycombinator.com/item?id=40571500)
+- Jun 04 - [I Am So Sick of Leetcode-Style Interviews](https://nelson.cloud/i-am-so-sick-of-leetcode-style-interviews/)
+- Jun 04 - [Koheesio: Nike's Python-based framework to build advanced data-pipelines](https://github.com/Nike-Inc/koheesio)
+- Jun 04 - [Hacking millions of modems and investigating who hacked my modem](https://samcurry.net/hacking-millions-of-modems)
+- Jun 04 - [Intel Unveils Lunar Lake Architecture](https://www.anandtech.com/show/21425/intel-lunar-lake-architecture-deep-dive-lion-cove-xe2-and-npu4)
 <!--END_SECTION:hn-->
 
 <!--
