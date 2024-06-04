@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Jun 03 - [Telegram Combolists - 361,468,099 breached accounts](https://haveibeenpwned.com/PwnedWebsites#TelegramCombolists)
 - May 30 - [Operation Endgame - 16,466,858 breached accounts](https://haveibeenpwned.com/PwnedWebsites#OperationEndgame)
 - May 25 - [pcTattletale - 138,751 breached accounts](https://haveibeenpwned.com/PwnedWebsites#pcTattletale)
 - May 23 - [Dota2 - 1,907,205 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Dota2)
 - May 10 - [The Post Millennial - 56,973,345 breached accounts](https://haveibeenpwned.com/PwnedWebsites#ThePostMillennial)
-- May 09 - [Tappware - 94,734 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Tappware)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 03 - [Oldest largest German Minecraft server shut down and open sourced everything](https://github.com/muxcraftserver/MuxSystem)
-- Jun 03 - [The Moral Economy of the Shire](https://nathangoldwag.wordpress.com/2024/05/31/the-moral-economy-of-the-shire/)
+- Jun 03 - [Scientists should use AI as a tool, not an oracle](https://www.aisnakeoil.com/p/scientists-should-use-ai-as-a-tool)
+- Jun 03 - [SnapMagic (YC S15), the AI copilot for electronics, is hiring a PM](https://careers.snapmagic.com/o/technical-project-manager)
+- Jun 03 - [Python's many command-line utilities](https://www.pythonmorsels.com/cli-tools/)
+- Jun 03 - [Grokfast: Accelerated Grokking by Amplifying Slow Gradients](https://arxiv.org/abs/2405.20233)
 - Jun 03 - [Fusion tech finds geothermal energy application](https://spectrum.ieee.org/geothermal-energy-gyrotron-quaise)
-- Jun 03 - [Libadwaita: Splitting GTK and Design Language](https://tesk.page/2024/06/03/libadwaita-splitting-gtk-and-design-language/)
-- Jun 03 - [If English was written like Chinese (1999)](https://zompist.com/yingzi/yingzi.htm)
 <!--END_SECTION:hn-->
 
 <!--
