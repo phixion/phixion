@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 04 - [Reverse Z in 3D graphics (and why it's so awesome)](https://tomhultonharrop.com/mathematics/graphics/2023/08/06/reverse-z.html)
+- Jun 04 - [Electing the Doge of Venice: analysis of a 13th Century protocol [pdf] (2007)](https://rangevoting.org/HPL-2007-28R1.pdf)
 - Jun 04 - [Langfuse (YC W23): Hiring Product Engineer (In-Person, Open Source)](https://github.com/langfuse/langfuse/blob/main/careers)
-- Jun 04 - [Chang'e-6: Moon dark side samples collected and launched into lunar orbit](https://spacenews.com/change-6-moon-samples-collected-and-launched-into-lunar-orbit/)
-- Jun 04 - [SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales](https://arxiv.org/abs/2405.20974)
-- Jun 04 - [Coding and Keyboards (2023)](https://www.hendrik-erz.de/post/coding-and-keyboards)
-- Jun 04 - [Security researcher discovers Microsoft's Recall tool is woefully insecure](https://www.windowscentral.com/software-apps/windows-11/microsoft-should-recall-windows-recall-security-researcher-finds-microsofts-new-ai-tool-woefully-insecure)
+- Jun 04 - [Why I'm building a Home Lab with K8s on Raspberry Pis](https://iamsafts.com/posts/homelab-intro/)
+- Jun 04 - [Encryption at Rest: Whose Threat Model Is It Anyway?](https://scottarc.blog/2024/06/02/encryption-at-rest-whose-threat-model-is-it-anyway/)
 <!--END_SECTION:hn-->
 
 <!--
