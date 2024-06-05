@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 05 - [Foosbar: The (unverifiably but plausibly) Best Foosball Robot](https://github.com/misprit7/foosbar)
-- Jun 05 - [Boeing Starliner launches first crewed mission](https://www.bbc.co.uk/news/live/world-us-canada-69094213)
-- Jun 05 - [Jury finds Boeing stole technology from electric airplane startup Zunum](https://www.seattletimes.com/business/boeing-aerospace/jury-finds-boeing-stole-technology-from-electric-airplane-startup-zunum/)
-- Jun 05 - [Alice in Wonderland: Simple Tasks Showing Complete Reasoning Breakdown in LLMs](https://arxiv.org/abs/2406.02061)
-- Jun 05 - [Superfast Microsoft AI is first to predict air pollution for the whole world](https://www.nature.com/articles/d41586-024-01677-2)
+- Jun 05 - [Democrat calls only 7 EV-charging stations deployed under US program 'pathetic'](https://finance.yahoo.com/news/democrat-calls-only-7-ev-182511859.html)
+- Jun 05 - [Employees Who Stay in Companies Longer Than Two Years Get Paid 50% Less (2014)](https://www.forbes.com/sites/cameronkeng/2014/06/22/employees-that-stay-in-companies-longer-than-2-years-get-paid-50-less/)
+- Jun 05 - [Feature Flags in Bazel Builds](https://pigweed.dev/docs/blog/02-bazel-feature-flags.html)
+- Jun 05 - [Stable Audio Open](https://stability.ai/news/introducing-stable-audio-open)
+- Jun 05 - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 <!--END_SECTION:hn-->
 
 <!--
