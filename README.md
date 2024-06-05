@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 04 - [Particle Accelerators for the Microchip Era](https://www.moore.org/article-detail?newsUrlName=particle-accelerators-for-the-microchip-era)
-- Jun 04 - [TotalRecall: Windows 11 Recall Pwned](https://github.com/xaitax/TotalRecall)
-- Jun 04 - [Skip SDKs in Simple Integrations](https://www.epicweb.dev/skip-sdks-in-simple-integrations)
-- Jun 04 - [Charge Robotics (YC S21) is hiring SWEs to build solar construction robots](https://www.workatastartup.com/jobs/51266)
-- Jun 04 - [Mozilla Builders Accelerator 2024](https://future.mozilla.org/builders/)
+- Jun 04 - [Study shows most doctors endorsing drugs on X are paid to do so](https://medicalxpress.com/news/2024-05-doctors-endorsing-drugs-paid.html)
+- Jun 04 - [macOS Bartender Auto-Update Signed by Unknown New Owner](https://www.macrumors.com/2024/06/04/bartender-mac-app-new-owner/)
+- Jun 04 - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+- Jun 04 - [An animated introduction to Fourier series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles)
+- Jun 04 - [Some notes on influenceering](https://lcamtuf.substack.com/p/some-notes-on-influenceering)
 <!--END_SECTION:hn-->
 
 <!--
