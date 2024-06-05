@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 04 - [Study shows most doctors endorsing drugs on X are paid to do so](https://medicalxpress.com/news/2024-05-doctors-endorsing-drugs-paid.html)
-- Jun 04 - [macOS Bartender Auto-Update Signed by Unknown New Owner](https://www.macrumors.com/2024/06/04/bartender-mac-app-new-owner/)
+- Jun 05 - [Meta Withheld Information on Instagram, WhatsApp Deals: FTC](https://www.bloomberg.com/news/articles/2024-06-05/meta-withheld-information-on-instagram-whatsapp-deals-ftc-says)
+- Jun 05 - [Is One Company to Blame for Soaring Rental Prices in the U.S.?](https://www.entrepreneur.com/business-news/realpage-rent-price-fixing-probe-escalates-with-fbi-raid/475109)
+- Jun 05 - [You'll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
 - Jun 04 - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 - Jun 04 - [An animated introduction to Fourier series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles)
-- Jun 04 - [Some notes on influenceering](https://lcamtuf.substack.com/p/some-notes-on-influenceering)
 <!--END_SECTION:hn-->
 
 <!--
