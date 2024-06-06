@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 06 - [PermitFlow (YC W22) Is Hiring Software Engineers](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
-- Jun 06 - [St Michael Sword investigation: Are the 7 Cathedrals on a straight line?](https://geospatial.netlify.app/posts/gds-2024-04-20-cathedrals/)
-- Jun 06 - [Understanding QEMU Devices (2018)](https://www.qemu.org/2018/02/09/understanding-qemu-devices/)
-- Jun 06 - [Starship's Fourth Flight Test: Window Opens 07:00 AM Central Time](https://www.spacex.com/launches/mission/?missionId=starship-flight-4)
-- Jun 06 - [Durability of Polymers in the Space Environment [pdf]](https://ntrs.nasa.gov/api/citations/20190025446/downloads/20190025446.pdf)
+- Jun 06 - [The secret D-Day scientists and engineers](https://www.bbc.com/news/articles/c3gg580p3kjo)
+- Jun 06 - [The Right Not to Be Subjected to AI Profiling Based on Publicly Available Data](https://link.springer.com/article/10.1007/s13347-023-00616-9)
+- Jun 06 - [3D Math Primer for Graphics and Game Development](https://gamemath.com/)
+- Jun 06 - [All individuals should be able to have and own their own domain names](https://nic.eu.org/)
+- Jun 06 - [Martha Gellhorn – The Only Woman to Report on the D-Day Landings from the Ground](https://www.smithsonianmag.com/history/martha-gellhorn-was-the-only-woman-to-report-on-the-d-day-landings-from-the-ground-180984456/)
 <!--END_SECTION:hn-->
 
 <!--
