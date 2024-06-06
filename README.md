@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 06 - [GameStop stock influencer Roaring Kitty may lose access to E-Trade, report says](https://arstechnica.com/tech-policy/2024/06/gamestop-stock-influencer-roaring-kitty-may-lose-access-to-e-trade-report-says/)
-- Jun 06 - [Microsoft AI Spying Scandal: Time to Rethink Privacy Standards](https://spectrum.ieee.org/online-privacy)
-- Jun 06 - [Save Team Fortress 2 (#savetf2)](https://save.tf/)
-- Jun 06 - [Most Life on Earth Is Dormant, After Pulling an 'Emergency Brake'](https://www.quantamagazine.org/most-life-on-earth-is-dormant-after-pulling-an-emergency-brake-20240605/)
-- Jun 05 - [Photoshop ToS grants Adobe access to user projects for 'content moderation'](https://nichegamer.com/photoshop-terms-of-service-grants-adobe-access-to-user-projects-for-content-moderation/)
+- Jun 06 - [Durability of Polymers in the Space Environment [pdf]](https://ntrs.nasa.gov/api/citations/20190025446/downloads/20190025446.pdf)
+- Jun 06 - [Rust Is for the Engine, Not the Game](https://barretts.club/posts/rust-for-the-engine/)
+- Jun 06 - [Mitsubishi robot solves Rubik's Cube in 0.305s](https://soranews24.com/2024/05/28/mitsubishi-develops-robot-that-solves-rubiks-cube-style-puzzle-in-0-305-seconds%e3%80%90video%e3%80%91/)
+- Jun 06 - [TPM GPIO fail: How bad OEM firmware ruins Intel TPM security](https://mkukri.xyz/2024/06/01/tpm-gpio-fail.html)
+- Jun 06 - [U.S. clears way for antitrust inquiries of Nvidia, Microsoft and OpenAI](https://www.nytimes.com/2024/06/05/technology/nvidia-microsoft-openai-antitrust-doj-ftc.html)
 <!--END_SECTION:hn-->
 
 <!--
