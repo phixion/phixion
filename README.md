@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 06 - [The secret D-Day scientists and engineers](https://www.bbc.com/news/articles/c3gg580p3kjo)
-- Jun 06 - [The Right Not to Be Subjected to AI Profiling Based on Publicly Available Data](https://link.springer.com/article/10.1007/s13347-023-00616-9)
-- Jun 06 - [3D Math Primer for Graphics and Game Development](https://gamemath.com/)
-- Jun 06 - [All individuals should be able to have and own their own domain names](https://nic.eu.org/)
-- Jun 06 - [Martha Gellhorn – The Only Woman to Report on the D-Day Landings from the Ground](https://www.smithsonianmag.com/history/martha-gellhorn-was-the-only-woman-to-report-on-the-d-day-landings-from-the-ground-180984456/)
+- Jun 06 - [Microsoft Issues New Warning for 70% of All Windows Users](https://www.forbes.com/sites/zakdoffman/2024/06/05/new-microsoft-warning-for-windows-10-windows-11-free-upgrade/)
+- Jun 06 - [Windows Recall: Microsoft has lost trust with its users](https://www.windowscentral.com/software-apps/nvidia-3-trillion-market-valuation-second-most-valuable-company)
+- Jun 06 - [Dragonfly: A large vision-language model with multi-resolution zoom](https://www.together.ai/blog/dragonfly-v1)
+- Jun 06 - [An Interview with Lola De La Mata about tinnitus](https://thequietus.com/interviews/lola-de-la-mata-oceans-on-azimuth-tinnitus-interview/)
+- Jun 06 - [High resolution logo for any domain or stock ticker](https://logo.synthfinance.com/)
 <!--END_SECTION:hn-->
 
 <!--
