@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 05 - [JSON extra uses orjson instead of ujson](https://github.com/pydantic/pydantic/pull/599)
-- Jun 05 - [FBI raids Atlanta corporate landlord in probe of rental market price fixing](https://www.ajc.com/news/atlanta-news/fbi-raids-atlanta-corporate-landlord-with-ties-to-realpage/PT65C57YUFF2JGB7TRVRC7IFLE/)
-- Jun 05 - [For sale replica of the mustang aircraft](https://www.scalewings.com/sw-51-mustang/)
-- Jun 05 - [DHCPv6-PD – First Steps](https://sha256.net/dhcpv6-pd-first-steps.html)
-- Jun 05 - [Show HN: Original 8x16 ASCII Fixed Width Font: Classic Console Neue](https://webdraft.hu/fonts/classic-console/)
+- Jun 06 - [GameStop stock influencer Roaring Kitty may lose access to E-Trade, report says](https://arstechnica.com/tech-policy/2024/06/gamestop-stock-influencer-roaring-kitty-may-lose-access-to-e-trade-report-says/)
+- Jun 06 - [Microsoft AI Spying Scandal: Time to Rethink Privacy Standards](https://spectrum.ieee.org/online-privacy)
+- Jun 06 - [Save Team Fortress 2 (#savetf2)](https://save.tf/)
+- Jun 06 - [Most Life on Earth Is Dormant, After Pulling an 'Emergency Brake'](https://www.quantamagazine.org/most-life-on-earth-is-dormant-after-pulling-an-emergency-brake-20240605/)
+- Jun 05 - [Photoshop ToS grants Adobe access to user projects for 'content moderation'](https://nichegamer.com/photoshop-terms-of-service-grants-adobe-access-to-user-projects-for-content-moderation/)
 <!--END_SECTION:hn-->
 
 <!--
