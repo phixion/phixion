@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 07 - [ThankYouHN: 14 Years](https://news.ycombinator.com/item?id=40605103)
-- Jun 07 - [Meta's Ad Algorithm Directs Black Users to For-Profit Colleges](https://peopleofcolorintech.com/articles/metas-ad-system-shows-racial-bias-directing-black-users-to-for-profit-colleges/)
-- Jun 07 - [Shopify is acquiring the Threads team](https://framer.threads.com/announcement)
+- Jun 07 - [Desktop Linux is an Untapped Gold Mine](https://gebna.gg/blog/desktop-linux-is-an-untapped-gold-mine)
+- Jun 07 - [GNU JUSTIFIED PUBLIC LICENSE](http://tom7.org/bovex/JCOPYING)
+- Jun 07 - [US has the highest rate of maternal deaths among rich nations. Norway has zero](https://www.cnn.com/2024/06/04/health/maternal-deaths-high-income-nations/index.html)
+- Jun 07 - [Ice - open source bar manager for macOS](https://github.com/jordanbaird/Ice)
 - Jun 07 - [Stupid Slow: The Perceived Speed of Computers](https://www.datagubbe.se/stupidslow/)
-- Jun 07 - [Best Buy is shutting down its Samsung repair program](https://www.theverge.com/2024/6/6/24164777/best-buy-ends-samsung-repair-program-geek-squad)
 <!--END_SECTION:hn-->
 
 <!--
