@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 07 - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
-- Jun 07 - [Developer posts secret key on GitHub, loses $40K in 2 minutes](https://cointelegraph.com/news/web3-dev-loses-40k-github-key-leak)
-- Jun 07 - [Cancel Adobe if you are a creative under NDA with your clients](https://twitter.com/Stretchedwiener/status/1798153619285708909)
-- Jun 07 - [What is the "God Mode" folder in Windows 10, and how do I enable it?](https://www.howtogeek.com/402458/enable-god-mode-in-windows-10/)
-- Jun 07 - [I was denied tenure – how do I cope?](https://www.nature.com/articles/d41586-024-01694-1)
+- Jun 07 - [LedgerStore Supports Trillions of Indexes at Uber](https://www.uber.com/blog/how-ledgerstore-supports-trillions-of-indexes/?uclick_id=67d612cb-12f8-470a-98fd-e9f7144dfafb)
+- Jun 07 - [Recovery after HP tech support bricked my father's laptop](https://github.com/ctag/hp_envy_reviver)
+- Jun 07 - [Andrew Ng on AI Regulation](https://twitter.com/AndrewYNg/status/1788648531873628607)
+- Jun 07 - [Σ-GPTs: A New Approach to Autoregressive Models](https://arxiv.org/abs/2404.09562)
+- Jun 07 - [Instruction Sets Should Be Free: The Case for RISC-V [pdf] (2014)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-146.pdf)
 <!--END_SECTION:hn-->
 
 <!--
