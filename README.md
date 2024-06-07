@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 07 - [LedgerStore Supports Trillions of Indexes at Uber](https://www.uber.com/blog/how-ledgerstore-supports-trillions-of-indexes/?uclick_id=67d612cb-12f8-470a-98fd-e9f7144dfafb)
-- Jun 07 - [Recovery after HP tech support bricked my father's laptop](https://github.com/ctag/hp_envy_reviver)
-- Jun 07 - [Andrew Ng on AI Regulation](https://twitter.com/AndrewYNg/status/1788648531873628607)
-- Jun 07 - [Σ-GPTs: A New Approach to Autoregressive Models](https://arxiv.org/abs/2404.09562)
-- Jun 07 - [Instruction Sets Should Be Free: The Case for RISC-V [pdf] (2014)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-146.pdf)
+- Jun 07 - [Zig Goals](https://github.com/ziglang/zig/tree/4236b85c722b36cb31595634bae0ff28d6082761)
+- Jun 07 - [Alarms in Medical Equipment](https://th.id.au/alarms/)
+- Jun 07 - [Ask HN: Machine Learning Engineers, what do you do at work?](https://news.ycombinator.com/item?id=40610794)
+- Jun 07 - [ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/)
+- Jun 07 - [OpenSSH introduces options to penalize undesirable behavior](https://undeadly.org/cgi?action=article;sid=20240607042157)
 <!--END_SECTION:hn-->
 
 <!--
