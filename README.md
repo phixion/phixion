@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 06 - [Show HN: A Short IPv6 Guide for Home IPv4 Admins](https://gist.github.com/timothyham/dd003dbad5614b425a8325ec820fd785)
-- Jun 06 - [Uganda's Sweeping Surveillance State Is Built on National ID Cards](https://www.bloomberg.com/news/features/2024-06-04/uganda-yoweri-museveni-s-critics-targeted-via-biometric-id-system)
-- Jun 06 - [Make Your Program Slower with Threads](https://brooker.co.za/blog/2014/12/06/random.html)
-- Jun 06 - [Driver AI (YC W24) Is Hiring a Senior Front-End Engineer](https://www.ycombinator.com/companies/driver-ai/jobs/V2OQgdd-senior-frontend-engineer)
-- Jun 06 - [The Problem with Lying Is Keeping Track of All the Lies](https://materialize.com/blog/engineering/keeping-track-lies/)
+- Jun 07 - [ThankYouHN: 14 Years](https://news.ycombinator.com/item?id=40605103)
+- Jun 07 - [Meta's Ad Algorithm Directs Black Users to For-Profit Colleges](https://peopleofcolorintech.com/articles/metas-ad-system-shows-racial-bias-directing-black-users-to-for-profit-colleges/)
+- Jun 07 - [Shopify is acquiring the Threads team](https://framer.threads.com/announcement)
+- Jun 07 - [Stupid Slow: The Perceived Speed of Computers](https://www.datagubbe.se/stupidslow/)
+- Jun 07 - [Best Buy is shutting down its Samsung repair program](https://www.theverge.com/2024/6/6/24164777/best-buy-ends-samsung-repair-program-geek-squad)
 <!--END_SECTION:hn-->
 
 <!--
