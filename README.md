@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 07 - [Desktop Linux is an Untapped Gold Mine](https://gebna.gg/blog/desktop-linux-is-an-untapped-gold-mine)
-- Jun 07 - [GNU JUSTIFIED PUBLIC LICENSE](http://tom7.org/bovex/JCOPYING)
-- Jun 07 - [US has the highest rate of maternal deaths among rich nations. Norway has zero](https://www.cnn.com/2024/06/04/health/maternal-deaths-high-income-nations/index.html)
-- Jun 07 - [Ice - open source bar manager for macOS](https://github.com/jordanbaird/Ice)
-- Jun 07 - [Stupid Slow: The Perceived Speed of Computers](https://www.datagubbe.se/stupidslow/)
+- Jun 07 - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+- Jun 07 - [Developer posts secret key on GitHub, loses $40K in 2 minutes](https://cointelegraph.com/news/web3-dev-loses-40k-github-key-leak)
+- Jun 07 - [Cancel Adobe if you are a creative under NDA with your clients](https://twitter.com/Stretchedwiener/status/1798153619285708909)
+- Jun 07 - [What is the "God Mode" folder in Windows 10, and how do I enable it?](https://www.howtogeek.com/402458/enable-god-mode-in-windows-10/)
+- Jun 07 - [I was denied tenure – how do I cope?](https://www.nature.com/articles/d41586-024-01694-1)
 <!--END_SECTION:hn-->
 
 <!--
