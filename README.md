@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 08 - [Flexport (YC W14) Is Hiring a Senior Applied Research Scientist](https://boards.greenhouse.io/flexport/jobs/5806177?gh_jid=5806177)
-- Jun 08 - [Boeing Passenger Jet Nearly Crashes Because of Known Software Bug](https://www.independent.co.uk/travel/tui-boeing-flight-bristol-disaster-avoided-b2558536.html)
-- Jun 08 - [What happened to Captura? OSS maintainer burnout (2023)](https://mathewsachin.github.io/blog/2023/04/09/captura-unmaintained.html)
-- Jun 08 - [Content Injection Attack on GitHub](https://github.com/younesbram/younesbram)
-- Jun 08 - [South Pole Water Infrastructure](https://brr.fyi/posts/south-pole-water-infrastructure)
+- Jun 08 - [Wanna Make Big Tech Monopolies Even Worse? Kill Section 230](https://www.eff.org/deeplinks/2024/05/wanna-make-big-tech-monopolies-even-worse-kill-section-230)
+- Jun 08 - [The Backrooms of the Internet Archive](https://blog.archive.org/2024/06/01/the-backrooms-of-the-internet-archive/)
+- Jun 08 - [Ask HN: How to handle a senior hire turning out to be junior?](https://news.ycombinator.com/item?id=40617786)
+- Jun 08 - [Finite-Time Topology Identification of Delayed Complex Dynamical Networks](https://spj.science.org/doi/10.34133/cbsystems.0092)
+- Jun 08 - [LSP-AI: open-source language server serving as back end for AI code assistance](https://github.com/SilasMarvin/lsp-ai)
 <!--END_SECTION:hn-->
 
 <!--
