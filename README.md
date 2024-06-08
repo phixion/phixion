@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 08 - [Wanna Make Big Tech Monopolies Even Worse? Kill Section 230](https://www.eff.org/deeplinks/2024/05/wanna-make-big-tech-monopolies-even-worse-kill-section-230)
-- Jun 08 - [The Backrooms of the Internet Archive](https://blog.archive.org/2024/06/01/the-backrooms-of-the-internet-archive/)
-- Jun 08 - [Ask HN: How to handle a senior hire turning out to be junior?](https://news.ycombinator.com/item?id=40617786)
-- Jun 08 - [Finite-Time Topology Identification of Delayed Complex Dynamical Networks](https://spj.science.org/doi/10.34133/cbsystems.0092)
-- Jun 08 - [LSP-AI: open-source language server serving as back end for AI code assistance](https://github.com/SilasMarvin/lsp-ai)
+- Jun 08 - [AverageDB](http://averagedatabase.com/)
+- Jun 08 - [Court rules Meta must face lawsuit over fraudulent ads](https://signalscv.com/2024/06/court-rules-meta-must-face-lawsuit-over-fraudulent-ads/)
+- Jun 08 - [Beware anti patterns in event driven architecture](https://codeopinion.com/beware-anti-patterns-in-event-driven-architecture/)
+- Jun 08 - [Auditing TikTok](https://tiktok-audit.com/blog/)
+- Jun 08 - [A Single Vulnerability Can Bring Down the JavaScript Ecosystem](https://www.landh.tech/blog/20240603-npm-cache-poisoning/)
 <!--END_SECTION:hn-->
 
 <!--
