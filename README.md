@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 07 - [Zig Goals](https://github.com/ziglang/zig/tree/4236b85c722b36cb31595634bae0ff28d6082761)
-- Jun 07 - [Alarms in Medical Equipment](https://th.id.au/alarms/)
-- Jun 07 - [Ask HN: Machine Learning Engineers, what do you do at work?](https://news.ycombinator.com/item?id=40610794)
-- Jun 07 - [ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/)
-- Jun 07 - [OpenSSH introduces options to penalize undesirable behavior](https://undeadly.org/cgi?action=article;sid=20240607042157)
+- Jun 07 - [3dfx Voodoo 4 video card in MXM format](https://www.vogons.org/viewtopic.php?t=100871)
+- Jun 07 - [Slow-spinning radio neutron star breaks all the rules](https://www.sydney.edu.au/news-opinion/news/2024/06/05/slow-spinning-radio-neutron-star-breaks-all-the-rules.html)
+- Jun 07 - [What Is PID 0?](https://blog.dave.tf/post/linux-pid0/)
+- Jun 07 - [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2023/xv6.html)
+- Jun 07 - [Yes, you can play Duck Hunt without a television (but I can't)](https://nicole.express/2024/no-screen-no-cpu-one-problem.html)
 <!--END_SECTION:hn-->
 
 <!--
