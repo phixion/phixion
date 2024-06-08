@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 07 - [3dfx Voodoo 4 video card in MXM format](https://www.vogons.org/viewtopic.php?t=100871)
+- Jun 08 - [Memory-safe, clean implementation of classic Posix "BC" calculator](https://github.com/rustcoreutils/posixutils-rs/tree/main/calc/src)
+- Jun 08 - [Chebyshev approximation and how it can help (2012)](https://www.EmbeddedRelated.com/showarticle/152.php)
+- Jun 08 - [Apollo 8 astronaut William Anders ID'd in WA plane crash](https://www.fox13seattle.com/news/william-anders-wa-plane-crash)
+- Jun 07 - [3dfx Voodoo 4 video card in MXM format (2023)](https://www.vogons.org/viewtopic.php?t=100871)
 - Jun 07 - [Slow-spinning radio neutron star breaks all the rules](https://www.sydney.edu.au/news-opinion/news/2024/06/05/slow-spinning-radio-neutron-star-breaks-all-the-rules.html)
-- Jun 07 - [What Is PID 0?](https://blog.dave.tf/post/linux-pid0/)
-- Jun 07 - [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2023/xv6.html)
-- Jun 07 - [Yes, you can play Duck Hunt without a television (but I can't)](https://nicole.express/2024/no-screen-no-cpu-one-problem.html)
 <!--END_SECTION:hn-->
 
 <!--
