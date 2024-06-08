@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 08 - [Flexport (YC W14) Is Hiring a Senior Applied Research Scientist](https://boards.greenhouse.io/flexport/jobs/5806177?gh_jid=5806177)
+- Jun 08 - [Boeing Passenger Jet Nearly Crashes Because of Known Software Bug](https://www.independent.co.uk/travel/tui-boeing-flight-bristol-disaster-avoided-b2558536.html)
 - Jun 08 - [What happened to Captura? OSS maintainer burnout (2023)](https://mathewsachin.github.io/blog/2023/04/09/captura-unmaintained.html)
 - Jun 08 - [Content Injection Attack on GitHub](https://github.com/younesbram/younesbram)
-- Jun 08 - [Replit used legal threats to kill my open-source project (2021)](https://intuitiveexplanations.com/tech/replit/)
-- Jun 08 - [Welcome to the safest time to give birth in human history](https://www.theupwing.com/the-radical-drop-in-maternal-mortality-was-a-public-health-miracle/)
-- Jun 08 - [Memory-safe, clean implementation of classic Posix "BC" calculator](https://github.com/rustcoreutils/posixutils-rs/tree/main/calc/src)
+- Jun 08 - [South Pole Water Infrastructure](https://brr.fyi/posts/south-pole-water-infrastructure)
 <!--END_SECTION:hn-->
 
 <!--
