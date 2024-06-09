@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 09 - [The Mere Presence of One's Own Smartphone Reduces Available Cognitive Capacity](https://www.journals.uchicago.edu/doi/10.1086/691462)
-- Jun 09 - [Mozilla silently bans 2 anti-state-censorship add-ons in Russia](https://discourse.mozilla.org/t/the-censorship-circumvention-extension-has-disappeared-from-the-russian-version-of-mozilla-addons/130914)
-- Jun 09 - [Fixing a knockoff Altera USB Blaster that never worked](https://www.downtowndougbrown.com/2024/06/fixing-a-knockoff-altera-usb-blaster-that-never-worked/)
-- Jun 09 - [Next-generation web framework Teo, supports Node.js, Python and Rust](https://teodev.io)
-- Jun 09 - [Scalable MatMul-Free Language Modeling](https://arxiv.org/abs/2406.02528)
+- Jun 09 - [We went solar and here are the real numbers (2011)](https://joshuatauberer.medium.com/we-went-solar-and-here-are-the-real-numbers-7a7f28d51897)
+- Jun 09 - [Decent Patterns](https://decentpatterns.com/)
+- Jun 09 - [Your Phone, Minus the Distractions](https://getbrick.app/)
+- Jun 09 - [Super Heavy landing burn and soft splashdown in the Gulf of Mexico [video]](https://twitter.com/SpaceX/status/1799458854067118450)
+- Jun 09 - [Termux – Response Following GooglePlayStore App Updates](https://github.com/termux/termux-app/discussions/4000)
 <!--END_SECTION:hn-->
 
 <!--
