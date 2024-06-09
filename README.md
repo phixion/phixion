@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 08 - [The binding of cosmological structures by massless topological defects](https://academic.oup.com/mnras/article/531/1/1630/7673084)
-- Jun 08 - [AI Appears to Rapidly Be Approaching Brick Wall Where It Can't Get Smarter](https://futurism.com/the-byte/ai-running-out-data-smarter)
-- Jun 08 - [Anyone else lurk and feel like they understand nothing?](https://news.ycombinator.com/item?id=40620764)
-- Jun 08 - [Viagra improves brain blood flow and could help to prevent dementia](https://www.ox.ac.uk/news/2024-06-07-sildenafil-viagra-improves-brain-blood-flow-and-could-help-prevent-dementia)
-- Jun 08 - [Evaluation of Machine Learning Primitives on a Digital Signal Processor](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1457863&dswid=-740)
+- Jun 09 - [The Mere Presence of One's Own Smartphone Reduces Available Cognitive Capacity](https://www.journals.uchicago.edu/doi/10.1086/691462)
+- Jun 09 - [Mozilla silently bans 2 anti-state-censorship add-ons in Russia](https://discourse.mozilla.org/t/the-censorship-circumvention-extension-has-disappeared-from-the-russian-version-of-mozilla-addons/130914)
+- Jun 09 - [Fixing a knockoff Altera USB Blaster that never worked](https://www.downtowndougbrown.com/2024/06/fixing-a-knockoff-altera-usb-blaster-that-never-worked/)
+- Jun 09 - [Next-generation web framework Teo, supports Node.js, Python and Rust](https://teodev.io)
+- Jun 09 - [Scalable MatMul-Free Language Modeling](https://arxiv.org/abs/2406.02528)
 <!--END_SECTION:hn-->
 
 <!--
