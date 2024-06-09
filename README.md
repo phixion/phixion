@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 09 - [We went solar and here are the real numbers (2011)](https://joshuatauberer.medium.com/we-went-solar-and-here-are-the-real-numbers-7a7f28d51897)
-- Jun 09 - [Decent Patterns](https://decentpatterns.com/)
-- Jun 09 - [Your Phone, Minus the Distractions](https://getbrick.app/)
-- Jun 09 - [Super Heavy landing burn and soft splashdown in the Gulf of Mexico [video]](https://twitter.com/SpaceX/status/1799458854067118450)
-- Jun 09 - [Termux – Response Following GooglePlayStore App Updates](https://github.com/termux/termux-app/discussions/4000)
+- Jun 09 - [UpCodes (YC S17) is hiring remote SWEs, PMs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
+- Jun 09 - [Discussions: Flat or Threaded? (2006)](https://blog.codinghorror.com/discussions-flat-or-threaded/)
+- Jun 09 - [Bird Aren't Real: What one man learned when he made up a conspiracy theory](https://www.thestar.com/politics/federal/he-made-up-a-conspiracy-theory-to-see-how-people-would-respond-to-it-and/article_b15bf5ea-1c4b-11ef-a624-6b03a5ba7502.html)
+- Jun 09 - [Napoleon's Traveling Libraries](https://twitter.com/napsarkozy/status/1755629139237671332)
+- Jun 09 - [How many High Streets are there in London?](https://diamondgeezer.blogspot.com/2024/06/londons-high-streets.html)
 <!--END_SECTION:hn-->
 
 <!--
