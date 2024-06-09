@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 08 - [AverageDB](http://averagedatabase.com/)
-- Jun 08 - [Court rules Meta must face lawsuit over fraudulent ads](https://signalscv.com/2024/06/court-rules-meta-must-face-lawsuit-over-fraudulent-ads/)
-- Jun 08 - [Beware anti patterns in event driven architecture](https://codeopinion.com/beware-anti-patterns-in-event-driven-architecture/)
-- Jun 08 - [Auditing TikTok](https://tiktok-audit.com/blog/)
-- Jun 08 - [A Single Vulnerability Can Bring Down the JavaScript Ecosystem](https://www.landh.tech/blog/20240603-npm-cache-poisoning/)
+- Jun 08 - [The binding of cosmological structures by massless topological defects](https://academic.oup.com/mnras/article/531/1/1630/7673084)
+- Jun 08 - [AI Appears to Rapidly Be Approaching Brick Wall Where It Can't Get Smarter](https://futurism.com/the-byte/ai-running-out-data-smarter)
+- Jun 08 - [Anyone else lurk and feel like they understand nothing?](https://news.ycombinator.com/item?id=40620764)
+- Jun 08 - [Viagra improves brain blood flow and could help to prevent dementia](https://www.ox.ac.uk/news/2024-06-07-sildenafil-viagra-improves-brain-blood-flow-and-could-help-prevent-dementia)
+- Jun 08 - [Evaluation of Machine Learning Primitives on a Digital Signal Processor](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1457863&dswid=-740)
 <!--END_SECTION:hn-->
 
 <!--
