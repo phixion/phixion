@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 09 - [Our Fight to Keep the Law Free](https://up.codes/free-law)
-- Jun 09 - [The Weird Nerd comes with trade-offs](https://www.writingruxandrabio.com/p/the-weird-nerd-comes-with-trade-offs)
-- Jun 09 - [Spam blocklist SORBS closed by its owner, Proofpoint](https://www.theregister.com/2024/06/07/sorbs_closed/)
-- Jun 09 - [Code of Hammurabi](https://en.wikipedia.org/wiki/Code_of_Hammurabi)
-- Jun 09 - [Show HN: We've open-sourced our LLM attention visualization library](https://github.com/labmlai/inspectus)
+- Jun 09 - [Designing a Lego Orrery](https://marian42.de/article/orrery/)
+- Jun 09 - [A Revolution in Biology](https://www.bitsofwonder.co/p/a-revolution-in-biology)
+- Jun 09 - [No one should use the AT&T syntax (2021)](https://outerproduct.net/2021-02-13_att-asm.html)
+- Jun 09 - [Keylogger discovered in image generator extension](https://old.reddit.com/r/comfyui/comments/1dbls5n/psa_if_youve_used_the_comfyui_llmvision_node_from/)
+- Jun 09 - [A look at search engines with their own indexes (2021)](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/)
 <!--END_SECTION:hn-->
 
 <!--
