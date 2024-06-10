@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 10 - [IRS makes Direct File a permanent option to file federal tax returns](https://www.irs.gov/newsroom/irs-makes-direct-file-a-permanent-option-to-file-federal-tax-returns-expanded-access-for-more-taxpayers-planned-for-the-2025-filing-season)
-- Jun 10 - [Gainax, known for 'Evangelion' anime production, goes bankrupt](https://www.japantimes.co.jp/business/2024/06/08/evangelion-anime-production-company-bankrupt/)
-- Jun 10 - [NetBSD 10 on a Pinebook Pro laptop](https://www.idatum.net/netbsd-10-on-a-pinebook-pro-laptop.html)
-- Jun 10 - [The U.S. Economy Reaches Superstar Status](https://www.theatlantic.com/ideas/archive/2024/06/us-economy-excellent/678630/)
-- Jun 10 - [Tuxedo Developing a Snapdragon X Elite Linux Laptop](https://www.phoronix.com/news/TUXEDO-Snapdragon-X-Elite)
+- Jun 10 - [OpenAI and Apple Announce Partnership](https://openai.com/index/openai-and-apple-announce-partnership/)
+- Jun 10 - [macOS Sequoia Preview](https://www.apple.com/macos/macos-sequoia-preview/)
+- Jun 10 - [Introducing Apple Intelligence, the personal intelligence system](https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
+- Jun 10 - [Apple is launching its own password manager app](https://techcrunch.com/2024/06/10/apple-is-launching-its-own-password-manager-app/)
+- Jun 10 - [Apple blocks PC emulator in iOS App Store and third-party app stores](https://9to5mac.com/2024/06/09/apple-blocks-pc-emulator-utm-app-store/)
 <!--END_SECTION:hn-->
 
 <!--
