@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 10 - [It is time for more holistic practices in mental health](https://journals.plos.org/mentalhealth/article?id=10.1371/journal.pmen.0000028)
 - Jun 10 - [Monumental snake engravings of the Orinoco River](https://www.cambridge.org/core/journals/antiquity/article/monumental-snake-engravings-of-the-orinoco-river/147F83AA4381153C4D0F4EA4817B3766)
-- Jun 10 - [Show HN: AI-powered API that instantly obtains website information](https://siteprofile.io/)
-- Jun 10 - ["AI-powered" has become a red flag](https://iml.bearblog.dev/ai-powered-has-become-a-red-flag/)
 - Jun 09 - [Qualcomm Snapdragon X Elite prototype that runs Linux emerges](https://www.techradar.com/pro/qualcomm-snapdragon-x-elite-prototype-that-runs-linux-emerges-from-a-brand-youve-probably-never-heard-of-schenker-tuxedo-has-12-core-cpu-with-32gb-ram-and-surprise-surprise-debian)
-- Jun 09 - [On being brought up by libertarian economists](https://daviddfriedman.substack.com/p/on-being-brought-up-by-libertarian)
+- Jun 09 - [A ChatGPT mistake cost us $10k](https://asim.bearblog.dev/how-a-single-chatgpt-mistake-cost-us-10000/)
+- Jun 09 - [A DSL for Implementing Math Functions](https://blog.sigplan.org/2024/06/03/a-dsl-for-implementing-math-functions/)
 <!--END_SECTION:hn-->
 
 <!--
