@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 10 - [It is time for more holistic practices in mental health](https://journals.plos.org/mentalhealth/article?id=10.1371/journal.pmen.0000028)
-- Jun 10 - [Monumental snake engravings of the Orinoco River](https://www.cambridge.org/core/journals/antiquity/article/monumental-snake-engravings-of-the-orinoco-river/147F83AA4381153C4D0F4EA4817B3766)
-- Jun 09 - [Qualcomm Snapdragon X Elite prototype that runs Linux emerges](https://www.techradar.com/pro/qualcomm-snapdragon-x-elite-prototype-that-runs-linux-emerges-from-a-brand-youve-probably-never-heard-of-schenker-tuxedo-has-12-core-cpu-with-32gb-ram-and-surprise-surprise-debian)
-- Jun 09 - [A ChatGPT mistake cost us $10k](https://asim.bearblog.dev/how-a-single-chatgpt-mistake-cost-us-10000/)
-- Jun 09 - [A DSL for Implementing Math Functions](https://blog.sigplan.org/2024/06/03/a-dsl-for-implementing-math-functions/)
+- Jun 10 - [Meticulous (YC S21) is hiring to eliminate UI E2E tests](https://news.ycombinator.com/item?id=40632641)
+- Jun 10 - [First detection of negative ions on the Moon](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/First_detection_of_negative_ions_on_the_Moon)
+- Jun 10 - ["How people fall apart": The Neuroscience of Burnout](https://yaledailynews.com/blog/2022/03/29/how-people-fall-apart-yale-faculty-discuss-the-impact-of-burnout-on-the-brain/)
+- Jun 10 - [The Mythical Non-Roboticist: Wouldn't it be great if everyone could do robotics?](https://spectrum.ieee.org/the-mythical-non-roboticist)
+- Jun 10 - [WebKit fix: Quirk news.ycombinator to skip TextAutoSizing](https://github.com/WebKit/WebKit/commit/84ae355619354ee1bfa7daaa1fc95565a6726be3)
 <!--END_SECTION:hn-->
 
 <!--
