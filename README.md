@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 11 - [Google shuts down GPay app and P2P payments in the US](https://9to5google.com/2024/06/09/gpay-us/)
-- Jun 11 - [Child safety advocates disrupt Apple developers conference](https://www.mercurynews.com/2024/06/10/cupertino-child-safety-advocates-disrupt-apple-developers-conference/)
-- Jun 11 - [Microsoft's official Minesweeper app has ads, pay-to-win, and is hundreds of MBs](https://tech.lgbt/@nina_kali_nina/112594910070716090)
-- Jun 11 - [Firefox will upgrade more Mixed Content in Version 127](https://blog.mozilla.org/security/2024/06/05/firefox-will-upgrade-more-mixed-content-in-version-127/)
-- Jun 11 - [Meta Open-Sources Megalodon LLM for Efficient Long Sequence Modeling – InfoQ](https://www.infoq.com/news/2024/06/meta-llm-megalodon/)
+- Jun 11 - [Did startup Flow Computing just make CPUs 100x faster?](https://www.theverge.com/2024/6/11/24176304/flow-computing-startup-parallel-processing-accelerator)
+- Jun 11 - [Federighi says Apple hopes to add Google Gemini and other AI models to iOS 18](https://9to5mac.com/2024/06/10/craig-federighi-says-apple-hopes-to-add-google-gemini-and-other-ai-models-to-ios-18/)
+- Jun 11 - [Polars Pre-release v1.0.0](https://github.com/pola-rs/polars/releases/tag/py-1.0.0-alpha.1)
+- Jun 11 - [Mastercard Launches Its Biometric Retail Payment System in Europe](https://www.nakedcapitalism.com/2024/06/mastercards-biometric-retail-payment-system-finally-arrives-in-europe-following-pilot-tests-in-global-south.html)
+- Jun 11 - [London–Calcutta Bus Service](https://en.wikipedia.org/wiki/London%E2%80%93Calcutta_bus_service)
 <!--END_SECTION:hn-->
 
 <!--
