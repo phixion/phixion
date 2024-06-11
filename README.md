@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 11 - [Battery-swap networks are preventing emergency blackouts](https://www.technologyreview.com/2024/06/11/1093465/battery-swap-gogoro-taiwan-earthquake/)
-- Jun 11 - [Humans May Be Able to Grow New Teeth Within Just 6 Years](https://www.popularmechanics.com/science/health/a60952102/tooth-regrowth-human-trials-japan/)
-- Jun 11 - [Exploring TrustZone-M on the NRF9160](https://lenas-fieldnotes.de/minimal-tz/)
-- Jun 11 - [Omnivore: A read-it-later app sponsored with the help of Open Collective](https://opencollective.com/omnivore)
-- Jun 11 - [POV-Ray – The Persistence of Vision Raytracer](http://www.povray.org/)
+- Jun 11 - [Google shuts down GPay app and P2P payments in the US](https://9to5google.com/2024/06/09/gpay-us/)
+- Jun 11 - [Child safety advocates disrupt Apple developers conference](https://www.mercurynews.com/2024/06/10/cupertino-child-safety-advocates-disrupt-apple-developers-conference/)
+- Jun 11 - [Microsoft's official Minesweeper app has ads, pay-to-win, and is hundreds of MBs](https://tech.lgbt/@nina_kali_nina/112594910070716090)
+- Jun 11 - [Firefox will upgrade more Mixed Content in Version 127](https://blog.mozilla.org/security/2024/06/05/firefox-will-upgrade-more-mixed-content-in-version-127/)
+- Jun 11 - [Meta Open-Sources Megalodon LLM for Efficient Long Sequence Modeling – InfoQ](https://www.infoq.com/news/2024/06/meta-llm-megalodon/)
 <!--END_SECTION:hn-->
 
 <!--
