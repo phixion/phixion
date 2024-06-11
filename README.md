@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 10 - [Intel pauses work on $25B Israel fab](https://www.theregister.com/2024/06/10/intel_israeli_fab/)
-- Jun 10 - [Wild elephants may have names that other elephants use to call them](https://www.npr.org/2024/06/07/nx-s1-4994426/wild-elephants-individual-names)
-- Jun 10 - [Private Cloud Compute: A new frontier for AI privacy in the cloud](https://security.apple.com/blog/private-cloud-compute/)
-- Jun 10 - [Apple's On-Device and Server Foundation Models](https://machinelearning.apple.com/research/introducing-apple-foundation-models)
-- Jun 10 - [New GitHub Organization for the Swift Project](https://www.swift.org/blog/swiftlang-github/)
+- Jun 11 - [Blackmagic Cine Immersive Capture for Vision Pro 8160x7200 Resolution per Eye](https://www.newsshooter.com/2024/06/10/blackmagic-ursa-cine-immersive-capture-content-for-apple-vision-pro-with-8160-x-7200-resolution-per-eye/)
+- Jun 11 - [Noam Chomsky 'no longer able to talk' after 'medical event'](https://www.independent.co.uk/arts-entertainment/books/news/noam-chomsky-health-update-tributes-b2559831.html)
+- Jun 11 - [Back To Atoms: Why we can stop building SaaS and build the future instead.](https://carllippert.com/back-to-atoms/)
+- Jun 11 - [Ship Something Every Day](https://maxleiter.com/blog/ship-every-day)
+- Jun 11 - [Siberia's 'mammoth graveyard' reveals 800-year human interactions with mammoths](https://phys.org/news/2024-06-siberia-mammoth-graveyard-reveals-year.html)
 <!--END_SECTION:hn-->
 
 <!--
