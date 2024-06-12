@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 11 - [Did startup Flow Computing just make CPUs 100x faster?](https://www.theverge.com/2024/6/11/24176304/flow-computing-startup-parallel-processing-accelerator)
-- Jun 11 - [Federighi says Apple hopes to add Google Gemini and other AI models to iOS 18](https://9to5mac.com/2024/06/10/craig-federighi-says-apple-hopes-to-add-google-gemini-and-other-ai-models-to-ios-18/)
-- Jun 11 - [Polars Pre-release v1.0.0](https://github.com/pola-rs/polars/releases/tag/py-1.0.0-alpha.1)
-- Jun 11 - [Mastercard Launches Its Biometric Retail Payment System in Europe](https://www.nakedcapitalism.com/2024/06/mastercards-biometric-retail-payment-system-finally-arrives-in-europe-following-pilot-tests-in-global-south.html)
-- Jun 11 - [London–Calcutta Bus Service](https://en.wikipedia.org/wiki/London%E2%80%93Calcutta_bus_service)
+- Jun 11 - [How Much of a Genius-Level Move Was Using Binary Space Partitioning in Doom?](https://twobithistory.org/2019/11/06/doom-bsp.html)
+- Jun 11 - [TIL about the "gollum" GitHub Action event](https://docs.github.com/en/webhooks/webhook-events-and-payloads)
+- Jun 11 - [Tea Punch Was the First Cocktail](https://www.atlasobscura.com/articles/tea-punch-was-the-first-cocktail)
+- Jun 11 - [Swift Static Linux SDK](https://www.swift.org/documentation/articles/static-linux-getting-started.html)
+- Jun 11 - [Flameshot – Open-source screenshot software](https://flameshot.org/)
 <!--END_SECTION:hn-->
 
 <!--
