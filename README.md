@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 11 - [How Much of a Genius-Level Move Was Using Binary Space Partitioning in Doom?](https://twobithistory.org/2019/11/06/doom-bsp.html)
-- Jun 11 - [TIL about the "gollum" GitHub Action event](https://docs.github.com/en/webhooks/webhook-events-and-payloads)
-- Jun 11 - [Tea Punch Was the First Cocktail](https://www.atlasobscura.com/articles/tea-punch-was-the-first-cocktail)
-- Jun 11 - [Swift Static Linux SDK](https://www.swift.org/documentation/articles/static-linux-getting-started.html)
-- Jun 11 - [Flameshot – Open-source screenshot software](https://flameshot.org/)
+- Jun 12 - [Silicon Valley's Best Kept Secret: Founder Liquidity](https://www.stefantheard.com/silicon-valleys-best-kept-secret-founder-liquidity/)
+- Jun 12 - [Silicon Valley salaries are shrinking, leaving workers in the lurch](https://www.mercurynews.com/2024/06/11/silicon-valley-salaries-are-shrinking-leaving-workers-in-the-lurch/)
+- Jun 12 - [IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024](https://machinelearning.apple.com/updates/apple-at-cvpr-2024)
+- Jun 12 - [T-Mobile users thought they had a lifetime price lock–guess what happened next](https://arstechnica.com/tech-policy/2024/06/t-mobile-users-thought-they-had-a-lifetime-price-lock-guess-what-happened-next/)
+- Jun 12 - [AES-GCM and breaking it on nonce reuse](https://frereit.de/aes_gcm/)
 <!--END_SECTION:hn-->
 
 <!--
