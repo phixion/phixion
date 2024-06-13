@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 13 - [VRChat is Laying Off 30% of Team](https://ask.vrchat.com/t/an-email-from-our-ceo/25060)
+- Jun 13 - [Uncensor any LLM with abliteration](https://huggingface.co/blog/mlabonne/abliteration)
+- Jun 13 - [NASA accidentally broadcasts simulation of distressed astronauts](https://www.reuters.com/technology/space/nasa-accidentally-broadcasts-simulation-distressed-astronauts-space-station-2024-06-13/)
 - Jun 13 - [Minuimus is a file optimiser utility script](https://birds-are-nice.me/software/minuimus.html)
 - Jun 12 - [How Meta trains large language models at scale](https://engineering.fb.com/2024/06/12/data-infrastructure/training-large-language-models-at-scale-meta/)
 - Jun 12 - [Martin-Baker Ejection Seat Made Its First of 7,722 Saves 75 Years Ago Today](https://www.twz.com/air/martin-baker-ejection-seat-made-its-first-of-7722-saves-75-yeats-ago-today)
-- Jun 12 - [Gerald Sussman: Programming is (should be) fun (2022) [video]](https://www.youtube.com/watch?v=2MYzvQ1v8Ww)
 <!--END_SECTION:hn-->
 
 <!--
