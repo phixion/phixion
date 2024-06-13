@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 12 - [VisionOS 2 Enables WebXR by default, unlocking cross-platform XR](https://www.roadtovr.com/visionos-2-webxr-support-vision-pro/)
-- Jun 12 - [Building a faster, smarter, Chromebook experience with the best of Google](https://blog.chromium.org/2024/06/building-faster-smarter-chromebook.html)
-- Jun 12 - [Fired employee deleted servers, causing it to lose S$918,000](https://www.channelnewsasia.com/singapore/former-employee-hack-ncs-delete-virtual-servers-quality-testing-4402141)
-- Jun 12 - [Hybrid working from home improves retention without damaging performance](https://www.nature.com/articles/s41586-024-07500-2)
-- Jun 12 - [The Swift compiler is slow due to how types are inferred](https://danielchasehooper.com/posts/why-swift-is-slow/)
+- Jun 12 - [Nietzsche's Guide to Greatness](https://www.johnathanbi.com/p/nietzsches-guide-to-greatness-the)
+- Jun 12 - [Robots are suddenly getting cleverer. What's changed?](https://www.economist.com/science-and-technology/2024/06/05/robots-are-suddenly-getting-cleverer-whats-changed)
+- Jun 12 - [Martin-Baker Ejection Seat Made Its First of 7,722 Saves 75 Years Ago Today](https://www.twz.com/air/martin-baker-ejection-seat-made-its-first-of-7722-saves-75-yeats-ago-today)
+- Jun 12 - [Gerald Sussman: Programming is (should be) fun (2022) [video]](https://www.youtube.com/watch?v=2MYzvQ1v8Ww)
+- Jun 12 - [Etleap (YC W13) Is Hiring Customer Success Manager (SF)](https://etleap.com/careers/customer-success-manager/)
 <!--END_SECTION:hn-->
 
 <!--
