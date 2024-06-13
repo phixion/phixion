@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 13 - [AMD CEO Lisa Su reminisces about designing the PS3's infamous Cell processor](https://www.tomshardware.com/tech-industry/amd-ceo-lisa-su-reminisces-on-helping-design-the-ps3s-infamous-cell-processor-at-ibm)
-- Jun 13 - [How do you cool a 100F city?](https://www.bbc.com/future/article/20240613-how-to-cool-down-urban-heat-islands-in-americas-heatwaves)
-- Jun 13 - [MLow: Meta's low bitrate audio codec](https://engineering.fb.com/2024/06/13/web/mlow-metas-low-bitrate-audio-codec/)
-- Jun 13 - [Iridescence in Meat Caused by Surface Gratings](https://www.mdpi.com/2304-8158/2/4/499)
-- Jun 13 - [Wells Fargo Fires Over a Dozen for 'Simulation of Keyboard Activity'](https://www.bloomberg.com/news/articles/2024-06-13/wells-fires-over-a-dozen-for-simulation-of-keyboard-activity)
+- Jun 13 - [Wu-Tang Clan: Once Upon a Time in Shaolin](https://www.thealbum.com/)
+- Jun 13 - [Saudi Arabia ends 50-year petrodollar pact with US](https://www.nasdaq.com/articles/us-saudi-petrodollar-pact-ends-after-50-years)
+- Jun 13 - [Mouth-based touchpad enables people living with paralysis to use computers](https://news.mit.edu/2024/mouth-based-touchpad-augmental-0605)
+- Jun 13 - [How Google is helping create a new model for clean energy](https://blog.google/outreach-initiatives/sustainability/google-clean-energy-partnership/)
+- Jun 13 - [Beneath the AGI and Foundational Model Hype, Sober AI Is the Enterprise Default](https://www.dbreunig.com/2024/06/12/sober-ai-is-the-norm.html)
 <!--END_SECTION:hn-->
 
 <!--
