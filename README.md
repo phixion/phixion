@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 13 - [Wu-Tang Clan: Once Upon a Time in Shaolin](https://www.thealbum.com/)
-- Jun 13 - [Saudi Arabia ends 50-year petrodollar pact with US](https://www.nasdaq.com/articles/us-saudi-petrodollar-pact-ends-after-50-years)
-- Jun 13 - [Mouth-based touchpad enables people living with paralysis to use computers](https://news.mit.edu/2024/mouth-based-touchpad-augmental-0605)
-- Jun 13 - [How Google is helping create a new model for clean energy](https://blog.google/outreach-initiatives/sustainability/google-clean-energy-partnership/)
-- Jun 13 - [Beneath the AGI and Foundational Model Hype, Sober AI Is the Enterprise Default](https://www.dbreunig.com/2024/06/12/sober-ai-is-the-norm.html)
+- Jun 13 - [Lamini Memory Tuning: 10x Fewer Hallucinations](https://www.lamini.ai/blog/lamini-memory-tuning)
+- Jun 13 - [Encodings for flattened heap values](https://cr.openjdk.org/~jrose/values/flattened-values.html)
+- Jun 13 - [Rent in Cities Skylines 2 was too high, so the devs removed landlords](https://arstechnica.com/gaming/2024/06/the-rent-is-too-dang-high-in-cities-skylines-2-so-the-devs-nuked-the-landlords/)
+- Jun 13 - [IKEA's retailer's solved global 'unhappy worker' crisis by raising salaries](https://fortune.com/europe/2024/06/11/ikeas-boss-solved-swedish-retailers-global-unhappy-worker-crisis-raising-salaries-introducing-flexible-working-subsidized-childcare/)
+- Jun 13 - [Pay $1 to Hear Wu-Tang Clan’s Secret Album (Eventually)](https://www.nytimes.com/2024/06/13/arts/music/wu-tang-clan-once-upon-a-time-in-shaolin.html)
 <!--END_SECTION:hn-->
 
 <!--
