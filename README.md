@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 14 - [I am not yet ready to switch to Zig from Rust](https://medium.com/@penberg/why-i-am-not-yet-ready-to-switch-to-zig-from-rust-3660e02f0060)
-- Jun 14 - [Why sleep deprivation disrupts memory](https://www.nature.com/articles/d41586-024-01732-y)
-- Jun 14 - [How to Design and Manufacture Your Own Chip [video]](https://www.youtube.com/watch?v=caXwuuXSB-A)
-- Jun 14 - [Nvidia Warp: A Python framework for high performance GPU simulation and graphics](https://github.com/NVIDIA/warp)
-- Jun 14 - [Start Presentations on the Second Slide](https://tidyfirst.substack.com/p/start-presentations-on-the-second)
+- Jun 14 - [Seattle tumbles to No. 20 in global ranking of startup ecosystems](https://www.geekwire.com/2024/seattle-tumbles-to-no-20-in-global-ranking-of-startup-ecosystems/)
+- Jun 14 - [Orange FM Prototype – Analogue Pocket Demo](https://orangegb.com/orangefm/)
+- Jun 14 - [Microsoft's Recall AI feature is now indefinitely delayed](https://blogs.windows.com/windowsexperience/2024/06/07/update-on-the-recall-preview-feature-for-copilot-pcs/)
+- Jun 14 - [Boeing and Airbus may have used 'counterfeit' titanium in planes, FAA says](https://www.nbcnews.com/business/business-news/boeing-airbus-may-used-counterfeit-titanium-planes-faa-investigating-rcna157160)
+- Jun 14 - [Turning the Tables on AI](https://ia.net/topics/turning-the-tables-on-ai)
 <!--END_SECTION:hn-->
 
 <!--
