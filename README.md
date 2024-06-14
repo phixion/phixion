@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 13 - [Lamini Memory Tuning: 10x Fewer Hallucinations](https://www.lamini.ai/blog/lamini-memory-tuning)
-- Jun 13 - [Encodings for flattened heap values](https://cr.openjdk.org/~jrose/values/flattened-values.html)
-- Jun 13 - [Rent in Cities Skylines 2 was too high, so the devs removed landlords](https://arstechnica.com/gaming/2024/06/the-rent-is-too-dang-high-in-cities-skylines-2-so-the-devs-nuked-the-landlords/)
-- Jun 13 - [IKEA's retailer's solved global 'unhappy worker' crisis by raising salaries](https://fortune.com/europe/2024/06/11/ikeas-boss-solved-swedish-retailers-global-unhappy-worker-crisis-raising-salaries-introducing-flexible-working-subsidized-childcare/)
-- Jun 13 - [Pay $1 to Hear Wu-Tang Clan’s Secret Album (Eventually)](https://www.nytimes.com/2024/06/13/arts/music/wu-tang-clan-once-upon-a-time-in-shaolin.html)
+- Jun 14 - [SF startup bosses illegally peddled $100M in Adderall, Feds say](https://sfstandard.com/2024/06/13/telemedicine-adderall-vyvanse-ritalin-done-global-brody-he/)
+- Jun 14 - [ASML Aims for Hyper-NA EUV, Shrinking Chip Limits](https://www.eetimes.com/asml-aims-for-hyper-na-euv-shrinking-chip-limits/)
+- Jun 14 - [Brew-Nix: a flake automatically packaging all homebrew casks](https://discourse.nixos.org/t/brew-nix-a-flake-automatically-packaging-all-homebrew-casks/44880)
+- Jun 14 - [Clearview AI Used Your Face. Now You May Get a Stake in the Company](https://www.nytimes.com/2024/06/13/technology/clearview-ai-facial-recognition-settlement.html)
+- Jun 14 - [Land value tax in online games and virtual worlds](https://progressandpoverty.substack.com/p/land-value-tax-in-online-games-and)
 <!--END_SECTION:hn-->
 
 <!--
