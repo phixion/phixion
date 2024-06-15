@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 14 - [Seattle tumbles to No. 20 in global ranking of startup ecosystems](https://www.geekwire.com/2024/seattle-tumbles-to-no-20-in-global-ranking-of-startup-ecosystems/)
-- Jun 14 - [Orange FM Prototype – Analogue Pocket Demo](https://orangegb.com/orangefm/)
-- Jun 14 - [Microsoft's Recall AI feature is now indefinitely delayed](https://blogs.windows.com/windowsexperience/2024/06/07/update-on-the-recall-preview-feature-for-copilot-pcs/)
-- Jun 14 - [Boeing and Airbus may have used 'counterfeit' titanium in planes, FAA says](https://www.nbcnews.com/business/business-news/boeing-airbus-may-used-counterfeit-titanium-planes-faa-investigating-rcna157160)
-- Jun 14 - [Turning the Tables on AI](https://ia.net/topics/turning-the-tables-on-ai)
+- Jun 14 - [Exponentially Better Rotations](http://thenumb.at/Exponential-Rotations/)
+- Jun 14 - [The first 'major lunar standstill' in more than 18 years is about to occur](https://www.livescience.com/space/the-moon/the-1st-major-lunar-standstill-in-more-than-18-years-is-about-to-occur-heres-how-to-see-it)
+- Jun 14 - [AI Search: The Bitter-Er Lesson](https://yellow-apartment-148.notion.site/AI-Search-The-Bitter-er-Lesson-44c11acd27294f4495c3de778cd09c8d)
+- Jun 14 - [Aviator (YC S21) Is Hiring Engineers to Build a DevEx Platform](https://www.aviator.co/jobs)
+- Jun 14 - [The challenge of writing a on-demand transcoder](https://zoriya.dev/blogs/transcoder/)
 <!--END_SECTION:hn-->
 
 <!--
