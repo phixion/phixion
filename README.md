@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 15 - [Syzygy: An open standard for low cost, compact and high-performance peripherals](https://syzygyfpga.io/)
+- Jun 15 - [Face of ancient Australian 'giga-goose' revealed after fossil skull found](https://www.nhm.ac.uk/discover/news/2024/june/face-ancient-australian-giga-goose-revealed-after-fossil-skull-found.html)
+- Jun 15 - [Making my local LLM voice assistant faster and more scalable with RAG](https://johnthenerd.com/blog/faster-local-llm-assistant/)
+- Jun 14 - [Spaced repetition for teaching two-year olds how to read](https://chrislakin.blog/p/spaced-repetition-for-teaching-two)
 - Jun 14 - [Exponentially Better Rotations](http://thenumb.at/Exponential-Rotations/)
-- Jun 14 - [The first 'major lunar standstill' in more than 18 years is about to occur](https://www.livescience.com/space/the-moon/the-1st-major-lunar-standstill-in-more-than-18-years-is-about-to-occur-heres-how-to-see-it)
-- Jun 14 - [AI Search: The Bitter-Er Lesson](https://yellow-apartment-148.notion.site/AI-Search-The-Bitter-er-Lesson-44c11acd27294f4495c3de778cd09c8d)
-- Jun 14 - [Aviator (YC S21) Is Hiring Engineers to Build a DevEx Platform](https://www.aviator.co/jobs)
-- Jun 14 - [The challenge of writing a on-demand transcoder](https://zoriya.dev/blogs/transcoder/)
 <!--END_SECTION:hn-->
 
 <!--
