@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 15 - [Nango (YC W23) Is Hiring a Senior Product Engineer (100% Remote)](https://www.nango.dev/jobs)
-- Jun 15 - [Amazon has a secret way to scrape Microsoft's GitHub and feed its AI model](https://dataconomy.com/2024/06/14/amazon-has-a-secret-way-to-scrape-microsofts-github-and-feed-its-ai-model/)
-- Jun 15 - [Britain's 'Pompeii': UK's Largest Bronze Age Find](https://www.bbc.com/news/articles/cx8q32rj2yjo)
-- Jun 15 - [Information Security: "We Can Do It, We Just Choose Not To"](https://www.hezmatt.org/~mpalmer/blog/2024/06/14/information-security-we-can-do-it-right-we-choose-not-to.html)
-- Jun 15 - ['The big problem is water': UK ebike owners plagued by failing motors](https://www.theguardian.com/lifeandstyle/article/2024/jun/15/the-big-problem-is-water-uk-ebike-owners-plagued-by-failing-motors)
+- Jun 15 - [Useful and Overlooked Skills](https://collabfund.com/blog/useful-and-overlooked-skills/)
+- Jun 15 - [Radioactive drugs strike cancer with precision](https://knowablemagazine.org/content/article/health-disease/2024/cancer-fighting-radiopharmaceuticals-are-taking-off)
+- Jun 15 - [Nvidia CEO: One of the most 'profound learnings in my life' came from a gardener](https://www.cnbc.com/2024/06/15/nvidia-ceo-one-of-my-most-profound-learnings-came-from-a-gardener.html)
+- Jun 15 - [DARPA Shows Concepts for the Future of VTOL Uncrewed Aerial Systems](https://www.darpa.mil/news-events/2024-05-22)
+- Jun 15 - [What About libjpeg v9? (2013)](https://libjpeg-turbo.org/About/Jpeg-9)
 <!--END_SECTION:hn-->
 
 <!--
