@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 15 - [Useful and Overlooked Skills](https://collabfund.com/blog/useful-and-overlooked-skills/)
-- Jun 15 - [Radioactive drugs strike cancer with precision](https://knowablemagazine.org/content/article/health-disease/2024/cancer-fighting-radiopharmaceuticals-are-taking-off)
-- Jun 15 - [Nvidia CEO: One of the most 'profound learnings in my life' came from a gardener](https://www.cnbc.com/2024/06/15/nvidia-ceo-one-of-my-most-profound-learnings-came-from-a-gardener.html)
-- Jun 15 - [DARPA Shows Concepts for the Future of VTOL Uncrewed Aerial Systems](https://www.darpa.mil/news-events/2024-05-22)
-- Jun 15 - [What About libjpeg v9? (2013)](https://libjpeg-turbo.org/About/Jpeg-9)
+- Jun 15 - [Impulse Tracker source code now available on GitHub](https://github.com/jthlim/impulse-tracker)
+- Jun 15 - [Book: Just Enough Software Architecture](https://www.georgefairbanks.com/book/)
+- Jun 15 - [You've Read Your Last Free Article, Such Is the Nature of Mortality](https://www.mcsweeneys.net/articles/youve-read-your-last-free-article-such-is-the-nature-of-mortality)
+- Jun 15 - [Southwest flight came within 400 feet of crashing into the ocean](https://www.cnn.com/2024/06/15/us/southwest-flight-hawaii-federal-investigation/index.html)
+- Jun 15 - [Two announcements: AI for Math resources, and erdosproblems.com](https://terrytao.wordpress.com/2024/04/19/two-announcements-ai-for-math-resources-and-erdosproblems-com/)
 <!--END_SECTION:hn-->
 
 <!--
