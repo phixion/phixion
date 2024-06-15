@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 15 - [Tesla's FSD – A Useless Technology Demo](https://tomverbeure.github.io/2024/05/20/Tesla-FSD-First-and-Last-Impressions.html)
-- Jun 15 - [Voyager 1 is back online! NASA spacecraft returns data from all 4 instruments](https://www.space.com/voyager-1-fully-operational)
-- Jun 15 - [Show HN: An open source extension to block large media brands from Google search](https://github.com/hp27596/secondpage)
-- Jun 15 - [Invention to Impact: The story of LASIK eye surgery](https://new.nsf.gov/science-matters/invention-impact-story-lasik-eye-surgery)
-- Jun 15 - [Syzygy: An open standard for low cost, compact and high-performance peripherals](https://syzygyfpga.io/)
+- Jun 15 - [Nango (YC W23) Is Hiring a Senior Product Engineer (100% Remote)](https://www.nango.dev/jobs)
+- Jun 15 - [Amazon has a secret way to scrape Microsoft's GitHub and feed its AI model](https://dataconomy.com/2024/06/14/amazon-has-a-secret-way-to-scrape-microsofts-github-and-feed-its-ai-model/)
+- Jun 15 - [Britain's 'Pompeii': UK's Largest Bronze Age Find](https://www.bbc.com/news/articles/cx8q32rj2yjo)
+- Jun 15 - [Information Security: "We Can Do It, We Just Choose Not To"](https://www.hezmatt.org/~mpalmer/blog/2024/06/14/information-security-we-can-do-it-right-we-choose-not-to.html)
+- Jun 15 - ['The big problem is water': UK ebike owners plagued by failing motors](https://www.theguardian.com/lifeandstyle/article/2024/jun/15/the-big-problem-is-water-uk-ebike-owners-plagued-by-failing-motors)
 <!--END_SECTION:hn-->
 
 <!--
