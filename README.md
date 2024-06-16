@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 15 - [Impulse Tracker source code now available on GitHub](https://github.com/jthlim/impulse-tracker)
-- Jun 15 - [Book: Just Enough Software Architecture](https://www.georgefairbanks.com/book/)
-- Jun 15 - [You've Read Your Last Free Article, Such Is the Nature of Mortality](https://www.mcsweeneys.net/articles/youve-read-your-last-free-article-such-is-the-nature-of-mortality)
-- Jun 15 - [Southwest flight came within 400 feet of crashing into the ocean](https://www.cnn.com/2024/06/15/us/southwest-flight-hawaii-federal-investigation/index.html)
-- Jun 15 - [Two announcements: AI for Math resources, and erdosproblems.com](https://terrytao.wordpress.com/2024/04/19/two-announcements-ai-for-math-resources-and-erdosproblems-com/)
+- Jun 15 - [North Dakota voters just approved an age limit for congressional candidates](https://apnews.com/article/north-dakota-congressional-candidates-age-limit-b9ffa598e76bf1dd440b3fb8efd4c33b)
+- Jun 15 - [SQLite is likely used more than all other database engines combined](https://sqlite.org/mostdeployed.html)
+- Jun 15 - [Ollama v0.1.45](https://github.com/ollama/ollama/releases/tag/v0.1.45-rc1)
+- Jun 15 - [Reverse Engineering a Restaurant Pager System](https://k3xec.com/td158/)
+- Jun 15 - [Subducting plate structure and megathrust morphology at Cascadia](https://www.science.org/doi/10.1126/sciadv.adl3198)
 <!--END_SECTION:hn-->
 
 <!--
