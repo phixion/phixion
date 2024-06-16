@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 15 - [North Dakota voters just approved an age limit for congressional candidates](https://apnews.com/article/north-dakota-congressional-candidates-age-limit-b9ffa598e76bf1dd440b3fb8efd4c33b)
-- Jun 15 - [SQLite is likely used more than all other database engines combined](https://sqlite.org/mostdeployed.html)
+- Jun 16 - [Why Government Unions–Unlike Trade Unions–Corrupt Democracy](https://time.com/6267979/government-unions-corrupt-democracy/)
+- Jun 16 - [Show HN: We Made The World's Smallest and Cheapest Network Switch](https://docs.murexrobotics.com/elec/boards/networking/switch)
+- Jun 16 - [A collection of 2,299 blogs about every topic](https://ooh.directory/)
+- Jun 15 - [Google, Cloudflare and Cisco will poison DNS to stop piracy block circumvention](https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/)
 - Jun 15 - [Ollama v0.1.45](https://github.com/ollama/ollama/releases/tag/v0.1.45-rc1)
-- Jun 15 - [Reverse Engineering a Restaurant Pager System](https://k3xec.com/td158/)
-- Jun 15 - [Subducting plate structure and megathrust morphology at Cascadia](https://www.science.org/doi/10.1126/sciadv.adl3198)
 <!--END_SECTION:hn-->
 
 <!--
