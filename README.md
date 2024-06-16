@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 16 - [The Raspberry Pi 5 Is No Match for a Tini-Mini-Micro PC](https://louwrentius.com/the-raspberry-pi-5-is-no-match-for-a-tini-mini-micro-pc.html)
-- Jun 16 - [Are animals conscious? How new research is changing minds](https://www.bbc.com/news/articles/cv223z15mpmo)
-- Jun 16 - [NLRB judge declares non-compete clause is an unfair labor practice](https://www.nlrbedge.com/p/in-first-case-of-its-kind-nlrb-judge)
-- Jun 16 - [TerraPower's Natrium: A Fast Neutron Reactor with Built-In Grid Level Storage](https://hackaday.com/2021/07/06/terrapowers-natrium-combining-a-fast-neutron-reactor-with-built-in-grid-level-storage/)
-- Jun 16 - [Flesh-Eating Bacteria That Can Kill in Two Days Spreads in Japan](https://www.bloomberg.com/news/articles/2024-06-15/flesh-eating-bacteria-that-can-kill-in-two-days-spreads-in-japan)
+- Jun 16 - [Quake 1 potential original font](https://cohost.org/bekoha/post/2859948-quake-1-potential-or)
+- Jun 16 - [Experts vs. Imitators](https://fs.blog/experts-vs-imitators/)
+- Jun 16 - [Japanese Words and Names Sound African. Why?](https://www.farooqkperogi.com/2022/10/japanese-words-and-names-sound-african.html)
+- Jun 16 - [OpenAI and Microsoft Azure to deprecate GPT-4 32K](https://twitter.com/headinthebox/status/1802404482174820398)
+- Jun 16 - [How The Economist’s presidential forecast works](https://www.economist.com/interactive/us-2024-election/prediction-model/president/how-this-works)
 <!--END_SECTION:hn-->
 
 <!--
