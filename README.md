@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 16 - [Why Government Unions–Unlike Trade Unions–Corrupt Democracy](https://time.com/6267979/government-unions-corrupt-democracy/)
-- Jun 16 - [Show HN: We Made The World's Smallest and Cheapest Network Switch](https://docs.murexrobotics.com/elec/boards/networking/switch)
-- Jun 16 - [A collection of 2,299 blogs about every topic](https://ooh.directory/)
-- Jun 15 - [Google, Cloudflare and Cisco will poison DNS to stop piracy block circumvention](https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/)
-- Jun 15 - [Ollama v0.1.45](https://github.com/ollama/ollama/releases/tag/v0.1.45-rc1)
+- Jun 16 - [Making my first embedded Linux system](https://popovicu.com/posts/making-my-first-embedded-linux-system/)
+- Jun 16 - [Show HN: I made first declaritive SVG,canvas framework](https://flitter.pages.dev)
+- Jun 16 - [Harvard Railroad Economics Exam (1906)](https://www.irwincollier.com/harvard-enrollment-and-final-exam-for-railroad-practice-daggett-1906-1907/)
+- Jun 16 - [Show HN: Paste2Download – No Login, No Ads, Download Videos Watermark Free](https://www.paste2download.com/)
+- Jun 16 - [What You Get After Running an SSH Honeypot for 30 Days](https://blog.sofiane.cc/ssh_honeypot/)
 <!--END_SECTION:hn-->
 
 <!--
