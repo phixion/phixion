@@ -7,7 +7,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
 - Jun 17 - [Zadig & Voltaire - 586,895 breached accounts](https://haveibeenpwned.com/PwnedWebsites#ZadigVoltaire)
-- Jun 03 - [Telegram Combolists - 361,468,099 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Combolists%20Posted%20to%20Telegram)
+- Jun 03 - [Combolists Posted to Telegram - 361,468,099 breached accounts](https://haveibeenpwned.com/PwnedWebsites#TelegramCombolists)
 - May 30 - [Operation Endgame - 16,466,858 breached accounts](https://haveibeenpwned.com/PwnedWebsites#OperationEndgame)
 - May 25 - [pcTattletale - 138,751 breached accounts](https://haveibeenpwned.com/PwnedWebsites#pcTattletale)
 - May 23 - [Dota2 - 1,907,205 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Dota2)
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 17 - [Backdoor in D-Link routers enables telnet access](https://supportannouncement.us.dlink.com/security/publication.aspx?name=SAP10398)
-- Jun 17 - [McDonald's is ending its drive-thru AI test](https://www.restaurantbusinessonline.com/technology/mcdonalds-ending-its-drive-thru-ai-test)
-- Jun 17 - [Being laid off and unplanned entrepreneurship](https://www.deepsouthventures.com/on-being-laid-off-unplanned-entrepreneurship/)
-- Jun 17 - [Don't store your cucumbers in the fridge](https://www.rootsimple.com/2012/06/dont-store-your-cucumbers-in-the-fridge/)
-- Jun 17 - [Commercial perovskite solar modules at SNEC 2024 trade show](https://www.pv-magazine.com/2024/06/13/commercial-perovskite-solar-modules-at-snec-2024-trade-show/)
+- Jun 17 - [NASA again delays Boeing Starliner's return home](https://phys.org/news/2024-06-nasa-delays-boeing-starliner-home.html)
+- Jun 17 - [Crossing the Impossible FFI Boundary, and My Gradual Descent into Madness](https://verdagon.dev/blog/exploring-seamless-rust-interop-part-2)
+- Jun 17 - [BYD and CATL aim to launch new EV batteries with 6C charge rate](https://www.teslarati.com/byd-catl-6c-charge-rate-electric-vehicle-battery/)
+- Jun 17 - [A Day in the Life of a California Fast-Food Manager Who Makes $174,000 a Year](https://www.wsj.com/business/hospitality/a-day-in-the-life-of-a-california-fast-food-manager-who-makes-174-000-a-year-15f81393)
+- Jun 17 - [Group of 17 London secondary schools join up to go smartphone-free](https://www.theguardian.com/technology/article/2024/jun/06/group-of-17-london-secondary-schools-join-up-to-go-smartphone-free)
 <!--END_SECTION:hn-->
 
 <!--
