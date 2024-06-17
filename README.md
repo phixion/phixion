@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 16 - [Quake 1 potential original font](https://cohost.org/bekoha/post/2859948-quake-1-potential-or)
-- Jun 16 - [Experts vs. Imitators](https://fs.blog/experts-vs-imitators/)
-- Jun 16 - [Japanese Words and Names Sound African. Why?](https://www.farooqkperogi.com/2022/10/japanese-words-and-names-sound-african.html)
-- Jun 16 - [OpenAI and Microsoft Azure to deprecate GPT-4 32K](https://twitter.com/headinthebox/status/1802404482174820398)
-- Jun 16 - [How The Economist’s presidential forecast works](https://www.economist.com/interactive/us-2024-election/prediction-model/president/how-this-works)
+- Jun 16 - [Maintaining large-scale AI capacity at Meta](https://engineering.fb.com/2024/06/12/production-engineering/maintaining-large-scale-ai-capacity-meta/)
+- Jun 16 - [Starlark Language](https://github.com/bazelbuild/starlark)
+- Jun 16 - [Roger Linn reviews MPC Live 2](https://www.youtube.com/watch?v=0bhSWwf-i1k)
+- Jun 16 - [To see is to forget the name of the thing one sees](https://geopolicraticus.wordpress.com/2009/08/21/to-see-is-to-forget-the-name-of-the-thing-one-sees/)
+- Jun 16 - [Show HN: SQLite Database Explorer](https://github.com/frectonz/sqlite-studio)
 <!--END_SECTION:hn-->
 
 <!--
