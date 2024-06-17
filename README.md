@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 17 - [Developer Takes 'Retro' Concept to New Level by Creating Physical Winamp Player](https://www.xatakaon.com/makers/a-developer-has-just-taken-the-concept-of-retro-to-a-new-level-by-creating-a-physical-winamp-player)
-- Jun 17 - [How Innovative Is China in Nuclear Power?](https://itif.org/publications/2024/06/17/how-innovative-is-china-in-nuclear-power/)
-- Jun 17 - [The time keepers: pg_cron and pg_timetable](https://notso.boringsql.com/posts/time-keepers-pg-cron-pg-timetable/)
-- Jun 17 - [Firezone (YC W22) Is Hiring a Senior Rust Engineer (Mountain View)](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-rust-engineer-systems)
-- Jun 17 - [Meta won't train AI on Euro posts after all, as watchdogs put their paws down](https://www.theregister.com/2024/06/14/meta_eu_privacy/)
+- Jun 17 - [Backdoor in D-Link routers enables telnet access](https://supportannouncement.us.dlink.com/security/publication.aspx?name=SAP10398)
+- Jun 17 - [McDonald's is ending its drive-thru AI test](https://www.restaurantbusinessonline.com/technology/mcdonalds-ending-its-drive-thru-ai-test)
+- Jun 17 - [Being laid off and unplanned entrepreneurship](https://www.deepsouthventures.com/on-being-laid-off-unplanned-entrepreneurship/)
+- Jun 17 - [Don't store your cucumbers in the fridge](https://www.rootsimple.com/2012/06/dont-store-your-cucumbers-in-the-fridge/)
+- Jun 17 - [Commercial perovskite solar modules at SNEC 2024 trade show](https://www.pv-magazine.com/2024/06/13/commercial-perovskite-solar-modules-at-snec-2024-trade-show/)
 <!--END_SECTION:hn-->
 
 <!--
