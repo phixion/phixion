@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 17 - [NASA again delays Boeing Starliner's return home](https://phys.org/news/2024-06-nasa-delays-boeing-starliner-home.html)
-- Jun 17 - [Crossing the Impossible FFI Boundary, and My Gradual Descent into Madness](https://verdagon.dev/blog/exploring-seamless-rust-interop-part-2)
-- Jun 17 - [BYD and CATL aim to launch new EV batteries with 6C charge rate](https://www.teslarati.com/byd-catl-6c-charge-rate-electric-vehicle-battery/)
-- Jun 17 - [A Day in the Life of a California Fast-Food Manager Who Makes $174,000 a Year](https://www.wsj.com/business/hospitality/a-day-in-the-life-of-a-california-fast-food-manager-who-makes-174-000-a-year-15f81393)
-- Jun 17 - [Group of 17 London secondary schools join up to go smartphone-free](https://www.theguardian.com/technology/article/2024/jun/06/group-of-17-london-secondary-schools-join-up-to-go-smartphone-free)
+- Jun 17 - [Sei pays out $2M bug bounty](https://usmannkhan.com/bug%20reports/2024/06/17/sei-bug-report.html)
+- Jun 17 - [How to Minimize Your Exposure to Microplastics](https://www.nytimes.com/2024/06/07/well/microplastics-health.html)
+- Jun 17 - [Wired Amazon-Powered AI Cameras Used to Detect Emotions of UK Train Passengers](https://www.wired.com/story/amazon-ai-cameras-emotions-uk-train-passengers/)
+- Jun 17 - [Htmx 2.0.0 has been released](https://htmx.org/posts/2024-06-17-htmx-2-0-0-is-released/)
+- Jun 17 - [Unskilled and unaware: Misjudgments rise with overconfidence in low performers](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1252520/full)
 <!--END_SECTION:hn-->
 
 <!--
