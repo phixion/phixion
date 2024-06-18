@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 17 - [Sei pays out $2M bug bounty](https://usmannkhan.com/bug%20reports/2024/06/17/sei-bug-report.html)
-- Jun 17 - [How to Minimize Your Exposure to Microplastics](https://www.nytimes.com/2024/06/07/well/microplastics-health.html)
-- Jun 17 - [Wired Amazon-Powered AI Cameras Used to Detect Emotions of UK Train Passengers](https://www.wired.com/story/amazon-ai-cameras-emotions-uk-train-passengers/)
-- Jun 17 - [Htmx 2.0.0 has been released](https://htmx.org/posts/2024-06-17-htmx-2-0-0-is-released/)
-- Jun 17 - [Unskilled and unaware: Misjudgments rise with overconfidence in low performers](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1252520/full)
+- Jun 17 - [Intel-undervolt: CPU undervolting and throttling configuration tool for Linux](https://github.com/kitsunyan/intel-undervolt)
+- Jun 17 - [Intel Details Skymont](https://chipsandcheese.com/2024/06/15/intel-details-skymont/)
+- Jun 17 - [Tsutomu Yamaguchi – A man who survived both atomic bombings (2023)](https://www.biography.com/history-culture/a44577392/tsutomu-yamaguchi-hiroshima-and-nagasaki-bombing-survivor)
+- Jun 17 - [A Note on Essential Complexity](https://olano.dev/blog/a-note-on-essential-complexity)
+- Jun 17 - [Three of Vietnam's five undersea internet cables are down](https://www.reuters.com/world/asia-pacific/three-vietnams-five-undersea-internet-cables-are-down-2024-06-17/)
 <!--END_SECTION:hn-->
 
 <!--
