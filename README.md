@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 18 - [A Hollywood star lobbies the EU for more surveillance](https://netzpolitik.org/2022/dude-wheres-my-privacy-how-a-hollywood-star-lobbies-the-eu-for-more-surveillance/)
-- Jun 18 - [Understanding the Misunderstood Kessler Syndrome](https://aerospaceamerica.aiaa.org/features/understanding-the-misunderstood-kessler-syndrome/)
-- Jun 18 - [Chat Control: Incompatible with Fundamental Rights](https://freiheitsrechte.org/en/themen/digitale-grundrechte/chatkontrolle)
-- Jun 18 - [Chat Control Must Be Stopped – Now](https://threema.ch/en/blog/posts/stop-chat-control)
-- Jun 18 - [Cyber Scarecrow, making your computer look 'scary' to malware](https://www.cyberscarecrow.com/)
+- Jun 18 - [Solid-state battery with 100x energy density could be used in Apple devices](https://9to5mac.com/2024/06/18/solid-state-battery-tdk/)
+- Jun 18 - [Framework: A new RISC-V Mainboard from DeepComputing](https://frame.work/fr/en/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing)
+- Jun 18 - [Framework: A new RISC-V Mainboard from DeepComputing](https://frame.work/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing)
+- Jun 18 - [A New Look: Solar Plant Prospection with Automated Viewshed Analysis](https://www.go-inicio.com/blog/a-new-look-revolutionizing-solar-plant-prospection-with-automated-viewshed-analysis)
+- Jun 18 - [Visualizing Data on a Mesh with Displacement Mapping in R](https://www.tylermw.com/posts/rayverse/displacement-mapping.html)
 <!--END_SECTION:hn-->
 
 <!--
