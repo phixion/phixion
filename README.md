@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 18 - [Will We Run Out of Data? Limits of LLM Scaling Based on Human-Generated Data](https://epochai.org/blog/will-we-run-out-of-data-limits-of-llm-scaling-based-on-human-generated-data)
+- Jun 18 - [The upcoming iterator design for Go 1.23](https://www.gingerbill.org/article/2024/06/17/go-iterator-design/)
 - Jun 17 - [Intel-undervolt: CPU undervolting and throttling configuration tool for Linux](https://github.com/kitsunyan/intel-undervolt)
-- Jun 17 - [Intel Details Skymont](https://chipsandcheese.com/2024/06/15/intel-details-skymont/)
+- Jun 17 - [Intel details Skymont](https://chipsandcheese.com/2024/06/15/intel-details-skymont/)
 - Jun 17 - [Tsutomu Yamaguchi – A man who survived both atomic bombings (2023)](https://www.biography.com/history-culture/a44577392/tsutomu-yamaguchi-hiroshima-and-nagasaki-bombing-survivor)
-- Jun 17 - [A Note on Essential Complexity](https://olano.dev/blog/a-note-on-essential-complexity)
-- Jun 17 - [Three of Vietnam's five undersea internet cables are down](https://www.reuters.com/world/asia-pacific/three-vietnams-five-undersea-internet-cables-are-down-2024-06-17/)
 <!--END_SECTION:hn-->
 
 <!--
