@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 18 - [Creating a Doom-style 3D engine in C [video]](https://www.youtube.com/watch?v=HQYsFshbkYw)
+- Jun 18 - [What happens to latency if service time is cut in half](https://pveentjer.github.io/misc/2022/04/18/service-time-cut-in-half.html)
+- Jun 18 - [The Public Interest Internet, by Robin Berjon](https://berjon.com/public-interest-internet/)
+- Jun 18 - [Every Way to Get Structured Output from LLMs](https://www.boundaryml.com/blog/structured-output-from-llms)
 - Jun 18 - [Will We Run Out of Data? Limits of LLM Scaling Based on Human-Generated Data](https://epochai.org/blog/will-we-run-out-of-data-limits-of-llm-scaling-based-on-human-generated-data)
-- Jun 18 - [The upcoming iterator design for Go 1.23](https://www.gingerbill.org/article/2024/06/17/go-iterator-design/)
-- Jun 17 - [Intel-undervolt: CPU undervolting and throttling configuration tool for Linux](https://github.com/kitsunyan/intel-undervolt)
-- Jun 17 - [Intel details Skymont](https://chipsandcheese.com/2024/06/15/intel-details-skymont/)
-- Jun 17 - [Tsutomu Yamaguchi – A man who survived both atomic bombings (2023)](https://www.biography.com/history-culture/a44577392/tsutomu-yamaguchi-hiroshima-and-nagasaki-bombing-survivor)
 <!--END_SECTION:hn-->
 
 <!--
