@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 18 - [Solid-state battery with 100x energy density could be used in Apple devices](https://9to5mac.com/2024/06/18/solid-state-battery-tdk/)
-- Jun 18 - [Framework: A new RISC-V Mainboard from DeepComputing](https://frame.work/fr/en/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing)
-- Jun 18 - [Framework: A new RISC-V Mainboard from DeepComputing](https://frame.work/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing)
-- Jun 18 - [A New Look: Solar Plant Prospection with Automated Viewshed Analysis](https://www.go-inicio.com/blog/a-new-look-revolutionizing-solar-plant-prospection-with-automated-viewshed-analysis)
-- Jun 18 - [Visualizing Data on a Mesh with Displacement Mapping in R](https://www.tylermw.com/posts/rayverse/displacement-mapping.html)
+- Jun 18 - [Translate Datadog Metrics into OTLP](https://grafana.com/blog/2024/06/18/translate-datadog-metrics-into-otlp-with-the-opentelemetry-collector-and-grafana-alloy/)
+- Jun 18 - [Nature retracts paper that claimed adult stem cell could become any type of cell](https://retractionwatch.com/2024/06/18/nature-retracts-highly-cited-2002-paper-that-claimed-adult-stem-cells-could-become-any-type-of-cell/)
+- Jun 18 - [Electricity prices in France turn negative as renewable energy floods the grid](https://fortune.com/2024/06/16/electricity-prices-france-negative-renewable-energy-supply-solar-power-wind-turbines/)
+- Jun 18 - [Ask HN: Tell me your stories of taking lower paid work to be happier](https://news.ycombinator.com/item?id=40720121)
+- Jun 18 - [3D Gaussian Splatting as Markov Chain Monte Carlo](https://ubc-vision.github.io/3dgs-mcmc/)
 <!--END_SECTION:hn-->
 
 <!--
