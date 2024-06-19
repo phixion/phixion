@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 19 - [The Power Behind Apple's M4 SoC](https://www.techinsights.com/blog/introducing-tsmc-n3e-power-behind-apples-m4-soc)
-- Jun 19 - [New UNESCO report warns that Generative AI threatens Holocaust memory](https://www.unesco.org/en/articles/new-unesco-report-warns-generative-ai-threatens-holocaust-memory)
-- Jun 19 - [ExectOS – brand new operating system which derives from NT architecture](https://exectos.eu.org/)
-- Jun 19 - [Fern Hollow Bridge should have been closed years before it collapsed](https://practical.engineering/blog/2024/6/18/this-bridge-should-have-been-closed-years-before-it-collapsed)
-- Jun 19 - [Ask HN: Who has had a successful PWA product?](https://news.ycombinator.com/item?id=40724774)
+- Jun 19 - [Ribbon Health (YC S17) Is Hiring a Sales Eng Director for Enterprises](https://www.ribbonhealth.com/open-roles?gh_jid=5179134004)
+- Jun 19 - [Astronomers see a black hole awaken in real time](https://www.eso.org/public/germany/news/eso2409/)
+- Jun 19 - [Neofetch developer archives all his repositories: "Have taken up farming"](https://github.com/dylanaraps)
+- Jun 19 - [Boeing Sent Two Astronauts into Space. Now It Needs to Get Them Home](https://www.wsj.com/science/space-astronomy/boeing-sent-two-astronauts-into-space-now-it-needs-to-get-them-home-99d96633)
+- Jun 19 - [Boeing CEO blasted by Senate: 'It's a travesty that you are still in your job'](https://www.cnbc.com/2024/06/18/boeing-ceo-dave-calhoun-senate-hearing.html)
 <!--END_SECTION:hn-->
 
 <!--
