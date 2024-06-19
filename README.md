@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 19 - [Ribbon Health (YC S17) Is Hiring a Sales Eng Director for Enterprises](https://www.ribbonhealth.com/open-roles?gh_jid=5179134004)
-- Jun 19 - [Astronomers see a black hole awaken in real time](https://www.eso.org/public/germany/news/eso2409/)
-- Jun 19 - [Neofetch developer archives all his repositories: "Have taken up farming"](https://github.com/dylanaraps)
-- Jun 19 - [Boeing Sent Two Astronauts into Space. Now It Needs to Get Them Home](https://www.wsj.com/science/space-astronomy/boeing-sent-two-astronauts-into-space-now-it-needs-to-get-them-home-99d96633)
-- Jun 19 - [Boeing CEO blasted by Senate: 'It's a travesty that you are still in your job'](https://www.cnbc.com/2024/06/18/boeing-ceo-dave-calhoun-senate-hearing.html)
+- Jun 19 - [Campaigns Can Now See What You Watch on TV](https://www.notus.org/2024-election/streaming-tv-campaign-ads)
+- Jun 19 - [Arvind, longtime MIT professor and prolific computer scientist, dies at 77](https://news.mit.edu/2024/computer-science-professor-arvind-dies-0618)
+- Jun 19 - [Mrs Perkins's Quilt (2017)](http://www.squaring.net/quilts/mrs-perkins-quilts.html)
+- Jun 19 - [Can holographic optical storage displace Hard Disk Drives?](https://www.nature.com/articles/s44172-024-00225-0)
+- Jun 19 - [Recovering an Agilent 2000A/3000A Oscilloscope with Corrupt Firmware NAND Flash](https://salvagedcircuitry.com/2000a-nand-recovery.html)
 <!--END_SECTION:hn-->
 
 <!--
