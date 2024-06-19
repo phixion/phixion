@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 18 - [Reports: Apple is halting its next high-end Vision in favor of something cheaper](https://arstechnica.com/gadgets/2024/06/apple-is-reportedly-shifting-its-next-vision-headset-to-a-cheaper-model/)
-- Jun 18 - [Donating clothes is contributing to Africa's 'mitumba' problem](https://www.washingtonpost.com/opinions/2024/05/22/clothes-donations-africa-kenya-waste/)
-- Jun 18 - [IPC in Rust – A Ping Pong Comparison](https://3tilley.github.io/posts/simple-ipc-ping-pong/)
-- Jun 18 - [Advanced Shell Scripting Techniques: Automating Complex Tasks with Bash](https://omid.dev/2024/06/19/advanced-shell-scripting-techniques-automating-complex-tasks-with-bash/)
-- Jun 18 - [Hadrius (YC W23) is hiring engineers looking to grow into future founders](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
+- Jun 19 - [Google Gemini tried to kill me](https://old.reddit.com/r/ChatGPT/comments/1diljf2/google_gemini_tried_to_kill_me/)
+- Jun 19 - [U.S. Senate passes bill to support advanced nuclear energy deployment](https://www.reuters.com/business/energy/us-senate-passes-bill-support-advanced-nuclear-energy-deployment-2024-06-19/)
+- Jun 19 - [Willie Mays, SF Giants legend and MLB all-time great, is dead](https://www.sfchronicle.com/sports/giants/article/willie-mays-dead-obituary-17815215.php)
+- Jun 19 - [One in four US households likely exceed new soil lead guidance levels](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GH001045)
+- Jun 19 - [Open Source Python ETL](https://amphi.ai/)
 <!--END_SECTION:hn-->
 
 <!--
