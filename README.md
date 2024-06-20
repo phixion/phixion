@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 19 - [Discovery of new white blood cell function](https://www.cam.ac.uk/research/news/discovery-of-new-rules-of-the-immune-system-could-improve-treatment-of-inflammatory-diseases-say)
-- Jun 19 - [Stages of Argument (2000)](http://legacy.earlham.edu/~peters/courses/argstages.htm)
-- Jun 19 - [Show HN: Modular Pi Cam](https://github.com/jdc-cunningham/modular-pi-cam/tree/master/cameras/pi-zero/large-display)
-- Jun 19 - [F (2006)](http://www.nsl.com/k/f/f.htm)
-- Jun 19 - [Safe Superintelligence Inc.](https://ssi.inc)
+- Jun 19 - [The other side of Formula 1: Barcelona residents protest for race-car exhibition](https://www.elnacional.cat/en/news/formula-1-barcelona-residents-protest-city-race-car-exhibition_1238607_102.html)
+- Jun 19 - [Hypermedia Systems](https://hypermedia.systems/)
+- Jun 19 - [An 'Algorithm' Turned Apartment Pools Green](https://prospect.org/infrastructure/housing/2024-06-18-how-algorithm-turned-apartment-pools-green/)
+- Jun 19 - [Unique3D: Image-to-3D Generation from a Single Image in 30 seconds](https://github.com/AiuniAI/Unique3D)
+- Jun 19 - [Zep AI (YC W24) is hiring back end engineers to build LLM long-term memory](https://www.ycombinator.com/companies/zep-ai/jobs/J5TD9KW-backend-engineer)
 <!--END_SECTION:hn-->
 
 <!--
