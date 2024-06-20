@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 20 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- Jun 20 - [Battery electric vehicles lose their spark in Europe as hybrids steal the show](https://www.theregister.com/2024/06/20/bev_market_share_eu/)
-- Jun 20 - [Curl is inside 22,734 Steam games](https://daniel.haxx.se/blog/2024/06/20/inside-22734-steam-games/)
-- Jun 20 - [Tetris as Font](https://erikdemaine.org/fonts/tetris/)
-- Jun 20 - [Drugmaker to testify on why weight-loss drugs cost 15x more in the US](https://arstechnica.com/science/2024/06/drugmaker-ceo-to-testify-on-outrageously-priced-weight-loss-drugs/)
+- Jun 20 - [Kraken claims it is being 'extorted' as hacker demands reward after $3M theft](https://cryptobriefing.com/kraken-extortion-claims-white-hat-3m/)
+- Jun 20 - [Roblox has ported the entire front end JavaScript stack to Lua](https://twitter.com/zack_overflow/status/1803612884196532432)
+- Jun 20 - [Author Finds Another's Name on an Elsevier Book Chapter She Wrote](https://retractionwatch.com/2024/06/20/exhausting-author-finds-anothers-name-on-an-elsevier-book-chapter-she-wrote/)
+- Jun 20 - [Oracle Java license teams set to begin targeting unknowing Oracle users](https://www.theregister.com/2024/06/20/oracle_java_licence_teams/)
+- Jun 20 - [Atkinson Dithering](https://beyondloom.com/blog/dither.html)
 <!--END_SECTION:hn-->
 
 <!--
