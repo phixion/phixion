@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 20 - [Kraken claims it is being 'extorted' as hacker demands reward after $3M theft](https://cryptobriefing.com/kraken-extortion-claims-white-hat-3m/)
-- Jun 20 - [Roblox has ported the entire front end JavaScript stack to Lua](https://twitter.com/zack_overflow/status/1803612884196532432)
-- Jun 20 - [Author Finds Another's Name on an Elsevier Book Chapter She Wrote](https://retractionwatch.com/2024/06/20/exhausting-author-finds-anothers-name-on-an-elsevier-book-chapter-she-wrote/)
-- Jun 20 - [Oracle Java license teams set to begin targeting unknowing Oracle users](https://www.theregister.com/2024/06/20/oracle_java_licence_teams/)
-- Jun 20 - [Atkinson Dithering](https://beyondloom.com/blog/dither.html)
+- Jun 20 - [Inventions you didn't know came from Waterloo](https://uwaterloo.ca/news/10-inventions-you-didnt-know-came-waterloo)
+- Jun 20 - [Gilead Shot Prevents All HIV Cases in Trial of African Women](https://www.bloomberg.com/news/articles/2024-06-20/gilead-shot-prevents-100-of-hiv-cases-in-trial-of-african-women)
+- Jun 20 - [More Disabled Americans Are Employed, Thanks to Remote Work](https://www.bloomberg.com/news/articles/2024-06-20/remote-work-helps-more-people-with-disabilities-get-employed)
+- Jun 20 - [Fuzz Map](https://www.fuzzmap.io/)
+- Jun 20 - [Many people don't pay full price, most don't want to pay at all for news](https://www.niemanlab.org/2024/06/many-people-dont-pay-full-price-for-their-news-subscription-most-dont-want-to-pay-anything-at-all/)
 <!--END_SECTION:hn-->
 
 <!--
