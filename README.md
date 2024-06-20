@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 20 - [Zig vs. Rust at work: the choice we made](https://ludwigabap.bearblog.dev/zig-vs-rust-at-work-the-choice-we-made/)
-- Jun 20 - [Protecting Children's Safety Requires End-to-End Encryption](https://simplex.chat/blog/20240601-protecting-children-safety-requires-e2e-encryption.html)
-- Jun 20 - [EU says Apple has serious issues for not complying with DMA](https://9to5mac.com/2024/06/19/eu-apple-issues-dma/)
-- Jun 20 - [What Is a Personal User Manual?](https://futureforum.com/2022/07/15/personal-user-manual/)
-- Jun 20 - [Rosser's Theorem via Turing Machines (2011)](https://scottaaronson.blog/?p=710)
+- Jun 20 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- Jun 20 - [Battery electric vehicles lose their spark in Europe as hybrids steal the show](https://www.theregister.com/2024/06/20/bev_market_share_eu/)
+- Jun 20 - [Curl is inside 22,734 Steam games](https://daniel.haxx.se/blog/2024/06/20/inside-22734-steam-games/)
+- Jun 20 - [Tetris as Font](https://erikdemaine.org/fonts/tetris/)
+- Jun 20 - [Drugmaker to testify on why weight-loss drugs cost 15x more in the US](https://arstechnica.com/science/2024/06/drugmaker-ceo-to-testify-on-outrageously-priced-weight-loss-drugs/)
 <!--END_SECTION:hn-->
 
 <!--
