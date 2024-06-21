@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 21 - [Athelas (YC S16) Is Hiring a Senior Full-Stack Software Engineer](https://www.athelas.com/careers?ashby_jid=55c6a105-80be-40b1-8644-cd44f48f1d08)
-- Jun 21 - [Microsoft makes Copilot less useful on new Copilot Plus PCs](https://www.theverge.com/2024/6/21/24182979/microsoft-copilot-key-keyboard-shortcut-pwa)
-- Jun 21 - [The Engineer Who Refused to Approve the Challenger Launch](https://www.npr.org/2021/03/07/974534021/remembering-allan-mcdonald-he-refused-to-approve-challenger-launch-exposed-cover)
-- Jun 21 - [Pornhub prepares to block five more states rather than check IDs](https://arstechnica.com/tech-policy/2024/06/adult-sites-blocking-more-states-this-summer-to-protest-age-verification-laws/)
-- Jun 21 - [Starlink Mini brings space internet to backpackers](https://www.theverge.com/2024/6/21/24182970/starlink-mini-usb-power-specs-price)
+- Jun 21 - [Ask HN: Midlife crisis, which direction to go with?](https://news.ycombinator.com/item?id=40750423)
+- Jun 21 - [How the Square Root of 2 Became a Number](https://www.quantamagazine.org/how-the-square-root-of-2-became-a-number-20240621/)
+- Jun 21 - [Twitter and the Spread of Academic Knowledge](https://mattsclancy.substack.com/p/twitter-and-the-spread-of-academic)
+- Jun 21 - [Innovation heroes are a sign of a dysfunctional organization](https://steveblank.substack.com/p/why-innovation-heroes-are-a-sign)
+- Jun 21 - [How does a computer/calculator compute logarithms?](https://zachartrand.github.io/SoME-3-Living/)
 <!--END_SECTION:hn-->
 
 <!--
