@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 21 - [Birth rates halve in richer countries as costs weigh, OECD report says](https://www.reuters.com/world/birth-rates-halve-richer-countries-costs-weigh-oecd-report-says-2024-06-20/)
+- Jun 21 - [Is Kotlin Multiplatform Replacing Flutter?](https://news.ycombinator.com/item?id=40746826)
+- Jun 21 - [Ladybird browser spreads its wings](https://lwn.net/Articles/976822/)
+- Jun 21 - [US Bans Kaspersky Software](https://www.wired.com/story/us-bans-kaspersky-software/)
+- Jun 21 - [MeshAnything – converts 3D representations into efficient 3D meshes](https://buaacyw.github.io/mesh-anything/)
 - Jun 21 - [Bomb Jack display hardware](https://github.com/martinpiper/BombJack/blob/master/README.md)
-- Jun 20 - [How we made the Deno language server faster](https://deno.com/blog/optimizing-our-lsp)
-- Jun 20 - [How babies and young children learn to understand language](https://lithub.com/how-babies-and-young-children-learn-to-understand-language/)
-- Jun 20 - [Show HN: Local voice assistant using Ollama, transformers and Coqui TTS toolkit](https://github.com/mezbaul-h/june)
 <!--END_SECTION:hn-->
 
 <!--
