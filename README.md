@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 20 - [Inventions you didn't know came from Waterloo](https://uwaterloo.ca/news/10-inventions-you-didnt-know-came-waterloo)
-- Jun 20 - [Gilead Shot Prevents All HIV Cases in Trial of African Women](https://www.bloomberg.com/news/articles/2024-06-20/gilead-shot-prevents-100-of-hiv-cases-in-trial-of-african-women)
-- Jun 20 - [More Disabled Americans Are Employed, Thanks to Remote Work](https://www.bloomberg.com/news/articles/2024-06-20/remote-work-helps-more-people-with-disabilities-get-employed)
-- Jun 20 - [Fuzz Map](https://www.fuzzmap.io/)
-- Jun 20 - [Many people don't pay full price, most don't want to pay at all for news](https://www.niemanlab.org/2024/06/many-people-dont-pay-full-price-for-their-news-subscription-most-dont-want-to-pay-anything-at-all/)
+- Jun 20 - [Babies and Young Children Learn to Understand Language](https://lithub.com/how-babies-and-young-children-learn-to-understand-language/)
+- Jun 20 - [Tim O’Reilly: How to Fix "AI's Original Sin"](https://www.oreilly.com/radar/how-to-fix-ais-original-sin/)
+- Jun 20 - [New York Establishes Stringent Protections to Safeguard Kids on Social Media](https://www.governor.ny.gov/news/governor-hochul-joins-attorney-general-james-and-bill-sponsors-sign-nation-leading-legislation)
+- Jun 20 - [Promoted.ai (YC W21) Is Hiring a Sales Engineer](https://www.ycombinator.com/companies/promoted/jobs/5moymju-sales-engineer-new-grad)
+- Jun 20 - [What is ZIRP, and how did it impact the startup world?](https://www.ycombinator.com/blog/what-is-zirp-and-how-did-it-impact-the-startup-world/)
 <!--END_SECTION:hn-->
 
 <!--
