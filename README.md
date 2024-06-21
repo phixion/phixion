@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 21 - [Ask HN: Midlife crisis, which direction to go with?](https://news.ycombinator.com/item?id=40750423)
-- Jun 21 - [How the Square Root of 2 Became a Number](https://www.quantamagazine.org/how-the-square-root-of-2-became-a-number-20240621/)
-- Jun 21 - [Twitter and the Spread of Academic Knowledge](https://mattsclancy.substack.com/p/twitter-and-the-spread-of-academic)
-- Jun 21 - [Innovation heroes are a sign of a dysfunctional organization](https://steveblank.substack.com/p/why-innovation-heroes-are-a-sign)
-- Jun 21 - [How does a computer/calculator compute logarithms?](https://zachartrand.github.io/SoME-3-Living/)
+- Jun 21 - [Ontario Science Centre to close immediately](https://www.cbc.ca/news/canada/toronto/ontario-science-centre-closing-roof-1.7242810)
+- Jun 21 - [Climate Zones](https://pudding.cool/2024/06/climate-zones/)
+- Jun 21 - [Barcelona will eliminate tourist apartments](https://www.theolivepress.es/spain-news/2024/06/21/breaking-barcelona-will-remove-all-tourist-apartments-in-2028-in-huge-win-for-anti-tourism-activists/)
+- Jun 21 - [TSMC experimenting with rectangular wafers vs. round for more chips per wafer](https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-explores-radical-new-chip-packaging-approach-to-feed-AI-boom)
+- Jun 21 - [Migrating from Java 8 to Java 17: A Comprehensive Guide to New Features](https://igorstechnoclub.com/upgrading-to-java-17-a-comprehensive-guide-to-new-features/)
 <!--END_SECTION:hn-->
 
 <!--
