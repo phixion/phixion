@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 20 - [Babies and Young Children Learn to Understand Language](https://lithub.com/how-babies-and-young-children-learn-to-understand-language/)
-- Jun 20 - [Tim O’Reilly: How to Fix "AI's Original Sin"](https://www.oreilly.com/radar/how-to-fix-ais-original-sin/)
-- Jun 20 - [New York Establishes Stringent Protections to Safeguard Kids on Social Media](https://www.governor.ny.gov/news/governor-hochul-joins-attorney-general-james-and-bill-sponsors-sign-nation-leading-legislation)
-- Jun 20 - [Promoted.ai (YC W21) Is Hiring a Sales Engineer](https://www.ycombinator.com/companies/promoted/jobs/5moymju-sales-engineer-new-grad)
-- Jun 20 - [What is ZIRP, and how did it impact the startup world?](https://www.ycombinator.com/blog/what-is-zirp-and-how-did-it-impact-the-startup-world/)
+- Jun 21 - [Birth rates halve in richer countries as costs weigh, OECD report says](https://www.reuters.com/world/birth-rates-halve-richer-countries-costs-weigh-oecd-report-says-2024-06-20/)
+- Jun 21 - [Bomb Jack display hardware](https://github.com/martinpiper/BombJack/blob/master/README.md)
+- Jun 20 - [How we made the Deno language server faster](https://deno.com/blog/optimizing-our-lsp)
+- Jun 20 - [How babies and young children learn to understand language](https://lithub.com/how-babies-and-young-children-learn-to-understand-language/)
+- Jun 20 - [Show HN: Local voice assistant using Ollama, transformers and Coqui TTS toolkit](https://github.com/mezbaul-h/june)
 <!--END_SECTION:hn-->
 
 <!--
