@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 21 - [Daylight Computer tablet review](https://twitter.com/patio11/status/1804217931557171612)
-- Jun 21 - [Internet Archive forced to remove 500k books after publishers' court win](https://arstechnica.com/tech-policy/2024/06/internet-archive-forced-to-remove-500000-books-after-publishers-court-win/)
-- Jun 21 - [Solving puzzles faster than humanly possible](https://biggieblog.com/solving-puzzles-faster-than-humanly-possible/)
-- Jun 21 - [Hope without optimism – transcription of a talk by Dave Snowden (2022)](https://gist.github.com/owulveryck/4ac8c96c16f5a48de24f8a0e949ad9a5)
-- Jun 21 - [Emerge Tools (YC W21) is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
+- Jun 22 - [Farm: Fast vite compatible build tool written in Rust](https://www.farmfe.org/)
+- Jun 22 - [NASA indefinitely delays return of Starliner to review propulsion data](https://arstechnica.com/space/2024/06/nasa-indefinitely-delays-return-of-starliner-to-review-propulsion-data/)
+- Jun 22 - [A Forth Story (1995)](https://groups.google.com/g/comp.lang.forth/c/ThWiGXwKqv4)
+- Jun 22 - [Researchers describe how to tell if ChatGPT is confabulating](https://arstechnica.com/ai/2024/06/researchers-describe-how-to-tell-if-chatgpt-is-confabulating/)
+- Jun 22 - [OWASP Juice Shop: Hacking a Modern Web Application](https://blog.javascripttoday.com/blog/hacking-a-web-application/)
 <!--END_SECTION:hn-->
 
 <!--
