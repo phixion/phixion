@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 22 - [OpenAI, Anthropic ignoring rule that prevents bots scraping online content](https://www.businessinsider.com/openai-anthropic-ai-ignore-rule-scraping-web-contect-robotstxt)
-- Jun 22 - [Training AI](https://lmnt.me/blog/training-ai.html)
-- Jun 22 - [Sheryl Crow: 'Resurrecting Tupac with AI Is Hateful'](https://www.bbc.com/news/articles/cn00e695lpvo)
-- Jun 22 - ['Meridian': Why Netflix Is Helping Competitors with Content and Code (2016)](https://variety.com/2016/digital/news/netflix-meridian-imf-tools-open-source-1201859416/)
-- Jun 22 - [HybridNeRF: Efficient Neural Rendering](https://haithemturki.com/hybrid-nerf/)
+- Jun 22 - [AI is exhausting the power grid. Tech firms are seeking a miracle solution](https://www.msn.com/en-us/money/technology/ai-is-exhausting-the-power-grid-tech-firms-are-seeking-a-miracle-solution/ar-BB1oDl5z)
+- Jun 22 - [Greece introduces the six day work week](https://www.dw.com/en/greece-introduces-the-six-day-work-week/a-69439050)
+- Jun 22 - [An Anatomy of Algorithm Aversion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4865492)
+- Jun 22 - [AWS Lambda Web Adapter](https://github.com/awslabs/aws-lambda-web-adapter)
+- Jun 22 - [Testing AMD's Bergamo: Zen 4c](https://chipsandcheese.com/2024/06/22/testing-amds-bergamo-zen-4c-spam/)
 <!--END_SECTION:hn-->
 
 <!--
