@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 22 - [PermitFlow (YC W22) Is Hiring Software Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
-- Jun 22 - [Mr: Apple Intelligence Features Not Coming to EU at Launch Due to DMA](https://www.macrumors.com/2024/06/21/apple-intelligence-europe-delay/)
-- Jun 22 - [Own Constant Folder in C/C++](https://www.neilhenning.dev/posts/yourownconstantfolder/)
-- Jun 22 - [Why Steve Jobs Went 'Thermonuclear' over Android (2014)](https://www.pcmag.com/opinions/why-steve-jobs-went-thermonuclear-over-android)
-- Jun 22 - [The First Spatial Computing Hack](https://www.ryanpickren.com/vision-pro-hack)
+- Jun 22 - [OpenAI, Anthropic ignoring rule that prevents bots scraping online content](https://www.businessinsider.com/openai-anthropic-ai-ignore-rule-scraping-web-contect-robotstxt)
+- Jun 22 - [Training AI](https://lmnt.me/blog/training-ai.html)
+- Jun 22 - [Sheryl Crow: 'Resurrecting Tupac with AI Is Hateful'](https://www.bbc.com/news/articles/cn00e695lpvo)
+- Jun 22 - ['Meridian': Why Netflix Is Helping Competitors with Content and Code (2016)](https://variety.com/2016/digital/news/netflix-meridian-imf-tools-open-source-1201859416/)
+- Jun 22 - [HybridNeRF: Efficient Neural Rendering](https://haithemturki.com/hybrid-nerf/)
 <!--END_SECTION:hn-->
 
 <!--
