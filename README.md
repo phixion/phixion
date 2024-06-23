@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 23 - [The manager's unbearable lack of endorphins](https://jamie.ideasasylum.com/2024/06/21/the-manager-s-unbearable-lack-of-endorphins)
+- Jun 23 - [Ruby: A great language for shell scripts](https://lucasoshiro.github.io/posts-en/2024-06-17-ruby-shellscript/)
+- Jun 23 - [ChatGPT is biased against resumes with credentials that imply a disability](https://www.washington.edu/news/2024/06/21/chatgpt-ai-bias-ableism-disability-resume-cv/)
+- Jun 23 - [OpenEMR: Open-source medical record software](https://www.open-emr.org/)
 - Jun 22 - [Delving into ChatGPT usage in academic writing through excess vocabulary](https://arxiv.org/abs/2406.07016)
-- Jun 22 - [SSH as a Sudo Replacement](https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/)
-- Jun 22 - [Costco Broke into a Surprising New Market: Modular Housing](https://www.strongtowns.org/journal/2024/6/21/how-costco-broke-into-a-surprising-new-market-modular-housing)
-- Jun 22 - [Daily Automated Testing for Milk-V Duo S RISC-V SBC (IKEA Tretakt, Apache NuttX)](https://lupyuen.codeberg.page/articles/sg2000a.html)
-- Jun 22 - [Show HN: Simple script to cripple personalized targeting from Facebook](https://gist.github.com/HyperCrowd/edc9b461ec23cf2454ea4d1e910fd1c6)
 <!--END_SECTION:hn-->
 
 <!--
