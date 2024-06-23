@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 23 - [The manager's unbearable lack of endorphins](https://jamie.ideasasylum.com/2024/06/21/the-manager-s-unbearable-lack-of-endorphins)
-- Jun 23 - [Ruby: A great language for shell scripts](https://lucasoshiro.github.io/posts-en/2024-06-17-ruby-shellscript/)
-- Jun 23 - [ChatGPT is biased against resumes with credentials that imply a disability](https://www.washington.edu/news/2024/06/21/chatgpt-ai-bias-ableism-disability-resume-cv/)
-- Jun 23 - [OpenEMR: Open-source medical record software](https://www.open-emr.org/)
-- Jun 22 - [Delving into ChatGPT usage in academic writing through excess vocabulary](https://arxiv.org/abs/2406.07016)
+- Jun 23 - [Mozilla's Original Sin](https://mastodon.social/@jwz/112662062948208951)
+- Jun 23 - [Shahed-136 kamikaze drone servomotor [video]](https://www.youtube.com/watch?v=_jKbRdsi8fA)
+- Jun 23 - [I've Stopped Using Box Plots. Should You?](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/)
+- Jun 23 - [Richard Stallman, su, and the 'wheel' group (2004)](https://www.meisterplanet.com/journal/2004/05/09/richard-stallman-su-and-the-wheel-group/)
+- Jun 23 - [Explained: The secret City of London which is not part of London](https://www.thevintagenews.com/2016/08/02/explained-the-secret-city-of-london-which-is-not-part-of-london/)
 <!--END_SECTION:hn-->
 
 <!--
