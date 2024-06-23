@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 22 - [AI is exhausting the power grid. Tech firms are seeking a miracle solution](https://www.msn.com/en-us/money/technology/ai-is-exhausting-the-power-grid-tech-firms-are-seeking-a-miracle-solution/ar-BB1oDl5z)
-- Jun 22 - [Greece introduces the six day work week](https://www.dw.com/en/greece-introduces-the-six-day-work-week/a-69439050)
-- Jun 22 - [An Anatomy of Algorithm Aversion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4865492)
-- Jun 22 - [AWS Lambda Web Adapter](https://github.com/awslabs/aws-lambda-web-adapter)
-- Jun 22 - [Testing AMD's Bergamo: Zen 4c](https://chipsandcheese.com/2024/06/22/testing-amds-bergamo-zen-4c-spam/)
+- Jun 22 - [Delving into ChatGPT usage in academic writing through excess vocabulary](https://arxiv.org/abs/2406.07016)
+- Jun 22 - [SSH as a Sudo Replacement](https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/)
+- Jun 22 - [Costco Broke into a Surprising New Market: Modular Housing](https://www.strongtowns.org/journal/2024/6/21/how-costco-broke-into-a-surprising-new-market-modular-housing)
+- Jun 22 - [Daily Automated Testing for Milk-V Duo S RISC-V SBC (IKEA Tretakt, Apache NuttX)](https://lupyuen.codeberg.page/articles/sg2000a.html)
+- Jun 22 - [Show HN: Simple script to cripple personalized targeting from Facebook](https://gist.github.com/HyperCrowd/edc9b461ec23cf2454ea4d1e910fd1c6)
 <!--END_SECTION:hn-->
 
 <!--
