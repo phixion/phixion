@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 23 - [Mozilla's Original Sin](https://mastodon.social/@jwz/112662062948208951)
-- Jun 23 - [Shahed-136 kamikaze drone servomotor [video]](https://www.youtube.com/watch?v=_jKbRdsi8fA)
-- Jun 23 - [I've Stopped Using Box Plots. Should You?](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/)
-- Jun 23 - [Richard Stallman, su, and the 'wheel' group (2004)](https://www.meisterplanet.com/journal/2004/05/09/richard-stallman-su-and-the-wheel-group/)
-- Jun 23 - [Explained: The secret City of London which is not part of London](https://www.thevintagenews.com/2016/08/02/explained-the-secret-city-of-london-which-is-not-part-of-london/)
+- Jun 23 - [Deepnote (YC S19) is hiring engineers to build an AI data workspace](https://deepnote.com/join-us)
+- Jun 23 - [A Study Says Warp Drives Might Be Real–and We'll Find Them with Lasers](https://www.popularmechanics.com/space/deep-space/a61193854/warp-drive-gravitational-waves/)
+- Jun 23 - [Fresh water on Earth emerged 500M years earlier than previously thought](https://www.curtin.edu.au/news/media-release/fresh-findings-earliest-evidence-of-life-bringing-fresh-water-on-earth/)
+- Jun 23 - [Germany's autobahn bridges falling apart](https://www.dw.com/en/germanys-autobahn-bridges-falling-apart/a-69439952)
+- Jun 23 - [The First Animal Ever Found That Doesn't Need Oxygen to Survive](https://www.sciencealert.com/this-is-the-first-animal-ever-found-that-doesnt-need-oxygen-to-survive)
 <!--END_SECTION:hn-->
 
 <!--
