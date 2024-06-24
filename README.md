@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 24 - [US prosecutors recommend Justice Department criminally charge Boeing](https://www.voanews.com/a/us-prosecutors-recommend-justice-department-criminally-charge-boeing-as-deadline-looms/7667194.html)
+- Jun 24 - [Cosmopolitan v3.5.0](https://github.com/jart/cosmopolitan/releases/tag/3.5.0)
+- Jun 24 - [Apple's secret silicon fab next to thousands of homes](https://www.ashleygjovik.com/3250scott.html)
 - Jun 24 - [Neko: Portable framework for high-order spectral element flow simulations](https://github.com/ExtremeFLOW/neko)
 - Jun 23 - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
-- Jun 23 - [Writing an IR from Scratch and survive to write a post](https://farena.in/compilers/programming/writing-an-ir-from-scratch/)
-- Jun 23 - [LINQPad – The .NET Programmer's Playground](https://www.linqpad.net/)
-- Jun 23 - [Deriving Dependently-Typed OOP from First Principles](https://arxiv.org/abs/2403.06707)
 <!--END_SECTION:hn-->
 
 <!--
