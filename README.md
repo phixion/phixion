@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 24 - [Counterscale and the New Self-Hosted](https://benv.ca/blog/posts/counterscale-and-the-new-self-hosted)
+- Jun 24 - [Car dealerships revert to pens and paper after cyberattacks on software provider](https://apnews.com/article/car-dealerships-cyberattack-cdk-outage-3f7c81f6be0e212172b33cdc9f49feba)
 - Jun 24 - [UpCodes (YC S17) is hiring remote engineers across the Americas](https://up.codes/careers?utm_source=HN)
-- Jun 24 - [Homegrown Rendering with Rust](https://medium.com/embarkstudios/homegrown-rendering-with-rust-1e39068e56a7)
-- Jun 24 - [Ask HN: What is the most challenging programming course you have taken?](https://news.ycombinator.com/item?id=40774446)
-- Jun 24 - [Lockbit 3.0 Claims Attack on Federal Reserve: 33 Terabytes Allegedly Compromised](https://www.redhotcyber.com/en/post/lockbit-3-0-claims-attack-on-federal-reserve-33-terabytes-of-sensitive-data-allegedly-compromised/)
-- Jun 24 - [Fire at South Korea lithium battery plant kills at least 16 people](https://www.nbcnews.com/news/world/fire-south-korea-lithium-battery-plant-kills-least-16-people-rcna158536)
+- Jun 24 - [Homegrown Rendering with Rust (2021)](https://medium.com/embarkstudios/homegrown-rendering-with-rust-1e39068e56a7)
+- Jun 24 - [Microfeatures I love in blogs and personal websites](https://danilafe.com/blog/blog_microfeatures/)
 <!--END_SECTION:hn-->
 
 <!--
