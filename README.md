@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 23 - [Fedora has been shipping with a broken screen reader for nine years](https://ar.al/2024/06/23/fedora-has-been-shipping-with-a-broken-screen-reader-for-nine-years-but-the-real-problem-is-me/)
-- Jun 23 - [OpenAI is building its local app to subvert the permission system of the web](https://carllippert.com/permission-is-forever/)
-- Jun 23 - [Some fundraisers pay >90% of the funds to themselves](https://www.propublica.org/article/political-nonprofits-fundraising-ftc-irs-527s-pacs)
-- Jun 23 - [Ask HN: What's the oldest file on your computer?](https://news.ycombinator.com/item?id=40769541)
-- Jun 23 - [Review of Linux on Minisforum V3 AMD Ryzen Tablet](https://mudkip.me/2024/04/14/A-Brief-Review-of-the-Minisforum-V3-AMD-Tablet/)
+- Jun 23 - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+- Jun 23 - [Writing an IR from Scratch and survive to write a post](https://farena.in/compilers/programming/writing-an-ir-from-scratch/)
+- Jun 23 - [LINQPad – The .NET Programmer's Playground](https://www.linqpad.net/)
+- Jun 23 - [The Encyclopedia Project, or How to Know in the Age of AI](https://www.publicbooks.org/the-encyclopedia-project-or-how-to-know-in-the-age-of-ai/)
+- Jun 23 - [Traffic noise hurts children's brains](https://www.bbc.com/future/article/20240621-how-traffic-noise-pollution-harms-childrens-health-and-development)
 <!--END_SECTION:hn-->
 
 <!--
