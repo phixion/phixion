@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 24 - [Counterscale and the New Self-Hosted](https://benv.ca/blog/posts/counterscale-and-the-new-self-hosted)
-- Jun 24 - [Car dealerships revert to pens and paper after cyberattacks on software provider](https://apnews.com/article/car-dealerships-cyberattack-cdk-outage-3f7c81f6be0e212172b33cdc9f49feba)
-- Jun 24 - [UpCodes (YC S17) is hiring remote engineers across the Americas](https://up.codes/careers?utm_source=HN)
-- Jun 24 - [Homegrown Rendering with Rust (2021)](https://medium.com/embarkstudios/homegrown-rendering-with-rust-1e39068e56a7)
-- Jun 24 - [Microfeatures I love in blogs and personal websites](https://danilafe.com/blog/blog_microfeatures/)
+- Jun 24 - [Nuclear engineer dismisses claim that modular reactors could be viable soon](https://www.theguardian.com/australia-news/article/2024/jun/21/peter-dutton-coalition-nuclear-policy-engineer-small-modular-reactors-no-commercially-viable)
+- Jun 24 - [Robots on Lake Michigan beaches to prevent drownings](https://www.mlive.com/news/kalamazoo/2024/06/lifesaving-robots-arrive-on-lake-michigan-beaches-to-prevent-drownings.html)
+- Jun 24 - [Infisical (YC W23) is hiring to build an open source security stack for devs](https://www.ycombinator.com/companies/infisical/jobs/0tvPmoc-full-stack-engineer)
+- Jun 24 - [No matter what they tell you, it's a people problem (2008)](https://blog.codinghorror.com/no-matter-what-they-tell-you-its-a-people-problem/)
+- Jun 24 - [Colorado has a first-in-the-nation law for AI – but what will it do?](https://www.cpr.org/2024/06/17/colorado-artificial-intelligence-law-implementation-ramifications/)
 <!--END_SECTION:hn-->
 
 <!--
