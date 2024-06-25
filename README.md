@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 25 - [Law enforcement is spying on Americans' mail, records show](https://www.washingtonpost.com/technology/2024/06/24/post-office-mail-surveillance-law-enforcement/)
-- Jun 24 - [Tesla Cybertruck Unexpectedly Accelerates into Home with Rear Wheels Locked](https://jalopnik.com/tesla-cybertruck-unexpectedly-accelerates-into-home-wit-1851557475)
-- Jun 24 - [Julian Assange will plead guilty in deal with US and be freed from prison](https://apnews.com/article/assange-plea-deal-wikileaks-justice-department-d329ba4614dbfa77b5eb968d07fd9bd0)
-- Jun 24 - [Tech CEOs are hot now, so workers are hiring $500-an-hour fashion consultants](https://sfstandard.com/2024/06/17/fashion-zuckerberg-style-techie-hoodie-allbirds/)
-- Jun 24 - [Julian Assange has reached a plea deal with the U.S., allowing him to go free](https://www.nbcnews.com/politics/justice-department/julian-assange-reached-plea-deal-us-allowing-go-free-rcna158695)
+- Jun 25 - [Houthi Attacks in the Red Sea, Merchant Traffic Through Suez Canal Down >50%](https://news.usni.org/2024/06/20/houthi-attacks-causing-more-damage-in-the-red-sea-merchant-traffic-through-suez-canal-down-more-than-50)
+- Jun 25 - [Researchers invent 100% biodegradable 'barley plastic'](https://phys.org/news/2024-06-biodegradable-barley-plastic.html)
+- Jun 25 - [Wave activity on Titan strong enough to erode the coastlines of lakes and seas](https://phys.org/news/2024-06-titan-strong-erode-coastlines-lakes.html)
+- Jun 25 - [Indonesian government datacenter locked down in $8M ransomware rumble](https://www.theregister.com/2024/06/24/indonesia_datacenter_ransomware/)
+- Jun 25 - [SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.github.io/read.html?md=blog/simd-fast-esp32s3.md)
 <!--END_SECTION:hn-->
 
 <!--
