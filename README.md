@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 24 - [Nuclear engineer dismisses claim that modular reactors could be viable soon](https://www.theguardian.com/australia-news/article/2024/jun/21/peter-dutton-coalition-nuclear-policy-engineer-small-modular-reactors-no-commercially-viable)
-- Jun 24 - [Robots on Lake Michigan beaches to prevent drownings](https://www.mlive.com/news/kalamazoo/2024/06/lifesaving-robots-arrive-on-lake-michigan-beaches-to-prevent-drownings.html)
-- Jun 24 - [Infisical (YC W23) is hiring to build an open source security stack for devs](https://www.ycombinator.com/companies/infisical/jobs/0tvPmoc-full-stack-engineer)
-- Jun 24 - [No matter what they tell you, it's a people problem (2008)](https://blog.codinghorror.com/no-matter-what-they-tell-you-its-a-people-problem/)
-- Jun 24 - [Colorado has a first-in-the-nation law for AI – but what will it do?](https://www.cpr.org/2024/06/17/colorado-artificial-intelligence-law-implementation-ramifications/)
+- Jun 25 - [Law enforcement is spying on Americans' mail, records show](https://www.washingtonpost.com/technology/2024/06/24/post-office-mail-surveillance-law-enforcement/)
+- Jun 24 - [Tesla Cybertruck Unexpectedly Accelerates into Home with Rear Wheels Locked](https://jalopnik.com/tesla-cybertruck-unexpectedly-accelerates-into-home-wit-1851557475)
+- Jun 24 - [Julian Assange will plead guilty in deal with US and be freed from prison](https://apnews.com/article/assange-plea-deal-wikileaks-justice-department-d329ba4614dbfa77b5eb968d07fd9bd0)
+- Jun 24 - [Tech CEOs are hot now, so workers are hiring $500-an-hour fashion consultants](https://sfstandard.com/2024/06/17/fashion-zuckerberg-style-techie-hoodie-allbirds/)
+- Jun 24 - [Julian Assange has reached a plea deal with the U.S., allowing him to go free](https://www.nbcnews.com/politics/justice-department/julian-assange-reached-plea-deal-us-allowing-go-free-rcna158695)
 <!--END_SECTION:hn-->
 
 <!--
