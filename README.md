@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 25 - [A brief introduction to interval arithmetic](https://buttondown.email/hillelwayne/archive/a-brief-introduction-to-interval-arithmetic/)
-- Jun 25 - [Atomic Operations Composition in Go](https://antonz.org/atomics-composition/)
-- Jun 25 - [HyperCard Simulator](https://hcsimulator.com/)
-- Jun 25 - [Supabase (YC S20) Is Hiring Postgres SREs](https://boards.greenhouse.io/supabase/jobs/5162509004)
-- Jun 25 - [Ball: A ball that lives in your dock](https://github.com/nate-parrott/ball)
+- Jun 26 - [Dokos Shipwreck: The oldest shipwreck ever discovered](https://www.thearchaeologist.org/blog/dokos-shipwreck-the-oldest-shipwreck-ever-discovered)
+- Jun 26 - [Show HN: Chrome extension that brings Claude Artifacts for ChatGPT](https://github.com/MichaelYuhe/Artifacts-for-ChatGPT)
+- Jun 26 - [The rarest book in American literature: Poe's Tamerlane](https://lithub.com/in-search-of-the-rarest-book-in-american-literature-edgar-allan-poes-tamerlane/)
+- Jun 26 - [My spiciest take on tech hiring](https://www.haskellforall.com/2024/06/my-spiciest-take-on-tech-hiring.html)
+- Jun 26 - [Brazil's Supreme Court decriminalizes marijuana](https://www.bloomberg.com/news/articles/2024-06-25/brazil-supreme-court-decriminalizes-marijuana-for-personal-use)
 <!--END_SECTION:hn-->
 
 <!--
