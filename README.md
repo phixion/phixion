@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 26 - [Juniper (YC W21) is hiring sr engineers to fix financial infra in recurring care](https://jobs.lever.co/juniperplatform/4295e9c0-57a2-45a5-b120-75b065b2a492)
-- Jun 26 - [Ask HN: How to pivot to a Machine Learning engineer?](https://news.ycombinator.com/item?id=40797858)
-- Jun 26 - [Banach–Tarski Paradox](https://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox)
-- Jun 26 - [American Singapore(s): Competent city governance hiding in plain sight](https://www.population.fyi/p/american-singapores-effective-city)
-- Jun 26 - [Show HN: a Rust lib to trigger actions based on your screen activity (with LLMs)](https://github.com/louis030195/screen-pipe)
+- Jun 26 - [Podman Desktop 1.11: Light mode, Kubernetes features, macOS improvements](https://podman-desktop.io/blog/podman-desktop-release-1.11)
+- Jun 26 - [Show HN: R2R V2 – A open source RAG engine with prod features](https://github.com/SciPhi-AI/R2R)
+- Jun 26 - [Show HN: Rubbrband – A hosted ComfyUI alternative for image generation](https://news.ycombinator.com/item?id=40799262)
+- Jun 26 - [Ghosts in the ROM (2012)](https://www.nycresistor.com/2012/08/21/ghosts-in-the-rom/)
+- Jun 26 - [Juniper (YC W21) is hiring engineers to fix financial infra in recurring care](https://jobs.lever.co/juniperplatform/4295e9c0-57a2-45a5-b120-75b065b2a492)
 <!--END_SECTION:hn-->
 
 <!--
