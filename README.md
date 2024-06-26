@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 25 - [Fixing QuickLook](https://foon.uk/fixing-quicklook/)
-- Jun 25 - [Polyfill supply chain attack hits 100K+ sites](https://sansec.io/research/polyfill-supply-chain-attack)
-- Jun 25 - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=40790859)
-- Jun 25 - [Chang'e 6 lunar sample return mission returns with samples from moon's far side](https://www.theguardian.com/world/article/2024/jun/25/chinas-change-6-lunar-probe-returns-world-first-samples-from-far-side-of-the-moon)
-- Jun 25 - [Igneous Linearizer: semi-structured source code](https://domain-j.com/Igneous-Linearizer/uuid/9e30337c-b890-4fd9-a0bd-51a7aa6e65b0)
+- Jun 25 - [A brief introduction to interval arithmetic](https://buttondown.email/hillelwayne/archive/a-brief-introduction-to-interval-arithmetic/)
+- Jun 25 - [Atomic Operations Composition in Go](https://antonz.org/atomics-composition/)
+- Jun 25 - [HyperCard Simulator](https://hcsimulator.com/)
+- Jun 25 - [Supabase (YC S20) Is Hiring Postgres SREs](https://boards.greenhouse.io/supabase/jobs/5162509004)
+- Jun 25 - [Ball: A ball that lives in your dock](https://github.com/nate-parrott/ball)
 <!--END_SECTION:hn-->
 
 <!--
