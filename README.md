@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 26 - [Dokos Shipwreck: The oldest shipwreck ever discovered](https://www.thearchaeologist.org/blog/dokos-shipwreck-the-oldest-shipwreck-ever-discovered)
-- Jun 26 - [Show HN: Chrome extension that brings Claude Artifacts for ChatGPT](https://github.com/MichaelYuhe/Artifacts-for-ChatGPT)
-- Jun 26 - [The rarest book in American literature: Poe's Tamerlane](https://lithub.com/in-search-of-the-rarest-book-in-american-literature-edgar-allan-poes-tamerlane/)
-- Jun 26 - [My spiciest take on tech hiring](https://www.haskellforall.com/2024/06/my-spiciest-take-on-tech-hiring.html)
-- Jun 26 - [Brazil's Supreme Court decriminalizes marijuana](https://www.bloomberg.com/news/articles/2024-06-25/brazil-supreme-court-decriminalizes-marijuana-for-personal-use)
+- Jun 26 - [Visa, Mastercard $30B swipe fee settlement rejected by US judge](https://www.reuters.com/legal/us-judge-rejects-visa-mastercard-30-bln-swipe-fee-settlement-2024-06-25/)
+- Jun 26 - [Volkswagen invests up to $5B in Rivian](https://www.bloomberg.com/news/articles/2024-06-25/vw-invests-5-billion-in-ev-startup-rivian-to-form-joint-venture)
+- Jun 26 - [Remote shell to a Raspberry Pi at 39,000 ft](https://www.jeffgeerling.com/blog/2024/remote-shell-raspberry-pi-39000-ft)
+- Jun 26 - [Vigorous Exercise, Cognitive Decline, and High Blood Pressure](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13887)
+- Jun 26 - [First Class Contexts – Rye Language](https://ryelang.org/meet_rye/specifics/context/)
 <!--END_SECTION:hn-->
 
 <!--
