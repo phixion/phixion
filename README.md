@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 27 - [310-mile automated cargo conveyor will replace 25,000 trucks in Japan](https://newatlas.com/transport/cargo-conveyor-auto-logistics/)
-- Jun 27 - [The Fuggerei – the world’s first public housing (2022)](https://www.karlsnotes.com/fuggerei-the-worlds-first-public-housing/)
-- Jun 27 - [How to think about creating a dataset for LLM fine-tuning evaluation](https://mlops.systems/posts/2024-06-25-evaluation-finetuning-manual-dataset.html)
-- Jun 27 - [Open-Sora does pretty good video generation on consumer GPUs](https://backprop.co/environments/open-sora)
-- Jun 27 - [Dashboard and UIs for Node-Red](https://dashboard.flowfuse.com/)
+- Jun 27 - [Ask HN: Have coders made stuff complicated on purpose?](https://news.ycombinator.com/item?id=40811624)
+- Jun 27 - [Launch HN: Hatchet (YC W24) – Open-source task queue, now with a cloud version](https://news.ycombinator.com/item?id=40810986)
+- Jun 27 - [Open Sourcing Kinopio](https://pketh.org/open-sourcing-kinopio.html)
+- Jun 27 - [Gemma 2: Improving Open Language Models at a Practical Size [pdf]](https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf)
+- Jun 27 - [Is Everything BS?](https://behavioralscientist.org/is-everything-bs/)
 <!--END_SECTION:hn-->
 
 <!--
