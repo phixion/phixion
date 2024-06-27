@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 27 - [SpaceX Tender Offer Said to Value Company at Record $210B](https://www.bloomberg.com/news/articles/2024-06-27/spacex-tender-offer-said-to-value-company-at-record-210-billion)
+- Jun 27 - [Eplot: A new package for making charts in Emacs](https://lars.ingebrigtsen.no/2024/06/26/a-new-package-for-making-charts-in-emacs-eplot/)
+- Jun 27 - [How to Run Adobe Photoshop 2024 on Wine (Linux)](https://forum.mattkc.com/viewtopic.php?t=336)
+- Jun 27 - [25 years of video clips gone as Paramount axes Comedy Central wesbite](https://latenighter.com/news/paramount-axes-comedy-central-website-show-clips-library/)
 - Jun 27 - [Claude 3.5 Sonnet](https://thezvi.substack.com/p/on-claude-35-sonnet)
 - Jun 27 - [DoorDash and Pizza Arbitrage](https://www.readmargins.com/p/doordash-and-pizza-arbitrage)
-- Jun 27 - [Molecular Interactions and the Behaviors of Biological Macromolecules](https://williams.chemistry.gatech.edu/structure/molecular_interactions/mol_int.html)
-- Jun 27 - [AI Revolutionized Protein Science, but Didn't End It](https://www.quantamagazine.org/how-ai-revolutionized-protein-science-but-didnt-end-it-20240626/)
 <!--END_SECTION:hn-->
 
 <!--
