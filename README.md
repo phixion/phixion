@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 26 - [Figma Slides](https://www.figma.com/slides/)
-- Jun 26 - [Figma AI](https://www.figma.com/blog/introducing-figma-ai/)
-- Jun 26 - [I Add 3-25 Seconds of Latency to Every Page I Visit (2020)](https://howonlee.github.io/2020/02/12/I-20Add-2020-20Seconds-20of-20Latency-20to-20Every-20Website-20I-20Visit.html)
-- Jun 26 - [Motion (YC W20) Is Hiring Our First DevOps Engineer](https://jobs.ashbyhq.com/motion/731e6994-c9b0-43ae-b7e4-28cbca03920f?utm_source=hn)
-- Jun 26 - [Rabbit failed to properly reset keys: emails can be sent from rabbit.tech domain](https://rabbitu.de/articles/security-disclosure-2)
+- Jun 26 - [Took part in Apache ceremonies. schools expelled them for satanic activities](https://www.theguardian.com/us-news/ng-interactive/2024/jun/24/apache-students-school-reservation)
+- Jun 26 - [Corcel – Use WordPress backend with Laravel or any PHP application](https://github.com/corcel/corcel)
+- Jun 26 - [The brain makes a lot of waste. Now scientists think they know where it goes](https://www.npr.org/sections/shots-health-news/2024/06/26/g-s1-6177/brain-waste-removal-system-amyloid-alzheimer-toxins)
+- Jun 26 - [Super Mario 64 ported to the GBA [video]](https://www.youtube.com/watch?v=c8QWjQ5RLQw)
+- Jun 26 - [South Korean telecom company attacks torrent users with malware](https://www.tomshardware.com/tech-industry/cyber-security/south-korean-telecom-company-attacks-torrent-users-with-malware-over-600000-people-report-missing-files-strange-folders-and-disabled-pcs)
 <!--END_SECTION:hn-->
 
 <!--
