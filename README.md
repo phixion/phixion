@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 27 - [Ask HN: Have coders made stuff complicated on purpose?](https://news.ycombinator.com/item?id=40811624)
-- Jun 27 - [Launch HN: Hatchet (YC W24) – Open-source task queue, now with a cloud version](https://news.ycombinator.com/item?id=40810986)
-- Jun 27 - [Open Sourcing Kinopio](https://pketh.org/open-sourcing-kinopio.html)
-- Jun 27 - [Gemma 2: Improving Open Language Models at a Practical Size [pdf]](https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf)
-- Jun 27 - [Is Everything BS?](https://behavioralscientist.org/is-everything-bs/)
+- Jun 27 - [A modern 8 bit design, built using 1950s thermionic valves](https://www.valve.computer/)
+- Jun 27 - [Using short lived Postgres servers for testing](https://kaveland.no/posts/2024-05-27-shortlived-postgres-servers/)
+- Jun 27 - [Supreme Court blocks controversial Purdue Pharma opioid settlement](https://www.washingtonpost.com/politics/2024/06/27/purdue-pharma-supreme-court-opioid-bankruptcy/)
+- Jun 27 - [Misconceptions about loops in C](https://dl.acm.org/doi/10.1145/3652588.3663324)
+- Jun 27 - [The strategy behind Cambridge’s Laboratory of Molecular Biology](https://www.nature.com/articles/d41586-024-02085-2)
 <!--END_SECTION:hn-->
 
 <!--
