@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 27 - [A modern 8 bit design, built using 1950s thermionic valves](https://www.valve.computer/)
-- Jun 27 - [Using short lived Postgres servers for testing](https://kaveland.no/posts/2024-05-27-shortlived-postgres-servers/)
-- Jun 27 - [Supreme Court blocks controversial Purdue Pharma opioid settlement](https://www.washingtonpost.com/politics/2024/06/27/purdue-pharma-supreme-court-opioid-bankruptcy/)
-- Jun 27 - [Misconceptions about loops in C](https://dl.acm.org/doi/10.1145/3652588.3663324)
-- Jun 27 - [The strategy behind Cambridge’s Laboratory of Molecular Biology](https://www.nature.com/articles/d41586-024-02085-2)
+- Jun 27 - [US sanctions Boeing for sharing information about 737 MAX 9 investigation](https://apnews.com/article/boeing-ntsb-alaska-airlines-737-max-89e5655184516b4c54a9378414fe4cea)
+- Jun 27 - [200 people charged in $2.7B health care fraud crackdown](https://apnews.com/article/justice-department-health-care-fraud-garland-24948b951896d0f265c29ba3fcacf858)
+- Jun 27 - [Python grapples with Apple App Store rejections](https://lwn.net/SubscriberLink/979671/4fb7c1827536d1ae/)
+- Jun 27 - [Maker of RStudio launches new R and Python IDE](https://www.infoworld.com/article/3715702/maker-of-rstudio-launches-new-r-and-python-ide.html)
+- Jun 27 - [TeamViewer Security Breach](https://www.teamviewer.com/en/resources/trust-center/statement/)
 <!--END_SECTION:hn-->
 
 <!--
