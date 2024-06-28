@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 28 - [Frame.work laptop now available in Denmark, Finland, and Sweden](https://community.frame.work/t/now-available-in-denmark-finland-and-sweden/53690)
-- Jun 28 - [Software galaxies](https://anvaka.github.io/pm/)
-- Jun 28 - [Investigating SSMEC's (State Micro) 486s with the UCA](https://x86.fr/investigating-ssmecs-state-micro-486s-with-the-uca/)
-- Jun 28 - [Space Ghost: Coast to Coast and the Birth of the Weird (2016)](https://www.vulture.com/2016/10/space-ghost-coast-to-coast-and-the-birth-of-the-weird.html)
-- Jun 28 - [Aeon: OpenSUSE for Lazy Developers](https://lwn.net/Articles/977987/)
+- Jun 28 - [Substack Is Hiring Systems Engineers to Build a New Economic Engine for Culture](https://grnh.se/4f362fed5us)
+- Jun 28 - [Perplexity's Grand Theft AI](https://www.theverge.com/2024/6/27/24187405/perplexity-ai-twitter-lie-plagiarism)
+- Jun 28 - [A Novel way to curb poaching, injecting radioisotopes into 20 live rhinoceros](https://www.wits.ac.za/news/latest-news/general-news/2024/2024-06/a-novel-way-to-save-rhinos-.html)
+- Jun 28 - [Japan's Mini Kei-Truck Sales Surge in US Despite Safety Concerns](https://www.bloomberg.com/news/articles/2024-06-27/japan-s-mini-kei-truck-sales-surge-in-us-despite-safety-concerns)
+- Jun 28 - [Understanding React Compiler](https://tonyalicea.dev/blog/understanding-react-compiler/)
 <!--END_SECTION:hn-->
 
 <!--
