@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 28 - [Substack Is Hiring Systems Engineers to Build a New Economic Engine for Culture](https://grnh.se/4f362fed5us)
-- Jun 28 - [Perplexity's Grand Theft AI](https://www.theverge.com/2024/6/27/24187405/perplexity-ai-twitter-lie-plagiarism)
-- Jun 28 - [A Novel way to curb poaching, injecting radioisotopes into 20 live rhinoceros](https://www.wits.ac.za/news/latest-news/general-news/2024/2024-06/a-novel-way-to-save-rhinos-.html)
-- Jun 28 - [Japan's Mini Kei-Truck Sales Surge in US Despite Safety Concerns](https://www.bloomberg.com/news/articles/2024-06-27/japan-s-mini-kei-truck-sales-surge-in-us-despite-safety-concerns)
-- Jun 28 - [Understanding React Compiler](https://tonyalicea.dev/blog/understanding-react-compiler/)
+- Jun 28 - [Ryanair Boeing 737 MAX plunges 2,000ft in 17 seconds](https://www.standard.co.uk/news/london/ryanair-boeing-flight-plunge-stansted-airport-landing-investigation-b1167274.html)
+- Jun 28 - [ChatGPT is hallucinating fake links to its news partners' biggest investigations](https://www.niemanlab.org/2024/06/chatgpt-is-hallucinating-fake-links-to-its-news-partners-biggest-investigations/)
+- Jun 28 - [Apple II graphics: More than you wanted to know](https://nicole.express/2024/phasing-in-and-out-of-existence.html)
+- Jun 28 - [New ways to catch gravitational waves](https://www.nature.com/articles/d41586-024-02003-6)
+- Jun 28 - [Is Clear Air Turbulence becoming more common?](https://www.flightradar24.com/blog/is-cat-more-common/)
 <!--END_SECTION:hn-->
 
 <!--
