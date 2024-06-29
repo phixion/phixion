@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 29 - [The 'Pay Phone Bandit' Who Baffled the FBI in the '80s](https://www.mentalfloss.com/posts/pay-phone-bandit-baffled-fbi)
+- Jun 29 - [Hacking Amazon's Eero 6 (part 1)](https://markuta.com/eero-6-hacking-part-1/)
+- Jun 29 - [The XAES-256-GCM extended-nonce AEAD](https://words.filippo.io/dispatches/xaes-256-gcm/)
 - Jun 28 - [A Eulogy for DevOps](https://matduggan.com/a-eulogy-for-devops/)
-- Jun 28 - [Paramount Wipes South Park, Daily Show Clips, and More from Websites](https://www.gamespot.com/articles/paramount-wipes-south-park-daily-show-clips-and-more-from-websites/1100-6524578/)
-- Jun 28 - [Show HN: Focal, a Pomodoro App](https://aabiji.github.io/focal/)
-- Jun 28 - [Open source 'Eclipse Theia IDE' exits beta to challenge Visual Studio Code](https://visualstudiomagazine.com/Articles/2024/06/27/eclipse-theia-ide.aspx)
-- Jun 28 - [The story, as best I can remember, of the origin of Mosaic and Netscape [video]](https://pmarca.substack.com/p/the-true-story-as-best-i-can-remember)
+- Jun 28 - [Category Theory Using String Diagrams (2014)](https://arxiv.org/abs/1401.7220)
 <!--END_SECTION:hn-->
 
 <!--
