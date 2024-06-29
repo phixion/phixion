@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 29 - [Show HN: Protect your links with a password](https://www.protectmylink.xyz/)
-- Jun 29 - [Weird Al: Deja Vu (But Worse)](https://www.youtube.com/watch?v=6fNWHbnIn0g)
-- Jun 29 - [The Economics of Writing Technical Books](https://architectelevator.com/strategy/book-author-economics/)
-- Jun 29 - [Bytecode Breakdown: Unraveling Factorio's Lua Security Flaws](https://memorycorruption.net/posts/rce-lua-factorio/)
-- Jun 29 - [Nango (YC W23) Is Hiring a Senior Product Engineer (100% Remote, EST Timezone)](https://www.nango.dev/jobs)
+- Jun 29 - [AirPods fast connect security vulnerability](https://blogs.gnome.org/jdressler/2024/06/26/do-a-firmware-update-for-your-airpods-now/)
+- Jun 29 - [Thousands of Pablo Picasso’s works in a new online archive](https://www.smithsonianmag.com/smart-news/thousands-of-pablo-picassos-works-are-now-online-180984597/)
+- Jun 29 - [Python toolkit for quantitative finance](https://github.com/goldmansachs/gs-quant)
+- Jun 29 - [Anatomy of a Cryptocurrency Scam Operation](https://practicalsecurity.substack.com/p/anatomy-of-a-cryptocurrency-scam)
+- Jun 29 - [Tiny bright objects discovered at dawn of universe baffle scientists](https://phys.org/news/2024-06-tiny-bright-dawn-universe-baffle.html)
 <!--END_SECTION:hn-->
 
 <!--
