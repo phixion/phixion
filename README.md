@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 29 - [Show HN: Protect your links with a password](https://www.protectmylink.xyz/)
+- Jun 29 - [Weird Al: Deja Vu (But Worse)](https://www.youtube.com/watch?v=6fNWHbnIn0g)
+- Jun 29 - [The Economics of Writing Technical Books](https://architectelevator.com/strategy/book-author-economics/)
+- Jun 29 - [Bytecode Breakdown: Unraveling Factorio's Lua Security Flaws](https://memorycorruption.net/posts/rce-lua-factorio/)
 - Jun 29 - [Nango (YC W23) Is Hiring a Senior Product Engineer (100% Remote, EST Timezone)](https://www.nango.dev/jobs)
-- Jun 29 - [A Bunch of Programming Advice I'd Give to Myself 15 Years Ago](https://mbuffett.com/posts/programming-advice-younger-self/)
-- Jun 29 - [How I overcame my addiction to sugar](https://josem.co/how-i-overcame-my-addiction-to-sugar/)
-- Jun 29 - [Ticketmaster has begun warning customers about data breach](https://stackdiary.com/ticketmaster-has-begun-warning-customers-about-data-breach/)
-- Jun 29 - [It's not just you, Next.js is getting harder to use](https://www.propelauth.com/post/nextjs-challenges)
 <!--END_SECTION:hn-->
 
 <!--
