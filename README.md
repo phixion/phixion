@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 28 - [Show HN: Six Degrees of Reform UK – Mapping the UK's Entrepreneurial Far Right](https://adu.autonomy.work/posts/2024_06_28_reform/)
-- Jun 28 - [Our Underground Future (2012)](https://www.bostonglobe.com/ideas/2012/06/23/underground-space/PvxyWFdXXYhPPlQVVU0a8K/story.html)
-- Jun 28 - [Real Chaos, Today – Randomised controlled trials in economics](https://someunpleasant.substack.com/p/real-chaos-today)
-- Jun 28 - [What Happened to People Magazine?](https://annehelen.substack.com/p/what-happened-to-people-magazine)
-- Jun 28 - [Llama-agents: an async-first framework for building production ready agents](https://github.com/run-llama/llama-agents)
+- Jun 28 - [A Eulogy for DevOps](https://matduggan.com/a-eulogy-for-devops/)
+- Jun 28 - [Paramount Wipes South Park, Daily Show Clips, and More from Websites](https://www.gamespot.com/articles/paramount-wipes-south-park-daily-show-clips-and-more-from-websites/1100-6524578/)
+- Jun 28 - [Show HN: Focal, a Pomodoro App](https://aabiji.github.io/focal/)
+- Jun 28 - [Open source 'Eclipse Theia IDE' exits beta to challenge Visual Studio Code](https://visualstudiomagazine.com/Articles/2024/06/27/eclipse-theia-ide.aspx)
+- Jun 28 - [The story, as best I can remember, of the origin of Mosaic and Netscape [video]](https://pmarca.substack.com/p/the-true-story-as-best-i-can-remember)
 <!--END_SECTION:hn-->
 
 <!--
