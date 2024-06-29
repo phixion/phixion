@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 29 - [The 'Pay Phone Bandit' Who Baffled the FBI in the '80s](https://www.mentalfloss.com/posts/pay-phone-bandit-baffled-fbi)
-- Jun 29 - [Hacking Amazon's Eero 6 (part 1)](https://markuta.com/eero-6-hacking-part-1/)
-- Jun 29 - [The XAES-256-GCM extended-nonce AEAD](https://words.filippo.io/dispatches/xaes-256-gcm/)
-- Jun 28 - [A Eulogy for DevOps](https://matduggan.com/a-eulogy-for-devops/)
-- Jun 28 - [Category Theory Using String Diagrams (2014)](https://arxiv.org/abs/1401.7220)
+- Jun 29 - [Raycast (YC W20) Is Hiring a Senior Product Designer (UTC ± 3 Hours)](https://www.raycast.com/jobs/senior-product-designer)
+- Jun 29 - [How to waste bandwidth, battery power, and annoy sysadmins](https://rachelbythebay.com/w/2024/06/28/fxios/)
+- Jun 29 - [Show HN: Safe Routes. real time turbulence data, ML predictions with an iPad](https://skypath.io)
+- Jun 29 - [The 'pay phone bandit' who baffled the FBI in the '80s](https://www.mentalfloss.com/posts/pay-phone-bandit-baffled-fbi)
+- Jun 29 - [OpenLoco: Modern, open source version of the classic transport simulation game](https://openloco.io/)
 <!--END_SECTION:hn-->
 
 <!--
