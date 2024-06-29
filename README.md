@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 29 - [Raycast (YC W20) Is Hiring a Senior Product Designer (UTC ± 3 Hours)](https://www.raycast.com/jobs/senior-product-designer)
-- Jun 29 - [How to waste bandwidth, battery power, and annoy sysadmins](https://rachelbythebay.com/w/2024/06/28/fxios/)
-- Jun 29 - [Show HN: Safe Routes. real time turbulence data, ML predictions with an iPad](https://skypath.io)
-- Jun 29 - [The 'pay phone bandit' who baffled the FBI in the '80s](https://www.mentalfloss.com/posts/pay-phone-bandit-baffled-fbi)
-- Jun 29 - [OpenLoco: Modern, open source version of the classic transport simulation game](https://openloco.io/)
+- Jun 29 - [Nango (YC W23) Is Hiring a Senior Product Engineer (100% Remote, EST Timezone)](https://www.nango.dev/jobs)
+- Jun 29 - [A Bunch of Programming Advice I'd Give to Myself 15 Years Ago](https://mbuffett.com/posts/programming-advice-younger-self/)
+- Jun 29 - [How I overcame my addiction to sugar](https://josem.co/how-i-overcame-my-addiction-to-sugar/)
+- Jun 29 - [Ticketmaster has begun warning customers about data breach](https://stackdiary.com/ticketmaster-has-begun-warning-customers-about-data-breach/)
+- Jun 29 - [It's not just you, Next.js is getting harder to use](https://www.propelauth.com/post/nextjs-challenges)
 <!--END_SECTION:hn-->
 
 <!--
