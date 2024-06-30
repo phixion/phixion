@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 30 - [Wavja spheres outperform solar panels using both sun and artificial light](https://www.thecooldown.com/green-tech/photon-energy-systems-solar-spheres-wavja/)
-- Jun 30 - [Dev rejects CVE severity, makes his GitHub repo read-only](https://www.bleepingcomputer.com/news/security/dev-rejects-cve-severity-makes-his-github-repo-read-only/)
-- Jun 30 - [Show HN: Drop-In SQS Replacement Based on SQLite](https://github.com/poundifdef/SmoothMQ)
-- Jun 30 - [Power station's last coal delivery arrives by rail](https://www.bbc.co.uk/news/articles/ckkg0wl7dkro)
-- Jun 30 - [50 Welcome Signs for 50 States](https://commons.wikimedia.org/wiki/U.S._state_welcome_signs)
+- Jun 30 - [Postzegelcode](https://en.wikipedia.org/wiki/Postzegelcode)
+- Jun 30 - [Combine multiple RSS feeds into a single feed, as a service](https://github.com/chase-seibert/rsscombine)
+- Jun 30 - [Writing GUI apps for Windows is painful](https://tulach.cc/writing-gui-apps-for-windows-is-painful/)
+- Jun 30 - [A simplified Python simulation of diffusion](https://www.thepythoncodingstack.com/p/python-diffusion-simulation-demo-turtle)
+- Jun 30 - [NASA and SpaceX misjudged the risks from reentering space junk](https://arstechnica.com/space/2024/06/maybe-its-time-to-reassess-the-risk-of-space-junk-falling-to-earth/)
 <!--END_SECTION:hn-->
 
 <!--
