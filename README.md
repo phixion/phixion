@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 30 - [An Analog Network of Resistors Promises Machine Learning Without a Processor](https://www.hackster.io/news/an-analog-network-of-resistors-promises-machine-learning-without-a-processor-researchers-say-d9cb0655b7a0)
-- Jun 30 - [Duff's Device and Coroutines (2008)](https://research.swtch.com/duff)
-- Jun 30 - [Weekend projects: getting silly with C](https://lcamtuf.substack.com/p/weekend-projects-getting-silly-with)
-- Jun 30 - [Inside a $1 radar motion sensor](https://10maurycy10.github.io/projects/motion_sensor_hacking/)
-- Jun 30 - [How Coffee Helped the Union Caffeinate Its Way to Victory in the Civil War](https://www.smithsonianmag.com/history/how-coffee-helped-the-union-caffeinate-their-way-victory-civil-war-180984502/)
+- Jun 30 - [Wavja spheres outperform solar panels using both sun and artificial light](https://www.thecooldown.com/green-tech/photon-energy-systems-solar-spheres-wavja/)
+- Jun 30 - [Dev rejects CVE severity, makes his GitHub repo read-only](https://www.bleepingcomputer.com/news/security/dev-rejects-cve-severity-makes-his-github-repo-read-only/)
+- Jun 30 - [Show HN: Drop-In SQS Replacement Based on SQLite](https://github.com/poundifdef/SmoothMQ)
+- Jun 30 - [Power station's last coal delivery arrives by rail](https://www.bbc.co.uk/news/articles/ckkg0wl7dkro)
+- Jun 30 - [50 Welcome Signs for 50 States](https://commons.wikimedia.org/wiki/U.S._state_welcome_signs)
 <!--END_SECTION:hn-->
 
 <!--
