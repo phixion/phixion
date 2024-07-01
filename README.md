@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 30 - [Google Arts and Culture site I didn't know existed](https://artsandculture.google.com/)
+- Jun 30 - [Convolutions, Fast Fourier Transform and polynomials (2022)](https://www.alvarorevuelta.com/posts/fft-polynomials)
+- Jun 30 - [A Large-Scale Structured Database of a Century of Historical News](https://arxiv.org/abs/2406.09490)
 - Jun 30 - [Postzegelcode](https://en.wikipedia.org/wiki/Postzegelcode)
-- Jun 30 - [Combine multiple RSS feeds into a single feed, as a service](https://github.com/chase-seibert/rsscombine)
-- Jun 30 - [Writing GUI apps for Windows is painful](https://tulach.cc/writing-gui-apps-for-windows-is-painful/)
-- Jun 30 - [A simplified Python simulation of diffusion](https://www.thepythoncodingstack.com/p/python-diffusion-simulation-demo-turtle)
-- Jun 30 - [NASA and SpaceX misjudged the risks from reentering space junk](https://arstechnica.com/space/2024/06/maybe-its-time-to-reassess-the-risk-of-space-junk-falling-to-earth/)
+- Jun 30 - [Why monotonous repetition is unsatisfying](https://patterns.architexturez.net/doc/az-cf-172605)
 <!--END_SECTION:hn-->
 
 <!--
