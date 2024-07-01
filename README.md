@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 30 - [Google Arts and Culture site I didn't know existed](https://artsandculture.google.com/)
-- Jun 30 - [Convolutions, Fast Fourier Transform and polynomials (2022)](https://www.alvarorevuelta.com/posts/fft-polynomials)
-- Jun 30 - [A Large-Scale Structured Database of a Century of Historical News](https://arxiv.org/abs/2406.09490)
-- Jun 30 - [Postzegelcode](https://en.wikipedia.org/wiki/Postzegelcode)
-- Jun 30 - [Why monotonous repetition is unsatisfying](https://patterns.architexturez.net/doc/az-cf-172605)
+- Jul 01 - [Richat Structure](https://earthobservatory.nasa.gov/images/92071/richat-structure)
+- Jul 01 - [Pipes: A spiritual successor to Yahoo Pipes](https://www.pipes.digital/docs)
+- Jul 01 - [Userland rootkits are lame (2022)](https://grugq.substack.com/p/userland-rootkits-are-lame)
+- Jul 01 - [A Model of a Mind](https://tylerneylon.com/a/mind_model/mind_model.html)
+- Jun 30 - [Matters Computational [pdf]](http://www.jjj.de/fxt/#fxtbook)
 <!--END_SECTION:hn-->
 
 <!--
