@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 01 - [Optery (YC W22) Is Hiring Back End Engineers (Python and Django) & Sales (Remote)](https://www.ycombinator.com/companies/optery/jobs)
-- Jul 01 - [A landscape of consciousness: Toward a taxonomy of explanations and implications](https://www.sciencedirect.com/science/article/pii/S0079610723001128)
-- Jul 01 - [Over 100K+ Sites Hit by Polyfill.io Supply Chain Attack](https://www.infoq.com/news/2024/06/polyfill-supply-chain-attack/)
-- Jul 01 - [Product Hunt Upvotes Are Worthless: Real Customers Aren't There](https://news.ycombinator.com/item?id=40844727)
-- Jul 01 - [Uncomfortable truth: How close is "positivity culture" to delusion and denial?](https://jakeseliger.com/2024/06/24/uncomfortable-truth-how-close-is-positivity-culture-to-delusion-and-denial/)
+- Jul 01 - [Ask HN: Who is hiring? (July 2024)](https://news.ycombinator.com/item?id=40846428)
+- Jul 01 - [Welcome to Ladybird](https://ladybird.org/)
+- Jul 01 - [Quantum is unimportant to post-quantum](https://blog.trailofbits.com/2024/07/01/quantum-is-unimportant-to-post-quantum/)
+- Jul 01 - [Facebook and Instagram's 'pay or consent' ad model violates the DMA, says the EU](https://www.theverge.com/2024/7/1/24189796/eu-meta-dma-violation-pay-consent-ads-model)
+- Jul 01 - [My Python code is a neural network](https://blog.gabornyeki.com/2024-07-my-python-code-is-a-neural-network/)
 <!--END_SECTION:hn-->
 
 <!--
