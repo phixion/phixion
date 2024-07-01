@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 01 - [Richat Structure](https://earthobservatory.nasa.gov/images/92071/richat-structure)
-- Jul 01 - [Pipes: A spiritual successor to Yahoo Pipes](https://www.pipes.digital/docs)
-- Jul 01 - [Userland rootkits are lame (2022)](https://grugq.substack.com/p/userland-rootkits-are-lame)
-- Jul 01 - [A Model of a Mind](https://tylerneylon.com/a/mind_model/mind_model.html)
-- Jun 30 - [Matters Computational [pdf]](http://www.jjj.de/fxt/#fxtbook)
+- Jul 01 - [Multivitamin does not improve longevity](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2820369)
+- Jul 01 - [Can a law make social media less 'addictive'?](https://www.bbc.com/future/article/20240626-can-a-law-make-social-media-less-addictive)
+- Jul 01 - [How Google migrated billions of lines of code from Perforce to Piper](https://graphite.dev/blog/google-perforce-to-piper-migration)
+- Jul 01 - [Show HN: BerqWP – Automatically Optimize Core Web Vitals for WordPress](https://berqwp.com/)
+- Jul 01 - [Quaternions in Signal and Image Processing](https://ieeexplore.ieee.org/document/10243497)
 <!--END_SECTION:hn-->
 
 <!--
