@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 01 - [Multivitamin does not improve longevity](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2820369)
-- Jul 01 - [Can a law make social media less 'addictive'?](https://www.bbc.com/future/article/20240626-can-a-law-make-social-media-less-addictive)
-- Jul 01 - [How Google migrated billions of lines of code from Perforce to Piper](https://graphite.dev/blog/google-perforce-to-piper-migration)
-- Jul 01 - [Show HN: BerqWP – Automatically Optimize Core Web Vitals for WordPress](https://berqwp.com/)
-- Jul 01 - [Quaternions in Signal and Image Processing](https://ieeexplore.ieee.org/document/10243497)
+- Jul 01 - [Optery (YC W22) Is Hiring Back End Engineers (Python and Django) & Sales (Remote)](https://www.ycombinator.com/companies/optery/jobs)
+- Jul 01 - [A landscape of consciousness: Toward a taxonomy of explanations and implications](https://www.sciencedirect.com/science/article/pii/S0079610723001128)
+- Jul 01 - [Over 100K+ Sites Hit by Polyfill.io Supply Chain Attack](https://www.infoq.com/news/2024/06/polyfill-supply-chain-attack/)
+- Jul 01 - [Product Hunt Upvotes Are Worthless: Real Customers Aren't There](https://news.ycombinator.com/item?id=40844727)
+- Jul 01 - [Uncomfortable truth: How close is "positivity culture" to delusion and denial?](https://jakeseliger.com/2024/06/24/uncomfortable-truth-how-close-is-positivity-culture-to-delusion-and-denial/)
 <!--END_SECTION:hn-->
 
 <!--
