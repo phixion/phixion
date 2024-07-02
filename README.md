@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 02 - [Mako – fast, production-grade web bundler based on Rust](https://makojs.dev/blog/mako-open-sourced)
-- Jul 02 - [Booting Linux Off of Google Drive](https://ersei.net/en/blog/fuse-root)
-- Jul 02 - [Did Turing prove the undecidability of the halting problem?](https://arxiv.org/abs/2407.00680)
-- Jul 01 - [Spending too much time optimizing for loops](https://octavelarose.github.io/2024/05/29/to-do-inlining.html)
-- Jul 01 - [Getting the World Record in Hatetris (2022)](https://hallofdreams.org/posts/hatetris/)
+- Jul 02 - [Lago – Open-Source Usage Based Billing Is Hiring a Data Scientist (EU-Based)](https://www.ycombinator.com/companies/lago/jobs/O7dCOie-data-scientist)
+- Jul 02 - [Htmx does not play well with content security policy](https://www.sjoerdlangkemper.nl/2024/06/26/htmx-content-security-policy/)
+- Jul 02 - [Tech went from free love to pay-per-click](https://www.theregister.com/2024/07/02/foss_ai_blockchain/)
+- Jul 02 - [Welcome to Ladybird, a truly independent web browser](https://ladybird.org/index.html)
+- Jul 02 - [Microsoft Updated Phi-3](https://twitter.com/reach_vb/status/1808056108319179012)
 <!--END_SECTION:hn-->
 
 <!--
