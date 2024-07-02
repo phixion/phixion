@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 01 - [Switzerland mandates software source code disclosure for public sector](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/new-open-source-law-switzerland)
+- Jul 02 - [Greece introduces 'growth-oriented' six-day working week](https://www.theguardian.com/world/article/2024/jul/01/greece-introduces-growth-oriented-six-day-working-week)
+- Jul 02 - [Remote Unauthenticated Code Execution in OpenSSH Server](https://blog.qualys.com/vulnerabilities-threat-research/2024/07/01/regresshion-remote-unauthenticated-code-execution-vulnerability-in-openssh-server)
+- Jul 01 - [Spending too much time optimizing for loops](https://octavelarose.github.io/2024/05/29/to-do-inlining.html)
 - Jul 01 - [Getting the World Record in Hatetris (2022)](https://hallofdreams.org/posts/hatetris/)
-- Jul 01 - [Code Reviews Do Find Bugs](https://two-wrongs.com/code-reviews-do-find-bugs.html)
-- Jul 01 - [Improving Your Zig Language Server Experience](https://kristoff.it/blog/improving-your-zls-experience/)
-- Jul 01 - [syntaqx/cookie: Cookies, but with structs, for happiness](https://github.com/syntaqx/cookie)
+- Jul 01 - [Code reviews do find bugs](https://two-wrongs.com/code-reviews-do-find-bugs.html)
 <!--END_SECTION:hn-->
 
 <!--
