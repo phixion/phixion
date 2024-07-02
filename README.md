@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 02 - [BusyBeaver(5) is now known to be 47,176,870](https://scottaaronson.blog/?p=8088)
-- Jul 02 - [50 Years of Rubik's Cube](https://www.rubiks.com/history#timeline)
-- Jul 02 - [8cc.vim: Pure Vim script C Compiler](https://github.com/rhysd/8cc.vim)
-- Jul 02 - [The history of Alt+number sequences](https://devblogs.microsoft.com/oldnewthing/20240702-00/?p=109951)
-- Jul 02 - [With fifth busy beaver, researchers approach computation's limits](https://www.quantamagazine.org/amateur-mathematicians-find-fifth-busy-beaver-turing-machine-20240702/)
+- Jul 02 - [Nuclear spectroscopy breakthrough could rewrite fundamental constants of nature](https://newsroom.ucla.edu/releases/nuclear-spectroscopy-breakthrough-could-rewrite-fundamental-constants-of-nature)
+- Jul 02 - [New design approach identifies routes to stronger titanium alloys](https://techxplore.com/news/2024-07-approach-routes-stronger-titanium-alloys.html)
+- Jul 02 - [Bruce Bastian, WordPerfect co-creator, has died](https://www.heraldextra.com/news/local/2024/jun/17/bruce-bastian-byu-alum-turned-tech-pioneer-and-equality-advocate-dies-at-76/)
+- Jul 02 - [OmniAI (YC W24) Is Hiring a Founding Engineer in SF](https://www.workatastartup.com/jobs/67540)
+- Jul 02 - [Meta 3D Gen](https://ai.meta.com/research/publications/meta-3d-gen/)
 <!--END_SECTION:hn-->
 
 <!--
