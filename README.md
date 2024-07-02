@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 01 - [An open letter to the United Nations](https://open-internet-governance.org/letter)
-- Jul 01 - [Climate change to shift tropical rains northward, suggests computer modeling](https://smartwatermagazine.com/news/university-california-riverside/climate-change-shift-tropical-rains-northward-suggests-computer)
-- Jul 01 - [Pharma firms stash profits in Europe's tax havens](https://www.investigate-europe.eu/posts/deadly-prices-pharma-firms-stash-profits-in-europes-tax-havens-as-patients-struggle-with-drug-prices)
-- Jul 01 - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4381552006)
-- Jul 01 - [Supreme Court rules ex-presidents have immunity for official acts](https://apnews.com/article/supreme-court-trump-capitol-riot-immunity-2dc0d1c2368d404adc0054151490f542)
+- Jul 01 - [Switzerland mandates software source code disclosure for public sector](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/new-open-source-law-switzerland)
+- Jul 01 - [Getting the World Record in Hatetris (2022)](https://hallofdreams.org/posts/hatetris/)
+- Jul 01 - [Code Reviews Do Find Bugs](https://two-wrongs.com/code-reviews-do-find-bugs.html)
+- Jul 01 - [Improving Your Zig Language Server Experience](https://kristoff.it/blog/improving-your-zls-experience/)
+- Jul 01 - [syntaqx/cookie: Cookies, but with structs, for happiness](https://github.com/syntaqx/cookie)
 <!--END_SECTION:hn-->
 
 <!--
