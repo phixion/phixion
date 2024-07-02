@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 02 - [Lago – Open-Source Usage Based Billing Is Hiring a Data Scientist (EU-Based)](https://www.ycombinator.com/companies/lago/jobs/O7dCOie-data-scientist)
-- Jul 02 - [Htmx does not play well with content security policy](https://www.sjoerdlangkemper.nl/2024/06/26/htmx-content-security-policy/)
-- Jul 02 - [Tech went from free love to pay-per-click](https://www.theregister.com/2024/07/02/foss_ai_blockchain/)
-- Jul 02 - [Welcome to Ladybird, a truly independent web browser](https://ladybird.org/index.html)
-- Jul 02 - [Microsoft Updated Phi-3](https://twitter.com/reach_vb/status/1808056108319179012)
+- Jul 02 - [BusyBeaver(5) is now known to be 47,176,870](https://scottaaronson.blog/?p=8088)
+- Jul 02 - [50 Years of Rubik's Cube](https://www.rubiks.com/history#timeline)
+- Jul 02 - [8cc.vim: Pure Vim script C Compiler](https://github.com/rhysd/8cc.vim)
+- Jul 02 - [The history of Alt+number sequences](https://devblogs.microsoft.com/oldnewthing/20240702-00/?p=109951)
+- Jul 02 - [With fifth busy beaver, researchers approach computation's limits](https://www.quantamagazine.org/amateur-mathematicians-find-fifth-busy-beaver-turing-machine-20240702/)
 <!--END_SECTION:hn-->
 
 <!--
