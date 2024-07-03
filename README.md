@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 03 - [Heavy resistance training at retirement age induces lasting beneficial effects](https://bmjopensem.bmj.com/content/10/2/e001899)
-- Jul 03 - [Dear Julia, Dear Yuri: A mathematical correspondence (2022)](https://celebratio.org/Robinson_JB/article/964/)
-- Jul 03 - [Show HN: Improve LLM Performance by Maximizing Iterative Development](https://github.com/palico-ai/palico-ai)
-- Jul 03 - [The Biggest Problem in Mathematics Is Finally a Step Closer to Being Solved](https://www.scientificamerican.com/article/the-riemann-hypothesis-the-biggest-problem-in-mathematics-is-a-step-closer/)
-- Jul 03 - [Chinese AI stirs panic at European geoscience society](https://www.science.org/content/article/chinese-ai-stirs-panic-european-geoscience-society)
+- Jul 03 - [Converge (YC S23) Is Hiring a Founding Account Executive](https://www.ycombinator.com/companies/converge/jobs/vpxyPWD-founding-account-executive)
+- Jul 03 - [A Bugatti car, a first lady and the fake stories aimed at Americans](https://www.bbc.co.uk/news/articles/c72ver6172do)
+- Jul 03 - [Google's greenhouse gas emissions jump 48% in five years](https://arstechnica.com/gadgets/2024/07/googles-greenhouse-gas-emissions-jump-48-in-five-years/)
+- Jul 03 - [I Received an AI Email](https://timharek.no/blog/i-received-an-ai-email)
+- Jul 03 - [Reproducibility in Disguise](https://fzakaria.com/2024/07/02/reproducibility-in-disguise.html)
 <!--END_SECTION:hn-->
 
 <!--
