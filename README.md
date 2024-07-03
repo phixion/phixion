@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 03 - [Dolphin Emulator changes to a rolling release model](https://dolphin-emu.org/blog/2024/07/02/dolphin-releases-announcement/)
+- Jul 03 - ['Almost whole island homeless' in Hurricane Beryl's wake](https://www.bbc.com/news/articles/c724x1rjlpno)
+- Jul 03 - [Developing Inside a Container](https://code.visualstudio.com/docs/devcontainers/containers)
 - Jul 03 - [Converge (YC S23) Is Hiring a Founding Account Executive](https://www.ycombinator.com/companies/converge/jobs/vpxyPWD-founding-account-executive)
-- Jul 03 - [A Bugatti car, a first lady and the fake stories aimed at Americans](https://www.bbc.co.uk/news/articles/c72ver6172do)
-- Jul 03 - [Google's greenhouse gas emissions jump 48% in five years](https://arstechnica.com/gadgets/2024/07/googles-greenhouse-gas-emissions-jump-48-in-five-years/)
 - Jul 03 - [I Received an AI Email](https://timharek.no/blog/i-received-an-ai-email)
-- Jul 03 - [Reproducibility in Disguise](https://fzakaria.com/2024/07/02/reproducibility-in-disguise.html)
 <!--END_SECTION:hn-->
 
 <!--
