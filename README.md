@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 02 - [Nuclear spectroscopy breakthrough could rewrite fundamental constants of nature](https://newsroom.ucla.edu/releases/nuclear-spectroscopy-breakthrough-could-rewrite-fundamental-constants-of-nature)
-- Jul 02 - [New design approach identifies routes to stronger titanium alloys](https://techxplore.com/news/2024-07-approach-routes-stronger-titanium-alloys.html)
-- Jul 02 - [Bruce Bastian, WordPerfect co-creator, has died](https://www.heraldextra.com/news/local/2024/jun/17/bruce-bastian-byu-alum-turned-tech-pioneer-and-equality-advocate-dies-at-76/)
-- Jul 02 - [OmniAI (YC W24) Is Hiring a Founding Engineer in SF](https://www.workatastartup.com/jobs/67540)
-- Jul 02 - [Meta 3D Gen](https://ai.meta.com/research/publications/meta-3d-gen/)
+- Jul 02 - [What makes e natural? (2004)](https://www.komal.hu/cikkek/2004-ang/e.e.shtml)
+- Jul 02 - [The Illustrated Transformer (2018)](https://jalammar.github.io/illustrated-transformer/)
+- Jul 02 - [Brazil data regulator bans Meta from mining data to train AI models](https://apnews.com/article/brazil-tech-meta-privacy-data-93e00b2e0e26f7cc98795dd052aea8e1)
+- Jul 02 - [Explainability is not a game](https://cacm.acm.org/research/explainability-is-not-a-game/)
+- Jul 02 - [Creatine improves physical function and body composition in older adults](https://pubmed.ncbi.nlm.nih.gov/38417175/)
 <!--END_SECTION:hn-->
 
 <!--
