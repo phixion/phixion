@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 02 - [What makes e natural? (2004)](https://www.komal.hu/cikkek/2004-ang/e.e.shtml)
-- Jul 02 - [The Illustrated Transformer (2018)](https://jalammar.github.io/illustrated-transformer/)
-- Jul 02 - [Brazil data regulator bans Meta from mining data to train AI models](https://apnews.com/article/brazil-tech-meta-privacy-data-93e00b2e0e26f7cc98795dd052aea8e1)
-- Jul 02 - [Explainability is not a game](https://cacm.acm.org/research/explainability-is-not-a-game/)
-- Jul 02 - [Creatine improves physical function and body composition in older adults](https://pubmed.ncbi.nlm.nih.gov/38417175/)
+- Jul 03 - [Heavy resistance training at retirement age induces lasting beneficial effects](https://bmjopensem.bmj.com/content/10/2/e001899)
+- Jul 03 - [Dear Julia, Dear Yuri: A mathematical correspondence (2022)](https://celebratio.org/Robinson_JB/article/964/)
+- Jul 03 - [Show HN: Improve LLM Performance by Maximizing Iterative Development](https://github.com/palico-ai/palico-ai)
+- Jul 03 - [The Biggest Problem in Mathematics Is Finally a Step Closer to Being Solved](https://www.scientificamerican.com/article/the-riemann-hypothesis-the-biggest-problem-in-mathematics-is-a-step-closer/)
+- Jul 03 - [Chinese AI stirs panic at European geoscience society](https://www.science.org/content/article/chinese-ai-stirs-panic-european-geoscience-society)
 <!--END_SECTION:hn-->
 
 <!--
