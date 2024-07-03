@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 03 - [Dolphin Emulator changes to a rolling release model](https://dolphin-emu.org/blog/2024/07/02/dolphin-releases-announcement/)
-- Jul 03 - ['Almost whole island homeless' in Hurricane Beryl's wake](https://www.bbc.com/news/articles/c724x1rjlpno)
-- Jul 03 - [Developing Inside a Container](https://code.visualstudio.com/docs/devcontainers/containers)
-- Jul 03 - [Converge (YC S23) Is Hiring a Founding Account Executive](https://www.ycombinator.com/companies/converge/jobs/vpxyPWD-founding-account-executive)
-- Jul 03 - [I Received an AI Email](https://timharek.no/blog/i-received-an-ai-email)
+- Jul 03 - [Do not taunt happy fun branch predictor (2023)](https://www.mattkeeter.com/blog/2023-01-25-branch/)
+- Jul 03 - [Ask HN: Has anyone successfully pivoted from web dev to AI/ML development?](https://news.ycombinator.com/item?id=40866311)
+- Jul 03 - [Living in a Lucid Dream](https://www.noemamag.com/living-in-a-lucid-dream/)
+- Jul 03 - [Proton launches its own version of Google Docs](https://www.engadget.com/proton-launches-its-own-version-of-google-docs-100044471.html)
+- Jul 03 - [Show HN: Jb / json.bash – Command-line tool (and bash library) that creates JSON](https://github.com/h4l/json.bash)
 <!--END_SECTION:hn-->
 
 <!--
