@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 04 - [Twilio Confirms Data Breach After Hackers Leak 33M Authy User Phone Numbers](https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/)
-- Jul 04 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- Jul 04 - [Jeffrey Snover and the Making of PowerShell](https://corecursive.com/building-powershell-with-jeffrey-snover/)
-- Jul 04 - [Fly.io initiates Region-specific Machines pricing](https://community.fly.io/t/fresh-produce-region-specific-machines-pricing/20690)
-- Jul 04 - [Show HN: I made a split keyboard for large palms](https://www.jogmekeebs.com)
+- Jul 04 - [HE.net problem](https://mailman.nanog.org/pipermail/nanog/2024-July/225901.html)
+- Jul 04 - [Th64: Tiny Hash Function in C](https://github.com/tidwall/th64)
+- Jul 04 - [Batteries: How cheap can they get?](https://aukehoekstra.substack.com/p/batteries-how-cheap-can-they-get)
+- Jul 04 - [Insights from over 10,000 comments on "Ask HN: Who Is Hiring" using GPT-4o](https://tamerc.com/posts/ask-hn-who-is-hiring/)
+- Jul 04 - [I made a tool to index websites on Google in less than 48 hours](https://indexblaze.com/)
 <!--END_SECTION:hn-->
 
 <!--
