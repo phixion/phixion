@@ -19,9 +19,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 04 - [Twilio Confirms Data Breach After Hackers Leak 33M Authy User Phone Numbers](https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/)
 - Jul 04 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 - Jul 04 - [Jeffrey Snover and the Making of PowerShell](https://corecursive.com/building-powershell-with-jeffrey-snover/)
-- Jul 04 - [Kanban vs. Scrum: What's the Difference?](https://www.leiga.com/post/kanban-vs-scrum)
 - Jul 04 - [Fly.io initiates Region-specific Machines pricing](https://community.fly.io/t/fresh-produce-region-specific-machines-pricing/20690)
 - Jul 04 - [Show HN: I made a split keyboard for large palms](https://www.jogmekeebs.com)
 <!--END_SECTION:hn-->
