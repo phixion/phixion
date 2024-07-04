@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 04 - [Katharine Way, John Wheeler, and the Dawn of Nuclear Fission](https://www.amphilsoc.org/blog/katharine-way-john-wheeler-and-dawn-nuclear-fission)
-- Jul 04 - [Finding near-duplicates with Jaccard similarity and MinHash](https://blog.nelhage.com/post/fuzzy-dedup/)
-- Jul 04 - [Building a data compression utility in Haskell using Huffman codes](https://lazamar.github.io/haskell-data-compression-with-huffman-codes/)
-- Jul 04 - [The saddest "Just Ship It" story ever (2020)](https://www.kitze.io/posts/saddest-just-ship-it-story-ever)
-- Jul 04 - [Sans-IO: The secret to effective Rust for network services](https://www.firezone.dev/blog/sans-io)
+- Jul 04 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- Jul 04 - [Jeffrey Snover and the Making of PowerShell](https://corecursive.com/building-powershell-with-jeffrey-snover/)
+- Jul 04 - [Kanban vs. Scrum: What's the Difference?](https://www.leiga.com/post/kanban-vs-scrum)
+- Jul 04 - [Fly.io initiates Region-specific Machines pricing](https://community.fly.io/t/fresh-produce-region-specific-machines-pricing/20690)
+- Jul 04 - [Show HN: I made a split keyboard for large palms](https://www.jogmekeebs.com)
 <!--END_SECTION:hn-->
 
 <!--
