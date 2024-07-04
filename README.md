@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 04 - [Ask HN: Vision Pro owners, are you still using it?](https://news.ycombinator.com/item?id=40872102)
+- Jul 04 - [Katharine Way, John Wheeler, and the Dawn of Nuclear Fission](https://www.amphilsoc.org/blog/katharine-way-john-wheeler-and-dawn-nuclear-fission)
+- Jul 04 - [Finding near-duplicates with Jaccard similarity and MinHash](https://blog.nelhage.com/post/fuzzy-dedup/)
+- Jul 04 - [Building a data compression utility in Haskell using Huffman codes](https://lazamar.github.io/haskell-data-compression-with-huffman-codes/)
+- Jul 04 - [The saddest "Just Ship It" story ever (2020)](https://www.kitze.io/posts/saddest-just-ship-it-story-ever)
 - Jul 04 - [Sans-IO: The secret to effective Rust for network services](https://www.firezone.dev/blog/sans-io)
-- Jul 04 - [Diffusion Forcing: Next-Token Prediction Meets Full-Sequence Diffusion](https://boyuan.space/diffusion-forcing/)
-- Jul 03 - [Introduction to Program Synthesis](https://people.csail.mit.edu/asolar/SynthesisCourse/Lecture1.htm)
-- Jul 03 - [Wordsworth Donisthorpe, Blackmail, and the First Motion Pictures](https://publicdomainreview.org/essay/wordsworth-donisthorpe-blackmail-and-the-first-motion-pictures/)
 <!--END_SECTION:hn-->
 
 <!--
