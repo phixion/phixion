@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 03 - [Creating My Own Linux-Based Smart TV](https://carltheperson.com/posts/earlgreytv/)
-- Jul 03 - [Luakit: A fast, extensible, and customizable web browser](https://luakit.github.io/)
-- Jul 03 - [Meta Sees ~5% Performance Gains to Optimizing the Linux Kernel with Bolt](https://www.phoronix.com/news/Linux-BOLT-5p-Performance)
-- Jul 03 - [Spice (YC S19) Is Hiring](https://www.ycombinator.com/companies/spice/jobs/TijA35R-software-engineer)
-- Jul 03 - [A practical introduction to constraint programming using CP-SAT and Python](https://pganalyze.com/blog/a-practical-introduction-to-constraint-programming-using-cp-sat)
+- Jul 03 - [Federal judge partially blocks U.S. ban on noncompetes](https://www.npr.org/2024/07/03/nx-s1-5020525/noncompete-ban-block-ftc-competition-ryan-texas)
+- Jul 03 - [Wordsworth Donisthorpe, Blackmail, and the First Motion Pictures](https://publicdomainreview.org/essay/wordsworth-donisthorpe-blackmail-and-the-first-motion-pictures/)
+- Jul 03 - [Diving into deep learning: Understanding Deep Learning book review [pdf]](https://github.com/udlbook/udlbook/blob/main/public/NMI_Review.pdf)
+- Jul 03 - [USB and the Myth of 500 Milliamps](https://hackaday.com/2024/07/03/usb-and-the-myth-of-500-milliamps/)
+- Jul 03 - [The Origins of DS_store (2006)](https://www.arno.org/on-the-origins-of-ds-store)
 <!--END_SECTION:hn-->
 
 <!--
