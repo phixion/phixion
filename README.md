@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 05 - [Debian GNU/Hurd now can compile 71% of the packages from the Debian archive](https://www.gnu.org/software/hurd/news/2024-q2.html)
-- Jul 05 - [Put the DVD logo in the corner (2023)](https://eieio.games/game-diary/game-6-get-the-dvd-logo-into-the-corner/)
-- Jul 05 - [I was at AMD in the mid-late 2000s helping design CPU/APU/GPUs](https://twitter.com/mohapatrahemant/status/1809135345683841050)
-- Jul 05 - [Fresh wind blows from historical supernova](https://www.u-tokyo.ac.jp/focus/en/press/z0508_00361.html)
-- Jul 05 - [Confido (YC S21) Is Hiring](https://www.ycombinator.com/companies/confido/jobs/xyw5xRU-full-stack-engineer)
+- Jul 05 - [PostgreSQL and UUID as Primary Key](https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/)
+- Jul 05 - [UK election day 2024: traffic trends and attacks on political parties](https://blog.cloudflare.com/uk-election-day-2024-traffic-trends-and-attacks-on-political-parties)
+- Jul 05 - [Mysterious export controls on quantum computers](https://www.newscientist.com/article/2436023-multiple-nations-enact-mysterious-export-controls-on-quantum-computers/)
+- Jul 05 - [Fossil of Neanderthal child with Down's syndrome hints early humans' compassion](https://www.theguardian.com/science/article/2024/jun/26/fossil-of-neanderthal-child-with-downs-syndrome-hints-at-early-humans-compassion)
+- Jul 05 - [Volcanoes Can Affect Climate](https://www.usgs.gov/programs/VHP/volcanoes-can-affect-climate)
 <!--END_SECTION:hn-->
 
 <!--
