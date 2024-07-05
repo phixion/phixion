@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 04 - [Reverse Engineering the Verification QR Code on My Diploma](https://obrhubr.org/reverse-engineering-diploma)
-- Jul 04 - [The Snapdragon X Elite's Adreno iGPU](https://chipsandcheese.com/2024/07/04/the-snapdragon-x-elites-adreno-igpu/)
-- Jul 04 - [Rollstack (YC W23) Is Hiring TypeScript Engineers in Europe](https://www.ycombinator.com/companies/rollstack-2/jobs/)
-- Jul 04 - [NexDock turns your smartphone into a laptop](https://nexdock.com/)
-- Jul 04 - [Japan introduces enormous humanoid robot to maintain train lines](https://www.theguardian.com/world/article/2024/jul/04/japan-train-robot-maintain-railway-lines)
+- Jul 05 - [Why Michigan Still Uses a Ford Model T for Official Government Business](https://www.theautopian.com/heres-why-michigan-still-uses-a-ford-model-t-for-official-government-business/)
+- Jul 05 - [Refined GitHub: GitHub a lot and notice many annoyances we'd like to fix](https://github.com/refined-github/refined-github)
+- Jul 05 - [Roku update turns on hated motion-smoothing feature, with no off switch](https://boingboing.net/2024/07/04/roku-update-turns-on-hated-motion-smoothing-feature-with-no-off-switch.html)
+- Jul 05 - [Show HN: Bitcoin Smart Contract SDK, So Easy to Use](https://github.com/ChrisCho-H/bitcoin-sdk-js)
+- Jul 05 - [Math Behind Transformers and LLMs](https://x-dev.pages.jsc.fz-juelich.de//2022/07/13/transformers-matmul.html)
 <!--END_SECTION:hn-->
 
 <!--
