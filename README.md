@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 04 - [HE.net problem](https://mailman.nanog.org/pipermail/nanog/2024-July/225901.html)
-- Jul 04 - [Th64: Tiny Hash Function in C](https://github.com/tidwall/th64)
-- Jul 04 - [Batteries: How cheap can they get?](https://aukehoekstra.substack.com/p/batteries-how-cheap-can-they-get)
-- Jul 04 - [Insights from over 10,000 comments on "Ask HN: Who Is Hiring" using GPT-4o](https://tamerc.com/posts/ask-hn-who-is-hiring/)
-- Jul 04 - [I made a tool to index websites on Google in less than 48 hours](https://indexblaze.com/)
+- Jul 04 - [Reverse Engineering the Verification QR Code on My Diploma](https://obrhubr.org/reverse-engineering-diploma)
+- Jul 04 - [The Snapdragon X Elite's Adreno iGPU](https://chipsandcheese.com/2024/07/04/the-snapdragon-x-elites-adreno-igpu/)
+- Jul 04 - [Rollstack (YC W23) Is Hiring TypeScript Engineers in Europe](https://www.ycombinator.com/companies/rollstack-2/jobs/)
+- Jul 04 - [NexDock turns your smartphone into a laptop](https://nexdock.com/)
+- Jul 04 - [Japan introduces enormous humanoid robot to maintain train lines](https://www.theguardian.com/world/article/2024/jul/04/japan-train-robot-maintain-railway-lines)
 <!--END_SECTION:hn-->
 
 <!--
