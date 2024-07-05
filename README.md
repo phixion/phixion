@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 05 - [Why Michigan Still Uses a Ford Model T for Official Government Business](https://www.theautopian.com/heres-why-michigan-still-uses-a-ford-model-t-for-official-government-business/)
-- Jul 05 - [Refined GitHub: GitHub a lot and notice many annoyances we'd like to fix](https://github.com/refined-github/refined-github)
-- Jul 05 - [Roku update turns on hated motion-smoothing feature, with no off switch](https://boingboing.net/2024/07/04/roku-update-turns-on-hated-motion-smoothing-feature-with-no-off-switch.html)
-- Jul 05 - [Show HN: Bitcoin Smart Contract SDK, So Easy to Use](https://github.com/ChrisCho-H/bitcoin-sdk-js)
-- Jul 05 - [Math Behind Transformers and LLMs](https://x-dev.pages.jsc.fz-juelich.de//2022/07/13/transformers-matmul.html)
+- Jul 05 - [Why Vivaldi won't follow the current AI trend?](https://vivaldi.com/blog/technology/vivaldi-wont-allow-a-machine-to-lie-to-you/)
+- Jul 05 - ["Technical" Skills](https://sashalaundy.com/writing/technical-skills/)
+- Jul 05 - [General Electric HTRE-3 Nuclear Jet Engine](https://planehistoria.com/general-electric-htre-3-nuclear-jet-engine/)
+- Jul 05 - [Moving to a RTOS on the RP2040](https://blog.brixit.nl/moving-to-a-rtos-on-the-rp2040/)
+- Jul 05 - [Show HN: I made shopping clothes online easier](https://www.curate.fit/)
 <!--END_SECTION:hn-->
 
 <!--
