@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 05 - [Why Vivaldi won't follow the current AI trend?](https://vivaldi.com/blog/technology/vivaldi-wont-allow-a-machine-to-lie-to-you/)
-- Jul 05 - ["Technical" Skills](https://sashalaundy.com/writing/technical-skills/)
+- Jul 05 - [Confido (YC S21) Is Hiring](https://www.ycombinator.com/companies/confido/jobs/xyw5xRU-full-stack-engineer)
+- Jul 05 - [Male dance moves that catch a woman's eye](https://royalsocietypublishing.org/doi/abs/10.1098/rsbl.2010.0619)
+- Jul 05 - [I Have No Constructor, and I Must Initialize](https://consteval.ca/2024/07/03/initialization/)
 - Jul 05 - [General Electric HTRE-3 Nuclear Jet Engine](https://planehistoria.com/general-electric-htre-3-nuclear-jet-engine/)
 - Jul 05 - [Moving to a RTOS on the RP2040](https://blog.brixit.nl/moving-to-a-rtos-on-the-rp2040/)
-- Jul 05 - [Show HN: I made shopping clothes online easier](https://www.curate.fit/)
 <!--END_SECTION:hn-->
 
 <!--
