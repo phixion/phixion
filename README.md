@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 06 - [Anxious Generation – How Safetyism and Social Media Are Damaging the Kids](https://matija.eu/posts/anxious-generation-safetyism-social-media/)
-- Jul 06 - [Fata Morgana](https://en.wikipedia.org/wiki/Fata_Morgana_(mirage))
-- Jul 06 - [Properly testing concurrent data structures](https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html)
-- Jul 06 - [Show HN: A JavaScript UI library for imperative JSX](https://www.npmjs.com/package/@matry/dom)
-- Jul 06 - [Hadrius (YC W23) Is Hiring Founding Engineers in NYC](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
+- Jul 06 - [New AI Training Technique Is Drastically Faster, Says Google](https://decrypt.co/238730/new-ai-training-technique-is-drastically-faster-says-google)
+- Jul 06 - [Against the Burden of Knowledge](https://www.theseedsofscience.pub/p/against-the-burden-of-knowledge)
+- Jul 06 - [Tokens are a big reason today's generative AI falls short](https://techcrunch.com/2024/07/06/tokens-are-a-big-reason-todays-generative-ai-falls-short/)
+- Jul 06 - [Why privacy is important, and having "nothing to hide" is irrelevant (2016)](https://robindoherty.com/2016/01/06/nothing-to-hide.html)
+- Jul 06 - [Emergency rooms are not okay](https://yourlocalepidemiologist.substack.com/p/emergency-rooms-are-not-okay)
 <!--END_SECTION:hn-->
 
 <!--
