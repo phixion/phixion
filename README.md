@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 06 - [Mineral winds down: 'We will no longer be an Alphabet company'](https://agfundernews.com/mineral-winds-down-we-will-no-longer-be-an-alphabet-company-but-our-technology-will-live-on)
-- Jul 06 - [DevOps Isn't Dead, but It's Not in Great Health Either](https://thenewstack.io/devops-isnt-dead-but-its-not-in-great-health-either/)
-- Jul 06 - [Apple okays Epic Games marketplace app in Europe](https://www.reuters.com/technology/epic-games-says-apple-stalling-launch-its-game-store-europe-2024-07-05/)
-- Jul 06 - [Private firms and open sources are giving spies a run for their money](https://www.economist.com/technology-quarterly/2024/07/01/private-firms-and-open-sources-are-giving-spies-a-run-for-their-money)
-- Jul 06 - [1Password and 2FA: Is it wrong to store passwords and one-time codes together? (2023)](https://blog.1password.com/1password-2fa-passwords-codes-together/)
+- Jul 06 - [Hadrius (YC W23) Is Hiring Founding Engineers in NYC](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
+- Jul 06 - [Summary of Major Changes Between Python Versions](https://www.nicholashairs.com/posts/major-changes-between-python-versions/)
+- Jul 06 - [Ask HN: Which programming podcasts do you listen to?](https://news.ycombinator.com/item?id=40889280)
+- Jul 06 - [U.S. SEC Wins 'Shadow Insider Trading' Trial](https://www.akingump.com/en/insights/alerts/the-sec-wins-shadow-insider-trading-trial)
+- Jul 06 - [Build and train GPT-2 from scratch using PyTorch](https://differ.blog/p/here-s-how-you-can-build-and-train-gpt-2-from-scratch-using-pytorch-ace4ba)
 <!--END_SECTION:hn-->
 
 <!--
