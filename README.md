@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Jul 06 - [Roblox Developer Conference (2024) - 10,386 breached accounts](https://haveibeenpwned.com/PwnedWebsites#RobloxDeveloperConference2024)
 - Jun 28 - [Ticketek - 17,643,173 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Ticketek)
 - Jun 24 - [Advance Auto Parts - 79,243,727 breached accounts](https://haveibeenpwned.com/PwnedWebsites#AdvanceAutoParts)
 - Jun 17 - [Zadig & Voltaire - 586,895 breached accounts](https://haveibeenpwned.com/PwnedWebsites#ZadigVoltaire)
 - Jun 03 - [Combolists Posted to Telegram - 361,468,099 breached accounts](https://haveibeenpwned.com/PwnedWebsites#TelegramCombolists)
-- May 30 - [Operation Endgame - 16,466,858 breached accounts](https://haveibeenpwned.com/PwnedWebsites#OperationEndgame)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 05 - [Rogers networks reliability and resiliency assessment after 2022-07-08 outage](https://crtc.gc.ca/eng/publications/reports/xona2024.htm)
-- Jul 05 - [Firefox "Copy" has been inconsistent and broken for 8 months](https://bugzilla.mozilla.org/show_bug.cgi?id=1863246)
-- Jul 05 - [War on citizens: How the junta's VPN ban is strangling communication in Myanmar](https://globalvoices.org/2024/06/28/war-on-citizens-how-the-juntas-vpn-ban-is-strangling-communication-in-myanmar/)
-- Jul 05 - [Tao Te Ching translated by Ursula Le Guin (1997)](https://github.com/nrrb/tao-te-ching/blob/master/Ursula%20K%20Le%20Guin.md)
-- Jul 05 - [Emerge Tools (YC W21) Is Hiring a Product Engineer (iOS, Full-Stack)](https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack)
+- Jul 06 - [Zephyr: Implementing a Device Driver for a Sensor](https://bootlin.com/blog/zephyr-implementing-a-device-driver-for-a-sensor/)
+- Jul 06 - [HTML5 Differences from HTML4 (2014)](https://www.w3.org/TR/html5-diff/)
+- Jul 06 - [Radio Garden](https://radio.garden/)
+- Jul 06 - [Constantine: modular, high-performance, zero-dependency cryptography stack](https://forum.nim-lang.org/t/11935)
+- Jul 06 - [Preserving a floppy disk with a logic analyzer and a serial cable](https://www.chzsoft.de/site/hardware/preserving-a-floppy-disk-with-a-logic-analyzer/)
 <!--END_SECTION:hn-->
 
 <!--
