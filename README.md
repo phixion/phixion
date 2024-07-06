@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 05 - [PostgreSQL and UUID as Primary Key](https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/)
-- Jul 05 - [UK election day 2024: traffic trends and attacks on political parties](https://blog.cloudflare.com/uk-election-day-2024-traffic-trends-and-attacks-on-political-parties)
-- Jul 05 - [Mysterious export controls on quantum computers](https://www.newscientist.com/article/2436023-multiple-nations-enact-mysterious-export-controls-on-quantum-computers/)
-- Jul 05 - [Fossil of Neanderthal child with Down's syndrome hints early humans' compassion](https://www.theguardian.com/science/article/2024/jun/26/fossil-of-neanderthal-child-with-downs-syndrome-hints-at-early-humans-compassion)
-- Jul 05 - [Volcanoes Can Affect Climate](https://www.usgs.gov/programs/VHP/volcanoes-can-affect-climate)
+- Jul 05 - [Rogers networks reliability and resiliency assessment after 2022-07-08 outage](https://crtc.gc.ca/eng/publications/reports/xona2024.htm)
+- Jul 05 - [Firefox "Copy" has been inconsistent and broken for 8 months](https://bugzilla.mozilla.org/show_bug.cgi?id=1863246)
+- Jul 05 - [War on citizens: How the junta's VPN ban is strangling communication in Myanmar](https://globalvoices.org/2024/06/28/war-on-citizens-how-the-juntas-vpn-ban-is-strangling-communication-in-myanmar/)
+- Jul 05 - [Tao Te Ching translated by Ursula Le Guin (1997)](https://github.com/nrrb/tao-te-ching/blob/master/Ursula%20K%20Le%20Guin.md)
+- Jul 05 - [Emerge Tools (YC W21) Is Hiring a Product Engineer (iOS, Full-Stack)](https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack)
 <!--END_SECTION:hn-->
 
 <!--
