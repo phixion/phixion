@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 07 - [ChatGPT robots.txt disallows Anthropic](https://chatgpt.com/robots.txt)
-- Jul 07 - [Germany set to overhaul subsidy regime for renewable energy](https://www.reuters.com/business/energy/germany-set-overhaul-subsidy-regime-renewable-energy-document-2024-07-05/)
-- Jul 07 - [People are feeling stuck in their jobs](https://www.wsj.com/lifestyle/careers/job-market-slowing-employee-growth-change-wanted-c422f67d)
-- Jul 07 - [Portugal brings back tax breaks for foreigners in bid to woo digital nomads](https://fortune.com/europe/2024/07/04/portugal-backtracks-hostility-digital-nomads-tax-breaks-skilled-foreigners-return/)
-- Jul 07 - [Adventures in mapmaking: the search for grayscale tiles](https://newsletter.pnote.eu/p/mapmaking-search-for-grayscale-tiles)
+- Jul 07 - [Signal under fire for storing encryption keys in plaintext](https://stackdiary.com/signal-under-fire-for-storing-encryption-keys-in-plaintext/)
+- Jul 07 - [Talent Search versus Talent Development [pdf]](https://community.ams.org/journals/notices/201909/rnoti-p1471.pdf)
+- Jul 07 - [Latest Ghostscript vulnerability haunts experts as the next big breach enabler](https://www.theregister.com/2024/07/05/ghostscript_vulnerability_severity/)
+- Jul 07 - [Mongo but on Postgres and with strong consistency benefits](https://github.com/event-driven-io/Pongo)
+- Jul 07 - [A reawakening of systems programming meetups](https://notes.eatonphil.com/2024-07-07-systems-meetups.html)
 <!--END_SECTION:hn-->
 
 <!--
