@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 07 - [OpenRailRouting](https://github.com/geofabrik/OpenRailRouting)
-- Jul 07 - [Show HN: BeaconDB – An Alternative to Mozilla Location Services](https://beacondb.net/)
-- Jul 07 - [Why Italy Fell Out of Love with Cilantro](https://www.atlasobscura.com/articles/what-are-italian-herbs)
-- Jul 07 - ["Out of Band" network management is not trivial](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OutOfBandManagementNotTrivial)
-- Jul 07 - [The complete Code of Hammurabi (~1750 BC)](https://ehammurabi.org/#laws)
+- Jul 07 - [ChatGPT robots.txt disallows Anthropic](https://chatgpt.com/robots.txt)
+- Jul 07 - [Germany set to overhaul subsidy regime for renewable energy](https://www.reuters.com/business/energy/germany-set-overhaul-subsidy-regime-renewable-energy-document-2024-07-05/)
+- Jul 07 - [People are feeling stuck in their jobs](https://www.wsj.com/lifestyle/careers/job-market-slowing-employee-growth-change-wanted-c422f67d)
+- Jul 07 - [Portugal brings back tax breaks for foreigners in bid to woo digital nomads](https://fortune.com/europe/2024/07/04/portugal-backtracks-hostility-digital-nomads-tax-breaks-skilled-foreigners-return/)
+- Jul 07 - [Adventures in mapmaking: the search for grayscale tiles](https://newsletter.pnote.eu/p/mapmaking-search-for-grayscale-tiles)
 <!--END_SECTION:hn-->
 
 <!--
