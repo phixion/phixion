@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 08 - [UpCodes (YC S17) is hiring remote SWEs, PMs to help make buildings cheap](https://up.codes/careers?utm_source=HN)
-- Jul 08 - [Db2 is a story worth telling, even if IBM won't](https://www.theregister.com/2024/07/04/db2_a_story_worth_telling/)
-- Jul 08 - [Dark mode is not as good for your eyes as you believe](https://www.wired.com/story/dark-mode-chrome-android-ios-science/)
-- Jul 08 - [LibreOfficeKit API in action: new API to access LibreOffice functionalities](https://dev.blog.documentfoundation.org/2024/06/27/libreofficekit-api-in-action/)
-- Jul 08 - [Xpra: Persistent Remote Applications for X11](https://github.com/Xpra-org/xpra)
+- Jul 08 - [1JPM: A Maven/Gradle alternative in a single Java file](https://github.com/Osiris-Team/1JPM)
+- Jul 08 - [Reverse Engineering Ticketmaster's Rotating Barcodes](https://conduition.io/coding/ticketmaster/)
+- Jul 08 - ["Bullshit Jobs" Is a Terrible, Curiosity-Killing Concept](https://www.thediff.co/archive/bullshit-jobs-is-a-terrible-curiosity-killing-concept/)
+- Jul 08 - [Geomys, a blueprint for a sustainable open-source maintenance firm](https://words.filippo.io/dispatches/geomys/)
+- Jul 08 - [Bashbro – Make Any Comp a Web-Based File Server](https://github.com/victrixsoft/bashbro)
 <!--END_SECTION:hn-->
 
 <!--
