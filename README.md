@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 09 - [State of Text Rendering 2024](https://behdad.org/text2024/)
-- Jul 09 - [Rye: A Hassle-Free Python Experience](https://rye.astral.sh/)
-- Jul 09 - [Keyboards Influenced by Touchscreens (2011)](https://eagain.net/blog/2011/04/30/keyboards.html)
-- Jul 09 - [LightRAG: The PyTorch Library for Large Language Model Applications](https://github.com/SylphAI-Inc/LightRAG)
-- Jul 08 - [Show HN: I built a IMDB for all kinds of micro-creators](https://fanzine.world/)
+- Jul 09 - [The Neuroscience of Resistance to Change](https://www.sanaross.com/the-neuroscience-of-achieving-more/neuroscience-and-ld-overcoming-resistance-to-change)
+- Jul 09 - [Show HN: Tegon: Open-source alternative to Jira, Linear](https://github.com/tegonhq/tegon)
+- Jul 09 - [The zombie misconception of theoretical computer science](https://scottaaronson.blog/?p=8106)
+- Jul 09 - [Nearly 2M metric tons of wild fish used to feed Norwegian farmed salmon annually](https://www.seafoodsource.com/news/aquaculture/report-nearly-2-million-metric-tons-of-wild-fish-used-to-feed-norwegian-farmed-salmon-annually)
+- Jul 09 - [Another Silicon Valley institution died spring of 2019: Halted/HSC](http://halted.com)
 <!--END_SECTION:hn-->
 
 <!--
