@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 09 - [The Neuroscience of Resistance to Change](https://www.sanaross.com/the-neuroscience-of-achieving-more/neuroscience-and-ld-overcoming-resistance-to-change)
-- Jul 09 - [Show HN: Tegon: Open-source alternative to Jira, Linear](https://github.com/tegonhq/tegon)
-- Jul 09 - [The zombie misconception of theoretical computer science](https://scottaaronson.blog/?p=8106)
-- Jul 09 - [Nearly 2M metric tons of wild fish used to feed Norwegian farmed salmon annually](https://www.seafoodsource.com/news/aquaculture/report-nearly-2-million-metric-tons-of-wild-fish-used-to-feed-norwegian-farmed-salmon-annually)
-- Jul 09 - [Another Silicon Valley institution died spring of 2019: Halted/HSC](http://halted.com)
+- Jul 09 - [California to impose permanent water restrictions on cities and towns](https://ktla.com/news/california/california-to-impose-permanent-water-restrictions-on-cities-and-towns/)
+- Jul 09 - [OneFileLinux: A 20MB Alpine metadistro that fits into the ESP](https://hub.zhovner.com/geek/one-file-linux/)
+- Jul 09 - [Some landfill 'burps' contain airborne PFAS, study finds](https://phys.org/news/2024-06-landfill-burps-airborne-pfas.html)
+- Jul 09 - [Dynamic Translation of Smalltalk to WebAssembly](https://thiscontext.com/2023/07/26/dynamic-translation-of-smalltalk-to-webassembly/)
+- Jul 09 - [Full AMD Ryzen PC in a Folding Mini Keyboard](https://www.tomshardware.com/desktops/mini-pcs/ryzen-mini-pc-gets-wedged-into-a-folding-keyboard-form-factor-battery-included-all-you-need-is-a-display)
 <!--END_SECTION:hn-->
 
 <!--
