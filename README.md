@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 08 - [Some Florida cities are living off red light cameras](https://www.wlrn.org/wlrn-investigations/2024-07-05/red-light-cameras-miami-florida)
-- Jul 08 - [Glest – The free real-time strategy game](https://glest.org/en/index.php)
-- Jul 08 - [Show HN: The easiest way to create web UIs for ROS robots](https://transitiverobotics.com/caps/transitive-robotics/ros-tool/)
-- Jul 08 - [Twenty Five Years of Warehouse-Scale Computing](https://www.computer.org/csdl/magazine/mi/5555/01/10551740/1XyKBf0Y6uA)
-- Jul 08 - [How we tamed Node.js event loop lag: a deepdive](https://trigger.dev/blog/event-loop-lag)
+- Jul 09 - [State of Text Rendering 2024](https://behdad.org/text2024/)
+- Jul 09 - [Rye: A Hassle-Free Python Experience](https://rye.astral.sh/)
+- Jul 09 - [Keyboards Influenced by Touchscreens (2011)](https://eagain.net/blog/2011/04/30/keyboards.html)
+- Jul 09 - [LightRAG: The PyTorch Library for Large Language Model Applications](https://github.com/SylphAI-Inc/LightRAG)
+- Jul 08 - [Show HN: I built a IMDB for all kinds of micro-creators](https://fanzine.world/)
 <!--END_SECTION:hn-->
 
 <!--
