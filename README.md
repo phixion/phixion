@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 10 - [AMD to buy Finnish start-up Silo AI for $665M](https://www.ft.com/content/7b8d2057-2687-45b3-bae4-1488a75ac5b2)
-- Jul 10 - [Training of Physical Neural Networks](https://arxiv.org/abs/2406.03372)
-- Jul 10 - [At the Mountains of Madness](https://antithesis.com/blog/madness/)
-- Jul 10 - [Towards Idempotent Rebuilds?](https://blog.josefsson.org/2024/07/10/towards-idempotent-rebuilds/)
-- Jul 10 - [Show HN: Posting v1 – The modern HTTP client that lives in your terminal](https://github.com/darrenburns/posting)
+- Jul 10 - [Bullets for sale in some US grocery stores with ammo vending machines](https://apnews.com/article/ammunition-vending-machines-ddb2e507213cda8ef46da0d8146253ae)
+- Jul 10 - [Big Ball of Mud](http://laputan.org/mud/)
+- Jul 10 - [Ed Stone, Top Scientist–and Salesman–For the Voyager Mission, Dies at 88](https://www.wsj.com/science/space-astronomy/ed-stone-scientist-voyager-mission-dies-at-88-44c65bc4)
+- Jul 10 - [Motion (YC W20) Is Hiring Senior Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
+- Jul 10 - [Zed on Linux Is Here](https://zed.dev/linux)
 <!--END_SECTION:hn-->
 
 <!--
