@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 10 - [Children's daily sugar consumption halved just a year after tax, study finds](https://www.theguardian.com/society/article/2024/jul/09/childrens-daily-sugar-consumption-halves-just-a-year-after-tax-study-finds)
-- Jul 10 - [Photoroom (YC S20) Is Hiring Rust Developers in Paris (X-Platform, Wgpu, WASM)](https://jobs.lever.co/photoroom/fc379626-eb33-4eb6-839c-10e5d578e2ed?lever-origin=applied&lever-source%5B%5D=yc)
-- Jul 10 - [A New Age of Materials Is Dawning, for Everything from Smartphones to Missiles](https://www.wsj.com/tech/composites-manufacturing-boeing-drones-arris-9t-orbital-a422de1b)
-- Jul 10 - [Automate Project Environments with Devbox and Direnv](https://www.jetify.com/blog/automated-dev-envs-with-devbox-and-direnv/)
-- Jul 10 - [The Seal Failure in the SRB That Doomed Challenger (2021)](https://exrocketman.blogspot.com/2021/12/the-seal-failure-in-srb-that-doomed.html)
+- Jul 10 - [Leetcode but for ML](https://www.deep-ml.com/)
+- Jul 10 - [Mastering Email Security: Deep Dive into SPF, DKIM, and DMARC](https://bastion.tech/blog/spf-dkim-dmarc-email-security-explained)
+- Jul 10 - [SimSig: Railway Signalling Simulations](https://www.simsig.co.uk/)
+- Jul 10 - [I miss the old IndieHackers website, so I started an alternative](https://www.skool.com/indie-makers-5425/about)
+- Jul 10 - [Europe's new Ariane 6 rocket powers into space](https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Europe_s_new_Ariane_6_rocket_powers_into_space)
 <!--END_SECTION:hn-->
 
 <!--
