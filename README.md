@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 09 - [Framework Laptop 13 Deep Dive: A laptop webcam with smartphone technology](https://frame.work/blog/framework-laptop-13-deep-dive---a-laptop-webcam-with-smartphone-technology)
-- Jul 09 - [Show HN: Parallel DOM – Upgrade your DOM to be multithreaded](https://www.pdom.dev/)
-- Jul 09 - [Show HN: Maelstrom – A Hermetic, Clustered Test Runner for Python and Rust](https://github.com/maelstrom-software/maelstrom)
-- Jul 09 - [How to validate a market with development boards and SD cards](https://flyingcarcomputer.com/posts/how-to-validate-market-with-development-board/)
-- Jul 09 - [How CD Pregaps Gained Their Hidden Track Superpowers](https://tedium.co/2024/07/06/compact-disc-pregap-history/)
+- Jul 10 - [Well, it's just an AWS Account ID](https://mail.cloudsecurity.club/p/well-just-aws-account-id)
+- Jul 10 - [A New Age of Materials Is Dawning, for Everything from Smartphones to Missiles](https://www.wsj.com/tech/composites-manufacturing-boeing-drones-arris-9t-orbital-a422de1b)
+- Jul 10 - [From GPT-4 to AGI: Counting the OOMs](https://situational-awareness.ai/from-gpt-4-to-agi/#Compute)
+- Jul 10 - [CodeCrafters (YC S22) Is Hiring a Marketing Writer](https://www.ycombinator.com/companies/codecrafters/jobs/s2MPHPu-marketing-writer-technical)
+- Jul 10 - [Awsviz.dev simplifying AWS IAM policies](https://www.awsviz.dev/)
 <!--END_SECTION:hn-->
 
 <!--
