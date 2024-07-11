@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 11 - [If AI chatbots are the future, I hate it](https://www.jeffgeerling.com/blog/2024/if-ai-chatbots-are-future-i-hate-it)
-- Jul 11 - [Oncologists on simple, doable, everyday things they do to try to prevent cancer](https://www.theguardian.com/lifeandstyle/article/2024/jul/11/the-experts-oncologists-on-the-simple-doable-everyday-things-they-do-to-try-to-prevent-cancer)
-- Jul 11 - [Xiaomi's self-optimizing autonomous factory will make 10M+ phones a year](https://newatlas.com/robotics/xiaomi-dark-robotic-factory/)
-- Jul 11 - [Qualcomm's Oryon Core: A Long Time in the Making](https://chipsandcheese.com/2024/07/09/qualcomms-oryon-core-a-long-time-in-the-making/)
-- Jul 11 - [The Typeset of Wall·E (2018)](https://typesetinthefuture.com/2018/12/04/walle/)
+- Jul 11 - [WebView2 drops future Linux and Mac support](https://github.com/MicrosoftEdge/WebView2Feedback/issues/1314)
+- Jul 11 - [We Know What Turned on the Lights at the Dawn of Time](https://www.sciencealert.com/we-finally-know-what-turned-on-the-lights-at-the-dawn-of-time)
+- Jul 11 - [Binance built a 100PB log service with Quickwit](https://quickwit.io/blog/quickwit-binance-story)
+- Jul 11 - [Serious errors plague DNA tool that's a workhorse of biology](https://www.nature.com/articles/d41586-024-02280-1)
+- Jul 11 - [Qualcomm's Oryon core: A long time in the making](https://chipsandcheese.com/2024/07/09/qualcomms-oryon-core-a-long-time-in-the-making/)
 <!--END_SECTION:hn-->
 
 <!--
