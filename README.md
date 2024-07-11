@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 11 - [Supabase (YC S20) Is Hiring an Auth Engineer (Remote)](https://boards.greenhouse.io/supabase/jobs/5225004004)
-- Jul 11 - [How to be a Norwegian parent: let your kids roam free](https://www.theguardian.com/lifeandstyle/article/2024/jul/11/how-to-be-a-norwegian-parent-let-your-kids-roam-free-stay-home-alone-have-fun-and-fail)
-- Jul 11 - [Xen Project in peril as colo provider housing test platform closes](https://www.theregister.com/2024/07/11/xen_project_colo_closes_warning/)
-- Jul 11 - [Night owls' cognitive function 'superior' to early risers, study suggests](https://www.theguardian.com/science/article/2024/jul/11/night-owls-cognitive-function-superior-to-early-risers-study-suggests)
-- Jul 11 - [Engineering principles for building financial systems](https://substack.wasteman.codes/p/engineering-principles-and-best-practices)
+- Jul 11 - [If AI chatbots are the future, I hate it](https://www.jeffgeerling.com/blog/2024/if-ai-chatbots-are-future-i-hate-it)
+- Jul 11 - [Oncologists on simple, doable, everyday things they do to try to prevent cancer](https://www.theguardian.com/lifeandstyle/article/2024/jul/11/the-experts-oncologists-on-the-simple-doable-everyday-things-they-do-to-try-to-prevent-cancer)
+- Jul 11 - [Xiaomi's self-optimizing autonomous factory will make 10M+ phones a year](https://newatlas.com/robotics/xiaomi-dark-robotic-factory/)
+- Jul 11 - [Qualcomm's Oryon Core: A Long Time in the Making](https://chipsandcheese.com/2024/07/09/qualcomms-oryon-core-a-long-time-in-the-making/)
+- Jul 11 - [The Typeset of Wall·E (2018)](https://typesetinthefuture.com/2018/12/04/walle/)
 <!--END_SECTION:hn-->
 
 <!--
