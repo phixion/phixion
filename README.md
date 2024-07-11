@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 10 - [Scientists Discover a Cause of Lupus, Possible Way to Reverse It](https://news.feinberg.northwestern.edu/2024/07/10/scientists-discover-a-cause-of-lupus-and-a-possible-way-to-reverse-it/)
-- Jul 10 - [The NYT Book Review Is Everything Book Criticism Shouldn't Be](https://www.currentaffairs.org/news/new-york-times-book-review)
-- Jul 10 - [Big Ball of Mud (1999)](http://laputan.org/mud/)
-- Jul 10 - [Ed Stone, Top Scientist–and Salesman–For the Voyager Mission, Dies at 88](https://www.wsj.com/science/space-astronomy/ed-stone-scientist-voyager-mission-dies-at-88-44c65bc4)
-- Jul 10 - [Motion (YC W20) Is Hiring Senior Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
+- Jul 11 - [VSCode won't start on several Mac OS versions, broken over a week](https://github.com/microsoft/vscode/issues/219901)
+- Jul 11 - [Ask HN: Who's been hired through Hacker News?](https://news.ycombinator.com/item?id=40932948)
+- Jul 11 - [Great Question (YC W21) is hiring senior Rails engineers in Australia](https://www.ycombinator.com/companies/great-question/jobs/WIk0wNz-product-engineer-rails-react-australia)
+- Jul 10 - [Show HN: Dut, a fast Linux disk usage calculator](https://codeberg.org/201984/dut)
+- Jul 10 - [An Abundance of Katherines: The Game Theory of Baby Naming](https://arxiv.org/abs/2404.00732)
 <!--END_SECTION:hn-->
 
 <!--
