@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 11 - [VSCode won't start on several Mac OS versions, broken over a week](https://github.com/microsoft/vscode/issues/219901)
-- Jul 11 - [Ask HN: Who's been hired through Hacker News?](https://news.ycombinator.com/item?id=40932948)
-- Jul 11 - [Great Question (YC W21) is hiring senior Rails engineers in Australia](https://www.ycombinator.com/companies/great-question/jobs/WIk0wNz-product-engineer-rails-react-australia)
-- Jul 10 - [Show HN: Dut, a fast Linux disk usage calculator](https://codeberg.org/201984/dut)
-- Jul 10 - [An Abundance of Katherines: The Game Theory of Baby Naming](https://arxiv.org/abs/2404.00732)
+- Jul 11 - [Supabase (YC S20) Is Hiring an Auth Engineer (Remote)](https://boards.greenhouse.io/supabase/jobs/5225004004)
+- Jul 11 - [How to be a Norwegian parent: let your kids roam free](https://www.theguardian.com/lifeandstyle/article/2024/jul/11/how-to-be-a-norwegian-parent-let-your-kids-roam-free-stay-home-alone-have-fun-and-fail)
+- Jul 11 - [Xen Project in peril as colo provider housing test platform closes](https://www.theregister.com/2024/07/11/xen_project_colo_closes_warning/)
+- Jul 11 - [Night owls' cognitive function 'superior' to early risers, study suggests](https://www.theguardian.com/science/article/2024/jul/11/night-owls-cognitive-function-superior-to-early-risers-study-suggests)
+- Jul 11 - [Engineering principles for building financial systems](https://substack.wasteman.codes/p/engineering-principles-and-best-practices)
 <!--END_SECTION:hn-->
 
 <!--
