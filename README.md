@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 12 - [Intel is selling defective 13-14th Gen CPUs](https://alderongames.com/intel-crashes)
-- Jul 12 - [Tau: Open-source PaaS – A self-hosted Vercel / Netlify / Cloudflare alternative](https://github.com/taubyte/tau)
-- Jul 12 - [WildGaussians: 3D Gaussian Splatting in the Wild](https://arxiv.org/abs/2407.08447)
-- Jul 12 - [Show HN: Smelt — an open source test runner for chip developers](https://silogy-io.github.io/smelt/)
-- Jul 12 - [Born into slavery, he rose to the top of France's art world](https://www.washingtonpost.com/entertainment/art/2024/07/12/guillaume-lethiere-exhibition-life/)
+- Jul 12 - [A.I. Has Become a Technology of Faith](https://www.theatlantic.com/technology/archive/2024/07/thrive-ai-health-huffington-altman-faith/678984/)
+- Jul 12 - [Beating the Compiler](https://www.mattkeeter.com/blog/2024-07-12-interpreter/)
+- Jul 12 - [Is Mesop and Web Components the cure to Front-end fatigue?](https://google.github.io/mesop/blog/2024/07/12/is-mesop--web-components-the-cure-to-front-end-fatigue/)
+- Jul 12 - [What Could Explain the Gallium Anomaly?](https://www.quantamagazine.org/what-could-explain-the-gallium-anomaly-20240712/)
+- Jul 12 - [Schaffer–Vega Diversity System](https://en.wikipedia.org/wiki/Schaffer%E2%80%93Vega_diversity_system)
 <!--END_SECTION:hn-->
 
 <!--
