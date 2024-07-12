@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 12 - [GE Aerospace Successfully Develops and Tests New Hypersonic Dual-Mode Ramjet](https://www.geaerospace.com/news/press-releases/ge-aerospace-successfully-develops-and-tests-new-hypersonic-dual-mode-ramjet)
-- Jul 12 - [Color Wheels Are Wrong](https://longform.asmartbear.com/color-wheels/)
-- Jul 12 - [A personal music streaming server that works](https://koel.dev)
-- Jul 12 - [Using S3 as a Container Registry](https://ochagavia.nl/blog/using-s3-as-a-container-registry/)
-- Jul 12 - [StreamVC: Real-Time Low-Latency Voice Conversion](https://research.google/pubs/streamvc-real-time-low-latency-voice-conversion/)
+- Jul 12 - [Legion Health (YC S21) Is Hiring a Technical Product Marketing Lead](https://www.ycombinator.com/companies/legion-health/jobs/9JHdQqJ-technical-product-marketing-lead-legion-health-y-combinator-startup)
+- Jul 12 - [SpaceX's unmatched streak of perfection with the Falcon 9 rocket is over](https://arstechnica.com/space/2024/07/the-unmatched-streak-of-perfection-with-spacexs-falcon-9-rocket-is-over/)
+- Jul 12 - [Deno 1.45: Workspace and Monorepo Support](https://deno.com/blog/v1.45)
+- Jul 12 - [You can deeplink to a specific PDF page](https://technicalwriting.dev/www/pdf.html)
+- Jul 12 - [Show HN: Daminik – An Open source digital asset manager](https://daminik.com)
 <!--END_SECTION:hn-->
 
 <!--
