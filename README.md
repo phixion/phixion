@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 12 - [GE Aerospace Successfully Develops and Tests New Hypersonic Dual-Mode Ramjet](https://www.geaerospace.com/news/press-releases/ge-aerospace-successfully-develops-and-tests-new-hypersonic-dual-mode-ramjet)
+- Jul 12 - [Color Wheels Are Wrong](https://longform.asmartbear.com/color-wheels/)
+- Jul 12 - [A personal music streaming server that works](https://koel.dev)
+- Jul 12 - [Using S3 as a Container Registry](https://ochagavia.nl/blog/using-s3-as-a-container-registry/)
 - Jul 12 - [StreamVC: Real-Time Low-Latency Voice Conversion](https://research.google/pubs/streamvc-real-time-low-latency-voice-conversion/)
-- Jul 12 - [Floppy8 – A Tiny Computer, in a Floppy Drive](https://abe.today/blogs/main/floppy8-a-tiny-computer-in-a-floppy-drive)
-- Jul 12 - [AuraFlow v0.1: a open source alternative to Stable Diffusion 3](https://blog.fal.ai/auraflow/)
-- Jul 11 - [Third Places and Neighborhood Entrepreneurship: Evidence from Starbucks Cafés](https://www.nber.org/papers/w32604)
-- Jul 11 - [AxRuntime (AxRT): Creating Applications Using Amiga APIs](https://www.axrt.org/)
 <!--END_SECTION:hn-->
 
 <!--
