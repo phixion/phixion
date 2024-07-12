@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 12 - [StreamVC: Real-Time Low-Latency Voice Conversion](https://research.google/pubs/streamvc-real-time-low-latency-voice-conversion/)
+- Jul 12 - [Floppy8 – A Tiny Computer, in a Floppy Drive](https://abe.today/blogs/main/floppy8-a-tiny-computer-in-a-floppy-drive)
+- Jul 12 - [AuraFlow v0.1: a open source alternative to Stable Diffusion 3](https://blog.fal.ai/auraflow/)
 - Jul 11 - [Third Places and Neighborhood Entrepreneurship: Evidence from Starbucks Cafés](https://www.nber.org/papers/w32604)
-- Jul 11 - [Show HN: macOS desktop app for turning websites into glanceable widgets](https://github.com/devin-liu/glanceables)
-- Jul 11 - [Why I'm Writing a Book on Cryptography (2020)](https://www.cryptologie.net/article/504/why-im-writing-a-book-on-cryptography/)
-- Jul 11 - [Physics-Based Deep Learning Book](https://physicsbaseddeeplearning.org/intro.html)
-- Jul 11 - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40940565)
+- Jul 11 - [AxRuntime (AxRT): Creating Applications Using Amiga APIs](https://www.axrt.org/)
 <!--END_SECTION:hn-->
 
 <!--
