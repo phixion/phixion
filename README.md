@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 13 - [Disruptor-rs: better latency and throughput than crossbeam](https://github.com/nicholassm/disruptor-rs)
+- Jul 13 - [STEMFIE, a 3D-printable construction set toy](https://www.stemfie.org/)
 - Jul 13 - [Substack (YC W18) is hiring machine learning engineers](https://grnh.se/d034f1ba5us)
 - Jul 13 - [The Birth of Standard Error (2013)](https://www2.dmst.aueb.gr/dds/blog/20131211/index.html)
-- Jul 13 - [Ask HN: How do you read and follow the discussions on big threads?](https://news.ycombinator.com/item?id=40952952)
-- Jul 13 - [My curated list of indie blogs](https://www.andreagrandi.it/posts/my-curated-list-of-indie-blogs/)
-- Jul 13 - [For the Colonel, It Was Finger-Lickin’ Bad (2016)](https://kottke.org/16/08/for-the-colonel-it-was-fingerlickin-bad)
+- Jul 13 - [Temple and theater 3,500 years older than Machu Picchu discovered in Peru](https://www.cnn.com/2024/07/11/science/ancient-temple-theater-peru-intl-scli-scn/index.html)
 <!--END_SECTION:hn-->
 
 <!--
