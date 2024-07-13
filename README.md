@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 13 - [Someone is wrong on the internet (AGI Doom edition)](http://addxorrol.blogspot.com/2024/07/someone-is-wrong-on-internet-agi-doom.html)
-- Jul 13 - [Ad-tech setting 'Privacy-Preserving Attribution' is opt-out in Firefox 128](https://gladtech.social/@cuchaz/112775302929069283)
-- Jul 13 - [Nokia 6600 vs. Samsung S24 Ultra](https://cirrus.twiddles.com/blog/2024/03/06/nokia-6600-vs-samsung-s24-ultra/)
-- Jul 13 - [CO poultry workers test positive for bird flu after outbreak at egg facility](https://www.denver7.com/news/state-news/3-colorado-poultry-workers-identified-as-potential-bird-flu-cases-after-outbreak-at-commercial-egg-facility)
-- Jul 13 - [Wireless Amiga Tank Mouse](https://lyonsden.net/wireless-tank-mouse/)
+- Jul 13 - [Substack (YC W18) is hiring machine learning engineers](https://grnh.se/d034f1ba5us)
+- Jul 13 - [The Birth of Standard Error (2013)](https://www2.dmst.aueb.gr/dds/blog/20131211/index.html)
+- Jul 13 - [Ask HN: How do you read and follow the discussions on big threads?](https://news.ycombinator.com/item?id=40952952)
+- Jul 13 - [My curated list of indie blogs](https://www.andreagrandi.it/posts/my-curated-list-of-indie-blogs/)
+- Jul 13 - [For the Colonel, It Was Finger-Lickin’ Bad (2016)](https://kottke.org/16/08/for-the-colonel-it-was-fingerlickin-bad)
 <!--END_SECTION:hn-->
 
 <!--
