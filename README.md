@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 13 - [Disruptor-rs: better latency and throughput than crossbeam](https://github.com/nicholassm/disruptor-rs)
-- Jul 13 - [STEMFIE, a 3D-printable construction set toy](https://www.stemfie.org/)
-- Jul 13 - [Substack (YC W18) is hiring machine learning engineers](https://grnh.se/d034f1ba5us)
-- Jul 13 - [The Birth of Standard Error (2013)](https://www2.dmst.aueb.gr/dds/blog/20131211/index.html)
-- Jul 13 - [Temple and theater 3,500 years older than Machu Picchu discovered in Peru](https://www.cnn.com/2024/07/11/science/ancient-temple-theater-peru-intl-scli-scn/index.html)
+- Jul 13 - [OpenAI Researcher Says He Quit When He Realized the Upsetting Truth](https://futurism.com/openai-researcher-quit-realized-upsetting-truth)
+- Jul 13 - [Increasing Google and Alphabet VRP rewards up to $151,515](https://bughunters.google.com/blog/5400513950908416/increasing-google-alphabet-vrp-rewards-up-to-151-515)
+- Jul 13 - [Disney's Internal Slack Breached? NullBulge Leaks 1.1 TiB of Data](https://hackread.com/disneys-internal-slack-breached-nullbulge-leak-data/)
+- Jul 13 - [Safer roundabouts are replacing traffic signals](https://www.urbanismspeakeasy.com/p/86-of-americans-now-work-from-home)
+- Jul 13 - [Mathematical Sculptures Made from Office Supplies](http://zacharyabel.com/sculpture/)
 <!--END_SECTION:hn-->
 
 <!--
