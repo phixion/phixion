@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 13 - [Tell HN: your next idea should focus on aged care](https://news.ycombinator.com/item?id=40951324)
-- Jul 13 - [Authelia and Lldap: Authentication, SSO, User Management... for Home Networks](https://helgeklein.com/blog/authelia-lldap-authentication-sso-user-management-password-reset-for-home-networks/)
-- Jul 13 - [Use a Work Journal to Recover Focus Faster and Clarify Your Thoughts](https://fev.al/posts/work-journal/)
-- Jul 12 - [Crafting Interpreters](https://craftinginterpreters.com/)
-- Jul 12 - [Lead Animation Engineer – Gym Class (YC W22) Is Hiring](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-lead-animation-engineer)
+- Jul 13 - [Someone is wrong on the internet (AGI Doom edition)](http://addxorrol.blogspot.com/2024/07/someone-is-wrong-on-internet-agi-doom.html)
+- Jul 13 - [Ad-tech setting 'Privacy-Preserving Attribution' is opt-out in Firefox 128](https://gladtech.social/@cuchaz/112775302929069283)
+- Jul 13 - [Nokia 6600 vs. Samsung S24 Ultra](https://cirrus.twiddles.com/blog/2024/03/06/nokia-6600-vs-samsung-s24-ultra/)
+- Jul 13 - [CO poultry workers test positive for bird flu after outbreak at egg facility](https://www.denver7.com/news/state-news/3-colorado-poultry-workers-identified-as-potential-bird-flu-cases-after-outbreak-at-commercial-egg-facility)
+- Jul 13 - [Wireless Amiga Tank Mouse](https://lyonsden.net/wireless-tank-mouse/)
 <!--END_SECTION:hn-->
 
 <!--
