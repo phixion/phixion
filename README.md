@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 14 - [On Building Systems That Will Fail (1991)](http://larch-www.lcs.mit.edu:8001/~corbato/turing91/)
+- Jul 14 - [Fitting an Elephant with Four Non-Zero Parameters](https://arxiv.org/abs/2407.07909)
+- Jul 14 - [Show HN: I built a Jeopardy game maker with buzzer support](https://buzzinga.io/)
 - Jul 14 - [PermitFlow (YC W22) Is Hiring](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
-- Jul 14 - [New Essential Guide to Electronics in Shenzhen](https://type.cyhsu.xyz/2024/07/neges/)
-- Jul 14 - [Wikimedia Gitlab Migration Status](https://www.mediawiki.org/wiki/GitLab/Migration_status)
-- Jul 14 - [OpenAI whistleblowers ask SEC to investigate alleged restrictive NDAs](https://www.reuters.com/technology/openai-whistleblowers-ask-sec-investigate-restrictive-non-disclosure-agreements-2024-07-13/)
-- Jul 14 - [Building and scaling Notion's data lake](https://www.notion.so/de-de/blog/building-and-scaling-notions-data-lake)
+- Jul 14 - [Building the Bell System](https://www.construction-physics.com/p/building-the-bell-system)
 <!--END_SECTION:hn-->
 
 <!--
