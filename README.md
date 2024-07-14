@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 14 - [After initially rejecting it, Apple has approved the first PC emulator for iOS](https://www.theverge.com/2024/7/13/24198015/apple-utm-se-pc-os-emulator-for-ios)
-- Jul 14 - [No reasonable expectation of privacy in one's Google location data](https://fourthamendment.com/?p=58338)
-- Jul 14 - [Solving Path of Exile Item Crafting with Reinforcement Learning](https://dennybritz.com/posts/poe-crafting/)
-- Jul 14 - [Nvidia Warp (a Python framework for writing high-performance code)](https://nvidia.github.io/warp/)
-- Jul 14 - [The Peculiar Phenomenon of Megacryometeors (2006)](https://www.damninteresting.com/the-peculiar-phenomenon-of-megacryometeors/)
+- Jul 14 - [Ask HN: Why are PWA user install stats so hard to find?](https://news.ycombinator.com/item?id=40959416)
+- Jul 14 - [About 130 million adults in the U.S. have low literacy skills (2022)](https://www.apmresearchlab.org/10x-adult-literacy)
+- Jul 14 - [Go Range Iterators Demystified](https://www.dolthub.com/blog/2024-07-12-golang-range-iters-demystified/)
+- Jul 14 - [Wikipedia is rolling out dark mode support](https://www.mediawiki.org/wiki/Reading/Web/Accessibility_for_reading)
+- Jul 14 - [Show HN: Procedural Art –– 'Pulse'](https://soham-saha.github.io/ProceduralArt/Pulse/Pulse.html)
 <!--END_SECTION:hn-->
 
 <!--
