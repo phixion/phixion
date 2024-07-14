@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 13 - [OpenAI Researcher Says He Quit When He Realized the Upsetting Truth](https://futurism.com/openai-researcher-quit-realized-upsetting-truth)
-- Jul 13 - [Increasing Google and Alphabet VRP rewards up to $151,515](https://bughunters.google.com/blog/5400513950908416/increasing-google-alphabet-vrp-rewards-up-to-151-515)
-- Jul 13 - [Disney's Internal Slack Breached? NullBulge Leaks 1.1 TiB of Data](https://hackread.com/disneys-internal-slack-breached-nullbulge-leak-data/)
-- Jul 13 - [Safer roundabouts are replacing traffic signals](https://www.urbanismspeakeasy.com/p/86-of-americans-now-work-from-home)
-- Jul 13 - [Mathematical Sculptures Made from Office Supplies](http://zacharyabel.com/sculpture/)
+- Jul 13 - [Ditto: Build Your Community on Nostr](https://soapbox.pub/blog/announcing-ditto/)
+- Jul 13 - [YouTube lets you request removal of AI content that simulates your face or voice](https://techcrunch.com/2024/07/01/youtube-now-lets-you-request-removal-of-ai-generated-content-that-simulates-your-face-or-voice/)
+- Jul 13 - [The Threads Creator Paradox](https://www.augment.ink/the-threads-creator-paradox/)
+- Jul 13 - [The NSA Is Defeated by a 1950s Tape Recorder. Can You Help Them?](https://hackaday.com/2024/07/13/the-nsa-is-defeated-by-a-1950s-tape-recorder-can-you-help-them/)
+- Jul 13 - [Jelly Star – The Smallest Android 13 Smartphone](https://www.unihertz.com/en-de/products/jelly-star)
 <!--END_SECTION:hn-->
 
 <!--
