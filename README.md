@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 13 - [Ditto: Build Your Community on Nostr](https://soapbox.pub/blog/announcing-ditto/)
-- Jul 13 - [YouTube lets you request removal of AI content that simulates your face or voice](https://techcrunch.com/2024/07/01/youtube-now-lets-you-request-removal-of-ai-generated-content-that-simulates-your-face-or-voice/)
-- Jul 13 - [The Threads Creator Paradox](https://www.augment.ink/the-threads-creator-paradox/)
-- Jul 13 - [The NSA Is Defeated by a 1950s Tape Recorder. Can You Help Them?](https://hackaday.com/2024/07/13/the-nsa-is-defeated-by-a-1950s-tape-recorder-can-you-help-them/)
-- Jul 13 - [Jelly Star – The Smallest Android 13 Smartphone](https://www.unihertz.com/en-de/products/jelly-star)
+- Jul 14 - [After initially rejecting it, Apple has approved the first PC emulator for iOS](https://www.theverge.com/2024/7/13/24198015/apple-utm-se-pc-os-emulator-for-ios)
+- Jul 14 - [No reasonable expectation of privacy in one's Google location data](https://fourthamendment.com/?p=58338)
+- Jul 14 - [Solving Path of Exile Item Crafting with Reinforcement Learning](https://dennybritz.com/posts/poe-crafting/)
+- Jul 14 - [Nvidia Warp (a Python framework for writing high-performance code)](https://nvidia.github.io/warp/)
+- Jul 14 - [The Peculiar Phenomenon of Megacryometeors (2006)](https://www.damninteresting.com/the-peculiar-phenomenon-of-megacryometeors/)
 <!--END_SECTION:hn-->
 
 <!--
