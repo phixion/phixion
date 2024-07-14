@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 14 - [On Building Systems That Will Fail (1991)](http://larch-www.lcs.mit.edu:8001/~corbato/turing91/)
-- Jul 14 - [Fitting an Elephant with Four Non-Zero Parameters](https://arxiv.org/abs/2407.07909)
-- Jul 14 - [Show HN: I built a Jeopardy game maker with buzzer support](https://buzzinga.io/)
-- Jul 14 - [PermitFlow (YC W22) Is Hiring](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
-- Jul 14 - [Building the Bell System](https://www.construction-physics.com/p/building-the-bell-system)
+- Jul 14 - [Complaints about crashing 13th,14th Gen Intel CPUs now have data to back them up](https://www.theverge.com/2024/7/14/24198299/intel-13th-14th-gen-i9-cpu-crashes-telemetry-alderon-games-warframe)
+- Jul 14 - [Wrap Your Keyboard with a Vacuum Former](https://hackaday.com/2024/07/14/wrap-your-keyboard-with-a-vacuum-former/)
+- Jul 14 - [Over 2,400 patients may have been exposed to HIV, hepatitis at Oregon hospitals](https://www.cbsnews.com/news/oregon-hospital-patients-exposed-infectious-disease-hiv-hepatitis/)
+- Jul 14 - [How to Know When It's Time to Go](https://thecodist.com/how-to-know-when-its-time-to-go/)
+- Jul 14 - [Disqualified (1954)](https://www.gutenberg.org/cache/epub/30251/pg30251-images.html)
 <!--END_SECTION:hn-->
 
 <!--
