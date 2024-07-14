@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 14 - [Ask HN: Why are PWA user install stats so hard to find?](https://news.ycombinator.com/item?id=40959416)
-- Jul 14 - [About 130 million adults in the U.S. have low literacy skills (2022)](https://www.apmresearchlab.org/10x-adult-literacy)
-- Jul 14 - [Go Range Iterators Demystified](https://www.dolthub.com/blog/2024-07-12-golang-range-iters-demystified/)
-- Jul 14 - [Wikipedia is rolling out dark mode support](https://www.mediawiki.org/wiki/Reading/Web/Accessibility_for_reading)
-- Jul 14 - [Show HN: Procedural Art –– 'Pulse'](https://soham-saha.github.io/ProceduralArt/Pulse/Pulse.html)
+- Jul 14 - [PermitFlow (YC W22) Is Hiring](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
+- Jul 14 - [New Essential Guide to Electronics in Shenzhen](https://type.cyhsu.xyz/2024/07/neges/)
+- Jul 14 - [Wikimedia Gitlab Migration Status](https://www.mediawiki.org/wiki/GitLab/Migration_status)
+- Jul 14 - [OpenAI whistleblowers ask SEC to investigate alleged restrictive NDAs](https://www.reuters.com/technology/openai-whistleblowers-ask-sec-investigate-restrictive-non-disclosure-agreements-2024-07-13/)
+- Jul 14 - [Building and scaling Notion's data lake](https://www.notion.so/de-de/blog/building-and-scaling-notions-data-lake)
 <!--END_SECTION:hn-->
 
 <!--
