@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 15 - [Rust for Filesystems](https://lwn.net/Articles/978738/)
-- Jul 15 - [Firefox 128 enables "privacy-preserving" ad measurements by default](https://mstdn.social/@Lokjo/112772496939724214)
-- Jul 15 - [Google's Gemini AI caught scanning Google Drive PDF files without permission](https://www.tomshardware.com/tech-industry/artificial-intelligence/gemini-ai-caught-scanning-google-drive-hosted-pdf-files-without-permission-user-complains-feature-cant-be-disabled)
-- Jul 15 - [Lagrange: LAser GRavitational-wave ANtenna at GEo-lunar Lagrange points](https://arxiv.org/abs/1111.5264)
-- Jul 15 - [The fascinating and complicated sex lives of white-throated sparrows](https://www.audubon.org/news/the-fascinating-and-complicated-sex-lives-white-throated-sparrows)
+- Jul 15 - [HTML Tags Memory Test](https://codepen.io/plfstr/full/zYqQeRw)
+- Jul 15 - [How the Rise of the Camera Launched a Fight to Protect Gilded Age Privacy](https://www.smithsonianmag.com/history/how-the-rise-of-the-camera-launched-a-fight-to-protect-gilded-age-americans-privacy-180984656/)
+- Jul 15 - [Linksys Velop Routers Caught Sending WiFi Creds in the Clear](https://hackaday.com/2024/07/15/linksys-velop-routers-caught-sending-wifi-creds-in-the-clear/)
+- Jul 15 - [Creature that washed up on New Zealand beach may be rarest whale](https://www.cbsnews.com/news/creature-that-washed-up-on-new-zealand-beach-may-be-worlds-rarest-whale-a-spade-toothed-whale/)
+- Jul 15 - [Cosmic simulation reveals how black holes grow and evolve](https://www.caltech.edu/about/news/cosmic-simulation-reveals-how-black-holes-grow-and-evolve)
 <!--END_SECTION:hn-->
 
 <!--
