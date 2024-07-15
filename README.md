@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 14 - [A prank cursor resulted in an employee being fired before they started (2020)](https://devblogs.microsoft.com/oldnewthing/20201110-00/?p=104434)
-- Jul 14 - [A.I. Needs Copper. It Just Helped to Find Millions of Tons of It in Zambia.](https://www.nytimes.com/2024/07/11/climate/kobold-zambia-copper-ai-mining.html)
+- Jul 15 - [Nanorobot with hidden weapon kills cancer cells](https://news.ki.se/nanorobot-with-hidden-weapon-kills-cancer-cells)
+- Jul 15 - [Human history in the long run: It was mostly pretty bad](https://www.slowboring.com/p/human-history-in-the-very-long-run-1d4)
+- Jul 15 - [ZeroMQ: High-Performance Concurrency Framework](https://zeromq.org/)
+- Jul 15 - [Tabloid: The Clickbait Headline Programming Language (2021)](https://tabloid.vercel.app/)
 - Jul 14 - [Fusion – a hobby OS implemented in Nim](https://github.com/khaledh/fusion)
-- Jul 14 - [Show HN: Sodap: Simple Online Directory Access Protocol](https://codeberg.org/reesericci/sodap)
-- Jul 14 - [How to Know When It's Time to Go](https://thecodist.com/how-to-know-when-its-time-to-go/)
 <!--END_SECTION:hn-->
 
 <!--
