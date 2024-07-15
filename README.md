@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 15 - [Rust for Filesystems](https://lwn.net/Articles/978738/)
+- Jul 15 - [Firefox 128 enables "privacy-preserving" ad measurements by default](https://mstdn.social/@Lokjo/112772496939724214)
+- Jul 15 - [Google's Gemini AI caught scanning Google Drive PDF files without permission](https://www.tomshardware.com/tech-industry/artificial-intelligence/gemini-ai-caught-scanning-google-drive-hosted-pdf-files-without-permission-user-complains-feature-cant-be-disabled)
+- Jul 15 - [Lagrange: LAser GRavitational-wave ANtenna at GEo-lunar Lagrange points](https://arxiv.org/abs/1111.5264)
 - Jul 15 - [The fascinating and complicated sex lives of white-throated sparrows](https://www.audubon.org/news/the-fascinating-and-complicated-sex-lives-white-throated-sparrows)
-- Jul 15 - [ZeroMQ: High-Performance Concurrency Framework](https://zeromq.org/)
-- Jul 15 - [Virginia Woolf's list-making paved the way for her literary experiments](https://www.ft.com/content/6c7e3cc3-f66b-4998-ad55-5f58d151a761)
-- Jul 15 - [A rock that might hold the oldest form of complex life on Earth](https://news.unsw.edu.au/en/erica-picked-up-a-rock-10-years-ago-it-might-hold-the-oldest-form-of-complex-life-on-earth)
-- Jul 15 - [Tabloid: A clickbait headline programming language (2021)](https://tabloid.vercel.app/)
 <!--END_SECTION:hn-->
 
 <!--
