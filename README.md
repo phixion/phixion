@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 15 - [HTML Tags Memory Test](https://codepen.io/plfstr/full/zYqQeRw)
-- Jul 15 - [How the Rise of the Camera Launched a Fight to Protect Gilded Age Privacy](https://www.smithsonianmag.com/history/how-the-rise-of-the-camera-launched-a-fight-to-protect-gilded-age-americans-privacy-180984656/)
-- Jul 15 - [Linksys Velop Routers Caught Sending WiFi Creds in the Clear](https://hackaday.com/2024/07/15/linksys-velop-routers-caught-sending-wifi-creds-in-the-clear/)
-- Jul 15 - [Creature that washed up on New Zealand beach may be rarest whale](https://www.cbsnews.com/news/creature-that-washed-up-on-new-zealand-beach-may-be-worlds-rarest-whale-a-spade-toothed-whale/)
-- Jul 15 - [Cosmic simulation reveals how black holes grow and evolve](https://www.caltech.edu/about/news/cosmic-simulation-reveals-how-black-holes-grow-and-evolve)
+- Jul 15 - [The Open Collaboration Tools](https://www.typefox.io/blog/open-collaboration-tools-announcement/)
+- Jul 15 - [Run CUDA, unmodified, on AMD GPUs](https://docs.scale-lang.com/)
+- Jul 15 - [Show HN: Projects from the Wolfram Summer Research Program](https://www.wolframcloud.com/obj/microsites/summer-research-high-school/projects.html)
+- Jul 15 - [Quartz: A Deterministic Time Testing Library for Go](https://coder.com/blog/introducing-quartz)
+- Jul 15 - [Immunotherapy Is Changing Cancer Treatment Forever](https://nymag.com/intelligencer/article/cancer-treatment-immunotherapy-oncology-tcells-brain-tumor.html)
 <!--END_SECTION:hn-->
 
 <!--
