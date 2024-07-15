@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 14 - [Complaints about crashing 13th,14th Gen Intel CPUs now have data to back them up](https://www.theverge.com/2024/7/14/24198299/intel-13th-14th-gen-i9-cpu-crashes-telemetry-alderon-games-warframe)
-- Jul 14 - [Wrap Your Keyboard with a Vacuum Former](https://hackaday.com/2024/07/14/wrap-your-keyboard-with-a-vacuum-former/)
-- Jul 14 - [Over 2,400 patients may have been exposed to HIV, hepatitis at Oregon hospitals](https://www.cbsnews.com/news/oregon-hospital-patients-exposed-infectious-disease-hiv-hepatitis/)
+- Jul 14 - [A prank cursor resulted in an employee being fired before they started (2020)](https://devblogs.microsoft.com/oldnewthing/20201110-00/?p=104434)
+- Jul 14 - [A.I. Needs Copper. It Just Helped to Find Millions of Tons of It in Zambia.](https://www.nytimes.com/2024/07/11/climate/kobold-zambia-copper-ai-mining.html)
+- Jul 14 - [Fusion – a hobby OS implemented in Nim](https://github.com/khaledh/fusion)
+- Jul 14 - [Show HN: Sodap: Simple Online Directory Access Protocol](https://codeberg.org/reesericci/sodap)
 - Jul 14 - [How to Know When It's Time to Go](https://thecodist.com/how-to-know-when-its-time-to-go/)
-- Jul 14 - [Disqualified (1954)](https://www.gutenberg.org/cache/epub/30251/pg30251-images.html)
 <!--END_SECTION:hn-->
 
 <!--
