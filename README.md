@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 15 - [The Open Collaboration Tools](https://www.typefox.io/blog/open-collaboration-tools-announcement/)
-- Jul 15 - [Run CUDA, unmodified, on AMD GPUs](https://docs.scale-lang.com/)
-- Jul 15 - [Show HN: Projects from the Wolfram Summer Research Program](https://www.wolframcloud.com/obj/microsites/summer-research-high-school/projects.html)
-- Jul 15 - [Quartz: A Deterministic Time Testing Library for Go](https://coder.com/blog/introducing-quartz)
-- Jul 15 - [Immunotherapy Is Changing Cancer Treatment Forever](https://nymag.com/intelligencer/article/cancer-treatment-immunotherapy-oncology-tcells-brain-tumor.html)
+- Jul 15 - [How do jewellers capture every last particle of gold dust? (2017)](https://www.ft.com/content/0512638c-b7c2-11e6-961e-a1acd97f622d)
+- Jul 15 - [KUtrace: Low-overhead Linux kernel tracing facility](https://github.com/dicksites/KUtrace)
+- Jul 15 - [L402: The Missing Piece in the Internet's Payment Infrastructure](https://l402.org/)
+- Jul 15 - [The Mafia of Pharma Pricing](https://www.thebignewsletter.com/p/inside-the-mafia-of-pharma-pricing)
+- Jul 15 - [Artie (YC S23) Is Hiring](https://www.ycombinator.com/companies/artie/jobs/N3AosVU-founding-engineer)
 <!--END_SECTION:hn-->
 
 <!--
