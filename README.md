@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 16 - [Making Elizabethan Plays Understandable and Fun to Read](http://elizabethandrama.org/)
-- Jul 16 - [Codestral Mamba](https://mistral.ai/news/codestral-mamba/)
-- Jul 16 - [People person: the greatness of Andrey Platonov](https://www.prospectmagazine.co.uk/culture/67208/people-person-the-greatness-of-andrey-platonov)
-- Jul 16 - [Ly: Display Manager with Console UI](https://github.com/fairyglade/ly)
-- Jul 16 - [Godotcaml for Godot 4.2](https://fizzixnerd.com/blog/2024-06-24-announcing-godotcaml/)
+- Jul 16 - [After 12 Years of Reviewing Restaurants, I'm Leaving the Table](https://www.nytimes.com/2024/07/16/dining/pete-wells-steps-down-food-critic.html)
+- Jul 16 - [Craig Wright's claim of inventing Bitcoin may get him arrested for perjury](https://arstechnica.com/tech-policy/2024/07/craig-wrights-claim-of-inventing-bitcoin-may-get-him-arrested-for-perjury/)
+- Jul 16 - [Data brokers sell our location data and jeopardise national security](https://netzpolitik.org/2024/data-broker-files-how-data-brokers-sell-our-location-data-and-jeopardise-national-security/)
+- Jul 16 - [HuggingFace: Scaling open source community 300%/yr with No OKRs and No Meetings](https://dx.tips/huggingface)
+- Jul 16 - [Lago (YC S21, Open-Source Usage Based Billing) Is Hiring a ML Engineer (EU)](https://www.ycombinator.com/companies/lago/jobs/O7dCOie-ml-engineer)
 <!--END_SECTION:hn-->
 
 <!--
