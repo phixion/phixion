@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 15 - [How do jewellers capture every last particle of gold dust? (2017)](https://www.ft.com/content/0512638c-b7c2-11e6-961e-a1acd97f622d)
-- Jul 15 - [KUtrace: Low-overhead Linux kernel tracing facility](https://github.com/dicksites/KUtrace)
-- Jul 15 - [L402: The Missing Piece in the Internet's Payment Infrastructure](https://l402.org/)
-- Jul 15 - [The Mafia of Pharma Pricing](https://www.thebignewsletter.com/p/inside-the-mafia-of-pharma-pricing)
-- Jul 15 - [Artie (YC S23) Is Hiring](https://www.ycombinator.com/companies/artie/jobs/N3AosVU-founding-engineer)
+- Jul 16 - [Peter Buxtun, whistleblower who exposed Tuskegee syphilis study, dies aged 86](https://www.theguardian.com/us-news/article/2024/jul/15/peter-buxtun-tuskegee-whistleblower-dies)
+- Jul 16 - [A rare Stratospheric Warming event has begun over the South Pole](https://www.severe-weather.eu/global-weather/polar-vortex-stratospheric-warming-event-south-hemisphere-winter-fa/)
+- Jul 16 - [We built our world for a climate that no longer exists](https://www.cnn.com/2024/07/12/opinions/climate-crisis-change-extreme-weather-infrastructure/index.html)
+- Jul 16 - [A Review of Linux on Surface Pro 4](https://www.binwang.me/2024-07-12-A-Review-of-Linux-on-Surface-Pro-4.html)
+- Jul 16 - [MixRank (YC S11) Is Hiring Software Engineers and Founders Globally](https://news.ycombinator.com/item?id=40972842)
 <!--END_SECTION:hn-->
 
 <!--
