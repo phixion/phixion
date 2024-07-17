@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 17 - [Jia Tan "JiaT75": Added error text to warning when untaring with bsdtar](https://github.com/libarchive/libarchive/pull/1609)
-- Jul 17 - [I lost my love for the web (2022)](https://ambitiousfounder.com/i-lost-my-love-for-the-web)
-- Jul 17 - [Ask HN: Do you already see the impact of LLMs on the job prospects for dev's?](https://news.ycombinator.com/item?id=40984456)
-- Jul 17 - [Axiomatic by Greg Egan](https://en.wikipedia.org/wiki/Axiomatic_(book))
-- Jul 17 - [Post Office Horizon scandal explained: Everything you need to know](https://www.computerweekly.com/feature/Post-Office-Horizon-scandal-explained-everything-you-need-to-know)
+- Jul 17 - ['Supermodel granny' drug extends life in animals](https://www.bbc.co.uk/news/articles/cv2gr3x3xkno)
+- Jul 17 - [Panic at the Tech Job Market](https://matt.sh/panic-at-the-job-market)
+- Jul 17 - [Bhutan's first AI startup is seven college kids in a dorm](https://restofworld.org/2024/bhutan-first-ai-startup/)
+- Jul 17 - [Puerto Rico files $1B suit against fossil fuel companies](https://www.theverge.com/2024/7/16/24199686/puerto-rico-fossil-fuel-industry-lawsuit-climate-change)
+- Jul 17 - [Tom Lehrer and Santa Cruz: the trail of one of America's premier satirists](https://lookout.co/tom-lehrer-and-santa-cruz-sleuthing-the-trail-of-one-of-americas-premier-satirists/)
 <!--END_SECTION:hn-->
 
 <!--
