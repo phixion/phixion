@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 17 - [China installing the wind / solar equivalent of 5 nuclear power stations a week](https://www.abc.net.au/news/science/2024-07-16/chinas-renewable-energy-boom-breaks-records/104086640)
-- Jul 17 - [Free Introduction to Bash Scripting eBook](https://github.com/bobbyiliev/introduction-to-bash-scripting)
-- Jul 17 - [Why is Sweden paying grandparents to babysit?](https://www.bloomberg.com/opinion/articles/2024-07-13/why-is-sweden-paying-grandparents-for-child-care-it-s-worth-a-try)
-- Jul 16 - [Darwin Machines](https://vedgie.net/writing/darwin_machines.md)
-- Jul 16 - [The golden age of scammers: AI-powered phishing](https://www.mailgun.com/blog/email/ai-phishing/)
+- Jul 17 - [Microsoft laid off a DEI team, DEI is 'no longer business critical'](https://www.businessinsider.com/microsoft-layoffs-dei-leader-email-2024-7)
+- Jul 17 - ["Security is our top priority" is meaningless](https://blog.waleson.com/2024/07/security-is-our-top-priority-is-bs.html)
+- Jul 17 - [Import and Export Markdown in Google Docs](https://workspaceupdates.googleblog.com/2024/07/import-and-export-markdown-in-google-docs.html)
+- Jul 17 - [Data Formats: 3D, Audio, Image](https://paulbourke.net/dataformats/)
+- Jul 17 - [Eight Years of GraphQL](https://www.magiroux.com/eight-years-of-graphql)
 <!--END_SECTION:hn-->
 
 <!--
