@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 17 - [China installing the wind / solar equivalent of 5 nuclear power stations a week](https://www.abc.net.au/news/science/2024-07-16/chinas-renewable-energy-boom-breaks-records/104086640)
+- Jul 17 - [Free Introduction to Bash Scripting eBook](https://github.com/bobbyiliev/introduction-to-bash-scripting)
+- Jul 17 - [Why is Sweden paying grandparents to babysit?](https://www.bloomberg.com/opinion/articles/2024-07-13/why-is-sweden-paying-grandparents-for-child-care-it-s-worth-a-try)
 - Jul 16 - [Darwin Machines](https://vedgie.net/writing/darwin_machines.md)
-- Jul 16 - [Show HN: Magic-cli – A copilot for your command line](https://github.com/guywaldman/magic-cli)
-- Jul 16 - [Sync Labs (YC W24) Is Hiring a Staff Engineer](https://www.ycombinator.com/companies/sync-labs/jobs/CrRfnKu-founding-staff-engineer)
-- Jul 16 - [Convex Architecture Handbook 1984 [pdf]](http://bitsavers.informatik.uni-stuttgart.de/pdf/convex/080-000120-000_CONVEX_Architecture_Handbook_1984.pdf)
-- Jul 16 - [After 12 years of reviewing restaurants, I'm leaving the table](https://www.nytimes.com/2024/07/16/dining/pete-wells-steps-down-food-critic.html)
+- Jul 16 - [The golden age of scammers: AI-powered phishing](https://www.mailgun.com/blog/email/ai-phishing/)
 <!--END_SECTION:hn-->
 
 <!--
