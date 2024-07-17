@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 16 - [After 12 Years of Reviewing Restaurants, I'm Leaving the Table](https://www.nytimes.com/2024/07/16/dining/pete-wells-steps-down-food-critic.html)
-- Jul 16 - [Craig Wright's claim of inventing Bitcoin may get him arrested for perjury](https://arstechnica.com/tech-policy/2024/07/craig-wrights-claim-of-inventing-bitcoin-may-get-him-arrested-for-perjury/)
-- Jul 16 - [Data brokers sell our location data and jeopardise national security](https://netzpolitik.org/2024/data-broker-files-how-data-brokers-sell-our-location-data-and-jeopardise-national-security/)
-- Jul 16 - [HuggingFace: Scaling open source community 300%/yr with No OKRs and No Meetings](https://dx.tips/huggingface)
-- Jul 16 - [Lago (YC S21, Open-Source Usage Based Billing) Is Hiring a ML Engineer (EU)](https://www.ycombinator.com/companies/lago/jobs/O7dCOie-ml-engineer)
+- Jul 16 - [Darwin Machines](https://vedgie.net/writing/darwin_machines.md)
+- Jul 16 - [Show HN: Magic-cli – A copilot for your command line](https://github.com/guywaldman/magic-cli)
+- Jul 16 - [Sync Labs (YC W24) Is Hiring a Staff Engineer](https://www.ycombinator.com/companies/sync-labs/jobs/CrRfnKu-founding-staff-engineer)
+- Jul 16 - [Convex Architecture Handbook 1984 [pdf]](http://bitsavers.informatik.uni-stuttgart.de/pdf/convex/080-000120-000_CONVEX_Architecture_Handbook_1984.pdf)
+- Jul 16 - [After 12 years of reviewing restaurants, I'm leaving the table](https://www.nytimes.com/2024/07/16/dining/pete-wells-steps-down-food-critic.html)
 <!--END_SECTION:hn-->
 
 <!--
