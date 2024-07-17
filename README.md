@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 17 - ['Supermodel granny' drug extends life in animals](https://www.bbc.co.uk/news/articles/cv2gr3x3xkno)
-- Jul 17 - [Panic at the Tech Job Market](https://matt.sh/panic-at-the-job-market)
-- Jul 17 - [Bhutan's first AI startup is seven college kids in a dorm](https://restofworld.org/2024/bhutan-first-ai-startup/)
-- Jul 17 - [Puerto Rico files $1B suit against fossil fuel companies](https://www.theverge.com/2024/7/16/24199686/puerto-rico-fossil-fuel-industry-lawsuit-climate-change)
-- Jul 17 - [Tom Lehrer and Santa Cruz: the trail of one of America's premier satirists](https://lookout.co/tom-lehrer-and-santa-cruz-sleuthing-the-trail-of-one-of-americas-premier-satirists/)
+- Jul 17 - [The Toyota Pickup Truck Is the War Chariot of the Third World](https://medium.com/war-is-boring/the-toyota-pickup-truck-is-the-war-chariot-of-the-third-world-ea4a121e948b)
+- Jul 17 - [Researchers build a solar-powered hovering drone that weighs only 9 mg](https://arstechnica.com/science/2024/07/researchers-build-ultralight-drone-that-flies-with-onboard-solar/)
+- Jul 17 - [Little Languages (1986) [pdf]](https://staff.um.edu.mt/afra1/seminar/little-languages.pdf)
+- Jul 17 - [NVIDIA Transitions Fully Towards Open-Source Linux GPU Kernel Modules](https://developer.nvidia.com/blog/nvidia-transitions-fully-towards-open-source-gpu-kernel-modules/)
+- Jul 17 - [A brief interview with Awk creator Dr. Brian Kernighan](https://pldb.io/blog/brianKernighan.html)
 <!--END_SECTION:hn-->
 
 <!--
