@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 17 - [Microsoft laid off a DEI team, DEI is 'no longer business critical'](https://www.businessinsider.com/microsoft-layoffs-dei-leader-email-2024-7)
-- Jul 17 - ["Security is our top priority" is meaningless](https://blog.waleson.com/2024/07/security-is-our-top-priority-is-bs.html)
-- Jul 17 - [Import and Export Markdown in Google Docs](https://workspaceupdates.googleblog.com/2024/07/import-and-export-markdown-in-google-docs.html)
-- Jul 17 - [Data Formats: 3D, Audio, Image](https://paulbourke.net/dataformats/)
-- Jul 17 - [Eight Years of GraphQL](https://www.magiroux.com/eight-years-of-graphql)
+- Jul 17 - [Jia Tan "JiaT75": Added error text to warning when untaring with bsdtar](https://github.com/libarchive/libarchive/pull/1609)
+- Jul 17 - [I lost my love for the web (2022)](https://ambitiousfounder.com/i-lost-my-love-for-the-web)
+- Jul 17 - [Ask HN: Do you already see the impact of LLMs on the job prospects for dev's?](https://news.ycombinator.com/item?id=40984456)
+- Jul 17 - [Axiomatic by Greg Egan](https://en.wikipedia.org/wiki/Axiomatic_(book))
+- Jul 17 - [Post Office Horizon scandal explained: Everything you need to know](https://www.computerweekly.com/feature/Post-Office-Horizon-scandal-explained-everything-you-need-to-know)
 <!--END_SECTION:hn-->
 
 <!--
