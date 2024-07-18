@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 18 - [Mistral NeMo](https://mistral.ai/news/mistral-nemo/)
-- Jul 18 - [Hash-Based Bisect Debugging in Compilers and Runtimes](https://research.swtch.com/bisect)
-- Jul 18 - [Sparrows may be 'canary in the coal mine' for lead poisoning in children: study](https://www.abc.net.au/news/science/2024-07-18/sparrows-lead-poisoning-children-blood-levels-health-mining/104075894)
-- Jul 18 - [The Objects of Our Life](https://stevejobsarchive.com/exhibits/objects-of-our-life)
-- Jul 18 - [Trayd (YC S23) Is Hiring](https://buildtrayd.notion.site/Senior-Software-Engineer-Trayd-b2e20c6b936e47b9870823a75e6c0604)
+- Jul 18 - [Why aren't we using SSH for everything? (2015)](https://shazow.net/posts/ssh-how-does-it-even/)
+- Jul 18 - [A type system for RCL, part 2: The type system](https://ruudvanasseldonk.com/2024/a-type-system-for-rcl-part-2-the-type-system)
+- Jul 18 - [What Would It Take to Recreate Bell Labs?](https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell)
+- Jul 18 - [USPS shared customer postal addresses with Meta, LinkedIn and Snap](https://techcrunch.com/2024/07/18/usps-shared-customer-postal-addresses-with-meta-linkedin-and-snap/)
+- Jul 18 - [MapLab: Sleuthing for Undersea Cables](https://www.bloomberg.com/news/newsletters/2024-07-17/subway-style-map-visualizes-world-s-network-of-submarine-cables)
 <!--END_SECTION:hn-->
 
 <!--
