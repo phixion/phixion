@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 17 - [A RP2040 based DECstation 3000 emulator that can run DECWindows](https://github.com/rscott2049/DECstation2040)
-- Jul 17 - [Closed form arc length parametrization is impossible for quadratic Bézier curves](https://ninjakoa.la/curly_curves/posts/quadratic_bezier_arc_length_parametrization/)
-- Jul 17 - [SAPwned: SAP AI vulnerabilities expose customers' cloud environments and privat](https://www.wiz.io/blog/sapwned-sap-ai-vulnerabilities-ai-security)
-- Jul 17 - [Show HN: SQLite Transaction Benchmarking Tool](https://github.com/seddonm1/sqlite-bench)
-- Jul 17 - [Draftaid (YC W24) Is Hiring](https://www.ycombinator.com/companies/draftaid/jobs/7d48v4k-software-engineer)
+- Jul 18 - [GMC made a motorhome that pumped sewage through its exhaust on purpose](https://www.thedrive.com/news/culture/gmc-made-a-motorhome-that-pumped-sewage-through-its-exhaust-on-purpose)
+- Jul 18 - [Americans' confidence in higher education has taken a nosedive](https://lithub.com/americans-confidence-in-higher-education-has-taken-a-nosedive/)
+- Jul 18 - [NASA Spent $450M on a Moon Rover. Now It's Canceling the Mission](https://www.nytimes.com/2024/07/17/science/nasa-viper-moon-rover-canceled.html)
+- Jul 18 - [Mercedes-Benz high-power charging goes large at Starbucks](https://electrek.co/2024/07/17/mercedes-benz-high-power-charging-starbucks/)
+- Jul 18 - [Show HN: Llm2sh – Translate plain-language requests into shell commands](https://github.com/randombk/llm2sh)
 <!--END_SECTION:hn-->
 
 <!--
