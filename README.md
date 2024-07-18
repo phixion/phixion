@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 17 - [The Toyota Pickup Truck Is the War Chariot of the Third World](https://medium.com/war-is-boring/the-toyota-pickup-truck-is-the-war-chariot-of-the-third-world-ea4a121e948b)
-- Jul 17 - [Researchers build a solar-powered hovering drone that weighs only 9 mg](https://arstechnica.com/science/2024/07/researchers-build-ultralight-drone-that-flies-with-onboard-solar/)
-- Jul 17 - [Little Languages (1986) [pdf]](https://staff.um.edu.mt/afra1/seminar/little-languages.pdf)
-- Jul 17 - [NVIDIA Transitions Fully Towards Open-Source Linux GPU Kernel Modules](https://developer.nvidia.com/blog/nvidia-transitions-fully-towards-open-source-gpu-kernel-modules/)
-- Jul 17 - [A brief interview with Awk creator Dr. Brian Kernighan](https://pldb.io/blog/brianKernighan.html)
+- Jul 17 - [A RP2040 based DECstation 3000 emulator that can run DECWindows](https://github.com/rscott2049/DECstation2040)
+- Jul 17 - [Closed form arc length parametrization is impossible for quadratic Bézier curves](https://ninjakoa.la/curly_curves/posts/quadratic_bezier_arc_length_parametrization/)
+- Jul 17 - [SAPwned: SAP AI vulnerabilities expose customers' cloud environments and privat](https://www.wiz.io/blog/sapwned-sap-ai-vulnerabilities-ai-security)
+- Jul 17 - [Show HN: SQLite Transaction Benchmarking Tool](https://github.com/seddonm1/sqlite-bench)
+- Jul 17 - [Draftaid (YC W24) Is Hiring](https://www.ycombinator.com/companies/draftaid/jobs/7d48v4k-software-engineer)
 <!--END_SECTION:hn-->
 
 <!--
