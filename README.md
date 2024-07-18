@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 18 - [Computers are an inherently oppressive technology](https://www.devever.net/~hl/ruthlessness_orig)
-- Jul 18 - [Ask HN: What's Prolog Like in 2024?](https://news.ycombinator.com/item?id=40994552)
-- Jul 18 - [Collection of Dark Patterns and Unethical Design](https://hallofshame.design/collection/)
-- Jul 18 - [Who Killed the World?](https://pudding.cool/2024/07/scifi/)
-- Jul 18 - [Show HN: Llm2sh – Translate plain-language requests into shell commands](https://github.com/randombk/llm2sh)
+- Jul 18 - [Mistral NeMo](https://mistral.ai/news/mistral-nemo/)
+- Jul 18 - [Hash-Based Bisect Debugging in Compilers and Runtimes](https://research.swtch.com/bisect)
+- Jul 18 - [Sparrows may be 'canary in the coal mine' for lead poisoning in children: study](https://www.abc.net.au/news/science/2024-07-18/sparrows-lead-poisoning-children-blood-levels-health-mining/104075894)
+- Jul 18 - [The Objects of Our Life](https://stevejobsarchive.com/exhibits/objects-of-our-life)
+- Jul 18 - [Trayd (YC S23) Is Hiring](https://buildtrayd.notion.site/Senior-Software-Engineer-Trayd-b2e20c6b936e47b9870823a75e6c0604)
 <!--END_SECTION:hn-->
 
 <!--
