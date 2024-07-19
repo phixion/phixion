@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 18 - [Why aren't we using SSH for everything? (2015)](https://shazow.net/posts/ssh-how-does-it-even/)
+- Jul 18 - [Elephants Are Doing Something Deeply Human](https://www.theatlantic.com/science/archive/2024/07/animal-naming-elephant-consciousness-language/679075/)
+- Jul 18 - [Azure DevOps is down globally](https://news.ycombinator.com/item?id=41000822)
+- Jul 18 - [Mutable.ai (YC W22) is hiring to build an AI codebase expert](https://news.ycombinator.com/item?id=40999700)
+- Jul 18 - [60-year-old German man likely seventh person to be effectively cured from HIV](https://www.rfi.fr/en/international-news/20240718-seventh-person-likely-cured-of-hiv-doctors-announce)
 - Jul 18 - [A type system for RCL, part 2: The type system](https://ruudvanasseldonk.com/2024/a-type-system-for-rcl-part-2-the-type-system)
-- Jul 18 - [What Would It Take to Recreate Bell Labs?](https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell)
-- Jul 18 - [USPS shared customer postal addresses with Meta, LinkedIn and Snap](https://techcrunch.com/2024/07/18/usps-shared-customer-postal-addresses-with-meta-linkedin-and-snap/)
-- Jul 18 - [MapLab: Sleuthing for Undersea Cables](https://www.bloomberg.com/news/newsletters/2024-07-17/subway-style-map-visualizes-world-s-network-of-submarine-cables)
 <!--END_SECTION:hn-->
 
 <!--
