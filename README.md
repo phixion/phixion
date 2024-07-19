@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 19 - [74935 viewing Mass worldwide IT outage affects airlines, media and banks](https://www.bbc.co.uk/news/live/cnk4jdwp49et)
-- Jul 19 - [Crowdstrike Outage Causing Widespread Issues](https://www.afr.com/technology/businesses-crippled-by-widespread-it-outage-20240719-p5jv2t)
-- Jul 19 - [Foliate: Read e-books in style, navigate with ease](https://johnfactotum.github.io/foliate/)
-- Jul 19 - [FOSS funding vanishes from EU's 2025 Horizon program plans](https://www.theregister.com/2024/07/17/foss_funding_vanishes_from_eus/)
-- Jul 19 - [Multiple airlines disrupted due to Microsoft Azure outage](https://www.nytimes.com/2024/07/18/us/frontier-flights-grounded-microsoft.html)
+- Jul 19 - [62 Minutes could bring your business down](https://www.crowdstrike.com/en-us/#teaser-79minutes-adversary-1)
+- Jul 19 - [FCC votes unanimously to dramatically limit prison telecom rates](https://worthrises.org/pressreleases/2024/7/18/fcc-votes-unanimously-to-significantly-lower-phone-and-video-communication-costs-after-decades-of-exploitation-by-prison-telecoms)
+- Jul 19 - [Ask HN: What is in C-00000291*.sys?](https://news.ycombinator.com/item?id=41004103)
+- Jul 19 - [Ryanair – when every page is a dark pattern](https://hallofshame.design/ryanair-when-every-page-is-a-dark-pattern/)
+- Jul 19 - [End Poem by Julian Gough](https://www.theendpoem.com/)
 <!--END_SECTION:hn-->
 
 <!--
