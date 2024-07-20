@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 20 - [Major Fire Breaks Out on Maersk Containership in Arabian Sea](https://gcaptain.com/major-fire-breaks-out-on-maersk-containership-in-arabian-sea/)
-- Jul 20 - ['The DOJ's Assault on Apple Will Harm Consumers'](https://reason.com/2024/07/17/the-dojs-assault-on-apple-will-harm-consumers/)
-- Jul 20 - [Argentina's economy is growing beyond expectations](https://www.semafor.com/article/07/19/2024/argentinas-economy-is-growing-beyond-expectations)
 - Jul 20 - [Doom on Playdate](https://devforum.play.date/t/doom-on-playdate/852)
 - Jul 20 - [Garage: Open-Source Distributed Object Storage](https://garagehq.deuxfleurs.fr/)
+- Jul 19 - [I mapped almost every USA traffic death in the 21st century](https://roadway.report)
+- Jul 19 - [Multisatellite data depicts a record-breaking methane leak from a well blowout](https://pubs.acs.org/doi/10.1021/acs.estlett.4c00399)
+- Jul 19 - [Wiz becomes the fastest-growing software company ever (2022)](https://www.wiz.io/blog/100m-arr-in-18-months-wiz-becomes-the-fastest-growing-software-company-ever)
 <!--END_SECTION:hn-->
 
 <!--
