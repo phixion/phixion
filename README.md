@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 20 - [CrowdStrike debacle provides road map of American vulnerabilities to adversaries](https://www.nytimes.com/2024/07/19/us/politics/crowdstrike-outage.html)
-- Jul 20 - [Siblings miss crucial life-extending treatment because of CrowdStrike](https://www.kiro7.com/news/local/siblings-miss-crucial-life-extending-treatment-seattle-childrens-because-crowdstrike-outage/Y5EMEXGGQJE7PHDEAEKCWG6U4M/)
-- Jul 20 - [Is OpenSUSE at Crossroads?](https://ludditus.com/2024/07/18/is-opensuse-at-crossroads/)
-- Jul 20 - [Journeying into XDP: Fully-fledged DNS service augmentation](https://blog.apnic.net/2022/02/15/journeying-into-xdp-fully-fledged-dns-service-augmentation/)
-- Jul 20 - [How to pwn a billion dollar VC firm using inspect element](https://www.kibty.town/blog/a16z/)
+- Jul 20 - [Tenstorrent Unveils High-End Wormhole AI Processors, Featuring RISC-V](https://wccftech.com/tenstorrent-wormhole-ai-processors-risc-v-phenomenal-price-to-performance-value/)
+- Jul 20 - [Global IT outage shows dangers of cashless society, campaigners say](https://www.theguardian.com/technology/article/2024/jul/20/cash-global-it-outage-cashless-society-dangers-payment-choice-alliance)
+- Jul 20 - [Google set to purge the Play Store of low-quality apps](https://www.androidauthority.com/google-apps-play-store-3462390/)
+- Jul 20 - [How to use the new counted_by attribute in C (and Linux)](https://people.kernel.org/gustavoars/how-to-use-the-new-counted_by-attribute-in-c-and-linux)
+- Jul 20 - [A Linux kernel syscall implementation tracker](https://syscalls.mebeim.net/?table=x86/64/x64/latest)
 <!--END_SECTION:hn-->
 
 <!--
