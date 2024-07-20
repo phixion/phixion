@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 19 - [I mapped almost every USA traffic death in the 21st century](https://roadway.report)
-- Jul 19 - [Multisatellite data depicts a record-breaking methane leak from a well blowout](https://pubs.acs.org/doi/10.1021/acs.estlett.4c00399)
-- Jul 19 - [Academics shocked after T&F sells access to their research to Microsoft AI](https://www.thebookseller.com/news/academic-authors-shocked-after-taylor--francis-sells-access-to-their-research-to-microsoft-ai)
-- Jul 19 - [Rare footage of largest uncontacted tribe in the world: 'disaster in the making'](https://www.youtube.com/watch?v=QSzbUaJkV_0)
-- Jul 19 - [The European Union must keep funding free software](https://pad.public.cat/lettre-NCP-NGI)
+- Jul 20 - [Major Fire Breaks Out on Maersk Containership in Arabian Sea](https://gcaptain.com/major-fire-breaks-out-on-maersk-containership-in-arabian-sea/)
+- Jul 20 - ['The DOJ's Assault on Apple Will Harm Consumers'](https://reason.com/2024/07/17/the-dojs-assault-on-apple-will-harm-consumers/)
+- Jul 20 - [Argentina's economy is growing beyond expectations](https://www.semafor.com/article/07/19/2024/argentinas-economy-is-growing-beyond-expectations)
+- Jul 20 - [Doom on Playdate](https://devforum.play.date/t/doom-on-playdate/852)
+- Jul 20 - [Garage: Open-Source Distributed Object Storage](https://garagehq.deuxfleurs.fr/)
 <!--END_SECTION:hn-->
 
 <!--
