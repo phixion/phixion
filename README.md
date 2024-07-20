@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 19 - [Ask HN: How to finish last 30% of a side project?](https://news.ycombinator.com/item?id=41010229)
-- Jul 19 - [AI paid for by Ads – the GPT-4o mini inflection point](https://batchmon.com/blog/ai-cheaper-than-ads/)
-- Jul 19 - [Pornhub Pulls Out of Nebraska](https://gizmodo.com/pornhub-pulls-out-of-nebraska-2000476879)
-- Jul 19 - [Nearly all of Bangladesh is offline](https://ant.isi.edu/blog/?p=2094)
-- Jul 19 - [Never Update Anything](https://blog.kronis.dev/articles/never-update-anything)
+- Jul 19 - [I mapped almost every USA traffic death in the 21st century](https://roadway.report)
+- Jul 19 - [Multisatellite data depicts a record-breaking methane leak from a well blowout](https://pubs.acs.org/doi/10.1021/acs.estlett.4c00399)
+- Jul 19 - [Academics shocked after T&F sells access to their research to Microsoft AI](https://www.thebookseller.com/news/academic-authors-shocked-after-taylor--francis-sells-access-to-their-research-to-microsoft-ai)
+- Jul 19 - [Rare footage of largest uncontacted tribe in the world: 'disaster in the making'](https://www.youtube.com/watch?v=QSzbUaJkV_0)
+- Jul 19 - [The European Union must keep funding free software](https://pad.public.cat/lettre-NCP-NGI)
 <!--END_SECTION:hn-->
 
 <!--
