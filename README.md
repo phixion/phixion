@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 20 - [Hadrius (YC W23) is hiring engineers looking to grow into future founders](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
-- Jul 20 - [Converting Codebases with LLMs](https://blog.withmantle.com/code-conversion-using-ai/)
-- Jul 20 - [Garage: Open-Source Distributed Object Storage](https://garagehq.deuxfleurs.fr/)
-- Jul 19 - [I mapped almost every USA traffic death in the 21st century](https://roadway.report)
-- Jul 19 - [Multisatellite data depicts a record-breaking methane leak from a well blowout](https://pubs.acs.org/doi/10.1021/acs.estlett.4c00399)
+- Jul 20 - [CrowdStrike debacle provides road map of American vulnerabilities to adversaries](https://www.nytimes.com/2024/07/19/us/politics/crowdstrike-outage.html)
+- Jul 20 - [Siblings miss crucial life-extending treatment because of CrowdStrike](https://www.kiro7.com/news/local/siblings-miss-crucial-life-extending-treatment-seattle-childrens-because-crowdstrike-outage/Y5EMEXGGQJE7PHDEAEKCWG6U4M/)
+- Jul 20 - [Is OpenSUSE at Crossroads?](https://ludditus.com/2024/07/18/is-opensuse-at-crossroads/)
+- Jul 20 - [Journeying into XDP: Fully-fledged DNS service augmentation](https://blog.apnic.net/2022/02/15/journeying-into-xdp-fully-fledged-dns-service-augmentation/)
+- Jul 20 - [How to pwn a billion dollar VC firm using inspect element](https://www.kibty.town/blog/a16z/)
 <!--END_SECTION:hn-->
 
 <!--
