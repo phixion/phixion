@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 21 - [rr – record and replay debugger for C/C++](https://rr-project.org/)
-- Jul 21 - [Zettlr: One-Stop Publication Workbench](https://www.zettlr.com)
-- Jul 21 - [Syscall.sh](https://syscall.sh/)
-- Jul 21 - [Show HN: Ristretto, an OSS sandboxed code playground/notebook written in itself](https://ristretto.codeberg.page/)
-- Jul 21 - [What is the significance of the character "j" at the end of a Roman Numeral?](https://genealogy.stackexchange.com/questions/3748/what-is-the-significance-of-the-character-j-at-the-end-of-a-roman-numeral)
+- Jul 21 - [Spaced mathematics practice improves test scores and reduces overconfidence [pdf]](http://uweb.cas.usf.edu/~drohrer/pdfs/Emeny_et_al_2021ACP.pdf)
+- Jul 21 - [Linux Hardening Checklist](https://github.com/trimstray/linux-hardening-checklist)
+- Jul 21 - [DeepL's LLM Outperforms Google Translate, ChatGPT-4, and Microsoft](https://www.deepl.com/en/blog/next-gen-language-model)
+- Jul 21 - [So you think you know box shadows?](https://dgerrells.com/blog/how-not-to-use-box-shadows)
+- Jul 21 - [PgManage: Modern, cross platform graphical database client](https://github.com/commandprompt/pgmanage)
 <!--END_SECTION:hn-->
 
 <!--
