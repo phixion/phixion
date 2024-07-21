@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 21 - [Spaced mathematics practice improves test scores and reduces overconfidence [pdf]](http://uweb.cas.usf.edu/~drohrer/pdfs/Emeny_et_al_2021ACP.pdf)
-- Jul 21 - [Linux Hardening Checklist](https://github.com/trimstray/linux-hardening-checklist)
-- Jul 21 - [DeepL's LLM Outperforms Google Translate, ChatGPT-4, and Microsoft](https://www.deepl.com/en/blog/next-gen-language-model)
-- Jul 21 - [So you think you know box shadows?](https://dgerrells.com/blog/how-not-to-use-box-shadows)
-- Jul 21 - [PgManage: Modern, cross platform graphical database client](https://github.com/commandprompt/pgmanage)
+- Jul 21 - [NYT: The Data That Powers AI Is Disappearing Fast](https://www.nytimes.com/2024/07/19/technology/ai-data-restrictions.html)
+- Jul 21 - [Ask HN: What resources do you recommend for learning Haskell?](https://news.ycombinator.com/item?id=41027265)
+- Jul 21 - [Friendship and Social Fitness](https://www.robkhenderson.com/p/friendship-and-social-fitness)
+- Jul 21 - [Trellis (YC W24) is hiring engineer to build AI-powered ETL for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
+- Jul 21 - [Glisp: Graphical Lisp](https://glisp.app/commit:e7fbaae/)
 <!--END_SECTION:hn-->
 
 <!--
