@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 20 - [Bangladesh's internet blackout immobilizes its booming tech industry](https://restofworld.org/2024/bangladesh-curfew-internet-shutdown/)
-- Jul 20 - ['Google says I'm a dead physicist': is the biggest search engine broken?](https://www.theguardian.com/technology/article/2024/jul/20/google-is-the-worlds-biggest-search-engine-broken)
-- Jul 20 - [Managing Classic Mac OS Resources in ResEdit](https://eclecticlight.co/2024/07/20/managing-classic-mac-os-resources-in-resedit/)
-- Jul 20 - [Google Distributed Cloud air-gapped appliance](https://cloud.google.com/blog/topics/hybrid-cloud/google-distributed-cloud-air-gapped-appliance-is-ga)
-- Jul 20 - [Minuteman missile communications](https://computer.rip/2024-07-20-minuteman-missile-communications.html)
+- Jul 21 - ["Maxwell's equations of software" examined](https://www.righto.com/2008/07/maxwells-equations-of-software-examined.html)
+- Jul 21 - [Deluge of Fake Mac App Store Reviews](https://lapcatsoftware.com/articles/2024/7/1.html)
+- Jul 21 - [Show HN: JSON-Threat-Protection Rust High-Performance Crate](https://github.com/ADD-SP/json-threat-protection.rs)
+- Jul 21 - [Initial details about why CrowdStrike's CSAgent.sys crashed](https://twitter.com/patrickwardle/status/1814343502886477857)
+- Jul 20 - [Empathy for the user having sex with your software](https://docs.buttplug.io/docs/dev-guide/intro/buttplug-ethics/)
 <!--END_SECTION:hn-->
 
 <!--
