@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 21 - ["Any sufficiently bad software update is indistinguishable from a cyberattack"](https://twitter.com/leighhoneywell/status/1814278230704111792)
+- Jul 21 - [rr – record and replay debugger for C/C++](https://rr-project.org/)
+- Jul 21 - [Zettlr: One-Stop Publication Workbench](https://www.zettlr.com)
+- Jul 21 - [Syscall.sh](https://syscall.sh/)
+- Jul 21 - [Show HN: Ristretto, an OSS sandboxed code playground/notebook written in itself](https://ristretto.codeberg.page/)
 - Jul 21 - [What is the significance of the character "j" at the end of a Roman Numeral?](https://genealogy.stackexchange.com/questions/3748/what-is-the-significance-of-the-character-j-at-the-end-of-a-roman-numeral)
-- Jul 21 - [X.com refuses to open with Firefox strict tracking protection enabled](https://x.com/)
-- Jul 21 - [Why You Should Not Use Tcl (1994)](https://groups.google.com/g/comp.lang.tcl/c/7JXGt-Uxqag/m/3JBTj5I43yAJ)
-- Jul 21 - ["Maxwell's equations of software" examined (2008)](https://www.righto.com/2008/07/maxwells-equations-of-software-examined.html)
 <!--END_SECTION:hn-->
 
 <!--
