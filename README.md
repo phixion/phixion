@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 21 - ["Maxwell's equations of software" examined](https://www.righto.com/2008/07/maxwells-equations-of-software-examined.html)
-- Jul 21 - [Deluge of Fake Mac App Store Reviews](https://lapcatsoftware.com/articles/2024/7/1.html)
-- Jul 21 - [Show HN: JSON-Threat-Protection Rust High-Performance Crate](https://github.com/ADD-SP/json-threat-protection.rs)
-- Jul 21 - [Initial details about why CrowdStrike's CSAgent.sys crashed](https://twitter.com/patrickwardle/status/1814343502886477857)
-- Jul 20 - [Empathy for the user having sex with your software](https://docs.buttplug.io/docs/dev-guide/intro/buttplug-ethics/)
+- Jul 21 - ["Any sufficiently bad software update is indistinguishable from a cyberattack"](https://twitter.com/leighhoneywell/status/1814278230704111792)
+- Jul 21 - [What is the significance of the character "j" at the end of a Roman Numeral?](https://genealogy.stackexchange.com/questions/3748/what-is-the-significance-of-the-character-j-at-the-end-of-a-roman-numeral)
+- Jul 21 - [X.com refuses to open with Firefox strict tracking protection enabled](https://x.com/)
+- Jul 21 - [Why You Should Not Use Tcl (1994)](https://groups.google.com/g/comp.lang.tcl/c/7JXGt-Uxqag/m/3JBTj5I43yAJ)
+- Jul 21 - ["Maxwell's equations of software" examined (2008)](https://www.righto.com/2008/07/maxwells-equations-of-software-examined.html)
 <!--END_SECTION:hn-->
 
 <!--
