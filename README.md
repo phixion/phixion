@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 21 - [NYT: The Data That Powers AI Is Disappearing Fast](https://www.nytimes.com/2024/07/19/technology/ai-data-restrictions.html)
-- Jul 21 - [Ask HN: What resources do you recommend for learning Haskell?](https://news.ycombinator.com/item?id=41027265)
-- Jul 21 - [Friendship and Social Fitness](https://www.robkhenderson.com/p/friendship-and-social-fitness)
-- Jul 21 - [Trellis (YC W24) is hiring engineer to build AI-powered ETL for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
-- Jul 21 - [Glisp: Graphical Lisp](https://glisp.app/commit:e7fbaae/)
+- Jul 21 - [James C. Scott, author of Seeing Like a State, has died](https://nitter.poast.org/GerardoMunck/status/1815059432382067053)
+- Jul 21 - [The only doctor prescribed videogame for ADHD](https://www.endeavorrx.com/)
+- Jul 21 - [French Acrobatic Artist’s Low-Gravity Invention](https://www.core77.com/posts/133036/Acrobatic-Artist-Bastien-Dausses-Incredible-Low-Gravity-Invention)
+- Jul 21 - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
+- Jul 21 - [Node.js Is Here to Stay](https://blog.platformatic.dev/nodejs-is-here-to-stay)
 <!--END_SECTION:hn-->
 
 <!--
