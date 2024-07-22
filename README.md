@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 22 - [How to Get Remote Code Execution in Kafka UI](https://github.blog/2024-07-22-3-ways-to-get-remote-code-execution-in-kafka-ui/)
+- Jul 22 - [370-mile hydrogen-electric seaplane set to clean up island hopping](https://newatlas.com/aircraft/jekta-zeroavia-hydrogen-electric-seaplane/)
+- Jul 22 - [How fast can a human possibly run 100 meters?](https://bigthink.com/starts-with-a-bang/fast-human-run-100-meters/)
+- Jul 22 - [No More Blue Fridays](https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html)
 - Jul 22 - [UpCodes (YC S17) Is Hiring SWEs Across the Americas](https://up.codes/careers?utm_source=HN)
-- Jul 22 - [Jellyfin: We're Good, Seriously](https://forum.jellyfin.org/t-we-re-good-seriously)
-- Jul 22 - [Show HN: A Source Available billing system I've spent 18 months building](https://billabear.com/)
-- Jul 22 - [Ryanair wins screen scraping case against Booking.com in US court ruling](https://www.rte.ie/news/business/2024/0719/1460807-ryanair-wins-us-court-case-against-bookingcom/)
-- Jul 22 - [Bash-Oneliners: A collection of terminal tricks for Linux](https://github.com/onceupon/Bash-Oneliner)
 <!--END_SECTION:hn-->
 
 <!--
