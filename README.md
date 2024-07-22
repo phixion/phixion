@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 22 - [A Neuroscientist Explains the Brain-Boosting Benefits of Swim, Bike, and Run](https://www.triathlete.com/training/a-neuroscientist-explains-the-brain-boosting-benefits-of-swim-bike-and-run/)
-- Jul 22 - [Dondurma: The Turkish ice cream eaten with a knife and fork](https://www.bbc.com/travel/article/20240719-dondurma-the-turkish-ice-cream-eaten-with-a-knife-and-fork)
-- Jul 22 - [Apollo DN10000: Quad CPU/128Mb RAM workstation from 1988 [pdf]](https://jim.rees.org/apollo-archive/marketing/1988-ApolloDN10000ProductBrochure.pdf)
-- Jul 22 - [Cosmopolitan v3.5.8](https://github.com/jart/cosmopolitan/releases/tag/3.5.8)
-- Jul 22 - [How the CIA 'kidnapped' a Soviet moon probe during the space race](https://www.space.com/how-the-cia-kidnapped-a-soviet-moon-probe-during-the-space-race)
+- Jul 22 - [Parse, Don't Validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
+- Jul 22 - [PostmarketOS updates: new homepage, pmbootstrap v3, sensors, libcamera](https://postmarketos.org/blog/2024/07/21/pmOS-update-2024-07/)
+- Jul 22 - [Jiff: A brand new Datetime library for Rust, from the author of ripgrep](https://github.com/BurntSushi/jiff)
+- Jul 22 - [rrweb – record and replay debugger for the web](https://www.rrweb.io/)
+- Jul 22 - [Show HN: Chrome didn't have a native vector db so I built one:3](https://github.com/wizenheimer/tinkerbird)
 <!--END_SECTION:hn-->
 
 <!--
