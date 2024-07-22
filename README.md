@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 22 - [How to Get Remote Code Execution in Kafka UI](https://github.blog/2024-07-22-3-ways-to-get-remote-code-execution-in-kafka-ui/)
-- Jul 22 - [370-mile hydrogen-electric seaplane set to clean up island hopping](https://newatlas.com/aircraft/jekta-zeroavia-hydrogen-electric-seaplane/)
-- Jul 22 - [How fast can a human possibly run 100 meters?](https://bigthink.com/starts-with-a-bang/fast-human-run-100-meters/)
-- Jul 22 - [No More Blue Fridays](https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html)
-- Jul 22 - [UpCodes (YC S17) Is Hiring SWEs Across the Americas](https://up.codes/careers?utm_source=HN)
+- Jul 22 - [Reducing Adverse Side Effects of Popular Next-Generation Obesity Medications](https://monell.org/monell-center-discovery-could-help-reduce-adverse-side-effects-of-popular-next-generation-obesity-medications/)
+- Jul 22 - [Kawaii – A Keychain-Sized Nintendo Wii](https://bitbuilt.net/forums/index.php?threads/kawaii.6474/)
+- Jul 22 - [Microsoft Blames European Commission for Major Worldwide Outage](https://www.macrumors.com/2024/07/22/microsoft-blames-european-commission-for-outage/)
+- Jul 22 - [Copying is the way design works](https://matthewstrom.com/writing/copying/)
+- Jul 22 - [Reflections on Luck and Skill from the Part Time Poker Grind](https://thehobbyist.substack.com/p/800-85k-in-72-hours-reflections-on)
 <!--END_SECTION:hn-->
 
 <!--
