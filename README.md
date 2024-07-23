@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 23 - [Storing UTC is not a silver bullet (2019)](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
-- Jul 23 - [Database Design for Google Calendar: A Tutorial](https://kb.databasedesignbook.com/posts/google-calendar/)
-- Jul 23 - [Ask HN: Is there room for a new email hosting service?](https://news.ycombinator.com/item?id=41043077)
-- Jul 23 - [The Linux audio stack demystified (and more)](https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/)
-- Jul 23 - [Button Stealer](https://anatolyzenkov.com/stolen-buttons/button-stealer)
+- Jul 23 - [Strace Revisited: Simple Is Beautiful](https://debugagent.com/strace-revisited-simple-is-beautiful)
+- Jul 23 - [Telegram zero-day for Android allowed malicious files to masquerade as videos](https://therecord.media/telegram-zero-day-android-app-eset)
+- Jul 23 - [Show HN: DOM to Semantic Markdown – For LLMs](https://github.com/romansky/dom-to-semantic-markdown)
+- Jul 23 - [U.S. maternal death rate increasing at an alarming rate](https://news.northwestern.edu/stories/2024/03/u-s-maternal-death-rate-increasing-at-an-alarming-rate/)
+- Jul 23 - [Types as Interfaces](https://two-wrongs.com/types-as-interfaces)
 <!--END_SECTION:hn-->
 
 <!--
