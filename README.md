@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 22 - [Imperfect, Linux-powered, DIY smart TV is the embodiment of ad fatigue](https://arstechnica.com/gadgets/2024/07/broken-linux-laptop-makes-for-a-fine-smart-tv-alternative/)
-- Jul 22 - [Arm's Neoverse V2, in AWS's Graviton 4](https://chipsandcheese.com/2024/07/22/arms-neoverse-v2-in-awss-graviton-4/)
-- Jul 22 - [The Elegance of the ASCII Table](https://danq.me/2024/07/21/ascii/)
-- Jul 22 - [United States Discloses Nuclear Warhead Numbers; Restores Nuclear Transparency](https://fas.org/publication/united-states-discloses-nuclear-warhead-numbers-restores-nuclear-transparency/)
-- Jul 22 - [Timeshift: System Restore Tool for Linux](https://github.com/linuxmint/timeshift)
+- Jul 23 - [Wiz Rejects Alphabet's $23B Offer, Seeks IPO](https://www.bloomberg.com/news/articles/2024-07-23/cyber-firm-wiz-rejects-alphabet-s-23-billion-offer-seeks-ipo)
+- Jul 23 - [Wiz walks away from $23B deal with Google](https://www.cnbc.com/2024/07/23/google-wiz-deal-dead.html)
+- Jul 23 - [The Value of Milk.com](https://milk.com/value/)
+- Jul 23 - [Show HN: Lisp in C#](https://github.com/codr7/sharpl)
+- Jul 23 - [Re: Do people IRL know you have a blog?](https://lars-christian.com/re-do-people-irl-know-you-have-a-blog/)
 <!--END_SECTION:hn-->
 
 <!--
