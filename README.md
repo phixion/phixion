@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 23 - [Wiz Rejects Alphabet's $23B Offer, Seeks IPO](https://www.bloomberg.com/news/articles/2024-07-23/cyber-firm-wiz-rejects-alphabet-s-23-billion-offer-seeks-ipo)
-- Jul 23 - [Wiz walks away from $23B deal with Google](https://www.cnbc.com/2024/07/23/google-wiz-deal-dead.html)
-- Jul 23 - [The Value of Milk.com](https://milk.com/value/)
-- Jul 23 - [Show HN: Lisp in C#](https://github.com/codr7/sharpl)
-- Jul 23 - [Re: Do people IRL know you have a blog?](https://lars-christian.com/re-do-people-irl-know-you-have-a-blog/)
+- Jul 23 - [Storing UTC is not a silver bullet (2019)](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
+- Jul 23 - [Database Design for Google Calendar: A Tutorial](https://kb.databasedesignbook.com/posts/google-calendar/)
+- Jul 23 - [Ask HN: Is there room for a new email hosting service?](https://news.ycombinator.com/item?id=41043077)
+- Jul 23 - [The Linux audio stack demystified (and more)](https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/)
+- Jul 23 - [Button Stealer](https://anatolyzenkov.com/stolen-buttons/button-stealer)
 <!--END_SECTION:hn-->
 
 <!--
