@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 23 - [Strace Revisited: Simple Is Beautiful](https://debugagent.com/strace-revisited-simple-is-beautiful)
-- Jul 23 - [Telegram zero-day for Android allowed malicious files to masquerade as videos](https://therecord.media/telegram-zero-day-android-app-eset)
-- Jul 23 - [Show HN: DOM to Semantic Markdown – For LLMs](https://github.com/romansky/dom-to-semantic-markdown)
-- Jul 23 - [U.S. maternal death rate increasing at an alarming rate](https://news.northwestern.edu/stories/2024/03/u-s-maternal-death-rate-increasing-at-an-alarming-rate/)
-- Jul 23 - [Types as Interfaces](https://two-wrongs.com/types-as-interfaces)
+- Jul 23 - [Intent to End OCSP Service](https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html)
+- Jul 23 - [Open Source AI Is the Path Forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/)
+- Jul 23 - [Capacitive controls could be the cause of a spate of VW ID.4 crashes](https://arstechnica.com/cars/2024/07/vw-id-4-owners-report-unintended-acceleration-blame-steering-wheel-design/)
+- Jul 23 - [A free tool to quickly detect counterfeit flash (2017)](https://fight-flash-fraud.readthedocs.io/en/latest/introduction.html#correcting-capacity-to-actual-size-with-f3fix)
+- Jul 23 - [Trunk: Build, bundle and ship your Rust WASM application to the web](https://trunkrs.dev/)
 <!--END_SECTION:hn-->
 
 <!--
