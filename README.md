@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 22 - [Reducing Adverse Side Effects of Popular Next-Generation Obesity Medications](https://monell.org/monell-center-discovery-could-help-reduce-adverse-side-effects-of-popular-next-generation-obesity-medications/)
-- Jul 22 - [Kawaii – A Keychain-Sized Nintendo Wii](https://bitbuilt.net/forums/index.php?threads/kawaii.6474/)
-- Jul 22 - [Microsoft Blames European Commission for Major Worldwide Outage](https://www.macrumors.com/2024/07/22/microsoft-blames-european-commission-for-outage/)
-- Jul 22 - [Copying is the way design works](https://matthewstrom.com/writing/copying/)
-- Jul 22 - [Reflections on Luck and Skill from the Part Time Poker Grind](https://thehobbyist.substack.com/p/800-85k-in-72-hours-reflections-on)
+- Jul 22 - [Imperfect, Linux-powered, DIY smart TV is the embodiment of ad fatigue](https://arstechnica.com/gadgets/2024/07/broken-linux-laptop-makes-for-a-fine-smart-tv-alternative/)
+- Jul 22 - [Arm's Neoverse V2, in AWS's Graviton 4](https://chipsandcheese.com/2024/07/22/arms-neoverse-v2-in-awss-graviton-4/)
+- Jul 22 - [The Elegance of the ASCII Table](https://danq.me/2024/07/21/ascii/)
+- Jul 22 - [United States Discloses Nuclear Warhead Numbers; Restores Nuclear Transparency](https://fas.org/publication/united-states-discloses-nuclear-warhead-numbers-restores-nuclear-transparency/)
+- Jul 22 - [Timeshift: System Restore Tool for Linux](https://github.com/linuxmint/timeshift)
 <!--END_SECTION:hn-->
 
 <!--
