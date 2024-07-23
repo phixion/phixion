@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 23 - [Intent to End OCSP Service](https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html)
-- Jul 23 - [Open Source AI Is the Path Forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/)
-- Jul 23 - [Capacitive controls could be the cause of a spate of VW ID.4 crashes](https://arstechnica.com/cars/2024/07/vw-id-4-owners-report-unintended-acceleration-blame-steering-wheel-design/)
-- Jul 23 - [A free tool to quickly detect counterfeit flash (2017)](https://fight-flash-fraud.readthedocs.io/en/latest/introduction.html#correcting-capacity-to-actual-size-with-f3fix)
-- Jul 23 - [Trunk: Build, bundle and ship your Rust WASM application to the web](https://trunkrs.dev/)
+- Jul 23 - [Hydrothermal Explosion at Yellowstone National Park](https://www.jhnewsandguide.com/the_hole_scroll/video-biscuit-basin-geyser-explodes-sending-yellowstone-tourists-packing/article_6862fda2-4923-11ef-b5c4-abdc9bc8cd83.html)
+- Jul 23 - [America’s Transit Exceptionalism](https://benjaminschneider.substack.com/p/americas-transit-exceptionalism)
+- Jul 23 - [Google Drive scans files for copyright infringement](https://twitter.com/1littlecoder/status/1815830211612586255)
+- Jul 23 - [Learn Web Components: A free roadmap for learning web components](https://learn-wcs.com/)
+- Jul 23 - [Why Is It So Hard to Share Links on LinkedIn?](https://tedium.co/2024/07/23/linkedin-complex-linking-schemes/)
 <!--END_SECTION:hn-->
 
 <!--
