@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 24 - [CrowdStrike offers a $10 apology gift card to say sorry for outage](https://techcrunch.com/2024/07/24/crowdstrike-offers-a-10-apology-gift-card-to-say-sorry-for-outage/)
-- Jul 24 - [AI models collapse when trained on recursively generated data](https://www.nature.com/articles/s41586-024-07566-y)
-- Jul 24 - [Large Enough – Mistral AI](https://mistral.ai/news/mistral-large-2407/)
-- Jul 24 - [End Mandatory Single Family Zoning by Overturning Euclid vs. Ambler](https://www.maximum-progress.com/p/ending-single-family-zoning-by-overturning)
-- Jul 24 - [Visual explanation of saml authentication](https://www.sheshbabu.com/posts/visual-explanation-of-saml-authentication/)
+- Jul 24 - [Something is strange with CrowdStrike timeline](https://www.bitsight.com/blog/crowdstrike-timeline-mystery)
+- Jul 24 - [Will Figma become an awkward middle ground?](https://www.dive.club/ideas/will-figma-become-an-awkward-middle-ground)
+- Jul 24 - [Ask Siri, Dictation and Privacy](https://www.apple.com/legal/privacy/data/en/ask-siri-dictation/)
+- Jul 24 - [Countdown clock in NYC's Union Square ticks below 5 years](https://pix11.com/news/local-news/countdown-clock-in-nycs-union-square-ticks-below-5-years-what-it-means/)
+- Jul 24 - [CrowdStrike global outage to cost US Fortune 500 companies $5.4B](https://www.theguardian.com/technology/article/2024/jul/24/crowdstrike-outage-companies-cost)
 <!--END_SECTION:hn-->
 
 <!--
