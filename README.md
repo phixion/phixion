@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 24 - [CrowdStrike CEO summoned to explain epic fail to US Homeland Security committee](https://www.theregister.com/2024/07/23/crowdstrike_ceo_to_testify/)
-- Jul 24 - [More delays for Euston's HS2 station](https://www.ianvisits.co.uk/articles/more-delays-for-eustons-hs2-station-nao-report-74162/)
-- Jul 24 - ["Doors" in Solaris: Lightweight RPC Using File Descriptors (1996)](http://www.kohala.com/start/papers.others/doors.html)
-- Jul 24 - [MPPP – The first 'designer drug' disaster (2023)](https://www.chm.bris.ac.uk/motm/mppp/mppph.htm)
-- Jul 24 - [Tot Notes](https://leancrew.com/all-this/2024/07/tot-notes/)
+- Jul 24 - [The Ternary Computing Manifesto](https://homepage.divms.uiowa.edu/~jones/ternary/)
+- Jul 24 - [Hyprland is now independent, dropping wlroots](https://hyprland.org/news/independentHyprland/)
+- Jul 24 - [Micromouse](https://en.wikipedia.org/wiki/Micromouse)
+- Jul 24 - [We've built the Ultimate e-Bike Battery that you can Repair and Refill](https://get.gouach.com/2)
+- Jul 24 - [Pinned Places](https://without.boats/blog/pinned-places/)
 <!--END_SECTION:hn-->
 
 <!--
