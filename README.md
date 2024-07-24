@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 24 - [The Ternary Computing Manifesto](https://homepage.divms.uiowa.edu/~jones/ternary/)
-- Jul 24 - [Hyprland is now independent, dropping wlroots](https://hyprland.org/news/independentHyprland/)
-- Jul 24 - [Micromouse](https://en.wikipedia.org/wiki/Micromouse)
-- Jul 24 - [We've built the Ultimate e-Bike Battery that you can Repair and Refill](https://get.gouach.com/2)
-- Jul 24 - [Pinned Places](https://without.boats/blog/pinned-places/)
+- Jul 24 - [CrowdStrike offers a $10 apology gift card to say sorry for outage](https://techcrunch.com/2024/07/24/crowdstrike-offers-a-10-apology-gift-card-to-say-sorry-for-outage/)
+- Jul 24 - [AI models collapse when trained on recursively generated data](https://www.nature.com/articles/s41586-024-07566-y)
+- Jul 24 - [Large Enough – Mistral AI](https://mistral.ai/news/mistral-large-2407/)
+- Jul 24 - [End Mandatory Single Family Zoning by Overturning Euclid vs. Ambler](https://www.maximum-progress.com/p/ending-single-family-zoning-by-overturning)
+- Jul 24 - [Visual explanation of saml authentication](https://www.sheshbabu.com/posts/visual-explanation-of-saml-authentication/)
 <!--END_SECTION:hn-->
 
 <!--
