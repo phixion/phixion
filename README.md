@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 23 - [Hydrothermal Explosion at Yellowstone National Park](https://www.jhnewsandguide.com/the_hole_scroll/video-biscuit-basin-geyser-explodes-sending-yellowstone-tourists-packing/article_6862fda2-4923-11ef-b5c4-abdc9bc8cd83.html)
-- Jul 23 - [America’s Transit Exceptionalism](https://benjaminschneider.substack.com/p/americas-transit-exceptionalism)
-- Jul 23 - [Google Drive scans files for copyright infringement](https://twitter.com/1littlecoder/status/1815830211612586255)
-- Jul 23 - [Learn Web Components: A free roadmap for learning web components](https://learn-wcs.com/)
-- Jul 23 - [Why Is It So Hard to Share Links on LinkedIn?](https://tedium.co/2024/07/23/linkedin-complex-linking-schemes/)
+- Jul 23 - [You can opt out of airport face scans](https://www.vox.com/future-perfect/360952/summer-travel-airport-facial-recognition-scan)
+- Jul 23 - [ESA report shows unsustainable levels of orbital debris](https://payloadspace.com/esa-report-shows-unsustainable-levels-of-orbital-debris/)
+- Jul 23 - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=41050801)
+- Jul 23 - [Hydrothermal explosion at Yellowstone National Park](https://www.jhnewsandguide.com/the_hole_scroll/video-biscuit-basin-geyser-explodes-sending-yellowstone-tourists-packing/article_6862fda2-4923-11ef-b5c4-abdc9bc8cd83.html)
+- Jul 23 - [How many children had Lady Macbeth?](https://lifeandletters.substack.com/p/how-many-children-had-lady-macbeth)
 <!--END_SECTION:hn-->
 
 <!--
