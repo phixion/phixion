@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 25 - [Supabase (YC S20) Is Hiring Auth Engineers (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/5225004004)
-- Jul 25 - [Is a Universal Basic Income System Even Possible?](https://gizmodo.com/is-a-universal-basic-income-system-even-possible-2000469538)
-- Jul 25 - [One-dose nasal spray clears toxic Alzheimer's proteins to improve memory](https://newatlas.com/health-wellbeing/nasal-spray-tau-proteins-alzheimers/)
-- Jul 25 - [Switzerland Makes Open Source Software Mandatory for Public Sector](https://news.itsfoss.com/switzerland-open-source/)
-- Jul 25 - [iPhones will soon be able to stream live video on 911 calls](https://www.theverge.com/2024/7/24/24205177/apple-iphone-ios-18-emergency-sos-live-video-chat-911)
+- Jul 25 - [Launch HN: Undermind (YC S24) – AI agent for discovering scientific papers](https://news.ycombinator.com/item?id=41069909)
+- Jul 25 - [Meta Releases Dreambooth Technique Requiring No Finetuning](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/452604312_1010783860585222_5768506504946476980_n.pdf?_nc_cat=102&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=YAv_wnbaeV4Q7kNvgFYk-3h&_nc_ht=scontent-sjc3-1.xx&oh=00_AYA8prM7RdSnA8iWL_UPB6qpQKjkeBOtp8zxoco6qb1Chw&oe=66A84FAB)
+- Jul 25 - [AI solves IMO problems at silver medal level](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/)
+- Jul 25 - [Show HN: Tiny Moon – Swift library to calculate the moon phase](https://github.com/mannylopez/TinyMoon)
+- Jul 25 - [Mapping Hacker News to find who knows what in the HN community](https://blog.wilsonl.in/hackerverse-2/#)
 <!--END_SECTION:hn-->
 
 <!--
