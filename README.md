@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 24 - [Something is strange with CrowdStrike timeline](https://www.bitsight.com/blog/crowdstrike-timeline-mystery)
-- Jul 24 - [Will Figma become an awkward middle ground?](https://www.dive.club/ideas/will-figma-become-an-awkward-middle-ground)
-- Jul 24 - [Ask Siri, Dictation and Privacy](https://www.apple.com/legal/privacy/data/en/ask-siri-dictation/)
-- Jul 24 - [Countdown clock in NYC's Union Square ticks below 5 years](https://pix11.com/news/local-news/countdown-clock-in-nycs-union-square-ticks-below-5-years-what-it-means/)
-- Jul 24 - [CrowdStrike global outage to cost US Fortune 500 companies $5.4B](https://www.theguardian.com/technology/article/2024/jul/24/crowdstrike-outage-companies-cost)
+- Jul 24 - [Britain is running out of babies](https://www.edwest.co.uk/p/britain-is-running-out-of-babies)
+- Jul 24 - [Ask HN: Am I crazy or is Android development awful?](https://news.ycombinator.com/item?id=41062292)
+- Jul 24 - [Dungeons and Dragons taught me how to write alt text](https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/)
+- Jul 24 - [A Multimodal Dataset with One Trillion Tokens](https://github.com/mlfoundations/MINT-1T)
+- Jul 24 - [Anyone can access deleted and private repository data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github)
 <!--END_SECTION:hn-->
 
 <!--
