@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 24 - [Britain is running out of babies](https://www.edwest.co.uk/p/britain-is-running-out-of-babies)
-- Jul 24 - [Ask HN: Am I crazy or is Android development awful?](https://news.ycombinator.com/item?id=41062292)
-- Jul 24 - [Dungeons and Dragons taught me how to write alt text](https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/)
-- Jul 24 - [A Multimodal Dataset with One Trillion Tokens](https://github.com/mlfoundations/MINT-1T)
-- Jul 24 - [Anyone can access deleted and private repository data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github)
+- Jul 25 - [Japan chain uses AI to gauge staff smiles, speech tones in QoS push](https://www.scmp.com/news/people-culture/article/3271333/japan-supermarket-chain-uses-ai-gauge-staff-smiles-speech-tones-quality-service-push)
+- Jul 25 - [Node.js adds experimental support for TypeScript](https://github.com/nodejs/node/pull/53725)
+- Jul 25 - [500M-Year-Old 'Alien Fish Taco' Was Among First Creatures with Jaws](https://www.scientificamerican.com/article/500-million-year-old-alien-fish-taco-was-among-first-creatures-with-jaws/)
+- Jul 24 - [Fossil Hints That Jurassic Mammals Lived Slow and Died Old](https://www.nytimes.com/2024/07/24/science/fossil-mammal-jurassic-age.html)
+- Jul 24 - [Show HN: Hooper – AI-driven stats and highlights for basketball play](https://www.hooper.gg)
 <!--END_SECTION:hn-->
 
 <!--
