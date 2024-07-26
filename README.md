@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 26 - [Lionel Messi Is Impossible (2014)](https://fivethirtyeight.com/features/lionel-messi-is-impossible/)
-- Jul 26 - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4381552006)
-- Jul 26 - [A hash table by any other name](https://lwn.net/Articles/972580/)
-- Jul 26 - [Bcachefs, an Introduction/Exploration](http://blog.asleson.org/2024/07/24/bcachefs-an-introduction/exploration/)
-- Jul 26 - [A Swiss Town Banned Billboards. Zurich, Bern May Soon Follow](https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution)
+- Jul 26 - [Europe is in danger of regulating its tech market out of existence](https://foreignpolicy.com/2024/07/26/europe-tech-regulation-apple-meta-google-competition/)
+- Jul 26 - [Why does the chromaticity diagram look like that?](https://jlongster.com/why-chromaticity-shape)
+- Jul 26 - [Repulsive Shells [video]](https://www.youtube.com/watch?v=qDM6bCt1Gic)
+- Jul 26 - [Call the compiler, fax it your code [video]](https://www.youtube.com/watch?v=pJ-25-pRhpY)
+- Jul 26 - [A simple procedural animation technique [video]](https://www.youtube.com/watch?v=qlfh_rv6khY)
 <!--END_SECTION:hn-->
 
 <!--
