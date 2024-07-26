@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 25 - [AI crawlers need to be more respectful](https://about.readthedocs.com/blog/2024/07/ai-crawlers-abuse/)
-- Jul 25 - [The Computer Genius the Communists Couldn't Stand](https://culture.pl/en/article/jacek-karpinski-the-computer-genius-the-communists-couldnt-stand)
-- Jul 25 - [Secure Boot is broken on 200 models from 5 big device makers](https://arstechnica.com/security/2024/07/secure-boot-is-completely-compromised-on-200-models-from-5-big-device-makers/)
-- Jul 25 - [Motion (YC W20) Is Hiring Senior Front End Engineers (US+Canada)](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
-- Jul 25 - [Unfashionably secure: why we use isolated VMs](https://blog.thinkst.com/2024/07/unfashionably-secure-why-we-use-isolated-vms.html)
+- Jul 25 - [Chicken wings advertised as 'boneless' can have bones,Ohio Supreme Court decides](https://apnews.com/article/boneless-chicken-wings-lawsuit-ohio-supreme-court-231002ea50d8157aeadf093223d539f8)
+- Jul 25 - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
+- Jul 25 - [A Clone of Deluxe Paint II Written in Python](https://github.com/mriale/PyDPainter)
+- Jul 25 - [Applied Machine Learning for Tabular Data](https://aml4td.org/)
+- Jul 25 - [Jacek Karpińśki, the computer genius the communists couldn't stand (2017)](https://culture.pl/en/article/jacek-karpinski-the-computer-genius-the-communists-couldnt-stand)
 <!--END_SECTION:hn-->
 
 <!--
