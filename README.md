@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 25 - [Chicken wings advertised as 'boneless' can have bones,Ohio Supreme Court decides](https://apnews.com/article/boneless-chicken-wings-lawsuit-ohio-supreme-court-231002ea50d8157aeadf093223d539f8)
+- Jul 26 - ['New El Nino' discovered south of equator](https://www.reading.ac.uk/news/2024/Research-News/New-El-Nino-discovered-south-of-equator)
+- Jul 26 - [C# almost has implicit interfaces](https://clipperhouse.com/c-sharp-implicit-interfaces/)
+- Jul 25 - [Cameo was once valued at $1B](https://www.businessinsider.com/cameo-app-company-fine-settlement-ftc-violation-2024-7)
 - Jul 25 - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 - Jul 25 - [A Clone of Deluxe Paint II Written in Python](https://github.com/mriale/PyDPainter)
-- Jul 25 - [Applied Machine Learning for Tabular Data](https://aml4td.org/)
-- Jul 25 - [Jacek Karpińśki, the computer genius the communists couldn't stand (2017)](https://culture.pl/en/article/jacek-karpinski-the-computer-genius-the-communists-couldnt-stand)
 <!--END_SECTION:hn-->
 
 <!--
