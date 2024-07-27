@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 26 - [Europe is in danger of regulating its tech market out of existence](https://foreignpolicy.com/2024/07/26/europe-tech-regulation-apple-meta-google-competition/)
-- Jul 26 - [Why does the chromaticity diagram look like that?](https://jlongster.com/why-chromaticity-shape)
-- Jul 26 - [Repulsive Shells [video]](https://www.youtube.com/watch?v=qDM6bCt1Gic)
-- Jul 26 - [Call the compiler, fax it your code [video]](https://www.youtube.com/watch?v=pJ-25-pRhpY)
-- Jul 26 - [A simple procedural animation technique [video]](https://www.youtube.com/watch?v=qlfh_rv6khY)
+- Jul 26 - [Sustainable Real Estate](https://ocw.mit.edu/courses/11-350-sustainable-real-estate-spring-2023/)
+- Jul 26 - [Intel confirms no recall for Raptor Lake CPUs,microcode won't fix affected units](https://videocardz.com/newz/intel-confirms-no-recall-for-raptor-lake-cpus-microcode-wont-fix-affected-units)
+- Jul 26 - [Apex Surplus – A movie industry props and parts source](https://apexsurplus.com)
+- Jul 26 - [Funtoo Linux is shutting down](https://forums.funtoo.org/topic/5182-all-good-things-must-come-to-an-end/)
+- Jul 26 - [Deep Learning Interviews (2021)](https://arxiv.org/abs/2201.00650)
 <!--END_SECTION:hn-->
 
 <!--
