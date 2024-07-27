@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 27 - [Substack (YC W18) Is Hiring Systems Engineers](https://grnh.se/4f362fed5us)
-- Jul 27 - [Sqlitefs: SQLite as a Filesystem](https://github.com/narumatt/sqlitefs)
-- Jul 27 - [Was early modern writing paper expensive? (2018]](https://www.rpvl.cz/en/)
-- Jul 27 - [Objective-C is like Jimi Hendrix (2014)](http://frabjousdei.net/post/64096448121/objective-c-is-like-jimi-hendrix)
-- Jul 27 - [Orcas sink $128K yacht in Mediterranean attack: 'Like watching wolves hunt'](https://nypost.com/2024/07/26/world-news/killer-whales-sink-128k-yacht-in-2-hour-mediterranean-sea-attack/)
+- Jul 27 - [Oh man! Our entire team has been replaced by Vietnam developers.](https://old.reddit.com/r/developersIndia/comments/1eckee9/oh_man_our_entire_team_has_been_replaced_by/)
+- Jul 27 - [Adobe exec compared Creative Cloud cancellation fees to 'heroin'](https://www.theverge.com/2024/7/25/24205774/adobe-ftc-lawsuit-creative-cloud-cancellation-fees-heroin)
+- Jul 27 - [Bashsimplecurses: Simple curses library made in bash to draw terminal interfaces](https://github.com/metal3d/bashsimplecurses)
+- Jul 27 - [Revealing the Inner Structure of AWS Session Tokens](https://medium.com/@TalBeerySec/revealing-the-inner-structure-of-aws-session-tokens-a6c76469cba7)
+- Jul 27 - [Oscar Zariski  was one of the founders of modern algebraic geometry](https://boogiemath.org/meta/meta-9.html)
 <!--END_SECTION:hn-->
 
 <!--
