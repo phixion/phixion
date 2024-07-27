@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 27 - [Twenty (YC S23) Is Hiring a Software Engineer in Paris](https://www.ycombinator.com/companies/twenty/jobs/b1Uku7w-senior-software-engineer)
-- Jul 27 - [In the Beginning Was the Command Line](https://web.stanford.edu/class/cs81n/command.txt)
-- Jul 27 - [New Programming Languages of 2024](https://pldb.io/lists/explorer.html#searchBuilder=%7B%22criteria%22%3A%5B%7B%22condition%22%3A%22%3E%3D%22%2C%22data%22%3A%22appeared%22%2C%22origData%22%3A%22appeared%22%2C%22type%22%3A%22num%22%2C%22value%22%3A%5B%222024%22%5D%7D%5D%2C%22logic%22%3A%22AND%22%7D)
-- Jul 27 - [Better Firmware with LLVM/Clang](https://interrupt.memfault.com/blog/arm-cortexm-with-llvm-clang)
-- Jul 27 - [Bril: An Intermediate Language for Teaching Compilers](https://www.cs.cornell.edu/~asampson/blog/bril.html)
+- Jul 27 - [Substack (YC W18) Is Hiring Systems Engineers](https://grnh.se/4f362fed5us)
+- Jul 27 - [Sqlitefs: SQLite as a Filesystem](https://github.com/narumatt/sqlitefs)
+- Jul 27 - [Was early modern writing paper expensive? (2018]](https://www.rpvl.cz/en/)
+- Jul 27 - [Objective-C is like Jimi Hendrix (2014)](http://frabjousdei.net/post/64096448121/objective-c-is-like-jimi-hendrix)
+- Jul 27 - [Orcas sink $128K yacht in Mediterranean attack: 'Like watching wolves hunt'](https://nypost.com/2024/07/26/world-news/killer-whales-sink-128k-yacht-in-2-hour-mediterranean-sea-attack/)
 <!--END_SECTION:hn-->
 
 <!--
