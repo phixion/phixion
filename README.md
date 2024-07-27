@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 27 - [Oh man! Our entire team has been replaced by Vietnam developers.](https://old.reddit.com/r/developersIndia/comments/1eckee9/oh_man_our_entire_team_has_been_replaced_by/)
-- Jul 27 - [Adobe exec compared Creative Cloud cancellation fees to 'heroin'](https://www.theverge.com/2024/7/25/24205774/adobe-ftc-lawsuit-creative-cloud-cancellation-fees-heroin)
-- Jul 27 - [Bashsimplecurses: Simple curses library made in bash to draw terminal interfaces](https://github.com/metal3d/bashsimplecurses)
-- Jul 27 - [Revealing the Inner Structure of AWS Session Tokens](https://medium.com/@TalBeerySec/revealing-the-inner-structure-of-aws-session-tokens-a6c76469cba7)
-- Jul 27 - [Oscar Zariski  was one of the founders of modern algebraic geometry](https://boogiemath.org/meta/meta-9.html)
+- Jul 27 - [The "Perfect Score" Script](https://www.kaggle.com/code/olegtrott/the-perfect-score-script)
+- Jul 27 - [TikTok Collected US Users' Views on Gun Control, Abortion and Religion, US Says](https://www.wsj.com/tech/tiktok-collected-u-s-users-views-on-gun-control-abortion-and-religion-u-s-says-4fcf19f6)
+- Jul 27 - [Managarm: Pragmatic microkernel-based OS with asynchronous I/O](https://github.com/managarm/managarm)
+- Jul 27 - [Canadian women's soccer team loses six points, coach banned over drone scandal](https://www.reuters.com/sports/olympics/football-canada-womens-soccer-team-deducted-six-points-coach-banned-2024-07-27/)
+- Jul 27 - [Texas woman gets 15 years for stealing $109M from Army to buy mansions, cars](https://www.usatoday.com/story/news/nation/2024/07/24/janet-yamanaka-mello-texas-army-fraud-case-sentencing/74535623007/)
 <!--END_SECTION:hn-->
 
 <!--
