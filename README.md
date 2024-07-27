@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 26 - [Sustainable Real Estate](https://ocw.mit.edu/courses/11-350-sustainable-real-estate-spring-2023/)
-- Jul 26 - [Intel confirms no recall for Raptor Lake CPUs,microcode won't fix affected units](https://videocardz.com/newz/intel-confirms-no-recall-for-raptor-lake-cpus-microcode-wont-fix-affected-units)
-- Jul 26 - [Apex Surplus – A movie industry props and parts source](https://apexsurplus.com)
-- Jul 26 - [Funtoo Linux is shutting down](https://forums.funtoo.org/topic/5182-all-good-things-must-come-to-an-end/)
-- Jul 26 - [Deep Learning Interviews (2021)](https://arxiv.org/abs/2201.00650)
+- Jul 27 - [Guish: Write shell pipelines at the command line with a GUI editor](https://github.com/williamcotton/guish)
+- Jul 27 - [Windows Recovery Environment and Bootable USB Creator in 200KB](https://github.com/joshuacline/windick)
+- Jul 27 - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
+- Jul 27 - [How Large Language Models Will Disrupt Data Management [pdf]](https://www.vldb.org/pvldb/vol16/p3302-fernandez.pdf)
+- Jul 27 - [GCVR (YC W22) Is Hiring Lead Back End Engineer (Sr/Staff/Principal)](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-backend-engineer-senior-staff-principal)
 <!--END_SECTION:hn-->
 
 <!--
