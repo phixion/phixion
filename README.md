@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 27 - [Guish: Write shell pipelines at the command line with a GUI editor](https://github.com/williamcotton/guish)
-- Jul 27 - [Windows Recovery Environment and Bootable USB Creator in 200KB](https://github.com/joshuacline/windick)
-- Jul 27 - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
-- Jul 27 - [How Large Language Models Will Disrupt Data Management [pdf]](https://www.vldb.org/pvldb/vol16/p3302-fernandez.pdf)
-- Jul 27 - [GCVR (YC W22) Is Hiring Lead Back End Engineer (Sr/Staff/Principal)](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-backend-engineer-senior-staff-principal)
+- Jul 27 - [Twenty (YC S23) Is Hiring a Software Engineer in Paris](https://www.ycombinator.com/companies/twenty/jobs/b1Uku7w-senior-software-engineer)
+- Jul 27 - [In the Beginning Was the Command Line](https://web.stanford.edu/class/cs81n/command.txt)
+- Jul 27 - [New Programming Languages of 2024](https://pldb.io/lists/explorer.html#searchBuilder=%7B%22criteria%22%3A%5B%7B%22condition%22%3A%22%3E%3D%22%2C%22data%22%3A%22appeared%22%2C%22origData%22%3A%22appeared%22%2C%22type%22%3A%22num%22%2C%22value%22%3A%5B%222024%22%5D%7D%5D%2C%22logic%22%3A%22AND%22%7D)
+- Jul 27 - [Better Firmware with LLVM/Clang](https://interrupt.memfault.com/blog/arm-cortexm-with-llvm-clang)
+- Jul 27 - [Bril: An Intermediate Language for Teaching Compilers](https://www.cs.cornell.edu/~asampson/blog/bril.html)
 <!--END_SECTION:hn-->
 
 <!--
