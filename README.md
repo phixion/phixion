@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 28 - [What Visa earnings tell us about the state of the payments industry](https://www.popularfintech.com/p/what-visa-earnings-really-tell-us)
+- Jul 28 - [Show HN: CeLLama – Single cell annotation with local Large Language Models](https://github.com/CelVoxes/ceLLama)
+- Jul 28 - [My favorite tools and techniques for procedural gamedev](https://cprimozic.net/blog/tools-and-techniques-for-procedural-gamedev/)
 - Jul 28 - [PermitFlow (YC W22) Is Hiring Senior/Staff+ Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
-- Jul 28 - [Avoid ISP Routers](https://www.routersecurity.org/ISProuters.php)
-- Jul 28 - [Ethiopians are struggling to keep up with the new "EV or nothing" policy](https://restofworld.org/2024/ethiopia-gas-car-ban-ev-chargers/)
-- Jul 28 - [Hiding in plain sight: Modifying process names in Unix-like systems](https://doubleagent.net/process-name-stomping/)
-- Jul 28 - [The irrational hungry judge effect revisited](https://www.cambridge.org/core/journals/judgment-and-decision-making/article/irrational-hungry-judge-effect-revisited-simulations-reveal-that-the-magnitude-of-the-effect-is-overestimated/61CE825D4DC137675BB9CAD04571AE58)
+- Jul 28 - [SpaCy team back to an independent-minded self-sufficient company](https://honnibal.dev/blog/back-to-our-roots)
 <!--END_SECTION:hn-->
 
 <!--
