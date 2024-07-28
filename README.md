@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 28 - [What Visa earnings tell us about the state of the payments industry](https://www.popularfintech.com/p/what-visa-earnings-really-tell-us)
-- Jul 28 - [Show HN: CeLLama – Single cell annotation with local Large Language Models](https://github.com/CelVoxes/ceLLama)
-- Jul 28 - [My favorite tools and techniques for procedural gamedev](https://cprimozic.net/blog/tools-and-techniques-for-procedural-gamedev/)
-- Jul 28 - [PermitFlow (YC W22) Is Hiring Senior/Staff+ Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
-- Jul 28 - [SpaCy team back to an independent-minded self-sufficient company](https://honnibal.dev/blog/back-to-our-roots)
+- Jul 28 - [The Wolfram Physics Project – An Approach to the Fundamental Theory of Physics](https://www.wolframphysics.org/)
+- Jul 28 - [William James and a Theory of Thinking [pdf]](https://aisel.aisnet.org/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1129&context=jitta)
+- Jul 28 - [Perfectionism – one of the biggest productivity killers in the eng industry](https://newsletter.eng-leadership.com/p/perfectionism-one-of-the-biggest)
+- Jul 28 - [Italy's "Sun Motorway": the story of an exceptional infrastructure](https://www.domusweb.it/en/architecture/gallery/2021/07/16/the-sun-motorway-is-65-years-old-a-short-story-of-an-extraordinary-infrastructure.html)
+- Jul 28 - [What we would've done differently in the first year of bootstrapping our company](https://foundersconfidential418.substack.com/p/what-we-wouldve-done-differently)
 <!--END_SECTION:hn-->
 
 <!--
