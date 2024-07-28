@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 27 - [The "Perfect Score" Script](https://www.kaggle.com/code/olegtrott/the-perfect-score-script)
-- Jul 27 - [TikTok Collected US Users' Views on Gun Control, Abortion and Religion, US Says](https://www.wsj.com/tech/tiktok-collected-u-s-users-views-on-gun-control-abortion-and-religion-u-s-says-4fcf19f6)
+- Jul 27 - [Intel N100 Radxa X4 First Thoughts](https://bret.dk/intel-n100-radxa-x4-first-thoughts/)
+- Jul 27 - [Apple has reached its first-ever union contract with store employees in Maryland](https://apnews.com/article/apple-union-contract-maryland-store-f9884d978bf3129c37726dd7978392a5)
+- Jul 27 - [Roguecraft Devs on Developing for Amiga in 2024](https://www.timeextension.com/features/interview-its-easy-to-get-a-bit-over-ambitious-roguecraft-devs-on-developing-for-amiga-in-2024)
+- Jul 27 - [Tritone Substitutions](https://johncarlosbaez.wordpress.com/2024/07/27/tritone-substitutions/)
 - Jul 27 - [Managarm: Pragmatic microkernel-based OS with asynchronous I/O](https://github.com/managarm/managarm)
-- Jul 27 - [Canadian women's soccer team loses six points, coach banned over drone scandal](https://www.reuters.com/sports/olympics/football-canada-womens-soccer-team-deducted-six-points-coach-banned-2024-07-27/)
-- Jul 27 - [Texas woman gets 15 years for stealing $109M from Army to buy mansions, cars](https://www.usatoday.com/story/news/nation/2024/07/24/janet-yamanaka-mello-texas-army-fraud-case-sentencing/74535623007/)
 <!--END_SECTION:hn-->
 
 <!--
