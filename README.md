@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 28 - [A List of companies that use Array Languages (J, K, APL, q)](https://github.com/interregna/arraylanguage-companies)
 - Jul 28 - [How to Debug Your Battery](https://github.com/ionworks/how-to-debug-your-battery)
 - Jul 28 - [Fish in remote tank made into fractals with Video Feedback Device [video]](https://www.youtube.com/watch?v=KqHgCx4Lk_w)
 - Jul 28 - [How did Facebook intercept their competitor's encrypted mobile app traffic?](https://doubleagent.net/onavo-facebook-ssl-mitm-technical-analysis/)
-- Jul 27 - [Plan 9 Is a Uniquely Complete Operating System](https://posixcafe.org/blogs/2024/07/27/0/)
-- Jul 27 - [Lessons from Ancient File Systems](http://madcompiler.blogspot.com/2024/02/lessons-from-ancient-file-systems.html)
+- Jul 27 - [Plan 9 is a uniquely complete operating system](https://posixcafe.org/blogs/2024/07/27/0/)
 <!--END_SECTION:hn-->
 
 <!--
