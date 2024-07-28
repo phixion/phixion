@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 27 - [Intel N100 Radxa X4 First Thoughts](https://bret.dk/intel-n100-radxa-x4-first-thoughts/)
-- Jul 27 - [Apple has reached its first-ever union contract with store employees in Maryland](https://apnews.com/article/apple-union-contract-maryland-store-f9884d978bf3129c37726dd7978392a5)
-- Jul 27 - [Roguecraft Devs on Developing for Amiga in 2024](https://www.timeextension.com/features/interview-its-easy-to-get-a-bit-over-ambitious-roguecraft-devs-on-developing-for-amiga-in-2024)
-- Jul 27 - [Tritone Substitutions](https://johncarlosbaez.wordpress.com/2024/07/27/tritone-substitutions/)
-- Jul 27 - [Managarm: Pragmatic microkernel-based OS with asynchronous I/O](https://github.com/managarm/managarm)
+- Jul 28 - [How to Debug Your Battery](https://github.com/ionworks/how-to-debug-your-battery)
+- Jul 28 - [Fish in remote tank made into fractals with Video Feedback Device [video]](https://www.youtube.com/watch?v=KqHgCx4Lk_w)
+- Jul 28 - [How did Facebook intercept their competitor's encrypted mobile app traffic?](https://doubleagent.net/onavo-facebook-ssl-mitm-technical-analysis/)
+- Jul 27 - [Plan 9 Is a Uniquely Complete Operating System](https://posixcafe.org/blogs/2024/07/27/0/)
+- Jul 27 - [Lessons from Ancient File Systems](http://madcompiler.blogspot.com/2024/02/lessons-from-ancient-file-systems.html)
 <!--END_SECTION:hn-->
 
 <!--
