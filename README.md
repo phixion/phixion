@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 29 - [Lambda: The Gathering](https://esolangs.org/wiki/Lambda:_the_Gathering)
-- Jul 29 - [An Open Course on LLMs, Led by Practitioners](https://hamel.dev/blog/posts/course/)
-- Jul 29 - [Yark: YouTube Archiver with Offline UI](https://github.com/Owez/yark)
-- Jul 29 - [Launch HN: Roame (YC S23) – Flight search engine for your credit card points](https://news.ycombinator.com/item?id=41100094)
-- Jul 29 - [Movable tree CRDTs and Loro's implementation](https://loro.dev/blog/movable-tree)
+- Jul 29 - [SpaceX in talks to land and recover Starship rocket off Australia's coast](https://www.reuters.com/technology/space/spacex-talks-land-recover-starship-rocket-off-australias-coast-2024-07-29/)
+- Jul 29 - [Over 900 artifacts recovered from Ming dynasty shipwreck](https://mymodernmet.com/ming-dynasty-shipwreck/)
+- Jul 29 - [Do Penguins Have Knees? (2019)](https://www.penguinsinternational.org/do-penguins-have-knees-and-other-frequently-asked-questions/)
+- Jul 29 - [Critical Bug in Docker Engine Allowed Attackers to Bypass Authorization Plugins](https://securityaffairs.com/166160/hacking/docker-engine-critical-flaw.html)
+- Jul 29 - [New study simulates gravitational waves from failing warp drive](https://www.aei.mpg.de/1171367/what-no-one-has-seen-before-new-study-simulates-gravitational-waves-from-failing-warp-drive)
 <!--END_SECTION:hn-->
 
 <!--
