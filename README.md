@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 28 - [The Wolfram Physics Project – An Approach to the Fundamental Theory of Physics](https://www.wolframphysics.org/)
-- Jul 28 - [William James and a Theory of Thinking [pdf]](https://aisel.aisnet.org/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1129&context=jitta)
-- Jul 28 - [Perfectionism – one of the biggest productivity killers in the eng industry](https://newsletter.eng-leadership.com/p/perfectionism-one-of-the-biggest)
-- Jul 28 - [Italy's "Sun Motorway": the story of an exceptional infrastructure](https://www.domusweb.it/en/architecture/gallery/2021/07/16/the-sun-motorway-is-65-years-old-a-short-story-of-an-extraordinary-infrastructure.html)
-- Jul 28 - [What we would've done differently in the first year of bootstrapping our company](https://foundersconfidential418.substack.com/p/what-we-wouldve-done-differently)
+- Jul 28 - [LeanDojo: Theorem Proving in Lean Using LLMs](https://leandojo.org/)
+- Jul 28 - [Higher-kinded bounded polymorphism in OCaml](https://okmij.org/ftp/ML/higher-kind-poly.html)
+- Jul 28 - [FurtherAI (YC W24) Is Hiring Founding Software Engineers in Bay Area](https://www.ycombinator.com/companies/furtherai/jobs/YZZvimn-founding-software-engineer)
+- Jul 28 - [Show HN: A football/soccer pass visualizer made with Three.js](https://statsbomb-3d-viz.vercel.app/)
+- Jul 28 - [Don't blindly prefer `emplace_back` to `push_back`](https://quuxplusone.github.io/blog/2021/03/03/push-back-emplace-back/)
 <!--END_SECTION:hn-->
 
 <!--
