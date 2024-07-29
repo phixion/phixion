@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 28 - [LeanDojo: Theorem Proving in Lean Using LLMs](https://leandojo.org/)
-- Jul 28 - [Higher-kinded bounded polymorphism in OCaml](https://okmij.org/ftp/ML/higher-kind-poly.html)
-- Jul 28 - [FurtherAI (YC W24) Is Hiring Founding Software Engineers in Bay Area](https://www.ycombinator.com/companies/furtherai/jobs/YZZvimn-founding-software-engineer)
-- Jul 28 - [Show HN: A football/soccer pass visualizer made with Three.js](https://statsbomb-3d-viz.vercel.app/)
-- Jul 28 - [Don't blindly prefer `emplace_back` to `push_back`](https://quuxplusone.github.io/blog/2021/03/03/push-back-emplace-back/)
+- Jul 29 - [Secure Boot useless on PCs from major vendors after key leak](https://www.theregister.com/2024/07/29/infosec_roundup/)
+- Jul 29 - [Planet eBook: free literature for your device](https://www.planetebook.com/)
+- Jul 29 - [ps aux written in bash without forking](https://github.com/izabera/ps)
+- Jul 29 - [The Tech of Planetary Annihilation: ChronoCam (2013)](https://www.forrestthewoods.com/blog/tech_of_planetary_annihilation_chrono_cam/)
+- Jul 29 - [Why Navajo is one of the most difficult languages (2023)](https://bigthink.com/high-culture/navajo-language/)
 <!--END_SECTION:hn-->
 
 <!--
