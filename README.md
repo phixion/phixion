@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 30 - [FTC Wins Round Two in Its Non-Compete Ban Defense](https://www.jdsupra.com/legalnews/ftc-wins-round-two-in-its-non-compete-4112148/)
-- Jul 30 - [Is a 'slow' swimming pool impeding world records?](https://sports.yahoo.com/paris-olympics-2024-is-a-slow-swimming-pool-impeding-world-records-133347713.html)
-- Jul 30 - [How to burn US$10M on an ArXiv preprint](https://152334H.github.io/blog/scaling-exponents/)
-- Jul 30 - [The lie of music discovery algorithms](https://www.zeynepevecen.dev/writing/music)
-- Jul 30 - [Canarytokens: Honeypot for critical credentials, get notified when they are used (2015)](https://canarytokens.org/nest/)
+- Jul 30 - [California DMV puts 42M car titles on blockchain to fight fraud](https://www.reuters.com/technology/california-dmv-puts-42-million-car-titles-blockchain-fight-fraud-2024-07-30/)
+- Jul 30 - [DARPA: Translating All C to Rust (Tractor)](https://www.darpa.mil/program/translating-all-c-to-rust)
+- Jul 30 - [Microsoft apologises after thousands report new outage](https://www.bbc.co.uk/news/articles/c903e793w74o)
+- Jul 30 - [Dear AI Companies, instead of scraping OpenStreetMap, how about a $10k donation?](https://en.osm.town/@Firefishy/112875549871566269)
+- Jul 30 - [Why doesn't advice work?](https://dynomight.substack.com/p/advice)
 <!--END_SECTION:hn-->
 
 <!--
