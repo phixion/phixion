@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 29 - [SpaceX in talks to land and recover Starship rocket off Australia's coast](https://www.reuters.com/technology/space/spacex-talks-land-recover-starship-rocket-off-australias-coast-2024-07-29/)
-- Jul 29 - [Over 900 artifacts recovered from Ming dynasty shipwreck](https://mymodernmet.com/ming-dynasty-shipwreck/)
-- Jul 29 - [Do Penguins Have Knees? (2019)](https://www.penguinsinternational.org/do-penguins-have-knees-and-other-frequently-asked-questions/)
-- Jul 29 - [Critical Bug in Docker Engine Allowed Attackers to Bypass Authorization Plugins](https://securityaffairs.com/166160/hacking/docker-engine-critical-flaw.html)
-- Jul 29 - [New study simulates gravitational waves from failing warp drive](https://www.aei.mpg.de/1171367/what-no-one-has-seen-before-new-study-simulates-gravitational-waves-from-failing-warp-drive)
+- Jul 29 - [Four billion years in four minutes – Simulating worlds on the GPU](https://davidar.io/post/sim-glsl)
+- Jul 29 - [Low-income homes drop Internet service after Congress kills discount program](https://arstechnica.com/tech-policy/2024/07/low-income-homes-drop-internet-service-after-congress-kills-discount-program/)
+- Jul 29 - [LG and Samsung Are Making TV Screens Disappear](https://spectrum.ieee.org/transparent-tv)
+- Jul 29 - [Sam 2: Segment Anything in Images and Videos](https://github.com/facebookresearch/segment-anything-2)
+- Jul 29 - [Running One-man SaaS for 9 Years](https://blog.healthchecks.io/2024/07/running-one-man-saas-9-years-in/)
 <!--END_SECTION:hn-->
 
 <!--
