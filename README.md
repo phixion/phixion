@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 30 - [California DMV puts 42M car titles on blockchain to fight fraud](https://www.reuters.com/technology/california-dmv-puts-42-million-car-titles-blockchain-fight-fraud-2024-07-30/)
-- Jul 30 - [DARPA: Translating All C to Rust (Tractor)](https://www.darpa.mil/program/translating-all-c-to-rust)
-- Jul 30 - [Microsoft apologises after thousands report new outage](https://www.bbc.co.uk/news/articles/c903e793w74o)
-- Jul 30 - [Dear AI Companies, instead of scraping OpenStreetMap, how about a $10k donation?](https://en.osm.town/@Firefishy/112875549871566269)
-- Jul 30 - [Why doesn't advice work?](https://dynomight.substack.com/p/advice)
+- Jul 30 - [Functional programming languages should be better at mutation than they are](https://cohost.org/prophet/post/7083950-functional-programming)
+- Jul 30 - [Porffor: A from-scratch ahead-of-time JS engine](https://porffor.dev/)
+- Jul 30 - [Running the latest Llama 3.1 8B on Raspberry Pi [video]](https://www.youtube.com/watch?v=KcWKTdkUpoQ)
+- Jul 30 - [How the electricity markets respond to a nuclear trip](https://blog.gridstatus.io/ercot-nuclear-trip/)
+- Jul 30 - [The Hitchhiker's Guide to Logical Verification [pdf]](https://browncs1951x.github.io/static/files/hitchhikersguide.pdf)
 <!--END_SECTION:hn-->
 
 <!--
