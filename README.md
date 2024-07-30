@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 30 - [Diffusion Training from Scratch on a Micro-Budget](https://arxiv.org/abs/2407.15811)
-- Jul 30 - [Blood test for colon cancer screening approved by US regulators](https://apnews.com/article/colon-cancer-blood-test-fda-guardant-a2c2cda2cdaa52f081860f0faed1e5cf)
-- Jul 29 - [Four billion years in four minutes – Simulating worlds on the GPU](https://davidar.io/post/sim-glsl)
-- Jul 29 - [Sam 2: The next generation of Meta Segment Anything Model](https://ai.meta.com/blog/segment-anything-2/)
-- Jul 29 - [LG and Samsung are making TV screens disappear](https://spectrum.ieee.org/transparent-tv)
+- Jul 30 - [Jiga (YC W21) Is Hiring a Full Stack Engineer](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-full-stack-engineer)
+- Jul 30 - [Ferrari exec foils deepfake attempt by asking a question only CEO could answer](https://fortune.com/2024/07/27/ferrari-deepfake-attempt-scammer-security-question-ceo-benedetto-vigna-cybersecurity-ai/)
+- Jul 30 - [All I Know About Certificates – Certificate Authority](https://www.pixelstech.net/article/1722045726-All-I-Know-About-Certificates----Certificate-Authority)
+- Jul 30 - [Video is a language for making movies](https://lang.video/)
+- Jul 30 - [Lewis Lapham has died](https://www.nytimes.com/2024/07/24/business/media/lewis-h-lapham-dead.html)
 <!--END_SECTION:hn-->
 
 <!--
