@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 30 - [Jiga (YC W21) Is Hiring a Full Stack Engineer](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-full-stack-engineer)
-- Jul 30 - [Ferrari exec foils deepfake attempt by asking a question only CEO could answer](https://fortune.com/2024/07/27/ferrari-deepfake-attempt-scammer-security-question-ceo-benedetto-vigna-cybersecurity-ai/)
-- Jul 30 - [All I Know About Certificates – Certificate Authority](https://www.pixelstech.net/article/1722045726-All-I-Know-About-Certificates----Certificate-Authority)
-- Jul 30 - [Video is a language for making movies](https://lang.video/)
-- Jul 30 - [Lewis Lapham has died](https://www.nytimes.com/2024/07/24/business/media/lewis-h-lapham-dead.html)
+- Jul 30 - [FTC Wins Round Two in Its Non-Compete Ban Defense](https://www.jdsupra.com/legalnews/ftc-wins-round-two-in-its-non-compete-4112148/)
+- Jul 30 - [Is a 'slow' swimming pool impeding world records?](https://sports.yahoo.com/paris-olympics-2024-is-a-slow-swimming-pool-impeding-world-records-133347713.html)
+- Jul 30 - [How to burn US$10M on an ArXiv preprint](https://152334H.github.io/blog/scaling-exponents/)
+- Jul 30 - [The lie of music discovery algorithms](https://www.zeynepevecen.dev/writing/music)
+- Jul 30 - [Canarytokens: Honeypot for critical credentials, get notified when they are used (2015)](https://canarytokens.org/nest/)
 <!--END_SECTION:hn-->
 
 <!--
