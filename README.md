@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 31 - [`find` + `mkdir` is Turing complete](https://ogiekako.vercel.app/blog/find_mkdir_tc)
+- Jul 31 - [Nobody Cares (2011)](https://a16z.com/nobody-cares/)
+- Jul 31 - [Call of Duty: Warzone Caldera Data Set for Academic Use](https://blog.activision.com/activision/2024/activision-releases-call-of-duty-warzone-caldera-data-set)
+- Jul 31 - [Superconducting Microprocessors? Turns Out They're Ultra-Efficient (2021)](https://spectrum.ieee.org/new-superconductor-microprocessor-yields-a-substantial-boost-in-efficiency)
 - Jul 30 - [Ngtop – Request analytics from the Nginx access logs](https://github.com/facundoolano/ngtop)
-- Jul 30 - [Metaphysical Experiments Probe Our Hidden Assumptions About Reality](https://www.quantamagazine.org/metaphysical-experiments-test-hidden-assumptions-about-reality-20240730)
-- Jul 30 - [Our Audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/)
-- Jul 30 - [Creativity fundamentally comes from memorization](https://shwin.co/blog/creativity-fundamentally-comes-from-memorization)
-- Jul 30 - [Building static binaries with Go on Linux](https://eli.thegreenplace.net/2024/building-static-binaries-with-go-on-linux/)
 <!--END_SECTION:hn-->
 
 <!--
