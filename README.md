@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 31 - [PlayAI (YC W23) Is Hiring Product Engineers](https://www.ycombinator.com/companies/play/jobs/f7pIIqU-product-engineer-at-play-yc-w23)
-- Jul 31 - [Australia starts world-first peanut allergy treatment for babies](https://www.bbc.co.uk/news/articles/c0xj3xq5l1vo)
-- Jul 31 - [80% of developers are unhappy. The problem is not AI, nor is coding](https://shiftmag.dev/unhappy-developers-stack-overflow-survey-3896/)
-- Jul 31 - [Why soft deletes are evil and what to do instead](https://jameshalsall.co.uk/posts/why-soft-deletes-are-evil-and-what-to-do-instead)
-- Jul 31 - [Fedora Asahi Remix](https://bentsukun.ch/posts/fedora-asahi/)
+- Jul 31 - [Why I Prefer RST to Markdown](https://buttondown.email/hillelwayne/archive/why-i-prefer-rst-to-markdown/)
+- Jul 31 - [Why the CrowdStrike bug hit banks hard](https://www.bitsaboutmoney.com/archive/crowdstrike-bug-hit-banks-hard/)
+- Jul 31 - [How Great Was the “Great Oxidation Event”?](https://eos.org/science-updates/how-great-was-the-great-oxidation-event)
+- Jul 31 - [With CO2 Levels Rising, Drylands Are Turning Green – Yale E360](https://e360.yale.edu/features/greening-drylands-carbon-dioxide-climate-change)
+- Jul 31 - [Robin Warren Has Died](https://www.telegraph.co.uk/obituaries/2024/07/29/robin-warren-nobel-ulcers-helicobacter-obituary/)
 <!--END_SECTION:hn-->
 
 <!--
