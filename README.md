@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 31 - [`find` + `mkdir` is Turing complete](https://ogiekako.vercel.app/blog/find_mkdir_tc)
-- Jul 31 - [Nobody Cares (2011)](https://a16z.com/nobody-cares/)
-- Jul 31 - [Call of Duty: Warzone Caldera Data Set for Academic Use](https://blog.activision.com/activision/2024/activision-releases-call-of-duty-warzone-caldera-data-set)
-- Jul 31 - [Superconducting Microprocessors? Turns Out They're Ultra-Efficient (2021)](https://spectrum.ieee.org/new-superconductor-microprocessor-yields-a-substantial-boost-in-efficiency)
-- Jul 30 - [Ngtop – Request analytics from the Nginx access logs](https://github.com/facundoolano/ngtop)
+- Jul 31 - [Cargo Cult Science (1974)](https://fermatslibrary.com/s/cargo-cult-science)
+- Jul 31 - [Deep-Tempest: Using Deep Learning to Eavesdrop on HDMI](https://arxiv.org/abs/2407.09717)
+- Jul 31 - [Rustgo: Calling Rust from Go with near-zero overhead (2017)](https://words.filippo.io/rustgo/)
+- Jul 31 - [Meta introduces Segment Anything Model 2](https://ai.meta.com/sam2/)
+- Jul 31 - [macOS in Docker Container](https://github.com/sickcodes/Docker-OSX)
 <!--END_SECTION:hn-->
 
 <!--
