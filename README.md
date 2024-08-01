@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 01 - [How Does OpenAI Survive](https://www.wheresyoured.at/to-serve-altman/)
+- Aug 01 - [Compared to other distros, Vanilla OS 2 'Orchid' is rewriting how Linux works](https://www.theregister.com/2024/07/31/vanilla_os_friendly_radical/)
+- Aug 01 - [A blood test accurately diagnosed Alzheimer's 90% of the time, study finds](https://www.nytimes.com/2024/07/28/health/alzheimers-blood-test.html)
 - Jul 31 - [SnowflakeOS: Beginner friendly and GUI focused NixOS variant](https://snowflakeos.org/)
-- Jul 31 - [Files](https://www.files.gallery/)
-- Jul 31 - [How Middlemen Are Gaming the H-1B Program](https://www.bloomberg.com/graphics/2024-staffing-firms-game-h1b-visa-lottery-system/)
-- Jul 31 - [Andi (YC W22) is hiring an AI Engineer to build the future of search](https://news.ycombinator.com/item?id=41123416)
-- Jul 31 - [Suspicious data pattern in recent Venezuelan election](https://statmodeling.stat.columbia.edu/2024/07/31/suspicious-data-pattern-in-recent-venezuelan-election/)
+- Jul 31 - [Show HN: Non SaaS – Directory of Non SaaS Apps](https://nonsaas.com)
 <!--END_SECTION:hn-->
 
 <!--
