@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 01 - [Stable Fast 3D: Rapid 3D Asset Generation from Single Images](https://stability.ai/news/introducing-stable-fast-3d)
-- Aug 01 - [Google uses AI to reduce stop-and-go traffic on your route](https://blog.google/outreach-initiatives/sustainability/google-ai-project-greenlight/)
-- Aug 01 - [Parasites are everywhere. Why do so few researchers study them?](https://www.smithsonianmag.com/science-nature/parasites-are-everywhere-so-why-do-so-few-researchers-study-them-180984753/)
-- Aug 01 - [Ashby (YC W19) Is Hiring Engineers Who Can Design](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=145ff46b-1441-4773-bcd3-c8c90baa598a)
-- Aug 01 - [I recreated Shazam's algorithm with Go](https://github.com/cgzirim/not-shazam)
+- Aug 01 - [Pharma CIO cancels AI enhanced Office 365 deal as "it doesn't add value"](https://hardforum.com/threads/pharma-cio-cancels-ai-enhanced-office-365-deal-as-it-doesnt-add-value.2036205/)
+- Aug 01 - [DIY, 8mm film scanner Kotokino Mark IV](https://www.sabulo.com/sb/3d-printing-2/8mm-film-scanner-kotokino-mark-iv/)
+- Aug 01 - [Threat actor abuses Cloudflare tunnels to deliver remote access trojans](https://www.proofpoint.com/us/blog/threat-insight/threat-actor-abuses-cloudflare-tunnels-deliver-rats)
+- Aug 01 - [Show HN: Anyma V, a hybrid physical modelling virtual instrument](https://aodyo.com/anyma-v/)
+- Aug 01 - [Space is a latent sequence: A theory of the hippocampus](https://www.science.org/doi/10.1126/sciadv.adm8470)
 <!--END_SECTION:hn-->
 
 <!--
