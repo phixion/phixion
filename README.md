@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 02 - [The Upstream Cause of the Youth Mental Health Crisis Is the Loss of Community](https://www.afterbabel.com/p/the-upstream-cause-of-the-youth-mental)
-- Aug 02 - [Hackberry-Pi_Zero – A handheld Linux terminal using Raspberry Pi Zero 2W](https://github.com/ZitaoTech/Hackberry-Pi_Zero)
-- Aug 02 - [Show HN: Ell – A command-line interface for LLMs written in Bash](https://github.com/simonmysun/ell)
-- Aug 02 - [Quark Stars](https://johncarlosbaez.wordpress.com/2024/08/02/quark-stars/)
-- Aug 02 - [Programming a CH32v003 with light](https://mitxela.com/projects/lightcomm)
+- Aug 02 - [Tauri 2.0 Release Candidate](https://v2.tauri.app/blog/tauri-2-0-0-release-candidate/)
+- Aug 02 - [A Year of Meta's News Ban in Canada](https://www.mediaecosystemobservatory.com/press-releases/old-news-new-reality-a-year-of-metas-news-ban-in-canada)
+- Aug 02 - [It's Sounding Like Boeing's Starliner May Have Failed](https://futurism.com/the-byte/signs-boeing-starliner-completely-failed)
+- Aug 02 - [Considerations when building embedded databases](https://interrupt.memfault.com/blog/choosing-or-building-an-embedded-db)
+- Aug 02 - [ArchiveTeam Warrior](http://warrior.archiveteam.org/)
 <!--END_SECTION:hn-->
 
 <!--
