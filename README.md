@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 02 - [PSA: Internet Archive "glitch" deletes years of user data and accounts](https://blog.gingerbeardman.com/2024/08/01/psa-internet-archive-glitch-deletes-years-of-user-data-and-accounts/)
+- Aug 02 - [Kapa.ai (YC S23) Is Hiring an Applied AI Research Engineer (Europe Timezone)](https://www.ycombinator.com/companies/kapa-ai/jobs/hrFWJfn-research-engineer-applied-ai)
+- Aug 02 - [Peerfetch – Peer-to-Peer HTTP over WebRTC](https://github.com/ambianic/peerfetch)
 - Aug 02 - [YC closes deal with Google for dedicated compute cluster for AI startups](https://techcrunch.com/2024/08/01/google-cloud-now-has-a-dedicated-cluster-of-nvidia-gpus-for-y-combinator-startups/)
 - Aug 02 - [Oscar, an open-source contributor agent architecture](https://go.googlesource.com/oscar/+/refs/heads/master/README.md)
-- Aug 02 - [Tensorfuse (YC W24) Is Hiring](https://www.ycombinator.com/companies/tensorfuse/jobs/0AMFnY4-systems-infrastructure-engineer)
-- Aug 02 - [What I learned about a plastic-free life](https://www.npr.org/2024/07/26/nx-s1-5021546/plastic-free-sustainable-living-tips)
+- Aug 01 - [Rapidly build efficient sites with Neat, the minimalist CSS framework](https://neat.joeldare.com/)
 <!--END_SECTION:hn-->
 
 <!--
