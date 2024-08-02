@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 02 - [The Upstream Cause of the Youth Mental Health Crisis Is the Loss of Community](https://www.afterbabel.com/p/the-upstream-cause-of-the-youth-mental)
+- Aug 02 - [Hackberry-Pi_Zero – A handheld Linux terminal using Raspberry Pi Zero 2W](https://github.com/ZitaoTech/Hackberry-Pi_Zero)
 - Aug 02 - [Show HN: Ell – A command-line interface for LLMs written in Bash](https://github.com/simonmysun/ell)
-- Aug 02 - [Robin Warren, pathologist who rewrote the science on ulcers, dies at 87](https://www.washingtonpost.com/obituaries/2024/07/31/robin-warren-nobel-ulcers-dies/)
-- Aug 02 - [JVM/Java: Null-Restricted and Nullable Types](https://bugs.openjdk.org/browse/JDK-8303099)
-- Aug 02 - [The reanimation of pseudoscience in machine learning](https://www.cell.com/patterns/fulltext/S2666-3899(24)00160-0#secsectitle0025)
-- Aug 02 - [Kapa.ai (YC S23) Is Hiring an Applied AI Research Engineer (Europe Timezone)](https://www.ycombinator.com/companies/kapa-ai/jobs/hrFWJfn-research-engineer-applied-ai)
+- Aug 02 - [Quark Stars](https://johncarlosbaez.wordpress.com/2024/08/02/quark-stars/)
+- Aug 02 - [Programming a CH32v003 with light](https://mitxela.com/projects/lightcomm)
 <!--END_SECTION:hn-->
 
 <!--
