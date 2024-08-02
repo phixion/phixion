@@ -10,7 +10,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Aug 01 - [Stealer Logs Posted to Telegram - 26,105,473 breached accounts](https://haveibeenpwned.com/PwnedWebsites#TelegramStealerLogs)
 - Jul 31 - [AnimeLeague - 192,134 breached accounts](https://haveibeenpwned.com/PwnedWebsites#AnimeLeague)
 - Jul 30 - [Ubook - 699,908 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Ubook)
-- Jul 25 - [Condo.com - 1,481,555 breached accounts](https://haveibeenpwned.com/PwnedWebsites#CondoCom)
+- Jul 30 - [Spytech - 5,645 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Spytech)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 01 - [Pharma CIO cancels AI enhanced Office 365 deal as "it doesn't add value"](https://hardforum.com/threads/pharma-cio-cancels-ai-enhanced-office-365-deal-as-it-doesnt-add-value.2036205/)
-- Aug 01 - [DIY, 8mm film scanner Kotokino Mark IV](https://www.sabulo.com/sb/3d-printing-2/8mm-film-scanner-kotokino-mark-iv/)
-- Aug 01 - [Threat actor abuses Cloudflare tunnels to deliver remote access trojans](https://www.proofpoint.com/us/blog/threat-insight/threat-actor-abuses-cloudflare-tunnels-deliver-rats)
-- Aug 01 - [Show HN: Anyma V, a hybrid physical modelling virtual instrument](https://aodyo.com/anyma-v/)
-- Aug 01 - [Space is a latent sequence: A theory of the hippocampus](https://www.science.org/doi/10.1126/sciadv.adm8470)
+- Aug 01 - [Who Took the Cocaine Out of Coca-Cola?](https://daily.jstor.org/who-took-the-cocaine-out-of-coca-cola/)
+- Aug 01 - [Video segmentation with Segment Anything 2 (SAM2)](https://blog.roboflow.com/sam-2-video-segmentation/)
+- Aug 01 - [Rand Paul: KOSA is not the solution for protecting children from social media](https://www.courier-journal.com/story/opinion/2024/07/30/rand-paul-kids-online-safety-act-internet-regulation/74585776007/)
+- Aug 01 - [CrowdStrike attempts takedown of parody site](https://clownstrike.lol/crowdmad/)
+- Aug 01 - [xdg-override: change default application temporarily on Linux](https://github.com/koiuo/xdg-override)
 <!--END_SECTION:hn-->
 
 <!--
