@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 03 - [I Made an Extended Version of Vimtutor – Introducing Vimtutor Sequel](https://github.com/micahkepe/vimtutor-sequel)
-- Aug 03 - [Show HN: Hanon Pro – piano technique and exercises for the digital age](https://furnacecreek.org/hanon/)
-- Aug 03 - [IBM Audible Random Timer](https://oldbytes.space/@jgeorge/112888250526493150)
-- Aug 03 - [p5.js](https://p5js.org/)
-- Aug 03 - [SpaceX Raptor 3, SN1](https://twitter.com/elonmusk/status/1819551225504768286/photo/1)
+- Aug 03 - [Full Introduction to Golang with Test-Driven Development](https://kovalevsky.io/full-introduction-to-golang-with-test-driven-development-part-1/)
+- Aug 03 - [Delivery worker minimum wage is bringing order to a wild industry](https://nyc.streetsblog.org/2024/07/15/delivery-worker-minimum-wage-brings-order-to-industry-data-shows)
+- Aug 03 - [Deep sea mining opponents suffer major setback](https://phys.org/news/2024-08-deep-sea-opponents-major-setback.html)
+- Aug 03 - [A* search: optimized implementation in Lisp](https://gitlab.com/lockie/cl-astar)
+- Aug 03 - [Hacked Tesla FSD computers disclose alarming raw data on deadly accidents](https://www.notebookcheck.net/Hacked-Tesla-FSD-computers-disclose-alarming-raw-data-on-deadly-Autopilot-accidents.869354.0.html)
 <!--END_SECTION:hn-->
 
 <!--
