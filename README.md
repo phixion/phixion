@@ -19,7 +19,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 03 - [Hitler Uses Docker [video]](https://www.youtube.com/watch?v=PivpCKEiQOQ)
+- Aug 03 - [Show HN: webhooked.email (2023)](https://news.ycombinator.com/item?id=41144227)
 - Aug 03 - [Stop Destroying Videogames – European Citizens' Initiative](https://eci.ec.europa.eu/045/public/#/screen/home)
 - Aug 03 - [Promising therapy treatment killing glioblastoma cells in new brain pathway](https://medicalxpress.com/news/2024-08-therapy-treatment-glioblastoma-cells-newly.html)
 - Aug 03 - [The future of kdb+?](https://www.timestored.com/b/the-future-of-kdb/)
