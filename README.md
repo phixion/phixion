@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 02 - [Tauri 2.0 Release Candidate](https://v2.tauri.app/blog/tauri-2-0-0-release-candidate/)
-- Aug 02 - [A Year of Meta's News Ban in Canada](https://www.mediaecosystemobservatory.com/press-releases/old-news-new-reality-a-year-of-metas-news-ban-in-canada)
-- Aug 02 - [It's Sounding Like Boeing's Starliner May Have Failed](https://futurism.com/the-byte/signs-boeing-starliner-completely-failed)
-- Aug 02 - [Considerations when building embedded databases](https://interrupt.memfault.com/blog/choosing-or-building-an-embedded-db)
-- Aug 02 - [ArchiveTeam Warrior](http://warrior.archiveteam.org/)
+- Aug 03 - [Hitler Uses Docker [video]](https://www.youtube.com/watch?v=PivpCKEiQOQ)
+- Aug 03 - [Stop Destroying Videogames – European Citizens' Initiative](https://eci.ec.europa.eu/045/public/#/screen/home)
+- Aug 03 - [Promising therapy treatment killing glioblastoma cells in new brain pathway](https://medicalxpress.com/news/2024-08-therapy-treatment-glioblastoma-cells-newly.html)
+- Aug 03 - [The future of kdb+?](https://www.timestored.com/b/the-future-of-kdb/)
+- Aug 02 - [EWritable – e-ink tablet news and reviews](https://ewritable.com/)
 <!--END_SECTION:hn-->
 
 <!--
