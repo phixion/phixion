@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 03 - [Show HN: webhooked.email (2023)](https://news.ycombinator.com/item?id=41144227)
-- Aug 03 - [Stop Destroying Videogames – European Citizens' Initiative](https://eci.ec.europa.eu/045/public/#/screen/home)
-- Aug 03 - [Promising therapy treatment killing glioblastoma cells in new brain pathway](https://medicalxpress.com/news/2024-08-therapy-treatment-glioblastoma-cells-newly.html)
-- Aug 03 - [The future of kdb+?](https://www.timestored.com/b/the-future-of-kdb/)
-- Aug 02 - [EWritable – e-ink tablet news and reviews](https://ewritable.com/)
+- Aug 03 - [I Made an Extended Version of Vimtutor – Introducing Vimtutor Sequel](https://github.com/micahkepe/vimtutor-sequel)
+- Aug 03 - [Show HN: Hanon Pro – piano technique and exercises for the digital age](https://furnacecreek.org/hanon/)
+- Aug 03 - [IBM Audible Random Timer](https://oldbytes.space/@jgeorge/112888250526493150)
+- Aug 03 - [p5.js](https://p5js.org/)
+- Aug 03 - [SpaceX Raptor 3, SN1](https://twitter.com/elonmusk/status/1819551225504768286/photo/1)
 <!--END_SECTION:hn-->
 
 <!--
