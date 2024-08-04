@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 04 - [A WA Tax Break for Data Centers Became One of Their Biggest Corporate Giveaways](https://www.propublica.org/article/washington-data-centers-tech-jobs-tax-break)
-- Aug 04 - [SNES Coprocessors: DSP-1 and Friends](https://jsgroth.dev/blog/posts/snes-coprocessors-part-1/)
-- Aug 04 - [Wasted Education: How We Fail Our Graduates in STEM [video]](https://www.youtube.com/watch?v=ZTWaSPzAgBA)
-- Aug 04 - [Written by a 16 year old, a book on how computers work](https://github.com/hackclub/RAM-a-thon)
-- Aug 04 - [Belenios: A Verifiable Online Voting System](https://www.belenios.org/)
+- Aug 04 - [Dispatches from the farm upstate](https://lcamtuf.substack.com/p/dispatches-from-the-farm-upstate)
+- Aug 04 - [Using your Kindle as an e-ink monitor](https://gist.github.com/adtac/eb639d3c707b55a28f0ee9a420aa7e0c)
+- Aug 04 - [Buster: Captcha Solver for Humans](https://github.com/dessant/buster)
+- Aug 04 - [Trellis (YC W24) is hiring eng to build AI workflows for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
+- Aug 04 - [WhenFS: Calender Is Now a File System](https://github.com/lvkv/whenfs)
 <!--END_SECTION:hn-->
 
 <!--
