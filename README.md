@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 04 - [Balancing Speed and Experience: Optimal Pool Depth for Competitive Swimming](https://www.aquaticsintl.com/facilities/balancing-speed-and-experience-optimal-pool-depth-for-competitive-swimming_o)
-- Aug 04 - [How I Use AI (Nicholas Carlini)](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)
+- Aug 04 - [racket/rhombus: "We're now officially in the "integration" phase for Rhombus."](https://github.com/racket/rhombus/discussions/521)
+- Aug 04 - [Why the international experimental nuclear fusion reactor is in 'big trouble'](https://www.theguardian.com/technology/article/2024/aug/03/is-the-dream-of-nuclear-fusion-dead-why-the-international-experimental-reactor-is-in-big-trouble)
+- Aug 04 - [Tomato nostalgia as I relive my Croatian island childhood](https://www.croatiaweek.com/tomatoes-croatian-island-taste/)
+- Aug 04 - [Australia must treat housing as a human right: Former State Supreme Court judge](https://www.abc.net.au/news/2024-08-04/housing-is-a-human-right-says-former-vic-supreme-court-judge/104179612)
 - Aug 04 - [Nvidia reportedly delays its next AI chip due to a design flaw](https://www.theverge.com/2024/8/3/24212518/nvidia-ai-chip-delay-blackwell-b200-microsoft-amazon-google-openai-meta-artificial-intelligence)
-- Aug 04 - [LLM as Database Administrator](https://arxiv.org/abs/2312.01454)
-- Aug 03 - [Open Source Farming Robot](https://farm.bot/)
 <!--END_SECTION:hn-->
 
 <!--
