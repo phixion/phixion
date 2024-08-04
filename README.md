@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 03 - [Sega Jet Rocket: The '70s arcade game with no computer or screen](https://newatlas.com/games/sega-jet-rocket-arcade-game/)
 - Aug 03 - [Non-computability of solutions of certain equations on digital computers (2022)](https://arxiv.org/abs/2205.12626)
 - Aug 03 - [6.893 Philosophy and Theoretical Computer Science](https://stellar.mit.edu/S/course/6/fa11/6.893/index.html)
 - Aug 03 - [Reverse engineering XC2064, the first FPGA  (2020)](https://www.righto.com/2020/09/reverse-engineering-first-fpga-chip.html)
 - Aug 03 - [Western Digital: We Are Sampling 32TB SMR Hard Drives](https://www.anandtech.com/show/21498/western-digital-we-are-sampling-32-tb-smr-hard-drives)
-- Aug 03 - [The difference between undefined behavior and ill-formed C++ programs](https://devblogs.microsoft.com/oldnewthing/20240802-00/?p=110091)
 <!--END_SECTION:hn-->
 
 <!--
