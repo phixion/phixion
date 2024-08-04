@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 04 - [The Academic Culture of Fraud](https://www.palladiummag.com/2024/08/02/the-academic-culture-of-fraud/)
-- Aug 04 - [GitHub Copilot – Lessons](https://medium.com/sids-tech-cafe/github-copilot-lessons-7afc1f5130a6)
-- Aug 04 - [USB Sniffer Lite for RP2040](https://github.com/ataradov/usb-sniffer-lite)
-- Aug 04 - [racket/rhombus: "We're now officially in the "integration" phase for Rhombus."](https://github.com/racket/rhombus/discussions/521)
-- Aug 04 - [Perfect NAS Solution](https://vermaden.wordpress.com/2024/08/04/perfect-nas-solution/)
+- Aug 04 - [A WA Tax Break for Data Centers Became One of Their Biggest Corporate Giveaways](https://www.propublica.org/article/washington-data-centers-tech-jobs-tax-break)
+- Aug 04 - [SNES Coprocessors: DSP-1 and Friends](https://jsgroth.dev/blog/posts/snes-coprocessors-part-1/)
+- Aug 04 - [Wasted Education: How We Fail Our Graduates in STEM [video]](https://www.youtube.com/watch?v=ZTWaSPzAgBA)
+- Aug 04 - [Written by a 16 year old, a book on how computers work](https://github.com/hackclub/RAM-a-thon)
+- Aug 04 - [Belenios: A Verifiable Online Voting System](https://www.belenios.org/)
 <!--END_SECTION:hn-->
 
 <!--
