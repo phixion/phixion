@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 03 - [Sega Jet Rocket: The '70s arcade game with no computer or screen](https://newatlas.com/games/sega-jet-rocket-arcade-game/)
-- Aug 03 - [Non-computability of solutions of certain equations on digital computers (2022)](https://arxiv.org/abs/2205.12626)
-- Aug 03 - [6.893 Philosophy and Theoretical Computer Science](https://stellar.mit.edu/S/course/6/fa11/6.893/index.html)
-- Aug 03 - [Reverse engineering XC2064, the first FPGA  (2020)](https://www.righto.com/2020/09/reverse-engineering-first-fpga-chip.html)
-- Aug 03 - [Western Digital: We Are Sampling 32TB SMR Hard Drives](https://www.anandtech.com/show/21498/western-digital-we-are-sampling-32-tb-smr-hard-drives)
+- Aug 04 - [Balancing Speed and Experience: Optimal Pool Depth for Competitive Swimming](https://www.aquaticsintl.com/facilities/balancing-speed-and-experience-optimal-pool-depth-for-competitive-swimming_o)
+- Aug 04 - [How I Use AI (Nicholas Carlini)](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)
+- Aug 04 - [Nvidia reportedly delays its next AI chip due to a design flaw](https://www.theverge.com/2024/8/3/24212518/nvidia-ai-chip-delay-blackwell-b200-microsoft-amazon-google-openai-meta-artificial-intelligence)
+- Aug 04 - [LLM as Database Administrator](https://arxiv.org/abs/2312.01454)
+- Aug 03 - [Open Source Farming Robot](https://farm.bot/)
 <!--END_SECTION:hn-->
 
 <!--
