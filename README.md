@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 04 - [Show HN: Free e-book about WebGPU Programming](https://shi-yan.github.io/webgpuunleashed/)
-- Aug 04 - [Myspace celebrates its 21st birthday. Do we still need it?](https://triblive.com/business/technology/myspace-celebrates-its-21st-birthday-do-we-still-need-it/)
-- Aug 04 - [Nvidia's Blackwell Reworked – Shipment Delays and GB200A Reworked Platforms](https://www.semianalysis.com/p/nvidias-blackwell-reworked-shipment)
-- Aug 04 - [Show HN: AI-Powered Stock Market Analyst with Global Coverage](https://decodeinvesting.com/chat)
-- Aug 04 - [Cortex A73's Not-So-Infinite Reordering Capacity](https://chipsandcheese.com/2024/08/04/cortex-a73s-not-so-infinite-reordering-capacity/)
+- Aug 05 - [Starting Hospice](https://jakeseliger.com/2024/08/04/starting-hospice-the-end/)
+- Aug 05 - [Japan stocks plunge as much as 7% as Asia shares extend sell-off](https://www.cnbc.com/2024/08/05/asia-markets.html)
+- Aug 05 - [50 years ago, CP/M started the microcomputer revolution](https://www.theregister.com/2024/08/02/cpm_50th_anniversary/)
+- Aug 05 - [Building Lego Machines to Destroy Tall Lego Towers](https://kottke.org/24/07/building-lego-machines-to-destroy-tall-lego-towers)
+- Aug 05 - [How I Program in 2024](http://akkartik.name/post/programming-2024)
 <!--END_SECTION:hn-->
 
 <!--
