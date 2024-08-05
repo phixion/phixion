@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 05 - [Andy Warhol's lost Amiga art found](https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/)
-- Aug 05 - [What do people ask chatbots? It's a lot of sex and homework](https://www.washingtonpost.com/technology/2024/08/04/chatgpt-use-real-ai-chatbot-conversations/)
-- Aug 05 - [How the Music Industry Learned to Love Piracy](https://www.nytimes.com/2024/07/31/magazine/how-music-got-free-documentary.html)
-- Aug 05 - [A 20-something dethroned dotcom CEO that went to work the counter at McDonald's](https://web.archive.org/web/20040616091238/http://www.heiferman.com/mcd/)
-- Aug 05 - [Weak Soft Skills: Why you are stuck at the Senior engineer level](https://pathtostaff.substack.com/p/weak-soft-skills-why-you-are-stuck)
+- Aug 05 - [Google Loses DOJ Antitrust Suit Over Search](https://www.bloomberg.com/news/articles/2024-08-05/google-loses-doj-antitrust-suit-over-search)
+- Aug 05 - [Iso20022.js: Create payments in 3 lines of code](https://www.iso20022js.com/)
+- Aug 05 - [Undark and the Radium Girls](https://www.damninteresting.com/undark-and-the-radium-girls/)
+- Aug 05 - [Launch HN: Airhart Aeronautics (YC S22) – A modern personal airplane](https://news.ycombinator.com/item?id=41163382)
+- Aug 05 - [Infisical (YC W23) Is Hiring a Customer Success Engineer](https://www.ycombinator.com/companies/infisical/jobs/28DIh6L-customer-success-engineer)
 <!--END_SECTION:hn-->
 
 <!--
