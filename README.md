@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 05 - [UpCodes (YC S17) is hiring remote SWEs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
-- Aug 05 - [The meanest app: Duolingo subjects its users to "emotional blackmail"](https://www.businessinsider.com/duolingo-meanest-app-nagging-notifications-melting-icon-gen-z-marketing-2024-7)
-- Aug 05 - [How to Get or Create in PostgreSQL](https://hakibenita.com/postgresql-get-or-create)
-- Aug 05 - [Apple Intelligence beta flagged a phishing email as "Priority"](https://social.panic.com/@cabel/112905175504595751)
-- Aug 05 - [Learn PHP the Right Way](https://github.com/ggelashvili/learnphptherightway-outline)
+- Aug 05 - [Andy Warhol's lost Amiga art found](https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/)
+- Aug 05 - [What do people ask chatbots? It's a lot of sex and homework](https://www.washingtonpost.com/technology/2024/08/04/chatgpt-use-real-ai-chatbot-conversations/)
+- Aug 05 - [How the Music Industry Learned to Love Piracy](https://www.nytimes.com/2024/07/31/magazine/how-music-got-free-documentary.html)
+- Aug 05 - [A 20-something dethroned dotcom CEO that went to work the counter at McDonald's](https://web.archive.org/web/20040616091238/http://www.heiferman.com/mcd/)
+- Aug 05 - [Weak Soft Skills: Why you are stuck at the Senior engineer level](https://pathtostaff.substack.com/p/weak-soft-skills-why-you-are-stuck)
 <!--END_SECTION:hn-->
 
 <!--
