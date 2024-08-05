@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 05 - [Starting Hospice](https://jakeseliger.com/2024/08/04/starting-hospice-the-end/)
-- Aug 05 - [Japan stocks plunge as much as 7% as Asia shares extend sell-off](https://www.cnbc.com/2024/08/05/asia-markets.html)
-- Aug 05 - [50 years ago, CP/M started the microcomputer revolution](https://www.theregister.com/2024/08/02/cpm_50th_anniversary/)
-- Aug 05 - [Building Lego Machines to Destroy Tall Lego Towers](https://kottke.org/24/07/building-lego-machines-to-destroy-tall-lego-towers)
-- Aug 05 - [How I Program in 2024](http://akkartik.name/post/programming-2024)
+- Aug 05 - [The meanest app: Duolingo subjects its users to "emotional blackmail"](https://www.businessinsider.com/duolingo-meanest-app-nagging-notifications-melting-icon-gen-z-marketing-2024-7)
+- Aug 05 - [Climate change deniers make up nearly a quarter of US Congress](https://www.theguardian.com/us-news/article/2024/aug/05/climate-change-denial-congress)
+- Aug 05 - [How to Get or Create in PostgreSQL](https://hakibenita.com/postgresql-get-or-create)
+- Aug 05 - [Apple Intelligence beta flagged a phishing email as "Priority"](https://social.panic.com/@cabel/112905175504595751)
+- Aug 05 - [Single-packet race condition breaking the 65535 byte lim](https://flatt.tech/research/posts/beyond-the-limit-expanding-single-packet-race-condition-with-first-sequence-sync/)
 <!--END_SECTION:hn-->
 
 <!--
