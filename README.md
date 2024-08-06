@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 06 - [Writing a tile server in Python](https://www.grulic.org.ar/~mdione/glob/posts/writing-a-tile-server-in-python/)
+- Aug 06 - [A Different Kind of Disc Brake: 1949 Chrysler](https://www.macsmotorcitygarage.com/a-completely-different-kind-of-disc-brake-1949-chrysler/)
+- Aug 06 - [IP.network: Check IP Address](https://www.ip.network)
+- Aug 06 - [The Soul of Maintaining a New Machine](https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/1)
 - Aug 06 - [No Salt](https://jakeseliger.com/2024/08/05/no-salt/)
-- Aug 06 - [#F – A Minimalistic Scheme System](https://github.com/false-schemers/sharpF)
-- Aug 06 - [Building rqlite 9.0 – the lightweight distributed DB: Cutting Disk Usage by Half](https://www.philipotoole.com/building-rqlite-9-0-cutting-disk-usage-by-half/)
-- Aug 06 - [Why is it so hard for the U.S. to build quality transit?](https://www.fastcompany.com/91166562/us-transit-exceptionalism)
-- Aug 06 - [Eeverybody Gets a Star: Yelp's Affect on Restaurants and Reviews, 20 Years In](https://www.eater.com/24200672/yelp-effect-on-restaurants-culture-review-everything)
 <!--END_SECTION:hn-->
 
 <!--
