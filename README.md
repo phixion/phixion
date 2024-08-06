@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 06 - [We’re ending production of Chromecast](https://blog.google/products/google-nest/chromecast-history/)
+- Aug 06 - [Show HN: I built a simple, open-source tool to manage servers and SSH keys](https://github.com/d3witt/viking)
+- Aug 06 - [Speedrunning 30yrs of lithography technology [video]](https://www.youtube.com/watch?v=RuVS7MsQk4Y)
 - Aug 06 - [Hazel (YC W24) Is Hiring](https://www.ycombinator.com/companies/hazel-2/jobs/kw9CiUM-founding-engineer-full-stack-or-ai-ml)
-- Aug 06 - [The Resurrection of Intel Will Take More Than Three Days](https://www.nextplatform.com/2024/08/02/the-resurrection-of-intel-will-take-more-than-three-days/)
-- Aug 06 - [Big Macs and the Cost of Living Crisis](https://www.abc.net.au/news/2024-08-05/cost-of-living-interest-rates-burgers/104156654)
-- Aug 06 - [Minds are 'not currency for social media,' says EU as TikTok kills Lite Rewards](https://thenextweb.com/news/tiktok-kills-lite-rewards-eu)
-- Aug 06 - [WordStar 7, the last ever DOS version, is re-released for free](https://www.theregister.com/2024/08/06/wordstar_7_the_last_ever/)
+- Aug 06 - [Stereographer](https://www.engineersneedart.com/stereographer/stereographer.html)
 <!--END_SECTION:hn-->
 
 <!--
