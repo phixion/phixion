@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 07 - [Sieve (YC W22) is hiring product engineers to build the future of video AI](https://sievedata.com/about/jobs)
-- Aug 07 - [First USGS supercomputer decommissioning makes way for successors](https://www.usgs.gov/news/featured-story/first-usgs-supercomputer-decommissioning-makes-way-successors)
-- Aug 07 - [Show HN: Lacakgrak – simple inbound/outbound packet sniffer](https://github.com/altilunium/lacakgrak)
-- Aug 07 - [Sourcetrail: Free and Open-Source Interactive Source Explorer](https://github.com/CoatiSoftware/Sourcetrail)
-- Aug 07 - [Cringey, but True: How Uber Tests Payments in Production](https://news.alvaroduran.com/p/cringey-but-true-how-uber-tests-payments)
+- Aug 07 - [I Got a Sleep Study in My 30s. It Probably Saved My Life](https://www.gq.com/story/sleep-apnea-study)
+- Aug 07 - [Show HN: Play with an interactive heatmap of SF crime (and other cities)](https://safemap.io/sf/map)
+- Aug 07 - [Launch HN: Release (YC W20) – Orchestrate AI Infrastructure and Applications](https://news.ycombinator.com/item?id=41182055)
+- Aug 07 - [Gear Acquisition Syndrome – Consumption of Instruments and Technology (2021)](https://library.oapen.org/handle/20.500.12657/48282)
+- Aug 07 - [Cats appear to grieve death of fellow pets – even dogs, study finds](https://www.theguardian.com/science/article/2024/aug/07/cats-appear-to-grieve-death-of-fellow-pets-even-dogs-study-finds)
 <!--END_SECTION:hn-->
 
 <!--
