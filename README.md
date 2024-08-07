@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 07 - [The future of F/OSS continues to be AGPL](https://news.ycombinator.com/item?id=41178808)
-- Aug 07 - [Rising rates of cancer in young people prompts hunt for environmental culprit](https://www.ft.com/content/491d7760-c329-4f57-9509-0da36bc9e7de)
-- Aug 07 - [Streams, Calculational Proofs and Dafny](https://rdivyanshu.github.io/posts/2024/08/streams-calculation-proof-and-dafny.html)
-- Aug 07 - [70% of new NPM packages in last 6 months were spam](https://blog.phylum.io/the-great-npm-garbage-patch/)
-- Aug 07 - [The Private Life: On James Baldwin](https://www.theparisreview.org/blog/2024/08/02/the-private-life-on-james-baldwin/)
+- Aug 07 - [Sieve (YC W22) is hiring product engineers to build the future of video AI](https://sievedata.com/about/jobs)
+- Aug 07 - [First USGS supercomputer decommissioning makes way for successors](https://www.usgs.gov/news/featured-story/first-usgs-supercomputer-decommissioning-makes-way-successors)
+- Aug 07 - [Show HN: Lacakgrak – simple inbound/outbound packet sniffer](https://github.com/altilunium/lacakgrak)
+- Aug 07 - [Sourcetrail: Free and Open-Source Interactive Source Explorer](https://github.com/CoatiSoftware/Sourcetrail)
+- Aug 07 - [Cringey, but True: How Uber Tests Payments in Production](https://news.alvaroduran.com/p/cringey-but-true-how-uber-tests-payments)
 <!--END_SECTION:hn-->
 
 <!--
