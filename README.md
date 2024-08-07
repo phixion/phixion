@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 07 - [I Got a Sleep Study in My 30s. It Probably Saved My Life](https://www.gq.com/story/sleep-apnea-study)
-- Aug 07 - [Show HN: Play with an interactive heatmap of SF crime (and other cities)](https://safemap.io/sf/map)
-- Aug 07 - [Launch HN: Release (YC W20) – Orchestrate AI Infrastructure and Applications](https://news.ycombinator.com/item?id=41182055)
-- Aug 07 - [Gear Acquisition Syndrome – Consumption of Instruments and Technology (2021)](https://library.oapen.org/handle/20.500.12657/48282)
-- Aug 07 - [Cats appear to grieve death of fellow pets – even dogs, study finds](https://www.theguardian.com/science/article/2024/aug/07/cats-appear-to-grieve-death-of-fellow-pets-even-dogs-study-finds)
+- Aug 07 - [Ask HN: Front-End Bait and Switch?](https://news.ycombinator.com/item?id=41184726)
+- Aug 07 - [Mistral Agents](https://mistral.ai/news/build-tweak-repeat/)
+- Aug 07 - [2.9B hit in one of largest data breaches; full names and SSNs exposed](https://www.tomsguide.com/computing/online-security/29-billion-hit-in-one-of-largest-data-breaches-ever-full-names-addresses-and-ssns-exposed)
+- Aug 07 - [Prevention of HIV](https://www.science.org/content/blog-post/prevention-hiv)
+- Aug 07 - [NASA Says Boeing Starliner Astronauts May Fly Home on SpaceX in 2025](https://www.nytimes.com/2024/08/07/science/boeing-starliner-nasa-spacex.html)
 <!--END_SECTION:hn-->
 
 <!--
