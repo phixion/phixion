@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 06 - [Why is 'Left Stick to Sprint' so unpleasant in games?](https://aria.dog/barks/why-is-left-stick-to-sprint-so-unpleasant/)
-- Aug 06 - [Please do not attempt to simplify this code](https://github.com/kubernetes/kubernetes/blob/60c4c2b2521fb454ce69dee737e3eb91a25e0535/pkg/controller/volume/persistentvolume/pv_controller.go)
-- Aug 06 - [Emerge Tools (YC W21) Is Hiring a Product Engineer (iOS, Full-Stack)](https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack)
-- Aug 06 - [What purpose did the lower-right Enter key serve on original Mac 128k keyboard?](https://retrocomputing.stackexchange.com/questions/30478/what-purpose-did-the-lower-right-enter-key-serve-on-the-original-mac-128k-keyb)
-- Aug 06 - [Show HN: AutoEditor – Edit your video in just a few clicks](https://autoeditor.video/)
+- Aug 07 - [Gangs in the Los Angeles County Sheriff's Department](https://en.wikipedia.org/wiki/Gangs_in_the_Los_Angeles_County_Sheriff%27s_Department)
+- Aug 07 - [Jeremy Rowley resigns from DigiCert due to mass-revocation incident](https://bugzilla.mozilla.org/show_bug.cgi?id=1910322)
+- Aug 06 - [Medieval](https://teenage.engineering/products/ep-1320)
+- Aug 06 - [MNT Pocket Reform first impressions and hardware](https://andypiper.co.uk/2024/08/06/mnt-pocket-reform-first-impressions/)
+- Aug 06 - [My favorite device is a Chromebook](https://kokada.capivaras.dev/blog/my-favorite-device-is-a-chromebook/)
 <!--END_SECTION:hn-->
 
 <!--
