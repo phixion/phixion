@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 07 - [Ask HN: Front-End Bait and Switch?](https://news.ycombinator.com/item?id=41184726)
-- Aug 07 - [Mistral Agents](https://mistral.ai/news/build-tweak-repeat/)
-- Aug 07 - [2.9B hit in one of largest data breaches; full names and SSNs exposed](https://www.tomsguide.com/computing/online-security/29-billion-hit-in-one-of-largest-data-breaches-ever-full-names-addresses-and-ssns-exposed)
-- Aug 07 - [Prevention of HIV](https://www.science.org/content/blog-post/prevention-hiv)
-- Aug 07 - [NASA Says Boeing Starliner Astronauts May Fly Home on SpaceX in 2025](https://www.nytimes.com/2024/08/07/science/boeing-starliner-nasa-spacex.html)
+- Aug 07 - [Robot Dog with Gun Turret for Hunting Aerial Drones Being Tested by Army](https://www.twz.com/land/robot-dog-with-gun-turret-for-hunting-aerial-drones-being-tested-by-army)
+- Aug 07 - [Costco membership scanners coming to clubs in sharing crackdown](https://www.axios.com/2024/08/07/costco-membership-scanners-card-sharing-crackdown)
+- Aug 07 - [Atlanta Police Monitoring of 'Cop City' Opponents' Political Activity](https://www.brennancenter.org/our-work/analysis-opinion/internal-atlanta-police-records-reveal-monitoring-cop-city-opponents)
+- Aug 07 - [Terraforming Mars may be easier than scientists thought](https://www.science.org/content/article/terraforming-mars-could-be-easier-scientists-thought)
+- Aug 07 - [Judge Fines Ripple $125M, Bans Future Securities Law Violations](https://www.coindesk.com/policy/2024/08/07/judge-fines-ripple-125m-bans-future-securities-law-violations-in-long-running-sec-case/)
 <!--END_SECTION:hn-->
 
 <!--
