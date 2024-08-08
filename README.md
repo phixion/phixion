@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 07 - [Robot Dog with Gun Turret for Hunting Aerial Drones Being Tested by Army](https://www.twz.com/land/robot-dog-with-gun-turret-for-hunting-aerial-drones-being-tested-by-army)
-- Aug 07 - [Costco membership scanners coming to clubs in sharing crackdown](https://www.axios.com/2024/08/07/costco-membership-scanners-card-sharing-crackdown)
-- Aug 07 - [Atlanta Police Monitoring of 'Cop City' Opponents' Political Activity](https://www.brennancenter.org/our-work/analysis-opinion/internal-atlanta-police-records-reveal-monitoring-cop-city-opponents)
-- Aug 07 - [Terraforming Mars may be easier than scientists thought](https://www.science.org/content/article/terraforming-mars-could-be-easier-scientists-thought)
-- Aug 07 - [Judge Fines Ripple $125M, Bans Future Securities Law Violations](https://www.coindesk.com/policy/2024/08/07/judge-fines-ripple-125m-bans-future-securities-law-violations-in-long-running-sec-case/)
+- Aug 08 - [The play deficit (2013)](https://aeon.co/essays/children-today-are-suffering-a-severe-deficit-of-play)
+- Aug 08 - [Mozilla wants you to love Firefox again](https://www.fastcompany.com/91167564/mozilla-wants-you-to-love-firefox-again)
+- Aug 07 - [How to talk to your parents about hardware memory safety (CHERI)](https://cheriot.org/cheri/2024/08/06/how-to-talk-about-CHERI.html)
+- Aug 07 - [Argdown, like Markdown for argument mapping](https://argdown.org/)
+- Aug 07 - [In ‘The Book Against Death,’ Elias Canetti rants against mortality](https://www.washingtonpost.com/books/2024/08/02/book-against-death-elias-canetti-review/)
 <!--END_SECTION:hn-->
 
 <!--
