@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 08 - [RLHF is just barely RL](https://twitter.com/karpathy/status/1821277264996352246)
-- Aug 08 - [Google and Meta struck secret ads deal to target teenagers](https://www.ft.com/content/b3bb80f4-4e01-4ce6-8358-f4f8638790f8)
-- Aug 08 - [What I Saw in the Darién Gap](https://www.theatlantic.com/magazine/archive/2024/09/darien-gap-route-migrants-panama/679156/)
-- Aug 07 - [How to talk to your parents about hardware memory safety (CHERI)](https://cheriot.org/cheri/2024/08/06/how-to-talk-about-CHERI.html)
-- Aug 07 - [Argdown, like Markdown for argument mapping](https://argdown.org/)
+- Aug 08 - [Critical vulnerabilities in 6 AWS services disclosed at Black Hat USA](https://www.scmagazine.com/news/critical-vulnerabilities-in-6-aws-services-disclosed-at-black-hat-usa)
+- Aug 08 - [Tsunami Alert Issued for Japan](https://tsunami.gov/events/PHEB/2024/08/08/24221000/2/WEPA40//WEPA40.txt)
+- Aug 08 - [CVE-2023-2163: How we found and fixed an eBPF Linux Kernel Vulnerability](https://bughunters.google.com/blog/6303226026131456/a-deep-dive-into-cve-2023-2163-how-we-found-and-fixed-an-ebpf-linux-kernel-vulnerability)
+- Aug 08 - [The News Is Information Junk Food (2022)](https://chuck.is/news/)
+- Aug 08 - [Digital Tools I Wish Existed (2019)](https://jon.bo/posts/digital-tools/)
 <!--END_SECTION:hn-->
 
 <!--
