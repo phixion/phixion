@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 08 - [Raspberry Pi Pico 2, our new $5 microcontroller board, on sale now](https://www.raspberrypi.com/news/raspberry-pi-pico-2-our-new-5-microcontroller-board-on-sale-now/)
-- Aug 08 - [Cosmic: A New Desktop Environment](https://system76.com/cosmic)
-- Aug 08 - [Qwen2-Math](https://qwenlm.github.io/blog/qwen2-math/)
-- Aug 08 - [Activeloop (YC S18): Hiring Senior C++ Engineers to Scale Database for AI](https://careers.activeloop.ai/)
-- Aug 08 - [Firefox Sidebar and Vertical tabs: try them out in Nightly Firefox Labs 131](https://blog.nightly.mozilla.org/2024/08/07/firefox-sidebar-and-vertical-tabs-try-them-out-in-nightly-firefox-labs-131/)
+- Aug 08 - [New doctoral thesis proposes Buckminster Fuller was a 'charlatan'](https://research.aalto.fi/en/publications/genius-or-charlatanry-a-psychobiographical-reinterpretation-of-th)
+- Aug 08 - [Show HN: The First Non-Smart AI Pendant (NotFriend)](https://notfriend.org/)
+- Aug 08 - [Recent Performance Improvements in Function Calls in CPython](https://blog.codingconfessions.com/p/are-function-calls-still-slow-in-python)
+- Aug 08 - [Intel's Immiseration – The Chip Letter](https://thechipletter.substack.com/p/intels-immiseration)
+- Aug 08 - [RePalm: Towards the first unauthorized PalmOS port](https://dmitry.gr/?r=05.Projects&proj=27.%20rePalm)
 <!--END_SECTION:hn-->
 
 <!--
