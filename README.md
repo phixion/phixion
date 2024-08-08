@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 08 - [Critical vulnerabilities in 6 AWS services disclosed at Black Hat USA](https://www.scmagazine.com/news/critical-vulnerabilities-in-6-aws-services-disclosed-at-black-hat-usa)
-- Aug 08 - [Tsunami Alert Issued for Japan](https://tsunami.gov/events/PHEB/2024/08/08/24221000/2/WEPA40//WEPA40.txt)
-- Aug 08 - [CVE-2023-2163: How we found and fixed an eBPF Linux Kernel Vulnerability](https://bughunters.google.com/blog/6303226026131456/a-deep-dive-into-cve-2023-2163-how-we-found-and-fixed-an-ebpf-linux-kernel-vulnerability)
-- Aug 08 - [The News Is Information Junk Food (2022)](https://chuck.is/news/)
-- Aug 08 - [Digital Tools I Wish Existed (2019)](https://jon.bo/posts/digital-tools/)
+- Aug 08 - [Raspberry Pi Pico 2, our new $5 microcontroller board, on sale now](https://www.raspberrypi.com/news/raspberry-pi-pico-2-our-new-5-microcontroller-board-on-sale-now/)
+- Aug 08 - [Cosmic: A New Desktop Environment](https://system76.com/cosmic)
+- Aug 08 - [Qwen2-Math](https://qwenlm.github.io/blog/qwen2-math/)
+- Aug 08 - [Activeloop (YC S18): Hiring Senior C++ Engineers to Scale Database for AI](https://careers.activeloop.ai/)
+- Aug 08 - [Firefox Sidebar and Vertical tabs: try them out in Nightly Firefox Labs 131](https://blog.nightly.mozilla.org/2024/08/07/firefox-sidebar-and-vertical-tabs-try-them-out-in-nightly-firefox-labs-131/)
 <!--END_SECTION:hn-->
 
 <!--
