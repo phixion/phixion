@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 09 - [Robocars improve traffic even when most cars around them are driven by people](https://theconversation.com/robocars-promise-to-improve-traffic-even-when-most-of-the-cars-around-them-are-driven-by-people-study-finds-233546)
-- Aug 09 - [Third-Party RISC-V Framework Laptop Mainboard](https://frame.work/de/de/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing)
-- Aug 09 - [You're Not Indecisive, You're Unbiased](https://www.sciencealert.com/youre-not-indecisive-youre-unbiased-science-says-so)
-- Aug 09 - [Show HN: Nous – Open-Source Agent Framework with Autonomous, SWE Agents, WebUI](https://github.com/TrafficGuard/nous)
-- Aug 09 - [Base 3 Computing Beats Binary](https://www.quantamagazine.org/how-base-3-computing-beats-binary-20240809/)
+- Aug 09 - [HMPL – template language for displaying UI from server to client](https://github.com/hmpl-lang/hmpl)
+- Aug 09 - [Researchers discover potentially catastrophic exploit present in AMD chips](https://www.engadget.com/cybersecurity/researchers-discover-potentially-catastrophic-exploit-present-in-amd-chips-for-decades-161541359.html)
+- Aug 09 - [Perceived Age](https://suryad.com/blog/percieved-age/)
+- Aug 09 - [Motion (YC W20) Is Hiring Senior Back End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
+- Aug 09 - [Infinite Proofs: The Effects of Mathematics on David Foster Wallace (2012)](https://lareviewofbooks.org/article/infinite-proofs-the-effects-of-mathematics-on-david-foster-wallace/)
 <!--END_SECTION:hn-->
 
 <!--
