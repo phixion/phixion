@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 08 - [New doctoral thesis proposes Buckminster Fuller was a 'charlatan'](https://research.aalto.fi/en/publications/genius-or-charlatanry-a-psychobiographical-reinterpretation-of-th)
-- Aug 08 - [Show HN: The First Non-Smart AI Pendant (NotFriend)](https://notfriend.org/)
+- Aug 08 - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
+- Aug 08 - [The Miniature Engineering Craftsmanship Museum](https://craftsmanshipmuseum.com/exhibit/)
+- Aug 08 - [GPUDrive: Data-driven, multi-agent driving simulation at 1M FPS](https://arxiv.org/abs/2408.01584)
+- Aug 08 - [The First Medieval Electronic Instrument Plays Sounds of Lutes and More](https://www.openculture.com/2024/08/the-worlds-first-medieval-electronic-instrument.html)
 - Aug 08 - [Recent Performance Improvements in Function Calls in CPython](https://blog.codingconfessions.com/p/are-function-calls-still-slow-in-python)
-- Aug 08 - [Intel's Immiseration – The Chip Letter](https://thechipletter.substack.com/p/intels-immiseration)
-- Aug 08 - [RePalm: Towards the first unauthorized PalmOS port](https://dmitry.gr/?r=05.Projects&proj=27.%20rePalm)
 <!--END_SECTION:hn-->
 
 <!--
