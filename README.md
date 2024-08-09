@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 09 - [ChatGPT now lets free users generate up to two images per day made by DALL-E 3](https://www.theverge.com/2024/8/8/24216348/chatgpt-free-users-dall-e-3-images)
-- Aug 09 - [Solar energy breakthrough could reduce need for solar farms](https://www.ox.ac.uk/news/2024-08-09-solar-energy-breakthrough-could-reduce-need-solar-farms)
-- Aug 09 - [OTranscribe: A free and open tool for transcribing audio interviews](https://otranscribe.com/)
-- Aug 09 - [If you give Copilot the reins, don't be surprised when it spills your secrets](https://www.theregister.com/2024/08/08/copilot_black_hat_vulns/)
-- Aug 09 - [Sonic Pi: Ruby as a Composition Tool](https://bhmt.dev/blog/sonic_pi/)
+- Aug 09 - [Robocars improve traffic even when most cars around them are driven by people](https://theconversation.com/robocars-promise-to-improve-traffic-even-when-most-of-the-cars-around-them-are-driven-by-people-study-finds-233546)
+- Aug 09 - [Third-Party RISC-V Framework Laptop Mainboard](https://frame.work/de/de/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing)
+- Aug 09 - [You're Not Indecisive, You're Unbiased](https://www.sciencealert.com/youre-not-indecisive-youre-unbiased-science-says-so)
+- Aug 09 - [Show HN: Nous – Open-Source Agent Framework with Autonomous, SWE Agents, WebUI](https://github.com/TrafficGuard/nous)
+- Aug 09 - [Base 3 Computing Beats Binary](https://www.quantamagazine.org/how-base-3-computing-beats-binary-20240809/)
 <!--END_SECTION:hn-->
 
 <!--
