@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 09 - [SaaS Copywriting: Marketing SaaS Framework](https://slimsaas.com/blog/saas-copy-writing-saas-marketing-framework-works)
-- Aug 09 - [Startup CEO Says VC Firm Punished Her for Reporting Sex Assault](https://www.bloomberg.com/news/articles/2024-08-08/startup-ceo-says-vc-firm-punished-her-for-reporting-sex-assault)
-- Aug 08 - [USPS Text Scammers Duped His Wife, So He Hacked Their Operation](https://www.wired.com/story/usps-scam-text-smishing-triad/)
-- Aug 08 - [Forest Service orders Arrowhead bottled water to shut down California pipeline](https://www.latimes.com/environment/story/2024-08-07/arrowhead-bottled-water-permit)
-- Aug 08 - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
+- Aug 09 - [Apple: Using alternative browser engines in the European Union](https://developer.apple.com/support/alternative-browser-engines/)
+- Aug 09 - [OTranscribe: A free and open tool for transcribing audio interviews](https://otranscribe.com/)
+- Aug 09 - [Japan Issues First Ever Mega Earthquake Warning](https://www.nbcnews.com/news/world/japan-earthquake-tsunami-advisory-rcna165728)
+- Aug 09 - [Sonic Pi: Ruby as a Composition Tool](https://bhmt.dev/blog/sonic_pi/)
+- Aug 09 - [SQLite FTS5 Extension](https://www.sqlite.org/fts5.html)
 <!--END_SECTION:hn-->
 
 <!--
