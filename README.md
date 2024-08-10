@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 10 - [Substack (YC W18) Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
-- Aug 10 - [The friendliest social network you've never heard of](https://www.washingtonpost.com/technology/2024/08/10/front-porch-forum-vermont-research-new-public/)
-- Aug 10 - [Pursuits That Can't Scale](https://www.workingtheorys.com/p/pursuits-that-cant-scale)
-- Aug 10 - [Hal Hickel on Creating Tarkin for Rogue One](http://fxrant.blogspot.com/2024/06/hal-hickel-on-creating-tarkin.html)
-- Aug 10 - [Susan Wojcicki has died](https://twitter.com/sundarpichai/status/1822132667959386588)
+- Aug 10 - [OpenSnitch is a GNU/Linux interactive application firewall](https://github.com/evilsocket/opensnitch)
+- Aug 10 - [Another Look at the Voynich Manuscript](https://www.theatlantic.com/magazine/archive/2024/09/decoding-voynich-manuscript/679157/)
+- Aug 10 - [Deep Live Cam: Real-time face swapping and one-click video deepfake tool](https://deeplive.cam)
+- Aug 10 - [A wonderful coincidence or an expected connection: why π² ≈ g](https://roitman.io/blog/91)
+- Aug 10 - [Evidence for ~12-h ultradian gene programs in humans](https://www.nature.com/articles/s44323-024-00005-1)
 <!--END_SECTION:hn-->
 
 <!--
