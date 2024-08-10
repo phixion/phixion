@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 10 - [OpenSnitch is a GNU/Linux interactive application firewall](https://github.com/evilsocket/opensnitch)
-- Aug 10 - [Another Look at the Voynich Manuscript](https://www.theatlantic.com/magazine/archive/2024/09/decoding-voynich-manuscript/679157/)
-- Aug 10 - [Deep Live Cam: Real-time face swapping and one-click video deepfake tool](https://deeplive.cam)
-- Aug 10 - [A wonderful coincidence or an expected connection: why π² ≈ g](https://roitman.io/blog/91)
-- Aug 10 - [Evidence for ~12-h ultradian gene programs in humans](https://www.nature.com/articles/s44323-024-00005-1)
+- Aug 10 - [No-car Games: Los Angeles Olympic venues only accessible by public transit](https://apnews.com/article/2028-los-angeles-olympics-nocar-traffic-homeless-3adafcada2c5964e5dc2da2077a2520d)
+- Aug 10 - [DEF CON's response to the badge controversy](https://old.reddit.com/r/Defcon/comments/1ep00ln/def_cons_response_to_the_badge_controversy/)
+- Aug 10 - [Defcon Response to Badge Issues](https://twitter.com/defcon/status/1822344607063302200)
+- Aug 10 - [Fobos SDR: High-Quality Radio for Hobbyists, Researchers and Professionals](https://www.hackster.io/news/fobos-sdr-is-a-high-quality-radio-for-hobbyists-researchers-and-professionals-80e25e00b1e1)
+- Aug 10 - [Interval parsing grammars for file format parsing (2023)](https://dl.acm.org/doi/10.1145/3591264)
 <!--END_SECTION:hn-->
 
 <!--
