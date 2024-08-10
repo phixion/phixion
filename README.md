@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 10 - [Building a highly-available web service without a database](https://blog.screenshotbot.io/2024/08/10/building-a-highly-available-web-service-without-a-database/)
-- Aug 10 - [Will there be 50B+ in student loan delinquencies in US?](https://wordsofwill.com/2024/08/09/august-2024-housing-credit-market-analysis-may-2024-follow-up/)
-- Aug 10 - [Daily marijuana use linked to increased risk of deadly head and neck cancers](https://www.cnn.com/2024/08/08/health/marijuana-head-and-neck-cancer-wellness/index.html)
-- Aug 10 - [HIV drug could be made for just $40 a year for every patient](https://www.theguardian.com/global-development/article/2024/jul/23/hiv-aids-prevention-vaccine-lenacapavir-sunlenca-pharmaceuticals-gilead-generic-licensing)
-- Aug 10 - [GCVR (YC W22) Is Hiring Lead Animation Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-lead-animation-engineer)
+- Aug 10 - [SNES Graphics: 186.2ns or Bust](https://fabiensanglard.net/snes_ppus_why/index.html)
+- Aug 10 - [Larry Wall's Very Own Home Page](http://wall.org/%7Elarry/)
+- Aug 10 - [Hal Hickel on Creating Tarkin for Rogue One](http://fxrant.blogspot.com/2024/06/hal-hickel-on-creating-tarkin.html)
+- Aug 10 - [Susan Wojcicki has died](https://twitter.com/sundarpichai/status/1822132667959386588)
+- Aug 10 - [Google Strategy Doc from Antitrust Proceedings](https://threadreaderapp.com/thread/1821554841786683554.html)
 <!--END_SECTION:hn-->
 
 <!--
