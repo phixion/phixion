@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Aug 11 - [Shadow - 543,295 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Shadow)
 - Aug 09 - [Not SOCRadar - 282,478,425 breached accounts](https://haveibeenpwned.com/PwnedWebsites#NotSOCRadar)
 - Aug 05 - [Shoe Zone - 46,140 breached accounts](https://haveibeenpwned.com/PwnedWebsites#ShoeZone)
 - Aug 02 - [LuLu - 2,796,835 breached accounts](https://haveibeenpwned.com/PwnedWebsites#LuLu)
 - Aug 01 - [Multiplayer.it - 503,957 breached accounts](https://haveibeenpwned.com/PwnedWebsites#MultiplayerIt)
-- Aug 01 - [Stealer Logs Posted to Telegram - 26,105,473 breached accounts](https://haveibeenpwned.com/PwnedWebsites#TelegramStealerLogs)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 10 - [No-car Games: Los Angeles Olympic venues only accessible by public transit](https://apnews.com/article/2028-los-angeles-olympics-nocar-traffic-homeless-3adafcada2c5964e5dc2da2077a2520d)
-- Aug 10 - [DEF CON's response to the badge controversy](https://old.reddit.com/r/Defcon/comments/1ep00ln/def_cons_response_to_the_badge_controversy/)
-- Aug 10 - [Defcon Response to Badge Issues](https://twitter.com/defcon/status/1822344607063302200)
-- Aug 10 - [Fobos SDR: High-Quality Radio for Hobbyists, Researchers and Professionals](https://www.hackster.io/news/fobos-sdr-is-a-high-quality-radio-for-hobbyists-researchers-and-professionals-80e25e00b1e1)
-- Aug 10 - [Interval parsing grammars for file format parsing (2023)](https://dl.acm.org/doi/10.1145/3591264)
+- Aug 10 - [Algorithmic price-fixing of rents is here](https://www.theatlantic.com/ideas/archive/2024/08/ai-price-algorithms-realpage/679405/)
+- Aug 10 - [US FDA approves nasal spray alternative to EpiPen for allergic reactions](https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-approves-first-nasal-spray-allergic-reactions-2024-08-09/)
+- Aug 10 - [AMD's Strix Point: Zen 5 Hits Mobile](https://chipsandcheese.com/2024/08/10/amds-strix-point-zen-5-hits-mobile/)
+- Aug 10 - [Stapler: I remade a 32 year old classic Macintosh app](https://blog.gingerbeardman.com/2024/08/10/stapler-i-remade-a-32-year-old-classic-macintosh-app/)
+- Aug 10 - [Things I Won't Work With: Dimethylcadmium (2013)](https://www.science.org/content/blog-post/things-i-won-t-work-dimethylcadmium)
 <!--END_SECTION:hn-->
 
 <!--
