@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 11 - [Why Your Data Stack Won't Last – and How to Build Data Infrastructure That Will](https://seattledataguy.substack.com/p/why-your-data-stack-wont-last-and)
-- Aug 11 - [After Breaking Free, Largest Iceberg Is Stuck Spinning in Circles](https://www.nytimes.com/2024/08/07/science/a23a-iceberg-antarctica-spinning.html)
-- Aug 11 - [Firefox Browser Ported to HaikuOS](https://discuss.haiku-os.org/t/progress-on-porting-firefox/13493?page=7)
-- Aug 11 - [Wren6991/Hazard3: 3-stage RV32IMACZb* processor with debug](https://github.com/Wren6991/Hazard3)
-- Aug 11 - [OpenStreetMap Is Turning 20](https://stevecoast.substack.com/p/the-days-are-long-but-the-years-are)
+- Aug 11 - [Finite State Machine Designer](https://madebyevan.com/fsm/)
+- Aug 11 - [The Coffee Machine Hiring Test](https://manuel.darcemont.fr/posts/coffee-machine-test/)
+- Aug 11 - [A high energy hadron collider on the Moon](https://iopscience.iop.org/article/10.1088/1367-2630/ac4921/meta)
+- Aug 11 - [Verso – web browser built on top of the Servo web engine](https://github.com/versotile-org/verso)
+- Aug 11 - [Show HN: Visualizing Chess Games](https://louisabraham.github.io/chessviz/)
 <!--END_SECTION:hn-->
 
 <!--
