@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 11 - [Finite State Machine Designer](https://madebyevan.com/fsm/)
-- Aug 11 - [The Coffee Machine Hiring Test](https://manuel.darcemont.fr/posts/coffee-machine-test/)
-- Aug 11 - [A high energy hadron collider on the Moon](https://iopscience.iop.org/article/10.1088/1367-2630/ac4921/meta)
-- Aug 11 - [Verso – web browser built on top of the Servo web engine](https://github.com/versotile-org/verso)
-- Aug 11 - [Show HN: Visualizing Chess Games](https://louisabraham.github.io/chessviz/)
+- Aug 11 - [Atlas: A Windows modification to optimize performance, privacy and usability](https://atlasos.net/)
+- Aug 11 - [The case for pole dancing in the Olympics](https://www.vox.com/culture/366257/pole-dancing-olympics-sport-sex-work-gymnastics-paris)
+- Aug 11 - [The 1986 Oldsmobile Incas Had the Wildest Dashboard You've Never Seen](https://www.thedrive.com/news/33416/the-1986-oldsmobile-incas-had-the-wildest-dashboard-youve-never-seen)
+- Aug 11 - [Introduction to Golang Preemption Mechanisms](https://unskilled.blog/posts/preemption-in-go-an-introduction/)
+- Aug 11 - [Fair Source: Sustainability with no customer risk](https://pepicrft.me/blog/2024/08/13/open-tuist)
 <!--END_SECTION:hn-->
 
 <!--
