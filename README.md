@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 10 - [Algorithmic price-fixing of rents is here](https://www.theatlantic.com/ideas/archive/2024/08/ai-price-algorithms-realpage/679405/)
-- Aug 10 - [US FDA approves nasal spray alternative to EpiPen for allergic reactions](https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-approves-first-nasal-spray-allergic-reactions-2024-08-09/)
-- Aug 10 - [AMD's Strix Point: Zen 5 Hits Mobile](https://chipsandcheese.com/2024/08/10/amds-strix-point-zen-5-hits-mobile/)
-- Aug 10 - [Stapler: I remade a 32 year old classic Macintosh app](https://blog.gingerbeardman.com/2024/08/10/stapler-i-remade-a-32-year-old-classic-macintosh-app/)
-- Aug 10 - [Things I Won't Work With: Dimethylcadmium (2013)](https://www.science.org/content/blog-post/things-i-won-t-work-dimethylcadmium)
+- Aug 11 - [Show HN: Rust GUI Library via Flutter](https://cjycode.com/posts/rust-ui-flutter/)
+- Aug 11 - [Shortwire: The smallest VPN that connects two computers via the Internet](https://github.com/mojyack/shortwire)
+- Aug 11 - [Betting on DSPy for Systems of LLMs](https://blog.isaacmiller.dev/posts/dspy)
+- Aug 11 - [ANTSDR: Low-cost SDR Alternatives for Ettus Research and Lime Microsystems](https://github.com/MicroPhase/antsdr-fw-patch)
+- Aug 11 - [RFC 9180: Hybrid Public Key Encryption](https://www.rfc-editor.org/rfc/rfc9180.html)
 <!--END_SECTION:hn-->
 
 <!--
