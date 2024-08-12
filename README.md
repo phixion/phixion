@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 12 - [Show HN: Copy-Paste from Webflow into Webstudio](https://webstudio.is/copy-paste)
-- Aug 12 - [How can Firefox create the best support for web apps on the desktop?](https://connect.mozilla.org/t5/discussions/how-can-firefox-create-the-best-support-for-web-apps-on-the/td-p/60561)
-- Aug 12 - [Comma.ai: Refactoring for Growth](https://blog.comma.ai/refactoring-for-growth/)
-- Aug 11 - [How to avoid losing items? Holding pens](https://blog.alexwendland.com/2024-07-07-holding-pens/)
-- Aug 11 - [Generating Simpson's Paradox with Z3](https://kevinlynagh.com/z3-simpsons-paradox/)
+- Aug 12 - [UN Cybercrime Convention to Overrule Bank Secrecy](https://www.therage.co/un-cybercrime-convention-bank-secrecy/)
+- Aug 12 - [GIL Become Optional in Python 3.13](https://geekpython.in/gil-become-optional-in-python)
+- Aug 12 - [Blitz: A lightweight, modular, extensible web renderer](https://github.com/DioxusLabs/blitz)
+- Aug 12 - [Show HN: Anycast+ – An AI-powered podcast app](https://anycast.website/)
+- Aug 12 - [Show HN: Simple Science – The Newest Science Explained Simply](https://simplescience.ai)
 <!--END_SECTION:hn-->
 
 <!--
