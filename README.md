@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 12 - [New data shows violent crime dropping sharply in major U.S. cities](https://www.axios.com/2024/08/12/violent-crime-harris-trump-election)
-- Aug 12 - [Ask HN: Why ChatGPT loves the word: "eager" so much?](https://news.ycombinator.com/item?id=41224909)
-- Aug 12 - [Apple's requirements are about to hit creators and fans on Patreon](https://news.patreon.com/articles/understanding-apple-requirements-for-patreon)
-- Aug 12 - [Keeping Secrets (2014)](https://stanfordmag.org/contents/keeping-secrets)
-- Aug 12 - [New research on why Cahokia Mounds civilization left](https://scitechdaily.com/900-years-ago-one-of-the-largest-civilizations-in-the-world-was-abandoned-archaeologists-have-now-discovered-new-clues/)
+- Aug 12 - [Federal Appeals Court Finds Geofence Warrants Are Categorically Unconstitutional](https://www.eff.org/deeplinks/2024/08/federal-appeals-court-finds-geofence-warrants-are-categorically-unconstitutional)
+- Aug 12 - [Working from home allowed him to be a more engaged dad. Now it's over](https://www.npr.org/2024/08/09/nx-s1-5046225/work-from-home-philadelphia-order)
+- Aug 12 - [Stop Relying on IF NOT EXISTS for Concurrent Index Creation in PostgreSQL](https://www.shayon.dev/post/2024/225/stop-relying-on-if-not-exists-for-concurrent-index-creation-in-postgresql/)
+- Aug 12 - [San Francisco seeks ban of software critics say is used to inflate rents](https://www.latimes.com/california/story/2024-08-01/san-francisco-seeks-ban-of-software-critics-say-is-used-to-artificially-inflate-rents)
+- Aug 12 - [Ask HN: What are some "toy" projects you used to learn NN hands-on?](https://news.ycombinator.com/item?id=41227515)
 <!--END_SECTION:hn-->
 
 <!--
