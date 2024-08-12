@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 11 - [Atlas: A Windows modification to optimize performance, privacy and usability](https://atlasos.net/)
-- Aug 11 - [The case for pole dancing in the Olympics](https://www.vox.com/culture/366257/pole-dancing-olympics-sport-sex-work-gymnastics-paris)
-- Aug 11 - [The 1986 Oldsmobile Incas Had the Wildest Dashboard You've Never Seen](https://www.thedrive.com/news/33416/the-1986-oldsmobile-incas-had-the-wildest-dashboard-youve-never-seen)
-- Aug 11 - [Introduction to Golang Preemption Mechanisms](https://unskilled.blog/posts/preemption-in-go-an-introduction/)
-- Aug 11 - [Fair Source: Sustainability with no customer risk](https://pepicrft.me/blog/2024/08/13/open-tuist)
+- Aug 12 - [Show HN: Copy-Paste from Webflow into Webstudio](https://webstudio.is/copy-paste)
+- Aug 12 - [How can Firefox create the best support for web apps on the desktop?](https://connect.mozilla.org/t5/discussions/how-can-firefox-create-the-best-support-for-web-apps-on-the/td-p/60561)
+- Aug 12 - [Comma.ai: Refactoring for Growth](https://blog.comma.ai/refactoring-for-growth/)
+- Aug 11 - [How to avoid losing items? Holding pens](https://blog.alexwendland.com/2024-07-07-holding-pens/)
+- Aug 11 - [Generating Simpson's Paradox with Z3](https://kevinlynagh.com/z3-simpsons-paradox/)
 <!--END_SECTION:hn-->
 
 <!--
