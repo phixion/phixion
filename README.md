@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 12 - [PermitFlow (YC W22) Is Hiring Senior/Staff+ Engineers and Designers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
-- Aug 12 - [Interstellar movie is implemented with Einstein's equations in 40k lines C++](https://twitter.com/bitfield/status/1020632237493112833)
-- Aug 12 - [How good can you be at Codenames without knowing any words?](https://danluu.com/codenames/)
-- Aug 12 - [Blitz: A lightweight, modular, extensible web renderer](https://github.com/DioxusLabs/blitz)
-- Aug 12 - [Show HN: Anycast+ – An AI-powered podcast app](https://anycast.website/)
+- Aug 12 - [New data shows violent crime dropping sharply in major U.S. cities](https://www.axios.com/2024/08/12/violent-crime-harris-trump-election)
+- Aug 12 - [Ask HN: Why ChatGPT loves the word: "eager" so much?](https://news.ycombinator.com/item?id=41224909)
+- Aug 12 - [Apple's requirements are about to hit creators and fans on Patreon](https://news.patreon.com/articles/understanding-apple-requirements-for-patreon)
+- Aug 12 - [Keeping Secrets (2014)](https://stanfordmag.org/contents/keeping-secrets)
+- Aug 12 - [New research on why Cahokia Mounds civilization left](https://scitechdaily.com/900-years-ago-one-of-the-largest-civilizations-in-the-world-was-abandoned-archaeologists-have-now-discovered-new-clues/)
 <!--END_SECTION:hn-->
 
 <!--
