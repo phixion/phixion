@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 13 - [Serena: An experimental operating system for 32bit Amiga computers](https://github.com/dplanitzer/Serena)
-- Aug 13 - [Supabase (YC S20) Is Hiring a Technical Product Manager](https://boards.greenhouse.io/supabase/jobs/5245988004)
-- Aug 13 - [The new PostgreSQL 17 make dist](http://peter.eisentraut.org/blog/2024/08/13/the-new-postgresql-17-make-dist)
-- Aug 13 - [Hacking the largest airline and hotel rewards platform (2023)](https://samcurry.net/points-com)
-- Aug 13 - [The Goths](https://www.the-hinternet.com/p/the-goths)
+- Aug 13 - [From object transition to RCE in the Chrome renderer](https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/)
+- Aug 13 - [You've got to hide your myopia away: John Lennon's contact lenses](https://onlinelibrary.wiley.com/doi/10.1111/opo.13351)
+- Aug 13 - [Launch HN: Trellis (YC W24) – AI-powered workflows for unstructured data](https://news.ycombinator.com/item?id=41236273)
+- Aug 13 - [An open-source flow battery kit](https://dualpower.supply/posts/rfb-kit-workshop/)
+- Aug 13 - [Launch HN: Shaped (YC W22) – AI-Powered Recommendations and Search](https://news.ycombinator.com/item?id=41235733)
 <!--END_SECTION:hn-->
 
 <!--
