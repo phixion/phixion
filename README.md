@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 13 - [Haiku Activity and Contract Report, July 2024](https://www.haiku-os.org/blog/waddlesplash/2024-08-12-haiku_activity_contract_report_july_2024/)
-- Aug 13 - [Gitlab is reportedly up for sale](https://www.developer-tech.com/news/gitlab-is-reportedly-up-for-sale/)
-- Aug 13 - [Brands should avoid the term 'AI'. It's turning off customers](https://www.cnn.com/2024/08/10/business/brands-avoid-term-customers/index.html)
-- Aug 13 - [The AI Scientist: Towards Automated Open-Ended Scientific Discovery](https://sakana.ai/ai-scientist/)
-- Aug 13 - [Mastering Osint: How to Find Information on Anyone](https://osintteam.blog/mastering-osint-how-to-find-information-on-anyone-680e4086f17f)
+- Aug 13 - [Supabase (YC S20) Is Hiring a Technical Product Manager](https://boards.greenhouse.io/supabase/jobs/5245988004)
+- Aug 13 - [Pokémon series voice star Rachael Lillis dies at 46](https://www.bbc.com/news/articles/c4ge9zdve9no)
+- Aug 13 - [The new PostgreSQL 17 make dist](http://peter.eisentraut.org/blog/2024/08/13/the-new-postgresql-17-make-dist)
+- Aug 13 - [Hacking the largest airline and hotel rewards platform (2023)](https://samcurry.net/points-com)
+- Aug 13 - [The Goths](https://www.the-hinternet.com/p/the-goths)
 <!--END_SECTION:hn-->
 
 <!--
