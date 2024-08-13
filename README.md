@@ -19,8 +19,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 13 - [Serena: An experimental operating system for 32bit Amiga computers](https://github.com/dplanitzer/Serena)
 - Aug 13 - [Supabase (YC S20) Is Hiring a Technical Product Manager](https://boards.greenhouse.io/supabase/jobs/5245988004)
-- Aug 13 - [Pokémon series voice star Rachael Lillis dies at 46](https://www.bbc.com/news/articles/c4ge9zdve9no)
 - Aug 13 - [The new PostgreSQL 17 make dist](http://peter.eisentraut.org/blog/2024/08/13/the-new-postgresql-17-make-dist)
 - Aug 13 - [Hacking the largest airline and hotel rewards platform (2023)](https://samcurry.net/points-com)
 - Aug 13 - [The Goths](https://www.the-hinternet.com/p/the-goths)
