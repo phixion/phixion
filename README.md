@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 12 - [Federal Appeals Court Finds Geofence Warrants Are Categorically Unconstitutional](https://www.eff.org/deeplinks/2024/08/federal-appeals-court-finds-geofence-warrants-are-categorically-unconstitutional)
-- Aug 12 - [Working from home allowed him to be a more engaged dad. Now it's over](https://www.npr.org/2024/08/09/nx-s1-5046225/work-from-home-philadelphia-order)
-- Aug 12 - [Stop Relying on IF NOT EXISTS for Concurrent Index Creation in PostgreSQL](https://www.shayon.dev/post/2024/225/stop-relying-on-if-not-exists-for-concurrent-index-creation-in-postgresql/)
-- Aug 12 - [San Francisco seeks ban of software critics say is used to inflate rents](https://www.latimes.com/california/story/2024-08-01/san-francisco-seeks-ban-of-software-critics-say-is-used-to-artificially-inflate-rents)
-- Aug 12 - [Ask HN: What are some "toy" projects you used to learn NN hands-on?](https://news.ycombinator.com/item?id=41227515)
+- Aug 12 - [Ask HN: Has anyone been able to contact Cloudflare Support in the last 5 days?](https://news.ycombinator.com/item?id=41230500)
+- Aug 12 - [Spice: Fine-grained parallelism with sub-nanosecond overhead in Zig](https://github.com/judofyr/spice)
+- Aug 12 - [Workers are stuck in place because everyone is too afraid of a recession to quit](https://boredbat.com/american-workers-are-stuck-in-place-because-everyone-is-too-afraid-of-a-recession-to-quit/#google_vignette)
+- Aug 12 - [Piecing together the epic of Gilgamesh with NLP](https://www.nytimes.com/2024/08/12/books/booksupdate/ai-ancient-tablets-gilgamesh.html)
+- Aug 12 - [Distributed == Relational](https://frest.substack.com/p/distributed-relational)
 <!--END_SECTION:hn-->
 
 <!--
