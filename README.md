@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 14 - [Show HN: If YouTube had actual channels](https://ytch.xyz)
-- Aug 14 - [Americans dying younger than their English-speaking peers worldwide](https://studyfinds.org/americans-dying-younger/)
-- Aug 14 - [Tmpmail: Temporary email right from your terminal written in POSIX sh](https://github.com/sdushantha/tmpmail)
-- Aug 14 - [Re-fixing Servo's event-loop](https://medium.com/@polyglot_factotum/re-fixing-servos-event-loop-e00bdf267385)
-- Aug 14 - [Circle Medical (YC S15) Is Hiring Ruby/Rails Engineers in Montreal](https://jobs.lever.co/circlemedical/980b39bf-38a3-4b0d-802c-442394b48bf2)
+- Aug 14 - [ISPs worry that killing FCC net neutrality rules will come back to haunt them](https://arstechnica.com/tech-policy/2024/08/isps-ask-supreme-court-to-kill-new-york-law-that-requires-15-broadband-plans/)
+- Aug 14 - [Personality Types and Hiring](https://vaishnavsunil.substack.com/p/you-seem-too-high-in-openness)
+- Aug 14 - [Tell HN: Server error (5xx) in Google Search Console may not be 5xx at all](https://news.ycombinator.com/item?id=41248542)
+- Aug 14 - [Baijiu Meets Binary: Why Moutai is Investing in Semiconductors](https://www.chinatalk.media/p/why-moutai-is-investing-in-semiconductors)
+- Aug 14 - [CoinTracker (YC W18) Is Hiring a Consumer Product Lead](https://jobs.ashbyhq.com/cointracker/83a181d0-f08c-44ff-8b8c-e0ad3b7a89a1?utm_source=hackernews)
 <!--END_SECTION:hn-->
 
 <!--
