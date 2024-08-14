@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 14 - [Grok-2 Beta Release](https://x.ai/blog/grok-2)
-- Aug 14 - [Disney seeks dismissal of wrongful death lawsuit citing waiver in Disney+ terms](https://wdwnt.com/2024/08/disney-dismissal-wrongful-death-lawsuit/)
-- Aug 14 - [Things I learned from teaching (2023)](https://claytonwramsey.com/blog/learned-from-teaching)
-- Aug 13 - [Ex-Kansas police chief who raided local newspaper criminally charged](https://www.theguardian.com/us-news/article/2024/aug/13/marion-county-police-newspaper-raid-charges)
-- Aug 13 - [Rust Atomics and Locks (2023)](https://marabos.nl/atomics/)
+- Aug 14 - [Circle Medical (YC S15) Is Hiring Ruby/Rails Engineers in Montreal](https://jobs.lever.co/circlemedical/980b39bf-38a3-4b0d-802c-442394b48bf2)
+- Aug 14 - [Larry Tesler, Inventor of Cut/Paste, Has Died](https://www.bbc.com/news/world-us-canada-51567695)
+- Aug 14 - [Show HN: Open-source LLM provider price comparison](https://github.com/arc53/llm-price-compass)
+- Aug 14 - [The Syndicated Actor Model](https://syndicate-lang.org/about/)
+- Aug 14 - [Examples of Great URL Design (2023)](https://blog.jim-nielsen.com/2023/examples-of-great-urls/)
 <!--END_SECTION:hn-->
 
 <!--
