@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Aug 13 - [Chris Leong - 27,096 breached accounts](https://haveibeenpwned.com/PwnedWebsites#ChrisLeong)
+- Aug 13 - [LDLC - 1,266,026 breached accounts](https://haveibeenpwned.com/PwnedWebsites#LDLC)
 - Aug 13 - [National Public Data (unverified) - 133,957,569 breached accounts](https://haveibeenpwned.com/PwnedWebsites#NationalPublicData)
 - Aug 11 - [Shadow - 543,295 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Shadow)
 - Aug 09 - [Not SOCRadar - 282,478,425 breached accounts](https://haveibeenpwned.com/PwnedWebsites#NotSOCRadar)
-- Aug 05 - [Shoe Zone - 46,140 breached accounts](https://haveibeenpwned.com/PwnedWebsites#ShoeZone)
-- Aug 02 - [LuLu - 2,796,835 breached accounts](https://haveibeenpwned.com/PwnedWebsites#LuLu)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 13 - [Google Pixel Watch 3: bigger, brighter, fine-tuned for fitness](https://blog.google/products/pixel/google-pixel-watch-3/)
-- Aug 13 - [All of Earth's water in a single sphere](https://www.usgs.gov/media/images/all-earths-water-a-single-sphere)
-- Aug 13 - [Go 1.23 Released](https://go.dev/doc/devel/release#go1.23.0)
-- Aug 13 - [Google Pixel 9 Pro](https://store.google.com/us/product/pixel_9_pro?hl=en-US)
-- Aug 13 - [Retell AI (YC W24) Is Hiring a Full Stack Engineer and a Support Engineer](https://news.ycombinator.com/item?id=41237200)
+- Aug 13 - [350M Tokens Don't Lie: Love and Hate in Hacker News](https://outerbounds.com/blog/hacker-news-sentiment/)
+- Aug 13 - [Ex-Kansas police chief who raided local newspaper criminally charged](https://www.theguardian.com/us-news/article/2024/aug/13/marion-county-police-newspaper-raid-charges)
+- Aug 13 - [DOJ may want to break up Google](https://www.zdnet.com/article/report-doj-may-want-to-break-up-google/)
+- Aug 13 - [US Air Force avoids PFAS water cleanup, citing Supreme Court's Chevron ruling](https://www.theguardian.com/us-news/article/2024/aug/12/air-force-epa-water-pfas-tucson)
+- Aug 13 - [Rust Atomics and Locks by Mara Bos](https://marabos.nl/atomics/)
 <!--END_SECTION:hn-->
 
 <!--
