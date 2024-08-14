@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 13 - [350M Tokens Don't Lie: Love and Hate in Hacker News](https://outerbounds.com/blog/hacker-news-sentiment/)
+- Aug 14 - [Grok-2 Beta Release](https://x.ai/blog/grok-2)
+- Aug 14 - [Disney seeks dismissal of wrongful death lawsuit citing waiver in Disney+ terms](https://wdwnt.com/2024/08/disney-dismissal-wrongful-death-lawsuit/)
+- Aug 14 - [Things I learned from teaching (2023)](https://claytonwramsey.com/blog/learned-from-teaching)
 - Aug 13 - [Ex-Kansas police chief who raided local newspaper criminally charged](https://www.theguardian.com/us-news/article/2024/aug/13/marion-county-police-newspaper-raid-charges)
-- Aug 13 - [DOJ may want to break up Google](https://www.zdnet.com/article/report-doj-may-want-to-break-up-google/)
-- Aug 13 - [US Air Force avoids PFAS water cleanup, citing Supreme Court's Chevron ruling](https://www.theguardian.com/us-news/article/2024/aug/12/air-force-epa-water-pfas-tucson)
-- Aug 13 - [Rust Atomics and Locks by Mara Bos](https://marabos.nl/atomics/)
+- Aug 13 - [Rust Atomics and Locks (2023)](https://marabos.nl/atomics/)
 <!--END_SECTION:hn-->
 
 <!--
