@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 14 - [Show HN: If YouTube had actual channels](https://ytch.xyz)
+- Aug 14 - [Americans dying younger than their English-speaking peers worldwide](https://studyfinds.org/americans-dying-younger/)
+- Aug 14 - [Tmpmail: Temporary email right from your terminal written in POSIX sh](https://github.com/sdushantha/tmpmail)
+- Aug 14 - [Re-fixing Servo's event-loop](https://medium.com/@polyglot_factotum/re-fixing-servos-event-loop-e00bdf267385)
 - Aug 14 - [Circle Medical (YC S15) Is Hiring Ruby/Rails Engineers in Montreal](https://jobs.lever.co/circlemedical/980b39bf-38a3-4b0d-802c-442394b48bf2)
-- Aug 14 - [Larry Tesler, Inventor of Cut/Paste, Has Died](https://www.bbc.com/news/world-us-canada-51567695)
-- Aug 14 - [Show HN: Open-source LLM provider price comparison](https://github.com/arc53/llm-price-compass)
-- Aug 14 - [The Syndicated Actor Model](https://syndicate-lang.org/about/)
-- Aug 14 - [Examples of Great URL Design (2023)](https://blog.jim-nielsen.com/2023/examples-of-great-urls/)
 <!--END_SECTION:hn-->
 
 <!--
