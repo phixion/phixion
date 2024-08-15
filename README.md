@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 15 - [Open-source utils for devs who don't like ads](https://github.com/jamdotdev/jam-dev-utilities)
-- Aug 15 - [Legalist (YC S16) Is Hiring a Skunk Works Hacker](https://news.ycombinator.com/item?id=41253691)
-- Aug 15 - [MIT researchers use large language models to flag problems in complex systems](https://news.mit.edu/2024/researchers-use-large-language-models-to-flag-problems-0814)
-- Aug 15 - [Exact Polygonal Filtering: Using Green's Theorem and Clipping for Anti-Aliasing](https://jonathanolson.net/exact-polygonal-filtering)
-- Aug 15 - [Victorian Artistic Printing (2009)](https://www.sheaff-ephemera.com/list/artistic_printing.html)
+- Aug 15 - [Ego (YC W24, Gaming) Is Hiring Community Manager/Social Media Marketer](https://www.ycombinator.com/companies/ego/jobs/rgl6DLy-community-manager-social-media-marketer-contract)
+- Aug 15 - [Show HN: High-precision date/time in SQLite](https://antonz.org/sqlean-time/)
+- Aug 15 - [Show HN: COBOL-REKT, a toolkit for analysing and reverse-engineering COBOL](https://github.com/avishek-sen-gupta/cobol-rekt)
+- Aug 15 - [Cryptographic Right Answers: Post Quantum Edition](https://www.latacora.com/blog/2024/07/29/crypto-right-answers-pq/)
+- Aug 15 - [Nomad, communicate off-grid mesh, forward secrecy and extreme privacy](https://github.com/markqvist/NomadNet)
 <!--END_SECTION:hn-->
 
 <!--
