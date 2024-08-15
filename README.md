@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 15 - [Private, Secure and Uncensorable Messaging over a LoRa Mesh (2022)](https://unsigned.io/private-messaging-over-lora/)
-- Aug 15 - [Gemlite: Towards Building Custom Low-Bit Fused CUDA Kernels](https://mobiusml.github.io/gemlite_blogpost/)
-- Aug 15 - [CockroachDB License Change](https://www.cockroachlabs.com/enterprise-license-update/)
-- Aug 15 - [YouTube Video to Tabs and Lyrics](https://github.com/JoinMusic/fish)
-- Aug 15 - [Galois Theory](https://golem.ph.utexas.edu/category/2024/08/galois_theory.html)
+- Aug 15 - [NeuroAI paper proposes "Embodied Turing Test" to evaluate AI (2023)](https://www.nature.com/articles/s41467-023-37180-x)
+- Aug 15 - [Looking Glass' new lineup includes a $300 phone-sized holographic display](https://techcrunch.com/2024/08/08/looking-glass-new-lineup-includes-a-300-phone-sized-holographic-display/)
+- Aug 15 - [It's the Land, Stupid: How the Homebuilder Cartel Drives High Housing Prices](https://www.thebignewsletter.com/p/its-the-land-stupid-how-the-homebuilder)
+- Aug 15 - [Artists Score Major Win in Copyright Case Against AI Art Generators](https://www.hollywoodreporter.com/business/business-news/artists-score-major-win-copyright-case-against-ai-art-generators-1235973601/)
+- Aug 15 - [Programmers Don't Read Books – But You Should (2008)](https://blog.codinghorror.com/programmers-dont-read-books-but-you-should/)
 <!--END_SECTION:hn-->
 
 <!--
