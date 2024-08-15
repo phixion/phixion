@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 15 - [No tax on tips: Why politicians love it, and economists don't](https://www.npr.org/2024/08/11/nx-s1-5071144/no-tax-on-tips-campaigns-trump-harris)
-- Aug 15 - [Show HN: An online 2D MMO game, written in Rust and JavaScript](https://polyfight.io/)
-- Aug 15 - [Nu-Klear Fallout Detector (ca. 1962-1968)](https://www.orau.org/health-physics-museum/collection/civil-defense/citizens/nuklear.html)
-- Aug 14 - [GitHub was down](https://github.com/)
-- Aug 14 - [Show HN: Browser-based XSS scanner](https://github.com/dshieble/playwright_xss_scanner)
+- Aug 15 - [Open-source utils for devs who don't like ads](https://github.com/jamdotdev/jam-dev-utilities)
+- Aug 15 - [Legalist (YC S16) Is Hiring a Skunk Works Hacker](https://news.ycombinator.com/item?id=41253691)
+- Aug 15 - [MIT researchers use large language models to flag problems in complex systems](https://news.mit.edu/2024/researchers-use-large-language-models-to-flag-problems-0814)
+- Aug 15 - [Exact Polygonal Filtering: Using Green's Theorem and Clipping for Anti-Aliasing](https://jonathanolson.net/exact-polygonal-filtering)
+- Aug 15 - [Victorian Artistic Printing (2009)](https://www.sheaff-ephemera.com/list/artistic_printing.html)
 <!--END_SECTION:hn-->
 
 <!--
