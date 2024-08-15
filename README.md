@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 14 - [International Study Detects Consciousness in Unresponsive Patients](https://www.massgeneralbrigham.org/en/about/newsroom/articles/consciousness-unresponsive-patients)
-- Aug 14 - [Patrol the pool with this Arduino Nano-powered DIY RC submarine](https://blog.arduino.cc/2024/08/03/patrol-the-pool-with-this-arduino-nano-powered-diy-rc-submarine/)
-- Aug 14 - [Algorithms through the lens of symbolic pattern matching](https://symbolica.io/posts/pattern_matching/)
-- Aug 14 - [CoinTracker (YC W18) Is Hiring a Consumer Product Lead](https://jobs.ashbyhq.com/cointracker/83a181d0-f08c-44ff-8b8c-e0ad3b7a89a1?utm_source=hackernews)
-- Aug 14 - [Inside the "3 billion people" national public data breach](https://www.troyhunt.com/inside-the-3-billion-people-national-public-data-breach/)
+- Aug 15 - [No tax on tips: Why politicians love it, and economists don't](https://www.npr.org/2024/08/11/nx-s1-5071144/no-tax-on-tips-campaigns-trump-harris)
+- Aug 15 - [Show HN: An online 2D MMO game, written in Rust and JavaScript](https://polyfight.io/)
+- Aug 15 - [Nu-Klear Fallout Detector (ca. 1962-1968)](https://www.orau.org/health-physics-museum/collection/civil-defense/citizens/nuklear.html)
+- Aug 14 - [GitHub was down](https://github.com/)
+- Aug 14 - [Show HN: Browser-based XSS scanner](https://github.com/dshieble/playwright_xss_scanner)
 <!--END_SECTION:hn-->
 
 <!--
