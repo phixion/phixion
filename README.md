@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 16 - [Apple's Hold on the App Store Is Loosening, at Least in Europe](https://www.wsj.com/tech/epic-games-apple-app-store-europe-44ceda50)
-- Aug 16 - [Low Earth Orbit Satellites Cause Environmental Harm Regulators Didnt Prepare For](https://www.techdirt.com/2024/08/16/report-low-earth-orbit-leo-satellite-systems-like-starlink-cause-environmental-harm-regulators-didnt-prepare-for/)
-- Aug 16 - [JPlag – Detecting Software Plagiarism](https://github.com/jplag/JPlag)
-- Aug 16 - [Show HN: I made an open-source personal dashboard builder](https://github.com/tryglow/glow)
-- Aug 16 - [Supporting game design with evolutionary algorithms](https://www.gamedeveloper.com/design/supporting-game-design-with-evolutionary-algorithms)
+- Aug 16 - [Family poisoned after using AI-generated mushroom identification book](https://old.reddit.com/r/LegalAdviceUK/comments/1etko9h/family_poisoned_after_using_aigenerated_mushroom/)
+- Aug 16 - [Web Platform Status](https://webstatus.dev/)
+- Aug 16 - [Backdoor discovered in several brands of RFID cards [pdf]](https://eprint.iacr.org/2024/1275.pdf)
+- Aug 16 - [A New Theory of Distraction (2015)](https://www.newyorker.com/culture/cultural-comment/a-new-theory-of-distraction)
+- Aug 16 - [Disrupting a covert Iranian influence operation](https://openai.com/index/disrupting-a-covert-iranian-influence-operation/)
 <!--END_SECTION:hn-->
 
 <!--
