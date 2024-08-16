@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 16 - [Cartoon Network's Website Was Deleted. That Should Scare You All](https://slate.com/technology/2024/08/david-zaslav-warner-bros-discovery-culture-deleting-movies-tv-shows.html)
+- Aug 16 - [PyScript: An open source platform for Python in the browser](https://pyscript.net/)
+- Aug 16 - [Former Google CEO Eric Schmidt's Leaked Stanford Talk](https://github.com/ociubotaru/transcripts/blob/main/Stanford_ECON295%E2%A7%B8CS323_I_2024_I_The_Age_of_AI%2C_Eric_Schmidt.txt)
 - Aug 16 - [CSS Grid Areas](https://ishadeed.com/article/css-grid-area/)
-- Aug 16 - [Ask HN: Why are AI generated images so shiny/glossy?](https://news.ycombinator.com/item?id=41262547)
-- Aug 16 - [Ditch Banks – Go with Money Market Funds and Treasuries](https://thefinancebuff.com/goodbye-banks-credit-unions.html)
+- Aug 16 - [Ditch banks – Go with money market funds and treasuries](https://thefinancebuff.com/goodbye-banks-credit-unions.html)
 - Aug 16 - [SREBench Competition](https://sreben.ch/)
 <!--END_SECTION:hn-->
 
