@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 15 - [NeuroAI paper proposes "Embodied Turing Test" to evaluate AI (2023)](https://www.nature.com/articles/s41467-023-37180-x)
-- Aug 15 - [Looking Glass' new lineup includes a $300 phone-sized holographic display](https://techcrunch.com/2024/08/08/looking-glass-new-lineup-includes-a-300-phone-sized-holographic-display/)
-- Aug 15 - [It's the Land, Stupid: How the Homebuilder Cartel Drives High Housing Prices](https://www.thebignewsletter.com/p/its-the-land-stupid-how-the-homebuilder)
-- Aug 15 - [Artists Score Major Win in Copyright Case Against AI Art Generators](https://www.hollywoodreporter.com/business/business-news/artists-score-major-win-copyright-case-against-ai-art-generators-1235973601/)
-- Aug 15 - [Programmers Don't Read Books – But You Should (2008)](https://blog.codinghorror.com/programmers-dont-read-books-but-you-should/)
+- Aug 15 - [Epic vs. Google judge says he'll 'tear the barriers down' on Google's app store](https://www.theverge.com/2024/8/14/24220491/epic-google-android-app-store-monopoly-remedies-hearing)
+- Aug 15 - [Reticulum Is Unstoppable Networks for the People](https://reticulum.network/)
+- Aug 15 - [RP2350 PicoDVI Preview](https://github.com/Wren6991/PicoDVI/commit/ca941baf37e3f04738b8e641896d85feb3430385)
+- Aug 15 - [Slow is smooth, smooth is fast: Navy SEALs' efficiency secret](https://www.navyseal.com/slow-is-smooth-smooth-is-fast/)
+- Aug 15 - [One man's quest to restore the first-ever Air Force One](https://www.atlasobscura.com/articles/first-air-force-one)
 <!--END_SECTION:hn-->
 
 <!--
