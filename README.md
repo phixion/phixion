@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 17 - [Xapian Is an Open Source Search Engine Library](https://xapian.org/)
-- Aug 17 - ['Kafkaesque': bank blocks cash transfer, saying it could be an AI scam](https://www.theguardian.com/money/article/2024/aug/17/bank-blocks-cash-transfer-ai-scam-fraud)
-- Aug 17 - [Lilygo T-Deck Plus is a $70 handheld with GPS, LoRa, and a BlackBerry keyboard](https://liliputing.com/lilygo-t-deck-plus-is-a-70-handheld-with-gps-lora-and-a-blackberry-keyboard/)
-- Aug 17 - [Google Removed Organic Maps from the Playstore](https://twitter.com/organicmapsapp/status/1824727403580596260)
-- Aug 17 - [X to pay €550k to employee fired for not replying to yes-or-resign ultimatum](https://fortune.com/europe/2024/08/14/x-ordered-to-pay-550000-to-irish-employee-fired-for-not-replying-to-elon-musk-yes-or-resign-extremely-hardcore-ultimatum/)
+- Aug 17 - [Running NixOS on Proxmox LXC](https://taoofmac.com/space/blog/2024/08/17/1530)
+- Aug 17 - [Ex-Google CEO: AI startups can steal IP and hire lawyers to 'clean up the mess'](https://www.theverge.com/2024/8/14/24220658/google-eric-schmidt-stanford-talk-ai-startups-openai)
+- Aug 17 - [China's manufacturers are going broke](https://www.economist.com/business/2024/08/08/chinas-manufacturers-are-going-broke)
+- Aug 17 - [Increasing Retention Without Increasing Study Time [pdf]](https://files.eric.ed.gov/fulltext/ED505647.pdf)
+- Aug 17 - [NSA tracks Google ads to find Tor users](https://www.cnet.com/news/privacy/nsa-tracks-google-ads-to-find-tor-users/)
 <!--END_SECTION:hn-->
 
 <!--
