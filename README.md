@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 17 - [There's an AI – No Junk, Just Gems](https://theresanai.com)
-- Aug 17 - [It is dangerously easy to hack the worlds phones](https://www.economist.com/science-and-technology/2024/05/17/it-is-dangerously-easy-to-hack-the-worlds-phones)
-- Aug 17 - [The spies in your home: How WiFi companies monitor your private life](https://proton.me/blog/wifi-surveillance)
-- Aug 17 - [Private Internet](https://kevincox.ca/2024/08/16/private-internet/)
-- Aug 17 - [Slackdump](https://github.com/rusq/slackdump)
+- Aug 17 - [Xapian Is an Open Source Search Engine Library](https://xapian.org/)
+- Aug 17 - ['Kafkaesque': bank blocks cash transfer, saying it could be an AI scam](https://www.theguardian.com/money/article/2024/aug/17/bank-blocks-cash-transfer-ai-scam-fraud)
+- Aug 17 - [Lilygo T-Deck Plus is a $70 handheld with GPS, LoRa, and a BlackBerry keyboard](https://liliputing.com/lilygo-t-deck-plus-is-a-70-handheld-with-gps-lora-and-a-blackberry-keyboard/)
+- Aug 17 - [Google Removed Organic Maps from the Playstore](https://twitter.com/organicmapsapp/status/1824727403580596260)
+- Aug 17 - [X to pay €550k to employee fired for not replying to yes-or-resign ultimatum](https://fortune.com/europe/2024/08/14/x-ordered-to-pay-550000-to-irish-employee-fired-for-not-replying-to-elon-musk-yes-or-resign-extremely-hardcore-ultimatum/)
 <!--END_SECTION:hn-->
 
 <!--
