@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 16 - [The last secret of the H.L. Hunley](https://mikedashhistory.com/2014/05/10/the-last-secret-of-the-h-l-hunley-still-working/)
-- Aug 16 - [Zngur: A C++/Rust interop tool](https://hkalbasi.github.io/zngur/)
-- Aug 16 - [Soft Deletes with Ecto and PostgreSQL](https://dashbit.co/blog/soft-deletes-with-ecto)
-- Aug 16 - [Synthesizing Abstract Transformers for Reduced-Product Domains](https://arxiv.org/abs/2408.04040)
-- Aug 16 - [ThreadPlotter – toolkit for punch needle embroidery with X-Y plotters (2020)](https://github.com/LiciaHe/threadPlotter)
+- Aug 17 - [There's an AI – No Junk, Just Gems](https://theresanai.com)
+- Aug 17 - [It is dangerously easy to hack the worlds phones](https://www.economist.com/science-and-technology/2024/05/17/it-is-dangerously-easy-to-hack-the-worlds-phones)
+- Aug 17 - [The spies in your home: How WiFi companies monitor your private life](https://proton.me/blog/wifi-surveillance)
+- Aug 17 - [Private Internet](https://kevincox.ca/2024/08/16/private-internet/)
+- Aug 17 - [Slackdump](https://github.com/rusq/slackdump)
 <!--END_SECTION:hn-->
 
 <!--
