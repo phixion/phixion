@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 17 - [Running NixOS on Proxmox LXC](https://taoofmac.com/space/blog/2024/08/17/1530)
-- Aug 17 - [Ex-Google CEO: AI startups can steal IP and hire lawyers to 'clean up the mess'](https://www.theverge.com/2024/8/14/24220658/google-eric-schmidt-stanford-talk-ai-startups-openai)
-- Aug 17 - [China's manufacturers are going broke](https://www.economist.com/business/2024/08/08/chinas-manufacturers-are-going-broke)
-- Aug 17 - [Increasing Retention Without Increasing Study Time [pdf]](https://files.eric.ed.gov/fulltext/ED505647.pdf)
-- Aug 17 - [NSA tracks Google ads to find Tor users](https://www.cnet.com/news/privacy/nsa-tracks-google-ads-to-find-tor-users/)
+- Aug 17 - [Are you smarter than a language model?](https://joel.tools/smarter/)
+- Aug 17 - [Ambulances called to Amazon's UK warehouses 1,400 times in five years](https://www.theguardian.com/technology/article/2024/aug/17/ambulances-called-to-amazons-uk-warehouses-1400-times-in-five-years)
+- Aug 17 - [Releasing everyone's SSN and the hacks used to acquire them](https://github.com/PatrickJS/everyone-ssn-usa)
+- Aug 17 - [mpv a free, open-source, and cross-platform media player](https://mpv.io/)
+- Aug 17 - [How to get from high school math to cutting-edge ML/AI](https://www.justinmath.com/how-to-get-from-high-school-math-to-cutting-edge-ml-ai/)
 <!--END_SECTION:hn-->
 
 <!--
