@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 16 - [Family poisoned after using AI-generated mushroom identification book](https://old.reddit.com/r/LegalAdviceUK/comments/1etko9h/family_poisoned_after_using_aigenerated_mushroom/)
-- Aug 16 - [Web Platform Status](https://webstatus.dev/)
-- Aug 16 - [Backdoor discovered in several brands of RFID cards [pdf]](https://eprint.iacr.org/2024/1275.pdf)
-- Aug 16 - [A New Theory of Distraction (2015)](https://www.newyorker.com/culture/cultural-comment/a-new-theory-of-distraction)
-- Aug 16 - [Disrupting a covert Iranian influence operation](https://openai.com/index/disrupting-a-covert-iranian-influence-operation/)
+- Aug 16 - [Synthesizing Abstract Transformers for Reduced-Product Domains](https://arxiv.org/abs/2408.04040)
+- Aug 16 - [ThreadPlotter – toolkit for punch needle embroidery with X-Y plotters (2020)](https://github.com/LiciaHe/threadPlotter)
+- Aug 16 - [Jerry (YC S17) Is Hiring Lead Product (New Product,B2B GenAI Platform)](https://jobs.ashbyhq.com/Jerry/d972d5ea-c671-49a9-b964-5fe829f075cf)
+- Aug 16 - [The Bare Minimum Beats: Panasonic's RD-9844 Rhythm Machine](https://nicole.express/2024/panasonic-the-hedgehog.html)
+- Aug 16 - [LLM and Bug Finding: Insights from a $2M Winning Team in the White House's AIxCC](https://team-atlanta.github.io/blog/post-atl/)
 <!--END_SECTION:hn-->
 
 <!--
