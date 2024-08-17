@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 16 - [The last secret of the H.L. Hunley](https://mikedashhistory.com/2014/05/10/the-last-secret-of-the-h-l-hunley-still-working/)
+- Aug 16 - [Zngur: A C++/Rust interop tool](https://hkalbasi.github.io/zngur/)
+- Aug 16 - [Soft Deletes with Ecto and PostgreSQL](https://dashbit.co/blog/soft-deletes-with-ecto)
 - Aug 16 - [Synthesizing Abstract Transformers for Reduced-Product Domains](https://arxiv.org/abs/2408.04040)
 - Aug 16 - [ThreadPlotter – toolkit for punch needle embroidery with X-Y plotters (2020)](https://github.com/LiciaHe/threadPlotter)
-- Aug 16 - [Jerry (YC S17) Is Hiring Lead Product (New Product,B2B GenAI Platform)](https://jobs.ashbyhq.com/Jerry/d972d5ea-c671-49a9-b964-5fe829f075cf)
-- Aug 16 - [The Bare Minimum Beats: Panasonic's RD-9844 Rhythm Machine](https://nicole.express/2024/panasonic-the-hedgehog.html)
-- Aug 16 - [LLM and Bug Finding: Insights from a $2M Winning Team in the White House's AIxCC](https://team-atlanta.github.io/blog/post-atl/)
 <!--END_SECTION:hn-->
 
 <!--
