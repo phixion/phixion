@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 17 - [Are you smarter than a language model?](https://joel.tools/smarter/)
-- Aug 17 - [Ambulances called to Amazon's UK warehouses 1,400 times in five years](https://www.theguardian.com/technology/article/2024/aug/17/ambulances-called-to-amazons-uk-warehouses-1400-times-in-five-years)
-- Aug 17 - [Releasing everyone's SSN and the hacks used to acquire them](https://github.com/PatrickJS/everyone-ssn-usa)
-- Aug 17 - [mpv a free, open-source, and cross-platform media player](https://mpv.io/)
-- Aug 17 - [How to get from high school math to cutting-edge ML/AI](https://www.justinmath.com/how-to-get-from-high-school-math-to-cutting-edge-ml-ai/)
+- Aug 17 - [Low level of Magnesium linked to disease-causing DNA damage](https://newatlas.com/health-wellbeing/nutrient-dna-damage/)
+- Aug 17 - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
+- Aug 17 - [FlightAware Leaks Customer Data (Name, Email Addresses and Passwords)](https://loyaltylobby.com/2024/08/16/flightaware-leaks-customer-data-name-email-addresses-passwords/)
+- Aug 17 - [Why do people believe true things?](https://www.conspicuouscognition.com/p/why-do-people-believe-true-things)
+- Aug 17 - [Mpv – A free, open-source, and cross-platform media player](https://mpv.io/)
 <!--END_SECTION:hn-->
 
 <!--
