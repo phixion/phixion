@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 18 - [Getting back into C programming for CP/M](https://kevinboone.me/cpm-c.html)
+- Aug 18 - [Discord runs Powershell on load to find Nvidia binaries](https://twitter.com/da_wamwoowam/status/1824872498363523537)
+- Aug 18 - [How the OCaml type checker works (2022)](https://okmij.org/ftp/ML/generalization.html)
+- Aug 18 - [UK launches its first Earth-imaging military satellite](https://www.theguardian.com/uk-news/article/2024/aug/17/uk-launches-its-first-earth-imaging-military-satellite)
 - Aug 18 - [Show HN: Grug Notes, a simple take on text notes](https://grugnotes.com)
-- Aug 18 - [Air Quality Monitors Compared: AirGradient One vs. Airthings](https://www.airgradient.com/blog/airgradient-vs-airthings/)
-- Aug 17 - [Build your own SQLite, Part 1: Listing tables](https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables)
-- Aug 17 - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
-- Aug 17 - [FlightAware Leaks Customer Data (Name, Email Addresses and Passwords)](https://loyaltylobby.com/2024/08/16/flightaware-leaks-customer-data-name-email-addresses-passwords/)
 <!--END_SECTION:hn-->
 
 <!--
