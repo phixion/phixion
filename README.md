@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 18 - [CSS adds vertical centering in 2024](https://build-your-own.org/blog/20240813_css_vertical_center/)
-- Aug 18 - [How did divers manage to blow up the Nord Stream pipeline? We went to find out](https://www.cbc.ca/news/investigates/nord-stream-pipeline-explosion-ukraine-diver-1.7296527)
-- Aug 18 - [17,000 AT&T workers across the Southeast strike over contract negotiations](https://www.npr.org/2024/08/17/nx-s1-5079614/att-workers-strike-contract-negotiations)
-- Aug 18 - [The Expert Mind [pdf]](https://personal.utdallas.edu/~otoole/CGS2301_S09/15_expert.pdf)
-- Aug 18 - [Biggest productivity killers in the engineering industry](https://newsletter.eng-leadership.com/p/biggest-productivity-killers-in-the)
+- Aug 18 - [Show HN: Transform Your PostgreSQL into a Powerful Job Queue](https://github.com/janbjorge/PgQueuer)
+- Aug 18 - [Claude just slashed the cost of building AI applications](https://www.indiehackers.com/post/claude-just-slashed-the-cost-of-building-ai-applications-lQHHc1S9NLLiPLJeyUWk)
+- Aug 18 - [Stop Using Git Ignore](https://eddiejaoude.substack.com/p/you-must-use-your-global-git-ignore)
+- Aug 18 - [Apple might be implementing a VPN censorship order in Brazil](https://status.proton.me/incidents/0frlp8crn7kx)
+- Aug 18 - [Algorithms We Develop Software By](https://grantslatton.com/software-pathfinding)
 <!--END_SECTION:hn-->
 
 <!--
