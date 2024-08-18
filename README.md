@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 18 - [Getting back into C programming for CP/M](https://kevinboone.me/cpm-c.html)
-- Aug 18 - [Discord runs Powershell on load to find Nvidia binaries](https://twitter.com/da_wamwoowam/status/1824872498363523537)
-- Aug 18 - [How the OCaml type checker works (2022)](https://okmij.org/ftp/ML/generalization.html)
-- Aug 18 - [UK launches its first Earth-imaging military satellite](https://www.theguardian.com/uk-news/article/2024/aug/17/uk-launches-its-first-earth-imaging-military-satellite)
-- Aug 18 - [Show HN: Grug Notes, a simple take on text notes](https://grugnotes.com)
+- Aug 18 - [CSS adds vertical centering in 2024](https://build-your-own.org/blog/20240813_css_vertical_center/)
+- Aug 18 - [How did divers manage to blow up the Nord Stream pipeline? We went to find out](https://www.cbc.ca/news/investigates/nord-stream-pipeline-explosion-ukraine-diver-1.7296527)
+- Aug 18 - [17,000 AT&T workers across the Southeast strike over contract negotiations](https://www.npr.org/2024/08/17/nx-s1-5079614/att-workers-strike-contract-negotiations)
+- Aug 18 - [The Expert Mind [pdf]](https://personal.utdallas.edu/~otoole/CGS2301_S09/15_expert.pdf)
+- Aug 18 - [Biggest productivity killers in the engineering industry](https://newsletter.eng-leadership.com/p/biggest-productivity-killers-in-the)
 <!--END_SECTION:hn-->
 
 <!--
