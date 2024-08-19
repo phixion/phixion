@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 19 - [The gigantic and unregulated power plants in the cloud](https://berthub.eu/articles/posts/the-gigantic-unregulated-power-plants-in-the-cloud/)
-- Aug 19 - [Wyoming mayoral candidate vows to let an AI bot run Cheyenne](https://www.washingtonpost.com/technology/2024/08/19/artificial-intelligence-mayor-cheyenne-vic/)
-- Aug 19 - [The bizarre siege behind Stockholm Syndrome](https://www.bbc.com/culture/article/20240815-stockholm-syndrome-and-the-art-of-hostage-negotiation)
-- Aug 19 - [Classifying all of the pdfs on the internet](https://snats.xyz/pages/articles/classifying_a_bunch_of_pdfs.html)
-- Aug 19 - [Bitmovin (YC S15) Is Hiring Software Engineers in Austria](https://bitmovin.com/careers)
+- Aug 19 - [The complete DDoS guide for founders](https://onboardbase.com/blog/ddos/)
+- Aug 19 - [13ft – A site similar to 12ft.io but is self hosted](https://github.com/wasi-master/13ft)
+- Aug 19 - [Netboot.xyz: your favorite operating systems in one place](https://netboot.xyz/)
+- Aug 19 - [Everyone's Life Is Weird](https://www.avabear.xyz/p/actually-everyones-life-is-weird)
+- Aug 19 - [Imgpls – An extension to load Imgur images directly](https://andadinosaur.com/launch-imgpls)
 <!--END_SECTION:hn-->
 
 <!--
