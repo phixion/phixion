@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 18 - [Google took three months to remove scam app that stole over $5M](https://www.theblock.co/post/311707/google-took-three-months-to-remove-scam-app-that-stole-over-5-million-in-crypto-lawsuit)
-- Aug 18 - [Mike Magee, founder of the Register, has died](https://fudzilla.com/news/59503-mike-mageek-is-dead)
-- Aug 18 - [Interposer to Fix the Symmetricom SyncServer S200 GPS Week Rollover Problem](https://tomverbeure.github.io/2024/08/18/Fixing-the-Symmetricom-S200-GPS-Week-Number-Rollover-Problem.html)
-- Aug 18 - [NASA acknowledges it cannot quantify risk of Starliner propulsion issues](https://arstechnica.com/space/2024/08/nasa-acknowledges-it-cannot-quantify-risk-of-starliner-propulsion-issues/)
-- Aug 18 - [The brain simulates actions and their consequences during REM sleep](https://www.biorxiv.org/content/10.1101/2024.08.13.607810v1)
+- Aug 19 - [Roblox Is Already the Biggest Game in the World. Why Can't It Make a Profit?](https://www.matthewball.co/all/roblox2024)
+- Aug 19 - [Eric Schmidt deleted Stanford interview](https://www.youtube.com/watch?v=3f6XM6_7pUE)
+- Aug 19 - [The Curious Case of QUEENCREEK](https://mobeigi.com/blog/security/malware/the-curious-case-of-queencreek/)
+- Aug 18 - [Can a Rust binary use incompatible versions of the same library?](https://github.com/brannondorsey/rust-incompatible-transitive-dependencies)
+- Aug 18 - [Markov chains are funnier than LLMs](https://emnudge.dev/blog/markov-chains-are-funny/)
 <!--END_SECTION:hn-->
 
 <!--
