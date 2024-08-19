@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 19 - [The gigantic and unregulated power plants in the cloud](https://berthub.eu/articles/posts/the-gigantic-unregulated-power-plants-in-the-cloud/)
+- Aug 19 - [Wyoming mayoral candidate vows to let an AI bot run Cheyenne](https://www.washingtonpost.com/technology/2024/08/19/artificial-intelligence-mayor-cheyenne-vic/)
+- Aug 19 - [The bizarre siege behind Stockholm Syndrome](https://www.bbc.com/culture/article/20240815-stockholm-syndrome-and-the-art-of-hostage-negotiation)
+- Aug 19 - [Classifying all of the pdfs on the internet](https://snats.xyz/pages/articles/classifying_a_bunch_of_pdfs.html)
 - Aug 19 - [Bitmovin (YC S15) Is Hiring Software Engineers in Austria](https://bitmovin.com/careers)
-- Aug 19 - [Parsing protobuf at 2+GB/s: how I learned to love tail calls in C (2021)](https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html)
-- Aug 19 - [Ask HN: Determine sound quality of a file, objectively?](https://news.ycombinator.com/item?id=41289087)
-- Aug 19 - [Archiving "The Famous Computer Cafe"](https://blog.archive.org/2024/08/19/archiving-the-famous-computer-cafe/)
-- Aug 19 - [The Charming, Eccentric, Blessed Life of Lee Maxwell](https://www.5280.com/the-charming-eccentric-blessed-life-of-lee-maxwell/)
 <!--END_SECTION:hn-->
 
 <!--
