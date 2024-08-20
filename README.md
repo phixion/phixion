@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 20 - [The anatomy of a 2AM mental breakdown](https://zarar.dev/anatomy-of-a-mental-breakdown/)
-- Aug 20 - [The world is relying on a flawed psychological test to fight racism (2017)](https://qz.com/1144504/the-world-is-relying-on-a-flawed-psychological-test-to-fight-racism)
-- Aug 20 - [The DA Says He's Innocent. He Might Spend Life in Prison Anyway](https://www.propublica.org/article/nashville-conviction-review-russell-maze-shaken-baby-syndrome)
-- Aug 20 - [Waiting Time Paradox or Why Is My Bus Always Late?](https://jakevdp.github.io/blog/2018/09/13/waiting-time-paradox/)
-- Aug 20 - [Show HN: Visual Sudoku Solver in the Browser (With OpenCV and TensorFlow)](https://sudoku.dotslashdan.com/)
+- Aug 20 - [Why Are Texas Interchanges So Tall?](https://practical.engineering/blog/2024/8/19/why-are-texas-interchanges-texas-so-tall)
+- Aug 20 - [Zed AI](https://zed.dev/blog/zed-ai)
+- Aug 20 - [Attackers can exfil data with Slack AI](https://promptarmor.substack.com/p/data-exfiltration-from-slack-ai-via)
+- Aug 20 - [Condé Nast Signs Deal with OpenAI](https://www.wired.com/story/conde-nast-openai-deal/)
+- Aug 20 - [Making Database Systems Usable](http://muratbuffalo.blogspot.com/2024/08/making-database-systems-usable.html)
 <!--END_SECTION:hn-->
 
 <!--
