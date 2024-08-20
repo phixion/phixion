@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 20 - [Nango (YC W23) Is Hiring a Product Engineer (Remote)](https://www.nango.dev/jobs)
-- Aug 20 - ["I've not repaid a penny of my £70K student loan since leaving Britain"](https://www.telegraph.co.uk/money/jobs/schools-universities/not-coming-back-britain-70000-expat-dodge-student-loans/)
-- Aug 20 - [Spider Uses a Light Show to Trick Eager Male Fireflies into Its Web](https://www.nytimes.com/2024/08/19/science/spider-firefly-flash-web.html)
-- Aug 20 - [Alpine: A Lightweight JavaScript Framework for Minimalist Front End Development](https://github.com/alpinejs/alpine)
-- Aug 20 - [Toasts Are Bad UX](https://maxschmitt.me/posts/toasts-bad-ux)
+- Aug 20 - [The anatomy of a 2AM mental breakdown](https://zarar.dev/anatomy-of-a-mental-breakdown/)
+- Aug 20 - [The world is relying on a flawed psychological test to fight racism (2017)](https://qz.com/1144504/the-world-is-relying-on-a-flawed-psychological-test-to-fight-racism)
+- Aug 20 - [The DA Says He's Innocent. He Might Spend Life in Prison Anyway](https://www.propublica.org/article/nashville-conviction-review-russell-maze-shaken-baby-syndrome)
+- Aug 20 - [Waiting Time Paradox or Why Is My Bus Always Late?](https://jakevdp.github.io/blog/2018/09/13/waiting-time-paradox/)
+- Aug 20 - [Show HN: Visual Sudoku Solver in the Browser (With OpenCV and TensorFlow)](https://sudoku.dotslashdan.com/)
 <!--END_SECTION:hn-->
 
 <!--
