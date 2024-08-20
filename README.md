@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 19 - [The complete DDoS guide for founders](https://onboardbase.com/blog/ddos/)
-- Aug 19 - [13ft – A site similar to 12ft.io but is self hosted](https://github.com/wasi-master/13ft)
-- Aug 19 - [Netboot.xyz: your favorite operating systems in one place](https://netboot.xyz/)
-- Aug 19 - [Everyone's Life Is Weird](https://www.avabear.xyz/p/actually-everyones-life-is-weird)
-- Aug 19 - [Imgpls – An extension to load Imgur images directly](https://andadinosaur.com/launch-imgpls)
+- Aug 19 - [The cruelty of teaching computing science (1988)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html)
+- Aug 19 - [The oral history of the Dinosaur Input Device](https://vfxblog.com/dinosaurinputdevice/)
+- Aug 19 - [AI companies are pivoting from creating gods to building products](https://www.aisnakeoil.com/p/ai-companies-are-pivoting-from-creating)
+- Aug 19 - [UpCodes (YC S17) is hiring remote SWEs, PMs to automate construction compliance](https://up.codes/careers?utm_source=HN)
+- Aug 19 - [Show HN: Robata, macOS window selector: put it on the grill](https://robata.app)
 <!--END_SECTION:hn-->
 
 <!--
