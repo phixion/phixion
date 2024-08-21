@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 21 - [U.S. Added 818,000 Fewer Jobs Than Reported Earlier](https://www.nytimes.com/2024/08/21/business/economy/us-jobs-economy.html)
+- Aug 21 - [Eli Lilly's weight loss drug slashes the risk of diabetes in long-term trial](https://www.cnbc.com/2024/08/20/eli-lilly-weight-loss-drug-cuts-risk-of-developing-diabetes-in-trial.html)
+- Aug 21 - [How to Build a 50K Ton Forging Press](https://www.construction-physics.com/p/how-to-build-a-50000-ton-forging)
 - Aug 21 - [Sieve (YC W22) Is hiring engineers to build AI [video] developer tools](https://www.sievedata.com/)
-- Aug 21 - [Rye and Uv: August Is Harvest Season for Python Packaging](https://lucumr.pocoo.org/2024/8/21/harvest-season/)
-- Aug 21 - [ScreenPlay Is an Open Source Live-Wallpaper App for Windows and OS X](https://screen-play.app/)
-- Aug 21 - [PS4 Emulator for Windows,Linux,macOS](https://github.com/shadps4-emu/shadPS4)
-- Aug 21 - [Being on The Semantic Web is easy, and, frankly, well worth the bother](https://csvbase.com/blog/13)
+- Aug 21 - [Electrostatic motors reach the macro scale](https://spectrum.ieee.org/electrostatic-motor)
 <!--END_SECTION:hn-->
 
 <!--
