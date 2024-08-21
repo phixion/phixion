@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 21 - [U.S. Added 818,000 Fewer Jobs Than Reported Earlier](https://www.nytimes.com/2024/08/21/business/economy/us-jobs-economy.html)
-- Aug 21 - [Eli Lilly's weight loss drug slashes the risk of diabetes in long-term trial](https://www.cnbc.com/2024/08/20/eli-lilly-weight-loss-drug-cuts-risk-of-developing-diabetes-in-trial.html)
-- Aug 21 - [How to Build a 50K Ton Forging Press](https://www.construction-physics.com/p/how-to-build-a-50000-ton-forging)
-- Aug 21 - [Sieve (YC W22) Is hiring engineers to build AI [video] developer tools](https://www.sievedata.com/)
-- Aug 21 - [Electrostatic motors reach the macro scale](https://spectrum.ieee.org/electrostatic-motor)
+- Aug 21 - [New Phishing Technique Bypasses Security on iOS and Android to Steal Bank Creds](https://www.securityweek.com/new-phishing-technique-bypasses-security-on-ios-and-android-to-steal-bank-credentials/)
+- Aug 21 - [Major Backdoor in RFID Cards Allows Instant Cloning](https://www.securityweek.com/major-backdoor-in-millions-of-rfid-cards-allows-instant-cloning/)
+- Aug 21 - [Linux desktop market share climbs to 4.45%](https://ostechnix.com/linux-market-share-july-2024-report/)
+- Aug 21 - [Immutable Data Structures in Qdrant](https://qdrant.tech/articles/immutable-data-structures/)
+- Aug 21 - [Turnstyle – An esoteric, graphical functional language](https://jaspervdj.be/posts/2024-08-21-turnstyle.html)
 <!--END_SECTION:hn-->
 
 <!--
