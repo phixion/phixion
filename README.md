@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 21 - [Sieve (YC W22) Is hiring engineers to build AI [video] developer tools](https://www.sievedata.com/)
+- Aug 21 - [Rye and Uv: August Is Harvest Season for Python Packaging](https://lucumr.pocoo.org/2024/8/21/harvest-season/)
+- Aug 21 - [ScreenPlay Is an Open Source Live-Wallpaper App for Windows and OS X](https://screen-play.app/)
 - Aug 21 - [PS4 Emulator for Windows,Linux,macOS](https://github.com/shadps4-emu/shadPS4)
-- Aug 21 - [Australia approves 17-20GW solar power link to Singapore](https://www.pv-tech.org/australian-government-approves-aapowerlink-project-to-export-solar-to-singapore/)
 - Aug 21 - [Being on The Semantic Web is easy, and, frankly, well worth the bother](https://csvbase.com/blog/13)
-- Aug 21 - [How the SNES Graphics System Works](https://fabiensanglard.net/snes_ppus_how/)
-- Aug 21 - [How I started blogging (2024)](https://roarepally.com/blog/why-I-blog)
 <!--END_SECTION:hn-->
 
 <!--
