@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 20 - [Why Are Texas Interchanges So Tall?](https://practical.engineering/blog/2024/8/19/why-are-texas-interchanges-texas-so-tall)
+- Aug 20 - [US Judge Strikes Down Ban on Worker 'Noncompete' Agreements](https://www.reuters.com/legal/us-judge-strikes-down-biden-administration-ban-worker-noncompete-agreements-2024-08-20/)
+- Aug 20 - [Emerge Tools (YC W21) is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
+- Aug 20 - [MIT leaders describe the experience of not renewing Elsevier contract](https://sparcopen.org/our-work/big-deal-knowledge-base/unbundling-profiles/mit-libraries/)
+- Aug 20 - [Why are Texas interchanges so tall?](https://practical.engineering/blog/2024/8/19/why-are-texas-interchanges-texas-so-tall)
 - Aug 20 - [Zed AI](https://zed.dev/blog/zed-ai)
-- Aug 20 - [Attackers can exfil data with Slack AI](https://promptarmor.substack.com/p/data-exfiltration-from-slack-ai-via)
-- Aug 20 - [Condé Nast Signs Deal with OpenAI](https://www.wired.com/story/conde-nast-openai-deal/)
-- Aug 20 - [Making Database Systems Usable](http://muratbuffalo.blogspot.com/2024/08/making-database-systems-usable.html)
 <!--END_SECTION:hn-->
 
 <!--
