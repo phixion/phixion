@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 20 - [US Judge Strikes Down Ban on Worker 'Noncompete' Agreements](https://www.reuters.com/legal/us-judge-strikes-down-biden-administration-ban-worker-noncompete-agreements-2024-08-20/)
+- Aug 21 - [Ares Industries – Building low-cost cruise missiles](https://www.ycombinator.com/launches/Ler-ares-industries-building-low-cost-cruise-missiles)
+- Aug 21 - [US judge throws out FTC's ban on non-compete agreements](https://www.ft.com/content/56770a82-3c3f-4739-9895-e2f97b6202b4)
+- Aug 20 - [Show HN: A simple and powerful RSS reader for the web](https://www.feedbomb.app)
+- Aug 20 - [Plasmo – a framework for building modern Chrome extensions](https://github.com/PlasmoHQ/plasmo)
 - Aug 20 - [Emerge Tools (YC W21) is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
-- Aug 20 - [MIT leaders describe the experience of not renewing Elsevier contract](https://sparcopen.org/our-work/big-deal-knowledge-base/unbundling-profiles/mit-libraries/)
-- Aug 20 - [Why are Texas interchanges so tall?](https://practical.engineering/blog/2024/8/19/why-are-texas-interchanges-texas-so-tall)
-- Aug 20 - [Zed AI](https://zed.dev/blog/zed-ai)
 <!--END_SECTION:hn-->
 
 <!--
