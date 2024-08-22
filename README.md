@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 21 - [The Euphemism Treadmill](https://languagehat.com/mcwhorter-on-the-euphemism-treadmill/)
+- Aug 22 - [Bum Farto](https://en.wikipedia.org/wiki/Bum_Farto)
+- Aug 21 - [SIMD Matters: Graph Coloring](https://box2d.org/posts/2024/08/simd-matters/)
+- Aug 21 - [I'm Tired of Fixing Customers' AI Generated Code](https://medium.com/@thetateman/im-tired-of-fixing-customers-ai-generated-code-94816bde4ceb)
+- Aug 21 - [Euphemisms are best changed frequently (2016)](https://aeon.co/essays/euphemisms-are-like-underwear-best-changed-frequently)
 - Aug 21 - [Google Play will no longer pay to discover vulnerabilities in Android apps](https://www.androidauthority.com/google-play-security-reward-program-winding-down-3472376/)
-- Aug 21 - [Crypto 'pig butchering' scam wrecks bank, sends ex-CEO to prison for 24 years](https://www.cnbc.com/2024/08/21/cryptocurrency-shan-hanes-pig-butchering-scam.html)
-- Aug 21 - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=41314161)
-- Aug 21 - [Do low-level optimizations matter? Faster quicksort with cmov (2020)](http://cantrip.org/sortfast.html)
 <!--END_SECTION:hn-->
 
 <!--
