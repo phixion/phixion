@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 23 - [Fluid Simulation and Web Assembly](https://ehayes.page/posts/fluid/)
-- Aug 23 - [Surfer: Centralize all your personal data from online platforms](https://github.com/CEREBRUS-MAXIMUS/Surfer-Data)
-- Aug 23 - [Cursor Has Raised $60M](https://www.cursor.com/blog/series-a)
-- Aug 23 - [Zettlr: Note-Taking and Publishing with Markdown](https://lwn.net/Articles/984502/)
-- Aug 23 - [Show HN: Kardinal – Building light-weight Kubernetes dev ephemeral environments](https://kardinal.dev/)
+- Aug 23 - [Government report proves that we need to liberate the Postcode Address File](https://takes.jamesomalley.co.uk/p/secret-paf-report)
+- Aug 23 - [Confessions of a Theoretical Physicist](https://nautil.us/confessions-of-a-theoretical-physicist-787199/)
+- Aug 23 - [Microsoft's controversial Windows Recall feature is coming back in October](https://www.ghacks.net/2024/08/22/microsofts-controversial-windows-recall-feature-is-coming-back-in-october/)
+- Aug 23 - [Hacker Purity Test (1989)](http://www.armory.com/tests/hacker.html)
+- Aug 23 - [Leveraging AI for efficient incident response](https://engineering.fb.com/2024/06/24/data-infrastructure/leveraging-ai-for-efficient-incident-response/)
 <!--END_SECTION:hn-->
 
 <!--
