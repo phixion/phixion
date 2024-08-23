@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 23 - [$9/Hour Software Engineers Cost Boeing Billions [2019]](https://medium.com/javascript-scene/why-cutting-costs-is-expensive-how-9-hour-software-engineers-cost-boeing-billions-b76dbe571957)
+- Aug 23 - [Facebook Helped the FBI Exploit Vulnerability in a Secure Linux Distro](https://gizmodo.com/report-facebook-helped-the-fbi-exploit-vulnerability-i-1843988377)
+- Aug 23 - [A Symbol for the Fediverse ⁂](https://symbol.fediverse.info/)
 - Aug 23 - [Government report proves that we need to liberate the Postcode Address File](https://takes.jamesomalley.co.uk/p/secret-paf-report)
 - Aug 23 - [Confessions of a Theoretical Physicist](https://nautil.us/confessions-of-a-theoretical-physicist-787199/)
-- Aug 23 - [Microsoft's controversial Windows Recall feature is coming back in October](https://www.ghacks.net/2024/08/22/microsofts-controversial-windows-recall-feature-is-coming-back-in-october/)
-- Aug 23 - [Hacker Purity Test (1989)](http://www.armory.com/tests/hacker.html)
-- Aug 23 - [Leveraging AI for efficient incident response](https://engineering.fb.com/2024/06/24/data-infrastructure/leveraging-ai-for-efficient-incident-response/)
 <!--END_SECTION:hn-->
 
 <!--
