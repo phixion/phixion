@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 22 - [What does it mean to be a programming language, anyhow? (2021) [pdf]](https://dl.acm.org/doi/pdf/10.1145/3480947)
-- Aug 22 - [Climate policies that achieved major emission reductions](https://www.science.org/doi/10.1126/science.adl6547)
-- Aug 22 - [Python's Preprocessor](https://pydong.org/posts/PythonsPreprocessor/)
-- Aug 22 - [Launch HN: AnswerGrid (YC S24) – Web research tool for lead generation](https://news.ycombinator.com/item?id=41322730)
-- Aug 22 - [Faster Inverse BWT (2021)](http://cbloomrants.blogspot.com/2021/03/faster-inverse-bwt.html)
+- Aug 23 - [Fluid Simulation and Web Assembly](https://ehayes.page/posts/fluid/)
+- Aug 23 - [Surfer: Centralize all your personal data from online platforms](https://github.com/CEREBRUS-MAXIMUS/Surfer-Data)
+- Aug 23 - [Cursor Has Raised $60M](https://www.cursor.com/blog/series-a)
+- Aug 23 - [Zettlr: Note-Taking and Publishing with Markdown](https://lwn.net/Articles/984502/)
+- Aug 23 - [Show HN: Kardinal – Building light-weight Kubernetes dev ephemeral environments](https://kardinal.dev/)
 <!--END_SECTION:hn-->
 
 <!--
