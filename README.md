@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 22 - [Python's Preprocessor – Pydong](https://pydong.org/posts/PythonsPreprocessor/)
+- Aug 22 - [What does it mean to be a programming language, anyhow? (2021) [pdf]](https://dl.acm.org/doi/pdf/10.1145/3480947)
+- Aug 22 - [Climate policies that achieved major emission reductions](https://www.science.org/doi/10.1126/science.adl6547)
+- Aug 22 - [Python's Preprocessor](https://pydong.org/posts/PythonsPreprocessor/)
 - Aug 22 - [Launch HN: AnswerGrid (YC S24) – Web research tool for lead generation](https://news.ycombinator.com/item?id=41322730)
-- Aug 22 - [Faster Inverse BWT](http://cbloomrants.blogspot.com/2021/03/faster-inverse-bwt.html)
-- Aug 22 - [Show HN: InstantDB – A Modern Firebase](https://github.com/instantdb/instant)
-- Aug 22 - [Vooma (YC W23) is hiring a growth lead](https://www.ycombinator.com/companies/vooma/jobs/ATEQ9kQ-growth-lead)
+- Aug 22 - [Faster Inverse BWT (2021)](http://cbloomrants.blogspot.com/2021/03/faster-inverse-bwt.html)
 <!--END_SECTION:hn-->
 
 <!--
