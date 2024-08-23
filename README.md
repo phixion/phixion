@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 23 - [$9/Hour Software Engineers Cost Boeing Billions [2019]](https://medium.com/javascript-scene/why-cutting-costs-is-expensive-how-9-hour-software-engineers-cost-boeing-billions-b76dbe571957)
-- Aug 23 - [Facebook Helped the FBI Exploit Vulnerability in a Secure Linux Distro](https://gizmodo.com/report-facebook-helped-the-fbi-exploit-vulnerability-i-1843988377)
-- Aug 23 - [A Symbol for the Fediverse ⁂](https://symbol.fediverse.info/)
-- Aug 23 - [Government report proves that we need to liberate the Postcode Address File](https://takes.jamesomalley.co.uk/p/secret-paf-report)
-- Aug 23 - [Confessions of a Theoretical Physicist](https://nautil.us/confessions-of-a-theoretical-physicist-787199/)
+- Aug 23 - [DOJ Sues RealPage for Algorithmic Pricing Scheme That Harms Renters](https://www.justice.gov/opa/pr/justice-department-sues-realpage-algorithmic-pricing-scheme-harms-millions-american-renters)
+- Aug 23 - [Launch HN: Moonglow (YC S24) – Serverless Jupyter Notebooks](https://news.ycombinator.com/item?id=41329750)
+- Aug 23 - [SurrealEngine: Open-source reimplementation of Unreal Engine with playable UT99](https://github.com/dpjudas/SurrealEngine)
+- Aug 23 - [Valve New Employee Handbook (2012) [pdf]](https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf)
+- Aug 23 - [Show HN: AI Tool Is Now Supporting React, Angular, CSS, Svelte, Vue](https://www.webcrumbs.org/frontend-ai)
 <!--END_SECTION:hn-->
 
 <!--
