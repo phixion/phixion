@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 24 - [Death Cafe](https://deathcafe.com/what/)
-- Aug 24 - [Pipe Syntax in SQL](https://research.google/pubs/sql-has-problems-we-can-fix-them-pipe-syntax-in-sql/)
-- Aug 24 - [Small Strings in Rust: smolstr vs. smartstring](https://fasterthanli.me/articles/small-strings-in-rust)
-- Aug 24 - [You Are Not Dumb, You Just Lack the Prerequisites](https://lelouch.dev/blog/you-are-probably-not-dumb/)
-- Aug 24 - [Substack (YC W18) Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
+- Aug 24 - [Show HN: High school robotics code/CAD/design binder release](https://www.chiefdelphi.com/t/team-341-miss-daisy-2024-cad-code-and-design-binder-release/467546)
+- Aug 24 - [NASA Decides to Bring Starliner Spacecraft Back to Earth Without Crew](https://www.nasa.gov/news-release/nasa-decides-to-bring-starliner-spacecraft-back-to-earth-without-crew/)
+- Aug 24 - [Golang Interpreter Written in PHP](https://github.com/tuqqu/go-php)
+- Aug 24 - [NASA announces Boeing Starliner crew will return on SpaceX Crew-9](https://twitter.com/NASA/status/1827393397939634503)
+- Aug 24 - [OneText (YC W23) Is Hiring a Chief of Staff](https://www.ycombinator.com/companies/onetext/jobs/B1RIFNb-founding-chief-of-staff)
 <!--END_SECTION:hn-->
 
 <!--
