@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 24 - [Death Cafe](https://deathcafe.com/what/)
+- Aug 24 - [Pipe Syntax in SQL](https://research.google/pubs/sql-has-problems-we-can-fix-them-pipe-syntax-in-sql/)
+- Aug 24 - [Small Strings in Rust: smolstr vs. smartstring](https://fasterthanli.me/articles/small-strings-in-rust)
+- Aug 24 - [You Are Not Dumb, You Just Lack the Prerequisites](https://lelouch.dev/blog/you-are-probably-not-dumb/)
 - Aug 24 - [Substack (YC W18) Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
-- Aug 24 - [They don't make 'em like that any more: Borland Turbo Pascal 7](https://kevinboone.me/tpwin.html)
-- Aug 24 - [Hot Page – a graphical site builder](https://hot.page/)
-- Aug 24 - [Sabotage Confirmed at Norwegian Air Base](https://www.twz.com/air/sabotage-confirmed-at-norwegian-air-base)
-- Aug 24 - [Observe HN: ChatGPT Fills in My Memory](https://news.ycombinator.com/item?id=41337271)
 <!--END_SECTION:hn-->
 
 <!--
