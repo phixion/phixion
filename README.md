@@ -19,9 +19,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 24 - [Tesla has taken down 2016 release noting full self driving hardware capability](https://twitter.com/AdrianSumBond/status/1827105729859473773)
-- Aug 24 - [iPhone 16 could let you shoot in JPEG-XL](https://www.idownloadblog.com/2024/08/22/iphone-16-jpeg-xl-rumor/)
-- Aug 24 - [An Overview of Datalog](https://clojure.github.io/clojure-contrib/doc/datalog.html)
+- Aug 24 - [Ircpipe – Netcat for IRC](https://gir.st/ircpipe.html)
+- Aug 24 - [An Overview of Datalog (2010)](https://clojure.github.io/clojure-contrib/doc/datalog.html)
+- Aug 24 - [Makefiles for Web Work (2022)](https://rosszurowski.com/log/2022/makefiles)
 - Aug 23 - [Did you lose your AirPods?](https://alexyancey.com/lost-airpods/)
 - Aug 23 - [Show HN: Omi – Open-source AI wearable for capturing conversations](https://github.com/BasedHardware/Omi)
 <!--END_SECTION:hn-->
