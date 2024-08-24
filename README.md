@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 24 - [Tesla has taken down 2016 release noting full self driving hardware capability](https://twitter.com/AdrianSumBond/status/1827105729859473773)
+- Aug 24 - [iPhone 16 could let you shoot in JPEG-XL](https://www.idownloadblog.com/2024/08/22/iphone-16-jpeg-xl-rumor/)
+- Aug 24 - [An Overview of Datalog](https://clojure.github.io/clojure-contrib/doc/datalog.html)
 - Aug 23 - [Did you lose your AirPods?](https://alexyancey.com/lost-airpods/)
-- Aug 23 - [Open-Source AI necklace like Friend](https://github.com/BasedHardware/Omi)
-- Aug 23 - [Lactate helps cancer cells resist chemotherapy](https://www.nature.com/articles/d41586-024-02731-9)
-- Aug 23 - [Show HN: Hacker News for film buffs](https://www.newyorkdailyinquirer.com/)
-- Aug 23 - [Canon R5 Mk Ii Drops Pixel Shift High Res – Is Canon Missing the AI Big Picture?](https://kguttag.com/2024/08/22/canon-r5-mk-ii-drops-pixel-shift-high-res-is-canon-missing-the-ai-big-picture/)
+- Aug 23 - [Show HN: Omi – Open-source AI wearable for capturing conversations](https://github.com/BasedHardware/Omi)
 <!--END_SECTION:hn-->
 
 <!--
