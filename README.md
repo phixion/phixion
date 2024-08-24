@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 24 - [Ircpipe – Netcat for IRC](https://gir.st/ircpipe.html)
-- Aug 24 - [An Overview of Datalog (2010)](https://clojure.github.io/clojure-contrib/doc/datalog.html)
-- Aug 24 - [Makefiles for Web Work (2022)](https://rosszurowski.com/log/2022/makefiles)
-- Aug 23 - [Did you lose your AirPods?](https://alexyancey.com/lost-airpods/)
-- Aug 23 - [Show HN: Omi – Open-source AI wearable for capturing conversations](https://github.com/BasedHardware/Omi)
+- Aug 24 - [Substack (YC W18) Is Hiring Machine Learning Engineers](https://grnh.se/d034f1ba5us)
+- Aug 24 - [They don't make 'em like that any more: Borland Turbo Pascal 7](https://kevinboone.me/tpwin.html)
+- Aug 24 - [Hot Page – a graphical site builder](https://hot.page/)
+- Aug 24 - [Sabotage Confirmed at Norwegian Air Base](https://www.twz.com/air/sabotage-confirmed-at-norwegian-air-base)
+- Aug 24 - [Observe HN: ChatGPT Fills in My Memory](https://news.ycombinator.com/item?id=41337271)
 <!--END_SECTION:hn-->
 
 <!--
