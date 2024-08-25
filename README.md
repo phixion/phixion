@@ -19,8 +19,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 25 - [European iPhones are more fun now](https://www.theverge.com/2024/8/24/24226946/iphone-eu-regulation-app-stores-fortnite)
-- Aug 25 - [Neurotechnology Numbers Worth Knowing](https://milan.cvitkovic.net/writing/neurotechnology_numbers_worth_knowing/)
+- Aug 25 - [MavenGate gets it all wrong and hurts open source](http://day-to-day-stuff.blogspot.com/2024/08/mavengate-gets-it-all-wrong-and-hurts.html)
+- Aug 25 - [Neurotechnology numbers worth knowing (2022)](https://milan.cvitkovic.net/writing/neurotechnology_numbers_worth_knowing/)
 - Aug 25 - [Ruby's official documentation just got a new look](https://docs.ruby-lang.org/en/master/)
 - Aug 25 - [Transferring energy from nitrogen to argon enables 2-way cascaded lasing in air](https://phys.org/news/2024-08-mechanism-energy-nitrogen-argon-enables.html)
 - Aug 25 - [Anthropic Claude 3.5 can create icalendar files, so I did this](https://gregsramblings.com/stupid-but-useful-ai-tricks-creating-calendar-entries-from-an-image-using-anthropic-claude-35)
