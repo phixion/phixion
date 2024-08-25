@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 25 - [Apple Explores Robotics in Search of Life Beyond the iPhone](https://www.bloomberg.com/news/newsletters/2024-08-25/apple-plans-tabletop-robot-while-exploring-mobile-bots-and-humanoid-machines-m09kawex)
-- Aug 25 - [Arrest of Pavel Durov, Telegram CEO, charges of terrorism, fraud, child porn](https://decripto.org/en/arrest-of-pavel-durov-charges-of-terrorism-fraud-and-child-pornography-he-did-not-cooperate-with-the-authorities-he-risks-20-years-in-prison/)
-- Aug 25 - [Study: Air purifier use at daycare centres cut kids' sick days by a third](https://yle.fi/a/74-20062381)
-- Aug 25 - [Strandbeest](https://www.strandbeest.com/)
-- Aug 25 - [Sticker on caption phone says that using the captions can be illegal. Why?](https://law.stackexchange.com/questions/104642/sticker-on-caption-phone-says-that-using-the-captions-can-be-illegal-why)
+- Aug 25 - [Is Telegram really an encrypted messaging app?](https://blog.cryptographyengineering.com/2024/08/25/telegram-is-not-really-an-encrypted-messaging-app/)
+- Aug 25 - [Telegram: We abide by EU laws, including the Digital Services Act](https://twitter.com/telegram/status/1827787345367834772)
+- Aug 25 - [Los Angeles is in a 4-year sprint to deliver a car-free 2028 Olympics](https://theconversation.com/los-angeles-is-in-a-4-year-sprint-to-deliver-a-car-free-2028-olympics-236925)
+- Aug 25 - [GenAI diminishes creativity instead of inspiration](https://dl.acm.org/doi/full/10.1145/3613904.3642919)
+- Aug 25 - [TIL: Versions of UUID and when to use them](https://ntietz.com/blog/til-uses-for-the-different-uuid-versions/)
 <!--END_SECTION:hn-->
 
 <!--
