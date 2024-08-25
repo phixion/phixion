@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 25 - [Transfer energy from nitrogen to argon enables 2-wayl cascaded lasing in air](https://phys.org/news/2024-08-mechanism-energy-nitrogen-argon-enables.html)
-- Aug 25 - [Serpent OS Prealpha0 Released](https://serpentos.com/blog/2024/08/01/serpent-os-prealpha0-released/)
-- Aug 25 - [Looming Liability Machines (LLMs)](http://muratbuffalo.blogspot.com/2024/08/looming-liability-machines.html)
-- Aug 24 - [Defenders think in lists, attackers think in graphs (2015)](https://github.com/JohnLaTwC/Shared/blob/master/Defenders%20think%20in%20lists.%20Attackers%20think%20in%20graphs.%20As%20long%20as%20this%20is%20true%2C%20attackers%20win.md)
-- Aug 24 - [Ask HN: What are you working on (August 2024)?](https://news.ycombinator.com/item?id=41342017)
+- Aug 25 - [European iPhones are more fun now](https://www.theverge.com/2024/8/24/24226946/iphone-eu-regulation-app-stores-fortnite)
+- Aug 25 - [Neurotechnology Numbers Worth Knowing](https://milan.cvitkovic.net/writing/neurotechnology_numbers_worth_knowing/)
+- Aug 25 - [Ruby's official documentation just got a new look](https://docs.ruby-lang.org/en/master/)
+- Aug 25 - [Transferring energy from nitrogen to argon enables 2-way cascaded lasing in air](https://phys.org/news/2024-08-mechanism-energy-nitrogen-argon-enables.html)
+- Aug 25 - [Anthropic Claude 3.5 can create icalendar files, so I did this](https://gregsramblings.com/stupid-but-useful-ai-tricks-creating-calendar-entries-from-an-image-using-anthropic-claude-35)
 <!--END_SECTION:hn-->
 
 <!--
