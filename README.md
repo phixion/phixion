@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 25 - [MavenGate gets it all wrong and hurts open source](http://day-to-day-stuff.blogspot.com/2024/08/mavengate-gets-it-all-wrong-and-hurts.html)
-- Aug 25 - [Neurotechnology numbers worth knowing (2022)](https://milan.cvitkovic.net/writing/neurotechnology_numbers_worth_knowing/)
-- Aug 25 - [Ruby's official documentation just got a new look](https://docs.ruby-lang.org/en/master/)
-- Aug 25 - [Transferring energy from nitrogen to argon enables 2-way cascaded lasing in air](https://phys.org/news/2024-08-mechanism-energy-nitrogen-argon-enables.html)
-- Aug 25 - [Anthropic Claude 3.5 can create icalendar files, so I did this](https://gregsramblings.com/stupid-but-useful-ai-tricks-creating-calendar-entries-from-an-image-using-anthropic-claude-35)
+- Aug 25 - [Apple Explores Robotics in Search of Life Beyond the iPhone](https://www.bloomberg.com/news/newsletters/2024-08-25/apple-plans-tabletop-robot-while-exploring-mobile-bots-and-humanoid-machines-m09kawex)
+- Aug 25 - [Arrest of Pavel Durov, Telegram CEO, charges of terrorism, fraud, child porn](https://decripto.org/en/arrest-of-pavel-durov-charges-of-terrorism-fraud-and-child-pornography-he-did-not-cooperate-with-the-authorities-he-risks-20-years-in-prison/)
+- Aug 25 - [Study: Air purifier use at daycare centres cut kids' sick days by a third](https://yle.fi/a/74-20062381)
+- Aug 25 - [Strandbeest](https://www.strandbeest.com/)
+- Aug 25 - [Sticker on caption phone says that using the captions can be illegal. Why?](https://law.stackexchange.com/questions/104642/sticker-on-caption-phone-says-that-using-the-captions-can-be-illegal-why)
 <!--END_SECTION:hn-->
 
 <!--
