@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 25 - [Transfer energy from nitrogen to argon enables 2-wayl cascaded lasing in air](https://phys.org/news/2024-08-mechanism-energy-nitrogen-argon-enables.html)
+- Aug 25 - [Serpent OS Prealpha0 Released](https://serpentos.com/blog/2024/08/01/serpent-os-prealpha0-released/)
+- Aug 25 - [Looming Liability Machines (LLMs)](http://muratbuffalo.blogspot.com/2024/08/looming-liability-machines.html)
 - Aug 24 - [Defenders think in lists, attackers think in graphs (2015)](https://github.com/JohnLaTwC/Shared/blob/master/Defenders%20think%20in%20lists.%20Attackers%20think%20in%20graphs.%20As%20long%20as%20this%20is%20true%2C%20attackers%20win.md)
 - Aug 24 - [Ask HN: What are you working on (August 2024)?](https://news.ycombinator.com/item?id=41342017)
-- Aug 24 - [Birds Aren't Real – How to Create Your Own "Bird"](https://www.lampysecurity.com/post/birds-aren-t-real-how-to-create-your-own-bird)
-- Aug 24 - [Papersway – a scrollable window management for Sway/i3wm](https://spwhitton.name/tech/code/papersway/)
-- Aug 24 - [AMD's Radeon 890M: Strix Point's Bigger iGPU](https://chipsandcheese.com/2024/08/24/amds-radeon-890m-strix-points-bigger-igpu/)
 <!--END_SECTION:hn-->
 
 <!--
