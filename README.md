@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 24 - [Show HN: High school robotics code/CAD/design binder release](https://www.chiefdelphi.com/t/team-341-miss-daisy-2024-cad-code-and-design-binder-release/467546)
-- Aug 24 - [NASA Decides to Bring Starliner Spacecraft Back to Earth Without Crew](https://www.nasa.gov/news-release/nasa-decides-to-bring-starliner-spacecraft-back-to-earth-without-crew/)
-- Aug 24 - [Golang Interpreter Written in PHP](https://github.com/tuqqu/go-php)
-- Aug 24 - [NASA announces Boeing Starliner crew will return on SpaceX Crew-9](https://twitter.com/NASA/status/1827393397939634503)
-- Aug 24 - [OneText (YC W23) Is Hiring a Chief of Staff](https://www.ycombinator.com/companies/onetext/jobs/B1RIFNb-founding-chief-of-staff)
+- Aug 24 - [Defenders think in lists, attackers think in graphs (2015)](https://github.com/JohnLaTwC/Shared/blob/master/Defenders%20think%20in%20lists.%20Attackers%20think%20in%20graphs.%20As%20long%20as%20this%20is%20true%2C%20attackers%20win.md)
+- Aug 24 - [Ask HN: What are you working on (August 2024)?](https://news.ycombinator.com/item?id=41342017)
+- Aug 24 - [Birds Aren't Real – How to Create Your Own "Bird"](https://www.lampysecurity.com/post/birds-aren-t-real-how-to-create-your-own-bird)
+- Aug 24 - [Papersway – a scrollable window management for Sway/i3wm](https://spwhitton.name/tech/code/papersway/)
+- Aug 24 - [AMD's Radeon 890M: Strix Point's Bigger iGPU](https://chipsandcheese.com/2024/08/24/amds-radeon-890m-strix-points-bigger-igpu/)
 <!--END_SECTION:hn-->
 
 <!--
