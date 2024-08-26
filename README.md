@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 26 - [Four Stages of Competence](https://en.wikipedia.org/wiki/Four_stages_of_competence)
-- Aug 26 - [Why Everything Is CRUD](https://blog.smartclient.com/why-everything-is-crud/)
-- Aug 26 - [Show HN: Ward – a file vault written in bash](https://github.com/oeo/ward)
+- Aug 26 - [Activeloop (YC S18) Seeks an AI Search Engineer to Build Most Accurate Search](https://careers.activeloop.ai/?ashby_jid=0b60f11e-1775-4aed-9a2e-f44df0f3da0c)
+- Aug 26 - [Fixing a Bug in Google Chrome as a First-Time Contributor](https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/)
+- Aug 26 - [Dutch DPA fines Uber 290M euro because of transfers of drivers' data to the US](https://www.autoriteitpersoonsgegevens.nl/en/current/dutch-dpa-imposes-a-fine-of-290-million-euro-on-uber-because-of-transfers-of-drivers-data-to-the-us)
+- Aug 26 - [A Jenga tower about to collapse: Software erosion is happening all around us](https://www.techradar.com/pro/software-erosion-is-happening-all-around-us)
 - Aug 26 - [Avante.nvim: Use Your Neovim Like Using Cursor AI IDE](https://github.com/yetone/avante.nvim)
-- Aug 26 - [Open-Source Cola](https://en.wikipedia.org/wiki/Open-source_cola)
 <!--END_SECTION:hn-->
 
 <!--
