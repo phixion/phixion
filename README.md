@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 26 - [A Massachusetts town closes its parks to stop a mosquito-borne disease](https://www.npr.org/2024/08/26/nx-s1-5089737/massachusetts-mosquito-disease-parks-fatal)
-- Aug 26 - [Make your health insurance company cry: One woman's fight to turn the tables](https://sfstandard.com/2024/08/23/holden-karau-fight-health-insurance-appeal-claims-denials/)
-- Aug 26 - [Dokku: My favorite personal serverless platform](https://hamel.dev/blog/posts/dokku/)
-- Aug 26 - [Frontier is about to offer 7-gig fiber across several states](https://www.theverge.com/2024/8/26/24228639/frontier-7-gig-fiber-speed-rollout-plan-pricing)
-- Aug 26 - [P. boydii – Deadly fungus lacking antimycotic treatment](https://en.wikipedia.org/wiki/Pseudallescheria_boydii)
+- Aug 26 - [Oxford's Philosophy of Mathematics YouTube series [video]](https://www.youtube.com/watch?v=uo1xDbsYAcU&list=PLg5tKDNI_a86OO6J9HuIngyROBsUqcf_z)
+- Aug 26 - [Snowden: The arrest of Durov is an assault on the basic human rights](https://twitter.com/Snowden/status/1827695836832334169)
+- Aug 26 - [Engineers develop new two-dimensional, low-power- field-effect transistor](https://techxplore.com/news/2024-08-dimensional-power-consumption-field-effect.html)
+- Aug 26 - [Apple to upgrade base Macs to 16GB RAM, starting from Apple M4 models](https://www.business-standard.com/technology/tech-news/apple-to-upgrade-base-macs-to-16gb-ram-starting-from-m4-models-report-124082600272_1.html)
+- Aug 26 - [Intel Layoffs: Is Future U.S. Chip Independence in Trouble](https://spectrum.ieee.org/chips-act-and-intel)
 <!--END_SECTION:hn-->
 
 <!--
