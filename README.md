@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 25 - [Realistic Synthetic UGC: A Scaffolding Approach to Generating Online Discussions](https://arxiv.org/abs/2408.08379)
-- Aug 25 - [Police Chief Says Cops Have a 5th Amendment Right to Leave Body Cameras Off](https://reason.com/2024/08/23/albuquerques-police-chief-thinks-cops-have-a-5th-amendment-right-to-leave-their-body-cameras-off/)
-- Aug 25 - [Rollstack (YC W23) Is Hiring TypeScript Engineers – US/Canada (East Coast Only)](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-middle-senior-software-engineer-typescript-us-canada-east-coast-only)
-- Aug 25 - [Why am I writing a Rust compiler in C?](https://notgull.net/announcing-dozer/)
-- Aug 25 - [Pi Pico 2 Extreme Teardown](http://electronupdate.blogspot.com/2024/08/pi-pico-2-extreme-teardown.html)
+- Aug 26 - [Open-Source Cola](https://en.wikipedia.org/wiki/Open-source_cola)
+- Aug 26 - [Removing stuff is never obvious yet often better](https://www.gkogan.co/removing-stuff/)
+- Aug 26 - [Server Setup Basics for Self Hosting](https://becomesovran.com/blog/server-setup-basics.html)
+- Aug 26 - [Senior Intel CPU architects splinter to develop RISC-V processors](https://www.tomshardware.com/tech-industry/senior-intel-cpu-architects-splinter-to-develop-risc-v-processors-veterans-establish-aheadcomputing)
+- Aug 26 - [We found North Korean engineers in our application pile](https://www.cinder.co/blog-posts/north-korean-engineers-in-our-application-pile)
 <!--END_SECTION:hn-->
 
 <!--
