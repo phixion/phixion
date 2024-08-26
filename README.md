@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 26 - [Activeloop (YC S18) Seeks an AI Search Engineer to Build Most Accurate Search](https://careers.activeloop.ai/?ashby_jid=0b60f11e-1775-4aed-9a2e-f44df0f3da0c)
-- Aug 26 - [Fixing a Bug in Google Chrome as a First-Time Contributor](https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/)
-- Aug 26 - [Dutch DPA fines Uber 290M euro because of transfers of drivers' data to the US](https://www.autoriteitpersoonsgegevens.nl/en/current/dutch-dpa-imposes-a-fine-of-290-million-euro-on-uber-because-of-transfers-of-drivers-data-to-the-us)
-- Aug 26 - [A Jenga tower about to collapse: Software erosion is happening all around us](https://www.techradar.com/pro/software-erosion-is-happening-all-around-us)
-- Aug 26 - [Avante.nvim: Use Your Neovim Like Using Cursor AI IDE](https://github.com/yetone/avante.nvim)
+- Aug 26 - [A Massachusetts town closes its parks to stop a mosquito-borne disease](https://www.npr.org/2024/08/26/nx-s1-5089737/massachusetts-mosquito-disease-parks-fatal)
+- Aug 26 - [Make your health insurance company cry: One woman's fight to turn the tables](https://sfstandard.com/2024/08/23/holden-karau-fight-health-insurance-appeal-claims-denials/)
+- Aug 26 - [Dokku: My favorite personal serverless platform](https://hamel.dev/blog/posts/dokku/)
+- Aug 26 - [Frontier is about to offer 7-gig fiber across several states](https://www.theverge.com/2024/8/26/24228639/frontier-7-gig-fiber-speed-rollout-plan-pricing)
+- Aug 26 - [P. boydii – Deadly fungus lacking antimycotic treatment](https://en.wikipedia.org/wiki/Pseudallescheria_boydii)
 <!--END_SECTION:hn-->
 
 <!--
