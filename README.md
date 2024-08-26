@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 26 - [Four Stages of Competence](https://en.wikipedia.org/wiki/Four_stages_of_competence)
+- Aug 26 - [Why Everything Is CRUD](https://blog.smartclient.com/why-everything-is-crud/)
+- Aug 26 - [Show HN: Ward – a file vault written in bash](https://github.com/oeo/ward)
+- Aug 26 - [Avante.nvim: Use Your Neovim Like Using Cursor AI IDE](https://github.com/yetone/avante.nvim)
 - Aug 26 - [Open-Source Cola](https://en.wikipedia.org/wiki/Open-source_cola)
-- Aug 26 - [Removing stuff is never obvious yet often better](https://www.gkogan.co/removing-stuff/)
-- Aug 26 - [Server Setup Basics for Self Hosting](https://becomesovran.com/blog/server-setup-basics.html)
-- Aug 26 - [Senior Intel CPU architects splinter to develop RISC-V processors](https://www.tomshardware.com/tech-industry/senior-intel-cpu-architects-splinter-to-develop-risc-v-processors-veterans-establish-aheadcomputing)
-- Aug 26 - [We found North Korean engineers in our application pile](https://www.cinder.co/blog-posts/north-korean-engineers-in-our-application-pile)
 <!--END_SECTION:hn-->
 
 <!--
