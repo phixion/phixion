@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 26 - [Blood Pressure Control Should Focus on More Potassium (2023)](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.123.20545)
-- Aug 26 - [Many FDA-approved AI medical devices are not trained on real patient data](https://medicalxpress.com/news/2024-08-fda-ai-medical-devices-real.html)
-- Aug 26 - [The Big Fringe Telescope](https://arxiv.org/abs/2408.01386)
-- Aug 26 - [Roame (YC S23) Is Hiring an iOS Founding Engineer](https://www.ycombinator.com/companies/roame/jobs/e8G5FJF-founding-ios-engineer)
-- Aug 26 - [Erasure Coding for Distributed Systems](https://transactional.blog/blog/2024-erasure-coding)
+- Aug 27 - [AI predicts earthquakes with unprecedented accuracy](https://scitechdaily.com/artificial-intelligence-predicts-earthquakes-with-unprecedented-accuracy/)
+- Aug 27 - [Catcher plays for both teams in same game](https://www.bbc.com/sport/baseball/articles/cd9dzz8g4ydo)
+- Aug 27 - [Harvard and MIT's $800M Mistake: The Triple Failure of 2U, EdX, and Axim](https://www.classcentral.com/report/2u-edx-bankruptcy/)
+- Aug 27 - [Predicting the Future of Distributed Systems](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems/)
+- Aug 26 - [The End of Finale](https://www.finalemusic.com/blog/end-of-finale-new-journey-dorico-letter-from-president/)
 <!--END_SECTION:hn-->
 
 <!--
