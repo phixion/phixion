@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 27 - [QuestDB (YC S20) Is Hiring a Core Database Engineer](https://questdb.io/careers/core-database-engineer/)
-- Aug 27 - [Why has Japan been hit with rice shortages, soaring prices despite normal crops?](https://mainichi.jp/english/articles/20240823/p2a/00m/0bu/024000c)
-- Aug 27 - [The possibilities for dark matter have just shrunk – by a lot](https://www.sciencenews.org/article/dark-matter-wimps-lz)
-- Aug 27 - [Vanilla Prime: A simpler, more sustainable way of web development](https://github.com/morris/vanilla-prime)
-- Aug 27 - [Tinybox of tinygrad by George Hotz is finally entering production](https://twitter.com/realgeorgehotz/status/1828197925874463166)
+- Aug 27 - [Sainsbury Wing contractors find 1990 letter from donor](https://www.theartnewspaper.com/2024/08/27/sainsbury-wing-contractors-find-1990-letter-from-donor-anticipating-their-demolition-of-false-columns)
+- Aug 27 - [Caltech, long a bastion of male students, enrolls first class of majority women](https://www.latimes.com/california/story/2024-08-27/caltech-long-male-bastion-to-enroll-majority-women-for-first-time)
+- Aug 27 - [No smoking in your own home, California city orders residents](https://www.thetimes.com/world/us-world/article/carlsbad-california-smoking-illegal-where-houses-k9qrrvm05)
+- Aug 27 - [Eazel, ex-Apple led Linux startup](https://en.wikipedia.org/wiki/Eazel)
+- Aug 27 - [New 0-Day Attacks Linked to China's 'Volt Typhoon'](https://krebsonsecurity.com/2024/08/new-0-day-attacks-linked-to-chinas-volt-typhoon/)
 <!--END_SECTION:hn-->
 
 <!--
