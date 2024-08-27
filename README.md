@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 27 - [Sainsbury Wing contractors find 1990 letter from donor](https://www.theartnewspaper.com/2024/08/27/sainsbury-wing-contractors-find-1990-letter-from-donor-anticipating-their-demolition-of-false-columns)
-- Aug 27 - [Caltech, long a bastion of male students, enrolls first class of majority women](https://www.latimes.com/california/story/2024-08-27/caltech-long-male-bastion-to-enroll-majority-women-for-first-time)
-- Aug 27 - [No smoking in your own home, California city orders residents](https://www.thetimes.com/world/us-world/article/carlsbad-california-smoking-illegal-where-houses-k9qrrvm05)
-- Aug 27 - [Eazel, ex-Apple led Linux startup](https://en.wikipedia.org/wiki/Eazel)
-- Aug 27 - [New 0-Day Attacks Linked to China's 'Volt Typhoon'](https://krebsonsecurity.com/2024/08/new-0-day-attacks-linked-to-chinas-volt-typhoon/)
+- Aug 27 - [A Collection of Free Public APIs That Is Tested Daily](https://www.freepublicapis.com/)
+- Aug 27 - [U.S. Ambassador says Canadians are consuming 'unhealthy' amount of American news](https://thehub.ca/2024/08/27/hub-exclusive-u-s-ambassador-says-canadians-are-consuming-an-unhealthy-amount-of-american-news/)
+- Aug 27 - [Microsoft donates the Mono Project to the Wine team](https://www.mono-project.com/)
+- Aug 27 - [DisTrO – a family of low latency distributed optimizers](https://github.com/NousResearch/DisTrO)
+- Aug 27 - [Why is the Oral-B iOS app almost 300 MB? And why is Colgate's app even bigger..?](https://twitter.com/emergetools/status/1828490449881047401)
 <!--END_SECTION:hn-->
 
 <!--
