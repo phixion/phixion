@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 26 - [Oxford's Philosophy of Mathematics YouTube series [video]](https://www.youtube.com/watch?v=uo1xDbsYAcU&list=PLg5tKDNI_a86OO6J9HuIngyROBsUqcf_z)
-- Aug 26 - [Snowden: The arrest of Durov is an assault on the basic human rights](https://twitter.com/Snowden/status/1827695836832334169)
-- Aug 26 - [Engineers develop new two-dimensional, low-power- field-effect transistor](https://techxplore.com/news/2024-08-dimensional-power-consumption-field-effect.html)
-- Aug 26 - [Apple to upgrade base Macs to 16GB RAM, starting from Apple M4 models](https://www.business-standard.com/technology/tech-news/apple-to-upgrade-base-macs-to-16gb-ram-starting-from-m4-models-report-124082600272_1.html)
-- Aug 26 - [Intel Layoffs: Is Future U.S. Chip Independence in Trouble](https://spectrum.ieee.org/chips-act-and-intel)
+- Aug 26 - [Blood Pressure Control Should Focus on More Potassium (2023)](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.123.20545)
+- Aug 26 - [Many FDA-approved AI medical devices are not trained on real patient data](https://medicalxpress.com/news/2024-08-fda-ai-medical-devices-real.html)
+- Aug 26 - [The Big Fringe Telescope](https://arxiv.org/abs/2408.01386)
+- Aug 26 - [Roame (YC S23) Is Hiring an iOS Founding Engineer](https://www.ycombinator.com/companies/roame/jobs/e8G5FJF-founding-ios-engineer)
+- Aug 26 - [Erasure Coding for Distributed Systems](https://transactional.blog/blog/2024-erasure-coding)
 <!--END_SECTION:hn-->
 
 <!--
