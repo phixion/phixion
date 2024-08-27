@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 27 - [AI predicts earthquakes with unprecedented accuracy](https://scitechdaily.com/artificial-intelligence-predicts-earthquakes-with-unprecedented-accuracy/)
-- Aug 27 - [Catcher plays for both teams in same game](https://www.bbc.com/sport/baseball/articles/cd9dzz8g4ydo)
-- Aug 27 - [Harvard and MIT's $800M Mistake: The Triple Failure of 2U, EdX, and Axim](https://www.classcentral.com/report/2u-edx-bankruptcy/)
-- Aug 27 - [Predicting the Future of Distributed Systems](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems/)
-- Aug 26 - [The End of Finale](https://www.finalemusic.com/blog/end-of-finale-new-journey-dorico-letter-from-president/)
+- Aug 27 - [Notes on Buttondown.com](https://jmduke.com/posts/microblog/buttondown-dot-com/)
+- Aug 27 - [Sovereign Tech Fund to Invest €686,400 in FreeBSD Infrastructure Modernization](https://freebsdfoundation.org/blog/sovereign-tech-fund-to-invest-e686400-in-freebsd-infrastructure-modernization/)
+- Aug 27 - [Box64 and RISC-V in 2024: What It Takes to Run the Witcher 3 on RISC-V](https://box86.org/2024/08/box64-and-risc-v-in-2024/)
+- Aug 27 - [FreeBSD-rustdate, a reimplementation of FreeBSD-update](https://rustdate.over-yonder.net/)
+- Aug 27 - [Qualcomm Oryon CPU Core Design](https://chipsandcheese.com/2024/08/26/hot-chips-2024-qualcomms-oryon-core/)
 <!--END_SECTION:hn-->
 
 <!--
