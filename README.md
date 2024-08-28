@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 28 - [Prosper AI (YC S23) Is Hiring a Founding Front End Engineer in Barcelona(hybrid)](https://drive.google.com/file/d/14GPXekand9xzJEEOD2ze6m59zE0ZlBvC/view)
-- Aug 28 - [Sapiens: Foundation for Human Vision Models](https://arxiv.org/abs/2408.12569)
-- Aug 28 - [Wp2hugo: Best WordPress to Hugo migrator (written in Go)](https://github.com/ashishb/wp2hugo)
-- Aug 28 - ['Order from Amazon': How tech giants are storing mass data for Israel's war](https://www.972mag.com/cloud-israeli-army-gaza-amazon-google-microsoft/)
-- Aug 28 - [Final two communications from MH370 support controlled descent scenario (2021)](https://www.researchgate.net/publication/355242503_Final_Two_Communications_from_MH370_Supports_Controlled_Eastward_Descent_Scenario)
+- Aug 28 - [Show HN: Every open source tool from the "What's HN working on" thread](https://github.com/getomni-ai/datasets/blob/main/hn_projects.md)
+- Aug 28 - [French prosecutors say Telegram CEO freed from custody, will appear in court](https://apnews.com/article/france-telegram-pavel-durov-arrest-6e213d227458f330ed16e7fe221a696c)
+- Aug 28 - [Interview with Signal President Meredith Whittaker](https://www.wired.com/story/meredith-whittaker-signal/)
+- Aug 28 - [CIA Sent Him Deep Undercover to Spy on Islamic Radicals. It Cost Him Everything](https://www.rollingstone.com/politics/politics-features/cia-agent-deep-undercover-spy-islamic-radicals-war-on-terror-1235075156/)
+- Aug 28 - [The slow evaporation of the free/open source surplus](https://www.baldurbjarnason.com/2024/the-slow-evaporation-of-the-foss-surplus/)
 <!--END_SECTION:hn-->
 
 <!--
