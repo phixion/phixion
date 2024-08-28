@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 27 - [A Collection of Free Public APIs That Is Tested Daily](https://www.freepublicapis.com/)
-- Aug 27 - [U.S. Ambassador says Canadians are consuming 'unhealthy' amount of American news](https://thehub.ca/2024/08/27/hub-exclusive-u-s-ambassador-says-canadians-are-consuming-an-unhealthy-amount-of-american-news/)
-- Aug 27 - [Microsoft donates the Mono Project to the Wine team](https://www.mono-project.com/)
-- Aug 27 - [DisTrO – a family of low latency distributed optimizers](https://github.com/NousResearch/DisTrO)
-- Aug 27 - [Why is the Oral-B iOS app almost 300 MB? And why is Colgate's app even bigger..?](https://twitter.com/emergetools/status/1828490449881047401)
+- Aug 27 - [SF Mutual Fund Exec Front-Ran His Fund's Trades](https://www.propublica.org/article/dodge-cox-exec-david-hoeft-made-millions-trading-same-stocks)
+- Aug 27 - [ChartDB – Free and open source, database design editor](https://chartdb.io/)
+- Aug 27 - [Tattoo ink sold on Amazon has high levels of weird and rare bacteria](https://arstechnica.com/health/2024/08/tattoo-ink-sold-on-amazon-has-high-levels-of-weird-and-rare-bacteria/)
+- Aug 27 - [Hackers infect ISPs with malware that steals customers' credentials](https://arstechnica.com/security/2024/08/hackers-infect-isps-with-malware-that-steals-customers-credentials/)
+- Aug 27 - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 <!--END_SECTION:hn-->
 
 <!--
