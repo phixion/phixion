@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 28 - [Show HN: Every open source tool from the "What's HN working on" thread](https://github.com/getomni-ai/datasets/blob/main/hn_projects.md)
-- Aug 28 - [French prosecutors say Telegram CEO freed from custody, will appear in court](https://apnews.com/article/france-telegram-pavel-durov-arrest-6e213d227458f330ed16e7fe221a696c)
-- Aug 28 - [Interview with Signal President Meredith Whittaker](https://www.wired.com/story/meredith-whittaker-signal/)
-- Aug 28 - [CIA Sent Him Deep Undercover to Spy on Islamic Radicals. It Cost Him Everything](https://www.rollingstone.com/politics/politics-features/cia-agent-deep-undercover-spy-islamic-radicals-war-on-terror-1235075156/)
-- Aug 28 - [The slow evaporation of the free/open source surplus](https://www.baldurbjarnason.com/2024/the-slow-evaporation-of-the-foss-surplus/)
+- Aug 28 - [OpenAI in Talks for Funding Round Valuing It Above $100B](https://www.wsj.com/tech/ai/openai-in-talks-for-funding-round-valuing-it-above-100-billion-4f0550c5)
+- Aug 28 - [The Future of TLA+ [pdf]](https://lamport.azurewebsites.net/tla/future.pdf)
+- Aug 28 - [The 4-chan Go programmer](https://www.dolthub.com/blog/2024-08-23-the-4-chan-go-programmer/)
+- Aug 28 - [Scaling Rails and Postgres to Users at Microsoft: Lessons and Takeaways](https://stepchange.work/blog/scaling-rails-postgres-to-millions-of-users-at-microsoft-lessons-takeaways)
+- Aug 28 - [New Anti-Toxicity Features on Bluesky](https://bsky.social/about/blog/08-28-2024-anti-toxicity-features)
 <!--END_SECTION:hn-->
 
 <!--
