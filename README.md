@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 27 - [SF Mutual Fund Exec Front-Ran His Fund's Trades](https://www.propublica.org/article/dodge-cox-exec-david-hoeft-made-millions-trading-same-stocks)
+- Aug 28 - [Diffusion Models Are Real-Time Game Engines](https://gamengen.github.io)
+- Aug 28 - [NASA has to be trolling with the latest cost estimate of its SLS launch tower](https://arstechnica.com/space/2024/08/nasas-second-large-launch-tower-has-gotten-stupidly-expensive/)
+- Aug 28 - [Cerebras Launches the Fastest AI Inference](https://cerebras.ai/press-release/cerebras-launches-the-worlds-fastest-ai-inference)
+- Aug 28 - [Tesla's TTPoE at Hot Chips 2024: Replacing TCP for Low Latency Applications](https://chipsandcheese.com/2024/08/27/teslas-ttpoe-at-hot-chips-2024-replacing-tcp-for-low-latency-applications/)
 - Aug 27 - [ChartDB – Free and open source, database design editor](https://chartdb.io/)
-- Aug 27 - [Tattoo ink sold on Amazon has high levels of weird and rare bacteria](https://arstechnica.com/health/2024/08/tattoo-ink-sold-on-amazon-has-high-levels-of-weird-and-rare-bacteria/)
-- Aug 27 - [Hackers infect ISPs with malware that steals customers' credentials](https://arstechnica.com/security/2024/08/hackers-infect-isps-with-malware-that-steals-customers-credentials/)
-- Aug 27 - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 <!--END_SECTION:hn-->
 
 <!--
