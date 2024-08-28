@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 28 - [Diffusion Models Are Real-Time Game Engines](https://gamengen.github.io)
-- Aug 28 - [NASA has to be trolling with the latest cost estimate of its SLS launch tower](https://arstechnica.com/space/2024/08/nasas-second-large-launch-tower-has-gotten-stupidly-expensive/)
-- Aug 28 - [Cerebras Launches the Fastest AI Inference](https://cerebras.ai/press-release/cerebras-launches-the-worlds-fastest-ai-inference)
-- Aug 28 - [Tesla's TTPoE at Hot Chips 2024: Replacing TCP for Low Latency Applications](https://chipsandcheese.com/2024/08/27/teslas-ttpoe-at-hot-chips-2024-replacing-tcp-for-low-latency-applications/)
-- Aug 27 - [ChartDB – Free and open source, database design editor](https://chartdb.io/)
+- Aug 28 - [The Fall of StackOverflow: A Data-Driven Analysis](https://pdftranslate.ai/blog/stackoverflow-fall)
+- Aug 28 - [Cosmic Alpha Released](https://blog.system76.com/post/cosmic-alpha-released-heres-what-people-are-saying/)
+- Aug 28 - [Boxxy puts bad Linux applications in a box with only their files](https://github.com/queer/boxxy)
+- Aug 28 - [Are We Anti-Cheat Yet?](https://areweanticheatyet.com/)
+- Aug 28 - [Covid-19 Intranasal Vaccine](https://news.griffith.edu.au/2024/08/27/game-changing-needle-free-covid-19-intranasal-vaccine/)
 <!--END_SECTION:hn-->
 
 <!--
