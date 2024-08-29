@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 29 - [New 2GB Raspberry Pi 5 has 33% smaller die, 30% idle power savings](https://www.jeffgeerling.com/blog/2024/new-2gb-pi-5-has-33-smaller-die-30-idle-power-savings)
-- Aug 29 - [Launch HN: Patchwork (YC W24) – Automatically add structured logs to your code](https://news.ycombinator.com/item?id=41391931)
-- Aug 29 - [Chrome Is Entrenching Third-Party Cookies That Will Mislead Users](https://brave.com/blog/related-website-sets/)
-- Aug 29 - [From Julia to Rust](https://miguelraz.github.io/blog/juliatorust/index.html)
-- Aug 29 - [Update on Llama adoption](https://ai.meta.com/blog/llama-usage-doubled-may-through-july-2024/)
+- Aug 29 - [Dawn of a new era in Search: Balancing innovation, competition, and public good](https://blog.kagi.com/dawn-new-era-search)
+- Aug 29 - [Launch HN: CodeViz (YC S24) – Visual maps of your codebase in VS Code](https://news.ycombinator.com/item?id=41393458)
+- Aug 29 - [MindsDB (YC W20) Is Hiring](https://job-boards.greenhouse.io/mindsdb/jobs/4429903007)
+- Aug 29 - [Judge rules $400M algorithmic system illegally denied Medicaid benefits](https://gizmodo.com/judge-rules-400-million-algorithmic-system-illegally-denied-thousands-of-peoples-medicaid-benefits-2000492529)
+- Aug 29 - [Show HN: A discovery-focused search engine for Hacker News](https://hn.trieve.ai/)
 <!--END_SECTION:hn-->
 
 <!--
