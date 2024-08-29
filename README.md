@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 28 - [Judge dismisses majority of GitHub Copilot copyright claims](https://lwn.net/Articles/987524/)
-- Aug 28 - [Guido van Rossum's Post Removed for Violating Python Community Guidelines](https://discuss.python.org/t/should-we-consider-ranked-choice-voting-for-sc-elections/61880)
-- Aug 28 - [Ask HN: Where to find domain experts for 1:1 tutoring?](https://news.ycombinator.com/item?id=41384590)
+- Aug 29 - [Brazil top court threatens to suspend X within 24 hours](https://apnews.com/article/brazil-top-court-elon-musk-de-moraes-028f7a9f65e3bf355518bbe9d1fbe564)
+- Aug 29 - [FreeBSD considers Rust in the base system](https://lwn.net/Articles/985210/)
+- Aug 29 - [Docker-OSX image removed after Apple reports copyright infringement](https://github.com/sickcodes/Docker-OSX/issues/799)
+- Aug 29 - [Air Con: $1697 for an on/off switch](https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/)
 - Aug 28 - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
-- Aug 28 - [Show HN: Skip – Build native iOS and Android apps from a single Swift codebase](https://skip.tools/)
 <!--END_SECTION:hn-->
 
 <!--
