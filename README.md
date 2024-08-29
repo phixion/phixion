@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 28 - [OpenAI in Talks for Funding Round Valuing It Above $100B](https://www.wsj.com/tech/ai/openai-in-talks-for-funding-round-valuing-it-above-100-billion-4f0550c5)
-- Aug 28 - [The Future of TLA+ [pdf]](https://lamport.azurewebsites.net/tla/future.pdf)
-- Aug 28 - [The 4-chan Go programmer](https://www.dolthub.com/blog/2024-08-23-the-4-chan-go-programmer/)
-- Aug 28 - [Scaling Rails and Postgres to Users at Microsoft: Lessons and Takeaways](https://stepchange.work/blog/scaling-rails-postgres-to-millions-of-users-at-microsoft-lessons-takeaways)
-- Aug 28 - [New Anti-Toxicity Features on Bluesky](https://bsky.social/about/blog/08-28-2024-anti-toxicity-features)
+- Aug 28 - [Judge dismisses majority of GitHub Copilot copyright claims](https://lwn.net/Articles/987524/)
+- Aug 28 - [Guido van Rossum's Post Removed for Violating Python Community Guidelines](https://discuss.python.org/t/should-we-consider-ranked-choice-voting-for-sc-elections/61880)
+- Aug 28 - [Ask HN: Where to find domain experts for 1:1 tutoring?](https://news.ycombinator.com/item?id=41384590)
+- Aug 28 - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
+- Aug 28 - [Show HN: Skip – Build native iOS and Android apps from a single Swift codebase](https://skip.tools/)
 <!--END_SECTION:hn-->
 
 <!--
