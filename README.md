@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 29 - [Windmill (YC S22) Hiring Rust and TypeScript Eng #3 in Paris](https://www.ycombinator.com/companies/windmill/jobs/REsQMZa-rust-typescript-engineer)
-- Aug 29 - [Docusaurus – Build optimized websites quickly, focus on your content](https://docusaurus.io/)
-- Aug 29 - [NASA Discovers a Long-Sought Global Electric Field on Earth](https://science.nasa.gov/science-research/heliophysics/nasa-discovers-long-sought-global-electric-field-on-earth/)
-- Aug 29 - [What Life Means to Einstein (1929) [pdf]](https://www.saturdayeveningpost.com/wp-content/uploads/satevepost/what_life_means_to_einstein.pdf)
-- Aug 29 - [Telegram Founder Charged with Wide Range of Crimes in France](https://www.nytimes.com/2024/08/28/business/telegram-ceo-pavel-durov-charged.html)
+- Aug 29 - [The first snapshot of Hacker News on Archive.org](https://web.archive.org/web/20070221033032/https://news.ycombinator.com/)
+- Aug 29 - [Show HN: turn videos into ASCII art (open source, js+canvas)](https://collidingscopes.github.io/ascii/)
+- Aug 29 - [OpenAI is shockingly good at unminifying code](https://glama.ai/blog/2024-08-29-reverse-engineering-minified-code-using-openai)
+- Aug 29 - [Show HN: Homemade Automated Solar Concentrator](https://github.com/remipch/solar_concentrator)
+- Aug 29 - [Two Dots Too Many (2008)](https://languagelog.ldc.upenn.edu/nll/?p=73)
 <!--END_SECTION:hn-->
 
 <!--
