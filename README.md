@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 29 - [Dawn of a new era in Search: Balancing innovation, competition, and public good](https://blog.kagi.com/dawn-new-era-search)
-- Aug 29 - [Launch HN: CodeViz (YC S24) – Visual maps of your codebase in VS Code](https://news.ycombinator.com/item?id=41393458)
-- Aug 29 - [MindsDB (YC W20) Is Hiring](https://job-boards.greenhouse.io/mindsdb/jobs/4429903007)
-- Aug 29 - [Judge rules $400M algorithmic system illegally denied Medicaid benefits](https://gizmodo.com/judge-rules-400-million-algorithmic-system-illegally-denied-thousands-of-peoples-medicaid-benefits-2000492529)
-- Aug 29 - [Show HN: A discovery-focused search engine for Hacker News](https://hn.trieve.ai/)
+- Aug 30 - [I'm blocking connections from AWS to my on-prem services](http://consulting.m3047.net/dubai-letters/balkanized-internet.html)
+- Aug 29 - [Visit Bletchley Park](https://bletchleypark.org.uk/)
+- Aug 29 - [The Imperial Origins of Big Data](https://yalebooks.yale.edu/2024/08/28/the-imperial-origins-of-big-data/)
+- Aug 29 - [SDL3 new GPU API merged](https://github.com/libsdl-org/SDL/pull/9312)
+- Aug 29 - [Firewall rules: not as secure as you think](https://www.haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html)
 <!--END_SECTION:hn-->
 
 <!--
