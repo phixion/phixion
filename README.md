@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 30 - [Starlink will now be free in Brazil: Musk](https://www.metropoles.com/brasil/musk-starlink-dara-internet-de-graca-ate-resolver-bloqueio-de-contas)
+- Aug 30 - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=41396868)
+- Aug 30 - [Show HN: Amine – Prevents you from switching 100s of Browser Tabs](https://github.com/datavorous/amine)
 - Aug 30 - [I'm blocking connections from AWS to my on-prem services](http://consulting.m3047.net/dubai-letters/balkanized-internet.html)
 - Aug 29 - [Visit Bletchley Park](https://bletchleypark.org.uk/)
-- Aug 29 - [The Imperial Origins of Big Data](https://yalebooks.yale.edu/2024/08/28/the-imperial-origins-of-big-data/)
-- Aug 29 - [SDL3 new GPU API merged](https://github.com/libsdl-org/SDL/pull/9312)
-- Aug 29 - [Firewall rules: not as secure as you think](https://www.haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html)
 <!--END_SECTION:hn-->
 
 <!--
