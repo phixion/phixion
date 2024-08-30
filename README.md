@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 30 - [Low-cost 16 EEG channels cap (hat) for PiEEG](https://pieeg.com/news/low-cost-16-eeg-channels-cap-hat-available-for-buy-all-in-one/)
-- Aug 30 - [Rubi: Symbolic integrator based on an extensive system of integration rules](https://rulebasedintegration.org/)
-- Aug 30 - [Rearchiving 2M hours of digital radio, a comprehensive process](https://digitalpreservation-blog.nb.no/blog/2024-08-28-rearchiving-2-million-hours-of-digital-radio/)
-- Aug 30 - [Scpptool – a tool to enforce a memory and data race safe subset of C++](https://github.com/duneroadrunner/scpptool)
-- Aug 30 - [Time-Memory Trade-Offs Sound the Death Knell for GPRS and GSM](https://www.iacr.org/cryptodb/data/paper.php?pubkey=34281)
+- Aug 30 - [CIEL Is an Extended Lisp](http://ciel-lang.org/)
+- Aug 30 - [Sail and Muddy: A Retrospective](https://feelmuddy.notion.site/Sail-Muddy-A-Retrospective-388a528951de4da58e66940c5fb85b8a)
+- Aug 30 - [Resilient Anonymous Communication for Everyone (Race)](https://www.darpa.mil/program/resilient-anonymous-communication-for-everyone)
+- Aug 30 - [Experience the Apollo 11 Lunar Landing](https://www.firstmenonthemoon.com)
+- Aug 30 - [PrimeReact: The Most Complete React UI Component Library](https://github.com/primefaces/primereact)
 <!--END_SECTION:hn-->
 
 <!--
