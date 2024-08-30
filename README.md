@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 30 - [Low-cost 16 EEG channels cap (hat) for PiEEG](https://pieeg.com/news/low-cost-16-eeg-channels-cap-hat-available-for-buy-all-in-one/)
+- Aug 30 - [Rubi: Symbolic integrator based on an extensive system of integration rules](https://rulebasedintegration.org/)
+- Aug 30 - [Rearchiving 2M hours of digital radio, a comprehensive process](https://digitalpreservation-blog.nb.no/blog/2024-08-28-rearchiving-2-million-hours-of-digital-radio/)
+- Aug 30 - [Scpptool – a tool to enforce a memory and data race safe subset of C++](https://github.com/duneroadrunner/scpptool)
 - Aug 30 - [Time-Memory Trade-Offs Sound the Death Knell for GPRS and GSM](https://www.iacr.org/cryptodb/data/paper.php?pubkey=34281)
-- Aug 30 - [Calendar Queues: A Fast O(1) Priority Queue Implementation (1998)](https://dl.acm.org/doi/pdf/10.1145/63039.63045)
-- Aug 30 - [Rust's Ugly Syntax (2023)](https://matklad.github.io/2023/01/26/rusts-ugly-syntax.html)
-- Aug 30 - [Open Source Twitch for Developers](https://github.com/algora-io/tv)
-- Aug 30 - [Show HN: Amine – Prevents you from switching 100s of Browser Tabs](https://github.com/datavorous/amine)
 <!--END_SECTION:hn-->
 
 <!--
