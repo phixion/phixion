@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 30 - [Show HN: I made a site that lets everyone edit the same gradient in real-time](https://internetgradient.com)
-- Aug 30 - [Japan was the future but it's stuck in the past (2023)](https://www.bbc.com/news/world-asia-63830490)
-- Aug 30 - [Motion (YC W20) is hiring TypeScript back end engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
-- Aug 30 - [Drug Development Failure: how GLP-1 development was abandoned in 1990](https://muse.jhu.edu/pub/1/article/936036/pdf)
-- Aug 30 - [Language and shell in Go with 92% test coverage and instant CI/CD [video]](https://www.youtube.com/watch?v=YzIiUjgnSsA)
+- Aug 30 - [Crows Are Even Smarter Than We Thought](https://nautil.us/crows-are-even-smarter-than-we-thought-820066/)
+- Aug 30 - [Hadrius (YC W23) Is Hiring a Customer Success Engineer](https://www.ycombinator.com/companies/hadrius/jobs/m6sc1Vl-customer-success-engineer)
+- Aug 30 - [UK researchers find Alzheimer's-like brain changes in long Covid patients](https://uknow.uky.edu/research/uk-researchers-find-alzheimer-s-brain-changes-long-covid-patients)
+- Aug 30 - [Rust in Linux Revisited](https://drewdevault.com/2024/08/30/2024-08-30-Rust-in-Linux-revisited.html)
+- Aug 30 - [Our slowly growing Unix monoculture](https://utcc.utoronto.ca/%7Ecks/space/blog/sysadmin/OurGrowingUnixMonoculture)
 <!--END_SECTION:hn-->
 
 <!--
