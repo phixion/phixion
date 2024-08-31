@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 31 - [Texas State Police Gear Up for Expansion of Surveillance Tech](https://www.texasobserver.org/texas-dps-surveillance-tangle-cobwebs/)
-- Aug 31 - [Harder Drive: hard drives we didn't want, or need [video]](http://tom7.org/harder/)
-- Aug 31 - [Lucee: A light-weight dynamic CFML scripting language for the JVM](https://www.lucee.org/)
-- Aug 31 - [Deepwater Sub Recovers Roman Battering Ram Used in Carthage in Punic Wars Battle](https://gizmodo.com/deepwater-submarine-recovers-roman-battering-ram-from-ancient-battle-2000493180)
-- Aug 31 - [Sisk – Lightweight .NET Web Framework](https://www.sisk-framework.org/)
+- Aug 31 - [The Threat to OpenAI Is Growing](https://www.wsj.com/tech/ai/ai-chatgpt-nvidia-apple-facebook-383943d1)
+- Aug 31 - [Signals for Tailwind CSS (styling based on ancestor state via style queries)](https://github.com/brandonmcconnell/tailwindcss-signals)
+- Aug 31 - [Meta enforces purpose limitation via Privacy Aware Infrastructure at scale](https://engineering.fb.com/2024/08/27/security/privacy-aware-infrastructure-purpose-limitation-meta/)
+- Aug 31 - [Las Vegas police could boycott working NFL games over new facial ID policy](https://www.reviewjournal.com/local/local-las-vegas/nfl-facial-recognition-policy-upsets-las-vegas-police-union-3128202/)
+- Aug 31 - [Why You Should Learn Linux (As a Developer)](https://opiero.medium.com/why-you-should-learn-linux-9ceace168e5c)
 <!--END_SECTION:hn-->
 
 <!--
