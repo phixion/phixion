@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 31 - [Ask HN: Do YC startups hire remote employees from other countries?](https://news.ycombinator.com/item?id=41408197)
-- Aug 31 - [Alexander Grothendieck: a forgotten genius– or a lonely madman?](https://www.theguardian.com/science/article/2024/aug/31/alexander-grothendieck-huawei-ai-artificial-intelligence)
-- Aug 31 - [Orphaning bcachefs-tools in Debian](https://jonathancarter.org/2024/08/29/orphaning-bcachefs-tools-in-debian/)
-- Aug 31 - [EU ChatControl is back on the agenda](https://digitalcourage.social/@echo_pbreyer/113055345076289453)
-- Aug 31 - [Google Cloud: synchronous disk replication](https://cloud.google.com/compute/docs/disks/about-regional-persistent-disk)
+- Aug 31 - [Texas State Police Gear Up for Expansion of Surveillance Tech](https://www.texasobserver.org/texas-dps-surveillance-tangle-cobwebs/)
+- Aug 31 - [Harder Drive: hard drives we didn't want, or need [video]](http://tom7.org/harder/)
+- Aug 31 - [Lucee: A light-weight dynamic CFML scripting language for the JVM](https://www.lucee.org/)
+- Aug 31 - [Deepwater Sub Recovers Roman Battering Ram Used in Carthage in Punic Wars Battle](https://gizmodo.com/deepwater-submarine-recovers-roman-battering-ram-from-ancient-battle-2000493180)
+- Aug 31 - [Sisk – Lightweight .NET Web Framework](https://www.sisk-framework.org/)
 <!--END_SECTION:hn-->
 
 <!--
