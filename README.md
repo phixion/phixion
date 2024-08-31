@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 30 - [Crows Are Even Smarter Than We Thought](https://nautil.us/crows-are-even-smarter-than-we-thought-820066/)
+- Aug 31 - [Five Most Productive Years: What Happened and What's Next](https://writings.stephenwolfram.com/2024/08/five-most-productive-years-what-happened-and-whats-next/)
+- Aug 31 - [Cassette Tape Archive](http://www.tapedeck.org/index.php)
+- Aug 30 - [Expect – Linux tool for automating interactive programs](https://linux.die.net/man/1/expect)
+- Aug 30 - [Crows are even smarter than we thought](https://nautil.us/crows-are-even-smarter-than-we-thought-820066/)
 - Aug 30 - [Hadrius (YC W23) Is Hiring a Customer Success Engineer](https://www.ycombinator.com/companies/hadrius/jobs/m6sc1Vl-customer-success-engineer)
-- Aug 30 - [UK researchers find Alzheimer's-like brain changes in long Covid patients](https://uknow.uky.edu/research/uk-researchers-find-alzheimer-s-brain-changes-long-covid-patients)
-- Aug 30 - [Rust in Linux Revisited](https://drewdevault.com/2024/08/30/2024-08-30-Rust-in-Linux-revisited.html)
-- Aug 30 - [Our slowly growing Unix monoculture](https://utcc.utoronto.ca/%7Ecks/space/blog/sysadmin/OurGrowingUnixMonoculture)
 <!--END_SECTION:hn-->
 
 <!--
