@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 01 - [Anarchy in Sudan has spawned the world’s worst famine in 40 years](https://www.economist.com/briefing/2024/08/29/anarchy-in-sudan-has-spawned-the-worlds-worst-famine-in-40-years)
-- Sep 01 - [Einstein's Other Theory of Everything](https://nautil.us/einsteins-other-theory-of-everything-823245/)
-- Sep 01 - [Ask HN: How To: Internal Documentation?](https://news.ycombinator.com/item?id=41415619)
-- Sep 01 - [C Course Online](https://lucidar.me/en/c-class/learn-c-programming/)
-- Sep 01 - [The papers that most heavily cite retracted studies](https://www.nature.com/articles/d41586-024-02719-5)
+- Sep 01 - [Amazon and Bezos fund's influence over carbon credit market raises alarm](https://www.ft.com/content/388b190d-49b0-4997-af18-1049e911f0b7)
+- Sep 01 - [How a Leading Chain of Psychiatric Hospitals Traps Patients](https://www.nytimes.com/2024/09/01/business/acadia-psychiatric-patients-trapped.html)
+- Sep 01 - [Show HN: Linkpreview, see how your sites looks in social media and chat apps](https://linkpreview.xyz)
+- Sep 01 - [The Design and Implementation of the CPython Virtual Machine](https://blog.codingconfessions.com/p/cpython-vm-internals)
+- Sep 01 - [The web's clipboard, and how it stores data of different types](https://alexharri.com/blog/clipboard)
 <!--END_SECTION:hn-->
 
 <!--
