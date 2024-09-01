@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 31 - [Boox Palma Review: A Phone-Sized E-Ink Android Device That Isn't a Phone](https://ewritable.com/ereaders/boox-palma/review/)
-- Aug 31 - [Freetube is the best way to watch YouTube](https://www.popsci.com/diy/youtube-alternative-freetube/)
+- Sep 01 - [Taming the beast that is the Django ORM – An introduction](https://www.davidhang.com/blog/2024-09-01-taming-the-django-orm/)
+- Sep 01 - [Ozempic could delay ageing, researchers suggest](https://www.bbc.com/news/articles/ce81j919gdjo)
+- Sep 01 - [AirTags key to discovery of Houston's plastic recycling deception](https://appleinsider.com/articles/24/08/31/airtags-key-to-discovery-of-houstons-plastic-recycling-deception)
 - Aug 31 - [Building LLMs from the Ground Up: A 3-Hour Coding Workshop](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up)
 - Aug 31 - [A brief history of barbed wire fence telephone networks](https://loriemerson.net/2024/08/31/a-brief-history-of-barbed-wire-fence-telephone-networks/)
-- Aug 31 - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 <!--END_SECTION:hn-->
 
 <!--
