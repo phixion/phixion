@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 01 - [Amazon and Bezos fund's influence over carbon credit market raises alarm](https://www.ft.com/content/388b190d-49b0-4997-af18-1049e911f0b7)
-- Sep 01 - [How a Leading Chain of Psychiatric Hospitals Traps Patients](https://www.nytimes.com/2024/09/01/business/acadia-psychiatric-patients-trapped.html)
-- Sep 01 - [Show HN: Linkpreview, see how your sites looks in social media and chat apps](https://linkpreview.xyz)
-- Sep 01 - [The Design and Implementation of the CPython Virtual Machine](https://blog.codingconfessions.com/p/cpython-vm-internals)
-- Sep 01 - [The web's clipboard, and how it stores data of different types](https://alexharri.com/blog/clipboard)
+- Sep 01 - [Dexcom starts selling its new over-the-counter glucose monitor in the U.S.](https://www.sandiegouniontribune.com/2024/08/31/dexcom-starts-selling-its-new-over-the-counter-glucose-monitor-heres-how-much-it-costs/)
+- Sep 01 - [Texan used Apple AirTags to discover plastics in Houston aren't being recycled](https://www.tomshardware.com/tech-industry/texas-resident-used-apple-airtags-to-discover-plastics-taken-to-houston-recycling-centers-arent-being-recycled)
+- Sep 01 - [Brain Scientists Discover the Glue That Makes Memories Stick for a Lifetime](https://www.scientificamerican.com/article/brain-scientists-finally-discover-the-glue-that-makes-memories-stick-for-a/)
+- Sep 01 - [The EV evolution is going to take longer than we thought](https://www.theverge.com/2024/9/1/24232206/ev-sales-slow-hybrid-phev-charging-ford-tesla)
+- Sep 01 - [Americans' love affair with big cars is killing them](https://www.economist.com/interactive/united-states/2024/08/31/americans-love-affair-with-big-cars-is-killing-them)
 <!--END_SECTION:hn-->
 
 <!--
