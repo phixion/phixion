@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 01 - [AI is growing faster than companies can secure it, warn industry leaders](https://venturebeat.com/ai/ai-is-growing-faster-than-companies-can-secure-it-warn-industry-leaders/)
-- Sep 01 - [Chatbots Are Primed to Warp Reality](https://www.theatlantic.com/technology/archive/2024/08/chatbots-false-memories/679660/)
-- Sep 01 - [The case of the nearly 7k missing pancreases](https://www.vox.com/future-perfect/367812/organ-donation-loophole-pancreas-opo)
-- Sep 01 - [Playstation 2 GS emulation – the final frontier of Vulkan compute emulation](https://themaister.net/blog/2024/07/03/playstation-2-gs-emulation-the-final-frontier-of-vulkan-compute-emulation/)
-- Sep 01 - [Taming the beast that is the Django ORM – An introduction](https://www.davidhang.com/blog/2024-09-01-taming-the-django-orm/)
+- Sep 01 - [Anarchy in Sudan has spawned the world’s worst famine in 40 years](https://www.economist.com/briefing/2024/08/29/anarchy-in-sudan-has-spawned-the-worlds-worst-famine-in-40-years)
+- Sep 01 - [Einstein's Other Theory of Everything](https://nautil.us/einsteins-other-theory-of-everything-823245/)
+- Sep 01 - [Ask HN: How To: Internal Documentation?](https://news.ycombinator.com/item?id=41415619)
+- Sep 01 - [C Course Online](https://lucidar.me/en/c-class/learn-c-programming/)
+- Sep 01 - [The papers that most heavily cite retracted studies](https://www.nature.com/articles/d41586-024-02719-5)
 <!--END_SECTION:hn-->
 
 <!--
