@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 02 - [Ashby (YC W19) Is Hiring Engineers Who Can Design](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=0b7a2d09-b3ee-4181-a1df-be1ea3fff54e)
-- Sep 02 - [Vampires and Arithmomania](https://oddathenaeum.com/vampires-arithmomania/)
-- Sep 02 - [Cosy Computing](https://www.datagubbe.se/cosy/)
-- Sep 02 - [We can now watch Grace Hopper's famed 1982 lecture on YouTube](https://arstechnica.com/science/2024/08/we-can-now-watch-grace-hoppers-famed-1982-lecture-on-youtube/)
-- Sep 02 - [Authenticated Boot and Disk Encryption on Linux (2021)](https://0pointer.net/blog/authenticated-boot-and-disk-encryption-on-linux.html)
+- Sep 02 - [Bitmovin (YC S15) Is Hiring Various Roles in Austria](https://bitmovin.com/careers/)
+- Sep 02 - [Show HN: Defrag the Game](https://defrag-game.com)
+- Sep 02 - [Unlock Articles with Paywallskip](https://www.paywallskip.com/)
+- Sep 02 - [Upgrading a Toshiba NAS HDD Firmware on Linux](https://syscall.eu/blog/2024/08/28/toshiba_hdd_firmware/)
+- Sep 02 - [Telephone Line Rural Outside Plant](http://cityinfrastructure.com/single.php?d=RuralOutsidePlant&t=Rural%20Outside%20Plant)
 <!--END_SECTION:hn-->
 
 <!--
