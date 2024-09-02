@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 02 - [Show HN: Open-Source Software for Designing 3D-Printable Luneburg Lenses for RF](https://github.com/jboirazian/LuneForge)
-- Sep 02 - [Sleep on it: How the brain processes many experiences – even when 'offline'](https://news.yale.edu/2024/08/14/sleep-it-how-brain-processes-many-experiences-even-when-offline)
-- Sep 02 - [What Does It Mean to Learn?](https://www.newyorker.com/culture/open-questions/what-does-it-really-mean-to-learn)
-- Sep 02 - [They don't make 'em like that any more: the 3.5mm headphone jack socket](https://kevinboone.me/headphonejack.html)
-- Sep 02 - [NIH cancels 'Havana syndrome' research, unethical coercion of participants](https://www.cnn.com/2024/08/30/health/nih-havana-syndrome-study/index.html)
+- Sep 02 - [Tech firms were fighting a war for talent. Now they are waging war on talent](http://www.rosspettit.com/2024/08/for-years-tech-was-fighting-war-for.html)
+- Sep 02 - [CrowdStrike faces onslaught of legal action from faulty software update](https://techcrunch.com/2024/09/02/crowdstrike-faces-onslaught-of-legal-action-from-faulty-software-update/)
+- Sep 02 - [Show HN: Puns from Wikipedia Page Titles](https://punnily.com/)
+- Sep 02 - [Ketogenic Diet Shows Promise Treating Serious Mental Illness in Stanford Study](https://www.metabolicmind.org/news/ketogenic-diet-shows-promise-in-treating-serious-mental-illness-in-stanford-medicine-study)
+- Sep 02 - [Show HN: A modern way to type in African languages](https://github.com/pythonbrad/afrim)
 <!--END_SECTION:hn-->
 
 <!--
