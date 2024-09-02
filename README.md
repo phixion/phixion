@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 01 - [A Lot of 'Unskilled' Workers Aren't](https://www.bloomberg.com/opinion/articles/2024-09-01/labor-unskilled-workers-is-a-demeaning-term)
-- Sep 01 - [Extreme Pi Boot Optimization](https://kittenlabs.de/blog/2024/09/01/extreme-pi-boot-optimization/)
-- Sep 01 - ['Mindblowing' fake AMD Ryzen 7 7800X3D chip investigated – buyers beware](https://www.tomshardware.com/pc-components/cpus/mindblowing-fake-amd-ryzen-7-7800x3d-chip-investigated-buyers-beware)
-- Sep 01 - [Electrified thermochemical systems with high-frequency metamaterial reactors](https://www.cell.com/joule/fulltext/S2542-4351(24)00346-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2542435124003465%3Fshowall%3Dtrue)
-- Sep 01 - [Brain Scientists Discover the Glue That Makes Memories Stick for a Lifetime](https://www.scientificamerican.com/article/brain-scientists-finally-discover-the-glue-that-makes-memories-stick-for-a/)
+- Sep 02 - [How the Oldest Company in the World Survived Nearly 1,500 Years](https://www.openculture.com/2024/08/how-the-oldest-company-in-the-world-has-survived-nearly-1500-years.html)
+- Sep 02 - [Procreate defies AI trend, pledges "no generative AI" in its illustration app](https://arstechnica.com/information-technology/2024/08/procreate-defies-ai-trend-pledges-no-generative-ai-in-its-illustration-app/)
+- Sep 02 - [Tbsp – treesitter-based source processing language](https://git.peppe.rs/languages/tbsp/)
+- Sep 02 - [Meta data center electricity consumption hits 14,975GWh](https://www.datacenterdynamics.com/en/news/meta-data-center-electricity-consumption-hits-14975gwh-leased-data-center-use-nearly-doubles/)
+- Sep 02 - [Inductive or Deductive? Rethinking the Fundamental Reasoning Abilities of LLMs](https://arxiv.org/abs/2408.00114)
 <!--END_SECTION:hn-->
 
 <!--
