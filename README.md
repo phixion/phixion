@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 03 - [Chromatone – Visual Music Language](https://chromatone.center/)
-- Sep 03 - [A photographer captures life in America's last remaining old-growth forests](https://www.npr.org/sections/the-picture-show/2024/09/03/g-s1-5057/photographer-captures-life-in-old-growth-forests)
-- Sep 03 - [Show HN: PlasCAD: Open-source plasmid editor](https://github.com/David-OConnor/plascad)
-- Sep 03 - [Synchronizing pong to music with constrained optimization](https://victortao.substack.com/p/song-pong)
-- Sep 03 - [Steve Ballmer's incorrect binary search interview question](https://blog.jgc.org/2024/09/steve-ballmers-binary-search-interview.html)
+- Sep 03 - [Howm: Personal Wiki for Emacs](https://github.com/Emacs101/howm-manual)
+- Sep 03 - [Mondragon as the New City-State](https://www.elysian.press/p/mondragon-as-the-new-city-state)
+- Sep 03 - [GitHub disabled adguard filters repository](https://twitter.com/adguard/status/1831040130641252839)
+- Sep 03 - [American Radio Relay League paid $1M ransom payment](https://databreaches.net/2024/08/27/american-radio-relay-league-paid-1-million-ransom-payment/)
+- Sep 03 - [Some Advice for How to Make Emacs Tetris Harder (2019)](https://nickdrozd.github.io/2019/01/14/tetris.html)
 <!--END_SECTION:hn-->
 
 <!--
