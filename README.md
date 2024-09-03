@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 03 - [Mineflow (YC S24) Is Hiring a Machine Learning Engineer](https://www.ycombinator.com/companies/mineflow/jobs/sJbXTyi-founding-machine-learning-engineer)
+- Sep 03 - [Any idea what HW/MCU is inside Amazon Monitron?](https://www.amazon.com/dp/B0851JTCC1)
+- Sep 03 - [Getting price-gouged by private equity in the UK's happiest resort (2023)](https://www.netincome.co/p/getting-price-gouged-by-private-equity)
 - Sep 03 - [Economist Eugene Fama: 'Efficient markets is a hypothesis. It's not reality](https://www.ft.com/content/ec06fe06-6150-4f39-8175-37b9b61a5520)
-- Sep 03 - [Why Britain Drives on the Left](https://www.theguardian.com/notesandqueries/query/0,5753,-19385,00.html)
-- Sep 03 - [Diffusion Is Spectral Autoregression](https://sander.ai/2024/09/02/spectral-autoregression.html)
-- Sep 03 - [IPMI](https://computer.rip/2024-08-31-ipmi.html)
-- Sep 03 - [IANA's List of Domain Name System (DNS) Parameters](https://www.iana.org/assignments/dns-parameters/dns-parameters.xhtml)
+- Sep 03 - [Graph Language Models](https://aclanthology.org/2024.acl-long.245/)
 <!--END_SECTION:hn-->
 
 <!--
