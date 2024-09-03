@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 03 - [Mineflow (YC S24) Is Hiring a Machine Learning Engineer](https://www.ycombinator.com/companies/mineflow/jobs/sJbXTyi-founding-machine-learning-engineer)
-- Sep 03 - [Any idea what HW/MCU is inside Amazon Monitron?](https://www.amazon.com/dp/B0851JTCC1)
-- Sep 03 - [Getting price-gouged by private equity in the UK's happiest resort (2023)](https://www.netincome.co/p/getting-price-gouged-by-private-equity)
-- Sep 03 - [Economist Eugene Fama: 'Efficient markets is a hypothesis. It's not reality](https://www.ft.com/content/ec06fe06-6150-4f39-8175-37b9b61a5520)
-- Sep 03 - [Graph Language Models](https://aclanthology.org/2024.acl-long.245/)
+- Sep 03 - [Chromatone – Visual Music Language](https://chromatone.center/)
+- Sep 03 - [A photographer captures life in America's last remaining old-growth forests](https://www.npr.org/sections/the-picture-show/2024/09/03/g-s1-5057/photographer-captures-life-in-old-growth-forests)
+- Sep 03 - [Show HN: PlasCAD: Open-source plasmid editor](https://github.com/David-OConnor/plascad)
+- Sep 03 - [Synchronizing pong to music with constrained optimization](https://victortao.substack.com/p/song-pong)
+- Sep 03 - [Steve Ballmer's incorrect binary search interview question](https://blog.jgc.org/2024/09/steve-ballmers-binary-search-interview.html)
 <!--END_SECTION:hn-->
 
 <!--
