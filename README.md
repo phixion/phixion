@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 02 - [Tech firms were fighting a war for talent. Now they are waging war on talent](http://www.rosspettit.com/2024/08/for-years-tech-was-fighting-war-for.html)
-- Sep 02 - [CrowdStrike faces onslaught of legal action from faulty software update](https://techcrunch.com/2024/09/02/crowdstrike-faces-onslaught-of-legal-action-from-faulty-software-update/)
-- Sep 02 - [Show HN: Puns from Wikipedia Page Titles](https://punnily.com/)
-- Sep 02 - [Ketogenic Diet Shows Promise Treating Serious Mental Illness in Stanford Study](https://www.metabolicmind.org/news/ketogenic-diet-shows-promise-in-treating-serious-mental-illness-in-stanford-medicine-study)
-- Sep 02 - [Show HN: A modern way to type in African languages](https://github.com/pythonbrad/afrim)
+- Sep 02 - [Open Mathematics Depository](https://openmathdep.tuxfamily.org/)
+- Sep 02 - [Code Smarter, Not Harder: Developing with Cursor and Claude Sonnet](https://jstoppa.com/posts/artificial-intelligence/fundamentals/code-smarter-not-harder-developing-with-cursor-and-claude-sonnet/post/)
+- Sep 02 - [Iranian writer is sentenced to 12 years after tweeting a dot at supreme leader](https://www.npr.org/2024/09/02/g-s1-20579/iran-sentenced-12-years-tweet-supreme-leader)
+- Sep 02 - [Playdate Game Zero Zero: Perfect Stop](https://play.date/games/zero-zero/)
+- Sep 02 - [Long-term unemployment leads to disengagement and apathy](https://www.psypost.org/long-term-unemployment-leads-to-disengagement-and-apathy-rather-than-efforts-to-regain-control/)
 <!--END_SECTION:hn-->
 
 <!--
