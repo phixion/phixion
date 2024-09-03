@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 02 - [Open Mathematics Depository](https://openmathdep.tuxfamily.org/)
-- Sep 02 - [Code Smarter, Not Harder: Developing with Cursor and Claude Sonnet](https://jstoppa.com/posts/artificial-intelligence/fundamentals/code-smarter-not-harder-developing-with-cursor-and-claude-sonnet/post/)
-- Sep 02 - [Iranian writer is sentenced to 12 years after tweeting a dot at supreme leader](https://www.npr.org/2024/09/02/g-s1-20579/iran-sentenced-12-years-tweet-supreme-leader)
-- Sep 02 - [Playdate Game Zero Zero: Perfect Stop](https://play.date/games/zero-zero/)
-- Sep 02 - [Long-term unemployment leads to disengagement and apathy](https://www.psypost.org/long-term-unemployment-leads-to-disengagement-and-apathy-rather-than-efforts-to-regain-control/)
+- Sep 03 - [IANA's List of Domain Name System (DNS) Parameters](https://www.iana.org/assignments/dns-parameters/dns-parameters.xhtml)
+- Sep 03 - [Greppability is an underrated code metric](https://morizbuesing.com/blog/greppability-code-metric/)
+- Sep 03 - [Microsoft's 'Recall' feature can't be uninstalled after all](https://mashable.com/article/microsoft-recall-feature-cant-be-uninstalled)
+- Sep 03 - [Feds Kill Plan to Curb Medicare Advantage Overbilling After Industry Opposition](https://kffhealthnews.org/news/article/medicare-advantage-overbilling-diagnostic-codes-cms-killed-rule/)
+- Sep 03 - [Is My Blue Your Blue?](https://ismy.blue/)
 <!--END_SECTION:hn-->
 
 <!--
