@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 04 - [Immigration has remade the U.S. labor force](https://www.wsj.com/economy/how-immigration-remade-the-u-s-labor-force-716c18ee)
-- Sep 04 - [Photoroom (YC S20) Is Hiring a Django Back End Lead in Paris (PostgreSQL, REST)](https://jobs.ashbyhq.com/photoroom/ddf2ab84-6e90-4026-9622-6e92cb96722f)
+- Sep 04 - [PlayHT (YC W23) Is Hiring Fullstack Engineers](https://jobs.ashbyhq.com/playht/b6f0fedd-78e4-4525-8aa4-931cd91027ae)
 - Sep 04 - [State of S3 – Your Laptop is no Laptop anymore – a personal Rant](https://blog.jeujeus.de/blog/hardware/laptops-will-not-sleep-anymore/)
-- Sep 04 - [Interactive NixOS Tests](https://paperless.blog/interactive-nixos-tests)
-- Sep 04 - [Simplifying programming with AI-tutors](https://www.edmigo.in/)
+- Sep 04 - [Interviewing Tim Sweeney and Neal Stephenson](https://www.matthewball.co/all/sweeneystephenson)
+- Sep 04 - [Faster Integer Programming](https://cacm.acm.org/news/faster-integer-programming/)
+- Sep 03 - [Llms.txt](https://llmstxt.org/)
 <!--END_SECTION:hn-->
 
 <!--
