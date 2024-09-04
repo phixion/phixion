@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 04 - [PlayHT (YC W23) Is Hiring Fullstack Engineers](https://jobs.ashbyhq.com/playht/b6f0fedd-78e4-4525-8aa4-931cd91027ae)
-- Sep 04 - [State of S3 – Your Laptop is no Laptop anymore – a personal Rant](https://blog.jeujeus.de/blog/hardware/laptops-will-not-sleep-anymore/)
-- Sep 04 - [Interviewing Tim Sweeney and Neal Stephenson](https://www.matthewball.co/all/sweeneystephenson)
-- Sep 04 - [Faster Integer Programming](https://cacm.acm.org/news/faster-integer-programming/)
-- Sep 03 - [Llms.txt](https://llmstxt.org/)
+- Sep 04 - [sRGB Gamut Clipping (2021)](https://bottosson.github.io/posts/gamutclipping/)
+- Sep 04 - [Claude for Enterprise](https://www.anthropic.com/news/claude-for-enterprise)
+- Sep 04 - [Mockingboard 4c+: Because Interrupts Are Hard](https://blondihacks.com/mockingboard-4c/)
+- Sep 04 - [The Insecurity of Debian](https://unix.foo/posts/insecurity-of-debian/)
+- Sep 04 - [Boom Supersonic's XB-1 prototype aces 2nd test flight](https://www.space.com/boom-supersonic-xb-1-second-test-flight-photos)
 <!--END_SECTION:hn-->
 
 <!--
