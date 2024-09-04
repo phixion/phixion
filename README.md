@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 04 - [Navy chiefs conspired to get themselves illegal warship Wi-Fi](https://www.navytimes.com/news/your-navy/2024/09/03/how-navy-chiefs-conspired-to-get-themselves-illegal-warship-wi-fi/)
-- Sep 04 - [Court handcuffs employees with non-compete agreements – again](https://www.computerworld.com/article/3496192/court-handcuffs-employees-with-non-compete-agreements-again.html)
-- Sep 04 - [Interviewing Tim Sweeney and Neal Stephenson](https://www.matthewball.co/all/sweeneystephenson)
-- Sep 04 - [Emerge Tools (YC W21) is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
-- Sep 04 - [Faster Integer Programming](https://cacm.acm.org/news/faster-integer-programming/)
+- Sep 04 - [Immigration has remade the U.S. labor force](https://www.wsj.com/economy/how-immigration-remade-the-u-s-labor-force-716c18ee)
+- Sep 04 - [Photoroom (YC S20) Is Hiring a Django Back End Lead in Paris (PostgreSQL, REST)](https://jobs.ashbyhq.com/photoroom/ddf2ab84-6e90-4026-9622-6e92cb96722f)
+- Sep 04 - [State of S3 – Your Laptop is no Laptop anymore – a personal Rant](https://blog.jeujeus.de/blog/hardware/laptops-will-not-sleep-anymore/)
+- Sep 04 - [Interactive NixOS Tests](https://paperless.blog/interactive-nixos-tests)
+- Sep 04 - [Simplifying programming with AI-tutors](https://www.edmigo.in/)
 <!--END_SECTION:hn-->
 
 <!--
