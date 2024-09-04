@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 04 - [sRGB Gamut Clipping (2021)](https://bottosson.github.io/posts/gamutclipping/)
-- Sep 04 - [Claude for Enterprise](https://www.anthropic.com/news/claude-for-enterprise)
-- Sep 04 - [Mockingboard 4c+: Because Interrupts Are Hard](https://blondihacks.com/mockingboard-4c/)
-- Sep 04 - [The Insecurity of Debian](https://unix.foo/posts/insecurity-of-debian/)
-- Sep 04 - [Boom Supersonic's XB-1 prototype aces 2nd test flight](https://www.space.com/boom-supersonic-xb-1-second-test-flight-photos)
+- Sep 04 - [Rust in Linux lead retires rather than deal with more "nontechnical nonsense"](https://arstechnica.com/gadgets/2024/09/rust-in-linux-lead-retires-rather-than-deal-with-more-nontechnical-nonsense/)
+- Sep 04 - [Internet Archive loses appeal over eBook lending](https://www.theverge.com/2024/9/4/24235958/internet-archive-loses-appeal-ebook-lending)
+- Sep 04 - [Fake CV lands top 'engineer' in jail for 15 years](https://www.bbc.com/news/articles/c8er2990ydpo)
+- Sep 04 - [Kagi: Announcing The Assistant](https://blog.kagi.com/announcing-assistant)
+- Sep 04 - [Major book publishers defeat Internet Archive appeal over digital scanning](https://finance.yahoo.com/news/major-book-publishers-defeat-internet-181817991.html)
 <!--END_SECTION:hn-->
 
 <!--
