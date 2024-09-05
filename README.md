@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 05 - [Little white lies about blue light](https://www.jeremiahlee.com/posts/blue-light-sleep/)
-- Sep 05 - [Show HN: AnythingLLM – The Open-Source, All-in-One Desktop AI Assistant](https://news.ycombinator.com/item?id=41457633)
-- Sep 05 - [AlphaProteo generates novel proteins for biology and health research](https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/)
-- Sep 05 - [AI-powered music scam nets musician $10M in royalties–and federal charges](https://arstechnica.com/information-technology/2024/09/fbi-busts-musicians-elaborate-ai-powered-10m-streaming-royalty-heist/)
-- Sep 05 - [How to Read Deep Learning Paper as a Software Engineer](https://www.youtube.com/watch?v=nL7lAo95D-o)
+- Sep 05 - [My job is to watch dreams die](https://old.reddit.com/r/reddit.com/comments/k3zrz/by_request_from_the_jobs_thread_why_my_job_is_to/)
+- Sep 05 - [Hacker trap: Fake OnlyFans tool backstabs cybercriminals, steals passwords](https://www.bleepingcomputer.com/news/security/hacker-trap-fake-onlyfans-tool-backstabs-cybercriminals-steals-passwords/)
+- Sep 05 - [UE5 Nanite in WebGPU](https://github.com/Scthe/nanite-webgpu)
+- Sep 05 - [Deploying Rust in Existing Firmware Codebases](https://security.googleblog.com/2024/09/deploying-rust-in-existing-firmware.html)
+- Sep 05 - [Trellis (YC W24) is hiring eng to build AI workflows for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 <!--END_SECTION:hn-->
 
 <!--
