@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 05 - [Finley (YC W21) is hiring for Capital Markets innovators](https://www.finleycms.com/company/careers)
-- Sep 05 - [the US should place a value of $1.17M per additional birth](https://model-thinking.com/p/refillable-planet)
-- Sep 05 - [Toyota confirms third-party data breach impacting customers](https://www.bleepingcomputer.com/news/security/toyota-confirms-third-party-data-breach-impacting-customers/)
-- Sep 05 - [Giving C++ std:regex a C makeover](https://nullprogram.com/blog/2024/09/04/)
-- Sep 05 - [Porting systemd to musl Libc-powered Linux](https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/)
+- Sep 05 - [Little white lies about blue light](https://www.jeremiahlee.com/posts/blue-light-sleep/)
+- Sep 05 - [Show HN: AnythingLLM – The Open-Source, All-in-One Desktop AI Assistant](https://news.ycombinator.com/item?id=41457633)
+- Sep 05 - [AlphaProteo generates novel proteins for biology and health research](https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/)
+- Sep 05 - [AI-powered music scam nets musician $10M in royalties–and federal charges](https://arstechnica.com/information-technology/2024/09/fbi-busts-musicians-elaborate-ai-powered-10m-streaming-royalty-heist/)
+- Sep 05 - [How to Read Deep Learning Paper as a Software Engineer](https://www.youtube.com/watch?v=nL7lAo95D-o)
 <!--END_SECTION:hn-->
 
 <!--
