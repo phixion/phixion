@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 05 - [Flexport Is Hiring Engineers in Amsterdam](https://www.flexport.com/careers/teams/engineering/)
-- Sep 05 - [Desed: Demystify and debug your sed scripts](https://github.com/SoptikHa2/desed)
-- Sep 05 - [Show HN: Wat Dat – A Firefox Extension for Instant Text Explanations](https://addons.mozilla.org/en-US/firefox/addon/watdat/)
-- Sep 05 - [Yi-Coder: A Small but Mighty LLM for Code](https://01-ai.github.io/blog.html?post=en/2024-09-05-A-Small-but-Mighty-LLM-for-Code.md)
-- Sep 05 - [The Magazine for Mercenaries Enters Polite Society](https://www.newyorker.com/magazine/2024/09/09/the-magazine-for-mercenaries-enters-polite-society)
+- Sep 05 - [Finley (YC W21) is hiring for Capital Markets innovators](https://www.finleycms.com/company/careers)
+- Sep 05 - [the US should place a value of $1.17M per additional birth](https://model-thinking.com/p/refillable-planet)
+- Sep 05 - [Toyota confirms third-party data breach impacting customers](https://www.bleepingcomputer.com/news/security/toyota-confirms-third-party-data-breach-impacting-customers/)
+- Sep 05 - [Giving C++ std:regex a C makeover](https://nullprogram.com/blog/2024/09/04/)
+- Sep 05 - [Porting systemd to musl Libc-powered Linux](https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/)
 <!--END_SECTION:hn-->
 
 <!--
