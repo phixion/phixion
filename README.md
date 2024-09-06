@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 06 - [Nginx Has Moved to GitHub](https://mailman.nginx.org/pipermail/nginx-announce/2024/ITL3AOQSAJANFJXMM3VOVOIGOUADWFFK.html)
-- Sep 06 - [Europe Surpasses 900,000 Public EV Charge Points](https://evmarketsreports.com/europe-surpasses-900-000-public-ev-charge-points/)
-- Sep 06 - [Parkinson's may begin in the gut, study says, adding to growing evidence](https://www.washingtonpost.com/wellness/2024/09/05/parkinsons-disease-gut-study/)
-- Sep 06 - [Nntpit: Minimalist Reddit2nntp Gateway](https://github.com/taviso/nntpit)
-- Sep 06 - [Show HN: Wealthfolio: A Private, Open-Source Investment Tracker](https://wealthfolio.app)
+- Sep 06 - [Tesla launches first all-electric 'Giga Train' – and it's free to ride](https://www.yahoo.com/tech/tesla-launches-worlds-first-electric-111535136.html)
+- Sep 06 - [Godot founders had desperately hoped Unity wouldn't 'blow up'](https://www.gamedeveloper.com/programming/godot-founders-had-desperately-hoped-unity-wouldn-t-blow-up-)
+- Sep 06 - [Nango (YC W23, Product Integrations Platform) Is Hiring a Product Engineer](https://www.nango.dev/jobs)
+- Sep 06 - [Show HN: Infinity – Realistic AI characters that can speak](https://news.ycombinator.com/item?id=41467704)
+- Sep 06 - [Cough or sneeze? How the brain knows what to unleash](https://www.nature.com/articles/d41586-024-02858-9)
 <!--END_SECTION:hn-->
 
 <!--
