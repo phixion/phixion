@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 06 - [Did Sandia use a thermonuclear secondary in a product logo?](https://blog.nuclearsecrecy.com/2024/09/04/did-sandia-use-a-thermonuclear-secondary-in-a-product-logo/)
-- Sep 06 - [Baseline pupil size related to cognitive ability in proper lighting conditions](https://www.sciencedirect.com/science/article/abs/pii/S0010027721000627)
-- Sep 06 - [The expected value of the game is positive regardless of Ballmer’s strategy](https://gukov.dev/puzzles/math/2024/09/05/steve-ballmer-was-wrong.html)
-- Sep 06 - [I use Nim instead of Python for data processing (2021)](https://benjamindlee.com/posts/2021/why-i-use-nim-instead-of-python-for-data-processing/)
-- Sep 06 - [What happens when you touch a pickle to an AM radio tower](https://www.jeffgeerling.com/blog/2024/what-happens-when-you-touch-pickle-am-radio-tower)
+- Sep 06 - [PermitFlow (YC W22) Is Hiring Senior/Staff+ Engineers and Designers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
+- Sep 06 - [Voters' Yearning for a Dictator Is a Danger to the Country](https://reason.com/2024/09/06/voters-yearning-for-a-dictator-is-a-danger-to-the-country/)
+- Sep 06 - [The One-Eyed Man Is King: How did the monocle become a symbol of wealth? (2012)](https://slate.com/human-interest/2012/12/monocles-how-did-they-become-a-symbol-of-wealth.html)
+- Sep 06 - [The Founder Mode Tradeoff – By Kent Beck](https://tidyfirst.substack.com/p/the-founder-mode-tradeoff)
+- Sep 06 - [Swift is a more convenient Rust](http://blog.namangoel.com/swift-is-the-more-convenient-rust)
 <!--END_SECTION:hn-->
 
 <!--
