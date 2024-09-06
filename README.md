@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 05 - [My job is to watch dreams die](https://old.reddit.com/r/reddit.com/comments/k3zrz/by_request_from_the_jobs_thread_why_my_job_is_to/)
-- Sep 05 - [Hacker trap: Fake OnlyFans tool backstabs cybercriminals, steals passwords](https://www.bleepingcomputer.com/news/security/hacker-trap-fake-onlyfans-tool-backstabs-cybercriminals-steals-passwords/)
-- Sep 05 - [UE5 Nanite in WebGPU](https://github.com/Scthe/nanite-webgpu)
-- Sep 05 - [Deploying Rust in Existing Firmware Codebases](https://security.googleblog.com/2024/09/deploying-rust-in-existing-firmware.html)
-- Sep 05 - [Trellis (YC W24) is hiring eng to build AI workflows for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
+- Sep 05 - [Tell HN: Burnout is bad to your brain, take care](https://news.ycombinator.com/item?id=41461499)
+- Sep 05 - [The Early Days of Valve from a Woman Inside](https://medium.com/@monicah428/the-early-days-of-valve-from-a-woman-inside-bf80c6b47961)
+- Sep 05 - [Show HN: Feature Flags Backed by Git](https://www.flipt.io/)
+- Sep 05 - [Clojure 1.12.0 is now available](https://clojure.org/news/2024/09/05/clojure-1-12-0)
+- Sep 05 - [Common food dye found to make skin and muscle temporarily transparent](https://www.theguardian.com/science/article/2024/sep/05/common-food-dye-found-to-make-skin-and-muscle-temporarily-transparent)
 <!--END_SECTION:hn-->
 
 <!--
