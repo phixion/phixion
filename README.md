@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 06 - [Swiss watchmakers put employees on state-funded leave as luxury demand disappear](https://fortune.com/europe/2024/09/04/swiss-watchmakers-put-employees-on-state-funded-furlough-as-luxury-demand-disappears/)
-- Sep 06 - [LwIP – Lightweight IP Stack](https://www.nongnu.org/lwip/2_1_x/index.html)
-- Sep 06 - [Why Don't Tech Companies Pay Their Engineers to Stay?](https://www.goethena.com/post/why-dont-tech-companies-pay-engineers-more-to-stay/)
-- Sep 06 - [Visa to launch pay-by-bank payments, an alternative to credit cards](https://www.cnbc.com/2024/09/05/visa-to-launch-pay-by-bank-payments-an-alternative-to-credit-cards.html)
-- Sep 05 - [Tell HN: Burnout is bad to your brain, take care](https://news.ycombinator.com/item?id=41461499)
+- Sep 06 - [Did Sandia use a thermonuclear secondary in a product logo?](https://blog.nuclearsecrecy.com/2024/09/04/did-sandia-use-a-thermonuclear-secondary-in-a-product-logo/)
+- Sep 06 - [Baseline pupil size related to cognitive ability in proper lighting conditions](https://www.sciencedirect.com/science/article/abs/pii/S0010027721000627)
+- Sep 06 - [The expected value of the game is positive regardless of Ballmer’s strategy](https://gukov.dev/puzzles/math/2024/09/05/steve-ballmer-was-wrong.html)
+- Sep 06 - [I use Nim instead of Python for data processing (2021)](https://benjamindlee.com/posts/2021/why-i-use-nim-instead-of-python-for-data-processing/)
+- Sep 06 - [What happens when you touch a pickle to an AM radio tower](https://www.jeffgeerling.com/blog/2024/what-happens-when-you-touch-pickle-am-radio-tower)
 <!--END_SECTION:hn-->
 
 <!--
