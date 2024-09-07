@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 06 - [QtCS2024 Compile once. Run everywhere](https://wiki.qt.io/QtCS2024_Compile_once._Run_everywhere)
-- Sep 06 - [Boost your development environment with Ubuntu Multipass](https://letsdebug.it/post/21-ubuntu-multipass/)
-- Sep 06 - [Stranded astronauts' capsule heads home without them](https://www.bbc.co.uk/news/articles/cx29wzk4r19o)
-- Sep 06 - [Manipulating large language models to increase product visibility](https://arxiv.org/abs/2404.07981)
-- Sep 06 - [Hardware Acceleration of LLMs: A comprehensive survey and comparison](https://arxiv.org/abs/2409.03384)
+- Sep 07 - [Operating system threads are always going to be (more) expensive](https://utcc.utoronto.ca/~cks/space/blog/tech/OSThreadsAlwaysExpensive)
+- Sep 07 - [Check for malicious IPs using DNS](https://ipshield.dev/)
+- Sep 07 - [How to evaluate performance of LLM inference frameworks](https://www.lamini.ai/blog/evaluate-performance-llm-inference-frameworks)
+- Sep 07 - [Asynchronous IO: the next billion-dollar mistake?](https://yorickpeterse.com/articles/asynchronous-io-the-next-billion-dollar-mistake/)
+- Sep 07 - [Malaysia started mandating ISPs to redirect DNS queries to local servers](https://thesun.my/local-news/mcmc-addresses-misinformation-on-dns-redirection-internet-access-restrictions-BN12972452)
 <!--END_SECTION:hn-->
 
 <!--
