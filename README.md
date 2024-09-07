@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 06 - [Tesla launches first all-electric 'Giga Train' – and it's free to ride](https://www.yahoo.com/tech/tesla-launches-worlds-first-electric-111535136.html)
-- Sep 06 - [Godot founders had desperately hoped Unity wouldn't 'blow up'](https://www.gamedeveloper.com/programming/godot-founders-had-desperately-hoped-unity-wouldn-t-blow-up-)
-- Sep 06 - [Nango (YC W23, Product Integrations Platform) Is Hiring a Product Engineer](https://www.nango.dev/jobs)
-- Sep 06 - [Show HN: Infinity – Realistic AI characters that can speak](https://news.ycombinator.com/item?id=41467704)
-- Sep 06 - [Cough or sneeze? How the brain knows what to unleash](https://www.nature.com/articles/d41586-024-02858-9)
+- Sep 06 - [QtCS2024 Compile once. Run everywhere](https://wiki.qt.io/QtCS2024_Compile_once._Run_everywhere)
+- Sep 06 - [Dell and Palantir to join S&P 500; shares of both jump](https://www.cnbc.com/2024/09/06/dell-and-palantir-to-join-sp-500-shares-of-both-jump.html)
+- Sep 06 - [Stranded astronauts' capsule heads home without them](https://www.bbc.co.uk/news/articles/cx29wzk4r19o)
+- Sep 06 - [Leaked Disney+ financials may shed light on recent price hike](https://arstechnica.com/gadgets/2024/09/disney-made-2-4-billion-in-revenue-in-3-months-leak-claims/)
+- Sep 06 - [Manipulating Large Language Models to Increase Product Visibility](https://arxiv.org/abs/2404.07981)
 <!--END_SECTION:hn-->
 
 <!--
