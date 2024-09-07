@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 07 - [Operating system threads are always going to be (more) expensive](https://utcc.utoronto.ca/~cks/space/blog/tech/OSThreadsAlwaysExpensive)
-- Sep 07 - [Check for malicious IPs using DNS](https://ipshield.dev/)
-- Sep 07 - [How to evaluate performance of LLM inference frameworks](https://www.lamini.ai/blog/evaluate-performance-llm-inference-frameworks)
-- Sep 07 - [Asynchronous IO: the next billion-dollar mistake?](https://yorickpeterse.com/articles/asynchronous-io-the-next-billion-dollar-mistake/)
-- Sep 07 - [Malaysia started mandating ISPs to redirect DNS queries to local servers](https://thesun.my/local-news/mcmc-addresses-misinformation-on-dns-redirection-internet-access-restrictions-BN12972452)
+- Sep 07 - [Sieve (YC W22) Is hiring full stack engineers to build AI developer tools](https://www.sievedata.com/)
+- Sep 07 - [The PERQ Computer](https://graydon2.dreamwidth.org/313862.html)
+- Sep 07 - [Keyhole – Forge own Windows Store licenses](https://massgrave.dev/blog/keyhole)
+- Sep 07 - [Richard Feynman and the Connection Machine](https://longnow.org/essays/richard-feynman-and-connection-machine/)
+- Sep 07 - [Working Methods (Of a Historian)](https://www.lrb.co.uk/the-paper/v32/n11/keith-thomas/diary)
 <!--END_SECTION:hn-->
 
 <!--
