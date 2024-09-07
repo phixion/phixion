@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 07 - [X Exec Who Defended Restoring Account with Child Abuse Content Resigns](https://gizmodo.com/x-twitter-exec-who-defended-restoring-account-that-posted-child-sexual-abuse-material-leaves-the-company-2000495687)
+- Sep 07 - [A Post-Google World](https://www.thebignewsletter.com/p/a-post-google-world)
+- Sep 07 - ['Right to Repair for Your Body': The Rise of DIY, Pirated Medicine](https://fourthievesvinegar.org/)
+- Sep 07 - [WHAM: Wisconsin High-Temperature Superconducting Axisymmetric Mirror](https://wham.physics.wisc.edu/)
 - Sep 07 - [Sieve (YC W22) Is hiring full stack engineers to build AI developer tools](https://www.sievedata.com/)
-- Sep 07 - [The PERQ Computer](https://graydon2.dreamwidth.org/313862.html)
-- Sep 07 - [Keyhole – Forge own Windows Store licenses](https://massgrave.dev/blog/keyhole)
-- Sep 07 - [Richard Feynman and the Connection Machine](https://longnow.org/essays/richard-feynman-and-connection-machine/)
-- Sep 07 - [Working Methods (Of a Historian)](https://www.lrb.co.uk/the-paper/v32/n11/keith-thomas/diary)
 <!--END_SECTION:hn-->
 
 <!--
