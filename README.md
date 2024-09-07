@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 07 - [X Exec Who Defended Restoring Account with Child Abuse Content Resigns](https://gizmodo.com/x-twitter-exec-who-defended-restoring-account-that-posted-child-sexual-abuse-material-leaves-the-company-2000495687)
-- Sep 07 - [A Post-Google World](https://www.thebignewsletter.com/p/a-post-google-world)
-- Sep 07 - ['Right to Repair for Your Body': The Rise of DIY, Pirated Medicine](https://fourthievesvinegar.org/)
-- Sep 07 - [WHAM: Wisconsin High-Temperature Superconducting Axisymmetric Mirror](https://wham.physics.wisc.edu/)
-- Sep 07 - [Sieve (YC W22) Is hiring full stack engineers to build AI developer tools](https://www.sievedata.com/)
+- Sep 07 - [Paddle closed accounts with 1 week notice, leaving many founders in shock](https://twitter.com/vietyork/status/1832145475786670482)
+- Sep 07 - [College Grades Have Become a Charade. It's Time to Abolish Them.](https://www.wsj.com/us-news/education/college-grades-have-become-acharade-its-time-to-abolish-them-ee4eb3fe)
+- Sep 07 - [My new rust binary search](https://chadnauseam.com/coding/random/my-new-rust-binary-search)
+- Sep 07 - [Hallelujah, Leonard Cohen, and a Pulitzer Prize-winning writer's suicide](https://subtledigressions.substack.com/p/hallelujah-leonard-cohen-and-a-pulitzer)
+- Sep 07 - [Exercise May Be the Most Potent Medical Intervention Ever Known](https://www.theringer.com/2024/8/30/24231888/importance-of-exercise-medical-intervention-cardiovascular-health)
 <!--END_SECTION:hn-->
 
 <!--
