@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 08 - [GPT-fabricated scientific papers on Google Scholar](https://misinforeview.hks.harvard.edu/article/gpt-fabricated-scientific-papers-on-google-scholar-key-features-spread-and-implications-for-preempting-evidence-manipulation/)
+- Sep 08 - [Microui+fenster=Small GUI](https://bernsteinbear.com/blog/fenster-microui/)
 - Sep 07 - [Gnome Files: A detailed UI examination](https://www.datagubbe.se/gnomefiles/)
 - Sep 07 - [Appalachian Trail Hiker Photo Archive](https://athikerpictures.org/)
-- Sep 07 - [Google says replacing C/C++ in firmware with Rust is easy](https://www.theregister.com/2024/09/06/google_rust_c_code_language/)
 - Sep 07 - [CitizenDJ – Make music using free audio and video from the Library of Congress](https://citizen-dj.labs.loc.gov/)
-- Sep 07 - [My new rust binary search](https://chadnauseam.com/coding/random/my-new-rust-binary-search)
 <!--END_SECTION:hn-->
 
 <!--
