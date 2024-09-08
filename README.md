@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 07 - [Paddle closed accounts with 1 week notice, leaving many founders in shock](https://twitter.com/vietyork/status/1832145475786670482)
-- Sep 07 - [College Grades Have Become a Charade. It's Time to Abolish Them.](https://www.wsj.com/us-news/education/college-grades-have-become-acharade-its-time-to-abolish-them-ee4eb3fe)
+- Sep 07 - [Gnome Files: A detailed UI examination](https://www.datagubbe.se/gnomefiles/)
+- Sep 07 - [Appalachian Trail Hiker Photo Archive](https://athikerpictures.org/)
+- Sep 07 - [Google says replacing C/C++ in firmware with Rust is easy](https://www.theregister.com/2024/09/06/google_rust_c_code_language/)
+- Sep 07 - [CitizenDJ – Make music using free audio and video from the Library of Congress](https://citizen-dj.labs.loc.gov/)
 - Sep 07 - [My new rust binary search](https://chadnauseam.com/coding/random/my-new-rust-binary-search)
-- Sep 07 - [Hallelujah, Leonard Cohen, and a Pulitzer Prize-winning writer's suicide](https://subtledigressions.substack.com/p/hallelujah-leonard-cohen-and-a-pulitzer)
-- Sep 07 - [Exercise May Be the Most Potent Medical Intervention Ever Known](https://www.theringer.com/2024/8/30/24231888/importance-of-exercise-medical-intervention-cardiovascular-health)
 <!--END_SECTION:hn-->
 
 <!--
