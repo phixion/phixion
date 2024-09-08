@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 08 - [GPT-fabricated scientific papers on Google Scholar](https://misinforeview.hks.harvard.edu/article/gpt-fabricated-scientific-papers-on-google-scholar-key-features-spread-and-implications-for-preempting-evidence-manipulation/)
-- Sep 08 - [Microui+fenster=Small GUI](https://bernsteinbear.com/blog/fenster-microui/)
-- Sep 07 - [Gnome Files: A detailed UI examination](https://www.datagubbe.se/gnomefiles/)
-- Sep 07 - [Appalachian Trail Hiker Photo Archive](https://athikerpictures.org/)
-- Sep 07 - [CitizenDJ – Make music using free audio and video from the Library of Congress](https://citizen-dj.labs.loc.gov/)
+- Sep 08 - [Creating a search engine for fun and because Google sucks](https://vincents.dev/blog/creating-a-search-engine/?)
+- Sep 08 - [An open discussion forum for ArXiv papers](https://www.alphaxiv.org/)
+- Sep 08 - [Minimal Web](https://mnmlist.com/w/)
+- Sep 08 - [WordPerfect for Unix Character Terminals](https://github.com/taviso/wpunix)
+- Sep 08 - [Baiting the bot](https://conspirator0.substack.com/p/baiting-the-bot)
 <!--END_SECTION:hn-->
 
 <!--
