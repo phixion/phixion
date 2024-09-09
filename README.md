@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 09 - [What I gave up to become an engineering manager](https://emdiary.substack.com/p/what-i-gave-up-to-become-an-em)
+- Sep 09 - [Please stop inventing new software licences](https://shkspr.mobi/blog/2020/09/please-stop-inventing-new-software-licences/)
+- Sep 09 - [Study links bananas, oats and yoghurt to greater diabetes risk in susceptible](https://www.theguardian.com/society/article/2024/sep/08/study-links-bananas-oats-and-yoghurt-to-greater-diabetes-risk-in-susceptible-children)
 - Sep 09 - [Bitten by Unicode](https://pyatl.dev/2024/09/01/bitten-by-unicode/)
-- Sep 09 - [QUIC Is Not Quick Enough over Fast Internet](https://dl.acm.org/doi/10.1145/3589334.3645323)
-- Sep 09 - [Confirmed: Reflection 70B's official API is a wrapper for Sonnet 3.5](https://old.reddit.com/r/LocalLLaMA/s/4Ly2yj78aM)
-- Sep 09 - [Show HN: Ki Editor - the multicursor syntactical editor](https://ki-editor.github.io/ki-editor/)
-- Sep 09 - [ATProto for Distributed System Engineers](https://atproto.com/articles/atproto-for-distsys-engineers)
+- Sep 09 - [QUIC is not quick enough over fast internet](https://dl.acm.org/doi/10.1145/3589334.3645323)
 <!--END_SECTION:hn-->
 
 <!--
