@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 08 - [Linux's Bedtime Routine](https://tookmund.com/2024/09/hibernation-preparation)
-- Sep 08 - [Reclaim the Stack](https://reclaim-the-stack.com)
-- Sep 08 - [Charging lithium-ion batteries at high currents first increases lifespan by 50%](https://www.eurekalert.org/news-releases/1056171)
-- Sep 08 - [FBI recommends using an ad blocker (2022)](https://www.ic3.gov/Media/Y2022/PSA221221)
-- Sep 08 - [Exploiting CI / CD Pipelines for fun and profit](https://blog.razzsecurity.com/2024/09/08/exploitation-research/exploiting-ci-cd-pipelines-for-fun-and-profit/)
+- Sep 09 - [Bitten by Unicode](https://pyatl.dev/2024/09/01/bitten-by-unicode/)
+- Sep 09 - [QUIC Is Not Quick Enough over Fast Internet](https://dl.acm.org/doi/10.1145/3589334.3645323)
+- Sep 09 - [Confirmed: Reflection 70B's official API is a wrapper for Sonnet 3.5](https://old.reddit.com/r/LocalLLaMA/s/4Ly2yj78aM)
+- Sep 09 - [Show HN: Ki Editor - the multicursor syntactical editor](https://ki-editor.github.io/ki-editor/)
+- Sep 09 - [ATProto for Distributed System Engineers](https://atproto.com/articles/atproto-for-distsys-engineers)
 <!--END_SECTION:hn-->
 
 <!--
