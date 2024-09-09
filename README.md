@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 09 - [What I gave up to become an engineering manager](https://emdiary.substack.com/p/what-i-gave-up-to-become-an-em)
-- Sep 09 - [Please stop inventing new software licences](https://shkspr.mobi/blog/2020/09/please-stop-inventing-new-software-licences/)
-- Sep 09 - [Study links bananas, oats and yoghurt to greater diabetes risk in susceptible](https://www.theguardian.com/society/article/2024/sep/08/study-links-bananas-oats-and-yoghurt-to-greater-diabetes-risk-in-susceptible-children)
-- Sep 09 - [Bitten by Unicode](https://pyatl.dev/2024/09/01/bitten-by-unicode/)
-- Sep 09 - [QUIC is not quick enough over fast internet](https://dl.acm.org/doi/10.1145/3589334.3645323)
+- Sep 09 - [College Pulse (YC S18) Is Hiring](https://www.ycombinator.com/companies/college-pulse/jobs/Jmypwgw-research-analyst)
+- Sep 09 - [Wind Becomes Britain's Largest Electricity Source](https://reports.electricinsights.co.uk/q2-2024/wind-becomes-britains-largest-electricity-source/)
+- Sep 09 - [Comfy, the 2D rust game engine, is now archived](https://github.com/darthdeus/comfy)
+- Sep 09 - [Which open-source projects are widely used but maintained by just a few people?](https://news.ycombinator.com/item?id=41486565)
+- Sep 09 - [Please stop inventing new software licences (2020)](https://shkspr.mobi/blog/2020/09/please-stop-inventing-new-software-licences/)
 <!--END_SECTION:hn-->
 
 <!--
