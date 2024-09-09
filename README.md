@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 09 - [College Pulse (YC S18) Is Hiring](https://www.ycombinator.com/companies/college-pulse/jobs/Jmypwgw-research-analyst)
-- Sep 09 - [Wind Becomes Britain's Largest Electricity Source](https://reports.electricinsights.co.uk/q2-2024/wind-becomes-britains-largest-electricity-source/)
-- Sep 09 - [Comfy, the 2D rust game engine, is now archived](https://github.com/darthdeus/comfy)
-- Sep 09 - [Which open-source projects are widely used but maintained by just a few people?](https://news.ycombinator.com/item?id=41486565)
-- Sep 09 - [Please stop inventing new software licences (2020)](https://shkspr.mobi/blog/2020/09/please-stop-inventing-new-software-licences/)
+- Sep 09 - [DuckDB 1.1.0 Released](https://duckdb.org/2024/09/09/announcing-duckdb-110.html)
+- Sep 09 - [Great Barrier Reef already been dealt its death blow](https://www.rnz.co.nz/news/national/527469/great-barrier-reef-already-been-dealt-its-death-blow-scientist)
+- Sep 09 - [The short history of global living conditions and why it matters that we know it](https://ourworldindata.org/a-history-of-global-living-conditions)
+- Sep 09 - [ESPN AI-generated recap of retiring player's final match fails to mention them](https://awfulannouncing.com/espn/alex-morgan-ai-generated-recap-mention.html)
+- Sep 09 - [Why I Wrote Data Science for Crime Analysis with Python](https://crimede-coder.com/blogposts/2023/EarlyReleasePython)
 <!--END_SECTION:hn-->
 
 <!--
