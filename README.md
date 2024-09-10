@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 09 - [James Earl Jones has died](https://variety.com/2024/film/news/james-earl-jones-dead-darth-vader-lion-king-1236138656/)
-- Sep 09 - [FTC Pushed to Crack Down on Companies That Ruin Hardware via Software Updates](https://www.techdirt.com/2024/09/09/ftc-pushed-to-crack-down-on-companies-that-ruin-hardware-via-software-updates-or-annoying-paywalls/)
-- Sep 09 - [Transfusion: Predict the next token and diffuse images with one multimodal model](https://www.arxiv.org/abs/2408.11039)
-- Sep 09 - [iPhone 16 Pro and iPhone 16 Pro Max](https://www.apple.com/newsroom/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/)
-- Sep 09 - [Apple Watch Series 10](https://www.apple.com/newsroom/2024/09/introducing-apple-watch-series-10/)
+- Sep 10 - [Just for Fun. No](https://justforfunnoreally.dev)
+- Sep 10 - [Radiology specific foundation model released by Harrison.ai](https://harrison.ai/harrison-rad-1/)
+- Sep 10 - [DOJ claims Google has "trifecta of monopolies" on Day 1 of ad tech trial](https://arstechnica.com/tech-policy/2024/09/doj-claims-google-has-trifecta-of-monopolies-on-day-1-of-ad-tech-trial/)
+- Sep 10 - [Affordable DE10-Nano compatible boards for MiSTer FPGA retro platform](https://www.retrorgb.com/mister-pi-de-10-nano-clone-up-for-sale-today.html)
+- Sep 09 - [Gdi.js: JavaScript Runtime Written in Object Pascal](https://gdi.sh/)
 <!--END_SECTION:hn-->
 
 <!--
