@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 10 - [Just for Fun. No](https://justforfunnoreally.dev)
-- Sep 10 - [Radiology specific foundation model released by Harrison.ai](https://harrison.ai/harrison-rad-1/)
+- Sep 10 - [Is telling a model to "not hallucinate" absurd?](https://gist.github.com/yoavg/4e4b48afda8693bc274869c2c23cbfb2)
+- Sep 10 - [Japan gives $2.4B in incentives to Toyota and more for EV battery making](https://technode.com/2024/09/09/japan-gives-2-4-billion-in-incentives-to-toyota-and-more-for-battery-making/)
+- Sep 10 - [Just for Fun (2022)](https://justforfunnoreally.dev)
+- Sep 10 - [Radiology-specific foundation model](https://harrison.ai/harrison-rad-1/)
 - Sep 10 - [DOJ claims Google has "trifecta of monopolies" on Day 1 of ad tech trial](https://arstechnica.com/tech-policy/2024/09/doj-claims-google-has-trifecta-of-monopolies-on-day-1-of-ad-tech-trial/)
-- Sep 10 - [Affordable DE10-Nano compatible boards for MiSTer FPGA retro platform](https://www.retrorgb.com/mister-pi-de-10-nano-clone-up-for-sale-today.html)
-- Sep 09 - [Gdi.js: JavaScript Runtime Written in Object Pascal](https://gdi.sh/)
 <!--END_SECTION:hn-->
 
 <!--
