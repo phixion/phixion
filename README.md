@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 10 - [Six Ideas for Poland](https://www.noahpinion.blog/p/six-ideas-for-poland)
-- Sep 10 - [GPTs and Hallucination](https://queue.acm.org/detail.cfm?id=3688007)
-- Sep 10 - [Sony announces PS5 Pro, a $700 graphics workhorse available Nov. 7](https://arstechnica.com/gaming/2024/09/sony-announces-ps5-pro-a-700-graphics-workhorse-available-nov-7/)
-- Sep 10 - [Ford seeks patent for tech that listens to driver conversations to serve ads](https://therecord.media/ford-patent-application-in-vehicle-listening-advertising)
-- Sep 10 - [You can buy a diamond-making machine for $200k on Alibaba](https://arstechnica.com/science/2024/09/you-can-buy-a-diamond-making-machine-for-200000-on-alibaba/)
+- Sep 10 - [Iron Mountain: It's Time to Talk About Hard Drives](https://www.mixonline.com/business/inside-iron-mountain-its-time-to-talk-about-hard-drives)
+- Sep 10 - [New York Times tech workers union votes to authorize a strike](https://www.axios.com/2024/09/10/nyt-tech-union-strike-vote)
+- Sep 10 - [Show HN: Visual DB – Web front end for your database](https://visualdb.com/)
+- Sep 10 - [Lip Reading as a Service (Read Their Lips by Symphonic Labs)](https://www.readtheirlips.com/)
+- Sep 10 - [Google loses EU court battle over €2.4B antitrust fine](https://www.politico.eu/article/google-loses-court-battle-over-first-eu-antitrust-fine/)
 <!--END_SECTION:hn-->
 
 <!--
