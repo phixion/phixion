@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 10 - [Is telling a model to "not hallucinate" absurd?](https://gist.github.com/yoavg/4e4b48afda8693bc274869c2c23cbfb2)
-- Sep 10 - [Japan gives $2.4B in incentives to Toyota and more for EV battery making](https://technode.com/2024/09/09/japan-gives-2-4-billion-in-incentives-to-toyota-and-more-for-battery-making/)
+- Sep 10 - [Roame (YC S23) Is Hiring a Chief of Staff](https://www.ycombinator.com/companies/roame/jobs/dd4pOgQ-chief-of-staff)
+- Sep 10 - [Google and Apple Face Billions in Penalties After Losing E.U. Appeals](https://www.nytimes.com/2024/09/10/technology/european-union-apple-google-antitrust.html)
+- Sep 10 - [EU top court rules against Apple, Google](https://www.dw.com/en/eu-top-court-rules-against-apple-google/a-70175532)
+- Sep 10 - [Who uses Accept-Language header?](https://serpapi.com/blog/who-uses-accept-language-header/)
 - Sep 10 - [Just for Fun (2022)](https://justforfunnoreally.dev)
-- Sep 10 - [Radiology-specific foundation model](https://harrison.ai/harrison-rad-1/)
-- Sep 10 - [DOJ claims Google has "trifecta of monopolies" on Day 1 of ad tech trial](https://arstechnica.com/tech-policy/2024/09/doj-claims-google-has-trifecta-of-monopolies-on-day-1-of-ad-tech-trial/)
 <!--END_SECTION:hn-->
 
 <!--
