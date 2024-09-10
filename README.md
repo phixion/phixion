@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 10 - [Roame (YC S23) Is Hiring a Chief of Staff](https://www.ycombinator.com/companies/roame/jobs/dd4pOgQ-chief-of-staff)
-- Sep 10 - [Google and Apple Face Billions in Penalties After Losing E.U. Appeals](https://www.nytimes.com/2024/09/10/technology/european-union-apple-google-antitrust.html)
-- Sep 10 - [EU top court rules against Apple, Google](https://www.dw.com/en/eu-top-court-rules-against-apple-google/a-70175532)
-- Sep 10 - [Who uses Accept-Language header?](https://serpapi.com/blog/who-uses-accept-language-header/)
-- Sep 10 - [Just for Fun (2022)](https://justforfunnoreally.dev)
+- Sep 10 - [Six Ideas for Poland](https://www.noahpinion.blog/p/six-ideas-for-poland)
+- Sep 10 - [GPTs and Hallucination](https://queue.acm.org/detail.cfm?id=3688007)
+- Sep 10 - [Sony announces PS5 Pro, a $700 graphics workhorse available Nov. 7](https://arstechnica.com/gaming/2024/09/sony-announces-ps5-pro-a-700-graphics-workhorse-available-nov-7/)
+- Sep 10 - [Ford seeks patent for tech that listens to driver conversations to serve ads](https://therecord.media/ford-patent-application-in-vehicle-listening-advertising)
+- Sep 10 - [You can buy a diamond-making machine for $200k on Alibaba](https://arstechnica.com/science/2024/09/you-can-buy-a-diamond-making-machine-for-200000-on-alibaba/)
 <!--END_SECTION:hn-->
 
 <!--
