@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 11 - [YAML is not a superset of JSON](https://www.patrickstevens.co.uk/posts/2024-03-14-yaml-superset-json/)
+- Sep 11 - [We spent $20 to achieve RCE and accidentally became the admins of .mobi](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/)
+- Sep 11 - [Radicle 1.0 – A local-first, P2P alternative to GitHub](https://radicle.xyz/2024/09/10/radicle-1.0.html)
+- Sep 11 - [ZX Spectrum Documentary 'The Rubber Keyed Wonder' Gets London Premiere](https://www.timeextension.com/news/2024/09/zx-spectrum-documentary-the-rubber-keyed-wonder-gets-london-premiere-next-month)
+- Sep 11 - [Yaak is now open source](https://yaak.app/blog/now-open-source)
 - Sep 11 - [Possibly all the ways to get loop-finding in graphs wrong](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/findloop/)
-- Sep 11 - [Common mistakes when using the metric system](https://www.nayuki.io/page/common-mistakes-when-using-the-metric-system)
-- Sep 11 - [Struggling with Container HTTP Logs? Meet Logmink](https://github.com/mutairibassam/logmink)
-- Sep 11 - [I wish I didn't miss the '90s-00s internet](https://rohan.ga/blog/early-internet/)
 <!--END_SECTION:hn-->
 
 <!--
