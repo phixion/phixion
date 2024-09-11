@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 11 - [How economical is your local Taco Bell?](https://taconomical.com)
+- Sep 11 - [Building the Same App Using Various Web Frameworks](https://eugeneyan.com/writing/web-frameworks/)
+- Sep 10 - [Arvo Pärt's Journey](https://www.plough.com/en/topics/culture/music/arvo-parts-journey)
+- Sep 10 - [People who are colorblind are less likely to be picky eaters](https://theconversation.com/how-we-discovered-that-people-who-are-colorblind-are-less-likely-to-be-picky-eaters-232438)
 - Sep 10 - [Chai-1 Defeats AlphaFold 3](https://www.chaidiscovery.com/blog/introducing-chai-1)
-- Sep 10 - [Flipper Zero Gets Major Firmware Update, Can Eavesdrop on Walkie-Talkies](https://www.pcmag.com/news/flipper-zero-gets-major-firmware-update)
-- Sep 10 - [Rust in illumos](https://wegmueller.it/blog/posts/2024-09-02-rust-on-illumos)
-- Sep 10 - [Among the Moss Piglets: The First Image of a Tardigrade (1773)](https://publicdomainreview.org/collection/tardigrade/)
-- Sep 10 - [Lottery Simulator (2023)](https://perthirtysix.com/tool/lottery-simulator)
 <!--END_SECTION:hn-->
 
 <!--
