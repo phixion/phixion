@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 11 - [How economical is your local Taco Bell?](https://taconomical.com)
-- Sep 11 - [Building the Same App Using Various Web Frameworks](https://eugeneyan.com/writing/web-frameworks/)
-- Sep 10 - [Arvo Pärt's Journey](https://www.plough.com/en/topics/culture/music/arvo-parts-journey)
-- Sep 10 - [People who are colorblind are less likely to be picky eaters](https://theconversation.com/how-we-discovered-that-people-who-are-colorblind-are-less-likely-to-be-picky-eaters-232438)
-- Sep 10 - [Chai-1 Defeats AlphaFold 3](https://www.chaidiscovery.com/blog/introducing-chai-1)
+- Sep 11 - [YAML is not a superset of JSON](https://www.patrickstevens.co.uk/posts/2024-03-14-yaml-superset-json/)
+- Sep 11 - [Possibly all the ways to get loop-finding in graphs wrong](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/findloop/)
+- Sep 11 - [Common mistakes when using the metric system](https://www.nayuki.io/page/common-mistakes-when-using-the-metric-system)
+- Sep 11 - [Struggling with Container HTTP Logs? Meet Logmink](https://github.com/mutairibassam/logmink)
+- Sep 11 - [I wish I didn't miss the '90s-00s internet](https://rohan.ga/blog/early-internet/)
 <!--END_SECTION:hn-->
 
 <!--
