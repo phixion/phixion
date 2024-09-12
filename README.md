@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 11 - [Noisy Neighbor Detection with eBPF](https://netflixtechblog.com/noisy-neighbor-detection-with-ebpf-64b1f4b3bbdd)
-- Sep 11 - [Why Copilot Is Making Programmers Worse at Programming](https://www.darrenhorrocks.co.uk/why-copilot-making-programmers-worse-at-programming/)
-- Sep 11 - [SQLite on Rails: The how and why of optimal performance](https://fractaledmind.github.io/2024/04/15/sqlite-on-rails-the-how-and-why-of-optimal-performance/)
-- Sep 11 - [Algorithmic Wage Discrimination](https://columbialawreview.org/content/on-algorithmic-wage-discrimination/)
-- Sep 11 - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
+- Sep 11 - [Federal government to outlaw doxxing, impose up to seven years' jail](https://www.abc.net.au/news/2024-09-12/albanese-government-will-outlaw-doxxing/104340372)
+- Sep 11 - [Show HN: How much is 13B euros?](https://howmuchis13billioneuros.com)
+- Sep 11 - [Android now allows apps to block sideloading](https://arstechnica.com/gadgets/2024/09/android-now-allows-apps-to-block-sideloading-and-push-a-google-play-version/)
+- Sep 11 - [Pathpilot (YC S24) is hiring a founding AI and full-stack engineer](https://www.ycombinator.com/companies/pathpilot/jobs/GlywVaz-founding-engineer-ai-full-stack)
+- Sep 11 - [The first release candidate of FreeCAD 1.0 is out](https://blog.freecad.org/2024/09/10/the-first-release-candidate-of-freecad-1-0-is-out/comment-page-1/#comments)
 <!--END_SECTION:hn-->
 
 <!--
