@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 12 - [The Neverending Story](https://garrettdimon.com/journal/posts/the-neverending-story)
-- Sep 12 - [Show HN: Konty – A Balsamiq-alternative lo-fi wireframe tool for modern apps](https://konty.app/http://localhost:4321/)
-- Sep 12 - [NASA Pulls Off Delicate Thruster Swap, Keeping Voyager 1 Mission Alive](https://gizmodo.com/nasa-pulls-off-delicate-thruster-swap-keeping-voyager-1-mission-alive-2000497434)
-- Sep 12 - [The Minneapolis Street Grid: Explained](https://streets.mn/2024/09/11/streets-and-avenues-in-minneapolis/)
-- Sep 11 - [Be a Thermostat, Not a Thermometer](https://larahogan.me/blog/be-a-thermostat-not-a-thermometer/)
+- Sep 12 - [Personal carbon footprint of the rich is vastly underestimated](https://www.cam.ac.uk/research/news/personal-carbon-footprint-of-the-rich-is-vastly-underestimated-by-rich-and-poor-alike-study-finds)
+- Sep 12 - [Closing factories will not be enough to save Volkswagen](https://www.economist.com/business/2024/09/05/repairing-vw-requires-huge-upheavals)
+- Sep 12 - [Steam Families Is Here](https://store.steampowered.com/news/app/593110/view/4605582245626919823)
+- Sep 12 - [Watch live as SpaceX crew carry out first-ever commercial spacewalk](https://news.sky.com/story/spacex-polaris-dawn-spacewalk-live-first-ever-private-spacewalk-to-take-place-shortly-in-riskiest-mission-launched-by-company-13213196)
+- Sep 12 - [SpaceX Astronauts Begin Spacewalk, Putting New Spacesuits to Test](https://www.wsj.com/science/space-astronomy/spacex-launch-polaris-dawn-space-walk-bfed7f84)
 <!--END_SECTION:hn-->
 
 <!--
