@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 12 - [The new EVE MMO uses blockchain tech to create a "boiling financial hellscape"](https://www.pcgamer.com/games/mmo/the-new-eve-survival-mmo-is-using-blockchain-tech-to-create-a-boiling-financial-hellscape-but-dont-call-it-a-blockchain-game/)
-- Sep 12 - [Show HN: iFixit created a new USB-C, repairable soldering system](https://hackaday.com/2024/09/12/review-ifixits-fixhub-may-be-the-last-soldering-iron-you-ever-buy/)
-- Sep 12 - [Show HN: Repogather – copy relevant files to clipboard for LLM coding workflows](https://github.com/gr-b/repogather)
-- Sep 12 - [If I could dissect a sauropod](https://svpow.com/2024/09/12/if-i-could-dissect-a-sauropod/)
-- Sep 12 - [GAZEploit: Remote keystroke inference attack by gaze estimation in VR/MR devices](https://www.wired.com/story/apple-vision-pro-persona-eye-tracking-spy-typing/)
+- Sep 12 - [Create a RAG Pipeline with Pinecone](https://docs.vectorize.io/tutorials-and-how-to-guides/pinecone-quickstart)
+- Sep 12 - [DiyPresso: DIY Espresso Machine](https://www.diypresso.com/)
+- Sep 12 - [Making Things People Want vs. Making Things That Alter Thinking](https://rohan.ga/blog/building-stuff/)
+- Sep 12 - [Defusedxml – defusing XML bombs and other exploits](https://github.com/tiran/defusedxml)
+- Sep 12 - [OpenAI O1 Model](https://openai.com/index/learning-to-reason-with-llms/)
 <!--END_SECTION:hn-->
 
 <!--
