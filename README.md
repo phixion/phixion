@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 12 - [Create a RAG Pipeline with Pinecone](https://docs.vectorize.io/tutorials-and-how-to-guides/pinecone-quickstart)
-- Sep 12 - [DiyPresso: DIY Espresso Machine](https://www.diypresso.com/)
-- Sep 12 - [Making Things People Want vs. Making Things That Alter Thinking](https://rohan.ga/blog/building-stuff/)
-- Sep 12 - [Defusedxml – defusing XML bombs and other exploits](https://github.com/tiran/defusedxml)
-- Sep 12 - [OpenAI O1 Model](https://openai.com/index/learning-to-reason-with-llms/)
+- Sep 12 - [Why is language documentation still so terrible?](https://walnut356.github.io/posts/language-documentation/)
+- Sep 12 - [Data sleuths who spotted research misconduct cleared of defamation](https://arstechnica.com/science/2024/09/court-clears-researchers-of-defamation-for-identifying-manipulated-data/)
+- Sep 12 - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+- Sep 12 - [Ask HN: Is a Masters in CS/Engineering worth it for a mid-career PM?](https://news.ycombinator.com/item?id=41525309)
+- Sep 12 - [The Strange Case of the Rogue HP-12c Calculator](https://dm319.github.io/pages/2024_09_09_hp12_comma.html)
 <!--END_SECTION:hn-->
 
 <!--
