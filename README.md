@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 12 - [Why is language documentation still so terrible?](https://walnut356.github.io/posts/language-documentation/)
-- Sep 12 - [Data sleuths who spotted research misconduct cleared of defamation](https://arstechnica.com/science/2024/09/court-clears-researchers-of-defamation-for-identifying-manipulated-data/)
-- Sep 12 - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
-- Sep 12 - [Ask HN: Is a Masters in CS/Engineering worth it for a mid-career PM?](https://news.ycombinator.com/item?id=41525309)
-- Sep 12 - [The Strange Case of the Rogue HP-12c Calculator](https://dm319.github.io/pages/2024_09_09_hp12_comma.html)
+- Sep 13 - [Better-performing "25519" elliptic-curve cryptography](https://www.amazon.science/blog/better-performing-25519-elliptic-curve-cryptography)
+- Sep 13 - [Does Your Startup Need Complex Cloud Infrastructure?](https://www.hadijaveed.me/2024/09/08/does-your-startup-really-need-complex-cloud-infrastructure/)
+- Sep 13 - [The Magnetic Field of the Milky Way](https://lweb.cfa.harvard.edu/~reid/bfield.html)
+- Sep 13 - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring Software Engineers](https://news.ycombinator.com/item?id=41527191)
+- Sep 13 - [Notes on OpenAI's new o1 chain-of-thought models](https://simonwillison.net/2024/Sep/12/openai-o1/)
 <!--END_SECTION:hn-->
 
 <!--
