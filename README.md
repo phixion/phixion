@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 13 - [Cloud atlas of Mars reveals an atmosphere unlike our own](https://www.newscientist.com/article/2447266-cloud-atlas-of-mars-reveals-an-atmosphere-unlike-our-own/)
-- Sep 13 - [Using Android Without a Google Account](https://theprivacydad.com/using-android-without-a-google-account/)
-- Sep 13 - [Packed structs in Zig make bit/flag sets trivial](https://devlog.hexops.com/2022/packed-structs-in-zig/)
-- Sep 13 - [Porting SBCL to the Nintendo Switch](https://reader.tymoon.eu/article/437)
-- Sep 13 - [JG Ballard's Apocalyptic Art](https://www.newstatesman.com/culture/2024/09/jg-ballards-apocalyptic-art)
+- Sep 13 - [Tesla Semi fire in California took 50k gallons of water to extinguish](https://www.cnbc.com/2024/09/13/tesla-semi-fire-needed-50000-gallons-of-water-to-extinguish.html)
+- Sep 13 - [Modular Monoliths Are a Good Idea](https://materializedview.io/p/modular-monoliths-are-a-good-idea)
+- Sep 13 - [The End Times have come for the Pinboard bookmarking service](https://notes.kateva.org/2024/09/the-end-times-have-come-for-pinboardin.html)
+- Sep 13 - [The 34th First Annual Ig Nobel Ceremony](https://improbable.com/ig/archive/2024-ceremony/)
+- Sep 13 - [Supabase (YC S20) Is Hiring Postgres SREs [Fully Remote]](https://boards.greenhouse.io/supabase/jobs/5162509004)
 <!--END_SECTION:hn-->
 
 <!--
