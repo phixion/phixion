@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 14 - [Icon (real creators, AI ads) is hiring founding engineers (NYC)](https://icon.me/careers)
-- Sep 14 - [Why use metaphors in conflicts? Because understanding is remembering in disguise (2009)](https://westallen.typepad.com/brains_on_purpose/2009/06/why-use-metaphors-because-understanding-is-remembering-in-disguise.html)
-- Sep 14 - [Billiards is a good game (1975)](https://mag.uchicago.edu/billiards)
-- Sep 14 - [Void captures over a million Android TV boxes](https://news.drweb.com/show/?i=14900)
-- Sep 13 - [Intel Solidifies $3.5B Deal to Make Chips for Military](https://www.bloomberg.com/news/articles/2024-09-13/intel-solidifies-3-5-billion-deal-to-make-chips-for-us-military)
+- Sep 14 - [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
+- Sep 14 - [Making a rickroll laser: A parametric speaker](https://10maurycy10.github.io/projects/speaker/)
+- Sep 14 - [Factor 0.100 Now Available](https://re.factorcode.org/2024/09/factor-0-100-now-available.html)
+- Sep 14 - [Craig Wright said he invented Bitcoin – lawyers proved him wrong](https://www.ft.com/content/f3bb0b62-2d8a-44e8-a5aa-13a8f154ec0e)
+- Sep 14 - [They don't make readers like they used to](https://www.antipope.org/charlie/blog-static/2024/08/they-dont-make-readers-like-th.html)
 <!--END_SECTION:hn-->
 
 <!--
