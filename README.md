@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 14 - [Who is responsible for the greatest change to our language? Teenage girls](https://www.abc.net.au/news/2024-08-04/teenage-girls-linguistics/104160082)
+- Sep 14 - [Icon (real creators, AI ads) is hiring founding engineers (NYC)](https://icon.me/careers)
+- Sep 14 - [Why use metaphors in conflicts? Because understanding is remembering in disguise (2009)](https://westallen.typepad.com/brains_on_purpose/2009/06/why-use-metaphors-because-understanding-is-remembering-in-disguise.html)
 - Sep 14 - [Billiards is a good game (1975)](https://mag.uchicago.edu/billiards)
 - Sep 14 - [Void captures over a million Android TV boxes](https://news.drweb.com/show/?i=14900)
-- Sep 14 - [18,000 Miles Later, an American Woman Has Cycled the World](https://www.nytimes.com/2024/09/12/sports/cycling/bicycle-around-the-world-record.html)
-- Sep 13 - [US targets trade loophole used by ecommerce groups Temu and Shein](https://www.ft.com/content/2f07510b-d2c6-4bae-bae3-aa5dfa8bd796)
+- Sep 13 - [Intel Solidifies $3.5B Deal to Make Chips for Military](https://www.bloomberg.com/news/articles/2024-09-13/intel-solidifies-3-5-billion-deal-to-make-chips-for-us-military)
 <!--END_SECTION:hn-->
 
 <!--
