@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 15 - [Compression Dictionary Transport](https://datatracker.ietf.org/doc/draft-ietf-httpbis-compression-dictionary/)
-- Sep 15 - [Declarative Programming with AI/LLMs](https://blog.codesolvent.com/2024/09/declarative-programming-with-aillms.html)
-- Sep 15 - [Randomness extractors: making fair coins out of biased coins](https://bytepawn.com/randomness-extractors-making-fair-coins-out-of-biased-coins.html)
-- Sep 15 - [The Death of the Magazine](https://www.honest-broker.com/p/the-death-of-the-magazine)
-- Sep 15 - [Designing mathematics standards in agreement with science [pdf]](https://www.iejme.com/download/designing-mathematics-standards-in-agreement-with-science-13179.pdf)
+- Sep 15 - [How to Succeed in Mrbeast Production (Leaked PDF)](https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/)
+- Sep 15 - [A More Modern CSS Reset (2019)](https://piccalil.li/blog/a-more-modern-css-reset/)
+- Sep 15 - [Apple will charge more to swap your iPhone 16 Pro battery](https://www.theverge.com/2024/9/15/24245431/iphone-16-pro-max-battery-replacement-price-increase-apple-repair)
+- Sep 15 - [How Foundries Calculate Die Yield](https://www.viksnewsletter.com/p/how-foundries-calculate-die-yield)
+- Sep 15 - [Show HN: Subdomain Enumeration CLI](https://github.com/Barre/merklemap-cli)
 <!--END_SECTION:hn-->
 
 <!--
