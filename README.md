@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 15 - [Carma (YC W24) Is Hiring Software Engineers to Get Fleets Same-Day Auto Repair](https://news.ycombinator.com/item?id=41546954)
+- Sep 15 - [European Consumer Organization goes after publishers for their in-game currency](https://www.gamingonlinux.com/2024/09/european-consumer-organization-goes-after-multiple-publishers-for-their-in-game-currency/)
+- Sep 15 - [Mastering Null Semantics: Translating SQL Expressions to OpenSearch DSL](https://coralogix.com/blog/mastering-null-semantics-translating-sql-expressions-to-opensearch-dsl/)
+- Sep 15 - [AT&T's Hobbit Microprocessor (2023)](https://thechipletter.substack.com/p/at-and-ts-crisp-hobbits)
 - Sep 15 - [Google Has Officially Killed Cache Links](https://gizmodo.com/google-has-officially-killed-cache-links-1851220408)
-- Sep 15 - [Ask HN: Must-Read Books for Startups?](https://news.ycombinator.com/item?id=41545633)
-- Sep 15 - [Dropped Cheetos Could Have Triggered Ecosystem Chaos in Largest US Cave Chamber](https://www.iflscience.com/dropped-cheetos-could-have-triggered-ecosystem-chaos-in-largest-us-cave-chamber-75874)
-- Sep 15 - [How to Optimize Your Career for Happiness](https://praachi.work/blog/optimize-career-happiness)
-- Sep 15 - [Show HN: I made a game testing your prompting skills](https://app4.hc11.org/49499641/en/)
 <!--END_SECTION:hn-->
 
 <!--
