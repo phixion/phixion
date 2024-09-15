@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 15 - [CSCI 181G PO: Game Engine Programming](https://cs.pomona.edu/classes/cs181g/)
-- Sep 15 - [Lazarus Group laundered $200M from 25 crypto hacks to fiat](https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE)
-- Sep 15 - [Twelve Sentenced for Violent Home Invasion Robberies to Steal Cryptocurrency](https://www.justice.gov/opa/pr/twelve-defendants-sentenced-violent-home-invasion-robberies-steal-cryptocurrency)
-- Sep 14 - [Why Scrum Is Stressing You Out](https://rethinkingsoftware.substack.com/p/why-scrum-is-stressing-you-out)
-- Sep 14 - [Show HN: I made a digital circuit drawing and simulation game](https://github.com/lets-all-be-stupid-forever/circuit-artist)
+- Sep 15 - [Google Has Officially Killed Cache Links](https://gizmodo.com/google-has-officially-killed-cache-links-1851220408)
+- Sep 15 - [Ask HN: Must-Read Books for Startups?](https://news.ycombinator.com/item?id=41545633)
+- Sep 15 - [Dropped Cheetos Could Have Triggered Ecosystem Chaos in Largest US Cave Chamber](https://www.iflscience.com/dropped-cheetos-could-have-triggered-ecosystem-chaos-in-largest-us-cave-chamber-75874)
+- Sep 15 - [How to Optimize Your Career for Happiness](https://praachi.work/blog/optimize-career-happiness)
+- Sep 15 - [Show HN: I made a game testing your prompting skills](https://app4.hc11.org/49499641/en/)
 <!--END_SECTION:hn-->
 
 <!--
