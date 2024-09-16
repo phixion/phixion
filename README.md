@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 16 - [Diesel shop fined $10M for making and selling Emissions Defeat Devices](https://www.thedrive.com/news/feds-nail-another-diesel-shop-with-10m-in-fines-for-deleting-emissions-equipment)
-- Sep 16 - [Data center emissions probably 662% higher than big tech claims](https://www.theguardian.com/technology/2024/sep/15/data-center-gas-emissions-tech)
-- Sep 16 - [Satellite Imagery of Every Outdoor Basketball Court in the USA](https://pudding.cool/2024/09/courts/)
-- Sep 16 - [18 Months with a Framework 13](https://www.projectgus.com/2024/09/18-months-with-framework-laptop/)
-- Sep 16 - [LinkedIn blocked due Meshtastic video in private chat](https://github.com/resiliencetheatre/rpi4edgemapdisplay/discussions/4)
+- Sep 16 - [Protocol Buffer Design: Principles and Practices for Collaborative Development](https://eng.lyft.com/protocol-buffer-design-principles-and-practices-for-collaborative-development-8f5aa7e6ed85)
+- Sep 16 - [Show HN: JAQT – JavaScript Queries and Transformations](https://github.com/muze-nl/jaqt)
+- Sep 16 - [Attacking PowerShell Clixml Deserialization](https://www.truesec.com/hub/blog/attacking-powershell-clixml-deserialization)
+- Sep 16 - [How Chainalysis Made Their Way into Popular Monero Wallets](https://www.digilol.net/blog/chainanalysis-malicious-xmr.html)
+- Sep 15 - [Nothing: Simply Do Nothing](https://usenothing.com/)
 <!--END_SECTION:hn-->
 
 <!--
