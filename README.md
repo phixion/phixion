@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 15 - [How to Succeed in Mrbeast Production (Leaked PDF)](https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/)
-- Sep 15 - [A More Modern CSS Reset (2019)](https://piccalil.li/blog/a-more-modern-css-reset/)
-- Sep 15 - [Apple will charge more to swap your iPhone 16 Pro battery](https://www.theverge.com/2024/9/15/24245431/iphone-16-pro-max-battery-replacement-price-increase-apple-repair)
-- Sep 15 - [How Foundries Calculate Die Yield](https://www.viksnewsletter.com/p/how-foundries-calculate-die-yield)
-- Sep 15 - [Show HN: Subdomain Enumeration CLI](https://github.com/Barre/merklemap-cli)
+- Sep 15 - [Tell HN: DanBC has died](https://news.ycombinator.com/item?id=41550822)
+- Sep 15 - [Plain Text Accounting (PTA)](https://plaintextaccounting.org/)
+- Sep 15 - [Paraguay Loves Mickey, the Cartoon Mouse. Disney Doesn't](https://www.nytimes.com/2024/09/14/world/americas/paraguay-mickey-mouse-disney.html)
+- Sep 15 - [g1: Using Llama-3.1 70B on Groq to create o1-like reasoning chains](https://github.com/bklieger-groq/g1)
+- Sep 15 - [CSSnano](https://cssnano.github.io/cssnano/)
 <!--END_SECTION:hn-->
 
 <!--
