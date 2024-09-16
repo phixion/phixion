@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 16 - [Datomic and Content Addressable Techniques](https://www.latacora.com/blog/2024/09/13/datomic-and-content-addressable-techniques/)
-- Sep 16 - [Matrix Multiplication in Finite Fields](https://fileforma.substack.com/p/update-ffgemm-finite-field-general)
-- Sep 16 - [“Golden Lettuce” is genetically engineered to have higher beta-carotene levels](https://newatlas.com/health-wellbeing/golden-lettuce-genetically-engineered-30-times-vitamins/)
-- Sep 16 - [Product management is hosting a party, not playing chess](https://tidyfirst.substack.com/p/product-is-a-party-not-chess)
-- Sep 16 - [Launch HN: Silurian (YC S24) – Simulate the Earth](https://news.ycombinator.com/item?id=41556519)
+- Sep 16 - [Thoughts and Observations in the Wake of Apple's 'It's Glowtime' Keynote](https://daringfireball.net/2024/09/thoughts_and_observations_in_the_wake_of_apples_its_glowtime_keynote)
+- Sep 16 - [What If Ozempic Is Just a Good Thing?](https://nymag.com/intelligencer/article/ozempic-weight-loss-diet-drug-moral-panic.html)
+- Sep 16 - [macOS Sequoia is available today](https://www.apple.com/newsroom/2024/09/macos-sequoia-is-available-today/)
+- Sep 16 - [Interview with Inventor of Neural Nets Warren McCulloch () [video]](https://www.youtube.com/watch?v=wawMjJUCMVw)
+- Sep 16 - [TouchArcade Is Shutting Down](https://toucharcade.com/2024/09/16/toucharcade-is-shutting-down/)
 <!--END_SECTION:hn-->
 
 <!--
