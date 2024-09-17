@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 17 - [Signatures of Gravitational Atoms from Black Hole Mergers](https://physics.aps.org/articles/v17/133)
-- Sep 17 - [A Curried Composition Puzzle](https://franklin.dyer.me/post/212)
-- Sep 17 - [In 1926, TV Was Mechanical](https://spectrum.ieee.org/first-tv)
-- Sep 17 - [Fixing an Elgato HD60 S HDMI capture device with the help of Ghidra](https://www.downtowndougbrown.com/2024/09/fixing-an-elgato-hd60-s-hdmi-capture-device-with-the-help-of-ghidra/)
-- Sep 17 - [Show HN: Void, an open-source Cursor/GitHub Copilot alternative](https://voideditor.com)
+- Sep 17 - [Things you should know about Windows Input, but would rather not](https://ph3at.github.io/posts/Windows-Input/)
+- Sep 17 - [Launch HN: Marblism (YC W24) – Generate full-stack web apps from a prompt](https://news.ycombinator.com/item?id=41568343)
+- Sep 17 - [Why is it so hard to go back to the moon?](https://www.scientificamerican.com/article/why-is-it-so-much-harder-for-nasa-to-send-people-to-the-moon-now-than-it-was-during-the-apollo-era/)
+- Sep 17 - [Java 23 / JDK 23: General Availability](https://mail.openjdk.org/pipermail/jdk-dev/2024-September/009395.html)
+- Sep 17 - [Rio-labs/rio: WebApps in pure Python. No JavaScript, HTML and CSS needed](https://github.com/rio-labs/rio)
 <!--END_SECTION:hn-->
 
 <!--
