@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 17 - [Chain of Thought Empowers Transformers to Solve Inherently Serial Problems](https://twitter.com/denny_zhou/status/1835761801453306089)
+- Sep 17 - [47-year-old Voyager 1 fired up thrusters it hasn't used in decades](https://www.cnn.com/2024/09/16/science/voyager-1-thruster-issue/index.html)
+- Sep 17 - [Fixing an Elgato HD60 S HDMI capture device with the help of Ghidra](https://www.downtowndougbrown.com/2024/09/fixing-an-elgato-hd60-s-hdmi-capture-device-with-the-help-of-ghidra/)
+- Sep 17 - [Show HN: Void, an open-source Cursor/GitHub Copilot alternative](https://voideditor.com)
 - Sep 17 - [A lonely man in his 30s found community in an unlikely place: spin class](https://longreads.com/2024/09/05/spin-masculinity-loneliness-friendship/)
-- Sep 17 - [Why to Not Write a Book](https://gwern.net/book-writing)
-- Sep 17 - [What are the best options for Amazon SDEs thinking about leaving over RTO policy](https://news.ycombinator.com/item?id=41563621)
-- Sep 17 - [Indiana police are seizing FedEx packages containing cash](https://www.indystar.com/story/news/local/2024/08/13/california-jewelry-business-sues-indiana-over-seized-cash-fedex-henry-minh-inc/74788610007/)
-- Sep 17 - [The internet is worse than it used to be. How did we get here?](https://theconversation.com/the-internet-is-worse-than-it-used-to-be-how-did-we-get-here-and-can-we-go-back-236513)
 <!--END_SECTION:hn-->
 
 <!--
