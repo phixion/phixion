@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 17 - [Things you should know about Windows Input, but would rather not](https://ph3at.github.io/posts/Windows-Input/)
-- Sep 17 - [Launch HN: Marblism (YC W24) – Generate full-stack web apps from a prompt](https://news.ycombinator.com/item?id=41568343)
-- Sep 17 - [Why is it so hard to go back to the moon?](https://www.scientificamerican.com/article/why-is-it-so-much-harder-for-nasa-to-send-people-to-the-moon-now-than-it-was-during-the-apollo-era/)
-- Sep 17 - [Java 23 / JDK 23: General Availability](https://mail.openjdk.org/pipermail/jdk-dev/2024-September/009395.html)
-- Sep 17 - [Rio-labs/rio: WebApps in pure Python. No JavaScript, HTML and CSS needed](https://github.com/rio-labs/rio)
+- Sep 17 - [macOS Sequoia 15 may bypass DNS encryption](https://www.obdev.at/blog/warning-macos-sequoia-15-may-bypass-dns-encryption/)
+- Sep 17 - [TexTube: Chat with any YouTube video transcript in ChatGPT fast](https://chatgpt.com/g/g-2KencLm4f-textube)
+- Sep 17 - [Swift 6](https://www.swift.org/blog/announcing-swift-6/)
+- Sep 17 - [Knocking out one key gene leads to autistic traits](https://www.rockefeller.edu/news/36246-knocking-out-one-key-gene-leads-to-autistic-traits/)
+- Sep 17 - [Cloudflare Network Issues Affecting Service Reachability](https://www.cloudflarestatus.com/incidents/jnj1y9f5c1r8)
 <!--END_SECTION:hn-->
 
 <!--
