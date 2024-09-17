@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 17 - [Firefox no longer works after upgrading to macOS Sequoia](https://old.reddit.com/r/mac/comments/1fif1gr/firefox_no_longer_works_after_upgrading_to_macos/)
-- Sep 16 - [Intel foundry business to make custom chip for Amazon, chipmaker's shares jump](https://www.reuters.com/technology/intel-aws-expand-strategic-collaboration-chip-manufacturing-2024-09-16/)
-- Sep 16 - [China Is Rapidly Becoming a Leading Innovator in Advanced Industries](https://itif.org/publications/2024/09/16/china-is-rapidly-becoming-a-leading-innovator-in-advanced-industries/)
-- Sep 16 - [Nyxpsi – A Next-Gen Network Protocol for Extreme Packet Loss](https://github.com/nyxpsi/nyxpsi)
-- Sep 16 - [Franzelio: Draw Lines. Make Music. Share Your Instrument](https://franzelio.franzai.com/)
+- Sep 17 - [A lonely man in his 30s found community in an unlikely place: spin class](https://longreads.com/2024/09/05/spin-masculinity-loneliness-friendship/)
+- Sep 17 - [Why to Not Write a Book](https://gwern.net/book-writing)
+- Sep 17 - [What are the best options for Amazon SDEs thinking about leaving over RTO policy](https://news.ycombinator.com/item?id=41563621)
+- Sep 17 - [Indiana police are seizing FedEx packages containing cash](https://www.indystar.com/story/news/local/2024/08/13/california-jewelry-business-sues-indiana-over-seized-cash-fedex-henry-minh-inc/74788610007/)
+- Sep 17 - [The internet is worse than it used to be. How did we get here?](https://theconversation.com/the-internet-is-worse-than-it-used-to-be-how-did-we-get-here-and-can-we-go-back-236513)
 <!--END_SECTION:hn-->
 
 <!--
