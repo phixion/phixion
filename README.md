@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 17 - [Zep AI (YC W24) Is Hiring Standout AI Engineers](https://www.ycombinator.com/companies/zep-ai/jobs/llCvskY-ai-engineer)
-- Sep 17 - [Show HN: Will I run Boston 2025?](https://getfast.ai/boston2025/)
-- Sep 17 - [A Word about Systemd](https://skarnet.org/software/systemd.html)
-- Sep 17 - [Entire Independent Board of Directors of 23andMe Resigns](https://investors.23andme.com/news-releases/news-release-details/independent-directors-23andme-resign-board/)
-- Sep 17 - [A Friendly Introduction to Assembly for High-Level Programmers](https://shikaan.github.io/assembly/x86/guide/2024/09/08/x86-64-introduction-hello.html)
+- Sep 18 - [Scramble: Open-Source Alternative to Grammarly](https://github.com/zlwaterfield/scramble)
+- Sep 18 - [Apple Mobile Processors Are Now Made in America. By TSMC](https://timculpan.substack.com/p/apple-mobile-processors-are-now-made)
+- Sep 18 - [Exploring pre-1990 versions of wc(1) (2023)](https://sigwait.org/~alex/blog/2023/07/10/yqh6fX.html)
+- Sep 18 - [Emerge Tools (YC W21) is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
+- Sep 17 - [Rustpad is an efficient and minimal open-source collaborative text editor](https://github.com/ekzhang/rustpad)
 <!--END_SECTION:hn-->
 
 <!--
