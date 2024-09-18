@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 18 - [Hezbollah hand-held radios explode, killing three, one day after pager blasts](https://www.reuters.com/world/hezbollah-pager-explosions-live-2024-09-17/)
-- Sep 18 - [Scientists discover how many chemicals from food packaging enter our bodies](https://www.washingtonpost.com/climate-environment/2024/09/16/more-than-3000-chemicals-food-packaging-have-infiltrated-our-bodies/)
-- Sep 18 - [0day Contest for End-of-Life Devices Announced](https://www.districtcon.org/junkyard)
-- Sep 18 - [Amazon ordered a return to the office – but research says they'll backtrack](https://fortune.com/2024/09/18/amazon-andy-jassy-ordering-full-time-return-to-office-rto-research-backtrack/)
-- Sep 18 - [A high-performance, zero-overhead, extensible Python compiler using LLVM](https://github.com/exaloop/codon)
+- Sep 18 - [Is Tor still safe to use?](https://blog.torproject.org/tor-is-still-safe/)
+- Sep 18 - [Backlash over Amazon's return to office comes as workers demand higher wages](https://arstechnica.com/tech-policy/2024/09/backlash-over-amazons-return-to-office-comes-as-workers-demand-higher-wages/)
+- Sep 18 - [OpenAI Threatening to Ban Users for Asking Strawberry About Its Reasoning](https://futurism.com/the-byte/openai-ban-strawberry-reasoning)
+- Sep 18 - [Qwen2.5: A Party of Foundation Models](https://qwenlm.github.io/blog/qwen2.5/)
+- Sep 18 - [Meta AI: "The Future of AI Is Open Source and Decentralized"](https://twitter.com/AIatMeta/status/1834633042339741961)
 <!--END_SECTION:hn-->
 
 <!--
