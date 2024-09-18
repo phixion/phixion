@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 18 - [The Continued Trajectory of Idiocy in the Tech Industry](https://soatok.blog/2024/09/18/the-continued-trajectory-of-idiocy-in-the-tech-industry/)
-- Sep 18 - [A bottle of water per email: the hidden environmental costs of using AI chatbots](https://www.washingtonpost.com/technology/2024/09/18/energy-ai-use-electricity-water-data-centers/)
-- Sep 18 - [Scramble: Open-Source Alternative to Grammarly](https://github.com/zlwaterfield/scramble)
-- Sep 18 - [Asgard launches world's first DDR5-9600 DIMMs](https://www.tomshardware.com/pc-components/ram/asgard-launches-worlds-first-ddr5-9600-cudimms-promising-ddr5-10000-modules-are-on-the-way)
-- Sep 18 - [Apple mobile processors are now made in America by TSMC](https://timculpan.substack.com/p/apple-mobile-processors-are-now-made)
+- Sep 18 - [Hezbollah hand-held radios explode, killing three, one day after pager blasts](https://www.reuters.com/world/hezbollah-pager-explosions-live-2024-09-17/)
+- Sep 18 - [Scientists discover how many chemicals from food packaging enter our bodies](https://www.washingtonpost.com/climate-environment/2024/09/16/more-than-3000-chemicals-food-packaging-have-infiltrated-our-bodies/)
+- Sep 18 - [0day Contest for End-of-Life Devices Announced](https://www.districtcon.org/junkyard)
+- Sep 18 - [Amazon ordered a return to the office – but research says they'll backtrack](https://fortune.com/2024/09/18/amazon-andy-jassy-ordering-full-time-return-to-office-rto-research-backtrack/)
+- Sep 18 - [A high-performance, zero-overhead, extensible Python compiler using LLVM](https://github.com/exaloop/codon)
 <!--END_SECTION:hn-->
 
 <!--
