@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 18 - [26-Year-Old EY Employee Succumbs to 'Work Stress' Four Months After Joining](https://old.reddit.com/r/CharteredAccountants/comments/1fj08v9/ey_employee_died_of_work_pressure)
+- Sep 18 - [The Continued Trajectory of Idiocy in the Tech Industry](https://soatok.blog/2024/09/18/the-continued-trajectory-of-idiocy-in-the-tech-industry/)
+- Sep 18 - [A bottle of water per email: the hidden environmental costs of using AI chatbots](https://www.washingtonpost.com/technology/2024/09/18/energy-ai-use-electricity-water-data-centers/)
 - Sep 18 - [Scramble: Open-Source Alternative to Grammarly](https://github.com/zlwaterfield/scramble)
 - Sep 18 - [Asgard launches world's first DDR5-9600 DIMMs](https://www.tomshardware.com/pc-components/ram/asgard-launches-worlds-first-ddr5-9600-cudimms-promising-ddr5-10000-modules-are-on-the-way)
 - Sep 18 - [Apple mobile processors are now made in America by TSMC](https://timculpan.substack.com/p/apple-mobile-processors-are-now-made)
-- Sep 18 - [Exploring pre-1990 versions of wc(1) (2023)](https://sigwait.org/~alex/blog/2023/07/10/yqh6fX.html)
 <!--END_SECTION:hn-->
 
 <!--
