@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 17 - [macOS Sequoia 15 may bypass DNS encryption](https://www.obdev.at/blog/warning-macos-sequoia-15-may-bypass-dns-encryption/)
-- Sep 17 - [TexTube: Chat with any YouTube video transcript in ChatGPT fast](https://chatgpt.com/g/g-2KencLm4f-textube)
-- Sep 17 - [Swift 6](https://www.swift.org/blog/announcing-swift-6/)
-- Sep 17 - [Knocking out one key gene leads to autistic traits](https://www.rockefeller.edu/news/36246-knocking-out-one-key-gene-leads-to-autistic-traits/)
-- Sep 17 - [Cloudflare Network Issues Affecting Service Reachability](https://www.cloudflarestatus.com/incidents/jnj1y9f5c1r8)
+- Sep 17 - [Zep AI (YC W24) Is Hiring Standout AI Engineers](https://www.ycombinator.com/companies/zep-ai/jobs/llCvskY-ai-engineer)
+- Sep 17 - [Show HN: Will I run Boston 2025?](https://getfast.ai/boston2025/)
+- Sep 17 - [A Word about Systemd](https://skarnet.org/software/systemd.html)
+- Sep 17 - [Entire Independent Board of Directors of 23andMe Resigns](https://investors.23andme.com/news-releases/news-release-details/independent-directors-23andme-resign-board/)
+- Sep 17 - [A Friendly Introduction to Assembly for High-Level Programmers](https://shikaan.github.io/assembly/x86/guide/2024/09/08/x86-64-introduction-hello.html)
 <!--END_SECTION:hn-->
 
 <!--
