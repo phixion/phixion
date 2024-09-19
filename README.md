@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 19 - [Pediatricians Created the Peanut Allergy Epidemic](https://www.wsj.com/health/how-pediatricians-created-the-peanut-allergy-epidemic-952831c4)
-- Sep 19 - [OpenNMS: Visualize and monitor everything on your local and distributed networks](https://www.opennms.com/opennms-feature-list/)
-- Sep 19 - [Glass Antenna Turns windows into 5G Base Stations](https://spectrum.ieee.org/5g-antenna-transparent-window)
-- Sep 19 - [Three-Dimensional Wave Breaking](https://www.nature.com/articles/s41586-024-07886-z)
-- Sep 19 - [Tortured by regrets? A new study details how best to overcome them](https://www.latimes.com/lifestyle/story/2024-09-18/regret-how-to-overcome)
+- Sep 19 - [DirectX Adopting SPIR-V as the Interchange Format of the Future](https://devblogs.microsoft.com/directx/directx-adopting-spir-v/)
+- Sep 19 - [Zb: An Early-Stage Build System](https://www.zombiezen.com/blog/2024/09/zb-early-stage-build-system/)
+- Sep 19 - [Leonard Cohen: The Anti-Rock Star](https://www.theatlantic.com/magazine/archive/2024/10/christophe-lebold-leonard-cohen-book/679573/)
+- Sep 19 - [Aviator (YC S21) is hiring engineers to build open source stacked PRs CLI](https://aviator.co/jobs)
+- Sep 19 - [FTC: Vast Surveillance of Users by Social Media and Video Streaming Companies](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-staff-report-finds-large-social-media-video-streaming-companies-have-engaged-vast-surveillance)
 <!--END_SECTION:hn-->
 
 <!--
