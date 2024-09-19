@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 18 - [AI agents invade observability: snake oil or the future of SRE?](https://monitoring2.substack.com/p/ai-agents-invade-observability)
-- Sep 18 - [Hetzner Connectivity Issues Due to Sanction Busting Activities](https://blog.cloud66.com/hetzner-connectivity-issues-due-to-sanction-busting-activities)
-- Sep 18 - [From Myth to Measurement: Rethinking US News and World Report College Rankings](https://anandsanwal.me/us-news-college-rankings-myth/)
-- Sep 18 - [Ruby-SAML pwned by XML signature wrapping attacks](https://ssoready.com/blog/engineering/ruby-saml-pwned-by-xml-signature-wrapping-attacks/)
-- Sep 18 - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=41585449)
+- Sep 19 - [Got an unexpected $85K bill from Google Cloud](https://news.ycombinator.com/item?id=41588309)
+- Sep 19 - [Strange Design Decision: An Oven with French Doors](https://www.core77.com/posts/133639/Strange-Design-Decision-An-Oven-with-French-Doors)
+- Sep 19 - [Nintendo Files Suit for Infringement of Patent Rights Against Pocketpair, Inc](https://www.nintendo.co.jp/corporate/release/en/2024/240919.html)
+- Sep 18 - [Debugging Behind the Iron Curtain (2010)](https://www.jakepoz.com/debugging-behind-the-iron-curtain/)
+- Sep 18 - [J2ME-Loader: J2ME emulator for Android devices](https://github.com/nikita36078/J2ME-Loader)
 <!--END_SECTION:hn-->
 
 <!--
