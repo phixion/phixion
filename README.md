@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 18 - [Is Tor still safe to use?](https://blog.torproject.org/tor-is-still-safe/)
-- Sep 18 - [Backlash over Amazon's return to office comes as workers demand higher wages](https://arstechnica.com/tech-policy/2024/09/backlash-over-amazons-return-to-office-comes-as-workers-demand-higher-wages/)
-- Sep 18 - [OpenAI Threatening to Ban Users for Asking Strawberry About Its Reasoning](https://futurism.com/the-byte/openai-ban-strawberry-reasoning)
-- Sep 18 - [Qwen2.5: A Party of Foundation Models](https://qwenlm.github.io/blog/qwen2.5/)
-- Sep 18 - [Meta AI: "The Future of AI Is Open Source and Decentralized"](https://twitter.com/AIatMeta/status/1834633042339741961)
+- Sep 18 - [AI agents invade observability: snake oil or the future of SRE?](https://monitoring2.substack.com/p/ai-agents-invade-observability)
+- Sep 18 - [Hetzner Connectivity Issues Due to Sanction Busting Activities](https://blog.cloud66.com/hetzner-connectivity-issues-due-to-sanction-busting-activities)
+- Sep 18 - [From Myth to Measurement: Rethinking US News and World Report College Rankings](https://anandsanwal.me/us-news-college-rankings-myth/)
+- Sep 18 - [Ruby-SAML pwned by XML signature wrapping attacks](https://ssoready.com/blog/engineering/ruby-saml-pwned-by-xml-signature-wrapping-attacks/)
+- Sep 18 - [Meticulous (YC S21) is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=41585449)
 <!--END_SECTION:hn-->
 
 <!--
