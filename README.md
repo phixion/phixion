@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 19 - [Got an unexpected $85K bill from Google Cloud](https://news.ycombinator.com/item?id=41588309)
-- Sep 19 - [Strange Design Decision: An Oven with French Doors](https://www.core77.com/posts/133639/Strange-Design-Decision-An-Oven-with-French-Doors)
+- Sep 19 - [Microsoft Teams with Startup Anduril on Army Combat Goggle System](https://www.bloomberg.com/news/articles/2024-09-19/microsoft-teams-with-startup-anduril-on-army-combat-goggle-system)
+- Sep 19 - [US health system ranks last compared with peer nations, report finds – US news](https://www.theguardian.com/us-news/2024/sep/18/american-health-system-ranks-last)
+- Sep 19 - [Mozilla has fired their Chief Product Officer after cancer diagnosis](https://mastodon.social/@stevetex/113162099798398758)
+- Sep 19 - [Ask HN: My son might be blind – how to best support](https://news.ycombinator.com/item?id=41588200)
 - Sep 19 - [Nintendo Files Suit for Infringement of Patent Rights Against Pocketpair, Inc](https://www.nintendo.co.jp/corporate/release/en/2024/240919.html)
-- Sep 18 - [Debugging Behind the Iron Curtain (2010)](https://www.jakepoz.com/debugging-behind-the-iron-curtain/)
-- Sep 18 - [J2ME-Loader: J2ME emulator for Android devices](https://github.com/nikita36078/J2ME-Loader)
 <!--END_SECTION:hn-->
 
 <!--
