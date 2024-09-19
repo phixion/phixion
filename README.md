@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 19 - [Microsoft Teams with Startup Anduril on Army Combat Goggle System](https://www.bloomberg.com/news/articles/2024-09-19/microsoft-teams-with-startup-anduril-on-army-combat-goggle-system)
-- Sep 19 - [US health system ranks last compared with peer nations, report finds – US news](https://www.theguardian.com/us-news/2024/sep/18/american-health-system-ranks-last)
-- Sep 19 - [Mozilla has fired their Chief Product Officer after cancer diagnosis](https://mastodon.social/@stevetex/113162099798398758)
+- Sep 19 - [Ask HN: What currently is the best, nerd-friendly, rootable Android phone?](https://news.ycombinator.com/item?id=41590754)
+- Sep 19 - [ADHD headband treats symptoms in 20 minutes per day](https://newatlas.com/science/adhd-autism/adhd-device-neurode/)
+- Sep 19 - [Diversification is a negative price lunch](https://outcastbeta.com/diversification-is-a-negative-price-lunch/)
+- Sep 19 - [An In-Depth Guide to Contrastive Learning: Techniques, Models, and Applications](https://myscale.com/blog/what-is-contrastive-learning/)
 - Sep 19 - [Ask HN: My son might be blind – how to best support](https://news.ycombinator.com/item?id=41588200)
-- Sep 19 - [Nintendo Files Suit for Infringement of Patent Rights Against Pocketpair, Inc](https://www.nintendo.co.jp/corporate/release/en/2024/240919.html)
 <!--END_SECTION:hn-->
 
 <!--
