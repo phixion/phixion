@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 20 - [Thoughts on the New iOS Control Centre](https://manuelmoreale.com/thoughts-on-the-new-ios-control-centre)
+- Sep 20 - [No same site = None cookies for iOS18](https://github.com/WebKit/WebKit/pull/33164)
+- Sep 20 - [The Architecture of Open Source Applications](https://aosabook.org/en/)
+- Sep 20 - [Starlink's new satellites emit 30x more radio interference than before](https://www.theregister.com/2024/09/19/starlinks_spacex_satellites_radio_interference/)
+- Sep 20 - [A rigid but foldable indoor airship aerial system for cave exploration](https://arxiv.org/abs/2409.07591)
 - Sep 20 - [Why Apple Uses JPEG XL in the iPhone 16 and What It Means for Your Photos](https://petapixel.com/2024/09/18/why-apple-uses-jpeg-xl-in-the-iphone-16-and-what-it-means-for-your-photos/)
-- Sep 20 - [How We Found Bin Laden: The Basics of Foreign Signals Intelligence](https://directory.libsyn.com/episode/index/id/32884982)
-- Sep 20 - [Disable Sequoia's monthly screen recording permission prompt](https://tinyapps.org/blog/202409180700_disable_sequoia_nag.html)
-- Sep 20 - [A flight search engine that combines flights from different airlines? (2014)](https://travel.stackexchange.com/questions/26780/is-there-a-flight-search-engine-that-combines-flights-from-different-airlines)
 <!--END_SECTION:hn-->
 
 <!--
