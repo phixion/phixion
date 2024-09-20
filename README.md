@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Sep 19 - [HuntStand - 2,795,947 breached accounts](https://haveibeenpwned.com/PwnedWebsites#HuntStand)
 - Sep 16 - [Instituto Nacional de Deportes de Chile - 319,613 breached accounts](https://haveibeenpwned.com/PwnedWebsites#InstitutoNacionalDeDeportesDeChile)
 - Sep 15 - [Games Box - 1,439,354 breached accounts](https://haveibeenpwned.com/PwnedWebsites#GamesBox)
 - Sep 03 - [Blooms Today - 3,184,010 breached accounts](https://haveibeenpwned.com/PwnedWebsites#BloomsToday)
 - Sep 01 - [Market Moveis - 28,220 breached accounts](https://haveibeenpwned.com/PwnedWebsites#MarketMoveis)
-- Aug 30 - [Lookiero - 4,981,760 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Lookiero)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 19 - [DirectX Adopting SPIR-V as the Interchange Format of the Future](https://devblogs.microsoft.com/directx/directx-adopting-spir-v/)
-- Sep 19 - [Zb: An Early-Stage Build System](https://www.zombiezen.com/blog/2024/09/zb-early-stage-build-system/)
-- Sep 19 - [Leonard Cohen: The Anti-Rock Star](https://www.theatlantic.com/magazine/archive/2024/10/christophe-lebold-leonard-cohen-book/679573/)
-- Sep 19 - [Aviator (YC S21) is hiring engineers to build open source stacked PRs CLI](https://aviator.co/jobs)
-- Sep 19 - [FTC: Vast Surveillance of Users by Social Media and Video Streaming Companies](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-staff-report-finds-large-social-media-video-streaming-companies-have-engaged-vast-surveillance)
+- Sep 19 - [3K free SVG icons for popular brands](https://simpleicons.org/)
+- Sep 19 - [Visual guide to SSH tunneling and port forwarding](https://ittavern.com/visual-guide-to-ssh-tunneling-and-port-forwarding/)
+- Sep 19 - [GitHub Notification Emails Hijacked to Send Malware](https://ianspence.com/blog/2024-09/github-email-hijack/)
+- Sep 19 - [Avian flu detected in wastewater from 10 Texas cities](https://www.cidrap.umn.edu/avian-influenza-bird-flu/h5n1-avian-flu-virus-detected-wastewater-10-texas-cities)
+- Sep 19 - [Finley (YC W21) is hiring engineers to build cap markets software (US Remote)](https://jobs.lever.co/FinleyTechnologies/2bca72b7-ff5e-4277-bbaf-184138254589)
 <!--END_SECTION:hn-->
 
 <!--
