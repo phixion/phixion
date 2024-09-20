@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 20 - [No same site = None cookies for iOS18](https://github.com/WebKit/WebKit/pull/33164)
-- Sep 20 - [The Architecture of Open Source Applications](https://aosabook.org/en/)
-- Sep 20 - [Starlink's new satellites emit 30x more radio interference than before](https://www.theregister.com/2024/09/19/starlinks_spacex_satellites_radio_interference/)
-- Sep 20 - [A rigid but foldable indoor airship aerial system for cave exploration](https://arxiv.org/abs/2409.07591)
-- Sep 20 - [Why Apple Uses JPEG XL in the iPhone 16 and What It Means for Your Photos](https://petapixel.com/2024/09/18/why-apple-uses-jpeg-xl-in-the-iphone-16-and-what-it-means-for-your-photos/)
+- Sep 20 - [PermitFlow (YC W22) Is Hiring Senior/Staff+ Engineers and Designers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
+- Sep 20 - [Linux/4004: booting Linux on Intel 4004 for fun, art, and no profit](https://dmitry.gr/?r=05.Projects&proj=35.%20Linux4004)
+- Sep 20 - [What climate activists won't tell you about protecting the planet](https://zionlights.substack.com/p/what-climate-activists-wont-tell-you)
+- Sep 20 - [Training Language Models to Self-Correct via Reinforcement Learning](https://arxiv.org/abs/2409.12917)
+- Sep 20 - [Openpilot – Operating system for robotics](https://github.com/commaai/openpilot)
 <!--END_SECTION:hn-->
 
 <!--
