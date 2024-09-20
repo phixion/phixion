@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 20 - [PermitFlow (YC W22) Is Hiring Senior/Staff+ Engineers and Designers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
-- Sep 20 - [Linux/4004: booting Linux on Intel 4004 for fun, art, and no profit](https://dmitry.gr/?r=05.Projects&proj=35.%20Linux4004)
-- Sep 20 - [What climate activists won't tell you about protecting the planet](https://zionlights.substack.com/p/what-climate-activists-wont-tell-you)
-- Sep 20 - [Training Language Models to Self-Correct via Reinforcement Learning](https://arxiv.org/abs/2409.12917)
-- Sep 20 - [Openpilot – Operating system for robotics](https://github.com/commaai/openpilot)
+- Sep 20 - [MemoRAG – Enhance RAG with memory-based knowledge discovery for long contexts](https://github.com/qhjqhj00/MemoRAG)
+- Sep 20 - [New AI diffusion model approach solves the aspect ratio problem](https://news.rice.edu/news/2024/rice-research-could-make-weird-ai-images-thing-past)
+- Sep 20 - [Reactive Relational Algebra](https://taylor.town/reactive-relational-algebra)
+- Sep 20 - [Dry Cask Storage](https://en.wikipedia.org/wiki/Dry_cask_storage)
+- Sep 20 - [Linux Horror Stories and Protection Spells (Volume I) (2021)](https://www.blopig.com/blog/2021/07/linux-horror-stories-and-protection-spells-volume-i/)
 <!--END_SECTION:hn-->
 
 <!--
