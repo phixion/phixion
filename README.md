@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 21 - [Omega-3 intake counteracts symptoms of anxiety and depression in mice](https://www.psypost.org/omega-3-fatty-acid-intake-counteracts-symptoms-of-stress-induced-anxiety-and-depression-in-mice/)
-- Sep 21 - [Scaling up linear programming with PDLP](https://research.google/blog/scaling-up-linear-programming-with-pdlp/)
-- Sep 21 - [Mount Unix system into Common Lisp image](https://github.com/PuellaeMagicae/unix-in-lisp/blob/master/TUTORIAL.org)
-- Sep 21 - [Nango (YC W23) is hiring fullstack engs to solve product integrations](https://www.nango.dev/jobs)
-- Sep 21 - [Forget ChatGPT: why researchers now run small AIs on their laptops](https://www.nature.com/articles/d41586-024-02998-y)
+- Sep 21 - [What Is a Particle?](https://www.quantamagazine.org/what-is-a-particle-20201112/)
+- Sep 21 - [Analyzing the OpenAPI Tooling Ecosystem](https://modern-json-schema.com/analyzing-the-openapi-tooling-ecosystem)
+- Sep 21 - [Redis users considering alternatives after licensing move](https://www.theregister.com/2024/09/20/redis_users_considering_alternatives/)
+- Sep 21 - [LHC experiments at CERN observe quantum entanglement at the highest energy yet](https://home.cern/news/press-release/physics/lhc-experiments-cern-observe-quantum-entanglement-highest-energy-yet)
+- Sep 21 - [Applied Mathematical Programming](https://web.mit.edu/15.053/www/AMP.htm)
 <!--END_SECTION:hn-->
 
 <!--
