@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 20 - [How do archivists package things? The battle of the boxes](https://peelarchivesblog.com/2024/09/10/how-do-archivists-package-things-the-battle-of-the-boxes/)
-- Sep 20 - [Dropbox keeps threatening to delete my files](https://khromov.se/dropbox-keeps-threatening-to-delete-my-files/)
-- Sep 20 - [The Algorithm and the Hippocratic Oath](https://hedgehogreview.com/web-features/thr/posts/the-algorithm-and-the-hippocratic-oath)
-- Sep 20 - [UpCodes (YC S17) Is Hiring a Marketing Leader](https://up.codes/careers?utm_source=HN)
-- Sep 20 - [Show HN: Open-source text classification CLI – train models with no labeled data](https://github.com/taylorai/aiq)
+- Sep 21 - [Inside Annapurna Interactive's Mass Walkout](https://www.ign.com/articles/what-the-heck-has-been-going-on-at-annapurna-interactive-an-investigation)
+- Sep 21 - [Working in the office 5 days/week to build company culture is a myth: PwC report](https://www.msn.com/en-us/money/other/working-in-the-office-5-days-a-week-to-build-company-culture-is-a-myth-pwc-report-says/ar-AA1qU17L)
+- Sep 21 - [Americans Are Falling Behind on Their Bills](https://www.wsj.com/finance/americans-credit-debt-spending-interest-rates-f3836f23)
+- Sep 21 - [Hachette vs. Internet Archive: We're Still Fighting for Fair Use](https://www.libraryfutures.net/post/were-still-fighting-for-fair-use)
+- Sep 21 - [Apple Shares Full iPhone 16 and iPhone 16 Pro Repair Manuals](https://www.macrumors.com/2024/09/20/iphone-16-repair-manual/)
 <!--END_SECTION:hn-->
 
 <!--
