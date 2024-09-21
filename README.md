@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 20 - [Three Mile Island nuclear plant to restart, power Microsoft data centers](https://www.axios.com/2024/09/20/three-mile-island-nuclear-microsoft-ai-deal)
-- Sep 20 - [Qualcomm Approached Intel About a Takeover in Recent Days](https://www.wsj.com/business/deals/qualcomm-approached-intel-about-a-takeover-in-recent-days-fa114f9d)
-- Sep 20 - [Discord Reduced WebSocket Traffic by 40%](https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent)
-- Sep 20 - [Docker Desktop Alternative](https://container-desktop.com/)
-- Sep 20 - [Show HN: Inngest 1.0 – Open-source durable workflows on every platform](https://www.inngest.com/)
+- Sep 20 - [How do archivists package things? The battle of the boxes](https://peelarchivesblog.com/2024/09/10/how-do-archivists-package-things-the-battle-of-the-boxes/)
+- Sep 20 - [Dropbox keeps threatening to delete my files](https://khromov.se/dropbox-keeps-threatening-to-delete-my-files/)
+- Sep 20 - [The Algorithm and the Hippocratic Oath](https://hedgehogreview.com/web-features/thr/posts/the-algorithm-and-the-hippocratic-oath)
+- Sep 20 - [UpCodes (YC S17) Is Hiring a Marketing Leader](https://up.codes/careers?utm_source=HN)
+- Sep 20 - [Show HN: Open-source text classification CLI – train models with no labeled data](https://github.com/taylorai/aiq)
 <!--END_SECTION:hn-->
 
 <!--
