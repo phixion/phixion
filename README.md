@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 21 - [Omega-3 intake counteracts symptoms of anxiety and depression in mice](https://www.psypost.org/omega-3-fatty-acid-intake-counteracts-symptoms-of-stress-induced-anxiety-and-depression-in-mice/)
+- Sep 21 - [Scaling up linear programming with PDLP](https://research.google/blog/scaling-up-linear-programming-with-pdlp/)
+- Sep 21 - [Mount Unix system into Common Lisp image](https://github.com/PuellaeMagicae/unix-in-lisp/blob/master/TUTORIAL.org)
 - Sep 21 - [Nango (YC W23) is hiring fullstack engs to solve product integrations](https://www.nango.dev/jobs)
-- Sep 21 - [The Collapse of Self-Worth in the Digital Age](https://thewalrus.ca/collapse-of-self-worth-in-the-digital-age/)
-- Sep 21 - [Ultra high-resolution image of The Night Watch](https://www.rijksmuseum.nl/en/stories/operation-night-watch/story/ultra-high-resolution-image-of-the-night-watch)
-- Sep 21 - [Concord had a dev culture of toxic positivity that halted any negative feedback](https://twitter.com/longislandviper/status/1837157796137030141)
-- Sep 21 - [Kamal Proxy – A minimal HTTP proxy for zero-downtime deployments](https://github.com/basecamp/kamal-proxy)
+- Sep 21 - [Forget ChatGPT: why researchers now run small AIs on their laptops](https://www.nature.com/articles/d41586-024-02998-y)
 <!--END_SECTION:hn-->
 
 <!--
