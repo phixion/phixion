@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 22 - [Jeff Geerling – They stole my voice with AI](https://www.jeffgeerling.com/blog/2024/they-stole-my-voice-ai)
-- Sep 22 - [Twenty Years of FM Synthesis Inside Ableton Live](https://roberthenke.com/technology/operator.html)
-- Sep 22 - [Pulsar: Secure Steganography for Diffusion Models](https://eprint.iacr.org/2023/1758)
-- Sep 21 - [Dissociating language and thought in large language models](https://arxiv.org/abs/2301.06627)
-- Sep 21 - [What happened to the Japanese PC platforms?](https://www.mistys-internet.website/blog/blog/2024/09/21/what-happened-to-the-japanese-pc-platforms/)
+- Sep 22 - [Nextcloud: Open-Source Cloud Apps](https://nextcloud.com/)
+- Sep 22 - [Pay once. Use forever. Find the best purchase alternatives to subscription](https://payoncealternatives.com)
+- Sep 22 - [It is hard to recommend Google Cloud](https://ashishb.net/programming/google-cloud/)
+- Sep 22 - [Stupid Problems Require Stupid Solutions (Cloudflare Is Breaking My SVGs)](https://www.lloydatkinson.net/posts/2024/stupid-problems-require-stupid-solutions-cloudflare-is-breaking-my-svgs/)
+- Sep 22 - [They stole my voice with AI](https://www.jeffgeerling.com/blog/2024/they-stole-my-voice-ai)
 <!--END_SECTION:hn-->
 
 <!--
