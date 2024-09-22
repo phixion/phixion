@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 22 - [Motion (YC W20) Is Hiring a Quant Algo Developer](https://jobs.ashbyhq.com/motion/81dfecd7-a15b-424b-8fa2-3704dbacae7a?utm_source=hn)
+- Sep 22 - [How streaming LLM APIs work](https://til.simonwillison.net/llms/streaming-llm-apis)
 - Sep 22 - [Nextcloud: Open-Source Cloud Apps](https://nextcloud.com/)
-- Sep 22 - [Pay once. Use forever. Find the best purchase alternatives to subscription](https://payoncealternatives.com)
-- Sep 22 - [It is hard to recommend Google Cloud](https://ashishb.net/programming/google-cloud/)
-- Sep 22 - [Stupid Problems Require Stupid Solutions (Cloudflare Is Breaking My SVGs)](https://www.lloydatkinson.net/posts/2024/stupid-problems-require-stupid-solutions-cloudflare-is-breaking-my-svgs/)
-- Sep 22 - [They stole my voice with AI](https://www.jeffgeerling.com/blog/2024/they-stole-my-voice-ai)
+- Sep 22 - [LsCs is a cross platform C++ GUI library focused on Medical Devices](https://lscs-software.com/index.html)
+- Sep 22 - [Flappy Bird for Android, only C, under 100KB](https://github.com/VadimBoev/FlappyBird)
 <!--END_SECTION:hn-->
 
 <!--
