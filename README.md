@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 21 - [AI Companions Reduce Loneliness](https://arxiv.org/abs/2407.19096)
-- Sep 21 - [What Happened to the Japanese PC Platforms?](https://www.mistys-internet.website/blog/blog/2024/09/21/what-happened-to-the-japanese-pc-platforms/)
-- Sep 21 - [Deep space radio signal reaches Earth after 8B years](https://www.earth.com/news/deep-space-radio-signal-reaches-earth-after-8-billion-years-frb-20220610a/)
-- Sep 21 - [OpenSSH 9.9 Released](https://undeadly.org/cgi?action=article;sid=20240921181110)
-- Sep 21 - [100x Faster CPUs from Finland's New Startup](https://spectrum.ieee.org/parallel-processing-unit)
+- Sep 22 - [Jeff Geerling – They stole my voice with AI](https://www.jeffgeerling.com/blog/2024/they-stole-my-voice-ai)
+- Sep 22 - [Twenty Years of FM Synthesis Inside Ableton Live](https://roberthenke.com/technology/operator.html)
+- Sep 22 - [Pulsar: Secure Steganography for Diffusion Models](https://eprint.iacr.org/2023/1758)
+- Sep 21 - [Dissociating language and thought in large language models](https://arxiv.org/abs/2301.06627)
+- Sep 21 - [What happened to the Japanese PC platforms?](https://www.mistys-internet.website/blog/blog/2024/09/21/what-happened-to-the-japanese-pc-platforms/)
 <!--END_SECTION:hn-->
 
 <!--
