@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 22 - [The unknowns surrounding the mysterious rise of cancer in young adults](https://english.elpais.com/health/2024-09-20/the-unknowns-surrounding-the-mysterious-rise-of-cancer-in-young-adults.html)
+- Sep 22 - [Hy 1.0.0, the Lisp dialect for Python, has been released](https://github.com/hylang/hy/discussions/2608)
+- Sep 22 - [Show HN: I built a chatbot to converse with 3M SaaS product reviews](https://reviewradar.ai/)
+- Sep 22 - [The sorry state of Java deserialization](https://www.marginalia.nu/log/a_110_java_io/)
 - Sep 22 - [Motion (YC W20) Is Hiring a Quant Algo Developer](https://jobs.ashbyhq.com/motion/81dfecd7-a15b-424b-8fa2-3704dbacae7a?utm_source=hn)
-- Sep 22 - [How streaming LLM APIs work](https://til.simonwillison.net/llms/streaming-llm-apis)
-- Sep 22 - [Nextcloud: Open-Source Cloud Apps](https://nextcloud.com/)
-- Sep 22 - [LsCs is a cross platform C++ GUI library focused on Medical Devices](https://lscs-software.com/index.html)
-- Sep 22 - [Flappy Bird for Android, only C, under 100KB](https://github.com/VadimBoev/FlappyBird)
 <!--END_SECTION:hn-->
 
 <!--
