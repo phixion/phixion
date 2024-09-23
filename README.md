@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 23 - [Dot (YC S21) Is Hiring an Engineer to Automate Analytics (Remote)](https://www.ycombinator.com/companies/dot/jobs/VdiEzXq-founding-engineer-ai-analytics-remote)
-- Sep 23 - [Guiding principles: How US dietary guidelines contribute to obesity](https://thehill.com/opinion/4891813-robert-kennedy-jr-chronic-disease/)
-- Sep 23 - [AWS claims its cloud faces competition from on-premises IT](https://www.theregister.com/2024/09/17/aws_cma_investigation/)
-- Sep 23 - [How the iPhone 16's electrically-released adhesive works](https://www.ifixit.com/News/100352/we-hot-wired-the-iphone-16)
-- Sep 23 - [Qocker is a user-friendly Qt GUI application for managing Docker containers](https://github.com/xlmnxp/Qocker)
+- Sep 23 - [Why Is Britain Poor?](https://www.edwest.co.uk/p/why-is-britain-poor)
+- Sep 23 - [Show HN: Interactive map of the convenience store "turf war" in Japan](https://conbini.kikkia.dev)
+- Sep 23 - [Cloudflare's new marketplace lets websites charge AI bots for scraping](https://techcrunch.com/2024/09/23/cloudflares-new-marketplace-lets-websites-charge-ai-bots-for-scraping/)
+- Sep 23 - [Show HN: Media Hoarder v1.4.0 Supporting TV Series, Introducing Episode Heatmaps](https://github.com/theMK2k/Media-Hoarder/releases/tag/v1.4.0)
+- Sep 23 - [Show HN: A journaling service that runs over WhatsApp](https://todayhasbeen.com)
 <!--END_SECTION:hn-->
 
 <!--
