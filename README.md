@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 23 - [Why Is Britain Poor?](https://www.edwest.co.uk/p/why-is-britain-poor)
-- Sep 23 - [Show HN: Interactive map of the convenience store "turf war" in Japan](https://conbini.kikkia.dev)
-- Sep 23 - [Cloudflare's new marketplace lets websites charge AI bots for scraping](https://techcrunch.com/2024/09/23/cloudflares-new-marketplace-lets-websites-charge-ai-bots-for-scraping/)
-- Sep 23 - [Show HN: Media Hoarder v1.4.0 Supporting TV Series, Introducing Episode Heatmaps](https://github.com/theMK2k/Media-Hoarder/releases/tag/v1.4.0)
-- Sep 23 - [Show HN: A journaling service that runs over WhatsApp](https://todayhasbeen.com)
+- Sep 23 - [Telegram will now hand over phone number and IP for criminal suspects](https://www.theverge.com/2024/9/23/24252276/telegram-disclose-user-data-legal-requests-criminal-activity)
+- Sep 23 - [Developing a go bot embedding ichiban Prolog](https://rogersm.net/posts/developing-a-go-bot-embedding-ichiban-prolog/)
+- Sep 23 - [Show HN: I Wrote a Book on Java](https://news.ycombinator.com/item?id=41629377)
+- Sep 23 - [How much energy does desalinisation use? Is it "absurdly cheap"?](https://www.sustainabilitybynumbers.com/p/how-much-energy-does-desalinisation)
+- Sep 23 - [John Cassaday, Award-Winning Comic Book Artist&Creator of Planetary Dies at 52](https://www.nytimes.com/2024/09/18/arts/john-cassaday-dead.html)
 <!--END_SECTION:hn-->
 
 <!--
