@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 22 - [Desktop Windowing on Android Tablets](https://android-developers.googleblog.com/2024/09/developer-preview-desktop-windowing-on-android-tablets.html)
-- Sep 22 - [Love of cargo bikes is changing how we deliver goods in our cities](https://www.euronews.com/next/2024/09/22/europes-love-affair-with-cargo-bikes-is-changing-how-we-deliver-goods-in-our-cities)
-- Sep 22 - [Mathematicians discover new class of shape seen throughout nature](https://www.nature.com/articles/d41586-024-03099-6)
-- Sep 22 - [Long genetic and social isolation in Neanderthals before their extinction](https://www.cell.com/cell-genomics/fulltext/S2666-979X(24)00177-0)
-- Sep 22 - [It's probably time to rethink "Building in public"](https://laike9m.com/blog/no-one-builds-in-public,160/)
+- Sep 23 - [If AI is helping people code better, why aren't products getting better?](https://news.ycombinator.com/item?id=41621191)
+- Sep 22 - [Plagiarism Claims Are Brought Against University of Maryland's President](https://www.nytimes.com/2024/09/20/us/plagiarism-university-of-maryland-president-darryll-pines.html)
+- Sep 22 - [London saw a surprising benefit to ultra-low emissions zone: More active kids](https://grist.org/cities/london-fining-polluting-cars-more-active-kids/)
+- Sep 22 - [Low Cost CO2 Sensors Comparison: Photo-Acoustic vs. NDIR](https://www.airgradient.com/blog/co2-sensors-photo-acoustic-vs-ndir-updated/)
+- Sep 22 - [Why do BIC pens have a hole in the cap? (2016)](https://www.independent.co.uk/life-style/why-do-bic-pens-have-a-hole-in-their-lid-to-stop-choking-a6856061.html)
 <!--END_SECTION:hn-->
 
 <!--
