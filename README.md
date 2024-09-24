@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 24 - [Dumped orange peel transformed a barren pasture (2017)](https://www.sciencealert.com/how-12-000-tonnes-of-dumped-orange-peel-produced-something-nobody-imagined)
-- Sep 24 - [WP Engine sent "cease and desist" letter to Automattic](https://twitter.com/wpengine/status/1838350670564377051)
-- Sep 23 - [iPhone 16 Pro Storage Expansion 128GB to 1TB [video]](https://www.youtube.com/watch?v=KRRNR4HyYaw)
-- Sep 23 - [Telegram Removes Z-Library Posts 'Due to Copyright Infringement'](https://torrentfreak.com/telegram-removes-z-library-posts-due-to-copyright-infringement-240923/)
-- Sep 23 - [We fine-tuned Llama 405B on AMD GPUs](https://publish.obsidian.md/felafax/pages/Tune+Llama3+405B+on+AMD+MI300x+(our+journey))
+- Sep 24 - [Nintendo has filed a new 24GHz wireless device with the FCC](https://www.theverge.com/2024/9/23/24251736/nintendo-mmwave-device-24ghz-fcc-filing)
+- Sep 24 - [Carpentopod, a 12-legged walking wooden table that can serve drinks or snacks](https://www.designboom.com/technology/carpentopod-12-legged-walking-wooden-table-giliam-de-carpentier-09-20-2024/)
+- Sep 24 - [GUI Examples – Rye Language](https://ryelang.org/cookbook/rye-fyne/examples/)
+- Sep 24 - [3D-Stacked CMOS Takes Moore's Law to New Heights](https://spectrum.ieee.org/3d-cmos)
+- Sep 24 - [It's Now Officially Illegal to Use AI to Impersonate a Human Actor in Hollywood](https://futurism.com/the-byte/california-illegal-ai-impersonate-actor)
 <!--END_SECTION:hn-->
 
 <!--
