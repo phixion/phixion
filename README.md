@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 24 - [Fully documented source code for Lander on the Acorn Archimedes](https://lander.bbcelite.com/)
-- Sep 24 - [Radioactive Tape Dispenser (1970s)](https://www.orau.org/health-physics-museum/collection/consumer/miscellaneous/tape-dispenser.html)
-- Sep 24 - [Excel spreadsheet caused network equipment's physical failure](https://twitter.com/lauriewired/status/1838256923428438345)
-- Sep 24 - [3D-Stacked CMOS Takes Moore's Law to New Heights](https://spectrum.ieee.org/3d-cmos)
-- Sep 24 - [Maker Pipe – Structural Pipe Fittings for DIY Builders](https://makerpipe.com/)
+- Sep 24 - [Winamp Legacy player source code](https://github.com/WinampDesktop/winamp)
+- Sep 24 - [OpenBSD now enforcing no invalid NUL characters in shell scripts](https://www.undeadly.org/cgi?action=article;sid=20240924105732)
+- Sep 24 - [Giving T cells extra batteries supercharges them against cancer](https://newatlas.com/cancer/cancer-immunotherapy-t-cells-extra-batteries-supercharges/)
+- Sep 24 - [Show HN: Oodle – serverless, fully-managed, drop-in replacement for Prometheus](https://blog.oodle.ai/building-a-high-performance-low-cost-metrics-observability-system/)
+- Sep 24 - [Show HN: OpenFreeMap – Open-Source Map Hosting](https://openfreemap.org/)
 <!--END_SECTION:hn-->
 
 <!--
