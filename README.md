@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 24 - [Winamp Legacy player source code](https://github.com/WinampDesktop/winamp)
-- Sep 24 - [OpenBSD now enforcing no invalid NUL characters in shell scripts](https://www.undeadly.org/cgi?action=article;sid=20240924105732)
-- Sep 24 - [Giving T cells extra batteries supercharges them against cancer](https://newatlas.com/cancer/cancer-immunotherapy-t-cells-extra-batteries-supercharges/)
-- Sep 24 - [Show HN: Oodle – serverless, fully-managed, drop-in replacement for Prometheus](https://blog.oodle.ai/building-a-high-performance-low-cost-metrics-observability-system/)
-- Sep 24 - [Show HN: OpenFreeMap – Open-Source Map Hosting](https://openfreemap.org/)
+- Sep 24 - [Software developers targeted by malware hidden in Python packages](https://www.techradar.com/pro/security/software-developers-targeted-by-malware-hidden-in-python-packages)
+- Sep 24 - [Beyond the route: Introducing granular MTA bus speed data](https://new.mta.info/article/beyond-route-introducing-granular-mta-bus-speed-data)
+- Sep 24 - [Death of the Department Store](https://www.lrb.co.uk/the-paper/v46/n18/rosemary-hill/at-the-musee-des-arts-decoratifs)
+- Sep 24 - [Intel's Core Ultra 2 Chip Posts Nearly 24-Hour Battery Life in Lunar Lake](https://www.pcmag.com/news/lunar-lake-first-tests-intels-ai-ready-core-ultra-2-chip-posts-nearly-24)
+- Sep 24 - [Are there individual protons and neutrons in a nucleus?](https://physics.stackexchange.com/questions/828872/are-there-individual-protons-and-neutrons-in-a-nucleus)
 <!--END_SECTION:hn-->
 
 <!--
