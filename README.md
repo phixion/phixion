@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 24 - [Nintendo has filed a new 24GHz wireless device with the FCC](https://www.theverge.com/2024/9/23/24251736/nintendo-mmwave-device-24ghz-fcc-filing)
-- Sep 24 - [Carpentopod, a 12-legged walking wooden table that can serve drinks or snacks](https://www.designboom.com/technology/carpentopod-12-legged-walking-wooden-table-giliam-de-carpentier-09-20-2024/)
-- Sep 24 - [GUI Examples – Rye Language](https://ryelang.org/cookbook/rye-fyne/examples/)
+- Sep 24 - [Fully documented source code for Lander on the Acorn Archimedes](https://lander.bbcelite.com/)
+- Sep 24 - [Radioactive Tape Dispenser (1970s)](https://www.orau.org/health-physics-museum/collection/consumer/miscellaneous/tape-dispenser.html)
+- Sep 24 - [Excel spreadsheet caused network equipment's physical failure](https://twitter.com/lauriewired/status/1838256923428438345)
 - Sep 24 - [3D-Stacked CMOS Takes Moore's Law to New Heights](https://spectrum.ieee.org/3d-cmos)
-- Sep 24 - [It's Now Officially Illegal to Use AI to Impersonate a Human Actor in Hollywood](https://futurism.com/the-byte/california-illegal-ai-impersonate-actor)
+- Sep 24 - [Maker Pipe – Structural Pipe Fittings for DIY Builders](https://makerpipe.com/)
 <!--END_SECTION:hn-->
 
 <!--
