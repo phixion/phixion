@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 25 - [New California law requires one-click subscription cancellations](https://thedesk.net/2024/09/california-one-click-subscription-cancellation-law/)
-- Sep 25 - [Holy Hell, the Social Web Did Not Begin in 2008](https://bix.blog/posts/holy-hell-the-social-web-did-not-begin-in-2008)
-- Sep 25 - [Gnome 47 Wallpapers](https://blog.jimmac.eu/2024/wallpapers/)
-- Sep 25 - [FRED: New Zealand open-access and crowdsource database of fossil records](https://fred.org.nz/)
-- Sep 25 - [NIST to forbid requirement of specific passwords character composition](https://mastodon.social/@LukaszOlejnik/113193089731407165)
+- Sep 25 - [Hetzner introduces GPU server for AI training](https://www.hetzner.com/dedicated-rootserver/gex130/)
+- Sep 25 - [Europe's deadly floods are glimpse of future climate](https://www.bbc.com/news/articles/cn5zx2zx5xvo)
+- Sep 25 - [Why We're Having to End Our Direct Peering Relationship with Deutsche Telekom](https://about.fb.com/news/2024/09/why-were-having-to-end-our-direct-peering-relationship-with-deutsche-telekom/)
+- Sep 25 - [Machine learning reveals factors for successful crowdfunding](https://phys.org/news/2024-09-sweet-machine-reveals-factors-successful.html)
+- Sep 25 - [Global EV Charging Points with Open Charge Map](https://tech.marksblogg.com/open-charge-map-global-ev-charging-point-dataset.html)
 <!--END_SECTION:hn-->
 
 <!--
