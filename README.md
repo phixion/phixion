@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 25 - [Capstone Disassembler Framework](https://github.com/capstone-engine/capstone)
-- Sep 25 - [Launch HN: Haystack (YC S24) – Visualize and edit code on an infinite canvas](https://github.com/haystackeditor/haystack-editor)
-- Sep 25 - [System Intiative is generally available](https://www.systeminit.com/blog-system-initiative-is-the-future/)
-- Sep 25 - [A thriving underground economy is clogging the internet with AI garbage](https://nymag.com/intelligencer/article/ai-generated-content-internet-online-slop-spam.html)
-- Sep 25 - [Audio Masking](https://www.cryptomuseum.com/covert/bugs/masking/)
+- Sep 25 - [Mira Exits OpenAI](https://twitter.com/miramurati/status/1839025700009030027)
+- Sep 25 - [Cozystack has officially been included in the CNCF Landscape](https://blog.aenix.io/cozystack-has-officially-been-included-in-the-cncf-landscape-07cc60c9e0eb)
+- Sep 25 - [Show HN: Httpdbg – A tool to trace the HTTP requests sent by your Python code](https://github.com/cle-b/httpdbg)
+- Sep 25 - [How to avoid a BSOD on your 2B dollar spacecraft](https://clarkwakeland.com/blog/2024/avoiding-a-BSOD-on-your-satellite/)
+- Sep 25 - [Orion, Our First True Augmented Reality Glasses](https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/)
 <!--END_SECTION:hn-->
 
 <!--
