@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 25 - [Hetzner introduces GPU server for AI training](https://www.hetzner.com/dedicated-rootserver/gex130/)
-- Sep 25 - [Europe's deadly floods are glimpse of future climate](https://www.bbc.com/news/articles/cn5zx2zx5xvo)
-- Sep 25 - [Why We're Having to End Our Direct Peering Relationship with Deutsche Telekom](https://about.fb.com/news/2024/09/why-were-having-to-end-our-direct-peering-relationship-with-deutsche-telekom/)
-- Sep 25 - [Machine learning reveals factors for successful crowdfunding](https://phys.org/news/2024-09-sweet-machine-reveals-factors-successful.html)
-- Sep 25 - [Global EV Charging Points with Open Charge Map](https://tech.marksblogg.com/open-charge-map-global-ev-charging-point-dataset.html)
+- Sep 25 - [Capstone Disassembler Framework](https://github.com/capstone-engine/capstone)
+- Sep 25 - [Launch HN: Haystack (YC S24) – Visualize and edit code on an infinite canvas](https://github.com/haystackeditor/haystack-editor)
+- Sep 25 - [System Intiative is generally available](https://www.systeminit.com/blog-system-initiative-is-the-future/)
+- Sep 25 - [A thriving underground economy is clogging the internet with AI garbage](https://nymag.com/intelligencer/article/ai-generated-content-internet-online-slop-spam.html)
+- Sep 25 - [Audio Masking](https://www.cryptomuseum.com/covert/bugs/masking/)
 <!--END_SECTION:hn-->
 
 <!--
