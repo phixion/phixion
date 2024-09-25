@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 24 - [Want to Build a Perfect 21st Century Town? Ban Cars](https://www.outsideonline.com/culture/essays-culture/culdesac-arizona/)
-- Sep 24 - [Nvidia Mellanox Linux Driver Spearheads Multi-Path PCI "Sign of Things to Come"](https://www.phoronix.com/news/Linux-6.12-RDMA-Multi-Path)
-- Sep 24 - [Windows Server 2008 IA64 Guest on HP Integrity VM (HP-UX)](https://virtuallyfun.com/2024/09/23/windows-server-2008-ia64-guest-on-hp-integrity-vm-hp-ux/)
-- Sep 24 - [Hacker plants false memories in ChatGPT to steal user data in perpetuity](https://arstechnica.com/security/2024/09/false-memories-planted-in-chatgpt-give-hacker-persistent-exfiltration-channel/)
-- Sep 24 - [Ethernet in 17 lines of Spade [video]](https://www.youtube.com/watch?v=0a8P0NLYPWA)
+- Sep 25 - [A new semantic chunking approach for RAG](https://gpt3experiments.substack.com/p/a-new-chunking-approach-to-rag)
+- Sep 25 - [XBill for PalmOS receives an update after 25 years](https://ctrl-c.club/~captain/posts/2024-09-24-xbill-for-palmos-receives-an-update-after-25-years.html)
+- Sep 25 - [Microprogramming: A New Way to Program](https://breckyunits.com/microprograms.html)
+- Sep 25 - [Hack GPON – how to access, change and edit fibre ONTs](https://hack-gpon.org/)
+- Sep 25 - [Committing to Rust in the Kernel](https://lwn.net/SubscriberLink/991062/b0df468b40b21f5d/)
 <!--END_SECTION:hn-->
 
 <!--
