@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 25 - [A new semantic chunking approach for RAG](https://gpt3experiments.substack.com/p/a-new-chunking-approach-to-rag)
-- Sep 25 - [XBill for PalmOS receives an update after 25 years](https://ctrl-c.club/~captain/posts/2024-09-24-xbill-for-palmos-receives-an-update-after-25-years.html)
-- Sep 25 - [Microprogramming: A New Way to Program](https://breckyunits.com/microprograms.html)
-- Sep 25 - [Hack GPON – how to access, change and edit fibre ONTs](https://hack-gpon.org/)
-- Sep 25 - [Committing to Rust in the Kernel](https://lwn.net/SubscriberLink/991062/b0df468b40b21f5d/)
+- Sep 25 - [New California law requires one-click subscription cancellations](https://thedesk.net/2024/09/california-one-click-subscription-cancellation-law/)
+- Sep 25 - [Holy Hell, the Social Web Did Not Begin in 2008](https://bix.blog/posts/holy-hell-the-social-web-did-not-begin-in-2008)
+- Sep 25 - [Gnome 47 Wallpapers](https://blog.jimmac.eu/2024/wallpapers/)
+- Sep 25 - [FRED: New Zealand open-access and crowdsource database of fossil records](https://fred.org.nz/)
+- Sep 25 - [NIST to forbid requirement of specific passwords character composition](https://mastodon.social/@LukaszOlejnik/113193089731407165)
 <!--END_SECTION:hn-->
 
 <!--
