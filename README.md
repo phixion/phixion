@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 24 - [Software developers targeted by malware hidden in Python packages](https://www.techradar.com/pro/security/software-developers-targeted-by-malware-hidden-in-python-packages)
-- Sep 24 - [Beyond the route: Introducing granular MTA bus speed data](https://new.mta.info/article/beyond-route-introducing-granular-mta-bus-speed-data)
-- Sep 24 - [Death of the Department Store](https://www.lrb.co.uk/the-paper/v46/n18/rosemary-hill/at-the-musee-des-arts-decoratifs)
-- Sep 24 - [Intel's Core Ultra 2 Chip Posts Nearly 24-Hour Battery Life in Lunar Lake](https://www.pcmag.com/news/lunar-lake-first-tests-intels-ai-ready-core-ultra-2-chip-posts-nearly-24)
-- Sep 24 - [Are there individual protons and neutrons in a nucleus?](https://physics.stackexchange.com/questions/828872/are-there-individual-protons-and-neutrons-in-a-nucleus)
+- Sep 24 - [Want to Build a Perfect 21st Century Town? Ban Cars](https://www.outsideonline.com/culture/essays-culture/culdesac-arizona/)
+- Sep 24 - [Nvidia Mellanox Linux Driver Spearheads Multi-Path PCI "Sign of Things to Come"](https://www.phoronix.com/news/Linux-6.12-RDMA-Multi-Path)
+- Sep 24 - [Windows Server 2008 IA64 Guest on HP Integrity VM (HP-UX)](https://virtuallyfun.com/2024/09/23/windows-server-2008-ia64-guest-on-hp-integrity-vm-hp-ux/)
+- Sep 24 - [Hacker plants false memories in ChatGPT to steal user data in perpetuity](https://arstechnica.com/security/2024/09/false-memories-planted-in-chatgpt-give-hacker-persistent-exfiltration-channel/)
+- Sep 24 - [Ethernet in 17 lines of Spade [video]](https://www.youtube.com/watch?v=0a8P0NLYPWA)
 <!--END_SECTION:hn-->
 
 <!--
