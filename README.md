@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 26 - [Git-absorb: Git commit –fixup, but automatic](https://github.com/tummychow/git-absorb)
-- Sep 25 - [Scientific rigor proponents retract paper on benefits of scientific rigor](https://www.science.org/content/article/we-are-embarrassed-scientific-rigor-proponents-retract-paper-benefits-scientific-rigor)
-- Sep 25 - [Clara (YC S24) Is Hiring a Head of Growth](https://www.ycombinator.com/companies/clara/jobs/bB9fgEH-head-of-growth)
-- Sep 25 - [Show HN: Httpdbg – A tool to trace the HTTP requests sent by your Python code](https://github.com/cle-b/httpdbg)
-- Sep 25 - [Eliminating Memory Safety Vulnerabilities at the Source](https://security.googleblog.com/2024/09/eliminating-memory-safety-vulnerabilities-Android.html)
+- Sep 26 - [A new Llama-based model for efficient large-scale voice generation](https://github.com/OpenT2S/LlamaVoice)
+- Sep 26 - [LG TVs Start Showing Ads on Screensavers](https://arstechnica.com/gadgets/2024/09/lg-tvs-continue-down-advertising-rabbit-hole-with-new-screensaver-ads/)
+- Sep 26 - [Galaxy Buds reportedly exploded in a user's ear causing permanent hearing loss](https://www.androidpolice.com/exploding-samsung-galaxy-buds-fe/)
+- Sep 26 - [Rewriting Rust](https://josephg.com/blog/rewriting-rust/)
+- Sep 26 - [Show HN: Cronexpr, a Rust library to parse and iter crontab expression](https://docs.rs/cronexpr/latest/cronexpr/)
 <!--END_SECTION:hn-->
 
 <!--
