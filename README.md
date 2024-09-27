@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 27 - [The Best $4 Ever Spent](https://papanotes.com/the-best-4-ever-spent)
-- Sep 27 - [Binance founder 'CZ' leaves prison on Friday–along with his $60B fortune](https://fortune.com/crypto/2024/09/26/cz-changpeng-zhao-crypto-release-date-binance-founder/)
-- Sep 27 - [The Mega65](https://lyonsden.net/my-mega65-is-finally-here/)
-- Sep 27 - [Maggie Smith, Star of 'Downton Abbey,' 'Harry Potter,' Dies at 89](https://variety.com/2024/legit/news/maggie-smith-dead-harry-potter-1236157839/)
-- Sep 27 - [CNN and USA Today Have Fake Websites, I Believe Forbes Marketplace Runs Them](https://larslofgren.com/cnn-usa-today-forbes-marketplace/)
+- Sep 27 - [Will Plants Grow on the Moon?](https://nautil.us/will-plants-grow-on-the-moon-897620/)
+- Sep 27 - [AMD Unveils Its First Small Language Model AMD-135M](https://community.amd.com/t5/ai/amd-unveils-its-first-small-language-model-amd-135m/ba-p/711368)
+- Sep 27 - [The Architecture of London Pubs (1966)](https://thelondonmagazine.org/archive-the-architecture-of-london-pubs-by-stephen-gardiner/)
+- Sep 27 - [SAML: A Technical Primer](https://ssoready.com/docs/saml/saml-technical-primer)
+- Sep 27 - [Ceefax and the Birth of Interactive TV](https://www.bbc.com/articles/cvg360rr91zo)
 <!--END_SECTION:hn-->
 
 <!--
