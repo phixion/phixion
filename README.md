@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 27 - [TSMC execs allegedly dismissed OpenAI CEO Sam Altman as 'podcasting bro'](https://www.tomshardware.com/tech-industry/tsmc-execs-allegedly-dismissed-openai-ceo-sam-altman-as-podcasting-bro)
-- Sep 27 - [You're probably not vulnerable to the CUPS CVE](https://xeiaso.net/notes/2024/cups-cve/)
-- Sep 27 - [Leak claims RTX 5090 has 600W TGP, RTX 5080 hits 400W](https://www.tomshardware.com/pc-components/gpus/leak-claims-rtx-5090-has-600w-tgp-rtx-5080-hits-400w-up-to-21760-cores-32gb-vram-512-bit-bus)
-- Sep 27 - [It's hard to write code for computers, but it's harder to write code for humans](https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html)
-- Sep 27 - [I Am Tired of AI](https://www.ontestautomation.com/i-am-tired-of-ai/)
+- Sep 27 - [The Best $4 Ever Spent](https://papanotes.com/the-best-4-ever-spent)
+- Sep 27 - [Binance founder 'CZ' leaves prison on Friday–along with his $60B fortune](https://fortune.com/crypto/2024/09/26/cz-changpeng-zhao-crypto-release-date-binance-founder/)
+- Sep 27 - [The Mega65](https://lyonsden.net/my-mega65-is-finally-here/)
+- Sep 27 - [Maggie Smith, Star of 'Downton Abbey,' 'Harry Potter,' Dies at 89](https://variety.com/2024/legit/news/maggie-smith-dead-harry-potter-1236157839/)
+- Sep 27 - [CNN and USA Today Have Fake Websites, I Believe Forbes Marketplace Runs Them](https://larslofgren.com/cnn-usa-today-forbes-marketplace/)
 <!--END_SECTION:hn-->
 
 <!--
