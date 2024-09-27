@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 26 - [When Insurers Exit: Climate Losses, Fragile Insurers, and Mortgage Markets [pdf]](https://www.hbs.edu/ris/Publication%20Files/24-051_f1329bc3-d296-4ffa-aff3-a9e4b8e98e9d.pdf)
-- Sep 26 - [Our Android App Is Frozen in Carbonite](https://ia.net/topics/our-android-app-is-frozen-in-carbonite)
-- Sep 26 - [Stem cells reverse woman's diabetes – a world first](https://www.nature.com/articles/d41586-024-03129-3)
-- Sep 26 - [A pilot project in universal algebra to explore new ways to collaborate](https://terrytao.wordpress.com/2024/09/25/a-pilot-project-in-universal-algebra-to-explore-new-ways-to-collaborate-and-use-machine-assistance/)
-- Sep 26 - [End of an era: Landsat 7 mission takes final images](https://www.usgs.gov/news/national-news-release/end-era-historic-landsat-7-mission-takes-final-images)
+- Sep 27 - [Should Sports Betting Be Banned?](https://www.maximum-progress.com/p/should-sports-betting-be-banned)
+- Sep 27 - [Sony, Ubisoft scandals lead to California ban on deceptive digital goods sales](https://arstechnica.com/tech-policy/2024/09/sony-ubisoft-scandals-prompt-calif-ban-on-deceptive-sales-of-digital-goods/)
+- Sep 27 - [Small3dlib: Suckless PD 3D software rasterizer](https://codeberg.org/drummyfish/small3dlib)
+- Sep 27 - [Cityfurnish (YC W19) Is Hiring](https://www.ycombinator.com/companies/cityfurnish/jobs/7EVvWqp-performance-marketing-head)
+- Sep 26 - [When Insurers Exit (2023) [pdf]](https://www.hbs.edu/ris/Publication%20Files/24-051_f1329bc3-d296-4ffa-aff3-a9e4b8e98e9d.pdf)
 <!--END_SECTION:hn-->
 
 <!--
