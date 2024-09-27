@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 27 - [Should Sports Betting Be Banned?](https://www.maximum-progress.com/p/should-sports-betting-be-banned)
-- Sep 27 - [Sony, Ubisoft scandals lead to California ban on deceptive digital goods sales](https://arstechnica.com/tech-policy/2024/09/sony-ubisoft-scandals-prompt-calif-ban-on-deceptive-sales-of-digital-goods/)
-- Sep 27 - [Small3dlib: Suckless PD 3D software rasterizer](https://codeberg.org/drummyfish/small3dlib)
-- Sep 27 - [Cityfurnish (YC W19) Is Hiring](https://www.ycombinator.com/companies/cityfurnish/jobs/7EVvWqp-performance-marketing-head)
-- Sep 26 - [When Insurers Exit (2023) [pdf]](https://www.hbs.edu/ris/Publication%20Files/24-051_f1329bc3-d296-4ffa-aff3-a9e4b8e98e9d.pdf)
+- Sep 27 - [Bugs Found in Cups](https://www.thestack.technology/critical-9-9-linux-bug-cups-your-ears-the-details-are-now-here/)
+- Sep 27 - [Smart TVs take snapshots of what you watch multiple times per second](https://www.newscientist.com/article/2449198-smart-tvs-take-snapshots-of-what-you-watch-multiple-times-per-second/)
+- Sep 27 - [Imbue (YC S17) Is Hiring a Founding Product Engineer](https://news.ycombinator.com/item?id=41667178)
+- Sep 27 - [Microsoft's new Outlook client moves your email to the cloud](https://www.xda-developers.com/privacy-implications-new-microsoft-outlook/)
+- Sep 27 - [Europe's Banks Launch Wero Payments to Dislodge Visa, Mastercard](https://www.bloomberg.com/news/articles/2024-09-27/visa-and-mastercard-bnp-deutsche-bank-launch-wero-payment-alternative)
 <!--END_SECTION:hn-->
 
 <!--
