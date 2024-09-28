@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 28 - [The Little Typer (2018)](https://thelittletyper.com/)
-- Sep 28 - [Incremental Garbage Collection in Ruby 2.2 (2015)](https://blog.heroku.com/incremental-gc)
-- Sep 28 - [Role of Deliberate Practice in the Development of Creativity (2014)](https://repositories.lib.utexas.edu/server/api/core/bitstreams/c8cc4a4f-e641-462b-9a72-654e60f71485/content)
-- Sep 28 - [If your AI seems smarter, it's thanks to smarter human trainers](https://www.reuters.com/technology/artificial-intelligence/if-your-ai-seems-smarter-its-thanks-smarter-human-trainers-2024-09-28/)
-- Sep 28 - [Remember That DNA You Gave 23andMe?](https://www.theatlantic.com/health/archive/2024/09/23andme-dna-data-privacy-sale/680057/)
+- Sep 28 - [Show HN: Modern Benchmarking Tooling for JavaScript](https://github.com/evanwashere/mitata)
+- Sep 28 - [Our ping pong startup hit a $50M valuation in 5 years by tapping into automation](https://fortune.com/2024/09/27/startup-entrepreneurs-automation-ping-pong-sports-venues-tech-saas-smartphone-apps-pingpod-podplay/)
+- Sep 28 - [What was the point of [ "x$var" = "xval" ]? (2021)](https://www.vidarholen.net/contents/blog/?p=1035)
+- Sep 28 - [Reverse-engineering a three-axis attitude indicator from the F-4 fighter plane](http://www.righto.com/2024/09/f4-attitude-indicator.html)
+- Sep 28 - [Show HN: Enable right click and copy on websites that disabled it](https://chromewebstore.google.com/detail/allow-copy-enable-right-c/ehfmpjdcdldhefieelihdobnjfpalhic)
 <!--END_SECTION:hn-->
 
 <!--
