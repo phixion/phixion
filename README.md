@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 28 - [Icon (real creators, AI ads) is hiring founding engineers/ex-founders (NYC)](https://icon.me/careers)
 - Sep 28 - [I Made a Rubbish Clock](https://blog.jgc.org/2024/09/i-made-rubbish-clock.html)
-- Sep 28 - [Photoroom (YC S20) Is Hiring an API Engineer in Paris (Node.js)](https://jobs.ashbyhq.com/photoroom/24a08307-ae2e-4a40-a6fa-30fb919fb637)
-- Sep 28 - [Amusing Ourselves to Death](https://otpok.com/2014/01/03/amusing-ourselves-to-death/)
-- Sep 28 - [It is never too later to write your own C/C++ command-line utilities](https://lemire.me/blog/2024/09/28/it-is-never-too-later-to-write-your-own-c-c-command-line-utilities/)
+- Sep 28 - [FFT-based ocean-wave rendering, implemented in Godot](https://github.com/2Retr0/GodotOceanWaves)
+- Sep 28 - [Amusing Ourselves to Death (2014)](https://otpok.com/2014/01/03/amusing-ourselves-to-death/)
 - Sep 28 - [Everything you need to know about Python 3.13 – JIT and GIL went up the hill](https://drew.silcock.dev/blog/everything-you-need-to-know-about-python-3-13/)
 <!--END_SECTION:hn-->
 
