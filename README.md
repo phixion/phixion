@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 29 - [NASA is selling a brand-new Moon rover: Never used, one previous owner](https://www.economist.com/science-and-technology/2024/09/25/nasa-is-selling-a-brand-new-moon-rover)
-- Sep 29 - [Solving climate change by abusing thermodynamic scaling laws](https://ckrapu.github.io/blog/2024/why-dont-we-just-freeze-the-carbon/)
-- Sep 29 - [Apple's homework is due Monday no matter what, says judge](https://www.theverge.com/2024/9/28/24256684/apple-epic-lawsuit-document-production-delay-denied)
-- Sep 29 - [So you want to make pixel art for an Apple II](http://www.deater.net/weave/vmwprod/a2_pixels/)
-- Sep 29 - [How can a jigsaw have two distinct solutions? [video]](https://www.youtube.com/watch?v=b5nElEbbnfU)
+- Sep 29 - [Do not build your Gov.uk service as a single-page application](https://www.gov.uk/service-manual/technology/using-progressive-enhancement)
+- Sep 29 - [More annoying macOS 15 Sequoia prompts: Bluetooth](https://lapcatsoftware.com/articles/2024/8/11.html)
+- Sep 29 - [Floating megabomb heaves to near the English coast](https://cepa.org/article/floating-megabomb-heaves-to-near-the-english-coast/)
+- Sep 29 - [Alan Kay on Messaging (1998)](http://wiki.c2.com/?AlanKayOnMessaging)
+- Sep 29 - [Feldera Incremental Compute Engine](https://github.com/feldera/feldera)
 <!--END_SECTION:hn-->
 
 <!--
