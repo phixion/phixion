@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 29 - [Students Paid Thousands for a Caltech Boot Camp. Caltech Didn't Teach It](https://www.nytimes.com/2024/09/29/us/caltech-simplilearn-class-students.html)
-- Sep 29 - [Flexible RISC-V Processor: Could Cost Less Than a Dollar](https://spectrum.ieee.org/flexible-risc-v)
-- Sep 29 - [Some Go web dev notes](https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/)
-- Sep 29 - [Avoiding downtime: modern alternatives to outdated certificate pinning practices](https://blog.cloudflare.com/why-certificate-pinning-is-outdated/)
-- Sep 29 - [ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robots](https://rekep-robot.github.io/)
+- Sep 29 - [Academic economists get big payouts when they help monopolists beat antitrust](https://pluralistic.net/2024/09/25/epistemological-chaos/#incentives-matter)
+- Sep 29 - [Ted Kaczynski's Low-Tech Lifestyle](https://www.thetedkarchive.com/library/ted-kaczynski-ted-kaczynski-s-low-tech-lifestyle)
+- Sep 29 - ['Three New York Cities' Worth of Power: AI Is Stressing the Grid](https://www.wsj.com/business/energy-oil/ai-data-center-boom-spurs-race-to-find-power-87cf39dd)
+- Sep 29 - [Cite-seeing and reviewing: A study on citation bias in peer review](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283980)
+- Sep 29 - [Clever, Brave, Persistent](https://camhashemi.com/posts/clever-brave-persistent)
 <!--END_SECTION:hn-->
 
 <!--
