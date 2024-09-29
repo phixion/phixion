@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 28 - [Show HN: Modern Benchmarking Tooling for JavaScript](https://github.com/evanwashere/mitata)
-- Sep 28 - [Our ping pong startup hit a $50M valuation in 5 years by tapping into automation](https://fortune.com/2024/09/27/startup-entrepreneurs-automation-ping-pong-sports-venues-tech-saas-smartphone-apps-pingpod-podplay/)
-- Sep 28 - [What was the point of [ "x$var" = "xval" ]? (2021)](https://www.vidarholen.net/contents/blog/?p=1035)
-- Sep 28 - [Reverse-engineering a three-axis attitude indicator from the F-4 fighter plane](http://www.righto.com/2024/09/f4-attitude-indicator.html)
-- Sep 28 - [Show HN: Enable right click and copy on websites that disabled it](https://chromewebstore.google.com/detail/allow-copy-enable-right-c/ehfmpjdcdldhefieelihdobnjfpalhic)
+- Sep 28 - [Notion's Midlife Crisis](https://www.jjinux.com/2024/09/notions-mid-life-crisis.html)
+- Sep 28 - [Show HN: Open-source app builder for comfy workflows](https://github.com/ViewComfy/ViewComfy)
+- Sep 28 - [How Discord stores trillions of messages](https://discord.com/blog/how-discord-stores-trillions-of-messages)
+- Sep 28 - [Four more health care workers ill after caring for bird flu case in Missouri](https://www.statnews.com/2024/09/27/bird-flu-missouri-four-more-healthcare-workers/)
+- Sep 28 - [Britain buys semiconductor factory for defence purposes](https://ukdefencejournal.org.uk/britain-buys-semiconductor-factory-for-defence-purposes/)
 <!--END_SECTION:hn-->
 
 <!--
