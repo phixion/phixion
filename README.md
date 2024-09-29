@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 28 - [Notion's Midlife Crisis](https://www.jjinux.com/2024/09/notions-mid-life-crisis.html)
-- Sep 28 - [Show HN: Open-source app builder for comfy workflows](https://github.com/ViewComfy/ViewComfy)
-- Sep 28 - [How Discord stores trillions of messages](https://discord.com/blog/how-discord-stores-trillions-of-messages)
-- Sep 28 - [Four more health care workers ill after caring for bird flu case in Missouri](https://www.statnews.com/2024/09/27/bird-flu-missouri-four-more-healthcare-workers/)
-- Sep 28 - [Britain buys semiconductor factory for defence purposes](https://ukdefencejournal.org.uk/britain-buys-semiconductor-factory-for-defence-purposes/)
+- Sep 29 - [Controversial Windows Recall AI Search Tool Returns with Proof-of-Presence](https://www.securityweek.com/microsofts-controversial-recall-returns-with-proof-of-presence-encryption-data-isolation-opt-in-model/)
+- Sep 29 - [L.A. pilot guaranteeing families $1k/month shows 'transformative' results: study](https://www.latimes.com/california/story/2024-07-31/study-details-what-happened-when-la-residents-were-guaranteed-1000-dollars-a-month)
+- Sep 29 - [Too much efficiency makes everything worse (2022)](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
+- Sep 29 - [Cores That Don't Count [pdf]](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s01-hochschild.pdf)
+- Sep 29 - [Man-in-the-Middle PCB Unlocks HP Ink Cartridges](https://hackaday.com/2024/09/28/man-in-the-middle-pcb-unlocks-hp-ink-cartridges/)
 <!--END_SECTION:hn-->
 
 <!--
