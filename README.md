@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 29 - [Do not build your Gov.uk service as a single-page application](https://www.gov.uk/service-manual/technology/using-progressive-enhancement)
-- Sep 29 - [More annoying macOS 15 Sequoia prompts: Bluetooth](https://lapcatsoftware.com/articles/2024/8/11.html)
-- Sep 29 - [Floating megabomb heaves to near the English coast](https://cepa.org/article/floating-megabomb-heaves-to-near-the-english-coast/)
-- Sep 29 - [Alan Kay on Messaging (1998)](http://wiki.c2.com/?AlanKayOnMessaging)
-- Sep 29 - [Feldera Incremental Compute Engine](https://github.com/feldera/feldera)
+- Sep 29 - [Students Paid Thousands for a Caltech Boot Camp. Caltech Didn't Teach It](https://www.nytimes.com/2024/09/29/us/caltech-simplilearn-class-students.html)
+- Sep 29 - [Flexible RISC-V Processor: Could Cost Less Than a Dollar](https://spectrum.ieee.org/flexible-risc-v)
+- Sep 29 - [Some Go web dev notes](https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/)
+- Sep 29 - [Avoiding downtime: modern alternatives to outdated certificate pinning practices](https://blog.cloudflare.com/why-certificate-pinning-is-outdated/)
+- Sep 29 - [ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robots](https://rekep-robot.github.io/)
 <!--END_SECTION:hn-->
 
 <!--
