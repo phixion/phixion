@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 30 - [Keep Track: 3D Satellite Toolkit](https://app.keeptrack.space)
-- Sep 30 - [How we built ngrok's data platform](https://ngrok.com/blog-post/how-we-built-ngroks-data-platform)
-- Sep 30 - [Bop Spotter](https://walzr.com/bop-spotter)
-- Sep 30 - [David Brin – The Dogma of Otherness (1986)](https://www.davidbrin.com/nonfiction/dogmaofotherness.html)
-- Sep 30 - [Tips for Building and Deploying Robots](https://rodneybrooks.com/tips-for-building-and-deploying-robots/)
+- Sep 30 - [Liquid Foundation Models: Our First Series of Generative AI Models](https://www.liquid.ai/liquid-foundation-models)
+- Sep 30 - [Launch HN: Inkeep (YC W23) – Copilot for Support (Think Cursor for Help Desks)](https://news.ycombinator.com/item?id=41697137)
+- Sep 30 - [Typewise (YC S22) Is Hiring a Senior AI Back End Engineer (Python, Europe)](https://www.ycombinator.com/companies/typewise/jobs/NH0WiMZ-senior-backend-engineer-f-m-x)
+- Sep 30 - [Y Combinator Traded Prestige for Growth](https://unfashionable.blog/p/yc/)
+- Sep 30 - [New research on anesthesia and microtubules gives new clues about consciousness](https://www.sciencedaily.com/releases/2024/09/240905120923.htm)
 <!--END_SECTION:hn-->
 
 <!--
