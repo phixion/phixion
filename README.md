@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 29 - [On With Theo / T3.gg](https://ma.tt/2024/09/t3/)
-- Sep 29 - [Gavin Newsom vetoes SB 1047](https://www.wsj.com/tech/ai/californias-gavin-newsom-vetoes-controversial-ai-safety-bill-d526f621)
-- Sep 29 - [Ask HN: What are you working on (September 2024)?](https://news.ycombinator.com/item?id=41690087)
-- Sep 29 - [Build a serverless ACID database with this one neat trick (atomic PutIfAbsent)](https://notes.eatonphil.com/2024-09-29-build-a-serverless-acid-database-with-this-one-neat-trick.html)
-- Sep 29 - [Linux 6.12 Features Super Real-Time, Sched_ext, Intel Xe2 and Pi 5](https://www.phoronix.com/review/linux-612-features#google_vignette)
+- Sep 30 - [NotebookLM's automatically generated podcasts are surprisingly effective](https://simonwillison.net/2024/Sep/29/notebooklm-audio-overview/)
+- Sep 30 - [US East and Gulf coast ports face shutdown as union announces intent to strike](https://gcaptain.com/us-east-and-gulf-coast-ports-face-imminent-shutdown-as-union-announces-intent-to-strike/)
+- Sep 30 - [The Ultimate Oldschool PC Font Pack](https://int10h.org/oldschool-pc-fonts/)
+- Sep 29 - [A teacher who made mistakes on purpose](https://nik.art/the-teacher-who-made-mistakes-on-purpose/)
+- Sep 29 - [Visual Studio Code is designed to fracture](https://ghuntley.com/fracture/)
 <!--END_SECTION:hn-->
 
 <!--
