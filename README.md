@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 30 - [NotebookLM's automatically generated podcasts are surprisingly effective](https://simonwillison.net/2024/Sep/29/notebooklm-audio-overview/)
-- Sep 30 - [US East and Gulf coast ports face shutdown as union announces intent to strike](https://gcaptain.com/us-east-and-gulf-coast-ports-face-imminent-shutdown-as-union-announces-intent-to-strike/)
-- Sep 30 - [The Ultimate Oldschool PC Font Pack](https://int10h.org/oldschool-pc-fonts/)
-- Sep 29 - [A teacher who made mistakes on purpose](https://nik.art/the-teacher-who-made-mistakes-on-purpose/)
-- Sep 29 - [Visual Studio Code is designed to fracture](https://ghuntley.com/fracture/)
+- Sep 30 - [Raspberry Pi AI Camera on sale now at $70](https://www.raspberrypi.com/news/raspberry-pi-ai-camera-on-sale-now/)
+- Sep 30 - [Bop Spotter](https://walzr.com/bop-spotter)
+- Sep 30 - [David Brin – The Dogma of Otherness](https://www.davidbrin.com/nonfiction/dogmaofotherness.html)
+- Sep 30 - [Tips for Building and Deploying Robots](https://rodneybrooks.com/tips-for-building-and-deploying-robots/)
+- Sep 30 - [Foraging for America's Forgotten Fruit](https://www.atlasobscura.com/articles/how-to-forage-for-pawpaw-recipes)
 <!--END_SECTION:hn-->
 
 <!--
