@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 30 - [Raspberry Pi AI Camera on sale now at $70](https://www.raspberrypi.com/news/raspberry-pi-ai-camera-on-sale-now/)
+- Sep 30 - [Keep Track: 3D Satellite Toolkit](https://app.keeptrack.space)
+- Sep 30 - [How we built ngrok's data platform](https://ngrok.com/blog-post/how-we-built-ngroks-data-platform)
 - Sep 30 - [Bop Spotter](https://walzr.com/bop-spotter)
-- Sep 30 - [David Brin – The Dogma of Otherness](https://www.davidbrin.com/nonfiction/dogmaofotherness.html)
+- Sep 30 - [David Brin – The Dogma of Otherness (1986)](https://www.davidbrin.com/nonfiction/dogmaofotherness.html)
 - Sep 30 - [Tips for Building and Deploying Robots](https://rodneybrooks.com/tips-for-building-and-deploying-robots/)
-- Sep 30 - [Foraging for America's Forgotten Fruit](https://www.atlasobscura.com/articles/how-to-forage-for-pawpaw-recipes)
 <!--END_SECTION:hn-->
 
 <!--
