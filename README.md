@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 30 - [Pooltool: General purpose billiards simulator for science and engineering](https://github.com/ekiefl/pooltool)
-- Sep 30 - [Product Hunt isn't dying, it's becoming gentrified](https://launchpointzero.com/blog/product-hunt-isnt-dying-its-become-gentrified/)
-- Sep 30 - [California bans legacy admissions at private universities](https://www.nytimes.com/2024/09/30/us/california-bans-legacy-admissions-private-universities.html)
-- Sep 30 - [Apple No Longer in Talks to Invest in ChatGPT Maker OpenAI](https://www.macrumors.com/2024/09/30/apple-no-longer-investing-openai-chatgpt/)
-- Sep 30 - [Engineers investigate another malfunction on SpaceX's Falcon 9 rocket](https://arstechnica.com/space/2024/09/engineers-investigate-another-malfunction-on-spacexs-falcon-9-rocket/)
+- Sep 30 - [Boris Vallejo and the Pixel Art of the Demoscene](https://marincomics.com/vallejo-pixelart.html)
+- Sep 30 - [AI chipmaker Cerebras files for IPO to take on Nvidia](https://www.cnbc.com/2024/09/30/cerebras-files-for-ipo.html)
+- Sep 30 - [Show HN: qrframe – generate beautiful qr codes with javascript code](https://github.com/zhengkyl/qrframe)
+- Sep 30 - [MusicBrainz: An open music encyclopedia](https://musicbrainz.org/)
+- Sep 30 - [How a California county got PFAS out of its drinking water](https://www.npr.org/sections/shots-health-news/2024/09/12/g-s1-22291/pfas-drinking-water-filter)
 <!--END_SECTION:hn-->
 
 <!--
