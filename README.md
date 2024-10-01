@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 01 - [I Quit Teaching Because of ChatGPT](https://time.com/7026050/chatgpt-quit-teaching-ai-essay/)
-- Oct 01 - [Should you use Rust in LLM based tools for performance?](https://bosun.ai/posts/rust-for-genai-performance/)
-- Oct 01 - [Ask HN: Who is hiring? (October 2024)](https://news.ycombinator.com/item?id=41709301)
-- Oct 01 - [Ask HN: Who wants to be hired? (October 2024)](https://news.ycombinator.com/item?id=41709299)
-- Oct 01 - [The Liberating Experience of Common Lisp](https://ds9soft.com/blog/2024/06/the-liberating-experience-of-common-lisp/)
+- Oct 01 - [COBOL has been "dead" for so long, my grandpa wrote about it](https://wumpus-cave.net/post/2024/10/2024-10-01-death-of-cobol/index.html)
+- Oct 01 - [T-Mobile pays $16M fine for three years' worth of data breaches](https://arstechnica.com/tech-policy/2024/10/t-mobile-pays-16-million-fine-for-three-years-worth-of-data-breaches/)
+- Oct 01 - [You Better Shop Around: Litigant Characteristics and Supreme Court Support [pdf]](https://elizabethalane.com/wp-content/uploads/2024/08/d08a8-shoparound20240514.pdf)
+- Oct 01 - [A Local-First Case Study](https://jakelazaroff.com/words/a-local-first-case-study/)
+- Oct 01 - [End the line: The last Sun SPARC workstation [video]](https://www.youtube.com/watch?v=O3iUmhkP10k)
 <!--END_SECTION:hn-->
 
 <!--
