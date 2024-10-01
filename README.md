@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 01 - [Reddit policy changes make sitewide protests nearly impossible](https://www.engadget.com/big-tech/reddit-policy-changes-make-sitewide-protests-nearly-impossible-183754240.html)
-- Oct 01 - [Matrix-Libera IRC Bridge Temporary Shutdown, a Retrospective (2023)](https://libera.chat/news/matrix-bridge-disabled-retrospective)
-- Oct 01 - [A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs](https://arxiv.org/abs/2406.10279)
-- Sep 30 - [Boris Vallejo and the pixel art of the demoscene](https://marincomics.com/vallejo-pixelart.html)
-- Sep 30 - [AI chipmaker Cerebras files for IPO](https://www.cnbc.com/2024/09/30/cerebras-files-for-ipo.html)
+- Oct 01 - [Autarc (YC S24) Is Hiring a Software Engineer to Fight Climate Change](https://news.ycombinator.com/item?id=41705391)
+- Oct 01 - [Red team hacker on how she breaks into buildings and pretends to be the bad guy](https://www.theregister.com/2024/09/29/interview_with_a_social_engineering/)
+- Oct 01 - [Piracy](https://blog.cobanov.cloud/blog/piracy)
+- Oct 01 - [Dockworkers at ports from Maine to Texas go on strike](https://apnews.com/article/port-strike-ila-dockworkers-begins-e5468e760f46a64e4322d1702beb1f72)
+- Oct 01 - [Multiversion Python Thoughts](https://lucumr.pocoo.org/2024/9/9/multiversion-python/)
 <!--END_SECTION:hn-->
 
 <!--
