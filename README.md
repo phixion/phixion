@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 02 - [The Fastest Mutexes](https://justine.lol/mutex/)
-- Oct 02 - [VC Fund gives money back, says startup market too weak](https://www.nytimes.com/2024/10/02/technology/crv-vc-fund-returning-money.html)
-- Oct 02 - [The bunkbed conjecture is false](https://igorpak.wordpress.com/2024/10/01/the-bunkbed-conjecture-is-false/)
-- Oct 02 - [Evidence of 'Negative Time' Found in Quantum Physics Experiment](https://www.scientificamerican.com/article/evidence-of-negative-time-found-in-quantum-physics-experiment/)
-- Oct 02 - [Famous AI Artist Says He's Losing Millions from People Stealing His Work](https://gizmodo.com/famous-ai-artist-says-hes-losing-millions-of-dollars-from-people-stealing-his-work-2000505822)
+- Oct 02 - [OpenFlux: Dedistillated Apache licensed flux.schnell model](https://huggingface.co/ostris/OpenFLUX.1)
+- Oct 02 - [TinyJS – Shorten JavaScript QuerySelect with $ and $](https://github.com/victorqribeiro/TinyJS)
+- Oct 02 - [Show HN: Kameo – a Rust library for building fault-tolerant, async actors](https://github.com/tqwewe/kameo)
+- Oct 02 - [WALDO: Whereabouts Ascertainment for Low-Lying Detectable Objects](https://github.com/stephansturges/WALDO)
+- Oct 02 - [Newton's financial misadventures in the South Sea Bubble (2018)](https://royalsocietypublishing.org/doi/10.1098/rsnr.2018.0018)
 <!--END_SECTION:hn-->
 
 <!--
