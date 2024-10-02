@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 02 - [Devyce (YC S22) Is Hiring](https://www.ycombinator.com/companies/devyce/jobs/07JsyBp-senior-business-development-manager)
-- Oct 02 - [Putting the "Person" in "Personal Website"](https://blog.jim-nielsen.com/2024/person-in-personal-website/)
+- Oct 02 - [Hatchet (YC W24) is hiring a developer-focused product engineer](https://www.ycombinator.com/companies/hatchet-2/jobs/eopXhc4-product-engineer)
+- Oct 02 - [You Too Could Have Made Curl](https://daniel.haxx.se/blog/2024/02/06/fosdem-2024-you-too-could-have-made-curl/)
 - Oct 02 - [Dashi – A Streamlit Like Framework for Rubyists](https://thedayisntgray.github.io/now/2024/10/01/dashi-preview/)
-- Oct 02 - [NixOS is a good server OS, except when it isn't](https://sidhion.com/blog/posts/nixos_server_issues/)
-- Oct 02 - [Show HN: Quilt – Powerful RAG UI for Document QA](https://quilt.fly.dev/)
+- Oct 02 - [Make Pottery at Home Without a Kiln (Or Anything Else) [video]](https://www.youtube.com/watch?v=VaX1iOyKsB0)
+- Oct 02 - [Sausages: An Anthology](https://thelionandunicorn.wordpress.com/2024/09/25/sausages-an-anthology/)
 <!--END_SECTION:hn-->
 
 <!--
