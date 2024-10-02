@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 02 - [I'm a Professional](https://daniel.haxx.se/blog/2024/10/02/im-a-professional/)
-- Oct 02 - [Emerge Tools (YC W21) is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
-- Oct 02 - [Make Pottery at Home Without a Kiln (Or Anything Else) [video]](https://www.youtube.com/watch?v=VaX1iOyKsB0)
-- Oct 02 - [Sausages: An Anthology](https://thelionandunicorn.wordpress.com/2024/09/25/sausages-an-anthology/)
-- Oct 01 - [Math from Three to Seven](https://www.thepsmiths.com/p/review-math-from-three-to-seven-by)
+- Oct 02 - [Devyce (YC S22) Is Hiring](https://www.ycombinator.com/companies/devyce/jobs/07JsyBp-senior-business-development-manager)
+- Oct 02 - [Putting the "Person" in "Personal Website"](https://blog.jim-nielsen.com/2024/person-in-personal-website/)
+- Oct 02 - [Dashi – A Streamlit Like Framework for Rubyists](https://thedayisntgray.github.io/now/2024/10/01/dashi-preview/)
+- Oct 02 - [NixOS is a good server OS, except when it isn't](https://sidhion.com/blog/posts/nixos_server_issues/)
+- Oct 02 - [Show HN: Quilt – Powerful RAG UI for Document QA](https://quilt.fly.dev/)
 <!--END_SECTION:hn-->
 
 <!--
