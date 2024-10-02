@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 01 - [COBOL has been "dead" for so long, my grandpa wrote about it](https://wumpus-cave.net/post/2024/10/2024-10-01-death-of-cobol/index.html)
-- Oct 01 - [T-Mobile pays $16M fine for three years' worth of data breaches](https://arstechnica.com/tech-policy/2024/10/t-mobile-pays-16-million-fine-for-three-years-worth-of-data-breaches/)
-- Oct 01 - [You Better Shop Around: Litigant Characteristics and Supreme Court Support [pdf]](https://elizabethalane.com/wp-content/uploads/2024/08/d08a8-shoparound20240514.pdf)
-- Oct 01 - [A Local-First Case Study](https://jakelazaroff.com/words/a-local-first-case-study/)
-- Oct 01 - [End the line: The last Sun SPARC workstation [video]](https://www.youtube.com/watch?v=O3iUmhkP10k)
+- Oct 01 - [Math from Three to Seven](https://www.thepsmiths.com/p/review-math-from-three-to-seven-by)
+- Oct 01 - [Northern Ontario man solves local legend, finds vintage liquor at bottom of lake](https://www.cbc.ca/news/canada/sudbury/larder-lake-local-legend-sunken-taxi-vintage-liquor-1.7332124)
+- Oct 01 - [CERN serves 1EB of data via FUSE [video]](https://kernel-recipes.org/en/2024/schedule/how-cern-serves-1eb-of-data-via-fuse/)
+- Oct 01 - [SlateDB – An embedded database built on object storage](https://slatedb.io/)
+- Oct 01 - [Radio Shack Catalog Archive (1939-2011)](https://www.radioshackcatalogs.com/?_hsenc=p2ANqtz-9H5PQMgh6cUobaKL8FZ3-Ib1lk2jXz-BBrutnvv14LwcLObCTepV_IHs6nj83QW1bzJZzkyQpOm2OVPZbBmOmtzIMoRw&_hsmi=327012423)
 <!--END_SECTION:hn-->
 
 <!--
