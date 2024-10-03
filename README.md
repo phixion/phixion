@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 03 - [Employers Say Students Need AI Skills. What If Students Don't Want Them?](https://www.insidehighered.com/news/student-success/life-after-college/2024/10/03/are-ai-skills-key-part-career-preparation)
-- Oct 03 - [Why my apps will soon be gone from the Google Play Store](https://frozenfractal.com/blog/2024/9/6/why-my-apps-will-soon-be-gone-from-google-play/)
-- Oct 03 - [CEO of Wordpress.com Cries Foul and Threatens Me with Legal Action](https://medium.com/@kelliepeterson/nice-guy-matt-mullenweg-ceo-of-wordpress-com-cries-foul-and-threatens-me-with-legal-action-f116ac57d862)
-- Oct 03 - [Microsoft: 'ever present' AI assistants are coming](https://www.bbc.co.uk/news/articles/czj9vmnlv9zo)
-- Oct 03 - [Show HN: Flyon UI – Tailwind Components Library](https://flyonui.com/)
+- Oct 03 - [Trayd (YC S23) Is Hiring](https://buildtrayd.notion.site/Part-time-Product-Designer-20-hrs-week-2c30587405df4edc9f24f714922105d9)
+- Oct 03 - [Ask HN: What happens to ".io" TLD after UK gives back the Chagos Islands?](https://news.ycombinator.com/item?id=41729526)
+- Oct 03 - [Amazon to increase number of advertisements on Prime Video](https://www.ft.com/content/f8112991-820c-4e09-bcf4-23b5e0f190a5)
+- Oct 03 - [EU: Definition of "potential terrorists" opens door to broad information-sharing](https://www.statewatch.org/news/2024/october/eu-definition-of-potential-terrorists-opens-door-to-broad-information-sharing/)
+- Oct 03 - [We avoid effort even though it can improve our well-being](https://www.newscientist.com/article/mg26435110-700-why-we-avoid-effort-even-though-it-can-improve-our-well-being/)
 <!--END_SECTION:hn-->
 
 <!--
