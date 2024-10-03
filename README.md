@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 03 - [Trayd (YC S23) Is Hiring](https://buildtrayd.notion.site/Part-time-Product-Designer-20-hrs-week-2c30587405df4edc9f24f714922105d9)
-- Oct 03 - [Ask HN: What happens to ".io" TLD after UK gives back the Chagos Islands?](https://news.ycombinator.com/item?id=41729526)
-- Oct 03 - [Amazon to increase number of advertisements on Prime Video](https://www.ft.com/content/f8112991-820c-4e09-bcf4-23b5e0f190a5)
-- Oct 03 - [EU: Definition of "potential terrorists" opens door to broad information-sharing](https://www.statewatch.org/news/2024/october/eu-definition-of-potential-terrorists-opens-door-to-broad-information-sharing/)
-- Oct 03 - [We avoid effort even though it can improve our well-being](https://www.newscientist.com/article/mg26435110-700-why-we-avoid-effort-even-though-it-can-improve-our-well-being/)
+- Oct 03 - [YouTube puts a Strike for showing how to setup Jellyfin](https://twitter.com/geerlingguy/status/1841477101670605205)
+- Oct 03 - [Cooking items in your home are linked to cancer-causing chemicals](https://www.pennlive.com/nation-world/2024/10/these-cooking-items-in-your-home-are-linked-to-cancer-causing-chemicals.html)
+- Oct 03 - [Serving 70B-Scale LLMs Efficiently on Low-Resource Edge Devices [pdf]](https://arxiv.org/abs/2410.00531)
+- Oct 03 - [Dance training superior to physical exercise in inducing brain plasticity (2018)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196636)
+- Oct 03 - [FLUX1.1 [pro] – New SotA text-to-image model from Black Forest Labs](https://replicate.com/black-forest-labs/flux-1.1-pro)
 <!--END_SECTION:hn-->
 
 <!--
