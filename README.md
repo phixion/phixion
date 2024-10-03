@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 03 - [YouTube puts a Strike for showing how to setup Jellyfin](https://twitter.com/geerlingguy/status/1841477101670605205)
-- Oct 03 - [Cooking items in your home are linked to cancer-causing chemicals](https://www.pennlive.com/nation-world/2024/10/these-cooking-items-in-your-home-are-linked-to-cancer-causing-chemicals.html)
-- Oct 03 - [Serving 70B-Scale LLMs Efficiently on Low-Resource Edge Devices [pdf]](https://arxiv.org/abs/2410.00531)
-- Oct 03 - [Dance training superior to physical exercise in inducing brain plasticity (2018)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196636)
-- Oct 03 - [FLUX1.1 [pro] – New SotA text-to-image model from Black Forest Labs](https://replicate.com/black-forest-labs/flux-1.1-pro)
+- Oct 03 - [The Heart of Unix (2018)](https://ericnormand.me/article/the-heart-of-unix)
+- Oct 03 - [Improving Accessibility Using Vision Models](https://myswamp.substack.com/p/improving-accessibility-using-vision)
+- Oct 03 - [Why Gumroad Didn't Choose Htmx](https://htmx.org/essays/why-gumroad-didnt-choose-htmx/)
+- Oct 03 - [Discussing the Neptunian desert, savanna, and ridge](https://mathstodon.xyz/@johncarlosbaez/113244612199214496)
+- Oct 03 - [Were RNNs All We Needed?](https://arxiv.org/abs/2410.01201)
 <!--END_SECTION:hn-->
 
 <!--
