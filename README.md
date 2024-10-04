@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 04 - [Show HN: FFmpeg-over-IP – Connect to remote FFmpeg servers](https://github.com/steelbrain/ffmpeg-over-ip)
+- Oct 04 - [Manna – Two Views of Humanity's Future (2003)](https://marshallbrain.com/manna1)
+- Oct 04 - [Gym Class (YC W22) – Hiring First Mobile Game Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/BigNKT1-mobile-game-engineer-senior-staff-principal)
 - Oct 04 - [12 Months of Mandarin](https://isaak.net/mandarin/)
-- Oct 04 - [Getting my daily news from a dot matrix printer](https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/)
-- Oct 04 - [NumPy QuadDType: Quadruple Precision for Everyone](https://labs.quansight.org/blog/numpy-quaddtype-blog)
-- Oct 04 - [Self-locking and stiffening deployable tubular structures](https://www.pnas.org/doi/10.1073/pnas.2409062121)
-- Oct 04 - [Guy does demoscene tricks to ESP32 powered display (2022)](https://theor.xyz/esp32-love-notes-demoscene/)
+- Oct 04 - [Show HN: One – A new React framework unifying web, native and local-first](https://onestack.dev)
 <!--END_SECTION:hn-->
 
 <!--
