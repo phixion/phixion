@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 04 - [Pilot flying Helene rescue missions in NC threatened with arrest](https://www.qcnews.com/news/investigations/sc-pilot-flying-volunteer-supply-and-rescue-missions-ordered-out-of-lake-lure-under-arrest-threat/)
-- Oct 04 - [Experimental web browser optimized for rabbit-holing](https://szymonkaliski.com/projects/cartographist/)
-- Oct 04 - [IRS Direct File adds 12 additional states, covers more tax situations in 2025](https://www.irs.gov/newsroom/irs-direct-file-set-to-expand-availability-in-a-dozen-new-states-and-cover-wider-range-of-tax-situations-for-the-2025-tax-filing-season)
-- Oct 04 - [Correcting the record for Continue and PearAI](https://www.ycombinator.com/blog/correcting-the-record/)
-- Oct 04 - [Sequencing wastewater may be key to getting a grip on the H5N1 bird flu outbreak](https://www.statnews.com/2024/09/27/h5n1-bird-flu-wastewater-surveillance-sequencing/)
+- Oct 04 - [Nowadays (YC S23) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/nowadays)
+- Oct 04 - [PixelVerse t1 – CoT prompting outperforms flagship LLMs](https://ai.pixelverse.tech/app/cortexchat)
+- Oct 04 - [Show HN: A tool for creating chord charts on the go](https://tiniuc.com/chord-chart-memo/)
+- Oct 04 - [OpenFLUX.1](https://huggingface.co/ostris/OpenFLUX.1)
+- Oct 04 - [C64 OS Programmer's Guide](https://www.c64os.com/c64os/programmersguide/)
 <!--END_SECTION:hn-->
 
 <!--
