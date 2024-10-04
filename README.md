@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 04 - [Nowadays (YC S23) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/nowadays)
-- Oct 04 - [PixelVerse t1 – CoT prompting outperforms flagship LLMs](https://ai.pixelverse.tech/app/cortexchat)
-- Oct 04 - [Show HN: A tool for creating chord charts on the go](https://tiniuc.com/chord-chart-memo/)
-- Oct 04 - [OpenFLUX.1](https://huggingface.co/ostris/OpenFLUX.1)
-- Oct 04 - [C64 OS Programmer's Guide](https://www.c64os.com/c64os/programmersguide/)
+- Oct 04 - [12 Months of Mandarin](https://isaak.net/mandarin/)
+- Oct 04 - [Getting my daily news from a dot matrix printer](https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/)
+- Oct 04 - [NumPy QuadDType: Quadruple Precision for Everyone](https://labs.quansight.org/blog/numpy-quaddtype-blog)
+- Oct 04 - [Self-locking and stiffening deployable tubular structures](https://www.pnas.org/doi/10.1073/pnas.2409062121)
+- Oct 04 - [Guy does demoscene tricks to ESP32 powered display (2022)](https://theor.xyz/esp32-love-notes-demoscene/)
 <!--END_SECTION:hn-->
 
 <!--
