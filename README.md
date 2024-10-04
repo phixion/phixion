@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 04 - [Correcting the Record for Pear and Continue](https://www.ycombinator.com/blog/correcting-the-record/)
+- Oct 04 - [Pilot flying Helene rescue missions in NC threatened with arrest](https://www.qcnews.com/news/investigations/sc-pilot-flying-volunteer-supply-and-rescue-missions-ordered-out-of-lake-lure-under-arrest-threat/)
+- Oct 04 - [Experimental web browser optimized for rabbit-holing](https://szymonkaliski.com/projects/cartographist/)
+- Oct 04 - [IRS Direct File adds 12 additional states, covers more tax situations in 2025](https://www.irs.gov/newsroom/irs-direct-file-set-to-expand-availability-in-a-dozen-new-states-and-cover-wider-range-of-tax-situations-for-the-2025-tax-filing-season)
+- Oct 04 - [Correcting the record for Continue and PearAI](https://www.ycombinator.com/blog/correcting-the-record/)
 - Oct 04 - [Sequencing wastewater may be key to getting a grip on the H5N1 bird flu outbreak](https://www.statnews.com/2024/09/27/h5n1-bird-flu-wastewater-surveillance-sequencing/)
-- Oct 04 - [Why does man print "gimme gimme gimme" at 00:30? (2017)](https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030)
-- Oct 04 - [Go Concurrency vs. RxJS](https://code.gdnetwork.co/blog/go-vs-rxjs)
-- Oct 04 - [SiteOne Crawler – big tool with no users](https://crawler.siteone.io/)
 <!--END_SECTION:hn-->
 
 <!--
