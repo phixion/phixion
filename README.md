@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 05 - [I Stayed](https://zeldman.com/2024/10/04/i-stayed/)
-- Oct 05 - [Gen AI Makes Legal Action Cheap – and Companies Need to Prepare](https://hbr.org/2024/10/gen-ai-makes-legal-action-cheap-and-companies-need-to-prepare)
-- Oct 05 - [Matt Mullenweg trying to change /r/Wordpress to /r/WordPress](https://old.reddit.com/r/Wordpress/comments/1fwnybm/lets_capitalize_the_p/)
-- Oct 05 - [The profit-obsessed monster destroying American emergency rooms](https://www.vox.com/health-care/374820/emergency-rooms-private-equity-hospitals-profits-no-surprises)
-- Oct 05 - [Studies suggest a drug-free nasal spray could ward off respiratory infections](https://medicalxpress.com/news/2024-09-preclinical-drug-free-nasal-spray.html)
+- Oct 05 - [Joseph Jastrow and his duck – or is it a rabbit? (2004–2020)](https://www.ocf.berkeley.edu/~jfkihlstrom/JastrowDuck.htm)
+- Oct 05 - [CoRncrete: A corn starch based building material](https://research.tudelft.nl/en/publications/corncrete-a-corn-starch-based-building-material)
+- Oct 05 - [Show HN: Open-source real-time talk-to-AI wearable device for few $](https://github.com/StarmoonAI/Starmoon)
+- Oct 05 - [World-first therapy using donor cells sends autoimmune diseases into remission](https://www.nature.com/articles/d41586-024-03209-4)
+- Oct 05 - [The Data Visualisation Catalogue: find the right method for your data](https://datavizcatalogue.com/search.html)
 <!--END_SECTION:hn-->
 
 <!--
