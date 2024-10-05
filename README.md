@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 05 - [PropelAuth (YC W22) is hiring engineers who love to write](https://www.ycombinator.com/companies/propelauth/jobs/pLMnFlZ-technical-content-creator)
-- Oct 05 - [Exploiting DRAM bitflips to get a root shell](https://bsky.app/profile/retr0.id/post/3l5qg6z36sp2a)
-- Oct 05 - [The First Transistor Radio](https://spectrum.ieee.org/transistor-radio-invented)
-- Oct 05 - [Linux from Scratch](https://www.linuxfromscratch.org/index.html)
-- Oct 05 - [Rune: A Local Music Player Reviving Zune's Classic Aesthetic with Modern Tech](https://github.com/Losses/rune)
+- Oct 05 - [I Stayed](https://zeldman.com/2024/10/04/i-stayed/)
+- Oct 05 - [Gen AI Makes Legal Action Cheap – and Companies Need to Prepare](https://hbr.org/2024/10/gen-ai-makes-legal-action-cheap-and-companies-need-to-prepare)
+- Oct 05 - [Matt Mullenweg trying to change /r/Wordpress to /r/WordPress](https://old.reddit.com/r/Wordpress/comments/1fwnybm/lets_capitalize_the_p/)
+- Oct 05 - [The profit-obsessed monster destroying American emergency rooms](https://www.vox.com/health-care/374820/emergency-rooms-private-equity-hospitals-profits-no-surprises)
+- Oct 05 - [Studies suggest a drug-free nasal spray could ward off respiratory infections](https://medicalxpress.com/news/2024-09-preclinical-drug-free-nasal-spray.html)
 <!--END_SECTION:hn-->
 
 <!--
