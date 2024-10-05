@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 04 - [Show HN: FFmpeg-over-IP – Connect to remote FFmpeg servers](https://github.com/steelbrain/ffmpeg-over-ip)
-- Oct 04 - [Manna – Two Views of Humanity's Future (2003)](https://marshallbrain.com/manna1)
-- Oct 04 - [Gym Class (YC W22) – Hiring First Mobile Game Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/BigNKT1-mobile-game-engineer-senior-staff-principal)
-- Oct 04 - [12 Months of Mandarin](https://isaak.net/mandarin/)
-- Oct 04 - [Show HN: One – A new React framework unifying web, native and local-first](https://onestack.dev)
+- Oct 04 - [Α phase-locked auditory stimulation to treat symptoms of sleep onset insomnia](https://www.nature.com/articles/s41598-024-63385-1)
+- Oct 04 - [Don't squander public trust on bullshit](https://livboeree.substack.com/p/dont-squander-public-trust-on-bullshit)
+- Oct 04 - [LLMs, Theory of Mind, and Cheryl's Birthday](https://github.com/norvig/pytudes/blob/main/ipynb/CherylMind.ipynb)
+- Oct 04 - [Bureaucrat Mode](https://andrewchen.substack.com/p/bureaucrat-mode)
+- Oct 04 - [Teenage hacker became a legend attacking companies, then his rivals attacked him](https://www.wsj.com/tech/cybersecurity/arion-kurtaj-hacker-468e6cad)
 <!--END_SECTION:hn-->
 
 <!--
