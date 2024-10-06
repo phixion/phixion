@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 05 - [WordPress Plugin Mirror Downloader (Proof of Concept)](https://github.com/centminmod/wordpress-plugin-mirror-poc)
-- Oct 05 - [Buildroot](https://buildroot.org/)
-- Oct 05 - [Continue (YC S23) Is Hiring a Developer Relations Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/il3YrJC-developer-relations-engineer)
-- Oct 05 - [Forage conservation is a neglected nitrous oxide source](https://academic.oup.com/pnasnexus/article/3/9/pgae373/7756552)
-- Oct 05 - [Lost 1983 programming language resurrected by retro computing YouTube channel](https://thenewstack.io/lost-1983-programming-language-resurrected-by-retro-compute-youtube-channel/)
+- Oct 06 - [Emirates airline bans pagers and walkie-talkies after device attacks in Lebanon](https://www.cnn.com/2024/10/05/travel/emirates-airline-bans-pagers-walkie-talkies-intl/index.html)
+- Oct 06 - [We're excited about our new roundabout](https://wsdotblog.blogspot.com/2024/10/in-case-you-cant-tell-were-really.html)
+- Oct 06 - [We need a real GNU/Linux (not Android) smartphone ecosystem](https://old.reddit.com/r/linux/comments/1fx5fq0/we_need_a_real_gnulinux_not_android_smartphone/)
+- Oct 06 - [So thieves broke into your storage unit – again](http://oldvcr.blogspot.com/2024/10/so-thieves-broke-into-your-storage-unit.html)
+- Oct 06 - [Insecure Deebot robot vacuums collect photos and audio to train AI](https://www.abc.net.au/news/2024-10-05/robot-vacuum-deebot-ecovacs-photos-ai/104416632)
 <!--END_SECTION:hn-->
 
 <!--
