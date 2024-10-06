@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 06 - [Emirates airline bans pagers and walkie-talkies after device attacks in Lebanon](https://www.cnn.com/2024/10/05/travel/emirates-airline-bans-pagers-walkie-talkies-intl/index.html)
-- Oct 06 - [We're excited about our new roundabout](https://wsdotblog.blogspot.com/2024/10/in-case-you-cant-tell-were-really.html)
+- Oct 06 - [HPy – A better C API for Python](https://hpyproject.org/)
+- Oct 06 - [Things I learned interviewing for Staff positions](https://amyunger.com/blog/2020/09/16/6-things-i-learned-interviewing.html)
+- Oct 06 - [Gokapi: Lightweight selfhosted Firefox Send alternative with AWS S3 support](https://github.com/Forceu/Gokapi)
+- Oct 06 - ["Extreme" Broadcom-proposed price hike would up VMware costs 1,050%, AT&T says](https://arstechnica.com/information-technology/2024/10/broadcom-tried-to-jack-vmware-prices-by-1050-percent-att-claims/)
 - Oct 06 - [We need a real GNU/Linux (not Android) smartphone ecosystem](https://old.reddit.com/r/linux/comments/1fx5fq0/we_need_a_real_gnulinux_not_android_smartphone/)
-- Oct 06 - [So thieves broke into your storage unit – again](http://oldvcr.blogspot.com/2024/10/so-thieves-broke-into-your-storage-unit.html)
-- Oct 06 - [Insecure Deebot robot vacuums collect photos and audio to train AI](https://www.abc.net.au/news/2024-10-05/robot-vacuum-deebot-ecovacs-photos-ai/104416632)
 <!--END_SECTION:hn-->
 
 <!--
