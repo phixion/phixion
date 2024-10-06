@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Oct 05 - [Switch - 5,397 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Switch)
 - Oct 01 - [BudTrader - 2,721,185 breached accounts](https://haveibeenpwned.com/PwnedWebsites#BudTrader)
 - Sep 30 - [Central Tickets - 722,860 breached accounts](https://haveibeenpwned.com/PwnedWebsites#CentralTickets)
 - Sep 23 - [GameVN - 1,369,485 breached accounts](https://haveibeenpwned.com/PwnedWebsites#GameVN)
 - Sep 19 - [HuntStand - 2,795,947 breached accounts](https://haveibeenpwned.com/PwnedWebsites#HuntStand)
-- Sep 16 - [Instituto Nacional de Deportes de Chile - 319,613 breached accounts](https://haveibeenpwned.com/PwnedWebsites#InstitutoNacionalDeDeportesDeChile)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 05 - [Joseph Jastrow and his duck – or is it a rabbit? (2004–2020)](https://www.ocf.berkeley.edu/~jfkihlstrom/JastrowDuck.htm)
-- Oct 05 - [CoRncrete: A corn starch based building material](https://research.tudelft.nl/en/publications/corncrete-a-corn-starch-based-building-material)
-- Oct 05 - [Show HN: Open-source real-time talk-to-AI wearable device for few $](https://github.com/StarmoonAI/Starmoon)
-- Oct 05 - [World-first therapy using donor cells sends autoimmune diseases into remission](https://www.nature.com/articles/d41586-024-03209-4)
-- Oct 05 - [The Data Visualisation Catalogue: find the right method for your data](https://datavizcatalogue.com/search.html)
+- Oct 05 - [WordPress Plugin Mirror Downloader (Proof of Concept)](https://github.com/centminmod/wordpress-plugin-mirror-poc)
+- Oct 05 - [Buildroot](https://buildroot.org/)
+- Oct 05 - [Continue (YC S23) Is Hiring a Developer Relations Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/il3YrJC-developer-relations-engineer)
+- Oct 05 - [Forage conservation is a neglected nitrous oxide source](https://academic.oup.com/pnasnexus/article/3/9/pgae373/7756552)
+- Oct 05 - [Lost 1983 programming language resurrected by retro computing YouTube channel](https://thenewstack.io/lost-1983-programming-language-resurrected-by-retro-compute-youtube-channel/)
 <!--END_SECTION:hn-->
 
 <!--
